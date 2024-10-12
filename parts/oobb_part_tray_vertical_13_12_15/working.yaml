@@ -1,3 +1,15 @@
+bip_39_word_dash_1: icon
+bip_39_word_dash_10: icon-picnic-hurry-lunch-wrap-glue-sketch-when-sorry-similar
+bip_39_word_dash_11: icon-picnic-hurry-lunch-wrap-glue-sketch-when-sorry-similar-visit
+bip_39_word_dash_12: icon-picnic-hurry-lunch-wrap-glue-sketch-when-sorry-similar-visit-ankle
+bip_39_word_dash_2: icon-picnic
+bip_39_word_dash_3: icon-picnic-hurry
+bip_39_word_dash_4: icon-picnic-hurry-lunch
+bip_39_word_dash_5: icon-picnic-hurry-lunch-wrap
+bip_39_word_dash_6: icon-picnic-hurry-lunch-wrap-glue
+bip_39_word_dash_7: icon-picnic-hurry-lunch-wrap-glue-sketch
+bip_39_word_dash_8: icon-picnic-hurry-lunch-wrap-glue-sketch-when
+bip_39_word_dash_9: icon-picnic-hurry-lunch-wrap-glue-sketch-when-sorry
 bip_39_word_new_br_1: icon
 bip_39_word_new_br_10: icon<br>picnic<br>hurry<br>lunch<br>wrap<br>glue<br>sketch<br>when<br>sorry<br>similar
 bip_39_word_new_br_11: icon<br>picnic<br>hurry<br>lunch<br>wrap<br>glue<br>sketch<br>when<br>sorry<br>similar<br>visit
@@ -193,6 +205,18 @@ bip_39_word_space_6: icon picnic hurry lunch wrap glue
 bip_39_word_space_7: icon picnic hurry lunch wrap glue sketch
 bip_39_word_space_8: icon picnic hurry lunch wrap glue sketch when
 bip_39_word_space_9: icon picnic hurry lunch wrap glue sketch when sorry
+bip_39_word_underscore_1: icon
+bip_39_word_underscore_10: icon_picnic_hurry_lunch_wrap_glue_sketch_when_sorry_similar
+bip_39_word_underscore_11: icon_picnic_hurry_lunch_wrap_glue_sketch_when_sorry_similar_visit
+bip_39_word_underscore_12: icon_picnic_hurry_lunch_wrap_glue_sketch_when_sorry_similar_visit_ankle
+bip_39_word_underscore_2: icon_picnic
+bip_39_word_underscore_3: icon_picnic_hurry
+bip_39_word_underscore_4: icon_picnic_hurry_lunch
+bip_39_word_underscore_5: icon_picnic_hurry_lunch_wrap
+bip_39_word_underscore_6: icon_picnic_hurry_lunch_wrap_glue
+bip_39_word_underscore_7: icon_picnic_hurry_lunch_wrap_glue_sketch
+bip_39_word_underscore_8: icon_picnic_hurry_lunch_wrap_glue_sketch_when
+bip_39_word_underscore_9: icon_picnic_hurry_lunch_wrap_glue_sketch_when_sorry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

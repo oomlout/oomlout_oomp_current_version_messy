@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | penalty |  
+| bip_39_word_dash_10 | penalty-viable-jewel-myself-ladder-hole-excuse-accuse-close-fringe |  
+| bip_39_word_dash_11 | penalty-viable-jewel-myself-ladder-hole-excuse-accuse-close-fringe-angle |  
+| bip_39_word_dash_12 | penalty-viable-jewel-myself-ladder-hole-excuse-accuse-close-fringe-angle-autumn |  
+| bip_39_word_dash_2 | penalty-viable |  
+| bip_39_word_dash_3 | penalty-viable-jewel |  
+| bip_39_word_dash_4 | penalty-viable-jewel-myself |  
+| bip_39_word_dash_5 | penalty-viable-jewel-myself-ladder |  
+| bip_39_word_dash_6 | penalty-viable-jewel-myself-ladder-hole |  
+| bip_39_word_dash_7 | penalty-viable-jewel-myself-ladder-hole-excuse |  
+| bip_39_word_dash_8 | penalty-viable-jewel-myself-ladder-hole-excuse-accuse |  
+| bip_39_word_dash_9 | penalty-viable-jewel-myself-ladder-hole-excuse-accuse-close |  
 | bip_39_word_new_br_1 | penalty |  
 | bip_39_word_new_br_10 | penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe |  
 | bip_39_word_new_br_11 | penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe<br>angle |  
@@ -147,6 +159,18 @@ close |
 | bip_39_word_space_7 | penalty viable jewel myself ladder hole excuse |  
 | bip_39_word_space_8 | penalty viable jewel myself ladder hole excuse accuse |  
 | bip_39_word_space_9 | penalty viable jewel myself ladder hole excuse accuse close |  
+| bip_39_word_underscore_1 | penalty |  
+| bip_39_word_underscore_10 | penalty_viable_jewel_myself_ladder_hole_excuse_accuse_close_fringe |  
+| bip_39_word_underscore_11 | penalty_viable_jewel_myself_ladder_hole_excuse_accuse_close_fringe_angle |  
+| bip_39_word_underscore_12 | penalty_viable_jewel_myself_ladder_hole_excuse_accuse_close_fringe_angle_autumn |  
+| bip_39_word_underscore_2 | penalty_viable |  
+| bip_39_word_underscore_3 | penalty_viable_jewel |  
+| bip_39_word_underscore_4 | penalty_viable_jewel_myself |  
+| bip_39_word_underscore_5 | penalty_viable_jewel_myself_ladder |  
+| bip_39_word_underscore_6 | penalty_viable_jewel_myself_ladder_hole |  
+| bip_39_word_underscore_7 | penalty_viable_jewel_myself_ladder_hole_excuse |  
+| bip_39_word_underscore_8 | penalty_viable_jewel_myself_ladder_hole_excuse_accuse |  
+| bip_39_word_underscore_9 | penalty_viable_jewel_myself_ladder_hole_excuse_accuse_close |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | food |  
+| bip_39_word_dash_10 | food-stove-worry-web-globe-canyon-combine-salmon-length-angle |  
+| bip_39_word_dash_11 | food-stove-worry-web-globe-canyon-combine-salmon-length-angle-clean |  
+| bip_39_word_dash_12 | food-stove-worry-web-globe-canyon-combine-salmon-length-angle-clean-act |  
+| bip_39_word_dash_2 | food-stove |  
+| bip_39_word_dash_3 | food-stove-worry |  
+| bip_39_word_dash_4 | food-stove-worry-web |  
+| bip_39_word_dash_5 | food-stove-worry-web-globe |  
+| bip_39_word_dash_6 | food-stove-worry-web-globe-canyon |  
+| bip_39_word_dash_7 | food-stove-worry-web-globe-canyon-combine |  
+| bip_39_word_dash_8 | food-stove-worry-web-globe-canyon-combine-salmon |  
+| bip_39_word_dash_9 | food-stove-worry-web-globe-canyon-combine-salmon-length |  
 | bip_39_word_new_br_1 | food |  
 | bip_39_word_new_br_10 | food<br>stove<br>worry<br>web<br>globe<br>canyon<br>combine<br>salmon<br>length<br>angle |  
 | bip_39_word_new_br_11 | food<br>stove<br>worry<br>web<br>globe<br>canyon<br>combine<br>salmon<br>length<br>angle<br>clean |  
@@ -147,6 +159,18 @@ length |
 | bip_39_word_space_7 | food stove worry web globe canyon combine |  
 | bip_39_word_space_8 | food stove worry web globe canyon combine salmon |  
 | bip_39_word_space_9 | food stove worry web globe canyon combine salmon length |  
+| bip_39_word_underscore_1 | food |  
+| bip_39_word_underscore_10 | food_stove_worry_web_globe_canyon_combine_salmon_length_angle |  
+| bip_39_word_underscore_11 | food_stove_worry_web_globe_canyon_combine_salmon_length_angle_clean |  
+| bip_39_word_underscore_12 | food_stove_worry_web_globe_canyon_combine_salmon_length_angle_clean_act |  
+| bip_39_word_underscore_2 | food_stove |  
+| bip_39_word_underscore_3 | food_stove_worry |  
+| bip_39_word_underscore_4 | food_stove_worry_web |  
+| bip_39_word_underscore_5 | food_stove_worry_web_globe |  
+| bip_39_word_underscore_6 | food_stove_worry_web_globe_canyon |  
+| bip_39_word_underscore_7 | food_stove_worry_web_globe_canyon_combine |  
+| bip_39_word_underscore_8 | food_stove_worry_web_globe_canyon_combine_salmon |  
+| bip_39_word_underscore_9 | food_stove_worry_web_globe_canyon_combine_salmon_length |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cup |  
+| bip_39_word_dash_10 | cup-omit-giant-glue-quit-tornado-tackle-coyote-cram-bone |  
+| bip_39_word_dash_11 | cup-omit-giant-glue-quit-tornado-tackle-coyote-cram-bone-spray |  
+| bip_39_word_dash_12 | cup-omit-giant-glue-quit-tornado-tackle-coyote-cram-bone-spray-addict |  
+| bip_39_word_dash_2 | cup-omit |  
+| bip_39_word_dash_3 | cup-omit-giant |  
+| bip_39_word_dash_4 | cup-omit-giant-glue |  
+| bip_39_word_dash_5 | cup-omit-giant-glue-quit |  
+| bip_39_word_dash_6 | cup-omit-giant-glue-quit-tornado |  
+| bip_39_word_dash_7 | cup-omit-giant-glue-quit-tornado-tackle |  
+| bip_39_word_dash_8 | cup-omit-giant-glue-quit-tornado-tackle-coyote |  
+| bip_39_word_dash_9 | cup-omit-giant-glue-quit-tornado-tackle-coyote-cram |  
 | bip_39_word_new_br_1 | cup |  
 | bip_39_word_new_br_10 | cup<br>omit<br>giant<br>glue<br>quit<br>tornado<br>tackle<br>coyote<br>cram<br>bone |  
 | bip_39_word_new_br_11 | cup<br>omit<br>giant<br>glue<br>quit<br>tornado<br>tackle<br>coyote<br>cram<br>bone<br>spray |  
@@ -147,6 +159,18 @@ cram |
 | bip_39_word_space_7 | cup omit giant glue quit tornado tackle |  
 | bip_39_word_space_8 | cup omit giant glue quit tornado tackle coyote |  
 | bip_39_word_space_9 | cup omit giant glue quit tornado tackle coyote cram |  
+| bip_39_word_underscore_1 | cup |  
+| bip_39_word_underscore_10 | cup_omit_giant_glue_quit_tornado_tackle_coyote_cram_bone |  
+| bip_39_word_underscore_11 | cup_omit_giant_glue_quit_tornado_tackle_coyote_cram_bone_spray |  
+| bip_39_word_underscore_12 | cup_omit_giant_glue_quit_tornado_tackle_coyote_cram_bone_spray_addict |  
+| bip_39_word_underscore_2 | cup_omit |  
+| bip_39_word_underscore_3 | cup_omit_giant |  
+| bip_39_word_underscore_4 | cup_omit_giant_glue |  
+| bip_39_word_underscore_5 | cup_omit_giant_glue_quit |  
+| bip_39_word_underscore_6 | cup_omit_giant_glue_quit_tornado |  
+| bip_39_word_underscore_7 | cup_omit_giant_glue_quit_tornado_tackle |  
+| bip_39_word_underscore_8 | cup_omit_giant_glue_quit_tornado_tackle_coyote |  
+| bip_39_word_underscore_9 | cup_omit_giant_glue_quit_tornado_tackle_coyote_cram |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

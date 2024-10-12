@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elite |  
+| bip_39_word_dash_10 | elite-install-swim-script-raccoon-toy-aspect-hammer-art-target |  
+| bip_39_word_dash_11 | elite-install-swim-script-raccoon-toy-aspect-hammer-art-target-inherit |  
+| bip_39_word_dash_12 | elite-install-swim-script-raccoon-toy-aspect-hammer-art-target-inherit-about |  
+| bip_39_word_dash_2 | elite-install |  
+| bip_39_word_dash_3 | elite-install-swim |  
+| bip_39_word_dash_4 | elite-install-swim-script |  
+| bip_39_word_dash_5 | elite-install-swim-script-raccoon |  
+| bip_39_word_dash_6 | elite-install-swim-script-raccoon-toy |  
+| bip_39_word_dash_7 | elite-install-swim-script-raccoon-toy-aspect |  
+| bip_39_word_dash_8 | elite-install-swim-script-raccoon-toy-aspect-hammer |  
+| bip_39_word_dash_9 | elite-install-swim-script-raccoon-toy-aspect-hammer-art |  
 | bip_39_word_new_br_1 | elite |  
 | bip_39_word_new_br_10 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer<br>art<br>target |  
 | bip_39_word_new_br_11 | elite<br>install<br>swim<br>script<br>raccoon<br>toy<br>aspect<br>hammer<br>art<br>target<br>inherit |  
@@ -147,6 +159,18 @@ art |
 | bip_39_word_space_7 | elite install swim script raccoon toy aspect |  
 | bip_39_word_space_8 | elite install swim script raccoon toy aspect hammer |  
 | bip_39_word_space_9 | elite install swim script raccoon toy aspect hammer art |  
+| bip_39_word_underscore_1 | elite |  
+| bip_39_word_underscore_10 | elite_install_swim_script_raccoon_toy_aspect_hammer_art_target |  
+| bip_39_word_underscore_11 | elite_install_swim_script_raccoon_toy_aspect_hammer_art_target_inherit |  
+| bip_39_word_underscore_12 | elite_install_swim_script_raccoon_toy_aspect_hammer_art_target_inherit_about |  
+| bip_39_word_underscore_2 | elite_install |  
+| bip_39_word_underscore_3 | elite_install_swim |  
+| bip_39_word_underscore_4 | elite_install_swim_script |  
+| bip_39_word_underscore_5 | elite_install_swim_script_raccoon |  
+| bip_39_word_underscore_6 | elite_install_swim_script_raccoon_toy |  
+| bip_39_word_underscore_7 | elite_install_swim_script_raccoon_toy_aspect |  
+| bip_39_word_underscore_8 | elite_install_swim_script_raccoon_toy_aspect_hammer |  
+| bip_39_word_underscore_9 | elite_install_swim_script_raccoon_toy_aspect_hammer_art |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

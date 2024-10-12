@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dizzy |  
+| bip_39_word_dash_10 | dizzy-sail-bench-pair-age-filter-olive-visa-impact-junk |  
+| bip_39_word_dash_11 | dizzy-sail-bench-pair-age-filter-olive-visa-impact-junk-churn |  
+| bip_39_word_dash_12 | dizzy-sail-bench-pair-age-filter-olive-visa-impact-junk-churn-audit |  
+| bip_39_word_dash_2 | dizzy-sail |  
+| bip_39_word_dash_3 | dizzy-sail-bench |  
+| bip_39_word_dash_4 | dizzy-sail-bench-pair |  
+| bip_39_word_dash_5 | dizzy-sail-bench-pair-age |  
+| bip_39_word_dash_6 | dizzy-sail-bench-pair-age-filter |  
+| bip_39_word_dash_7 | dizzy-sail-bench-pair-age-filter-olive |  
+| bip_39_word_dash_8 | dizzy-sail-bench-pair-age-filter-olive-visa |  
+| bip_39_word_dash_9 | dizzy-sail-bench-pair-age-filter-olive-visa-impact |  
 | bip_39_word_new_br_1 | dizzy |  
 | bip_39_word_new_br_10 | dizzy<br>sail<br>bench<br>pair<br>age<br>filter<br>olive<br>visa<br>impact<br>junk |  
 | bip_39_word_new_br_11 | dizzy<br>sail<br>bench<br>pair<br>age<br>filter<br>olive<br>visa<br>impact<br>junk<br>churn |  
@@ -147,6 +159,18 @@ impact |
 | bip_39_word_space_7 | dizzy sail bench pair age filter olive |  
 | bip_39_word_space_8 | dizzy sail bench pair age filter olive visa |  
 | bip_39_word_space_9 | dizzy sail bench pair age filter olive visa impact |  
+| bip_39_word_underscore_1 | dizzy |  
+| bip_39_word_underscore_10 | dizzy_sail_bench_pair_age_filter_olive_visa_impact_junk |  
+| bip_39_word_underscore_11 | dizzy_sail_bench_pair_age_filter_olive_visa_impact_junk_churn |  
+| bip_39_word_underscore_12 | dizzy_sail_bench_pair_age_filter_olive_visa_impact_junk_churn_audit |  
+| bip_39_word_underscore_2 | dizzy_sail |  
+| bip_39_word_underscore_3 | dizzy_sail_bench |  
+| bip_39_word_underscore_4 | dizzy_sail_bench_pair |  
+| bip_39_word_underscore_5 | dizzy_sail_bench_pair_age |  
+| bip_39_word_underscore_6 | dizzy_sail_bench_pair_age_filter |  
+| bip_39_word_underscore_7 | dizzy_sail_bench_pair_age_filter_olive |  
+| bip_39_word_underscore_8 | dizzy_sail_bench_pair_age_filter_olive_visa |  
+| bip_39_word_underscore_9 | dizzy_sail_bench_pair_age_filter_olive_visa_impact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

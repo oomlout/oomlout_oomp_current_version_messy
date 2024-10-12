@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | giant |  
+| bip_39_word_dash_10 | giant-network-wet-enforce-patrol-umbrella-inspire-public-abandon-hybrid |  
+| bip_39_word_dash_11 | giant-network-wet-enforce-patrol-umbrella-inspire-public-abandon-hybrid-tenant |  
+| bip_39_word_dash_12 | giant-network-wet-enforce-patrol-umbrella-inspire-public-abandon-hybrid-tenant-afford |  
+| bip_39_word_dash_2 | giant-network |  
+| bip_39_word_dash_3 | giant-network-wet |  
+| bip_39_word_dash_4 | giant-network-wet-enforce |  
+| bip_39_word_dash_5 | giant-network-wet-enforce-patrol |  
+| bip_39_word_dash_6 | giant-network-wet-enforce-patrol-umbrella |  
+| bip_39_word_dash_7 | giant-network-wet-enforce-patrol-umbrella-inspire |  
+| bip_39_word_dash_8 | giant-network-wet-enforce-patrol-umbrella-inspire-public |  
+| bip_39_word_dash_9 | giant-network-wet-enforce-patrol-umbrella-inspire-public-abandon |  
 | bip_39_word_new_br_1 | giant |  
 | bip_39_word_new_br_10 | giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public<br>abandon<br>hybrid |  
 | bip_39_word_new_br_11 | giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public<br>abandon<br>hybrid<br>tenant |  
@@ -147,6 +159,18 @@ abandon |
 | bip_39_word_space_7 | giant network wet enforce patrol umbrella inspire |  
 | bip_39_word_space_8 | giant network wet enforce patrol umbrella inspire public |  
 | bip_39_word_space_9 | giant network wet enforce patrol umbrella inspire public abandon |  
+| bip_39_word_underscore_1 | giant |  
+| bip_39_word_underscore_10 | giant_network_wet_enforce_patrol_umbrella_inspire_public_abandon_hybrid |  
+| bip_39_word_underscore_11 | giant_network_wet_enforce_patrol_umbrella_inspire_public_abandon_hybrid_tenant |  
+| bip_39_word_underscore_12 | giant_network_wet_enforce_patrol_umbrella_inspire_public_abandon_hybrid_tenant_afford |  
+| bip_39_word_underscore_2 | giant_network |  
+| bip_39_word_underscore_3 | giant_network_wet |  
+| bip_39_word_underscore_4 | giant_network_wet_enforce |  
+| bip_39_word_underscore_5 | giant_network_wet_enforce_patrol |  
+| bip_39_word_underscore_6 | giant_network_wet_enforce_patrol_umbrella |  
+| bip_39_word_underscore_7 | giant_network_wet_enforce_patrol_umbrella_inspire |  
+| bip_39_word_underscore_8 | giant_network_wet_enforce_patrol_umbrella_inspire_public |  
+| bip_39_word_underscore_9 | giant_network_wet_enforce_patrol_umbrella_inspire_public_abandon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

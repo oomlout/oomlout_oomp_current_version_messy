@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | segment |  
+| bip_39_word_dash_10 | segment-fancy-include-hawk-obvious-pull-chair-alone-enlist-marriage |  
+| bip_39_word_dash_11 | segment-fancy-include-hawk-obvious-pull-chair-alone-enlist-marriage-year |  
+| bip_39_word_dash_12 | segment-fancy-include-hawk-obvious-pull-chair-alone-enlist-marriage-year-aisle |  
+| bip_39_word_dash_2 | segment-fancy |  
+| bip_39_word_dash_3 | segment-fancy-include |  
+| bip_39_word_dash_4 | segment-fancy-include-hawk |  
+| bip_39_word_dash_5 | segment-fancy-include-hawk-obvious |  
+| bip_39_word_dash_6 | segment-fancy-include-hawk-obvious-pull |  
+| bip_39_word_dash_7 | segment-fancy-include-hawk-obvious-pull-chair |  
+| bip_39_word_dash_8 | segment-fancy-include-hawk-obvious-pull-chair-alone |  
+| bip_39_word_dash_9 | segment-fancy-include-hawk-obvious-pull-chair-alone-enlist |  
 | bip_39_word_new_br_1 | segment |  
 | bip_39_word_new_br_10 | segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage |  
 | bip_39_word_new_br_11 | segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage<br>year |  
@@ -147,6 +159,18 @@ enlist |
 | bip_39_word_space_7 | segment fancy include hawk obvious pull chair |  
 | bip_39_word_space_8 | segment fancy include hawk obvious pull chair alone |  
 | bip_39_word_space_9 | segment fancy include hawk obvious pull chair alone enlist |  
+| bip_39_word_underscore_1 | segment |  
+| bip_39_word_underscore_10 | segment_fancy_include_hawk_obvious_pull_chair_alone_enlist_marriage |  
+| bip_39_word_underscore_11 | segment_fancy_include_hawk_obvious_pull_chair_alone_enlist_marriage_year |  
+| bip_39_word_underscore_12 | segment_fancy_include_hawk_obvious_pull_chair_alone_enlist_marriage_year_aisle |  
+| bip_39_word_underscore_2 | segment_fancy |  
+| bip_39_word_underscore_3 | segment_fancy_include |  
+| bip_39_word_underscore_4 | segment_fancy_include_hawk |  
+| bip_39_word_underscore_5 | segment_fancy_include_hawk_obvious |  
+| bip_39_word_underscore_6 | segment_fancy_include_hawk_obvious_pull |  
+| bip_39_word_underscore_7 | segment_fancy_include_hawk_obvious_pull_chair |  
+| bip_39_word_underscore_8 | segment_fancy_include_hawk_obvious_pull_chair_alone |  
+| bip_39_word_underscore_9 | segment_fancy_include_hawk_obvious_pull_chair_alone_enlist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: loop
+bip_39_word_dash_10: loop-solar-bounce-stereo-thumb-elite-silk-type-clever-merry
+bip_39_word_dash_11: loop-solar-bounce-stereo-thumb-elite-silk-type-clever-merry-sister
+bip_39_word_dash_12: loop-solar-bounce-stereo-thumb-elite-silk-type-clever-merry-sister-alien
+bip_39_word_dash_2: loop-solar
+bip_39_word_dash_3: loop-solar-bounce
+bip_39_word_dash_4: loop-solar-bounce-stereo
+bip_39_word_dash_5: loop-solar-bounce-stereo-thumb
+bip_39_word_dash_6: loop-solar-bounce-stereo-thumb-elite
+bip_39_word_dash_7: loop-solar-bounce-stereo-thumb-elite-silk
+bip_39_word_dash_8: loop-solar-bounce-stereo-thumb-elite-silk-type
+bip_39_word_dash_9: loop-solar-bounce-stereo-thumb-elite-silk-type-clever
 bip_39_word_new_br_1: loop
 bip_39_word_new_br_10: loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type<br>clever<br>merry
 bip_39_word_new_br_11: loop<br>solar<br>bounce<br>stereo<br>thumb<br>elite<br>silk<br>type<br>clever<br>merry<br>sister
@@ -193,6 +205,18 @@ bip_39_word_space_6: loop solar bounce stereo thumb elite
 bip_39_word_space_7: loop solar bounce stereo thumb elite silk
 bip_39_word_space_8: loop solar bounce stereo thumb elite silk type
 bip_39_word_space_9: loop solar bounce stereo thumb elite silk type clever
+bip_39_word_underscore_1: loop
+bip_39_word_underscore_10: loop_solar_bounce_stereo_thumb_elite_silk_type_clever_merry
+bip_39_word_underscore_11: loop_solar_bounce_stereo_thumb_elite_silk_type_clever_merry_sister
+bip_39_word_underscore_12: loop_solar_bounce_stereo_thumb_elite_silk_type_clever_merry_sister_alien
+bip_39_word_underscore_2: loop_solar
+bip_39_word_underscore_3: loop_solar_bounce
+bip_39_word_underscore_4: loop_solar_bounce_stereo
+bip_39_word_underscore_5: loop_solar_bounce_stereo_thumb
+bip_39_word_underscore_6: loop_solar_bounce_stereo_thumb_elite
+bip_39_word_underscore_7: loop_solar_bounce_stereo_thumb_elite_silk
+bip_39_word_underscore_8: loop_solar_bounce_stereo_thumb_elite_silk_type
+bip_39_word_underscore_9: loop_solar_bounce_stereo_thumb_elite_silk_type_clever
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

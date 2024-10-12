@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toddler |  
+| bip_39_word_dash_10 | toddler-engine-usual-increase-report-donkey-festival-sail-sad-mercy |  
+| bip_39_word_dash_11 | toddler-engine-usual-increase-report-donkey-festival-sail-sad-mercy-cigar |  
+| bip_39_word_dash_12 | toddler-engine-usual-increase-report-donkey-festival-sail-sad-mercy-cigar-alien |  
+| bip_39_word_dash_2 | toddler-engine |  
+| bip_39_word_dash_3 | toddler-engine-usual |  
+| bip_39_word_dash_4 | toddler-engine-usual-increase |  
+| bip_39_word_dash_5 | toddler-engine-usual-increase-report |  
+| bip_39_word_dash_6 | toddler-engine-usual-increase-report-donkey |  
+| bip_39_word_dash_7 | toddler-engine-usual-increase-report-donkey-festival |  
+| bip_39_word_dash_8 | toddler-engine-usual-increase-report-donkey-festival-sail |  
+| bip_39_word_dash_9 | toddler-engine-usual-increase-report-donkey-festival-sail-sad |  
 | bip_39_word_new_br_1 | toddler |  
 | bip_39_word_new_br_10 | toddler<br>engine<br>usual<br>increase<br>report<br>donkey<br>festival<br>sail<br>sad<br>mercy |  
 | bip_39_word_new_br_11 | toddler<br>engine<br>usual<br>increase<br>report<br>donkey<br>festival<br>sail<br>sad<br>mercy<br>cigar |  
@@ -147,6 +159,18 @@ sad |
 | bip_39_word_space_7 | toddler engine usual increase report donkey festival |  
 | bip_39_word_space_8 | toddler engine usual increase report donkey festival sail |  
 | bip_39_word_space_9 | toddler engine usual increase report donkey festival sail sad |  
+| bip_39_word_underscore_1 | toddler |  
+| bip_39_word_underscore_10 | toddler_engine_usual_increase_report_donkey_festival_sail_sad_mercy |  
+| bip_39_word_underscore_11 | toddler_engine_usual_increase_report_donkey_festival_sail_sad_mercy_cigar |  
+| bip_39_word_underscore_12 | toddler_engine_usual_increase_report_donkey_festival_sail_sad_mercy_cigar_alien |  
+| bip_39_word_underscore_2 | toddler_engine |  
+| bip_39_word_underscore_3 | toddler_engine_usual |  
+| bip_39_word_underscore_4 | toddler_engine_usual_increase |  
+| bip_39_word_underscore_5 | toddler_engine_usual_increase_report |  
+| bip_39_word_underscore_6 | toddler_engine_usual_increase_report_donkey |  
+| bip_39_word_underscore_7 | toddler_engine_usual_increase_report_donkey_festival |  
+| bip_39_word_underscore_8 | toddler_engine_usual_increase_report_donkey_festival_sail |  
+| bip_39_word_underscore_9 | toddler_engine_usual_increase_report_donkey_festival_sail_sad |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

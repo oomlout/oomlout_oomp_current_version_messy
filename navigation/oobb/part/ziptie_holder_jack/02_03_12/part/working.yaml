@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clap
+bip_39_word_dash_10: clap-chief-swap-gym-day-health-have-arch-diary-key
+bip_39_word_dash_11: clap-chief-swap-gym-day-health-have-arch-diary-key-quantum
+bip_39_word_dash_12: clap-chief-swap-gym-day-health-have-arch-diary-key-quantum-assault
+bip_39_word_dash_2: clap-chief
+bip_39_word_dash_3: clap-chief-swap
+bip_39_word_dash_4: clap-chief-swap-gym
+bip_39_word_dash_5: clap-chief-swap-gym-day
+bip_39_word_dash_6: clap-chief-swap-gym-day-health
+bip_39_word_dash_7: clap-chief-swap-gym-day-health-have
+bip_39_word_dash_8: clap-chief-swap-gym-day-health-have-arch
+bip_39_word_dash_9: clap-chief-swap-gym-day-health-have-arch-diary
 bip_39_word_new_br_1: clap
 bip_39_word_new_br_10: clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch<br>diary<br>key
 bip_39_word_new_br_11: clap<br>chief<br>swap<br>gym<br>day<br>health<br>have<br>arch<br>diary<br>key<br>quantum
@@ -191,6 +203,18 @@ bip_39_word_space_6: clap chief swap gym day health
 bip_39_word_space_7: clap chief swap gym day health have
 bip_39_word_space_8: clap chief swap gym day health have arch
 bip_39_word_space_9: clap chief swap gym day health have arch diary
+bip_39_word_underscore_1: clap
+bip_39_word_underscore_10: clap_chief_swap_gym_day_health_have_arch_diary_key
+bip_39_word_underscore_11: clap_chief_swap_gym_day_health_have_arch_diary_key_quantum
+bip_39_word_underscore_12: clap_chief_swap_gym_day_health_have_arch_diary_key_quantum_assault
+bip_39_word_underscore_2: clap_chief
+bip_39_word_underscore_3: clap_chief_swap
+bip_39_word_underscore_4: clap_chief_swap_gym
+bip_39_word_underscore_5: clap_chief_swap_gym_day
+bip_39_word_underscore_6: clap_chief_swap_gym_day_health
+bip_39_word_underscore_7: clap_chief_swap_gym_day_health_have
+bip_39_word_underscore_8: clap_chief_swap_gym_day_health_have_arch
+bip_39_word_underscore_9: clap_chief_swap_gym_day_health_have_arch_diary
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

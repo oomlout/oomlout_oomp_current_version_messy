@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assume |  
+| bip_39_word_dash_10 | assume-alcohol-innocent-great-globe-connect-joke-abuse-measure-check |  
+| bip_39_word_dash_11 | assume-alcohol-innocent-great-globe-connect-joke-abuse-measure-check-theory |  
+| bip_39_word_dash_12 | assume-alcohol-innocent-great-globe-connect-joke-abuse-measure-check-theory-actress |  
+| bip_39_word_dash_2 | assume-alcohol |  
+| bip_39_word_dash_3 | assume-alcohol-innocent |  
+| bip_39_word_dash_4 | assume-alcohol-innocent-great |  
+| bip_39_word_dash_5 | assume-alcohol-innocent-great-globe |  
+| bip_39_word_dash_6 | assume-alcohol-innocent-great-globe-connect |  
+| bip_39_word_dash_7 | assume-alcohol-innocent-great-globe-connect-joke |  
+| bip_39_word_dash_8 | assume-alcohol-innocent-great-globe-connect-joke-abuse |  
+| bip_39_word_dash_9 | assume-alcohol-innocent-great-globe-connect-joke-abuse-measure |  
 | bip_39_word_new_br_1 | assume |  
 | bip_39_word_new_br_10 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse<br>measure<br>check |  
 | bip_39_word_new_br_11 | assume<br>alcohol<br>innocent<br>great<br>globe<br>connect<br>joke<br>abuse<br>measure<br>check<br>theory |  
@@ -147,6 +159,18 @@ measure |
 | bip_39_word_space_7 | assume alcohol innocent great globe connect joke |  
 | bip_39_word_space_8 | assume alcohol innocent great globe connect joke abuse |  
 | bip_39_word_space_9 | assume alcohol innocent great globe connect joke abuse measure |  
+| bip_39_word_underscore_1 | assume |  
+| bip_39_word_underscore_10 | assume_alcohol_innocent_great_globe_connect_joke_abuse_measure_check |  
+| bip_39_word_underscore_11 | assume_alcohol_innocent_great_globe_connect_joke_abuse_measure_check_theory |  
+| bip_39_word_underscore_12 | assume_alcohol_innocent_great_globe_connect_joke_abuse_measure_check_theory_actress |  
+| bip_39_word_underscore_2 | assume_alcohol |  
+| bip_39_word_underscore_3 | assume_alcohol_innocent |  
+| bip_39_word_underscore_4 | assume_alcohol_innocent_great |  
+| bip_39_word_underscore_5 | assume_alcohol_innocent_great_globe |  
+| bip_39_word_underscore_6 | assume_alcohol_innocent_great_globe_connect |  
+| bip_39_word_underscore_7 | assume_alcohol_innocent_great_globe_connect_joke |  
+| bip_39_word_underscore_8 | assume_alcohol_innocent_great_globe_connect_joke_abuse |  
+| bip_39_word_underscore_9 | assume_alcohol_innocent_great_globe_connect_joke_abuse_measure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

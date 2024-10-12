@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fox |  
+| bip_39_word_dash_10 | fox-opera-plastic-odor-tent-occur-increase-local-fog-quiz |  
+| bip_39_word_dash_11 | fox-opera-plastic-odor-tent-occur-increase-local-fog-quiz-local |  
+| bip_39_word_dash_12 | fox-opera-plastic-odor-tent-occur-increase-local-fog-quiz-local-april |  
+| bip_39_word_dash_2 | fox-opera |  
+| bip_39_word_dash_3 | fox-opera-plastic |  
+| bip_39_word_dash_4 | fox-opera-plastic-odor |  
+| bip_39_word_dash_5 | fox-opera-plastic-odor-tent |  
+| bip_39_word_dash_6 | fox-opera-plastic-odor-tent-occur |  
+| bip_39_word_dash_7 | fox-opera-plastic-odor-tent-occur-increase |  
+| bip_39_word_dash_8 | fox-opera-plastic-odor-tent-occur-increase-local |  
+| bip_39_word_dash_9 | fox-opera-plastic-odor-tent-occur-increase-local-fog |  
 | bip_39_word_new_br_1 | fox |  
 | bip_39_word_new_br_10 | fox<br>opera<br>plastic<br>odor<br>tent<br>occur<br>increase<br>local<br>fog<br>quiz |  
 | bip_39_word_new_br_11 | fox<br>opera<br>plastic<br>odor<br>tent<br>occur<br>increase<br>local<br>fog<br>quiz<br>local |  
@@ -147,6 +159,18 @@ fog |
 | bip_39_word_space_7 | fox opera plastic odor tent occur increase |  
 | bip_39_word_space_8 | fox opera plastic odor tent occur increase local |  
 | bip_39_word_space_9 | fox opera plastic odor tent occur increase local fog |  
+| bip_39_word_underscore_1 | fox |  
+| bip_39_word_underscore_10 | fox_opera_plastic_odor_tent_occur_increase_local_fog_quiz |  
+| bip_39_word_underscore_11 | fox_opera_plastic_odor_tent_occur_increase_local_fog_quiz_local |  
+| bip_39_word_underscore_12 | fox_opera_plastic_odor_tent_occur_increase_local_fog_quiz_local_april |  
+| bip_39_word_underscore_2 | fox_opera |  
+| bip_39_word_underscore_3 | fox_opera_plastic |  
+| bip_39_word_underscore_4 | fox_opera_plastic_odor |  
+| bip_39_word_underscore_5 | fox_opera_plastic_odor_tent |  
+| bip_39_word_underscore_6 | fox_opera_plastic_odor_tent_occur |  
+| bip_39_word_underscore_7 | fox_opera_plastic_odor_tent_occur_increase |  
+| bip_39_word_underscore_8 | fox_opera_plastic_odor_tent_occur_increase_local |  
+| bip_39_word_underscore_9 | fox_opera_plastic_odor_tent_occur_increase_local_fog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

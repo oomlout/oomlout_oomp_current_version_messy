@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | impose |  
+| bip_39_word_dash_10 | impose-discover-galaxy-future-film-once-zebra-husband-deny-april |  
+| bip_39_word_dash_11 | impose-discover-galaxy-future-film-once-zebra-husband-deny-april-muscle |  
+| bip_39_word_dash_12 | impose-discover-galaxy-future-film-once-zebra-husband-deny-april-muscle-attend |  
+| bip_39_word_dash_2 | impose-discover |  
+| bip_39_word_dash_3 | impose-discover-galaxy |  
+| bip_39_word_dash_4 | impose-discover-galaxy-future |  
+| bip_39_word_dash_5 | impose-discover-galaxy-future-film |  
+| bip_39_word_dash_6 | impose-discover-galaxy-future-film-once |  
+| bip_39_word_dash_7 | impose-discover-galaxy-future-film-once-zebra |  
+| bip_39_word_dash_8 | impose-discover-galaxy-future-film-once-zebra-husband |  
+| bip_39_word_dash_9 | impose-discover-galaxy-future-film-once-zebra-husband-deny |  
 | bip_39_word_new_br_1 | impose |  
 | bip_39_word_new_br_10 | impose<br>discover<br>galaxy<br>future<br>film<br>once<br>zebra<br>husband<br>deny<br>april |  
 | bip_39_word_new_br_11 | impose<br>discover<br>galaxy<br>future<br>film<br>once<br>zebra<br>husband<br>deny<br>april<br>muscle |  
@@ -147,6 +159,18 @@ deny |
 | bip_39_word_space_7 | impose discover galaxy future film once zebra |  
 | bip_39_word_space_8 | impose discover galaxy future film once zebra husband |  
 | bip_39_word_space_9 | impose discover galaxy future film once zebra husband deny |  
+| bip_39_word_underscore_1 | impose |  
+| bip_39_word_underscore_10 | impose_discover_galaxy_future_film_once_zebra_husband_deny_april |  
+| bip_39_word_underscore_11 | impose_discover_galaxy_future_film_once_zebra_husband_deny_april_muscle |  
+| bip_39_word_underscore_12 | impose_discover_galaxy_future_film_once_zebra_husband_deny_april_muscle_attend |  
+| bip_39_word_underscore_2 | impose_discover |  
+| bip_39_word_underscore_3 | impose_discover_galaxy |  
+| bip_39_word_underscore_4 | impose_discover_galaxy_future |  
+| bip_39_word_underscore_5 | impose_discover_galaxy_future_film |  
+| bip_39_word_underscore_6 | impose_discover_galaxy_future_film_once |  
+| bip_39_word_underscore_7 | impose_discover_galaxy_future_film_once_zebra |  
+| bip_39_word_underscore_8 | impose_discover_galaxy_future_film_once_zebra_husband |  
+| bip_39_word_underscore_9 | impose_discover_galaxy_future_film_once_zebra_husband_deny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

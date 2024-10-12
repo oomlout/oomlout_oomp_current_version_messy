@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silver |  
+| bip_39_word_dash_10 | silver-more-vague-charge-dolphin-bring-april-scheme-celery-bench |  
+| bip_39_word_dash_11 | silver-more-vague-charge-dolphin-bring-april-scheme-celery-bench-book |  
+| bip_39_word_dash_12 | silver-more-vague-charge-dolphin-bring-april-scheme-celery-bench-book-announce |  
+| bip_39_word_dash_2 | silver-more |  
+| bip_39_word_dash_3 | silver-more-vague |  
+| bip_39_word_dash_4 | silver-more-vague-charge |  
+| bip_39_word_dash_5 | silver-more-vague-charge-dolphin |  
+| bip_39_word_dash_6 | silver-more-vague-charge-dolphin-bring |  
+| bip_39_word_dash_7 | silver-more-vague-charge-dolphin-bring-april |  
+| bip_39_word_dash_8 | silver-more-vague-charge-dolphin-bring-april-scheme |  
+| bip_39_word_dash_9 | silver-more-vague-charge-dolphin-bring-april-scheme-celery |  
 | bip_39_word_new_br_1 | silver |  
 | bip_39_word_new_br_10 | silver<br>more<br>vague<br>charge<br>dolphin<br>bring<br>april<br>scheme<br>celery<br>bench |  
 | bip_39_word_new_br_11 | silver<br>more<br>vague<br>charge<br>dolphin<br>bring<br>april<br>scheme<br>celery<br>bench<br>book |  
@@ -147,6 +159,18 @@ celery |
 | bip_39_word_space_7 | silver more vague charge dolphin bring april |  
 | bip_39_word_space_8 | silver more vague charge dolphin bring april scheme |  
 | bip_39_word_space_9 | silver more vague charge dolphin bring april scheme celery |  
+| bip_39_word_underscore_1 | silver |  
+| bip_39_word_underscore_10 | silver_more_vague_charge_dolphin_bring_april_scheme_celery_bench |  
+| bip_39_word_underscore_11 | silver_more_vague_charge_dolphin_bring_april_scheme_celery_bench_book |  
+| bip_39_word_underscore_12 | silver_more_vague_charge_dolphin_bring_april_scheme_celery_bench_book_announce |  
+| bip_39_word_underscore_2 | silver_more |  
+| bip_39_word_underscore_3 | silver_more_vague |  
+| bip_39_word_underscore_4 | silver_more_vague_charge |  
+| bip_39_word_underscore_5 | silver_more_vague_charge_dolphin |  
+| bip_39_word_underscore_6 | silver_more_vague_charge_dolphin_bring |  
+| bip_39_word_underscore_7 | silver_more_vague_charge_dolphin_bring_april |  
+| bip_39_word_underscore_8 | silver_more_vague_charge_dolphin_bring_april_scheme |  
+| bip_39_word_underscore_9 | silver_more_vague_charge_dolphin_bring_april_scheme_celery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

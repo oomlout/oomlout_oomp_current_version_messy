@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | joke |  
+| bip_39_word_dash_10 | joke-useful-uphold-garbage-ship-dice-plate-adult-stock-step |  
+| bip_39_word_dash_11 | joke-useful-uphold-garbage-ship-dice-plate-adult-stock-step-just |  
+| bip_39_word_dash_12 | joke-useful-uphold-garbage-ship-dice-plate-adult-stock-step-just-arrive |  
+| bip_39_word_dash_2 | joke-useful |  
+| bip_39_word_dash_3 | joke-useful-uphold |  
+| bip_39_word_dash_4 | joke-useful-uphold-garbage |  
+| bip_39_word_dash_5 | joke-useful-uphold-garbage-ship |  
+| bip_39_word_dash_6 | joke-useful-uphold-garbage-ship-dice |  
+| bip_39_word_dash_7 | joke-useful-uphold-garbage-ship-dice-plate |  
+| bip_39_word_dash_8 | joke-useful-uphold-garbage-ship-dice-plate-adult |  
+| bip_39_word_dash_9 | joke-useful-uphold-garbage-ship-dice-plate-adult-stock |  
 | bip_39_word_new_br_1 | joke |  
 | bip_39_word_new_br_10 | joke<br>useful<br>uphold<br>garbage<br>ship<br>dice<br>plate<br>adult<br>stock<br>step |  
 | bip_39_word_new_br_11 | joke<br>useful<br>uphold<br>garbage<br>ship<br>dice<br>plate<br>adult<br>stock<br>step<br>just |  
@@ -147,6 +159,18 @@ stock |
 | bip_39_word_space_7 | joke useful uphold garbage ship dice plate |  
 | bip_39_word_space_8 | joke useful uphold garbage ship dice plate adult |  
 | bip_39_word_space_9 | joke useful uphold garbage ship dice plate adult stock |  
+| bip_39_word_underscore_1 | joke |  
+| bip_39_word_underscore_10 | joke_useful_uphold_garbage_ship_dice_plate_adult_stock_step |  
+| bip_39_word_underscore_11 | joke_useful_uphold_garbage_ship_dice_plate_adult_stock_step_just |  
+| bip_39_word_underscore_12 | joke_useful_uphold_garbage_ship_dice_plate_adult_stock_step_just_arrive |  
+| bip_39_word_underscore_2 | joke_useful |  
+| bip_39_word_underscore_3 | joke_useful_uphold |  
+| bip_39_word_underscore_4 | joke_useful_uphold_garbage |  
+| bip_39_word_underscore_5 | joke_useful_uphold_garbage_ship |  
+| bip_39_word_underscore_6 | joke_useful_uphold_garbage_ship_dice |  
+| bip_39_word_underscore_7 | joke_useful_uphold_garbage_ship_dice_plate |  
+| bip_39_word_underscore_8 | joke_useful_uphold_garbage_ship_dice_plate_adult |  
+| bip_39_word_underscore_9 | joke_useful_uphold_garbage_ship_dice_plate_adult_stock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

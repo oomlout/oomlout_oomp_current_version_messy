@@ -1,3 +1,15 @@
+bip_39_word_dash_1: devote
+bip_39_word_dash_10: devote-market-mimic-strike-desk-year-number-devote-joy-wink
+bip_39_word_dash_11: devote-market-mimic-strike-desk-year-number-devote-joy-wink-faith
+bip_39_word_dash_12: devote-market-mimic-strike-desk-year-number-devote-joy-wink-faith-announce
+bip_39_word_dash_2: devote-market
+bip_39_word_dash_3: devote-market-mimic
+bip_39_word_dash_4: devote-market-mimic-strike
+bip_39_word_dash_5: devote-market-mimic-strike-desk
+bip_39_word_dash_6: devote-market-mimic-strike-desk-year
+bip_39_word_dash_7: devote-market-mimic-strike-desk-year-number
+bip_39_word_dash_8: devote-market-mimic-strike-desk-year-number-devote
+bip_39_word_dash_9: devote-market-mimic-strike-desk-year-number-devote-joy
 bip_39_word_new_br_1: devote
 bip_39_word_new_br_10: devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink
 bip_39_word_new_br_11: devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink<br>faith
@@ -193,6 +205,18 @@ bip_39_word_space_6: devote market mimic strike desk year
 bip_39_word_space_7: devote market mimic strike desk year number
 bip_39_word_space_8: devote market mimic strike desk year number devote
 bip_39_word_space_9: devote market mimic strike desk year number devote joy
+bip_39_word_underscore_1: devote
+bip_39_word_underscore_10: devote_market_mimic_strike_desk_year_number_devote_joy_wink
+bip_39_word_underscore_11: devote_market_mimic_strike_desk_year_number_devote_joy_wink_faith
+bip_39_word_underscore_12: devote_market_mimic_strike_desk_year_number_devote_joy_wink_faith_announce
+bip_39_word_underscore_2: devote_market
+bip_39_word_underscore_3: devote_market_mimic
+bip_39_word_underscore_4: devote_market_mimic_strike
+bip_39_word_underscore_5: devote_market_mimic_strike_desk
+bip_39_word_underscore_6: devote_market_mimic_strike_desk_year
+bip_39_word_underscore_7: devote_market_mimic_strike_desk_year_number
+bip_39_word_underscore_8: devote_market_mimic_strike_desk_year_number_devote
+bip_39_word_underscore_9: devote_market_mimic_strike_desk_year_number_devote_joy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

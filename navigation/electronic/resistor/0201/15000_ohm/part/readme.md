@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cloud |  
+| bip_39_word_dash_10 | cloud-game-crater-useful-diesel-ensure-point-ramp-quote-frame |  
+| bip_39_word_dash_11 | cloud-game-crater-useful-diesel-ensure-point-ramp-quote-frame-eager |  
+| bip_39_word_dash_12 | cloud-game-crater-useful-diesel-ensure-point-ramp-quote-frame-eager-age |  
+| bip_39_word_dash_2 | cloud-game |  
+| bip_39_word_dash_3 | cloud-game-crater |  
+| bip_39_word_dash_4 | cloud-game-crater-useful |  
+| bip_39_word_dash_5 | cloud-game-crater-useful-diesel |  
+| bip_39_word_dash_6 | cloud-game-crater-useful-diesel-ensure |  
+| bip_39_word_dash_7 | cloud-game-crater-useful-diesel-ensure-point |  
+| bip_39_word_dash_8 | cloud-game-crater-useful-diesel-ensure-point-ramp |  
+| bip_39_word_dash_9 | cloud-game-crater-useful-diesel-ensure-point-ramp-quote |  
 | bip_39_word_new_br_1 | cloud |  
 | bip_39_word_new_br_10 | cloud<br>game<br>crater<br>useful<br>diesel<br>ensure<br>point<br>ramp<br>quote<br>frame |  
 | bip_39_word_new_br_11 | cloud<br>game<br>crater<br>useful<br>diesel<br>ensure<br>point<br>ramp<br>quote<br>frame<br>eager |  
@@ -147,6 +159,18 @@ quote |
 | bip_39_word_space_7 | cloud game crater useful diesel ensure point |  
 | bip_39_word_space_8 | cloud game crater useful diesel ensure point ramp |  
 | bip_39_word_space_9 | cloud game crater useful diesel ensure point ramp quote |  
+| bip_39_word_underscore_1 | cloud |  
+| bip_39_word_underscore_10 | cloud_game_crater_useful_diesel_ensure_point_ramp_quote_frame |  
+| bip_39_word_underscore_11 | cloud_game_crater_useful_diesel_ensure_point_ramp_quote_frame_eager |  
+| bip_39_word_underscore_12 | cloud_game_crater_useful_diesel_ensure_point_ramp_quote_frame_eager_age |  
+| bip_39_word_underscore_2 | cloud_game |  
+| bip_39_word_underscore_3 | cloud_game_crater |  
+| bip_39_word_underscore_4 | cloud_game_crater_useful |  
+| bip_39_word_underscore_5 | cloud_game_crater_useful_diesel |  
+| bip_39_word_underscore_6 | cloud_game_crater_useful_diesel_ensure |  
+| bip_39_word_underscore_7 | cloud_game_crater_useful_diesel_ensure_point |  
+| bip_39_word_underscore_8 | cloud_game_crater_useful_diesel_ensure_point_ramp |  
+| bip_39_word_underscore_9 | cloud_game_crater_useful_diesel_ensure_point_ramp_quote |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

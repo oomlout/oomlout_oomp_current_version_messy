@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | casual |  
+| bip_39_word_dash_10 | casual-chronic-anxiety-concert-capital-file-health-cream-pistol-front |  
+| bip_39_word_dash_11 | casual-chronic-anxiety-concert-capital-file-health-cream-pistol-front-salon |  
+| bip_39_word_dash_12 | casual-chronic-anxiety-concert-capital-file-health-cream-pistol-front-salon-alter |  
+| bip_39_word_dash_2 | casual-chronic |  
+| bip_39_word_dash_3 | casual-chronic-anxiety |  
+| bip_39_word_dash_4 | casual-chronic-anxiety-concert |  
+| bip_39_word_dash_5 | casual-chronic-anxiety-concert-capital |  
+| bip_39_word_dash_6 | casual-chronic-anxiety-concert-capital-file |  
+| bip_39_word_dash_7 | casual-chronic-anxiety-concert-capital-file-health |  
+| bip_39_word_dash_8 | casual-chronic-anxiety-concert-capital-file-health-cream |  
+| bip_39_word_dash_9 | casual-chronic-anxiety-concert-capital-file-health-cream-pistol |  
 | bip_39_word_new_br_1 | casual |  
 | bip_39_word_new_br_10 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream<br>pistol<br>front |  
 | bip_39_word_new_br_11 | casual<br>chronic<br>anxiety<br>concert<br>capital<br>file<br>health<br>cream<br>pistol<br>front<br>salon |  
@@ -147,6 +159,18 @@ pistol |
 | bip_39_word_space_7 | casual chronic anxiety concert capital file health |  
 | bip_39_word_space_8 | casual chronic anxiety concert capital file health cream |  
 | bip_39_word_space_9 | casual chronic anxiety concert capital file health cream pistol |  
+| bip_39_word_underscore_1 | casual |  
+| bip_39_word_underscore_10 | casual_chronic_anxiety_concert_capital_file_health_cream_pistol_front |  
+| bip_39_word_underscore_11 | casual_chronic_anxiety_concert_capital_file_health_cream_pistol_front_salon |  
+| bip_39_word_underscore_12 | casual_chronic_anxiety_concert_capital_file_health_cream_pistol_front_salon_alter |  
+| bip_39_word_underscore_2 | casual_chronic |  
+| bip_39_word_underscore_3 | casual_chronic_anxiety |  
+| bip_39_word_underscore_4 | casual_chronic_anxiety_concert |  
+| bip_39_word_underscore_5 | casual_chronic_anxiety_concert_capital |  
+| bip_39_word_underscore_6 | casual_chronic_anxiety_concert_capital_file |  
+| bip_39_word_underscore_7 | casual_chronic_anxiety_concert_capital_file_health |  
+| bip_39_word_underscore_8 | casual_chronic_anxiety_concert_capital_file_health_cream |  
+| bip_39_word_underscore_9 | casual_chronic_anxiety_concert_capital_file_health_cream_pistol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

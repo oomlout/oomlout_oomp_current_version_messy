@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stereo |  
+| bip_39_word_dash_10 | stereo-grab-humor-noise-title-vicious-brush-benefit-amateur-walnut |  
+| bip_39_word_dash_11 | stereo-grab-humor-noise-title-vicious-brush-benefit-amateur-walnut-tired |  
+| bip_39_word_dash_12 | stereo-grab-humor-noise-title-vicious-brush-benefit-amateur-walnut-tired-assist |  
+| bip_39_word_dash_2 | stereo-grab |  
+| bip_39_word_dash_3 | stereo-grab-humor |  
+| bip_39_word_dash_4 | stereo-grab-humor-noise |  
+| bip_39_word_dash_5 | stereo-grab-humor-noise-title |  
+| bip_39_word_dash_6 | stereo-grab-humor-noise-title-vicious |  
+| bip_39_word_dash_7 | stereo-grab-humor-noise-title-vicious-brush |  
+| bip_39_word_dash_8 | stereo-grab-humor-noise-title-vicious-brush-benefit |  
+| bip_39_word_dash_9 | stereo-grab-humor-noise-title-vicious-brush-benefit-amateur |  
 | bip_39_word_new_br_1 | stereo |  
 | bip_39_word_new_br_10 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut |  
 | bip_39_word_new_br_11 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut<br>tired |  
@@ -147,6 +159,18 @@ amateur |
 | bip_39_word_space_7 | stereo grab humor noise title vicious brush |  
 | bip_39_word_space_8 | stereo grab humor noise title vicious brush benefit |  
 | bip_39_word_space_9 | stereo grab humor noise title vicious brush benefit amateur |  
+| bip_39_word_underscore_1 | stereo |  
+| bip_39_word_underscore_10 | stereo_grab_humor_noise_title_vicious_brush_benefit_amateur_walnut |  
+| bip_39_word_underscore_11 | stereo_grab_humor_noise_title_vicious_brush_benefit_amateur_walnut_tired |  
+| bip_39_word_underscore_12 | stereo_grab_humor_noise_title_vicious_brush_benefit_amateur_walnut_tired_assist |  
+| bip_39_word_underscore_2 | stereo_grab |  
+| bip_39_word_underscore_3 | stereo_grab_humor |  
+| bip_39_word_underscore_4 | stereo_grab_humor_noise |  
+| bip_39_word_underscore_5 | stereo_grab_humor_noise_title |  
+| bip_39_word_underscore_6 | stereo_grab_humor_noise_title_vicious |  
+| bip_39_word_underscore_7 | stereo_grab_humor_noise_title_vicious_brush |  
+| bip_39_word_underscore_8 | stereo_grab_humor_noise_title_vicious_brush_benefit |  
+| bip_39_word_underscore_9 | stereo_grab_humor_noise_title_vicious_brush_benefit_amateur |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sun |  
+| bip_39_word_dash_10 | sun-glue-walk-novel-mutual-urban-idle-gloom-dust-verb |  
+| bip_39_word_dash_11 | sun-glue-walk-novel-mutual-urban-idle-gloom-dust-verb-random |  
+| bip_39_word_dash_12 | sun-glue-walk-novel-mutual-urban-idle-gloom-dust-verb-random-artwork |  
+| bip_39_word_dash_2 | sun-glue |  
+| bip_39_word_dash_3 | sun-glue-walk |  
+| bip_39_word_dash_4 | sun-glue-walk-novel |  
+| bip_39_word_dash_5 | sun-glue-walk-novel-mutual |  
+| bip_39_word_dash_6 | sun-glue-walk-novel-mutual-urban |  
+| bip_39_word_dash_7 | sun-glue-walk-novel-mutual-urban-idle |  
+| bip_39_word_dash_8 | sun-glue-walk-novel-mutual-urban-idle-gloom |  
+| bip_39_word_dash_9 | sun-glue-walk-novel-mutual-urban-idle-gloom-dust |  
 | bip_39_word_new_br_1 | sun |  
 | bip_39_word_new_br_10 | sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb |  
 | bip_39_word_new_br_11 | sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb<br>random |  
@@ -147,6 +159,18 @@ dust |
 | bip_39_word_space_7 | sun glue walk novel mutual urban idle |  
 | bip_39_word_space_8 | sun glue walk novel mutual urban idle gloom |  
 | bip_39_word_space_9 | sun glue walk novel mutual urban idle gloom dust |  
+| bip_39_word_underscore_1 | sun |  
+| bip_39_word_underscore_10 | sun_glue_walk_novel_mutual_urban_idle_gloom_dust_verb |  
+| bip_39_word_underscore_11 | sun_glue_walk_novel_mutual_urban_idle_gloom_dust_verb_random |  
+| bip_39_word_underscore_12 | sun_glue_walk_novel_mutual_urban_idle_gloom_dust_verb_random_artwork |  
+| bip_39_word_underscore_2 | sun_glue |  
+| bip_39_word_underscore_3 | sun_glue_walk |  
+| bip_39_word_underscore_4 | sun_glue_walk_novel |  
+| bip_39_word_underscore_5 | sun_glue_walk_novel_mutual |  
+| bip_39_word_underscore_6 | sun_glue_walk_novel_mutual_urban |  
+| bip_39_word_underscore_7 | sun_glue_walk_novel_mutual_urban_idle |  
+| bip_39_word_underscore_8 | sun_glue_walk_novel_mutual_urban_idle_gloom |  
+| bip_39_word_underscore_9 | sun_glue_walk_novel_mutual_urban_idle_gloom_dust |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

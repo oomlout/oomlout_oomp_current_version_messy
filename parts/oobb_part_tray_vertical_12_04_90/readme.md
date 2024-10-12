@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | escape |  
+| bip_39_word_dash_10 | escape-behind-book-salt-dice-adjust-abandon-web-exotic-athlete |  
+| bip_39_word_dash_11 | escape-behind-book-salt-dice-adjust-abandon-web-exotic-athlete-kiwi |  
+| bip_39_word_dash_12 | escape-behind-book-salt-dice-adjust-abandon-web-exotic-athlete-kiwi-annual |  
+| bip_39_word_dash_2 | escape-behind |  
+| bip_39_word_dash_3 | escape-behind-book |  
+| bip_39_word_dash_4 | escape-behind-book-salt |  
+| bip_39_word_dash_5 | escape-behind-book-salt-dice |  
+| bip_39_word_dash_6 | escape-behind-book-salt-dice-adjust |  
+| bip_39_word_dash_7 | escape-behind-book-salt-dice-adjust-abandon |  
+| bip_39_word_dash_8 | escape-behind-book-salt-dice-adjust-abandon-web |  
+| bip_39_word_dash_9 | escape-behind-book-salt-dice-adjust-abandon-web-exotic |  
 | bip_39_word_new_br_1 | escape |  
 | bip_39_word_new_br_10 | escape<br>behind<br>book<br>salt<br>dice<br>adjust<br>abandon<br>web<br>exotic<br>athlete |  
 | bip_39_word_new_br_11 | escape<br>behind<br>book<br>salt<br>dice<br>adjust<br>abandon<br>web<br>exotic<br>athlete<br>kiwi |  
@@ -147,6 +159,18 @@ exotic |
 | bip_39_word_space_7 | escape behind book salt dice adjust abandon |  
 | bip_39_word_space_8 | escape behind book salt dice adjust abandon web |  
 | bip_39_word_space_9 | escape behind book salt dice adjust abandon web exotic |  
+| bip_39_word_underscore_1 | escape |  
+| bip_39_word_underscore_10 | escape_behind_book_salt_dice_adjust_abandon_web_exotic_athlete |  
+| bip_39_word_underscore_11 | escape_behind_book_salt_dice_adjust_abandon_web_exotic_athlete_kiwi |  
+| bip_39_word_underscore_12 | escape_behind_book_salt_dice_adjust_abandon_web_exotic_athlete_kiwi_annual |  
+| bip_39_word_underscore_2 | escape_behind |  
+| bip_39_word_underscore_3 | escape_behind_book |  
+| bip_39_word_underscore_4 | escape_behind_book_salt |  
+| bip_39_word_underscore_5 | escape_behind_book_salt_dice |  
+| bip_39_word_underscore_6 | escape_behind_book_salt_dice_adjust |  
+| bip_39_word_underscore_7 | escape_behind_book_salt_dice_adjust_abandon |  
+| bip_39_word_underscore_8 | escape_behind_book_salt_dice_adjust_abandon_web |  
+| bip_39_word_underscore_9 | escape_behind_book_salt_dice_adjust_abandon_web_exotic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

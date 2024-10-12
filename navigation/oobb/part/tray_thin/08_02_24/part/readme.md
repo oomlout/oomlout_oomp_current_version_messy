@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crouch |  
+| bip_39_word_dash_10 | crouch-feed-despair-worth-budget-correct-auction-jaguar-quit-people |  
+| bip_39_word_dash_11 | crouch-feed-despair-worth-budget-correct-auction-jaguar-quit-people-choose |  
+| bip_39_word_dash_12 | crouch-feed-despair-worth-budget-correct-auction-jaguar-quit-people-choose-alcohol |  
+| bip_39_word_dash_2 | crouch-feed |  
+| bip_39_word_dash_3 | crouch-feed-despair |  
+| bip_39_word_dash_4 | crouch-feed-despair-worth |  
+| bip_39_word_dash_5 | crouch-feed-despair-worth-budget |  
+| bip_39_word_dash_6 | crouch-feed-despair-worth-budget-correct |  
+| bip_39_word_dash_7 | crouch-feed-despair-worth-budget-correct-auction |  
+| bip_39_word_dash_8 | crouch-feed-despair-worth-budget-correct-auction-jaguar |  
+| bip_39_word_dash_9 | crouch-feed-despair-worth-budget-correct-auction-jaguar-quit |  
 | bip_39_word_new_br_1 | crouch |  
 | bip_39_word_new_br_10 | crouch<br>feed<br>despair<br>worth<br>budget<br>correct<br>auction<br>jaguar<br>quit<br>people |  
 | bip_39_word_new_br_11 | crouch<br>feed<br>despair<br>worth<br>budget<br>correct<br>auction<br>jaguar<br>quit<br>people<br>choose |  
@@ -147,6 +159,18 @@ quit |
 | bip_39_word_space_7 | crouch feed despair worth budget correct auction |  
 | bip_39_word_space_8 | crouch feed despair worth budget correct auction jaguar |  
 | bip_39_word_space_9 | crouch feed despair worth budget correct auction jaguar quit |  
+| bip_39_word_underscore_1 | crouch |  
+| bip_39_word_underscore_10 | crouch_feed_despair_worth_budget_correct_auction_jaguar_quit_people |  
+| bip_39_word_underscore_11 | crouch_feed_despair_worth_budget_correct_auction_jaguar_quit_people_choose |  
+| bip_39_word_underscore_12 | crouch_feed_despair_worth_budget_correct_auction_jaguar_quit_people_choose_alcohol |  
+| bip_39_word_underscore_2 | crouch_feed |  
+| bip_39_word_underscore_3 | crouch_feed_despair |  
+| bip_39_word_underscore_4 | crouch_feed_despair_worth |  
+| bip_39_word_underscore_5 | crouch_feed_despair_worth_budget |  
+| bip_39_word_underscore_6 | crouch_feed_despair_worth_budget_correct |  
+| bip_39_word_underscore_7 | crouch_feed_despair_worth_budget_correct_auction |  
+| bip_39_word_underscore_8 | crouch_feed_despair_worth_budget_correct_auction_jaguar |  
+| bip_39_word_underscore_9 | crouch_feed_despair_worth_budget_correct_auction_jaguar_quit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

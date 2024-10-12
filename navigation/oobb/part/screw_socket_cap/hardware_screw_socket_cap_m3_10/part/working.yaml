@@ -1,3 +1,15 @@
+bip_39_word_dash_1: argue
+bip_39_word_dash_10: argue-cat-transfer-praise-toy-cancel-heavy-athlete-enroll-moon
+bip_39_word_dash_11: argue-cat-transfer-praise-toy-cancel-heavy-athlete-enroll-moon-ozone
+bip_39_word_dash_12: argue-cat-transfer-praise-toy-cancel-heavy-athlete-enroll-moon-ozone-asset
+bip_39_word_dash_2: argue-cat
+bip_39_word_dash_3: argue-cat-transfer
+bip_39_word_dash_4: argue-cat-transfer-praise
+bip_39_word_dash_5: argue-cat-transfer-praise-toy
+bip_39_word_dash_6: argue-cat-transfer-praise-toy-cancel
+bip_39_word_dash_7: argue-cat-transfer-praise-toy-cancel-heavy
+bip_39_word_dash_8: argue-cat-transfer-praise-toy-cancel-heavy-athlete
+bip_39_word_dash_9: argue-cat-transfer-praise-toy-cancel-heavy-athlete-enroll
 bip_39_word_new_br_1: argue
 bip_39_word_new_br_10: argue<br>cat<br>transfer<br>praise<br>toy<br>cancel<br>heavy<br>athlete<br>enroll<br>moon
 bip_39_word_new_br_11: argue<br>cat<br>transfer<br>praise<br>toy<br>cancel<br>heavy<br>athlete<br>enroll<br>moon<br>ozone
@@ -193,6 +205,18 @@ bip_39_word_space_6: argue cat transfer praise toy cancel
 bip_39_word_space_7: argue cat transfer praise toy cancel heavy
 bip_39_word_space_8: argue cat transfer praise toy cancel heavy athlete
 bip_39_word_space_9: argue cat transfer praise toy cancel heavy athlete enroll
+bip_39_word_underscore_1: argue
+bip_39_word_underscore_10: argue_cat_transfer_praise_toy_cancel_heavy_athlete_enroll_moon
+bip_39_word_underscore_11: argue_cat_transfer_praise_toy_cancel_heavy_athlete_enroll_moon_ozone
+bip_39_word_underscore_12: argue_cat_transfer_praise_toy_cancel_heavy_athlete_enroll_moon_ozone_asset
+bip_39_word_underscore_2: argue_cat
+bip_39_word_underscore_3: argue_cat_transfer
+bip_39_word_underscore_4: argue_cat_transfer_praise
+bip_39_word_underscore_5: argue_cat_transfer_praise_toy
+bip_39_word_underscore_6: argue_cat_transfer_praise_toy_cancel
+bip_39_word_underscore_7: argue_cat_transfer_praise_toy_cancel_heavy
+bip_39_word_underscore_8: argue_cat_transfer_praise_toy_cancel_heavy_athlete
+bip_39_word_underscore_9: argue_cat_transfer_praise_toy_cancel_heavy_athlete_enroll
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

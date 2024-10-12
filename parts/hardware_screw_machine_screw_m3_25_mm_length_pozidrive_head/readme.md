@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | security |  
+| bip_39_word_dash_10 | security-rare-expand-poem-attend-coconut-cotton-job-ill-business |  
+| bip_39_word_dash_11 | security-rare-expand-poem-attend-coconut-cotton-job-ill-business-spirit |  
+| bip_39_word_dash_12 | security-rare-expand-poem-attend-coconut-cotton-job-ill-business-spirit-author |  
+| bip_39_word_dash_2 | security-rare |  
+| bip_39_word_dash_3 | security-rare-expand |  
+| bip_39_word_dash_4 | security-rare-expand-poem |  
+| bip_39_word_dash_5 | security-rare-expand-poem-attend |  
+| bip_39_word_dash_6 | security-rare-expand-poem-attend-coconut |  
+| bip_39_word_dash_7 | security-rare-expand-poem-attend-coconut-cotton |  
+| bip_39_word_dash_8 | security-rare-expand-poem-attend-coconut-cotton-job |  
+| bip_39_word_dash_9 | security-rare-expand-poem-attend-coconut-cotton-job-ill |  
 | bip_39_word_new_br_1 | security |  
 | bip_39_word_new_br_10 | security<br>rare<br>expand<br>poem<br>attend<br>coconut<br>cotton<br>job<br>ill<br>business |  
 | bip_39_word_new_br_11 | security<br>rare<br>expand<br>poem<br>attend<br>coconut<br>cotton<br>job<br>ill<br>business<br>spirit |  
@@ -147,6 +159,18 @@ ill |
 | bip_39_word_space_7 | security rare expand poem attend coconut cotton |  
 | bip_39_word_space_8 | security rare expand poem attend coconut cotton job |  
 | bip_39_word_space_9 | security rare expand poem attend coconut cotton job ill |  
+| bip_39_word_underscore_1 | security |  
+| bip_39_word_underscore_10 | security_rare_expand_poem_attend_coconut_cotton_job_ill_business |  
+| bip_39_word_underscore_11 | security_rare_expand_poem_attend_coconut_cotton_job_ill_business_spirit |  
+| bip_39_word_underscore_12 | security_rare_expand_poem_attend_coconut_cotton_job_ill_business_spirit_author |  
+| bip_39_word_underscore_2 | security_rare |  
+| bip_39_word_underscore_3 | security_rare_expand |  
+| bip_39_word_underscore_4 | security_rare_expand_poem |  
+| bip_39_word_underscore_5 | security_rare_expand_poem_attend |  
+| bip_39_word_underscore_6 | security_rare_expand_poem_attend_coconut |  
+| bip_39_word_underscore_7 | security_rare_expand_poem_attend_coconut_cotton |  
+| bip_39_word_underscore_8 | security_rare_expand_poem_attend_coconut_cotton_job |  
+| bip_39_word_underscore_9 | security_rare_expand_poem_attend_coconut_cotton_job_ill |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

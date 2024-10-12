@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tumble
+bip_39_word_dash_10: tumble-lamp-bleak-over-smoke-frame-client-romance-control-good
+bip_39_word_dash_11: tumble-lamp-bleak-over-smoke-frame-client-romance-control-good-paddle
+bip_39_word_dash_12: tumble-lamp-bleak-over-smoke-frame-client-romance-control-good-paddle-assault
+bip_39_word_dash_2: tumble-lamp
+bip_39_word_dash_3: tumble-lamp-bleak
+bip_39_word_dash_4: tumble-lamp-bleak-over
+bip_39_word_dash_5: tumble-lamp-bleak-over-smoke
+bip_39_word_dash_6: tumble-lamp-bleak-over-smoke-frame
+bip_39_word_dash_7: tumble-lamp-bleak-over-smoke-frame-client
+bip_39_word_dash_8: tumble-lamp-bleak-over-smoke-frame-client-romance
+bip_39_word_dash_9: tumble-lamp-bleak-over-smoke-frame-client-romance-control
 bip_39_word_new_br_1: tumble
 bip_39_word_new_br_10: tumble<br>lamp<br>bleak<br>over<br>smoke<br>frame<br>client<br>romance<br>control<br>good
 bip_39_word_new_br_11: tumble<br>lamp<br>bleak<br>over<br>smoke<br>frame<br>client<br>romance<br>control<br>good<br>paddle
@@ -193,6 +205,18 @@ bip_39_word_space_6: tumble lamp bleak over smoke frame
 bip_39_word_space_7: tumble lamp bleak over smoke frame client
 bip_39_word_space_8: tumble lamp bleak over smoke frame client romance
 bip_39_word_space_9: tumble lamp bleak over smoke frame client romance control
+bip_39_word_underscore_1: tumble
+bip_39_word_underscore_10: tumble_lamp_bleak_over_smoke_frame_client_romance_control_good
+bip_39_word_underscore_11: tumble_lamp_bleak_over_smoke_frame_client_romance_control_good_paddle
+bip_39_word_underscore_12: tumble_lamp_bleak_over_smoke_frame_client_romance_control_good_paddle_assault
+bip_39_word_underscore_2: tumble_lamp
+bip_39_word_underscore_3: tumble_lamp_bleak
+bip_39_word_underscore_4: tumble_lamp_bleak_over
+bip_39_word_underscore_5: tumble_lamp_bleak_over_smoke
+bip_39_word_underscore_6: tumble_lamp_bleak_over_smoke_frame
+bip_39_word_underscore_7: tumble_lamp_bleak_over_smoke_frame_client
+bip_39_word_underscore_8: tumble_lamp_bleak_over_smoke_frame_client_romance
+bip_39_word_underscore_9: tumble_lamp_bleak_over_smoke_frame_client_romance_control
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

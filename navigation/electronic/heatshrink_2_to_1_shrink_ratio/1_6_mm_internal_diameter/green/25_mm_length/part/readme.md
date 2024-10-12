@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | infant |  
+| bip_39_word_dash_10 | infant-burst-party-duck-sibling-hint-bulb-gossip-culture-liar |  
+| bip_39_word_dash_11 | infant-burst-party-duck-sibling-hint-bulb-gossip-culture-liar-stuff |  
+| bip_39_word_dash_12 | infant-burst-party-duck-sibling-hint-bulb-gossip-culture-liar-stuff-area |  
+| bip_39_word_dash_2 | infant-burst |  
+| bip_39_word_dash_3 | infant-burst-party |  
+| bip_39_word_dash_4 | infant-burst-party-duck |  
+| bip_39_word_dash_5 | infant-burst-party-duck-sibling |  
+| bip_39_word_dash_6 | infant-burst-party-duck-sibling-hint |  
+| bip_39_word_dash_7 | infant-burst-party-duck-sibling-hint-bulb |  
+| bip_39_word_dash_8 | infant-burst-party-duck-sibling-hint-bulb-gossip |  
+| bip_39_word_dash_9 | infant-burst-party-duck-sibling-hint-bulb-gossip-culture |  
 | bip_39_word_new_br_1 | infant |  
 | bip_39_word_new_br_10 | infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar |  
 | bip_39_word_new_br_11 | infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar<br>stuff |  
@@ -147,6 +159,18 @@ culture |
 | bip_39_word_space_7 | infant burst party duck sibling hint bulb |  
 | bip_39_word_space_8 | infant burst party duck sibling hint bulb gossip |  
 | bip_39_word_space_9 | infant burst party duck sibling hint bulb gossip culture |  
+| bip_39_word_underscore_1 | infant |  
+| bip_39_word_underscore_10 | infant_burst_party_duck_sibling_hint_bulb_gossip_culture_liar |  
+| bip_39_word_underscore_11 | infant_burst_party_duck_sibling_hint_bulb_gossip_culture_liar_stuff |  
+| bip_39_word_underscore_12 | infant_burst_party_duck_sibling_hint_bulb_gossip_culture_liar_stuff_area |  
+| bip_39_word_underscore_2 | infant_burst |  
+| bip_39_word_underscore_3 | infant_burst_party |  
+| bip_39_word_underscore_4 | infant_burst_party_duck |  
+| bip_39_word_underscore_5 | infant_burst_party_duck_sibling |  
+| bip_39_word_underscore_6 | infant_burst_party_duck_sibling_hint |  
+| bip_39_word_underscore_7 | infant_burst_party_duck_sibling_hint_bulb |  
+| bip_39_word_underscore_8 | infant_burst_party_duck_sibling_hint_bulb_gossip |  
+| bip_39_word_underscore_9 | infant_burst_party_duck_sibling_hint_bulb_gossip_culture |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

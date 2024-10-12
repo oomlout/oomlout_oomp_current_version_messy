@@ -1,3 +1,15 @@
+bip_39_word_dash_1: legal
+bip_39_word_dash_10: legal-gather-antique-physical-antenna-verb-clog-seek-clean-media
+bip_39_word_dash_11: legal-gather-antique-physical-antenna-verb-clog-seek-clean-media-glue
+bip_39_word_dash_12: legal-gather-antique-physical-antenna-verb-clog-seek-clean-media-glue-auto
+bip_39_word_dash_2: legal-gather
+bip_39_word_dash_3: legal-gather-antique
+bip_39_word_dash_4: legal-gather-antique-physical
+bip_39_word_dash_5: legal-gather-antique-physical-antenna
+bip_39_word_dash_6: legal-gather-antique-physical-antenna-verb
+bip_39_word_dash_7: legal-gather-antique-physical-antenna-verb-clog
+bip_39_word_dash_8: legal-gather-antique-physical-antenna-verb-clog-seek
+bip_39_word_dash_9: legal-gather-antique-physical-antenna-verb-clog-seek-clean
 bip_39_word_new_br_1: legal
 bip_39_word_new_br_10: legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek<br>clean<br>media
 bip_39_word_new_br_11: legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek<br>clean<br>media<br>glue
@@ -193,6 +205,18 @@ bip_39_word_space_6: legal gather antique physical antenna verb
 bip_39_word_space_7: legal gather antique physical antenna verb clog
 bip_39_word_space_8: legal gather antique physical antenna verb clog seek
 bip_39_word_space_9: legal gather antique physical antenna verb clog seek clean
+bip_39_word_underscore_1: legal
+bip_39_word_underscore_10: legal_gather_antique_physical_antenna_verb_clog_seek_clean_media
+bip_39_word_underscore_11: legal_gather_antique_physical_antenna_verb_clog_seek_clean_media_glue
+bip_39_word_underscore_12: legal_gather_antique_physical_antenna_verb_clog_seek_clean_media_glue_auto
+bip_39_word_underscore_2: legal_gather
+bip_39_word_underscore_3: legal_gather_antique
+bip_39_word_underscore_4: legal_gather_antique_physical
+bip_39_word_underscore_5: legal_gather_antique_physical_antenna
+bip_39_word_underscore_6: legal_gather_antique_physical_antenna_verb
+bip_39_word_underscore_7: legal_gather_antique_physical_antenna_verb_clog
+bip_39_word_underscore_8: legal_gather_antique_physical_antenna_verb_clog_seek
+bip_39_word_underscore_9: legal_gather_antique_physical_antenna_verb_clog_seek_clean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

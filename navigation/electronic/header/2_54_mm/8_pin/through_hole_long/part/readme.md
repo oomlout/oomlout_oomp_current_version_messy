@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | race |  
+| bip_39_word_dash_10 | race-idea-laptop-giant-bracket-bird-fury-cement-lunch-sugar |  
+| bip_39_word_dash_11 | race-idea-laptop-giant-bracket-bird-fury-cement-lunch-sugar-tunnel |  
+| bip_39_word_dash_12 | race-idea-laptop-giant-bracket-bird-fury-cement-lunch-sugar-tunnel-angry |  
+| bip_39_word_dash_2 | race-idea |  
+| bip_39_word_dash_3 | race-idea-laptop |  
+| bip_39_word_dash_4 | race-idea-laptop-giant |  
+| bip_39_word_dash_5 | race-idea-laptop-giant-bracket |  
+| bip_39_word_dash_6 | race-idea-laptop-giant-bracket-bird |  
+| bip_39_word_dash_7 | race-idea-laptop-giant-bracket-bird-fury |  
+| bip_39_word_dash_8 | race-idea-laptop-giant-bracket-bird-fury-cement |  
+| bip_39_word_dash_9 | race-idea-laptop-giant-bracket-bird-fury-cement-lunch |  
 | bip_39_word_new_br_1 | race |  
 | bip_39_word_new_br_10 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar |  
 | bip_39_word_new_br_11 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar<br>tunnel |  
@@ -147,6 +159,18 @@ lunch |
 | bip_39_word_space_7 | race idea laptop giant bracket bird fury |  
 | bip_39_word_space_8 | race idea laptop giant bracket bird fury cement |  
 | bip_39_word_space_9 | race idea laptop giant bracket bird fury cement lunch |  
+| bip_39_word_underscore_1 | race |  
+| bip_39_word_underscore_10 | race_idea_laptop_giant_bracket_bird_fury_cement_lunch_sugar |  
+| bip_39_word_underscore_11 | race_idea_laptop_giant_bracket_bird_fury_cement_lunch_sugar_tunnel |  
+| bip_39_word_underscore_12 | race_idea_laptop_giant_bracket_bird_fury_cement_lunch_sugar_tunnel_angry |  
+| bip_39_word_underscore_2 | race_idea |  
+| bip_39_word_underscore_3 | race_idea_laptop |  
+| bip_39_word_underscore_4 | race_idea_laptop_giant |  
+| bip_39_word_underscore_5 | race_idea_laptop_giant_bracket |  
+| bip_39_word_underscore_6 | race_idea_laptop_giant_bracket_bird |  
+| bip_39_word_underscore_7 | race_idea_laptop_giant_bracket_bird_fury |  
+| bip_39_word_underscore_8 | race_idea_laptop_giant_bracket_bird_fury_cement |  
+| bip_39_word_underscore_9 | race_idea_laptop_giant_bracket_bird_fury_cement_lunch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

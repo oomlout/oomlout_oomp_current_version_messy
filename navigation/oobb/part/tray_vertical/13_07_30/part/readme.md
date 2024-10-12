@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toe |  
+| bip_39_word_dash_10 | toe-strategy-sight-become-clip-pepper-parrot-deer-ill-define |  
+| bip_39_word_dash_11 | toe-strategy-sight-become-clip-pepper-parrot-deer-ill-define-school |  
+| bip_39_word_dash_12 | toe-strategy-sight-become-clip-pepper-parrot-deer-ill-define-school-able |  
+| bip_39_word_dash_2 | toe-strategy |  
+| bip_39_word_dash_3 | toe-strategy-sight |  
+| bip_39_word_dash_4 | toe-strategy-sight-become |  
+| bip_39_word_dash_5 | toe-strategy-sight-become-clip |  
+| bip_39_word_dash_6 | toe-strategy-sight-become-clip-pepper |  
+| bip_39_word_dash_7 | toe-strategy-sight-become-clip-pepper-parrot |  
+| bip_39_word_dash_8 | toe-strategy-sight-become-clip-pepper-parrot-deer |  
+| bip_39_word_dash_9 | toe-strategy-sight-become-clip-pepper-parrot-deer-ill |  
 | bip_39_word_new_br_1 | toe |  
 | bip_39_word_new_br_10 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define |  
 | bip_39_word_new_br_11 | toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define<br>school |  
@@ -147,6 +159,18 @@ ill |
 | bip_39_word_space_7 | toe strategy sight become clip pepper parrot |  
 | bip_39_word_space_8 | toe strategy sight become clip pepper parrot deer |  
 | bip_39_word_space_9 | toe strategy sight become clip pepper parrot deer ill |  
+| bip_39_word_underscore_1 | toe |  
+| bip_39_word_underscore_10 | toe_strategy_sight_become_clip_pepper_parrot_deer_ill_define |  
+| bip_39_word_underscore_11 | toe_strategy_sight_become_clip_pepper_parrot_deer_ill_define_school |  
+| bip_39_word_underscore_12 | toe_strategy_sight_become_clip_pepper_parrot_deer_ill_define_school_able |  
+| bip_39_word_underscore_2 | toe_strategy |  
+| bip_39_word_underscore_3 | toe_strategy_sight |  
+| bip_39_word_underscore_4 | toe_strategy_sight_become |  
+| bip_39_word_underscore_5 | toe_strategy_sight_become_clip |  
+| bip_39_word_underscore_6 | toe_strategy_sight_become_clip_pepper |  
+| bip_39_word_underscore_7 | toe_strategy_sight_become_clip_pepper_parrot |  
+| bip_39_word_underscore_8 | toe_strategy_sight_become_clip_pepper_parrot_deer |  
+| bip_39_word_underscore_9 | toe_strategy_sight_become_clip_pepper_parrot_deer_ill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

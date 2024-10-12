@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sibling |  
+| bip_39_word_dash_10 | sibling-color-torch-tooth-win-pig-lumber-inject-hello-turn |  
+| bip_39_word_dash_11 | sibling-color-torch-tooth-win-pig-lumber-inject-hello-turn-science |  
+| bip_39_word_dash_12 | sibling-color-torch-tooth-win-pig-lumber-inject-hello-turn-science-armed |  
+| bip_39_word_dash_2 | sibling-color |  
+| bip_39_word_dash_3 | sibling-color-torch |  
+| bip_39_word_dash_4 | sibling-color-torch-tooth |  
+| bip_39_word_dash_5 | sibling-color-torch-tooth-win |  
+| bip_39_word_dash_6 | sibling-color-torch-tooth-win-pig |  
+| bip_39_word_dash_7 | sibling-color-torch-tooth-win-pig-lumber |  
+| bip_39_word_dash_8 | sibling-color-torch-tooth-win-pig-lumber-inject |  
+| bip_39_word_dash_9 | sibling-color-torch-tooth-win-pig-lumber-inject-hello |  
 | bip_39_word_new_br_1 | sibling |  
 | bip_39_word_new_br_10 | sibling<br>color<br>torch<br>tooth<br>win<br>pig<br>lumber<br>inject<br>hello<br>turn |  
 | bip_39_word_new_br_11 | sibling<br>color<br>torch<br>tooth<br>win<br>pig<br>lumber<br>inject<br>hello<br>turn<br>science |  
@@ -147,6 +159,18 @@ hello |
 | bip_39_word_space_7 | sibling color torch tooth win pig lumber |  
 | bip_39_word_space_8 | sibling color torch tooth win pig lumber inject |  
 | bip_39_word_space_9 | sibling color torch tooth win pig lumber inject hello |  
+| bip_39_word_underscore_1 | sibling |  
+| bip_39_word_underscore_10 | sibling_color_torch_tooth_win_pig_lumber_inject_hello_turn |  
+| bip_39_word_underscore_11 | sibling_color_torch_tooth_win_pig_lumber_inject_hello_turn_science |  
+| bip_39_word_underscore_12 | sibling_color_torch_tooth_win_pig_lumber_inject_hello_turn_science_armed |  
+| bip_39_word_underscore_2 | sibling_color |  
+| bip_39_word_underscore_3 | sibling_color_torch |  
+| bip_39_word_underscore_4 | sibling_color_torch_tooth |  
+| bip_39_word_underscore_5 | sibling_color_torch_tooth_win |  
+| bip_39_word_underscore_6 | sibling_color_torch_tooth_win_pig |  
+| bip_39_word_underscore_7 | sibling_color_torch_tooth_win_pig_lumber |  
+| bip_39_word_underscore_8 | sibling_color_torch_tooth_win_pig_lumber_inject |  
+| bip_39_word_underscore_9 | sibling_color_torch_tooth_win_pig_lumber_inject_hello |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

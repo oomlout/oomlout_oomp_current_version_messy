@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lift
+bip_39_word_dash_10: lift-raccoon-innocent-another-merry-alcohol-pepper-gather-powder-oak
+bip_39_word_dash_11: lift-raccoon-innocent-another-merry-alcohol-pepper-gather-powder-oak-mind
+bip_39_word_dash_12: lift-raccoon-innocent-another-merry-alcohol-pepper-gather-powder-oak-mind-around
+bip_39_word_dash_2: lift-raccoon
+bip_39_word_dash_3: lift-raccoon-innocent
+bip_39_word_dash_4: lift-raccoon-innocent-another
+bip_39_word_dash_5: lift-raccoon-innocent-another-merry
+bip_39_word_dash_6: lift-raccoon-innocent-another-merry-alcohol
+bip_39_word_dash_7: lift-raccoon-innocent-another-merry-alcohol-pepper
+bip_39_word_dash_8: lift-raccoon-innocent-another-merry-alcohol-pepper-gather
+bip_39_word_dash_9: lift-raccoon-innocent-another-merry-alcohol-pepper-gather-powder
 bip_39_word_new_br_1: lift
 bip_39_word_new_br_10: lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak
 bip_39_word_new_br_11: lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak<br>mind
@@ -194,6 +206,18 @@ bip_39_word_space_6: lift raccoon innocent another merry alcohol
 bip_39_word_space_7: lift raccoon innocent another merry alcohol pepper
 bip_39_word_space_8: lift raccoon innocent another merry alcohol pepper gather
 bip_39_word_space_9: lift raccoon innocent another merry alcohol pepper gather powder
+bip_39_word_underscore_1: lift
+bip_39_word_underscore_10: lift_raccoon_innocent_another_merry_alcohol_pepper_gather_powder_oak
+bip_39_word_underscore_11: lift_raccoon_innocent_another_merry_alcohol_pepper_gather_powder_oak_mind
+bip_39_word_underscore_12: lift_raccoon_innocent_another_merry_alcohol_pepper_gather_powder_oak_mind_around
+bip_39_word_underscore_2: lift_raccoon
+bip_39_word_underscore_3: lift_raccoon_innocent
+bip_39_word_underscore_4: lift_raccoon_innocent_another
+bip_39_word_underscore_5: lift_raccoon_innocent_another_merry
+bip_39_word_underscore_6: lift_raccoon_innocent_another_merry_alcohol
+bip_39_word_underscore_7: lift_raccoon_innocent_another_merry_alcohol_pepper
+bip_39_word_underscore_8: lift_raccoon_innocent_another_merry_alcohol_pepper_gather
+bip_39_word_underscore_9: lift_raccoon_innocent_another_merry_alcohol_pepper_gather_powder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

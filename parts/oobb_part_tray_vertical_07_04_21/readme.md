@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tennis |  
+| bip_39_word_dash_10 | tennis-subway-seed-cart-soon-funny-club-start-trash-cluster |  
+| bip_39_word_dash_11 | tennis-subway-seed-cart-soon-funny-club-start-trash-cluster-combine |  
+| bip_39_word_dash_12 | tennis-subway-seed-cart-soon-funny-club-start-trash-cluster-combine-armed |  
+| bip_39_word_dash_2 | tennis-subway |  
+| bip_39_word_dash_3 | tennis-subway-seed |  
+| bip_39_word_dash_4 | tennis-subway-seed-cart |  
+| bip_39_word_dash_5 | tennis-subway-seed-cart-soon |  
+| bip_39_word_dash_6 | tennis-subway-seed-cart-soon-funny |  
+| bip_39_word_dash_7 | tennis-subway-seed-cart-soon-funny-club |  
+| bip_39_word_dash_8 | tennis-subway-seed-cart-soon-funny-club-start |  
+| bip_39_word_dash_9 | tennis-subway-seed-cart-soon-funny-club-start-trash |  
 | bip_39_word_new_br_1 | tennis |  
 | bip_39_word_new_br_10 | tennis<br>subway<br>seed<br>cart<br>soon<br>funny<br>club<br>start<br>trash<br>cluster |  
 | bip_39_word_new_br_11 | tennis<br>subway<br>seed<br>cart<br>soon<br>funny<br>club<br>start<br>trash<br>cluster<br>combine |  
@@ -147,6 +159,18 @@ trash |
 | bip_39_word_space_7 | tennis subway seed cart soon funny club |  
 | bip_39_word_space_8 | tennis subway seed cart soon funny club start |  
 | bip_39_word_space_9 | tennis subway seed cart soon funny club start trash |  
+| bip_39_word_underscore_1 | tennis |  
+| bip_39_word_underscore_10 | tennis_subway_seed_cart_soon_funny_club_start_trash_cluster |  
+| bip_39_word_underscore_11 | tennis_subway_seed_cart_soon_funny_club_start_trash_cluster_combine |  
+| bip_39_word_underscore_12 | tennis_subway_seed_cart_soon_funny_club_start_trash_cluster_combine_armed |  
+| bip_39_word_underscore_2 | tennis_subway |  
+| bip_39_word_underscore_3 | tennis_subway_seed |  
+| bip_39_word_underscore_4 | tennis_subway_seed_cart |  
+| bip_39_word_underscore_5 | tennis_subway_seed_cart_soon |  
+| bip_39_word_underscore_6 | tennis_subway_seed_cart_soon_funny |  
+| bip_39_word_underscore_7 | tennis_subway_seed_cart_soon_funny_club |  
+| bip_39_word_underscore_8 | tennis_subway_seed_cart_soon_funny_club_start |  
+| bip_39_word_underscore_9 | tennis_subway_seed_cart_soon_funny_club_start_trash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: book
+bip_39_word_dash_10: book-lunch-library-trip-cheese-curtain-also-report-alpha-liquid
+bip_39_word_dash_11: book-lunch-library-trip-cheese-curtain-also-report-alpha-liquid-tool
+bip_39_word_dash_12: book-lunch-library-trip-cheese-curtain-also-report-alpha-liquid-tool-auction
+bip_39_word_dash_2: book-lunch
+bip_39_word_dash_3: book-lunch-library
+bip_39_word_dash_4: book-lunch-library-trip
+bip_39_word_dash_5: book-lunch-library-trip-cheese
+bip_39_word_dash_6: book-lunch-library-trip-cheese-curtain
+bip_39_word_dash_7: book-lunch-library-trip-cheese-curtain-also
+bip_39_word_dash_8: book-lunch-library-trip-cheese-curtain-also-report
+bip_39_word_dash_9: book-lunch-library-trip-cheese-curtain-also-report-alpha
 bip_39_word_new_br_1: book
 bip_39_word_new_br_10: book<br>lunch<br>library<br>trip<br>cheese<br>curtain<br>also<br>report<br>alpha<br>liquid
 bip_39_word_new_br_11: book<br>lunch<br>library<br>trip<br>cheese<br>curtain<br>also<br>report<br>alpha<br>liquid<br>tool
@@ -193,6 +205,18 @@ bip_39_word_space_6: book lunch library trip cheese curtain
 bip_39_word_space_7: book lunch library trip cheese curtain also
 bip_39_word_space_8: book lunch library trip cheese curtain also report
 bip_39_word_space_9: book lunch library trip cheese curtain also report alpha
+bip_39_word_underscore_1: book
+bip_39_word_underscore_10: book_lunch_library_trip_cheese_curtain_also_report_alpha_liquid
+bip_39_word_underscore_11: book_lunch_library_trip_cheese_curtain_also_report_alpha_liquid_tool
+bip_39_word_underscore_12: book_lunch_library_trip_cheese_curtain_also_report_alpha_liquid_tool_auction
+bip_39_word_underscore_2: book_lunch
+bip_39_word_underscore_3: book_lunch_library
+bip_39_word_underscore_4: book_lunch_library_trip
+bip_39_word_underscore_5: book_lunch_library_trip_cheese
+bip_39_word_underscore_6: book_lunch_library_trip_cheese_curtain
+bip_39_word_underscore_7: book_lunch_library_trip_cheese_curtain_also
+bip_39_word_underscore_8: book_lunch_library_trip_cheese_curtain_also_report
+bip_39_word_underscore_9: book_lunch_library_trip_cheese_curtain_also_report_alpha
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebel |  
+| bip_39_word_dash_10 | rebel-fossil-another-stumble-bottom-olive-hand-inject-inherit-hedgehog |  
+| bip_39_word_dash_11 | rebel-fossil-another-stumble-bottom-olive-hand-inject-inherit-hedgehog-response |  
+| bip_39_word_dash_12 | rebel-fossil-another-stumble-bottom-olive-hand-inject-inherit-hedgehog-response-auction |  
+| bip_39_word_dash_2 | rebel-fossil |  
+| bip_39_word_dash_3 | rebel-fossil-another |  
+| bip_39_word_dash_4 | rebel-fossil-another-stumble |  
+| bip_39_word_dash_5 | rebel-fossil-another-stumble-bottom |  
+| bip_39_word_dash_6 | rebel-fossil-another-stumble-bottom-olive |  
+| bip_39_word_dash_7 | rebel-fossil-another-stumble-bottom-olive-hand |  
+| bip_39_word_dash_8 | rebel-fossil-another-stumble-bottom-olive-hand-inject |  
+| bip_39_word_dash_9 | rebel-fossil-another-stumble-bottom-olive-hand-inject-inherit |  
 | bip_39_word_new_br_1 | rebel |  
 | bip_39_word_new_br_10 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject<br>inherit<br>hedgehog |  
 | bip_39_word_new_br_11 | rebel<br>fossil<br>another<br>stumble<br>bottom<br>olive<br>hand<br>inject<br>inherit<br>hedgehog<br>response |  
@@ -147,6 +159,18 @@ inherit |
 | bip_39_word_space_7 | rebel fossil another stumble bottom olive hand |  
 | bip_39_word_space_8 | rebel fossil another stumble bottom olive hand inject |  
 | bip_39_word_space_9 | rebel fossil another stumble bottom olive hand inject inherit |  
+| bip_39_word_underscore_1 | rebel |  
+| bip_39_word_underscore_10 | rebel_fossil_another_stumble_bottom_olive_hand_inject_inherit_hedgehog |  
+| bip_39_word_underscore_11 | rebel_fossil_another_stumble_bottom_olive_hand_inject_inherit_hedgehog_response |  
+| bip_39_word_underscore_12 | rebel_fossil_another_stumble_bottom_olive_hand_inject_inherit_hedgehog_response_auction |  
+| bip_39_word_underscore_2 | rebel_fossil |  
+| bip_39_word_underscore_3 | rebel_fossil_another |  
+| bip_39_word_underscore_4 | rebel_fossil_another_stumble |  
+| bip_39_word_underscore_5 | rebel_fossil_another_stumble_bottom |  
+| bip_39_word_underscore_6 | rebel_fossil_another_stumble_bottom_olive |  
+| bip_39_word_underscore_7 | rebel_fossil_another_stumble_bottom_olive_hand |  
+| bip_39_word_underscore_8 | rebel_fossil_another_stumble_bottom_olive_hand_inject |  
+| bip_39_word_underscore_9 | rebel_fossil_another_stumble_bottom_olive_hand_inject_inherit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

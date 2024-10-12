@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gauge
+bip_39_word_dash_10: gauge-tip-hurt-almost-suffer-century-jump-raccoon-grocery-quote
+bip_39_word_dash_11: gauge-tip-hurt-almost-suffer-century-jump-raccoon-grocery-quote-nothing
+bip_39_word_dash_12: gauge-tip-hurt-almost-suffer-century-jump-raccoon-grocery-quote-nothing-abstract
+bip_39_word_dash_2: gauge-tip
+bip_39_word_dash_3: gauge-tip-hurt
+bip_39_word_dash_4: gauge-tip-hurt-almost
+bip_39_word_dash_5: gauge-tip-hurt-almost-suffer
+bip_39_word_dash_6: gauge-tip-hurt-almost-suffer-century
+bip_39_word_dash_7: gauge-tip-hurt-almost-suffer-century-jump
+bip_39_word_dash_8: gauge-tip-hurt-almost-suffer-century-jump-raccoon
+bip_39_word_dash_9: gauge-tip-hurt-almost-suffer-century-jump-raccoon-grocery
 bip_39_word_new_br_1: gauge
 bip_39_word_new_br_10: gauge<br>tip<br>hurt<br>almost<br>suffer<br>century<br>jump<br>raccoon<br>grocery<br>quote
 bip_39_word_new_br_11: gauge<br>tip<br>hurt<br>almost<br>suffer<br>century<br>jump<br>raccoon<br>grocery<br>quote<br>nothing
@@ -193,6 +205,18 @@ bip_39_word_space_6: gauge tip hurt almost suffer century
 bip_39_word_space_7: gauge tip hurt almost suffer century jump
 bip_39_word_space_8: gauge tip hurt almost suffer century jump raccoon
 bip_39_word_space_9: gauge tip hurt almost suffer century jump raccoon grocery
+bip_39_word_underscore_1: gauge
+bip_39_word_underscore_10: gauge_tip_hurt_almost_suffer_century_jump_raccoon_grocery_quote
+bip_39_word_underscore_11: gauge_tip_hurt_almost_suffer_century_jump_raccoon_grocery_quote_nothing
+bip_39_word_underscore_12: gauge_tip_hurt_almost_suffer_century_jump_raccoon_grocery_quote_nothing_abstract
+bip_39_word_underscore_2: gauge_tip
+bip_39_word_underscore_3: gauge_tip_hurt
+bip_39_word_underscore_4: gauge_tip_hurt_almost
+bip_39_word_underscore_5: gauge_tip_hurt_almost_suffer
+bip_39_word_underscore_6: gauge_tip_hurt_almost_suffer_century
+bip_39_word_underscore_7: gauge_tip_hurt_almost_suffer_century_jump
+bip_39_word_underscore_8: gauge_tip_hurt_almost_suffer_century_jump_raccoon
+bip_39_word_underscore_9: gauge_tip_hurt_almost_suffer_century_jump_raccoon_grocery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

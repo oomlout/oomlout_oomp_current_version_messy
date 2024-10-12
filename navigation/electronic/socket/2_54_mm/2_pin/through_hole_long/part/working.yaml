@@ -1,3 +1,15 @@
+bip_39_word_dash_1: calm
+bip_39_word_dash_10: calm-candy-ring-artwork-subway-knee-digital-tongue-clog-drum
+bip_39_word_dash_11: calm-candy-ring-artwork-subway-knee-digital-tongue-clog-drum-bag
+bip_39_word_dash_12: calm-candy-ring-artwork-subway-knee-digital-tongue-clog-drum-bag-artefact
+bip_39_word_dash_2: calm-candy
+bip_39_word_dash_3: calm-candy-ring
+bip_39_word_dash_4: calm-candy-ring-artwork
+bip_39_word_dash_5: calm-candy-ring-artwork-subway
+bip_39_word_dash_6: calm-candy-ring-artwork-subway-knee
+bip_39_word_dash_7: calm-candy-ring-artwork-subway-knee-digital
+bip_39_word_dash_8: calm-candy-ring-artwork-subway-knee-digital-tongue
+bip_39_word_dash_9: calm-candy-ring-artwork-subway-knee-digital-tongue-clog
 bip_39_word_new_br_1: calm
 bip_39_word_new_br_10: calm<br>candy<br>ring<br>artwork<br>subway<br>knee<br>digital<br>tongue<br>clog<br>drum
 bip_39_word_new_br_11: calm<br>candy<br>ring<br>artwork<br>subway<br>knee<br>digital<br>tongue<br>clog<br>drum<br>bag
@@ -193,6 +205,18 @@ bip_39_word_space_6: calm candy ring artwork subway knee
 bip_39_word_space_7: calm candy ring artwork subway knee digital
 bip_39_word_space_8: calm candy ring artwork subway knee digital tongue
 bip_39_word_space_9: calm candy ring artwork subway knee digital tongue clog
+bip_39_word_underscore_1: calm
+bip_39_word_underscore_10: calm_candy_ring_artwork_subway_knee_digital_tongue_clog_drum
+bip_39_word_underscore_11: calm_candy_ring_artwork_subway_knee_digital_tongue_clog_drum_bag
+bip_39_word_underscore_12: calm_candy_ring_artwork_subway_knee_digital_tongue_clog_drum_bag_artefact
+bip_39_word_underscore_2: calm_candy
+bip_39_word_underscore_3: calm_candy_ring
+bip_39_word_underscore_4: calm_candy_ring_artwork
+bip_39_word_underscore_5: calm_candy_ring_artwork_subway
+bip_39_word_underscore_6: calm_candy_ring_artwork_subway_knee
+bip_39_word_underscore_7: calm_candy_ring_artwork_subway_knee_digital
+bip_39_word_underscore_8: calm_candy_ring_artwork_subway_knee_digital_tongue
+bip_39_word_underscore_9: calm_candy_ring_artwork_subway_knee_digital_tongue_clog
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

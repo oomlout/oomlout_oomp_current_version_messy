@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gauge
+bip_39_word_dash_10: gauge-lamp-cup-input-flush-tattoo-kind-skull-degree-roof
+bip_39_word_dash_11: gauge-lamp-cup-input-flush-tattoo-kind-skull-degree-roof-auction
+bip_39_word_dash_12: gauge-lamp-cup-input-flush-tattoo-kind-skull-degree-roof-auction-almost
+bip_39_word_dash_2: gauge-lamp
+bip_39_word_dash_3: gauge-lamp-cup
+bip_39_word_dash_4: gauge-lamp-cup-input
+bip_39_word_dash_5: gauge-lamp-cup-input-flush
+bip_39_word_dash_6: gauge-lamp-cup-input-flush-tattoo
+bip_39_word_dash_7: gauge-lamp-cup-input-flush-tattoo-kind
+bip_39_word_dash_8: gauge-lamp-cup-input-flush-tattoo-kind-skull
+bip_39_word_dash_9: gauge-lamp-cup-input-flush-tattoo-kind-skull-degree
 bip_39_word_new_br_1: gauge
 bip_39_word_new_br_10: gauge<br>lamp<br>cup<br>input<br>flush<br>tattoo<br>kind<br>skull<br>degree<br>roof
 bip_39_word_new_br_11: gauge<br>lamp<br>cup<br>input<br>flush<br>tattoo<br>kind<br>skull<br>degree<br>roof<br>auction
@@ -192,6 +204,18 @@ bip_39_word_space_6: gauge lamp cup input flush tattoo
 bip_39_word_space_7: gauge lamp cup input flush tattoo kind
 bip_39_word_space_8: gauge lamp cup input flush tattoo kind skull
 bip_39_word_space_9: gauge lamp cup input flush tattoo kind skull degree
+bip_39_word_underscore_1: gauge
+bip_39_word_underscore_10: gauge_lamp_cup_input_flush_tattoo_kind_skull_degree_roof
+bip_39_word_underscore_11: gauge_lamp_cup_input_flush_tattoo_kind_skull_degree_roof_auction
+bip_39_word_underscore_12: gauge_lamp_cup_input_flush_tattoo_kind_skull_degree_roof_auction_almost
+bip_39_word_underscore_2: gauge_lamp
+bip_39_word_underscore_3: gauge_lamp_cup
+bip_39_word_underscore_4: gauge_lamp_cup_input
+bip_39_word_underscore_5: gauge_lamp_cup_input_flush
+bip_39_word_underscore_6: gauge_lamp_cup_input_flush_tattoo
+bip_39_word_underscore_7: gauge_lamp_cup_input_flush_tattoo_kind
+bip_39_word_underscore_8: gauge_lamp_cup_input_flush_tattoo_kind_skull
+bip_39_word_underscore_9: gauge_lamp_cup_input_flush_tattoo_kind_skull_degree
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

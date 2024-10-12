@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | match |  
+| bip_39_word_dash_10 | match-farm-powder-exist-bleak-census-cross-whale-radar-put |  
+| bip_39_word_dash_11 | match-farm-powder-exist-bleak-census-cross-whale-radar-put-dragon |  
+| bip_39_word_dash_12 | match-farm-powder-exist-bleak-census-cross-whale-radar-put-dragon-again |  
+| bip_39_word_dash_2 | match-farm |  
+| bip_39_word_dash_3 | match-farm-powder |  
+| bip_39_word_dash_4 | match-farm-powder-exist |  
+| bip_39_word_dash_5 | match-farm-powder-exist-bleak |  
+| bip_39_word_dash_6 | match-farm-powder-exist-bleak-census |  
+| bip_39_word_dash_7 | match-farm-powder-exist-bleak-census-cross |  
+| bip_39_word_dash_8 | match-farm-powder-exist-bleak-census-cross-whale |  
+| bip_39_word_dash_9 | match-farm-powder-exist-bleak-census-cross-whale-radar |  
 | bip_39_word_new_br_1 | match |  
 | bip_39_word_new_br_10 | match<br>farm<br>powder<br>exist<br>bleak<br>census<br>cross<br>whale<br>radar<br>put |  
 | bip_39_word_new_br_11 | match<br>farm<br>powder<br>exist<br>bleak<br>census<br>cross<br>whale<br>radar<br>put<br>dragon |  
@@ -147,6 +159,18 @@ radar |
 | bip_39_word_space_7 | match farm powder exist bleak census cross |  
 | bip_39_word_space_8 | match farm powder exist bleak census cross whale |  
 | bip_39_word_space_9 | match farm powder exist bleak census cross whale radar |  
+| bip_39_word_underscore_1 | match |  
+| bip_39_word_underscore_10 | match_farm_powder_exist_bleak_census_cross_whale_radar_put |  
+| bip_39_word_underscore_11 | match_farm_powder_exist_bleak_census_cross_whale_radar_put_dragon |  
+| bip_39_word_underscore_12 | match_farm_powder_exist_bleak_census_cross_whale_radar_put_dragon_again |  
+| bip_39_word_underscore_2 | match_farm |  
+| bip_39_word_underscore_3 | match_farm_powder |  
+| bip_39_word_underscore_4 | match_farm_powder_exist |  
+| bip_39_word_underscore_5 | match_farm_powder_exist_bleak |  
+| bip_39_word_underscore_6 | match_farm_powder_exist_bleak_census |  
+| bip_39_word_underscore_7 | match_farm_powder_exist_bleak_census_cross |  
+| bip_39_word_underscore_8 | match_farm_powder_exist_bleak_census_cross_whale |  
+| bip_39_word_underscore_9 | match_farm_powder_exist_bleak_census_cross_whale_radar |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

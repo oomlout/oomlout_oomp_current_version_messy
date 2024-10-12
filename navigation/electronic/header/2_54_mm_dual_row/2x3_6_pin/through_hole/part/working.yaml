@@ -1,3 +1,15 @@
+bip_39_word_dash_1: camp
+bip_39_word_dash_10: camp-boring-piano-input-aerobic-run-ready-club-topic-twist
+bip_39_word_dash_11: camp-boring-piano-input-aerobic-run-ready-club-topic-twist-ahead
+bip_39_word_dash_12: camp-boring-piano-input-aerobic-run-ready-club-topic-twist-ahead-autumn
+bip_39_word_dash_2: camp-boring
+bip_39_word_dash_3: camp-boring-piano
+bip_39_word_dash_4: camp-boring-piano-input
+bip_39_word_dash_5: camp-boring-piano-input-aerobic
+bip_39_word_dash_6: camp-boring-piano-input-aerobic-run
+bip_39_word_dash_7: camp-boring-piano-input-aerobic-run-ready
+bip_39_word_dash_8: camp-boring-piano-input-aerobic-run-ready-club
+bip_39_word_dash_9: camp-boring-piano-input-aerobic-run-ready-club-topic
 bip_39_word_new_br_1: camp
 bip_39_word_new_br_10: camp<br>boring<br>piano<br>input<br>aerobic<br>run<br>ready<br>club<br>topic<br>twist
 bip_39_word_new_br_11: camp<br>boring<br>piano<br>input<br>aerobic<br>run<br>ready<br>club<br>topic<br>twist<br>ahead
@@ -192,6 +204,18 @@ bip_39_word_space_6: camp boring piano input aerobic run
 bip_39_word_space_7: camp boring piano input aerobic run ready
 bip_39_word_space_8: camp boring piano input aerobic run ready club
 bip_39_word_space_9: camp boring piano input aerobic run ready club topic
+bip_39_word_underscore_1: camp
+bip_39_word_underscore_10: camp_boring_piano_input_aerobic_run_ready_club_topic_twist
+bip_39_word_underscore_11: camp_boring_piano_input_aerobic_run_ready_club_topic_twist_ahead
+bip_39_word_underscore_12: camp_boring_piano_input_aerobic_run_ready_club_topic_twist_ahead_autumn
+bip_39_word_underscore_2: camp_boring
+bip_39_word_underscore_3: camp_boring_piano
+bip_39_word_underscore_4: camp_boring_piano_input
+bip_39_word_underscore_5: camp_boring_piano_input_aerobic
+bip_39_word_underscore_6: camp_boring_piano_input_aerobic_run
+bip_39_word_underscore_7: camp_boring_piano_input_aerobic_run_ready
+bip_39_word_underscore_8: camp_boring_piano_input_aerobic_run_ready_club
+bip_39_word_underscore_9: camp_boring_piano_input_aerobic_run_ready_club_topic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

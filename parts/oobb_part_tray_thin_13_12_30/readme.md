@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | season |  
+| bip_39_word_dash_10 | season-false-train-fortune-normal-ticket-early-early-patch-teach |  
+| bip_39_word_dash_11 | season-false-train-fortune-normal-ticket-early-early-patch-teach-practice |  
+| bip_39_word_dash_12 | season-false-train-fortune-normal-ticket-early-early-patch-teach-practice-aunt |  
+| bip_39_word_dash_2 | season-false |  
+| bip_39_word_dash_3 | season-false-train |  
+| bip_39_word_dash_4 | season-false-train-fortune |  
+| bip_39_word_dash_5 | season-false-train-fortune-normal |  
+| bip_39_word_dash_6 | season-false-train-fortune-normal-ticket |  
+| bip_39_word_dash_7 | season-false-train-fortune-normal-ticket-early |  
+| bip_39_word_dash_8 | season-false-train-fortune-normal-ticket-early-early |  
+| bip_39_word_dash_9 | season-false-train-fortune-normal-ticket-early-early-patch |  
 | bip_39_word_new_br_1 | season |  
 | bip_39_word_new_br_10 | season<br>false<br>train<br>fortune<br>normal<br>ticket<br>early<br>early<br>patch<br>teach |  
 | bip_39_word_new_br_11 | season<br>false<br>train<br>fortune<br>normal<br>ticket<br>early<br>early<br>patch<br>teach<br>practice |  
@@ -147,6 +159,18 @@ patch |
 | bip_39_word_space_7 | season false train fortune normal ticket early |  
 | bip_39_word_space_8 | season false train fortune normal ticket early early |  
 | bip_39_word_space_9 | season false train fortune normal ticket early early patch |  
+| bip_39_word_underscore_1 | season |  
+| bip_39_word_underscore_10 | season_false_train_fortune_normal_ticket_early_early_patch_teach |  
+| bip_39_word_underscore_11 | season_false_train_fortune_normal_ticket_early_early_patch_teach_practice |  
+| bip_39_word_underscore_12 | season_false_train_fortune_normal_ticket_early_early_patch_teach_practice_aunt |  
+| bip_39_word_underscore_2 | season_false |  
+| bip_39_word_underscore_3 | season_false_train |  
+| bip_39_word_underscore_4 | season_false_train_fortune |  
+| bip_39_word_underscore_5 | season_false_train_fortune_normal |  
+| bip_39_word_underscore_6 | season_false_train_fortune_normal_ticket |  
+| bip_39_word_underscore_7 | season_false_train_fortune_normal_ticket_early |  
+| bip_39_word_underscore_8 | season_false_train_fortune_normal_ticket_early_early |  
+| bip_39_word_underscore_9 | season_false_train_fortune_normal_ticket_early_early_patch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

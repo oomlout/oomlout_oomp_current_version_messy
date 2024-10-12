@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | educate |  
+| bip_39_word_dash_10 | educate-enable-gravity-pass-right-coral-funny-together-veteran-carbon |  
+| bip_39_word_dash_11 | educate-enable-gravity-pass-right-coral-funny-together-veteran-carbon-breeze |  
+| bip_39_word_dash_12 | educate-enable-gravity-pass-right-coral-funny-together-veteran-carbon-breeze-august |  
+| bip_39_word_dash_2 | educate-enable |  
+| bip_39_word_dash_3 | educate-enable-gravity |  
+| bip_39_word_dash_4 | educate-enable-gravity-pass |  
+| bip_39_word_dash_5 | educate-enable-gravity-pass-right |  
+| bip_39_word_dash_6 | educate-enable-gravity-pass-right-coral |  
+| bip_39_word_dash_7 | educate-enable-gravity-pass-right-coral-funny |  
+| bip_39_word_dash_8 | educate-enable-gravity-pass-right-coral-funny-together |  
+| bip_39_word_dash_9 | educate-enable-gravity-pass-right-coral-funny-together-veteran |  
 | bip_39_word_new_br_1 | educate |  
 | bip_39_word_new_br_10 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together<br>veteran<br>carbon |  
 | bip_39_word_new_br_11 | educate<br>enable<br>gravity<br>pass<br>right<br>coral<br>funny<br>together<br>veteran<br>carbon<br>breeze |  
@@ -147,6 +159,18 @@ veteran |
 | bip_39_word_space_7 | educate enable gravity pass right coral funny |  
 | bip_39_word_space_8 | educate enable gravity pass right coral funny together |  
 | bip_39_word_space_9 | educate enable gravity pass right coral funny together veteran |  
+| bip_39_word_underscore_1 | educate |  
+| bip_39_word_underscore_10 | educate_enable_gravity_pass_right_coral_funny_together_veteran_carbon |  
+| bip_39_word_underscore_11 | educate_enable_gravity_pass_right_coral_funny_together_veteran_carbon_breeze |  
+| bip_39_word_underscore_12 | educate_enable_gravity_pass_right_coral_funny_together_veteran_carbon_breeze_august |  
+| bip_39_word_underscore_2 | educate_enable |  
+| bip_39_word_underscore_3 | educate_enable_gravity |  
+| bip_39_word_underscore_4 | educate_enable_gravity_pass |  
+| bip_39_word_underscore_5 | educate_enable_gravity_pass_right |  
+| bip_39_word_underscore_6 | educate_enable_gravity_pass_right_coral |  
+| bip_39_word_underscore_7 | educate_enable_gravity_pass_right_coral_funny |  
+| bip_39_word_underscore_8 | educate_enable_gravity_pass_right_coral_funny_together |  
+| bip_39_word_underscore_9 | educate_enable_gravity_pass_right_coral_funny_together_veteran |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

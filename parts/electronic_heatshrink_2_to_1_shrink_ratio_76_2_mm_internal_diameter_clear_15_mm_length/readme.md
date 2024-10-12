@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bonus |  
+| bip_39_word_dash_10 | bonus-vessel-soft-dismiss-eternal-grief-throw-tuition-sick-burst |  
+| bip_39_word_dash_11 | bonus-vessel-soft-dismiss-eternal-grief-throw-tuition-sick-burst-praise |  
+| bip_39_word_dash_12 | bonus-vessel-soft-dismiss-eternal-grief-throw-tuition-sick-burst-praise-autumn |  
+| bip_39_word_dash_2 | bonus-vessel |  
+| bip_39_word_dash_3 | bonus-vessel-soft |  
+| bip_39_word_dash_4 | bonus-vessel-soft-dismiss |  
+| bip_39_word_dash_5 | bonus-vessel-soft-dismiss-eternal |  
+| bip_39_word_dash_6 | bonus-vessel-soft-dismiss-eternal-grief |  
+| bip_39_word_dash_7 | bonus-vessel-soft-dismiss-eternal-grief-throw |  
+| bip_39_word_dash_8 | bonus-vessel-soft-dismiss-eternal-grief-throw-tuition |  
+| bip_39_word_dash_9 | bonus-vessel-soft-dismiss-eternal-grief-throw-tuition-sick |  
 | bip_39_word_new_br_1 | bonus |  
 | bip_39_word_new_br_10 | bonus<br>vessel<br>soft<br>dismiss<br>eternal<br>grief<br>throw<br>tuition<br>sick<br>burst |  
 | bip_39_word_new_br_11 | bonus<br>vessel<br>soft<br>dismiss<br>eternal<br>grief<br>throw<br>tuition<br>sick<br>burst<br>praise |  
@@ -147,6 +159,18 @@ sick |
 | bip_39_word_space_7 | bonus vessel soft dismiss eternal grief throw |  
 | bip_39_word_space_8 | bonus vessel soft dismiss eternal grief throw tuition |  
 | bip_39_word_space_9 | bonus vessel soft dismiss eternal grief throw tuition sick |  
+| bip_39_word_underscore_1 | bonus |  
+| bip_39_word_underscore_10 | bonus_vessel_soft_dismiss_eternal_grief_throw_tuition_sick_burst |  
+| bip_39_word_underscore_11 | bonus_vessel_soft_dismiss_eternal_grief_throw_tuition_sick_burst_praise |  
+| bip_39_word_underscore_12 | bonus_vessel_soft_dismiss_eternal_grief_throw_tuition_sick_burst_praise_autumn |  
+| bip_39_word_underscore_2 | bonus_vessel |  
+| bip_39_word_underscore_3 | bonus_vessel_soft |  
+| bip_39_word_underscore_4 | bonus_vessel_soft_dismiss |  
+| bip_39_word_underscore_5 | bonus_vessel_soft_dismiss_eternal |  
+| bip_39_word_underscore_6 | bonus_vessel_soft_dismiss_eternal_grief |  
+| bip_39_word_underscore_7 | bonus_vessel_soft_dismiss_eternal_grief_throw |  
+| bip_39_word_underscore_8 | bonus_vessel_soft_dismiss_eternal_grief_throw_tuition |  
+| bip_39_word_underscore_9 | bonus_vessel_soft_dismiss_eternal_grief_throw_tuition_sick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

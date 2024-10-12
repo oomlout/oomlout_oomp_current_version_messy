@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dust |  
+| bip_39_word_dash_10 | dust-seek-elegant-camp-mule-sword-damp-movie-flip-system |  
+| bip_39_word_dash_11 | dust-seek-elegant-camp-mule-sword-damp-movie-flip-system-lift |  
+| bip_39_word_dash_12 | dust-seek-elegant-camp-mule-sword-damp-movie-flip-system-lift-arena |  
+| bip_39_word_dash_2 | dust-seek |  
+| bip_39_word_dash_3 | dust-seek-elegant |  
+| bip_39_word_dash_4 | dust-seek-elegant-camp |  
+| bip_39_word_dash_5 | dust-seek-elegant-camp-mule |  
+| bip_39_word_dash_6 | dust-seek-elegant-camp-mule-sword |  
+| bip_39_word_dash_7 | dust-seek-elegant-camp-mule-sword-damp |  
+| bip_39_word_dash_8 | dust-seek-elegant-camp-mule-sword-damp-movie |  
+| bip_39_word_dash_9 | dust-seek-elegant-camp-mule-sword-damp-movie-flip |  
 | bip_39_word_new_br_1 | dust |  
 | bip_39_word_new_br_10 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie<br>flip<br>system |  
 | bip_39_word_new_br_11 | dust<br>seek<br>elegant<br>camp<br>mule<br>sword<br>damp<br>movie<br>flip<br>system<br>lift |  
@@ -147,6 +159,18 @@ flip |
 | bip_39_word_space_7 | dust seek elegant camp mule sword damp |  
 | bip_39_word_space_8 | dust seek elegant camp mule sword damp movie |  
 | bip_39_word_space_9 | dust seek elegant camp mule sword damp movie flip |  
+| bip_39_word_underscore_1 | dust |  
+| bip_39_word_underscore_10 | dust_seek_elegant_camp_mule_sword_damp_movie_flip_system |  
+| bip_39_word_underscore_11 | dust_seek_elegant_camp_mule_sword_damp_movie_flip_system_lift |  
+| bip_39_word_underscore_12 | dust_seek_elegant_camp_mule_sword_damp_movie_flip_system_lift_arena |  
+| bip_39_word_underscore_2 | dust_seek |  
+| bip_39_word_underscore_3 | dust_seek_elegant |  
+| bip_39_word_underscore_4 | dust_seek_elegant_camp |  
+| bip_39_word_underscore_5 | dust_seek_elegant_camp_mule |  
+| bip_39_word_underscore_6 | dust_seek_elegant_camp_mule_sword |  
+| bip_39_word_underscore_7 | dust_seek_elegant_camp_mule_sword_damp |  
+| bip_39_word_underscore_8 | dust_seek_elegant_camp_mule_sword_damp_movie |  
+| bip_39_word_underscore_9 | dust_seek_elegant_camp_mule_sword_damp_movie_flip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

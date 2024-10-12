@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pet
+bip_39_word_dash_10: pet-hen-heart-absent-milk-wish-token-panda-decide-park
+bip_39_word_dash_11: pet-hen-heart-absent-milk-wish-token-panda-decide-park-weird
+bip_39_word_dash_12: pet-hen-heart-absent-milk-wish-token-panda-decide-park-weird-address
+bip_39_word_dash_2: pet-hen
+bip_39_word_dash_3: pet-hen-heart
+bip_39_word_dash_4: pet-hen-heart-absent
+bip_39_word_dash_5: pet-hen-heart-absent-milk
+bip_39_word_dash_6: pet-hen-heart-absent-milk-wish
+bip_39_word_dash_7: pet-hen-heart-absent-milk-wish-token
+bip_39_word_dash_8: pet-hen-heart-absent-milk-wish-token-panda
+bip_39_word_dash_9: pet-hen-heart-absent-milk-wish-token-panda-decide
 bip_39_word_new_br_1: pet
 bip_39_word_new_br_10: pet<br>hen<br>heart<br>absent<br>milk<br>wish<br>token<br>panda<br>decide<br>park
 bip_39_word_new_br_11: pet<br>hen<br>heart<br>absent<br>milk<br>wish<br>token<br>panda<br>decide<br>park<br>weird
@@ -192,6 +204,18 @@ bip_39_word_space_6: pet hen heart absent milk wish
 bip_39_word_space_7: pet hen heart absent milk wish token
 bip_39_word_space_8: pet hen heart absent milk wish token panda
 bip_39_word_space_9: pet hen heart absent milk wish token panda decide
+bip_39_word_underscore_1: pet
+bip_39_word_underscore_10: pet_hen_heart_absent_milk_wish_token_panda_decide_park
+bip_39_word_underscore_11: pet_hen_heart_absent_milk_wish_token_panda_decide_park_weird
+bip_39_word_underscore_12: pet_hen_heart_absent_milk_wish_token_panda_decide_park_weird_address
+bip_39_word_underscore_2: pet_hen
+bip_39_word_underscore_3: pet_hen_heart
+bip_39_word_underscore_4: pet_hen_heart_absent
+bip_39_word_underscore_5: pet_hen_heart_absent_milk
+bip_39_word_underscore_6: pet_hen_heart_absent_milk_wish
+bip_39_word_underscore_7: pet_hen_heart_absent_milk_wish_token
+bip_39_word_underscore_8: pet_hen_heart_absent_milk_wish_token_panda
+bip_39_word_underscore_9: pet_hen_heart_absent_milk_wish_token_panda_decide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

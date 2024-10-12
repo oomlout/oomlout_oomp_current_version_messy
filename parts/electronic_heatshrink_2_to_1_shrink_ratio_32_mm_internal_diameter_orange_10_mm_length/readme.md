@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chunk |  
+| bip_39_word_dash_10 | chunk-raw-work-lens-clap-seed-spider-filter-evil-exhaust |  
+| bip_39_word_dash_11 | chunk-raw-work-lens-clap-seed-spider-filter-evil-exhaust-pass |  
+| bip_39_word_dash_12 | chunk-raw-work-lens-clap-seed-spider-filter-evil-exhaust-pass-alter |  
+| bip_39_word_dash_2 | chunk-raw |  
+| bip_39_word_dash_3 | chunk-raw-work |  
+| bip_39_word_dash_4 | chunk-raw-work-lens |  
+| bip_39_word_dash_5 | chunk-raw-work-lens-clap |  
+| bip_39_word_dash_6 | chunk-raw-work-lens-clap-seed |  
+| bip_39_word_dash_7 | chunk-raw-work-lens-clap-seed-spider |  
+| bip_39_word_dash_8 | chunk-raw-work-lens-clap-seed-spider-filter |  
+| bip_39_word_dash_9 | chunk-raw-work-lens-clap-seed-spider-filter-evil |  
 | bip_39_word_new_br_1 | chunk |  
 | bip_39_word_new_br_10 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter<br>evil<br>exhaust |  
 | bip_39_word_new_br_11 | chunk<br>raw<br>work<br>lens<br>clap<br>seed<br>spider<br>filter<br>evil<br>exhaust<br>pass |  
@@ -147,6 +159,18 @@ evil |
 | bip_39_word_space_7 | chunk raw work lens clap seed spider |  
 | bip_39_word_space_8 | chunk raw work lens clap seed spider filter |  
 | bip_39_word_space_9 | chunk raw work lens clap seed spider filter evil |  
+| bip_39_word_underscore_1 | chunk |  
+| bip_39_word_underscore_10 | chunk_raw_work_lens_clap_seed_spider_filter_evil_exhaust |  
+| bip_39_word_underscore_11 | chunk_raw_work_lens_clap_seed_spider_filter_evil_exhaust_pass |  
+| bip_39_word_underscore_12 | chunk_raw_work_lens_clap_seed_spider_filter_evil_exhaust_pass_alter |  
+| bip_39_word_underscore_2 | chunk_raw |  
+| bip_39_word_underscore_3 | chunk_raw_work |  
+| bip_39_word_underscore_4 | chunk_raw_work_lens |  
+| bip_39_word_underscore_5 | chunk_raw_work_lens_clap |  
+| bip_39_word_underscore_6 | chunk_raw_work_lens_clap_seed |  
+| bip_39_word_underscore_7 | chunk_raw_work_lens_clap_seed_spider |  
+| bip_39_word_underscore_8 | chunk_raw_work_lens_clap_seed_spider_filter |  
+| bip_39_word_underscore_9 | chunk_raw_work_lens_clap_seed_spider_filter_evil |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

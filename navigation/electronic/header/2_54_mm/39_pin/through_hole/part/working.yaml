@@ -1,3 +1,15 @@
+bip_39_word_dash_1: month
+bip_39_word_dash_10: month-plug-bracket-rain-gaze-idle-raise-drum-latin-robust
+bip_39_word_dash_11: month-plug-bracket-rain-gaze-idle-raise-drum-latin-robust-engine
+bip_39_word_dash_12: month-plug-bracket-rain-gaze-idle-raise-drum-latin-robust-engine-address
+bip_39_word_dash_2: month-plug
+bip_39_word_dash_3: month-plug-bracket
+bip_39_word_dash_4: month-plug-bracket-rain
+bip_39_word_dash_5: month-plug-bracket-rain-gaze
+bip_39_word_dash_6: month-plug-bracket-rain-gaze-idle
+bip_39_word_dash_7: month-plug-bracket-rain-gaze-idle-raise
+bip_39_word_dash_8: month-plug-bracket-rain-gaze-idle-raise-drum
+bip_39_word_dash_9: month-plug-bracket-rain-gaze-idle-raise-drum-latin
 bip_39_word_new_br_1: month
 bip_39_word_new_br_10: month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust
 bip_39_word_new_br_11: month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust<br>engine
@@ -192,6 +204,18 @@ bip_39_word_space_6: month plug bracket rain gaze idle
 bip_39_word_space_7: month plug bracket rain gaze idle raise
 bip_39_word_space_8: month plug bracket rain gaze idle raise drum
 bip_39_word_space_9: month plug bracket rain gaze idle raise drum latin
+bip_39_word_underscore_1: month
+bip_39_word_underscore_10: month_plug_bracket_rain_gaze_idle_raise_drum_latin_robust
+bip_39_word_underscore_11: month_plug_bracket_rain_gaze_idle_raise_drum_latin_robust_engine
+bip_39_word_underscore_12: month_plug_bracket_rain_gaze_idle_raise_drum_latin_robust_engine_address
+bip_39_word_underscore_2: month_plug
+bip_39_word_underscore_3: month_plug_bracket
+bip_39_word_underscore_4: month_plug_bracket_rain
+bip_39_word_underscore_5: month_plug_bracket_rain_gaze
+bip_39_word_underscore_6: month_plug_bracket_rain_gaze_idle
+bip_39_word_underscore_7: month_plug_bracket_rain_gaze_idle_raise
+bip_39_word_underscore_8: month_plug_bracket_rain_gaze_idle_raise_drum
+bip_39_word_underscore_9: month_plug_bracket_rain_gaze_idle_raise_drum_latin
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

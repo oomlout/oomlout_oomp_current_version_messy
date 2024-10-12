@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trigger |  
+| bip_39_word_dash_10 | trigger-invite-easily-deny-short-wedding-smart-furnace-thrive-faint |  
+| bip_39_word_dash_11 | trigger-invite-easily-deny-short-wedding-smart-furnace-thrive-faint-monster |  
+| bip_39_word_dash_12 | trigger-invite-easily-deny-short-wedding-smart-furnace-thrive-faint-monster-apart |  
+| bip_39_word_dash_2 | trigger-invite |  
+| bip_39_word_dash_3 | trigger-invite-easily |  
+| bip_39_word_dash_4 | trigger-invite-easily-deny |  
+| bip_39_word_dash_5 | trigger-invite-easily-deny-short |  
+| bip_39_word_dash_6 | trigger-invite-easily-deny-short-wedding |  
+| bip_39_word_dash_7 | trigger-invite-easily-deny-short-wedding-smart |  
+| bip_39_word_dash_8 | trigger-invite-easily-deny-short-wedding-smart-furnace |  
+| bip_39_word_dash_9 | trigger-invite-easily-deny-short-wedding-smart-furnace-thrive |  
 | bip_39_word_new_br_1 | trigger |  
 | bip_39_word_new_br_10 | trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint |  
 | bip_39_word_new_br_11 | trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint<br>monster |  
@@ -147,6 +159,18 @@ thrive |
 | bip_39_word_space_7 | trigger invite easily deny short wedding smart |  
 | bip_39_word_space_8 | trigger invite easily deny short wedding smart furnace |  
 | bip_39_word_space_9 | trigger invite easily deny short wedding smart furnace thrive |  
+| bip_39_word_underscore_1 | trigger |  
+| bip_39_word_underscore_10 | trigger_invite_easily_deny_short_wedding_smart_furnace_thrive_faint |  
+| bip_39_word_underscore_11 | trigger_invite_easily_deny_short_wedding_smart_furnace_thrive_faint_monster |  
+| bip_39_word_underscore_12 | trigger_invite_easily_deny_short_wedding_smart_furnace_thrive_faint_monster_apart |  
+| bip_39_word_underscore_2 | trigger_invite |  
+| bip_39_word_underscore_3 | trigger_invite_easily |  
+| bip_39_word_underscore_4 | trigger_invite_easily_deny |  
+| bip_39_word_underscore_5 | trigger_invite_easily_deny_short |  
+| bip_39_word_underscore_6 | trigger_invite_easily_deny_short_wedding |  
+| bip_39_word_underscore_7 | trigger_invite_easily_deny_short_wedding_smart |  
+| bip_39_word_underscore_8 | trigger_invite_easily_deny_short_wedding_smart_furnace |  
+| bip_39_word_underscore_9 | trigger_invite_easily_deny_short_wedding_smart_furnace_thrive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thunder |  
+| bip_39_word_dash_10 | thunder-second-reopen-quality-play-anger-impose-math-beef-mixed |  
+| bip_39_word_dash_11 | thunder-second-reopen-quality-play-anger-impose-math-beef-mixed-owner |  
+| bip_39_word_dash_12 | thunder-second-reopen-quality-play-anger-impose-math-beef-mixed-owner-autumn |  
+| bip_39_word_dash_2 | thunder-second |  
+| bip_39_word_dash_3 | thunder-second-reopen |  
+| bip_39_word_dash_4 | thunder-second-reopen-quality |  
+| bip_39_word_dash_5 | thunder-second-reopen-quality-play |  
+| bip_39_word_dash_6 | thunder-second-reopen-quality-play-anger |  
+| bip_39_word_dash_7 | thunder-second-reopen-quality-play-anger-impose |  
+| bip_39_word_dash_8 | thunder-second-reopen-quality-play-anger-impose-math |  
+| bip_39_word_dash_9 | thunder-second-reopen-quality-play-anger-impose-math-beef |  
 | bip_39_word_new_br_1 | thunder |  
 | bip_39_word_new_br_10 | thunder<br>second<br>reopen<br>quality<br>play<br>anger<br>impose<br>math<br>beef<br>mixed |  
 | bip_39_word_new_br_11 | thunder<br>second<br>reopen<br>quality<br>play<br>anger<br>impose<br>math<br>beef<br>mixed<br>owner |  
@@ -147,6 +159,18 @@ beef |
 | bip_39_word_space_7 | thunder second reopen quality play anger impose |  
 | bip_39_word_space_8 | thunder second reopen quality play anger impose math |  
 | bip_39_word_space_9 | thunder second reopen quality play anger impose math beef |  
+| bip_39_word_underscore_1 | thunder |  
+| bip_39_word_underscore_10 | thunder_second_reopen_quality_play_anger_impose_math_beef_mixed |  
+| bip_39_word_underscore_11 | thunder_second_reopen_quality_play_anger_impose_math_beef_mixed_owner |  
+| bip_39_word_underscore_12 | thunder_second_reopen_quality_play_anger_impose_math_beef_mixed_owner_autumn |  
+| bip_39_word_underscore_2 | thunder_second |  
+| bip_39_word_underscore_3 | thunder_second_reopen |  
+| bip_39_word_underscore_4 | thunder_second_reopen_quality |  
+| bip_39_word_underscore_5 | thunder_second_reopen_quality_play |  
+| bip_39_word_underscore_6 | thunder_second_reopen_quality_play_anger |  
+| bip_39_word_underscore_7 | thunder_second_reopen_quality_play_anger_impose |  
+| bip_39_word_underscore_8 | thunder_second_reopen_quality_play_anger_impose_math |  
+| bip_39_word_underscore_9 | thunder_second_reopen_quality_play_anger_impose_math_beef |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

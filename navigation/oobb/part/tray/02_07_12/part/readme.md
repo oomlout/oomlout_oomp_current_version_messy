@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wheel |  
+| bip_39_word_dash_10 | wheel-name-supply-excess-churn-civil-install-turtle-ride-wrist |  
+| bip_39_word_dash_11 | wheel-name-supply-excess-churn-civil-install-turtle-ride-wrist-hole |  
+| bip_39_word_dash_12 | wheel-name-supply-excess-churn-civil-install-turtle-ride-wrist-hole-allow |  
+| bip_39_word_dash_2 | wheel-name |  
+| bip_39_word_dash_3 | wheel-name-supply |  
+| bip_39_word_dash_4 | wheel-name-supply-excess |  
+| bip_39_word_dash_5 | wheel-name-supply-excess-churn |  
+| bip_39_word_dash_6 | wheel-name-supply-excess-churn-civil |  
+| bip_39_word_dash_7 | wheel-name-supply-excess-churn-civil-install |  
+| bip_39_word_dash_8 | wheel-name-supply-excess-churn-civil-install-turtle |  
+| bip_39_word_dash_9 | wheel-name-supply-excess-churn-civil-install-turtle-ride |  
 | bip_39_word_new_br_1 | wheel |  
 | bip_39_word_new_br_10 | wheel<br>name<br>supply<br>excess<br>churn<br>civil<br>install<br>turtle<br>ride<br>wrist |  
 | bip_39_word_new_br_11 | wheel<br>name<br>supply<br>excess<br>churn<br>civil<br>install<br>turtle<br>ride<br>wrist<br>hole |  
@@ -147,6 +159,18 @@ ride |
 | bip_39_word_space_7 | wheel name supply excess churn civil install |  
 | bip_39_word_space_8 | wheel name supply excess churn civil install turtle |  
 | bip_39_word_space_9 | wheel name supply excess churn civil install turtle ride |  
+| bip_39_word_underscore_1 | wheel |  
+| bip_39_word_underscore_10 | wheel_name_supply_excess_churn_civil_install_turtle_ride_wrist |  
+| bip_39_word_underscore_11 | wheel_name_supply_excess_churn_civil_install_turtle_ride_wrist_hole |  
+| bip_39_word_underscore_12 | wheel_name_supply_excess_churn_civil_install_turtle_ride_wrist_hole_allow |  
+| bip_39_word_underscore_2 | wheel_name |  
+| bip_39_word_underscore_3 | wheel_name_supply |  
+| bip_39_word_underscore_4 | wheel_name_supply_excess |  
+| bip_39_word_underscore_5 | wheel_name_supply_excess_churn |  
+| bip_39_word_underscore_6 | wheel_name_supply_excess_churn_civil |  
+| bip_39_word_underscore_7 | wheel_name_supply_excess_churn_civil_install |  
+| bip_39_word_underscore_8 | wheel_name_supply_excess_churn_civil_install_turtle |  
+| bip_39_word_underscore_9 | wheel_name_supply_excess_churn_civil_install_turtle_ride |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

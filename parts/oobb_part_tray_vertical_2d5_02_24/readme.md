@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hobby |  
+| bip_39_word_dash_10 | hobby-venue-wasp-version-traffic-switch-dress-thought-language-cage |  
+| bip_39_word_dash_11 | hobby-venue-wasp-version-traffic-switch-dress-thought-language-cage-average |  
+| bip_39_word_dash_12 | hobby-venue-wasp-version-traffic-switch-dress-thought-language-cage-average-argue |  
+| bip_39_word_dash_2 | hobby-venue |  
+| bip_39_word_dash_3 | hobby-venue-wasp |  
+| bip_39_word_dash_4 | hobby-venue-wasp-version |  
+| bip_39_word_dash_5 | hobby-venue-wasp-version-traffic |  
+| bip_39_word_dash_6 | hobby-venue-wasp-version-traffic-switch |  
+| bip_39_word_dash_7 | hobby-venue-wasp-version-traffic-switch-dress |  
+| bip_39_word_dash_8 | hobby-venue-wasp-version-traffic-switch-dress-thought |  
+| bip_39_word_dash_9 | hobby-venue-wasp-version-traffic-switch-dress-thought-language |  
 | bip_39_word_new_br_1 | hobby |  
 | bip_39_word_new_br_10 | hobby<br>venue<br>wasp<br>version<br>traffic<br>switch<br>dress<br>thought<br>language<br>cage |  
 | bip_39_word_new_br_11 | hobby<br>venue<br>wasp<br>version<br>traffic<br>switch<br>dress<br>thought<br>language<br>cage<br>average |  
@@ -147,6 +159,18 @@ language |
 | bip_39_word_space_7 | hobby venue wasp version traffic switch dress |  
 | bip_39_word_space_8 | hobby venue wasp version traffic switch dress thought |  
 | bip_39_word_space_9 | hobby venue wasp version traffic switch dress thought language |  
+| bip_39_word_underscore_1 | hobby |  
+| bip_39_word_underscore_10 | hobby_venue_wasp_version_traffic_switch_dress_thought_language_cage |  
+| bip_39_word_underscore_11 | hobby_venue_wasp_version_traffic_switch_dress_thought_language_cage_average |  
+| bip_39_word_underscore_12 | hobby_venue_wasp_version_traffic_switch_dress_thought_language_cage_average_argue |  
+| bip_39_word_underscore_2 | hobby_venue |  
+| bip_39_word_underscore_3 | hobby_venue_wasp |  
+| bip_39_word_underscore_4 | hobby_venue_wasp_version |  
+| bip_39_word_underscore_5 | hobby_venue_wasp_version_traffic |  
+| bip_39_word_underscore_6 | hobby_venue_wasp_version_traffic_switch |  
+| bip_39_word_underscore_7 | hobby_venue_wasp_version_traffic_switch_dress |  
+| bip_39_word_underscore_8 | hobby_venue_wasp_version_traffic_switch_dress_thought |  
+| bip_39_word_underscore_9 | hobby_venue_wasp_version_traffic_switch_dress_thought_language |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grunt |  
+| bip_39_word_dash_10 | grunt-swamp-order-story-glory-problem-cement-stool-almost-gauge |  
+| bip_39_word_dash_11 | grunt-swamp-order-story-glory-problem-cement-stool-almost-gauge-guard |  
+| bip_39_word_dash_12 | grunt-swamp-order-story-glory-problem-cement-stool-almost-gauge-guard-average |  
+| bip_39_word_dash_2 | grunt-swamp |  
+| bip_39_word_dash_3 | grunt-swamp-order |  
+| bip_39_word_dash_4 | grunt-swamp-order-story |  
+| bip_39_word_dash_5 | grunt-swamp-order-story-glory |  
+| bip_39_word_dash_6 | grunt-swamp-order-story-glory-problem |  
+| bip_39_word_dash_7 | grunt-swamp-order-story-glory-problem-cement |  
+| bip_39_word_dash_8 | grunt-swamp-order-story-glory-problem-cement-stool |  
+| bip_39_word_dash_9 | grunt-swamp-order-story-glory-problem-cement-stool-almost |  
 | bip_39_word_new_br_1 | grunt |  
 | bip_39_word_new_br_10 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool<br>almost<br>gauge |  
 | bip_39_word_new_br_11 | grunt<br>swamp<br>order<br>story<br>glory<br>problem<br>cement<br>stool<br>almost<br>gauge<br>guard |  
@@ -147,6 +159,18 @@ almost |
 | bip_39_word_space_7 | grunt swamp order story glory problem cement |  
 | bip_39_word_space_8 | grunt swamp order story glory problem cement stool |  
 | bip_39_word_space_9 | grunt swamp order story glory problem cement stool almost |  
+| bip_39_word_underscore_1 | grunt |  
+| bip_39_word_underscore_10 | grunt_swamp_order_story_glory_problem_cement_stool_almost_gauge |  
+| bip_39_word_underscore_11 | grunt_swamp_order_story_glory_problem_cement_stool_almost_gauge_guard |  
+| bip_39_word_underscore_12 | grunt_swamp_order_story_glory_problem_cement_stool_almost_gauge_guard_average |  
+| bip_39_word_underscore_2 | grunt_swamp |  
+| bip_39_word_underscore_3 | grunt_swamp_order |  
+| bip_39_word_underscore_4 | grunt_swamp_order_story |  
+| bip_39_word_underscore_5 | grunt_swamp_order_story_glory |  
+| bip_39_word_underscore_6 | grunt_swamp_order_story_glory_problem |  
+| bip_39_word_underscore_7 | grunt_swamp_order_story_glory_problem_cement |  
+| bip_39_word_underscore_8 | grunt_swamp_order_story_glory_problem_cement_stool |  
+| bip_39_word_underscore_9 | grunt_swamp_order_story_glory_problem_cement_stool_almost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

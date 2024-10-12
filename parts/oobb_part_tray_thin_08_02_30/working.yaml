@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fox
+bip_39_word_dash_10: fox-high-husband-clump-subway-crucial-flag-web-wise-obtain
+bip_39_word_dash_11: fox-high-husband-clump-subway-crucial-flag-web-wise-obtain-uniform
+bip_39_word_dash_12: fox-high-husband-clump-subway-crucial-flag-web-wise-obtain-uniform-armor
+bip_39_word_dash_2: fox-high
+bip_39_word_dash_3: fox-high-husband
+bip_39_word_dash_4: fox-high-husband-clump
+bip_39_word_dash_5: fox-high-husband-clump-subway
+bip_39_word_dash_6: fox-high-husband-clump-subway-crucial
+bip_39_word_dash_7: fox-high-husband-clump-subway-crucial-flag
+bip_39_word_dash_8: fox-high-husband-clump-subway-crucial-flag-web
+bip_39_word_dash_9: fox-high-husband-clump-subway-crucial-flag-web-wise
 bip_39_word_new_br_1: fox
 bip_39_word_new_br_10: fox<br>high<br>husband<br>clump<br>subway<br>crucial<br>flag<br>web<br>wise<br>obtain
 bip_39_word_new_br_11: fox<br>high<br>husband<br>clump<br>subway<br>crucial<br>flag<br>web<br>wise<br>obtain<br>uniform
@@ -192,6 +204,18 @@ bip_39_word_space_6: fox high husband clump subway crucial
 bip_39_word_space_7: fox high husband clump subway crucial flag
 bip_39_word_space_8: fox high husband clump subway crucial flag web
 bip_39_word_space_9: fox high husband clump subway crucial flag web wise
+bip_39_word_underscore_1: fox
+bip_39_word_underscore_10: fox_high_husband_clump_subway_crucial_flag_web_wise_obtain
+bip_39_word_underscore_11: fox_high_husband_clump_subway_crucial_flag_web_wise_obtain_uniform
+bip_39_word_underscore_12: fox_high_husband_clump_subway_crucial_flag_web_wise_obtain_uniform_armor
+bip_39_word_underscore_2: fox_high
+bip_39_word_underscore_3: fox_high_husband
+bip_39_word_underscore_4: fox_high_husband_clump
+bip_39_word_underscore_5: fox_high_husband_clump_subway
+bip_39_word_underscore_6: fox_high_husband_clump_subway_crucial
+bip_39_word_underscore_7: fox_high_husband_clump_subway_crucial_flag
+bip_39_word_underscore_8: fox_high_husband_clump_subway_crucial_flag_web
+bip_39_word_underscore_9: fox_high_husband_clump_subway_crucial_flag_web_wise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

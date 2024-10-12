@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | black |  
+| bip_39_word_dash_10 | black-grunt-impulse-jelly-artefact-donor-fortune-innocent-fat-ugly |  
+| bip_39_word_dash_11 | black-grunt-impulse-jelly-artefact-donor-fortune-innocent-fat-ugly-choice |  
+| bip_39_word_dash_12 | black-grunt-impulse-jelly-artefact-donor-fortune-innocent-fat-ugly-choice-alien |  
+| bip_39_word_dash_2 | black-grunt |  
+| bip_39_word_dash_3 | black-grunt-impulse |  
+| bip_39_word_dash_4 | black-grunt-impulse-jelly |  
+| bip_39_word_dash_5 | black-grunt-impulse-jelly-artefact |  
+| bip_39_word_dash_6 | black-grunt-impulse-jelly-artefact-donor |  
+| bip_39_word_dash_7 | black-grunt-impulse-jelly-artefact-donor-fortune |  
+| bip_39_word_dash_8 | black-grunt-impulse-jelly-artefact-donor-fortune-innocent |  
+| bip_39_word_dash_9 | black-grunt-impulse-jelly-artefact-donor-fortune-innocent-fat |  
 | bip_39_word_new_br_1 | black |  
 | bip_39_word_new_br_10 | black<br>grunt<br>impulse<br>jelly<br>artefact<br>donor<br>fortune<br>innocent<br>fat<br>ugly |  
 | bip_39_word_new_br_11 | black<br>grunt<br>impulse<br>jelly<br>artefact<br>donor<br>fortune<br>innocent<br>fat<br>ugly<br>choice |  
@@ -147,6 +159,18 @@ fat |
 | bip_39_word_space_7 | black grunt impulse jelly artefact donor fortune |  
 | bip_39_word_space_8 | black grunt impulse jelly artefact donor fortune innocent |  
 | bip_39_word_space_9 | black grunt impulse jelly artefact donor fortune innocent fat |  
+| bip_39_word_underscore_1 | black |  
+| bip_39_word_underscore_10 | black_grunt_impulse_jelly_artefact_donor_fortune_innocent_fat_ugly |  
+| bip_39_word_underscore_11 | black_grunt_impulse_jelly_artefact_donor_fortune_innocent_fat_ugly_choice |  
+| bip_39_word_underscore_12 | black_grunt_impulse_jelly_artefact_donor_fortune_innocent_fat_ugly_choice_alien |  
+| bip_39_word_underscore_2 | black_grunt |  
+| bip_39_word_underscore_3 | black_grunt_impulse |  
+| bip_39_word_underscore_4 | black_grunt_impulse_jelly |  
+| bip_39_word_underscore_5 | black_grunt_impulse_jelly_artefact |  
+| bip_39_word_underscore_6 | black_grunt_impulse_jelly_artefact_donor |  
+| bip_39_word_underscore_7 | black_grunt_impulse_jelly_artefact_donor_fortune |  
+| bip_39_word_underscore_8 | black_grunt_impulse_jelly_artefact_donor_fortune_innocent |  
+| bip_39_word_underscore_9 | black_grunt_impulse_jelly_artefact_donor_fortune_innocent_fat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

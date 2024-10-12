@@ -1,3 +1,15 @@
+bip_39_word_dash_1: guitar
+bip_39_word_dash_10: guitar-badge-table-undo-bring-small-rebel-bone-actual-plastic
+bip_39_word_dash_11: guitar-badge-table-undo-bring-small-rebel-bone-actual-plastic-virtual
+bip_39_word_dash_12: guitar-badge-table-undo-bring-small-rebel-bone-actual-plastic-virtual-apart
+bip_39_word_dash_2: guitar-badge
+bip_39_word_dash_3: guitar-badge-table
+bip_39_word_dash_4: guitar-badge-table-undo
+bip_39_word_dash_5: guitar-badge-table-undo-bring
+bip_39_word_dash_6: guitar-badge-table-undo-bring-small
+bip_39_word_dash_7: guitar-badge-table-undo-bring-small-rebel
+bip_39_word_dash_8: guitar-badge-table-undo-bring-small-rebel-bone
+bip_39_word_dash_9: guitar-badge-table-undo-bring-small-rebel-bone-actual
 bip_39_word_new_br_1: guitar
 bip_39_word_new_br_10: guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone<br>actual<br>plastic
 bip_39_word_new_br_11: guitar<br>badge<br>table<br>undo<br>bring<br>small<br>rebel<br>bone<br>actual<br>plastic<br>virtual
@@ -193,6 +205,18 @@ bip_39_word_space_6: guitar badge table undo bring small
 bip_39_word_space_7: guitar badge table undo bring small rebel
 bip_39_word_space_8: guitar badge table undo bring small rebel bone
 bip_39_word_space_9: guitar badge table undo bring small rebel bone actual
+bip_39_word_underscore_1: guitar
+bip_39_word_underscore_10: guitar_badge_table_undo_bring_small_rebel_bone_actual_plastic
+bip_39_word_underscore_11: guitar_badge_table_undo_bring_small_rebel_bone_actual_plastic_virtual
+bip_39_word_underscore_12: guitar_badge_table_undo_bring_small_rebel_bone_actual_plastic_virtual_apart
+bip_39_word_underscore_2: guitar_badge
+bip_39_word_underscore_3: guitar_badge_table
+bip_39_word_underscore_4: guitar_badge_table_undo
+bip_39_word_underscore_5: guitar_badge_table_undo_bring
+bip_39_word_underscore_6: guitar_badge_table_undo_bring_small
+bip_39_word_underscore_7: guitar_badge_table_undo_bring_small_rebel
+bip_39_word_underscore_8: guitar_badge_table_undo_bring_small_rebel_bone
+bip_39_word_underscore_9: guitar_badge_table_undo_bring_small_rebel_bone_actual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

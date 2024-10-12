@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tree |  
+| bip_39_word_dash_10 | tree-magic-combine-series-eager-crew-door-market-nut-man |  
+| bip_39_word_dash_11 | tree-magic-combine-series-eager-crew-door-market-nut-man-woman |  
+| bip_39_word_dash_12 | tree-magic-combine-series-eager-crew-door-market-nut-man-woman-actress |  
+| bip_39_word_dash_2 | tree-magic |  
+| bip_39_word_dash_3 | tree-magic-combine |  
+| bip_39_word_dash_4 | tree-magic-combine-series |  
+| bip_39_word_dash_5 | tree-magic-combine-series-eager |  
+| bip_39_word_dash_6 | tree-magic-combine-series-eager-crew |  
+| bip_39_word_dash_7 | tree-magic-combine-series-eager-crew-door |  
+| bip_39_word_dash_8 | tree-magic-combine-series-eager-crew-door-market |  
+| bip_39_word_dash_9 | tree-magic-combine-series-eager-crew-door-market-nut |  
 | bip_39_word_new_br_1 | tree |  
 | bip_39_word_new_br_10 | tree<br>magic<br>combine<br>series<br>eager<br>crew<br>door<br>market<br>nut<br>man |  
 | bip_39_word_new_br_11 | tree<br>magic<br>combine<br>series<br>eager<br>crew<br>door<br>market<br>nut<br>man<br>woman |  
@@ -147,6 +159,18 @@ nut |
 | bip_39_word_space_7 | tree magic combine series eager crew door |  
 | bip_39_word_space_8 | tree magic combine series eager crew door market |  
 | bip_39_word_space_9 | tree magic combine series eager crew door market nut |  
+| bip_39_word_underscore_1 | tree |  
+| bip_39_word_underscore_10 | tree_magic_combine_series_eager_crew_door_market_nut_man |  
+| bip_39_word_underscore_11 | tree_magic_combine_series_eager_crew_door_market_nut_man_woman |  
+| bip_39_word_underscore_12 | tree_magic_combine_series_eager_crew_door_market_nut_man_woman_actress |  
+| bip_39_word_underscore_2 | tree_magic |  
+| bip_39_word_underscore_3 | tree_magic_combine |  
+| bip_39_word_underscore_4 | tree_magic_combine_series |  
+| bip_39_word_underscore_5 | tree_magic_combine_series_eager |  
+| bip_39_word_underscore_6 | tree_magic_combine_series_eager_crew |  
+| bip_39_word_underscore_7 | tree_magic_combine_series_eager_crew_door |  
+| bip_39_word_underscore_8 | tree_magic_combine_series_eager_crew_door_market |  
+| bip_39_word_underscore_9 | tree_magic_combine_series_eager_crew_door_market_nut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,14 @@
+bip_39_word_dash_1: mountain
+bip_39_word_dash_10: mountain-avoid-slim-absent-picnic-rough-try-rough-jelly-business
+bip_39_word_dash_11: mountain-avoid-slim-absent-picnic-rough-try-rough-jelly-business-afraid
+bip_39_word_dash_2: mountain-avoid
+bip_39_word_dash_3: mountain-avoid-slim
+bip_39_word_dash_4: mountain-avoid-slim-absent
+bip_39_word_dash_5: mountain-avoid-slim-absent-picnic
+bip_39_word_dash_6: mountain-avoid-slim-absent-picnic-rough
+bip_39_word_dash_7: mountain-avoid-slim-absent-picnic-rough-try
+bip_39_word_dash_8: mountain-avoid-slim-absent-picnic-rough-try-rough
+bip_39_word_dash_9: mountain-avoid-slim-absent-picnic-rough-try-rough-jelly
 bip_39_word_new_br_1: mountain
 bip_39_word_new_br_10: mountain<br>avoid<br>slim<br>absent<br>picnic<br>rough<br>try<br>rough<br>jelly<br>business
 bip_39_word_new_br_11: mountain<br>avoid<br>slim<br>absent<br>picnic<br>rough<br>try<br>rough<br>jelly<br>business<br>afraid
@@ -165,6 +176,17 @@ bip_39_word_space_6: mountain avoid slim absent picnic rough
 bip_39_word_space_7: mountain avoid slim absent picnic rough try
 bip_39_word_space_8: mountain avoid slim absent picnic rough try rough
 bip_39_word_space_9: mountain avoid slim absent picnic rough try rough jelly
+bip_39_word_underscore_1: mountain
+bip_39_word_underscore_10: mountain_avoid_slim_absent_picnic_rough_try_rough_jelly_business
+bip_39_word_underscore_11: mountain_avoid_slim_absent_picnic_rough_try_rough_jelly_business_afraid
+bip_39_word_underscore_2: mountain_avoid
+bip_39_word_underscore_3: mountain_avoid_slim
+bip_39_word_underscore_4: mountain_avoid_slim_absent
+bip_39_word_underscore_5: mountain_avoid_slim_absent_picnic
+bip_39_word_underscore_6: mountain_avoid_slim_absent_picnic_rough
+bip_39_word_underscore_7: mountain_avoid_slim_absent_picnic_rough_try
+bip_39_word_underscore_8: mountain_avoid_slim_absent_picnic_rough_try_rough
+bip_39_word_underscore_9: mountain_avoid_slim_absent_picnic_rough_try_rough_jelly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

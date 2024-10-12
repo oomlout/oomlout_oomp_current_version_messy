@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | what |  
+| bip_39_word_dash_10 | what-survey-case-survey-suit-wink-creek-clever-connect-cute |  
+| bip_39_word_dash_11 | what-survey-case-survey-suit-wink-creek-clever-connect-cute-essay |  
+| bip_39_word_dash_12 | what-survey-case-survey-suit-wink-creek-clever-connect-cute-essay-about |  
+| bip_39_word_dash_2 | what-survey |  
+| bip_39_word_dash_3 | what-survey-case |  
+| bip_39_word_dash_4 | what-survey-case-survey |  
+| bip_39_word_dash_5 | what-survey-case-survey-suit |  
+| bip_39_word_dash_6 | what-survey-case-survey-suit-wink |  
+| bip_39_word_dash_7 | what-survey-case-survey-suit-wink-creek |  
+| bip_39_word_dash_8 | what-survey-case-survey-suit-wink-creek-clever |  
+| bip_39_word_dash_9 | what-survey-case-survey-suit-wink-creek-clever-connect |  
 | bip_39_word_new_br_1 | what |  
 | bip_39_word_new_br_10 | what<br>survey<br>case<br>survey<br>suit<br>wink<br>creek<br>clever<br>connect<br>cute |  
 | bip_39_word_new_br_11 | what<br>survey<br>case<br>survey<br>suit<br>wink<br>creek<br>clever<br>connect<br>cute<br>essay |  
@@ -147,6 +159,18 @@ connect |
 | bip_39_word_space_7 | what survey case survey suit wink creek |  
 | bip_39_word_space_8 | what survey case survey suit wink creek clever |  
 | bip_39_word_space_9 | what survey case survey suit wink creek clever connect |  
+| bip_39_word_underscore_1 | what |  
+| bip_39_word_underscore_10 | what_survey_case_survey_suit_wink_creek_clever_connect_cute |  
+| bip_39_word_underscore_11 | what_survey_case_survey_suit_wink_creek_clever_connect_cute_essay |  
+| bip_39_word_underscore_12 | what_survey_case_survey_suit_wink_creek_clever_connect_cute_essay_about |  
+| bip_39_word_underscore_2 | what_survey |  
+| bip_39_word_underscore_3 | what_survey_case |  
+| bip_39_word_underscore_4 | what_survey_case_survey |  
+| bip_39_word_underscore_5 | what_survey_case_survey_suit |  
+| bip_39_word_underscore_6 | what_survey_case_survey_suit_wink |  
+| bip_39_word_underscore_7 | what_survey_case_survey_suit_wink_creek |  
+| bip_39_word_underscore_8 | what_survey_case_survey_suit_wink_creek_clever |  
+| bip_39_word_underscore_9 | what_survey_case_survey_suit_wink_creek_clever_connect |  
 | classification | storage |  
 | classification_capital | Storage |  
 | classification_first_letter | s |  

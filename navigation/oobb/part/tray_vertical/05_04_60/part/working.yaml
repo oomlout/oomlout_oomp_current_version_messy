@@ -1,3 +1,15 @@
+bip_39_word_dash_1: side
+bip_39_word_dash_10: side-pupil-easily-age-rigid-lunar-divide-mirror-host-face
+bip_39_word_dash_11: side-pupil-easily-age-rigid-lunar-divide-mirror-host-face-loud
+bip_39_word_dash_12: side-pupil-easily-age-rigid-lunar-divide-mirror-host-face-loud-angry
+bip_39_word_dash_2: side-pupil
+bip_39_word_dash_3: side-pupil-easily
+bip_39_word_dash_4: side-pupil-easily-age
+bip_39_word_dash_5: side-pupil-easily-age-rigid
+bip_39_word_dash_6: side-pupil-easily-age-rigid-lunar
+bip_39_word_dash_7: side-pupil-easily-age-rigid-lunar-divide
+bip_39_word_dash_8: side-pupil-easily-age-rigid-lunar-divide-mirror
+bip_39_word_dash_9: side-pupil-easily-age-rigid-lunar-divide-mirror-host
 bip_39_word_new_br_1: side
 bip_39_word_new_br_10: side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face
 bip_39_word_new_br_11: side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face<br>loud
@@ -192,6 +204,18 @@ bip_39_word_space_6: side pupil easily age rigid lunar
 bip_39_word_space_7: side pupil easily age rigid lunar divide
 bip_39_word_space_8: side pupil easily age rigid lunar divide mirror
 bip_39_word_space_9: side pupil easily age rigid lunar divide mirror host
+bip_39_word_underscore_1: side
+bip_39_word_underscore_10: side_pupil_easily_age_rigid_lunar_divide_mirror_host_face
+bip_39_word_underscore_11: side_pupil_easily_age_rigid_lunar_divide_mirror_host_face_loud
+bip_39_word_underscore_12: side_pupil_easily_age_rigid_lunar_divide_mirror_host_face_loud_angry
+bip_39_word_underscore_2: side_pupil
+bip_39_word_underscore_3: side_pupil_easily
+bip_39_word_underscore_4: side_pupil_easily_age
+bip_39_word_underscore_5: side_pupil_easily_age_rigid
+bip_39_word_underscore_6: side_pupil_easily_age_rigid_lunar
+bip_39_word_underscore_7: side_pupil_easily_age_rigid_lunar_divide
+bip_39_word_underscore_8: side_pupil_easily_age_rigid_lunar_divide_mirror
+bip_39_word_underscore_9: side_pupil_easily_age_rigid_lunar_divide_mirror_host
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

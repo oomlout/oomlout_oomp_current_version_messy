@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | broom |  
+| bip_39_word_dash_10 | broom-grace-topple-gallery-secret-letter-guitar-plastic-wave-install |  
+| bip_39_word_dash_11 | broom-grace-topple-gallery-secret-letter-guitar-plastic-wave-install-fall |  
+| bip_39_word_dash_12 | broom-grace-topple-gallery-secret-letter-guitar-plastic-wave-install-fall-aim |  
+| bip_39_word_dash_2 | broom-grace |  
+| bip_39_word_dash_3 | broom-grace-topple |  
+| bip_39_word_dash_4 | broom-grace-topple-gallery |  
+| bip_39_word_dash_5 | broom-grace-topple-gallery-secret |  
+| bip_39_word_dash_6 | broom-grace-topple-gallery-secret-letter |  
+| bip_39_word_dash_7 | broom-grace-topple-gallery-secret-letter-guitar |  
+| bip_39_word_dash_8 | broom-grace-topple-gallery-secret-letter-guitar-plastic |  
+| bip_39_word_dash_9 | broom-grace-topple-gallery-secret-letter-guitar-plastic-wave |  
 | bip_39_word_new_br_1 | broom |  
 | bip_39_word_new_br_10 | broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic<br>wave<br>install |  
 | bip_39_word_new_br_11 | broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic<br>wave<br>install<br>fall |  
@@ -147,6 +159,18 @@ wave |
 | bip_39_word_space_7 | broom grace topple gallery secret letter guitar |  
 | bip_39_word_space_8 | broom grace topple gallery secret letter guitar plastic |  
 | bip_39_word_space_9 | broom grace topple gallery secret letter guitar plastic wave |  
+| bip_39_word_underscore_1 | broom |  
+| bip_39_word_underscore_10 | broom_grace_topple_gallery_secret_letter_guitar_plastic_wave_install |  
+| bip_39_word_underscore_11 | broom_grace_topple_gallery_secret_letter_guitar_plastic_wave_install_fall |  
+| bip_39_word_underscore_12 | broom_grace_topple_gallery_secret_letter_guitar_plastic_wave_install_fall_aim |  
+| bip_39_word_underscore_2 | broom_grace |  
+| bip_39_word_underscore_3 | broom_grace_topple |  
+| bip_39_word_underscore_4 | broom_grace_topple_gallery |  
+| bip_39_word_underscore_5 | broom_grace_topple_gallery_secret |  
+| bip_39_word_underscore_6 | broom_grace_topple_gallery_secret_letter |  
+| bip_39_word_underscore_7 | broom_grace_topple_gallery_secret_letter_guitar |  
+| bip_39_word_underscore_8 | broom_grace_topple_gallery_secret_letter_guitar_plastic |  
+| bip_39_word_underscore_9 | broom_grace_topple_gallery_secret_letter_guitar_plastic_wave |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

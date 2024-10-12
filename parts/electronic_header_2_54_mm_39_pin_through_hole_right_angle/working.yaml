@@ -1,3 +1,15 @@
+bip_39_word_dash_1: youth
+bip_39_word_dash_10: youth-liberty-attract-plunge-envelope-merry-frozen-vessel-clever-explain
+bip_39_word_dash_11: youth-liberty-attract-plunge-envelope-merry-frozen-vessel-clever-explain-clever
+bip_39_word_dash_12: youth-liberty-attract-plunge-envelope-merry-frozen-vessel-clever-explain-clever-attend
+bip_39_word_dash_2: youth-liberty
+bip_39_word_dash_3: youth-liberty-attract
+bip_39_word_dash_4: youth-liberty-attract-plunge
+bip_39_word_dash_5: youth-liberty-attract-plunge-envelope
+bip_39_word_dash_6: youth-liberty-attract-plunge-envelope-merry
+bip_39_word_dash_7: youth-liberty-attract-plunge-envelope-merry-frozen
+bip_39_word_dash_8: youth-liberty-attract-plunge-envelope-merry-frozen-vessel
+bip_39_word_dash_9: youth-liberty-attract-plunge-envelope-merry-frozen-vessel-clever
 bip_39_word_new_br_1: youth
 bip_39_word_new_br_10: youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel<br>clever<br>explain
 bip_39_word_new_br_11: youth<br>liberty<br>attract<br>plunge<br>envelope<br>merry<br>frozen<br>vessel<br>clever<br>explain<br>clever
@@ -194,6 +206,18 @@ bip_39_word_space_6: youth liberty attract plunge envelope merry
 bip_39_word_space_7: youth liberty attract plunge envelope merry frozen
 bip_39_word_space_8: youth liberty attract plunge envelope merry frozen vessel
 bip_39_word_space_9: youth liberty attract plunge envelope merry frozen vessel clever
+bip_39_word_underscore_1: youth
+bip_39_word_underscore_10: youth_liberty_attract_plunge_envelope_merry_frozen_vessel_clever_explain
+bip_39_word_underscore_11: youth_liberty_attract_plunge_envelope_merry_frozen_vessel_clever_explain_clever
+bip_39_word_underscore_12: youth_liberty_attract_plunge_envelope_merry_frozen_vessel_clever_explain_clever_attend
+bip_39_word_underscore_2: youth_liberty
+bip_39_word_underscore_3: youth_liberty_attract
+bip_39_word_underscore_4: youth_liberty_attract_plunge
+bip_39_word_underscore_5: youth_liberty_attract_plunge_envelope
+bip_39_word_underscore_6: youth_liberty_attract_plunge_envelope_merry
+bip_39_word_underscore_7: youth_liberty_attract_plunge_envelope_merry_frozen
+bip_39_word_underscore_8: youth_liberty_attract_plunge_envelope_merry_frozen_vessel
+bip_39_word_underscore_9: youth_liberty_attract_plunge_envelope_merry_frozen_vessel_clever
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

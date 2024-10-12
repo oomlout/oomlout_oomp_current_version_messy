@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swap |  
+| bip_39_word_dash_10 | swap-clerk-lab-industry-remain-excess-open-mammal-marine-orbit |  
+| bip_39_word_dash_11 | swap-clerk-lab-industry-remain-excess-open-mammal-marine-orbit-enforce |  
+| bip_39_word_dash_12 | swap-clerk-lab-industry-remain-excess-open-mammal-marine-orbit-enforce-amateur |  
+| bip_39_word_dash_2 | swap-clerk |  
+| bip_39_word_dash_3 | swap-clerk-lab |  
+| bip_39_word_dash_4 | swap-clerk-lab-industry |  
+| bip_39_word_dash_5 | swap-clerk-lab-industry-remain |  
+| bip_39_word_dash_6 | swap-clerk-lab-industry-remain-excess |  
+| bip_39_word_dash_7 | swap-clerk-lab-industry-remain-excess-open |  
+| bip_39_word_dash_8 | swap-clerk-lab-industry-remain-excess-open-mammal |  
+| bip_39_word_dash_9 | swap-clerk-lab-industry-remain-excess-open-mammal-marine |  
 | bip_39_word_new_br_1 | swap |  
 | bip_39_word_new_br_10 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit |  
 | bip_39_word_new_br_11 | swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit<br>enforce |  
@@ -147,6 +159,18 @@ marine |
 | bip_39_word_space_7 | swap clerk lab industry remain excess open |  
 | bip_39_word_space_8 | swap clerk lab industry remain excess open mammal |  
 | bip_39_word_space_9 | swap clerk lab industry remain excess open mammal marine |  
+| bip_39_word_underscore_1 | swap |  
+| bip_39_word_underscore_10 | swap_clerk_lab_industry_remain_excess_open_mammal_marine_orbit |  
+| bip_39_word_underscore_11 | swap_clerk_lab_industry_remain_excess_open_mammal_marine_orbit_enforce |  
+| bip_39_word_underscore_12 | swap_clerk_lab_industry_remain_excess_open_mammal_marine_orbit_enforce_amateur |  
+| bip_39_word_underscore_2 | swap_clerk |  
+| bip_39_word_underscore_3 | swap_clerk_lab |  
+| bip_39_word_underscore_4 | swap_clerk_lab_industry |  
+| bip_39_word_underscore_5 | swap_clerk_lab_industry_remain |  
+| bip_39_word_underscore_6 | swap_clerk_lab_industry_remain_excess |  
+| bip_39_word_underscore_7 | swap_clerk_lab_industry_remain_excess_open |  
+| bip_39_word_underscore_8 | swap_clerk_lab_industry_remain_excess_open_mammal |  
+| bip_39_word_underscore_9 | swap_clerk_lab_industry_remain_excess_open_mammal_marine |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

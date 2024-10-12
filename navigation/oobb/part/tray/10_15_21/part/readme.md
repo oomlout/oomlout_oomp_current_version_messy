@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bronze |  
+| bip_39_word_dash_10 | bronze-pipe-nature-critic-blossom-harbor-iron-news-blast-sand |  
+| bip_39_word_dash_11 | bronze-pipe-nature-critic-blossom-harbor-iron-news-blast-sand-shoe |  
+| bip_39_word_dash_12 | bronze-pipe-nature-critic-blossom-harbor-iron-news-blast-sand-shoe-amount |  
+| bip_39_word_dash_2 | bronze-pipe |  
+| bip_39_word_dash_3 | bronze-pipe-nature |  
+| bip_39_word_dash_4 | bronze-pipe-nature-critic |  
+| bip_39_word_dash_5 | bronze-pipe-nature-critic-blossom |  
+| bip_39_word_dash_6 | bronze-pipe-nature-critic-blossom-harbor |  
+| bip_39_word_dash_7 | bronze-pipe-nature-critic-blossom-harbor-iron |  
+| bip_39_word_dash_8 | bronze-pipe-nature-critic-blossom-harbor-iron-news |  
+| bip_39_word_dash_9 | bronze-pipe-nature-critic-blossom-harbor-iron-news-blast |  
 | bip_39_word_new_br_1 | bronze |  
 | bip_39_word_new_br_10 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news<br>blast<br>sand |  
 | bip_39_word_new_br_11 | bronze<br>pipe<br>nature<br>critic<br>blossom<br>harbor<br>iron<br>news<br>blast<br>sand<br>shoe |  
@@ -147,6 +159,18 @@ blast |
 | bip_39_word_space_7 | bronze pipe nature critic blossom harbor iron |  
 | bip_39_word_space_8 | bronze pipe nature critic blossom harbor iron news |  
 | bip_39_word_space_9 | bronze pipe nature critic blossom harbor iron news blast |  
+| bip_39_word_underscore_1 | bronze |  
+| bip_39_word_underscore_10 | bronze_pipe_nature_critic_blossom_harbor_iron_news_blast_sand |  
+| bip_39_word_underscore_11 | bronze_pipe_nature_critic_blossom_harbor_iron_news_blast_sand_shoe |  
+| bip_39_word_underscore_12 | bronze_pipe_nature_critic_blossom_harbor_iron_news_blast_sand_shoe_amount |  
+| bip_39_word_underscore_2 | bronze_pipe |  
+| bip_39_word_underscore_3 | bronze_pipe_nature |  
+| bip_39_word_underscore_4 | bronze_pipe_nature_critic |  
+| bip_39_word_underscore_5 | bronze_pipe_nature_critic_blossom |  
+| bip_39_word_underscore_6 | bronze_pipe_nature_critic_blossom_harbor |  
+| bip_39_word_underscore_7 | bronze_pipe_nature_critic_blossom_harbor_iron |  
+| bip_39_word_underscore_8 | bronze_pipe_nature_critic_blossom_harbor_iron_news |  
+| bip_39_word_underscore_9 | bronze_pipe_nature_critic_blossom_harbor_iron_news_blast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | auto |  
+| bip_39_word_dash_10 | auto-loop-material-very-tuition-lunch-eye-layer-disorder-hello |  
+| bip_39_word_dash_11 | auto-loop-material-very-tuition-lunch-eye-layer-disorder-hello-please |  
+| bip_39_word_dash_12 | auto-loop-material-very-tuition-lunch-eye-layer-disorder-hello-please-alien |  
+| bip_39_word_dash_2 | auto-loop |  
+| bip_39_word_dash_3 | auto-loop-material |  
+| bip_39_word_dash_4 | auto-loop-material-very |  
+| bip_39_word_dash_5 | auto-loop-material-very-tuition |  
+| bip_39_word_dash_6 | auto-loop-material-very-tuition-lunch |  
+| bip_39_word_dash_7 | auto-loop-material-very-tuition-lunch-eye |  
+| bip_39_word_dash_8 | auto-loop-material-very-tuition-lunch-eye-layer |  
+| bip_39_word_dash_9 | auto-loop-material-very-tuition-lunch-eye-layer-disorder |  
 | bip_39_word_new_br_1 | auto |  
 | bip_39_word_new_br_10 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer<br>disorder<br>hello |  
 | bip_39_word_new_br_11 | auto<br>loop<br>material<br>very<br>tuition<br>lunch<br>eye<br>layer<br>disorder<br>hello<br>please |  
@@ -147,6 +159,18 @@ disorder |
 | bip_39_word_space_7 | auto loop material very tuition lunch eye |  
 | bip_39_word_space_8 | auto loop material very tuition lunch eye layer |  
 | bip_39_word_space_9 | auto loop material very tuition lunch eye layer disorder |  
+| bip_39_word_underscore_1 | auto |  
+| bip_39_word_underscore_10 | auto_loop_material_very_tuition_lunch_eye_layer_disorder_hello |  
+| bip_39_word_underscore_11 | auto_loop_material_very_tuition_lunch_eye_layer_disorder_hello_please |  
+| bip_39_word_underscore_12 | auto_loop_material_very_tuition_lunch_eye_layer_disorder_hello_please_alien |  
+| bip_39_word_underscore_2 | auto_loop |  
+| bip_39_word_underscore_3 | auto_loop_material |  
+| bip_39_word_underscore_4 | auto_loop_material_very |  
+| bip_39_word_underscore_5 | auto_loop_material_very_tuition |  
+| bip_39_word_underscore_6 | auto_loop_material_very_tuition_lunch |  
+| bip_39_word_underscore_7 | auto_loop_material_very_tuition_lunch_eye |  
+| bip_39_word_underscore_8 | auto_loop_material_very_tuition_lunch_eye_layer |  
+| bip_39_word_underscore_9 | auto_loop_material_very_tuition_lunch_eye_layer_disorder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

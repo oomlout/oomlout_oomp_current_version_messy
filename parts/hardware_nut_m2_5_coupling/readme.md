@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kite |  
+| bip_39_word_dash_10 | kite-step-zoo-trend-protect-dose-size-window-unfold-charge |  
+| bip_39_word_dash_11 | kite-step-zoo-trend-protect-dose-size-window-unfold-charge-web |  
+| bip_39_word_dash_12 | kite-step-zoo-trend-protect-dose-size-window-unfold-charge-web-author |  
+| bip_39_word_dash_2 | kite-step |  
+| bip_39_word_dash_3 | kite-step-zoo |  
+| bip_39_word_dash_4 | kite-step-zoo-trend |  
+| bip_39_word_dash_5 | kite-step-zoo-trend-protect |  
+| bip_39_word_dash_6 | kite-step-zoo-trend-protect-dose |  
+| bip_39_word_dash_7 | kite-step-zoo-trend-protect-dose-size |  
+| bip_39_word_dash_8 | kite-step-zoo-trend-protect-dose-size-window |  
+| bip_39_word_dash_9 | kite-step-zoo-trend-protect-dose-size-window-unfold |  
 | bip_39_word_new_br_1 | kite |  
 | bip_39_word_new_br_10 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window<br>unfold<br>charge |  
 | bip_39_word_new_br_11 | kite<br>step<br>zoo<br>trend<br>protect<br>dose<br>size<br>window<br>unfold<br>charge<br>web |  
@@ -147,6 +159,18 @@ unfold |
 | bip_39_word_space_7 | kite step zoo trend protect dose size |  
 | bip_39_word_space_8 | kite step zoo trend protect dose size window |  
 | bip_39_word_space_9 | kite step zoo trend protect dose size window unfold |  
+| bip_39_word_underscore_1 | kite |  
+| bip_39_word_underscore_10 | kite_step_zoo_trend_protect_dose_size_window_unfold_charge |  
+| bip_39_word_underscore_11 | kite_step_zoo_trend_protect_dose_size_window_unfold_charge_web |  
+| bip_39_word_underscore_12 | kite_step_zoo_trend_protect_dose_size_window_unfold_charge_web_author |  
+| bip_39_word_underscore_2 | kite_step |  
+| bip_39_word_underscore_3 | kite_step_zoo |  
+| bip_39_word_underscore_4 | kite_step_zoo_trend |  
+| bip_39_word_underscore_5 | kite_step_zoo_trend_protect |  
+| bip_39_word_underscore_6 | kite_step_zoo_trend_protect_dose |  
+| bip_39_word_underscore_7 | kite_step_zoo_trend_protect_dose_size |  
+| bip_39_word_underscore_8 | kite_step_zoo_trend_protect_dose_size_window |  
+| bip_39_word_underscore_9 | kite_step_zoo_trend_protect_dose_size_window_unfold |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

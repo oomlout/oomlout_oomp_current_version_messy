@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fatal |  
+| bip_39_word_dash_10 | fatal-change-ugly-cricket-differ-major-flight-slogan-help-mom |  
+| bip_39_word_dash_11 | fatal-change-ugly-cricket-differ-major-flight-slogan-help-mom-language |  
+| bip_39_word_dash_12 | fatal-change-ugly-cricket-differ-major-flight-slogan-help-mom-language-also |  
+| bip_39_word_dash_2 | fatal-change |  
+| bip_39_word_dash_3 | fatal-change-ugly |  
+| bip_39_word_dash_4 | fatal-change-ugly-cricket |  
+| bip_39_word_dash_5 | fatal-change-ugly-cricket-differ |  
+| bip_39_word_dash_6 | fatal-change-ugly-cricket-differ-major |  
+| bip_39_word_dash_7 | fatal-change-ugly-cricket-differ-major-flight |  
+| bip_39_word_dash_8 | fatal-change-ugly-cricket-differ-major-flight-slogan |  
+| bip_39_word_dash_9 | fatal-change-ugly-cricket-differ-major-flight-slogan-help |  
 | bip_39_word_new_br_1 | fatal |  
 | bip_39_word_new_br_10 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom |  
 | bip_39_word_new_br_11 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom<br>language |  
@@ -147,6 +159,18 @@ help |
 | bip_39_word_space_7 | fatal change ugly cricket differ major flight |  
 | bip_39_word_space_8 | fatal change ugly cricket differ major flight slogan |  
 | bip_39_word_space_9 | fatal change ugly cricket differ major flight slogan help |  
+| bip_39_word_underscore_1 | fatal |  
+| bip_39_word_underscore_10 | fatal_change_ugly_cricket_differ_major_flight_slogan_help_mom |  
+| bip_39_word_underscore_11 | fatal_change_ugly_cricket_differ_major_flight_slogan_help_mom_language |  
+| bip_39_word_underscore_12 | fatal_change_ugly_cricket_differ_major_flight_slogan_help_mom_language_also |  
+| bip_39_word_underscore_2 | fatal_change |  
+| bip_39_word_underscore_3 | fatal_change_ugly |  
+| bip_39_word_underscore_4 | fatal_change_ugly_cricket |  
+| bip_39_word_underscore_5 | fatal_change_ugly_cricket_differ |  
+| bip_39_word_underscore_6 | fatal_change_ugly_cricket_differ_major |  
+| bip_39_word_underscore_7 | fatal_change_ugly_cricket_differ_major_flight |  
+| bip_39_word_underscore_8 | fatal_change_ugly_cricket_differ_major_flight_slogan |  
+| bip_39_word_underscore_9 | fatal_change_ugly_cricket_differ_major_flight_slogan_help |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

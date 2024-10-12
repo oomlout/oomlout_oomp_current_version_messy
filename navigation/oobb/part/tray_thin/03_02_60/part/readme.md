@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | father |  
+| bip_39_word_dash_10 | father-exclude-upgrade-bless-bid-weapon-feel-excite-fashion-sight |  
+| bip_39_word_dash_11 | father-exclude-upgrade-bless-bid-weapon-feel-excite-fashion-sight-absorb |  
+| bip_39_word_dash_12 | father-exclude-upgrade-bless-bid-weapon-feel-excite-fashion-sight-absorb-angry |  
+| bip_39_word_dash_2 | father-exclude |  
+| bip_39_word_dash_3 | father-exclude-upgrade |  
+| bip_39_word_dash_4 | father-exclude-upgrade-bless |  
+| bip_39_word_dash_5 | father-exclude-upgrade-bless-bid |  
+| bip_39_word_dash_6 | father-exclude-upgrade-bless-bid-weapon |  
+| bip_39_word_dash_7 | father-exclude-upgrade-bless-bid-weapon-feel |  
+| bip_39_word_dash_8 | father-exclude-upgrade-bless-bid-weapon-feel-excite |  
+| bip_39_word_dash_9 | father-exclude-upgrade-bless-bid-weapon-feel-excite-fashion |  
 | bip_39_word_new_br_1 | father |  
 | bip_39_word_new_br_10 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite<br>fashion<br>sight |  
 | bip_39_word_new_br_11 | father<br>exclude<br>upgrade<br>bless<br>bid<br>weapon<br>feel<br>excite<br>fashion<br>sight<br>absorb |  
@@ -147,6 +159,18 @@ fashion |
 | bip_39_word_space_7 | father exclude upgrade bless bid weapon feel |  
 | bip_39_word_space_8 | father exclude upgrade bless bid weapon feel excite |  
 | bip_39_word_space_9 | father exclude upgrade bless bid weapon feel excite fashion |  
+| bip_39_word_underscore_1 | father |  
+| bip_39_word_underscore_10 | father_exclude_upgrade_bless_bid_weapon_feel_excite_fashion_sight |  
+| bip_39_word_underscore_11 | father_exclude_upgrade_bless_bid_weapon_feel_excite_fashion_sight_absorb |  
+| bip_39_word_underscore_12 | father_exclude_upgrade_bless_bid_weapon_feel_excite_fashion_sight_absorb_angry |  
+| bip_39_word_underscore_2 | father_exclude |  
+| bip_39_word_underscore_3 | father_exclude_upgrade |  
+| bip_39_word_underscore_4 | father_exclude_upgrade_bless |  
+| bip_39_word_underscore_5 | father_exclude_upgrade_bless_bid |  
+| bip_39_word_underscore_6 | father_exclude_upgrade_bless_bid_weapon |  
+| bip_39_word_underscore_7 | father_exclude_upgrade_bless_bid_weapon_feel |  
+| bip_39_word_underscore_8 | father_exclude_upgrade_bless_bid_weapon_feel_excite |  
+| bip_39_word_underscore_9 | father_exclude_upgrade_bless_bid_weapon_feel_excite_fashion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

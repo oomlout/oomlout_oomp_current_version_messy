@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lunch |  
+| bip_39_word_dash_10 | lunch-zoo-stairs-biology-unfold-old-picnic-cost-until-second |  
+| bip_39_word_dash_11 | lunch-zoo-stairs-biology-unfold-old-picnic-cost-until-second-agree |  
+| bip_39_word_dash_12 | lunch-zoo-stairs-biology-unfold-old-picnic-cost-until-second-agree-avocado |  
+| bip_39_word_dash_2 | lunch-zoo |  
+| bip_39_word_dash_3 | lunch-zoo-stairs |  
+| bip_39_word_dash_4 | lunch-zoo-stairs-biology |  
+| bip_39_word_dash_5 | lunch-zoo-stairs-biology-unfold |  
+| bip_39_word_dash_6 | lunch-zoo-stairs-biology-unfold-old |  
+| bip_39_word_dash_7 | lunch-zoo-stairs-biology-unfold-old-picnic |  
+| bip_39_word_dash_8 | lunch-zoo-stairs-biology-unfold-old-picnic-cost |  
+| bip_39_word_dash_9 | lunch-zoo-stairs-biology-unfold-old-picnic-cost-until |  
 | bip_39_word_new_br_1 | lunch |  
 | bip_39_word_new_br_10 | lunch<br>zoo<br>stairs<br>biology<br>unfold<br>old<br>picnic<br>cost<br>until<br>second |  
 | bip_39_word_new_br_11 | lunch<br>zoo<br>stairs<br>biology<br>unfold<br>old<br>picnic<br>cost<br>until<br>second<br>agree |  
@@ -147,6 +159,18 @@ until |
 | bip_39_word_space_7 | lunch zoo stairs biology unfold old picnic |  
 | bip_39_word_space_8 | lunch zoo stairs biology unfold old picnic cost |  
 | bip_39_word_space_9 | lunch zoo stairs biology unfold old picnic cost until |  
+| bip_39_word_underscore_1 | lunch |  
+| bip_39_word_underscore_10 | lunch_zoo_stairs_biology_unfold_old_picnic_cost_until_second |  
+| bip_39_word_underscore_11 | lunch_zoo_stairs_biology_unfold_old_picnic_cost_until_second_agree |  
+| bip_39_word_underscore_12 | lunch_zoo_stairs_biology_unfold_old_picnic_cost_until_second_agree_avocado |  
+| bip_39_word_underscore_2 | lunch_zoo |  
+| bip_39_word_underscore_3 | lunch_zoo_stairs |  
+| bip_39_word_underscore_4 | lunch_zoo_stairs_biology |  
+| bip_39_word_underscore_5 | lunch_zoo_stairs_biology_unfold |  
+| bip_39_word_underscore_6 | lunch_zoo_stairs_biology_unfold_old |  
+| bip_39_word_underscore_7 | lunch_zoo_stairs_biology_unfold_old_picnic |  
+| bip_39_word_underscore_8 | lunch_zoo_stairs_biology_unfold_old_picnic_cost |  
+| bip_39_word_underscore_9 | lunch_zoo_stairs_biology_unfold_old_picnic_cost_until |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

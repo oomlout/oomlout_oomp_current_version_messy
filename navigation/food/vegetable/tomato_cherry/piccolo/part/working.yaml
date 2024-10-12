@@ -1,3 +1,15 @@
+bip_39_word_dash_1: suggest
+bip_39_word_dash_10: suggest-topic-cover-smile-cross-ethics-file-act-round-man
+bip_39_word_dash_11: suggest-topic-cover-smile-cross-ethics-file-act-round-man-ordinary
+bip_39_word_dash_12: suggest-topic-cover-smile-cross-ethics-file-act-round-man-ordinary-almost
+bip_39_word_dash_2: suggest-topic
+bip_39_word_dash_3: suggest-topic-cover
+bip_39_word_dash_4: suggest-topic-cover-smile
+bip_39_word_dash_5: suggest-topic-cover-smile-cross
+bip_39_word_dash_6: suggest-topic-cover-smile-cross-ethics
+bip_39_word_dash_7: suggest-topic-cover-smile-cross-ethics-file
+bip_39_word_dash_8: suggest-topic-cover-smile-cross-ethics-file-act
+bip_39_word_dash_9: suggest-topic-cover-smile-cross-ethics-file-act-round
 bip_39_word_new_br_1: suggest
 bip_39_word_new_br_10: suggest<br>topic<br>cover<br>smile<br>cross<br>ethics<br>file<br>act<br>round<br>man
 bip_39_word_new_br_11: suggest<br>topic<br>cover<br>smile<br>cross<br>ethics<br>file<br>act<br>round<br>man<br>ordinary
@@ -192,6 +204,18 @@ bip_39_word_space_6: suggest topic cover smile cross ethics
 bip_39_word_space_7: suggest topic cover smile cross ethics file
 bip_39_word_space_8: suggest topic cover smile cross ethics file act
 bip_39_word_space_9: suggest topic cover smile cross ethics file act round
+bip_39_word_underscore_1: suggest
+bip_39_word_underscore_10: suggest_topic_cover_smile_cross_ethics_file_act_round_man
+bip_39_word_underscore_11: suggest_topic_cover_smile_cross_ethics_file_act_round_man_ordinary
+bip_39_word_underscore_12: suggest_topic_cover_smile_cross_ethics_file_act_round_man_ordinary_almost
+bip_39_word_underscore_2: suggest_topic
+bip_39_word_underscore_3: suggest_topic_cover
+bip_39_word_underscore_4: suggest_topic_cover_smile
+bip_39_word_underscore_5: suggest_topic_cover_smile_cross
+bip_39_word_underscore_6: suggest_topic_cover_smile_cross_ethics
+bip_39_word_underscore_7: suggest_topic_cover_smile_cross_ethics_file
+bip_39_word_underscore_8: suggest_topic_cover_smile_cross_ethics_file_act
+bip_39_word_underscore_9: suggest_topic_cover_smile_cross_ethics_file_act_round
 classification: food
 classification_capital: Food
 classification_first_letter: f

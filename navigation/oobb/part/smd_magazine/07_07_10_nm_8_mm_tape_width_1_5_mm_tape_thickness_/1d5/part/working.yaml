@@ -1,3 +1,15 @@
+bip_39_word_dash_1: eager
+bip_39_word_dash_10: eager-frost-scrub-vanish-solution-weapon-flee-turtle-bicycle-tattoo
+bip_39_word_dash_11: eager-frost-scrub-vanish-solution-weapon-flee-turtle-bicycle-tattoo-stamp
+bip_39_word_dash_12: eager-frost-scrub-vanish-solution-weapon-flee-turtle-bicycle-tattoo-stamp-arch
+bip_39_word_dash_2: eager-frost
+bip_39_word_dash_3: eager-frost-scrub
+bip_39_word_dash_4: eager-frost-scrub-vanish
+bip_39_word_dash_5: eager-frost-scrub-vanish-solution
+bip_39_word_dash_6: eager-frost-scrub-vanish-solution-weapon
+bip_39_word_dash_7: eager-frost-scrub-vanish-solution-weapon-flee
+bip_39_word_dash_8: eager-frost-scrub-vanish-solution-weapon-flee-turtle
+bip_39_word_dash_9: eager-frost-scrub-vanish-solution-weapon-flee-turtle-bicycle
 bip_39_word_new_br_1: eager
 bip_39_word_new_br_10: eager<br>frost<br>scrub<br>vanish<br>solution<br>weapon<br>flee<br>turtle<br>bicycle<br>tattoo
 bip_39_word_new_br_11: eager<br>frost<br>scrub<br>vanish<br>solution<br>weapon<br>flee<br>turtle<br>bicycle<br>tattoo<br>stamp
@@ -194,6 +206,18 @@ bip_39_word_space_6: eager frost scrub vanish solution weapon
 bip_39_word_space_7: eager frost scrub vanish solution weapon flee
 bip_39_word_space_8: eager frost scrub vanish solution weapon flee turtle
 bip_39_word_space_9: eager frost scrub vanish solution weapon flee turtle bicycle
+bip_39_word_underscore_1: eager
+bip_39_word_underscore_10: eager_frost_scrub_vanish_solution_weapon_flee_turtle_bicycle_tattoo
+bip_39_word_underscore_11: eager_frost_scrub_vanish_solution_weapon_flee_turtle_bicycle_tattoo_stamp
+bip_39_word_underscore_12: eager_frost_scrub_vanish_solution_weapon_flee_turtle_bicycle_tattoo_stamp_arch
+bip_39_word_underscore_2: eager_frost
+bip_39_word_underscore_3: eager_frost_scrub
+bip_39_word_underscore_4: eager_frost_scrub_vanish
+bip_39_word_underscore_5: eager_frost_scrub_vanish_solution
+bip_39_word_underscore_6: eager_frost_scrub_vanish_solution_weapon
+bip_39_word_underscore_7: eager_frost_scrub_vanish_solution_weapon_flee
+bip_39_word_underscore_8: eager_frost_scrub_vanish_solution_weapon_flee_turtle
+bip_39_word_underscore_9: eager_frost_scrub_vanish_solution_weapon_flee_turtle_bicycle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

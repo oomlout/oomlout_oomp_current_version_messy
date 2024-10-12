@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | citizen |  
+| bip_39_word_dash_10 | citizen-unfair-cheap-amazing-aspect-put-capital-stereo-point-shy |  
+| bip_39_word_dash_11 | citizen-unfair-cheap-amazing-aspect-put-capital-stereo-point-shy-frame |  
+| bip_39_word_dash_12 | citizen-unfair-cheap-amazing-aspect-put-capital-stereo-point-shy-frame-alone |  
+| bip_39_word_dash_2 | citizen-unfair |  
+| bip_39_word_dash_3 | citizen-unfair-cheap |  
+| bip_39_word_dash_4 | citizen-unfair-cheap-amazing |  
+| bip_39_word_dash_5 | citizen-unfair-cheap-amazing-aspect |  
+| bip_39_word_dash_6 | citizen-unfair-cheap-amazing-aspect-put |  
+| bip_39_word_dash_7 | citizen-unfair-cheap-amazing-aspect-put-capital |  
+| bip_39_word_dash_8 | citizen-unfair-cheap-amazing-aspect-put-capital-stereo |  
+| bip_39_word_dash_9 | citizen-unfair-cheap-amazing-aspect-put-capital-stereo-point |  
 | bip_39_word_new_br_1 | citizen |  
 | bip_39_word_new_br_10 | citizen<br>unfair<br>cheap<br>amazing<br>aspect<br>put<br>capital<br>stereo<br>point<br>shy |  
 | bip_39_word_new_br_11 | citizen<br>unfair<br>cheap<br>amazing<br>aspect<br>put<br>capital<br>stereo<br>point<br>shy<br>frame |  
@@ -147,6 +159,18 @@ point |
 | bip_39_word_space_7 | citizen unfair cheap amazing aspect put capital |  
 | bip_39_word_space_8 | citizen unfair cheap amazing aspect put capital stereo |  
 | bip_39_word_space_9 | citizen unfair cheap amazing aspect put capital stereo point |  
+| bip_39_word_underscore_1 | citizen |  
+| bip_39_word_underscore_10 | citizen_unfair_cheap_amazing_aspect_put_capital_stereo_point_shy |  
+| bip_39_word_underscore_11 | citizen_unfair_cheap_amazing_aspect_put_capital_stereo_point_shy_frame |  
+| bip_39_word_underscore_12 | citizen_unfair_cheap_amazing_aspect_put_capital_stereo_point_shy_frame_alone |  
+| bip_39_word_underscore_2 | citizen_unfair |  
+| bip_39_word_underscore_3 | citizen_unfair_cheap |  
+| bip_39_word_underscore_4 | citizen_unfair_cheap_amazing |  
+| bip_39_word_underscore_5 | citizen_unfair_cheap_amazing_aspect |  
+| bip_39_word_underscore_6 | citizen_unfair_cheap_amazing_aspect_put |  
+| bip_39_word_underscore_7 | citizen_unfair_cheap_amazing_aspect_put_capital |  
+| bip_39_word_underscore_8 | citizen_unfair_cheap_amazing_aspect_put_capital_stereo |  
+| bip_39_word_underscore_9 | citizen_unfair_cheap_amazing_aspect_put_capital_stereo_point |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

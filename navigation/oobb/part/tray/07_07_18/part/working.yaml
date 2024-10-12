@@ -1,3 +1,15 @@
+bip_39_word_dash_1: disagree
+bip_39_word_dash_10: disagree-trip-glue-virtual-climb-pool-morning-base-merit-primary
+bip_39_word_dash_11: disagree-trip-glue-virtual-climb-pool-morning-base-merit-primary-detail
+bip_39_word_dash_12: disagree-trip-glue-virtual-climb-pool-morning-base-merit-primary-detail-absent
+bip_39_word_dash_2: disagree-trip
+bip_39_word_dash_3: disagree-trip-glue
+bip_39_word_dash_4: disagree-trip-glue-virtual
+bip_39_word_dash_5: disagree-trip-glue-virtual-climb
+bip_39_word_dash_6: disagree-trip-glue-virtual-climb-pool
+bip_39_word_dash_7: disagree-trip-glue-virtual-climb-pool-morning
+bip_39_word_dash_8: disagree-trip-glue-virtual-climb-pool-morning-base
+bip_39_word_dash_9: disagree-trip-glue-virtual-climb-pool-morning-base-merit
 bip_39_word_new_br_1: disagree
 bip_39_word_new_br_10: disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary
 bip_39_word_new_br_11: disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary<br>detail
@@ -193,6 +205,18 @@ bip_39_word_space_6: disagree trip glue virtual climb pool
 bip_39_word_space_7: disagree trip glue virtual climb pool morning
 bip_39_word_space_8: disagree trip glue virtual climb pool morning base
 bip_39_word_space_9: disagree trip glue virtual climb pool morning base merit
+bip_39_word_underscore_1: disagree
+bip_39_word_underscore_10: disagree_trip_glue_virtual_climb_pool_morning_base_merit_primary
+bip_39_word_underscore_11: disagree_trip_glue_virtual_climb_pool_morning_base_merit_primary_detail
+bip_39_word_underscore_12: disagree_trip_glue_virtual_climb_pool_morning_base_merit_primary_detail_absent
+bip_39_word_underscore_2: disagree_trip
+bip_39_word_underscore_3: disagree_trip_glue
+bip_39_word_underscore_4: disagree_trip_glue_virtual
+bip_39_word_underscore_5: disagree_trip_glue_virtual_climb
+bip_39_word_underscore_6: disagree_trip_glue_virtual_climb_pool
+bip_39_word_underscore_7: disagree_trip_glue_virtual_climb_pool_morning
+bip_39_word_underscore_8: disagree_trip_glue_virtual_climb_pool_morning_base
+bip_39_word_underscore_9: disagree_trip_glue_virtual_climb_pool_morning_base_merit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

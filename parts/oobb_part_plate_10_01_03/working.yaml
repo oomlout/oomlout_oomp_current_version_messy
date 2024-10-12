@@ -1,3 +1,15 @@
+bip_39_word_dash_1: curious
+bip_39_word_dash_10: curious-aerobic-dress-spirit-erode-art-party-advice-gentle-artwork
+bip_39_word_dash_11: curious-aerobic-dress-spirit-erode-art-party-advice-gentle-artwork-lab
+bip_39_word_dash_12: curious-aerobic-dress-spirit-erode-art-party-advice-gentle-artwork-lab-anger
+bip_39_word_dash_2: curious-aerobic
+bip_39_word_dash_3: curious-aerobic-dress
+bip_39_word_dash_4: curious-aerobic-dress-spirit
+bip_39_word_dash_5: curious-aerobic-dress-spirit-erode
+bip_39_word_dash_6: curious-aerobic-dress-spirit-erode-art
+bip_39_word_dash_7: curious-aerobic-dress-spirit-erode-art-party
+bip_39_word_dash_8: curious-aerobic-dress-spirit-erode-art-party-advice
+bip_39_word_dash_9: curious-aerobic-dress-spirit-erode-art-party-advice-gentle
 bip_39_word_new_br_1: curious
 bip_39_word_new_br_10: curious<br>aerobic<br>dress<br>spirit<br>erode<br>art<br>party<br>advice<br>gentle<br>artwork
 bip_39_word_new_br_11: curious<br>aerobic<br>dress<br>spirit<br>erode<br>art<br>party<br>advice<br>gentle<br>artwork<br>lab
@@ -193,6 +205,18 @@ bip_39_word_space_6: curious aerobic dress spirit erode art
 bip_39_word_space_7: curious aerobic dress spirit erode art party
 bip_39_word_space_8: curious aerobic dress spirit erode art party advice
 bip_39_word_space_9: curious aerobic dress spirit erode art party advice gentle
+bip_39_word_underscore_1: curious
+bip_39_word_underscore_10: curious_aerobic_dress_spirit_erode_art_party_advice_gentle_artwork
+bip_39_word_underscore_11: curious_aerobic_dress_spirit_erode_art_party_advice_gentle_artwork_lab
+bip_39_word_underscore_12: curious_aerobic_dress_spirit_erode_art_party_advice_gentle_artwork_lab_anger
+bip_39_word_underscore_2: curious_aerobic
+bip_39_word_underscore_3: curious_aerobic_dress
+bip_39_word_underscore_4: curious_aerobic_dress_spirit
+bip_39_word_underscore_5: curious_aerobic_dress_spirit_erode
+bip_39_word_underscore_6: curious_aerobic_dress_spirit_erode_art
+bip_39_word_underscore_7: curious_aerobic_dress_spirit_erode_art_party
+bip_39_word_underscore_8: curious_aerobic_dress_spirit_erode_art_party_advice
+bip_39_word_underscore_9: curious_aerobic_dress_spirit_erode_art_party_advice_gentle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: approve
+bip_39_word_dash_10: approve-harvest-science-leaf-easily-shadow-flower-eager-help-public
+bip_39_word_dash_11: approve-harvest-science-leaf-easily-shadow-flower-eager-help-public-print
+bip_39_word_dash_12: approve-harvest-science-leaf-easily-shadow-flower-eager-help-public-print-again
+bip_39_word_dash_2: approve-harvest
+bip_39_word_dash_3: approve-harvest-science
+bip_39_word_dash_4: approve-harvest-science-leaf
+bip_39_word_dash_5: approve-harvest-science-leaf-easily
+bip_39_word_dash_6: approve-harvest-science-leaf-easily-shadow
+bip_39_word_dash_7: approve-harvest-science-leaf-easily-shadow-flower
+bip_39_word_dash_8: approve-harvest-science-leaf-easily-shadow-flower-eager
+bip_39_word_dash_9: approve-harvest-science-leaf-easily-shadow-flower-eager-help
 bip_39_word_new_br_1: approve
 bip_39_word_new_br_10: approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager<br>help<br>public
 bip_39_word_new_br_11: approve<br>harvest<br>science<br>leaf<br>easily<br>shadow<br>flower<br>eager<br>help<br>public<br>print
@@ -194,6 +206,18 @@ bip_39_word_space_6: approve harvest science leaf easily shadow
 bip_39_word_space_7: approve harvest science leaf easily shadow flower
 bip_39_word_space_8: approve harvest science leaf easily shadow flower eager
 bip_39_word_space_9: approve harvest science leaf easily shadow flower eager help
+bip_39_word_underscore_1: approve
+bip_39_word_underscore_10: approve_harvest_science_leaf_easily_shadow_flower_eager_help_public
+bip_39_word_underscore_11: approve_harvest_science_leaf_easily_shadow_flower_eager_help_public_print
+bip_39_word_underscore_12: approve_harvest_science_leaf_easily_shadow_flower_eager_help_public_print_again
+bip_39_word_underscore_2: approve_harvest
+bip_39_word_underscore_3: approve_harvest_science
+bip_39_word_underscore_4: approve_harvest_science_leaf
+bip_39_word_underscore_5: approve_harvest_science_leaf_easily
+bip_39_word_underscore_6: approve_harvest_science_leaf_easily_shadow
+bip_39_word_underscore_7: approve_harvest_science_leaf_easily_shadow_flower
+bip_39_word_underscore_8: approve_harvest_science_leaf_easily_shadow_flower_eager
+bip_39_word_underscore_9: approve_harvest_science_leaf_easily_shadow_flower_eager_help
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

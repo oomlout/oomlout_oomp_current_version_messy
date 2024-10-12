@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hope |  
+| bip_39_word_dash_10 | hope-endless-detect-carbon-push-spray-nest-cereal-cabin-boost |  
+| bip_39_word_dash_11 | hope-endless-detect-carbon-push-spray-nest-cereal-cabin-boost-ridge |  
+| bip_39_word_dash_12 | hope-endless-detect-carbon-push-spray-nest-cereal-cabin-boost-ridge-area |  
+| bip_39_word_dash_2 | hope-endless |  
+| bip_39_word_dash_3 | hope-endless-detect |  
+| bip_39_word_dash_4 | hope-endless-detect-carbon |  
+| bip_39_word_dash_5 | hope-endless-detect-carbon-push |  
+| bip_39_word_dash_6 | hope-endless-detect-carbon-push-spray |  
+| bip_39_word_dash_7 | hope-endless-detect-carbon-push-spray-nest |  
+| bip_39_word_dash_8 | hope-endless-detect-carbon-push-spray-nest-cereal |  
+| bip_39_word_dash_9 | hope-endless-detect-carbon-push-spray-nest-cereal-cabin |  
 | bip_39_word_new_br_1 | hope |  
 | bip_39_word_new_br_10 | hope<br>endless<br>detect<br>carbon<br>push<br>spray<br>nest<br>cereal<br>cabin<br>boost |  
 | bip_39_word_new_br_11 | hope<br>endless<br>detect<br>carbon<br>push<br>spray<br>nest<br>cereal<br>cabin<br>boost<br>ridge |  
@@ -147,6 +159,18 @@ cabin |
 | bip_39_word_space_7 | hope endless detect carbon push spray nest |  
 | bip_39_word_space_8 | hope endless detect carbon push spray nest cereal |  
 | bip_39_word_space_9 | hope endless detect carbon push spray nest cereal cabin |  
+| bip_39_word_underscore_1 | hope |  
+| bip_39_word_underscore_10 | hope_endless_detect_carbon_push_spray_nest_cereal_cabin_boost |  
+| bip_39_word_underscore_11 | hope_endless_detect_carbon_push_spray_nest_cereal_cabin_boost_ridge |  
+| bip_39_word_underscore_12 | hope_endless_detect_carbon_push_spray_nest_cereal_cabin_boost_ridge_area |  
+| bip_39_word_underscore_2 | hope_endless |  
+| bip_39_word_underscore_3 | hope_endless_detect |  
+| bip_39_word_underscore_4 | hope_endless_detect_carbon |  
+| bip_39_word_underscore_5 | hope_endless_detect_carbon_push |  
+| bip_39_word_underscore_6 | hope_endless_detect_carbon_push_spray |  
+| bip_39_word_underscore_7 | hope_endless_detect_carbon_push_spray_nest |  
+| bip_39_word_underscore_8 | hope_endless_detect_carbon_push_spray_nest_cereal |  
+| bip_39_word_underscore_9 | hope_endless_detect_carbon_push_spray_nest_cereal_cabin |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

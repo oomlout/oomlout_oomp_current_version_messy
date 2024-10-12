@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boat |  
+| bip_39_word_dash_10 | boat-village-soccer-artefact-juice-toast-mango-disease-festival-clip |  
+| bip_39_word_dash_11 | boat-village-soccer-artefact-juice-toast-mango-disease-festival-clip-merit |  
+| bip_39_word_dash_12 | boat-village-soccer-artefact-juice-toast-mango-disease-festival-clip-merit-almost |  
+| bip_39_word_dash_2 | boat-village |  
+| bip_39_word_dash_3 | boat-village-soccer |  
+| bip_39_word_dash_4 | boat-village-soccer-artefact |  
+| bip_39_word_dash_5 | boat-village-soccer-artefact-juice |  
+| bip_39_word_dash_6 | boat-village-soccer-artefact-juice-toast |  
+| bip_39_word_dash_7 | boat-village-soccer-artefact-juice-toast-mango |  
+| bip_39_word_dash_8 | boat-village-soccer-artefact-juice-toast-mango-disease |  
+| bip_39_word_dash_9 | boat-village-soccer-artefact-juice-toast-mango-disease-festival |  
 | bip_39_word_new_br_1 | boat |  
 | bip_39_word_new_br_10 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip |  
 | bip_39_word_new_br_11 | boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip<br>merit |  
@@ -147,6 +159,18 @@ festival |
 | bip_39_word_space_7 | boat village soccer artefact juice toast mango |  
 | bip_39_word_space_8 | boat village soccer artefact juice toast mango disease |  
 | bip_39_word_space_9 | boat village soccer artefact juice toast mango disease festival |  
+| bip_39_word_underscore_1 | boat |  
+| bip_39_word_underscore_10 | boat_village_soccer_artefact_juice_toast_mango_disease_festival_clip |  
+| bip_39_word_underscore_11 | boat_village_soccer_artefact_juice_toast_mango_disease_festival_clip_merit |  
+| bip_39_word_underscore_12 | boat_village_soccer_artefact_juice_toast_mango_disease_festival_clip_merit_almost |  
+| bip_39_word_underscore_2 | boat_village |  
+| bip_39_word_underscore_3 | boat_village_soccer |  
+| bip_39_word_underscore_4 | boat_village_soccer_artefact |  
+| bip_39_word_underscore_5 | boat_village_soccer_artefact_juice |  
+| bip_39_word_underscore_6 | boat_village_soccer_artefact_juice_toast |  
+| bip_39_word_underscore_7 | boat_village_soccer_artefact_juice_toast_mango |  
+| bip_39_word_underscore_8 | boat_village_soccer_artefact_juice_toast_mango_disease |  
+| bip_39_word_underscore_9 | boat_village_soccer_artefact_juice_toast_mango_disease_festival |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

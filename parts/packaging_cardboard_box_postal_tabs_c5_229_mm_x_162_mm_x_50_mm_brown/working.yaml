@@ -1,3 +1,15 @@
+bip_39_word_dash_1: naive
+bip_39_word_dash_10: naive-waste-cycle-armed-near-afford-episode-mercy-define-practice
+bip_39_word_dash_11: naive-waste-cycle-armed-near-afford-episode-mercy-define-practice-wealth
+bip_39_word_dash_12: naive-waste-cycle-armed-near-afford-episode-mercy-define-practice-wealth-amount
+bip_39_word_dash_2: naive-waste
+bip_39_word_dash_3: naive-waste-cycle
+bip_39_word_dash_4: naive-waste-cycle-armed
+bip_39_word_dash_5: naive-waste-cycle-armed-near
+bip_39_word_dash_6: naive-waste-cycle-armed-near-afford
+bip_39_word_dash_7: naive-waste-cycle-armed-near-afford-episode
+bip_39_word_dash_8: naive-waste-cycle-armed-near-afford-episode-mercy
+bip_39_word_dash_9: naive-waste-cycle-armed-near-afford-episode-mercy-define
 bip_39_word_new_br_1: naive
 bip_39_word_new_br_10: naive<br>waste<br>cycle<br>armed<br>near<br>afford<br>episode<br>mercy<br>define<br>practice
 bip_39_word_new_br_11: naive<br>waste<br>cycle<br>armed<br>near<br>afford<br>episode<br>mercy<br>define<br>practice<br>wealth
@@ -193,6 +205,18 @@ bip_39_word_space_6: naive waste cycle armed near afford
 bip_39_word_space_7: naive waste cycle armed near afford episode
 bip_39_word_space_8: naive waste cycle armed near afford episode mercy
 bip_39_word_space_9: naive waste cycle armed near afford episode mercy define
+bip_39_word_underscore_1: naive
+bip_39_word_underscore_10: naive_waste_cycle_armed_near_afford_episode_mercy_define_practice
+bip_39_word_underscore_11: naive_waste_cycle_armed_near_afford_episode_mercy_define_practice_wealth
+bip_39_word_underscore_12: naive_waste_cycle_armed_near_afford_episode_mercy_define_practice_wealth_amount
+bip_39_word_underscore_2: naive_waste
+bip_39_word_underscore_3: naive_waste_cycle
+bip_39_word_underscore_4: naive_waste_cycle_armed
+bip_39_word_underscore_5: naive_waste_cycle_armed_near
+bip_39_word_underscore_6: naive_waste_cycle_armed_near_afford
+bip_39_word_underscore_7: naive_waste_cycle_armed_near_afford_episode
+bip_39_word_underscore_8: naive_waste_cycle_armed_near_afford_episode_mercy
+bip_39_word_underscore_9: naive_waste_cycle_armed_near_afford_episode_mercy_define
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

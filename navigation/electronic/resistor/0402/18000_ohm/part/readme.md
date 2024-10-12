@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wheel |  
+| bip_39_word_dash_10 | wheel-course-diary-quote-rug-debate-rescue-erase-praise-bridge |  
+| bip_39_word_dash_11 | wheel-course-diary-quote-rug-debate-rescue-erase-praise-bridge-reform |  
+| bip_39_word_dash_12 | wheel-course-diary-quote-rug-debate-rescue-erase-praise-bridge-reform-amused |  
+| bip_39_word_dash_2 | wheel-course |  
+| bip_39_word_dash_3 | wheel-course-diary |  
+| bip_39_word_dash_4 | wheel-course-diary-quote |  
+| bip_39_word_dash_5 | wheel-course-diary-quote-rug |  
+| bip_39_word_dash_6 | wheel-course-diary-quote-rug-debate |  
+| bip_39_word_dash_7 | wheel-course-diary-quote-rug-debate-rescue |  
+| bip_39_word_dash_8 | wheel-course-diary-quote-rug-debate-rescue-erase |  
+| bip_39_word_dash_9 | wheel-course-diary-quote-rug-debate-rescue-erase-praise |  
 | bip_39_word_new_br_1 | wheel |  
 | bip_39_word_new_br_10 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge |  
 | bip_39_word_new_br_11 | wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge<br>reform |  
@@ -147,6 +159,18 @@ praise |
 | bip_39_word_space_7 | wheel course diary quote rug debate rescue |  
 | bip_39_word_space_8 | wheel course diary quote rug debate rescue erase |  
 | bip_39_word_space_9 | wheel course diary quote rug debate rescue erase praise |  
+| bip_39_word_underscore_1 | wheel |  
+| bip_39_word_underscore_10 | wheel_course_diary_quote_rug_debate_rescue_erase_praise_bridge |  
+| bip_39_word_underscore_11 | wheel_course_diary_quote_rug_debate_rescue_erase_praise_bridge_reform |  
+| bip_39_word_underscore_12 | wheel_course_diary_quote_rug_debate_rescue_erase_praise_bridge_reform_amused |  
+| bip_39_word_underscore_2 | wheel_course |  
+| bip_39_word_underscore_3 | wheel_course_diary |  
+| bip_39_word_underscore_4 | wheel_course_diary_quote |  
+| bip_39_word_underscore_5 | wheel_course_diary_quote_rug |  
+| bip_39_word_underscore_6 | wheel_course_diary_quote_rug_debate |  
+| bip_39_word_underscore_7 | wheel_course_diary_quote_rug_debate_rescue |  
+| bip_39_word_underscore_8 | wheel_course_diary_quote_rug_debate_rescue_erase |  
+| bip_39_word_underscore_9 | wheel_course_diary_quote_rug_debate_rescue_erase_praise |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

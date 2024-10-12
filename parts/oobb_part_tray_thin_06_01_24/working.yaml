@@ -1,3 +1,15 @@
+bip_39_word_dash_1: average
+bip_39_word_dash_10: average-panic-cup-bullet-fossil-sock-dice-ability-muffin-pigeon
+bip_39_word_dash_11: average-panic-cup-bullet-fossil-sock-dice-ability-muffin-pigeon-mirror
+bip_39_word_dash_12: average-panic-cup-bullet-fossil-sock-dice-ability-muffin-pigeon-mirror-abuse
+bip_39_word_dash_2: average-panic
+bip_39_word_dash_3: average-panic-cup
+bip_39_word_dash_4: average-panic-cup-bullet
+bip_39_word_dash_5: average-panic-cup-bullet-fossil
+bip_39_word_dash_6: average-panic-cup-bullet-fossil-sock
+bip_39_word_dash_7: average-panic-cup-bullet-fossil-sock-dice
+bip_39_word_dash_8: average-panic-cup-bullet-fossil-sock-dice-ability
+bip_39_word_dash_9: average-panic-cup-bullet-fossil-sock-dice-ability-muffin
 bip_39_word_new_br_1: average
 bip_39_word_new_br_10: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon
 bip_39_word_new_br_11: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon<br>mirror
@@ -193,6 +205,18 @@ bip_39_word_space_6: average panic cup bullet fossil sock
 bip_39_word_space_7: average panic cup bullet fossil sock dice
 bip_39_word_space_8: average panic cup bullet fossil sock dice ability
 bip_39_word_space_9: average panic cup bullet fossil sock dice ability muffin
+bip_39_word_underscore_1: average
+bip_39_word_underscore_10: average_panic_cup_bullet_fossil_sock_dice_ability_muffin_pigeon
+bip_39_word_underscore_11: average_panic_cup_bullet_fossil_sock_dice_ability_muffin_pigeon_mirror
+bip_39_word_underscore_12: average_panic_cup_bullet_fossil_sock_dice_ability_muffin_pigeon_mirror_abuse
+bip_39_word_underscore_2: average_panic
+bip_39_word_underscore_3: average_panic_cup
+bip_39_word_underscore_4: average_panic_cup_bullet
+bip_39_word_underscore_5: average_panic_cup_bullet_fossil
+bip_39_word_underscore_6: average_panic_cup_bullet_fossil_sock
+bip_39_word_underscore_7: average_panic_cup_bullet_fossil_sock_dice
+bip_39_word_underscore_8: average_panic_cup_bullet_fossil_sock_dice_ability
+bip_39_word_underscore_9: average_panic_cup_bullet_fossil_sock_dice_ability_muffin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

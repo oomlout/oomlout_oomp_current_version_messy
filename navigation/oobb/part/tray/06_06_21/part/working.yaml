@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mind
+bip_39_word_dash_10: mind-sister-better-anchor-document-hungry-fashion-drip-toward-mango
+bip_39_word_dash_11: mind-sister-better-anchor-document-hungry-fashion-drip-toward-mango-use
+bip_39_word_dash_12: mind-sister-better-anchor-document-hungry-fashion-drip-toward-mango-use-arm
+bip_39_word_dash_2: mind-sister
+bip_39_word_dash_3: mind-sister-better
+bip_39_word_dash_4: mind-sister-better-anchor
+bip_39_word_dash_5: mind-sister-better-anchor-document
+bip_39_word_dash_6: mind-sister-better-anchor-document-hungry
+bip_39_word_dash_7: mind-sister-better-anchor-document-hungry-fashion
+bip_39_word_dash_8: mind-sister-better-anchor-document-hungry-fashion-drip
+bip_39_word_dash_9: mind-sister-better-anchor-document-hungry-fashion-drip-toward
 bip_39_word_new_br_1: mind
 bip_39_word_new_br_10: mind<br>sister<br>better<br>anchor<br>document<br>hungry<br>fashion<br>drip<br>toward<br>mango
 bip_39_word_new_br_11: mind<br>sister<br>better<br>anchor<br>document<br>hungry<br>fashion<br>drip<br>toward<br>mango<br>use
@@ -194,6 +206,18 @@ bip_39_word_space_6: mind sister better anchor document hungry
 bip_39_word_space_7: mind sister better anchor document hungry fashion
 bip_39_word_space_8: mind sister better anchor document hungry fashion drip
 bip_39_word_space_9: mind sister better anchor document hungry fashion drip toward
+bip_39_word_underscore_1: mind
+bip_39_word_underscore_10: mind_sister_better_anchor_document_hungry_fashion_drip_toward_mango
+bip_39_word_underscore_11: mind_sister_better_anchor_document_hungry_fashion_drip_toward_mango_use
+bip_39_word_underscore_12: mind_sister_better_anchor_document_hungry_fashion_drip_toward_mango_use_arm
+bip_39_word_underscore_2: mind_sister
+bip_39_word_underscore_3: mind_sister_better
+bip_39_word_underscore_4: mind_sister_better_anchor
+bip_39_word_underscore_5: mind_sister_better_anchor_document
+bip_39_word_underscore_6: mind_sister_better_anchor_document_hungry
+bip_39_word_underscore_7: mind_sister_better_anchor_document_hungry_fashion
+bip_39_word_underscore_8: mind_sister_better_anchor_document_hungry_fashion_drip
+bip_39_word_underscore_9: mind_sister_better_anchor_document_hungry_fashion_drip_toward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

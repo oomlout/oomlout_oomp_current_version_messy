@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plunge |  
+| bip_39_word_dash_10 | plunge-position-wife-name-buzz-welcome-skin-intact-elite-butter |  
+| bip_39_word_dash_11 | plunge-position-wife-name-buzz-welcome-skin-intact-elite-butter-nation |  
+| bip_39_word_dash_12 | plunge-position-wife-name-buzz-welcome-skin-intact-elite-butter-nation-amazing |  
+| bip_39_word_dash_2 | plunge-position |  
+| bip_39_word_dash_3 | plunge-position-wife |  
+| bip_39_word_dash_4 | plunge-position-wife-name |  
+| bip_39_word_dash_5 | plunge-position-wife-name-buzz |  
+| bip_39_word_dash_6 | plunge-position-wife-name-buzz-welcome |  
+| bip_39_word_dash_7 | plunge-position-wife-name-buzz-welcome-skin |  
+| bip_39_word_dash_8 | plunge-position-wife-name-buzz-welcome-skin-intact |  
+| bip_39_word_dash_9 | plunge-position-wife-name-buzz-welcome-skin-intact-elite |  
 | bip_39_word_new_br_1 | plunge |  
 | bip_39_word_new_br_10 | plunge<br>position<br>wife<br>name<br>buzz<br>welcome<br>skin<br>intact<br>elite<br>butter |  
 | bip_39_word_new_br_11 | plunge<br>position<br>wife<br>name<br>buzz<br>welcome<br>skin<br>intact<br>elite<br>butter<br>nation |  
@@ -147,6 +159,18 @@ elite |
 | bip_39_word_space_7 | plunge position wife name buzz welcome skin |  
 | bip_39_word_space_8 | plunge position wife name buzz welcome skin intact |  
 | bip_39_word_space_9 | plunge position wife name buzz welcome skin intact elite |  
+| bip_39_word_underscore_1 | plunge |  
+| bip_39_word_underscore_10 | plunge_position_wife_name_buzz_welcome_skin_intact_elite_butter |  
+| bip_39_word_underscore_11 | plunge_position_wife_name_buzz_welcome_skin_intact_elite_butter_nation |  
+| bip_39_word_underscore_12 | plunge_position_wife_name_buzz_welcome_skin_intact_elite_butter_nation_amazing |  
+| bip_39_word_underscore_2 | plunge_position |  
+| bip_39_word_underscore_3 | plunge_position_wife |  
+| bip_39_word_underscore_4 | plunge_position_wife_name |  
+| bip_39_word_underscore_5 | plunge_position_wife_name_buzz |  
+| bip_39_word_underscore_6 | plunge_position_wife_name_buzz_welcome |  
+| bip_39_word_underscore_7 | plunge_position_wife_name_buzz_welcome_skin |  
+| bip_39_word_underscore_8 | plunge_position_wife_name_buzz_welcome_skin_intact |  
+| bip_39_word_underscore_9 | plunge_position_wife_name_buzz_welcome_skin_intact_elite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

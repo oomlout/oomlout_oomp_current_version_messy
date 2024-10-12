@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | about |  
+| bip_39_word_dash_10 | about-make-visit-little-naive-dune-someone-wet-clap-thrive |  
+| bip_39_word_dash_11 | about-make-visit-little-naive-dune-someone-wet-clap-thrive-build |  
+| bip_39_word_dash_12 | about-make-visit-little-naive-dune-someone-wet-clap-thrive-build-appear |  
+| bip_39_word_dash_2 | about-make |  
+| bip_39_word_dash_3 | about-make-visit |  
+| bip_39_word_dash_4 | about-make-visit-little |  
+| bip_39_word_dash_5 | about-make-visit-little-naive |  
+| bip_39_word_dash_6 | about-make-visit-little-naive-dune |  
+| bip_39_word_dash_7 | about-make-visit-little-naive-dune-someone |  
+| bip_39_word_dash_8 | about-make-visit-little-naive-dune-someone-wet |  
+| bip_39_word_dash_9 | about-make-visit-little-naive-dune-someone-wet-clap |  
 | bip_39_word_new_br_1 | about |  
 | bip_39_word_new_br_10 | about<br>make<br>visit<br>little<br>naive<br>dune<br>someone<br>wet<br>clap<br>thrive |  
 | bip_39_word_new_br_11 | about<br>make<br>visit<br>little<br>naive<br>dune<br>someone<br>wet<br>clap<br>thrive<br>build |  
@@ -147,6 +159,18 @@ clap |
 | bip_39_word_space_7 | about make visit little naive dune someone |  
 | bip_39_word_space_8 | about make visit little naive dune someone wet |  
 | bip_39_word_space_9 | about make visit little naive dune someone wet clap |  
+| bip_39_word_underscore_1 | about |  
+| bip_39_word_underscore_10 | about_make_visit_little_naive_dune_someone_wet_clap_thrive |  
+| bip_39_word_underscore_11 | about_make_visit_little_naive_dune_someone_wet_clap_thrive_build |  
+| bip_39_word_underscore_12 | about_make_visit_little_naive_dune_someone_wet_clap_thrive_build_appear |  
+| bip_39_word_underscore_2 | about_make |  
+| bip_39_word_underscore_3 | about_make_visit |  
+| bip_39_word_underscore_4 | about_make_visit_little |  
+| bip_39_word_underscore_5 | about_make_visit_little_naive |  
+| bip_39_word_underscore_6 | about_make_visit_little_naive_dune |  
+| bip_39_word_underscore_7 | about_make_visit_little_naive_dune_someone |  
+| bip_39_word_underscore_8 | about_make_visit_little_naive_dune_someone_wet |  
+| bip_39_word_underscore_9 | about_make_visit_little_naive_dune_someone_wet_clap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

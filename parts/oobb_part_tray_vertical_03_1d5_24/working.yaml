@@ -1,3 +1,15 @@
+bip_39_word_dash_1: aim
+bip_39_word_dash_10: aim-velvet-rookie-certain-plate-fork-regret-bulk-jungle-ability
+bip_39_word_dash_11: aim-velvet-rookie-certain-plate-fork-regret-bulk-jungle-ability-robust
+bip_39_word_dash_12: aim-velvet-rookie-certain-plate-fork-regret-bulk-jungle-ability-robust-age
+bip_39_word_dash_2: aim-velvet
+bip_39_word_dash_3: aim-velvet-rookie
+bip_39_word_dash_4: aim-velvet-rookie-certain
+bip_39_word_dash_5: aim-velvet-rookie-certain-plate
+bip_39_word_dash_6: aim-velvet-rookie-certain-plate-fork
+bip_39_word_dash_7: aim-velvet-rookie-certain-plate-fork-regret
+bip_39_word_dash_8: aim-velvet-rookie-certain-plate-fork-regret-bulk
+bip_39_word_dash_9: aim-velvet-rookie-certain-plate-fork-regret-bulk-jungle
 bip_39_word_new_br_1: aim
 bip_39_word_new_br_10: aim<br>velvet<br>rookie<br>certain<br>plate<br>fork<br>regret<br>bulk<br>jungle<br>ability
 bip_39_word_new_br_11: aim<br>velvet<br>rookie<br>certain<br>plate<br>fork<br>regret<br>bulk<br>jungle<br>ability<br>robust
@@ -193,6 +205,18 @@ bip_39_word_space_6: aim velvet rookie certain plate fork
 bip_39_word_space_7: aim velvet rookie certain plate fork regret
 bip_39_word_space_8: aim velvet rookie certain plate fork regret bulk
 bip_39_word_space_9: aim velvet rookie certain plate fork regret bulk jungle
+bip_39_word_underscore_1: aim
+bip_39_word_underscore_10: aim_velvet_rookie_certain_plate_fork_regret_bulk_jungle_ability
+bip_39_word_underscore_11: aim_velvet_rookie_certain_plate_fork_regret_bulk_jungle_ability_robust
+bip_39_word_underscore_12: aim_velvet_rookie_certain_plate_fork_regret_bulk_jungle_ability_robust_age
+bip_39_word_underscore_2: aim_velvet
+bip_39_word_underscore_3: aim_velvet_rookie
+bip_39_word_underscore_4: aim_velvet_rookie_certain
+bip_39_word_underscore_5: aim_velvet_rookie_certain_plate
+bip_39_word_underscore_6: aim_velvet_rookie_certain_plate_fork
+bip_39_word_underscore_7: aim_velvet_rookie_certain_plate_fork_regret
+bip_39_word_underscore_8: aim_velvet_rookie_certain_plate_fork_regret_bulk
+bip_39_word_underscore_9: aim_velvet_rookie_certain_plate_fork_regret_bulk_jungle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

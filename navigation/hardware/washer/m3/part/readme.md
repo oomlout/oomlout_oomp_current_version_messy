@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | strategy |  
+| bip_39_word_dash_10 | strategy-payment-burst-blade-strike-couple-snap-antenna-shrug-swallow |  
+| bip_39_word_dash_11 | strategy-payment-burst-blade-strike-couple-snap-antenna-shrug-swallow-bubble |  
+| bip_39_word_dash_12 | strategy-payment-burst-blade-strike-couple-snap-antenna-shrug-swallow-bubble-already |  
+| bip_39_word_dash_2 | strategy-payment |  
+| bip_39_word_dash_3 | strategy-payment-burst |  
+| bip_39_word_dash_4 | strategy-payment-burst-blade |  
+| bip_39_word_dash_5 | strategy-payment-burst-blade-strike |  
+| bip_39_word_dash_6 | strategy-payment-burst-blade-strike-couple |  
+| bip_39_word_dash_7 | strategy-payment-burst-blade-strike-couple-snap |  
+| bip_39_word_dash_8 | strategy-payment-burst-blade-strike-couple-snap-antenna |  
+| bip_39_word_dash_9 | strategy-payment-burst-blade-strike-couple-snap-antenna-shrug |  
 | bip_39_word_new_br_1 | strategy |  
 | bip_39_word_new_br_10 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow |  
 | bip_39_word_new_br_11 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow<br>bubble |  
@@ -147,6 +159,18 @@ shrug |
 | bip_39_word_space_7 | strategy payment burst blade strike couple snap |  
 | bip_39_word_space_8 | strategy payment burst blade strike couple snap antenna |  
 | bip_39_word_space_9 | strategy payment burst blade strike couple snap antenna shrug |  
+| bip_39_word_underscore_1 | strategy |  
+| bip_39_word_underscore_10 | strategy_payment_burst_blade_strike_couple_snap_antenna_shrug_swallow |  
+| bip_39_word_underscore_11 | strategy_payment_burst_blade_strike_couple_snap_antenna_shrug_swallow_bubble |  
+| bip_39_word_underscore_12 | strategy_payment_burst_blade_strike_couple_snap_antenna_shrug_swallow_bubble_already |  
+| bip_39_word_underscore_2 | strategy_payment |  
+| bip_39_word_underscore_3 | strategy_payment_burst |  
+| bip_39_word_underscore_4 | strategy_payment_burst_blade |  
+| bip_39_word_underscore_5 | strategy_payment_burst_blade_strike |  
+| bip_39_word_underscore_6 | strategy_payment_burst_blade_strike_couple |  
+| bip_39_word_underscore_7 | strategy_payment_burst_blade_strike_couple_snap |  
+| bip_39_word_underscore_8 | strategy_payment_burst_blade_strike_couple_snap_antenna |  
+| bip_39_word_underscore_9 | strategy_payment_burst_blade_strike_couple_snap_antenna_shrug |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

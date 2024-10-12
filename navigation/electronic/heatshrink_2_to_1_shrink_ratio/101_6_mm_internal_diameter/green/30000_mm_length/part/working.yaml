@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stadium
+bip_39_word_dash_10: stadium-visa-anxiety-pudding-present-close-depend-town-sense-vocal
+bip_39_word_dash_11: stadium-visa-anxiety-pudding-present-close-depend-town-sense-vocal-cattle
+bip_39_word_dash_12: stadium-visa-anxiety-pudding-present-close-depend-town-sense-vocal-cattle-arrow
+bip_39_word_dash_2: stadium-visa
+bip_39_word_dash_3: stadium-visa-anxiety
+bip_39_word_dash_4: stadium-visa-anxiety-pudding
+bip_39_word_dash_5: stadium-visa-anxiety-pudding-present
+bip_39_word_dash_6: stadium-visa-anxiety-pudding-present-close
+bip_39_word_dash_7: stadium-visa-anxiety-pudding-present-close-depend
+bip_39_word_dash_8: stadium-visa-anxiety-pudding-present-close-depend-town
+bip_39_word_dash_9: stadium-visa-anxiety-pudding-present-close-depend-town-sense
 bip_39_word_new_br_1: stadium
 bip_39_word_new_br_10: stadium<br>visa<br>anxiety<br>pudding<br>present<br>close<br>depend<br>town<br>sense<br>vocal
 bip_39_word_new_br_11: stadium<br>visa<br>anxiety<br>pudding<br>present<br>close<br>depend<br>town<br>sense<br>vocal<br>cattle
@@ -194,6 +206,18 @@ bip_39_word_space_6: stadium visa anxiety pudding present close
 bip_39_word_space_7: stadium visa anxiety pudding present close depend
 bip_39_word_space_8: stadium visa anxiety pudding present close depend town
 bip_39_word_space_9: stadium visa anxiety pudding present close depend town sense
+bip_39_word_underscore_1: stadium
+bip_39_word_underscore_10: stadium_visa_anxiety_pudding_present_close_depend_town_sense_vocal
+bip_39_word_underscore_11: stadium_visa_anxiety_pudding_present_close_depend_town_sense_vocal_cattle
+bip_39_word_underscore_12: stadium_visa_anxiety_pudding_present_close_depend_town_sense_vocal_cattle_arrow
+bip_39_word_underscore_2: stadium_visa
+bip_39_word_underscore_3: stadium_visa_anxiety
+bip_39_word_underscore_4: stadium_visa_anxiety_pudding
+bip_39_word_underscore_5: stadium_visa_anxiety_pudding_present
+bip_39_word_underscore_6: stadium_visa_anxiety_pudding_present_close
+bip_39_word_underscore_7: stadium_visa_anxiety_pudding_present_close_depend
+bip_39_word_underscore_8: stadium_visa_anxiety_pudding_present_close_depend_town
+bip_39_word_underscore_9: stadium_visa_anxiety_pudding_present_close_depend_town_sense
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

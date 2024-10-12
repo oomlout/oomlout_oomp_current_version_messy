@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wash
+bip_39_word_dash_10: wash-barely-accident-cereal-smart-stereo-put-wreck-choose-someone
+bip_39_word_dash_11: wash-barely-accident-cereal-smart-stereo-put-wreck-choose-someone-learn
+bip_39_word_dash_12: wash-barely-accident-cereal-smart-stereo-put-wreck-choose-someone-learn-accident
+bip_39_word_dash_2: wash-barely
+bip_39_word_dash_3: wash-barely-accident
+bip_39_word_dash_4: wash-barely-accident-cereal
+bip_39_word_dash_5: wash-barely-accident-cereal-smart
+bip_39_word_dash_6: wash-barely-accident-cereal-smart-stereo
+bip_39_word_dash_7: wash-barely-accident-cereal-smart-stereo-put
+bip_39_word_dash_8: wash-barely-accident-cereal-smart-stereo-put-wreck
+bip_39_word_dash_9: wash-barely-accident-cereal-smart-stereo-put-wreck-choose
 bip_39_word_new_br_1: wash
 bip_39_word_new_br_10: wash<br>barely<br>accident<br>cereal<br>smart<br>stereo<br>put<br>wreck<br>choose<br>someone
 bip_39_word_new_br_11: wash<br>barely<br>accident<br>cereal<br>smart<br>stereo<br>put<br>wreck<br>choose<br>someone<br>learn
@@ -193,6 +205,18 @@ bip_39_word_space_6: wash barely accident cereal smart stereo
 bip_39_word_space_7: wash barely accident cereal smart stereo put
 bip_39_word_space_8: wash barely accident cereal smart stereo put wreck
 bip_39_word_space_9: wash barely accident cereal smart stereo put wreck choose
+bip_39_word_underscore_1: wash
+bip_39_word_underscore_10: wash_barely_accident_cereal_smart_stereo_put_wreck_choose_someone
+bip_39_word_underscore_11: wash_barely_accident_cereal_smart_stereo_put_wreck_choose_someone_learn
+bip_39_word_underscore_12: wash_barely_accident_cereal_smart_stereo_put_wreck_choose_someone_learn_accident
+bip_39_word_underscore_2: wash_barely
+bip_39_word_underscore_3: wash_barely_accident
+bip_39_word_underscore_4: wash_barely_accident_cereal
+bip_39_word_underscore_5: wash_barely_accident_cereal_smart
+bip_39_word_underscore_6: wash_barely_accident_cereal_smart_stereo
+bip_39_word_underscore_7: wash_barely_accident_cereal_smart_stereo_put
+bip_39_word_underscore_8: wash_barely_accident_cereal_smart_stereo_put_wreck
+bip_39_word_underscore_9: wash_barely_accident_cereal_smart_stereo_put_wreck_choose
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

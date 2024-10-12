@@ -1,3 +1,15 @@
+bip_39_word_dash_1: congress
+bip_39_word_dash_10: congress-catch-gain-miss-party-panel-blossom-sketch-treat-music
+bip_39_word_dash_11: congress-catch-gain-miss-party-panel-blossom-sketch-treat-music-thing
+bip_39_word_dash_12: congress-catch-gain-miss-party-panel-blossom-sketch-treat-music-thing-ancient
+bip_39_word_dash_2: congress-catch
+bip_39_word_dash_3: congress-catch-gain
+bip_39_word_dash_4: congress-catch-gain-miss
+bip_39_word_dash_5: congress-catch-gain-miss-party
+bip_39_word_dash_6: congress-catch-gain-miss-party-panel
+bip_39_word_dash_7: congress-catch-gain-miss-party-panel-blossom
+bip_39_word_dash_8: congress-catch-gain-miss-party-panel-blossom-sketch
+bip_39_word_dash_9: congress-catch-gain-miss-party-panel-blossom-sketch-treat
 bip_39_word_new_br_1: congress
 bip_39_word_new_br_10: congress<br>catch<br>gain<br>miss<br>party<br>panel<br>blossom<br>sketch<br>treat<br>music
 bip_39_word_new_br_11: congress<br>catch<br>gain<br>miss<br>party<br>panel<br>blossom<br>sketch<br>treat<br>music<br>thing
@@ -193,6 +205,18 @@ bip_39_word_space_6: congress catch gain miss party panel
 bip_39_word_space_7: congress catch gain miss party panel blossom
 bip_39_word_space_8: congress catch gain miss party panel blossom sketch
 bip_39_word_space_9: congress catch gain miss party panel blossom sketch treat
+bip_39_word_underscore_1: congress
+bip_39_word_underscore_10: congress_catch_gain_miss_party_panel_blossom_sketch_treat_music
+bip_39_word_underscore_11: congress_catch_gain_miss_party_panel_blossom_sketch_treat_music_thing
+bip_39_word_underscore_12: congress_catch_gain_miss_party_panel_blossom_sketch_treat_music_thing_ancient
+bip_39_word_underscore_2: congress_catch
+bip_39_word_underscore_3: congress_catch_gain
+bip_39_word_underscore_4: congress_catch_gain_miss
+bip_39_word_underscore_5: congress_catch_gain_miss_party
+bip_39_word_underscore_6: congress_catch_gain_miss_party_panel
+bip_39_word_underscore_7: congress_catch_gain_miss_party_panel_blossom
+bip_39_word_underscore_8: congress_catch_gain_miss_party_panel_blossom_sketch
+bip_39_word_underscore_9: congress_catch_gain_miss_party_panel_blossom_sketch_treat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brother |  
+| bip_39_word_dash_10 | brother-physical-despair-vanish-doctor-fancy-certain-draft-one-bronze |  
+| bip_39_word_dash_11 | brother-physical-despair-vanish-doctor-fancy-certain-draft-one-bronze-citizen |  
+| bip_39_word_dash_12 | brother-physical-despair-vanish-doctor-fancy-certain-draft-one-bronze-citizen-act |  
+| bip_39_word_dash_2 | brother-physical |  
+| bip_39_word_dash_3 | brother-physical-despair |  
+| bip_39_word_dash_4 | brother-physical-despair-vanish |  
+| bip_39_word_dash_5 | brother-physical-despair-vanish-doctor |  
+| bip_39_word_dash_6 | brother-physical-despair-vanish-doctor-fancy |  
+| bip_39_word_dash_7 | brother-physical-despair-vanish-doctor-fancy-certain |  
+| bip_39_word_dash_8 | brother-physical-despair-vanish-doctor-fancy-certain-draft |  
+| bip_39_word_dash_9 | brother-physical-despair-vanish-doctor-fancy-certain-draft-one |  
 | bip_39_word_new_br_1 | brother |  
 | bip_39_word_new_br_10 | brother<br>physical<br>despair<br>vanish<br>doctor<br>fancy<br>certain<br>draft<br>one<br>bronze |  
 | bip_39_word_new_br_11 | brother<br>physical<br>despair<br>vanish<br>doctor<br>fancy<br>certain<br>draft<br>one<br>bronze<br>citizen |  
@@ -147,6 +159,18 @@ one |
 | bip_39_word_space_7 | brother physical despair vanish doctor fancy certain |  
 | bip_39_word_space_8 | brother physical despair vanish doctor fancy certain draft |  
 | bip_39_word_space_9 | brother physical despair vanish doctor fancy certain draft one |  
+| bip_39_word_underscore_1 | brother |  
+| bip_39_word_underscore_10 | brother_physical_despair_vanish_doctor_fancy_certain_draft_one_bronze |  
+| bip_39_word_underscore_11 | brother_physical_despair_vanish_doctor_fancy_certain_draft_one_bronze_citizen |  
+| bip_39_word_underscore_12 | brother_physical_despair_vanish_doctor_fancy_certain_draft_one_bronze_citizen_act |  
+| bip_39_word_underscore_2 | brother_physical |  
+| bip_39_word_underscore_3 | brother_physical_despair |  
+| bip_39_word_underscore_4 | brother_physical_despair_vanish |  
+| bip_39_word_underscore_5 | brother_physical_despair_vanish_doctor |  
+| bip_39_word_underscore_6 | brother_physical_despair_vanish_doctor_fancy |  
+| bip_39_word_underscore_7 | brother_physical_despair_vanish_doctor_fancy_certain |  
+| bip_39_word_underscore_8 | brother_physical_despair_vanish_doctor_fancy_certain_draft |  
+| bip_39_word_underscore_9 | brother_physical_despair_vanish_doctor_fancy_certain_draft_one |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

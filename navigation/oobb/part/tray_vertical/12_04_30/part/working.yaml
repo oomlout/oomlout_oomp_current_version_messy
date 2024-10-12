@@ -1,3 +1,15 @@
+bip_39_word_dash_1: absorb
+bip_39_word_dash_10: absorb-jacket-file-worry-depart-staff-this-pulse-purse-clump
+bip_39_word_dash_11: absorb-jacket-file-worry-depart-staff-this-pulse-purse-clump-stool
+bip_39_word_dash_12: absorb-jacket-file-worry-depart-staff-this-pulse-purse-clump-stool-anxiety
+bip_39_word_dash_2: absorb-jacket
+bip_39_word_dash_3: absorb-jacket-file
+bip_39_word_dash_4: absorb-jacket-file-worry
+bip_39_word_dash_5: absorb-jacket-file-worry-depart
+bip_39_word_dash_6: absorb-jacket-file-worry-depart-staff
+bip_39_word_dash_7: absorb-jacket-file-worry-depart-staff-this
+bip_39_word_dash_8: absorb-jacket-file-worry-depart-staff-this-pulse
+bip_39_word_dash_9: absorb-jacket-file-worry-depart-staff-this-pulse-purse
 bip_39_word_new_br_1: absorb
 bip_39_word_new_br_10: absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump
 bip_39_word_new_br_11: absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump<br>stool
@@ -193,6 +205,18 @@ bip_39_word_space_6: absorb jacket file worry depart staff
 bip_39_word_space_7: absorb jacket file worry depart staff this
 bip_39_word_space_8: absorb jacket file worry depart staff this pulse
 bip_39_word_space_9: absorb jacket file worry depart staff this pulse purse
+bip_39_word_underscore_1: absorb
+bip_39_word_underscore_10: absorb_jacket_file_worry_depart_staff_this_pulse_purse_clump
+bip_39_word_underscore_11: absorb_jacket_file_worry_depart_staff_this_pulse_purse_clump_stool
+bip_39_word_underscore_12: absorb_jacket_file_worry_depart_staff_this_pulse_purse_clump_stool_anxiety
+bip_39_word_underscore_2: absorb_jacket
+bip_39_word_underscore_3: absorb_jacket_file
+bip_39_word_underscore_4: absorb_jacket_file_worry
+bip_39_word_underscore_5: absorb_jacket_file_worry_depart
+bip_39_word_underscore_6: absorb_jacket_file_worry_depart_staff
+bip_39_word_underscore_7: absorb_jacket_file_worry_depart_staff_this
+bip_39_word_underscore_8: absorb_jacket_file_worry_depart_staff_this_pulse
+bip_39_word_underscore_9: absorb_jacket_file_worry_depart_staff_this_pulse_purse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

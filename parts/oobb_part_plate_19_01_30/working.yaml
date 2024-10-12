@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ribbon
+bip_39_word_dash_10: ribbon-fringe-pink-violin-tell-story-wedding-knife-meadow-giggle
+bip_39_word_dash_11: ribbon-fringe-pink-violin-tell-story-wedding-knife-meadow-giggle-away
+bip_39_word_dash_12: ribbon-fringe-pink-violin-tell-story-wedding-knife-meadow-giggle-away-aspect
+bip_39_word_dash_2: ribbon-fringe
+bip_39_word_dash_3: ribbon-fringe-pink
+bip_39_word_dash_4: ribbon-fringe-pink-violin
+bip_39_word_dash_5: ribbon-fringe-pink-violin-tell
+bip_39_word_dash_6: ribbon-fringe-pink-violin-tell-story
+bip_39_word_dash_7: ribbon-fringe-pink-violin-tell-story-wedding
+bip_39_word_dash_8: ribbon-fringe-pink-violin-tell-story-wedding-knife
+bip_39_word_dash_9: ribbon-fringe-pink-violin-tell-story-wedding-knife-meadow
 bip_39_word_new_br_1: ribbon
 bip_39_word_new_br_10: ribbon<br>fringe<br>pink<br>violin<br>tell<br>story<br>wedding<br>knife<br>meadow<br>giggle
 bip_39_word_new_br_11: ribbon<br>fringe<br>pink<br>violin<br>tell<br>story<br>wedding<br>knife<br>meadow<br>giggle<br>away
@@ -193,6 +205,18 @@ bip_39_word_space_6: ribbon fringe pink violin tell story
 bip_39_word_space_7: ribbon fringe pink violin tell story wedding
 bip_39_word_space_8: ribbon fringe pink violin tell story wedding knife
 bip_39_word_space_9: ribbon fringe pink violin tell story wedding knife meadow
+bip_39_word_underscore_1: ribbon
+bip_39_word_underscore_10: ribbon_fringe_pink_violin_tell_story_wedding_knife_meadow_giggle
+bip_39_word_underscore_11: ribbon_fringe_pink_violin_tell_story_wedding_knife_meadow_giggle_away
+bip_39_word_underscore_12: ribbon_fringe_pink_violin_tell_story_wedding_knife_meadow_giggle_away_aspect
+bip_39_word_underscore_2: ribbon_fringe
+bip_39_word_underscore_3: ribbon_fringe_pink
+bip_39_word_underscore_4: ribbon_fringe_pink_violin
+bip_39_word_underscore_5: ribbon_fringe_pink_violin_tell
+bip_39_word_underscore_6: ribbon_fringe_pink_violin_tell_story
+bip_39_word_underscore_7: ribbon_fringe_pink_violin_tell_story_wedding
+bip_39_word_underscore_8: ribbon_fringe_pink_violin_tell_story_wedding_knife
+bip_39_word_underscore_9: ribbon_fringe_pink_violin_tell_story_wedding_knife_meadow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: know
+bip_39_word_dash_10: know-second-view-any-dinner-area-hungry-orange-wage-clinic
+bip_39_word_dash_11: know-second-view-any-dinner-area-hungry-orange-wage-clinic-claim
+bip_39_word_dash_12: know-second-view-any-dinner-area-hungry-orange-wage-clinic-claim-artefact
+bip_39_word_dash_2: know-second
+bip_39_word_dash_3: know-second-view
+bip_39_word_dash_4: know-second-view-any
+bip_39_word_dash_5: know-second-view-any-dinner
+bip_39_word_dash_6: know-second-view-any-dinner-area
+bip_39_word_dash_7: know-second-view-any-dinner-area-hungry
+bip_39_word_dash_8: know-second-view-any-dinner-area-hungry-orange
+bip_39_word_dash_9: know-second-view-any-dinner-area-hungry-orange-wage
 bip_39_word_new_br_1: know
 bip_39_word_new_br_10: know<br>second<br>view<br>any<br>dinner<br>area<br>hungry<br>orange<br>wage<br>clinic
 bip_39_word_new_br_11: know<br>second<br>view<br>any<br>dinner<br>area<br>hungry<br>orange<br>wage<br>clinic<br>claim
@@ -192,6 +204,18 @@ bip_39_word_space_6: know second view any dinner area
 bip_39_word_space_7: know second view any dinner area hungry
 bip_39_word_space_8: know second view any dinner area hungry orange
 bip_39_word_space_9: know second view any dinner area hungry orange wage
+bip_39_word_underscore_1: know
+bip_39_word_underscore_10: know_second_view_any_dinner_area_hungry_orange_wage_clinic
+bip_39_word_underscore_11: know_second_view_any_dinner_area_hungry_orange_wage_clinic_claim
+bip_39_word_underscore_12: know_second_view_any_dinner_area_hungry_orange_wage_clinic_claim_artefact
+bip_39_word_underscore_2: know_second
+bip_39_word_underscore_3: know_second_view
+bip_39_word_underscore_4: know_second_view_any
+bip_39_word_underscore_5: know_second_view_any_dinner
+bip_39_word_underscore_6: know_second_view_any_dinner_area
+bip_39_word_underscore_7: know_second_view_any_dinner_area_hungry
+bip_39_word_underscore_8: know_second_view_any_dinner_area_hungry_orange
+bip_39_word_underscore_9: know_second_view_any_dinner_area_hungry_orange_wage
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

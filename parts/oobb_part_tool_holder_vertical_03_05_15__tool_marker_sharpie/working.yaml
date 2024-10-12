@@ -1,3 +1,15 @@
+bip_39_word_dash_1: throw
+bip_39_word_dash_10: throw-spy-never-material-kiwi-change-evidence-choice-game-rare
+bip_39_word_dash_11: throw-spy-never-material-kiwi-change-evidence-choice-game-rare-lamp
+bip_39_word_dash_12: throw-spy-never-material-kiwi-change-evidence-choice-game-rare-lamp-air
+bip_39_word_dash_2: throw-spy
+bip_39_word_dash_3: throw-spy-never
+bip_39_word_dash_4: throw-spy-never-material
+bip_39_word_dash_5: throw-spy-never-material-kiwi
+bip_39_word_dash_6: throw-spy-never-material-kiwi-change
+bip_39_word_dash_7: throw-spy-never-material-kiwi-change-evidence
+bip_39_word_dash_8: throw-spy-never-material-kiwi-change-evidence-choice
+bip_39_word_dash_9: throw-spy-never-material-kiwi-change-evidence-choice-game
 bip_39_word_new_br_1: throw
 bip_39_word_new_br_10: throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare
 bip_39_word_new_br_11: throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare<br>lamp
@@ -193,6 +205,18 @@ bip_39_word_space_6: throw spy never material kiwi change
 bip_39_word_space_7: throw spy never material kiwi change evidence
 bip_39_word_space_8: throw spy never material kiwi change evidence choice
 bip_39_word_space_9: throw spy never material kiwi change evidence choice game
+bip_39_word_underscore_1: throw
+bip_39_word_underscore_10: throw_spy_never_material_kiwi_change_evidence_choice_game_rare
+bip_39_word_underscore_11: throw_spy_never_material_kiwi_change_evidence_choice_game_rare_lamp
+bip_39_word_underscore_12: throw_spy_never_material_kiwi_change_evidence_choice_game_rare_lamp_air
+bip_39_word_underscore_2: throw_spy
+bip_39_word_underscore_3: throw_spy_never
+bip_39_word_underscore_4: throw_spy_never_material
+bip_39_word_underscore_5: throw_spy_never_material_kiwi
+bip_39_word_underscore_6: throw_spy_never_material_kiwi_change
+bip_39_word_underscore_7: throw_spy_never_material_kiwi_change_evidence
+bip_39_word_underscore_8: throw_spy_never_material_kiwi_change_evidence_choice
+bip_39_word_underscore_9: throw_spy_never_material_kiwi_change_evidence_choice_game
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

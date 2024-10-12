@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | muffin |  
+| bip_39_word_dash_10 | muffin-gravity-remember-trade-tiger-language-betray-cluster-dial-airport |  
+| bip_39_word_dash_11 | muffin-gravity-remember-trade-tiger-language-betray-cluster-dial-airport-yard |  
+| bip_39_word_dash_12 | muffin-gravity-remember-trade-tiger-language-betray-cluster-dial-airport-yard-animal |  
+| bip_39_word_dash_2 | muffin-gravity |  
+| bip_39_word_dash_3 | muffin-gravity-remember |  
+| bip_39_word_dash_4 | muffin-gravity-remember-trade |  
+| bip_39_word_dash_5 | muffin-gravity-remember-trade-tiger |  
+| bip_39_word_dash_6 | muffin-gravity-remember-trade-tiger-language |  
+| bip_39_word_dash_7 | muffin-gravity-remember-trade-tiger-language-betray |  
+| bip_39_word_dash_8 | muffin-gravity-remember-trade-tiger-language-betray-cluster |  
+| bip_39_word_dash_9 | muffin-gravity-remember-trade-tiger-language-betray-cluster-dial |  
 | bip_39_word_new_br_1 | muffin |  
 | bip_39_word_new_br_10 | muffin<br>gravity<br>remember<br>trade<br>tiger<br>language<br>betray<br>cluster<br>dial<br>airport |  
 | bip_39_word_new_br_11 | muffin<br>gravity<br>remember<br>trade<br>tiger<br>language<br>betray<br>cluster<br>dial<br>airport<br>yard |  
@@ -147,6 +159,18 @@ dial |
 | bip_39_word_space_7 | muffin gravity remember trade tiger language betray |  
 | bip_39_word_space_8 | muffin gravity remember trade tiger language betray cluster |  
 | bip_39_word_space_9 | muffin gravity remember trade tiger language betray cluster dial |  
+| bip_39_word_underscore_1 | muffin |  
+| bip_39_word_underscore_10 | muffin_gravity_remember_trade_tiger_language_betray_cluster_dial_airport |  
+| bip_39_word_underscore_11 | muffin_gravity_remember_trade_tiger_language_betray_cluster_dial_airport_yard |  
+| bip_39_word_underscore_12 | muffin_gravity_remember_trade_tiger_language_betray_cluster_dial_airport_yard_animal |  
+| bip_39_word_underscore_2 | muffin_gravity |  
+| bip_39_word_underscore_3 | muffin_gravity_remember |  
+| bip_39_word_underscore_4 | muffin_gravity_remember_trade |  
+| bip_39_word_underscore_5 | muffin_gravity_remember_trade_tiger |  
+| bip_39_word_underscore_6 | muffin_gravity_remember_trade_tiger_language |  
+| bip_39_word_underscore_7 | muffin_gravity_remember_trade_tiger_language_betray |  
+| bip_39_word_underscore_8 | muffin_gravity_remember_trade_tiger_language_betray_cluster |  
+| bip_39_word_underscore_9 | muffin_gravity_remember_trade_tiger_language_betray_cluster_dial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

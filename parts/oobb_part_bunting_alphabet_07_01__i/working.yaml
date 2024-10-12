@@ -1,3 +1,15 @@
+bip_39_word_dash_1: master
+bip_39_word_dash_10: master-pull-tape-point-flower-cabin-horror-anger-response-onion
+bip_39_word_dash_11: master-pull-tape-point-flower-cabin-horror-anger-response-onion-shuffle
+bip_39_word_dash_12: master-pull-tape-point-flower-cabin-horror-anger-response-onion-shuffle-address
+bip_39_word_dash_2: master-pull
+bip_39_word_dash_3: master-pull-tape
+bip_39_word_dash_4: master-pull-tape-point
+bip_39_word_dash_5: master-pull-tape-point-flower
+bip_39_word_dash_6: master-pull-tape-point-flower-cabin
+bip_39_word_dash_7: master-pull-tape-point-flower-cabin-horror
+bip_39_word_dash_8: master-pull-tape-point-flower-cabin-horror-anger
+bip_39_word_dash_9: master-pull-tape-point-flower-cabin-horror-anger-response
 bip_39_word_new_br_1: master
 bip_39_word_new_br_10: master<br>pull<br>tape<br>point<br>flower<br>cabin<br>horror<br>anger<br>response<br>onion
 bip_39_word_new_br_11: master<br>pull<br>tape<br>point<br>flower<br>cabin<br>horror<br>anger<br>response<br>onion<br>shuffle
@@ -193,6 +205,18 @@ bip_39_word_space_6: master pull tape point flower cabin
 bip_39_word_space_7: master pull tape point flower cabin horror
 bip_39_word_space_8: master pull tape point flower cabin horror anger
 bip_39_word_space_9: master pull tape point flower cabin horror anger response
+bip_39_word_underscore_1: master
+bip_39_word_underscore_10: master_pull_tape_point_flower_cabin_horror_anger_response_onion
+bip_39_word_underscore_11: master_pull_tape_point_flower_cabin_horror_anger_response_onion_shuffle
+bip_39_word_underscore_12: master_pull_tape_point_flower_cabin_horror_anger_response_onion_shuffle_address
+bip_39_word_underscore_2: master_pull
+bip_39_word_underscore_3: master_pull_tape
+bip_39_word_underscore_4: master_pull_tape_point
+bip_39_word_underscore_5: master_pull_tape_point_flower
+bip_39_word_underscore_6: master_pull_tape_point_flower_cabin
+bip_39_word_underscore_7: master_pull_tape_point_flower_cabin_horror
+bip_39_word_underscore_8: master_pull_tape_point_flower_cabin_horror_anger
+bip_39_word_underscore_9: master_pull_tape_point_flower_cabin_horror_anger_response
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

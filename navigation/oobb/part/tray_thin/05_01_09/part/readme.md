@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | awake |  
+| bip_39_word_dash_10 | awake-annual-cheap-high-suffer-damage-goddess-elbow-empower-spot |  
+| bip_39_word_dash_11 | awake-annual-cheap-high-suffer-damage-goddess-elbow-empower-spot-empower |  
+| bip_39_word_dash_12 | awake-annual-cheap-high-suffer-damage-goddess-elbow-empower-spot-empower-athlete |  
+| bip_39_word_dash_2 | awake-annual |  
+| bip_39_word_dash_3 | awake-annual-cheap |  
+| bip_39_word_dash_4 | awake-annual-cheap-high |  
+| bip_39_word_dash_5 | awake-annual-cheap-high-suffer |  
+| bip_39_word_dash_6 | awake-annual-cheap-high-suffer-damage |  
+| bip_39_word_dash_7 | awake-annual-cheap-high-suffer-damage-goddess |  
+| bip_39_word_dash_8 | awake-annual-cheap-high-suffer-damage-goddess-elbow |  
+| bip_39_word_dash_9 | awake-annual-cheap-high-suffer-damage-goddess-elbow-empower |  
 | bip_39_word_new_br_1 | awake |  
 | bip_39_word_new_br_10 | awake<br>annual<br>cheap<br>high<br>suffer<br>damage<br>goddess<br>elbow<br>empower<br>spot |  
 | bip_39_word_new_br_11 | awake<br>annual<br>cheap<br>high<br>suffer<br>damage<br>goddess<br>elbow<br>empower<br>spot<br>empower |  
@@ -147,6 +159,18 @@ empower |
 | bip_39_word_space_7 | awake annual cheap high suffer damage goddess |  
 | bip_39_word_space_8 | awake annual cheap high suffer damage goddess elbow |  
 | bip_39_word_space_9 | awake annual cheap high suffer damage goddess elbow empower |  
+| bip_39_word_underscore_1 | awake |  
+| bip_39_word_underscore_10 | awake_annual_cheap_high_suffer_damage_goddess_elbow_empower_spot |  
+| bip_39_word_underscore_11 | awake_annual_cheap_high_suffer_damage_goddess_elbow_empower_spot_empower |  
+| bip_39_word_underscore_12 | awake_annual_cheap_high_suffer_damage_goddess_elbow_empower_spot_empower_athlete |  
+| bip_39_word_underscore_2 | awake_annual |  
+| bip_39_word_underscore_3 | awake_annual_cheap |  
+| bip_39_word_underscore_4 | awake_annual_cheap_high |  
+| bip_39_word_underscore_5 | awake_annual_cheap_high_suffer |  
+| bip_39_word_underscore_6 | awake_annual_cheap_high_suffer_damage |  
+| bip_39_word_underscore_7 | awake_annual_cheap_high_suffer_damage_goddess |  
+| bip_39_word_underscore_8 | awake_annual_cheap_high_suffer_damage_goddess_elbow |  
+| bip_39_word_underscore_9 | awake_annual_cheap_high_suffer_damage_goddess_elbow_empower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

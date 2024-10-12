@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dignity |  
+| bip_39_word_dash_10 | dignity-mountain-mosquito-detail-sauce-damage-wine-head-small-palm |  
+| bip_39_word_dash_11 | dignity-mountain-mosquito-detail-sauce-damage-wine-head-small-palm-window |  
+| bip_39_word_dash_12 | dignity-mountain-mosquito-detail-sauce-damage-wine-head-small-palm-window-achieve |  
+| bip_39_word_dash_2 | dignity-mountain |  
+| bip_39_word_dash_3 | dignity-mountain-mosquito |  
+| bip_39_word_dash_4 | dignity-mountain-mosquito-detail |  
+| bip_39_word_dash_5 | dignity-mountain-mosquito-detail-sauce |  
+| bip_39_word_dash_6 | dignity-mountain-mosquito-detail-sauce-damage |  
+| bip_39_word_dash_7 | dignity-mountain-mosquito-detail-sauce-damage-wine |  
+| bip_39_word_dash_8 | dignity-mountain-mosquito-detail-sauce-damage-wine-head |  
+| bip_39_word_dash_9 | dignity-mountain-mosquito-detail-sauce-damage-wine-head-small |  
 | bip_39_word_new_br_1 | dignity |  
 | bip_39_word_new_br_10 | dignity<br>mountain<br>mosquito<br>detail<br>sauce<br>damage<br>wine<br>head<br>small<br>palm |  
 | bip_39_word_new_br_11 | dignity<br>mountain<br>mosquito<br>detail<br>sauce<br>damage<br>wine<br>head<br>small<br>palm<br>window |  
@@ -147,6 +159,18 @@ small |
 | bip_39_word_space_7 | dignity mountain mosquito detail sauce damage wine |  
 | bip_39_word_space_8 | dignity mountain mosquito detail sauce damage wine head |  
 | bip_39_word_space_9 | dignity mountain mosquito detail sauce damage wine head small |  
+| bip_39_word_underscore_1 | dignity |  
+| bip_39_word_underscore_10 | dignity_mountain_mosquito_detail_sauce_damage_wine_head_small_palm |  
+| bip_39_word_underscore_11 | dignity_mountain_mosquito_detail_sauce_damage_wine_head_small_palm_window |  
+| bip_39_word_underscore_12 | dignity_mountain_mosquito_detail_sauce_damage_wine_head_small_palm_window_achieve |  
+| bip_39_word_underscore_2 | dignity_mountain |  
+| bip_39_word_underscore_3 | dignity_mountain_mosquito |  
+| bip_39_word_underscore_4 | dignity_mountain_mosquito_detail |  
+| bip_39_word_underscore_5 | dignity_mountain_mosquito_detail_sauce |  
+| bip_39_word_underscore_6 | dignity_mountain_mosquito_detail_sauce_damage |  
+| bip_39_word_underscore_7 | dignity_mountain_mosquito_detail_sauce_damage_wine |  
+| bip_39_word_underscore_8 | dignity_mountain_mosquito_detail_sauce_damage_wine_head |  
+| bip_39_word_underscore_9 | dignity_mountain_mosquito_detail_sauce_damage_wine_head_small |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

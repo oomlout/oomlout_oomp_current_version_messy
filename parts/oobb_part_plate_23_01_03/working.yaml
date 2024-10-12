@@ -1,3 +1,15 @@
+bip_39_word_dash_1: illness
+bip_39_word_dash_10: illness-voyage-coast-round-forum-oppose-notice-couch-obey-lock
+bip_39_word_dash_11: illness-voyage-coast-round-forum-oppose-notice-couch-obey-lock-ketchup
+bip_39_word_dash_12: illness-voyage-coast-round-forum-oppose-notice-couch-obey-lock-ketchup-again
+bip_39_word_dash_2: illness-voyage
+bip_39_word_dash_3: illness-voyage-coast
+bip_39_word_dash_4: illness-voyage-coast-round
+bip_39_word_dash_5: illness-voyage-coast-round-forum
+bip_39_word_dash_6: illness-voyage-coast-round-forum-oppose
+bip_39_word_dash_7: illness-voyage-coast-round-forum-oppose-notice
+bip_39_word_dash_8: illness-voyage-coast-round-forum-oppose-notice-couch
+bip_39_word_dash_9: illness-voyage-coast-round-forum-oppose-notice-couch-obey
 bip_39_word_new_br_1: illness
 bip_39_word_new_br_10: illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch<br>obey<br>lock
 bip_39_word_new_br_11: illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch<br>obey<br>lock<br>ketchup
@@ -193,6 +205,18 @@ bip_39_word_space_6: illness voyage coast round forum oppose
 bip_39_word_space_7: illness voyage coast round forum oppose notice
 bip_39_word_space_8: illness voyage coast round forum oppose notice couch
 bip_39_word_space_9: illness voyage coast round forum oppose notice couch obey
+bip_39_word_underscore_1: illness
+bip_39_word_underscore_10: illness_voyage_coast_round_forum_oppose_notice_couch_obey_lock
+bip_39_word_underscore_11: illness_voyage_coast_round_forum_oppose_notice_couch_obey_lock_ketchup
+bip_39_word_underscore_12: illness_voyage_coast_round_forum_oppose_notice_couch_obey_lock_ketchup_again
+bip_39_word_underscore_2: illness_voyage
+bip_39_word_underscore_3: illness_voyage_coast
+bip_39_word_underscore_4: illness_voyage_coast_round
+bip_39_word_underscore_5: illness_voyage_coast_round_forum
+bip_39_word_underscore_6: illness_voyage_coast_round_forum_oppose
+bip_39_word_underscore_7: illness_voyage_coast_round_forum_oppose_notice
+bip_39_word_underscore_8: illness_voyage_coast_round_forum_oppose_notice_couch
+bip_39_word_underscore_9: illness_voyage_coast_round_forum_oppose_notice_couch_obey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

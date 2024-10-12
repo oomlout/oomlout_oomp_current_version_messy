@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lyrics |  
+| bip_39_word_dash_10 | lyrics-island-cry-cupboard-company-shine-supply-aunt-purse-universe |  
+| bip_39_word_dash_11 | lyrics-island-cry-cupboard-company-shine-supply-aunt-purse-universe-sadness |  
+| bip_39_word_dash_12 | lyrics-island-cry-cupboard-company-shine-supply-aunt-purse-universe-sadness-absent |  
+| bip_39_word_dash_2 | lyrics-island |  
+| bip_39_word_dash_3 | lyrics-island-cry |  
+| bip_39_word_dash_4 | lyrics-island-cry-cupboard |  
+| bip_39_word_dash_5 | lyrics-island-cry-cupboard-company |  
+| bip_39_word_dash_6 | lyrics-island-cry-cupboard-company-shine |  
+| bip_39_word_dash_7 | lyrics-island-cry-cupboard-company-shine-supply |  
+| bip_39_word_dash_8 | lyrics-island-cry-cupboard-company-shine-supply-aunt |  
+| bip_39_word_dash_9 | lyrics-island-cry-cupboard-company-shine-supply-aunt-purse |  
 | bip_39_word_new_br_1 | lyrics |  
 | bip_39_word_new_br_10 | lyrics<br>island<br>cry<br>cupboard<br>company<br>shine<br>supply<br>aunt<br>purse<br>universe |  
 | bip_39_word_new_br_11 | lyrics<br>island<br>cry<br>cupboard<br>company<br>shine<br>supply<br>aunt<br>purse<br>universe<br>sadness |  
@@ -147,6 +159,18 @@ purse |
 | bip_39_word_space_7 | lyrics island cry cupboard company shine supply |  
 | bip_39_word_space_8 | lyrics island cry cupboard company shine supply aunt |  
 | bip_39_word_space_9 | lyrics island cry cupboard company shine supply aunt purse |  
+| bip_39_word_underscore_1 | lyrics |  
+| bip_39_word_underscore_10 | lyrics_island_cry_cupboard_company_shine_supply_aunt_purse_universe |  
+| bip_39_word_underscore_11 | lyrics_island_cry_cupboard_company_shine_supply_aunt_purse_universe_sadness |  
+| bip_39_word_underscore_12 | lyrics_island_cry_cupboard_company_shine_supply_aunt_purse_universe_sadness_absent |  
+| bip_39_word_underscore_2 | lyrics_island |  
+| bip_39_word_underscore_3 | lyrics_island_cry |  
+| bip_39_word_underscore_4 | lyrics_island_cry_cupboard |  
+| bip_39_word_underscore_5 | lyrics_island_cry_cupboard_company |  
+| bip_39_word_underscore_6 | lyrics_island_cry_cupboard_company_shine |  
+| bip_39_word_underscore_7 | lyrics_island_cry_cupboard_company_shine_supply |  
+| bip_39_word_underscore_8 | lyrics_island_cry_cupboard_company_shine_supply_aunt |  
+| bip_39_word_underscore_9 | lyrics_island_cry_cupboard_company_shine_supply_aunt_purse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brown |  
+| bip_39_word_dash_10 | brown-game-dizzy-emotion-taxi-palm-electric-glide-melody-east |  
+| bip_39_word_dash_11 | brown-game-dizzy-emotion-taxi-palm-electric-glide-melody-east-right |  
+| bip_39_word_dash_12 | brown-game-dizzy-emotion-taxi-palm-electric-glide-melody-east-right-actor |  
+| bip_39_word_dash_2 | brown-game |  
+| bip_39_word_dash_3 | brown-game-dizzy |  
+| bip_39_word_dash_4 | brown-game-dizzy-emotion |  
+| bip_39_word_dash_5 | brown-game-dizzy-emotion-taxi |  
+| bip_39_word_dash_6 | brown-game-dizzy-emotion-taxi-palm |  
+| bip_39_word_dash_7 | brown-game-dizzy-emotion-taxi-palm-electric |  
+| bip_39_word_dash_8 | brown-game-dizzy-emotion-taxi-palm-electric-glide |  
+| bip_39_word_dash_9 | brown-game-dizzy-emotion-taxi-palm-electric-glide-melody |  
 | bip_39_word_new_br_1 | brown |  
 | bip_39_word_new_br_10 | brown<br>game<br>dizzy<br>emotion<br>taxi<br>palm<br>electric<br>glide<br>melody<br>east |  
 | bip_39_word_new_br_11 | brown<br>game<br>dizzy<br>emotion<br>taxi<br>palm<br>electric<br>glide<br>melody<br>east<br>right |  
@@ -147,6 +159,18 @@ melody |
 | bip_39_word_space_7 | brown game dizzy emotion taxi palm electric |  
 | bip_39_word_space_8 | brown game dizzy emotion taxi palm electric glide |  
 | bip_39_word_space_9 | brown game dizzy emotion taxi palm electric glide melody |  
+| bip_39_word_underscore_1 | brown |  
+| bip_39_word_underscore_10 | brown_game_dizzy_emotion_taxi_palm_electric_glide_melody_east |  
+| bip_39_word_underscore_11 | brown_game_dizzy_emotion_taxi_palm_electric_glide_melody_east_right |  
+| bip_39_word_underscore_12 | brown_game_dizzy_emotion_taxi_palm_electric_glide_melody_east_right_actor |  
+| bip_39_word_underscore_2 | brown_game |  
+| bip_39_word_underscore_3 | brown_game_dizzy |  
+| bip_39_word_underscore_4 | brown_game_dizzy_emotion |  
+| bip_39_word_underscore_5 | brown_game_dizzy_emotion_taxi |  
+| bip_39_word_underscore_6 | brown_game_dizzy_emotion_taxi_palm |  
+| bip_39_word_underscore_7 | brown_game_dizzy_emotion_taxi_palm_electric |  
+| bip_39_word_underscore_8 | brown_game_dizzy_emotion_taxi_palm_electric_glide |  
+| bip_39_word_underscore_9 | brown_game_dizzy_emotion_taxi_palm_electric_glide_melody |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

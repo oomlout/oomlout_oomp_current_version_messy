@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slot |  
+| bip_39_word_dash_10 | slot-duty-choice-faculty-cost-dress-seven-major-ozone-rally |  
+| bip_39_word_dash_11 | slot-duty-choice-faculty-cost-dress-seven-major-ozone-rally-draft |  
+| bip_39_word_dash_12 | slot-duty-choice-faculty-cost-dress-seven-major-ozone-rally-draft-august |  
+| bip_39_word_dash_2 | slot-duty |  
+| bip_39_word_dash_3 | slot-duty-choice |  
+| bip_39_word_dash_4 | slot-duty-choice-faculty |  
+| bip_39_word_dash_5 | slot-duty-choice-faculty-cost |  
+| bip_39_word_dash_6 | slot-duty-choice-faculty-cost-dress |  
+| bip_39_word_dash_7 | slot-duty-choice-faculty-cost-dress-seven |  
+| bip_39_word_dash_8 | slot-duty-choice-faculty-cost-dress-seven-major |  
+| bip_39_word_dash_9 | slot-duty-choice-faculty-cost-dress-seven-major-ozone |  
 | bip_39_word_new_br_1 | slot |  
 | bip_39_word_new_br_10 | slot<br>duty<br>choice<br>faculty<br>cost<br>dress<br>seven<br>major<br>ozone<br>rally |  
 | bip_39_word_new_br_11 | slot<br>duty<br>choice<br>faculty<br>cost<br>dress<br>seven<br>major<br>ozone<br>rally<br>draft |  
@@ -147,6 +159,18 @@ ozone |
 | bip_39_word_space_7 | slot duty choice faculty cost dress seven |  
 | bip_39_word_space_8 | slot duty choice faculty cost dress seven major |  
 | bip_39_word_space_9 | slot duty choice faculty cost dress seven major ozone |  
+| bip_39_word_underscore_1 | slot |  
+| bip_39_word_underscore_10 | slot_duty_choice_faculty_cost_dress_seven_major_ozone_rally |  
+| bip_39_word_underscore_11 | slot_duty_choice_faculty_cost_dress_seven_major_ozone_rally_draft |  
+| bip_39_word_underscore_12 | slot_duty_choice_faculty_cost_dress_seven_major_ozone_rally_draft_august |  
+| bip_39_word_underscore_2 | slot_duty |  
+| bip_39_word_underscore_3 | slot_duty_choice |  
+| bip_39_word_underscore_4 | slot_duty_choice_faculty |  
+| bip_39_word_underscore_5 | slot_duty_choice_faculty_cost |  
+| bip_39_word_underscore_6 | slot_duty_choice_faculty_cost_dress |  
+| bip_39_word_underscore_7 | slot_duty_choice_faculty_cost_dress_seven |  
+| bip_39_word_underscore_8 | slot_duty_choice_faculty_cost_dress_seven_major |  
+| bip_39_word_underscore_9 | slot_duty_choice_faculty_cost_dress_seven_major_ozone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

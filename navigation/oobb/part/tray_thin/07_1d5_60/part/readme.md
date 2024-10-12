@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | claw |  
+| bip_39_word_dash_10 | claw-rack-design-load-dress-trip-venue-cable-absent-unveil |  
+| bip_39_word_dash_11 | claw-rack-design-load-dress-trip-venue-cable-absent-unveil-earth |  
+| bip_39_word_dash_12 | claw-rack-design-load-dress-trip-venue-cable-absent-unveil-earth-adapt |  
+| bip_39_word_dash_2 | claw-rack |  
+| bip_39_word_dash_3 | claw-rack-design |  
+| bip_39_word_dash_4 | claw-rack-design-load |  
+| bip_39_word_dash_5 | claw-rack-design-load-dress |  
+| bip_39_word_dash_6 | claw-rack-design-load-dress-trip |  
+| bip_39_word_dash_7 | claw-rack-design-load-dress-trip-venue |  
+| bip_39_word_dash_8 | claw-rack-design-load-dress-trip-venue-cable |  
+| bip_39_word_dash_9 | claw-rack-design-load-dress-trip-venue-cable-absent |  
 | bip_39_word_new_br_1 | claw |  
 | bip_39_word_new_br_10 | claw<br>rack<br>design<br>load<br>dress<br>trip<br>venue<br>cable<br>absent<br>unveil |  
 | bip_39_word_new_br_11 | claw<br>rack<br>design<br>load<br>dress<br>trip<br>venue<br>cable<br>absent<br>unveil<br>earth |  
@@ -147,6 +159,18 @@ absent |
 | bip_39_word_space_7 | claw rack design load dress trip venue |  
 | bip_39_word_space_8 | claw rack design load dress trip venue cable |  
 | bip_39_word_space_9 | claw rack design load dress trip venue cable absent |  
+| bip_39_word_underscore_1 | claw |  
+| bip_39_word_underscore_10 | claw_rack_design_load_dress_trip_venue_cable_absent_unveil |  
+| bip_39_word_underscore_11 | claw_rack_design_load_dress_trip_venue_cable_absent_unveil_earth |  
+| bip_39_word_underscore_12 | claw_rack_design_load_dress_trip_venue_cable_absent_unveil_earth_adapt |  
+| bip_39_word_underscore_2 | claw_rack |  
+| bip_39_word_underscore_3 | claw_rack_design |  
+| bip_39_word_underscore_4 | claw_rack_design_load |  
+| bip_39_word_underscore_5 | claw_rack_design_load_dress |  
+| bip_39_word_underscore_6 | claw_rack_design_load_dress_trip |  
+| bip_39_word_underscore_7 | claw_rack_design_load_dress_trip_venue |  
+| bip_39_word_underscore_8 | claw_rack_design_load_dress_trip_venue_cable |  
+| bip_39_word_underscore_9 | claw_rack_design_load_dress_trip_venue_cable_absent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

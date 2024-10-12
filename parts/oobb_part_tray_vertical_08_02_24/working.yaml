@@ -1,3 +1,15 @@
+bip_39_word_dash_1: twelve
+bip_39_word_dash_10: twelve-model-just-fruit-grace-raise-blouse-pledge-already-opinion
+bip_39_word_dash_11: twelve-model-just-fruit-grace-raise-blouse-pledge-already-opinion-twelve
+bip_39_word_dash_12: twelve-model-just-fruit-grace-raise-blouse-pledge-already-opinion-twelve-ankle
+bip_39_word_dash_2: twelve-model
+bip_39_word_dash_3: twelve-model-just
+bip_39_word_dash_4: twelve-model-just-fruit
+bip_39_word_dash_5: twelve-model-just-fruit-grace
+bip_39_word_dash_6: twelve-model-just-fruit-grace-raise
+bip_39_word_dash_7: twelve-model-just-fruit-grace-raise-blouse
+bip_39_word_dash_8: twelve-model-just-fruit-grace-raise-blouse-pledge
+bip_39_word_dash_9: twelve-model-just-fruit-grace-raise-blouse-pledge-already
 bip_39_word_new_br_1: twelve
 bip_39_word_new_br_10: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion
 bip_39_word_new_br_11: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion<br>twelve
@@ -193,6 +205,18 @@ bip_39_word_space_6: twelve model just fruit grace raise
 bip_39_word_space_7: twelve model just fruit grace raise blouse
 bip_39_word_space_8: twelve model just fruit grace raise blouse pledge
 bip_39_word_space_9: twelve model just fruit grace raise blouse pledge already
+bip_39_word_underscore_1: twelve
+bip_39_word_underscore_10: twelve_model_just_fruit_grace_raise_blouse_pledge_already_opinion
+bip_39_word_underscore_11: twelve_model_just_fruit_grace_raise_blouse_pledge_already_opinion_twelve
+bip_39_word_underscore_12: twelve_model_just_fruit_grace_raise_blouse_pledge_already_opinion_twelve_ankle
+bip_39_word_underscore_2: twelve_model
+bip_39_word_underscore_3: twelve_model_just
+bip_39_word_underscore_4: twelve_model_just_fruit
+bip_39_word_underscore_5: twelve_model_just_fruit_grace
+bip_39_word_underscore_6: twelve_model_just_fruit_grace_raise
+bip_39_word_underscore_7: twelve_model_just_fruit_grace_raise_blouse
+bip_39_word_underscore_8: twelve_model_just_fruit_grace_raise_blouse_pledge
+bip_39_word_underscore_9: twelve_model_just_fruit_grace_raise_blouse_pledge_already
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | time |  
+| bip_39_word_dash_10 | time-angry-swing-wild-demise-inner-place-two-link-win |  
+| bip_39_word_dash_11 | time-angry-swing-wild-demise-inner-place-two-link-win-spend |  
+| bip_39_word_dash_12 | time-angry-swing-wild-demise-inner-place-two-link-win-spend-absurd |  
+| bip_39_word_dash_2 | time-angry |  
+| bip_39_word_dash_3 | time-angry-swing |  
+| bip_39_word_dash_4 | time-angry-swing-wild |  
+| bip_39_word_dash_5 | time-angry-swing-wild-demise |  
+| bip_39_word_dash_6 | time-angry-swing-wild-demise-inner |  
+| bip_39_word_dash_7 | time-angry-swing-wild-demise-inner-place |  
+| bip_39_word_dash_8 | time-angry-swing-wild-demise-inner-place-two |  
+| bip_39_word_dash_9 | time-angry-swing-wild-demise-inner-place-two-link |  
 | bip_39_word_new_br_1 | time |  
 | bip_39_word_new_br_10 | time<br>angry<br>swing<br>wild<br>demise<br>inner<br>place<br>two<br>link<br>win |  
 | bip_39_word_new_br_11 | time<br>angry<br>swing<br>wild<br>demise<br>inner<br>place<br>two<br>link<br>win<br>spend |  
@@ -147,6 +159,18 @@ link |
 | bip_39_word_space_7 | time angry swing wild demise inner place |  
 | bip_39_word_space_8 | time angry swing wild demise inner place two |  
 | bip_39_word_space_9 | time angry swing wild demise inner place two link |  
+| bip_39_word_underscore_1 | time |  
+| bip_39_word_underscore_10 | time_angry_swing_wild_demise_inner_place_two_link_win |  
+| bip_39_word_underscore_11 | time_angry_swing_wild_demise_inner_place_two_link_win_spend |  
+| bip_39_word_underscore_12 | time_angry_swing_wild_demise_inner_place_two_link_win_spend_absurd |  
+| bip_39_word_underscore_2 | time_angry |  
+| bip_39_word_underscore_3 | time_angry_swing |  
+| bip_39_word_underscore_4 | time_angry_swing_wild |  
+| bip_39_word_underscore_5 | time_angry_swing_wild_demise |  
+| bip_39_word_underscore_6 | time_angry_swing_wild_demise_inner |  
+| bip_39_word_underscore_7 | time_angry_swing_wild_demise_inner_place |  
+| bip_39_word_underscore_8 | time_angry_swing_wild_demise_inner_place_two |  
+| bip_39_word_underscore_9 | time_angry_swing_wild_demise_inner_place_two_link |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

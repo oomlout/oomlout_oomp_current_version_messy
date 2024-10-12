@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tail |  
+| bip_39_word_dash_10 | tail-romance-vicious-cactus-maximum-text-uncover-top-fortune-alarm |  
+| bip_39_word_dash_11 | tail-romance-vicious-cactus-maximum-text-uncover-top-fortune-alarm-room |  
+| bip_39_word_dash_12 | tail-romance-vicious-cactus-maximum-text-uncover-top-fortune-alarm-room-attitude |  
+| bip_39_word_dash_2 | tail-romance |  
+| bip_39_word_dash_3 | tail-romance-vicious |  
+| bip_39_word_dash_4 | tail-romance-vicious-cactus |  
+| bip_39_word_dash_5 | tail-romance-vicious-cactus-maximum |  
+| bip_39_word_dash_6 | tail-romance-vicious-cactus-maximum-text |  
+| bip_39_word_dash_7 | tail-romance-vicious-cactus-maximum-text-uncover |  
+| bip_39_word_dash_8 | tail-romance-vicious-cactus-maximum-text-uncover-top |  
+| bip_39_word_dash_9 | tail-romance-vicious-cactus-maximum-text-uncover-top-fortune |  
 | bip_39_word_new_br_1 | tail |  
 | bip_39_word_new_br_10 | tail<br>romance<br>vicious<br>cactus<br>maximum<br>text<br>uncover<br>top<br>fortune<br>alarm |  
 | bip_39_word_new_br_11 | tail<br>romance<br>vicious<br>cactus<br>maximum<br>text<br>uncover<br>top<br>fortune<br>alarm<br>room |  
@@ -147,6 +159,18 @@ fortune |
 | bip_39_word_space_7 | tail romance vicious cactus maximum text uncover |  
 | bip_39_word_space_8 | tail romance vicious cactus maximum text uncover top |  
 | bip_39_word_space_9 | tail romance vicious cactus maximum text uncover top fortune |  
+| bip_39_word_underscore_1 | tail |  
+| bip_39_word_underscore_10 | tail_romance_vicious_cactus_maximum_text_uncover_top_fortune_alarm |  
+| bip_39_word_underscore_11 | tail_romance_vicious_cactus_maximum_text_uncover_top_fortune_alarm_room |  
+| bip_39_word_underscore_12 | tail_romance_vicious_cactus_maximum_text_uncover_top_fortune_alarm_room_attitude |  
+| bip_39_word_underscore_2 | tail_romance |  
+| bip_39_word_underscore_3 | tail_romance_vicious |  
+| bip_39_word_underscore_4 | tail_romance_vicious_cactus |  
+| bip_39_word_underscore_5 | tail_romance_vicious_cactus_maximum |  
+| bip_39_word_underscore_6 | tail_romance_vicious_cactus_maximum_text |  
+| bip_39_word_underscore_7 | tail_romance_vicious_cactus_maximum_text_uncover |  
+| bip_39_word_underscore_8 | tail_romance_vicious_cactus_maximum_text_uncover_top |  
+| bip_39_word_underscore_9 | tail_romance_vicious_cactus_maximum_text_uncover_top_fortune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

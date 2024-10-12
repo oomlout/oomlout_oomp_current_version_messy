@@ -1,3 +1,15 @@
+bip_39_word_dash_1: access
+bip_39_word_dash_10: access-sausage-vote-rookie-insect-property-despair-person-trophy-only
+bip_39_word_dash_11: access-sausage-vote-rookie-insect-property-despair-person-trophy-only-diet
+bip_39_word_dash_12: access-sausage-vote-rookie-insect-property-despair-person-trophy-only-diet-again
+bip_39_word_dash_2: access-sausage
+bip_39_word_dash_3: access-sausage-vote
+bip_39_word_dash_4: access-sausage-vote-rookie
+bip_39_word_dash_5: access-sausage-vote-rookie-insect
+bip_39_word_dash_6: access-sausage-vote-rookie-insect-property
+bip_39_word_dash_7: access-sausage-vote-rookie-insect-property-despair
+bip_39_word_dash_8: access-sausage-vote-rookie-insect-property-despair-person
+bip_39_word_dash_9: access-sausage-vote-rookie-insect-property-despair-person-trophy
 bip_39_word_new_br_1: access
 bip_39_word_new_br_10: access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person<br>trophy<br>only
 bip_39_word_new_br_11: access<br>sausage<br>vote<br>rookie<br>insect<br>property<br>despair<br>person<br>trophy<br>only<br>diet
@@ -194,6 +206,18 @@ bip_39_word_space_6: access sausage vote rookie insect property
 bip_39_word_space_7: access sausage vote rookie insect property despair
 bip_39_word_space_8: access sausage vote rookie insect property despair person
 bip_39_word_space_9: access sausage vote rookie insect property despair person trophy
+bip_39_word_underscore_1: access
+bip_39_word_underscore_10: access_sausage_vote_rookie_insect_property_despair_person_trophy_only
+bip_39_word_underscore_11: access_sausage_vote_rookie_insect_property_despair_person_trophy_only_diet
+bip_39_word_underscore_12: access_sausage_vote_rookie_insect_property_despair_person_trophy_only_diet_again
+bip_39_word_underscore_2: access_sausage
+bip_39_word_underscore_3: access_sausage_vote
+bip_39_word_underscore_4: access_sausage_vote_rookie
+bip_39_word_underscore_5: access_sausage_vote_rookie_insect
+bip_39_word_underscore_6: access_sausage_vote_rookie_insect_property
+bip_39_word_underscore_7: access_sausage_vote_rookie_insect_property_despair
+bip_39_word_underscore_8: access_sausage_vote_rookie_insect_property_despair_person
+bip_39_word_underscore_9: access_sausage_vote_rookie_insect_property_despair_person_trophy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

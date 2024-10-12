@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enable |  
+| bip_39_word_dash_10 | enable-impulse-lounge-vote-motor-start-anchor-leave-shine-swap |  
+| bip_39_word_dash_11 | enable-impulse-lounge-vote-motor-start-anchor-leave-shine-swap-today |  
+| bip_39_word_dash_12 | enable-impulse-lounge-vote-motor-start-anchor-leave-shine-swap-today-ahead |  
+| bip_39_word_dash_2 | enable-impulse |  
+| bip_39_word_dash_3 | enable-impulse-lounge |  
+| bip_39_word_dash_4 | enable-impulse-lounge-vote |  
+| bip_39_word_dash_5 | enable-impulse-lounge-vote-motor |  
+| bip_39_word_dash_6 | enable-impulse-lounge-vote-motor-start |  
+| bip_39_word_dash_7 | enable-impulse-lounge-vote-motor-start-anchor |  
+| bip_39_word_dash_8 | enable-impulse-lounge-vote-motor-start-anchor-leave |  
+| bip_39_word_dash_9 | enable-impulse-lounge-vote-motor-start-anchor-leave-shine |  
 | bip_39_word_new_br_1 | enable |  
 | bip_39_word_new_br_10 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap |  
 | bip_39_word_new_br_11 | enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap<br>today |  
@@ -147,6 +159,18 @@ shine |
 | bip_39_word_space_7 | enable impulse lounge vote motor start anchor |  
 | bip_39_word_space_8 | enable impulse lounge vote motor start anchor leave |  
 | bip_39_word_space_9 | enable impulse lounge vote motor start anchor leave shine |  
+| bip_39_word_underscore_1 | enable |  
+| bip_39_word_underscore_10 | enable_impulse_lounge_vote_motor_start_anchor_leave_shine_swap |  
+| bip_39_word_underscore_11 | enable_impulse_lounge_vote_motor_start_anchor_leave_shine_swap_today |  
+| bip_39_word_underscore_12 | enable_impulse_lounge_vote_motor_start_anchor_leave_shine_swap_today_ahead |  
+| bip_39_word_underscore_2 | enable_impulse |  
+| bip_39_word_underscore_3 | enable_impulse_lounge |  
+| bip_39_word_underscore_4 | enable_impulse_lounge_vote |  
+| bip_39_word_underscore_5 | enable_impulse_lounge_vote_motor |  
+| bip_39_word_underscore_6 | enable_impulse_lounge_vote_motor_start |  
+| bip_39_word_underscore_7 | enable_impulse_lounge_vote_motor_start_anchor |  
+| bip_39_word_underscore_8 | enable_impulse_lounge_vote_motor_start_anchor_leave |  
+| bip_39_word_underscore_9 | enable_impulse_lounge_vote_motor_start_anchor_leave_shine |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

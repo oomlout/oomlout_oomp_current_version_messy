@@ -1,3 +1,15 @@
+bip_39_word_dash_1: regret
+bip_39_word_dash_10: regret-impose-nuclear-pretty-feel-appear-mule-world-vibrant-pony
+bip_39_word_dash_11: regret-impose-nuclear-pretty-feel-appear-mule-world-vibrant-pony-cigar
+bip_39_word_dash_12: regret-impose-nuclear-pretty-feel-appear-mule-world-vibrant-pony-cigar-arrow
+bip_39_word_dash_2: regret-impose
+bip_39_word_dash_3: regret-impose-nuclear
+bip_39_word_dash_4: regret-impose-nuclear-pretty
+bip_39_word_dash_5: regret-impose-nuclear-pretty-feel
+bip_39_word_dash_6: regret-impose-nuclear-pretty-feel-appear
+bip_39_word_dash_7: regret-impose-nuclear-pretty-feel-appear-mule
+bip_39_word_dash_8: regret-impose-nuclear-pretty-feel-appear-mule-world
+bip_39_word_dash_9: regret-impose-nuclear-pretty-feel-appear-mule-world-vibrant
 bip_39_word_new_br_1: regret
 bip_39_word_new_br_10: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony
 bip_39_word_new_br_11: regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony<br>cigar
@@ -194,6 +206,18 @@ bip_39_word_space_6: regret impose nuclear pretty feel appear
 bip_39_word_space_7: regret impose nuclear pretty feel appear mule
 bip_39_word_space_8: regret impose nuclear pretty feel appear mule world
 bip_39_word_space_9: regret impose nuclear pretty feel appear mule world vibrant
+bip_39_word_underscore_1: regret
+bip_39_word_underscore_10: regret_impose_nuclear_pretty_feel_appear_mule_world_vibrant_pony
+bip_39_word_underscore_11: regret_impose_nuclear_pretty_feel_appear_mule_world_vibrant_pony_cigar
+bip_39_word_underscore_12: regret_impose_nuclear_pretty_feel_appear_mule_world_vibrant_pony_cigar_arrow
+bip_39_word_underscore_2: regret_impose
+bip_39_word_underscore_3: regret_impose_nuclear
+bip_39_word_underscore_4: regret_impose_nuclear_pretty
+bip_39_word_underscore_5: regret_impose_nuclear_pretty_feel
+bip_39_word_underscore_6: regret_impose_nuclear_pretty_feel_appear
+bip_39_word_underscore_7: regret_impose_nuclear_pretty_feel_appear_mule
+bip_39_word_underscore_8: regret_impose_nuclear_pretty_feel_appear_mule_world
+bip_39_word_underscore_9: regret_impose_nuclear_pretty_feel_appear_mule_world_vibrant
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

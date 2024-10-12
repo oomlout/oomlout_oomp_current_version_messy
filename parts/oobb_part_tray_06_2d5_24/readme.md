@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assist |  
+| bip_39_word_dash_10 | assist-define-engine-raven-whip-power-nest-reunion-govern-execute |  
+| bip_39_word_dash_11 | assist-define-engine-raven-whip-power-nest-reunion-govern-execute-layer |  
+| bip_39_word_dash_12 | assist-define-engine-raven-whip-power-nest-reunion-govern-execute-layer-abstract |  
+| bip_39_word_dash_2 | assist-define |  
+| bip_39_word_dash_3 | assist-define-engine |  
+| bip_39_word_dash_4 | assist-define-engine-raven |  
+| bip_39_word_dash_5 | assist-define-engine-raven-whip |  
+| bip_39_word_dash_6 | assist-define-engine-raven-whip-power |  
+| bip_39_word_dash_7 | assist-define-engine-raven-whip-power-nest |  
+| bip_39_word_dash_8 | assist-define-engine-raven-whip-power-nest-reunion |  
+| bip_39_word_dash_9 | assist-define-engine-raven-whip-power-nest-reunion-govern |  
 | bip_39_word_new_br_1 | assist |  
 | bip_39_word_new_br_10 | assist<br>define<br>engine<br>raven<br>whip<br>power<br>nest<br>reunion<br>govern<br>execute |  
 | bip_39_word_new_br_11 | assist<br>define<br>engine<br>raven<br>whip<br>power<br>nest<br>reunion<br>govern<br>execute<br>layer |  
@@ -147,6 +159,18 @@ govern |
 | bip_39_word_space_7 | assist define engine raven whip power nest |  
 | bip_39_word_space_8 | assist define engine raven whip power nest reunion |  
 | bip_39_word_space_9 | assist define engine raven whip power nest reunion govern |  
+| bip_39_word_underscore_1 | assist |  
+| bip_39_word_underscore_10 | assist_define_engine_raven_whip_power_nest_reunion_govern_execute |  
+| bip_39_word_underscore_11 | assist_define_engine_raven_whip_power_nest_reunion_govern_execute_layer |  
+| bip_39_word_underscore_12 | assist_define_engine_raven_whip_power_nest_reunion_govern_execute_layer_abstract |  
+| bip_39_word_underscore_2 | assist_define |  
+| bip_39_word_underscore_3 | assist_define_engine |  
+| bip_39_word_underscore_4 | assist_define_engine_raven |  
+| bip_39_word_underscore_5 | assist_define_engine_raven_whip |  
+| bip_39_word_underscore_6 | assist_define_engine_raven_whip_power |  
+| bip_39_word_underscore_7 | assist_define_engine_raven_whip_power_nest |  
+| bip_39_word_underscore_8 | assist_define_engine_raven_whip_power_nest_reunion |  
+| bip_39_word_underscore_9 | assist_define_engine_raven_whip_power_nest_reunion_govern |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

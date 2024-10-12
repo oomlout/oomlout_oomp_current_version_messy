@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gather |  
+| bip_39_word_dash_10 | gather-shoot-someone-ticket-bunker-cushion-organ-track-wide-wear |  
+| bip_39_word_dash_11 | gather-shoot-someone-ticket-bunker-cushion-organ-track-wide-wear-brush |  
+| bip_39_word_dash_12 | gather-shoot-someone-ticket-bunker-cushion-organ-track-wide-wear-brush-aim |  
+| bip_39_word_dash_2 | gather-shoot |  
+| bip_39_word_dash_3 | gather-shoot-someone |  
+| bip_39_word_dash_4 | gather-shoot-someone-ticket |  
+| bip_39_word_dash_5 | gather-shoot-someone-ticket-bunker |  
+| bip_39_word_dash_6 | gather-shoot-someone-ticket-bunker-cushion |  
+| bip_39_word_dash_7 | gather-shoot-someone-ticket-bunker-cushion-organ |  
+| bip_39_word_dash_8 | gather-shoot-someone-ticket-bunker-cushion-organ-track |  
+| bip_39_word_dash_9 | gather-shoot-someone-ticket-bunker-cushion-organ-track-wide |  
 | bip_39_word_new_br_1 | gather |  
 | bip_39_word_new_br_10 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear |  
 | bip_39_word_new_br_11 | gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear<br>brush |  
@@ -147,6 +159,18 @@ wide |
 | bip_39_word_space_7 | gather shoot someone ticket bunker cushion organ |  
 | bip_39_word_space_8 | gather shoot someone ticket bunker cushion organ track |  
 | bip_39_word_space_9 | gather shoot someone ticket bunker cushion organ track wide |  
+| bip_39_word_underscore_1 | gather |  
+| bip_39_word_underscore_10 | gather_shoot_someone_ticket_bunker_cushion_organ_track_wide_wear |  
+| bip_39_word_underscore_11 | gather_shoot_someone_ticket_bunker_cushion_organ_track_wide_wear_brush |  
+| bip_39_word_underscore_12 | gather_shoot_someone_ticket_bunker_cushion_organ_track_wide_wear_brush_aim |  
+| bip_39_word_underscore_2 | gather_shoot |  
+| bip_39_word_underscore_3 | gather_shoot_someone |  
+| bip_39_word_underscore_4 | gather_shoot_someone_ticket |  
+| bip_39_word_underscore_5 | gather_shoot_someone_ticket_bunker |  
+| bip_39_word_underscore_6 | gather_shoot_someone_ticket_bunker_cushion |  
+| bip_39_word_underscore_7 | gather_shoot_someone_ticket_bunker_cushion_organ |  
+| bip_39_word_underscore_8 | gather_shoot_someone_ticket_bunker_cushion_organ_track |  
+| bip_39_word_underscore_9 | gather_shoot_someone_ticket_bunker_cushion_organ_track_wide |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

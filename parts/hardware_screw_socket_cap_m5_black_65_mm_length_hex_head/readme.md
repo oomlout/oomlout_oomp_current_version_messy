@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slight |  
+| bip_39_word_dash_10 | slight-marriage-recall-intact-guess-stomach-rigid-divide-urge-print |  
+| bip_39_word_dash_11 | slight-marriage-recall-intact-guess-stomach-rigid-divide-urge-print-inquiry |  
+| bip_39_word_dash_12 | slight-marriage-recall-intact-guess-stomach-rigid-divide-urge-print-inquiry-asthma |  
+| bip_39_word_dash_2 | slight-marriage |  
+| bip_39_word_dash_3 | slight-marriage-recall |  
+| bip_39_word_dash_4 | slight-marriage-recall-intact |  
+| bip_39_word_dash_5 | slight-marriage-recall-intact-guess |  
+| bip_39_word_dash_6 | slight-marriage-recall-intact-guess-stomach |  
+| bip_39_word_dash_7 | slight-marriage-recall-intact-guess-stomach-rigid |  
+| bip_39_word_dash_8 | slight-marriage-recall-intact-guess-stomach-rigid-divide |  
+| bip_39_word_dash_9 | slight-marriage-recall-intact-guess-stomach-rigid-divide-urge |  
 | bip_39_word_new_br_1 | slight |  
 | bip_39_word_new_br_10 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide<br>urge<br>print |  
 | bip_39_word_new_br_11 | slight<br>marriage<br>recall<br>intact<br>guess<br>stomach<br>rigid<br>divide<br>urge<br>print<br>inquiry |  
@@ -147,6 +159,18 @@ urge |
 | bip_39_word_space_7 | slight marriage recall intact guess stomach rigid |  
 | bip_39_word_space_8 | slight marriage recall intact guess stomach rigid divide |  
 | bip_39_word_space_9 | slight marriage recall intact guess stomach rigid divide urge |  
+| bip_39_word_underscore_1 | slight |  
+| bip_39_word_underscore_10 | slight_marriage_recall_intact_guess_stomach_rigid_divide_urge_print |  
+| bip_39_word_underscore_11 | slight_marriage_recall_intact_guess_stomach_rigid_divide_urge_print_inquiry |  
+| bip_39_word_underscore_12 | slight_marriage_recall_intact_guess_stomach_rigid_divide_urge_print_inquiry_asthma |  
+| bip_39_word_underscore_2 | slight_marriage |  
+| bip_39_word_underscore_3 | slight_marriage_recall |  
+| bip_39_word_underscore_4 | slight_marriage_recall_intact |  
+| bip_39_word_underscore_5 | slight_marriage_recall_intact_guess |  
+| bip_39_word_underscore_6 | slight_marriage_recall_intact_guess_stomach |  
+| bip_39_word_underscore_7 | slight_marriage_recall_intact_guess_stomach_rigid |  
+| bip_39_word_underscore_8 | slight_marriage_recall_intact_guess_stomach_rigid_divide |  
+| bip_39_word_underscore_9 | slight_marriage_recall_intact_guess_stomach_rigid_divide_urge |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

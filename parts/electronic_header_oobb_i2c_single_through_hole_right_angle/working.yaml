@@ -1,3 +1,15 @@
+bip_39_word_dash_1: oxygen
+bip_39_word_dash_10: oxygen-illegal-record-veteran-subway-custom-balcony-success-oil-taxi
+bip_39_word_dash_11: oxygen-illegal-record-veteran-subway-custom-balcony-success-oil-taxi-clinic
+bip_39_word_dash_12: oxygen-illegal-record-veteran-subway-custom-balcony-success-oil-taxi-clinic-affair
+bip_39_word_dash_2: oxygen-illegal
+bip_39_word_dash_3: oxygen-illegal-record
+bip_39_word_dash_4: oxygen-illegal-record-veteran
+bip_39_word_dash_5: oxygen-illegal-record-veteran-subway
+bip_39_word_dash_6: oxygen-illegal-record-veteran-subway-custom
+bip_39_word_dash_7: oxygen-illegal-record-veteran-subway-custom-balcony
+bip_39_word_dash_8: oxygen-illegal-record-veteran-subway-custom-balcony-success
+bip_39_word_dash_9: oxygen-illegal-record-veteran-subway-custom-balcony-success-oil
 bip_39_word_new_br_1: oxygen
 bip_39_word_new_br_10: oxygen<br>illegal<br>record<br>veteran<br>subway<br>custom<br>balcony<br>success<br>oil<br>taxi
 bip_39_word_new_br_11: oxygen<br>illegal<br>record<br>veteran<br>subway<br>custom<br>balcony<br>success<br>oil<br>taxi<br>clinic
@@ -194,6 +206,18 @@ bip_39_word_space_6: oxygen illegal record veteran subway custom
 bip_39_word_space_7: oxygen illegal record veteran subway custom balcony
 bip_39_word_space_8: oxygen illegal record veteran subway custom balcony success
 bip_39_word_space_9: oxygen illegal record veteran subway custom balcony success oil
+bip_39_word_underscore_1: oxygen
+bip_39_word_underscore_10: oxygen_illegal_record_veteran_subway_custom_balcony_success_oil_taxi
+bip_39_word_underscore_11: oxygen_illegal_record_veteran_subway_custom_balcony_success_oil_taxi_clinic
+bip_39_word_underscore_12: oxygen_illegal_record_veteran_subway_custom_balcony_success_oil_taxi_clinic_affair
+bip_39_word_underscore_2: oxygen_illegal
+bip_39_word_underscore_3: oxygen_illegal_record
+bip_39_word_underscore_4: oxygen_illegal_record_veteran
+bip_39_word_underscore_5: oxygen_illegal_record_veteran_subway
+bip_39_word_underscore_6: oxygen_illegal_record_veteran_subway_custom
+bip_39_word_underscore_7: oxygen_illegal_record_veteran_subway_custom_balcony
+bip_39_word_underscore_8: oxygen_illegal_record_veteran_subway_custom_balcony_success
+bip_39_word_underscore_9: oxygen_illegal_record_veteran_subway_custom_balcony_success_oil
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

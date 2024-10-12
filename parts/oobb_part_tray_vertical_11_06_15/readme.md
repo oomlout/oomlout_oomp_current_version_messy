@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | insect |  
+| bip_39_word_dash_10 | insect-giraffe-gold-fence-special-test-roast-lion-radio-mushroom |  
+| bip_39_word_dash_11 | insect-giraffe-gold-fence-special-test-roast-lion-radio-mushroom-great |  
+| bip_39_word_dash_12 | insect-giraffe-gold-fence-special-test-roast-lion-radio-mushroom-great-already |  
+| bip_39_word_dash_2 | insect-giraffe |  
+| bip_39_word_dash_3 | insect-giraffe-gold |  
+| bip_39_word_dash_4 | insect-giraffe-gold-fence |  
+| bip_39_word_dash_5 | insect-giraffe-gold-fence-special |  
+| bip_39_word_dash_6 | insect-giraffe-gold-fence-special-test |  
+| bip_39_word_dash_7 | insect-giraffe-gold-fence-special-test-roast |  
+| bip_39_word_dash_8 | insect-giraffe-gold-fence-special-test-roast-lion |  
+| bip_39_word_dash_9 | insect-giraffe-gold-fence-special-test-roast-lion-radio |  
 | bip_39_word_new_br_1 | insect |  
 | bip_39_word_new_br_10 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion<br>radio<br>mushroom |  
 | bip_39_word_new_br_11 | insect<br>giraffe<br>gold<br>fence<br>special<br>test<br>roast<br>lion<br>radio<br>mushroom<br>great |  
@@ -147,6 +159,18 @@ radio |
 | bip_39_word_space_7 | insect giraffe gold fence special test roast |  
 | bip_39_word_space_8 | insect giraffe gold fence special test roast lion |  
 | bip_39_word_space_9 | insect giraffe gold fence special test roast lion radio |  
+| bip_39_word_underscore_1 | insect |  
+| bip_39_word_underscore_10 | insect_giraffe_gold_fence_special_test_roast_lion_radio_mushroom |  
+| bip_39_word_underscore_11 | insect_giraffe_gold_fence_special_test_roast_lion_radio_mushroom_great |  
+| bip_39_word_underscore_12 | insect_giraffe_gold_fence_special_test_roast_lion_radio_mushroom_great_already |  
+| bip_39_word_underscore_2 | insect_giraffe |  
+| bip_39_word_underscore_3 | insect_giraffe_gold |  
+| bip_39_word_underscore_4 | insect_giraffe_gold_fence |  
+| bip_39_word_underscore_5 | insect_giraffe_gold_fence_special |  
+| bip_39_word_underscore_6 | insect_giraffe_gold_fence_special_test |  
+| bip_39_word_underscore_7 | insect_giraffe_gold_fence_special_test_roast |  
+| bip_39_word_underscore_8 | insect_giraffe_gold_fence_special_test_roast_lion |  
+| bip_39_word_underscore_9 | insect_giraffe_gold_fence_special_test_roast_lion_radio |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

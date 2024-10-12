@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | term |  
+| bip_39_word_dash_10 | term-rabbit-extra-enough-program-dilemma-recall-absorb-verify-foam |  
+| bip_39_word_dash_11 | term-rabbit-extra-enough-program-dilemma-recall-absorb-verify-foam-actual |  
+| bip_39_word_dash_12 | term-rabbit-extra-enough-program-dilemma-recall-absorb-verify-foam-actual-actual |  
+| bip_39_word_dash_2 | term-rabbit |  
+| bip_39_word_dash_3 | term-rabbit-extra |  
+| bip_39_word_dash_4 | term-rabbit-extra-enough |  
+| bip_39_word_dash_5 | term-rabbit-extra-enough-program |  
+| bip_39_word_dash_6 | term-rabbit-extra-enough-program-dilemma |  
+| bip_39_word_dash_7 | term-rabbit-extra-enough-program-dilemma-recall |  
+| bip_39_word_dash_8 | term-rabbit-extra-enough-program-dilemma-recall-absorb |  
+| bip_39_word_dash_9 | term-rabbit-extra-enough-program-dilemma-recall-absorb-verify |  
 | bip_39_word_new_br_1 | term |  
 | bip_39_word_new_br_10 | term<br>rabbit<br>extra<br>enough<br>program<br>dilemma<br>recall<br>absorb<br>verify<br>foam |  
 | bip_39_word_new_br_11 | term<br>rabbit<br>extra<br>enough<br>program<br>dilemma<br>recall<br>absorb<br>verify<br>foam<br>actual |  
@@ -147,6 +159,18 @@ verify |
 | bip_39_word_space_7 | term rabbit extra enough program dilemma recall |  
 | bip_39_word_space_8 | term rabbit extra enough program dilemma recall absorb |  
 | bip_39_word_space_9 | term rabbit extra enough program dilemma recall absorb verify |  
+| bip_39_word_underscore_1 | term |  
+| bip_39_word_underscore_10 | term_rabbit_extra_enough_program_dilemma_recall_absorb_verify_foam |  
+| bip_39_word_underscore_11 | term_rabbit_extra_enough_program_dilemma_recall_absorb_verify_foam_actual |  
+| bip_39_word_underscore_12 | term_rabbit_extra_enough_program_dilemma_recall_absorb_verify_foam_actual_actual |  
+| bip_39_word_underscore_2 | term_rabbit |  
+| bip_39_word_underscore_3 | term_rabbit_extra |  
+| bip_39_word_underscore_4 | term_rabbit_extra_enough |  
+| bip_39_word_underscore_5 | term_rabbit_extra_enough_program |  
+| bip_39_word_underscore_6 | term_rabbit_extra_enough_program_dilemma |  
+| bip_39_word_underscore_7 | term_rabbit_extra_enough_program_dilemma_recall |  
+| bip_39_word_underscore_8 | term_rabbit_extra_enough_program_dilemma_recall_absorb |  
+| bip_39_word_underscore_9 | term_rabbit_extra_enough_program_dilemma_recall_absorb_verify |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vapor |  
+| bip_39_word_dash_10 | vapor-humble-obtain-silk-reopen-puzzle-runway-sentence-regret-unfold |  
+| bip_39_word_dash_11 | vapor-humble-obtain-silk-reopen-puzzle-runway-sentence-regret-unfold-decorate |  
+| bip_39_word_dash_12 | vapor-humble-obtain-silk-reopen-puzzle-runway-sentence-regret-unfold-decorate-already |  
+| bip_39_word_dash_2 | vapor-humble |  
+| bip_39_word_dash_3 | vapor-humble-obtain |  
+| bip_39_word_dash_4 | vapor-humble-obtain-silk |  
+| bip_39_word_dash_5 | vapor-humble-obtain-silk-reopen |  
+| bip_39_word_dash_6 | vapor-humble-obtain-silk-reopen-puzzle |  
+| bip_39_word_dash_7 | vapor-humble-obtain-silk-reopen-puzzle-runway |  
+| bip_39_word_dash_8 | vapor-humble-obtain-silk-reopen-puzzle-runway-sentence |  
+| bip_39_word_dash_9 | vapor-humble-obtain-silk-reopen-puzzle-runway-sentence-regret |  
 | bip_39_word_new_br_1 | vapor |  
 | bip_39_word_new_br_10 | vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold |  
 | bip_39_word_new_br_11 | vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold<br>decorate |  
@@ -147,6 +159,18 @@ regret |
 | bip_39_word_space_7 | vapor humble obtain silk reopen puzzle runway |  
 | bip_39_word_space_8 | vapor humble obtain silk reopen puzzle runway sentence |  
 | bip_39_word_space_9 | vapor humble obtain silk reopen puzzle runway sentence regret |  
+| bip_39_word_underscore_1 | vapor |  
+| bip_39_word_underscore_10 | vapor_humble_obtain_silk_reopen_puzzle_runway_sentence_regret_unfold |  
+| bip_39_word_underscore_11 | vapor_humble_obtain_silk_reopen_puzzle_runway_sentence_regret_unfold_decorate |  
+| bip_39_word_underscore_12 | vapor_humble_obtain_silk_reopen_puzzle_runway_sentence_regret_unfold_decorate_already |  
+| bip_39_word_underscore_2 | vapor_humble |  
+| bip_39_word_underscore_3 | vapor_humble_obtain |  
+| bip_39_word_underscore_4 | vapor_humble_obtain_silk |  
+| bip_39_word_underscore_5 | vapor_humble_obtain_silk_reopen |  
+| bip_39_word_underscore_6 | vapor_humble_obtain_silk_reopen_puzzle |  
+| bip_39_word_underscore_7 | vapor_humble_obtain_silk_reopen_puzzle_runway |  
+| bip_39_word_underscore_8 | vapor_humble_obtain_silk_reopen_puzzle_runway_sentence |  
+| bip_39_word_underscore_9 | vapor_humble_obtain_silk_reopen_puzzle_runway_sentence_regret |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | video |  
+| bip_39_word_dash_10 | video-throw-joy-field-lawn-govern-consider-calm-movie-leave |  
+| bip_39_word_dash_11 | video-throw-joy-field-lawn-govern-consider-calm-movie-leave-group |  
+| bip_39_word_dash_12 | video-throw-joy-field-lawn-govern-consider-calm-movie-leave-group-around |  
+| bip_39_word_dash_2 | video-throw |  
+| bip_39_word_dash_3 | video-throw-joy |  
+| bip_39_word_dash_4 | video-throw-joy-field |  
+| bip_39_word_dash_5 | video-throw-joy-field-lawn |  
+| bip_39_word_dash_6 | video-throw-joy-field-lawn-govern |  
+| bip_39_word_dash_7 | video-throw-joy-field-lawn-govern-consider |  
+| bip_39_word_dash_8 | video-throw-joy-field-lawn-govern-consider-calm |  
+| bip_39_word_dash_9 | video-throw-joy-field-lawn-govern-consider-calm-movie |  
 | bip_39_word_new_br_1 | video |  
 | bip_39_word_new_br_10 | video<br>throw<br>joy<br>field<br>lawn<br>govern<br>consider<br>calm<br>movie<br>leave |  
 | bip_39_word_new_br_11 | video<br>throw<br>joy<br>field<br>lawn<br>govern<br>consider<br>calm<br>movie<br>leave<br>group |  
@@ -147,6 +159,18 @@ movie |
 | bip_39_word_space_7 | video throw joy field lawn govern consider |  
 | bip_39_word_space_8 | video throw joy field lawn govern consider calm |  
 | bip_39_word_space_9 | video throw joy field lawn govern consider calm movie |  
+| bip_39_word_underscore_1 | video |  
+| bip_39_word_underscore_10 | video_throw_joy_field_lawn_govern_consider_calm_movie_leave |  
+| bip_39_word_underscore_11 | video_throw_joy_field_lawn_govern_consider_calm_movie_leave_group |  
+| bip_39_word_underscore_12 | video_throw_joy_field_lawn_govern_consider_calm_movie_leave_group_around |  
+| bip_39_word_underscore_2 | video_throw |  
+| bip_39_word_underscore_3 | video_throw_joy |  
+| bip_39_word_underscore_4 | video_throw_joy_field |  
+| bip_39_word_underscore_5 | video_throw_joy_field_lawn |  
+| bip_39_word_underscore_6 | video_throw_joy_field_lawn_govern |  
+| bip_39_word_underscore_7 | video_throw_joy_field_lawn_govern_consider |  
+| bip_39_word_underscore_8 | video_throw_joy_field_lawn_govern_consider_calm |  
+| bip_39_word_underscore_9 | video_throw_joy_field_lawn_govern_consider_calm_movie |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

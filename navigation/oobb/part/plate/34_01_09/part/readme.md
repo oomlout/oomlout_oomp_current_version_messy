@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | suffer |  
+| bip_39_word_dash_10 | suffer-ahead-female-tomato-alert-lobster-amazing-oak-skirt-laugh |  
+| bip_39_word_dash_11 | suffer-ahead-female-tomato-alert-lobster-amazing-oak-skirt-laugh-survey |  
+| bip_39_word_dash_12 | suffer-ahead-female-tomato-alert-lobster-amazing-oak-skirt-laugh-survey-asthma |  
+| bip_39_word_dash_2 | suffer-ahead |  
+| bip_39_word_dash_3 | suffer-ahead-female |  
+| bip_39_word_dash_4 | suffer-ahead-female-tomato |  
+| bip_39_word_dash_5 | suffer-ahead-female-tomato-alert |  
+| bip_39_word_dash_6 | suffer-ahead-female-tomato-alert-lobster |  
+| bip_39_word_dash_7 | suffer-ahead-female-tomato-alert-lobster-amazing |  
+| bip_39_word_dash_8 | suffer-ahead-female-tomato-alert-lobster-amazing-oak |  
+| bip_39_word_dash_9 | suffer-ahead-female-tomato-alert-lobster-amazing-oak-skirt |  
 | bip_39_word_new_br_1 | suffer |  
 | bip_39_word_new_br_10 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh |  
 | bip_39_word_new_br_11 | suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh<br>survey |  
@@ -147,6 +159,18 @@ skirt |
 | bip_39_word_space_7 | suffer ahead female tomato alert lobster amazing |  
 | bip_39_word_space_8 | suffer ahead female tomato alert lobster amazing oak |  
 | bip_39_word_space_9 | suffer ahead female tomato alert lobster amazing oak skirt |  
+| bip_39_word_underscore_1 | suffer |  
+| bip_39_word_underscore_10 | suffer_ahead_female_tomato_alert_lobster_amazing_oak_skirt_laugh |  
+| bip_39_word_underscore_11 | suffer_ahead_female_tomato_alert_lobster_amazing_oak_skirt_laugh_survey |  
+| bip_39_word_underscore_12 | suffer_ahead_female_tomato_alert_lobster_amazing_oak_skirt_laugh_survey_asthma |  
+| bip_39_word_underscore_2 | suffer_ahead |  
+| bip_39_word_underscore_3 | suffer_ahead_female |  
+| bip_39_word_underscore_4 | suffer_ahead_female_tomato |  
+| bip_39_word_underscore_5 | suffer_ahead_female_tomato_alert |  
+| bip_39_word_underscore_6 | suffer_ahead_female_tomato_alert_lobster |  
+| bip_39_word_underscore_7 | suffer_ahead_female_tomato_alert_lobster_amazing |  
+| bip_39_word_underscore_8 | suffer_ahead_female_tomato_alert_lobster_amazing_oak |  
+| bip_39_word_underscore_9 | suffer_ahead_female_tomato_alert_lobster_amazing_oak_skirt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

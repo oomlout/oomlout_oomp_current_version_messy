@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clock |  
+| bip_39_word_dash_10 | clock-tattoo-effort-symbol-globe-dumb-unlock-alarm-denial-gadget |  
+| bip_39_word_dash_11 | clock-tattoo-effort-symbol-globe-dumb-unlock-alarm-denial-gadget-holiday |  
+| bip_39_word_dash_12 | clock-tattoo-effort-symbol-globe-dumb-unlock-alarm-denial-gadget-holiday-amateur |  
+| bip_39_word_dash_2 | clock-tattoo |  
+| bip_39_word_dash_3 | clock-tattoo-effort |  
+| bip_39_word_dash_4 | clock-tattoo-effort-symbol |  
+| bip_39_word_dash_5 | clock-tattoo-effort-symbol-globe |  
+| bip_39_word_dash_6 | clock-tattoo-effort-symbol-globe-dumb |  
+| bip_39_word_dash_7 | clock-tattoo-effort-symbol-globe-dumb-unlock |  
+| bip_39_word_dash_8 | clock-tattoo-effort-symbol-globe-dumb-unlock-alarm |  
+| bip_39_word_dash_9 | clock-tattoo-effort-symbol-globe-dumb-unlock-alarm-denial |  
 | bip_39_word_new_br_1 | clock |  
 | bip_39_word_new_br_10 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm<br>denial<br>gadget |  
 | bip_39_word_new_br_11 | clock<br>tattoo<br>effort<br>symbol<br>globe<br>dumb<br>unlock<br>alarm<br>denial<br>gadget<br>holiday |  
@@ -147,6 +159,18 @@ denial |
 | bip_39_word_space_7 | clock tattoo effort symbol globe dumb unlock |  
 | bip_39_word_space_8 | clock tattoo effort symbol globe dumb unlock alarm |  
 | bip_39_word_space_9 | clock tattoo effort symbol globe dumb unlock alarm denial |  
+| bip_39_word_underscore_1 | clock |  
+| bip_39_word_underscore_10 | clock_tattoo_effort_symbol_globe_dumb_unlock_alarm_denial_gadget |  
+| bip_39_word_underscore_11 | clock_tattoo_effort_symbol_globe_dumb_unlock_alarm_denial_gadget_holiday |  
+| bip_39_word_underscore_12 | clock_tattoo_effort_symbol_globe_dumb_unlock_alarm_denial_gadget_holiday_amateur |  
+| bip_39_word_underscore_2 | clock_tattoo |  
+| bip_39_word_underscore_3 | clock_tattoo_effort |  
+| bip_39_word_underscore_4 | clock_tattoo_effort_symbol |  
+| bip_39_word_underscore_5 | clock_tattoo_effort_symbol_globe |  
+| bip_39_word_underscore_6 | clock_tattoo_effort_symbol_globe_dumb |  
+| bip_39_word_underscore_7 | clock_tattoo_effort_symbol_globe_dumb_unlock |  
+| bip_39_word_underscore_8 | clock_tattoo_effort_symbol_globe_dumb_unlock_alarm |  
+| bip_39_word_underscore_9 | clock_tattoo_effort_symbol_globe_dumb_unlock_alarm_denial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

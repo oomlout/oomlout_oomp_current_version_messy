@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | split |  
+| bip_39_word_dash_10 | split-improve-will-recycle-sign-spell-innocent-install-found-first |  
+| bip_39_word_dash_11 | split-improve-will-recycle-sign-spell-innocent-install-found-first-obey |  
+| bip_39_word_dash_12 | split-improve-will-recycle-sign-spell-innocent-install-found-first-obey-action |  
+| bip_39_word_dash_2 | split-improve |  
+| bip_39_word_dash_3 | split-improve-will |  
+| bip_39_word_dash_4 | split-improve-will-recycle |  
+| bip_39_word_dash_5 | split-improve-will-recycle-sign |  
+| bip_39_word_dash_6 | split-improve-will-recycle-sign-spell |  
+| bip_39_word_dash_7 | split-improve-will-recycle-sign-spell-innocent |  
+| bip_39_word_dash_8 | split-improve-will-recycle-sign-spell-innocent-install |  
+| bip_39_word_dash_9 | split-improve-will-recycle-sign-spell-innocent-install-found |  
 | bip_39_word_new_br_1 | split |  
 | bip_39_word_new_br_10 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first |  
 | bip_39_word_new_br_11 | split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first<br>obey |  
@@ -147,6 +159,18 @@ found |
 | bip_39_word_space_7 | split improve will recycle sign spell innocent |  
 | bip_39_word_space_8 | split improve will recycle sign spell innocent install |  
 | bip_39_word_space_9 | split improve will recycle sign spell innocent install found |  
+| bip_39_word_underscore_1 | split |  
+| bip_39_word_underscore_10 | split_improve_will_recycle_sign_spell_innocent_install_found_first |  
+| bip_39_word_underscore_11 | split_improve_will_recycle_sign_spell_innocent_install_found_first_obey |  
+| bip_39_word_underscore_12 | split_improve_will_recycle_sign_spell_innocent_install_found_first_obey_action |  
+| bip_39_word_underscore_2 | split_improve |  
+| bip_39_word_underscore_3 | split_improve_will |  
+| bip_39_word_underscore_4 | split_improve_will_recycle |  
+| bip_39_word_underscore_5 | split_improve_will_recycle_sign |  
+| bip_39_word_underscore_6 | split_improve_will_recycle_sign_spell |  
+| bip_39_word_underscore_7 | split_improve_will_recycle_sign_spell_innocent |  
+| bip_39_word_underscore_8 | split_improve_will_recycle_sign_spell_innocent_install |  
+| bip_39_word_underscore_9 | split_improve_will_recycle_sign_spell_innocent_install_found |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

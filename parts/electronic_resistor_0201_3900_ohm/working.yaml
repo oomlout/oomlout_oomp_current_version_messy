@@ -1,3 +1,15 @@
+bip_39_word_dash_1: taxi
+bip_39_word_dash_10: taxi-awful-price-reunion-clump-dawn-siren-govern-animal-aware
+bip_39_word_dash_11: taxi-awful-price-reunion-clump-dawn-siren-govern-animal-aware-quit
+bip_39_word_dash_12: taxi-awful-price-reunion-clump-dawn-siren-govern-animal-aware-quit-adult
+bip_39_word_dash_2: taxi-awful
+bip_39_word_dash_3: taxi-awful-price
+bip_39_word_dash_4: taxi-awful-price-reunion
+bip_39_word_dash_5: taxi-awful-price-reunion-clump
+bip_39_word_dash_6: taxi-awful-price-reunion-clump-dawn
+bip_39_word_dash_7: taxi-awful-price-reunion-clump-dawn-siren
+bip_39_word_dash_8: taxi-awful-price-reunion-clump-dawn-siren-govern
+bip_39_word_dash_9: taxi-awful-price-reunion-clump-dawn-siren-govern-animal
 bip_39_word_new_br_1: taxi
 bip_39_word_new_br_10: taxi<br>awful<br>price<br>reunion<br>clump<br>dawn<br>siren<br>govern<br>animal<br>aware
 bip_39_word_new_br_11: taxi<br>awful<br>price<br>reunion<br>clump<br>dawn<br>siren<br>govern<br>animal<br>aware<br>quit
@@ -193,6 +205,18 @@ bip_39_word_space_6: taxi awful price reunion clump dawn
 bip_39_word_space_7: taxi awful price reunion clump dawn siren
 bip_39_word_space_8: taxi awful price reunion clump dawn siren govern
 bip_39_word_space_9: taxi awful price reunion clump dawn siren govern animal
+bip_39_word_underscore_1: taxi
+bip_39_word_underscore_10: taxi_awful_price_reunion_clump_dawn_siren_govern_animal_aware
+bip_39_word_underscore_11: taxi_awful_price_reunion_clump_dawn_siren_govern_animal_aware_quit
+bip_39_word_underscore_12: taxi_awful_price_reunion_clump_dawn_siren_govern_animal_aware_quit_adult
+bip_39_word_underscore_2: taxi_awful
+bip_39_word_underscore_3: taxi_awful_price
+bip_39_word_underscore_4: taxi_awful_price_reunion
+bip_39_word_underscore_5: taxi_awful_price_reunion_clump
+bip_39_word_underscore_6: taxi_awful_price_reunion_clump_dawn
+bip_39_word_underscore_7: taxi_awful_price_reunion_clump_dawn_siren
+bip_39_word_underscore_8: taxi_awful_price_reunion_clump_dawn_siren_govern
+bip_39_word_underscore_9: taxi_awful_price_reunion_clump_dawn_siren_govern_animal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

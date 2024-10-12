@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | army |  
+| bip_39_word_dash_10 | army-rotate-figure-river-fence-wear-frame-bleak-response-breeze |  
+| bip_39_word_dash_11 | army-rotate-figure-river-fence-wear-frame-bleak-response-breeze-dice |  
+| bip_39_word_dash_12 | army-rotate-figure-river-fence-wear-frame-bleak-response-breeze-dice-announce |  
+| bip_39_word_dash_2 | army-rotate |  
+| bip_39_word_dash_3 | army-rotate-figure |  
+| bip_39_word_dash_4 | army-rotate-figure-river |  
+| bip_39_word_dash_5 | army-rotate-figure-river-fence |  
+| bip_39_word_dash_6 | army-rotate-figure-river-fence-wear |  
+| bip_39_word_dash_7 | army-rotate-figure-river-fence-wear-frame |  
+| bip_39_word_dash_8 | army-rotate-figure-river-fence-wear-frame-bleak |  
+| bip_39_word_dash_9 | army-rotate-figure-river-fence-wear-frame-bleak-response |  
 | bip_39_word_new_br_1 | army |  
 | bip_39_word_new_br_10 | army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak<br>response<br>breeze |  
 | bip_39_word_new_br_11 | army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak<br>response<br>breeze<br>dice |  
@@ -147,6 +159,18 @@ response |
 | bip_39_word_space_7 | army rotate figure river fence wear frame |  
 | bip_39_word_space_8 | army rotate figure river fence wear frame bleak |  
 | bip_39_word_space_9 | army rotate figure river fence wear frame bleak response |  
+| bip_39_word_underscore_1 | army |  
+| bip_39_word_underscore_10 | army_rotate_figure_river_fence_wear_frame_bleak_response_breeze |  
+| bip_39_word_underscore_11 | army_rotate_figure_river_fence_wear_frame_bleak_response_breeze_dice |  
+| bip_39_word_underscore_12 | army_rotate_figure_river_fence_wear_frame_bleak_response_breeze_dice_announce |  
+| bip_39_word_underscore_2 | army_rotate |  
+| bip_39_word_underscore_3 | army_rotate_figure |  
+| bip_39_word_underscore_4 | army_rotate_figure_river |  
+| bip_39_word_underscore_5 | army_rotate_figure_river_fence |  
+| bip_39_word_underscore_6 | army_rotate_figure_river_fence_wear |  
+| bip_39_word_underscore_7 | army_rotate_figure_river_fence_wear_frame |  
+| bip_39_word_underscore_8 | army_rotate_figure_river_fence_wear_frame_bleak |  
+| bip_39_word_underscore_9 | army_rotate_figure_river_fence_wear_frame_bleak_response |  
 | classification | stationery |  
 | classification_capital | Stationery |  
 | classification_first_letter | s |  

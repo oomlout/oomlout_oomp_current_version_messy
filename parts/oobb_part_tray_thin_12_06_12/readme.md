@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | collect |  
+| bip_39_word_dash_10 | collect-general-asset-gauge-below-segment-asset-afraid-brand-indoor |  
+| bip_39_word_dash_11 | collect-general-asset-gauge-below-segment-asset-afraid-brand-indoor-coin |  
+| bip_39_word_dash_12 | collect-general-asset-gauge-below-segment-asset-afraid-brand-indoor-coin-ankle |  
+| bip_39_word_dash_2 | collect-general |  
+| bip_39_word_dash_3 | collect-general-asset |  
+| bip_39_word_dash_4 | collect-general-asset-gauge |  
+| bip_39_word_dash_5 | collect-general-asset-gauge-below |  
+| bip_39_word_dash_6 | collect-general-asset-gauge-below-segment |  
+| bip_39_word_dash_7 | collect-general-asset-gauge-below-segment-asset |  
+| bip_39_word_dash_8 | collect-general-asset-gauge-below-segment-asset-afraid |  
+| bip_39_word_dash_9 | collect-general-asset-gauge-below-segment-asset-afraid-brand |  
 | bip_39_word_new_br_1 | collect |  
 | bip_39_word_new_br_10 | collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid<br>brand<br>indoor |  
 | bip_39_word_new_br_11 | collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid<br>brand<br>indoor<br>coin |  
@@ -147,6 +159,18 @@ brand |
 | bip_39_word_space_7 | collect general asset gauge below segment asset |  
 | bip_39_word_space_8 | collect general asset gauge below segment asset afraid |  
 | bip_39_word_space_9 | collect general asset gauge below segment asset afraid brand |  
+| bip_39_word_underscore_1 | collect |  
+| bip_39_word_underscore_10 | collect_general_asset_gauge_below_segment_asset_afraid_brand_indoor |  
+| bip_39_word_underscore_11 | collect_general_asset_gauge_below_segment_asset_afraid_brand_indoor_coin |  
+| bip_39_word_underscore_12 | collect_general_asset_gauge_below_segment_asset_afraid_brand_indoor_coin_ankle |  
+| bip_39_word_underscore_2 | collect_general |  
+| bip_39_word_underscore_3 | collect_general_asset |  
+| bip_39_word_underscore_4 | collect_general_asset_gauge |  
+| bip_39_word_underscore_5 | collect_general_asset_gauge_below |  
+| bip_39_word_underscore_6 | collect_general_asset_gauge_below_segment |  
+| bip_39_word_underscore_7 | collect_general_asset_gauge_below_segment_asset |  
+| bip_39_word_underscore_8 | collect_general_asset_gauge_below_segment_asset_afraid |  
+| bip_39_word_underscore_9 | collect_general_asset_gauge_below_segment_asset_afraid_brand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

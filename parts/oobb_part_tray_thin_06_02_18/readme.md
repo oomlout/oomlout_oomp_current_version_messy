@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crumble |  
+| bip_39_word_dash_10 | crumble-slice-find-buddy-course-inch-skirt-follow-board-giraffe |  
+| bip_39_word_dash_11 | crumble-slice-find-buddy-course-inch-skirt-follow-board-giraffe-fringe |  
+| bip_39_word_dash_12 | crumble-slice-find-buddy-course-inch-skirt-follow-board-giraffe-fringe-angry |  
+| bip_39_word_dash_2 | crumble-slice |  
+| bip_39_word_dash_3 | crumble-slice-find |  
+| bip_39_word_dash_4 | crumble-slice-find-buddy |  
+| bip_39_word_dash_5 | crumble-slice-find-buddy-course |  
+| bip_39_word_dash_6 | crumble-slice-find-buddy-course-inch |  
+| bip_39_word_dash_7 | crumble-slice-find-buddy-course-inch-skirt |  
+| bip_39_word_dash_8 | crumble-slice-find-buddy-course-inch-skirt-follow |  
+| bip_39_word_dash_9 | crumble-slice-find-buddy-course-inch-skirt-follow-board |  
 | bip_39_word_new_br_1 | crumble |  
 | bip_39_word_new_br_10 | crumble<br>slice<br>find<br>buddy<br>course<br>inch<br>skirt<br>follow<br>board<br>giraffe |  
 | bip_39_word_new_br_11 | crumble<br>slice<br>find<br>buddy<br>course<br>inch<br>skirt<br>follow<br>board<br>giraffe<br>fringe |  
@@ -147,6 +159,18 @@ board |
 | bip_39_word_space_7 | crumble slice find buddy course inch skirt |  
 | bip_39_word_space_8 | crumble slice find buddy course inch skirt follow |  
 | bip_39_word_space_9 | crumble slice find buddy course inch skirt follow board |  
+| bip_39_word_underscore_1 | crumble |  
+| bip_39_word_underscore_10 | crumble_slice_find_buddy_course_inch_skirt_follow_board_giraffe |  
+| bip_39_word_underscore_11 | crumble_slice_find_buddy_course_inch_skirt_follow_board_giraffe_fringe |  
+| bip_39_word_underscore_12 | crumble_slice_find_buddy_course_inch_skirt_follow_board_giraffe_fringe_angry |  
+| bip_39_word_underscore_2 | crumble_slice |  
+| bip_39_word_underscore_3 | crumble_slice_find |  
+| bip_39_word_underscore_4 | crumble_slice_find_buddy |  
+| bip_39_word_underscore_5 | crumble_slice_find_buddy_course |  
+| bip_39_word_underscore_6 | crumble_slice_find_buddy_course_inch |  
+| bip_39_word_underscore_7 | crumble_slice_find_buddy_course_inch_skirt |  
+| bip_39_word_underscore_8 | crumble_slice_find_buddy_course_inch_skirt_follow |  
+| bip_39_word_underscore_9 | crumble_slice_find_buddy_course_inch_skirt_follow_board |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

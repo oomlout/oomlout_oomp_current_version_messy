@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dust
+bip_39_word_dash_10: dust-fish-useful-trap-always-mouse-ceiling-liquid-cushion-repair
+bip_39_word_dash_11: dust-fish-useful-trap-always-mouse-ceiling-liquid-cushion-repair-grape
+bip_39_word_dash_12: dust-fish-useful-trap-always-mouse-ceiling-liquid-cushion-repair-grape-acid
+bip_39_word_dash_2: dust-fish
+bip_39_word_dash_3: dust-fish-useful
+bip_39_word_dash_4: dust-fish-useful-trap
+bip_39_word_dash_5: dust-fish-useful-trap-always
+bip_39_word_dash_6: dust-fish-useful-trap-always-mouse
+bip_39_word_dash_7: dust-fish-useful-trap-always-mouse-ceiling
+bip_39_word_dash_8: dust-fish-useful-trap-always-mouse-ceiling-liquid
+bip_39_word_dash_9: dust-fish-useful-trap-always-mouse-ceiling-liquid-cushion
 bip_39_word_new_br_1: dust
 bip_39_word_new_br_10: dust<br>fish<br>useful<br>trap<br>always<br>mouse<br>ceiling<br>liquid<br>cushion<br>repair
 bip_39_word_new_br_11: dust<br>fish<br>useful<br>trap<br>always<br>mouse<br>ceiling<br>liquid<br>cushion<br>repair<br>grape
@@ -193,6 +205,18 @@ bip_39_word_space_6: dust fish useful trap always mouse
 bip_39_word_space_7: dust fish useful trap always mouse ceiling
 bip_39_word_space_8: dust fish useful trap always mouse ceiling liquid
 bip_39_word_space_9: dust fish useful trap always mouse ceiling liquid cushion
+bip_39_word_underscore_1: dust
+bip_39_word_underscore_10: dust_fish_useful_trap_always_mouse_ceiling_liquid_cushion_repair
+bip_39_word_underscore_11: dust_fish_useful_trap_always_mouse_ceiling_liquid_cushion_repair_grape
+bip_39_word_underscore_12: dust_fish_useful_trap_always_mouse_ceiling_liquid_cushion_repair_grape_acid
+bip_39_word_underscore_2: dust_fish
+bip_39_word_underscore_3: dust_fish_useful
+bip_39_word_underscore_4: dust_fish_useful_trap
+bip_39_word_underscore_5: dust_fish_useful_trap_always
+bip_39_word_underscore_6: dust_fish_useful_trap_always_mouse
+bip_39_word_underscore_7: dust_fish_useful_trap_always_mouse_ceiling
+bip_39_word_underscore_8: dust_fish_useful_trap_always_mouse_ceiling_liquid
+bip_39_word_underscore_9: dust_fish_useful_trap_always_mouse_ceiling_liquid_cushion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chalk |  
+| bip_39_word_dash_10 | chalk-renew-sustain-assist-usual-notable-swing-firm-gorilla-nation |  
+| bip_39_word_dash_11 | chalk-renew-sustain-assist-usual-notable-swing-firm-gorilla-nation-lucky |  
+| bip_39_word_dash_12 | chalk-renew-sustain-assist-usual-notable-swing-firm-gorilla-nation-lucky-assault |  
+| bip_39_word_dash_2 | chalk-renew |  
+| bip_39_word_dash_3 | chalk-renew-sustain |  
+| bip_39_word_dash_4 | chalk-renew-sustain-assist |  
+| bip_39_word_dash_5 | chalk-renew-sustain-assist-usual |  
+| bip_39_word_dash_6 | chalk-renew-sustain-assist-usual-notable |  
+| bip_39_word_dash_7 | chalk-renew-sustain-assist-usual-notable-swing |  
+| bip_39_word_dash_8 | chalk-renew-sustain-assist-usual-notable-swing-firm |  
+| bip_39_word_dash_9 | chalk-renew-sustain-assist-usual-notable-swing-firm-gorilla |  
 | bip_39_word_new_br_1 | chalk |  
 | bip_39_word_new_br_10 | chalk<br>renew<br>sustain<br>assist<br>usual<br>notable<br>swing<br>firm<br>gorilla<br>nation |  
 | bip_39_word_new_br_11 | chalk<br>renew<br>sustain<br>assist<br>usual<br>notable<br>swing<br>firm<br>gorilla<br>nation<br>lucky |  
@@ -147,6 +159,18 @@ gorilla |
 | bip_39_word_space_7 | chalk renew sustain assist usual notable swing |  
 | bip_39_word_space_8 | chalk renew sustain assist usual notable swing firm |  
 | bip_39_word_space_9 | chalk renew sustain assist usual notable swing firm gorilla |  
+| bip_39_word_underscore_1 | chalk |  
+| bip_39_word_underscore_10 | chalk_renew_sustain_assist_usual_notable_swing_firm_gorilla_nation |  
+| bip_39_word_underscore_11 | chalk_renew_sustain_assist_usual_notable_swing_firm_gorilla_nation_lucky |  
+| bip_39_word_underscore_12 | chalk_renew_sustain_assist_usual_notable_swing_firm_gorilla_nation_lucky_assault |  
+| bip_39_word_underscore_2 | chalk_renew |  
+| bip_39_word_underscore_3 | chalk_renew_sustain |  
+| bip_39_word_underscore_4 | chalk_renew_sustain_assist |  
+| bip_39_word_underscore_5 | chalk_renew_sustain_assist_usual |  
+| bip_39_word_underscore_6 | chalk_renew_sustain_assist_usual_notable |  
+| bip_39_word_underscore_7 | chalk_renew_sustain_assist_usual_notable_swing |  
+| bip_39_word_underscore_8 | chalk_renew_sustain_assist_usual_notable_swing_firm |  
+| bip_39_word_underscore_9 | chalk_renew_sustain_assist_usual_notable_swing_firm_gorilla |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

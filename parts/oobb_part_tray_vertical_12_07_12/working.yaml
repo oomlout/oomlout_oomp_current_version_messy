@@ -1,3 +1,15 @@
+bip_39_word_dash_1: process
+bip_39_word_dash_10: process-cave-duty-donor-hospital-rain-basket-carpet-use-force
+bip_39_word_dash_11: process-cave-duty-donor-hospital-rain-basket-carpet-use-force-shove
+bip_39_word_dash_12: process-cave-duty-donor-hospital-rain-basket-carpet-use-force-shove-adapt
+bip_39_word_dash_2: process-cave
+bip_39_word_dash_3: process-cave-duty
+bip_39_word_dash_4: process-cave-duty-donor
+bip_39_word_dash_5: process-cave-duty-donor-hospital
+bip_39_word_dash_6: process-cave-duty-donor-hospital-rain
+bip_39_word_dash_7: process-cave-duty-donor-hospital-rain-basket
+bip_39_word_dash_8: process-cave-duty-donor-hospital-rain-basket-carpet
+bip_39_word_dash_9: process-cave-duty-donor-hospital-rain-basket-carpet-use
 bip_39_word_new_br_1: process
 bip_39_word_new_br_10: process<br>cave<br>duty<br>donor<br>hospital<br>rain<br>basket<br>carpet<br>use<br>force
 bip_39_word_new_br_11: process<br>cave<br>duty<br>donor<br>hospital<br>rain<br>basket<br>carpet<br>use<br>force<br>shove
@@ -193,6 +205,18 @@ bip_39_word_space_6: process cave duty donor hospital rain
 bip_39_word_space_7: process cave duty donor hospital rain basket
 bip_39_word_space_8: process cave duty donor hospital rain basket carpet
 bip_39_word_space_9: process cave duty donor hospital rain basket carpet use
+bip_39_word_underscore_1: process
+bip_39_word_underscore_10: process_cave_duty_donor_hospital_rain_basket_carpet_use_force
+bip_39_word_underscore_11: process_cave_duty_donor_hospital_rain_basket_carpet_use_force_shove
+bip_39_word_underscore_12: process_cave_duty_donor_hospital_rain_basket_carpet_use_force_shove_adapt
+bip_39_word_underscore_2: process_cave
+bip_39_word_underscore_3: process_cave_duty
+bip_39_word_underscore_4: process_cave_duty_donor
+bip_39_word_underscore_5: process_cave_duty_donor_hospital
+bip_39_word_underscore_6: process_cave_duty_donor_hospital_rain
+bip_39_word_underscore_7: process_cave_duty_donor_hospital_rain_basket
+bip_39_word_underscore_8: process_cave_duty_donor_hospital_rain_basket_carpet
+bip_39_word_underscore_9: process_cave_duty_donor_hospital_rain_basket_carpet_use
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

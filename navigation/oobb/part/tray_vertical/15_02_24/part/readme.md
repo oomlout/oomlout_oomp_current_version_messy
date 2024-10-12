@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | range |  
+| bip_39_word_dash_10 | range-dice-bus-glove-genius-patch-subway-obvious-trust-barrel |  
+| bip_39_word_dash_11 | range-dice-bus-glove-genius-patch-subway-obvious-trust-barrel-injury |  
+| bip_39_word_dash_12 | range-dice-bus-glove-genius-patch-subway-obvious-trust-barrel-injury-add |  
+| bip_39_word_dash_2 | range-dice |  
+| bip_39_word_dash_3 | range-dice-bus |  
+| bip_39_word_dash_4 | range-dice-bus-glove |  
+| bip_39_word_dash_5 | range-dice-bus-glove-genius |  
+| bip_39_word_dash_6 | range-dice-bus-glove-genius-patch |  
+| bip_39_word_dash_7 | range-dice-bus-glove-genius-patch-subway |  
+| bip_39_word_dash_8 | range-dice-bus-glove-genius-patch-subway-obvious |  
+| bip_39_word_dash_9 | range-dice-bus-glove-genius-patch-subway-obvious-trust |  
 | bip_39_word_new_br_1 | range |  
 | bip_39_word_new_br_10 | range<br>dice<br>bus<br>glove<br>genius<br>patch<br>subway<br>obvious<br>trust<br>barrel |  
 | bip_39_word_new_br_11 | range<br>dice<br>bus<br>glove<br>genius<br>patch<br>subway<br>obvious<br>trust<br>barrel<br>injury |  
@@ -147,6 +159,18 @@ trust |
 | bip_39_word_space_7 | range dice bus glove genius patch subway |  
 | bip_39_word_space_8 | range dice bus glove genius patch subway obvious |  
 | bip_39_word_space_9 | range dice bus glove genius patch subway obvious trust |  
+| bip_39_word_underscore_1 | range |  
+| bip_39_word_underscore_10 | range_dice_bus_glove_genius_patch_subway_obvious_trust_barrel |  
+| bip_39_word_underscore_11 | range_dice_bus_glove_genius_patch_subway_obvious_trust_barrel_injury |  
+| bip_39_word_underscore_12 | range_dice_bus_glove_genius_patch_subway_obvious_trust_barrel_injury_add |  
+| bip_39_word_underscore_2 | range_dice |  
+| bip_39_word_underscore_3 | range_dice_bus |  
+| bip_39_word_underscore_4 | range_dice_bus_glove |  
+| bip_39_word_underscore_5 | range_dice_bus_glove_genius |  
+| bip_39_word_underscore_6 | range_dice_bus_glove_genius_patch |  
+| bip_39_word_underscore_7 | range_dice_bus_glove_genius_patch_subway |  
+| bip_39_word_underscore_8 | range_dice_bus_glove_genius_patch_subway_obvious |  
+| bip_39_word_underscore_9 | range_dice_bus_glove_genius_patch_subway_obvious_trust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

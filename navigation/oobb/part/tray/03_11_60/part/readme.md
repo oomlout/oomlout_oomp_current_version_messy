@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | short |  
+| bip_39_word_dash_10 | short-base-quiz-enlist-attack-extra-recipe-answer-water-car |  
+| bip_39_word_dash_11 | short-base-quiz-enlist-attack-extra-recipe-answer-water-car-wrap |  
+| bip_39_word_dash_12 | short-base-quiz-enlist-attack-extra-recipe-answer-water-car-wrap-access |  
+| bip_39_word_dash_2 | short-base |  
+| bip_39_word_dash_3 | short-base-quiz |  
+| bip_39_word_dash_4 | short-base-quiz-enlist |  
+| bip_39_word_dash_5 | short-base-quiz-enlist-attack |  
+| bip_39_word_dash_6 | short-base-quiz-enlist-attack-extra |  
+| bip_39_word_dash_7 | short-base-quiz-enlist-attack-extra-recipe |  
+| bip_39_word_dash_8 | short-base-quiz-enlist-attack-extra-recipe-answer |  
+| bip_39_word_dash_9 | short-base-quiz-enlist-attack-extra-recipe-answer-water |  
 | bip_39_word_new_br_1 | short |  
 | bip_39_word_new_br_10 | short<br>base<br>quiz<br>enlist<br>attack<br>extra<br>recipe<br>answer<br>water<br>car |  
 | bip_39_word_new_br_11 | short<br>base<br>quiz<br>enlist<br>attack<br>extra<br>recipe<br>answer<br>water<br>car<br>wrap |  
@@ -147,6 +159,18 @@ water |
 | bip_39_word_space_7 | short base quiz enlist attack extra recipe |  
 | bip_39_word_space_8 | short base quiz enlist attack extra recipe answer |  
 | bip_39_word_space_9 | short base quiz enlist attack extra recipe answer water |  
+| bip_39_word_underscore_1 | short |  
+| bip_39_word_underscore_10 | short_base_quiz_enlist_attack_extra_recipe_answer_water_car |  
+| bip_39_word_underscore_11 | short_base_quiz_enlist_attack_extra_recipe_answer_water_car_wrap |  
+| bip_39_word_underscore_12 | short_base_quiz_enlist_attack_extra_recipe_answer_water_car_wrap_access |  
+| bip_39_word_underscore_2 | short_base |  
+| bip_39_word_underscore_3 | short_base_quiz |  
+| bip_39_word_underscore_4 | short_base_quiz_enlist |  
+| bip_39_word_underscore_5 | short_base_quiz_enlist_attack |  
+| bip_39_word_underscore_6 | short_base_quiz_enlist_attack_extra |  
+| bip_39_word_underscore_7 | short_base_quiz_enlist_attack_extra_recipe |  
+| bip_39_word_underscore_8 | short_base_quiz_enlist_attack_extra_recipe_answer |  
+| bip_39_word_underscore_9 | short_base_quiz_enlist_attack_extra_recipe_answer_water |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

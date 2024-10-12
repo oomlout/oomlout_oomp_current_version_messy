@@ -1,3 +1,15 @@
+bip_39_word_dash_1: myth
+bip_39_word_dash_10: myth-pool-dash-swing-chair-answer-pottery-worry-violin-despair
+bip_39_word_dash_11: myth-pool-dash-swing-chair-answer-pottery-worry-violin-despair-iron
+bip_39_word_dash_12: myth-pool-dash-swing-chair-answer-pottery-worry-violin-despair-iron-across
+bip_39_word_dash_2: myth-pool
+bip_39_word_dash_3: myth-pool-dash
+bip_39_word_dash_4: myth-pool-dash-swing
+bip_39_word_dash_5: myth-pool-dash-swing-chair
+bip_39_word_dash_6: myth-pool-dash-swing-chair-answer
+bip_39_word_dash_7: myth-pool-dash-swing-chair-answer-pottery
+bip_39_word_dash_8: myth-pool-dash-swing-chair-answer-pottery-worry
+bip_39_word_dash_9: myth-pool-dash-swing-chair-answer-pottery-worry-violin
 bip_39_word_new_br_1: myth
 bip_39_word_new_br_10: myth<br>pool<br>dash<br>swing<br>chair<br>answer<br>pottery<br>worry<br>violin<br>despair
 bip_39_word_new_br_11: myth<br>pool<br>dash<br>swing<br>chair<br>answer<br>pottery<br>worry<br>violin<br>despair<br>iron
@@ -193,6 +205,18 @@ bip_39_word_space_6: myth pool dash swing chair answer
 bip_39_word_space_7: myth pool dash swing chair answer pottery
 bip_39_word_space_8: myth pool dash swing chair answer pottery worry
 bip_39_word_space_9: myth pool dash swing chair answer pottery worry violin
+bip_39_word_underscore_1: myth
+bip_39_word_underscore_10: myth_pool_dash_swing_chair_answer_pottery_worry_violin_despair
+bip_39_word_underscore_11: myth_pool_dash_swing_chair_answer_pottery_worry_violin_despair_iron
+bip_39_word_underscore_12: myth_pool_dash_swing_chair_answer_pottery_worry_violin_despair_iron_across
+bip_39_word_underscore_2: myth_pool
+bip_39_word_underscore_3: myth_pool_dash
+bip_39_word_underscore_4: myth_pool_dash_swing
+bip_39_word_underscore_5: myth_pool_dash_swing_chair
+bip_39_word_underscore_6: myth_pool_dash_swing_chair_answer
+bip_39_word_underscore_7: myth_pool_dash_swing_chair_answer_pottery
+bip_39_word_underscore_8: myth_pool_dash_swing_chair_answer_pottery_worry
+bip_39_word_underscore_9: myth_pool_dash_swing_chair_answer_pottery_worry_violin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skull |  
+| bip_39_word_dash_10 | skull-idle-web-material-offer-capital-never-divert-embark-fish |  
+| bip_39_word_dash_11 | skull-idle-web-material-offer-capital-never-divert-embark-fish-genius |  
+| bip_39_word_dash_12 | skull-idle-web-material-offer-capital-never-divert-embark-fish-genius-audit |  
+| bip_39_word_dash_2 | skull-idle |  
+| bip_39_word_dash_3 | skull-idle-web |  
+| bip_39_word_dash_4 | skull-idle-web-material |  
+| bip_39_word_dash_5 | skull-idle-web-material-offer |  
+| bip_39_word_dash_6 | skull-idle-web-material-offer-capital |  
+| bip_39_word_dash_7 | skull-idle-web-material-offer-capital-never |  
+| bip_39_word_dash_8 | skull-idle-web-material-offer-capital-never-divert |  
+| bip_39_word_dash_9 | skull-idle-web-material-offer-capital-never-divert-embark |  
 | bip_39_word_new_br_1 | skull |  
 | bip_39_word_new_br_10 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert<br>embark<br>fish |  
 | bip_39_word_new_br_11 | skull<br>idle<br>web<br>material<br>offer<br>capital<br>never<br>divert<br>embark<br>fish<br>genius |  
@@ -147,6 +159,18 @@ embark |
 | bip_39_word_space_7 | skull idle web material offer capital never |  
 | bip_39_word_space_8 | skull idle web material offer capital never divert |  
 | bip_39_word_space_9 | skull idle web material offer capital never divert embark |  
+| bip_39_word_underscore_1 | skull |  
+| bip_39_word_underscore_10 | skull_idle_web_material_offer_capital_never_divert_embark_fish |  
+| bip_39_word_underscore_11 | skull_idle_web_material_offer_capital_never_divert_embark_fish_genius |  
+| bip_39_word_underscore_12 | skull_idle_web_material_offer_capital_never_divert_embark_fish_genius_audit |  
+| bip_39_word_underscore_2 | skull_idle |  
+| bip_39_word_underscore_3 | skull_idle_web |  
+| bip_39_word_underscore_4 | skull_idle_web_material |  
+| bip_39_word_underscore_5 | skull_idle_web_material_offer |  
+| bip_39_word_underscore_6 | skull_idle_web_material_offer_capital |  
+| bip_39_word_underscore_7 | skull_idle_web_material_offer_capital_never |  
+| bip_39_word_underscore_8 | skull_idle_web_material_offer_capital_never_divert |  
+| bip_39_word_underscore_9 | skull_idle_web_material_offer_capital_never_divert_embark |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

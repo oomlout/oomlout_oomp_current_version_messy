@@ -1,3 +1,15 @@
+bip_39_word_dash_1: layer
+bip_39_word_dash_10: layer-iron-seat-expire-mask-foam-grunt-cherry-goddess-wall
+bip_39_word_dash_11: layer-iron-seat-expire-mask-foam-grunt-cherry-goddess-wall-century
+bip_39_word_dash_12: layer-iron-seat-expire-mask-foam-grunt-cherry-goddess-wall-century-agree
+bip_39_word_dash_2: layer-iron
+bip_39_word_dash_3: layer-iron-seat
+bip_39_word_dash_4: layer-iron-seat-expire
+bip_39_word_dash_5: layer-iron-seat-expire-mask
+bip_39_word_dash_6: layer-iron-seat-expire-mask-foam
+bip_39_word_dash_7: layer-iron-seat-expire-mask-foam-grunt
+bip_39_word_dash_8: layer-iron-seat-expire-mask-foam-grunt-cherry
+bip_39_word_dash_9: layer-iron-seat-expire-mask-foam-grunt-cherry-goddess
 bip_39_word_new_br_1: layer
 bip_39_word_new_br_10: layer<br>iron<br>seat<br>expire<br>mask<br>foam<br>grunt<br>cherry<br>goddess<br>wall
 bip_39_word_new_br_11: layer<br>iron<br>seat<br>expire<br>mask<br>foam<br>grunt<br>cherry<br>goddess<br>wall<br>century
@@ -192,6 +204,18 @@ bip_39_word_space_6: layer iron seat expire mask foam
 bip_39_word_space_7: layer iron seat expire mask foam grunt
 bip_39_word_space_8: layer iron seat expire mask foam grunt cherry
 bip_39_word_space_9: layer iron seat expire mask foam grunt cherry goddess
+bip_39_word_underscore_1: layer
+bip_39_word_underscore_10: layer_iron_seat_expire_mask_foam_grunt_cherry_goddess_wall
+bip_39_word_underscore_11: layer_iron_seat_expire_mask_foam_grunt_cherry_goddess_wall_century
+bip_39_word_underscore_12: layer_iron_seat_expire_mask_foam_grunt_cherry_goddess_wall_century_agree
+bip_39_word_underscore_2: layer_iron
+bip_39_word_underscore_3: layer_iron_seat
+bip_39_word_underscore_4: layer_iron_seat_expire
+bip_39_word_underscore_5: layer_iron_seat_expire_mask
+bip_39_word_underscore_6: layer_iron_seat_expire_mask_foam
+bip_39_word_underscore_7: layer_iron_seat_expire_mask_foam_grunt
+bip_39_word_underscore_8: layer_iron_seat_expire_mask_foam_grunt_cherry
+bip_39_word_underscore_9: layer_iron_seat_expire_mask_foam_grunt_cherry_goddess
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

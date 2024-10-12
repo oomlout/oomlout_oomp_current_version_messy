@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | speed |  
+| bip_39_word_dash_10 | speed-intact-knock-blossom-actress-join-safe-endless-color-thumb |  
+| bip_39_word_dash_11 | speed-intact-knock-blossom-actress-join-safe-endless-color-thumb-lunch |  
+| bip_39_word_dash_12 | speed-intact-knock-blossom-actress-join-safe-endless-color-thumb-lunch-ankle |  
+| bip_39_word_dash_2 | speed-intact |  
+| bip_39_word_dash_3 | speed-intact-knock |  
+| bip_39_word_dash_4 | speed-intact-knock-blossom |  
+| bip_39_word_dash_5 | speed-intact-knock-blossom-actress |  
+| bip_39_word_dash_6 | speed-intact-knock-blossom-actress-join |  
+| bip_39_word_dash_7 | speed-intact-knock-blossom-actress-join-safe |  
+| bip_39_word_dash_8 | speed-intact-knock-blossom-actress-join-safe-endless |  
+| bip_39_word_dash_9 | speed-intact-knock-blossom-actress-join-safe-endless-color |  
 | bip_39_word_new_br_1 | speed |  
 | bip_39_word_new_br_10 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless<br>color<br>thumb |  
 | bip_39_word_new_br_11 | speed<br>intact<br>knock<br>blossom<br>actress<br>join<br>safe<br>endless<br>color<br>thumb<br>lunch |  
@@ -147,6 +159,18 @@ color |
 | bip_39_word_space_7 | speed intact knock blossom actress join safe |  
 | bip_39_word_space_8 | speed intact knock blossom actress join safe endless |  
 | bip_39_word_space_9 | speed intact knock blossom actress join safe endless color |  
+| bip_39_word_underscore_1 | speed |  
+| bip_39_word_underscore_10 | speed_intact_knock_blossom_actress_join_safe_endless_color_thumb |  
+| bip_39_word_underscore_11 | speed_intact_knock_blossom_actress_join_safe_endless_color_thumb_lunch |  
+| bip_39_word_underscore_12 | speed_intact_knock_blossom_actress_join_safe_endless_color_thumb_lunch_ankle |  
+| bip_39_word_underscore_2 | speed_intact |  
+| bip_39_word_underscore_3 | speed_intact_knock |  
+| bip_39_word_underscore_4 | speed_intact_knock_blossom |  
+| bip_39_word_underscore_5 | speed_intact_knock_blossom_actress |  
+| bip_39_word_underscore_6 | speed_intact_knock_blossom_actress_join |  
+| bip_39_word_underscore_7 | speed_intact_knock_blossom_actress_join_safe |  
+| bip_39_word_underscore_8 | speed_intact_knock_blossom_actress_join_safe_endless |  
+| bip_39_word_underscore_9 | speed_intact_knock_blossom_actress_join_safe_endless_color |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

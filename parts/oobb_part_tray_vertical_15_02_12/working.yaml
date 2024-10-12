@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enemy
+bip_39_word_dash_10: enemy-ranch-slab-dry-vacuum-believe-ozone-shiver-sight-stay
+bip_39_word_dash_11: enemy-ranch-slab-dry-vacuum-believe-ozone-shiver-sight-stay-vast
+bip_39_word_dash_12: enemy-ranch-slab-dry-vacuum-believe-ozone-shiver-sight-stay-vast-adjust
+bip_39_word_dash_2: enemy-ranch
+bip_39_word_dash_3: enemy-ranch-slab
+bip_39_word_dash_4: enemy-ranch-slab-dry
+bip_39_word_dash_5: enemy-ranch-slab-dry-vacuum
+bip_39_word_dash_6: enemy-ranch-slab-dry-vacuum-believe
+bip_39_word_dash_7: enemy-ranch-slab-dry-vacuum-believe-ozone
+bip_39_word_dash_8: enemy-ranch-slab-dry-vacuum-believe-ozone-shiver
+bip_39_word_dash_9: enemy-ranch-slab-dry-vacuum-believe-ozone-shiver-sight
 bip_39_word_new_br_1: enemy
 bip_39_word_new_br_10: enemy<br>ranch<br>slab<br>dry<br>vacuum<br>believe<br>ozone<br>shiver<br>sight<br>stay
 bip_39_word_new_br_11: enemy<br>ranch<br>slab<br>dry<br>vacuum<br>believe<br>ozone<br>shiver<br>sight<br>stay<br>vast
@@ -193,6 +205,18 @@ bip_39_word_space_6: enemy ranch slab dry vacuum believe
 bip_39_word_space_7: enemy ranch slab dry vacuum believe ozone
 bip_39_word_space_8: enemy ranch slab dry vacuum believe ozone shiver
 bip_39_word_space_9: enemy ranch slab dry vacuum believe ozone shiver sight
+bip_39_word_underscore_1: enemy
+bip_39_word_underscore_10: enemy_ranch_slab_dry_vacuum_believe_ozone_shiver_sight_stay
+bip_39_word_underscore_11: enemy_ranch_slab_dry_vacuum_believe_ozone_shiver_sight_stay_vast
+bip_39_word_underscore_12: enemy_ranch_slab_dry_vacuum_believe_ozone_shiver_sight_stay_vast_adjust
+bip_39_word_underscore_2: enemy_ranch
+bip_39_word_underscore_3: enemy_ranch_slab
+bip_39_word_underscore_4: enemy_ranch_slab_dry
+bip_39_word_underscore_5: enemy_ranch_slab_dry_vacuum
+bip_39_word_underscore_6: enemy_ranch_slab_dry_vacuum_believe
+bip_39_word_underscore_7: enemy_ranch_slab_dry_vacuum_believe_ozone
+bip_39_word_underscore_8: enemy_ranch_slab_dry_vacuum_believe_ozone_shiver
+bip_39_word_underscore_9: enemy_ranch_slab_dry_vacuum_believe_ozone_shiver_sight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

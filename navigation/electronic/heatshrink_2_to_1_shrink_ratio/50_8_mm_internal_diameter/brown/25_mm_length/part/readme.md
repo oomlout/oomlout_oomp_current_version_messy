@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | buddy |  
+| bip_39_word_dash_10 | buddy-visa-kite-popular-goddess-win-spring-miracle-drill-apple |  
+| bip_39_word_dash_11 | buddy-visa-kite-popular-goddess-win-spring-miracle-drill-apple-silk |  
+| bip_39_word_dash_12 | buddy-visa-kite-popular-goddess-win-spring-miracle-drill-apple-silk-audit |  
+| bip_39_word_dash_2 | buddy-visa |  
+| bip_39_word_dash_3 | buddy-visa-kite |  
+| bip_39_word_dash_4 | buddy-visa-kite-popular |  
+| bip_39_word_dash_5 | buddy-visa-kite-popular-goddess |  
+| bip_39_word_dash_6 | buddy-visa-kite-popular-goddess-win |  
+| bip_39_word_dash_7 | buddy-visa-kite-popular-goddess-win-spring |  
+| bip_39_word_dash_8 | buddy-visa-kite-popular-goddess-win-spring-miracle |  
+| bip_39_word_dash_9 | buddy-visa-kite-popular-goddess-win-spring-miracle-drill |  
 | bip_39_word_new_br_1 | buddy |  
 | bip_39_word_new_br_10 | buddy<br>visa<br>kite<br>popular<br>goddess<br>win<br>spring<br>miracle<br>drill<br>apple |  
 | bip_39_word_new_br_11 | buddy<br>visa<br>kite<br>popular<br>goddess<br>win<br>spring<br>miracle<br>drill<br>apple<br>silk |  
@@ -147,6 +159,18 @@ drill |
 | bip_39_word_space_7 | buddy visa kite popular goddess win spring |  
 | bip_39_word_space_8 | buddy visa kite popular goddess win spring miracle |  
 | bip_39_word_space_9 | buddy visa kite popular goddess win spring miracle drill |  
+| bip_39_word_underscore_1 | buddy |  
+| bip_39_word_underscore_10 | buddy_visa_kite_popular_goddess_win_spring_miracle_drill_apple |  
+| bip_39_word_underscore_11 | buddy_visa_kite_popular_goddess_win_spring_miracle_drill_apple_silk |  
+| bip_39_word_underscore_12 | buddy_visa_kite_popular_goddess_win_spring_miracle_drill_apple_silk_audit |  
+| bip_39_word_underscore_2 | buddy_visa |  
+| bip_39_word_underscore_3 | buddy_visa_kite |  
+| bip_39_word_underscore_4 | buddy_visa_kite_popular |  
+| bip_39_word_underscore_5 | buddy_visa_kite_popular_goddess |  
+| bip_39_word_underscore_6 | buddy_visa_kite_popular_goddess_win |  
+| bip_39_word_underscore_7 | buddy_visa_kite_popular_goddess_win_spring |  
+| bip_39_word_underscore_8 | buddy_visa_kite_popular_goddess_win_spring_miracle |  
+| bip_39_word_underscore_9 | buddy_visa_kite_popular_goddess_win_spring_miracle_drill |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

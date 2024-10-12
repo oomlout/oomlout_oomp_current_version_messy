@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | edit |  
+| bip_39_word_dash_10 | edit-chapter-physical-floor-type-tonight-myself-damage-street-delay |  
+| bip_39_word_dash_11 | edit-chapter-physical-floor-type-tonight-myself-damage-street-delay-syrup |  
+| bip_39_word_dash_12 | edit-chapter-physical-floor-type-tonight-myself-damage-street-delay-syrup-august |  
+| bip_39_word_dash_2 | edit-chapter |  
+| bip_39_word_dash_3 | edit-chapter-physical |  
+| bip_39_word_dash_4 | edit-chapter-physical-floor |  
+| bip_39_word_dash_5 | edit-chapter-physical-floor-type |  
+| bip_39_word_dash_6 | edit-chapter-physical-floor-type-tonight |  
+| bip_39_word_dash_7 | edit-chapter-physical-floor-type-tonight-myself |  
+| bip_39_word_dash_8 | edit-chapter-physical-floor-type-tonight-myself-damage |  
+| bip_39_word_dash_9 | edit-chapter-physical-floor-type-tonight-myself-damage-street |  
 | bip_39_word_new_br_1 | edit |  
 | bip_39_word_new_br_10 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay |  
 | bip_39_word_new_br_11 | edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay<br>syrup |  
@@ -147,6 +159,18 @@ street |
 | bip_39_word_space_7 | edit chapter physical floor type tonight myself |  
 | bip_39_word_space_8 | edit chapter physical floor type tonight myself damage |  
 | bip_39_word_space_9 | edit chapter physical floor type tonight myself damage street |  
+| bip_39_word_underscore_1 | edit |  
+| bip_39_word_underscore_10 | edit_chapter_physical_floor_type_tonight_myself_damage_street_delay |  
+| bip_39_word_underscore_11 | edit_chapter_physical_floor_type_tonight_myself_damage_street_delay_syrup |  
+| bip_39_word_underscore_12 | edit_chapter_physical_floor_type_tonight_myself_damage_street_delay_syrup_august |  
+| bip_39_word_underscore_2 | edit_chapter |  
+| bip_39_word_underscore_3 | edit_chapter_physical |  
+| bip_39_word_underscore_4 | edit_chapter_physical_floor |  
+| bip_39_word_underscore_5 | edit_chapter_physical_floor_type |  
+| bip_39_word_underscore_6 | edit_chapter_physical_floor_type_tonight |  
+| bip_39_word_underscore_7 | edit_chapter_physical_floor_type_tonight_myself |  
+| bip_39_word_underscore_8 | edit_chapter_physical_floor_type_tonight_myself_damage |  
+| bip_39_word_underscore_9 | edit_chapter_physical_floor_type_tonight_myself_damage_street |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

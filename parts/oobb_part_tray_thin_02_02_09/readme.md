@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nose |  
+| bip_39_word_dash_10 | nose-skin-nerve-isolate-welcome-wheat-fatal-glide-night-beach |  
+| bip_39_word_dash_11 | nose-skin-nerve-isolate-welcome-wheat-fatal-glide-night-beach-certain |  
+| bip_39_word_dash_12 | nose-skin-nerve-isolate-welcome-wheat-fatal-glide-night-beach-certain-attitude |  
+| bip_39_word_dash_2 | nose-skin |  
+| bip_39_word_dash_3 | nose-skin-nerve |  
+| bip_39_word_dash_4 | nose-skin-nerve-isolate |  
+| bip_39_word_dash_5 | nose-skin-nerve-isolate-welcome |  
+| bip_39_word_dash_6 | nose-skin-nerve-isolate-welcome-wheat |  
+| bip_39_word_dash_7 | nose-skin-nerve-isolate-welcome-wheat-fatal |  
+| bip_39_word_dash_8 | nose-skin-nerve-isolate-welcome-wheat-fatal-glide |  
+| bip_39_word_dash_9 | nose-skin-nerve-isolate-welcome-wheat-fatal-glide-night |  
 | bip_39_word_new_br_1 | nose |  
 | bip_39_word_new_br_10 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide<br>night<br>beach |  
 | bip_39_word_new_br_11 | nose<br>skin<br>nerve<br>isolate<br>welcome<br>wheat<br>fatal<br>glide<br>night<br>beach<br>certain |  
@@ -147,6 +159,18 @@ night |
 | bip_39_word_space_7 | nose skin nerve isolate welcome wheat fatal |  
 | bip_39_word_space_8 | nose skin nerve isolate welcome wheat fatal glide |  
 | bip_39_word_space_9 | nose skin nerve isolate welcome wheat fatal glide night |  
+| bip_39_word_underscore_1 | nose |  
+| bip_39_word_underscore_10 | nose_skin_nerve_isolate_welcome_wheat_fatal_glide_night_beach |  
+| bip_39_word_underscore_11 | nose_skin_nerve_isolate_welcome_wheat_fatal_glide_night_beach_certain |  
+| bip_39_word_underscore_12 | nose_skin_nerve_isolate_welcome_wheat_fatal_glide_night_beach_certain_attitude |  
+| bip_39_word_underscore_2 | nose_skin |  
+| bip_39_word_underscore_3 | nose_skin_nerve |  
+| bip_39_word_underscore_4 | nose_skin_nerve_isolate |  
+| bip_39_word_underscore_5 | nose_skin_nerve_isolate_welcome |  
+| bip_39_word_underscore_6 | nose_skin_nerve_isolate_welcome_wheat |  
+| bip_39_word_underscore_7 | nose_skin_nerve_isolate_welcome_wheat_fatal |  
+| bip_39_word_underscore_8 | nose_skin_nerve_isolate_welcome_wheat_fatal_glide |  
+| bip_39_word_underscore_9 | nose_skin_nerve_isolate_welcome_wheat_fatal_glide_night |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

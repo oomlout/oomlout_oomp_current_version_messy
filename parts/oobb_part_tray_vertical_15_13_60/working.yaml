@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fatal
+bip_39_word_dash_10: fatal-mystery-speak-thumb-matrix-situate-dose-exchange-parrot-harbor
+bip_39_word_dash_11: fatal-mystery-speak-thumb-matrix-situate-dose-exchange-parrot-harbor-globe
+bip_39_word_dash_12: fatal-mystery-speak-thumb-matrix-situate-dose-exchange-parrot-harbor-globe-auction
+bip_39_word_dash_2: fatal-mystery
+bip_39_word_dash_3: fatal-mystery-speak
+bip_39_word_dash_4: fatal-mystery-speak-thumb
+bip_39_word_dash_5: fatal-mystery-speak-thumb-matrix
+bip_39_word_dash_6: fatal-mystery-speak-thumb-matrix-situate
+bip_39_word_dash_7: fatal-mystery-speak-thumb-matrix-situate-dose
+bip_39_word_dash_8: fatal-mystery-speak-thumb-matrix-situate-dose-exchange
+bip_39_word_dash_9: fatal-mystery-speak-thumb-matrix-situate-dose-exchange-parrot
 bip_39_word_new_br_1: fatal
 bip_39_word_new_br_10: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange<br>parrot<br>harbor
 bip_39_word_new_br_11: fatal<br>mystery<br>speak<br>thumb<br>matrix<br>situate<br>dose<br>exchange<br>parrot<br>harbor<br>globe
@@ -194,6 +206,18 @@ bip_39_word_space_6: fatal mystery speak thumb matrix situate
 bip_39_word_space_7: fatal mystery speak thumb matrix situate dose
 bip_39_word_space_8: fatal mystery speak thumb matrix situate dose exchange
 bip_39_word_space_9: fatal mystery speak thumb matrix situate dose exchange parrot
+bip_39_word_underscore_1: fatal
+bip_39_word_underscore_10: fatal_mystery_speak_thumb_matrix_situate_dose_exchange_parrot_harbor
+bip_39_word_underscore_11: fatal_mystery_speak_thumb_matrix_situate_dose_exchange_parrot_harbor_globe
+bip_39_word_underscore_12: fatal_mystery_speak_thumb_matrix_situate_dose_exchange_parrot_harbor_globe_auction
+bip_39_word_underscore_2: fatal_mystery
+bip_39_word_underscore_3: fatal_mystery_speak
+bip_39_word_underscore_4: fatal_mystery_speak_thumb
+bip_39_word_underscore_5: fatal_mystery_speak_thumb_matrix
+bip_39_word_underscore_6: fatal_mystery_speak_thumb_matrix_situate
+bip_39_word_underscore_7: fatal_mystery_speak_thumb_matrix_situate_dose
+bip_39_word_underscore_8: fatal_mystery_speak_thumb_matrix_situate_dose_exchange
+bip_39_word_underscore_9: fatal_mystery_speak_thumb_matrix_situate_dose_exchange_parrot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

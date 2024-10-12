@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wreck |  
+| bip_39_word_dash_10 | wreck-help-quantum-life-level-slow-jazz-uphold-permit-intact |  
+| bip_39_word_dash_11 | wreck-help-quantum-life-level-slow-jazz-uphold-permit-intact-more |  
+| bip_39_word_dash_12 | wreck-help-quantum-life-level-slow-jazz-uphold-permit-intact-more-approve |  
+| bip_39_word_dash_2 | wreck-help |  
+| bip_39_word_dash_3 | wreck-help-quantum |  
+| bip_39_word_dash_4 | wreck-help-quantum-life |  
+| bip_39_word_dash_5 | wreck-help-quantum-life-level |  
+| bip_39_word_dash_6 | wreck-help-quantum-life-level-slow |  
+| bip_39_word_dash_7 | wreck-help-quantum-life-level-slow-jazz |  
+| bip_39_word_dash_8 | wreck-help-quantum-life-level-slow-jazz-uphold |  
+| bip_39_word_dash_9 | wreck-help-quantum-life-level-slow-jazz-uphold-permit |  
 | bip_39_word_new_br_1 | wreck |  
 | bip_39_word_new_br_10 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact |  
 | bip_39_word_new_br_11 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact<br>more |  
@@ -147,6 +159,18 @@ permit |
 | bip_39_word_space_7 | wreck help quantum life level slow jazz |  
 | bip_39_word_space_8 | wreck help quantum life level slow jazz uphold |  
 | bip_39_word_space_9 | wreck help quantum life level slow jazz uphold permit |  
+| bip_39_word_underscore_1 | wreck |  
+| bip_39_word_underscore_10 | wreck_help_quantum_life_level_slow_jazz_uphold_permit_intact |  
+| bip_39_word_underscore_11 | wreck_help_quantum_life_level_slow_jazz_uphold_permit_intact_more |  
+| bip_39_word_underscore_12 | wreck_help_quantum_life_level_slow_jazz_uphold_permit_intact_more_approve |  
+| bip_39_word_underscore_2 | wreck_help |  
+| bip_39_word_underscore_3 | wreck_help_quantum |  
+| bip_39_word_underscore_4 | wreck_help_quantum_life |  
+| bip_39_word_underscore_5 | wreck_help_quantum_life_level |  
+| bip_39_word_underscore_6 | wreck_help_quantum_life_level_slow |  
+| bip_39_word_underscore_7 | wreck_help_quantum_life_level_slow_jazz |  
+| bip_39_word_underscore_8 | wreck_help_quantum_life_level_slow_jazz_uphold |  
+| bip_39_word_underscore_9 | wreck_help_quantum_life_level_slow_jazz_uphold_permit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

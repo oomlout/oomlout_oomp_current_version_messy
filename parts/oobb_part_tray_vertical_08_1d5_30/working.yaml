@@ -1,3 +1,15 @@
+bip_39_word_dash_1: obtain
+bip_39_word_dash_10: obtain-donor-truck-change-choice-acoustic-correct-second-option-canyon
+bip_39_word_dash_11: obtain-donor-truck-change-choice-acoustic-correct-second-option-canyon-asthma
+bip_39_word_dash_12: obtain-donor-truck-change-choice-acoustic-correct-second-option-canyon-asthma-age
+bip_39_word_dash_2: obtain-donor
+bip_39_word_dash_3: obtain-donor-truck
+bip_39_word_dash_4: obtain-donor-truck-change
+bip_39_word_dash_5: obtain-donor-truck-change-choice
+bip_39_word_dash_6: obtain-donor-truck-change-choice-acoustic
+bip_39_word_dash_7: obtain-donor-truck-change-choice-acoustic-correct
+bip_39_word_dash_8: obtain-donor-truck-change-choice-acoustic-correct-second
+bip_39_word_dash_9: obtain-donor-truck-change-choice-acoustic-correct-second-option
 bip_39_word_new_br_1: obtain
 bip_39_word_new_br_10: obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second<br>option<br>canyon
 bip_39_word_new_br_11: obtain<br>donor<br>truck<br>change<br>choice<br>acoustic<br>correct<br>second<br>option<br>canyon<br>asthma
@@ -194,6 +206,18 @@ bip_39_word_space_6: obtain donor truck change choice acoustic
 bip_39_word_space_7: obtain donor truck change choice acoustic correct
 bip_39_word_space_8: obtain donor truck change choice acoustic correct second
 bip_39_word_space_9: obtain donor truck change choice acoustic correct second option
+bip_39_word_underscore_1: obtain
+bip_39_word_underscore_10: obtain_donor_truck_change_choice_acoustic_correct_second_option_canyon
+bip_39_word_underscore_11: obtain_donor_truck_change_choice_acoustic_correct_second_option_canyon_asthma
+bip_39_word_underscore_12: obtain_donor_truck_change_choice_acoustic_correct_second_option_canyon_asthma_age
+bip_39_word_underscore_2: obtain_donor
+bip_39_word_underscore_3: obtain_donor_truck
+bip_39_word_underscore_4: obtain_donor_truck_change
+bip_39_word_underscore_5: obtain_donor_truck_change_choice
+bip_39_word_underscore_6: obtain_donor_truck_change_choice_acoustic
+bip_39_word_underscore_7: obtain_donor_truck_change_choice_acoustic_correct
+bip_39_word_underscore_8: obtain_donor_truck_change_choice_acoustic_correct_second
+bip_39_word_underscore_9: obtain_donor_truck_change_choice_acoustic_correct_second_option
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

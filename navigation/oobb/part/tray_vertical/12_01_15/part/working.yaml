@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ticket
+bip_39_word_dash_10: ticket-nothing-sting-oblige-eternal-brisk-demise-wine-diesel-van
+bip_39_word_dash_11: ticket-nothing-sting-oblige-eternal-brisk-demise-wine-diesel-van-orange
+bip_39_word_dash_12: ticket-nothing-sting-oblige-eternal-brisk-demise-wine-diesel-van-orange-absurd
+bip_39_word_dash_2: ticket-nothing
+bip_39_word_dash_3: ticket-nothing-sting
+bip_39_word_dash_4: ticket-nothing-sting-oblige
+bip_39_word_dash_5: ticket-nothing-sting-oblige-eternal
+bip_39_word_dash_6: ticket-nothing-sting-oblige-eternal-brisk
+bip_39_word_dash_7: ticket-nothing-sting-oblige-eternal-brisk-demise
+bip_39_word_dash_8: ticket-nothing-sting-oblige-eternal-brisk-demise-wine
+bip_39_word_dash_9: ticket-nothing-sting-oblige-eternal-brisk-demise-wine-diesel
 bip_39_word_new_br_1: ticket
 bip_39_word_new_br_10: ticket<br>nothing<br>sting<br>oblige<br>eternal<br>brisk<br>demise<br>wine<br>diesel<br>van
 bip_39_word_new_br_11: ticket<br>nothing<br>sting<br>oblige<br>eternal<br>brisk<br>demise<br>wine<br>diesel<br>van<br>orange
@@ -194,6 +206,18 @@ bip_39_word_space_6: ticket nothing sting oblige eternal brisk
 bip_39_word_space_7: ticket nothing sting oblige eternal brisk demise
 bip_39_word_space_8: ticket nothing sting oblige eternal brisk demise wine
 bip_39_word_space_9: ticket nothing sting oblige eternal brisk demise wine diesel
+bip_39_word_underscore_1: ticket
+bip_39_word_underscore_10: ticket_nothing_sting_oblige_eternal_brisk_demise_wine_diesel_van
+bip_39_word_underscore_11: ticket_nothing_sting_oblige_eternal_brisk_demise_wine_diesel_van_orange
+bip_39_word_underscore_12: ticket_nothing_sting_oblige_eternal_brisk_demise_wine_diesel_van_orange_absurd
+bip_39_word_underscore_2: ticket_nothing
+bip_39_word_underscore_3: ticket_nothing_sting
+bip_39_word_underscore_4: ticket_nothing_sting_oblige
+bip_39_word_underscore_5: ticket_nothing_sting_oblige_eternal
+bip_39_word_underscore_6: ticket_nothing_sting_oblige_eternal_brisk
+bip_39_word_underscore_7: ticket_nothing_sting_oblige_eternal_brisk_demise
+bip_39_word_underscore_8: ticket_nothing_sting_oblige_eternal_brisk_demise_wine
+bip_39_word_underscore_9: ticket_nothing_sting_oblige_eternal_brisk_demise_wine_diesel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

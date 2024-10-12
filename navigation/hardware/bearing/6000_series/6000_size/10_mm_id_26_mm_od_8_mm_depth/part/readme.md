@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mouse |  
+| bip_39_word_dash_10 | mouse-staff-split-pole-loop-culture-oak-old-vicious-rigid |  
+| bip_39_word_dash_11 | mouse-staff-split-pole-loop-culture-oak-old-vicious-rigid-lunar |  
+| bip_39_word_dash_12 | mouse-staff-split-pole-loop-culture-oak-old-vicious-rigid-lunar-addict |  
+| bip_39_word_dash_2 | mouse-staff |  
+| bip_39_word_dash_3 | mouse-staff-split |  
+| bip_39_word_dash_4 | mouse-staff-split-pole |  
+| bip_39_word_dash_5 | mouse-staff-split-pole-loop |  
+| bip_39_word_dash_6 | mouse-staff-split-pole-loop-culture |  
+| bip_39_word_dash_7 | mouse-staff-split-pole-loop-culture-oak |  
+| bip_39_word_dash_8 | mouse-staff-split-pole-loop-culture-oak-old |  
+| bip_39_word_dash_9 | mouse-staff-split-pole-loop-culture-oak-old-vicious |  
 | bip_39_word_new_br_1 | mouse |  
 | bip_39_word_new_br_10 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid |  
 | bip_39_word_new_br_11 | mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid<br>lunar |  
@@ -147,6 +159,18 @@ vicious |
 | bip_39_word_space_7 | mouse staff split pole loop culture oak |  
 | bip_39_word_space_8 | mouse staff split pole loop culture oak old |  
 | bip_39_word_space_9 | mouse staff split pole loop culture oak old vicious |  
+| bip_39_word_underscore_1 | mouse |  
+| bip_39_word_underscore_10 | mouse_staff_split_pole_loop_culture_oak_old_vicious_rigid |  
+| bip_39_word_underscore_11 | mouse_staff_split_pole_loop_culture_oak_old_vicious_rigid_lunar |  
+| bip_39_word_underscore_12 | mouse_staff_split_pole_loop_culture_oak_old_vicious_rigid_lunar_addict |  
+| bip_39_word_underscore_2 | mouse_staff |  
+| bip_39_word_underscore_3 | mouse_staff_split |  
+| bip_39_word_underscore_4 | mouse_staff_split_pole |  
+| bip_39_word_underscore_5 | mouse_staff_split_pole_loop |  
+| bip_39_word_underscore_6 | mouse_staff_split_pole_loop_culture |  
+| bip_39_word_underscore_7 | mouse_staff_split_pole_loop_culture_oak |  
+| bip_39_word_underscore_8 | mouse_staff_split_pole_loop_culture_oak_old |  
+| bip_39_word_underscore_9 | mouse_staff_split_pole_loop_culture_oak_old_vicious |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

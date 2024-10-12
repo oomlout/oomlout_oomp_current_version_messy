@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ordinary |  
+| bip_39_word_dash_10 | ordinary-morning-cube-engine-clever-work-observe-whip-dizzy-book |  
+| bip_39_word_dash_11 | ordinary-morning-cube-engine-clever-work-observe-whip-dizzy-book-author |  
+| bip_39_word_dash_12 | ordinary-morning-cube-engine-clever-work-observe-whip-dizzy-book-author-album |  
+| bip_39_word_dash_2 | ordinary-morning |  
+| bip_39_word_dash_3 | ordinary-morning-cube |  
+| bip_39_word_dash_4 | ordinary-morning-cube-engine |  
+| bip_39_word_dash_5 | ordinary-morning-cube-engine-clever |  
+| bip_39_word_dash_6 | ordinary-morning-cube-engine-clever-work |  
+| bip_39_word_dash_7 | ordinary-morning-cube-engine-clever-work-observe |  
+| bip_39_word_dash_8 | ordinary-morning-cube-engine-clever-work-observe-whip |  
+| bip_39_word_dash_9 | ordinary-morning-cube-engine-clever-work-observe-whip-dizzy |  
 | bip_39_word_new_br_1 | ordinary |  
 | bip_39_word_new_br_10 | ordinary<br>morning<br>cube<br>engine<br>clever<br>work<br>observe<br>whip<br>dizzy<br>book |  
 | bip_39_word_new_br_11 | ordinary<br>morning<br>cube<br>engine<br>clever<br>work<br>observe<br>whip<br>dizzy<br>book<br>author |  
@@ -147,6 +159,18 @@ dizzy |
 | bip_39_word_space_7 | ordinary morning cube engine clever work observe |  
 | bip_39_word_space_8 | ordinary morning cube engine clever work observe whip |  
 | bip_39_word_space_9 | ordinary morning cube engine clever work observe whip dizzy |  
+| bip_39_word_underscore_1 | ordinary |  
+| bip_39_word_underscore_10 | ordinary_morning_cube_engine_clever_work_observe_whip_dizzy_book |  
+| bip_39_word_underscore_11 | ordinary_morning_cube_engine_clever_work_observe_whip_dizzy_book_author |  
+| bip_39_word_underscore_12 | ordinary_morning_cube_engine_clever_work_observe_whip_dizzy_book_author_album |  
+| bip_39_word_underscore_2 | ordinary_morning |  
+| bip_39_word_underscore_3 | ordinary_morning_cube |  
+| bip_39_word_underscore_4 | ordinary_morning_cube_engine |  
+| bip_39_word_underscore_5 | ordinary_morning_cube_engine_clever |  
+| bip_39_word_underscore_6 | ordinary_morning_cube_engine_clever_work |  
+| bip_39_word_underscore_7 | ordinary_morning_cube_engine_clever_work_observe |  
+| bip_39_word_underscore_8 | ordinary_morning_cube_engine_clever_work_observe_whip |  
+| bip_39_word_underscore_9 | ordinary_morning_cube_engine_clever_work_observe_whip_dizzy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

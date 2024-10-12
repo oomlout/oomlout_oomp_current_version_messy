@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | useful |  
+| bip_39_word_dash_10 | useful-cheap-oyster-behind-memory-virtual-rely-since-main-jelly |  
+| bip_39_word_dash_11 | useful-cheap-oyster-behind-memory-virtual-rely-since-main-jelly-uncover |  
+| bip_39_word_dash_12 | useful-cheap-oyster-behind-memory-virtual-rely-since-main-jelly-uncover-adapt |  
+| bip_39_word_dash_2 | useful-cheap |  
+| bip_39_word_dash_3 | useful-cheap-oyster |  
+| bip_39_word_dash_4 | useful-cheap-oyster-behind |  
+| bip_39_word_dash_5 | useful-cheap-oyster-behind-memory |  
+| bip_39_word_dash_6 | useful-cheap-oyster-behind-memory-virtual |  
+| bip_39_word_dash_7 | useful-cheap-oyster-behind-memory-virtual-rely |  
+| bip_39_word_dash_8 | useful-cheap-oyster-behind-memory-virtual-rely-since |  
+| bip_39_word_dash_9 | useful-cheap-oyster-behind-memory-virtual-rely-since-main |  
 | bip_39_word_new_br_1 | useful |  
 | bip_39_word_new_br_10 | useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since<br>main<br>jelly |  
 | bip_39_word_new_br_11 | useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since<br>main<br>jelly<br>uncover |  
@@ -147,6 +159,18 @@ main |
 | bip_39_word_space_7 | useful cheap oyster behind memory virtual rely |  
 | bip_39_word_space_8 | useful cheap oyster behind memory virtual rely since |  
 | bip_39_word_space_9 | useful cheap oyster behind memory virtual rely since main |  
+| bip_39_word_underscore_1 | useful |  
+| bip_39_word_underscore_10 | useful_cheap_oyster_behind_memory_virtual_rely_since_main_jelly |  
+| bip_39_word_underscore_11 | useful_cheap_oyster_behind_memory_virtual_rely_since_main_jelly_uncover |  
+| bip_39_word_underscore_12 | useful_cheap_oyster_behind_memory_virtual_rely_since_main_jelly_uncover_adapt |  
+| bip_39_word_underscore_2 | useful_cheap |  
+| bip_39_word_underscore_3 | useful_cheap_oyster |  
+| bip_39_word_underscore_4 | useful_cheap_oyster_behind |  
+| bip_39_word_underscore_5 | useful_cheap_oyster_behind_memory |  
+| bip_39_word_underscore_6 | useful_cheap_oyster_behind_memory_virtual |  
+| bip_39_word_underscore_7 | useful_cheap_oyster_behind_memory_virtual_rely |  
+| bip_39_word_underscore_8 | useful_cheap_oyster_behind_memory_virtual_rely_since |  
+| bip_39_word_underscore_9 | useful_cheap_oyster_behind_memory_virtual_rely_since_main |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

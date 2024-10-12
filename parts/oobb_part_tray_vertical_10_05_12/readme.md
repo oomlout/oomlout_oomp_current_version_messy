@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | other |  
+| bip_39_word_dash_10 | other-job-liar-kiwi-ozone-idea-tiger-fine-hover-thumb |  
+| bip_39_word_dash_11 | other-job-liar-kiwi-ozone-idea-tiger-fine-hover-thumb-mail |  
+| bip_39_word_dash_12 | other-job-liar-kiwi-ozone-idea-tiger-fine-hover-thumb-mail-ability |  
+| bip_39_word_dash_2 | other-job |  
+| bip_39_word_dash_3 | other-job-liar |  
+| bip_39_word_dash_4 | other-job-liar-kiwi |  
+| bip_39_word_dash_5 | other-job-liar-kiwi-ozone |  
+| bip_39_word_dash_6 | other-job-liar-kiwi-ozone-idea |  
+| bip_39_word_dash_7 | other-job-liar-kiwi-ozone-idea-tiger |  
+| bip_39_word_dash_8 | other-job-liar-kiwi-ozone-idea-tiger-fine |  
+| bip_39_word_dash_9 | other-job-liar-kiwi-ozone-idea-tiger-fine-hover |  
 | bip_39_word_new_br_1 | other |  
 | bip_39_word_new_br_10 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine<br>hover<br>thumb |  
 | bip_39_word_new_br_11 | other<br>job<br>liar<br>kiwi<br>ozone<br>idea<br>tiger<br>fine<br>hover<br>thumb<br>mail |  
@@ -147,6 +159,18 @@ hover |
 | bip_39_word_space_7 | other job liar kiwi ozone idea tiger |  
 | bip_39_word_space_8 | other job liar kiwi ozone idea tiger fine |  
 | bip_39_word_space_9 | other job liar kiwi ozone idea tiger fine hover |  
+| bip_39_word_underscore_1 | other |  
+| bip_39_word_underscore_10 | other_job_liar_kiwi_ozone_idea_tiger_fine_hover_thumb |  
+| bip_39_word_underscore_11 | other_job_liar_kiwi_ozone_idea_tiger_fine_hover_thumb_mail |  
+| bip_39_word_underscore_12 | other_job_liar_kiwi_ozone_idea_tiger_fine_hover_thumb_mail_ability |  
+| bip_39_word_underscore_2 | other_job |  
+| bip_39_word_underscore_3 | other_job_liar |  
+| bip_39_word_underscore_4 | other_job_liar_kiwi |  
+| bip_39_word_underscore_5 | other_job_liar_kiwi_ozone |  
+| bip_39_word_underscore_6 | other_job_liar_kiwi_ozone_idea |  
+| bip_39_word_underscore_7 | other_job_liar_kiwi_ozone_idea_tiger |  
+| bip_39_word_underscore_8 | other_job_liar_kiwi_ozone_idea_tiger_fine |  
+| bip_39_word_underscore_9 | other_job_liar_kiwi_ozone_idea_tiger_fine_hover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

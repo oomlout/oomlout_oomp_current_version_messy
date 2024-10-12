@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | width |  
+| bip_39_word_dash_10 | width-squeeze-lock-duty-slice-girl-share-repeat-century-kidney |  
+| bip_39_word_dash_11 | width-squeeze-lock-duty-slice-girl-share-repeat-century-kidney-voice |  
+| bip_39_word_dash_12 | width-squeeze-lock-duty-slice-girl-share-repeat-century-kidney-voice-alley |  
+| bip_39_word_dash_2 | width-squeeze |  
+| bip_39_word_dash_3 | width-squeeze-lock |  
+| bip_39_word_dash_4 | width-squeeze-lock-duty |  
+| bip_39_word_dash_5 | width-squeeze-lock-duty-slice |  
+| bip_39_word_dash_6 | width-squeeze-lock-duty-slice-girl |  
+| bip_39_word_dash_7 | width-squeeze-lock-duty-slice-girl-share |  
+| bip_39_word_dash_8 | width-squeeze-lock-duty-slice-girl-share-repeat |  
+| bip_39_word_dash_9 | width-squeeze-lock-duty-slice-girl-share-repeat-century |  
 | bip_39_word_new_br_1 | width |  
 | bip_39_word_new_br_10 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat<br>century<br>kidney |  
 | bip_39_word_new_br_11 | width<br>squeeze<br>lock<br>duty<br>slice<br>girl<br>share<br>repeat<br>century<br>kidney<br>voice |  
@@ -147,6 +159,18 @@ century |
 | bip_39_word_space_7 | width squeeze lock duty slice girl share |  
 | bip_39_word_space_8 | width squeeze lock duty slice girl share repeat |  
 | bip_39_word_space_9 | width squeeze lock duty slice girl share repeat century |  
+| bip_39_word_underscore_1 | width |  
+| bip_39_word_underscore_10 | width_squeeze_lock_duty_slice_girl_share_repeat_century_kidney |  
+| bip_39_word_underscore_11 | width_squeeze_lock_duty_slice_girl_share_repeat_century_kidney_voice |  
+| bip_39_word_underscore_12 | width_squeeze_lock_duty_slice_girl_share_repeat_century_kidney_voice_alley |  
+| bip_39_word_underscore_2 | width_squeeze |  
+| bip_39_word_underscore_3 | width_squeeze_lock |  
+| bip_39_word_underscore_4 | width_squeeze_lock_duty |  
+| bip_39_word_underscore_5 | width_squeeze_lock_duty_slice |  
+| bip_39_word_underscore_6 | width_squeeze_lock_duty_slice_girl |  
+| bip_39_word_underscore_7 | width_squeeze_lock_duty_slice_girl_share |  
+| bip_39_word_underscore_8 | width_squeeze_lock_duty_slice_girl_share_repeat |  
+| bip_39_word_underscore_9 | width_squeeze_lock_duty_slice_girl_share_repeat_century |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

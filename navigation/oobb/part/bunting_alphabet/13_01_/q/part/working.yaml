@@ -1,3 +1,15 @@
+bip_39_word_dash_1: salt
+bip_39_word_dash_10: salt-walnut-oppose-evil-deer-list-giraffe-select-eyebrow-current
+bip_39_word_dash_11: salt-walnut-oppose-evil-deer-list-giraffe-select-eyebrow-current-fish
+bip_39_word_dash_12: salt-walnut-oppose-evil-deer-list-giraffe-select-eyebrow-current-fish-air
+bip_39_word_dash_2: salt-walnut
+bip_39_word_dash_3: salt-walnut-oppose
+bip_39_word_dash_4: salt-walnut-oppose-evil
+bip_39_word_dash_5: salt-walnut-oppose-evil-deer
+bip_39_word_dash_6: salt-walnut-oppose-evil-deer-list
+bip_39_word_dash_7: salt-walnut-oppose-evil-deer-list-giraffe
+bip_39_word_dash_8: salt-walnut-oppose-evil-deer-list-giraffe-select
+bip_39_word_dash_9: salt-walnut-oppose-evil-deer-list-giraffe-select-eyebrow
 bip_39_word_new_br_1: salt
 bip_39_word_new_br_10: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current
 bip_39_word_new_br_11: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current<br>fish
@@ -193,6 +205,18 @@ bip_39_word_space_6: salt walnut oppose evil deer list
 bip_39_word_space_7: salt walnut oppose evil deer list giraffe
 bip_39_word_space_8: salt walnut oppose evil deer list giraffe select
 bip_39_word_space_9: salt walnut oppose evil deer list giraffe select eyebrow
+bip_39_word_underscore_1: salt
+bip_39_word_underscore_10: salt_walnut_oppose_evil_deer_list_giraffe_select_eyebrow_current
+bip_39_word_underscore_11: salt_walnut_oppose_evil_deer_list_giraffe_select_eyebrow_current_fish
+bip_39_word_underscore_12: salt_walnut_oppose_evil_deer_list_giraffe_select_eyebrow_current_fish_air
+bip_39_word_underscore_2: salt_walnut
+bip_39_word_underscore_3: salt_walnut_oppose
+bip_39_word_underscore_4: salt_walnut_oppose_evil
+bip_39_word_underscore_5: salt_walnut_oppose_evil_deer
+bip_39_word_underscore_6: salt_walnut_oppose_evil_deer_list
+bip_39_word_underscore_7: salt_walnut_oppose_evil_deer_list_giraffe
+bip_39_word_underscore_8: salt_walnut_oppose_evil_deer_list_giraffe_select
+bip_39_word_underscore_9: salt_walnut_oppose_evil_deer_list_giraffe_select_eyebrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: soft
+bip_39_word_dash_10: soft-museum-clean-spirit-junk-walnut-brother-visit-milk-oak
+bip_39_word_dash_11: soft-museum-clean-spirit-junk-walnut-brother-visit-milk-oak-plunge
+bip_39_word_dash_12: soft-museum-clean-spirit-junk-walnut-brother-visit-milk-oak-plunge-armor
+bip_39_word_dash_2: soft-museum
+bip_39_word_dash_3: soft-museum-clean
+bip_39_word_dash_4: soft-museum-clean-spirit
+bip_39_word_dash_5: soft-museum-clean-spirit-junk
+bip_39_word_dash_6: soft-museum-clean-spirit-junk-walnut
+bip_39_word_dash_7: soft-museum-clean-spirit-junk-walnut-brother
+bip_39_word_dash_8: soft-museum-clean-spirit-junk-walnut-brother-visit
+bip_39_word_dash_9: soft-museum-clean-spirit-junk-walnut-brother-visit-milk
 bip_39_word_new_br_1: soft
 bip_39_word_new_br_10: soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit<br>milk<br>oak
 bip_39_word_new_br_11: soft<br>museum<br>clean<br>spirit<br>junk<br>walnut<br>brother<br>visit<br>milk<br>oak<br>plunge
@@ -193,6 +205,18 @@ bip_39_word_space_6: soft museum clean spirit junk walnut
 bip_39_word_space_7: soft museum clean spirit junk walnut brother
 bip_39_word_space_8: soft museum clean spirit junk walnut brother visit
 bip_39_word_space_9: soft museum clean spirit junk walnut brother visit milk
+bip_39_word_underscore_1: soft
+bip_39_word_underscore_10: soft_museum_clean_spirit_junk_walnut_brother_visit_milk_oak
+bip_39_word_underscore_11: soft_museum_clean_spirit_junk_walnut_brother_visit_milk_oak_plunge
+bip_39_word_underscore_12: soft_museum_clean_spirit_junk_walnut_brother_visit_milk_oak_plunge_armor
+bip_39_word_underscore_2: soft_museum
+bip_39_word_underscore_3: soft_museum_clean
+bip_39_word_underscore_4: soft_museum_clean_spirit
+bip_39_word_underscore_5: soft_museum_clean_spirit_junk
+bip_39_word_underscore_6: soft_museum_clean_spirit_junk_walnut
+bip_39_word_underscore_7: soft_museum_clean_spirit_junk_walnut_brother
+bip_39_word_underscore_8: soft_museum_clean_spirit_junk_walnut_brother_visit
+bip_39_word_underscore_9: soft_museum_clean_spirit_junk_walnut_brother_visit_milk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

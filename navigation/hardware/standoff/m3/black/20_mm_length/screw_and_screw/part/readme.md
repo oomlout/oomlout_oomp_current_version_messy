@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | patrol |  
+| bip_39_word_dash_10 | patrol-camera-target-model-sadness-illness-final-half-frame-guilt |  
+| bip_39_word_dash_11 | patrol-camera-target-model-sadness-illness-final-half-frame-guilt-bulk |  
+| bip_39_word_dash_12 | patrol-camera-target-model-sadness-illness-final-half-frame-guilt-bulk-answer |  
+| bip_39_word_dash_2 | patrol-camera |  
+| bip_39_word_dash_3 | patrol-camera-target |  
+| bip_39_word_dash_4 | patrol-camera-target-model |  
+| bip_39_word_dash_5 | patrol-camera-target-model-sadness |  
+| bip_39_word_dash_6 | patrol-camera-target-model-sadness-illness |  
+| bip_39_word_dash_7 | patrol-camera-target-model-sadness-illness-final |  
+| bip_39_word_dash_8 | patrol-camera-target-model-sadness-illness-final-half |  
+| bip_39_word_dash_9 | patrol-camera-target-model-sadness-illness-final-half-frame |  
 | bip_39_word_new_br_1 | patrol |  
 | bip_39_word_new_br_10 | patrol<br>camera<br>target<br>model<br>sadness<br>illness<br>final<br>half<br>frame<br>guilt |  
 | bip_39_word_new_br_11 | patrol<br>camera<br>target<br>model<br>sadness<br>illness<br>final<br>half<br>frame<br>guilt<br>bulk |  
@@ -147,6 +159,18 @@ frame |
 | bip_39_word_space_7 | patrol camera target model sadness illness final |  
 | bip_39_word_space_8 | patrol camera target model sadness illness final half |  
 | bip_39_word_space_9 | patrol camera target model sadness illness final half frame |  
+| bip_39_word_underscore_1 | patrol |  
+| bip_39_word_underscore_10 | patrol_camera_target_model_sadness_illness_final_half_frame_guilt |  
+| bip_39_word_underscore_11 | patrol_camera_target_model_sadness_illness_final_half_frame_guilt_bulk |  
+| bip_39_word_underscore_12 | patrol_camera_target_model_sadness_illness_final_half_frame_guilt_bulk_answer |  
+| bip_39_word_underscore_2 | patrol_camera |  
+| bip_39_word_underscore_3 | patrol_camera_target |  
+| bip_39_word_underscore_4 | patrol_camera_target_model |  
+| bip_39_word_underscore_5 | patrol_camera_target_model_sadness |  
+| bip_39_word_underscore_6 | patrol_camera_target_model_sadness_illness |  
+| bip_39_word_underscore_7 | patrol_camera_target_model_sadness_illness_final |  
+| bip_39_word_underscore_8 | patrol_camera_target_model_sadness_illness_final_half |  
+| bip_39_word_underscore_9 | patrol_camera_target_model_sadness_illness_final_half_frame |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

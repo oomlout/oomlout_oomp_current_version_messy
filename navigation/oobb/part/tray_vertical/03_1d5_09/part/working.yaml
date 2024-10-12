@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spike
+bip_39_word_dash_10: spike-tonight-sort-evoke-you-sock-aim-fitness-reward-doll
+bip_39_word_dash_11: spike-tonight-sort-evoke-you-sock-aim-fitness-reward-doll-game
+bip_39_word_dash_12: spike-tonight-sort-evoke-you-sock-aim-fitness-reward-doll-game-alley
+bip_39_word_dash_2: spike-tonight
+bip_39_word_dash_3: spike-tonight-sort
+bip_39_word_dash_4: spike-tonight-sort-evoke
+bip_39_word_dash_5: spike-tonight-sort-evoke-you
+bip_39_word_dash_6: spike-tonight-sort-evoke-you-sock
+bip_39_word_dash_7: spike-tonight-sort-evoke-you-sock-aim
+bip_39_word_dash_8: spike-tonight-sort-evoke-you-sock-aim-fitness
+bip_39_word_dash_9: spike-tonight-sort-evoke-you-sock-aim-fitness-reward
 bip_39_word_new_br_1: spike
 bip_39_word_new_br_10: spike<br>tonight<br>sort<br>evoke<br>you<br>sock<br>aim<br>fitness<br>reward<br>doll
 bip_39_word_new_br_11: spike<br>tonight<br>sort<br>evoke<br>you<br>sock<br>aim<br>fitness<br>reward<br>doll<br>game
@@ -192,6 +204,18 @@ bip_39_word_space_6: spike tonight sort evoke you sock
 bip_39_word_space_7: spike tonight sort evoke you sock aim
 bip_39_word_space_8: spike tonight sort evoke you sock aim fitness
 bip_39_word_space_9: spike tonight sort evoke you sock aim fitness reward
+bip_39_word_underscore_1: spike
+bip_39_word_underscore_10: spike_tonight_sort_evoke_you_sock_aim_fitness_reward_doll
+bip_39_word_underscore_11: spike_tonight_sort_evoke_you_sock_aim_fitness_reward_doll_game
+bip_39_word_underscore_12: spike_tonight_sort_evoke_you_sock_aim_fitness_reward_doll_game_alley
+bip_39_word_underscore_2: spike_tonight
+bip_39_word_underscore_3: spike_tonight_sort
+bip_39_word_underscore_4: spike_tonight_sort_evoke
+bip_39_word_underscore_5: spike_tonight_sort_evoke_you
+bip_39_word_underscore_6: spike_tonight_sort_evoke_you_sock
+bip_39_word_underscore_7: spike_tonight_sort_evoke_you_sock_aim
+bip_39_word_underscore_8: spike_tonight_sort_evoke_you_sock_aim_fitness
+bip_39_word_underscore_9: spike_tonight_sort_evoke_you_sock_aim_fitness_reward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

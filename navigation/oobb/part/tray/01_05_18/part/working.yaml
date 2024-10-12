@@ -1,3 +1,15 @@
+bip_39_word_dash_1: original
+bip_39_word_dash_10: original-country-fresh-glance-liar-outdoor-two-vintage-danger-remain
+bip_39_word_dash_11: original-country-fresh-glance-liar-outdoor-two-vintage-danger-remain-country
+bip_39_word_dash_12: original-country-fresh-glance-liar-outdoor-two-vintage-danger-remain-country-around
+bip_39_word_dash_2: original-country
+bip_39_word_dash_3: original-country-fresh
+bip_39_word_dash_4: original-country-fresh-glance
+bip_39_word_dash_5: original-country-fresh-glance-liar
+bip_39_word_dash_6: original-country-fresh-glance-liar-outdoor
+bip_39_word_dash_7: original-country-fresh-glance-liar-outdoor-two
+bip_39_word_dash_8: original-country-fresh-glance-liar-outdoor-two-vintage
+bip_39_word_dash_9: original-country-fresh-glance-liar-outdoor-two-vintage-danger
 bip_39_word_new_br_1: original
 bip_39_word_new_br_10: original<br>country<br>fresh<br>glance<br>liar<br>outdoor<br>two<br>vintage<br>danger<br>remain
 bip_39_word_new_br_11: original<br>country<br>fresh<br>glance<br>liar<br>outdoor<br>two<br>vintage<br>danger<br>remain<br>country
@@ -194,6 +206,18 @@ bip_39_word_space_6: original country fresh glance liar outdoor
 bip_39_word_space_7: original country fresh glance liar outdoor two
 bip_39_word_space_8: original country fresh glance liar outdoor two vintage
 bip_39_word_space_9: original country fresh glance liar outdoor two vintage danger
+bip_39_word_underscore_1: original
+bip_39_word_underscore_10: original_country_fresh_glance_liar_outdoor_two_vintage_danger_remain
+bip_39_word_underscore_11: original_country_fresh_glance_liar_outdoor_two_vintage_danger_remain_country
+bip_39_word_underscore_12: original_country_fresh_glance_liar_outdoor_two_vintage_danger_remain_country_around
+bip_39_word_underscore_2: original_country
+bip_39_word_underscore_3: original_country_fresh
+bip_39_word_underscore_4: original_country_fresh_glance
+bip_39_word_underscore_5: original_country_fresh_glance_liar
+bip_39_word_underscore_6: original_country_fresh_glance_liar_outdoor
+bip_39_word_underscore_7: original_country_fresh_glance_liar_outdoor_two
+bip_39_word_underscore_8: original_country_fresh_glance_liar_outdoor_two_vintage
+bip_39_word_underscore_9: original_country_fresh_glance_liar_outdoor_two_vintage_danger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

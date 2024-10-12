@@ -1,3 +1,15 @@
+bip_39_word_dash_1: art
+bip_39_word_dash_10: art-expand-trade-behave-when-transfer-amazing-distance-spring-win
+bip_39_word_dash_11: art-expand-trade-behave-when-transfer-amazing-distance-spring-win-divorce
+bip_39_word_dash_12: art-expand-trade-behave-when-transfer-amazing-distance-spring-win-divorce-alpha
+bip_39_word_dash_2: art-expand
+bip_39_word_dash_3: art-expand-trade
+bip_39_word_dash_4: art-expand-trade-behave
+bip_39_word_dash_5: art-expand-trade-behave-when
+bip_39_word_dash_6: art-expand-trade-behave-when-transfer
+bip_39_word_dash_7: art-expand-trade-behave-when-transfer-amazing
+bip_39_word_dash_8: art-expand-trade-behave-when-transfer-amazing-distance
+bip_39_word_dash_9: art-expand-trade-behave-when-transfer-amazing-distance-spring
 bip_39_word_new_br_1: art
 bip_39_word_new_br_10: art<br>expand<br>trade<br>behave<br>when<br>transfer<br>amazing<br>distance<br>spring<br>win
 bip_39_word_new_br_11: art<br>expand<br>trade<br>behave<br>when<br>transfer<br>amazing<br>distance<br>spring<br>win<br>divorce
@@ -194,6 +206,18 @@ bip_39_word_space_6: art expand trade behave when transfer
 bip_39_word_space_7: art expand trade behave when transfer amazing
 bip_39_word_space_8: art expand trade behave when transfer amazing distance
 bip_39_word_space_9: art expand trade behave when transfer amazing distance spring
+bip_39_word_underscore_1: art
+bip_39_word_underscore_10: art_expand_trade_behave_when_transfer_amazing_distance_spring_win
+bip_39_word_underscore_11: art_expand_trade_behave_when_transfer_amazing_distance_spring_win_divorce
+bip_39_word_underscore_12: art_expand_trade_behave_when_transfer_amazing_distance_spring_win_divorce_alpha
+bip_39_word_underscore_2: art_expand
+bip_39_word_underscore_3: art_expand_trade
+bip_39_word_underscore_4: art_expand_trade_behave
+bip_39_word_underscore_5: art_expand_trade_behave_when
+bip_39_word_underscore_6: art_expand_trade_behave_when_transfer
+bip_39_word_underscore_7: art_expand_trade_behave_when_transfer_amazing
+bip_39_word_underscore_8: art_expand_trade_behave_when_transfer_amazing_distance
+bip_39_word_underscore_9: art_expand_trade_behave_when_transfer_amazing_distance_spring
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

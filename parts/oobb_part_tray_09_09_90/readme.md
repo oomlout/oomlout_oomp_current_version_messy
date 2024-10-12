@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | price |  
+| bip_39_word_dash_10 | price-heavy-desk-venture-direct-angry-weapon-buddy-supreme-live |  
+| bip_39_word_dash_11 | price-heavy-desk-venture-direct-angry-weapon-buddy-supreme-live-dune |  
+| bip_39_word_dash_12 | price-heavy-desk-venture-direct-angry-weapon-buddy-supreme-live-dune-average |  
+| bip_39_word_dash_2 | price-heavy |  
+| bip_39_word_dash_3 | price-heavy-desk |  
+| bip_39_word_dash_4 | price-heavy-desk-venture |  
+| bip_39_word_dash_5 | price-heavy-desk-venture-direct |  
+| bip_39_word_dash_6 | price-heavy-desk-venture-direct-angry |  
+| bip_39_word_dash_7 | price-heavy-desk-venture-direct-angry-weapon |  
+| bip_39_word_dash_8 | price-heavy-desk-venture-direct-angry-weapon-buddy |  
+| bip_39_word_dash_9 | price-heavy-desk-venture-direct-angry-weapon-buddy-supreme |  
 | bip_39_word_new_br_1 | price |  
 | bip_39_word_new_br_10 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live |  
 | bip_39_word_new_br_11 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live<br>dune |  
@@ -147,6 +159,18 @@ supreme |
 | bip_39_word_space_7 | price heavy desk venture direct angry weapon |  
 | bip_39_word_space_8 | price heavy desk venture direct angry weapon buddy |  
 | bip_39_word_space_9 | price heavy desk venture direct angry weapon buddy supreme |  
+| bip_39_word_underscore_1 | price |  
+| bip_39_word_underscore_10 | price_heavy_desk_venture_direct_angry_weapon_buddy_supreme_live |  
+| bip_39_word_underscore_11 | price_heavy_desk_venture_direct_angry_weapon_buddy_supreme_live_dune |  
+| bip_39_word_underscore_12 | price_heavy_desk_venture_direct_angry_weapon_buddy_supreme_live_dune_average |  
+| bip_39_word_underscore_2 | price_heavy |  
+| bip_39_word_underscore_3 | price_heavy_desk |  
+| bip_39_word_underscore_4 | price_heavy_desk_venture |  
+| bip_39_word_underscore_5 | price_heavy_desk_venture_direct |  
+| bip_39_word_underscore_6 | price_heavy_desk_venture_direct_angry |  
+| bip_39_word_underscore_7 | price_heavy_desk_venture_direct_angry_weapon |  
+| bip_39_word_underscore_8 | price_heavy_desk_venture_direct_angry_weapon_buddy |  
+| bip_39_word_underscore_9 | price_heavy_desk_venture_direct_angry_weapon_buddy_supreme |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: require
+bip_39_word_dash_10: require-palm-smoke-island-walk-february-ramp-demand-curve-attract
+bip_39_word_dash_11: require-palm-smoke-island-walk-february-ramp-demand-curve-attract-patrol
+bip_39_word_dash_12: require-palm-smoke-island-walk-february-ramp-demand-curve-attract-patrol-advance
+bip_39_word_dash_2: require-palm
+bip_39_word_dash_3: require-palm-smoke
+bip_39_word_dash_4: require-palm-smoke-island
+bip_39_word_dash_5: require-palm-smoke-island-walk
+bip_39_word_dash_6: require-palm-smoke-island-walk-february
+bip_39_word_dash_7: require-palm-smoke-island-walk-february-ramp
+bip_39_word_dash_8: require-palm-smoke-island-walk-february-ramp-demand
+bip_39_word_dash_9: require-palm-smoke-island-walk-february-ramp-demand-curve
 bip_39_word_new_br_1: require
 bip_39_word_new_br_10: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand<br>curve<br>attract
 bip_39_word_new_br_11: require<br>palm<br>smoke<br>island<br>walk<br>february<br>ramp<br>demand<br>curve<br>attract<br>patrol
@@ -193,6 +205,18 @@ bip_39_word_space_6: require palm smoke island walk february
 bip_39_word_space_7: require palm smoke island walk february ramp
 bip_39_word_space_8: require palm smoke island walk february ramp demand
 bip_39_word_space_9: require palm smoke island walk february ramp demand curve
+bip_39_word_underscore_1: require
+bip_39_word_underscore_10: require_palm_smoke_island_walk_february_ramp_demand_curve_attract
+bip_39_word_underscore_11: require_palm_smoke_island_walk_february_ramp_demand_curve_attract_patrol
+bip_39_word_underscore_12: require_palm_smoke_island_walk_february_ramp_demand_curve_attract_patrol_advance
+bip_39_word_underscore_2: require_palm
+bip_39_word_underscore_3: require_palm_smoke
+bip_39_word_underscore_4: require_palm_smoke_island
+bip_39_word_underscore_5: require_palm_smoke_island_walk
+bip_39_word_underscore_6: require_palm_smoke_island_walk_february
+bip_39_word_underscore_7: require_palm_smoke_island_walk_february_ramp
+bip_39_word_underscore_8: require_palm_smoke_island_walk_february_ramp_demand
+bip_39_word_underscore_9: require_palm_smoke_island_walk_february_ramp_demand_curve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

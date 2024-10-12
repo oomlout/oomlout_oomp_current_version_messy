@@ -1,3 +1,15 @@
+bip_39_word_dash_1: frost
+bip_39_word_dash_10: frost-jazz-glove-west-boil-rival-maze-fancy-jar-random
+bip_39_word_dash_11: frost-jazz-glove-west-boil-rival-maze-fancy-jar-random-feed
+bip_39_word_dash_12: frost-jazz-glove-west-boil-rival-maze-fancy-jar-random-feed-artwork
+bip_39_word_dash_2: frost-jazz
+bip_39_word_dash_3: frost-jazz-glove
+bip_39_word_dash_4: frost-jazz-glove-west
+bip_39_word_dash_5: frost-jazz-glove-west-boil
+bip_39_word_dash_6: frost-jazz-glove-west-boil-rival
+bip_39_word_dash_7: frost-jazz-glove-west-boil-rival-maze
+bip_39_word_dash_8: frost-jazz-glove-west-boil-rival-maze-fancy
+bip_39_word_dash_9: frost-jazz-glove-west-boil-rival-maze-fancy-jar
 bip_39_word_new_br_1: frost
 bip_39_word_new_br_10: frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy<br>jar<br>random
 bip_39_word_new_br_11: frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy<br>jar<br>random<br>feed
@@ -192,6 +204,18 @@ bip_39_word_space_6: frost jazz glove west boil rival
 bip_39_word_space_7: frost jazz glove west boil rival maze
 bip_39_word_space_8: frost jazz glove west boil rival maze fancy
 bip_39_word_space_9: frost jazz glove west boil rival maze fancy jar
+bip_39_word_underscore_1: frost
+bip_39_word_underscore_10: frost_jazz_glove_west_boil_rival_maze_fancy_jar_random
+bip_39_word_underscore_11: frost_jazz_glove_west_boil_rival_maze_fancy_jar_random_feed
+bip_39_word_underscore_12: frost_jazz_glove_west_boil_rival_maze_fancy_jar_random_feed_artwork
+bip_39_word_underscore_2: frost_jazz
+bip_39_word_underscore_3: frost_jazz_glove
+bip_39_word_underscore_4: frost_jazz_glove_west
+bip_39_word_underscore_5: frost_jazz_glove_west_boil
+bip_39_word_underscore_6: frost_jazz_glove_west_boil_rival
+bip_39_word_underscore_7: frost_jazz_glove_west_boil_rival_maze
+bip_39_word_underscore_8: frost_jazz_glove_west_boil_rival_maze_fancy
+bip_39_word_underscore_9: frost_jazz_glove_west_boil_rival_maze_fancy_jar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

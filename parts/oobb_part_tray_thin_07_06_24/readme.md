@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fury |  
+| bip_39_word_dash_10 | fury-general-possible-canvas-text-island-false-rapid-nuclear-scatter |  
+| bip_39_word_dash_11 | fury-general-possible-canvas-text-island-false-rapid-nuclear-scatter-maid |  
+| bip_39_word_dash_12 | fury-general-possible-canvas-text-island-false-rapid-nuclear-scatter-maid-aspect |  
+| bip_39_word_dash_2 | fury-general |  
+| bip_39_word_dash_3 | fury-general-possible |  
+| bip_39_word_dash_4 | fury-general-possible-canvas |  
+| bip_39_word_dash_5 | fury-general-possible-canvas-text |  
+| bip_39_word_dash_6 | fury-general-possible-canvas-text-island |  
+| bip_39_word_dash_7 | fury-general-possible-canvas-text-island-false |  
+| bip_39_word_dash_8 | fury-general-possible-canvas-text-island-false-rapid |  
+| bip_39_word_dash_9 | fury-general-possible-canvas-text-island-false-rapid-nuclear |  
 | bip_39_word_new_br_1 | fury |  
 | bip_39_word_new_br_10 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter |  
 | bip_39_word_new_br_11 | fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter<br>maid |  
@@ -147,6 +159,18 @@ nuclear |
 | bip_39_word_space_7 | fury general possible canvas text island false |  
 | bip_39_word_space_8 | fury general possible canvas text island false rapid |  
 | bip_39_word_space_9 | fury general possible canvas text island false rapid nuclear |  
+| bip_39_word_underscore_1 | fury |  
+| bip_39_word_underscore_10 | fury_general_possible_canvas_text_island_false_rapid_nuclear_scatter |  
+| bip_39_word_underscore_11 | fury_general_possible_canvas_text_island_false_rapid_nuclear_scatter_maid |  
+| bip_39_word_underscore_12 | fury_general_possible_canvas_text_island_false_rapid_nuclear_scatter_maid_aspect |  
+| bip_39_word_underscore_2 | fury_general |  
+| bip_39_word_underscore_3 | fury_general_possible |  
+| bip_39_word_underscore_4 | fury_general_possible_canvas |  
+| bip_39_word_underscore_5 | fury_general_possible_canvas_text |  
+| bip_39_word_underscore_6 | fury_general_possible_canvas_text_island |  
+| bip_39_word_underscore_7 | fury_general_possible_canvas_text_island_false |  
+| bip_39_word_underscore_8 | fury_general_possible_canvas_text_island_false_rapid |  
+| bip_39_word_underscore_9 | fury_general_possible_canvas_text_island_false_rapid_nuclear |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

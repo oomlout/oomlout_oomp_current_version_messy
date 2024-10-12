@@ -1,3 +1,15 @@
+bip_39_word_dash_1: glue
+bip_39_word_dash_10: glue-visa-frost-slice-nurse-broccoli-sing-cradle-park-index
+bip_39_word_dash_11: glue-visa-frost-slice-nurse-broccoli-sing-cradle-park-index-pudding
+bip_39_word_dash_12: glue-visa-frost-slice-nurse-broccoli-sing-cradle-park-index-pudding-admit
+bip_39_word_dash_2: glue-visa
+bip_39_word_dash_3: glue-visa-frost
+bip_39_word_dash_4: glue-visa-frost-slice
+bip_39_word_dash_5: glue-visa-frost-slice-nurse
+bip_39_word_dash_6: glue-visa-frost-slice-nurse-broccoli
+bip_39_word_dash_7: glue-visa-frost-slice-nurse-broccoli-sing
+bip_39_word_dash_8: glue-visa-frost-slice-nurse-broccoli-sing-cradle
+bip_39_word_dash_9: glue-visa-frost-slice-nurse-broccoli-sing-cradle-park
 bip_39_word_new_br_1: glue
 bip_39_word_new_br_10: glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index
 bip_39_word_new_br_11: glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index<br>pudding
@@ -193,6 +205,18 @@ bip_39_word_space_6: glue visa frost slice nurse broccoli
 bip_39_word_space_7: glue visa frost slice nurse broccoli sing
 bip_39_word_space_8: glue visa frost slice nurse broccoli sing cradle
 bip_39_word_space_9: glue visa frost slice nurse broccoli sing cradle park
+bip_39_word_underscore_1: glue
+bip_39_word_underscore_10: glue_visa_frost_slice_nurse_broccoli_sing_cradle_park_index
+bip_39_word_underscore_11: glue_visa_frost_slice_nurse_broccoli_sing_cradle_park_index_pudding
+bip_39_word_underscore_12: glue_visa_frost_slice_nurse_broccoli_sing_cradle_park_index_pudding_admit
+bip_39_word_underscore_2: glue_visa
+bip_39_word_underscore_3: glue_visa_frost
+bip_39_word_underscore_4: glue_visa_frost_slice
+bip_39_word_underscore_5: glue_visa_frost_slice_nurse
+bip_39_word_underscore_6: glue_visa_frost_slice_nurse_broccoli
+bip_39_word_underscore_7: glue_visa_frost_slice_nurse_broccoli_sing
+bip_39_word_underscore_8: glue_visa_frost_slice_nurse_broccoli_sing_cradle
+bip_39_word_underscore_9: glue_visa_frost_slice_nurse_broccoli_sing_cradle_park
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

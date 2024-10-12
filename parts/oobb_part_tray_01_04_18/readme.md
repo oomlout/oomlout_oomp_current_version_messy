@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | library |  
+| bip_39_word_dash_10 | library-oak-teach-mail-slab-biology-vague-skirt-educate-rude |  
+| bip_39_word_dash_11 | library-oak-teach-mail-slab-biology-vague-skirt-educate-rude-length |  
+| bip_39_word_dash_12 | library-oak-teach-mail-slab-biology-vague-skirt-educate-rude-length-accident |  
+| bip_39_word_dash_2 | library-oak |  
+| bip_39_word_dash_3 | library-oak-teach |  
+| bip_39_word_dash_4 | library-oak-teach-mail |  
+| bip_39_word_dash_5 | library-oak-teach-mail-slab |  
+| bip_39_word_dash_6 | library-oak-teach-mail-slab-biology |  
+| bip_39_word_dash_7 | library-oak-teach-mail-slab-biology-vague |  
+| bip_39_word_dash_8 | library-oak-teach-mail-slab-biology-vague-skirt |  
+| bip_39_word_dash_9 | library-oak-teach-mail-slab-biology-vague-skirt-educate |  
 | bip_39_word_new_br_1 | library |  
 | bip_39_word_new_br_10 | library<br>oak<br>teach<br>mail<br>slab<br>biology<br>vague<br>skirt<br>educate<br>rude |  
 | bip_39_word_new_br_11 | library<br>oak<br>teach<br>mail<br>slab<br>biology<br>vague<br>skirt<br>educate<br>rude<br>length |  
@@ -147,6 +159,18 @@ educate |
 | bip_39_word_space_7 | library oak teach mail slab biology vague |  
 | bip_39_word_space_8 | library oak teach mail slab biology vague skirt |  
 | bip_39_word_space_9 | library oak teach mail slab biology vague skirt educate |  
+| bip_39_word_underscore_1 | library |  
+| bip_39_word_underscore_10 | library_oak_teach_mail_slab_biology_vague_skirt_educate_rude |  
+| bip_39_word_underscore_11 | library_oak_teach_mail_slab_biology_vague_skirt_educate_rude_length |  
+| bip_39_word_underscore_12 | library_oak_teach_mail_slab_biology_vague_skirt_educate_rude_length_accident |  
+| bip_39_word_underscore_2 | library_oak |  
+| bip_39_word_underscore_3 | library_oak_teach |  
+| bip_39_word_underscore_4 | library_oak_teach_mail |  
+| bip_39_word_underscore_5 | library_oak_teach_mail_slab |  
+| bip_39_word_underscore_6 | library_oak_teach_mail_slab_biology |  
+| bip_39_word_underscore_7 | library_oak_teach_mail_slab_biology_vague |  
+| bip_39_word_underscore_8 | library_oak_teach_mail_slab_biology_vague_skirt |  
+| bip_39_word_underscore_9 | library_oak_teach_mail_slab_biology_vague_skirt_educate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

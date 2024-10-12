@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toilet |  
+| bip_39_word_dash_10 | toilet-sense-cigar-whale-address-love-mosquito-silent-wait-field |  
+| bip_39_word_dash_11 | toilet-sense-cigar-whale-address-love-mosquito-silent-wait-field-know |  
+| bip_39_word_dash_12 | toilet-sense-cigar-whale-address-love-mosquito-silent-wait-field-know-act |  
+| bip_39_word_dash_2 | toilet-sense |  
+| bip_39_word_dash_3 | toilet-sense-cigar |  
+| bip_39_word_dash_4 | toilet-sense-cigar-whale |  
+| bip_39_word_dash_5 | toilet-sense-cigar-whale-address |  
+| bip_39_word_dash_6 | toilet-sense-cigar-whale-address-love |  
+| bip_39_word_dash_7 | toilet-sense-cigar-whale-address-love-mosquito |  
+| bip_39_word_dash_8 | toilet-sense-cigar-whale-address-love-mosquito-silent |  
+| bip_39_word_dash_9 | toilet-sense-cigar-whale-address-love-mosquito-silent-wait |  
 | bip_39_word_new_br_1 | toilet |  
 | bip_39_word_new_br_10 | toilet<br>sense<br>cigar<br>whale<br>address<br>love<br>mosquito<br>silent<br>wait<br>field |  
 | bip_39_word_new_br_11 | toilet<br>sense<br>cigar<br>whale<br>address<br>love<br>mosquito<br>silent<br>wait<br>field<br>know |  
@@ -147,6 +159,18 @@ wait |
 | bip_39_word_space_7 | toilet sense cigar whale address love mosquito |  
 | bip_39_word_space_8 | toilet sense cigar whale address love mosquito silent |  
 | bip_39_word_space_9 | toilet sense cigar whale address love mosquito silent wait |  
+| bip_39_word_underscore_1 | toilet |  
+| bip_39_word_underscore_10 | toilet_sense_cigar_whale_address_love_mosquito_silent_wait_field |  
+| bip_39_word_underscore_11 | toilet_sense_cigar_whale_address_love_mosquito_silent_wait_field_know |  
+| bip_39_word_underscore_12 | toilet_sense_cigar_whale_address_love_mosquito_silent_wait_field_know_act |  
+| bip_39_word_underscore_2 | toilet_sense |  
+| bip_39_word_underscore_3 | toilet_sense_cigar |  
+| bip_39_word_underscore_4 | toilet_sense_cigar_whale |  
+| bip_39_word_underscore_5 | toilet_sense_cigar_whale_address |  
+| bip_39_word_underscore_6 | toilet_sense_cigar_whale_address_love |  
+| bip_39_word_underscore_7 | toilet_sense_cigar_whale_address_love_mosquito |  
+| bip_39_word_underscore_8 | toilet_sense_cigar_whale_address_love_mosquito_silent |  
+| bip_39_word_underscore_9 | toilet_sense_cigar_whale_address_love_mosquito_silent_wait |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

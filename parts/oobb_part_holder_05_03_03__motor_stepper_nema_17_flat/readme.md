@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | evolve |  
+| bip_39_word_dash_10 | evolve-insect-shiver-cushion-duck-genuine-flash-cinnamon-duck-fiber |  
+| bip_39_word_dash_11 | evolve-insect-shiver-cushion-duck-genuine-flash-cinnamon-duck-fiber-seven |  
+| bip_39_word_dash_12 | evolve-insect-shiver-cushion-duck-genuine-flash-cinnamon-duck-fiber-seven-again |  
+| bip_39_word_dash_2 | evolve-insect |  
+| bip_39_word_dash_3 | evolve-insect-shiver |  
+| bip_39_word_dash_4 | evolve-insect-shiver-cushion |  
+| bip_39_word_dash_5 | evolve-insect-shiver-cushion-duck |  
+| bip_39_word_dash_6 | evolve-insect-shiver-cushion-duck-genuine |  
+| bip_39_word_dash_7 | evolve-insect-shiver-cushion-duck-genuine-flash |  
+| bip_39_word_dash_8 | evolve-insect-shiver-cushion-duck-genuine-flash-cinnamon |  
+| bip_39_word_dash_9 | evolve-insect-shiver-cushion-duck-genuine-flash-cinnamon-duck |  
 | bip_39_word_new_br_1 | evolve |  
 | bip_39_word_new_br_10 | evolve<br>insect<br>shiver<br>cushion<br>duck<br>genuine<br>flash<br>cinnamon<br>duck<br>fiber |  
 | bip_39_word_new_br_11 | evolve<br>insect<br>shiver<br>cushion<br>duck<br>genuine<br>flash<br>cinnamon<br>duck<br>fiber<br>seven |  
@@ -147,6 +159,18 @@ duck |
 | bip_39_word_space_7 | evolve insect shiver cushion duck genuine flash |  
 | bip_39_word_space_8 | evolve insect shiver cushion duck genuine flash cinnamon |  
 | bip_39_word_space_9 | evolve insect shiver cushion duck genuine flash cinnamon duck |  
+| bip_39_word_underscore_1 | evolve |  
+| bip_39_word_underscore_10 | evolve_insect_shiver_cushion_duck_genuine_flash_cinnamon_duck_fiber |  
+| bip_39_word_underscore_11 | evolve_insect_shiver_cushion_duck_genuine_flash_cinnamon_duck_fiber_seven |  
+| bip_39_word_underscore_12 | evolve_insect_shiver_cushion_duck_genuine_flash_cinnamon_duck_fiber_seven_again |  
+| bip_39_word_underscore_2 | evolve_insect |  
+| bip_39_word_underscore_3 | evolve_insect_shiver |  
+| bip_39_word_underscore_4 | evolve_insect_shiver_cushion |  
+| bip_39_word_underscore_5 | evolve_insect_shiver_cushion_duck |  
+| bip_39_word_underscore_6 | evolve_insect_shiver_cushion_duck_genuine |  
+| bip_39_word_underscore_7 | evolve_insect_shiver_cushion_duck_genuine_flash |  
+| bip_39_word_underscore_8 | evolve_insect_shiver_cushion_duck_genuine_flash_cinnamon |  
+| bip_39_word_underscore_9 | evolve_insect_shiver_cushion_duck_genuine_flash_cinnamon_duck |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

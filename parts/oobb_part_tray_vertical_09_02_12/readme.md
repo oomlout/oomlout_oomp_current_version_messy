@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bounce |  
+| bip_39_word_dash_10 | bounce-suffer-cover-pretty-quote-access-dismiss-pool-luggage-eight |  
+| bip_39_word_dash_11 | bounce-suffer-cover-pretty-quote-access-dismiss-pool-luggage-eight-invest |  
+| bip_39_word_dash_12 | bounce-suffer-cover-pretty-quote-access-dismiss-pool-luggage-eight-invest-admit |  
+| bip_39_word_dash_2 | bounce-suffer |  
+| bip_39_word_dash_3 | bounce-suffer-cover |  
+| bip_39_word_dash_4 | bounce-suffer-cover-pretty |  
+| bip_39_word_dash_5 | bounce-suffer-cover-pretty-quote |  
+| bip_39_word_dash_6 | bounce-suffer-cover-pretty-quote-access |  
+| bip_39_word_dash_7 | bounce-suffer-cover-pretty-quote-access-dismiss |  
+| bip_39_word_dash_8 | bounce-suffer-cover-pretty-quote-access-dismiss-pool |  
+| bip_39_word_dash_9 | bounce-suffer-cover-pretty-quote-access-dismiss-pool-luggage |  
 | bip_39_word_new_br_1 | bounce |  
 | bip_39_word_new_br_10 | bounce<br>suffer<br>cover<br>pretty<br>quote<br>access<br>dismiss<br>pool<br>luggage<br>eight |  
 | bip_39_word_new_br_11 | bounce<br>suffer<br>cover<br>pretty<br>quote<br>access<br>dismiss<br>pool<br>luggage<br>eight<br>invest |  
@@ -147,6 +159,18 @@ luggage |
 | bip_39_word_space_7 | bounce suffer cover pretty quote access dismiss |  
 | bip_39_word_space_8 | bounce suffer cover pretty quote access dismiss pool |  
 | bip_39_word_space_9 | bounce suffer cover pretty quote access dismiss pool luggage |  
+| bip_39_word_underscore_1 | bounce |  
+| bip_39_word_underscore_10 | bounce_suffer_cover_pretty_quote_access_dismiss_pool_luggage_eight |  
+| bip_39_word_underscore_11 | bounce_suffer_cover_pretty_quote_access_dismiss_pool_luggage_eight_invest |  
+| bip_39_word_underscore_12 | bounce_suffer_cover_pretty_quote_access_dismiss_pool_luggage_eight_invest_admit |  
+| bip_39_word_underscore_2 | bounce_suffer |  
+| bip_39_word_underscore_3 | bounce_suffer_cover |  
+| bip_39_word_underscore_4 | bounce_suffer_cover_pretty |  
+| bip_39_word_underscore_5 | bounce_suffer_cover_pretty_quote |  
+| bip_39_word_underscore_6 | bounce_suffer_cover_pretty_quote_access |  
+| bip_39_word_underscore_7 | bounce_suffer_cover_pretty_quote_access_dismiss |  
+| bip_39_word_underscore_8 | bounce_suffer_cover_pretty_quote_access_dismiss_pool |  
+| bip_39_word_underscore_9 | bounce_suffer_cover_pretty_quote_access_dismiss_pool_luggage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: police
+bip_39_word_dash_10: police-reward-cement-journey-witness-bid-art-erupt-kick-medal
+bip_39_word_dash_11: police-reward-cement-journey-witness-bid-art-erupt-kick-medal-warm
+bip_39_word_dash_12: police-reward-cement-journey-witness-bid-art-erupt-kick-medal-warm-assist
+bip_39_word_dash_2: police-reward
+bip_39_word_dash_3: police-reward-cement
+bip_39_word_dash_4: police-reward-cement-journey
+bip_39_word_dash_5: police-reward-cement-journey-witness
+bip_39_word_dash_6: police-reward-cement-journey-witness-bid
+bip_39_word_dash_7: police-reward-cement-journey-witness-bid-art
+bip_39_word_dash_8: police-reward-cement-journey-witness-bid-art-erupt
+bip_39_word_dash_9: police-reward-cement-journey-witness-bid-art-erupt-kick
 bip_39_word_new_br_1: police
 bip_39_word_new_br_10: police<br>reward<br>cement<br>journey<br>witness<br>bid<br>art<br>erupt<br>kick<br>medal
 bip_39_word_new_br_11: police<br>reward<br>cement<br>journey<br>witness<br>bid<br>art<br>erupt<br>kick<br>medal<br>warm
@@ -193,6 +205,18 @@ bip_39_word_space_6: police reward cement journey witness bid
 bip_39_word_space_7: police reward cement journey witness bid art
 bip_39_word_space_8: police reward cement journey witness bid art erupt
 bip_39_word_space_9: police reward cement journey witness bid art erupt kick
+bip_39_word_underscore_1: police
+bip_39_word_underscore_10: police_reward_cement_journey_witness_bid_art_erupt_kick_medal
+bip_39_word_underscore_11: police_reward_cement_journey_witness_bid_art_erupt_kick_medal_warm
+bip_39_word_underscore_12: police_reward_cement_journey_witness_bid_art_erupt_kick_medal_warm_assist
+bip_39_word_underscore_2: police_reward
+bip_39_word_underscore_3: police_reward_cement
+bip_39_word_underscore_4: police_reward_cement_journey
+bip_39_word_underscore_5: police_reward_cement_journey_witness
+bip_39_word_underscore_6: police_reward_cement_journey_witness_bid
+bip_39_word_underscore_7: police_reward_cement_journey_witness_bid_art
+bip_39_word_underscore_8: police_reward_cement_journey_witness_bid_art_erupt
+bip_39_word_underscore_9: police_reward_cement_journey_witness_bid_art_erupt_kick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

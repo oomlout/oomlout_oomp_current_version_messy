@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | early |  
+| bip_39_word_dash_10 | early-stable-crazy-slush-tip-domain-animal-farm-original-drill |  
+| bip_39_word_dash_11 | early-stable-crazy-slush-tip-domain-animal-farm-original-drill-orange |  
+| bip_39_word_dash_12 | early-stable-crazy-slush-tip-domain-animal-farm-original-drill-orange-attend |  
+| bip_39_word_dash_2 | early-stable |  
+| bip_39_word_dash_3 | early-stable-crazy |  
+| bip_39_word_dash_4 | early-stable-crazy-slush |  
+| bip_39_word_dash_5 | early-stable-crazy-slush-tip |  
+| bip_39_word_dash_6 | early-stable-crazy-slush-tip-domain |  
+| bip_39_word_dash_7 | early-stable-crazy-slush-tip-domain-animal |  
+| bip_39_word_dash_8 | early-stable-crazy-slush-tip-domain-animal-farm |  
+| bip_39_word_dash_9 | early-stable-crazy-slush-tip-domain-animal-farm-original |  
 | bip_39_word_new_br_1 | early |  
 | bip_39_word_new_br_10 | early<br>stable<br>crazy<br>slush<br>tip<br>domain<br>animal<br>farm<br>original<br>drill |  
 | bip_39_word_new_br_11 | early<br>stable<br>crazy<br>slush<br>tip<br>domain<br>animal<br>farm<br>original<br>drill<br>orange |  
@@ -147,6 +159,18 @@ original |
 | bip_39_word_space_7 | early stable crazy slush tip domain animal |  
 | bip_39_word_space_8 | early stable crazy slush tip domain animal farm |  
 | bip_39_word_space_9 | early stable crazy slush tip domain animal farm original |  
+| bip_39_word_underscore_1 | early |  
+| bip_39_word_underscore_10 | early_stable_crazy_slush_tip_domain_animal_farm_original_drill |  
+| bip_39_word_underscore_11 | early_stable_crazy_slush_tip_domain_animal_farm_original_drill_orange |  
+| bip_39_word_underscore_12 | early_stable_crazy_slush_tip_domain_animal_farm_original_drill_orange_attend |  
+| bip_39_word_underscore_2 | early_stable |  
+| bip_39_word_underscore_3 | early_stable_crazy |  
+| bip_39_word_underscore_4 | early_stable_crazy_slush |  
+| bip_39_word_underscore_5 | early_stable_crazy_slush_tip |  
+| bip_39_word_underscore_6 | early_stable_crazy_slush_tip_domain |  
+| bip_39_word_underscore_7 | early_stable_crazy_slush_tip_domain_animal |  
+| bip_39_word_underscore_8 | early_stable_crazy_slush_tip_domain_animal_farm |  
+| bip_39_word_underscore_9 | early_stable_crazy_slush_tip_domain_animal_farm_original |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

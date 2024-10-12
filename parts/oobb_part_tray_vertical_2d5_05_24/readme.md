@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | smile |  
+| bip_39_word_dash_10 | smile-veteran-three-grid-fatigue-afraid-only-forget-nominee-depend |  
+| bip_39_word_dash_11 | smile-veteran-three-grid-fatigue-afraid-only-forget-nominee-depend-cable |  
+| bip_39_word_dash_12 | smile-veteran-three-grid-fatigue-afraid-only-forget-nominee-depend-cable-asset |  
+| bip_39_word_dash_2 | smile-veteran |  
+| bip_39_word_dash_3 | smile-veteran-three |  
+| bip_39_word_dash_4 | smile-veteran-three-grid |  
+| bip_39_word_dash_5 | smile-veteran-three-grid-fatigue |  
+| bip_39_word_dash_6 | smile-veteran-three-grid-fatigue-afraid |  
+| bip_39_word_dash_7 | smile-veteran-three-grid-fatigue-afraid-only |  
+| bip_39_word_dash_8 | smile-veteran-three-grid-fatigue-afraid-only-forget |  
+| bip_39_word_dash_9 | smile-veteran-three-grid-fatigue-afraid-only-forget-nominee |  
 | bip_39_word_new_br_1 | smile |  
 | bip_39_word_new_br_10 | smile<br>veteran<br>three<br>grid<br>fatigue<br>afraid<br>only<br>forget<br>nominee<br>depend |  
 | bip_39_word_new_br_11 | smile<br>veteran<br>three<br>grid<br>fatigue<br>afraid<br>only<br>forget<br>nominee<br>depend<br>cable |  
@@ -147,6 +159,18 @@ nominee |
 | bip_39_word_space_7 | smile veteran three grid fatigue afraid only |  
 | bip_39_word_space_8 | smile veteran three grid fatigue afraid only forget |  
 | bip_39_word_space_9 | smile veteran three grid fatigue afraid only forget nominee |  
+| bip_39_word_underscore_1 | smile |  
+| bip_39_word_underscore_10 | smile_veteran_three_grid_fatigue_afraid_only_forget_nominee_depend |  
+| bip_39_word_underscore_11 | smile_veteran_three_grid_fatigue_afraid_only_forget_nominee_depend_cable |  
+| bip_39_word_underscore_12 | smile_veteran_three_grid_fatigue_afraid_only_forget_nominee_depend_cable_asset |  
+| bip_39_word_underscore_2 | smile_veteran |  
+| bip_39_word_underscore_3 | smile_veteran_three |  
+| bip_39_word_underscore_4 | smile_veteran_three_grid |  
+| bip_39_word_underscore_5 | smile_veteran_three_grid_fatigue |  
+| bip_39_word_underscore_6 | smile_veteran_three_grid_fatigue_afraid |  
+| bip_39_word_underscore_7 | smile_veteran_three_grid_fatigue_afraid_only |  
+| bip_39_word_underscore_8 | smile_veteran_three_grid_fatigue_afraid_only_forget |  
+| bip_39_word_underscore_9 | smile_veteran_three_grid_fatigue_afraid_only_forget_nominee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

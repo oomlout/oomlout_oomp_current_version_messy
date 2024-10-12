@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | heart |  
+| bip_39_word_dash_10 | heart-fossil-tone-inspire-fat-echo-bridge-like-ginger-write |  
+| bip_39_word_dash_11 | heart-fossil-tone-inspire-fat-echo-bridge-like-ginger-write-resemble |  
+| bip_39_word_dash_12 | heart-fossil-tone-inspire-fat-echo-bridge-like-ginger-write-resemble-asset |  
+| bip_39_word_dash_2 | heart-fossil |  
+| bip_39_word_dash_3 | heart-fossil-tone |  
+| bip_39_word_dash_4 | heart-fossil-tone-inspire |  
+| bip_39_word_dash_5 | heart-fossil-tone-inspire-fat |  
+| bip_39_word_dash_6 | heart-fossil-tone-inspire-fat-echo |  
+| bip_39_word_dash_7 | heart-fossil-tone-inspire-fat-echo-bridge |  
+| bip_39_word_dash_8 | heart-fossil-tone-inspire-fat-echo-bridge-like |  
+| bip_39_word_dash_9 | heart-fossil-tone-inspire-fat-echo-bridge-like-ginger |  
 | bip_39_word_new_br_1 | heart |  
 | bip_39_word_new_br_10 | heart<br>fossil<br>tone<br>inspire<br>fat<br>echo<br>bridge<br>like<br>ginger<br>write |  
 | bip_39_word_new_br_11 | heart<br>fossil<br>tone<br>inspire<br>fat<br>echo<br>bridge<br>like<br>ginger<br>write<br>resemble |  
@@ -147,6 +159,18 @@ ginger |
 | bip_39_word_space_7 | heart fossil tone inspire fat echo bridge |  
 | bip_39_word_space_8 | heart fossil tone inspire fat echo bridge like |  
 | bip_39_word_space_9 | heart fossil tone inspire fat echo bridge like ginger |  
+| bip_39_word_underscore_1 | heart |  
+| bip_39_word_underscore_10 | heart_fossil_tone_inspire_fat_echo_bridge_like_ginger_write |  
+| bip_39_word_underscore_11 | heart_fossil_tone_inspire_fat_echo_bridge_like_ginger_write_resemble |  
+| bip_39_word_underscore_12 | heart_fossil_tone_inspire_fat_echo_bridge_like_ginger_write_resemble_asset |  
+| bip_39_word_underscore_2 | heart_fossil |  
+| bip_39_word_underscore_3 | heart_fossil_tone |  
+| bip_39_word_underscore_4 | heart_fossil_tone_inspire |  
+| bip_39_word_underscore_5 | heart_fossil_tone_inspire_fat |  
+| bip_39_word_underscore_6 | heart_fossil_tone_inspire_fat_echo |  
+| bip_39_word_underscore_7 | heart_fossil_tone_inspire_fat_echo_bridge |  
+| bip_39_word_underscore_8 | heart_fossil_tone_inspire_fat_echo_bridge_like |  
+| bip_39_word_underscore_9 | heart_fossil_tone_inspire_fat_echo_bridge_like_ginger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

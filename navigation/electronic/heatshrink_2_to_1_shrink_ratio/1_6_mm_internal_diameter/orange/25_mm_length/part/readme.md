@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | simple |  
+| bip_39_word_dash_10 | simple-account-toddler-wisdom-body-dice-reward-potato-near-tennis |  
+| bip_39_word_dash_11 | simple-account-toddler-wisdom-body-dice-reward-potato-near-tennis-inch |  
+| bip_39_word_dash_12 | simple-account-toddler-wisdom-body-dice-reward-potato-near-tennis-inch-alcohol |  
+| bip_39_word_dash_2 | simple-account |  
+| bip_39_word_dash_3 | simple-account-toddler |  
+| bip_39_word_dash_4 | simple-account-toddler-wisdom |  
+| bip_39_word_dash_5 | simple-account-toddler-wisdom-body |  
+| bip_39_word_dash_6 | simple-account-toddler-wisdom-body-dice |  
+| bip_39_word_dash_7 | simple-account-toddler-wisdom-body-dice-reward |  
+| bip_39_word_dash_8 | simple-account-toddler-wisdom-body-dice-reward-potato |  
+| bip_39_word_dash_9 | simple-account-toddler-wisdom-body-dice-reward-potato-near |  
 | bip_39_word_new_br_1 | simple |  
 | bip_39_word_new_br_10 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis |  
 | bip_39_word_new_br_11 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis<br>inch |  
@@ -147,6 +159,18 @@ near |
 | bip_39_word_space_7 | simple account toddler wisdom body dice reward |  
 | bip_39_word_space_8 | simple account toddler wisdom body dice reward potato |  
 | bip_39_word_space_9 | simple account toddler wisdom body dice reward potato near |  
+| bip_39_word_underscore_1 | simple |  
+| bip_39_word_underscore_10 | simple_account_toddler_wisdom_body_dice_reward_potato_near_tennis |  
+| bip_39_word_underscore_11 | simple_account_toddler_wisdom_body_dice_reward_potato_near_tennis_inch |  
+| bip_39_word_underscore_12 | simple_account_toddler_wisdom_body_dice_reward_potato_near_tennis_inch_alcohol |  
+| bip_39_word_underscore_2 | simple_account |  
+| bip_39_word_underscore_3 | simple_account_toddler |  
+| bip_39_word_underscore_4 | simple_account_toddler_wisdom |  
+| bip_39_word_underscore_5 | simple_account_toddler_wisdom_body |  
+| bip_39_word_underscore_6 | simple_account_toddler_wisdom_body_dice |  
+| bip_39_word_underscore_7 | simple_account_toddler_wisdom_body_dice_reward |  
+| bip_39_word_underscore_8 | simple_account_toddler_wisdom_body_dice_reward_potato |  
+| bip_39_word_underscore_9 | simple_account_toddler_wisdom_body_dice_reward_potato_near |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

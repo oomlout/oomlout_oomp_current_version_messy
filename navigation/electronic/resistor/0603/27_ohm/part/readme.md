@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | muffin |  
+| bip_39_word_dash_10 | muffin-guard-giggle-cross-alarm-zebra-lion-cinnamon-crazy-february |  
+| bip_39_word_dash_11 | muffin-guard-giggle-cross-alarm-zebra-lion-cinnamon-crazy-february-slab |  
+| bip_39_word_dash_12 | muffin-guard-giggle-cross-alarm-zebra-lion-cinnamon-crazy-february-slab-atom |  
+| bip_39_word_dash_2 | muffin-guard |  
+| bip_39_word_dash_3 | muffin-guard-giggle |  
+| bip_39_word_dash_4 | muffin-guard-giggle-cross |  
+| bip_39_word_dash_5 | muffin-guard-giggle-cross-alarm |  
+| bip_39_word_dash_6 | muffin-guard-giggle-cross-alarm-zebra |  
+| bip_39_word_dash_7 | muffin-guard-giggle-cross-alarm-zebra-lion |  
+| bip_39_word_dash_8 | muffin-guard-giggle-cross-alarm-zebra-lion-cinnamon |  
+| bip_39_word_dash_9 | muffin-guard-giggle-cross-alarm-zebra-lion-cinnamon-crazy |  
 | bip_39_word_new_br_1 | muffin |  
 | bip_39_word_new_br_10 | muffin<br>guard<br>giggle<br>cross<br>alarm<br>zebra<br>lion<br>cinnamon<br>crazy<br>february |  
 | bip_39_word_new_br_11 | muffin<br>guard<br>giggle<br>cross<br>alarm<br>zebra<br>lion<br>cinnamon<br>crazy<br>february<br>slab |  
@@ -147,6 +159,18 @@ crazy |
 | bip_39_word_space_7 | muffin guard giggle cross alarm zebra lion |  
 | bip_39_word_space_8 | muffin guard giggle cross alarm zebra lion cinnamon |  
 | bip_39_word_space_9 | muffin guard giggle cross alarm zebra lion cinnamon crazy |  
+| bip_39_word_underscore_1 | muffin |  
+| bip_39_word_underscore_10 | muffin_guard_giggle_cross_alarm_zebra_lion_cinnamon_crazy_february |  
+| bip_39_word_underscore_11 | muffin_guard_giggle_cross_alarm_zebra_lion_cinnamon_crazy_february_slab |  
+| bip_39_word_underscore_12 | muffin_guard_giggle_cross_alarm_zebra_lion_cinnamon_crazy_february_slab_atom |  
+| bip_39_word_underscore_2 | muffin_guard |  
+| bip_39_word_underscore_3 | muffin_guard_giggle |  
+| bip_39_word_underscore_4 | muffin_guard_giggle_cross |  
+| bip_39_word_underscore_5 | muffin_guard_giggle_cross_alarm |  
+| bip_39_word_underscore_6 | muffin_guard_giggle_cross_alarm_zebra |  
+| bip_39_word_underscore_7 | muffin_guard_giggle_cross_alarm_zebra_lion |  
+| bip_39_word_underscore_8 | muffin_guard_giggle_cross_alarm_zebra_lion_cinnamon |  
+| bip_39_word_underscore_9 | muffin_guard_giggle_cross_alarm_zebra_lion_cinnamon_crazy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

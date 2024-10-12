@@ -1,3 +1,15 @@
+bip_39_word_dash_1: always
+bip_39_word_dash_10: always-panel-select-vintage-rigid-friend-canoe-put-hurdle-render
+bip_39_word_dash_11: always-panel-select-vintage-rigid-friend-canoe-put-hurdle-render-bike
+bip_39_word_dash_12: always-panel-select-vintage-rigid-friend-canoe-put-hurdle-render-bike-antique
+bip_39_word_dash_2: always-panel
+bip_39_word_dash_3: always-panel-select
+bip_39_word_dash_4: always-panel-select-vintage
+bip_39_word_dash_5: always-panel-select-vintage-rigid
+bip_39_word_dash_6: always-panel-select-vintage-rigid-friend
+bip_39_word_dash_7: always-panel-select-vintage-rigid-friend-canoe
+bip_39_word_dash_8: always-panel-select-vintage-rigid-friend-canoe-put
+bip_39_word_dash_9: always-panel-select-vintage-rigid-friend-canoe-put-hurdle
 bip_39_word_new_br_1: always
 bip_39_word_new_br_10: always<br>panel<br>select<br>vintage<br>rigid<br>friend<br>canoe<br>put<br>hurdle<br>render
 bip_39_word_new_br_11: always<br>panel<br>select<br>vintage<br>rigid<br>friend<br>canoe<br>put<br>hurdle<br>render<br>bike
@@ -193,6 +205,18 @@ bip_39_word_space_6: always panel select vintage rigid friend
 bip_39_word_space_7: always panel select vintage rigid friend canoe
 bip_39_word_space_8: always panel select vintage rigid friend canoe put
 bip_39_word_space_9: always panel select vintage rigid friend canoe put hurdle
+bip_39_word_underscore_1: always
+bip_39_word_underscore_10: always_panel_select_vintage_rigid_friend_canoe_put_hurdle_render
+bip_39_word_underscore_11: always_panel_select_vintage_rigid_friend_canoe_put_hurdle_render_bike
+bip_39_word_underscore_12: always_panel_select_vintage_rigid_friend_canoe_put_hurdle_render_bike_antique
+bip_39_word_underscore_2: always_panel
+bip_39_word_underscore_3: always_panel_select
+bip_39_word_underscore_4: always_panel_select_vintage
+bip_39_word_underscore_5: always_panel_select_vintage_rigid
+bip_39_word_underscore_6: always_panel_select_vintage_rigid_friend
+bip_39_word_underscore_7: always_panel_select_vintage_rigid_friend_canoe
+bip_39_word_underscore_8: always_panel_select_vintage_rigid_friend_canoe_put
+bip_39_word_underscore_9: always_panel_select_vintage_rigid_friend_canoe_put_hurdle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

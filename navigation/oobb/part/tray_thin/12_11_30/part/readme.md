@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hello |  
+| bip_39_word_dash_10 | hello-word-obscure-umbrella-category-trap-injury-catalog-abstract-bargain |  
+| bip_39_word_dash_11 | hello-word-obscure-umbrella-category-trap-injury-catalog-abstract-bargain-grief |  
+| bip_39_word_dash_12 | hello-word-obscure-umbrella-category-trap-injury-catalog-abstract-bargain-grief-add |  
+| bip_39_word_dash_2 | hello-word |  
+| bip_39_word_dash_3 | hello-word-obscure |  
+| bip_39_word_dash_4 | hello-word-obscure-umbrella |  
+| bip_39_word_dash_5 | hello-word-obscure-umbrella-category |  
+| bip_39_word_dash_6 | hello-word-obscure-umbrella-category-trap |  
+| bip_39_word_dash_7 | hello-word-obscure-umbrella-category-trap-injury |  
+| bip_39_word_dash_8 | hello-word-obscure-umbrella-category-trap-injury-catalog |  
+| bip_39_word_dash_9 | hello-word-obscure-umbrella-category-trap-injury-catalog-abstract |  
 | bip_39_word_new_br_1 | hello |  
 | bip_39_word_new_br_10 | hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog<br>abstract<br>bargain |  
 | bip_39_word_new_br_11 | hello<br>word<br>obscure<br>umbrella<br>category<br>trap<br>injury<br>catalog<br>abstract<br>bargain<br>grief |  
@@ -147,6 +159,18 @@ abstract |
 | bip_39_word_space_7 | hello word obscure umbrella category trap injury |  
 | bip_39_word_space_8 | hello word obscure umbrella category trap injury catalog |  
 | bip_39_word_space_9 | hello word obscure umbrella category trap injury catalog abstract |  
+| bip_39_word_underscore_1 | hello |  
+| bip_39_word_underscore_10 | hello_word_obscure_umbrella_category_trap_injury_catalog_abstract_bargain |  
+| bip_39_word_underscore_11 | hello_word_obscure_umbrella_category_trap_injury_catalog_abstract_bargain_grief |  
+| bip_39_word_underscore_12 | hello_word_obscure_umbrella_category_trap_injury_catalog_abstract_bargain_grief_add |  
+| bip_39_word_underscore_2 | hello_word |  
+| bip_39_word_underscore_3 | hello_word_obscure |  
+| bip_39_word_underscore_4 | hello_word_obscure_umbrella |  
+| bip_39_word_underscore_5 | hello_word_obscure_umbrella_category |  
+| bip_39_word_underscore_6 | hello_word_obscure_umbrella_category_trap |  
+| bip_39_word_underscore_7 | hello_word_obscure_umbrella_category_trap_injury |  
+| bip_39_word_underscore_8 | hello_word_obscure_umbrella_category_trap_injury_catalog |  
+| bip_39_word_underscore_9 | hello_word_obscure_umbrella_category_trap_injury_catalog_abstract |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

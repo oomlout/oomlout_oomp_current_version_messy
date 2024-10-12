@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | border |  
+| bip_39_word_dash_10 | border-such-cloud-doctor-bench-vintage-clerk-near-wasp-liar |  
+| bip_39_word_dash_11 | border-such-cloud-doctor-bench-vintage-clerk-near-wasp-liar-swear |  
+| bip_39_word_dash_12 | border-such-cloud-doctor-bench-vintage-clerk-near-wasp-liar-swear-among |  
+| bip_39_word_dash_2 | border-such |  
+| bip_39_word_dash_3 | border-such-cloud |  
+| bip_39_word_dash_4 | border-such-cloud-doctor |  
+| bip_39_word_dash_5 | border-such-cloud-doctor-bench |  
+| bip_39_word_dash_6 | border-such-cloud-doctor-bench-vintage |  
+| bip_39_word_dash_7 | border-such-cloud-doctor-bench-vintage-clerk |  
+| bip_39_word_dash_8 | border-such-cloud-doctor-bench-vintage-clerk-near |  
+| bip_39_word_dash_9 | border-such-cloud-doctor-bench-vintage-clerk-near-wasp |  
 | bip_39_word_new_br_1 | border |  
 | bip_39_word_new_br_10 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar |  
 | bip_39_word_new_br_11 | border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar<br>swear |  
@@ -147,6 +159,18 @@ wasp |
 | bip_39_word_space_7 | border such cloud doctor bench vintage clerk |  
 | bip_39_word_space_8 | border such cloud doctor bench vintage clerk near |  
 | bip_39_word_space_9 | border such cloud doctor bench vintage clerk near wasp |  
+| bip_39_word_underscore_1 | border |  
+| bip_39_word_underscore_10 | border_such_cloud_doctor_bench_vintage_clerk_near_wasp_liar |  
+| bip_39_word_underscore_11 | border_such_cloud_doctor_bench_vintage_clerk_near_wasp_liar_swear |  
+| bip_39_word_underscore_12 | border_such_cloud_doctor_bench_vintage_clerk_near_wasp_liar_swear_among |  
+| bip_39_word_underscore_2 | border_such |  
+| bip_39_word_underscore_3 | border_such_cloud |  
+| bip_39_word_underscore_4 | border_such_cloud_doctor |  
+| bip_39_word_underscore_5 | border_such_cloud_doctor_bench |  
+| bip_39_word_underscore_6 | border_such_cloud_doctor_bench_vintage |  
+| bip_39_word_underscore_7 | border_such_cloud_doctor_bench_vintage_clerk |  
+| bip_39_word_underscore_8 | border_such_cloud_doctor_bench_vintage_clerk_near |  
+| bip_39_word_underscore_9 | border_such_cloud_doctor_bench_vintage_clerk_near_wasp |  
 | classification | mechanical |  
 | classification_capital | Mechanical |  
 | classification_first_letter | m |  

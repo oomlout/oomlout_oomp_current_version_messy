@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scheme |  
+| bip_39_word_dash_10 | scheme-onion-execute-vanish-blood-cream-zebra-scene-visit-point |  
+| bip_39_word_dash_11 | scheme-onion-execute-vanish-blood-cream-zebra-scene-visit-point-forward |  
+| bip_39_word_dash_12 | scheme-onion-execute-vanish-blood-cream-zebra-scene-visit-point-forward-alter |  
+| bip_39_word_dash_2 | scheme-onion |  
+| bip_39_word_dash_3 | scheme-onion-execute |  
+| bip_39_word_dash_4 | scheme-onion-execute-vanish |  
+| bip_39_word_dash_5 | scheme-onion-execute-vanish-blood |  
+| bip_39_word_dash_6 | scheme-onion-execute-vanish-blood-cream |  
+| bip_39_word_dash_7 | scheme-onion-execute-vanish-blood-cream-zebra |  
+| bip_39_word_dash_8 | scheme-onion-execute-vanish-blood-cream-zebra-scene |  
+| bip_39_word_dash_9 | scheme-onion-execute-vanish-blood-cream-zebra-scene-visit |  
 | bip_39_word_new_br_1 | scheme |  
 | bip_39_word_new_br_10 | scheme<br>onion<br>execute<br>vanish<br>blood<br>cream<br>zebra<br>scene<br>visit<br>point |  
 | bip_39_word_new_br_11 | scheme<br>onion<br>execute<br>vanish<br>blood<br>cream<br>zebra<br>scene<br>visit<br>point<br>forward |  
@@ -147,6 +159,18 @@ visit |
 | bip_39_word_space_7 | scheme onion execute vanish blood cream zebra |  
 | bip_39_word_space_8 | scheme onion execute vanish blood cream zebra scene |  
 | bip_39_word_space_9 | scheme onion execute vanish blood cream zebra scene visit |  
+| bip_39_word_underscore_1 | scheme |  
+| bip_39_word_underscore_10 | scheme_onion_execute_vanish_blood_cream_zebra_scene_visit_point |  
+| bip_39_word_underscore_11 | scheme_onion_execute_vanish_blood_cream_zebra_scene_visit_point_forward |  
+| bip_39_word_underscore_12 | scheme_onion_execute_vanish_blood_cream_zebra_scene_visit_point_forward_alter |  
+| bip_39_word_underscore_2 | scheme_onion |  
+| bip_39_word_underscore_3 | scheme_onion_execute |  
+| bip_39_word_underscore_4 | scheme_onion_execute_vanish |  
+| bip_39_word_underscore_5 | scheme_onion_execute_vanish_blood |  
+| bip_39_word_underscore_6 | scheme_onion_execute_vanish_blood_cream |  
+| bip_39_word_underscore_7 | scheme_onion_execute_vanish_blood_cream_zebra |  
+| bip_39_word_underscore_8 | scheme_onion_execute_vanish_blood_cream_zebra_scene |  
+| bip_39_word_underscore_9 | scheme_onion_execute_vanish_blood_cream_zebra_scene_visit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

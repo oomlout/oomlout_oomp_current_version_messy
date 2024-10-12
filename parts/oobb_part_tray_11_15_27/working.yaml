@@ -1,3 +1,15 @@
+bip_39_word_dash_1: visit
+bip_39_word_dash_10: visit-little-steel-today-club-vault-envelope-drift-cinnamon-decrease
+bip_39_word_dash_11: visit-little-steel-today-club-vault-envelope-drift-cinnamon-decrease-venture
+bip_39_word_dash_12: visit-little-steel-today-club-vault-envelope-drift-cinnamon-decrease-venture-argue
+bip_39_word_dash_2: visit-little
+bip_39_word_dash_3: visit-little-steel
+bip_39_word_dash_4: visit-little-steel-today
+bip_39_word_dash_5: visit-little-steel-today-club
+bip_39_word_dash_6: visit-little-steel-today-club-vault
+bip_39_word_dash_7: visit-little-steel-today-club-vault-envelope
+bip_39_word_dash_8: visit-little-steel-today-club-vault-envelope-drift
+bip_39_word_dash_9: visit-little-steel-today-club-vault-envelope-drift-cinnamon
 bip_39_word_new_br_1: visit
 bip_39_word_new_br_10: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease
 bip_39_word_new_br_11: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease<br>venture
@@ -194,6 +206,18 @@ bip_39_word_space_6: visit little steel today club vault
 bip_39_word_space_7: visit little steel today club vault envelope
 bip_39_word_space_8: visit little steel today club vault envelope drift
 bip_39_word_space_9: visit little steel today club vault envelope drift cinnamon
+bip_39_word_underscore_1: visit
+bip_39_word_underscore_10: visit_little_steel_today_club_vault_envelope_drift_cinnamon_decrease
+bip_39_word_underscore_11: visit_little_steel_today_club_vault_envelope_drift_cinnamon_decrease_venture
+bip_39_word_underscore_12: visit_little_steel_today_club_vault_envelope_drift_cinnamon_decrease_venture_argue
+bip_39_word_underscore_2: visit_little
+bip_39_word_underscore_3: visit_little_steel
+bip_39_word_underscore_4: visit_little_steel_today
+bip_39_word_underscore_5: visit_little_steel_today_club
+bip_39_word_underscore_6: visit_little_steel_today_club_vault
+bip_39_word_underscore_7: visit_little_steel_today_club_vault_envelope
+bip_39_word_underscore_8: visit_little_steel_today_club_vault_envelope_drift
+bip_39_word_underscore_9: visit_little_steel_today_club_vault_envelope_drift_cinnamon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

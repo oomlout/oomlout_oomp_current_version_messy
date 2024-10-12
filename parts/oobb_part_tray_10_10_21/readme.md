@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vital |  
+| bip_39_word_dash_10 | vital-pass-thank-faint-retire-vessel-drastic-catch-witness-burden |  
+| bip_39_word_dash_11 | vital-pass-thank-faint-retire-vessel-drastic-catch-witness-burden-cheese |  
+| bip_39_word_dash_12 | vital-pass-thank-faint-retire-vessel-drastic-catch-witness-burden-cheese-alter |  
+| bip_39_word_dash_2 | vital-pass |  
+| bip_39_word_dash_3 | vital-pass-thank |  
+| bip_39_word_dash_4 | vital-pass-thank-faint |  
+| bip_39_word_dash_5 | vital-pass-thank-faint-retire |  
+| bip_39_word_dash_6 | vital-pass-thank-faint-retire-vessel |  
+| bip_39_word_dash_7 | vital-pass-thank-faint-retire-vessel-drastic |  
+| bip_39_word_dash_8 | vital-pass-thank-faint-retire-vessel-drastic-catch |  
+| bip_39_word_dash_9 | vital-pass-thank-faint-retire-vessel-drastic-catch-witness |  
 | bip_39_word_new_br_1 | vital |  
 | bip_39_word_new_br_10 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden |  
 | bip_39_word_new_br_11 | vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden<br>cheese |  
@@ -147,6 +159,18 @@ witness |
 | bip_39_word_space_7 | vital pass thank faint retire vessel drastic |  
 | bip_39_word_space_8 | vital pass thank faint retire vessel drastic catch |  
 | bip_39_word_space_9 | vital pass thank faint retire vessel drastic catch witness |  
+| bip_39_word_underscore_1 | vital |  
+| bip_39_word_underscore_10 | vital_pass_thank_faint_retire_vessel_drastic_catch_witness_burden |  
+| bip_39_word_underscore_11 | vital_pass_thank_faint_retire_vessel_drastic_catch_witness_burden_cheese |  
+| bip_39_word_underscore_12 | vital_pass_thank_faint_retire_vessel_drastic_catch_witness_burden_cheese_alter |  
+| bip_39_word_underscore_2 | vital_pass |  
+| bip_39_word_underscore_3 | vital_pass_thank |  
+| bip_39_word_underscore_4 | vital_pass_thank_faint |  
+| bip_39_word_underscore_5 | vital_pass_thank_faint_retire |  
+| bip_39_word_underscore_6 | vital_pass_thank_faint_retire_vessel |  
+| bip_39_word_underscore_7 | vital_pass_thank_faint_retire_vessel_drastic |  
+| bip_39_word_underscore_8 | vital_pass_thank_faint_retire_vessel_drastic_catch |  
+| bip_39_word_underscore_9 | vital_pass_thank_faint_retire_vessel_drastic_catch_witness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: night
+bip_39_word_dash_10: night-box-minor-segment-pony-limb-light-indoor-horse-machine
+bip_39_word_dash_11: night-box-minor-segment-pony-limb-light-indoor-horse-machine-advice
+bip_39_word_dash_12: night-box-minor-segment-pony-limb-light-indoor-horse-machine-advice-accuse
+bip_39_word_dash_2: night-box
+bip_39_word_dash_3: night-box-minor
+bip_39_word_dash_4: night-box-minor-segment
+bip_39_word_dash_5: night-box-minor-segment-pony
+bip_39_word_dash_6: night-box-minor-segment-pony-limb
+bip_39_word_dash_7: night-box-minor-segment-pony-limb-light
+bip_39_word_dash_8: night-box-minor-segment-pony-limb-light-indoor
+bip_39_word_dash_9: night-box-minor-segment-pony-limb-light-indoor-horse
 bip_39_word_new_br_1: night
 bip_39_word_new_br_10: night<br>box<br>minor<br>segment<br>pony<br>limb<br>light<br>indoor<br>horse<br>machine
 bip_39_word_new_br_11: night<br>box<br>minor<br>segment<br>pony<br>limb<br>light<br>indoor<br>horse<br>machine<br>advice
@@ -193,6 +205,18 @@ bip_39_word_space_6: night box minor segment pony limb
 bip_39_word_space_7: night box minor segment pony limb light
 bip_39_word_space_8: night box minor segment pony limb light indoor
 bip_39_word_space_9: night box minor segment pony limb light indoor horse
+bip_39_word_underscore_1: night
+bip_39_word_underscore_10: night_box_minor_segment_pony_limb_light_indoor_horse_machine
+bip_39_word_underscore_11: night_box_minor_segment_pony_limb_light_indoor_horse_machine_advice
+bip_39_word_underscore_12: night_box_minor_segment_pony_limb_light_indoor_horse_machine_advice_accuse
+bip_39_word_underscore_2: night_box
+bip_39_word_underscore_3: night_box_minor
+bip_39_word_underscore_4: night_box_minor_segment
+bip_39_word_underscore_5: night_box_minor_segment_pony
+bip_39_word_underscore_6: night_box_minor_segment_pony_limb
+bip_39_word_underscore_7: night_box_minor_segment_pony_limb_light
+bip_39_word_underscore_8: night_box_minor_segment_pony_limb_light_indoor
+bip_39_word_underscore_9: night_box_minor_segment_pony_limb_light_indoor_horse
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | range |  
+| bip_39_word_dash_10 | range-caught-law-subway-feed-bench-boat-nice-pluck-lock |  
+| bip_39_word_dash_11 | range-caught-law-subway-feed-bench-boat-nice-pluck-lock-task |  
+| bip_39_word_dash_12 | range-caught-law-subway-feed-bench-boat-nice-pluck-lock-task-attend |  
+| bip_39_word_dash_2 | range-caught |  
+| bip_39_word_dash_3 | range-caught-law |  
+| bip_39_word_dash_4 | range-caught-law-subway |  
+| bip_39_word_dash_5 | range-caught-law-subway-feed |  
+| bip_39_word_dash_6 | range-caught-law-subway-feed-bench |  
+| bip_39_word_dash_7 | range-caught-law-subway-feed-bench-boat |  
+| bip_39_word_dash_8 | range-caught-law-subway-feed-bench-boat-nice |  
+| bip_39_word_dash_9 | range-caught-law-subway-feed-bench-boat-nice-pluck |  
 | bip_39_word_new_br_1 | range |  
 | bip_39_word_new_br_10 | range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice<br>pluck<br>lock |  
 | bip_39_word_new_br_11 | range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice<br>pluck<br>lock<br>task |  
@@ -147,6 +159,18 @@ pluck |
 | bip_39_word_space_7 | range caught law subway feed bench boat |  
 | bip_39_word_space_8 | range caught law subway feed bench boat nice |  
 | bip_39_word_space_9 | range caught law subway feed bench boat nice pluck |  
+| bip_39_word_underscore_1 | range |  
+| bip_39_word_underscore_10 | range_caught_law_subway_feed_bench_boat_nice_pluck_lock |  
+| bip_39_word_underscore_11 | range_caught_law_subway_feed_bench_boat_nice_pluck_lock_task |  
+| bip_39_word_underscore_12 | range_caught_law_subway_feed_bench_boat_nice_pluck_lock_task_attend |  
+| bip_39_word_underscore_2 | range_caught |  
+| bip_39_word_underscore_3 | range_caught_law |  
+| bip_39_word_underscore_4 | range_caught_law_subway |  
+| bip_39_word_underscore_5 | range_caught_law_subway_feed |  
+| bip_39_word_underscore_6 | range_caught_law_subway_feed_bench |  
+| bip_39_word_underscore_7 | range_caught_law_subway_feed_bench_boat |  
+| bip_39_word_underscore_8 | range_caught_law_subway_feed_bench_boat_nice |  
+| bip_39_word_underscore_9 | range_caught_law_subway_feed_bench_boat_nice_pluck |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

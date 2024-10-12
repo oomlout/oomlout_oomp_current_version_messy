@@ -1,3 +1,15 @@
+bip_39_word_dash_1: holiday
+bip_39_word_dash_10: holiday-female-funny-science-fall-hair-venture-day-mountain-damage
+bip_39_word_dash_11: holiday-female-funny-science-fall-hair-venture-day-mountain-damage-crisp
+bip_39_word_dash_12: holiday-female-funny-science-fall-hair-venture-day-mountain-damage-crisp-absent
+bip_39_word_dash_2: holiday-female
+bip_39_word_dash_3: holiday-female-funny
+bip_39_word_dash_4: holiday-female-funny-science
+bip_39_word_dash_5: holiday-female-funny-science-fall
+bip_39_word_dash_6: holiday-female-funny-science-fall-hair
+bip_39_word_dash_7: holiday-female-funny-science-fall-hair-venture
+bip_39_word_dash_8: holiday-female-funny-science-fall-hair-venture-day
+bip_39_word_dash_9: holiday-female-funny-science-fall-hair-venture-day-mountain
 bip_39_word_new_br_1: holiday
 bip_39_word_new_br_10: holiday<br>female<br>funny<br>science<br>fall<br>hair<br>venture<br>day<br>mountain<br>damage
 bip_39_word_new_br_11: holiday<br>female<br>funny<br>science<br>fall<br>hair<br>venture<br>day<br>mountain<br>damage<br>crisp
@@ -194,6 +206,18 @@ bip_39_word_space_6: holiday female funny science fall hair
 bip_39_word_space_7: holiday female funny science fall hair venture
 bip_39_word_space_8: holiday female funny science fall hair venture day
 bip_39_word_space_9: holiday female funny science fall hair venture day mountain
+bip_39_word_underscore_1: holiday
+bip_39_word_underscore_10: holiday_female_funny_science_fall_hair_venture_day_mountain_damage
+bip_39_word_underscore_11: holiday_female_funny_science_fall_hair_venture_day_mountain_damage_crisp
+bip_39_word_underscore_12: holiday_female_funny_science_fall_hair_venture_day_mountain_damage_crisp_absent
+bip_39_word_underscore_2: holiday_female
+bip_39_word_underscore_3: holiday_female_funny
+bip_39_word_underscore_4: holiday_female_funny_science
+bip_39_word_underscore_5: holiday_female_funny_science_fall
+bip_39_word_underscore_6: holiday_female_funny_science_fall_hair
+bip_39_word_underscore_7: holiday_female_funny_science_fall_hair_venture
+bip_39_word_underscore_8: holiday_female_funny_science_fall_hair_venture_day
+bip_39_word_underscore_9: holiday_female_funny_science_fall_hair_venture_day_mountain
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

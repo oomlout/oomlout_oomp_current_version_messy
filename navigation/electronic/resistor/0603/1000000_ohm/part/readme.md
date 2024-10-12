@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | obscure |  
+| bip_39_word_dash_10 | obscure-mix-audit-found-sphere-elder-impose-depth-leopard-scare |  
+| bip_39_word_dash_11 | obscure-mix-audit-found-sphere-elder-impose-depth-leopard-scare-whale |  
+| bip_39_word_dash_12 | obscure-mix-audit-found-sphere-elder-impose-depth-leopard-scare-whale-also |  
+| bip_39_word_dash_2 | obscure-mix |  
+| bip_39_word_dash_3 | obscure-mix-audit |  
+| bip_39_word_dash_4 | obscure-mix-audit-found |  
+| bip_39_word_dash_5 | obscure-mix-audit-found-sphere |  
+| bip_39_word_dash_6 | obscure-mix-audit-found-sphere-elder |  
+| bip_39_word_dash_7 | obscure-mix-audit-found-sphere-elder-impose |  
+| bip_39_word_dash_8 | obscure-mix-audit-found-sphere-elder-impose-depth |  
+| bip_39_word_dash_9 | obscure-mix-audit-found-sphere-elder-impose-depth-leopard |  
 | bip_39_word_new_br_1 | obscure |  
 | bip_39_word_new_br_10 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare |  
 | bip_39_word_new_br_11 | obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare<br>whale |  
@@ -147,6 +159,18 @@ leopard |
 | bip_39_word_space_7 | obscure mix audit found sphere elder impose |  
 | bip_39_word_space_8 | obscure mix audit found sphere elder impose depth |  
 | bip_39_word_space_9 | obscure mix audit found sphere elder impose depth leopard |  
+| bip_39_word_underscore_1 | obscure |  
+| bip_39_word_underscore_10 | obscure_mix_audit_found_sphere_elder_impose_depth_leopard_scare |  
+| bip_39_word_underscore_11 | obscure_mix_audit_found_sphere_elder_impose_depth_leopard_scare_whale |  
+| bip_39_word_underscore_12 | obscure_mix_audit_found_sphere_elder_impose_depth_leopard_scare_whale_also |  
+| bip_39_word_underscore_2 | obscure_mix |  
+| bip_39_word_underscore_3 | obscure_mix_audit |  
+| bip_39_word_underscore_4 | obscure_mix_audit_found |  
+| bip_39_word_underscore_5 | obscure_mix_audit_found_sphere |  
+| bip_39_word_underscore_6 | obscure_mix_audit_found_sphere_elder |  
+| bip_39_word_underscore_7 | obscure_mix_audit_found_sphere_elder_impose |  
+| bip_39_word_underscore_8 | obscure_mix_audit_found_sphere_elder_impose_depth |  
+| bip_39_word_underscore_9 | obscure_mix_audit_found_sphere_elder_impose_depth_leopard |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exit
+bip_39_word_dash_10: exit-call-palace-expose-faint-huge-misery-lock-forest-true
+bip_39_word_dash_11: exit-call-palace-expose-faint-huge-misery-lock-forest-true-ghost
+bip_39_word_dash_12: exit-call-palace-expose-faint-huge-misery-lock-forest-true-ghost-auto
+bip_39_word_dash_2: exit-call
+bip_39_word_dash_3: exit-call-palace
+bip_39_word_dash_4: exit-call-palace-expose
+bip_39_word_dash_5: exit-call-palace-expose-faint
+bip_39_word_dash_6: exit-call-palace-expose-faint-huge
+bip_39_word_dash_7: exit-call-palace-expose-faint-huge-misery
+bip_39_word_dash_8: exit-call-palace-expose-faint-huge-misery-lock
+bip_39_word_dash_9: exit-call-palace-expose-faint-huge-misery-lock-forest
 bip_39_word_new_br_1: exit
 bip_39_word_new_br_10: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true
 bip_39_word_new_br_11: exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true<br>ghost
@@ -192,6 +204,18 @@ bip_39_word_space_6: exit call palace expose faint huge
 bip_39_word_space_7: exit call palace expose faint huge misery
 bip_39_word_space_8: exit call palace expose faint huge misery lock
 bip_39_word_space_9: exit call palace expose faint huge misery lock forest
+bip_39_word_underscore_1: exit
+bip_39_word_underscore_10: exit_call_palace_expose_faint_huge_misery_lock_forest_true
+bip_39_word_underscore_11: exit_call_palace_expose_faint_huge_misery_lock_forest_true_ghost
+bip_39_word_underscore_12: exit_call_palace_expose_faint_huge_misery_lock_forest_true_ghost_auto
+bip_39_word_underscore_2: exit_call
+bip_39_word_underscore_3: exit_call_palace
+bip_39_word_underscore_4: exit_call_palace_expose
+bip_39_word_underscore_5: exit_call_palace_expose_faint
+bip_39_word_underscore_6: exit_call_palace_expose_faint_huge
+bip_39_word_underscore_7: exit_call_palace_expose_faint_huge_misery
+bip_39_word_underscore_8: exit_call_palace_expose_faint_huge_misery_lock
+bip_39_word_underscore_9: exit_call_palace_expose_faint_huge_misery_lock_forest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

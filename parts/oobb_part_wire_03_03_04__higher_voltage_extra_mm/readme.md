@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frozen |  
+| bip_39_word_dash_10 | frozen-season-limit-general-salad-play-surface-kiss-polar-obey |  
+| bip_39_word_dash_11 | frozen-season-limit-general-salad-play-surface-kiss-polar-obey-alert |  
+| bip_39_word_dash_12 | frozen-season-limit-general-salad-play-surface-kiss-polar-obey-alert-addict |  
+| bip_39_word_dash_2 | frozen-season |  
+| bip_39_word_dash_3 | frozen-season-limit |  
+| bip_39_word_dash_4 | frozen-season-limit-general |  
+| bip_39_word_dash_5 | frozen-season-limit-general-salad |  
+| bip_39_word_dash_6 | frozen-season-limit-general-salad-play |  
+| bip_39_word_dash_7 | frozen-season-limit-general-salad-play-surface |  
+| bip_39_word_dash_8 | frozen-season-limit-general-salad-play-surface-kiss |  
+| bip_39_word_dash_9 | frozen-season-limit-general-salad-play-surface-kiss-polar |  
 | bip_39_word_new_br_1 | frozen |  
 | bip_39_word_new_br_10 | frozen<br>season<br>limit<br>general<br>salad<br>play<br>surface<br>kiss<br>polar<br>obey |  
 | bip_39_word_new_br_11 | frozen<br>season<br>limit<br>general<br>salad<br>play<br>surface<br>kiss<br>polar<br>obey<br>alert |  
@@ -147,6 +159,18 @@ polar |
 | bip_39_word_space_7 | frozen season limit general salad play surface |  
 | bip_39_word_space_8 | frozen season limit general salad play surface kiss |  
 | bip_39_word_space_9 | frozen season limit general salad play surface kiss polar |  
+| bip_39_word_underscore_1 | frozen |  
+| bip_39_word_underscore_10 | frozen_season_limit_general_salad_play_surface_kiss_polar_obey |  
+| bip_39_word_underscore_11 | frozen_season_limit_general_salad_play_surface_kiss_polar_obey_alert |  
+| bip_39_word_underscore_12 | frozen_season_limit_general_salad_play_surface_kiss_polar_obey_alert_addict |  
+| bip_39_word_underscore_2 | frozen_season |  
+| bip_39_word_underscore_3 | frozen_season_limit |  
+| bip_39_word_underscore_4 | frozen_season_limit_general |  
+| bip_39_word_underscore_5 | frozen_season_limit_general_salad |  
+| bip_39_word_underscore_6 | frozen_season_limit_general_salad_play |  
+| bip_39_word_underscore_7 | frozen_season_limit_general_salad_play_surface |  
+| bip_39_word_underscore_8 | frozen_season_limit_general_salad_play_surface_kiss |  
+| bip_39_word_underscore_9 | frozen_season_limit_general_salad_play_surface_kiss_polar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | depend |  
+| bip_39_word_dash_10 | depend-luxury-opinion-joy-mix-butter-parrot-december-physical-unable |  
+| bip_39_word_dash_11 | depend-luxury-opinion-joy-mix-butter-parrot-december-physical-unable-junior |  
+| bip_39_word_dash_12 | depend-luxury-opinion-joy-mix-butter-parrot-december-physical-unable-junior-asthma |  
+| bip_39_word_dash_2 | depend-luxury |  
+| bip_39_word_dash_3 | depend-luxury-opinion |  
+| bip_39_word_dash_4 | depend-luxury-opinion-joy |  
+| bip_39_word_dash_5 | depend-luxury-opinion-joy-mix |  
+| bip_39_word_dash_6 | depend-luxury-opinion-joy-mix-butter |  
+| bip_39_word_dash_7 | depend-luxury-opinion-joy-mix-butter-parrot |  
+| bip_39_word_dash_8 | depend-luxury-opinion-joy-mix-butter-parrot-december |  
+| bip_39_word_dash_9 | depend-luxury-opinion-joy-mix-butter-parrot-december-physical |  
 | bip_39_word_new_br_1 | depend |  
 | bip_39_word_new_br_10 | depend<br>luxury<br>opinion<br>joy<br>mix<br>butter<br>parrot<br>december<br>physical<br>unable |  
 | bip_39_word_new_br_11 | depend<br>luxury<br>opinion<br>joy<br>mix<br>butter<br>parrot<br>december<br>physical<br>unable<br>junior |  
@@ -147,6 +159,18 @@ physical |
 | bip_39_word_space_7 | depend luxury opinion joy mix butter parrot |  
 | bip_39_word_space_8 | depend luxury opinion joy mix butter parrot december |  
 | bip_39_word_space_9 | depend luxury opinion joy mix butter parrot december physical |  
+| bip_39_word_underscore_1 | depend |  
+| bip_39_word_underscore_10 | depend_luxury_opinion_joy_mix_butter_parrot_december_physical_unable |  
+| bip_39_word_underscore_11 | depend_luxury_opinion_joy_mix_butter_parrot_december_physical_unable_junior |  
+| bip_39_word_underscore_12 | depend_luxury_opinion_joy_mix_butter_parrot_december_physical_unable_junior_asthma |  
+| bip_39_word_underscore_2 | depend_luxury |  
+| bip_39_word_underscore_3 | depend_luxury_opinion |  
+| bip_39_word_underscore_4 | depend_luxury_opinion_joy |  
+| bip_39_word_underscore_5 | depend_luxury_opinion_joy_mix |  
+| bip_39_word_underscore_6 | depend_luxury_opinion_joy_mix_butter |  
+| bip_39_word_underscore_7 | depend_luxury_opinion_joy_mix_butter_parrot |  
+| bip_39_word_underscore_8 | depend_luxury_opinion_joy_mix_butter_parrot_december |  
+| bip_39_word_underscore_9 | depend_luxury_opinion_joy_mix_butter_parrot_december_physical |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

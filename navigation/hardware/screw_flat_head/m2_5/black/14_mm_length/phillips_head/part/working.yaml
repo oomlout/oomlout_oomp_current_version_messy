@@ -1,3 +1,15 @@
+bip_39_word_dash_1: universe
+bip_39_word_dash_10: universe-dilemma-tree-tragic-rain-stable-jump-safe-finger-forum
+bip_39_word_dash_11: universe-dilemma-tree-tragic-rain-stable-jump-safe-finger-forum-enjoy
+bip_39_word_dash_12: universe-dilemma-tree-tragic-rain-stable-jump-safe-finger-forum-enjoy-artist
+bip_39_word_dash_2: universe-dilemma
+bip_39_word_dash_3: universe-dilemma-tree
+bip_39_word_dash_4: universe-dilemma-tree-tragic
+bip_39_word_dash_5: universe-dilemma-tree-tragic-rain
+bip_39_word_dash_6: universe-dilemma-tree-tragic-rain-stable
+bip_39_word_dash_7: universe-dilemma-tree-tragic-rain-stable-jump
+bip_39_word_dash_8: universe-dilemma-tree-tragic-rain-stable-jump-safe
+bip_39_word_dash_9: universe-dilemma-tree-tragic-rain-stable-jump-safe-finger
 bip_39_word_new_br_1: universe
 bip_39_word_new_br_10: universe<br>dilemma<br>tree<br>tragic<br>rain<br>stable<br>jump<br>safe<br>finger<br>forum
 bip_39_word_new_br_11: universe<br>dilemma<br>tree<br>tragic<br>rain<br>stable<br>jump<br>safe<br>finger<br>forum<br>enjoy
@@ -193,6 +205,18 @@ bip_39_word_space_6: universe dilemma tree tragic rain stable
 bip_39_word_space_7: universe dilemma tree tragic rain stable jump
 bip_39_word_space_8: universe dilemma tree tragic rain stable jump safe
 bip_39_word_space_9: universe dilemma tree tragic rain stable jump safe finger
+bip_39_word_underscore_1: universe
+bip_39_word_underscore_10: universe_dilemma_tree_tragic_rain_stable_jump_safe_finger_forum
+bip_39_word_underscore_11: universe_dilemma_tree_tragic_rain_stable_jump_safe_finger_forum_enjoy
+bip_39_word_underscore_12: universe_dilemma_tree_tragic_rain_stable_jump_safe_finger_forum_enjoy_artist
+bip_39_word_underscore_2: universe_dilemma
+bip_39_word_underscore_3: universe_dilemma_tree
+bip_39_word_underscore_4: universe_dilemma_tree_tragic
+bip_39_word_underscore_5: universe_dilemma_tree_tragic_rain
+bip_39_word_underscore_6: universe_dilemma_tree_tragic_rain_stable
+bip_39_word_underscore_7: universe_dilemma_tree_tragic_rain_stable_jump
+bip_39_word_underscore_8: universe_dilemma_tree_tragic_rain_stable_jump_safe
+bip_39_word_underscore_9: universe_dilemma_tree_tragic_rain_stable_jump_safe_finger
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

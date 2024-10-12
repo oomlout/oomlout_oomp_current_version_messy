@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | claim |  
+| bip_39_word_dash_10 | claim-bleak-bicycle-screen-gravity-dolphin-illegal-subject-call-illegal |  
+| bip_39_word_dash_11 | claim-bleak-bicycle-screen-gravity-dolphin-illegal-subject-call-illegal-release |  
+| bip_39_word_dash_12 | claim-bleak-bicycle-screen-gravity-dolphin-illegal-subject-call-illegal-release-average |  
+| bip_39_word_dash_2 | claim-bleak |  
+| bip_39_word_dash_3 | claim-bleak-bicycle |  
+| bip_39_word_dash_4 | claim-bleak-bicycle-screen |  
+| bip_39_word_dash_5 | claim-bleak-bicycle-screen-gravity |  
+| bip_39_word_dash_6 | claim-bleak-bicycle-screen-gravity-dolphin |  
+| bip_39_word_dash_7 | claim-bleak-bicycle-screen-gravity-dolphin-illegal |  
+| bip_39_word_dash_8 | claim-bleak-bicycle-screen-gravity-dolphin-illegal-subject |  
+| bip_39_word_dash_9 | claim-bleak-bicycle-screen-gravity-dolphin-illegal-subject-call |  
 | bip_39_word_new_br_1 | claim |  
 | bip_39_word_new_br_10 | claim<br>bleak<br>bicycle<br>screen<br>gravity<br>dolphin<br>illegal<br>subject<br>call<br>illegal |  
 | bip_39_word_new_br_11 | claim<br>bleak<br>bicycle<br>screen<br>gravity<br>dolphin<br>illegal<br>subject<br>call<br>illegal<br>release |  
@@ -147,6 +159,18 @@ call |
 | bip_39_word_space_7 | claim bleak bicycle screen gravity dolphin illegal |  
 | bip_39_word_space_8 | claim bleak bicycle screen gravity dolphin illegal subject |  
 | bip_39_word_space_9 | claim bleak bicycle screen gravity dolphin illegal subject call |  
+| bip_39_word_underscore_1 | claim |  
+| bip_39_word_underscore_10 | claim_bleak_bicycle_screen_gravity_dolphin_illegal_subject_call_illegal |  
+| bip_39_word_underscore_11 | claim_bleak_bicycle_screen_gravity_dolphin_illegal_subject_call_illegal_release |  
+| bip_39_word_underscore_12 | claim_bleak_bicycle_screen_gravity_dolphin_illegal_subject_call_illegal_release_average |  
+| bip_39_word_underscore_2 | claim_bleak |  
+| bip_39_word_underscore_3 | claim_bleak_bicycle |  
+| bip_39_word_underscore_4 | claim_bleak_bicycle_screen |  
+| bip_39_word_underscore_5 | claim_bleak_bicycle_screen_gravity |  
+| bip_39_word_underscore_6 | claim_bleak_bicycle_screen_gravity_dolphin |  
+| bip_39_word_underscore_7 | claim_bleak_bicycle_screen_gravity_dolphin_illegal |  
+| bip_39_word_underscore_8 | claim_bleak_bicycle_screen_gravity_dolphin_illegal_subject |  
+| bip_39_word_underscore_9 | claim_bleak_bicycle_screen_gravity_dolphin_illegal_subject_call |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

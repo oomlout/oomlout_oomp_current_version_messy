@@ -1,3 +1,15 @@
+bip_39_word_dash_1: elite
+bip_39_word_dash_10: elite-flight-screen-home-gentle-wire-video-meadow-skirt-vague
+bip_39_word_dash_11: elite-flight-screen-home-gentle-wire-video-meadow-skirt-vague-problem
+bip_39_word_dash_12: elite-flight-screen-home-gentle-wire-video-meadow-skirt-vague-problem-aspect
+bip_39_word_dash_2: elite-flight
+bip_39_word_dash_3: elite-flight-screen
+bip_39_word_dash_4: elite-flight-screen-home
+bip_39_word_dash_5: elite-flight-screen-home-gentle
+bip_39_word_dash_6: elite-flight-screen-home-gentle-wire
+bip_39_word_dash_7: elite-flight-screen-home-gentle-wire-video
+bip_39_word_dash_8: elite-flight-screen-home-gentle-wire-video-meadow
+bip_39_word_dash_9: elite-flight-screen-home-gentle-wire-video-meadow-skirt
 bip_39_word_new_br_1: elite
 bip_39_word_new_br_10: elite<br>flight<br>screen<br>home<br>gentle<br>wire<br>video<br>meadow<br>skirt<br>vague
 bip_39_word_new_br_11: elite<br>flight<br>screen<br>home<br>gentle<br>wire<br>video<br>meadow<br>skirt<br>vague<br>problem
@@ -193,6 +205,18 @@ bip_39_word_space_6: elite flight screen home gentle wire
 bip_39_word_space_7: elite flight screen home gentle wire video
 bip_39_word_space_8: elite flight screen home gentle wire video meadow
 bip_39_word_space_9: elite flight screen home gentle wire video meadow skirt
+bip_39_word_underscore_1: elite
+bip_39_word_underscore_10: elite_flight_screen_home_gentle_wire_video_meadow_skirt_vague
+bip_39_word_underscore_11: elite_flight_screen_home_gentle_wire_video_meadow_skirt_vague_problem
+bip_39_word_underscore_12: elite_flight_screen_home_gentle_wire_video_meadow_skirt_vague_problem_aspect
+bip_39_word_underscore_2: elite_flight
+bip_39_word_underscore_3: elite_flight_screen
+bip_39_word_underscore_4: elite_flight_screen_home
+bip_39_word_underscore_5: elite_flight_screen_home_gentle
+bip_39_word_underscore_6: elite_flight_screen_home_gentle_wire
+bip_39_word_underscore_7: elite_flight_screen_home_gentle_wire_video
+bip_39_word_underscore_8: elite_flight_screen_home_gentle_wire_video_meadow
+bip_39_word_underscore_9: elite_flight_screen_home_gentle_wire_video_meadow_skirt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

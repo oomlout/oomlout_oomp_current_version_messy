@@ -1,3 +1,15 @@
+bip_39_word_dash_1: paper
+bip_39_word_dash_10: paper-drastic-spoil-car-index-pizza-between-property-wool-kit
+bip_39_word_dash_11: paper-drastic-spoil-car-index-pizza-between-property-wool-kit-picnic
+bip_39_word_dash_12: paper-drastic-spoil-car-index-pizza-between-property-wool-kit-picnic-also
+bip_39_word_dash_2: paper-drastic
+bip_39_word_dash_3: paper-drastic-spoil
+bip_39_word_dash_4: paper-drastic-spoil-car
+bip_39_word_dash_5: paper-drastic-spoil-car-index
+bip_39_word_dash_6: paper-drastic-spoil-car-index-pizza
+bip_39_word_dash_7: paper-drastic-spoil-car-index-pizza-between
+bip_39_word_dash_8: paper-drastic-spoil-car-index-pizza-between-property
+bip_39_word_dash_9: paper-drastic-spoil-car-index-pizza-between-property-wool
 bip_39_word_new_br_1: paper
 bip_39_word_new_br_10: paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property<br>wool<br>kit
 bip_39_word_new_br_11: paper<br>drastic<br>spoil<br>car<br>index<br>pizza<br>between<br>property<br>wool<br>kit<br>picnic
@@ -193,6 +205,18 @@ bip_39_word_space_6: paper drastic spoil car index pizza
 bip_39_word_space_7: paper drastic spoil car index pizza between
 bip_39_word_space_8: paper drastic spoil car index pizza between property
 bip_39_word_space_9: paper drastic spoil car index pizza between property wool
+bip_39_word_underscore_1: paper
+bip_39_word_underscore_10: paper_drastic_spoil_car_index_pizza_between_property_wool_kit
+bip_39_word_underscore_11: paper_drastic_spoil_car_index_pizza_between_property_wool_kit_picnic
+bip_39_word_underscore_12: paper_drastic_spoil_car_index_pizza_between_property_wool_kit_picnic_also
+bip_39_word_underscore_2: paper_drastic
+bip_39_word_underscore_3: paper_drastic_spoil
+bip_39_word_underscore_4: paper_drastic_spoil_car
+bip_39_word_underscore_5: paper_drastic_spoil_car_index
+bip_39_word_underscore_6: paper_drastic_spoil_car_index_pizza
+bip_39_word_underscore_7: paper_drastic_spoil_car_index_pizza_between
+bip_39_word_underscore_8: paper_drastic_spoil_car_index_pizza_between_property
+bip_39_word_underscore_9: paper_drastic_spoil_car_index_pizza_between_property_wool
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

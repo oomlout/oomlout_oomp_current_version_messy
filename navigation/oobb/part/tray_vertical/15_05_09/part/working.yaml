@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chase
+bip_39_word_dash_10: chase-fault-interest-rain-measure-arrange-dust-video-bitter-dream
+bip_39_word_dash_11: chase-fault-interest-rain-measure-arrange-dust-video-bitter-dream-frost
+bip_39_word_dash_12: chase-fault-interest-rain-measure-arrange-dust-video-bitter-dream-frost-also
+bip_39_word_dash_2: chase-fault
+bip_39_word_dash_3: chase-fault-interest
+bip_39_word_dash_4: chase-fault-interest-rain
+bip_39_word_dash_5: chase-fault-interest-rain-measure
+bip_39_word_dash_6: chase-fault-interest-rain-measure-arrange
+bip_39_word_dash_7: chase-fault-interest-rain-measure-arrange-dust
+bip_39_word_dash_8: chase-fault-interest-rain-measure-arrange-dust-video
+bip_39_word_dash_9: chase-fault-interest-rain-measure-arrange-dust-video-bitter
 bip_39_word_new_br_1: chase
 bip_39_word_new_br_10: chase<br>fault<br>interest<br>rain<br>measure<br>arrange<br>dust<br>video<br>bitter<br>dream
 bip_39_word_new_br_11: chase<br>fault<br>interest<br>rain<br>measure<br>arrange<br>dust<br>video<br>bitter<br>dream<br>frost
@@ -194,6 +206,18 @@ bip_39_word_space_6: chase fault interest rain measure arrange
 bip_39_word_space_7: chase fault interest rain measure arrange dust
 bip_39_word_space_8: chase fault interest rain measure arrange dust video
 bip_39_word_space_9: chase fault interest rain measure arrange dust video bitter
+bip_39_word_underscore_1: chase
+bip_39_word_underscore_10: chase_fault_interest_rain_measure_arrange_dust_video_bitter_dream
+bip_39_word_underscore_11: chase_fault_interest_rain_measure_arrange_dust_video_bitter_dream_frost
+bip_39_word_underscore_12: chase_fault_interest_rain_measure_arrange_dust_video_bitter_dream_frost_also
+bip_39_word_underscore_2: chase_fault
+bip_39_word_underscore_3: chase_fault_interest
+bip_39_word_underscore_4: chase_fault_interest_rain
+bip_39_word_underscore_5: chase_fault_interest_rain_measure
+bip_39_word_underscore_6: chase_fault_interest_rain_measure_arrange
+bip_39_word_underscore_7: chase_fault_interest_rain_measure_arrange_dust
+bip_39_word_underscore_8: chase_fault_interest_rain_measure_arrange_dust_video
+bip_39_word_underscore_9: chase_fault_interest_rain_measure_arrange_dust_video_bitter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

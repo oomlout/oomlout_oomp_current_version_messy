@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | region |  
+| bip_39_word_dash_10 | region-bitter-scene-number-game-alpha-lend-apology-helmet-repair |  
+| bip_39_word_dash_11 | region-bitter-scene-number-game-alpha-lend-apology-helmet-repair-border |  
+| bip_39_word_dash_12 | region-bitter-scene-number-game-alpha-lend-apology-helmet-repair-border-amateur |  
+| bip_39_word_dash_2 | region-bitter |  
+| bip_39_word_dash_3 | region-bitter-scene |  
+| bip_39_word_dash_4 | region-bitter-scene-number |  
+| bip_39_word_dash_5 | region-bitter-scene-number-game |  
+| bip_39_word_dash_6 | region-bitter-scene-number-game-alpha |  
+| bip_39_word_dash_7 | region-bitter-scene-number-game-alpha-lend |  
+| bip_39_word_dash_8 | region-bitter-scene-number-game-alpha-lend-apology |  
+| bip_39_word_dash_9 | region-bitter-scene-number-game-alpha-lend-apology-helmet |  
 | bip_39_word_new_br_1 | region |  
 | bip_39_word_new_br_10 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology<br>helmet<br>repair |  
 | bip_39_word_new_br_11 | region<br>bitter<br>scene<br>number<br>game<br>alpha<br>lend<br>apology<br>helmet<br>repair<br>border |  
@@ -147,6 +159,18 @@ helmet |
 | bip_39_word_space_7 | region bitter scene number game alpha lend |  
 | bip_39_word_space_8 | region bitter scene number game alpha lend apology |  
 | bip_39_word_space_9 | region bitter scene number game alpha lend apology helmet |  
+| bip_39_word_underscore_1 | region |  
+| bip_39_word_underscore_10 | region_bitter_scene_number_game_alpha_lend_apology_helmet_repair |  
+| bip_39_word_underscore_11 | region_bitter_scene_number_game_alpha_lend_apology_helmet_repair_border |  
+| bip_39_word_underscore_12 | region_bitter_scene_number_game_alpha_lend_apology_helmet_repair_border_amateur |  
+| bip_39_word_underscore_2 | region_bitter |  
+| bip_39_word_underscore_3 | region_bitter_scene |  
+| bip_39_word_underscore_4 | region_bitter_scene_number |  
+| bip_39_word_underscore_5 | region_bitter_scene_number_game |  
+| bip_39_word_underscore_6 | region_bitter_scene_number_game_alpha |  
+| bip_39_word_underscore_7 | region_bitter_scene_number_game_alpha_lend |  
+| bip_39_word_underscore_8 | region_bitter_scene_number_game_alpha_lend_apology |  
+| bip_39_word_underscore_9 | region_bitter_scene_number_game_alpha_lend_apology_helmet |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

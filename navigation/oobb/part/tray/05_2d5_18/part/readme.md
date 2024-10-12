@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dash |  
+| bip_39_word_dash_10 | dash-sell-huge-midnight-fortune-illness-aunt-retire-choose-outside |  
+| bip_39_word_dash_11 | dash-sell-huge-midnight-fortune-illness-aunt-retire-choose-outside-among |  
+| bip_39_word_dash_12 | dash-sell-huge-midnight-fortune-illness-aunt-retire-choose-outside-among-army |  
+| bip_39_word_dash_2 | dash-sell |  
+| bip_39_word_dash_3 | dash-sell-huge |  
+| bip_39_word_dash_4 | dash-sell-huge-midnight |  
+| bip_39_word_dash_5 | dash-sell-huge-midnight-fortune |  
+| bip_39_word_dash_6 | dash-sell-huge-midnight-fortune-illness |  
+| bip_39_word_dash_7 | dash-sell-huge-midnight-fortune-illness-aunt |  
+| bip_39_word_dash_8 | dash-sell-huge-midnight-fortune-illness-aunt-retire |  
+| bip_39_word_dash_9 | dash-sell-huge-midnight-fortune-illness-aunt-retire-choose |  
 | bip_39_word_new_br_1 | dash |  
 | bip_39_word_new_br_10 | dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside |  
 | bip_39_word_new_br_11 | dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside<br>among |  
@@ -147,6 +159,18 @@ choose |
 | bip_39_word_space_7 | dash sell huge midnight fortune illness aunt |  
 | bip_39_word_space_8 | dash sell huge midnight fortune illness aunt retire |  
 | bip_39_word_space_9 | dash sell huge midnight fortune illness aunt retire choose |  
+| bip_39_word_underscore_1 | dash |  
+| bip_39_word_underscore_10 | dash_sell_huge_midnight_fortune_illness_aunt_retire_choose_outside |  
+| bip_39_word_underscore_11 | dash_sell_huge_midnight_fortune_illness_aunt_retire_choose_outside_among |  
+| bip_39_word_underscore_12 | dash_sell_huge_midnight_fortune_illness_aunt_retire_choose_outside_among_army |  
+| bip_39_word_underscore_2 | dash_sell |  
+| bip_39_word_underscore_3 | dash_sell_huge |  
+| bip_39_word_underscore_4 | dash_sell_huge_midnight |  
+| bip_39_word_underscore_5 | dash_sell_huge_midnight_fortune |  
+| bip_39_word_underscore_6 | dash_sell_huge_midnight_fortune_illness |  
+| bip_39_word_underscore_7 | dash_sell_huge_midnight_fortune_illness_aunt |  
+| bip_39_word_underscore_8 | dash_sell_huge_midnight_fortune_illness_aunt_retire |  
+| bip_39_word_underscore_9 | dash_sell_huge_midnight_fortune_illness_aunt_retire_choose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

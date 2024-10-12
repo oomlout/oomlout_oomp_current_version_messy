@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trust |  
+| bip_39_word_dash_10 | trust-rubber-defy-silent-mercy-section-trash-debris-sleep-easy |  
+| bip_39_word_dash_11 | trust-rubber-defy-silent-mercy-section-trash-debris-sleep-easy-edit |  
+| bip_39_word_dash_12 | trust-rubber-defy-silent-mercy-section-trash-debris-sleep-easy-edit-attract |  
+| bip_39_word_dash_2 | trust-rubber |  
+| bip_39_word_dash_3 | trust-rubber-defy |  
+| bip_39_word_dash_4 | trust-rubber-defy-silent |  
+| bip_39_word_dash_5 | trust-rubber-defy-silent-mercy |  
+| bip_39_word_dash_6 | trust-rubber-defy-silent-mercy-section |  
+| bip_39_word_dash_7 | trust-rubber-defy-silent-mercy-section-trash |  
+| bip_39_word_dash_8 | trust-rubber-defy-silent-mercy-section-trash-debris |  
+| bip_39_word_dash_9 | trust-rubber-defy-silent-mercy-section-trash-debris-sleep |  
 | bip_39_word_new_br_1 | trust |  
 | bip_39_word_new_br_10 | trust<br>rubber<br>defy<br>silent<br>mercy<br>section<br>trash<br>debris<br>sleep<br>easy |  
 | bip_39_word_new_br_11 | trust<br>rubber<br>defy<br>silent<br>mercy<br>section<br>trash<br>debris<br>sleep<br>easy<br>edit |  
@@ -147,6 +159,18 @@ sleep |
 | bip_39_word_space_7 | trust rubber defy silent mercy section trash |  
 | bip_39_word_space_8 | trust rubber defy silent mercy section trash debris |  
 | bip_39_word_space_9 | trust rubber defy silent mercy section trash debris sleep |  
+| bip_39_word_underscore_1 | trust |  
+| bip_39_word_underscore_10 | trust_rubber_defy_silent_mercy_section_trash_debris_sleep_easy |  
+| bip_39_word_underscore_11 | trust_rubber_defy_silent_mercy_section_trash_debris_sleep_easy_edit |  
+| bip_39_word_underscore_12 | trust_rubber_defy_silent_mercy_section_trash_debris_sleep_easy_edit_attract |  
+| bip_39_word_underscore_2 | trust_rubber |  
+| bip_39_word_underscore_3 | trust_rubber_defy |  
+| bip_39_word_underscore_4 | trust_rubber_defy_silent |  
+| bip_39_word_underscore_5 | trust_rubber_defy_silent_mercy |  
+| bip_39_word_underscore_6 | trust_rubber_defy_silent_mercy_section |  
+| bip_39_word_underscore_7 | trust_rubber_defy_silent_mercy_section_trash |  
+| bip_39_word_underscore_8 | trust_rubber_defy_silent_mercy_section_trash_debris |  
+| bip_39_word_underscore_9 | trust_rubber_defy_silent_mercy_section_trash_debris_sleep |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leave |  
+| bip_39_word_dash_10 | leave-amount-siren-laptop-half-debris-connect-decline-opinion-dragon |  
+| bip_39_word_dash_11 | leave-amount-siren-laptop-half-debris-connect-decline-opinion-dragon-time |  
+| bip_39_word_dash_12 | leave-amount-siren-laptop-half-debris-connect-decline-opinion-dragon-time-ask |  
+| bip_39_word_dash_2 | leave-amount |  
+| bip_39_word_dash_3 | leave-amount-siren |  
+| bip_39_word_dash_4 | leave-amount-siren-laptop |  
+| bip_39_word_dash_5 | leave-amount-siren-laptop-half |  
+| bip_39_word_dash_6 | leave-amount-siren-laptop-half-debris |  
+| bip_39_word_dash_7 | leave-amount-siren-laptop-half-debris-connect |  
+| bip_39_word_dash_8 | leave-amount-siren-laptop-half-debris-connect-decline |  
+| bip_39_word_dash_9 | leave-amount-siren-laptop-half-debris-connect-decline-opinion |  
 | bip_39_word_new_br_1 | leave |  
 | bip_39_word_new_br_10 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline<br>opinion<br>dragon |  
 | bip_39_word_new_br_11 | leave<br>amount<br>siren<br>laptop<br>half<br>debris<br>connect<br>decline<br>opinion<br>dragon<br>time |  
@@ -147,6 +159,18 @@ opinion |
 | bip_39_word_space_7 | leave amount siren laptop half debris connect |  
 | bip_39_word_space_8 | leave amount siren laptop half debris connect decline |  
 | bip_39_word_space_9 | leave amount siren laptop half debris connect decline opinion |  
+| bip_39_word_underscore_1 | leave |  
+| bip_39_word_underscore_10 | leave_amount_siren_laptop_half_debris_connect_decline_opinion_dragon |  
+| bip_39_word_underscore_11 | leave_amount_siren_laptop_half_debris_connect_decline_opinion_dragon_time |  
+| bip_39_word_underscore_12 | leave_amount_siren_laptop_half_debris_connect_decline_opinion_dragon_time_ask |  
+| bip_39_word_underscore_2 | leave_amount |  
+| bip_39_word_underscore_3 | leave_amount_siren |  
+| bip_39_word_underscore_4 | leave_amount_siren_laptop |  
+| bip_39_word_underscore_5 | leave_amount_siren_laptop_half |  
+| bip_39_word_underscore_6 | leave_amount_siren_laptop_half_debris |  
+| bip_39_word_underscore_7 | leave_amount_siren_laptop_half_debris_connect |  
+| bip_39_word_underscore_8 | leave_amount_siren_laptop_half_debris_connect_decline |  
+| bip_39_word_underscore_9 | leave_amount_siren_laptop_half_debris_connect_decline_opinion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

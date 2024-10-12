@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | turn |  
+| bip_39_word_dash_10 | turn-differ-sunny-young-account-leave-square-dash-wood-dry |  
+| bip_39_word_dash_11 | turn-differ-sunny-young-account-leave-square-dash-wood-dry-ask |  
+| bip_39_word_dash_12 | turn-differ-sunny-young-account-leave-square-dash-wood-dry-ask-aerobic |  
+| bip_39_word_dash_2 | turn-differ |  
+| bip_39_word_dash_3 | turn-differ-sunny |  
+| bip_39_word_dash_4 | turn-differ-sunny-young |  
+| bip_39_word_dash_5 | turn-differ-sunny-young-account |  
+| bip_39_word_dash_6 | turn-differ-sunny-young-account-leave |  
+| bip_39_word_dash_7 | turn-differ-sunny-young-account-leave-square |  
+| bip_39_word_dash_8 | turn-differ-sunny-young-account-leave-square-dash |  
+| bip_39_word_dash_9 | turn-differ-sunny-young-account-leave-square-dash-wood |  
 | bip_39_word_new_br_1 | turn |  
 | bip_39_word_new_br_10 | turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry |  
 | bip_39_word_new_br_11 | turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry<br>ask |  
@@ -147,6 +159,18 @@ wood |
 | bip_39_word_space_7 | turn differ sunny young account leave square |  
 | bip_39_word_space_8 | turn differ sunny young account leave square dash |  
 | bip_39_word_space_9 | turn differ sunny young account leave square dash wood |  
+| bip_39_word_underscore_1 | turn |  
+| bip_39_word_underscore_10 | turn_differ_sunny_young_account_leave_square_dash_wood_dry |  
+| bip_39_word_underscore_11 | turn_differ_sunny_young_account_leave_square_dash_wood_dry_ask |  
+| bip_39_word_underscore_12 | turn_differ_sunny_young_account_leave_square_dash_wood_dry_ask_aerobic |  
+| bip_39_word_underscore_2 | turn_differ |  
+| bip_39_word_underscore_3 | turn_differ_sunny |  
+| bip_39_word_underscore_4 | turn_differ_sunny_young |  
+| bip_39_word_underscore_5 | turn_differ_sunny_young_account |  
+| bip_39_word_underscore_6 | turn_differ_sunny_young_account_leave |  
+| bip_39_word_underscore_7 | turn_differ_sunny_young_account_leave_square |  
+| bip_39_word_underscore_8 | turn_differ_sunny_young_account_leave_square_dash |  
+| bip_39_word_underscore_9 | turn_differ_sunny_young_account_leave_square_dash_wood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

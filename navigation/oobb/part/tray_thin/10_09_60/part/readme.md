@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | moral |  
+| bip_39_word_dash_10 | moral-hill-gospel-symptom-glue-misery-element-pony-leopard-lottery |  
+| bip_39_word_dash_11 | moral-hill-gospel-symptom-glue-misery-element-pony-leopard-lottery-angry |  
+| bip_39_word_dash_12 | moral-hill-gospel-symptom-glue-misery-element-pony-leopard-lottery-angry-about |  
+| bip_39_word_dash_2 | moral-hill |  
+| bip_39_word_dash_3 | moral-hill-gospel |  
+| bip_39_word_dash_4 | moral-hill-gospel-symptom |  
+| bip_39_word_dash_5 | moral-hill-gospel-symptom-glue |  
+| bip_39_word_dash_6 | moral-hill-gospel-symptom-glue-misery |  
+| bip_39_word_dash_7 | moral-hill-gospel-symptom-glue-misery-element |  
+| bip_39_word_dash_8 | moral-hill-gospel-symptom-glue-misery-element-pony |  
+| bip_39_word_dash_9 | moral-hill-gospel-symptom-glue-misery-element-pony-leopard |  
 | bip_39_word_new_br_1 | moral |  
 | bip_39_word_new_br_10 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony<br>leopard<br>lottery |  
 | bip_39_word_new_br_11 | moral<br>hill<br>gospel<br>symptom<br>glue<br>misery<br>element<br>pony<br>leopard<br>lottery<br>angry |  
@@ -147,6 +159,18 @@ leopard |
 | bip_39_word_space_7 | moral hill gospel symptom glue misery element |  
 | bip_39_word_space_8 | moral hill gospel symptom glue misery element pony |  
 | bip_39_word_space_9 | moral hill gospel symptom glue misery element pony leopard |  
+| bip_39_word_underscore_1 | moral |  
+| bip_39_word_underscore_10 | moral_hill_gospel_symptom_glue_misery_element_pony_leopard_lottery |  
+| bip_39_word_underscore_11 | moral_hill_gospel_symptom_glue_misery_element_pony_leopard_lottery_angry |  
+| bip_39_word_underscore_12 | moral_hill_gospel_symptom_glue_misery_element_pony_leopard_lottery_angry_about |  
+| bip_39_word_underscore_2 | moral_hill |  
+| bip_39_word_underscore_3 | moral_hill_gospel |  
+| bip_39_word_underscore_4 | moral_hill_gospel_symptom |  
+| bip_39_word_underscore_5 | moral_hill_gospel_symptom_glue |  
+| bip_39_word_underscore_6 | moral_hill_gospel_symptom_glue_misery |  
+| bip_39_word_underscore_7 | moral_hill_gospel_symptom_glue_misery_element |  
+| bip_39_word_underscore_8 | moral_hill_gospel_symptom_glue_misery_element_pony |  
+| bip_39_word_underscore_9 | moral_hill_gospel_symptom_glue_misery_element_pony_leopard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

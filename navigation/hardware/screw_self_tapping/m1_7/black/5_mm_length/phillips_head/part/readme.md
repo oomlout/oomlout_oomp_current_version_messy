@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | staff |  
+| bip_39_word_dash_10 | staff-pass-drop-wise-market-palm-there-scheme-hand-ordinary |  
+| bip_39_word_dash_11 | staff-pass-drop-wise-market-palm-there-scheme-hand-ordinary-rose |  
+| bip_39_word_dash_12 | staff-pass-drop-wise-market-palm-there-scheme-hand-ordinary-rose-accident |  
+| bip_39_word_dash_2 | staff-pass |  
+| bip_39_word_dash_3 | staff-pass-drop |  
+| bip_39_word_dash_4 | staff-pass-drop-wise |  
+| bip_39_word_dash_5 | staff-pass-drop-wise-market |  
+| bip_39_word_dash_6 | staff-pass-drop-wise-market-palm |  
+| bip_39_word_dash_7 | staff-pass-drop-wise-market-palm-there |  
+| bip_39_word_dash_8 | staff-pass-drop-wise-market-palm-there-scheme |  
+| bip_39_word_dash_9 | staff-pass-drop-wise-market-palm-there-scheme-hand |  
 | bip_39_word_new_br_1 | staff |  
 | bip_39_word_new_br_10 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary |  
 | bip_39_word_new_br_11 | staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary<br>rose |  
@@ -147,6 +159,18 @@ hand |
 | bip_39_word_space_7 | staff pass drop wise market palm there |  
 | bip_39_word_space_8 | staff pass drop wise market palm there scheme |  
 | bip_39_word_space_9 | staff pass drop wise market palm there scheme hand |  
+| bip_39_word_underscore_1 | staff |  
+| bip_39_word_underscore_10 | staff_pass_drop_wise_market_palm_there_scheme_hand_ordinary |  
+| bip_39_word_underscore_11 | staff_pass_drop_wise_market_palm_there_scheme_hand_ordinary_rose |  
+| bip_39_word_underscore_12 | staff_pass_drop_wise_market_palm_there_scheme_hand_ordinary_rose_accident |  
+| bip_39_word_underscore_2 | staff_pass |  
+| bip_39_word_underscore_3 | staff_pass_drop |  
+| bip_39_word_underscore_4 | staff_pass_drop_wise |  
+| bip_39_word_underscore_5 | staff_pass_drop_wise_market |  
+| bip_39_word_underscore_6 | staff_pass_drop_wise_market_palm |  
+| bip_39_word_underscore_7 | staff_pass_drop_wise_market_palm_there |  
+| bip_39_word_underscore_8 | staff_pass_drop_wise_market_palm_there_scheme |  
+| bip_39_word_underscore_9 | staff_pass_drop_wise_market_palm_there_scheme_hand |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

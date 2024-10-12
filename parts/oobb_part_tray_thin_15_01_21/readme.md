@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | click |  
+| bip_39_word_dash_10 | click-cruise-bring-fox-leader-hole-survey-genius-city-pair |  
+| bip_39_word_dash_11 | click-cruise-bring-fox-leader-hole-survey-genius-city-pair-human |  
+| bip_39_word_dash_12 | click-cruise-bring-fox-leader-hole-survey-genius-city-pair-human-already |  
+| bip_39_word_dash_2 | click-cruise |  
+| bip_39_word_dash_3 | click-cruise-bring |  
+| bip_39_word_dash_4 | click-cruise-bring-fox |  
+| bip_39_word_dash_5 | click-cruise-bring-fox-leader |  
+| bip_39_word_dash_6 | click-cruise-bring-fox-leader-hole |  
+| bip_39_word_dash_7 | click-cruise-bring-fox-leader-hole-survey |  
+| bip_39_word_dash_8 | click-cruise-bring-fox-leader-hole-survey-genius |  
+| bip_39_word_dash_9 | click-cruise-bring-fox-leader-hole-survey-genius-city |  
 | bip_39_word_new_br_1 | click |  
 | bip_39_word_new_br_10 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair |  
 | bip_39_word_new_br_11 | click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair<br>human |  
@@ -147,6 +159,18 @@ city |
 | bip_39_word_space_7 | click cruise bring fox leader hole survey |  
 | bip_39_word_space_8 | click cruise bring fox leader hole survey genius |  
 | bip_39_word_space_9 | click cruise bring fox leader hole survey genius city |  
+| bip_39_word_underscore_1 | click |  
+| bip_39_word_underscore_10 | click_cruise_bring_fox_leader_hole_survey_genius_city_pair |  
+| bip_39_word_underscore_11 | click_cruise_bring_fox_leader_hole_survey_genius_city_pair_human |  
+| bip_39_word_underscore_12 | click_cruise_bring_fox_leader_hole_survey_genius_city_pair_human_already |  
+| bip_39_word_underscore_2 | click_cruise |  
+| bip_39_word_underscore_3 | click_cruise_bring |  
+| bip_39_word_underscore_4 | click_cruise_bring_fox |  
+| bip_39_word_underscore_5 | click_cruise_bring_fox_leader |  
+| bip_39_word_underscore_6 | click_cruise_bring_fox_leader_hole |  
+| bip_39_word_underscore_7 | click_cruise_bring_fox_leader_hole_survey |  
+| bip_39_word_underscore_8 | click_cruise_bring_fox_leader_hole_survey_genius |  
+| bip_39_word_underscore_9 | click_cruise_bring_fox_leader_hole_survey_genius_city |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fragile
+bip_39_word_dash_10: fragile-ostrich-identify-universe-soon-glow-since-abandon-flock-include
+bip_39_word_dash_11: fragile-ostrich-identify-universe-soon-glow-since-abandon-flock-include-bonus
+bip_39_word_dash_12: fragile-ostrich-identify-universe-soon-glow-since-abandon-flock-include-bonus-already
+bip_39_word_dash_2: fragile-ostrich
+bip_39_word_dash_3: fragile-ostrich-identify
+bip_39_word_dash_4: fragile-ostrich-identify-universe
+bip_39_word_dash_5: fragile-ostrich-identify-universe-soon
+bip_39_word_dash_6: fragile-ostrich-identify-universe-soon-glow
+bip_39_word_dash_7: fragile-ostrich-identify-universe-soon-glow-since
+bip_39_word_dash_8: fragile-ostrich-identify-universe-soon-glow-since-abandon
+bip_39_word_dash_9: fragile-ostrich-identify-universe-soon-glow-since-abandon-flock
 bip_39_word_new_br_1: fragile
 bip_39_word_new_br_10: fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon<br>flock<br>include
 bip_39_word_new_br_11: fragile<br>ostrich<br>identify<br>universe<br>soon<br>glow<br>since<br>abandon<br>flock<br>include<br>bonus
@@ -194,6 +206,18 @@ bip_39_word_space_6: fragile ostrich identify universe soon glow
 bip_39_word_space_7: fragile ostrich identify universe soon glow since
 bip_39_word_space_8: fragile ostrich identify universe soon glow since abandon
 bip_39_word_space_9: fragile ostrich identify universe soon glow since abandon flock
+bip_39_word_underscore_1: fragile
+bip_39_word_underscore_10: fragile_ostrich_identify_universe_soon_glow_since_abandon_flock_include
+bip_39_word_underscore_11: fragile_ostrich_identify_universe_soon_glow_since_abandon_flock_include_bonus
+bip_39_word_underscore_12: fragile_ostrich_identify_universe_soon_glow_since_abandon_flock_include_bonus_already
+bip_39_word_underscore_2: fragile_ostrich
+bip_39_word_underscore_3: fragile_ostrich_identify
+bip_39_word_underscore_4: fragile_ostrich_identify_universe
+bip_39_word_underscore_5: fragile_ostrich_identify_universe_soon
+bip_39_word_underscore_6: fragile_ostrich_identify_universe_soon_glow
+bip_39_word_underscore_7: fragile_ostrich_identify_universe_soon_glow_since
+bip_39_word_underscore_8: fragile_ostrich_identify_universe_soon_glow_since_abandon
+bip_39_word_underscore_9: fragile_ostrich_identify_universe_soon_glow_since_abandon_flock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | photo |  
+| bip_39_word_dash_10 | photo-expand-forward-abstract-warrior-solve-mobile-attract-giggle-attack |  
+| bip_39_word_dash_11 | photo-expand-forward-abstract-warrior-solve-mobile-attract-giggle-attack-cook |  
+| bip_39_word_dash_12 | photo-expand-forward-abstract-warrior-solve-mobile-attract-giggle-attack-cook-alone |  
+| bip_39_word_dash_2 | photo-expand |  
+| bip_39_word_dash_3 | photo-expand-forward |  
+| bip_39_word_dash_4 | photo-expand-forward-abstract |  
+| bip_39_word_dash_5 | photo-expand-forward-abstract-warrior |  
+| bip_39_word_dash_6 | photo-expand-forward-abstract-warrior-solve |  
+| bip_39_word_dash_7 | photo-expand-forward-abstract-warrior-solve-mobile |  
+| bip_39_word_dash_8 | photo-expand-forward-abstract-warrior-solve-mobile-attract |  
+| bip_39_word_dash_9 | photo-expand-forward-abstract-warrior-solve-mobile-attract-giggle |  
 | bip_39_word_new_br_1 | photo |  
 | bip_39_word_new_br_10 | photo<br>expand<br>forward<br>abstract<br>warrior<br>solve<br>mobile<br>attract<br>giggle<br>attack |  
 | bip_39_word_new_br_11 | photo<br>expand<br>forward<br>abstract<br>warrior<br>solve<br>mobile<br>attract<br>giggle<br>attack<br>cook |  
@@ -147,6 +159,18 @@ giggle |
 | bip_39_word_space_7 | photo expand forward abstract warrior solve mobile |  
 | bip_39_word_space_8 | photo expand forward abstract warrior solve mobile attract |  
 | bip_39_word_space_9 | photo expand forward abstract warrior solve mobile attract giggle |  
+| bip_39_word_underscore_1 | photo |  
+| bip_39_word_underscore_10 | photo_expand_forward_abstract_warrior_solve_mobile_attract_giggle_attack |  
+| bip_39_word_underscore_11 | photo_expand_forward_abstract_warrior_solve_mobile_attract_giggle_attack_cook |  
+| bip_39_word_underscore_12 | photo_expand_forward_abstract_warrior_solve_mobile_attract_giggle_attack_cook_alone |  
+| bip_39_word_underscore_2 | photo_expand |  
+| bip_39_word_underscore_3 | photo_expand_forward |  
+| bip_39_word_underscore_4 | photo_expand_forward_abstract |  
+| bip_39_word_underscore_5 | photo_expand_forward_abstract_warrior |  
+| bip_39_word_underscore_6 | photo_expand_forward_abstract_warrior_solve |  
+| bip_39_word_underscore_7 | photo_expand_forward_abstract_warrior_solve_mobile |  
+| bip_39_word_underscore_8 | photo_expand_forward_abstract_warrior_solve_mobile_attract |  
+| bip_39_word_underscore_9 | photo_expand_forward_abstract_warrior_solve_mobile_attract_giggle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

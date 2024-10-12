@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | strike |  
+| bip_39_word_dash_10 | strike-cotton-dry-anchor-mistake-chimney-draft-unique-logic-damp |  
+| bip_39_word_dash_11 | strike-cotton-dry-anchor-mistake-chimney-draft-unique-logic-damp-inner |  
+| bip_39_word_dash_12 | strike-cotton-dry-anchor-mistake-chimney-draft-unique-logic-damp-inner-aunt |  
+| bip_39_word_dash_2 | strike-cotton |  
+| bip_39_word_dash_3 | strike-cotton-dry |  
+| bip_39_word_dash_4 | strike-cotton-dry-anchor |  
+| bip_39_word_dash_5 | strike-cotton-dry-anchor-mistake |  
+| bip_39_word_dash_6 | strike-cotton-dry-anchor-mistake-chimney |  
+| bip_39_word_dash_7 | strike-cotton-dry-anchor-mistake-chimney-draft |  
+| bip_39_word_dash_8 | strike-cotton-dry-anchor-mistake-chimney-draft-unique |  
+| bip_39_word_dash_9 | strike-cotton-dry-anchor-mistake-chimney-draft-unique-logic |  
 | bip_39_word_new_br_1 | strike |  
 | bip_39_word_new_br_10 | strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp |  
 | bip_39_word_new_br_11 | strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp<br>inner |  
@@ -147,6 +159,18 @@ logic |
 | bip_39_word_space_7 | strike cotton dry anchor mistake chimney draft |  
 | bip_39_word_space_8 | strike cotton dry anchor mistake chimney draft unique |  
 | bip_39_word_space_9 | strike cotton dry anchor mistake chimney draft unique logic |  
+| bip_39_word_underscore_1 | strike |  
+| bip_39_word_underscore_10 | strike_cotton_dry_anchor_mistake_chimney_draft_unique_logic_damp |  
+| bip_39_word_underscore_11 | strike_cotton_dry_anchor_mistake_chimney_draft_unique_logic_damp_inner |  
+| bip_39_word_underscore_12 | strike_cotton_dry_anchor_mistake_chimney_draft_unique_logic_damp_inner_aunt |  
+| bip_39_word_underscore_2 | strike_cotton |  
+| bip_39_word_underscore_3 | strike_cotton_dry |  
+| bip_39_word_underscore_4 | strike_cotton_dry_anchor |  
+| bip_39_word_underscore_5 | strike_cotton_dry_anchor_mistake |  
+| bip_39_word_underscore_6 | strike_cotton_dry_anchor_mistake_chimney |  
+| bip_39_word_underscore_7 | strike_cotton_dry_anchor_mistake_chimney_draft |  
+| bip_39_word_underscore_8 | strike_cotton_dry_anchor_mistake_chimney_draft_unique |  
+| bip_39_word_underscore_9 | strike_cotton_dry_anchor_mistake_chimney_draft_unique_logic |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

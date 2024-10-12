@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | film |  
+| bip_39_word_dash_10 | film-adult-nurse-fork-pigeon-body-pool-teach-awkward-museum |  
+| bip_39_word_dash_11 | film-adult-nurse-fork-pigeon-body-pool-teach-awkward-museum-journey |  
+| bip_39_word_dash_12 | film-adult-nurse-fork-pigeon-body-pool-teach-awkward-museum-journey-alcohol |  
+| bip_39_word_dash_2 | film-adult |  
+| bip_39_word_dash_3 | film-adult-nurse |  
+| bip_39_word_dash_4 | film-adult-nurse-fork |  
+| bip_39_word_dash_5 | film-adult-nurse-fork-pigeon |  
+| bip_39_word_dash_6 | film-adult-nurse-fork-pigeon-body |  
+| bip_39_word_dash_7 | film-adult-nurse-fork-pigeon-body-pool |  
+| bip_39_word_dash_8 | film-adult-nurse-fork-pigeon-body-pool-teach |  
+| bip_39_word_dash_9 | film-adult-nurse-fork-pigeon-body-pool-teach-awkward |  
 | bip_39_word_new_br_1 | film |  
 | bip_39_word_new_br_10 | film<br>adult<br>nurse<br>fork<br>pigeon<br>body<br>pool<br>teach<br>awkward<br>museum |  
 | bip_39_word_new_br_11 | film<br>adult<br>nurse<br>fork<br>pigeon<br>body<br>pool<br>teach<br>awkward<br>museum<br>journey |  
@@ -147,6 +159,18 @@ awkward |
 | bip_39_word_space_7 | film adult nurse fork pigeon body pool |  
 | bip_39_word_space_8 | film adult nurse fork pigeon body pool teach |  
 | bip_39_word_space_9 | film adult nurse fork pigeon body pool teach awkward |  
+| bip_39_word_underscore_1 | film |  
+| bip_39_word_underscore_10 | film_adult_nurse_fork_pigeon_body_pool_teach_awkward_museum |  
+| bip_39_word_underscore_11 | film_adult_nurse_fork_pigeon_body_pool_teach_awkward_museum_journey |  
+| bip_39_word_underscore_12 | film_adult_nurse_fork_pigeon_body_pool_teach_awkward_museum_journey_alcohol |  
+| bip_39_word_underscore_2 | film_adult |  
+| bip_39_word_underscore_3 | film_adult_nurse |  
+| bip_39_word_underscore_4 | film_adult_nurse_fork |  
+| bip_39_word_underscore_5 | film_adult_nurse_fork_pigeon |  
+| bip_39_word_underscore_6 | film_adult_nurse_fork_pigeon_body |  
+| bip_39_word_underscore_7 | film_adult_nurse_fork_pigeon_body_pool |  
+| bip_39_word_underscore_8 | film_adult_nurse_fork_pigeon_body_pool_teach |  
+| bip_39_word_underscore_9 | film_adult_nurse_fork_pigeon_body_pool_teach_awkward |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

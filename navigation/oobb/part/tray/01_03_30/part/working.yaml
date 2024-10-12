@@ -1,3 +1,15 @@
+bip_39_word_dash_1: problem
+bip_39_word_dash_10: problem-six-code-balcony-excuse-stock-kingdom-mother-again-fancy
+bip_39_word_dash_11: problem-six-code-balcony-excuse-stock-kingdom-mother-again-fancy-valid
+bip_39_word_dash_12: problem-six-code-balcony-excuse-stock-kingdom-mother-again-fancy-valid-arrow
+bip_39_word_dash_2: problem-six
+bip_39_word_dash_3: problem-six-code
+bip_39_word_dash_4: problem-six-code-balcony
+bip_39_word_dash_5: problem-six-code-balcony-excuse
+bip_39_word_dash_6: problem-six-code-balcony-excuse-stock
+bip_39_word_dash_7: problem-six-code-balcony-excuse-stock-kingdom
+bip_39_word_dash_8: problem-six-code-balcony-excuse-stock-kingdom-mother
+bip_39_word_dash_9: problem-six-code-balcony-excuse-stock-kingdom-mother-again
 bip_39_word_new_br_1: problem
 bip_39_word_new_br_10: problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother<br>again<br>fancy
 bip_39_word_new_br_11: problem<br>six<br>code<br>balcony<br>excuse<br>stock<br>kingdom<br>mother<br>again<br>fancy<br>valid
@@ -193,6 +205,18 @@ bip_39_word_space_6: problem six code balcony excuse stock
 bip_39_word_space_7: problem six code balcony excuse stock kingdom
 bip_39_word_space_8: problem six code balcony excuse stock kingdom mother
 bip_39_word_space_9: problem six code balcony excuse stock kingdom mother again
+bip_39_word_underscore_1: problem
+bip_39_word_underscore_10: problem_six_code_balcony_excuse_stock_kingdom_mother_again_fancy
+bip_39_word_underscore_11: problem_six_code_balcony_excuse_stock_kingdom_mother_again_fancy_valid
+bip_39_word_underscore_12: problem_six_code_balcony_excuse_stock_kingdom_mother_again_fancy_valid_arrow
+bip_39_word_underscore_2: problem_six
+bip_39_word_underscore_3: problem_six_code
+bip_39_word_underscore_4: problem_six_code_balcony
+bip_39_word_underscore_5: problem_six_code_balcony_excuse
+bip_39_word_underscore_6: problem_six_code_balcony_excuse_stock
+bip_39_word_underscore_7: problem_six_code_balcony_excuse_stock_kingdom
+bip_39_word_underscore_8: problem_six_code_balcony_excuse_stock_kingdom_mother
+bip_39_word_underscore_9: problem_six_code_balcony_excuse_stock_kingdom_mother_again
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

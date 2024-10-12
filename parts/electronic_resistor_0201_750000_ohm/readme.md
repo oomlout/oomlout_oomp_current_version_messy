@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | whisper |  
+| bip_39_word_dash_10 | whisper-glue-join-sibling-marble-inflict-acquire-main-strong-cruise |  
+| bip_39_word_dash_11 | whisper-glue-join-sibling-marble-inflict-acquire-main-strong-cruise-task |  
+| bip_39_word_dash_12 | whisper-glue-join-sibling-marble-inflict-acquire-main-strong-cruise-task-atom |  
+| bip_39_word_dash_2 | whisper-glue |  
+| bip_39_word_dash_3 | whisper-glue-join |  
+| bip_39_word_dash_4 | whisper-glue-join-sibling |  
+| bip_39_word_dash_5 | whisper-glue-join-sibling-marble |  
+| bip_39_word_dash_6 | whisper-glue-join-sibling-marble-inflict |  
+| bip_39_word_dash_7 | whisper-glue-join-sibling-marble-inflict-acquire |  
+| bip_39_word_dash_8 | whisper-glue-join-sibling-marble-inflict-acquire-main |  
+| bip_39_word_dash_9 | whisper-glue-join-sibling-marble-inflict-acquire-main-strong |  
 | bip_39_word_new_br_1 | whisper |  
 | bip_39_word_new_br_10 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise |  
 | bip_39_word_new_br_11 | whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise<br>task |  
@@ -147,6 +159,18 @@ strong |
 | bip_39_word_space_7 | whisper glue join sibling marble inflict acquire |  
 | bip_39_word_space_8 | whisper glue join sibling marble inflict acquire main |  
 | bip_39_word_space_9 | whisper glue join sibling marble inflict acquire main strong |  
+| bip_39_word_underscore_1 | whisper |  
+| bip_39_word_underscore_10 | whisper_glue_join_sibling_marble_inflict_acquire_main_strong_cruise |  
+| bip_39_word_underscore_11 | whisper_glue_join_sibling_marble_inflict_acquire_main_strong_cruise_task |  
+| bip_39_word_underscore_12 | whisper_glue_join_sibling_marble_inflict_acquire_main_strong_cruise_task_atom |  
+| bip_39_word_underscore_2 | whisper_glue |  
+| bip_39_word_underscore_3 | whisper_glue_join |  
+| bip_39_word_underscore_4 | whisper_glue_join_sibling |  
+| bip_39_word_underscore_5 | whisper_glue_join_sibling_marble |  
+| bip_39_word_underscore_6 | whisper_glue_join_sibling_marble_inflict |  
+| bip_39_word_underscore_7 | whisper_glue_join_sibling_marble_inflict_acquire |  
+| bip_39_word_underscore_8 | whisper_glue_join_sibling_marble_inflict_acquire_main |  
+| bip_39_word_underscore_9 | whisper_glue_join_sibling_marble_inflict_acquire_main_strong |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

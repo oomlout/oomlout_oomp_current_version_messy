@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chronic |  
+| bip_39_word_dash_10 | chronic-lecture-few-come-surround-swear-month-velvet-marine-route |  
+| bip_39_word_dash_11 | chronic-lecture-few-come-surround-swear-month-velvet-marine-route-visual |  
+| bip_39_word_dash_12 | chronic-lecture-few-come-surround-swear-month-velvet-marine-route-visual-artist |  
+| bip_39_word_dash_2 | chronic-lecture |  
+| bip_39_word_dash_3 | chronic-lecture-few |  
+| bip_39_word_dash_4 | chronic-lecture-few-come |  
+| bip_39_word_dash_5 | chronic-lecture-few-come-surround |  
+| bip_39_word_dash_6 | chronic-lecture-few-come-surround-swear |  
+| bip_39_word_dash_7 | chronic-lecture-few-come-surround-swear-month |  
+| bip_39_word_dash_8 | chronic-lecture-few-come-surround-swear-month-velvet |  
+| bip_39_word_dash_9 | chronic-lecture-few-come-surround-swear-month-velvet-marine |  
 | bip_39_word_new_br_1 | chronic |  
 | bip_39_word_new_br_10 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet<br>marine<br>route |  
 | bip_39_word_new_br_11 | chronic<br>lecture<br>few<br>come<br>surround<br>swear<br>month<br>velvet<br>marine<br>route<br>visual |  
@@ -147,6 +159,18 @@ marine |
 | bip_39_word_space_7 | chronic lecture few come surround swear month |  
 | bip_39_word_space_8 | chronic lecture few come surround swear month velvet |  
 | bip_39_word_space_9 | chronic lecture few come surround swear month velvet marine |  
+| bip_39_word_underscore_1 | chronic |  
+| bip_39_word_underscore_10 | chronic_lecture_few_come_surround_swear_month_velvet_marine_route |  
+| bip_39_word_underscore_11 | chronic_lecture_few_come_surround_swear_month_velvet_marine_route_visual |  
+| bip_39_word_underscore_12 | chronic_lecture_few_come_surround_swear_month_velvet_marine_route_visual_artist |  
+| bip_39_word_underscore_2 | chronic_lecture |  
+| bip_39_word_underscore_3 | chronic_lecture_few |  
+| bip_39_word_underscore_4 | chronic_lecture_few_come |  
+| bip_39_word_underscore_5 | chronic_lecture_few_come_surround |  
+| bip_39_word_underscore_6 | chronic_lecture_few_come_surround_swear |  
+| bip_39_word_underscore_7 | chronic_lecture_few_come_surround_swear_month |  
+| bip_39_word_underscore_8 | chronic_lecture_few_come_surround_swear_month_velvet |  
+| bip_39_word_underscore_9 | chronic_lecture_few_come_surround_swear_month_velvet_marine |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | initial |  
+| bip_39_word_dash_10 | initial-valve-where-globe-trash-suggest-monitor-surround-cycle-detect |  
+| bip_39_word_dash_11 | initial-valve-where-globe-trash-suggest-monitor-surround-cycle-detect-plug |  
+| bip_39_word_dash_12 | initial-valve-where-globe-trash-suggest-monitor-surround-cycle-detect-plug-advice |  
+| bip_39_word_dash_2 | initial-valve |  
+| bip_39_word_dash_3 | initial-valve-where |  
+| bip_39_word_dash_4 | initial-valve-where-globe |  
+| bip_39_word_dash_5 | initial-valve-where-globe-trash |  
+| bip_39_word_dash_6 | initial-valve-where-globe-trash-suggest |  
+| bip_39_word_dash_7 | initial-valve-where-globe-trash-suggest-monitor |  
+| bip_39_word_dash_8 | initial-valve-where-globe-trash-suggest-monitor-surround |  
+| bip_39_word_dash_9 | initial-valve-where-globe-trash-suggest-monitor-surround-cycle |  
 | bip_39_word_new_br_1 | initial |  
 | bip_39_word_new_br_10 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround<br>cycle<br>detect |  
 | bip_39_word_new_br_11 | initial<br>valve<br>where<br>globe<br>trash<br>suggest<br>monitor<br>surround<br>cycle<br>detect<br>plug |  
@@ -147,6 +159,18 @@ cycle |
 | bip_39_word_space_7 | initial valve where globe trash suggest monitor |  
 | bip_39_word_space_8 | initial valve where globe trash suggest monitor surround |  
 | bip_39_word_space_9 | initial valve where globe trash suggest monitor surround cycle |  
+| bip_39_word_underscore_1 | initial |  
+| bip_39_word_underscore_10 | initial_valve_where_globe_trash_suggest_monitor_surround_cycle_detect |  
+| bip_39_word_underscore_11 | initial_valve_where_globe_trash_suggest_monitor_surround_cycle_detect_plug |  
+| bip_39_word_underscore_12 | initial_valve_where_globe_trash_suggest_monitor_surround_cycle_detect_plug_advice |  
+| bip_39_word_underscore_2 | initial_valve |  
+| bip_39_word_underscore_3 | initial_valve_where |  
+| bip_39_word_underscore_4 | initial_valve_where_globe |  
+| bip_39_word_underscore_5 | initial_valve_where_globe_trash |  
+| bip_39_word_underscore_6 | initial_valve_where_globe_trash_suggest |  
+| bip_39_word_underscore_7 | initial_valve_where_globe_trash_suggest_monitor |  
+| bip_39_word_underscore_8 | initial_valve_where_globe_trash_suggest_monitor_surround |  
+| bip_39_word_underscore_9 | initial_valve_where_globe_trash_suggest_monitor_surround_cycle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

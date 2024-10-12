@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exercise
+bip_39_word_dash_10: exercise-taste-divide-stuff-fish-avocado-jump-combine-require-vacant
+bip_39_word_dash_11: exercise-taste-divide-stuff-fish-avocado-jump-combine-require-vacant-ecology
+bip_39_word_dash_12: exercise-taste-divide-stuff-fish-avocado-jump-combine-require-vacant-ecology-antenna
+bip_39_word_dash_2: exercise-taste
+bip_39_word_dash_3: exercise-taste-divide
+bip_39_word_dash_4: exercise-taste-divide-stuff
+bip_39_word_dash_5: exercise-taste-divide-stuff-fish
+bip_39_word_dash_6: exercise-taste-divide-stuff-fish-avocado
+bip_39_word_dash_7: exercise-taste-divide-stuff-fish-avocado-jump
+bip_39_word_dash_8: exercise-taste-divide-stuff-fish-avocado-jump-combine
+bip_39_word_dash_9: exercise-taste-divide-stuff-fish-avocado-jump-combine-require
 bip_39_word_new_br_1: exercise
 bip_39_word_new_br_10: exercise<br>taste<br>divide<br>stuff<br>fish<br>avocado<br>jump<br>combine<br>require<br>vacant
 bip_39_word_new_br_11: exercise<br>taste<br>divide<br>stuff<br>fish<br>avocado<br>jump<br>combine<br>require<br>vacant<br>ecology
@@ -194,6 +206,18 @@ bip_39_word_space_6: exercise taste divide stuff fish avocado
 bip_39_word_space_7: exercise taste divide stuff fish avocado jump
 bip_39_word_space_8: exercise taste divide stuff fish avocado jump combine
 bip_39_word_space_9: exercise taste divide stuff fish avocado jump combine require
+bip_39_word_underscore_1: exercise
+bip_39_word_underscore_10: exercise_taste_divide_stuff_fish_avocado_jump_combine_require_vacant
+bip_39_word_underscore_11: exercise_taste_divide_stuff_fish_avocado_jump_combine_require_vacant_ecology
+bip_39_word_underscore_12: exercise_taste_divide_stuff_fish_avocado_jump_combine_require_vacant_ecology_antenna
+bip_39_word_underscore_2: exercise_taste
+bip_39_word_underscore_3: exercise_taste_divide
+bip_39_word_underscore_4: exercise_taste_divide_stuff
+bip_39_word_underscore_5: exercise_taste_divide_stuff_fish
+bip_39_word_underscore_6: exercise_taste_divide_stuff_fish_avocado
+bip_39_word_underscore_7: exercise_taste_divide_stuff_fish_avocado_jump
+bip_39_word_underscore_8: exercise_taste_divide_stuff_fish_avocado_jump_combine
+bip_39_word_underscore_9: exercise_taste_divide_stuff_fish_avocado_jump_combine_require
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

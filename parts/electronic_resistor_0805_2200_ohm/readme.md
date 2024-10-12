@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trick |  
+| bip_39_word_dash_10 | trick-gloom-crystal-example-prepare-universe-devote-stock-goose-awkward |  
+| bip_39_word_dash_11 | trick-gloom-crystal-example-prepare-universe-devote-stock-goose-awkward-all |  
+| bip_39_word_dash_12 | trick-gloom-crystal-example-prepare-universe-devote-stock-goose-awkward-all-around |  
+| bip_39_word_dash_2 | trick-gloom |  
+| bip_39_word_dash_3 | trick-gloom-crystal |  
+| bip_39_word_dash_4 | trick-gloom-crystal-example |  
+| bip_39_word_dash_5 | trick-gloom-crystal-example-prepare |  
+| bip_39_word_dash_6 | trick-gloom-crystal-example-prepare-universe |  
+| bip_39_word_dash_7 | trick-gloom-crystal-example-prepare-universe-devote |  
+| bip_39_word_dash_8 | trick-gloom-crystal-example-prepare-universe-devote-stock |  
+| bip_39_word_dash_9 | trick-gloom-crystal-example-prepare-universe-devote-stock-goose |  
 | bip_39_word_new_br_1 | trick |  
 | bip_39_word_new_br_10 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock<br>goose<br>awkward |  
 | bip_39_word_new_br_11 | trick<br>gloom<br>crystal<br>example<br>prepare<br>universe<br>devote<br>stock<br>goose<br>awkward<br>all |  
@@ -147,6 +159,18 @@ goose |
 | bip_39_word_space_7 | trick gloom crystal example prepare universe devote |  
 | bip_39_word_space_8 | trick gloom crystal example prepare universe devote stock |  
 | bip_39_word_space_9 | trick gloom crystal example prepare universe devote stock goose |  
+| bip_39_word_underscore_1 | trick |  
+| bip_39_word_underscore_10 | trick_gloom_crystal_example_prepare_universe_devote_stock_goose_awkward |  
+| bip_39_word_underscore_11 | trick_gloom_crystal_example_prepare_universe_devote_stock_goose_awkward_all |  
+| bip_39_word_underscore_12 | trick_gloom_crystal_example_prepare_universe_devote_stock_goose_awkward_all_around |  
+| bip_39_word_underscore_2 | trick_gloom |  
+| bip_39_word_underscore_3 | trick_gloom_crystal |  
+| bip_39_word_underscore_4 | trick_gloom_crystal_example |  
+| bip_39_word_underscore_5 | trick_gloom_crystal_example_prepare |  
+| bip_39_word_underscore_6 | trick_gloom_crystal_example_prepare_universe |  
+| bip_39_word_underscore_7 | trick_gloom_crystal_example_prepare_universe_devote |  
+| bip_39_word_underscore_8 | trick_gloom_crystal_example_prepare_universe_devote_stock |  
+| bip_39_word_underscore_9 | trick_gloom_crystal_example_prepare_universe_devote_stock_goose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

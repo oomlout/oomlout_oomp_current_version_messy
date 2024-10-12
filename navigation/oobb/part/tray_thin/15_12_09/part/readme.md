@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crater |  
+| bip_39_word_dash_10 | crater-era-alter-code-film-party-hammer-buddy-action-cash |  
+| bip_39_word_dash_11 | crater-era-alter-code-film-party-hammer-buddy-action-cash-ketchup |  
+| bip_39_word_dash_12 | crater-era-alter-code-film-party-hammer-buddy-action-cash-ketchup-august |  
+| bip_39_word_dash_2 | crater-era |  
+| bip_39_word_dash_3 | crater-era-alter |  
+| bip_39_word_dash_4 | crater-era-alter-code |  
+| bip_39_word_dash_5 | crater-era-alter-code-film |  
+| bip_39_word_dash_6 | crater-era-alter-code-film-party |  
+| bip_39_word_dash_7 | crater-era-alter-code-film-party-hammer |  
+| bip_39_word_dash_8 | crater-era-alter-code-film-party-hammer-buddy |  
+| bip_39_word_dash_9 | crater-era-alter-code-film-party-hammer-buddy-action |  
 | bip_39_word_new_br_1 | crater |  
 | bip_39_word_new_br_10 | crater<br>era<br>alter<br>code<br>film<br>party<br>hammer<br>buddy<br>action<br>cash |  
 | bip_39_word_new_br_11 | crater<br>era<br>alter<br>code<br>film<br>party<br>hammer<br>buddy<br>action<br>cash<br>ketchup |  
@@ -147,6 +159,18 @@ action |
 | bip_39_word_space_7 | crater era alter code film party hammer |  
 | bip_39_word_space_8 | crater era alter code film party hammer buddy |  
 | bip_39_word_space_9 | crater era alter code film party hammer buddy action |  
+| bip_39_word_underscore_1 | crater |  
+| bip_39_word_underscore_10 | crater_era_alter_code_film_party_hammer_buddy_action_cash |  
+| bip_39_word_underscore_11 | crater_era_alter_code_film_party_hammer_buddy_action_cash_ketchup |  
+| bip_39_word_underscore_12 | crater_era_alter_code_film_party_hammer_buddy_action_cash_ketchup_august |  
+| bip_39_word_underscore_2 | crater_era |  
+| bip_39_word_underscore_3 | crater_era_alter |  
+| bip_39_word_underscore_4 | crater_era_alter_code |  
+| bip_39_word_underscore_5 | crater_era_alter_code_film |  
+| bip_39_word_underscore_6 | crater_era_alter_code_film_party |  
+| bip_39_word_underscore_7 | crater_era_alter_code_film_party_hammer |  
+| bip_39_word_underscore_8 | crater_era_alter_code_film_party_hammer_buddy |  
+| bip_39_word_underscore_9 | crater_era_alter_code_film_party_hammer_buddy_action |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

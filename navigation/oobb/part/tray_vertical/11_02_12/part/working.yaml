@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dress
+bip_39_word_dash_10: dress-letter-flame-tornado-dinosaur-useless-sting-tissue-box-earth
+bip_39_word_dash_11: dress-letter-flame-tornado-dinosaur-useless-sting-tissue-box-earth-youth
+bip_39_word_dash_12: dress-letter-flame-tornado-dinosaur-useless-sting-tissue-box-earth-youth-also
+bip_39_word_dash_2: dress-letter
+bip_39_word_dash_3: dress-letter-flame
+bip_39_word_dash_4: dress-letter-flame-tornado
+bip_39_word_dash_5: dress-letter-flame-tornado-dinosaur
+bip_39_word_dash_6: dress-letter-flame-tornado-dinosaur-useless
+bip_39_word_dash_7: dress-letter-flame-tornado-dinosaur-useless-sting
+bip_39_word_dash_8: dress-letter-flame-tornado-dinosaur-useless-sting-tissue
+bip_39_word_dash_9: dress-letter-flame-tornado-dinosaur-useless-sting-tissue-box
 bip_39_word_new_br_1: dress
 bip_39_word_new_br_10: dress<br>letter<br>flame<br>tornado<br>dinosaur<br>useless<br>sting<br>tissue<br>box<br>earth
 bip_39_word_new_br_11: dress<br>letter<br>flame<br>tornado<br>dinosaur<br>useless<br>sting<br>tissue<br>box<br>earth<br>youth
@@ -194,6 +206,18 @@ bip_39_word_space_6: dress letter flame tornado dinosaur useless
 bip_39_word_space_7: dress letter flame tornado dinosaur useless sting
 bip_39_word_space_8: dress letter flame tornado dinosaur useless sting tissue
 bip_39_word_space_9: dress letter flame tornado dinosaur useless sting tissue box
+bip_39_word_underscore_1: dress
+bip_39_word_underscore_10: dress_letter_flame_tornado_dinosaur_useless_sting_tissue_box_earth
+bip_39_word_underscore_11: dress_letter_flame_tornado_dinosaur_useless_sting_tissue_box_earth_youth
+bip_39_word_underscore_12: dress_letter_flame_tornado_dinosaur_useless_sting_tissue_box_earth_youth_also
+bip_39_word_underscore_2: dress_letter
+bip_39_word_underscore_3: dress_letter_flame
+bip_39_word_underscore_4: dress_letter_flame_tornado
+bip_39_word_underscore_5: dress_letter_flame_tornado_dinosaur
+bip_39_word_underscore_6: dress_letter_flame_tornado_dinosaur_useless
+bip_39_word_underscore_7: dress_letter_flame_tornado_dinosaur_useless_sting
+bip_39_word_underscore_8: dress_letter_flame_tornado_dinosaur_useless_sting_tissue
+bip_39_word_underscore_9: dress_letter_flame_tornado_dinosaur_useless_sting_tissue_box
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

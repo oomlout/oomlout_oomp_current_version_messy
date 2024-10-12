@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | range |  
+| bip_39_word_dash_10 | range-cute-squeeze-stand-alcohol-treat-federal-voice-order-reunion |  
+| bip_39_word_dash_11 | range-cute-squeeze-stand-alcohol-treat-federal-voice-order-reunion-pony |  
+| bip_39_word_dash_12 | range-cute-squeeze-stand-alcohol-treat-federal-voice-order-reunion-pony-about |  
+| bip_39_word_dash_2 | range-cute |  
+| bip_39_word_dash_3 | range-cute-squeeze |  
+| bip_39_word_dash_4 | range-cute-squeeze-stand |  
+| bip_39_word_dash_5 | range-cute-squeeze-stand-alcohol |  
+| bip_39_word_dash_6 | range-cute-squeeze-stand-alcohol-treat |  
+| bip_39_word_dash_7 | range-cute-squeeze-stand-alcohol-treat-federal |  
+| bip_39_word_dash_8 | range-cute-squeeze-stand-alcohol-treat-federal-voice |  
+| bip_39_word_dash_9 | range-cute-squeeze-stand-alcohol-treat-federal-voice-order |  
 | bip_39_word_new_br_1 | range |  
 | bip_39_word_new_br_10 | range<br>cute<br>squeeze<br>stand<br>alcohol<br>treat<br>federal<br>voice<br>order<br>reunion |  
 | bip_39_word_new_br_11 | range<br>cute<br>squeeze<br>stand<br>alcohol<br>treat<br>federal<br>voice<br>order<br>reunion<br>pony |  
@@ -147,6 +159,18 @@ order |
 | bip_39_word_space_7 | range cute squeeze stand alcohol treat federal |  
 | bip_39_word_space_8 | range cute squeeze stand alcohol treat federal voice |  
 | bip_39_word_space_9 | range cute squeeze stand alcohol treat federal voice order |  
+| bip_39_word_underscore_1 | range |  
+| bip_39_word_underscore_10 | range_cute_squeeze_stand_alcohol_treat_federal_voice_order_reunion |  
+| bip_39_word_underscore_11 | range_cute_squeeze_stand_alcohol_treat_federal_voice_order_reunion_pony |  
+| bip_39_word_underscore_12 | range_cute_squeeze_stand_alcohol_treat_federal_voice_order_reunion_pony_about |  
+| bip_39_word_underscore_2 | range_cute |  
+| bip_39_word_underscore_3 | range_cute_squeeze |  
+| bip_39_word_underscore_4 | range_cute_squeeze_stand |  
+| bip_39_word_underscore_5 | range_cute_squeeze_stand_alcohol |  
+| bip_39_word_underscore_6 | range_cute_squeeze_stand_alcohol_treat |  
+| bip_39_word_underscore_7 | range_cute_squeeze_stand_alcohol_treat_federal |  
+| bip_39_word_underscore_8 | range_cute_squeeze_stand_alcohol_treat_federal_voice |  
+| bip_39_word_underscore_9 | range_cute_squeeze_stand_alcohol_treat_federal_voice_order |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

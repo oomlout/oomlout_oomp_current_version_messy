@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | forward |  
+| bip_39_word_dash_10 | forward-opinion-uphold-buzz-tilt-nose-firm-leave-admit-siege |  
+| bip_39_word_dash_11 | forward-opinion-uphold-buzz-tilt-nose-firm-leave-admit-siege-stable |  
+| bip_39_word_dash_12 | forward-opinion-uphold-buzz-tilt-nose-firm-leave-admit-siege-stable-above |  
+| bip_39_word_dash_2 | forward-opinion |  
+| bip_39_word_dash_3 | forward-opinion-uphold |  
+| bip_39_word_dash_4 | forward-opinion-uphold-buzz |  
+| bip_39_word_dash_5 | forward-opinion-uphold-buzz-tilt |  
+| bip_39_word_dash_6 | forward-opinion-uphold-buzz-tilt-nose |  
+| bip_39_word_dash_7 | forward-opinion-uphold-buzz-tilt-nose-firm |  
+| bip_39_word_dash_8 | forward-opinion-uphold-buzz-tilt-nose-firm-leave |  
+| bip_39_word_dash_9 | forward-opinion-uphold-buzz-tilt-nose-firm-leave-admit |  
 | bip_39_word_new_br_1 | forward |  
 | bip_39_word_new_br_10 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege |  
 | bip_39_word_new_br_11 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege<br>stable |  
@@ -147,6 +159,18 @@ admit |
 | bip_39_word_space_7 | forward opinion uphold buzz tilt nose firm |  
 | bip_39_word_space_8 | forward opinion uphold buzz tilt nose firm leave |  
 | bip_39_word_space_9 | forward opinion uphold buzz tilt nose firm leave admit |  
+| bip_39_word_underscore_1 | forward |  
+| bip_39_word_underscore_10 | forward_opinion_uphold_buzz_tilt_nose_firm_leave_admit_siege |  
+| bip_39_word_underscore_11 | forward_opinion_uphold_buzz_tilt_nose_firm_leave_admit_siege_stable |  
+| bip_39_word_underscore_12 | forward_opinion_uphold_buzz_tilt_nose_firm_leave_admit_siege_stable_above |  
+| bip_39_word_underscore_2 | forward_opinion |  
+| bip_39_word_underscore_3 | forward_opinion_uphold |  
+| bip_39_word_underscore_4 | forward_opinion_uphold_buzz |  
+| bip_39_word_underscore_5 | forward_opinion_uphold_buzz_tilt |  
+| bip_39_word_underscore_6 | forward_opinion_uphold_buzz_tilt_nose |  
+| bip_39_word_underscore_7 | forward_opinion_uphold_buzz_tilt_nose_firm |  
+| bip_39_word_underscore_8 | forward_opinion_uphold_buzz_tilt_nose_firm_leave |  
+| bip_39_word_underscore_9 | forward_opinion_uphold_buzz_tilt_nose_firm_leave_admit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

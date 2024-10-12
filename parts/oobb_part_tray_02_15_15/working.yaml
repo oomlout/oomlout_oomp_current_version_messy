@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fly
+bip_39_word_dash_10: fly-blue-car-hidden-burden-swim-utility-appear-ocean-onion
+bip_39_word_dash_11: fly-blue-car-hidden-burden-swim-utility-appear-ocean-onion-raw
+bip_39_word_dash_12: fly-blue-car-hidden-burden-swim-utility-appear-ocean-onion-raw-addict
+bip_39_word_dash_2: fly-blue
+bip_39_word_dash_3: fly-blue-car
+bip_39_word_dash_4: fly-blue-car-hidden
+bip_39_word_dash_5: fly-blue-car-hidden-burden
+bip_39_word_dash_6: fly-blue-car-hidden-burden-swim
+bip_39_word_dash_7: fly-blue-car-hidden-burden-swim-utility
+bip_39_word_dash_8: fly-blue-car-hidden-burden-swim-utility-appear
+bip_39_word_dash_9: fly-blue-car-hidden-burden-swim-utility-appear-ocean
 bip_39_word_new_br_1: fly
 bip_39_word_new_br_10: fly<br>blue<br>car<br>hidden<br>burden<br>swim<br>utility<br>appear<br>ocean<br>onion
 bip_39_word_new_br_11: fly<br>blue<br>car<br>hidden<br>burden<br>swim<br>utility<br>appear<br>ocean<br>onion<br>raw
@@ -192,6 +204,18 @@ bip_39_word_space_6: fly blue car hidden burden swim
 bip_39_word_space_7: fly blue car hidden burden swim utility
 bip_39_word_space_8: fly blue car hidden burden swim utility appear
 bip_39_word_space_9: fly blue car hidden burden swim utility appear ocean
+bip_39_word_underscore_1: fly
+bip_39_word_underscore_10: fly_blue_car_hidden_burden_swim_utility_appear_ocean_onion
+bip_39_word_underscore_11: fly_blue_car_hidden_burden_swim_utility_appear_ocean_onion_raw
+bip_39_word_underscore_12: fly_blue_car_hidden_burden_swim_utility_appear_ocean_onion_raw_addict
+bip_39_word_underscore_2: fly_blue
+bip_39_word_underscore_3: fly_blue_car
+bip_39_word_underscore_4: fly_blue_car_hidden
+bip_39_word_underscore_5: fly_blue_car_hidden_burden
+bip_39_word_underscore_6: fly_blue_car_hidden_burden_swim
+bip_39_word_underscore_7: fly_blue_car_hidden_burden_swim_utility
+bip_39_word_underscore_8: fly_blue_car_hidden_burden_swim_utility_appear
+bip_39_word_underscore_9: fly_blue_car_hidden_burden_swim_utility_appear_ocean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

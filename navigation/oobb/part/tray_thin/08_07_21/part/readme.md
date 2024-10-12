@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frozen |  
+| bip_39_word_dash_10 | frozen-innocent-then-man-soup-please-judge-actual-govern-lawsuit |  
+| bip_39_word_dash_11 | frozen-innocent-then-man-soup-please-judge-actual-govern-lawsuit-appear |  
+| bip_39_word_dash_12 | frozen-innocent-then-man-soup-please-judge-actual-govern-lawsuit-appear-already |  
+| bip_39_word_dash_2 | frozen-innocent |  
+| bip_39_word_dash_3 | frozen-innocent-then |  
+| bip_39_word_dash_4 | frozen-innocent-then-man |  
+| bip_39_word_dash_5 | frozen-innocent-then-man-soup |  
+| bip_39_word_dash_6 | frozen-innocent-then-man-soup-please |  
+| bip_39_word_dash_7 | frozen-innocent-then-man-soup-please-judge |  
+| bip_39_word_dash_8 | frozen-innocent-then-man-soup-please-judge-actual |  
+| bip_39_word_dash_9 | frozen-innocent-then-man-soup-please-judge-actual-govern |  
 | bip_39_word_new_br_1 | frozen |  
 | bip_39_word_new_br_10 | frozen<br>innocent<br>then<br>man<br>soup<br>please<br>judge<br>actual<br>govern<br>lawsuit |  
 | bip_39_word_new_br_11 | frozen<br>innocent<br>then<br>man<br>soup<br>please<br>judge<br>actual<br>govern<br>lawsuit<br>appear |  
@@ -147,6 +159,18 @@ govern |
 | bip_39_word_space_7 | frozen innocent then man soup please judge |  
 | bip_39_word_space_8 | frozen innocent then man soup please judge actual |  
 | bip_39_word_space_9 | frozen innocent then man soup please judge actual govern |  
+| bip_39_word_underscore_1 | frozen |  
+| bip_39_word_underscore_10 | frozen_innocent_then_man_soup_please_judge_actual_govern_lawsuit |  
+| bip_39_word_underscore_11 | frozen_innocent_then_man_soup_please_judge_actual_govern_lawsuit_appear |  
+| bip_39_word_underscore_12 | frozen_innocent_then_man_soup_please_judge_actual_govern_lawsuit_appear_already |  
+| bip_39_word_underscore_2 | frozen_innocent |  
+| bip_39_word_underscore_3 | frozen_innocent_then |  
+| bip_39_word_underscore_4 | frozen_innocent_then_man |  
+| bip_39_word_underscore_5 | frozen_innocent_then_man_soup |  
+| bip_39_word_underscore_6 | frozen_innocent_then_man_soup_please |  
+| bip_39_word_underscore_7 | frozen_innocent_then_man_soup_please_judge |  
+| bip_39_word_underscore_8 | frozen_innocent_then_man_soup_please_judge_actual |  
+| bip_39_word_underscore_9 | frozen_innocent_then_man_soup_please_judge_actual_govern |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

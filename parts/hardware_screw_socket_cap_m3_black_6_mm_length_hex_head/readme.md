@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orphan |  
+| bip_39_word_dash_10 | orphan-parrot-nasty-anger-trouble-sword-bullet-popular-picnic-correct |  
+| bip_39_word_dash_11 | orphan-parrot-nasty-anger-trouble-sword-bullet-popular-picnic-correct-interest |  
+| bip_39_word_dash_12 | orphan-parrot-nasty-anger-trouble-sword-bullet-popular-picnic-correct-interest-actress |  
+| bip_39_word_dash_2 | orphan-parrot |  
+| bip_39_word_dash_3 | orphan-parrot-nasty |  
+| bip_39_word_dash_4 | orphan-parrot-nasty-anger |  
+| bip_39_word_dash_5 | orphan-parrot-nasty-anger-trouble |  
+| bip_39_word_dash_6 | orphan-parrot-nasty-anger-trouble-sword |  
+| bip_39_word_dash_7 | orphan-parrot-nasty-anger-trouble-sword-bullet |  
+| bip_39_word_dash_8 | orphan-parrot-nasty-anger-trouble-sword-bullet-popular |  
+| bip_39_word_dash_9 | orphan-parrot-nasty-anger-trouble-sword-bullet-popular-picnic |  
 | bip_39_word_new_br_1 | orphan |  
 | bip_39_word_new_br_10 | orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct |  
 | bip_39_word_new_br_11 | orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct<br>interest |  
@@ -147,6 +159,18 @@ picnic |
 | bip_39_word_space_7 | orphan parrot nasty anger trouble sword bullet |  
 | bip_39_word_space_8 | orphan parrot nasty anger trouble sword bullet popular |  
 | bip_39_word_space_9 | orphan parrot nasty anger trouble sword bullet popular picnic |  
+| bip_39_word_underscore_1 | orphan |  
+| bip_39_word_underscore_10 | orphan_parrot_nasty_anger_trouble_sword_bullet_popular_picnic_correct |  
+| bip_39_word_underscore_11 | orphan_parrot_nasty_anger_trouble_sword_bullet_popular_picnic_correct_interest |  
+| bip_39_word_underscore_12 | orphan_parrot_nasty_anger_trouble_sword_bullet_popular_picnic_correct_interest_actress |  
+| bip_39_word_underscore_2 | orphan_parrot |  
+| bip_39_word_underscore_3 | orphan_parrot_nasty |  
+| bip_39_word_underscore_4 | orphan_parrot_nasty_anger |  
+| bip_39_word_underscore_5 | orphan_parrot_nasty_anger_trouble |  
+| bip_39_word_underscore_6 | orphan_parrot_nasty_anger_trouble_sword |  
+| bip_39_word_underscore_7 | orphan_parrot_nasty_anger_trouble_sword_bullet |  
+| bip_39_word_underscore_8 | orphan_parrot_nasty_anger_trouble_sword_bullet_popular |  
+| bip_39_word_underscore_9 | orphan_parrot_nasty_anger_trouble_sword_bullet_popular_picnic |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

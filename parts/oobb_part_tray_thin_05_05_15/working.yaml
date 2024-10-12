@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lyrics
+bip_39_word_dash_10: lyrics-rebuild-good-absent-balance-one-gold-enter-tourist-mixed
+bip_39_word_dash_11: lyrics-rebuild-good-absent-balance-one-gold-enter-tourist-mixed-holiday
+bip_39_word_dash_12: lyrics-rebuild-good-absent-balance-one-gold-enter-tourist-mixed-holiday-among
+bip_39_word_dash_2: lyrics-rebuild
+bip_39_word_dash_3: lyrics-rebuild-good
+bip_39_word_dash_4: lyrics-rebuild-good-absent
+bip_39_word_dash_5: lyrics-rebuild-good-absent-balance
+bip_39_word_dash_6: lyrics-rebuild-good-absent-balance-one
+bip_39_word_dash_7: lyrics-rebuild-good-absent-balance-one-gold
+bip_39_word_dash_8: lyrics-rebuild-good-absent-balance-one-gold-enter
+bip_39_word_dash_9: lyrics-rebuild-good-absent-balance-one-gold-enter-tourist
 bip_39_word_new_br_1: lyrics
 bip_39_word_new_br_10: lyrics<br>rebuild<br>good<br>absent<br>balance<br>one<br>gold<br>enter<br>tourist<br>mixed
 bip_39_word_new_br_11: lyrics<br>rebuild<br>good<br>absent<br>balance<br>one<br>gold<br>enter<br>tourist<br>mixed<br>holiday
@@ -193,6 +205,18 @@ bip_39_word_space_6: lyrics rebuild good absent balance one
 bip_39_word_space_7: lyrics rebuild good absent balance one gold
 bip_39_word_space_8: lyrics rebuild good absent balance one gold enter
 bip_39_word_space_9: lyrics rebuild good absent balance one gold enter tourist
+bip_39_word_underscore_1: lyrics
+bip_39_word_underscore_10: lyrics_rebuild_good_absent_balance_one_gold_enter_tourist_mixed
+bip_39_word_underscore_11: lyrics_rebuild_good_absent_balance_one_gold_enter_tourist_mixed_holiday
+bip_39_word_underscore_12: lyrics_rebuild_good_absent_balance_one_gold_enter_tourist_mixed_holiday_among
+bip_39_word_underscore_2: lyrics_rebuild
+bip_39_word_underscore_3: lyrics_rebuild_good
+bip_39_word_underscore_4: lyrics_rebuild_good_absent
+bip_39_word_underscore_5: lyrics_rebuild_good_absent_balance
+bip_39_word_underscore_6: lyrics_rebuild_good_absent_balance_one
+bip_39_word_underscore_7: lyrics_rebuild_good_absent_balance_one_gold
+bip_39_word_underscore_8: lyrics_rebuild_good_absent_balance_one_gold_enter
+bip_39_word_underscore_9: lyrics_rebuild_good_absent_balance_one_gold_enter_tourist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

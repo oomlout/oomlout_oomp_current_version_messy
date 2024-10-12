@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trouble |  
+| bip_39_word_dash_10 | trouble-misery-life-frog-raven-damage-peasant-concert-rent-base |  
+| bip_39_word_dash_11 | trouble-misery-life-frog-raven-damage-peasant-concert-rent-base-security |  
+| bip_39_word_dash_12 | trouble-misery-life-frog-raven-damage-peasant-concert-rent-base-security-aim |  
+| bip_39_word_dash_2 | trouble-misery |  
+| bip_39_word_dash_3 | trouble-misery-life |  
+| bip_39_word_dash_4 | trouble-misery-life-frog |  
+| bip_39_word_dash_5 | trouble-misery-life-frog-raven |  
+| bip_39_word_dash_6 | trouble-misery-life-frog-raven-damage |  
+| bip_39_word_dash_7 | trouble-misery-life-frog-raven-damage-peasant |  
+| bip_39_word_dash_8 | trouble-misery-life-frog-raven-damage-peasant-concert |  
+| bip_39_word_dash_9 | trouble-misery-life-frog-raven-damage-peasant-concert-rent |  
 | bip_39_word_new_br_1 | trouble |  
 | bip_39_word_new_br_10 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base |  
 | bip_39_word_new_br_11 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base<br>security |  
@@ -147,6 +159,18 @@ rent |
 | bip_39_word_space_7 | trouble misery life frog raven damage peasant |  
 | bip_39_word_space_8 | trouble misery life frog raven damage peasant concert |  
 | bip_39_word_space_9 | trouble misery life frog raven damage peasant concert rent |  
+| bip_39_word_underscore_1 | trouble |  
+| bip_39_word_underscore_10 | trouble_misery_life_frog_raven_damage_peasant_concert_rent_base |  
+| bip_39_word_underscore_11 | trouble_misery_life_frog_raven_damage_peasant_concert_rent_base_security |  
+| bip_39_word_underscore_12 | trouble_misery_life_frog_raven_damage_peasant_concert_rent_base_security_aim |  
+| bip_39_word_underscore_2 | trouble_misery |  
+| bip_39_word_underscore_3 | trouble_misery_life |  
+| bip_39_word_underscore_4 | trouble_misery_life_frog |  
+| bip_39_word_underscore_5 | trouble_misery_life_frog_raven |  
+| bip_39_word_underscore_6 | trouble_misery_life_frog_raven_damage |  
+| bip_39_word_underscore_7 | trouble_misery_life_frog_raven_damage_peasant |  
+| bip_39_word_underscore_8 | trouble_misery_life_frog_raven_damage_peasant_concert |  
+| bip_39_word_underscore_9 | trouble_misery_life_frog_raven_damage_peasant_concert_rent |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

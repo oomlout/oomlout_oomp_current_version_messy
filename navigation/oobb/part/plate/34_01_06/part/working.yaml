@@ -1,3 +1,15 @@
+bip_39_word_dash_1: loop
+bip_39_word_dash_10: loop-pole-topic-nuclear-useless-spirit-lesson-amount-print-tip
+bip_39_word_dash_11: loop-pole-topic-nuclear-useless-spirit-lesson-amount-print-tip-order
+bip_39_word_dash_12: loop-pole-topic-nuclear-useless-spirit-lesson-amount-print-tip-order-adapt
+bip_39_word_dash_2: loop-pole
+bip_39_word_dash_3: loop-pole-topic
+bip_39_word_dash_4: loop-pole-topic-nuclear
+bip_39_word_dash_5: loop-pole-topic-nuclear-useless
+bip_39_word_dash_6: loop-pole-topic-nuclear-useless-spirit
+bip_39_word_dash_7: loop-pole-topic-nuclear-useless-spirit-lesson
+bip_39_word_dash_8: loop-pole-topic-nuclear-useless-spirit-lesson-amount
+bip_39_word_dash_9: loop-pole-topic-nuclear-useless-spirit-lesson-amount-print
 bip_39_word_new_br_1: loop
 bip_39_word_new_br_10: loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount<br>print<br>tip
 bip_39_word_new_br_11: loop<br>pole<br>topic<br>nuclear<br>useless<br>spirit<br>lesson<br>amount<br>print<br>tip<br>order
@@ -193,6 +205,18 @@ bip_39_word_space_6: loop pole topic nuclear useless spirit
 bip_39_word_space_7: loop pole topic nuclear useless spirit lesson
 bip_39_word_space_8: loop pole topic nuclear useless spirit lesson amount
 bip_39_word_space_9: loop pole topic nuclear useless spirit lesson amount print
+bip_39_word_underscore_1: loop
+bip_39_word_underscore_10: loop_pole_topic_nuclear_useless_spirit_lesson_amount_print_tip
+bip_39_word_underscore_11: loop_pole_topic_nuclear_useless_spirit_lesson_amount_print_tip_order
+bip_39_word_underscore_12: loop_pole_topic_nuclear_useless_spirit_lesson_amount_print_tip_order_adapt
+bip_39_word_underscore_2: loop_pole
+bip_39_word_underscore_3: loop_pole_topic
+bip_39_word_underscore_4: loop_pole_topic_nuclear
+bip_39_word_underscore_5: loop_pole_topic_nuclear_useless
+bip_39_word_underscore_6: loop_pole_topic_nuclear_useless_spirit
+bip_39_word_underscore_7: loop_pole_topic_nuclear_useless_spirit_lesson
+bip_39_word_underscore_8: loop_pole_topic_nuclear_useless_spirit_lesson_amount
+bip_39_word_underscore_9: loop_pole_topic_nuclear_useless_spirit_lesson_amount_print
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

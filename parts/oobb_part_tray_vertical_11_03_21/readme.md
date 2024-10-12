@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elder |  
+| bip_39_word_dash_10 | elder-kingdom-boat-property-matrix-during-two-foil-core-elbow |  
+| bip_39_word_dash_11 | elder-kingdom-boat-property-matrix-during-two-foil-core-elbow-manual |  
+| bip_39_word_dash_12 | elder-kingdom-boat-property-matrix-during-two-foil-core-elbow-manual-alone |  
+| bip_39_word_dash_2 | elder-kingdom |  
+| bip_39_word_dash_3 | elder-kingdom-boat |  
+| bip_39_word_dash_4 | elder-kingdom-boat-property |  
+| bip_39_word_dash_5 | elder-kingdom-boat-property-matrix |  
+| bip_39_word_dash_6 | elder-kingdom-boat-property-matrix-during |  
+| bip_39_word_dash_7 | elder-kingdom-boat-property-matrix-during-two |  
+| bip_39_word_dash_8 | elder-kingdom-boat-property-matrix-during-two-foil |  
+| bip_39_word_dash_9 | elder-kingdom-boat-property-matrix-during-two-foil-core |  
 | bip_39_word_new_br_1 | elder |  
 | bip_39_word_new_br_10 | elder<br>kingdom<br>boat<br>property<br>matrix<br>during<br>two<br>foil<br>core<br>elbow |  
 | bip_39_word_new_br_11 | elder<br>kingdom<br>boat<br>property<br>matrix<br>during<br>two<br>foil<br>core<br>elbow<br>manual |  
@@ -147,6 +159,18 @@ core |
 | bip_39_word_space_7 | elder kingdom boat property matrix during two |  
 | bip_39_word_space_8 | elder kingdom boat property matrix during two foil |  
 | bip_39_word_space_9 | elder kingdom boat property matrix during two foil core |  
+| bip_39_word_underscore_1 | elder |  
+| bip_39_word_underscore_10 | elder_kingdom_boat_property_matrix_during_two_foil_core_elbow |  
+| bip_39_word_underscore_11 | elder_kingdom_boat_property_matrix_during_two_foil_core_elbow_manual |  
+| bip_39_word_underscore_12 | elder_kingdom_boat_property_matrix_during_two_foil_core_elbow_manual_alone |  
+| bip_39_word_underscore_2 | elder_kingdom |  
+| bip_39_word_underscore_3 | elder_kingdom_boat |  
+| bip_39_word_underscore_4 | elder_kingdom_boat_property |  
+| bip_39_word_underscore_5 | elder_kingdom_boat_property_matrix |  
+| bip_39_word_underscore_6 | elder_kingdom_boat_property_matrix_during |  
+| bip_39_word_underscore_7 | elder_kingdom_boat_property_matrix_during_two |  
+| bip_39_word_underscore_8 | elder_kingdom_boat_property_matrix_during_two_foil |  
+| bip_39_word_underscore_9 | elder_kingdom_boat_property_matrix_during_two_foil_core |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

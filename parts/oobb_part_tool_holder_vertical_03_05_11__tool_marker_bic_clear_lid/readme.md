@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fetch |  
+| bip_39_word_dash_10 | fetch-base-tortoise-flight-curious-like-proof-spend-cost-machine |  
+| bip_39_word_dash_11 | fetch-base-tortoise-flight-curious-like-proof-spend-cost-machine-attend |  
+| bip_39_word_dash_12 | fetch-base-tortoise-flight-curious-like-proof-spend-cost-machine-attend-absent |  
+| bip_39_word_dash_2 | fetch-base |  
+| bip_39_word_dash_3 | fetch-base-tortoise |  
+| bip_39_word_dash_4 | fetch-base-tortoise-flight |  
+| bip_39_word_dash_5 | fetch-base-tortoise-flight-curious |  
+| bip_39_word_dash_6 | fetch-base-tortoise-flight-curious-like |  
+| bip_39_word_dash_7 | fetch-base-tortoise-flight-curious-like-proof |  
+| bip_39_word_dash_8 | fetch-base-tortoise-flight-curious-like-proof-spend |  
+| bip_39_word_dash_9 | fetch-base-tortoise-flight-curious-like-proof-spend-cost |  
 | bip_39_word_new_br_1 | fetch |  
 | bip_39_word_new_br_10 | fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend<br>cost<br>machine |  
 | bip_39_word_new_br_11 | fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend<br>cost<br>machine<br>attend |  
@@ -147,6 +159,18 @@ cost |
 | bip_39_word_space_7 | fetch base tortoise flight curious like proof |  
 | bip_39_word_space_8 | fetch base tortoise flight curious like proof spend |  
 | bip_39_word_space_9 | fetch base tortoise flight curious like proof spend cost |  
+| bip_39_word_underscore_1 | fetch |  
+| bip_39_word_underscore_10 | fetch_base_tortoise_flight_curious_like_proof_spend_cost_machine |  
+| bip_39_word_underscore_11 | fetch_base_tortoise_flight_curious_like_proof_spend_cost_machine_attend |  
+| bip_39_word_underscore_12 | fetch_base_tortoise_flight_curious_like_proof_spend_cost_machine_attend_absent |  
+| bip_39_word_underscore_2 | fetch_base |  
+| bip_39_word_underscore_3 | fetch_base_tortoise |  
+| bip_39_word_underscore_4 | fetch_base_tortoise_flight |  
+| bip_39_word_underscore_5 | fetch_base_tortoise_flight_curious |  
+| bip_39_word_underscore_6 | fetch_base_tortoise_flight_curious_like |  
+| bip_39_word_underscore_7 | fetch_base_tortoise_flight_curious_like_proof |  
+| bip_39_word_underscore_8 | fetch_base_tortoise_flight_curious_like_proof_spend |  
+| bip_39_word_underscore_9 | fetch_base_tortoise_flight_curious_like_proof_spend_cost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

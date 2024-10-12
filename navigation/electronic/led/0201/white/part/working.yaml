@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trophy
+bip_39_word_dash_10: trophy-hint-banner-foster-blouse-analyst-sauce-please-item-ice
+bip_39_word_dash_11: trophy-hint-banner-foster-blouse-analyst-sauce-please-item-ice-exotic
+bip_39_word_dash_12: trophy-hint-banner-foster-blouse-analyst-sauce-please-item-ice-exotic-adult
+bip_39_word_dash_2: trophy-hint
+bip_39_word_dash_3: trophy-hint-banner
+bip_39_word_dash_4: trophy-hint-banner-foster
+bip_39_word_dash_5: trophy-hint-banner-foster-blouse
+bip_39_word_dash_6: trophy-hint-banner-foster-blouse-analyst
+bip_39_word_dash_7: trophy-hint-banner-foster-blouse-analyst-sauce
+bip_39_word_dash_8: trophy-hint-banner-foster-blouse-analyst-sauce-please
+bip_39_word_dash_9: trophy-hint-banner-foster-blouse-analyst-sauce-please-item
 bip_39_word_new_br_1: trophy
 bip_39_word_new_br_10: trophy<br>hint<br>banner<br>foster<br>blouse<br>analyst<br>sauce<br>please<br>item<br>ice
 bip_39_word_new_br_11: trophy<br>hint<br>banner<br>foster<br>blouse<br>analyst<br>sauce<br>please<br>item<br>ice<br>exotic
@@ -193,6 +205,18 @@ bip_39_word_space_6: trophy hint banner foster blouse analyst
 bip_39_word_space_7: trophy hint banner foster blouse analyst sauce
 bip_39_word_space_8: trophy hint banner foster blouse analyst sauce please
 bip_39_word_space_9: trophy hint banner foster blouse analyst sauce please item
+bip_39_word_underscore_1: trophy
+bip_39_word_underscore_10: trophy_hint_banner_foster_blouse_analyst_sauce_please_item_ice
+bip_39_word_underscore_11: trophy_hint_banner_foster_blouse_analyst_sauce_please_item_ice_exotic
+bip_39_word_underscore_12: trophy_hint_banner_foster_blouse_analyst_sauce_please_item_ice_exotic_adult
+bip_39_word_underscore_2: trophy_hint
+bip_39_word_underscore_3: trophy_hint_banner
+bip_39_word_underscore_4: trophy_hint_banner_foster
+bip_39_word_underscore_5: trophy_hint_banner_foster_blouse
+bip_39_word_underscore_6: trophy_hint_banner_foster_blouse_analyst
+bip_39_word_underscore_7: trophy_hint_banner_foster_blouse_analyst_sauce
+bip_39_word_underscore_8: trophy_hint_banner_foster_blouse_analyst_sauce_please
+bip_39_word_underscore_9: trophy_hint_banner_foster_blouse_analyst_sauce_please_item
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

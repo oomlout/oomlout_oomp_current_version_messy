@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | funny |  
+| bip_39_word_dash_10 | funny-carry-donor-gas-more-minimum-solar-domain-civil-crazy |  
+| bip_39_word_dash_11 | funny-carry-donor-gas-more-minimum-solar-domain-civil-crazy-easy |  
+| bip_39_word_dash_12 | funny-carry-donor-gas-more-minimum-solar-domain-civil-crazy-easy-apology |  
+| bip_39_word_dash_2 | funny-carry |  
+| bip_39_word_dash_3 | funny-carry-donor |  
+| bip_39_word_dash_4 | funny-carry-donor-gas |  
+| bip_39_word_dash_5 | funny-carry-donor-gas-more |  
+| bip_39_word_dash_6 | funny-carry-donor-gas-more-minimum |  
+| bip_39_word_dash_7 | funny-carry-donor-gas-more-minimum-solar |  
+| bip_39_word_dash_8 | funny-carry-donor-gas-more-minimum-solar-domain |  
+| bip_39_word_dash_9 | funny-carry-donor-gas-more-minimum-solar-domain-civil |  
 | bip_39_word_new_br_1 | funny |  
 | bip_39_word_new_br_10 | funny<br>carry<br>donor<br>gas<br>more<br>minimum<br>solar<br>domain<br>civil<br>crazy |  
 | bip_39_word_new_br_11 | funny<br>carry<br>donor<br>gas<br>more<br>minimum<br>solar<br>domain<br>civil<br>crazy<br>easy |  
@@ -147,6 +159,18 @@ civil |
 | bip_39_word_space_7 | funny carry donor gas more minimum solar |  
 | bip_39_word_space_8 | funny carry donor gas more minimum solar domain |  
 | bip_39_word_space_9 | funny carry donor gas more minimum solar domain civil |  
+| bip_39_word_underscore_1 | funny |  
+| bip_39_word_underscore_10 | funny_carry_donor_gas_more_minimum_solar_domain_civil_crazy |  
+| bip_39_word_underscore_11 | funny_carry_donor_gas_more_minimum_solar_domain_civil_crazy_easy |  
+| bip_39_word_underscore_12 | funny_carry_donor_gas_more_minimum_solar_domain_civil_crazy_easy_apology |  
+| bip_39_word_underscore_2 | funny_carry |  
+| bip_39_word_underscore_3 | funny_carry_donor |  
+| bip_39_word_underscore_4 | funny_carry_donor_gas |  
+| bip_39_word_underscore_5 | funny_carry_donor_gas_more |  
+| bip_39_word_underscore_6 | funny_carry_donor_gas_more_minimum |  
+| bip_39_word_underscore_7 | funny_carry_donor_gas_more_minimum_solar |  
+| bip_39_word_underscore_8 | funny_carry_donor_gas_more_minimum_solar_domain |  
+| bip_39_word_underscore_9 | funny_carry_donor_gas_more_minimum_solar_domain_civil |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

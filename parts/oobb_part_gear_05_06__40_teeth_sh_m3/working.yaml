@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gallery
+bip_39_word_dash_10: gallery-argue-raven-dwarf-ethics-volcano-tone-grow-talk-play
+bip_39_word_dash_11: gallery-argue-raven-dwarf-ethics-volcano-tone-grow-talk-play-toddler
+bip_39_word_dash_12: gallery-argue-raven-dwarf-ethics-volcano-tone-grow-talk-play-toddler-artwork
+bip_39_word_dash_2: gallery-argue
+bip_39_word_dash_3: gallery-argue-raven
+bip_39_word_dash_4: gallery-argue-raven-dwarf
+bip_39_word_dash_5: gallery-argue-raven-dwarf-ethics
+bip_39_word_dash_6: gallery-argue-raven-dwarf-ethics-volcano
+bip_39_word_dash_7: gallery-argue-raven-dwarf-ethics-volcano-tone
+bip_39_word_dash_8: gallery-argue-raven-dwarf-ethics-volcano-tone-grow
+bip_39_word_dash_9: gallery-argue-raven-dwarf-ethics-volcano-tone-grow-talk
 bip_39_word_new_br_1: gallery
 bip_39_word_new_br_10: gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play
 bip_39_word_new_br_11: gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play<br>toddler
@@ -193,6 +205,18 @@ bip_39_word_space_6: gallery argue raven dwarf ethics volcano
 bip_39_word_space_7: gallery argue raven dwarf ethics volcano tone
 bip_39_word_space_8: gallery argue raven dwarf ethics volcano tone grow
 bip_39_word_space_9: gallery argue raven dwarf ethics volcano tone grow talk
+bip_39_word_underscore_1: gallery
+bip_39_word_underscore_10: gallery_argue_raven_dwarf_ethics_volcano_tone_grow_talk_play
+bip_39_word_underscore_11: gallery_argue_raven_dwarf_ethics_volcano_tone_grow_talk_play_toddler
+bip_39_word_underscore_12: gallery_argue_raven_dwarf_ethics_volcano_tone_grow_talk_play_toddler_artwork
+bip_39_word_underscore_2: gallery_argue
+bip_39_word_underscore_3: gallery_argue_raven
+bip_39_word_underscore_4: gallery_argue_raven_dwarf
+bip_39_word_underscore_5: gallery_argue_raven_dwarf_ethics
+bip_39_word_underscore_6: gallery_argue_raven_dwarf_ethics_volcano
+bip_39_word_underscore_7: gallery_argue_raven_dwarf_ethics_volcano_tone
+bip_39_word_underscore_8: gallery_argue_raven_dwarf_ethics_volcano_tone_grow
+bip_39_word_underscore_9: gallery_argue_raven_dwarf_ethics_volcano_tone_grow_talk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | make |  
+| bip_39_word_dash_10 | make-inquiry-divorce-often-palm-talk-field-frame-ocean-ostrich |  
+| bip_39_word_dash_11 | make-inquiry-divorce-often-palm-talk-field-frame-ocean-ostrich-deal |  
+| bip_39_word_dash_12 | make-inquiry-divorce-often-palm-talk-field-frame-ocean-ostrich-deal-among |  
+| bip_39_word_dash_2 | make-inquiry |  
+| bip_39_word_dash_3 | make-inquiry-divorce |  
+| bip_39_word_dash_4 | make-inquiry-divorce-often |  
+| bip_39_word_dash_5 | make-inquiry-divorce-often-palm |  
+| bip_39_word_dash_6 | make-inquiry-divorce-often-palm-talk |  
+| bip_39_word_dash_7 | make-inquiry-divorce-often-palm-talk-field |  
+| bip_39_word_dash_8 | make-inquiry-divorce-often-palm-talk-field-frame |  
+| bip_39_word_dash_9 | make-inquiry-divorce-often-palm-talk-field-frame-ocean |  
 | bip_39_word_new_br_1 | make |  
 | bip_39_word_new_br_10 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame<br>ocean<br>ostrich |  
 | bip_39_word_new_br_11 | make<br>inquiry<br>divorce<br>often<br>palm<br>talk<br>field<br>frame<br>ocean<br>ostrich<br>deal |  
@@ -147,6 +159,18 @@ ocean |
 | bip_39_word_space_7 | make inquiry divorce often palm talk field |  
 | bip_39_word_space_8 | make inquiry divorce often palm talk field frame |  
 | bip_39_word_space_9 | make inquiry divorce often palm talk field frame ocean |  
+| bip_39_word_underscore_1 | make |  
+| bip_39_word_underscore_10 | make_inquiry_divorce_often_palm_talk_field_frame_ocean_ostrich |  
+| bip_39_word_underscore_11 | make_inquiry_divorce_often_palm_talk_field_frame_ocean_ostrich_deal |  
+| bip_39_word_underscore_12 | make_inquiry_divorce_often_palm_talk_field_frame_ocean_ostrich_deal_among |  
+| bip_39_word_underscore_2 | make_inquiry |  
+| bip_39_word_underscore_3 | make_inquiry_divorce |  
+| bip_39_word_underscore_4 | make_inquiry_divorce_often |  
+| bip_39_word_underscore_5 | make_inquiry_divorce_often_palm |  
+| bip_39_word_underscore_6 | make_inquiry_divorce_often_palm_talk |  
+| bip_39_word_underscore_7 | make_inquiry_divorce_often_palm_talk_field |  
+| bip_39_word_underscore_8 | make_inquiry_divorce_often_palm_talk_field_frame |  
+| bip_39_word_underscore_9 | make_inquiry_divorce_often_palm_talk_field_frame_ocean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wear |  
+| bip_39_word_dash_10 | wear-front-alpha-drill-spray-leopard-wedding-nerve-swarm-danger |  
+| bip_39_word_dash_11 | wear-front-alpha-drill-spray-leopard-wedding-nerve-swarm-danger-build |  
+| bip_39_word_dash_12 | wear-front-alpha-drill-spray-leopard-wedding-nerve-swarm-danger-build-accuse |  
+| bip_39_word_dash_2 | wear-front |  
+| bip_39_word_dash_3 | wear-front-alpha |  
+| bip_39_word_dash_4 | wear-front-alpha-drill |  
+| bip_39_word_dash_5 | wear-front-alpha-drill-spray |  
+| bip_39_word_dash_6 | wear-front-alpha-drill-spray-leopard |  
+| bip_39_word_dash_7 | wear-front-alpha-drill-spray-leopard-wedding |  
+| bip_39_word_dash_8 | wear-front-alpha-drill-spray-leopard-wedding-nerve |  
+| bip_39_word_dash_9 | wear-front-alpha-drill-spray-leopard-wedding-nerve-swarm |  
 | bip_39_word_new_br_1 | wear |  
 | bip_39_word_new_br_10 | wear<br>front<br>alpha<br>drill<br>spray<br>leopard<br>wedding<br>nerve<br>swarm<br>danger |  
 | bip_39_word_new_br_11 | wear<br>front<br>alpha<br>drill<br>spray<br>leopard<br>wedding<br>nerve<br>swarm<br>danger<br>build |  
@@ -147,6 +159,18 @@ swarm |
 | bip_39_word_space_7 | wear front alpha drill spray leopard wedding |  
 | bip_39_word_space_8 | wear front alpha drill spray leopard wedding nerve |  
 | bip_39_word_space_9 | wear front alpha drill spray leopard wedding nerve swarm |  
+| bip_39_word_underscore_1 | wear |  
+| bip_39_word_underscore_10 | wear_front_alpha_drill_spray_leopard_wedding_nerve_swarm_danger |  
+| bip_39_word_underscore_11 | wear_front_alpha_drill_spray_leopard_wedding_nerve_swarm_danger_build |  
+| bip_39_word_underscore_12 | wear_front_alpha_drill_spray_leopard_wedding_nerve_swarm_danger_build_accuse |  
+| bip_39_word_underscore_2 | wear_front |  
+| bip_39_word_underscore_3 | wear_front_alpha |  
+| bip_39_word_underscore_4 | wear_front_alpha_drill |  
+| bip_39_word_underscore_5 | wear_front_alpha_drill_spray |  
+| bip_39_word_underscore_6 | wear_front_alpha_drill_spray_leopard |  
+| bip_39_word_underscore_7 | wear_front_alpha_drill_spray_leopard_wedding |  
+| bip_39_word_underscore_8 | wear_front_alpha_drill_spray_leopard_wedding_nerve |  
+| bip_39_word_underscore_9 | wear_front_alpha_drill_spray_leopard_wedding_nerve_swarm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

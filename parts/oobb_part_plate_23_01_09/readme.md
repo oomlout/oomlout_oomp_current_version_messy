@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | demand |  
+| bip_39_word_dash_10 | demand-reject-inch-then-abuse-disorder-screen-slow-alert-dinosaur |  
+| bip_39_word_dash_11 | demand-reject-inch-then-abuse-disorder-screen-slow-alert-dinosaur-goose |  
+| bip_39_word_dash_12 | demand-reject-inch-then-abuse-disorder-screen-slow-alert-dinosaur-goose-adult |  
+| bip_39_word_dash_2 | demand-reject |  
+| bip_39_word_dash_3 | demand-reject-inch |  
+| bip_39_word_dash_4 | demand-reject-inch-then |  
+| bip_39_word_dash_5 | demand-reject-inch-then-abuse |  
+| bip_39_word_dash_6 | demand-reject-inch-then-abuse-disorder |  
+| bip_39_word_dash_7 | demand-reject-inch-then-abuse-disorder-screen |  
+| bip_39_word_dash_8 | demand-reject-inch-then-abuse-disorder-screen-slow |  
+| bip_39_word_dash_9 | demand-reject-inch-then-abuse-disorder-screen-slow-alert |  
 | bip_39_word_new_br_1 | demand |  
 | bip_39_word_new_br_10 | demand<br>reject<br>inch<br>then<br>abuse<br>disorder<br>screen<br>slow<br>alert<br>dinosaur |  
 | bip_39_word_new_br_11 | demand<br>reject<br>inch<br>then<br>abuse<br>disorder<br>screen<br>slow<br>alert<br>dinosaur<br>goose |  
@@ -147,6 +159,18 @@ alert |
 | bip_39_word_space_7 | demand reject inch then abuse disorder screen |  
 | bip_39_word_space_8 | demand reject inch then abuse disorder screen slow |  
 | bip_39_word_space_9 | demand reject inch then abuse disorder screen slow alert |  
+| bip_39_word_underscore_1 | demand |  
+| bip_39_word_underscore_10 | demand_reject_inch_then_abuse_disorder_screen_slow_alert_dinosaur |  
+| bip_39_word_underscore_11 | demand_reject_inch_then_abuse_disorder_screen_slow_alert_dinosaur_goose |  
+| bip_39_word_underscore_12 | demand_reject_inch_then_abuse_disorder_screen_slow_alert_dinosaur_goose_adult |  
+| bip_39_word_underscore_2 | demand_reject |  
+| bip_39_word_underscore_3 | demand_reject_inch |  
+| bip_39_word_underscore_4 | demand_reject_inch_then |  
+| bip_39_word_underscore_5 | demand_reject_inch_then_abuse |  
+| bip_39_word_underscore_6 | demand_reject_inch_then_abuse_disorder |  
+| bip_39_word_underscore_7 | demand_reject_inch_then_abuse_disorder_screen |  
+| bip_39_word_underscore_8 | demand_reject_inch_then_abuse_disorder_screen_slow |  
+| bip_39_word_underscore_9 | demand_reject_inch_then_abuse_disorder_screen_slow_alert |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

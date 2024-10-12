@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | huge |  
+| bip_39_word_dash_10 | huge-west-asthma-erosion-left-twin-loop-human-oven-lecture |  
+| bip_39_word_dash_11 | huge-west-asthma-erosion-left-twin-loop-human-oven-lecture-nice |  
+| bip_39_word_dash_12 | huge-west-asthma-erosion-left-twin-loop-human-oven-lecture-nice-access |  
+| bip_39_word_dash_2 | huge-west |  
+| bip_39_word_dash_3 | huge-west-asthma |  
+| bip_39_word_dash_4 | huge-west-asthma-erosion |  
+| bip_39_word_dash_5 | huge-west-asthma-erosion-left |  
+| bip_39_word_dash_6 | huge-west-asthma-erosion-left-twin |  
+| bip_39_word_dash_7 | huge-west-asthma-erosion-left-twin-loop |  
+| bip_39_word_dash_8 | huge-west-asthma-erosion-left-twin-loop-human |  
+| bip_39_word_dash_9 | huge-west-asthma-erosion-left-twin-loop-human-oven |  
 | bip_39_word_new_br_1 | huge |  
 | bip_39_word_new_br_10 | huge<br>west<br>asthma<br>erosion<br>left<br>twin<br>loop<br>human<br>oven<br>lecture |  
 | bip_39_word_new_br_11 | huge<br>west<br>asthma<br>erosion<br>left<br>twin<br>loop<br>human<br>oven<br>lecture<br>nice |  
@@ -147,6 +159,18 @@ oven |
 | bip_39_word_space_7 | huge west asthma erosion left twin loop |  
 | bip_39_word_space_8 | huge west asthma erosion left twin loop human |  
 | bip_39_word_space_9 | huge west asthma erosion left twin loop human oven |  
+| bip_39_word_underscore_1 | huge |  
+| bip_39_word_underscore_10 | huge_west_asthma_erosion_left_twin_loop_human_oven_lecture |  
+| bip_39_word_underscore_11 | huge_west_asthma_erosion_left_twin_loop_human_oven_lecture_nice |  
+| bip_39_word_underscore_12 | huge_west_asthma_erosion_left_twin_loop_human_oven_lecture_nice_access |  
+| bip_39_word_underscore_2 | huge_west |  
+| bip_39_word_underscore_3 | huge_west_asthma |  
+| bip_39_word_underscore_4 | huge_west_asthma_erosion |  
+| bip_39_word_underscore_5 | huge_west_asthma_erosion_left |  
+| bip_39_word_underscore_6 | huge_west_asthma_erosion_left_twin |  
+| bip_39_word_underscore_7 | huge_west_asthma_erosion_left_twin_loop |  
+| bip_39_word_underscore_8 | huge_west_asthma_erosion_left_twin_loop_human |  
+| bip_39_word_underscore_9 | huge_west_asthma_erosion_left_twin_loop_human_oven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

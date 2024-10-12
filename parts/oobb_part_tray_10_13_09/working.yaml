@@ -1,3 +1,15 @@
+bip_39_word_dash_1: script
+bip_39_word_dash_10: script-cabin-stem-fuel-attitude-auto-pepper-settle-warm-assault
+bip_39_word_dash_11: script-cabin-stem-fuel-attitude-auto-pepper-settle-warm-assault-vacuum
+bip_39_word_dash_12: script-cabin-stem-fuel-attitude-auto-pepper-settle-warm-assault-vacuum-asthma
+bip_39_word_dash_2: script-cabin
+bip_39_word_dash_3: script-cabin-stem
+bip_39_word_dash_4: script-cabin-stem-fuel
+bip_39_word_dash_5: script-cabin-stem-fuel-attitude
+bip_39_word_dash_6: script-cabin-stem-fuel-attitude-auto
+bip_39_word_dash_7: script-cabin-stem-fuel-attitude-auto-pepper
+bip_39_word_dash_8: script-cabin-stem-fuel-attitude-auto-pepper-settle
+bip_39_word_dash_9: script-cabin-stem-fuel-attitude-auto-pepper-settle-warm
 bip_39_word_new_br_1: script
 bip_39_word_new_br_10: script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault
 bip_39_word_new_br_11: script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault<br>vacuum
@@ -193,6 +205,18 @@ bip_39_word_space_6: script cabin stem fuel attitude auto
 bip_39_word_space_7: script cabin stem fuel attitude auto pepper
 bip_39_word_space_8: script cabin stem fuel attitude auto pepper settle
 bip_39_word_space_9: script cabin stem fuel attitude auto pepper settle warm
+bip_39_word_underscore_1: script
+bip_39_word_underscore_10: script_cabin_stem_fuel_attitude_auto_pepper_settle_warm_assault
+bip_39_word_underscore_11: script_cabin_stem_fuel_attitude_auto_pepper_settle_warm_assault_vacuum
+bip_39_word_underscore_12: script_cabin_stem_fuel_attitude_auto_pepper_settle_warm_assault_vacuum_asthma
+bip_39_word_underscore_2: script_cabin
+bip_39_word_underscore_3: script_cabin_stem
+bip_39_word_underscore_4: script_cabin_stem_fuel
+bip_39_word_underscore_5: script_cabin_stem_fuel_attitude
+bip_39_word_underscore_6: script_cabin_stem_fuel_attitude_auto
+bip_39_word_underscore_7: script_cabin_stem_fuel_attitude_auto_pepper
+bip_39_word_underscore_8: script_cabin_stem_fuel_attitude_auto_pepper_settle
+bip_39_word_underscore_9: script_cabin_stem_fuel_attitude_auto_pepper_settle_warm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

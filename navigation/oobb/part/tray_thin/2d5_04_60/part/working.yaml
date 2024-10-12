@@ -1,3 +1,15 @@
+bip_39_word_dash_1: price
+bip_39_word_dash_10: price-draft-that-brown-fringe-bunker-math-risk-guard-weird
+bip_39_word_dash_11: price-draft-that-brown-fringe-bunker-math-risk-guard-weird-mountain
+bip_39_word_dash_12: price-draft-that-brown-fringe-bunker-math-risk-guard-weird-mountain-absent
+bip_39_word_dash_2: price-draft
+bip_39_word_dash_3: price-draft-that
+bip_39_word_dash_4: price-draft-that-brown
+bip_39_word_dash_5: price-draft-that-brown-fringe
+bip_39_word_dash_6: price-draft-that-brown-fringe-bunker
+bip_39_word_dash_7: price-draft-that-brown-fringe-bunker-math
+bip_39_word_dash_8: price-draft-that-brown-fringe-bunker-math-risk
+bip_39_word_dash_9: price-draft-that-brown-fringe-bunker-math-risk-guard
 bip_39_word_new_br_1: price
 bip_39_word_new_br_10: price<br>draft<br>that<br>brown<br>fringe<br>bunker<br>math<br>risk<br>guard<br>weird
 bip_39_word_new_br_11: price<br>draft<br>that<br>brown<br>fringe<br>bunker<br>math<br>risk<br>guard<br>weird<br>mountain
@@ -192,6 +204,18 @@ bip_39_word_space_6: price draft that brown fringe bunker
 bip_39_word_space_7: price draft that brown fringe bunker math
 bip_39_word_space_8: price draft that brown fringe bunker math risk
 bip_39_word_space_9: price draft that brown fringe bunker math risk guard
+bip_39_word_underscore_1: price
+bip_39_word_underscore_10: price_draft_that_brown_fringe_bunker_math_risk_guard_weird
+bip_39_word_underscore_11: price_draft_that_brown_fringe_bunker_math_risk_guard_weird_mountain
+bip_39_word_underscore_12: price_draft_that_brown_fringe_bunker_math_risk_guard_weird_mountain_absent
+bip_39_word_underscore_2: price_draft
+bip_39_word_underscore_3: price_draft_that
+bip_39_word_underscore_4: price_draft_that_brown
+bip_39_word_underscore_5: price_draft_that_brown_fringe
+bip_39_word_underscore_6: price_draft_that_brown_fringe_bunker
+bip_39_word_underscore_7: price_draft_that_brown_fringe_bunker_math
+bip_39_word_underscore_8: price_draft_that_brown_fringe_bunker_math_risk
+bip_39_word_underscore_9: price_draft_that_brown_fringe_bunker_math_risk_guard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

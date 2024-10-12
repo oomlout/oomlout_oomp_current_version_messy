@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jump
+bip_39_word_dash_10: jump-antenna-hover-alpha-deal-furnace-ten-emotion-midnight-nest
+bip_39_word_dash_11: jump-antenna-hover-alpha-deal-furnace-ten-emotion-midnight-nest-excuse
+bip_39_word_dash_12: jump-antenna-hover-alpha-deal-furnace-ten-emotion-midnight-nest-excuse-advice
+bip_39_word_dash_2: jump-antenna
+bip_39_word_dash_3: jump-antenna-hover
+bip_39_word_dash_4: jump-antenna-hover-alpha
+bip_39_word_dash_5: jump-antenna-hover-alpha-deal
+bip_39_word_dash_6: jump-antenna-hover-alpha-deal-furnace
+bip_39_word_dash_7: jump-antenna-hover-alpha-deal-furnace-ten
+bip_39_word_dash_8: jump-antenna-hover-alpha-deal-furnace-ten-emotion
+bip_39_word_dash_9: jump-antenna-hover-alpha-deal-furnace-ten-emotion-midnight
 bip_39_word_new_br_1: jump
 bip_39_word_new_br_10: jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest
 bip_39_word_new_br_11: jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest<br>excuse
@@ -193,6 +205,18 @@ bip_39_word_space_6: jump antenna hover alpha deal furnace
 bip_39_word_space_7: jump antenna hover alpha deal furnace ten
 bip_39_word_space_8: jump antenna hover alpha deal furnace ten emotion
 bip_39_word_space_9: jump antenna hover alpha deal furnace ten emotion midnight
+bip_39_word_underscore_1: jump
+bip_39_word_underscore_10: jump_antenna_hover_alpha_deal_furnace_ten_emotion_midnight_nest
+bip_39_word_underscore_11: jump_antenna_hover_alpha_deal_furnace_ten_emotion_midnight_nest_excuse
+bip_39_word_underscore_12: jump_antenna_hover_alpha_deal_furnace_ten_emotion_midnight_nest_excuse_advice
+bip_39_word_underscore_2: jump_antenna
+bip_39_word_underscore_3: jump_antenna_hover
+bip_39_word_underscore_4: jump_antenna_hover_alpha
+bip_39_word_underscore_5: jump_antenna_hover_alpha_deal
+bip_39_word_underscore_6: jump_antenna_hover_alpha_deal_furnace
+bip_39_word_underscore_7: jump_antenna_hover_alpha_deal_furnace_ten
+bip_39_word_underscore_8: jump_antenna_hover_alpha_deal_furnace_ten_emotion
+bip_39_word_underscore_9: jump_antenna_hover_alpha_deal_furnace_ten_emotion_midnight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

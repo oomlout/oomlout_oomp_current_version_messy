@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sand |  
+| bip_39_word_dash_10 | sand-fetch-dismiss-cloth-enjoy-token-engage-frequent-mystery-accident |  
+| bip_39_word_dash_11 | sand-fetch-dismiss-cloth-enjoy-token-engage-frequent-mystery-accident-gift |  
+| bip_39_word_dash_12 | sand-fetch-dismiss-cloth-enjoy-token-engage-frequent-mystery-accident-gift-access |  
+| bip_39_word_dash_2 | sand-fetch |  
+| bip_39_word_dash_3 | sand-fetch-dismiss |  
+| bip_39_word_dash_4 | sand-fetch-dismiss-cloth |  
+| bip_39_word_dash_5 | sand-fetch-dismiss-cloth-enjoy |  
+| bip_39_word_dash_6 | sand-fetch-dismiss-cloth-enjoy-token |  
+| bip_39_word_dash_7 | sand-fetch-dismiss-cloth-enjoy-token-engage |  
+| bip_39_word_dash_8 | sand-fetch-dismiss-cloth-enjoy-token-engage-frequent |  
+| bip_39_word_dash_9 | sand-fetch-dismiss-cloth-enjoy-token-engage-frequent-mystery |  
 | bip_39_word_new_br_1 | sand |  
 | bip_39_word_new_br_10 | sand<br>fetch<br>dismiss<br>cloth<br>enjoy<br>token<br>engage<br>frequent<br>mystery<br>accident |  
 | bip_39_word_new_br_11 | sand<br>fetch<br>dismiss<br>cloth<br>enjoy<br>token<br>engage<br>frequent<br>mystery<br>accident<br>gift |  
@@ -147,6 +159,18 @@ mystery |
 | bip_39_word_space_7 | sand fetch dismiss cloth enjoy token engage |  
 | bip_39_word_space_8 | sand fetch dismiss cloth enjoy token engage frequent |  
 | bip_39_word_space_9 | sand fetch dismiss cloth enjoy token engage frequent mystery |  
+| bip_39_word_underscore_1 | sand |  
+| bip_39_word_underscore_10 | sand_fetch_dismiss_cloth_enjoy_token_engage_frequent_mystery_accident |  
+| bip_39_word_underscore_11 | sand_fetch_dismiss_cloth_enjoy_token_engage_frequent_mystery_accident_gift |  
+| bip_39_word_underscore_12 | sand_fetch_dismiss_cloth_enjoy_token_engage_frequent_mystery_accident_gift_access |  
+| bip_39_word_underscore_2 | sand_fetch |  
+| bip_39_word_underscore_3 | sand_fetch_dismiss |  
+| bip_39_word_underscore_4 | sand_fetch_dismiss_cloth |  
+| bip_39_word_underscore_5 | sand_fetch_dismiss_cloth_enjoy |  
+| bip_39_word_underscore_6 | sand_fetch_dismiss_cloth_enjoy_token |  
+| bip_39_word_underscore_7 | sand_fetch_dismiss_cloth_enjoy_token_engage |  
+| bip_39_word_underscore_8 | sand_fetch_dismiss_cloth_enjoy_token_engage_frequent |  
+| bip_39_word_underscore_9 | sand_fetch_dismiss_cloth_enjoy_token_engage_frequent_mystery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

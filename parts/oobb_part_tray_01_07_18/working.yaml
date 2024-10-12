@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hole
+bip_39_word_dash_10: hole-unusual-rabbit-vivid-hub-devote-holiday-seminar-eyebrow-relax
+bip_39_word_dash_11: hole-unusual-rabbit-vivid-hub-devote-holiday-seminar-eyebrow-relax-tragic
+bip_39_word_dash_12: hole-unusual-rabbit-vivid-hub-devote-holiday-seminar-eyebrow-relax-tragic-asthma
+bip_39_word_dash_2: hole-unusual
+bip_39_word_dash_3: hole-unusual-rabbit
+bip_39_word_dash_4: hole-unusual-rabbit-vivid
+bip_39_word_dash_5: hole-unusual-rabbit-vivid-hub
+bip_39_word_dash_6: hole-unusual-rabbit-vivid-hub-devote
+bip_39_word_dash_7: hole-unusual-rabbit-vivid-hub-devote-holiday
+bip_39_word_dash_8: hole-unusual-rabbit-vivid-hub-devote-holiday-seminar
+bip_39_word_dash_9: hole-unusual-rabbit-vivid-hub-devote-holiday-seminar-eyebrow
 bip_39_word_new_br_1: hole
 bip_39_word_new_br_10: hole<br>unusual<br>rabbit<br>vivid<br>hub<br>devote<br>holiday<br>seminar<br>eyebrow<br>relax
 bip_39_word_new_br_11: hole<br>unusual<br>rabbit<br>vivid<br>hub<br>devote<br>holiday<br>seminar<br>eyebrow<br>relax<br>tragic
@@ -194,6 +206,18 @@ bip_39_word_space_6: hole unusual rabbit vivid hub devote
 bip_39_word_space_7: hole unusual rabbit vivid hub devote holiday
 bip_39_word_space_8: hole unusual rabbit vivid hub devote holiday seminar
 bip_39_word_space_9: hole unusual rabbit vivid hub devote holiday seminar eyebrow
+bip_39_word_underscore_1: hole
+bip_39_word_underscore_10: hole_unusual_rabbit_vivid_hub_devote_holiday_seminar_eyebrow_relax
+bip_39_word_underscore_11: hole_unusual_rabbit_vivid_hub_devote_holiday_seminar_eyebrow_relax_tragic
+bip_39_word_underscore_12: hole_unusual_rabbit_vivid_hub_devote_holiday_seminar_eyebrow_relax_tragic_asthma
+bip_39_word_underscore_2: hole_unusual
+bip_39_word_underscore_3: hole_unusual_rabbit
+bip_39_word_underscore_4: hole_unusual_rabbit_vivid
+bip_39_word_underscore_5: hole_unusual_rabbit_vivid_hub
+bip_39_word_underscore_6: hole_unusual_rabbit_vivid_hub_devote
+bip_39_word_underscore_7: hole_unusual_rabbit_vivid_hub_devote_holiday
+bip_39_word_underscore_8: hole_unusual_rabbit_vivid_hub_devote_holiday_seminar
+bip_39_word_underscore_9: hole_unusual_rabbit_vivid_hub_devote_holiday_seminar_eyebrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tomorrow |  
+| bip_39_word_dash_10 | tomorrow-antenna-sustain-hungry-life-gauge-salt-amused-embrace-broken |  
+| bip_39_word_dash_11 | tomorrow-antenna-sustain-hungry-life-gauge-salt-amused-embrace-broken-protect |  
+| bip_39_word_dash_12 | tomorrow-antenna-sustain-hungry-life-gauge-salt-amused-embrace-broken-protect-asthma |  
+| bip_39_word_dash_2 | tomorrow-antenna |  
+| bip_39_word_dash_3 | tomorrow-antenna-sustain |  
+| bip_39_word_dash_4 | tomorrow-antenna-sustain-hungry |  
+| bip_39_word_dash_5 | tomorrow-antenna-sustain-hungry-life |  
+| bip_39_word_dash_6 | tomorrow-antenna-sustain-hungry-life-gauge |  
+| bip_39_word_dash_7 | tomorrow-antenna-sustain-hungry-life-gauge-salt |  
+| bip_39_word_dash_8 | tomorrow-antenna-sustain-hungry-life-gauge-salt-amused |  
+| bip_39_word_dash_9 | tomorrow-antenna-sustain-hungry-life-gauge-salt-amused-embrace |  
 | bip_39_word_new_br_1 | tomorrow |  
 | bip_39_word_new_br_10 | tomorrow<br>antenna<br>sustain<br>hungry<br>life<br>gauge<br>salt<br>amused<br>embrace<br>broken |  
 | bip_39_word_new_br_11 | tomorrow<br>antenna<br>sustain<br>hungry<br>life<br>gauge<br>salt<br>amused<br>embrace<br>broken<br>protect |  
@@ -147,6 +159,18 @@ embrace |
 | bip_39_word_space_7 | tomorrow antenna sustain hungry life gauge salt |  
 | bip_39_word_space_8 | tomorrow antenna sustain hungry life gauge salt amused |  
 | bip_39_word_space_9 | tomorrow antenna sustain hungry life gauge salt amused embrace |  
+| bip_39_word_underscore_1 | tomorrow |  
+| bip_39_word_underscore_10 | tomorrow_antenna_sustain_hungry_life_gauge_salt_amused_embrace_broken |  
+| bip_39_word_underscore_11 | tomorrow_antenna_sustain_hungry_life_gauge_salt_amused_embrace_broken_protect |  
+| bip_39_word_underscore_12 | tomorrow_antenna_sustain_hungry_life_gauge_salt_amused_embrace_broken_protect_asthma |  
+| bip_39_word_underscore_2 | tomorrow_antenna |  
+| bip_39_word_underscore_3 | tomorrow_antenna_sustain |  
+| bip_39_word_underscore_4 | tomorrow_antenna_sustain_hungry |  
+| bip_39_word_underscore_5 | tomorrow_antenna_sustain_hungry_life |  
+| bip_39_word_underscore_6 | tomorrow_antenna_sustain_hungry_life_gauge |  
+| bip_39_word_underscore_7 | tomorrow_antenna_sustain_hungry_life_gauge_salt |  
+| bip_39_word_underscore_8 | tomorrow_antenna_sustain_hungry_life_gauge_salt_amused |  
+| bip_39_word_underscore_9 | tomorrow_antenna_sustain_hungry_life_gauge_salt_amused_embrace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

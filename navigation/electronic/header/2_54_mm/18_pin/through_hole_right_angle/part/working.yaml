@@ -1,3 +1,15 @@
+bip_39_word_dash_1: goose
+bip_39_word_dash_10: goose-jelly-foil-distance-theme-quit-hen-reward-earn-goat
+bip_39_word_dash_11: goose-jelly-foil-distance-theme-quit-hen-reward-earn-goat-sun
+bip_39_word_dash_12: goose-jelly-foil-distance-theme-quit-hen-reward-earn-goat-sun-absurd
+bip_39_word_dash_2: goose-jelly
+bip_39_word_dash_3: goose-jelly-foil
+bip_39_word_dash_4: goose-jelly-foil-distance
+bip_39_word_dash_5: goose-jelly-foil-distance-theme
+bip_39_word_dash_6: goose-jelly-foil-distance-theme-quit
+bip_39_word_dash_7: goose-jelly-foil-distance-theme-quit-hen
+bip_39_word_dash_8: goose-jelly-foil-distance-theme-quit-hen-reward
+bip_39_word_dash_9: goose-jelly-foil-distance-theme-quit-hen-reward-earn
 bip_39_word_new_br_1: goose
 bip_39_word_new_br_10: goose<br>jelly<br>foil<br>distance<br>theme<br>quit<br>hen<br>reward<br>earn<br>goat
 bip_39_word_new_br_11: goose<br>jelly<br>foil<br>distance<br>theme<br>quit<br>hen<br>reward<br>earn<br>goat<br>sun
@@ -192,6 +204,18 @@ bip_39_word_space_6: goose jelly foil distance theme quit
 bip_39_word_space_7: goose jelly foil distance theme quit hen
 bip_39_word_space_8: goose jelly foil distance theme quit hen reward
 bip_39_word_space_9: goose jelly foil distance theme quit hen reward earn
+bip_39_word_underscore_1: goose
+bip_39_word_underscore_10: goose_jelly_foil_distance_theme_quit_hen_reward_earn_goat
+bip_39_word_underscore_11: goose_jelly_foil_distance_theme_quit_hen_reward_earn_goat_sun
+bip_39_word_underscore_12: goose_jelly_foil_distance_theme_quit_hen_reward_earn_goat_sun_absurd
+bip_39_word_underscore_2: goose_jelly
+bip_39_word_underscore_3: goose_jelly_foil
+bip_39_word_underscore_4: goose_jelly_foil_distance
+bip_39_word_underscore_5: goose_jelly_foil_distance_theme
+bip_39_word_underscore_6: goose_jelly_foil_distance_theme_quit
+bip_39_word_underscore_7: goose_jelly_foil_distance_theme_quit_hen
+bip_39_word_underscore_8: goose_jelly_foil_distance_theme_quit_hen_reward
+bip_39_word_underscore_9: goose_jelly_foil_distance_theme_quit_hen_reward_earn
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | save |  
+| bip_39_word_dash_10 | save-monkey-limit-vacant-move-cruise-swift-tomorrow-radar-town |  
+| bip_39_word_dash_11 | save-monkey-limit-vacant-move-cruise-swift-tomorrow-radar-town-nature |  
+| bip_39_word_dash_12 | save-monkey-limit-vacant-move-cruise-swift-tomorrow-radar-town-nature-already |  
+| bip_39_word_dash_2 | save-monkey |  
+| bip_39_word_dash_3 | save-monkey-limit |  
+| bip_39_word_dash_4 | save-monkey-limit-vacant |  
+| bip_39_word_dash_5 | save-monkey-limit-vacant-move |  
+| bip_39_word_dash_6 | save-monkey-limit-vacant-move-cruise |  
+| bip_39_word_dash_7 | save-monkey-limit-vacant-move-cruise-swift |  
+| bip_39_word_dash_8 | save-monkey-limit-vacant-move-cruise-swift-tomorrow |  
+| bip_39_word_dash_9 | save-monkey-limit-vacant-move-cruise-swift-tomorrow-radar |  
 | bip_39_word_new_br_1 | save |  
 | bip_39_word_new_br_10 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow<br>radar<br>town |  
 | bip_39_word_new_br_11 | save<br>monkey<br>limit<br>vacant<br>move<br>cruise<br>swift<br>tomorrow<br>radar<br>town<br>nature |  
@@ -147,6 +159,18 @@ radar |
 | bip_39_word_space_7 | save monkey limit vacant move cruise swift |  
 | bip_39_word_space_8 | save monkey limit vacant move cruise swift tomorrow |  
 | bip_39_word_space_9 | save monkey limit vacant move cruise swift tomorrow radar |  
+| bip_39_word_underscore_1 | save |  
+| bip_39_word_underscore_10 | save_monkey_limit_vacant_move_cruise_swift_tomorrow_radar_town |  
+| bip_39_word_underscore_11 | save_monkey_limit_vacant_move_cruise_swift_tomorrow_radar_town_nature |  
+| bip_39_word_underscore_12 | save_monkey_limit_vacant_move_cruise_swift_tomorrow_radar_town_nature_already |  
+| bip_39_word_underscore_2 | save_monkey |  
+| bip_39_word_underscore_3 | save_monkey_limit |  
+| bip_39_word_underscore_4 | save_monkey_limit_vacant |  
+| bip_39_word_underscore_5 | save_monkey_limit_vacant_move |  
+| bip_39_word_underscore_6 | save_monkey_limit_vacant_move_cruise |  
+| bip_39_word_underscore_7 | save_monkey_limit_vacant_move_cruise_swift |  
+| bip_39_word_underscore_8 | save_monkey_limit_vacant_move_cruise_swift_tomorrow |  
+| bip_39_word_underscore_9 | save_monkey_limit_vacant_move_cruise_swift_tomorrow_radar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

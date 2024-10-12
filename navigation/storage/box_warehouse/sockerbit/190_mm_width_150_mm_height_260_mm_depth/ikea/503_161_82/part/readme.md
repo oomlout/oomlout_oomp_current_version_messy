@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | firm |  
+| bip_39_word_dash_10 | firm-plastic-hair-flag-still-truly-glass-slam-wool-stem |  
+| bip_39_word_dash_11 | firm-plastic-hair-flag-still-truly-glass-slam-wool-stem-quit |  
+| bip_39_word_dash_12 | firm-plastic-hair-flag-still-truly-glass-slam-wool-stem-quit-admit |  
+| bip_39_word_dash_2 | firm-plastic |  
+| bip_39_word_dash_3 | firm-plastic-hair |  
+| bip_39_word_dash_4 | firm-plastic-hair-flag |  
+| bip_39_word_dash_5 | firm-plastic-hair-flag-still |  
+| bip_39_word_dash_6 | firm-plastic-hair-flag-still-truly |  
+| bip_39_word_dash_7 | firm-plastic-hair-flag-still-truly-glass |  
+| bip_39_word_dash_8 | firm-plastic-hair-flag-still-truly-glass-slam |  
+| bip_39_word_dash_9 | firm-plastic-hair-flag-still-truly-glass-slam-wool |  
 | bip_39_word_new_br_1 | firm |  
 | bip_39_word_new_br_10 | firm<br>plastic<br>hair<br>flag<br>still<br>truly<br>glass<br>slam<br>wool<br>stem |  
 | bip_39_word_new_br_11 | firm<br>plastic<br>hair<br>flag<br>still<br>truly<br>glass<br>slam<br>wool<br>stem<br>quit |  
@@ -147,6 +159,18 @@ wool |
 | bip_39_word_space_7 | firm plastic hair flag still truly glass |  
 | bip_39_word_space_8 | firm plastic hair flag still truly glass slam |  
 | bip_39_word_space_9 | firm plastic hair flag still truly glass slam wool |  
+| bip_39_word_underscore_1 | firm |  
+| bip_39_word_underscore_10 | firm_plastic_hair_flag_still_truly_glass_slam_wool_stem |  
+| bip_39_word_underscore_11 | firm_plastic_hair_flag_still_truly_glass_slam_wool_stem_quit |  
+| bip_39_word_underscore_12 | firm_plastic_hair_flag_still_truly_glass_slam_wool_stem_quit_admit |  
+| bip_39_word_underscore_2 | firm_plastic |  
+| bip_39_word_underscore_3 | firm_plastic_hair |  
+| bip_39_word_underscore_4 | firm_plastic_hair_flag |  
+| bip_39_word_underscore_5 | firm_plastic_hair_flag_still |  
+| bip_39_word_underscore_6 | firm_plastic_hair_flag_still_truly |  
+| bip_39_word_underscore_7 | firm_plastic_hair_flag_still_truly_glass |  
+| bip_39_word_underscore_8 | firm_plastic_hair_flag_still_truly_glass_slam |  
+| bip_39_word_underscore_9 | firm_plastic_hair_flag_still_truly_glass_slam_wool |  
 | classification | storage |  
 | classification_capital | Storage |  
 | classification_first_letter | s |  

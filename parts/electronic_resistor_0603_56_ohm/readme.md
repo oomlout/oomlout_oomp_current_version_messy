@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | radar |  
+| bip_39_word_dash_10 | radar-neutral-tag-wrist-poet-lava-crime-pilot-fix-cherry |  
+| bip_39_word_dash_11 | radar-neutral-tag-wrist-poet-lava-crime-pilot-fix-cherry-resist |  
+| bip_39_word_dash_12 | radar-neutral-tag-wrist-poet-lava-crime-pilot-fix-cherry-resist-abuse |  
+| bip_39_word_dash_2 | radar-neutral |  
+| bip_39_word_dash_3 | radar-neutral-tag |  
+| bip_39_word_dash_4 | radar-neutral-tag-wrist |  
+| bip_39_word_dash_5 | radar-neutral-tag-wrist-poet |  
+| bip_39_word_dash_6 | radar-neutral-tag-wrist-poet-lava |  
+| bip_39_word_dash_7 | radar-neutral-tag-wrist-poet-lava-crime |  
+| bip_39_word_dash_8 | radar-neutral-tag-wrist-poet-lava-crime-pilot |  
+| bip_39_word_dash_9 | radar-neutral-tag-wrist-poet-lava-crime-pilot-fix |  
 | bip_39_word_new_br_1 | radar |  
 | bip_39_word_new_br_10 | radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot<br>fix<br>cherry |  
 | bip_39_word_new_br_11 | radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot<br>fix<br>cherry<br>resist |  
@@ -147,6 +159,18 @@ fix |
 | bip_39_word_space_7 | radar neutral tag wrist poet lava crime |  
 | bip_39_word_space_8 | radar neutral tag wrist poet lava crime pilot |  
 | bip_39_word_space_9 | radar neutral tag wrist poet lava crime pilot fix |  
+| bip_39_word_underscore_1 | radar |  
+| bip_39_word_underscore_10 | radar_neutral_tag_wrist_poet_lava_crime_pilot_fix_cherry |  
+| bip_39_word_underscore_11 | radar_neutral_tag_wrist_poet_lava_crime_pilot_fix_cherry_resist |  
+| bip_39_word_underscore_12 | radar_neutral_tag_wrist_poet_lava_crime_pilot_fix_cherry_resist_abuse |  
+| bip_39_word_underscore_2 | radar_neutral |  
+| bip_39_word_underscore_3 | radar_neutral_tag |  
+| bip_39_word_underscore_4 | radar_neutral_tag_wrist |  
+| bip_39_word_underscore_5 | radar_neutral_tag_wrist_poet |  
+| bip_39_word_underscore_6 | radar_neutral_tag_wrist_poet_lava |  
+| bip_39_word_underscore_7 | radar_neutral_tag_wrist_poet_lava_crime |  
+| bip_39_word_underscore_8 | radar_neutral_tag_wrist_poet_lava_crime_pilot |  
+| bip_39_word_underscore_9 | radar_neutral_tag_wrist_poet_lava_crime_pilot_fix |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

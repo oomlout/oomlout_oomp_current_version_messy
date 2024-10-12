@@ -1,3 +1,15 @@
+bip_39_word_dash_1: humor
+bip_39_word_dash_10: humor-exhibit-gravity-rich-august-waste-client-coast-hungry-keen
+bip_39_word_dash_11: humor-exhibit-gravity-rich-august-waste-client-coast-hungry-keen-require
+bip_39_word_dash_12: humor-exhibit-gravity-rich-august-waste-client-coast-hungry-keen-require-attract
+bip_39_word_dash_2: humor-exhibit
+bip_39_word_dash_3: humor-exhibit-gravity
+bip_39_word_dash_4: humor-exhibit-gravity-rich
+bip_39_word_dash_5: humor-exhibit-gravity-rich-august
+bip_39_word_dash_6: humor-exhibit-gravity-rich-august-waste
+bip_39_word_dash_7: humor-exhibit-gravity-rich-august-waste-client
+bip_39_word_dash_8: humor-exhibit-gravity-rich-august-waste-client-coast
+bip_39_word_dash_9: humor-exhibit-gravity-rich-august-waste-client-coast-hungry
 bip_39_word_new_br_1: humor
 bip_39_word_new_br_10: humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen
 bip_39_word_new_br_11: humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen<br>require
@@ -194,6 +206,18 @@ bip_39_word_space_6: humor exhibit gravity rich august waste
 bip_39_word_space_7: humor exhibit gravity rich august waste client
 bip_39_word_space_8: humor exhibit gravity rich august waste client coast
 bip_39_word_space_9: humor exhibit gravity rich august waste client coast hungry
+bip_39_word_underscore_1: humor
+bip_39_word_underscore_10: humor_exhibit_gravity_rich_august_waste_client_coast_hungry_keen
+bip_39_word_underscore_11: humor_exhibit_gravity_rich_august_waste_client_coast_hungry_keen_require
+bip_39_word_underscore_12: humor_exhibit_gravity_rich_august_waste_client_coast_hungry_keen_require_attract
+bip_39_word_underscore_2: humor_exhibit
+bip_39_word_underscore_3: humor_exhibit_gravity
+bip_39_word_underscore_4: humor_exhibit_gravity_rich
+bip_39_word_underscore_5: humor_exhibit_gravity_rich_august
+bip_39_word_underscore_6: humor_exhibit_gravity_rich_august_waste
+bip_39_word_underscore_7: humor_exhibit_gravity_rich_august_waste_client
+bip_39_word_underscore_8: humor_exhibit_gravity_rich_august_waste_client_coast
+bip_39_word_underscore_9: humor_exhibit_gravity_rich_august_waste_client_coast_hungry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

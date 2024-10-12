@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pact |  
+| bip_39_word_dash_10 | pact-fox-perfect-poem-soup-caught-choice-oak-enforce-salt |  
+| bip_39_word_dash_11 | pact-fox-perfect-poem-soup-caught-choice-oak-enforce-salt-empty |  
+| bip_39_word_dash_12 | pact-fox-perfect-poem-soup-caught-choice-oak-enforce-salt-empty-athlete |  
+| bip_39_word_dash_2 | pact-fox |  
+| bip_39_word_dash_3 | pact-fox-perfect |  
+| bip_39_word_dash_4 | pact-fox-perfect-poem |  
+| bip_39_word_dash_5 | pact-fox-perfect-poem-soup |  
+| bip_39_word_dash_6 | pact-fox-perfect-poem-soup-caught |  
+| bip_39_word_dash_7 | pact-fox-perfect-poem-soup-caught-choice |  
+| bip_39_word_dash_8 | pact-fox-perfect-poem-soup-caught-choice-oak |  
+| bip_39_word_dash_9 | pact-fox-perfect-poem-soup-caught-choice-oak-enforce |  
 | bip_39_word_new_br_1 | pact |  
 | bip_39_word_new_br_10 | pact<br>fox<br>perfect<br>poem<br>soup<br>caught<br>choice<br>oak<br>enforce<br>salt |  
 | bip_39_word_new_br_11 | pact<br>fox<br>perfect<br>poem<br>soup<br>caught<br>choice<br>oak<br>enforce<br>salt<br>empty |  
@@ -147,6 +159,18 @@ enforce |
 | bip_39_word_space_7 | pact fox perfect poem soup caught choice |  
 | bip_39_word_space_8 | pact fox perfect poem soup caught choice oak |  
 | bip_39_word_space_9 | pact fox perfect poem soup caught choice oak enforce |  
+| bip_39_word_underscore_1 | pact |  
+| bip_39_word_underscore_10 | pact_fox_perfect_poem_soup_caught_choice_oak_enforce_salt |  
+| bip_39_word_underscore_11 | pact_fox_perfect_poem_soup_caught_choice_oak_enforce_salt_empty |  
+| bip_39_word_underscore_12 | pact_fox_perfect_poem_soup_caught_choice_oak_enforce_salt_empty_athlete |  
+| bip_39_word_underscore_2 | pact_fox |  
+| bip_39_word_underscore_3 | pact_fox_perfect |  
+| bip_39_word_underscore_4 | pact_fox_perfect_poem |  
+| bip_39_word_underscore_5 | pact_fox_perfect_poem_soup |  
+| bip_39_word_underscore_6 | pact_fox_perfect_poem_soup_caught |  
+| bip_39_word_underscore_7 | pact_fox_perfect_poem_soup_caught_choice |  
+| bip_39_word_underscore_8 | pact_fox_perfect_poem_soup_caught_choice_oak |  
+| bip_39_word_underscore_9 | pact_fox_perfect_poem_soup_caught_choice_oak_enforce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

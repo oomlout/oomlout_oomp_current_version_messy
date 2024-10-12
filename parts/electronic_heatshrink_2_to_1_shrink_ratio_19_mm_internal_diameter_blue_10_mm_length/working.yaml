@@ -1,3 +1,15 @@
+bip_39_word_dash_1: measure
+bip_39_word_dash_10: measure-field-scale-brother-stuff-pigeon-deal-attract-chalk-spin
+bip_39_word_dash_11: measure-field-scale-brother-stuff-pigeon-deal-attract-chalk-spin-split
+bip_39_word_dash_12: measure-field-scale-brother-stuff-pigeon-deal-attract-chalk-spin-split-autumn
+bip_39_word_dash_2: measure-field
+bip_39_word_dash_3: measure-field-scale
+bip_39_word_dash_4: measure-field-scale-brother
+bip_39_word_dash_5: measure-field-scale-brother-stuff
+bip_39_word_dash_6: measure-field-scale-brother-stuff-pigeon
+bip_39_word_dash_7: measure-field-scale-brother-stuff-pigeon-deal
+bip_39_word_dash_8: measure-field-scale-brother-stuff-pigeon-deal-attract
+bip_39_word_dash_9: measure-field-scale-brother-stuff-pigeon-deal-attract-chalk
 bip_39_word_new_br_1: measure
 bip_39_word_new_br_10: measure<br>field<br>scale<br>brother<br>stuff<br>pigeon<br>deal<br>attract<br>chalk<br>spin
 bip_39_word_new_br_11: measure<br>field<br>scale<br>brother<br>stuff<br>pigeon<br>deal<br>attract<br>chalk<br>spin<br>split
@@ -194,6 +206,18 @@ bip_39_word_space_6: measure field scale brother stuff pigeon
 bip_39_word_space_7: measure field scale brother stuff pigeon deal
 bip_39_word_space_8: measure field scale brother stuff pigeon deal attract
 bip_39_word_space_9: measure field scale brother stuff pigeon deal attract chalk
+bip_39_word_underscore_1: measure
+bip_39_word_underscore_10: measure_field_scale_brother_stuff_pigeon_deal_attract_chalk_spin
+bip_39_word_underscore_11: measure_field_scale_brother_stuff_pigeon_deal_attract_chalk_spin_split
+bip_39_word_underscore_12: measure_field_scale_brother_stuff_pigeon_deal_attract_chalk_spin_split_autumn
+bip_39_word_underscore_2: measure_field
+bip_39_word_underscore_3: measure_field_scale
+bip_39_word_underscore_4: measure_field_scale_brother
+bip_39_word_underscore_5: measure_field_scale_brother_stuff
+bip_39_word_underscore_6: measure_field_scale_brother_stuff_pigeon
+bip_39_word_underscore_7: measure_field_scale_brother_stuff_pigeon_deal
+bip_39_word_underscore_8: measure_field_scale_brother_stuff_pigeon_deal_attract
+bip_39_word_underscore_9: measure_field_scale_brother_stuff_pigeon_deal_attract_chalk
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

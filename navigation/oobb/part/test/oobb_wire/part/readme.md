@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pioneer |  
+| bip_39_word_dash_10 | pioneer-lizard-indicate-input-where-despair-saddle-antique-fresh-coffee |  
+| bip_39_word_dash_11 | pioneer-lizard-indicate-input-where-despair-saddle-antique-fresh-coffee-employ |  
+| bip_39_word_dash_12 | pioneer-lizard-indicate-input-where-despair-saddle-antique-fresh-coffee-employ-author |  
+| bip_39_word_dash_2 | pioneer-lizard |  
+| bip_39_word_dash_3 | pioneer-lizard-indicate |  
+| bip_39_word_dash_4 | pioneer-lizard-indicate-input |  
+| bip_39_word_dash_5 | pioneer-lizard-indicate-input-where |  
+| bip_39_word_dash_6 | pioneer-lizard-indicate-input-where-despair |  
+| bip_39_word_dash_7 | pioneer-lizard-indicate-input-where-despair-saddle |  
+| bip_39_word_dash_8 | pioneer-lizard-indicate-input-where-despair-saddle-antique |  
+| bip_39_word_dash_9 | pioneer-lizard-indicate-input-where-despair-saddle-antique-fresh |  
 | bip_39_word_new_br_1 | pioneer |  
 | bip_39_word_new_br_10 | pioneer<br>lizard<br>indicate<br>input<br>where<br>despair<br>saddle<br>antique<br>fresh<br>coffee |  
 | bip_39_word_new_br_11 | pioneer<br>lizard<br>indicate<br>input<br>where<br>despair<br>saddle<br>antique<br>fresh<br>coffee<br>employ |  
@@ -147,6 +159,18 @@ fresh |
 | bip_39_word_space_7 | pioneer lizard indicate input where despair saddle |  
 | bip_39_word_space_8 | pioneer lizard indicate input where despair saddle antique |  
 | bip_39_word_space_9 | pioneer lizard indicate input where despair saddle antique fresh |  
+| bip_39_word_underscore_1 | pioneer |  
+| bip_39_word_underscore_10 | pioneer_lizard_indicate_input_where_despair_saddle_antique_fresh_coffee |  
+| bip_39_word_underscore_11 | pioneer_lizard_indicate_input_where_despair_saddle_antique_fresh_coffee_employ |  
+| bip_39_word_underscore_12 | pioneer_lizard_indicate_input_where_despair_saddle_antique_fresh_coffee_employ_author |  
+| bip_39_word_underscore_2 | pioneer_lizard |  
+| bip_39_word_underscore_3 | pioneer_lizard_indicate |  
+| bip_39_word_underscore_4 | pioneer_lizard_indicate_input |  
+| bip_39_word_underscore_5 | pioneer_lizard_indicate_input_where |  
+| bip_39_word_underscore_6 | pioneer_lizard_indicate_input_where_despair |  
+| bip_39_word_underscore_7 | pioneer_lizard_indicate_input_where_despair_saddle |  
+| bip_39_word_underscore_8 | pioneer_lizard_indicate_input_where_despair_saddle_antique |  
+| bip_39_word_underscore_9 | pioneer_lizard_indicate_input_where_despair_saddle_antique_fresh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

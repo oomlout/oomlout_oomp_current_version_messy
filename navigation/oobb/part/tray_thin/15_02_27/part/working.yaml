@@ -1,3 +1,15 @@
+bip_39_word_dash_1: purity
+bip_39_word_dash_10: purity-inject-parade-average-local-scare-account-box-year-ticket
+bip_39_word_dash_11: purity-inject-parade-average-local-scare-account-box-year-ticket-tenant
+bip_39_word_dash_12: purity-inject-parade-average-local-scare-account-box-year-ticket-tenant-author
+bip_39_word_dash_2: purity-inject
+bip_39_word_dash_3: purity-inject-parade
+bip_39_word_dash_4: purity-inject-parade-average
+bip_39_word_dash_5: purity-inject-parade-average-local
+bip_39_word_dash_6: purity-inject-parade-average-local-scare
+bip_39_word_dash_7: purity-inject-parade-average-local-scare-account
+bip_39_word_dash_8: purity-inject-parade-average-local-scare-account-box
+bip_39_word_dash_9: purity-inject-parade-average-local-scare-account-box-year
 bip_39_word_new_br_1: purity
 bip_39_word_new_br_10: purity<br>inject<br>parade<br>average<br>local<br>scare<br>account<br>box<br>year<br>ticket
 bip_39_word_new_br_11: purity<br>inject<br>parade<br>average<br>local<br>scare<br>account<br>box<br>year<br>ticket<br>tenant
@@ -193,6 +205,18 @@ bip_39_word_space_6: purity inject parade average local scare
 bip_39_word_space_7: purity inject parade average local scare account
 bip_39_word_space_8: purity inject parade average local scare account box
 bip_39_word_space_9: purity inject parade average local scare account box year
+bip_39_word_underscore_1: purity
+bip_39_word_underscore_10: purity_inject_parade_average_local_scare_account_box_year_ticket
+bip_39_word_underscore_11: purity_inject_parade_average_local_scare_account_box_year_ticket_tenant
+bip_39_word_underscore_12: purity_inject_parade_average_local_scare_account_box_year_ticket_tenant_author
+bip_39_word_underscore_2: purity_inject
+bip_39_word_underscore_3: purity_inject_parade
+bip_39_word_underscore_4: purity_inject_parade_average
+bip_39_word_underscore_5: purity_inject_parade_average_local
+bip_39_word_underscore_6: purity_inject_parade_average_local_scare
+bip_39_word_underscore_7: purity_inject_parade_average_local_scare_account
+bip_39_word_underscore_8: purity_inject_parade_average_local_scare_account_box
+bip_39_word_underscore_9: purity_inject_parade_average_local_scare_account_box_year
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

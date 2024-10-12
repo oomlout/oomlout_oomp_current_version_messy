@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | secret |  
+| bip_39_word_dash_10 | secret-address-over-wolf-recall-female-suggest-attack-gallery-crater |  
+| bip_39_word_dash_11 | secret-address-over-wolf-recall-female-suggest-attack-gallery-crater-pill |  
+| bip_39_word_dash_12 | secret-address-over-wolf-recall-female-suggest-attack-gallery-crater-pill-antenna |  
+| bip_39_word_dash_2 | secret-address |  
+| bip_39_word_dash_3 | secret-address-over |  
+| bip_39_word_dash_4 | secret-address-over-wolf |  
+| bip_39_word_dash_5 | secret-address-over-wolf-recall |  
+| bip_39_word_dash_6 | secret-address-over-wolf-recall-female |  
+| bip_39_word_dash_7 | secret-address-over-wolf-recall-female-suggest |  
+| bip_39_word_dash_8 | secret-address-over-wolf-recall-female-suggest-attack |  
+| bip_39_word_dash_9 | secret-address-over-wolf-recall-female-suggest-attack-gallery |  
 | bip_39_word_new_br_1 | secret |  
 | bip_39_word_new_br_10 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater |  
 | bip_39_word_new_br_11 | secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater<br>pill |  
@@ -147,6 +159,18 @@ gallery |
 | bip_39_word_space_7 | secret address over wolf recall female suggest |  
 | bip_39_word_space_8 | secret address over wolf recall female suggest attack |  
 | bip_39_word_space_9 | secret address over wolf recall female suggest attack gallery |  
+| bip_39_word_underscore_1 | secret |  
+| bip_39_word_underscore_10 | secret_address_over_wolf_recall_female_suggest_attack_gallery_crater |  
+| bip_39_word_underscore_11 | secret_address_over_wolf_recall_female_suggest_attack_gallery_crater_pill |  
+| bip_39_word_underscore_12 | secret_address_over_wolf_recall_female_suggest_attack_gallery_crater_pill_antenna |  
+| bip_39_word_underscore_2 | secret_address |  
+| bip_39_word_underscore_3 | secret_address_over |  
+| bip_39_word_underscore_4 | secret_address_over_wolf |  
+| bip_39_word_underscore_5 | secret_address_over_wolf_recall |  
+| bip_39_word_underscore_6 | secret_address_over_wolf_recall_female |  
+| bip_39_word_underscore_7 | secret_address_over_wolf_recall_female_suggest |  
+| bip_39_word_underscore_8 | secret_address_over_wolf_recall_female_suggest_attack |  
+| bip_39_word_underscore_9 | secret_address_over_wolf_recall_female_suggest_attack_gallery |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

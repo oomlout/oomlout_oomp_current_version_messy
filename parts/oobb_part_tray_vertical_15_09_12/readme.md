@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | style |  
+| bip_39_word_dash_10 | style-tide-skull-dentist-knock-laugh-various-cupboard-dice-fluid |  
+| bip_39_word_dash_11 | style-tide-skull-dentist-knock-laugh-various-cupboard-dice-fluid-faith |  
+| bip_39_word_dash_12 | style-tide-skull-dentist-knock-laugh-various-cupboard-dice-fluid-faith-announce |  
+| bip_39_word_dash_2 | style-tide |  
+| bip_39_word_dash_3 | style-tide-skull |  
+| bip_39_word_dash_4 | style-tide-skull-dentist |  
+| bip_39_word_dash_5 | style-tide-skull-dentist-knock |  
+| bip_39_word_dash_6 | style-tide-skull-dentist-knock-laugh |  
+| bip_39_word_dash_7 | style-tide-skull-dentist-knock-laugh-various |  
+| bip_39_word_dash_8 | style-tide-skull-dentist-knock-laugh-various-cupboard |  
+| bip_39_word_dash_9 | style-tide-skull-dentist-knock-laugh-various-cupboard-dice |  
 | bip_39_word_new_br_1 | style |  
 | bip_39_word_new_br_10 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid |  
 | bip_39_word_new_br_11 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid<br>faith |  
@@ -147,6 +159,18 @@ dice |
 | bip_39_word_space_7 | style tide skull dentist knock laugh various |  
 | bip_39_word_space_8 | style tide skull dentist knock laugh various cupboard |  
 | bip_39_word_space_9 | style tide skull dentist knock laugh various cupboard dice |  
+| bip_39_word_underscore_1 | style |  
+| bip_39_word_underscore_10 | style_tide_skull_dentist_knock_laugh_various_cupboard_dice_fluid |  
+| bip_39_word_underscore_11 | style_tide_skull_dentist_knock_laugh_various_cupboard_dice_fluid_faith |  
+| bip_39_word_underscore_12 | style_tide_skull_dentist_knock_laugh_various_cupboard_dice_fluid_faith_announce |  
+| bip_39_word_underscore_2 | style_tide |  
+| bip_39_word_underscore_3 | style_tide_skull |  
+| bip_39_word_underscore_4 | style_tide_skull_dentist |  
+| bip_39_word_underscore_5 | style_tide_skull_dentist_knock |  
+| bip_39_word_underscore_6 | style_tide_skull_dentist_knock_laugh |  
+| bip_39_word_underscore_7 | style_tide_skull_dentist_knock_laugh_various |  
+| bip_39_word_underscore_8 | style_tide_skull_dentist_knock_laugh_various_cupboard |  
+| bip_39_word_underscore_9 | style_tide_skull_dentist_knock_laugh_various_cupboard_dice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

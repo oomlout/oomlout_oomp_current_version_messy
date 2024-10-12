@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flip |  
+| bip_39_word_dash_10 | flip-leaf-increase-critic-juice-actor-offer-same-position-boost |  
+| bip_39_word_dash_11 | flip-leaf-increase-critic-juice-actor-offer-same-position-boost-invest |  
+| bip_39_word_dash_12 | flip-leaf-increase-critic-juice-actor-offer-same-position-boost-invest-arctic |  
+| bip_39_word_dash_2 | flip-leaf |  
+| bip_39_word_dash_3 | flip-leaf-increase |  
+| bip_39_word_dash_4 | flip-leaf-increase-critic |  
+| bip_39_word_dash_5 | flip-leaf-increase-critic-juice |  
+| bip_39_word_dash_6 | flip-leaf-increase-critic-juice-actor |  
+| bip_39_word_dash_7 | flip-leaf-increase-critic-juice-actor-offer |  
+| bip_39_word_dash_8 | flip-leaf-increase-critic-juice-actor-offer-same |  
+| bip_39_word_dash_9 | flip-leaf-increase-critic-juice-actor-offer-same-position |  
 | bip_39_word_new_br_1 | flip |  
 | bip_39_word_new_br_10 | flip<br>leaf<br>increase<br>critic<br>juice<br>actor<br>offer<br>same<br>position<br>boost |  
 | bip_39_word_new_br_11 | flip<br>leaf<br>increase<br>critic<br>juice<br>actor<br>offer<br>same<br>position<br>boost<br>invest |  
@@ -147,6 +159,18 @@ position |
 | bip_39_word_space_7 | flip leaf increase critic juice actor offer |  
 | bip_39_word_space_8 | flip leaf increase critic juice actor offer same |  
 | bip_39_word_space_9 | flip leaf increase critic juice actor offer same position |  
+| bip_39_word_underscore_1 | flip |  
+| bip_39_word_underscore_10 | flip_leaf_increase_critic_juice_actor_offer_same_position_boost |  
+| bip_39_word_underscore_11 | flip_leaf_increase_critic_juice_actor_offer_same_position_boost_invest |  
+| bip_39_word_underscore_12 | flip_leaf_increase_critic_juice_actor_offer_same_position_boost_invest_arctic |  
+| bip_39_word_underscore_2 | flip_leaf |  
+| bip_39_word_underscore_3 | flip_leaf_increase |  
+| bip_39_word_underscore_4 | flip_leaf_increase_critic |  
+| bip_39_word_underscore_5 | flip_leaf_increase_critic_juice |  
+| bip_39_word_underscore_6 | flip_leaf_increase_critic_juice_actor |  
+| bip_39_word_underscore_7 | flip_leaf_increase_critic_juice_actor_offer |  
+| bip_39_word_underscore_8 | flip_leaf_increase_critic_juice_actor_offer_same |  
+| bip_39_word_underscore_9 | flip_leaf_increase_critic_juice_actor_offer_same_position |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

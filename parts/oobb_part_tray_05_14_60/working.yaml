@@ -1,3 +1,15 @@
+bip_39_word_dash_1: useful
+bip_39_word_dash_10: useful-butter-escape-glow-gadget-father-gas-able-common-drastic
+bip_39_word_dash_11: useful-butter-escape-glow-gadget-father-gas-able-common-drastic-now
+bip_39_word_dash_12: useful-butter-escape-glow-gadget-father-gas-able-common-drastic-now-announce
+bip_39_word_dash_2: useful-butter
+bip_39_word_dash_3: useful-butter-escape
+bip_39_word_dash_4: useful-butter-escape-glow
+bip_39_word_dash_5: useful-butter-escape-glow-gadget
+bip_39_word_dash_6: useful-butter-escape-glow-gadget-father
+bip_39_word_dash_7: useful-butter-escape-glow-gadget-father-gas
+bip_39_word_dash_8: useful-butter-escape-glow-gadget-father-gas-able
+bip_39_word_dash_9: useful-butter-escape-glow-gadget-father-gas-able-common
 bip_39_word_new_br_1: useful
 bip_39_word_new_br_10: useful<br>butter<br>escape<br>glow<br>gadget<br>father<br>gas<br>able<br>common<br>drastic
 bip_39_word_new_br_11: useful<br>butter<br>escape<br>glow<br>gadget<br>father<br>gas<br>able<br>common<br>drastic<br>now
@@ -193,6 +205,18 @@ bip_39_word_space_6: useful butter escape glow gadget father
 bip_39_word_space_7: useful butter escape glow gadget father gas
 bip_39_word_space_8: useful butter escape glow gadget father gas able
 bip_39_word_space_9: useful butter escape glow gadget father gas able common
+bip_39_word_underscore_1: useful
+bip_39_word_underscore_10: useful_butter_escape_glow_gadget_father_gas_able_common_drastic
+bip_39_word_underscore_11: useful_butter_escape_glow_gadget_father_gas_able_common_drastic_now
+bip_39_word_underscore_12: useful_butter_escape_glow_gadget_father_gas_able_common_drastic_now_announce
+bip_39_word_underscore_2: useful_butter
+bip_39_word_underscore_3: useful_butter_escape
+bip_39_word_underscore_4: useful_butter_escape_glow
+bip_39_word_underscore_5: useful_butter_escape_glow_gadget
+bip_39_word_underscore_6: useful_butter_escape_glow_gadget_father
+bip_39_word_underscore_7: useful_butter_escape_glow_gadget_father_gas
+bip_39_word_underscore_8: useful_butter_escape_glow_gadget_father_gas_able
+bip_39_word_underscore_9: useful_butter_escape_glow_gadget_father_gas_able_common
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: source
+bip_39_word_dash_10: source-indoor-assault-clog-exhaust-month-easy-secret-police-traffic
+bip_39_word_dash_11: source-indoor-assault-clog-exhaust-month-easy-secret-police-traffic-panther
+bip_39_word_dash_12: source-indoor-assault-clog-exhaust-month-easy-secret-police-traffic-panther-assist
+bip_39_word_dash_2: source-indoor
+bip_39_word_dash_3: source-indoor-assault
+bip_39_word_dash_4: source-indoor-assault-clog
+bip_39_word_dash_5: source-indoor-assault-clog-exhaust
+bip_39_word_dash_6: source-indoor-assault-clog-exhaust-month
+bip_39_word_dash_7: source-indoor-assault-clog-exhaust-month-easy
+bip_39_word_dash_8: source-indoor-assault-clog-exhaust-month-easy-secret
+bip_39_word_dash_9: source-indoor-assault-clog-exhaust-month-easy-secret-police
 bip_39_word_new_br_1: source
 bip_39_word_new_br_10: source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret<br>police<br>traffic
 bip_39_word_new_br_11: source<br>indoor<br>assault<br>clog<br>exhaust<br>month<br>easy<br>secret<br>police<br>traffic<br>panther
@@ -194,6 +206,18 @@ bip_39_word_space_6: source indoor assault clog exhaust month
 bip_39_word_space_7: source indoor assault clog exhaust month easy
 bip_39_word_space_8: source indoor assault clog exhaust month easy secret
 bip_39_word_space_9: source indoor assault clog exhaust month easy secret police
+bip_39_word_underscore_1: source
+bip_39_word_underscore_10: source_indoor_assault_clog_exhaust_month_easy_secret_police_traffic
+bip_39_word_underscore_11: source_indoor_assault_clog_exhaust_month_easy_secret_police_traffic_panther
+bip_39_word_underscore_12: source_indoor_assault_clog_exhaust_month_easy_secret_police_traffic_panther_assist
+bip_39_word_underscore_2: source_indoor
+bip_39_word_underscore_3: source_indoor_assault
+bip_39_word_underscore_4: source_indoor_assault_clog
+bip_39_word_underscore_5: source_indoor_assault_clog_exhaust
+bip_39_word_underscore_6: source_indoor_assault_clog_exhaust_month
+bip_39_word_underscore_7: source_indoor_assault_clog_exhaust_month_easy
+bip_39_word_underscore_8: source_indoor_assault_clog_exhaust_month_easy_secret
+bip_39_word_underscore_9: source_indoor_assault_clog_exhaust_month_easy_secret_police
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

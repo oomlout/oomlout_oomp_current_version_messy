@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crisp |  
+| bip_39_word_dash_10 | crisp-say-motor-one-cluster-grid-glimpse-huge-hour-bid |  
+| bip_39_word_dash_11 | crisp-say-motor-one-cluster-grid-glimpse-huge-hour-bid-title |  
+| bip_39_word_dash_12 | crisp-say-motor-one-cluster-grid-glimpse-huge-hour-bid-title-achieve |  
+| bip_39_word_dash_2 | crisp-say |  
+| bip_39_word_dash_3 | crisp-say-motor |  
+| bip_39_word_dash_4 | crisp-say-motor-one |  
+| bip_39_word_dash_5 | crisp-say-motor-one-cluster |  
+| bip_39_word_dash_6 | crisp-say-motor-one-cluster-grid |  
+| bip_39_word_dash_7 | crisp-say-motor-one-cluster-grid-glimpse |  
+| bip_39_word_dash_8 | crisp-say-motor-one-cluster-grid-glimpse-huge |  
+| bip_39_word_dash_9 | crisp-say-motor-one-cluster-grid-glimpse-huge-hour |  
 | bip_39_word_new_br_1 | crisp |  
 | bip_39_word_new_br_10 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid |  
 | bip_39_word_new_br_11 | crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid<br>title |  
@@ -147,6 +159,18 @@ hour |
 | bip_39_word_space_7 | crisp say motor one cluster grid glimpse |  
 | bip_39_word_space_8 | crisp say motor one cluster grid glimpse huge |  
 | bip_39_word_space_9 | crisp say motor one cluster grid glimpse huge hour |  
+| bip_39_word_underscore_1 | crisp |  
+| bip_39_word_underscore_10 | crisp_say_motor_one_cluster_grid_glimpse_huge_hour_bid |  
+| bip_39_word_underscore_11 | crisp_say_motor_one_cluster_grid_glimpse_huge_hour_bid_title |  
+| bip_39_word_underscore_12 | crisp_say_motor_one_cluster_grid_glimpse_huge_hour_bid_title_achieve |  
+| bip_39_word_underscore_2 | crisp_say |  
+| bip_39_word_underscore_3 | crisp_say_motor |  
+| bip_39_word_underscore_4 | crisp_say_motor_one |  
+| bip_39_word_underscore_5 | crisp_say_motor_one_cluster |  
+| bip_39_word_underscore_6 | crisp_say_motor_one_cluster_grid |  
+| bip_39_word_underscore_7 | crisp_say_motor_one_cluster_grid_glimpse |  
+| bip_39_word_underscore_8 | crisp_say_motor_one_cluster_grid_glimpse_huge |  
+| bip_39_word_underscore_9 | crisp_say_motor_one_cluster_grid_glimpse_huge_hour |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

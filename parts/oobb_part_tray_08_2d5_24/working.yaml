@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mobile
+bip_39_word_dash_10: mobile-security-void-record-harsh-brother-sweet-opinion-sugar-few
+bip_39_word_dash_11: mobile-security-void-record-harsh-brother-sweet-opinion-sugar-few-solar
+bip_39_word_dash_12: mobile-security-void-record-harsh-brother-sweet-opinion-sugar-few-solar-add
+bip_39_word_dash_2: mobile-security
+bip_39_word_dash_3: mobile-security-void
+bip_39_word_dash_4: mobile-security-void-record
+bip_39_word_dash_5: mobile-security-void-record-harsh
+bip_39_word_dash_6: mobile-security-void-record-harsh-brother
+bip_39_word_dash_7: mobile-security-void-record-harsh-brother-sweet
+bip_39_word_dash_8: mobile-security-void-record-harsh-brother-sweet-opinion
+bip_39_word_dash_9: mobile-security-void-record-harsh-brother-sweet-opinion-sugar
 bip_39_word_new_br_1: mobile
 bip_39_word_new_br_10: mobile<br>security<br>void<br>record<br>harsh<br>brother<br>sweet<br>opinion<br>sugar<br>few
 bip_39_word_new_br_11: mobile<br>security<br>void<br>record<br>harsh<br>brother<br>sweet<br>opinion<br>sugar<br>few<br>solar
@@ -194,6 +206,18 @@ bip_39_word_space_6: mobile security void record harsh brother
 bip_39_word_space_7: mobile security void record harsh brother sweet
 bip_39_word_space_8: mobile security void record harsh brother sweet opinion
 bip_39_word_space_9: mobile security void record harsh brother sweet opinion sugar
+bip_39_word_underscore_1: mobile
+bip_39_word_underscore_10: mobile_security_void_record_harsh_brother_sweet_opinion_sugar_few
+bip_39_word_underscore_11: mobile_security_void_record_harsh_brother_sweet_opinion_sugar_few_solar
+bip_39_word_underscore_12: mobile_security_void_record_harsh_brother_sweet_opinion_sugar_few_solar_add
+bip_39_word_underscore_2: mobile_security
+bip_39_word_underscore_3: mobile_security_void
+bip_39_word_underscore_4: mobile_security_void_record
+bip_39_word_underscore_5: mobile_security_void_record_harsh
+bip_39_word_underscore_6: mobile_security_void_record_harsh_brother
+bip_39_word_underscore_7: mobile_security_void_record_harsh_brother_sweet
+bip_39_word_underscore_8: mobile_security_void_record_harsh_brother_sweet_opinion
+bip_39_word_underscore_9: mobile_security_void_record_harsh_brother_sweet_opinion_sugar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

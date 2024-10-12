@@ -1,3 +1,15 @@
+bip_39_word_dash_1: puppy
+bip_39_word_dash_10: puppy-lemon-unhappy-rate-sugar-tuition-rhythm-stone-stadium-super
+bip_39_word_dash_11: puppy-lemon-unhappy-rate-sugar-tuition-rhythm-stone-stadium-super-demand
+bip_39_word_dash_12: puppy-lemon-unhappy-rate-sugar-tuition-rhythm-stone-stadium-super-demand-angry
+bip_39_word_dash_2: puppy-lemon
+bip_39_word_dash_3: puppy-lemon-unhappy
+bip_39_word_dash_4: puppy-lemon-unhappy-rate
+bip_39_word_dash_5: puppy-lemon-unhappy-rate-sugar
+bip_39_word_dash_6: puppy-lemon-unhappy-rate-sugar-tuition
+bip_39_word_dash_7: puppy-lemon-unhappy-rate-sugar-tuition-rhythm
+bip_39_word_dash_8: puppy-lemon-unhappy-rate-sugar-tuition-rhythm-stone
+bip_39_word_dash_9: puppy-lemon-unhappy-rate-sugar-tuition-rhythm-stone-stadium
 bip_39_word_new_br_1: puppy
 bip_39_word_new_br_10: puppy<br>lemon<br>unhappy<br>rate<br>sugar<br>tuition<br>rhythm<br>stone<br>stadium<br>super
 bip_39_word_new_br_11: puppy<br>lemon<br>unhappy<br>rate<br>sugar<br>tuition<br>rhythm<br>stone<br>stadium<br>super<br>demand
@@ -194,6 +206,18 @@ bip_39_word_space_6: puppy lemon unhappy rate sugar tuition
 bip_39_word_space_7: puppy lemon unhappy rate sugar tuition rhythm
 bip_39_word_space_8: puppy lemon unhappy rate sugar tuition rhythm stone
 bip_39_word_space_9: puppy lemon unhappy rate sugar tuition rhythm stone stadium
+bip_39_word_underscore_1: puppy
+bip_39_word_underscore_10: puppy_lemon_unhappy_rate_sugar_tuition_rhythm_stone_stadium_super
+bip_39_word_underscore_11: puppy_lemon_unhappy_rate_sugar_tuition_rhythm_stone_stadium_super_demand
+bip_39_word_underscore_12: puppy_lemon_unhappy_rate_sugar_tuition_rhythm_stone_stadium_super_demand_angry
+bip_39_word_underscore_2: puppy_lemon
+bip_39_word_underscore_3: puppy_lemon_unhappy
+bip_39_word_underscore_4: puppy_lemon_unhappy_rate
+bip_39_word_underscore_5: puppy_lemon_unhappy_rate_sugar
+bip_39_word_underscore_6: puppy_lemon_unhappy_rate_sugar_tuition
+bip_39_word_underscore_7: puppy_lemon_unhappy_rate_sugar_tuition_rhythm
+bip_39_word_underscore_8: puppy_lemon_unhappy_rate_sugar_tuition_rhythm_stone
+bip_39_word_underscore_9: puppy_lemon_unhappy_rate_sugar_tuition_rhythm_stone_stadium
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

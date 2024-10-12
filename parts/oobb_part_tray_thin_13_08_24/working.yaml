@@ -1,3 +1,15 @@
+bip_39_word_dash_1: resist
+bip_39_word_dash_10: resist-allow-audit-today-lion-auto-kit-weapon-hurry-foot
+bip_39_word_dash_11: resist-allow-audit-today-lion-auto-kit-weapon-hurry-foot-accuse
+bip_39_word_dash_12: resist-allow-audit-today-lion-auto-kit-weapon-hurry-foot-accuse-actor
+bip_39_word_dash_2: resist-allow
+bip_39_word_dash_3: resist-allow-audit
+bip_39_word_dash_4: resist-allow-audit-today
+bip_39_word_dash_5: resist-allow-audit-today-lion
+bip_39_word_dash_6: resist-allow-audit-today-lion-auto
+bip_39_word_dash_7: resist-allow-audit-today-lion-auto-kit
+bip_39_word_dash_8: resist-allow-audit-today-lion-auto-kit-weapon
+bip_39_word_dash_9: resist-allow-audit-today-lion-auto-kit-weapon-hurry
 bip_39_word_new_br_1: resist
 bip_39_word_new_br_10: resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot
 bip_39_word_new_br_11: resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot<br>accuse
@@ -192,6 +204,18 @@ bip_39_word_space_6: resist allow audit today lion auto
 bip_39_word_space_7: resist allow audit today lion auto kit
 bip_39_word_space_8: resist allow audit today lion auto kit weapon
 bip_39_word_space_9: resist allow audit today lion auto kit weapon hurry
+bip_39_word_underscore_1: resist
+bip_39_word_underscore_10: resist_allow_audit_today_lion_auto_kit_weapon_hurry_foot
+bip_39_word_underscore_11: resist_allow_audit_today_lion_auto_kit_weapon_hurry_foot_accuse
+bip_39_word_underscore_12: resist_allow_audit_today_lion_auto_kit_weapon_hurry_foot_accuse_actor
+bip_39_word_underscore_2: resist_allow
+bip_39_word_underscore_3: resist_allow_audit
+bip_39_word_underscore_4: resist_allow_audit_today
+bip_39_word_underscore_5: resist_allow_audit_today_lion
+bip_39_word_underscore_6: resist_allow_audit_today_lion_auto
+bip_39_word_underscore_7: resist_allow_audit_today_lion_auto_kit
+bip_39_word_underscore_8: resist_allow_audit_today_lion_auto_kit_weapon
+bip_39_word_underscore_9: resist_allow_audit_today_lion_auto_kit_weapon_hurry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: client
+bip_39_word_dash_10: client-sword-visit-describe-kick-plunge-iron-win-tide-visit
+bip_39_word_dash_11: client-sword-visit-describe-kick-plunge-iron-win-tide-visit-rigid
+bip_39_word_dash_12: client-sword-visit-describe-kick-plunge-iron-win-tide-visit-rigid-animal
+bip_39_word_dash_2: client-sword
+bip_39_word_dash_3: client-sword-visit
+bip_39_word_dash_4: client-sword-visit-describe
+bip_39_word_dash_5: client-sword-visit-describe-kick
+bip_39_word_dash_6: client-sword-visit-describe-kick-plunge
+bip_39_word_dash_7: client-sword-visit-describe-kick-plunge-iron
+bip_39_word_dash_8: client-sword-visit-describe-kick-plunge-iron-win
+bip_39_word_dash_9: client-sword-visit-describe-kick-plunge-iron-win-tide
 bip_39_word_new_br_1: client
 bip_39_word_new_br_10: client<br>sword<br>visit<br>describe<br>kick<br>plunge<br>iron<br>win<br>tide<br>visit
 bip_39_word_new_br_11: client<br>sword<br>visit<br>describe<br>kick<br>plunge<br>iron<br>win<br>tide<br>visit<br>rigid
@@ -193,6 +205,18 @@ bip_39_word_space_6: client sword visit describe kick plunge
 bip_39_word_space_7: client sword visit describe kick plunge iron
 bip_39_word_space_8: client sword visit describe kick plunge iron win
 bip_39_word_space_9: client sword visit describe kick plunge iron win tide
+bip_39_word_underscore_1: client
+bip_39_word_underscore_10: client_sword_visit_describe_kick_plunge_iron_win_tide_visit
+bip_39_word_underscore_11: client_sword_visit_describe_kick_plunge_iron_win_tide_visit_rigid
+bip_39_word_underscore_12: client_sword_visit_describe_kick_plunge_iron_win_tide_visit_rigid_animal
+bip_39_word_underscore_2: client_sword
+bip_39_word_underscore_3: client_sword_visit
+bip_39_word_underscore_4: client_sword_visit_describe
+bip_39_word_underscore_5: client_sword_visit_describe_kick
+bip_39_word_underscore_6: client_sword_visit_describe_kick_plunge
+bip_39_word_underscore_7: client_sword_visit_describe_kick_plunge_iron
+bip_39_word_underscore_8: client_sword_visit_describe_kick_plunge_iron_win
+bip_39_word_underscore_9: client_sword_visit_describe_kick_plunge_iron_win_tide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

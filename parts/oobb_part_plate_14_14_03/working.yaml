@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tape
+bip_39_word_dash_10: tape-physical-narrow-tape-bid-today-want-trophy-uncover-fury
+bip_39_word_dash_11: tape-physical-narrow-tape-bid-today-want-trophy-uncover-fury-bleak
+bip_39_word_dash_12: tape-physical-narrow-tape-bid-today-want-trophy-uncover-fury-bleak-apology
+bip_39_word_dash_2: tape-physical
+bip_39_word_dash_3: tape-physical-narrow
+bip_39_word_dash_4: tape-physical-narrow-tape
+bip_39_word_dash_5: tape-physical-narrow-tape-bid
+bip_39_word_dash_6: tape-physical-narrow-tape-bid-today
+bip_39_word_dash_7: tape-physical-narrow-tape-bid-today-want
+bip_39_word_dash_8: tape-physical-narrow-tape-bid-today-want-trophy
+bip_39_word_dash_9: tape-physical-narrow-tape-bid-today-want-trophy-uncover
 bip_39_word_new_br_1: tape
 bip_39_word_new_br_10: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy<br>uncover<br>fury
 bip_39_word_new_br_11: tape<br>physical<br>narrow<br>tape<br>bid<br>today<br>want<br>trophy<br>uncover<br>fury<br>bleak
@@ -193,6 +205,18 @@ bip_39_word_space_6: tape physical narrow tape bid today
 bip_39_word_space_7: tape physical narrow tape bid today want
 bip_39_word_space_8: tape physical narrow tape bid today want trophy
 bip_39_word_space_9: tape physical narrow tape bid today want trophy uncover
+bip_39_word_underscore_1: tape
+bip_39_word_underscore_10: tape_physical_narrow_tape_bid_today_want_trophy_uncover_fury
+bip_39_word_underscore_11: tape_physical_narrow_tape_bid_today_want_trophy_uncover_fury_bleak
+bip_39_word_underscore_12: tape_physical_narrow_tape_bid_today_want_trophy_uncover_fury_bleak_apology
+bip_39_word_underscore_2: tape_physical
+bip_39_word_underscore_3: tape_physical_narrow
+bip_39_word_underscore_4: tape_physical_narrow_tape
+bip_39_word_underscore_5: tape_physical_narrow_tape_bid
+bip_39_word_underscore_6: tape_physical_narrow_tape_bid_today
+bip_39_word_underscore_7: tape_physical_narrow_tape_bid_today_want
+bip_39_word_underscore_8: tape_physical_narrow_tape_bid_today_want_trophy
+bip_39_word_underscore_9: tape_physical_narrow_tape_bid_today_want_trophy_uncover
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

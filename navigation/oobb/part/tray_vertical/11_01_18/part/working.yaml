@@ -1,3 +1,15 @@
+bip_39_word_dash_1: drip
+bip_39_word_dash_10: drip-topic-glass-margin-giant-social-token-orange-artwork-misery
+bip_39_word_dash_11: drip-topic-glass-margin-giant-social-token-orange-artwork-misery-problem
+bip_39_word_dash_12: drip-topic-glass-margin-giant-social-token-orange-artwork-misery-problem-autumn
+bip_39_word_dash_2: drip-topic
+bip_39_word_dash_3: drip-topic-glass
+bip_39_word_dash_4: drip-topic-glass-margin
+bip_39_word_dash_5: drip-topic-glass-margin-giant
+bip_39_word_dash_6: drip-topic-glass-margin-giant-social
+bip_39_word_dash_7: drip-topic-glass-margin-giant-social-token
+bip_39_word_dash_8: drip-topic-glass-margin-giant-social-token-orange
+bip_39_word_dash_9: drip-topic-glass-margin-giant-social-token-orange-artwork
 bip_39_word_new_br_1: drip
 bip_39_word_new_br_10: drip<br>topic<br>glass<br>margin<br>giant<br>social<br>token<br>orange<br>artwork<br>misery
 bip_39_word_new_br_11: drip<br>topic<br>glass<br>margin<br>giant<br>social<br>token<br>orange<br>artwork<br>misery<br>problem
@@ -193,6 +205,18 @@ bip_39_word_space_6: drip topic glass margin giant social
 bip_39_word_space_7: drip topic glass margin giant social token
 bip_39_word_space_8: drip topic glass margin giant social token orange
 bip_39_word_space_9: drip topic glass margin giant social token orange artwork
+bip_39_word_underscore_1: drip
+bip_39_word_underscore_10: drip_topic_glass_margin_giant_social_token_orange_artwork_misery
+bip_39_word_underscore_11: drip_topic_glass_margin_giant_social_token_orange_artwork_misery_problem
+bip_39_word_underscore_12: drip_topic_glass_margin_giant_social_token_orange_artwork_misery_problem_autumn
+bip_39_word_underscore_2: drip_topic
+bip_39_word_underscore_3: drip_topic_glass
+bip_39_word_underscore_4: drip_topic_glass_margin
+bip_39_word_underscore_5: drip_topic_glass_margin_giant
+bip_39_word_underscore_6: drip_topic_glass_margin_giant_social
+bip_39_word_underscore_7: drip_topic_glass_margin_giant_social_token
+bip_39_word_underscore_8: drip_topic_glass_margin_giant_social_token_orange
+bip_39_word_underscore_9: drip_topic_glass_margin_giant_social_token_orange_artwork
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

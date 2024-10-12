@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vicious |  
+| bip_39_word_dash_10 | vicious-decorate-urge-awesome-furnace-auction-draw-home-genius-rookie |  
+| bip_39_word_dash_11 | vicious-decorate-urge-awesome-furnace-auction-draw-home-genius-rookie-garbage |  
+| bip_39_word_dash_12 | vicious-decorate-urge-awesome-furnace-auction-draw-home-genius-rookie-garbage-athlete |  
+| bip_39_word_dash_2 | vicious-decorate |  
+| bip_39_word_dash_3 | vicious-decorate-urge |  
+| bip_39_word_dash_4 | vicious-decorate-urge-awesome |  
+| bip_39_word_dash_5 | vicious-decorate-urge-awesome-furnace |  
+| bip_39_word_dash_6 | vicious-decorate-urge-awesome-furnace-auction |  
+| bip_39_word_dash_7 | vicious-decorate-urge-awesome-furnace-auction-draw |  
+| bip_39_word_dash_8 | vicious-decorate-urge-awesome-furnace-auction-draw-home |  
+| bip_39_word_dash_9 | vicious-decorate-urge-awesome-furnace-auction-draw-home-genius |  
 | bip_39_word_new_br_1 | vicious |  
 | bip_39_word_new_br_10 | vicious<br>decorate<br>urge<br>awesome<br>furnace<br>auction<br>draw<br>home<br>genius<br>rookie |  
 | bip_39_word_new_br_11 | vicious<br>decorate<br>urge<br>awesome<br>furnace<br>auction<br>draw<br>home<br>genius<br>rookie<br>garbage |  
@@ -147,6 +159,18 @@ genius |
 | bip_39_word_space_7 | vicious decorate urge awesome furnace auction draw |  
 | bip_39_word_space_8 | vicious decorate urge awesome furnace auction draw home |  
 | bip_39_word_space_9 | vicious decorate urge awesome furnace auction draw home genius |  
+| bip_39_word_underscore_1 | vicious |  
+| bip_39_word_underscore_10 | vicious_decorate_urge_awesome_furnace_auction_draw_home_genius_rookie |  
+| bip_39_word_underscore_11 | vicious_decorate_urge_awesome_furnace_auction_draw_home_genius_rookie_garbage |  
+| bip_39_word_underscore_12 | vicious_decorate_urge_awesome_furnace_auction_draw_home_genius_rookie_garbage_athlete |  
+| bip_39_word_underscore_2 | vicious_decorate |  
+| bip_39_word_underscore_3 | vicious_decorate_urge |  
+| bip_39_word_underscore_4 | vicious_decorate_urge_awesome |  
+| bip_39_word_underscore_5 | vicious_decorate_urge_awesome_furnace |  
+| bip_39_word_underscore_6 | vicious_decorate_urge_awesome_furnace_auction |  
+| bip_39_word_underscore_7 | vicious_decorate_urge_awesome_furnace_auction_draw |  
+| bip_39_word_underscore_8 | vicious_decorate_urge_awesome_furnace_auction_draw_home |  
+| bip_39_word_underscore_9 | vicious_decorate_urge_awesome_furnace_auction_draw_home_genius |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

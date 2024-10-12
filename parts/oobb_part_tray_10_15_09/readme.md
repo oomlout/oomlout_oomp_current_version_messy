@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mail |  
+| bip_39_word_dash_10 | mail-super-usual-comfort-truly-draw-video-degree-sample-gospel |  
+| bip_39_word_dash_11 | mail-super-usual-comfort-truly-draw-video-degree-sample-gospel-broom |  
+| bip_39_word_dash_12 | mail-super-usual-comfort-truly-draw-video-degree-sample-gospel-broom-account |  
+| bip_39_word_dash_2 | mail-super |  
+| bip_39_word_dash_3 | mail-super-usual |  
+| bip_39_word_dash_4 | mail-super-usual-comfort |  
+| bip_39_word_dash_5 | mail-super-usual-comfort-truly |  
+| bip_39_word_dash_6 | mail-super-usual-comfort-truly-draw |  
+| bip_39_word_dash_7 | mail-super-usual-comfort-truly-draw-video |  
+| bip_39_word_dash_8 | mail-super-usual-comfort-truly-draw-video-degree |  
+| bip_39_word_dash_9 | mail-super-usual-comfort-truly-draw-video-degree-sample |  
 | bip_39_word_new_br_1 | mail |  
 | bip_39_word_new_br_10 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree<br>sample<br>gospel |  
 | bip_39_word_new_br_11 | mail<br>super<br>usual<br>comfort<br>truly<br>draw<br>video<br>degree<br>sample<br>gospel<br>broom |  
@@ -147,6 +159,18 @@ sample |
 | bip_39_word_space_7 | mail super usual comfort truly draw video |  
 | bip_39_word_space_8 | mail super usual comfort truly draw video degree |  
 | bip_39_word_space_9 | mail super usual comfort truly draw video degree sample |  
+| bip_39_word_underscore_1 | mail |  
+| bip_39_word_underscore_10 | mail_super_usual_comfort_truly_draw_video_degree_sample_gospel |  
+| bip_39_word_underscore_11 | mail_super_usual_comfort_truly_draw_video_degree_sample_gospel_broom |  
+| bip_39_word_underscore_12 | mail_super_usual_comfort_truly_draw_video_degree_sample_gospel_broom_account |  
+| bip_39_word_underscore_2 | mail_super |  
+| bip_39_word_underscore_3 | mail_super_usual |  
+| bip_39_word_underscore_4 | mail_super_usual_comfort |  
+| bip_39_word_underscore_5 | mail_super_usual_comfort_truly |  
+| bip_39_word_underscore_6 | mail_super_usual_comfort_truly_draw |  
+| bip_39_word_underscore_7 | mail_super_usual_comfort_truly_draw_video |  
+| bip_39_word_underscore_8 | mail_super_usual_comfort_truly_draw_video_degree |  
+| bip_39_word_underscore_9 | mail_super_usual_comfort_truly_draw_video_degree_sample |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

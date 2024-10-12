@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | type |  
+| bip_39_word_dash_10 | type-museum-embody-moment-display-maid-spread-photo-virus-husband |  
+| bip_39_word_dash_11 | type-museum-embody-moment-display-maid-spread-photo-virus-husband-master |  
+| bip_39_word_dash_12 | type-museum-embody-moment-display-maid-spread-photo-virus-husband-master-atom |  
+| bip_39_word_dash_2 | type-museum |  
+| bip_39_word_dash_3 | type-museum-embody |  
+| bip_39_word_dash_4 | type-museum-embody-moment |  
+| bip_39_word_dash_5 | type-museum-embody-moment-display |  
+| bip_39_word_dash_6 | type-museum-embody-moment-display-maid |  
+| bip_39_word_dash_7 | type-museum-embody-moment-display-maid-spread |  
+| bip_39_word_dash_8 | type-museum-embody-moment-display-maid-spread-photo |  
+| bip_39_word_dash_9 | type-museum-embody-moment-display-maid-spread-photo-virus |  
 | bip_39_word_new_br_1 | type |  
 | bip_39_word_new_br_10 | type<br>museum<br>embody<br>moment<br>display<br>maid<br>spread<br>photo<br>virus<br>husband |  
 | bip_39_word_new_br_11 | type<br>museum<br>embody<br>moment<br>display<br>maid<br>spread<br>photo<br>virus<br>husband<br>master |  
@@ -147,6 +159,18 @@ virus |
 | bip_39_word_space_7 | type museum embody moment display maid spread |  
 | bip_39_word_space_8 | type museum embody moment display maid spread photo |  
 | bip_39_word_space_9 | type museum embody moment display maid spread photo virus |  
+| bip_39_word_underscore_1 | type |  
+| bip_39_word_underscore_10 | type_museum_embody_moment_display_maid_spread_photo_virus_husband |  
+| bip_39_word_underscore_11 | type_museum_embody_moment_display_maid_spread_photo_virus_husband_master |  
+| bip_39_word_underscore_12 | type_museum_embody_moment_display_maid_spread_photo_virus_husband_master_atom |  
+| bip_39_word_underscore_2 | type_museum |  
+| bip_39_word_underscore_3 | type_museum_embody |  
+| bip_39_word_underscore_4 | type_museum_embody_moment |  
+| bip_39_word_underscore_5 | type_museum_embody_moment_display |  
+| bip_39_word_underscore_6 | type_museum_embody_moment_display_maid |  
+| bip_39_word_underscore_7 | type_museum_embody_moment_display_maid_spread |  
+| bip_39_word_underscore_8 | type_museum_embody_moment_display_maid_spread_photo |  
+| bip_39_word_underscore_9 | type_museum_embody_moment_display_maid_spread_photo_virus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

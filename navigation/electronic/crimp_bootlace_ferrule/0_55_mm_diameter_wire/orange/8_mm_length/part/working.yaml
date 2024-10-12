@@ -1,3 +1,15 @@
+bip_39_word_dash_1: holiday
+bip_39_word_dash_10: holiday-boat-update-climb-father-stamp-same-village-peace-relax
+bip_39_word_dash_11: holiday-boat-update-climb-father-stamp-same-village-peace-relax-industry
+bip_39_word_dash_12: holiday-boat-update-climb-father-stamp-same-village-peace-relax-industry-announce
+bip_39_word_dash_2: holiday-boat
+bip_39_word_dash_3: holiday-boat-update
+bip_39_word_dash_4: holiday-boat-update-climb
+bip_39_word_dash_5: holiday-boat-update-climb-father
+bip_39_word_dash_6: holiday-boat-update-climb-father-stamp
+bip_39_word_dash_7: holiday-boat-update-climb-father-stamp-same
+bip_39_word_dash_8: holiday-boat-update-climb-father-stamp-same-village
+bip_39_word_dash_9: holiday-boat-update-climb-father-stamp-same-village-peace
 bip_39_word_new_br_1: holiday
 bip_39_word_new_br_10: holiday<br>boat<br>update<br>climb<br>father<br>stamp<br>same<br>village<br>peace<br>relax
 bip_39_word_new_br_11: holiday<br>boat<br>update<br>climb<br>father<br>stamp<br>same<br>village<br>peace<br>relax<br>industry
@@ -193,6 +205,18 @@ bip_39_word_space_6: holiday boat update climb father stamp
 bip_39_word_space_7: holiday boat update climb father stamp same
 bip_39_word_space_8: holiday boat update climb father stamp same village
 bip_39_word_space_9: holiday boat update climb father stamp same village peace
+bip_39_word_underscore_1: holiday
+bip_39_word_underscore_10: holiday_boat_update_climb_father_stamp_same_village_peace_relax
+bip_39_word_underscore_11: holiday_boat_update_climb_father_stamp_same_village_peace_relax_industry
+bip_39_word_underscore_12: holiday_boat_update_climb_father_stamp_same_village_peace_relax_industry_announce
+bip_39_word_underscore_2: holiday_boat
+bip_39_word_underscore_3: holiday_boat_update
+bip_39_word_underscore_4: holiday_boat_update_climb
+bip_39_word_underscore_5: holiday_boat_update_climb_father
+bip_39_word_underscore_6: holiday_boat_update_climb_father_stamp
+bip_39_word_underscore_7: holiday_boat_update_climb_father_stamp_same
+bip_39_word_underscore_8: holiday_boat_update_climb_father_stamp_same_village
+bip_39_word_underscore_9: holiday_boat_update_climb_father_stamp_same_village_peace
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

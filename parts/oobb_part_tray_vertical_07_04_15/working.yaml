@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deliver
+bip_39_word_dash_10: deliver-denial-rib-rose-melt-suspect-vague-ridge-purchase-machine
+bip_39_word_dash_11: deliver-denial-rib-rose-melt-suspect-vague-ridge-purchase-machine-empty
+bip_39_word_dash_12: deliver-denial-rib-rose-melt-suspect-vague-ridge-purchase-machine-empty-absorb
+bip_39_word_dash_2: deliver-denial
+bip_39_word_dash_3: deliver-denial-rib
+bip_39_word_dash_4: deliver-denial-rib-rose
+bip_39_word_dash_5: deliver-denial-rib-rose-melt
+bip_39_word_dash_6: deliver-denial-rib-rose-melt-suspect
+bip_39_word_dash_7: deliver-denial-rib-rose-melt-suspect-vague
+bip_39_word_dash_8: deliver-denial-rib-rose-melt-suspect-vague-ridge
+bip_39_word_dash_9: deliver-denial-rib-rose-melt-suspect-vague-ridge-purchase
 bip_39_word_new_br_1: deliver
 bip_39_word_new_br_10: deliver<br>denial<br>rib<br>rose<br>melt<br>suspect<br>vague<br>ridge<br>purchase<br>machine
 bip_39_word_new_br_11: deliver<br>denial<br>rib<br>rose<br>melt<br>suspect<br>vague<br>ridge<br>purchase<br>machine<br>empty
@@ -193,6 +205,18 @@ bip_39_word_space_6: deliver denial rib rose melt suspect
 bip_39_word_space_7: deliver denial rib rose melt suspect vague
 bip_39_word_space_8: deliver denial rib rose melt suspect vague ridge
 bip_39_word_space_9: deliver denial rib rose melt suspect vague ridge purchase
+bip_39_word_underscore_1: deliver
+bip_39_word_underscore_10: deliver_denial_rib_rose_melt_suspect_vague_ridge_purchase_machine
+bip_39_word_underscore_11: deliver_denial_rib_rose_melt_suspect_vague_ridge_purchase_machine_empty
+bip_39_word_underscore_12: deliver_denial_rib_rose_melt_suspect_vague_ridge_purchase_machine_empty_absorb
+bip_39_word_underscore_2: deliver_denial
+bip_39_word_underscore_3: deliver_denial_rib
+bip_39_word_underscore_4: deliver_denial_rib_rose
+bip_39_word_underscore_5: deliver_denial_rib_rose_melt
+bip_39_word_underscore_6: deliver_denial_rib_rose_melt_suspect
+bip_39_word_underscore_7: deliver_denial_rib_rose_melt_suspect_vague
+bip_39_word_underscore_8: deliver_denial_rib_rose_melt_suspect_vague_ridge
+bip_39_word_underscore_9: deliver_denial_rib_rose_melt_suspect_vague_ridge_purchase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

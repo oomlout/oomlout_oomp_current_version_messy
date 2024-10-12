@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ring |  
+| bip_39_word_dash_10 | ring-outdoor-swallow-wide-client-slice-spread-wave-vibrant-wood |  
+| bip_39_word_dash_11 | ring-outdoor-swallow-wide-client-slice-spread-wave-vibrant-wood-angle |  
+| bip_39_word_dash_12 | ring-outdoor-swallow-wide-client-slice-spread-wave-vibrant-wood-angle-agent |  
+| bip_39_word_dash_2 | ring-outdoor |  
+| bip_39_word_dash_3 | ring-outdoor-swallow |  
+| bip_39_word_dash_4 | ring-outdoor-swallow-wide |  
+| bip_39_word_dash_5 | ring-outdoor-swallow-wide-client |  
+| bip_39_word_dash_6 | ring-outdoor-swallow-wide-client-slice |  
+| bip_39_word_dash_7 | ring-outdoor-swallow-wide-client-slice-spread |  
+| bip_39_word_dash_8 | ring-outdoor-swallow-wide-client-slice-spread-wave |  
+| bip_39_word_dash_9 | ring-outdoor-swallow-wide-client-slice-spread-wave-vibrant |  
 | bip_39_word_new_br_1 | ring |  
 | bip_39_word_new_br_10 | ring<br>outdoor<br>swallow<br>wide<br>client<br>slice<br>spread<br>wave<br>vibrant<br>wood |  
 | bip_39_word_new_br_11 | ring<br>outdoor<br>swallow<br>wide<br>client<br>slice<br>spread<br>wave<br>vibrant<br>wood<br>angle |  
@@ -147,6 +159,18 @@ vibrant |
 | bip_39_word_space_7 | ring outdoor swallow wide client slice spread |  
 | bip_39_word_space_8 | ring outdoor swallow wide client slice spread wave |  
 | bip_39_word_space_9 | ring outdoor swallow wide client slice spread wave vibrant |  
+| bip_39_word_underscore_1 | ring |  
+| bip_39_word_underscore_10 | ring_outdoor_swallow_wide_client_slice_spread_wave_vibrant_wood |  
+| bip_39_word_underscore_11 | ring_outdoor_swallow_wide_client_slice_spread_wave_vibrant_wood_angle |  
+| bip_39_word_underscore_12 | ring_outdoor_swallow_wide_client_slice_spread_wave_vibrant_wood_angle_agent |  
+| bip_39_word_underscore_2 | ring_outdoor |  
+| bip_39_word_underscore_3 | ring_outdoor_swallow |  
+| bip_39_word_underscore_4 | ring_outdoor_swallow_wide |  
+| bip_39_word_underscore_5 | ring_outdoor_swallow_wide_client |  
+| bip_39_word_underscore_6 | ring_outdoor_swallow_wide_client_slice |  
+| bip_39_word_underscore_7 | ring_outdoor_swallow_wide_client_slice_spread |  
+| bip_39_word_underscore_8 | ring_outdoor_swallow_wide_client_slice_spread_wave |  
+| bip_39_word_underscore_9 | ring_outdoor_swallow_wide_client_slice_spread_wave_vibrant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

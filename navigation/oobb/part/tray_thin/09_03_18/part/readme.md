@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enable |  
+| bip_39_word_dash_10 | enable-warrior-confirm-law-tool-ceiling-spread-chief-reflect-cement |  
+| bip_39_word_dash_11 | enable-warrior-confirm-law-tool-ceiling-spread-chief-reflect-cement-notable |  
+| bip_39_word_dash_12 | enable-warrior-confirm-law-tool-ceiling-spread-chief-reflect-cement-notable-addict |  
+| bip_39_word_dash_2 | enable-warrior |  
+| bip_39_word_dash_3 | enable-warrior-confirm |  
+| bip_39_word_dash_4 | enable-warrior-confirm-law |  
+| bip_39_word_dash_5 | enable-warrior-confirm-law-tool |  
+| bip_39_word_dash_6 | enable-warrior-confirm-law-tool-ceiling |  
+| bip_39_word_dash_7 | enable-warrior-confirm-law-tool-ceiling-spread |  
+| bip_39_word_dash_8 | enable-warrior-confirm-law-tool-ceiling-spread-chief |  
+| bip_39_word_dash_9 | enable-warrior-confirm-law-tool-ceiling-spread-chief-reflect |  
 | bip_39_word_new_br_1 | enable |  
 | bip_39_word_new_br_10 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief<br>reflect<br>cement |  
 | bip_39_word_new_br_11 | enable<br>warrior<br>confirm<br>law<br>tool<br>ceiling<br>spread<br>chief<br>reflect<br>cement<br>notable |  
@@ -147,6 +159,18 @@ reflect |
 | bip_39_word_space_7 | enable warrior confirm law tool ceiling spread |  
 | bip_39_word_space_8 | enable warrior confirm law tool ceiling spread chief |  
 | bip_39_word_space_9 | enable warrior confirm law tool ceiling spread chief reflect |  
+| bip_39_word_underscore_1 | enable |  
+| bip_39_word_underscore_10 | enable_warrior_confirm_law_tool_ceiling_spread_chief_reflect_cement |  
+| bip_39_word_underscore_11 | enable_warrior_confirm_law_tool_ceiling_spread_chief_reflect_cement_notable |  
+| bip_39_word_underscore_12 | enable_warrior_confirm_law_tool_ceiling_spread_chief_reflect_cement_notable_addict |  
+| bip_39_word_underscore_2 | enable_warrior |  
+| bip_39_word_underscore_3 | enable_warrior_confirm |  
+| bip_39_word_underscore_4 | enable_warrior_confirm_law |  
+| bip_39_word_underscore_5 | enable_warrior_confirm_law_tool |  
+| bip_39_word_underscore_6 | enable_warrior_confirm_law_tool_ceiling |  
+| bip_39_word_underscore_7 | enable_warrior_confirm_law_tool_ceiling_spread |  
+| bip_39_word_underscore_8 | enable_warrior_confirm_law_tool_ceiling_spread_chief |  
+| bip_39_word_underscore_9 | enable_warrior_confirm_law_tool_ceiling_spread_chief_reflect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

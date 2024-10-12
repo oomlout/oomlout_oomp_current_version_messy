@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glass |  
+| bip_39_word_dash_10 | glass-odor-skate-govern-boring-comfort-reflect-design-boat-creek |  
+| bip_39_word_dash_11 | glass-odor-skate-govern-boring-comfort-reflect-design-boat-creek-shift |  
+| bip_39_word_dash_12 | glass-odor-skate-govern-boring-comfort-reflect-design-boat-creek-shift-again |  
+| bip_39_word_dash_2 | glass-odor |  
+| bip_39_word_dash_3 | glass-odor-skate |  
+| bip_39_word_dash_4 | glass-odor-skate-govern |  
+| bip_39_word_dash_5 | glass-odor-skate-govern-boring |  
+| bip_39_word_dash_6 | glass-odor-skate-govern-boring-comfort |  
+| bip_39_word_dash_7 | glass-odor-skate-govern-boring-comfort-reflect |  
+| bip_39_word_dash_8 | glass-odor-skate-govern-boring-comfort-reflect-design |  
+| bip_39_word_dash_9 | glass-odor-skate-govern-boring-comfort-reflect-design-boat |  
 | bip_39_word_new_br_1 | glass |  
 | bip_39_word_new_br_10 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design<br>boat<br>creek |  
 | bip_39_word_new_br_11 | glass<br>odor<br>skate<br>govern<br>boring<br>comfort<br>reflect<br>design<br>boat<br>creek<br>shift |  
@@ -147,6 +159,18 @@ boat |
 | bip_39_word_space_7 | glass odor skate govern boring comfort reflect |  
 | bip_39_word_space_8 | glass odor skate govern boring comfort reflect design |  
 | bip_39_word_space_9 | glass odor skate govern boring comfort reflect design boat |  
+| bip_39_word_underscore_1 | glass |  
+| bip_39_word_underscore_10 | glass_odor_skate_govern_boring_comfort_reflect_design_boat_creek |  
+| bip_39_word_underscore_11 | glass_odor_skate_govern_boring_comfort_reflect_design_boat_creek_shift |  
+| bip_39_word_underscore_12 | glass_odor_skate_govern_boring_comfort_reflect_design_boat_creek_shift_again |  
+| bip_39_word_underscore_2 | glass_odor |  
+| bip_39_word_underscore_3 | glass_odor_skate |  
+| bip_39_word_underscore_4 | glass_odor_skate_govern |  
+| bip_39_word_underscore_5 | glass_odor_skate_govern_boring |  
+| bip_39_word_underscore_6 | glass_odor_skate_govern_boring_comfort |  
+| bip_39_word_underscore_7 | glass_odor_skate_govern_boring_comfort_reflect |  
+| bip_39_word_underscore_8 | glass_odor_skate_govern_boring_comfort_reflect_design |  
+| bip_39_word_underscore_9 | glass_odor_skate_govern_boring_comfort_reflect_design_boat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

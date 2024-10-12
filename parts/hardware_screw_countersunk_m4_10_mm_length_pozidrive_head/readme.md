@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | zone |  
+| bip_39_word_dash_10 | zone-silly-situate-myth-brain-empty-fortune-toe-remind-glance |  
+| bip_39_word_dash_11 | zone-silly-situate-myth-brain-empty-fortune-toe-remind-glance-crouch |  
+| bip_39_word_dash_12 | zone-silly-situate-myth-brain-empty-fortune-toe-remind-glance-crouch-absurd |  
+| bip_39_word_dash_2 | zone-silly |  
+| bip_39_word_dash_3 | zone-silly-situate |  
+| bip_39_word_dash_4 | zone-silly-situate-myth |  
+| bip_39_word_dash_5 | zone-silly-situate-myth-brain |  
+| bip_39_word_dash_6 | zone-silly-situate-myth-brain-empty |  
+| bip_39_word_dash_7 | zone-silly-situate-myth-brain-empty-fortune |  
+| bip_39_word_dash_8 | zone-silly-situate-myth-brain-empty-fortune-toe |  
+| bip_39_word_dash_9 | zone-silly-situate-myth-brain-empty-fortune-toe-remind |  
 | bip_39_word_new_br_1 | zone |  
 | bip_39_word_new_br_10 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance |  
 | bip_39_word_new_br_11 | zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance<br>crouch |  
@@ -147,6 +159,18 @@ remind |
 | bip_39_word_space_7 | zone silly situate myth brain empty fortune |  
 | bip_39_word_space_8 | zone silly situate myth brain empty fortune toe |  
 | bip_39_word_space_9 | zone silly situate myth brain empty fortune toe remind |  
+| bip_39_word_underscore_1 | zone |  
+| bip_39_word_underscore_10 | zone_silly_situate_myth_brain_empty_fortune_toe_remind_glance |  
+| bip_39_word_underscore_11 | zone_silly_situate_myth_brain_empty_fortune_toe_remind_glance_crouch |  
+| bip_39_word_underscore_12 | zone_silly_situate_myth_brain_empty_fortune_toe_remind_glance_crouch_absurd |  
+| bip_39_word_underscore_2 | zone_silly |  
+| bip_39_word_underscore_3 | zone_silly_situate |  
+| bip_39_word_underscore_4 | zone_silly_situate_myth |  
+| bip_39_word_underscore_5 | zone_silly_situate_myth_brain |  
+| bip_39_word_underscore_6 | zone_silly_situate_myth_brain_empty |  
+| bip_39_word_underscore_7 | zone_silly_situate_myth_brain_empty_fortune |  
+| bip_39_word_underscore_8 | zone_silly_situate_myth_brain_empty_fortune_toe |  
+| bip_39_word_underscore_9 | zone_silly_situate_myth_brain_empty_fortune_toe_remind |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

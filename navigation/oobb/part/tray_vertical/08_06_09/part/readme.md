@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | melody |  
+| bip_39_word_dash_10 | melody-valley-illness-spare-source-bottom-lobster-pond-bounce-still |  
+| bip_39_word_dash_11 | melody-valley-illness-spare-source-bottom-lobster-pond-bounce-still-still |  
+| bip_39_word_dash_12 | melody-valley-illness-spare-source-bottom-lobster-pond-bounce-still-still-access |  
+| bip_39_word_dash_2 | melody-valley |  
+| bip_39_word_dash_3 | melody-valley-illness |  
+| bip_39_word_dash_4 | melody-valley-illness-spare |  
+| bip_39_word_dash_5 | melody-valley-illness-spare-source |  
+| bip_39_word_dash_6 | melody-valley-illness-spare-source-bottom |  
+| bip_39_word_dash_7 | melody-valley-illness-spare-source-bottom-lobster |  
+| bip_39_word_dash_8 | melody-valley-illness-spare-source-bottom-lobster-pond |  
+| bip_39_word_dash_9 | melody-valley-illness-spare-source-bottom-lobster-pond-bounce |  
 | bip_39_word_new_br_1 | melody |  
 | bip_39_word_new_br_10 | melody<br>valley<br>illness<br>spare<br>source<br>bottom<br>lobster<br>pond<br>bounce<br>still |  
 | bip_39_word_new_br_11 | melody<br>valley<br>illness<br>spare<br>source<br>bottom<br>lobster<br>pond<br>bounce<br>still<br>still |  
@@ -147,6 +159,18 @@ bounce |
 | bip_39_word_space_7 | melody valley illness spare source bottom lobster |  
 | bip_39_word_space_8 | melody valley illness spare source bottom lobster pond |  
 | bip_39_word_space_9 | melody valley illness spare source bottom lobster pond bounce |  
+| bip_39_word_underscore_1 | melody |  
+| bip_39_word_underscore_10 | melody_valley_illness_spare_source_bottom_lobster_pond_bounce_still |  
+| bip_39_word_underscore_11 | melody_valley_illness_spare_source_bottom_lobster_pond_bounce_still_still |  
+| bip_39_word_underscore_12 | melody_valley_illness_spare_source_bottom_lobster_pond_bounce_still_still_access |  
+| bip_39_word_underscore_2 | melody_valley |  
+| bip_39_word_underscore_3 | melody_valley_illness |  
+| bip_39_word_underscore_4 | melody_valley_illness_spare |  
+| bip_39_word_underscore_5 | melody_valley_illness_spare_source |  
+| bip_39_word_underscore_6 | melody_valley_illness_spare_source_bottom |  
+| bip_39_word_underscore_7 | melody_valley_illness_spare_source_bottom_lobster |  
+| bip_39_word_underscore_8 | melody_valley_illness_spare_source_bottom_lobster_pond |  
+| bip_39_word_underscore_9 | melody_valley_illness_spare_source_bottom_lobster_pond_bounce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

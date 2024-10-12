@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | proof |  
+| bip_39_word_dash_10 | proof-grief-bachelor-topic-quantum-squirrel-legal-essence-oppose-whisper |  
+| bip_39_word_dash_11 | proof-grief-bachelor-topic-quantum-squirrel-legal-essence-oppose-whisper-ladder |  
+| bip_39_word_dash_12 | proof-grief-bachelor-topic-quantum-squirrel-legal-essence-oppose-whisper-ladder-artwork |  
+| bip_39_word_dash_2 | proof-grief |  
+| bip_39_word_dash_3 | proof-grief-bachelor |  
+| bip_39_word_dash_4 | proof-grief-bachelor-topic |  
+| bip_39_word_dash_5 | proof-grief-bachelor-topic-quantum |  
+| bip_39_word_dash_6 | proof-grief-bachelor-topic-quantum-squirrel |  
+| bip_39_word_dash_7 | proof-grief-bachelor-topic-quantum-squirrel-legal |  
+| bip_39_word_dash_8 | proof-grief-bachelor-topic-quantum-squirrel-legal-essence |  
+| bip_39_word_dash_9 | proof-grief-bachelor-topic-quantum-squirrel-legal-essence-oppose |  
 | bip_39_word_new_br_1 | proof |  
 | bip_39_word_new_br_10 | proof<br>grief<br>bachelor<br>topic<br>quantum<br>squirrel<br>legal<br>essence<br>oppose<br>whisper |  
 | bip_39_word_new_br_11 | proof<br>grief<br>bachelor<br>topic<br>quantum<br>squirrel<br>legal<br>essence<br>oppose<br>whisper<br>ladder |  
@@ -147,6 +159,18 @@ oppose |
 | bip_39_word_space_7 | proof grief bachelor topic quantum squirrel legal |  
 | bip_39_word_space_8 | proof grief bachelor topic quantum squirrel legal essence |  
 | bip_39_word_space_9 | proof grief bachelor topic quantum squirrel legal essence oppose |  
+| bip_39_word_underscore_1 | proof |  
+| bip_39_word_underscore_10 | proof_grief_bachelor_topic_quantum_squirrel_legal_essence_oppose_whisper |  
+| bip_39_word_underscore_11 | proof_grief_bachelor_topic_quantum_squirrel_legal_essence_oppose_whisper_ladder |  
+| bip_39_word_underscore_12 | proof_grief_bachelor_topic_quantum_squirrel_legal_essence_oppose_whisper_ladder_artwork |  
+| bip_39_word_underscore_2 | proof_grief |  
+| bip_39_word_underscore_3 | proof_grief_bachelor |  
+| bip_39_word_underscore_4 | proof_grief_bachelor_topic |  
+| bip_39_word_underscore_5 | proof_grief_bachelor_topic_quantum |  
+| bip_39_word_underscore_6 | proof_grief_bachelor_topic_quantum_squirrel |  
+| bip_39_word_underscore_7 | proof_grief_bachelor_topic_quantum_squirrel_legal |  
+| bip_39_word_underscore_8 | proof_grief_bachelor_topic_quantum_squirrel_legal_essence |  
+| bip_39_word_underscore_9 | proof_grief_bachelor_topic_quantum_squirrel_legal_essence_oppose |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chief |  
+| bip_39_word_dash_10 | chief-donkey-arrow-industry-humble-ticket-script-winner-wear-bulb |  
+| bip_39_word_dash_11 | chief-donkey-arrow-industry-humble-ticket-script-winner-wear-bulb-draw |  
+| bip_39_word_dash_12 | chief-donkey-arrow-industry-humble-ticket-script-winner-wear-bulb-draw-also |  
+| bip_39_word_dash_2 | chief-donkey |  
+| bip_39_word_dash_3 | chief-donkey-arrow |  
+| bip_39_word_dash_4 | chief-donkey-arrow-industry |  
+| bip_39_word_dash_5 | chief-donkey-arrow-industry-humble |  
+| bip_39_word_dash_6 | chief-donkey-arrow-industry-humble-ticket |  
+| bip_39_word_dash_7 | chief-donkey-arrow-industry-humble-ticket-script |  
+| bip_39_word_dash_8 | chief-donkey-arrow-industry-humble-ticket-script-winner |  
+| bip_39_word_dash_9 | chief-donkey-arrow-industry-humble-ticket-script-winner-wear |  
 | bip_39_word_new_br_1 | chief |  
 | bip_39_word_new_br_10 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb |  
 | bip_39_word_new_br_11 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb<br>draw |  
@@ -147,6 +159,18 @@ wear |
 | bip_39_word_space_7 | chief donkey arrow industry humble ticket script |  
 | bip_39_word_space_8 | chief donkey arrow industry humble ticket script winner |  
 | bip_39_word_space_9 | chief donkey arrow industry humble ticket script winner wear |  
+| bip_39_word_underscore_1 | chief |  
+| bip_39_word_underscore_10 | chief_donkey_arrow_industry_humble_ticket_script_winner_wear_bulb |  
+| bip_39_word_underscore_11 | chief_donkey_arrow_industry_humble_ticket_script_winner_wear_bulb_draw |  
+| bip_39_word_underscore_12 | chief_donkey_arrow_industry_humble_ticket_script_winner_wear_bulb_draw_also |  
+| bip_39_word_underscore_2 | chief_donkey |  
+| bip_39_word_underscore_3 | chief_donkey_arrow |  
+| bip_39_word_underscore_4 | chief_donkey_arrow_industry |  
+| bip_39_word_underscore_5 | chief_donkey_arrow_industry_humble |  
+| bip_39_word_underscore_6 | chief_donkey_arrow_industry_humble_ticket |  
+| bip_39_word_underscore_7 | chief_donkey_arrow_industry_humble_ticket_script |  
+| bip_39_word_underscore_8 | chief_donkey_arrow_industry_humble_ticket_script_winner |  
+| bip_39_word_underscore_9 | chief_donkey_arrow_industry_humble_ticket_script_winner_wear |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

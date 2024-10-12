@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tennis |  
+| bip_39_word_dash_10 | tennis-put-chair-master-settle-image-cricket-cross-misery-sample |  
+| bip_39_word_dash_11 | tennis-put-chair-master-settle-image-cricket-cross-misery-sample-army |  
+| bip_39_word_dash_12 | tennis-put-chair-master-settle-image-cricket-cross-misery-sample-army-attract |  
+| bip_39_word_dash_2 | tennis-put |  
+| bip_39_word_dash_3 | tennis-put-chair |  
+| bip_39_word_dash_4 | tennis-put-chair-master |  
+| bip_39_word_dash_5 | tennis-put-chair-master-settle |  
+| bip_39_word_dash_6 | tennis-put-chair-master-settle-image |  
+| bip_39_word_dash_7 | tennis-put-chair-master-settle-image-cricket |  
+| bip_39_word_dash_8 | tennis-put-chair-master-settle-image-cricket-cross |  
+| bip_39_word_dash_9 | tennis-put-chair-master-settle-image-cricket-cross-misery |  
 | bip_39_word_new_br_1 | tennis |  
 | bip_39_word_new_br_10 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross<br>misery<br>sample |  
 | bip_39_word_new_br_11 | tennis<br>put<br>chair<br>master<br>settle<br>image<br>cricket<br>cross<br>misery<br>sample<br>army |  
@@ -147,6 +159,18 @@ misery |
 | bip_39_word_space_7 | tennis put chair master settle image cricket |  
 | bip_39_word_space_8 | tennis put chair master settle image cricket cross |  
 | bip_39_word_space_9 | tennis put chair master settle image cricket cross misery |  
+| bip_39_word_underscore_1 | tennis |  
+| bip_39_word_underscore_10 | tennis_put_chair_master_settle_image_cricket_cross_misery_sample |  
+| bip_39_word_underscore_11 | tennis_put_chair_master_settle_image_cricket_cross_misery_sample_army |  
+| bip_39_word_underscore_12 | tennis_put_chair_master_settle_image_cricket_cross_misery_sample_army_attract |  
+| bip_39_word_underscore_2 | tennis_put |  
+| bip_39_word_underscore_3 | tennis_put_chair |  
+| bip_39_word_underscore_4 | tennis_put_chair_master |  
+| bip_39_word_underscore_5 | tennis_put_chair_master_settle |  
+| bip_39_word_underscore_6 | tennis_put_chair_master_settle_image |  
+| bip_39_word_underscore_7 | tennis_put_chair_master_settle_image_cricket |  
+| bip_39_word_underscore_8 | tennis_put_chair_master_settle_image_cricket_cross |  
+| bip_39_word_underscore_9 | tennis_put_chair_master_settle_image_cricket_cross_misery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

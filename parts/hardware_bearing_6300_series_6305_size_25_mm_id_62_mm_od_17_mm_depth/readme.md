@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decorate |  
+| bip_39_word_dash_10 | decorate-tourist-visual-sleep-into-patch-theme-huge-helmet-swim |  
+| bip_39_word_dash_11 | decorate-tourist-visual-sleep-into-patch-theme-huge-helmet-swim-unaware |  
+| bip_39_word_dash_12 | decorate-tourist-visual-sleep-into-patch-theme-huge-helmet-swim-unaware-artwork |  
+| bip_39_word_dash_2 | decorate-tourist |  
+| bip_39_word_dash_3 | decorate-tourist-visual |  
+| bip_39_word_dash_4 | decorate-tourist-visual-sleep |  
+| bip_39_word_dash_5 | decorate-tourist-visual-sleep-into |  
+| bip_39_word_dash_6 | decorate-tourist-visual-sleep-into-patch |  
+| bip_39_word_dash_7 | decorate-tourist-visual-sleep-into-patch-theme |  
+| bip_39_word_dash_8 | decorate-tourist-visual-sleep-into-patch-theme-huge |  
+| bip_39_word_dash_9 | decorate-tourist-visual-sleep-into-patch-theme-huge-helmet |  
 | bip_39_word_new_br_1 | decorate |  
 | bip_39_word_new_br_10 | decorate<br>tourist<br>visual<br>sleep<br>into<br>patch<br>theme<br>huge<br>helmet<br>swim |  
 | bip_39_word_new_br_11 | decorate<br>tourist<br>visual<br>sleep<br>into<br>patch<br>theme<br>huge<br>helmet<br>swim<br>unaware |  
@@ -147,6 +159,18 @@ helmet |
 | bip_39_word_space_7 | decorate tourist visual sleep into patch theme |  
 | bip_39_word_space_8 | decorate tourist visual sleep into patch theme huge |  
 | bip_39_word_space_9 | decorate tourist visual sleep into patch theme huge helmet |  
+| bip_39_word_underscore_1 | decorate |  
+| bip_39_word_underscore_10 | decorate_tourist_visual_sleep_into_patch_theme_huge_helmet_swim |  
+| bip_39_word_underscore_11 | decorate_tourist_visual_sleep_into_patch_theme_huge_helmet_swim_unaware |  
+| bip_39_word_underscore_12 | decorate_tourist_visual_sleep_into_patch_theme_huge_helmet_swim_unaware_artwork |  
+| bip_39_word_underscore_2 | decorate_tourist |  
+| bip_39_word_underscore_3 | decorate_tourist_visual |  
+| bip_39_word_underscore_4 | decorate_tourist_visual_sleep |  
+| bip_39_word_underscore_5 | decorate_tourist_visual_sleep_into |  
+| bip_39_word_underscore_6 | decorate_tourist_visual_sleep_into_patch |  
+| bip_39_word_underscore_7 | decorate_tourist_visual_sleep_into_patch_theme |  
+| bip_39_word_underscore_8 | decorate_tourist_visual_sleep_into_patch_theme_huge |  
+| bip_39_word_underscore_9 | decorate_tourist_visual_sleep_into_patch_theme_huge_helmet |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

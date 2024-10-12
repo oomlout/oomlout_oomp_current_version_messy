@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scale
+bip_39_word_dash_10: scale-drink-creek-input-margin-embark-swear-asset-observe-crane
+bip_39_word_dash_11: scale-drink-creek-input-margin-embark-swear-asset-observe-crane-oblige
+bip_39_word_dash_12: scale-drink-creek-input-margin-embark-swear-asset-observe-crane-oblige-around
+bip_39_word_dash_2: scale-drink
+bip_39_word_dash_3: scale-drink-creek
+bip_39_word_dash_4: scale-drink-creek-input
+bip_39_word_dash_5: scale-drink-creek-input-margin
+bip_39_word_dash_6: scale-drink-creek-input-margin-embark
+bip_39_word_dash_7: scale-drink-creek-input-margin-embark-swear
+bip_39_word_dash_8: scale-drink-creek-input-margin-embark-swear-asset
+bip_39_word_dash_9: scale-drink-creek-input-margin-embark-swear-asset-observe
 bip_39_word_new_br_1: scale
 bip_39_word_new_br_10: scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset<br>observe<br>crane
 bip_39_word_new_br_11: scale<br>drink<br>creek<br>input<br>margin<br>embark<br>swear<br>asset<br>observe<br>crane<br>oblige
@@ -193,6 +205,18 @@ bip_39_word_space_6: scale drink creek input margin embark
 bip_39_word_space_7: scale drink creek input margin embark swear
 bip_39_word_space_8: scale drink creek input margin embark swear asset
 bip_39_word_space_9: scale drink creek input margin embark swear asset observe
+bip_39_word_underscore_1: scale
+bip_39_word_underscore_10: scale_drink_creek_input_margin_embark_swear_asset_observe_crane
+bip_39_word_underscore_11: scale_drink_creek_input_margin_embark_swear_asset_observe_crane_oblige
+bip_39_word_underscore_12: scale_drink_creek_input_margin_embark_swear_asset_observe_crane_oblige_around
+bip_39_word_underscore_2: scale_drink
+bip_39_word_underscore_3: scale_drink_creek
+bip_39_word_underscore_4: scale_drink_creek_input
+bip_39_word_underscore_5: scale_drink_creek_input_margin
+bip_39_word_underscore_6: scale_drink_creek_input_margin_embark
+bip_39_word_underscore_7: scale_drink_creek_input_margin_embark_swear
+bip_39_word_underscore_8: scale_drink_creek_input_margin_embark_swear_asset
+bip_39_word_underscore_9: scale_drink_creek_input_margin_embark_swear_asset_observe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

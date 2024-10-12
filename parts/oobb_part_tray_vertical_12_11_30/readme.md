@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slim |  
+| bip_39_word_dash_10 | slim-reduce-rice-diagram-sphere-minute-chunk-dose-dog-another |  
+| bip_39_word_dash_11 | slim-reduce-rice-diagram-sphere-minute-chunk-dose-dog-another-heart |  
+| bip_39_word_dash_12 | slim-reduce-rice-diagram-sphere-minute-chunk-dose-dog-another-heart-able |  
+| bip_39_word_dash_2 | slim-reduce |  
+| bip_39_word_dash_3 | slim-reduce-rice |  
+| bip_39_word_dash_4 | slim-reduce-rice-diagram |  
+| bip_39_word_dash_5 | slim-reduce-rice-diagram-sphere |  
+| bip_39_word_dash_6 | slim-reduce-rice-diagram-sphere-minute |  
+| bip_39_word_dash_7 | slim-reduce-rice-diagram-sphere-minute-chunk |  
+| bip_39_word_dash_8 | slim-reduce-rice-diagram-sphere-minute-chunk-dose |  
+| bip_39_word_dash_9 | slim-reduce-rice-diagram-sphere-minute-chunk-dose-dog |  
 | bip_39_word_new_br_1 | slim |  
 | bip_39_word_new_br_10 | slim<br>reduce<br>rice<br>diagram<br>sphere<br>minute<br>chunk<br>dose<br>dog<br>another |  
 | bip_39_word_new_br_11 | slim<br>reduce<br>rice<br>diagram<br>sphere<br>minute<br>chunk<br>dose<br>dog<br>another<br>heart |  
@@ -147,6 +159,18 @@ dog |
 | bip_39_word_space_7 | slim reduce rice diagram sphere minute chunk |  
 | bip_39_word_space_8 | slim reduce rice diagram sphere minute chunk dose |  
 | bip_39_word_space_9 | slim reduce rice diagram sphere minute chunk dose dog |  
+| bip_39_word_underscore_1 | slim |  
+| bip_39_word_underscore_10 | slim_reduce_rice_diagram_sphere_minute_chunk_dose_dog_another |  
+| bip_39_word_underscore_11 | slim_reduce_rice_diagram_sphere_minute_chunk_dose_dog_another_heart |  
+| bip_39_word_underscore_12 | slim_reduce_rice_diagram_sphere_minute_chunk_dose_dog_another_heart_able |  
+| bip_39_word_underscore_2 | slim_reduce |  
+| bip_39_word_underscore_3 | slim_reduce_rice |  
+| bip_39_word_underscore_4 | slim_reduce_rice_diagram |  
+| bip_39_word_underscore_5 | slim_reduce_rice_diagram_sphere |  
+| bip_39_word_underscore_6 | slim_reduce_rice_diagram_sphere_minute |  
+| bip_39_word_underscore_7 | slim_reduce_rice_diagram_sphere_minute_chunk |  
+| bip_39_word_underscore_8 | slim_reduce_rice_diagram_sphere_minute_chunk_dose |  
+| bip_39_word_underscore_9 | slim_reduce_rice_diagram_sphere_minute_chunk_dose_dog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

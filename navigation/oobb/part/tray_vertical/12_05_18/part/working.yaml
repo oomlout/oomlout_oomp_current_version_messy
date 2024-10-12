@@ -1,3 +1,15 @@
+bip_39_word_dash_1: volcano
+bip_39_word_dash_10: volcano-mansion-chicken-ancient-ostrich-cliff-skill-wall-turn-piano
+bip_39_word_dash_11: volcano-mansion-chicken-ancient-ostrich-cliff-skill-wall-turn-piano-opinion
+bip_39_word_dash_12: volcano-mansion-chicken-ancient-ostrich-cliff-skill-wall-turn-piano-opinion-all
+bip_39_word_dash_2: volcano-mansion
+bip_39_word_dash_3: volcano-mansion-chicken
+bip_39_word_dash_4: volcano-mansion-chicken-ancient
+bip_39_word_dash_5: volcano-mansion-chicken-ancient-ostrich
+bip_39_word_dash_6: volcano-mansion-chicken-ancient-ostrich-cliff
+bip_39_word_dash_7: volcano-mansion-chicken-ancient-ostrich-cliff-skill
+bip_39_word_dash_8: volcano-mansion-chicken-ancient-ostrich-cliff-skill-wall
+bip_39_word_dash_9: volcano-mansion-chicken-ancient-ostrich-cliff-skill-wall-turn
 bip_39_word_new_br_1: volcano
 bip_39_word_new_br_10: volcano<br>mansion<br>chicken<br>ancient<br>ostrich<br>cliff<br>skill<br>wall<br>turn<br>piano
 bip_39_word_new_br_11: volcano<br>mansion<br>chicken<br>ancient<br>ostrich<br>cliff<br>skill<br>wall<br>turn<br>piano<br>opinion
@@ -194,6 +206,18 @@ bip_39_word_space_6: volcano mansion chicken ancient ostrich cliff
 bip_39_word_space_7: volcano mansion chicken ancient ostrich cliff skill
 bip_39_word_space_8: volcano mansion chicken ancient ostrich cliff skill wall
 bip_39_word_space_9: volcano mansion chicken ancient ostrich cliff skill wall turn
+bip_39_word_underscore_1: volcano
+bip_39_word_underscore_10: volcano_mansion_chicken_ancient_ostrich_cliff_skill_wall_turn_piano
+bip_39_word_underscore_11: volcano_mansion_chicken_ancient_ostrich_cliff_skill_wall_turn_piano_opinion
+bip_39_word_underscore_12: volcano_mansion_chicken_ancient_ostrich_cliff_skill_wall_turn_piano_opinion_all
+bip_39_word_underscore_2: volcano_mansion
+bip_39_word_underscore_3: volcano_mansion_chicken
+bip_39_word_underscore_4: volcano_mansion_chicken_ancient
+bip_39_word_underscore_5: volcano_mansion_chicken_ancient_ostrich
+bip_39_word_underscore_6: volcano_mansion_chicken_ancient_ostrich_cliff
+bip_39_word_underscore_7: volcano_mansion_chicken_ancient_ostrich_cliff_skill
+bip_39_word_underscore_8: volcano_mansion_chicken_ancient_ostrich_cliff_skill_wall
+bip_39_word_underscore_9: volcano_mansion_chicken_ancient_ostrich_cliff_skill_wall_turn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

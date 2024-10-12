@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lens |  
+| bip_39_word_dash_10 | lens-tone-denial-army-retreat-bar-captain-ugly-plate-vacuum |  
+| bip_39_word_dash_11 | lens-tone-denial-army-retreat-bar-captain-ugly-plate-vacuum-corn |  
+| bip_39_word_dash_12 | lens-tone-denial-army-retreat-bar-captain-ugly-plate-vacuum-corn-audit |  
+| bip_39_word_dash_2 | lens-tone |  
+| bip_39_word_dash_3 | lens-tone-denial |  
+| bip_39_word_dash_4 | lens-tone-denial-army |  
+| bip_39_word_dash_5 | lens-tone-denial-army-retreat |  
+| bip_39_word_dash_6 | lens-tone-denial-army-retreat-bar |  
+| bip_39_word_dash_7 | lens-tone-denial-army-retreat-bar-captain |  
+| bip_39_word_dash_8 | lens-tone-denial-army-retreat-bar-captain-ugly |  
+| bip_39_word_dash_9 | lens-tone-denial-army-retreat-bar-captain-ugly-plate |  
 | bip_39_word_new_br_1 | lens |  
 | bip_39_word_new_br_10 | lens<br>tone<br>denial<br>army<br>retreat<br>bar<br>captain<br>ugly<br>plate<br>vacuum |  
 | bip_39_word_new_br_11 | lens<br>tone<br>denial<br>army<br>retreat<br>bar<br>captain<br>ugly<br>plate<br>vacuum<br>corn |  
@@ -147,6 +159,18 @@ plate |
 | bip_39_word_space_7 | lens tone denial army retreat bar captain |  
 | bip_39_word_space_8 | lens tone denial army retreat bar captain ugly |  
 | bip_39_word_space_9 | lens tone denial army retreat bar captain ugly plate |  
+| bip_39_word_underscore_1 | lens |  
+| bip_39_word_underscore_10 | lens_tone_denial_army_retreat_bar_captain_ugly_plate_vacuum |  
+| bip_39_word_underscore_11 | lens_tone_denial_army_retreat_bar_captain_ugly_plate_vacuum_corn |  
+| bip_39_word_underscore_12 | lens_tone_denial_army_retreat_bar_captain_ugly_plate_vacuum_corn_audit |  
+| bip_39_word_underscore_2 | lens_tone |  
+| bip_39_word_underscore_3 | lens_tone_denial |  
+| bip_39_word_underscore_4 | lens_tone_denial_army |  
+| bip_39_word_underscore_5 | lens_tone_denial_army_retreat |  
+| bip_39_word_underscore_6 | lens_tone_denial_army_retreat_bar |  
+| bip_39_word_underscore_7 | lens_tone_denial_army_retreat_bar_captain |  
+| bip_39_word_underscore_8 | lens_tone_denial_army_retreat_bar_captain_ugly |  
+| bip_39_word_underscore_9 | lens_tone_denial_army_retreat_bar_captain_ugly_plate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

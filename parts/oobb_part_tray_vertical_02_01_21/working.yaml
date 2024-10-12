@@ -1,3 +1,15 @@
+bip_39_word_dash_1: win
+bip_39_word_dash_10: win-case-script-day-large-margin-absurd-cloth-dinner-symptom
+bip_39_word_dash_11: win-case-script-day-large-margin-absurd-cloth-dinner-symptom-tattoo
+bip_39_word_dash_12: win-case-script-day-large-margin-absurd-cloth-dinner-symptom-tattoo-answer
+bip_39_word_dash_2: win-case
+bip_39_word_dash_3: win-case-script
+bip_39_word_dash_4: win-case-script-day
+bip_39_word_dash_5: win-case-script-day-large
+bip_39_word_dash_6: win-case-script-day-large-margin
+bip_39_word_dash_7: win-case-script-day-large-margin-absurd
+bip_39_word_dash_8: win-case-script-day-large-margin-absurd-cloth
+bip_39_word_dash_9: win-case-script-day-large-margin-absurd-cloth-dinner
 bip_39_word_new_br_1: win
 bip_39_word_new_br_10: win<br>case<br>script<br>day<br>large<br>margin<br>absurd<br>cloth<br>dinner<br>symptom
 bip_39_word_new_br_11: win<br>case<br>script<br>day<br>large<br>margin<br>absurd<br>cloth<br>dinner<br>symptom<br>tattoo
@@ -193,6 +205,18 @@ bip_39_word_space_6: win case script day large margin
 bip_39_word_space_7: win case script day large margin absurd
 bip_39_word_space_8: win case script day large margin absurd cloth
 bip_39_word_space_9: win case script day large margin absurd cloth dinner
+bip_39_word_underscore_1: win
+bip_39_word_underscore_10: win_case_script_day_large_margin_absurd_cloth_dinner_symptom
+bip_39_word_underscore_11: win_case_script_day_large_margin_absurd_cloth_dinner_symptom_tattoo
+bip_39_word_underscore_12: win_case_script_day_large_margin_absurd_cloth_dinner_symptom_tattoo_answer
+bip_39_word_underscore_2: win_case
+bip_39_word_underscore_3: win_case_script
+bip_39_word_underscore_4: win_case_script_day
+bip_39_word_underscore_5: win_case_script_day_large
+bip_39_word_underscore_6: win_case_script_day_large_margin
+bip_39_word_underscore_7: win_case_script_day_large_margin_absurd
+bip_39_word_underscore_8: win_case_script_day_large_margin_absurd_cloth
+bip_39_word_underscore_9: win_case_script_day_large_margin_absurd_cloth_dinner
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

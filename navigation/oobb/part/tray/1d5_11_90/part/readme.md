@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rotate |  
+| bip_39_word_dash_10 | rotate-cake-nurse-help-youth-frost-wrap-illness-hospital-leaf |  
+| bip_39_word_dash_11 | rotate-cake-nurse-help-youth-frost-wrap-illness-hospital-leaf-priority |  
+| bip_39_word_dash_12 | rotate-cake-nurse-help-youth-frost-wrap-illness-hospital-leaf-priority-again |  
+| bip_39_word_dash_2 | rotate-cake |  
+| bip_39_word_dash_3 | rotate-cake-nurse |  
+| bip_39_word_dash_4 | rotate-cake-nurse-help |  
+| bip_39_word_dash_5 | rotate-cake-nurse-help-youth |  
+| bip_39_word_dash_6 | rotate-cake-nurse-help-youth-frost |  
+| bip_39_word_dash_7 | rotate-cake-nurse-help-youth-frost-wrap |  
+| bip_39_word_dash_8 | rotate-cake-nurse-help-youth-frost-wrap-illness |  
+| bip_39_word_dash_9 | rotate-cake-nurse-help-youth-frost-wrap-illness-hospital |  
 | bip_39_word_new_br_1 | rotate |  
 | bip_39_word_new_br_10 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf |  
 | bip_39_word_new_br_11 | rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf<br>priority |  
@@ -147,6 +159,18 @@ hospital |
 | bip_39_word_space_7 | rotate cake nurse help youth frost wrap |  
 | bip_39_word_space_8 | rotate cake nurse help youth frost wrap illness |  
 | bip_39_word_space_9 | rotate cake nurse help youth frost wrap illness hospital |  
+| bip_39_word_underscore_1 | rotate |  
+| bip_39_word_underscore_10 | rotate_cake_nurse_help_youth_frost_wrap_illness_hospital_leaf |  
+| bip_39_word_underscore_11 | rotate_cake_nurse_help_youth_frost_wrap_illness_hospital_leaf_priority |  
+| bip_39_word_underscore_12 | rotate_cake_nurse_help_youth_frost_wrap_illness_hospital_leaf_priority_again |  
+| bip_39_word_underscore_2 | rotate_cake |  
+| bip_39_word_underscore_3 | rotate_cake_nurse |  
+| bip_39_word_underscore_4 | rotate_cake_nurse_help |  
+| bip_39_word_underscore_5 | rotate_cake_nurse_help_youth |  
+| bip_39_word_underscore_6 | rotate_cake_nurse_help_youth_frost |  
+| bip_39_word_underscore_7 | rotate_cake_nurse_help_youth_frost_wrap |  
+| bip_39_word_underscore_8 | rotate_cake_nurse_help_youth_frost_wrap_illness |  
+| bip_39_word_underscore_9 | rotate_cake_nurse_help_youth_frost_wrap_illness_hospital |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

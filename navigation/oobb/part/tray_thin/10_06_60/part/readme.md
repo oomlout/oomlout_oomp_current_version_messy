@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pitch |  
+| bip_39_word_dash_10 | pitch-coin-happy-limb-soccer-tribe-main-skirt-place-virus |  
+| bip_39_word_dash_11 | pitch-coin-happy-limb-soccer-tribe-main-skirt-place-virus-claim |  
+| bip_39_word_dash_12 | pitch-coin-happy-limb-soccer-tribe-main-skirt-place-virus-claim-actress |  
+| bip_39_word_dash_2 | pitch-coin |  
+| bip_39_word_dash_3 | pitch-coin-happy |  
+| bip_39_word_dash_4 | pitch-coin-happy-limb |  
+| bip_39_word_dash_5 | pitch-coin-happy-limb-soccer |  
+| bip_39_word_dash_6 | pitch-coin-happy-limb-soccer-tribe |  
+| bip_39_word_dash_7 | pitch-coin-happy-limb-soccer-tribe-main |  
+| bip_39_word_dash_8 | pitch-coin-happy-limb-soccer-tribe-main-skirt |  
+| bip_39_word_dash_9 | pitch-coin-happy-limb-soccer-tribe-main-skirt-place |  
 | bip_39_word_new_br_1 | pitch |  
 | bip_39_word_new_br_10 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus |  
 | bip_39_word_new_br_11 | pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus<br>claim |  
@@ -147,6 +159,18 @@ place |
 | bip_39_word_space_7 | pitch coin happy limb soccer tribe main |  
 | bip_39_word_space_8 | pitch coin happy limb soccer tribe main skirt |  
 | bip_39_word_space_9 | pitch coin happy limb soccer tribe main skirt place |  
+| bip_39_word_underscore_1 | pitch |  
+| bip_39_word_underscore_10 | pitch_coin_happy_limb_soccer_tribe_main_skirt_place_virus |  
+| bip_39_word_underscore_11 | pitch_coin_happy_limb_soccer_tribe_main_skirt_place_virus_claim |  
+| bip_39_word_underscore_12 | pitch_coin_happy_limb_soccer_tribe_main_skirt_place_virus_claim_actress |  
+| bip_39_word_underscore_2 | pitch_coin |  
+| bip_39_word_underscore_3 | pitch_coin_happy |  
+| bip_39_word_underscore_4 | pitch_coin_happy_limb |  
+| bip_39_word_underscore_5 | pitch_coin_happy_limb_soccer |  
+| bip_39_word_underscore_6 | pitch_coin_happy_limb_soccer_tribe |  
+| bip_39_word_underscore_7 | pitch_coin_happy_limb_soccer_tribe_main |  
+| bip_39_word_underscore_8 | pitch_coin_happy_limb_soccer_tribe_main_skirt |  
+| bip_39_word_underscore_9 | pitch_coin_happy_limb_soccer_tribe_main_skirt_place |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

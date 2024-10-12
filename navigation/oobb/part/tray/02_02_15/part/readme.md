@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | illegal |  
+| bip_39_word_dash_10 | illegal-trim-dinner-relief-clown-expect-apple-write-connect-patient |  
+| bip_39_word_dash_11 | illegal-trim-dinner-relief-clown-expect-apple-write-connect-patient-lab |  
+| bip_39_word_dash_12 | illegal-trim-dinner-relief-clown-expect-apple-write-connect-patient-lab-assist |  
+| bip_39_word_dash_2 | illegal-trim |  
+| bip_39_word_dash_3 | illegal-trim-dinner |  
+| bip_39_word_dash_4 | illegal-trim-dinner-relief |  
+| bip_39_word_dash_5 | illegal-trim-dinner-relief-clown |  
+| bip_39_word_dash_6 | illegal-trim-dinner-relief-clown-expect |  
+| bip_39_word_dash_7 | illegal-trim-dinner-relief-clown-expect-apple |  
+| bip_39_word_dash_8 | illegal-trim-dinner-relief-clown-expect-apple-write |  
+| bip_39_word_dash_9 | illegal-trim-dinner-relief-clown-expect-apple-write-connect |  
 | bip_39_word_new_br_1 | illegal |  
 | bip_39_word_new_br_10 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write<br>connect<br>patient |  
 | bip_39_word_new_br_11 | illegal<br>trim<br>dinner<br>relief<br>clown<br>expect<br>apple<br>write<br>connect<br>patient<br>lab |  
@@ -147,6 +159,18 @@ connect |
 | bip_39_word_space_7 | illegal trim dinner relief clown expect apple |  
 | bip_39_word_space_8 | illegal trim dinner relief clown expect apple write |  
 | bip_39_word_space_9 | illegal trim dinner relief clown expect apple write connect |  
+| bip_39_word_underscore_1 | illegal |  
+| bip_39_word_underscore_10 | illegal_trim_dinner_relief_clown_expect_apple_write_connect_patient |  
+| bip_39_word_underscore_11 | illegal_trim_dinner_relief_clown_expect_apple_write_connect_patient_lab |  
+| bip_39_word_underscore_12 | illegal_trim_dinner_relief_clown_expect_apple_write_connect_patient_lab_assist |  
+| bip_39_word_underscore_2 | illegal_trim |  
+| bip_39_word_underscore_3 | illegal_trim_dinner |  
+| bip_39_word_underscore_4 | illegal_trim_dinner_relief |  
+| bip_39_word_underscore_5 | illegal_trim_dinner_relief_clown |  
+| bip_39_word_underscore_6 | illegal_trim_dinner_relief_clown_expect |  
+| bip_39_word_underscore_7 | illegal_trim_dinner_relief_clown_expect_apple |  
+| bip_39_word_underscore_8 | illegal_trim_dinner_relief_clown_expect_apple_write |  
+| bip_39_word_underscore_9 | illegal_trim_dinner_relief_clown_expect_apple_write_connect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

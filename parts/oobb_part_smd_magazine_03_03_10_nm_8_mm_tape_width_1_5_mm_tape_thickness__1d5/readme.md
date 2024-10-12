@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silent |  
+| bip_39_word_dash_10 | silent-input-dinner-unknown-buyer-emotion-bacon-action-volcano-two |  
+| bip_39_word_dash_11 | silent-input-dinner-unknown-buyer-emotion-bacon-action-volcano-two-close |  
+| bip_39_word_dash_12 | silent-input-dinner-unknown-buyer-emotion-bacon-action-volcano-two-close-auto |  
+| bip_39_word_dash_2 | silent-input |  
+| bip_39_word_dash_3 | silent-input-dinner |  
+| bip_39_word_dash_4 | silent-input-dinner-unknown |  
+| bip_39_word_dash_5 | silent-input-dinner-unknown-buyer |  
+| bip_39_word_dash_6 | silent-input-dinner-unknown-buyer-emotion |  
+| bip_39_word_dash_7 | silent-input-dinner-unknown-buyer-emotion-bacon |  
+| bip_39_word_dash_8 | silent-input-dinner-unknown-buyer-emotion-bacon-action |  
+| bip_39_word_dash_9 | silent-input-dinner-unknown-buyer-emotion-bacon-action-volcano |  
 | bip_39_word_new_br_1 | silent |  
 | bip_39_word_new_br_10 | silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action<br>volcano<br>two |  
 | bip_39_word_new_br_11 | silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action<br>volcano<br>two<br>close |  
@@ -147,6 +159,18 @@ volcano |
 | bip_39_word_space_7 | silent input dinner unknown buyer emotion bacon |  
 | bip_39_word_space_8 | silent input dinner unknown buyer emotion bacon action |  
 | bip_39_word_space_9 | silent input dinner unknown buyer emotion bacon action volcano |  
+| bip_39_word_underscore_1 | silent |  
+| bip_39_word_underscore_10 | silent_input_dinner_unknown_buyer_emotion_bacon_action_volcano_two |  
+| bip_39_word_underscore_11 | silent_input_dinner_unknown_buyer_emotion_bacon_action_volcano_two_close |  
+| bip_39_word_underscore_12 | silent_input_dinner_unknown_buyer_emotion_bacon_action_volcano_two_close_auto |  
+| bip_39_word_underscore_2 | silent_input |  
+| bip_39_word_underscore_3 | silent_input_dinner |  
+| bip_39_word_underscore_4 | silent_input_dinner_unknown |  
+| bip_39_word_underscore_5 | silent_input_dinner_unknown_buyer |  
+| bip_39_word_underscore_6 | silent_input_dinner_unknown_buyer_emotion |  
+| bip_39_word_underscore_7 | silent_input_dinner_unknown_buyer_emotion_bacon |  
+| bip_39_word_underscore_8 | silent_input_dinner_unknown_buyer_emotion_bacon_action |  
+| bip_39_word_underscore_9 | silent_input_dinner_unknown_buyer_emotion_bacon_action_volcano |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

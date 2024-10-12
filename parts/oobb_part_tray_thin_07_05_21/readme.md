@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | insect |  
+| bip_39_word_dash_10 | insect-gaze-village-carry-quit-upgrade-repair-sleep-cram-found |  
+| bip_39_word_dash_11 | insect-gaze-village-carry-quit-upgrade-repair-sleep-cram-found-tape |  
+| bip_39_word_dash_12 | insect-gaze-village-carry-quit-upgrade-repair-sleep-cram-found-tape-aerobic |  
+| bip_39_word_dash_2 | insect-gaze |  
+| bip_39_word_dash_3 | insect-gaze-village |  
+| bip_39_word_dash_4 | insect-gaze-village-carry |  
+| bip_39_word_dash_5 | insect-gaze-village-carry-quit |  
+| bip_39_word_dash_6 | insect-gaze-village-carry-quit-upgrade |  
+| bip_39_word_dash_7 | insect-gaze-village-carry-quit-upgrade-repair |  
+| bip_39_word_dash_8 | insect-gaze-village-carry-quit-upgrade-repair-sleep |  
+| bip_39_word_dash_9 | insect-gaze-village-carry-quit-upgrade-repair-sleep-cram |  
 | bip_39_word_new_br_1 | insect |  
 | bip_39_word_new_br_10 | insect<br>gaze<br>village<br>carry<br>quit<br>upgrade<br>repair<br>sleep<br>cram<br>found |  
 | bip_39_word_new_br_11 | insect<br>gaze<br>village<br>carry<br>quit<br>upgrade<br>repair<br>sleep<br>cram<br>found<br>tape |  
@@ -147,6 +159,18 @@ cram |
 | bip_39_word_space_7 | insect gaze village carry quit upgrade repair |  
 | bip_39_word_space_8 | insect gaze village carry quit upgrade repair sleep |  
 | bip_39_word_space_9 | insect gaze village carry quit upgrade repair sleep cram |  
+| bip_39_word_underscore_1 | insect |  
+| bip_39_word_underscore_10 | insect_gaze_village_carry_quit_upgrade_repair_sleep_cram_found |  
+| bip_39_word_underscore_11 | insect_gaze_village_carry_quit_upgrade_repair_sleep_cram_found_tape |  
+| bip_39_word_underscore_12 | insect_gaze_village_carry_quit_upgrade_repair_sleep_cram_found_tape_aerobic |  
+| bip_39_word_underscore_2 | insect_gaze |  
+| bip_39_word_underscore_3 | insect_gaze_village |  
+| bip_39_word_underscore_4 | insect_gaze_village_carry |  
+| bip_39_word_underscore_5 | insect_gaze_village_carry_quit |  
+| bip_39_word_underscore_6 | insect_gaze_village_carry_quit_upgrade |  
+| bip_39_word_underscore_7 | insect_gaze_village_carry_quit_upgrade_repair |  
+| bip_39_word_underscore_8 | insect_gaze_village_carry_quit_upgrade_repair_sleep |  
+| bip_39_word_underscore_9 | insect_gaze_village_carry_quit_upgrade_repair_sleep_cram |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

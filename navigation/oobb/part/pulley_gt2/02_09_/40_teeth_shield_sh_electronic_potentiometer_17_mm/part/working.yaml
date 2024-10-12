@@ -1,3 +1,15 @@
+bip_39_word_dash_1: try
+bip_39_word_dash_10: try-know-noble-smooth-ghost-hen-stumble-shy-olympic-curve
+bip_39_word_dash_11: try-know-noble-smooth-ghost-hen-stumble-shy-olympic-curve-raven
+bip_39_word_dash_12: try-know-noble-smooth-ghost-hen-stumble-shy-olympic-curve-raven-another
+bip_39_word_dash_2: try-know
+bip_39_word_dash_3: try-know-noble
+bip_39_word_dash_4: try-know-noble-smooth
+bip_39_word_dash_5: try-know-noble-smooth-ghost
+bip_39_word_dash_6: try-know-noble-smooth-ghost-hen
+bip_39_word_dash_7: try-know-noble-smooth-ghost-hen-stumble
+bip_39_word_dash_8: try-know-noble-smooth-ghost-hen-stumble-shy
+bip_39_word_dash_9: try-know-noble-smooth-ghost-hen-stumble-shy-olympic
 bip_39_word_new_br_1: try
 bip_39_word_new_br_10: try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy<br>olympic<br>curve
 bip_39_word_new_br_11: try<br>know<br>noble<br>smooth<br>ghost<br>hen<br>stumble<br>shy<br>olympic<br>curve<br>raven
@@ -192,6 +204,18 @@ bip_39_word_space_6: try know noble smooth ghost hen
 bip_39_word_space_7: try know noble smooth ghost hen stumble
 bip_39_word_space_8: try know noble smooth ghost hen stumble shy
 bip_39_word_space_9: try know noble smooth ghost hen stumble shy olympic
+bip_39_word_underscore_1: try
+bip_39_word_underscore_10: try_know_noble_smooth_ghost_hen_stumble_shy_olympic_curve
+bip_39_word_underscore_11: try_know_noble_smooth_ghost_hen_stumble_shy_olympic_curve_raven
+bip_39_word_underscore_12: try_know_noble_smooth_ghost_hen_stumble_shy_olympic_curve_raven_another
+bip_39_word_underscore_2: try_know
+bip_39_word_underscore_3: try_know_noble
+bip_39_word_underscore_4: try_know_noble_smooth
+bip_39_word_underscore_5: try_know_noble_smooth_ghost
+bip_39_word_underscore_6: try_know_noble_smooth_ghost_hen
+bip_39_word_underscore_7: try_know_noble_smooth_ghost_hen_stumble
+bip_39_word_underscore_8: try_know_noble_smooth_ghost_hen_stumble_shy
+bip_39_word_underscore_9: try_know_noble_smooth_ghost_hen_stumble_shy_olympic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: into
+bip_39_word_dash_10: into-unfold-gorilla-fault-leaf-repair-rice-bird-design-apart
+bip_39_word_dash_11: into-unfold-gorilla-fault-leaf-repair-rice-bird-design-apart-pig
+bip_39_word_dash_12: into-unfold-gorilla-fault-leaf-repair-rice-bird-design-apart-pig-ancient
+bip_39_word_dash_2: into-unfold
+bip_39_word_dash_3: into-unfold-gorilla
+bip_39_word_dash_4: into-unfold-gorilla-fault
+bip_39_word_dash_5: into-unfold-gorilla-fault-leaf
+bip_39_word_dash_6: into-unfold-gorilla-fault-leaf-repair
+bip_39_word_dash_7: into-unfold-gorilla-fault-leaf-repair-rice
+bip_39_word_dash_8: into-unfold-gorilla-fault-leaf-repair-rice-bird
+bip_39_word_dash_9: into-unfold-gorilla-fault-leaf-repair-rice-bird-design
 bip_39_word_new_br_1: into
 bip_39_word_new_br_10: into<br>unfold<br>gorilla<br>fault<br>leaf<br>repair<br>rice<br>bird<br>design<br>apart
 bip_39_word_new_br_11: into<br>unfold<br>gorilla<br>fault<br>leaf<br>repair<br>rice<br>bird<br>design<br>apart<br>pig
@@ -193,6 +205,18 @@ bip_39_word_space_6: into unfold gorilla fault leaf repair
 bip_39_word_space_7: into unfold gorilla fault leaf repair rice
 bip_39_word_space_8: into unfold gorilla fault leaf repair rice bird
 bip_39_word_space_9: into unfold gorilla fault leaf repair rice bird design
+bip_39_word_underscore_1: into
+bip_39_word_underscore_10: into_unfold_gorilla_fault_leaf_repair_rice_bird_design_apart
+bip_39_word_underscore_11: into_unfold_gorilla_fault_leaf_repair_rice_bird_design_apart_pig
+bip_39_word_underscore_12: into_unfold_gorilla_fault_leaf_repair_rice_bird_design_apart_pig_ancient
+bip_39_word_underscore_2: into_unfold
+bip_39_word_underscore_3: into_unfold_gorilla
+bip_39_word_underscore_4: into_unfold_gorilla_fault
+bip_39_word_underscore_5: into_unfold_gorilla_fault_leaf
+bip_39_word_underscore_6: into_unfold_gorilla_fault_leaf_repair
+bip_39_word_underscore_7: into_unfold_gorilla_fault_leaf_repair_rice
+bip_39_word_underscore_8: into_unfold_gorilla_fault_leaf_repair_rice_bird
+bip_39_word_underscore_9: into_unfold_gorilla_fault_leaf_repair_rice_bird_design
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

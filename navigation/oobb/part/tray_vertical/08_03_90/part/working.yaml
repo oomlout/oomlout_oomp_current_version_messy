@@ -1,3 +1,15 @@
+bip_39_word_dash_1: level
+bip_39_word_dash_10: level-verify-stand-relax-capable-dinner-quality-timber-inner-hen
+bip_39_word_dash_11: level-verify-stand-relax-capable-dinner-quality-timber-inner-hen-trap
+bip_39_word_dash_12: level-verify-stand-relax-capable-dinner-quality-timber-inner-hen-trap-angry
+bip_39_word_dash_2: level-verify
+bip_39_word_dash_3: level-verify-stand
+bip_39_word_dash_4: level-verify-stand-relax
+bip_39_word_dash_5: level-verify-stand-relax-capable
+bip_39_word_dash_6: level-verify-stand-relax-capable-dinner
+bip_39_word_dash_7: level-verify-stand-relax-capable-dinner-quality
+bip_39_word_dash_8: level-verify-stand-relax-capable-dinner-quality-timber
+bip_39_word_dash_9: level-verify-stand-relax-capable-dinner-quality-timber-inner
 bip_39_word_new_br_1: level
 bip_39_word_new_br_10: level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber<br>inner<br>hen
 bip_39_word_new_br_11: level<br>verify<br>stand<br>relax<br>capable<br>dinner<br>quality<br>timber<br>inner<br>hen<br>trap
@@ -194,6 +206,18 @@ bip_39_word_space_6: level verify stand relax capable dinner
 bip_39_word_space_7: level verify stand relax capable dinner quality
 bip_39_word_space_8: level verify stand relax capable dinner quality timber
 bip_39_word_space_9: level verify stand relax capable dinner quality timber inner
+bip_39_word_underscore_1: level
+bip_39_word_underscore_10: level_verify_stand_relax_capable_dinner_quality_timber_inner_hen
+bip_39_word_underscore_11: level_verify_stand_relax_capable_dinner_quality_timber_inner_hen_trap
+bip_39_word_underscore_12: level_verify_stand_relax_capable_dinner_quality_timber_inner_hen_trap_angry
+bip_39_word_underscore_2: level_verify
+bip_39_word_underscore_3: level_verify_stand
+bip_39_word_underscore_4: level_verify_stand_relax
+bip_39_word_underscore_5: level_verify_stand_relax_capable
+bip_39_word_underscore_6: level_verify_stand_relax_capable_dinner
+bip_39_word_underscore_7: level_verify_stand_relax_capable_dinner_quality
+bip_39_word_underscore_8: level_verify_stand_relax_capable_dinner_quality_timber
+bip_39_word_underscore_9: level_verify_stand_relax_capable_dinner_quality_timber_inner
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

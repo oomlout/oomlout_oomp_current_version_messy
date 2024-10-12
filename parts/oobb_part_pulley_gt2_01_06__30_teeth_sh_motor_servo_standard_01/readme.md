@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | battle |  
+| bip_39_word_dash_10 | battle-frog-trophy-review-fatal-over-burden-sell-space-million |  
+| bip_39_word_dash_11 | battle-frog-trophy-review-fatal-over-burden-sell-space-million-sunset |  
+| bip_39_word_dash_12 | battle-frog-trophy-review-fatal-over-burden-sell-space-million-sunset-aunt |  
+| bip_39_word_dash_2 | battle-frog |  
+| bip_39_word_dash_3 | battle-frog-trophy |  
+| bip_39_word_dash_4 | battle-frog-trophy-review |  
+| bip_39_word_dash_5 | battle-frog-trophy-review-fatal |  
+| bip_39_word_dash_6 | battle-frog-trophy-review-fatal-over |  
+| bip_39_word_dash_7 | battle-frog-trophy-review-fatal-over-burden |  
+| bip_39_word_dash_8 | battle-frog-trophy-review-fatal-over-burden-sell |  
+| bip_39_word_dash_9 | battle-frog-trophy-review-fatal-over-burden-sell-space |  
 | bip_39_word_new_br_1 | battle |  
 | bip_39_word_new_br_10 | battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell<br>space<br>million |  
 | bip_39_word_new_br_11 | battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell<br>space<br>million<br>sunset |  
@@ -147,6 +159,18 @@ space |
 | bip_39_word_space_7 | battle frog trophy review fatal over burden |  
 | bip_39_word_space_8 | battle frog trophy review fatal over burden sell |  
 | bip_39_word_space_9 | battle frog trophy review fatal over burden sell space |  
+| bip_39_word_underscore_1 | battle |  
+| bip_39_word_underscore_10 | battle_frog_trophy_review_fatal_over_burden_sell_space_million |  
+| bip_39_word_underscore_11 | battle_frog_trophy_review_fatal_over_burden_sell_space_million_sunset |  
+| bip_39_word_underscore_12 | battle_frog_trophy_review_fatal_over_burden_sell_space_million_sunset_aunt |  
+| bip_39_word_underscore_2 | battle_frog |  
+| bip_39_word_underscore_3 | battle_frog_trophy |  
+| bip_39_word_underscore_4 | battle_frog_trophy_review |  
+| bip_39_word_underscore_5 | battle_frog_trophy_review_fatal |  
+| bip_39_word_underscore_6 | battle_frog_trophy_review_fatal_over |  
+| bip_39_word_underscore_7 | battle_frog_trophy_review_fatal_over_burden |  
+| bip_39_word_underscore_8 | battle_frog_trophy_review_fatal_over_burden_sell |  
+| bip_39_word_underscore_9 | battle_frog_trophy_review_fatal_over_burden_sell_space |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

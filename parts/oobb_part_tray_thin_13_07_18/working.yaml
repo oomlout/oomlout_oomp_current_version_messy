@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sick
+bip_39_word_dash_10: sick-shoe-wing-donate-cannon-kingdom-siege-obvious-man-thought
+bip_39_word_dash_11: sick-shoe-wing-donate-cannon-kingdom-siege-obvious-man-thought-sponsor
+bip_39_word_dash_12: sick-shoe-wing-donate-cannon-kingdom-siege-obvious-man-thought-sponsor-attack
+bip_39_word_dash_2: sick-shoe
+bip_39_word_dash_3: sick-shoe-wing
+bip_39_word_dash_4: sick-shoe-wing-donate
+bip_39_word_dash_5: sick-shoe-wing-donate-cannon
+bip_39_word_dash_6: sick-shoe-wing-donate-cannon-kingdom
+bip_39_word_dash_7: sick-shoe-wing-donate-cannon-kingdom-siege
+bip_39_word_dash_8: sick-shoe-wing-donate-cannon-kingdom-siege-obvious
+bip_39_word_dash_9: sick-shoe-wing-donate-cannon-kingdom-siege-obvious-man
 bip_39_word_new_br_1: sick
 bip_39_word_new_br_10: sick<br>shoe<br>wing<br>donate<br>cannon<br>kingdom<br>siege<br>obvious<br>man<br>thought
 bip_39_word_new_br_11: sick<br>shoe<br>wing<br>donate<br>cannon<br>kingdom<br>siege<br>obvious<br>man<br>thought<br>sponsor
@@ -193,6 +205,18 @@ bip_39_word_space_6: sick shoe wing donate cannon kingdom
 bip_39_word_space_7: sick shoe wing donate cannon kingdom siege
 bip_39_word_space_8: sick shoe wing donate cannon kingdom siege obvious
 bip_39_word_space_9: sick shoe wing donate cannon kingdom siege obvious man
+bip_39_word_underscore_1: sick
+bip_39_word_underscore_10: sick_shoe_wing_donate_cannon_kingdom_siege_obvious_man_thought
+bip_39_word_underscore_11: sick_shoe_wing_donate_cannon_kingdom_siege_obvious_man_thought_sponsor
+bip_39_word_underscore_12: sick_shoe_wing_donate_cannon_kingdom_siege_obvious_man_thought_sponsor_attack
+bip_39_word_underscore_2: sick_shoe
+bip_39_word_underscore_3: sick_shoe_wing
+bip_39_word_underscore_4: sick_shoe_wing_donate
+bip_39_word_underscore_5: sick_shoe_wing_donate_cannon
+bip_39_word_underscore_6: sick_shoe_wing_donate_cannon_kingdom
+bip_39_word_underscore_7: sick_shoe_wing_donate_cannon_kingdom_siege
+bip_39_word_underscore_8: sick_shoe_wing_donate_cannon_kingdom_siege_obvious
+bip_39_word_underscore_9: sick_shoe_wing_donate_cannon_kingdom_siege_obvious_man
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: celery
+bip_39_word_dash_10: celery-scout-stone-drama-fiscal-update-famous-setup-hair-figure
+bip_39_word_dash_11: celery-scout-stone-drama-fiscal-update-famous-setup-hair-figure-ski
+bip_39_word_dash_12: celery-scout-stone-drama-fiscal-update-famous-setup-hair-figure-ski-anger
+bip_39_word_dash_2: celery-scout
+bip_39_word_dash_3: celery-scout-stone
+bip_39_word_dash_4: celery-scout-stone-drama
+bip_39_word_dash_5: celery-scout-stone-drama-fiscal
+bip_39_word_dash_6: celery-scout-stone-drama-fiscal-update
+bip_39_word_dash_7: celery-scout-stone-drama-fiscal-update-famous
+bip_39_word_dash_8: celery-scout-stone-drama-fiscal-update-famous-setup
+bip_39_word_dash_9: celery-scout-stone-drama-fiscal-update-famous-setup-hair
 bip_39_word_new_br_1: celery
 bip_39_word_new_br_10: celery<br>scout<br>stone<br>drama<br>fiscal<br>update<br>famous<br>setup<br>hair<br>figure
 bip_39_word_new_br_11: celery<br>scout<br>stone<br>drama<br>fiscal<br>update<br>famous<br>setup<br>hair<br>figure<br>ski
@@ -193,6 +205,18 @@ bip_39_word_space_6: celery scout stone drama fiscal update
 bip_39_word_space_7: celery scout stone drama fiscal update famous
 bip_39_word_space_8: celery scout stone drama fiscal update famous setup
 bip_39_word_space_9: celery scout stone drama fiscal update famous setup hair
+bip_39_word_underscore_1: celery
+bip_39_word_underscore_10: celery_scout_stone_drama_fiscal_update_famous_setup_hair_figure
+bip_39_word_underscore_11: celery_scout_stone_drama_fiscal_update_famous_setup_hair_figure_ski
+bip_39_word_underscore_12: celery_scout_stone_drama_fiscal_update_famous_setup_hair_figure_ski_anger
+bip_39_word_underscore_2: celery_scout
+bip_39_word_underscore_3: celery_scout_stone
+bip_39_word_underscore_4: celery_scout_stone_drama
+bip_39_word_underscore_5: celery_scout_stone_drama_fiscal
+bip_39_word_underscore_6: celery_scout_stone_drama_fiscal_update
+bip_39_word_underscore_7: celery_scout_stone_drama_fiscal_update_famous
+bip_39_word_underscore_8: celery_scout_stone_drama_fiscal_update_famous_setup
+bip_39_word_underscore_9: celery_scout_stone_drama_fiscal_update_famous_setup_hair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unique |  
+| bip_39_word_dash_10 | unique-leaf-process-reform-meadow-bonus-pink-pottery-tower-cave |  
+| bip_39_word_dash_11 | unique-leaf-process-reform-meadow-bonus-pink-pottery-tower-cave-piece |  
+| bip_39_word_dash_12 | unique-leaf-process-reform-meadow-bonus-pink-pottery-tower-cave-piece-antique |  
+| bip_39_word_dash_2 | unique-leaf |  
+| bip_39_word_dash_3 | unique-leaf-process |  
+| bip_39_word_dash_4 | unique-leaf-process-reform |  
+| bip_39_word_dash_5 | unique-leaf-process-reform-meadow |  
+| bip_39_word_dash_6 | unique-leaf-process-reform-meadow-bonus |  
+| bip_39_word_dash_7 | unique-leaf-process-reform-meadow-bonus-pink |  
+| bip_39_word_dash_8 | unique-leaf-process-reform-meadow-bonus-pink-pottery |  
+| bip_39_word_dash_9 | unique-leaf-process-reform-meadow-bonus-pink-pottery-tower |  
 | bip_39_word_new_br_1 | unique |  
 | bip_39_word_new_br_10 | unique<br>leaf<br>process<br>reform<br>meadow<br>bonus<br>pink<br>pottery<br>tower<br>cave |  
 | bip_39_word_new_br_11 | unique<br>leaf<br>process<br>reform<br>meadow<br>bonus<br>pink<br>pottery<br>tower<br>cave<br>piece |  
@@ -147,6 +159,18 @@ tower |
 | bip_39_word_space_7 | unique leaf process reform meadow bonus pink |  
 | bip_39_word_space_8 | unique leaf process reform meadow bonus pink pottery |  
 | bip_39_word_space_9 | unique leaf process reform meadow bonus pink pottery tower |  
+| bip_39_word_underscore_1 | unique |  
+| bip_39_word_underscore_10 | unique_leaf_process_reform_meadow_bonus_pink_pottery_tower_cave |  
+| bip_39_word_underscore_11 | unique_leaf_process_reform_meadow_bonus_pink_pottery_tower_cave_piece |  
+| bip_39_word_underscore_12 | unique_leaf_process_reform_meadow_bonus_pink_pottery_tower_cave_piece_antique |  
+| bip_39_word_underscore_2 | unique_leaf |  
+| bip_39_word_underscore_3 | unique_leaf_process |  
+| bip_39_word_underscore_4 | unique_leaf_process_reform |  
+| bip_39_word_underscore_5 | unique_leaf_process_reform_meadow |  
+| bip_39_word_underscore_6 | unique_leaf_process_reform_meadow_bonus |  
+| bip_39_word_underscore_7 | unique_leaf_process_reform_meadow_bonus_pink |  
+| bip_39_word_underscore_8 | unique_leaf_process_reform_meadow_bonus_pink_pottery |  
+| bip_39_word_underscore_9 | unique_leaf_process_reform_meadow_bonus_pink_pottery_tower |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | useless |  
+| bip_39_word_dash_10 | useless-rail-hybrid-faculty-survey-dream-valley-uniform-wealth-lift |  
+| bip_39_word_dash_11 | useless-rail-hybrid-faculty-survey-dream-valley-uniform-wealth-lift-roof |  
+| bip_39_word_dash_12 | useless-rail-hybrid-faculty-survey-dream-valley-uniform-wealth-lift-roof-again |  
+| bip_39_word_dash_2 | useless-rail |  
+| bip_39_word_dash_3 | useless-rail-hybrid |  
+| bip_39_word_dash_4 | useless-rail-hybrid-faculty |  
+| bip_39_word_dash_5 | useless-rail-hybrid-faculty-survey |  
+| bip_39_word_dash_6 | useless-rail-hybrid-faculty-survey-dream |  
+| bip_39_word_dash_7 | useless-rail-hybrid-faculty-survey-dream-valley |  
+| bip_39_word_dash_8 | useless-rail-hybrid-faculty-survey-dream-valley-uniform |  
+| bip_39_word_dash_9 | useless-rail-hybrid-faculty-survey-dream-valley-uniform-wealth |  
 | bip_39_word_new_br_1 | useless |  
 | bip_39_word_new_br_10 | useless<br>rail<br>hybrid<br>faculty<br>survey<br>dream<br>valley<br>uniform<br>wealth<br>lift |  
 | bip_39_word_new_br_11 | useless<br>rail<br>hybrid<br>faculty<br>survey<br>dream<br>valley<br>uniform<br>wealth<br>lift<br>roof |  
@@ -147,6 +159,18 @@ wealth |
 | bip_39_word_space_7 | useless rail hybrid faculty survey dream valley |  
 | bip_39_word_space_8 | useless rail hybrid faculty survey dream valley uniform |  
 | bip_39_word_space_9 | useless rail hybrid faculty survey dream valley uniform wealth |  
+| bip_39_word_underscore_1 | useless |  
+| bip_39_word_underscore_10 | useless_rail_hybrid_faculty_survey_dream_valley_uniform_wealth_lift |  
+| bip_39_word_underscore_11 | useless_rail_hybrid_faculty_survey_dream_valley_uniform_wealth_lift_roof |  
+| bip_39_word_underscore_12 | useless_rail_hybrid_faculty_survey_dream_valley_uniform_wealth_lift_roof_again |  
+| bip_39_word_underscore_2 | useless_rail |  
+| bip_39_word_underscore_3 | useless_rail_hybrid |  
+| bip_39_word_underscore_4 | useless_rail_hybrid_faculty |  
+| bip_39_word_underscore_5 | useless_rail_hybrid_faculty_survey |  
+| bip_39_word_underscore_6 | useless_rail_hybrid_faculty_survey_dream |  
+| bip_39_word_underscore_7 | useless_rail_hybrid_faculty_survey_dream_valley |  
+| bip_39_word_underscore_8 | useless_rail_hybrid_faculty_survey_dream_valley_uniform |  
+| bip_39_word_underscore_9 | useless_rail_hybrid_faculty_survey_dream_valley_uniform_wealth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

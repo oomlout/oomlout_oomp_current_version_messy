@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spatial
+bip_39_word_dash_10: spatial-baby-crunch-reveal-lake-slab-unveil-glove-trap-damp
+bip_39_word_dash_11: spatial-baby-crunch-reveal-lake-slab-unveil-glove-trap-damp-wreck
+bip_39_word_dash_12: spatial-baby-crunch-reveal-lake-slab-unveil-glove-trap-damp-wreck-argue
+bip_39_word_dash_2: spatial-baby
+bip_39_word_dash_3: spatial-baby-crunch
+bip_39_word_dash_4: spatial-baby-crunch-reveal
+bip_39_word_dash_5: spatial-baby-crunch-reveal-lake
+bip_39_word_dash_6: spatial-baby-crunch-reveal-lake-slab
+bip_39_word_dash_7: spatial-baby-crunch-reveal-lake-slab-unveil
+bip_39_word_dash_8: spatial-baby-crunch-reveal-lake-slab-unveil-glove
+bip_39_word_dash_9: spatial-baby-crunch-reveal-lake-slab-unveil-glove-trap
 bip_39_word_new_br_1: spatial
 bip_39_word_new_br_10: spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove<br>trap<br>damp
 bip_39_word_new_br_11: spatial<br>baby<br>crunch<br>reveal<br>lake<br>slab<br>unveil<br>glove<br>trap<br>damp<br>wreck
@@ -193,6 +205,18 @@ bip_39_word_space_6: spatial baby crunch reveal lake slab
 bip_39_word_space_7: spatial baby crunch reveal lake slab unveil
 bip_39_word_space_8: spatial baby crunch reveal lake slab unveil glove
 bip_39_word_space_9: spatial baby crunch reveal lake slab unveil glove trap
+bip_39_word_underscore_1: spatial
+bip_39_word_underscore_10: spatial_baby_crunch_reveal_lake_slab_unveil_glove_trap_damp
+bip_39_word_underscore_11: spatial_baby_crunch_reveal_lake_slab_unveil_glove_trap_damp_wreck
+bip_39_word_underscore_12: spatial_baby_crunch_reveal_lake_slab_unveil_glove_trap_damp_wreck_argue
+bip_39_word_underscore_2: spatial_baby
+bip_39_word_underscore_3: spatial_baby_crunch
+bip_39_word_underscore_4: spatial_baby_crunch_reveal
+bip_39_word_underscore_5: spatial_baby_crunch_reveal_lake
+bip_39_word_underscore_6: spatial_baby_crunch_reveal_lake_slab
+bip_39_word_underscore_7: spatial_baby_crunch_reveal_lake_slab_unveil
+bip_39_word_underscore_8: spatial_baby_crunch_reveal_lake_slab_unveil_glove
+bip_39_word_underscore_9: spatial_baby_crunch_reveal_lake_slab_unveil_glove_trap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

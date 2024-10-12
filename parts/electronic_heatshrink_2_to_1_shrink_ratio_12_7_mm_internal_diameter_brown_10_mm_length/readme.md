@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | squeeze |  
+| bip_39_word_dash_10 | squeeze-afraid-solution-warm-master-kick-father-cigar-vehicle-hard |  
+| bip_39_word_dash_11 | squeeze-afraid-solution-warm-master-kick-father-cigar-vehicle-hard-stadium |  
+| bip_39_word_dash_12 | squeeze-afraid-solution-warm-master-kick-father-cigar-vehicle-hard-stadium-all |  
+| bip_39_word_dash_2 | squeeze-afraid |  
+| bip_39_word_dash_3 | squeeze-afraid-solution |  
+| bip_39_word_dash_4 | squeeze-afraid-solution-warm |  
+| bip_39_word_dash_5 | squeeze-afraid-solution-warm-master |  
+| bip_39_word_dash_6 | squeeze-afraid-solution-warm-master-kick |  
+| bip_39_word_dash_7 | squeeze-afraid-solution-warm-master-kick-father |  
+| bip_39_word_dash_8 | squeeze-afraid-solution-warm-master-kick-father-cigar |  
+| bip_39_word_dash_9 | squeeze-afraid-solution-warm-master-kick-father-cigar-vehicle |  
 | bip_39_word_new_br_1 | squeeze |  
 | bip_39_word_new_br_10 | squeeze<br>afraid<br>solution<br>warm<br>master<br>kick<br>father<br>cigar<br>vehicle<br>hard |  
 | bip_39_word_new_br_11 | squeeze<br>afraid<br>solution<br>warm<br>master<br>kick<br>father<br>cigar<br>vehicle<br>hard<br>stadium |  
@@ -147,6 +159,18 @@ vehicle |
 | bip_39_word_space_7 | squeeze afraid solution warm master kick father |  
 | bip_39_word_space_8 | squeeze afraid solution warm master kick father cigar |  
 | bip_39_word_space_9 | squeeze afraid solution warm master kick father cigar vehicle |  
+| bip_39_word_underscore_1 | squeeze |  
+| bip_39_word_underscore_10 | squeeze_afraid_solution_warm_master_kick_father_cigar_vehicle_hard |  
+| bip_39_word_underscore_11 | squeeze_afraid_solution_warm_master_kick_father_cigar_vehicle_hard_stadium |  
+| bip_39_word_underscore_12 | squeeze_afraid_solution_warm_master_kick_father_cigar_vehicle_hard_stadium_all |  
+| bip_39_word_underscore_2 | squeeze_afraid |  
+| bip_39_word_underscore_3 | squeeze_afraid_solution |  
+| bip_39_word_underscore_4 | squeeze_afraid_solution_warm |  
+| bip_39_word_underscore_5 | squeeze_afraid_solution_warm_master |  
+| bip_39_word_underscore_6 | squeeze_afraid_solution_warm_master_kick |  
+| bip_39_word_underscore_7 | squeeze_afraid_solution_warm_master_kick_father |  
+| bip_39_word_underscore_8 | squeeze_afraid_solution_warm_master_kick_father_cigar |  
+| bip_39_word_underscore_9 | squeeze_afraid_solution_warm_master_kick_father_cigar_vehicle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

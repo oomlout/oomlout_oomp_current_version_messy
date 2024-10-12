@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pull |  
+| bip_39_word_dash_10 | pull-knife-cruel-junior-deliver-weekend-biology-gap-donor-access |  
+| bip_39_word_dash_11 | pull-knife-cruel-junior-deliver-weekend-biology-gap-donor-access-protect |  
+| bip_39_word_dash_12 | pull-knife-cruel-junior-deliver-weekend-biology-gap-donor-access-protect-arrive |  
+| bip_39_word_dash_2 | pull-knife |  
+| bip_39_word_dash_3 | pull-knife-cruel |  
+| bip_39_word_dash_4 | pull-knife-cruel-junior |  
+| bip_39_word_dash_5 | pull-knife-cruel-junior-deliver |  
+| bip_39_word_dash_6 | pull-knife-cruel-junior-deliver-weekend |  
+| bip_39_word_dash_7 | pull-knife-cruel-junior-deliver-weekend-biology |  
+| bip_39_word_dash_8 | pull-knife-cruel-junior-deliver-weekend-biology-gap |  
+| bip_39_word_dash_9 | pull-knife-cruel-junior-deliver-weekend-biology-gap-donor |  
 | bip_39_word_new_br_1 | pull |  
 | bip_39_word_new_br_10 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap<br>donor<br>access |  
 | bip_39_word_new_br_11 | pull<br>knife<br>cruel<br>junior<br>deliver<br>weekend<br>biology<br>gap<br>donor<br>access<br>protect |  
@@ -147,6 +159,18 @@ donor |
 | bip_39_word_space_7 | pull knife cruel junior deliver weekend biology |  
 | bip_39_word_space_8 | pull knife cruel junior deliver weekend biology gap |  
 | bip_39_word_space_9 | pull knife cruel junior deliver weekend biology gap donor |  
+| bip_39_word_underscore_1 | pull |  
+| bip_39_word_underscore_10 | pull_knife_cruel_junior_deliver_weekend_biology_gap_donor_access |  
+| bip_39_word_underscore_11 | pull_knife_cruel_junior_deliver_weekend_biology_gap_donor_access_protect |  
+| bip_39_word_underscore_12 | pull_knife_cruel_junior_deliver_weekend_biology_gap_donor_access_protect_arrive |  
+| bip_39_word_underscore_2 | pull_knife |  
+| bip_39_word_underscore_3 | pull_knife_cruel |  
+| bip_39_word_underscore_4 | pull_knife_cruel_junior |  
+| bip_39_word_underscore_5 | pull_knife_cruel_junior_deliver |  
+| bip_39_word_underscore_6 | pull_knife_cruel_junior_deliver_weekend |  
+| bip_39_word_underscore_7 | pull_knife_cruel_junior_deliver_weekend_biology |  
+| bip_39_word_underscore_8 | pull_knife_cruel_junior_deliver_weekend_biology_gap |  
+| bip_39_word_underscore_9 | pull_knife_cruel_junior_deliver_weekend_biology_gap_donor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flock
+bip_39_word_dash_10: flock-fox-luggage-giraffe-entire-pistol-neither-nose-umbrella-local
+bip_39_word_dash_11: flock-fox-luggage-giraffe-entire-pistol-neither-nose-umbrella-local-pill
+bip_39_word_dash_12: flock-fox-luggage-giraffe-entire-pistol-neither-nose-umbrella-local-pill-acoustic
+bip_39_word_dash_2: flock-fox
+bip_39_word_dash_3: flock-fox-luggage
+bip_39_word_dash_4: flock-fox-luggage-giraffe
+bip_39_word_dash_5: flock-fox-luggage-giraffe-entire
+bip_39_word_dash_6: flock-fox-luggage-giraffe-entire-pistol
+bip_39_word_dash_7: flock-fox-luggage-giraffe-entire-pistol-neither
+bip_39_word_dash_8: flock-fox-luggage-giraffe-entire-pistol-neither-nose
+bip_39_word_dash_9: flock-fox-luggage-giraffe-entire-pistol-neither-nose-umbrella
 bip_39_word_new_br_1: flock
 bip_39_word_new_br_10: flock<br>fox<br>luggage<br>giraffe<br>entire<br>pistol<br>neither<br>nose<br>umbrella<br>local
 bip_39_word_new_br_11: flock<br>fox<br>luggage<br>giraffe<br>entire<br>pistol<br>neither<br>nose<br>umbrella<br>local<br>pill
@@ -194,6 +206,18 @@ bip_39_word_space_6: flock fox luggage giraffe entire pistol
 bip_39_word_space_7: flock fox luggage giraffe entire pistol neither
 bip_39_word_space_8: flock fox luggage giraffe entire pistol neither nose
 bip_39_word_space_9: flock fox luggage giraffe entire pistol neither nose umbrella
+bip_39_word_underscore_1: flock
+bip_39_word_underscore_10: flock_fox_luggage_giraffe_entire_pistol_neither_nose_umbrella_local
+bip_39_word_underscore_11: flock_fox_luggage_giraffe_entire_pistol_neither_nose_umbrella_local_pill
+bip_39_word_underscore_12: flock_fox_luggage_giraffe_entire_pistol_neither_nose_umbrella_local_pill_acoustic
+bip_39_word_underscore_2: flock_fox
+bip_39_word_underscore_3: flock_fox_luggage
+bip_39_word_underscore_4: flock_fox_luggage_giraffe
+bip_39_word_underscore_5: flock_fox_luggage_giraffe_entire
+bip_39_word_underscore_6: flock_fox_luggage_giraffe_entire_pistol
+bip_39_word_underscore_7: flock_fox_luggage_giraffe_entire_pistol_neither
+bip_39_word_underscore_8: flock_fox_luggage_giraffe_entire_pistol_neither_nose
+bip_39_word_underscore_9: flock_fox_luggage_giraffe_entire_pistol_neither_nose_umbrella
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

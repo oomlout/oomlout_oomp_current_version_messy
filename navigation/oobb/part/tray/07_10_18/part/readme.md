@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wing |  
+| bip_39_word_dash_10 | wing-clock-adapt-employ-symptom-today-source-muffin-panic-kitchen |  
+| bip_39_word_dash_11 | wing-clock-adapt-employ-symptom-today-source-muffin-panic-kitchen-toast |  
+| bip_39_word_dash_12 | wing-clock-adapt-employ-symptom-today-source-muffin-panic-kitchen-toast-arrow |  
+| bip_39_word_dash_2 | wing-clock |  
+| bip_39_word_dash_3 | wing-clock-adapt |  
+| bip_39_word_dash_4 | wing-clock-adapt-employ |  
+| bip_39_word_dash_5 | wing-clock-adapt-employ-symptom |  
+| bip_39_word_dash_6 | wing-clock-adapt-employ-symptom-today |  
+| bip_39_word_dash_7 | wing-clock-adapt-employ-symptom-today-source |  
+| bip_39_word_dash_8 | wing-clock-adapt-employ-symptom-today-source-muffin |  
+| bip_39_word_dash_9 | wing-clock-adapt-employ-symptom-today-source-muffin-panic |  
 | bip_39_word_new_br_1 | wing |  
 | bip_39_word_new_br_10 | wing<br>clock<br>adapt<br>employ<br>symptom<br>today<br>source<br>muffin<br>panic<br>kitchen |  
 | bip_39_word_new_br_11 | wing<br>clock<br>adapt<br>employ<br>symptom<br>today<br>source<br>muffin<br>panic<br>kitchen<br>toast |  
@@ -147,6 +159,18 @@ panic |
 | bip_39_word_space_7 | wing clock adapt employ symptom today source |  
 | bip_39_word_space_8 | wing clock adapt employ symptom today source muffin |  
 | bip_39_word_space_9 | wing clock adapt employ symptom today source muffin panic |  
+| bip_39_word_underscore_1 | wing |  
+| bip_39_word_underscore_10 | wing_clock_adapt_employ_symptom_today_source_muffin_panic_kitchen |  
+| bip_39_word_underscore_11 | wing_clock_adapt_employ_symptom_today_source_muffin_panic_kitchen_toast |  
+| bip_39_word_underscore_12 | wing_clock_adapt_employ_symptom_today_source_muffin_panic_kitchen_toast_arrow |  
+| bip_39_word_underscore_2 | wing_clock |  
+| bip_39_word_underscore_3 | wing_clock_adapt |  
+| bip_39_word_underscore_4 | wing_clock_adapt_employ |  
+| bip_39_word_underscore_5 | wing_clock_adapt_employ_symptom |  
+| bip_39_word_underscore_6 | wing_clock_adapt_employ_symptom_today |  
+| bip_39_word_underscore_7 | wing_clock_adapt_employ_symptom_today_source |  
+| bip_39_word_underscore_8 | wing_clock_adapt_employ_symptom_today_source_muffin |  
+| bip_39_word_underscore_9 | wing_clock_adapt_employ_symptom_today_source_muffin_panic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

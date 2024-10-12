@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | example |  
+| bip_39_word_dash_10 | example-mobile-seed-pull-affair-debate-cinnamon-morning-believe-correct |  
+| bip_39_word_dash_11 | example-mobile-seed-pull-affair-debate-cinnamon-morning-believe-correct-panda |  
+| bip_39_word_dash_12 | example-mobile-seed-pull-affair-debate-cinnamon-morning-believe-correct-panda-aspect |  
+| bip_39_word_dash_2 | example-mobile |  
+| bip_39_word_dash_3 | example-mobile-seed |  
+| bip_39_word_dash_4 | example-mobile-seed-pull |  
+| bip_39_word_dash_5 | example-mobile-seed-pull-affair |  
+| bip_39_word_dash_6 | example-mobile-seed-pull-affair-debate |  
+| bip_39_word_dash_7 | example-mobile-seed-pull-affair-debate-cinnamon |  
+| bip_39_word_dash_8 | example-mobile-seed-pull-affair-debate-cinnamon-morning |  
+| bip_39_word_dash_9 | example-mobile-seed-pull-affair-debate-cinnamon-morning-believe |  
 | bip_39_word_new_br_1 | example |  
 | bip_39_word_new_br_10 | example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning<br>believe<br>correct |  
 | bip_39_word_new_br_11 | example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning<br>believe<br>correct<br>panda |  
@@ -147,6 +159,18 @@ believe |
 | bip_39_word_space_7 | example mobile seed pull affair debate cinnamon |  
 | bip_39_word_space_8 | example mobile seed pull affair debate cinnamon morning |  
 | bip_39_word_space_9 | example mobile seed pull affair debate cinnamon morning believe |  
+| bip_39_word_underscore_1 | example |  
+| bip_39_word_underscore_10 | example_mobile_seed_pull_affair_debate_cinnamon_morning_believe_correct |  
+| bip_39_word_underscore_11 | example_mobile_seed_pull_affair_debate_cinnamon_morning_believe_correct_panda |  
+| bip_39_word_underscore_12 | example_mobile_seed_pull_affair_debate_cinnamon_morning_believe_correct_panda_aspect |  
+| bip_39_word_underscore_2 | example_mobile |  
+| bip_39_word_underscore_3 | example_mobile_seed |  
+| bip_39_word_underscore_4 | example_mobile_seed_pull |  
+| bip_39_word_underscore_5 | example_mobile_seed_pull_affair |  
+| bip_39_word_underscore_6 | example_mobile_seed_pull_affair_debate |  
+| bip_39_word_underscore_7 | example_mobile_seed_pull_affair_debate_cinnamon |  
+| bip_39_word_underscore_8 | example_mobile_seed_pull_affair_debate_cinnamon_morning |  
+| bip_39_word_underscore_9 | example_mobile_seed_pull_affair_debate_cinnamon_morning_believe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

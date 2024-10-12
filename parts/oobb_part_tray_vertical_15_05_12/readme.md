@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | buzz |  
+| bip_39_word_dash_10 | buzz-once-pool-across-zebra-acid-heart-urge-setup-forest |  
+| bip_39_word_dash_11 | buzz-once-pool-across-zebra-acid-heart-urge-setup-forest-mixture |  
+| bip_39_word_dash_12 | buzz-once-pool-across-zebra-acid-heart-urge-setup-forest-mixture-acid |  
+| bip_39_word_dash_2 | buzz-once |  
+| bip_39_word_dash_3 | buzz-once-pool |  
+| bip_39_word_dash_4 | buzz-once-pool-across |  
+| bip_39_word_dash_5 | buzz-once-pool-across-zebra |  
+| bip_39_word_dash_6 | buzz-once-pool-across-zebra-acid |  
+| bip_39_word_dash_7 | buzz-once-pool-across-zebra-acid-heart |  
+| bip_39_word_dash_8 | buzz-once-pool-across-zebra-acid-heart-urge |  
+| bip_39_word_dash_9 | buzz-once-pool-across-zebra-acid-heart-urge-setup |  
 | bip_39_word_new_br_1 | buzz |  
 | bip_39_word_new_br_10 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge<br>setup<br>forest |  
 | bip_39_word_new_br_11 | buzz<br>once<br>pool<br>across<br>zebra<br>acid<br>heart<br>urge<br>setup<br>forest<br>mixture |  
@@ -147,6 +159,18 @@ setup |
 | bip_39_word_space_7 | buzz once pool across zebra acid heart |  
 | bip_39_word_space_8 | buzz once pool across zebra acid heart urge |  
 | bip_39_word_space_9 | buzz once pool across zebra acid heart urge setup |  
+| bip_39_word_underscore_1 | buzz |  
+| bip_39_word_underscore_10 | buzz_once_pool_across_zebra_acid_heart_urge_setup_forest |  
+| bip_39_word_underscore_11 | buzz_once_pool_across_zebra_acid_heart_urge_setup_forest_mixture |  
+| bip_39_word_underscore_12 | buzz_once_pool_across_zebra_acid_heart_urge_setup_forest_mixture_acid |  
+| bip_39_word_underscore_2 | buzz_once |  
+| bip_39_word_underscore_3 | buzz_once_pool |  
+| bip_39_word_underscore_4 | buzz_once_pool_across |  
+| bip_39_word_underscore_5 | buzz_once_pool_across_zebra |  
+| bip_39_word_underscore_6 | buzz_once_pool_across_zebra_acid |  
+| bip_39_word_underscore_7 | buzz_once_pool_across_zebra_acid_heart |  
+| bip_39_word_underscore_8 | buzz_once_pool_across_zebra_acid_heart_urge |  
+| bip_39_word_underscore_9 | buzz_once_pool_across_zebra_acid_heart_urge_setup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

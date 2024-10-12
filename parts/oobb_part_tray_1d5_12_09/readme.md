@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reflect |  
+| bip_39_word_dash_10 | reflect-there-evolve-reveal-wait-engine-mango-rent-great-knee |  
+| bip_39_word_dash_11 | reflect-there-evolve-reveal-wait-engine-mango-rent-great-knee-gloom |  
+| bip_39_word_dash_12 | reflect-there-evolve-reveal-wait-engine-mango-rent-great-knee-gloom-abstract |  
+| bip_39_word_dash_2 | reflect-there |  
+| bip_39_word_dash_3 | reflect-there-evolve |  
+| bip_39_word_dash_4 | reflect-there-evolve-reveal |  
+| bip_39_word_dash_5 | reflect-there-evolve-reveal-wait |  
+| bip_39_word_dash_6 | reflect-there-evolve-reveal-wait-engine |  
+| bip_39_word_dash_7 | reflect-there-evolve-reveal-wait-engine-mango |  
+| bip_39_word_dash_8 | reflect-there-evolve-reveal-wait-engine-mango-rent |  
+| bip_39_word_dash_9 | reflect-there-evolve-reveal-wait-engine-mango-rent-great |  
 | bip_39_word_new_br_1 | reflect |  
 | bip_39_word_new_br_10 | reflect<br>there<br>evolve<br>reveal<br>wait<br>engine<br>mango<br>rent<br>great<br>knee |  
 | bip_39_word_new_br_11 | reflect<br>there<br>evolve<br>reveal<br>wait<br>engine<br>mango<br>rent<br>great<br>knee<br>gloom |  
@@ -147,6 +159,18 @@ great |
 | bip_39_word_space_7 | reflect there evolve reveal wait engine mango |  
 | bip_39_word_space_8 | reflect there evolve reveal wait engine mango rent |  
 | bip_39_word_space_9 | reflect there evolve reveal wait engine mango rent great |  
+| bip_39_word_underscore_1 | reflect |  
+| bip_39_word_underscore_10 | reflect_there_evolve_reveal_wait_engine_mango_rent_great_knee |  
+| bip_39_word_underscore_11 | reflect_there_evolve_reveal_wait_engine_mango_rent_great_knee_gloom |  
+| bip_39_word_underscore_12 | reflect_there_evolve_reveal_wait_engine_mango_rent_great_knee_gloom_abstract |  
+| bip_39_word_underscore_2 | reflect_there |  
+| bip_39_word_underscore_3 | reflect_there_evolve |  
+| bip_39_word_underscore_4 | reflect_there_evolve_reveal |  
+| bip_39_word_underscore_5 | reflect_there_evolve_reveal_wait |  
+| bip_39_word_underscore_6 | reflect_there_evolve_reveal_wait_engine |  
+| bip_39_word_underscore_7 | reflect_there_evolve_reveal_wait_engine_mango |  
+| bip_39_word_underscore_8 | reflect_there_evolve_reveal_wait_engine_mango_rent |  
+| bip_39_word_underscore_9 | reflect_there_evolve_reveal_wait_engine_mango_rent_great |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

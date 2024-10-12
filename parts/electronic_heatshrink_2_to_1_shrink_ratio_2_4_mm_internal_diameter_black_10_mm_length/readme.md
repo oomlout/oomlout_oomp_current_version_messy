@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dream |  
+| bip_39_word_dash_10 | dream-hub-subway-sibling-caught-pave-produce-cat-keep-eternal |  
+| bip_39_word_dash_11 | dream-hub-subway-sibling-caught-pave-produce-cat-keep-eternal-chaos |  
+| bip_39_word_dash_12 | dream-hub-subway-sibling-caught-pave-produce-cat-keep-eternal-chaos-arch |  
+| bip_39_word_dash_2 | dream-hub |  
+| bip_39_word_dash_3 | dream-hub-subway |  
+| bip_39_word_dash_4 | dream-hub-subway-sibling |  
+| bip_39_word_dash_5 | dream-hub-subway-sibling-caught |  
+| bip_39_word_dash_6 | dream-hub-subway-sibling-caught-pave |  
+| bip_39_word_dash_7 | dream-hub-subway-sibling-caught-pave-produce |  
+| bip_39_word_dash_8 | dream-hub-subway-sibling-caught-pave-produce-cat |  
+| bip_39_word_dash_9 | dream-hub-subway-sibling-caught-pave-produce-cat-keep |  
 | bip_39_word_new_br_1 | dream |  
 | bip_39_word_new_br_10 | dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat<br>keep<br>eternal |  
 | bip_39_word_new_br_11 | dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat<br>keep<br>eternal<br>chaos |  
@@ -147,6 +159,18 @@ keep |
 | bip_39_word_space_7 | dream hub subway sibling caught pave produce |  
 | bip_39_word_space_8 | dream hub subway sibling caught pave produce cat |  
 | bip_39_word_space_9 | dream hub subway sibling caught pave produce cat keep |  
+| bip_39_word_underscore_1 | dream |  
+| bip_39_word_underscore_10 | dream_hub_subway_sibling_caught_pave_produce_cat_keep_eternal |  
+| bip_39_word_underscore_11 | dream_hub_subway_sibling_caught_pave_produce_cat_keep_eternal_chaos |  
+| bip_39_word_underscore_12 | dream_hub_subway_sibling_caught_pave_produce_cat_keep_eternal_chaos_arch |  
+| bip_39_word_underscore_2 | dream_hub |  
+| bip_39_word_underscore_3 | dream_hub_subway |  
+| bip_39_word_underscore_4 | dream_hub_subway_sibling |  
+| bip_39_word_underscore_5 | dream_hub_subway_sibling_caught |  
+| bip_39_word_underscore_6 | dream_hub_subway_sibling_caught_pave |  
+| bip_39_word_underscore_7 | dream_hub_subway_sibling_caught_pave_produce |  
+| bip_39_word_underscore_8 | dream_hub_subway_sibling_caught_pave_produce_cat |  
+| bip_39_word_underscore_9 | dream_hub_subway_sibling_caught_pave_produce_cat_keep |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

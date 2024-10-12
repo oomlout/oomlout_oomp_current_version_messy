@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | upper |  
+| bip_39_word_dash_10 | upper-situate-merge-dove-raven-dance-harvest-slush-giraffe-pulp |  
+| bip_39_word_dash_11 | upper-situate-merge-dove-raven-dance-harvest-slush-giraffe-pulp-patrol |  
+| bip_39_word_dash_12 | upper-situate-merge-dove-raven-dance-harvest-slush-giraffe-pulp-patrol-asthma |  
+| bip_39_word_dash_2 | upper-situate |  
+| bip_39_word_dash_3 | upper-situate-merge |  
+| bip_39_word_dash_4 | upper-situate-merge-dove |  
+| bip_39_word_dash_5 | upper-situate-merge-dove-raven |  
+| bip_39_word_dash_6 | upper-situate-merge-dove-raven-dance |  
+| bip_39_word_dash_7 | upper-situate-merge-dove-raven-dance-harvest |  
+| bip_39_word_dash_8 | upper-situate-merge-dove-raven-dance-harvest-slush |  
+| bip_39_word_dash_9 | upper-situate-merge-dove-raven-dance-harvest-slush-giraffe |  
 | bip_39_word_new_br_1 | upper |  
 | bip_39_word_new_br_10 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp |  
 | bip_39_word_new_br_11 | upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp<br>patrol |  
@@ -147,6 +159,18 @@ giraffe |
 | bip_39_word_space_7 | upper situate merge dove raven dance harvest |  
 | bip_39_word_space_8 | upper situate merge dove raven dance harvest slush |  
 | bip_39_word_space_9 | upper situate merge dove raven dance harvest slush giraffe |  
+| bip_39_word_underscore_1 | upper |  
+| bip_39_word_underscore_10 | upper_situate_merge_dove_raven_dance_harvest_slush_giraffe_pulp |  
+| bip_39_word_underscore_11 | upper_situate_merge_dove_raven_dance_harvest_slush_giraffe_pulp_patrol |  
+| bip_39_word_underscore_12 | upper_situate_merge_dove_raven_dance_harvest_slush_giraffe_pulp_patrol_asthma |  
+| bip_39_word_underscore_2 | upper_situate |  
+| bip_39_word_underscore_3 | upper_situate_merge |  
+| bip_39_word_underscore_4 | upper_situate_merge_dove |  
+| bip_39_word_underscore_5 | upper_situate_merge_dove_raven |  
+| bip_39_word_underscore_6 | upper_situate_merge_dove_raven_dance |  
+| bip_39_word_underscore_7 | upper_situate_merge_dove_raven_dance_harvest |  
+| bip_39_word_underscore_8 | upper_situate_merge_dove_raven_dance_harvest_slush |  
+| bip_39_word_underscore_9 | upper_situate_merge_dove_raven_dance_harvest_slush_giraffe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

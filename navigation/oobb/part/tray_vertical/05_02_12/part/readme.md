@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | language |  
+| bip_39_word_dash_10 | language-amount-brain-bargain-shy-balcony-lady-fruit-keen-cloud |  
+| bip_39_word_dash_11 | language-amount-brain-bargain-shy-balcony-lady-fruit-keen-cloud-run |  
+| bip_39_word_dash_12 | language-amount-brain-bargain-shy-balcony-lady-fruit-keen-cloud-run-advance |  
+| bip_39_word_dash_2 | language-amount |  
+| bip_39_word_dash_3 | language-amount-brain |  
+| bip_39_word_dash_4 | language-amount-brain-bargain |  
+| bip_39_word_dash_5 | language-amount-brain-bargain-shy |  
+| bip_39_word_dash_6 | language-amount-brain-bargain-shy-balcony |  
+| bip_39_word_dash_7 | language-amount-brain-bargain-shy-balcony-lady |  
+| bip_39_word_dash_8 | language-amount-brain-bargain-shy-balcony-lady-fruit |  
+| bip_39_word_dash_9 | language-amount-brain-bargain-shy-balcony-lady-fruit-keen |  
 | bip_39_word_new_br_1 | language |  
 | bip_39_word_new_br_10 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud |  
 | bip_39_word_new_br_11 | language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud<br>run |  
@@ -147,6 +159,18 @@ keen |
 | bip_39_word_space_7 | language amount brain bargain shy balcony lady |  
 | bip_39_word_space_8 | language amount brain bargain shy balcony lady fruit |  
 | bip_39_word_space_9 | language amount brain bargain shy balcony lady fruit keen |  
+| bip_39_word_underscore_1 | language |  
+| bip_39_word_underscore_10 | language_amount_brain_bargain_shy_balcony_lady_fruit_keen_cloud |  
+| bip_39_word_underscore_11 | language_amount_brain_bargain_shy_balcony_lady_fruit_keen_cloud_run |  
+| bip_39_word_underscore_12 | language_amount_brain_bargain_shy_balcony_lady_fruit_keen_cloud_run_advance |  
+| bip_39_word_underscore_2 | language_amount |  
+| bip_39_word_underscore_3 | language_amount_brain |  
+| bip_39_word_underscore_4 | language_amount_brain_bargain |  
+| bip_39_word_underscore_5 | language_amount_brain_bargain_shy |  
+| bip_39_word_underscore_6 | language_amount_brain_bargain_shy_balcony |  
+| bip_39_word_underscore_7 | language_amount_brain_bargain_shy_balcony_lady |  
+| bip_39_word_underscore_8 | language_amount_brain_bargain_shy_balcony_lady_fruit |  
+| bip_39_word_underscore_9 | language_amount_brain_bargain_shy_balcony_lady_fruit_keen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | they |  
+| bip_39_word_dash_10 | they-gloom-bulb-reject-stomach-december-veteran-olympic-paddle-twenty |  
+| bip_39_word_dash_11 | they-gloom-bulb-reject-stomach-december-veteran-olympic-paddle-twenty-absurd |  
+| bip_39_word_dash_12 | they-gloom-bulb-reject-stomach-december-veteran-olympic-paddle-twenty-absurd-alley |  
+| bip_39_word_dash_2 | they-gloom |  
+| bip_39_word_dash_3 | they-gloom-bulb |  
+| bip_39_word_dash_4 | they-gloom-bulb-reject |  
+| bip_39_word_dash_5 | they-gloom-bulb-reject-stomach |  
+| bip_39_word_dash_6 | they-gloom-bulb-reject-stomach-december |  
+| bip_39_word_dash_7 | they-gloom-bulb-reject-stomach-december-veteran |  
+| bip_39_word_dash_8 | they-gloom-bulb-reject-stomach-december-veteran-olympic |  
+| bip_39_word_dash_9 | they-gloom-bulb-reject-stomach-december-veteran-olympic-paddle |  
 | bip_39_word_new_br_1 | they |  
 | bip_39_word_new_br_10 | they<br>gloom<br>bulb<br>reject<br>stomach<br>december<br>veteran<br>olympic<br>paddle<br>twenty |  
 | bip_39_word_new_br_11 | they<br>gloom<br>bulb<br>reject<br>stomach<br>december<br>veteran<br>olympic<br>paddle<br>twenty<br>absurd |  
@@ -147,6 +159,18 @@ paddle |
 | bip_39_word_space_7 | they gloom bulb reject stomach december veteran |  
 | bip_39_word_space_8 | they gloom bulb reject stomach december veteran olympic |  
 | bip_39_word_space_9 | they gloom bulb reject stomach december veteran olympic paddle |  
+| bip_39_word_underscore_1 | they |  
+| bip_39_word_underscore_10 | they_gloom_bulb_reject_stomach_december_veteran_olympic_paddle_twenty |  
+| bip_39_word_underscore_11 | they_gloom_bulb_reject_stomach_december_veteran_olympic_paddle_twenty_absurd |  
+| bip_39_word_underscore_12 | they_gloom_bulb_reject_stomach_december_veteran_olympic_paddle_twenty_absurd_alley |  
+| bip_39_word_underscore_2 | they_gloom |  
+| bip_39_word_underscore_3 | they_gloom_bulb |  
+| bip_39_word_underscore_4 | they_gloom_bulb_reject |  
+| bip_39_word_underscore_5 | they_gloom_bulb_reject_stomach |  
+| bip_39_word_underscore_6 | they_gloom_bulb_reject_stomach_december |  
+| bip_39_word_underscore_7 | they_gloom_bulb_reject_stomach_december_veteran |  
+| bip_39_word_underscore_8 | they_gloom_bulb_reject_stomach_december_veteran_olympic |  
+| bip_39_word_underscore_9 | they_gloom_bulb_reject_stomach_december_veteran_olympic_paddle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

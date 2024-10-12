@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shine
+bip_39_word_dash_10: shine-effort-equip-brave-width-alley-mystery-camera-guess-task
+bip_39_word_dash_11: shine-effort-equip-brave-width-alley-mystery-camera-guess-task-voyage
+bip_39_word_dash_12: shine-effort-equip-brave-width-alley-mystery-camera-guess-task-voyage-actual
+bip_39_word_dash_2: shine-effort
+bip_39_word_dash_3: shine-effort-equip
+bip_39_word_dash_4: shine-effort-equip-brave
+bip_39_word_dash_5: shine-effort-equip-brave-width
+bip_39_word_dash_6: shine-effort-equip-brave-width-alley
+bip_39_word_dash_7: shine-effort-equip-brave-width-alley-mystery
+bip_39_word_dash_8: shine-effort-equip-brave-width-alley-mystery-camera
+bip_39_word_dash_9: shine-effort-equip-brave-width-alley-mystery-camera-guess
 bip_39_word_new_br_1: shine
 bip_39_word_new_br_10: shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera<br>guess<br>task
 bip_39_word_new_br_11: shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera<br>guess<br>task<br>voyage
@@ -193,6 +205,18 @@ bip_39_word_space_6: shine effort equip brave width alley
 bip_39_word_space_7: shine effort equip brave width alley mystery
 bip_39_word_space_8: shine effort equip brave width alley mystery camera
 bip_39_word_space_9: shine effort equip brave width alley mystery camera guess
+bip_39_word_underscore_1: shine
+bip_39_word_underscore_10: shine_effort_equip_brave_width_alley_mystery_camera_guess_task
+bip_39_word_underscore_11: shine_effort_equip_brave_width_alley_mystery_camera_guess_task_voyage
+bip_39_word_underscore_12: shine_effort_equip_brave_width_alley_mystery_camera_guess_task_voyage_actual
+bip_39_word_underscore_2: shine_effort
+bip_39_word_underscore_3: shine_effort_equip
+bip_39_word_underscore_4: shine_effort_equip_brave
+bip_39_word_underscore_5: shine_effort_equip_brave_width
+bip_39_word_underscore_6: shine_effort_equip_brave_width_alley
+bip_39_word_underscore_7: shine_effort_equip_brave_width_alley_mystery
+bip_39_word_underscore_8: shine_effort_equip_brave_width_alley_mystery_camera
+bip_39_word_underscore_9: shine_effort_equip_brave_width_alley_mystery_camera_guess
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

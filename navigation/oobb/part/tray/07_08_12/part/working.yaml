@@ -1,3 +1,15 @@
+bip_39_word_dash_1: print
+bip_39_word_dash_10: print-giggle-genius-thing-bargain-buzz-bench-flee-suggest-pride
+bip_39_word_dash_11: print-giggle-genius-thing-bargain-buzz-bench-flee-suggest-pride-grunt
+bip_39_word_dash_12: print-giggle-genius-thing-bargain-buzz-bench-flee-suggest-pride-grunt-absorb
+bip_39_word_dash_2: print-giggle
+bip_39_word_dash_3: print-giggle-genius
+bip_39_word_dash_4: print-giggle-genius-thing
+bip_39_word_dash_5: print-giggle-genius-thing-bargain
+bip_39_word_dash_6: print-giggle-genius-thing-bargain-buzz
+bip_39_word_dash_7: print-giggle-genius-thing-bargain-buzz-bench
+bip_39_word_dash_8: print-giggle-genius-thing-bargain-buzz-bench-flee
+bip_39_word_dash_9: print-giggle-genius-thing-bargain-buzz-bench-flee-suggest
 bip_39_word_new_br_1: print
 bip_39_word_new_br_10: print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride
 bip_39_word_new_br_11: print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride<br>grunt
@@ -193,6 +205,18 @@ bip_39_word_space_6: print giggle genius thing bargain buzz
 bip_39_word_space_7: print giggle genius thing bargain buzz bench
 bip_39_word_space_8: print giggle genius thing bargain buzz bench flee
 bip_39_word_space_9: print giggle genius thing bargain buzz bench flee suggest
+bip_39_word_underscore_1: print
+bip_39_word_underscore_10: print_giggle_genius_thing_bargain_buzz_bench_flee_suggest_pride
+bip_39_word_underscore_11: print_giggle_genius_thing_bargain_buzz_bench_flee_suggest_pride_grunt
+bip_39_word_underscore_12: print_giggle_genius_thing_bargain_buzz_bench_flee_suggest_pride_grunt_absorb
+bip_39_word_underscore_2: print_giggle
+bip_39_word_underscore_3: print_giggle_genius
+bip_39_word_underscore_4: print_giggle_genius_thing
+bip_39_word_underscore_5: print_giggle_genius_thing_bargain
+bip_39_word_underscore_6: print_giggle_genius_thing_bargain_buzz
+bip_39_word_underscore_7: print_giggle_genius_thing_bargain_buzz_bench
+bip_39_word_underscore_8: print_giggle_genius_thing_bargain_buzz_bench_flee
+bip_39_word_underscore_9: print_giggle_genius_thing_bargain_buzz_bench_flee_suggest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

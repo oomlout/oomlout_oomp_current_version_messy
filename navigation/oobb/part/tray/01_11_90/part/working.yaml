@@ -1,3 +1,15 @@
+bip_39_word_dash_1: belt
+bip_39_word_dash_10: belt-clutch-actress-region-fantasy-ensure-filter-alcohol-tobacco-nation
+bip_39_word_dash_11: belt-clutch-actress-region-fantasy-ensure-filter-alcohol-tobacco-nation-senior
+bip_39_word_dash_12: belt-clutch-actress-region-fantasy-ensure-filter-alcohol-tobacco-nation-senior-apology
+bip_39_word_dash_2: belt-clutch
+bip_39_word_dash_3: belt-clutch-actress
+bip_39_word_dash_4: belt-clutch-actress-region
+bip_39_word_dash_5: belt-clutch-actress-region-fantasy
+bip_39_word_dash_6: belt-clutch-actress-region-fantasy-ensure
+bip_39_word_dash_7: belt-clutch-actress-region-fantasy-ensure-filter
+bip_39_word_dash_8: belt-clutch-actress-region-fantasy-ensure-filter-alcohol
+bip_39_word_dash_9: belt-clutch-actress-region-fantasy-ensure-filter-alcohol-tobacco
 bip_39_word_new_br_1: belt
 bip_39_word_new_br_10: belt<br>clutch<br>actress<br>region<br>fantasy<br>ensure<br>filter<br>alcohol<br>tobacco<br>nation
 bip_39_word_new_br_11: belt<br>clutch<br>actress<br>region<br>fantasy<br>ensure<br>filter<br>alcohol<br>tobacco<br>nation<br>senior
@@ -194,6 +206,18 @@ bip_39_word_space_6: belt clutch actress region fantasy ensure
 bip_39_word_space_7: belt clutch actress region fantasy ensure filter
 bip_39_word_space_8: belt clutch actress region fantasy ensure filter alcohol
 bip_39_word_space_9: belt clutch actress region fantasy ensure filter alcohol tobacco
+bip_39_word_underscore_1: belt
+bip_39_word_underscore_10: belt_clutch_actress_region_fantasy_ensure_filter_alcohol_tobacco_nation
+bip_39_word_underscore_11: belt_clutch_actress_region_fantasy_ensure_filter_alcohol_tobacco_nation_senior
+bip_39_word_underscore_12: belt_clutch_actress_region_fantasy_ensure_filter_alcohol_tobacco_nation_senior_apology
+bip_39_word_underscore_2: belt_clutch
+bip_39_word_underscore_3: belt_clutch_actress
+bip_39_word_underscore_4: belt_clutch_actress_region
+bip_39_word_underscore_5: belt_clutch_actress_region_fantasy
+bip_39_word_underscore_6: belt_clutch_actress_region_fantasy_ensure
+bip_39_word_underscore_7: belt_clutch_actress_region_fantasy_ensure_filter
+bip_39_word_underscore_8: belt_clutch_actress_region_fantasy_ensure_filter_alcohol
+bip_39_word_underscore_9: belt_clutch_actress_region_fantasy_ensure_filter_alcohol_tobacco
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

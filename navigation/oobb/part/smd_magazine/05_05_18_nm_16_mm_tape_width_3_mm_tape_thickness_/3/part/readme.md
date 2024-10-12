@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oak |  
+| bip_39_word_dash_10 | oak-soft-balance-raven-laundry-hamster-symptom-tonight-danger-december |  
+| bip_39_word_dash_11 | oak-soft-balance-raven-laundry-hamster-symptom-tonight-danger-december-usage |  
+| bip_39_word_dash_12 | oak-soft-balance-raven-laundry-hamster-symptom-tonight-danger-december-usage-assist |  
+| bip_39_word_dash_2 | oak-soft |  
+| bip_39_word_dash_3 | oak-soft-balance |  
+| bip_39_word_dash_4 | oak-soft-balance-raven |  
+| bip_39_word_dash_5 | oak-soft-balance-raven-laundry |  
+| bip_39_word_dash_6 | oak-soft-balance-raven-laundry-hamster |  
+| bip_39_word_dash_7 | oak-soft-balance-raven-laundry-hamster-symptom |  
+| bip_39_word_dash_8 | oak-soft-balance-raven-laundry-hamster-symptom-tonight |  
+| bip_39_word_dash_9 | oak-soft-balance-raven-laundry-hamster-symptom-tonight-danger |  
 | bip_39_word_new_br_1 | oak |  
 | bip_39_word_new_br_10 | oak<br>soft<br>balance<br>raven<br>laundry<br>hamster<br>symptom<br>tonight<br>danger<br>december |  
 | bip_39_word_new_br_11 | oak<br>soft<br>balance<br>raven<br>laundry<br>hamster<br>symptom<br>tonight<br>danger<br>december<br>usage |  
@@ -147,6 +159,18 @@ danger |
 | bip_39_word_space_7 | oak soft balance raven laundry hamster symptom |  
 | bip_39_word_space_8 | oak soft balance raven laundry hamster symptom tonight |  
 | bip_39_word_space_9 | oak soft balance raven laundry hamster symptom tonight danger |  
+| bip_39_word_underscore_1 | oak |  
+| bip_39_word_underscore_10 | oak_soft_balance_raven_laundry_hamster_symptom_tonight_danger_december |  
+| bip_39_word_underscore_11 | oak_soft_balance_raven_laundry_hamster_symptom_tonight_danger_december_usage |  
+| bip_39_word_underscore_12 | oak_soft_balance_raven_laundry_hamster_symptom_tonight_danger_december_usage_assist |  
+| bip_39_word_underscore_2 | oak_soft |  
+| bip_39_word_underscore_3 | oak_soft_balance |  
+| bip_39_word_underscore_4 | oak_soft_balance_raven |  
+| bip_39_word_underscore_5 | oak_soft_balance_raven_laundry |  
+| bip_39_word_underscore_6 | oak_soft_balance_raven_laundry_hamster |  
+| bip_39_word_underscore_7 | oak_soft_balance_raven_laundry_hamster_symptom |  
+| bip_39_word_underscore_8 | oak_soft_balance_raven_laundry_hamster_symptom_tonight |  
+| bip_39_word_underscore_9 | oak_soft_balance_raven_laundry_hamster_symptom_tonight_danger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

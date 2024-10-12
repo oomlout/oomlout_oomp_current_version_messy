@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enemy
+bip_39_word_dash_10: enemy-message-mule-correct-episode-velvet-circle-forward-whale-arrive
+bip_39_word_dash_11: enemy-message-mule-correct-episode-velvet-circle-forward-whale-arrive-exit
+bip_39_word_dash_12: enemy-message-mule-correct-episode-velvet-circle-forward-whale-arrive-exit-action
+bip_39_word_dash_2: enemy-message
+bip_39_word_dash_3: enemy-message-mule
+bip_39_word_dash_4: enemy-message-mule-correct
+bip_39_word_dash_5: enemy-message-mule-correct-episode
+bip_39_word_dash_6: enemy-message-mule-correct-episode-velvet
+bip_39_word_dash_7: enemy-message-mule-correct-episode-velvet-circle
+bip_39_word_dash_8: enemy-message-mule-correct-episode-velvet-circle-forward
+bip_39_word_dash_9: enemy-message-mule-correct-episode-velvet-circle-forward-whale
 bip_39_word_new_br_1: enemy
 bip_39_word_new_br_10: enemy<br>message<br>mule<br>correct<br>episode<br>velvet<br>circle<br>forward<br>whale<br>arrive
 bip_39_word_new_br_11: enemy<br>message<br>mule<br>correct<br>episode<br>velvet<br>circle<br>forward<br>whale<br>arrive<br>exit
@@ -194,6 +206,18 @@ bip_39_word_space_6: enemy message mule correct episode velvet
 bip_39_word_space_7: enemy message mule correct episode velvet circle
 bip_39_word_space_8: enemy message mule correct episode velvet circle forward
 bip_39_word_space_9: enemy message mule correct episode velvet circle forward whale
+bip_39_word_underscore_1: enemy
+bip_39_word_underscore_10: enemy_message_mule_correct_episode_velvet_circle_forward_whale_arrive
+bip_39_word_underscore_11: enemy_message_mule_correct_episode_velvet_circle_forward_whale_arrive_exit
+bip_39_word_underscore_12: enemy_message_mule_correct_episode_velvet_circle_forward_whale_arrive_exit_action
+bip_39_word_underscore_2: enemy_message
+bip_39_word_underscore_3: enemy_message_mule
+bip_39_word_underscore_4: enemy_message_mule_correct
+bip_39_word_underscore_5: enemy_message_mule_correct_episode
+bip_39_word_underscore_6: enemy_message_mule_correct_episode_velvet
+bip_39_word_underscore_7: enemy_message_mule_correct_episode_velvet_circle
+bip_39_word_underscore_8: enemy_message_mule_correct_episode_velvet_circle_forward
+bip_39_word_underscore_9: enemy_message_mule_correct_episode_velvet_circle_forward_whale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

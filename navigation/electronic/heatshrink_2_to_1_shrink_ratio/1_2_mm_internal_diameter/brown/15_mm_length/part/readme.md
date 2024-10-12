@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | opinion |  
+| bip_39_word_dash_10 | opinion-myth-donor-language-lend-keep-wide-little-rate-cabbage |  
+| bip_39_word_dash_11 | opinion-myth-donor-language-lend-keep-wide-little-rate-cabbage-million |  
+| bip_39_word_dash_12 | opinion-myth-donor-language-lend-keep-wide-little-rate-cabbage-million-attend |  
+| bip_39_word_dash_2 | opinion-myth |  
+| bip_39_word_dash_3 | opinion-myth-donor |  
+| bip_39_word_dash_4 | opinion-myth-donor-language |  
+| bip_39_word_dash_5 | opinion-myth-donor-language-lend |  
+| bip_39_word_dash_6 | opinion-myth-donor-language-lend-keep |  
+| bip_39_word_dash_7 | opinion-myth-donor-language-lend-keep-wide |  
+| bip_39_word_dash_8 | opinion-myth-donor-language-lend-keep-wide-little |  
+| bip_39_word_dash_9 | opinion-myth-donor-language-lend-keep-wide-little-rate |  
 | bip_39_word_new_br_1 | opinion |  
 | bip_39_word_new_br_10 | opinion<br>myth<br>donor<br>language<br>lend<br>keep<br>wide<br>little<br>rate<br>cabbage |  
 | bip_39_word_new_br_11 | opinion<br>myth<br>donor<br>language<br>lend<br>keep<br>wide<br>little<br>rate<br>cabbage<br>million |  
@@ -147,6 +159,18 @@ rate |
 | bip_39_word_space_7 | opinion myth donor language lend keep wide |  
 | bip_39_word_space_8 | opinion myth donor language lend keep wide little |  
 | bip_39_word_space_9 | opinion myth donor language lend keep wide little rate |  
+| bip_39_word_underscore_1 | opinion |  
+| bip_39_word_underscore_10 | opinion_myth_donor_language_lend_keep_wide_little_rate_cabbage |  
+| bip_39_word_underscore_11 | opinion_myth_donor_language_lend_keep_wide_little_rate_cabbage_million |  
+| bip_39_word_underscore_12 | opinion_myth_donor_language_lend_keep_wide_little_rate_cabbage_million_attend |  
+| bip_39_word_underscore_2 | opinion_myth |  
+| bip_39_word_underscore_3 | opinion_myth_donor |  
+| bip_39_word_underscore_4 | opinion_myth_donor_language |  
+| bip_39_word_underscore_5 | opinion_myth_donor_language_lend |  
+| bip_39_word_underscore_6 | opinion_myth_donor_language_lend_keep |  
+| bip_39_word_underscore_7 | opinion_myth_donor_language_lend_keep_wide |  
+| bip_39_word_underscore_8 | opinion_myth_donor_language_lend_keep_wide_little |  
+| bip_39_word_underscore_9 | opinion_myth_donor_language_lend_keep_wide_little_rate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

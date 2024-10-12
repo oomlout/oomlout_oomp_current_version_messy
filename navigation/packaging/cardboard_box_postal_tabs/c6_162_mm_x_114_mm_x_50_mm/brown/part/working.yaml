@@ -1,3 +1,15 @@
+bip_39_word_dash_1: catalog
+bip_39_word_dash_10: catalog-limit-sadness-nature-merit-bacon-either-minute-sea-phrase
+bip_39_word_dash_11: catalog-limit-sadness-nature-merit-bacon-either-minute-sea-phrase-expand
+bip_39_word_dash_12: catalog-limit-sadness-nature-merit-bacon-either-minute-sea-phrase-expand-armor
+bip_39_word_dash_2: catalog-limit
+bip_39_word_dash_3: catalog-limit-sadness
+bip_39_word_dash_4: catalog-limit-sadness-nature
+bip_39_word_dash_5: catalog-limit-sadness-nature-merit
+bip_39_word_dash_6: catalog-limit-sadness-nature-merit-bacon
+bip_39_word_dash_7: catalog-limit-sadness-nature-merit-bacon-either
+bip_39_word_dash_8: catalog-limit-sadness-nature-merit-bacon-either-minute
+bip_39_word_dash_9: catalog-limit-sadness-nature-merit-bacon-either-minute-sea
 bip_39_word_new_br_1: catalog
 bip_39_word_new_br_10: catalog<br>limit<br>sadness<br>nature<br>merit<br>bacon<br>either<br>minute<br>sea<br>phrase
 bip_39_word_new_br_11: catalog<br>limit<br>sadness<br>nature<br>merit<br>bacon<br>either<br>minute<br>sea<br>phrase<br>expand
@@ -193,6 +205,18 @@ bip_39_word_space_6: catalog limit sadness nature merit bacon
 bip_39_word_space_7: catalog limit sadness nature merit bacon either
 bip_39_word_space_8: catalog limit sadness nature merit bacon either minute
 bip_39_word_space_9: catalog limit sadness nature merit bacon either minute sea
+bip_39_word_underscore_1: catalog
+bip_39_word_underscore_10: catalog_limit_sadness_nature_merit_bacon_either_minute_sea_phrase
+bip_39_word_underscore_11: catalog_limit_sadness_nature_merit_bacon_either_minute_sea_phrase_expand
+bip_39_word_underscore_12: catalog_limit_sadness_nature_merit_bacon_either_minute_sea_phrase_expand_armor
+bip_39_word_underscore_2: catalog_limit
+bip_39_word_underscore_3: catalog_limit_sadness
+bip_39_word_underscore_4: catalog_limit_sadness_nature
+bip_39_word_underscore_5: catalog_limit_sadness_nature_merit
+bip_39_word_underscore_6: catalog_limit_sadness_nature_merit_bacon
+bip_39_word_underscore_7: catalog_limit_sadness_nature_merit_bacon_either
+bip_39_word_underscore_8: catalog_limit_sadness_nature_merit_bacon_either_minute
+bip_39_word_underscore_9: catalog_limit_sadness_nature_merit_bacon_either_minute_sea
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

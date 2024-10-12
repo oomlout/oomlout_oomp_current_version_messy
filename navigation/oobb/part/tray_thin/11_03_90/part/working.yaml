@@ -1,3 +1,15 @@
+bip_39_word_dash_1: afraid
+bip_39_word_dash_10: afraid-grape-pioneer-frozen-vote-reopen-chaos-oyster-two-enact
+bip_39_word_dash_11: afraid-grape-pioneer-frozen-vote-reopen-chaos-oyster-two-enact-now
+bip_39_word_dash_12: afraid-grape-pioneer-frozen-vote-reopen-chaos-oyster-two-enact-now-amateur
+bip_39_word_dash_2: afraid-grape
+bip_39_word_dash_3: afraid-grape-pioneer
+bip_39_word_dash_4: afraid-grape-pioneer-frozen
+bip_39_word_dash_5: afraid-grape-pioneer-frozen-vote
+bip_39_word_dash_6: afraid-grape-pioneer-frozen-vote-reopen
+bip_39_word_dash_7: afraid-grape-pioneer-frozen-vote-reopen-chaos
+bip_39_word_dash_8: afraid-grape-pioneer-frozen-vote-reopen-chaos-oyster
+bip_39_word_dash_9: afraid-grape-pioneer-frozen-vote-reopen-chaos-oyster-two
 bip_39_word_new_br_1: afraid
 bip_39_word_new_br_10: afraid<br>grape<br>pioneer<br>frozen<br>vote<br>reopen<br>chaos<br>oyster<br>two<br>enact
 bip_39_word_new_br_11: afraid<br>grape<br>pioneer<br>frozen<br>vote<br>reopen<br>chaos<br>oyster<br>two<br>enact<br>now
@@ -193,6 +205,18 @@ bip_39_word_space_6: afraid grape pioneer frozen vote reopen
 bip_39_word_space_7: afraid grape pioneer frozen vote reopen chaos
 bip_39_word_space_8: afraid grape pioneer frozen vote reopen chaos oyster
 bip_39_word_space_9: afraid grape pioneer frozen vote reopen chaos oyster two
+bip_39_word_underscore_1: afraid
+bip_39_word_underscore_10: afraid_grape_pioneer_frozen_vote_reopen_chaos_oyster_two_enact
+bip_39_word_underscore_11: afraid_grape_pioneer_frozen_vote_reopen_chaos_oyster_two_enact_now
+bip_39_word_underscore_12: afraid_grape_pioneer_frozen_vote_reopen_chaos_oyster_two_enact_now_amateur
+bip_39_word_underscore_2: afraid_grape
+bip_39_word_underscore_3: afraid_grape_pioneer
+bip_39_word_underscore_4: afraid_grape_pioneer_frozen
+bip_39_word_underscore_5: afraid_grape_pioneer_frozen_vote
+bip_39_word_underscore_6: afraid_grape_pioneer_frozen_vote_reopen
+bip_39_word_underscore_7: afraid_grape_pioneer_frozen_vote_reopen_chaos
+bip_39_word_underscore_8: afraid_grape_pioneer_frozen_vote_reopen_chaos_oyster
+bip_39_word_underscore_9: afraid_grape_pioneer_frozen_vote_reopen_chaos_oyster_two
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mutual
+bip_39_word_dash_10: mutual-cycle-hollow-waste-rural-cabbage-mesh-edit-cat-sight
+bip_39_word_dash_11: mutual-cycle-hollow-waste-rural-cabbage-mesh-edit-cat-sight-magic
+bip_39_word_dash_12: mutual-cycle-hollow-waste-rural-cabbage-mesh-edit-cat-sight-magic-addict
+bip_39_word_dash_2: mutual-cycle
+bip_39_word_dash_3: mutual-cycle-hollow
+bip_39_word_dash_4: mutual-cycle-hollow-waste
+bip_39_word_dash_5: mutual-cycle-hollow-waste-rural
+bip_39_word_dash_6: mutual-cycle-hollow-waste-rural-cabbage
+bip_39_word_dash_7: mutual-cycle-hollow-waste-rural-cabbage-mesh
+bip_39_word_dash_8: mutual-cycle-hollow-waste-rural-cabbage-mesh-edit
+bip_39_word_dash_9: mutual-cycle-hollow-waste-rural-cabbage-mesh-edit-cat
 bip_39_word_new_br_1: mutual
 bip_39_word_new_br_10: mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight
 bip_39_word_new_br_11: mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight<br>magic
@@ -193,6 +205,18 @@ bip_39_word_space_6: mutual cycle hollow waste rural cabbage
 bip_39_word_space_7: mutual cycle hollow waste rural cabbage mesh
 bip_39_word_space_8: mutual cycle hollow waste rural cabbage mesh edit
 bip_39_word_space_9: mutual cycle hollow waste rural cabbage mesh edit cat
+bip_39_word_underscore_1: mutual
+bip_39_word_underscore_10: mutual_cycle_hollow_waste_rural_cabbage_mesh_edit_cat_sight
+bip_39_word_underscore_11: mutual_cycle_hollow_waste_rural_cabbage_mesh_edit_cat_sight_magic
+bip_39_word_underscore_12: mutual_cycle_hollow_waste_rural_cabbage_mesh_edit_cat_sight_magic_addict
+bip_39_word_underscore_2: mutual_cycle
+bip_39_word_underscore_3: mutual_cycle_hollow
+bip_39_word_underscore_4: mutual_cycle_hollow_waste
+bip_39_word_underscore_5: mutual_cycle_hollow_waste_rural
+bip_39_word_underscore_6: mutual_cycle_hollow_waste_rural_cabbage
+bip_39_word_underscore_7: mutual_cycle_hollow_waste_rural_cabbage_mesh
+bip_39_word_underscore_8: mutual_cycle_hollow_waste_rural_cabbage_mesh_edit
+bip_39_word_underscore_9: mutual_cycle_hollow_waste_rural_cabbage_mesh_edit_cat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

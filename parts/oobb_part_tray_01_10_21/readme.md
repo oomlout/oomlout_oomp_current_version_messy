@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bridge |  
+| bip_39_word_dash_10 | bridge-case-leg-conduct-unveil-sentence-can-element-mix-artefact |  
+| bip_39_word_dash_11 | bridge-case-leg-conduct-unveil-sentence-can-element-mix-artefact-century |  
+| bip_39_word_dash_12 | bridge-case-leg-conduct-unveil-sentence-can-element-mix-artefact-century-arctic |  
+| bip_39_word_dash_2 | bridge-case |  
+| bip_39_word_dash_3 | bridge-case-leg |  
+| bip_39_word_dash_4 | bridge-case-leg-conduct |  
+| bip_39_word_dash_5 | bridge-case-leg-conduct-unveil |  
+| bip_39_word_dash_6 | bridge-case-leg-conduct-unveil-sentence |  
+| bip_39_word_dash_7 | bridge-case-leg-conduct-unveil-sentence-can |  
+| bip_39_word_dash_8 | bridge-case-leg-conduct-unveil-sentence-can-element |  
+| bip_39_word_dash_9 | bridge-case-leg-conduct-unveil-sentence-can-element-mix |  
 | bip_39_word_new_br_1 | bridge |  
 | bip_39_word_new_br_10 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact |  
 | bip_39_word_new_br_11 | bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact<br>century |  
@@ -147,6 +159,18 @@ mix |
 | bip_39_word_space_7 | bridge case leg conduct unveil sentence can |  
 | bip_39_word_space_8 | bridge case leg conduct unveil sentence can element |  
 | bip_39_word_space_9 | bridge case leg conduct unveil sentence can element mix |  
+| bip_39_word_underscore_1 | bridge |  
+| bip_39_word_underscore_10 | bridge_case_leg_conduct_unveil_sentence_can_element_mix_artefact |  
+| bip_39_word_underscore_11 | bridge_case_leg_conduct_unveil_sentence_can_element_mix_artefact_century |  
+| bip_39_word_underscore_12 | bridge_case_leg_conduct_unveil_sentence_can_element_mix_artefact_century_arctic |  
+| bip_39_word_underscore_2 | bridge_case |  
+| bip_39_word_underscore_3 | bridge_case_leg |  
+| bip_39_word_underscore_4 | bridge_case_leg_conduct |  
+| bip_39_word_underscore_5 | bridge_case_leg_conduct_unveil |  
+| bip_39_word_underscore_6 | bridge_case_leg_conduct_unveil_sentence |  
+| bip_39_word_underscore_7 | bridge_case_leg_conduct_unveil_sentence_can |  
+| bip_39_word_underscore_8 | bridge_case_leg_conduct_unveil_sentence_can_element |  
+| bip_39_word_underscore_9 | bridge_case_leg_conduct_unveil_sentence_can_element_mix |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

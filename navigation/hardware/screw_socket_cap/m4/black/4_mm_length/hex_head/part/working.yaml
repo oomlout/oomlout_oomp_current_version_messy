@@ -1,3 +1,15 @@
+bip_39_word_dash_1: snap
+bip_39_word_dash_10: snap-dish-orchard-fence-exact-pony-viable-uniform-canal-history
+bip_39_word_dash_11: snap-dish-orchard-fence-exact-pony-viable-uniform-canal-history-blame
+bip_39_word_dash_12: snap-dish-orchard-fence-exact-pony-viable-uniform-canal-history-blame-anger
+bip_39_word_dash_2: snap-dish
+bip_39_word_dash_3: snap-dish-orchard
+bip_39_word_dash_4: snap-dish-orchard-fence
+bip_39_word_dash_5: snap-dish-orchard-fence-exact
+bip_39_word_dash_6: snap-dish-orchard-fence-exact-pony
+bip_39_word_dash_7: snap-dish-orchard-fence-exact-pony-viable
+bip_39_word_dash_8: snap-dish-orchard-fence-exact-pony-viable-uniform
+bip_39_word_dash_9: snap-dish-orchard-fence-exact-pony-viable-uniform-canal
 bip_39_word_new_br_1: snap
 bip_39_word_new_br_10: snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform<br>canal<br>history
 bip_39_word_new_br_11: snap<br>dish<br>orchard<br>fence<br>exact<br>pony<br>viable<br>uniform<br>canal<br>history<br>blame
@@ -193,6 +205,18 @@ bip_39_word_space_6: snap dish orchard fence exact pony
 bip_39_word_space_7: snap dish orchard fence exact pony viable
 bip_39_word_space_8: snap dish orchard fence exact pony viable uniform
 bip_39_word_space_9: snap dish orchard fence exact pony viable uniform canal
+bip_39_word_underscore_1: snap
+bip_39_word_underscore_10: snap_dish_orchard_fence_exact_pony_viable_uniform_canal_history
+bip_39_word_underscore_11: snap_dish_orchard_fence_exact_pony_viable_uniform_canal_history_blame
+bip_39_word_underscore_12: snap_dish_orchard_fence_exact_pony_viable_uniform_canal_history_blame_anger
+bip_39_word_underscore_2: snap_dish
+bip_39_word_underscore_3: snap_dish_orchard
+bip_39_word_underscore_4: snap_dish_orchard_fence
+bip_39_word_underscore_5: snap_dish_orchard_fence_exact
+bip_39_word_underscore_6: snap_dish_orchard_fence_exact_pony
+bip_39_word_underscore_7: snap_dish_orchard_fence_exact_pony_viable
+bip_39_word_underscore_8: snap_dish_orchard_fence_exact_pony_viable_uniform
+bip_39_word_underscore_9: snap_dish_orchard_fence_exact_pony_viable_uniform_canal
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

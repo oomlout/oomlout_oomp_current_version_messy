@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | radar |  
+| bip_39_word_dash_10 | radar-broom-shift-practice-mushroom-echo-nature-work-faith-modify |  
+| bip_39_word_dash_11 | radar-broom-shift-practice-mushroom-echo-nature-work-faith-modify-game |  
+| bip_39_word_dash_12 | radar-broom-shift-practice-mushroom-echo-nature-work-faith-modify-game-almost |  
+| bip_39_word_dash_2 | radar-broom |  
+| bip_39_word_dash_3 | radar-broom-shift |  
+| bip_39_word_dash_4 | radar-broom-shift-practice |  
+| bip_39_word_dash_5 | radar-broom-shift-practice-mushroom |  
+| bip_39_word_dash_6 | radar-broom-shift-practice-mushroom-echo |  
+| bip_39_word_dash_7 | radar-broom-shift-practice-mushroom-echo-nature |  
+| bip_39_word_dash_8 | radar-broom-shift-practice-mushroom-echo-nature-work |  
+| bip_39_word_dash_9 | radar-broom-shift-practice-mushroom-echo-nature-work-faith |  
 | bip_39_word_new_br_1 | radar |  
 | bip_39_word_new_br_10 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work<br>faith<br>modify |  
 | bip_39_word_new_br_11 | radar<br>broom<br>shift<br>practice<br>mushroom<br>echo<br>nature<br>work<br>faith<br>modify<br>game |  
@@ -147,6 +159,18 @@ faith |
 | bip_39_word_space_7 | radar broom shift practice mushroom echo nature |  
 | bip_39_word_space_8 | radar broom shift practice mushroom echo nature work |  
 | bip_39_word_space_9 | radar broom shift practice mushroom echo nature work faith |  
+| bip_39_word_underscore_1 | radar |  
+| bip_39_word_underscore_10 | radar_broom_shift_practice_mushroom_echo_nature_work_faith_modify |  
+| bip_39_word_underscore_11 | radar_broom_shift_practice_mushroom_echo_nature_work_faith_modify_game |  
+| bip_39_word_underscore_12 | radar_broom_shift_practice_mushroom_echo_nature_work_faith_modify_game_almost |  
+| bip_39_word_underscore_2 | radar_broom |  
+| bip_39_word_underscore_3 | radar_broom_shift |  
+| bip_39_word_underscore_4 | radar_broom_shift_practice |  
+| bip_39_word_underscore_5 | radar_broom_shift_practice_mushroom |  
+| bip_39_word_underscore_6 | radar_broom_shift_practice_mushroom_echo |  
+| bip_39_word_underscore_7 | radar_broom_shift_practice_mushroom_echo_nature |  
+| bip_39_word_underscore_8 | radar_broom_shift_practice_mushroom_echo_nature_work |  
+| bip_39_word_underscore_9 | radar_broom_shift_practice_mushroom_echo_nature_work_faith |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

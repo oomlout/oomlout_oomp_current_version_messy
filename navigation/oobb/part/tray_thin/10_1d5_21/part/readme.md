@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | celery |  
+| bip_39_word_dash_10 | celery-iron-lens-guess-staff-moon-cake-pull-ring-slim |  
+| bip_39_word_dash_11 | celery-iron-lens-guess-staff-moon-cake-pull-ring-slim-mom |  
+| bip_39_word_dash_12 | celery-iron-lens-guess-staff-moon-cake-pull-ring-slim-mom-alpha |  
+| bip_39_word_dash_2 | celery-iron |  
+| bip_39_word_dash_3 | celery-iron-lens |  
+| bip_39_word_dash_4 | celery-iron-lens-guess |  
+| bip_39_word_dash_5 | celery-iron-lens-guess-staff |  
+| bip_39_word_dash_6 | celery-iron-lens-guess-staff-moon |  
+| bip_39_word_dash_7 | celery-iron-lens-guess-staff-moon-cake |  
+| bip_39_word_dash_8 | celery-iron-lens-guess-staff-moon-cake-pull |  
+| bip_39_word_dash_9 | celery-iron-lens-guess-staff-moon-cake-pull-ring |  
 | bip_39_word_new_br_1 | celery |  
 | bip_39_word_new_br_10 | celery<br>iron<br>lens<br>guess<br>staff<br>moon<br>cake<br>pull<br>ring<br>slim |  
 | bip_39_word_new_br_11 | celery<br>iron<br>lens<br>guess<br>staff<br>moon<br>cake<br>pull<br>ring<br>slim<br>mom |  
@@ -147,6 +159,18 @@ ring |
 | bip_39_word_space_7 | celery iron lens guess staff moon cake |  
 | bip_39_word_space_8 | celery iron lens guess staff moon cake pull |  
 | bip_39_word_space_9 | celery iron lens guess staff moon cake pull ring |  
+| bip_39_word_underscore_1 | celery |  
+| bip_39_word_underscore_10 | celery_iron_lens_guess_staff_moon_cake_pull_ring_slim |  
+| bip_39_word_underscore_11 | celery_iron_lens_guess_staff_moon_cake_pull_ring_slim_mom |  
+| bip_39_word_underscore_12 | celery_iron_lens_guess_staff_moon_cake_pull_ring_slim_mom_alpha |  
+| bip_39_word_underscore_2 | celery_iron |  
+| bip_39_word_underscore_3 | celery_iron_lens |  
+| bip_39_word_underscore_4 | celery_iron_lens_guess |  
+| bip_39_word_underscore_5 | celery_iron_lens_guess_staff |  
+| bip_39_word_underscore_6 | celery_iron_lens_guess_staff_moon |  
+| bip_39_word_underscore_7 | celery_iron_lens_guess_staff_moon_cake |  
+| bip_39_word_underscore_8 | celery_iron_lens_guess_staff_moon_cake_pull |  
+| bip_39_word_underscore_9 | celery_iron_lens_guess_staff_moon_cake_pull_ring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

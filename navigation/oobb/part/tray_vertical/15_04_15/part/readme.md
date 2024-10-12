@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unusual |  
+| bip_39_word_dash_10 | unusual-envelope-iron-dash-height-start-nest-slide-bike-carbon |  
+| bip_39_word_dash_11 | unusual-envelope-iron-dash-height-start-nest-slide-bike-carbon-wrap |  
+| bip_39_word_dash_12 | unusual-envelope-iron-dash-height-start-nest-slide-bike-carbon-wrap-access |  
+| bip_39_word_dash_2 | unusual-envelope |  
+| bip_39_word_dash_3 | unusual-envelope-iron |  
+| bip_39_word_dash_4 | unusual-envelope-iron-dash |  
+| bip_39_word_dash_5 | unusual-envelope-iron-dash-height |  
+| bip_39_word_dash_6 | unusual-envelope-iron-dash-height-start |  
+| bip_39_word_dash_7 | unusual-envelope-iron-dash-height-start-nest |  
+| bip_39_word_dash_8 | unusual-envelope-iron-dash-height-start-nest-slide |  
+| bip_39_word_dash_9 | unusual-envelope-iron-dash-height-start-nest-slide-bike |  
 | bip_39_word_new_br_1 | unusual |  
 | bip_39_word_new_br_10 | unusual<br>envelope<br>iron<br>dash<br>height<br>start<br>nest<br>slide<br>bike<br>carbon |  
 | bip_39_word_new_br_11 | unusual<br>envelope<br>iron<br>dash<br>height<br>start<br>nest<br>slide<br>bike<br>carbon<br>wrap |  
@@ -147,6 +159,18 @@ bike |
 | bip_39_word_space_7 | unusual envelope iron dash height start nest |  
 | bip_39_word_space_8 | unusual envelope iron dash height start nest slide |  
 | bip_39_word_space_9 | unusual envelope iron dash height start nest slide bike |  
+| bip_39_word_underscore_1 | unusual |  
+| bip_39_word_underscore_10 | unusual_envelope_iron_dash_height_start_nest_slide_bike_carbon |  
+| bip_39_word_underscore_11 | unusual_envelope_iron_dash_height_start_nest_slide_bike_carbon_wrap |  
+| bip_39_word_underscore_12 | unusual_envelope_iron_dash_height_start_nest_slide_bike_carbon_wrap_access |  
+| bip_39_word_underscore_2 | unusual_envelope |  
+| bip_39_word_underscore_3 | unusual_envelope_iron |  
+| bip_39_word_underscore_4 | unusual_envelope_iron_dash |  
+| bip_39_word_underscore_5 | unusual_envelope_iron_dash_height |  
+| bip_39_word_underscore_6 | unusual_envelope_iron_dash_height_start |  
+| bip_39_word_underscore_7 | unusual_envelope_iron_dash_height_start_nest |  
+| bip_39_word_underscore_8 | unusual_envelope_iron_dash_height_start_nest_slide |  
+| bip_39_word_underscore_9 | unusual_envelope_iron_dash_height_start_nest_slide_bike |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

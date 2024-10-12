@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | border |  
+| bip_39_word_dash_10 | border-accident-bottom-school-must-first-inspire-trap-faculty-metal |  
+| bip_39_word_dash_11 | border-accident-bottom-school-must-first-inspire-trap-faculty-metal-that |  
+| bip_39_word_dash_12 | border-accident-bottom-school-must-first-inspire-trap-faculty-metal-that-alarm |  
+| bip_39_word_dash_2 | border-accident |  
+| bip_39_word_dash_3 | border-accident-bottom |  
+| bip_39_word_dash_4 | border-accident-bottom-school |  
+| bip_39_word_dash_5 | border-accident-bottom-school-must |  
+| bip_39_word_dash_6 | border-accident-bottom-school-must-first |  
+| bip_39_word_dash_7 | border-accident-bottom-school-must-first-inspire |  
+| bip_39_word_dash_8 | border-accident-bottom-school-must-first-inspire-trap |  
+| bip_39_word_dash_9 | border-accident-bottom-school-must-first-inspire-trap-faculty |  
 | bip_39_word_new_br_1 | border |  
 | bip_39_word_new_br_10 | border<br>accident<br>bottom<br>school<br>must<br>first<br>inspire<br>trap<br>faculty<br>metal |  
 | bip_39_word_new_br_11 | border<br>accident<br>bottom<br>school<br>must<br>first<br>inspire<br>trap<br>faculty<br>metal<br>that |  
@@ -147,6 +159,18 @@ faculty |
 | bip_39_word_space_7 | border accident bottom school must first inspire |  
 | bip_39_word_space_8 | border accident bottom school must first inspire trap |  
 | bip_39_word_space_9 | border accident bottom school must first inspire trap faculty |  
+| bip_39_word_underscore_1 | border |  
+| bip_39_word_underscore_10 | border_accident_bottom_school_must_first_inspire_trap_faculty_metal |  
+| bip_39_word_underscore_11 | border_accident_bottom_school_must_first_inspire_trap_faculty_metal_that |  
+| bip_39_word_underscore_12 | border_accident_bottom_school_must_first_inspire_trap_faculty_metal_that_alarm |  
+| bip_39_word_underscore_2 | border_accident |  
+| bip_39_word_underscore_3 | border_accident_bottom |  
+| bip_39_word_underscore_4 | border_accident_bottom_school |  
+| bip_39_word_underscore_5 | border_accident_bottom_school_must |  
+| bip_39_word_underscore_6 | border_accident_bottom_school_must_first |  
+| bip_39_word_underscore_7 | border_accident_bottom_school_must_first_inspire |  
+| bip_39_word_underscore_8 | border_accident_bottom_school_must_first_inspire_trap |  
+| bip_39_word_underscore_9 | border_accident_bottom_school_must_first_inspire_trap_faculty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

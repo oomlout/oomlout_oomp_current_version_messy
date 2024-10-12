@@ -1,3 +1,15 @@
+bip_39_word_dash_1: call
+bip_39_word_dash_10: call-amused-embrace-extra-hungry-vivid-wrist-steak-economy-rib
+bip_39_word_dash_11: call-amused-embrace-extra-hungry-vivid-wrist-steak-economy-rib-excess
+bip_39_word_dash_12: call-amused-embrace-extra-hungry-vivid-wrist-steak-economy-rib-excess-annual
+bip_39_word_dash_2: call-amused
+bip_39_word_dash_3: call-amused-embrace
+bip_39_word_dash_4: call-amused-embrace-extra
+bip_39_word_dash_5: call-amused-embrace-extra-hungry
+bip_39_word_dash_6: call-amused-embrace-extra-hungry-vivid
+bip_39_word_dash_7: call-amused-embrace-extra-hungry-vivid-wrist
+bip_39_word_dash_8: call-amused-embrace-extra-hungry-vivid-wrist-steak
+bip_39_word_dash_9: call-amused-embrace-extra-hungry-vivid-wrist-steak-economy
 bip_39_word_new_br_1: call
 bip_39_word_new_br_10: call<br>amused<br>embrace<br>extra<br>hungry<br>vivid<br>wrist<br>steak<br>economy<br>rib
 bip_39_word_new_br_11: call<br>amused<br>embrace<br>extra<br>hungry<br>vivid<br>wrist<br>steak<br>economy<br>rib<br>excess
@@ -193,6 +205,18 @@ bip_39_word_space_6: call amused embrace extra hungry vivid
 bip_39_word_space_7: call amused embrace extra hungry vivid wrist
 bip_39_word_space_8: call amused embrace extra hungry vivid wrist steak
 bip_39_word_space_9: call amused embrace extra hungry vivid wrist steak economy
+bip_39_word_underscore_1: call
+bip_39_word_underscore_10: call_amused_embrace_extra_hungry_vivid_wrist_steak_economy_rib
+bip_39_word_underscore_11: call_amused_embrace_extra_hungry_vivid_wrist_steak_economy_rib_excess
+bip_39_word_underscore_12: call_amused_embrace_extra_hungry_vivid_wrist_steak_economy_rib_excess_annual
+bip_39_word_underscore_2: call_amused
+bip_39_word_underscore_3: call_amused_embrace
+bip_39_word_underscore_4: call_amused_embrace_extra
+bip_39_word_underscore_5: call_amused_embrace_extra_hungry
+bip_39_word_underscore_6: call_amused_embrace_extra_hungry_vivid
+bip_39_word_underscore_7: call_amused_embrace_extra_hungry_vivid_wrist
+bip_39_word_underscore_8: call_amused_embrace_extra_hungry_vivid_wrist_steak
+bip_39_word_underscore_9: call_amused_embrace_extra_hungry_vivid_wrist_steak_economy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

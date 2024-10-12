@@ -1,3 +1,14 @@
+bip_39_word_dash_1: pass
+bip_39_word_dash_10: pass-party-kick-kingdom-lamp-lion-brand-athlete-basket-brick
+bip_39_word_dash_11: pass-party-kick-kingdom-lamp-lion-brand-athlete-basket-brick-cost
+bip_39_word_dash_2: pass-party
+bip_39_word_dash_3: pass-party-kick
+bip_39_word_dash_4: pass-party-kick-kingdom
+bip_39_word_dash_5: pass-party-kick-kingdom-lamp
+bip_39_word_dash_6: pass-party-kick-kingdom-lamp-lion
+bip_39_word_dash_7: pass-party-kick-kingdom-lamp-lion-brand
+bip_39_word_dash_8: pass-party-kick-kingdom-lamp-lion-brand-athlete
+bip_39_word_dash_9: pass-party-kick-kingdom-lamp-lion-brand-athlete-basket
 bip_39_word_new_br_1: pass
 bip_39_word_new_br_10: pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand<br>athlete<br>basket<br>brick
 bip_39_word_new_br_11: pass<br>party<br>kick<br>kingdom<br>lamp<br>lion<br>brand<br>athlete<br>basket<br>brick<br>cost
@@ -165,6 +176,17 @@ bip_39_word_space_6: pass party kick kingdom lamp lion
 bip_39_word_space_7: pass party kick kingdom lamp lion brand
 bip_39_word_space_8: pass party kick kingdom lamp lion brand athlete
 bip_39_word_space_9: pass party kick kingdom lamp lion brand athlete basket
+bip_39_word_underscore_1: pass
+bip_39_word_underscore_10: pass_party_kick_kingdom_lamp_lion_brand_athlete_basket_brick
+bip_39_word_underscore_11: pass_party_kick_kingdom_lamp_lion_brand_athlete_basket_brick_cost
+bip_39_word_underscore_2: pass_party
+bip_39_word_underscore_3: pass_party_kick
+bip_39_word_underscore_4: pass_party_kick_kingdom
+bip_39_word_underscore_5: pass_party_kick_kingdom_lamp
+bip_39_word_underscore_6: pass_party_kick_kingdom_lamp_lion
+bip_39_word_underscore_7: pass_party_kick_kingdom_lamp_lion_brand
+bip_39_word_underscore_8: pass_party_kick_kingdom_lamp_lion_brand_athlete
+bip_39_word_underscore_9: pass_party_kick_kingdom_lamp_lion_brand_athlete_basket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

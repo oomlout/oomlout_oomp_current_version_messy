@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cross |  
+| bip_39_word_dash_10 | cross-lab-dash-ceiling-gauge-find-slam-puppy-penalty-phone |  
+| bip_39_word_dash_11 | cross-lab-dash-ceiling-gauge-find-slam-puppy-penalty-phone-topic |  
+| bip_39_word_dash_12 | cross-lab-dash-ceiling-gauge-find-slam-puppy-penalty-phone-topic-average |  
+| bip_39_word_dash_2 | cross-lab |  
+| bip_39_word_dash_3 | cross-lab-dash |  
+| bip_39_word_dash_4 | cross-lab-dash-ceiling |  
+| bip_39_word_dash_5 | cross-lab-dash-ceiling-gauge |  
+| bip_39_word_dash_6 | cross-lab-dash-ceiling-gauge-find |  
+| bip_39_word_dash_7 | cross-lab-dash-ceiling-gauge-find-slam |  
+| bip_39_word_dash_8 | cross-lab-dash-ceiling-gauge-find-slam-puppy |  
+| bip_39_word_dash_9 | cross-lab-dash-ceiling-gauge-find-slam-puppy-penalty |  
 | bip_39_word_new_br_1 | cross |  
 | bip_39_word_new_br_10 | cross<br>lab<br>dash<br>ceiling<br>gauge<br>find<br>slam<br>puppy<br>penalty<br>phone |  
 | bip_39_word_new_br_11 | cross<br>lab<br>dash<br>ceiling<br>gauge<br>find<br>slam<br>puppy<br>penalty<br>phone<br>topic |  
@@ -147,6 +159,18 @@ penalty |
 | bip_39_word_space_7 | cross lab dash ceiling gauge find slam |  
 | bip_39_word_space_8 | cross lab dash ceiling gauge find slam puppy |  
 | bip_39_word_space_9 | cross lab dash ceiling gauge find slam puppy penalty |  
+| bip_39_word_underscore_1 | cross |  
+| bip_39_word_underscore_10 | cross_lab_dash_ceiling_gauge_find_slam_puppy_penalty_phone |  
+| bip_39_word_underscore_11 | cross_lab_dash_ceiling_gauge_find_slam_puppy_penalty_phone_topic |  
+| bip_39_word_underscore_12 | cross_lab_dash_ceiling_gauge_find_slam_puppy_penalty_phone_topic_average |  
+| bip_39_word_underscore_2 | cross_lab |  
+| bip_39_word_underscore_3 | cross_lab_dash |  
+| bip_39_word_underscore_4 | cross_lab_dash_ceiling |  
+| bip_39_word_underscore_5 | cross_lab_dash_ceiling_gauge |  
+| bip_39_word_underscore_6 | cross_lab_dash_ceiling_gauge_find |  
+| bip_39_word_underscore_7 | cross_lab_dash_ceiling_gauge_find_slam |  
+| bip_39_word_underscore_8 | cross_lab_dash_ceiling_gauge_find_slam_puppy |  
+| bip_39_word_underscore_9 | cross_lab_dash_ceiling_gauge_find_slam_puppy_penalty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

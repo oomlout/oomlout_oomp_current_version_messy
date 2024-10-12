@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exercise |  
+| bip_39_word_dash_10 | exercise-mansion-wheel-inner-road-sniff-health-deposit-boat-divorce |  
+| bip_39_word_dash_11 | exercise-mansion-wheel-inner-road-sniff-health-deposit-boat-divorce-ripple |  
+| bip_39_word_dash_12 | exercise-mansion-wheel-inner-road-sniff-health-deposit-boat-divorce-ripple-angry |  
+| bip_39_word_dash_2 | exercise-mansion |  
+| bip_39_word_dash_3 | exercise-mansion-wheel |  
+| bip_39_word_dash_4 | exercise-mansion-wheel-inner |  
+| bip_39_word_dash_5 | exercise-mansion-wheel-inner-road |  
+| bip_39_word_dash_6 | exercise-mansion-wheel-inner-road-sniff |  
+| bip_39_word_dash_7 | exercise-mansion-wheel-inner-road-sniff-health |  
+| bip_39_word_dash_8 | exercise-mansion-wheel-inner-road-sniff-health-deposit |  
+| bip_39_word_dash_9 | exercise-mansion-wheel-inner-road-sniff-health-deposit-boat |  
 | bip_39_word_new_br_1 | exercise |  
 | bip_39_word_new_br_10 | exercise<br>mansion<br>wheel<br>inner<br>road<br>sniff<br>health<br>deposit<br>boat<br>divorce |  
 | bip_39_word_new_br_11 | exercise<br>mansion<br>wheel<br>inner<br>road<br>sniff<br>health<br>deposit<br>boat<br>divorce<br>ripple |  
@@ -147,6 +159,18 @@ boat |
 | bip_39_word_space_7 | exercise mansion wheel inner road sniff health |  
 | bip_39_word_space_8 | exercise mansion wheel inner road sniff health deposit |  
 | bip_39_word_space_9 | exercise mansion wheel inner road sniff health deposit boat |  
+| bip_39_word_underscore_1 | exercise |  
+| bip_39_word_underscore_10 | exercise_mansion_wheel_inner_road_sniff_health_deposit_boat_divorce |  
+| bip_39_word_underscore_11 | exercise_mansion_wheel_inner_road_sniff_health_deposit_boat_divorce_ripple |  
+| bip_39_word_underscore_12 | exercise_mansion_wheel_inner_road_sniff_health_deposit_boat_divorce_ripple_angry |  
+| bip_39_word_underscore_2 | exercise_mansion |  
+| bip_39_word_underscore_3 | exercise_mansion_wheel |  
+| bip_39_word_underscore_4 | exercise_mansion_wheel_inner |  
+| bip_39_word_underscore_5 | exercise_mansion_wheel_inner_road |  
+| bip_39_word_underscore_6 | exercise_mansion_wheel_inner_road_sniff |  
+| bip_39_word_underscore_7 | exercise_mansion_wheel_inner_road_sniff_health |  
+| bip_39_word_underscore_8 | exercise_mansion_wheel_inner_road_sniff_health_deposit |  
+| bip_39_word_underscore_9 | exercise_mansion_wheel_inner_road_sniff_health_deposit_boat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

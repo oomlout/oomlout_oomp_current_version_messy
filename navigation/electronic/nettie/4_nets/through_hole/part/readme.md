@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | open |  
+| bip_39_word_dash_10 | open-enact-grab-swallow-glance-photo-evoke-six-mountain-quick |  
+| bip_39_word_dash_11 | open-enact-grab-swallow-glance-photo-evoke-six-mountain-quick-citizen |  
+| bip_39_word_dash_12 | open-enact-grab-swallow-glance-photo-evoke-six-mountain-quick-citizen-approve |  
+| bip_39_word_dash_2 | open-enact |  
+| bip_39_word_dash_3 | open-enact-grab |  
+| bip_39_word_dash_4 | open-enact-grab-swallow |  
+| bip_39_word_dash_5 | open-enact-grab-swallow-glance |  
+| bip_39_word_dash_6 | open-enact-grab-swallow-glance-photo |  
+| bip_39_word_dash_7 | open-enact-grab-swallow-glance-photo-evoke |  
+| bip_39_word_dash_8 | open-enact-grab-swallow-glance-photo-evoke-six |  
+| bip_39_word_dash_9 | open-enact-grab-swallow-glance-photo-evoke-six-mountain |  
 | bip_39_word_new_br_1 | open |  
 | bip_39_word_new_br_10 | open<br>enact<br>grab<br>swallow<br>glance<br>photo<br>evoke<br>six<br>mountain<br>quick |  
 | bip_39_word_new_br_11 | open<br>enact<br>grab<br>swallow<br>glance<br>photo<br>evoke<br>six<br>mountain<br>quick<br>citizen |  
@@ -147,6 +159,18 @@ mountain |
 | bip_39_word_space_7 | open enact grab swallow glance photo evoke |  
 | bip_39_word_space_8 | open enact grab swallow glance photo evoke six |  
 | bip_39_word_space_9 | open enact grab swallow glance photo evoke six mountain |  
+| bip_39_word_underscore_1 | open |  
+| bip_39_word_underscore_10 | open_enact_grab_swallow_glance_photo_evoke_six_mountain_quick |  
+| bip_39_word_underscore_11 | open_enact_grab_swallow_glance_photo_evoke_six_mountain_quick_citizen |  
+| bip_39_word_underscore_12 | open_enact_grab_swallow_glance_photo_evoke_six_mountain_quick_citizen_approve |  
+| bip_39_word_underscore_2 | open_enact |  
+| bip_39_word_underscore_3 | open_enact_grab |  
+| bip_39_word_underscore_4 | open_enact_grab_swallow |  
+| bip_39_word_underscore_5 | open_enact_grab_swallow_glance |  
+| bip_39_word_underscore_6 | open_enact_grab_swallow_glance_photo |  
+| bip_39_word_underscore_7 | open_enact_grab_swallow_glance_photo_evoke |  
+| bip_39_word_underscore_8 | open_enact_grab_swallow_glance_photo_evoke_six |  
+| bip_39_word_underscore_9 | open_enact_grab_swallow_glance_photo_evoke_six_mountain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

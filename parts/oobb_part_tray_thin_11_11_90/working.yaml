@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shoe
+bip_39_word_dash_10: shoe-voice-marriage-drop-sentence-reveal-roast-acquire-will-now
+bip_39_word_dash_11: shoe-voice-marriage-drop-sentence-reveal-roast-acquire-will-now-window
+bip_39_word_dash_12: shoe-voice-marriage-drop-sentence-reveal-roast-acquire-will-now-window-alley
+bip_39_word_dash_2: shoe-voice
+bip_39_word_dash_3: shoe-voice-marriage
+bip_39_word_dash_4: shoe-voice-marriage-drop
+bip_39_word_dash_5: shoe-voice-marriage-drop-sentence
+bip_39_word_dash_6: shoe-voice-marriage-drop-sentence-reveal
+bip_39_word_dash_7: shoe-voice-marriage-drop-sentence-reveal-roast
+bip_39_word_dash_8: shoe-voice-marriage-drop-sentence-reveal-roast-acquire
+bip_39_word_dash_9: shoe-voice-marriage-drop-sentence-reveal-roast-acquire-will
 bip_39_word_new_br_1: shoe
 bip_39_word_new_br_10: shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire<br>will<br>now
 bip_39_word_new_br_11: shoe<br>voice<br>marriage<br>drop<br>sentence<br>reveal<br>roast<br>acquire<br>will<br>now<br>window
@@ -194,6 +206,18 @@ bip_39_word_space_6: shoe voice marriage drop sentence reveal
 bip_39_word_space_7: shoe voice marriage drop sentence reveal roast
 bip_39_word_space_8: shoe voice marriage drop sentence reveal roast acquire
 bip_39_word_space_9: shoe voice marriage drop sentence reveal roast acquire will
+bip_39_word_underscore_1: shoe
+bip_39_word_underscore_10: shoe_voice_marriage_drop_sentence_reveal_roast_acquire_will_now
+bip_39_word_underscore_11: shoe_voice_marriage_drop_sentence_reveal_roast_acquire_will_now_window
+bip_39_word_underscore_12: shoe_voice_marriage_drop_sentence_reveal_roast_acquire_will_now_window_alley
+bip_39_word_underscore_2: shoe_voice
+bip_39_word_underscore_3: shoe_voice_marriage
+bip_39_word_underscore_4: shoe_voice_marriage_drop
+bip_39_word_underscore_5: shoe_voice_marriage_drop_sentence
+bip_39_word_underscore_6: shoe_voice_marriage_drop_sentence_reveal
+bip_39_word_underscore_7: shoe_voice_marriage_drop_sentence_reveal_roast
+bip_39_word_underscore_8: shoe_voice_marriage_drop_sentence_reveal_roast_acquire
+bip_39_word_underscore_9: shoe_voice_marriage_drop_sentence_reveal_roast_acquire_will
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

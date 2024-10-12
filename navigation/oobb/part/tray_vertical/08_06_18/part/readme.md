@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ocean |  
+| bip_39_word_dash_10 | ocean-entry-popular-wife-cupboard-industry-best-chuckle-warrior-rather |  
+| bip_39_word_dash_11 | ocean-entry-popular-wife-cupboard-industry-best-chuckle-warrior-rather-mask |  
+| bip_39_word_dash_12 | ocean-entry-popular-wife-cupboard-industry-best-chuckle-warrior-rather-mask-auto |  
+| bip_39_word_dash_2 | ocean-entry |  
+| bip_39_word_dash_3 | ocean-entry-popular |  
+| bip_39_word_dash_4 | ocean-entry-popular-wife |  
+| bip_39_word_dash_5 | ocean-entry-popular-wife-cupboard |  
+| bip_39_word_dash_6 | ocean-entry-popular-wife-cupboard-industry |  
+| bip_39_word_dash_7 | ocean-entry-popular-wife-cupboard-industry-best |  
+| bip_39_word_dash_8 | ocean-entry-popular-wife-cupboard-industry-best-chuckle |  
+| bip_39_word_dash_9 | ocean-entry-popular-wife-cupboard-industry-best-chuckle-warrior |  
 | bip_39_word_new_br_1 | ocean |  
 | bip_39_word_new_br_10 | ocean<br>entry<br>popular<br>wife<br>cupboard<br>industry<br>best<br>chuckle<br>warrior<br>rather |  
 | bip_39_word_new_br_11 | ocean<br>entry<br>popular<br>wife<br>cupboard<br>industry<br>best<br>chuckle<br>warrior<br>rather<br>mask |  
@@ -147,6 +159,18 @@ warrior |
 | bip_39_word_space_7 | ocean entry popular wife cupboard industry best |  
 | bip_39_word_space_8 | ocean entry popular wife cupboard industry best chuckle |  
 | bip_39_word_space_9 | ocean entry popular wife cupboard industry best chuckle warrior |  
+| bip_39_word_underscore_1 | ocean |  
+| bip_39_word_underscore_10 | ocean_entry_popular_wife_cupboard_industry_best_chuckle_warrior_rather |  
+| bip_39_word_underscore_11 | ocean_entry_popular_wife_cupboard_industry_best_chuckle_warrior_rather_mask |  
+| bip_39_word_underscore_12 | ocean_entry_popular_wife_cupboard_industry_best_chuckle_warrior_rather_mask_auto |  
+| bip_39_word_underscore_2 | ocean_entry |  
+| bip_39_word_underscore_3 | ocean_entry_popular |  
+| bip_39_word_underscore_4 | ocean_entry_popular_wife |  
+| bip_39_word_underscore_5 | ocean_entry_popular_wife_cupboard |  
+| bip_39_word_underscore_6 | ocean_entry_popular_wife_cupboard_industry |  
+| bip_39_word_underscore_7 | ocean_entry_popular_wife_cupboard_industry_best |  
+| bip_39_word_underscore_8 | ocean_entry_popular_wife_cupboard_industry_best_chuckle |  
+| bip_39_word_underscore_9 | ocean_entry_popular_wife_cupboard_industry_best_chuckle_warrior |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

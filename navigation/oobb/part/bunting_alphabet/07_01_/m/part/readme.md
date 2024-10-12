@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silent |  
+| bip_39_word_dash_10 | silent-chronic-stone-brave-ancient-palm-city-achieve-usage-adult |  
+| bip_39_word_dash_11 | silent-chronic-stone-brave-ancient-palm-city-achieve-usage-adult-virtual |  
+| bip_39_word_dash_12 | silent-chronic-stone-brave-ancient-palm-city-achieve-usage-adult-virtual-again |  
+| bip_39_word_dash_2 | silent-chronic |  
+| bip_39_word_dash_3 | silent-chronic-stone |  
+| bip_39_word_dash_4 | silent-chronic-stone-brave |  
+| bip_39_word_dash_5 | silent-chronic-stone-brave-ancient |  
+| bip_39_word_dash_6 | silent-chronic-stone-brave-ancient-palm |  
+| bip_39_word_dash_7 | silent-chronic-stone-brave-ancient-palm-city |  
+| bip_39_word_dash_8 | silent-chronic-stone-brave-ancient-palm-city-achieve |  
+| bip_39_word_dash_9 | silent-chronic-stone-brave-ancient-palm-city-achieve-usage |  
 | bip_39_word_new_br_1 | silent |  
 | bip_39_word_new_br_10 | silent<br>chronic<br>stone<br>brave<br>ancient<br>palm<br>city<br>achieve<br>usage<br>adult |  
 | bip_39_word_new_br_11 | silent<br>chronic<br>stone<br>brave<br>ancient<br>palm<br>city<br>achieve<br>usage<br>adult<br>virtual |  
@@ -147,6 +159,18 @@ usage |
 | bip_39_word_space_7 | silent chronic stone brave ancient palm city |  
 | bip_39_word_space_8 | silent chronic stone brave ancient palm city achieve |  
 | bip_39_word_space_9 | silent chronic stone brave ancient palm city achieve usage |  
+| bip_39_word_underscore_1 | silent |  
+| bip_39_word_underscore_10 | silent_chronic_stone_brave_ancient_palm_city_achieve_usage_adult |  
+| bip_39_word_underscore_11 | silent_chronic_stone_brave_ancient_palm_city_achieve_usage_adult_virtual |  
+| bip_39_word_underscore_12 | silent_chronic_stone_brave_ancient_palm_city_achieve_usage_adult_virtual_again |  
+| bip_39_word_underscore_2 | silent_chronic |  
+| bip_39_word_underscore_3 | silent_chronic_stone |  
+| bip_39_word_underscore_4 | silent_chronic_stone_brave |  
+| bip_39_word_underscore_5 | silent_chronic_stone_brave_ancient |  
+| bip_39_word_underscore_6 | silent_chronic_stone_brave_ancient_palm |  
+| bip_39_word_underscore_7 | silent_chronic_stone_brave_ancient_palm_city |  
+| bip_39_word_underscore_8 | silent_chronic_stone_brave_ancient_palm_city_achieve |  
+| bip_39_word_underscore_9 | silent_chronic_stone_brave_ancient_palm_city_achieve_usage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

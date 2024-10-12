@@ -1,3 +1,15 @@
+bip_39_word_dash_1: legend
+bip_39_word_dash_10: legend-speak-load-echo-rotate-virus-organ-say-cliff-cup
+bip_39_word_dash_11: legend-speak-load-echo-rotate-virus-organ-say-cliff-cup-edge
+bip_39_word_dash_12: legend-speak-load-echo-rotate-virus-organ-say-cliff-cup-edge-absurd
+bip_39_word_dash_2: legend-speak
+bip_39_word_dash_3: legend-speak-load
+bip_39_word_dash_4: legend-speak-load-echo
+bip_39_word_dash_5: legend-speak-load-echo-rotate
+bip_39_word_dash_6: legend-speak-load-echo-rotate-virus
+bip_39_word_dash_7: legend-speak-load-echo-rotate-virus-organ
+bip_39_word_dash_8: legend-speak-load-echo-rotate-virus-organ-say
+bip_39_word_dash_9: legend-speak-load-echo-rotate-virus-organ-say-cliff
 bip_39_word_new_br_1: legend
 bip_39_word_new_br_10: legend<br>speak<br>load<br>echo<br>rotate<br>virus<br>organ<br>say<br>cliff<br>cup
 bip_39_word_new_br_11: legend<br>speak<br>load<br>echo<br>rotate<br>virus<br>organ<br>say<br>cliff<br>cup<br>edge
@@ -192,6 +204,18 @@ bip_39_word_space_6: legend speak load echo rotate virus
 bip_39_word_space_7: legend speak load echo rotate virus organ
 bip_39_word_space_8: legend speak load echo rotate virus organ say
 bip_39_word_space_9: legend speak load echo rotate virus organ say cliff
+bip_39_word_underscore_1: legend
+bip_39_word_underscore_10: legend_speak_load_echo_rotate_virus_organ_say_cliff_cup
+bip_39_word_underscore_11: legend_speak_load_echo_rotate_virus_organ_say_cliff_cup_edge
+bip_39_word_underscore_12: legend_speak_load_echo_rotate_virus_organ_say_cliff_cup_edge_absurd
+bip_39_word_underscore_2: legend_speak
+bip_39_word_underscore_3: legend_speak_load
+bip_39_word_underscore_4: legend_speak_load_echo
+bip_39_word_underscore_5: legend_speak_load_echo_rotate
+bip_39_word_underscore_6: legend_speak_load_echo_rotate_virus
+bip_39_word_underscore_7: legend_speak_load_echo_rotate_virus_organ
+bip_39_word_underscore_8: legend_speak_load_echo_rotate_virus_organ_say
+bip_39_word_underscore_9: legend_speak_load_echo_rotate_virus_organ_say_cliff
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ripple
+bip_39_word_dash_10: ripple-stick-syrup-youth-robot-tone-hen-tag-series-noodle
+bip_39_word_dash_11: ripple-stick-syrup-youth-robot-tone-hen-tag-series-noodle-practice
+bip_39_word_dash_12: ripple-stick-syrup-youth-robot-tone-hen-tag-series-noodle-practice-absent
+bip_39_word_dash_2: ripple-stick
+bip_39_word_dash_3: ripple-stick-syrup
+bip_39_word_dash_4: ripple-stick-syrup-youth
+bip_39_word_dash_5: ripple-stick-syrup-youth-robot
+bip_39_word_dash_6: ripple-stick-syrup-youth-robot-tone
+bip_39_word_dash_7: ripple-stick-syrup-youth-robot-tone-hen
+bip_39_word_dash_8: ripple-stick-syrup-youth-robot-tone-hen-tag
+bip_39_word_dash_9: ripple-stick-syrup-youth-robot-tone-hen-tag-series
 bip_39_word_new_br_1: ripple
 bip_39_word_new_br_10: ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag<br>series<br>noodle
 bip_39_word_new_br_11: ripple<br>stick<br>syrup<br>youth<br>robot<br>tone<br>hen<br>tag<br>series<br>noodle<br>practice
@@ -192,6 +204,18 @@ bip_39_word_space_6: ripple stick syrup youth robot tone
 bip_39_word_space_7: ripple stick syrup youth robot tone hen
 bip_39_word_space_8: ripple stick syrup youth robot tone hen tag
 bip_39_word_space_9: ripple stick syrup youth robot tone hen tag series
+bip_39_word_underscore_1: ripple
+bip_39_word_underscore_10: ripple_stick_syrup_youth_robot_tone_hen_tag_series_noodle
+bip_39_word_underscore_11: ripple_stick_syrup_youth_robot_tone_hen_tag_series_noodle_practice
+bip_39_word_underscore_12: ripple_stick_syrup_youth_robot_tone_hen_tag_series_noodle_practice_absent
+bip_39_word_underscore_2: ripple_stick
+bip_39_word_underscore_3: ripple_stick_syrup
+bip_39_word_underscore_4: ripple_stick_syrup_youth
+bip_39_word_underscore_5: ripple_stick_syrup_youth_robot
+bip_39_word_underscore_6: ripple_stick_syrup_youth_robot_tone
+bip_39_word_underscore_7: ripple_stick_syrup_youth_robot_tone_hen
+bip_39_word_underscore_8: ripple_stick_syrup_youth_robot_tone_hen_tag
+bip_39_word_underscore_9: ripple_stick_syrup_youth_robot_tone_hen_tag_series
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

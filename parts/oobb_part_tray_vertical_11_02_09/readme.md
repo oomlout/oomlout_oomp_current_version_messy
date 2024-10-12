@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hour |  
+| bip_39_word_dash_10 | hour-ginger-voyage-maple-reward-female-hollow-number-arm-rain |  
+| bip_39_word_dash_11 | hour-ginger-voyage-maple-reward-female-hollow-number-arm-rain-sight |  
+| bip_39_word_dash_12 | hour-ginger-voyage-maple-reward-female-hollow-number-arm-rain-sight-about |  
+| bip_39_word_dash_2 | hour-ginger |  
+| bip_39_word_dash_3 | hour-ginger-voyage |  
+| bip_39_word_dash_4 | hour-ginger-voyage-maple |  
+| bip_39_word_dash_5 | hour-ginger-voyage-maple-reward |  
+| bip_39_word_dash_6 | hour-ginger-voyage-maple-reward-female |  
+| bip_39_word_dash_7 | hour-ginger-voyage-maple-reward-female-hollow |  
+| bip_39_word_dash_8 | hour-ginger-voyage-maple-reward-female-hollow-number |  
+| bip_39_word_dash_9 | hour-ginger-voyage-maple-reward-female-hollow-number-arm |  
 | bip_39_word_new_br_1 | hour |  
 | bip_39_word_new_br_10 | hour<br>ginger<br>voyage<br>maple<br>reward<br>female<br>hollow<br>number<br>arm<br>rain |  
 | bip_39_word_new_br_11 | hour<br>ginger<br>voyage<br>maple<br>reward<br>female<br>hollow<br>number<br>arm<br>rain<br>sight |  
@@ -147,6 +159,18 @@ arm |
 | bip_39_word_space_7 | hour ginger voyage maple reward female hollow |  
 | bip_39_word_space_8 | hour ginger voyage maple reward female hollow number |  
 | bip_39_word_space_9 | hour ginger voyage maple reward female hollow number arm |  
+| bip_39_word_underscore_1 | hour |  
+| bip_39_word_underscore_10 | hour_ginger_voyage_maple_reward_female_hollow_number_arm_rain |  
+| bip_39_word_underscore_11 | hour_ginger_voyage_maple_reward_female_hollow_number_arm_rain_sight |  
+| bip_39_word_underscore_12 | hour_ginger_voyage_maple_reward_female_hollow_number_arm_rain_sight_about |  
+| bip_39_word_underscore_2 | hour_ginger |  
+| bip_39_word_underscore_3 | hour_ginger_voyage |  
+| bip_39_word_underscore_4 | hour_ginger_voyage_maple |  
+| bip_39_word_underscore_5 | hour_ginger_voyage_maple_reward |  
+| bip_39_word_underscore_6 | hour_ginger_voyage_maple_reward_female |  
+| bip_39_word_underscore_7 | hour_ginger_voyage_maple_reward_female_hollow |  
+| bip_39_word_underscore_8 | hour_ginger_voyage_maple_reward_female_hollow_number |  
+| bip_39_word_underscore_9 | hour_ginger_voyage_maple_reward_female_hollow_number_arm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

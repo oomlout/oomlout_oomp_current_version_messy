@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jealous |  
+| bip_39_word_dash_10 | jealous-people-seek-border-domain-knock-wife-moment-edit-target |  
+| bip_39_word_dash_11 | jealous-people-seek-border-domain-knock-wife-moment-edit-target-excuse |  
+| bip_39_word_dash_12 | jealous-people-seek-border-domain-knock-wife-moment-edit-target-excuse-approve |  
+| bip_39_word_dash_2 | jealous-people |  
+| bip_39_word_dash_3 | jealous-people-seek |  
+| bip_39_word_dash_4 | jealous-people-seek-border |  
+| bip_39_word_dash_5 | jealous-people-seek-border-domain |  
+| bip_39_word_dash_6 | jealous-people-seek-border-domain-knock |  
+| bip_39_word_dash_7 | jealous-people-seek-border-domain-knock-wife |  
+| bip_39_word_dash_8 | jealous-people-seek-border-domain-knock-wife-moment |  
+| bip_39_word_dash_9 | jealous-people-seek-border-domain-knock-wife-moment-edit |  
 | bip_39_word_new_br_1 | jealous |  
 | bip_39_word_new_br_10 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target |  
 | bip_39_word_new_br_11 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target<br>excuse |  
@@ -147,6 +159,18 @@ edit |
 | bip_39_word_space_7 | jealous people seek border domain knock wife |  
 | bip_39_word_space_8 | jealous people seek border domain knock wife moment |  
 | bip_39_word_space_9 | jealous people seek border domain knock wife moment edit |  
+| bip_39_word_underscore_1 | jealous |  
+| bip_39_word_underscore_10 | jealous_people_seek_border_domain_knock_wife_moment_edit_target |  
+| bip_39_word_underscore_11 | jealous_people_seek_border_domain_knock_wife_moment_edit_target_excuse |  
+| bip_39_word_underscore_12 | jealous_people_seek_border_domain_knock_wife_moment_edit_target_excuse_approve |  
+| bip_39_word_underscore_2 | jealous_people |  
+| bip_39_word_underscore_3 | jealous_people_seek |  
+| bip_39_word_underscore_4 | jealous_people_seek_border |  
+| bip_39_word_underscore_5 | jealous_people_seek_border_domain |  
+| bip_39_word_underscore_6 | jealous_people_seek_border_domain_knock |  
+| bip_39_word_underscore_7 | jealous_people_seek_border_domain_knock_wife |  
+| bip_39_word_underscore_8 | jealous_people_seek_border_domain_knock_wife_moment |  
+| bip_39_word_underscore_9 | jealous_people_seek_border_domain_knock_wife_moment_edit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

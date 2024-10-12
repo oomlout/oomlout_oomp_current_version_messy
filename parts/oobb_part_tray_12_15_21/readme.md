@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stove |  
+| bip_39_word_dash_10 | stove-gym-atom-obvious-sorry-switch-tuna-vivid-laptop-future |  
+| bip_39_word_dash_11 | stove-gym-atom-obvious-sorry-switch-tuna-vivid-laptop-future-neglect |  
+| bip_39_word_dash_12 | stove-gym-atom-obvious-sorry-switch-tuna-vivid-laptop-future-neglect-audit |  
+| bip_39_word_dash_2 | stove-gym |  
+| bip_39_word_dash_3 | stove-gym-atom |  
+| bip_39_word_dash_4 | stove-gym-atom-obvious |  
+| bip_39_word_dash_5 | stove-gym-atom-obvious-sorry |  
+| bip_39_word_dash_6 | stove-gym-atom-obvious-sorry-switch |  
+| bip_39_word_dash_7 | stove-gym-atom-obvious-sorry-switch-tuna |  
+| bip_39_word_dash_8 | stove-gym-atom-obvious-sorry-switch-tuna-vivid |  
+| bip_39_word_dash_9 | stove-gym-atom-obvious-sorry-switch-tuna-vivid-laptop |  
 | bip_39_word_new_br_1 | stove |  
 | bip_39_word_new_br_10 | stove<br>gym<br>atom<br>obvious<br>sorry<br>switch<br>tuna<br>vivid<br>laptop<br>future |  
 | bip_39_word_new_br_11 | stove<br>gym<br>atom<br>obvious<br>sorry<br>switch<br>tuna<br>vivid<br>laptop<br>future<br>neglect |  
@@ -147,6 +159,18 @@ laptop |
 | bip_39_word_space_7 | stove gym atom obvious sorry switch tuna |  
 | bip_39_word_space_8 | stove gym atom obvious sorry switch tuna vivid |  
 | bip_39_word_space_9 | stove gym atom obvious sorry switch tuna vivid laptop |  
+| bip_39_word_underscore_1 | stove |  
+| bip_39_word_underscore_10 | stove_gym_atom_obvious_sorry_switch_tuna_vivid_laptop_future |  
+| bip_39_word_underscore_11 | stove_gym_atom_obvious_sorry_switch_tuna_vivid_laptop_future_neglect |  
+| bip_39_word_underscore_12 | stove_gym_atom_obvious_sorry_switch_tuna_vivid_laptop_future_neglect_audit |  
+| bip_39_word_underscore_2 | stove_gym |  
+| bip_39_word_underscore_3 | stove_gym_atom |  
+| bip_39_word_underscore_4 | stove_gym_atom_obvious |  
+| bip_39_word_underscore_5 | stove_gym_atom_obvious_sorry |  
+| bip_39_word_underscore_6 | stove_gym_atom_obvious_sorry_switch |  
+| bip_39_word_underscore_7 | stove_gym_atom_obvious_sorry_switch_tuna |  
+| bip_39_word_underscore_8 | stove_gym_atom_obvious_sorry_switch_tuna_vivid |  
+| bip_39_word_underscore_9 | stove_gym_atom_obvious_sorry_switch_tuna_vivid_laptop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

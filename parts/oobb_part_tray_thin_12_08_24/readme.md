@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | table |  
+| bip_39_word_dash_10 | table-cricket-law-glad-comfort-connect-nut-divorce-love-position |  
+| bip_39_word_dash_11 | table-cricket-law-glad-comfort-connect-nut-divorce-love-position-pipe |  
+| bip_39_word_dash_12 | table-cricket-law-glad-comfort-connect-nut-divorce-love-position-pipe-amused |  
+| bip_39_word_dash_2 | table-cricket |  
+| bip_39_word_dash_3 | table-cricket-law |  
+| bip_39_word_dash_4 | table-cricket-law-glad |  
+| bip_39_word_dash_5 | table-cricket-law-glad-comfort |  
+| bip_39_word_dash_6 | table-cricket-law-glad-comfort-connect |  
+| bip_39_word_dash_7 | table-cricket-law-glad-comfort-connect-nut |  
+| bip_39_word_dash_8 | table-cricket-law-glad-comfort-connect-nut-divorce |  
+| bip_39_word_dash_9 | table-cricket-law-glad-comfort-connect-nut-divorce-love |  
 | bip_39_word_new_br_1 | table |  
 | bip_39_word_new_br_10 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce<br>love<br>position |  
 | bip_39_word_new_br_11 | table<br>cricket<br>law<br>glad<br>comfort<br>connect<br>nut<br>divorce<br>love<br>position<br>pipe |  
@@ -147,6 +159,18 @@ love |
 | bip_39_word_space_7 | table cricket law glad comfort connect nut |  
 | bip_39_word_space_8 | table cricket law glad comfort connect nut divorce |  
 | bip_39_word_space_9 | table cricket law glad comfort connect nut divorce love |  
+| bip_39_word_underscore_1 | table |  
+| bip_39_word_underscore_10 | table_cricket_law_glad_comfort_connect_nut_divorce_love_position |  
+| bip_39_word_underscore_11 | table_cricket_law_glad_comfort_connect_nut_divorce_love_position_pipe |  
+| bip_39_word_underscore_12 | table_cricket_law_glad_comfort_connect_nut_divorce_love_position_pipe_amused |  
+| bip_39_word_underscore_2 | table_cricket |  
+| bip_39_word_underscore_3 | table_cricket_law |  
+| bip_39_word_underscore_4 | table_cricket_law_glad |  
+| bip_39_word_underscore_5 | table_cricket_law_glad_comfort |  
+| bip_39_word_underscore_6 | table_cricket_law_glad_comfort_connect |  
+| bip_39_word_underscore_7 | table_cricket_law_glad_comfort_connect_nut |  
+| bip_39_word_underscore_8 | table_cricket_law_glad_comfort_connect_nut_divorce |  
+| bip_39_word_underscore_9 | table_cricket_law_glad_comfort_connect_nut_divorce_love |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

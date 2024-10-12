@@ -1,3 +1,15 @@
+bip_39_word_dash_1: affair
+bip_39_word_dash_10: affair-tree-fossil-brave-tag-inhale-return-deputy-flee-skin
+bip_39_word_dash_11: affair-tree-fossil-brave-tag-inhale-return-deputy-flee-skin-brave
+bip_39_word_dash_12: affair-tree-fossil-brave-tag-inhale-return-deputy-flee-skin-brave-assist
+bip_39_word_dash_2: affair-tree
+bip_39_word_dash_3: affair-tree-fossil
+bip_39_word_dash_4: affair-tree-fossil-brave
+bip_39_word_dash_5: affair-tree-fossil-brave-tag
+bip_39_word_dash_6: affair-tree-fossil-brave-tag-inhale
+bip_39_word_dash_7: affair-tree-fossil-brave-tag-inhale-return
+bip_39_word_dash_8: affair-tree-fossil-brave-tag-inhale-return-deputy
+bip_39_word_dash_9: affair-tree-fossil-brave-tag-inhale-return-deputy-flee
 bip_39_word_new_br_1: affair
 bip_39_word_new_br_10: affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin
 bip_39_word_new_br_11: affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin<br>brave
@@ -193,6 +205,18 @@ bip_39_word_space_6: affair tree fossil brave tag inhale
 bip_39_word_space_7: affair tree fossil brave tag inhale return
 bip_39_word_space_8: affair tree fossil brave tag inhale return deputy
 bip_39_word_space_9: affair tree fossil brave tag inhale return deputy flee
+bip_39_word_underscore_1: affair
+bip_39_word_underscore_10: affair_tree_fossil_brave_tag_inhale_return_deputy_flee_skin
+bip_39_word_underscore_11: affair_tree_fossil_brave_tag_inhale_return_deputy_flee_skin_brave
+bip_39_word_underscore_12: affair_tree_fossil_brave_tag_inhale_return_deputy_flee_skin_brave_assist
+bip_39_word_underscore_2: affair_tree
+bip_39_word_underscore_3: affair_tree_fossil
+bip_39_word_underscore_4: affair_tree_fossil_brave
+bip_39_word_underscore_5: affair_tree_fossil_brave_tag
+bip_39_word_underscore_6: affair_tree_fossil_brave_tag_inhale
+bip_39_word_underscore_7: affair_tree_fossil_brave_tag_inhale_return
+bip_39_word_underscore_8: affair_tree_fossil_brave_tag_inhale_return_deputy
+bip_39_word_underscore_9: affair_tree_fossil_brave_tag_inhale_return_deputy_flee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

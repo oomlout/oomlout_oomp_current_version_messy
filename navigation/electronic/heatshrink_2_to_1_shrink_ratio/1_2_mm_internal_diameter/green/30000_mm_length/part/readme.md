@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | humor |  
+| bip_39_word_dash_10 | humor-penalty-method-tooth-shallow-cousin-rapid-join-easy-denial |  
+| bip_39_word_dash_11 | humor-penalty-method-tooth-shallow-cousin-rapid-join-easy-denial-tissue |  
+| bip_39_word_dash_12 | humor-penalty-method-tooth-shallow-cousin-rapid-join-easy-denial-tissue-absorb |  
+| bip_39_word_dash_2 | humor-penalty |  
+| bip_39_word_dash_3 | humor-penalty-method |  
+| bip_39_word_dash_4 | humor-penalty-method-tooth |  
+| bip_39_word_dash_5 | humor-penalty-method-tooth-shallow |  
+| bip_39_word_dash_6 | humor-penalty-method-tooth-shallow-cousin |  
+| bip_39_word_dash_7 | humor-penalty-method-tooth-shallow-cousin-rapid |  
+| bip_39_word_dash_8 | humor-penalty-method-tooth-shallow-cousin-rapid-join |  
+| bip_39_word_dash_9 | humor-penalty-method-tooth-shallow-cousin-rapid-join-easy |  
 | bip_39_word_new_br_1 | humor |  
 | bip_39_word_new_br_10 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join<br>easy<br>denial |  
 | bip_39_word_new_br_11 | humor<br>penalty<br>method<br>tooth<br>shallow<br>cousin<br>rapid<br>join<br>easy<br>denial<br>tissue |  
@@ -147,6 +159,18 @@ easy |
 | bip_39_word_space_7 | humor penalty method tooth shallow cousin rapid |  
 | bip_39_word_space_8 | humor penalty method tooth shallow cousin rapid join |  
 | bip_39_word_space_9 | humor penalty method tooth shallow cousin rapid join easy |  
+| bip_39_word_underscore_1 | humor |  
+| bip_39_word_underscore_10 | humor_penalty_method_tooth_shallow_cousin_rapid_join_easy_denial |  
+| bip_39_word_underscore_11 | humor_penalty_method_tooth_shallow_cousin_rapid_join_easy_denial_tissue |  
+| bip_39_word_underscore_12 | humor_penalty_method_tooth_shallow_cousin_rapid_join_easy_denial_tissue_absorb |  
+| bip_39_word_underscore_2 | humor_penalty |  
+| bip_39_word_underscore_3 | humor_penalty_method |  
+| bip_39_word_underscore_4 | humor_penalty_method_tooth |  
+| bip_39_word_underscore_5 | humor_penalty_method_tooth_shallow |  
+| bip_39_word_underscore_6 | humor_penalty_method_tooth_shallow_cousin |  
+| bip_39_word_underscore_7 | humor_penalty_method_tooth_shallow_cousin_rapid |  
+| bip_39_word_underscore_8 | humor_penalty_method_tooth_shallow_cousin_rapid_join |  
+| bip_39_word_underscore_9 | humor_penalty_method_tooth_shallow_cousin_rapid_join_easy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

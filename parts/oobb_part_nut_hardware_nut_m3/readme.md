@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | poverty |  
+| bip_39_word_dash_10 | poverty-there-undo-picture-reflect-found-garment-elevator-mask-flame |  
+| bip_39_word_dash_11 | poverty-there-undo-picture-reflect-found-garment-elevator-mask-flame-depart |  
+| bip_39_word_dash_12 | poverty-there-undo-picture-reflect-found-garment-elevator-mask-flame-depart-alpha |  
+| bip_39_word_dash_2 | poverty-there |  
+| bip_39_word_dash_3 | poverty-there-undo |  
+| bip_39_word_dash_4 | poverty-there-undo-picture |  
+| bip_39_word_dash_5 | poverty-there-undo-picture-reflect |  
+| bip_39_word_dash_6 | poverty-there-undo-picture-reflect-found |  
+| bip_39_word_dash_7 | poverty-there-undo-picture-reflect-found-garment |  
+| bip_39_word_dash_8 | poverty-there-undo-picture-reflect-found-garment-elevator |  
+| bip_39_word_dash_9 | poverty-there-undo-picture-reflect-found-garment-elevator-mask |  
 | bip_39_word_new_br_1 | poverty |  
 | bip_39_word_new_br_10 | poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator<br>mask<br>flame |  
 | bip_39_word_new_br_11 | poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator<br>mask<br>flame<br>depart |  
@@ -147,6 +159,18 @@ mask |
 | bip_39_word_space_7 | poverty there undo picture reflect found garment |  
 | bip_39_word_space_8 | poverty there undo picture reflect found garment elevator |  
 | bip_39_word_space_9 | poverty there undo picture reflect found garment elevator mask |  
+| bip_39_word_underscore_1 | poverty |  
+| bip_39_word_underscore_10 | poverty_there_undo_picture_reflect_found_garment_elevator_mask_flame |  
+| bip_39_word_underscore_11 | poverty_there_undo_picture_reflect_found_garment_elevator_mask_flame_depart |  
+| bip_39_word_underscore_12 | poverty_there_undo_picture_reflect_found_garment_elevator_mask_flame_depart_alpha |  
+| bip_39_word_underscore_2 | poverty_there |  
+| bip_39_word_underscore_3 | poverty_there_undo |  
+| bip_39_word_underscore_4 | poverty_there_undo_picture |  
+| bip_39_word_underscore_5 | poverty_there_undo_picture_reflect |  
+| bip_39_word_underscore_6 | poverty_there_undo_picture_reflect_found |  
+| bip_39_word_underscore_7 | poverty_there_undo_picture_reflect_found_garment |  
+| bip_39_word_underscore_8 | poverty_there_undo_picture_reflect_found_garment_elevator |  
+| bip_39_word_underscore_9 | poverty_there_undo_picture_reflect_found_garment_elevator_mask |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

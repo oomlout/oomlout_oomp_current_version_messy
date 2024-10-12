@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pull |  
+| bip_39_word_dash_10 | pull-festival-vacuum-duty-culture-hotel-rose-fitness-message-saddle |  
+| bip_39_word_dash_11 | pull-festival-vacuum-duty-culture-hotel-rose-fitness-message-saddle-afraid |  
+| bip_39_word_dash_12 | pull-festival-vacuum-duty-culture-hotel-rose-fitness-message-saddle-afraid-august |  
+| bip_39_word_dash_2 | pull-festival |  
+| bip_39_word_dash_3 | pull-festival-vacuum |  
+| bip_39_word_dash_4 | pull-festival-vacuum-duty |  
+| bip_39_word_dash_5 | pull-festival-vacuum-duty-culture |  
+| bip_39_word_dash_6 | pull-festival-vacuum-duty-culture-hotel |  
+| bip_39_word_dash_7 | pull-festival-vacuum-duty-culture-hotel-rose |  
+| bip_39_word_dash_8 | pull-festival-vacuum-duty-culture-hotel-rose-fitness |  
+| bip_39_word_dash_9 | pull-festival-vacuum-duty-culture-hotel-rose-fitness-message |  
 | bip_39_word_new_br_1 | pull |  
 | bip_39_word_new_br_10 | pull<br>festival<br>vacuum<br>duty<br>culture<br>hotel<br>rose<br>fitness<br>message<br>saddle |  
 | bip_39_word_new_br_11 | pull<br>festival<br>vacuum<br>duty<br>culture<br>hotel<br>rose<br>fitness<br>message<br>saddle<br>afraid |  
@@ -147,6 +159,18 @@ message |
 | bip_39_word_space_7 | pull festival vacuum duty culture hotel rose |  
 | bip_39_word_space_8 | pull festival vacuum duty culture hotel rose fitness |  
 | bip_39_word_space_9 | pull festival vacuum duty culture hotel rose fitness message |  
+| bip_39_word_underscore_1 | pull |  
+| bip_39_word_underscore_10 | pull_festival_vacuum_duty_culture_hotel_rose_fitness_message_saddle |  
+| bip_39_word_underscore_11 | pull_festival_vacuum_duty_culture_hotel_rose_fitness_message_saddle_afraid |  
+| bip_39_word_underscore_12 | pull_festival_vacuum_duty_culture_hotel_rose_fitness_message_saddle_afraid_august |  
+| bip_39_word_underscore_2 | pull_festival |  
+| bip_39_word_underscore_3 | pull_festival_vacuum |  
+| bip_39_word_underscore_4 | pull_festival_vacuum_duty |  
+| bip_39_word_underscore_5 | pull_festival_vacuum_duty_culture |  
+| bip_39_word_underscore_6 | pull_festival_vacuum_duty_culture_hotel |  
+| bip_39_word_underscore_7 | pull_festival_vacuum_duty_culture_hotel_rose |  
+| bip_39_word_underscore_8 | pull_festival_vacuum_duty_culture_hotel_rose_fitness |  
+| bip_39_word_underscore_9 | pull_festival_vacuum_duty_culture_hotel_rose_fitness_message |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | forest |  
+| bip_39_word_dash_10 | forest-dentist-apart-punch-entry-puzzle-arrow-vital-poem-image |  
+| bip_39_word_dash_11 | forest-dentist-apart-punch-entry-puzzle-arrow-vital-poem-image-abandon |  
+| bip_39_word_dash_12 | forest-dentist-apart-punch-entry-puzzle-arrow-vital-poem-image-abandon-argue |  
+| bip_39_word_dash_2 | forest-dentist |  
+| bip_39_word_dash_3 | forest-dentist-apart |  
+| bip_39_word_dash_4 | forest-dentist-apart-punch |  
+| bip_39_word_dash_5 | forest-dentist-apart-punch-entry |  
+| bip_39_word_dash_6 | forest-dentist-apart-punch-entry-puzzle |  
+| bip_39_word_dash_7 | forest-dentist-apart-punch-entry-puzzle-arrow |  
+| bip_39_word_dash_8 | forest-dentist-apart-punch-entry-puzzle-arrow-vital |  
+| bip_39_word_dash_9 | forest-dentist-apart-punch-entry-puzzle-arrow-vital-poem |  
 | bip_39_word_new_br_1 | forest |  
 | bip_39_word_new_br_10 | forest<br>dentist<br>apart<br>punch<br>entry<br>puzzle<br>arrow<br>vital<br>poem<br>image |  
 | bip_39_word_new_br_11 | forest<br>dentist<br>apart<br>punch<br>entry<br>puzzle<br>arrow<br>vital<br>poem<br>image<br>abandon |  
@@ -147,6 +159,18 @@ poem |
 | bip_39_word_space_7 | forest dentist apart punch entry puzzle arrow |  
 | bip_39_word_space_8 | forest dentist apart punch entry puzzle arrow vital |  
 | bip_39_word_space_9 | forest dentist apart punch entry puzzle arrow vital poem |  
+| bip_39_word_underscore_1 | forest |  
+| bip_39_word_underscore_10 | forest_dentist_apart_punch_entry_puzzle_arrow_vital_poem_image |  
+| bip_39_word_underscore_11 | forest_dentist_apart_punch_entry_puzzle_arrow_vital_poem_image_abandon |  
+| bip_39_word_underscore_12 | forest_dentist_apart_punch_entry_puzzle_arrow_vital_poem_image_abandon_argue |  
+| bip_39_word_underscore_2 | forest_dentist |  
+| bip_39_word_underscore_3 | forest_dentist_apart |  
+| bip_39_word_underscore_4 | forest_dentist_apart_punch |  
+| bip_39_word_underscore_5 | forest_dentist_apart_punch_entry |  
+| bip_39_word_underscore_6 | forest_dentist_apart_punch_entry_puzzle |  
+| bip_39_word_underscore_7 | forest_dentist_apart_punch_entry_puzzle_arrow |  
+| bip_39_word_underscore_8 | forest_dentist_apart_punch_entry_puzzle_arrow_vital |  
+| bip_39_word_underscore_9 | forest_dentist_apart_punch_entry_puzzle_arrow_vital_poem |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

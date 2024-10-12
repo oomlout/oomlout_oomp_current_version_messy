@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wet |  
+| bip_39_word_dash_10 | wet-reward-glow-melody-ride-lyrics-opinion-anchor-rude-actor |  
+| bip_39_word_dash_11 | wet-reward-glow-melody-ride-lyrics-opinion-anchor-rude-actor-zoo |  
+| bip_39_word_dash_12 | wet-reward-glow-melody-ride-lyrics-opinion-anchor-rude-actor-zoo-apple |  
+| bip_39_word_dash_2 | wet-reward |  
+| bip_39_word_dash_3 | wet-reward-glow |  
+| bip_39_word_dash_4 | wet-reward-glow-melody |  
+| bip_39_word_dash_5 | wet-reward-glow-melody-ride |  
+| bip_39_word_dash_6 | wet-reward-glow-melody-ride-lyrics |  
+| bip_39_word_dash_7 | wet-reward-glow-melody-ride-lyrics-opinion |  
+| bip_39_word_dash_8 | wet-reward-glow-melody-ride-lyrics-opinion-anchor |  
+| bip_39_word_dash_9 | wet-reward-glow-melody-ride-lyrics-opinion-anchor-rude |  
 | bip_39_word_new_br_1 | wet |  
 | bip_39_word_new_br_10 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor<br>rude<br>actor |  
 | bip_39_word_new_br_11 | wet<br>reward<br>glow<br>melody<br>ride<br>lyrics<br>opinion<br>anchor<br>rude<br>actor<br>zoo |  
@@ -147,6 +159,18 @@ rude |
 | bip_39_word_space_7 | wet reward glow melody ride lyrics opinion |  
 | bip_39_word_space_8 | wet reward glow melody ride lyrics opinion anchor |  
 | bip_39_word_space_9 | wet reward glow melody ride lyrics opinion anchor rude |  
+| bip_39_word_underscore_1 | wet |  
+| bip_39_word_underscore_10 | wet_reward_glow_melody_ride_lyrics_opinion_anchor_rude_actor |  
+| bip_39_word_underscore_11 | wet_reward_glow_melody_ride_lyrics_opinion_anchor_rude_actor_zoo |  
+| bip_39_word_underscore_12 | wet_reward_glow_melody_ride_lyrics_opinion_anchor_rude_actor_zoo_apple |  
+| bip_39_word_underscore_2 | wet_reward |  
+| bip_39_word_underscore_3 | wet_reward_glow |  
+| bip_39_word_underscore_4 | wet_reward_glow_melody |  
+| bip_39_word_underscore_5 | wet_reward_glow_melody_ride |  
+| bip_39_word_underscore_6 | wet_reward_glow_melody_ride_lyrics |  
+| bip_39_word_underscore_7 | wet_reward_glow_melody_ride_lyrics_opinion |  
+| bip_39_word_underscore_8 | wet_reward_glow_melody_ride_lyrics_opinion_anchor |  
+| bip_39_word_underscore_9 | wet_reward_glow_melody_ride_lyrics_opinion_anchor_rude |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

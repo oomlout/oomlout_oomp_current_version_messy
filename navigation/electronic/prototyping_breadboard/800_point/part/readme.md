@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hobby |  
+| bip_39_word_dash_10 | hobby-spider-addict-dilemma-vessel-fold-immune-educate-sister-spare |  
+| bip_39_word_dash_11 | hobby-spider-addict-dilemma-vessel-fold-immune-educate-sister-spare-hunt |  
+| bip_39_word_dash_12 | hobby-spider-addict-dilemma-vessel-fold-immune-educate-sister-spare-hunt-apple |  
+| bip_39_word_dash_2 | hobby-spider |  
+| bip_39_word_dash_3 | hobby-spider-addict |  
+| bip_39_word_dash_4 | hobby-spider-addict-dilemma |  
+| bip_39_word_dash_5 | hobby-spider-addict-dilemma-vessel |  
+| bip_39_word_dash_6 | hobby-spider-addict-dilemma-vessel-fold |  
+| bip_39_word_dash_7 | hobby-spider-addict-dilemma-vessel-fold-immune |  
+| bip_39_word_dash_8 | hobby-spider-addict-dilemma-vessel-fold-immune-educate |  
+| bip_39_word_dash_9 | hobby-spider-addict-dilemma-vessel-fold-immune-educate-sister |  
 | bip_39_word_new_br_1 | hobby |  
 | bip_39_word_new_br_10 | hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate<br>sister<br>spare |  
 | bip_39_word_new_br_11 | hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate<br>sister<br>spare<br>hunt |  
@@ -147,6 +159,18 @@ sister |
 | bip_39_word_space_7 | hobby spider addict dilemma vessel fold immune |  
 | bip_39_word_space_8 | hobby spider addict dilemma vessel fold immune educate |  
 | bip_39_word_space_9 | hobby spider addict dilemma vessel fold immune educate sister |  
+| bip_39_word_underscore_1 | hobby |  
+| bip_39_word_underscore_10 | hobby_spider_addict_dilemma_vessel_fold_immune_educate_sister_spare |  
+| bip_39_word_underscore_11 | hobby_spider_addict_dilemma_vessel_fold_immune_educate_sister_spare_hunt |  
+| bip_39_word_underscore_12 | hobby_spider_addict_dilemma_vessel_fold_immune_educate_sister_spare_hunt_apple |  
+| bip_39_word_underscore_2 | hobby_spider |  
+| bip_39_word_underscore_3 | hobby_spider_addict |  
+| bip_39_word_underscore_4 | hobby_spider_addict_dilemma |  
+| bip_39_word_underscore_5 | hobby_spider_addict_dilemma_vessel |  
+| bip_39_word_underscore_6 | hobby_spider_addict_dilemma_vessel_fold |  
+| bip_39_word_underscore_7 | hobby_spider_addict_dilemma_vessel_fold_immune |  
+| bip_39_word_underscore_8 | hobby_spider_addict_dilemma_vessel_fold_immune_educate |  
+| bip_39_word_underscore_9 | hobby_spider_addict_dilemma_vessel_fold_immune_educate_sister |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

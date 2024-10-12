@@ -1,3 +1,15 @@
+bip_39_word_dash_1: buyer
+bip_39_word_dash_10: buyer-shiver-day-bean-tiny-action-hungry-usage-flower-cross
+bip_39_word_dash_11: buyer-shiver-day-bean-tiny-action-hungry-usage-flower-cross-citizen
+bip_39_word_dash_12: buyer-shiver-day-bean-tiny-action-hungry-usage-flower-cross-citizen-angry
+bip_39_word_dash_2: buyer-shiver
+bip_39_word_dash_3: buyer-shiver-day
+bip_39_word_dash_4: buyer-shiver-day-bean
+bip_39_word_dash_5: buyer-shiver-day-bean-tiny
+bip_39_word_dash_6: buyer-shiver-day-bean-tiny-action
+bip_39_word_dash_7: buyer-shiver-day-bean-tiny-action-hungry
+bip_39_word_dash_8: buyer-shiver-day-bean-tiny-action-hungry-usage
+bip_39_word_dash_9: buyer-shiver-day-bean-tiny-action-hungry-usage-flower
 bip_39_word_new_br_1: buyer
 bip_39_word_new_br_10: buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross
 bip_39_word_new_br_11: buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross<br>citizen
@@ -193,6 +205,18 @@ bip_39_word_space_6: buyer shiver day bean tiny action
 bip_39_word_space_7: buyer shiver day bean tiny action hungry
 bip_39_word_space_8: buyer shiver day bean tiny action hungry usage
 bip_39_word_space_9: buyer shiver day bean tiny action hungry usage flower
+bip_39_word_underscore_1: buyer
+bip_39_word_underscore_10: buyer_shiver_day_bean_tiny_action_hungry_usage_flower_cross
+bip_39_word_underscore_11: buyer_shiver_day_bean_tiny_action_hungry_usage_flower_cross_citizen
+bip_39_word_underscore_12: buyer_shiver_day_bean_tiny_action_hungry_usage_flower_cross_citizen_angry
+bip_39_word_underscore_2: buyer_shiver
+bip_39_word_underscore_3: buyer_shiver_day
+bip_39_word_underscore_4: buyer_shiver_day_bean
+bip_39_word_underscore_5: buyer_shiver_day_bean_tiny
+bip_39_word_underscore_6: buyer_shiver_day_bean_tiny_action
+bip_39_word_underscore_7: buyer_shiver_day_bean_tiny_action_hungry
+bip_39_word_underscore_8: buyer_shiver_day_bean_tiny_action_hungry_usage
+bip_39_word_underscore_9: buyer_shiver_day_bean_tiny_action_hungry_usage_flower
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | common |  
+| bip_39_word_dash_10 | common-notice-cupboard-onion-art-era-pet-blame-switch-piano |  
+| bip_39_word_dash_11 | common-notice-cupboard-onion-art-era-pet-blame-switch-piano-tube |  
+| bip_39_word_dash_12 | common-notice-cupboard-onion-art-era-pet-blame-switch-piano-tube-assume |  
+| bip_39_word_dash_2 | common-notice |  
+| bip_39_word_dash_3 | common-notice-cupboard |  
+| bip_39_word_dash_4 | common-notice-cupboard-onion |  
+| bip_39_word_dash_5 | common-notice-cupboard-onion-art |  
+| bip_39_word_dash_6 | common-notice-cupboard-onion-art-era |  
+| bip_39_word_dash_7 | common-notice-cupboard-onion-art-era-pet |  
+| bip_39_word_dash_8 | common-notice-cupboard-onion-art-era-pet-blame |  
+| bip_39_word_dash_9 | common-notice-cupboard-onion-art-era-pet-blame-switch |  
 | bip_39_word_new_br_1 | common |  
 | bip_39_word_new_br_10 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame<br>switch<br>piano |  
 | bip_39_word_new_br_11 | common<br>notice<br>cupboard<br>onion<br>art<br>era<br>pet<br>blame<br>switch<br>piano<br>tube |  
@@ -147,6 +159,18 @@ switch |
 | bip_39_word_space_7 | common notice cupboard onion art era pet |  
 | bip_39_word_space_8 | common notice cupboard onion art era pet blame |  
 | bip_39_word_space_9 | common notice cupboard onion art era pet blame switch |  
+| bip_39_word_underscore_1 | common |  
+| bip_39_word_underscore_10 | common_notice_cupboard_onion_art_era_pet_blame_switch_piano |  
+| bip_39_word_underscore_11 | common_notice_cupboard_onion_art_era_pet_blame_switch_piano_tube |  
+| bip_39_word_underscore_12 | common_notice_cupboard_onion_art_era_pet_blame_switch_piano_tube_assume |  
+| bip_39_word_underscore_2 | common_notice |  
+| bip_39_word_underscore_3 | common_notice_cupboard |  
+| bip_39_word_underscore_4 | common_notice_cupboard_onion |  
+| bip_39_word_underscore_5 | common_notice_cupboard_onion_art |  
+| bip_39_word_underscore_6 | common_notice_cupboard_onion_art_era |  
+| bip_39_word_underscore_7 | common_notice_cupboard_onion_art_era_pet |  
+| bip_39_word_underscore_8 | common_notice_cupboard_onion_art_era_pet_blame |  
+| bip_39_word_underscore_9 | common_notice_cupboard_onion_art_era_pet_blame_switch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

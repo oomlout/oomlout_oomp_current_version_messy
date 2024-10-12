@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | calm |  
+| bip_39_word_dash_10 | calm-update-network-kangaroo-eye-silk-total-laundry-bar-issue |  
+| bip_39_word_dash_11 | calm-update-network-kangaroo-eye-silk-total-laundry-bar-issue-lizard |  
+| bip_39_word_dash_12 | calm-update-network-kangaroo-eye-silk-total-laundry-bar-issue-lizard-antenna |  
+| bip_39_word_dash_2 | calm-update |  
+| bip_39_word_dash_3 | calm-update-network |  
+| bip_39_word_dash_4 | calm-update-network-kangaroo |  
+| bip_39_word_dash_5 | calm-update-network-kangaroo-eye |  
+| bip_39_word_dash_6 | calm-update-network-kangaroo-eye-silk |  
+| bip_39_word_dash_7 | calm-update-network-kangaroo-eye-silk-total |  
+| bip_39_word_dash_8 | calm-update-network-kangaroo-eye-silk-total-laundry |  
+| bip_39_word_dash_9 | calm-update-network-kangaroo-eye-silk-total-laundry-bar |  
 | bip_39_word_new_br_1 | calm |  
 | bip_39_word_new_br_10 | calm<br>update<br>network<br>kangaroo<br>eye<br>silk<br>total<br>laundry<br>bar<br>issue |  
 | bip_39_word_new_br_11 | calm<br>update<br>network<br>kangaroo<br>eye<br>silk<br>total<br>laundry<br>bar<br>issue<br>lizard |  
@@ -147,6 +159,18 @@ bar |
 | bip_39_word_space_7 | calm update network kangaroo eye silk total |  
 | bip_39_word_space_8 | calm update network kangaroo eye silk total laundry |  
 | bip_39_word_space_9 | calm update network kangaroo eye silk total laundry bar |  
+| bip_39_word_underscore_1 | calm |  
+| bip_39_word_underscore_10 | calm_update_network_kangaroo_eye_silk_total_laundry_bar_issue |  
+| bip_39_word_underscore_11 | calm_update_network_kangaroo_eye_silk_total_laundry_bar_issue_lizard |  
+| bip_39_word_underscore_12 | calm_update_network_kangaroo_eye_silk_total_laundry_bar_issue_lizard_antenna |  
+| bip_39_word_underscore_2 | calm_update |  
+| bip_39_word_underscore_3 | calm_update_network |  
+| bip_39_word_underscore_4 | calm_update_network_kangaroo |  
+| bip_39_word_underscore_5 | calm_update_network_kangaroo_eye |  
+| bip_39_word_underscore_6 | calm_update_network_kangaroo_eye_silk |  
+| bip_39_word_underscore_7 | calm_update_network_kangaroo_eye_silk_total |  
+| bip_39_word_underscore_8 | calm_update_network_kangaroo_eye_silk_total_laundry |  
+| bip_39_word_underscore_9 | calm_update_network_kangaroo_eye_silk_total_laundry_bar |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

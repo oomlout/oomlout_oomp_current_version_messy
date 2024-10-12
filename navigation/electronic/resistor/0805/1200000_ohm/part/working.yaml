@@ -1,3 +1,15 @@
+bip_39_word_dash_1: accident
+bip_39_word_dash_10: accident-behind-feature-token-document-crystal-sense-copy-slam-lizard
+bip_39_word_dash_11: accident-behind-feature-token-document-crystal-sense-copy-slam-lizard-harvest
+bip_39_word_dash_12: accident-behind-feature-token-document-crystal-sense-copy-slam-lizard-harvest-alert
+bip_39_word_dash_2: accident-behind
+bip_39_word_dash_3: accident-behind-feature
+bip_39_word_dash_4: accident-behind-feature-token
+bip_39_word_dash_5: accident-behind-feature-token-document
+bip_39_word_dash_6: accident-behind-feature-token-document-crystal
+bip_39_word_dash_7: accident-behind-feature-token-document-crystal-sense
+bip_39_word_dash_8: accident-behind-feature-token-document-crystal-sense-copy
+bip_39_word_dash_9: accident-behind-feature-token-document-crystal-sense-copy-slam
 bip_39_word_new_br_1: accident
 bip_39_word_new_br_10: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard
 bip_39_word_new_br_11: accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard<br>harvest
@@ -194,6 +206,18 @@ bip_39_word_space_6: accident behind feature token document crystal
 bip_39_word_space_7: accident behind feature token document crystal sense
 bip_39_word_space_8: accident behind feature token document crystal sense copy
 bip_39_word_space_9: accident behind feature token document crystal sense copy slam
+bip_39_word_underscore_1: accident
+bip_39_word_underscore_10: accident_behind_feature_token_document_crystal_sense_copy_slam_lizard
+bip_39_word_underscore_11: accident_behind_feature_token_document_crystal_sense_copy_slam_lizard_harvest
+bip_39_word_underscore_12: accident_behind_feature_token_document_crystal_sense_copy_slam_lizard_harvest_alert
+bip_39_word_underscore_2: accident_behind
+bip_39_word_underscore_3: accident_behind_feature
+bip_39_word_underscore_4: accident_behind_feature_token
+bip_39_word_underscore_5: accident_behind_feature_token_document
+bip_39_word_underscore_6: accident_behind_feature_token_document_crystal
+bip_39_word_underscore_7: accident_behind_feature_token_document_crystal_sense
+bip_39_word_underscore_8: accident_behind_feature_token_document_crystal_sense_copy
+bip_39_word_underscore_9: accident_behind_feature_token_document_crystal_sense_copy_slam
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

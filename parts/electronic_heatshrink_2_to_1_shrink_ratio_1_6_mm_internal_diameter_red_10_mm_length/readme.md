@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aerobic |  
+| bip_39_word_dash_10 | aerobic-chimney-luxury-cash-goat-choice-denial-maple-custom-drive |  
+| bip_39_word_dash_11 | aerobic-chimney-luxury-cash-goat-choice-denial-maple-custom-drive-want |  
+| bip_39_word_dash_12 | aerobic-chimney-luxury-cash-goat-choice-denial-maple-custom-drive-want-army |  
+| bip_39_word_dash_2 | aerobic-chimney |  
+| bip_39_word_dash_3 | aerobic-chimney-luxury |  
+| bip_39_word_dash_4 | aerobic-chimney-luxury-cash |  
+| bip_39_word_dash_5 | aerobic-chimney-luxury-cash-goat |  
+| bip_39_word_dash_6 | aerobic-chimney-luxury-cash-goat-choice |  
+| bip_39_word_dash_7 | aerobic-chimney-luxury-cash-goat-choice-denial |  
+| bip_39_word_dash_8 | aerobic-chimney-luxury-cash-goat-choice-denial-maple |  
+| bip_39_word_dash_9 | aerobic-chimney-luxury-cash-goat-choice-denial-maple-custom |  
 | bip_39_word_new_br_1 | aerobic |  
 | bip_39_word_new_br_10 | aerobic<br>chimney<br>luxury<br>cash<br>goat<br>choice<br>denial<br>maple<br>custom<br>drive |  
 | bip_39_word_new_br_11 | aerobic<br>chimney<br>luxury<br>cash<br>goat<br>choice<br>denial<br>maple<br>custom<br>drive<br>want |  
@@ -147,6 +159,18 @@ custom |
 | bip_39_word_space_7 | aerobic chimney luxury cash goat choice denial |  
 | bip_39_word_space_8 | aerobic chimney luxury cash goat choice denial maple |  
 | bip_39_word_space_9 | aerobic chimney luxury cash goat choice denial maple custom |  
+| bip_39_word_underscore_1 | aerobic |  
+| bip_39_word_underscore_10 | aerobic_chimney_luxury_cash_goat_choice_denial_maple_custom_drive |  
+| bip_39_word_underscore_11 | aerobic_chimney_luxury_cash_goat_choice_denial_maple_custom_drive_want |  
+| bip_39_word_underscore_12 | aerobic_chimney_luxury_cash_goat_choice_denial_maple_custom_drive_want_army |  
+| bip_39_word_underscore_2 | aerobic_chimney |  
+| bip_39_word_underscore_3 | aerobic_chimney_luxury |  
+| bip_39_word_underscore_4 | aerobic_chimney_luxury_cash |  
+| bip_39_word_underscore_5 | aerobic_chimney_luxury_cash_goat |  
+| bip_39_word_underscore_6 | aerobic_chimney_luxury_cash_goat_choice |  
+| bip_39_word_underscore_7 | aerobic_chimney_luxury_cash_goat_choice_denial |  
+| bip_39_word_underscore_8 | aerobic_chimney_luxury_cash_goat_choice_denial_maple |  
+| bip_39_word_underscore_9 | aerobic_chimney_luxury_cash_goat_choice_denial_maple_custom |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

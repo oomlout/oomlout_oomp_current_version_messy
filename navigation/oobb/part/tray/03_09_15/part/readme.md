@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | snow |  
+| bip_39_word_dash_10 | snow-sheriff-scout-corn-melt-beauty-fatal-range-consider-eager |  
+| bip_39_word_dash_11 | snow-sheriff-scout-corn-melt-beauty-fatal-range-consider-eager-win |  
+| bip_39_word_dash_12 | snow-sheriff-scout-corn-melt-beauty-fatal-range-consider-eager-win-agent |  
+| bip_39_word_dash_2 | snow-sheriff |  
+| bip_39_word_dash_3 | snow-sheriff-scout |  
+| bip_39_word_dash_4 | snow-sheriff-scout-corn |  
+| bip_39_word_dash_5 | snow-sheriff-scout-corn-melt |  
+| bip_39_word_dash_6 | snow-sheriff-scout-corn-melt-beauty |  
+| bip_39_word_dash_7 | snow-sheriff-scout-corn-melt-beauty-fatal |  
+| bip_39_word_dash_8 | snow-sheriff-scout-corn-melt-beauty-fatal-range |  
+| bip_39_word_dash_9 | snow-sheriff-scout-corn-melt-beauty-fatal-range-consider |  
 | bip_39_word_new_br_1 | snow |  
 | bip_39_word_new_br_10 | snow<br>sheriff<br>scout<br>corn<br>melt<br>beauty<br>fatal<br>range<br>consider<br>eager |  
 | bip_39_word_new_br_11 | snow<br>sheriff<br>scout<br>corn<br>melt<br>beauty<br>fatal<br>range<br>consider<br>eager<br>win |  
@@ -147,6 +159,18 @@ consider |
 | bip_39_word_space_7 | snow sheriff scout corn melt beauty fatal |  
 | bip_39_word_space_8 | snow sheriff scout corn melt beauty fatal range |  
 | bip_39_word_space_9 | snow sheriff scout corn melt beauty fatal range consider |  
+| bip_39_word_underscore_1 | snow |  
+| bip_39_word_underscore_10 | snow_sheriff_scout_corn_melt_beauty_fatal_range_consider_eager |  
+| bip_39_word_underscore_11 | snow_sheriff_scout_corn_melt_beauty_fatal_range_consider_eager_win |  
+| bip_39_word_underscore_12 | snow_sheriff_scout_corn_melt_beauty_fatal_range_consider_eager_win_agent |  
+| bip_39_word_underscore_2 | snow_sheriff |  
+| bip_39_word_underscore_3 | snow_sheriff_scout |  
+| bip_39_word_underscore_4 | snow_sheriff_scout_corn |  
+| bip_39_word_underscore_5 | snow_sheriff_scout_corn_melt |  
+| bip_39_word_underscore_6 | snow_sheriff_scout_corn_melt_beauty |  
+| bip_39_word_underscore_7 | snow_sheriff_scout_corn_melt_beauty_fatal |  
+| bip_39_word_underscore_8 | snow_sheriff_scout_corn_melt_beauty_fatal_range |  
+| bip_39_word_underscore_9 | snow_sheriff_scout_corn_melt_beauty_fatal_range_consider |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

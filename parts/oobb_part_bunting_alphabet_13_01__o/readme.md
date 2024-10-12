@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | craft |  
+| bip_39_word_dash_10 | craft-leaf-stamp-lunar-rack-logic-like-artwork-toy-orchard |  
+| bip_39_word_dash_11 | craft-leaf-stamp-lunar-rack-logic-like-artwork-toy-orchard-lecture |  
+| bip_39_word_dash_12 | craft-leaf-stamp-lunar-rack-logic-like-artwork-toy-orchard-lecture-abuse |  
+| bip_39_word_dash_2 | craft-leaf |  
+| bip_39_word_dash_3 | craft-leaf-stamp |  
+| bip_39_word_dash_4 | craft-leaf-stamp-lunar |  
+| bip_39_word_dash_5 | craft-leaf-stamp-lunar-rack |  
+| bip_39_word_dash_6 | craft-leaf-stamp-lunar-rack-logic |  
+| bip_39_word_dash_7 | craft-leaf-stamp-lunar-rack-logic-like |  
+| bip_39_word_dash_8 | craft-leaf-stamp-lunar-rack-logic-like-artwork |  
+| bip_39_word_dash_9 | craft-leaf-stamp-lunar-rack-logic-like-artwork-toy |  
 | bip_39_word_new_br_1 | craft |  
 | bip_39_word_new_br_10 | craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork<br>toy<br>orchard |  
 | bip_39_word_new_br_11 | craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork<br>toy<br>orchard<br>lecture |  
@@ -147,6 +159,18 @@ toy |
 | bip_39_word_space_7 | craft leaf stamp lunar rack logic like |  
 | bip_39_word_space_8 | craft leaf stamp lunar rack logic like artwork |  
 | bip_39_word_space_9 | craft leaf stamp lunar rack logic like artwork toy |  
+| bip_39_word_underscore_1 | craft |  
+| bip_39_word_underscore_10 | craft_leaf_stamp_lunar_rack_logic_like_artwork_toy_orchard |  
+| bip_39_word_underscore_11 | craft_leaf_stamp_lunar_rack_logic_like_artwork_toy_orchard_lecture |  
+| bip_39_word_underscore_12 | craft_leaf_stamp_lunar_rack_logic_like_artwork_toy_orchard_lecture_abuse |  
+| bip_39_word_underscore_2 | craft_leaf |  
+| bip_39_word_underscore_3 | craft_leaf_stamp |  
+| bip_39_word_underscore_4 | craft_leaf_stamp_lunar |  
+| bip_39_word_underscore_5 | craft_leaf_stamp_lunar_rack |  
+| bip_39_word_underscore_6 | craft_leaf_stamp_lunar_rack_logic |  
+| bip_39_word_underscore_7 | craft_leaf_stamp_lunar_rack_logic_like |  
+| bip_39_word_underscore_8 | craft_leaf_stamp_lunar_rack_logic_like_artwork |  
+| bip_39_word_underscore_9 | craft_leaf_stamp_lunar_rack_logic_like_artwork_toy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

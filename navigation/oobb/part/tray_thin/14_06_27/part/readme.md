@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leisure |  
+| bip_39_word_dash_10 | leisure-frog-disorder-name-arrange-analyst-hamster-increase-slow-injury |  
+| bip_39_word_dash_11 | leisure-frog-disorder-name-arrange-analyst-hamster-increase-slow-injury-network |  
+| bip_39_word_dash_12 | leisure-frog-disorder-name-arrange-analyst-hamster-increase-slow-injury-network-actor |  
+| bip_39_word_dash_2 | leisure-frog |  
+| bip_39_word_dash_3 | leisure-frog-disorder |  
+| bip_39_word_dash_4 | leisure-frog-disorder-name |  
+| bip_39_word_dash_5 | leisure-frog-disorder-name-arrange |  
+| bip_39_word_dash_6 | leisure-frog-disorder-name-arrange-analyst |  
+| bip_39_word_dash_7 | leisure-frog-disorder-name-arrange-analyst-hamster |  
+| bip_39_word_dash_8 | leisure-frog-disorder-name-arrange-analyst-hamster-increase |  
+| bip_39_word_dash_9 | leisure-frog-disorder-name-arrange-analyst-hamster-increase-slow |  
 | bip_39_word_new_br_1 | leisure |  
 | bip_39_word_new_br_10 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase<br>slow<br>injury |  
 | bip_39_word_new_br_11 | leisure<br>frog<br>disorder<br>name<br>arrange<br>analyst<br>hamster<br>increase<br>slow<br>injury<br>network |  
@@ -147,6 +159,18 @@ slow |
 | bip_39_word_space_7 | leisure frog disorder name arrange analyst hamster |  
 | bip_39_word_space_8 | leisure frog disorder name arrange analyst hamster increase |  
 | bip_39_word_space_9 | leisure frog disorder name arrange analyst hamster increase slow |  
+| bip_39_word_underscore_1 | leisure |  
+| bip_39_word_underscore_10 | leisure_frog_disorder_name_arrange_analyst_hamster_increase_slow_injury |  
+| bip_39_word_underscore_11 | leisure_frog_disorder_name_arrange_analyst_hamster_increase_slow_injury_network |  
+| bip_39_word_underscore_12 | leisure_frog_disorder_name_arrange_analyst_hamster_increase_slow_injury_network_actor |  
+| bip_39_word_underscore_2 | leisure_frog |  
+| bip_39_word_underscore_3 | leisure_frog_disorder |  
+| bip_39_word_underscore_4 | leisure_frog_disorder_name |  
+| bip_39_word_underscore_5 | leisure_frog_disorder_name_arrange |  
+| bip_39_word_underscore_6 | leisure_frog_disorder_name_arrange_analyst |  
+| bip_39_word_underscore_7 | leisure_frog_disorder_name_arrange_analyst_hamster |  
+| bip_39_word_underscore_8 | leisure_frog_disorder_name_arrange_analyst_hamster_increase |  
+| bip_39_word_underscore_9 | leisure_frog_disorder_name_arrange_analyst_hamster_increase_slow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

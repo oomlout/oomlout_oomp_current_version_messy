@@ -1,3 +1,15 @@
+bip_39_word_dash_1: asthma
+bip_39_word_dash_10: asthma-fluid-young-reunion-travel-supply-ethics-dog-item-decline
+bip_39_word_dash_11: asthma-fluid-young-reunion-travel-supply-ethics-dog-item-decline-luxury
+bip_39_word_dash_12: asthma-fluid-young-reunion-travel-supply-ethics-dog-item-decline-luxury-arctic
+bip_39_word_dash_2: asthma-fluid
+bip_39_word_dash_3: asthma-fluid-young
+bip_39_word_dash_4: asthma-fluid-young-reunion
+bip_39_word_dash_5: asthma-fluid-young-reunion-travel
+bip_39_word_dash_6: asthma-fluid-young-reunion-travel-supply
+bip_39_word_dash_7: asthma-fluid-young-reunion-travel-supply-ethics
+bip_39_word_dash_8: asthma-fluid-young-reunion-travel-supply-ethics-dog
+bip_39_word_dash_9: asthma-fluid-young-reunion-travel-supply-ethics-dog-item
 bip_39_word_new_br_1: asthma
 bip_39_word_new_br_10: asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog<br>item<br>decline
 bip_39_word_new_br_11: asthma<br>fluid<br>young<br>reunion<br>travel<br>supply<br>ethics<br>dog<br>item<br>decline<br>luxury
@@ -193,6 +205,18 @@ bip_39_word_space_6: asthma fluid young reunion travel supply
 bip_39_word_space_7: asthma fluid young reunion travel supply ethics
 bip_39_word_space_8: asthma fluid young reunion travel supply ethics dog
 bip_39_word_space_9: asthma fluid young reunion travel supply ethics dog item
+bip_39_word_underscore_1: asthma
+bip_39_word_underscore_10: asthma_fluid_young_reunion_travel_supply_ethics_dog_item_decline
+bip_39_word_underscore_11: asthma_fluid_young_reunion_travel_supply_ethics_dog_item_decline_luxury
+bip_39_word_underscore_12: asthma_fluid_young_reunion_travel_supply_ethics_dog_item_decline_luxury_arctic
+bip_39_word_underscore_2: asthma_fluid
+bip_39_word_underscore_3: asthma_fluid_young
+bip_39_word_underscore_4: asthma_fluid_young_reunion
+bip_39_word_underscore_5: asthma_fluid_young_reunion_travel
+bip_39_word_underscore_6: asthma_fluid_young_reunion_travel_supply
+bip_39_word_underscore_7: asthma_fluid_young_reunion_travel_supply_ethics
+bip_39_word_underscore_8: asthma_fluid_young_reunion_travel_supply_ethics_dog
+bip_39_word_underscore_9: asthma_fluid_young_reunion_travel_supply_ethics_dog_item
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

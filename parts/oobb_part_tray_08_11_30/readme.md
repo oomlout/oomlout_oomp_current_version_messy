@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swing |  
+| bip_39_word_dash_10 | swing-capital-drastic-sentence-identify-saddle-absent-primary-flush-turtle |  
+| bip_39_word_dash_11 | swing-capital-drastic-sentence-identify-saddle-absent-primary-flush-turtle-belt |  
+| bip_39_word_dash_12 | swing-capital-drastic-sentence-identify-saddle-absent-primary-flush-turtle-belt-alley |  
+| bip_39_word_dash_2 | swing-capital |  
+| bip_39_word_dash_3 | swing-capital-drastic |  
+| bip_39_word_dash_4 | swing-capital-drastic-sentence |  
+| bip_39_word_dash_5 | swing-capital-drastic-sentence-identify |  
+| bip_39_word_dash_6 | swing-capital-drastic-sentence-identify-saddle |  
+| bip_39_word_dash_7 | swing-capital-drastic-sentence-identify-saddle-absent |  
+| bip_39_word_dash_8 | swing-capital-drastic-sentence-identify-saddle-absent-primary |  
+| bip_39_word_dash_9 | swing-capital-drastic-sentence-identify-saddle-absent-primary-flush |  
 | bip_39_word_new_br_1 | swing |  
 | bip_39_word_new_br_10 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary<br>flush<br>turtle |  
 | bip_39_word_new_br_11 | swing<br>capital<br>drastic<br>sentence<br>identify<br>saddle<br>absent<br>primary<br>flush<br>turtle<br>belt |  
@@ -147,6 +159,18 @@ flush |
 | bip_39_word_space_7 | swing capital drastic sentence identify saddle absent |  
 | bip_39_word_space_8 | swing capital drastic sentence identify saddle absent primary |  
 | bip_39_word_space_9 | swing capital drastic sentence identify saddle absent primary flush |  
+| bip_39_word_underscore_1 | swing |  
+| bip_39_word_underscore_10 | swing_capital_drastic_sentence_identify_saddle_absent_primary_flush_turtle |  
+| bip_39_word_underscore_11 | swing_capital_drastic_sentence_identify_saddle_absent_primary_flush_turtle_belt |  
+| bip_39_word_underscore_12 | swing_capital_drastic_sentence_identify_saddle_absent_primary_flush_turtle_belt_alley |  
+| bip_39_word_underscore_2 | swing_capital |  
+| bip_39_word_underscore_3 | swing_capital_drastic |  
+| bip_39_word_underscore_4 | swing_capital_drastic_sentence |  
+| bip_39_word_underscore_5 | swing_capital_drastic_sentence_identify |  
+| bip_39_word_underscore_6 | swing_capital_drastic_sentence_identify_saddle |  
+| bip_39_word_underscore_7 | swing_capital_drastic_sentence_identify_saddle_absent |  
+| bip_39_word_underscore_8 | swing_capital_drastic_sentence_identify_saddle_absent_primary |  
+| bip_39_word_underscore_9 | swing_capital_drastic_sentence_identify_saddle_absent_primary_flush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

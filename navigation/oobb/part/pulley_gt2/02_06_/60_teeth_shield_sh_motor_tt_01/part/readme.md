@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | board |  
+| bip_39_word_dash_10 | board-stage-feed-often-silver-tell-economy-siren-large-already |  
+| bip_39_word_dash_11 | board-stage-feed-often-silver-tell-economy-siren-large-already-judge |  
+| bip_39_word_dash_12 | board-stage-feed-often-silver-tell-economy-siren-large-already-judge-allow |  
+| bip_39_word_dash_2 | board-stage |  
+| bip_39_word_dash_3 | board-stage-feed |  
+| bip_39_word_dash_4 | board-stage-feed-often |  
+| bip_39_word_dash_5 | board-stage-feed-often-silver |  
+| bip_39_word_dash_6 | board-stage-feed-often-silver-tell |  
+| bip_39_word_dash_7 | board-stage-feed-often-silver-tell-economy |  
+| bip_39_word_dash_8 | board-stage-feed-often-silver-tell-economy-siren |  
+| bip_39_word_dash_9 | board-stage-feed-often-silver-tell-economy-siren-large |  
 | bip_39_word_new_br_1 | board |  
 | bip_39_word_new_br_10 | board<br>stage<br>feed<br>often<br>silver<br>tell<br>economy<br>siren<br>large<br>already |  
 | bip_39_word_new_br_11 | board<br>stage<br>feed<br>often<br>silver<br>tell<br>economy<br>siren<br>large<br>already<br>judge |  
@@ -147,6 +159,18 @@ large |
 | bip_39_word_space_7 | board stage feed often silver tell economy |  
 | bip_39_word_space_8 | board stage feed often silver tell economy siren |  
 | bip_39_word_space_9 | board stage feed often silver tell economy siren large |  
+| bip_39_word_underscore_1 | board |  
+| bip_39_word_underscore_10 | board_stage_feed_often_silver_tell_economy_siren_large_already |  
+| bip_39_word_underscore_11 | board_stage_feed_often_silver_tell_economy_siren_large_already_judge |  
+| bip_39_word_underscore_12 | board_stage_feed_often_silver_tell_economy_siren_large_already_judge_allow |  
+| bip_39_word_underscore_2 | board_stage |  
+| bip_39_word_underscore_3 | board_stage_feed |  
+| bip_39_word_underscore_4 | board_stage_feed_often |  
+| bip_39_word_underscore_5 | board_stage_feed_often_silver |  
+| bip_39_word_underscore_6 | board_stage_feed_often_silver_tell |  
+| bip_39_word_underscore_7 | board_stage_feed_often_silver_tell_economy |  
+| bip_39_word_underscore_8 | board_stage_feed_often_silver_tell_economy_siren |  
+| bip_39_word_underscore_9 | board_stage_feed_often_silver_tell_economy_siren_large |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

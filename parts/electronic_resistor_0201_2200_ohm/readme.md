@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | series |  
+| bip_39_word_dash_10 | series-will-system-bracket-airport-ship-battle-giraffe-oil-number |  
+| bip_39_word_dash_11 | series-will-system-bracket-airport-ship-battle-giraffe-oil-number-chair |  
+| bip_39_word_dash_12 | series-will-system-bracket-airport-ship-battle-giraffe-oil-number-chair-act |  
+| bip_39_word_dash_2 | series-will |  
+| bip_39_word_dash_3 | series-will-system |  
+| bip_39_word_dash_4 | series-will-system-bracket |  
+| bip_39_word_dash_5 | series-will-system-bracket-airport |  
+| bip_39_word_dash_6 | series-will-system-bracket-airport-ship |  
+| bip_39_word_dash_7 | series-will-system-bracket-airport-ship-battle |  
+| bip_39_word_dash_8 | series-will-system-bracket-airport-ship-battle-giraffe |  
+| bip_39_word_dash_9 | series-will-system-bracket-airport-ship-battle-giraffe-oil |  
 | bip_39_word_new_br_1 | series |  
 | bip_39_word_new_br_10 | series<br>will<br>system<br>bracket<br>airport<br>ship<br>battle<br>giraffe<br>oil<br>number |  
 | bip_39_word_new_br_11 | series<br>will<br>system<br>bracket<br>airport<br>ship<br>battle<br>giraffe<br>oil<br>number<br>chair |  
@@ -147,6 +159,18 @@ oil |
 | bip_39_word_space_7 | series will system bracket airport ship battle |  
 | bip_39_word_space_8 | series will system bracket airport ship battle giraffe |  
 | bip_39_word_space_9 | series will system bracket airport ship battle giraffe oil |  
+| bip_39_word_underscore_1 | series |  
+| bip_39_word_underscore_10 | series_will_system_bracket_airport_ship_battle_giraffe_oil_number |  
+| bip_39_word_underscore_11 | series_will_system_bracket_airport_ship_battle_giraffe_oil_number_chair |  
+| bip_39_word_underscore_12 | series_will_system_bracket_airport_ship_battle_giraffe_oil_number_chair_act |  
+| bip_39_word_underscore_2 | series_will |  
+| bip_39_word_underscore_3 | series_will_system |  
+| bip_39_word_underscore_4 | series_will_system_bracket |  
+| bip_39_word_underscore_5 | series_will_system_bracket_airport |  
+| bip_39_word_underscore_6 | series_will_system_bracket_airport_ship |  
+| bip_39_word_underscore_7 | series_will_system_bracket_airport_ship_battle |  
+| bip_39_word_underscore_8 | series_will_system_bracket_airport_ship_battle_giraffe |  
+| bip_39_word_underscore_9 | series_will_system_bracket_airport_ship_battle_giraffe_oil |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

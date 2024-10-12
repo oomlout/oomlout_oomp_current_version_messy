@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | famous |  
+| bip_39_word_dash_10 | famous-unaware-reunion-symbol-beef-veteran-scissors-knee-essay-town |  
+| bip_39_word_dash_11 | famous-unaware-reunion-symbol-beef-veteran-scissors-knee-essay-town-wink |  
+| bip_39_word_dash_12 | famous-unaware-reunion-symbol-beef-veteran-scissors-knee-essay-town-wink-across |  
+| bip_39_word_dash_2 | famous-unaware |  
+| bip_39_word_dash_3 | famous-unaware-reunion |  
+| bip_39_word_dash_4 | famous-unaware-reunion-symbol |  
+| bip_39_word_dash_5 | famous-unaware-reunion-symbol-beef |  
+| bip_39_word_dash_6 | famous-unaware-reunion-symbol-beef-veteran |  
+| bip_39_word_dash_7 | famous-unaware-reunion-symbol-beef-veteran-scissors |  
+| bip_39_word_dash_8 | famous-unaware-reunion-symbol-beef-veteran-scissors-knee |  
+| bip_39_word_dash_9 | famous-unaware-reunion-symbol-beef-veteran-scissors-knee-essay |  
 | bip_39_word_new_br_1 | famous |  
 | bip_39_word_new_br_10 | famous<br>unaware<br>reunion<br>symbol<br>beef<br>veteran<br>scissors<br>knee<br>essay<br>town |  
 | bip_39_word_new_br_11 | famous<br>unaware<br>reunion<br>symbol<br>beef<br>veteran<br>scissors<br>knee<br>essay<br>town<br>wink |  
@@ -147,6 +159,18 @@ essay |
 | bip_39_word_space_7 | famous unaware reunion symbol beef veteran scissors |  
 | bip_39_word_space_8 | famous unaware reunion symbol beef veteran scissors knee |  
 | bip_39_word_space_9 | famous unaware reunion symbol beef veteran scissors knee essay |  
+| bip_39_word_underscore_1 | famous |  
+| bip_39_word_underscore_10 | famous_unaware_reunion_symbol_beef_veteran_scissors_knee_essay_town |  
+| bip_39_word_underscore_11 | famous_unaware_reunion_symbol_beef_veteran_scissors_knee_essay_town_wink |  
+| bip_39_word_underscore_12 | famous_unaware_reunion_symbol_beef_veteran_scissors_knee_essay_town_wink_across |  
+| bip_39_word_underscore_2 | famous_unaware |  
+| bip_39_word_underscore_3 | famous_unaware_reunion |  
+| bip_39_word_underscore_4 | famous_unaware_reunion_symbol |  
+| bip_39_word_underscore_5 | famous_unaware_reunion_symbol_beef |  
+| bip_39_word_underscore_6 | famous_unaware_reunion_symbol_beef_veteran |  
+| bip_39_word_underscore_7 | famous_unaware_reunion_symbol_beef_veteran_scissors |  
+| bip_39_word_underscore_8 | famous_unaware_reunion_symbol_beef_veteran_scissors_knee |  
+| bip_39_word_underscore_9 | famous_unaware_reunion_symbol_beef_veteran_scissors_knee_essay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

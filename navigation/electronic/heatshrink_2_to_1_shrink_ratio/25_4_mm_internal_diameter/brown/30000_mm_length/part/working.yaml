@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fresh
+bip_39_word_dash_10: fresh-spin-whale-reunion-oblige-armor-always-master-report-whale
+bip_39_word_dash_11: fresh-spin-whale-reunion-oblige-armor-always-master-report-whale-dove
+bip_39_word_dash_12: fresh-spin-whale-reunion-oblige-armor-always-master-report-whale-dove-absent
+bip_39_word_dash_2: fresh-spin
+bip_39_word_dash_3: fresh-spin-whale
+bip_39_word_dash_4: fresh-spin-whale-reunion
+bip_39_word_dash_5: fresh-spin-whale-reunion-oblige
+bip_39_word_dash_6: fresh-spin-whale-reunion-oblige-armor
+bip_39_word_dash_7: fresh-spin-whale-reunion-oblige-armor-always
+bip_39_word_dash_8: fresh-spin-whale-reunion-oblige-armor-always-master
+bip_39_word_dash_9: fresh-spin-whale-reunion-oblige-armor-always-master-report
 bip_39_word_new_br_1: fresh
 bip_39_word_new_br_10: fresh<br>spin<br>whale<br>reunion<br>oblige<br>armor<br>always<br>master<br>report<br>whale
 bip_39_word_new_br_11: fresh<br>spin<br>whale<br>reunion<br>oblige<br>armor<br>always<br>master<br>report<br>whale<br>dove
@@ -193,6 +205,18 @@ bip_39_word_space_6: fresh spin whale reunion oblige armor
 bip_39_word_space_7: fresh spin whale reunion oblige armor always
 bip_39_word_space_8: fresh spin whale reunion oblige armor always master
 bip_39_word_space_9: fresh spin whale reunion oblige armor always master report
+bip_39_word_underscore_1: fresh
+bip_39_word_underscore_10: fresh_spin_whale_reunion_oblige_armor_always_master_report_whale
+bip_39_word_underscore_11: fresh_spin_whale_reunion_oblige_armor_always_master_report_whale_dove
+bip_39_word_underscore_12: fresh_spin_whale_reunion_oblige_armor_always_master_report_whale_dove_absent
+bip_39_word_underscore_2: fresh_spin
+bip_39_word_underscore_3: fresh_spin_whale
+bip_39_word_underscore_4: fresh_spin_whale_reunion
+bip_39_word_underscore_5: fresh_spin_whale_reunion_oblige
+bip_39_word_underscore_6: fresh_spin_whale_reunion_oblige_armor
+bip_39_word_underscore_7: fresh_spin_whale_reunion_oblige_armor_always
+bip_39_word_underscore_8: fresh_spin_whale_reunion_oblige_armor_always_master
+bip_39_word_underscore_9: fresh_spin_whale_reunion_oblige_armor_always_master_report
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

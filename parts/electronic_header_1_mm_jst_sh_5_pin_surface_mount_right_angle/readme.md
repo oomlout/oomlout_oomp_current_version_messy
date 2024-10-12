@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reduce |  
+| bip_39_word_dash_10 | reduce-distance-brother-noble-addict-cage-evidence-topic-hunt-custom |  
+| bip_39_word_dash_11 | reduce-distance-brother-noble-addict-cage-evidence-topic-hunt-custom-primary |  
+| bip_39_word_dash_12 | reduce-distance-brother-noble-addict-cage-evidence-topic-hunt-custom-primary-april |  
+| bip_39_word_dash_2 | reduce-distance |  
+| bip_39_word_dash_3 | reduce-distance-brother |  
+| bip_39_word_dash_4 | reduce-distance-brother-noble |  
+| bip_39_word_dash_5 | reduce-distance-brother-noble-addict |  
+| bip_39_word_dash_6 | reduce-distance-brother-noble-addict-cage |  
+| bip_39_word_dash_7 | reduce-distance-brother-noble-addict-cage-evidence |  
+| bip_39_word_dash_8 | reduce-distance-brother-noble-addict-cage-evidence-topic |  
+| bip_39_word_dash_9 | reduce-distance-brother-noble-addict-cage-evidence-topic-hunt |  
 | bip_39_word_new_br_1 | reduce |  
 | bip_39_word_new_br_10 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic<br>hunt<br>custom |  
 | bip_39_word_new_br_11 | reduce<br>distance<br>brother<br>noble<br>addict<br>cage<br>evidence<br>topic<br>hunt<br>custom<br>primary |  
@@ -147,6 +159,18 @@ hunt |
 | bip_39_word_space_7 | reduce distance brother noble addict cage evidence |  
 | bip_39_word_space_8 | reduce distance brother noble addict cage evidence topic |  
 | bip_39_word_space_9 | reduce distance brother noble addict cage evidence topic hunt |  
+| bip_39_word_underscore_1 | reduce |  
+| bip_39_word_underscore_10 | reduce_distance_brother_noble_addict_cage_evidence_topic_hunt_custom |  
+| bip_39_word_underscore_11 | reduce_distance_brother_noble_addict_cage_evidence_topic_hunt_custom_primary |  
+| bip_39_word_underscore_12 | reduce_distance_brother_noble_addict_cage_evidence_topic_hunt_custom_primary_april |  
+| bip_39_word_underscore_2 | reduce_distance |  
+| bip_39_word_underscore_3 | reduce_distance_brother |  
+| bip_39_word_underscore_4 | reduce_distance_brother_noble |  
+| bip_39_word_underscore_5 | reduce_distance_brother_noble_addict |  
+| bip_39_word_underscore_6 | reduce_distance_brother_noble_addict_cage |  
+| bip_39_word_underscore_7 | reduce_distance_brother_noble_addict_cage_evidence |  
+| bip_39_word_underscore_8 | reduce_distance_brother_noble_addict_cage_evidence_topic |  
+| bip_39_word_underscore_9 | reduce_distance_brother_noble_addict_cage_evidence_topic_hunt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

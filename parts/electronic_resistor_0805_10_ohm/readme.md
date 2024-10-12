@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | weekend |  
+| bip_39_word_dash_10 | weekend-hold-install-picture-ten-assist-rain-vocal-sail-horror |  
+| bip_39_word_dash_11 | weekend-hold-install-picture-ten-assist-rain-vocal-sail-horror-filter |  
+| bip_39_word_dash_12 | weekend-hold-install-picture-ten-assist-rain-vocal-sail-horror-filter-arm |  
+| bip_39_word_dash_2 | weekend-hold |  
+| bip_39_word_dash_3 | weekend-hold-install |  
+| bip_39_word_dash_4 | weekend-hold-install-picture |  
+| bip_39_word_dash_5 | weekend-hold-install-picture-ten |  
+| bip_39_word_dash_6 | weekend-hold-install-picture-ten-assist |  
+| bip_39_word_dash_7 | weekend-hold-install-picture-ten-assist-rain |  
+| bip_39_word_dash_8 | weekend-hold-install-picture-ten-assist-rain-vocal |  
+| bip_39_word_dash_9 | weekend-hold-install-picture-ten-assist-rain-vocal-sail |  
 | bip_39_word_new_br_1 | weekend |  
 | bip_39_word_new_br_10 | weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror |  
 | bip_39_word_new_br_11 | weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror<br>filter |  
@@ -147,6 +159,18 @@ sail |
 | bip_39_word_space_7 | weekend hold install picture ten assist rain |  
 | bip_39_word_space_8 | weekend hold install picture ten assist rain vocal |  
 | bip_39_word_space_9 | weekend hold install picture ten assist rain vocal sail |  
+| bip_39_word_underscore_1 | weekend |  
+| bip_39_word_underscore_10 | weekend_hold_install_picture_ten_assist_rain_vocal_sail_horror |  
+| bip_39_word_underscore_11 | weekend_hold_install_picture_ten_assist_rain_vocal_sail_horror_filter |  
+| bip_39_word_underscore_12 | weekend_hold_install_picture_ten_assist_rain_vocal_sail_horror_filter_arm |  
+| bip_39_word_underscore_2 | weekend_hold |  
+| bip_39_word_underscore_3 | weekend_hold_install |  
+| bip_39_word_underscore_4 | weekend_hold_install_picture |  
+| bip_39_word_underscore_5 | weekend_hold_install_picture_ten |  
+| bip_39_word_underscore_6 | weekend_hold_install_picture_ten_assist |  
+| bip_39_word_underscore_7 | weekend_hold_install_picture_ten_assist_rain |  
+| bip_39_word_underscore_8 | weekend_hold_install_picture_ten_assist_rain_vocal |  
+| bip_39_word_underscore_9 | weekend_hold_install_picture_ten_assist_rain_vocal_sail |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

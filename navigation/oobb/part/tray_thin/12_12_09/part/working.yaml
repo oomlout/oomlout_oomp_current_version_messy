@@ -1,3 +1,15 @@
+bip_39_word_dash_1: very
+bip_39_word_dash_10: very-educate-utility-ankle-bird-photo-require-dirt-normal-roof
+bip_39_word_dash_11: very-educate-utility-ankle-bird-photo-require-dirt-normal-roof-fetch
+bip_39_word_dash_12: very-educate-utility-ankle-bird-photo-require-dirt-normal-roof-fetch-auto
+bip_39_word_dash_2: very-educate
+bip_39_word_dash_3: very-educate-utility
+bip_39_word_dash_4: very-educate-utility-ankle
+bip_39_word_dash_5: very-educate-utility-ankle-bird
+bip_39_word_dash_6: very-educate-utility-ankle-bird-photo
+bip_39_word_dash_7: very-educate-utility-ankle-bird-photo-require
+bip_39_word_dash_8: very-educate-utility-ankle-bird-photo-require-dirt
+bip_39_word_dash_9: very-educate-utility-ankle-bird-photo-require-dirt-normal
 bip_39_word_new_br_1: very
 bip_39_word_new_br_10: very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt<br>normal<br>roof
 bip_39_word_new_br_11: very<br>educate<br>utility<br>ankle<br>bird<br>photo<br>require<br>dirt<br>normal<br>roof<br>fetch
@@ -193,6 +205,18 @@ bip_39_word_space_6: very educate utility ankle bird photo
 bip_39_word_space_7: very educate utility ankle bird photo require
 bip_39_word_space_8: very educate utility ankle bird photo require dirt
 bip_39_word_space_9: very educate utility ankle bird photo require dirt normal
+bip_39_word_underscore_1: very
+bip_39_word_underscore_10: very_educate_utility_ankle_bird_photo_require_dirt_normal_roof
+bip_39_word_underscore_11: very_educate_utility_ankle_bird_photo_require_dirt_normal_roof_fetch
+bip_39_word_underscore_12: very_educate_utility_ankle_bird_photo_require_dirt_normal_roof_fetch_auto
+bip_39_word_underscore_2: very_educate
+bip_39_word_underscore_3: very_educate_utility
+bip_39_word_underscore_4: very_educate_utility_ankle
+bip_39_word_underscore_5: very_educate_utility_ankle_bird
+bip_39_word_underscore_6: very_educate_utility_ankle_bird_photo
+bip_39_word_underscore_7: very_educate_utility_ankle_bird_photo_require
+bip_39_word_underscore_8: very_educate_utility_ankle_bird_photo_require_dirt
+bip_39_word_underscore_9: very_educate_utility_ankle_bird_photo_require_dirt_normal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

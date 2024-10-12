@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | opinion |  
+| bip_39_word_dash_10 | opinion-key-abstract-claim-jar-enroll-cheap-bounce-wing-depend |  
+| bip_39_word_dash_11 | opinion-key-abstract-claim-jar-enroll-cheap-bounce-wing-depend-copper |  
+| bip_39_word_dash_12 | opinion-key-abstract-claim-jar-enroll-cheap-bounce-wing-depend-copper-athlete |  
+| bip_39_word_dash_2 | opinion-key |  
+| bip_39_word_dash_3 | opinion-key-abstract |  
+| bip_39_word_dash_4 | opinion-key-abstract-claim |  
+| bip_39_word_dash_5 | opinion-key-abstract-claim-jar |  
+| bip_39_word_dash_6 | opinion-key-abstract-claim-jar-enroll |  
+| bip_39_word_dash_7 | opinion-key-abstract-claim-jar-enroll-cheap |  
+| bip_39_word_dash_8 | opinion-key-abstract-claim-jar-enroll-cheap-bounce |  
+| bip_39_word_dash_9 | opinion-key-abstract-claim-jar-enroll-cheap-bounce-wing |  
 | bip_39_word_new_br_1 | opinion |  
 | bip_39_word_new_br_10 | opinion<br>key<br>abstract<br>claim<br>jar<br>enroll<br>cheap<br>bounce<br>wing<br>depend |  
 | bip_39_word_new_br_11 | opinion<br>key<br>abstract<br>claim<br>jar<br>enroll<br>cheap<br>bounce<br>wing<br>depend<br>copper |  
@@ -147,6 +159,18 @@ wing |
 | bip_39_word_space_7 | opinion key abstract claim jar enroll cheap |  
 | bip_39_word_space_8 | opinion key abstract claim jar enroll cheap bounce |  
 | bip_39_word_space_9 | opinion key abstract claim jar enroll cheap bounce wing |  
+| bip_39_word_underscore_1 | opinion |  
+| bip_39_word_underscore_10 | opinion_key_abstract_claim_jar_enroll_cheap_bounce_wing_depend |  
+| bip_39_word_underscore_11 | opinion_key_abstract_claim_jar_enroll_cheap_bounce_wing_depend_copper |  
+| bip_39_word_underscore_12 | opinion_key_abstract_claim_jar_enroll_cheap_bounce_wing_depend_copper_athlete |  
+| bip_39_word_underscore_2 | opinion_key |  
+| bip_39_word_underscore_3 | opinion_key_abstract |  
+| bip_39_word_underscore_4 | opinion_key_abstract_claim |  
+| bip_39_word_underscore_5 | opinion_key_abstract_claim_jar |  
+| bip_39_word_underscore_6 | opinion_key_abstract_claim_jar_enroll |  
+| bip_39_word_underscore_7 | opinion_key_abstract_claim_jar_enroll_cheap |  
+| bip_39_word_underscore_8 | opinion_key_abstract_claim_jar_enroll_cheap_bounce |  
+| bip_39_word_underscore_9 | opinion_key_abstract_claim_jar_enroll_cheap_bounce_wing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

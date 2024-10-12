@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exit |  
+| bip_39_word_dash_10 | exit-outer-obey-suit-update-swallow-oil-little-enact-reject |  
+| bip_39_word_dash_11 | exit-outer-obey-suit-update-swallow-oil-little-enact-reject-modify |  
+| bip_39_word_dash_12 | exit-outer-obey-suit-update-swallow-oil-little-enact-reject-modify-almost |  
+| bip_39_word_dash_2 | exit-outer |  
+| bip_39_word_dash_3 | exit-outer-obey |  
+| bip_39_word_dash_4 | exit-outer-obey-suit |  
+| bip_39_word_dash_5 | exit-outer-obey-suit-update |  
+| bip_39_word_dash_6 | exit-outer-obey-suit-update-swallow |  
+| bip_39_word_dash_7 | exit-outer-obey-suit-update-swallow-oil |  
+| bip_39_word_dash_8 | exit-outer-obey-suit-update-swallow-oil-little |  
+| bip_39_word_dash_9 | exit-outer-obey-suit-update-swallow-oil-little-enact |  
 | bip_39_word_new_br_1 | exit |  
 | bip_39_word_new_br_10 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject |  
 | bip_39_word_new_br_11 | exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject<br>modify |  
@@ -147,6 +159,18 @@ enact |
 | bip_39_word_space_7 | exit outer obey suit update swallow oil |  
 | bip_39_word_space_8 | exit outer obey suit update swallow oil little |  
 | bip_39_word_space_9 | exit outer obey suit update swallow oil little enact |  
+| bip_39_word_underscore_1 | exit |  
+| bip_39_word_underscore_10 | exit_outer_obey_suit_update_swallow_oil_little_enact_reject |  
+| bip_39_word_underscore_11 | exit_outer_obey_suit_update_swallow_oil_little_enact_reject_modify |  
+| bip_39_word_underscore_12 | exit_outer_obey_suit_update_swallow_oil_little_enact_reject_modify_almost |  
+| bip_39_word_underscore_2 | exit_outer |  
+| bip_39_word_underscore_3 | exit_outer_obey |  
+| bip_39_word_underscore_4 | exit_outer_obey_suit |  
+| bip_39_word_underscore_5 | exit_outer_obey_suit_update |  
+| bip_39_word_underscore_6 | exit_outer_obey_suit_update_swallow |  
+| bip_39_word_underscore_7 | exit_outer_obey_suit_update_swallow_oil |  
+| bip_39_word_underscore_8 | exit_outer_obey_suit_update_swallow_oil_little |  
+| bip_39_word_underscore_9 | exit_outer_obey_suit_update_swallow_oil_little_enact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

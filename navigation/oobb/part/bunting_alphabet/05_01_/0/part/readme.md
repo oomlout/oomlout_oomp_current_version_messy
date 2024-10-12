@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sample |  
+| bip_39_word_dash_10 | sample-athlete-acoustic-smart-audit-paper-search-boss-enhance-lamp |  
+| bip_39_word_dash_11 | sample-athlete-acoustic-smart-audit-paper-search-boss-enhance-lamp-dismiss |  
+| bip_39_word_dash_12 | sample-athlete-acoustic-smart-audit-paper-search-boss-enhance-lamp-dismiss-armed |  
+| bip_39_word_dash_2 | sample-athlete |  
+| bip_39_word_dash_3 | sample-athlete-acoustic |  
+| bip_39_word_dash_4 | sample-athlete-acoustic-smart |  
+| bip_39_word_dash_5 | sample-athlete-acoustic-smart-audit |  
+| bip_39_word_dash_6 | sample-athlete-acoustic-smart-audit-paper |  
+| bip_39_word_dash_7 | sample-athlete-acoustic-smart-audit-paper-search |  
+| bip_39_word_dash_8 | sample-athlete-acoustic-smart-audit-paper-search-boss |  
+| bip_39_word_dash_9 | sample-athlete-acoustic-smart-audit-paper-search-boss-enhance |  
 | bip_39_word_new_br_1 | sample |  
 | bip_39_word_new_br_10 | sample<br>athlete<br>acoustic<br>smart<br>audit<br>paper<br>search<br>boss<br>enhance<br>lamp |  
 | bip_39_word_new_br_11 | sample<br>athlete<br>acoustic<br>smart<br>audit<br>paper<br>search<br>boss<br>enhance<br>lamp<br>dismiss |  
@@ -147,6 +159,18 @@ enhance |
 | bip_39_word_space_7 | sample athlete acoustic smart audit paper search |  
 | bip_39_word_space_8 | sample athlete acoustic smart audit paper search boss |  
 | bip_39_word_space_9 | sample athlete acoustic smart audit paper search boss enhance |  
+| bip_39_word_underscore_1 | sample |  
+| bip_39_word_underscore_10 | sample_athlete_acoustic_smart_audit_paper_search_boss_enhance_lamp |  
+| bip_39_word_underscore_11 | sample_athlete_acoustic_smart_audit_paper_search_boss_enhance_lamp_dismiss |  
+| bip_39_word_underscore_12 | sample_athlete_acoustic_smart_audit_paper_search_boss_enhance_lamp_dismiss_armed |  
+| bip_39_word_underscore_2 | sample_athlete |  
+| bip_39_word_underscore_3 | sample_athlete_acoustic |  
+| bip_39_word_underscore_4 | sample_athlete_acoustic_smart |  
+| bip_39_word_underscore_5 | sample_athlete_acoustic_smart_audit |  
+| bip_39_word_underscore_6 | sample_athlete_acoustic_smart_audit_paper |  
+| bip_39_word_underscore_7 | sample_athlete_acoustic_smart_audit_paper_search |  
+| bip_39_word_underscore_8 | sample_athlete_acoustic_smart_audit_paper_search_boss |  
+| bip_39_word_underscore_9 | sample_athlete_acoustic_smart_audit_paper_search_boss_enhance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

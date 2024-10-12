@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | away |  
+| bip_39_word_dash_10 | away-fog-uncover-total-process-legal-canyon-guide-crouch-quit |  
+| bip_39_word_dash_11 | away-fog-uncover-total-process-legal-canyon-guide-crouch-quit-style |  
+| bip_39_word_dash_2 | away-fog |  
+| bip_39_word_dash_3 | away-fog-uncover |  
+| bip_39_word_dash_4 | away-fog-uncover-total |  
+| bip_39_word_dash_5 | away-fog-uncover-total-process |  
+| bip_39_word_dash_6 | away-fog-uncover-total-process-legal |  
+| bip_39_word_dash_7 | away-fog-uncover-total-process-legal-canyon |  
+| bip_39_word_dash_8 | away-fog-uncover-total-process-legal-canyon-guide |  
+| bip_39_word_dash_9 | away-fog-uncover-total-process-legal-canyon-guide-crouch |  
 | bip_39_word_new_br_1 | away |  
 | bip_39_word_new_br_10 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch<br>quit |  
 | bip_39_word_new_br_11 | away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch<br>quit<br>style |  
@@ -132,6 +143,17 @@ crouch |
 | bip_39_word_space_7 | away fog uncover total process legal canyon |  
 | bip_39_word_space_8 | away fog uncover total process legal canyon guide |  
 | bip_39_word_space_9 | away fog uncover total process legal canyon guide crouch |  
+| bip_39_word_underscore_1 | away |  
+| bip_39_word_underscore_10 | away_fog_uncover_total_process_legal_canyon_guide_crouch_quit |  
+| bip_39_word_underscore_11 | away_fog_uncover_total_process_legal_canyon_guide_crouch_quit_style |  
+| bip_39_word_underscore_2 | away_fog |  
+| bip_39_word_underscore_3 | away_fog_uncover |  
+| bip_39_word_underscore_4 | away_fog_uncover_total |  
+| bip_39_word_underscore_5 | away_fog_uncover_total_process |  
+| bip_39_word_underscore_6 | away_fog_uncover_total_process_legal |  
+| bip_39_word_underscore_7 | away_fog_uncover_total_process_legal_canyon |  
+| bip_39_word_underscore_8 | away_fog_uncover_total_process_legal_canyon_guide |  
+| bip_39_word_underscore_9 | away_fog_uncover_total_process_legal_canyon_guide_crouch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

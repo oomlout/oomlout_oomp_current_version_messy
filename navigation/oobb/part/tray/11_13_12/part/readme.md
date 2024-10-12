@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toddler |  
+| bip_39_word_dash_10 | toddler-hollow-forest-rug-canyon-trophy-hedgehog-crash-punch-scrap |  
+| bip_39_word_dash_11 | toddler-hollow-forest-rug-canyon-trophy-hedgehog-crash-punch-scrap-already |  
+| bip_39_word_dash_12 | toddler-hollow-forest-rug-canyon-trophy-hedgehog-crash-punch-scrap-already-alien |  
+| bip_39_word_dash_2 | toddler-hollow |  
+| bip_39_word_dash_3 | toddler-hollow-forest |  
+| bip_39_word_dash_4 | toddler-hollow-forest-rug |  
+| bip_39_word_dash_5 | toddler-hollow-forest-rug-canyon |  
+| bip_39_word_dash_6 | toddler-hollow-forest-rug-canyon-trophy |  
+| bip_39_word_dash_7 | toddler-hollow-forest-rug-canyon-trophy-hedgehog |  
+| bip_39_word_dash_8 | toddler-hollow-forest-rug-canyon-trophy-hedgehog-crash |  
+| bip_39_word_dash_9 | toddler-hollow-forest-rug-canyon-trophy-hedgehog-crash-punch |  
 | bip_39_word_new_br_1 | toddler |  
 | bip_39_word_new_br_10 | toddler<br>hollow<br>forest<br>rug<br>canyon<br>trophy<br>hedgehog<br>crash<br>punch<br>scrap |  
 | bip_39_word_new_br_11 | toddler<br>hollow<br>forest<br>rug<br>canyon<br>trophy<br>hedgehog<br>crash<br>punch<br>scrap<br>already |  
@@ -147,6 +159,18 @@ punch |
 | bip_39_word_space_7 | toddler hollow forest rug canyon trophy hedgehog |  
 | bip_39_word_space_8 | toddler hollow forest rug canyon trophy hedgehog crash |  
 | bip_39_word_space_9 | toddler hollow forest rug canyon trophy hedgehog crash punch |  
+| bip_39_word_underscore_1 | toddler |  
+| bip_39_word_underscore_10 | toddler_hollow_forest_rug_canyon_trophy_hedgehog_crash_punch_scrap |  
+| bip_39_word_underscore_11 | toddler_hollow_forest_rug_canyon_trophy_hedgehog_crash_punch_scrap_already |  
+| bip_39_word_underscore_12 | toddler_hollow_forest_rug_canyon_trophy_hedgehog_crash_punch_scrap_already_alien |  
+| bip_39_word_underscore_2 | toddler_hollow |  
+| bip_39_word_underscore_3 | toddler_hollow_forest |  
+| bip_39_word_underscore_4 | toddler_hollow_forest_rug |  
+| bip_39_word_underscore_5 | toddler_hollow_forest_rug_canyon |  
+| bip_39_word_underscore_6 | toddler_hollow_forest_rug_canyon_trophy |  
+| bip_39_word_underscore_7 | toddler_hollow_forest_rug_canyon_trophy_hedgehog |  
+| bip_39_word_underscore_8 | toddler_hollow_forest_rug_canyon_trophy_hedgehog_crash |  
+| bip_39_word_underscore_9 | toddler_hollow_forest_rug_canyon_trophy_hedgehog_crash_punch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ball |  
+| bip_39_word_dash_10 | ball-indicate-original-slim-install-uncle-laptop-wood-shaft-awful |  
+| bip_39_word_dash_11 | ball-indicate-original-slim-install-uncle-laptop-wood-shaft-awful-slot |  
+| bip_39_word_dash_12 | ball-indicate-original-slim-install-uncle-laptop-wood-shaft-awful-slot-aim |  
+| bip_39_word_dash_2 | ball-indicate |  
+| bip_39_word_dash_3 | ball-indicate-original |  
+| bip_39_word_dash_4 | ball-indicate-original-slim |  
+| bip_39_word_dash_5 | ball-indicate-original-slim-install |  
+| bip_39_word_dash_6 | ball-indicate-original-slim-install-uncle |  
+| bip_39_word_dash_7 | ball-indicate-original-slim-install-uncle-laptop |  
+| bip_39_word_dash_8 | ball-indicate-original-slim-install-uncle-laptop-wood |  
+| bip_39_word_dash_9 | ball-indicate-original-slim-install-uncle-laptop-wood-shaft |  
 | bip_39_word_new_br_1 | ball |  
 | bip_39_word_new_br_10 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood<br>shaft<br>awful |  
 | bip_39_word_new_br_11 | ball<br>indicate<br>original<br>slim<br>install<br>uncle<br>laptop<br>wood<br>shaft<br>awful<br>slot |  
@@ -147,6 +159,18 @@ shaft |
 | bip_39_word_space_7 | ball indicate original slim install uncle laptop |  
 | bip_39_word_space_8 | ball indicate original slim install uncle laptop wood |  
 | bip_39_word_space_9 | ball indicate original slim install uncle laptop wood shaft |  
+| bip_39_word_underscore_1 | ball |  
+| bip_39_word_underscore_10 | ball_indicate_original_slim_install_uncle_laptop_wood_shaft_awful |  
+| bip_39_word_underscore_11 | ball_indicate_original_slim_install_uncle_laptop_wood_shaft_awful_slot |  
+| bip_39_word_underscore_12 | ball_indicate_original_slim_install_uncle_laptop_wood_shaft_awful_slot_aim |  
+| bip_39_word_underscore_2 | ball_indicate |  
+| bip_39_word_underscore_3 | ball_indicate_original |  
+| bip_39_word_underscore_4 | ball_indicate_original_slim |  
+| bip_39_word_underscore_5 | ball_indicate_original_slim_install |  
+| bip_39_word_underscore_6 | ball_indicate_original_slim_install_uncle |  
+| bip_39_word_underscore_7 | ball_indicate_original_slim_install_uncle_laptop |  
+| bip_39_word_underscore_8 | ball_indicate_original_slim_install_uncle_laptop_wood |  
+| bip_39_word_underscore_9 | ball_indicate_original_slim_install_uncle_laptop_wood_shaft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

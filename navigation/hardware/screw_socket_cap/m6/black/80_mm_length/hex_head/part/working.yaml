@@ -1,3 +1,15 @@
+bip_39_word_dash_1: giant
+bip_39_word_dash_10: giant-else-harsh-wild-together-account-split-cook-bean-awkward
+bip_39_word_dash_11: giant-else-harsh-wild-together-account-split-cook-bean-awkward-fall
+bip_39_word_dash_12: giant-else-harsh-wild-together-account-split-cook-bean-awkward-fall-amused
+bip_39_word_dash_2: giant-else
+bip_39_word_dash_3: giant-else-harsh
+bip_39_word_dash_4: giant-else-harsh-wild
+bip_39_word_dash_5: giant-else-harsh-wild-together
+bip_39_word_dash_6: giant-else-harsh-wild-together-account
+bip_39_word_dash_7: giant-else-harsh-wild-together-account-split
+bip_39_word_dash_8: giant-else-harsh-wild-together-account-split-cook
+bip_39_word_dash_9: giant-else-harsh-wild-together-account-split-cook-bean
 bip_39_word_new_br_1: giant
 bip_39_word_new_br_10: giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward
 bip_39_word_new_br_11: giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward<br>fall
@@ -193,6 +205,18 @@ bip_39_word_space_6: giant else harsh wild together account
 bip_39_word_space_7: giant else harsh wild together account split
 bip_39_word_space_8: giant else harsh wild together account split cook
 bip_39_word_space_9: giant else harsh wild together account split cook bean
+bip_39_word_underscore_1: giant
+bip_39_word_underscore_10: giant_else_harsh_wild_together_account_split_cook_bean_awkward
+bip_39_word_underscore_11: giant_else_harsh_wild_together_account_split_cook_bean_awkward_fall
+bip_39_word_underscore_12: giant_else_harsh_wild_together_account_split_cook_bean_awkward_fall_amused
+bip_39_word_underscore_2: giant_else
+bip_39_word_underscore_3: giant_else_harsh
+bip_39_word_underscore_4: giant_else_harsh_wild
+bip_39_word_underscore_5: giant_else_harsh_wild_together
+bip_39_word_underscore_6: giant_else_harsh_wild_together_account
+bip_39_word_underscore_7: giant_else_harsh_wild_together_account_split
+bip_39_word_underscore_8: giant_else_harsh_wild_together_account_split_cook
+bip_39_word_underscore_9: giant_else_harsh_wild_together_account_split_cook_bean
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

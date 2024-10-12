@@ -1,3 +1,15 @@
+bip_39_word_dash_1: idea
+bip_39_word_dash_10: idea-unaware-drum-short-wrist-lunar-unveil-now-wife-hawk
+bip_39_word_dash_11: idea-unaware-drum-short-wrist-lunar-unveil-now-wife-hawk-horror
+bip_39_word_dash_12: idea-unaware-drum-short-wrist-lunar-unveil-now-wife-hawk-horror-annual
+bip_39_word_dash_2: idea-unaware
+bip_39_word_dash_3: idea-unaware-drum
+bip_39_word_dash_4: idea-unaware-drum-short
+bip_39_word_dash_5: idea-unaware-drum-short-wrist
+bip_39_word_dash_6: idea-unaware-drum-short-wrist-lunar
+bip_39_word_dash_7: idea-unaware-drum-short-wrist-lunar-unveil
+bip_39_word_dash_8: idea-unaware-drum-short-wrist-lunar-unveil-now
+bip_39_word_dash_9: idea-unaware-drum-short-wrist-lunar-unveil-now-wife
 bip_39_word_new_br_1: idea
 bip_39_word_new_br_10: idea<br>unaware<br>drum<br>short<br>wrist<br>lunar<br>unveil<br>now<br>wife<br>hawk
 bip_39_word_new_br_11: idea<br>unaware<br>drum<br>short<br>wrist<br>lunar<br>unveil<br>now<br>wife<br>hawk<br>horror
@@ -192,6 +204,18 @@ bip_39_word_space_6: idea unaware drum short wrist lunar
 bip_39_word_space_7: idea unaware drum short wrist lunar unveil
 bip_39_word_space_8: idea unaware drum short wrist lunar unveil now
 bip_39_word_space_9: idea unaware drum short wrist lunar unveil now wife
+bip_39_word_underscore_1: idea
+bip_39_word_underscore_10: idea_unaware_drum_short_wrist_lunar_unveil_now_wife_hawk
+bip_39_word_underscore_11: idea_unaware_drum_short_wrist_lunar_unveil_now_wife_hawk_horror
+bip_39_word_underscore_12: idea_unaware_drum_short_wrist_lunar_unveil_now_wife_hawk_horror_annual
+bip_39_word_underscore_2: idea_unaware
+bip_39_word_underscore_3: idea_unaware_drum
+bip_39_word_underscore_4: idea_unaware_drum_short
+bip_39_word_underscore_5: idea_unaware_drum_short_wrist
+bip_39_word_underscore_6: idea_unaware_drum_short_wrist_lunar
+bip_39_word_underscore_7: idea_unaware_drum_short_wrist_lunar_unveil
+bip_39_word_underscore_8: idea_unaware_drum_short_wrist_lunar_unveil_now
+bip_39_word_underscore_9: idea_unaware_drum_short_wrist_lunar_unveil_now_wife
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

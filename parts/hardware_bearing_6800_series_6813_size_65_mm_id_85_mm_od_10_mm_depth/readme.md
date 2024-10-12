@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nothing |  
+| bip_39_word_dash_10 | nothing-prosper-grit-chuckle-life-dust-credit-want-drift-uncover |  
+| bip_39_word_dash_11 | nothing-prosper-grit-chuckle-life-dust-credit-want-drift-uncover-six |  
+| bip_39_word_dash_12 | nothing-prosper-grit-chuckle-life-dust-credit-want-drift-uncover-six-all |  
+| bip_39_word_dash_2 | nothing-prosper |  
+| bip_39_word_dash_3 | nothing-prosper-grit |  
+| bip_39_word_dash_4 | nothing-prosper-grit-chuckle |  
+| bip_39_word_dash_5 | nothing-prosper-grit-chuckle-life |  
+| bip_39_word_dash_6 | nothing-prosper-grit-chuckle-life-dust |  
+| bip_39_word_dash_7 | nothing-prosper-grit-chuckle-life-dust-credit |  
+| bip_39_word_dash_8 | nothing-prosper-grit-chuckle-life-dust-credit-want |  
+| bip_39_word_dash_9 | nothing-prosper-grit-chuckle-life-dust-credit-want-drift |  
 | bip_39_word_new_br_1 | nothing |  
 | bip_39_word_new_br_10 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover |  
 | bip_39_word_new_br_11 | nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover<br>six |  
@@ -147,6 +159,18 @@ drift |
 | bip_39_word_space_7 | nothing prosper grit chuckle life dust credit |  
 | bip_39_word_space_8 | nothing prosper grit chuckle life dust credit want |  
 | bip_39_word_space_9 | nothing prosper grit chuckle life dust credit want drift |  
+| bip_39_word_underscore_1 | nothing |  
+| bip_39_word_underscore_10 | nothing_prosper_grit_chuckle_life_dust_credit_want_drift_uncover |  
+| bip_39_word_underscore_11 | nothing_prosper_grit_chuckle_life_dust_credit_want_drift_uncover_six |  
+| bip_39_word_underscore_12 | nothing_prosper_grit_chuckle_life_dust_credit_want_drift_uncover_six_all |  
+| bip_39_word_underscore_2 | nothing_prosper |  
+| bip_39_word_underscore_3 | nothing_prosper_grit |  
+| bip_39_word_underscore_4 | nothing_prosper_grit_chuckle |  
+| bip_39_word_underscore_5 | nothing_prosper_grit_chuckle_life |  
+| bip_39_word_underscore_6 | nothing_prosper_grit_chuckle_life_dust |  
+| bip_39_word_underscore_7 | nothing_prosper_grit_chuckle_life_dust_credit |  
+| bip_39_word_underscore_8 | nothing_prosper_grit_chuckle_life_dust_credit_want |  
+| bip_39_word_underscore_9 | nothing_prosper_grit_chuckle_life_dust_credit_want_drift |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

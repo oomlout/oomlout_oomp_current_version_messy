@@ -1,3 +1,15 @@
+bip_39_word_dash_1: slogan
+bip_39_word_dash_10: slogan-magic-height-picnic-parade-win-layer-drift-flip-hub
+bip_39_word_dash_11: slogan-magic-height-picnic-parade-win-layer-drift-flip-hub-move
+bip_39_word_dash_12: slogan-magic-height-picnic-parade-win-layer-drift-flip-hub-move-actress
+bip_39_word_dash_2: slogan-magic
+bip_39_word_dash_3: slogan-magic-height
+bip_39_word_dash_4: slogan-magic-height-picnic
+bip_39_word_dash_5: slogan-magic-height-picnic-parade
+bip_39_word_dash_6: slogan-magic-height-picnic-parade-win
+bip_39_word_dash_7: slogan-magic-height-picnic-parade-win-layer
+bip_39_word_dash_8: slogan-magic-height-picnic-parade-win-layer-drift
+bip_39_word_dash_9: slogan-magic-height-picnic-parade-win-layer-drift-flip
 bip_39_word_new_br_1: slogan
 bip_39_word_new_br_10: slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift<br>flip<br>hub
 bip_39_word_new_br_11: slogan<br>magic<br>height<br>picnic<br>parade<br>win<br>layer<br>drift<br>flip<br>hub<br>move
@@ -192,6 +204,18 @@ bip_39_word_space_6: slogan magic height picnic parade win
 bip_39_word_space_7: slogan magic height picnic parade win layer
 bip_39_word_space_8: slogan magic height picnic parade win layer drift
 bip_39_word_space_9: slogan magic height picnic parade win layer drift flip
+bip_39_word_underscore_1: slogan
+bip_39_word_underscore_10: slogan_magic_height_picnic_parade_win_layer_drift_flip_hub
+bip_39_word_underscore_11: slogan_magic_height_picnic_parade_win_layer_drift_flip_hub_move
+bip_39_word_underscore_12: slogan_magic_height_picnic_parade_win_layer_drift_flip_hub_move_actress
+bip_39_word_underscore_2: slogan_magic
+bip_39_word_underscore_3: slogan_magic_height
+bip_39_word_underscore_4: slogan_magic_height_picnic
+bip_39_word_underscore_5: slogan_magic_height_picnic_parade
+bip_39_word_underscore_6: slogan_magic_height_picnic_parade_win
+bip_39_word_underscore_7: slogan_magic_height_picnic_parade_win_layer
+bip_39_word_underscore_8: slogan_magic_height_picnic_parade_win_layer_drift
+bip_39_word_underscore_9: slogan_magic_height_picnic_parade_win_layer_drift_flip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

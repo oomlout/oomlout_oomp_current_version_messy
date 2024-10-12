@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | suspect |  
+| bip_39_word_dash_10 | suspect-reason-reunion-argue-item-royal-acid-across-glance-faith |  
+| bip_39_word_dash_11 | suspect-reason-reunion-argue-item-royal-acid-across-glance-faith-ridge |  
+| bip_39_word_dash_12 | suspect-reason-reunion-argue-item-royal-acid-across-glance-faith-ridge-alcohol |  
+| bip_39_word_dash_2 | suspect-reason |  
+| bip_39_word_dash_3 | suspect-reason-reunion |  
+| bip_39_word_dash_4 | suspect-reason-reunion-argue |  
+| bip_39_word_dash_5 | suspect-reason-reunion-argue-item |  
+| bip_39_word_dash_6 | suspect-reason-reunion-argue-item-royal |  
+| bip_39_word_dash_7 | suspect-reason-reunion-argue-item-royal-acid |  
+| bip_39_word_dash_8 | suspect-reason-reunion-argue-item-royal-acid-across |  
+| bip_39_word_dash_9 | suspect-reason-reunion-argue-item-royal-acid-across-glance |  
 | bip_39_word_new_br_1 | suspect |  
 | bip_39_word_new_br_10 | suspect<br>reason<br>reunion<br>argue<br>item<br>royal<br>acid<br>across<br>glance<br>faith |  
 | bip_39_word_new_br_11 | suspect<br>reason<br>reunion<br>argue<br>item<br>royal<br>acid<br>across<br>glance<br>faith<br>ridge |  
@@ -147,6 +159,18 @@ glance |
 | bip_39_word_space_7 | suspect reason reunion argue item royal acid |  
 | bip_39_word_space_8 | suspect reason reunion argue item royal acid across |  
 | bip_39_word_space_9 | suspect reason reunion argue item royal acid across glance |  
+| bip_39_word_underscore_1 | suspect |  
+| bip_39_word_underscore_10 | suspect_reason_reunion_argue_item_royal_acid_across_glance_faith |  
+| bip_39_word_underscore_11 | suspect_reason_reunion_argue_item_royal_acid_across_glance_faith_ridge |  
+| bip_39_word_underscore_12 | suspect_reason_reunion_argue_item_royal_acid_across_glance_faith_ridge_alcohol |  
+| bip_39_word_underscore_2 | suspect_reason |  
+| bip_39_word_underscore_3 | suspect_reason_reunion |  
+| bip_39_word_underscore_4 | suspect_reason_reunion_argue |  
+| bip_39_word_underscore_5 | suspect_reason_reunion_argue_item |  
+| bip_39_word_underscore_6 | suspect_reason_reunion_argue_item_royal |  
+| bip_39_word_underscore_7 | suspect_reason_reunion_argue_item_royal_acid |  
+| bip_39_word_underscore_8 | suspect_reason_reunion_argue_item_royal_acid_across |  
+| bip_39_word_underscore_9 | suspect_reason_reunion_argue_item_royal_acid_across_glance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

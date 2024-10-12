@@ -1,3 +1,15 @@
+bip_39_word_dash_1: around
+bip_39_word_dash_10: around-digital-expect-simple-shoot-this-nest-east-oyster-perfect
+bip_39_word_dash_11: around-digital-expect-simple-shoot-this-nest-east-oyster-perfect-mirror
+bip_39_word_dash_12: around-digital-expect-simple-shoot-this-nest-east-oyster-perfect-mirror-antenna
+bip_39_word_dash_2: around-digital
+bip_39_word_dash_3: around-digital-expect
+bip_39_word_dash_4: around-digital-expect-simple
+bip_39_word_dash_5: around-digital-expect-simple-shoot
+bip_39_word_dash_6: around-digital-expect-simple-shoot-this
+bip_39_word_dash_7: around-digital-expect-simple-shoot-this-nest
+bip_39_word_dash_8: around-digital-expect-simple-shoot-this-nest-east
+bip_39_word_dash_9: around-digital-expect-simple-shoot-this-nest-east-oyster
 bip_39_word_new_br_1: around
 bip_39_word_new_br_10: around<br>digital<br>expect<br>simple<br>shoot<br>this<br>nest<br>east<br>oyster<br>perfect
 bip_39_word_new_br_11: around<br>digital<br>expect<br>simple<br>shoot<br>this<br>nest<br>east<br>oyster<br>perfect<br>mirror
@@ -193,6 +205,18 @@ bip_39_word_space_6: around digital expect simple shoot this
 bip_39_word_space_7: around digital expect simple shoot this nest
 bip_39_word_space_8: around digital expect simple shoot this nest east
 bip_39_word_space_9: around digital expect simple shoot this nest east oyster
+bip_39_word_underscore_1: around
+bip_39_word_underscore_10: around_digital_expect_simple_shoot_this_nest_east_oyster_perfect
+bip_39_word_underscore_11: around_digital_expect_simple_shoot_this_nest_east_oyster_perfect_mirror
+bip_39_word_underscore_12: around_digital_expect_simple_shoot_this_nest_east_oyster_perfect_mirror_antenna
+bip_39_word_underscore_2: around_digital
+bip_39_word_underscore_3: around_digital_expect
+bip_39_word_underscore_4: around_digital_expect_simple
+bip_39_word_underscore_5: around_digital_expect_simple_shoot
+bip_39_word_underscore_6: around_digital_expect_simple_shoot_this
+bip_39_word_underscore_7: around_digital_expect_simple_shoot_this_nest
+bip_39_word_underscore_8: around_digital_expect_simple_shoot_this_nest_east
+bip_39_word_underscore_9: around_digital_expect_simple_shoot_this_nest_east_oyster
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

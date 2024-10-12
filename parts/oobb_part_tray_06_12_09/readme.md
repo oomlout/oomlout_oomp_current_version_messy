@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dentist |  
+| bip_39_word_dash_10 | dentist-advance-six-frozen-humor-frequent-valley-banner-illegal-cry |  
+| bip_39_word_dash_11 | dentist-advance-six-frozen-humor-frequent-valley-banner-illegal-cry-blue |  
+| bip_39_word_dash_12 | dentist-advance-six-frozen-humor-frequent-valley-banner-illegal-cry-blue-april |  
+| bip_39_word_dash_2 | dentist-advance |  
+| bip_39_word_dash_3 | dentist-advance-six |  
+| bip_39_word_dash_4 | dentist-advance-six-frozen |  
+| bip_39_word_dash_5 | dentist-advance-six-frozen-humor |  
+| bip_39_word_dash_6 | dentist-advance-six-frozen-humor-frequent |  
+| bip_39_word_dash_7 | dentist-advance-six-frozen-humor-frequent-valley |  
+| bip_39_word_dash_8 | dentist-advance-six-frozen-humor-frequent-valley-banner |  
+| bip_39_word_dash_9 | dentist-advance-six-frozen-humor-frequent-valley-banner-illegal |  
 | bip_39_word_new_br_1 | dentist |  
 | bip_39_word_new_br_10 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner<br>illegal<br>cry |  
 | bip_39_word_new_br_11 | dentist<br>advance<br>six<br>frozen<br>humor<br>frequent<br>valley<br>banner<br>illegal<br>cry<br>blue |  
@@ -147,6 +159,18 @@ illegal |
 | bip_39_word_space_7 | dentist advance six frozen humor frequent valley |  
 | bip_39_word_space_8 | dentist advance six frozen humor frequent valley banner |  
 | bip_39_word_space_9 | dentist advance six frozen humor frequent valley banner illegal |  
+| bip_39_word_underscore_1 | dentist |  
+| bip_39_word_underscore_10 | dentist_advance_six_frozen_humor_frequent_valley_banner_illegal_cry |  
+| bip_39_word_underscore_11 | dentist_advance_six_frozen_humor_frequent_valley_banner_illegal_cry_blue |  
+| bip_39_word_underscore_12 | dentist_advance_six_frozen_humor_frequent_valley_banner_illegal_cry_blue_april |  
+| bip_39_word_underscore_2 | dentist_advance |  
+| bip_39_word_underscore_3 | dentist_advance_six |  
+| bip_39_word_underscore_4 | dentist_advance_six_frozen |  
+| bip_39_word_underscore_5 | dentist_advance_six_frozen_humor |  
+| bip_39_word_underscore_6 | dentist_advance_six_frozen_humor_frequent |  
+| bip_39_word_underscore_7 | dentist_advance_six_frozen_humor_frequent_valley |  
+| bip_39_word_underscore_8 | dentist_advance_six_frozen_humor_frequent_valley_banner |  
+| bip_39_word_underscore_9 | dentist_advance_six_frozen_humor_frequent_valley_banner_illegal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

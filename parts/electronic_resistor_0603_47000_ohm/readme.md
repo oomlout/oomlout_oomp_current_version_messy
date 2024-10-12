@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | imitate |  
+| bip_39_word_dash_10 | imitate-flame-craft-useless-enlist-toast-bench-moon-table-robot |  
+| bip_39_word_dash_11 | imitate-flame-craft-useless-enlist-toast-bench-moon-table-robot-repeat |  
+| bip_39_word_dash_12 | imitate-flame-craft-useless-enlist-toast-bench-moon-table-robot-repeat-arrow |  
+| bip_39_word_dash_2 | imitate-flame |  
+| bip_39_word_dash_3 | imitate-flame-craft |  
+| bip_39_word_dash_4 | imitate-flame-craft-useless |  
+| bip_39_word_dash_5 | imitate-flame-craft-useless-enlist |  
+| bip_39_word_dash_6 | imitate-flame-craft-useless-enlist-toast |  
+| bip_39_word_dash_7 | imitate-flame-craft-useless-enlist-toast-bench |  
+| bip_39_word_dash_8 | imitate-flame-craft-useless-enlist-toast-bench-moon |  
+| bip_39_word_dash_9 | imitate-flame-craft-useless-enlist-toast-bench-moon-table |  
 | bip_39_word_new_br_1 | imitate |  
 | bip_39_word_new_br_10 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon<br>table<br>robot |  
 | bip_39_word_new_br_11 | imitate<br>flame<br>craft<br>useless<br>enlist<br>toast<br>bench<br>moon<br>table<br>robot<br>repeat |  
@@ -147,6 +159,18 @@ table |
 | bip_39_word_space_7 | imitate flame craft useless enlist toast bench |  
 | bip_39_word_space_8 | imitate flame craft useless enlist toast bench moon |  
 | bip_39_word_space_9 | imitate flame craft useless enlist toast bench moon table |  
+| bip_39_word_underscore_1 | imitate |  
+| bip_39_word_underscore_10 | imitate_flame_craft_useless_enlist_toast_bench_moon_table_robot |  
+| bip_39_word_underscore_11 | imitate_flame_craft_useless_enlist_toast_bench_moon_table_robot_repeat |  
+| bip_39_word_underscore_12 | imitate_flame_craft_useless_enlist_toast_bench_moon_table_robot_repeat_arrow |  
+| bip_39_word_underscore_2 | imitate_flame |  
+| bip_39_word_underscore_3 | imitate_flame_craft |  
+| bip_39_word_underscore_4 | imitate_flame_craft_useless |  
+| bip_39_word_underscore_5 | imitate_flame_craft_useless_enlist |  
+| bip_39_word_underscore_6 | imitate_flame_craft_useless_enlist_toast |  
+| bip_39_word_underscore_7 | imitate_flame_craft_useless_enlist_toast_bench |  
+| bip_39_word_underscore_8 | imitate_flame_craft_useless_enlist_toast_bench_moon |  
+| bip_39_word_underscore_9 | imitate_flame_craft_useless_enlist_toast_bench_moon_table |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: endorse
+bip_39_word_dash_10: endorse-indoor-salon-audit-meat-give-similar-gadget-dial-album
+bip_39_word_dash_11: endorse-indoor-salon-audit-meat-give-similar-gadget-dial-album-swear
+bip_39_word_dash_12: endorse-indoor-salon-audit-meat-give-similar-gadget-dial-album-swear-abstract
+bip_39_word_dash_2: endorse-indoor
+bip_39_word_dash_3: endorse-indoor-salon
+bip_39_word_dash_4: endorse-indoor-salon-audit
+bip_39_word_dash_5: endorse-indoor-salon-audit-meat
+bip_39_word_dash_6: endorse-indoor-salon-audit-meat-give
+bip_39_word_dash_7: endorse-indoor-salon-audit-meat-give-similar
+bip_39_word_dash_8: endorse-indoor-salon-audit-meat-give-similar-gadget
+bip_39_word_dash_9: endorse-indoor-salon-audit-meat-give-similar-gadget-dial
 bip_39_word_new_br_1: endorse
 bip_39_word_new_br_10: endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album
 bip_39_word_new_br_11: endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album<br>swear
@@ -193,6 +205,18 @@ bip_39_word_space_6: endorse indoor salon audit meat give
 bip_39_word_space_7: endorse indoor salon audit meat give similar
 bip_39_word_space_8: endorse indoor salon audit meat give similar gadget
 bip_39_word_space_9: endorse indoor salon audit meat give similar gadget dial
+bip_39_word_underscore_1: endorse
+bip_39_word_underscore_10: endorse_indoor_salon_audit_meat_give_similar_gadget_dial_album
+bip_39_word_underscore_11: endorse_indoor_salon_audit_meat_give_similar_gadget_dial_album_swear
+bip_39_word_underscore_12: endorse_indoor_salon_audit_meat_give_similar_gadget_dial_album_swear_abstract
+bip_39_word_underscore_2: endorse_indoor
+bip_39_word_underscore_3: endorse_indoor_salon
+bip_39_word_underscore_4: endorse_indoor_salon_audit
+bip_39_word_underscore_5: endorse_indoor_salon_audit_meat
+bip_39_word_underscore_6: endorse_indoor_salon_audit_meat_give
+bip_39_word_underscore_7: endorse_indoor_salon_audit_meat_give_similar
+bip_39_word_underscore_8: endorse_indoor_salon_audit_meat_give_similar_gadget
+bip_39_word_underscore_9: endorse_indoor_salon_audit_meat_give_similar_gadget_dial
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

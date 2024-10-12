@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | year |  
+| bip_39_word_dash_10 | year-step-easy-uniform-vicious-explain-funny-behind-stand-drastic |  
+| bip_39_word_dash_11 | year-step-easy-uniform-vicious-explain-funny-behind-stand-drastic-cute |  
+| bip_39_word_dash_12 | year-step-easy-uniform-vicious-explain-funny-behind-stand-drastic-cute-armed |  
+| bip_39_word_dash_2 | year-step |  
+| bip_39_word_dash_3 | year-step-easy |  
+| bip_39_word_dash_4 | year-step-easy-uniform |  
+| bip_39_word_dash_5 | year-step-easy-uniform-vicious |  
+| bip_39_word_dash_6 | year-step-easy-uniform-vicious-explain |  
+| bip_39_word_dash_7 | year-step-easy-uniform-vicious-explain-funny |  
+| bip_39_word_dash_8 | year-step-easy-uniform-vicious-explain-funny-behind |  
+| bip_39_word_dash_9 | year-step-easy-uniform-vicious-explain-funny-behind-stand |  
 | bip_39_word_new_br_1 | year |  
 | bip_39_word_new_br_10 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind<br>stand<br>drastic |  
 | bip_39_word_new_br_11 | year<br>step<br>easy<br>uniform<br>vicious<br>explain<br>funny<br>behind<br>stand<br>drastic<br>cute |  
@@ -147,6 +159,18 @@ stand |
 | bip_39_word_space_7 | year step easy uniform vicious explain funny |  
 | bip_39_word_space_8 | year step easy uniform vicious explain funny behind |  
 | bip_39_word_space_9 | year step easy uniform vicious explain funny behind stand |  
+| bip_39_word_underscore_1 | year |  
+| bip_39_word_underscore_10 | year_step_easy_uniform_vicious_explain_funny_behind_stand_drastic |  
+| bip_39_word_underscore_11 | year_step_easy_uniform_vicious_explain_funny_behind_stand_drastic_cute |  
+| bip_39_word_underscore_12 | year_step_easy_uniform_vicious_explain_funny_behind_stand_drastic_cute_armed |  
+| bip_39_word_underscore_2 | year_step |  
+| bip_39_word_underscore_3 | year_step_easy |  
+| bip_39_word_underscore_4 | year_step_easy_uniform |  
+| bip_39_word_underscore_5 | year_step_easy_uniform_vicious |  
+| bip_39_word_underscore_6 | year_step_easy_uniform_vicious_explain |  
+| bip_39_word_underscore_7 | year_step_easy_uniform_vicious_explain_funny |  
+| bip_39_word_underscore_8 | year_step_easy_uniform_vicious_explain_funny_behind |  
+| bip_39_word_underscore_9 | year_step_easy_uniform_vicious_explain_funny_behind_stand |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

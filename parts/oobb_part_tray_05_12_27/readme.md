@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pretty |  
+| bip_39_word_dash_10 | pretty-garden-chief-cousin-require-obvious-bitter-alien-spoil-dash |  
+| bip_39_word_dash_11 | pretty-garden-chief-cousin-require-obvious-bitter-alien-spoil-dash-you |  
+| bip_39_word_dash_12 | pretty-garden-chief-cousin-require-obvious-bitter-alien-spoil-dash-you-act |  
+| bip_39_word_dash_2 | pretty-garden |  
+| bip_39_word_dash_3 | pretty-garden-chief |  
+| bip_39_word_dash_4 | pretty-garden-chief-cousin |  
+| bip_39_word_dash_5 | pretty-garden-chief-cousin-require |  
+| bip_39_word_dash_6 | pretty-garden-chief-cousin-require-obvious |  
+| bip_39_word_dash_7 | pretty-garden-chief-cousin-require-obvious-bitter |  
+| bip_39_word_dash_8 | pretty-garden-chief-cousin-require-obvious-bitter-alien |  
+| bip_39_word_dash_9 | pretty-garden-chief-cousin-require-obvious-bitter-alien-spoil |  
 | bip_39_word_new_br_1 | pretty |  
 | bip_39_word_new_br_10 | pretty<br>garden<br>chief<br>cousin<br>require<br>obvious<br>bitter<br>alien<br>spoil<br>dash |  
 | bip_39_word_new_br_11 | pretty<br>garden<br>chief<br>cousin<br>require<br>obvious<br>bitter<br>alien<br>spoil<br>dash<br>you |  
@@ -147,6 +159,18 @@ spoil |
 | bip_39_word_space_7 | pretty garden chief cousin require obvious bitter |  
 | bip_39_word_space_8 | pretty garden chief cousin require obvious bitter alien |  
 | bip_39_word_space_9 | pretty garden chief cousin require obvious bitter alien spoil |  
+| bip_39_word_underscore_1 | pretty |  
+| bip_39_word_underscore_10 | pretty_garden_chief_cousin_require_obvious_bitter_alien_spoil_dash |  
+| bip_39_word_underscore_11 | pretty_garden_chief_cousin_require_obvious_bitter_alien_spoil_dash_you |  
+| bip_39_word_underscore_12 | pretty_garden_chief_cousin_require_obvious_bitter_alien_spoil_dash_you_act |  
+| bip_39_word_underscore_2 | pretty_garden |  
+| bip_39_word_underscore_3 | pretty_garden_chief |  
+| bip_39_word_underscore_4 | pretty_garden_chief_cousin |  
+| bip_39_word_underscore_5 | pretty_garden_chief_cousin_require |  
+| bip_39_word_underscore_6 | pretty_garden_chief_cousin_require_obvious |  
+| bip_39_word_underscore_7 | pretty_garden_chief_cousin_require_obvious_bitter |  
+| bip_39_word_underscore_8 | pretty_garden_chief_cousin_require_obvious_bitter_alien |  
+| bip_39_word_underscore_9 | pretty_garden_chief_cousin_require_obvious_bitter_alien_spoil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

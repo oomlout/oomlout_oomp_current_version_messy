@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wise |  
+| bip_39_word_dash_10 | wise-wise-enemy-medal-today-comic-brain-name-stand-wealth |  
+| bip_39_word_dash_11 | wise-wise-enemy-medal-today-comic-brain-name-stand-wealth-expand |  
+| bip_39_word_dash_12 | wise-wise-enemy-medal-today-comic-brain-name-stand-wealth-expand-actual |  
+| bip_39_word_dash_2 | wise-wise |  
+| bip_39_word_dash_3 | wise-wise-enemy |  
+| bip_39_word_dash_4 | wise-wise-enemy-medal |  
+| bip_39_word_dash_5 | wise-wise-enemy-medal-today |  
+| bip_39_word_dash_6 | wise-wise-enemy-medal-today-comic |  
+| bip_39_word_dash_7 | wise-wise-enemy-medal-today-comic-brain |  
+| bip_39_word_dash_8 | wise-wise-enemy-medal-today-comic-brain-name |  
+| bip_39_word_dash_9 | wise-wise-enemy-medal-today-comic-brain-name-stand |  
 | bip_39_word_new_br_1 | wise |  
 | bip_39_word_new_br_10 | wise<br>wise<br>enemy<br>medal<br>today<br>comic<br>brain<br>name<br>stand<br>wealth |  
 | bip_39_word_new_br_11 | wise<br>wise<br>enemy<br>medal<br>today<br>comic<br>brain<br>name<br>stand<br>wealth<br>expand |  
@@ -147,6 +159,18 @@ stand |
 | bip_39_word_space_7 | wise wise enemy medal today comic brain |  
 | bip_39_word_space_8 | wise wise enemy medal today comic brain name |  
 | bip_39_word_space_9 | wise wise enemy medal today comic brain name stand |  
+| bip_39_word_underscore_1 | wise |  
+| bip_39_word_underscore_10 | wise_wise_enemy_medal_today_comic_brain_name_stand_wealth |  
+| bip_39_word_underscore_11 | wise_wise_enemy_medal_today_comic_brain_name_stand_wealth_expand |  
+| bip_39_word_underscore_12 | wise_wise_enemy_medal_today_comic_brain_name_stand_wealth_expand_actual |  
+| bip_39_word_underscore_2 | wise_wise |  
+| bip_39_word_underscore_3 | wise_wise_enemy |  
+| bip_39_word_underscore_4 | wise_wise_enemy_medal |  
+| bip_39_word_underscore_5 | wise_wise_enemy_medal_today |  
+| bip_39_word_underscore_6 | wise_wise_enemy_medal_today_comic |  
+| bip_39_word_underscore_7 | wise_wise_enemy_medal_today_comic_brain |  
+| bip_39_word_underscore_8 | wise_wise_enemy_medal_today_comic_brain_name |  
+| bip_39_word_underscore_9 | wise_wise_enemy_medal_today_comic_brain_name_stand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | depend |  
+| bip_39_word_dash_10 | depend-suspect-garage-together-egg-silent-list-knock-fetch-casual |  
+| bip_39_word_dash_11 | depend-suspect-garage-together-egg-silent-list-knock-fetch-casual-girl |  
+| bip_39_word_dash_12 | depend-suspect-garage-together-egg-silent-list-knock-fetch-casual-girl-afraid |  
+| bip_39_word_dash_2 | depend-suspect |  
+| bip_39_word_dash_3 | depend-suspect-garage |  
+| bip_39_word_dash_4 | depend-suspect-garage-together |  
+| bip_39_word_dash_5 | depend-suspect-garage-together-egg |  
+| bip_39_word_dash_6 | depend-suspect-garage-together-egg-silent |  
+| bip_39_word_dash_7 | depend-suspect-garage-together-egg-silent-list |  
+| bip_39_word_dash_8 | depend-suspect-garage-together-egg-silent-list-knock |  
+| bip_39_word_dash_9 | depend-suspect-garage-together-egg-silent-list-knock-fetch |  
 | bip_39_word_new_br_1 | depend |  
 | bip_39_word_new_br_10 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual |  
 | bip_39_word_new_br_11 | depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual<br>girl |  
@@ -147,6 +159,18 @@ fetch |
 | bip_39_word_space_7 | depend suspect garage together egg silent list |  
 | bip_39_word_space_8 | depend suspect garage together egg silent list knock |  
 | bip_39_word_space_9 | depend suspect garage together egg silent list knock fetch |  
+| bip_39_word_underscore_1 | depend |  
+| bip_39_word_underscore_10 | depend_suspect_garage_together_egg_silent_list_knock_fetch_casual |  
+| bip_39_word_underscore_11 | depend_suspect_garage_together_egg_silent_list_knock_fetch_casual_girl |  
+| bip_39_word_underscore_12 | depend_suspect_garage_together_egg_silent_list_knock_fetch_casual_girl_afraid |  
+| bip_39_word_underscore_2 | depend_suspect |  
+| bip_39_word_underscore_3 | depend_suspect_garage |  
+| bip_39_word_underscore_4 | depend_suspect_garage_together |  
+| bip_39_word_underscore_5 | depend_suspect_garage_together_egg |  
+| bip_39_word_underscore_6 | depend_suspect_garage_together_egg_silent |  
+| bip_39_word_underscore_7 | depend_suspect_garage_together_egg_silent_list |  
+| bip_39_word_underscore_8 | depend_suspect_garage_together_egg_silent_list_knock |  
+| bip_39_word_underscore_9 | depend_suspect_garage_together_egg_silent_list_knock_fetch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

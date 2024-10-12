@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chef |  
+| bip_39_word_dash_10 | chef-vacuum-original-ski-faculty-kid-erase-broken-smile-embark |  
+| bip_39_word_dash_11 | chef-vacuum-original-ski-faculty-kid-erase-broken-smile-embark-drive |  
+| bip_39_word_dash_12 | chef-vacuum-original-ski-faculty-kid-erase-broken-smile-embark-drive-album |  
+| bip_39_word_dash_2 | chef-vacuum |  
+| bip_39_word_dash_3 | chef-vacuum-original |  
+| bip_39_word_dash_4 | chef-vacuum-original-ski |  
+| bip_39_word_dash_5 | chef-vacuum-original-ski-faculty |  
+| bip_39_word_dash_6 | chef-vacuum-original-ski-faculty-kid |  
+| bip_39_word_dash_7 | chef-vacuum-original-ski-faculty-kid-erase |  
+| bip_39_word_dash_8 | chef-vacuum-original-ski-faculty-kid-erase-broken |  
+| bip_39_word_dash_9 | chef-vacuum-original-ski-faculty-kid-erase-broken-smile |  
 | bip_39_word_new_br_1 | chef |  
 | bip_39_word_new_br_10 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark |  
 | bip_39_word_new_br_11 | chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark<br>drive |  
@@ -147,6 +159,18 @@ smile |
 | bip_39_word_space_7 | chef vacuum original ski faculty kid erase |  
 | bip_39_word_space_8 | chef vacuum original ski faculty kid erase broken |  
 | bip_39_word_space_9 | chef vacuum original ski faculty kid erase broken smile |  
+| bip_39_word_underscore_1 | chef |  
+| bip_39_word_underscore_10 | chef_vacuum_original_ski_faculty_kid_erase_broken_smile_embark |  
+| bip_39_word_underscore_11 | chef_vacuum_original_ski_faculty_kid_erase_broken_smile_embark_drive |  
+| bip_39_word_underscore_12 | chef_vacuum_original_ski_faculty_kid_erase_broken_smile_embark_drive_album |  
+| bip_39_word_underscore_2 | chef_vacuum |  
+| bip_39_word_underscore_3 | chef_vacuum_original |  
+| bip_39_word_underscore_4 | chef_vacuum_original_ski |  
+| bip_39_word_underscore_5 | chef_vacuum_original_ski_faculty |  
+| bip_39_word_underscore_6 | chef_vacuum_original_ski_faculty_kid |  
+| bip_39_word_underscore_7 | chef_vacuum_original_ski_faculty_kid_erase |  
+| bip_39_word_underscore_8 | chef_vacuum_original_ski_faculty_kid_erase_broken |  
+| bip_39_word_underscore_9 | chef_vacuum_original_ski_faculty_kid_erase_broken_smile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

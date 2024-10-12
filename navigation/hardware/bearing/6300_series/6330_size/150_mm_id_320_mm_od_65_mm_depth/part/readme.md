@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | squeeze |  
+| bip_39_word_dash_10 | squeeze-weapon-orchard-price-sphere-present-awesome-total-firm-animal |  
+| bip_39_word_dash_11 | squeeze-weapon-orchard-price-sphere-present-awesome-total-firm-animal-father |  
+| bip_39_word_dash_12 | squeeze-weapon-orchard-price-sphere-present-awesome-total-firm-animal-father-arch |  
+| bip_39_word_dash_2 | squeeze-weapon |  
+| bip_39_word_dash_3 | squeeze-weapon-orchard |  
+| bip_39_word_dash_4 | squeeze-weapon-orchard-price |  
+| bip_39_word_dash_5 | squeeze-weapon-orchard-price-sphere |  
+| bip_39_word_dash_6 | squeeze-weapon-orchard-price-sphere-present |  
+| bip_39_word_dash_7 | squeeze-weapon-orchard-price-sphere-present-awesome |  
+| bip_39_word_dash_8 | squeeze-weapon-orchard-price-sphere-present-awesome-total |  
+| bip_39_word_dash_9 | squeeze-weapon-orchard-price-sphere-present-awesome-total-firm |  
 | bip_39_word_new_br_1 | squeeze |  
 | bip_39_word_new_br_10 | squeeze<br>weapon<br>orchard<br>price<br>sphere<br>present<br>awesome<br>total<br>firm<br>animal |  
 | bip_39_word_new_br_11 | squeeze<br>weapon<br>orchard<br>price<br>sphere<br>present<br>awesome<br>total<br>firm<br>animal<br>father |  
@@ -147,6 +159,18 @@ firm |
 | bip_39_word_space_7 | squeeze weapon orchard price sphere present awesome |  
 | bip_39_word_space_8 | squeeze weapon orchard price sphere present awesome total |  
 | bip_39_word_space_9 | squeeze weapon orchard price sphere present awesome total firm |  
+| bip_39_word_underscore_1 | squeeze |  
+| bip_39_word_underscore_10 | squeeze_weapon_orchard_price_sphere_present_awesome_total_firm_animal |  
+| bip_39_word_underscore_11 | squeeze_weapon_orchard_price_sphere_present_awesome_total_firm_animal_father |  
+| bip_39_word_underscore_12 | squeeze_weapon_orchard_price_sphere_present_awesome_total_firm_animal_father_arch |  
+| bip_39_word_underscore_2 | squeeze_weapon |  
+| bip_39_word_underscore_3 | squeeze_weapon_orchard |  
+| bip_39_word_underscore_4 | squeeze_weapon_orchard_price |  
+| bip_39_word_underscore_5 | squeeze_weapon_orchard_price_sphere |  
+| bip_39_word_underscore_6 | squeeze_weapon_orchard_price_sphere_present |  
+| bip_39_word_underscore_7 | squeeze_weapon_orchard_price_sphere_present_awesome |  
+| bip_39_word_underscore_8 | squeeze_weapon_orchard_price_sphere_present_awesome_total |  
+| bip_39_word_underscore_9 | squeeze_weapon_orchard_price_sphere_present_awesome_total_firm |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

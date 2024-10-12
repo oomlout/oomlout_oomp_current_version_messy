@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | give |  
+| bip_39_word_dash_10 | give-hospital-discover-wheat-noble-stage-fever-idea-practice-awful |  
+| bip_39_word_dash_11 | give-hospital-discover-wheat-noble-stage-fever-idea-practice-awful-please |  
+| bip_39_word_dash_12 | give-hospital-discover-wheat-noble-stage-fever-idea-practice-awful-please-approve |  
+| bip_39_word_dash_2 | give-hospital |  
+| bip_39_word_dash_3 | give-hospital-discover |  
+| bip_39_word_dash_4 | give-hospital-discover-wheat |  
+| bip_39_word_dash_5 | give-hospital-discover-wheat-noble |  
+| bip_39_word_dash_6 | give-hospital-discover-wheat-noble-stage |  
+| bip_39_word_dash_7 | give-hospital-discover-wheat-noble-stage-fever |  
+| bip_39_word_dash_8 | give-hospital-discover-wheat-noble-stage-fever-idea |  
+| bip_39_word_dash_9 | give-hospital-discover-wheat-noble-stage-fever-idea-practice |  
 | bip_39_word_new_br_1 | give |  
 | bip_39_word_new_br_10 | give<br>hospital<br>discover<br>wheat<br>noble<br>stage<br>fever<br>idea<br>practice<br>awful |  
 | bip_39_word_new_br_11 | give<br>hospital<br>discover<br>wheat<br>noble<br>stage<br>fever<br>idea<br>practice<br>awful<br>please |  
@@ -147,6 +159,18 @@ practice |
 | bip_39_word_space_7 | give hospital discover wheat noble stage fever |  
 | bip_39_word_space_8 | give hospital discover wheat noble stage fever idea |  
 | bip_39_word_space_9 | give hospital discover wheat noble stage fever idea practice |  
+| bip_39_word_underscore_1 | give |  
+| bip_39_word_underscore_10 | give_hospital_discover_wheat_noble_stage_fever_idea_practice_awful |  
+| bip_39_word_underscore_11 | give_hospital_discover_wheat_noble_stage_fever_idea_practice_awful_please |  
+| bip_39_word_underscore_12 | give_hospital_discover_wheat_noble_stage_fever_idea_practice_awful_please_approve |  
+| bip_39_word_underscore_2 | give_hospital |  
+| bip_39_word_underscore_3 | give_hospital_discover |  
+| bip_39_word_underscore_4 | give_hospital_discover_wheat |  
+| bip_39_word_underscore_5 | give_hospital_discover_wheat_noble |  
+| bip_39_word_underscore_6 | give_hospital_discover_wheat_noble_stage |  
+| bip_39_word_underscore_7 | give_hospital_discover_wheat_noble_stage_fever |  
+| bip_39_word_underscore_8 | give_hospital_discover_wheat_noble_stage_fever_idea |  
+| bip_39_word_underscore_9 | give_hospital_discover_wheat_noble_stage_fever_idea_practice |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

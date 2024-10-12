@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | have |  
+| bip_39_word_dash_10 | have-left-stamp-kiwi-title-lawn-jungle-control-welcome-grace |  
+| bip_39_word_dash_11 | have-left-stamp-kiwi-title-lawn-jungle-control-welcome-grace-improve |  
+| bip_39_word_dash_12 | have-left-stamp-kiwi-title-lawn-jungle-control-welcome-grace-improve-analyst |  
+| bip_39_word_dash_2 | have-left |  
+| bip_39_word_dash_3 | have-left-stamp |  
+| bip_39_word_dash_4 | have-left-stamp-kiwi |  
+| bip_39_word_dash_5 | have-left-stamp-kiwi-title |  
+| bip_39_word_dash_6 | have-left-stamp-kiwi-title-lawn |  
+| bip_39_word_dash_7 | have-left-stamp-kiwi-title-lawn-jungle |  
+| bip_39_word_dash_8 | have-left-stamp-kiwi-title-lawn-jungle-control |  
+| bip_39_word_dash_9 | have-left-stamp-kiwi-title-lawn-jungle-control-welcome |  
 | bip_39_word_new_br_1 | have |  
 | bip_39_word_new_br_10 | have<br>left<br>stamp<br>kiwi<br>title<br>lawn<br>jungle<br>control<br>welcome<br>grace |  
 | bip_39_word_new_br_11 | have<br>left<br>stamp<br>kiwi<br>title<br>lawn<br>jungle<br>control<br>welcome<br>grace<br>improve |  
@@ -147,6 +159,18 @@ welcome |
 | bip_39_word_space_7 | have left stamp kiwi title lawn jungle |  
 | bip_39_word_space_8 | have left stamp kiwi title lawn jungle control |  
 | bip_39_word_space_9 | have left stamp kiwi title lawn jungle control welcome |  
+| bip_39_word_underscore_1 | have |  
+| bip_39_word_underscore_10 | have_left_stamp_kiwi_title_lawn_jungle_control_welcome_grace |  
+| bip_39_word_underscore_11 | have_left_stamp_kiwi_title_lawn_jungle_control_welcome_grace_improve |  
+| bip_39_word_underscore_12 | have_left_stamp_kiwi_title_lawn_jungle_control_welcome_grace_improve_analyst |  
+| bip_39_word_underscore_2 | have_left |  
+| bip_39_word_underscore_3 | have_left_stamp |  
+| bip_39_word_underscore_4 | have_left_stamp_kiwi |  
+| bip_39_word_underscore_5 | have_left_stamp_kiwi_title |  
+| bip_39_word_underscore_6 | have_left_stamp_kiwi_title_lawn |  
+| bip_39_word_underscore_7 | have_left_stamp_kiwi_title_lawn_jungle |  
+| bip_39_word_underscore_8 | have_left_stamp_kiwi_title_lawn_jungle_control |  
+| bip_39_word_underscore_9 | have_left_stamp_kiwi_title_lawn_jungle_control_welcome |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

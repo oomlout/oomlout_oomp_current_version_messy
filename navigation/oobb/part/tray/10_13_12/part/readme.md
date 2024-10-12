@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trumpet |  
+| bip_39_word_dash_10 | trumpet-tree-people-train-deny-code-flush-flavor-reopen-real |  
+| bip_39_word_dash_11 | trumpet-tree-people-train-deny-code-flush-flavor-reopen-real-illegal |  
+| bip_39_word_dash_12 | trumpet-tree-people-train-deny-code-flush-flavor-reopen-real-illegal-actual |  
+| bip_39_word_dash_2 | trumpet-tree |  
+| bip_39_word_dash_3 | trumpet-tree-people |  
+| bip_39_word_dash_4 | trumpet-tree-people-train |  
+| bip_39_word_dash_5 | trumpet-tree-people-train-deny |  
+| bip_39_word_dash_6 | trumpet-tree-people-train-deny-code |  
+| bip_39_word_dash_7 | trumpet-tree-people-train-deny-code-flush |  
+| bip_39_word_dash_8 | trumpet-tree-people-train-deny-code-flush-flavor |  
+| bip_39_word_dash_9 | trumpet-tree-people-train-deny-code-flush-flavor-reopen |  
 | bip_39_word_new_br_1 | trumpet |  
 | bip_39_word_new_br_10 | trumpet<br>tree<br>people<br>train<br>deny<br>code<br>flush<br>flavor<br>reopen<br>real |  
 | bip_39_word_new_br_11 | trumpet<br>tree<br>people<br>train<br>deny<br>code<br>flush<br>flavor<br>reopen<br>real<br>illegal |  
@@ -147,6 +159,18 @@ reopen |
 | bip_39_word_space_7 | trumpet tree people train deny code flush |  
 | bip_39_word_space_8 | trumpet tree people train deny code flush flavor |  
 | bip_39_word_space_9 | trumpet tree people train deny code flush flavor reopen |  
+| bip_39_word_underscore_1 | trumpet |  
+| bip_39_word_underscore_10 | trumpet_tree_people_train_deny_code_flush_flavor_reopen_real |  
+| bip_39_word_underscore_11 | trumpet_tree_people_train_deny_code_flush_flavor_reopen_real_illegal |  
+| bip_39_word_underscore_12 | trumpet_tree_people_train_deny_code_flush_flavor_reopen_real_illegal_actual |  
+| bip_39_word_underscore_2 | trumpet_tree |  
+| bip_39_word_underscore_3 | trumpet_tree_people |  
+| bip_39_word_underscore_4 | trumpet_tree_people_train |  
+| bip_39_word_underscore_5 | trumpet_tree_people_train_deny |  
+| bip_39_word_underscore_6 | trumpet_tree_people_train_deny_code |  
+| bip_39_word_underscore_7 | trumpet_tree_people_train_deny_code_flush |  
+| bip_39_word_underscore_8 | trumpet_tree_people_train_deny_code_flush_flavor |  
+| bip_39_word_underscore_9 | trumpet_tree_people_train_deny_code_flush_flavor_reopen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

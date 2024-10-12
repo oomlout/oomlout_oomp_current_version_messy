@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stumble
+bip_39_word_dash_10: stumble-domain-crumble-icon-kick-pulse-decide-since-divert-goat
+bip_39_word_dash_11: stumble-domain-crumble-icon-kick-pulse-decide-since-divert-goat-panic
+bip_39_word_dash_12: stumble-domain-crumble-icon-kick-pulse-decide-since-divert-goat-panic-antique
+bip_39_word_dash_2: stumble-domain
+bip_39_word_dash_3: stumble-domain-crumble
+bip_39_word_dash_4: stumble-domain-crumble-icon
+bip_39_word_dash_5: stumble-domain-crumble-icon-kick
+bip_39_word_dash_6: stumble-domain-crumble-icon-kick-pulse
+bip_39_word_dash_7: stumble-domain-crumble-icon-kick-pulse-decide
+bip_39_word_dash_8: stumble-domain-crumble-icon-kick-pulse-decide-since
+bip_39_word_dash_9: stumble-domain-crumble-icon-kick-pulse-decide-since-divert
 bip_39_word_new_br_1: stumble
 bip_39_word_new_br_10: stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since<br>divert<br>goat
 bip_39_word_new_br_11: stumble<br>domain<br>crumble<br>icon<br>kick<br>pulse<br>decide<br>since<br>divert<br>goat<br>panic
@@ -193,6 +205,18 @@ bip_39_word_space_6: stumble domain crumble icon kick pulse
 bip_39_word_space_7: stumble domain crumble icon kick pulse decide
 bip_39_word_space_8: stumble domain crumble icon kick pulse decide since
 bip_39_word_space_9: stumble domain crumble icon kick pulse decide since divert
+bip_39_word_underscore_1: stumble
+bip_39_word_underscore_10: stumble_domain_crumble_icon_kick_pulse_decide_since_divert_goat
+bip_39_word_underscore_11: stumble_domain_crumble_icon_kick_pulse_decide_since_divert_goat_panic
+bip_39_word_underscore_12: stumble_domain_crumble_icon_kick_pulse_decide_since_divert_goat_panic_antique
+bip_39_word_underscore_2: stumble_domain
+bip_39_word_underscore_3: stumble_domain_crumble
+bip_39_word_underscore_4: stumble_domain_crumble_icon
+bip_39_word_underscore_5: stumble_domain_crumble_icon_kick
+bip_39_word_underscore_6: stumble_domain_crumble_icon_kick_pulse
+bip_39_word_underscore_7: stumble_domain_crumble_icon_kick_pulse_decide
+bip_39_word_underscore_8: stumble_domain_crumble_icon_kick_pulse_decide_since
+bip_39_word_underscore_9: stumble_domain_crumble_icon_kick_pulse_decide_since_divert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | differ |  
+| bip_39_word_dash_10 | differ-consider-square-dynamic-around-lumber-toss-city-common-broom |  
+| bip_39_word_dash_11 | differ-consider-square-dynamic-around-lumber-toss-city-common-broom-obscure |  
+| bip_39_word_dash_12 | differ-consider-square-dynamic-around-lumber-toss-city-common-broom-obscure-again |  
+| bip_39_word_dash_2 | differ-consider |  
+| bip_39_word_dash_3 | differ-consider-square |  
+| bip_39_word_dash_4 | differ-consider-square-dynamic |  
+| bip_39_word_dash_5 | differ-consider-square-dynamic-around |  
+| bip_39_word_dash_6 | differ-consider-square-dynamic-around-lumber |  
+| bip_39_word_dash_7 | differ-consider-square-dynamic-around-lumber-toss |  
+| bip_39_word_dash_8 | differ-consider-square-dynamic-around-lumber-toss-city |  
+| bip_39_word_dash_9 | differ-consider-square-dynamic-around-lumber-toss-city-common |  
 | bip_39_word_new_br_1 | differ |  
 | bip_39_word_new_br_10 | differ<br>consider<br>square<br>dynamic<br>around<br>lumber<br>toss<br>city<br>common<br>broom |  
 | bip_39_word_new_br_11 | differ<br>consider<br>square<br>dynamic<br>around<br>lumber<br>toss<br>city<br>common<br>broom<br>obscure |  
@@ -147,6 +159,18 @@ common |
 | bip_39_word_space_7 | differ consider square dynamic around lumber toss |  
 | bip_39_word_space_8 | differ consider square dynamic around lumber toss city |  
 | bip_39_word_space_9 | differ consider square dynamic around lumber toss city common |  
+| bip_39_word_underscore_1 | differ |  
+| bip_39_word_underscore_10 | differ_consider_square_dynamic_around_lumber_toss_city_common_broom |  
+| bip_39_word_underscore_11 | differ_consider_square_dynamic_around_lumber_toss_city_common_broom_obscure |  
+| bip_39_word_underscore_12 | differ_consider_square_dynamic_around_lumber_toss_city_common_broom_obscure_again |  
+| bip_39_word_underscore_2 | differ_consider |  
+| bip_39_word_underscore_3 | differ_consider_square |  
+| bip_39_word_underscore_4 | differ_consider_square_dynamic |  
+| bip_39_word_underscore_5 | differ_consider_square_dynamic_around |  
+| bip_39_word_underscore_6 | differ_consider_square_dynamic_around_lumber |  
+| bip_39_word_underscore_7 | differ_consider_square_dynamic_around_lumber_toss |  
+| bip_39_word_underscore_8 | differ_consider_square_dynamic_around_lumber_toss_city |  
+| bip_39_word_underscore_9 | differ_consider_square_dynamic_around_lumber_toss_city_common |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

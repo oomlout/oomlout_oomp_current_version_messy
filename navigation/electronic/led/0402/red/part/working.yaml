@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trim
+bip_39_word_dash_10: trim-nurse-bonus-skirt-prevent-want-uphold-fluid-danger-input
+bip_39_word_dash_11: trim-nurse-bonus-skirt-prevent-want-uphold-fluid-danger-input-lake
+bip_39_word_dash_12: trim-nurse-bonus-skirt-prevent-want-uphold-fluid-danger-input-lake-artist
+bip_39_word_dash_2: trim-nurse
+bip_39_word_dash_3: trim-nurse-bonus
+bip_39_word_dash_4: trim-nurse-bonus-skirt
+bip_39_word_dash_5: trim-nurse-bonus-skirt-prevent
+bip_39_word_dash_6: trim-nurse-bonus-skirt-prevent-want
+bip_39_word_dash_7: trim-nurse-bonus-skirt-prevent-want-uphold
+bip_39_word_dash_8: trim-nurse-bonus-skirt-prevent-want-uphold-fluid
+bip_39_word_dash_9: trim-nurse-bonus-skirt-prevent-want-uphold-fluid-danger
 bip_39_word_new_br_1: trim
 bip_39_word_new_br_10: trim<br>nurse<br>bonus<br>skirt<br>prevent<br>want<br>uphold<br>fluid<br>danger<br>input
 bip_39_word_new_br_11: trim<br>nurse<br>bonus<br>skirt<br>prevent<br>want<br>uphold<br>fluid<br>danger<br>input<br>lake
@@ -193,6 +205,18 @@ bip_39_word_space_6: trim nurse bonus skirt prevent want
 bip_39_word_space_7: trim nurse bonus skirt prevent want uphold
 bip_39_word_space_8: trim nurse bonus skirt prevent want uphold fluid
 bip_39_word_space_9: trim nurse bonus skirt prevent want uphold fluid danger
+bip_39_word_underscore_1: trim
+bip_39_word_underscore_10: trim_nurse_bonus_skirt_prevent_want_uphold_fluid_danger_input
+bip_39_word_underscore_11: trim_nurse_bonus_skirt_prevent_want_uphold_fluid_danger_input_lake
+bip_39_word_underscore_12: trim_nurse_bonus_skirt_prevent_want_uphold_fluid_danger_input_lake_artist
+bip_39_word_underscore_2: trim_nurse
+bip_39_word_underscore_3: trim_nurse_bonus
+bip_39_word_underscore_4: trim_nurse_bonus_skirt
+bip_39_word_underscore_5: trim_nurse_bonus_skirt_prevent
+bip_39_word_underscore_6: trim_nurse_bonus_skirt_prevent_want
+bip_39_word_underscore_7: trim_nurse_bonus_skirt_prevent_want_uphold
+bip_39_word_underscore_8: trim_nurse_bonus_skirt_prevent_want_uphold_fluid
+bip_39_word_underscore_9: trim_nurse_bonus_skirt_prevent_want_uphold_fluid_danger
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

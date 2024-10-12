@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rough |  
+| bip_39_word_dash_10 | rough-evidence-coach-ski-forget-unique-glad-merry-erode-lady |  
+| bip_39_word_dash_11 | rough-evidence-coach-ski-forget-unique-glad-merry-erode-lady-cave |  
+| bip_39_word_dash_12 | rough-evidence-coach-ski-forget-unique-glad-merry-erode-lady-cave-afford |  
+| bip_39_word_dash_2 | rough-evidence |  
+| bip_39_word_dash_3 | rough-evidence-coach |  
+| bip_39_word_dash_4 | rough-evidence-coach-ski |  
+| bip_39_word_dash_5 | rough-evidence-coach-ski-forget |  
+| bip_39_word_dash_6 | rough-evidence-coach-ski-forget-unique |  
+| bip_39_word_dash_7 | rough-evidence-coach-ski-forget-unique-glad |  
+| bip_39_word_dash_8 | rough-evidence-coach-ski-forget-unique-glad-merry |  
+| bip_39_word_dash_9 | rough-evidence-coach-ski-forget-unique-glad-merry-erode |  
 | bip_39_word_new_br_1 | rough |  
 | bip_39_word_new_br_10 | rough<br>evidence<br>coach<br>ski<br>forget<br>unique<br>glad<br>merry<br>erode<br>lady |  
 | bip_39_word_new_br_11 | rough<br>evidence<br>coach<br>ski<br>forget<br>unique<br>glad<br>merry<br>erode<br>lady<br>cave |  
@@ -147,6 +159,18 @@ erode |
 | bip_39_word_space_7 | rough evidence coach ski forget unique glad |  
 | bip_39_word_space_8 | rough evidence coach ski forget unique glad merry |  
 | bip_39_word_space_9 | rough evidence coach ski forget unique glad merry erode |  
+| bip_39_word_underscore_1 | rough |  
+| bip_39_word_underscore_10 | rough_evidence_coach_ski_forget_unique_glad_merry_erode_lady |  
+| bip_39_word_underscore_11 | rough_evidence_coach_ski_forget_unique_glad_merry_erode_lady_cave |  
+| bip_39_word_underscore_12 | rough_evidence_coach_ski_forget_unique_glad_merry_erode_lady_cave_afford |  
+| bip_39_word_underscore_2 | rough_evidence |  
+| bip_39_word_underscore_3 | rough_evidence_coach |  
+| bip_39_word_underscore_4 | rough_evidence_coach_ski |  
+| bip_39_word_underscore_5 | rough_evidence_coach_ski_forget |  
+| bip_39_word_underscore_6 | rough_evidence_coach_ski_forget_unique |  
+| bip_39_word_underscore_7 | rough_evidence_coach_ski_forget_unique_glad |  
+| bip_39_word_underscore_8 | rough_evidence_coach_ski_forget_unique_glad_merry |  
+| bip_39_word_underscore_9 | rough_evidence_coach_ski_forget_unique_glad_merry_erode |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

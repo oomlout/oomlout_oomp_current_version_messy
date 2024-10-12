@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | choose |  
+| bip_39_word_dash_10 | choose-point-expect-table-unlock-suspect-fiscal-sense-furnace-country |  
+| bip_39_word_dash_11 | choose-point-expect-table-unlock-suspect-fiscal-sense-furnace-country-pair |  
+| bip_39_word_dash_12 | choose-point-expect-table-unlock-suspect-fiscal-sense-furnace-country-pair-armed |  
+| bip_39_word_dash_2 | choose-point |  
+| bip_39_word_dash_3 | choose-point-expect |  
+| bip_39_word_dash_4 | choose-point-expect-table |  
+| bip_39_word_dash_5 | choose-point-expect-table-unlock |  
+| bip_39_word_dash_6 | choose-point-expect-table-unlock-suspect |  
+| bip_39_word_dash_7 | choose-point-expect-table-unlock-suspect-fiscal |  
+| bip_39_word_dash_8 | choose-point-expect-table-unlock-suspect-fiscal-sense |  
+| bip_39_word_dash_9 | choose-point-expect-table-unlock-suspect-fiscal-sense-furnace |  
 | bip_39_word_new_br_1 | choose |  
 | bip_39_word_new_br_10 | choose<br>point<br>expect<br>table<br>unlock<br>suspect<br>fiscal<br>sense<br>furnace<br>country |  
 | bip_39_word_new_br_11 | choose<br>point<br>expect<br>table<br>unlock<br>suspect<br>fiscal<br>sense<br>furnace<br>country<br>pair |  
@@ -147,6 +159,18 @@ furnace |
 | bip_39_word_space_7 | choose point expect table unlock suspect fiscal |  
 | bip_39_word_space_8 | choose point expect table unlock suspect fiscal sense |  
 | bip_39_word_space_9 | choose point expect table unlock suspect fiscal sense furnace |  
+| bip_39_word_underscore_1 | choose |  
+| bip_39_word_underscore_10 | choose_point_expect_table_unlock_suspect_fiscal_sense_furnace_country |  
+| bip_39_word_underscore_11 | choose_point_expect_table_unlock_suspect_fiscal_sense_furnace_country_pair |  
+| bip_39_word_underscore_12 | choose_point_expect_table_unlock_suspect_fiscal_sense_furnace_country_pair_armed |  
+| bip_39_word_underscore_2 | choose_point |  
+| bip_39_word_underscore_3 | choose_point_expect |  
+| bip_39_word_underscore_4 | choose_point_expect_table |  
+| bip_39_word_underscore_5 | choose_point_expect_table_unlock |  
+| bip_39_word_underscore_6 | choose_point_expect_table_unlock_suspect |  
+| bip_39_word_underscore_7 | choose_point_expect_table_unlock_suspect_fiscal |  
+| bip_39_word_underscore_8 | choose_point_expect_table_unlock_suspect_fiscal_sense |  
+| bip_39_word_underscore_9 | choose_point_expect_table_unlock_suspect_fiscal_sense_furnace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

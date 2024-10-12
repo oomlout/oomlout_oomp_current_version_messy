@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vendor
+bip_39_word_dash_10: vendor-ecology-moon-feature-foot-submit-fresh-panda-more-camera
+bip_39_word_dash_11: vendor-ecology-moon-feature-foot-submit-fresh-panda-more-camera-thrive
+bip_39_word_dash_12: vendor-ecology-moon-feature-foot-submit-fresh-panda-more-camera-thrive-armed
+bip_39_word_dash_2: vendor-ecology
+bip_39_word_dash_3: vendor-ecology-moon
+bip_39_word_dash_4: vendor-ecology-moon-feature
+bip_39_word_dash_5: vendor-ecology-moon-feature-foot
+bip_39_word_dash_6: vendor-ecology-moon-feature-foot-submit
+bip_39_word_dash_7: vendor-ecology-moon-feature-foot-submit-fresh
+bip_39_word_dash_8: vendor-ecology-moon-feature-foot-submit-fresh-panda
+bip_39_word_dash_9: vendor-ecology-moon-feature-foot-submit-fresh-panda-more
 bip_39_word_new_br_1: vendor
 bip_39_word_new_br_10: vendor<br>ecology<br>moon<br>feature<br>foot<br>submit<br>fresh<br>panda<br>more<br>camera
 bip_39_word_new_br_11: vendor<br>ecology<br>moon<br>feature<br>foot<br>submit<br>fresh<br>panda<br>more<br>camera<br>thrive
@@ -193,6 +205,18 @@ bip_39_word_space_6: vendor ecology moon feature foot submit
 bip_39_word_space_7: vendor ecology moon feature foot submit fresh
 bip_39_word_space_8: vendor ecology moon feature foot submit fresh panda
 bip_39_word_space_9: vendor ecology moon feature foot submit fresh panda more
+bip_39_word_underscore_1: vendor
+bip_39_word_underscore_10: vendor_ecology_moon_feature_foot_submit_fresh_panda_more_camera
+bip_39_word_underscore_11: vendor_ecology_moon_feature_foot_submit_fresh_panda_more_camera_thrive
+bip_39_word_underscore_12: vendor_ecology_moon_feature_foot_submit_fresh_panda_more_camera_thrive_armed
+bip_39_word_underscore_2: vendor_ecology
+bip_39_word_underscore_3: vendor_ecology_moon
+bip_39_word_underscore_4: vendor_ecology_moon_feature
+bip_39_word_underscore_5: vendor_ecology_moon_feature_foot
+bip_39_word_underscore_6: vendor_ecology_moon_feature_foot_submit
+bip_39_word_underscore_7: vendor_ecology_moon_feature_foot_submit_fresh
+bip_39_word_underscore_8: vendor_ecology_moon_feature_foot_submit_fresh_panda
+bip_39_word_underscore_9: vendor_ecology_moon_feature_foot_submit_fresh_panda_more
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

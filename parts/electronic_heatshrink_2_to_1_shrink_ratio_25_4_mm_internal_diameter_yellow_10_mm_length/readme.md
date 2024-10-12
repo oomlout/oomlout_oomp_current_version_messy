@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sleep |  
+| bip_39_word_dash_10 | sleep-bubble-shop-trick-penalty-use-always-vast-allow-stuff |  
+| bip_39_word_dash_11 | sleep-bubble-shop-trick-penalty-use-always-vast-allow-stuff-execute |  
+| bip_39_word_dash_12 | sleep-bubble-shop-trick-penalty-use-always-vast-allow-stuff-execute-album |  
+| bip_39_word_dash_2 | sleep-bubble |  
+| bip_39_word_dash_3 | sleep-bubble-shop |  
+| bip_39_word_dash_4 | sleep-bubble-shop-trick |  
+| bip_39_word_dash_5 | sleep-bubble-shop-trick-penalty |  
+| bip_39_word_dash_6 | sleep-bubble-shop-trick-penalty-use |  
+| bip_39_word_dash_7 | sleep-bubble-shop-trick-penalty-use-always |  
+| bip_39_word_dash_8 | sleep-bubble-shop-trick-penalty-use-always-vast |  
+| bip_39_word_dash_9 | sleep-bubble-shop-trick-penalty-use-always-vast-allow |  
 | bip_39_word_new_br_1 | sleep |  
 | bip_39_word_new_br_10 | sleep<br>bubble<br>shop<br>trick<br>penalty<br>use<br>always<br>vast<br>allow<br>stuff |  
 | bip_39_word_new_br_11 | sleep<br>bubble<br>shop<br>trick<br>penalty<br>use<br>always<br>vast<br>allow<br>stuff<br>execute |  
@@ -147,6 +159,18 @@ allow |
 | bip_39_word_space_7 | sleep bubble shop trick penalty use always |  
 | bip_39_word_space_8 | sleep bubble shop trick penalty use always vast |  
 | bip_39_word_space_9 | sleep bubble shop trick penalty use always vast allow |  
+| bip_39_word_underscore_1 | sleep |  
+| bip_39_word_underscore_10 | sleep_bubble_shop_trick_penalty_use_always_vast_allow_stuff |  
+| bip_39_word_underscore_11 | sleep_bubble_shop_trick_penalty_use_always_vast_allow_stuff_execute |  
+| bip_39_word_underscore_12 | sleep_bubble_shop_trick_penalty_use_always_vast_allow_stuff_execute_album |  
+| bip_39_word_underscore_2 | sleep_bubble |  
+| bip_39_word_underscore_3 | sleep_bubble_shop |  
+| bip_39_word_underscore_4 | sleep_bubble_shop_trick |  
+| bip_39_word_underscore_5 | sleep_bubble_shop_trick_penalty |  
+| bip_39_word_underscore_6 | sleep_bubble_shop_trick_penalty_use |  
+| bip_39_word_underscore_7 | sleep_bubble_shop_trick_penalty_use_always |  
+| bip_39_word_underscore_8 | sleep_bubble_shop_trick_penalty_use_always_vast |  
+| bip_39_word_underscore_9 | sleep_bubble_shop_trick_penalty_use_always_vast_allow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

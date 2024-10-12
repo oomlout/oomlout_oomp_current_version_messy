@@ -1,3 +1,15 @@
+bip_39_word_dash_1: envelope
+bip_39_word_dash_10: envelope-assist-aim-fish-marine-dove-find-april-lion-medal
+bip_39_word_dash_11: envelope-assist-aim-fish-marine-dove-find-april-lion-medal-first
+bip_39_word_dash_12: envelope-assist-aim-fish-marine-dove-find-april-lion-medal-first-angry
+bip_39_word_dash_2: envelope-assist
+bip_39_word_dash_3: envelope-assist-aim
+bip_39_word_dash_4: envelope-assist-aim-fish
+bip_39_word_dash_5: envelope-assist-aim-fish-marine
+bip_39_word_dash_6: envelope-assist-aim-fish-marine-dove
+bip_39_word_dash_7: envelope-assist-aim-fish-marine-dove-find
+bip_39_word_dash_8: envelope-assist-aim-fish-marine-dove-find-april
+bip_39_word_dash_9: envelope-assist-aim-fish-marine-dove-find-april-lion
 bip_39_word_new_br_1: envelope
 bip_39_word_new_br_10: envelope<br>assist<br>aim<br>fish<br>marine<br>dove<br>find<br>april<br>lion<br>medal
 bip_39_word_new_br_11: envelope<br>assist<br>aim<br>fish<br>marine<br>dove<br>find<br>april<br>lion<br>medal<br>first
@@ -192,6 +204,18 @@ bip_39_word_space_6: envelope assist aim fish marine dove
 bip_39_word_space_7: envelope assist aim fish marine dove find
 bip_39_word_space_8: envelope assist aim fish marine dove find april
 bip_39_word_space_9: envelope assist aim fish marine dove find april lion
+bip_39_word_underscore_1: envelope
+bip_39_word_underscore_10: envelope_assist_aim_fish_marine_dove_find_april_lion_medal
+bip_39_word_underscore_11: envelope_assist_aim_fish_marine_dove_find_april_lion_medal_first
+bip_39_word_underscore_12: envelope_assist_aim_fish_marine_dove_find_april_lion_medal_first_angry
+bip_39_word_underscore_2: envelope_assist
+bip_39_word_underscore_3: envelope_assist_aim
+bip_39_word_underscore_4: envelope_assist_aim_fish
+bip_39_word_underscore_5: envelope_assist_aim_fish_marine
+bip_39_word_underscore_6: envelope_assist_aim_fish_marine_dove
+bip_39_word_underscore_7: envelope_assist_aim_fish_marine_dove_find
+bip_39_word_underscore_8: envelope_assist_aim_fish_marine_dove_find_april
+bip_39_word_underscore_9: envelope_assist_aim_fish_marine_dove_find_april_lion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

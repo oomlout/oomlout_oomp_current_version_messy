@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tobacco |  
+| bip_39_word_dash_10 | tobacco-sheriff-shop-receive-script-chase-mercy-behave-vast-cupboard |  
+| bip_39_word_dash_11 | tobacco-sheriff-shop-receive-script-chase-mercy-behave-vast-cupboard-episode |  
+| bip_39_word_dash_12 | tobacco-sheriff-shop-receive-script-chase-mercy-behave-vast-cupboard-episode-already |  
+| bip_39_word_dash_2 | tobacco-sheriff |  
+| bip_39_word_dash_3 | tobacco-sheriff-shop |  
+| bip_39_word_dash_4 | tobacco-sheriff-shop-receive |  
+| bip_39_word_dash_5 | tobacco-sheriff-shop-receive-script |  
+| bip_39_word_dash_6 | tobacco-sheriff-shop-receive-script-chase |  
+| bip_39_word_dash_7 | tobacco-sheriff-shop-receive-script-chase-mercy |  
+| bip_39_word_dash_8 | tobacco-sheriff-shop-receive-script-chase-mercy-behave |  
+| bip_39_word_dash_9 | tobacco-sheriff-shop-receive-script-chase-mercy-behave-vast |  
 | bip_39_word_new_br_1 | tobacco |  
 | bip_39_word_new_br_10 | tobacco<br>sheriff<br>shop<br>receive<br>script<br>chase<br>mercy<br>behave<br>vast<br>cupboard |  
 | bip_39_word_new_br_11 | tobacco<br>sheriff<br>shop<br>receive<br>script<br>chase<br>mercy<br>behave<br>vast<br>cupboard<br>episode |  
@@ -147,6 +159,18 @@ vast |
 | bip_39_word_space_7 | tobacco sheriff shop receive script chase mercy |  
 | bip_39_word_space_8 | tobacco sheriff shop receive script chase mercy behave |  
 | bip_39_word_space_9 | tobacco sheriff shop receive script chase mercy behave vast |  
+| bip_39_word_underscore_1 | tobacco |  
+| bip_39_word_underscore_10 | tobacco_sheriff_shop_receive_script_chase_mercy_behave_vast_cupboard |  
+| bip_39_word_underscore_11 | tobacco_sheriff_shop_receive_script_chase_mercy_behave_vast_cupboard_episode |  
+| bip_39_word_underscore_12 | tobacco_sheriff_shop_receive_script_chase_mercy_behave_vast_cupboard_episode_already |  
+| bip_39_word_underscore_2 | tobacco_sheriff |  
+| bip_39_word_underscore_3 | tobacco_sheriff_shop |  
+| bip_39_word_underscore_4 | tobacco_sheriff_shop_receive |  
+| bip_39_word_underscore_5 | tobacco_sheriff_shop_receive_script |  
+| bip_39_word_underscore_6 | tobacco_sheriff_shop_receive_script_chase |  
+| bip_39_word_underscore_7 | tobacco_sheriff_shop_receive_script_chase_mercy |  
+| bip_39_word_underscore_8 | tobacco_sheriff_shop_receive_script_chase_mercy_behave |  
+| bip_39_word_underscore_9 | tobacco_sheriff_shop_receive_script_chase_mercy_behave_vast |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

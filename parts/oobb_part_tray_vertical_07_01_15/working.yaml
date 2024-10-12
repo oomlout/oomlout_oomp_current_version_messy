@@ -1,3 +1,15 @@
+bip_39_word_dash_1: appear
+bip_39_word_dash_10: appear-answer-repeat-harbor-fall-emerge-derive-evil-squeeze-improve
+bip_39_word_dash_11: appear-answer-repeat-harbor-fall-emerge-derive-evil-squeeze-improve-friend
+bip_39_word_dash_12: appear-answer-repeat-harbor-fall-emerge-derive-evil-squeeze-improve-friend-assist
+bip_39_word_dash_2: appear-answer
+bip_39_word_dash_3: appear-answer-repeat
+bip_39_word_dash_4: appear-answer-repeat-harbor
+bip_39_word_dash_5: appear-answer-repeat-harbor-fall
+bip_39_word_dash_6: appear-answer-repeat-harbor-fall-emerge
+bip_39_word_dash_7: appear-answer-repeat-harbor-fall-emerge-derive
+bip_39_word_dash_8: appear-answer-repeat-harbor-fall-emerge-derive-evil
+bip_39_word_dash_9: appear-answer-repeat-harbor-fall-emerge-derive-evil-squeeze
 bip_39_word_new_br_1: appear
 bip_39_word_new_br_10: appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve
 bip_39_word_new_br_11: appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve<br>friend
@@ -194,6 +206,18 @@ bip_39_word_space_6: appear answer repeat harbor fall emerge
 bip_39_word_space_7: appear answer repeat harbor fall emerge derive
 bip_39_word_space_8: appear answer repeat harbor fall emerge derive evil
 bip_39_word_space_9: appear answer repeat harbor fall emerge derive evil squeeze
+bip_39_word_underscore_1: appear
+bip_39_word_underscore_10: appear_answer_repeat_harbor_fall_emerge_derive_evil_squeeze_improve
+bip_39_word_underscore_11: appear_answer_repeat_harbor_fall_emerge_derive_evil_squeeze_improve_friend
+bip_39_word_underscore_12: appear_answer_repeat_harbor_fall_emerge_derive_evil_squeeze_improve_friend_assist
+bip_39_word_underscore_2: appear_answer
+bip_39_word_underscore_3: appear_answer_repeat
+bip_39_word_underscore_4: appear_answer_repeat_harbor
+bip_39_word_underscore_5: appear_answer_repeat_harbor_fall
+bip_39_word_underscore_6: appear_answer_repeat_harbor_fall_emerge
+bip_39_word_underscore_7: appear_answer_repeat_harbor_fall_emerge_derive
+bip_39_word_underscore_8: appear_answer_repeat_harbor_fall_emerge_derive_evil
+bip_39_word_underscore_9: appear_answer_repeat_harbor_fall_emerge_derive_evil_squeeze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

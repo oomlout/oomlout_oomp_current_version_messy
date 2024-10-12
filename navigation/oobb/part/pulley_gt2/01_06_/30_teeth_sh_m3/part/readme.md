@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrive |  
+| bip_39_word_dash_10 | arrive-render-window-found-brush-thing-tissue-frown-debate-elder |  
+| bip_39_word_dash_11 | arrive-render-window-found-brush-thing-tissue-frown-debate-elder-dwarf |  
+| bip_39_word_dash_12 | arrive-render-window-found-brush-thing-tissue-frown-debate-elder-dwarf-advice |  
+| bip_39_word_dash_2 | arrive-render |  
+| bip_39_word_dash_3 | arrive-render-window |  
+| bip_39_word_dash_4 | arrive-render-window-found |  
+| bip_39_word_dash_5 | arrive-render-window-found-brush |  
+| bip_39_word_dash_6 | arrive-render-window-found-brush-thing |  
+| bip_39_word_dash_7 | arrive-render-window-found-brush-thing-tissue |  
+| bip_39_word_dash_8 | arrive-render-window-found-brush-thing-tissue-frown |  
+| bip_39_word_dash_9 | arrive-render-window-found-brush-thing-tissue-frown-debate |  
 | bip_39_word_new_br_1 | arrive |  
 | bip_39_word_new_br_10 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown<br>debate<br>elder |  
 | bip_39_word_new_br_11 | arrive<br>render<br>window<br>found<br>brush<br>thing<br>tissue<br>frown<br>debate<br>elder<br>dwarf |  
@@ -147,6 +159,18 @@ debate |
 | bip_39_word_space_7 | arrive render window found brush thing tissue |  
 | bip_39_word_space_8 | arrive render window found brush thing tissue frown |  
 | bip_39_word_space_9 | arrive render window found brush thing tissue frown debate |  
+| bip_39_word_underscore_1 | arrive |  
+| bip_39_word_underscore_10 | arrive_render_window_found_brush_thing_tissue_frown_debate_elder |  
+| bip_39_word_underscore_11 | arrive_render_window_found_brush_thing_tissue_frown_debate_elder_dwarf |  
+| bip_39_word_underscore_12 | arrive_render_window_found_brush_thing_tissue_frown_debate_elder_dwarf_advice |  
+| bip_39_word_underscore_2 | arrive_render |  
+| bip_39_word_underscore_3 | arrive_render_window |  
+| bip_39_word_underscore_4 | arrive_render_window_found |  
+| bip_39_word_underscore_5 | arrive_render_window_found_brush |  
+| bip_39_word_underscore_6 | arrive_render_window_found_brush_thing |  
+| bip_39_word_underscore_7 | arrive_render_window_found_brush_thing_tissue |  
+| bip_39_word_underscore_8 | arrive_render_window_found_brush_thing_tissue_frown |  
+| bip_39_word_underscore_9 | arrive_render_window_found_brush_thing_tissue_frown_debate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

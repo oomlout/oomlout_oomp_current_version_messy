@@ -1,3 +1,15 @@
+bip_39_word_dash_1: eternal
+bip_39_word_dash_10: eternal-picnic-pistol-exhibit-ask-claw-elder-peasant-inspire-arrange
+bip_39_word_dash_11: eternal-picnic-pistol-exhibit-ask-claw-elder-peasant-inspire-arrange-guard
+bip_39_word_dash_12: eternal-picnic-pistol-exhibit-ask-claw-elder-peasant-inspire-arrange-guard-asset
+bip_39_word_dash_2: eternal-picnic
+bip_39_word_dash_3: eternal-picnic-pistol
+bip_39_word_dash_4: eternal-picnic-pistol-exhibit
+bip_39_word_dash_5: eternal-picnic-pistol-exhibit-ask
+bip_39_word_dash_6: eternal-picnic-pistol-exhibit-ask-claw
+bip_39_word_dash_7: eternal-picnic-pistol-exhibit-ask-claw-elder
+bip_39_word_dash_8: eternal-picnic-pistol-exhibit-ask-claw-elder-peasant
+bip_39_word_dash_9: eternal-picnic-pistol-exhibit-ask-claw-elder-peasant-inspire
 bip_39_word_new_br_1: eternal
 bip_39_word_new_br_10: eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant<br>inspire<br>arrange
 bip_39_word_new_br_11: eternal<br>picnic<br>pistol<br>exhibit<br>ask<br>claw<br>elder<br>peasant<br>inspire<br>arrange<br>guard
@@ -194,6 +206,18 @@ bip_39_word_space_6: eternal picnic pistol exhibit ask claw
 bip_39_word_space_7: eternal picnic pistol exhibit ask claw elder
 bip_39_word_space_8: eternal picnic pistol exhibit ask claw elder peasant
 bip_39_word_space_9: eternal picnic pistol exhibit ask claw elder peasant inspire
+bip_39_word_underscore_1: eternal
+bip_39_word_underscore_10: eternal_picnic_pistol_exhibit_ask_claw_elder_peasant_inspire_arrange
+bip_39_word_underscore_11: eternal_picnic_pistol_exhibit_ask_claw_elder_peasant_inspire_arrange_guard
+bip_39_word_underscore_12: eternal_picnic_pistol_exhibit_ask_claw_elder_peasant_inspire_arrange_guard_asset
+bip_39_word_underscore_2: eternal_picnic
+bip_39_word_underscore_3: eternal_picnic_pistol
+bip_39_word_underscore_4: eternal_picnic_pistol_exhibit
+bip_39_word_underscore_5: eternal_picnic_pistol_exhibit_ask
+bip_39_word_underscore_6: eternal_picnic_pistol_exhibit_ask_claw
+bip_39_word_underscore_7: eternal_picnic_pistol_exhibit_ask_claw_elder
+bip_39_word_underscore_8: eternal_picnic_pistol_exhibit_ask_claw_elder_peasant
+bip_39_word_underscore_9: eternal_picnic_pistol_exhibit_ask_claw_elder_peasant_inspire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

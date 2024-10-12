@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | guard |  
+| bip_39_word_dash_10 | guard-domain-install-squeeze-face-butter-one-matter-evolve-saddle |  
+| bip_39_word_dash_11 | guard-domain-install-squeeze-face-butter-one-matter-evolve-saddle-earn |  
+| bip_39_word_dash_12 | guard-domain-install-squeeze-face-butter-one-matter-evolve-saddle-earn-acid |  
+| bip_39_word_dash_2 | guard-domain |  
+| bip_39_word_dash_3 | guard-domain-install |  
+| bip_39_word_dash_4 | guard-domain-install-squeeze |  
+| bip_39_word_dash_5 | guard-domain-install-squeeze-face |  
+| bip_39_word_dash_6 | guard-domain-install-squeeze-face-butter |  
+| bip_39_word_dash_7 | guard-domain-install-squeeze-face-butter-one |  
+| bip_39_word_dash_8 | guard-domain-install-squeeze-face-butter-one-matter |  
+| bip_39_word_dash_9 | guard-domain-install-squeeze-face-butter-one-matter-evolve |  
 | bip_39_word_new_br_1 | guard |  
 | bip_39_word_new_br_10 | guard<br>domain<br>install<br>squeeze<br>face<br>butter<br>one<br>matter<br>evolve<br>saddle |  
 | bip_39_word_new_br_11 | guard<br>domain<br>install<br>squeeze<br>face<br>butter<br>one<br>matter<br>evolve<br>saddle<br>earn |  
@@ -147,6 +159,18 @@ evolve |
 | bip_39_word_space_7 | guard domain install squeeze face butter one |  
 | bip_39_word_space_8 | guard domain install squeeze face butter one matter |  
 | bip_39_word_space_9 | guard domain install squeeze face butter one matter evolve |  
+| bip_39_word_underscore_1 | guard |  
+| bip_39_word_underscore_10 | guard_domain_install_squeeze_face_butter_one_matter_evolve_saddle |  
+| bip_39_word_underscore_11 | guard_domain_install_squeeze_face_butter_one_matter_evolve_saddle_earn |  
+| bip_39_word_underscore_12 | guard_domain_install_squeeze_face_butter_one_matter_evolve_saddle_earn_acid |  
+| bip_39_word_underscore_2 | guard_domain |  
+| bip_39_word_underscore_3 | guard_domain_install |  
+| bip_39_word_underscore_4 | guard_domain_install_squeeze |  
+| bip_39_word_underscore_5 | guard_domain_install_squeeze_face |  
+| bip_39_word_underscore_6 | guard_domain_install_squeeze_face_butter |  
+| bip_39_word_underscore_7 | guard_domain_install_squeeze_face_butter_one |  
+| bip_39_word_underscore_8 | guard_domain_install_squeeze_face_butter_one_matter |  
+| bip_39_word_underscore_9 | guard_domain_install_squeeze_face_butter_one_matter_evolve |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

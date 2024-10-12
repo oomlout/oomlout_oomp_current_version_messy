@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sausage
+bip_39_word_dash_10: sausage-carpet-where-brown-dust-amazing-quantum-mechanic-style-dentist
+bip_39_word_dash_11: sausage-carpet-where-brown-dust-amazing-quantum-mechanic-style-dentist-logic
+bip_39_word_dash_12: sausage-carpet-where-brown-dust-amazing-quantum-mechanic-style-dentist-logic-arch
+bip_39_word_dash_2: sausage-carpet
+bip_39_word_dash_3: sausage-carpet-where
+bip_39_word_dash_4: sausage-carpet-where-brown
+bip_39_word_dash_5: sausage-carpet-where-brown-dust
+bip_39_word_dash_6: sausage-carpet-where-brown-dust-amazing
+bip_39_word_dash_7: sausage-carpet-where-brown-dust-amazing-quantum
+bip_39_word_dash_8: sausage-carpet-where-brown-dust-amazing-quantum-mechanic
+bip_39_word_dash_9: sausage-carpet-where-brown-dust-amazing-quantum-mechanic-style
 bip_39_word_new_br_1: sausage
 bip_39_word_new_br_10: sausage<br>carpet<br>where<br>brown<br>dust<br>amazing<br>quantum<br>mechanic<br>style<br>dentist
 bip_39_word_new_br_11: sausage<br>carpet<br>where<br>brown<br>dust<br>amazing<br>quantum<br>mechanic<br>style<br>dentist<br>logic
@@ -194,6 +206,18 @@ bip_39_word_space_6: sausage carpet where brown dust amazing
 bip_39_word_space_7: sausage carpet where brown dust amazing quantum
 bip_39_word_space_8: sausage carpet where brown dust amazing quantum mechanic
 bip_39_word_space_9: sausage carpet where brown dust amazing quantum mechanic style
+bip_39_word_underscore_1: sausage
+bip_39_word_underscore_10: sausage_carpet_where_brown_dust_amazing_quantum_mechanic_style_dentist
+bip_39_word_underscore_11: sausage_carpet_where_brown_dust_amazing_quantum_mechanic_style_dentist_logic
+bip_39_word_underscore_12: sausage_carpet_where_brown_dust_amazing_quantum_mechanic_style_dentist_logic_arch
+bip_39_word_underscore_2: sausage_carpet
+bip_39_word_underscore_3: sausage_carpet_where
+bip_39_word_underscore_4: sausage_carpet_where_brown
+bip_39_word_underscore_5: sausage_carpet_where_brown_dust
+bip_39_word_underscore_6: sausage_carpet_where_brown_dust_amazing
+bip_39_word_underscore_7: sausage_carpet_where_brown_dust_amazing_quantum
+bip_39_word_underscore_8: sausage_carpet_where_brown_dust_amazing_quantum_mechanic
+bip_39_word_underscore_9: sausage_carpet_where_brown_dust_amazing_quantum_mechanic_style
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

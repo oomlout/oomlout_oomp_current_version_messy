@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | obvious |  
+| bip_39_word_dash_10 | obvious-giant-assume-gift-hundred-truck-buddy-lake-wasp-upon |  
+| bip_39_word_dash_11 | obvious-giant-assume-gift-hundred-truck-buddy-lake-wasp-upon-divide |  
+| bip_39_word_dash_12 | obvious-giant-assume-gift-hundred-truck-buddy-lake-wasp-upon-divide-affair |  
+| bip_39_word_dash_2 | obvious-giant |  
+| bip_39_word_dash_3 | obvious-giant-assume |  
+| bip_39_word_dash_4 | obvious-giant-assume-gift |  
+| bip_39_word_dash_5 | obvious-giant-assume-gift-hundred |  
+| bip_39_word_dash_6 | obvious-giant-assume-gift-hundred-truck |  
+| bip_39_word_dash_7 | obvious-giant-assume-gift-hundred-truck-buddy |  
+| bip_39_word_dash_8 | obvious-giant-assume-gift-hundred-truck-buddy-lake |  
+| bip_39_word_dash_9 | obvious-giant-assume-gift-hundred-truck-buddy-lake-wasp |  
 | bip_39_word_new_br_1 | obvious |  
 | bip_39_word_new_br_10 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon |  
 | bip_39_word_new_br_11 | obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon<br>divide |  
@@ -147,6 +159,18 @@ wasp |
 | bip_39_word_space_7 | obvious giant assume gift hundred truck buddy |  
 | bip_39_word_space_8 | obvious giant assume gift hundred truck buddy lake |  
 | bip_39_word_space_9 | obvious giant assume gift hundred truck buddy lake wasp |  
+| bip_39_word_underscore_1 | obvious |  
+| bip_39_word_underscore_10 | obvious_giant_assume_gift_hundred_truck_buddy_lake_wasp_upon |  
+| bip_39_word_underscore_11 | obvious_giant_assume_gift_hundred_truck_buddy_lake_wasp_upon_divide |  
+| bip_39_word_underscore_12 | obvious_giant_assume_gift_hundred_truck_buddy_lake_wasp_upon_divide_affair |  
+| bip_39_word_underscore_2 | obvious_giant |  
+| bip_39_word_underscore_3 | obvious_giant_assume |  
+| bip_39_word_underscore_4 | obvious_giant_assume_gift |  
+| bip_39_word_underscore_5 | obvious_giant_assume_gift_hundred |  
+| bip_39_word_underscore_6 | obvious_giant_assume_gift_hundred_truck |  
+| bip_39_word_underscore_7 | obvious_giant_assume_gift_hundred_truck_buddy |  
+| bip_39_word_underscore_8 | obvious_giant_assume_gift_hundred_truck_buddy_lake |  
+| bip_39_word_underscore_9 | obvious_giant_assume_gift_hundred_truck_buddy_lake_wasp |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

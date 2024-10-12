@@ -1,3 +1,15 @@
+bip_39_word_dash_1: double
+bip_39_word_dash_10: double-gospel-select-damp-once-wasp-erupt-now-duty-reward
+bip_39_word_dash_11: double-gospel-select-damp-once-wasp-erupt-now-duty-reward-attack
+bip_39_word_dash_12: double-gospel-select-damp-once-wasp-erupt-now-duty-reward-attack-actual
+bip_39_word_dash_2: double-gospel
+bip_39_word_dash_3: double-gospel-select
+bip_39_word_dash_4: double-gospel-select-damp
+bip_39_word_dash_5: double-gospel-select-damp-once
+bip_39_word_dash_6: double-gospel-select-damp-once-wasp
+bip_39_word_dash_7: double-gospel-select-damp-once-wasp-erupt
+bip_39_word_dash_8: double-gospel-select-damp-once-wasp-erupt-now
+bip_39_word_dash_9: double-gospel-select-damp-once-wasp-erupt-now-duty
 bip_39_word_new_br_1: double
 bip_39_word_new_br_10: double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward
 bip_39_word_new_br_11: double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward<br>attack
@@ -192,6 +204,18 @@ bip_39_word_space_6: double gospel select damp once wasp
 bip_39_word_space_7: double gospel select damp once wasp erupt
 bip_39_word_space_8: double gospel select damp once wasp erupt now
 bip_39_word_space_9: double gospel select damp once wasp erupt now duty
+bip_39_word_underscore_1: double
+bip_39_word_underscore_10: double_gospel_select_damp_once_wasp_erupt_now_duty_reward
+bip_39_word_underscore_11: double_gospel_select_damp_once_wasp_erupt_now_duty_reward_attack
+bip_39_word_underscore_12: double_gospel_select_damp_once_wasp_erupt_now_duty_reward_attack_actual
+bip_39_word_underscore_2: double_gospel
+bip_39_word_underscore_3: double_gospel_select
+bip_39_word_underscore_4: double_gospel_select_damp
+bip_39_word_underscore_5: double_gospel_select_damp_once
+bip_39_word_underscore_6: double_gospel_select_damp_once_wasp
+bip_39_word_underscore_7: double_gospel_select_damp_once_wasp_erupt
+bip_39_word_underscore_8: double_gospel_select_damp_once_wasp_erupt_now
+bip_39_word_underscore_9: double_gospel_select_damp_once_wasp_erupt_now_duty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

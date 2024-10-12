@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sing
+bip_39_word_dash_10: sing-bitter-portion-join-elite-bronze-leopard-apart-nice-weasel
+bip_39_word_dash_11: sing-bitter-portion-join-elite-bronze-leopard-apart-nice-weasel-tag
+bip_39_word_dash_12: sing-bitter-portion-join-elite-bronze-leopard-apart-nice-weasel-tag-angle
+bip_39_word_dash_2: sing-bitter
+bip_39_word_dash_3: sing-bitter-portion
+bip_39_word_dash_4: sing-bitter-portion-join
+bip_39_word_dash_5: sing-bitter-portion-join-elite
+bip_39_word_dash_6: sing-bitter-portion-join-elite-bronze
+bip_39_word_dash_7: sing-bitter-portion-join-elite-bronze-leopard
+bip_39_word_dash_8: sing-bitter-portion-join-elite-bronze-leopard-apart
+bip_39_word_dash_9: sing-bitter-portion-join-elite-bronze-leopard-apart-nice
 bip_39_word_new_br_1: sing
 bip_39_word_new_br_10: sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel
 bip_39_word_new_br_11: sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel<br>tag
@@ -193,6 +205,18 @@ bip_39_word_space_6: sing bitter portion join elite bronze
 bip_39_word_space_7: sing bitter portion join elite bronze leopard
 bip_39_word_space_8: sing bitter portion join elite bronze leopard apart
 bip_39_word_space_9: sing bitter portion join elite bronze leopard apart nice
+bip_39_word_underscore_1: sing
+bip_39_word_underscore_10: sing_bitter_portion_join_elite_bronze_leopard_apart_nice_weasel
+bip_39_word_underscore_11: sing_bitter_portion_join_elite_bronze_leopard_apart_nice_weasel_tag
+bip_39_word_underscore_12: sing_bitter_portion_join_elite_bronze_leopard_apart_nice_weasel_tag_angle
+bip_39_word_underscore_2: sing_bitter
+bip_39_word_underscore_3: sing_bitter_portion
+bip_39_word_underscore_4: sing_bitter_portion_join
+bip_39_word_underscore_5: sing_bitter_portion_join_elite
+bip_39_word_underscore_6: sing_bitter_portion_join_elite_bronze
+bip_39_word_underscore_7: sing_bitter_portion_join_elite_bronze_leopard
+bip_39_word_underscore_8: sing_bitter_portion_join_elite_bronze_leopard_apart
+bip_39_word_underscore_9: sing_bitter_portion_join_elite_bronze_leopard_apart_nice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

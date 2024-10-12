@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | middle |  
+| bip_39_word_dash_10 | middle-decline-fringe-present-urge-obscure-bless-unlock-blind-play |  
+| bip_39_word_dash_11 | middle-decline-fringe-present-urge-obscure-bless-unlock-blind-play-click |  
+| bip_39_word_dash_12 | middle-decline-fringe-present-urge-obscure-bless-unlock-blind-play-click-anger |  
+| bip_39_word_dash_2 | middle-decline |  
+| bip_39_word_dash_3 | middle-decline-fringe |  
+| bip_39_word_dash_4 | middle-decline-fringe-present |  
+| bip_39_word_dash_5 | middle-decline-fringe-present-urge |  
+| bip_39_word_dash_6 | middle-decline-fringe-present-urge-obscure |  
+| bip_39_word_dash_7 | middle-decline-fringe-present-urge-obscure-bless |  
+| bip_39_word_dash_8 | middle-decline-fringe-present-urge-obscure-bless-unlock |  
+| bip_39_word_dash_9 | middle-decline-fringe-present-urge-obscure-bless-unlock-blind |  
 | bip_39_word_new_br_1 | middle |  
 | bip_39_word_new_br_10 | middle<br>decline<br>fringe<br>present<br>urge<br>obscure<br>bless<br>unlock<br>blind<br>play |  
 | bip_39_word_new_br_11 | middle<br>decline<br>fringe<br>present<br>urge<br>obscure<br>bless<br>unlock<br>blind<br>play<br>click |  
@@ -147,6 +159,18 @@ blind |
 | bip_39_word_space_7 | middle decline fringe present urge obscure bless |  
 | bip_39_word_space_8 | middle decline fringe present urge obscure bless unlock |  
 | bip_39_word_space_9 | middle decline fringe present urge obscure bless unlock blind |  
+| bip_39_word_underscore_1 | middle |  
+| bip_39_word_underscore_10 | middle_decline_fringe_present_urge_obscure_bless_unlock_blind_play |  
+| bip_39_word_underscore_11 | middle_decline_fringe_present_urge_obscure_bless_unlock_blind_play_click |  
+| bip_39_word_underscore_12 | middle_decline_fringe_present_urge_obscure_bless_unlock_blind_play_click_anger |  
+| bip_39_word_underscore_2 | middle_decline |  
+| bip_39_word_underscore_3 | middle_decline_fringe |  
+| bip_39_word_underscore_4 | middle_decline_fringe_present |  
+| bip_39_word_underscore_5 | middle_decline_fringe_present_urge |  
+| bip_39_word_underscore_6 | middle_decline_fringe_present_urge_obscure |  
+| bip_39_word_underscore_7 | middle_decline_fringe_present_urge_obscure_bless |  
+| bip_39_word_underscore_8 | middle_decline_fringe_present_urge_obscure_bless_unlock |  
+| bip_39_word_underscore_9 | middle_decline_fringe_present_urge_obscure_bless_unlock_blind |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

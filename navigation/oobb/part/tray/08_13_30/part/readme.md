@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | final |  
+| bip_39_word_dash_10 | final-scan-depend-business-account-omit-silent-wealth-solve-transfer |  
+| bip_39_word_dash_11 | final-scan-depend-business-account-omit-silent-wealth-solve-transfer-carpet |  
+| bip_39_word_dash_12 | final-scan-depend-business-account-omit-silent-wealth-solve-transfer-carpet-among |  
+| bip_39_word_dash_2 | final-scan |  
+| bip_39_word_dash_3 | final-scan-depend |  
+| bip_39_word_dash_4 | final-scan-depend-business |  
+| bip_39_word_dash_5 | final-scan-depend-business-account |  
+| bip_39_word_dash_6 | final-scan-depend-business-account-omit |  
+| bip_39_word_dash_7 | final-scan-depend-business-account-omit-silent |  
+| bip_39_word_dash_8 | final-scan-depend-business-account-omit-silent-wealth |  
+| bip_39_word_dash_9 | final-scan-depend-business-account-omit-silent-wealth-solve |  
 | bip_39_word_new_br_1 | final |  
 | bip_39_word_new_br_10 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer |  
 | bip_39_word_new_br_11 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer<br>carpet |  
@@ -147,6 +159,18 @@ solve |
 | bip_39_word_space_7 | final scan depend business account omit silent |  
 | bip_39_word_space_8 | final scan depend business account omit silent wealth |  
 | bip_39_word_space_9 | final scan depend business account omit silent wealth solve |  
+| bip_39_word_underscore_1 | final |  
+| bip_39_word_underscore_10 | final_scan_depend_business_account_omit_silent_wealth_solve_transfer |  
+| bip_39_word_underscore_11 | final_scan_depend_business_account_omit_silent_wealth_solve_transfer_carpet |  
+| bip_39_word_underscore_12 | final_scan_depend_business_account_omit_silent_wealth_solve_transfer_carpet_among |  
+| bip_39_word_underscore_2 | final_scan |  
+| bip_39_word_underscore_3 | final_scan_depend |  
+| bip_39_word_underscore_4 | final_scan_depend_business |  
+| bip_39_word_underscore_5 | final_scan_depend_business_account |  
+| bip_39_word_underscore_6 | final_scan_depend_business_account_omit |  
+| bip_39_word_underscore_7 | final_scan_depend_business_account_omit_silent |  
+| bip_39_word_underscore_8 | final_scan_depend_business_account_omit_silent_wealth |  
+| bip_39_word_underscore_9 | final_scan_depend_business_account_omit_silent_wealth_solve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

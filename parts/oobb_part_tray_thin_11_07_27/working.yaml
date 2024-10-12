@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grid
+bip_39_word_dash_10: grid-left-depth-post-again-blouse-vacuum-purity-width-unaware
+bip_39_word_dash_11: grid-left-depth-post-again-blouse-vacuum-purity-width-unaware-issue
+bip_39_word_dash_12: grid-left-depth-post-again-blouse-vacuum-purity-width-unaware-issue-ability
+bip_39_word_dash_2: grid-left
+bip_39_word_dash_3: grid-left-depth
+bip_39_word_dash_4: grid-left-depth-post
+bip_39_word_dash_5: grid-left-depth-post-again
+bip_39_word_dash_6: grid-left-depth-post-again-blouse
+bip_39_word_dash_7: grid-left-depth-post-again-blouse-vacuum
+bip_39_word_dash_8: grid-left-depth-post-again-blouse-vacuum-purity
+bip_39_word_dash_9: grid-left-depth-post-again-blouse-vacuum-purity-width
 bip_39_word_new_br_1: grid
 bip_39_word_new_br_10: grid<br>left<br>depth<br>post<br>again<br>blouse<br>vacuum<br>purity<br>width<br>unaware
 bip_39_word_new_br_11: grid<br>left<br>depth<br>post<br>again<br>blouse<br>vacuum<br>purity<br>width<br>unaware<br>issue
@@ -193,6 +205,18 @@ bip_39_word_space_6: grid left depth post again blouse
 bip_39_word_space_7: grid left depth post again blouse vacuum
 bip_39_word_space_8: grid left depth post again blouse vacuum purity
 bip_39_word_space_9: grid left depth post again blouse vacuum purity width
+bip_39_word_underscore_1: grid
+bip_39_word_underscore_10: grid_left_depth_post_again_blouse_vacuum_purity_width_unaware
+bip_39_word_underscore_11: grid_left_depth_post_again_blouse_vacuum_purity_width_unaware_issue
+bip_39_word_underscore_12: grid_left_depth_post_again_blouse_vacuum_purity_width_unaware_issue_ability
+bip_39_word_underscore_2: grid_left
+bip_39_word_underscore_3: grid_left_depth
+bip_39_word_underscore_4: grid_left_depth_post
+bip_39_word_underscore_5: grid_left_depth_post_again
+bip_39_word_underscore_6: grid_left_depth_post_again_blouse
+bip_39_word_underscore_7: grid_left_depth_post_again_blouse_vacuum
+bip_39_word_underscore_8: grid_left_depth_post_again_blouse_vacuum_purity
+bip_39_word_underscore_9: grid_left_depth_post_again_blouse_vacuum_purity_width
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pact |  
+| bip_39_word_dash_10 | pact-tape-similar-nuclear-team-huge-degree-orange-dress-extra |  
+| bip_39_word_dash_11 | pact-tape-similar-nuclear-team-huge-degree-orange-dress-extra-define |  
+| bip_39_word_dash_12 | pact-tape-similar-nuclear-team-huge-degree-orange-dress-extra-define-artefact |  
+| bip_39_word_dash_2 | pact-tape |  
+| bip_39_word_dash_3 | pact-tape-similar |  
+| bip_39_word_dash_4 | pact-tape-similar-nuclear |  
+| bip_39_word_dash_5 | pact-tape-similar-nuclear-team |  
+| bip_39_word_dash_6 | pact-tape-similar-nuclear-team-huge |  
+| bip_39_word_dash_7 | pact-tape-similar-nuclear-team-huge-degree |  
+| bip_39_word_dash_8 | pact-tape-similar-nuclear-team-huge-degree-orange |  
+| bip_39_word_dash_9 | pact-tape-similar-nuclear-team-huge-degree-orange-dress |  
 | bip_39_word_new_br_1 | pact |  
 | bip_39_word_new_br_10 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange<br>dress<br>extra |  
 | bip_39_word_new_br_11 | pact<br>tape<br>similar<br>nuclear<br>team<br>huge<br>degree<br>orange<br>dress<br>extra<br>define |  
@@ -147,6 +159,18 @@ dress |
 | bip_39_word_space_7 | pact tape similar nuclear team huge degree |  
 | bip_39_word_space_8 | pact tape similar nuclear team huge degree orange |  
 | bip_39_word_space_9 | pact tape similar nuclear team huge degree orange dress |  
+| bip_39_word_underscore_1 | pact |  
+| bip_39_word_underscore_10 | pact_tape_similar_nuclear_team_huge_degree_orange_dress_extra |  
+| bip_39_word_underscore_11 | pact_tape_similar_nuclear_team_huge_degree_orange_dress_extra_define |  
+| bip_39_word_underscore_12 | pact_tape_similar_nuclear_team_huge_degree_orange_dress_extra_define_artefact |  
+| bip_39_word_underscore_2 | pact_tape |  
+| bip_39_word_underscore_3 | pact_tape_similar |  
+| bip_39_word_underscore_4 | pact_tape_similar_nuclear |  
+| bip_39_word_underscore_5 | pact_tape_similar_nuclear_team |  
+| bip_39_word_underscore_6 | pact_tape_similar_nuclear_team_huge |  
+| bip_39_word_underscore_7 | pact_tape_similar_nuclear_team_huge_degree |  
+| bip_39_word_underscore_8 | pact_tape_similar_nuclear_team_huge_degree_orange |  
+| bip_39_word_underscore_9 | pact_tape_similar_nuclear_team_huge_degree_orange_dress |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

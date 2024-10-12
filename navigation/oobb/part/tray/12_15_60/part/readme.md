@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | knife |  
+| bip_39_word_dash_10 | knife-music-decide-van-acid-year-valid-buzz-dad-youth |  
+| bip_39_word_dash_11 | knife-music-decide-van-acid-year-valid-buzz-dad-youth-polar |  
+| bip_39_word_dash_12 | knife-music-decide-van-acid-year-valid-buzz-dad-youth-polar-air |  
+| bip_39_word_dash_2 | knife-music |  
+| bip_39_word_dash_3 | knife-music-decide |  
+| bip_39_word_dash_4 | knife-music-decide-van |  
+| bip_39_word_dash_5 | knife-music-decide-van-acid |  
+| bip_39_word_dash_6 | knife-music-decide-van-acid-year |  
+| bip_39_word_dash_7 | knife-music-decide-van-acid-year-valid |  
+| bip_39_word_dash_8 | knife-music-decide-van-acid-year-valid-buzz |  
+| bip_39_word_dash_9 | knife-music-decide-van-acid-year-valid-buzz-dad |  
 | bip_39_word_new_br_1 | knife |  
 | bip_39_word_new_br_10 | knife<br>music<br>decide<br>van<br>acid<br>year<br>valid<br>buzz<br>dad<br>youth |  
 | bip_39_word_new_br_11 | knife<br>music<br>decide<br>van<br>acid<br>year<br>valid<br>buzz<br>dad<br>youth<br>polar |  
@@ -147,6 +159,18 @@ dad |
 | bip_39_word_space_7 | knife music decide van acid year valid |  
 | bip_39_word_space_8 | knife music decide van acid year valid buzz |  
 | bip_39_word_space_9 | knife music decide van acid year valid buzz dad |  
+| bip_39_word_underscore_1 | knife |  
+| bip_39_word_underscore_10 | knife_music_decide_van_acid_year_valid_buzz_dad_youth |  
+| bip_39_word_underscore_11 | knife_music_decide_van_acid_year_valid_buzz_dad_youth_polar |  
+| bip_39_word_underscore_12 | knife_music_decide_van_acid_year_valid_buzz_dad_youth_polar_air |  
+| bip_39_word_underscore_2 | knife_music |  
+| bip_39_word_underscore_3 | knife_music_decide |  
+| bip_39_word_underscore_4 | knife_music_decide_van |  
+| bip_39_word_underscore_5 | knife_music_decide_van_acid |  
+| bip_39_word_underscore_6 | knife_music_decide_van_acid_year |  
+| bip_39_word_underscore_7 | knife_music_decide_van_acid_year_valid |  
+| bip_39_word_underscore_8 | knife_music_decide_van_acid_year_valid_buzz |  
+| bip_39_word_underscore_9 | knife_music_decide_van_acid_year_valid_buzz_dad |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

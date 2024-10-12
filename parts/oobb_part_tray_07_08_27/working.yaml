@@ -1,3 +1,15 @@
+bip_39_word_dash_1: swap
+bip_39_word_dash_10: swap-cancel-answer-unfold-raise-rapid-genius-cannon-still-poem
+bip_39_word_dash_11: swap-cancel-answer-unfold-raise-rapid-genius-cannon-still-poem-master
+bip_39_word_dash_12: swap-cancel-answer-unfold-raise-rapid-genius-cannon-still-poem-master-analyst
+bip_39_word_dash_2: swap-cancel
+bip_39_word_dash_3: swap-cancel-answer
+bip_39_word_dash_4: swap-cancel-answer-unfold
+bip_39_word_dash_5: swap-cancel-answer-unfold-raise
+bip_39_word_dash_6: swap-cancel-answer-unfold-raise-rapid
+bip_39_word_dash_7: swap-cancel-answer-unfold-raise-rapid-genius
+bip_39_word_dash_8: swap-cancel-answer-unfold-raise-rapid-genius-cannon
+bip_39_word_dash_9: swap-cancel-answer-unfold-raise-rapid-genius-cannon-still
 bip_39_word_new_br_1: swap
 bip_39_word_new_br_10: swap<br>cancel<br>answer<br>unfold<br>raise<br>rapid<br>genius<br>cannon<br>still<br>poem
 bip_39_word_new_br_11: swap<br>cancel<br>answer<br>unfold<br>raise<br>rapid<br>genius<br>cannon<br>still<br>poem<br>master
@@ -193,6 +205,18 @@ bip_39_word_space_6: swap cancel answer unfold raise rapid
 bip_39_word_space_7: swap cancel answer unfold raise rapid genius
 bip_39_word_space_8: swap cancel answer unfold raise rapid genius cannon
 bip_39_word_space_9: swap cancel answer unfold raise rapid genius cannon still
+bip_39_word_underscore_1: swap
+bip_39_word_underscore_10: swap_cancel_answer_unfold_raise_rapid_genius_cannon_still_poem
+bip_39_word_underscore_11: swap_cancel_answer_unfold_raise_rapid_genius_cannon_still_poem_master
+bip_39_word_underscore_12: swap_cancel_answer_unfold_raise_rapid_genius_cannon_still_poem_master_analyst
+bip_39_word_underscore_2: swap_cancel
+bip_39_word_underscore_3: swap_cancel_answer
+bip_39_word_underscore_4: swap_cancel_answer_unfold
+bip_39_word_underscore_5: swap_cancel_answer_unfold_raise
+bip_39_word_underscore_6: swap_cancel_answer_unfold_raise_rapid
+bip_39_word_underscore_7: swap_cancel_answer_unfold_raise_rapid_genius
+bip_39_word_underscore_8: swap_cancel_answer_unfold_raise_rapid_genius_cannon
+bip_39_word_underscore_9: swap_cancel_answer_unfold_raise_rapid_genius_cannon_still
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

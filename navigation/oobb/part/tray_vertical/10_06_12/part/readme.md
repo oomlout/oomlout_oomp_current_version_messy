@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | faint |  
+| bip_39_word_dash_10 | faint-acid-double-gasp-tube-rural-million-hunt-friend-crop |  
+| bip_39_word_dash_11 | faint-acid-double-gasp-tube-rural-million-hunt-friend-crop-snack |  
+| bip_39_word_dash_12 | faint-acid-double-gasp-tube-rural-million-hunt-friend-crop-snack-aerobic |  
+| bip_39_word_dash_2 | faint-acid |  
+| bip_39_word_dash_3 | faint-acid-double |  
+| bip_39_word_dash_4 | faint-acid-double-gasp |  
+| bip_39_word_dash_5 | faint-acid-double-gasp-tube |  
+| bip_39_word_dash_6 | faint-acid-double-gasp-tube-rural |  
+| bip_39_word_dash_7 | faint-acid-double-gasp-tube-rural-million |  
+| bip_39_word_dash_8 | faint-acid-double-gasp-tube-rural-million-hunt |  
+| bip_39_word_dash_9 | faint-acid-double-gasp-tube-rural-million-hunt-friend |  
 | bip_39_word_new_br_1 | faint |  
 | bip_39_word_new_br_10 | faint<br>acid<br>double<br>gasp<br>tube<br>rural<br>million<br>hunt<br>friend<br>crop |  
 | bip_39_word_new_br_11 | faint<br>acid<br>double<br>gasp<br>tube<br>rural<br>million<br>hunt<br>friend<br>crop<br>snack |  
@@ -147,6 +159,18 @@ friend |
 | bip_39_word_space_7 | faint acid double gasp tube rural million |  
 | bip_39_word_space_8 | faint acid double gasp tube rural million hunt |  
 | bip_39_word_space_9 | faint acid double gasp tube rural million hunt friend |  
+| bip_39_word_underscore_1 | faint |  
+| bip_39_word_underscore_10 | faint_acid_double_gasp_tube_rural_million_hunt_friend_crop |  
+| bip_39_word_underscore_11 | faint_acid_double_gasp_tube_rural_million_hunt_friend_crop_snack |  
+| bip_39_word_underscore_12 | faint_acid_double_gasp_tube_rural_million_hunt_friend_crop_snack_aerobic |  
+| bip_39_word_underscore_2 | faint_acid |  
+| bip_39_word_underscore_3 | faint_acid_double |  
+| bip_39_word_underscore_4 | faint_acid_double_gasp |  
+| bip_39_word_underscore_5 | faint_acid_double_gasp_tube |  
+| bip_39_word_underscore_6 | faint_acid_double_gasp_tube_rural |  
+| bip_39_word_underscore_7 | faint_acid_double_gasp_tube_rural_million |  
+| bip_39_word_underscore_8 | faint_acid_double_gasp_tube_rural_million_hunt |  
+| bip_39_word_underscore_9 | faint_acid_double_gasp_tube_rural_million_hunt_friend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

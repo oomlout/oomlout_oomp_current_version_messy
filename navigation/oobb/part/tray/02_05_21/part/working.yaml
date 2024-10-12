@@ -1,3 +1,15 @@
+bip_39_word_dash_1: album
+bip_39_word_dash_10: album-across-squirrel-draw-almost-room-rich-dog-picnic-lunch
+bip_39_word_dash_11: album-across-squirrel-draw-almost-room-rich-dog-picnic-lunch-exact
+bip_39_word_dash_12: album-across-squirrel-draw-almost-room-rich-dog-picnic-lunch-exact-area
+bip_39_word_dash_2: album-across
+bip_39_word_dash_3: album-across-squirrel
+bip_39_word_dash_4: album-across-squirrel-draw
+bip_39_word_dash_5: album-across-squirrel-draw-almost
+bip_39_word_dash_6: album-across-squirrel-draw-almost-room
+bip_39_word_dash_7: album-across-squirrel-draw-almost-room-rich
+bip_39_word_dash_8: album-across-squirrel-draw-almost-room-rich-dog
+bip_39_word_dash_9: album-across-squirrel-draw-almost-room-rich-dog-picnic
 bip_39_word_new_br_1: album
 bip_39_word_new_br_10: album<br>across<br>squirrel<br>draw<br>almost<br>room<br>rich<br>dog<br>picnic<br>lunch
 bip_39_word_new_br_11: album<br>across<br>squirrel<br>draw<br>almost<br>room<br>rich<br>dog<br>picnic<br>lunch<br>exact
@@ -193,6 +205,18 @@ bip_39_word_space_6: album across squirrel draw almost room
 bip_39_word_space_7: album across squirrel draw almost room rich
 bip_39_word_space_8: album across squirrel draw almost room rich dog
 bip_39_word_space_9: album across squirrel draw almost room rich dog picnic
+bip_39_word_underscore_1: album
+bip_39_word_underscore_10: album_across_squirrel_draw_almost_room_rich_dog_picnic_lunch
+bip_39_word_underscore_11: album_across_squirrel_draw_almost_room_rich_dog_picnic_lunch_exact
+bip_39_word_underscore_12: album_across_squirrel_draw_almost_room_rich_dog_picnic_lunch_exact_area
+bip_39_word_underscore_2: album_across
+bip_39_word_underscore_3: album_across_squirrel
+bip_39_word_underscore_4: album_across_squirrel_draw
+bip_39_word_underscore_5: album_across_squirrel_draw_almost
+bip_39_word_underscore_6: album_across_squirrel_draw_almost_room
+bip_39_word_underscore_7: album_across_squirrel_draw_almost_room_rich
+bip_39_word_underscore_8: album_across_squirrel_draw_almost_room_rich_dog
+bip_39_word_underscore_9: album_across_squirrel_draw_almost_room_rich_dog_picnic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | small |  
+| bip_39_word_dash_10 | small-slam-surge-arrange-girl-siren-excuse-enhance-hour-arrest |  
+| bip_39_word_dash_11 | small-slam-surge-arrange-girl-siren-excuse-enhance-hour-arrest-knock |  
+| bip_39_word_dash_12 | small-slam-surge-arrange-girl-siren-excuse-enhance-hour-arrest-knock-adult |  
+| bip_39_word_dash_2 | small-slam |  
+| bip_39_word_dash_3 | small-slam-surge |  
+| bip_39_word_dash_4 | small-slam-surge-arrange |  
+| bip_39_word_dash_5 | small-slam-surge-arrange-girl |  
+| bip_39_word_dash_6 | small-slam-surge-arrange-girl-siren |  
+| bip_39_word_dash_7 | small-slam-surge-arrange-girl-siren-excuse |  
+| bip_39_word_dash_8 | small-slam-surge-arrange-girl-siren-excuse-enhance |  
+| bip_39_word_dash_9 | small-slam-surge-arrange-girl-siren-excuse-enhance-hour |  
 | bip_39_word_new_br_1 | small |  
 | bip_39_word_new_br_10 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance<br>hour<br>arrest |  
 | bip_39_word_new_br_11 | small<br>slam<br>surge<br>arrange<br>girl<br>siren<br>excuse<br>enhance<br>hour<br>arrest<br>knock |  
@@ -147,6 +159,18 @@ hour |
 | bip_39_word_space_7 | small slam surge arrange girl siren excuse |  
 | bip_39_word_space_8 | small slam surge arrange girl siren excuse enhance |  
 | bip_39_word_space_9 | small slam surge arrange girl siren excuse enhance hour |  
+| bip_39_word_underscore_1 | small |  
+| bip_39_word_underscore_10 | small_slam_surge_arrange_girl_siren_excuse_enhance_hour_arrest |  
+| bip_39_word_underscore_11 | small_slam_surge_arrange_girl_siren_excuse_enhance_hour_arrest_knock |  
+| bip_39_word_underscore_12 | small_slam_surge_arrange_girl_siren_excuse_enhance_hour_arrest_knock_adult |  
+| bip_39_word_underscore_2 | small_slam |  
+| bip_39_word_underscore_3 | small_slam_surge |  
+| bip_39_word_underscore_4 | small_slam_surge_arrange |  
+| bip_39_word_underscore_5 | small_slam_surge_arrange_girl |  
+| bip_39_word_underscore_6 | small_slam_surge_arrange_girl_siren |  
+| bip_39_word_underscore_7 | small_slam_surge_arrange_girl_siren_excuse |  
+| bip_39_word_underscore_8 | small_slam_surge_arrange_girl_siren_excuse_enhance |  
+| bip_39_word_underscore_9 | small_slam_surge_arrange_girl_siren_excuse_enhance_hour |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: slab
+bip_39_word_dash_10: slab-west-swim-affair-fiction-tray-taxi-toward-want-mobile
+bip_39_word_dash_11: slab-west-swim-affair-fiction-tray-taxi-toward-want-mobile-long
+bip_39_word_dash_12: slab-west-swim-affair-fiction-tray-taxi-toward-want-mobile-long-already
+bip_39_word_dash_2: slab-west
+bip_39_word_dash_3: slab-west-swim
+bip_39_word_dash_4: slab-west-swim-affair
+bip_39_word_dash_5: slab-west-swim-affair-fiction
+bip_39_word_dash_6: slab-west-swim-affair-fiction-tray
+bip_39_word_dash_7: slab-west-swim-affair-fiction-tray-taxi
+bip_39_word_dash_8: slab-west-swim-affair-fiction-tray-taxi-toward
+bip_39_word_dash_9: slab-west-swim-affair-fiction-tray-taxi-toward-want
 bip_39_word_new_br_1: slab
 bip_39_word_new_br_10: slab<br>west<br>swim<br>affair<br>fiction<br>tray<br>taxi<br>toward<br>want<br>mobile
 bip_39_word_new_br_11: slab<br>west<br>swim<br>affair<br>fiction<br>tray<br>taxi<br>toward<br>want<br>mobile<br>long
@@ -192,6 +204,18 @@ bip_39_word_space_6: slab west swim affair fiction tray
 bip_39_word_space_7: slab west swim affair fiction tray taxi
 bip_39_word_space_8: slab west swim affair fiction tray taxi toward
 bip_39_word_space_9: slab west swim affair fiction tray taxi toward want
+bip_39_word_underscore_1: slab
+bip_39_word_underscore_10: slab_west_swim_affair_fiction_tray_taxi_toward_want_mobile
+bip_39_word_underscore_11: slab_west_swim_affair_fiction_tray_taxi_toward_want_mobile_long
+bip_39_word_underscore_12: slab_west_swim_affair_fiction_tray_taxi_toward_want_mobile_long_already
+bip_39_word_underscore_2: slab_west
+bip_39_word_underscore_3: slab_west_swim
+bip_39_word_underscore_4: slab_west_swim_affair
+bip_39_word_underscore_5: slab_west_swim_affair_fiction
+bip_39_word_underscore_6: slab_west_swim_affair_fiction_tray
+bip_39_word_underscore_7: slab_west_swim_affair_fiction_tray_taxi
+bip_39_word_underscore_8: slab_west_swim_affair_fiction_tray_taxi_toward
+bip_39_word_underscore_9: slab_west_swim_affair_fiction_tray_taxi_toward_want
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

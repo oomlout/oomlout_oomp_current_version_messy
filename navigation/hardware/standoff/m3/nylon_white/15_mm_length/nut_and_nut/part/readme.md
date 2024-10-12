@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flee |  
+| bip_39_word_dash_10 | flee-sea-lecture-squirrel-super-donate-uncle-sting-distance-close |  
+| bip_39_word_dash_11 | flee-sea-lecture-squirrel-super-donate-uncle-sting-distance-close-evolve |  
+| bip_39_word_dash_12 | flee-sea-lecture-squirrel-super-donate-uncle-sting-distance-close-evolve-amazing |  
+| bip_39_word_dash_2 | flee-sea |  
+| bip_39_word_dash_3 | flee-sea-lecture |  
+| bip_39_word_dash_4 | flee-sea-lecture-squirrel |  
+| bip_39_word_dash_5 | flee-sea-lecture-squirrel-super |  
+| bip_39_word_dash_6 | flee-sea-lecture-squirrel-super-donate |  
+| bip_39_word_dash_7 | flee-sea-lecture-squirrel-super-donate-uncle |  
+| bip_39_word_dash_8 | flee-sea-lecture-squirrel-super-donate-uncle-sting |  
+| bip_39_word_dash_9 | flee-sea-lecture-squirrel-super-donate-uncle-sting-distance |  
 | bip_39_word_new_br_1 | flee |  
 | bip_39_word_new_br_10 | flee<br>sea<br>lecture<br>squirrel<br>super<br>donate<br>uncle<br>sting<br>distance<br>close |  
 | bip_39_word_new_br_11 | flee<br>sea<br>lecture<br>squirrel<br>super<br>donate<br>uncle<br>sting<br>distance<br>close<br>evolve |  
@@ -147,6 +159,18 @@ distance |
 | bip_39_word_space_7 | flee sea lecture squirrel super donate uncle |  
 | bip_39_word_space_8 | flee sea lecture squirrel super donate uncle sting |  
 | bip_39_word_space_9 | flee sea lecture squirrel super donate uncle sting distance |  
+| bip_39_word_underscore_1 | flee |  
+| bip_39_word_underscore_10 | flee_sea_lecture_squirrel_super_donate_uncle_sting_distance_close |  
+| bip_39_word_underscore_11 | flee_sea_lecture_squirrel_super_donate_uncle_sting_distance_close_evolve |  
+| bip_39_word_underscore_12 | flee_sea_lecture_squirrel_super_donate_uncle_sting_distance_close_evolve_amazing |  
+| bip_39_word_underscore_2 | flee_sea |  
+| bip_39_word_underscore_3 | flee_sea_lecture |  
+| bip_39_word_underscore_4 | flee_sea_lecture_squirrel |  
+| bip_39_word_underscore_5 | flee_sea_lecture_squirrel_super |  
+| bip_39_word_underscore_6 | flee_sea_lecture_squirrel_super_donate |  
+| bip_39_word_underscore_7 | flee_sea_lecture_squirrel_super_donate_uncle |  
+| bip_39_word_underscore_8 | flee_sea_lecture_squirrel_super_donate_uncle_sting |  
+| bip_39_word_underscore_9 | flee_sea_lecture_squirrel_super_donate_uncle_sting_distance |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

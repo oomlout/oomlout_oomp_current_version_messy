@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chaos |  
+| bip_39_word_dash_10 | chaos-wreck-outside-example-reason-egg-force-strike-faculty-celery |  
+| bip_39_word_dash_11 | chaos-wreck-outside-example-reason-egg-force-strike-faculty-celery-prosper |  
+| bip_39_word_dash_12 | chaos-wreck-outside-example-reason-egg-force-strike-faculty-celery-prosper-armor |  
+| bip_39_word_dash_2 | chaos-wreck |  
+| bip_39_word_dash_3 | chaos-wreck-outside |  
+| bip_39_word_dash_4 | chaos-wreck-outside-example |  
+| bip_39_word_dash_5 | chaos-wreck-outside-example-reason |  
+| bip_39_word_dash_6 | chaos-wreck-outside-example-reason-egg |  
+| bip_39_word_dash_7 | chaos-wreck-outside-example-reason-egg-force |  
+| bip_39_word_dash_8 | chaos-wreck-outside-example-reason-egg-force-strike |  
+| bip_39_word_dash_9 | chaos-wreck-outside-example-reason-egg-force-strike-faculty |  
 | bip_39_word_new_br_1 | chaos |  
 | bip_39_word_new_br_10 | chaos<br>wreck<br>outside<br>example<br>reason<br>egg<br>force<br>strike<br>faculty<br>celery |  
 | bip_39_word_new_br_11 | chaos<br>wreck<br>outside<br>example<br>reason<br>egg<br>force<br>strike<br>faculty<br>celery<br>prosper |  
@@ -147,6 +159,18 @@ faculty |
 | bip_39_word_space_7 | chaos wreck outside example reason egg force |  
 | bip_39_word_space_8 | chaos wreck outside example reason egg force strike |  
 | bip_39_word_space_9 | chaos wreck outside example reason egg force strike faculty |  
+| bip_39_word_underscore_1 | chaos |  
+| bip_39_word_underscore_10 | chaos_wreck_outside_example_reason_egg_force_strike_faculty_celery |  
+| bip_39_word_underscore_11 | chaos_wreck_outside_example_reason_egg_force_strike_faculty_celery_prosper |  
+| bip_39_word_underscore_12 | chaos_wreck_outside_example_reason_egg_force_strike_faculty_celery_prosper_armor |  
+| bip_39_word_underscore_2 | chaos_wreck |  
+| bip_39_word_underscore_3 | chaos_wreck_outside |  
+| bip_39_word_underscore_4 | chaos_wreck_outside_example |  
+| bip_39_word_underscore_5 | chaos_wreck_outside_example_reason |  
+| bip_39_word_underscore_6 | chaos_wreck_outside_example_reason_egg |  
+| bip_39_word_underscore_7 | chaos_wreck_outside_example_reason_egg_force |  
+| bip_39_word_underscore_8 | chaos_wreck_outside_example_reason_egg_force_strike |  
+| bip_39_word_underscore_9 | chaos_wreck_outside_example_reason_egg_force_strike_faculty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

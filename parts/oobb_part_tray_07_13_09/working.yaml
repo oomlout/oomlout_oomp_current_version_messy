@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chief
+bip_39_word_dash_10: chief-rebel-green-panic-pink-rocket-unique-quantum-dream-confirm
+bip_39_word_dash_11: chief-rebel-green-panic-pink-rocket-unique-quantum-dream-confirm-few
+bip_39_word_dash_12: chief-rebel-green-panic-pink-rocket-unique-quantum-dream-confirm-few-already
+bip_39_word_dash_2: chief-rebel
+bip_39_word_dash_3: chief-rebel-green
+bip_39_word_dash_4: chief-rebel-green-panic
+bip_39_word_dash_5: chief-rebel-green-panic-pink
+bip_39_word_dash_6: chief-rebel-green-panic-pink-rocket
+bip_39_word_dash_7: chief-rebel-green-panic-pink-rocket-unique
+bip_39_word_dash_8: chief-rebel-green-panic-pink-rocket-unique-quantum
+bip_39_word_dash_9: chief-rebel-green-panic-pink-rocket-unique-quantum-dream
 bip_39_word_new_br_1: chief
 bip_39_word_new_br_10: chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm
 bip_39_word_new_br_11: chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm<br>few
@@ -193,6 +205,18 @@ bip_39_word_space_6: chief rebel green panic pink rocket
 bip_39_word_space_7: chief rebel green panic pink rocket unique
 bip_39_word_space_8: chief rebel green panic pink rocket unique quantum
 bip_39_word_space_9: chief rebel green panic pink rocket unique quantum dream
+bip_39_word_underscore_1: chief
+bip_39_word_underscore_10: chief_rebel_green_panic_pink_rocket_unique_quantum_dream_confirm
+bip_39_word_underscore_11: chief_rebel_green_panic_pink_rocket_unique_quantum_dream_confirm_few
+bip_39_word_underscore_12: chief_rebel_green_panic_pink_rocket_unique_quantum_dream_confirm_few_already
+bip_39_word_underscore_2: chief_rebel
+bip_39_word_underscore_3: chief_rebel_green
+bip_39_word_underscore_4: chief_rebel_green_panic
+bip_39_word_underscore_5: chief_rebel_green_panic_pink
+bip_39_word_underscore_6: chief_rebel_green_panic_pink_rocket
+bip_39_word_underscore_7: chief_rebel_green_panic_pink_rocket_unique
+bip_39_word_underscore_8: chief_rebel_green_panic_pink_rocket_unique_quantum
+bip_39_word_underscore_9: chief_rebel_green_panic_pink_rocket_unique_quantum_dream
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chalk
+bip_39_word_dash_10: chalk-mirror-torch-glad-obvious-surge-warm-obvious-phrase-brain
+bip_39_word_dash_11: chalk-mirror-torch-glad-obvious-surge-warm-obvious-phrase-brain-fork
+bip_39_word_dash_12: chalk-mirror-torch-glad-obvious-surge-warm-obvious-phrase-brain-fork-attend
+bip_39_word_dash_2: chalk-mirror
+bip_39_word_dash_3: chalk-mirror-torch
+bip_39_word_dash_4: chalk-mirror-torch-glad
+bip_39_word_dash_5: chalk-mirror-torch-glad-obvious
+bip_39_word_dash_6: chalk-mirror-torch-glad-obvious-surge
+bip_39_word_dash_7: chalk-mirror-torch-glad-obvious-surge-warm
+bip_39_word_dash_8: chalk-mirror-torch-glad-obvious-surge-warm-obvious
+bip_39_word_dash_9: chalk-mirror-torch-glad-obvious-surge-warm-obvious-phrase
 bip_39_word_new_br_1: chalk
 bip_39_word_new_br_10: chalk<br>mirror<br>torch<br>glad<br>obvious<br>surge<br>warm<br>obvious<br>phrase<br>brain
 bip_39_word_new_br_11: chalk<br>mirror<br>torch<br>glad<br>obvious<br>surge<br>warm<br>obvious<br>phrase<br>brain<br>fork
@@ -193,6 +205,18 @@ bip_39_word_space_6: chalk mirror torch glad obvious surge
 bip_39_word_space_7: chalk mirror torch glad obvious surge warm
 bip_39_word_space_8: chalk mirror torch glad obvious surge warm obvious
 bip_39_word_space_9: chalk mirror torch glad obvious surge warm obvious phrase
+bip_39_word_underscore_1: chalk
+bip_39_word_underscore_10: chalk_mirror_torch_glad_obvious_surge_warm_obvious_phrase_brain
+bip_39_word_underscore_11: chalk_mirror_torch_glad_obvious_surge_warm_obvious_phrase_brain_fork
+bip_39_word_underscore_12: chalk_mirror_torch_glad_obvious_surge_warm_obvious_phrase_brain_fork_attend
+bip_39_word_underscore_2: chalk_mirror
+bip_39_word_underscore_3: chalk_mirror_torch
+bip_39_word_underscore_4: chalk_mirror_torch_glad
+bip_39_word_underscore_5: chalk_mirror_torch_glad_obvious
+bip_39_word_underscore_6: chalk_mirror_torch_glad_obvious_surge
+bip_39_word_underscore_7: chalk_mirror_torch_glad_obvious_surge_warm
+bip_39_word_underscore_8: chalk_mirror_torch_glad_obvious_surge_warm_obvious
+bip_39_word_underscore_9: chalk_mirror_torch_glad_obvious_surge_warm_obvious_phrase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

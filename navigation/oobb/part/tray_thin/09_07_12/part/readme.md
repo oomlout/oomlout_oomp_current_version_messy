@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stay |  
+| bip_39_word_dash_10 | stay-flock-gold-dove-carbon-state-nation-coyote-life-remove |  
+| bip_39_word_dash_11 | stay-flock-gold-dove-carbon-state-nation-coyote-life-remove-advice |  
+| bip_39_word_dash_12 | stay-flock-gold-dove-carbon-state-nation-coyote-life-remove-advice-absorb |  
+| bip_39_word_dash_2 | stay-flock |  
+| bip_39_word_dash_3 | stay-flock-gold |  
+| bip_39_word_dash_4 | stay-flock-gold-dove |  
+| bip_39_word_dash_5 | stay-flock-gold-dove-carbon |  
+| bip_39_word_dash_6 | stay-flock-gold-dove-carbon-state |  
+| bip_39_word_dash_7 | stay-flock-gold-dove-carbon-state-nation |  
+| bip_39_word_dash_8 | stay-flock-gold-dove-carbon-state-nation-coyote |  
+| bip_39_word_dash_9 | stay-flock-gold-dove-carbon-state-nation-coyote-life |  
 | bip_39_word_new_br_1 | stay |  
 | bip_39_word_new_br_10 | stay<br>flock<br>gold<br>dove<br>carbon<br>state<br>nation<br>coyote<br>life<br>remove |  
 | bip_39_word_new_br_11 | stay<br>flock<br>gold<br>dove<br>carbon<br>state<br>nation<br>coyote<br>life<br>remove<br>advice |  
@@ -147,6 +159,18 @@ life |
 | bip_39_word_space_7 | stay flock gold dove carbon state nation |  
 | bip_39_word_space_8 | stay flock gold dove carbon state nation coyote |  
 | bip_39_word_space_9 | stay flock gold dove carbon state nation coyote life |  
+| bip_39_word_underscore_1 | stay |  
+| bip_39_word_underscore_10 | stay_flock_gold_dove_carbon_state_nation_coyote_life_remove |  
+| bip_39_word_underscore_11 | stay_flock_gold_dove_carbon_state_nation_coyote_life_remove_advice |  
+| bip_39_word_underscore_12 | stay_flock_gold_dove_carbon_state_nation_coyote_life_remove_advice_absorb |  
+| bip_39_word_underscore_2 | stay_flock |  
+| bip_39_word_underscore_3 | stay_flock_gold |  
+| bip_39_word_underscore_4 | stay_flock_gold_dove |  
+| bip_39_word_underscore_5 | stay_flock_gold_dove_carbon |  
+| bip_39_word_underscore_6 | stay_flock_gold_dove_carbon_state |  
+| bip_39_word_underscore_7 | stay_flock_gold_dove_carbon_state_nation |  
+| bip_39_word_underscore_8 | stay_flock_gold_dove_carbon_state_nation_coyote |  
+| bip_39_word_underscore_9 | stay_flock_gold_dove_carbon_state_nation_coyote_life |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

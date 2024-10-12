@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | film |  
+| bip_39_word_dash_10 | film-later-canal-real-various-fossil-kitchen-bicycle-song-fatal |  
+| bip_39_word_dash_11 | film-later-canal-real-various-fossil-kitchen-bicycle-song-fatal-trend |  
+| bip_39_word_dash_12 | film-later-canal-real-various-fossil-kitchen-bicycle-song-fatal-trend-actual |  
+| bip_39_word_dash_2 | film-later |  
+| bip_39_word_dash_3 | film-later-canal |  
+| bip_39_word_dash_4 | film-later-canal-real |  
+| bip_39_word_dash_5 | film-later-canal-real-various |  
+| bip_39_word_dash_6 | film-later-canal-real-various-fossil |  
+| bip_39_word_dash_7 | film-later-canal-real-various-fossil-kitchen |  
+| bip_39_word_dash_8 | film-later-canal-real-various-fossil-kitchen-bicycle |  
+| bip_39_word_dash_9 | film-later-canal-real-various-fossil-kitchen-bicycle-song |  
 | bip_39_word_new_br_1 | film |  
 | bip_39_word_new_br_10 | film<br>later<br>canal<br>real<br>various<br>fossil<br>kitchen<br>bicycle<br>song<br>fatal |  
 | bip_39_word_new_br_11 | film<br>later<br>canal<br>real<br>various<br>fossil<br>kitchen<br>bicycle<br>song<br>fatal<br>trend |  
@@ -147,6 +159,18 @@ song |
 | bip_39_word_space_7 | film later canal real various fossil kitchen |  
 | bip_39_word_space_8 | film later canal real various fossil kitchen bicycle |  
 | bip_39_word_space_9 | film later canal real various fossil kitchen bicycle song |  
+| bip_39_word_underscore_1 | film |  
+| bip_39_word_underscore_10 | film_later_canal_real_various_fossil_kitchen_bicycle_song_fatal |  
+| bip_39_word_underscore_11 | film_later_canal_real_various_fossil_kitchen_bicycle_song_fatal_trend |  
+| bip_39_word_underscore_12 | film_later_canal_real_various_fossil_kitchen_bicycle_song_fatal_trend_actual |  
+| bip_39_word_underscore_2 | film_later |  
+| bip_39_word_underscore_3 | film_later_canal |  
+| bip_39_word_underscore_4 | film_later_canal_real |  
+| bip_39_word_underscore_5 | film_later_canal_real_various |  
+| bip_39_word_underscore_6 | film_later_canal_real_various_fossil |  
+| bip_39_word_underscore_7 | film_later_canal_real_various_fossil_kitchen |  
+| bip_39_word_underscore_8 | film_later_canal_real_various_fossil_kitchen_bicycle |  
+| bip_39_word_underscore_9 | film_later_canal_real_various_fossil_kitchen_bicycle_song |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

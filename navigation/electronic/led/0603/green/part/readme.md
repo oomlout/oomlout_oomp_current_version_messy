@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bridge |  
+| bip_39_word_dash_10 | bridge-betray-gloom-sketch-weekend-twin-tribe-become-ordinary-miracle |  
+| bip_39_word_dash_11 | bridge-betray-gloom-sketch-weekend-twin-tribe-become-ordinary-miracle-inject |  
+| bip_39_word_dash_12 | bridge-betray-gloom-sketch-weekend-twin-tribe-become-ordinary-miracle-inject-area |  
+| bip_39_word_dash_2 | bridge-betray |  
+| bip_39_word_dash_3 | bridge-betray-gloom |  
+| bip_39_word_dash_4 | bridge-betray-gloom-sketch |  
+| bip_39_word_dash_5 | bridge-betray-gloom-sketch-weekend |  
+| bip_39_word_dash_6 | bridge-betray-gloom-sketch-weekend-twin |  
+| bip_39_word_dash_7 | bridge-betray-gloom-sketch-weekend-twin-tribe |  
+| bip_39_word_dash_8 | bridge-betray-gloom-sketch-weekend-twin-tribe-become |  
+| bip_39_word_dash_9 | bridge-betray-gloom-sketch-weekend-twin-tribe-become-ordinary |  
 | bip_39_word_new_br_1 | bridge |  
 | bip_39_word_new_br_10 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle |  
 | bip_39_word_new_br_11 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle<br>inject |  
@@ -147,6 +159,18 @@ ordinary |
 | bip_39_word_space_7 | bridge betray gloom sketch weekend twin tribe |  
 | bip_39_word_space_8 | bridge betray gloom sketch weekend twin tribe become |  
 | bip_39_word_space_9 | bridge betray gloom sketch weekend twin tribe become ordinary |  
+| bip_39_word_underscore_1 | bridge |  
+| bip_39_word_underscore_10 | bridge_betray_gloom_sketch_weekend_twin_tribe_become_ordinary_miracle |  
+| bip_39_word_underscore_11 | bridge_betray_gloom_sketch_weekend_twin_tribe_become_ordinary_miracle_inject |  
+| bip_39_word_underscore_12 | bridge_betray_gloom_sketch_weekend_twin_tribe_become_ordinary_miracle_inject_area |  
+| bip_39_word_underscore_2 | bridge_betray |  
+| bip_39_word_underscore_3 | bridge_betray_gloom |  
+| bip_39_word_underscore_4 | bridge_betray_gloom_sketch |  
+| bip_39_word_underscore_5 | bridge_betray_gloom_sketch_weekend |  
+| bip_39_word_underscore_6 | bridge_betray_gloom_sketch_weekend_twin |  
+| bip_39_word_underscore_7 | bridge_betray_gloom_sketch_weekend_twin_tribe |  
+| bip_39_word_underscore_8 | bridge_betray_gloom_sketch_weekend_twin_tribe_become |  
+| bip_39_word_underscore_9 | bridge_betray_gloom_sketch_weekend_twin_tribe_become_ordinary |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

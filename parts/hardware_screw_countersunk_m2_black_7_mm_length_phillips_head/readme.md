@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tiny |  
+| bip_39_word_dash_10 | tiny-float-castle-vital-middle-cereal-kangaroo-coyote-improve-energy |  
+| bip_39_word_dash_11 | tiny-float-castle-vital-middle-cereal-kangaroo-coyote-improve-energy-shove |  
+| bip_39_word_dash_12 | tiny-float-castle-vital-middle-cereal-kangaroo-coyote-improve-energy-shove-already |  
+| bip_39_word_dash_2 | tiny-float |  
+| bip_39_word_dash_3 | tiny-float-castle |  
+| bip_39_word_dash_4 | tiny-float-castle-vital |  
+| bip_39_word_dash_5 | tiny-float-castle-vital-middle |  
+| bip_39_word_dash_6 | tiny-float-castle-vital-middle-cereal |  
+| bip_39_word_dash_7 | tiny-float-castle-vital-middle-cereal-kangaroo |  
+| bip_39_word_dash_8 | tiny-float-castle-vital-middle-cereal-kangaroo-coyote |  
+| bip_39_word_dash_9 | tiny-float-castle-vital-middle-cereal-kangaroo-coyote-improve |  
 | bip_39_word_new_br_1 | tiny |  
 | bip_39_word_new_br_10 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy |  
 | bip_39_word_new_br_11 | tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy<br>shove |  
@@ -147,6 +159,18 @@ improve |
 | bip_39_word_space_7 | tiny float castle vital middle cereal kangaroo |  
 | bip_39_word_space_8 | tiny float castle vital middle cereal kangaroo coyote |  
 | bip_39_word_space_9 | tiny float castle vital middle cereal kangaroo coyote improve |  
+| bip_39_word_underscore_1 | tiny |  
+| bip_39_word_underscore_10 | tiny_float_castle_vital_middle_cereal_kangaroo_coyote_improve_energy |  
+| bip_39_word_underscore_11 | tiny_float_castle_vital_middle_cereal_kangaroo_coyote_improve_energy_shove |  
+| bip_39_word_underscore_12 | tiny_float_castle_vital_middle_cereal_kangaroo_coyote_improve_energy_shove_already |  
+| bip_39_word_underscore_2 | tiny_float |  
+| bip_39_word_underscore_3 | tiny_float_castle |  
+| bip_39_word_underscore_4 | tiny_float_castle_vital |  
+| bip_39_word_underscore_5 | tiny_float_castle_vital_middle |  
+| bip_39_word_underscore_6 | tiny_float_castle_vital_middle_cereal |  
+| bip_39_word_underscore_7 | tiny_float_castle_vital_middle_cereal_kangaroo |  
+| bip_39_word_underscore_8 | tiny_float_castle_vital_middle_cereal_kangaroo_coyote |  
+| bip_39_word_underscore_9 | tiny_float_castle_vital_middle_cereal_kangaroo_coyote_improve |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

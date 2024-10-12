@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | word |  
+| bip_39_word_dash_10 | word-fortune-eyebrow-dentist-check-where-edit-dish-satisfy-initial |  
+| bip_39_word_dash_11 | word-fortune-eyebrow-dentist-check-where-edit-dish-satisfy-initial-flame |  
+| bip_39_word_dash_12 | word-fortune-eyebrow-dentist-check-where-edit-dish-satisfy-initial-flame-add |  
+| bip_39_word_dash_2 | word-fortune |  
+| bip_39_word_dash_3 | word-fortune-eyebrow |  
+| bip_39_word_dash_4 | word-fortune-eyebrow-dentist |  
+| bip_39_word_dash_5 | word-fortune-eyebrow-dentist-check |  
+| bip_39_word_dash_6 | word-fortune-eyebrow-dentist-check-where |  
+| bip_39_word_dash_7 | word-fortune-eyebrow-dentist-check-where-edit |  
+| bip_39_word_dash_8 | word-fortune-eyebrow-dentist-check-where-edit-dish |  
+| bip_39_word_dash_9 | word-fortune-eyebrow-dentist-check-where-edit-dish-satisfy |  
 | bip_39_word_new_br_1 | word |  
 | bip_39_word_new_br_10 | word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish<br>satisfy<br>initial |  
 | bip_39_word_new_br_11 | word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish<br>satisfy<br>initial<br>flame |  
@@ -147,6 +159,18 @@ satisfy |
 | bip_39_word_space_7 | word fortune eyebrow dentist check where edit |  
 | bip_39_word_space_8 | word fortune eyebrow dentist check where edit dish |  
 | bip_39_word_space_9 | word fortune eyebrow dentist check where edit dish satisfy |  
+| bip_39_word_underscore_1 | word |  
+| bip_39_word_underscore_10 | word_fortune_eyebrow_dentist_check_where_edit_dish_satisfy_initial |  
+| bip_39_word_underscore_11 | word_fortune_eyebrow_dentist_check_where_edit_dish_satisfy_initial_flame |  
+| bip_39_word_underscore_12 | word_fortune_eyebrow_dentist_check_where_edit_dish_satisfy_initial_flame_add |  
+| bip_39_word_underscore_2 | word_fortune |  
+| bip_39_word_underscore_3 | word_fortune_eyebrow |  
+| bip_39_word_underscore_4 | word_fortune_eyebrow_dentist |  
+| bip_39_word_underscore_5 | word_fortune_eyebrow_dentist_check |  
+| bip_39_word_underscore_6 | word_fortune_eyebrow_dentist_check_where |  
+| bip_39_word_underscore_7 | word_fortune_eyebrow_dentist_check_where_edit |  
+| bip_39_word_underscore_8 | word_fortune_eyebrow_dentist_check_where_edit_dish |  
+| bip_39_word_underscore_9 | word_fortune_eyebrow_dentist_check_where_edit_dish_satisfy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

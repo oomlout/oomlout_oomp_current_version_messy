@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | width |  
+| bip_39_word_dash_10 | width-now-obey-employ-moon-maximum-rare-confirm-agree-repeat |  
+| bip_39_word_dash_11 | width-now-obey-employ-moon-maximum-rare-confirm-agree-repeat-stamp |  
+| bip_39_word_dash_12 | width-now-obey-employ-moon-maximum-rare-confirm-agree-repeat-stamp-achieve |  
+| bip_39_word_dash_2 | width-now |  
+| bip_39_word_dash_3 | width-now-obey |  
+| bip_39_word_dash_4 | width-now-obey-employ |  
+| bip_39_word_dash_5 | width-now-obey-employ-moon |  
+| bip_39_word_dash_6 | width-now-obey-employ-moon-maximum |  
+| bip_39_word_dash_7 | width-now-obey-employ-moon-maximum-rare |  
+| bip_39_word_dash_8 | width-now-obey-employ-moon-maximum-rare-confirm |  
+| bip_39_word_dash_9 | width-now-obey-employ-moon-maximum-rare-confirm-agree |  
 | bip_39_word_new_br_1 | width |  
 | bip_39_word_new_br_10 | width<br>now<br>obey<br>employ<br>moon<br>maximum<br>rare<br>confirm<br>agree<br>repeat |  
 | bip_39_word_new_br_11 | width<br>now<br>obey<br>employ<br>moon<br>maximum<br>rare<br>confirm<br>agree<br>repeat<br>stamp |  
@@ -147,6 +159,18 @@ agree |
 | bip_39_word_space_7 | width now obey employ moon maximum rare |  
 | bip_39_word_space_8 | width now obey employ moon maximum rare confirm |  
 | bip_39_word_space_9 | width now obey employ moon maximum rare confirm agree |  
+| bip_39_word_underscore_1 | width |  
+| bip_39_word_underscore_10 | width_now_obey_employ_moon_maximum_rare_confirm_agree_repeat |  
+| bip_39_word_underscore_11 | width_now_obey_employ_moon_maximum_rare_confirm_agree_repeat_stamp |  
+| bip_39_word_underscore_12 | width_now_obey_employ_moon_maximum_rare_confirm_agree_repeat_stamp_achieve |  
+| bip_39_word_underscore_2 | width_now |  
+| bip_39_word_underscore_3 | width_now_obey |  
+| bip_39_word_underscore_4 | width_now_obey_employ |  
+| bip_39_word_underscore_5 | width_now_obey_employ_moon |  
+| bip_39_word_underscore_6 | width_now_obey_employ_moon_maximum |  
+| bip_39_word_underscore_7 | width_now_obey_employ_moon_maximum_rare |  
+| bip_39_word_underscore_8 | width_now_obey_employ_moon_maximum_rare_confirm |  
+| bip_39_word_underscore_9 | width_now_obey_employ_moon_maximum_rare_confirm_agree |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

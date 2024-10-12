@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | join |  
+| bip_39_word_dash_10 | join-neck-conduct-wrong-culture-field-oak-erode-snack-hollow |  
+| bip_39_word_dash_11 | join-neck-conduct-wrong-culture-field-oak-erode-snack-hollow-grab |  
+| bip_39_word_dash_12 | join-neck-conduct-wrong-culture-field-oak-erode-snack-hollow-grab-annual |  
+| bip_39_word_dash_2 | join-neck |  
+| bip_39_word_dash_3 | join-neck-conduct |  
+| bip_39_word_dash_4 | join-neck-conduct-wrong |  
+| bip_39_word_dash_5 | join-neck-conduct-wrong-culture |  
+| bip_39_word_dash_6 | join-neck-conduct-wrong-culture-field |  
+| bip_39_word_dash_7 | join-neck-conduct-wrong-culture-field-oak |  
+| bip_39_word_dash_8 | join-neck-conduct-wrong-culture-field-oak-erode |  
+| bip_39_word_dash_9 | join-neck-conduct-wrong-culture-field-oak-erode-snack |  
 | bip_39_word_new_br_1 | join |  
 | bip_39_word_new_br_10 | join<br>neck<br>conduct<br>wrong<br>culture<br>field<br>oak<br>erode<br>snack<br>hollow |  
 | bip_39_word_new_br_11 | join<br>neck<br>conduct<br>wrong<br>culture<br>field<br>oak<br>erode<br>snack<br>hollow<br>grab |  
@@ -147,6 +159,18 @@ snack |
 | bip_39_word_space_7 | join neck conduct wrong culture field oak |  
 | bip_39_word_space_8 | join neck conduct wrong culture field oak erode |  
 | bip_39_word_space_9 | join neck conduct wrong culture field oak erode snack |  
+| bip_39_word_underscore_1 | join |  
+| bip_39_word_underscore_10 | join_neck_conduct_wrong_culture_field_oak_erode_snack_hollow |  
+| bip_39_word_underscore_11 | join_neck_conduct_wrong_culture_field_oak_erode_snack_hollow_grab |  
+| bip_39_word_underscore_12 | join_neck_conduct_wrong_culture_field_oak_erode_snack_hollow_grab_annual |  
+| bip_39_word_underscore_2 | join_neck |  
+| bip_39_word_underscore_3 | join_neck_conduct |  
+| bip_39_word_underscore_4 | join_neck_conduct_wrong |  
+| bip_39_word_underscore_5 | join_neck_conduct_wrong_culture |  
+| bip_39_word_underscore_6 | join_neck_conduct_wrong_culture_field |  
+| bip_39_word_underscore_7 | join_neck_conduct_wrong_culture_field_oak |  
+| bip_39_word_underscore_8 | join_neck_conduct_wrong_culture_field_oak_erode |  
+| bip_39_word_underscore_9 | join_neck_conduct_wrong_culture_field_oak_erode_snack |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orange |  
+| bip_39_word_dash_10 | orange-pole-wrist-subject-picture-imitate-come-tool-divert-fun |  
+| bip_39_word_dash_11 | orange-pole-wrist-subject-picture-imitate-come-tool-divert-fun-remind |  
+| bip_39_word_dash_12 | orange-pole-wrist-subject-picture-imitate-come-tool-divert-fun-remind-athlete |  
+| bip_39_word_dash_2 | orange-pole |  
+| bip_39_word_dash_3 | orange-pole-wrist |  
+| bip_39_word_dash_4 | orange-pole-wrist-subject |  
+| bip_39_word_dash_5 | orange-pole-wrist-subject-picture |  
+| bip_39_word_dash_6 | orange-pole-wrist-subject-picture-imitate |  
+| bip_39_word_dash_7 | orange-pole-wrist-subject-picture-imitate-come |  
+| bip_39_word_dash_8 | orange-pole-wrist-subject-picture-imitate-come-tool |  
+| bip_39_word_dash_9 | orange-pole-wrist-subject-picture-imitate-come-tool-divert |  
 | bip_39_word_new_br_1 | orange |  
 | bip_39_word_new_br_10 | orange<br>pole<br>wrist<br>subject<br>picture<br>imitate<br>come<br>tool<br>divert<br>fun |  
 | bip_39_word_new_br_11 | orange<br>pole<br>wrist<br>subject<br>picture<br>imitate<br>come<br>tool<br>divert<br>fun<br>remind |  
@@ -147,6 +159,18 @@ divert |
 | bip_39_word_space_7 | orange pole wrist subject picture imitate come |  
 | bip_39_word_space_8 | orange pole wrist subject picture imitate come tool |  
 | bip_39_word_space_9 | orange pole wrist subject picture imitate come tool divert |  
+| bip_39_word_underscore_1 | orange |  
+| bip_39_word_underscore_10 | orange_pole_wrist_subject_picture_imitate_come_tool_divert_fun |  
+| bip_39_word_underscore_11 | orange_pole_wrist_subject_picture_imitate_come_tool_divert_fun_remind |  
+| bip_39_word_underscore_12 | orange_pole_wrist_subject_picture_imitate_come_tool_divert_fun_remind_athlete |  
+| bip_39_word_underscore_2 | orange_pole |  
+| bip_39_word_underscore_3 | orange_pole_wrist |  
+| bip_39_word_underscore_4 | orange_pole_wrist_subject |  
+| bip_39_word_underscore_5 | orange_pole_wrist_subject_picture |  
+| bip_39_word_underscore_6 | orange_pole_wrist_subject_picture_imitate |  
+| bip_39_word_underscore_7 | orange_pole_wrist_subject_picture_imitate_come |  
+| bip_39_word_underscore_8 | orange_pole_wrist_subject_picture_imitate_come_tool |  
+| bip_39_word_underscore_9 | orange_pole_wrist_subject_picture_imitate_come_tool_divert |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

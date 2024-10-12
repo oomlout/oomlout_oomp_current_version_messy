@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lobster
+bip_39_word_dash_10: lobster-settle-stool-frame-stay-script-surround-scale-describe-payment
+bip_39_word_dash_11: lobster-settle-stool-frame-stay-script-surround-scale-describe-payment-rocket
+bip_39_word_dash_12: lobster-settle-stool-frame-stay-script-surround-scale-describe-payment-rocket-antique
+bip_39_word_dash_2: lobster-settle
+bip_39_word_dash_3: lobster-settle-stool
+bip_39_word_dash_4: lobster-settle-stool-frame
+bip_39_word_dash_5: lobster-settle-stool-frame-stay
+bip_39_word_dash_6: lobster-settle-stool-frame-stay-script
+bip_39_word_dash_7: lobster-settle-stool-frame-stay-script-surround
+bip_39_word_dash_8: lobster-settle-stool-frame-stay-script-surround-scale
+bip_39_word_dash_9: lobster-settle-stool-frame-stay-script-surround-scale-describe
 bip_39_word_new_br_1: lobster
 bip_39_word_new_br_10: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale<br>describe<br>payment
 bip_39_word_new_br_11: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale<br>describe<br>payment<br>rocket
@@ -194,6 +206,18 @@ bip_39_word_space_6: lobster settle stool frame stay script
 bip_39_word_space_7: lobster settle stool frame stay script surround
 bip_39_word_space_8: lobster settle stool frame stay script surround scale
 bip_39_word_space_9: lobster settle stool frame stay script surround scale describe
+bip_39_word_underscore_1: lobster
+bip_39_word_underscore_10: lobster_settle_stool_frame_stay_script_surround_scale_describe_payment
+bip_39_word_underscore_11: lobster_settle_stool_frame_stay_script_surround_scale_describe_payment_rocket
+bip_39_word_underscore_12: lobster_settle_stool_frame_stay_script_surround_scale_describe_payment_rocket_antique
+bip_39_word_underscore_2: lobster_settle
+bip_39_word_underscore_3: lobster_settle_stool
+bip_39_word_underscore_4: lobster_settle_stool_frame
+bip_39_word_underscore_5: lobster_settle_stool_frame_stay
+bip_39_word_underscore_6: lobster_settle_stool_frame_stay_script
+bip_39_word_underscore_7: lobster_settle_stool_frame_stay_script_surround
+bip_39_word_underscore_8: lobster_settle_stool_frame_stay_script_surround_scale
+bip_39_word_underscore_9: lobster_settle_stool_frame_stay_script_surround_scale_describe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | say |  
+| bip_39_word_dash_10 | say-donate-company-elephant-sea-pattern-apology-awful-say-author |  
+| bip_39_word_dash_11 | say-donate-company-elephant-sea-pattern-apology-awful-say-author-carry |  
+| bip_39_word_dash_12 | say-donate-company-elephant-sea-pattern-apology-awful-say-author-carry-attract |  
+| bip_39_word_dash_2 | say-donate |  
+| bip_39_word_dash_3 | say-donate-company |  
+| bip_39_word_dash_4 | say-donate-company-elephant |  
+| bip_39_word_dash_5 | say-donate-company-elephant-sea |  
+| bip_39_word_dash_6 | say-donate-company-elephant-sea-pattern |  
+| bip_39_word_dash_7 | say-donate-company-elephant-sea-pattern-apology |  
+| bip_39_word_dash_8 | say-donate-company-elephant-sea-pattern-apology-awful |  
+| bip_39_word_dash_9 | say-donate-company-elephant-sea-pattern-apology-awful-say |  
 | bip_39_word_new_br_1 | say |  
 | bip_39_word_new_br_10 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author |  
 | bip_39_word_new_br_11 | say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author<br>carry |  
@@ -147,6 +159,18 @@ say |
 | bip_39_word_space_7 | say donate company elephant sea pattern apology |  
 | bip_39_word_space_8 | say donate company elephant sea pattern apology awful |  
 | bip_39_word_space_9 | say donate company elephant sea pattern apology awful say |  
+| bip_39_word_underscore_1 | say |  
+| bip_39_word_underscore_10 | say_donate_company_elephant_sea_pattern_apology_awful_say_author |  
+| bip_39_word_underscore_11 | say_donate_company_elephant_sea_pattern_apology_awful_say_author_carry |  
+| bip_39_word_underscore_12 | say_donate_company_elephant_sea_pattern_apology_awful_say_author_carry_attract |  
+| bip_39_word_underscore_2 | say_donate |  
+| bip_39_word_underscore_3 | say_donate_company |  
+| bip_39_word_underscore_4 | say_donate_company_elephant |  
+| bip_39_word_underscore_5 | say_donate_company_elephant_sea |  
+| bip_39_word_underscore_6 | say_donate_company_elephant_sea_pattern |  
+| bip_39_word_underscore_7 | say_donate_company_elephant_sea_pattern_apology |  
+| bip_39_word_underscore_8 | say_donate_company_elephant_sea_pattern_apology_awful |  
+| bip_39_word_underscore_9 | say_donate_company_elephant_sea_pattern_apology_awful_say |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

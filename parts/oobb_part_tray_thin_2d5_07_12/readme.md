@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | staff |  
+| bip_39_word_dash_10 | staff-coin-affair-afraid-buffalo-crater-plate-brand-smart-rotate |  
+| bip_39_word_dash_11 | staff-coin-affair-afraid-buffalo-crater-plate-brand-smart-rotate-satisfy |  
+| bip_39_word_dash_12 | staff-coin-affair-afraid-buffalo-crater-plate-brand-smart-rotate-satisfy-admit |  
+| bip_39_word_dash_2 | staff-coin |  
+| bip_39_word_dash_3 | staff-coin-affair |  
+| bip_39_word_dash_4 | staff-coin-affair-afraid |  
+| bip_39_word_dash_5 | staff-coin-affair-afraid-buffalo |  
+| bip_39_word_dash_6 | staff-coin-affair-afraid-buffalo-crater |  
+| bip_39_word_dash_7 | staff-coin-affair-afraid-buffalo-crater-plate |  
+| bip_39_word_dash_8 | staff-coin-affair-afraid-buffalo-crater-plate-brand |  
+| bip_39_word_dash_9 | staff-coin-affair-afraid-buffalo-crater-plate-brand-smart |  
 | bip_39_word_new_br_1 | staff |  
 | bip_39_word_new_br_10 | staff<br>coin<br>affair<br>afraid<br>buffalo<br>crater<br>plate<br>brand<br>smart<br>rotate |  
 | bip_39_word_new_br_11 | staff<br>coin<br>affair<br>afraid<br>buffalo<br>crater<br>plate<br>brand<br>smart<br>rotate<br>satisfy |  
@@ -147,6 +159,18 @@ smart |
 | bip_39_word_space_7 | staff coin affair afraid buffalo crater plate |  
 | bip_39_word_space_8 | staff coin affair afraid buffalo crater plate brand |  
 | bip_39_word_space_9 | staff coin affair afraid buffalo crater plate brand smart |  
+| bip_39_word_underscore_1 | staff |  
+| bip_39_word_underscore_10 | staff_coin_affair_afraid_buffalo_crater_plate_brand_smart_rotate |  
+| bip_39_word_underscore_11 | staff_coin_affair_afraid_buffalo_crater_plate_brand_smart_rotate_satisfy |  
+| bip_39_word_underscore_12 | staff_coin_affair_afraid_buffalo_crater_plate_brand_smart_rotate_satisfy_admit |  
+| bip_39_word_underscore_2 | staff_coin |  
+| bip_39_word_underscore_3 | staff_coin_affair |  
+| bip_39_word_underscore_4 | staff_coin_affair_afraid |  
+| bip_39_word_underscore_5 | staff_coin_affair_afraid_buffalo |  
+| bip_39_word_underscore_6 | staff_coin_affair_afraid_buffalo_crater |  
+| bip_39_word_underscore_7 | staff_coin_affair_afraid_buffalo_crater_plate |  
+| bip_39_word_underscore_8 | staff_coin_affair_afraid_buffalo_crater_plate_brand |  
+| bip_39_word_underscore_9 | staff_coin_affair_afraid_buffalo_crater_plate_brand_smart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | local |  
+| bip_39_word_dash_10 | local-sleep-company-sell-actual-snack-hurry-home-trick-cereal |  
+| bip_39_word_dash_11 | local-sleep-company-sell-actual-snack-hurry-home-trick-cereal-clinic |  
+| bip_39_word_dash_12 | local-sleep-company-sell-actual-snack-hurry-home-trick-cereal-clinic-agent |  
+| bip_39_word_dash_2 | local-sleep |  
+| bip_39_word_dash_3 | local-sleep-company |  
+| bip_39_word_dash_4 | local-sleep-company-sell |  
+| bip_39_word_dash_5 | local-sleep-company-sell-actual |  
+| bip_39_word_dash_6 | local-sleep-company-sell-actual-snack |  
+| bip_39_word_dash_7 | local-sleep-company-sell-actual-snack-hurry |  
+| bip_39_word_dash_8 | local-sleep-company-sell-actual-snack-hurry-home |  
+| bip_39_word_dash_9 | local-sleep-company-sell-actual-snack-hurry-home-trick |  
 | bip_39_word_new_br_1 | local |  
 | bip_39_word_new_br_10 | local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home<br>trick<br>cereal |  
 | bip_39_word_new_br_11 | local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home<br>trick<br>cereal<br>clinic |  
@@ -147,6 +159,18 @@ trick |
 | bip_39_word_space_7 | local sleep company sell actual snack hurry |  
 | bip_39_word_space_8 | local sleep company sell actual snack hurry home |  
 | bip_39_word_space_9 | local sleep company sell actual snack hurry home trick |  
+| bip_39_word_underscore_1 | local |  
+| bip_39_word_underscore_10 | local_sleep_company_sell_actual_snack_hurry_home_trick_cereal |  
+| bip_39_word_underscore_11 | local_sleep_company_sell_actual_snack_hurry_home_trick_cereal_clinic |  
+| bip_39_word_underscore_12 | local_sleep_company_sell_actual_snack_hurry_home_trick_cereal_clinic_agent |  
+| bip_39_word_underscore_2 | local_sleep |  
+| bip_39_word_underscore_3 | local_sleep_company |  
+| bip_39_word_underscore_4 | local_sleep_company_sell |  
+| bip_39_word_underscore_5 | local_sleep_company_sell_actual |  
+| bip_39_word_underscore_6 | local_sleep_company_sell_actual_snack |  
+| bip_39_word_underscore_7 | local_sleep_company_sell_actual_snack_hurry |  
+| bip_39_word_underscore_8 | local_sleep_company_sell_actual_snack_hurry_home |  
+| bip_39_word_underscore_9 | local_sleep_company_sell_actual_snack_hurry_home_trick |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

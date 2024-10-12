@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dream |  
+| bip_39_word_dash_10 | dream-blood-dress-blood-rebuild-army-large-biology-remember-angle |  
+| bip_39_word_dash_11 | dream-blood-dress-blood-rebuild-army-large-biology-remember-angle-audit |  
+| bip_39_word_dash_12 | dream-blood-dress-blood-rebuild-army-large-biology-remember-angle-audit-art |  
+| bip_39_word_dash_2 | dream-blood |  
+| bip_39_word_dash_3 | dream-blood-dress |  
+| bip_39_word_dash_4 | dream-blood-dress-blood |  
+| bip_39_word_dash_5 | dream-blood-dress-blood-rebuild |  
+| bip_39_word_dash_6 | dream-blood-dress-blood-rebuild-army |  
+| bip_39_word_dash_7 | dream-blood-dress-blood-rebuild-army-large |  
+| bip_39_word_dash_8 | dream-blood-dress-blood-rebuild-army-large-biology |  
+| bip_39_word_dash_9 | dream-blood-dress-blood-rebuild-army-large-biology-remember |  
 | bip_39_word_new_br_1 | dream |  
 | bip_39_word_new_br_10 | dream<br>blood<br>dress<br>blood<br>rebuild<br>army<br>large<br>biology<br>remember<br>angle |  
 | bip_39_word_new_br_11 | dream<br>blood<br>dress<br>blood<br>rebuild<br>army<br>large<br>biology<br>remember<br>angle<br>audit |  
@@ -147,6 +159,18 @@ remember |
 | bip_39_word_space_7 | dream blood dress blood rebuild army large |  
 | bip_39_word_space_8 | dream blood dress blood rebuild army large biology |  
 | bip_39_word_space_9 | dream blood dress blood rebuild army large biology remember |  
+| bip_39_word_underscore_1 | dream |  
+| bip_39_word_underscore_10 | dream_blood_dress_blood_rebuild_army_large_biology_remember_angle |  
+| bip_39_word_underscore_11 | dream_blood_dress_blood_rebuild_army_large_biology_remember_angle_audit |  
+| bip_39_word_underscore_12 | dream_blood_dress_blood_rebuild_army_large_biology_remember_angle_audit_art |  
+| bip_39_word_underscore_2 | dream_blood |  
+| bip_39_word_underscore_3 | dream_blood_dress |  
+| bip_39_word_underscore_4 | dream_blood_dress_blood |  
+| bip_39_word_underscore_5 | dream_blood_dress_blood_rebuild |  
+| bip_39_word_underscore_6 | dream_blood_dress_blood_rebuild_army |  
+| bip_39_word_underscore_7 | dream_blood_dress_blood_rebuild_army_large |  
+| bip_39_word_underscore_8 | dream_blood_dress_blood_rebuild_army_large_biology |  
+| bip_39_word_underscore_9 | dream_blood_dress_blood_rebuild_army_large_biology_remember |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

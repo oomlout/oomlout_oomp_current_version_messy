@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | route |  
+| bip_39_word_dash_10 | route-upper-faculty-drum-wrist-melt-town-group-fiscal-key |  
+| bip_39_word_dash_11 | route-upper-faculty-drum-wrist-melt-town-group-fiscal-key-kind |  
+| bip_39_word_dash_12 | route-upper-faculty-drum-wrist-melt-town-group-fiscal-key-kind-around |  
+| bip_39_word_dash_2 | route-upper |  
+| bip_39_word_dash_3 | route-upper-faculty |  
+| bip_39_word_dash_4 | route-upper-faculty-drum |  
+| bip_39_word_dash_5 | route-upper-faculty-drum-wrist |  
+| bip_39_word_dash_6 | route-upper-faculty-drum-wrist-melt |  
+| bip_39_word_dash_7 | route-upper-faculty-drum-wrist-melt-town |  
+| bip_39_word_dash_8 | route-upper-faculty-drum-wrist-melt-town-group |  
+| bip_39_word_dash_9 | route-upper-faculty-drum-wrist-melt-town-group-fiscal |  
 | bip_39_word_new_br_1 | route |  
 | bip_39_word_new_br_10 | route<br>upper<br>faculty<br>drum<br>wrist<br>melt<br>town<br>group<br>fiscal<br>key |  
 | bip_39_word_new_br_11 | route<br>upper<br>faculty<br>drum<br>wrist<br>melt<br>town<br>group<br>fiscal<br>key<br>kind |  
@@ -147,6 +159,18 @@ fiscal |
 | bip_39_word_space_7 | route upper faculty drum wrist melt town |  
 | bip_39_word_space_8 | route upper faculty drum wrist melt town group |  
 | bip_39_word_space_9 | route upper faculty drum wrist melt town group fiscal |  
+| bip_39_word_underscore_1 | route |  
+| bip_39_word_underscore_10 | route_upper_faculty_drum_wrist_melt_town_group_fiscal_key |  
+| bip_39_word_underscore_11 | route_upper_faculty_drum_wrist_melt_town_group_fiscal_key_kind |  
+| bip_39_word_underscore_12 | route_upper_faculty_drum_wrist_melt_town_group_fiscal_key_kind_around |  
+| bip_39_word_underscore_2 | route_upper |  
+| bip_39_word_underscore_3 | route_upper_faculty |  
+| bip_39_word_underscore_4 | route_upper_faculty_drum |  
+| bip_39_word_underscore_5 | route_upper_faculty_drum_wrist |  
+| bip_39_word_underscore_6 | route_upper_faculty_drum_wrist_melt |  
+| bip_39_word_underscore_7 | route_upper_faculty_drum_wrist_melt_town |  
+| bip_39_word_underscore_8 | route_upper_faculty_drum_wrist_melt_town_group |  
+| bip_39_word_underscore_9 | route_upper_faculty_drum_wrist_melt_town_group_fiscal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

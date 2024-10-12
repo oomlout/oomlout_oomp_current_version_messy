@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | useless |  
+| bip_39_word_dash_10 | useless-chest-view-leave-disorder-ancient-faint-expire-hard-curtain |  
+| bip_39_word_dash_11 | useless-chest-view-leave-disorder-ancient-faint-expire-hard-curtain-album |  
+| bip_39_word_dash_12 | useless-chest-view-leave-disorder-ancient-faint-expire-hard-curtain-album-armed |  
+| bip_39_word_dash_2 | useless-chest |  
+| bip_39_word_dash_3 | useless-chest-view |  
+| bip_39_word_dash_4 | useless-chest-view-leave |  
+| bip_39_word_dash_5 | useless-chest-view-leave-disorder |  
+| bip_39_word_dash_6 | useless-chest-view-leave-disorder-ancient |  
+| bip_39_word_dash_7 | useless-chest-view-leave-disorder-ancient-faint |  
+| bip_39_word_dash_8 | useless-chest-view-leave-disorder-ancient-faint-expire |  
+| bip_39_word_dash_9 | useless-chest-view-leave-disorder-ancient-faint-expire-hard |  
 | bip_39_word_new_br_1 | useless |  
 | bip_39_word_new_br_10 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire<br>hard<br>curtain |  
 | bip_39_word_new_br_11 | useless<br>chest<br>view<br>leave<br>disorder<br>ancient<br>faint<br>expire<br>hard<br>curtain<br>album |  
@@ -147,6 +159,18 @@ hard |
 | bip_39_word_space_7 | useless chest view leave disorder ancient faint |  
 | bip_39_word_space_8 | useless chest view leave disorder ancient faint expire |  
 | bip_39_word_space_9 | useless chest view leave disorder ancient faint expire hard |  
+| bip_39_word_underscore_1 | useless |  
+| bip_39_word_underscore_10 | useless_chest_view_leave_disorder_ancient_faint_expire_hard_curtain |  
+| bip_39_word_underscore_11 | useless_chest_view_leave_disorder_ancient_faint_expire_hard_curtain_album |  
+| bip_39_word_underscore_12 | useless_chest_view_leave_disorder_ancient_faint_expire_hard_curtain_album_armed |  
+| bip_39_word_underscore_2 | useless_chest |  
+| bip_39_word_underscore_3 | useless_chest_view |  
+| bip_39_word_underscore_4 | useless_chest_view_leave |  
+| bip_39_word_underscore_5 | useless_chest_view_leave_disorder |  
+| bip_39_word_underscore_6 | useless_chest_view_leave_disorder_ancient |  
+| bip_39_word_underscore_7 | useless_chest_view_leave_disorder_ancient_faint |  
+| bip_39_word_underscore_8 | useless_chest_view_leave_disorder_ancient_faint_expire |  
+| bip_39_word_underscore_9 | useless_chest_view_leave_disorder_ancient_faint_expire_hard |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

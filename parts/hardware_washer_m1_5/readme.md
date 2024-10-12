@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ski |  
+| bip_39_word_dash_10 | ski-north-error-usual-diesel-science-emerge-easily-vessel-champion |  
+| bip_39_word_dash_11 | ski-north-error-usual-diesel-science-emerge-easily-vessel-champion-smile |  
+| bip_39_word_dash_12 | ski-north-error-usual-diesel-science-emerge-easily-vessel-champion-smile-achieve |  
+| bip_39_word_dash_2 | ski-north |  
+| bip_39_word_dash_3 | ski-north-error |  
+| bip_39_word_dash_4 | ski-north-error-usual |  
+| bip_39_word_dash_5 | ski-north-error-usual-diesel |  
+| bip_39_word_dash_6 | ski-north-error-usual-diesel-science |  
+| bip_39_word_dash_7 | ski-north-error-usual-diesel-science-emerge |  
+| bip_39_word_dash_8 | ski-north-error-usual-diesel-science-emerge-easily |  
+| bip_39_word_dash_9 | ski-north-error-usual-diesel-science-emerge-easily-vessel |  
 | bip_39_word_new_br_1 | ski |  
 | bip_39_word_new_br_10 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily<br>vessel<br>champion |  
 | bip_39_word_new_br_11 | ski<br>north<br>error<br>usual<br>diesel<br>science<br>emerge<br>easily<br>vessel<br>champion<br>smile |  
@@ -147,6 +159,18 @@ vessel |
 | bip_39_word_space_7 | ski north error usual diesel science emerge |  
 | bip_39_word_space_8 | ski north error usual diesel science emerge easily |  
 | bip_39_word_space_9 | ski north error usual diesel science emerge easily vessel |  
+| bip_39_word_underscore_1 | ski |  
+| bip_39_word_underscore_10 | ski_north_error_usual_diesel_science_emerge_easily_vessel_champion |  
+| bip_39_word_underscore_11 | ski_north_error_usual_diesel_science_emerge_easily_vessel_champion_smile |  
+| bip_39_word_underscore_12 | ski_north_error_usual_diesel_science_emerge_easily_vessel_champion_smile_achieve |  
+| bip_39_word_underscore_2 | ski_north |  
+| bip_39_word_underscore_3 | ski_north_error |  
+| bip_39_word_underscore_4 | ski_north_error_usual |  
+| bip_39_word_underscore_5 | ski_north_error_usual_diesel |  
+| bip_39_word_underscore_6 | ski_north_error_usual_diesel_science |  
+| bip_39_word_underscore_7 | ski_north_error_usual_diesel_science_emerge |  
+| bip_39_word_underscore_8 | ski_north_error_usual_diesel_science_emerge_easily |  
+| bip_39_word_underscore_9 | ski_north_error_usual_diesel_science_emerge_easily_vessel |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

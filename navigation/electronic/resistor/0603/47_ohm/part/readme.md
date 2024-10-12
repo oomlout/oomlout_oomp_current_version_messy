@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrow |  
+| bip_39_word_dash_10 | arrow-jar-deliver-adult-turn-success-path-reveal-expose-recipe |  
+| bip_39_word_dash_11 | arrow-jar-deliver-adult-turn-success-path-reveal-expose-recipe-stomach |  
+| bip_39_word_dash_12 | arrow-jar-deliver-adult-turn-success-path-reveal-expose-recipe-stomach-apology |  
+| bip_39_word_dash_2 | arrow-jar |  
+| bip_39_word_dash_3 | arrow-jar-deliver |  
+| bip_39_word_dash_4 | arrow-jar-deliver-adult |  
+| bip_39_word_dash_5 | arrow-jar-deliver-adult-turn |  
+| bip_39_word_dash_6 | arrow-jar-deliver-adult-turn-success |  
+| bip_39_word_dash_7 | arrow-jar-deliver-adult-turn-success-path |  
+| bip_39_word_dash_8 | arrow-jar-deliver-adult-turn-success-path-reveal |  
+| bip_39_word_dash_9 | arrow-jar-deliver-adult-turn-success-path-reveal-expose |  
 | bip_39_word_new_br_1 | arrow |  
 | bip_39_word_new_br_10 | arrow<br>jar<br>deliver<br>adult<br>turn<br>success<br>path<br>reveal<br>expose<br>recipe |  
 | bip_39_word_new_br_11 | arrow<br>jar<br>deliver<br>adult<br>turn<br>success<br>path<br>reveal<br>expose<br>recipe<br>stomach |  
@@ -147,6 +159,18 @@ expose |
 | bip_39_word_space_7 | arrow jar deliver adult turn success path |  
 | bip_39_word_space_8 | arrow jar deliver adult turn success path reveal |  
 | bip_39_word_space_9 | arrow jar deliver adult turn success path reveal expose |  
+| bip_39_word_underscore_1 | arrow |  
+| bip_39_word_underscore_10 | arrow_jar_deliver_adult_turn_success_path_reveal_expose_recipe |  
+| bip_39_word_underscore_11 | arrow_jar_deliver_adult_turn_success_path_reveal_expose_recipe_stomach |  
+| bip_39_word_underscore_12 | arrow_jar_deliver_adult_turn_success_path_reveal_expose_recipe_stomach_apology |  
+| bip_39_word_underscore_2 | arrow_jar |  
+| bip_39_word_underscore_3 | arrow_jar_deliver |  
+| bip_39_word_underscore_4 | arrow_jar_deliver_adult |  
+| bip_39_word_underscore_5 | arrow_jar_deliver_adult_turn |  
+| bip_39_word_underscore_6 | arrow_jar_deliver_adult_turn_success |  
+| bip_39_word_underscore_7 | arrow_jar_deliver_adult_turn_success_path |  
+| bip_39_word_underscore_8 | arrow_jar_deliver_adult_turn_success_path_reveal |  
+| bip_39_word_underscore_9 | arrow_jar_deliver_adult_turn_success_path_reveal_expose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

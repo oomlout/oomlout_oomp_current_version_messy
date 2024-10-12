@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dwarf
+bip_39_word_dash_10: dwarf-saddle-tank-purity-image-glad-voyage-mosquito-diamond-crash
+bip_39_word_dash_11: dwarf-saddle-tank-purity-image-glad-voyage-mosquito-diamond-crash-pear
+bip_39_word_dash_12: dwarf-saddle-tank-purity-image-glad-voyage-mosquito-diamond-crash-pear-area
+bip_39_word_dash_2: dwarf-saddle
+bip_39_word_dash_3: dwarf-saddle-tank
+bip_39_word_dash_4: dwarf-saddle-tank-purity
+bip_39_word_dash_5: dwarf-saddle-tank-purity-image
+bip_39_word_dash_6: dwarf-saddle-tank-purity-image-glad
+bip_39_word_dash_7: dwarf-saddle-tank-purity-image-glad-voyage
+bip_39_word_dash_8: dwarf-saddle-tank-purity-image-glad-voyage-mosquito
+bip_39_word_dash_9: dwarf-saddle-tank-purity-image-glad-voyage-mosquito-diamond
 bip_39_word_new_br_1: dwarf
 bip_39_word_new_br_10: dwarf<br>saddle<br>tank<br>purity<br>image<br>glad<br>voyage<br>mosquito<br>diamond<br>crash
 bip_39_word_new_br_11: dwarf<br>saddle<br>tank<br>purity<br>image<br>glad<br>voyage<br>mosquito<br>diamond<br>crash<br>pear
@@ -194,6 +206,18 @@ bip_39_word_space_6: dwarf saddle tank purity image glad
 bip_39_word_space_7: dwarf saddle tank purity image glad voyage
 bip_39_word_space_8: dwarf saddle tank purity image glad voyage mosquito
 bip_39_word_space_9: dwarf saddle tank purity image glad voyage mosquito diamond
+bip_39_word_underscore_1: dwarf
+bip_39_word_underscore_10: dwarf_saddle_tank_purity_image_glad_voyage_mosquito_diamond_crash
+bip_39_word_underscore_11: dwarf_saddle_tank_purity_image_glad_voyage_mosquito_diamond_crash_pear
+bip_39_word_underscore_12: dwarf_saddle_tank_purity_image_glad_voyage_mosquito_diamond_crash_pear_area
+bip_39_word_underscore_2: dwarf_saddle
+bip_39_word_underscore_3: dwarf_saddle_tank
+bip_39_word_underscore_4: dwarf_saddle_tank_purity
+bip_39_word_underscore_5: dwarf_saddle_tank_purity_image
+bip_39_word_underscore_6: dwarf_saddle_tank_purity_image_glad
+bip_39_word_underscore_7: dwarf_saddle_tank_purity_image_glad_voyage
+bip_39_word_underscore_8: dwarf_saddle_tank_purity_image_glad_voyage_mosquito
+bip_39_word_underscore_9: dwarf_saddle_tank_purity_image_glad_voyage_mosquito_diamond
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

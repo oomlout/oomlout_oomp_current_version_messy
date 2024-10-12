@@ -1,3 +1,15 @@
+bip_39_word_dash_1: oven
+bip_39_word_dash_10: oven-abandon-square-trip-shift-focus-flower-finish-twice-wagon
+bip_39_word_dash_11: oven-abandon-square-trip-shift-focus-flower-finish-twice-wagon-hammer
+bip_39_word_dash_12: oven-abandon-square-trip-shift-focus-flower-finish-twice-wagon-hammer-approve
+bip_39_word_dash_2: oven-abandon
+bip_39_word_dash_3: oven-abandon-square
+bip_39_word_dash_4: oven-abandon-square-trip
+bip_39_word_dash_5: oven-abandon-square-trip-shift
+bip_39_word_dash_6: oven-abandon-square-trip-shift-focus
+bip_39_word_dash_7: oven-abandon-square-trip-shift-focus-flower
+bip_39_word_dash_8: oven-abandon-square-trip-shift-focus-flower-finish
+bip_39_word_dash_9: oven-abandon-square-trip-shift-focus-flower-finish-twice
 bip_39_word_new_br_1: oven
 bip_39_word_new_br_10: oven<br>abandon<br>square<br>trip<br>shift<br>focus<br>flower<br>finish<br>twice<br>wagon
 bip_39_word_new_br_11: oven<br>abandon<br>square<br>trip<br>shift<br>focus<br>flower<br>finish<br>twice<br>wagon<br>hammer
@@ -193,6 +205,18 @@ bip_39_word_space_6: oven abandon square trip shift focus
 bip_39_word_space_7: oven abandon square trip shift focus flower
 bip_39_word_space_8: oven abandon square trip shift focus flower finish
 bip_39_word_space_9: oven abandon square trip shift focus flower finish twice
+bip_39_word_underscore_1: oven
+bip_39_word_underscore_10: oven_abandon_square_trip_shift_focus_flower_finish_twice_wagon
+bip_39_word_underscore_11: oven_abandon_square_trip_shift_focus_flower_finish_twice_wagon_hammer
+bip_39_word_underscore_12: oven_abandon_square_trip_shift_focus_flower_finish_twice_wagon_hammer_approve
+bip_39_word_underscore_2: oven_abandon
+bip_39_word_underscore_3: oven_abandon_square
+bip_39_word_underscore_4: oven_abandon_square_trip
+bip_39_word_underscore_5: oven_abandon_square_trip_shift
+bip_39_word_underscore_6: oven_abandon_square_trip_shift_focus
+bip_39_word_underscore_7: oven_abandon_square_trip_shift_focus_flower
+bip_39_word_underscore_8: oven_abandon_square_trip_shift_focus_flower_finish
+bip_39_word_underscore_9: oven_abandon_square_trip_shift_focus_flower_finish_twice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | text |  
+| bip_39_word_dash_10 | text-ripple-major-little-group-timber-scatter-explain-retreat-express |  
+| bip_39_word_dash_11 | text-ripple-major-little-group-timber-scatter-explain-retreat-express-hunt |  
+| bip_39_word_dash_12 | text-ripple-major-little-group-timber-scatter-explain-retreat-express-hunt-arctic |  
+| bip_39_word_dash_2 | text-ripple |  
+| bip_39_word_dash_3 | text-ripple-major |  
+| bip_39_word_dash_4 | text-ripple-major-little |  
+| bip_39_word_dash_5 | text-ripple-major-little-group |  
+| bip_39_word_dash_6 | text-ripple-major-little-group-timber |  
+| bip_39_word_dash_7 | text-ripple-major-little-group-timber-scatter |  
+| bip_39_word_dash_8 | text-ripple-major-little-group-timber-scatter-explain |  
+| bip_39_word_dash_9 | text-ripple-major-little-group-timber-scatter-explain-retreat |  
 | bip_39_word_new_br_1 | text |  
 | bip_39_word_new_br_10 | text<br>ripple<br>major<br>little<br>group<br>timber<br>scatter<br>explain<br>retreat<br>express |  
 | bip_39_word_new_br_11 | text<br>ripple<br>major<br>little<br>group<br>timber<br>scatter<br>explain<br>retreat<br>express<br>hunt |  
@@ -147,6 +159,18 @@ retreat |
 | bip_39_word_space_7 | text ripple major little group timber scatter |  
 | bip_39_word_space_8 | text ripple major little group timber scatter explain |  
 | bip_39_word_space_9 | text ripple major little group timber scatter explain retreat |  
+| bip_39_word_underscore_1 | text |  
+| bip_39_word_underscore_10 | text_ripple_major_little_group_timber_scatter_explain_retreat_express |  
+| bip_39_word_underscore_11 | text_ripple_major_little_group_timber_scatter_explain_retreat_express_hunt |  
+| bip_39_word_underscore_12 | text_ripple_major_little_group_timber_scatter_explain_retreat_express_hunt_arctic |  
+| bip_39_word_underscore_2 | text_ripple |  
+| bip_39_word_underscore_3 | text_ripple_major |  
+| bip_39_word_underscore_4 | text_ripple_major_little |  
+| bip_39_word_underscore_5 | text_ripple_major_little_group |  
+| bip_39_word_underscore_6 | text_ripple_major_little_group_timber |  
+| bip_39_word_underscore_7 | text_ripple_major_little_group_timber_scatter |  
+| bip_39_word_underscore_8 | text_ripple_major_little_group_timber_scatter_explain |  
+| bip_39_word_underscore_9 | text_ripple_major_little_group_timber_scatter_explain_retreat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | change |  
+| bip_39_word_dash_10 | change-morning-announce-oak-survey-endless-rice-cactus-theory-tissue |  
+| bip_39_word_dash_11 | change-morning-announce-oak-survey-endless-rice-cactus-theory-tissue-above |  
+| bip_39_word_dash_12 | change-morning-announce-oak-survey-endless-rice-cactus-theory-tissue-above-aspect |  
+| bip_39_word_dash_2 | change-morning |  
+| bip_39_word_dash_3 | change-morning-announce |  
+| bip_39_word_dash_4 | change-morning-announce-oak |  
+| bip_39_word_dash_5 | change-morning-announce-oak-survey |  
+| bip_39_word_dash_6 | change-morning-announce-oak-survey-endless |  
+| bip_39_word_dash_7 | change-morning-announce-oak-survey-endless-rice |  
+| bip_39_word_dash_8 | change-morning-announce-oak-survey-endless-rice-cactus |  
+| bip_39_word_dash_9 | change-morning-announce-oak-survey-endless-rice-cactus-theory |  
 | bip_39_word_new_br_1 | change |  
 | bip_39_word_new_br_10 | change<br>morning<br>announce<br>oak<br>survey<br>endless<br>rice<br>cactus<br>theory<br>tissue |  
 | bip_39_word_new_br_11 | change<br>morning<br>announce<br>oak<br>survey<br>endless<br>rice<br>cactus<br>theory<br>tissue<br>above |  
@@ -147,6 +159,18 @@ theory |
 | bip_39_word_space_7 | change morning announce oak survey endless rice |  
 | bip_39_word_space_8 | change morning announce oak survey endless rice cactus |  
 | bip_39_word_space_9 | change morning announce oak survey endless rice cactus theory |  
+| bip_39_word_underscore_1 | change |  
+| bip_39_word_underscore_10 | change_morning_announce_oak_survey_endless_rice_cactus_theory_tissue |  
+| bip_39_word_underscore_11 | change_morning_announce_oak_survey_endless_rice_cactus_theory_tissue_above |  
+| bip_39_word_underscore_12 | change_morning_announce_oak_survey_endless_rice_cactus_theory_tissue_above_aspect |  
+| bip_39_word_underscore_2 | change_morning |  
+| bip_39_word_underscore_3 | change_morning_announce |  
+| bip_39_word_underscore_4 | change_morning_announce_oak |  
+| bip_39_word_underscore_5 | change_morning_announce_oak_survey |  
+| bip_39_word_underscore_6 | change_morning_announce_oak_survey_endless |  
+| bip_39_word_underscore_7 | change_morning_announce_oak_survey_endless_rice |  
+| bip_39_word_underscore_8 | change_morning_announce_oak_survey_endless_rice_cactus |  
+| bip_39_word_underscore_9 | change_morning_announce_oak_survey_endless_rice_cactus_theory |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

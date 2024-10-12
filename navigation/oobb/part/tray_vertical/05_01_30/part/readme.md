@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ship |  
+| bip_39_word_dash_10 | ship-prepare-glance-below-aerobic-call-civil-prefer-genius-solution |  
+| bip_39_word_dash_11 | ship-prepare-glance-below-aerobic-call-civil-prefer-genius-solution-sniff |  
+| bip_39_word_dash_12 | ship-prepare-glance-below-aerobic-call-civil-prefer-genius-solution-sniff-atom |  
+| bip_39_word_dash_2 | ship-prepare |  
+| bip_39_word_dash_3 | ship-prepare-glance |  
+| bip_39_word_dash_4 | ship-prepare-glance-below |  
+| bip_39_word_dash_5 | ship-prepare-glance-below-aerobic |  
+| bip_39_word_dash_6 | ship-prepare-glance-below-aerobic-call |  
+| bip_39_word_dash_7 | ship-prepare-glance-below-aerobic-call-civil |  
+| bip_39_word_dash_8 | ship-prepare-glance-below-aerobic-call-civil-prefer |  
+| bip_39_word_dash_9 | ship-prepare-glance-below-aerobic-call-civil-prefer-genius |  
 | bip_39_word_new_br_1 | ship |  
 | bip_39_word_new_br_10 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer<br>genius<br>solution |  
 | bip_39_word_new_br_11 | ship<br>prepare<br>glance<br>below<br>aerobic<br>call<br>civil<br>prefer<br>genius<br>solution<br>sniff |  
@@ -147,6 +159,18 @@ genius |
 | bip_39_word_space_7 | ship prepare glance below aerobic call civil |  
 | bip_39_word_space_8 | ship prepare glance below aerobic call civil prefer |  
 | bip_39_word_space_9 | ship prepare glance below aerobic call civil prefer genius |  
+| bip_39_word_underscore_1 | ship |  
+| bip_39_word_underscore_10 | ship_prepare_glance_below_aerobic_call_civil_prefer_genius_solution |  
+| bip_39_word_underscore_11 | ship_prepare_glance_below_aerobic_call_civil_prefer_genius_solution_sniff |  
+| bip_39_word_underscore_12 | ship_prepare_glance_below_aerobic_call_civil_prefer_genius_solution_sniff_atom |  
+| bip_39_word_underscore_2 | ship_prepare |  
+| bip_39_word_underscore_3 | ship_prepare_glance |  
+| bip_39_word_underscore_4 | ship_prepare_glance_below |  
+| bip_39_word_underscore_5 | ship_prepare_glance_below_aerobic |  
+| bip_39_word_underscore_6 | ship_prepare_glance_below_aerobic_call |  
+| bip_39_word_underscore_7 | ship_prepare_glance_below_aerobic_call_civil |  
+| bip_39_word_underscore_8 | ship_prepare_glance_below_aerobic_call_civil_prefer |  
+| bip_39_word_underscore_9 | ship_prepare_glance_below_aerobic_call_civil_prefer_genius |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

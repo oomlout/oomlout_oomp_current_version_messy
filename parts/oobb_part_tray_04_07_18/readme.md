@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | carry |  
+| bip_39_word_dash_10 | carry-ice-unfold-drive-snake-pencil-pipe-green-uncover-add |  
+| bip_39_word_dash_11 | carry-ice-unfold-drive-snake-pencil-pipe-green-uncover-add-plate |  
+| bip_39_word_dash_12 | carry-ice-unfold-drive-snake-pencil-pipe-green-uncover-add-plate-anger |  
+| bip_39_word_dash_2 | carry-ice |  
+| bip_39_word_dash_3 | carry-ice-unfold |  
+| bip_39_word_dash_4 | carry-ice-unfold-drive |  
+| bip_39_word_dash_5 | carry-ice-unfold-drive-snake |  
+| bip_39_word_dash_6 | carry-ice-unfold-drive-snake-pencil |  
+| bip_39_word_dash_7 | carry-ice-unfold-drive-snake-pencil-pipe |  
+| bip_39_word_dash_8 | carry-ice-unfold-drive-snake-pencil-pipe-green |  
+| bip_39_word_dash_9 | carry-ice-unfold-drive-snake-pencil-pipe-green-uncover |  
 | bip_39_word_new_br_1 | carry |  
 | bip_39_word_new_br_10 | carry<br>ice<br>unfold<br>drive<br>snake<br>pencil<br>pipe<br>green<br>uncover<br>add |  
 | bip_39_word_new_br_11 | carry<br>ice<br>unfold<br>drive<br>snake<br>pencil<br>pipe<br>green<br>uncover<br>add<br>plate |  
@@ -147,6 +159,18 @@ uncover |
 | bip_39_word_space_7 | carry ice unfold drive snake pencil pipe |  
 | bip_39_word_space_8 | carry ice unfold drive snake pencil pipe green |  
 | bip_39_word_space_9 | carry ice unfold drive snake pencil pipe green uncover |  
+| bip_39_word_underscore_1 | carry |  
+| bip_39_word_underscore_10 | carry_ice_unfold_drive_snake_pencil_pipe_green_uncover_add |  
+| bip_39_word_underscore_11 | carry_ice_unfold_drive_snake_pencil_pipe_green_uncover_add_plate |  
+| bip_39_word_underscore_12 | carry_ice_unfold_drive_snake_pencil_pipe_green_uncover_add_plate_anger |  
+| bip_39_word_underscore_2 | carry_ice |  
+| bip_39_word_underscore_3 | carry_ice_unfold |  
+| bip_39_word_underscore_4 | carry_ice_unfold_drive |  
+| bip_39_word_underscore_5 | carry_ice_unfold_drive_snake |  
+| bip_39_word_underscore_6 | carry_ice_unfold_drive_snake_pencil |  
+| bip_39_word_underscore_7 | carry_ice_unfold_drive_snake_pencil_pipe |  
+| bip_39_word_underscore_8 | carry_ice_unfold_drive_snake_pencil_pipe_green |  
+| bip_39_word_underscore_9 | carry_ice_unfold_drive_snake_pencil_pipe_green_uncover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

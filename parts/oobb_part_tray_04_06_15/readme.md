@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | simple |  
+| bip_39_word_dash_10 | simple-rib-rescue-lecture-poet-excess-milk-fringe-jungle-surround |  
+| bip_39_word_dash_11 | simple-rib-rescue-lecture-poet-excess-milk-fringe-jungle-surround-engine |  
+| bip_39_word_dash_12 | simple-rib-rescue-lecture-poet-excess-milk-fringe-jungle-surround-engine-accident |  
+| bip_39_word_dash_2 | simple-rib |  
+| bip_39_word_dash_3 | simple-rib-rescue |  
+| bip_39_word_dash_4 | simple-rib-rescue-lecture |  
+| bip_39_word_dash_5 | simple-rib-rescue-lecture-poet |  
+| bip_39_word_dash_6 | simple-rib-rescue-lecture-poet-excess |  
+| bip_39_word_dash_7 | simple-rib-rescue-lecture-poet-excess-milk |  
+| bip_39_word_dash_8 | simple-rib-rescue-lecture-poet-excess-milk-fringe |  
+| bip_39_word_dash_9 | simple-rib-rescue-lecture-poet-excess-milk-fringe-jungle |  
 | bip_39_word_new_br_1 | simple |  
 | bip_39_word_new_br_10 | simple<br>rib<br>rescue<br>lecture<br>poet<br>excess<br>milk<br>fringe<br>jungle<br>surround |  
 | bip_39_word_new_br_11 | simple<br>rib<br>rescue<br>lecture<br>poet<br>excess<br>milk<br>fringe<br>jungle<br>surround<br>engine |  
@@ -147,6 +159,18 @@ jungle |
 | bip_39_word_space_7 | simple rib rescue lecture poet excess milk |  
 | bip_39_word_space_8 | simple rib rescue lecture poet excess milk fringe |  
 | bip_39_word_space_9 | simple rib rescue lecture poet excess milk fringe jungle |  
+| bip_39_word_underscore_1 | simple |  
+| bip_39_word_underscore_10 | simple_rib_rescue_lecture_poet_excess_milk_fringe_jungle_surround |  
+| bip_39_word_underscore_11 | simple_rib_rescue_lecture_poet_excess_milk_fringe_jungle_surround_engine |  
+| bip_39_word_underscore_12 | simple_rib_rescue_lecture_poet_excess_milk_fringe_jungle_surround_engine_accident |  
+| bip_39_word_underscore_2 | simple_rib |  
+| bip_39_word_underscore_3 | simple_rib_rescue |  
+| bip_39_word_underscore_4 | simple_rib_rescue_lecture |  
+| bip_39_word_underscore_5 | simple_rib_rescue_lecture_poet |  
+| bip_39_word_underscore_6 | simple_rib_rescue_lecture_poet_excess |  
+| bip_39_word_underscore_7 | simple_rib_rescue_lecture_poet_excess_milk |  
+| bip_39_word_underscore_8 | simple_rib_rescue_lecture_poet_excess_milk_fringe |  
+| bip_39_word_underscore_9 | simple_rib_rescue_lecture_poet_excess_milk_fringe_jungle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

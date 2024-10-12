@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rose
+bip_39_word_dash_10: rose-doll-copy-misery-chief-grass-gold-picture-cheese-settle
+bip_39_word_dash_11: rose-doll-copy-misery-chief-grass-gold-picture-cheese-settle-reflect
+bip_39_word_dash_12: rose-doll-copy-misery-chief-grass-gold-picture-cheese-settle-reflect-aisle
+bip_39_word_dash_2: rose-doll
+bip_39_word_dash_3: rose-doll-copy
+bip_39_word_dash_4: rose-doll-copy-misery
+bip_39_word_dash_5: rose-doll-copy-misery-chief
+bip_39_word_dash_6: rose-doll-copy-misery-chief-grass
+bip_39_word_dash_7: rose-doll-copy-misery-chief-grass-gold
+bip_39_word_dash_8: rose-doll-copy-misery-chief-grass-gold-picture
+bip_39_word_dash_9: rose-doll-copy-misery-chief-grass-gold-picture-cheese
 bip_39_word_new_br_1: rose
 bip_39_word_new_br_10: rose<br>doll<br>copy<br>misery<br>chief<br>grass<br>gold<br>picture<br>cheese<br>settle
 bip_39_word_new_br_11: rose<br>doll<br>copy<br>misery<br>chief<br>grass<br>gold<br>picture<br>cheese<br>settle<br>reflect
@@ -193,6 +205,18 @@ bip_39_word_space_6: rose doll copy misery chief grass
 bip_39_word_space_7: rose doll copy misery chief grass gold
 bip_39_word_space_8: rose doll copy misery chief grass gold picture
 bip_39_word_space_9: rose doll copy misery chief grass gold picture cheese
+bip_39_word_underscore_1: rose
+bip_39_word_underscore_10: rose_doll_copy_misery_chief_grass_gold_picture_cheese_settle
+bip_39_word_underscore_11: rose_doll_copy_misery_chief_grass_gold_picture_cheese_settle_reflect
+bip_39_word_underscore_12: rose_doll_copy_misery_chief_grass_gold_picture_cheese_settle_reflect_aisle
+bip_39_word_underscore_2: rose_doll
+bip_39_word_underscore_3: rose_doll_copy
+bip_39_word_underscore_4: rose_doll_copy_misery
+bip_39_word_underscore_5: rose_doll_copy_misery_chief
+bip_39_word_underscore_6: rose_doll_copy_misery_chief_grass
+bip_39_word_underscore_7: rose_doll_copy_misery_chief_grass_gold
+bip_39_word_underscore_8: rose_doll_copy_misery_chief_grass_gold_picture
+bip_39_word_underscore_9: rose_doll_copy_misery_chief_grass_gold_picture_cheese
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

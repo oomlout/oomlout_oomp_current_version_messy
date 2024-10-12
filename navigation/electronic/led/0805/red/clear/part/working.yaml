@@ -1,3 +1,15 @@
+bip_39_word_dash_1: opera
+bip_39_word_dash_10: opera-nose-collect-target-message-ceiling-lesson-bomb-tribe-thumb
+bip_39_word_dash_11: opera-nose-collect-target-message-ceiling-lesson-bomb-tribe-thumb-tomorrow
+bip_39_word_dash_12: opera-nose-collect-target-message-ceiling-lesson-bomb-tribe-thumb-tomorrow-alarm
+bip_39_word_dash_2: opera-nose
+bip_39_word_dash_3: opera-nose-collect
+bip_39_word_dash_4: opera-nose-collect-target
+bip_39_word_dash_5: opera-nose-collect-target-message
+bip_39_word_dash_6: opera-nose-collect-target-message-ceiling
+bip_39_word_dash_7: opera-nose-collect-target-message-ceiling-lesson
+bip_39_word_dash_8: opera-nose-collect-target-message-ceiling-lesson-bomb
+bip_39_word_dash_9: opera-nose-collect-target-message-ceiling-lesson-bomb-tribe
 bip_39_word_new_br_1: opera
 bip_39_word_new_br_10: opera<br>nose<br>collect<br>target<br>message<br>ceiling<br>lesson<br>bomb<br>tribe<br>thumb
 bip_39_word_new_br_11: opera<br>nose<br>collect<br>target<br>message<br>ceiling<br>lesson<br>bomb<br>tribe<br>thumb<br>tomorrow
@@ -194,6 +206,18 @@ bip_39_word_space_6: opera nose collect target message ceiling
 bip_39_word_space_7: opera nose collect target message ceiling lesson
 bip_39_word_space_8: opera nose collect target message ceiling lesson bomb
 bip_39_word_space_9: opera nose collect target message ceiling lesson bomb tribe
+bip_39_word_underscore_1: opera
+bip_39_word_underscore_10: opera_nose_collect_target_message_ceiling_lesson_bomb_tribe_thumb
+bip_39_word_underscore_11: opera_nose_collect_target_message_ceiling_lesson_bomb_tribe_thumb_tomorrow
+bip_39_word_underscore_12: opera_nose_collect_target_message_ceiling_lesson_bomb_tribe_thumb_tomorrow_alarm
+bip_39_word_underscore_2: opera_nose
+bip_39_word_underscore_3: opera_nose_collect
+bip_39_word_underscore_4: opera_nose_collect_target
+bip_39_word_underscore_5: opera_nose_collect_target_message
+bip_39_word_underscore_6: opera_nose_collect_target_message_ceiling
+bip_39_word_underscore_7: opera_nose_collect_target_message_ceiling_lesson
+bip_39_word_underscore_8: opera_nose_collect_target_message_ceiling_lesson_bomb
+bip_39_word_underscore_9: opera_nose_collect_target_message_ceiling_lesson_bomb_tribe
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

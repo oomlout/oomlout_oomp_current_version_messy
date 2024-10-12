@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | foot |  
+| bip_39_word_dash_10 | foot-stage-toss-foam-pledge-detail-wine-oval-gesture-script |  
+| bip_39_word_dash_11 | foot-stage-toss-foam-pledge-detail-wine-oval-gesture-script-paddle |  
+| bip_39_word_dash_12 | foot-stage-toss-foam-pledge-detail-wine-oval-gesture-script-paddle-abstract |  
+| bip_39_word_dash_2 | foot-stage |  
+| bip_39_word_dash_3 | foot-stage-toss |  
+| bip_39_word_dash_4 | foot-stage-toss-foam |  
+| bip_39_word_dash_5 | foot-stage-toss-foam-pledge |  
+| bip_39_word_dash_6 | foot-stage-toss-foam-pledge-detail |  
+| bip_39_word_dash_7 | foot-stage-toss-foam-pledge-detail-wine |  
+| bip_39_word_dash_8 | foot-stage-toss-foam-pledge-detail-wine-oval |  
+| bip_39_word_dash_9 | foot-stage-toss-foam-pledge-detail-wine-oval-gesture |  
 | bip_39_word_new_br_1 | foot |  
 | bip_39_word_new_br_10 | foot<br>stage<br>toss<br>foam<br>pledge<br>detail<br>wine<br>oval<br>gesture<br>script |  
 | bip_39_word_new_br_11 | foot<br>stage<br>toss<br>foam<br>pledge<br>detail<br>wine<br>oval<br>gesture<br>script<br>paddle |  
@@ -147,6 +159,18 @@ gesture |
 | bip_39_word_space_7 | foot stage toss foam pledge detail wine |  
 | bip_39_word_space_8 | foot stage toss foam pledge detail wine oval |  
 | bip_39_word_space_9 | foot stage toss foam pledge detail wine oval gesture |  
+| bip_39_word_underscore_1 | foot |  
+| bip_39_word_underscore_10 | foot_stage_toss_foam_pledge_detail_wine_oval_gesture_script |  
+| bip_39_word_underscore_11 | foot_stage_toss_foam_pledge_detail_wine_oval_gesture_script_paddle |  
+| bip_39_word_underscore_12 | foot_stage_toss_foam_pledge_detail_wine_oval_gesture_script_paddle_abstract |  
+| bip_39_word_underscore_2 | foot_stage |  
+| bip_39_word_underscore_3 | foot_stage_toss |  
+| bip_39_word_underscore_4 | foot_stage_toss_foam |  
+| bip_39_word_underscore_5 | foot_stage_toss_foam_pledge |  
+| bip_39_word_underscore_6 | foot_stage_toss_foam_pledge_detail |  
+| bip_39_word_underscore_7 | foot_stage_toss_foam_pledge_detail_wine |  
+| bip_39_word_underscore_8 | foot_stage_toss_foam_pledge_detail_wine_oval |  
+| bip_39_word_underscore_9 | foot_stage_toss_foam_pledge_detail_wine_oval_gesture |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

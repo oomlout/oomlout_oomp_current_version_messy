@@ -1,3 +1,15 @@
+bip_39_word_dash_1: family
+bip_39_word_dash_10: family-example-kite-pottery-sick-fatigue-update-cliff-agree-chimney
+bip_39_word_dash_11: family-example-kite-pottery-sick-fatigue-update-cliff-agree-chimney-bullet
+bip_39_word_dash_12: family-example-kite-pottery-sick-fatigue-update-cliff-agree-chimney-bullet-audit
+bip_39_word_dash_2: family-example
+bip_39_word_dash_3: family-example-kite
+bip_39_word_dash_4: family-example-kite-pottery
+bip_39_word_dash_5: family-example-kite-pottery-sick
+bip_39_word_dash_6: family-example-kite-pottery-sick-fatigue
+bip_39_word_dash_7: family-example-kite-pottery-sick-fatigue-update
+bip_39_word_dash_8: family-example-kite-pottery-sick-fatigue-update-cliff
+bip_39_word_dash_9: family-example-kite-pottery-sick-fatigue-update-cliff-agree
 bip_39_word_new_br_1: family
 bip_39_word_new_br_10: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff<br>agree<br>chimney
 bip_39_word_new_br_11: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff<br>agree<br>chimney<br>bullet
@@ -194,6 +206,18 @@ bip_39_word_space_6: family example kite pottery sick fatigue
 bip_39_word_space_7: family example kite pottery sick fatigue update
 bip_39_word_space_8: family example kite pottery sick fatigue update cliff
 bip_39_word_space_9: family example kite pottery sick fatigue update cliff agree
+bip_39_word_underscore_1: family
+bip_39_word_underscore_10: family_example_kite_pottery_sick_fatigue_update_cliff_agree_chimney
+bip_39_word_underscore_11: family_example_kite_pottery_sick_fatigue_update_cliff_agree_chimney_bullet
+bip_39_word_underscore_12: family_example_kite_pottery_sick_fatigue_update_cliff_agree_chimney_bullet_audit
+bip_39_word_underscore_2: family_example
+bip_39_word_underscore_3: family_example_kite
+bip_39_word_underscore_4: family_example_kite_pottery
+bip_39_word_underscore_5: family_example_kite_pottery_sick
+bip_39_word_underscore_6: family_example_kite_pottery_sick_fatigue
+bip_39_word_underscore_7: family_example_kite_pottery_sick_fatigue_update
+bip_39_word_underscore_8: family_example_kite_pottery_sick_fatigue_update_cliff
+bip_39_word_underscore_9: family_example_kite_pottery_sick_fatigue_update_cliff_agree
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

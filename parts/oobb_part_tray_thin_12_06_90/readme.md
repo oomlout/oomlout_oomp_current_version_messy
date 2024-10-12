@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | couple |  
+| bip_39_word_dash_10 | couple-busy-visa-meat-prepare-emerge-peanut-expose-smooth-accident |  
+| bip_39_word_dash_11 | couple-busy-visa-meat-prepare-emerge-peanut-expose-smooth-accident-trim |  
+| bip_39_word_dash_12 | couple-busy-visa-meat-prepare-emerge-peanut-expose-smooth-accident-trim-also |  
+| bip_39_word_dash_2 | couple-busy |  
+| bip_39_word_dash_3 | couple-busy-visa |  
+| bip_39_word_dash_4 | couple-busy-visa-meat |  
+| bip_39_word_dash_5 | couple-busy-visa-meat-prepare |  
+| bip_39_word_dash_6 | couple-busy-visa-meat-prepare-emerge |  
+| bip_39_word_dash_7 | couple-busy-visa-meat-prepare-emerge-peanut |  
+| bip_39_word_dash_8 | couple-busy-visa-meat-prepare-emerge-peanut-expose |  
+| bip_39_word_dash_9 | couple-busy-visa-meat-prepare-emerge-peanut-expose-smooth |  
 | bip_39_word_new_br_1 | couple |  
 | bip_39_word_new_br_10 | couple<br>busy<br>visa<br>meat<br>prepare<br>emerge<br>peanut<br>expose<br>smooth<br>accident |  
 | bip_39_word_new_br_11 | couple<br>busy<br>visa<br>meat<br>prepare<br>emerge<br>peanut<br>expose<br>smooth<br>accident<br>trim |  
@@ -147,6 +159,18 @@ smooth |
 | bip_39_word_space_7 | couple busy visa meat prepare emerge peanut |  
 | bip_39_word_space_8 | couple busy visa meat prepare emerge peanut expose |  
 | bip_39_word_space_9 | couple busy visa meat prepare emerge peanut expose smooth |  
+| bip_39_word_underscore_1 | couple |  
+| bip_39_word_underscore_10 | couple_busy_visa_meat_prepare_emerge_peanut_expose_smooth_accident |  
+| bip_39_word_underscore_11 | couple_busy_visa_meat_prepare_emerge_peanut_expose_smooth_accident_trim |  
+| bip_39_word_underscore_12 | couple_busy_visa_meat_prepare_emerge_peanut_expose_smooth_accident_trim_also |  
+| bip_39_word_underscore_2 | couple_busy |  
+| bip_39_word_underscore_3 | couple_busy_visa |  
+| bip_39_word_underscore_4 | couple_busy_visa_meat |  
+| bip_39_word_underscore_5 | couple_busy_visa_meat_prepare |  
+| bip_39_word_underscore_6 | couple_busy_visa_meat_prepare_emerge |  
+| bip_39_word_underscore_7 | couple_busy_visa_meat_prepare_emerge_peanut |  
+| bip_39_word_underscore_8 | couple_busy_visa_meat_prepare_emerge_peanut_expose |  
+| bip_39_word_underscore_9 | couple_busy_visa_meat_prepare_emerge_peanut_expose_smooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

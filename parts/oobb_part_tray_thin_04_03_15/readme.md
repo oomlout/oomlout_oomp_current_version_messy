@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alter |  
+| bip_39_word_dash_10 | alter-answer-uphold-leaf-dinner-pipe-start-quiz-film-spider |  
+| bip_39_word_dash_11 | alter-answer-uphold-leaf-dinner-pipe-start-quiz-film-spider-slogan |  
+| bip_39_word_dash_12 | alter-answer-uphold-leaf-dinner-pipe-start-quiz-film-spider-slogan-amazing |  
+| bip_39_word_dash_2 | alter-answer |  
+| bip_39_word_dash_3 | alter-answer-uphold |  
+| bip_39_word_dash_4 | alter-answer-uphold-leaf |  
+| bip_39_word_dash_5 | alter-answer-uphold-leaf-dinner |  
+| bip_39_word_dash_6 | alter-answer-uphold-leaf-dinner-pipe |  
+| bip_39_word_dash_7 | alter-answer-uphold-leaf-dinner-pipe-start |  
+| bip_39_word_dash_8 | alter-answer-uphold-leaf-dinner-pipe-start-quiz |  
+| bip_39_word_dash_9 | alter-answer-uphold-leaf-dinner-pipe-start-quiz-film |  
 | bip_39_word_new_br_1 | alter |  
 | bip_39_word_new_br_10 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz<br>film<br>spider |  
 | bip_39_word_new_br_11 | alter<br>answer<br>uphold<br>leaf<br>dinner<br>pipe<br>start<br>quiz<br>film<br>spider<br>slogan |  
@@ -147,6 +159,18 @@ film |
 | bip_39_word_space_7 | alter answer uphold leaf dinner pipe start |  
 | bip_39_word_space_8 | alter answer uphold leaf dinner pipe start quiz |  
 | bip_39_word_space_9 | alter answer uphold leaf dinner pipe start quiz film |  
+| bip_39_word_underscore_1 | alter |  
+| bip_39_word_underscore_10 | alter_answer_uphold_leaf_dinner_pipe_start_quiz_film_spider |  
+| bip_39_word_underscore_11 | alter_answer_uphold_leaf_dinner_pipe_start_quiz_film_spider_slogan |  
+| bip_39_word_underscore_12 | alter_answer_uphold_leaf_dinner_pipe_start_quiz_film_spider_slogan_amazing |  
+| bip_39_word_underscore_2 | alter_answer |  
+| bip_39_word_underscore_3 | alter_answer_uphold |  
+| bip_39_word_underscore_4 | alter_answer_uphold_leaf |  
+| bip_39_word_underscore_5 | alter_answer_uphold_leaf_dinner |  
+| bip_39_word_underscore_6 | alter_answer_uphold_leaf_dinner_pipe |  
+| bip_39_word_underscore_7 | alter_answer_uphold_leaf_dinner_pipe_start |  
+| bip_39_word_underscore_8 | alter_answer_uphold_leaf_dinner_pipe_start_quiz |  
+| bip_39_word_underscore_9 | alter_answer_uphold_leaf_dinner_pipe_start_quiz_film |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

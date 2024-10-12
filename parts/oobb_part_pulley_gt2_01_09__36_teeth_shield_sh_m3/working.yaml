@@ -1,3 +1,15 @@
+bip_39_word_dash_1: beach
+bip_39_word_dash_10: beach-body-foster-leave-marble-crawl-fog-second-crouch-pave
+bip_39_word_dash_11: beach-body-foster-leave-marble-crawl-fog-second-crouch-pave-equip
+bip_39_word_dash_12: beach-body-foster-leave-marble-crawl-fog-second-crouch-pave-equip-artefact
+bip_39_word_dash_2: beach-body
+bip_39_word_dash_3: beach-body-foster
+bip_39_word_dash_4: beach-body-foster-leave
+bip_39_word_dash_5: beach-body-foster-leave-marble
+bip_39_word_dash_6: beach-body-foster-leave-marble-crawl
+bip_39_word_dash_7: beach-body-foster-leave-marble-crawl-fog
+bip_39_word_dash_8: beach-body-foster-leave-marble-crawl-fog-second
+bip_39_word_dash_9: beach-body-foster-leave-marble-crawl-fog-second-crouch
 bip_39_word_new_br_1: beach
 bip_39_word_new_br_10: beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave
 bip_39_word_new_br_11: beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave<br>equip
@@ -193,6 +205,18 @@ bip_39_word_space_6: beach body foster leave marble crawl
 bip_39_word_space_7: beach body foster leave marble crawl fog
 bip_39_word_space_8: beach body foster leave marble crawl fog second
 bip_39_word_space_9: beach body foster leave marble crawl fog second crouch
+bip_39_word_underscore_1: beach
+bip_39_word_underscore_10: beach_body_foster_leave_marble_crawl_fog_second_crouch_pave
+bip_39_word_underscore_11: beach_body_foster_leave_marble_crawl_fog_second_crouch_pave_equip
+bip_39_word_underscore_12: beach_body_foster_leave_marble_crawl_fog_second_crouch_pave_equip_artefact
+bip_39_word_underscore_2: beach_body
+bip_39_word_underscore_3: beach_body_foster
+bip_39_word_underscore_4: beach_body_foster_leave
+bip_39_word_underscore_5: beach_body_foster_leave_marble
+bip_39_word_underscore_6: beach_body_foster_leave_marble_crawl
+bip_39_word_underscore_7: beach_body_foster_leave_marble_crawl_fog
+bip_39_word_underscore_8: beach_body_foster_leave_marble_crawl_fog_second
+bip_39_word_underscore_9: beach_body_foster_leave_marble_crawl_fog_second_crouch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

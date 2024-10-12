@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | retire |  
+| bip_39_word_dash_10 | retire-faith-sure-story-allow-submit-increase-hub-sting-modify |  
+| bip_39_word_dash_11 | retire-faith-sure-story-allow-submit-increase-hub-sting-modify-mixture |  
+| bip_39_word_dash_12 | retire-faith-sure-story-allow-submit-increase-hub-sting-modify-mixture-approve |  
+| bip_39_word_dash_2 | retire-faith |  
+| bip_39_word_dash_3 | retire-faith-sure |  
+| bip_39_word_dash_4 | retire-faith-sure-story |  
+| bip_39_word_dash_5 | retire-faith-sure-story-allow |  
+| bip_39_word_dash_6 | retire-faith-sure-story-allow-submit |  
+| bip_39_word_dash_7 | retire-faith-sure-story-allow-submit-increase |  
+| bip_39_word_dash_8 | retire-faith-sure-story-allow-submit-increase-hub |  
+| bip_39_word_dash_9 | retire-faith-sure-story-allow-submit-increase-hub-sting |  
 | bip_39_word_new_br_1 | retire |  
 | bip_39_word_new_br_10 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify |  
 | bip_39_word_new_br_11 | retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify<br>mixture |  
@@ -147,6 +159,18 @@ sting |
 | bip_39_word_space_7 | retire faith sure story allow submit increase |  
 | bip_39_word_space_8 | retire faith sure story allow submit increase hub |  
 | bip_39_word_space_9 | retire faith sure story allow submit increase hub sting |  
+| bip_39_word_underscore_1 | retire |  
+| bip_39_word_underscore_10 | retire_faith_sure_story_allow_submit_increase_hub_sting_modify |  
+| bip_39_word_underscore_11 | retire_faith_sure_story_allow_submit_increase_hub_sting_modify_mixture |  
+| bip_39_word_underscore_12 | retire_faith_sure_story_allow_submit_increase_hub_sting_modify_mixture_approve |  
+| bip_39_word_underscore_2 | retire_faith |  
+| bip_39_word_underscore_3 | retire_faith_sure |  
+| bip_39_word_underscore_4 | retire_faith_sure_story |  
+| bip_39_word_underscore_5 | retire_faith_sure_story_allow |  
+| bip_39_word_underscore_6 | retire_faith_sure_story_allow_submit |  
+| bip_39_word_underscore_7 | retire_faith_sure_story_allow_submit_increase |  
+| bip_39_word_underscore_8 | retire_faith_sure_story_allow_submit_increase_hub |  
+| bip_39_word_underscore_9 | retire_faith_sure_story_allow_submit_increase_hub_sting |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

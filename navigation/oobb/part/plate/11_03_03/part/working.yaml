@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pilot
+bip_39_word_dash_10: pilot-swarm-conduct-patrol-mesh-business-help-sword-force-silly
+bip_39_word_dash_11: pilot-swarm-conduct-patrol-mesh-business-help-sword-force-silly-laugh
+bip_39_word_dash_12: pilot-swarm-conduct-patrol-mesh-business-help-sword-force-silly-laugh-average
+bip_39_word_dash_2: pilot-swarm
+bip_39_word_dash_3: pilot-swarm-conduct
+bip_39_word_dash_4: pilot-swarm-conduct-patrol
+bip_39_word_dash_5: pilot-swarm-conduct-patrol-mesh
+bip_39_word_dash_6: pilot-swarm-conduct-patrol-mesh-business
+bip_39_word_dash_7: pilot-swarm-conduct-patrol-mesh-business-help
+bip_39_word_dash_8: pilot-swarm-conduct-patrol-mesh-business-help-sword
+bip_39_word_dash_9: pilot-swarm-conduct-patrol-mesh-business-help-sword-force
 bip_39_word_new_br_1: pilot
 bip_39_word_new_br_10: pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly
 bip_39_word_new_br_11: pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly<br>laugh
@@ -193,6 +205,18 @@ bip_39_word_space_6: pilot swarm conduct patrol mesh business
 bip_39_word_space_7: pilot swarm conduct patrol mesh business help
 bip_39_word_space_8: pilot swarm conduct patrol mesh business help sword
 bip_39_word_space_9: pilot swarm conduct patrol mesh business help sword force
+bip_39_word_underscore_1: pilot
+bip_39_word_underscore_10: pilot_swarm_conduct_patrol_mesh_business_help_sword_force_silly
+bip_39_word_underscore_11: pilot_swarm_conduct_patrol_mesh_business_help_sword_force_silly_laugh
+bip_39_word_underscore_12: pilot_swarm_conduct_patrol_mesh_business_help_sword_force_silly_laugh_average
+bip_39_word_underscore_2: pilot_swarm
+bip_39_word_underscore_3: pilot_swarm_conduct
+bip_39_word_underscore_4: pilot_swarm_conduct_patrol
+bip_39_word_underscore_5: pilot_swarm_conduct_patrol_mesh
+bip_39_word_underscore_6: pilot_swarm_conduct_patrol_mesh_business
+bip_39_word_underscore_7: pilot_swarm_conduct_patrol_mesh_business_help
+bip_39_word_underscore_8: pilot_swarm_conduct_patrol_mesh_business_help_sword
+bip_39_word_underscore_9: pilot_swarm_conduct_patrol_mesh_business_help_sword_force
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kite |  
+| bip_39_word_dash_10 | kite-tornado-orphan-another-stadium-hat-mercy-shallow-allow-alpha |  
+| bip_39_word_dash_11 | kite-tornado-orphan-another-stadium-hat-mercy-shallow-allow-alpha-suffer |  
+| bip_39_word_dash_12 | kite-tornado-orphan-another-stadium-hat-mercy-shallow-allow-alpha-suffer-attend |  
+| bip_39_word_dash_2 | kite-tornado |  
+| bip_39_word_dash_3 | kite-tornado-orphan |  
+| bip_39_word_dash_4 | kite-tornado-orphan-another |  
+| bip_39_word_dash_5 | kite-tornado-orphan-another-stadium |  
+| bip_39_word_dash_6 | kite-tornado-orphan-another-stadium-hat |  
+| bip_39_word_dash_7 | kite-tornado-orphan-another-stadium-hat-mercy |  
+| bip_39_word_dash_8 | kite-tornado-orphan-another-stadium-hat-mercy-shallow |  
+| bip_39_word_dash_9 | kite-tornado-orphan-another-stadium-hat-mercy-shallow-allow |  
 | bip_39_word_new_br_1 | kite |  
 | bip_39_word_new_br_10 | kite<br>tornado<br>orphan<br>another<br>stadium<br>hat<br>mercy<br>shallow<br>allow<br>alpha |  
 | bip_39_word_new_br_11 | kite<br>tornado<br>orphan<br>another<br>stadium<br>hat<br>mercy<br>shallow<br>allow<br>alpha<br>suffer |  
@@ -147,6 +159,18 @@ allow |
 | bip_39_word_space_7 | kite tornado orphan another stadium hat mercy |  
 | bip_39_word_space_8 | kite tornado orphan another stadium hat mercy shallow |  
 | bip_39_word_space_9 | kite tornado orphan another stadium hat mercy shallow allow |  
+| bip_39_word_underscore_1 | kite |  
+| bip_39_word_underscore_10 | kite_tornado_orphan_another_stadium_hat_mercy_shallow_allow_alpha |  
+| bip_39_word_underscore_11 | kite_tornado_orphan_another_stadium_hat_mercy_shallow_allow_alpha_suffer |  
+| bip_39_word_underscore_12 | kite_tornado_orphan_another_stadium_hat_mercy_shallow_allow_alpha_suffer_attend |  
+| bip_39_word_underscore_2 | kite_tornado |  
+| bip_39_word_underscore_3 | kite_tornado_orphan |  
+| bip_39_word_underscore_4 | kite_tornado_orphan_another |  
+| bip_39_word_underscore_5 | kite_tornado_orphan_another_stadium |  
+| bip_39_word_underscore_6 | kite_tornado_orphan_another_stadium_hat |  
+| bip_39_word_underscore_7 | kite_tornado_orphan_another_stadium_hat_mercy |  
+| bip_39_word_underscore_8 | kite_tornado_orphan_another_stadium_hat_mercy_shallow |  
+| bip_39_word_underscore_9 | kite_tornado_orphan_another_stadium_hat_mercy_shallow_allow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

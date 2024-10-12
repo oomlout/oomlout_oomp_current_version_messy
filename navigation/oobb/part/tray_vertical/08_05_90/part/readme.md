@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | panel |  
+| bip_39_word_dash_10 | panel-debris-smart-shoot-door-person-cable-exclude-include-run |  
+| bip_39_word_dash_11 | panel-debris-smart-shoot-door-person-cable-exclude-include-run-buddy |  
+| bip_39_word_dash_12 | panel-debris-smart-shoot-door-person-cable-exclude-include-run-buddy-arch |  
+| bip_39_word_dash_2 | panel-debris |  
+| bip_39_word_dash_3 | panel-debris-smart |  
+| bip_39_word_dash_4 | panel-debris-smart-shoot |  
+| bip_39_word_dash_5 | panel-debris-smart-shoot-door |  
+| bip_39_word_dash_6 | panel-debris-smart-shoot-door-person |  
+| bip_39_word_dash_7 | panel-debris-smart-shoot-door-person-cable |  
+| bip_39_word_dash_8 | panel-debris-smart-shoot-door-person-cable-exclude |  
+| bip_39_word_dash_9 | panel-debris-smart-shoot-door-person-cable-exclude-include |  
 | bip_39_word_new_br_1 | panel |  
 | bip_39_word_new_br_10 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run |  
 | bip_39_word_new_br_11 | panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run<br>buddy |  
@@ -147,6 +159,18 @@ include |
 | bip_39_word_space_7 | panel debris smart shoot door person cable |  
 | bip_39_word_space_8 | panel debris smart shoot door person cable exclude |  
 | bip_39_word_space_9 | panel debris smart shoot door person cable exclude include |  
+| bip_39_word_underscore_1 | panel |  
+| bip_39_word_underscore_10 | panel_debris_smart_shoot_door_person_cable_exclude_include_run |  
+| bip_39_word_underscore_11 | panel_debris_smart_shoot_door_person_cable_exclude_include_run_buddy |  
+| bip_39_word_underscore_12 | panel_debris_smart_shoot_door_person_cable_exclude_include_run_buddy_arch |  
+| bip_39_word_underscore_2 | panel_debris |  
+| bip_39_word_underscore_3 | panel_debris_smart |  
+| bip_39_word_underscore_4 | panel_debris_smart_shoot |  
+| bip_39_word_underscore_5 | panel_debris_smart_shoot_door |  
+| bip_39_word_underscore_6 | panel_debris_smart_shoot_door_person |  
+| bip_39_word_underscore_7 | panel_debris_smart_shoot_door_person_cable |  
+| bip_39_word_underscore_8 | panel_debris_smart_shoot_door_person_cable_exclude |  
+| bip_39_word_underscore_9 | panel_debris_smart_shoot_door_person_cable_exclude_include |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

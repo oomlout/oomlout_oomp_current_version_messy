@@ -1,3 +1,15 @@
+bip_39_word_dash_1: desk
+bip_39_word_dash_10: desk-arch-despair-involve-sunny-reflect-execute-sketch-loan-true
+bip_39_word_dash_11: desk-arch-despair-involve-sunny-reflect-execute-sketch-loan-true-balcony
+bip_39_word_dash_12: desk-arch-despair-involve-sunny-reflect-execute-sketch-loan-true-balcony-armed
+bip_39_word_dash_2: desk-arch
+bip_39_word_dash_3: desk-arch-despair
+bip_39_word_dash_4: desk-arch-despair-involve
+bip_39_word_dash_5: desk-arch-despair-involve-sunny
+bip_39_word_dash_6: desk-arch-despair-involve-sunny-reflect
+bip_39_word_dash_7: desk-arch-despair-involve-sunny-reflect-execute
+bip_39_word_dash_8: desk-arch-despair-involve-sunny-reflect-execute-sketch
+bip_39_word_dash_9: desk-arch-despair-involve-sunny-reflect-execute-sketch-loan
 bip_39_word_new_br_1: desk
 bip_39_word_new_br_10: desk<br>arch<br>despair<br>involve<br>sunny<br>reflect<br>execute<br>sketch<br>loan<br>true
 bip_39_word_new_br_11: desk<br>arch<br>despair<br>involve<br>sunny<br>reflect<br>execute<br>sketch<br>loan<br>true<br>balcony
@@ -194,6 +206,18 @@ bip_39_word_space_6: desk arch despair involve sunny reflect
 bip_39_word_space_7: desk arch despair involve sunny reflect execute
 bip_39_word_space_8: desk arch despair involve sunny reflect execute sketch
 bip_39_word_space_9: desk arch despair involve sunny reflect execute sketch loan
+bip_39_word_underscore_1: desk
+bip_39_word_underscore_10: desk_arch_despair_involve_sunny_reflect_execute_sketch_loan_true
+bip_39_word_underscore_11: desk_arch_despair_involve_sunny_reflect_execute_sketch_loan_true_balcony
+bip_39_word_underscore_12: desk_arch_despair_involve_sunny_reflect_execute_sketch_loan_true_balcony_armed
+bip_39_word_underscore_2: desk_arch
+bip_39_word_underscore_3: desk_arch_despair
+bip_39_word_underscore_4: desk_arch_despair_involve
+bip_39_word_underscore_5: desk_arch_despair_involve_sunny
+bip_39_word_underscore_6: desk_arch_despair_involve_sunny_reflect
+bip_39_word_underscore_7: desk_arch_despair_involve_sunny_reflect_execute
+bip_39_word_underscore_8: desk_arch_despair_involve_sunny_reflect_execute_sketch
+bip_39_word_underscore_9: desk_arch_despair_involve_sunny_reflect_execute_sketch_loan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

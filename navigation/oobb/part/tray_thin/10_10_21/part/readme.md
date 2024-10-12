@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sample |  
+| bip_39_word_dash_10 | sample-buffalo-tooth-pluck-coin-staff-loop-easy-jelly-pear |  
+| bip_39_word_dash_11 | sample-buffalo-tooth-pluck-coin-staff-loop-easy-jelly-pear-twice |  
+| bip_39_word_dash_12 | sample-buffalo-tooth-pluck-coin-staff-loop-easy-jelly-pear-twice-arrow |  
+| bip_39_word_dash_2 | sample-buffalo |  
+| bip_39_word_dash_3 | sample-buffalo-tooth |  
+| bip_39_word_dash_4 | sample-buffalo-tooth-pluck |  
+| bip_39_word_dash_5 | sample-buffalo-tooth-pluck-coin |  
+| bip_39_word_dash_6 | sample-buffalo-tooth-pluck-coin-staff |  
+| bip_39_word_dash_7 | sample-buffalo-tooth-pluck-coin-staff-loop |  
+| bip_39_word_dash_8 | sample-buffalo-tooth-pluck-coin-staff-loop-easy |  
+| bip_39_word_dash_9 | sample-buffalo-tooth-pluck-coin-staff-loop-easy-jelly |  
 | bip_39_word_new_br_1 | sample |  
 | bip_39_word_new_br_10 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy<br>jelly<br>pear |  
 | bip_39_word_new_br_11 | sample<br>buffalo<br>tooth<br>pluck<br>coin<br>staff<br>loop<br>easy<br>jelly<br>pear<br>twice |  
@@ -147,6 +159,18 @@ jelly |
 | bip_39_word_space_7 | sample buffalo tooth pluck coin staff loop |  
 | bip_39_word_space_8 | sample buffalo tooth pluck coin staff loop easy |  
 | bip_39_word_space_9 | sample buffalo tooth pluck coin staff loop easy jelly |  
+| bip_39_word_underscore_1 | sample |  
+| bip_39_word_underscore_10 | sample_buffalo_tooth_pluck_coin_staff_loop_easy_jelly_pear |  
+| bip_39_word_underscore_11 | sample_buffalo_tooth_pluck_coin_staff_loop_easy_jelly_pear_twice |  
+| bip_39_word_underscore_12 | sample_buffalo_tooth_pluck_coin_staff_loop_easy_jelly_pear_twice_arrow |  
+| bip_39_word_underscore_2 | sample_buffalo |  
+| bip_39_word_underscore_3 | sample_buffalo_tooth |  
+| bip_39_word_underscore_4 | sample_buffalo_tooth_pluck |  
+| bip_39_word_underscore_5 | sample_buffalo_tooth_pluck_coin |  
+| bip_39_word_underscore_6 | sample_buffalo_tooth_pluck_coin_staff |  
+| bip_39_word_underscore_7 | sample_buffalo_tooth_pluck_coin_staff_loop |  
+| bip_39_word_underscore_8 | sample_buffalo_tooth_pluck_coin_staff_loop_easy |  
+| bip_39_word_underscore_9 | sample_buffalo_tooth_pluck_coin_staff_loop_easy_jelly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glad |  
+| bip_39_word_dash_10 | glad-expire-garden-trade-action-drill-life-series-tennis-tooth |  
+| bip_39_word_dash_11 | glad-expire-garden-trade-action-drill-life-series-tennis-tooth-radio |  
+| bip_39_word_dash_12 | glad-expire-garden-trade-action-drill-life-series-tennis-tooth-radio-approve |  
+| bip_39_word_dash_2 | glad-expire |  
+| bip_39_word_dash_3 | glad-expire-garden |  
+| bip_39_word_dash_4 | glad-expire-garden-trade |  
+| bip_39_word_dash_5 | glad-expire-garden-trade-action |  
+| bip_39_word_dash_6 | glad-expire-garden-trade-action-drill |  
+| bip_39_word_dash_7 | glad-expire-garden-trade-action-drill-life |  
+| bip_39_word_dash_8 | glad-expire-garden-trade-action-drill-life-series |  
+| bip_39_word_dash_9 | glad-expire-garden-trade-action-drill-life-series-tennis |  
 | bip_39_word_new_br_1 | glad |  
 | bip_39_word_new_br_10 | glad<br>expire<br>garden<br>trade<br>action<br>drill<br>life<br>series<br>tennis<br>tooth |  
 | bip_39_word_new_br_11 | glad<br>expire<br>garden<br>trade<br>action<br>drill<br>life<br>series<br>tennis<br>tooth<br>radio |  
@@ -147,6 +159,18 @@ tennis |
 | bip_39_word_space_7 | glad expire garden trade action drill life |  
 | bip_39_word_space_8 | glad expire garden trade action drill life series |  
 | bip_39_word_space_9 | glad expire garden trade action drill life series tennis |  
+| bip_39_word_underscore_1 | glad |  
+| bip_39_word_underscore_10 | glad_expire_garden_trade_action_drill_life_series_tennis_tooth |  
+| bip_39_word_underscore_11 | glad_expire_garden_trade_action_drill_life_series_tennis_tooth_radio |  
+| bip_39_word_underscore_12 | glad_expire_garden_trade_action_drill_life_series_tennis_tooth_radio_approve |  
+| bip_39_word_underscore_2 | glad_expire |  
+| bip_39_word_underscore_3 | glad_expire_garden |  
+| bip_39_word_underscore_4 | glad_expire_garden_trade |  
+| bip_39_word_underscore_5 | glad_expire_garden_trade_action |  
+| bip_39_word_underscore_6 | glad_expire_garden_trade_action_drill |  
+| bip_39_word_underscore_7 | glad_expire_garden_trade_action_drill_life |  
+| bip_39_word_underscore_8 | glad_expire_garden_trade_action_drill_life_series |  
+| bip_39_word_underscore_9 | glad_expire_garden_trade_action_drill_life_series_tennis |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

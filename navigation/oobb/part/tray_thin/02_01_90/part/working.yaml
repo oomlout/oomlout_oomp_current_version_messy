@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fun
+bip_39_word_dash_10: fun-empty-spider-annual-accuse-crazy-extra-live-art-bid
+bip_39_word_dash_11: fun-empty-spider-annual-accuse-crazy-extra-live-art-bid-adapt
+bip_39_word_dash_12: fun-empty-spider-annual-accuse-crazy-extra-live-art-bid-adapt-already
+bip_39_word_dash_2: fun-empty
+bip_39_word_dash_3: fun-empty-spider
+bip_39_word_dash_4: fun-empty-spider-annual
+bip_39_word_dash_5: fun-empty-spider-annual-accuse
+bip_39_word_dash_6: fun-empty-spider-annual-accuse-crazy
+bip_39_word_dash_7: fun-empty-spider-annual-accuse-crazy-extra
+bip_39_word_dash_8: fun-empty-spider-annual-accuse-crazy-extra-live
+bip_39_word_dash_9: fun-empty-spider-annual-accuse-crazy-extra-live-art
 bip_39_word_new_br_1: fun
 bip_39_word_new_br_10: fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live<br>art<br>bid
 bip_39_word_new_br_11: fun<br>empty<br>spider<br>annual<br>accuse<br>crazy<br>extra<br>live<br>art<br>bid<br>adapt
@@ -192,6 +204,18 @@ bip_39_word_space_6: fun empty spider annual accuse crazy
 bip_39_word_space_7: fun empty spider annual accuse crazy extra
 bip_39_word_space_8: fun empty spider annual accuse crazy extra live
 bip_39_word_space_9: fun empty spider annual accuse crazy extra live art
+bip_39_word_underscore_1: fun
+bip_39_word_underscore_10: fun_empty_spider_annual_accuse_crazy_extra_live_art_bid
+bip_39_word_underscore_11: fun_empty_spider_annual_accuse_crazy_extra_live_art_bid_adapt
+bip_39_word_underscore_12: fun_empty_spider_annual_accuse_crazy_extra_live_art_bid_adapt_already
+bip_39_word_underscore_2: fun_empty
+bip_39_word_underscore_3: fun_empty_spider
+bip_39_word_underscore_4: fun_empty_spider_annual
+bip_39_word_underscore_5: fun_empty_spider_annual_accuse
+bip_39_word_underscore_6: fun_empty_spider_annual_accuse_crazy
+bip_39_word_underscore_7: fun_empty_spider_annual_accuse_crazy_extra
+bip_39_word_underscore_8: fun_empty_spider_annual_accuse_crazy_extra_live
+bip_39_word_underscore_9: fun_empty_spider_annual_accuse_crazy_extra_live_art
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

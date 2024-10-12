@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | announce |  
+| bip_39_word_dash_10 | announce-bus-shop-rent-clean-title-valid-lift-front-pony |  
+| bip_39_word_dash_11 | announce-bus-shop-rent-clean-title-valid-lift-front-pony-dress |  
+| bip_39_word_dash_12 | announce-bus-shop-rent-clean-title-valid-lift-front-pony-dress-almost |  
+| bip_39_word_dash_2 | announce-bus |  
+| bip_39_word_dash_3 | announce-bus-shop |  
+| bip_39_word_dash_4 | announce-bus-shop-rent |  
+| bip_39_word_dash_5 | announce-bus-shop-rent-clean |  
+| bip_39_word_dash_6 | announce-bus-shop-rent-clean-title |  
+| bip_39_word_dash_7 | announce-bus-shop-rent-clean-title-valid |  
+| bip_39_word_dash_8 | announce-bus-shop-rent-clean-title-valid-lift |  
+| bip_39_word_dash_9 | announce-bus-shop-rent-clean-title-valid-lift-front |  
 | bip_39_word_new_br_1 | announce |  
 | bip_39_word_new_br_10 | announce<br>bus<br>shop<br>rent<br>clean<br>title<br>valid<br>lift<br>front<br>pony |  
 | bip_39_word_new_br_11 | announce<br>bus<br>shop<br>rent<br>clean<br>title<br>valid<br>lift<br>front<br>pony<br>dress |  
@@ -147,6 +159,18 @@ front |
 | bip_39_word_space_7 | announce bus shop rent clean title valid |  
 | bip_39_word_space_8 | announce bus shop rent clean title valid lift |  
 | bip_39_word_space_9 | announce bus shop rent clean title valid lift front |  
+| bip_39_word_underscore_1 | announce |  
+| bip_39_word_underscore_10 | announce_bus_shop_rent_clean_title_valid_lift_front_pony |  
+| bip_39_word_underscore_11 | announce_bus_shop_rent_clean_title_valid_lift_front_pony_dress |  
+| bip_39_word_underscore_12 | announce_bus_shop_rent_clean_title_valid_lift_front_pony_dress_almost |  
+| bip_39_word_underscore_2 | announce_bus |  
+| bip_39_word_underscore_3 | announce_bus_shop |  
+| bip_39_word_underscore_4 | announce_bus_shop_rent |  
+| bip_39_word_underscore_5 | announce_bus_shop_rent_clean |  
+| bip_39_word_underscore_6 | announce_bus_shop_rent_clean_title |  
+| bip_39_word_underscore_7 | announce_bus_shop_rent_clean_title_valid |  
+| bip_39_word_underscore_8 | announce_bus_shop_rent_clean_title_valid_lift |  
+| bip_39_word_underscore_9 | announce_bus_shop_rent_clean_title_valid_lift_front |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

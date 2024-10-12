@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | describe |  
+| bip_39_word_dash_10 | describe-marble-enter-occur-promote-grunt-unique-bread-element-fantasy |  
+| bip_39_word_dash_11 | describe-marble-enter-occur-promote-grunt-unique-bread-element-fantasy-enlist |  
+| bip_39_word_dash_12 | describe-marble-enter-occur-promote-grunt-unique-bread-element-fantasy-enlist-arrow |  
+| bip_39_word_dash_2 | describe-marble |  
+| bip_39_word_dash_3 | describe-marble-enter |  
+| bip_39_word_dash_4 | describe-marble-enter-occur |  
+| bip_39_word_dash_5 | describe-marble-enter-occur-promote |  
+| bip_39_word_dash_6 | describe-marble-enter-occur-promote-grunt |  
+| bip_39_word_dash_7 | describe-marble-enter-occur-promote-grunt-unique |  
+| bip_39_word_dash_8 | describe-marble-enter-occur-promote-grunt-unique-bread |  
+| bip_39_word_dash_9 | describe-marble-enter-occur-promote-grunt-unique-bread-element |  
 | bip_39_word_new_br_1 | describe |  
 | bip_39_word_new_br_10 | describe<br>marble<br>enter<br>occur<br>promote<br>grunt<br>unique<br>bread<br>element<br>fantasy |  
 | bip_39_word_new_br_11 | describe<br>marble<br>enter<br>occur<br>promote<br>grunt<br>unique<br>bread<br>element<br>fantasy<br>enlist |  
@@ -147,6 +159,18 @@ element |
 | bip_39_word_space_7 | describe marble enter occur promote grunt unique |  
 | bip_39_word_space_8 | describe marble enter occur promote grunt unique bread |  
 | bip_39_word_space_9 | describe marble enter occur promote grunt unique bread element |  
+| bip_39_word_underscore_1 | describe |  
+| bip_39_word_underscore_10 | describe_marble_enter_occur_promote_grunt_unique_bread_element_fantasy |  
+| bip_39_word_underscore_11 | describe_marble_enter_occur_promote_grunt_unique_bread_element_fantasy_enlist |  
+| bip_39_word_underscore_12 | describe_marble_enter_occur_promote_grunt_unique_bread_element_fantasy_enlist_arrow |  
+| bip_39_word_underscore_2 | describe_marble |  
+| bip_39_word_underscore_3 | describe_marble_enter |  
+| bip_39_word_underscore_4 | describe_marble_enter_occur |  
+| bip_39_word_underscore_5 | describe_marble_enter_occur_promote |  
+| bip_39_word_underscore_6 | describe_marble_enter_occur_promote_grunt |  
+| bip_39_word_underscore_7 | describe_marble_enter_occur_promote_grunt_unique |  
+| bip_39_word_underscore_8 | describe_marble_enter_occur_promote_grunt_unique_bread |  
+| bip_39_word_underscore_9 | describe_marble_enter_occur_promote_grunt_unique_bread_element |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

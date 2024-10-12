@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spring
+bip_39_word_dash_10: spring-there-reward-happy-route-vintage-slide-hurry-foot-broom
+bip_39_word_dash_11: spring-there-reward-happy-route-vintage-slide-hurry-foot-broom-ribbon
+bip_39_word_dash_12: spring-there-reward-happy-route-vintage-slide-hurry-foot-broom-ribbon-art
+bip_39_word_dash_2: spring-there
+bip_39_word_dash_3: spring-there-reward
+bip_39_word_dash_4: spring-there-reward-happy
+bip_39_word_dash_5: spring-there-reward-happy-route
+bip_39_word_dash_6: spring-there-reward-happy-route-vintage
+bip_39_word_dash_7: spring-there-reward-happy-route-vintage-slide
+bip_39_word_dash_8: spring-there-reward-happy-route-vintage-slide-hurry
+bip_39_word_dash_9: spring-there-reward-happy-route-vintage-slide-hurry-foot
 bip_39_word_new_br_1: spring
 bip_39_word_new_br_10: spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom
 bip_39_word_new_br_11: spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom<br>ribbon
@@ -193,6 +205,18 @@ bip_39_word_space_6: spring there reward happy route vintage
 bip_39_word_space_7: spring there reward happy route vintage slide
 bip_39_word_space_8: spring there reward happy route vintage slide hurry
 bip_39_word_space_9: spring there reward happy route vintage slide hurry foot
+bip_39_word_underscore_1: spring
+bip_39_word_underscore_10: spring_there_reward_happy_route_vintage_slide_hurry_foot_broom
+bip_39_word_underscore_11: spring_there_reward_happy_route_vintage_slide_hurry_foot_broom_ribbon
+bip_39_word_underscore_12: spring_there_reward_happy_route_vintage_slide_hurry_foot_broom_ribbon_art
+bip_39_word_underscore_2: spring_there
+bip_39_word_underscore_3: spring_there_reward
+bip_39_word_underscore_4: spring_there_reward_happy
+bip_39_word_underscore_5: spring_there_reward_happy_route
+bip_39_word_underscore_6: spring_there_reward_happy_route_vintage
+bip_39_word_underscore_7: spring_there_reward_happy_route_vintage_slide
+bip_39_word_underscore_8: spring_there_reward_happy_route_vintage_slide_hurry
+bip_39_word_underscore_9: spring_there_reward_happy_route_vintage_slide_hurry_foot
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

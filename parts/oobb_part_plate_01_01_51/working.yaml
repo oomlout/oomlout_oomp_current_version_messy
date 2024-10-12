@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cabin
+bip_39_word_dash_10: cabin-raise-wood-include-prepare-problem-ring-champion-denial-horror
+bip_39_word_dash_11: cabin-raise-wood-include-prepare-problem-ring-champion-denial-horror-myself
+bip_39_word_dash_12: cabin-raise-wood-include-prepare-problem-ring-champion-denial-horror-myself-author
+bip_39_word_dash_2: cabin-raise
+bip_39_word_dash_3: cabin-raise-wood
+bip_39_word_dash_4: cabin-raise-wood-include
+bip_39_word_dash_5: cabin-raise-wood-include-prepare
+bip_39_word_dash_6: cabin-raise-wood-include-prepare-problem
+bip_39_word_dash_7: cabin-raise-wood-include-prepare-problem-ring
+bip_39_word_dash_8: cabin-raise-wood-include-prepare-problem-ring-champion
+bip_39_word_dash_9: cabin-raise-wood-include-prepare-problem-ring-champion-denial
 bip_39_word_new_br_1: cabin
 bip_39_word_new_br_10: cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion<br>denial<br>horror
 bip_39_word_new_br_11: cabin<br>raise<br>wood<br>include<br>prepare<br>problem<br>ring<br>champion<br>denial<br>horror<br>myself
@@ -194,6 +206,18 @@ bip_39_word_space_6: cabin raise wood include prepare problem
 bip_39_word_space_7: cabin raise wood include prepare problem ring
 bip_39_word_space_8: cabin raise wood include prepare problem ring champion
 bip_39_word_space_9: cabin raise wood include prepare problem ring champion denial
+bip_39_word_underscore_1: cabin
+bip_39_word_underscore_10: cabin_raise_wood_include_prepare_problem_ring_champion_denial_horror
+bip_39_word_underscore_11: cabin_raise_wood_include_prepare_problem_ring_champion_denial_horror_myself
+bip_39_word_underscore_12: cabin_raise_wood_include_prepare_problem_ring_champion_denial_horror_myself_author
+bip_39_word_underscore_2: cabin_raise
+bip_39_word_underscore_3: cabin_raise_wood
+bip_39_word_underscore_4: cabin_raise_wood_include
+bip_39_word_underscore_5: cabin_raise_wood_include_prepare
+bip_39_word_underscore_6: cabin_raise_wood_include_prepare_problem
+bip_39_word_underscore_7: cabin_raise_wood_include_prepare_problem_ring
+bip_39_word_underscore_8: cabin_raise_wood_include_prepare_problem_ring_champion
+bip_39_word_underscore_9: cabin_raise_wood_include_prepare_problem_ring_champion_denial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

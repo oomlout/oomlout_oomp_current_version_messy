@@ -1,3 +1,15 @@
+bip_39_word_dash_1: best
+bip_39_word_dash_10: best-mother-tumble-wagon-birth-ten-door-lion-close-help
+bip_39_word_dash_11: best-mother-tumble-wagon-birth-ten-door-lion-close-help-slow
+bip_39_word_dash_12: best-mother-tumble-wagon-birth-ten-door-lion-close-help-slow-acid
+bip_39_word_dash_2: best-mother
+bip_39_word_dash_3: best-mother-tumble
+bip_39_word_dash_4: best-mother-tumble-wagon
+bip_39_word_dash_5: best-mother-tumble-wagon-birth
+bip_39_word_dash_6: best-mother-tumble-wagon-birth-ten
+bip_39_word_dash_7: best-mother-tumble-wagon-birth-ten-door
+bip_39_word_dash_8: best-mother-tumble-wagon-birth-ten-door-lion
+bip_39_word_dash_9: best-mother-tumble-wagon-birth-ten-door-lion-close
 bip_39_word_new_br_1: best
 bip_39_word_new_br_10: best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion<br>close<br>help
 bip_39_word_new_br_11: best<br>mother<br>tumble<br>wagon<br>birth<br>ten<br>door<br>lion<br>close<br>help<br>slow
@@ -192,6 +204,18 @@ bip_39_word_space_6: best mother tumble wagon birth ten
 bip_39_word_space_7: best mother tumble wagon birth ten door
 bip_39_word_space_8: best mother tumble wagon birth ten door lion
 bip_39_word_space_9: best mother tumble wagon birth ten door lion close
+bip_39_word_underscore_1: best
+bip_39_word_underscore_10: best_mother_tumble_wagon_birth_ten_door_lion_close_help
+bip_39_word_underscore_11: best_mother_tumble_wagon_birth_ten_door_lion_close_help_slow
+bip_39_word_underscore_12: best_mother_tumble_wagon_birth_ten_door_lion_close_help_slow_acid
+bip_39_word_underscore_2: best_mother
+bip_39_word_underscore_3: best_mother_tumble
+bip_39_word_underscore_4: best_mother_tumble_wagon
+bip_39_word_underscore_5: best_mother_tumble_wagon_birth
+bip_39_word_underscore_6: best_mother_tumble_wagon_birth_ten
+bip_39_word_underscore_7: best_mother_tumble_wagon_birth_ten_door
+bip_39_word_underscore_8: best_mother_tumble_wagon_birth_ten_door_lion
+bip_39_word_underscore_9: best_mother_tumble_wagon_birth_ten_door_lion_close
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: alcohol
+bip_39_word_dash_10: alcohol-post-useful-dress-winner-never-angle-era-theory-path
+bip_39_word_dash_11: alcohol-post-useful-dress-winner-never-angle-era-theory-path-lemon
+bip_39_word_dash_12: alcohol-post-useful-dress-winner-never-angle-era-theory-path-lemon-angry
+bip_39_word_dash_2: alcohol-post
+bip_39_word_dash_3: alcohol-post-useful
+bip_39_word_dash_4: alcohol-post-useful-dress
+bip_39_word_dash_5: alcohol-post-useful-dress-winner
+bip_39_word_dash_6: alcohol-post-useful-dress-winner-never
+bip_39_word_dash_7: alcohol-post-useful-dress-winner-never-angle
+bip_39_word_dash_8: alcohol-post-useful-dress-winner-never-angle-era
+bip_39_word_dash_9: alcohol-post-useful-dress-winner-never-angle-era-theory
 bip_39_word_new_br_1: alcohol
 bip_39_word_new_br_10: alcohol<br>post<br>useful<br>dress<br>winner<br>never<br>angle<br>era<br>theory<br>path
 bip_39_word_new_br_11: alcohol<br>post<br>useful<br>dress<br>winner<br>never<br>angle<br>era<br>theory<br>path<br>lemon
@@ -193,6 +205,18 @@ bip_39_word_space_6: alcohol post useful dress winner never
 bip_39_word_space_7: alcohol post useful dress winner never angle
 bip_39_word_space_8: alcohol post useful dress winner never angle era
 bip_39_word_space_9: alcohol post useful dress winner never angle era theory
+bip_39_word_underscore_1: alcohol
+bip_39_word_underscore_10: alcohol_post_useful_dress_winner_never_angle_era_theory_path
+bip_39_word_underscore_11: alcohol_post_useful_dress_winner_never_angle_era_theory_path_lemon
+bip_39_word_underscore_12: alcohol_post_useful_dress_winner_never_angle_era_theory_path_lemon_angry
+bip_39_word_underscore_2: alcohol_post
+bip_39_word_underscore_3: alcohol_post_useful
+bip_39_word_underscore_4: alcohol_post_useful_dress
+bip_39_word_underscore_5: alcohol_post_useful_dress_winner
+bip_39_word_underscore_6: alcohol_post_useful_dress_winner_never
+bip_39_word_underscore_7: alcohol_post_useful_dress_winner_never_angle
+bip_39_word_underscore_8: alcohol_post_useful_dress_winner_never_angle_era
+bip_39_word_underscore_9: alcohol_post_useful_dress_winner_never_angle_era_theory
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

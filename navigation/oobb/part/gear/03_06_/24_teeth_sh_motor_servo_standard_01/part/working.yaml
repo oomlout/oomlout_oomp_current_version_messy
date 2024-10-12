@@ -1,3 +1,15 @@
+bip_39_word_dash_1: collect
+bip_39_word_dash_10: collect-sausage-float-alien-canoe-buzz-inhale-sentence-equal-arrest
+bip_39_word_dash_11: collect-sausage-float-alien-canoe-buzz-inhale-sentence-equal-arrest-enable
+bip_39_word_dash_12: collect-sausage-float-alien-canoe-buzz-inhale-sentence-equal-arrest-enable-apart
+bip_39_word_dash_2: collect-sausage
+bip_39_word_dash_3: collect-sausage-float
+bip_39_word_dash_4: collect-sausage-float-alien
+bip_39_word_dash_5: collect-sausage-float-alien-canoe
+bip_39_word_dash_6: collect-sausage-float-alien-canoe-buzz
+bip_39_word_dash_7: collect-sausage-float-alien-canoe-buzz-inhale
+bip_39_word_dash_8: collect-sausage-float-alien-canoe-buzz-inhale-sentence
+bip_39_word_dash_9: collect-sausage-float-alien-canoe-buzz-inhale-sentence-equal
 bip_39_word_new_br_1: collect
 bip_39_word_new_br_10: collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest
 bip_39_word_new_br_11: collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest<br>enable
@@ -194,6 +206,18 @@ bip_39_word_space_6: collect sausage float alien canoe buzz
 bip_39_word_space_7: collect sausage float alien canoe buzz inhale
 bip_39_word_space_8: collect sausage float alien canoe buzz inhale sentence
 bip_39_word_space_9: collect sausage float alien canoe buzz inhale sentence equal
+bip_39_word_underscore_1: collect
+bip_39_word_underscore_10: collect_sausage_float_alien_canoe_buzz_inhale_sentence_equal_arrest
+bip_39_word_underscore_11: collect_sausage_float_alien_canoe_buzz_inhale_sentence_equal_arrest_enable
+bip_39_word_underscore_12: collect_sausage_float_alien_canoe_buzz_inhale_sentence_equal_arrest_enable_apart
+bip_39_word_underscore_2: collect_sausage
+bip_39_word_underscore_3: collect_sausage_float
+bip_39_word_underscore_4: collect_sausage_float_alien
+bip_39_word_underscore_5: collect_sausage_float_alien_canoe
+bip_39_word_underscore_6: collect_sausage_float_alien_canoe_buzz
+bip_39_word_underscore_7: collect_sausage_float_alien_canoe_buzz_inhale
+bip_39_word_underscore_8: collect_sausage_float_alien_canoe_buzz_inhale_sentence
+bip_39_word_underscore_9: collect_sausage_float_alien_canoe_buzz_inhale_sentence_equal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

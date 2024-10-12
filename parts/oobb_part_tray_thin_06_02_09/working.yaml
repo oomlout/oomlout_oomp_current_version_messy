@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pitch
+bip_39_word_dash_10: pitch-guitar-cluster-biology-game-pigeon-you-jar-wreck-treat
+bip_39_word_dash_11: pitch-guitar-cluster-biology-game-pigeon-you-jar-wreck-treat-hidden
+bip_39_word_dash_12: pitch-guitar-cluster-biology-game-pigeon-you-jar-wreck-treat-hidden-armed
+bip_39_word_dash_2: pitch-guitar
+bip_39_word_dash_3: pitch-guitar-cluster
+bip_39_word_dash_4: pitch-guitar-cluster-biology
+bip_39_word_dash_5: pitch-guitar-cluster-biology-game
+bip_39_word_dash_6: pitch-guitar-cluster-biology-game-pigeon
+bip_39_word_dash_7: pitch-guitar-cluster-biology-game-pigeon-you
+bip_39_word_dash_8: pitch-guitar-cluster-biology-game-pigeon-you-jar
+bip_39_word_dash_9: pitch-guitar-cluster-biology-game-pigeon-you-jar-wreck
 bip_39_word_new_br_1: pitch
 bip_39_word_new_br_10: pitch<br>guitar<br>cluster<br>biology<br>game<br>pigeon<br>you<br>jar<br>wreck<br>treat
 bip_39_word_new_br_11: pitch<br>guitar<br>cluster<br>biology<br>game<br>pigeon<br>you<br>jar<br>wreck<br>treat<br>hidden
@@ -193,6 +205,18 @@ bip_39_word_space_6: pitch guitar cluster biology game pigeon
 bip_39_word_space_7: pitch guitar cluster biology game pigeon you
 bip_39_word_space_8: pitch guitar cluster biology game pigeon you jar
 bip_39_word_space_9: pitch guitar cluster biology game pigeon you jar wreck
+bip_39_word_underscore_1: pitch
+bip_39_word_underscore_10: pitch_guitar_cluster_biology_game_pigeon_you_jar_wreck_treat
+bip_39_word_underscore_11: pitch_guitar_cluster_biology_game_pigeon_you_jar_wreck_treat_hidden
+bip_39_word_underscore_12: pitch_guitar_cluster_biology_game_pigeon_you_jar_wreck_treat_hidden_armed
+bip_39_word_underscore_2: pitch_guitar
+bip_39_word_underscore_3: pitch_guitar_cluster
+bip_39_word_underscore_4: pitch_guitar_cluster_biology
+bip_39_word_underscore_5: pitch_guitar_cluster_biology_game
+bip_39_word_underscore_6: pitch_guitar_cluster_biology_game_pigeon
+bip_39_word_underscore_7: pitch_guitar_cluster_biology_game_pigeon_you
+bip_39_word_underscore_8: pitch_guitar_cluster_biology_game_pigeon_you_jar
+bip_39_word_underscore_9: pitch_guitar_cluster_biology_game_pigeon_you_jar_wreck
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

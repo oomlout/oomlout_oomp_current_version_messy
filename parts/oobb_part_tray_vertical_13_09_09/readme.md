@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | office |  
+| bip_39_word_dash_10 | office-save-indoor-rocket-cover-wedding-shiver-people-leopard-unveil |  
+| bip_39_word_dash_11 | office-save-indoor-rocket-cover-wedding-shiver-people-leopard-unveil-badge |  
+| bip_39_word_dash_12 | office-save-indoor-rocket-cover-wedding-shiver-people-leopard-unveil-badge-around |  
+| bip_39_word_dash_2 | office-save |  
+| bip_39_word_dash_3 | office-save-indoor |  
+| bip_39_word_dash_4 | office-save-indoor-rocket |  
+| bip_39_word_dash_5 | office-save-indoor-rocket-cover |  
+| bip_39_word_dash_6 | office-save-indoor-rocket-cover-wedding |  
+| bip_39_word_dash_7 | office-save-indoor-rocket-cover-wedding-shiver |  
+| bip_39_word_dash_8 | office-save-indoor-rocket-cover-wedding-shiver-people |  
+| bip_39_word_dash_9 | office-save-indoor-rocket-cover-wedding-shiver-people-leopard |  
 | bip_39_word_new_br_1 | office |  
 | bip_39_word_new_br_10 | office<br>save<br>indoor<br>rocket<br>cover<br>wedding<br>shiver<br>people<br>leopard<br>unveil |  
 | bip_39_word_new_br_11 | office<br>save<br>indoor<br>rocket<br>cover<br>wedding<br>shiver<br>people<br>leopard<br>unveil<br>badge |  
@@ -147,6 +159,18 @@ leopard |
 | bip_39_word_space_7 | office save indoor rocket cover wedding shiver |  
 | bip_39_word_space_8 | office save indoor rocket cover wedding shiver people |  
 | bip_39_word_space_9 | office save indoor rocket cover wedding shiver people leopard |  
+| bip_39_word_underscore_1 | office |  
+| bip_39_word_underscore_10 | office_save_indoor_rocket_cover_wedding_shiver_people_leopard_unveil |  
+| bip_39_word_underscore_11 | office_save_indoor_rocket_cover_wedding_shiver_people_leopard_unveil_badge |  
+| bip_39_word_underscore_12 | office_save_indoor_rocket_cover_wedding_shiver_people_leopard_unveil_badge_around |  
+| bip_39_word_underscore_2 | office_save |  
+| bip_39_word_underscore_3 | office_save_indoor |  
+| bip_39_word_underscore_4 | office_save_indoor_rocket |  
+| bip_39_word_underscore_5 | office_save_indoor_rocket_cover |  
+| bip_39_word_underscore_6 | office_save_indoor_rocket_cover_wedding |  
+| bip_39_word_underscore_7 | office_save_indoor_rocket_cover_wedding_shiver |  
+| bip_39_word_underscore_8 | office_save_indoor_rocket_cover_wedding_shiver_people |  
+| bip_39_word_underscore_9 | office_save_indoor_rocket_cover_wedding_shiver_people_leopard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

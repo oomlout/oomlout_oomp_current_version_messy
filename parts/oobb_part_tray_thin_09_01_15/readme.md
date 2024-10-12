@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bundle |  
+| bip_39_word_dash_10 | bundle-hard-hammer-cliff-pigeon-wrist-cat-deliver-tray-opera |  
+| bip_39_word_dash_11 | bundle-hard-hammer-cliff-pigeon-wrist-cat-deliver-tray-opera-enforce |  
+| bip_39_word_dash_12 | bundle-hard-hammer-cliff-pigeon-wrist-cat-deliver-tray-opera-enforce-anchor |  
+| bip_39_word_dash_2 | bundle-hard |  
+| bip_39_word_dash_3 | bundle-hard-hammer |  
+| bip_39_word_dash_4 | bundle-hard-hammer-cliff |  
+| bip_39_word_dash_5 | bundle-hard-hammer-cliff-pigeon |  
+| bip_39_word_dash_6 | bundle-hard-hammer-cliff-pigeon-wrist |  
+| bip_39_word_dash_7 | bundle-hard-hammer-cliff-pigeon-wrist-cat |  
+| bip_39_word_dash_8 | bundle-hard-hammer-cliff-pigeon-wrist-cat-deliver |  
+| bip_39_word_dash_9 | bundle-hard-hammer-cliff-pigeon-wrist-cat-deliver-tray |  
 | bip_39_word_new_br_1 | bundle |  
 | bip_39_word_new_br_10 | bundle<br>hard<br>hammer<br>cliff<br>pigeon<br>wrist<br>cat<br>deliver<br>tray<br>opera |  
 | bip_39_word_new_br_11 | bundle<br>hard<br>hammer<br>cliff<br>pigeon<br>wrist<br>cat<br>deliver<br>tray<br>opera<br>enforce |  
@@ -147,6 +159,18 @@ tray |
 | bip_39_word_space_7 | bundle hard hammer cliff pigeon wrist cat |  
 | bip_39_word_space_8 | bundle hard hammer cliff pigeon wrist cat deliver |  
 | bip_39_word_space_9 | bundle hard hammer cliff pigeon wrist cat deliver tray |  
+| bip_39_word_underscore_1 | bundle |  
+| bip_39_word_underscore_10 | bundle_hard_hammer_cliff_pigeon_wrist_cat_deliver_tray_opera |  
+| bip_39_word_underscore_11 | bundle_hard_hammer_cliff_pigeon_wrist_cat_deliver_tray_opera_enforce |  
+| bip_39_word_underscore_12 | bundle_hard_hammer_cliff_pigeon_wrist_cat_deliver_tray_opera_enforce_anchor |  
+| bip_39_word_underscore_2 | bundle_hard |  
+| bip_39_word_underscore_3 | bundle_hard_hammer |  
+| bip_39_word_underscore_4 | bundle_hard_hammer_cliff |  
+| bip_39_word_underscore_5 | bundle_hard_hammer_cliff_pigeon |  
+| bip_39_word_underscore_6 | bundle_hard_hammer_cliff_pigeon_wrist |  
+| bip_39_word_underscore_7 | bundle_hard_hammer_cliff_pigeon_wrist_cat |  
+| bip_39_word_underscore_8 | bundle_hard_hammer_cliff_pigeon_wrist_cat_deliver |  
+| bip_39_word_underscore_9 | bundle_hard_hammer_cliff_pigeon_wrist_cat_deliver_tray |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

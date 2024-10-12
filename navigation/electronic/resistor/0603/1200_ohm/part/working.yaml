@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hurt
+bip_39_word_dash_10: hurt-rifle-bid-blind-long-pulp-slight-blue-town-renew
+bip_39_word_dash_11: hurt-rifle-bid-blind-long-pulp-slight-blue-town-renew-sword
+bip_39_word_dash_12: hurt-rifle-bid-blind-long-pulp-slight-blue-town-renew-sword-achieve
+bip_39_word_dash_2: hurt-rifle
+bip_39_word_dash_3: hurt-rifle-bid
+bip_39_word_dash_4: hurt-rifle-bid-blind
+bip_39_word_dash_5: hurt-rifle-bid-blind-long
+bip_39_word_dash_6: hurt-rifle-bid-blind-long-pulp
+bip_39_word_dash_7: hurt-rifle-bid-blind-long-pulp-slight
+bip_39_word_dash_8: hurt-rifle-bid-blind-long-pulp-slight-blue
+bip_39_word_dash_9: hurt-rifle-bid-blind-long-pulp-slight-blue-town
 bip_39_word_new_br_1: hurt
 bip_39_word_new_br_10: hurt<br>rifle<br>bid<br>blind<br>long<br>pulp<br>slight<br>blue<br>town<br>renew
 bip_39_word_new_br_11: hurt<br>rifle<br>bid<br>blind<br>long<br>pulp<br>slight<br>blue<br>town<br>renew<br>sword
@@ -192,6 +204,18 @@ bip_39_word_space_6: hurt rifle bid blind long pulp
 bip_39_word_space_7: hurt rifle bid blind long pulp slight
 bip_39_word_space_8: hurt rifle bid blind long pulp slight blue
 bip_39_word_space_9: hurt rifle bid blind long pulp slight blue town
+bip_39_word_underscore_1: hurt
+bip_39_word_underscore_10: hurt_rifle_bid_blind_long_pulp_slight_blue_town_renew
+bip_39_word_underscore_11: hurt_rifle_bid_blind_long_pulp_slight_blue_town_renew_sword
+bip_39_word_underscore_12: hurt_rifle_bid_blind_long_pulp_slight_blue_town_renew_sword_achieve
+bip_39_word_underscore_2: hurt_rifle
+bip_39_word_underscore_3: hurt_rifle_bid
+bip_39_word_underscore_4: hurt_rifle_bid_blind
+bip_39_word_underscore_5: hurt_rifle_bid_blind_long
+bip_39_word_underscore_6: hurt_rifle_bid_blind_long_pulp
+bip_39_word_underscore_7: hurt_rifle_bid_blind_long_pulp_slight
+bip_39_word_underscore_8: hurt_rifle_bid_blind_long_pulp_slight_blue
+bip_39_word_underscore_9: hurt_rifle_bid_blind_long_pulp_slight_blue_town
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toe |  
+| bip_39_word_dash_10 | toe-emerge-verify-present-accident-flee-actor-arrest-oblige-spoil |  
+| bip_39_word_dash_11 | toe-emerge-verify-present-accident-flee-actor-arrest-oblige-spoil-weapon |  
+| bip_39_word_dash_12 | toe-emerge-verify-present-accident-flee-actor-arrest-oblige-spoil-weapon-ahead |  
+| bip_39_word_dash_2 | toe-emerge |  
+| bip_39_word_dash_3 | toe-emerge-verify |  
+| bip_39_word_dash_4 | toe-emerge-verify-present |  
+| bip_39_word_dash_5 | toe-emerge-verify-present-accident |  
+| bip_39_word_dash_6 | toe-emerge-verify-present-accident-flee |  
+| bip_39_word_dash_7 | toe-emerge-verify-present-accident-flee-actor |  
+| bip_39_word_dash_8 | toe-emerge-verify-present-accident-flee-actor-arrest |  
+| bip_39_word_dash_9 | toe-emerge-verify-present-accident-flee-actor-arrest-oblige |  
 | bip_39_word_new_br_1 | toe |  
 | bip_39_word_new_br_10 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil |  
 | bip_39_word_new_br_11 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil<br>weapon |  
@@ -147,6 +159,18 @@ oblige |
 | bip_39_word_space_7 | toe emerge verify present accident flee actor |  
 | bip_39_word_space_8 | toe emerge verify present accident flee actor arrest |  
 | bip_39_word_space_9 | toe emerge verify present accident flee actor arrest oblige |  
+| bip_39_word_underscore_1 | toe |  
+| bip_39_word_underscore_10 | toe_emerge_verify_present_accident_flee_actor_arrest_oblige_spoil |  
+| bip_39_word_underscore_11 | toe_emerge_verify_present_accident_flee_actor_arrest_oblige_spoil_weapon |  
+| bip_39_word_underscore_12 | toe_emerge_verify_present_accident_flee_actor_arrest_oblige_spoil_weapon_ahead |  
+| bip_39_word_underscore_2 | toe_emerge |  
+| bip_39_word_underscore_3 | toe_emerge_verify |  
+| bip_39_word_underscore_4 | toe_emerge_verify_present |  
+| bip_39_word_underscore_5 | toe_emerge_verify_present_accident |  
+| bip_39_word_underscore_6 | toe_emerge_verify_present_accident_flee |  
+| bip_39_word_underscore_7 | toe_emerge_verify_present_accident_flee_actor |  
+| bip_39_word_underscore_8 | toe_emerge_verify_present_accident_flee_actor_arrest |  
+| bip_39_word_underscore_9 | toe_emerge_verify_present_accident_flee_actor_arrest_oblige |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

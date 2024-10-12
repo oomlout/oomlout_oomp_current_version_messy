@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gaze
+bip_39_word_dash_10: gaze-rate-cry-apology-culture-symbol-treat-amateur-buyer-pulp
+bip_39_word_dash_11: gaze-rate-cry-apology-culture-symbol-treat-amateur-buyer-pulp-clever
+bip_39_word_dash_12: gaze-rate-cry-apology-culture-symbol-treat-amateur-buyer-pulp-clever-another
+bip_39_word_dash_2: gaze-rate
+bip_39_word_dash_3: gaze-rate-cry
+bip_39_word_dash_4: gaze-rate-cry-apology
+bip_39_word_dash_5: gaze-rate-cry-apology-culture
+bip_39_word_dash_6: gaze-rate-cry-apology-culture-symbol
+bip_39_word_dash_7: gaze-rate-cry-apology-culture-symbol-treat
+bip_39_word_dash_8: gaze-rate-cry-apology-culture-symbol-treat-amateur
+bip_39_word_dash_9: gaze-rate-cry-apology-culture-symbol-treat-amateur-buyer
 bip_39_word_new_br_1: gaze
 bip_39_word_new_br_10: gaze<br>rate<br>cry<br>apology<br>culture<br>symbol<br>treat<br>amateur<br>buyer<br>pulp
 bip_39_word_new_br_11: gaze<br>rate<br>cry<br>apology<br>culture<br>symbol<br>treat<br>amateur<br>buyer<br>pulp<br>clever
@@ -193,6 +205,18 @@ bip_39_word_space_6: gaze rate cry apology culture symbol
 bip_39_word_space_7: gaze rate cry apology culture symbol treat
 bip_39_word_space_8: gaze rate cry apology culture symbol treat amateur
 bip_39_word_space_9: gaze rate cry apology culture symbol treat amateur buyer
+bip_39_word_underscore_1: gaze
+bip_39_word_underscore_10: gaze_rate_cry_apology_culture_symbol_treat_amateur_buyer_pulp
+bip_39_word_underscore_11: gaze_rate_cry_apology_culture_symbol_treat_amateur_buyer_pulp_clever
+bip_39_word_underscore_12: gaze_rate_cry_apology_culture_symbol_treat_amateur_buyer_pulp_clever_another
+bip_39_word_underscore_2: gaze_rate
+bip_39_word_underscore_3: gaze_rate_cry
+bip_39_word_underscore_4: gaze_rate_cry_apology
+bip_39_word_underscore_5: gaze_rate_cry_apology_culture
+bip_39_word_underscore_6: gaze_rate_cry_apology_culture_symbol
+bip_39_word_underscore_7: gaze_rate_cry_apology_culture_symbol_treat
+bip_39_word_underscore_8: gaze_rate_cry_apology_culture_symbol_treat_amateur
+bip_39_word_underscore_9: gaze_rate_cry_apology_culture_symbol_treat_amateur_buyer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

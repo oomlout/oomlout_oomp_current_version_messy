@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | biology |  
+| bip_39_word_dash_10 | biology-prison-junior-together-lemon-property-want-kick-edge-bundle |  
+| bip_39_word_dash_11 | biology-prison-junior-together-lemon-property-want-kick-edge-bundle-correct |  
+| bip_39_word_dash_12 | biology-prison-junior-together-lemon-property-want-kick-edge-bundle-correct-above |  
+| bip_39_word_dash_2 | biology-prison |  
+| bip_39_word_dash_3 | biology-prison-junior |  
+| bip_39_word_dash_4 | biology-prison-junior-together |  
+| bip_39_word_dash_5 | biology-prison-junior-together-lemon |  
+| bip_39_word_dash_6 | biology-prison-junior-together-lemon-property |  
+| bip_39_word_dash_7 | biology-prison-junior-together-lemon-property-want |  
+| bip_39_word_dash_8 | biology-prison-junior-together-lemon-property-want-kick |  
+| bip_39_word_dash_9 | biology-prison-junior-together-lemon-property-want-kick-edge |  
 | bip_39_word_new_br_1 | biology |  
 | bip_39_word_new_br_10 | biology<br>prison<br>junior<br>together<br>lemon<br>property<br>want<br>kick<br>edge<br>bundle |  
 | bip_39_word_new_br_11 | biology<br>prison<br>junior<br>together<br>lemon<br>property<br>want<br>kick<br>edge<br>bundle<br>correct |  
@@ -147,6 +159,18 @@ edge |
 | bip_39_word_space_7 | biology prison junior together lemon property want |  
 | bip_39_word_space_8 | biology prison junior together lemon property want kick |  
 | bip_39_word_space_9 | biology prison junior together lemon property want kick edge |  
+| bip_39_word_underscore_1 | biology |  
+| bip_39_word_underscore_10 | biology_prison_junior_together_lemon_property_want_kick_edge_bundle |  
+| bip_39_word_underscore_11 | biology_prison_junior_together_lemon_property_want_kick_edge_bundle_correct |  
+| bip_39_word_underscore_12 | biology_prison_junior_together_lemon_property_want_kick_edge_bundle_correct_above |  
+| bip_39_word_underscore_2 | biology_prison |  
+| bip_39_word_underscore_3 | biology_prison_junior |  
+| bip_39_word_underscore_4 | biology_prison_junior_together |  
+| bip_39_word_underscore_5 | biology_prison_junior_together_lemon |  
+| bip_39_word_underscore_6 | biology_prison_junior_together_lemon_property |  
+| bip_39_word_underscore_7 | biology_prison_junior_together_lemon_property_want |  
+| bip_39_word_underscore_8 | biology_prison_junior_together_lemon_property_want_kick |  
+| bip_39_word_underscore_9 | biology_prison_junior_together_lemon_property_want_kick_edge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

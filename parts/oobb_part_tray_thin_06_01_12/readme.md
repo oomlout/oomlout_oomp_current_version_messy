@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | casual |  
+| bip_39_word_dash_10 | casual-vapor-velvet-access-umbrella-bench-around-undo-horn-wrist |  
+| bip_39_word_dash_11 | casual-vapor-velvet-access-umbrella-bench-around-undo-horn-wrist-bring |  
+| bip_39_word_dash_12 | casual-vapor-velvet-access-umbrella-bench-around-undo-horn-wrist-bring-any |  
+| bip_39_word_dash_2 | casual-vapor |  
+| bip_39_word_dash_3 | casual-vapor-velvet |  
+| bip_39_word_dash_4 | casual-vapor-velvet-access |  
+| bip_39_word_dash_5 | casual-vapor-velvet-access-umbrella |  
+| bip_39_word_dash_6 | casual-vapor-velvet-access-umbrella-bench |  
+| bip_39_word_dash_7 | casual-vapor-velvet-access-umbrella-bench-around |  
+| bip_39_word_dash_8 | casual-vapor-velvet-access-umbrella-bench-around-undo |  
+| bip_39_word_dash_9 | casual-vapor-velvet-access-umbrella-bench-around-undo-horn |  
 | bip_39_word_new_br_1 | casual |  
 | bip_39_word_new_br_10 | casual<br>vapor<br>velvet<br>access<br>umbrella<br>bench<br>around<br>undo<br>horn<br>wrist |  
 | bip_39_word_new_br_11 | casual<br>vapor<br>velvet<br>access<br>umbrella<br>bench<br>around<br>undo<br>horn<br>wrist<br>bring |  
@@ -147,6 +159,18 @@ horn |
 | bip_39_word_space_7 | casual vapor velvet access umbrella bench around |  
 | bip_39_word_space_8 | casual vapor velvet access umbrella bench around undo |  
 | bip_39_word_space_9 | casual vapor velvet access umbrella bench around undo horn |  
+| bip_39_word_underscore_1 | casual |  
+| bip_39_word_underscore_10 | casual_vapor_velvet_access_umbrella_bench_around_undo_horn_wrist |  
+| bip_39_word_underscore_11 | casual_vapor_velvet_access_umbrella_bench_around_undo_horn_wrist_bring |  
+| bip_39_word_underscore_12 | casual_vapor_velvet_access_umbrella_bench_around_undo_horn_wrist_bring_any |  
+| bip_39_word_underscore_2 | casual_vapor |  
+| bip_39_word_underscore_3 | casual_vapor_velvet |  
+| bip_39_word_underscore_4 | casual_vapor_velvet_access |  
+| bip_39_word_underscore_5 | casual_vapor_velvet_access_umbrella |  
+| bip_39_word_underscore_6 | casual_vapor_velvet_access_umbrella_bench |  
+| bip_39_word_underscore_7 | casual_vapor_velvet_access_umbrella_bench_around |  
+| bip_39_word_underscore_8 | casual_vapor_velvet_access_umbrella_bench_around_undo |  
+| bip_39_word_underscore_9 | casual_vapor_velvet_access_umbrella_bench_around_undo_horn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

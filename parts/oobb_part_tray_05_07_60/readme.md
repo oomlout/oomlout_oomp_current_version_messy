@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | truth |  
+| bip_39_word_dash_10 | truth-educate-destroy-enhance-crucial-swear-thunder-vibrant-gasp-tool |  
+| bip_39_word_dash_11 | truth-educate-destroy-enhance-crucial-swear-thunder-vibrant-gasp-tool-trap |  
+| bip_39_word_dash_12 | truth-educate-destroy-enhance-crucial-swear-thunder-vibrant-gasp-tool-trap-attitude |  
+| bip_39_word_dash_2 | truth-educate |  
+| bip_39_word_dash_3 | truth-educate-destroy |  
+| bip_39_word_dash_4 | truth-educate-destroy-enhance |  
+| bip_39_word_dash_5 | truth-educate-destroy-enhance-crucial |  
+| bip_39_word_dash_6 | truth-educate-destroy-enhance-crucial-swear |  
+| bip_39_word_dash_7 | truth-educate-destroy-enhance-crucial-swear-thunder |  
+| bip_39_word_dash_8 | truth-educate-destroy-enhance-crucial-swear-thunder-vibrant |  
+| bip_39_word_dash_9 | truth-educate-destroy-enhance-crucial-swear-thunder-vibrant-gasp |  
 | bip_39_word_new_br_1 | truth |  
 | bip_39_word_new_br_10 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool |  
 | bip_39_word_new_br_11 | truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool<br>trap |  
@@ -147,6 +159,18 @@ gasp |
 | bip_39_word_space_7 | truth educate destroy enhance crucial swear thunder |  
 | bip_39_word_space_8 | truth educate destroy enhance crucial swear thunder vibrant |  
 | bip_39_word_space_9 | truth educate destroy enhance crucial swear thunder vibrant gasp |  
+| bip_39_word_underscore_1 | truth |  
+| bip_39_word_underscore_10 | truth_educate_destroy_enhance_crucial_swear_thunder_vibrant_gasp_tool |  
+| bip_39_word_underscore_11 | truth_educate_destroy_enhance_crucial_swear_thunder_vibrant_gasp_tool_trap |  
+| bip_39_word_underscore_12 | truth_educate_destroy_enhance_crucial_swear_thunder_vibrant_gasp_tool_trap_attitude |  
+| bip_39_word_underscore_2 | truth_educate |  
+| bip_39_word_underscore_3 | truth_educate_destroy |  
+| bip_39_word_underscore_4 | truth_educate_destroy_enhance |  
+| bip_39_word_underscore_5 | truth_educate_destroy_enhance_crucial |  
+| bip_39_word_underscore_6 | truth_educate_destroy_enhance_crucial_swear |  
+| bip_39_word_underscore_7 | truth_educate_destroy_enhance_crucial_swear_thunder |  
+| bip_39_word_underscore_8 | truth_educate_destroy_enhance_crucial_swear_thunder_vibrant |  
+| bip_39_word_underscore_9 | truth_educate_destroy_enhance_crucial_swear_thunder_vibrant_gasp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

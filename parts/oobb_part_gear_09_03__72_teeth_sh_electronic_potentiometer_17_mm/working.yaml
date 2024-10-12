@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dynamic
+bip_39_word_dash_10: dynamic-dilemma-deposit-mimic-door-cake-travel-foster-into-boost
+bip_39_word_dash_11: dynamic-dilemma-deposit-mimic-door-cake-travel-foster-into-boost-genuine
+bip_39_word_dash_12: dynamic-dilemma-deposit-mimic-door-cake-travel-foster-into-boost-genuine-apple
+bip_39_word_dash_2: dynamic-dilemma
+bip_39_word_dash_3: dynamic-dilemma-deposit
+bip_39_word_dash_4: dynamic-dilemma-deposit-mimic
+bip_39_word_dash_5: dynamic-dilemma-deposit-mimic-door
+bip_39_word_dash_6: dynamic-dilemma-deposit-mimic-door-cake
+bip_39_word_dash_7: dynamic-dilemma-deposit-mimic-door-cake-travel
+bip_39_word_dash_8: dynamic-dilemma-deposit-mimic-door-cake-travel-foster
+bip_39_word_dash_9: dynamic-dilemma-deposit-mimic-door-cake-travel-foster-into
 bip_39_word_new_br_1: dynamic
 bip_39_word_new_br_10: dynamic<br>dilemma<br>deposit<br>mimic<br>door<br>cake<br>travel<br>foster<br>into<br>boost
 bip_39_word_new_br_11: dynamic<br>dilemma<br>deposit<br>mimic<br>door<br>cake<br>travel<br>foster<br>into<br>boost<br>genuine
@@ -193,6 +205,18 @@ bip_39_word_space_6: dynamic dilemma deposit mimic door cake
 bip_39_word_space_7: dynamic dilemma deposit mimic door cake travel
 bip_39_word_space_8: dynamic dilemma deposit mimic door cake travel foster
 bip_39_word_space_9: dynamic dilemma deposit mimic door cake travel foster into
+bip_39_word_underscore_1: dynamic
+bip_39_word_underscore_10: dynamic_dilemma_deposit_mimic_door_cake_travel_foster_into_boost
+bip_39_word_underscore_11: dynamic_dilemma_deposit_mimic_door_cake_travel_foster_into_boost_genuine
+bip_39_word_underscore_12: dynamic_dilemma_deposit_mimic_door_cake_travel_foster_into_boost_genuine_apple
+bip_39_word_underscore_2: dynamic_dilemma
+bip_39_word_underscore_3: dynamic_dilemma_deposit
+bip_39_word_underscore_4: dynamic_dilemma_deposit_mimic
+bip_39_word_underscore_5: dynamic_dilemma_deposit_mimic_door
+bip_39_word_underscore_6: dynamic_dilemma_deposit_mimic_door_cake
+bip_39_word_underscore_7: dynamic_dilemma_deposit_mimic_door_cake_travel
+bip_39_word_underscore_8: dynamic_dilemma_deposit_mimic_door_cake_travel_foster
+bip_39_word_underscore_9: dynamic_dilemma_deposit_mimic_door_cake_travel_foster_into
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

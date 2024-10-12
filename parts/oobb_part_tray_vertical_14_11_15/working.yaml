@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crane
+bip_39_word_dash_10: crane-quote-orient-pattern-divide-winter-wasp-kick-salad-horse
+bip_39_word_dash_11: crane-quote-orient-pattern-divide-winter-wasp-kick-salad-horse-glue
+bip_39_word_dash_12: crane-quote-orient-pattern-divide-winter-wasp-kick-salad-horse-glue-armed
+bip_39_word_dash_2: crane-quote
+bip_39_word_dash_3: crane-quote-orient
+bip_39_word_dash_4: crane-quote-orient-pattern
+bip_39_word_dash_5: crane-quote-orient-pattern-divide
+bip_39_word_dash_6: crane-quote-orient-pattern-divide-winter
+bip_39_word_dash_7: crane-quote-orient-pattern-divide-winter-wasp
+bip_39_word_dash_8: crane-quote-orient-pattern-divide-winter-wasp-kick
+bip_39_word_dash_9: crane-quote-orient-pattern-divide-winter-wasp-kick-salad
 bip_39_word_new_br_1: crane
 bip_39_word_new_br_10: crane<br>quote<br>orient<br>pattern<br>divide<br>winter<br>wasp<br>kick<br>salad<br>horse
 bip_39_word_new_br_11: crane<br>quote<br>orient<br>pattern<br>divide<br>winter<br>wasp<br>kick<br>salad<br>horse<br>glue
@@ -193,6 +205,18 @@ bip_39_word_space_6: crane quote orient pattern divide winter
 bip_39_word_space_7: crane quote orient pattern divide winter wasp
 bip_39_word_space_8: crane quote orient pattern divide winter wasp kick
 bip_39_word_space_9: crane quote orient pattern divide winter wasp kick salad
+bip_39_word_underscore_1: crane
+bip_39_word_underscore_10: crane_quote_orient_pattern_divide_winter_wasp_kick_salad_horse
+bip_39_word_underscore_11: crane_quote_orient_pattern_divide_winter_wasp_kick_salad_horse_glue
+bip_39_word_underscore_12: crane_quote_orient_pattern_divide_winter_wasp_kick_salad_horse_glue_armed
+bip_39_word_underscore_2: crane_quote
+bip_39_word_underscore_3: crane_quote_orient
+bip_39_word_underscore_4: crane_quote_orient_pattern
+bip_39_word_underscore_5: crane_quote_orient_pattern_divide
+bip_39_word_underscore_6: crane_quote_orient_pattern_divide_winter
+bip_39_word_underscore_7: crane_quote_orient_pattern_divide_winter_wasp
+bip_39_word_underscore_8: crane_quote_orient_pattern_divide_winter_wasp_kick
+bip_39_word_underscore_9: crane_quote_orient_pattern_divide_winter_wasp_kick_salad
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

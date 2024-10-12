@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ignore
+bip_39_word_dash_10: ignore-slogan-soup-cattle-damage-flip-clog-jacket-divorce-gorilla
+bip_39_word_dash_11: ignore-slogan-soup-cattle-damage-flip-clog-jacket-divorce-gorilla-inject
+bip_39_word_dash_12: ignore-slogan-soup-cattle-damage-flip-clog-jacket-divorce-gorilla-inject-angry
+bip_39_word_dash_2: ignore-slogan
+bip_39_word_dash_3: ignore-slogan-soup
+bip_39_word_dash_4: ignore-slogan-soup-cattle
+bip_39_word_dash_5: ignore-slogan-soup-cattle-damage
+bip_39_word_dash_6: ignore-slogan-soup-cattle-damage-flip
+bip_39_word_dash_7: ignore-slogan-soup-cattle-damage-flip-clog
+bip_39_word_dash_8: ignore-slogan-soup-cattle-damage-flip-clog-jacket
+bip_39_word_dash_9: ignore-slogan-soup-cattle-damage-flip-clog-jacket-divorce
 bip_39_word_new_br_1: ignore
 bip_39_word_new_br_10: ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla
 bip_39_word_new_br_11: ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla<br>inject
@@ -193,6 +205,18 @@ bip_39_word_space_6: ignore slogan soup cattle damage flip
 bip_39_word_space_7: ignore slogan soup cattle damage flip clog
 bip_39_word_space_8: ignore slogan soup cattle damage flip clog jacket
 bip_39_word_space_9: ignore slogan soup cattle damage flip clog jacket divorce
+bip_39_word_underscore_1: ignore
+bip_39_word_underscore_10: ignore_slogan_soup_cattle_damage_flip_clog_jacket_divorce_gorilla
+bip_39_word_underscore_11: ignore_slogan_soup_cattle_damage_flip_clog_jacket_divorce_gorilla_inject
+bip_39_word_underscore_12: ignore_slogan_soup_cattle_damage_flip_clog_jacket_divorce_gorilla_inject_angry
+bip_39_word_underscore_2: ignore_slogan
+bip_39_word_underscore_3: ignore_slogan_soup
+bip_39_word_underscore_4: ignore_slogan_soup_cattle
+bip_39_word_underscore_5: ignore_slogan_soup_cattle_damage
+bip_39_word_underscore_6: ignore_slogan_soup_cattle_damage_flip
+bip_39_word_underscore_7: ignore_slogan_soup_cattle_damage_flip_clog
+bip_39_word_underscore_8: ignore_slogan_soup_cattle_damage_flip_clog_jacket
+bip_39_word_underscore_9: ignore_slogan_soup_cattle_damage_flip_clog_jacket_divorce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

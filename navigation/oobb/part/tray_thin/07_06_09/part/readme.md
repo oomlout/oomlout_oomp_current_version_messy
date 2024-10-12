@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | doll |  
+| bip_39_word_dash_10 | doll-rifle-fence-piece-sausage-prefer-smart-load-office-track |  
+| bip_39_word_dash_11 | doll-rifle-fence-piece-sausage-prefer-smart-load-office-track-mouse |  
+| bip_39_word_dash_12 | doll-rifle-fence-piece-sausage-prefer-smart-load-office-track-mouse-actress |  
+| bip_39_word_dash_2 | doll-rifle |  
+| bip_39_word_dash_3 | doll-rifle-fence |  
+| bip_39_word_dash_4 | doll-rifle-fence-piece |  
+| bip_39_word_dash_5 | doll-rifle-fence-piece-sausage |  
+| bip_39_word_dash_6 | doll-rifle-fence-piece-sausage-prefer |  
+| bip_39_word_dash_7 | doll-rifle-fence-piece-sausage-prefer-smart |  
+| bip_39_word_dash_8 | doll-rifle-fence-piece-sausage-prefer-smart-load |  
+| bip_39_word_dash_9 | doll-rifle-fence-piece-sausage-prefer-smart-load-office |  
 | bip_39_word_new_br_1 | doll |  
 | bip_39_word_new_br_10 | doll<br>rifle<br>fence<br>piece<br>sausage<br>prefer<br>smart<br>load<br>office<br>track |  
 | bip_39_word_new_br_11 | doll<br>rifle<br>fence<br>piece<br>sausage<br>prefer<br>smart<br>load<br>office<br>track<br>mouse |  
@@ -147,6 +159,18 @@ office |
 | bip_39_word_space_7 | doll rifle fence piece sausage prefer smart |  
 | bip_39_word_space_8 | doll rifle fence piece sausage prefer smart load |  
 | bip_39_word_space_9 | doll rifle fence piece sausage prefer smart load office |  
+| bip_39_word_underscore_1 | doll |  
+| bip_39_word_underscore_10 | doll_rifle_fence_piece_sausage_prefer_smart_load_office_track |  
+| bip_39_word_underscore_11 | doll_rifle_fence_piece_sausage_prefer_smart_load_office_track_mouse |  
+| bip_39_word_underscore_12 | doll_rifle_fence_piece_sausage_prefer_smart_load_office_track_mouse_actress |  
+| bip_39_word_underscore_2 | doll_rifle |  
+| bip_39_word_underscore_3 | doll_rifle_fence |  
+| bip_39_word_underscore_4 | doll_rifle_fence_piece |  
+| bip_39_word_underscore_5 | doll_rifle_fence_piece_sausage |  
+| bip_39_word_underscore_6 | doll_rifle_fence_piece_sausage_prefer |  
+| bip_39_word_underscore_7 | doll_rifle_fence_piece_sausage_prefer_smart |  
+| bip_39_word_underscore_8 | doll_rifle_fence_piece_sausage_prefer_smart_load |  
+| bip_39_word_underscore_9 | doll_rifle_fence_piece_sausage_prefer_smart_load_office |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

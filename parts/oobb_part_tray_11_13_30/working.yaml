@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hand
+bip_39_word_dash_10: hand-rug-bean-drum-shy-resource-monitor-system-enhance-sustain
+bip_39_word_dash_11: hand-rug-bean-drum-shy-resource-monitor-system-enhance-sustain-father
+bip_39_word_dash_12: hand-rug-bean-drum-shy-resource-monitor-system-enhance-sustain-father-addict
+bip_39_word_dash_2: hand-rug
+bip_39_word_dash_3: hand-rug-bean
+bip_39_word_dash_4: hand-rug-bean-drum
+bip_39_word_dash_5: hand-rug-bean-drum-shy
+bip_39_word_dash_6: hand-rug-bean-drum-shy-resource
+bip_39_word_dash_7: hand-rug-bean-drum-shy-resource-monitor
+bip_39_word_dash_8: hand-rug-bean-drum-shy-resource-monitor-system
+bip_39_word_dash_9: hand-rug-bean-drum-shy-resource-monitor-system-enhance
 bip_39_word_new_br_1: hand
 bip_39_word_new_br_10: hand<br>rug<br>bean<br>drum<br>shy<br>resource<br>monitor<br>system<br>enhance<br>sustain
 bip_39_word_new_br_11: hand<br>rug<br>bean<br>drum<br>shy<br>resource<br>monitor<br>system<br>enhance<br>sustain<br>father
@@ -193,6 +205,18 @@ bip_39_word_space_6: hand rug bean drum shy resource
 bip_39_word_space_7: hand rug bean drum shy resource monitor
 bip_39_word_space_8: hand rug bean drum shy resource monitor system
 bip_39_word_space_9: hand rug bean drum shy resource monitor system enhance
+bip_39_word_underscore_1: hand
+bip_39_word_underscore_10: hand_rug_bean_drum_shy_resource_monitor_system_enhance_sustain
+bip_39_word_underscore_11: hand_rug_bean_drum_shy_resource_monitor_system_enhance_sustain_father
+bip_39_word_underscore_12: hand_rug_bean_drum_shy_resource_monitor_system_enhance_sustain_father_addict
+bip_39_word_underscore_2: hand_rug
+bip_39_word_underscore_3: hand_rug_bean
+bip_39_word_underscore_4: hand_rug_bean_drum
+bip_39_word_underscore_5: hand_rug_bean_drum_shy
+bip_39_word_underscore_6: hand_rug_bean_drum_shy_resource
+bip_39_word_underscore_7: hand_rug_bean_drum_shy_resource_monitor
+bip_39_word_underscore_8: hand_rug_bean_drum_shy_resource_monitor_system
+bip_39_word_underscore_9: hand_rug_bean_drum_shy_resource_monitor_system_enhance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

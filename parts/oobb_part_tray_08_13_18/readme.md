@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alley |  
+| bip_39_word_dash_10 | alley-shoulder-old-genuine-casino-together-popular-job-illness-coral |  
+| bip_39_word_dash_11 | alley-shoulder-old-genuine-casino-together-popular-job-illness-coral-awesome |  
+| bip_39_word_dash_12 | alley-shoulder-old-genuine-casino-together-popular-job-illness-coral-awesome-allow |  
+| bip_39_word_dash_2 | alley-shoulder |  
+| bip_39_word_dash_3 | alley-shoulder-old |  
+| bip_39_word_dash_4 | alley-shoulder-old-genuine |  
+| bip_39_word_dash_5 | alley-shoulder-old-genuine-casino |  
+| bip_39_word_dash_6 | alley-shoulder-old-genuine-casino-together |  
+| bip_39_word_dash_7 | alley-shoulder-old-genuine-casino-together-popular |  
+| bip_39_word_dash_8 | alley-shoulder-old-genuine-casino-together-popular-job |  
+| bip_39_word_dash_9 | alley-shoulder-old-genuine-casino-together-popular-job-illness |  
 | bip_39_word_new_br_1 | alley |  
 | bip_39_word_new_br_10 | alley<br>shoulder<br>old<br>genuine<br>casino<br>together<br>popular<br>job<br>illness<br>coral |  
 | bip_39_word_new_br_11 | alley<br>shoulder<br>old<br>genuine<br>casino<br>together<br>popular<br>job<br>illness<br>coral<br>awesome |  
@@ -147,6 +159,18 @@ illness |
 | bip_39_word_space_7 | alley shoulder old genuine casino together popular |  
 | bip_39_word_space_8 | alley shoulder old genuine casino together popular job |  
 | bip_39_word_space_9 | alley shoulder old genuine casino together popular job illness |  
+| bip_39_word_underscore_1 | alley |  
+| bip_39_word_underscore_10 | alley_shoulder_old_genuine_casino_together_popular_job_illness_coral |  
+| bip_39_word_underscore_11 | alley_shoulder_old_genuine_casino_together_popular_job_illness_coral_awesome |  
+| bip_39_word_underscore_12 | alley_shoulder_old_genuine_casino_together_popular_job_illness_coral_awesome_allow |  
+| bip_39_word_underscore_2 | alley_shoulder |  
+| bip_39_word_underscore_3 | alley_shoulder_old |  
+| bip_39_word_underscore_4 | alley_shoulder_old_genuine |  
+| bip_39_word_underscore_5 | alley_shoulder_old_genuine_casino |  
+| bip_39_word_underscore_6 | alley_shoulder_old_genuine_casino_together |  
+| bip_39_word_underscore_7 | alley_shoulder_old_genuine_casino_together_popular |  
+| bip_39_word_underscore_8 | alley_shoulder_old_genuine_casino_together_popular_job |  
+| bip_39_word_underscore_9 | alley_shoulder_old_genuine_casino_together_popular_job_illness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

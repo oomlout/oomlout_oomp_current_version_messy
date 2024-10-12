@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | great |  
+| bip_39_word_dash_10 | great-then-base-vessel-aware-brisk-fat-pass-despair-stick |  
+| bip_39_word_dash_11 | great-then-base-vessel-aware-brisk-fat-pass-despair-stick-apology |  
+| bip_39_word_dash_12 | great-then-base-vessel-aware-brisk-fat-pass-despair-stick-apology-able |  
+| bip_39_word_dash_2 | great-then |  
+| bip_39_word_dash_3 | great-then-base |  
+| bip_39_word_dash_4 | great-then-base-vessel |  
+| bip_39_word_dash_5 | great-then-base-vessel-aware |  
+| bip_39_word_dash_6 | great-then-base-vessel-aware-brisk |  
+| bip_39_word_dash_7 | great-then-base-vessel-aware-brisk-fat |  
+| bip_39_word_dash_8 | great-then-base-vessel-aware-brisk-fat-pass |  
+| bip_39_word_dash_9 | great-then-base-vessel-aware-brisk-fat-pass-despair |  
 | bip_39_word_new_br_1 | great |  
 | bip_39_word_new_br_10 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick |  
 | bip_39_word_new_br_11 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick<br>apology |  
@@ -147,6 +159,18 @@ despair |
 | bip_39_word_space_7 | great then base vessel aware brisk fat |  
 | bip_39_word_space_8 | great then base vessel aware brisk fat pass |  
 | bip_39_word_space_9 | great then base vessel aware brisk fat pass despair |  
+| bip_39_word_underscore_1 | great |  
+| bip_39_word_underscore_10 | great_then_base_vessel_aware_brisk_fat_pass_despair_stick |  
+| bip_39_word_underscore_11 | great_then_base_vessel_aware_brisk_fat_pass_despair_stick_apology |  
+| bip_39_word_underscore_12 | great_then_base_vessel_aware_brisk_fat_pass_despair_stick_apology_able |  
+| bip_39_word_underscore_2 | great_then |  
+| bip_39_word_underscore_3 | great_then_base |  
+| bip_39_word_underscore_4 | great_then_base_vessel |  
+| bip_39_word_underscore_5 | great_then_base_vessel_aware |  
+| bip_39_word_underscore_6 | great_then_base_vessel_aware_brisk |  
+| bip_39_word_underscore_7 | great_then_base_vessel_aware_brisk_fat |  
+| bip_39_word_underscore_8 | great_then_base_vessel_aware_brisk_fat_pass |  
+| bip_39_word_underscore_9 | great_then_base_vessel_aware_brisk_fat_pass_despair |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

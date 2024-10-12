@@ -1,3 +1,15 @@
+bip_39_word_dash_1: patrol
+bip_39_word_dash_10: patrol-flash-upgrade-prepare-cool-boost-lake-figure-bright-random
+bip_39_word_dash_11: patrol-flash-upgrade-prepare-cool-boost-lake-figure-bright-random-jungle
+bip_39_word_dash_12: patrol-flash-upgrade-prepare-cool-boost-lake-figure-bright-random-jungle-air
+bip_39_word_dash_2: patrol-flash
+bip_39_word_dash_3: patrol-flash-upgrade
+bip_39_word_dash_4: patrol-flash-upgrade-prepare
+bip_39_word_dash_5: patrol-flash-upgrade-prepare-cool
+bip_39_word_dash_6: patrol-flash-upgrade-prepare-cool-boost
+bip_39_word_dash_7: patrol-flash-upgrade-prepare-cool-boost-lake
+bip_39_word_dash_8: patrol-flash-upgrade-prepare-cool-boost-lake-figure
+bip_39_word_dash_9: patrol-flash-upgrade-prepare-cool-boost-lake-figure-bright
 bip_39_word_new_br_1: patrol
 bip_39_word_new_br_10: patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure<br>bright<br>random
 bip_39_word_new_br_11: patrol<br>flash<br>upgrade<br>prepare<br>cool<br>boost<br>lake<br>figure<br>bright<br>random<br>jungle
@@ -193,6 +205,18 @@ bip_39_word_space_6: patrol flash upgrade prepare cool boost
 bip_39_word_space_7: patrol flash upgrade prepare cool boost lake
 bip_39_word_space_8: patrol flash upgrade prepare cool boost lake figure
 bip_39_word_space_9: patrol flash upgrade prepare cool boost lake figure bright
+bip_39_word_underscore_1: patrol
+bip_39_word_underscore_10: patrol_flash_upgrade_prepare_cool_boost_lake_figure_bright_random
+bip_39_word_underscore_11: patrol_flash_upgrade_prepare_cool_boost_lake_figure_bright_random_jungle
+bip_39_word_underscore_12: patrol_flash_upgrade_prepare_cool_boost_lake_figure_bright_random_jungle_air
+bip_39_word_underscore_2: patrol_flash
+bip_39_word_underscore_3: patrol_flash_upgrade
+bip_39_word_underscore_4: patrol_flash_upgrade_prepare
+bip_39_word_underscore_5: patrol_flash_upgrade_prepare_cool
+bip_39_word_underscore_6: patrol_flash_upgrade_prepare_cool_boost
+bip_39_word_underscore_7: patrol_flash_upgrade_prepare_cool_boost_lake
+bip_39_word_underscore_8: patrol_flash_upgrade_prepare_cool_boost_lake_figure
+bip_39_word_underscore_9: patrol_flash_upgrade_prepare_cool_boost_lake_figure_bright
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

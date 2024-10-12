@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pact |  
+| bip_39_word_dash_10 | pact-skirt-shell-kick-nuclear-stove-maple-harvest-weather-still |  
+| bip_39_word_dash_11 | pact-skirt-shell-kick-nuclear-stove-maple-harvest-weather-still-promote |  
+| bip_39_word_dash_12 | pact-skirt-shell-kick-nuclear-stove-maple-harvest-weather-still-promote-apart |  
+| bip_39_word_dash_2 | pact-skirt |  
+| bip_39_word_dash_3 | pact-skirt-shell |  
+| bip_39_word_dash_4 | pact-skirt-shell-kick |  
+| bip_39_word_dash_5 | pact-skirt-shell-kick-nuclear |  
+| bip_39_word_dash_6 | pact-skirt-shell-kick-nuclear-stove |  
+| bip_39_word_dash_7 | pact-skirt-shell-kick-nuclear-stove-maple |  
+| bip_39_word_dash_8 | pact-skirt-shell-kick-nuclear-stove-maple-harvest |  
+| bip_39_word_dash_9 | pact-skirt-shell-kick-nuclear-stove-maple-harvest-weather |  
 | bip_39_word_new_br_1 | pact |  
 | bip_39_word_new_br_10 | pact<br>skirt<br>shell<br>kick<br>nuclear<br>stove<br>maple<br>harvest<br>weather<br>still |  
 | bip_39_word_new_br_11 | pact<br>skirt<br>shell<br>kick<br>nuclear<br>stove<br>maple<br>harvest<br>weather<br>still<br>promote |  
@@ -147,6 +159,18 @@ weather |
 | bip_39_word_space_7 | pact skirt shell kick nuclear stove maple |  
 | bip_39_word_space_8 | pact skirt shell kick nuclear stove maple harvest |  
 | bip_39_word_space_9 | pact skirt shell kick nuclear stove maple harvest weather |  
+| bip_39_word_underscore_1 | pact |  
+| bip_39_word_underscore_10 | pact_skirt_shell_kick_nuclear_stove_maple_harvest_weather_still |  
+| bip_39_word_underscore_11 | pact_skirt_shell_kick_nuclear_stove_maple_harvest_weather_still_promote |  
+| bip_39_word_underscore_12 | pact_skirt_shell_kick_nuclear_stove_maple_harvest_weather_still_promote_apart |  
+| bip_39_word_underscore_2 | pact_skirt |  
+| bip_39_word_underscore_3 | pact_skirt_shell |  
+| bip_39_word_underscore_4 | pact_skirt_shell_kick |  
+| bip_39_word_underscore_5 | pact_skirt_shell_kick_nuclear |  
+| bip_39_word_underscore_6 | pact_skirt_shell_kick_nuclear_stove |  
+| bip_39_word_underscore_7 | pact_skirt_shell_kick_nuclear_stove_maple |  
+| bip_39_word_underscore_8 | pact_skirt_shell_kick_nuclear_stove_maple_harvest |  
+| bip_39_word_underscore_9 | pact_skirt_shell_kick_nuclear_stove_maple_harvest_weather |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

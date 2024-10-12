@@ -1,3 +1,15 @@
+bip_39_word_dash_1: obscure
+bip_39_word_dash_10: obscure-sweet-code-agent-liberty-genre-armed-spoon-mention-scatter
+bip_39_word_dash_11: obscure-sweet-code-agent-liberty-genre-armed-spoon-mention-scatter-dish
+bip_39_word_dash_12: obscure-sweet-code-agent-liberty-genre-armed-spoon-mention-scatter-dish-alarm
+bip_39_word_dash_2: obscure-sweet
+bip_39_word_dash_3: obscure-sweet-code
+bip_39_word_dash_4: obscure-sweet-code-agent
+bip_39_word_dash_5: obscure-sweet-code-agent-liberty
+bip_39_word_dash_6: obscure-sweet-code-agent-liberty-genre
+bip_39_word_dash_7: obscure-sweet-code-agent-liberty-genre-armed
+bip_39_word_dash_8: obscure-sweet-code-agent-liberty-genre-armed-spoon
+bip_39_word_dash_9: obscure-sweet-code-agent-liberty-genre-armed-spoon-mention
 bip_39_word_new_br_1: obscure
 bip_39_word_new_br_10: obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon<br>mention<br>scatter
 bip_39_word_new_br_11: obscure<br>sweet<br>code<br>agent<br>liberty<br>genre<br>armed<br>spoon<br>mention<br>scatter<br>dish
@@ -193,6 +205,18 @@ bip_39_word_space_6: obscure sweet code agent liberty genre
 bip_39_word_space_7: obscure sweet code agent liberty genre armed
 bip_39_word_space_8: obscure sweet code agent liberty genre armed spoon
 bip_39_word_space_9: obscure sweet code agent liberty genre armed spoon mention
+bip_39_word_underscore_1: obscure
+bip_39_word_underscore_10: obscure_sweet_code_agent_liberty_genre_armed_spoon_mention_scatter
+bip_39_word_underscore_11: obscure_sweet_code_agent_liberty_genre_armed_spoon_mention_scatter_dish
+bip_39_word_underscore_12: obscure_sweet_code_agent_liberty_genre_armed_spoon_mention_scatter_dish_alarm
+bip_39_word_underscore_2: obscure_sweet
+bip_39_word_underscore_3: obscure_sweet_code
+bip_39_word_underscore_4: obscure_sweet_code_agent
+bip_39_word_underscore_5: obscure_sweet_code_agent_liberty
+bip_39_word_underscore_6: obscure_sweet_code_agent_liberty_genre
+bip_39_word_underscore_7: obscure_sweet_code_agent_liberty_genre_armed
+bip_39_word_underscore_8: obscure_sweet_code_agent_liberty_genre_armed_spoon
+bip_39_word_underscore_9: obscure_sweet_code_agent_liberty_genre_armed_spoon_mention
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

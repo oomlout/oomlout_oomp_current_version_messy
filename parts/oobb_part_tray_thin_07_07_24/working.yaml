@@ -1,3 +1,15 @@
+bip_39_word_dash_1: excite
+bip_39_word_dash_10: excite-already-armor-ill-liquid-symbol-solution-exit-jelly-grass
+bip_39_word_dash_11: excite-already-armor-ill-liquid-symbol-solution-exit-jelly-grass-try
+bip_39_word_dash_12: excite-already-armor-ill-liquid-symbol-solution-exit-jelly-grass-try-analyst
+bip_39_word_dash_2: excite-already
+bip_39_word_dash_3: excite-already-armor
+bip_39_word_dash_4: excite-already-armor-ill
+bip_39_word_dash_5: excite-already-armor-ill-liquid
+bip_39_word_dash_6: excite-already-armor-ill-liquid-symbol
+bip_39_word_dash_7: excite-already-armor-ill-liquid-symbol-solution
+bip_39_word_dash_8: excite-already-armor-ill-liquid-symbol-solution-exit
+bip_39_word_dash_9: excite-already-armor-ill-liquid-symbol-solution-exit-jelly
 bip_39_word_new_br_1: excite
 bip_39_word_new_br_10: excite<br>already<br>armor<br>ill<br>liquid<br>symbol<br>solution<br>exit<br>jelly<br>grass
 bip_39_word_new_br_11: excite<br>already<br>armor<br>ill<br>liquid<br>symbol<br>solution<br>exit<br>jelly<br>grass<br>try
@@ -193,6 +205,18 @@ bip_39_word_space_6: excite already armor ill liquid symbol
 bip_39_word_space_7: excite already armor ill liquid symbol solution
 bip_39_word_space_8: excite already armor ill liquid symbol solution exit
 bip_39_word_space_9: excite already armor ill liquid symbol solution exit jelly
+bip_39_word_underscore_1: excite
+bip_39_word_underscore_10: excite_already_armor_ill_liquid_symbol_solution_exit_jelly_grass
+bip_39_word_underscore_11: excite_already_armor_ill_liquid_symbol_solution_exit_jelly_grass_try
+bip_39_word_underscore_12: excite_already_armor_ill_liquid_symbol_solution_exit_jelly_grass_try_analyst
+bip_39_word_underscore_2: excite_already
+bip_39_word_underscore_3: excite_already_armor
+bip_39_word_underscore_4: excite_already_armor_ill
+bip_39_word_underscore_5: excite_already_armor_ill_liquid
+bip_39_word_underscore_6: excite_already_armor_ill_liquid_symbol
+bip_39_word_underscore_7: excite_already_armor_ill_liquid_symbol_solution
+bip_39_word_underscore_8: excite_already_armor_ill_liquid_symbol_solution_exit
+bip_39_word_underscore_9: excite_already_armor_ill_liquid_symbol_solution_exit_jelly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

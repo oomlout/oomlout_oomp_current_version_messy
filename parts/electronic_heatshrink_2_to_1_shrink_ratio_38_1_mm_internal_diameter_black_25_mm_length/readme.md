@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burden |  
+| bip_39_word_dash_10 | burden-humble-mistake-symptom-ugly-tree-hire-more-unfair-pigeon |  
+| bip_39_word_dash_11 | burden-humble-mistake-symptom-ugly-tree-hire-more-unfair-pigeon-dismiss |  
+| bip_39_word_dash_12 | burden-humble-mistake-symptom-ugly-tree-hire-more-unfair-pigeon-dismiss-ask |  
+| bip_39_word_dash_2 | burden-humble |  
+| bip_39_word_dash_3 | burden-humble-mistake |  
+| bip_39_word_dash_4 | burden-humble-mistake-symptom |  
+| bip_39_word_dash_5 | burden-humble-mistake-symptom-ugly |  
+| bip_39_word_dash_6 | burden-humble-mistake-symptom-ugly-tree |  
+| bip_39_word_dash_7 | burden-humble-mistake-symptom-ugly-tree-hire |  
+| bip_39_word_dash_8 | burden-humble-mistake-symptom-ugly-tree-hire-more |  
+| bip_39_word_dash_9 | burden-humble-mistake-symptom-ugly-tree-hire-more-unfair |  
 | bip_39_word_new_br_1 | burden |  
 | bip_39_word_new_br_10 | burden<br>humble<br>mistake<br>symptom<br>ugly<br>tree<br>hire<br>more<br>unfair<br>pigeon |  
 | bip_39_word_new_br_11 | burden<br>humble<br>mistake<br>symptom<br>ugly<br>tree<br>hire<br>more<br>unfair<br>pigeon<br>dismiss |  
@@ -147,6 +159,18 @@ unfair |
 | bip_39_word_space_7 | burden humble mistake symptom ugly tree hire |  
 | bip_39_word_space_8 | burden humble mistake symptom ugly tree hire more |  
 | bip_39_word_space_9 | burden humble mistake symptom ugly tree hire more unfair |  
+| bip_39_word_underscore_1 | burden |  
+| bip_39_word_underscore_10 | burden_humble_mistake_symptom_ugly_tree_hire_more_unfair_pigeon |  
+| bip_39_word_underscore_11 | burden_humble_mistake_symptom_ugly_tree_hire_more_unfair_pigeon_dismiss |  
+| bip_39_word_underscore_12 | burden_humble_mistake_symptom_ugly_tree_hire_more_unfair_pigeon_dismiss_ask |  
+| bip_39_word_underscore_2 | burden_humble |  
+| bip_39_word_underscore_3 | burden_humble_mistake |  
+| bip_39_word_underscore_4 | burden_humble_mistake_symptom |  
+| bip_39_word_underscore_5 | burden_humble_mistake_symptom_ugly |  
+| bip_39_word_underscore_6 | burden_humble_mistake_symptom_ugly_tree |  
+| bip_39_word_underscore_7 | burden_humble_mistake_symptom_ugly_tree_hire |  
+| bip_39_word_underscore_8 | burden_humble_mistake_symptom_ugly_tree_hire_more |  
+| bip_39_word_underscore_9 | burden_humble_mistake_symptom_ugly_tree_hire_more_unfair |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

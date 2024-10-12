@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fluid |  
+| bip_39_word_dash_10 | fluid-save-soup-weekend-agree-whale-whip-inch-security-lake |  
+| bip_39_word_dash_11 | fluid-save-soup-weekend-agree-whale-whip-inch-security-lake-prevent |  
+| bip_39_word_dash_12 | fluid-save-soup-weekend-agree-whale-whip-inch-security-lake-prevent-august |  
+| bip_39_word_dash_2 | fluid-save |  
+| bip_39_word_dash_3 | fluid-save-soup |  
+| bip_39_word_dash_4 | fluid-save-soup-weekend |  
+| bip_39_word_dash_5 | fluid-save-soup-weekend-agree |  
+| bip_39_word_dash_6 | fluid-save-soup-weekend-agree-whale |  
+| bip_39_word_dash_7 | fluid-save-soup-weekend-agree-whale-whip |  
+| bip_39_word_dash_8 | fluid-save-soup-weekend-agree-whale-whip-inch |  
+| bip_39_word_dash_9 | fluid-save-soup-weekend-agree-whale-whip-inch-security |  
 | bip_39_word_new_br_1 | fluid |  
 | bip_39_word_new_br_10 | fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch<br>security<br>lake |  
 | bip_39_word_new_br_11 | fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch<br>security<br>lake<br>prevent |  
@@ -147,6 +159,18 @@ security |
 | bip_39_word_space_7 | fluid save soup weekend agree whale whip |  
 | bip_39_word_space_8 | fluid save soup weekend agree whale whip inch |  
 | bip_39_word_space_9 | fluid save soup weekend agree whale whip inch security |  
+| bip_39_word_underscore_1 | fluid |  
+| bip_39_word_underscore_10 | fluid_save_soup_weekend_agree_whale_whip_inch_security_lake |  
+| bip_39_word_underscore_11 | fluid_save_soup_weekend_agree_whale_whip_inch_security_lake_prevent |  
+| bip_39_word_underscore_12 | fluid_save_soup_weekend_agree_whale_whip_inch_security_lake_prevent_august |  
+| bip_39_word_underscore_2 | fluid_save |  
+| bip_39_word_underscore_3 | fluid_save_soup |  
+| bip_39_word_underscore_4 | fluid_save_soup_weekend |  
+| bip_39_word_underscore_5 | fluid_save_soup_weekend_agree |  
+| bip_39_word_underscore_6 | fluid_save_soup_weekend_agree_whale |  
+| bip_39_word_underscore_7 | fluid_save_soup_weekend_agree_whale_whip |  
+| bip_39_word_underscore_8 | fluid_save_soup_weekend_agree_whale_whip_inch |  
+| bip_39_word_underscore_9 | fluid_save_soup_weekend_agree_whale_whip_inch_security |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

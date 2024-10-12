@@ -1,3 +1,15 @@
+bip_39_word_dash_1: glare
+bip_39_word_dash_10: glare-spray-basic-appear-online-method-meadow-autumn-habit-prize
+bip_39_word_dash_11: glare-spray-basic-appear-online-method-meadow-autumn-habit-prize-draw
+bip_39_word_dash_12: glare-spray-basic-appear-online-method-meadow-autumn-habit-prize-draw-attack
+bip_39_word_dash_2: glare-spray
+bip_39_word_dash_3: glare-spray-basic
+bip_39_word_dash_4: glare-spray-basic-appear
+bip_39_word_dash_5: glare-spray-basic-appear-online
+bip_39_word_dash_6: glare-spray-basic-appear-online-method
+bip_39_word_dash_7: glare-spray-basic-appear-online-method-meadow
+bip_39_word_dash_8: glare-spray-basic-appear-online-method-meadow-autumn
+bip_39_word_dash_9: glare-spray-basic-appear-online-method-meadow-autumn-habit
 bip_39_word_new_br_1: glare
 bip_39_word_new_br_10: glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize
 bip_39_word_new_br_11: glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize<br>draw
@@ -193,6 +205,18 @@ bip_39_word_space_6: glare spray basic appear online method
 bip_39_word_space_7: glare spray basic appear online method meadow
 bip_39_word_space_8: glare spray basic appear online method meadow autumn
 bip_39_word_space_9: glare spray basic appear online method meadow autumn habit
+bip_39_word_underscore_1: glare
+bip_39_word_underscore_10: glare_spray_basic_appear_online_method_meadow_autumn_habit_prize
+bip_39_word_underscore_11: glare_spray_basic_appear_online_method_meadow_autumn_habit_prize_draw
+bip_39_word_underscore_12: glare_spray_basic_appear_online_method_meadow_autumn_habit_prize_draw_attack
+bip_39_word_underscore_2: glare_spray
+bip_39_word_underscore_3: glare_spray_basic
+bip_39_word_underscore_4: glare_spray_basic_appear
+bip_39_word_underscore_5: glare_spray_basic_appear_online
+bip_39_word_underscore_6: glare_spray_basic_appear_online_method
+bip_39_word_underscore_7: glare_spray_basic_appear_online_method_meadow
+bip_39_word_underscore_8: glare_spray_basic_appear_online_method_meadow_autumn
+bip_39_word_underscore_9: glare_spray_basic_appear_online_method_meadow_autumn_habit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

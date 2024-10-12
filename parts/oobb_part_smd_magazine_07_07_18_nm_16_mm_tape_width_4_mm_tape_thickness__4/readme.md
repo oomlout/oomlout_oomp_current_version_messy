@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | give |  
+| bip_39_word_dash_10 | give-age-already-caution-gasp-label-upgrade-oak-flush-home |  
+| bip_39_word_dash_11 | give-age-already-caution-gasp-label-upgrade-oak-flush-home-woman |  
+| bip_39_word_dash_12 | give-age-already-caution-gasp-label-upgrade-oak-flush-home-woman-almost |  
+| bip_39_word_dash_2 | give-age |  
+| bip_39_word_dash_3 | give-age-already |  
+| bip_39_word_dash_4 | give-age-already-caution |  
+| bip_39_word_dash_5 | give-age-already-caution-gasp |  
+| bip_39_word_dash_6 | give-age-already-caution-gasp-label |  
+| bip_39_word_dash_7 | give-age-already-caution-gasp-label-upgrade |  
+| bip_39_word_dash_8 | give-age-already-caution-gasp-label-upgrade-oak |  
+| bip_39_word_dash_9 | give-age-already-caution-gasp-label-upgrade-oak-flush |  
 | bip_39_word_new_br_1 | give |  
 | bip_39_word_new_br_10 | give<br>age<br>already<br>caution<br>gasp<br>label<br>upgrade<br>oak<br>flush<br>home |  
 | bip_39_word_new_br_11 | give<br>age<br>already<br>caution<br>gasp<br>label<br>upgrade<br>oak<br>flush<br>home<br>woman |  
@@ -147,6 +159,18 @@ flush |
 | bip_39_word_space_7 | give age already caution gasp label upgrade |  
 | bip_39_word_space_8 | give age already caution gasp label upgrade oak |  
 | bip_39_word_space_9 | give age already caution gasp label upgrade oak flush |  
+| bip_39_word_underscore_1 | give |  
+| bip_39_word_underscore_10 | give_age_already_caution_gasp_label_upgrade_oak_flush_home |  
+| bip_39_word_underscore_11 | give_age_already_caution_gasp_label_upgrade_oak_flush_home_woman |  
+| bip_39_word_underscore_12 | give_age_already_caution_gasp_label_upgrade_oak_flush_home_woman_almost |  
+| bip_39_word_underscore_2 | give_age |  
+| bip_39_word_underscore_3 | give_age_already |  
+| bip_39_word_underscore_4 | give_age_already_caution |  
+| bip_39_word_underscore_5 | give_age_already_caution_gasp |  
+| bip_39_word_underscore_6 | give_age_already_caution_gasp_label |  
+| bip_39_word_underscore_7 | give_age_already_caution_gasp_label_upgrade |  
+| bip_39_word_underscore_8 | give_age_already_caution_gasp_label_upgrade_oak |  
+| bip_39_word_underscore_9 | give_age_already_caution_gasp_label_upgrade_oak_flush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

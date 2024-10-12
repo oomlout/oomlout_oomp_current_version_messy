@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | head |  
+| bip_39_word_dash_10 | head-rich-luxury-vicious-panel-route-lens-retire-upper-turtle |  
+| bip_39_word_dash_11 | head-rich-luxury-vicious-panel-route-lens-retire-upper-turtle-kiss |  
+| bip_39_word_dash_12 | head-rich-luxury-vicious-panel-route-lens-retire-upper-turtle-kiss-aspect |  
+| bip_39_word_dash_2 | head-rich |  
+| bip_39_word_dash_3 | head-rich-luxury |  
+| bip_39_word_dash_4 | head-rich-luxury-vicious |  
+| bip_39_word_dash_5 | head-rich-luxury-vicious-panel |  
+| bip_39_word_dash_6 | head-rich-luxury-vicious-panel-route |  
+| bip_39_word_dash_7 | head-rich-luxury-vicious-panel-route-lens |  
+| bip_39_word_dash_8 | head-rich-luxury-vicious-panel-route-lens-retire |  
+| bip_39_word_dash_9 | head-rich-luxury-vicious-panel-route-lens-retire-upper |  
 | bip_39_word_new_br_1 | head |  
 | bip_39_word_new_br_10 | head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire<br>upper<br>turtle |  
 | bip_39_word_new_br_11 | head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire<br>upper<br>turtle<br>kiss |  
@@ -147,6 +159,18 @@ upper |
 | bip_39_word_space_7 | head rich luxury vicious panel route lens |  
 | bip_39_word_space_8 | head rich luxury vicious panel route lens retire |  
 | bip_39_word_space_9 | head rich luxury vicious panel route lens retire upper |  
+| bip_39_word_underscore_1 | head |  
+| bip_39_word_underscore_10 | head_rich_luxury_vicious_panel_route_lens_retire_upper_turtle |  
+| bip_39_word_underscore_11 | head_rich_luxury_vicious_panel_route_lens_retire_upper_turtle_kiss |  
+| bip_39_word_underscore_12 | head_rich_luxury_vicious_panel_route_lens_retire_upper_turtle_kiss_aspect |  
+| bip_39_word_underscore_2 | head_rich |  
+| bip_39_word_underscore_3 | head_rich_luxury |  
+| bip_39_word_underscore_4 | head_rich_luxury_vicious |  
+| bip_39_word_underscore_5 | head_rich_luxury_vicious_panel |  
+| bip_39_word_underscore_6 | head_rich_luxury_vicious_panel_route |  
+| bip_39_word_underscore_7 | head_rich_luxury_vicious_panel_route_lens |  
+| bip_39_word_underscore_8 | head_rich_luxury_vicious_panel_route_lens_retire |  
+| bip_39_word_underscore_9 | head_rich_luxury_vicious_panel_route_lens_retire_upper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

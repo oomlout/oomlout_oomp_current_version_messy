@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | perfect |  
+| bip_39_word_dash_10 | perfect-mountain-company-blood-match-main-road-sheriff-supply-pumpkin |  
+| bip_39_word_dash_11 | perfect-mountain-company-blood-match-main-road-sheriff-supply-pumpkin-mind |  
+| bip_39_word_dash_12 | perfect-mountain-company-blood-match-main-road-sheriff-supply-pumpkin-mind-any |  
+| bip_39_word_dash_2 | perfect-mountain |  
+| bip_39_word_dash_3 | perfect-mountain-company |  
+| bip_39_word_dash_4 | perfect-mountain-company-blood |  
+| bip_39_word_dash_5 | perfect-mountain-company-blood-match |  
+| bip_39_word_dash_6 | perfect-mountain-company-blood-match-main |  
+| bip_39_word_dash_7 | perfect-mountain-company-blood-match-main-road |  
+| bip_39_word_dash_8 | perfect-mountain-company-blood-match-main-road-sheriff |  
+| bip_39_word_dash_9 | perfect-mountain-company-blood-match-main-road-sheriff-supply |  
 | bip_39_word_new_br_1 | perfect |  
 | bip_39_word_new_br_10 | perfect<br>mountain<br>company<br>blood<br>match<br>main<br>road<br>sheriff<br>supply<br>pumpkin |  
 | bip_39_word_new_br_11 | perfect<br>mountain<br>company<br>blood<br>match<br>main<br>road<br>sheriff<br>supply<br>pumpkin<br>mind |  
@@ -147,6 +159,18 @@ supply |
 | bip_39_word_space_7 | perfect mountain company blood match main road |  
 | bip_39_word_space_8 | perfect mountain company blood match main road sheriff |  
 | bip_39_word_space_9 | perfect mountain company blood match main road sheriff supply |  
+| bip_39_word_underscore_1 | perfect |  
+| bip_39_word_underscore_10 | perfect_mountain_company_blood_match_main_road_sheriff_supply_pumpkin |  
+| bip_39_word_underscore_11 | perfect_mountain_company_blood_match_main_road_sheriff_supply_pumpkin_mind |  
+| bip_39_word_underscore_12 | perfect_mountain_company_blood_match_main_road_sheriff_supply_pumpkin_mind_any |  
+| bip_39_word_underscore_2 | perfect_mountain |  
+| bip_39_word_underscore_3 | perfect_mountain_company |  
+| bip_39_word_underscore_4 | perfect_mountain_company_blood |  
+| bip_39_word_underscore_5 | perfect_mountain_company_blood_match |  
+| bip_39_word_underscore_6 | perfect_mountain_company_blood_match_main |  
+| bip_39_word_underscore_7 | perfect_mountain_company_blood_match_main_road |  
+| bip_39_word_underscore_8 | perfect_mountain_company_blood_match_main_road_sheriff |  
+| bip_39_word_underscore_9 | perfect_mountain_company_blood_match_main_road_sheriff_supply |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

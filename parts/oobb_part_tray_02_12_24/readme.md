@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | depart |  
+| bip_39_word_dash_10 | depart-drum-cherry-pledge-ignore-design-weapon-document-minimum-trash |  
+| bip_39_word_dash_11 | depart-drum-cherry-pledge-ignore-design-weapon-document-minimum-trash-favorite |  
+| bip_39_word_dash_12 | depart-drum-cherry-pledge-ignore-design-weapon-document-minimum-trash-favorite-art |  
+| bip_39_word_dash_2 | depart-drum |  
+| bip_39_word_dash_3 | depart-drum-cherry |  
+| bip_39_word_dash_4 | depart-drum-cherry-pledge |  
+| bip_39_word_dash_5 | depart-drum-cherry-pledge-ignore |  
+| bip_39_word_dash_6 | depart-drum-cherry-pledge-ignore-design |  
+| bip_39_word_dash_7 | depart-drum-cherry-pledge-ignore-design-weapon |  
+| bip_39_word_dash_8 | depart-drum-cherry-pledge-ignore-design-weapon-document |  
+| bip_39_word_dash_9 | depart-drum-cherry-pledge-ignore-design-weapon-document-minimum |  
 | bip_39_word_new_br_1 | depart |  
 | bip_39_word_new_br_10 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash |  
 | bip_39_word_new_br_11 | depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash<br>favorite |  
@@ -147,6 +159,18 @@ minimum |
 | bip_39_word_space_7 | depart drum cherry pledge ignore design weapon |  
 | bip_39_word_space_8 | depart drum cherry pledge ignore design weapon document |  
 | bip_39_word_space_9 | depart drum cherry pledge ignore design weapon document minimum |  
+| bip_39_word_underscore_1 | depart |  
+| bip_39_word_underscore_10 | depart_drum_cherry_pledge_ignore_design_weapon_document_minimum_trash |  
+| bip_39_word_underscore_11 | depart_drum_cherry_pledge_ignore_design_weapon_document_minimum_trash_favorite |  
+| bip_39_word_underscore_12 | depart_drum_cherry_pledge_ignore_design_weapon_document_minimum_trash_favorite_art |  
+| bip_39_word_underscore_2 | depart_drum |  
+| bip_39_word_underscore_3 | depart_drum_cherry |  
+| bip_39_word_underscore_4 | depart_drum_cherry_pledge |  
+| bip_39_word_underscore_5 | depart_drum_cherry_pledge_ignore |  
+| bip_39_word_underscore_6 | depart_drum_cherry_pledge_ignore_design |  
+| bip_39_word_underscore_7 | depart_drum_cherry_pledge_ignore_design_weapon |  
+| bip_39_word_underscore_8 | depart_drum_cherry_pledge_ignore_design_weapon_document |  
+| bip_39_word_underscore_9 | depart_drum_cherry_pledge_ignore_design_weapon_document_minimum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

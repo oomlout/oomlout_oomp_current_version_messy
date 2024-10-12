@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reason |  
+| bip_39_word_dash_10 | reason-region-merge-shine-dash-essence-dice-milk-social-tongue |  
+| bip_39_word_dash_11 | reason-region-merge-shine-dash-essence-dice-milk-social-tongue-history |  
+| bip_39_word_dash_12 | reason-region-merge-shine-dash-essence-dice-milk-social-tongue-history-afford |  
+| bip_39_word_dash_2 | reason-region |  
+| bip_39_word_dash_3 | reason-region-merge |  
+| bip_39_word_dash_4 | reason-region-merge-shine |  
+| bip_39_word_dash_5 | reason-region-merge-shine-dash |  
+| bip_39_word_dash_6 | reason-region-merge-shine-dash-essence |  
+| bip_39_word_dash_7 | reason-region-merge-shine-dash-essence-dice |  
+| bip_39_word_dash_8 | reason-region-merge-shine-dash-essence-dice-milk |  
+| bip_39_word_dash_9 | reason-region-merge-shine-dash-essence-dice-milk-social |  
 | bip_39_word_new_br_1 | reason |  
 | bip_39_word_new_br_10 | reason<br>region<br>merge<br>shine<br>dash<br>essence<br>dice<br>milk<br>social<br>tongue |  
 | bip_39_word_new_br_11 | reason<br>region<br>merge<br>shine<br>dash<br>essence<br>dice<br>milk<br>social<br>tongue<br>history |  
@@ -147,6 +159,18 @@ social |
 | bip_39_word_space_7 | reason region merge shine dash essence dice |  
 | bip_39_word_space_8 | reason region merge shine dash essence dice milk |  
 | bip_39_word_space_9 | reason region merge shine dash essence dice milk social |  
+| bip_39_word_underscore_1 | reason |  
+| bip_39_word_underscore_10 | reason_region_merge_shine_dash_essence_dice_milk_social_tongue |  
+| bip_39_word_underscore_11 | reason_region_merge_shine_dash_essence_dice_milk_social_tongue_history |  
+| bip_39_word_underscore_12 | reason_region_merge_shine_dash_essence_dice_milk_social_tongue_history_afford |  
+| bip_39_word_underscore_2 | reason_region |  
+| bip_39_word_underscore_3 | reason_region_merge |  
+| bip_39_word_underscore_4 | reason_region_merge_shine |  
+| bip_39_word_underscore_5 | reason_region_merge_shine_dash |  
+| bip_39_word_underscore_6 | reason_region_merge_shine_dash_essence |  
+| bip_39_word_underscore_7 | reason_region_merge_shine_dash_essence_dice |  
+| bip_39_word_underscore_8 | reason_region_merge_shine_dash_essence_dice_milk |  
+| bip_39_word_underscore_9 | reason_region_merge_shine_dash_essence_dice_milk_social |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

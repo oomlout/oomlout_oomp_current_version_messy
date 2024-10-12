@@ -1,3 +1,15 @@
+bip_39_word_dash_1: below
+bip_39_word_dash_10: below-turn-brisk-often-mutual-now-people-witness-rural-neither
+bip_39_word_dash_11: below-turn-brisk-often-mutual-now-people-witness-rural-neither-exact
+bip_39_word_dash_12: below-turn-brisk-often-mutual-now-people-witness-rural-neither-exact-ask
+bip_39_word_dash_2: below-turn
+bip_39_word_dash_3: below-turn-brisk
+bip_39_word_dash_4: below-turn-brisk-often
+bip_39_word_dash_5: below-turn-brisk-often-mutual
+bip_39_word_dash_6: below-turn-brisk-often-mutual-now
+bip_39_word_dash_7: below-turn-brisk-often-mutual-now-people
+bip_39_word_dash_8: below-turn-brisk-often-mutual-now-people-witness
+bip_39_word_dash_9: below-turn-brisk-often-mutual-now-people-witness-rural
 bip_39_word_new_br_1: below
 bip_39_word_new_br_10: below<br>turn<br>brisk<br>often<br>mutual<br>now<br>people<br>witness<br>rural<br>neither
 bip_39_word_new_br_11: below<br>turn<br>brisk<br>often<br>mutual<br>now<br>people<br>witness<br>rural<br>neither<br>exact
@@ -193,6 +205,18 @@ bip_39_word_space_6: below turn brisk often mutual now
 bip_39_word_space_7: below turn brisk often mutual now people
 bip_39_word_space_8: below turn brisk often mutual now people witness
 bip_39_word_space_9: below turn brisk often mutual now people witness rural
+bip_39_word_underscore_1: below
+bip_39_word_underscore_10: below_turn_brisk_often_mutual_now_people_witness_rural_neither
+bip_39_word_underscore_11: below_turn_brisk_often_mutual_now_people_witness_rural_neither_exact
+bip_39_word_underscore_12: below_turn_brisk_often_mutual_now_people_witness_rural_neither_exact_ask
+bip_39_word_underscore_2: below_turn
+bip_39_word_underscore_3: below_turn_brisk
+bip_39_word_underscore_4: below_turn_brisk_often
+bip_39_word_underscore_5: below_turn_brisk_often_mutual
+bip_39_word_underscore_6: below_turn_brisk_often_mutual_now
+bip_39_word_underscore_7: below_turn_brisk_often_mutual_now_people
+bip_39_word_underscore_8: below_turn_brisk_often_mutual_now_people_witness
+bip_39_word_underscore_9: below_turn_brisk_often_mutual_now_people_witness_rural
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

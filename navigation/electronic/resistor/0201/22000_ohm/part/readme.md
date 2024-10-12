@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | give |  
+| bip_39_word_dash_10 | give-dog-cream-monster-noble-desk-bread-price-say-sunset |  
+| bip_39_word_dash_11 | give-dog-cream-monster-noble-desk-bread-price-say-sunset-valid |  
+| bip_39_word_dash_12 | give-dog-cream-monster-noble-desk-bread-price-say-sunset-valid-account |  
+| bip_39_word_dash_2 | give-dog |  
+| bip_39_word_dash_3 | give-dog-cream |  
+| bip_39_word_dash_4 | give-dog-cream-monster |  
+| bip_39_word_dash_5 | give-dog-cream-monster-noble |  
+| bip_39_word_dash_6 | give-dog-cream-monster-noble-desk |  
+| bip_39_word_dash_7 | give-dog-cream-monster-noble-desk-bread |  
+| bip_39_word_dash_8 | give-dog-cream-monster-noble-desk-bread-price |  
+| bip_39_word_dash_9 | give-dog-cream-monster-noble-desk-bread-price-say |  
 | bip_39_word_new_br_1 | give |  
 | bip_39_word_new_br_10 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price<br>say<br>sunset |  
 | bip_39_word_new_br_11 | give<br>dog<br>cream<br>monster<br>noble<br>desk<br>bread<br>price<br>say<br>sunset<br>valid |  
@@ -147,6 +159,18 @@ say |
 | bip_39_word_space_7 | give dog cream monster noble desk bread |  
 | bip_39_word_space_8 | give dog cream monster noble desk bread price |  
 | bip_39_word_space_9 | give dog cream monster noble desk bread price say |  
+| bip_39_word_underscore_1 | give |  
+| bip_39_word_underscore_10 | give_dog_cream_monster_noble_desk_bread_price_say_sunset |  
+| bip_39_word_underscore_11 | give_dog_cream_monster_noble_desk_bread_price_say_sunset_valid |  
+| bip_39_word_underscore_12 | give_dog_cream_monster_noble_desk_bread_price_say_sunset_valid_account |  
+| bip_39_word_underscore_2 | give_dog |  
+| bip_39_word_underscore_3 | give_dog_cream |  
+| bip_39_word_underscore_4 | give_dog_cream_monster |  
+| bip_39_word_underscore_5 | give_dog_cream_monster_noble |  
+| bip_39_word_underscore_6 | give_dog_cream_monster_noble_desk |  
+| bip_39_word_underscore_7 | give_dog_cream_monster_noble_desk_bread |  
+| bip_39_word_underscore_8 | give_dog_cream_monster_noble_desk_bread_price |  
+| bip_39_word_underscore_9 | give_dog_cream_monster_noble_desk_bread_price_say |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

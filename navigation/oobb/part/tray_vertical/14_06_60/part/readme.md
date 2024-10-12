@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | uphold |  
+| bip_39_word_dash_10 | uphold-genuine-inject-clock-young-example-shield-found-humor-axis |  
+| bip_39_word_dash_11 | uphold-genuine-inject-clock-young-example-shield-found-humor-axis-worth |  
+| bip_39_word_dash_12 | uphold-genuine-inject-clock-young-example-shield-found-humor-axis-worth-aunt |  
+| bip_39_word_dash_2 | uphold-genuine |  
+| bip_39_word_dash_3 | uphold-genuine-inject |  
+| bip_39_word_dash_4 | uphold-genuine-inject-clock |  
+| bip_39_word_dash_5 | uphold-genuine-inject-clock-young |  
+| bip_39_word_dash_6 | uphold-genuine-inject-clock-young-example |  
+| bip_39_word_dash_7 | uphold-genuine-inject-clock-young-example-shield |  
+| bip_39_word_dash_8 | uphold-genuine-inject-clock-young-example-shield-found |  
+| bip_39_word_dash_9 | uphold-genuine-inject-clock-young-example-shield-found-humor |  
 | bip_39_word_new_br_1 | uphold |  
 | bip_39_word_new_br_10 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis |  
 | bip_39_word_new_br_11 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis<br>worth |  
@@ -147,6 +159,18 @@ humor |
 | bip_39_word_space_7 | uphold genuine inject clock young example shield |  
 | bip_39_word_space_8 | uphold genuine inject clock young example shield found |  
 | bip_39_word_space_9 | uphold genuine inject clock young example shield found humor |  
+| bip_39_word_underscore_1 | uphold |  
+| bip_39_word_underscore_10 | uphold_genuine_inject_clock_young_example_shield_found_humor_axis |  
+| bip_39_word_underscore_11 | uphold_genuine_inject_clock_young_example_shield_found_humor_axis_worth |  
+| bip_39_word_underscore_12 | uphold_genuine_inject_clock_young_example_shield_found_humor_axis_worth_aunt |  
+| bip_39_word_underscore_2 | uphold_genuine |  
+| bip_39_word_underscore_3 | uphold_genuine_inject |  
+| bip_39_word_underscore_4 | uphold_genuine_inject_clock |  
+| bip_39_word_underscore_5 | uphold_genuine_inject_clock_young |  
+| bip_39_word_underscore_6 | uphold_genuine_inject_clock_young_example |  
+| bip_39_word_underscore_7 | uphold_genuine_inject_clock_young_example_shield |  
+| bip_39_word_underscore_8 | uphold_genuine_inject_clock_young_example_shield_found |  
+| bip_39_word_underscore_9 | uphold_genuine_inject_clock_young_example_shield_found_humor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

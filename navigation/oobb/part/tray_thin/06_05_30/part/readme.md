@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | few |  
+| bip_39_word_dash_10 | few-seminar-pioneer-curtain-print-gorilla-plunge-feed-ivory-valley |  
+| bip_39_word_dash_11 | few-seminar-pioneer-curtain-print-gorilla-plunge-feed-ivory-valley-glance |  
+| bip_39_word_dash_12 | few-seminar-pioneer-curtain-print-gorilla-plunge-feed-ivory-valley-glance-already |  
+| bip_39_word_dash_2 | few-seminar |  
+| bip_39_word_dash_3 | few-seminar-pioneer |  
+| bip_39_word_dash_4 | few-seminar-pioneer-curtain |  
+| bip_39_word_dash_5 | few-seminar-pioneer-curtain-print |  
+| bip_39_word_dash_6 | few-seminar-pioneer-curtain-print-gorilla |  
+| bip_39_word_dash_7 | few-seminar-pioneer-curtain-print-gorilla-plunge |  
+| bip_39_word_dash_8 | few-seminar-pioneer-curtain-print-gorilla-plunge-feed |  
+| bip_39_word_dash_9 | few-seminar-pioneer-curtain-print-gorilla-plunge-feed-ivory |  
 | bip_39_word_new_br_1 | few |  
 | bip_39_word_new_br_10 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley |  
 | bip_39_word_new_br_11 | few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley<br>glance |  
@@ -147,6 +159,18 @@ ivory |
 | bip_39_word_space_7 | few seminar pioneer curtain print gorilla plunge |  
 | bip_39_word_space_8 | few seminar pioneer curtain print gorilla plunge feed |  
 | bip_39_word_space_9 | few seminar pioneer curtain print gorilla plunge feed ivory |  
+| bip_39_word_underscore_1 | few |  
+| bip_39_word_underscore_10 | few_seminar_pioneer_curtain_print_gorilla_plunge_feed_ivory_valley |  
+| bip_39_word_underscore_11 | few_seminar_pioneer_curtain_print_gorilla_plunge_feed_ivory_valley_glance |  
+| bip_39_word_underscore_12 | few_seminar_pioneer_curtain_print_gorilla_plunge_feed_ivory_valley_glance_already |  
+| bip_39_word_underscore_2 | few_seminar |  
+| bip_39_word_underscore_3 | few_seminar_pioneer |  
+| bip_39_word_underscore_4 | few_seminar_pioneer_curtain |  
+| bip_39_word_underscore_5 | few_seminar_pioneer_curtain_print |  
+| bip_39_word_underscore_6 | few_seminar_pioneer_curtain_print_gorilla |  
+| bip_39_word_underscore_7 | few_seminar_pioneer_curtain_print_gorilla_plunge |  
+| bip_39_word_underscore_8 | few_seminar_pioneer_curtain_print_gorilla_plunge_feed |  
+| bip_39_word_underscore_9 | few_seminar_pioneer_curtain_print_gorilla_plunge_feed_ivory |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | entry |  
+| bip_39_word_dash_10 | entry-million-merit-priority-pigeon-plunge-paddle-forget-hundred-pitch |  
+| bip_39_word_dash_11 | entry-million-merit-priority-pigeon-plunge-paddle-forget-hundred-pitch-spray |  
+| bip_39_word_dash_12 | entry-million-merit-priority-pigeon-plunge-paddle-forget-hundred-pitch-spray-appear |  
+| bip_39_word_dash_2 | entry-million |  
+| bip_39_word_dash_3 | entry-million-merit |  
+| bip_39_word_dash_4 | entry-million-merit-priority |  
+| bip_39_word_dash_5 | entry-million-merit-priority-pigeon |  
+| bip_39_word_dash_6 | entry-million-merit-priority-pigeon-plunge |  
+| bip_39_word_dash_7 | entry-million-merit-priority-pigeon-plunge-paddle |  
+| bip_39_word_dash_8 | entry-million-merit-priority-pigeon-plunge-paddle-forget |  
+| bip_39_word_dash_9 | entry-million-merit-priority-pigeon-plunge-paddle-forget-hundred |  
 | bip_39_word_new_br_1 | entry |  
 | bip_39_word_new_br_10 | entry<br>million<br>merit<br>priority<br>pigeon<br>plunge<br>paddle<br>forget<br>hundred<br>pitch |  
 | bip_39_word_new_br_11 | entry<br>million<br>merit<br>priority<br>pigeon<br>plunge<br>paddle<br>forget<br>hundred<br>pitch<br>spray |  
@@ -147,6 +159,18 @@ hundred |
 | bip_39_word_space_7 | entry million merit priority pigeon plunge paddle |  
 | bip_39_word_space_8 | entry million merit priority pigeon plunge paddle forget |  
 | bip_39_word_space_9 | entry million merit priority pigeon plunge paddle forget hundred |  
+| bip_39_word_underscore_1 | entry |  
+| bip_39_word_underscore_10 | entry_million_merit_priority_pigeon_plunge_paddle_forget_hundred_pitch |  
+| bip_39_word_underscore_11 | entry_million_merit_priority_pigeon_plunge_paddle_forget_hundred_pitch_spray |  
+| bip_39_word_underscore_12 | entry_million_merit_priority_pigeon_plunge_paddle_forget_hundred_pitch_spray_appear |  
+| bip_39_word_underscore_2 | entry_million |  
+| bip_39_word_underscore_3 | entry_million_merit |  
+| bip_39_word_underscore_4 | entry_million_merit_priority |  
+| bip_39_word_underscore_5 | entry_million_merit_priority_pigeon |  
+| bip_39_word_underscore_6 | entry_million_merit_priority_pigeon_plunge |  
+| bip_39_word_underscore_7 | entry_million_merit_priority_pigeon_plunge_paddle |  
+| bip_39_word_underscore_8 | entry_million_merit_priority_pigeon_plunge_paddle_forget |  
+| bip_39_word_underscore_9 | entry_million_merit_priority_pigeon_plunge_paddle_forget_hundred |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

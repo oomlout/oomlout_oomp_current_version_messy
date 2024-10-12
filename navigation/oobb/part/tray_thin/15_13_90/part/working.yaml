@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ribbon
+bip_39_word_dash_10: ribbon-hurdle-cushion-flush-hub-move-increase-photo-give-educate
+bip_39_word_dash_11: ribbon-hurdle-cushion-flush-hub-move-increase-photo-give-educate-client
+bip_39_word_dash_12: ribbon-hurdle-cushion-flush-hub-move-increase-photo-give-educate-client-attitude
+bip_39_word_dash_2: ribbon-hurdle
+bip_39_word_dash_3: ribbon-hurdle-cushion
+bip_39_word_dash_4: ribbon-hurdle-cushion-flush
+bip_39_word_dash_5: ribbon-hurdle-cushion-flush-hub
+bip_39_word_dash_6: ribbon-hurdle-cushion-flush-hub-move
+bip_39_word_dash_7: ribbon-hurdle-cushion-flush-hub-move-increase
+bip_39_word_dash_8: ribbon-hurdle-cushion-flush-hub-move-increase-photo
+bip_39_word_dash_9: ribbon-hurdle-cushion-flush-hub-move-increase-photo-give
 bip_39_word_new_br_1: ribbon
 bip_39_word_new_br_10: ribbon<br>hurdle<br>cushion<br>flush<br>hub<br>move<br>increase<br>photo<br>give<br>educate
 bip_39_word_new_br_11: ribbon<br>hurdle<br>cushion<br>flush<br>hub<br>move<br>increase<br>photo<br>give<br>educate<br>client
@@ -193,6 +205,18 @@ bip_39_word_space_6: ribbon hurdle cushion flush hub move
 bip_39_word_space_7: ribbon hurdle cushion flush hub move increase
 bip_39_word_space_8: ribbon hurdle cushion flush hub move increase photo
 bip_39_word_space_9: ribbon hurdle cushion flush hub move increase photo give
+bip_39_word_underscore_1: ribbon
+bip_39_word_underscore_10: ribbon_hurdle_cushion_flush_hub_move_increase_photo_give_educate
+bip_39_word_underscore_11: ribbon_hurdle_cushion_flush_hub_move_increase_photo_give_educate_client
+bip_39_word_underscore_12: ribbon_hurdle_cushion_flush_hub_move_increase_photo_give_educate_client_attitude
+bip_39_word_underscore_2: ribbon_hurdle
+bip_39_word_underscore_3: ribbon_hurdle_cushion
+bip_39_word_underscore_4: ribbon_hurdle_cushion_flush
+bip_39_word_underscore_5: ribbon_hurdle_cushion_flush_hub
+bip_39_word_underscore_6: ribbon_hurdle_cushion_flush_hub_move
+bip_39_word_underscore_7: ribbon_hurdle_cushion_flush_hub_move_increase
+bip_39_word_underscore_8: ribbon_hurdle_cushion_flush_hub_move_increase_photo
+bip_39_word_underscore_9: ribbon_hurdle_cushion_flush_hub_move_increase_photo_give
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

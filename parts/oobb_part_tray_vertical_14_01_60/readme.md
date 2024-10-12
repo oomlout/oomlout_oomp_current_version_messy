@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bless |  
+| bip_39_word_dash_10 | bless-nerve-purpose-family-liberty-crane-position-flower-pupil-gossip |  
+| bip_39_word_dash_11 | bless-nerve-purpose-family-liberty-crane-position-flower-pupil-gossip-call |  
+| bip_39_word_dash_12 | bless-nerve-purpose-family-liberty-crane-position-flower-pupil-gossip-call-add |  
+| bip_39_word_dash_2 | bless-nerve |  
+| bip_39_word_dash_3 | bless-nerve-purpose |  
+| bip_39_word_dash_4 | bless-nerve-purpose-family |  
+| bip_39_word_dash_5 | bless-nerve-purpose-family-liberty |  
+| bip_39_word_dash_6 | bless-nerve-purpose-family-liberty-crane |  
+| bip_39_word_dash_7 | bless-nerve-purpose-family-liberty-crane-position |  
+| bip_39_word_dash_8 | bless-nerve-purpose-family-liberty-crane-position-flower |  
+| bip_39_word_dash_9 | bless-nerve-purpose-family-liberty-crane-position-flower-pupil |  
 | bip_39_word_new_br_1 | bless |  
 | bip_39_word_new_br_10 | bless<br>nerve<br>purpose<br>family<br>liberty<br>crane<br>position<br>flower<br>pupil<br>gossip |  
 | bip_39_word_new_br_11 | bless<br>nerve<br>purpose<br>family<br>liberty<br>crane<br>position<br>flower<br>pupil<br>gossip<br>call |  
@@ -147,6 +159,18 @@ pupil |
 | bip_39_word_space_7 | bless nerve purpose family liberty crane position |  
 | bip_39_word_space_8 | bless nerve purpose family liberty crane position flower |  
 | bip_39_word_space_9 | bless nerve purpose family liberty crane position flower pupil |  
+| bip_39_word_underscore_1 | bless |  
+| bip_39_word_underscore_10 | bless_nerve_purpose_family_liberty_crane_position_flower_pupil_gossip |  
+| bip_39_word_underscore_11 | bless_nerve_purpose_family_liberty_crane_position_flower_pupil_gossip_call |  
+| bip_39_word_underscore_12 | bless_nerve_purpose_family_liberty_crane_position_flower_pupil_gossip_call_add |  
+| bip_39_word_underscore_2 | bless_nerve |  
+| bip_39_word_underscore_3 | bless_nerve_purpose |  
+| bip_39_word_underscore_4 | bless_nerve_purpose_family |  
+| bip_39_word_underscore_5 | bless_nerve_purpose_family_liberty |  
+| bip_39_word_underscore_6 | bless_nerve_purpose_family_liberty_crane |  
+| bip_39_word_underscore_7 | bless_nerve_purpose_family_liberty_crane_position |  
+| bip_39_word_underscore_8 | bless_nerve_purpose_family_liberty_crane_position_flower |  
+| bip_39_word_underscore_9 | bless_nerve_purpose_family_liberty_crane_position_flower_pupil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

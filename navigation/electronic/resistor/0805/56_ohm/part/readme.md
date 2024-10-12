@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brave |  
+| bip_39_word_dash_10 | brave-match-mail-exotic-door-issue-trend-ability-cool-maid |  
+| bip_39_word_dash_11 | brave-match-mail-exotic-door-issue-trend-ability-cool-maid-belt |  
+| bip_39_word_dash_12 | brave-match-mail-exotic-door-issue-trend-ability-cool-maid-belt-aunt |  
+| bip_39_word_dash_2 | brave-match |  
+| bip_39_word_dash_3 | brave-match-mail |  
+| bip_39_word_dash_4 | brave-match-mail-exotic |  
+| bip_39_word_dash_5 | brave-match-mail-exotic-door |  
+| bip_39_word_dash_6 | brave-match-mail-exotic-door-issue |  
+| bip_39_word_dash_7 | brave-match-mail-exotic-door-issue-trend |  
+| bip_39_word_dash_8 | brave-match-mail-exotic-door-issue-trend-ability |  
+| bip_39_word_dash_9 | brave-match-mail-exotic-door-issue-trend-ability-cool |  
 | bip_39_word_new_br_1 | brave |  
 | bip_39_word_new_br_10 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability<br>cool<br>maid |  
 | bip_39_word_new_br_11 | brave<br>match<br>mail<br>exotic<br>door<br>issue<br>trend<br>ability<br>cool<br>maid<br>belt |  
@@ -147,6 +159,18 @@ cool |
 | bip_39_word_space_7 | brave match mail exotic door issue trend |  
 | bip_39_word_space_8 | brave match mail exotic door issue trend ability |  
 | bip_39_word_space_9 | brave match mail exotic door issue trend ability cool |  
+| bip_39_word_underscore_1 | brave |  
+| bip_39_word_underscore_10 | brave_match_mail_exotic_door_issue_trend_ability_cool_maid |  
+| bip_39_word_underscore_11 | brave_match_mail_exotic_door_issue_trend_ability_cool_maid_belt |  
+| bip_39_word_underscore_12 | brave_match_mail_exotic_door_issue_trend_ability_cool_maid_belt_aunt |  
+| bip_39_word_underscore_2 | brave_match |  
+| bip_39_word_underscore_3 | brave_match_mail |  
+| bip_39_word_underscore_4 | brave_match_mail_exotic |  
+| bip_39_word_underscore_5 | brave_match_mail_exotic_door |  
+| bip_39_word_underscore_6 | brave_match_mail_exotic_door_issue |  
+| bip_39_word_underscore_7 | brave_match_mail_exotic_door_issue_trend |  
+| bip_39_word_underscore_8 | brave_match_mail_exotic_door_issue_trend_ability |  
+| bip_39_word_underscore_9 | brave_match_mail_exotic_door_issue_trend_ability_cool |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

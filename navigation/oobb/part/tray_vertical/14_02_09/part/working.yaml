@@ -1,3 +1,15 @@
+bip_39_word_dash_1: start
+bip_39_word_dash_10: start-wife-east-asset-silk-blood-virtual-goat-lake-proof
+bip_39_word_dash_11: start-wife-east-asset-silk-blood-virtual-goat-lake-proof-riot
+bip_39_word_dash_12: start-wife-east-asset-silk-blood-virtual-goat-lake-proof-riot-announce
+bip_39_word_dash_2: start-wife
+bip_39_word_dash_3: start-wife-east
+bip_39_word_dash_4: start-wife-east-asset
+bip_39_word_dash_5: start-wife-east-asset-silk
+bip_39_word_dash_6: start-wife-east-asset-silk-blood
+bip_39_word_dash_7: start-wife-east-asset-silk-blood-virtual
+bip_39_word_dash_8: start-wife-east-asset-silk-blood-virtual-goat
+bip_39_word_dash_9: start-wife-east-asset-silk-blood-virtual-goat-lake
 bip_39_word_new_br_1: start
 bip_39_word_new_br_10: start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat<br>lake<br>proof
 bip_39_word_new_br_11: start<br>wife<br>east<br>asset<br>silk<br>blood<br>virtual<br>goat<br>lake<br>proof<br>riot
@@ -192,6 +204,18 @@ bip_39_word_space_6: start wife east asset silk blood
 bip_39_word_space_7: start wife east asset silk blood virtual
 bip_39_word_space_8: start wife east asset silk blood virtual goat
 bip_39_word_space_9: start wife east asset silk blood virtual goat lake
+bip_39_word_underscore_1: start
+bip_39_word_underscore_10: start_wife_east_asset_silk_blood_virtual_goat_lake_proof
+bip_39_word_underscore_11: start_wife_east_asset_silk_blood_virtual_goat_lake_proof_riot
+bip_39_word_underscore_12: start_wife_east_asset_silk_blood_virtual_goat_lake_proof_riot_announce
+bip_39_word_underscore_2: start_wife
+bip_39_word_underscore_3: start_wife_east
+bip_39_word_underscore_4: start_wife_east_asset
+bip_39_word_underscore_5: start_wife_east_asset_silk
+bip_39_word_underscore_6: start_wife_east_asset_silk_blood
+bip_39_word_underscore_7: start_wife_east_asset_silk_blood_virtual
+bip_39_word_underscore_8: start_wife_east_asset_silk_blood_virtual_goat
+bip_39_word_underscore_9: start_wife_east_asset_silk_blood_virtual_goat_lake
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

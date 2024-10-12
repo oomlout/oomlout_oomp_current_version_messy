@@ -1,3 +1,15 @@
+bip_39_word_dash_1: make
+bip_39_word_dash_10: make-couch-predict-fossil-flash-parade-penalty-image-woman-drip
+bip_39_word_dash_11: make-couch-predict-fossil-flash-parade-penalty-image-woman-drip-slogan
+bip_39_word_dash_12: make-couch-predict-fossil-flash-parade-penalty-image-woman-drip-slogan-assume
+bip_39_word_dash_2: make-couch
+bip_39_word_dash_3: make-couch-predict
+bip_39_word_dash_4: make-couch-predict-fossil
+bip_39_word_dash_5: make-couch-predict-fossil-flash
+bip_39_word_dash_6: make-couch-predict-fossil-flash-parade
+bip_39_word_dash_7: make-couch-predict-fossil-flash-parade-penalty
+bip_39_word_dash_8: make-couch-predict-fossil-flash-parade-penalty-image
+bip_39_word_dash_9: make-couch-predict-fossil-flash-parade-penalty-image-woman
 bip_39_word_new_br_1: make
 bip_39_word_new_br_10: make<br>couch<br>predict<br>fossil<br>flash<br>parade<br>penalty<br>image<br>woman<br>drip
 bip_39_word_new_br_11: make<br>couch<br>predict<br>fossil<br>flash<br>parade<br>penalty<br>image<br>woman<br>drip<br>slogan
@@ -193,6 +205,18 @@ bip_39_word_space_6: make couch predict fossil flash parade
 bip_39_word_space_7: make couch predict fossil flash parade penalty
 bip_39_word_space_8: make couch predict fossil flash parade penalty image
 bip_39_word_space_9: make couch predict fossil flash parade penalty image woman
+bip_39_word_underscore_1: make
+bip_39_word_underscore_10: make_couch_predict_fossil_flash_parade_penalty_image_woman_drip
+bip_39_word_underscore_11: make_couch_predict_fossil_flash_parade_penalty_image_woman_drip_slogan
+bip_39_word_underscore_12: make_couch_predict_fossil_flash_parade_penalty_image_woman_drip_slogan_assume
+bip_39_word_underscore_2: make_couch
+bip_39_word_underscore_3: make_couch_predict
+bip_39_word_underscore_4: make_couch_predict_fossil
+bip_39_word_underscore_5: make_couch_predict_fossil_flash
+bip_39_word_underscore_6: make_couch_predict_fossil_flash_parade
+bip_39_word_underscore_7: make_couch_predict_fossil_flash_parade_penalty
+bip_39_word_underscore_8: make_couch_predict_fossil_flash_parade_penalty_image
+bip_39_word_underscore_9: make_couch_predict_fossil_flash_parade_penalty_image_woman
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | embody |  
+| bip_39_word_dash_10 | embody-pig-much-draft-supreme-lazy-stool-venture-design-before |  
+| bip_39_word_dash_11 | embody-pig-much-draft-supreme-lazy-stool-venture-design-before-apart |  
+| bip_39_word_dash_12 | embody-pig-much-draft-supreme-lazy-stool-venture-design-before-apart-aerobic |  
+| bip_39_word_dash_2 | embody-pig |  
+| bip_39_word_dash_3 | embody-pig-much |  
+| bip_39_word_dash_4 | embody-pig-much-draft |  
+| bip_39_word_dash_5 | embody-pig-much-draft-supreme |  
+| bip_39_word_dash_6 | embody-pig-much-draft-supreme-lazy |  
+| bip_39_word_dash_7 | embody-pig-much-draft-supreme-lazy-stool |  
+| bip_39_word_dash_8 | embody-pig-much-draft-supreme-lazy-stool-venture |  
+| bip_39_word_dash_9 | embody-pig-much-draft-supreme-lazy-stool-venture-design |  
 | bip_39_word_new_br_1 | embody |  
 | bip_39_word_new_br_10 | embody<br>pig<br>much<br>draft<br>supreme<br>lazy<br>stool<br>venture<br>design<br>before |  
 | bip_39_word_new_br_11 | embody<br>pig<br>much<br>draft<br>supreme<br>lazy<br>stool<br>venture<br>design<br>before<br>apart |  
@@ -147,6 +159,18 @@ design |
 | bip_39_word_space_7 | embody pig much draft supreme lazy stool |  
 | bip_39_word_space_8 | embody pig much draft supreme lazy stool venture |  
 | bip_39_word_space_9 | embody pig much draft supreme lazy stool venture design |  
+| bip_39_word_underscore_1 | embody |  
+| bip_39_word_underscore_10 | embody_pig_much_draft_supreme_lazy_stool_venture_design_before |  
+| bip_39_word_underscore_11 | embody_pig_much_draft_supreme_lazy_stool_venture_design_before_apart |  
+| bip_39_word_underscore_12 | embody_pig_much_draft_supreme_lazy_stool_venture_design_before_apart_aerobic |  
+| bip_39_word_underscore_2 | embody_pig |  
+| bip_39_word_underscore_3 | embody_pig_much |  
+| bip_39_word_underscore_4 | embody_pig_much_draft |  
+| bip_39_word_underscore_5 | embody_pig_much_draft_supreme |  
+| bip_39_word_underscore_6 | embody_pig_much_draft_supreme_lazy |  
+| bip_39_word_underscore_7 | embody_pig_much_draft_supreme_lazy_stool |  
+| bip_39_word_underscore_8 | embody_pig_much_draft_supreme_lazy_stool_venture |  
+| bip_39_word_underscore_9 | embody_pig_much_draft_supreme_lazy_stool_venture_design |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

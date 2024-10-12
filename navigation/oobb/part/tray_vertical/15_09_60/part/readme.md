@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gym |  
+| bip_39_word_dash_10 | gym-hunt-seminar-antenna-aerobic-mass-scorpion-promote-ripple-flight |  
+| bip_39_word_dash_11 | gym-hunt-seminar-antenna-aerobic-mass-scorpion-promote-ripple-flight-ocean |  
+| bip_39_word_dash_12 | gym-hunt-seminar-antenna-aerobic-mass-scorpion-promote-ripple-flight-ocean-annual |  
+| bip_39_word_dash_2 | gym-hunt |  
+| bip_39_word_dash_3 | gym-hunt-seminar |  
+| bip_39_word_dash_4 | gym-hunt-seminar-antenna |  
+| bip_39_word_dash_5 | gym-hunt-seminar-antenna-aerobic |  
+| bip_39_word_dash_6 | gym-hunt-seminar-antenna-aerobic-mass |  
+| bip_39_word_dash_7 | gym-hunt-seminar-antenna-aerobic-mass-scorpion |  
+| bip_39_word_dash_8 | gym-hunt-seminar-antenna-aerobic-mass-scorpion-promote |  
+| bip_39_word_dash_9 | gym-hunt-seminar-antenna-aerobic-mass-scorpion-promote-ripple |  
 | bip_39_word_new_br_1 | gym |  
 | bip_39_word_new_br_10 | gym<br>hunt<br>seminar<br>antenna<br>aerobic<br>mass<br>scorpion<br>promote<br>ripple<br>flight |  
 | bip_39_word_new_br_11 | gym<br>hunt<br>seminar<br>antenna<br>aerobic<br>mass<br>scorpion<br>promote<br>ripple<br>flight<br>ocean |  
@@ -147,6 +159,18 @@ ripple |
 | bip_39_word_space_7 | gym hunt seminar antenna aerobic mass scorpion |  
 | bip_39_word_space_8 | gym hunt seminar antenna aerobic mass scorpion promote |  
 | bip_39_word_space_9 | gym hunt seminar antenna aerobic mass scorpion promote ripple |  
+| bip_39_word_underscore_1 | gym |  
+| bip_39_word_underscore_10 | gym_hunt_seminar_antenna_aerobic_mass_scorpion_promote_ripple_flight |  
+| bip_39_word_underscore_11 | gym_hunt_seminar_antenna_aerobic_mass_scorpion_promote_ripple_flight_ocean |  
+| bip_39_word_underscore_12 | gym_hunt_seminar_antenna_aerobic_mass_scorpion_promote_ripple_flight_ocean_annual |  
+| bip_39_word_underscore_2 | gym_hunt |  
+| bip_39_word_underscore_3 | gym_hunt_seminar |  
+| bip_39_word_underscore_4 | gym_hunt_seminar_antenna |  
+| bip_39_word_underscore_5 | gym_hunt_seminar_antenna_aerobic |  
+| bip_39_word_underscore_6 | gym_hunt_seminar_antenna_aerobic_mass |  
+| bip_39_word_underscore_7 | gym_hunt_seminar_antenna_aerobic_mass_scorpion |  
+| bip_39_word_underscore_8 | gym_hunt_seminar_antenna_aerobic_mass_scorpion_promote |  
+| bip_39_word_underscore_9 | gym_hunt_seminar_antenna_aerobic_mass_scorpion_promote_ripple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enable
+bip_39_word_dash_10: enable-they-extend-fruit-improve-domain-coyote-you-industry-spare
+bip_39_word_dash_11: enable-they-extend-fruit-improve-domain-coyote-you-industry-spare-liquid
+bip_39_word_dash_12: enable-they-extend-fruit-improve-domain-coyote-you-industry-spare-liquid-among
+bip_39_word_dash_2: enable-they
+bip_39_word_dash_3: enable-they-extend
+bip_39_word_dash_4: enable-they-extend-fruit
+bip_39_word_dash_5: enable-they-extend-fruit-improve
+bip_39_word_dash_6: enable-they-extend-fruit-improve-domain
+bip_39_word_dash_7: enable-they-extend-fruit-improve-domain-coyote
+bip_39_word_dash_8: enable-they-extend-fruit-improve-domain-coyote-you
+bip_39_word_dash_9: enable-they-extend-fruit-improve-domain-coyote-you-industry
 bip_39_word_new_br_1: enable
 bip_39_word_new_br_10: enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you<br>industry<br>spare
 bip_39_word_new_br_11: enable<br>they<br>extend<br>fruit<br>improve<br>domain<br>coyote<br>you<br>industry<br>spare<br>liquid
@@ -194,6 +206,18 @@ bip_39_word_space_6: enable they extend fruit improve domain
 bip_39_word_space_7: enable they extend fruit improve domain coyote
 bip_39_word_space_8: enable they extend fruit improve domain coyote you
 bip_39_word_space_9: enable they extend fruit improve domain coyote you industry
+bip_39_word_underscore_1: enable
+bip_39_word_underscore_10: enable_they_extend_fruit_improve_domain_coyote_you_industry_spare
+bip_39_word_underscore_11: enable_they_extend_fruit_improve_domain_coyote_you_industry_spare_liquid
+bip_39_word_underscore_12: enable_they_extend_fruit_improve_domain_coyote_you_industry_spare_liquid_among
+bip_39_word_underscore_2: enable_they
+bip_39_word_underscore_3: enable_they_extend
+bip_39_word_underscore_4: enable_they_extend_fruit
+bip_39_word_underscore_5: enable_they_extend_fruit_improve
+bip_39_word_underscore_6: enable_they_extend_fruit_improve_domain
+bip_39_word_underscore_7: enable_they_extend_fruit_improve_domain_coyote
+bip_39_word_underscore_8: enable_they_extend_fruit_improve_domain_coyote_you
+bip_39_word_underscore_9: enable_they_extend_fruit_improve_domain_coyote_you_industry
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

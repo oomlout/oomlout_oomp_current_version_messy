@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bread
+bip_39_word_dash_10: bread-husband-dial-knock-feed-pluck-floor-pen-dad-margin
+bip_39_word_dash_11: bread-husband-dial-knock-feed-pluck-floor-pen-dad-margin-venture
+bip_39_word_dash_12: bread-husband-dial-knock-feed-pluck-floor-pen-dad-margin-venture-above
+bip_39_word_dash_2: bread-husband
+bip_39_word_dash_3: bread-husband-dial
+bip_39_word_dash_4: bread-husband-dial-knock
+bip_39_word_dash_5: bread-husband-dial-knock-feed
+bip_39_word_dash_6: bread-husband-dial-knock-feed-pluck
+bip_39_word_dash_7: bread-husband-dial-knock-feed-pluck-floor
+bip_39_word_dash_8: bread-husband-dial-knock-feed-pluck-floor-pen
+bip_39_word_dash_9: bread-husband-dial-knock-feed-pluck-floor-pen-dad
 bip_39_word_new_br_1: bread
 bip_39_word_new_br_10: bread<br>husband<br>dial<br>knock<br>feed<br>pluck<br>floor<br>pen<br>dad<br>margin
 bip_39_word_new_br_11: bread<br>husband<br>dial<br>knock<br>feed<br>pluck<br>floor<br>pen<br>dad<br>margin<br>venture
@@ -192,6 +204,18 @@ bip_39_word_space_6: bread husband dial knock feed pluck
 bip_39_word_space_7: bread husband dial knock feed pluck floor
 bip_39_word_space_8: bread husband dial knock feed pluck floor pen
 bip_39_word_space_9: bread husband dial knock feed pluck floor pen dad
+bip_39_word_underscore_1: bread
+bip_39_word_underscore_10: bread_husband_dial_knock_feed_pluck_floor_pen_dad_margin
+bip_39_word_underscore_11: bread_husband_dial_knock_feed_pluck_floor_pen_dad_margin_venture
+bip_39_word_underscore_12: bread_husband_dial_knock_feed_pluck_floor_pen_dad_margin_venture_above
+bip_39_word_underscore_2: bread_husband
+bip_39_word_underscore_3: bread_husband_dial
+bip_39_word_underscore_4: bread_husband_dial_knock
+bip_39_word_underscore_5: bread_husband_dial_knock_feed
+bip_39_word_underscore_6: bread_husband_dial_knock_feed_pluck
+bip_39_word_underscore_7: bread_husband_dial_knock_feed_pluck_floor
+bip_39_word_underscore_8: bread_husband_dial_knock_feed_pluck_floor_pen
+bip_39_word_underscore_9: bread_husband_dial_knock_feed_pluck_floor_pen_dad
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

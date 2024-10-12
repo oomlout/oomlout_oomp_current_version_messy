@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | balcony |  
+| bip_39_word_dash_10 | balcony-chicken-capital-curtain-sort-awesome-fit-bag-guard-art |  
+| bip_39_word_dash_11 | balcony-chicken-capital-curtain-sort-awesome-fit-bag-guard-art-gallery |  
+| bip_39_word_dash_12 | balcony-chicken-capital-curtain-sort-awesome-fit-bag-guard-art-gallery-adjust |  
+| bip_39_word_dash_2 | balcony-chicken |  
+| bip_39_word_dash_3 | balcony-chicken-capital |  
+| bip_39_word_dash_4 | balcony-chicken-capital-curtain |  
+| bip_39_word_dash_5 | balcony-chicken-capital-curtain-sort |  
+| bip_39_word_dash_6 | balcony-chicken-capital-curtain-sort-awesome |  
+| bip_39_word_dash_7 | balcony-chicken-capital-curtain-sort-awesome-fit |  
+| bip_39_word_dash_8 | balcony-chicken-capital-curtain-sort-awesome-fit-bag |  
+| bip_39_word_dash_9 | balcony-chicken-capital-curtain-sort-awesome-fit-bag-guard |  
 | bip_39_word_new_br_1 | balcony |  
 | bip_39_word_new_br_10 | balcony<br>chicken<br>capital<br>curtain<br>sort<br>awesome<br>fit<br>bag<br>guard<br>art |  
 | bip_39_word_new_br_11 | balcony<br>chicken<br>capital<br>curtain<br>sort<br>awesome<br>fit<br>bag<br>guard<br>art<br>gallery |  
@@ -147,6 +159,18 @@ guard |
 | bip_39_word_space_7 | balcony chicken capital curtain sort awesome fit |  
 | bip_39_word_space_8 | balcony chicken capital curtain sort awesome fit bag |  
 | bip_39_word_space_9 | balcony chicken capital curtain sort awesome fit bag guard |  
+| bip_39_word_underscore_1 | balcony |  
+| bip_39_word_underscore_10 | balcony_chicken_capital_curtain_sort_awesome_fit_bag_guard_art |  
+| bip_39_word_underscore_11 | balcony_chicken_capital_curtain_sort_awesome_fit_bag_guard_art_gallery |  
+| bip_39_word_underscore_12 | balcony_chicken_capital_curtain_sort_awesome_fit_bag_guard_art_gallery_adjust |  
+| bip_39_word_underscore_2 | balcony_chicken |  
+| bip_39_word_underscore_3 | balcony_chicken_capital |  
+| bip_39_word_underscore_4 | balcony_chicken_capital_curtain |  
+| bip_39_word_underscore_5 | balcony_chicken_capital_curtain_sort |  
+| bip_39_word_underscore_6 | balcony_chicken_capital_curtain_sort_awesome |  
+| bip_39_word_underscore_7 | balcony_chicken_capital_curtain_sort_awesome_fit |  
+| bip_39_word_underscore_8 | balcony_chicken_capital_curtain_sort_awesome_fit_bag |  
+| bip_39_word_underscore_9 | balcony_chicken_capital_curtain_sort_awesome_fit_bag_guard |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

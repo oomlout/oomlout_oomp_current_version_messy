@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flat |  
+| bip_39_word_dash_10 | flat-doctor-ability-regret-time-card-napkin-frequent-target-unveil |  
+| bip_39_word_dash_11 | flat-doctor-ability-regret-time-card-napkin-frequent-target-unveil-garbage |  
+| bip_39_word_dash_12 | flat-doctor-ability-regret-time-card-napkin-frequent-target-unveil-garbage-around |  
+| bip_39_word_dash_2 | flat-doctor |  
+| bip_39_word_dash_3 | flat-doctor-ability |  
+| bip_39_word_dash_4 | flat-doctor-ability-regret |  
+| bip_39_word_dash_5 | flat-doctor-ability-regret-time |  
+| bip_39_word_dash_6 | flat-doctor-ability-regret-time-card |  
+| bip_39_word_dash_7 | flat-doctor-ability-regret-time-card-napkin |  
+| bip_39_word_dash_8 | flat-doctor-ability-regret-time-card-napkin-frequent |  
+| bip_39_word_dash_9 | flat-doctor-ability-regret-time-card-napkin-frequent-target |  
 | bip_39_word_new_br_1 | flat |  
 | bip_39_word_new_br_10 | flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil |  
 | bip_39_word_new_br_11 | flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil<br>garbage |  
@@ -147,6 +159,18 @@ target |
 | bip_39_word_space_7 | flat doctor ability regret time card napkin |  
 | bip_39_word_space_8 | flat doctor ability regret time card napkin frequent |  
 | bip_39_word_space_9 | flat doctor ability regret time card napkin frequent target |  
+| bip_39_word_underscore_1 | flat |  
+| bip_39_word_underscore_10 | flat_doctor_ability_regret_time_card_napkin_frequent_target_unveil |  
+| bip_39_word_underscore_11 | flat_doctor_ability_regret_time_card_napkin_frequent_target_unveil_garbage |  
+| bip_39_word_underscore_12 | flat_doctor_ability_regret_time_card_napkin_frequent_target_unveil_garbage_around |  
+| bip_39_word_underscore_2 | flat_doctor |  
+| bip_39_word_underscore_3 | flat_doctor_ability |  
+| bip_39_word_underscore_4 | flat_doctor_ability_regret |  
+| bip_39_word_underscore_5 | flat_doctor_ability_regret_time |  
+| bip_39_word_underscore_6 | flat_doctor_ability_regret_time_card |  
+| bip_39_word_underscore_7 | flat_doctor_ability_regret_time_card_napkin |  
+| bip_39_word_underscore_8 | flat_doctor_ability_regret_time_card_napkin_frequent |  
+| bip_39_word_underscore_9 | flat_doctor_ability_regret_time_card_napkin_frequent_target |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

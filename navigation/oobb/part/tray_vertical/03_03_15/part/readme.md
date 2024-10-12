@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brisk |  
+| bip_39_word_dash_10 | brisk-deputy-aim-asthma-favorite-kidney-sport-bacon-double-tilt |  
+| bip_39_word_dash_11 | brisk-deputy-aim-asthma-favorite-kidney-sport-bacon-double-tilt-wrap |  
+| bip_39_word_dash_12 | brisk-deputy-aim-asthma-favorite-kidney-sport-bacon-double-tilt-wrap-attitude |  
+| bip_39_word_dash_2 | brisk-deputy |  
+| bip_39_word_dash_3 | brisk-deputy-aim |  
+| bip_39_word_dash_4 | brisk-deputy-aim-asthma |  
+| bip_39_word_dash_5 | brisk-deputy-aim-asthma-favorite |  
+| bip_39_word_dash_6 | brisk-deputy-aim-asthma-favorite-kidney |  
+| bip_39_word_dash_7 | brisk-deputy-aim-asthma-favorite-kidney-sport |  
+| bip_39_word_dash_8 | brisk-deputy-aim-asthma-favorite-kidney-sport-bacon |  
+| bip_39_word_dash_9 | brisk-deputy-aim-asthma-favorite-kidney-sport-bacon-double |  
 | bip_39_word_new_br_1 | brisk |  
 | bip_39_word_new_br_10 | brisk<br>deputy<br>aim<br>asthma<br>favorite<br>kidney<br>sport<br>bacon<br>double<br>tilt |  
 | bip_39_word_new_br_11 | brisk<br>deputy<br>aim<br>asthma<br>favorite<br>kidney<br>sport<br>bacon<br>double<br>tilt<br>wrap |  
@@ -147,6 +159,18 @@ double |
 | bip_39_word_space_7 | brisk deputy aim asthma favorite kidney sport |  
 | bip_39_word_space_8 | brisk deputy aim asthma favorite kidney sport bacon |  
 | bip_39_word_space_9 | brisk deputy aim asthma favorite kidney sport bacon double |  
+| bip_39_word_underscore_1 | brisk |  
+| bip_39_word_underscore_10 | brisk_deputy_aim_asthma_favorite_kidney_sport_bacon_double_tilt |  
+| bip_39_word_underscore_11 | brisk_deputy_aim_asthma_favorite_kidney_sport_bacon_double_tilt_wrap |  
+| bip_39_word_underscore_12 | brisk_deputy_aim_asthma_favorite_kidney_sport_bacon_double_tilt_wrap_attitude |  
+| bip_39_word_underscore_2 | brisk_deputy |  
+| bip_39_word_underscore_3 | brisk_deputy_aim |  
+| bip_39_word_underscore_4 | brisk_deputy_aim_asthma |  
+| bip_39_word_underscore_5 | brisk_deputy_aim_asthma_favorite |  
+| bip_39_word_underscore_6 | brisk_deputy_aim_asthma_favorite_kidney |  
+| bip_39_word_underscore_7 | brisk_deputy_aim_asthma_favorite_kidney_sport |  
+| bip_39_word_underscore_8 | brisk_deputy_aim_asthma_favorite_kidney_sport_bacon |  
+| bip_39_word_underscore_9 | brisk_deputy_aim_asthma_favorite_kidney_sport_bacon_double |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clean
+bip_39_word_dash_10: clean-parade-public-situate-transfer-critic-quit-wrong-month-type
+bip_39_word_dash_11: clean-parade-public-situate-transfer-critic-quit-wrong-month-type-erupt
+bip_39_word_dash_12: clean-parade-public-situate-transfer-critic-quit-wrong-month-type-erupt-armed
+bip_39_word_dash_2: clean-parade
+bip_39_word_dash_3: clean-parade-public
+bip_39_word_dash_4: clean-parade-public-situate
+bip_39_word_dash_5: clean-parade-public-situate-transfer
+bip_39_word_dash_6: clean-parade-public-situate-transfer-critic
+bip_39_word_dash_7: clean-parade-public-situate-transfer-critic-quit
+bip_39_word_dash_8: clean-parade-public-situate-transfer-critic-quit-wrong
+bip_39_word_dash_9: clean-parade-public-situate-transfer-critic-quit-wrong-month
 bip_39_word_new_br_1: clean
 bip_39_word_new_br_10: clean<br>parade<br>public<br>situate<br>transfer<br>critic<br>quit<br>wrong<br>month<br>type
 bip_39_word_new_br_11: clean<br>parade<br>public<br>situate<br>transfer<br>critic<br>quit<br>wrong<br>month<br>type<br>erupt
@@ -194,6 +206,18 @@ bip_39_word_space_6: clean parade public situate transfer critic
 bip_39_word_space_7: clean parade public situate transfer critic quit
 bip_39_word_space_8: clean parade public situate transfer critic quit wrong
 bip_39_word_space_9: clean parade public situate transfer critic quit wrong month
+bip_39_word_underscore_1: clean
+bip_39_word_underscore_10: clean_parade_public_situate_transfer_critic_quit_wrong_month_type
+bip_39_word_underscore_11: clean_parade_public_situate_transfer_critic_quit_wrong_month_type_erupt
+bip_39_word_underscore_12: clean_parade_public_situate_transfer_critic_quit_wrong_month_type_erupt_armed
+bip_39_word_underscore_2: clean_parade
+bip_39_word_underscore_3: clean_parade_public
+bip_39_word_underscore_4: clean_parade_public_situate
+bip_39_word_underscore_5: clean_parade_public_situate_transfer
+bip_39_word_underscore_6: clean_parade_public_situate_transfer_critic
+bip_39_word_underscore_7: clean_parade_public_situate_transfer_critic_quit
+bip_39_word_underscore_8: clean_parade_public_situate_transfer_critic_quit_wrong
+bip_39_word_underscore_9: clean_parade_public_situate_transfer_critic_quit_wrong_month
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | winner |  
+| bip_39_word_dash_10 | winner-link-language-wait-expose-attend-office-antique-donkey-pepper |  
+| bip_39_word_dash_11 | winner-link-language-wait-expose-attend-office-antique-donkey-pepper-script |  
+| bip_39_word_dash_12 | winner-link-language-wait-expose-attend-office-antique-donkey-pepper-script-action |  
+| bip_39_word_dash_2 | winner-link |  
+| bip_39_word_dash_3 | winner-link-language |  
+| bip_39_word_dash_4 | winner-link-language-wait |  
+| bip_39_word_dash_5 | winner-link-language-wait-expose |  
+| bip_39_word_dash_6 | winner-link-language-wait-expose-attend |  
+| bip_39_word_dash_7 | winner-link-language-wait-expose-attend-office |  
+| bip_39_word_dash_8 | winner-link-language-wait-expose-attend-office-antique |  
+| bip_39_word_dash_9 | winner-link-language-wait-expose-attend-office-antique-donkey |  
 | bip_39_word_new_br_1 | winner |  
 | bip_39_word_new_br_10 | winner<br>link<br>language<br>wait<br>expose<br>attend<br>office<br>antique<br>donkey<br>pepper |  
 | bip_39_word_new_br_11 | winner<br>link<br>language<br>wait<br>expose<br>attend<br>office<br>antique<br>donkey<br>pepper<br>script |  
@@ -147,6 +159,18 @@ donkey |
 | bip_39_word_space_7 | winner link language wait expose attend office |  
 | bip_39_word_space_8 | winner link language wait expose attend office antique |  
 | bip_39_word_space_9 | winner link language wait expose attend office antique donkey |  
+| bip_39_word_underscore_1 | winner |  
+| bip_39_word_underscore_10 | winner_link_language_wait_expose_attend_office_antique_donkey_pepper |  
+| bip_39_word_underscore_11 | winner_link_language_wait_expose_attend_office_antique_donkey_pepper_script |  
+| bip_39_word_underscore_12 | winner_link_language_wait_expose_attend_office_antique_donkey_pepper_script_action |  
+| bip_39_word_underscore_2 | winner_link |  
+| bip_39_word_underscore_3 | winner_link_language |  
+| bip_39_word_underscore_4 | winner_link_language_wait |  
+| bip_39_word_underscore_5 | winner_link_language_wait_expose |  
+| bip_39_word_underscore_6 | winner_link_language_wait_expose_attend |  
+| bip_39_word_underscore_7 | winner_link_language_wait_expose_attend_office |  
+| bip_39_word_underscore_8 | winner_link_language_wait_expose_attend_office_antique |  
+| bip_39_word_underscore_9 | winner_link_language_wait_expose_attend_office_antique_donkey |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

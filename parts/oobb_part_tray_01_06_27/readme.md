@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | early |  
+| bip_39_word_dash_10 | early-pull-bless-lady-nuclear-crush-october-sauce-wrap-dizzy |  
+| bip_39_word_dash_11 | early-pull-bless-lady-nuclear-crush-october-sauce-wrap-dizzy-clean |  
+| bip_39_word_dash_12 | early-pull-bless-lady-nuclear-crush-october-sauce-wrap-dizzy-clean-august |  
+| bip_39_word_dash_2 | early-pull |  
+| bip_39_word_dash_3 | early-pull-bless |  
+| bip_39_word_dash_4 | early-pull-bless-lady |  
+| bip_39_word_dash_5 | early-pull-bless-lady-nuclear |  
+| bip_39_word_dash_6 | early-pull-bless-lady-nuclear-crush |  
+| bip_39_word_dash_7 | early-pull-bless-lady-nuclear-crush-october |  
+| bip_39_word_dash_8 | early-pull-bless-lady-nuclear-crush-october-sauce |  
+| bip_39_word_dash_9 | early-pull-bless-lady-nuclear-crush-october-sauce-wrap |  
 | bip_39_word_new_br_1 | early |  
 | bip_39_word_new_br_10 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy |  
 | bip_39_word_new_br_11 | early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy<br>clean |  
@@ -147,6 +159,18 @@ wrap |
 | bip_39_word_space_7 | early pull bless lady nuclear crush october |  
 | bip_39_word_space_8 | early pull bless lady nuclear crush october sauce |  
 | bip_39_word_space_9 | early pull bless lady nuclear crush october sauce wrap |  
+| bip_39_word_underscore_1 | early |  
+| bip_39_word_underscore_10 | early_pull_bless_lady_nuclear_crush_october_sauce_wrap_dizzy |  
+| bip_39_word_underscore_11 | early_pull_bless_lady_nuclear_crush_october_sauce_wrap_dizzy_clean |  
+| bip_39_word_underscore_12 | early_pull_bless_lady_nuclear_crush_october_sauce_wrap_dizzy_clean_august |  
+| bip_39_word_underscore_2 | early_pull |  
+| bip_39_word_underscore_3 | early_pull_bless |  
+| bip_39_word_underscore_4 | early_pull_bless_lady |  
+| bip_39_word_underscore_5 | early_pull_bless_lady_nuclear |  
+| bip_39_word_underscore_6 | early_pull_bless_lady_nuclear_crush |  
+| bip_39_word_underscore_7 | early_pull_bless_lady_nuclear_crush_october |  
+| bip_39_word_underscore_8 | early_pull_bless_lady_nuclear_crush_october_sauce |  
+| bip_39_word_underscore_9 | early_pull_bless_lady_nuclear_crush_october_sauce_wrap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

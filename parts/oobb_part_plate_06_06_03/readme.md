@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mixed |  
+| bip_39_word_dash_10 | mixed-cattle-damage-note-dolphin-plastic-fault-length-neglect-betray |  
+| bip_39_word_dash_11 | mixed-cattle-damage-note-dolphin-plastic-fault-length-neglect-betray-few |  
+| bip_39_word_dash_12 | mixed-cattle-damage-note-dolphin-plastic-fault-length-neglect-betray-few-august |  
+| bip_39_word_dash_2 | mixed-cattle |  
+| bip_39_word_dash_3 | mixed-cattle-damage |  
+| bip_39_word_dash_4 | mixed-cattle-damage-note |  
+| bip_39_word_dash_5 | mixed-cattle-damage-note-dolphin |  
+| bip_39_word_dash_6 | mixed-cattle-damage-note-dolphin-plastic |  
+| bip_39_word_dash_7 | mixed-cattle-damage-note-dolphin-plastic-fault |  
+| bip_39_word_dash_8 | mixed-cattle-damage-note-dolphin-plastic-fault-length |  
+| bip_39_word_dash_9 | mixed-cattle-damage-note-dolphin-plastic-fault-length-neglect |  
 | bip_39_word_new_br_1 | mixed |  
 | bip_39_word_new_br_10 | mixed<br>cattle<br>damage<br>note<br>dolphin<br>plastic<br>fault<br>length<br>neglect<br>betray |  
 | bip_39_word_new_br_11 | mixed<br>cattle<br>damage<br>note<br>dolphin<br>plastic<br>fault<br>length<br>neglect<br>betray<br>few |  
@@ -147,6 +159,18 @@ neglect |
 | bip_39_word_space_7 | mixed cattle damage note dolphin plastic fault |  
 | bip_39_word_space_8 | mixed cattle damage note dolphin plastic fault length |  
 | bip_39_word_space_9 | mixed cattle damage note dolphin plastic fault length neglect |  
+| bip_39_word_underscore_1 | mixed |  
+| bip_39_word_underscore_10 | mixed_cattle_damage_note_dolphin_plastic_fault_length_neglect_betray |  
+| bip_39_word_underscore_11 | mixed_cattle_damage_note_dolphin_plastic_fault_length_neglect_betray_few |  
+| bip_39_word_underscore_12 | mixed_cattle_damage_note_dolphin_plastic_fault_length_neglect_betray_few_august |  
+| bip_39_word_underscore_2 | mixed_cattle |  
+| bip_39_word_underscore_3 | mixed_cattle_damage |  
+| bip_39_word_underscore_4 | mixed_cattle_damage_note |  
+| bip_39_word_underscore_5 | mixed_cattle_damage_note_dolphin |  
+| bip_39_word_underscore_6 | mixed_cattle_damage_note_dolphin_plastic |  
+| bip_39_word_underscore_7 | mixed_cattle_damage_note_dolphin_plastic_fault |  
+| bip_39_word_underscore_8 | mixed_cattle_damage_note_dolphin_plastic_fault_length |  
+| bip_39_word_underscore_9 | mixed_cattle_damage_note_dolphin_plastic_fault_length_neglect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

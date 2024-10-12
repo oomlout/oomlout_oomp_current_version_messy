@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | price |  
+| bip_39_word_dash_10 | price-fresh-digital-want-song-comfort-benefit-budget-fog-salute |  
+| bip_39_word_dash_11 | price-fresh-digital-want-song-comfort-benefit-budget-fog-salute-carry |  
+| bip_39_word_dash_12 | price-fresh-digital-want-song-comfort-benefit-budget-fog-salute-carry-allow |  
+| bip_39_word_dash_2 | price-fresh |  
+| bip_39_word_dash_3 | price-fresh-digital |  
+| bip_39_word_dash_4 | price-fresh-digital-want |  
+| bip_39_word_dash_5 | price-fresh-digital-want-song |  
+| bip_39_word_dash_6 | price-fresh-digital-want-song-comfort |  
+| bip_39_word_dash_7 | price-fresh-digital-want-song-comfort-benefit |  
+| bip_39_word_dash_8 | price-fresh-digital-want-song-comfort-benefit-budget |  
+| bip_39_word_dash_9 | price-fresh-digital-want-song-comfort-benefit-budget-fog |  
 | bip_39_word_new_br_1 | price |  
 | bip_39_word_new_br_10 | price<br>fresh<br>digital<br>want<br>song<br>comfort<br>benefit<br>budget<br>fog<br>salute |  
 | bip_39_word_new_br_11 | price<br>fresh<br>digital<br>want<br>song<br>comfort<br>benefit<br>budget<br>fog<br>salute<br>carry |  
@@ -147,6 +159,18 @@ fog |
 | bip_39_word_space_7 | price fresh digital want song comfort benefit |  
 | bip_39_word_space_8 | price fresh digital want song comfort benefit budget |  
 | bip_39_word_space_9 | price fresh digital want song comfort benefit budget fog |  
+| bip_39_word_underscore_1 | price |  
+| bip_39_word_underscore_10 | price_fresh_digital_want_song_comfort_benefit_budget_fog_salute |  
+| bip_39_word_underscore_11 | price_fresh_digital_want_song_comfort_benefit_budget_fog_salute_carry |  
+| bip_39_word_underscore_12 | price_fresh_digital_want_song_comfort_benefit_budget_fog_salute_carry_allow |  
+| bip_39_word_underscore_2 | price_fresh |  
+| bip_39_word_underscore_3 | price_fresh_digital |  
+| bip_39_word_underscore_4 | price_fresh_digital_want |  
+| bip_39_word_underscore_5 | price_fresh_digital_want_song |  
+| bip_39_word_underscore_6 | price_fresh_digital_want_song_comfort |  
+| bip_39_word_underscore_7 | price_fresh_digital_want_song_comfort_benefit |  
+| bip_39_word_underscore_8 | price_fresh_digital_want_song_comfort_benefit_budget |  
+| bip_39_word_underscore_9 | price_fresh_digital_want_song_comfort_benefit_budget_fog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

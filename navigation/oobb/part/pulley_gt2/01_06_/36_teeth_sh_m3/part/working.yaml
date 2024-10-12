@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pipe
+bip_39_word_dash_10: pipe-always-witness-choice-dismiss-decline-erase-drink-buyer-wild
+bip_39_word_dash_11: pipe-always-witness-choice-dismiss-decline-erase-drink-buyer-wild-action
+bip_39_word_dash_12: pipe-always-witness-choice-dismiss-decline-erase-drink-buyer-wild-action-ahead
+bip_39_word_dash_2: pipe-always
+bip_39_word_dash_3: pipe-always-witness
+bip_39_word_dash_4: pipe-always-witness-choice
+bip_39_word_dash_5: pipe-always-witness-choice-dismiss
+bip_39_word_dash_6: pipe-always-witness-choice-dismiss-decline
+bip_39_word_dash_7: pipe-always-witness-choice-dismiss-decline-erase
+bip_39_word_dash_8: pipe-always-witness-choice-dismiss-decline-erase-drink
+bip_39_word_dash_9: pipe-always-witness-choice-dismiss-decline-erase-drink-buyer
 bip_39_word_new_br_1: pipe
 bip_39_word_new_br_10: pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild
 bip_39_word_new_br_11: pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild<br>action
@@ -194,6 +206,18 @@ bip_39_word_space_6: pipe always witness choice dismiss decline
 bip_39_word_space_7: pipe always witness choice dismiss decline erase
 bip_39_word_space_8: pipe always witness choice dismiss decline erase drink
 bip_39_word_space_9: pipe always witness choice dismiss decline erase drink buyer
+bip_39_word_underscore_1: pipe
+bip_39_word_underscore_10: pipe_always_witness_choice_dismiss_decline_erase_drink_buyer_wild
+bip_39_word_underscore_11: pipe_always_witness_choice_dismiss_decline_erase_drink_buyer_wild_action
+bip_39_word_underscore_12: pipe_always_witness_choice_dismiss_decline_erase_drink_buyer_wild_action_ahead
+bip_39_word_underscore_2: pipe_always
+bip_39_word_underscore_3: pipe_always_witness
+bip_39_word_underscore_4: pipe_always_witness_choice
+bip_39_word_underscore_5: pipe_always_witness_choice_dismiss
+bip_39_word_underscore_6: pipe_always_witness_choice_dismiss_decline
+bip_39_word_underscore_7: pipe_always_witness_choice_dismiss_decline_erase
+bip_39_word_underscore_8: pipe_always_witness_choice_dismiss_decline_erase_drink
+bip_39_word_underscore_9: pipe_always_witness_choice_dismiss_decline_erase_drink_buyer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

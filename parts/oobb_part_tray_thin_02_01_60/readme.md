@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cinnamon |  
+| bip_39_word_dash_10 | cinnamon-reunion-argue-where-bright-badge-phone-trouble-craft-combine |  
+| bip_39_word_dash_11 | cinnamon-reunion-argue-where-bright-badge-phone-trouble-craft-combine-room |  
+| bip_39_word_dash_12 | cinnamon-reunion-argue-where-bright-badge-phone-trouble-craft-combine-room-accuse |  
+| bip_39_word_dash_2 | cinnamon-reunion |  
+| bip_39_word_dash_3 | cinnamon-reunion-argue |  
+| bip_39_word_dash_4 | cinnamon-reunion-argue-where |  
+| bip_39_word_dash_5 | cinnamon-reunion-argue-where-bright |  
+| bip_39_word_dash_6 | cinnamon-reunion-argue-where-bright-badge |  
+| bip_39_word_dash_7 | cinnamon-reunion-argue-where-bright-badge-phone |  
+| bip_39_word_dash_8 | cinnamon-reunion-argue-where-bright-badge-phone-trouble |  
+| bip_39_word_dash_9 | cinnamon-reunion-argue-where-bright-badge-phone-trouble-craft |  
 | bip_39_word_new_br_1 | cinnamon |  
 | bip_39_word_new_br_10 | cinnamon<br>reunion<br>argue<br>where<br>bright<br>badge<br>phone<br>trouble<br>craft<br>combine |  
 | bip_39_word_new_br_11 | cinnamon<br>reunion<br>argue<br>where<br>bright<br>badge<br>phone<br>trouble<br>craft<br>combine<br>room |  
@@ -147,6 +159,18 @@ craft |
 | bip_39_word_space_7 | cinnamon reunion argue where bright badge phone |  
 | bip_39_word_space_8 | cinnamon reunion argue where bright badge phone trouble |  
 | bip_39_word_space_9 | cinnamon reunion argue where bright badge phone trouble craft |  
+| bip_39_word_underscore_1 | cinnamon |  
+| bip_39_word_underscore_10 | cinnamon_reunion_argue_where_bright_badge_phone_trouble_craft_combine |  
+| bip_39_word_underscore_11 | cinnamon_reunion_argue_where_bright_badge_phone_trouble_craft_combine_room |  
+| bip_39_word_underscore_12 | cinnamon_reunion_argue_where_bright_badge_phone_trouble_craft_combine_room_accuse |  
+| bip_39_word_underscore_2 | cinnamon_reunion |  
+| bip_39_word_underscore_3 | cinnamon_reunion_argue |  
+| bip_39_word_underscore_4 | cinnamon_reunion_argue_where |  
+| bip_39_word_underscore_5 | cinnamon_reunion_argue_where_bright |  
+| bip_39_word_underscore_6 | cinnamon_reunion_argue_where_bright_badge |  
+| bip_39_word_underscore_7 | cinnamon_reunion_argue_where_bright_badge_phone |  
+| bip_39_word_underscore_8 | cinnamon_reunion_argue_where_bright_badge_phone_trouble |  
+| bip_39_word_underscore_9 | cinnamon_reunion_argue_where_bright_badge_phone_trouble_craft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

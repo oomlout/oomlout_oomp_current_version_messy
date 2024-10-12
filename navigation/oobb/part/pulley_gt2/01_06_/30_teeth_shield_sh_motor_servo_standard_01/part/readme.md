@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wave |  
+| bip_39_word_dash_10 | wave-favorite-spice-distance-ecology-program-dose-senior-grow-dress |  
+| bip_39_word_dash_11 | wave-favorite-spice-distance-ecology-program-dose-senior-grow-dress-shell |  
+| bip_39_word_dash_12 | wave-favorite-spice-distance-ecology-program-dose-senior-grow-dress-shell-attack |  
+| bip_39_word_dash_2 | wave-favorite |  
+| bip_39_word_dash_3 | wave-favorite-spice |  
+| bip_39_word_dash_4 | wave-favorite-spice-distance |  
+| bip_39_word_dash_5 | wave-favorite-spice-distance-ecology |  
+| bip_39_word_dash_6 | wave-favorite-spice-distance-ecology-program |  
+| bip_39_word_dash_7 | wave-favorite-spice-distance-ecology-program-dose |  
+| bip_39_word_dash_8 | wave-favorite-spice-distance-ecology-program-dose-senior |  
+| bip_39_word_dash_9 | wave-favorite-spice-distance-ecology-program-dose-senior-grow |  
 | bip_39_word_new_br_1 | wave |  
 | bip_39_word_new_br_10 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior<br>grow<br>dress |  
 | bip_39_word_new_br_11 | wave<br>favorite<br>spice<br>distance<br>ecology<br>program<br>dose<br>senior<br>grow<br>dress<br>shell |  
@@ -147,6 +159,18 @@ grow |
 | bip_39_word_space_7 | wave favorite spice distance ecology program dose |  
 | bip_39_word_space_8 | wave favorite spice distance ecology program dose senior |  
 | bip_39_word_space_9 | wave favorite spice distance ecology program dose senior grow |  
+| bip_39_word_underscore_1 | wave |  
+| bip_39_word_underscore_10 | wave_favorite_spice_distance_ecology_program_dose_senior_grow_dress |  
+| bip_39_word_underscore_11 | wave_favorite_spice_distance_ecology_program_dose_senior_grow_dress_shell |  
+| bip_39_word_underscore_12 | wave_favorite_spice_distance_ecology_program_dose_senior_grow_dress_shell_attack |  
+| bip_39_word_underscore_2 | wave_favorite |  
+| bip_39_word_underscore_3 | wave_favorite_spice |  
+| bip_39_word_underscore_4 | wave_favorite_spice_distance |  
+| bip_39_word_underscore_5 | wave_favorite_spice_distance_ecology |  
+| bip_39_word_underscore_6 | wave_favorite_spice_distance_ecology_program |  
+| bip_39_word_underscore_7 | wave_favorite_spice_distance_ecology_program_dose |  
+| bip_39_word_underscore_8 | wave_favorite_spice_distance_ecology_program_dose_senior |  
+| bip_39_word_underscore_9 | wave_favorite_spice_distance_ecology_program_dose_senior_grow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

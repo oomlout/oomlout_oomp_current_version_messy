@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | this |  
+| bip_39_word_dash_10 | this-garage-view-flip-slush-goddess-tape-net-shadow-cube |  
+| bip_39_word_dash_11 | this-garage-view-flip-slush-goddess-tape-net-shadow-cube-dose |  
+| bip_39_word_dash_12 | this-garage-view-flip-slush-goddess-tape-net-shadow-cube-dose-absent |  
+| bip_39_word_dash_2 | this-garage |  
+| bip_39_word_dash_3 | this-garage-view |  
+| bip_39_word_dash_4 | this-garage-view-flip |  
+| bip_39_word_dash_5 | this-garage-view-flip-slush |  
+| bip_39_word_dash_6 | this-garage-view-flip-slush-goddess |  
+| bip_39_word_dash_7 | this-garage-view-flip-slush-goddess-tape |  
+| bip_39_word_dash_8 | this-garage-view-flip-slush-goddess-tape-net |  
+| bip_39_word_dash_9 | this-garage-view-flip-slush-goddess-tape-net-shadow |  
 | bip_39_word_new_br_1 | this |  
 | bip_39_word_new_br_10 | this<br>garage<br>view<br>flip<br>slush<br>goddess<br>tape<br>net<br>shadow<br>cube |  
 | bip_39_word_new_br_11 | this<br>garage<br>view<br>flip<br>slush<br>goddess<br>tape<br>net<br>shadow<br>cube<br>dose |  
@@ -147,6 +159,18 @@ shadow |
 | bip_39_word_space_7 | this garage view flip slush goddess tape |  
 | bip_39_word_space_8 | this garage view flip slush goddess tape net |  
 | bip_39_word_space_9 | this garage view flip slush goddess tape net shadow |  
+| bip_39_word_underscore_1 | this |  
+| bip_39_word_underscore_10 | this_garage_view_flip_slush_goddess_tape_net_shadow_cube |  
+| bip_39_word_underscore_11 | this_garage_view_flip_slush_goddess_tape_net_shadow_cube_dose |  
+| bip_39_word_underscore_12 | this_garage_view_flip_slush_goddess_tape_net_shadow_cube_dose_absent |  
+| bip_39_word_underscore_2 | this_garage |  
+| bip_39_word_underscore_3 | this_garage_view |  
+| bip_39_word_underscore_4 | this_garage_view_flip |  
+| bip_39_word_underscore_5 | this_garage_view_flip_slush |  
+| bip_39_word_underscore_6 | this_garage_view_flip_slush_goddess |  
+| bip_39_word_underscore_7 | this_garage_view_flip_slush_goddess_tape |  
+| bip_39_word_underscore_8 | this_garage_view_flip_slush_goddess_tape_net |  
+| bip_39_word_underscore_9 | this_garage_view_flip_slush_goddess_tape_net_shadow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

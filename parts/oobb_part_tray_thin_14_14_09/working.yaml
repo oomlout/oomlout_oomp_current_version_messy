@@ -1,3 +1,15 @@
+bip_39_word_dash_1: parent
+bip_39_word_dash_10: parent-beach-cancel-leisure-popular-egg-security-occur-image-lonely
+bip_39_word_dash_11: parent-beach-cancel-leisure-popular-egg-security-occur-image-lonely-card
+bip_39_word_dash_12: parent-beach-cancel-leisure-popular-egg-security-occur-image-lonely-card-amazing
+bip_39_word_dash_2: parent-beach
+bip_39_word_dash_3: parent-beach-cancel
+bip_39_word_dash_4: parent-beach-cancel-leisure
+bip_39_word_dash_5: parent-beach-cancel-leisure-popular
+bip_39_word_dash_6: parent-beach-cancel-leisure-popular-egg
+bip_39_word_dash_7: parent-beach-cancel-leisure-popular-egg-security
+bip_39_word_dash_8: parent-beach-cancel-leisure-popular-egg-security-occur
+bip_39_word_dash_9: parent-beach-cancel-leisure-popular-egg-security-occur-image
 bip_39_word_new_br_1: parent
 bip_39_word_new_br_10: parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely
 bip_39_word_new_br_11: parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely<br>card
@@ -194,6 +206,18 @@ bip_39_word_space_6: parent beach cancel leisure popular egg
 bip_39_word_space_7: parent beach cancel leisure popular egg security
 bip_39_word_space_8: parent beach cancel leisure popular egg security occur
 bip_39_word_space_9: parent beach cancel leisure popular egg security occur image
+bip_39_word_underscore_1: parent
+bip_39_word_underscore_10: parent_beach_cancel_leisure_popular_egg_security_occur_image_lonely
+bip_39_word_underscore_11: parent_beach_cancel_leisure_popular_egg_security_occur_image_lonely_card
+bip_39_word_underscore_12: parent_beach_cancel_leisure_popular_egg_security_occur_image_lonely_card_amazing
+bip_39_word_underscore_2: parent_beach
+bip_39_word_underscore_3: parent_beach_cancel
+bip_39_word_underscore_4: parent_beach_cancel_leisure
+bip_39_word_underscore_5: parent_beach_cancel_leisure_popular
+bip_39_word_underscore_6: parent_beach_cancel_leisure_popular_egg
+bip_39_word_underscore_7: parent_beach_cancel_leisure_popular_egg_security
+bip_39_word_underscore_8: parent_beach_cancel_leisure_popular_egg_security_occur
+bip_39_word_underscore_9: parent_beach_cancel_leisure_popular_egg_security_occur_image
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

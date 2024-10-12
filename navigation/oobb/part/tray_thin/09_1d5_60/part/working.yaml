@@ -1,3 +1,15 @@
+bip_39_word_dash_1: emerge
+bip_39_word_dash_10: emerge-cotton-extra-rather-flock-hood-ridge-panther-praise-anxiety
+bip_39_word_dash_11: emerge-cotton-extra-rather-flock-hood-ridge-panther-praise-anxiety-female
+bip_39_word_dash_12: emerge-cotton-extra-rather-flock-hood-ridge-panther-praise-anxiety-female-actress
+bip_39_word_dash_2: emerge-cotton
+bip_39_word_dash_3: emerge-cotton-extra
+bip_39_word_dash_4: emerge-cotton-extra-rather
+bip_39_word_dash_5: emerge-cotton-extra-rather-flock
+bip_39_word_dash_6: emerge-cotton-extra-rather-flock-hood
+bip_39_word_dash_7: emerge-cotton-extra-rather-flock-hood-ridge
+bip_39_word_dash_8: emerge-cotton-extra-rather-flock-hood-ridge-panther
+bip_39_word_dash_9: emerge-cotton-extra-rather-flock-hood-ridge-panther-praise
 bip_39_word_new_br_1: emerge
 bip_39_word_new_br_10: emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther<br>praise<br>anxiety
 bip_39_word_new_br_11: emerge<br>cotton<br>extra<br>rather<br>flock<br>hood<br>ridge<br>panther<br>praise<br>anxiety<br>female
@@ -193,6 +205,18 @@ bip_39_word_space_6: emerge cotton extra rather flock hood
 bip_39_word_space_7: emerge cotton extra rather flock hood ridge
 bip_39_word_space_8: emerge cotton extra rather flock hood ridge panther
 bip_39_word_space_9: emerge cotton extra rather flock hood ridge panther praise
+bip_39_word_underscore_1: emerge
+bip_39_word_underscore_10: emerge_cotton_extra_rather_flock_hood_ridge_panther_praise_anxiety
+bip_39_word_underscore_11: emerge_cotton_extra_rather_flock_hood_ridge_panther_praise_anxiety_female
+bip_39_word_underscore_12: emerge_cotton_extra_rather_flock_hood_ridge_panther_praise_anxiety_female_actress
+bip_39_word_underscore_2: emerge_cotton
+bip_39_word_underscore_3: emerge_cotton_extra
+bip_39_word_underscore_4: emerge_cotton_extra_rather
+bip_39_word_underscore_5: emerge_cotton_extra_rather_flock
+bip_39_word_underscore_6: emerge_cotton_extra_rather_flock_hood
+bip_39_word_underscore_7: emerge_cotton_extra_rather_flock_hood_ridge
+bip_39_word_underscore_8: emerge_cotton_extra_rather_flock_hood_ridge_panther
+bip_39_word_underscore_9: emerge_cotton_extra_rather_flock_hood_ridge_panther_praise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

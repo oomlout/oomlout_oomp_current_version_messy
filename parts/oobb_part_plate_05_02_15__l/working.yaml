@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gauge
+bip_39_word_dash_10: gauge-host-crew-debris-castle-sun-artwork-lens-nest-rail
+bip_39_word_dash_11: gauge-host-crew-debris-castle-sun-artwork-lens-nest-rail-diesel
+bip_39_word_dash_12: gauge-host-crew-debris-castle-sun-artwork-lens-nest-rail-diesel-artwork
+bip_39_word_dash_2: gauge-host
+bip_39_word_dash_3: gauge-host-crew
+bip_39_word_dash_4: gauge-host-crew-debris
+bip_39_word_dash_5: gauge-host-crew-debris-castle
+bip_39_word_dash_6: gauge-host-crew-debris-castle-sun
+bip_39_word_dash_7: gauge-host-crew-debris-castle-sun-artwork
+bip_39_word_dash_8: gauge-host-crew-debris-castle-sun-artwork-lens
+bip_39_word_dash_9: gauge-host-crew-debris-castle-sun-artwork-lens-nest
 bip_39_word_new_br_1: gauge
 bip_39_word_new_br_10: gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens<br>nest<br>rail
 bip_39_word_new_br_11: gauge<br>host<br>crew<br>debris<br>castle<br>sun<br>artwork<br>lens<br>nest<br>rail<br>diesel
@@ -192,6 +204,18 @@ bip_39_word_space_6: gauge host crew debris castle sun
 bip_39_word_space_7: gauge host crew debris castle sun artwork
 bip_39_word_space_8: gauge host crew debris castle sun artwork lens
 bip_39_word_space_9: gauge host crew debris castle sun artwork lens nest
+bip_39_word_underscore_1: gauge
+bip_39_word_underscore_10: gauge_host_crew_debris_castle_sun_artwork_lens_nest_rail
+bip_39_word_underscore_11: gauge_host_crew_debris_castle_sun_artwork_lens_nest_rail_diesel
+bip_39_word_underscore_12: gauge_host_crew_debris_castle_sun_artwork_lens_nest_rail_diesel_artwork
+bip_39_word_underscore_2: gauge_host
+bip_39_word_underscore_3: gauge_host_crew
+bip_39_word_underscore_4: gauge_host_crew_debris
+bip_39_word_underscore_5: gauge_host_crew_debris_castle
+bip_39_word_underscore_6: gauge_host_crew_debris_castle_sun
+bip_39_word_underscore_7: gauge_host_crew_debris_castle_sun_artwork
+bip_39_word_underscore_8: gauge_host_crew_debris_castle_sun_artwork_lens
+bip_39_word_underscore_9: gauge_host_crew_debris_castle_sun_artwork_lens_nest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rely
+bip_39_word_dash_10: rely-name-anger-noise-bronze-caution-mistake-tornado-damp-force
+bip_39_word_dash_11: rely-name-anger-noise-bronze-caution-mistake-tornado-damp-force-network
+bip_39_word_dash_12: rely-name-anger-noise-bronze-caution-mistake-tornado-damp-force-network-april
+bip_39_word_dash_2: rely-name
+bip_39_word_dash_3: rely-name-anger
+bip_39_word_dash_4: rely-name-anger-noise
+bip_39_word_dash_5: rely-name-anger-noise-bronze
+bip_39_word_dash_6: rely-name-anger-noise-bronze-caution
+bip_39_word_dash_7: rely-name-anger-noise-bronze-caution-mistake
+bip_39_word_dash_8: rely-name-anger-noise-bronze-caution-mistake-tornado
+bip_39_word_dash_9: rely-name-anger-noise-bronze-caution-mistake-tornado-damp
 bip_39_word_new_br_1: rely
 bip_39_word_new_br_10: rely<br>name<br>anger<br>noise<br>bronze<br>caution<br>mistake<br>tornado<br>damp<br>force
 bip_39_word_new_br_11: rely<br>name<br>anger<br>noise<br>bronze<br>caution<br>mistake<br>tornado<br>damp<br>force<br>network
@@ -193,6 +205,18 @@ bip_39_word_space_6: rely name anger noise bronze caution
 bip_39_word_space_7: rely name anger noise bronze caution mistake
 bip_39_word_space_8: rely name anger noise bronze caution mistake tornado
 bip_39_word_space_9: rely name anger noise bronze caution mistake tornado damp
+bip_39_word_underscore_1: rely
+bip_39_word_underscore_10: rely_name_anger_noise_bronze_caution_mistake_tornado_damp_force
+bip_39_word_underscore_11: rely_name_anger_noise_bronze_caution_mistake_tornado_damp_force_network
+bip_39_word_underscore_12: rely_name_anger_noise_bronze_caution_mistake_tornado_damp_force_network_april
+bip_39_word_underscore_2: rely_name
+bip_39_word_underscore_3: rely_name_anger
+bip_39_word_underscore_4: rely_name_anger_noise
+bip_39_word_underscore_5: rely_name_anger_noise_bronze
+bip_39_word_underscore_6: rely_name_anger_noise_bronze_caution
+bip_39_word_underscore_7: rely_name_anger_noise_bronze_caution_mistake
+bip_39_word_underscore_8: rely_name_anger_noise_bronze_caution_mistake_tornado
+bip_39_word_underscore_9: rely_name_anger_noise_bronze_caution_mistake_tornado_damp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

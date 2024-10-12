@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebuild |  
+| bip_39_word_dash_10 | rebuild-floor-armor-top-much-deliver-flight-unusual-link-keep |  
+| bip_39_word_dash_11 | rebuild-floor-armor-top-much-deliver-flight-unusual-link-keep-leave |  
+| bip_39_word_dash_12 | rebuild-floor-armor-top-much-deliver-flight-unusual-link-keep-leave-allow |  
+| bip_39_word_dash_2 | rebuild-floor |  
+| bip_39_word_dash_3 | rebuild-floor-armor |  
+| bip_39_word_dash_4 | rebuild-floor-armor-top |  
+| bip_39_word_dash_5 | rebuild-floor-armor-top-much |  
+| bip_39_word_dash_6 | rebuild-floor-armor-top-much-deliver |  
+| bip_39_word_dash_7 | rebuild-floor-armor-top-much-deliver-flight |  
+| bip_39_word_dash_8 | rebuild-floor-armor-top-much-deliver-flight-unusual |  
+| bip_39_word_dash_9 | rebuild-floor-armor-top-much-deliver-flight-unusual-link |  
 | bip_39_word_new_br_1 | rebuild |  
 | bip_39_word_new_br_10 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual<br>link<br>keep |  
 | bip_39_word_new_br_11 | rebuild<br>floor<br>armor<br>top<br>much<br>deliver<br>flight<br>unusual<br>link<br>keep<br>leave |  
@@ -147,6 +159,18 @@ link |
 | bip_39_word_space_7 | rebuild floor armor top much deliver flight |  
 | bip_39_word_space_8 | rebuild floor armor top much deliver flight unusual |  
 | bip_39_word_space_9 | rebuild floor armor top much deliver flight unusual link |  
+| bip_39_word_underscore_1 | rebuild |  
+| bip_39_word_underscore_10 | rebuild_floor_armor_top_much_deliver_flight_unusual_link_keep |  
+| bip_39_word_underscore_11 | rebuild_floor_armor_top_much_deliver_flight_unusual_link_keep_leave |  
+| bip_39_word_underscore_12 | rebuild_floor_armor_top_much_deliver_flight_unusual_link_keep_leave_allow |  
+| bip_39_word_underscore_2 | rebuild_floor |  
+| bip_39_word_underscore_3 | rebuild_floor_armor |  
+| bip_39_word_underscore_4 | rebuild_floor_armor_top |  
+| bip_39_word_underscore_5 | rebuild_floor_armor_top_much |  
+| bip_39_word_underscore_6 | rebuild_floor_armor_top_much_deliver |  
+| bip_39_word_underscore_7 | rebuild_floor_armor_top_much_deliver_flight |  
+| bip_39_word_underscore_8 | rebuild_floor_armor_top_much_deliver_flight_unusual |  
+| bip_39_word_underscore_9 | rebuild_floor_armor_top_much_deliver_flight_unusual_link |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

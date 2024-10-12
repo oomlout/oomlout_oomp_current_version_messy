@@ -1,3 +1,15 @@
+bip_39_word_dash_1: noble
+bip_39_word_dash_10: noble-glide-trumpet-horror-endless-more-because-list-oval-decade
+bip_39_word_dash_11: noble-glide-trumpet-horror-endless-more-because-list-oval-decade-stage
+bip_39_word_dash_12: noble-glide-trumpet-horror-endless-more-because-list-oval-decade-stage-actress
+bip_39_word_dash_2: noble-glide
+bip_39_word_dash_3: noble-glide-trumpet
+bip_39_word_dash_4: noble-glide-trumpet-horror
+bip_39_word_dash_5: noble-glide-trumpet-horror-endless
+bip_39_word_dash_6: noble-glide-trumpet-horror-endless-more
+bip_39_word_dash_7: noble-glide-trumpet-horror-endless-more-because
+bip_39_word_dash_8: noble-glide-trumpet-horror-endless-more-because-list
+bip_39_word_dash_9: noble-glide-trumpet-horror-endless-more-because-list-oval
 bip_39_word_new_br_1: noble
 bip_39_word_new_br_10: noble<br>glide<br>trumpet<br>horror<br>endless<br>more<br>because<br>list<br>oval<br>decade
 bip_39_word_new_br_11: noble<br>glide<br>trumpet<br>horror<br>endless<br>more<br>because<br>list<br>oval<br>decade<br>stage
@@ -193,6 +205,18 @@ bip_39_word_space_6: noble glide trumpet horror endless more
 bip_39_word_space_7: noble glide trumpet horror endless more because
 bip_39_word_space_8: noble glide trumpet horror endless more because list
 bip_39_word_space_9: noble glide trumpet horror endless more because list oval
+bip_39_word_underscore_1: noble
+bip_39_word_underscore_10: noble_glide_trumpet_horror_endless_more_because_list_oval_decade
+bip_39_word_underscore_11: noble_glide_trumpet_horror_endless_more_because_list_oval_decade_stage
+bip_39_word_underscore_12: noble_glide_trumpet_horror_endless_more_because_list_oval_decade_stage_actress
+bip_39_word_underscore_2: noble_glide
+bip_39_word_underscore_3: noble_glide_trumpet
+bip_39_word_underscore_4: noble_glide_trumpet_horror
+bip_39_word_underscore_5: noble_glide_trumpet_horror_endless
+bip_39_word_underscore_6: noble_glide_trumpet_horror_endless_more
+bip_39_word_underscore_7: noble_glide_trumpet_horror_endless_more_because
+bip_39_word_underscore_8: noble_glide_trumpet_horror_endless_more_because_list
+bip_39_word_underscore_9: noble_glide_trumpet_horror_endless_more_because_list_oval
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

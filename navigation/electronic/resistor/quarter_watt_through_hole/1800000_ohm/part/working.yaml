@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crucial
+bip_39_word_dash_10: crucial-under-process-cloth-fossil-assume-snake-false-reveal-alcohol
+bip_39_word_dash_11: crucial-under-process-cloth-fossil-assume-snake-false-reveal-alcohol-priority
+bip_39_word_dash_12: crucial-under-process-cloth-fossil-assume-snake-false-reveal-alcohol-priority-act
+bip_39_word_dash_2: crucial-under
+bip_39_word_dash_3: crucial-under-process
+bip_39_word_dash_4: crucial-under-process-cloth
+bip_39_word_dash_5: crucial-under-process-cloth-fossil
+bip_39_word_dash_6: crucial-under-process-cloth-fossil-assume
+bip_39_word_dash_7: crucial-under-process-cloth-fossil-assume-snake
+bip_39_word_dash_8: crucial-under-process-cloth-fossil-assume-snake-false
+bip_39_word_dash_9: crucial-under-process-cloth-fossil-assume-snake-false-reveal
 bip_39_word_new_br_1: crucial
 bip_39_word_new_br_10: crucial<br>under<br>process<br>cloth<br>fossil<br>assume<br>snake<br>false<br>reveal<br>alcohol
 bip_39_word_new_br_11: crucial<br>under<br>process<br>cloth<br>fossil<br>assume<br>snake<br>false<br>reveal<br>alcohol<br>priority
@@ -194,6 +206,18 @@ bip_39_word_space_6: crucial under process cloth fossil assume
 bip_39_word_space_7: crucial under process cloth fossil assume snake
 bip_39_word_space_8: crucial under process cloth fossil assume snake false
 bip_39_word_space_9: crucial under process cloth fossil assume snake false reveal
+bip_39_word_underscore_1: crucial
+bip_39_word_underscore_10: crucial_under_process_cloth_fossil_assume_snake_false_reveal_alcohol
+bip_39_word_underscore_11: crucial_under_process_cloth_fossil_assume_snake_false_reveal_alcohol_priority
+bip_39_word_underscore_12: crucial_under_process_cloth_fossil_assume_snake_false_reveal_alcohol_priority_act
+bip_39_word_underscore_2: crucial_under
+bip_39_word_underscore_3: crucial_under_process
+bip_39_word_underscore_4: crucial_under_process_cloth
+bip_39_word_underscore_5: crucial_under_process_cloth_fossil
+bip_39_word_underscore_6: crucial_under_process_cloth_fossil_assume
+bip_39_word_underscore_7: crucial_under_process_cloth_fossil_assume_snake
+bip_39_word_underscore_8: crucial_under_process_cloth_fossil_assume_snake_false
+bip_39_word_underscore_9: crucial_under_process_cloth_fossil_assume_snake_false_reveal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tennis |  
+| bip_39_word_dash_10 | tennis-aspect-license-any-day-stumble-shock-mixture-pride-onion |  
+| bip_39_word_dash_11 | tennis-aspect-license-any-day-stumble-shock-mixture-pride-onion-swamp |  
+| bip_39_word_dash_12 | tennis-aspect-license-any-day-stumble-shock-mixture-pride-onion-swamp-april |  
+| bip_39_word_dash_2 | tennis-aspect |  
+| bip_39_word_dash_3 | tennis-aspect-license |  
+| bip_39_word_dash_4 | tennis-aspect-license-any |  
+| bip_39_word_dash_5 | tennis-aspect-license-any-day |  
+| bip_39_word_dash_6 | tennis-aspect-license-any-day-stumble |  
+| bip_39_word_dash_7 | tennis-aspect-license-any-day-stumble-shock |  
+| bip_39_word_dash_8 | tennis-aspect-license-any-day-stumble-shock-mixture |  
+| bip_39_word_dash_9 | tennis-aspect-license-any-day-stumble-shock-mixture-pride |  
 | bip_39_word_new_br_1 | tennis |  
 | bip_39_word_new_br_10 | tennis<br>aspect<br>license<br>any<br>day<br>stumble<br>shock<br>mixture<br>pride<br>onion |  
 | bip_39_word_new_br_11 | tennis<br>aspect<br>license<br>any<br>day<br>stumble<br>shock<br>mixture<br>pride<br>onion<br>swamp |  
@@ -147,6 +159,18 @@ pride |
 | bip_39_word_space_7 | tennis aspect license any day stumble shock |  
 | bip_39_word_space_8 | tennis aspect license any day stumble shock mixture |  
 | bip_39_word_space_9 | tennis aspect license any day stumble shock mixture pride |  
+| bip_39_word_underscore_1 | tennis |  
+| bip_39_word_underscore_10 | tennis_aspect_license_any_day_stumble_shock_mixture_pride_onion |  
+| bip_39_word_underscore_11 | tennis_aspect_license_any_day_stumble_shock_mixture_pride_onion_swamp |  
+| bip_39_word_underscore_12 | tennis_aspect_license_any_day_stumble_shock_mixture_pride_onion_swamp_april |  
+| bip_39_word_underscore_2 | tennis_aspect |  
+| bip_39_word_underscore_3 | tennis_aspect_license |  
+| bip_39_word_underscore_4 | tennis_aspect_license_any |  
+| bip_39_word_underscore_5 | tennis_aspect_license_any_day |  
+| bip_39_word_underscore_6 | tennis_aspect_license_any_day_stumble |  
+| bip_39_word_underscore_7 | tennis_aspect_license_any_day_stumble_shock |  
+| bip_39_word_underscore_8 | tennis_aspect_license_any_day_stumble_shock_mixture |  
+| bip_39_word_underscore_9 | tennis_aspect_license_any_day_stumble_shock_mixture_pride |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

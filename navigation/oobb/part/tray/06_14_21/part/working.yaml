@@ -1,3 +1,15 @@
+bip_39_word_dash_1: desert
+bip_39_word_dash_10: desert-sword-amazing-kind-swear-obvious-favorite-kid-unfold-barely
+bip_39_word_dash_11: desert-sword-amazing-kind-swear-obvious-favorite-kid-unfold-barely-unfold
+bip_39_word_dash_12: desert-sword-amazing-kind-swear-obvious-favorite-kid-unfold-barely-unfold-arrow
+bip_39_word_dash_2: desert-sword
+bip_39_word_dash_3: desert-sword-amazing
+bip_39_word_dash_4: desert-sword-amazing-kind
+bip_39_word_dash_5: desert-sword-amazing-kind-swear
+bip_39_word_dash_6: desert-sword-amazing-kind-swear-obvious
+bip_39_word_dash_7: desert-sword-amazing-kind-swear-obvious-favorite
+bip_39_word_dash_8: desert-sword-amazing-kind-swear-obvious-favorite-kid
+bip_39_word_dash_9: desert-sword-amazing-kind-swear-obvious-favorite-kid-unfold
 bip_39_word_new_br_1: desert
 bip_39_word_new_br_10: desert<br>sword<br>amazing<br>kind<br>swear<br>obvious<br>favorite<br>kid<br>unfold<br>barely
 bip_39_word_new_br_11: desert<br>sword<br>amazing<br>kind<br>swear<br>obvious<br>favorite<br>kid<br>unfold<br>barely<br>unfold
@@ -194,6 +206,18 @@ bip_39_word_space_6: desert sword amazing kind swear obvious
 bip_39_word_space_7: desert sword amazing kind swear obvious favorite
 bip_39_word_space_8: desert sword amazing kind swear obvious favorite kid
 bip_39_word_space_9: desert sword amazing kind swear obvious favorite kid unfold
+bip_39_word_underscore_1: desert
+bip_39_word_underscore_10: desert_sword_amazing_kind_swear_obvious_favorite_kid_unfold_barely
+bip_39_word_underscore_11: desert_sword_amazing_kind_swear_obvious_favorite_kid_unfold_barely_unfold
+bip_39_word_underscore_12: desert_sword_amazing_kind_swear_obvious_favorite_kid_unfold_barely_unfold_arrow
+bip_39_word_underscore_2: desert_sword
+bip_39_word_underscore_3: desert_sword_amazing
+bip_39_word_underscore_4: desert_sword_amazing_kind
+bip_39_word_underscore_5: desert_sword_amazing_kind_swear
+bip_39_word_underscore_6: desert_sword_amazing_kind_swear_obvious
+bip_39_word_underscore_7: desert_sword_amazing_kind_swear_obvious_favorite
+bip_39_word_underscore_8: desert_sword_amazing_kind_swear_obvious_favorite_kid
+bip_39_word_underscore_9: desert_sword_amazing_kind_swear_obvious_favorite_kid_unfold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

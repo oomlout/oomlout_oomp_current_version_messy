@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | want |  
+| bip_39_word_dash_10 | want-consider-size-exile-praise-room-time-coffee-black-frame |  
+| bip_39_word_dash_11 | want-consider-size-exile-praise-room-time-coffee-black-frame-cupboard |  
+| bip_39_word_dash_12 | want-consider-size-exile-praise-room-time-coffee-black-frame-cupboard-actress |  
+| bip_39_word_dash_2 | want-consider |  
+| bip_39_word_dash_3 | want-consider-size |  
+| bip_39_word_dash_4 | want-consider-size-exile |  
+| bip_39_word_dash_5 | want-consider-size-exile-praise |  
+| bip_39_word_dash_6 | want-consider-size-exile-praise-room |  
+| bip_39_word_dash_7 | want-consider-size-exile-praise-room-time |  
+| bip_39_word_dash_8 | want-consider-size-exile-praise-room-time-coffee |  
+| bip_39_word_dash_9 | want-consider-size-exile-praise-room-time-coffee-black |  
 | bip_39_word_new_br_1 | want |  
 | bip_39_word_new_br_10 | want<br>consider<br>size<br>exile<br>praise<br>room<br>time<br>coffee<br>black<br>frame |  
 | bip_39_word_new_br_11 | want<br>consider<br>size<br>exile<br>praise<br>room<br>time<br>coffee<br>black<br>frame<br>cupboard |  
@@ -147,6 +159,18 @@ black |
 | bip_39_word_space_7 | want consider size exile praise room time |  
 | bip_39_word_space_8 | want consider size exile praise room time coffee |  
 | bip_39_word_space_9 | want consider size exile praise room time coffee black |  
+| bip_39_word_underscore_1 | want |  
+| bip_39_word_underscore_10 | want_consider_size_exile_praise_room_time_coffee_black_frame |  
+| bip_39_word_underscore_11 | want_consider_size_exile_praise_room_time_coffee_black_frame_cupboard |  
+| bip_39_word_underscore_12 | want_consider_size_exile_praise_room_time_coffee_black_frame_cupboard_actress |  
+| bip_39_word_underscore_2 | want_consider |  
+| bip_39_word_underscore_3 | want_consider_size |  
+| bip_39_word_underscore_4 | want_consider_size_exile |  
+| bip_39_word_underscore_5 | want_consider_size_exile_praise |  
+| bip_39_word_underscore_6 | want_consider_size_exile_praise_room |  
+| bip_39_word_underscore_7 | want_consider_size_exile_praise_room_time |  
+| bip_39_word_underscore_8 | want_consider_size_exile_praise_room_time_coffee |  
+| bip_39_word_underscore_9 | want_consider_size_exile_praise_room_time_coffee_black |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

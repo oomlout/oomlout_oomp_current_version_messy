@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exhaust
+bip_39_word_dash_10: exhaust-can-when-detail-major-elbow-road-salute-crop-goat
+bip_39_word_dash_11: exhaust-can-when-detail-major-elbow-road-salute-crop-goat-dismiss
+bip_39_word_dash_12: exhaust-can-when-detail-major-elbow-road-salute-crop-goat-dismiss-alone
+bip_39_word_dash_2: exhaust-can
+bip_39_word_dash_3: exhaust-can-when
+bip_39_word_dash_4: exhaust-can-when-detail
+bip_39_word_dash_5: exhaust-can-when-detail-major
+bip_39_word_dash_6: exhaust-can-when-detail-major-elbow
+bip_39_word_dash_7: exhaust-can-when-detail-major-elbow-road
+bip_39_word_dash_8: exhaust-can-when-detail-major-elbow-road-salute
+bip_39_word_dash_9: exhaust-can-when-detail-major-elbow-road-salute-crop
 bip_39_word_new_br_1: exhaust
 bip_39_word_new_br_10: exhaust<br>can<br>when<br>detail<br>major<br>elbow<br>road<br>salute<br>crop<br>goat
 bip_39_word_new_br_11: exhaust<br>can<br>when<br>detail<br>major<br>elbow<br>road<br>salute<br>crop<br>goat<br>dismiss
@@ -192,6 +204,18 @@ bip_39_word_space_6: exhaust can when detail major elbow
 bip_39_word_space_7: exhaust can when detail major elbow road
 bip_39_word_space_8: exhaust can when detail major elbow road salute
 bip_39_word_space_9: exhaust can when detail major elbow road salute crop
+bip_39_word_underscore_1: exhaust
+bip_39_word_underscore_10: exhaust_can_when_detail_major_elbow_road_salute_crop_goat
+bip_39_word_underscore_11: exhaust_can_when_detail_major_elbow_road_salute_crop_goat_dismiss
+bip_39_word_underscore_12: exhaust_can_when_detail_major_elbow_road_salute_crop_goat_dismiss_alone
+bip_39_word_underscore_2: exhaust_can
+bip_39_word_underscore_3: exhaust_can_when
+bip_39_word_underscore_4: exhaust_can_when_detail
+bip_39_word_underscore_5: exhaust_can_when_detail_major
+bip_39_word_underscore_6: exhaust_can_when_detail_major_elbow
+bip_39_word_underscore_7: exhaust_can_when_detail_major_elbow_road
+bip_39_word_underscore_8: exhaust_can_when_detail_major_elbow_road_salute
+bip_39_word_underscore_9: exhaust_can_when_detail_major_elbow_road_salute_crop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

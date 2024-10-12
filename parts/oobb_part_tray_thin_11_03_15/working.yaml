@@ -1,3 +1,15 @@
+bip_39_word_dash_1: degree
+bip_39_word_dash_10: degree-session-exhaust-anxiety-book-napkin-submit-portion-main-trumpet
+bip_39_word_dash_11: degree-session-exhaust-anxiety-book-napkin-submit-portion-main-trumpet-destroy
+bip_39_word_dash_12: degree-session-exhaust-anxiety-book-napkin-submit-portion-main-trumpet-destroy-asset
+bip_39_word_dash_2: degree-session
+bip_39_word_dash_3: degree-session-exhaust
+bip_39_word_dash_4: degree-session-exhaust-anxiety
+bip_39_word_dash_5: degree-session-exhaust-anxiety-book
+bip_39_word_dash_6: degree-session-exhaust-anxiety-book-napkin
+bip_39_word_dash_7: degree-session-exhaust-anxiety-book-napkin-submit
+bip_39_word_dash_8: degree-session-exhaust-anxiety-book-napkin-submit-portion
+bip_39_word_dash_9: degree-session-exhaust-anxiety-book-napkin-submit-portion-main
 bip_39_word_new_br_1: degree
 bip_39_word_new_br_10: degree<br>session<br>exhaust<br>anxiety<br>book<br>napkin<br>submit<br>portion<br>main<br>trumpet
 bip_39_word_new_br_11: degree<br>session<br>exhaust<br>anxiety<br>book<br>napkin<br>submit<br>portion<br>main<br>trumpet<br>destroy
@@ -194,6 +206,18 @@ bip_39_word_space_6: degree session exhaust anxiety book napkin
 bip_39_word_space_7: degree session exhaust anxiety book napkin submit
 bip_39_word_space_8: degree session exhaust anxiety book napkin submit portion
 bip_39_word_space_9: degree session exhaust anxiety book napkin submit portion main
+bip_39_word_underscore_1: degree
+bip_39_word_underscore_10: degree_session_exhaust_anxiety_book_napkin_submit_portion_main_trumpet
+bip_39_word_underscore_11: degree_session_exhaust_anxiety_book_napkin_submit_portion_main_trumpet_destroy
+bip_39_word_underscore_12: degree_session_exhaust_anxiety_book_napkin_submit_portion_main_trumpet_destroy_asset
+bip_39_word_underscore_2: degree_session
+bip_39_word_underscore_3: degree_session_exhaust
+bip_39_word_underscore_4: degree_session_exhaust_anxiety
+bip_39_word_underscore_5: degree_session_exhaust_anxiety_book
+bip_39_word_underscore_6: degree_session_exhaust_anxiety_book_napkin
+bip_39_word_underscore_7: degree_session_exhaust_anxiety_book_napkin_submit
+bip_39_word_underscore_8: degree_session_exhaust_anxiety_book_napkin_submit_portion
+bip_39_word_underscore_9: degree_session_exhaust_anxiety_book_napkin_submit_portion_main
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

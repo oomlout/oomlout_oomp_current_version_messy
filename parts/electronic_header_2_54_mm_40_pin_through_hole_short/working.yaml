@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bar
+bip_39_word_dash_10: bar-bitter-elevator-often-toward-convince-donate-danger-library-adult
+bip_39_word_dash_11: bar-bitter-elevator-often-toward-convince-donate-danger-library-adult-veteran
+bip_39_word_dash_12: bar-bitter-elevator-often-toward-convince-donate-danger-library-adult-veteran-any
+bip_39_word_dash_2: bar-bitter
+bip_39_word_dash_3: bar-bitter-elevator
+bip_39_word_dash_4: bar-bitter-elevator-often
+bip_39_word_dash_5: bar-bitter-elevator-often-toward
+bip_39_word_dash_6: bar-bitter-elevator-often-toward-convince
+bip_39_word_dash_7: bar-bitter-elevator-often-toward-convince-donate
+bip_39_word_dash_8: bar-bitter-elevator-often-toward-convince-donate-danger
+bip_39_word_dash_9: bar-bitter-elevator-often-toward-convince-donate-danger-library
 bip_39_word_new_br_1: bar
 bip_39_word_new_br_10: bar<br>bitter<br>elevator<br>often<br>toward<br>convince<br>donate<br>danger<br>library<br>adult
 bip_39_word_new_br_11: bar<br>bitter<br>elevator<br>often<br>toward<br>convince<br>donate<br>danger<br>library<br>adult<br>veteran
@@ -194,6 +206,18 @@ bip_39_word_space_6: bar bitter elevator often toward convince
 bip_39_word_space_7: bar bitter elevator often toward convince donate
 bip_39_word_space_8: bar bitter elevator often toward convince donate danger
 bip_39_word_space_9: bar bitter elevator often toward convince donate danger library
+bip_39_word_underscore_1: bar
+bip_39_word_underscore_10: bar_bitter_elevator_often_toward_convince_donate_danger_library_adult
+bip_39_word_underscore_11: bar_bitter_elevator_often_toward_convince_donate_danger_library_adult_veteran
+bip_39_word_underscore_12: bar_bitter_elevator_often_toward_convince_donate_danger_library_adult_veteran_any
+bip_39_word_underscore_2: bar_bitter
+bip_39_word_underscore_3: bar_bitter_elevator
+bip_39_word_underscore_4: bar_bitter_elevator_often
+bip_39_word_underscore_5: bar_bitter_elevator_often_toward
+bip_39_word_underscore_6: bar_bitter_elevator_often_toward_convince
+bip_39_word_underscore_7: bar_bitter_elevator_often_toward_convince_donate
+bip_39_word_underscore_8: bar_bitter_elevator_often_toward_convince_donate_danger
+bip_39_word_underscore_9: bar_bitter_elevator_often_toward_convince_donate_danger_library
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

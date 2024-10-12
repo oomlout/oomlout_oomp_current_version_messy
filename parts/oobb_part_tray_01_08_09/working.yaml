@@ -1,3 +1,15 @@
+bip_39_word_dash_1: knock
+bip_39_word_dash_10: knock-panther-apart-guard-acquire-expose-antique-monster-cloud-will
+bip_39_word_dash_11: knock-panther-apart-guard-acquire-expose-antique-monster-cloud-will-educate
+bip_39_word_dash_12: knock-panther-apart-guard-acquire-expose-antique-monster-cloud-will-educate-absorb
+bip_39_word_dash_2: knock-panther
+bip_39_word_dash_3: knock-panther-apart
+bip_39_word_dash_4: knock-panther-apart-guard
+bip_39_word_dash_5: knock-panther-apart-guard-acquire
+bip_39_word_dash_6: knock-panther-apart-guard-acquire-expose
+bip_39_word_dash_7: knock-panther-apart-guard-acquire-expose-antique
+bip_39_word_dash_8: knock-panther-apart-guard-acquire-expose-antique-monster
+bip_39_word_dash_9: knock-panther-apart-guard-acquire-expose-antique-monster-cloud
 bip_39_word_new_br_1: knock
 bip_39_word_new_br_10: knock<br>panther<br>apart<br>guard<br>acquire<br>expose<br>antique<br>monster<br>cloud<br>will
 bip_39_word_new_br_11: knock<br>panther<br>apart<br>guard<br>acquire<br>expose<br>antique<br>monster<br>cloud<br>will<br>educate
@@ -194,6 +206,18 @@ bip_39_word_space_6: knock panther apart guard acquire expose
 bip_39_word_space_7: knock panther apart guard acquire expose antique
 bip_39_word_space_8: knock panther apart guard acquire expose antique monster
 bip_39_word_space_9: knock panther apart guard acquire expose antique monster cloud
+bip_39_word_underscore_1: knock
+bip_39_word_underscore_10: knock_panther_apart_guard_acquire_expose_antique_monster_cloud_will
+bip_39_word_underscore_11: knock_panther_apart_guard_acquire_expose_antique_monster_cloud_will_educate
+bip_39_word_underscore_12: knock_panther_apart_guard_acquire_expose_antique_monster_cloud_will_educate_absorb
+bip_39_word_underscore_2: knock_panther
+bip_39_word_underscore_3: knock_panther_apart
+bip_39_word_underscore_4: knock_panther_apart_guard
+bip_39_word_underscore_5: knock_panther_apart_guard_acquire
+bip_39_word_underscore_6: knock_panther_apart_guard_acquire_expose
+bip_39_word_underscore_7: knock_panther_apart_guard_acquire_expose_antique
+bip_39_word_underscore_8: knock_panther_apart_guard_acquire_expose_antique_monster
+bip_39_word_underscore_9: knock_panther_apart_guard_acquire_expose_antique_monster_cloud
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: offer
+bip_39_word_dash_10: offer-shrimp-gloom-move-together-sweet-drip-village-child-crater
+bip_39_word_dash_11: offer-shrimp-gloom-move-together-sweet-drip-village-child-crater-april
+bip_39_word_dash_12: offer-shrimp-gloom-move-together-sweet-drip-village-child-crater-april-age
+bip_39_word_dash_2: offer-shrimp
+bip_39_word_dash_3: offer-shrimp-gloom
+bip_39_word_dash_4: offer-shrimp-gloom-move
+bip_39_word_dash_5: offer-shrimp-gloom-move-together
+bip_39_word_dash_6: offer-shrimp-gloom-move-together-sweet
+bip_39_word_dash_7: offer-shrimp-gloom-move-together-sweet-drip
+bip_39_word_dash_8: offer-shrimp-gloom-move-together-sweet-drip-village
+bip_39_word_dash_9: offer-shrimp-gloom-move-together-sweet-drip-village-child
 bip_39_word_new_br_1: offer
 bip_39_word_new_br_10: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village<br>child<br>crater
 bip_39_word_new_br_11: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village<br>child<br>crater<br>april
@@ -193,6 +205,18 @@ bip_39_word_space_6: offer shrimp gloom move together sweet
 bip_39_word_space_7: offer shrimp gloom move together sweet drip
 bip_39_word_space_8: offer shrimp gloom move together sweet drip village
 bip_39_word_space_9: offer shrimp gloom move together sweet drip village child
+bip_39_word_underscore_1: offer
+bip_39_word_underscore_10: offer_shrimp_gloom_move_together_sweet_drip_village_child_crater
+bip_39_word_underscore_11: offer_shrimp_gloom_move_together_sweet_drip_village_child_crater_april
+bip_39_word_underscore_12: offer_shrimp_gloom_move_together_sweet_drip_village_child_crater_april_age
+bip_39_word_underscore_2: offer_shrimp
+bip_39_word_underscore_3: offer_shrimp_gloom
+bip_39_word_underscore_4: offer_shrimp_gloom_move
+bip_39_word_underscore_5: offer_shrimp_gloom_move_together
+bip_39_word_underscore_6: offer_shrimp_gloom_move_together_sweet
+bip_39_word_underscore_7: offer_shrimp_gloom_move_together_sweet_drip
+bip_39_word_underscore_8: offer_shrimp_gloom_move_together_sweet_drip_village
+bip_39_word_underscore_9: offer_shrimp_gloom_move_together_sweet_drip_village_child
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

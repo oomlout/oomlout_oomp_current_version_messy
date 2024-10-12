@@ -1,3 +1,15 @@
+bip_39_word_dash_1: marble
+bip_39_word_dash_10: marble-rookie-join-turtle-victory-senior-scrub-hip-damp-donate
+bip_39_word_dash_11: marble-rookie-join-turtle-victory-senior-scrub-hip-damp-donate-couch
+bip_39_word_dash_12: marble-rookie-join-turtle-victory-senior-scrub-hip-damp-donate-couch-analyst
+bip_39_word_dash_2: marble-rookie
+bip_39_word_dash_3: marble-rookie-join
+bip_39_word_dash_4: marble-rookie-join-turtle
+bip_39_word_dash_5: marble-rookie-join-turtle-victory
+bip_39_word_dash_6: marble-rookie-join-turtle-victory-senior
+bip_39_word_dash_7: marble-rookie-join-turtle-victory-senior-scrub
+bip_39_word_dash_8: marble-rookie-join-turtle-victory-senior-scrub-hip
+bip_39_word_dash_9: marble-rookie-join-turtle-victory-senior-scrub-hip-damp
 bip_39_word_new_br_1: marble
 bip_39_word_new_br_10: marble<br>rookie<br>join<br>turtle<br>victory<br>senior<br>scrub<br>hip<br>damp<br>donate
 bip_39_word_new_br_11: marble<br>rookie<br>join<br>turtle<br>victory<br>senior<br>scrub<br>hip<br>damp<br>donate<br>couch
@@ -193,6 +205,18 @@ bip_39_word_space_6: marble rookie join turtle victory senior
 bip_39_word_space_7: marble rookie join turtle victory senior scrub
 bip_39_word_space_8: marble rookie join turtle victory senior scrub hip
 bip_39_word_space_9: marble rookie join turtle victory senior scrub hip damp
+bip_39_word_underscore_1: marble
+bip_39_word_underscore_10: marble_rookie_join_turtle_victory_senior_scrub_hip_damp_donate
+bip_39_word_underscore_11: marble_rookie_join_turtle_victory_senior_scrub_hip_damp_donate_couch
+bip_39_word_underscore_12: marble_rookie_join_turtle_victory_senior_scrub_hip_damp_donate_couch_analyst
+bip_39_word_underscore_2: marble_rookie
+bip_39_word_underscore_3: marble_rookie_join
+bip_39_word_underscore_4: marble_rookie_join_turtle
+bip_39_word_underscore_5: marble_rookie_join_turtle_victory
+bip_39_word_underscore_6: marble_rookie_join_turtle_victory_senior
+bip_39_word_underscore_7: marble_rookie_join_turtle_victory_senior_scrub
+bip_39_word_underscore_8: marble_rookie_join_turtle_victory_senior_scrub_hip
+bip_39_word_underscore_9: marble_rookie_join_turtle_victory_senior_scrub_hip_damp
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

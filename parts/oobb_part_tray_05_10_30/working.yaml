@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clip
+bip_39_word_dash_10: clip-garden-ten-salad-game-survey-false-kid-pause-royal
+bip_39_word_dash_11: clip-garden-ten-salad-game-survey-false-kid-pause-royal-elephant
+bip_39_word_dash_12: clip-garden-ten-salad-game-survey-false-kid-pause-royal-elephant-author
+bip_39_word_dash_2: clip-garden
+bip_39_word_dash_3: clip-garden-ten
+bip_39_word_dash_4: clip-garden-ten-salad
+bip_39_word_dash_5: clip-garden-ten-salad-game
+bip_39_word_dash_6: clip-garden-ten-salad-game-survey
+bip_39_word_dash_7: clip-garden-ten-salad-game-survey-false
+bip_39_word_dash_8: clip-garden-ten-salad-game-survey-false-kid
+bip_39_word_dash_9: clip-garden-ten-salad-game-survey-false-kid-pause
 bip_39_word_new_br_1: clip
 bip_39_word_new_br_10: clip<br>garden<br>ten<br>salad<br>game<br>survey<br>false<br>kid<br>pause<br>royal
 bip_39_word_new_br_11: clip<br>garden<br>ten<br>salad<br>game<br>survey<br>false<br>kid<br>pause<br>royal<br>elephant
@@ -192,6 +204,18 @@ bip_39_word_space_6: clip garden ten salad game survey
 bip_39_word_space_7: clip garden ten salad game survey false
 bip_39_word_space_8: clip garden ten salad game survey false kid
 bip_39_word_space_9: clip garden ten salad game survey false kid pause
+bip_39_word_underscore_1: clip
+bip_39_word_underscore_10: clip_garden_ten_salad_game_survey_false_kid_pause_royal
+bip_39_word_underscore_11: clip_garden_ten_salad_game_survey_false_kid_pause_royal_elephant
+bip_39_word_underscore_12: clip_garden_ten_salad_game_survey_false_kid_pause_royal_elephant_author
+bip_39_word_underscore_2: clip_garden
+bip_39_word_underscore_3: clip_garden_ten
+bip_39_word_underscore_4: clip_garden_ten_salad
+bip_39_word_underscore_5: clip_garden_ten_salad_game
+bip_39_word_underscore_6: clip_garden_ten_salad_game_survey
+bip_39_word_underscore_7: clip_garden_ten_salad_game_survey_false
+bip_39_word_underscore_8: clip_garden_ten_salad_game_survey_false_kid
+bip_39_word_underscore_9: clip_garden_ten_salad_game_survey_false_kid_pause
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

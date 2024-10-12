@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dinner
+bip_39_word_dash_10: dinner-inform-view-awesome-limb-chief-air-peasant-raven-prefer
+bip_39_word_dash_11: dinner-inform-view-awesome-limb-chief-air-peasant-raven-prefer-elbow
+bip_39_word_dash_12: dinner-inform-view-awesome-limb-chief-air-peasant-raven-prefer-elbow-arctic
+bip_39_word_dash_2: dinner-inform
+bip_39_word_dash_3: dinner-inform-view
+bip_39_word_dash_4: dinner-inform-view-awesome
+bip_39_word_dash_5: dinner-inform-view-awesome-limb
+bip_39_word_dash_6: dinner-inform-view-awesome-limb-chief
+bip_39_word_dash_7: dinner-inform-view-awesome-limb-chief-air
+bip_39_word_dash_8: dinner-inform-view-awesome-limb-chief-air-peasant
+bip_39_word_dash_9: dinner-inform-view-awesome-limb-chief-air-peasant-raven
 bip_39_word_new_br_1: dinner
 bip_39_word_new_br_10: dinner<br>inform<br>view<br>awesome<br>limb<br>chief<br>air<br>peasant<br>raven<br>prefer
 bip_39_word_new_br_11: dinner<br>inform<br>view<br>awesome<br>limb<br>chief<br>air<br>peasant<br>raven<br>prefer<br>elbow
@@ -193,6 +205,18 @@ bip_39_word_space_6: dinner inform view awesome limb chief
 bip_39_word_space_7: dinner inform view awesome limb chief air
 bip_39_word_space_8: dinner inform view awesome limb chief air peasant
 bip_39_word_space_9: dinner inform view awesome limb chief air peasant raven
+bip_39_word_underscore_1: dinner
+bip_39_word_underscore_10: dinner_inform_view_awesome_limb_chief_air_peasant_raven_prefer
+bip_39_word_underscore_11: dinner_inform_view_awesome_limb_chief_air_peasant_raven_prefer_elbow
+bip_39_word_underscore_12: dinner_inform_view_awesome_limb_chief_air_peasant_raven_prefer_elbow_arctic
+bip_39_word_underscore_2: dinner_inform
+bip_39_word_underscore_3: dinner_inform_view
+bip_39_word_underscore_4: dinner_inform_view_awesome
+bip_39_word_underscore_5: dinner_inform_view_awesome_limb
+bip_39_word_underscore_6: dinner_inform_view_awesome_limb_chief
+bip_39_word_underscore_7: dinner_inform_view_awesome_limb_chief_air
+bip_39_word_underscore_8: dinner_inform_view_awesome_limb_chief_air_peasant
+bip_39_word_underscore_9: dinner_inform_view_awesome_limb_chief_air_peasant_raven
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

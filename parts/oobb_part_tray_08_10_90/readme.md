@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | modify |  
+| bip_39_word_dash_10 | modify-pledge-castle-sphere-crop-elite-cargo-switch-carpet-muffin |  
+| bip_39_word_dash_11 | modify-pledge-castle-sphere-crop-elite-cargo-switch-carpet-muffin-wisdom |  
+| bip_39_word_dash_12 | modify-pledge-castle-sphere-crop-elite-cargo-switch-carpet-muffin-wisdom-aim |  
+| bip_39_word_dash_2 | modify-pledge |  
+| bip_39_word_dash_3 | modify-pledge-castle |  
+| bip_39_word_dash_4 | modify-pledge-castle-sphere |  
+| bip_39_word_dash_5 | modify-pledge-castle-sphere-crop |  
+| bip_39_word_dash_6 | modify-pledge-castle-sphere-crop-elite |  
+| bip_39_word_dash_7 | modify-pledge-castle-sphere-crop-elite-cargo |  
+| bip_39_word_dash_8 | modify-pledge-castle-sphere-crop-elite-cargo-switch |  
+| bip_39_word_dash_9 | modify-pledge-castle-sphere-crop-elite-cargo-switch-carpet |  
 | bip_39_word_new_br_1 | modify |  
 | bip_39_word_new_br_10 | modify<br>pledge<br>castle<br>sphere<br>crop<br>elite<br>cargo<br>switch<br>carpet<br>muffin |  
 | bip_39_word_new_br_11 | modify<br>pledge<br>castle<br>sphere<br>crop<br>elite<br>cargo<br>switch<br>carpet<br>muffin<br>wisdom |  
@@ -147,6 +159,18 @@ carpet |
 | bip_39_word_space_7 | modify pledge castle sphere crop elite cargo |  
 | bip_39_word_space_8 | modify pledge castle sphere crop elite cargo switch |  
 | bip_39_word_space_9 | modify pledge castle sphere crop elite cargo switch carpet |  
+| bip_39_word_underscore_1 | modify |  
+| bip_39_word_underscore_10 | modify_pledge_castle_sphere_crop_elite_cargo_switch_carpet_muffin |  
+| bip_39_word_underscore_11 | modify_pledge_castle_sphere_crop_elite_cargo_switch_carpet_muffin_wisdom |  
+| bip_39_word_underscore_12 | modify_pledge_castle_sphere_crop_elite_cargo_switch_carpet_muffin_wisdom_aim |  
+| bip_39_word_underscore_2 | modify_pledge |  
+| bip_39_word_underscore_3 | modify_pledge_castle |  
+| bip_39_word_underscore_4 | modify_pledge_castle_sphere |  
+| bip_39_word_underscore_5 | modify_pledge_castle_sphere_crop |  
+| bip_39_word_underscore_6 | modify_pledge_castle_sphere_crop_elite |  
+| bip_39_word_underscore_7 | modify_pledge_castle_sphere_crop_elite_cargo |  
+| bip_39_word_underscore_8 | modify_pledge_castle_sphere_crop_elite_cargo_switch |  
+| bip_39_word_underscore_9 | modify_pledge_castle_sphere_crop_elite_cargo_switch_carpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

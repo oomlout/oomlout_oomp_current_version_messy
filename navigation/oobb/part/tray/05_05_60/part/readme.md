@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | twin |  
+| bip_39_word_dash_10 | twin-budget-clever-inside-glad-umbrella-cruel-drop-bread-tag |  
+| bip_39_word_dash_11 | twin-budget-clever-inside-glad-umbrella-cruel-drop-bread-tag-drip |  
+| bip_39_word_dash_12 | twin-budget-clever-inside-glad-umbrella-cruel-drop-bread-tag-drip-arrow |  
+| bip_39_word_dash_2 | twin-budget |  
+| bip_39_word_dash_3 | twin-budget-clever |  
+| bip_39_word_dash_4 | twin-budget-clever-inside |  
+| bip_39_word_dash_5 | twin-budget-clever-inside-glad |  
+| bip_39_word_dash_6 | twin-budget-clever-inside-glad-umbrella |  
+| bip_39_word_dash_7 | twin-budget-clever-inside-glad-umbrella-cruel |  
+| bip_39_word_dash_8 | twin-budget-clever-inside-glad-umbrella-cruel-drop |  
+| bip_39_word_dash_9 | twin-budget-clever-inside-glad-umbrella-cruel-drop-bread |  
 | bip_39_word_new_br_1 | twin |  
 | bip_39_word_new_br_10 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag |  
 | bip_39_word_new_br_11 | twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag<br>drip |  
@@ -147,6 +159,18 @@ bread |
 | bip_39_word_space_7 | twin budget clever inside glad umbrella cruel |  
 | bip_39_word_space_8 | twin budget clever inside glad umbrella cruel drop |  
 | bip_39_word_space_9 | twin budget clever inside glad umbrella cruel drop bread |  
+| bip_39_word_underscore_1 | twin |  
+| bip_39_word_underscore_10 | twin_budget_clever_inside_glad_umbrella_cruel_drop_bread_tag |  
+| bip_39_word_underscore_11 | twin_budget_clever_inside_glad_umbrella_cruel_drop_bread_tag_drip |  
+| bip_39_word_underscore_12 | twin_budget_clever_inside_glad_umbrella_cruel_drop_bread_tag_drip_arrow |  
+| bip_39_word_underscore_2 | twin_budget |  
+| bip_39_word_underscore_3 | twin_budget_clever |  
+| bip_39_word_underscore_4 | twin_budget_clever_inside |  
+| bip_39_word_underscore_5 | twin_budget_clever_inside_glad |  
+| bip_39_word_underscore_6 | twin_budget_clever_inside_glad_umbrella |  
+| bip_39_word_underscore_7 | twin_budget_clever_inside_glad_umbrella_cruel |  
+| bip_39_word_underscore_8 | twin_budget_clever_inside_glad_umbrella_cruel_drop |  
+| bip_39_word_underscore_9 | twin_budget_clever_inside_glad_umbrella_cruel_drop_bread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

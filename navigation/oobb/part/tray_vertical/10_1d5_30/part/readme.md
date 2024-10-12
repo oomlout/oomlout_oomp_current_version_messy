@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | angry |  
+| bip_39_word_dash_10 | angry-injury-worth-moral-hockey-bacon-mercy-earth-coral-cereal |  
+| bip_39_word_dash_11 | angry-injury-worth-moral-hockey-bacon-mercy-earth-coral-cereal-night |  
+| bip_39_word_dash_12 | angry-injury-worth-moral-hockey-bacon-mercy-earth-coral-cereal-night-acquire |  
+| bip_39_word_dash_2 | angry-injury |  
+| bip_39_word_dash_3 | angry-injury-worth |  
+| bip_39_word_dash_4 | angry-injury-worth-moral |  
+| bip_39_word_dash_5 | angry-injury-worth-moral-hockey |  
+| bip_39_word_dash_6 | angry-injury-worth-moral-hockey-bacon |  
+| bip_39_word_dash_7 | angry-injury-worth-moral-hockey-bacon-mercy |  
+| bip_39_word_dash_8 | angry-injury-worth-moral-hockey-bacon-mercy-earth |  
+| bip_39_word_dash_9 | angry-injury-worth-moral-hockey-bacon-mercy-earth-coral |  
 | bip_39_word_new_br_1 | angry |  
 | bip_39_word_new_br_10 | angry<br>injury<br>worth<br>moral<br>hockey<br>bacon<br>mercy<br>earth<br>coral<br>cereal |  
 | bip_39_word_new_br_11 | angry<br>injury<br>worth<br>moral<br>hockey<br>bacon<br>mercy<br>earth<br>coral<br>cereal<br>night |  
@@ -147,6 +159,18 @@ coral |
 | bip_39_word_space_7 | angry injury worth moral hockey bacon mercy |  
 | bip_39_word_space_8 | angry injury worth moral hockey bacon mercy earth |  
 | bip_39_word_space_9 | angry injury worth moral hockey bacon mercy earth coral |  
+| bip_39_word_underscore_1 | angry |  
+| bip_39_word_underscore_10 | angry_injury_worth_moral_hockey_bacon_mercy_earth_coral_cereal |  
+| bip_39_word_underscore_11 | angry_injury_worth_moral_hockey_bacon_mercy_earth_coral_cereal_night |  
+| bip_39_word_underscore_12 | angry_injury_worth_moral_hockey_bacon_mercy_earth_coral_cereal_night_acquire |  
+| bip_39_word_underscore_2 | angry_injury |  
+| bip_39_word_underscore_3 | angry_injury_worth |  
+| bip_39_word_underscore_4 | angry_injury_worth_moral |  
+| bip_39_word_underscore_5 | angry_injury_worth_moral_hockey |  
+| bip_39_word_underscore_6 | angry_injury_worth_moral_hockey_bacon |  
+| bip_39_word_underscore_7 | angry_injury_worth_moral_hockey_bacon_mercy |  
+| bip_39_word_underscore_8 | angry_injury_worth_moral_hockey_bacon_mercy_earth |  
+| bip_39_word_underscore_9 | angry_injury_worth_moral_hockey_bacon_mercy_earth_coral |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

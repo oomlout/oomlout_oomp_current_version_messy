@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | update |  
+| bip_39_word_dash_10 | update-funny-direct-old-deer-concert-faith-myself-wild-slender |  
+| bip_39_word_dash_11 | update-funny-direct-old-deer-concert-faith-myself-wild-slender-pulse |  
+| bip_39_word_dash_12 | update-funny-direct-old-deer-concert-faith-myself-wild-slender-pulse-act |  
+| bip_39_word_dash_2 | update-funny |  
+| bip_39_word_dash_3 | update-funny-direct |  
+| bip_39_word_dash_4 | update-funny-direct-old |  
+| bip_39_word_dash_5 | update-funny-direct-old-deer |  
+| bip_39_word_dash_6 | update-funny-direct-old-deer-concert |  
+| bip_39_word_dash_7 | update-funny-direct-old-deer-concert-faith |  
+| bip_39_word_dash_8 | update-funny-direct-old-deer-concert-faith-myself |  
+| bip_39_word_dash_9 | update-funny-direct-old-deer-concert-faith-myself-wild |  
 | bip_39_word_new_br_1 | update |  
 | bip_39_word_new_br_10 | update<br>funny<br>direct<br>old<br>deer<br>concert<br>faith<br>myself<br>wild<br>slender |  
 | bip_39_word_new_br_11 | update<br>funny<br>direct<br>old<br>deer<br>concert<br>faith<br>myself<br>wild<br>slender<br>pulse |  
@@ -147,6 +159,18 @@ wild |
 | bip_39_word_space_7 | update funny direct old deer concert faith |  
 | bip_39_word_space_8 | update funny direct old deer concert faith myself |  
 | bip_39_word_space_9 | update funny direct old deer concert faith myself wild |  
+| bip_39_word_underscore_1 | update |  
+| bip_39_word_underscore_10 | update_funny_direct_old_deer_concert_faith_myself_wild_slender |  
+| bip_39_word_underscore_11 | update_funny_direct_old_deer_concert_faith_myself_wild_slender_pulse |  
+| bip_39_word_underscore_12 | update_funny_direct_old_deer_concert_faith_myself_wild_slender_pulse_act |  
+| bip_39_word_underscore_2 | update_funny |  
+| bip_39_word_underscore_3 | update_funny_direct |  
+| bip_39_word_underscore_4 | update_funny_direct_old |  
+| bip_39_word_underscore_5 | update_funny_direct_old_deer |  
+| bip_39_word_underscore_6 | update_funny_direct_old_deer_concert |  
+| bip_39_word_underscore_7 | update_funny_direct_old_deer_concert_faith |  
+| bip_39_word_underscore_8 | update_funny_direct_old_deer_concert_faith_myself |  
+| bip_39_word_underscore_9 | update_funny_direct_old_deer_concert_faith_myself_wild |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: turtle
+bip_39_word_dash_10: turtle-top-catalog-dentist-cabin-core-quote-lecture-denial-unusual
+bip_39_word_dash_11: turtle-top-catalog-dentist-cabin-core-quote-lecture-denial-unusual-chaos
+bip_39_word_dash_12: turtle-top-catalog-dentist-cabin-core-quote-lecture-denial-unusual-chaos-author
+bip_39_word_dash_2: turtle-top
+bip_39_word_dash_3: turtle-top-catalog
+bip_39_word_dash_4: turtle-top-catalog-dentist
+bip_39_word_dash_5: turtle-top-catalog-dentist-cabin
+bip_39_word_dash_6: turtle-top-catalog-dentist-cabin-core
+bip_39_word_dash_7: turtle-top-catalog-dentist-cabin-core-quote
+bip_39_word_dash_8: turtle-top-catalog-dentist-cabin-core-quote-lecture
+bip_39_word_dash_9: turtle-top-catalog-dentist-cabin-core-quote-lecture-denial
 bip_39_word_new_br_1: turtle
 bip_39_word_new_br_10: turtle<br>top<br>catalog<br>dentist<br>cabin<br>core<br>quote<br>lecture<br>denial<br>unusual
 bip_39_word_new_br_11: turtle<br>top<br>catalog<br>dentist<br>cabin<br>core<br>quote<br>lecture<br>denial<br>unusual<br>chaos
@@ -193,6 +205,18 @@ bip_39_word_space_6: turtle top catalog dentist cabin core
 bip_39_word_space_7: turtle top catalog dentist cabin core quote
 bip_39_word_space_8: turtle top catalog dentist cabin core quote lecture
 bip_39_word_space_9: turtle top catalog dentist cabin core quote lecture denial
+bip_39_word_underscore_1: turtle
+bip_39_word_underscore_10: turtle_top_catalog_dentist_cabin_core_quote_lecture_denial_unusual
+bip_39_word_underscore_11: turtle_top_catalog_dentist_cabin_core_quote_lecture_denial_unusual_chaos
+bip_39_word_underscore_12: turtle_top_catalog_dentist_cabin_core_quote_lecture_denial_unusual_chaos_author
+bip_39_word_underscore_2: turtle_top
+bip_39_word_underscore_3: turtle_top_catalog
+bip_39_word_underscore_4: turtle_top_catalog_dentist
+bip_39_word_underscore_5: turtle_top_catalog_dentist_cabin
+bip_39_word_underscore_6: turtle_top_catalog_dentist_cabin_core
+bip_39_word_underscore_7: turtle_top_catalog_dentist_cabin_core_quote
+bip_39_word_underscore_8: turtle_top_catalog_dentist_cabin_core_quote_lecture
+bip_39_word_underscore_9: turtle_top_catalog_dentist_cabin_core_quote_lecture_denial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

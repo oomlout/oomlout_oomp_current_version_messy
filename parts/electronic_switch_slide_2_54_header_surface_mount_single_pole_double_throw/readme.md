@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | monkey |  
+| bip_39_word_dash_10 | monkey-hollow-glare-level-choose-syrup-hello-three-grief-million |  
+| bip_39_word_dash_11 | monkey-hollow-glare-level-choose-syrup-hello-three-grief-million-crouch |  
+| bip_39_word_dash_12 | monkey-hollow-glare-level-choose-syrup-hello-three-grief-million-crouch-able |  
+| bip_39_word_dash_2 | monkey-hollow |  
+| bip_39_word_dash_3 | monkey-hollow-glare |  
+| bip_39_word_dash_4 | monkey-hollow-glare-level |  
+| bip_39_word_dash_5 | monkey-hollow-glare-level-choose |  
+| bip_39_word_dash_6 | monkey-hollow-glare-level-choose-syrup |  
+| bip_39_word_dash_7 | monkey-hollow-glare-level-choose-syrup-hello |  
+| bip_39_word_dash_8 | monkey-hollow-glare-level-choose-syrup-hello-three |  
+| bip_39_word_dash_9 | monkey-hollow-glare-level-choose-syrup-hello-three-grief |  
 | bip_39_word_new_br_1 | monkey |  
 | bip_39_word_new_br_10 | monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three<br>grief<br>million |  
 | bip_39_word_new_br_11 | monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three<br>grief<br>million<br>crouch |  
@@ -147,6 +159,18 @@ grief |
 | bip_39_word_space_7 | monkey hollow glare level choose syrup hello |  
 | bip_39_word_space_8 | monkey hollow glare level choose syrup hello three |  
 | bip_39_word_space_9 | monkey hollow glare level choose syrup hello three grief |  
+| bip_39_word_underscore_1 | monkey |  
+| bip_39_word_underscore_10 | monkey_hollow_glare_level_choose_syrup_hello_three_grief_million |  
+| bip_39_word_underscore_11 | monkey_hollow_glare_level_choose_syrup_hello_three_grief_million_crouch |  
+| bip_39_word_underscore_12 | monkey_hollow_glare_level_choose_syrup_hello_three_grief_million_crouch_able |  
+| bip_39_word_underscore_2 | monkey_hollow |  
+| bip_39_word_underscore_3 | monkey_hollow_glare |  
+| bip_39_word_underscore_4 | monkey_hollow_glare_level |  
+| bip_39_word_underscore_5 | monkey_hollow_glare_level_choose |  
+| bip_39_word_underscore_6 | monkey_hollow_glare_level_choose_syrup |  
+| bip_39_word_underscore_7 | monkey_hollow_glare_level_choose_syrup_hello |  
+| bip_39_word_underscore_8 | monkey_hollow_glare_level_choose_syrup_hello_three |  
+| bip_39_word_underscore_9 | monkey_hollow_glare_level_choose_syrup_hello_three_grief |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | guilt |  
+| bip_39_word_dash_10 | guilt-table-urge-combine-tag-duty-salon-this-tent-era |  
+| bip_39_word_dash_11 | guilt-table-urge-combine-tag-duty-salon-this-tent-era-repeat |  
+| bip_39_word_dash_12 | guilt-table-urge-combine-tag-duty-salon-this-tent-era-repeat-all |  
+| bip_39_word_dash_2 | guilt-table |  
+| bip_39_word_dash_3 | guilt-table-urge |  
+| bip_39_word_dash_4 | guilt-table-urge-combine |  
+| bip_39_word_dash_5 | guilt-table-urge-combine-tag |  
+| bip_39_word_dash_6 | guilt-table-urge-combine-tag-duty |  
+| bip_39_word_dash_7 | guilt-table-urge-combine-tag-duty-salon |  
+| bip_39_word_dash_8 | guilt-table-urge-combine-tag-duty-salon-this |  
+| bip_39_word_dash_9 | guilt-table-urge-combine-tag-duty-salon-this-tent |  
 | bip_39_word_new_br_1 | guilt |  
 | bip_39_word_new_br_10 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era |  
 | bip_39_word_new_br_11 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era<br>repeat |  
@@ -147,6 +159,18 @@ tent |
 | bip_39_word_space_7 | guilt table urge combine tag duty salon |  
 | bip_39_word_space_8 | guilt table urge combine tag duty salon this |  
 | bip_39_word_space_9 | guilt table urge combine tag duty salon this tent |  
+| bip_39_word_underscore_1 | guilt |  
+| bip_39_word_underscore_10 | guilt_table_urge_combine_tag_duty_salon_this_tent_era |  
+| bip_39_word_underscore_11 | guilt_table_urge_combine_tag_duty_salon_this_tent_era_repeat |  
+| bip_39_word_underscore_12 | guilt_table_urge_combine_tag_duty_salon_this_tent_era_repeat_all |  
+| bip_39_word_underscore_2 | guilt_table |  
+| bip_39_word_underscore_3 | guilt_table_urge |  
+| bip_39_word_underscore_4 | guilt_table_urge_combine |  
+| bip_39_word_underscore_5 | guilt_table_urge_combine_tag |  
+| bip_39_word_underscore_6 | guilt_table_urge_combine_tag_duty |  
+| bip_39_word_underscore_7 | guilt_table_urge_combine_tag_duty_salon |  
+| bip_39_word_underscore_8 | guilt_table_urge_combine_tag_duty_salon_this |  
+| bip_39_word_underscore_9 | guilt_table_urge_combine_tag_duty_salon_this_tent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

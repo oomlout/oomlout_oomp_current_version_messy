@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rare |  
+| bip_39_word_dash_10 | rare-story-valid-beach-movie-success-choose-final-bomb-quarter |  
+| bip_39_word_dash_11 | rare-story-valid-beach-movie-success-choose-final-bomb-quarter-glide |  
+| bip_39_word_dash_12 | rare-story-valid-beach-movie-success-choose-final-bomb-quarter-glide-agree |  
+| bip_39_word_dash_2 | rare-story |  
+| bip_39_word_dash_3 | rare-story-valid |  
+| bip_39_word_dash_4 | rare-story-valid-beach |  
+| bip_39_word_dash_5 | rare-story-valid-beach-movie |  
+| bip_39_word_dash_6 | rare-story-valid-beach-movie-success |  
+| bip_39_word_dash_7 | rare-story-valid-beach-movie-success-choose |  
+| bip_39_word_dash_8 | rare-story-valid-beach-movie-success-choose-final |  
+| bip_39_word_dash_9 | rare-story-valid-beach-movie-success-choose-final-bomb |  
 | bip_39_word_new_br_1 | rare |  
 | bip_39_word_new_br_10 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final<br>bomb<br>quarter |  
 | bip_39_word_new_br_11 | rare<br>story<br>valid<br>beach<br>movie<br>success<br>choose<br>final<br>bomb<br>quarter<br>glide |  
@@ -147,6 +159,18 @@ bomb |
 | bip_39_word_space_7 | rare story valid beach movie success choose |  
 | bip_39_word_space_8 | rare story valid beach movie success choose final |  
 | bip_39_word_space_9 | rare story valid beach movie success choose final bomb |  
+| bip_39_word_underscore_1 | rare |  
+| bip_39_word_underscore_10 | rare_story_valid_beach_movie_success_choose_final_bomb_quarter |  
+| bip_39_word_underscore_11 | rare_story_valid_beach_movie_success_choose_final_bomb_quarter_glide |  
+| bip_39_word_underscore_12 | rare_story_valid_beach_movie_success_choose_final_bomb_quarter_glide_agree |  
+| bip_39_word_underscore_2 | rare_story |  
+| bip_39_word_underscore_3 | rare_story_valid |  
+| bip_39_word_underscore_4 | rare_story_valid_beach |  
+| bip_39_word_underscore_5 | rare_story_valid_beach_movie |  
+| bip_39_word_underscore_6 | rare_story_valid_beach_movie_success |  
+| bip_39_word_underscore_7 | rare_story_valid_beach_movie_success_choose |  
+| bip_39_word_underscore_8 | rare_story_valid_beach_movie_success_choose_final |  
+| bip_39_word_underscore_9 | rare_story_valid_beach_movie_success_choose_final_bomb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

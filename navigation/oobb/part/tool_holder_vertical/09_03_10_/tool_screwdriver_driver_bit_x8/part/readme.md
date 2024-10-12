@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deal |  
+| bip_39_word_dash_10 | deal-blouse-orange-provide-talent-truck-cheese-stomach-project-mother |  
+| bip_39_word_dash_11 | deal-blouse-orange-provide-talent-truck-cheese-stomach-project-mother-share |  
+| bip_39_word_dash_12 | deal-blouse-orange-provide-talent-truck-cheese-stomach-project-mother-share-alpha |  
+| bip_39_word_dash_2 | deal-blouse |  
+| bip_39_word_dash_3 | deal-blouse-orange |  
+| bip_39_word_dash_4 | deal-blouse-orange-provide |  
+| bip_39_word_dash_5 | deal-blouse-orange-provide-talent |  
+| bip_39_word_dash_6 | deal-blouse-orange-provide-talent-truck |  
+| bip_39_word_dash_7 | deal-blouse-orange-provide-talent-truck-cheese |  
+| bip_39_word_dash_8 | deal-blouse-orange-provide-talent-truck-cheese-stomach |  
+| bip_39_word_dash_9 | deal-blouse-orange-provide-talent-truck-cheese-stomach-project |  
 | bip_39_word_new_br_1 | deal |  
 | bip_39_word_new_br_10 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother |  
 | bip_39_word_new_br_11 | deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother<br>share |  
@@ -147,6 +159,18 @@ project |
 | bip_39_word_space_7 | deal blouse orange provide talent truck cheese |  
 | bip_39_word_space_8 | deal blouse orange provide talent truck cheese stomach |  
 | bip_39_word_space_9 | deal blouse orange provide talent truck cheese stomach project |  
+| bip_39_word_underscore_1 | deal |  
+| bip_39_word_underscore_10 | deal_blouse_orange_provide_talent_truck_cheese_stomach_project_mother |  
+| bip_39_word_underscore_11 | deal_blouse_orange_provide_talent_truck_cheese_stomach_project_mother_share |  
+| bip_39_word_underscore_12 | deal_blouse_orange_provide_talent_truck_cheese_stomach_project_mother_share_alpha |  
+| bip_39_word_underscore_2 | deal_blouse |  
+| bip_39_word_underscore_3 | deal_blouse_orange |  
+| bip_39_word_underscore_4 | deal_blouse_orange_provide |  
+| bip_39_word_underscore_5 | deal_blouse_orange_provide_talent |  
+| bip_39_word_underscore_6 | deal_blouse_orange_provide_talent_truck |  
+| bip_39_word_underscore_7 | deal_blouse_orange_provide_talent_truck_cheese |  
+| bip_39_word_underscore_8 | deal_blouse_orange_provide_talent_truck_cheese_stomach |  
+| bip_39_word_underscore_9 | deal_blouse_orange_provide_talent_truck_cheese_stomach_project |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

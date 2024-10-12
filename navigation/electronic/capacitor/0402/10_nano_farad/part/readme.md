@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sort |  
+| bip_39_word_dash_10 | sort-veteran-indicate-play-behind-rice-keep-opinion-inject-oven |  
+| bip_39_word_dash_11 | sort-veteran-indicate-play-behind-rice-keep-opinion-inject-oven-foster |  
+| bip_39_word_dash_12 | sort-veteran-indicate-play-behind-rice-keep-opinion-inject-oven-foster-allow |  
+| bip_39_word_dash_2 | sort-veteran |  
+| bip_39_word_dash_3 | sort-veteran-indicate |  
+| bip_39_word_dash_4 | sort-veteran-indicate-play |  
+| bip_39_word_dash_5 | sort-veteran-indicate-play-behind |  
+| bip_39_word_dash_6 | sort-veteran-indicate-play-behind-rice |  
+| bip_39_word_dash_7 | sort-veteran-indicate-play-behind-rice-keep |  
+| bip_39_word_dash_8 | sort-veteran-indicate-play-behind-rice-keep-opinion |  
+| bip_39_word_dash_9 | sort-veteran-indicate-play-behind-rice-keep-opinion-inject |  
 | bip_39_word_new_br_1 | sort |  
 | bip_39_word_new_br_10 | sort<br>veteran<br>indicate<br>play<br>behind<br>rice<br>keep<br>opinion<br>inject<br>oven |  
 | bip_39_word_new_br_11 | sort<br>veteran<br>indicate<br>play<br>behind<br>rice<br>keep<br>opinion<br>inject<br>oven<br>foster |  
@@ -147,6 +159,18 @@ inject |
 | bip_39_word_space_7 | sort veteran indicate play behind rice keep |  
 | bip_39_word_space_8 | sort veteran indicate play behind rice keep opinion |  
 | bip_39_word_space_9 | sort veteran indicate play behind rice keep opinion inject |  
+| bip_39_word_underscore_1 | sort |  
+| bip_39_word_underscore_10 | sort_veteran_indicate_play_behind_rice_keep_opinion_inject_oven |  
+| bip_39_word_underscore_11 | sort_veteran_indicate_play_behind_rice_keep_opinion_inject_oven_foster |  
+| bip_39_word_underscore_12 | sort_veteran_indicate_play_behind_rice_keep_opinion_inject_oven_foster_allow |  
+| bip_39_word_underscore_2 | sort_veteran |  
+| bip_39_word_underscore_3 | sort_veteran_indicate |  
+| bip_39_word_underscore_4 | sort_veteran_indicate_play |  
+| bip_39_word_underscore_5 | sort_veteran_indicate_play_behind |  
+| bip_39_word_underscore_6 | sort_veteran_indicate_play_behind_rice |  
+| bip_39_word_underscore_7 | sort_veteran_indicate_play_behind_rice_keep |  
+| bip_39_word_underscore_8 | sort_veteran_indicate_play_behind_rice_keep_opinion |  
+| bip_39_word_underscore_9 | sort_veteran_indicate_play_behind_rice_keep_opinion_inject |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

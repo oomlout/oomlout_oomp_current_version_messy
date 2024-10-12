@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plate |  
+| bip_39_word_dash_10 | plate-screen-unfold-mammal-cake-umbrella-picture-doll-surface-stumble |  
+| bip_39_word_dash_11 | plate-screen-unfold-mammal-cake-umbrella-picture-doll-surface-stumble-planet |  
+| bip_39_word_dash_12 | plate-screen-unfold-mammal-cake-umbrella-picture-doll-surface-stumble-planet-autumn |  
+| bip_39_word_dash_2 | plate-screen |  
+| bip_39_word_dash_3 | plate-screen-unfold |  
+| bip_39_word_dash_4 | plate-screen-unfold-mammal |  
+| bip_39_word_dash_5 | plate-screen-unfold-mammal-cake |  
+| bip_39_word_dash_6 | plate-screen-unfold-mammal-cake-umbrella |  
+| bip_39_word_dash_7 | plate-screen-unfold-mammal-cake-umbrella-picture |  
+| bip_39_word_dash_8 | plate-screen-unfold-mammal-cake-umbrella-picture-doll |  
+| bip_39_word_dash_9 | plate-screen-unfold-mammal-cake-umbrella-picture-doll-surface |  
 | bip_39_word_new_br_1 | plate |  
 | bip_39_word_new_br_10 | plate<br>screen<br>unfold<br>mammal<br>cake<br>umbrella<br>picture<br>doll<br>surface<br>stumble |  
 | bip_39_word_new_br_11 | plate<br>screen<br>unfold<br>mammal<br>cake<br>umbrella<br>picture<br>doll<br>surface<br>stumble<br>planet |  
@@ -147,6 +159,18 @@ surface |
 | bip_39_word_space_7 | plate screen unfold mammal cake umbrella picture |  
 | bip_39_word_space_8 | plate screen unfold mammal cake umbrella picture doll |  
 | bip_39_word_space_9 | plate screen unfold mammal cake umbrella picture doll surface |  
+| bip_39_word_underscore_1 | plate |  
+| bip_39_word_underscore_10 | plate_screen_unfold_mammal_cake_umbrella_picture_doll_surface_stumble |  
+| bip_39_word_underscore_11 | plate_screen_unfold_mammal_cake_umbrella_picture_doll_surface_stumble_planet |  
+| bip_39_word_underscore_12 | plate_screen_unfold_mammal_cake_umbrella_picture_doll_surface_stumble_planet_autumn |  
+| bip_39_word_underscore_2 | plate_screen |  
+| bip_39_word_underscore_3 | plate_screen_unfold |  
+| bip_39_word_underscore_4 | plate_screen_unfold_mammal |  
+| bip_39_word_underscore_5 | plate_screen_unfold_mammal_cake |  
+| bip_39_word_underscore_6 | plate_screen_unfold_mammal_cake_umbrella |  
+| bip_39_word_underscore_7 | plate_screen_unfold_mammal_cake_umbrella_picture |  
+| bip_39_word_underscore_8 | plate_screen_unfold_mammal_cake_umbrella_picture_doll |  
+| bip_39_word_underscore_9 | plate_screen_unfold_mammal_cake_umbrella_picture_doll_surface |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

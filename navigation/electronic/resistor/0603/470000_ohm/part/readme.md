@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | off |  
+| bip_39_word_dash_10 | off-another-arrest-rebel-trend-common-curtain-spin-retreat-about |  
+| bip_39_word_dash_11 | off-another-arrest-rebel-trend-common-curtain-spin-retreat-about-cross |  
+| bip_39_word_dash_12 | off-another-arrest-rebel-trend-common-curtain-spin-retreat-about-cross-autumn |  
+| bip_39_word_dash_2 | off-another |  
+| bip_39_word_dash_3 | off-another-arrest |  
+| bip_39_word_dash_4 | off-another-arrest-rebel |  
+| bip_39_word_dash_5 | off-another-arrest-rebel-trend |  
+| bip_39_word_dash_6 | off-another-arrest-rebel-trend-common |  
+| bip_39_word_dash_7 | off-another-arrest-rebel-trend-common-curtain |  
+| bip_39_word_dash_8 | off-another-arrest-rebel-trend-common-curtain-spin |  
+| bip_39_word_dash_9 | off-another-arrest-rebel-trend-common-curtain-spin-retreat |  
 | bip_39_word_new_br_1 | off |  
 | bip_39_word_new_br_10 | off<br>another<br>arrest<br>rebel<br>trend<br>common<br>curtain<br>spin<br>retreat<br>about |  
 | bip_39_word_new_br_11 | off<br>another<br>arrest<br>rebel<br>trend<br>common<br>curtain<br>spin<br>retreat<br>about<br>cross |  
@@ -147,6 +159,18 @@ retreat |
 | bip_39_word_space_7 | off another arrest rebel trend common curtain |  
 | bip_39_word_space_8 | off another arrest rebel trend common curtain spin |  
 | bip_39_word_space_9 | off another arrest rebel trend common curtain spin retreat |  
+| bip_39_word_underscore_1 | off |  
+| bip_39_word_underscore_10 | off_another_arrest_rebel_trend_common_curtain_spin_retreat_about |  
+| bip_39_word_underscore_11 | off_another_arrest_rebel_trend_common_curtain_spin_retreat_about_cross |  
+| bip_39_word_underscore_12 | off_another_arrest_rebel_trend_common_curtain_spin_retreat_about_cross_autumn |  
+| bip_39_word_underscore_2 | off_another |  
+| bip_39_word_underscore_3 | off_another_arrest |  
+| bip_39_word_underscore_4 | off_another_arrest_rebel |  
+| bip_39_word_underscore_5 | off_another_arrest_rebel_trend |  
+| bip_39_word_underscore_6 | off_another_arrest_rebel_trend_common |  
+| bip_39_word_underscore_7 | off_another_arrest_rebel_trend_common_curtain |  
+| bip_39_word_underscore_8 | off_another_arrest_rebel_trend_common_curtain_spin |  
+| bip_39_word_underscore_9 | off_another_arrest_rebel_trend_common_curtain_spin_retreat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

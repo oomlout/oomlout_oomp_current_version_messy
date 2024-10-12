@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hazard |  
+| bip_39_word_dash_10 | hazard-alpha-tunnel-river-forward-vault-swap-drop-task-order |  
+| bip_39_word_dash_11 | hazard-alpha-tunnel-river-forward-vault-swap-drop-task-order-atom |  
+| bip_39_word_dash_12 | hazard-alpha-tunnel-river-forward-vault-swap-drop-task-order-atom-accident |  
+| bip_39_word_dash_2 | hazard-alpha |  
+| bip_39_word_dash_3 | hazard-alpha-tunnel |  
+| bip_39_word_dash_4 | hazard-alpha-tunnel-river |  
+| bip_39_word_dash_5 | hazard-alpha-tunnel-river-forward |  
+| bip_39_word_dash_6 | hazard-alpha-tunnel-river-forward-vault |  
+| bip_39_word_dash_7 | hazard-alpha-tunnel-river-forward-vault-swap |  
+| bip_39_word_dash_8 | hazard-alpha-tunnel-river-forward-vault-swap-drop |  
+| bip_39_word_dash_9 | hazard-alpha-tunnel-river-forward-vault-swap-drop-task |  
 | bip_39_word_new_br_1 | hazard |  
 | bip_39_word_new_br_10 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order |  
 | bip_39_word_new_br_11 | hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order<br>atom |  
@@ -147,6 +159,18 @@ task |
 | bip_39_word_space_7 | hazard alpha tunnel river forward vault swap |  
 | bip_39_word_space_8 | hazard alpha tunnel river forward vault swap drop |  
 | bip_39_word_space_9 | hazard alpha tunnel river forward vault swap drop task |  
+| bip_39_word_underscore_1 | hazard |  
+| bip_39_word_underscore_10 | hazard_alpha_tunnel_river_forward_vault_swap_drop_task_order |  
+| bip_39_word_underscore_11 | hazard_alpha_tunnel_river_forward_vault_swap_drop_task_order_atom |  
+| bip_39_word_underscore_12 | hazard_alpha_tunnel_river_forward_vault_swap_drop_task_order_atom_accident |  
+| bip_39_word_underscore_2 | hazard_alpha |  
+| bip_39_word_underscore_3 | hazard_alpha_tunnel |  
+| bip_39_word_underscore_4 | hazard_alpha_tunnel_river |  
+| bip_39_word_underscore_5 | hazard_alpha_tunnel_river_forward |  
+| bip_39_word_underscore_6 | hazard_alpha_tunnel_river_forward_vault |  
+| bip_39_word_underscore_7 | hazard_alpha_tunnel_river_forward_vault_swap |  
+| bip_39_word_underscore_8 | hazard_alpha_tunnel_river_forward_vault_swap_drop |  
+| bip_39_word_underscore_9 | hazard_alpha_tunnel_river_forward_vault_swap_drop_task |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gasp |  
+| bip_39_word_dash_10 | gasp-portion-brother-remind-floor-winter-lens-loud-hen-drama |  
+| bip_39_word_dash_11 | gasp-portion-brother-remind-floor-winter-lens-loud-hen-drama-level |  
+| bip_39_word_dash_12 | gasp-portion-brother-remind-floor-winter-lens-loud-hen-drama-level-actual |  
+| bip_39_word_dash_2 | gasp-portion |  
+| bip_39_word_dash_3 | gasp-portion-brother |  
+| bip_39_word_dash_4 | gasp-portion-brother-remind |  
+| bip_39_word_dash_5 | gasp-portion-brother-remind-floor |  
+| bip_39_word_dash_6 | gasp-portion-brother-remind-floor-winter |  
+| bip_39_word_dash_7 | gasp-portion-brother-remind-floor-winter-lens |  
+| bip_39_word_dash_8 | gasp-portion-brother-remind-floor-winter-lens-loud |  
+| bip_39_word_dash_9 | gasp-portion-brother-remind-floor-winter-lens-loud-hen |  
 | bip_39_word_new_br_1 | gasp |  
 | bip_39_word_new_br_10 | gasp<br>portion<br>brother<br>remind<br>floor<br>winter<br>lens<br>loud<br>hen<br>drama |  
 | bip_39_word_new_br_11 | gasp<br>portion<br>brother<br>remind<br>floor<br>winter<br>lens<br>loud<br>hen<br>drama<br>level |  
@@ -147,6 +159,18 @@ hen |
 | bip_39_word_space_7 | gasp portion brother remind floor winter lens |  
 | bip_39_word_space_8 | gasp portion brother remind floor winter lens loud |  
 | bip_39_word_space_9 | gasp portion brother remind floor winter lens loud hen |  
+| bip_39_word_underscore_1 | gasp |  
+| bip_39_word_underscore_10 | gasp_portion_brother_remind_floor_winter_lens_loud_hen_drama |  
+| bip_39_word_underscore_11 | gasp_portion_brother_remind_floor_winter_lens_loud_hen_drama_level |  
+| bip_39_word_underscore_12 | gasp_portion_brother_remind_floor_winter_lens_loud_hen_drama_level_actual |  
+| bip_39_word_underscore_2 | gasp_portion |  
+| bip_39_word_underscore_3 | gasp_portion_brother |  
+| bip_39_word_underscore_4 | gasp_portion_brother_remind |  
+| bip_39_word_underscore_5 | gasp_portion_brother_remind_floor |  
+| bip_39_word_underscore_6 | gasp_portion_brother_remind_floor_winter |  
+| bip_39_word_underscore_7 | gasp_portion_brother_remind_floor_winter_lens |  
+| bip_39_word_underscore_8 | gasp_portion_brother_remind_floor_winter_lens_loud |  
+| bip_39_word_underscore_9 | gasp_portion_brother_remind_floor_winter_lens_loud_hen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

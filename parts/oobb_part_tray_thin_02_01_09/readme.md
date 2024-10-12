@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | climb |  
+| bip_39_word_dash_10 | climb-sponsor-weekend-bundle-shoe-slim-fortune-knife-ring-poem |  
+| bip_39_word_dash_11 | climb-sponsor-weekend-bundle-shoe-slim-fortune-knife-ring-poem-leader |  
+| bip_39_word_dash_12 | climb-sponsor-weekend-bundle-shoe-slim-fortune-knife-ring-poem-leader-act |  
+| bip_39_word_dash_2 | climb-sponsor |  
+| bip_39_word_dash_3 | climb-sponsor-weekend |  
+| bip_39_word_dash_4 | climb-sponsor-weekend-bundle |  
+| bip_39_word_dash_5 | climb-sponsor-weekend-bundle-shoe |  
+| bip_39_word_dash_6 | climb-sponsor-weekend-bundle-shoe-slim |  
+| bip_39_word_dash_7 | climb-sponsor-weekend-bundle-shoe-slim-fortune |  
+| bip_39_word_dash_8 | climb-sponsor-weekend-bundle-shoe-slim-fortune-knife |  
+| bip_39_word_dash_9 | climb-sponsor-weekend-bundle-shoe-slim-fortune-knife-ring |  
 | bip_39_word_new_br_1 | climb |  
 | bip_39_word_new_br_10 | climb<br>sponsor<br>weekend<br>bundle<br>shoe<br>slim<br>fortune<br>knife<br>ring<br>poem |  
 | bip_39_word_new_br_11 | climb<br>sponsor<br>weekend<br>bundle<br>shoe<br>slim<br>fortune<br>knife<br>ring<br>poem<br>leader |  
@@ -147,6 +159,18 @@ ring |
 | bip_39_word_space_7 | climb sponsor weekend bundle shoe slim fortune |  
 | bip_39_word_space_8 | climb sponsor weekend bundle shoe slim fortune knife |  
 | bip_39_word_space_9 | climb sponsor weekend bundle shoe slim fortune knife ring |  
+| bip_39_word_underscore_1 | climb |  
+| bip_39_word_underscore_10 | climb_sponsor_weekend_bundle_shoe_slim_fortune_knife_ring_poem |  
+| bip_39_word_underscore_11 | climb_sponsor_weekend_bundle_shoe_slim_fortune_knife_ring_poem_leader |  
+| bip_39_word_underscore_12 | climb_sponsor_weekend_bundle_shoe_slim_fortune_knife_ring_poem_leader_act |  
+| bip_39_word_underscore_2 | climb_sponsor |  
+| bip_39_word_underscore_3 | climb_sponsor_weekend |  
+| bip_39_word_underscore_4 | climb_sponsor_weekend_bundle |  
+| bip_39_word_underscore_5 | climb_sponsor_weekend_bundle_shoe |  
+| bip_39_word_underscore_6 | climb_sponsor_weekend_bundle_shoe_slim |  
+| bip_39_word_underscore_7 | climb_sponsor_weekend_bundle_shoe_slim_fortune |  
+| bip_39_word_underscore_8 | climb_sponsor_weekend_bundle_shoe_slim_fortune_knife |  
+| bip_39_word_underscore_9 | climb_sponsor_weekend_bundle_shoe_slim_fortune_knife_ring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

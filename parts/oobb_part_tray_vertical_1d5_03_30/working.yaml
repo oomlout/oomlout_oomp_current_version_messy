@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tuition
+bip_39_word_dash_10: tuition-scissors-call-certain-since-summer-obvious-casino-fancy-winter
+bip_39_word_dash_11: tuition-scissors-call-certain-since-summer-obvious-casino-fancy-winter-earth
+bip_39_word_dash_12: tuition-scissors-call-certain-since-summer-obvious-casino-fancy-winter-earth-age
+bip_39_word_dash_2: tuition-scissors
+bip_39_word_dash_3: tuition-scissors-call
+bip_39_word_dash_4: tuition-scissors-call-certain
+bip_39_word_dash_5: tuition-scissors-call-certain-since
+bip_39_word_dash_6: tuition-scissors-call-certain-since-summer
+bip_39_word_dash_7: tuition-scissors-call-certain-since-summer-obvious
+bip_39_word_dash_8: tuition-scissors-call-certain-since-summer-obvious-casino
+bip_39_word_dash_9: tuition-scissors-call-certain-since-summer-obvious-casino-fancy
 bip_39_word_new_br_1: tuition
 bip_39_word_new_br_10: tuition<br>scissors<br>call<br>certain<br>since<br>summer<br>obvious<br>casino<br>fancy<br>winter
 bip_39_word_new_br_11: tuition<br>scissors<br>call<br>certain<br>since<br>summer<br>obvious<br>casino<br>fancy<br>winter<br>earth
@@ -194,6 +206,18 @@ bip_39_word_space_6: tuition scissors call certain since summer
 bip_39_word_space_7: tuition scissors call certain since summer obvious
 bip_39_word_space_8: tuition scissors call certain since summer obvious casino
 bip_39_word_space_9: tuition scissors call certain since summer obvious casino fancy
+bip_39_word_underscore_1: tuition
+bip_39_word_underscore_10: tuition_scissors_call_certain_since_summer_obvious_casino_fancy_winter
+bip_39_word_underscore_11: tuition_scissors_call_certain_since_summer_obvious_casino_fancy_winter_earth
+bip_39_word_underscore_12: tuition_scissors_call_certain_since_summer_obvious_casino_fancy_winter_earth_age
+bip_39_word_underscore_2: tuition_scissors
+bip_39_word_underscore_3: tuition_scissors_call
+bip_39_word_underscore_4: tuition_scissors_call_certain
+bip_39_word_underscore_5: tuition_scissors_call_certain_since
+bip_39_word_underscore_6: tuition_scissors_call_certain_since_summer
+bip_39_word_underscore_7: tuition_scissors_call_certain_since_summer_obvious
+bip_39_word_underscore_8: tuition_scissors_call_certain_since_summer_obvious_casino
+bip_39_word_underscore_9: tuition_scissors_call_certain_since_summer_obvious_casino_fancy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

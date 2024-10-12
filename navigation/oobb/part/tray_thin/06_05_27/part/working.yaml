@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pistol
+bip_39_word_dash_10: pistol-digital-cargo-easy-buyer-special-where-oak-wire-obey
+bip_39_word_dash_11: pistol-digital-cargo-easy-buyer-special-where-oak-wire-obey-mimic
+bip_39_word_dash_12: pistol-digital-cargo-easy-buyer-special-where-oak-wire-obey-mimic-acquire
+bip_39_word_dash_2: pistol-digital
+bip_39_word_dash_3: pistol-digital-cargo
+bip_39_word_dash_4: pistol-digital-cargo-easy
+bip_39_word_dash_5: pistol-digital-cargo-easy-buyer
+bip_39_word_dash_6: pistol-digital-cargo-easy-buyer-special
+bip_39_word_dash_7: pistol-digital-cargo-easy-buyer-special-where
+bip_39_word_dash_8: pistol-digital-cargo-easy-buyer-special-where-oak
+bip_39_word_dash_9: pistol-digital-cargo-easy-buyer-special-where-oak-wire
 bip_39_word_new_br_1: pistol
 bip_39_word_new_br_10: pistol<br>digital<br>cargo<br>easy<br>buyer<br>special<br>where<br>oak<br>wire<br>obey
 bip_39_word_new_br_11: pistol<br>digital<br>cargo<br>easy<br>buyer<br>special<br>where<br>oak<br>wire<br>obey<br>mimic
@@ -193,6 +205,18 @@ bip_39_word_space_6: pistol digital cargo easy buyer special
 bip_39_word_space_7: pistol digital cargo easy buyer special where
 bip_39_word_space_8: pistol digital cargo easy buyer special where oak
 bip_39_word_space_9: pistol digital cargo easy buyer special where oak wire
+bip_39_word_underscore_1: pistol
+bip_39_word_underscore_10: pistol_digital_cargo_easy_buyer_special_where_oak_wire_obey
+bip_39_word_underscore_11: pistol_digital_cargo_easy_buyer_special_where_oak_wire_obey_mimic
+bip_39_word_underscore_12: pistol_digital_cargo_easy_buyer_special_where_oak_wire_obey_mimic_acquire
+bip_39_word_underscore_2: pistol_digital
+bip_39_word_underscore_3: pistol_digital_cargo
+bip_39_word_underscore_4: pistol_digital_cargo_easy
+bip_39_word_underscore_5: pistol_digital_cargo_easy_buyer
+bip_39_word_underscore_6: pistol_digital_cargo_easy_buyer_special
+bip_39_word_underscore_7: pistol_digital_cargo_easy_buyer_special_where
+bip_39_word_underscore_8: pistol_digital_cargo_easy_buyer_special_where_oak
+bip_39_word_underscore_9: pistol_digital_cargo_easy_buyer_special_where_oak_wire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

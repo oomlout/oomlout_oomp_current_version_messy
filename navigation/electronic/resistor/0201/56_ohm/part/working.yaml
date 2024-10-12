@@ -1,3 +1,15 @@
+bip_39_word_dash_1: defy
+bip_39_word_dash_10: defy-debris-stove-bind-album-grass-member-round-away-neutral
+bip_39_word_dash_11: defy-debris-stove-bind-album-grass-member-round-away-neutral-dumb
+bip_39_word_dash_12: defy-debris-stove-bind-album-grass-member-round-away-neutral-dumb-arrange
+bip_39_word_dash_2: defy-debris
+bip_39_word_dash_3: defy-debris-stove
+bip_39_word_dash_4: defy-debris-stove-bind
+bip_39_word_dash_5: defy-debris-stove-bind-album
+bip_39_word_dash_6: defy-debris-stove-bind-album-grass
+bip_39_word_dash_7: defy-debris-stove-bind-album-grass-member
+bip_39_word_dash_8: defy-debris-stove-bind-album-grass-member-round
+bip_39_word_dash_9: defy-debris-stove-bind-album-grass-member-round-away
 bip_39_word_new_br_1: defy
 bip_39_word_new_br_10: defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round<br>away<br>neutral
 bip_39_word_new_br_11: defy<br>debris<br>stove<br>bind<br>album<br>grass<br>member<br>round<br>away<br>neutral<br>dumb
@@ -193,6 +205,18 @@ bip_39_word_space_6: defy debris stove bind album grass
 bip_39_word_space_7: defy debris stove bind album grass member
 bip_39_word_space_8: defy debris stove bind album grass member round
 bip_39_word_space_9: defy debris stove bind album grass member round away
+bip_39_word_underscore_1: defy
+bip_39_word_underscore_10: defy_debris_stove_bind_album_grass_member_round_away_neutral
+bip_39_word_underscore_11: defy_debris_stove_bind_album_grass_member_round_away_neutral_dumb
+bip_39_word_underscore_12: defy_debris_stove_bind_album_grass_member_round_away_neutral_dumb_arrange
+bip_39_word_underscore_2: defy_debris
+bip_39_word_underscore_3: defy_debris_stove
+bip_39_word_underscore_4: defy_debris_stove_bind
+bip_39_word_underscore_5: defy_debris_stove_bind_album
+bip_39_word_underscore_6: defy_debris_stove_bind_album_grass
+bip_39_word_underscore_7: defy_debris_stove_bind_album_grass_member
+bip_39_word_underscore_8: defy_debris_stove_bind_album_grass_member_round
+bip_39_word_underscore_9: defy_debris_stove_bind_album_grass_member_round_away
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

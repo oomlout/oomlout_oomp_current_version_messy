@@ -1,3 +1,15 @@
+bip_39_word_dash_1: huge
+bip_39_word_dash_10: huge-east-diary-guitar-donor-raw-wrist-capital-gentle-soap
+bip_39_word_dash_11: huge-east-diary-guitar-donor-raw-wrist-capital-gentle-soap-dad
+bip_39_word_dash_12: huge-east-diary-guitar-donor-raw-wrist-capital-gentle-soap-dad-almost
+bip_39_word_dash_2: huge-east
+bip_39_word_dash_3: huge-east-diary
+bip_39_word_dash_4: huge-east-diary-guitar
+bip_39_word_dash_5: huge-east-diary-guitar-donor
+bip_39_word_dash_6: huge-east-diary-guitar-donor-raw
+bip_39_word_dash_7: huge-east-diary-guitar-donor-raw-wrist
+bip_39_word_dash_8: huge-east-diary-guitar-donor-raw-wrist-capital
+bip_39_word_dash_9: huge-east-diary-guitar-donor-raw-wrist-capital-gentle
 bip_39_word_new_br_1: huge
 bip_39_word_new_br_10: huge<br>east<br>diary<br>guitar<br>donor<br>raw<br>wrist<br>capital<br>gentle<br>soap
 bip_39_word_new_br_11: huge<br>east<br>diary<br>guitar<br>donor<br>raw<br>wrist<br>capital<br>gentle<br>soap<br>dad
@@ -192,6 +204,18 @@ bip_39_word_space_6: huge east diary guitar donor raw
 bip_39_word_space_7: huge east diary guitar donor raw wrist
 bip_39_word_space_8: huge east diary guitar donor raw wrist capital
 bip_39_word_space_9: huge east diary guitar donor raw wrist capital gentle
+bip_39_word_underscore_1: huge
+bip_39_word_underscore_10: huge_east_diary_guitar_donor_raw_wrist_capital_gentle_soap
+bip_39_word_underscore_11: huge_east_diary_guitar_donor_raw_wrist_capital_gentle_soap_dad
+bip_39_word_underscore_12: huge_east_diary_guitar_donor_raw_wrist_capital_gentle_soap_dad_almost
+bip_39_word_underscore_2: huge_east
+bip_39_word_underscore_3: huge_east_diary
+bip_39_word_underscore_4: huge_east_diary_guitar
+bip_39_word_underscore_5: huge_east_diary_guitar_donor
+bip_39_word_underscore_6: huge_east_diary_guitar_donor_raw
+bip_39_word_underscore_7: huge_east_diary_guitar_donor_raw_wrist
+bip_39_word_underscore_8: huge_east_diary_guitar_donor_raw_wrist_capital
+bip_39_word_underscore_9: huge_east_diary_guitar_donor_raw_wrist_capital_gentle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | win |  
+| bip_39_word_dash_10 | win-fix-october-grow-people-leisure-current-patrol-scout-drive |  
+| bip_39_word_dash_11 | win-fix-october-grow-people-leisure-current-patrol-scout-drive-flag |  
+| bip_39_word_dash_12 | win-fix-october-grow-people-leisure-current-patrol-scout-drive-flag-acid |  
+| bip_39_word_dash_2 | win-fix |  
+| bip_39_word_dash_3 | win-fix-october |  
+| bip_39_word_dash_4 | win-fix-october-grow |  
+| bip_39_word_dash_5 | win-fix-october-grow-people |  
+| bip_39_word_dash_6 | win-fix-october-grow-people-leisure |  
+| bip_39_word_dash_7 | win-fix-october-grow-people-leisure-current |  
+| bip_39_word_dash_8 | win-fix-october-grow-people-leisure-current-patrol |  
+| bip_39_word_dash_9 | win-fix-october-grow-people-leisure-current-patrol-scout |  
 | bip_39_word_new_br_1 | win |  
 | bip_39_word_new_br_10 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive |  
 | bip_39_word_new_br_11 | win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive<br>flag |  
@@ -147,6 +159,18 @@ scout |
 | bip_39_word_space_7 | win fix october grow people leisure current |  
 | bip_39_word_space_8 | win fix october grow people leisure current patrol |  
 | bip_39_word_space_9 | win fix october grow people leisure current patrol scout |  
+| bip_39_word_underscore_1 | win |  
+| bip_39_word_underscore_10 | win_fix_october_grow_people_leisure_current_patrol_scout_drive |  
+| bip_39_word_underscore_11 | win_fix_october_grow_people_leisure_current_patrol_scout_drive_flag |  
+| bip_39_word_underscore_12 | win_fix_october_grow_people_leisure_current_patrol_scout_drive_flag_acid |  
+| bip_39_word_underscore_2 | win_fix |  
+| bip_39_word_underscore_3 | win_fix_october |  
+| bip_39_word_underscore_4 | win_fix_october_grow |  
+| bip_39_word_underscore_5 | win_fix_october_grow_people |  
+| bip_39_word_underscore_6 | win_fix_october_grow_people_leisure |  
+| bip_39_word_underscore_7 | win_fix_october_grow_people_leisure_current |  
+| bip_39_word_underscore_8 | win_fix_october_grow_people_leisure_current_patrol |  
+| bip_39_word_underscore_9 | win_fix_october_grow_people_leisure_current_patrol_scout |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

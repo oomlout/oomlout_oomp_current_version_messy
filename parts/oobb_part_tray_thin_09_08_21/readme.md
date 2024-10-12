@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | confirm |  
+| bip_39_word_dash_10 | confirm-glide-pause-coconut-car-snap-hover-home-amateur-edit |  
+| bip_39_word_dash_11 | confirm-glide-pause-coconut-car-snap-hover-home-amateur-edit-device |  
+| bip_39_word_dash_12 | confirm-glide-pause-coconut-car-snap-hover-home-amateur-edit-device-afford |  
+| bip_39_word_dash_2 | confirm-glide |  
+| bip_39_word_dash_3 | confirm-glide-pause |  
+| bip_39_word_dash_4 | confirm-glide-pause-coconut |  
+| bip_39_word_dash_5 | confirm-glide-pause-coconut-car |  
+| bip_39_word_dash_6 | confirm-glide-pause-coconut-car-snap |  
+| bip_39_word_dash_7 | confirm-glide-pause-coconut-car-snap-hover |  
+| bip_39_word_dash_8 | confirm-glide-pause-coconut-car-snap-hover-home |  
+| bip_39_word_dash_9 | confirm-glide-pause-coconut-car-snap-hover-home-amateur |  
 | bip_39_word_new_br_1 | confirm |  
 | bip_39_word_new_br_10 | confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit |  
 | bip_39_word_new_br_11 | confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit<br>device |  
@@ -147,6 +159,18 @@ amateur |
 | bip_39_word_space_7 | confirm glide pause coconut car snap hover |  
 | bip_39_word_space_8 | confirm glide pause coconut car snap hover home |  
 | bip_39_word_space_9 | confirm glide pause coconut car snap hover home amateur |  
+| bip_39_word_underscore_1 | confirm |  
+| bip_39_word_underscore_10 | confirm_glide_pause_coconut_car_snap_hover_home_amateur_edit |  
+| bip_39_word_underscore_11 | confirm_glide_pause_coconut_car_snap_hover_home_amateur_edit_device |  
+| bip_39_word_underscore_12 | confirm_glide_pause_coconut_car_snap_hover_home_amateur_edit_device_afford |  
+| bip_39_word_underscore_2 | confirm_glide |  
+| bip_39_word_underscore_3 | confirm_glide_pause |  
+| bip_39_word_underscore_4 | confirm_glide_pause_coconut |  
+| bip_39_word_underscore_5 | confirm_glide_pause_coconut_car |  
+| bip_39_word_underscore_6 | confirm_glide_pause_coconut_car_snap |  
+| bip_39_word_underscore_7 | confirm_glide_pause_coconut_car_snap_hover |  
+| bip_39_word_underscore_8 | confirm_glide_pause_coconut_car_snap_hover_home |  
+| bip_39_word_underscore_9 | confirm_glide_pause_coconut_car_snap_hover_home_amateur |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

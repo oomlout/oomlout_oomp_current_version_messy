@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clip |  
+| bip_39_word_dash_10 | clip-cement-define-illness-swarm-also-dumb-spirit-orange-genuine |  
+| bip_39_word_dash_11 | clip-cement-define-illness-swarm-also-dumb-spirit-orange-genuine-veteran |  
+| bip_39_word_dash_12 | clip-cement-define-illness-swarm-also-dumb-spirit-orange-genuine-veteran-auction |  
+| bip_39_word_dash_2 | clip-cement |  
+| bip_39_word_dash_3 | clip-cement-define |  
+| bip_39_word_dash_4 | clip-cement-define-illness |  
+| bip_39_word_dash_5 | clip-cement-define-illness-swarm |  
+| bip_39_word_dash_6 | clip-cement-define-illness-swarm-also |  
+| bip_39_word_dash_7 | clip-cement-define-illness-swarm-also-dumb |  
+| bip_39_word_dash_8 | clip-cement-define-illness-swarm-also-dumb-spirit |  
+| bip_39_word_dash_9 | clip-cement-define-illness-swarm-also-dumb-spirit-orange |  
 | bip_39_word_new_br_1 | clip |  
 | bip_39_word_new_br_10 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit<br>orange<br>genuine |  
 | bip_39_word_new_br_11 | clip<br>cement<br>define<br>illness<br>swarm<br>also<br>dumb<br>spirit<br>orange<br>genuine<br>veteran |  
@@ -147,6 +159,18 @@ orange |
 | bip_39_word_space_7 | clip cement define illness swarm also dumb |  
 | bip_39_word_space_8 | clip cement define illness swarm also dumb spirit |  
 | bip_39_word_space_9 | clip cement define illness swarm also dumb spirit orange |  
+| bip_39_word_underscore_1 | clip |  
+| bip_39_word_underscore_10 | clip_cement_define_illness_swarm_also_dumb_spirit_orange_genuine |  
+| bip_39_word_underscore_11 | clip_cement_define_illness_swarm_also_dumb_spirit_orange_genuine_veteran |  
+| bip_39_word_underscore_12 | clip_cement_define_illness_swarm_also_dumb_spirit_orange_genuine_veteran_auction |  
+| bip_39_word_underscore_2 | clip_cement |  
+| bip_39_word_underscore_3 | clip_cement_define |  
+| bip_39_word_underscore_4 | clip_cement_define_illness |  
+| bip_39_word_underscore_5 | clip_cement_define_illness_swarm |  
+| bip_39_word_underscore_6 | clip_cement_define_illness_swarm_also |  
+| bip_39_word_underscore_7 | clip_cement_define_illness_swarm_also_dumb |  
+| bip_39_word_underscore_8 | clip_cement_define_illness_swarm_also_dumb_spirit |  
+| bip_39_word_underscore_9 | clip_cement_define_illness_swarm_also_dumb_spirit_orange |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

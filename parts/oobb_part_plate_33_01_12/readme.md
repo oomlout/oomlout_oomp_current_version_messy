@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gold |  
+| bip_39_word_dash_10 | gold-rigid-pull-cash-impact-vapor-inch-double-power-woman |  
+| bip_39_word_dash_11 | gold-rigid-pull-cash-impact-vapor-inch-double-power-woman-dumb |  
+| bip_39_word_dash_12 | gold-rigid-pull-cash-impact-vapor-inch-double-power-woman-dumb-artefact |  
+| bip_39_word_dash_2 | gold-rigid |  
+| bip_39_word_dash_3 | gold-rigid-pull |  
+| bip_39_word_dash_4 | gold-rigid-pull-cash |  
+| bip_39_word_dash_5 | gold-rigid-pull-cash-impact |  
+| bip_39_word_dash_6 | gold-rigid-pull-cash-impact-vapor |  
+| bip_39_word_dash_7 | gold-rigid-pull-cash-impact-vapor-inch |  
+| bip_39_word_dash_8 | gold-rigid-pull-cash-impact-vapor-inch-double |  
+| bip_39_word_dash_9 | gold-rigid-pull-cash-impact-vapor-inch-double-power |  
 | bip_39_word_new_br_1 | gold |  
 | bip_39_word_new_br_10 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman |  
 | bip_39_word_new_br_11 | gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman<br>dumb |  
@@ -147,6 +159,18 @@ power |
 | bip_39_word_space_7 | gold rigid pull cash impact vapor inch |  
 | bip_39_word_space_8 | gold rigid pull cash impact vapor inch double |  
 | bip_39_word_space_9 | gold rigid pull cash impact vapor inch double power |  
+| bip_39_word_underscore_1 | gold |  
+| bip_39_word_underscore_10 | gold_rigid_pull_cash_impact_vapor_inch_double_power_woman |  
+| bip_39_word_underscore_11 | gold_rigid_pull_cash_impact_vapor_inch_double_power_woman_dumb |  
+| bip_39_word_underscore_12 | gold_rigid_pull_cash_impact_vapor_inch_double_power_woman_dumb_artefact |  
+| bip_39_word_underscore_2 | gold_rigid |  
+| bip_39_word_underscore_3 | gold_rigid_pull |  
+| bip_39_word_underscore_4 | gold_rigid_pull_cash |  
+| bip_39_word_underscore_5 | gold_rigid_pull_cash_impact |  
+| bip_39_word_underscore_6 | gold_rigid_pull_cash_impact_vapor |  
+| bip_39_word_underscore_7 | gold_rigid_pull_cash_impact_vapor_inch |  
+| bip_39_word_underscore_8 | gold_rigid_pull_cash_impact_vapor_inch_double |  
+| bip_39_word_underscore_9 | gold_rigid_pull_cash_impact_vapor_inch_double_power |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

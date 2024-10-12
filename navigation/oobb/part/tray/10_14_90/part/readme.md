@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exact |  
+| bip_39_word_dash_10 | exact-purity-toy-attend-clap-boy-shift-enable-cliff-program |  
+| bip_39_word_dash_11 | exact-purity-toy-attend-clap-boy-shift-enable-cliff-program-thrive |  
+| bip_39_word_dash_12 | exact-purity-toy-attend-clap-boy-shift-enable-cliff-program-thrive-avocado |  
+| bip_39_word_dash_2 | exact-purity |  
+| bip_39_word_dash_3 | exact-purity-toy |  
+| bip_39_word_dash_4 | exact-purity-toy-attend |  
+| bip_39_word_dash_5 | exact-purity-toy-attend-clap |  
+| bip_39_word_dash_6 | exact-purity-toy-attend-clap-boy |  
+| bip_39_word_dash_7 | exact-purity-toy-attend-clap-boy-shift |  
+| bip_39_word_dash_8 | exact-purity-toy-attend-clap-boy-shift-enable |  
+| bip_39_word_dash_9 | exact-purity-toy-attend-clap-boy-shift-enable-cliff |  
 | bip_39_word_new_br_1 | exact |  
 | bip_39_word_new_br_10 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program |  
 | bip_39_word_new_br_11 | exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program<br>thrive |  
@@ -147,6 +159,18 @@ cliff |
 | bip_39_word_space_7 | exact purity toy attend clap boy shift |  
 | bip_39_word_space_8 | exact purity toy attend clap boy shift enable |  
 | bip_39_word_space_9 | exact purity toy attend clap boy shift enable cliff |  
+| bip_39_word_underscore_1 | exact |  
+| bip_39_word_underscore_10 | exact_purity_toy_attend_clap_boy_shift_enable_cliff_program |  
+| bip_39_word_underscore_11 | exact_purity_toy_attend_clap_boy_shift_enable_cliff_program_thrive |  
+| bip_39_word_underscore_12 | exact_purity_toy_attend_clap_boy_shift_enable_cliff_program_thrive_avocado |  
+| bip_39_word_underscore_2 | exact_purity |  
+| bip_39_word_underscore_3 | exact_purity_toy |  
+| bip_39_word_underscore_4 | exact_purity_toy_attend |  
+| bip_39_word_underscore_5 | exact_purity_toy_attend_clap |  
+| bip_39_word_underscore_6 | exact_purity_toy_attend_clap_boy |  
+| bip_39_word_underscore_7 | exact_purity_toy_attend_clap_boy_shift |  
+| bip_39_word_underscore_8 | exact_purity_toy_attend_clap_boy_shift_enable |  
+| bip_39_word_underscore_9 | exact_purity_toy_attend_clap_boy_shift_enable_cliff |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

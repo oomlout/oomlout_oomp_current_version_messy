@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | settle |  
+| bip_39_word_dash_10 | settle-spawn-safe-satoshi-wrong-angle-venture-fiction-identify-august |  
+| bip_39_word_dash_11 | settle-spawn-safe-satoshi-wrong-angle-venture-fiction-identify-august-sauce |  
+| bip_39_word_dash_12 | settle-spawn-safe-satoshi-wrong-angle-venture-fiction-identify-august-sauce-appear |  
+| bip_39_word_dash_2 | settle-spawn |  
+| bip_39_word_dash_3 | settle-spawn-safe |  
+| bip_39_word_dash_4 | settle-spawn-safe-satoshi |  
+| bip_39_word_dash_5 | settle-spawn-safe-satoshi-wrong |  
+| bip_39_word_dash_6 | settle-spawn-safe-satoshi-wrong-angle |  
+| bip_39_word_dash_7 | settle-spawn-safe-satoshi-wrong-angle-venture |  
+| bip_39_word_dash_8 | settle-spawn-safe-satoshi-wrong-angle-venture-fiction |  
+| bip_39_word_dash_9 | settle-spawn-safe-satoshi-wrong-angle-venture-fiction-identify |  
 | bip_39_word_new_br_1 | settle |  
 | bip_39_word_new_br_10 | settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction<br>identify<br>august |  
 | bip_39_word_new_br_11 | settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction<br>identify<br>august<br>sauce |  
@@ -147,6 +159,18 @@ identify |
 | bip_39_word_space_7 | settle spawn safe satoshi wrong angle venture |  
 | bip_39_word_space_8 | settle spawn safe satoshi wrong angle venture fiction |  
 | bip_39_word_space_9 | settle spawn safe satoshi wrong angle venture fiction identify |  
+| bip_39_word_underscore_1 | settle |  
+| bip_39_word_underscore_10 | settle_spawn_safe_satoshi_wrong_angle_venture_fiction_identify_august |  
+| bip_39_word_underscore_11 | settle_spawn_safe_satoshi_wrong_angle_venture_fiction_identify_august_sauce |  
+| bip_39_word_underscore_12 | settle_spawn_safe_satoshi_wrong_angle_venture_fiction_identify_august_sauce_appear |  
+| bip_39_word_underscore_2 | settle_spawn |  
+| bip_39_word_underscore_3 | settle_spawn_safe |  
+| bip_39_word_underscore_4 | settle_spawn_safe_satoshi |  
+| bip_39_word_underscore_5 | settle_spawn_safe_satoshi_wrong |  
+| bip_39_word_underscore_6 | settle_spawn_safe_satoshi_wrong_angle |  
+| bip_39_word_underscore_7 | settle_spawn_safe_satoshi_wrong_angle_venture |  
+| bip_39_word_underscore_8 | settle_spawn_safe_satoshi_wrong_angle_venture_fiction |  
+| bip_39_word_underscore_9 | settle_spawn_safe_satoshi_wrong_angle_venture_fiction_identify |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

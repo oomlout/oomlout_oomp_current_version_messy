@@ -1,3 +1,15 @@
+bip_39_word_dash_1: escape
+bip_39_word_dash_10: escape-grow-cement-detect-fish-wrap-fix-raccoon-depth-bullet
+bip_39_word_dash_11: escape-grow-cement-detect-fish-wrap-fix-raccoon-depth-bullet-share
+bip_39_word_dash_12: escape-grow-cement-detect-fish-wrap-fix-raccoon-depth-bullet-share-achieve
+bip_39_word_dash_2: escape-grow
+bip_39_word_dash_3: escape-grow-cement
+bip_39_word_dash_4: escape-grow-cement-detect
+bip_39_word_dash_5: escape-grow-cement-detect-fish
+bip_39_word_dash_6: escape-grow-cement-detect-fish-wrap
+bip_39_word_dash_7: escape-grow-cement-detect-fish-wrap-fix
+bip_39_word_dash_8: escape-grow-cement-detect-fish-wrap-fix-raccoon
+bip_39_word_dash_9: escape-grow-cement-detect-fish-wrap-fix-raccoon-depth
 bip_39_word_new_br_1: escape
 bip_39_word_new_br_10: escape<br>grow<br>cement<br>detect<br>fish<br>wrap<br>fix<br>raccoon<br>depth<br>bullet
 bip_39_word_new_br_11: escape<br>grow<br>cement<br>detect<br>fish<br>wrap<br>fix<br>raccoon<br>depth<br>bullet<br>share
@@ -193,6 +205,18 @@ bip_39_word_space_6: escape grow cement detect fish wrap
 bip_39_word_space_7: escape grow cement detect fish wrap fix
 bip_39_word_space_8: escape grow cement detect fish wrap fix raccoon
 bip_39_word_space_9: escape grow cement detect fish wrap fix raccoon depth
+bip_39_word_underscore_1: escape
+bip_39_word_underscore_10: escape_grow_cement_detect_fish_wrap_fix_raccoon_depth_bullet
+bip_39_word_underscore_11: escape_grow_cement_detect_fish_wrap_fix_raccoon_depth_bullet_share
+bip_39_word_underscore_12: escape_grow_cement_detect_fish_wrap_fix_raccoon_depth_bullet_share_achieve
+bip_39_word_underscore_2: escape_grow
+bip_39_word_underscore_3: escape_grow_cement
+bip_39_word_underscore_4: escape_grow_cement_detect
+bip_39_word_underscore_5: escape_grow_cement_detect_fish
+bip_39_word_underscore_6: escape_grow_cement_detect_fish_wrap
+bip_39_word_underscore_7: escape_grow_cement_detect_fish_wrap_fix
+bip_39_word_underscore_8: escape_grow_cement_detect_fish_wrap_fix_raccoon
+bip_39_word_underscore_9: escape_grow_cement_detect_fish_wrap_fix_raccoon_depth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

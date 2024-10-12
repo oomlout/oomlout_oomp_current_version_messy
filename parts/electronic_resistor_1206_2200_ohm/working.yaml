@@ -1,3 +1,15 @@
+bip_39_word_dash_1: any
+bip_39_word_dash_10: any-valley-spatial-network-color-receive-plug-sail-poem-human
+bip_39_word_dash_11: any-valley-spatial-network-color-receive-plug-sail-poem-human-impulse
+bip_39_word_dash_12: any-valley-spatial-network-color-receive-plug-sail-poem-human-impulse-assume
+bip_39_word_dash_2: any-valley
+bip_39_word_dash_3: any-valley-spatial
+bip_39_word_dash_4: any-valley-spatial-network
+bip_39_word_dash_5: any-valley-spatial-network-color
+bip_39_word_dash_6: any-valley-spatial-network-color-receive
+bip_39_word_dash_7: any-valley-spatial-network-color-receive-plug
+bip_39_word_dash_8: any-valley-spatial-network-color-receive-plug-sail
+bip_39_word_dash_9: any-valley-spatial-network-color-receive-plug-sail-poem
 bip_39_word_new_br_1: any
 bip_39_word_new_br_10: any<br>valley<br>spatial<br>network<br>color<br>receive<br>plug<br>sail<br>poem<br>human
 bip_39_word_new_br_11: any<br>valley<br>spatial<br>network<br>color<br>receive<br>plug<br>sail<br>poem<br>human<br>impulse
@@ -193,6 +205,18 @@ bip_39_word_space_6: any valley spatial network color receive
 bip_39_word_space_7: any valley spatial network color receive plug
 bip_39_word_space_8: any valley spatial network color receive plug sail
 bip_39_word_space_9: any valley spatial network color receive plug sail poem
+bip_39_word_underscore_1: any
+bip_39_word_underscore_10: any_valley_spatial_network_color_receive_plug_sail_poem_human
+bip_39_word_underscore_11: any_valley_spatial_network_color_receive_plug_sail_poem_human_impulse
+bip_39_word_underscore_12: any_valley_spatial_network_color_receive_plug_sail_poem_human_impulse_assume
+bip_39_word_underscore_2: any_valley
+bip_39_word_underscore_3: any_valley_spatial
+bip_39_word_underscore_4: any_valley_spatial_network
+bip_39_word_underscore_5: any_valley_spatial_network_color
+bip_39_word_underscore_6: any_valley_spatial_network_color_receive
+bip_39_word_underscore_7: any_valley_spatial_network_color_receive_plug
+bip_39_word_underscore_8: any_valley_spatial_network_color_receive_plug_sail
+bip_39_word_underscore_9: any_valley_spatial_network_color_receive_plug_sail_poem
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

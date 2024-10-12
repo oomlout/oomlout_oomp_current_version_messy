@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arm |  
+| bip_39_word_dash_10 | arm-dragon-issue-thing-shop-turn-october-zone-lady-antique |  
+| bip_39_word_dash_11 | arm-dragon-issue-thing-shop-turn-october-zone-lady-antique-hawk |  
+| bip_39_word_dash_2 | arm-dragon |  
+| bip_39_word_dash_3 | arm-dragon-issue |  
+| bip_39_word_dash_4 | arm-dragon-issue-thing |  
+| bip_39_word_dash_5 | arm-dragon-issue-thing-shop |  
+| bip_39_word_dash_6 | arm-dragon-issue-thing-shop-turn |  
+| bip_39_word_dash_7 | arm-dragon-issue-thing-shop-turn-october |  
+| bip_39_word_dash_8 | arm-dragon-issue-thing-shop-turn-october-zone |  
+| bip_39_word_dash_9 | arm-dragon-issue-thing-shop-turn-october-zone-lady |  
 | bip_39_word_new_br_1 | arm |  
 | bip_39_word_new_br_10 | arm<br>dragon<br>issue<br>thing<br>shop<br>turn<br>october<br>zone<br>lady<br>antique |  
 | bip_39_word_new_br_11 | arm<br>dragon<br>issue<br>thing<br>shop<br>turn<br>october<br>zone<br>lady<br>antique<br>hawk |  
@@ -132,6 +143,17 @@ lady |
 | bip_39_word_space_7 | arm dragon issue thing shop turn october |  
 | bip_39_word_space_8 | arm dragon issue thing shop turn october zone |  
 | bip_39_word_space_9 | arm dragon issue thing shop turn october zone lady |  
+| bip_39_word_underscore_1 | arm |  
+| bip_39_word_underscore_10 | arm_dragon_issue_thing_shop_turn_october_zone_lady_antique |  
+| bip_39_word_underscore_11 | arm_dragon_issue_thing_shop_turn_october_zone_lady_antique_hawk |  
+| bip_39_word_underscore_2 | arm_dragon |  
+| bip_39_word_underscore_3 | arm_dragon_issue |  
+| bip_39_word_underscore_4 | arm_dragon_issue_thing |  
+| bip_39_word_underscore_5 | arm_dragon_issue_thing_shop |  
+| bip_39_word_underscore_6 | arm_dragon_issue_thing_shop_turn |  
+| bip_39_word_underscore_7 | arm_dragon_issue_thing_shop_turn_october |  
+| bip_39_word_underscore_8 | arm_dragon_issue_thing_shop_turn_october_zone |  
+| bip_39_word_underscore_9 | arm_dragon_issue_thing_shop_turn_october_zone_lady |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

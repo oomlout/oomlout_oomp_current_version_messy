@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unable |  
+| bip_39_word_dash_10 | unable-fly-female-spoil-abandon-purchase-barrel-already-hockey-crime |  
+| bip_39_word_dash_11 | unable-fly-female-spoil-abandon-purchase-barrel-already-hockey-crime-jewel |  
+| bip_39_word_dash_12 | unable-fly-female-spoil-abandon-purchase-barrel-already-hockey-crime-jewel-attend |  
+| bip_39_word_dash_2 | unable-fly |  
+| bip_39_word_dash_3 | unable-fly-female |  
+| bip_39_word_dash_4 | unable-fly-female-spoil |  
+| bip_39_word_dash_5 | unable-fly-female-spoil-abandon |  
+| bip_39_word_dash_6 | unable-fly-female-spoil-abandon-purchase |  
+| bip_39_word_dash_7 | unable-fly-female-spoil-abandon-purchase-barrel |  
+| bip_39_word_dash_8 | unable-fly-female-spoil-abandon-purchase-barrel-already |  
+| bip_39_word_dash_9 | unable-fly-female-spoil-abandon-purchase-barrel-already-hockey |  
 | bip_39_word_new_br_1 | unable |  
 | bip_39_word_new_br_10 | unable<br>fly<br>female<br>spoil<br>abandon<br>purchase<br>barrel<br>already<br>hockey<br>crime |  
 | bip_39_word_new_br_11 | unable<br>fly<br>female<br>spoil<br>abandon<br>purchase<br>barrel<br>already<br>hockey<br>crime<br>jewel |  
@@ -147,6 +159,18 @@ hockey |
 | bip_39_word_space_7 | unable fly female spoil abandon purchase barrel |  
 | bip_39_word_space_8 | unable fly female spoil abandon purchase barrel already |  
 | bip_39_word_space_9 | unable fly female spoil abandon purchase barrel already hockey |  
+| bip_39_word_underscore_1 | unable |  
+| bip_39_word_underscore_10 | unable_fly_female_spoil_abandon_purchase_barrel_already_hockey_crime |  
+| bip_39_word_underscore_11 | unable_fly_female_spoil_abandon_purchase_barrel_already_hockey_crime_jewel |  
+| bip_39_word_underscore_12 | unable_fly_female_spoil_abandon_purchase_barrel_already_hockey_crime_jewel_attend |  
+| bip_39_word_underscore_2 | unable_fly |  
+| bip_39_word_underscore_3 | unable_fly_female |  
+| bip_39_word_underscore_4 | unable_fly_female_spoil |  
+| bip_39_word_underscore_5 | unable_fly_female_spoil_abandon |  
+| bip_39_word_underscore_6 | unable_fly_female_spoil_abandon_purchase |  
+| bip_39_word_underscore_7 | unable_fly_female_spoil_abandon_purchase_barrel |  
+| bip_39_word_underscore_8 | unable_fly_female_spoil_abandon_purchase_barrel_already |  
+| bip_39_word_underscore_9 | unable_fly_female_spoil_abandon_purchase_barrel_already_hockey |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

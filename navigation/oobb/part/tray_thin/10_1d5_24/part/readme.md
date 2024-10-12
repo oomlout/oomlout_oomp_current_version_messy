@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | child |  
+| bip_39_word_dash_10 | child-wolf-pepper-pear-gym-inherit-kid-balance-reunion-excite |  
+| bip_39_word_dash_11 | child-wolf-pepper-pear-gym-inherit-kid-balance-reunion-excite-spin |  
+| bip_39_word_dash_12 | child-wolf-pepper-pear-gym-inherit-kid-balance-reunion-excite-spin-artefact |  
+| bip_39_word_dash_2 | child-wolf |  
+| bip_39_word_dash_3 | child-wolf-pepper |  
+| bip_39_word_dash_4 | child-wolf-pepper-pear |  
+| bip_39_word_dash_5 | child-wolf-pepper-pear-gym |  
+| bip_39_word_dash_6 | child-wolf-pepper-pear-gym-inherit |  
+| bip_39_word_dash_7 | child-wolf-pepper-pear-gym-inherit-kid |  
+| bip_39_word_dash_8 | child-wolf-pepper-pear-gym-inherit-kid-balance |  
+| bip_39_word_dash_9 | child-wolf-pepper-pear-gym-inherit-kid-balance-reunion |  
 | bip_39_word_new_br_1 | child |  
 | bip_39_word_new_br_10 | child<br>wolf<br>pepper<br>pear<br>gym<br>inherit<br>kid<br>balance<br>reunion<br>excite |  
 | bip_39_word_new_br_11 | child<br>wolf<br>pepper<br>pear<br>gym<br>inherit<br>kid<br>balance<br>reunion<br>excite<br>spin |  
@@ -147,6 +159,18 @@ reunion |
 | bip_39_word_space_7 | child wolf pepper pear gym inherit kid |  
 | bip_39_word_space_8 | child wolf pepper pear gym inherit kid balance |  
 | bip_39_word_space_9 | child wolf pepper pear gym inherit kid balance reunion |  
+| bip_39_word_underscore_1 | child |  
+| bip_39_word_underscore_10 | child_wolf_pepper_pear_gym_inherit_kid_balance_reunion_excite |  
+| bip_39_word_underscore_11 | child_wolf_pepper_pear_gym_inherit_kid_balance_reunion_excite_spin |  
+| bip_39_word_underscore_12 | child_wolf_pepper_pear_gym_inherit_kid_balance_reunion_excite_spin_artefact |  
+| bip_39_word_underscore_2 | child_wolf |  
+| bip_39_word_underscore_3 | child_wolf_pepper |  
+| bip_39_word_underscore_4 | child_wolf_pepper_pear |  
+| bip_39_word_underscore_5 | child_wolf_pepper_pear_gym |  
+| bip_39_word_underscore_6 | child_wolf_pepper_pear_gym_inherit |  
+| bip_39_word_underscore_7 | child_wolf_pepper_pear_gym_inherit_kid |  
+| bip_39_word_underscore_8 | child_wolf_pepper_pear_gym_inherit_kid_balance |  
+| bip_39_word_underscore_9 | child_wolf_pepper_pear_gym_inherit_kid_balance_reunion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

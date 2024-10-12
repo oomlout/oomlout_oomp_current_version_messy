@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grain |  
+| bip_39_word_dash_10 | grain-kiss-ridge-able-garbage-orient-identify-step-gown-broccoli |  
+| bip_39_word_dash_11 | grain-kiss-ridge-able-garbage-orient-identify-step-gown-broccoli-sea |  
+| bip_39_word_dash_12 | grain-kiss-ridge-able-garbage-orient-identify-step-gown-broccoli-sea-author |  
+| bip_39_word_dash_2 | grain-kiss |  
+| bip_39_word_dash_3 | grain-kiss-ridge |  
+| bip_39_word_dash_4 | grain-kiss-ridge-able |  
+| bip_39_word_dash_5 | grain-kiss-ridge-able-garbage |  
+| bip_39_word_dash_6 | grain-kiss-ridge-able-garbage-orient |  
+| bip_39_word_dash_7 | grain-kiss-ridge-able-garbage-orient-identify |  
+| bip_39_word_dash_8 | grain-kiss-ridge-able-garbage-orient-identify-step |  
+| bip_39_word_dash_9 | grain-kiss-ridge-able-garbage-orient-identify-step-gown |  
 | bip_39_word_new_br_1 | grain |  
 | bip_39_word_new_br_10 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli |  
 | bip_39_word_new_br_11 | grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli<br>sea |  
@@ -147,6 +159,18 @@ gown |
 | bip_39_word_space_7 | grain kiss ridge able garbage orient identify |  
 | bip_39_word_space_8 | grain kiss ridge able garbage orient identify step |  
 | bip_39_word_space_9 | grain kiss ridge able garbage orient identify step gown |  
+| bip_39_word_underscore_1 | grain |  
+| bip_39_word_underscore_10 | grain_kiss_ridge_able_garbage_orient_identify_step_gown_broccoli |  
+| bip_39_word_underscore_11 | grain_kiss_ridge_able_garbage_orient_identify_step_gown_broccoli_sea |  
+| bip_39_word_underscore_12 | grain_kiss_ridge_able_garbage_orient_identify_step_gown_broccoli_sea_author |  
+| bip_39_word_underscore_2 | grain_kiss |  
+| bip_39_word_underscore_3 | grain_kiss_ridge |  
+| bip_39_word_underscore_4 | grain_kiss_ridge_able |  
+| bip_39_word_underscore_5 | grain_kiss_ridge_able_garbage |  
+| bip_39_word_underscore_6 | grain_kiss_ridge_able_garbage_orient |  
+| bip_39_word_underscore_7 | grain_kiss_ridge_able_garbage_orient_identify |  
+| bip_39_word_underscore_8 | grain_kiss_ridge_able_garbage_orient_identify_step |  
+| bip_39_word_underscore_9 | grain_kiss_ridge_able_garbage_orient_identify_step_gown |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

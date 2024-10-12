@@ -1,3 +1,15 @@
+bip_39_word_dash_1: curve
+bip_39_word_dash_10: curve-mean-oven-onion-color-source-office-half-artwork-news
+bip_39_word_dash_11: curve-mean-oven-onion-color-source-office-half-artwork-news-soul
+bip_39_word_dash_12: curve-mean-oven-onion-color-source-office-half-artwork-news-soul-apology
+bip_39_word_dash_2: curve-mean
+bip_39_word_dash_3: curve-mean-oven
+bip_39_word_dash_4: curve-mean-oven-onion
+bip_39_word_dash_5: curve-mean-oven-onion-color
+bip_39_word_dash_6: curve-mean-oven-onion-color-source
+bip_39_word_dash_7: curve-mean-oven-onion-color-source-office
+bip_39_word_dash_8: curve-mean-oven-onion-color-source-office-half
+bip_39_word_dash_9: curve-mean-oven-onion-color-source-office-half-artwork
 bip_39_word_new_br_1: curve
 bip_39_word_new_br_10: curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news
 bip_39_word_new_br_11: curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news<br>soul
@@ -193,6 +205,18 @@ bip_39_word_space_6: curve mean oven onion color source
 bip_39_word_space_7: curve mean oven onion color source office
 bip_39_word_space_8: curve mean oven onion color source office half
 bip_39_word_space_9: curve mean oven onion color source office half artwork
+bip_39_word_underscore_1: curve
+bip_39_word_underscore_10: curve_mean_oven_onion_color_source_office_half_artwork_news
+bip_39_word_underscore_11: curve_mean_oven_onion_color_source_office_half_artwork_news_soul
+bip_39_word_underscore_12: curve_mean_oven_onion_color_source_office_half_artwork_news_soul_apology
+bip_39_word_underscore_2: curve_mean
+bip_39_word_underscore_3: curve_mean_oven
+bip_39_word_underscore_4: curve_mean_oven_onion
+bip_39_word_underscore_5: curve_mean_oven_onion_color
+bip_39_word_underscore_6: curve_mean_oven_onion_color_source
+bip_39_word_underscore_7: curve_mean_oven_onion_color_source_office
+bip_39_word_underscore_8: curve_mean_oven_onion_color_source_office_half
+bip_39_word_underscore_9: curve_mean_oven_onion_color_source_office_half_artwork
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

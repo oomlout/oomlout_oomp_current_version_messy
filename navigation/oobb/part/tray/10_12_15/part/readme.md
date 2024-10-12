@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | floor |  
+| bip_39_word_dash_10 | floor-boost-curve-smart-lava-poverty-until-garage-mystery-intact |  
+| bip_39_word_dash_11 | floor-boost-curve-smart-lava-poverty-until-garage-mystery-intact-nut |  
+| bip_39_word_dash_12 | floor-boost-curve-smart-lava-poverty-until-garage-mystery-intact-nut-almost |  
+| bip_39_word_dash_2 | floor-boost |  
+| bip_39_word_dash_3 | floor-boost-curve |  
+| bip_39_word_dash_4 | floor-boost-curve-smart |  
+| bip_39_word_dash_5 | floor-boost-curve-smart-lava |  
+| bip_39_word_dash_6 | floor-boost-curve-smart-lava-poverty |  
+| bip_39_word_dash_7 | floor-boost-curve-smart-lava-poverty-until |  
+| bip_39_word_dash_8 | floor-boost-curve-smart-lava-poverty-until-garage |  
+| bip_39_word_dash_9 | floor-boost-curve-smart-lava-poverty-until-garage-mystery |  
 | bip_39_word_new_br_1 | floor |  
 | bip_39_word_new_br_10 | floor<br>boost<br>curve<br>smart<br>lava<br>poverty<br>until<br>garage<br>mystery<br>intact |  
 | bip_39_word_new_br_11 | floor<br>boost<br>curve<br>smart<br>lava<br>poverty<br>until<br>garage<br>mystery<br>intact<br>nut |  
@@ -147,6 +159,18 @@ mystery |
 | bip_39_word_space_7 | floor boost curve smart lava poverty until |  
 | bip_39_word_space_8 | floor boost curve smart lava poverty until garage |  
 | bip_39_word_space_9 | floor boost curve smart lava poverty until garage mystery |  
+| bip_39_word_underscore_1 | floor |  
+| bip_39_word_underscore_10 | floor_boost_curve_smart_lava_poverty_until_garage_mystery_intact |  
+| bip_39_word_underscore_11 | floor_boost_curve_smart_lava_poverty_until_garage_mystery_intact_nut |  
+| bip_39_word_underscore_12 | floor_boost_curve_smart_lava_poverty_until_garage_mystery_intact_nut_almost |  
+| bip_39_word_underscore_2 | floor_boost |  
+| bip_39_word_underscore_3 | floor_boost_curve |  
+| bip_39_word_underscore_4 | floor_boost_curve_smart |  
+| bip_39_word_underscore_5 | floor_boost_curve_smart_lava |  
+| bip_39_word_underscore_6 | floor_boost_curve_smart_lava_poverty |  
+| bip_39_word_underscore_7 | floor_boost_curve_smart_lava_poverty_until |  
+| bip_39_word_underscore_8 | floor_boost_curve_smart_lava_poverty_until_garage |  
+| bip_39_word_underscore_9 | floor_boost_curve_smart_lava_poverty_until_garage_mystery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

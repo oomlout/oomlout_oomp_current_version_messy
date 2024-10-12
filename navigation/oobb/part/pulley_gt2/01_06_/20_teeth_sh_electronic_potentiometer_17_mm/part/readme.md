@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toe |  
+| bip_39_word_dash_10 | toe-craft-corn-news-original-opinion-deposit-security-man-paddle |  
+| bip_39_word_dash_11 | toe-craft-corn-news-original-opinion-deposit-security-man-paddle-smile |  
+| bip_39_word_dash_12 | toe-craft-corn-news-original-opinion-deposit-security-man-paddle-smile-another |  
+| bip_39_word_dash_2 | toe-craft |  
+| bip_39_word_dash_3 | toe-craft-corn |  
+| bip_39_word_dash_4 | toe-craft-corn-news |  
+| bip_39_word_dash_5 | toe-craft-corn-news-original |  
+| bip_39_word_dash_6 | toe-craft-corn-news-original-opinion |  
+| bip_39_word_dash_7 | toe-craft-corn-news-original-opinion-deposit |  
+| bip_39_word_dash_8 | toe-craft-corn-news-original-opinion-deposit-security |  
+| bip_39_word_dash_9 | toe-craft-corn-news-original-opinion-deposit-security-man |  
 | bip_39_word_new_br_1 | toe |  
 | bip_39_word_new_br_10 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security<br>man<br>paddle |  
 | bip_39_word_new_br_11 | toe<br>craft<br>corn<br>news<br>original<br>opinion<br>deposit<br>security<br>man<br>paddle<br>smile |  
@@ -147,6 +159,18 @@ man |
 | bip_39_word_space_7 | toe craft corn news original opinion deposit |  
 | bip_39_word_space_8 | toe craft corn news original opinion deposit security |  
 | bip_39_word_space_9 | toe craft corn news original opinion deposit security man |  
+| bip_39_word_underscore_1 | toe |  
+| bip_39_word_underscore_10 | toe_craft_corn_news_original_opinion_deposit_security_man_paddle |  
+| bip_39_word_underscore_11 | toe_craft_corn_news_original_opinion_deposit_security_man_paddle_smile |  
+| bip_39_word_underscore_12 | toe_craft_corn_news_original_opinion_deposit_security_man_paddle_smile_another |  
+| bip_39_word_underscore_2 | toe_craft |  
+| bip_39_word_underscore_3 | toe_craft_corn |  
+| bip_39_word_underscore_4 | toe_craft_corn_news |  
+| bip_39_word_underscore_5 | toe_craft_corn_news_original |  
+| bip_39_word_underscore_6 | toe_craft_corn_news_original_opinion |  
+| bip_39_word_underscore_7 | toe_craft_corn_news_original_opinion_deposit |  
+| bip_39_word_underscore_8 | toe_craft_corn_news_original_opinion_deposit_security |  
+| bip_39_word_underscore_9 | toe_craft_corn_news_original_opinion_deposit_security_man |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

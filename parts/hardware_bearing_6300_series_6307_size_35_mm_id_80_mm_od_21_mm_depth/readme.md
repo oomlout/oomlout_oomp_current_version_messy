@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | image |  
+| bip_39_word_dash_10 | image-crouch-mother-fortune-inspire-average-switch-blood-result-awake |  
+| bip_39_word_dash_11 | image-crouch-mother-fortune-inspire-average-switch-blood-result-awake-mushroom |  
+| bip_39_word_dash_12 | image-crouch-mother-fortune-inspire-average-switch-blood-result-awake-mushroom-annual |  
+| bip_39_word_dash_2 | image-crouch |  
+| bip_39_word_dash_3 | image-crouch-mother |  
+| bip_39_word_dash_4 | image-crouch-mother-fortune |  
+| bip_39_word_dash_5 | image-crouch-mother-fortune-inspire |  
+| bip_39_word_dash_6 | image-crouch-mother-fortune-inspire-average |  
+| bip_39_word_dash_7 | image-crouch-mother-fortune-inspire-average-switch |  
+| bip_39_word_dash_8 | image-crouch-mother-fortune-inspire-average-switch-blood |  
+| bip_39_word_dash_9 | image-crouch-mother-fortune-inspire-average-switch-blood-result |  
 | bip_39_word_new_br_1 | image |  
 | bip_39_word_new_br_10 | image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood<br>result<br>awake |  
 | bip_39_word_new_br_11 | image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood<br>result<br>awake<br>mushroom |  
@@ -147,6 +159,18 @@ result |
 | bip_39_word_space_7 | image crouch mother fortune inspire average switch |  
 | bip_39_word_space_8 | image crouch mother fortune inspire average switch blood |  
 | bip_39_word_space_9 | image crouch mother fortune inspire average switch blood result |  
+| bip_39_word_underscore_1 | image |  
+| bip_39_word_underscore_10 | image_crouch_mother_fortune_inspire_average_switch_blood_result_awake |  
+| bip_39_word_underscore_11 | image_crouch_mother_fortune_inspire_average_switch_blood_result_awake_mushroom |  
+| bip_39_word_underscore_12 | image_crouch_mother_fortune_inspire_average_switch_blood_result_awake_mushroom_annual |  
+| bip_39_word_underscore_2 | image_crouch |  
+| bip_39_word_underscore_3 | image_crouch_mother |  
+| bip_39_word_underscore_4 | image_crouch_mother_fortune |  
+| bip_39_word_underscore_5 | image_crouch_mother_fortune_inspire |  
+| bip_39_word_underscore_6 | image_crouch_mother_fortune_inspire_average |  
+| bip_39_word_underscore_7 | image_crouch_mother_fortune_inspire_average_switch |  
+| bip_39_word_underscore_8 | image_crouch_mother_fortune_inspire_average_switch_blood |  
+| bip_39_word_underscore_9 | image_crouch_mother_fortune_inspire_average_switch_blood_result |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

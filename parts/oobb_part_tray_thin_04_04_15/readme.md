@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | portion |  
+| bip_39_word_dash_10 | portion-allow-dog-puppy-urban-wolf-kiwi-essence-deny-wage |  
+| bip_39_word_dash_11 | portion-allow-dog-puppy-urban-wolf-kiwi-essence-deny-wage-donor |  
+| bip_39_word_dash_12 | portion-allow-dog-puppy-urban-wolf-kiwi-essence-deny-wage-donor-art |  
+| bip_39_word_dash_2 | portion-allow |  
+| bip_39_word_dash_3 | portion-allow-dog |  
+| bip_39_word_dash_4 | portion-allow-dog-puppy |  
+| bip_39_word_dash_5 | portion-allow-dog-puppy-urban |  
+| bip_39_word_dash_6 | portion-allow-dog-puppy-urban-wolf |  
+| bip_39_word_dash_7 | portion-allow-dog-puppy-urban-wolf-kiwi |  
+| bip_39_word_dash_8 | portion-allow-dog-puppy-urban-wolf-kiwi-essence |  
+| bip_39_word_dash_9 | portion-allow-dog-puppy-urban-wolf-kiwi-essence-deny |  
 | bip_39_word_new_br_1 | portion |  
 | bip_39_word_new_br_10 | portion<br>allow<br>dog<br>puppy<br>urban<br>wolf<br>kiwi<br>essence<br>deny<br>wage |  
 | bip_39_word_new_br_11 | portion<br>allow<br>dog<br>puppy<br>urban<br>wolf<br>kiwi<br>essence<br>deny<br>wage<br>donor |  
@@ -147,6 +159,18 @@ deny |
 | bip_39_word_space_7 | portion allow dog puppy urban wolf kiwi |  
 | bip_39_word_space_8 | portion allow dog puppy urban wolf kiwi essence |  
 | bip_39_word_space_9 | portion allow dog puppy urban wolf kiwi essence deny |  
+| bip_39_word_underscore_1 | portion |  
+| bip_39_word_underscore_10 | portion_allow_dog_puppy_urban_wolf_kiwi_essence_deny_wage |  
+| bip_39_word_underscore_11 | portion_allow_dog_puppy_urban_wolf_kiwi_essence_deny_wage_donor |  
+| bip_39_word_underscore_12 | portion_allow_dog_puppy_urban_wolf_kiwi_essence_deny_wage_donor_art |  
+| bip_39_word_underscore_2 | portion_allow |  
+| bip_39_word_underscore_3 | portion_allow_dog |  
+| bip_39_word_underscore_4 | portion_allow_dog_puppy |  
+| bip_39_word_underscore_5 | portion_allow_dog_puppy_urban |  
+| bip_39_word_underscore_6 | portion_allow_dog_puppy_urban_wolf |  
+| bip_39_word_underscore_7 | portion_allow_dog_puppy_urban_wolf_kiwi |  
+| bip_39_word_underscore_8 | portion_allow_dog_puppy_urban_wolf_kiwi_essence |  
+| bip_39_word_underscore_9 | portion_allow_dog_puppy_urban_wolf_kiwi_essence_deny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

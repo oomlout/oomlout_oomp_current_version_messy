@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | icon |  
+| bip_39_word_dash_10 | icon-able-flight-orange-scrap-lens-emotion-float-toddler-topple |  
+| bip_39_word_dash_11 | icon-able-flight-orange-scrap-lens-emotion-float-toddler-topple-famous |  
+| bip_39_word_dash_12 | icon-able-flight-orange-scrap-lens-emotion-float-toddler-topple-famous-animal |  
+| bip_39_word_dash_2 | icon-able |  
+| bip_39_word_dash_3 | icon-able-flight |  
+| bip_39_word_dash_4 | icon-able-flight-orange |  
+| bip_39_word_dash_5 | icon-able-flight-orange-scrap |  
+| bip_39_word_dash_6 | icon-able-flight-orange-scrap-lens |  
+| bip_39_word_dash_7 | icon-able-flight-orange-scrap-lens-emotion |  
+| bip_39_word_dash_8 | icon-able-flight-orange-scrap-lens-emotion-float |  
+| bip_39_word_dash_9 | icon-able-flight-orange-scrap-lens-emotion-float-toddler |  
 | bip_39_word_new_br_1 | icon |  
 | bip_39_word_new_br_10 | icon<br>able<br>flight<br>orange<br>scrap<br>lens<br>emotion<br>float<br>toddler<br>topple |  
 | bip_39_word_new_br_11 | icon<br>able<br>flight<br>orange<br>scrap<br>lens<br>emotion<br>float<br>toddler<br>topple<br>famous |  
@@ -147,6 +159,18 @@ toddler |
 | bip_39_word_space_7 | icon able flight orange scrap lens emotion |  
 | bip_39_word_space_8 | icon able flight orange scrap lens emotion float |  
 | bip_39_word_space_9 | icon able flight orange scrap lens emotion float toddler |  
+| bip_39_word_underscore_1 | icon |  
+| bip_39_word_underscore_10 | icon_able_flight_orange_scrap_lens_emotion_float_toddler_topple |  
+| bip_39_word_underscore_11 | icon_able_flight_orange_scrap_lens_emotion_float_toddler_topple_famous |  
+| bip_39_word_underscore_12 | icon_able_flight_orange_scrap_lens_emotion_float_toddler_topple_famous_animal |  
+| bip_39_word_underscore_2 | icon_able |  
+| bip_39_word_underscore_3 | icon_able_flight |  
+| bip_39_word_underscore_4 | icon_able_flight_orange |  
+| bip_39_word_underscore_5 | icon_able_flight_orange_scrap |  
+| bip_39_word_underscore_6 | icon_able_flight_orange_scrap_lens |  
+| bip_39_word_underscore_7 | icon_able_flight_orange_scrap_lens_emotion |  
+| bip_39_word_underscore_8 | icon_able_flight_orange_scrap_lens_emotion_float |  
+| bip_39_word_underscore_9 | icon_able_flight_orange_scrap_lens_emotion_float_toddler |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

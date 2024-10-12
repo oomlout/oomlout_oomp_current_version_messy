@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | urban |  
+| bip_39_word_dash_10 | urban-pig-again-switch-empty-result-dance-drift-subway-know |  
+| bip_39_word_dash_11 | urban-pig-again-switch-empty-result-dance-drift-subway-know-refuse |  
+| bip_39_word_dash_12 | urban-pig-again-switch-empty-result-dance-drift-subway-know-refuse-address |  
+| bip_39_word_dash_2 | urban-pig |  
+| bip_39_word_dash_3 | urban-pig-again |  
+| bip_39_word_dash_4 | urban-pig-again-switch |  
+| bip_39_word_dash_5 | urban-pig-again-switch-empty |  
+| bip_39_word_dash_6 | urban-pig-again-switch-empty-result |  
+| bip_39_word_dash_7 | urban-pig-again-switch-empty-result-dance |  
+| bip_39_word_dash_8 | urban-pig-again-switch-empty-result-dance-drift |  
+| bip_39_word_dash_9 | urban-pig-again-switch-empty-result-dance-drift-subway |  
 | bip_39_word_new_br_1 | urban |  
 | bip_39_word_new_br_10 | urban<br>pig<br>again<br>switch<br>empty<br>result<br>dance<br>drift<br>subway<br>know |  
 | bip_39_word_new_br_11 | urban<br>pig<br>again<br>switch<br>empty<br>result<br>dance<br>drift<br>subway<br>know<br>refuse |  
@@ -147,6 +159,18 @@ subway |
 | bip_39_word_space_7 | urban pig again switch empty result dance |  
 | bip_39_word_space_8 | urban pig again switch empty result dance drift |  
 | bip_39_word_space_9 | urban pig again switch empty result dance drift subway |  
+| bip_39_word_underscore_1 | urban |  
+| bip_39_word_underscore_10 | urban_pig_again_switch_empty_result_dance_drift_subway_know |  
+| bip_39_word_underscore_11 | urban_pig_again_switch_empty_result_dance_drift_subway_know_refuse |  
+| bip_39_word_underscore_12 | urban_pig_again_switch_empty_result_dance_drift_subway_know_refuse_address |  
+| bip_39_word_underscore_2 | urban_pig |  
+| bip_39_word_underscore_3 | urban_pig_again |  
+| bip_39_word_underscore_4 | urban_pig_again_switch |  
+| bip_39_word_underscore_5 | urban_pig_again_switch_empty |  
+| bip_39_word_underscore_6 | urban_pig_again_switch_empty_result |  
+| bip_39_word_underscore_7 | urban_pig_again_switch_empty_result_dance |  
+| bip_39_word_underscore_8 | urban_pig_again_switch_empty_result_dance_drift |  
+| bip_39_word_underscore_9 | urban_pig_again_switch_empty_result_dance_drift_subway |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | people |  
+| bip_39_word_dash_10 | people-refuse-they-note-online-strike-load-quantum-bird-elbow |  
+| bip_39_word_dash_11 | people-refuse-they-note-online-strike-load-quantum-bird-elbow-learn |  
+| bip_39_word_dash_12 | people-refuse-they-note-online-strike-load-quantum-bird-elbow-learn-angle |  
+| bip_39_word_dash_2 | people-refuse |  
+| bip_39_word_dash_3 | people-refuse-they |  
+| bip_39_word_dash_4 | people-refuse-they-note |  
+| bip_39_word_dash_5 | people-refuse-they-note-online |  
+| bip_39_word_dash_6 | people-refuse-they-note-online-strike |  
+| bip_39_word_dash_7 | people-refuse-they-note-online-strike-load |  
+| bip_39_word_dash_8 | people-refuse-they-note-online-strike-load-quantum |  
+| bip_39_word_dash_9 | people-refuse-they-note-online-strike-load-quantum-bird |  
 | bip_39_word_new_br_1 | people |  
 | bip_39_word_new_br_10 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow |  
 | bip_39_word_new_br_11 | people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow<br>learn |  
@@ -147,6 +159,18 @@ bird |
 | bip_39_word_space_7 | people refuse they note online strike load |  
 | bip_39_word_space_8 | people refuse they note online strike load quantum |  
 | bip_39_word_space_9 | people refuse they note online strike load quantum bird |  
+| bip_39_word_underscore_1 | people |  
+| bip_39_word_underscore_10 | people_refuse_they_note_online_strike_load_quantum_bird_elbow |  
+| bip_39_word_underscore_11 | people_refuse_they_note_online_strike_load_quantum_bird_elbow_learn |  
+| bip_39_word_underscore_12 | people_refuse_they_note_online_strike_load_quantum_bird_elbow_learn_angle |  
+| bip_39_word_underscore_2 | people_refuse |  
+| bip_39_word_underscore_3 | people_refuse_they |  
+| bip_39_word_underscore_4 | people_refuse_they_note |  
+| bip_39_word_underscore_5 | people_refuse_they_note_online |  
+| bip_39_word_underscore_6 | people_refuse_they_note_online_strike |  
+| bip_39_word_underscore_7 | people_refuse_they_note_online_strike_load |  
+| bip_39_word_underscore_8 | people_refuse_they_note_online_strike_load_quantum |  
+| bip_39_word_underscore_9 | people_refuse_they_note_online_strike_load_quantum_bird |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

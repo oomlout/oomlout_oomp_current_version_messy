@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enter |  
+| bip_39_word_dash_10 | enter-case-half-kidney-blanket-liberty-fall-pill-glove-spawn |  
+| bip_39_word_dash_11 | enter-case-half-kidney-blanket-liberty-fall-pill-glove-spawn-cinnamon |  
+| bip_39_word_dash_12 | enter-case-half-kidney-blanket-liberty-fall-pill-glove-spawn-cinnamon-arena |  
+| bip_39_word_dash_2 | enter-case |  
+| bip_39_word_dash_3 | enter-case-half |  
+| bip_39_word_dash_4 | enter-case-half-kidney |  
+| bip_39_word_dash_5 | enter-case-half-kidney-blanket |  
+| bip_39_word_dash_6 | enter-case-half-kidney-blanket-liberty |  
+| bip_39_word_dash_7 | enter-case-half-kidney-blanket-liberty-fall |  
+| bip_39_word_dash_8 | enter-case-half-kidney-blanket-liberty-fall-pill |  
+| bip_39_word_dash_9 | enter-case-half-kidney-blanket-liberty-fall-pill-glove |  
 | bip_39_word_new_br_1 | enter |  
 | bip_39_word_new_br_10 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn |  
 | bip_39_word_new_br_11 | enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn<br>cinnamon |  
@@ -147,6 +159,18 @@ glove |
 | bip_39_word_space_7 | enter case half kidney blanket liberty fall |  
 | bip_39_word_space_8 | enter case half kidney blanket liberty fall pill |  
 | bip_39_word_space_9 | enter case half kidney blanket liberty fall pill glove |  
+| bip_39_word_underscore_1 | enter |  
+| bip_39_word_underscore_10 | enter_case_half_kidney_blanket_liberty_fall_pill_glove_spawn |  
+| bip_39_word_underscore_11 | enter_case_half_kidney_blanket_liberty_fall_pill_glove_spawn_cinnamon |  
+| bip_39_word_underscore_12 | enter_case_half_kidney_blanket_liberty_fall_pill_glove_spawn_cinnamon_arena |  
+| bip_39_word_underscore_2 | enter_case |  
+| bip_39_word_underscore_3 | enter_case_half |  
+| bip_39_word_underscore_4 | enter_case_half_kidney |  
+| bip_39_word_underscore_5 | enter_case_half_kidney_blanket |  
+| bip_39_word_underscore_6 | enter_case_half_kidney_blanket_liberty |  
+| bip_39_word_underscore_7 | enter_case_half_kidney_blanket_liberty_fall |  
+| bip_39_word_underscore_8 | enter_case_half_kidney_blanket_liberty_fall_pill |  
+| bip_39_word_underscore_9 | enter_case_half_kidney_blanket_liberty_fall_pill_glove |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

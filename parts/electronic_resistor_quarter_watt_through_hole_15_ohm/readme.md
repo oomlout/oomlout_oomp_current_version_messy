@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hurdle |  
+| bip_39_word_dash_10 | hurdle-about-evil-topic-bean-hair-hire-that-tape-logic |  
+| bip_39_word_dash_11 | hurdle-about-evil-topic-bean-hair-hire-that-tape-logic-lady |  
+| bip_39_word_dash_12 | hurdle-about-evil-topic-bean-hair-hire-that-tape-logic-lady-age |  
+| bip_39_word_dash_2 | hurdle-about |  
+| bip_39_word_dash_3 | hurdle-about-evil |  
+| bip_39_word_dash_4 | hurdle-about-evil-topic |  
+| bip_39_word_dash_5 | hurdle-about-evil-topic-bean |  
+| bip_39_word_dash_6 | hurdle-about-evil-topic-bean-hair |  
+| bip_39_word_dash_7 | hurdle-about-evil-topic-bean-hair-hire |  
+| bip_39_word_dash_8 | hurdle-about-evil-topic-bean-hair-hire-that |  
+| bip_39_word_dash_9 | hurdle-about-evil-topic-bean-hair-hire-that-tape |  
 | bip_39_word_new_br_1 | hurdle |  
 | bip_39_word_new_br_10 | hurdle<br>about<br>evil<br>topic<br>bean<br>hair<br>hire<br>that<br>tape<br>logic |  
 | bip_39_word_new_br_11 | hurdle<br>about<br>evil<br>topic<br>bean<br>hair<br>hire<br>that<br>tape<br>logic<br>lady |  
@@ -147,6 +159,18 @@ tape |
 | bip_39_word_space_7 | hurdle about evil topic bean hair hire |  
 | bip_39_word_space_8 | hurdle about evil topic bean hair hire that |  
 | bip_39_word_space_9 | hurdle about evil topic bean hair hire that tape |  
+| bip_39_word_underscore_1 | hurdle |  
+| bip_39_word_underscore_10 | hurdle_about_evil_topic_bean_hair_hire_that_tape_logic |  
+| bip_39_word_underscore_11 | hurdle_about_evil_topic_bean_hair_hire_that_tape_logic_lady |  
+| bip_39_word_underscore_12 | hurdle_about_evil_topic_bean_hair_hire_that_tape_logic_lady_age |  
+| bip_39_word_underscore_2 | hurdle_about |  
+| bip_39_word_underscore_3 | hurdle_about_evil |  
+| bip_39_word_underscore_4 | hurdle_about_evil_topic |  
+| bip_39_word_underscore_5 | hurdle_about_evil_topic_bean |  
+| bip_39_word_underscore_6 | hurdle_about_evil_topic_bean_hair |  
+| bip_39_word_underscore_7 | hurdle_about_evil_topic_bean_hair_hire |  
+| bip_39_word_underscore_8 | hurdle_about_evil_topic_bean_hair_hire_that |  
+| bip_39_word_underscore_9 | hurdle_about_evil_topic_bean_hair_hire_that_tape |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

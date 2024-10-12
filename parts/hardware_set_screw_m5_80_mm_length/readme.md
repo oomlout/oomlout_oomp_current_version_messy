@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pill |  
+| bip_39_word_dash_10 | pill-crack-practice-emerge-equip-skate-empty-dinosaur-joy-pride |  
+| bip_39_word_dash_11 | pill-crack-practice-emerge-equip-skate-empty-dinosaur-joy-pride-rare |  
+| bip_39_word_dash_12 | pill-crack-practice-emerge-equip-skate-empty-dinosaur-joy-pride-rare-annual |  
+| bip_39_word_dash_2 | pill-crack |  
+| bip_39_word_dash_3 | pill-crack-practice |  
+| bip_39_word_dash_4 | pill-crack-practice-emerge |  
+| bip_39_word_dash_5 | pill-crack-practice-emerge-equip |  
+| bip_39_word_dash_6 | pill-crack-practice-emerge-equip-skate |  
+| bip_39_word_dash_7 | pill-crack-practice-emerge-equip-skate-empty |  
+| bip_39_word_dash_8 | pill-crack-practice-emerge-equip-skate-empty-dinosaur |  
+| bip_39_word_dash_9 | pill-crack-practice-emerge-equip-skate-empty-dinosaur-joy |  
 | bip_39_word_new_br_1 | pill |  
 | bip_39_word_new_br_10 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride |  
 | bip_39_word_new_br_11 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride<br>rare |  
@@ -147,6 +159,18 @@ joy |
 | bip_39_word_space_7 | pill crack practice emerge equip skate empty |  
 | bip_39_word_space_8 | pill crack practice emerge equip skate empty dinosaur |  
 | bip_39_word_space_9 | pill crack practice emerge equip skate empty dinosaur joy |  
+| bip_39_word_underscore_1 | pill |  
+| bip_39_word_underscore_10 | pill_crack_practice_emerge_equip_skate_empty_dinosaur_joy_pride |  
+| bip_39_word_underscore_11 | pill_crack_practice_emerge_equip_skate_empty_dinosaur_joy_pride_rare |  
+| bip_39_word_underscore_12 | pill_crack_practice_emerge_equip_skate_empty_dinosaur_joy_pride_rare_annual |  
+| bip_39_word_underscore_2 | pill_crack |  
+| bip_39_word_underscore_3 | pill_crack_practice |  
+| bip_39_word_underscore_4 | pill_crack_practice_emerge |  
+| bip_39_word_underscore_5 | pill_crack_practice_emerge_equip |  
+| bip_39_word_underscore_6 | pill_crack_practice_emerge_equip_skate |  
+| bip_39_word_underscore_7 | pill_crack_practice_emerge_equip_skate_empty |  
+| bip_39_word_underscore_8 | pill_crack_practice_emerge_equip_skate_empty_dinosaur |  
+| bip_39_word_underscore_9 | pill_crack_practice_emerge_equip_skate_empty_dinosaur_joy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

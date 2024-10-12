@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scrap |  
+| bip_39_word_dash_10 | scrap-firm-gasp-clay-width-leisure-doll-feature-cupboard-element |  
+| bip_39_word_dash_11 | scrap-firm-gasp-clay-width-leisure-doll-feature-cupboard-element-trend |  
+| bip_39_word_dash_12 | scrap-firm-gasp-clay-width-leisure-doll-feature-cupboard-element-trend-adjust |  
+| bip_39_word_dash_2 | scrap-firm |  
+| bip_39_word_dash_3 | scrap-firm-gasp |  
+| bip_39_word_dash_4 | scrap-firm-gasp-clay |  
+| bip_39_word_dash_5 | scrap-firm-gasp-clay-width |  
+| bip_39_word_dash_6 | scrap-firm-gasp-clay-width-leisure |  
+| bip_39_word_dash_7 | scrap-firm-gasp-clay-width-leisure-doll |  
+| bip_39_word_dash_8 | scrap-firm-gasp-clay-width-leisure-doll-feature |  
+| bip_39_word_dash_9 | scrap-firm-gasp-clay-width-leisure-doll-feature-cupboard |  
 | bip_39_word_new_br_1 | scrap |  
 | bip_39_word_new_br_10 | scrap<br>firm<br>gasp<br>clay<br>width<br>leisure<br>doll<br>feature<br>cupboard<br>element |  
 | bip_39_word_new_br_11 | scrap<br>firm<br>gasp<br>clay<br>width<br>leisure<br>doll<br>feature<br>cupboard<br>element<br>trend |  
@@ -147,6 +159,18 @@ cupboard |
 | bip_39_word_space_7 | scrap firm gasp clay width leisure doll |  
 | bip_39_word_space_8 | scrap firm gasp clay width leisure doll feature |  
 | bip_39_word_space_9 | scrap firm gasp clay width leisure doll feature cupboard |  
+| bip_39_word_underscore_1 | scrap |  
+| bip_39_word_underscore_10 | scrap_firm_gasp_clay_width_leisure_doll_feature_cupboard_element |  
+| bip_39_word_underscore_11 | scrap_firm_gasp_clay_width_leisure_doll_feature_cupboard_element_trend |  
+| bip_39_word_underscore_12 | scrap_firm_gasp_clay_width_leisure_doll_feature_cupboard_element_trend_adjust |  
+| bip_39_word_underscore_2 | scrap_firm |  
+| bip_39_word_underscore_3 | scrap_firm_gasp |  
+| bip_39_word_underscore_4 | scrap_firm_gasp_clay |  
+| bip_39_word_underscore_5 | scrap_firm_gasp_clay_width |  
+| bip_39_word_underscore_6 | scrap_firm_gasp_clay_width_leisure |  
+| bip_39_word_underscore_7 | scrap_firm_gasp_clay_width_leisure_doll |  
+| bip_39_word_underscore_8 | scrap_firm_gasp_clay_width_leisure_doll_feature |  
+| bip_39_word_underscore_9 | scrap_firm_gasp_clay_width_leisure_doll_feature_cupboard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

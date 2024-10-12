@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | finish |  
+| bip_39_word_dash_10 | finish-daughter-mirror-father-alert-scrap-memory-slim-exile-barely |  
+| bip_39_word_dash_11 | finish-daughter-mirror-father-alert-scrap-memory-slim-exile-barely-busy |  
+| bip_39_word_dash_12 | finish-daughter-mirror-father-alert-scrap-memory-slim-exile-barely-busy-amateur |  
+| bip_39_word_dash_2 | finish-daughter |  
+| bip_39_word_dash_3 | finish-daughter-mirror |  
+| bip_39_word_dash_4 | finish-daughter-mirror-father |  
+| bip_39_word_dash_5 | finish-daughter-mirror-father-alert |  
+| bip_39_word_dash_6 | finish-daughter-mirror-father-alert-scrap |  
+| bip_39_word_dash_7 | finish-daughter-mirror-father-alert-scrap-memory |  
+| bip_39_word_dash_8 | finish-daughter-mirror-father-alert-scrap-memory-slim |  
+| bip_39_word_dash_9 | finish-daughter-mirror-father-alert-scrap-memory-slim-exile |  
 | bip_39_word_new_br_1 | finish |  
 | bip_39_word_new_br_10 | finish<br>daughter<br>mirror<br>father<br>alert<br>scrap<br>memory<br>slim<br>exile<br>barely |  
 | bip_39_word_new_br_11 | finish<br>daughter<br>mirror<br>father<br>alert<br>scrap<br>memory<br>slim<br>exile<br>barely<br>busy |  
@@ -147,6 +159,18 @@ exile |
 | bip_39_word_space_7 | finish daughter mirror father alert scrap memory |  
 | bip_39_word_space_8 | finish daughter mirror father alert scrap memory slim |  
 | bip_39_word_space_9 | finish daughter mirror father alert scrap memory slim exile |  
+| bip_39_word_underscore_1 | finish |  
+| bip_39_word_underscore_10 | finish_daughter_mirror_father_alert_scrap_memory_slim_exile_barely |  
+| bip_39_word_underscore_11 | finish_daughter_mirror_father_alert_scrap_memory_slim_exile_barely_busy |  
+| bip_39_word_underscore_12 | finish_daughter_mirror_father_alert_scrap_memory_slim_exile_barely_busy_amateur |  
+| bip_39_word_underscore_2 | finish_daughter |  
+| bip_39_word_underscore_3 | finish_daughter_mirror |  
+| bip_39_word_underscore_4 | finish_daughter_mirror_father |  
+| bip_39_word_underscore_5 | finish_daughter_mirror_father_alert |  
+| bip_39_word_underscore_6 | finish_daughter_mirror_father_alert_scrap |  
+| bip_39_word_underscore_7 | finish_daughter_mirror_father_alert_scrap_memory |  
+| bip_39_word_underscore_8 | finish_daughter_mirror_father_alert_scrap_memory_slim |  
+| bip_39_word_underscore_9 | finish_daughter_mirror_father_alert_scrap_memory_slim_exile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

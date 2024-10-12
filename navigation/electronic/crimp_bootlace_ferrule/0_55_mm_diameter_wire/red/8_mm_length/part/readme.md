@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | split |  
+| bip_39_word_dash_10 | split-easy-laugh-nurse-bargain-future-sugar-injury-there-february |  
+| bip_39_word_dash_11 | split-easy-laugh-nurse-bargain-future-sugar-injury-there-february-priority |  
+| bip_39_word_dash_12 | split-easy-laugh-nurse-bargain-future-sugar-injury-there-february-priority-ask |  
+| bip_39_word_dash_2 | split-easy |  
+| bip_39_word_dash_3 | split-easy-laugh |  
+| bip_39_word_dash_4 | split-easy-laugh-nurse |  
+| bip_39_word_dash_5 | split-easy-laugh-nurse-bargain |  
+| bip_39_word_dash_6 | split-easy-laugh-nurse-bargain-future |  
+| bip_39_word_dash_7 | split-easy-laugh-nurse-bargain-future-sugar |  
+| bip_39_word_dash_8 | split-easy-laugh-nurse-bargain-future-sugar-injury |  
+| bip_39_word_dash_9 | split-easy-laugh-nurse-bargain-future-sugar-injury-there |  
 | bip_39_word_new_br_1 | split |  
 | bip_39_word_new_br_10 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury<br>there<br>february |  
 | bip_39_word_new_br_11 | split<br>easy<br>laugh<br>nurse<br>bargain<br>future<br>sugar<br>injury<br>there<br>february<br>priority |  
@@ -147,6 +159,18 @@ there |
 | bip_39_word_space_7 | split easy laugh nurse bargain future sugar |  
 | bip_39_word_space_8 | split easy laugh nurse bargain future sugar injury |  
 | bip_39_word_space_9 | split easy laugh nurse bargain future sugar injury there |  
+| bip_39_word_underscore_1 | split |  
+| bip_39_word_underscore_10 | split_easy_laugh_nurse_bargain_future_sugar_injury_there_february |  
+| bip_39_word_underscore_11 | split_easy_laugh_nurse_bargain_future_sugar_injury_there_february_priority |  
+| bip_39_word_underscore_12 | split_easy_laugh_nurse_bargain_future_sugar_injury_there_february_priority_ask |  
+| bip_39_word_underscore_2 | split_easy |  
+| bip_39_word_underscore_3 | split_easy_laugh |  
+| bip_39_word_underscore_4 | split_easy_laugh_nurse |  
+| bip_39_word_underscore_5 | split_easy_laugh_nurse_bargain |  
+| bip_39_word_underscore_6 | split_easy_laugh_nurse_bargain_future |  
+| bip_39_word_underscore_7 | split_easy_laugh_nurse_bargain_future_sugar |  
+| bip_39_word_underscore_8 | split_easy_laugh_nurse_bargain_future_sugar_injury |  
+| bip_39_word_underscore_9 | split_easy_laugh_nurse_bargain_future_sugar_injury_there |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

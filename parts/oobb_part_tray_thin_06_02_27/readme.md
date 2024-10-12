@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elephant |  
+| bip_39_word_dash_10 | elephant-penalty-rhythm-wing-chapter-bachelor-occur-team-frown-nose |  
+| bip_39_word_dash_11 | elephant-penalty-rhythm-wing-chapter-bachelor-occur-team-frown-nose-main |  
+| bip_39_word_dash_12 | elephant-penalty-rhythm-wing-chapter-bachelor-occur-team-frown-nose-main-atom |  
+| bip_39_word_dash_2 | elephant-penalty |  
+| bip_39_word_dash_3 | elephant-penalty-rhythm |  
+| bip_39_word_dash_4 | elephant-penalty-rhythm-wing |  
+| bip_39_word_dash_5 | elephant-penalty-rhythm-wing-chapter |  
+| bip_39_word_dash_6 | elephant-penalty-rhythm-wing-chapter-bachelor |  
+| bip_39_word_dash_7 | elephant-penalty-rhythm-wing-chapter-bachelor-occur |  
+| bip_39_word_dash_8 | elephant-penalty-rhythm-wing-chapter-bachelor-occur-team |  
+| bip_39_word_dash_9 | elephant-penalty-rhythm-wing-chapter-bachelor-occur-team-frown |  
 | bip_39_word_new_br_1 | elephant |  
 | bip_39_word_new_br_10 | elephant<br>penalty<br>rhythm<br>wing<br>chapter<br>bachelor<br>occur<br>team<br>frown<br>nose |  
 | bip_39_word_new_br_11 | elephant<br>penalty<br>rhythm<br>wing<br>chapter<br>bachelor<br>occur<br>team<br>frown<br>nose<br>main |  
@@ -147,6 +159,18 @@ frown |
 | bip_39_word_space_7 | elephant penalty rhythm wing chapter bachelor occur |  
 | bip_39_word_space_8 | elephant penalty rhythm wing chapter bachelor occur team |  
 | bip_39_word_space_9 | elephant penalty rhythm wing chapter bachelor occur team frown |  
+| bip_39_word_underscore_1 | elephant |  
+| bip_39_word_underscore_10 | elephant_penalty_rhythm_wing_chapter_bachelor_occur_team_frown_nose |  
+| bip_39_word_underscore_11 | elephant_penalty_rhythm_wing_chapter_bachelor_occur_team_frown_nose_main |  
+| bip_39_word_underscore_12 | elephant_penalty_rhythm_wing_chapter_bachelor_occur_team_frown_nose_main_atom |  
+| bip_39_word_underscore_2 | elephant_penalty |  
+| bip_39_word_underscore_3 | elephant_penalty_rhythm |  
+| bip_39_word_underscore_4 | elephant_penalty_rhythm_wing |  
+| bip_39_word_underscore_5 | elephant_penalty_rhythm_wing_chapter |  
+| bip_39_word_underscore_6 | elephant_penalty_rhythm_wing_chapter_bachelor |  
+| bip_39_word_underscore_7 | elephant_penalty_rhythm_wing_chapter_bachelor_occur |  
+| bip_39_word_underscore_8 | elephant_penalty_rhythm_wing_chapter_bachelor_occur_team |  
+| bip_39_word_underscore_9 | elephant_penalty_rhythm_wing_chapter_bachelor_occur_team_frown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

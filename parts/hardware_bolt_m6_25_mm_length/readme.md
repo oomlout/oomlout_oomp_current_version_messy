@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | give |  
+| bip_39_word_dash_10 | give-game-access-come-abstract-gospel-rabbit-glue-warm-tag |  
+| bip_39_word_dash_11 | give-game-access-come-abstract-gospel-rabbit-glue-warm-tag-orphan |  
+| bip_39_word_dash_12 | give-game-access-come-abstract-gospel-rabbit-glue-warm-tag-orphan-alarm |  
+| bip_39_word_dash_2 | give-game |  
+| bip_39_word_dash_3 | give-game-access |  
+| bip_39_word_dash_4 | give-game-access-come |  
+| bip_39_word_dash_5 | give-game-access-come-abstract |  
+| bip_39_word_dash_6 | give-game-access-come-abstract-gospel |  
+| bip_39_word_dash_7 | give-game-access-come-abstract-gospel-rabbit |  
+| bip_39_word_dash_8 | give-game-access-come-abstract-gospel-rabbit-glue |  
+| bip_39_word_dash_9 | give-game-access-come-abstract-gospel-rabbit-glue-warm |  
 | bip_39_word_new_br_1 | give |  
 | bip_39_word_new_br_10 | give<br>game<br>access<br>come<br>abstract<br>gospel<br>rabbit<br>glue<br>warm<br>tag |  
 | bip_39_word_new_br_11 | give<br>game<br>access<br>come<br>abstract<br>gospel<br>rabbit<br>glue<br>warm<br>tag<br>orphan |  
@@ -147,6 +159,18 @@ warm |
 | bip_39_word_space_7 | give game access come abstract gospel rabbit |  
 | bip_39_word_space_8 | give game access come abstract gospel rabbit glue |  
 | bip_39_word_space_9 | give game access come abstract gospel rabbit glue warm |  
+| bip_39_word_underscore_1 | give |  
+| bip_39_word_underscore_10 | give_game_access_come_abstract_gospel_rabbit_glue_warm_tag |  
+| bip_39_word_underscore_11 | give_game_access_come_abstract_gospel_rabbit_glue_warm_tag_orphan |  
+| bip_39_word_underscore_12 | give_game_access_come_abstract_gospel_rabbit_glue_warm_tag_orphan_alarm |  
+| bip_39_word_underscore_2 | give_game |  
+| bip_39_word_underscore_3 | give_game_access |  
+| bip_39_word_underscore_4 | give_game_access_come |  
+| bip_39_word_underscore_5 | give_game_access_come_abstract |  
+| bip_39_word_underscore_6 | give_game_access_come_abstract_gospel |  
+| bip_39_word_underscore_7 | give_game_access_come_abstract_gospel_rabbit |  
+| bip_39_word_underscore_8 | give_game_access_come_abstract_gospel_rabbit_glue |  
+| bip_39_word_underscore_9 | give_game_access_come_abstract_gospel_rabbit_glue_warm |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

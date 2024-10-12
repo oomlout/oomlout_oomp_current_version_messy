@@ -1,3 +1,15 @@
+bip_39_word_dash_1: behave
+bip_39_word_dash_10: behave-aisle-begin-flower-depart-pill-zero-turkey-churn-tobacco
+bip_39_word_dash_11: behave-aisle-begin-flower-depart-pill-zero-turkey-churn-tobacco-conduct
+bip_39_word_dash_12: behave-aisle-begin-flower-depart-pill-zero-turkey-churn-tobacco-conduct-arrest
+bip_39_word_dash_2: behave-aisle
+bip_39_word_dash_3: behave-aisle-begin
+bip_39_word_dash_4: behave-aisle-begin-flower
+bip_39_word_dash_5: behave-aisle-begin-flower-depart
+bip_39_word_dash_6: behave-aisle-begin-flower-depart-pill
+bip_39_word_dash_7: behave-aisle-begin-flower-depart-pill-zero
+bip_39_word_dash_8: behave-aisle-begin-flower-depart-pill-zero-turkey
+bip_39_word_dash_9: behave-aisle-begin-flower-depart-pill-zero-turkey-churn
 bip_39_word_new_br_1: behave
 bip_39_word_new_br_10: behave<br>aisle<br>begin<br>flower<br>depart<br>pill<br>zero<br>turkey<br>churn<br>tobacco
 bip_39_word_new_br_11: behave<br>aisle<br>begin<br>flower<br>depart<br>pill<br>zero<br>turkey<br>churn<br>tobacco<br>conduct
@@ -193,6 +205,18 @@ bip_39_word_space_6: behave aisle begin flower depart pill
 bip_39_word_space_7: behave aisle begin flower depart pill zero
 bip_39_word_space_8: behave aisle begin flower depart pill zero turkey
 bip_39_word_space_9: behave aisle begin flower depart pill zero turkey churn
+bip_39_word_underscore_1: behave
+bip_39_word_underscore_10: behave_aisle_begin_flower_depart_pill_zero_turkey_churn_tobacco
+bip_39_word_underscore_11: behave_aisle_begin_flower_depart_pill_zero_turkey_churn_tobacco_conduct
+bip_39_word_underscore_12: behave_aisle_begin_flower_depart_pill_zero_turkey_churn_tobacco_conduct_arrest
+bip_39_word_underscore_2: behave_aisle
+bip_39_word_underscore_3: behave_aisle_begin
+bip_39_word_underscore_4: behave_aisle_begin_flower
+bip_39_word_underscore_5: behave_aisle_begin_flower_depart
+bip_39_word_underscore_6: behave_aisle_begin_flower_depart_pill
+bip_39_word_underscore_7: behave_aisle_begin_flower_depart_pill_zero
+bip_39_word_underscore_8: behave_aisle_begin_flower_depart_pill_zero_turkey
+bip_39_word_underscore_9: behave_aisle_begin_flower_depart_pill_zero_turkey_churn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

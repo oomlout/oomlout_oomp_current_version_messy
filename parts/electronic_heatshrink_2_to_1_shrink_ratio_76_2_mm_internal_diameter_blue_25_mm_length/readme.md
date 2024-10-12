@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skirt |  
+| bip_39_word_dash_10 | skirt-rare-private-pretty-wave-eight-velvet-coast-pupil-front |  
+| bip_39_word_dash_11 | skirt-rare-private-pretty-wave-eight-velvet-coast-pupil-front-lazy |  
+| bip_39_word_dash_12 | skirt-rare-private-pretty-wave-eight-velvet-coast-pupil-front-lazy-apple |  
+| bip_39_word_dash_2 | skirt-rare |  
+| bip_39_word_dash_3 | skirt-rare-private |  
+| bip_39_word_dash_4 | skirt-rare-private-pretty |  
+| bip_39_word_dash_5 | skirt-rare-private-pretty-wave |  
+| bip_39_word_dash_6 | skirt-rare-private-pretty-wave-eight |  
+| bip_39_word_dash_7 | skirt-rare-private-pretty-wave-eight-velvet |  
+| bip_39_word_dash_8 | skirt-rare-private-pretty-wave-eight-velvet-coast |  
+| bip_39_word_dash_9 | skirt-rare-private-pretty-wave-eight-velvet-coast-pupil |  
 | bip_39_word_new_br_1 | skirt |  
 | bip_39_word_new_br_10 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front |  
 | bip_39_word_new_br_11 | skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front<br>lazy |  
@@ -147,6 +159,18 @@ pupil |
 | bip_39_word_space_7 | skirt rare private pretty wave eight velvet |  
 | bip_39_word_space_8 | skirt rare private pretty wave eight velvet coast |  
 | bip_39_word_space_9 | skirt rare private pretty wave eight velvet coast pupil |  
+| bip_39_word_underscore_1 | skirt |  
+| bip_39_word_underscore_10 | skirt_rare_private_pretty_wave_eight_velvet_coast_pupil_front |  
+| bip_39_word_underscore_11 | skirt_rare_private_pretty_wave_eight_velvet_coast_pupil_front_lazy |  
+| bip_39_word_underscore_12 | skirt_rare_private_pretty_wave_eight_velvet_coast_pupil_front_lazy_apple |  
+| bip_39_word_underscore_2 | skirt_rare |  
+| bip_39_word_underscore_3 | skirt_rare_private |  
+| bip_39_word_underscore_4 | skirt_rare_private_pretty |  
+| bip_39_word_underscore_5 | skirt_rare_private_pretty_wave |  
+| bip_39_word_underscore_6 | skirt_rare_private_pretty_wave_eight |  
+| bip_39_word_underscore_7 | skirt_rare_private_pretty_wave_eight_velvet |  
+| bip_39_word_underscore_8 | skirt_rare_private_pretty_wave_eight_velvet_coast |  
+| bip_39_word_underscore_9 | skirt_rare_private_pretty_wave_eight_velvet_coast_pupil |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

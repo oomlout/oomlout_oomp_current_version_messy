@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rifle |  
+| bip_39_word_dash_10 | rifle-village-harsh-call-cancel-swim-island-defense-capable-assume |  
+| bip_39_word_dash_11 | rifle-village-harsh-call-cancel-swim-island-defense-capable-assume-duck |  
+| bip_39_word_dash_12 | rifle-village-harsh-call-cancel-swim-island-defense-capable-assume-duck-admit |  
+| bip_39_word_dash_2 | rifle-village |  
+| bip_39_word_dash_3 | rifle-village-harsh |  
+| bip_39_word_dash_4 | rifle-village-harsh-call |  
+| bip_39_word_dash_5 | rifle-village-harsh-call-cancel |  
+| bip_39_word_dash_6 | rifle-village-harsh-call-cancel-swim |  
+| bip_39_word_dash_7 | rifle-village-harsh-call-cancel-swim-island |  
+| bip_39_word_dash_8 | rifle-village-harsh-call-cancel-swim-island-defense |  
+| bip_39_word_dash_9 | rifle-village-harsh-call-cancel-swim-island-defense-capable |  
 | bip_39_word_new_br_1 | rifle |  
 | bip_39_word_new_br_10 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume |  
 | bip_39_word_new_br_11 | rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume<br>duck |  
@@ -147,6 +159,18 @@ capable |
 | bip_39_word_space_7 | rifle village harsh call cancel swim island |  
 | bip_39_word_space_8 | rifle village harsh call cancel swim island defense |  
 | bip_39_word_space_9 | rifle village harsh call cancel swim island defense capable |  
+| bip_39_word_underscore_1 | rifle |  
+| bip_39_word_underscore_10 | rifle_village_harsh_call_cancel_swim_island_defense_capable_assume |  
+| bip_39_word_underscore_11 | rifle_village_harsh_call_cancel_swim_island_defense_capable_assume_duck |  
+| bip_39_word_underscore_12 | rifle_village_harsh_call_cancel_swim_island_defense_capable_assume_duck_admit |  
+| bip_39_word_underscore_2 | rifle_village |  
+| bip_39_word_underscore_3 | rifle_village_harsh |  
+| bip_39_word_underscore_4 | rifle_village_harsh_call |  
+| bip_39_word_underscore_5 | rifle_village_harsh_call_cancel |  
+| bip_39_word_underscore_6 | rifle_village_harsh_call_cancel_swim |  
+| bip_39_word_underscore_7 | rifle_village_harsh_call_cancel_swim_island |  
+| bip_39_word_underscore_8 | rifle_village_harsh_call_cancel_swim_island_defense |  
+| bip_39_word_underscore_9 | rifle_village_harsh_call_cancel_swim_island_defense_capable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

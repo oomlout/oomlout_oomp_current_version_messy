@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | project |  
+| bip_39_word_dash_10 | project-slight-concert-royal-crater-snake-broccoli-vehicle-hurdle-coconut |  
+| bip_39_word_dash_11 | project-slight-concert-royal-crater-snake-broccoli-vehicle-hurdle-coconut-rare |  
+| bip_39_word_dash_12 | project-slight-concert-royal-crater-snake-broccoli-vehicle-hurdle-coconut-rare-auto |  
+| bip_39_word_dash_2 | project-slight |  
+| bip_39_word_dash_3 | project-slight-concert |  
+| bip_39_word_dash_4 | project-slight-concert-royal |  
+| bip_39_word_dash_5 | project-slight-concert-royal-crater |  
+| bip_39_word_dash_6 | project-slight-concert-royal-crater-snake |  
+| bip_39_word_dash_7 | project-slight-concert-royal-crater-snake-broccoli |  
+| bip_39_word_dash_8 | project-slight-concert-royal-crater-snake-broccoli-vehicle |  
+| bip_39_word_dash_9 | project-slight-concert-royal-crater-snake-broccoli-vehicle-hurdle |  
 | bip_39_word_new_br_1 | project |  
 | bip_39_word_new_br_10 | project<br>slight<br>concert<br>royal<br>crater<br>snake<br>broccoli<br>vehicle<br>hurdle<br>coconut |  
 | bip_39_word_new_br_11 | project<br>slight<br>concert<br>royal<br>crater<br>snake<br>broccoli<br>vehicle<br>hurdle<br>coconut<br>rare |  
@@ -147,6 +159,18 @@ hurdle |
 | bip_39_word_space_7 | project slight concert royal crater snake broccoli |  
 | bip_39_word_space_8 | project slight concert royal crater snake broccoli vehicle |  
 | bip_39_word_space_9 | project slight concert royal crater snake broccoli vehicle hurdle |  
+| bip_39_word_underscore_1 | project |  
+| bip_39_word_underscore_10 | project_slight_concert_royal_crater_snake_broccoli_vehicle_hurdle_coconut |  
+| bip_39_word_underscore_11 | project_slight_concert_royal_crater_snake_broccoli_vehicle_hurdle_coconut_rare |  
+| bip_39_word_underscore_12 | project_slight_concert_royal_crater_snake_broccoli_vehicle_hurdle_coconut_rare_auto |  
+| bip_39_word_underscore_2 | project_slight |  
+| bip_39_word_underscore_3 | project_slight_concert |  
+| bip_39_word_underscore_4 | project_slight_concert_royal |  
+| bip_39_word_underscore_5 | project_slight_concert_royal_crater |  
+| bip_39_word_underscore_6 | project_slight_concert_royal_crater_snake |  
+| bip_39_word_underscore_7 | project_slight_concert_royal_crater_snake_broccoli |  
+| bip_39_word_underscore_8 | project_slight_concert_royal_crater_snake_broccoli_vehicle |  
+| bip_39_word_underscore_9 | project_slight_concert_royal_crater_snake_broccoli_vehicle_hurdle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | item |  
+| bip_39_word_dash_10 | item-coast-lesson-oil-deliver-flee-trigger-brisk-vapor-remove |  
+| bip_39_word_dash_11 | item-coast-lesson-oil-deliver-flee-trigger-brisk-vapor-remove-broken |  
+| bip_39_word_dash_12 | item-coast-lesson-oil-deliver-flee-trigger-brisk-vapor-remove-broken-adjust |  
+| bip_39_word_dash_2 | item-coast |  
+| bip_39_word_dash_3 | item-coast-lesson |  
+| bip_39_word_dash_4 | item-coast-lesson-oil |  
+| bip_39_word_dash_5 | item-coast-lesson-oil-deliver |  
+| bip_39_word_dash_6 | item-coast-lesson-oil-deliver-flee |  
+| bip_39_word_dash_7 | item-coast-lesson-oil-deliver-flee-trigger |  
+| bip_39_word_dash_8 | item-coast-lesson-oil-deliver-flee-trigger-brisk |  
+| bip_39_word_dash_9 | item-coast-lesson-oil-deliver-flee-trigger-brisk-vapor |  
 | bip_39_word_new_br_1 | item |  
 | bip_39_word_new_br_10 | item<br>coast<br>lesson<br>oil<br>deliver<br>flee<br>trigger<br>brisk<br>vapor<br>remove |  
 | bip_39_word_new_br_11 | item<br>coast<br>lesson<br>oil<br>deliver<br>flee<br>trigger<br>brisk<br>vapor<br>remove<br>broken |  
@@ -147,6 +159,18 @@ vapor |
 | bip_39_word_space_7 | item coast lesson oil deliver flee trigger |  
 | bip_39_word_space_8 | item coast lesson oil deliver flee trigger brisk |  
 | bip_39_word_space_9 | item coast lesson oil deliver flee trigger brisk vapor |  
+| bip_39_word_underscore_1 | item |  
+| bip_39_word_underscore_10 | item_coast_lesson_oil_deliver_flee_trigger_brisk_vapor_remove |  
+| bip_39_word_underscore_11 | item_coast_lesson_oil_deliver_flee_trigger_brisk_vapor_remove_broken |  
+| bip_39_word_underscore_12 | item_coast_lesson_oil_deliver_flee_trigger_brisk_vapor_remove_broken_adjust |  
+| bip_39_word_underscore_2 | item_coast |  
+| bip_39_word_underscore_3 | item_coast_lesson |  
+| bip_39_word_underscore_4 | item_coast_lesson_oil |  
+| bip_39_word_underscore_5 | item_coast_lesson_oil_deliver |  
+| bip_39_word_underscore_6 | item_coast_lesson_oil_deliver_flee |  
+| bip_39_word_underscore_7 | item_coast_lesson_oil_deliver_flee_trigger |  
+| bip_39_word_underscore_8 | item_coast_lesson_oil_deliver_flee_trigger_brisk |  
+| bip_39_word_underscore_9 | item_coast_lesson_oil_deliver_flee_trigger_brisk_vapor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

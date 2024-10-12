@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | honey |  
+| bip_39_word_dash_10 | honey-fence-uncover-saddle-solid-core-tongue-pledge-favorite-because |  
+| bip_39_word_dash_11 | honey-fence-uncover-saddle-solid-core-tongue-pledge-favorite-because-claim |  
+| bip_39_word_dash_12 | honey-fence-uncover-saddle-solid-core-tongue-pledge-favorite-because-claim-attend |  
+| bip_39_word_dash_2 | honey-fence |  
+| bip_39_word_dash_3 | honey-fence-uncover |  
+| bip_39_word_dash_4 | honey-fence-uncover-saddle |  
+| bip_39_word_dash_5 | honey-fence-uncover-saddle-solid |  
+| bip_39_word_dash_6 | honey-fence-uncover-saddle-solid-core |  
+| bip_39_word_dash_7 | honey-fence-uncover-saddle-solid-core-tongue |  
+| bip_39_word_dash_8 | honey-fence-uncover-saddle-solid-core-tongue-pledge |  
+| bip_39_word_dash_9 | honey-fence-uncover-saddle-solid-core-tongue-pledge-favorite |  
 | bip_39_word_new_br_1 | honey |  
 | bip_39_word_new_br_10 | honey<br>fence<br>uncover<br>saddle<br>solid<br>core<br>tongue<br>pledge<br>favorite<br>because |  
 | bip_39_word_new_br_11 | honey<br>fence<br>uncover<br>saddle<br>solid<br>core<br>tongue<br>pledge<br>favorite<br>because<br>claim |  
@@ -147,6 +159,18 @@ favorite |
 | bip_39_word_space_7 | honey fence uncover saddle solid core tongue |  
 | bip_39_word_space_8 | honey fence uncover saddle solid core tongue pledge |  
 | bip_39_word_space_9 | honey fence uncover saddle solid core tongue pledge favorite |  
+| bip_39_word_underscore_1 | honey |  
+| bip_39_word_underscore_10 | honey_fence_uncover_saddle_solid_core_tongue_pledge_favorite_because |  
+| bip_39_word_underscore_11 | honey_fence_uncover_saddle_solid_core_tongue_pledge_favorite_because_claim |  
+| bip_39_word_underscore_12 | honey_fence_uncover_saddle_solid_core_tongue_pledge_favorite_because_claim_attend |  
+| bip_39_word_underscore_2 | honey_fence |  
+| bip_39_word_underscore_3 | honey_fence_uncover |  
+| bip_39_word_underscore_4 | honey_fence_uncover_saddle |  
+| bip_39_word_underscore_5 | honey_fence_uncover_saddle_solid |  
+| bip_39_word_underscore_6 | honey_fence_uncover_saddle_solid_core |  
+| bip_39_word_underscore_7 | honey_fence_uncover_saddle_solid_core_tongue |  
+| bip_39_word_underscore_8 | honey_fence_uncover_saddle_solid_core_tongue_pledge |  
+| bip_39_word_underscore_9 | honey_fence_uncover_saddle_solid_core_tongue_pledge_favorite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

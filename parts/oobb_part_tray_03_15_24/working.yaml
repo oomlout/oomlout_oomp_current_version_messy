@@ -1,3 +1,15 @@
+bip_39_word_dash_1: liberty
+bip_39_word_dash_10: liberty-stumble-enroll-glide-hold-anchor-nuclear-you-ugly-master
+bip_39_word_dash_11: liberty-stumble-enroll-glide-hold-anchor-nuclear-you-ugly-master-month
+bip_39_word_dash_12: liberty-stumble-enroll-glide-hold-anchor-nuclear-you-ugly-master-month-august
+bip_39_word_dash_2: liberty-stumble
+bip_39_word_dash_3: liberty-stumble-enroll
+bip_39_word_dash_4: liberty-stumble-enroll-glide
+bip_39_word_dash_5: liberty-stumble-enroll-glide-hold
+bip_39_word_dash_6: liberty-stumble-enroll-glide-hold-anchor
+bip_39_word_dash_7: liberty-stumble-enroll-glide-hold-anchor-nuclear
+bip_39_word_dash_8: liberty-stumble-enroll-glide-hold-anchor-nuclear-you
+bip_39_word_dash_9: liberty-stumble-enroll-glide-hold-anchor-nuclear-you-ugly
 bip_39_word_new_br_1: liberty
 bip_39_word_new_br_10: liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you<br>ugly<br>master
 bip_39_word_new_br_11: liberty<br>stumble<br>enroll<br>glide<br>hold<br>anchor<br>nuclear<br>you<br>ugly<br>master<br>month
@@ -193,6 +205,18 @@ bip_39_word_space_6: liberty stumble enroll glide hold anchor
 bip_39_word_space_7: liberty stumble enroll glide hold anchor nuclear
 bip_39_word_space_8: liberty stumble enroll glide hold anchor nuclear you
 bip_39_word_space_9: liberty stumble enroll glide hold anchor nuclear you ugly
+bip_39_word_underscore_1: liberty
+bip_39_word_underscore_10: liberty_stumble_enroll_glide_hold_anchor_nuclear_you_ugly_master
+bip_39_word_underscore_11: liberty_stumble_enroll_glide_hold_anchor_nuclear_you_ugly_master_month
+bip_39_word_underscore_12: liberty_stumble_enroll_glide_hold_anchor_nuclear_you_ugly_master_month_august
+bip_39_word_underscore_2: liberty_stumble
+bip_39_word_underscore_3: liberty_stumble_enroll
+bip_39_word_underscore_4: liberty_stumble_enroll_glide
+bip_39_word_underscore_5: liberty_stumble_enroll_glide_hold
+bip_39_word_underscore_6: liberty_stumble_enroll_glide_hold_anchor
+bip_39_word_underscore_7: liberty_stumble_enroll_glide_hold_anchor_nuclear
+bip_39_word_underscore_8: liberty_stumble_enroll_glide_hold_anchor_nuclear_you
+bip_39_word_underscore_9: liberty_stumble_enroll_glide_hold_anchor_nuclear_you_ugly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

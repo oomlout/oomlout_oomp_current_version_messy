@@ -1,3 +1,14 @@
+bip_39_word_dash_1: weasel
+bip_39_word_dash_10: weasel-hair-notable-put-miss-giraffe-fold-lemon-nephew-remain
+bip_39_word_dash_11: weasel-hair-notable-put-miss-giraffe-fold-lemon-nephew-remain-flavor
+bip_39_word_dash_2: weasel-hair
+bip_39_word_dash_3: weasel-hair-notable
+bip_39_word_dash_4: weasel-hair-notable-put
+bip_39_word_dash_5: weasel-hair-notable-put-miss
+bip_39_word_dash_6: weasel-hair-notable-put-miss-giraffe
+bip_39_word_dash_7: weasel-hair-notable-put-miss-giraffe-fold
+bip_39_word_dash_8: weasel-hair-notable-put-miss-giraffe-fold-lemon
+bip_39_word_dash_9: weasel-hair-notable-put-miss-giraffe-fold-lemon-nephew
 bip_39_word_new_br_1: weasel
 bip_39_word_new_br_10: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew<br>remain
 bip_39_word_new_br_11: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew<br>remain<br>flavor
@@ -165,6 +176,17 @@ bip_39_word_space_6: weasel hair notable put miss giraffe
 bip_39_word_space_7: weasel hair notable put miss giraffe fold
 bip_39_word_space_8: weasel hair notable put miss giraffe fold lemon
 bip_39_word_space_9: weasel hair notable put miss giraffe fold lemon nephew
+bip_39_word_underscore_1: weasel
+bip_39_word_underscore_10: weasel_hair_notable_put_miss_giraffe_fold_lemon_nephew_remain
+bip_39_word_underscore_11: weasel_hair_notable_put_miss_giraffe_fold_lemon_nephew_remain_flavor
+bip_39_word_underscore_2: weasel_hair
+bip_39_word_underscore_3: weasel_hair_notable
+bip_39_word_underscore_4: weasel_hair_notable_put
+bip_39_word_underscore_5: weasel_hair_notable_put_miss
+bip_39_word_underscore_6: weasel_hair_notable_put_miss_giraffe
+bip_39_word_underscore_7: weasel_hair_notable_put_miss_giraffe_fold
+bip_39_word_underscore_8: weasel_hair_notable_put_miss_giraffe_fold_lemon
+bip_39_word_underscore_9: weasel_hair_notable_put_miss_giraffe_fold_lemon_nephew
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | language |  
+| bip_39_word_dash_10 | language-maple-rubber-pipe-cruel-few-make-review-capital-vacuum |  
+| bip_39_word_dash_11 | language-maple-rubber-pipe-cruel-few-make-review-capital-vacuum-share |  
+| bip_39_word_dash_12 | language-maple-rubber-pipe-cruel-few-make-review-capital-vacuum-share-acid |  
+| bip_39_word_dash_2 | language-maple |  
+| bip_39_word_dash_3 | language-maple-rubber |  
+| bip_39_word_dash_4 | language-maple-rubber-pipe |  
+| bip_39_word_dash_5 | language-maple-rubber-pipe-cruel |  
+| bip_39_word_dash_6 | language-maple-rubber-pipe-cruel-few |  
+| bip_39_word_dash_7 | language-maple-rubber-pipe-cruel-few-make |  
+| bip_39_word_dash_8 | language-maple-rubber-pipe-cruel-few-make-review |  
+| bip_39_word_dash_9 | language-maple-rubber-pipe-cruel-few-make-review-capital |  
 | bip_39_word_new_br_1 | language |  
 | bip_39_word_new_br_10 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum |  
 | bip_39_word_new_br_11 | language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum<br>share |  
@@ -147,6 +159,18 @@ capital |
 | bip_39_word_space_7 | language maple rubber pipe cruel few make |  
 | bip_39_word_space_8 | language maple rubber pipe cruel few make review |  
 | bip_39_word_space_9 | language maple rubber pipe cruel few make review capital |  
+| bip_39_word_underscore_1 | language |  
+| bip_39_word_underscore_10 | language_maple_rubber_pipe_cruel_few_make_review_capital_vacuum |  
+| bip_39_word_underscore_11 | language_maple_rubber_pipe_cruel_few_make_review_capital_vacuum_share |  
+| bip_39_word_underscore_12 | language_maple_rubber_pipe_cruel_few_make_review_capital_vacuum_share_acid |  
+| bip_39_word_underscore_2 | language_maple |  
+| bip_39_word_underscore_3 | language_maple_rubber |  
+| bip_39_word_underscore_4 | language_maple_rubber_pipe |  
+| bip_39_word_underscore_5 | language_maple_rubber_pipe_cruel |  
+| bip_39_word_underscore_6 | language_maple_rubber_pipe_cruel_few |  
+| bip_39_word_underscore_7 | language_maple_rubber_pipe_cruel_few_make |  
+| bip_39_word_underscore_8 | language_maple_rubber_pipe_cruel_few_make_review |  
+| bip_39_word_underscore_9 | language_maple_rubber_pipe_cruel_few_make_review_capital |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | helmet |  
+| bip_39_word_dash_10 | helmet-phone-rely-armed-right-tackle-carpet-entire-day-fatigue |  
+| bip_39_word_dash_11 | helmet-phone-rely-armed-right-tackle-carpet-entire-day-fatigue-pave |  
+| bip_39_word_dash_12 | helmet-phone-rely-armed-right-tackle-carpet-entire-day-fatigue-pave-afraid |  
+| bip_39_word_dash_2 | helmet-phone |  
+| bip_39_word_dash_3 | helmet-phone-rely |  
+| bip_39_word_dash_4 | helmet-phone-rely-armed |  
+| bip_39_word_dash_5 | helmet-phone-rely-armed-right |  
+| bip_39_word_dash_6 | helmet-phone-rely-armed-right-tackle |  
+| bip_39_word_dash_7 | helmet-phone-rely-armed-right-tackle-carpet |  
+| bip_39_word_dash_8 | helmet-phone-rely-armed-right-tackle-carpet-entire |  
+| bip_39_word_dash_9 | helmet-phone-rely-armed-right-tackle-carpet-entire-day |  
 | bip_39_word_new_br_1 | helmet |  
 | bip_39_word_new_br_10 | helmet<br>phone<br>rely<br>armed<br>right<br>tackle<br>carpet<br>entire<br>day<br>fatigue |  
 | bip_39_word_new_br_11 | helmet<br>phone<br>rely<br>armed<br>right<br>tackle<br>carpet<br>entire<br>day<br>fatigue<br>pave |  
@@ -147,6 +159,18 @@ day |
 | bip_39_word_space_7 | helmet phone rely armed right tackle carpet |  
 | bip_39_word_space_8 | helmet phone rely armed right tackle carpet entire |  
 | bip_39_word_space_9 | helmet phone rely armed right tackle carpet entire day |  
+| bip_39_word_underscore_1 | helmet |  
+| bip_39_word_underscore_10 | helmet_phone_rely_armed_right_tackle_carpet_entire_day_fatigue |  
+| bip_39_word_underscore_11 | helmet_phone_rely_armed_right_tackle_carpet_entire_day_fatigue_pave |  
+| bip_39_word_underscore_12 | helmet_phone_rely_armed_right_tackle_carpet_entire_day_fatigue_pave_afraid |  
+| bip_39_word_underscore_2 | helmet_phone |  
+| bip_39_word_underscore_3 | helmet_phone_rely |  
+| bip_39_word_underscore_4 | helmet_phone_rely_armed |  
+| bip_39_word_underscore_5 | helmet_phone_rely_armed_right |  
+| bip_39_word_underscore_6 | helmet_phone_rely_armed_right_tackle |  
+| bip_39_word_underscore_7 | helmet_phone_rely_armed_right_tackle_carpet |  
+| bip_39_word_underscore_8 | helmet_phone_rely_armed_right_tackle_carpet_entire |  
+| bip_39_word_underscore_9 | helmet_phone_rely_armed_right_tackle_carpet_entire_day |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

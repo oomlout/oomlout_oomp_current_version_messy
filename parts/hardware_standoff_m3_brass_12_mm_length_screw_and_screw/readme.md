@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | again |  
+| bip_39_word_dash_10 | again-safe-flock-bamboo-ahead-tornado-olive-sleep-service-force |  
+| bip_39_word_dash_11 | again-safe-flock-bamboo-ahead-tornado-olive-sleep-service-force-tilt |  
+| bip_39_word_dash_12 | again-safe-flock-bamboo-ahead-tornado-olive-sleep-service-force-tilt-attend |  
+| bip_39_word_dash_2 | again-safe |  
+| bip_39_word_dash_3 | again-safe-flock |  
+| bip_39_word_dash_4 | again-safe-flock-bamboo |  
+| bip_39_word_dash_5 | again-safe-flock-bamboo-ahead |  
+| bip_39_word_dash_6 | again-safe-flock-bamboo-ahead-tornado |  
+| bip_39_word_dash_7 | again-safe-flock-bamboo-ahead-tornado-olive |  
+| bip_39_word_dash_8 | again-safe-flock-bamboo-ahead-tornado-olive-sleep |  
+| bip_39_word_dash_9 | again-safe-flock-bamboo-ahead-tornado-olive-sleep-service |  
 | bip_39_word_new_br_1 | again |  
 | bip_39_word_new_br_10 | again<br>safe<br>flock<br>bamboo<br>ahead<br>tornado<br>olive<br>sleep<br>service<br>force |  
 | bip_39_word_new_br_11 | again<br>safe<br>flock<br>bamboo<br>ahead<br>tornado<br>olive<br>sleep<br>service<br>force<br>tilt |  
@@ -147,6 +159,18 @@ service |
 | bip_39_word_space_7 | again safe flock bamboo ahead tornado olive |  
 | bip_39_word_space_8 | again safe flock bamboo ahead tornado olive sleep |  
 | bip_39_word_space_9 | again safe flock bamboo ahead tornado olive sleep service |  
+| bip_39_word_underscore_1 | again |  
+| bip_39_word_underscore_10 | again_safe_flock_bamboo_ahead_tornado_olive_sleep_service_force |  
+| bip_39_word_underscore_11 | again_safe_flock_bamboo_ahead_tornado_olive_sleep_service_force_tilt |  
+| bip_39_word_underscore_12 | again_safe_flock_bamboo_ahead_tornado_olive_sleep_service_force_tilt_attend |  
+| bip_39_word_underscore_2 | again_safe |  
+| bip_39_word_underscore_3 | again_safe_flock |  
+| bip_39_word_underscore_4 | again_safe_flock_bamboo |  
+| bip_39_word_underscore_5 | again_safe_flock_bamboo_ahead |  
+| bip_39_word_underscore_6 | again_safe_flock_bamboo_ahead_tornado |  
+| bip_39_word_underscore_7 | again_safe_flock_bamboo_ahead_tornado_olive |  
+| bip_39_word_underscore_8 | again_safe_flock_bamboo_ahead_tornado_olive_sleep |  
+| bip_39_word_underscore_9 | again_safe_flock_bamboo_ahead_tornado_olive_sleep_service |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

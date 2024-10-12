@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aunt |  
+| bip_39_word_dash_10 | aunt-frequent-thunder-cushion-arrange-tongue-sure-bounce-gift-pill |  
+| bip_39_word_dash_11 | aunt-frequent-thunder-cushion-arrange-tongue-sure-bounce-gift-pill-people |  
+| bip_39_word_dash_12 | aunt-frequent-thunder-cushion-arrange-tongue-sure-bounce-gift-pill-people-angry |  
+| bip_39_word_dash_2 | aunt-frequent |  
+| bip_39_word_dash_3 | aunt-frequent-thunder |  
+| bip_39_word_dash_4 | aunt-frequent-thunder-cushion |  
+| bip_39_word_dash_5 | aunt-frequent-thunder-cushion-arrange |  
+| bip_39_word_dash_6 | aunt-frequent-thunder-cushion-arrange-tongue |  
+| bip_39_word_dash_7 | aunt-frequent-thunder-cushion-arrange-tongue-sure |  
+| bip_39_word_dash_8 | aunt-frequent-thunder-cushion-arrange-tongue-sure-bounce |  
+| bip_39_word_dash_9 | aunt-frequent-thunder-cushion-arrange-tongue-sure-bounce-gift |  
 | bip_39_word_new_br_1 | aunt |  
 | bip_39_word_new_br_10 | aunt<br>frequent<br>thunder<br>cushion<br>arrange<br>tongue<br>sure<br>bounce<br>gift<br>pill |  
 | bip_39_word_new_br_11 | aunt<br>frequent<br>thunder<br>cushion<br>arrange<br>tongue<br>sure<br>bounce<br>gift<br>pill<br>people |  
@@ -147,6 +159,18 @@ gift |
 | bip_39_word_space_7 | aunt frequent thunder cushion arrange tongue sure |  
 | bip_39_word_space_8 | aunt frequent thunder cushion arrange tongue sure bounce |  
 | bip_39_word_space_9 | aunt frequent thunder cushion arrange tongue sure bounce gift |  
+| bip_39_word_underscore_1 | aunt |  
+| bip_39_word_underscore_10 | aunt_frequent_thunder_cushion_arrange_tongue_sure_bounce_gift_pill |  
+| bip_39_word_underscore_11 | aunt_frequent_thunder_cushion_arrange_tongue_sure_bounce_gift_pill_people |  
+| bip_39_word_underscore_12 | aunt_frequent_thunder_cushion_arrange_tongue_sure_bounce_gift_pill_people_angry |  
+| bip_39_word_underscore_2 | aunt_frequent |  
+| bip_39_word_underscore_3 | aunt_frequent_thunder |  
+| bip_39_word_underscore_4 | aunt_frequent_thunder_cushion |  
+| bip_39_word_underscore_5 | aunt_frequent_thunder_cushion_arrange |  
+| bip_39_word_underscore_6 | aunt_frequent_thunder_cushion_arrange_tongue |  
+| bip_39_word_underscore_7 | aunt_frequent_thunder_cushion_arrange_tongue_sure |  
+| bip_39_word_underscore_8 | aunt_frequent_thunder_cushion_arrange_tongue_sure_bounce |  
+| bip_39_word_underscore_9 | aunt_frequent_thunder_cushion_arrange_tongue_sure_bounce_gift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

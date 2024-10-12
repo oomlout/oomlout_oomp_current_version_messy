@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | notice |  
+| bip_39_word_dash_10 | notice-glad-list-demise-glow-dial-void-basket-shallow-later |  
+| bip_39_word_dash_11 | notice-glad-list-demise-glow-dial-void-basket-shallow-later-awful |  
+| bip_39_word_dash_12 | notice-glad-list-demise-glow-dial-void-basket-shallow-later-awful-agent |  
+| bip_39_word_dash_2 | notice-glad |  
+| bip_39_word_dash_3 | notice-glad-list |  
+| bip_39_word_dash_4 | notice-glad-list-demise |  
+| bip_39_word_dash_5 | notice-glad-list-demise-glow |  
+| bip_39_word_dash_6 | notice-glad-list-demise-glow-dial |  
+| bip_39_word_dash_7 | notice-glad-list-demise-glow-dial-void |  
+| bip_39_word_dash_8 | notice-glad-list-demise-glow-dial-void-basket |  
+| bip_39_word_dash_9 | notice-glad-list-demise-glow-dial-void-basket-shallow |  
 | bip_39_word_new_br_1 | notice |  
 | bip_39_word_new_br_10 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later |  
 | bip_39_word_new_br_11 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later<br>awful |  
@@ -147,6 +159,18 @@ shallow |
 | bip_39_word_space_7 | notice glad list demise glow dial void |  
 | bip_39_word_space_8 | notice glad list demise glow dial void basket |  
 | bip_39_word_space_9 | notice glad list demise glow dial void basket shallow |  
+| bip_39_word_underscore_1 | notice |  
+| bip_39_word_underscore_10 | notice_glad_list_demise_glow_dial_void_basket_shallow_later |  
+| bip_39_word_underscore_11 | notice_glad_list_demise_glow_dial_void_basket_shallow_later_awful |  
+| bip_39_word_underscore_12 | notice_glad_list_demise_glow_dial_void_basket_shallow_later_awful_agent |  
+| bip_39_word_underscore_2 | notice_glad |  
+| bip_39_word_underscore_3 | notice_glad_list |  
+| bip_39_word_underscore_4 | notice_glad_list_demise |  
+| bip_39_word_underscore_5 | notice_glad_list_demise_glow |  
+| bip_39_word_underscore_6 | notice_glad_list_demise_glow_dial |  
+| bip_39_word_underscore_7 | notice_glad_list_demise_glow_dial_void |  
+| bip_39_word_underscore_8 | notice_glad_list_demise_glow_dial_void_basket |  
+| bip_39_word_underscore_9 | notice_glad_list_demise_glow_dial_void_basket_shallow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

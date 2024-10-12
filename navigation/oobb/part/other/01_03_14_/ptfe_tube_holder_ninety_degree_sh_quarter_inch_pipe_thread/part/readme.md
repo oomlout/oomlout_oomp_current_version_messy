@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vivid |  
+| bip_39_word_dash_10 | vivid-unaware-good-put-rather-evolve-puzzle-pole-tube-gentle |  
+| bip_39_word_dash_11 | vivid-unaware-good-put-rather-evolve-puzzle-pole-tube-gentle-stamp |  
+| bip_39_word_dash_12 | vivid-unaware-good-put-rather-evolve-puzzle-pole-tube-gentle-stamp-autumn |  
+| bip_39_word_dash_2 | vivid-unaware |  
+| bip_39_word_dash_3 | vivid-unaware-good |  
+| bip_39_word_dash_4 | vivid-unaware-good-put |  
+| bip_39_word_dash_5 | vivid-unaware-good-put-rather |  
+| bip_39_word_dash_6 | vivid-unaware-good-put-rather-evolve |  
+| bip_39_word_dash_7 | vivid-unaware-good-put-rather-evolve-puzzle |  
+| bip_39_word_dash_8 | vivid-unaware-good-put-rather-evolve-puzzle-pole |  
+| bip_39_word_dash_9 | vivid-unaware-good-put-rather-evolve-puzzle-pole-tube |  
 | bip_39_word_new_br_1 | vivid |  
 | bip_39_word_new_br_10 | vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole<br>tube<br>gentle |  
 | bip_39_word_new_br_11 | vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole<br>tube<br>gentle<br>stamp |  
@@ -147,6 +159,18 @@ tube |
 | bip_39_word_space_7 | vivid unaware good put rather evolve puzzle |  
 | bip_39_word_space_8 | vivid unaware good put rather evolve puzzle pole |  
 | bip_39_word_space_9 | vivid unaware good put rather evolve puzzle pole tube |  
+| bip_39_word_underscore_1 | vivid |  
+| bip_39_word_underscore_10 | vivid_unaware_good_put_rather_evolve_puzzle_pole_tube_gentle |  
+| bip_39_word_underscore_11 | vivid_unaware_good_put_rather_evolve_puzzle_pole_tube_gentle_stamp |  
+| bip_39_word_underscore_12 | vivid_unaware_good_put_rather_evolve_puzzle_pole_tube_gentle_stamp_autumn |  
+| bip_39_word_underscore_2 | vivid_unaware |  
+| bip_39_word_underscore_3 | vivid_unaware_good |  
+| bip_39_word_underscore_4 | vivid_unaware_good_put |  
+| bip_39_word_underscore_5 | vivid_unaware_good_put_rather |  
+| bip_39_word_underscore_6 | vivid_unaware_good_put_rather_evolve |  
+| bip_39_word_underscore_7 | vivid_unaware_good_put_rather_evolve_puzzle |  
+| bip_39_word_underscore_8 | vivid_unaware_good_put_rather_evolve_puzzle_pole |  
+| bip_39_word_underscore_9 | vivid_unaware_good_put_rather_evolve_puzzle_pole_tube |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | armor |  
+| bip_39_word_dash_10 | armor-fine-trust-drop-human-fashion-scorpion-daughter-essence-aspect |  
+| bip_39_word_dash_11 | armor-fine-trust-drop-human-fashion-scorpion-daughter-essence-aspect-theme |  
+| bip_39_word_dash_12 | armor-fine-trust-drop-human-fashion-scorpion-daughter-essence-aspect-theme-accuse |  
+| bip_39_word_dash_2 | armor-fine |  
+| bip_39_word_dash_3 | armor-fine-trust |  
+| bip_39_word_dash_4 | armor-fine-trust-drop |  
+| bip_39_word_dash_5 | armor-fine-trust-drop-human |  
+| bip_39_word_dash_6 | armor-fine-trust-drop-human-fashion |  
+| bip_39_word_dash_7 | armor-fine-trust-drop-human-fashion-scorpion |  
+| bip_39_word_dash_8 | armor-fine-trust-drop-human-fashion-scorpion-daughter |  
+| bip_39_word_dash_9 | armor-fine-trust-drop-human-fashion-scorpion-daughter-essence |  
 | bip_39_word_new_br_1 | armor |  
 | bip_39_word_new_br_10 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter<br>essence<br>aspect |  
 | bip_39_word_new_br_11 | armor<br>fine<br>trust<br>drop<br>human<br>fashion<br>scorpion<br>daughter<br>essence<br>aspect<br>theme |  
@@ -147,6 +159,18 @@ essence |
 | bip_39_word_space_7 | armor fine trust drop human fashion scorpion |  
 | bip_39_word_space_8 | armor fine trust drop human fashion scorpion daughter |  
 | bip_39_word_space_9 | armor fine trust drop human fashion scorpion daughter essence |  
+| bip_39_word_underscore_1 | armor |  
+| bip_39_word_underscore_10 | armor_fine_trust_drop_human_fashion_scorpion_daughter_essence_aspect |  
+| bip_39_word_underscore_11 | armor_fine_trust_drop_human_fashion_scorpion_daughter_essence_aspect_theme |  
+| bip_39_word_underscore_12 | armor_fine_trust_drop_human_fashion_scorpion_daughter_essence_aspect_theme_accuse |  
+| bip_39_word_underscore_2 | armor_fine |  
+| bip_39_word_underscore_3 | armor_fine_trust |  
+| bip_39_word_underscore_4 | armor_fine_trust_drop |  
+| bip_39_word_underscore_5 | armor_fine_trust_drop_human |  
+| bip_39_word_underscore_6 | armor_fine_trust_drop_human_fashion |  
+| bip_39_word_underscore_7 | armor_fine_trust_drop_human_fashion_scorpion |  
+| bip_39_word_underscore_8 | armor_fine_trust_drop_human_fashion_scorpion_daughter |  
+| bip_39_word_underscore_9 | armor_fine_trust_drop_human_fashion_scorpion_daughter_essence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

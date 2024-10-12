@@ -1,3 +1,15 @@
+bip_39_word_dash_1: prosper
+bip_39_word_dash_10: prosper-habit-all-dry-leg-web-female-today-gospel-hedgehog
+bip_39_word_dash_11: prosper-habit-all-dry-leg-web-female-today-gospel-hedgehog-almost
+bip_39_word_dash_12: prosper-habit-all-dry-leg-web-female-today-gospel-hedgehog-almost-addict
+bip_39_word_dash_2: prosper-habit
+bip_39_word_dash_3: prosper-habit-all
+bip_39_word_dash_4: prosper-habit-all-dry
+bip_39_word_dash_5: prosper-habit-all-dry-leg
+bip_39_word_dash_6: prosper-habit-all-dry-leg-web
+bip_39_word_dash_7: prosper-habit-all-dry-leg-web-female
+bip_39_word_dash_8: prosper-habit-all-dry-leg-web-female-today
+bip_39_word_dash_9: prosper-habit-all-dry-leg-web-female-today-gospel
 bip_39_word_new_br_1: prosper
 bip_39_word_new_br_10: prosper<br>habit<br>all<br>dry<br>leg<br>web<br>female<br>today<br>gospel<br>hedgehog
 bip_39_word_new_br_11: prosper<br>habit<br>all<br>dry<br>leg<br>web<br>female<br>today<br>gospel<br>hedgehog<br>almost
@@ -192,6 +204,18 @@ bip_39_word_space_6: prosper habit all dry leg web
 bip_39_word_space_7: prosper habit all dry leg web female
 bip_39_word_space_8: prosper habit all dry leg web female today
 bip_39_word_space_9: prosper habit all dry leg web female today gospel
+bip_39_word_underscore_1: prosper
+bip_39_word_underscore_10: prosper_habit_all_dry_leg_web_female_today_gospel_hedgehog
+bip_39_word_underscore_11: prosper_habit_all_dry_leg_web_female_today_gospel_hedgehog_almost
+bip_39_word_underscore_12: prosper_habit_all_dry_leg_web_female_today_gospel_hedgehog_almost_addict
+bip_39_word_underscore_2: prosper_habit
+bip_39_word_underscore_3: prosper_habit_all
+bip_39_word_underscore_4: prosper_habit_all_dry
+bip_39_word_underscore_5: prosper_habit_all_dry_leg
+bip_39_word_underscore_6: prosper_habit_all_dry_leg_web
+bip_39_word_underscore_7: prosper_habit_all_dry_leg_web_female
+bip_39_word_underscore_8: prosper_habit_all_dry_leg_web_female_today
+bip_39_word_underscore_9: prosper_habit_all_dry_leg_web_female_today_gospel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

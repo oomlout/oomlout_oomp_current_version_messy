@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | guitar |  
+| bip_39_word_dash_10 | guitar-sugar-lady-token-cluster-negative-correct-slender-evidence-thing |  
+| bip_39_word_dash_11 | guitar-sugar-lady-token-cluster-negative-correct-slender-evidence-thing-border |  
+| bip_39_word_dash_12 | guitar-sugar-lady-token-cluster-negative-correct-slender-evidence-thing-border-artist |  
+| bip_39_word_dash_2 | guitar-sugar |  
+| bip_39_word_dash_3 | guitar-sugar-lady |  
+| bip_39_word_dash_4 | guitar-sugar-lady-token |  
+| bip_39_word_dash_5 | guitar-sugar-lady-token-cluster |  
+| bip_39_word_dash_6 | guitar-sugar-lady-token-cluster-negative |  
+| bip_39_word_dash_7 | guitar-sugar-lady-token-cluster-negative-correct |  
+| bip_39_word_dash_8 | guitar-sugar-lady-token-cluster-negative-correct-slender |  
+| bip_39_word_dash_9 | guitar-sugar-lady-token-cluster-negative-correct-slender-evidence |  
 | bip_39_word_new_br_1 | guitar |  
 | bip_39_word_new_br_10 | guitar<br>sugar<br>lady<br>token<br>cluster<br>negative<br>correct<br>slender<br>evidence<br>thing |  
 | bip_39_word_new_br_11 | guitar<br>sugar<br>lady<br>token<br>cluster<br>negative<br>correct<br>slender<br>evidence<br>thing<br>border |  
@@ -147,6 +159,18 @@ evidence |
 | bip_39_word_space_7 | guitar sugar lady token cluster negative correct |  
 | bip_39_word_space_8 | guitar sugar lady token cluster negative correct slender |  
 | bip_39_word_space_9 | guitar sugar lady token cluster negative correct slender evidence |  
+| bip_39_word_underscore_1 | guitar |  
+| bip_39_word_underscore_10 | guitar_sugar_lady_token_cluster_negative_correct_slender_evidence_thing |  
+| bip_39_word_underscore_11 | guitar_sugar_lady_token_cluster_negative_correct_slender_evidence_thing_border |  
+| bip_39_word_underscore_12 | guitar_sugar_lady_token_cluster_negative_correct_slender_evidence_thing_border_artist |  
+| bip_39_word_underscore_2 | guitar_sugar |  
+| bip_39_word_underscore_3 | guitar_sugar_lady |  
+| bip_39_word_underscore_4 | guitar_sugar_lady_token |  
+| bip_39_word_underscore_5 | guitar_sugar_lady_token_cluster |  
+| bip_39_word_underscore_6 | guitar_sugar_lady_token_cluster_negative |  
+| bip_39_word_underscore_7 | guitar_sugar_lady_token_cluster_negative_correct |  
+| bip_39_word_underscore_8 | guitar_sugar_lady_token_cluster_negative_correct_slender |  
+| bip_39_word_underscore_9 | guitar_sugar_lady_token_cluster_negative_correct_slender_evidence |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

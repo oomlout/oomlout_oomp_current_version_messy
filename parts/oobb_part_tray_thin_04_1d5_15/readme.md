@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | option |  
+| bip_39_word_dash_10 | option-dress-erupt-hurdle-nasty-enjoy-become-narrow-used-adjust |  
+| bip_39_word_dash_11 | option-dress-erupt-hurdle-nasty-enjoy-become-narrow-used-adjust-aim |  
+| bip_39_word_dash_12 | option-dress-erupt-hurdle-nasty-enjoy-become-narrow-used-adjust-aim-alert |  
+| bip_39_word_dash_2 | option-dress |  
+| bip_39_word_dash_3 | option-dress-erupt |  
+| bip_39_word_dash_4 | option-dress-erupt-hurdle |  
+| bip_39_word_dash_5 | option-dress-erupt-hurdle-nasty |  
+| bip_39_word_dash_6 | option-dress-erupt-hurdle-nasty-enjoy |  
+| bip_39_word_dash_7 | option-dress-erupt-hurdle-nasty-enjoy-become |  
+| bip_39_word_dash_8 | option-dress-erupt-hurdle-nasty-enjoy-become-narrow |  
+| bip_39_word_dash_9 | option-dress-erupt-hurdle-nasty-enjoy-become-narrow-used |  
 | bip_39_word_new_br_1 | option |  
 | bip_39_word_new_br_10 | option<br>dress<br>erupt<br>hurdle<br>nasty<br>enjoy<br>become<br>narrow<br>used<br>adjust |  
 | bip_39_word_new_br_11 | option<br>dress<br>erupt<br>hurdle<br>nasty<br>enjoy<br>become<br>narrow<br>used<br>adjust<br>aim |  
@@ -147,6 +159,18 @@ used |
 | bip_39_word_space_7 | option dress erupt hurdle nasty enjoy become |  
 | bip_39_word_space_8 | option dress erupt hurdle nasty enjoy become narrow |  
 | bip_39_word_space_9 | option dress erupt hurdle nasty enjoy become narrow used |  
+| bip_39_word_underscore_1 | option |  
+| bip_39_word_underscore_10 | option_dress_erupt_hurdle_nasty_enjoy_become_narrow_used_adjust |  
+| bip_39_word_underscore_11 | option_dress_erupt_hurdle_nasty_enjoy_become_narrow_used_adjust_aim |  
+| bip_39_word_underscore_12 | option_dress_erupt_hurdle_nasty_enjoy_become_narrow_used_adjust_aim_alert |  
+| bip_39_word_underscore_2 | option_dress |  
+| bip_39_word_underscore_3 | option_dress_erupt |  
+| bip_39_word_underscore_4 | option_dress_erupt_hurdle |  
+| bip_39_word_underscore_5 | option_dress_erupt_hurdle_nasty |  
+| bip_39_word_underscore_6 | option_dress_erupt_hurdle_nasty_enjoy |  
+| bip_39_word_underscore_7 | option_dress_erupt_hurdle_nasty_enjoy_become |  
+| bip_39_word_underscore_8 | option_dress_erupt_hurdle_nasty_enjoy_become_narrow |  
+| bip_39_word_underscore_9 | option_dress_erupt_hurdle_nasty_enjoy_become_narrow_used |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | depart |  
+| bip_39_word_dash_10 | depart-sponsor-inmate-ceiling-reflect-car-subject-story-jump-sugar |  
+| bip_39_word_dash_11 | depart-sponsor-inmate-ceiling-reflect-car-subject-story-jump-sugar-border |  
+| bip_39_word_dash_12 | depart-sponsor-inmate-ceiling-reflect-car-subject-story-jump-sugar-border-act |  
+| bip_39_word_dash_2 | depart-sponsor |  
+| bip_39_word_dash_3 | depart-sponsor-inmate |  
+| bip_39_word_dash_4 | depart-sponsor-inmate-ceiling |  
+| bip_39_word_dash_5 | depart-sponsor-inmate-ceiling-reflect |  
+| bip_39_word_dash_6 | depart-sponsor-inmate-ceiling-reflect-car |  
+| bip_39_word_dash_7 | depart-sponsor-inmate-ceiling-reflect-car-subject |  
+| bip_39_word_dash_8 | depart-sponsor-inmate-ceiling-reflect-car-subject-story |  
+| bip_39_word_dash_9 | depart-sponsor-inmate-ceiling-reflect-car-subject-story-jump |  
 | bip_39_word_new_br_1 | depart |  
 | bip_39_word_new_br_10 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story<br>jump<br>sugar |  
 | bip_39_word_new_br_11 | depart<br>sponsor<br>inmate<br>ceiling<br>reflect<br>car<br>subject<br>story<br>jump<br>sugar<br>border |  
@@ -147,6 +159,18 @@ jump |
 | bip_39_word_space_7 | depart sponsor inmate ceiling reflect car subject |  
 | bip_39_word_space_8 | depart sponsor inmate ceiling reflect car subject story |  
 | bip_39_word_space_9 | depart sponsor inmate ceiling reflect car subject story jump |  
+| bip_39_word_underscore_1 | depart |  
+| bip_39_word_underscore_10 | depart_sponsor_inmate_ceiling_reflect_car_subject_story_jump_sugar |  
+| bip_39_word_underscore_11 | depart_sponsor_inmate_ceiling_reflect_car_subject_story_jump_sugar_border |  
+| bip_39_word_underscore_12 | depart_sponsor_inmate_ceiling_reflect_car_subject_story_jump_sugar_border_act |  
+| bip_39_word_underscore_2 | depart_sponsor |  
+| bip_39_word_underscore_3 | depart_sponsor_inmate |  
+| bip_39_word_underscore_4 | depart_sponsor_inmate_ceiling |  
+| bip_39_word_underscore_5 | depart_sponsor_inmate_ceiling_reflect |  
+| bip_39_word_underscore_6 | depart_sponsor_inmate_ceiling_reflect_car |  
+| bip_39_word_underscore_7 | depart_sponsor_inmate_ceiling_reflect_car_subject |  
+| bip_39_word_underscore_8 | depart_sponsor_inmate_ceiling_reflect_car_subject_story |  
+| bip_39_word_underscore_9 | depart_sponsor_inmate_ceiling_reflect_car_subject_story_jump |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

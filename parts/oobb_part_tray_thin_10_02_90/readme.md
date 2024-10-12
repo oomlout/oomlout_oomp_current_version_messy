@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | edge |  
+| bip_39_word_dash_10 | edge-outdoor-eagle-ethics-add-fancy-differ-toss-vault-tooth |  
+| bip_39_word_dash_11 | edge-outdoor-eagle-ethics-add-fancy-differ-toss-vault-tooth-much |  
+| bip_39_word_dash_12 | edge-outdoor-eagle-ethics-add-fancy-differ-toss-vault-tooth-much-asset |  
+| bip_39_word_dash_2 | edge-outdoor |  
+| bip_39_word_dash_3 | edge-outdoor-eagle |  
+| bip_39_word_dash_4 | edge-outdoor-eagle-ethics |  
+| bip_39_word_dash_5 | edge-outdoor-eagle-ethics-add |  
+| bip_39_word_dash_6 | edge-outdoor-eagle-ethics-add-fancy |  
+| bip_39_word_dash_7 | edge-outdoor-eagle-ethics-add-fancy-differ |  
+| bip_39_word_dash_8 | edge-outdoor-eagle-ethics-add-fancy-differ-toss |  
+| bip_39_word_dash_9 | edge-outdoor-eagle-ethics-add-fancy-differ-toss-vault |  
 | bip_39_word_new_br_1 | edge |  
 | bip_39_word_new_br_10 | edge<br>outdoor<br>eagle<br>ethics<br>add<br>fancy<br>differ<br>toss<br>vault<br>tooth |  
 | bip_39_word_new_br_11 | edge<br>outdoor<br>eagle<br>ethics<br>add<br>fancy<br>differ<br>toss<br>vault<br>tooth<br>much |  
@@ -147,6 +159,18 @@ vault |
 | bip_39_word_space_7 | edge outdoor eagle ethics add fancy differ |  
 | bip_39_word_space_8 | edge outdoor eagle ethics add fancy differ toss |  
 | bip_39_word_space_9 | edge outdoor eagle ethics add fancy differ toss vault |  
+| bip_39_word_underscore_1 | edge |  
+| bip_39_word_underscore_10 | edge_outdoor_eagle_ethics_add_fancy_differ_toss_vault_tooth |  
+| bip_39_word_underscore_11 | edge_outdoor_eagle_ethics_add_fancy_differ_toss_vault_tooth_much |  
+| bip_39_word_underscore_12 | edge_outdoor_eagle_ethics_add_fancy_differ_toss_vault_tooth_much_asset |  
+| bip_39_word_underscore_2 | edge_outdoor |  
+| bip_39_word_underscore_3 | edge_outdoor_eagle |  
+| bip_39_word_underscore_4 | edge_outdoor_eagle_ethics |  
+| bip_39_word_underscore_5 | edge_outdoor_eagle_ethics_add |  
+| bip_39_word_underscore_6 | edge_outdoor_eagle_ethics_add_fancy |  
+| bip_39_word_underscore_7 | edge_outdoor_eagle_ethics_add_fancy_differ |  
+| bip_39_word_underscore_8 | edge_outdoor_eagle_ethics_add_fancy_differ_toss |  
+| bip_39_word_underscore_9 | edge_outdoor_eagle_ethics_add_fancy_differ_toss_vault |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

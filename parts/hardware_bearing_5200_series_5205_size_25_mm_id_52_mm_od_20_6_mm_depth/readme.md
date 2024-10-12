@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | october |  
+| bip_39_word_dash_10 | october-public-oven-loop-purse-guilt-fiber-amazing-rug-breeze |  
+| bip_39_word_dash_11 | october-public-oven-loop-purse-guilt-fiber-amazing-rug-breeze-table |  
+| bip_39_word_dash_12 | october-public-oven-loop-purse-guilt-fiber-amazing-rug-breeze-table-alley |  
+| bip_39_word_dash_2 | october-public |  
+| bip_39_word_dash_3 | october-public-oven |  
+| bip_39_word_dash_4 | october-public-oven-loop |  
+| bip_39_word_dash_5 | october-public-oven-loop-purse |  
+| bip_39_word_dash_6 | october-public-oven-loop-purse-guilt |  
+| bip_39_word_dash_7 | october-public-oven-loop-purse-guilt-fiber |  
+| bip_39_word_dash_8 | october-public-oven-loop-purse-guilt-fiber-amazing |  
+| bip_39_word_dash_9 | october-public-oven-loop-purse-guilt-fiber-amazing-rug |  
 | bip_39_word_new_br_1 | october |  
 | bip_39_word_new_br_10 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze |  
 | bip_39_word_new_br_11 | october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze<br>table |  
@@ -147,6 +159,18 @@ rug |
 | bip_39_word_space_7 | october public oven loop purse guilt fiber |  
 | bip_39_word_space_8 | october public oven loop purse guilt fiber amazing |  
 | bip_39_word_space_9 | october public oven loop purse guilt fiber amazing rug |  
+| bip_39_word_underscore_1 | october |  
+| bip_39_word_underscore_10 | october_public_oven_loop_purse_guilt_fiber_amazing_rug_breeze |  
+| bip_39_word_underscore_11 | october_public_oven_loop_purse_guilt_fiber_amazing_rug_breeze_table |  
+| bip_39_word_underscore_12 | october_public_oven_loop_purse_guilt_fiber_amazing_rug_breeze_table_alley |  
+| bip_39_word_underscore_2 | october_public |  
+| bip_39_word_underscore_3 | october_public_oven |  
+| bip_39_word_underscore_4 | october_public_oven_loop |  
+| bip_39_word_underscore_5 | october_public_oven_loop_purse |  
+| bip_39_word_underscore_6 | october_public_oven_loop_purse_guilt |  
+| bip_39_word_underscore_7 | october_public_oven_loop_purse_guilt_fiber |  
+| bip_39_word_underscore_8 | october_public_oven_loop_purse_guilt_fiber_amazing |  
+| bip_39_word_underscore_9 | october_public_oven_loop_purse_guilt_fiber_amazing_rug |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

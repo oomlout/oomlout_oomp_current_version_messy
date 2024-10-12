@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | claw |  
+| bip_39_word_dash_10 | claw-arch-join-ocean-happy-spring-tragic-turkey-dash-cloth |  
+| bip_39_word_dash_11 | claw-arch-join-ocean-happy-spring-tragic-turkey-dash-cloth-party |  
+| bip_39_word_dash_12 | claw-arch-join-ocean-happy-spring-tragic-turkey-dash-cloth-party-arrow |  
+| bip_39_word_dash_2 | claw-arch |  
+| bip_39_word_dash_3 | claw-arch-join |  
+| bip_39_word_dash_4 | claw-arch-join-ocean |  
+| bip_39_word_dash_5 | claw-arch-join-ocean-happy |  
+| bip_39_word_dash_6 | claw-arch-join-ocean-happy-spring |  
+| bip_39_word_dash_7 | claw-arch-join-ocean-happy-spring-tragic |  
+| bip_39_word_dash_8 | claw-arch-join-ocean-happy-spring-tragic-turkey |  
+| bip_39_word_dash_9 | claw-arch-join-ocean-happy-spring-tragic-turkey-dash |  
 | bip_39_word_new_br_1 | claw |  
 | bip_39_word_new_br_10 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey<br>dash<br>cloth |  
 | bip_39_word_new_br_11 | claw<br>arch<br>join<br>ocean<br>happy<br>spring<br>tragic<br>turkey<br>dash<br>cloth<br>party |  
@@ -147,6 +159,18 @@ dash |
 | bip_39_word_space_7 | claw arch join ocean happy spring tragic |  
 | bip_39_word_space_8 | claw arch join ocean happy spring tragic turkey |  
 | bip_39_word_space_9 | claw arch join ocean happy spring tragic turkey dash |  
+| bip_39_word_underscore_1 | claw |  
+| bip_39_word_underscore_10 | claw_arch_join_ocean_happy_spring_tragic_turkey_dash_cloth |  
+| bip_39_word_underscore_11 | claw_arch_join_ocean_happy_spring_tragic_turkey_dash_cloth_party |  
+| bip_39_word_underscore_12 | claw_arch_join_ocean_happy_spring_tragic_turkey_dash_cloth_party_arrow |  
+| bip_39_word_underscore_2 | claw_arch |  
+| bip_39_word_underscore_3 | claw_arch_join |  
+| bip_39_word_underscore_4 | claw_arch_join_ocean |  
+| bip_39_word_underscore_5 | claw_arch_join_ocean_happy |  
+| bip_39_word_underscore_6 | claw_arch_join_ocean_happy_spring |  
+| bip_39_word_underscore_7 | claw_arch_join_ocean_happy_spring_tragic |  
+| bip_39_word_underscore_8 | claw_arch_join_ocean_happy_spring_tragic_turkey |  
+| bip_39_word_underscore_9 | claw_arch_join_ocean_happy_spring_tragic_turkey_dash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

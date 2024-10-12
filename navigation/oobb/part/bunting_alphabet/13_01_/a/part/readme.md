@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soup |  
+| bip_39_word_dash_10 | soup-thumb-toe-initial-acquire-nothing-ahead-virus-envelope-decorate |  
+| bip_39_word_dash_11 | soup-thumb-toe-initial-acquire-nothing-ahead-virus-envelope-decorate-wrist |  
+| bip_39_word_dash_12 | soup-thumb-toe-initial-acquire-nothing-ahead-virus-envelope-decorate-wrist-angle |  
+| bip_39_word_dash_2 | soup-thumb |  
+| bip_39_word_dash_3 | soup-thumb-toe |  
+| bip_39_word_dash_4 | soup-thumb-toe-initial |  
+| bip_39_word_dash_5 | soup-thumb-toe-initial-acquire |  
+| bip_39_word_dash_6 | soup-thumb-toe-initial-acquire-nothing |  
+| bip_39_word_dash_7 | soup-thumb-toe-initial-acquire-nothing-ahead |  
+| bip_39_word_dash_8 | soup-thumb-toe-initial-acquire-nothing-ahead-virus |  
+| bip_39_word_dash_9 | soup-thumb-toe-initial-acquire-nothing-ahead-virus-envelope |  
 | bip_39_word_new_br_1 | soup |  
 | bip_39_word_new_br_10 | soup<br>thumb<br>toe<br>initial<br>acquire<br>nothing<br>ahead<br>virus<br>envelope<br>decorate |  
 | bip_39_word_new_br_11 | soup<br>thumb<br>toe<br>initial<br>acquire<br>nothing<br>ahead<br>virus<br>envelope<br>decorate<br>wrist |  
@@ -147,6 +159,18 @@ envelope |
 | bip_39_word_space_7 | soup thumb toe initial acquire nothing ahead |  
 | bip_39_word_space_8 | soup thumb toe initial acquire nothing ahead virus |  
 | bip_39_word_space_9 | soup thumb toe initial acquire nothing ahead virus envelope |  
+| bip_39_word_underscore_1 | soup |  
+| bip_39_word_underscore_10 | soup_thumb_toe_initial_acquire_nothing_ahead_virus_envelope_decorate |  
+| bip_39_word_underscore_11 | soup_thumb_toe_initial_acquire_nothing_ahead_virus_envelope_decorate_wrist |  
+| bip_39_word_underscore_12 | soup_thumb_toe_initial_acquire_nothing_ahead_virus_envelope_decorate_wrist_angle |  
+| bip_39_word_underscore_2 | soup_thumb |  
+| bip_39_word_underscore_3 | soup_thumb_toe |  
+| bip_39_word_underscore_4 | soup_thumb_toe_initial |  
+| bip_39_word_underscore_5 | soup_thumb_toe_initial_acquire |  
+| bip_39_word_underscore_6 | soup_thumb_toe_initial_acquire_nothing |  
+| bip_39_word_underscore_7 | soup_thumb_toe_initial_acquire_nothing_ahead |  
+| bip_39_word_underscore_8 | soup_thumb_toe_initial_acquire_nothing_ahead_virus |  
+| bip_39_word_underscore_9 | soup_thumb_toe_initial_acquire_nothing_ahead_virus_envelope |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

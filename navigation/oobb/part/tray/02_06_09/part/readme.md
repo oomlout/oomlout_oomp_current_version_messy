@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | super |  
+| bip_39_word_dash_10 | super-sketch-image-review-coconut-unusual-remind-inside-unique-sphere |  
+| bip_39_word_dash_11 | super-sketch-image-review-coconut-unusual-remind-inside-unique-sphere-author |  
+| bip_39_word_dash_12 | super-sketch-image-review-coconut-unusual-remind-inside-unique-sphere-author-artwork |  
+| bip_39_word_dash_2 | super-sketch |  
+| bip_39_word_dash_3 | super-sketch-image |  
+| bip_39_word_dash_4 | super-sketch-image-review |  
+| bip_39_word_dash_5 | super-sketch-image-review-coconut |  
+| bip_39_word_dash_6 | super-sketch-image-review-coconut-unusual |  
+| bip_39_word_dash_7 | super-sketch-image-review-coconut-unusual-remind |  
+| bip_39_word_dash_8 | super-sketch-image-review-coconut-unusual-remind-inside |  
+| bip_39_word_dash_9 | super-sketch-image-review-coconut-unusual-remind-inside-unique |  
 | bip_39_word_new_br_1 | super |  
 | bip_39_word_new_br_10 | super<br>sketch<br>image<br>review<br>coconut<br>unusual<br>remind<br>inside<br>unique<br>sphere |  
 | bip_39_word_new_br_11 | super<br>sketch<br>image<br>review<br>coconut<br>unusual<br>remind<br>inside<br>unique<br>sphere<br>author |  
@@ -147,6 +159,18 @@ unique |
 | bip_39_word_space_7 | super sketch image review coconut unusual remind |  
 | bip_39_word_space_8 | super sketch image review coconut unusual remind inside |  
 | bip_39_word_space_9 | super sketch image review coconut unusual remind inside unique |  
+| bip_39_word_underscore_1 | super |  
+| bip_39_word_underscore_10 | super_sketch_image_review_coconut_unusual_remind_inside_unique_sphere |  
+| bip_39_word_underscore_11 | super_sketch_image_review_coconut_unusual_remind_inside_unique_sphere_author |  
+| bip_39_word_underscore_12 | super_sketch_image_review_coconut_unusual_remind_inside_unique_sphere_author_artwork |  
+| bip_39_word_underscore_2 | super_sketch |  
+| bip_39_word_underscore_3 | super_sketch_image |  
+| bip_39_word_underscore_4 | super_sketch_image_review |  
+| bip_39_word_underscore_5 | super_sketch_image_review_coconut |  
+| bip_39_word_underscore_6 | super_sketch_image_review_coconut_unusual |  
+| bip_39_word_underscore_7 | super_sketch_image_review_coconut_unusual_remind |  
+| bip_39_word_underscore_8 | super_sketch_image_review_coconut_unusual_remind_inside |  
+| bip_39_word_underscore_9 | super_sketch_image_review_coconut_unusual_remind_inside_unique |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

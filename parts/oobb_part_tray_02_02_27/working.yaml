@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bicycle
+bip_39_word_dash_10: bicycle-various-job-toast-congress-wait-radio-expose-truck-bird
+bip_39_word_dash_11: bicycle-various-job-toast-congress-wait-radio-expose-truck-bird-obvious
+bip_39_word_dash_12: bicycle-various-job-toast-congress-wait-radio-expose-truck-bird-obvious-almost
+bip_39_word_dash_2: bicycle-various
+bip_39_word_dash_3: bicycle-various-job
+bip_39_word_dash_4: bicycle-various-job-toast
+bip_39_word_dash_5: bicycle-various-job-toast-congress
+bip_39_word_dash_6: bicycle-various-job-toast-congress-wait
+bip_39_word_dash_7: bicycle-various-job-toast-congress-wait-radio
+bip_39_word_dash_8: bicycle-various-job-toast-congress-wait-radio-expose
+bip_39_word_dash_9: bicycle-various-job-toast-congress-wait-radio-expose-truck
 bip_39_word_new_br_1: bicycle
 bip_39_word_new_br_10: bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose<br>truck<br>bird
 bip_39_word_new_br_11: bicycle<br>various<br>job<br>toast<br>congress<br>wait<br>radio<br>expose<br>truck<br>bird<br>obvious
@@ -193,6 +205,18 @@ bip_39_word_space_6: bicycle various job toast congress wait
 bip_39_word_space_7: bicycle various job toast congress wait radio
 bip_39_word_space_8: bicycle various job toast congress wait radio expose
 bip_39_word_space_9: bicycle various job toast congress wait radio expose truck
+bip_39_word_underscore_1: bicycle
+bip_39_word_underscore_10: bicycle_various_job_toast_congress_wait_radio_expose_truck_bird
+bip_39_word_underscore_11: bicycle_various_job_toast_congress_wait_radio_expose_truck_bird_obvious
+bip_39_word_underscore_12: bicycle_various_job_toast_congress_wait_radio_expose_truck_bird_obvious_almost
+bip_39_word_underscore_2: bicycle_various
+bip_39_word_underscore_3: bicycle_various_job
+bip_39_word_underscore_4: bicycle_various_job_toast
+bip_39_word_underscore_5: bicycle_various_job_toast_congress
+bip_39_word_underscore_6: bicycle_various_job_toast_congress_wait
+bip_39_word_underscore_7: bicycle_various_job_toast_congress_wait_radio
+bip_39_word_underscore_8: bicycle_various_job_toast_congress_wait_radio_expose
+bip_39_word_underscore_9: bicycle_various_job_toast_congress_wait_radio_expose_truck
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | below |  
+| bip_39_word_dash_10 | below-island-exist-window-snow-upgrade-confirm-crystal-endorse-banner |  
+| bip_39_word_dash_11 | below-island-exist-window-snow-upgrade-confirm-crystal-endorse-banner-mirror |  
+| bip_39_word_dash_12 | below-island-exist-window-snow-upgrade-confirm-crystal-endorse-banner-mirror-always |  
+| bip_39_word_dash_2 | below-island |  
+| bip_39_word_dash_3 | below-island-exist |  
+| bip_39_word_dash_4 | below-island-exist-window |  
+| bip_39_word_dash_5 | below-island-exist-window-snow |  
+| bip_39_word_dash_6 | below-island-exist-window-snow-upgrade |  
+| bip_39_word_dash_7 | below-island-exist-window-snow-upgrade-confirm |  
+| bip_39_word_dash_8 | below-island-exist-window-snow-upgrade-confirm-crystal |  
+| bip_39_word_dash_9 | below-island-exist-window-snow-upgrade-confirm-crystal-endorse |  
 | bip_39_word_new_br_1 | below |  
 | bip_39_word_new_br_10 | below<br>island<br>exist<br>window<br>snow<br>upgrade<br>confirm<br>crystal<br>endorse<br>banner |  
 | bip_39_word_new_br_11 | below<br>island<br>exist<br>window<br>snow<br>upgrade<br>confirm<br>crystal<br>endorse<br>banner<br>mirror |  
@@ -147,6 +159,18 @@ endorse |
 | bip_39_word_space_7 | below island exist window snow upgrade confirm |  
 | bip_39_word_space_8 | below island exist window snow upgrade confirm crystal |  
 | bip_39_word_space_9 | below island exist window snow upgrade confirm crystal endorse |  
+| bip_39_word_underscore_1 | below |  
+| bip_39_word_underscore_10 | below_island_exist_window_snow_upgrade_confirm_crystal_endorse_banner |  
+| bip_39_word_underscore_11 | below_island_exist_window_snow_upgrade_confirm_crystal_endorse_banner_mirror |  
+| bip_39_word_underscore_12 | below_island_exist_window_snow_upgrade_confirm_crystal_endorse_banner_mirror_always |  
+| bip_39_word_underscore_2 | below_island |  
+| bip_39_word_underscore_3 | below_island_exist |  
+| bip_39_word_underscore_4 | below_island_exist_window |  
+| bip_39_word_underscore_5 | below_island_exist_window_snow |  
+| bip_39_word_underscore_6 | below_island_exist_window_snow_upgrade |  
+| bip_39_word_underscore_7 | below_island_exist_window_snow_upgrade_confirm |  
+| bip_39_word_underscore_8 | below_island_exist_window_snow_upgrade_confirm_crystal |  
+| bip_39_word_underscore_9 | below_island_exist_window_snow_upgrade_confirm_crystal_endorse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

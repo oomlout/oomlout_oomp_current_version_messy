@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | define |  
+| bip_39_word_dash_10 | define-apple-shoot-wood-write-drama-negative-ancient-pause-learn |  
+| bip_39_word_dash_11 | define-apple-shoot-wood-write-drama-negative-ancient-pause-learn-skin |  
+| bip_39_word_dash_12 | define-apple-shoot-wood-write-drama-negative-ancient-pause-learn-skin-armor |  
+| bip_39_word_dash_2 | define-apple |  
+| bip_39_word_dash_3 | define-apple-shoot |  
+| bip_39_word_dash_4 | define-apple-shoot-wood |  
+| bip_39_word_dash_5 | define-apple-shoot-wood-write |  
+| bip_39_word_dash_6 | define-apple-shoot-wood-write-drama |  
+| bip_39_word_dash_7 | define-apple-shoot-wood-write-drama-negative |  
+| bip_39_word_dash_8 | define-apple-shoot-wood-write-drama-negative-ancient |  
+| bip_39_word_dash_9 | define-apple-shoot-wood-write-drama-negative-ancient-pause |  
 | bip_39_word_new_br_1 | define |  
 | bip_39_word_new_br_10 | define<br>apple<br>shoot<br>wood<br>write<br>drama<br>negative<br>ancient<br>pause<br>learn |  
 | bip_39_word_new_br_11 | define<br>apple<br>shoot<br>wood<br>write<br>drama<br>negative<br>ancient<br>pause<br>learn<br>skin |  
@@ -147,6 +159,18 @@ pause |
 | bip_39_word_space_7 | define apple shoot wood write drama negative |  
 | bip_39_word_space_8 | define apple shoot wood write drama negative ancient |  
 | bip_39_word_space_9 | define apple shoot wood write drama negative ancient pause |  
+| bip_39_word_underscore_1 | define |  
+| bip_39_word_underscore_10 | define_apple_shoot_wood_write_drama_negative_ancient_pause_learn |  
+| bip_39_word_underscore_11 | define_apple_shoot_wood_write_drama_negative_ancient_pause_learn_skin |  
+| bip_39_word_underscore_12 | define_apple_shoot_wood_write_drama_negative_ancient_pause_learn_skin_armor |  
+| bip_39_word_underscore_2 | define_apple |  
+| bip_39_word_underscore_3 | define_apple_shoot |  
+| bip_39_word_underscore_4 | define_apple_shoot_wood |  
+| bip_39_word_underscore_5 | define_apple_shoot_wood_write |  
+| bip_39_word_underscore_6 | define_apple_shoot_wood_write_drama |  
+| bip_39_word_underscore_7 | define_apple_shoot_wood_write_drama_negative |  
+| bip_39_word_underscore_8 | define_apple_shoot_wood_write_drama_negative_ancient |  
+| bip_39_word_underscore_9 | define_apple_shoot_wood_write_drama_negative_ancient_pause |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

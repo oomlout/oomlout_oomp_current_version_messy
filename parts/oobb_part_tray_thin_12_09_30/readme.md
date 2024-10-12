@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | give |  
+| bip_39_word_dash_10 | give-uncover-like-enact-trip-evidence-city-stamp-animal-cross |  
+| bip_39_word_dash_11 | give-uncover-like-enact-trip-evidence-city-stamp-animal-cross-letter |  
+| bip_39_word_dash_12 | give-uncover-like-enact-trip-evidence-city-stamp-animal-cross-letter-adapt |  
+| bip_39_word_dash_2 | give-uncover |  
+| bip_39_word_dash_3 | give-uncover-like |  
+| bip_39_word_dash_4 | give-uncover-like-enact |  
+| bip_39_word_dash_5 | give-uncover-like-enact-trip |  
+| bip_39_word_dash_6 | give-uncover-like-enact-trip-evidence |  
+| bip_39_word_dash_7 | give-uncover-like-enact-trip-evidence-city |  
+| bip_39_word_dash_8 | give-uncover-like-enact-trip-evidence-city-stamp |  
+| bip_39_word_dash_9 | give-uncover-like-enact-trip-evidence-city-stamp-animal |  
 | bip_39_word_new_br_1 | give |  
 | bip_39_word_new_br_10 | give<br>uncover<br>like<br>enact<br>trip<br>evidence<br>city<br>stamp<br>animal<br>cross |  
 | bip_39_word_new_br_11 | give<br>uncover<br>like<br>enact<br>trip<br>evidence<br>city<br>stamp<br>animal<br>cross<br>letter |  
@@ -147,6 +159,18 @@ animal |
 | bip_39_word_space_7 | give uncover like enact trip evidence city |  
 | bip_39_word_space_8 | give uncover like enact trip evidence city stamp |  
 | bip_39_word_space_9 | give uncover like enact trip evidence city stamp animal |  
+| bip_39_word_underscore_1 | give |  
+| bip_39_word_underscore_10 | give_uncover_like_enact_trip_evidence_city_stamp_animal_cross |  
+| bip_39_word_underscore_11 | give_uncover_like_enact_trip_evidence_city_stamp_animal_cross_letter |  
+| bip_39_word_underscore_12 | give_uncover_like_enact_trip_evidence_city_stamp_animal_cross_letter_adapt |  
+| bip_39_word_underscore_2 | give_uncover |  
+| bip_39_word_underscore_3 | give_uncover_like |  
+| bip_39_word_underscore_4 | give_uncover_like_enact |  
+| bip_39_word_underscore_5 | give_uncover_like_enact_trip |  
+| bip_39_word_underscore_6 | give_uncover_like_enact_trip_evidence |  
+| bip_39_word_underscore_7 | give_uncover_like_enact_trip_evidence_city |  
+| bip_39_word_underscore_8 | give_uncover_like_enact_trip_evidence_city_stamp |  
+| bip_39_word_underscore_9 | give_uncover_like_enact_trip_evidence_city_stamp_animal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

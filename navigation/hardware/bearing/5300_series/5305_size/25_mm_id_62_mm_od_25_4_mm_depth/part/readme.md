@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | task |  
+| bip_39_word_dash_10 | task-vital-erase-foster-napkin-toe-stumble-design-assist-engage |  
+| bip_39_word_dash_11 | task-vital-erase-foster-napkin-toe-stumble-design-assist-engage-milk |  
+| bip_39_word_dash_12 | task-vital-erase-foster-napkin-toe-stumble-design-assist-engage-milk-april |  
+| bip_39_word_dash_2 | task-vital |  
+| bip_39_word_dash_3 | task-vital-erase |  
+| bip_39_word_dash_4 | task-vital-erase-foster |  
+| bip_39_word_dash_5 | task-vital-erase-foster-napkin |  
+| bip_39_word_dash_6 | task-vital-erase-foster-napkin-toe |  
+| bip_39_word_dash_7 | task-vital-erase-foster-napkin-toe-stumble |  
+| bip_39_word_dash_8 | task-vital-erase-foster-napkin-toe-stumble-design |  
+| bip_39_word_dash_9 | task-vital-erase-foster-napkin-toe-stumble-design-assist |  
 | bip_39_word_new_br_1 | task |  
 | bip_39_word_new_br_10 | task<br>vital<br>erase<br>foster<br>napkin<br>toe<br>stumble<br>design<br>assist<br>engage |  
 | bip_39_word_new_br_11 | task<br>vital<br>erase<br>foster<br>napkin<br>toe<br>stumble<br>design<br>assist<br>engage<br>milk |  
@@ -147,6 +159,18 @@ assist |
 | bip_39_word_space_7 | task vital erase foster napkin toe stumble |  
 | bip_39_word_space_8 | task vital erase foster napkin toe stumble design |  
 | bip_39_word_space_9 | task vital erase foster napkin toe stumble design assist |  
+| bip_39_word_underscore_1 | task |  
+| bip_39_word_underscore_10 | task_vital_erase_foster_napkin_toe_stumble_design_assist_engage |  
+| bip_39_word_underscore_11 | task_vital_erase_foster_napkin_toe_stumble_design_assist_engage_milk |  
+| bip_39_word_underscore_12 | task_vital_erase_foster_napkin_toe_stumble_design_assist_engage_milk_april |  
+| bip_39_word_underscore_2 | task_vital |  
+| bip_39_word_underscore_3 | task_vital_erase |  
+| bip_39_word_underscore_4 | task_vital_erase_foster |  
+| bip_39_word_underscore_5 | task_vital_erase_foster_napkin |  
+| bip_39_word_underscore_6 | task_vital_erase_foster_napkin_toe |  
+| bip_39_word_underscore_7 | task_vital_erase_foster_napkin_toe_stumble |  
+| bip_39_word_underscore_8 | task_vital_erase_foster_napkin_toe_stumble_design |  
+| bip_39_word_underscore_9 | task_vital_erase_foster_napkin_toe_stumble_design_assist |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

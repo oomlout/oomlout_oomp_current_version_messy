@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cradle |  
+| bip_39_word_dash_10 | cradle-okay-narrow-hunt-defy-ceiling-warfare-camera-detect-gate |  
+| bip_39_word_dash_11 | cradle-okay-narrow-hunt-defy-ceiling-warfare-camera-detect-gate-lucky |  
+| bip_39_word_dash_12 | cradle-okay-narrow-hunt-defy-ceiling-warfare-camera-detect-gate-lucky-artwork |  
+| bip_39_word_dash_2 | cradle-okay |  
+| bip_39_word_dash_3 | cradle-okay-narrow |  
+| bip_39_word_dash_4 | cradle-okay-narrow-hunt |  
+| bip_39_word_dash_5 | cradle-okay-narrow-hunt-defy |  
+| bip_39_word_dash_6 | cradle-okay-narrow-hunt-defy-ceiling |  
+| bip_39_word_dash_7 | cradle-okay-narrow-hunt-defy-ceiling-warfare |  
+| bip_39_word_dash_8 | cradle-okay-narrow-hunt-defy-ceiling-warfare-camera |  
+| bip_39_word_dash_9 | cradle-okay-narrow-hunt-defy-ceiling-warfare-camera-detect |  
 | bip_39_word_new_br_1 | cradle |  
 | bip_39_word_new_br_10 | cradle<br>okay<br>narrow<br>hunt<br>defy<br>ceiling<br>warfare<br>camera<br>detect<br>gate |  
 | bip_39_word_new_br_11 | cradle<br>okay<br>narrow<br>hunt<br>defy<br>ceiling<br>warfare<br>camera<br>detect<br>gate<br>lucky |  
@@ -147,6 +159,18 @@ detect |
 | bip_39_word_space_7 | cradle okay narrow hunt defy ceiling warfare |  
 | bip_39_word_space_8 | cradle okay narrow hunt defy ceiling warfare camera |  
 | bip_39_word_space_9 | cradle okay narrow hunt defy ceiling warfare camera detect |  
+| bip_39_word_underscore_1 | cradle |  
+| bip_39_word_underscore_10 | cradle_okay_narrow_hunt_defy_ceiling_warfare_camera_detect_gate |  
+| bip_39_word_underscore_11 | cradle_okay_narrow_hunt_defy_ceiling_warfare_camera_detect_gate_lucky |  
+| bip_39_word_underscore_12 | cradle_okay_narrow_hunt_defy_ceiling_warfare_camera_detect_gate_lucky_artwork |  
+| bip_39_word_underscore_2 | cradle_okay |  
+| bip_39_word_underscore_3 | cradle_okay_narrow |  
+| bip_39_word_underscore_4 | cradle_okay_narrow_hunt |  
+| bip_39_word_underscore_5 | cradle_okay_narrow_hunt_defy |  
+| bip_39_word_underscore_6 | cradle_okay_narrow_hunt_defy_ceiling |  
+| bip_39_word_underscore_7 | cradle_okay_narrow_hunt_defy_ceiling_warfare |  
+| bip_39_word_underscore_8 | cradle_okay_narrow_hunt_defy_ceiling_warfare_camera |  
+| bip_39_word_underscore_9 | cradle_okay_narrow_hunt_defy_ceiling_warfare_camera_detect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

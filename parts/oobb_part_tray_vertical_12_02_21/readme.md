@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plastic |  
+| bip_39_word_dash_10 | plastic-card-wet-party-demise-chat-egg-robust-element-accident |  
+| bip_39_word_dash_11 | plastic-card-wet-party-demise-chat-egg-robust-element-accident-fine |  
+| bip_39_word_dash_12 | plastic-card-wet-party-demise-chat-egg-robust-element-accident-fine-alcohol |  
+| bip_39_word_dash_2 | plastic-card |  
+| bip_39_word_dash_3 | plastic-card-wet |  
+| bip_39_word_dash_4 | plastic-card-wet-party |  
+| bip_39_word_dash_5 | plastic-card-wet-party-demise |  
+| bip_39_word_dash_6 | plastic-card-wet-party-demise-chat |  
+| bip_39_word_dash_7 | plastic-card-wet-party-demise-chat-egg |  
+| bip_39_word_dash_8 | plastic-card-wet-party-demise-chat-egg-robust |  
+| bip_39_word_dash_9 | plastic-card-wet-party-demise-chat-egg-robust-element |  
 | bip_39_word_new_br_1 | plastic |  
 | bip_39_word_new_br_10 | plastic<br>card<br>wet<br>party<br>demise<br>chat<br>egg<br>robust<br>element<br>accident |  
 | bip_39_word_new_br_11 | plastic<br>card<br>wet<br>party<br>demise<br>chat<br>egg<br>robust<br>element<br>accident<br>fine |  
@@ -147,6 +159,18 @@ element |
 | bip_39_word_space_7 | plastic card wet party demise chat egg |  
 | bip_39_word_space_8 | plastic card wet party demise chat egg robust |  
 | bip_39_word_space_9 | plastic card wet party demise chat egg robust element |  
+| bip_39_word_underscore_1 | plastic |  
+| bip_39_word_underscore_10 | plastic_card_wet_party_demise_chat_egg_robust_element_accident |  
+| bip_39_word_underscore_11 | plastic_card_wet_party_demise_chat_egg_robust_element_accident_fine |  
+| bip_39_word_underscore_12 | plastic_card_wet_party_demise_chat_egg_robust_element_accident_fine_alcohol |  
+| bip_39_word_underscore_2 | plastic_card |  
+| bip_39_word_underscore_3 | plastic_card_wet |  
+| bip_39_word_underscore_4 | plastic_card_wet_party |  
+| bip_39_word_underscore_5 | plastic_card_wet_party_demise |  
+| bip_39_word_underscore_6 | plastic_card_wet_party_demise_chat |  
+| bip_39_word_underscore_7 | plastic_card_wet_party_demise_chat_egg |  
+| bip_39_word_underscore_8 | plastic_card_wet_party_demise_chat_egg_robust |  
+| bip_39_word_underscore_9 | plastic_card_wet_party_demise_chat_egg_robust_element |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

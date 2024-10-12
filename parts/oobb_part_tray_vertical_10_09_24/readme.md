@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trend |  
+| bip_39_word_dash_10 | trend-walnut-random-antique-fall-degree-excess-depart-table-horse |  
+| bip_39_word_dash_11 | trend-walnut-random-antique-fall-degree-excess-depart-table-horse-ketchup |  
+| bip_39_word_dash_12 | trend-walnut-random-antique-fall-degree-excess-depart-table-horse-ketchup-average |  
+| bip_39_word_dash_2 | trend-walnut |  
+| bip_39_word_dash_3 | trend-walnut-random |  
+| bip_39_word_dash_4 | trend-walnut-random-antique |  
+| bip_39_word_dash_5 | trend-walnut-random-antique-fall |  
+| bip_39_word_dash_6 | trend-walnut-random-antique-fall-degree |  
+| bip_39_word_dash_7 | trend-walnut-random-antique-fall-degree-excess |  
+| bip_39_word_dash_8 | trend-walnut-random-antique-fall-degree-excess-depart |  
+| bip_39_word_dash_9 | trend-walnut-random-antique-fall-degree-excess-depart-table |  
 | bip_39_word_new_br_1 | trend |  
 | bip_39_word_new_br_10 | trend<br>walnut<br>random<br>antique<br>fall<br>degree<br>excess<br>depart<br>table<br>horse |  
 | bip_39_word_new_br_11 | trend<br>walnut<br>random<br>antique<br>fall<br>degree<br>excess<br>depart<br>table<br>horse<br>ketchup |  
@@ -147,6 +159,18 @@ table |
 | bip_39_word_space_7 | trend walnut random antique fall degree excess |  
 | bip_39_word_space_8 | trend walnut random antique fall degree excess depart |  
 | bip_39_word_space_9 | trend walnut random antique fall degree excess depart table |  
+| bip_39_word_underscore_1 | trend |  
+| bip_39_word_underscore_10 | trend_walnut_random_antique_fall_degree_excess_depart_table_horse |  
+| bip_39_word_underscore_11 | trend_walnut_random_antique_fall_degree_excess_depart_table_horse_ketchup |  
+| bip_39_word_underscore_12 | trend_walnut_random_antique_fall_degree_excess_depart_table_horse_ketchup_average |  
+| bip_39_word_underscore_2 | trend_walnut |  
+| bip_39_word_underscore_3 | trend_walnut_random |  
+| bip_39_word_underscore_4 | trend_walnut_random_antique |  
+| bip_39_word_underscore_5 | trend_walnut_random_antique_fall |  
+| bip_39_word_underscore_6 | trend_walnut_random_antique_fall_degree |  
+| bip_39_word_underscore_7 | trend_walnut_random_antique_fall_degree_excess |  
+| bip_39_word_underscore_8 | trend_walnut_random_antique_fall_degree_excess_depart |  
+| bip_39_word_underscore_9 | trend_walnut_random_antique_fall_degree_excess_depart_table |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

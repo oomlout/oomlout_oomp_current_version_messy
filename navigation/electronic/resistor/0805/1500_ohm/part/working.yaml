@@ -1,3 +1,15 @@
+bip_39_word_dash_1: farm
+bip_39_word_dash_10: farm-abuse-coral-else-race-pact-observe-wire-jealous-flash
+bip_39_word_dash_11: farm-abuse-coral-else-race-pact-observe-wire-jealous-flash-reason
+bip_39_word_dash_12: farm-abuse-coral-else-race-pact-observe-wire-jealous-flash-reason-always
+bip_39_word_dash_2: farm-abuse
+bip_39_word_dash_3: farm-abuse-coral
+bip_39_word_dash_4: farm-abuse-coral-else
+bip_39_word_dash_5: farm-abuse-coral-else-race
+bip_39_word_dash_6: farm-abuse-coral-else-race-pact
+bip_39_word_dash_7: farm-abuse-coral-else-race-pact-observe
+bip_39_word_dash_8: farm-abuse-coral-else-race-pact-observe-wire
+bip_39_word_dash_9: farm-abuse-coral-else-race-pact-observe-wire-jealous
 bip_39_word_new_br_1: farm
 bip_39_word_new_br_10: farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire<br>jealous<br>flash
 bip_39_word_new_br_11: farm<br>abuse<br>coral<br>else<br>race<br>pact<br>observe<br>wire<br>jealous<br>flash<br>reason
@@ -192,6 +204,18 @@ bip_39_word_space_6: farm abuse coral else race pact
 bip_39_word_space_7: farm abuse coral else race pact observe
 bip_39_word_space_8: farm abuse coral else race pact observe wire
 bip_39_word_space_9: farm abuse coral else race pact observe wire jealous
+bip_39_word_underscore_1: farm
+bip_39_word_underscore_10: farm_abuse_coral_else_race_pact_observe_wire_jealous_flash
+bip_39_word_underscore_11: farm_abuse_coral_else_race_pact_observe_wire_jealous_flash_reason
+bip_39_word_underscore_12: farm_abuse_coral_else_race_pact_observe_wire_jealous_flash_reason_always
+bip_39_word_underscore_2: farm_abuse
+bip_39_word_underscore_3: farm_abuse_coral
+bip_39_word_underscore_4: farm_abuse_coral_else
+bip_39_word_underscore_5: farm_abuse_coral_else_race
+bip_39_word_underscore_6: farm_abuse_coral_else_race_pact
+bip_39_word_underscore_7: farm_abuse_coral_else_race_pact_observe
+bip_39_word_underscore_8: farm_abuse_coral_else_race_pact_observe_wire
+bip_39_word_underscore_9: farm_abuse_coral_else_race_pact_observe_wire_jealous
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: turtle
+bip_39_word_dash_10: turtle-puzzle-price-mountain-liquid-cattle-devote-tiger-wood-ride
+bip_39_word_dash_11: turtle-puzzle-price-mountain-liquid-cattle-devote-tiger-wood-ride-until
+bip_39_word_dash_12: turtle-puzzle-price-mountain-liquid-cattle-devote-tiger-wood-ride-until-area
+bip_39_word_dash_2: turtle-puzzle
+bip_39_word_dash_3: turtle-puzzle-price
+bip_39_word_dash_4: turtle-puzzle-price-mountain
+bip_39_word_dash_5: turtle-puzzle-price-mountain-liquid
+bip_39_word_dash_6: turtle-puzzle-price-mountain-liquid-cattle
+bip_39_word_dash_7: turtle-puzzle-price-mountain-liquid-cattle-devote
+bip_39_word_dash_8: turtle-puzzle-price-mountain-liquid-cattle-devote-tiger
+bip_39_word_dash_9: turtle-puzzle-price-mountain-liquid-cattle-devote-tiger-wood
 bip_39_word_new_br_1: turtle
 bip_39_word_new_br_10: turtle<br>puzzle<br>price<br>mountain<br>liquid<br>cattle<br>devote<br>tiger<br>wood<br>ride
 bip_39_word_new_br_11: turtle<br>puzzle<br>price<br>mountain<br>liquid<br>cattle<br>devote<br>tiger<br>wood<br>ride<br>until
@@ -194,6 +206,18 @@ bip_39_word_space_6: turtle puzzle price mountain liquid cattle
 bip_39_word_space_7: turtle puzzle price mountain liquid cattle devote
 bip_39_word_space_8: turtle puzzle price mountain liquid cattle devote tiger
 bip_39_word_space_9: turtle puzzle price mountain liquid cattle devote tiger wood
+bip_39_word_underscore_1: turtle
+bip_39_word_underscore_10: turtle_puzzle_price_mountain_liquid_cattle_devote_tiger_wood_ride
+bip_39_word_underscore_11: turtle_puzzle_price_mountain_liquid_cattle_devote_tiger_wood_ride_until
+bip_39_word_underscore_12: turtle_puzzle_price_mountain_liquid_cattle_devote_tiger_wood_ride_until_area
+bip_39_word_underscore_2: turtle_puzzle
+bip_39_word_underscore_3: turtle_puzzle_price
+bip_39_word_underscore_4: turtle_puzzle_price_mountain
+bip_39_word_underscore_5: turtle_puzzle_price_mountain_liquid
+bip_39_word_underscore_6: turtle_puzzle_price_mountain_liquid_cattle
+bip_39_word_underscore_7: turtle_puzzle_price_mountain_liquid_cattle_devote
+bip_39_word_underscore_8: turtle_puzzle_price_mountain_liquid_cattle_devote_tiger
+bip_39_word_underscore_9: turtle_puzzle_price_mountain_liquid_cattle_devote_tiger_wood
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

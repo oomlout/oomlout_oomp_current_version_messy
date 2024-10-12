@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | settle |  
+| bip_39_word_dash_10 | settle-february-craft-exhibit-civil-best-donkey-spring-demise-pluck |  
+| bip_39_word_dash_11 | settle-february-craft-exhibit-civil-best-donkey-spring-demise-pluck-october |  
+| bip_39_word_dash_12 | settle-february-craft-exhibit-civil-best-donkey-spring-demise-pluck-october-artist |  
+| bip_39_word_dash_2 | settle-february |  
+| bip_39_word_dash_3 | settle-february-craft |  
+| bip_39_word_dash_4 | settle-february-craft-exhibit |  
+| bip_39_word_dash_5 | settle-february-craft-exhibit-civil |  
+| bip_39_word_dash_6 | settle-february-craft-exhibit-civil-best |  
+| bip_39_word_dash_7 | settle-february-craft-exhibit-civil-best-donkey |  
+| bip_39_word_dash_8 | settle-february-craft-exhibit-civil-best-donkey-spring |  
+| bip_39_word_dash_9 | settle-february-craft-exhibit-civil-best-donkey-spring-demise |  
 | bip_39_word_new_br_1 | settle |  
 | bip_39_word_new_br_10 | settle<br>february<br>craft<br>exhibit<br>civil<br>best<br>donkey<br>spring<br>demise<br>pluck |  
 | bip_39_word_new_br_11 | settle<br>february<br>craft<br>exhibit<br>civil<br>best<br>donkey<br>spring<br>demise<br>pluck<br>october |  
@@ -147,6 +159,18 @@ demise |
 | bip_39_word_space_7 | settle february craft exhibit civil best donkey |  
 | bip_39_word_space_8 | settle february craft exhibit civil best donkey spring |  
 | bip_39_word_space_9 | settle february craft exhibit civil best donkey spring demise |  
+| bip_39_word_underscore_1 | settle |  
+| bip_39_word_underscore_10 | settle_february_craft_exhibit_civil_best_donkey_spring_demise_pluck |  
+| bip_39_word_underscore_11 | settle_february_craft_exhibit_civil_best_donkey_spring_demise_pluck_october |  
+| bip_39_word_underscore_12 | settle_february_craft_exhibit_civil_best_donkey_spring_demise_pluck_october_artist |  
+| bip_39_word_underscore_2 | settle_february |  
+| bip_39_word_underscore_3 | settle_february_craft |  
+| bip_39_word_underscore_4 | settle_february_craft_exhibit |  
+| bip_39_word_underscore_5 | settle_february_craft_exhibit_civil |  
+| bip_39_word_underscore_6 | settle_february_craft_exhibit_civil_best |  
+| bip_39_word_underscore_7 | settle_february_craft_exhibit_civil_best_donkey |  
+| bip_39_word_underscore_8 | settle_february_craft_exhibit_civil_best_donkey_spring |  
+| bip_39_word_underscore_9 | settle_february_craft_exhibit_civil_best_donkey_spring_demise |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

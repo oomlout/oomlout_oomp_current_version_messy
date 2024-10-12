@@ -1,3 +1,15 @@
+bip_39_word_dash_1: orphan
+bip_39_word_dash_10: orphan-swear-crazy-skull-scatter-jazz-symbol-amateur-polar-wrap
+bip_39_word_dash_11: orphan-swear-crazy-skull-scatter-jazz-symbol-amateur-polar-wrap-any
+bip_39_word_dash_12: orphan-swear-crazy-skull-scatter-jazz-symbol-amateur-polar-wrap-any-armor
+bip_39_word_dash_2: orphan-swear
+bip_39_word_dash_3: orphan-swear-crazy
+bip_39_word_dash_4: orphan-swear-crazy-skull
+bip_39_word_dash_5: orphan-swear-crazy-skull-scatter
+bip_39_word_dash_6: orphan-swear-crazy-skull-scatter-jazz
+bip_39_word_dash_7: orphan-swear-crazy-skull-scatter-jazz-symbol
+bip_39_word_dash_8: orphan-swear-crazy-skull-scatter-jazz-symbol-amateur
+bip_39_word_dash_9: orphan-swear-crazy-skull-scatter-jazz-symbol-amateur-polar
 bip_39_word_new_br_1: orphan
 bip_39_word_new_br_10: orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur<br>polar<br>wrap
 bip_39_word_new_br_11: orphan<br>swear<br>crazy<br>skull<br>scatter<br>jazz<br>symbol<br>amateur<br>polar<br>wrap<br>any
@@ -193,6 +205,18 @@ bip_39_word_space_6: orphan swear crazy skull scatter jazz
 bip_39_word_space_7: orphan swear crazy skull scatter jazz symbol
 bip_39_word_space_8: orphan swear crazy skull scatter jazz symbol amateur
 bip_39_word_space_9: orphan swear crazy skull scatter jazz symbol amateur polar
+bip_39_word_underscore_1: orphan
+bip_39_word_underscore_10: orphan_swear_crazy_skull_scatter_jazz_symbol_amateur_polar_wrap
+bip_39_word_underscore_11: orphan_swear_crazy_skull_scatter_jazz_symbol_amateur_polar_wrap_any
+bip_39_word_underscore_12: orphan_swear_crazy_skull_scatter_jazz_symbol_amateur_polar_wrap_any_armor
+bip_39_word_underscore_2: orphan_swear
+bip_39_word_underscore_3: orphan_swear_crazy
+bip_39_word_underscore_4: orphan_swear_crazy_skull
+bip_39_word_underscore_5: orphan_swear_crazy_skull_scatter
+bip_39_word_underscore_6: orphan_swear_crazy_skull_scatter_jazz
+bip_39_word_underscore_7: orphan_swear_crazy_skull_scatter_jazz_symbol
+bip_39_word_underscore_8: orphan_swear_crazy_skull_scatter_jazz_symbol_amateur
+bip_39_word_underscore_9: orphan_swear_crazy_skull_scatter_jazz_symbol_amateur_polar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

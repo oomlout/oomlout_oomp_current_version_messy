@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | combine |  
+| bip_39_word_dash_10 | combine-sugar-yellow-arch-love-scatter-sugar-defy-fabric-must |  
+| bip_39_word_dash_11 | combine-sugar-yellow-arch-love-scatter-sugar-defy-fabric-must-skirt |  
+| bip_39_word_dash_12 | combine-sugar-yellow-arch-love-scatter-sugar-defy-fabric-must-skirt-absurd |  
+| bip_39_word_dash_2 | combine-sugar |  
+| bip_39_word_dash_3 | combine-sugar-yellow |  
+| bip_39_word_dash_4 | combine-sugar-yellow-arch |  
+| bip_39_word_dash_5 | combine-sugar-yellow-arch-love |  
+| bip_39_word_dash_6 | combine-sugar-yellow-arch-love-scatter |  
+| bip_39_word_dash_7 | combine-sugar-yellow-arch-love-scatter-sugar |  
+| bip_39_word_dash_8 | combine-sugar-yellow-arch-love-scatter-sugar-defy |  
+| bip_39_word_dash_9 | combine-sugar-yellow-arch-love-scatter-sugar-defy-fabric |  
 | bip_39_word_new_br_1 | combine |  
 | bip_39_word_new_br_10 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must |  
 | bip_39_word_new_br_11 | combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must<br>skirt |  
@@ -147,6 +159,18 @@ fabric |
 | bip_39_word_space_7 | combine sugar yellow arch love scatter sugar |  
 | bip_39_word_space_8 | combine sugar yellow arch love scatter sugar defy |  
 | bip_39_word_space_9 | combine sugar yellow arch love scatter sugar defy fabric |  
+| bip_39_word_underscore_1 | combine |  
+| bip_39_word_underscore_10 | combine_sugar_yellow_arch_love_scatter_sugar_defy_fabric_must |  
+| bip_39_word_underscore_11 | combine_sugar_yellow_arch_love_scatter_sugar_defy_fabric_must_skirt |  
+| bip_39_word_underscore_12 | combine_sugar_yellow_arch_love_scatter_sugar_defy_fabric_must_skirt_absurd |  
+| bip_39_word_underscore_2 | combine_sugar |  
+| bip_39_word_underscore_3 | combine_sugar_yellow |  
+| bip_39_word_underscore_4 | combine_sugar_yellow_arch |  
+| bip_39_word_underscore_5 | combine_sugar_yellow_arch_love |  
+| bip_39_word_underscore_6 | combine_sugar_yellow_arch_love_scatter |  
+| bip_39_word_underscore_7 | combine_sugar_yellow_arch_love_scatter_sugar |  
+| bip_39_word_underscore_8 | combine_sugar_yellow_arch_love_scatter_sugar_defy |  
+| bip_39_word_underscore_9 | combine_sugar_yellow_arch_love_scatter_sugar_defy_fabric |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

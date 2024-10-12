@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pear |  
+| bip_39_word_dash_10 | pear-alter-suggest-glass-impulse-snap-popular-notice-brief-sunset |  
+| bip_39_word_dash_11 | pear-alter-suggest-glass-impulse-snap-popular-notice-brief-sunset-give |  
+| bip_39_word_dash_12 | pear-alter-suggest-glass-impulse-snap-popular-notice-brief-sunset-give-always |  
+| bip_39_word_dash_2 | pear-alter |  
+| bip_39_word_dash_3 | pear-alter-suggest |  
+| bip_39_word_dash_4 | pear-alter-suggest-glass |  
+| bip_39_word_dash_5 | pear-alter-suggest-glass-impulse |  
+| bip_39_word_dash_6 | pear-alter-suggest-glass-impulse-snap |  
+| bip_39_word_dash_7 | pear-alter-suggest-glass-impulse-snap-popular |  
+| bip_39_word_dash_8 | pear-alter-suggest-glass-impulse-snap-popular-notice |  
+| bip_39_word_dash_9 | pear-alter-suggest-glass-impulse-snap-popular-notice-brief |  
 | bip_39_word_new_br_1 | pear |  
 | bip_39_word_new_br_10 | pear<br>alter<br>suggest<br>glass<br>impulse<br>snap<br>popular<br>notice<br>brief<br>sunset |  
 | bip_39_word_new_br_11 | pear<br>alter<br>suggest<br>glass<br>impulse<br>snap<br>popular<br>notice<br>brief<br>sunset<br>give |  
@@ -147,6 +159,18 @@ brief |
 | bip_39_word_space_7 | pear alter suggest glass impulse snap popular |  
 | bip_39_word_space_8 | pear alter suggest glass impulse snap popular notice |  
 | bip_39_word_space_9 | pear alter suggest glass impulse snap popular notice brief |  
+| bip_39_word_underscore_1 | pear |  
+| bip_39_word_underscore_10 | pear_alter_suggest_glass_impulse_snap_popular_notice_brief_sunset |  
+| bip_39_word_underscore_11 | pear_alter_suggest_glass_impulse_snap_popular_notice_brief_sunset_give |  
+| bip_39_word_underscore_12 | pear_alter_suggest_glass_impulse_snap_popular_notice_brief_sunset_give_always |  
+| bip_39_word_underscore_2 | pear_alter |  
+| bip_39_word_underscore_3 | pear_alter_suggest |  
+| bip_39_word_underscore_4 | pear_alter_suggest_glass |  
+| bip_39_word_underscore_5 | pear_alter_suggest_glass_impulse |  
+| bip_39_word_underscore_6 | pear_alter_suggest_glass_impulse_snap |  
+| bip_39_word_underscore_7 | pear_alter_suggest_glass_impulse_snap_popular |  
+| bip_39_word_underscore_8 | pear_alter_suggest_glass_impulse_snap_popular_notice |  
+| bip_39_word_underscore_9 | pear_alter_suggest_glass_impulse_snap_popular_notice_brief |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

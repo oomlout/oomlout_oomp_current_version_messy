@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dutch |  
+| bip_39_word_dash_10 | dutch-equip-tribe-enough-doll-sort-pony-gather-oak-pave |  
+| bip_39_word_dash_11 | dutch-equip-tribe-enough-doll-sort-pony-gather-oak-pave-prefer |  
+| bip_39_word_dash_12 | dutch-equip-tribe-enough-doll-sort-pony-gather-oak-pave-prefer-accident |  
+| bip_39_word_dash_2 | dutch-equip |  
+| bip_39_word_dash_3 | dutch-equip-tribe |  
+| bip_39_word_dash_4 | dutch-equip-tribe-enough |  
+| bip_39_word_dash_5 | dutch-equip-tribe-enough-doll |  
+| bip_39_word_dash_6 | dutch-equip-tribe-enough-doll-sort |  
+| bip_39_word_dash_7 | dutch-equip-tribe-enough-doll-sort-pony |  
+| bip_39_word_dash_8 | dutch-equip-tribe-enough-doll-sort-pony-gather |  
+| bip_39_word_dash_9 | dutch-equip-tribe-enough-doll-sort-pony-gather-oak |  
 | bip_39_word_new_br_1 | dutch |  
 | bip_39_word_new_br_10 | dutch<br>equip<br>tribe<br>enough<br>doll<br>sort<br>pony<br>gather<br>oak<br>pave |  
 | bip_39_word_new_br_11 | dutch<br>equip<br>tribe<br>enough<br>doll<br>sort<br>pony<br>gather<br>oak<br>pave<br>prefer |  
@@ -147,6 +159,18 @@ oak |
 | bip_39_word_space_7 | dutch equip tribe enough doll sort pony |  
 | bip_39_word_space_8 | dutch equip tribe enough doll sort pony gather |  
 | bip_39_word_space_9 | dutch equip tribe enough doll sort pony gather oak |  
+| bip_39_word_underscore_1 | dutch |  
+| bip_39_word_underscore_10 | dutch_equip_tribe_enough_doll_sort_pony_gather_oak_pave |  
+| bip_39_word_underscore_11 | dutch_equip_tribe_enough_doll_sort_pony_gather_oak_pave_prefer |  
+| bip_39_word_underscore_12 | dutch_equip_tribe_enough_doll_sort_pony_gather_oak_pave_prefer_accident |  
+| bip_39_word_underscore_2 | dutch_equip |  
+| bip_39_word_underscore_3 | dutch_equip_tribe |  
+| bip_39_word_underscore_4 | dutch_equip_tribe_enough |  
+| bip_39_word_underscore_5 | dutch_equip_tribe_enough_doll |  
+| bip_39_word_underscore_6 | dutch_equip_tribe_enough_doll_sort |  
+| bip_39_word_underscore_7 | dutch_equip_tribe_enough_doll_sort_pony |  
+| bip_39_word_underscore_8 | dutch_equip_tribe_enough_doll_sort_pony_gather |  
+| bip_39_word_underscore_9 | dutch_equip_tribe_enough_doll_sort_pony_gather_oak |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

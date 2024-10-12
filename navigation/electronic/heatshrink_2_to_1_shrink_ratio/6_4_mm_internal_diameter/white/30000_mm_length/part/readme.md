@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shrimp |  
+| bip_39_word_dash_10 | shrimp-vibrant-amazing-puzzle-wreck-thumb-urban-affair-gather-ticket |  
+| bip_39_word_dash_11 | shrimp-vibrant-amazing-puzzle-wreck-thumb-urban-affair-gather-ticket-rival |  
+| bip_39_word_dash_12 | shrimp-vibrant-amazing-puzzle-wreck-thumb-urban-affair-gather-ticket-rival-above |  
+| bip_39_word_dash_2 | shrimp-vibrant |  
+| bip_39_word_dash_3 | shrimp-vibrant-amazing |  
+| bip_39_word_dash_4 | shrimp-vibrant-amazing-puzzle |  
+| bip_39_word_dash_5 | shrimp-vibrant-amazing-puzzle-wreck |  
+| bip_39_word_dash_6 | shrimp-vibrant-amazing-puzzle-wreck-thumb |  
+| bip_39_word_dash_7 | shrimp-vibrant-amazing-puzzle-wreck-thumb-urban |  
+| bip_39_word_dash_8 | shrimp-vibrant-amazing-puzzle-wreck-thumb-urban-affair |  
+| bip_39_word_dash_9 | shrimp-vibrant-amazing-puzzle-wreck-thumb-urban-affair-gather |  
 | bip_39_word_new_br_1 | shrimp |  
 | bip_39_word_new_br_10 | shrimp<br>vibrant<br>amazing<br>puzzle<br>wreck<br>thumb<br>urban<br>affair<br>gather<br>ticket |  
 | bip_39_word_new_br_11 | shrimp<br>vibrant<br>amazing<br>puzzle<br>wreck<br>thumb<br>urban<br>affair<br>gather<br>ticket<br>rival |  
@@ -147,6 +159,18 @@ gather |
 | bip_39_word_space_7 | shrimp vibrant amazing puzzle wreck thumb urban |  
 | bip_39_word_space_8 | shrimp vibrant amazing puzzle wreck thumb urban affair |  
 | bip_39_word_space_9 | shrimp vibrant amazing puzzle wreck thumb urban affair gather |  
+| bip_39_word_underscore_1 | shrimp |  
+| bip_39_word_underscore_10 | shrimp_vibrant_amazing_puzzle_wreck_thumb_urban_affair_gather_ticket |  
+| bip_39_word_underscore_11 | shrimp_vibrant_amazing_puzzle_wreck_thumb_urban_affair_gather_ticket_rival |  
+| bip_39_word_underscore_12 | shrimp_vibrant_amazing_puzzle_wreck_thumb_urban_affair_gather_ticket_rival_above |  
+| bip_39_word_underscore_2 | shrimp_vibrant |  
+| bip_39_word_underscore_3 | shrimp_vibrant_amazing |  
+| bip_39_word_underscore_4 | shrimp_vibrant_amazing_puzzle |  
+| bip_39_word_underscore_5 | shrimp_vibrant_amazing_puzzle_wreck |  
+| bip_39_word_underscore_6 | shrimp_vibrant_amazing_puzzle_wreck_thumb |  
+| bip_39_word_underscore_7 | shrimp_vibrant_amazing_puzzle_wreck_thumb_urban |  
+| bip_39_word_underscore_8 | shrimp_vibrant_amazing_puzzle_wreck_thumb_urban_affair |  
+| bip_39_word_underscore_9 | shrimp_vibrant_amazing_puzzle_wreck_thumb_urban_affair_gather |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

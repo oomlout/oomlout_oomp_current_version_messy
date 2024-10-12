@@ -1,3 +1,15 @@
+bip_39_word_dash_1: prepare
+bip_39_word_dash_10: prepare-rice-human-lizard-eight-spend-rhythm-oven-poet-ugly
+bip_39_word_dash_11: prepare-rice-human-lizard-eight-spend-rhythm-oven-poet-ugly-half
+bip_39_word_dash_12: prepare-rice-human-lizard-eight-spend-rhythm-oven-poet-ugly-half-assume
+bip_39_word_dash_2: prepare-rice
+bip_39_word_dash_3: prepare-rice-human
+bip_39_word_dash_4: prepare-rice-human-lizard
+bip_39_word_dash_5: prepare-rice-human-lizard-eight
+bip_39_word_dash_6: prepare-rice-human-lizard-eight-spend
+bip_39_word_dash_7: prepare-rice-human-lizard-eight-spend-rhythm
+bip_39_word_dash_8: prepare-rice-human-lizard-eight-spend-rhythm-oven
+bip_39_word_dash_9: prepare-rice-human-lizard-eight-spend-rhythm-oven-poet
 bip_39_word_new_br_1: prepare
 bip_39_word_new_br_10: prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven<br>poet<br>ugly
 bip_39_word_new_br_11: prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven<br>poet<br>ugly<br>half
@@ -193,6 +205,18 @@ bip_39_word_space_6: prepare rice human lizard eight spend
 bip_39_word_space_7: prepare rice human lizard eight spend rhythm
 bip_39_word_space_8: prepare rice human lizard eight spend rhythm oven
 bip_39_word_space_9: prepare rice human lizard eight spend rhythm oven poet
+bip_39_word_underscore_1: prepare
+bip_39_word_underscore_10: prepare_rice_human_lizard_eight_spend_rhythm_oven_poet_ugly
+bip_39_word_underscore_11: prepare_rice_human_lizard_eight_spend_rhythm_oven_poet_ugly_half
+bip_39_word_underscore_12: prepare_rice_human_lizard_eight_spend_rhythm_oven_poet_ugly_half_assume
+bip_39_word_underscore_2: prepare_rice
+bip_39_word_underscore_3: prepare_rice_human
+bip_39_word_underscore_4: prepare_rice_human_lizard
+bip_39_word_underscore_5: prepare_rice_human_lizard_eight
+bip_39_word_underscore_6: prepare_rice_human_lizard_eight_spend
+bip_39_word_underscore_7: prepare_rice_human_lizard_eight_spend_rhythm
+bip_39_word_underscore_8: prepare_rice_human_lizard_eight_spend_rhythm_oven
+bip_39_word_underscore_9: prepare_rice_human_lizard_eight_spend_rhythm_oven_poet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

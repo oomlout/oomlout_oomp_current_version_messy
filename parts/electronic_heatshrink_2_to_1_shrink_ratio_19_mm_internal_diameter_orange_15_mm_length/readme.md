@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | local |  
+| bip_39_word_dash_10 | local-angle-blossom-civil-say-author-era-fish-rich-issue |  
+| bip_39_word_dash_11 | local-angle-blossom-civil-say-author-era-fish-rich-issue-tape |  
+| bip_39_word_dash_12 | local-angle-blossom-civil-say-author-era-fish-rich-issue-tape-assist |  
+| bip_39_word_dash_2 | local-angle |  
+| bip_39_word_dash_3 | local-angle-blossom |  
+| bip_39_word_dash_4 | local-angle-blossom-civil |  
+| bip_39_word_dash_5 | local-angle-blossom-civil-say |  
+| bip_39_word_dash_6 | local-angle-blossom-civil-say-author |  
+| bip_39_word_dash_7 | local-angle-blossom-civil-say-author-era |  
+| bip_39_word_dash_8 | local-angle-blossom-civil-say-author-era-fish |  
+| bip_39_word_dash_9 | local-angle-blossom-civil-say-author-era-fish-rich |  
 | bip_39_word_new_br_1 | local |  
 | bip_39_word_new_br_10 | local<br>angle<br>blossom<br>civil<br>say<br>author<br>era<br>fish<br>rich<br>issue |  
 | bip_39_word_new_br_11 | local<br>angle<br>blossom<br>civil<br>say<br>author<br>era<br>fish<br>rich<br>issue<br>tape |  
@@ -147,6 +159,18 @@ rich |
 | bip_39_word_space_7 | local angle blossom civil say author era |  
 | bip_39_word_space_8 | local angle blossom civil say author era fish |  
 | bip_39_word_space_9 | local angle blossom civil say author era fish rich |  
+| bip_39_word_underscore_1 | local |  
+| bip_39_word_underscore_10 | local_angle_blossom_civil_say_author_era_fish_rich_issue |  
+| bip_39_word_underscore_11 | local_angle_blossom_civil_say_author_era_fish_rich_issue_tape |  
+| bip_39_word_underscore_12 | local_angle_blossom_civil_say_author_era_fish_rich_issue_tape_assist |  
+| bip_39_word_underscore_2 | local_angle |  
+| bip_39_word_underscore_3 | local_angle_blossom |  
+| bip_39_word_underscore_4 | local_angle_blossom_civil |  
+| bip_39_word_underscore_5 | local_angle_blossom_civil_say |  
+| bip_39_word_underscore_6 | local_angle_blossom_civil_say_author |  
+| bip_39_word_underscore_7 | local_angle_blossom_civil_say_author_era |  
+| bip_39_word_underscore_8 | local_angle_blossom_civil_say_author_era_fish |  
+| bip_39_word_underscore_9 | local_angle_blossom_civil_say_author_era_fish_rich |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

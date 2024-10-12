@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wool |  
+| bip_39_word_dash_10 | wool-access-choose-young-police-slight-drama-forest-depend-stuff |  
+| bip_39_word_dash_11 | wool-access-choose-young-police-slight-drama-forest-depend-stuff-sentence |  
+| bip_39_word_dash_12 | wool-access-choose-young-police-slight-drama-forest-depend-stuff-sentence-amused |  
+| bip_39_word_dash_2 | wool-access |  
+| bip_39_word_dash_3 | wool-access-choose |  
+| bip_39_word_dash_4 | wool-access-choose-young |  
+| bip_39_word_dash_5 | wool-access-choose-young-police |  
+| bip_39_word_dash_6 | wool-access-choose-young-police-slight |  
+| bip_39_word_dash_7 | wool-access-choose-young-police-slight-drama |  
+| bip_39_word_dash_8 | wool-access-choose-young-police-slight-drama-forest |  
+| bip_39_word_dash_9 | wool-access-choose-young-police-slight-drama-forest-depend |  
 | bip_39_word_new_br_1 | wool |  
 | bip_39_word_new_br_10 | wool<br>access<br>choose<br>young<br>police<br>slight<br>drama<br>forest<br>depend<br>stuff |  
 | bip_39_word_new_br_11 | wool<br>access<br>choose<br>young<br>police<br>slight<br>drama<br>forest<br>depend<br>stuff<br>sentence |  
@@ -147,6 +159,18 @@ depend |
 | bip_39_word_space_7 | wool access choose young police slight drama |  
 | bip_39_word_space_8 | wool access choose young police slight drama forest |  
 | bip_39_word_space_9 | wool access choose young police slight drama forest depend |  
+| bip_39_word_underscore_1 | wool |  
+| bip_39_word_underscore_10 | wool_access_choose_young_police_slight_drama_forest_depend_stuff |  
+| bip_39_word_underscore_11 | wool_access_choose_young_police_slight_drama_forest_depend_stuff_sentence |  
+| bip_39_word_underscore_12 | wool_access_choose_young_police_slight_drama_forest_depend_stuff_sentence_amused |  
+| bip_39_word_underscore_2 | wool_access |  
+| bip_39_word_underscore_3 | wool_access_choose |  
+| bip_39_word_underscore_4 | wool_access_choose_young |  
+| bip_39_word_underscore_5 | wool_access_choose_young_police |  
+| bip_39_word_underscore_6 | wool_access_choose_young_police_slight |  
+| bip_39_word_underscore_7 | wool_access_choose_young_police_slight_drama |  
+| bip_39_word_underscore_8 | wool_access_choose_young_police_slight_drama_forest |  
+| bip_39_word_underscore_9 | wool_access_choose_young_police_slight_drama_forest_depend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

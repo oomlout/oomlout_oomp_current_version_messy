@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crew |  
+| bip_39_word_dash_10 | crew-melt-alien-square-husband-cloud-pride-author-inmate-genre |  
+| bip_39_word_dash_11 | crew-melt-alien-square-husband-cloud-pride-author-inmate-genre-thunder |  
+| bip_39_word_dash_12 | crew-melt-alien-square-husband-cloud-pride-author-inmate-genre-thunder-accuse |  
+| bip_39_word_dash_2 | crew-melt |  
+| bip_39_word_dash_3 | crew-melt-alien |  
+| bip_39_word_dash_4 | crew-melt-alien-square |  
+| bip_39_word_dash_5 | crew-melt-alien-square-husband |  
+| bip_39_word_dash_6 | crew-melt-alien-square-husband-cloud |  
+| bip_39_word_dash_7 | crew-melt-alien-square-husband-cloud-pride |  
+| bip_39_word_dash_8 | crew-melt-alien-square-husband-cloud-pride-author |  
+| bip_39_word_dash_9 | crew-melt-alien-square-husband-cloud-pride-author-inmate |  
 | bip_39_word_new_br_1 | crew |  
 | bip_39_word_new_br_10 | crew<br>melt<br>alien<br>square<br>husband<br>cloud<br>pride<br>author<br>inmate<br>genre |  
 | bip_39_word_new_br_11 | crew<br>melt<br>alien<br>square<br>husband<br>cloud<br>pride<br>author<br>inmate<br>genre<br>thunder |  
@@ -147,6 +159,18 @@ inmate |
 | bip_39_word_space_7 | crew melt alien square husband cloud pride |  
 | bip_39_word_space_8 | crew melt alien square husband cloud pride author |  
 | bip_39_word_space_9 | crew melt alien square husband cloud pride author inmate |  
+| bip_39_word_underscore_1 | crew |  
+| bip_39_word_underscore_10 | crew_melt_alien_square_husband_cloud_pride_author_inmate_genre |  
+| bip_39_word_underscore_11 | crew_melt_alien_square_husband_cloud_pride_author_inmate_genre_thunder |  
+| bip_39_word_underscore_12 | crew_melt_alien_square_husband_cloud_pride_author_inmate_genre_thunder_accuse |  
+| bip_39_word_underscore_2 | crew_melt |  
+| bip_39_word_underscore_3 | crew_melt_alien |  
+| bip_39_word_underscore_4 | crew_melt_alien_square |  
+| bip_39_word_underscore_5 | crew_melt_alien_square_husband |  
+| bip_39_word_underscore_6 | crew_melt_alien_square_husband_cloud |  
+| bip_39_word_underscore_7 | crew_melt_alien_square_husband_cloud_pride |  
+| bip_39_word_underscore_8 | crew_melt_alien_square_husband_cloud_pride_author |  
+| bip_39_word_underscore_9 | crew_melt_alien_square_husband_cloud_pride_author_inmate |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

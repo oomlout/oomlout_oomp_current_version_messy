@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decorate |  
+| bip_39_word_dash_10 | decorate-repair-goddess-rain-innocent-among-present-curve-quote-wolf |  
+| bip_39_word_dash_11 | decorate-repair-goddess-rain-innocent-among-present-curve-quote-wolf-kitchen |  
+| bip_39_word_dash_12 | decorate-repair-goddess-rain-innocent-among-present-curve-quote-wolf-kitchen-acoustic |  
+| bip_39_word_dash_2 | decorate-repair |  
+| bip_39_word_dash_3 | decorate-repair-goddess |  
+| bip_39_word_dash_4 | decorate-repair-goddess-rain |  
+| bip_39_word_dash_5 | decorate-repair-goddess-rain-innocent |  
+| bip_39_word_dash_6 | decorate-repair-goddess-rain-innocent-among |  
+| bip_39_word_dash_7 | decorate-repair-goddess-rain-innocent-among-present |  
+| bip_39_word_dash_8 | decorate-repair-goddess-rain-innocent-among-present-curve |  
+| bip_39_word_dash_9 | decorate-repair-goddess-rain-innocent-among-present-curve-quote |  
 | bip_39_word_new_br_1 | decorate |  
 | bip_39_word_new_br_10 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf |  
 | bip_39_word_new_br_11 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf<br>kitchen |  
@@ -147,6 +159,18 @@ quote |
 | bip_39_word_space_7 | decorate repair goddess rain innocent among present |  
 | bip_39_word_space_8 | decorate repair goddess rain innocent among present curve |  
 | bip_39_word_space_9 | decorate repair goddess rain innocent among present curve quote |  
+| bip_39_word_underscore_1 | decorate |  
+| bip_39_word_underscore_10 | decorate_repair_goddess_rain_innocent_among_present_curve_quote_wolf |  
+| bip_39_word_underscore_11 | decorate_repair_goddess_rain_innocent_among_present_curve_quote_wolf_kitchen |  
+| bip_39_word_underscore_12 | decorate_repair_goddess_rain_innocent_among_present_curve_quote_wolf_kitchen_acoustic |  
+| bip_39_word_underscore_2 | decorate_repair |  
+| bip_39_word_underscore_3 | decorate_repair_goddess |  
+| bip_39_word_underscore_4 | decorate_repair_goddess_rain |  
+| bip_39_word_underscore_5 | decorate_repair_goddess_rain_innocent |  
+| bip_39_word_underscore_6 | decorate_repair_goddess_rain_innocent_among |  
+| bip_39_word_underscore_7 | decorate_repair_goddess_rain_innocent_among_present |  
+| bip_39_word_underscore_8 | decorate_repair_goddess_rain_innocent_among_present_curve |  
+| bip_39_word_underscore_9 | decorate_repair_goddess_rain_innocent_among_present_curve_quote |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | either |  
+| bip_39_word_dash_10 | either-verb-estate-burden-laptop-doctor-safe-stone-release-blossom |  
+| bip_39_word_dash_11 | either-verb-estate-burden-laptop-doctor-safe-stone-release-blossom-receive |  
+| bip_39_word_dash_12 | either-verb-estate-burden-laptop-doctor-safe-stone-release-blossom-receive-among |  
+| bip_39_word_dash_2 | either-verb |  
+| bip_39_word_dash_3 | either-verb-estate |  
+| bip_39_word_dash_4 | either-verb-estate-burden |  
+| bip_39_word_dash_5 | either-verb-estate-burden-laptop |  
+| bip_39_word_dash_6 | either-verb-estate-burden-laptop-doctor |  
+| bip_39_word_dash_7 | either-verb-estate-burden-laptop-doctor-safe |  
+| bip_39_word_dash_8 | either-verb-estate-burden-laptop-doctor-safe-stone |  
+| bip_39_word_dash_9 | either-verb-estate-burden-laptop-doctor-safe-stone-release |  
 | bip_39_word_new_br_1 | either |  
 | bip_39_word_new_br_10 | either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone<br>release<br>blossom |  
 | bip_39_word_new_br_11 | either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone<br>release<br>blossom<br>receive |  
@@ -147,6 +159,18 @@ release |
 | bip_39_word_space_7 | either verb estate burden laptop doctor safe |  
 | bip_39_word_space_8 | either verb estate burden laptop doctor safe stone |  
 | bip_39_word_space_9 | either verb estate burden laptop doctor safe stone release |  
+| bip_39_word_underscore_1 | either |  
+| bip_39_word_underscore_10 | either_verb_estate_burden_laptop_doctor_safe_stone_release_blossom |  
+| bip_39_word_underscore_11 | either_verb_estate_burden_laptop_doctor_safe_stone_release_blossom_receive |  
+| bip_39_word_underscore_12 | either_verb_estate_burden_laptop_doctor_safe_stone_release_blossom_receive_among |  
+| bip_39_word_underscore_2 | either_verb |  
+| bip_39_word_underscore_3 | either_verb_estate |  
+| bip_39_word_underscore_4 | either_verb_estate_burden |  
+| bip_39_word_underscore_5 | either_verb_estate_burden_laptop |  
+| bip_39_word_underscore_6 | either_verb_estate_burden_laptop_doctor |  
+| bip_39_word_underscore_7 | either_verb_estate_burden_laptop_doctor_safe |  
+| bip_39_word_underscore_8 | either_verb_estate_burden_laptop_doctor_safe_stone |  
+| bip_39_word_underscore_9 | either_verb_estate_burden_laptop_doctor_safe_stone_release |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tree |  
+| bip_39_word_dash_10 | tree-icon-cousin-flip-detect-fade-dignity-across-fruit-end |  
+| bip_39_word_dash_11 | tree-icon-cousin-flip-detect-fade-dignity-across-fruit-end-whip |  
+| bip_39_word_dash_12 | tree-icon-cousin-flip-detect-fade-dignity-across-fruit-end-whip-alcohol |  
+| bip_39_word_dash_2 | tree-icon |  
+| bip_39_word_dash_3 | tree-icon-cousin |  
+| bip_39_word_dash_4 | tree-icon-cousin-flip |  
+| bip_39_word_dash_5 | tree-icon-cousin-flip-detect |  
+| bip_39_word_dash_6 | tree-icon-cousin-flip-detect-fade |  
+| bip_39_word_dash_7 | tree-icon-cousin-flip-detect-fade-dignity |  
+| bip_39_word_dash_8 | tree-icon-cousin-flip-detect-fade-dignity-across |  
+| bip_39_word_dash_9 | tree-icon-cousin-flip-detect-fade-dignity-across-fruit |  
 | bip_39_word_new_br_1 | tree |  
 | bip_39_word_new_br_10 | tree<br>icon<br>cousin<br>flip<br>detect<br>fade<br>dignity<br>across<br>fruit<br>end |  
 | bip_39_word_new_br_11 | tree<br>icon<br>cousin<br>flip<br>detect<br>fade<br>dignity<br>across<br>fruit<br>end<br>whip |  
@@ -147,6 +159,18 @@ fruit |
 | bip_39_word_space_7 | tree icon cousin flip detect fade dignity |  
 | bip_39_word_space_8 | tree icon cousin flip detect fade dignity across |  
 | bip_39_word_space_9 | tree icon cousin flip detect fade dignity across fruit |  
+| bip_39_word_underscore_1 | tree |  
+| bip_39_word_underscore_10 | tree_icon_cousin_flip_detect_fade_dignity_across_fruit_end |  
+| bip_39_word_underscore_11 | tree_icon_cousin_flip_detect_fade_dignity_across_fruit_end_whip |  
+| bip_39_word_underscore_12 | tree_icon_cousin_flip_detect_fade_dignity_across_fruit_end_whip_alcohol |  
+| bip_39_word_underscore_2 | tree_icon |  
+| bip_39_word_underscore_3 | tree_icon_cousin |  
+| bip_39_word_underscore_4 | tree_icon_cousin_flip |  
+| bip_39_word_underscore_5 | tree_icon_cousin_flip_detect |  
+| bip_39_word_underscore_6 | tree_icon_cousin_flip_detect_fade |  
+| bip_39_word_underscore_7 | tree_icon_cousin_flip_detect_fade_dignity |  
+| bip_39_word_underscore_8 | tree_icon_cousin_flip_detect_fade_dignity_across |  
+| bip_39_word_underscore_9 | tree_icon_cousin_flip_detect_fade_dignity_across_fruit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

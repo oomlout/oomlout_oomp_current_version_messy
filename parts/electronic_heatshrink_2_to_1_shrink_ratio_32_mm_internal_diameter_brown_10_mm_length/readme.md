@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | test |  
+| bip_39_word_dash_10 | test-now-van-copper-acid-rally-vapor-almost-kiss-brown |  
+| bip_39_word_dash_11 | test-now-van-copper-acid-rally-vapor-almost-kiss-brown-theory |  
+| bip_39_word_dash_12 | test-now-van-copper-acid-rally-vapor-almost-kiss-brown-theory-antique |  
+| bip_39_word_dash_2 | test-now |  
+| bip_39_word_dash_3 | test-now-van |  
+| bip_39_word_dash_4 | test-now-van-copper |  
+| bip_39_word_dash_5 | test-now-van-copper-acid |  
+| bip_39_word_dash_6 | test-now-van-copper-acid-rally |  
+| bip_39_word_dash_7 | test-now-van-copper-acid-rally-vapor |  
+| bip_39_word_dash_8 | test-now-van-copper-acid-rally-vapor-almost |  
+| bip_39_word_dash_9 | test-now-van-copper-acid-rally-vapor-almost-kiss |  
 | bip_39_word_new_br_1 | test |  
 | bip_39_word_new_br_10 | test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost<br>kiss<br>brown |  
 | bip_39_word_new_br_11 | test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost<br>kiss<br>brown<br>theory |  
@@ -147,6 +159,18 @@ kiss |
 | bip_39_word_space_7 | test now van copper acid rally vapor |  
 | bip_39_word_space_8 | test now van copper acid rally vapor almost |  
 | bip_39_word_space_9 | test now van copper acid rally vapor almost kiss |  
+| bip_39_word_underscore_1 | test |  
+| bip_39_word_underscore_10 | test_now_van_copper_acid_rally_vapor_almost_kiss_brown |  
+| bip_39_word_underscore_11 | test_now_van_copper_acid_rally_vapor_almost_kiss_brown_theory |  
+| bip_39_word_underscore_12 | test_now_van_copper_acid_rally_vapor_almost_kiss_brown_theory_antique |  
+| bip_39_word_underscore_2 | test_now |  
+| bip_39_word_underscore_3 | test_now_van |  
+| bip_39_word_underscore_4 | test_now_van_copper |  
+| bip_39_word_underscore_5 | test_now_van_copper_acid |  
+| bip_39_word_underscore_6 | test_now_van_copper_acid_rally |  
+| bip_39_word_underscore_7 | test_now_van_copper_acid_rally_vapor |  
+| bip_39_word_underscore_8 | test_now_van_copper_acid_rally_vapor_almost |  
+| bip_39_word_underscore_9 | test_now_van_copper_acid_rally_vapor_almost_kiss |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | anger |  
+| bip_39_word_dash_10 | anger-firm-ridge-wear-problem-upon-civil-lunch-clinic-early |  
+| bip_39_word_dash_11 | anger-firm-ridge-wear-problem-upon-civil-lunch-clinic-early-garden |  
+| bip_39_word_dash_12 | anger-firm-ridge-wear-problem-upon-civil-lunch-clinic-early-garden-auction |  
+| bip_39_word_dash_2 | anger-firm |  
+| bip_39_word_dash_3 | anger-firm-ridge |  
+| bip_39_word_dash_4 | anger-firm-ridge-wear |  
+| bip_39_word_dash_5 | anger-firm-ridge-wear-problem |  
+| bip_39_word_dash_6 | anger-firm-ridge-wear-problem-upon |  
+| bip_39_word_dash_7 | anger-firm-ridge-wear-problem-upon-civil |  
+| bip_39_word_dash_8 | anger-firm-ridge-wear-problem-upon-civil-lunch |  
+| bip_39_word_dash_9 | anger-firm-ridge-wear-problem-upon-civil-lunch-clinic |  
 | bip_39_word_new_br_1 | anger |  
 | bip_39_word_new_br_10 | anger<br>firm<br>ridge<br>wear<br>problem<br>upon<br>civil<br>lunch<br>clinic<br>early |  
 | bip_39_word_new_br_11 | anger<br>firm<br>ridge<br>wear<br>problem<br>upon<br>civil<br>lunch<br>clinic<br>early<br>garden |  
@@ -147,6 +159,18 @@ clinic |
 | bip_39_word_space_7 | anger firm ridge wear problem upon civil |  
 | bip_39_word_space_8 | anger firm ridge wear problem upon civil lunch |  
 | bip_39_word_space_9 | anger firm ridge wear problem upon civil lunch clinic |  
+| bip_39_word_underscore_1 | anger |  
+| bip_39_word_underscore_10 | anger_firm_ridge_wear_problem_upon_civil_lunch_clinic_early |  
+| bip_39_word_underscore_11 | anger_firm_ridge_wear_problem_upon_civil_lunch_clinic_early_garden |  
+| bip_39_word_underscore_12 | anger_firm_ridge_wear_problem_upon_civil_lunch_clinic_early_garden_auction |  
+| bip_39_word_underscore_2 | anger_firm |  
+| bip_39_word_underscore_3 | anger_firm_ridge |  
+| bip_39_word_underscore_4 | anger_firm_ridge_wear |  
+| bip_39_word_underscore_5 | anger_firm_ridge_wear_problem |  
+| bip_39_word_underscore_6 | anger_firm_ridge_wear_problem_upon |  
+| bip_39_word_underscore_7 | anger_firm_ridge_wear_problem_upon_civil |  
+| bip_39_word_underscore_8 | anger_firm_ridge_wear_problem_upon_civil_lunch |  
+| bip_39_word_underscore_9 | anger_firm_ridge_wear_problem_upon_civil_lunch_clinic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

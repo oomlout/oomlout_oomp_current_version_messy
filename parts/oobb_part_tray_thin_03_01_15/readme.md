@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | circle |  
+| bip_39_word_dash_10 | circle-crouch-gentle-error-sleep-seed-fine-panther-path-scare |  
+| bip_39_word_dash_11 | circle-crouch-gentle-error-sleep-seed-fine-panther-path-scare-kitten |  
+| bip_39_word_dash_12 | circle-crouch-gentle-error-sleep-seed-fine-panther-path-scare-kitten-almost |  
+| bip_39_word_dash_2 | circle-crouch |  
+| bip_39_word_dash_3 | circle-crouch-gentle |  
+| bip_39_word_dash_4 | circle-crouch-gentle-error |  
+| bip_39_word_dash_5 | circle-crouch-gentle-error-sleep |  
+| bip_39_word_dash_6 | circle-crouch-gentle-error-sleep-seed |  
+| bip_39_word_dash_7 | circle-crouch-gentle-error-sleep-seed-fine |  
+| bip_39_word_dash_8 | circle-crouch-gentle-error-sleep-seed-fine-panther |  
+| bip_39_word_dash_9 | circle-crouch-gentle-error-sleep-seed-fine-panther-path |  
 | bip_39_word_new_br_1 | circle |  
 | bip_39_word_new_br_10 | circle<br>crouch<br>gentle<br>error<br>sleep<br>seed<br>fine<br>panther<br>path<br>scare |  
 | bip_39_word_new_br_11 | circle<br>crouch<br>gentle<br>error<br>sleep<br>seed<br>fine<br>panther<br>path<br>scare<br>kitten |  
@@ -147,6 +159,18 @@ path |
 | bip_39_word_space_7 | circle crouch gentle error sleep seed fine |  
 | bip_39_word_space_8 | circle crouch gentle error sleep seed fine panther |  
 | bip_39_word_space_9 | circle crouch gentle error sleep seed fine panther path |  
+| bip_39_word_underscore_1 | circle |  
+| bip_39_word_underscore_10 | circle_crouch_gentle_error_sleep_seed_fine_panther_path_scare |  
+| bip_39_word_underscore_11 | circle_crouch_gentle_error_sleep_seed_fine_panther_path_scare_kitten |  
+| bip_39_word_underscore_12 | circle_crouch_gentle_error_sleep_seed_fine_panther_path_scare_kitten_almost |  
+| bip_39_word_underscore_2 | circle_crouch |  
+| bip_39_word_underscore_3 | circle_crouch_gentle |  
+| bip_39_word_underscore_4 | circle_crouch_gentle_error |  
+| bip_39_word_underscore_5 | circle_crouch_gentle_error_sleep |  
+| bip_39_word_underscore_6 | circle_crouch_gentle_error_sleep_seed |  
+| bip_39_word_underscore_7 | circle_crouch_gentle_error_sleep_seed_fine |  
+| bip_39_word_underscore_8 | circle_crouch_gentle_error_sleep_seed_fine_panther |  
+| bip_39_word_underscore_9 | circle_crouch_gentle_error_sleep_seed_fine_panther_path |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

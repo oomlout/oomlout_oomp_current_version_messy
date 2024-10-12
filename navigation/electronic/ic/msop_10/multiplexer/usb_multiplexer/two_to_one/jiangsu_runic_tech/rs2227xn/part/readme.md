@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | egg |  
+| bip_39_word_dash_10 | egg-dynamic-glow-tobacco-gain-gift-version-offer-steel-amused |  
+| bip_39_word_dash_11 | egg-dynamic-glow-tobacco-gain-gift-version-offer-steel-amused-amount |  
+| bip_39_word_dash_12 | egg-dynamic-glow-tobacco-gain-gift-version-offer-steel-amused-amount-admit |  
+| bip_39_word_dash_2 | egg-dynamic |  
+| bip_39_word_dash_3 | egg-dynamic-glow |  
+| bip_39_word_dash_4 | egg-dynamic-glow-tobacco |  
+| bip_39_word_dash_5 | egg-dynamic-glow-tobacco-gain |  
+| bip_39_word_dash_6 | egg-dynamic-glow-tobacco-gain-gift |  
+| bip_39_word_dash_7 | egg-dynamic-glow-tobacco-gain-gift-version |  
+| bip_39_word_dash_8 | egg-dynamic-glow-tobacco-gain-gift-version-offer |  
+| bip_39_word_dash_9 | egg-dynamic-glow-tobacco-gain-gift-version-offer-steel |  
 | bip_39_word_new_br_1 | egg |  
 | bip_39_word_new_br_10 | egg<br>dynamic<br>glow<br>tobacco<br>gain<br>gift<br>version<br>offer<br>steel<br>amused |  
 | bip_39_word_new_br_11 | egg<br>dynamic<br>glow<br>tobacco<br>gain<br>gift<br>version<br>offer<br>steel<br>amused<br>amount |  
@@ -147,6 +159,18 @@ steel |
 | bip_39_word_space_7 | egg dynamic glow tobacco gain gift version |  
 | bip_39_word_space_8 | egg dynamic glow tobacco gain gift version offer |  
 | bip_39_word_space_9 | egg dynamic glow tobacco gain gift version offer steel |  
+| bip_39_word_underscore_1 | egg |  
+| bip_39_word_underscore_10 | egg_dynamic_glow_tobacco_gain_gift_version_offer_steel_amused |  
+| bip_39_word_underscore_11 | egg_dynamic_glow_tobacco_gain_gift_version_offer_steel_amused_amount |  
+| bip_39_word_underscore_12 | egg_dynamic_glow_tobacco_gain_gift_version_offer_steel_amused_amount_admit |  
+| bip_39_word_underscore_2 | egg_dynamic |  
+| bip_39_word_underscore_3 | egg_dynamic_glow |  
+| bip_39_word_underscore_4 | egg_dynamic_glow_tobacco |  
+| bip_39_word_underscore_5 | egg_dynamic_glow_tobacco_gain |  
+| bip_39_word_underscore_6 | egg_dynamic_glow_tobacco_gain_gift |  
+| bip_39_word_underscore_7 | egg_dynamic_glow_tobacco_gain_gift_version |  
+| bip_39_word_underscore_8 | egg_dynamic_glow_tobacco_gain_gift_version_offer |  
+| bip_39_word_underscore_9 | egg_dynamic_glow_tobacco_gain_gift_version_offer_steel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

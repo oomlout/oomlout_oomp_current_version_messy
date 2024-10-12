@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | odor |  
+| bip_39_word_dash_10 | odor-bottom-cause-orange-system-imitate-cube-settle-wear-social |  
+| bip_39_word_dash_11 | odor-bottom-cause-orange-system-imitate-cube-settle-wear-social-melody |  
+| bip_39_word_dash_12 | odor-bottom-cause-orange-system-imitate-cube-settle-wear-social-melody-air |  
+| bip_39_word_dash_2 | odor-bottom |  
+| bip_39_word_dash_3 | odor-bottom-cause |  
+| bip_39_word_dash_4 | odor-bottom-cause-orange |  
+| bip_39_word_dash_5 | odor-bottom-cause-orange-system |  
+| bip_39_word_dash_6 | odor-bottom-cause-orange-system-imitate |  
+| bip_39_word_dash_7 | odor-bottom-cause-orange-system-imitate-cube |  
+| bip_39_word_dash_8 | odor-bottom-cause-orange-system-imitate-cube-settle |  
+| bip_39_word_dash_9 | odor-bottom-cause-orange-system-imitate-cube-settle-wear |  
 | bip_39_word_new_br_1 | odor |  
 | bip_39_word_new_br_10 | odor<br>bottom<br>cause<br>orange<br>system<br>imitate<br>cube<br>settle<br>wear<br>social |  
 | bip_39_word_new_br_11 | odor<br>bottom<br>cause<br>orange<br>system<br>imitate<br>cube<br>settle<br>wear<br>social<br>melody |  
@@ -147,6 +159,18 @@ wear |
 | bip_39_word_space_7 | odor bottom cause orange system imitate cube |  
 | bip_39_word_space_8 | odor bottom cause orange system imitate cube settle |  
 | bip_39_word_space_9 | odor bottom cause orange system imitate cube settle wear |  
+| bip_39_word_underscore_1 | odor |  
+| bip_39_word_underscore_10 | odor_bottom_cause_orange_system_imitate_cube_settle_wear_social |  
+| bip_39_word_underscore_11 | odor_bottom_cause_orange_system_imitate_cube_settle_wear_social_melody |  
+| bip_39_word_underscore_12 | odor_bottom_cause_orange_system_imitate_cube_settle_wear_social_melody_air |  
+| bip_39_word_underscore_2 | odor_bottom |  
+| bip_39_word_underscore_3 | odor_bottom_cause |  
+| bip_39_word_underscore_4 | odor_bottom_cause_orange |  
+| bip_39_word_underscore_5 | odor_bottom_cause_orange_system |  
+| bip_39_word_underscore_6 | odor_bottom_cause_orange_system_imitate |  
+| bip_39_word_underscore_7 | odor_bottom_cause_orange_system_imitate_cube |  
+| bip_39_word_underscore_8 | odor_bottom_cause_orange_system_imitate_cube_settle |  
+| bip_39_word_underscore_9 | odor_bottom_cause_orange_system_imitate_cube_settle_wear |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

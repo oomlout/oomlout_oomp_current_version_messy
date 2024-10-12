@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rally
+bip_39_word_dash_10: rally-pave-absent-adjust-alpha-vapor-skirt-fox-turn-cargo
+bip_39_word_dash_11: rally-pave-absent-adjust-alpha-vapor-skirt-fox-turn-cargo-sight
+bip_39_word_dash_12: rally-pave-absent-adjust-alpha-vapor-skirt-fox-turn-cargo-sight-amateur
+bip_39_word_dash_2: rally-pave
+bip_39_word_dash_3: rally-pave-absent
+bip_39_word_dash_4: rally-pave-absent-adjust
+bip_39_word_dash_5: rally-pave-absent-adjust-alpha
+bip_39_word_dash_6: rally-pave-absent-adjust-alpha-vapor
+bip_39_word_dash_7: rally-pave-absent-adjust-alpha-vapor-skirt
+bip_39_word_dash_8: rally-pave-absent-adjust-alpha-vapor-skirt-fox
+bip_39_word_dash_9: rally-pave-absent-adjust-alpha-vapor-skirt-fox-turn
 bip_39_word_new_br_1: rally
 bip_39_word_new_br_10: rally<br>pave<br>absent<br>adjust<br>alpha<br>vapor<br>skirt<br>fox<br>turn<br>cargo
 bip_39_word_new_br_11: rally<br>pave<br>absent<br>adjust<br>alpha<br>vapor<br>skirt<br>fox<br>turn<br>cargo<br>sight
@@ -192,6 +204,18 @@ bip_39_word_space_6: rally pave absent adjust alpha vapor
 bip_39_word_space_7: rally pave absent adjust alpha vapor skirt
 bip_39_word_space_8: rally pave absent adjust alpha vapor skirt fox
 bip_39_word_space_9: rally pave absent adjust alpha vapor skirt fox turn
+bip_39_word_underscore_1: rally
+bip_39_word_underscore_10: rally_pave_absent_adjust_alpha_vapor_skirt_fox_turn_cargo
+bip_39_word_underscore_11: rally_pave_absent_adjust_alpha_vapor_skirt_fox_turn_cargo_sight
+bip_39_word_underscore_12: rally_pave_absent_adjust_alpha_vapor_skirt_fox_turn_cargo_sight_amateur
+bip_39_word_underscore_2: rally_pave
+bip_39_word_underscore_3: rally_pave_absent
+bip_39_word_underscore_4: rally_pave_absent_adjust
+bip_39_word_underscore_5: rally_pave_absent_adjust_alpha
+bip_39_word_underscore_6: rally_pave_absent_adjust_alpha_vapor
+bip_39_word_underscore_7: rally_pave_absent_adjust_alpha_vapor_skirt
+bip_39_word_underscore_8: rally_pave_absent_adjust_alpha_vapor_skirt_fox
+bip_39_word_underscore_9: rally_pave_absent_adjust_alpha_vapor_skirt_fox_turn
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

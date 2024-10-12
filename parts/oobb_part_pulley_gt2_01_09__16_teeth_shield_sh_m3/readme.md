@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pistol |  
+| bip_39_word_dash_10 | pistol-crop-episode-offer-thrive-piano-library-drink-corn-file |  
+| bip_39_word_dash_11 | pistol-crop-episode-offer-thrive-piano-library-drink-corn-file-cruel |  
+| bip_39_word_dash_12 | pistol-crop-episode-offer-thrive-piano-library-drink-corn-file-cruel-apple |  
+| bip_39_word_dash_2 | pistol-crop |  
+| bip_39_word_dash_3 | pistol-crop-episode |  
+| bip_39_word_dash_4 | pistol-crop-episode-offer |  
+| bip_39_word_dash_5 | pistol-crop-episode-offer-thrive |  
+| bip_39_word_dash_6 | pistol-crop-episode-offer-thrive-piano |  
+| bip_39_word_dash_7 | pistol-crop-episode-offer-thrive-piano-library |  
+| bip_39_word_dash_8 | pistol-crop-episode-offer-thrive-piano-library-drink |  
+| bip_39_word_dash_9 | pistol-crop-episode-offer-thrive-piano-library-drink-corn |  
 | bip_39_word_new_br_1 | pistol |  
 | bip_39_word_new_br_10 | pistol<br>crop<br>episode<br>offer<br>thrive<br>piano<br>library<br>drink<br>corn<br>file |  
 | bip_39_word_new_br_11 | pistol<br>crop<br>episode<br>offer<br>thrive<br>piano<br>library<br>drink<br>corn<br>file<br>cruel |  
@@ -147,6 +159,18 @@ corn |
 | bip_39_word_space_7 | pistol crop episode offer thrive piano library |  
 | bip_39_word_space_8 | pistol crop episode offer thrive piano library drink |  
 | bip_39_word_space_9 | pistol crop episode offer thrive piano library drink corn |  
+| bip_39_word_underscore_1 | pistol |  
+| bip_39_word_underscore_10 | pistol_crop_episode_offer_thrive_piano_library_drink_corn_file |  
+| bip_39_word_underscore_11 | pistol_crop_episode_offer_thrive_piano_library_drink_corn_file_cruel |  
+| bip_39_word_underscore_12 | pistol_crop_episode_offer_thrive_piano_library_drink_corn_file_cruel_apple |  
+| bip_39_word_underscore_2 | pistol_crop |  
+| bip_39_word_underscore_3 | pistol_crop_episode |  
+| bip_39_word_underscore_4 | pistol_crop_episode_offer |  
+| bip_39_word_underscore_5 | pistol_crop_episode_offer_thrive |  
+| bip_39_word_underscore_6 | pistol_crop_episode_offer_thrive_piano |  
+| bip_39_word_underscore_7 | pistol_crop_episode_offer_thrive_piano_library |  
+| bip_39_word_underscore_8 | pistol_crop_episode_offer_thrive_piano_library_drink |  
+| bip_39_word_underscore_9 | pistol_crop_episode_offer_thrive_piano_library_drink_corn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

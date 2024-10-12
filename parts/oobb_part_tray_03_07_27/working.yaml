@@ -1,3 +1,15 @@
+bip_39_word_dash_1: turkey
+bip_39_word_dash_10: turkey-firm-image-odor-soda-sing-apology-exist-simple-elephant
+bip_39_word_dash_11: turkey-firm-image-odor-soda-sing-apology-exist-simple-elephant-pilot
+bip_39_word_dash_12: turkey-firm-image-odor-soda-sing-apology-exist-simple-elephant-pilot-art
+bip_39_word_dash_2: turkey-firm
+bip_39_word_dash_3: turkey-firm-image
+bip_39_word_dash_4: turkey-firm-image-odor
+bip_39_word_dash_5: turkey-firm-image-odor-soda
+bip_39_word_dash_6: turkey-firm-image-odor-soda-sing
+bip_39_word_dash_7: turkey-firm-image-odor-soda-sing-apology
+bip_39_word_dash_8: turkey-firm-image-odor-soda-sing-apology-exist
+bip_39_word_dash_9: turkey-firm-image-odor-soda-sing-apology-exist-simple
 bip_39_word_new_br_1: turkey
 bip_39_word_new_br_10: turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist<br>simple<br>elephant
 bip_39_word_new_br_11: turkey<br>firm<br>image<br>odor<br>soda<br>sing<br>apology<br>exist<br>simple<br>elephant<br>pilot
@@ -193,6 +205,18 @@ bip_39_word_space_6: turkey firm image odor soda sing
 bip_39_word_space_7: turkey firm image odor soda sing apology
 bip_39_word_space_8: turkey firm image odor soda sing apology exist
 bip_39_word_space_9: turkey firm image odor soda sing apology exist simple
+bip_39_word_underscore_1: turkey
+bip_39_word_underscore_10: turkey_firm_image_odor_soda_sing_apology_exist_simple_elephant
+bip_39_word_underscore_11: turkey_firm_image_odor_soda_sing_apology_exist_simple_elephant_pilot
+bip_39_word_underscore_12: turkey_firm_image_odor_soda_sing_apology_exist_simple_elephant_pilot_art
+bip_39_word_underscore_2: turkey_firm
+bip_39_word_underscore_3: turkey_firm_image
+bip_39_word_underscore_4: turkey_firm_image_odor
+bip_39_word_underscore_5: turkey_firm_image_odor_soda
+bip_39_word_underscore_6: turkey_firm_image_odor_soda_sing
+bip_39_word_underscore_7: turkey_firm_image_odor_soda_sing_apology
+bip_39_word_underscore_8: turkey_firm_image_odor_soda_sing_apology_exist
+bip_39_word_underscore_9: turkey_firm_image_odor_soda_sing_apology_exist_simple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

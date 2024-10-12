@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enroll |  
+| bip_39_word_dash_10 | enroll-come-energy-peace-ramp-tortoise-acquire-today-steak-snake |  
+| bip_39_word_dash_11 | enroll-come-energy-peace-ramp-tortoise-acquire-today-steak-snake-world |  
+| bip_39_word_dash_12 | enroll-come-energy-peace-ramp-tortoise-acquire-today-steak-snake-world-answer |  
+| bip_39_word_dash_2 | enroll-come |  
+| bip_39_word_dash_3 | enroll-come-energy |  
+| bip_39_word_dash_4 | enroll-come-energy-peace |  
+| bip_39_word_dash_5 | enroll-come-energy-peace-ramp |  
+| bip_39_word_dash_6 | enroll-come-energy-peace-ramp-tortoise |  
+| bip_39_word_dash_7 | enroll-come-energy-peace-ramp-tortoise-acquire |  
+| bip_39_word_dash_8 | enroll-come-energy-peace-ramp-tortoise-acquire-today |  
+| bip_39_word_dash_9 | enroll-come-energy-peace-ramp-tortoise-acquire-today-steak |  
 | bip_39_word_new_br_1 | enroll |  
 | bip_39_word_new_br_10 | enroll<br>come<br>energy<br>peace<br>ramp<br>tortoise<br>acquire<br>today<br>steak<br>snake |  
 | bip_39_word_new_br_11 | enroll<br>come<br>energy<br>peace<br>ramp<br>tortoise<br>acquire<br>today<br>steak<br>snake<br>world |  
@@ -147,6 +159,18 @@ steak |
 | bip_39_word_space_7 | enroll come energy peace ramp tortoise acquire |  
 | bip_39_word_space_8 | enroll come energy peace ramp tortoise acquire today |  
 | bip_39_word_space_9 | enroll come energy peace ramp tortoise acquire today steak |  
+| bip_39_word_underscore_1 | enroll |  
+| bip_39_word_underscore_10 | enroll_come_energy_peace_ramp_tortoise_acquire_today_steak_snake |  
+| bip_39_word_underscore_11 | enroll_come_energy_peace_ramp_tortoise_acquire_today_steak_snake_world |  
+| bip_39_word_underscore_12 | enroll_come_energy_peace_ramp_tortoise_acquire_today_steak_snake_world_answer |  
+| bip_39_word_underscore_2 | enroll_come |  
+| bip_39_word_underscore_3 | enroll_come_energy |  
+| bip_39_word_underscore_4 | enroll_come_energy_peace |  
+| bip_39_word_underscore_5 | enroll_come_energy_peace_ramp |  
+| bip_39_word_underscore_6 | enroll_come_energy_peace_ramp_tortoise |  
+| bip_39_word_underscore_7 | enroll_come_energy_peace_ramp_tortoise_acquire |  
+| bip_39_word_underscore_8 | enroll_come_energy_peace_ramp_tortoise_acquire_today |  
+| bip_39_word_underscore_9 | enroll_come_energy_peace_ramp_tortoise_acquire_today_steak |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

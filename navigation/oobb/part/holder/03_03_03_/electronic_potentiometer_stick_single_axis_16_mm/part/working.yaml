@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ask
+bip_39_word_dash_10: ask-this-satisfy-flag-base-nurse-crater-physical-long-beyond
+bip_39_word_dash_11: ask-this-satisfy-flag-base-nurse-crater-physical-long-beyond-feed
+bip_39_word_dash_12: ask-this-satisfy-flag-base-nurse-crater-physical-long-beyond-feed-act
+bip_39_word_dash_2: ask-this
+bip_39_word_dash_3: ask-this-satisfy
+bip_39_word_dash_4: ask-this-satisfy-flag
+bip_39_word_dash_5: ask-this-satisfy-flag-base
+bip_39_word_dash_6: ask-this-satisfy-flag-base-nurse
+bip_39_word_dash_7: ask-this-satisfy-flag-base-nurse-crater
+bip_39_word_dash_8: ask-this-satisfy-flag-base-nurse-crater-physical
+bip_39_word_dash_9: ask-this-satisfy-flag-base-nurse-crater-physical-long
 bip_39_word_new_br_1: ask
 bip_39_word_new_br_10: ask<br>this<br>satisfy<br>flag<br>base<br>nurse<br>crater<br>physical<br>long<br>beyond
 bip_39_word_new_br_11: ask<br>this<br>satisfy<br>flag<br>base<br>nurse<br>crater<br>physical<br>long<br>beyond<br>feed
@@ -193,6 +205,18 @@ bip_39_word_space_6: ask this satisfy flag base nurse
 bip_39_word_space_7: ask this satisfy flag base nurse crater
 bip_39_word_space_8: ask this satisfy flag base nurse crater physical
 bip_39_word_space_9: ask this satisfy flag base nurse crater physical long
+bip_39_word_underscore_1: ask
+bip_39_word_underscore_10: ask_this_satisfy_flag_base_nurse_crater_physical_long_beyond
+bip_39_word_underscore_11: ask_this_satisfy_flag_base_nurse_crater_physical_long_beyond_feed
+bip_39_word_underscore_12: ask_this_satisfy_flag_base_nurse_crater_physical_long_beyond_feed_act
+bip_39_word_underscore_2: ask_this
+bip_39_word_underscore_3: ask_this_satisfy
+bip_39_word_underscore_4: ask_this_satisfy_flag
+bip_39_word_underscore_5: ask_this_satisfy_flag_base
+bip_39_word_underscore_6: ask_this_satisfy_flag_base_nurse
+bip_39_word_underscore_7: ask_this_satisfy_flag_base_nurse_crater
+bip_39_word_underscore_8: ask_this_satisfy_flag_base_nurse_crater_physical
+bip_39_word_underscore_9: ask_this_satisfy_flag_base_nurse_crater_physical_long
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

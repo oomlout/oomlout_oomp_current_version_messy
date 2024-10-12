@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dinosaur |  
+| bip_39_word_dash_10 | dinosaur-engine-auction-hazard-wall-myth-unknown-approve-world-arrow |  
+| bip_39_word_dash_11 | dinosaur-engine-auction-hazard-wall-myth-unknown-approve-world-arrow-sand |  
+| bip_39_word_dash_12 | dinosaur-engine-auction-hazard-wall-myth-unknown-approve-world-arrow-sand-april |  
+| bip_39_word_dash_2 | dinosaur-engine |  
+| bip_39_word_dash_3 | dinosaur-engine-auction |  
+| bip_39_word_dash_4 | dinosaur-engine-auction-hazard |  
+| bip_39_word_dash_5 | dinosaur-engine-auction-hazard-wall |  
+| bip_39_word_dash_6 | dinosaur-engine-auction-hazard-wall-myth |  
+| bip_39_word_dash_7 | dinosaur-engine-auction-hazard-wall-myth-unknown |  
+| bip_39_word_dash_8 | dinosaur-engine-auction-hazard-wall-myth-unknown-approve |  
+| bip_39_word_dash_9 | dinosaur-engine-auction-hazard-wall-myth-unknown-approve-world |  
 | bip_39_word_new_br_1 | dinosaur |  
 | bip_39_word_new_br_10 | dinosaur<br>engine<br>auction<br>hazard<br>wall<br>myth<br>unknown<br>approve<br>world<br>arrow |  
 | bip_39_word_new_br_11 | dinosaur<br>engine<br>auction<br>hazard<br>wall<br>myth<br>unknown<br>approve<br>world<br>arrow<br>sand |  
@@ -147,6 +159,18 @@ world |
 | bip_39_word_space_7 | dinosaur engine auction hazard wall myth unknown |  
 | bip_39_word_space_8 | dinosaur engine auction hazard wall myth unknown approve |  
 | bip_39_word_space_9 | dinosaur engine auction hazard wall myth unknown approve world |  
+| bip_39_word_underscore_1 | dinosaur |  
+| bip_39_word_underscore_10 | dinosaur_engine_auction_hazard_wall_myth_unknown_approve_world_arrow |  
+| bip_39_word_underscore_11 | dinosaur_engine_auction_hazard_wall_myth_unknown_approve_world_arrow_sand |  
+| bip_39_word_underscore_12 | dinosaur_engine_auction_hazard_wall_myth_unknown_approve_world_arrow_sand_april |  
+| bip_39_word_underscore_2 | dinosaur_engine |  
+| bip_39_word_underscore_3 | dinosaur_engine_auction |  
+| bip_39_word_underscore_4 | dinosaur_engine_auction_hazard |  
+| bip_39_word_underscore_5 | dinosaur_engine_auction_hazard_wall |  
+| bip_39_word_underscore_6 | dinosaur_engine_auction_hazard_wall_myth |  
+| bip_39_word_underscore_7 | dinosaur_engine_auction_hazard_wall_myth_unknown |  
+| bip_39_word_underscore_8 | dinosaur_engine_auction_hazard_wall_myth_unknown_approve |  
+| bip_39_word_underscore_9 | dinosaur_engine_auction_hazard_wall_myth_unknown_approve_world |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | time |  
+| bip_39_word_dash_10 | time-protect-area-lounge-march-usual-gloom-decorate-where-expire |  
+| bip_39_word_dash_11 | time-protect-area-lounge-march-usual-gloom-decorate-where-expire-guard |  
+| bip_39_word_dash_12 | time-protect-area-lounge-march-usual-gloom-decorate-where-expire-guard-around |  
+| bip_39_word_dash_2 | time-protect |  
+| bip_39_word_dash_3 | time-protect-area |  
+| bip_39_word_dash_4 | time-protect-area-lounge |  
+| bip_39_word_dash_5 | time-protect-area-lounge-march |  
+| bip_39_word_dash_6 | time-protect-area-lounge-march-usual |  
+| bip_39_word_dash_7 | time-protect-area-lounge-march-usual-gloom |  
+| bip_39_word_dash_8 | time-protect-area-lounge-march-usual-gloom-decorate |  
+| bip_39_word_dash_9 | time-protect-area-lounge-march-usual-gloom-decorate-where |  
 | bip_39_word_new_br_1 | time |  
 | bip_39_word_new_br_10 | time<br>protect<br>area<br>lounge<br>march<br>usual<br>gloom<br>decorate<br>where<br>expire |  
 | bip_39_word_new_br_11 | time<br>protect<br>area<br>lounge<br>march<br>usual<br>gloom<br>decorate<br>where<br>expire<br>guard |  
@@ -147,6 +159,18 @@ where |
 | bip_39_word_space_7 | time protect area lounge march usual gloom |  
 | bip_39_word_space_8 | time protect area lounge march usual gloom decorate |  
 | bip_39_word_space_9 | time protect area lounge march usual gloom decorate where |  
+| bip_39_word_underscore_1 | time |  
+| bip_39_word_underscore_10 | time_protect_area_lounge_march_usual_gloom_decorate_where_expire |  
+| bip_39_word_underscore_11 | time_protect_area_lounge_march_usual_gloom_decorate_where_expire_guard |  
+| bip_39_word_underscore_12 | time_protect_area_lounge_march_usual_gloom_decorate_where_expire_guard_around |  
+| bip_39_word_underscore_2 | time_protect |  
+| bip_39_word_underscore_3 | time_protect_area |  
+| bip_39_word_underscore_4 | time_protect_area_lounge |  
+| bip_39_word_underscore_5 | time_protect_area_lounge_march |  
+| bip_39_word_underscore_6 | time_protect_area_lounge_march_usual |  
+| bip_39_word_underscore_7 | time_protect_area_lounge_march_usual_gloom |  
+| bip_39_word_underscore_8 | time_protect_area_lounge_march_usual_gloom_decorate |  
+| bip_39_word_underscore_9 | time_protect_area_lounge_march_usual_gloom_decorate_where |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

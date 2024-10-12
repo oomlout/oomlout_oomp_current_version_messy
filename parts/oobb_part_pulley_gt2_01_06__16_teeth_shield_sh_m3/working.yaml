@@ -1,3 +1,15 @@
+bip_39_word_dash_1: puppy
+bip_39_word_dash_10: puppy-random-expect-hollow-soul-garlic-stem-dice-harvest-include
+bip_39_word_dash_11: puppy-random-expect-hollow-soul-garlic-stem-dice-harvest-include-wrong
+bip_39_word_dash_12: puppy-random-expect-hollow-soul-garlic-stem-dice-harvest-include-wrong-absurd
+bip_39_word_dash_2: puppy-random
+bip_39_word_dash_3: puppy-random-expect
+bip_39_word_dash_4: puppy-random-expect-hollow
+bip_39_word_dash_5: puppy-random-expect-hollow-soul
+bip_39_word_dash_6: puppy-random-expect-hollow-soul-garlic
+bip_39_word_dash_7: puppy-random-expect-hollow-soul-garlic-stem
+bip_39_word_dash_8: puppy-random-expect-hollow-soul-garlic-stem-dice
+bip_39_word_dash_9: puppy-random-expect-hollow-soul-garlic-stem-dice-harvest
 bip_39_word_new_br_1: puppy
 bip_39_word_new_br_10: puppy<br>random<br>expect<br>hollow<br>soul<br>garlic<br>stem<br>dice<br>harvest<br>include
 bip_39_word_new_br_11: puppy<br>random<br>expect<br>hollow<br>soul<br>garlic<br>stem<br>dice<br>harvest<br>include<br>wrong
@@ -193,6 +205,18 @@ bip_39_word_space_6: puppy random expect hollow soul garlic
 bip_39_word_space_7: puppy random expect hollow soul garlic stem
 bip_39_word_space_8: puppy random expect hollow soul garlic stem dice
 bip_39_word_space_9: puppy random expect hollow soul garlic stem dice harvest
+bip_39_word_underscore_1: puppy
+bip_39_word_underscore_10: puppy_random_expect_hollow_soul_garlic_stem_dice_harvest_include
+bip_39_word_underscore_11: puppy_random_expect_hollow_soul_garlic_stem_dice_harvest_include_wrong
+bip_39_word_underscore_12: puppy_random_expect_hollow_soul_garlic_stem_dice_harvest_include_wrong_absurd
+bip_39_word_underscore_2: puppy_random
+bip_39_word_underscore_3: puppy_random_expect
+bip_39_word_underscore_4: puppy_random_expect_hollow
+bip_39_word_underscore_5: puppy_random_expect_hollow_soul
+bip_39_word_underscore_6: puppy_random_expect_hollow_soul_garlic
+bip_39_word_underscore_7: puppy_random_expect_hollow_soul_garlic_stem
+bip_39_word_underscore_8: puppy_random_expect_hollow_soul_garlic_stem_dice
+bip_39_word_underscore_9: puppy_random_expect_hollow_soul_garlic_stem_dice_harvest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

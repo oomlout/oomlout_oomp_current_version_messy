@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | review |  
+| bip_39_word_dash_10 | review-snap-canyon-pluck-pear-basket-auto-excuse-fantasy-wagon |  
+| bip_39_word_dash_11 | review-snap-canyon-pluck-pear-basket-auto-excuse-fantasy-wagon-talk |  
+| bip_39_word_dash_12 | review-snap-canyon-pluck-pear-basket-auto-excuse-fantasy-wagon-talk-addict |  
+| bip_39_word_dash_2 | review-snap |  
+| bip_39_word_dash_3 | review-snap-canyon |  
+| bip_39_word_dash_4 | review-snap-canyon-pluck |  
+| bip_39_word_dash_5 | review-snap-canyon-pluck-pear |  
+| bip_39_word_dash_6 | review-snap-canyon-pluck-pear-basket |  
+| bip_39_word_dash_7 | review-snap-canyon-pluck-pear-basket-auto |  
+| bip_39_word_dash_8 | review-snap-canyon-pluck-pear-basket-auto-excuse |  
+| bip_39_word_dash_9 | review-snap-canyon-pluck-pear-basket-auto-excuse-fantasy |  
 | bip_39_word_new_br_1 | review |  
 | bip_39_word_new_br_10 | review<br>snap<br>canyon<br>pluck<br>pear<br>basket<br>auto<br>excuse<br>fantasy<br>wagon |  
 | bip_39_word_new_br_11 | review<br>snap<br>canyon<br>pluck<br>pear<br>basket<br>auto<br>excuse<br>fantasy<br>wagon<br>talk |  
@@ -147,6 +159,18 @@ fantasy |
 | bip_39_word_space_7 | review snap canyon pluck pear basket auto |  
 | bip_39_word_space_8 | review snap canyon pluck pear basket auto excuse |  
 | bip_39_word_space_9 | review snap canyon pluck pear basket auto excuse fantasy |  
+| bip_39_word_underscore_1 | review |  
+| bip_39_word_underscore_10 | review_snap_canyon_pluck_pear_basket_auto_excuse_fantasy_wagon |  
+| bip_39_word_underscore_11 | review_snap_canyon_pluck_pear_basket_auto_excuse_fantasy_wagon_talk |  
+| bip_39_word_underscore_12 | review_snap_canyon_pluck_pear_basket_auto_excuse_fantasy_wagon_talk_addict |  
+| bip_39_word_underscore_2 | review_snap |  
+| bip_39_word_underscore_3 | review_snap_canyon |  
+| bip_39_word_underscore_4 | review_snap_canyon_pluck |  
+| bip_39_word_underscore_5 | review_snap_canyon_pluck_pear |  
+| bip_39_word_underscore_6 | review_snap_canyon_pluck_pear_basket |  
+| bip_39_word_underscore_7 | review_snap_canyon_pluck_pear_basket_auto |  
+| bip_39_word_underscore_8 | review_snap_canyon_pluck_pear_basket_auto_excuse |  
+| bip_39_word_underscore_9 | review_snap_canyon_pluck_pear_basket_auto_excuse_fantasy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

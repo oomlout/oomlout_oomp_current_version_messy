@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | govern |  
+| bip_39_word_dash_10 | govern-lecture-orbit-shock-come-wonder-sentence-expect-loop-napkin |  
+| bip_39_word_dash_11 | govern-lecture-orbit-shock-come-wonder-sentence-expect-loop-napkin-local |  
+| bip_39_word_dash_12 | govern-lecture-orbit-shock-come-wonder-sentence-expect-loop-napkin-local-adjust |  
+| bip_39_word_dash_2 | govern-lecture |  
+| bip_39_word_dash_3 | govern-lecture-orbit |  
+| bip_39_word_dash_4 | govern-lecture-orbit-shock |  
+| bip_39_word_dash_5 | govern-lecture-orbit-shock-come |  
+| bip_39_word_dash_6 | govern-lecture-orbit-shock-come-wonder |  
+| bip_39_word_dash_7 | govern-lecture-orbit-shock-come-wonder-sentence |  
+| bip_39_word_dash_8 | govern-lecture-orbit-shock-come-wonder-sentence-expect |  
+| bip_39_word_dash_9 | govern-lecture-orbit-shock-come-wonder-sentence-expect-loop |  
 | bip_39_word_new_br_1 | govern |  
 | bip_39_word_new_br_10 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin |  
 | bip_39_word_new_br_11 | govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin<br>local |  
@@ -147,6 +159,18 @@ loop |
 | bip_39_word_space_7 | govern lecture orbit shock come wonder sentence |  
 | bip_39_word_space_8 | govern lecture orbit shock come wonder sentence expect |  
 | bip_39_word_space_9 | govern lecture orbit shock come wonder sentence expect loop |  
+| bip_39_word_underscore_1 | govern |  
+| bip_39_word_underscore_10 | govern_lecture_orbit_shock_come_wonder_sentence_expect_loop_napkin |  
+| bip_39_word_underscore_11 | govern_lecture_orbit_shock_come_wonder_sentence_expect_loop_napkin_local |  
+| bip_39_word_underscore_12 | govern_lecture_orbit_shock_come_wonder_sentence_expect_loop_napkin_local_adjust |  
+| bip_39_word_underscore_2 | govern_lecture |  
+| bip_39_word_underscore_3 | govern_lecture_orbit |  
+| bip_39_word_underscore_4 | govern_lecture_orbit_shock |  
+| bip_39_word_underscore_5 | govern_lecture_orbit_shock_come |  
+| bip_39_word_underscore_6 | govern_lecture_orbit_shock_come_wonder |  
+| bip_39_word_underscore_7 | govern_lecture_orbit_shock_come_wonder_sentence |  
+| bip_39_word_underscore_8 | govern_lecture_orbit_shock_come_wonder_sentence_expect |  
+| bip_39_word_underscore_9 | govern_lecture_orbit_shock_come_wonder_sentence_expect_loop |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

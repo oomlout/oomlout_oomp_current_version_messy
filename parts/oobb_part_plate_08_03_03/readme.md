@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | paddle |  
+| bip_39_word_dash_10 | paddle-verb-educate-minor-kit-already-mom-health-shoulder-outdoor |  
+| bip_39_word_dash_11 | paddle-verb-educate-minor-kit-already-mom-health-shoulder-outdoor-deer |  
+| bip_39_word_dash_12 | paddle-verb-educate-minor-kit-already-mom-health-shoulder-outdoor-deer-achieve |  
+| bip_39_word_dash_2 | paddle-verb |  
+| bip_39_word_dash_3 | paddle-verb-educate |  
+| bip_39_word_dash_4 | paddle-verb-educate-minor |  
+| bip_39_word_dash_5 | paddle-verb-educate-minor-kit |  
+| bip_39_word_dash_6 | paddle-verb-educate-minor-kit-already |  
+| bip_39_word_dash_7 | paddle-verb-educate-minor-kit-already-mom |  
+| bip_39_word_dash_8 | paddle-verb-educate-minor-kit-already-mom-health |  
+| bip_39_word_dash_9 | paddle-verb-educate-minor-kit-already-mom-health-shoulder |  
 | bip_39_word_new_br_1 | paddle |  
 | bip_39_word_new_br_10 | paddle<br>verb<br>educate<br>minor<br>kit<br>already<br>mom<br>health<br>shoulder<br>outdoor |  
 | bip_39_word_new_br_11 | paddle<br>verb<br>educate<br>minor<br>kit<br>already<br>mom<br>health<br>shoulder<br>outdoor<br>deer |  
@@ -147,6 +159,18 @@ shoulder |
 | bip_39_word_space_7 | paddle verb educate minor kit already mom |  
 | bip_39_word_space_8 | paddle verb educate minor kit already mom health |  
 | bip_39_word_space_9 | paddle verb educate minor kit already mom health shoulder |  
+| bip_39_word_underscore_1 | paddle |  
+| bip_39_word_underscore_10 | paddle_verb_educate_minor_kit_already_mom_health_shoulder_outdoor |  
+| bip_39_word_underscore_11 | paddle_verb_educate_minor_kit_already_mom_health_shoulder_outdoor_deer |  
+| bip_39_word_underscore_12 | paddle_verb_educate_minor_kit_already_mom_health_shoulder_outdoor_deer_achieve |  
+| bip_39_word_underscore_2 | paddle_verb |  
+| bip_39_word_underscore_3 | paddle_verb_educate |  
+| bip_39_word_underscore_4 | paddle_verb_educate_minor |  
+| bip_39_word_underscore_5 | paddle_verb_educate_minor_kit |  
+| bip_39_word_underscore_6 | paddle_verb_educate_minor_kit_already |  
+| bip_39_word_underscore_7 | paddle_verb_educate_minor_kit_already_mom |  
+| bip_39_word_underscore_8 | paddle_verb_educate_minor_kit_already_mom_health |  
+| bip_39_word_underscore_9 | paddle_verb_educate_minor_kit_already_mom_health_shoulder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

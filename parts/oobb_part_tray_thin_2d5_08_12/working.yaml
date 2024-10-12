@@ -1,3 +1,15 @@
+bip_39_word_dash_1: giraffe
+bip_39_word_dash_10: giraffe-palace-very-bird-shuffle-ketchup-tiger-fatigue-obey-march
+bip_39_word_dash_11: giraffe-palace-very-bird-shuffle-ketchup-tiger-fatigue-obey-march-flower
+bip_39_word_dash_12: giraffe-palace-very-bird-shuffle-ketchup-tiger-fatigue-obey-march-flower-advance
+bip_39_word_dash_2: giraffe-palace
+bip_39_word_dash_3: giraffe-palace-very
+bip_39_word_dash_4: giraffe-palace-very-bird
+bip_39_word_dash_5: giraffe-palace-very-bird-shuffle
+bip_39_word_dash_6: giraffe-palace-very-bird-shuffle-ketchup
+bip_39_word_dash_7: giraffe-palace-very-bird-shuffle-ketchup-tiger
+bip_39_word_dash_8: giraffe-palace-very-bird-shuffle-ketchup-tiger-fatigue
+bip_39_word_dash_9: giraffe-palace-very-bird-shuffle-ketchup-tiger-fatigue-obey
 bip_39_word_new_br_1: giraffe
 bip_39_word_new_br_10: giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march
 bip_39_word_new_br_11: giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march<br>flower
@@ -194,6 +206,18 @@ bip_39_word_space_6: giraffe palace very bird shuffle ketchup
 bip_39_word_space_7: giraffe palace very bird shuffle ketchup tiger
 bip_39_word_space_8: giraffe palace very bird shuffle ketchup tiger fatigue
 bip_39_word_space_9: giraffe palace very bird shuffle ketchup tiger fatigue obey
+bip_39_word_underscore_1: giraffe
+bip_39_word_underscore_10: giraffe_palace_very_bird_shuffle_ketchup_tiger_fatigue_obey_march
+bip_39_word_underscore_11: giraffe_palace_very_bird_shuffle_ketchup_tiger_fatigue_obey_march_flower
+bip_39_word_underscore_12: giraffe_palace_very_bird_shuffle_ketchup_tiger_fatigue_obey_march_flower_advance
+bip_39_word_underscore_2: giraffe_palace
+bip_39_word_underscore_3: giraffe_palace_very
+bip_39_word_underscore_4: giraffe_palace_very_bird
+bip_39_word_underscore_5: giraffe_palace_very_bird_shuffle
+bip_39_word_underscore_6: giraffe_palace_very_bird_shuffle_ketchup
+bip_39_word_underscore_7: giraffe_palace_very_bird_shuffle_ketchup_tiger
+bip_39_word_underscore_8: giraffe_palace_very_bird_shuffle_ketchup_tiger_fatigue
+bip_39_word_underscore_9: giraffe_palace_very_bird_shuffle_ketchup_tiger_fatigue_obey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orchard |  
+| bip_39_word_dash_10 | orchard-device-cram-round-gift-process-tortoise-census-collect-matter |  
+| bip_39_word_dash_11 | orchard-device-cram-round-gift-process-tortoise-census-collect-matter-evolve |  
+| bip_39_word_dash_12 | orchard-device-cram-round-gift-process-tortoise-census-collect-matter-evolve-actress |  
+| bip_39_word_dash_2 | orchard-device |  
+| bip_39_word_dash_3 | orchard-device-cram |  
+| bip_39_word_dash_4 | orchard-device-cram-round |  
+| bip_39_word_dash_5 | orchard-device-cram-round-gift |  
+| bip_39_word_dash_6 | orchard-device-cram-round-gift-process |  
+| bip_39_word_dash_7 | orchard-device-cram-round-gift-process-tortoise |  
+| bip_39_word_dash_8 | orchard-device-cram-round-gift-process-tortoise-census |  
+| bip_39_word_dash_9 | orchard-device-cram-round-gift-process-tortoise-census-collect |  
 | bip_39_word_new_br_1 | orchard |  
 | bip_39_word_new_br_10 | orchard<br>device<br>cram<br>round<br>gift<br>process<br>tortoise<br>census<br>collect<br>matter |  
 | bip_39_word_new_br_11 | orchard<br>device<br>cram<br>round<br>gift<br>process<br>tortoise<br>census<br>collect<br>matter<br>evolve |  
@@ -147,6 +159,18 @@ collect |
 | bip_39_word_space_7 | orchard device cram round gift process tortoise |  
 | bip_39_word_space_8 | orchard device cram round gift process tortoise census |  
 | bip_39_word_space_9 | orchard device cram round gift process tortoise census collect |  
+| bip_39_word_underscore_1 | orchard |  
+| bip_39_word_underscore_10 | orchard_device_cram_round_gift_process_tortoise_census_collect_matter |  
+| bip_39_word_underscore_11 | orchard_device_cram_round_gift_process_tortoise_census_collect_matter_evolve |  
+| bip_39_word_underscore_12 | orchard_device_cram_round_gift_process_tortoise_census_collect_matter_evolve_actress |  
+| bip_39_word_underscore_2 | orchard_device |  
+| bip_39_word_underscore_3 | orchard_device_cram |  
+| bip_39_word_underscore_4 | orchard_device_cram_round |  
+| bip_39_word_underscore_5 | orchard_device_cram_round_gift |  
+| bip_39_word_underscore_6 | orchard_device_cram_round_gift_process |  
+| bip_39_word_underscore_7 | orchard_device_cram_round_gift_process_tortoise |  
+| bip_39_word_underscore_8 | orchard_device_cram_round_gift_process_tortoise_census |  
+| bip_39_word_underscore_9 | orchard_device_cram_round_gift_process_tortoise_census_collect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shy |  
+| bip_39_word_dash_10 | shy-exhaust-apple-keep-salad-love-bamboo-corn-advance-wrong |  
+| bip_39_word_dash_11 | shy-exhaust-apple-keep-salad-love-bamboo-corn-advance-wrong-hood |  
+| bip_39_word_dash_12 | shy-exhaust-apple-keep-salad-love-bamboo-corn-advance-wrong-hood-album |  
+| bip_39_word_dash_2 | shy-exhaust |  
+| bip_39_word_dash_3 | shy-exhaust-apple |  
+| bip_39_word_dash_4 | shy-exhaust-apple-keep |  
+| bip_39_word_dash_5 | shy-exhaust-apple-keep-salad |  
+| bip_39_word_dash_6 | shy-exhaust-apple-keep-salad-love |  
+| bip_39_word_dash_7 | shy-exhaust-apple-keep-salad-love-bamboo |  
+| bip_39_word_dash_8 | shy-exhaust-apple-keep-salad-love-bamboo-corn |  
+| bip_39_word_dash_9 | shy-exhaust-apple-keep-salad-love-bamboo-corn-advance |  
 | bip_39_word_new_br_1 | shy |  
 | bip_39_word_new_br_10 | shy<br>exhaust<br>apple<br>keep<br>salad<br>love<br>bamboo<br>corn<br>advance<br>wrong |  
 | bip_39_word_new_br_11 | shy<br>exhaust<br>apple<br>keep<br>salad<br>love<br>bamboo<br>corn<br>advance<br>wrong<br>hood |  
@@ -147,6 +159,18 @@ advance |
 | bip_39_word_space_7 | shy exhaust apple keep salad love bamboo |  
 | bip_39_word_space_8 | shy exhaust apple keep salad love bamboo corn |  
 | bip_39_word_space_9 | shy exhaust apple keep salad love bamboo corn advance |  
+| bip_39_word_underscore_1 | shy |  
+| bip_39_word_underscore_10 | shy_exhaust_apple_keep_salad_love_bamboo_corn_advance_wrong |  
+| bip_39_word_underscore_11 | shy_exhaust_apple_keep_salad_love_bamboo_corn_advance_wrong_hood |  
+| bip_39_word_underscore_12 | shy_exhaust_apple_keep_salad_love_bamboo_corn_advance_wrong_hood_album |  
+| bip_39_word_underscore_2 | shy_exhaust |  
+| bip_39_word_underscore_3 | shy_exhaust_apple |  
+| bip_39_word_underscore_4 | shy_exhaust_apple_keep |  
+| bip_39_word_underscore_5 | shy_exhaust_apple_keep_salad |  
+| bip_39_word_underscore_6 | shy_exhaust_apple_keep_salad_love |  
+| bip_39_word_underscore_7 | shy_exhaust_apple_keep_salad_love_bamboo |  
+| bip_39_word_underscore_8 | shy_exhaust_apple_keep_salad_love_bamboo_corn |  
+| bip_39_word_underscore_9 | shy_exhaust_apple_keep_salad_love_bamboo_corn_advance |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

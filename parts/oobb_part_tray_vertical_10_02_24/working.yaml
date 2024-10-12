@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rural
+bip_39_word_dash_10: rural-decade-bronze-remember-vapor-proof-apple-spare-blanket-knife
+bip_39_word_dash_11: rural-decade-bronze-remember-vapor-proof-apple-spare-blanket-knife-forget
+bip_39_word_dash_12: rural-decade-bronze-remember-vapor-proof-apple-spare-blanket-knife-forget-admit
+bip_39_word_dash_2: rural-decade
+bip_39_word_dash_3: rural-decade-bronze
+bip_39_word_dash_4: rural-decade-bronze-remember
+bip_39_word_dash_5: rural-decade-bronze-remember-vapor
+bip_39_word_dash_6: rural-decade-bronze-remember-vapor-proof
+bip_39_word_dash_7: rural-decade-bronze-remember-vapor-proof-apple
+bip_39_word_dash_8: rural-decade-bronze-remember-vapor-proof-apple-spare
+bip_39_word_dash_9: rural-decade-bronze-remember-vapor-proof-apple-spare-blanket
 bip_39_word_new_br_1: rural
 bip_39_word_new_br_10: rural<br>decade<br>bronze<br>remember<br>vapor<br>proof<br>apple<br>spare<br>blanket<br>knife
 bip_39_word_new_br_11: rural<br>decade<br>bronze<br>remember<br>vapor<br>proof<br>apple<br>spare<br>blanket<br>knife<br>forget
@@ -194,6 +206,18 @@ bip_39_word_space_6: rural decade bronze remember vapor proof
 bip_39_word_space_7: rural decade bronze remember vapor proof apple
 bip_39_word_space_8: rural decade bronze remember vapor proof apple spare
 bip_39_word_space_9: rural decade bronze remember vapor proof apple spare blanket
+bip_39_word_underscore_1: rural
+bip_39_word_underscore_10: rural_decade_bronze_remember_vapor_proof_apple_spare_blanket_knife
+bip_39_word_underscore_11: rural_decade_bronze_remember_vapor_proof_apple_spare_blanket_knife_forget
+bip_39_word_underscore_12: rural_decade_bronze_remember_vapor_proof_apple_spare_blanket_knife_forget_admit
+bip_39_word_underscore_2: rural_decade
+bip_39_word_underscore_3: rural_decade_bronze
+bip_39_word_underscore_4: rural_decade_bronze_remember
+bip_39_word_underscore_5: rural_decade_bronze_remember_vapor
+bip_39_word_underscore_6: rural_decade_bronze_remember_vapor_proof
+bip_39_word_underscore_7: rural_decade_bronze_remember_vapor_proof_apple
+bip_39_word_underscore_8: rural_decade_bronze_remember_vapor_proof_apple_spare
+bip_39_word_underscore_9: rural_decade_bronze_remember_vapor_proof_apple_spare_blanket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

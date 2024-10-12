@@ -1,3 +1,15 @@
+bip_39_word_dash_1: aunt
+bip_39_word_dash_10: aunt-rubber-pelican-peasant-unfold-shove-purchase-size-smile-seven
+bip_39_word_dash_11: aunt-rubber-pelican-peasant-unfold-shove-purchase-size-smile-seven-museum
+bip_39_word_dash_12: aunt-rubber-pelican-peasant-unfold-shove-purchase-size-smile-seven-museum-advance
+bip_39_word_dash_2: aunt-rubber
+bip_39_word_dash_3: aunt-rubber-pelican
+bip_39_word_dash_4: aunt-rubber-pelican-peasant
+bip_39_word_dash_5: aunt-rubber-pelican-peasant-unfold
+bip_39_word_dash_6: aunt-rubber-pelican-peasant-unfold-shove
+bip_39_word_dash_7: aunt-rubber-pelican-peasant-unfold-shove-purchase
+bip_39_word_dash_8: aunt-rubber-pelican-peasant-unfold-shove-purchase-size
+bip_39_word_dash_9: aunt-rubber-pelican-peasant-unfold-shove-purchase-size-smile
 bip_39_word_new_br_1: aunt
 bip_39_word_new_br_10: aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size<br>smile<br>seven
 bip_39_word_new_br_11: aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size<br>smile<br>seven<br>museum
@@ -194,6 +206,18 @@ bip_39_word_space_6: aunt rubber pelican peasant unfold shove
 bip_39_word_space_7: aunt rubber pelican peasant unfold shove purchase
 bip_39_word_space_8: aunt rubber pelican peasant unfold shove purchase size
 bip_39_word_space_9: aunt rubber pelican peasant unfold shove purchase size smile
+bip_39_word_underscore_1: aunt
+bip_39_word_underscore_10: aunt_rubber_pelican_peasant_unfold_shove_purchase_size_smile_seven
+bip_39_word_underscore_11: aunt_rubber_pelican_peasant_unfold_shove_purchase_size_smile_seven_museum
+bip_39_word_underscore_12: aunt_rubber_pelican_peasant_unfold_shove_purchase_size_smile_seven_museum_advance
+bip_39_word_underscore_2: aunt_rubber
+bip_39_word_underscore_3: aunt_rubber_pelican
+bip_39_word_underscore_4: aunt_rubber_pelican_peasant
+bip_39_word_underscore_5: aunt_rubber_pelican_peasant_unfold
+bip_39_word_underscore_6: aunt_rubber_pelican_peasant_unfold_shove
+bip_39_word_underscore_7: aunt_rubber_pelican_peasant_unfold_shove_purchase
+bip_39_word_underscore_8: aunt_rubber_pelican_peasant_unfold_shove_purchase_size
+bip_39_word_underscore_9: aunt_rubber_pelican_peasant_unfold_shove_purchase_size_smile
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

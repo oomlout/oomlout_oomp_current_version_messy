@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | parent |  
+| bip_39_word_dash_10 | parent-skull-poverty-bachelor-finish-company-today-pause-ship-liquid |  
+| bip_39_word_dash_11 | parent-skull-poverty-bachelor-finish-company-today-pause-ship-liquid-hole |  
+| bip_39_word_dash_12 | parent-skull-poverty-bachelor-finish-company-today-pause-ship-liquid-hole-always |  
+| bip_39_word_dash_2 | parent-skull |  
+| bip_39_word_dash_3 | parent-skull-poverty |  
+| bip_39_word_dash_4 | parent-skull-poverty-bachelor |  
+| bip_39_word_dash_5 | parent-skull-poverty-bachelor-finish |  
+| bip_39_word_dash_6 | parent-skull-poverty-bachelor-finish-company |  
+| bip_39_word_dash_7 | parent-skull-poverty-bachelor-finish-company-today |  
+| bip_39_word_dash_8 | parent-skull-poverty-bachelor-finish-company-today-pause |  
+| bip_39_word_dash_9 | parent-skull-poverty-bachelor-finish-company-today-pause-ship |  
 | bip_39_word_new_br_1 | parent |  
 | bip_39_word_new_br_10 | parent<br>skull<br>poverty<br>bachelor<br>finish<br>company<br>today<br>pause<br>ship<br>liquid |  
 | bip_39_word_new_br_11 | parent<br>skull<br>poverty<br>bachelor<br>finish<br>company<br>today<br>pause<br>ship<br>liquid<br>hole |  
@@ -147,6 +159,18 @@ ship |
 | bip_39_word_space_7 | parent skull poverty bachelor finish company today |  
 | bip_39_word_space_8 | parent skull poverty bachelor finish company today pause |  
 | bip_39_word_space_9 | parent skull poverty bachelor finish company today pause ship |  
+| bip_39_word_underscore_1 | parent |  
+| bip_39_word_underscore_10 | parent_skull_poverty_bachelor_finish_company_today_pause_ship_liquid |  
+| bip_39_word_underscore_11 | parent_skull_poverty_bachelor_finish_company_today_pause_ship_liquid_hole |  
+| bip_39_word_underscore_12 | parent_skull_poverty_bachelor_finish_company_today_pause_ship_liquid_hole_always |  
+| bip_39_word_underscore_2 | parent_skull |  
+| bip_39_word_underscore_3 | parent_skull_poverty |  
+| bip_39_word_underscore_4 | parent_skull_poverty_bachelor |  
+| bip_39_word_underscore_5 | parent_skull_poverty_bachelor_finish |  
+| bip_39_word_underscore_6 | parent_skull_poverty_bachelor_finish_company |  
+| bip_39_word_underscore_7 | parent_skull_poverty_bachelor_finish_company_today |  
+| bip_39_word_underscore_8 | parent_skull_poverty_bachelor_finish_company_today_pause |  
+| bip_39_word_underscore_9 | parent_skull_poverty_bachelor_finish_company_today_pause_ship |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

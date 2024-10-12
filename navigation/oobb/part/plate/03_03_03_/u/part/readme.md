@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | energy |  
+| bip_39_word_dash_10 | energy-ripple-episode-glide-moon-tag-weather-pumpkin-fresh-indicate |  
+| bip_39_word_dash_11 | energy-ripple-episode-glide-moon-tag-weather-pumpkin-fresh-indicate-recall |  
+| bip_39_word_dash_12 | energy-ripple-episode-glide-moon-tag-weather-pumpkin-fresh-indicate-recall-arrange |  
+| bip_39_word_dash_2 | energy-ripple |  
+| bip_39_word_dash_3 | energy-ripple-episode |  
+| bip_39_word_dash_4 | energy-ripple-episode-glide |  
+| bip_39_word_dash_5 | energy-ripple-episode-glide-moon |  
+| bip_39_word_dash_6 | energy-ripple-episode-glide-moon-tag |  
+| bip_39_word_dash_7 | energy-ripple-episode-glide-moon-tag-weather |  
+| bip_39_word_dash_8 | energy-ripple-episode-glide-moon-tag-weather-pumpkin |  
+| bip_39_word_dash_9 | energy-ripple-episode-glide-moon-tag-weather-pumpkin-fresh |  
 | bip_39_word_new_br_1 | energy |  
 | bip_39_word_new_br_10 | energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin<br>fresh<br>indicate |  
 | bip_39_word_new_br_11 | energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin<br>fresh<br>indicate<br>recall |  
@@ -147,6 +159,18 @@ fresh |
 | bip_39_word_space_7 | energy ripple episode glide moon tag weather |  
 | bip_39_word_space_8 | energy ripple episode glide moon tag weather pumpkin |  
 | bip_39_word_space_9 | energy ripple episode glide moon tag weather pumpkin fresh |  
+| bip_39_word_underscore_1 | energy |  
+| bip_39_word_underscore_10 | energy_ripple_episode_glide_moon_tag_weather_pumpkin_fresh_indicate |  
+| bip_39_word_underscore_11 | energy_ripple_episode_glide_moon_tag_weather_pumpkin_fresh_indicate_recall |  
+| bip_39_word_underscore_12 | energy_ripple_episode_glide_moon_tag_weather_pumpkin_fresh_indicate_recall_arrange |  
+| bip_39_word_underscore_2 | energy_ripple |  
+| bip_39_word_underscore_3 | energy_ripple_episode |  
+| bip_39_word_underscore_4 | energy_ripple_episode_glide |  
+| bip_39_word_underscore_5 | energy_ripple_episode_glide_moon |  
+| bip_39_word_underscore_6 | energy_ripple_episode_glide_moon_tag |  
+| bip_39_word_underscore_7 | energy_ripple_episode_glide_moon_tag_weather |  
+| bip_39_word_underscore_8 | energy_ripple_episode_glide_moon_tag_weather_pumpkin |  
+| bip_39_word_underscore_9 | energy_ripple_episode_glide_moon_tag_weather_pumpkin_fresh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

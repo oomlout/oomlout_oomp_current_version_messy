@@ -1,3 +1,15 @@
+bip_39_word_dash_1: razor
+bip_39_word_dash_10: razor-eyebrow-scatter-coil-double-neither-daughter-lady-fragile-rhythm
+bip_39_word_dash_11: razor-eyebrow-scatter-coil-double-neither-daughter-lady-fragile-rhythm-number
+bip_39_word_dash_12: razor-eyebrow-scatter-coil-double-neither-daughter-lady-fragile-rhythm-number-arm
+bip_39_word_dash_2: razor-eyebrow
+bip_39_word_dash_3: razor-eyebrow-scatter
+bip_39_word_dash_4: razor-eyebrow-scatter-coil
+bip_39_word_dash_5: razor-eyebrow-scatter-coil-double
+bip_39_word_dash_6: razor-eyebrow-scatter-coil-double-neither
+bip_39_word_dash_7: razor-eyebrow-scatter-coil-double-neither-daughter
+bip_39_word_dash_8: razor-eyebrow-scatter-coil-double-neither-daughter-lady
+bip_39_word_dash_9: razor-eyebrow-scatter-coil-double-neither-daughter-lady-fragile
 bip_39_word_new_br_1: razor
 bip_39_word_new_br_10: razor<br>eyebrow<br>scatter<br>coil<br>double<br>neither<br>daughter<br>lady<br>fragile<br>rhythm
 bip_39_word_new_br_11: razor<br>eyebrow<br>scatter<br>coil<br>double<br>neither<br>daughter<br>lady<br>fragile<br>rhythm<br>number
@@ -194,6 +206,18 @@ bip_39_word_space_6: razor eyebrow scatter coil double neither
 bip_39_word_space_7: razor eyebrow scatter coil double neither daughter
 bip_39_word_space_8: razor eyebrow scatter coil double neither daughter lady
 bip_39_word_space_9: razor eyebrow scatter coil double neither daughter lady fragile
+bip_39_word_underscore_1: razor
+bip_39_word_underscore_10: razor_eyebrow_scatter_coil_double_neither_daughter_lady_fragile_rhythm
+bip_39_word_underscore_11: razor_eyebrow_scatter_coil_double_neither_daughter_lady_fragile_rhythm_number
+bip_39_word_underscore_12: razor_eyebrow_scatter_coil_double_neither_daughter_lady_fragile_rhythm_number_arm
+bip_39_word_underscore_2: razor_eyebrow
+bip_39_word_underscore_3: razor_eyebrow_scatter
+bip_39_word_underscore_4: razor_eyebrow_scatter_coil
+bip_39_word_underscore_5: razor_eyebrow_scatter_coil_double
+bip_39_word_underscore_6: razor_eyebrow_scatter_coil_double_neither
+bip_39_word_underscore_7: razor_eyebrow_scatter_coil_double_neither_daughter
+bip_39_word_underscore_8: razor_eyebrow_scatter_coil_double_neither_daughter_lady
+bip_39_word_underscore_9: razor_eyebrow_scatter_coil_double_neither_daughter_lady_fragile
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

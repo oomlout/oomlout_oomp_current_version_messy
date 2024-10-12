@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | evolve |  
+| bip_39_word_dash_10 | evolve-alcohol-biology-agree-burger-three-intact-city-tortoise-matrix |  
+| bip_39_word_dash_11 | evolve-alcohol-biology-agree-burger-three-intact-city-tortoise-matrix-pact |  
+| bip_39_word_dash_12 | evolve-alcohol-biology-agree-burger-three-intact-city-tortoise-matrix-pact-aim |  
+| bip_39_word_dash_2 | evolve-alcohol |  
+| bip_39_word_dash_3 | evolve-alcohol-biology |  
+| bip_39_word_dash_4 | evolve-alcohol-biology-agree |  
+| bip_39_word_dash_5 | evolve-alcohol-biology-agree-burger |  
+| bip_39_word_dash_6 | evolve-alcohol-biology-agree-burger-three |  
+| bip_39_word_dash_7 | evolve-alcohol-biology-agree-burger-three-intact |  
+| bip_39_word_dash_8 | evolve-alcohol-biology-agree-burger-three-intact-city |  
+| bip_39_word_dash_9 | evolve-alcohol-biology-agree-burger-three-intact-city-tortoise |  
 | bip_39_word_new_br_1 | evolve |  
 | bip_39_word_new_br_10 | evolve<br>alcohol<br>biology<br>agree<br>burger<br>three<br>intact<br>city<br>tortoise<br>matrix |  
 | bip_39_word_new_br_11 | evolve<br>alcohol<br>biology<br>agree<br>burger<br>three<br>intact<br>city<br>tortoise<br>matrix<br>pact |  
@@ -147,6 +159,18 @@ tortoise |
 | bip_39_word_space_7 | evolve alcohol biology agree burger three intact |  
 | bip_39_word_space_8 | evolve alcohol biology agree burger three intact city |  
 | bip_39_word_space_9 | evolve alcohol biology agree burger three intact city tortoise |  
+| bip_39_word_underscore_1 | evolve |  
+| bip_39_word_underscore_10 | evolve_alcohol_biology_agree_burger_three_intact_city_tortoise_matrix |  
+| bip_39_word_underscore_11 | evolve_alcohol_biology_agree_burger_three_intact_city_tortoise_matrix_pact |  
+| bip_39_word_underscore_12 | evolve_alcohol_biology_agree_burger_three_intact_city_tortoise_matrix_pact_aim |  
+| bip_39_word_underscore_2 | evolve_alcohol |  
+| bip_39_word_underscore_3 | evolve_alcohol_biology |  
+| bip_39_word_underscore_4 | evolve_alcohol_biology_agree |  
+| bip_39_word_underscore_5 | evolve_alcohol_biology_agree_burger |  
+| bip_39_word_underscore_6 | evolve_alcohol_biology_agree_burger_three |  
+| bip_39_word_underscore_7 | evolve_alcohol_biology_agree_burger_three_intact |  
+| bip_39_word_underscore_8 | evolve_alcohol_biology_agree_burger_three_intact_city |  
+| bip_39_word_underscore_9 | evolve_alcohol_biology_agree_burger_three_intact_city_tortoise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

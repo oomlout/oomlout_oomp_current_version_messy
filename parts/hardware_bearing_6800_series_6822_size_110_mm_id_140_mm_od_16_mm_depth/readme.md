@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | globe |  
+| bip_39_word_dash_10 | globe-arch-coil-seed-bone-mixed-park-kidney-chalk-frame |  
+| bip_39_word_dash_11 | globe-arch-coil-seed-bone-mixed-park-kidney-chalk-frame-sand |  
+| bip_39_word_dash_12 | globe-arch-coil-seed-bone-mixed-park-kidney-chalk-frame-sand-anchor |  
+| bip_39_word_dash_2 | globe-arch |  
+| bip_39_word_dash_3 | globe-arch-coil |  
+| bip_39_word_dash_4 | globe-arch-coil-seed |  
+| bip_39_word_dash_5 | globe-arch-coil-seed-bone |  
+| bip_39_word_dash_6 | globe-arch-coil-seed-bone-mixed |  
+| bip_39_word_dash_7 | globe-arch-coil-seed-bone-mixed-park |  
+| bip_39_word_dash_8 | globe-arch-coil-seed-bone-mixed-park-kidney |  
+| bip_39_word_dash_9 | globe-arch-coil-seed-bone-mixed-park-kidney-chalk |  
 | bip_39_word_new_br_1 | globe |  
 | bip_39_word_new_br_10 | globe<br>arch<br>coil<br>seed<br>bone<br>mixed<br>park<br>kidney<br>chalk<br>frame |  
 | bip_39_word_new_br_11 | globe<br>arch<br>coil<br>seed<br>bone<br>mixed<br>park<br>kidney<br>chalk<br>frame<br>sand |  
@@ -147,6 +159,18 @@ chalk |
 | bip_39_word_space_7 | globe arch coil seed bone mixed park |  
 | bip_39_word_space_8 | globe arch coil seed bone mixed park kidney |  
 | bip_39_word_space_9 | globe arch coil seed bone mixed park kidney chalk |  
+| bip_39_word_underscore_1 | globe |  
+| bip_39_word_underscore_10 | globe_arch_coil_seed_bone_mixed_park_kidney_chalk_frame |  
+| bip_39_word_underscore_11 | globe_arch_coil_seed_bone_mixed_park_kidney_chalk_frame_sand |  
+| bip_39_word_underscore_12 | globe_arch_coil_seed_bone_mixed_park_kidney_chalk_frame_sand_anchor |  
+| bip_39_word_underscore_2 | globe_arch |  
+| bip_39_word_underscore_3 | globe_arch_coil |  
+| bip_39_word_underscore_4 | globe_arch_coil_seed |  
+| bip_39_word_underscore_5 | globe_arch_coil_seed_bone |  
+| bip_39_word_underscore_6 | globe_arch_coil_seed_bone_mixed |  
+| bip_39_word_underscore_7 | globe_arch_coil_seed_bone_mixed_park |  
+| bip_39_word_underscore_8 | globe_arch_coil_seed_bone_mixed_park_kidney |  
+| bip_39_word_underscore_9 | globe_arch_coil_seed_bone_mixed_park_kidney_chalk |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

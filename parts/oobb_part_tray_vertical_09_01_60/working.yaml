@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hybrid
+bip_39_word_dash_10: hybrid-thrive-drama-crime-interest-horse-decorate-camp-critic-vanish
+bip_39_word_dash_11: hybrid-thrive-drama-crime-interest-horse-decorate-camp-critic-vanish-two
+bip_39_word_dash_12: hybrid-thrive-drama-crime-interest-horse-decorate-camp-critic-vanish-two-address
+bip_39_word_dash_2: hybrid-thrive
+bip_39_word_dash_3: hybrid-thrive-drama
+bip_39_word_dash_4: hybrid-thrive-drama-crime
+bip_39_word_dash_5: hybrid-thrive-drama-crime-interest
+bip_39_word_dash_6: hybrid-thrive-drama-crime-interest-horse
+bip_39_word_dash_7: hybrid-thrive-drama-crime-interest-horse-decorate
+bip_39_word_dash_8: hybrid-thrive-drama-crime-interest-horse-decorate-camp
+bip_39_word_dash_9: hybrid-thrive-drama-crime-interest-horse-decorate-camp-critic
 bip_39_word_new_br_1: hybrid
 bip_39_word_new_br_10: hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp<br>critic<br>vanish
 bip_39_word_new_br_11: hybrid<br>thrive<br>drama<br>crime<br>interest<br>horse<br>decorate<br>camp<br>critic<br>vanish<br>two
@@ -194,6 +206,18 @@ bip_39_word_space_6: hybrid thrive drama crime interest horse
 bip_39_word_space_7: hybrid thrive drama crime interest horse decorate
 bip_39_word_space_8: hybrid thrive drama crime interest horse decorate camp
 bip_39_word_space_9: hybrid thrive drama crime interest horse decorate camp critic
+bip_39_word_underscore_1: hybrid
+bip_39_word_underscore_10: hybrid_thrive_drama_crime_interest_horse_decorate_camp_critic_vanish
+bip_39_word_underscore_11: hybrid_thrive_drama_crime_interest_horse_decorate_camp_critic_vanish_two
+bip_39_word_underscore_12: hybrid_thrive_drama_crime_interest_horse_decorate_camp_critic_vanish_two_address
+bip_39_word_underscore_2: hybrid_thrive
+bip_39_word_underscore_3: hybrid_thrive_drama
+bip_39_word_underscore_4: hybrid_thrive_drama_crime
+bip_39_word_underscore_5: hybrid_thrive_drama_crime_interest
+bip_39_word_underscore_6: hybrid_thrive_drama_crime_interest_horse
+bip_39_word_underscore_7: hybrid_thrive_drama_crime_interest_horse_decorate
+bip_39_word_underscore_8: hybrid_thrive_drama_crime_interest_horse_decorate_camp
+bip_39_word_underscore_9: hybrid_thrive_drama_crime_interest_horse_decorate_camp_critic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

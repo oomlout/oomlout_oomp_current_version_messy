@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enlist |  
+| bip_39_word_dash_10 | enlist-music-joy-either-thought-genre-protect-security-three-butter |  
+| bip_39_word_dash_11 | enlist-music-joy-either-thought-genre-protect-security-three-butter-inform |  
+| bip_39_word_dash_12 | enlist-music-joy-either-thought-genre-protect-security-three-butter-inform-afraid |  
+| bip_39_word_dash_2 | enlist-music |  
+| bip_39_word_dash_3 | enlist-music-joy |  
+| bip_39_word_dash_4 | enlist-music-joy-either |  
+| bip_39_word_dash_5 | enlist-music-joy-either-thought |  
+| bip_39_word_dash_6 | enlist-music-joy-either-thought-genre |  
+| bip_39_word_dash_7 | enlist-music-joy-either-thought-genre-protect |  
+| bip_39_word_dash_8 | enlist-music-joy-either-thought-genre-protect-security |  
+| bip_39_word_dash_9 | enlist-music-joy-either-thought-genre-protect-security-three |  
 | bip_39_word_new_br_1 | enlist |  
 | bip_39_word_new_br_10 | enlist<br>music<br>joy<br>either<br>thought<br>genre<br>protect<br>security<br>three<br>butter |  
 | bip_39_word_new_br_11 | enlist<br>music<br>joy<br>either<br>thought<br>genre<br>protect<br>security<br>three<br>butter<br>inform |  
@@ -147,6 +159,18 @@ three |
 | bip_39_word_space_7 | enlist music joy either thought genre protect |  
 | bip_39_word_space_8 | enlist music joy either thought genre protect security |  
 | bip_39_word_space_9 | enlist music joy either thought genre protect security three |  
+| bip_39_word_underscore_1 | enlist |  
+| bip_39_word_underscore_10 | enlist_music_joy_either_thought_genre_protect_security_three_butter |  
+| bip_39_word_underscore_11 | enlist_music_joy_either_thought_genre_protect_security_three_butter_inform |  
+| bip_39_word_underscore_12 | enlist_music_joy_either_thought_genre_protect_security_three_butter_inform_afraid |  
+| bip_39_word_underscore_2 | enlist_music |  
+| bip_39_word_underscore_3 | enlist_music_joy |  
+| bip_39_word_underscore_4 | enlist_music_joy_either |  
+| bip_39_word_underscore_5 | enlist_music_joy_either_thought |  
+| bip_39_word_underscore_6 | enlist_music_joy_either_thought_genre |  
+| bip_39_word_underscore_7 | enlist_music_joy_either_thought_genre_protect |  
+| bip_39_word_underscore_8 | enlist_music_joy_either_thought_genre_protect_security |  
+| bip_39_word_underscore_9 | enlist_music_joy_either_thought_genre_protect_security_three |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

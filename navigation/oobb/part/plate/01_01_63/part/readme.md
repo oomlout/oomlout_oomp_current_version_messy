@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pottery |  
+| bip_39_word_dash_10 | pottery-process-document-hamster-police-vault-shaft-must-train-ugly |  
+| bip_39_word_dash_11 | pottery-process-document-hamster-police-vault-shaft-must-train-ugly-cradle |  
+| bip_39_word_dash_12 | pottery-process-document-hamster-police-vault-shaft-must-train-ugly-cradle-announce |  
+| bip_39_word_dash_2 | pottery-process |  
+| bip_39_word_dash_3 | pottery-process-document |  
+| bip_39_word_dash_4 | pottery-process-document-hamster |  
+| bip_39_word_dash_5 | pottery-process-document-hamster-police |  
+| bip_39_word_dash_6 | pottery-process-document-hamster-police-vault |  
+| bip_39_word_dash_7 | pottery-process-document-hamster-police-vault-shaft |  
+| bip_39_word_dash_8 | pottery-process-document-hamster-police-vault-shaft-must |  
+| bip_39_word_dash_9 | pottery-process-document-hamster-police-vault-shaft-must-train |  
 | bip_39_word_new_br_1 | pottery |  
 | bip_39_word_new_br_10 | pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must<br>train<br>ugly |  
 | bip_39_word_new_br_11 | pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must<br>train<br>ugly<br>cradle |  
@@ -147,6 +159,18 @@ train |
 | bip_39_word_space_7 | pottery process document hamster police vault shaft |  
 | bip_39_word_space_8 | pottery process document hamster police vault shaft must |  
 | bip_39_word_space_9 | pottery process document hamster police vault shaft must train |  
+| bip_39_word_underscore_1 | pottery |  
+| bip_39_word_underscore_10 | pottery_process_document_hamster_police_vault_shaft_must_train_ugly |  
+| bip_39_word_underscore_11 | pottery_process_document_hamster_police_vault_shaft_must_train_ugly_cradle |  
+| bip_39_word_underscore_12 | pottery_process_document_hamster_police_vault_shaft_must_train_ugly_cradle_announce |  
+| bip_39_word_underscore_2 | pottery_process |  
+| bip_39_word_underscore_3 | pottery_process_document |  
+| bip_39_word_underscore_4 | pottery_process_document_hamster |  
+| bip_39_word_underscore_5 | pottery_process_document_hamster_police |  
+| bip_39_word_underscore_6 | pottery_process_document_hamster_police_vault |  
+| bip_39_word_underscore_7 | pottery_process_document_hamster_police_vault_shaft |  
+| bip_39_word_underscore_8 | pottery_process_document_hamster_police_vault_shaft_must |  
+| bip_39_word_underscore_9 | pottery_process_document_hamster_police_vault_shaft_must_train |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

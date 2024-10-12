@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trumpet |  
+| bip_39_word_dash_10 | trumpet-tiny-sausage-settle-nothing-live-cancel-wood-swift-scissors |  
+| bip_39_word_dash_11 | trumpet-tiny-sausage-settle-nothing-live-cancel-wood-swift-scissors-useful |  
+| bip_39_word_dash_12 | trumpet-tiny-sausage-settle-nothing-live-cancel-wood-swift-scissors-useful-alarm |  
+| bip_39_word_dash_2 | trumpet-tiny |  
+| bip_39_word_dash_3 | trumpet-tiny-sausage |  
+| bip_39_word_dash_4 | trumpet-tiny-sausage-settle |  
+| bip_39_word_dash_5 | trumpet-tiny-sausage-settle-nothing |  
+| bip_39_word_dash_6 | trumpet-tiny-sausage-settle-nothing-live |  
+| bip_39_word_dash_7 | trumpet-tiny-sausage-settle-nothing-live-cancel |  
+| bip_39_word_dash_8 | trumpet-tiny-sausage-settle-nothing-live-cancel-wood |  
+| bip_39_word_dash_9 | trumpet-tiny-sausage-settle-nothing-live-cancel-wood-swift |  
 | bip_39_word_new_br_1 | trumpet |  
 | bip_39_word_new_br_10 | trumpet<br>tiny<br>sausage<br>settle<br>nothing<br>live<br>cancel<br>wood<br>swift<br>scissors |  
 | bip_39_word_new_br_11 | trumpet<br>tiny<br>sausage<br>settle<br>nothing<br>live<br>cancel<br>wood<br>swift<br>scissors<br>useful |  
@@ -147,6 +159,18 @@ swift |
 | bip_39_word_space_7 | trumpet tiny sausage settle nothing live cancel |  
 | bip_39_word_space_8 | trumpet tiny sausage settle nothing live cancel wood |  
 | bip_39_word_space_9 | trumpet tiny sausage settle nothing live cancel wood swift |  
+| bip_39_word_underscore_1 | trumpet |  
+| bip_39_word_underscore_10 | trumpet_tiny_sausage_settle_nothing_live_cancel_wood_swift_scissors |  
+| bip_39_word_underscore_11 | trumpet_tiny_sausage_settle_nothing_live_cancel_wood_swift_scissors_useful |  
+| bip_39_word_underscore_12 | trumpet_tiny_sausage_settle_nothing_live_cancel_wood_swift_scissors_useful_alarm |  
+| bip_39_word_underscore_2 | trumpet_tiny |  
+| bip_39_word_underscore_3 | trumpet_tiny_sausage |  
+| bip_39_word_underscore_4 | trumpet_tiny_sausage_settle |  
+| bip_39_word_underscore_5 | trumpet_tiny_sausage_settle_nothing |  
+| bip_39_word_underscore_6 | trumpet_tiny_sausage_settle_nothing_live |  
+| bip_39_word_underscore_7 | trumpet_tiny_sausage_settle_nothing_live_cancel |  
+| bip_39_word_underscore_8 | trumpet_tiny_sausage_settle_nothing_live_cancel_wood |  
+| bip_39_word_underscore_9 | trumpet_tiny_sausage_settle_nothing_live_cancel_wood_swift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

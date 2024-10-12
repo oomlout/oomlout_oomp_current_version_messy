@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | asthma |  
+| bip_39_word_dash_10 | asthma-element-vessel-sunny-blind-shoot-aim-pulp-sure-cluster |  
+| bip_39_word_dash_11 | asthma-element-vessel-sunny-blind-shoot-aim-pulp-sure-cluster-flame |  
+| bip_39_word_dash_12 | asthma-element-vessel-sunny-blind-shoot-aim-pulp-sure-cluster-flame-aunt |  
+| bip_39_word_dash_2 | asthma-element |  
+| bip_39_word_dash_3 | asthma-element-vessel |  
+| bip_39_word_dash_4 | asthma-element-vessel-sunny |  
+| bip_39_word_dash_5 | asthma-element-vessel-sunny-blind |  
+| bip_39_word_dash_6 | asthma-element-vessel-sunny-blind-shoot |  
+| bip_39_word_dash_7 | asthma-element-vessel-sunny-blind-shoot-aim |  
+| bip_39_word_dash_8 | asthma-element-vessel-sunny-blind-shoot-aim-pulp |  
+| bip_39_word_dash_9 | asthma-element-vessel-sunny-blind-shoot-aim-pulp-sure |  
 | bip_39_word_new_br_1 | asthma |  
 | bip_39_word_new_br_10 | asthma<br>element<br>vessel<br>sunny<br>blind<br>shoot<br>aim<br>pulp<br>sure<br>cluster |  
 | bip_39_word_new_br_11 | asthma<br>element<br>vessel<br>sunny<br>blind<br>shoot<br>aim<br>pulp<br>sure<br>cluster<br>flame |  
@@ -147,6 +159,18 @@ sure |
 | bip_39_word_space_7 | asthma element vessel sunny blind shoot aim |  
 | bip_39_word_space_8 | asthma element vessel sunny blind shoot aim pulp |  
 | bip_39_word_space_9 | asthma element vessel sunny blind shoot aim pulp sure |  
+| bip_39_word_underscore_1 | asthma |  
+| bip_39_word_underscore_10 | asthma_element_vessel_sunny_blind_shoot_aim_pulp_sure_cluster |  
+| bip_39_word_underscore_11 | asthma_element_vessel_sunny_blind_shoot_aim_pulp_sure_cluster_flame |  
+| bip_39_word_underscore_12 | asthma_element_vessel_sunny_blind_shoot_aim_pulp_sure_cluster_flame_aunt |  
+| bip_39_word_underscore_2 | asthma_element |  
+| bip_39_word_underscore_3 | asthma_element_vessel |  
+| bip_39_word_underscore_4 | asthma_element_vessel_sunny |  
+| bip_39_word_underscore_5 | asthma_element_vessel_sunny_blind |  
+| bip_39_word_underscore_6 | asthma_element_vessel_sunny_blind_shoot |  
+| bip_39_word_underscore_7 | asthma_element_vessel_sunny_blind_shoot_aim |  
+| bip_39_word_underscore_8 | asthma_element_vessel_sunny_blind_shoot_aim_pulp |  
+| bip_39_word_underscore_9 | asthma_element_vessel_sunny_blind_shoot_aim_pulp_sure |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

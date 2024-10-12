@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shadow |  
+| bip_39_word_dash_10 | shadow-wave-onion-hero-bicycle-ahead-alarm-raise-motion-scissors |  
+| bip_39_word_dash_11 | shadow-wave-onion-hero-bicycle-ahead-alarm-raise-motion-scissors-glass |  
+| bip_39_word_dash_12 | shadow-wave-onion-hero-bicycle-ahead-alarm-raise-motion-scissors-glass-agent |  
+| bip_39_word_dash_2 | shadow-wave |  
+| bip_39_word_dash_3 | shadow-wave-onion |  
+| bip_39_word_dash_4 | shadow-wave-onion-hero |  
+| bip_39_word_dash_5 | shadow-wave-onion-hero-bicycle |  
+| bip_39_word_dash_6 | shadow-wave-onion-hero-bicycle-ahead |  
+| bip_39_word_dash_7 | shadow-wave-onion-hero-bicycle-ahead-alarm |  
+| bip_39_word_dash_8 | shadow-wave-onion-hero-bicycle-ahead-alarm-raise |  
+| bip_39_word_dash_9 | shadow-wave-onion-hero-bicycle-ahead-alarm-raise-motion |  
 | bip_39_word_new_br_1 | shadow |  
 | bip_39_word_new_br_10 | shadow<br>wave<br>onion<br>hero<br>bicycle<br>ahead<br>alarm<br>raise<br>motion<br>scissors |  
 | bip_39_word_new_br_11 | shadow<br>wave<br>onion<br>hero<br>bicycle<br>ahead<br>alarm<br>raise<br>motion<br>scissors<br>glass |  
@@ -147,6 +159,18 @@ motion |
 | bip_39_word_space_7 | shadow wave onion hero bicycle ahead alarm |  
 | bip_39_word_space_8 | shadow wave onion hero bicycle ahead alarm raise |  
 | bip_39_word_space_9 | shadow wave onion hero bicycle ahead alarm raise motion |  
+| bip_39_word_underscore_1 | shadow |  
+| bip_39_word_underscore_10 | shadow_wave_onion_hero_bicycle_ahead_alarm_raise_motion_scissors |  
+| bip_39_word_underscore_11 | shadow_wave_onion_hero_bicycle_ahead_alarm_raise_motion_scissors_glass |  
+| bip_39_word_underscore_12 | shadow_wave_onion_hero_bicycle_ahead_alarm_raise_motion_scissors_glass_agent |  
+| bip_39_word_underscore_2 | shadow_wave |  
+| bip_39_word_underscore_3 | shadow_wave_onion |  
+| bip_39_word_underscore_4 | shadow_wave_onion_hero |  
+| bip_39_word_underscore_5 | shadow_wave_onion_hero_bicycle |  
+| bip_39_word_underscore_6 | shadow_wave_onion_hero_bicycle_ahead |  
+| bip_39_word_underscore_7 | shadow_wave_onion_hero_bicycle_ahead_alarm |  
+| bip_39_word_underscore_8 | shadow_wave_onion_hero_bicycle_ahead_alarm_raise |  
+| bip_39_word_underscore_9 | shadow_wave_onion_hero_bicycle_ahead_alarm_raise_motion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

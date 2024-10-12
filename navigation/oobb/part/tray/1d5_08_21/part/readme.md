@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | river |  
+| bip_39_word_dash_10 | river-gasp-service-smoke-vessel-robust-city-leg-symptom-swear |  
+| bip_39_word_dash_11 | river-gasp-service-smoke-vessel-robust-city-leg-symptom-swear-stick |  
+| bip_39_word_dash_12 | river-gasp-service-smoke-vessel-robust-city-leg-symptom-swear-stick-auto |  
+| bip_39_word_dash_2 | river-gasp |  
+| bip_39_word_dash_3 | river-gasp-service |  
+| bip_39_word_dash_4 | river-gasp-service-smoke |  
+| bip_39_word_dash_5 | river-gasp-service-smoke-vessel |  
+| bip_39_word_dash_6 | river-gasp-service-smoke-vessel-robust |  
+| bip_39_word_dash_7 | river-gasp-service-smoke-vessel-robust-city |  
+| bip_39_word_dash_8 | river-gasp-service-smoke-vessel-robust-city-leg |  
+| bip_39_word_dash_9 | river-gasp-service-smoke-vessel-robust-city-leg-symptom |  
 | bip_39_word_new_br_1 | river |  
 | bip_39_word_new_br_10 | river<br>gasp<br>service<br>smoke<br>vessel<br>robust<br>city<br>leg<br>symptom<br>swear |  
 | bip_39_word_new_br_11 | river<br>gasp<br>service<br>smoke<br>vessel<br>robust<br>city<br>leg<br>symptom<br>swear<br>stick |  
@@ -147,6 +159,18 @@ symptom |
 | bip_39_word_space_7 | river gasp service smoke vessel robust city |  
 | bip_39_word_space_8 | river gasp service smoke vessel robust city leg |  
 | bip_39_word_space_9 | river gasp service smoke vessel robust city leg symptom |  
+| bip_39_word_underscore_1 | river |  
+| bip_39_word_underscore_10 | river_gasp_service_smoke_vessel_robust_city_leg_symptom_swear |  
+| bip_39_word_underscore_11 | river_gasp_service_smoke_vessel_robust_city_leg_symptom_swear_stick |  
+| bip_39_word_underscore_12 | river_gasp_service_smoke_vessel_robust_city_leg_symptom_swear_stick_auto |  
+| bip_39_word_underscore_2 | river_gasp |  
+| bip_39_word_underscore_3 | river_gasp_service |  
+| bip_39_word_underscore_4 | river_gasp_service_smoke |  
+| bip_39_word_underscore_5 | river_gasp_service_smoke_vessel |  
+| bip_39_word_underscore_6 | river_gasp_service_smoke_vessel_robust |  
+| bip_39_word_underscore_7 | river_gasp_service_smoke_vessel_robust_city |  
+| bip_39_word_underscore_8 | river_gasp_service_smoke_vessel_robust_city_leg |  
+| bip_39_word_underscore_9 | river_gasp_service_smoke_vessel_robust_city_leg_symptom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swamp |  
+| bip_39_word_dash_10 | swamp-sock-thought-item-drink-citizen-barely-ride-pencil-powder |  
+| bip_39_word_dash_11 | swamp-sock-thought-item-drink-citizen-barely-ride-pencil-powder-husband |  
+| bip_39_word_dash_12 | swamp-sock-thought-item-drink-citizen-barely-ride-pencil-powder-husband-arrange |  
+| bip_39_word_dash_2 | swamp-sock |  
+| bip_39_word_dash_3 | swamp-sock-thought |  
+| bip_39_word_dash_4 | swamp-sock-thought-item |  
+| bip_39_word_dash_5 | swamp-sock-thought-item-drink |  
+| bip_39_word_dash_6 | swamp-sock-thought-item-drink-citizen |  
+| bip_39_word_dash_7 | swamp-sock-thought-item-drink-citizen-barely |  
+| bip_39_word_dash_8 | swamp-sock-thought-item-drink-citizen-barely-ride |  
+| bip_39_word_dash_9 | swamp-sock-thought-item-drink-citizen-barely-ride-pencil |  
 | bip_39_word_new_br_1 | swamp |  
 | bip_39_word_new_br_10 | swamp<br>sock<br>thought<br>item<br>drink<br>citizen<br>barely<br>ride<br>pencil<br>powder |  
 | bip_39_word_new_br_11 | swamp<br>sock<br>thought<br>item<br>drink<br>citizen<br>barely<br>ride<br>pencil<br>powder<br>husband |  
@@ -147,6 +159,18 @@ pencil |
 | bip_39_word_space_7 | swamp sock thought item drink citizen barely |  
 | bip_39_word_space_8 | swamp sock thought item drink citizen barely ride |  
 | bip_39_word_space_9 | swamp sock thought item drink citizen barely ride pencil |  
+| bip_39_word_underscore_1 | swamp |  
+| bip_39_word_underscore_10 | swamp_sock_thought_item_drink_citizen_barely_ride_pencil_powder |  
+| bip_39_word_underscore_11 | swamp_sock_thought_item_drink_citizen_barely_ride_pencil_powder_husband |  
+| bip_39_word_underscore_12 | swamp_sock_thought_item_drink_citizen_barely_ride_pencil_powder_husband_arrange |  
+| bip_39_word_underscore_2 | swamp_sock |  
+| bip_39_word_underscore_3 | swamp_sock_thought |  
+| bip_39_word_underscore_4 | swamp_sock_thought_item |  
+| bip_39_word_underscore_5 | swamp_sock_thought_item_drink |  
+| bip_39_word_underscore_6 | swamp_sock_thought_item_drink_citizen |  
+| bip_39_word_underscore_7 | swamp_sock_thought_item_drink_citizen_barely |  
+| bip_39_word_underscore_8 | swamp_sock_thought_item_drink_citizen_barely_ride |  
+| bip_39_word_underscore_9 | swamp_sock_thought_item_drink_citizen_barely_ride_pencil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

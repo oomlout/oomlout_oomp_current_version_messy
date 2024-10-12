@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erosion |  
+| bip_39_word_dash_10 | erosion-acquire-vacuum-since-lesson-toast-steel-dog-copper-bread |  
+| bip_39_word_dash_11 | erosion-acquire-vacuum-since-lesson-toast-steel-dog-copper-bread-riot |  
+| bip_39_word_dash_12 | erosion-acquire-vacuum-since-lesson-toast-steel-dog-copper-bread-riot-assist |  
+| bip_39_word_dash_2 | erosion-acquire |  
+| bip_39_word_dash_3 | erosion-acquire-vacuum |  
+| bip_39_word_dash_4 | erosion-acquire-vacuum-since |  
+| bip_39_word_dash_5 | erosion-acquire-vacuum-since-lesson |  
+| bip_39_word_dash_6 | erosion-acquire-vacuum-since-lesson-toast |  
+| bip_39_word_dash_7 | erosion-acquire-vacuum-since-lesson-toast-steel |  
+| bip_39_word_dash_8 | erosion-acquire-vacuum-since-lesson-toast-steel-dog |  
+| bip_39_word_dash_9 | erosion-acquire-vacuum-since-lesson-toast-steel-dog-copper |  
 | bip_39_word_new_br_1 | erosion |  
 | bip_39_word_new_br_10 | erosion<br>acquire<br>vacuum<br>since<br>lesson<br>toast<br>steel<br>dog<br>copper<br>bread |  
 | bip_39_word_new_br_11 | erosion<br>acquire<br>vacuum<br>since<br>lesson<br>toast<br>steel<br>dog<br>copper<br>bread<br>riot |  
@@ -147,6 +159,18 @@ copper |
 | bip_39_word_space_7 | erosion acquire vacuum since lesson toast steel |  
 | bip_39_word_space_8 | erosion acquire vacuum since lesson toast steel dog |  
 | bip_39_word_space_9 | erosion acquire vacuum since lesson toast steel dog copper |  
+| bip_39_word_underscore_1 | erosion |  
+| bip_39_word_underscore_10 | erosion_acquire_vacuum_since_lesson_toast_steel_dog_copper_bread |  
+| bip_39_word_underscore_11 | erosion_acquire_vacuum_since_lesson_toast_steel_dog_copper_bread_riot |  
+| bip_39_word_underscore_12 | erosion_acquire_vacuum_since_lesson_toast_steel_dog_copper_bread_riot_assist |  
+| bip_39_word_underscore_2 | erosion_acquire |  
+| bip_39_word_underscore_3 | erosion_acquire_vacuum |  
+| bip_39_word_underscore_4 | erosion_acquire_vacuum_since |  
+| bip_39_word_underscore_5 | erosion_acquire_vacuum_since_lesson |  
+| bip_39_word_underscore_6 | erosion_acquire_vacuum_since_lesson_toast |  
+| bip_39_word_underscore_7 | erosion_acquire_vacuum_since_lesson_toast_steel |  
+| bip_39_word_underscore_8 | erosion_acquire_vacuum_since_lesson_toast_steel_dog |  
+| bip_39_word_underscore_9 | erosion_acquire_vacuum_since_lesson_toast_steel_dog_copper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

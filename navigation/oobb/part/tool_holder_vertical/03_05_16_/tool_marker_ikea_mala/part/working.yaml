@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mountain
+bip_39_word_dash_10: mountain-bomb-twenty-visa-winner-discover-scale-drastic-happy-cheese
+bip_39_word_dash_11: mountain-bomb-twenty-visa-winner-discover-scale-drastic-happy-cheese-inhale
+bip_39_word_dash_12: mountain-bomb-twenty-visa-winner-discover-scale-drastic-happy-cheese-inhale-action
+bip_39_word_dash_2: mountain-bomb
+bip_39_word_dash_3: mountain-bomb-twenty
+bip_39_word_dash_4: mountain-bomb-twenty-visa
+bip_39_word_dash_5: mountain-bomb-twenty-visa-winner
+bip_39_word_dash_6: mountain-bomb-twenty-visa-winner-discover
+bip_39_word_dash_7: mountain-bomb-twenty-visa-winner-discover-scale
+bip_39_word_dash_8: mountain-bomb-twenty-visa-winner-discover-scale-drastic
+bip_39_word_dash_9: mountain-bomb-twenty-visa-winner-discover-scale-drastic-happy
 bip_39_word_new_br_1: mountain
 bip_39_word_new_br_10: mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese
 bip_39_word_new_br_11: mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese<br>inhale
@@ -194,6 +206,18 @@ bip_39_word_space_6: mountain bomb twenty visa winner discover
 bip_39_word_space_7: mountain bomb twenty visa winner discover scale
 bip_39_word_space_8: mountain bomb twenty visa winner discover scale drastic
 bip_39_word_space_9: mountain bomb twenty visa winner discover scale drastic happy
+bip_39_word_underscore_1: mountain
+bip_39_word_underscore_10: mountain_bomb_twenty_visa_winner_discover_scale_drastic_happy_cheese
+bip_39_word_underscore_11: mountain_bomb_twenty_visa_winner_discover_scale_drastic_happy_cheese_inhale
+bip_39_word_underscore_12: mountain_bomb_twenty_visa_winner_discover_scale_drastic_happy_cheese_inhale_action
+bip_39_word_underscore_2: mountain_bomb
+bip_39_word_underscore_3: mountain_bomb_twenty
+bip_39_word_underscore_4: mountain_bomb_twenty_visa
+bip_39_word_underscore_5: mountain_bomb_twenty_visa_winner
+bip_39_word_underscore_6: mountain_bomb_twenty_visa_winner_discover
+bip_39_word_underscore_7: mountain_bomb_twenty_visa_winner_discover_scale
+bip_39_word_underscore_8: mountain_bomb_twenty_visa_winner_discover_scale_drastic
+bip_39_word_underscore_9: mountain_bomb_twenty_visa_winner_discover_scale_drastic_happy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

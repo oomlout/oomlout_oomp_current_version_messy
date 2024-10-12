@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | legal |  
+| bip_39_word_dash_10 | legal-search-remind-stem-simple-install-rebuild-raccoon-fat-owner |  
+| bip_39_word_dash_11 | legal-search-remind-stem-simple-install-rebuild-raccoon-fat-owner-company |  
+| bip_39_word_dash_12 | legal-search-remind-stem-simple-install-rebuild-raccoon-fat-owner-company-act |  
+| bip_39_word_dash_2 | legal-search |  
+| bip_39_word_dash_3 | legal-search-remind |  
+| bip_39_word_dash_4 | legal-search-remind-stem |  
+| bip_39_word_dash_5 | legal-search-remind-stem-simple |  
+| bip_39_word_dash_6 | legal-search-remind-stem-simple-install |  
+| bip_39_word_dash_7 | legal-search-remind-stem-simple-install-rebuild |  
+| bip_39_word_dash_8 | legal-search-remind-stem-simple-install-rebuild-raccoon |  
+| bip_39_word_dash_9 | legal-search-remind-stem-simple-install-rebuild-raccoon-fat |  
 | bip_39_word_new_br_1 | legal |  
 | bip_39_word_new_br_10 | legal<br>search<br>remind<br>stem<br>simple<br>install<br>rebuild<br>raccoon<br>fat<br>owner |  
 | bip_39_word_new_br_11 | legal<br>search<br>remind<br>stem<br>simple<br>install<br>rebuild<br>raccoon<br>fat<br>owner<br>company |  
@@ -147,6 +159,18 @@ fat |
 | bip_39_word_space_7 | legal search remind stem simple install rebuild |  
 | bip_39_word_space_8 | legal search remind stem simple install rebuild raccoon |  
 | bip_39_word_space_9 | legal search remind stem simple install rebuild raccoon fat |  
+| bip_39_word_underscore_1 | legal |  
+| bip_39_word_underscore_10 | legal_search_remind_stem_simple_install_rebuild_raccoon_fat_owner |  
+| bip_39_word_underscore_11 | legal_search_remind_stem_simple_install_rebuild_raccoon_fat_owner_company |  
+| bip_39_word_underscore_12 | legal_search_remind_stem_simple_install_rebuild_raccoon_fat_owner_company_act |  
+| bip_39_word_underscore_2 | legal_search |  
+| bip_39_word_underscore_3 | legal_search_remind |  
+| bip_39_word_underscore_4 | legal_search_remind_stem |  
+| bip_39_word_underscore_5 | legal_search_remind_stem_simple |  
+| bip_39_word_underscore_6 | legal_search_remind_stem_simple_install |  
+| bip_39_word_underscore_7 | legal_search_remind_stem_simple_install_rebuild |  
+| bip_39_word_underscore_8 | legal_search_remind_stem_simple_install_rebuild_raccoon |  
+| bip_39_word_underscore_9 | legal_search_remind_stem_simple_install_rebuild_raccoon_fat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

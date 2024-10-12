@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | radio |  
+| bip_39_word_dash_10 | radio-random-letter-web-practice-bone-together-old-liquid-hood |  
+| bip_39_word_dash_11 | radio-random-letter-web-practice-bone-together-old-liquid-hood-sun |  
+| bip_39_word_dash_12 | radio-random-letter-web-practice-bone-together-old-liquid-hood-sun-already |  
+| bip_39_word_dash_2 | radio-random |  
+| bip_39_word_dash_3 | radio-random-letter |  
+| bip_39_word_dash_4 | radio-random-letter-web |  
+| bip_39_word_dash_5 | radio-random-letter-web-practice |  
+| bip_39_word_dash_6 | radio-random-letter-web-practice-bone |  
+| bip_39_word_dash_7 | radio-random-letter-web-practice-bone-together |  
+| bip_39_word_dash_8 | radio-random-letter-web-practice-bone-together-old |  
+| bip_39_word_dash_9 | radio-random-letter-web-practice-bone-together-old-liquid |  
 | bip_39_word_new_br_1 | radio |  
 | bip_39_word_new_br_10 | radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old<br>liquid<br>hood |  
 | bip_39_word_new_br_11 | radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old<br>liquid<br>hood<br>sun |  
@@ -147,6 +159,18 @@ liquid |
 | bip_39_word_space_7 | radio random letter web practice bone together |  
 | bip_39_word_space_8 | radio random letter web practice bone together old |  
 | bip_39_word_space_9 | radio random letter web practice bone together old liquid |  
+| bip_39_word_underscore_1 | radio |  
+| bip_39_word_underscore_10 | radio_random_letter_web_practice_bone_together_old_liquid_hood |  
+| bip_39_word_underscore_11 | radio_random_letter_web_practice_bone_together_old_liquid_hood_sun |  
+| bip_39_word_underscore_12 | radio_random_letter_web_practice_bone_together_old_liquid_hood_sun_already |  
+| bip_39_word_underscore_2 | radio_random |  
+| bip_39_word_underscore_3 | radio_random_letter |  
+| bip_39_word_underscore_4 | radio_random_letter_web |  
+| bip_39_word_underscore_5 | radio_random_letter_web_practice |  
+| bip_39_word_underscore_6 | radio_random_letter_web_practice_bone |  
+| bip_39_word_underscore_7 | radio_random_letter_web_practice_bone_together |  
+| bip_39_word_underscore_8 | radio_random_letter_web_practice_bone_together_old |  
+| bip_39_word_underscore_9 | radio_random_letter_web_practice_bone_together_old_liquid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

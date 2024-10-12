@@ -1,3 +1,15 @@
+bip_39_word_dash_1: frog
+bip_39_word_dash_10: frog-climb-grid-surprise-detect-left-deputy-fine-muffin-endorse
+bip_39_word_dash_11: frog-climb-grid-surprise-detect-left-deputy-fine-muffin-endorse-enrich
+bip_39_word_dash_12: frog-climb-grid-surprise-detect-left-deputy-fine-muffin-endorse-enrich-artwork
+bip_39_word_dash_2: frog-climb
+bip_39_word_dash_3: frog-climb-grid
+bip_39_word_dash_4: frog-climb-grid-surprise
+bip_39_word_dash_5: frog-climb-grid-surprise-detect
+bip_39_word_dash_6: frog-climb-grid-surprise-detect-left
+bip_39_word_dash_7: frog-climb-grid-surprise-detect-left-deputy
+bip_39_word_dash_8: frog-climb-grid-surprise-detect-left-deputy-fine
+bip_39_word_dash_9: frog-climb-grid-surprise-detect-left-deputy-fine-muffin
 bip_39_word_new_br_1: frog
 bip_39_word_new_br_10: frog<br>climb<br>grid<br>surprise<br>detect<br>left<br>deputy<br>fine<br>muffin<br>endorse
 bip_39_word_new_br_11: frog<br>climb<br>grid<br>surprise<br>detect<br>left<br>deputy<br>fine<br>muffin<br>endorse<br>enrich
@@ -193,6 +205,18 @@ bip_39_word_space_6: frog climb grid surprise detect left
 bip_39_word_space_7: frog climb grid surprise detect left deputy
 bip_39_word_space_8: frog climb grid surprise detect left deputy fine
 bip_39_word_space_9: frog climb grid surprise detect left deputy fine muffin
+bip_39_word_underscore_1: frog
+bip_39_word_underscore_10: frog_climb_grid_surprise_detect_left_deputy_fine_muffin_endorse
+bip_39_word_underscore_11: frog_climb_grid_surprise_detect_left_deputy_fine_muffin_endorse_enrich
+bip_39_word_underscore_12: frog_climb_grid_surprise_detect_left_deputy_fine_muffin_endorse_enrich_artwork
+bip_39_word_underscore_2: frog_climb
+bip_39_word_underscore_3: frog_climb_grid
+bip_39_word_underscore_4: frog_climb_grid_surprise
+bip_39_word_underscore_5: frog_climb_grid_surprise_detect
+bip_39_word_underscore_6: frog_climb_grid_surprise_detect_left
+bip_39_word_underscore_7: frog_climb_grid_surprise_detect_left_deputy
+bip_39_word_underscore_8: frog_climb_grid_surprise_detect_left_deputy_fine
+bip_39_word_underscore_9: frog_climb_grid_surprise_detect_left_deputy_fine_muffin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | green |  
+| bip_39_word_dash_10 | green-disorder-various-ostrich-genius-notice-mobile-find-travel-turn |  
+| bip_39_word_dash_11 | green-disorder-various-ostrich-genius-notice-mobile-find-travel-turn-icon |  
+| bip_39_word_dash_12 | green-disorder-various-ostrich-genius-notice-mobile-find-travel-turn-icon-able |  
+| bip_39_word_dash_2 | green-disorder |  
+| bip_39_word_dash_3 | green-disorder-various |  
+| bip_39_word_dash_4 | green-disorder-various-ostrich |  
+| bip_39_word_dash_5 | green-disorder-various-ostrich-genius |  
+| bip_39_word_dash_6 | green-disorder-various-ostrich-genius-notice |  
+| bip_39_word_dash_7 | green-disorder-various-ostrich-genius-notice-mobile |  
+| bip_39_word_dash_8 | green-disorder-various-ostrich-genius-notice-mobile-find |  
+| bip_39_word_dash_9 | green-disorder-various-ostrich-genius-notice-mobile-find-travel |  
 | bip_39_word_new_br_1 | green |  
 | bip_39_word_new_br_10 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn |  
 | bip_39_word_new_br_11 | green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn<br>icon |  
@@ -147,6 +159,18 @@ travel |
 | bip_39_word_space_7 | green disorder various ostrich genius notice mobile |  
 | bip_39_word_space_8 | green disorder various ostrich genius notice mobile find |  
 | bip_39_word_space_9 | green disorder various ostrich genius notice mobile find travel |  
+| bip_39_word_underscore_1 | green |  
+| bip_39_word_underscore_10 | green_disorder_various_ostrich_genius_notice_mobile_find_travel_turn |  
+| bip_39_word_underscore_11 | green_disorder_various_ostrich_genius_notice_mobile_find_travel_turn_icon |  
+| bip_39_word_underscore_12 | green_disorder_various_ostrich_genius_notice_mobile_find_travel_turn_icon_able |  
+| bip_39_word_underscore_2 | green_disorder |  
+| bip_39_word_underscore_3 | green_disorder_various |  
+| bip_39_word_underscore_4 | green_disorder_various_ostrich |  
+| bip_39_word_underscore_5 | green_disorder_various_ostrich_genius |  
+| bip_39_word_underscore_6 | green_disorder_various_ostrich_genius_notice |  
+| bip_39_word_underscore_7 | green_disorder_various_ostrich_genius_notice_mobile |  
+| bip_39_word_underscore_8 | green_disorder_various_ostrich_genius_notice_mobile_find |  
+| bip_39_word_underscore_9 | green_disorder_various_ostrich_genius_notice_mobile_find_travel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | apple |  
+| bip_39_word_dash_10 | apple-limb-suffer-prosper-horse-fine-top-robust-sibling-all |  
+| bip_39_word_dash_11 | apple-limb-suffer-prosper-horse-fine-top-robust-sibling-all-lemon |  
+| bip_39_word_dash_12 | apple-limb-suffer-prosper-horse-fine-top-robust-sibling-all-lemon-also |  
+| bip_39_word_dash_2 | apple-limb |  
+| bip_39_word_dash_3 | apple-limb-suffer |  
+| bip_39_word_dash_4 | apple-limb-suffer-prosper |  
+| bip_39_word_dash_5 | apple-limb-suffer-prosper-horse |  
+| bip_39_word_dash_6 | apple-limb-suffer-prosper-horse-fine |  
+| bip_39_word_dash_7 | apple-limb-suffer-prosper-horse-fine-top |  
+| bip_39_word_dash_8 | apple-limb-suffer-prosper-horse-fine-top-robust |  
+| bip_39_word_dash_9 | apple-limb-suffer-prosper-horse-fine-top-robust-sibling |  
 | bip_39_word_new_br_1 | apple |  
 | bip_39_word_new_br_10 | apple<br>limb<br>suffer<br>prosper<br>horse<br>fine<br>top<br>robust<br>sibling<br>all |  
 | bip_39_word_new_br_11 | apple<br>limb<br>suffer<br>prosper<br>horse<br>fine<br>top<br>robust<br>sibling<br>all<br>lemon |  
@@ -147,6 +159,18 @@ sibling |
 | bip_39_word_space_7 | apple limb suffer prosper horse fine top |  
 | bip_39_word_space_8 | apple limb suffer prosper horse fine top robust |  
 | bip_39_word_space_9 | apple limb suffer prosper horse fine top robust sibling |  
+| bip_39_word_underscore_1 | apple |  
+| bip_39_word_underscore_10 | apple_limb_suffer_prosper_horse_fine_top_robust_sibling_all |  
+| bip_39_word_underscore_11 | apple_limb_suffer_prosper_horse_fine_top_robust_sibling_all_lemon |  
+| bip_39_word_underscore_12 | apple_limb_suffer_prosper_horse_fine_top_robust_sibling_all_lemon_also |  
+| bip_39_word_underscore_2 | apple_limb |  
+| bip_39_word_underscore_3 | apple_limb_suffer |  
+| bip_39_word_underscore_4 | apple_limb_suffer_prosper |  
+| bip_39_word_underscore_5 | apple_limb_suffer_prosper_horse |  
+| bip_39_word_underscore_6 | apple_limb_suffer_prosper_horse_fine |  
+| bip_39_word_underscore_7 | apple_limb_suffer_prosper_horse_fine_top |  
+| bip_39_word_underscore_8 | apple_limb_suffer_prosper_horse_fine_top_robust |  
+| bip_39_word_underscore_9 | apple_limb_suffer_prosper_horse_fine_top_robust_sibling |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

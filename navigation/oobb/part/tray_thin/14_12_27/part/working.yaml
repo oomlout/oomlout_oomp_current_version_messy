@@ -1,3 +1,15 @@
+bip_39_word_dash_1: myth
+bip_39_word_dash_10: myth-proud-output-rude-hunt-attitude-budget-elevator-erode-matter
+bip_39_word_dash_11: myth-proud-output-rude-hunt-attitude-budget-elevator-erode-matter-lemon
+bip_39_word_dash_12: myth-proud-output-rude-hunt-attitude-budget-elevator-erode-matter-lemon-any
+bip_39_word_dash_2: myth-proud
+bip_39_word_dash_3: myth-proud-output
+bip_39_word_dash_4: myth-proud-output-rude
+bip_39_word_dash_5: myth-proud-output-rude-hunt
+bip_39_word_dash_6: myth-proud-output-rude-hunt-attitude
+bip_39_word_dash_7: myth-proud-output-rude-hunt-attitude-budget
+bip_39_word_dash_8: myth-proud-output-rude-hunt-attitude-budget-elevator
+bip_39_word_dash_9: myth-proud-output-rude-hunt-attitude-budget-elevator-erode
 bip_39_word_new_br_1: myth
 bip_39_word_new_br_10: myth<br>proud<br>output<br>rude<br>hunt<br>attitude<br>budget<br>elevator<br>erode<br>matter
 bip_39_word_new_br_11: myth<br>proud<br>output<br>rude<br>hunt<br>attitude<br>budget<br>elevator<br>erode<br>matter<br>lemon
@@ -193,6 +205,18 @@ bip_39_word_space_6: myth proud output rude hunt attitude
 bip_39_word_space_7: myth proud output rude hunt attitude budget
 bip_39_word_space_8: myth proud output rude hunt attitude budget elevator
 bip_39_word_space_9: myth proud output rude hunt attitude budget elevator erode
+bip_39_word_underscore_1: myth
+bip_39_word_underscore_10: myth_proud_output_rude_hunt_attitude_budget_elevator_erode_matter
+bip_39_word_underscore_11: myth_proud_output_rude_hunt_attitude_budget_elevator_erode_matter_lemon
+bip_39_word_underscore_12: myth_proud_output_rude_hunt_attitude_budget_elevator_erode_matter_lemon_any
+bip_39_word_underscore_2: myth_proud
+bip_39_word_underscore_3: myth_proud_output
+bip_39_word_underscore_4: myth_proud_output_rude
+bip_39_word_underscore_5: myth_proud_output_rude_hunt
+bip_39_word_underscore_6: myth_proud_output_rude_hunt_attitude
+bip_39_word_underscore_7: myth_proud_output_rude_hunt_attitude_budget
+bip_39_word_underscore_8: myth_proud_output_rude_hunt_attitude_budget_elevator
+bip_39_word_underscore_9: myth_proud_output_rude_hunt_attitude_budget_elevator_erode
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

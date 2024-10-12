@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | square |  
+| bip_39_word_dash_10 | square-dwarf-orphan-duty-category-smooth-degree-update-wedding-exhibit |  
+| bip_39_word_dash_11 | square-dwarf-orphan-duty-category-smooth-degree-update-wedding-exhibit-gather |  
+| bip_39_word_dash_12 | square-dwarf-orphan-duty-category-smooth-degree-update-wedding-exhibit-gather-afford |  
+| bip_39_word_dash_2 | square-dwarf |  
+| bip_39_word_dash_3 | square-dwarf-orphan |  
+| bip_39_word_dash_4 | square-dwarf-orphan-duty |  
+| bip_39_word_dash_5 | square-dwarf-orphan-duty-category |  
+| bip_39_word_dash_6 | square-dwarf-orphan-duty-category-smooth |  
+| bip_39_word_dash_7 | square-dwarf-orphan-duty-category-smooth-degree |  
+| bip_39_word_dash_8 | square-dwarf-orphan-duty-category-smooth-degree-update |  
+| bip_39_word_dash_9 | square-dwarf-orphan-duty-category-smooth-degree-update-wedding |  
 | bip_39_word_new_br_1 | square |  
 | bip_39_word_new_br_10 | square<br>dwarf<br>orphan<br>duty<br>category<br>smooth<br>degree<br>update<br>wedding<br>exhibit |  
 | bip_39_word_new_br_11 | square<br>dwarf<br>orphan<br>duty<br>category<br>smooth<br>degree<br>update<br>wedding<br>exhibit<br>gather |  
@@ -147,6 +159,18 @@ wedding |
 | bip_39_word_space_7 | square dwarf orphan duty category smooth degree |  
 | bip_39_word_space_8 | square dwarf orphan duty category smooth degree update |  
 | bip_39_word_space_9 | square dwarf orphan duty category smooth degree update wedding |  
+| bip_39_word_underscore_1 | square |  
+| bip_39_word_underscore_10 | square_dwarf_orphan_duty_category_smooth_degree_update_wedding_exhibit |  
+| bip_39_word_underscore_11 | square_dwarf_orphan_duty_category_smooth_degree_update_wedding_exhibit_gather |  
+| bip_39_word_underscore_12 | square_dwarf_orphan_duty_category_smooth_degree_update_wedding_exhibit_gather_afford |  
+| bip_39_word_underscore_2 | square_dwarf |  
+| bip_39_word_underscore_3 | square_dwarf_orphan |  
+| bip_39_word_underscore_4 | square_dwarf_orphan_duty |  
+| bip_39_word_underscore_5 | square_dwarf_orphan_duty_category |  
+| bip_39_word_underscore_6 | square_dwarf_orphan_duty_category_smooth |  
+| bip_39_word_underscore_7 | square_dwarf_orphan_duty_category_smooth_degree |  
+| bip_39_word_underscore_8 | square_dwarf_orphan_duty_category_smooth_degree_update |  
+| bip_39_word_underscore_9 | square_dwarf_orphan_duty_category_smooth_degree_update_wedding |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

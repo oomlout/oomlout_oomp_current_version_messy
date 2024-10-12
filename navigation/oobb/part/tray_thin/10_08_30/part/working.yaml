@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pupil
+bip_39_word_dash_10: pupil-cabbage-upgrade-tiny-hybrid-hammer-explain-report-educate-bulb
+bip_39_word_dash_11: pupil-cabbage-upgrade-tiny-hybrid-hammer-explain-report-educate-bulb-emotion
+bip_39_word_dash_12: pupil-cabbage-upgrade-tiny-hybrid-hammer-explain-report-educate-bulb-emotion-always
+bip_39_word_dash_2: pupil-cabbage
+bip_39_word_dash_3: pupil-cabbage-upgrade
+bip_39_word_dash_4: pupil-cabbage-upgrade-tiny
+bip_39_word_dash_5: pupil-cabbage-upgrade-tiny-hybrid
+bip_39_word_dash_6: pupil-cabbage-upgrade-tiny-hybrid-hammer
+bip_39_word_dash_7: pupil-cabbage-upgrade-tiny-hybrid-hammer-explain
+bip_39_word_dash_8: pupil-cabbage-upgrade-tiny-hybrid-hammer-explain-report
+bip_39_word_dash_9: pupil-cabbage-upgrade-tiny-hybrid-hammer-explain-report-educate
 bip_39_word_new_br_1: pupil
 bip_39_word_new_br_10: pupil<br>cabbage<br>upgrade<br>tiny<br>hybrid<br>hammer<br>explain<br>report<br>educate<br>bulb
 bip_39_word_new_br_11: pupil<br>cabbage<br>upgrade<br>tiny<br>hybrid<br>hammer<br>explain<br>report<br>educate<br>bulb<br>emotion
@@ -194,6 +206,18 @@ bip_39_word_space_6: pupil cabbage upgrade tiny hybrid hammer
 bip_39_word_space_7: pupil cabbage upgrade tiny hybrid hammer explain
 bip_39_word_space_8: pupil cabbage upgrade tiny hybrid hammer explain report
 bip_39_word_space_9: pupil cabbage upgrade tiny hybrid hammer explain report educate
+bip_39_word_underscore_1: pupil
+bip_39_word_underscore_10: pupil_cabbage_upgrade_tiny_hybrid_hammer_explain_report_educate_bulb
+bip_39_word_underscore_11: pupil_cabbage_upgrade_tiny_hybrid_hammer_explain_report_educate_bulb_emotion
+bip_39_word_underscore_12: pupil_cabbage_upgrade_tiny_hybrid_hammer_explain_report_educate_bulb_emotion_always
+bip_39_word_underscore_2: pupil_cabbage
+bip_39_word_underscore_3: pupil_cabbage_upgrade
+bip_39_word_underscore_4: pupil_cabbage_upgrade_tiny
+bip_39_word_underscore_5: pupil_cabbage_upgrade_tiny_hybrid
+bip_39_word_underscore_6: pupil_cabbage_upgrade_tiny_hybrid_hammer
+bip_39_word_underscore_7: pupil_cabbage_upgrade_tiny_hybrid_hammer_explain
+bip_39_word_underscore_8: pupil_cabbage_upgrade_tiny_hybrid_hammer_explain_report
+bip_39_word_underscore_9: pupil_cabbage_upgrade_tiny_hybrid_hammer_explain_report_educate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

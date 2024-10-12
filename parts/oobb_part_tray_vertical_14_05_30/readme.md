@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bean |  
+| bip_39_word_dash_10 | bean-sort-rice-own-bean-still-asset-hybrid-disorder-know |  
+| bip_39_word_dash_11 | bean-sort-rice-own-bean-still-asset-hybrid-disorder-know-dad |  
+| bip_39_word_dash_12 | bean-sort-rice-own-bean-still-asset-hybrid-disorder-know-dad-achieve |  
+| bip_39_word_dash_2 | bean-sort |  
+| bip_39_word_dash_3 | bean-sort-rice |  
+| bip_39_word_dash_4 | bean-sort-rice-own |  
+| bip_39_word_dash_5 | bean-sort-rice-own-bean |  
+| bip_39_word_dash_6 | bean-sort-rice-own-bean-still |  
+| bip_39_word_dash_7 | bean-sort-rice-own-bean-still-asset |  
+| bip_39_word_dash_8 | bean-sort-rice-own-bean-still-asset-hybrid |  
+| bip_39_word_dash_9 | bean-sort-rice-own-bean-still-asset-hybrid-disorder |  
 | bip_39_word_new_br_1 | bean |  
 | bip_39_word_new_br_10 | bean<br>sort<br>rice<br>own<br>bean<br>still<br>asset<br>hybrid<br>disorder<br>know |  
 | bip_39_word_new_br_11 | bean<br>sort<br>rice<br>own<br>bean<br>still<br>asset<br>hybrid<br>disorder<br>know<br>dad |  
@@ -147,6 +159,18 @@ disorder |
 | bip_39_word_space_7 | bean sort rice own bean still asset |  
 | bip_39_word_space_8 | bean sort rice own bean still asset hybrid |  
 | bip_39_word_space_9 | bean sort rice own bean still asset hybrid disorder |  
+| bip_39_word_underscore_1 | bean |  
+| bip_39_word_underscore_10 | bean_sort_rice_own_bean_still_asset_hybrid_disorder_know |  
+| bip_39_word_underscore_11 | bean_sort_rice_own_bean_still_asset_hybrid_disorder_know_dad |  
+| bip_39_word_underscore_12 | bean_sort_rice_own_bean_still_asset_hybrid_disorder_know_dad_achieve |  
+| bip_39_word_underscore_2 | bean_sort |  
+| bip_39_word_underscore_3 | bean_sort_rice |  
+| bip_39_word_underscore_4 | bean_sort_rice_own |  
+| bip_39_word_underscore_5 | bean_sort_rice_own_bean |  
+| bip_39_word_underscore_6 | bean_sort_rice_own_bean_still |  
+| bip_39_word_underscore_7 | bean_sort_rice_own_bean_still_asset |  
+| bip_39_word_underscore_8 | bean_sort_rice_own_bean_still_asset_hybrid |  
+| bip_39_word_underscore_9 | bean_sort_rice_own_bean_still_asset_hybrid_disorder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

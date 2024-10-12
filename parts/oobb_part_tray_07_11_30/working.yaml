@@ -1,3 +1,15 @@
+bip_39_word_dash_1: awesome
+bip_39_word_dash_10: awesome-session-husband-silver-into-across-upper-lawn-absorb-turtle
+bip_39_word_dash_11: awesome-session-husband-silver-into-across-upper-lawn-absorb-turtle-cigar
+bip_39_word_dash_12: awesome-session-husband-silver-into-across-upper-lawn-absorb-turtle-cigar-ask
+bip_39_word_dash_2: awesome-session
+bip_39_word_dash_3: awesome-session-husband
+bip_39_word_dash_4: awesome-session-husband-silver
+bip_39_word_dash_5: awesome-session-husband-silver-into
+bip_39_word_dash_6: awesome-session-husband-silver-into-across
+bip_39_word_dash_7: awesome-session-husband-silver-into-across-upper
+bip_39_word_dash_8: awesome-session-husband-silver-into-across-upper-lawn
+bip_39_word_dash_9: awesome-session-husband-silver-into-across-upper-lawn-absorb
 bip_39_word_new_br_1: awesome
 bip_39_word_new_br_10: awesome<br>session<br>husband<br>silver<br>into<br>across<br>upper<br>lawn<br>absorb<br>turtle
 bip_39_word_new_br_11: awesome<br>session<br>husband<br>silver<br>into<br>across<br>upper<br>lawn<br>absorb<br>turtle<br>cigar
@@ -194,6 +206,18 @@ bip_39_word_space_6: awesome session husband silver into across
 bip_39_word_space_7: awesome session husband silver into across upper
 bip_39_word_space_8: awesome session husband silver into across upper lawn
 bip_39_word_space_9: awesome session husband silver into across upper lawn absorb
+bip_39_word_underscore_1: awesome
+bip_39_word_underscore_10: awesome_session_husband_silver_into_across_upper_lawn_absorb_turtle
+bip_39_word_underscore_11: awesome_session_husband_silver_into_across_upper_lawn_absorb_turtle_cigar
+bip_39_word_underscore_12: awesome_session_husband_silver_into_across_upper_lawn_absorb_turtle_cigar_ask
+bip_39_word_underscore_2: awesome_session
+bip_39_word_underscore_3: awesome_session_husband
+bip_39_word_underscore_4: awesome_session_husband_silver
+bip_39_word_underscore_5: awesome_session_husband_silver_into
+bip_39_word_underscore_6: awesome_session_husband_silver_into_across
+bip_39_word_underscore_7: awesome_session_husband_silver_into_across_upper
+bip_39_word_underscore_8: awesome_session_husband_silver_into_across_upper_lawn
+bip_39_word_underscore_9: awesome_session_husband_silver_into_across_upper_lawn_absorb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

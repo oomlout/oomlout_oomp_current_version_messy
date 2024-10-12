@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hat |  
+| bip_39_word_dash_10 | hat-man-desk-hope-play-curtain-grape-carpet-ketchup-lesson |  
+| bip_39_word_dash_11 | hat-man-desk-hope-play-curtain-grape-carpet-ketchup-lesson-half |  
+| bip_39_word_dash_12 | hat-man-desk-hope-play-curtain-grape-carpet-ketchup-lesson-half-angle |  
+| bip_39_word_dash_2 | hat-man |  
+| bip_39_word_dash_3 | hat-man-desk |  
+| bip_39_word_dash_4 | hat-man-desk-hope |  
+| bip_39_word_dash_5 | hat-man-desk-hope-play |  
+| bip_39_word_dash_6 | hat-man-desk-hope-play-curtain |  
+| bip_39_word_dash_7 | hat-man-desk-hope-play-curtain-grape |  
+| bip_39_word_dash_8 | hat-man-desk-hope-play-curtain-grape-carpet |  
+| bip_39_word_dash_9 | hat-man-desk-hope-play-curtain-grape-carpet-ketchup |  
 | bip_39_word_new_br_1 | hat |  
 | bip_39_word_new_br_10 | hat<br>man<br>desk<br>hope<br>play<br>curtain<br>grape<br>carpet<br>ketchup<br>lesson |  
 | bip_39_word_new_br_11 | hat<br>man<br>desk<br>hope<br>play<br>curtain<br>grape<br>carpet<br>ketchup<br>lesson<br>half |  
@@ -147,6 +159,18 @@ ketchup |
 | bip_39_word_space_7 | hat man desk hope play curtain grape |  
 | bip_39_word_space_8 | hat man desk hope play curtain grape carpet |  
 | bip_39_word_space_9 | hat man desk hope play curtain grape carpet ketchup |  
+| bip_39_word_underscore_1 | hat |  
+| bip_39_word_underscore_10 | hat_man_desk_hope_play_curtain_grape_carpet_ketchup_lesson |  
+| bip_39_word_underscore_11 | hat_man_desk_hope_play_curtain_grape_carpet_ketchup_lesson_half |  
+| bip_39_word_underscore_12 | hat_man_desk_hope_play_curtain_grape_carpet_ketchup_lesson_half_angle |  
+| bip_39_word_underscore_2 | hat_man |  
+| bip_39_word_underscore_3 | hat_man_desk |  
+| bip_39_word_underscore_4 | hat_man_desk_hope |  
+| bip_39_word_underscore_5 | hat_man_desk_hope_play |  
+| bip_39_word_underscore_6 | hat_man_desk_hope_play_curtain |  
+| bip_39_word_underscore_7 | hat_man_desk_hope_play_curtain_grape |  
+| bip_39_word_underscore_8 | hat_man_desk_hope_play_curtain_grape_carpet |  
+| bip_39_word_underscore_9 | hat_man_desk_hope_play_curtain_grape_carpet_ketchup |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

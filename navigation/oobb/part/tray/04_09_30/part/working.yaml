@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rate
+bip_39_word_dash_10: rate-person-enforce-flat-impact-public-prize-problem-exit-primary
+bip_39_word_dash_11: rate-person-enforce-flat-impact-public-prize-problem-exit-primary-naive
+bip_39_word_dash_12: rate-person-enforce-flat-impact-public-prize-problem-exit-primary-naive-animal
+bip_39_word_dash_2: rate-person
+bip_39_word_dash_3: rate-person-enforce
+bip_39_word_dash_4: rate-person-enforce-flat
+bip_39_word_dash_5: rate-person-enforce-flat-impact
+bip_39_word_dash_6: rate-person-enforce-flat-impact-public
+bip_39_word_dash_7: rate-person-enforce-flat-impact-public-prize
+bip_39_word_dash_8: rate-person-enforce-flat-impact-public-prize-problem
+bip_39_word_dash_9: rate-person-enforce-flat-impact-public-prize-problem-exit
 bip_39_word_new_br_1: rate
 bip_39_word_new_br_10: rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem<br>exit<br>primary
 bip_39_word_new_br_11: rate<br>person<br>enforce<br>flat<br>impact<br>public<br>prize<br>problem<br>exit<br>primary<br>naive
@@ -193,6 +205,18 @@ bip_39_word_space_6: rate person enforce flat impact public
 bip_39_word_space_7: rate person enforce flat impact public prize
 bip_39_word_space_8: rate person enforce flat impact public prize problem
 bip_39_word_space_9: rate person enforce flat impact public prize problem exit
+bip_39_word_underscore_1: rate
+bip_39_word_underscore_10: rate_person_enforce_flat_impact_public_prize_problem_exit_primary
+bip_39_word_underscore_11: rate_person_enforce_flat_impact_public_prize_problem_exit_primary_naive
+bip_39_word_underscore_12: rate_person_enforce_flat_impact_public_prize_problem_exit_primary_naive_animal
+bip_39_word_underscore_2: rate_person
+bip_39_word_underscore_3: rate_person_enforce
+bip_39_word_underscore_4: rate_person_enforce_flat
+bip_39_word_underscore_5: rate_person_enforce_flat_impact
+bip_39_word_underscore_6: rate_person_enforce_flat_impact_public
+bip_39_word_underscore_7: rate_person_enforce_flat_impact_public_prize
+bip_39_word_underscore_8: rate_person_enforce_flat_impact_public_prize_problem
+bip_39_word_underscore_9: rate_person_enforce_flat_impact_public_prize_problem_exit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

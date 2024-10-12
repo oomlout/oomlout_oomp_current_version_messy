@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | social |  
+| bip_39_word_dash_10 | social-title-thrive-eyebrow-garlic-daughter-asthma-bleak-maple-lobster |  
+| bip_39_word_dash_11 | social-title-thrive-eyebrow-garlic-daughter-asthma-bleak-maple-lobster-glass |  
+| bip_39_word_dash_12 | social-title-thrive-eyebrow-garlic-daughter-asthma-bleak-maple-lobster-glass-also |  
+| bip_39_word_dash_2 | social-title |  
+| bip_39_word_dash_3 | social-title-thrive |  
+| bip_39_word_dash_4 | social-title-thrive-eyebrow |  
+| bip_39_word_dash_5 | social-title-thrive-eyebrow-garlic |  
+| bip_39_word_dash_6 | social-title-thrive-eyebrow-garlic-daughter |  
+| bip_39_word_dash_7 | social-title-thrive-eyebrow-garlic-daughter-asthma |  
+| bip_39_word_dash_8 | social-title-thrive-eyebrow-garlic-daughter-asthma-bleak |  
+| bip_39_word_dash_9 | social-title-thrive-eyebrow-garlic-daughter-asthma-bleak-maple |  
 | bip_39_word_new_br_1 | social |  
 | bip_39_word_new_br_10 | social<br>title<br>thrive<br>eyebrow<br>garlic<br>daughter<br>asthma<br>bleak<br>maple<br>lobster |  
 | bip_39_word_new_br_11 | social<br>title<br>thrive<br>eyebrow<br>garlic<br>daughter<br>asthma<br>bleak<br>maple<br>lobster<br>glass |  
@@ -147,6 +159,18 @@ maple |
 | bip_39_word_space_7 | social title thrive eyebrow garlic daughter asthma |  
 | bip_39_word_space_8 | social title thrive eyebrow garlic daughter asthma bleak |  
 | bip_39_word_space_9 | social title thrive eyebrow garlic daughter asthma bleak maple |  
+| bip_39_word_underscore_1 | social |  
+| bip_39_word_underscore_10 | social_title_thrive_eyebrow_garlic_daughter_asthma_bleak_maple_lobster |  
+| bip_39_word_underscore_11 | social_title_thrive_eyebrow_garlic_daughter_asthma_bleak_maple_lobster_glass |  
+| bip_39_word_underscore_12 | social_title_thrive_eyebrow_garlic_daughter_asthma_bleak_maple_lobster_glass_also |  
+| bip_39_word_underscore_2 | social_title |  
+| bip_39_word_underscore_3 | social_title_thrive |  
+| bip_39_word_underscore_4 | social_title_thrive_eyebrow |  
+| bip_39_word_underscore_5 | social_title_thrive_eyebrow_garlic |  
+| bip_39_word_underscore_6 | social_title_thrive_eyebrow_garlic_daughter |  
+| bip_39_word_underscore_7 | social_title_thrive_eyebrow_garlic_daughter_asthma |  
+| bip_39_word_underscore_8 | social_title_thrive_eyebrow_garlic_daughter_asthma_bleak |  
+| bip_39_word_underscore_9 | social_title_thrive_eyebrow_garlic_daughter_asthma_bleak_maple |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

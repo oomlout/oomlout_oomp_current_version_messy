@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exile
+bip_39_word_dash_10: exile-rescue-trouble-purse-drop-inmate-carbon-family-trip-chair
+bip_39_word_dash_11: exile-rescue-trouble-purse-drop-inmate-carbon-family-trip-chair-ignore
+bip_39_word_dash_12: exile-rescue-trouble-purse-drop-inmate-carbon-family-trip-chair-ignore-aim
+bip_39_word_dash_2: exile-rescue
+bip_39_word_dash_3: exile-rescue-trouble
+bip_39_word_dash_4: exile-rescue-trouble-purse
+bip_39_word_dash_5: exile-rescue-trouble-purse-drop
+bip_39_word_dash_6: exile-rescue-trouble-purse-drop-inmate
+bip_39_word_dash_7: exile-rescue-trouble-purse-drop-inmate-carbon
+bip_39_word_dash_8: exile-rescue-trouble-purse-drop-inmate-carbon-family
+bip_39_word_dash_9: exile-rescue-trouble-purse-drop-inmate-carbon-family-trip
 bip_39_word_new_br_1: exile
 bip_39_word_new_br_10: exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair
 bip_39_word_new_br_11: exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair<br>ignore
@@ -193,6 +205,18 @@ bip_39_word_space_6: exile rescue trouble purse drop inmate
 bip_39_word_space_7: exile rescue trouble purse drop inmate carbon
 bip_39_word_space_8: exile rescue trouble purse drop inmate carbon family
 bip_39_word_space_9: exile rescue trouble purse drop inmate carbon family trip
+bip_39_word_underscore_1: exile
+bip_39_word_underscore_10: exile_rescue_trouble_purse_drop_inmate_carbon_family_trip_chair
+bip_39_word_underscore_11: exile_rescue_trouble_purse_drop_inmate_carbon_family_trip_chair_ignore
+bip_39_word_underscore_12: exile_rescue_trouble_purse_drop_inmate_carbon_family_trip_chair_ignore_aim
+bip_39_word_underscore_2: exile_rescue
+bip_39_word_underscore_3: exile_rescue_trouble
+bip_39_word_underscore_4: exile_rescue_trouble_purse
+bip_39_word_underscore_5: exile_rescue_trouble_purse_drop
+bip_39_word_underscore_6: exile_rescue_trouble_purse_drop_inmate
+bip_39_word_underscore_7: exile_rescue_trouble_purse_drop_inmate_carbon
+bip_39_word_underscore_8: exile_rescue_trouble_purse_drop_inmate_carbon_family
+bip_39_word_underscore_9: exile_rescue_trouble_purse_drop_inmate_carbon_family_trip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sell
+bip_39_word_dash_10: sell-element-aspect-episode-sustain-flat-sketch-retreat-airport-bounce
+bip_39_word_dash_11: sell-element-aspect-episode-sustain-flat-sketch-retreat-airport-bounce-feel
+bip_39_word_dash_12: sell-element-aspect-episode-sustain-flat-sketch-retreat-airport-bounce-feel-arrange
+bip_39_word_dash_2: sell-element
+bip_39_word_dash_3: sell-element-aspect
+bip_39_word_dash_4: sell-element-aspect-episode
+bip_39_word_dash_5: sell-element-aspect-episode-sustain
+bip_39_word_dash_6: sell-element-aspect-episode-sustain-flat
+bip_39_word_dash_7: sell-element-aspect-episode-sustain-flat-sketch
+bip_39_word_dash_8: sell-element-aspect-episode-sustain-flat-sketch-retreat
+bip_39_word_dash_9: sell-element-aspect-episode-sustain-flat-sketch-retreat-airport
 bip_39_word_new_br_1: sell
 bip_39_word_new_br_10: sell<br>element<br>aspect<br>episode<br>sustain<br>flat<br>sketch<br>retreat<br>airport<br>bounce
 bip_39_word_new_br_11: sell<br>element<br>aspect<br>episode<br>sustain<br>flat<br>sketch<br>retreat<br>airport<br>bounce<br>feel
@@ -194,6 +206,18 @@ bip_39_word_space_6: sell element aspect episode sustain flat
 bip_39_word_space_7: sell element aspect episode sustain flat sketch
 bip_39_word_space_8: sell element aspect episode sustain flat sketch retreat
 bip_39_word_space_9: sell element aspect episode sustain flat sketch retreat airport
+bip_39_word_underscore_1: sell
+bip_39_word_underscore_10: sell_element_aspect_episode_sustain_flat_sketch_retreat_airport_bounce
+bip_39_word_underscore_11: sell_element_aspect_episode_sustain_flat_sketch_retreat_airport_bounce_feel
+bip_39_word_underscore_12: sell_element_aspect_episode_sustain_flat_sketch_retreat_airport_bounce_feel_arrange
+bip_39_word_underscore_2: sell_element
+bip_39_word_underscore_3: sell_element_aspect
+bip_39_word_underscore_4: sell_element_aspect_episode
+bip_39_word_underscore_5: sell_element_aspect_episode_sustain
+bip_39_word_underscore_6: sell_element_aspect_episode_sustain_flat
+bip_39_word_underscore_7: sell_element_aspect_episode_sustain_flat_sketch
+bip_39_word_underscore_8: sell_element_aspect_episode_sustain_flat_sketch_retreat
+bip_39_word_underscore_9: sell_element_aspect_episode_sustain_flat_sketch_retreat_airport
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

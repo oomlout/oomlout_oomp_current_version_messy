@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bitter |  
+| bip_39_word_dash_10 | bitter-run-try-husband-liar-behave-screen-settle-glue-mimic |  
+| bip_39_word_dash_11 | bitter-run-try-husband-liar-behave-screen-settle-glue-mimic-chair |  
+| bip_39_word_dash_12 | bitter-run-try-husband-liar-behave-screen-settle-glue-mimic-chair-atom |  
+| bip_39_word_dash_2 | bitter-run |  
+| bip_39_word_dash_3 | bitter-run-try |  
+| bip_39_word_dash_4 | bitter-run-try-husband |  
+| bip_39_word_dash_5 | bitter-run-try-husband-liar |  
+| bip_39_word_dash_6 | bitter-run-try-husband-liar-behave |  
+| bip_39_word_dash_7 | bitter-run-try-husband-liar-behave-screen |  
+| bip_39_word_dash_8 | bitter-run-try-husband-liar-behave-screen-settle |  
+| bip_39_word_dash_9 | bitter-run-try-husband-liar-behave-screen-settle-glue |  
 | bip_39_word_new_br_1 | bitter |  
 | bip_39_word_new_br_10 | bitter<br>run<br>try<br>husband<br>liar<br>behave<br>screen<br>settle<br>glue<br>mimic |  
 | bip_39_word_new_br_11 | bitter<br>run<br>try<br>husband<br>liar<br>behave<br>screen<br>settle<br>glue<br>mimic<br>chair |  
@@ -147,6 +159,18 @@ glue |
 | bip_39_word_space_7 | bitter run try husband liar behave screen |  
 | bip_39_word_space_8 | bitter run try husband liar behave screen settle |  
 | bip_39_word_space_9 | bitter run try husband liar behave screen settle glue |  
+| bip_39_word_underscore_1 | bitter |  
+| bip_39_word_underscore_10 | bitter_run_try_husband_liar_behave_screen_settle_glue_mimic |  
+| bip_39_word_underscore_11 | bitter_run_try_husband_liar_behave_screen_settle_glue_mimic_chair |  
+| bip_39_word_underscore_12 | bitter_run_try_husband_liar_behave_screen_settle_glue_mimic_chair_atom |  
+| bip_39_word_underscore_2 | bitter_run |  
+| bip_39_word_underscore_3 | bitter_run_try |  
+| bip_39_word_underscore_4 | bitter_run_try_husband |  
+| bip_39_word_underscore_5 | bitter_run_try_husband_liar |  
+| bip_39_word_underscore_6 | bitter_run_try_husband_liar_behave |  
+| bip_39_word_underscore_7 | bitter_run_try_husband_liar_behave_screen |  
+| bip_39_word_underscore_8 | bitter_run_try_husband_liar_behave_screen_settle |  
+| bip_39_word_underscore_9 | bitter_run_try_husband_liar_behave_screen_settle_glue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

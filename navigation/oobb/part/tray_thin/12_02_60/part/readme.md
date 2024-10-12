@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | member |  
+| bip_39_word_dash_10 | member-harbor-globe-move-holiday-empower-tiger-age-better-goddess |  
+| bip_39_word_dash_11 | member-harbor-globe-move-holiday-empower-tiger-age-better-goddess-armed |  
+| bip_39_word_dash_12 | member-harbor-globe-move-holiday-empower-tiger-age-better-goddess-armed-assist |  
+| bip_39_word_dash_2 | member-harbor |  
+| bip_39_word_dash_3 | member-harbor-globe |  
+| bip_39_word_dash_4 | member-harbor-globe-move |  
+| bip_39_word_dash_5 | member-harbor-globe-move-holiday |  
+| bip_39_word_dash_6 | member-harbor-globe-move-holiday-empower |  
+| bip_39_word_dash_7 | member-harbor-globe-move-holiday-empower-tiger |  
+| bip_39_word_dash_8 | member-harbor-globe-move-holiday-empower-tiger-age |  
+| bip_39_word_dash_9 | member-harbor-globe-move-holiday-empower-tiger-age-better |  
 | bip_39_word_new_br_1 | member |  
 | bip_39_word_new_br_10 | member<br>harbor<br>globe<br>move<br>holiday<br>empower<br>tiger<br>age<br>better<br>goddess |  
 | bip_39_word_new_br_11 | member<br>harbor<br>globe<br>move<br>holiday<br>empower<br>tiger<br>age<br>better<br>goddess<br>armed |  
@@ -147,6 +159,18 @@ better |
 | bip_39_word_space_7 | member harbor globe move holiday empower tiger |  
 | bip_39_word_space_8 | member harbor globe move holiday empower tiger age |  
 | bip_39_word_space_9 | member harbor globe move holiday empower tiger age better |  
+| bip_39_word_underscore_1 | member |  
+| bip_39_word_underscore_10 | member_harbor_globe_move_holiday_empower_tiger_age_better_goddess |  
+| bip_39_word_underscore_11 | member_harbor_globe_move_holiday_empower_tiger_age_better_goddess_armed |  
+| bip_39_word_underscore_12 | member_harbor_globe_move_holiday_empower_tiger_age_better_goddess_armed_assist |  
+| bip_39_word_underscore_2 | member_harbor |  
+| bip_39_word_underscore_3 | member_harbor_globe |  
+| bip_39_word_underscore_4 | member_harbor_globe_move |  
+| bip_39_word_underscore_5 | member_harbor_globe_move_holiday |  
+| bip_39_word_underscore_6 | member_harbor_globe_move_holiday_empower |  
+| bip_39_word_underscore_7 | member_harbor_globe_move_holiday_empower_tiger |  
+| bip_39_word_underscore_8 | member_harbor_globe_move_holiday_empower_tiger_age |  
+| bip_39_word_underscore_9 | member_harbor_globe_move_holiday_empower_tiger_age_better |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

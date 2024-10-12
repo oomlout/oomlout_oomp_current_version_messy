@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | horse |  
+| bip_39_word_dash_10 | horse-emotion-fade-elder-unknown-hurdle-lizard-sting-animal-text |  
+| bip_39_word_dash_11 | horse-emotion-fade-elder-unknown-hurdle-lizard-sting-animal-text-loyal |  
+| bip_39_word_dash_12 | horse-emotion-fade-elder-unknown-hurdle-lizard-sting-animal-text-loyal-advance |  
+| bip_39_word_dash_2 | horse-emotion |  
+| bip_39_word_dash_3 | horse-emotion-fade |  
+| bip_39_word_dash_4 | horse-emotion-fade-elder |  
+| bip_39_word_dash_5 | horse-emotion-fade-elder-unknown |  
+| bip_39_word_dash_6 | horse-emotion-fade-elder-unknown-hurdle |  
+| bip_39_word_dash_7 | horse-emotion-fade-elder-unknown-hurdle-lizard |  
+| bip_39_word_dash_8 | horse-emotion-fade-elder-unknown-hurdle-lizard-sting |  
+| bip_39_word_dash_9 | horse-emotion-fade-elder-unknown-hurdle-lizard-sting-animal |  
 | bip_39_word_new_br_1 | horse |  
 | bip_39_word_new_br_10 | horse<br>emotion<br>fade<br>elder<br>unknown<br>hurdle<br>lizard<br>sting<br>animal<br>text |  
 | bip_39_word_new_br_11 | horse<br>emotion<br>fade<br>elder<br>unknown<br>hurdle<br>lizard<br>sting<br>animal<br>text<br>loyal |  
@@ -147,6 +159,18 @@ animal |
 | bip_39_word_space_7 | horse emotion fade elder unknown hurdle lizard |  
 | bip_39_word_space_8 | horse emotion fade elder unknown hurdle lizard sting |  
 | bip_39_word_space_9 | horse emotion fade elder unknown hurdle lizard sting animal |  
+| bip_39_word_underscore_1 | horse |  
+| bip_39_word_underscore_10 | horse_emotion_fade_elder_unknown_hurdle_lizard_sting_animal_text |  
+| bip_39_word_underscore_11 | horse_emotion_fade_elder_unknown_hurdle_lizard_sting_animal_text_loyal |  
+| bip_39_word_underscore_12 | horse_emotion_fade_elder_unknown_hurdle_lizard_sting_animal_text_loyal_advance |  
+| bip_39_word_underscore_2 | horse_emotion |  
+| bip_39_word_underscore_3 | horse_emotion_fade |  
+| bip_39_word_underscore_4 | horse_emotion_fade_elder |  
+| bip_39_word_underscore_5 | horse_emotion_fade_elder_unknown |  
+| bip_39_word_underscore_6 | horse_emotion_fade_elder_unknown_hurdle |  
+| bip_39_word_underscore_7 | horse_emotion_fade_elder_unknown_hurdle_lizard |  
+| bip_39_word_underscore_8 | horse_emotion_fade_elder_unknown_hurdle_lizard_sting |  
+| bip_39_word_underscore_9 | horse_emotion_fade_elder_unknown_hurdle_lizard_sting_animal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clutch |  
+| bip_39_word_dash_10 | clutch-fetch-lawn-select-mouse-hood-dash-sand-frown-guide |  
+| bip_39_word_dash_11 | clutch-fetch-lawn-select-mouse-hood-dash-sand-frown-guide-canal |  
+| bip_39_word_dash_12 | clutch-fetch-lawn-select-mouse-hood-dash-sand-frown-guide-canal-ask |  
+| bip_39_word_dash_2 | clutch-fetch |  
+| bip_39_word_dash_3 | clutch-fetch-lawn |  
+| bip_39_word_dash_4 | clutch-fetch-lawn-select |  
+| bip_39_word_dash_5 | clutch-fetch-lawn-select-mouse |  
+| bip_39_word_dash_6 | clutch-fetch-lawn-select-mouse-hood |  
+| bip_39_word_dash_7 | clutch-fetch-lawn-select-mouse-hood-dash |  
+| bip_39_word_dash_8 | clutch-fetch-lawn-select-mouse-hood-dash-sand |  
+| bip_39_word_dash_9 | clutch-fetch-lawn-select-mouse-hood-dash-sand-frown |  
 | bip_39_word_new_br_1 | clutch |  
 | bip_39_word_new_br_10 | clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand<br>frown<br>guide |  
 | bip_39_word_new_br_11 | clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand<br>frown<br>guide<br>canal |  
@@ -147,6 +159,18 @@ frown |
 | bip_39_word_space_7 | clutch fetch lawn select mouse hood dash |  
 | bip_39_word_space_8 | clutch fetch lawn select mouse hood dash sand |  
 | bip_39_word_space_9 | clutch fetch lawn select mouse hood dash sand frown |  
+| bip_39_word_underscore_1 | clutch |  
+| bip_39_word_underscore_10 | clutch_fetch_lawn_select_mouse_hood_dash_sand_frown_guide |  
+| bip_39_word_underscore_11 | clutch_fetch_lawn_select_mouse_hood_dash_sand_frown_guide_canal |  
+| bip_39_word_underscore_12 | clutch_fetch_lawn_select_mouse_hood_dash_sand_frown_guide_canal_ask |  
+| bip_39_word_underscore_2 | clutch_fetch |  
+| bip_39_word_underscore_3 | clutch_fetch_lawn |  
+| bip_39_word_underscore_4 | clutch_fetch_lawn_select |  
+| bip_39_word_underscore_5 | clutch_fetch_lawn_select_mouse |  
+| bip_39_word_underscore_6 | clutch_fetch_lawn_select_mouse_hood |  
+| bip_39_word_underscore_7 | clutch_fetch_lawn_select_mouse_hood_dash |  
+| bip_39_word_underscore_8 | clutch_fetch_lawn_select_mouse_hood_dash_sand |  
+| bip_39_word_underscore_9 | clutch_fetch_lawn_select_mouse_hood_dash_sand_frown |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

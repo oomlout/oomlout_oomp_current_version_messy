@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | evoke |  
+| bip_39_word_dash_10 | evoke-until-artefact-female-glare-ensure-club-brand-bike-trigger |  
+| bip_39_word_dash_11 | evoke-until-artefact-female-glare-ensure-club-brand-bike-trigger-luxury |  
+| bip_39_word_dash_12 | evoke-until-artefact-female-glare-ensure-club-brand-bike-trigger-luxury-angry |  
+| bip_39_word_dash_2 | evoke-until |  
+| bip_39_word_dash_3 | evoke-until-artefact |  
+| bip_39_word_dash_4 | evoke-until-artefact-female |  
+| bip_39_word_dash_5 | evoke-until-artefact-female-glare |  
+| bip_39_word_dash_6 | evoke-until-artefact-female-glare-ensure |  
+| bip_39_word_dash_7 | evoke-until-artefact-female-glare-ensure-club |  
+| bip_39_word_dash_8 | evoke-until-artefact-female-glare-ensure-club-brand |  
+| bip_39_word_dash_9 | evoke-until-artefact-female-glare-ensure-club-brand-bike |  
 | bip_39_word_new_br_1 | evoke |  
 | bip_39_word_new_br_10 | evoke<br>until<br>artefact<br>female<br>glare<br>ensure<br>club<br>brand<br>bike<br>trigger |  
 | bip_39_word_new_br_11 | evoke<br>until<br>artefact<br>female<br>glare<br>ensure<br>club<br>brand<br>bike<br>trigger<br>luxury |  
@@ -147,6 +159,18 @@ bike |
 | bip_39_word_space_7 | evoke until artefact female glare ensure club |  
 | bip_39_word_space_8 | evoke until artefact female glare ensure club brand |  
 | bip_39_word_space_9 | evoke until artefact female glare ensure club brand bike |  
+| bip_39_word_underscore_1 | evoke |  
+| bip_39_word_underscore_10 | evoke_until_artefact_female_glare_ensure_club_brand_bike_trigger |  
+| bip_39_word_underscore_11 | evoke_until_artefact_female_glare_ensure_club_brand_bike_trigger_luxury |  
+| bip_39_word_underscore_12 | evoke_until_artefact_female_glare_ensure_club_brand_bike_trigger_luxury_angry |  
+| bip_39_word_underscore_2 | evoke_until |  
+| bip_39_word_underscore_3 | evoke_until_artefact |  
+| bip_39_word_underscore_4 | evoke_until_artefact_female |  
+| bip_39_word_underscore_5 | evoke_until_artefact_female_glare |  
+| bip_39_word_underscore_6 | evoke_until_artefact_female_glare_ensure |  
+| bip_39_word_underscore_7 | evoke_until_artefact_female_glare_ensure_club |  
+| bip_39_word_underscore_8 | evoke_until_artefact_female_glare_ensure_club_brand |  
+| bip_39_word_underscore_9 | evoke_until_artefact_female_glare_ensure_club_brand_bike |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

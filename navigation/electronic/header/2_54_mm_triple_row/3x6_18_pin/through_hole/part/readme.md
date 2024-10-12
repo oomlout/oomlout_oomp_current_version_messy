@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clean |  
+| bip_39_word_dash_10 | clean-lion-large-fever-tool-identify-eyebrow-olive-pave-minor |  
+| bip_39_word_dash_11 | clean-lion-large-fever-tool-identify-eyebrow-olive-pave-minor-mass |  
+| bip_39_word_dash_12 | clean-lion-large-fever-tool-identify-eyebrow-olive-pave-minor-mass-all |  
+| bip_39_word_dash_2 | clean-lion |  
+| bip_39_word_dash_3 | clean-lion-large |  
+| bip_39_word_dash_4 | clean-lion-large-fever |  
+| bip_39_word_dash_5 | clean-lion-large-fever-tool |  
+| bip_39_word_dash_6 | clean-lion-large-fever-tool-identify |  
+| bip_39_word_dash_7 | clean-lion-large-fever-tool-identify-eyebrow |  
+| bip_39_word_dash_8 | clean-lion-large-fever-tool-identify-eyebrow-olive |  
+| bip_39_word_dash_9 | clean-lion-large-fever-tool-identify-eyebrow-olive-pave |  
 | bip_39_word_new_br_1 | clean |  
 | bip_39_word_new_br_10 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor |  
 | bip_39_word_new_br_11 | clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor<br>mass |  
@@ -147,6 +159,18 @@ pave |
 | bip_39_word_space_7 | clean lion large fever tool identify eyebrow |  
 | bip_39_word_space_8 | clean lion large fever tool identify eyebrow olive |  
 | bip_39_word_space_9 | clean lion large fever tool identify eyebrow olive pave |  
+| bip_39_word_underscore_1 | clean |  
+| bip_39_word_underscore_10 | clean_lion_large_fever_tool_identify_eyebrow_olive_pave_minor |  
+| bip_39_word_underscore_11 | clean_lion_large_fever_tool_identify_eyebrow_olive_pave_minor_mass |  
+| bip_39_word_underscore_12 | clean_lion_large_fever_tool_identify_eyebrow_olive_pave_minor_mass_all |  
+| bip_39_word_underscore_2 | clean_lion |  
+| bip_39_word_underscore_3 | clean_lion_large |  
+| bip_39_word_underscore_4 | clean_lion_large_fever |  
+| bip_39_word_underscore_5 | clean_lion_large_fever_tool |  
+| bip_39_word_underscore_6 | clean_lion_large_fever_tool_identify |  
+| bip_39_word_underscore_7 | clean_lion_large_fever_tool_identify_eyebrow |  
+| bip_39_word_underscore_8 | clean_lion_large_fever_tool_identify_eyebrow_olive |  
+| bip_39_word_underscore_9 | clean_lion_large_fever_tool_identify_eyebrow_olive_pave |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

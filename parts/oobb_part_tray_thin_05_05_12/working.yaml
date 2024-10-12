@@ -1,3 +1,15 @@
+bip_39_word_dash_1: denial
+bip_39_word_dash_10: denial-puppy-cargo-urge-shine-unfold-bitter-wild-decorate-kiwi
+bip_39_word_dash_11: denial-puppy-cargo-urge-shine-unfold-bitter-wild-decorate-kiwi-frame
+bip_39_word_dash_12: denial-puppy-cargo-urge-shine-unfold-bitter-wild-decorate-kiwi-frame-autumn
+bip_39_word_dash_2: denial-puppy
+bip_39_word_dash_3: denial-puppy-cargo
+bip_39_word_dash_4: denial-puppy-cargo-urge
+bip_39_word_dash_5: denial-puppy-cargo-urge-shine
+bip_39_word_dash_6: denial-puppy-cargo-urge-shine-unfold
+bip_39_word_dash_7: denial-puppy-cargo-urge-shine-unfold-bitter
+bip_39_word_dash_8: denial-puppy-cargo-urge-shine-unfold-bitter-wild
+bip_39_word_dash_9: denial-puppy-cargo-urge-shine-unfold-bitter-wild-decorate
 bip_39_word_new_br_1: denial
 bip_39_word_new_br_10: denial<br>puppy<br>cargo<br>urge<br>shine<br>unfold<br>bitter<br>wild<br>decorate<br>kiwi
 bip_39_word_new_br_11: denial<br>puppy<br>cargo<br>urge<br>shine<br>unfold<br>bitter<br>wild<br>decorate<br>kiwi<br>frame
@@ -193,6 +205,18 @@ bip_39_word_space_6: denial puppy cargo urge shine unfold
 bip_39_word_space_7: denial puppy cargo urge shine unfold bitter
 bip_39_word_space_8: denial puppy cargo urge shine unfold bitter wild
 bip_39_word_space_9: denial puppy cargo urge shine unfold bitter wild decorate
+bip_39_word_underscore_1: denial
+bip_39_word_underscore_10: denial_puppy_cargo_urge_shine_unfold_bitter_wild_decorate_kiwi
+bip_39_word_underscore_11: denial_puppy_cargo_urge_shine_unfold_bitter_wild_decorate_kiwi_frame
+bip_39_word_underscore_12: denial_puppy_cargo_urge_shine_unfold_bitter_wild_decorate_kiwi_frame_autumn
+bip_39_word_underscore_2: denial_puppy
+bip_39_word_underscore_3: denial_puppy_cargo
+bip_39_word_underscore_4: denial_puppy_cargo_urge
+bip_39_word_underscore_5: denial_puppy_cargo_urge_shine
+bip_39_word_underscore_6: denial_puppy_cargo_urge_shine_unfold
+bip_39_word_underscore_7: denial_puppy_cargo_urge_shine_unfold_bitter
+bip_39_word_underscore_8: denial_puppy_cargo_urge_shine_unfold_bitter_wild
+bip_39_word_underscore_9: denial_puppy_cargo_urge_shine_unfold_bitter_wild_decorate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | palace |  
+| bip_39_word_dash_10 | palace-gym-hotel-better-shadow-palace-noise-domain-multiply-grid |  
+| bip_39_word_dash_11 | palace-gym-hotel-better-shadow-palace-noise-domain-multiply-grid-lunar |  
+| bip_39_word_dash_12 | palace-gym-hotel-better-shadow-palace-noise-domain-multiply-grid-lunar-arrow |  
+| bip_39_word_dash_2 | palace-gym |  
+| bip_39_word_dash_3 | palace-gym-hotel |  
+| bip_39_word_dash_4 | palace-gym-hotel-better |  
+| bip_39_word_dash_5 | palace-gym-hotel-better-shadow |  
+| bip_39_word_dash_6 | palace-gym-hotel-better-shadow-palace |  
+| bip_39_word_dash_7 | palace-gym-hotel-better-shadow-palace-noise |  
+| bip_39_word_dash_8 | palace-gym-hotel-better-shadow-palace-noise-domain |  
+| bip_39_word_dash_9 | palace-gym-hotel-better-shadow-palace-noise-domain-multiply |  
 | bip_39_word_new_br_1 | palace |  
 | bip_39_word_new_br_10 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain<br>multiply<br>grid |  
 | bip_39_word_new_br_11 | palace<br>gym<br>hotel<br>better<br>shadow<br>palace<br>noise<br>domain<br>multiply<br>grid<br>lunar |  
@@ -147,6 +159,18 @@ multiply |
 | bip_39_word_space_7 | palace gym hotel better shadow palace noise |  
 | bip_39_word_space_8 | palace gym hotel better shadow palace noise domain |  
 | bip_39_word_space_9 | palace gym hotel better shadow palace noise domain multiply |  
+| bip_39_word_underscore_1 | palace |  
+| bip_39_word_underscore_10 | palace_gym_hotel_better_shadow_palace_noise_domain_multiply_grid |  
+| bip_39_word_underscore_11 | palace_gym_hotel_better_shadow_palace_noise_domain_multiply_grid_lunar |  
+| bip_39_word_underscore_12 | palace_gym_hotel_better_shadow_palace_noise_domain_multiply_grid_lunar_arrow |  
+| bip_39_word_underscore_2 | palace_gym |  
+| bip_39_word_underscore_3 | palace_gym_hotel |  
+| bip_39_word_underscore_4 | palace_gym_hotel_better |  
+| bip_39_word_underscore_5 | palace_gym_hotel_better_shadow |  
+| bip_39_word_underscore_6 | palace_gym_hotel_better_shadow_palace |  
+| bip_39_word_underscore_7 | palace_gym_hotel_better_shadow_palace_noise |  
+| bip_39_word_underscore_8 | palace_gym_hotel_better_shadow_palace_noise_domain |  
+| bip_39_word_underscore_9 | palace_gym_hotel_better_shadow_palace_noise_domain_multiply |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

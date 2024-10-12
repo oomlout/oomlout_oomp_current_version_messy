@@ -1,3 +1,15 @@
+bip_39_word_dash_1: afford
+bip_39_word_dash_10: afford-piano-slight-man-yard-machine-ball-dance-vanish-target
+bip_39_word_dash_11: afford-piano-slight-man-yard-machine-ball-dance-vanish-target-fall
+bip_39_word_dash_12: afford-piano-slight-man-yard-machine-ball-dance-vanish-target-fall-attack
+bip_39_word_dash_2: afford-piano
+bip_39_word_dash_3: afford-piano-slight
+bip_39_word_dash_4: afford-piano-slight-man
+bip_39_word_dash_5: afford-piano-slight-man-yard
+bip_39_word_dash_6: afford-piano-slight-man-yard-machine
+bip_39_word_dash_7: afford-piano-slight-man-yard-machine-ball
+bip_39_word_dash_8: afford-piano-slight-man-yard-machine-ball-dance
+bip_39_word_dash_9: afford-piano-slight-man-yard-machine-ball-dance-vanish
 bip_39_word_new_br_1: afford
 bip_39_word_new_br_10: afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target
 bip_39_word_new_br_11: afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target<br>fall
@@ -193,6 +205,18 @@ bip_39_word_space_6: afford piano slight man yard machine
 bip_39_word_space_7: afford piano slight man yard machine ball
 bip_39_word_space_8: afford piano slight man yard machine ball dance
 bip_39_word_space_9: afford piano slight man yard machine ball dance vanish
+bip_39_word_underscore_1: afford
+bip_39_word_underscore_10: afford_piano_slight_man_yard_machine_ball_dance_vanish_target
+bip_39_word_underscore_11: afford_piano_slight_man_yard_machine_ball_dance_vanish_target_fall
+bip_39_word_underscore_12: afford_piano_slight_man_yard_machine_ball_dance_vanish_target_fall_attack
+bip_39_word_underscore_2: afford_piano
+bip_39_word_underscore_3: afford_piano_slight
+bip_39_word_underscore_4: afford_piano_slight_man
+bip_39_word_underscore_5: afford_piano_slight_man_yard
+bip_39_word_underscore_6: afford_piano_slight_man_yard_machine
+bip_39_word_underscore_7: afford_piano_slight_man_yard_machine_ball
+bip_39_word_underscore_8: afford_piano_slight_man_yard_machine_ball_dance
+bip_39_word_underscore_9: afford_piano_slight_man_yard_machine_ball_dance_vanish
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cake |  
+| bip_39_word_dash_10 | cake-leaf-velvet-bundle-chicken-head-harsh-common-express-icon |  
+| bip_39_word_dash_11 | cake-leaf-velvet-bundle-chicken-head-harsh-common-express-icon-car |  
+| bip_39_word_dash_12 | cake-leaf-velvet-bundle-chicken-head-harsh-common-express-icon-car-arrow |  
+| bip_39_word_dash_2 | cake-leaf |  
+| bip_39_word_dash_3 | cake-leaf-velvet |  
+| bip_39_word_dash_4 | cake-leaf-velvet-bundle |  
+| bip_39_word_dash_5 | cake-leaf-velvet-bundle-chicken |  
+| bip_39_word_dash_6 | cake-leaf-velvet-bundle-chicken-head |  
+| bip_39_word_dash_7 | cake-leaf-velvet-bundle-chicken-head-harsh |  
+| bip_39_word_dash_8 | cake-leaf-velvet-bundle-chicken-head-harsh-common |  
+| bip_39_word_dash_9 | cake-leaf-velvet-bundle-chicken-head-harsh-common-express |  
 | bip_39_word_new_br_1 | cake |  
 | bip_39_word_new_br_10 | cake<br>leaf<br>velvet<br>bundle<br>chicken<br>head<br>harsh<br>common<br>express<br>icon |  
 | bip_39_word_new_br_11 | cake<br>leaf<br>velvet<br>bundle<br>chicken<br>head<br>harsh<br>common<br>express<br>icon<br>car |  
@@ -147,6 +159,18 @@ express |
 | bip_39_word_space_7 | cake leaf velvet bundle chicken head harsh |  
 | bip_39_word_space_8 | cake leaf velvet bundle chicken head harsh common |  
 | bip_39_word_space_9 | cake leaf velvet bundle chicken head harsh common express |  
+| bip_39_word_underscore_1 | cake |  
+| bip_39_word_underscore_10 | cake_leaf_velvet_bundle_chicken_head_harsh_common_express_icon |  
+| bip_39_word_underscore_11 | cake_leaf_velvet_bundle_chicken_head_harsh_common_express_icon_car |  
+| bip_39_word_underscore_12 | cake_leaf_velvet_bundle_chicken_head_harsh_common_express_icon_car_arrow |  
+| bip_39_word_underscore_2 | cake_leaf |  
+| bip_39_word_underscore_3 | cake_leaf_velvet |  
+| bip_39_word_underscore_4 | cake_leaf_velvet_bundle |  
+| bip_39_word_underscore_5 | cake_leaf_velvet_bundle_chicken |  
+| bip_39_word_underscore_6 | cake_leaf_velvet_bundle_chicken_head |  
+| bip_39_word_underscore_7 | cake_leaf_velvet_bundle_chicken_head_harsh |  
+| bip_39_word_underscore_8 | cake_leaf_velvet_bundle_chicken_head_harsh_common |  
+| bip_39_word_underscore_9 | cake_leaf_velvet_bundle_chicken_head_harsh_common_express |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

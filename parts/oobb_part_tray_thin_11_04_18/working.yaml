@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rack
+bip_39_word_dash_10: rack-team-stool-mansion-transfer-blue-visual-pulp-engine-brain
+bip_39_word_dash_11: rack-team-stool-mansion-transfer-blue-visual-pulp-engine-brain-remember
+bip_39_word_dash_12: rack-team-stool-mansion-transfer-blue-visual-pulp-engine-brain-remember-admit
+bip_39_word_dash_2: rack-team
+bip_39_word_dash_3: rack-team-stool
+bip_39_word_dash_4: rack-team-stool-mansion
+bip_39_word_dash_5: rack-team-stool-mansion-transfer
+bip_39_word_dash_6: rack-team-stool-mansion-transfer-blue
+bip_39_word_dash_7: rack-team-stool-mansion-transfer-blue-visual
+bip_39_word_dash_8: rack-team-stool-mansion-transfer-blue-visual-pulp
+bip_39_word_dash_9: rack-team-stool-mansion-transfer-blue-visual-pulp-engine
 bip_39_word_new_br_1: rack
 bip_39_word_new_br_10: rack<br>team<br>stool<br>mansion<br>transfer<br>blue<br>visual<br>pulp<br>engine<br>brain
 bip_39_word_new_br_11: rack<br>team<br>stool<br>mansion<br>transfer<br>blue<br>visual<br>pulp<br>engine<br>brain<br>remember
@@ -193,6 +205,18 @@ bip_39_word_space_6: rack team stool mansion transfer blue
 bip_39_word_space_7: rack team stool mansion transfer blue visual
 bip_39_word_space_8: rack team stool mansion transfer blue visual pulp
 bip_39_word_space_9: rack team stool mansion transfer blue visual pulp engine
+bip_39_word_underscore_1: rack
+bip_39_word_underscore_10: rack_team_stool_mansion_transfer_blue_visual_pulp_engine_brain
+bip_39_word_underscore_11: rack_team_stool_mansion_transfer_blue_visual_pulp_engine_brain_remember
+bip_39_word_underscore_12: rack_team_stool_mansion_transfer_blue_visual_pulp_engine_brain_remember_admit
+bip_39_word_underscore_2: rack_team
+bip_39_word_underscore_3: rack_team_stool
+bip_39_word_underscore_4: rack_team_stool_mansion
+bip_39_word_underscore_5: rack_team_stool_mansion_transfer
+bip_39_word_underscore_6: rack_team_stool_mansion_transfer_blue
+bip_39_word_underscore_7: rack_team_stool_mansion_transfer_blue_visual
+bip_39_word_underscore_8: rack_team_stool_mansion_transfer_blue_visual_pulp
+bip_39_word_underscore_9: rack_team_stool_mansion_transfer_blue_visual_pulp_engine
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

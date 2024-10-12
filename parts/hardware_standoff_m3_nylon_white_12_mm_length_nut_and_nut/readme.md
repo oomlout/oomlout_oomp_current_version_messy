@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wait |  
+| bip_39_word_dash_10 | wait-bleak-benefit-under-genius-spirit-iron-rival-mail-carbon |  
+| bip_39_word_dash_11 | wait-bleak-benefit-under-genius-spirit-iron-rival-mail-carbon-major |  
+| bip_39_word_dash_12 | wait-bleak-benefit-under-genius-spirit-iron-rival-mail-carbon-major-argue |  
+| bip_39_word_dash_2 | wait-bleak |  
+| bip_39_word_dash_3 | wait-bleak-benefit |  
+| bip_39_word_dash_4 | wait-bleak-benefit-under |  
+| bip_39_word_dash_5 | wait-bleak-benefit-under-genius |  
+| bip_39_word_dash_6 | wait-bleak-benefit-under-genius-spirit |  
+| bip_39_word_dash_7 | wait-bleak-benefit-under-genius-spirit-iron |  
+| bip_39_word_dash_8 | wait-bleak-benefit-under-genius-spirit-iron-rival |  
+| bip_39_word_dash_9 | wait-bleak-benefit-under-genius-spirit-iron-rival-mail |  
 | bip_39_word_new_br_1 | wait |  
 | bip_39_word_new_br_10 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival<br>mail<br>carbon |  
 | bip_39_word_new_br_11 | wait<br>bleak<br>benefit<br>under<br>genius<br>spirit<br>iron<br>rival<br>mail<br>carbon<br>major |  
@@ -147,6 +159,18 @@ mail |
 | bip_39_word_space_7 | wait bleak benefit under genius spirit iron |  
 | bip_39_word_space_8 | wait bleak benefit under genius spirit iron rival |  
 | bip_39_word_space_9 | wait bleak benefit under genius spirit iron rival mail |  
+| bip_39_word_underscore_1 | wait |  
+| bip_39_word_underscore_10 | wait_bleak_benefit_under_genius_spirit_iron_rival_mail_carbon |  
+| bip_39_word_underscore_11 | wait_bleak_benefit_under_genius_spirit_iron_rival_mail_carbon_major |  
+| bip_39_word_underscore_12 | wait_bleak_benefit_under_genius_spirit_iron_rival_mail_carbon_major_argue |  
+| bip_39_word_underscore_2 | wait_bleak |  
+| bip_39_word_underscore_3 | wait_bleak_benefit |  
+| bip_39_word_underscore_4 | wait_bleak_benefit_under |  
+| bip_39_word_underscore_5 | wait_bleak_benefit_under_genius |  
+| bip_39_word_underscore_6 | wait_bleak_benefit_under_genius_spirit |  
+| bip_39_word_underscore_7 | wait_bleak_benefit_under_genius_spirit_iron |  
+| bip_39_word_underscore_8 | wait_bleak_benefit_under_genius_spirit_iron_rival |  
+| bip_39_word_underscore_9 | wait_bleak_benefit_under_genius_spirit_iron_rival_mail |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

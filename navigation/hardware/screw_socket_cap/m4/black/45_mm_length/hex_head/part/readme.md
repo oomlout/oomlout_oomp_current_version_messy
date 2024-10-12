@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | attend |  
+| bip_39_word_dash_10 | attend-cruel-globe-flight-dust-blade-village-maximum-valve-sugar |  
+| bip_39_word_dash_11 | attend-cruel-globe-flight-dust-blade-village-maximum-valve-sugar-forum |  
+| bip_39_word_dash_12 | attend-cruel-globe-flight-dust-blade-village-maximum-valve-sugar-forum-amused |  
+| bip_39_word_dash_2 | attend-cruel |  
+| bip_39_word_dash_3 | attend-cruel-globe |  
+| bip_39_word_dash_4 | attend-cruel-globe-flight |  
+| bip_39_word_dash_5 | attend-cruel-globe-flight-dust |  
+| bip_39_word_dash_6 | attend-cruel-globe-flight-dust-blade |  
+| bip_39_word_dash_7 | attend-cruel-globe-flight-dust-blade-village |  
+| bip_39_word_dash_8 | attend-cruel-globe-flight-dust-blade-village-maximum |  
+| bip_39_word_dash_9 | attend-cruel-globe-flight-dust-blade-village-maximum-valve |  
 | bip_39_word_new_br_1 | attend |  
 | bip_39_word_new_br_10 | attend<br>cruel<br>globe<br>flight<br>dust<br>blade<br>village<br>maximum<br>valve<br>sugar |  
 | bip_39_word_new_br_11 | attend<br>cruel<br>globe<br>flight<br>dust<br>blade<br>village<br>maximum<br>valve<br>sugar<br>forum |  
@@ -147,6 +159,18 @@ valve |
 | bip_39_word_space_7 | attend cruel globe flight dust blade village |  
 | bip_39_word_space_8 | attend cruel globe flight dust blade village maximum |  
 | bip_39_word_space_9 | attend cruel globe flight dust blade village maximum valve |  
+| bip_39_word_underscore_1 | attend |  
+| bip_39_word_underscore_10 | attend_cruel_globe_flight_dust_blade_village_maximum_valve_sugar |  
+| bip_39_word_underscore_11 | attend_cruel_globe_flight_dust_blade_village_maximum_valve_sugar_forum |  
+| bip_39_word_underscore_12 | attend_cruel_globe_flight_dust_blade_village_maximum_valve_sugar_forum_amused |  
+| bip_39_word_underscore_2 | attend_cruel |  
+| bip_39_word_underscore_3 | attend_cruel_globe |  
+| bip_39_word_underscore_4 | attend_cruel_globe_flight |  
+| bip_39_word_underscore_5 | attend_cruel_globe_flight_dust |  
+| bip_39_word_underscore_6 | attend_cruel_globe_flight_dust_blade |  
+| bip_39_word_underscore_7 | attend_cruel_globe_flight_dust_blade_village |  
+| bip_39_word_underscore_8 | attend_cruel_globe_flight_dust_blade_village_maximum |  
+| bip_39_word_underscore_9 | attend_cruel_globe_flight_dust_blade_village_maximum_valve |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

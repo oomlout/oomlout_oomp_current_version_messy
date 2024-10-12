@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vacant |  
+| bip_39_word_dash_10 | vacant-wave-clump-affair-gesture-defy-shock-manual-found-thunder |  
+| bip_39_word_dash_11 | vacant-wave-clump-affair-gesture-defy-shock-manual-found-thunder-again |  
+| bip_39_word_dash_12 | vacant-wave-clump-affair-gesture-defy-shock-manual-found-thunder-again-apology |  
+| bip_39_word_dash_2 | vacant-wave |  
+| bip_39_word_dash_3 | vacant-wave-clump |  
+| bip_39_word_dash_4 | vacant-wave-clump-affair |  
+| bip_39_word_dash_5 | vacant-wave-clump-affair-gesture |  
+| bip_39_word_dash_6 | vacant-wave-clump-affair-gesture-defy |  
+| bip_39_word_dash_7 | vacant-wave-clump-affair-gesture-defy-shock |  
+| bip_39_word_dash_8 | vacant-wave-clump-affair-gesture-defy-shock-manual |  
+| bip_39_word_dash_9 | vacant-wave-clump-affair-gesture-defy-shock-manual-found |  
 | bip_39_word_new_br_1 | vacant |  
 | bip_39_word_new_br_10 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder |  
 | bip_39_word_new_br_11 | vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder<br>again |  
@@ -147,6 +159,18 @@ found |
 | bip_39_word_space_7 | vacant wave clump affair gesture defy shock |  
 | bip_39_word_space_8 | vacant wave clump affair gesture defy shock manual |  
 | bip_39_word_space_9 | vacant wave clump affair gesture defy shock manual found |  
+| bip_39_word_underscore_1 | vacant |  
+| bip_39_word_underscore_10 | vacant_wave_clump_affair_gesture_defy_shock_manual_found_thunder |  
+| bip_39_word_underscore_11 | vacant_wave_clump_affair_gesture_defy_shock_manual_found_thunder_again |  
+| bip_39_word_underscore_12 | vacant_wave_clump_affair_gesture_defy_shock_manual_found_thunder_again_apology |  
+| bip_39_word_underscore_2 | vacant_wave |  
+| bip_39_word_underscore_3 | vacant_wave_clump |  
+| bip_39_word_underscore_4 | vacant_wave_clump_affair |  
+| bip_39_word_underscore_5 | vacant_wave_clump_affair_gesture |  
+| bip_39_word_underscore_6 | vacant_wave_clump_affair_gesture_defy |  
+| bip_39_word_underscore_7 | vacant_wave_clump_affair_gesture_defy_shock |  
+| bip_39_word_underscore_8 | vacant_wave_clump_affair_gesture_defy_shock_manual |  
+| bip_39_word_underscore_9 | vacant_wave_clump_affair_gesture_defy_shock_manual_found |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

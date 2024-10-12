@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fish
+bip_39_word_dash_10: fish-property-teach-stand-fall-expose-mandate-arrow-fog-remind
+bip_39_word_dash_11: fish-property-teach-stand-fall-expose-mandate-arrow-fog-remind-divorce
+bip_39_word_dash_12: fish-property-teach-stand-fall-expose-mandate-arrow-fog-remind-divorce-assault
+bip_39_word_dash_2: fish-property
+bip_39_word_dash_3: fish-property-teach
+bip_39_word_dash_4: fish-property-teach-stand
+bip_39_word_dash_5: fish-property-teach-stand-fall
+bip_39_word_dash_6: fish-property-teach-stand-fall-expose
+bip_39_word_dash_7: fish-property-teach-stand-fall-expose-mandate
+bip_39_word_dash_8: fish-property-teach-stand-fall-expose-mandate-arrow
+bip_39_word_dash_9: fish-property-teach-stand-fall-expose-mandate-arrow-fog
 bip_39_word_new_br_1: fish
 bip_39_word_new_br_10: fish<br>property<br>teach<br>stand<br>fall<br>expose<br>mandate<br>arrow<br>fog<br>remind
 bip_39_word_new_br_11: fish<br>property<br>teach<br>stand<br>fall<br>expose<br>mandate<br>arrow<br>fog<br>remind<br>divorce
@@ -193,6 +205,18 @@ bip_39_word_space_6: fish property teach stand fall expose
 bip_39_word_space_7: fish property teach stand fall expose mandate
 bip_39_word_space_8: fish property teach stand fall expose mandate arrow
 bip_39_word_space_9: fish property teach stand fall expose mandate arrow fog
+bip_39_word_underscore_1: fish
+bip_39_word_underscore_10: fish_property_teach_stand_fall_expose_mandate_arrow_fog_remind
+bip_39_word_underscore_11: fish_property_teach_stand_fall_expose_mandate_arrow_fog_remind_divorce
+bip_39_word_underscore_12: fish_property_teach_stand_fall_expose_mandate_arrow_fog_remind_divorce_assault
+bip_39_word_underscore_2: fish_property
+bip_39_word_underscore_3: fish_property_teach
+bip_39_word_underscore_4: fish_property_teach_stand
+bip_39_word_underscore_5: fish_property_teach_stand_fall
+bip_39_word_underscore_6: fish_property_teach_stand_fall_expose
+bip_39_word_underscore_7: fish_property_teach_stand_fall_expose_mandate
+bip_39_word_underscore_8: fish_property_teach_stand_fall_expose_mandate_arrow
+bip_39_word_underscore_9: fish_property_teach_stand_fall_expose_mandate_arrow_fog
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: regular
+bip_39_word_dash_10: regular-dog-oven-long-upset-champion-property-sight-legal-news
+bip_39_word_dash_11: regular-dog-oven-long-upset-champion-property-sight-legal-news-noise
+bip_39_word_dash_12: regular-dog-oven-long-upset-champion-property-sight-legal-news-noise-animal
+bip_39_word_dash_2: regular-dog
+bip_39_word_dash_3: regular-dog-oven
+bip_39_word_dash_4: regular-dog-oven-long
+bip_39_word_dash_5: regular-dog-oven-long-upset
+bip_39_word_dash_6: regular-dog-oven-long-upset-champion
+bip_39_word_dash_7: regular-dog-oven-long-upset-champion-property
+bip_39_word_dash_8: regular-dog-oven-long-upset-champion-property-sight
+bip_39_word_dash_9: regular-dog-oven-long-upset-champion-property-sight-legal
 bip_39_word_new_br_1: regular
 bip_39_word_new_br_10: regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight<br>legal<br>news
 bip_39_word_new_br_11: regular<br>dog<br>oven<br>long<br>upset<br>champion<br>property<br>sight<br>legal<br>news<br>noise
@@ -193,6 +205,18 @@ bip_39_word_space_6: regular dog oven long upset champion
 bip_39_word_space_7: regular dog oven long upset champion property
 bip_39_word_space_8: regular dog oven long upset champion property sight
 bip_39_word_space_9: regular dog oven long upset champion property sight legal
+bip_39_word_underscore_1: regular
+bip_39_word_underscore_10: regular_dog_oven_long_upset_champion_property_sight_legal_news
+bip_39_word_underscore_11: regular_dog_oven_long_upset_champion_property_sight_legal_news_noise
+bip_39_word_underscore_12: regular_dog_oven_long_upset_champion_property_sight_legal_news_noise_animal
+bip_39_word_underscore_2: regular_dog
+bip_39_word_underscore_3: regular_dog_oven
+bip_39_word_underscore_4: regular_dog_oven_long
+bip_39_word_underscore_5: regular_dog_oven_long_upset
+bip_39_word_underscore_6: regular_dog_oven_long_upset_champion
+bip_39_word_underscore_7: regular_dog_oven_long_upset_champion_property
+bip_39_word_underscore_8: regular_dog_oven_long_upset_champion_property_sight
+bip_39_word_underscore_9: regular_dog_oven_long_upset_champion_property_sight_legal
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

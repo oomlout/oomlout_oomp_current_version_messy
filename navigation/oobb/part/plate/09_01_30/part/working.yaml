@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inherit
+bip_39_word_dash_10: inherit-feed-soap-disorder-note-artwork-devote-mutual-stand-hammer
+bip_39_word_dash_11: inherit-feed-soap-disorder-note-artwork-devote-mutual-stand-hammer-craft
+bip_39_word_dash_12: inherit-feed-soap-disorder-note-artwork-devote-mutual-stand-hammer-craft-absorb
+bip_39_word_dash_2: inherit-feed
+bip_39_word_dash_3: inherit-feed-soap
+bip_39_word_dash_4: inherit-feed-soap-disorder
+bip_39_word_dash_5: inherit-feed-soap-disorder-note
+bip_39_word_dash_6: inherit-feed-soap-disorder-note-artwork
+bip_39_word_dash_7: inherit-feed-soap-disorder-note-artwork-devote
+bip_39_word_dash_8: inherit-feed-soap-disorder-note-artwork-devote-mutual
+bip_39_word_dash_9: inherit-feed-soap-disorder-note-artwork-devote-mutual-stand
 bip_39_word_new_br_1: inherit
 bip_39_word_new_br_10: inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer
 bip_39_word_new_br_11: inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer<br>craft
@@ -194,6 +206,18 @@ bip_39_word_space_6: inherit feed soap disorder note artwork
 bip_39_word_space_7: inherit feed soap disorder note artwork devote
 bip_39_word_space_8: inherit feed soap disorder note artwork devote mutual
 bip_39_word_space_9: inherit feed soap disorder note artwork devote mutual stand
+bip_39_word_underscore_1: inherit
+bip_39_word_underscore_10: inherit_feed_soap_disorder_note_artwork_devote_mutual_stand_hammer
+bip_39_word_underscore_11: inherit_feed_soap_disorder_note_artwork_devote_mutual_stand_hammer_craft
+bip_39_word_underscore_12: inherit_feed_soap_disorder_note_artwork_devote_mutual_stand_hammer_craft_absorb
+bip_39_word_underscore_2: inherit_feed
+bip_39_word_underscore_3: inherit_feed_soap
+bip_39_word_underscore_4: inherit_feed_soap_disorder
+bip_39_word_underscore_5: inherit_feed_soap_disorder_note
+bip_39_word_underscore_6: inherit_feed_soap_disorder_note_artwork
+bip_39_word_underscore_7: inherit_feed_soap_disorder_note_artwork_devote
+bip_39_word_underscore_8: inherit_feed_soap_disorder_note_artwork_devote_mutual
+bip_39_word_underscore_9: inherit_feed_soap_disorder_note_artwork_devote_mutual_stand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

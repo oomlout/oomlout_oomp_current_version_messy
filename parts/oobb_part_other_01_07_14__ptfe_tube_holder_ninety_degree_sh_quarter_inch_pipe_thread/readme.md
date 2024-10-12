@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | income |  
+| bip_39_word_dash_10 | income-please-focus-liquid-rookie-view-access-because-describe-because |  
+| bip_39_word_dash_11 | income-please-focus-liquid-rookie-view-access-because-describe-because-quick |  
+| bip_39_word_dash_12 | income-please-focus-liquid-rookie-view-access-because-describe-because-quick-aspect |  
+| bip_39_word_dash_2 | income-please |  
+| bip_39_word_dash_3 | income-please-focus |  
+| bip_39_word_dash_4 | income-please-focus-liquid |  
+| bip_39_word_dash_5 | income-please-focus-liquid-rookie |  
+| bip_39_word_dash_6 | income-please-focus-liquid-rookie-view |  
+| bip_39_word_dash_7 | income-please-focus-liquid-rookie-view-access |  
+| bip_39_word_dash_8 | income-please-focus-liquid-rookie-view-access-because |  
+| bip_39_word_dash_9 | income-please-focus-liquid-rookie-view-access-because-describe |  
 | bip_39_word_new_br_1 | income |  
 | bip_39_word_new_br_10 | income<br>please<br>focus<br>liquid<br>rookie<br>view<br>access<br>because<br>describe<br>because |  
 | bip_39_word_new_br_11 | income<br>please<br>focus<br>liquid<br>rookie<br>view<br>access<br>because<br>describe<br>because<br>quick |  
@@ -147,6 +159,18 @@ describe |
 | bip_39_word_space_7 | income please focus liquid rookie view access |  
 | bip_39_word_space_8 | income please focus liquid rookie view access because |  
 | bip_39_word_space_9 | income please focus liquid rookie view access because describe |  
+| bip_39_word_underscore_1 | income |  
+| bip_39_word_underscore_10 | income_please_focus_liquid_rookie_view_access_because_describe_because |  
+| bip_39_word_underscore_11 | income_please_focus_liquid_rookie_view_access_because_describe_because_quick |  
+| bip_39_word_underscore_12 | income_please_focus_liquid_rookie_view_access_because_describe_because_quick_aspect |  
+| bip_39_word_underscore_2 | income_please |  
+| bip_39_word_underscore_3 | income_please_focus |  
+| bip_39_word_underscore_4 | income_please_focus_liquid |  
+| bip_39_word_underscore_5 | income_please_focus_liquid_rookie |  
+| bip_39_word_underscore_6 | income_please_focus_liquid_rookie_view |  
+| bip_39_word_underscore_7 | income_please_focus_liquid_rookie_view_access |  
+| bip_39_word_underscore_8 | income_please_focus_liquid_rookie_view_access_because |  
+| bip_39_word_underscore_9 | income_please_focus_liquid_rookie_view_access_because_describe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

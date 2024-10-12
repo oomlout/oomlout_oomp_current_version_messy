@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clap |  
+| bip_39_word_dash_10 | clap-flee-frown-pumpkin-size-ship-method-infant-soon-knee |  
+| bip_39_word_dash_11 | clap-flee-frown-pumpkin-size-ship-method-infant-soon-knee-water |  
+| bip_39_word_dash_12 | clap-flee-frown-pumpkin-size-ship-method-infant-soon-knee-water-actress |  
+| bip_39_word_dash_2 | clap-flee |  
+| bip_39_word_dash_3 | clap-flee-frown |  
+| bip_39_word_dash_4 | clap-flee-frown-pumpkin |  
+| bip_39_word_dash_5 | clap-flee-frown-pumpkin-size |  
+| bip_39_word_dash_6 | clap-flee-frown-pumpkin-size-ship |  
+| bip_39_word_dash_7 | clap-flee-frown-pumpkin-size-ship-method |  
+| bip_39_word_dash_8 | clap-flee-frown-pumpkin-size-ship-method-infant |  
+| bip_39_word_dash_9 | clap-flee-frown-pumpkin-size-ship-method-infant-soon |  
 | bip_39_word_new_br_1 | clap |  
 | bip_39_word_new_br_10 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant<br>soon<br>knee |  
 | bip_39_word_new_br_11 | clap<br>flee<br>frown<br>pumpkin<br>size<br>ship<br>method<br>infant<br>soon<br>knee<br>water |  
@@ -147,6 +159,18 @@ soon |
 | bip_39_word_space_7 | clap flee frown pumpkin size ship method |  
 | bip_39_word_space_8 | clap flee frown pumpkin size ship method infant |  
 | bip_39_word_space_9 | clap flee frown pumpkin size ship method infant soon |  
+| bip_39_word_underscore_1 | clap |  
+| bip_39_word_underscore_10 | clap_flee_frown_pumpkin_size_ship_method_infant_soon_knee |  
+| bip_39_word_underscore_11 | clap_flee_frown_pumpkin_size_ship_method_infant_soon_knee_water |  
+| bip_39_word_underscore_12 | clap_flee_frown_pumpkin_size_ship_method_infant_soon_knee_water_actress |  
+| bip_39_word_underscore_2 | clap_flee |  
+| bip_39_word_underscore_3 | clap_flee_frown |  
+| bip_39_word_underscore_4 | clap_flee_frown_pumpkin |  
+| bip_39_word_underscore_5 | clap_flee_frown_pumpkin_size |  
+| bip_39_word_underscore_6 | clap_flee_frown_pumpkin_size_ship |  
+| bip_39_word_underscore_7 | clap_flee_frown_pumpkin_size_ship_method |  
+| bip_39_word_underscore_8 | clap_flee_frown_pumpkin_size_ship_method_infant |  
+| bip_39_word_underscore_9 | clap_flee_frown_pumpkin_size_ship_method_infant_soon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

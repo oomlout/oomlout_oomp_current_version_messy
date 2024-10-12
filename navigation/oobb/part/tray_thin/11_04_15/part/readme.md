@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | solar |  
+| bip_39_word_dash_10 | solar-guess-fish-skirt-luxury-security-end-thought-skirt-remember |  
+| bip_39_word_dash_11 | solar-guess-fish-skirt-luxury-security-end-thought-skirt-remember-better |  
+| bip_39_word_dash_12 | solar-guess-fish-skirt-luxury-security-end-thought-skirt-remember-better-arm |  
+| bip_39_word_dash_2 | solar-guess |  
+| bip_39_word_dash_3 | solar-guess-fish |  
+| bip_39_word_dash_4 | solar-guess-fish-skirt |  
+| bip_39_word_dash_5 | solar-guess-fish-skirt-luxury |  
+| bip_39_word_dash_6 | solar-guess-fish-skirt-luxury-security |  
+| bip_39_word_dash_7 | solar-guess-fish-skirt-luxury-security-end |  
+| bip_39_word_dash_8 | solar-guess-fish-skirt-luxury-security-end-thought |  
+| bip_39_word_dash_9 | solar-guess-fish-skirt-luxury-security-end-thought-skirt |  
 | bip_39_word_new_br_1 | solar |  
 | bip_39_word_new_br_10 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember |  
 | bip_39_word_new_br_11 | solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember<br>better |  
@@ -147,6 +159,18 @@ skirt |
 | bip_39_word_space_7 | solar guess fish skirt luxury security end |  
 | bip_39_word_space_8 | solar guess fish skirt luxury security end thought |  
 | bip_39_word_space_9 | solar guess fish skirt luxury security end thought skirt |  
+| bip_39_word_underscore_1 | solar |  
+| bip_39_word_underscore_10 | solar_guess_fish_skirt_luxury_security_end_thought_skirt_remember |  
+| bip_39_word_underscore_11 | solar_guess_fish_skirt_luxury_security_end_thought_skirt_remember_better |  
+| bip_39_word_underscore_12 | solar_guess_fish_skirt_luxury_security_end_thought_skirt_remember_better_arm |  
+| bip_39_word_underscore_2 | solar_guess |  
+| bip_39_word_underscore_3 | solar_guess_fish |  
+| bip_39_word_underscore_4 | solar_guess_fish_skirt |  
+| bip_39_word_underscore_5 | solar_guess_fish_skirt_luxury |  
+| bip_39_word_underscore_6 | solar_guess_fish_skirt_luxury_security |  
+| bip_39_word_underscore_7 | solar_guess_fish_skirt_luxury_security_end |  
+| bip_39_word_underscore_8 | solar_guess_fish_skirt_luxury_security_end_thought |  
+| bip_39_word_underscore_9 | solar_guess_fish_skirt_luxury_security_end_thought_skirt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

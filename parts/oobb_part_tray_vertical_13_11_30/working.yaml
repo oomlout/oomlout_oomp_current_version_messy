@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inflict
+bip_39_word_dash_10: inflict-subway-trade-example-indoor-before-raccoon-edge-once-battle
+bip_39_word_dash_11: inflict-subway-trade-example-indoor-before-raccoon-edge-once-battle-mind
+bip_39_word_dash_12: inflict-subway-trade-example-indoor-before-raccoon-edge-once-battle-mind-artist
+bip_39_word_dash_2: inflict-subway
+bip_39_word_dash_3: inflict-subway-trade
+bip_39_word_dash_4: inflict-subway-trade-example
+bip_39_word_dash_5: inflict-subway-trade-example-indoor
+bip_39_word_dash_6: inflict-subway-trade-example-indoor-before
+bip_39_word_dash_7: inflict-subway-trade-example-indoor-before-raccoon
+bip_39_word_dash_8: inflict-subway-trade-example-indoor-before-raccoon-edge
+bip_39_word_dash_9: inflict-subway-trade-example-indoor-before-raccoon-edge-once
 bip_39_word_new_br_1: inflict
 bip_39_word_new_br_10: inflict<br>subway<br>trade<br>example<br>indoor<br>before<br>raccoon<br>edge<br>once<br>battle
 bip_39_word_new_br_11: inflict<br>subway<br>trade<br>example<br>indoor<br>before<br>raccoon<br>edge<br>once<br>battle<br>mind
@@ -194,6 +206,18 @@ bip_39_word_space_6: inflict subway trade example indoor before
 bip_39_word_space_7: inflict subway trade example indoor before raccoon
 bip_39_word_space_8: inflict subway trade example indoor before raccoon edge
 bip_39_word_space_9: inflict subway trade example indoor before raccoon edge once
+bip_39_word_underscore_1: inflict
+bip_39_word_underscore_10: inflict_subway_trade_example_indoor_before_raccoon_edge_once_battle
+bip_39_word_underscore_11: inflict_subway_trade_example_indoor_before_raccoon_edge_once_battle_mind
+bip_39_word_underscore_12: inflict_subway_trade_example_indoor_before_raccoon_edge_once_battle_mind_artist
+bip_39_word_underscore_2: inflict_subway
+bip_39_word_underscore_3: inflict_subway_trade
+bip_39_word_underscore_4: inflict_subway_trade_example
+bip_39_word_underscore_5: inflict_subway_trade_example_indoor
+bip_39_word_underscore_6: inflict_subway_trade_example_indoor_before
+bip_39_word_underscore_7: inflict_subway_trade_example_indoor_before_raccoon
+bip_39_word_underscore_8: inflict_subway_trade_example_indoor_before_raccoon_edge
+bip_39_word_underscore_9: inflict_subway_trade_example_indoor_before_raccoon_edge_once
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | caution |  
+| bip_39_word_dash_10 | caution-remain-horror-cat-cupboard-open-flat-worth-lounge-slender |  
+| bip_39_word_dash_11 | caution-remain-horror-cat-cupboard-open-flat-worth-lounge-slender-check |  
+| bip_39_word_dash_12 | caution-remain-horror-cat-cupboard-open-flat-worth-lounge-slender-check-attitude |  
+| bip_39_word_dash_2 | caution-remain |  
+| bip_39_word_dash_3 | caution-remain-horror |  
+| bip_39_word_dash_4 | caution-remain-horror-cat |  
+| bip_39_word_dash_5 | caution-remain-horror-cat-cupboard |  
+| bip_39_word_dash_6 | caution-remain-horror-cat-cupboard-open |  
+| bip_39_word_dash_7 | caution-remain-horror-cat-cupboard-open-flat |  
+| bip_39_word_dash_8 | caution-remain-horror-cat-cupboard-open-flat-worth |  
+| bip_39_word_dash_9 | caution-remain-horror-cat-cupboard-open-flat-worth-lounge |  
 | bip_39_word_new_br_1 | caution |  
 | bip_39_word_new_br_10 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender |  
 | bip_39_word_new_br_11 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender<br>check |  
@@ -147,6 +159,18 @@ lounge |
 | bip_39_word_space_7 | caution remain horror cat cupboard open flat |  
 | bip_39_word_space_8 | caution remain horror cat cupboard open flat worth |  
 | bip_39_word_space_9 | caution remain horror cat cupboard open flat worth lounge |  
+| bip_39_word_underscore_1 | caution |  
+| bip_39_word_underscore_10 | caution_remain_horror_cat_cupboard_open_flat_worth_lounge_slender |  
+| bip_39_word_underscore_11 | caution_remain_horror_cat_cupboard_open_flat_worth_lounge_slender_check |  
+| bip_39_word_underscore_12 | caution_remain_horror_cat_cupboard_open_flat_worth_lounge_slender_check_attitude |  
+| bip_39_word_underscore_2 | caution_remain |  
+| bip_39_word_underscore_3 | caution_remain_horror |  
+| bip_39_word_underscore_4 | caution_remain_horror_cat |  
+| bip_39_word_underscore_5 | caution_remain_horror_cat_cupboard |  
+| bip_39_word_underscore_6 | caution_remain_horror_cat_cupboard_open |  
+| bip_39_word_underscore_7 | caution_remain_horror_cat_cupboard_open_flat |  
+| bip_39_word_underscore_8 | caution_remain_horror_cat_cupboard_open_flat_worth |  
+| bip_39_word_underscore_9 | caution_remain_horror_cat_cupboard_open_flat_worth_lounge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

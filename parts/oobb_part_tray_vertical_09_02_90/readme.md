@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | act |  
+| bip_39_word_dash_10 | act-dignity-lava-budget-reform-field-hollow-purchase-myth-off |  
+| bip_39_word_dash_11 | act-dignity-lava-budget-reform-field-hollow-purchase-myth-off-step |  
+| bip_39_word_dash_12 | act-dignity-lava-budget-reform-field-hollow-purchase-myth-off-step-arrange |  
+| bip_39_word_dash_2 | act-dignity |  
+| bip_39_word_dash_3 | act-dignity-lava |  
+| bip_39_word_dash_4 | act-dignity-lava-budget |  
+| bip_39_word_dash_5 | act-dignity-lava-budget-reform |  
+| bip_39_word_dash_6 | act-dignity-lava-budget-reform-field |  
+| bip_39_word_dash_7 | act-dignity-lava-budget-reform-field-hollow |  
+| bip_39_word_dash_8 | act-dignity-lava-budget-reform-field-hollow-purchase |  
+| bip_39_word_dash_9 | act-dignity-lava-budget-reform-field-hollow-purchase-myth |  
 | bip_39_word_new_br_1 | act |  
 | bip_39_word_new_br_10 | act<br>dignity<br>lava<br>budget<br>reform<br>field<br>hollow<br>purchase<br>myth<br>off |  
 | bip_39_word_new_br_11 | act<br>dignity<br>lava<br>budget<br>reform<br>field<br>hollow<br>purchase<br>myth<br>off<br>step |  
@@ -147,6 +159,18 @@ myth |
 | bip_39_word_space_7 | act dignity lava budget reform field hollow |  
 | bip_39_word_space_8 | act dignity lava budget reform field hollow purchase |  
 | bip_39_word_space_9 | act dignity lava budget reform field hollow purchase myth |  
+| bip_39_word_underscore_1 | act |  
+| bip_39_word_underscore_10 | act_dignity_lava_budget_reform_field_hollow_purchase_myth_off |  
+| bip_39_word_underscore_11 | act_dignity_lava_budget_reform_field_hollow_purchase_myth_off_step |  
+| bip_39_word_underscore_12 | act_dignity_lava_budget_reform_field_hollow_purchase_myth_off_step_arrange |  
+| bip_39_word_underscore_2 | act_dignity |  
+| bip_39_word_underscore_3 | act_dignity_lava |  
+| bip_39_word_underscore_4 | act_dignity_lava_budget |  
+| bip_39_word_underscore_5 | act_dignity_lava_budget_reform |  
+| bip_39_word_underscore_6 | act_dignity_lava_budget_reform_field |  
+| bip_39_word_underscore_7 | act_dignity_lava_budget_reform_field_hollow |  
+| bip_39_word_underscore_8 | act_dignity_lava_budget_reform_field_hollow_purchase |  
+| bip_39_word_underscore_9 | act_dignity_lava_budget_reform_field_hollow_purchase_myth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

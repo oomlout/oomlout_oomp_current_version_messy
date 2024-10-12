@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dawn
+bip_39_word_dash_10: dawn-super-cliff-kiss-there-inflict-wreck-salmon-mesh-mesh
+bip_39_word_dash_11: dawn-super-cliff-kiss-there-inflict-wreck-salmon-mesh-mesh-pepper
+bip_39_word_dash_12: dawn-super-cliff-kiss-there-inflict-wreck-salmon-mesh-mesh-pepper-already
+bip_39_word_dash_2: dawn-super
+bip_39_word_dash_3: dawn-super-cliff
+bip_39_word_dash_4: dawn-super-cliff-kiss
+bip_39_word_dash_5: dawn-super-cliff-kiss-there
+bip_39_word_dash_6: dawn-super-cliff-kiss-there-inflict
+bip_39_word_dash_7: dawn-super-cliff-kiss-there-inflict-wreck
+bip_39_word_dash_8: dawn-super-cliff-kiss-there-inflict-wreck-salmon
+bip_39_word_dash_9: dawn-super-cliff-kiss-there-inflict-wreck-salmon-mesh
 bip_39_word_new_br_1: dawn
 bip_39_word_new_br_10: dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh
 bip_39_word_new_br_11: dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh<br>pepper
@@ -192,6 +204,18 @@ bip_39_word_space_6: dawn super cliff kiss there inflict
 bip_39_word_space_7: dawn super cliff kiss there inflict wreck
 bip_39_word_space_8: dawn super cliff kiss there inflict wreck salmon
 bip_39_word_space_9: dawn super cliff kiss there inflict wreck salmon mesh
+bip_39_word_underscore_1: dawn
+bip_39_word_underscore_10: dawn_super_cliff_kiss_there_inflict_wreck_salmon_mesh_mesh
+bip_39_word_underscore_11: dawn_super_cliff_kiss_there_inflict_wreck_salmon_mesh_mesh_pepper
+bip_39_word_underscore_12: dawn_super_cliff_kiss_there_inflict_wreck_salmon_mesh_mesh_pepper_already
+bip_39_word_underscore_2: dawn_super
+bip_39_word_underscore_3: dawn_super_cliff
+bip_39_word_underscore_4: dawn_super_cliff_kiss
+bip_39_word_underscore_5: dawn_super_cliff_kiss_there
+bip_39_word_underscore_6: dawn_super_cliff_kiss_there_inflict
+bip_39_word_underscore_7: dawn_super_cliff_kiss_there_inflict_wreck
+bip_39_word_underscore_8: dawn_super_cliff_kiss_there_inflict_wreck_salmon
+bip_39_word_underscore_9: dawn_super_cliff_kiss_there_inflict_wreck_salmon_mesh
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

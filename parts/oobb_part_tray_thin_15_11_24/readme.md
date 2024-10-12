@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | length |  
+| bip_39_word_dash_10 | length-silk-dolphin-violin-twelve-load-icon-dress-accuse-thumb |  
+| bip_39_word_dash_11 | length-silk-dolphin-violin-twelve-load-icon-dress-accuse-thumb-asthma |  
+| bip_39_word_dash_12 | length-silk-dolphin-violin-twelve-load-icon-dress-accuse-thumb-asthma-artwork |  
+| bip_39_word_dash_2 | length-silk |  
+| bip_39_word_dash_3 | length-silk-dolphin |  
+| bip_39_word_dash_4 | length-silk-dolphin-violin |  
+| bip_39_word_dash_5 | length-silk-dolphin-violin-twelve |  
+| bip_39_word_dash_6 | length-silk-dolphin-violin-twelve-load |  
+| bip_39_word_dash_7 | length-silk-dolphin-violin-twelve-load-icon |  
+| bip_39_word_dash_8 | length-silk-dolphin-violin-twelve-load-icon-dress |  
+| bip_39_word_dash_9 | length-silk-dolphin-violin-twelve-load-icon-dress-accuse |  
 | bip_39_word_new_br_1 | length |  
 | bip_39_word_new_br_10 | length<br>silk<br>dolphin<br>violin<br>twelve<br>load<br>icon<br>dress<br>accuse<br>thumb |  
 | bip_39_word_new_br_11 | length<br>silk<br>dolphin<br>violin<br>twelve<br>load<br>icon<br>dress<br>accuse<br>thumb<br>asthma |  
@@ -147,6 +159,18 @@ accuse |
 | bip_39_word_space_7 | length silk dolphin violin twelve load icon |  
 | bip_39_word_space_8 | length silk dolphin violin twelve load icon dress |  
 | bip_39_word_space_9 | length silk dolphin violin twelve load icon dress accuse |  
+| bip_39_word_underscore_1 | length |  
+| bip_39_word_underscore_10 | length_silk_dolphin_violin_twelve_load_icon_dress_accuse_thumb |  
+| bip_39_word_underscore_11 | length_silk_dolphin_violin_twelve_load_icon_dress_accuse_thumb_asthma |  
+| bip_39_word_underscore_12 | length_silk_dolphin_violin_twelve_load_icon_dress_accuse_thumb_asthma_artwork |  
+| bip_39_word_underscore_2 | length_silk |  
+| bip_39_word_underscore_3 | length_silk_dolphin |  
+| bip_39_word_underscore_4 | length_silk_dolphin_violin |  
+| bip_39_word_underscore_5 | length_silk_dolphin_violin_twelve |  
+| bip_39_word_underscore_6 | length_silk_dolphin_violin_twelve_load |  
+| bip_39_word_underscore_7 | length_silk_dolphin_violin_twelve_load_icon |  
+| bip_39_word_underscore_8 | length_silk_dolphin_violin_twelve_load_icon_dress |  
+| bip_39_word_underscore_9 | length_silk_dolphin_violin_twelve_load_icon_dress_accuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

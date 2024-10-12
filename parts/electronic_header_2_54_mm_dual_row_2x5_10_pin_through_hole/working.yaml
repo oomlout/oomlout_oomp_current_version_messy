@@ -1,3 +1,15 @@
+bip_39_word_dash_1: obscure
+bip_39_word_dash_10: obscure-wink-minute-chief-success-jealous-rapid-upon-hover-electric
+bip_39_word_dash_11: obscure-wink-minute-chief-success-jealous-rapid-upon-hover-electric-path
+bip_39_word_dash_12: obscure-wink-minute-chief-success-jealous-rapid-upon-hover-electric-path-afford
+bip_39_word_dash_2: obscure-wink
+bip_39_word_dash_3: obscure-wink-minute
+bip_39_word_dash_4: obscure-wink-minute-chief
+bip_39_word_dash_5: obscure-wink-minute-chief-success
+bip_39_word_dash_6: obscure-wink-minute-chief-success-jealous
+bip_39_word_dash_7: obscure-wink-minute-chief-success-jealous-rapid
+bip_39_word_dash_8: obscure-wink-minute-chief-success-jealous-rapid-upon
+bip_39_word_dash_9: obscure-wink-minute-chief-success-jealous-rapid-upon-hover
 bip_39_word_new_br_1: obscure
 bip_39_word_new_br_10: obscure<br>wink<br>minute<br>chief<br>success<br>jealous<br>rapid<br>upon<br>hover<br>electric
 bip_39_word_new_br_11: obscure<br>wink<br>minute<br>chief<br>success<br>jealous<br>rapid<br>upon<br>hover<br>electric<br>path
@@ -193,6 +205,18 @@ bip_39_word_space_6: obscure wink minute chief success jealous
 bip_39_word_space_7: obscure wink minute chief success jealous rapid
 bip_39_word_space_8: obscure wink minute chief success jealous rapid upon
 bip_39_word_space_9: obscure wink minute chief success jealous rapid upon hover
+bip_39_word_underscore_1: obscure
+bip_39_word_underscore_10: obscure_wink_minute_chief_success_jealous_rapid_upon_hover_electric
+bip_39_word_underscore_11: obscure_wink_minute_chief_success_jealous_rapid_upon_hover_electric_path
+bip_39_word_underscore_12: obscure_wink_minute_chief_success_jealous_rapid_upon_hover_electric_path_afford
+bip_39_word_underscore_2: obscure_wink
+bip_39_word_underscore_3: obscure_wink_minute
+bip_39_word_underscore_4: obscure_wink_minute_chief
+bip_39_word_underscore_5: obscure_wink_minute_chief_success
+bip_39_word_underscore_6: obscure_wink_minute_chief_success_jealous
+bip_39_word_underscore_7: obscure_wink_minute_chief_success_jealous_rapid
+bip_39_word_underscore_8: obscure_wink_minute_chief_success_jealous_rapid_upon
+bip_39_word_underscore_9: obscure_wink_minute_chief_success_jealous_rapid_upon_hover
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

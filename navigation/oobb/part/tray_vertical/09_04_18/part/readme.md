@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spatial |  
+| bip_39_word_dash_10 | spatial-adapt-undo-limit-mobile-nephew-field-crazy-tell-vital |  
+| bip_39_word_dash_11 | spatial-adapt-undo-limit-mobile-nephew-field-crazy-tell-vital-horror |  
+| bip_39_word_dash_12 | spatial-adapt-undo-limit-mobile-nephew-field-crazy-tell-vital-horror-anchor |  
+| bip_39_word_dash_2 | spatial-adapt |  
+| bip_39_word_dash_3 | spatial-adapt-undo |  
+| bip_39_word_dash_4 | spatial-adapt-undo-limit |  
+| bip_39_word_dash_5 | spatial-adapt-undo-limit-mobile |  
+| bip_39_word_dash_6 | spatial-adapt-undo-limit-mobile-nephew |  
+| bip_39_word_dash_7 | spatial-adapt-undo-limit-mobile-nephew-field |  
+| bip_39_word_dash_8 | spatial-adapt-undo-limit-mobile-nephew-field-crazy |  
+| bip_39_word_dash_9 | spatial-adapt-undo-limit-mobile-nephew-field-crazy-tell |  
 | bip_39_word_new_br_1 | spatial |  
 | bip_39_word_new_br_10 | spatial<br>adapt<br>undo<br>limit<br>mobile<br>nephew<br>field<br>crazy<br>tell<br>vital |  
 | bip_39_word_new_br_11 | spatial<br>adapt<br>undo<br>limit<br>mobile<br>nephew<br>field<br>crazy<br>tell<br>vital<br>horror |  
@@ -147,6 +159,18 @@ tell |
 | bip_39_word_space_7 | spatial adapt undo limit mobile nephew field |  
 | bip_39_word_space_8 | spatial adapt undo limit mobile nephew field crazy |  
 | bip_39_word_space_9 | spatial adapt undo limit mobile nephew field crazy tell |  
+| bip_39_word_underscore_1 | spatial |  
+| bip_39_word_underscore_10 | spatial_adapt_undo_limit_mobile_nephew_field_crazy_tell_vital |  
+| bip_39_word_underscore_11 | spatial_adapt_undo_limit_mobile_nephew_field_crazy_tell_vital_horror |  
+| bip_39_word_underscore_12 | spatial_adapt_undo_limit_mobile_nephew_field_crazy_tell_vital_horror_anchor |  
+| bip_39_word_underscore_2 | spatial_adapt |  
+| bip_39_word_underscore_3 | spatial_adapt_undo |  
+| bip_39_word_underscore_4 | spatial_adapt_undo_limit |  
+| bip_39_word_underscore_5 | spatial_adapt_undo_limit_mobile |  
+| bip_39_word_underscore_6 | spatial_adapt_undo_limit_mobile_nephew |  
+| bip_39_word_underscore_7 | spatial_adapt_undo_limit_mobile_nephew_field |  
+| bip_39_word_underscore_8 | spatial_adapt_undo_limit_mobile_nephew_field_crazy |  
+| bip_39_word_underscore_9 | spatial_adapt_undo_limit_mobile_nephew_field_crazy_tell |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

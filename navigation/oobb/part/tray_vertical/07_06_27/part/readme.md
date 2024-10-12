@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | since |  
+| bip_39_word_dash_10 | since-come-virus-wisdom-target-mutual-fancy-ramp-success-blue |  
+| bip_39_word_dash_11 | since-come-virus-wisdom-target-mutual-fancy-ramp-success-blue-ignore |  
+| bip_39_word_dash_12 | since-come-virus-wisdom-target-mutual-fancy-ramp-success-blue-ignore-anxiety |  
+| bip_39_word_dash_2 | since-come |  
+| bip_39_word_dash_3 | since-come-virus |  
+| bip_39_word_dash_4 | since-come-virus-wisdom |  
+| bip_39_word_dash_5 | since-come-virus-wisdom-target |  
+| bip_39_word_dash_6 | since-come-virus-wisdom-target-mutual |  
+| bip_39_word_dash_7 | since-come-virus-wisdom-target-mutual-fancy |  
+| bip_39_word_dash_8 | since-come-virus-wisdom-target-mutual-fancy-ramp |  
+| bip_39_word_dash_9 | since-come-virus-wisdom-target-mutual-fancy-ramp-success |  
 | bip_39_word_new_br_1 | since |  
 | bip_39_word_new_br_10 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue |  
 | bip_39_word_new_br_11 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue<br>ignore |  
@@ -147,6 +159,18 @@ success |
 | bip_39_word_space_7 | since come virus wisdom target mutual fancy |  
 | bip_39_word_space_8 | since come virus wisdom target mutual fancy ramp |  
 | bip_39_word_space_9 | since come virus wisdom target mutual fancy ramp success |  
+| bip_39_word_underscore_1 | since |  
+| bip_39_word_underscore_10 | since_come_virus_wisdom_target_mutual_fancy_ramp_success_blue |  
+| bip_39_word_underscore_11 | since_come_virus_wisdom_target_mutual_fancy_ramp_success_blue_ignore |  
+| bip_39_word_underscore_12 | since_come_virus_wisdom_target_mutual_fancy_ramp_success_blue_ignore_anxiety |  
+| bip_39_word_underscore_2 | since_come |  
+| bip_39_word_underscore_3 | since_come_virus |  
+| bip_39_word_underscore_4 | since_come_virus_wisdom |  
+| bip_39_word_underscore_5 | since_come_virus_wisdom_target |  
+| bip_39_word_underscore_6 | since_come_virus_wisdom_target_mutual |  
+| bip_39_word_underscore_7 | since_come_virus_wisdom_target_mutual_fancy |  
+| bip_39_word_underscore_8 | since_come_virus_wisdom_target_mutual_fancy_ramp |  
+| bip_39_word_underscore_9 | since_come_virus_wisdom_target_mutual_fancy_ramp_success |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

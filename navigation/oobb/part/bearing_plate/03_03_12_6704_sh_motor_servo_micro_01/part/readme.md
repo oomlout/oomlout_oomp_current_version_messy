@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arm |  
+| bip_39_word_dash_10 | arm-pistol-short-alpha-possible-father-nice-sense-bracket-expand |  
+| bip_39_word_dash_11 | arm-pistol-short-alpha-possible-father-nice-sense-bracket-expand-ride |  
+| bip_39_word_dash_12 | arm-pistol-short-alpha-possible-father-nice-sense-bracket-expand-ride-ankle |  
+| bip_39_word_dash_2 | arm-pistol |  
+| bip_39_word_dash_3 | arm-pistol-short |  
+| bip_39_word_dash_4 | arm-pistol-short-alpha |  
+| bip_39_word_dash_5 | arm-pistol-short-alpha-possible |  
+| bip_39_word_dash_6 | arm-pistol-short-alpha-possible-father |  
+| bip_39_word_dash_7 | arm-pistol-short-alpha-possible-father-nice |  
+| bip_39_word_dash_8 | arm-pistol-short-alpha-possible-father-nice-sense |  
+| bip_39_word_dash_9 | arm-pistol-short-alpha-possible-father-nice-sense-bracket |  
 | bip_39_word_new_br_1 | arm |  
 | bip_39_word_new_br_10 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand |  
 | bip_39_word_new_br_11 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand<br>ride |  
@@ -147,6 +159,18 @@ bracket |
 | bip_39_word_space_7 | arm pistol short alpha possible father nice |  
 | bip_39_word_space_8 | arm pistol short alpha possible father nice sense |  
 | bip_39_word_space_9 | arm pistol short alpha possible father nice sense bracket |  
+| bip_39_word_underscore_1 | arm |  
+| bip_39_word_underscore_10 | arm_pistol_short_alpha_possible_father_nice_sense_bracket_expand |  
+| bip_39_word_underscore_11 | arm_pistol_short_alpha_possible_father_nice_sense_bracket_expand_ride |  
+| bip_39_word_underscore_12 | arm_pistol_short_alpha_possible_father_nice_sense_bracket_expand_ride_ankle |  
+| bip_39_word_underscore_2 | arm_pistol |  
+| bip_39_word_underscore_3 | arm_pistol_short |  
+| bip_39_word_underscore_4 | arm_pistol_short_alpha |  
+| bip_39_word_underscore_5 | arm_pistol_short_alpha_possible |  
+| bip_39_word_underscore_6 | arm_pistol_short_alpha_possible_father |  
+| bip_39_word_underscore_7 | arm_pistol_short_alpha_possible_father_nice |  
+| bip_39_word_underscore_8 | arm_pistol_short_alpha_possible_father_nice_sense |  
+| bip_39_word_underscore_9 | arm_pistol_short_alpha_possible_father_nice_sense_bracket |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | screen |  
+| bip_39_word_dash_10 | screen-mansion-core-nice-gadget-rocket-point-once-gorilla-debate |  
+| bip_39_word_dash_11 | screen-mansion-core-nice-gadget-rocket-point-once-gorilla-debate-van |  
+| bip_39_word_dash_12 | screen-mansion-core-nice-gadget-rocket-point-once-gorilla-debate-van-around |  
+| bip_39_word_dash_2 | screen-mansion |  
+| bip_39_word_dash_3 | screen-mansion-core |  
+| bip_39_word_dash_4 | screen-mansion-core-nice |  
+| bip_39_word_dash_5 | screen-mansion-core-nice-gadget |  
+| bip_39_word_dash_6 | screen-mansion-core-nice-gadget-rocket |  
+| bip_39_word_dash_7 | screen-mansion-core-nice-gadget-rocket-point |  
+| bip_39_word_dash_8 | screen-mansion-core-nice-gadget-rocket-point-once |  
+| bip_39_word_dash_9 | screen-mansion-core-nice-gadget-rocket-point-once-gorilla |  
 | bip_39_word_new_br_1 | screen |  
 | bip_39_word_new_br_10 | screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once<br>gorilla<br>debate |  
 | bip_39_word_new_br_11 | screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once<br>gorilla<br>debate<br>van |  
@@ -147,6 +159,18 @@ gorilla |
 | bip_39_word_space_7 | screen mansion core nice gadget rocket point |  
 | bip_39_word_space_8 | screen mansion core nice gadget rocket point once |  
 | bip_39_word_space_9 | screen mansion core nice gadget rocket point once gorilla |  
+| bip_39_word_underscore_1 | screen |  
+| bip_39_word_underscore_10 | screen_mansion_core_nice_gadget_rocket_point_once_gorilla_debate |  
+| bip_39_word_underscore_11 | screen_mansion_core_nice_gadget_rocket_point_once_gorilla_debate_van |  
+| bip_39_word_underscore_12 | screen_mansion_core_nice_gadget_rocket_point_once_gorilla_debate_van_around |  
+| bip_39_word_underscore_2 | screen_mansion |  
+| bip_39_word_underscore_3 | screen_mansion_core |  
+| bip_39_word_underscore_4 | screen_mansion_core_nice |  
+| bip_39_word_underscore_5 | screen_mansion_core_nice_gadget |  
+| bip_39_word_underscore_6 | screen_mansion_core_nice_gadget_rocket |  
+| bip_39_word_underscore_7 | screen_mansion_core_nice_gadget_rocket_point |  
+| bip_39_word_underscore_8 | screen_mansion_core_nice_gadget_rocket_point_once |  
+| bip_39_word_underscore_9 | screen_mansion_core_nice_gadget_rocket_point_once_gorilla |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

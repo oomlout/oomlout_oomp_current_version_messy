@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clinic |  
+| bip_39_word_dash_10 | clinic-aerobic-quick-arena-bicycle-problem-arch-gravity-inform-stage |  
+| bip_39_word_dash_11 | clinic-aerobic-quick-arena-bicycle-problem-arch-gravity-inform-stage-install |  
+| bip_39_word_dash_12 | clinic-aerobic-quick-arena-bicycle-problem-arch-gravity-inform-stage-install-arm |  
+| bip_39_word_dash_2 | clinic-aerobic |  
+| bip_39_word_dash_3 | clinic-aerobic-quick |  
+| bip_39_word_dash_4 | clinic-aerobic-quick-arena |  
+| bip_39_word_dash_5 | clinic-aerobic-quick-arena-bicycle |  
+| bip_39_word_dash_6 | clinic-aerobic-quick-arena-bicycle-problem |  
+| bip_39_word_dash_7 | clinic-aerobic-quick-arena-bicycle-problem-arch |  
+| bip_39_word_dash_8 | clinic-aerobic-quick-arena-bicycle-problem-arch-gravity |  
+| bip_39_word_dash_9 | clinic-aerobic-quick-arena-bicycle-problem-arch-gravity-inform |  
 | bip_39_word_new_br_1 | clinic |  
 | bip_39_word_new_br_10 | clinic<br>aerobic<br>quick<br>arena<br>bicycle<br>problem<br>arch<br>gravity<br>inform<br>stage |  
 | bip_39_word_new_br_11 | clinic<br>aerobic<br>quick<br>arena<br>bicycle<br>problem<br>arch<br>gravity<br>inform<br>stage<br>install |  
@@ -147,6 +159,18 @@ inform |
 | bip_39_word_space_7 | clinic aerobic quick arena bicycle problem arch |  
 | bip_39_word_space_8 | clinic aerobic quick arena bicycle problem arch gravity |  
 | bip_39_word_space_9 | clinic aerobic quick arena bicycle problem arch gravity inform |  
+| bip_39_word_underscore_1 | clinic |  
+| bip_39_word_underscore_10 | clinic_aerobic_quick_arena_bicycle_problem_arch_gravity_inform_stage |  
+| bip_39_word_underscore_11 | clinic_aerobic_quick_arena_bicycle_problem_arch_gravity_inform_stage_install |  
+| bip_39_word_underscore_12 | clinic_aerobic_quick_arena_bicycle_problem_arch_gravity_inform_stage_install_arm |  
+| bip_39_word_underscore_2 | clinic_aerobic |  
+| bip_39_word_underscore_3 | clinic_aerobic_quick |  
+| bip_39_word_underscore_4 | clinic_aerobic_quick_arena |  
+| bip_39_word_underscore_5 | clinic_aerobic_quick_arena_bicycle |  
+| bip_39_word_underscore_6 | clinic_aerobic_quick_arena_bicycle_problem |  
+| bip_39_word_underscore_7 | clinic_aerobic_quick_arena_bicycle_problem_arch |  
+| bip_39_word_underscore_8 | clinic_aerobic_quick_arena_bicycle_problem_arch_gravity |  
+| bip_39_word_underscore_9 | clinic_aerobic_quick_arena_bicycle_problem_arch_gravity_inform |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

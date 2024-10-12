@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | script |  
+| bip_39_word_dash_10 | script-mesh-address-admit-cradle-box-junior-cup-demand-check |  
+| bip_39_word_dash_11 | script-mesh-address-admit-cradle-box-junior-cup-demand-check-caution |  
+| bip_39_word_dash_12 | script-mesh-address-admit-cradle-box-junior-cup-demand-check-caution-admit |  
+| bip_39_word_dash_2 | script-mesh |  
+| bip_39_word_dash_3 | script-mesh-address |  
+| bip_39_word_dash_4 | script-mesh-address-admit |  
+| bip_39_word_dash_5 | script-mesh-address-admit-cradle |  
+| bip_39_word_dash_6 | script-mesh-address-admit-cradle-box |  
+| bip_39_word_dash_7 | script-mesh-address-admit-cradle-box-junior |  
+| bip_39_word_dash_8 | script-mesh-address-admit-cradle-box-junior-cup |  
+| bip_39_word_dash_9 | script-mesh-address-admit-cradle-box-junior-cup-demand |  
 | bip_39_word_new_br_1 | script |  
 | bip_39_word_new_br_10 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check |  
 | bip_39_word_new_br_11 | script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check<br>caution |  
@@ -147,6 +159,18 @@ demand |
 | bip_39_word_space_7 | script mesh address admit cradle box junior |  
 | bip_39_word_space_8 | script mesh address admit cradle box junior cup |  
 | bip_39_word_space_9 | script mesh address admit cradle box junior cup demand |  
+| bip_39_word_underscore_1 | script |  
+| bip_39_word_underscore_10 | script_mesh_address_admit_cradle_box_junior_cup_demand_check |  
+| bip_39_word_underscore_11 | script_mesh_address_admit_cradle_box_junior_cup_demand_check_caution |  
+| bip_39_word_underscore_12 | script_mesh_address_admit_cradle_box_junior_cup_demand_check_caution_admit |  
+| bip_39_word_underscore_2 | script_mesh |  
+| bip_39_word_underscore_3 | script_mesh_address |  
+| bip_39_word_underscore_4 | script_mesh_address_admit |  
+| bip_39_word_underscore_5 | script_mesh_address_admit_cradle |  
+| bip_39_word_underscore_6 | script_mesh_address_admit_cradle_box |  
+| bip_39_word_underscore_7 | script_mesh_address_admit_cradle_box_junior |  
+| bip_39_word_underscore_8 | script_mesh_address_admit_cradle_box_junior_cup |  
+| bip_39_word_underscore_9 | script_mesh_address_admit_cradle_box_junior_cup_demand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

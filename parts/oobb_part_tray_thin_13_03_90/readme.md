@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aim |  
+| bip_39_word_dash_10 | aim-evoke-govern-ignore-claw-legal-ceiling-two-spy-moral |  
+| bip_39_word_dash_11 | aim-evoke-govern-ignore-claw-legal-ceiling-two-spy-moral-pilot |  
+| bip_39_word_dash_12 | aim-evoke-govern-ignore-claw-legal-ceiling-two-spy-moral-pilot-around |  
+| bip_39_word_dash_2 | aim-evoke |  
+| bip_39_word_dash_3 | aim-evoke-govern |  
+| bip_39_word_dash_4 | aim-evoke-govern-ignore |  
+| bip_39_word_dash_5 | aim-evoke-govern-ignore-claw |  
+| bip_39_word_dash_6 | aim-evoke-govern-ignore-claw-legal |  
+| bip_39_word_dash_7 | aim-evoke-govern-ignore-claw-legal-ceiling |  
+| bip_39_word_dash_8 | aim-evoke-govern-ignore-claw-legal-ceiling-two |  
+| bip_39_word_dash_9 | aim-evoke-govern-ignore-claw-legal-ceiling-two-spy |  
 | bip_39_word_new_br_1 | aim |  
 | bip_39_word_new_br_10 | aim<br>evoke<br>govern<br>ignore<br>claw<br>legal<br>ceiling<br>two<br>spy<br>moral |  
 | bip_39_word_new_br_11 | aim<br>evoke<br>govern<br>ignore<br>claw<br>legal<br>ceiling<br>two<br>spy<br>moral<br>pilot |  
@@ -147,6 +159,18 @@ spy |
 | bip_39_word_space_7 | aim evoke govern ignore claw legal ceiling |  
 | bip_39_word_space_8 | aim evoke govern ignore claw legal ceiling two |  
 | bip_39_word_space_9 | aim evoke govern ignore claw legal ceiling two spy |  
+| bip_39_word_underscore_1 | aim |  
+| bip_39_word_underscore_10 | aim_evoke_govern_ignore_claw_legal_ceiling_two_spy_moral |  
+| bip_39_word_underscore_11 | aim_evoke_govern_ignore_claw_legal_ceiling_two_spy_moral_pilot |  
+| bip_39_word_underscore_12 | aim_evoke_govern_ignore_claw_legal_ceiling_two_spy_moral_pilot_around |  
+| bip_39_word_underscore_2 | aim_evoke |  
+| bip_39_word_underscore_3 | aim_evoke_govern |  
+| bip_39_word_underscore_4 | aim_evoke_govern_ignore |  
+| bip_39_word_underscore_5 | aim_evoke_govern_ignore_claw |  
+| bip_39_word_underscore_6 | aim_evoke_govern_ignore_claw_legal |  
+| bip_39_word_underscore_7 | aim_evoke_govern_ignore_claw_legal_ceiling |  
+| bip_39_word_underscore_8 | aim_evoke_govern_ignore_claw_legal_ceiling_two |  
+| bip_39_word_underscore_9 | aim_evoke_govern_ignore_claw_legal_ceiling_two_spy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

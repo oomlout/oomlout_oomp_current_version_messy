@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chronic |  
+| bip_39_word_dash_10 | chronic-horse-isolate-vast-margin-fuel-sad-enforce-eagle-angle |  
+| bip_39_word_dash_11 | chronic-horse-isolate-vast-margin-fuel-sad-enforce-eagle-angle-april |  
+| bip_39_word_dash_12 | chronic-horse-isolate-vast-margin-fuel-sad-enforce-eagle-angle-april-amount |  
+| bip_39_word_dash_2 | chronic-horse |  
+| bip_39_word_dash_3 | chronic-horse-isolate |  
+| bip_39_word_dash_4 | chronic-horse-isolate-vast |  
+| bip_39_word_dash_5 | chronic-horse-isolate-vast-margin |  
+| bip_39_word_dash_6 | chronic-horse-isolate-vast-margin-fuel |  
+| bip_39_word_dash_7 | chronic-horse-isolate-vast-margin-fuel-sad |  
+| bip_39_word_dash_8 | chronic-horse-isolate-vast-margin-fuel-sad-enforce |  
+| bip_39_word_dash_9 | chronic-horse-isolate-vast-margin-fuel-sad-enforce-eagle |  
 | bip_39_word_new_br_1 | chronic |  
 | bip_39_word_new_br_10 | chronic<br>horse<br>isolate<br>vast<br>margin<br>fuel<br>sad<br>enforce<br>eagle<br>angle |  
 | bip_39_word_new_br_11 | chronic<br>horse<br>isolate<br>vast<br>margin<br>fuel<br>sad<br>enforce<br>eagle<br>angle<br>april |  
@@ -147,6 +159,18 @@ eagle |
 | bip_39_word_space_7 | chronic horse isolate vast margin fuel sad |  
 | bip_39_word_space_8 | chronic horse isolate vast margin fuel sad enforce |  
 | bip_39_word_space_9 | chronic horse isolate vast margin fuel sad enforce eagle |  
+| bip_39_word_underscore_1 | chronic |  
+| bip_39_word_underscore_10 | chronic_horse_isolate_vast_margin_fuel_sad_enforce_eagle_angle |  
+| bip_39_word_underscore_11 | chronic_horse_isolate_vast_margin_fuel_sad_enforce_eagle_angle_april |  
+| bip_39_word_underscore_12 | chronic_horse_isolate_vast_margin_fuel_sad_enforce_eagle_angle_april_amount |  
+| bip_39_word_underscore_2 | chronic_horse |  
+| bip_39_word_underscore_3 | chronic_horse_isolate |  
+| bip_39_word_underscore_4 | chronic_horse_isolate_vast |  
+| bip_39_word_underscore_5 | chronic_horse_isolate_vast_margin |  
+| bip_39_word_underscore_6 | chronic_horse_isolate_vast_margin_fuel |  
+| bip_39_word_underscore_7 | chronic_horse_isolate_vast_margin_fuel_sad |  
+| bip_39_word_underscore_8 | chronic_horse_isolate_vast_margin_fuel_sad_enforce |  
+| bip_39_word_underscore_9 | chronic_horse_isolate_vast_margin_fuel_sad_enforce_eagle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

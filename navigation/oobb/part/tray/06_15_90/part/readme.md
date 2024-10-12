@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | main |  
+| bip_39_word_dash_10 | main-grid-verb-concert-member-draft-pepper-tooth-elite-loop |  
+| bip_39_word_dash_11 | main-grid-verb-concert-member-draft-pepper-tooth-elite-loop-endless |  
+| bip_39_word_dash_12 | main-grid-verb-concert-member-draft-pepper-tooth-elite-loop-endless-act |  
+| bip_39_word_dash_2 | main-grid |  
+| bip_39_word_dash_3 | main-grid-verb |  
+| bip_39_word_dash_4 | main-grid-verb-concert |  
+| bip_39_word_dash_5 | main-grid-verb-concert-member |  
+| bip_39_word_dash_6 | main-grid-verb-concert-member-draft |  
+| bip_39_word_dash_7 | main-grid-verb-concert-member-draft-pepper |  
+| bip_39_word_dash_8 | main-grid-verb-concert-member-draft-pepper-tooth |  
+| bip_39_word_dash_9 | main-grid-verb-concert-member-draft-pepper-tooth-elite |  
 | bip_39_word_new_br_1 | main |  
 | bip_39_word_new_br_10 | main<br>grid<br>verb<br>concert<br>member<br>draft<br>pepper<br>tooth<br>elite<br>loop |  
 | bip_39_word_new_br_11 | main<br>grid<br>verb<br>concert<br>member<br>draft<br>pepper<br>tooth<br>elite<br>loop<br>endless |  
@@ -147,6 +159,18 @@ elite |
 | bip_39_word_space_7 | main grid verb concert member draft pepper |  
 | bip_39_word_space_8 | main grid verb concert member draft pepper tooth |  
 | bip_39_word_space_9 | main grid verb concert member draft pepper tooth elite |  
+| bip_39_word_underscore_1 | main |  
+| bip_39_word_underscore_10 | main_grid_verb_concert_member_draft_pepper_tooth_elite_loop |  
+| bip_39_word_underscore_11 | main_grid_verb_concert_member_draft_pepper_tooth_elite_loop_endless |  
+| bip_39_word_underscore_12 | main_grid_verb_concert_member_draft_pepper_tooth_elite_loop_endless_act |  
+| bip_39_word_underscore_2 | main_grid |  
+| bip_39_word_underscore_3 | main_grid_verb |  
+| bip_39_word_underscore_4 | main_grid_verb_concert |  
+| bip_39_word_underscore_5 | main_grid_verb_concert_member |  
+| bip_39_word_underscore_6 | main_grid_verb_concert_member_draft |  
+| bip_39_word_underscore_7 | main_grid_verb_concert_member_draft_pepper |  
+| bip_39_word_underscore_8 | main_grid_verb_concert_member_draft_pepper_tooth |  
+| bip_39_word_underscore_9 | main_grid_verb_concert_member_draft_pepper_tooth_elite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

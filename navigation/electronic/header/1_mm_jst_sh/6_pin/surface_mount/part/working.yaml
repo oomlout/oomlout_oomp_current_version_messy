@@ -1,3 +1,15 @@
+bip_39_word_dash_1: human
+bip_39_word_dash_10: human-retire-develop-legend-lock-drop-pet-boil-fortune-civil
+bip_39_word_dash_11: human-retire-develop-legend-lock-drop-pet-boil-fortune-civil-course
+bip_39_word_dash_12: human-retire-develop-legend-lock-drop-pet-boil-fortune-civil-course-alcohol
+bip_39_word_dash_2: human-retire
+bip_39_word_dash_3: human-retire-develop
+bip_39_word_dash_4: human-retire-develop-legend
+bip_39_word_dash_5: human-retire-develop-legend-lock
+bip_39_word_dash_6: human-retire-develop-legend-lock-drop
+bip_39_word_dash_7: human-retire-develop-legend-lock-drop-pet
+bip_39_word_dash_8: human-retire-develop-legend-lock-drop-pet-boil
+bip_39_word_dash_9: human-retire-develop-legend-lock-drop-pet-boil-fortune
 bip_39_word_new_br_1: human
 bip_39_word_new_br_10: human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil<br>fortune<br>civil
 bip_39_word_new_br_11: human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil<br>fortune<br>civil<br>course
@@ -193,6 +205,18 @@ bip_39_word_space_6: human retire develop legend lock drop
 bip_39_word_space_7: human retire develop legend lock drop pet
 bip_39_word_space_8: human retire develop legend lock drop pet boil
 bip_39_word_space_9: human retire develop legend lock drop pet boil fortune
+bip_39_word_underscore_1: human
+bip_39_word_underscore_10: human_retire_develop_legend_lock_drop_pet_boil_fortune_civil
+bip_39_word_underscore_11: human_retire_develop_legend_lock_drop_pet_boil_fortune_civil_course
+bip_39_word_underscore_12: human_retire_develop_legend_lock_drop_pet_boil_fortune_civil_course_alcohol
+bip_39_word_underscore_2: human_retire
+bip_39_word_underscore_3: human_retire_develop
+bip_39_word_underscore_4: human_retire_develop_legend
+bip_39_word_underscore_5: human_retire_develop_legend_lock
+bip_39_word_underscore_6: human_retire_develop_legend_lock_drop
+bip_39_word_underscore_7: human_retire_develop_legend_lock_drop_pet
+bip_39_word_underscore_8: human_retire_develop_legend_lock_drop_pet_boil
+bip_39_word_underscore_9: human_retire_develop_legend_lock_drop_pet_boil_fortune
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | similar |  
+| bip_39_word_dash_10 | similar-kiss-agent-coil-effort-repeat-like-wonder-essay-about |  
+| bip_39_word_dash_11 | similar-kiss-agent-coil-effort-repeat-like-wonder-essay-about-beef |  
+| bip_39_word_dash_12 | similar-kiss-agent-coil-effort-repeat-like-wonder-essay-about-beef-anchor |  
+| bip_39_word_dash_2 | similar-kiss |  
+| bip_39_word_dash_3 | similar-kiss-agent |  
+| bip_39_word_dash_4 | similar-kiss-agent-coil |  
+| bip_39_word_dash_5 | similar-kiss-agent-coil-effort |  
+| bip_39_word_dash_6 | similar-kiss-agent-coil-effort-repeat |  
+| bip_39_word_dash_7 | similar-kiss-agent-coil-effort-repeat-like |  
+| bip_39_word_dash_8 | similar-kiss-agent-coil-effort-repeat-like-wonder |  
+| bip_39_word_dash_9 | similar-kiss-agent-coil-effort-repeat-like-wonder-essay |  
 | bip_39_word_new_br_1 | similar |  
 | bip_39_word_new_br_10 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder<br>essay<br>about |  
 | bip_39_word_new_br_11 | similar<br>kiss<br>agent<br>coil<br>effort<br>repeat<br>like<br>wonder<br>essay<br>about<br>beef |  
@@ -147,6 +159,18 @@ essay |
 | bip_39_word_space_7 | similar kiss agent coil effort repeat like |  
 | bip_39_word_space_8 | similar kiss agent coil effort repeat like wonder |  
 | bip_39_word_space_9 | similar kiss agent coil effort repeat like wonder essay |  
+| bip_39_word_underscore_1 | similar |  
+| bip_39_word_underscore_10 | similar_kiss_agent_coil_effort_repeat_like_wonder_essay_about |  
+| bip_39_word_underscore_11 | similar_kiss_agent_coil_effort_repeat_like_wonder_essay_about_beef |  
+| bip_39_word_underscore_12 | similar_kiss_agent_coil_effort_repeat_like_wonder_essay_about_beef_anchor |  
+| bip_39_word_underscore_2 | similar_kiss |  
+| bip_39_word_underscore_3 | similar_kiss_agent |  
+| bip_39_word_underscore_4 | similar_kiss_agent_coil |  
+| bip_39_word_underscore_5 | similar_kiss_agent_coil_effort |  
+| bip_39_word_underscore_6 | similar_kiss_agent_coil_effort_repeat |  
+| bip_39_word_underscore_7 | similar_kiss_agent_coil_effort_repeat_like |  
+| bip_39_word_underscore_8 | similar_kiss_agent_coil_effort_repeat_like_wonder |  
+| bip_39_word_underscore_9 | similar_kiss_agent_coil_effort_repeat_like_wonder_essay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

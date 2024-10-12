@@ -1,3 +1,15 @@
+bip_39_word_dash_1: appear
+bip_39_word_dash_10: appear-tonight-episode-medal-kitten-another-animal-talk-boil-dwarf
+bip_39_word_dash_11: appear-tonight-episode-medal-kitten-another-animal-talk-boil-dwarf-asset
+bip_39_word_dash_12: appear-tonight-episode-medal-kitten-another-animal-talk-boil-dwarf-asset-any
+bip_39_word_dash_2: appear-tonight
+bip_39_word_dash_3: appear-tonight-episode
+bip_39_word_dash_4: appear-tonight-episode-medal
+bip_39_word_dash_5: appear-tonight-episode-medal-kitten
+bip_39_word_dash_6: appear-tonight-episode-medal-kitten-another
+bip_39_word_dash_7: appear-tonight-episode-medal-kitten-another-animal
+bip_39_word_dash_8: appear-tonight-episode-medal-kitten-another-animal-talk
+bip_39_word_dash_9: appear-tonight-episode-medal-kitten-another-animal-talk-boil
 bip_39_word_new_br_1: appear
 bip_39_word_new_br_10: appear<br>tonight<br>episode<br>medal<br>kitten<br>another<br>animal<br>talk<br>boil<br>dwarf
 bip_39_word_new_br_11: appear<br>tonight<br>episode<br>medal<br>kitten<br>another<br>animal<br>talk<br>boil<br>dwarf<br>asset
@@ -194,6 +206,18 @@ bip_39_word_space_6: appear tonight episode medal kitten another
 bip_39_word_space_7: appear tonight episode medal kitten another animal
 bip_39_word_space_8: appear tonight episode medal kitten another animal talk
 bip_39_word_space_9: appear tonight episode medal kitten another animal talk boil
+bip_39_word_underscore_1: appear
+bip_39_word_underscore_10: appear_tonight_episode_medal_kitten_another_animal_talk_boil_dwarf
+bip_39_word_underscore_11: appear_tonight_episode_medal_kitten_another_animal_talk_boil_dwarf_asset
+bip_39_word_underscore_12: appear_tonight_episode_medal_kitten_another_animal_talk_boil_dwarf_asset_any
+bip_39_word_underscore_2: appear_tonight
+bip_39_word_underscore_3: appear_tonight_episode
+bip_39_word_underscore_4: appear_tonight_episode_medal
+bip_39_word_underscore_5: appear_tonight_episode_medal_kitten
+bip_39_word_underscore_6: appear_tonight_episode_medal_kitten_another
+bip_39_word_underscore_7: appear_tonight_episode_medal_kitten_another_animal
+bip_39_word_underscore_8: appear_tonight_episode_medal_kitten_another_animal_talk
+bip_39_word_underscore_9: appear_tonight_episode_medal_kitten_another_animal_talk_boil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | before |  
+| bip_39_word_dash_10 | before-tower-method-garage-double-bike-open-alter-hello-stumble |  
+| bip_39_word_dash_11 | before-tower-method-garage-double-bike-open-alter-hello-stumble-feature |  
+| bip_39_word_dash_12 | before-tower-method-garage-double-bike-open-alter-hello-stumble-feature-ahead |  
+| bip_39_word_dash_2 | before-tower |  
+| bip_39_word_dash_3 | before-tower-method |  
+| bip_39_word_dash_4 | before-tower-method-garage |  
+| bip_39_word_dash_5 | before-tower-method-garage-double |  
+| bip_39_word_dash_6 | before-tower-method-garage-double-bike |  
+| bip_39_word_dash_7 | before-tower-method-garage-double-bike-open |  
+| bip_39_word_dash_8 | before-tower-method-garage-double-bike-open-alter |  
+| bip_39_word_dash_9 | before-tower-method-garage-double-bike-open-alter-hello |  
 | bip_39_word_new_br_1 | before |  
 | bip_39_word_new_br_10 | before<br>tower<br>method<br>garage<br>double<br>bike<br>open<br>alter<br>hello<br>stumble |  
 | bip_39_word_new_br_11 | before<br>tower<br>method<br>garage<br>double<br>bike<br>open<br>alter<br>hello<br>stumble<br>feature |  
@@ -147,6 +159,18 @@ hello |
 | bip_39_word_space_7 | before tower method garage double bike open |  
 | bip_39_word_space_8 | before tower method garage double bike open alter |  
 | bip_39_word_space_9 | before tower method garage double bike open alter hello |  
+| bip_39_word_underscore_1 | before |  
+| bip_39_word_underscore_10 | before_tower_method_garage_double_bike_open_alter_hello_stumble |  
+| bip_39_word_underscore_11 | before_tower_method_garage_double_bike_open_alter_hello_stumble_feature |  
+| bip_39_word_underscore_12 | before_tower_method_garage_double_bike_open_alter_hello_stumble_feature_ahead |  
+| bip_39_word_underscore_2 | before_tower |  
+| bip_39_word_underscore_3 | before_tower_method |  
+| bip_39_word_underscore_4 | before_tower_method_garage |  
+| bip_39_word_underscore_5 | before_tower_method_garage_double |  
+| bip_39_word_underscore_6 | before_tower_method_garage_double_bike |  
+| bip_39_word_underscore_7 | before_tower_method_garage_double_bike_open |  
+| bip_39_word_underscore_8 | before_tower_method_garage_double_bike_open_alter |  
+| bip_39_word_underscore_9 | before_tower_method_garage_double_bike_open_alter_hello |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

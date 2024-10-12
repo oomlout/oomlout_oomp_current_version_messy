@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | giggle |  
+| bip_39_word_dash_10 | giggle-unique-forward-sample-master-elephant-toddler-happy-term-regular |  
+| bip_39_word_dash_11 | giggle-unique-forward-sample-master-elephant-toddler-happy-term-regular-enlist |  
+| bip_39_word_dash_12 | giggle-unique-forward-sample-master-elephant-toddler-happy-term-regular-enlist-across |  
+| bip_39_word_dash_2 | giggle-unique |  
+| bip_39_word_dash_3 | giggle-unique-forward |  
+| bip_39_word_dash_4 | giggle-unique-forward-sample |  
+| bip_39_word_dash_5 | giggle-unique-forward-sample-master |  
+| bip_39_word_dash_6 | giggle-unique-forward-sample-master-elephant |  
+| bip_39_word_dash_7 | giggle-unique-forward-sample-master-elephant-toddler |  
+| bip_39_word_dash_8 | giggle-unique-forward-sample-master-elephant-toddler-happy |  
+| bip_39_word_dash_9 | giggle-unique-forward-sample-master-elephant-toddler-happy-term |  
 | bip_39_word_new_br_1 | giggle |  
 | bip_39_word_new_br_10 | giggle<br>unique<br>forward<br>sample<br>master<br>elephant<br>toddler<br>happy<br>term<br>regular |  
 | bip_39_word_new_br_11 | giggle<br>unique<br>forward<br>sample<br>master<br>elephant<br>toddler<br>happy<br>term<br>regular<br>enlist |  
@@ -147,6 +159,18 @@ term |
 | bip_39_word_space_7 | giggle unique forward sample master elephant toddler |  
 | bip_39_word_space_8 | giggle unique forward sample master elephant toddler happy |  
 | bip_39_word_space_9 | giggle unique forward sample master elephant toddler happy term |  
+| bip_39_word_underscore_1 | giggle |  
+| bip_39_word_underscore_10 | giggle_unique_forward_sample_master_elephant_toddler_happy_term_regular |  
+| bip_39_word_underscore_11 | giggle_unique_forward_sample_master_elephant_toddler_happy_term_regular_enlist |  
+| bip_39_word_underscore_12 | giggle_unique_forward_sample_master_elephant_toddler_happy_term_regular_enlist_across |  
+| bip_39_word_underscore_2 | giggle_unique |  
+| bip_39_word_underscore_3 | giggle_unique_forward |  
+| bip_39_word_underscore_4 | giggle_unique_forward_sample |  
+| bip_39_word_underscore_5 | giggle_unique_forward_sample_master |  
+| bip_39_word_underscore_6 | giggle_unique_forward_sample_master_elephant |  
+| bip_39_word_underscore_7 | giggle_unique_forward_sample_master_elephant_toddler |  
+| bip_39_word_underscore_8 | giggle_unique_forward_sample_master_elephant_toddler_happy |  
+| bip_39_word_underscore_9 | giggle_unique_forward_sample_master_elephant_toddler_happy_term |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

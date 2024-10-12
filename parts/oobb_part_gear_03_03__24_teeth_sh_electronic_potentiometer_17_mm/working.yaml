@@ -1,3 +1,15 @@
+bip_39_word_dash_1: picnic
+bip_39_word_dash_10: picnic-claim-party-glory-skull-diamond-cage-crop-field-mercy
+bip_39_word_dash_11: picnic-claim-party-glory-skull-diamond-cage-crop-field-mercy-help
+bip_39_word_dash_12: picnic-claim-party-glory-skull-diamond-cage-crop-field-mercy-help-address
+bip_39_word_dash_2: picnic-claim
+bip_39_word_dash_3: picnic-claim-party
+bip_39_word_dash_4: picnic-claim-party-glory
+bip_39_word_dash_5: picnic-claim-party-glory-skull
+bip_39_word_dash_6: picnic-claim-party-glory-skull-diamond
+bip_39_word_dash_7: picnic-claim-party-glory-skull-diamond-cage
+bip_39_word_dash_8: picnic-claim-party-glory-skull-diamond-cage-crop
+bip_39_word_dash_9: picnic-claim-party-glory-skull-diamond-cage-crop-field
 bip_39_word_new_br_1: picnic
 bip_39_word_new_br_10: picnic<br>claim<br>party<br>glory<br>skull<br>diamond<br>cage<br>crop<br>field<br>mercy
 bip_39_word_new_br_11: picnic<br>claim<br>party<br>glory<br>skull<br>diamond<br>cage<br>crop<br>field<br>mercy<br>help
@@ -193,6 +205,18 @@ bip_39_word_space_6: picnic claim party glory skull diamond
 bip_39_word_space_7: picnic claim party glory skull diamond cage
 bip_39_word_space_8: picnic claim party glory skull diamond cage crop
 bip_39_word_space_9: picnic claim party glory skull diamond cage crop field
+bip_39_word_underscore_1: picnic
+bip_39_word_underscore_10: picnic_claim_party_glory_skull_diamond_cage_crop_field_mercy
+bip_39_word_underscore_11: picnic_claim_party_glory_skull_diamond_cage_crop_field_mercy_help
+bip_39_word_underscore_12: picnic_claim_party_glory_skull_diamond_cage_crop_field_mercy_help_address
+bip_39_word_underscore_2: picnic_claim
+bip_39_word_underscore_3: picnic_claim_party
+bip_39_word_underscore_4: picnic_claim_party_glory
+bip_39_word_underscore_5: picnic_claim_party_glory_skull
+bip_39_word_underscore_6: picnic_claim_party_glory_skull_diamond
+bip_39_word_underscore_7: picnic_claim_party_glory_skull_diamond_cage
+bip_39_word_underscore_8: picnic_claim_party_glory_skull_diamond_cage_crop
+bip_39_word_underscore_9: picnic_claim_party_glory_skull_diamond_cage_crop_field
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

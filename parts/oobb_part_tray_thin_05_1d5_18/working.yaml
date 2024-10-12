@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vote
+bip_39_word_dash_10: vote-fortune-alert-sick-radar-search-ask-orient-usual-unhappy
+bip_39_word_dash_11: vote-fortune-alert-sick-radar-search-ask-orient-usual-unhappy-update
+bip_39_word_dash_12: vote-fortune-alert-sick-radar-search-ask-orient-usual-unhappy-update-area
+bip_39_word_dash_2: vote-fortune
+bip_39_word_dash_3: vote-fortune-alert
+bip_39_word_dash_4: vote-fortune-alert-sick
+bip_39_word_dash_5: vote-fortune-alert-sick-radar
+bip_39_word_dash_6: vote-fortune-alert-sick-radar-search
+bip_39_word_dash_7: vote-fortune-alert-sick-radar-search-ask
+bip_39_word_dash_8: vote-fortune-alert-sick-radar-search-ask-orient
+bip_39_word_dash_9: vote-fortune-alert-sick-radar-search-ask-orient-usual
 bip_39_word_new_br_1: vote
 bip_39_word_new_br_10: vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy
 bip_39_word_new_br_11: vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy<br>update
@@ -193,6 +205,18 @@ bip_39_word_space_6: vote fortune alert sick radar search
 bip_39_word_space_7: vote fortune alert sick radar search ask
 bip_39_word_space_8: vote fortune alert sick radar search ask orient
 bip_39_word_space_9: vote fortune alert sick radar search ask orient usual
+bip_39_word_underscore_1: vote
+bip_39_word_underscore_10: vote_fortune_alert_sick_radar_search_ask_orient_usual_unhappy
+bip_39_word_underscore_11: vote_fortune_alert_sick_radar_search_ask_orient_usual_unhappy_update
+bip_39_word_underscore_12: vote_fortune_alert_sick_radar_search_ask_orient_usual_unhappy_update_area
+bip_39_word_underscore_2: vote_fortune
+bip_39_word_underscore_3: vote_fortune_alert
+bip_39_word_underscore_4: vote_fortune_alert_sick
+bip_39_word_underscore_5: vote_fortune_alert_sick_radar
+bip_39_word_underscore_6: vote_fortune_alert_sick_radar_search
+bip_39_word_underscore_7: vote_fortune_alert_sick_radar_search_ask
+bip_39_word_underscore_8: vote_fortune_alert_sick_radar_search_ask_orient
+bip_39_word_underscore_9: vote_fortune_alert_sick_radar_search_ask_orient_usual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

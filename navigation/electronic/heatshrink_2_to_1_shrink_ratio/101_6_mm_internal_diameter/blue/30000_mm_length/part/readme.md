@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boring |  
+| bip_39_word_dash_10 | boring-develop-demise-age-wash-federal-naive-drum-secret-use |  
+| bip_39_word_dash_11 | boring-develop-demise-age-wash-federal-naive-drum-secret-use-wire |  
+| bip_39_word_dash_12 | boring-develop-demise-age-wash-federal-naive-drum-secret-use-wire-about |  
+| bip_39_word_dash_2 | boring-develop |  
+| bip_39_word_dash_3 | boring-develop-demise |  
+| bip_39_word_dash_4 | boring-develop-demise-age |  
+| bip_39_word_dash_5 | boring-develop-demise-age-wash |  
+| bip_39_word_dash_6 | boring-develop-demise-age-wash-federal |  
+| bip_39_word_dash_7 | boring-develop-demise-age-wash-federal-naive |  
+| bip_39_word_dash_8 | boring-develop-demise-age-wash-federal-naive-drum |  
+| bip_39_word_dash_9 | boring-develop-demise-age-wash-federal-naive-drum-secret |  
 | bip_39_word_new_br_1 | boring |  
 | bip_39_word_new_br_10 | boring<br>develop<br>demise<br>age<br>wash<br>federal<br>naive<br>drum<br>secret<br>use |  
 | bip_39_word_new_br_11 | boring<br>develop<br>demise<br>age<br>wash<br>federal<br>naive<br>drum<br>secret<br>use<br>wire |  
@@ -147,6 +159,18 @@ secret |
 | bip_39_word_space_7 | boring develop demise age wash federal naive |  
 | bip_39_word_space_8 | boring develop demise age wash federal naive drum |  
 | bip_39_word_space_9 | boring develop demise age wash federal naive drum secret |  
+| bip_39_word_underscore_1 | boring |  
+| bip_39_word_underscore_10 | boring_develop_demise_age_wash_federal_naive_drum_secret_use |  
+| bip_39_word_underscore_11 | boring_develop_demise_age_wash_federal_naive_drum_secret_use_wire |  
+| bip_39_word_underscore_12 | boring_develop_demise_age_wash_federal_naive_drum_secret_use_wire_about |  
+| bip_39_word_underscore_2 | boring_develop |  
+| bip_39_word_underscore_3 | boring_develop_demise |  
+| bip_39_word_underscore_4 | boring_develop_demise_age |  
+| bip_39_word_underscore_5 | boring_develop_demise_age_wash |  
+| bip_39_word_underscore_6 | boring_develop_demise_age_wash_federal |  
+| bip_39_word_underscore_7 | boring_develop_demise_age_wash_federal_naive |  
+| bip_39_word_underscore_8 | boring_develop_demise_age_wash_federal_naive_drum |  
+| bip_39_word_underscore_9 | boring_develop_demise_age_wash_federal_naive_drum_secret |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

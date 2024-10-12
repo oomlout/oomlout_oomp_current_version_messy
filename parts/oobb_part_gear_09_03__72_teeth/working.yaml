@@ -1,3 +1,15 @@
+bip_39_word_dash_1: system
+bip_39_word_dash_10: system-february-ozone-tooth-cousin-october-volcano-onion-bag-resist
+bip_39_word_dash_11: system-february-ozone-tooth-cousin-october-volcano-onion-bag-resist-taxi
+bip_39_word_dash_12: system-february-ozone-tooth-cousin-october-volcano-onion-bag-resist-taxi-above
+bip_39_word_dash_2: system-february
+bip_39_word_dash_3: system-february-ozone
+bip_39_word_dash_4: system-february-ozone-tooth
+bip_39_word_dash_5: system-february-ozone-tooth-cousin
+bip_39_word_dash_6: system-february-ozone-tooth-cousin-october
+bip_39_word_dash_7: system-february-ozone-tooth-cousin-october-volcano
+bip_39_word_dash_8: system-february-ozone-tooth-cousin-october-volcano-onion
+bip_39_word_dash_9: system-february-ozone-tooth-cousin-october-volcano-onion-bag
 bip_39_word_new_br_1: system
 bip_39_word_new_br_10: system<br>february<br>ozone<br>tooth<br>cousin<br>october<br>volcano<br>onion<br>bag<br>resist
 bip_39_word_new_br_11: system<br>february<br>ozone<br>tooth<br>cousin<br>october<br>volcano<br>onion<br>bag<br>resist<br>taxi
@@ -194,6 +206,18 @@ bip_39_word_space_6: system february ozone tooth cousin october
 bip_39_word_space_7: system february ozone tooth cousin october volcano
 bip_39_word_space_8: system february ozone tooth cousin october volcano onion
 bip_39_word_space_9: system february ozone tooth cousin october volcano onion bag
+bip_39_word_underscore_1: system
+bip_39_word_underscore_10: system_february_ozone_tooth_cousin_october_volcano_onion_bag_resist
+bip_39_word_underscore_11: system_february_ozone_tooth_cousin_october_volcano_onion_bag_resist_taxi
+bip_39_word_underscore_12: system_february_ozone_tooth_cousin_october_volcano_onion_bag_resist_taxi_above
+bip_39_word_underscore_2: system_february
+bip_39_word_underscore_3: system_february_ozone
+bip_39_word_underscore_4: system_february_ozone_tooth
+bip_39_word_underscore_5: system_february_ozone_tooth_cousin
+bip_39_word_underscore_6: system_february_ozone_tooth_cousin_october
+bip_39_word_underscore_7: system_february_ozone_tooth_cousin_october_volcano
+bip_39_word_underscore_8: system_february_ozone_tooth_cousin_october_volcano_onion
+bip_39_word_underscore_9: system_february_ozone_tooth_cousin_october_volcano_onion_bag
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

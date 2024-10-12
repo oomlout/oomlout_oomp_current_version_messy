@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | parrot |  
+| bip_39_word_dash_10 | parrot-album-duty-farm-swear-dynamic-science-twist-laugh-idea |  
+| bip_39_word_dash_11 | parrot-album-duty-farm-swear-dynamic-science-twist-laugh-idea-fade |  
+| bip_39_word_dash_12 | parrot-album-duty-farm-swear-dynamic-science-twist-laugh-idea-fade-artefact |  
+| bip_39_word_dash_2 | parrot-album |  
+| bip_39_word_dash_3 | parrot-album-duty |  
+| bip_39_word_dash_4 | parrot-album-duty-farm |  
+| bip_39_word_dash_5 | parrot-album-duty-farm-swear |  
+| bip_39_word_dash_6 | parrot-album-duty-farm-swear-dynamic |  
+| bip_39_word_dash_7 | parrot-album-duty-farm-swear-dynamic-science |  
+| bip_39_word_dash_8 | parrot-album-duty-farm-swear-dynamic-science-twist |  
+| bip_39_word_dash_9 | parrot-album-duty-farm-swear-dynamic-science-twist-laugh |  
 | bip_39_word_new_br_1 | parrot |  
 | bip_39_word_new_br_10 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist<br>laugh<br>idea |  
 | bip_39_word_new_br_11 | parrot<br>album<br>duty<br>farm<br>swear<br>dynamic<br>science<br>twist<br>laugh<br>idea<br>fade |  
@@ -147,6 +159,18 @@ laugh |
 | bip_39_word_space_7 | parrot album duty farm swear dynamic science |  
 | bip_39_word_space_8 | parrot album duty farm swear dynamic science twist |  
 | bip_39_word_space_9 | parrot album duty farm swear dynamic science twist laugh |  
+| bip_39_word_underscore_1 | parrot |  
+| bip_39_word_underscore_10 | parrot_album_duty_farm_swear_dynamic_science_twist_laugh_idea |  
+| bip_39_word_underscore_11 | parrot_album_duty_farm_swear_dynamic_science_twist_laugh_idea_fade |  
+| bip_39_word_underscore_12 | parrot_album_duty_farm_swear_dynamic_science_twist_laugh_idea_fade_artefact |  
+| bip_39_word_underscore_2 | parrot_album |  
+| bip_39_word_underscore_3 | parrot_album_duty |  
+| bip_39_word_underscore_4 | parrot_album_duty_farm |  
+| bip_39_word_underscore_5 | parrot_album_duty_farm_swear |  
+| bip_39_word_underscore_6 | parrot_album_duty_farm_swear_dynamic |  
+| bip_39_word_underscore_7 | parrot_album_duty_farm_swear_dynamic_science |  
+| bip_39_word_underscore_8 | parrot_album_duty_farm_swear_dynamic_science_twist |  
+| bip_39_word_underscore_9 | parrot_album_duty_farm_swear_dynamic_science_twist_laugh |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

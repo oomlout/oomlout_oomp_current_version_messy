@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | outside |  
+| bip_39_word_dash_10 | outside-torch-weird-stand-razor-design-because-gain-valid-alien |  
+| bip_39_word_dash_11 | outside-torch-weird-stand-razor-design-because-gain-valid-alien-rug |  
+| bip_39_word_dash_12 | outside-torch-weird-stand-razor-design-because-gain-valid-alien-rug-annual |  
+| bip_39_word_dash_2 | outside-torch |  
+| bip_39_word_dash_3 | outside-torch-weird |  
+| bip_39_word_dash_4 | outside-torch-weird-stand |  
+| bip_39_word_dash_5 | outside-torch-weird-stand-razor |  
+| bip_39_word_dash_6 | outside-torch-weird-stand-razor-design |  
+| bip_39_word_dash_7 | outside-torch-weird-stand-razor-design-because |  
+| bip_39_word_dash_8 | outside-torch-weird-stand-razor-design-because-gain |  
+| bip_39_word_dash_9 | outside-torch-weird-stand-razor-design-because-gain-valid |  
 | bip_39_word_new_br_1 | outside |  
 | bip_39_word_new_br_10 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien |  
 | bip_39_word_new_br_11 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien<br>rug |  
@@ -147,6 +159,18 @@ valid |
 | bip_39_word_space_7 | outside torch weird stand razor design because |  
 | bip_39_word_space_8 | outside torch weird stand razor design because gain |  
 | bip_39_word_space_9 | outside torch weird stand razor design because gain valid |  
+| bip_39_word_underscore_1 | outside |  
+| bip_39_word_underscore_10 | outside_torch_weird_stand_razor_design_because_gain_valid_alien |  
+| bip_39_word_underscore_11 | outside_torch_weird_stand_razor_design_because_gain_valid_alien_rug |  
+| bip_39_word_underscore_12 | outside_torch_weird_stand_razor_design_because_gain_valid_alien_rug_annual |  
+| bip_39_word_underscore_2 | outside_torch |  
+| bip_39_word_underscore_3 | outside_torch_weird |  
+| bip_39_word_underscore_4 | outside_torch_weird_stand |  
+| bip_39_word_underscore_5 | outside_torch_weird_stand_razor |  
+| bip_39_word_underscore_6 | outside_torch_weird_stand_razor_design |  
+| bip_39_word_underscore_7 | outside_torch_weird_stand_razor_design_because |  
+| bip_39_word_underscore_8 | outside_torch_weird_stand_razor_design_because_gain |  
+| bip_39_word_underscore_9 | outside_torch_weird_stand_razor_design_because_gain_valid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

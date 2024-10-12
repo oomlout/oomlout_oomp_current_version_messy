@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | attend |  
+| bip_39_word_dash_10 | attend-forget-actual-diesel-comfort-blush-thumb-airport-describe-build |  
+| bip_39_word_dash_11 | attend-forget-actual-diesel-comfort-blush-thumb-airport-describe-build-curious |  
+| bip_39_word_dash_12 | attend-forget-actual-diesel-comfort-blush-thumb-airport-describe-build-curious-afford |  
+| bip_39_word_dash_2 | attend-forget |  
+| bip_39_word_dash_3 | attend-forget-actual |  
+| bip_39_word_dash_4 | attend-forget-actual-diesel |  
+| bip_39_word_dash_5 | attend-forget-actual-diesel-comfort |  
+| bip_39_word_dash_6 | attend-forget-actual-diesel-comfort-blush |  
+| bip_39_word_dash_7 | attend-forget-actual-diesel-comfort-blush-thumb |  
+| bip_39_word_dash_8 | attend-forget-actual-diesel-comfort-blush-thumb-airport |  
+| bip_39_word_dash_9 | attend-forget-actual-diesel-comfort-blush-thumb-airport-describe |  
 | bip_39_word_new_br_1 | attend |  
 | bip_39_word_new_br_10 | attend<br>forget<br>actual<br>diesel<br>comfort<br>blush<br>thumb<br>airport<br>describe<br>build |  
 | bip_39_word_new_br_11 | attend<br>forget<br>actual<br>diesel<br>comfort<br>blush<br>thumb<br>airport<br>describe<br>build<br>curious |  
@@ -147,6 +159,18 @@ describe |
 | bip_39_word_space_7 | attend forget actual diesel comfort blush thumb |  
 | bip_39_word_space_8 | attend forget actual diesel comfort blush thumb airport |  
 | bip_39_word_space_9 | attend forget actual diesel comfort blush thumb airport describe |  
+| bip_39_word_underscore_1 | attend |  
+| bip_39_word_underscore_10 | attend_forget_actual_diesel_comfort_blush_thumb_airport_describe_build |  
+| bip_39_word_underscore_11 | attend_forget_actual_diesel_comfort_blush_thumb_airport_describe_build_curious |  
+| bip_39_word_underscore_12 | attend_forget_actual_diesel_comfort_blush_thumb_airport_describe_build_curious_afford |  
+| bip_39_word_underscore_2 | attend_forget |  
+| bip_39_word_underscore_3 | attend_forget_actual |  
+| bip_39_word_underscore_4 | attend_forget_actual_diesel |  
+| bip_39_word_underscore_5 | attend_forget_actual_diesel_comfort |  
+| bip_39_word_underscore_6 | attend_forget_actual_diesel_comfort_blush |  
+| bip_39_word_underscore_7 | attend_forget_actual_diesel_comfort_blush_thumb |  
+| bip_39_word_underscore_8 | attend_forget_actual_diesel_comfort_blush_thumb_airport |  
+| bip_39_word_underscore_9 | attend_forget_actual_diesel_comfort_blush_thumb_airport_describe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

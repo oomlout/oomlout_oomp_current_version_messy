@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | response |  
+| bip_39_word_dash_10 | response-build-logic-erase-dismiss-match-wet-lawn-lecture-admit |  
+| bip_39_word_dash_11 | response-build-logic-erase-dismiss-match-wet-lawn-lecture-admit-oval |  
+| bip_39_word_dash_12 | response-build-logic-erase-dismiss-match-wet-lawn-lecture-admit-oval-add |  
+| bip_39_word_dash_2 | response-build |  
+| bip_39_word_dash_3 | response-build-logic |  
+| bip_39_word_dash_4 | response-build-logic-erase |  
+| bip_39_word_dash_5 | response-build-logic-erase-dismiss |  
+| bip_39_word_dash_6 | response-build-logic-erase-dismiss-match |  
+| bip_39_word_dash_7 | response-build-logic-erase-dismiss-match-wet |  
+| bip_39_word_dash_8 | response-build-logic-erase-dismiss-match-wet-lawn |  
+| bip_39_word_dash_9 | response-build-logic-erase-dismiss-match-wet-lawn-lecture |  
 | bip_39_word_new_br_1 | response |  
 | bip_39_word_new_br_10 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit |  
 | bip_39_word_new_br_11 | response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit<br>oval |  
@@ -147,6 +159,18 @@ lecture |
 | bip_39_word_space_7 | response build logic erase dismiss match wet |  
 | bip_39_word_space_8 | response build logic erase dismiss match wet lawn |  
 | bip_39_word_space_9 | response build logic erase dismiss match wet lawn lecture |  
+| bip_39_word_underscore_1 | response |  
+| bip_39_word_underscore_10 | response_build_logic_erase_dismiss_match_wet_lawn_lecture_admit |  
+| bip_39_word_underscore_11 | response_build_logic_erase_dismiss_match_wet_lawn_lecture_admit_oval |  
+| bip_39_word_underscore_12 | response_build_logic_erase_dismiss_match_wet_lawn_lecture_admit_oval_add |  
+| bip_39_word_underscore_2 | response_build |  
+| bip_39_word_underscore_3 | response_build_logic |  
+| bip_39_word_underscore_4 | response_build_logic_erase |  
+| bip_39_word_underscore_5 | response_build_logic_erase_dismiss |  
+| bip_39_word_underscore_6 | response_build_logic_erase_dismiss_match |  
+| bip_39_word_underscore_7 | response_build_logic_erase_dismiss_match_wet |  
+| bip_39_word_underscore_8 | response_build_logic_erase_dismiss_match_wet_lawn |  
+| bip_39_word_underscore_9 | response_build_logic_erase_dismiss_match_wet_lawn_lecture |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

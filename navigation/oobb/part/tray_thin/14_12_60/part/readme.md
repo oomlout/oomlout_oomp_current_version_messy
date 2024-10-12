@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fitness |  
+| bip_39_word_dash_10 | fitness-involve-behind-result-young-cabbage-drive-rival-force-warrior |  
+| bip_39_word_dash_11 | fitness-involve-behind-result-young-cabbage-drive-rival-force-warrior-benefit |  
+| bip_39_word_dash_12 | fitness-involve-behind-result-young-cabbage-drive-rival-force-warrior-benefit-animal |  
+| bip_39_word_dash_2 | fitness-involve |  
+| bip_39_word_dash_3 | fitness-involve-behind |  
+| bip_39_word_dash_4 | fitness-involve-behind-result |  
+| bip_39_word_dash_5 | fitness-involve-behind-result-young |  
+| bip_39_word_dash_6 | fitness-involve-behind-result-young-cabbage |  
+| bip_39_word_dash_7 | fitness-involve-behind-result-young-cabbage-drive |  
+| bip_39_word_dash_8 | fitness-involve-behind-result-young-cabbage-drive-rival |  
+| bip_39_word_dash_9 | fitness-involve-behind-result-young-cabbage-drive-rival-force |  
 | bip_39_word_new_br_1 | fitness |  
 | bip_39_word_new_br_10 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival<br>force<br>warrior |  
 | bip_39_word_new_br_11 | fitness<br>involve<br>behind<br>result<br>young<br>cabbage<br>drive<br>rival<br>force<br>warrior<br>benefit |  
@@ -147,6 +159,18 @@ force |
 | bip_39_word_space_7 | fitness involve behind result young cabbage drive |  
 | bip_39_word_space_8 | fitness involve behind result young cabbage drive rival |  
 | bip_39_word_space_9 | fitness involve behind result young cabbage drive rival force |  
+| bip_39_word_underscore_1 | fitness |  
+| bip_39_word_underscore_10 | fitness_involve_behind_result_young_cabbage_drive_rival_force_warrior |  
+| bip_39_word_underscore_11 | fitness_involve_behind_result_young_cabbage_drive_rival_force_warrior_benefit |  
+| bip_39_word_underscore_12 | fitness_involve_behind_result_young_cabbage_drive_rival_force_warrior_benefit_animal |  
+| bip_39_word_underscore_2 | fitness_involve |  
+| bip_39_word_underscore_3 | fitness_involve_behind |  
+| bip_39_word_underscore_4 | fitness_involve_behind_result |  
+| bip_39_word_underscore_5 | fitness_involve_behind_result_young |  
+| bip_39_word_underscore_6 | fitness_involve_behind_result_young_cabbage |  
+| bip_39_word_underscore_7 | fitness_involve_behind_result_young_cabbage_drive |  
+| bip_39_word_underscore_8 | fitness_involve_behind_result_young_cabbage_drive_rival |  
+| bip_39_word_underscore_9 | fitness_involve_behind_result_young_cabbage_drive_rival_force |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

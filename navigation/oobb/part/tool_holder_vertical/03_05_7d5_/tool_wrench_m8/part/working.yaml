@@ -1,3 +1,15 @@
+bip_39_word_dash_1: roof
+bip_39_word_dash_10: roof-light-silent-melt-awful-pilot-catch-relax-valid-travel
+bip_39_word_dash_11: roof-light-silent-melt-awful-pilot-catch-relax-valid-travel-ginger
+bip_39_word_dash_12: roof-light-silent-melt-awful-pilot-catch-relax-valid-travel-ginger-anxiety
+bip_39_word_dash_2: roof-light
+bip_39_word_dash_3: roof-light-silent
+bip_39_word_dash_4: roof-light-silent-melt
+bip_39_word_dash_5: roof-light-silent-melt-awful
+bip_39_word_dash_6: roof-light-silent-melt-awful-pilot
+bip_39_word_dash_7: roof-light-silent-melt-awful-pilot-catch
+bip_39_word_dash_8: roof-light-silent-melt-awful-pilot-catch-relax
+bip_39_word_dash_9: roof-light-silent-melt-awful-pilot-catch-relax-valid
 bip_39_word_new_br_1: roof
 bip_39_word_new_br_10: roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel
 bip_39_word_new_br_11: roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel<br>ginger
@@ -193,6 +205,18 @@ bip_39_word_space_6: roof light silent melt awful pilot
 bip_39_word_space_7: roof light silent melt awful pilot catch
 bip_39_word_space_8: roof light silent melt awful pilot catch relax
 bip_39_word_space_9: roof light silent melt awful pilot catch relax valid
+bip_39_word_underscore_1: roof
+bip_39_word_underscore_10: roof_light_silent_melt_awful_pilot_catch_relax_valid_travel
+bip_39_word_underscore_11: roof_light_silent_melt_awful_pilot_catch_relax_valid_travel_ginger
+bip_39_word_underscore_12: roof_light_silent_melt_awful_pilot_catch_relax_valid_travel_ginger_anxiety
+bip_39_word_underscore_2: roof_light
+bip_39_word_underscore_3: roof_light_silent
+bip_39_word_underscore_4: roof_light_silent_melt
+bip_39_word_underscore_5: roof_light_silent_melt_awful
+bip_39_word_underscore_6: roof_light_silent_melt_awful_pilot
+bip_39_word_underscore_7: roof_light_silent_melt_awful_pilot_catch
+bip_39_word_underscore_8: roof_light_silent_melt_awful_pilot_catch_relax
+bip_39_word_underscore_9: roof_light_silent_melt_awful_pilot_catch_relax_valid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

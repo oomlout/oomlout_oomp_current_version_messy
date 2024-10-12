@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rocket |  
+| bip_39_word_dash_10 | rocket-enough-mansion-mobile-people-include-agree-anxiety-win-aware |  
+| bip_39_word_dash_11 | rocket-enough-mansion-mobile-people-include-agree-anxiety-win-aware-thumb |  
+| bip_39_word_dash_12 | rocket-enough-mansion-mobile-people-include-agree-anxiety-win-aware-thumb-arrive |  
+| bip_39_word_dash_2 | rocket-enough |  
+| bip_39_word_dash_3 | rocket-enough-mansion |  
+| bip_39_word_dash_4 | rocket-enough-mansion-mobile |  
+| bip_39_word_dash_5 | rocket-enough-mansion-mobile-people |  
+| bip_39_word_dash_6 | rocket-enough-mansion-mobile-people-include |  
+| bip_39_word_dash_7 | rocket-enough-mansion-mobile-people-include-agree |  
+| bip_39_word_dash_8 | rocket-enough-mansion-mobile-people-include-agree-anxiety |  
+| bip_39_word_dash_9 | rocket-enough-mansion-mobile-people-include-agree-anxiety-win |  
 | bip_39_word_new_br_1 | rocket |  
 | bip_39_word_new_br_10 | rocket<br>enough<br>mansion<br>mobile<br>people<br>include<br>agree<br>anxiety<br>win<br>aware |  
 | bip_39_word_new_br_11 | rocket<br>enough<br>mansion<br>mobile<br>people<br>include<br>agree<br>anxiety<br>win<br>aware<br>thumb |  
@@ -147,6 +159,18 @@ win |
 | bip_39_word_space_7 | rocket enough mansion mobile people include agree |  
 | bip_39_word_space_8 | rocket enough mansion mobile people include agree anxiety |  
 | bip_39_word_space_9 | rocket enough mansion mobile people include agree anxiety win |  
+| bip_39_word_underscore_1 | rocket |  
+| bip_39_word_underscore_10 | rocket_enough_mansion_mobile_people_include_agree_anxiety_win_aware |  
+| bip_39_word_underscore_11 | rocket_enough_mansion_mobile_people_include_agree_anxiety_win_aware_thumb |  
+| bip_39_word_underscore_12 | rocket_enough_mansion_mobile_people_include_agree_anxiety_win_aware_thumb_arrive |  
+| bip_39_word_underscore_2 | rocket_enough |  
+| bip_39_word_underscore_3 | rocket_enough_mansion |  
+| bip_39_word_underscore_4 | rocket_enough_mansion_mobile |  
+| bip_39_word_underscore_5 | rocket_enough_mansion_mobile_people |  
+| bip_39_word_underscore_6 | rocket_enough_mansion_mobile_people_include |  
+| bip_39_word_underscore_7 | rocket_enough_mansion_mobile_people_include_agree |  
+| bip_39_word_underscore_8 | rocket_enough_mansion_mobile_people_include_agree_anxiety |  
+| bip_39_word_underscore_9 | rocket_enough_mansion_mobile_people_include_agree_anxiety_win |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

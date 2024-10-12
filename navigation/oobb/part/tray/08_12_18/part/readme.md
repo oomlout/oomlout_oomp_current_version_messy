@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tuition |  
+| bip_39_word_dash_10 | tuition-dry-neutral-assume-fortune-anger-dentist-timber-consider-food |  
+| bip_39_word_dash_11 | tuition-dry-neutral-assume-fortune-anger-dentist-timber-consider-food-flower |  
+| bip_39_word_dash_12 | tuition-dry-neutral-assume-fortune-anger-dentist-timber-consider-food-flower-act |  
+| bip_39_word_dash_2 | tuition-dry |  
+| bip_39_word_dash_3 | tuition-dry-neutral |  
+| bip_39_word_dash_4 | tuition-dry-neutral-assume |  
+| bip_39_word_dash_5 | tuition-dry-neutral-assume-fortune |  
+| bip_39_word_dash_6 | tuition-dry-neutral-assume-fortune-anger |  
+| bip_39_word_dash_7 | tuition-dry-neutral-assume-fortune-anger-dentist |  
+| bip_39_word_dash_8 | tuition-dry-neutral-assume-fortune-anger-dentist-timber |  
+| bip_39_word_dash_9 | tuition-dry-neutral-assume-fortune-anger-dentist-timber-consider |  
 | bip_39_word_new_br_1 | tuition |  
 | bip_39_word_new_br_10 | tuition<br>dry<br>neutral<br>assume<br>fortune<br>anger<br>dentist<br>timber<br>consider<br>food |  
 | bip_39_word_new_br_11 | tuition<br>dry<br>neutral<br>assume<br>fortune<br>anger<br>dentist<br>timber<br>consider<br>food<br>flower |  
@@ -147,6 +159,18 @@ consider |
 | bip_39_word_space_7 | tuition dry neutral assume fortune anger dentist |  
 | bip_39_word_space_8 | tuition dry neutral assume fortune anger dentist timber |  
 | bip_39_word_space_9 | tuition dry neutral assume fortune anger dentist timber consider |  
+| bip_39_word_underscore_1 | tuition |  
+| bip_39_word_underscore_10 | tuition_dry_neutral_assume_fortune_anger_dentist_timber_consider_food |  
+| bip_39_word_underscore_11 | tuition_dry_neutral_assume_fortune_anger_dentist_timber_consider_food_flower |  
+| bip_39_word_underscore_12 | tuition_dry_neutral_assume_fortune_anger_dentist_timber_consider_food_flower_act |  
+| bip_39_word_underscore_2 | tuition_dry |  
+| bip_39_word_underscore_3 | tuition_dry_neutral |  
+| bip_39_word_underscore_4 | tuition_dry_neutral_assume |  
+| bip_39_word_underscore_5 | tuition_dry_neutral_assume_fortune |  
+| bip_39_word_underscore_6 | tuition_dry_neutral_assume_fortune_anger |  
+| bip_39_word_underscore_7 | tuition_dry_neutral_assume_fortune_anger_dentist |  
+| bip_39_word_underscore_8 | tuition_dry_neutral_assume_fortune_anger_dentist_timber |  
+| bip_39_word_underscore_9 | tuition_dry_neutral_assume_fortune_anger_dentist_timber_consider |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

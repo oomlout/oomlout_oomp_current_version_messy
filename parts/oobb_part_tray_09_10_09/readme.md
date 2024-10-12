@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pigeon |  
+| bip_39_word_dash_10 | pigeon-gown-load-fetch-during-indicate-wash-orphan-raven-boil |  
+| bip_39_word_dash_11 | pigeon-gown-load-fetch-during-indicate-wash-orphan-raven-boil-concert |  
+| bip_39_word_dash_12 | pigeon-gown-load-fetch-during-indicate-wash-orphan-raven-boil-concert-atom |  
+| bip_39_word_dash_2 | pigeon-gown |  
+| bip_39_word_dash_3 | pigeon-gown-load |  
+| bip_39_word_dash_4 | pigeon-gown-load-fetch |  
+| bip_39_word_dash_5 | pigeon-gown-load-fetch-during |  
+| bip_39_word_dash_6 | pigeon-gown-load-fetch-during-indicate |  
+| bip_39_word_dash_7 | pigeon-gown-load-fetch-during-indicate-wash |  
+| bip_39_word_dash_8 | pigeon-gown-load-fetch-during-indicate-wash-orphan |  
+| bip_39_word_dash_9 | pigeon-gown-load-fetch-during-indicate-wash-orphan-raven |  
 | bip_39_word_new_br_1 | pigeon |  
 | bip_39_word_new_br_10 | pigeon<br>gown<br>load<br>fetch<br>during<br>indicate<br>wash<br>orphan<br>raven<br>boil |  
 | bip_39_word_new_br_11 | pigeon<br>gown<br>load<br>fetch<br>during<br>indicate<br>wash<br>orphan<br>raven<br>boil<br>concert |  
@@ -147,6 +159,18 @@ raven |
 | bip_39_word_space_7 | pigeon gown load fetch during indicate wash |  
 | bip_39_word_space_8 | pigeon gown load fetch during indicate wash orphan |  
 | bip_39_word_space_9 | pigeon gown load fetch during indicate wash orphan raven |  
+| bip_39_word_underscore_1 | pigeon |  
+| bip_39_word_underscore_10 | pigeon_gown_load_fetch_during_indicate_wash_orphan_raven_boil |  
+| bip_39_word_underscore_11 | pigeon_gown_load_fetch_during_indicate_wash_orphan_raven_boil_concert |  
+| bip_39_word_underscore_12 | pigeon_gown_load_fetch_during_indicate_wash_orphan_raven_boil_concert_atom |  
+| bip_39_word_underscore_2 | pigeon_gown |  
+| bip_39_word_underscore_3 | pigeon_gown_load |  
+| bip_39_word_underscore_4 | pigeon_gown_load_fetch |  
+| bip_39_word_underscore_5 | pigeon_gown_load_fetch_during |  
+| bip_39_word_underscore_6 | pigeon_gown_load_fetch_during_indicate |  
+| bip_39_word_underscore_7 | pigeon_gown_load_fetch_during_indicate_wash |  
+| bip_39_word_underscore_8 | pigeon_gown_load_fetch_during_indicate_wash_orphan |  
+| bip_39_word_underscore_9 | pigeon_gown_load_fetch_during_indicate_wash_orphan_raven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shine |  
+| bip_39_word_dash_10 | shine-please-emerge-supreme-flee-snow-solid-rival-very-rapid |  
+| bip_39_word_dash_11 | shine-please-emerge-supreme-flee-snow-solid-rival-very-rapid-flavor |  
+| bip_39_word_dash_12 | shine-please-emerge-supreme-flee-snow-solid-rival-very-rapid-flavor-advice |  
+| bip_39_word_dash_2 | shine-please |  
+| bip_39_word_dash_3 | shine-please-emerge |  
+| bip_39_word_dash_4 | shine-please-emerge-supreme |  
+| bip_39_word_dash_5 | shine-please-emerge-supreme-flee |  
+| bip_39_word_dash_6 | shine-please-emerge-supreme-flee-snow |  
+| bip_39_word_dash_7 | shine-please-emerge-supreme-flee-snow-solid |  
+| bip_39_word_dash_8 | shine-please-emerge-supreme-flee-snow-solid-rival |  
+| bip_39_word_dash_9 | shine-please-emerge-supreme-flee-snow-solid-rival-very |  
 | bip_39_word_new_br_1 | shine |  
 | bip_39_word_new_br_10 | shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid |  
 | bip_39_word_new_br_11 | shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid<br>flavor |  
@@ -147,6 +159,18 @@ very |
 | bip_39_word_space_7 | shine please emerge supreme flee snow solid |  
 | bip_39_word_space_8 | shine please emerge supreme flee snow solid rival |  
 | bip_39_word_space_9 | shine please emerge supreme flee snow solid rival very |  
+| bip_39_word_underscore_1 | shine |  
+| bip_39_word_underscore_10 | shine_please_emerge_supreme_flee_snow_solid_rival_very_rapid |  
+| bip_39_word_underscore_11 | shine_please_emerge_supreme_flee_snow_solid_rival_very_rapid_flavor |  
+| bip_39_word_underscore_12 | shine_please_emerge_supreme_flee_snow_solid_rival_very_rapid_flavor_advice |  
+| bip_39_word_underscore_2 | shine_please |  
+| bip_39_word_underscore_3 | shine_please_emerge |  
+| bip_39_word_underscore_4 | shine_please_emerge_supreme |  
+| bip_39_word_underscore_5 | shine_please_emerge_supreme_flee |  
+| bip_39_word_underscore_6 | shine_please_emerge_supreme_flee_snow |  
+| bip_39_word_underscore_7 | shine_please_emerge_supreme_flee_snow_solid |  
+| bip_39_word_underscore_8 | shine_please_emerge_supreme_flee_snow_solid_rival |  
+| bip_39_word_underscore_9 | shine_please_emerge_supreme_flee_snow_solid_rival_very |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

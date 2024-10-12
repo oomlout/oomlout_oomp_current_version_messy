@@ -1,3 +1,15 @@
+bip_39_word_dash_1: attend
+bip_39_word_dash_10: attend-father-similar-wolf-album-mesh-green-follow-phrase-sock
+bip_39_word_dash_11: attend-father-similar-wolf-album-mesh-green-follow-phrase-sock-grow
+bip_39_word_dash_12: attend-father-similar-wolf-album-mesh-green-follow-phrase-sock-grow-apple
+bip_39_word_dash_2: attend-father
+bip_39_word_dash_3: attend-father-similar
+bip_39_word_dash_4: attend-father-similar-wolf
+bip_39_word_dash_5: attend-father-similar-wolf-album
+bip_39_word_dash_6: attend-father-similar-wolf-album-mesh
+bip_39_word_dash_7: attend-father-similar-wolf-album-mesh-green
+bip_39_word_dash_8: attend-father-similar-wolf-album-mesh-green-follow
+bip_39_word_dash_9: attend-father-similar-wolf-album-mesh-green-follow-phrase
 bip_39_word_new_br_1: attend
 bip_39_word_new_br_10: attend<br>father<br>similar<br>wolf<br>album<br>mesh<br>green<br>follow<br>phrase<br>sock
 bip_39_word_new_br_11: attend<br>father<br>similar<br>wolf<br>album<br>mesh<br>green<br>follow<br>phrase<br>sock<br>grow
@@ -193,6 +205,18 @@ bip_39_word_space_6: attend father similar wolf album mesh
 bip_39_word_space_7: attend father similar wolf album mesh green
 bip_39_word_space_8: attend father similar wolf album mesh green follow
 bip_39_word_space_9: attend father similar wolf album mesh green follow phrase
+bip_39_word_underscore_1: attend
+bip_39_word_underscore_10: attend_father_similar_wolf_album_mesh_green_follow_phrase_sock
+bip_39_word_underscore_11: attend_father_similar_wolf_album_mesh_green_follow_phrase_sock_grow
+bip_39_word_underscore_12: attend_father_similar_wolf_album_mesh_green_follow_phrase_sock_grow_apple
+bip_39_word_underscore_2: attend_father
+bip_39_word_underscore_3: attend_father_similar
+bip_39_word_underscore_4: attend_father_similar_wolf
+bip_39_word_underscore_5: attend_father_similar_wolf_album
+bip_39_word_underscore_6: attend_father_similar_wolf_album_mesh
+bip_39_word_underscore_7: attend_father_similar_wolf_album_mesh_green
+bip_39_word_underscore_8: attend_father_similar_wolf_album_mesh_green_follow
+bip_39_word_underscore_9: attend_father_similar_wolf_album_mesh_green_follow_phrase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

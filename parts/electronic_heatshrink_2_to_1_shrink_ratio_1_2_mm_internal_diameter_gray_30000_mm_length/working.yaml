@@ -1,3 +1,15 @@
+bip_39_word_dash_1: state
+bip_39_word_dash_10: state-shallow-ceiling-person-rug-add-parade-question-top-shiver
+bip_39_word_dash_11: state-shallow-ceiling-person-rug-add-parade-question-top-shiver-stem
+bip_39_word_dash_12: state-shallow-ceiling-person-rug-add-parade-question-top-shiver-stem-across
+bip_39_word_dash_2: state-shallow
+bip_39_word_dash_3: state-shallow-ceiling
+bip_39_word_dash_4: state-shallow-ceiling-person
+bip_39_word_dash_5: state-shallow-ceiling-person-rug
+bip_39_word_dash_6: state-shallow-ceiling-person-rug-add
+bip_39_word_dash_7: state-shallow-ceiling-person-rug-add-parade
+bip_39_word_dash_8: state-shallow-ceiling-person-rug-add-parade-question
+bip_39_word_dash_9: state-shallow-ceiling-person-rug-add-parade-question-top
 bip_39_word_new_br_1: state
 bip_39_word_new_br_10: state<br>shallow<br>ceiling<br>person<br>rug<br>add<br>parade<br>question<br>top<br>shiver
 bip_39_word_new_br_11: state<br>shallow<br>ceiling<br>person<br>rug<br>add<br>parade<br>question<br>top<br>shiver<br>stem
@@ -193,6 +205,18 @@ bip_39_word_space_6: state shallow ceiling person rug add
 bip_39_word_space_7: state shallow ceiling person rug add parade
 bip_39_word_space_8: state shallow ceiling person rug add parade question
 bip_39_word_space_9: state shallow ceiling person rug add parade question top
+bip_39_word_underscore_1: state
+bip_39_word_underscore_10: state_shallow_ceiling_person_rug_add_parade_question_top_shiver
+bip_39_word_underscore_11: state_shallow_ceiling_person_rug_add_parade_question_top_shiver_stem
+bip_39_word_underscore_12: state_shallow_ceiling_person_rug_add_parade_question_top_shiver_stem_across
+bip_39_word_underscore_2: state_shallow
+bip_39_word_underscore_3: state_shallow_ceiling
+bip_39_word_underscore_4: state_shallow_ceiling_person
+bip_39_word_underscore_5: state_shallow_ceiling_person_rug
+bip_39_word_underscore_6: state_shallow_ceiling_person_rug_add
+bip_39_word_underscore_7: state_shallow_ceiling_person_rug_add_parade
+bip_39_word_underscore_8: state_shallow_ceiling_person_rug_add_parade_question
+bip_39_word_underscore_9: state_shallow_ceiling_person_rug_add_parade_question_top
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

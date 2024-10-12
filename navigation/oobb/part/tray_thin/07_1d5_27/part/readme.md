@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | possible |  
+| bip_39_word_dash_10 | possible-industry-crush-invite-off-bulb-neither-husband-stairs-quiz |  
+| bip_39_word_dash_11 | possible-industry-crush-invite-off-bulb-neither-husband-stairs-quiz-bag |  
+| bip_39_word_dash_12 | possible-industry-crush-invite-off-bulb-neither-husband-stairs-quiz-bag-alone |  
+| bip_39_word_dash_2 | possible-industry |  
+| bip_39_word_dash_3 | possible-industry-crush |  
+| bip_39_word_dash_4 | possible-industry-crush-invite |  
+| bip_39_word_dash_5 | possible-industry-crush-invite-off |  
+| bip_39_word_dash_6 | possible-industry-crush-invite-off-bulb |  
+| bip_39_word_dash_7 | possible-industry-crush-invite-off-bulb-neither |  
+| bip_39_word_dash_8 | possible-industry-crush-invite-off-bulb-neither-husband |  
+| bip_39_word_dash_9 | possible-industry-crush-invite-off-bulb-neither-husband-stairs |  
 | bip_39_word_new_br_1 | possible |  
 | bip_39_word_new_br_10 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz |  
 | bip_39_word_new_br_11 | possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz<br>bag |  
@@ -147,6 +159,18 @@ stairs |
 | bip_39_word_space_7 | possible industry crush invite off bulb neither |  
 | bip_39_word_space_8 | possible industry crush invite off bulb neither husband |  
 | bip_39_word_space_9 | possible industry crush invite off bulb neither husband stairs |  
+| bip_39_word_underscore_1 | possible |  
+| bip_39_word_underscore_10 | possible_industry_crush_invite_off_bulb_neither_husband_stairs_quiz |  
+| bip_39_word_underscore_11 | possible_industry_crush_invite_off_bulb_neither_husband_stairs_quiz_bag |  
+| bip_39_word_underscore_12 | possible_industry_crush_invite_off_bulb_neither_husband_stairs_quiz_bag_alone |  
+| bip_39_word_underscore_2 | possible_industry |  
+| bip_39_word_underscore_3 | possible_industry_crush |  
+| bip_39_word_underscore_4 | possible_industry_crush_invite |  
+| bip_39_word_underscore_5 | possible_industry_crush_invite_off |  
+| bip_39_word_underscore_6 | possible_industry_crush_invite_off_bulb |  
+| bip_39_word_underscore_7 | possible_industry_crush_invite_off_bulb_neither |  
+| bip_39_word_underscore_8 | possible_industry_crush_invite_off_bulb_neither_husband |  
+| bip_39_word_underscore_9 | possible_industry_crush_invite_off_bulb_neither_husband_stairs |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

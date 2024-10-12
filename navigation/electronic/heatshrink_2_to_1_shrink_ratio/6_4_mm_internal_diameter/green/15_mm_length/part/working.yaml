@@ -1,3 +1,15 @@
+bip_39_word_dash_1: magic
+bip_39_word_dash_10: magic-egg-ketchup-turkey-glue-cheese-damp-gate-cause-symbol
+bip_39_word_dash_11: magic-egg-ketchup-turkey-glue-cheese-damp-gate-cause-symbol-pole
+bip_39_word_dash_12: magic-egg-ketchup-turkey-glue-cheese-damp-gate-cause-symbol-pole-action
+bip_39_word_dash_2: magic-egg
+bip_39_word_dash_3: magic-egg-ketchup
+bip_39_word_dash_4: magic-egg-ketchup-turkey
+bip_39_word_dash_5: magic-egg-ketchup-turkey-glue
+bip_39_word_dash_6: magic-egg-ketchup-turkey-glue-cheese
+bip_39_word_dash_7: magic-egg-ketchup-turkey-glue-cheese-damp
+bip_39_word_dash_8: magic-egg-ketchup-turkey-glue-cheese-damp-gate
+bip_39_word_dash_9: magic-egg-ketchup-turkey-glue-cheese-damp-gate-cause
 bip_39_word_new_br_1: magic
 bip_39_word_new_br_10: magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol
 bip_39_word_new_br_11: magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol<br>pole
@@ -193,6 +205,18 @@ bip_39_word_space_6: magic egg ketchup turkey glue cheese
 bip_39_word_space_7: magic egg ketchup turkey glue cheese damp
 bip_39_word_space_8: magic egg ketchup turkey glue cheese damp gate
 bip_39_word_space_9: magic egg ketchup turkey glue cheese damp gate cause
+bip_39_word_underscore_1: magic
+bip_39_word_underscore_10: magic_egg_ketchup_turkey_glue_cheese_damp_gate_cause_symbol
+bip_39_word_underscore_11: magic_egg_ketchup_turkey_glue_cheese_damp_gate_cause_symbol_pole
+bip_39_word_underscore_12: magic_egg_ketchup_turkey_glue_cheese_damp_gate_cause_symbol_pole_action
+bip_39_word_underscore_2: magic_egg
+bip_39_word_underscore_3: magic_egg_ketchup
+bip_39_word_underscore_4: magic_egg_ketchup_turkey
+bip_39_word_underscore_5: magic_egg_ketchup_turkey_glue
+bip_39_word_underscore_6: magic_egg_ketchup_turkey_glue_cheese
+bip_39_word_underscore_7: magic_egg_ketchup_turkey_glue_cheese_damp
+bip_39_word_underscore_8: magic_egg_ketchup_turkey_glue_cheese_damp_gate
+bip_39_word_underscore_9: magic_egg_ketchup_turkey_glue_cheese_damp_gate_cause
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

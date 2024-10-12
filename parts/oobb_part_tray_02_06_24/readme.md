@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spike |  
+| bip_39_word_dash_10 | spike-comfort-offer-tornado-fury-utility-violin-public-spike-turn |  
+| bip_39_word_dash_11 | spike-comfort-offer-tornado-fury-utility-violin-public-spike-turn-hurt |  
+| bip_39_word_dash_12 | spike-comfort-offer-tornado-fury-utility-violin-public-spike-turn-hurt-across |  
+| bip_39_word_dash_2 | spike-comfort |  
+| bip_39_word_dash_3 | spike-comfort-offer |  
+| bip_39_word_dash_4 | spike-comfort-offer-tornado |  
+| bip_39_word_dash_5 | spike-comfort-offer-tornado-fury |  
+| bip_39_word_dash_6 | spike-comfort-offer-tornado-fury-utility |  
+| bip_39_word_dash_7 | spike-comfort-offer-tornado-fury-utility-violin |  
+| bip_39_word_dash_8 | spike-comfort-offer-tornado-fury-utility-violin-public |  
+| bip_39_word_dash_9 | spike-comfort-offer-tornado-fury-utility-violin-public-spike |  
 | bip_39_word_new_br_1 | spike |  
 | bip_39_word_new_br_10 | spike<br>comfort<br>offer<br>tornado<br>fury<br>utility<br>violin<br>public<br>spike<br>turn |  
 | bip_39_word_new_br_11 | spike<br>comfort<br>offer<br>tornado<br>fury<br>utility<br>violin<br>public<br>spike<br>turn<br>hurt |  
@@ -147,6 +159,18 @@ spike |
 | bip_39_word_space_7 | spike comfort offer tornado fury utility violin |  
 | bip_39_word_space_8 | spike comfort offer tornado fury utility violin public |  
 | bip_39_word_space_9 | spike comfort offer tornado fury utility violin public spike |  
+| bip_39_word_underscore_1 | spike |  
+| bip_39_word_underscore_10 | spike_comfort_offer_tornado_fury_utility_violin_public_spike_turn |  
+| bip_39_word_underscore_11 | spike_comfort_offer_tornado_fury_utility_violin_public_spike_turn_hurt |  
+| bip_39_word_underscore_12 | spike_comfort_offer_tornado_fury_utility_violin_public_spike_turn_hurt_across |  
+| bip_39_word_underscore_2 | spike_comfort |  
+| bip_39_word_underscore_3 | spike_comfort_offer |  
+| bip_39_word_underscore_4 | spike_comfort_offer_tornado |  
+| bip_39_word_underscore_5 | spike_comfort_offer_tornado_fury |  
+| bip_39_word_underscore_6 | spike_comfort_offer_tornado_fury_utility |  
+| bip_39_word_underscore_7 | spike_comfort_offer_tornado_fury_utility_violin |  
+| bip_39_word_underscore_8 | spike_comfort_offer_tornado_fury_utility_violin_public |  
+| bip_39_word_underscore_9 | spike_comfort_offer_tornado_fury_utility_violin_public_spike |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

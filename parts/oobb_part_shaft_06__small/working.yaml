@@ -1,3 +1,15 @@
+bip_39_word_dash_1: circle
+bip_39_word_dash_10: circle-grass-display-board-gain-idle-inspire-document-people-live
+bip_39_word_dash_11: circle-grass-display-board-gain-idle-inspire-document-people-live-resemble
+bip_39_word_dash_12: circle-grass-display-board-gain-idle-inspire-document-people-live-resemble-atom
+bip_39_word_dash_2: circle-grass
+bip_39_word_dash_3: circle-grass-display
+bip_39_word_dash_4: circle-grass-display-board
+bip_39_word_dash_5: circle-grass-display-board-gain
+bip_39_word_dash_6: circle-grass-display-board-gain-idle
+bip_39_word_dash_7: circle-grass-display-board-gain-idle-inspire
+bip_39_word_dash_8: circle-grass-display-board-gain-idle-inspire-document
+bip_39_word_dash_9: circle-grass-display-board-gain-idle-inspire-document-people
 bip_39_word_new_br_1: circle
 bip_39_word_new_br_10: circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live
 bip_39_word_new_br_11: circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live<br>resemble
@@ -194,6 +206,18 @@ bip_39_word_space_6: circle grass display board gain idle
 bip_39_word_space_7: circle grass display board gain idle inspire
 bip_39_word_space_8: circle grass display board gain idle inspire document
 bip_39_word_space_9: circle grass display board gain idle inspire document people
+bip_39_word_underscore_1: circle
+bip_39_word_underscore_10: circle_grass_display_board_gain_idle_inspire_document_people_live
+bip_39_word_underscore_11: circle_grass_display_board_gain_idle_inspire_document_people_live_resemble
+bip_39_word_underscore_12: circle_grass_display_board_gain_idle_inspire_document_people_live_resemble_atom
+bip_39_word_underscore_2: circle_grass
+bip_39_word_underscore_3: circle_grass_display
+bip_39_word_underscore_4: circle_grass_display_board
+bip_39_word_underscore_5: circle_grass_display_board_gain
+bip_39_word_underscore_6: circle_grass_display_board_gain_idle
+bip_39_word_underscore_7: circle_grass_display_board_gain_idle_inspire
+bip_39_word_underscore_8: circle_grass_display_board_gain_idle_inspire_document
+bip_39_word_underscore_9: circle_grass_display_board_gain_idle_inspire_document_people
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

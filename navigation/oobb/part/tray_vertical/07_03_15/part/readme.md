@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bullet |  
+| bip_39_word_dash_10 | bullet-blue-cement-acquire-soft-holiday-blush-across-party-dignity |  
+| bip_39_word_dash_11 | bullet-blue-cement-acquire-soft-holiday-blush-across-party-dignity-spoil |  
+| bip_39_word_dash_12 | bullet-blue-cement-acquire-soft-holiday-blush-across-party-dignity-spoil-assault |  
+| bip_39_word_dash_2 | bullet-blue |  
+| bip_39_word_dash_3 | bullet-blue-cement |  
+| bip_39_word_dash_4 | bullet-blue-cement-acquire |  
+| bip_39_word_dash_5 | bullet-blue-cement-acquire-soft |  
+| bip_39_word_dash_6 | bullet-blue-cement-acquire-soft-holiday |  
+| bip_39_word_dash_7 | bullet-blue-cement-acquire-soft-holiday-blush |  
+| bip_39_word_dash_8 | bullet-blue-cement-acquire-soft-holiday-blush-across |  
+| bip_39_word_dash_9 | bullet-blue-cement-acquire-soft-holiday-blush-across-party |  
 | bip_39_word_new_br_1 | bullet |  
 | bip_39_word_new_br_10 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across<br>party<br>dignity |  
 | bip_39_word_new_br_11 | bullet<br>blue<br>cement<br>acquire<br>soft<br>holiday<br>blush<br>across<br>party<br>dignity<br>spoil |  
@@ -147,6 +159,18 @@ party |
 | bip_39_word_space_7 | bullet blue cement acquire soft holiday blush |  
 | bip_39_word_space_8 | bullet blue cement acquire soft holiday blush across |  
 | bip_39_word_space_9 | bullet blue cement acquire soft holiday blush across party |  
+| bip_39_word_underscore_1 | bullet |  
+| bip_39_word_underscore_10 | bullet_blue_cement_acquire_soft_holiday_blush_across_party_dignity |  
+| bip_39_word_underscore_11 | bullet_blue_cement_acquire_soft_holiday_blush_across_party_dignity_spoil |  
+| bip_39_word_underscore_12 | bullet_blue_cement_acquire_soft_holiday_blush_across_party_dignity_spoil_assault |  
+| bip_39_word_underscore_2 | bullet_blue |  
+| bip_39_word_underscore_3 | bullet_blue_cement |  
+| bip_39_word_underscore_4 | bullet_blue_cement_acquire |  
+| bip_39_word_underscore_5 | bullet_blue_cement_acquire_soft |  
+| bip_39_word_underscore_6 | bullet_blue_cement_acquire_soft_holiday |  
+| bip_39_word_underscore_7 | bullet_blue_cement_acquire_soft_holiday_blush |  
+| bip_39_word_underscore_8 | bullet_blue_cement_acquire_soft_holiday_blush_across |  
+| bip_39_word_underscore_9 | bullet_blue_cement_acquire_soft_holiday_blush_across_party |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

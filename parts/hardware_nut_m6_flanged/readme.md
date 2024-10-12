@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exclude |  
+| bip_39_word_dash_10 | exclude-idle-volcano-icon-use-exist-energy-elevator-voyage-asset |  
+| bip_39_word_dash_11 | exclude-idle-volcano-icon-use-exist-energy-elevator-voyage-asset-language |  
+| bip_39_word_dash_12 | exclude-idle-volcano-icon-use-exist-energy-elevator-voyage-asset-language-aspect |  
+| bip_39_word_dash_2 | exclude-idle |  
+| bip_39_word_dash_3 | exclude-idle-volcano |  
+| bip_39_word_dash_4 | exclude-idle-volcano-icon |  
+| bip_39_word_dash_5 | exclude-idle-volcano-icon-use |  
+| bip_39_word_dash_6 | exclude-idle-volcano-icon-use-exist |  
+| bip_39_word_dash_7 | exclude-idle-volcano-icon-use-exist-energy |  
+| bip_39_word_dash_8 | exclude-idle-volcano-icon-use-exist-energy-elevator |  
+| bip_39_word_dash_9 | exclude-idle-volcano-icon-use-exist-energy-elevator-voyage |  
 | bip_39_word_new_br_1 | exclude |  
 | bip_39_word_new_br_10 | exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator<br>voyage<br>asset |  
 | bip_39_word_new_br_11 | exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator<br>voyage<br>asset<br>language |  
@@ -147,6 +159,18 @@ voyage |
 | bip_39_word_space_7 | exclude idle volcano icon use exist energy |  
 | bip_39_word_space_8 | exclude idle volcano icon use exist energy elevator |  
 | bip_39_word_space_9 | exclude idle volcano icon use exist energy elevator voyage |  
+| bip_39_word_underscore_1 | exclude |  
+| bip_39_word_underscore_10 | exclude_idle_volcano_icon_use_exist_energy_elevator_voyage_asset |  
+| bip_39_word_underscore_11 | exclude_idle_volcano_icon_use_exist_energy_elevator_voyage_asset_language |  
+| bip_39_word_underscore_12 | exclude_idle_volcano_icon_use_exist_energy_elevator_voyage_asset_language_aspect |  
+| bip_39_word_underscore_2 | exclude_idle |  
+| bip_39_word_underscore_3 | exclude_idle_volcano |  
+| bip_39_word_underscore_4 | exclude_idle_volcano_icon |  
+| bip_39_word_underscore_5 | exclude_idle_volcano_icon_use |  
+| bip_39_word_underscore_6 | exclude_idle_volcano_icon_use_exist |  
+| bip_39_word_underscore_7 | exclude_idle_volcano_icon_use_exist_energy |  
+| bip_39_word_underscore_8 | exclude_idle_volcano_icon_use_exist_energy_elevator |  
+| bip_39_word_underscore_9 | exclude_idle_volcano_icon_use_exist_energy_elevator_voyage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

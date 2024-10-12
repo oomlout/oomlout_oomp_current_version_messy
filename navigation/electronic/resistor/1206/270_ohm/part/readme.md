@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cattle |  
+| bip_39_word_dash_10 | cattle-please-differ-exotic-tube-night-check-top-benefit-educate |  
+| bip_39_word_dash_11 | cattle-please-differ-exotic-tube-night-check-top-benefit-educate-item |  
+| bip_39_word_dash_12 | cattle-please-differ-exotic-tube-night-check-top-benefit-educate-item-access |  
+| bip_39_word_dash_2 | cattle-please |  
+| bip_39_word_dash_3 | cattle-please-differ |  
+| bip_39_word_dash_4 | cattle-please-differ-exotic |  
+| bip_39_word_dash_5 | cattle-please-differ-exotic-tube |  
+| bip_39_word_dash_6 | cattle-please-differ-exotic-tube-night |  
+| bip_39_word_dash_7 | cattle-please-differ-exotic-tube-night-check |  
+| bip_39_word_dash_8 | cattle-please-differ-exotic-tube-night-check-top |  
+| bip_39_word_dash_9 | cattle-please-differ-exotic-tube-night-check-top-benefit |  
 | bip_39_word_new_br_1 | cattle |  
 | bip_39_word_new_br_10 | cattle<br>please<br>differ<br>exotic<br>tube<br>night<br>check<br>top<br>benefit<br>educate |  
 | bip_39_word_new_br_11 | cattle<br>please<br>differ<br>exotic<br>tube<br>night<br>check<br>top<br>benefit<br>educate<br>item |  
@@ -147,6 +159,18 @@ benefit |
 | bip_39_word_space_7 | cattle please differ exotic tube night check |  
 | bip_39_word_space_8 | cattle please differ exotic tube night check top |  
 | bip_39_word_space_9 | cattle please differ exotic tube night check top benefit |  
+| bip_39_word_underscore_1 | cattle |  
+| bip_39_word_underscore_10 | cattle_please_differ_exotic_tube_night_check_top_benefit_educate |  
+| bip_39_word_underscore_11 | cattle_please_differ_exotic_tube_night_check_top_benefit_educate_item |  
+| bip_39_word_underscore_12 | cattle_please_differ_exotic_tube_night_check_top_benefit_educate_item_access |  
+| bip_39_word_underscore_2 | cattle_please |  
+| bip_39_word_underscore_3 | cattle_please_differ |  
+| bip_39_word_underscore_4 | cattle_please_differ_exotic |  
+| bip_39_word_underscore_5 | cattle_please_differ_exotic_tube |  
+| bip_39_word_underscore_6 | cattle_please_differ_exotic_tube_night |  
+| bip_39_word_underscore_7 | cattle_please_differ_exotic_tube_night_check |  
+| bip_39_word_underscore_8 | cattle_please_differ_exotic_tube_night_check_top |  
+| bip_39_word_underscore_9 | cattle_please_differ_exotic_tube_night_check_top_benefit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

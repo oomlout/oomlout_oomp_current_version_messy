@@ -1,3 +1,15 @@
+bip_39_word_dash_1: source
+bip_39_word_dash_10: source-spy-you-spice-myself-hole-attract-exhaust-candy-usual
+bip_39_word_dash_11: source-spy-you-spice-myself-hole-attract-exhaust-candy-usual-era
+bip_39_word_dash_12: source-spy-you-spice-myself-hole-attract-exhaust-candy-usual-era-assist
+bip_39_word_dash_2: source-spy
+bip_39_word_dash_3: source-spy-you
+bip_39_word_dash_4: source-spy-you-spice
+bip_39_word_dash_5: source-spy-you-spice-myself
+bip_39_word_dash_6: source-spy-you-spice-myself-hole
+bip_39_word_dash_7: source-spy-you-spice-myself-hole-attract
+bip_39_word_dash_8: source-spy-you-spice-myself-hole-attract-exhaust
+bip_39_word_dash_9: source-spy-you-spice-myself-hole-attract-exhaust-candy
 bip_39_word_new_br_1: source
 bip_39_word_new_br_10: source<br>spy<br>you<br>spice<br>myself<br>hole<br>attract<br>exhaust<br>candy<br>usual
 bip_39_word_new_br_11: source<br>spy<br>you<br>spice<br>myself<br>hole<br>attract<br>exhaust<br>candy<br>usual<br>era
@@ -193,6 +205,18 @@ bip_39_word_space_6: source spy you spice myself hole
 bip_39_word_space_7: source spy you spice myself hole attract
 bip_39_word_space_8: source spy you spice myself hole attract exhaust
 bip_39_word_space_9: source spy you spice myself hole attract exhaust candy
+bip_39_word_underscore_1: source
+bip_39_word_underscore_10: source_spy_you_spice_myself_hole_attract_exhaust_candy_usual
+bip_39_word_underscore_11: source_spy_you_spice_myself_hole_attract_exhaust_candy_usual_era
+bip_39_word_underscore_12: source_spy_you_spice_myself_hole_attract_exhaust_candy_usual_era_assist
+bip_39_word_underscore_2: source_spy
+bip_39_word_underscore_3: source_spy_you
+bip_39_word_underscore_4: source_spy_you_spice
+bip_39_word_underscore_5: source_spy_you_spice_myself
+bip_39_word_underscore_6: source_spy_you_spice_myself_hole
+bip_39_word_underscore_7: source_spy_you_spice_myself_hole_attract
+bip_39_word_underscore_8: source_spy_you_spice_myself_hole_attract_exhaust
+bip_39_word_underscore_9: source_spy_you_spice_myself_hole_attract_exhaust_candy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

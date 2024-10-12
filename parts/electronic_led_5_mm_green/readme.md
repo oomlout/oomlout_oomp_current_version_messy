@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clap |  
+| bip_39_word_dash_10 | clap-horror-have-lyrics-observe-hand-enrich-memory-early-ill |  
+| bip_39_word_dash_11 | clap-horror-have-lyrics-observe-hand-enrich-memory-early-ill-miss |  
+| bip_39_word_dash_12 | clap-horror-have-lyrics-observe-hand-enrich-memory-early-ill-miss-arena |  
+| bip_39_word_dash_2 | clap-horror |  
+| bip_39_word_dash_3 | clap-horror-have |  
+| bip_39_word_dash_4 | clap-horror-have-lyrics |  
+| bip_39_word_dash_5 | clap-horror-have-lyrics-observe |  
+| bip_39_word_dash_6 | clap-horror-have-lyrics-observe-hand |  
+| bip_39_word_dash_7 | clap-horror-have-lyrics-observe-hand-enrich |  
+| bip_39_word_dash_8 | clap-horror-have-lyrics-observe-hand-enrich-memory |  
+| bip_39_word_dash_9 | clap-horror-have-lyrics-observe-hand-enrich-memory-early |  
 | bip_39_word_new_br_1 | clap |  
 | bip_39_word_new_br_10 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill |  
 | bip_39_word_new_br_11 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill<br>miss |  
@@ -147,6 +159,18 @@ early |
 | bip_39_word_space_7 | clap horror have lyrics observe hand enrich |  
 | bip_39_word_space_8 | clap horror have lyrics observe hand enrich memory |  
 | bip_39_word_space_9 | clap horror have lyrics observe hand enrich memory early |  
+| bip_39_word_underscore_1 | clap |  
+| bip_39_word_underscore_10 | clap_horror_have_lyrics_observe_hand_enrich_memory_early_ill |  
+| bip_39_word_underscore_11 | clap_horror_have_lyrics_observe_hand_enrich_memory_early_ill_miss |  
+| bip_39_word_underscore_12 | clap_horror_have_lyrics_observe_hand_enrich_memory_early_ill_miss_arena |  
+| bip_39_word_underscore_2 | clap_horror |  
+| bip_39_word_underscore_3 | clap_horror_have |  
+| bip_39_word_underscore_4 | clap_horror_have_lyrics |  
+| bip_39_word_underscore_5 | clap_horror_have_lyrics_observe |  
+| bip_39_word_underscore_6 | clap_horror_have_lyrics_observe_hand |  
+| bip_39_word_underscore_7 | clap_horror_have_lyrics_observe_hand_enrich |  
+| bip_39_word_underscore_8 | clap_horror_have_lyrics_observe_hand_enrich_memory |  
+| bip_39_word_underscore_9 | clap_horror_have_lyrics_observe_hand_enrich_memory_early |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

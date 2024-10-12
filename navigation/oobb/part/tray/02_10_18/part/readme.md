@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trick |  
+| bip_39_word_dash_10 | trick-depth-reveal-leopard-wrap-laptop-hollow-garlic-swim-until |  
+| bip_39_word_dash_11 | trick-depth-reveal-leopard-wrap-laptop-hollow-garlic-swim-until-erupt |  
+| bip_39_word_dash_12 | trick-depth-reveal-leopard-wrap-laptop-hollow-garlic-swim-until-erupt-attack |  
+| bip_39_word_dash_2 | trick-depth |  
+| bip_39_word_dash_3 | trick-depth-reveal |  
+| bip_39_word_dash_4 | trick-depth-reveal-leopard |  
+| bip_39_word_dash_5 | trick-depth-reveal-leopard-wrap |  
+| bip_39_word_dash_6 | trick-depth-reveal-leopard-wrap-laptop |  
+| bip_39_word_dash_7 | trick-depth-reveal-leopard-wrap-laptop-hollow |  
+| bip_39_word_dash_8 | trick-depth-reveal-leopard-wrap-laptop-hollow-garlic |  
+| bip_39_word_dash_9 | trick-depth-reveal-leopard-wrap-laptop-hollow-garlic-swim |  
 | bip_39_word_new_br_1 | trick |  
 | bip_39_word_new_br_10 | trick<br>depth<br>reveal<br>leopard<br>wrap<br>laptop<br>hollow<br>garlic<br>swim<br>until |  
 | bip_39_word_new_br_11 | trick<br>depth<br>reveal<br>leopard<br>wrap<br>laptop<br>hollow<br>garlic<br>swim<br>until<br>erupt |  
@@ -147,6 +159,18 @@ swim |
 | bip_39_word_space_7 | trick depth reveal leopard wrap laptop hollow |  
 | bip_39_word_space_8 | trick depth reveal leopard wrap laptop hollow garlic |  
 | bip_39_word_space_9 | trick depth reveal leopard wrap laptop hollow garlic swim |  
+| bip_39_word_underscore_1 | trick |  
+| bip_39_word_underscore_10 | trick_depth_reveal_leopard_wrap_laptop_hollow_garlic_swim_until |  
+| bip_39_word_underscore_11 | trick_depth_reveal_leopard_wrap_laptop_hollow_garlic_swim_until_erupt |  
+| bip_39_word_underscore_12 | trick_depth_reveal_leopard_wrap_laptop_hollow_garlic_swim_until_erupt_attack |  
+| bip_39_word_underscore_2 | trick_depth |  
+| bip_39_word_underscore_3 | trick_depth_reveal |  
+| bip_39_word_underscore_4 | trick_depth_reveal_leopard |  
+| bip_39_word_underscore_5 | trick_depth_reveal_leopard_wrap |  
+| bip_39_word_underscore_6 | trick_depth_reveal_leopard_wrap_laptop |  
+| bip_39_word_underscore_7 | trick_depth_reveal_leopard_wrap_laptop_hollow |  
+| bip_39_word_underscore_8 | trick_depth_reveal_leopard_wrap_laptop_hollow_garlic |  
+| bip_39_word_underscore_9 | trick_depth_reveal_leopard_wrap_laptop_hollow_garlic_swim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

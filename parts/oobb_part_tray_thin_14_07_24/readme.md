@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ecology |  
+| bip_39_word_dash_10 | ecology-detect-road-cave-coyote-crater-maze-team-mention-famous |  
+| bip_39_word_dash_11 | ecology-detect-road-cave-coyote-crater-maze-team-mention-famous-alter |  
+| bip_39_word_dash_12 | ecology-detect-road-cave-coyote-crater-maze-team-mention-famous-alter-attract |  
+| bip_39_word_dash_2 | ecology-detect |  
+| bip_39_word_dash_3 | ecology-detect-road |  
+| bip_39_word_dash_4 | ecology-detect-road-cave |  
+| bip_39_word_dash_5 | ecology-detect-road-cave-coyote |  
+| bip_39_word_dash_6 | ecology-detect-road-cave-coyote-crater |  
+| bip_39_word_dash_7 | ecology-detect-road-cave-coyote-crater-maze |  
+| bip_39_word_dash_8 | ecology-detect-road-cave-coyote-crater-maze-team |  
+| bip_39_word_dash_9 | ecology-detect-road-cave-coyote-crater-maze-team-mention |  
 | bip_39_word_new_br_1 | ecology |  
 | bip_39_word_new_br_10 | ecology<br>detect<br>road<br>cave<br>coyote<br>crater<br>maze<br>team<br>mention<br>famous |  
 | bip_39_word_new_br_11 | ecology<br>detect<br>road<br>cave<br>coyote<br>crater<br>maze<br>team<br>mention<br>famous<br>alter |  
@@ -147,6 +159,18 @@ mention |
 | bip_39_word_space_7 | ecology detect road cave coyote crater maze |  
 | bip_39_word_space_8 | ecology detect road cave coyote crater maze team |  
 | bip_39_word_space_9 | ecology detect road cave coyote crater maze team mention |  
+| bip_39_word_underscore_1 | ecology |  
+| bip_39_word_underscore_10 | ecology_detect_road_cave_coyote_crater_maze_team_mention_famous |  
+| bip_39_word_underscore_11 | ecology_detect_road_cave_coyote_crater_maze_team_mention_famous_alter |  
+| bip_39_word_underscore_12 | ecology_detect_road_cave_coyote_crater_maze_team_mention_famous_alter_attract |  
+| bip_39_word_underscore_2 | ecology_detect |  
+| bip_39_word_underscore_3 | ecology_detect_road |  
+| bip_39_word_underscore_4 | ecology_detect_road_cave |  
+| bip_39_word_underscore_5 | ecology_detect_road_cave_coyote |  
+| bip_39_word_underscore_6 | ecology_detect_road_cave_coyote_crater |  
+| bip_39_word_underscore_7 | ecology_detect_road_cave_coyote_crater_maze |  
+| bip_39_word_underscore_8 | ecology_detect_road_cave_coyote_crater_maze_team |  
+| bip_39_word_underscore_9 | ecology_detect_road_cave_coyote_crater_maze_team_mention |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

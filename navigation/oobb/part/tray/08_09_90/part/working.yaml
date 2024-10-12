@@ -1,3 +1,15 @@
+bip_39_word_dash_1: digital
+bip_39_word_dash_10: digital-toss-cement-mix-calm-enter-love-napkin-cage-charge
+bip_39_word_dash_11: digital-toss-cement-mix-calm-enter-love-napkin-cage-charge-adjust
+bip_39_word_dash_12: digital-toss-cement-mix-calm-enter-love-napkin-cage-charge-adjust-abstract
+bip_39_word_dash_2: digital-toss
+bip_39_word_dash_3: digital-toss-cement
+bip_39_word_dash_4: digital-toss-cement-mix
+bip_39_word_dash_5: digital-toss-cement-mix-calm
+bip_39_word_dash_6: digital-toss-cement-mix-calm-enter
+bip_39_word_dash_7: digital-toss-cement-mix-calm-enter-love
+bip_39_word_dash_8: digital-toss-cement-mix-calm-enter-love-napkin
+bip_39_word_dash_9: digital-toss-cement-mix-calm-enter-love-napkin-cage
 bip_39_word_new_br_1: digital
 bip_39_word_new_br_10: digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin<br>cage<br>charge
 bip_39_word_new_br_11: digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin<br>cage<br>charge<br>adjust
@@ -192,6 +204,18 @@ bip_39_word_space_6: digital toss cement mix calm enter
 bip_39_word_space_7: digital toss cement mix calm enter love
 bip_39_word_space_8: digital toss cement mix calm enter love napkin
 bip_39_word_space_9: digital toss cement mix calm enter love napkin cage
+bip_39_word_underscore_1: digital
+bip_39_word_underscore_10: digital_toss_cement_mix_calm_enter_love_napkin_cage_charge
+bip_39_word_underscore_11: digital_toss_cement_mix_calm_enter_love_napkin_cage_charge_adjust
+bip_39_word_underscore_12: digital_toss_cement_mix_calm_enter_love_napkin_cage_charge_adjust_abstract
+bip_39_word_underscore_2: digital_toss
+bip_39_word_underscore_3: digital_toss_cement
+bip_39_word_underscore_4: digital_toss_cement_mix
+bip_39_word_underscore_5: digital_toss_cement_mix_calm
+bip_39_word_underscore_6: digital_toss_cement_mix_calm_enter
+bip_39_word_underscore_7: digital_toss_cement_mix_calm_enter_love
+bip_39_word_underscore_8: digital_toss_cement_mix_calm_enter_love_napkin
+bip_39_word_underscore_9: digital_toss_cement_mix_calm_enter_love_napkin_cage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

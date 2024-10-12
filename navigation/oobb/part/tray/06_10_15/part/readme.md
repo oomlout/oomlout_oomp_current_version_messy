@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | room |  
+| bip_39_word_dash_10 | room-wise-burger-capital-fog-figure-never-skill-tongue-resource |  
+| bip_39_word_dash_11 | room-wise-burger-capital-fog-figure-never-skill-tongue-resource-barrel |  
+| bip_39_word_dash_12 | room-wise-burger-capital-fog-figure-never-skill-tongue-resource-barrel-arch |  
+| bip_39_word_dash_2 | room-wise |  
+| bip_39_word_dash_3 | room-wise-burger |  
+| bip_39_word_dash_4 | room-wise-burger-capital |  
+| bip_39_word_dash_5 | room-wise-burger-capital-fog |  
+| bip_39_word_dash_6 | room-wise-burger-capital-fog-figure |  
+| bip_39_word_dash_7 | room-wise-burger-capital-fog-figure-never |  
+| bip_39_word_dash_8 | room-wise-burger-capital-fog-figure-never-skill |  
+| bip_39_word_dash_9 | room-wise-burger-capital-fog-figure-never-skill-tongue |  
 | bip_39_word_new_br_1 | room |  
 | bip_39_word_new_br_10 | room<br>wise<br>burger<br>capital<br>fog<br>figure<br>never<br>skill<br>tongue<br>resource |  
 | bip_39_word_new_br_11 | room<br>wise<br>burger<br>capital<br>fog<br>figure<br>never<br>skill<br>tongue<br>resource<br>barrel |  
@@ -147,6 +159,18 @@ tongue |
 | bip_39_word_space_7 | room wise burger capital fog figure never |  
 | bip_39_word_space_8 | room wise burger capital fog figure never skill |  
 | bip_39_word_space_9 | room wise burger capital fog figure never skill tongue |  
+| bip_39_word_underscore_1 | room |  
+| bip_39_word_underscore_10 | room_wise_burger_capital_fog_figure_never_skill_tongue_resource |  
+| bip_39_word_underscore_11 | room_wise_burger_capital_fog_figure_never_skill_tongue_resource_barrel |  
+| bip_39_word_underscore_12 | room_wise_burger_capital_fog_figure_never_skill_tongue_resource_barrel_arch |  
+| bip_39_word_underscore_2 | room_wise |  
+| bip_39_word_underscore_3 | room_wise_burger |  
+| bip_39_word_underscore_4 | room_wise_burger_capital |  
+| bip_39_word_underscore_5 | room_wise_burger_capital_fog |  
+| bip_39_word_underscore_6 | room_wise_burger_capital_fog_figure |  
+| bip_39_word_underscore_7 | room_wise_burger_capital_fog_figure_never |  
+| bip_39_word_underscore_8 | room_wise_burger_capital_fog_figure_never_skill |  
+| bip_39_word_underscore_9 | room_wise_burger_capital_fog_figure_never_skill_tongue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

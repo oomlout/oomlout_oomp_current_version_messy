@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tribe
+bip_39_word_dash_10: tribe-claim-mushroom-surround-person-large-loan-galaxy-aim-wasp
+bip_39_word_dash_11: tribe-claim-mushroom-surround-person-large-loan-galaxy-aim-wasp-infant
+bip_39_word_dash_12: tribe-claim-mushroom-surround-person-large-loan-galaxy-aim-wasp-infant-about
+bip_39_word_dash_2: tribe-claim
+bip_39_word_dash_3: tribe-claim-mushroom
+bip_39_word_dash_4: tribe-claim-mushroom-surround
+bip_39_word_dash_5: tribe-claim-mushroom-surround-person
+bip_39_word_dash_6: tribe-claim-mushroom-surround-person-large
+bip_39_word_dash_7: tribe-claim-mushroom-surround-person-large-loan
+bip_39_word_dash_8: tribe-claim-mushroom-surround-person-large-loan-galaxy
+bip_39_word_dash_9: tribe-claim-mushroom-surround-person-large-loan-galaxy-aim
 bip_39_word_new_br_1: tribe
 bip_39_word_new_br_10: tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy<br>aim<br>wasp
 bip_39_word_new_br_11: tribe<br>claim<br>mushroom<br>surround<br>person<br>large<br>loan<br>galaxy<br>aim<br>wasp<br>infant
@@ -193,6 +205,18 @@ bip_39_word_space_6: tribe claim mushroom surround person large
 bip_39_word_space_7: tribe claim mushroom surround person large loan
 bip_39_word_space_8: tribe claim mushroom surround person large loan galaxy
 bip_39_word_space_9: tribe claim mushroom surround person large loan galaxy aim
+bip_39_word_underscore_1: tribe
+bip_39_word_underscore_10: tribe_claim_mushroom_surround_person_large_loan_galaxy_aim_wasp
+bip_39_word_underscore_11: tribe_claim_mushroom_surround_person_large_loan_galaxy_aim_wasp_infant
+bip_39_word_underscore_12: tribe_claim_mushroom_surround_person_large_loan_galaxy_aim_wasp_infant_about
+bip_39_word_underscore_2: tribe_claim
+bip_39_word_underscore_3: tribe_claim_mushroom
+bip_39_word_underscore_4: tribe_claim_mushroom_surround
+bip_39_word_underscore_5: tribe_claim_mushroom_surround_person
+bip_39_word_underscore_6: tribe_claim_mushroom_surround_person_large
+bip_39_word_underscore_7: tribe_claim_mushroom_surround_person_large_loan
+bip_39_word_underscore_8: tribe_claim_mushroom_surround_person_large_loan_galaxy
+bip_39_word_underscore_9: tribe_claim_mushroom_surround_person_large_loan_galaxy_aim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | husband |  
+| bip_39_word_dash_10 | husband-shoulder-vicious-message-day-quiz-beach-during-siege-width |  
+| bip_39_word_dash_11 | husband-shoulder-vicious-message-day-quiz-beach-during-siege-width-fitness |  
+| bip_39_word_dash_12 | husband-shoulder-vicious-message-day-quiz-beach-during-siege-width-fitness-arrive |  
+| bip_39_word_dash_2 | husband-shoulder |  
+| bip_39_word_dash_3 | husband-shoulder-vicious |  
+| bip_39_word_dash_4 | husband-shoulder-vicious-message |  
+| bip_39_word_dash_5 | husband-shoulder-vicious-message-day |  
+| bip_39_word_dash_6 | husband-shoulder-vicious-message-day-quiz |  
+| bip_39_word_dash_7 | husband-shoulder-vicious-message-day-quiz-beach |  
+| bip_39_word_dash_8 | husband-shoulder-vicious-message-day-quiz-beach-during |  
+| bip_39_word_dash_9 | husband-shoulder-vicious-message-day-quiz-beach-during-siege |  
 | bip_39_word_new_br_1 | husband |  
 | bip_39_word_new_br_10 | husband<br>shoulder<br>vicious<br>message<br>day<br>quiz<br>beach<br>during<br>siege<br>width |  
 | bip_39_word_new_br_11 | husband<br>shoulder<br>vicious<br>message<br>day<br>quiz<br>beach<br>during<br>siege<br>width<br>fitness |  
@@ -147,6 +159,18 @@ siege |
 | bip_39_word_space_7 | husband shoulder vicious message day quiz beach |  
 | bip_39_word_space_8 | husband shoulder vicious message day quiz beach during |  
 | bip_39_word_space_9 | husband shoulder vicious message day quiz beach during siege |  
+| bip_39_word_underscore_1 | husband |  
+| bip_39_word_underscore_10 | husband_shoulder_vicious_message_day_quiz_beach_during_siege_width |  
+| bip_39_word_underscore_11 | husband_shoulder_vicious_message_day_quiz_beach_during_siege_width_fitness |  
+| bip_39_word_underscore_12 | husband_shoulder_vicious_message_day_quiz_beach_during_siege_width_fitness_arrive |  
+| bip_39_word_underscore_2 | husband_shoulder |  
+| bip_39_word_underscore_3 | husband_shoulder_vicious |  
+| bip_39_word_underscore_4 | husband_shoulder_vicious_message |  
+| bip_39_word_underscore_5 | husband_shoulder_vicious_message_day |  
+| bip_39_word_underscore_6 | husband_shoulder_vicious_message_day_quiz |  
+| bip_39_word_underscore_7 | husband_shoulder_vicious_message_day_quiz_beach |  
+| bip_39_word_underscore_8 | husband_shoulder_vicious_message_day_quiz_beach_during |  
+| bip_39_word_underscore_9 | husband_shoulder_vicious_message_day_quiz_beach_during_siege |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

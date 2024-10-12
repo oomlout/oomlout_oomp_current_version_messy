@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exist |  
+| bip_39_word_dash_10 | exist-giraffe-chicken-arrive-swamp-wool-name-moment-artist-miss |  
+| bip_39_word_dash_11 | exist-giraffe-chicken-arrive-swamp-wool-name-moment-artist-miss-notable |  
+| bip_39_word_dash_12 | exist-giraffe-chicken-arrive-swamp-wool-name-moment-artist-miss-notable-area |  
+| bip_39_word_dash_2 | exist-giraffe |  
+| bip_39_word_dash_3 | exist-giraffe-chicken |  
+| bip_39_word_dash_4 | exist-giraffe-chicken-arrive |  
+| bip_39_word_dash_5 | exist-giraffe-chicken-arrive-swamp |  
+| bip_39_word_dash_6 | exist-giraffe-chicken-arrive-swamp-wool |  
+| bip_39_word_dash_7 | exist-giraffe-chicken-arrive-swamp-wool-name |  
+| bip_39_word_dash_8 | exist-giraffe-chicken-arrive-swamp-wool-name-moment |  
+| bip_39_word_dash_9 | exist-giraffe-chicken-arrive-swamp-wool-name-moment-artist |  
 | bip_39_word_new_br_1 | exist |  
 | bip_39_word_new_br_10 | exist<br>giraffe<br>chicken<br>arrive<br>swamp<br>wool<br>name<br>moment<br>artist<br>miss |  
 | bip_39_word_new_br_11 | exist<br>giraffe<br>chicken<br>arrive<br>swamp<br>wool<br>name<br>moment<br>artist<br>miss<br>notable |  
@@ -147,6 +159,18 @@ artist |
 | bip_39_word_space_7 | exist giraffe chicken arrive swamp wool name |  
 | bip_39_word_space_8 | exist giraffe chicken arrive swamp wool name moment |  
 | bip_39_word_space_9 | exist giraffe chicken arrive swamp wool name moment artist |  
+| bip_39_word_underscore_1 | exist |  
+| bip_39_word_underscore_10 | exist_giraffe_chicken_arrive_swamp_wool_name_moment_artist_miss |  
+| bip_39_word_underscore_11 | exist_giraffe_chicken_arrive_swamp_wool_name_moment_artist_miss_notable |  
+| bip_39_word_underscore_12 | exist_giraffe_chicken_arrive_swamp_wool_name_moment_artist_miss_notable_area |  
+| bip_39_word_underscore_2 | exist_giraffe |  
+| bip_39_word_underscore_3 | exist_giraffe_chicken |  
+| bip_39_word_underscore_4 | exist_giraffe_chicken_arrive |  
+| bip_39_word_underscore_5 | exist_giraffe_chicken_arrive_swamp |  
+| bip_39_word_underscore_6 | exist_giraffe_chicken_arrive_swamp_wool |  
+| bip_39_word_underscore_7 | exist_giraffe_chicken_arrive_swamp_wool_name |  
+| bip_39_word_underscore_8 | exist_giraffe_chicken_arrive_swamp_wool_name_moment |  
+| bip_39_word_underscore_9 | exist_giraffe_chicken_arrive_swamp_wool_name_moment_artist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

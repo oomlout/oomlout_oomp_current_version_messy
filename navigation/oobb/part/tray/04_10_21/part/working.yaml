@@ -1,3 +1,15 @@
+bip_39_word_dash_1: valve
+bip_39_word_dash_10: valve-plate-true-crew-hole-shed-spell-salt-bleak-suit
+bip_39_word_dash_11: valve-plate-true-crew-hole-shed-spell-salt-bleak-suit-salmon
+bip_39_word_dash_12: valve-plate-true-crew-hole-shed-spell-salt-bleak-suit-salmon-again
+bip_39_word_dash_2: valve-plate
+bip_39_word_dash_3: valve-plate-true
+bip_39_word_dash_4: valve-plate-true-crew
+bip_39_word_dash_5: valve-plate-true-crew-hole
+bip_39_word_dash_6: valve-plate-true-crew-hole-shed
+bip_39_word_dash_7: valve-plate-true-crew-hole-shed-spell
+bip_39_word_dash_8: valve-plate-true-crew-hole-shed-spell-salt
+bip_39_word_dash_9: valve-plate-true-crew-hole-shed-spell-salt-bleak
 bip_39_word_new_br_1: valve
 bip_39_word_new_br_10: valve<br>plate<br>true<br>crew<br>hole<br>shed<br>spell<br>salt<br>bleak<br>suit
 bip_39_word_new_br_11: valve<br>plate<br>true<br>crew<br>hole<br>shed<br>spell<br>salt<br>bleak<br>suit<br>salmon
@@ -192,6 +204,18 @@ bip_39_word_space_6: valve plate true crew hole shed
 bip_39_word_space_7: valve plate true crew hole shed spell
 bip_39_word_space_8: valve plate true crew hole shed spell salt
 bip_39_word_space_9: valve plate true crew hole shed spell salt bleak
+bip_39_word_underscore_1: valve
+bip_39_word_underscore_10: valve_plate_true_crew_hole_shed_spell_salt_bleak_suit
+bip_39_word_underscore_11: valve_plate_true_crew_hole_shed_spell_salt_bleak_suit_salmon
+bip_39_word_underscore_12: valve_plate_true_crew_hole_shed_spell_salt_bleak_suit_salmon_again
+bip_39_word_underscore_2: valve_plate
+bip_39_word_underscore_3: valve_plate_true
+bip_39_word_underscore_4: valve_plate_true_crew
+bip_39_word_underscore_5: valve_plate_true_crew_hole
+bip_39_word_underscore_6: valve_plate_true_crew_hole_shed
+bip_39_word_underscore_7: valve_plate_true_crew_hole_shed_spell
+bip_39_word_underscore_8: valve_plate_true_crew_hole_shed_spell_salt
+bip_39_word_underscore_9: valve_plate_true_crew_hole_shed_spell_salt_bleak
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

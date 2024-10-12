@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | join |  
+| bip_39_word_dash_10 | join-human-humor-maple-blanket-lift-stage-disease-quality-life |  
+| bip_39_word_dash_11 | join-human-humor-maple-blanket-lift-stage-disease-quality-life-waste |  
+| bip_39_word_dash_12 | join-human-humor-maple-blanket-lift-stage-disease-quality-life-waste-apart |  
+| bip_39_word_dash_2 | join-human |  
+| bip_39_word_dash_3 | join-human-humor |  
+| bip_39_word_dash_4 | join-human-humor-maple |  
+| bip_39_word_dash_5 | join-human-humor-maple-blanket |  
+| bip_39_word_dash_6 | join-human-humor-maple-blanket-lift |  
+| bip_39_word_dash_7 | join-human-humor-maple-blanket-lift-stage |  
+| bip_39_word_dash_8 | join-human-humor-maple-blanket-lift-stage-disease |  
+| bip_39_word_dash_9 | join-human-humor-maple-blanket-lift-stage-disease-quality |  
 | bip_39_word_new_br_1 | join |  
 | bip_39_word_new_br_10 | join<br>human<br>humor<br>maple<br>blanket<br>lift<br>stage<br>disease<br>quality<br>life |  
 | bip_39_word_new_br_11 | join<br>human<br>humor<br>maple<br>blanket<br>lift<br>stage<br>disease<br>quality<br>life<br>waste |  
@@ -147,6 +159,18 @@ quality |
 | bip_39_word_space_7 | join human humor maple blanket lift stage |  
 | bip_39_word_space_8 | join human humor maple blanket lift stage disease |  
 | bip_39_word_space_9 | join human humor maple blanket lift stage disease quality |  
+| bip_39_word_underscore_1 | join |  
+| bip_39_word_underscore_10 | join_human_humor_maple_blanket_lift_stage_disease_quality_life |  
+| bip_39_word_underscore_11 | join_human_humor_maple_blanket_lift_stage_disease_quality_life_waste |  
+| bip_39_word_underscore_12 | join_human_humor_maple_blanket_lift_stage_disease_quality_life_waste_apart |  
+| bip_39_word_underscore_2 | join_human |  
+| bip_39_word_underscore_3 | join_human_humor |  
+| bip_39_word_underscore_4 | join_human_humor_maple |  
+| bip_39_word_underscore_5 | join_human_humor_maple_blanket |  
+| bip_39_word_underscore_6 | join_human_humor_maple_blanket_lift |  
+| bip_39_word_underscore_7 | join_human_humor_maple_blanket_lift_stage |  
+| bip_39_word_underscore_8 | join_human_humor_maple_blanket_lift_stage_disease |  
+| bip_39_word_underscore_9 | join_human_humor_maple_blanket_lift_stage_disease_quality |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

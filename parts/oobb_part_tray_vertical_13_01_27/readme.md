@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | predict |  
+| bip_39_word_dash_10 | predict-grant-wasp-people-maple-stuff-relief-shoot-judge-north |  
+| bip_39_word_dash_11 | predict-grant-wasp-people-maple-stuff-relief-shoot-judge-north-answer |  
+| bip_39_word_dash_12 | predict-grant-wasp-people-maple-stuff-relief-shoot-judge-north-answer-anger |  
+| bip_39_word_dash_2 | predict-grant |  
+| bip_39_word_dash_3 | predict-grant-wasp |  
+| bip_39_word_dash_4 | predict-grant-wasp-people |  
+| bip_39_word_dash_5 | predict-grant-wasp-people-maple |  
+| bip_39_word_dash_6 | predict-grant-wasp-people-maple-stuff |  
+| bip_39_word_dash_7 | predict-grant-wasp-people-maple-stuff-relief |  
+| bip_39_word_dash_8 | predict-grant-wasp-people-maple-stuff-relief-shoot |  
+| bip_39_word_dash_9 | predict-grant-wasp-people-maple-stuff-relief-shoot-judge |  
 | bip_39_word_new_br_1 | predict |  
 | bip_39_word_new_br_10 | predict<br>grant<br>wasp<br>people<br>maple<br>stuff<br>relief<br>shoot<br>judge<br>north |  
 | bip_39_word_new_br_11 | predict<br>grant<br>wasp<br>people<br>maple<br>stuff<br>relief<br>shoot<br>judge<br>north<br>answer |  
@@ -147,6 +159,18 @@ judge |
 | bip_39_word_space_7 | predict grant wasp people maple stuff relief |  
 | bip_39_word_space_8 | predict grant wasp people maple stuff relief shoot |  
 | bip_39_word_space_9 | predict grant wasp people maple stuff relief shoot judge |  
+| bip_39_word_underscore_1 | predict |  
+| bip_39_word_underscore_10 | predict_grant_wasp_people_maple_stuff_relief_shoot_judge_north |  
+| bip_39_word_underscore_11 | predict_grant_wasp_people_maple_stuff_relief_shoot_judge_north_answer |  
+| bip_39_word_underscore_12 | predict_grant_wasp_people_maple_stuff_relief_shoot_judge_north_answer_anger |  
+| bip_39_word_underscore_2 | predict_grant |  
+| bip_39_word_underscore_3 | predict_grant_wasp |  
+| bip_39_word_underscore_4 | predict_grant_wasp_people |  
+| bip_39_word_underscore_5 | predict_grant_wasp_people_maple |  
+| bip_39_word_underscore_6 | predict_grant_wasp_people_maple_stuff |  
+| bip_39_word_underscore_7 | predict_grant_wasp_people_maple_stuff_relief |  
+| bip_39_word_underscore_8 | predict_grant_wasp_people_maple_stuff_relief_shoot |  
+| bip_39_word_underscore_9 | predict_grant_wasp_people_maple_stuff_relief_shoot_judge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

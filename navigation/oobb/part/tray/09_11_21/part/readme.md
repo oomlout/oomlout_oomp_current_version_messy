@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elite |  
+| bip_39_word_dash_10 | elite-patient-north-oval-valve-total-clown-truck-olive-load |  
+| bip_39_word_dash_11 | elite-patient-north-oval-valve-total-clown-truck-olive-load-valid |  
+| bip_39_word_dash_12 | elite-patient-north-oval-valve-total-clown-truck-olive-load-valid-advice |  
+| bip_39_word_dash_2 | elite-patient |  
+| bip_39_word_dash_3 | elite-patient-north |  
+| bip_39_word_dash_4 | elite-patient-north-oval |  
+| bip_39_word_dash_5 | elite-patient-north-oval-valve |  
+| bip_39_word_dash_6 | elite-patient-north-oval-valve-total |  
+| bip_39_word_dash_7 | elite-patient-north-oval-valve-total-clown |  
+| bip_39_word_dash_8 | elite-patient-north-oval-valve-total-clown-truck |  
+| bip_39_word_dash_9 | elite-patient-north-oval-valve-total-clown-truck-olive |  
 | bip_39_word_new_br_1 | elite |  
 | bip_39_word_new_br_10 | elite<br>patient<br>north<br>oval<br>valve<br>total<br>clown<br>truck<br>olive<br>load |  
 | bip_39_word_new_br_11 | elite<br>patient<br>north<br>oval<br>valve<br>total<br>clown<br>truck<br>olive<br>load<br>valid |  
@@ -147,6 +159,18 @@ olive |
 | bip_39_word_space_7 | elite patient north oval valve total clown |  
 | bip_39_word_space_8 | elite patient north oval valve total clown truck |  
 | bip_39_word_space_9 | elite patient north oval valve total clown truck olive |  
+| bip_39_word_underscore_1 | elite |  
+| bip_39_word_underscore_10 | elite_patient_north_oval_valve_total_clown_truck_olive_load |  
+| bip_39_word_underscore_11 | elite_patient_north_oval_valve_total_clown_truck_olive_load_valid |  
+| bip_39_word_underscore_12 | elite_patient_north_oval_valve_total_clown_truck_olive_load_valid_advice |  
+| bip_39_word_underscore_2 | elite_patient |  
+| bip_39_word_underscore_3 | elite_patient_north |  
+| bip_39_word_underscore_4 | elite_patient_north_oval |  
+| bip_39_word_underscore_5 | elite_patient_north_oval_valve |  
+| bip_39_word_underscore_6 | elite_patient_north_oval_valve_total |  
+| bip_39_word_underscore_7 | elite_patient_north_oval_valve_total_clown |  
+| bip_39_word_underscore_8 | elite_patient_north_oval_valve_total_clown_truck |  
+| bip_39_word_underscore_9 | elite_patient_north_oval_valve_total_clown_truck_olive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pond |  
+| bip_39_word_dash_10 | pond-carpet-marriage-rotate-point-awkward-budget-season-roof-chalk |  
+| bip_39_word_dash_11 | pond-carpet-marriage-rotate-point-awkward-budget-season-roof-chalk-echo |  
+| bip_39_word_dash_12 | pond-carpet-marriage-rotate-point-awkward-budget-season-roof-chalk-echo-arrange |  
+| bip_39_word_dash_2 | pond-carpet |  
+| bip_39_word_dash_3 | pond-carpet-marriage |  
+| bip_39_word_dash_4 | pond-carpet-marriage-rotate |  
+| bip_39_word_dash_5 | pond-carpet-marriage-rotate-point |  
+| bip_39_word_dash_6 | pond-carpet-marriage-rotate-point-awkward |  
+| bip_39_word_dash_7 | pond-carpet-marriage-rotate-point-awkward-budget |  
+| bip_39_word_dash_8 | pond-carpet-marriage-rotate-point-awkward-budget-season |  
+| bip_39_word_dash_9 | pond-carpet-marriage-rotate-point-awkward-budget-season-roof |  
 | bip_39_word_new_br_1 | pond |  
 | bip_39_word_new_br_10 | pond<br>carpet<br>marriage<br>rotate<br>point<br>awkward<br>budget<br>season<br>roof<br>chalk |  
 | bip_39_word_new_br_11 | pond<br>carpet<br>marriage<br>rotate<br>point<br>awkward<br>budget<br>season<br>roof<br>chalk<br>echo |  
@@ -147,6 +159,18 @@ roof |
 | bip_39_word_space_7 | pond carpet marriage rotate point awkward budget |  
 | bip_39_word_space_8 | pond carpet marriage rotate point awkward budget season |  
 | bip_39_word_space_9 | pond carpet marriage rotate point awkward budget season roof |  
+| bip_39_word_underscore_1 | pond |  
+| bip_39_word_underscore_10 | pond_carpet_marriage_rotate_point_awkward_budget_season_roof_chalk |  
+| bip_39_word_underscore_11 | pond_carpet_marriage_rotate_point_awkward_budget_season_roof_chalk_echo |  
+| bip_39_word_underscore_12 | pond_carpet_marriage_rotate_point_awkward_budget_season_roof_chalk_echo_arrange |  
+| bip_39_word_underscore_2 | pond_carpet |  
+| bip_39_word_underscore_3 | pond_carpet_marriage |  
+| bip_39_word_underscore_4 | pond_carpet_marriage_rotate |  
+| bip_39_word_underscore_5 | pond_carpet_marriage_rotate_point |  
+| bip_39_word_underscore_6 | pond_carpet_marriage_rotate_point_awkward |  
+| bip_39_word_underscore_7 | pond_carpet_marriage_rotate_point_awkward_budget |  
+| bip_39_word_underscore_8 | pond_carpet_marriage_rotate_point_awkward_budget_season |  
+| bip_39_word_underscore_9 | pond_carpet_marriage_rotate_point_awkward_budget_season_roof |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

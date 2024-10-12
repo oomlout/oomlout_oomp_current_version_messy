@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shadow |  
+| bip_39_word_dash_10 | shadow-such-sister-addict-glue-canal-describe-random-hawk-recall |  
+| bip_39_word_dash_11 | shadow-such-sister-addict-glue-canal-describe-random-hawk-recall-very |  
+| bip_39_word_dash_12 | shadow-such-sister-addict-glue-canal-describe-random-hawk-recall-very-alpha |  
+| bip_39_word_dash_2 | shadow-such |  
+| bip_39_word_dash_3 | shadow-such-sister |  
+| bip_39_word_dash_4 | shadow-such-sister-addict |  
+| bip_39_word_dash_5 | shadow-such-sister-addict-glue |  
+| bip_39_word_dash_6 | shadow-such-sister-addict-glue-canal |  
+| bip_39_word_dash_7 | shadow-such-sister-addict-glue-canal-describe |  
+| bip_39_word_dash_8 | shadow-such-sister-addict-glue-canal-describe-random |  
+| bip_39_word_dash_9 | shadow-such-sister-addict-glue-canal-describe-random-hawk |  
 | bip_39_word_new_br_1 | shadow |  
 | bip_39_word_new_br_10 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall |  
 | bip_39_word_new_br_11 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall<br>very |  
@@ -147,6 +159,18 @@ hawk |
 | bip_39_word_space_7 | shadow such sister addict glue canal describe |  
 | bip_39_word_space_8 | shadow such sister addict glue canal describe random |  
 | bip_39_word_space_9 | shadow such sister addict glue canal describe random hawk |  
+| bip_39_word_underscore_1 | shadow |  
+| bip_39_word_underscore_10 | shadow_such_sister_addict_glue_canal_describe_random_hawk_recall |  
+| bip_39_word_underscore_11 | shadow_such_sister_addict_glue_canal_describe_random_hawk_recall_very |  
+| bip_39_word_underscore_12 | shadow_such_sister_addict_glue_canal_describe_random_hawk_recall_very_alpha |  
+| bip_39_word_underscore_2 | shadow_such |  
+| bip_39_word_underscore_3 | shadow_such_sister |  
+| bip_39_word_underscore_4 | shadow_such_sister_addict |  
+| bip_39_word_underscore_5 | shadow_such_sister_addict_glue |  
+| bip_39_word_underscore_6 | shadow_such_sister_addict_glue_canal |  
+| bip_39_word_underscore_7 | shadow_such_sister_addict_glue_canal_describe |  
+| bip_39_word_underscore_8 | shadow_such_sister_addict_glue_canal_describe_random |  
+| bip_39_word_underscore_9 | shadow_such_sister_addict_glue_canal_describe_random_hawk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

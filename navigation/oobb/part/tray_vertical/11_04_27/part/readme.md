@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | timber |  
+| bip_39_word_dash_10 | timber-devote-boost-village-senior-battle-amazing-lumber-elbow-dry |  
+| bip_39_word_dash_11 | timber-devote-boost-village-senior-battle-amazing-lumber-elbow-dry-dilemma |  
+| bip_39_word_dash_12 | timber-devote-boost-village-senior-battle-amazing-lumber-elbow-dry-dilemma-average |  
+| bip_39_word_dash_2 | timber-devote |  
+| bip_39_word_dash_3 | timber-devote-boost |  
+| bip_39_word_dash_4 | timber-devote-boost-village |  
+| bip_39_word_dash_5 | timber-devote-boost-village-senior |  
+| bip_39_word_dash_6 | timber-devote-boost-village-senior-battle |  
+| bip_39_word_dash_7 | timber-devote-boost-village-senior-battle-amazing |  
+| bip_39_word_dash_8 | timber-devote-boost-village-senior-battle-amazing-lumber |  
+| bip_39_word_dash_9 | timber-devote-boost-village-senior-battle-amazing-lumber-elbow |  
 | bip_39_word_new_br_1 | timber |  
 | bip_39_word_new_br_10 | timber<br>devote<br>boost<br>village<br>senior<br>battle<br>amazing<br>lumber<br>elbow<br>dry |  
 | bip_39_word_new_br_11 | timber<br>devote<br>boost<br>village<br>senior<br>battle<br>amazing<br>lumber<br>elbow<br>dry<br>dilemma |  
@@ -147,6 +159,18 @@ elbow |
 | bip_39_word_space_7 | timber devote boost village senior battle amazing |  
 | bip_39_word_space_8 | timber devote boost village senior battle amazing lumber |  
 | bip_39_word_space_9 | timber devote boost village senior battle amazing lumber elbow |  
+| bip_39_word_underscore_1 | timber |  
+| bip_39_word_underscore_10 | timber_devote_boost_village_senior_battle_amazing_lumber_elbow_dry |  
+| bip_39_word_underscore_11 | timber_devote_boost_village_senior_battle_amazing_lumber_elbow_dry_dilemma |  
+| bip_39_word_underscore_12 | timber_devote_boost_village_senior_battle_amazing_lumber_elbow_dry_dilemma_average |  
+| bip_39_word_underscore_2 | timber_devote |  
+| bip_39_word_underscore_3 | timber_devote_boost |  
+| bip_39_word_underscore_4 | timber_devote_boost_village |  
+| bip_39_word_underscore_5 | timber_devote_boost_village_senior |  
+| bip_39_word_underscore_6 | timber_devote_boost_village_senior_battle |  
+| bip_39_word_underscore_7 | timber_devote_boost_village_senior_battle_amazing |  
+| bip_39_word_underscore_8 | timber_devote_boost_village_senior_battle_amazing_lumber |  
+| bip_39_word_underscore_9 | timber_devote_boost_village_senior_battle_amazing_lumber_elbow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assault |  
+| bip_39_word_dash_10 | assault-hungry-oblige-tent-impulse-cabin-fox-jewel-rebel-vital |  
+| bip_39_word_dash_11 | assault-hungry-oblige-tent-impulse-cabin-fox-jewel-rebel-vital-define |  
+| bip_39_word_dash_12 | assault-hungry-oblige-tent-impulse-cabin-fox-jewel-rebel-vital-define-above |  
+| bip_39_word_dash_2 | assault-hungry |  
+| bip_39_word_dash_3 | assault-hungry-oblige |  
+| bip_39_word_dash_4 | assault-hungry-oblige-tent |  
+| bip_39_word_dash_5 | assault-hungry-oblige-tent-impulse |  
+| bip_39_word_dash_6 | assault-hungry-oblige-tent-impulse-cabin |  
+| bip_39_word_dash_7 | assault-hungry-oblige-tent-impulse-cabin-fox |  
+| bip_39_word_dash_8 | assault-hungry-oblige-tent-impulse-cabin-fox-jewel |  
+| bip_39_word_dash_9 | assault-hungry-oblige-tent-impulse-cabin-fox-jewel-rebel |  
 | bip_39_word_new_br_1 | assault |  
 | bip_39_word_new_br_10 | assault<br>hungry<br>oblige<br>tent<br>impulse<br>cabin<br>fox<br>jewel<br>rebel<br>vital |  
 | bip_39_word_new_br_11 | assault<br>hungry<br>oblige<br>tent<br>impulse<br>cabin<br>fox<br>jewel<br>rebel<br>vital<br>define |  
@@ -147,6 +159,18 @@ rebel |
 | bip_39_word_space_7 | assault hungry oblige tent impulse cabin fox |  
 | bip_39_word_space_8 | assault hungry oblige tent impulse cabin fox jewel |  
 | bip_39_word_space_9 | assault hungry oblige tent impulse cabin fox jewel rebel |  
+| bip_39_word_underscore_1 | assault |  
+| bip_39_word_underscore_10 | assault_hungry_oblige_tent_impulse_cabin_fox_jewel_rebel_vital |  
+| bip_39_word_underscore_11 | assault_hungry_oblige_tent_impulse_cabin_fox_jewel_rebel_vital_define |  
+| bip_39_word_underscore_12 | assault_hungry_oblige_tent_impulse_cabin_fox_jewel_rebel_vital_define_above |  
+| bip_39_word_underscore_2 | assault_hungry |  
+| bip_39_word_underscore_3 | assault_hungry_oblige |  
+| bip_39_word_underscore_4 | assault_hungry_oblige_tent |  
+| bip_39_word_underscore_5 | assault_hungry_oblige_tent_impulse |  
+| bip_39_word_underscore_6 | assault_hungry_oblige_tent_impulse_cabin |  
+| bip_39_word_underscore_7 | assault_hungry_oblige_tent_impulse_cabin_fox |  
+| bip_39_word_underscore_8 | assault_hungry_oblige_tent_impulse_cabin_fox_jewel |  
+| bip_39_word_underscore_9 | assault_hungry_oblige_tent_impulse_cabin_fox_jewel_rebel |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

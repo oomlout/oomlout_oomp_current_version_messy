@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dragon |  
+| bip_39_word_dash_10 | dragon-empower-boost-mistake-barely-glove-wood-kiss-angry-radar |  
+| bip_39_word_dash_11 | dragon-empower-boost-mistake-barely-glove-wood-kiss-angry-radar-edit |  
+| bip_39_word_dash_12 | dragon-empower-boost-mistake-barely-glove-wood-kiss-angry-radar-edit-avocado |  
+| bip_39_word_dash_2 | dragon-empower |  
+| bip_39_word_dash_3 | dragon-empower-boost |  
+| bip_39_word_dash_4 | dragon-empower-boost-mistake |  
+| bip_39_word_dash_5 | dragon-empower-boost-mistake-barely |  
+| bip_39_word_dash_6 | dragon-empower-boost-mistake-barely-glove |  
+| bip_39_word_dash_7 | dragon-empower-boost-mistake-barely-glove-wood |  
+| bip_39_word_dash_8 | dragon-empower-boost-mistake-barely-glove-wood-kiss |  
+| bip_39_word_dash_9 | dragon-empower-boost-mistake-barely-glove-wood-kiss-angry |  
 | bip_39_word_new_br_1 | dragon |  
 | bip_39_word_new_br_10 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss<br>angry<br>radar |  
 | bip_39_word_new_br_11 | dragon<br>empower<br>boost<br>mistake<br>barely<br>glove<br>wood<br>kiss<br>angry<br>radar<br>edit |  
@@ -147,6 +159,18 @@ angry |
 | bip_39_word_space_7 | dragon empower boost mistake barely glove wood |  
 | bip_39_word_space_8 | dragon empower boost mistake barely glove wood kiss |  
 | bip_39_word_space_9 | dragon empower boost mistake barely glove wood kiss angry |  
+| bip_39_word_underscore_1 | dragon |  
+| bip_39_word_underscore_10 | dragon_empower_boost_mistake_barely_glove_wood_kiss_angry_radar |  
+| bip_39_word_underscore_11 | dragon_empower_boost_mistake_barely_glove_wood_kiss_angry_radar_edit |  
+| bip_39_word_underscore_12 | dragon_empower_boost_mistake_barely_glove_wood_kiss_angry_radar_edit_avocado |  
+| bip_39_word_underscore_2 | dragon_empower |  
+| bip_39_word_underscore_3 | dragon_empower_boost |  
+| bip_39_word_underscore_4 | dragon_empower_boost_mistake |  
+| bip_39_word_underscore_5 | dragon_empower_boost_mistake_barely |  
+| bip_39_word_underscore_6 | dragon_empower_boost_mistake_barely_glove |  
+| bip_39_word_underscore_7 | dragon_empower_boost_mistake_barely_glove_wood |  
+| bip_39_word_underscore_8 | dragon_empower_boost_mistake_barely_glove_wood_kiss |  
+| bip_39_word_underscore_9 | dragon_empower_boost_mistake_barely_glove_wood_kiss_angry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

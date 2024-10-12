@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gaze |  
+| bip_39_word_dash_10 | gaze-movie-crawl-nose-elite-thumb-point-squirrel-turtle-struggle |  
+| bip_39_word_dash_11 | gaze-movie-crawl-nose-elite-thumb-point-squirrel-turtle-struggle-enable |  
+| bip_39_word_dash_12 | gaze-movie-crawl-nose-elite-thumb-point-squirrel-turtle-struggle-enable-action |  
+| bip_39_word_dash_2 | gaze-movie |  
+| bip_39_word_dash_3 | gaze-movie-crawl |  
+| bip_39_word_dash_4 | gaze-movie-crawl-nose |  
+| bip_39_word_dash_5 | gaze-movie-crawl-nose-elite |  
+| bip_39_word_dash_6 | gaze-movie-crawl-nose-elite-thumb |  
+| bip_39_word_dash_7 | gaze-movie-crawl-nose-elite-thumb-point |  
+| bip_39_word_dash_8 | gaze-movie-crawl-nose-elite-thumb-point-squirrel |  
+| bip_39_word_dash_9 | gaze-movie-crawl-nose-elite-thumb-point-squirrel-turtle |  
 | bip_39_word_new_br_1 | gaze |  
 | bip_39_word_new_br_10 | gaze<br>movie<br>crawl<br>nose<br>elite<br>thumb<br>point<br>squirrel<br>turtle<br>struggle |  
 | bip_39_word_new_br_11 | gaze<br>movie<br>crawl<br>nose<br>elite<br>thumb<br>point<br>squirrel<br>turtle<br>struggle<br>enable |  
@@ -147,6 +159,18 @@ turtle |
 | bip_39_word_space_7 | gaze movie crawl nose elite thumb point |  
 | bip_39_word_space_8 | gaze movie crawl nose elite thumb point squirrel |  
 | bip_39_word_space_9 | gaze movie crawl nose elite thumb point squirrel turtle |  
+| bip_39_word_underscore_1 | gaze |  
+| bip_39_word_underscore_10 | gaze_movie_crawl_nose_elite_thumb_point_squirrel_turtle_struggle |  
+| bip_39_word_underscore_11 | gaze_movie_crawl_nose_elite_thumb_point_squirrel_turtle_struggle_enable |  
+| bip_39_word_underscore_12 | gaze_movie_crawl_nose_elite_thumb_point_squirrel_turtle_struggle_enable_action |  
+| bip_39_word_underscore_2 | gaze_movie |  
+| bip_39_word_underscore_3 | gaze_movie_crawl |  
+| bip_39_word_underscore_4 | gaze_movie_crawl_nose |  
+| bip_39_word_underscore_5 | gaze_movie_crawl_nose_elite |  
+| bip_39_word_underscore_6 | gaze_movie_crawl_nose_elite_thumb |  
+| bip_39_word_underscore_7 | gaze_movie_crawl_nose_elite_thumb_point |  
+| bip_39_word_underscore_8 | gaze_movie_crawl_nose_elite_thumb_point_squirrel |  
+| bip_39_word_underscore_9 | gaze_movie_crawl_nose_elite_thumb_point_squirrel_turtle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

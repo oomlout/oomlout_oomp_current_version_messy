@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crawl |  
+| bip_39_word_dash_10 | crawl-opinion-canoe-release-arrive-solve-pair-style-quiz-brief |  
+| bip_39_word_dash_11 | crawl-opinion-canoe-release-arrive-solve-pair-style-quiz-brief-scrap |  
+| bip_39_word_dash_12 | crawl-opinion-canoe-release-arrive-solve-pair-style-quiz-brief-scrap-adapt |  
+| bip_39_word_dash_2 | crawl-opinion |  
+| bip_39_word_dash_3 | crawl-opinion-canoe |  
+| bip_39_word_dash_4 | crawl-opinion-canoe-release |  
+| bip_39_word_dash_5 | crawl-opinion-canoe-release-arrive |  
+| bip_39_word_dash_6 | crawl-opinion-canoe-release-arrive-solve |  
+| bip_39_word_dash_7 | crawl-opinion-canoe-release-arrive-solve-pair |  
+| bip_39_word_dash_8 | crawl-opinion-canoe-release-arrive-solve-pair-style |  
+| bip_39_word_dash_9 | crawl-opinion-canoe-release-arrive-solve-pair-style-quiz |  
 | bip_39_word_new_br_1 | crawl |  
 | bip_39_word_new_br_10 | crawl<br>opinion<br>canoe<br>release<br>arrive<br>solve<br>pair<br>style<br>quiz<br>brief |  
 | bip_39_word_new_br_11 | crawl<br>opinion<br>canoe<br>release<br>arrive<br>solve<br>pair<br>style<br>quiz<br>brief<br>scrap |  
@@ -147,6 +159,18 @@ quiz |
 | bip_39_word_space_7 | crawl opinion canoe release arrive solve pair |  
 | bip_39_word_space_8 | crawl opinion canoe release arrive solve pair style |  
 | bip_39_word_space_9 | crawl opinion canoe release arrive solve pair style quiz |  
+| bip_39_word_underscore_1 | crawl |  
+| bip_39_word_underscore_10 | crawl_opinion_canoe_release_arrive_solve_pair_style_quiz_brief |  
+| bip_39_word_underscore_11 | crawl_opinion_canoe_release_arrive_solve_pair_style_quiz_brief_scrap |  
+| bip_39_word_underscore_12 | crawl_opinion_canoe_release_arrive_solve_pair_style_quiz_brief_scrap_adapt |  
+| bip_39_word_underscore_2 | crawl_opinion |  
+| bip_39_word_underscore_3 | crawl_opinion_canoe |  
+| bip_39_word_underscore_4 | crawl_opinion_canoe_release |  
+| bip_39_word_underscore_5 | crawl_opinion_canoe_release_arrive |  
+| bip_39_word_underscore_6 | crawl_opinion_canoe_release_arrive_solve |  
+| bip_39_word_underscore_7 | crawl_opinion_canoe_release_arrive_solve_pair |  
+| bip_39_word_underscore_8 | crawl_opinion_canoe_release_arrive_solve_pair_style |  
+| bip_39_word_underscore_9 | crawl_opinion_canoe_release_arrive_solve_pair_style_quiz |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

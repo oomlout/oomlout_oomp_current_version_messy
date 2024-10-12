@@ -1,3 +1,15 @@
+bip_39_word_dash_1: teach
+bip_39_word_dash_10: teach-pony-change-mystery-rally-warfare-auction-engage-cover-piece
+bip_39_word_dash_11: teach-pony-change-mystery-rally-warfare-auction-engage-cover-piece-public
+bip_39_word_dash_12: teach-pony-change-mystery-rally-warfare-auction-engage-cover-piece-public-amount
+bip_39_word_dash_2: teach-pony
+bip_39_word_dash_3: teach-pony-change
+bip_39_word_dash_4: teach-pony-change-mystery
+bip_39_word_dash_5: teach-pony-change-mystery-rally
+bip_39_word_dash_6: teach-pony-change-mystery-rally-warfare
+bip_39_word_dash_7: teach-pony-change-mystery-rally-warfare-auction
+bip_39_word_dash_8: teach-pony-change-mystery-rally-warfare-auction-engage
+bip_39_word_dash_9: teach-pony-change-mystery-rally-warfare-auction-engage-cover
 bip_39_word_new_br_1: teach
 bip_39_word_new_br_10: teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage<br>cover<br>piece
 bip_39_word_new_br_11: teach<br>pony<br>change<br>mystery<br>rally<br>warfare<br>auction<br>engage<br>cover<br>piece<br>public
@@ -194,6 +206,18 @@ bip_39_word_space_6: teach pony change mystery rally warfare
 bip_39_word_space_7: teach pony change mystery rally warfare auction
 bip_39_word_space_8: teach pony change mystery rally warfare auction engage
 bip_39_word_space_9: teach pony change mystery rally warfare auction engage cover
+bip_39_word_underscore_1: teach
+bip_39_word_underscore_10: teach_pony_change_mystery_rally_warfare_auction_engage_cover_piece
+bip_39_word_underscore_11: teach_pony_change_mystery_rally_warfare_auction_engage_cover_piece_public
+bip_39_word_underscore_12: teach_pony_change_mystery_rally_warfare_auction_engage_cover_piece_public_amount
+bip_39_word_underscore_2: teach_pony
+bip_39_word_underscore_3: teach_pony_change
+bip_39_word_underscore_4: teach_pony_change_mystery
+bip_39_word_underscore_5: teach_pony_change_mystery_rally
+bip_39_word_underscore_6: teach_pony_change_mystery_rally_warfare
+bip_39_word_underscore_7: teach_pony_change_mystery_rally_warfare_auction
+bip_39_word_underscore_8: teach_pony_change_mystery_rally_warfare_auction_engage
+bip_39_word_underscore_9: teach_pony_change_mystery_rally_warfare_auction_engage_cover
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

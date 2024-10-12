@@ -1,3 +1,15 @@
+bip_39_word_dash_1: culture
+bip_39_word_dash_10: culture-opinion-recall-comic-guide-board-cream-soon-finger-rich
+bip_39_word_dash_11: culture-opinion-recall-comic-guide-board-cream-soon-finger-rich-palm
+bip_39_word_dash_12: culture-opinion-recall-comic-guide-board-cream-soon-finger-rich-palm-attract
+bip_39_word_dash_2: culture-opinion
+bip_39_word_dash_3: culture-opinion-recall
+bip_39_word_dash_4: culture-opinion-recall-comic
+bip_39_word_dash_5: culture-opinion-recall-comic-guide
+bip_39_word_dash_6: culture-opinion-recall-comic-guide-board
+bip_39_word_dash_7: culture-opinion-recall-comic-guide-board-cream
+bip_39_word_dash_8: culture-opinion-recall-comic-guide-board-cream-soon
+bip_39_word_dash_9: culture-opinion-recall-comic-guide-board-cream-soon-finger
 bip_39_word_new_br_1: culture
 bip_39_word_new_br_10: culture<br>opinion<br>recall<br>comic<br>guide<br>board<br>cream<br>soon<br>finger<br>rich
 bip_39_word_new_br_11: culture<br>opinion<br>recall<br>comic<br>guide<br>board<br>cream<br>soon<br>finger<br>rich<br>palm
@@ -193,6 +205,18 @@ bip_39_word_space_6: culture opinion recall comic guide board
 bip_39_word_space_7: culture opinion recall comic guide board cream
 bip_39_word_space_8: culture opinion recall comic guide board cream soon
 bip_39_word_space_9: culture opinion recall comic guide board cream soon finger
+bip_39_word_underscore_1: culture
+bip_39_word_underscore_10: culture_opinion_recall_comic_guide_board_cream_soon_finger_rich
+bip_39_word_underscore_11: culture_opinion_recall_comic_guide_board_cream_soon_finger_rich_palm
+bip_39_word_underscore_12: culture_opinion_recall_comic_guide_board_cream_soon_finger_rich_palm_attract
+bip_39_word_underscore_2: culture_opinion
+bip_39_word_underscore_3: culture_opinion_recall
+bip_39_word_underscore_4: culture_opinion_recall_comic
+bip_39_word_underscore_5: culture_opinion_recall_comic_guide
+bip_39_word_underscore_6: culture_opinion_recall_comic_guide_board
+bip_39_word_underscore_7: culture_opinion_recall_comic_guide_board_cream
+bip_39_word_underscore_8: culture_opinion_recall_comic_guide_board_cream_soon
+bip_39_word_underscore_9: culture_opinion_recall_comic_guide_board_cream_soon_finger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

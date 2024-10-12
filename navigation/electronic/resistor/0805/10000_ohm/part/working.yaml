@@ -1,3 +1,15 @@
+bip_39_word_dash_1: purchase
+bip_39_word_dash_10: purchase-before-image-logic-rookie-alone-page-public-sand-uphold
+bip_39_word_dash_11: purchase-before-image-logic-rookie-alone-page-public-sand-uphold-monitor
+bip_39_word_dash_12: purchase-before-image-logic-rookie-alone-page-public-sand-uphold-monitor-acquire
+bip_39_word_dash_2: purchase-before
+bip_39_word_dash_3: purchase-before-image
+bip_39_word_dash_4: purchase-before-image-logic
+bip_39_word_dash_5: purchase-before-image-logic-rookie
+bip_39_word_dash_6: purchase-before-image-logic-rookie-alone
+bip_39_word_dash_7: purchase-before-image-logic-rookie-alone-page
+bip_39_word_dash_8: purchase-before-image-logic-rookie-alone-page-public
+bip_39_word_dash_9: purchase-before-image-logic-rookie-alone-page-public-sand
 bip_39_word_new_br_1: purchase
 bip_39_word_new_br_10: purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold
 bip_39_word_new_br_11: purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold<br>monitor
@@ -193,6 +205,18 @@ bip_39_word_space_6: purchase before image logic rookie alone
 bip_39_word_space_7: purchase before image logic rookie alone page
 bip_39_word_space_8: purchase before image logic rookie alone page public
 bip_39_word_space_9: purchase before image logic rookie alone page public sand
+bip_39_word_underscore_1: purchase
+bip_39_word_underscore_10: purchase_before_image_logic_rookie_alone_page_public_sand_uphold
+bip_39_word_underscore_11: purchase_before_image_logic_rookie_alone_page_public_sand_uphold_monitor
+bip_39_word_underscore_12: purchase_before_image_logic_rookie_alone_page_public_sand_uphold_monitor_acquire
+bip_39_word_underscore_2: purchase_before
+bip_39_word_underscore_3: purchase_before_image
+bip_39_word_underscore_4: purchase_before_image_logic
+bip_39_word_underscore_5: purchase_before_image_logic_rookie
+bip_39_word_underscore_6: purchase_before_image_logic_rookie_alone
+bip_39_word_underscore_7: purchase_before_image_logic_rookie_alone_page
+bip_39_word_underscore_8: purchase_before_image_logic_rookie_alone_page_public
+bip_39_word_underscore_9: purchase_before_image_logic_rookie_alone_page_public_sand
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

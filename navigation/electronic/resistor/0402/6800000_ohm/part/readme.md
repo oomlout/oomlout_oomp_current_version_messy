@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | search |  
+| bip_39_word_dash_10 | search-curious-provide-notice-crime-dentist-must-because-talent-acid |  
+| bip_39_word_dash_11 | search-curious-provide-notice-crime-dentist-must-because-talent-acid-else |  
+| bip_39_word_dash_12 | search-curious-provide-notice-crime-dentist-must-because-talent-acid-else-among |  
+| bip_39_word_dash_2 | search-curious |  
+| bip_39_word_dash_3 | search-curious-provide |  
+| bip_39_word_dash_4 | search-curious-provide-notice |  
+| bip_39_word_dash_5 | search-curious-provide-notice-crime |  
+| bip_39_word_dash_6 | search-curious-provide-notice-crime-dentist |  
+| bip_39_word_dash_7 | search-curious-provide-notice-crime-dentist-must |  
+| bip_39_word_dash_8 | search-curious-provide-notice-crime-dentist-must-because |  
+| bip_39_word_dash_9 | search-curious-provide-notice-crime-dentist-must-because-talent |  
 | bip_39_word_new_br_1 | search |  
 | bip_39_word_new_br_10 | search<br>curious<br>provide<br>notice<br>crime<br>dentist<br>must<br>because<br>talent<br>acid |  
 | bip_39_word_new_br_11 | search<br>curious<br>provide<br>notice<br>crime<br>dentist<br>must<br>because<br>talent<br>acid<br>else |  
@@ -147,6 +159,18 @@ talent |
 | bip_39_word_space_7 | search curious provide notice crime dentist must |  
 | bip_39_word_space_8 | search curious provide notice crime dentist must because |  
 | bip_39_word_space_9 | search curious provide notice crime dentist must because talent |  
+| bip_39_word_underscore_1 | search |  
+| bip_39_word_underscore_10 | search_curious_provide_notice_crime_dentist_must_because_talent_acid |  
+| bip_39_word_underscore_11 | search_curious_provide_notice_crime_dentist_must_because_talent_acid_else |  
+| bip_39_word_underscore_12 | search_curious_provide_notice_crime_dentist_must_because_talent_acid_else_among |  
+| bip_39_word_underscore_2 | search_curious |  
+| bip_39_word_underscore_3 | search_curious_provide |  
+| bip_39_word_underscore_4 | search_curious_provide_notice |  
+| bip_39_word_underscore_5 | search_curious_provide_notice_crime |  
+| bip_39_word_underscore_6 | search_curious_provide_notice_crime_dentist |  
+| bip_39_word_underscore_7 | search_curious_provide_notice_crime_dentist_must |  
+| bip_39_word_underscore_8 | search_curious_provide_notice_crime_dentist_must_because |  
+| bip_39_word_underscore_9 | search_curious_provide_notice_crime_dentist_must_because_talent |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

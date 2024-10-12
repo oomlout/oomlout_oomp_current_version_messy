@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | family |  
+| bip_39_word_dash_10 | family-network-reveal-item-hamster-begin-food-upon-boil-rain |  
+| bip_39_word_dash_11 | family-network-reveal-item-hamster-begin-food-upon-boil-rain-flip |  
+| bip_39_word_dash_12 | family-network-reveal-item-hamster-begin-food-upon-boil-rain-flip-attend |  
+| bip_39_word_dash_2 | family-network |  
+| bip_39_word_dash_3 | family-network-reveal |  
+| bip_39_word_dash_4 | family-network-reveal-item |  
+| bip_39_word_dash_5 | family-network-reveal-item-hamster |  
+| bip_39_word_dash_6 | family-network-reveal-item-hamster-begin |  
+| bip_39_word_dash_7 | family-network-reveal-item-hamster-begin-food |  
+| bip_39_word_dash_8 | family-network-reveal-item-hamster-begin-food-upon |  
+| bip_39_word_dash_9 | family-network-reveal-item-hamster-begin-food-upon-boil |  
 | bip_39_word_new_br_1 | family |  
 | bip_39_word_new_br_10 | family<br>network<br>reveal<br>item<br>hamster<br>begin<br>food<br>upon<br>boil<br>rain |  
 | bip_39_word_new_br_11 | family<br>network<br>reveal<br>item<br>hamster<br>begin<br>food<br>upon<br>boil<br>rain<br>flip |  
@@ -147,6 +159,18 @@ boil |
 | bip_39_word_space_7 | family network reveal item hamster begin food |  
 | bip_39_word_space_8 | family network reveal item hamster begin food upon |  
 | bip_39_word_space_9 | family network reveal item hamster begin food upon boil |  
+| bip_39_word_underscore_1 | family |  
+| bip_39_word_underscore_10 | family_network_reveal_item_hamster_begin_food_upon_boil_rain |  
+| bip_39_word_underscore_11 | family_network_reveal_item_hamster_begin_food_upon_boil_rain_flip |  
+| bip_39_word_underscore_12 | family_network_reveal_item_hamster_begin_food_upon_boil_rain_flip_attend |  
+| bip_39_word_underscore_2 | family_network |  
+| bip_39_word_underscore_3 | family_network_reveal |  
+| bip_39_word_underscore_4 | family_network_reveal_item |  
+| bip_39_word_underscore_5 | family_network_reveal_item_hamster |  
+| bip_39_word_underscore_6 | family_network_reveal_item_hamster_begin |  
+| bip_39_word_underscore_7 | family_network_reveal_item_hamster_begin_food |  
+| bip_39_word_underscore_8 | family_network_reveal_item_hamster_begin_food_upon |  
+| bip_39_word_underscore_9 | family_network_reveal_item_hamster_begin_food_upon_boil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

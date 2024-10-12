@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prison |  
+| bip_39_word_dash_10 | prison-rebel-trumpet-segment-legend-broccoli-umbrella-couch-pyramid-arrive |  
+| bip_39_word_dash_11 | prison-rebel-trumpet-segment-legend-broccoli-umbrella-couch-pyramid-arrive-angle |  
+| bip_39_word_dash_12 | prison-rebel-trumpet-segment-legend-broccoli-umbrella-couch-pyramid-arrive-angle-armor |  
+| bip_39_word_dash_2 | prison-rebel |  
+| bip_39_word_dash_3 | prison-rebel-trumpet |  
+| bip_39_word_dash_4 | prison-rebel-trumpet-segment |  
+| bip_39_word_dash_5 | prison-rebel-trumpet-segment-legend |  
+| bip_39_word_dash_6 | prison-rebel-trumpet-segment-legend-broccoli |  
+| bip_39_word_dash_7 | prison-rebel-trumpet-segment-legend-broccoli-umbrella |  
+| bip_39_word_dash_8 | prison-rebel-trumpet-segment-legend-broccoli-umbrella-couch |  
+| bip_39_word_dash_9 | prison-rebel-trumpet-segment-legend-broccoli-umbrella-couch-pyramid |  
 | bip_39_word_new_br_1 | prison |  
 | bip_39_word_new_br_10 | prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive |  
 | bip_39_word_new_br_11 | prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive<br>angle |  
@@ -147,6 +159,18 @@ pyramid |
 | bip_39_word_space_7 | prison rebel trumpet segment legend broccoli umbrella |  
 | bip_39_word_space_8 | prison rebel trumpet segment legend broccoli umbrella couch |  
 | bip_39_word_space_9 | prison rebel trumpet segment legend broccoli umbrella couch pyramid |  
+| bip_39_word_underscore_1 | prison |  
+| bip_39_word_underscore_10 | prison_rebel_trumpet_segment_legend_broccoli_umbrella_couch_pyramid_arrive |  
+| bip_39_word_underscore_11 | prison_rebel_trumpet_segment_legend_broccoli_umbrella_couch_pyramid_arrive_angle |  
+| bip_39_word_underscore_12 | prison_rebel_trumpet_segment_legend_broccoli_umbrella_couch_pyramid_arrive_angle_armor |  
+| bip_39_word_underscore_2 | prison_rebel |  
+| bip_39_word_underscore_3 | prison_rebel_trumpet |  
+| bip_39_word_underscore_4 | prison_rebel_trumpet_segment |  
+| bip_39_word_underscore_5 | prison_rebel_trumpet_segment_legend |  
+| bip_39_word_underscore_6 | prison_rebel_trumpet_segment_legend_broccoli |  
+| bip_39_word_underscore_7 | prison_rebel_trumpet_segment_legend_broccoli_umbrella |  
+| bip_39_word_underscore_8 | prison_rebel_trumpet_segment_legend_broccoli_umbrella_couch |  
+| bip_39_word_underscore_9 | prison_rebel_trumpet_segment_legend_broccoli_umbrella_couch_pyramid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

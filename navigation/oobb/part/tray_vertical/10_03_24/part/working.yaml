@@ -1,3 +1,15 @@
+bip_39_word_dash_1: plug
+bip_39_word_dash_10: plug-network-warrior-bamboo-poem-flag-initial-chimney-run-nothing
+bip_39_word_dash_11: plug-network-warrior-bamboo-poem-flag-initial-chimney-run-nothing-miss
+bip_39_word_dash_12: plug-network-warrior-bamboo-poem-flag-initial-chimney-run-nothing-miss-artist
+bip_39_word_dash_2: plug-network
+bip_39_word_dash_3: plug-network-warrior
+bip_39_word_dash_4: plug-network-warrior-bamboo
+bip_39_word_dash_5: plug-network-warrior-bamboo-poem
+bip_39_word_dash_6: plug-network-warrior-bamboo-poem-flag
+bip_39_word_dash_7: plug-network-warrior-bamboo-poem-flag-initial
+bip_39_word_dash_8: plug-network-warrior-bamboo-poem-flag-initial-chimney
+bip_39_word_dash_9: plug-network-warrior-bamboo-poem-flag-initial-chimney-run
 bip_39_word_new_br_1: plug
 bip_39_word_new_br_10: plug<br>network<br>warrior<br>bamboo<br>poem<br>flag<br>initial<br>chimney<br>run<br>nothing
 bip_39_word_new_br_11: plug<br>network<br>warrior<br>bamboo<br>poem<br>flag<br>initial<br>chimney<br>run<br>nothing<br>miss
@@ -193,6 +205,18 @@ bip_39_word_space_6: plug network warrior bamboo poem flag
 bip_39_word_space_7: plug network warrior bamboo poem flag initial
 bip_39_word_space_8: plug network warrior bamboo poem flag initial chimney
 bip_39_word_space_9: plug network warrior bamboo poem flag initial chimney run
+bip_39_word_underscore_1: plug
+bip_39_word_underscore_10: plug_network_warrior_bamboo_poem_flag_initial_chimney_run_nothing
+bip_39_word_underscore_11: plug_network_warrior_bamboo_poem_flag_initial_chimney_run_nothing_miss
+bip_39_word_underscore_12: plug_network_warrior_bamboo_poem_flag_initial_chimney_run_nothing_miss_artist
+bip_39_word_underscore_2: plug_network
+bip_39_word_underscore_3: plug_network_warrior
+bip_39_word_underscore_4: plug_network_warrior_bamboo
+bip_39_word_underscore_5: plug_network_warrior_bamboo_poem
+bip_39_word_underscore_6: plug_network_warrior_bamboo_poem_flag
+bip_39_word_underscore_7: plug_network_warrior_bamboo_poem_flag_initial
+bip_39_word_underscore_8: plug_network_warrior_bamboo_poem_flag_initial_chimney
+bip_39_word_underscore_9: plug_network_warrior_bamboo_poem_flag_initial_chimney_run
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fence |  
+| bip_39_word_dash_10 | fence-miracle-marine-swear-gain-lake-image-stone-novel-accident |  
+| bip_39_word_dash_11 | fence-miracle-marine-swear-gain-lake-image-stone-novel-accident-loyal |  
+| bip_39_word_dash_12 | fence-miracle-marine-swear-gain-lake-image-stone-novel-accident-loyal-air |  
+| bip_39_word_dash_2 | fence-miracle |  
+| bip_39_word_dash_3 | fence-miracle-marine |  
+| bip_39_word_dash_4 | fence-miracle-marine-swear |  
+| bip_39_word_dash_5 | fence-miracle-marine-swear-gain |  
+| bip_39_word_dash_6 | fence-miracle-marine-swear-gain-lake |  
+| bip_39_word_dash_7 | fence-miracle-marine-swear-gain-lake-image |  
+| bip_39_word_dash_8 | fence-miracle-marine-swear-gain-lake-image-stone |  
+| bip_39_word_dash_9 | fence-miracle-marine-swear-gain-lake-image-stone-novel |  
 | bip_39_word_new_br_1 | fence |  
 | bip_39_word_new_br_10 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone<br>novel<br>accident |  
 | bip_39_word_new_br_11 | fence<br>miracle<br>marine<br>swear<br>gain<br>lake<br>image<br>stone<br>novel<br>accident<br>loyal |  
@@ -147,6 +159,18 @@ novel |
 | bip_39_word_space_7 | fence miracle marine swear gain lake image |  
 | bip_39_word_space_8 | fence miracle marine swear gain lake image stone |  
 | bip_39_word_space_9 | fence miracle marine swear gain lake image stone novel |  
+| bip_39_word_underscore_1 | fence |  
+| bip_39_word_underscore_10 | fence_miracle_marine_swear_gain_lake_image_stone_novel_accident |  
+| bip_39_word_underscore_11 | fence_miracle_marine_swear_gain_lake_image_stone_novel_accident_loyal |  
+| bip_39_word_underscore_12 | fence_miracle_marine_swear_gain_lake_image_stone_novel_accident_loyal_air |  
+| bip_39_word_underscore_2 | fence_miracle |  
+| bip_39_word_underscore_3 | fence_miracle_marine |  
+| bip_39_word_underscore_4 | fence_miracle_marine_swear |  
+| bip_39_word_underscore_5 | fence_miracle_marine_swear_gain |  
+| bip_39_word_underscore_6 | fence_miracle_marine_swear_gain_lake |  
+| bip_39_word_underscore_7 | fence_miracle_marine_swear_gain_lake_image |  
+| bip_39_word_underscore_8 | fence_miracle_marine_swear_gain_lake_image_stone |  
+| bip_39_word_underscore_9 | fence_miracle_marine_swear_gain_lake_image_stone_novel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: casino
+bip_39_word_dash_10: casino-victory-bean-hurdle-canoe-force-circle-gun-orphan-open
+bip_39_word_dash_11: casino-victory-bean-hurdle-canoe-force-circle-gun-orphan-open-duty
+bip_39_word_dash_12: casino-victory-bean-hurdle-canoe-force-circle-gun-orphan-open-duty-amazing
+bip_39_word_dash_2: casino-victory
+bip_39_word_dash_3: casino-victory-bean
+bip_39_word_dash_4: casino-victory-bean-hurdle
+bip_39_word_dash_5: casino-victory-bean-hurdle-canoe
+bip_39_word_dash_6: casino-victory-bean-hurdle-canoe-force
+bip_39_word_dash_7: casino-victory-bean-hurdle-canoe-force-circle
+bip_39_word_dash_8: casino-victory-bean-hurdle-canoe-force-circle-gun
+bip_39_word_dash_9: casino-victory-bean-hurdle-canoe-force-circle-gun-orphan
 bip_39_word_new_br_1: casino
 bip_39_word_new_br_10: casino<br>victory<br>bean<br>hurdle<br>canoe<br>force<br>circle<br>gun<br>orphan<br>open
 bip_39_word_new_br_11: casino<br>victory<br>bean<br>hurdle<br>canoe<br>force<br>circle<br>gun<br>orphan<br>open<br>duty
@@ -193,6 +205,18 @@ bip_39_word_space_6: casino victory bean hurdle canoe force
 bip_39_word_space_7: casino victory bean hurdle canoe force circle
 bip_39_word_space_8: casino victory bean hurdle canoe force circle gun
 bip_39_word_space_9: casino victory bean hurdle canoe force circle gun orphan
+bip_39_word_underscore_1: casino
+bip_39_word_underscore_10: casino_victory_bean_hurdle_canoe_force_circle_gun_orphan_open
+bip_39_word_underscore_11: casino_victory_bean_hurdle_canoe_force_circle_gun_orphan_open_duty
+bip_39_word_underscore_12: casino_victory_bean_hurdle_canoe_force_circle_gun_orphan_open_duty_amazing
+bip_39_word_underscore_2: casino_victory
+bip_39_word_underscore_3: casino_victory_bean
+bip_39_word_underscore_4: casino_victory_bean_hurdle
+bip_39_word_underscore_5: casino_victory_bean_hurdle_canoe
+bip_39_word_underscore_6: casino_victory_bean_hurdle_canoe_force
+bip_39_word_underscore_7: casino_victory_bean_hurdle_canoe_force_circle
+bip_39_word_underscore_8: casino_victory_bean_hurdle_canoe_force_circle_gun
+bip_39_word_underscore_9: casino_victory_bean_hurdle_canoe_force_circle_gun_orphan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

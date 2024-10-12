@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pill
+bip_39_word_dash_10: pill-hamster-skirt-napkin-pig-start-knee-depend-arrest-clerk
+bip_39_word_dash_11: pill-hamster-skirt-napkin-pig-start-knee-depend-arrest-clerk-layer
+bip_39_word_dash_12: pill-hamster-skirt-napkin-pig-start-knee-depend-arrest-clerk-layer-ask
+bip_39_word_dash_2: pill-hamster
+bip_39_word_dash_3: pill-hamster-skirt
+bip_39_word_dash_4: pill-hamster-skirt-napkin
+bip_39_word_dash_5: pill-hamster-skirt-napkin-pig
+bip_39_word_dash_6: pill-hamster-skirt-napkin-pig-start
+bip_39_word_dash_7: pill-hamster-skirt-napkin-pig-start-knee
+bip_39_word_dash_8: pill-hamster-skirt-napkin-pig-start-knee-depend
+bip_39_word_dash_9: pill-hamster-skirt-napkin-pig-start-knee-depend-arrest
 bip_39_word_new_br_1: pill
 bip_39_word_new_br_10: pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend<br>arrest<br>clerk
 bip_39_word_new_br_11: pill<br>hamster<br>skirt<br>napkin<br>pig<br>start<br>knee<br>depend<br>arrest<br>clerk<br>layer
@@ -193,6 +205,18 @@ bip_39_word_space_6: pill hamster skirt napkin pig start
 bip_39_word_space_7: pill hamster skirt napkin pig start knee
 bip_39_word_space_8: pill hamster skirt napkin pig start knee depend
 bip_39_word_space_9: pill hamster skirt napkin pig start knee depend arrest
+bip_39_word_underscore_1: pill
+bip_39_word_underscore_10: pill_hamster_skirt_napkin_pig_start_knee_depend_arrest_clerk
+bip_39_word_underscore_11: pill_hamster_skirt_napkin_pig_start_knee_depend_arrest_clerk_layer
+bip_39_word_underscore_12: pill_hamster_skirt_napkin_pig_start_knee_depend_arrest_clerk_layer_ask
+bip_39_word_underscore_2: pill_hamster
+bip_39_word_underscore_3: pill_hamster_skirt
+bip_39_word_underscore_4: pill_hamster_skirt_napkin
+bip_39_word_underscore_5: pill_hamster_skirt_napkin_pig
+bip_39_word_underscore_6: pill_hamster_skirt_napkin_pig_start
+bip_39_word_underscore_7: pill_hamster_skirt_napkin_pig_start_knee
+bip_39_word_underscore_8: pill_hamster_skirt_napkin_pig_start_knee_depend
+bip_39_word_underscore_9: pill_hamster_skirt_napkin_pig_start_knee_depend_arrest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

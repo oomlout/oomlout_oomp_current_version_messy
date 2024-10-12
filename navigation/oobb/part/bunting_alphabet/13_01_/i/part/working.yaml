@@ -1,3 +1,15 @@
+bip_39_word_dash_1: attend
+bip_39_word_dash_10: attend-have-sustain-gadget-there-flat-arrow-churn-inhale-burst
+bip_39_word_dash_11: attend-have-sustain-gadget-there-flat-arrow-churn-inhale-burst-drop
+bip_39_word_dash_12: attend-have-sustain-gadget-there-flat-arrow-churn-inhale-burst-drop-about
+bip_39_word_dash_2: attend-have
+bip_39_word_dash_3: attend-have-sustain
+bip_39_word_dash_4: attend-have-sustain-gadget
+bip_39_word_dash_5: attend-have-sustain-gadget-there
+bip_39_word_dash_6: attend-have-sustain-gadget-there-flat
+bip_39_word_dash_7: attend-have-sustain-gadget-there-flat-arrow
+bip_39_word_dash_8: attend-have-sustain-gadget-there-flat-arrow-churn
+bip_39_word_dash_9: attend-have-sustain-gadget-there-flat-arrow-churn-inhale
 bip_39_word_new_br_1: attend
 bip_39_word_new_br_10: attend<br>have<br>sustain<br>gadget<br>there<br>flat<br>arrow<br>churn<br>inhale<br>burst
 bip_39_word_new_br_11: attend<br>have<br>sustain<br>gadget<br>there<br>flat<br>arrow<br>churn<br>inhale<br>burst<br>drop
@@ -193,6 +205,18 @@ bip_39_word_space_6: attend have sustain gadget there flat
 bip_39_word_space_7: attend have sustain gadget there flat arrow
 bip_39_word_space_8: attend have sustain gadget there flat arrow churn
 bip_39_word_space_9: attend have sustain gadget there flat arrow churn inhale
+bip_39_word_underscore_1: attend
+bip_39_word_underscore_10: attend_have_sustain_gadget_there_flat_arrow_churn_inhale_burst
+bip_39_word_underscore_11: attend_have_sustain_gadget_there_flat_arrow_churn_inhale_burst_drop
+bip_39_word_underscore_12: attend_have_sustain_gadget_there_flat_arrow_churn_inhale_burst_drop_about
+bip_39_word_underscore_2: attend_have
+bip_39_word_underscore_3: attend_have_sustain
+bip_39_word_underscore_4: attend_have_sustain_gadget
+bip_39_word_underscore_5: attend_have_sustain_gadget_there
+bip_39_word_underscore_6: attend_have_sustain_gadget_there_flat
+bip_39_word_underscore_7: attend_have_sustain_gadget_there_flat_arrow
+bip_39_word_underscore_8: attend_have_sustain_gadget_there_flat_arrow_churn
+bip_39_word_underscore_9: attend_have_sustain_gadget_there_flat_arrow_churn_inhale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

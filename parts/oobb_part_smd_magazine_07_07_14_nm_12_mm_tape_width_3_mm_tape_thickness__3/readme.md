@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | appear |  
+| bip_39_word_dash_10 | appear-keen-party-large-define-nurse-chaos-farm-yard-save |  
+| bip_39_word_dash_11 | appear-keen-party-large-define-nurse-chaos-farm-yard-save-foster |  
+| bip_39_word_dash_12 | appear-keen-party-large-define-nurse-chaos-farm-yard-save-foster-alien |  
+| bip_39_word_dash_2 | appear-keen |  
+| bip_39_word_dash_3 | appear-keen-party |  
+| bip_39_word_dash_4 | appear-keen-party-large |  
+| bip_39_word_dash_5 | appear-keen-party-large-define |  
+| bip_39_word_dash_6 | appear-keen-party-large-define-nurse |  
+| bip_39_word_dash_7 | appear-keen-party-large-define-nurse-chaos |  
+| bip_39_word_dash_8 | appear-keen-party-large-define-nurse-chaos-farm |  
+| bip_39_word_dash_9 | appear-keen-party-large-define-nurse-chaos-farm-yard |  
 | bip_39_word_new_br_1 | appear |  
 | bip_39_word_new_br_10 | appear<br>keen<br>party<br>large<br>define<br>nurse<br>chaos<br>farm<br>yard<br>save |  
 | bip_39_word_new_br_11 | appear<br>keen<br>party<br>large<br>define<br>nurse<br>chaos<br>farm<br>yard<br>save<br>foster |  
@@ -147,6 +159,18 @@ yard |
 | bip_39_word_space_7 | appear keen party large define nurse chaos |  
 | bip_39_word_space_8 | appear keen party large define nurse chaos farm |  
 | bip_39_word_space_9 | appear keen party large define nurse chaos farm yard |  
+| bip_39_word_underscore_1 | appear |  
+| bip_39_word_underscore_10 | appear_keen_party_large_define_nurse_chaos_farm_yard_save |  
+| bip_39_word_underscore_11 | appear_keen_party_large_define_nurse_chaos_farm_yard_save_foster |  
+| bip_39_word_underscore_12 | appear_keen_party_large_define_nurse_chaos_farm_yard_save_foster_alien |  
+| bip_39_word_underscore_2 | appear_keen |  
+| bip_39_word_underscore_3 | appear_keen_party |  
+| bip_39_word_underscore_4 | appear_keen_party_large |  
+| bip_39_word_underscore_5 | appear_keen_party_large_define |  
+| bip_39_word_underscore_6 | appear_keen_party_large_define_nurse |  
+| bip_39_word_underscore_7 | appear_keen_party_large_define_nurse_chaos |  
+| bip_39_word_underscore_8 | appear_keen_party_large_define_nurse_chaos_farm |  
+| bip_39_word_underscore_9 | appear_keen_party_large_define_nurse_chaos_farm_yard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

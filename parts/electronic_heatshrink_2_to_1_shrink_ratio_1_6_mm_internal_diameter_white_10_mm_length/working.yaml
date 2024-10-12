@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bullet
+bip_39_word_dash_10: bullet-mountain-stamp-nice-thing-bargain-defy-category-grunt-height
+bip_39_word_dash_11: bullet-mountain-stamp-nice-thing-bargain-defy-category-grunt-height-fantasy
+bip_39_word_dash_12: bullet-mountain-stamp-nice-thing-bargain-defy-category-grunt-height-fantasy-adapt
+bip_39_word_dash_2: bullet-mountain
+bip_39_word_dash_3: bullet-mountain-stamp
+bip_39_word_dash_4: bullet-mountain-stamp-nice
+bip_39_word_dash_5: bullet-mountain-stamp-nice-thing
+bip_39_word_dash_6: bullet-mountain-stamp-nice-thing-bargain
+bip_39_word_dash_7: bullet-mountain-stamp-nice-thing-bargain-defy
+bip_39_word_dash_8: bullet-mountain-stamp-nice-thing-bargain-defy-category
+bip_39_word_dash_9: bullet-mountain-stamp-nice-thing-bargain-defy-category-grunt
 bip_39_word_new_br_1: bullet
 bip_39_word_new_br_10: bullet<br>mountain<br>stamp<br>nice<br>thing<br>bargain<br>defy<br>category<br>grunt<br>height
 bip_39_word_new_br_11: bullet<br>mountain<br>stamp<br>nice<br>thing<br>bargain<br>defy<br>category<br>grunt<br>height<br>fantasy
@@ -194,6 +206,18 @@ bip_39_word_space_6: bullet mountain stamp nice thing bargain
 bip_39_word_space_7: bullet mountain stamp nice thing bargain defy
 bip_39_word_space_8: bullet mountain stamp nice thing bargain defy category
 bip_39_word_space_9: bullet mountain stamp nice thing bargain defy category grunt
+bip_39_word_underscore_1: bullet
+bip_39_word_underscore_10: bullet_mountain_stamp_nice_thing_bargain_defy_category_grunt_height
+bip_39_word_underscore_11: bullet_mountain_stamp_nice_thing_bargain_defy_category_grunt_height_fantasy
+bip_39_word_underscore_12: bullet_mountain_stamp_nice_thing_bargain_defy_category_grunt_height_fantasy_adapt
+bip_39_word_underscore_2: bullet_mountain
+bip_39_word_underscore_3: bullet_mountain_stamp
+bip_39_word_underscore_4: bullet_mountain_stamp_nice
+bip_39_word_underscore_5: bullet_mountain_stamp_nice_thing
+bip_39_word_underscore_6: bullet_mountain_stamp_nice_thing_bargain
+bip_39_word_underscore_7: bullet_mountain_stamp_nice_thing_bargain_defy
+bip_39_word_underscore_8: bullet_mountain_stamp_nice_thing_bargain_defy_category
+bip_39_word_underscore_9: bullet_mountain_stamp_nice_thing_bargain_defy_category_grunt
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

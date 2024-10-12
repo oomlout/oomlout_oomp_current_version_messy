@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | card |  
+| bip_39_word_dash_10 | card-enjoy-spoil-letter-tired-visit-start-onion-naive-toy |  
+| bip_39_word_dash_11 | card-enjoy-spoil-letter-tired-visit-start-onion-naive-toy-nose |  
+| bip_39_word_dash_12 | card-enjoy-spoil-letter-tired-visit-start-onion-naive-toy-nose-amused |  
+| bip_39_word_dash_2 | card-enjoy |  
+| bip_39_word_dash_3 | card-enjoy-spoil |  
+| bip_39_word_dash_4 | card-enjoy-spoil-letter |  
+| bip_39_word_dash_5 | card-enjoy-spoil-letter-tired |  
+| bip_39_word_dash_6 | card-enjoy-spoil-letter-tired-visit |  
+| bip_39_word_dash_7 | card-enjoy-spoil-letter-tired-visit-start |  
+| bip_39_word_dash_8 | card-enjoy-spoil-letter-tired-visit-start-onion |  
+| bip_39_word_dash_9 | card-enjoy-spoil-letter-tired-visit-start-onion-naive |  
 | bip_39_word_new_br_1 | card |  
 | bip_39_word_new_br_10 | card<br>enjoy<br>spoil<br>letter<br>tired<br>visit<br>start<br>onion<br>naive<br>toy |  
 | bip_39_word_new_br_11 | card<br>enjoy<br>spoil<br>letter<br>tired<br>visit<br>start<br>onion<br>naive<br>toy<br>nose |  
@@ -147,6 +159,18 @@ naive |
 | bip_39_word_space_7 | card enjoy spoil letter tired visit start |  
 | bip_39_word_space_8 | card enjoy spoil letter tired visit start onion |  
 | bip_39_word_space_9 | card enjoy spoil letter tired visit start onion naive |  
+| bip_39_word_underscore_1 | card |  
+| bip_39_word_underscore_10 | card_enjoy_spoil_letter_tired_visit_start_onion_naive_toy |  
+| bip_39_word_underscore_11 | card_enjoy_spoil_letter_tired_visit_start_onion_naive_toy_nose |  
+| bip_39_word_underscore_12 | card_enjoy_spoil_letter_tired_visit_start_onion_naive_toy_nose_amused |  
+| bip_39_word_underscore_2 | card_enjoy |  
+| bip_39_word_underscore_3 | card_enjoy_spoil |  
+| bip_39_word_underscore_4 | card_enjoy_spoil_letter |  
+| bip_39_word_underscore_5 | card_enjoy_spoil_letter_tired |  
+| bip_39_word_underscore_6 | card_enjoy_spoil_letter_tired_visit |  
+| bip_39_word_underscore_7 | card_enjoy_spoil_letter_tired_visit_start |  
+| bip_39_word_underscore_8 | card_enjoy_spoil_letter_tired_visit_start_onion |  
+| bip_39_word_underscore_9 | card_enjoy_spoil_letter_tired_visit_start_onion_naive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

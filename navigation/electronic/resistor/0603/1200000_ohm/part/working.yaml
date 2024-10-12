@@ -1,3 +1,15 @@
+bip_39_word_dash_1: picture
+bip_39_word_dash_10: picture-measure-correct-change-oxygen-bright-food-soccer-picnic-love
+bip_39_word_dash_11: picture-measure-correct-change-oxygen-bright-food-soccer-picnic-love-grass
+bip_39_word_dash_12: picture-measure-correct-change-oxygen-bright-food-soccer-picnic-love-grass-art
+bip_39_word_dash_2: picture-measure
+bip_39_word_dash_3: picture-measure-correct
+bip_39_word_dash_4: picture-measure-correct-change
+bip_39_word_dash_5: picture-measure-correct-change-oxygen
+bip_39_word_dash_6: picture-measure-correct-change-oxygen-bright
+bip_39_word_dash_7: picture-measure-correct-change-oxygen-bright-food
+bip_39_word_dash_8: picture-measure-correct-change-oxygen-bright-food-soccer
+bip_39_word_dash_9: picture-measure-correct-change-oxygen-bright-food-soccer-picnic
 bip_39_word_new_br_1: picture
 bip_39_word_new_br_10: picture<br>measure<br>correct<br>change<br>oxygen<br>bright<br>food<br>soccer<br>picnic<br>love
 bip_39_word_new_br_11: picture<br>measure<br>correct<br>change<br>oxygen<br>bright<br>food<br>soccer<br>picnic<br>love<br>grass
@@ -194,6 +206,18 @@ bip_39_word_space_6: picture measure correct change oxygen bright
 bip_39_word_space_7: picture measure correct change oxygen bright food
 bip_39_word_space_8: picture measure correct change oxygen bright food soccer
 bip_39_word_space_9: picture measure correct change oxygen bright food soccer picnic
+bip_39_word_underscore_1: picture
+bip_39_word_underscore_10: picture_measure_correct_change_oxygen_bright_food_soccer_picnic_love
+bip_39_word_underscore_11: picture_measure_correct_change_oxygen_bright_food_soccer_picnic_love_grass
+bip_39_word_underscore_12: picture_measure_correct_change_oxygen_bright_food_soccer_picnic_love_grass_art
+bip_39_word_underscore_2: picture_measure
+bip_39_word_underscore_3: picture_measure_correct
+bip_39_word_underscore_4: picture_measure_correct_change
+bip_39_word_underscore_5: picture_measure_correct_change_oxygen
+bip_39_word_underscore_6: picture_measure_correct_change_oxygen_bright
+bip_39_word_underscore_7: picture_measure_correct_change_oxygen_bright_food
+bip_39_word_underscore_8: picture_measure_correct_change_oxygen_bright_food_soccer
+bip_39_word_underscore_9: picture_measure_correct_change_oxygen_bright_food_soccer_picnic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

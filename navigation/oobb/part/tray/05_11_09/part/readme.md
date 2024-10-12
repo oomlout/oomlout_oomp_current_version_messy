@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | picnic |  
+| bip_39_word_dash_10 | picnic-skull-snap-avocado-forget-giraffe-old-worth-analyst-garage |  
+| bip_39_word_dash_11 | picnic-skull-snap-avocado-forget-giraffe-old-worth-analyst-garage-inmate |  
+| bip_39_word_dash_12 | picnic-skull-snap-avocado-forget-giraffe-old-worth-analyst-garage-inmate-abstract |  
+| bip_39_word_dash_2 | picnic-skull |  
+| bip_39_word_dash_3 | picnic-skull-snap |  
+| bip_39_word_dash_4 | picnic-skull-snap-avocado |  
+| bip_39_word_dash_5 | picnic-skull-snap-avocado-forget |  
+| bip_39_word_dash_6 | picnic-skull-snap-avocado-forget-giraffe |  
+| bip_39_word_dash_7 | picnic-skull-snap-avocado-forget-giraffe-old |  
+| bip_39_word_dash_8 | picnic-skull-snap-avocado-forget-giraffe-old-worth |  
+| bip_39_word_dash_9 | picnic-skull-snap-avocado-forget-giraffe-old-worth-analyst |  
 | bip_39_word_new_br_1 | picnic |  
 | bip_39_word_new_br_10 | picnic<br>skull<br>snap<br>avocado<br>forget<br>giraffe<br>old<br>worth<br>analyst<br>garage |  
 | bip_39_word_new_br_11 | picnic<br>skull<br>snap<br>avocado<br>forget<br>giraffe<br>old<br>worth<br>analyst<br>garage<br>inmate |  
@@ -147,6 +159,18 @@ analyst |
 | bip_39_word_space_7 | picnic skull snap avocado forget giraffe old |  
 | bip_39_word_space_8 | picnic skull snap avocado forget giraffe old worth |  
 | bip_39_word_space_9 | picnic skull snap avocado forget giraffe old worth analyst |  
+| bip_39_word_underscore_1 | picnic |  
+| bip_39_word_underscore_10 | picnic_skull_snap_avocado_forget_giraffe_old_worth_analyst_garage |  
+| bip_39_word_underscore_11 | picnic_skull_snap_avocado_forget_giraffe_old_worth_analyst_garage_inmate |  
+| bip_39_word_underscore_12 | picnic_skull_snap_avocado_forget_giraffe_old_worth_analyst_garage_inmate_abstract |  
+| bip_39_word_underscore_2 | picnic_skull |  
+| bip_39_word_underscore_3 | picnic_skull_snap |  
+| bip_39_word_underscore_4 | picnic_skull_snap_avocado |  
+| bip_39_word_underscore_5 | picnic_skull_snap_avocado_forget |  
+| bip_39_word_underscore_6 | picnic_skull_snap_avocado_forget_giraffe |  
+| bip_39_word_underscore_7 | picnic_skull_snap_avocado_forget_giraffe_old |  
+| bip_39_word_underscore_8 | picnic_skull_snap_avocado_forget_giraffe_old_worth |  
+| bip_39_word_underscore_9 | picnic_skull_snap_avocado_forget_giraffe_old_worth_analyst |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

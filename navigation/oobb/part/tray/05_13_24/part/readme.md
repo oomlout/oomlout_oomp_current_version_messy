@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sport |  
+| bip_39_word_dash_10 | sport-father-merge-annual-alter-spider-reason-almost-payment-easily |  
+| bip_39_word_dash_11 | sport-father-merge-annual-alter-spider-reason-almost-payment-easily-absurd |  
+| bip_39_word_dash_12 | sport-father-merge-annual-alter-spider-reason-almost-payment-easily-absurd-again |  
+| bip_39_word_dash_2 | sport-father |  
+| bip_39_word_dash_3 | sport-father-merge |  
+| bip_39_word_dash_4 | sport-father-merge-annual |  
+| bip_39_word_dash_5 | sport-father-merge-annual-alter |  
+| bip_39_word_dash_6 | sport-father-merge-annual-alter-spider |  
+| bip_39_word_dash_7 | sport-father-merge-annual-alter-spider-reason |  
+| bip_39_word_dash_8 | sport-father-merge-annual-alter-spider-reason-almost |  
+| bip_39_word_dash_9 | sport-father-merge-annual-alter-spider-reason-almost-payment |  
 | bip_39_word_new_br_1 | sport |  
 | bip_39_word_new_br_10 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost<br>payment<br>easily |  
 | bip_39_word_new_br_11 | sport<br>father<br>merge<br>annual<br>alter<br>spider<br>reason<br>almost<br>payment<br>easily<br>absurd |  
@@ -147,6 +159,18 @@ payment |
 | bip_39_word_space_7 | sport father merge annual alter spider reason |  
 | bip_39_word_space_8 | sport father merge annual alter spider reason almost |  
 | bip_39_word_space_9 | sport father merge annual alter spider reason almost payment |  
+| bip_39_word_underscore_1 | sport |  
+| bip_39_word_underscore_10 | sport_father_merge_annual_alter_spider_reason_almost_payment_easily |  
+| bip_39_word_underscore_11 | sport_father_merge_annual_alter_spider_reason_almost_payment_easily_absurd |  
+| bip_39_word_underscore_12 | sport_father_merge_annual_alter_spider_reason_almost_payment_easily_absurd_again |  
+| bip_39_word_underscore_2 | sport_father |  
+| bip_39_word_underscore_3 | sport_father_merge |  
+| bip_39_word_underscore_4 | sport_father_merge_annual |  
+| bip_39_word_underscore_5 | sport_father_merge_annual_alter |  
+| bip_39_word_underscore_6 | sport_father_merge_annual_alter_spider |  
+| bip_39_word_underscore_7 | sport_father_merge_annual_alter_spider_reason |  
+| bip_39_word_underscore_8 | sport_father_merge_annual_alter_spider_reason_almost |  
+| bip_39_word_underscore_9 | sport_father_merge_annual_alter_spider_reason_almost_payment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

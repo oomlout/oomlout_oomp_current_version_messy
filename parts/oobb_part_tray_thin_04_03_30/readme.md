@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vehicle |  
+| bip_39_word_dash_10 | vehicle-atom-silent-forward-never-shrimp-desk-hurdle-close-south |  
+| bip_39_word_dash_11 | vehicle-atom-silent-forward-never-shrimp-desk-hurdle-close-south-tide |  
+| bip_39_word_dash_12 | vehicle-atom-silent-forward-never-shrimp-desk-hurdle-close-south-tide-animal |  
+| bip_39_word_dash_2 | vehicle-atom |  
+| bip_39_word_dash_3 | vehicle-atom-silent |  
+| bip_39_word_dash_4 | vehicle-atom-silent-forward |  
+| bip_39_word_dash_5 | vehicle-atom-silent-forward-never |  
+| bip_39_word_dash_6 | vehicle-atom-silent-forward-never-shrimp |  
+| bip_39_word_dash_7 | vehicle-atom-silent-forward-never-shrimp-desk |  
+| bip_39_word_dash_8 | vehicle-atom-silent-forward-never-shrimp-desk-hurdle |  
+| bip_39_word_dash_9 | vehicle-atom-silent-forward-never-shrimp-desk-hurdle-close |  
 | bip_39_word_new_br_1 | vehicle |  
 | bip_39_word_new_br_10 | vehicle<br>atom<br>silent<br>forward<br>never<br>shrimp<br>desk<br>hurdle<br>close<br>south |  
 | bip_39_word_new_br_11 | vehicle<br>atom<br>silent<br>forward<br>never<br>shrimp<br>desk<br>hurdle<br>close<br>south<br>tide |  
@@ -147,6 +159,18 @@ close |
 | bip_39_word_space_7 | vehicle atom silent forward never shrimp desk |  
 | bip_39_word_space_8 | vehicle atom silent forward never shrimp desk hurdle |  
 | bip_39_word_space_9 | vehicle atom silent forward never shrimp desk hurdle close |  
+| bip_39_word_underscore_1 | vehicle |  
+| bip_39_word_underscore_10 | vehicle_atom_silent_forward_never_shrimp_desk_hurdle_close_south |  
+| bip_39_word_underscore_11 | vehicle_atom_silent_forward_never_shrimp_desk_hurdle_close_south_tide |  
+| bip_39_word_underscore_12 | vehicle_atom_silent_forward_never_shrimp_desk_hurdle_close_south_tide_animal |  
+| bip_39_word_underscore_2 | vehicle_atom |  
+| bip_39_word_underscore_3 | vehicle_atom_silent |  
+| bip_39_word_underscore_4 | vehicle_atom_silent_forward |  
+| bip_39_word_underscore_5 | vehicle_atom_silent_forward_never |  
+| bip_39_word_underscore_6 | vehicle_atom_silent_forward_never_shrimp |  
+| bip_39_word_underscore_7 | vehicle_atom_silent_forward_never_shrimp_desk |  
+| bip_39_word_underscore_8 | vehicle_atom_silent_forward_never_shrimp_desk_hurdle |  
+| bip_39_word_underscore_9 | vehicle_atom_silent_forward_never_shrimp_desk_hurdle_close |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

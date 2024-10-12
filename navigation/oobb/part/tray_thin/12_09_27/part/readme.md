@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tomato |  
+| bip_39_word_dash_10 | tomato-normal-sunset-hill-alien-north-million-neck-old-reform |  
+| bip_39_word_dash_11 | tomato-normal-sunset-hill-alien-north-million-neck-old-reform-arrange |  
+| bip_39_word_dash_12 | tomato-normal-sunset-hill-alien-north-million-neck-old-reform-arrange-art |  
+| bip_39_word_dash_2 | tomato-normal |  
+| bip_39_word_dash_3 | tomato-normal-sunset |  
+| bip_39_word_dash_4 | tomato-normal-sunset-hill |  
+| bip_39_word_dash_5 | tomato-normal-sunset-hill-alien |  
+| bip_39_word_dash_6 | tomato-normal-sunset-hill-alien-north |  
+| bip_39_word_dash_7 | tomato-normal-sunset-hill-alien-north-million |  
+| bip_39_word_dash_8 | tomato-normal-sunset-hill-alien-north-million-neck |  
+| bip_39_word_dash_9 | tomato-normal-sunset-hill-alien-north-million-neck-old |  
 | bip_39_word_new_br_1 | tomato |  
 | bip_39_word_new_br_10 | tomato<br>normal<br>sunset<br>hill<br>alien<br>north<br>million<br>neck<br>old<br>reform |  
 | bip_39_word_new_br_11 | tomato<br>normal<br>sunset<br>hill<br>alien<br>north<br>million<br>neck<br>old<br>reform<br>arrange |  
@@ -147,6 +159,18 @@ old |
 | bip_39_word_space_7 | tomato normal sunset hill alien north million |  
 | bip_39_word_space_8 | tomato normal sunset hill alien north million neck |  
 | bip_39_word_space_9 | tomato normal sunset hill alien north million neck old |  
+| bip_39_word_underscore_1 | tomato |  
+| bip_39_word_underscore_10 | tomato_normal_sunset_hill_alien_north_million_neck_old_reform |  
+| bip_39_word_underscore_11 | tomato_normal_sunset_hill_alien_north_million_neck_old_reform_arrange |  
+| bip_39_word_underscore_12 | tomato_normal_sunset_hill_alien_north_million_neck_old_reform_arrange_art |  
+| bip_39_word_underscore_2 | tomato_normal |  
+| bip_39_word_underscore_3 | tomato_normal_sunset |  
+| bip_39_word_underscore_4 | tomato_normal_sunset_hill |  
+| bip_39_word_underscore_5 | tomato_normal_sunset_hill_alien |  
+| bip_39_word_underscore_6 | tomato_normal_sunset_hill_alien_north |  
+| bip_39_word_underscore_7 | tomato_normal_sunset_hill_alien_north_million |  
+| bip_39_word_underscore_8 | tomato_normal_sunset_hill_alien_north_million_neck |  
+| bip_39_word_underscore_9 | tomato_normal_sunset_hill_alien_north_million_neck_old |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

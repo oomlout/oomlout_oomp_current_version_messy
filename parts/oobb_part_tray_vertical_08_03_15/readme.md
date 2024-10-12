@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | occur |  
+| bip_39_word_dash_10 | occur-give-okay-face-matrix-certain-lion-assault-melt-toss |  
+| bip_39_word_dash_11 | occur-give-okay-face-matrix-certain-lion-assault-melt-toss-pulp |  
+| bip_39_word_dash_12 | occur-give-okay-face-matrix-certain-lion-assault-melt-toss-pulp-analyst |  
+| bip_39_word_dash_2 | occur-give |  
+| bip_39_word_dash_3 | occur-give-okay |  
+| bip_39_word_dash_4 | occur-give-okay-face |  
+| bip_39_word_dash_5 | occur-give-okay-face-matrix |  
+| bip_39_word_dash_6 | occur-give-okay-face-matrix-certain |  
+| bip_39_word_dash_7 | occur-give-okay-face-matrix-certain-lion |  
+| bip_39_word_dash_8 | occur-give-okay-face-matrix-certain-lion-assault |  
+| bip_39_word_dash_9 | occur-give-okay-face-matrix-certain-lion-assault-melt |  
 | bip_39_word_new_br_1 | occur |  
 | bip_39_word_new_br_10 | occur<br>give<br>okay<br>face<br>matrix<br>certain<br>lion<br>assault<br>melt<br>toss |  
 | bip_39_word_new_br_11 | occur<br>give<br>okay<br>face<br>matrix<br>certain<br>lion<br>assault<br>melt<br>toss<br>pulp |  
@@ -147,6 +159,18 @@ melt |
 | bip_39_word_space_7 | occur give okay face matrix certain lion |  
 | bip_39_word_space_8 | occur give okay face matrix certain lion assault |  
 | bip_39_word_space_9 | occur give okay face matrix certain lion assault melt |  
+| bip_39_word_underscore_1 | occur |  
+| bip_39_word_underscore_10 | occur_give_okay_face_matrix_certain_lion_assault_melt_toss |  
+| bip_39_word_underscore_11 | occur_give_okay_face_matrix_certain_lion_assault_melt_toss_pulp |  
+| bip_39_word_underscore_12 | occur_give_okay_face_matrix_certain_lion_assault_melt_toss_pulp_analyst |  
+| bip_39_word_underscore_2 | occur_give |  
+| bip_39_word_underscore_3 | occur_give_okay |  
+| bip_39_word_underscore_4 | occur_give_okay_face |  
+| bip_39_word_underscore_5 | occur_give_okay_face_matrix |  
+| bip_39_word_underscore_6 | occur_give_okay_face_matrix_certain |  
+| bip_39_word_underscore_7 | occur_give_okay_face_matrix_certain_lion |  
+| bip_39_word_underscore_8 | occur_give_okay_face_matrix_certain_lion_assault |  
+| bip_39_word_underscore_9 | occur_give_okay_face_matrix_certain_lion_assault_melt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

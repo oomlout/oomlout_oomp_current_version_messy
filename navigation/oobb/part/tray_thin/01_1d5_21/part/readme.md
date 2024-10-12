@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | asthma |  
+| bip_39_word_dash_10 | asthma-curve-reopen-destroy-predict-mother-patch-siren-settle-warfare |  
+| bip_39_word_dash_11 | asthma-curve-reopen-destroy-predict-mother-patch-siren-settle-warfare-appear |  
+| bip_39_word_dash_12 | asthma-curve-reopen-destroy-predict-mother-patch-siren-settle-warfare-appear-angle |  
+| bip_39_word_dash_2 | asthma-curve |  
+| bip_39_word_dash_3 | asthma-curve-reopen |  
+| bip_39_word_dash_4 | asthma-curve-reopen-destroy |  
+| bip_39_word_dash_5 | asthma-curve-reopen-destroy-predict |  
+| bip_39_word_dash_6 | asthma-curve-reopen-destroy-predict-mother |  
+| bip_39_word_dash_7 | asthma-curve-reopen-destroy-predict-mother-patch |  
+| bip_39_word_dash_8 | asthma-curve-reopen-destroy-predict-mother-patch-siren |  
+| bip_39_word_dash_9 | asthma-curve-reopen-destroy-predict-mother-patch-siren-settle |  
 | bip_39_word_new_br_1 | asthma |  
 | bip_39_word_new_br_10 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren<br>settle<br>warfare |  
 | bip_39_word_new_br_11 | asthma<br>curve<br>reopen<br>destroy<br>predict<br>mother<br>patch<br>siren<br>settle<br>warfare<br>appear |  
@@ -147,6 +159,18 @@ settle |
 | bip_39_word_space_7 | asthma curve reopen destroy predict mother patch |  
 | bip_39_word_space_8 | asthma curve reopen destroy predict mother patch siren |  
 | bip_39_word_space_9 | asthma curve reopen destroy predict mother patch siren settle |  
+| bip_39_word_underscore_1 | asthma |  
+| bip_39_word_underscore_10 | asthma_curve_reopen_destroy_predict_mother_patch_siren_settle_warfare |  
+| bip_39_word_underscore_11 | asthma_curve_reopen_destroy_predict_mother_patch_siren_settle_warfare_appear |  
+| bip_39_word_underscore_12 | asthma_curve_reopen_destroy_predict_mother_patch_siren_settle_warfare_appear_angle |  
+| bip_39_word_underscore_2 | asthma_curve |  
+| bip_39_word_underscore_3 | asthma_curve_reopen |  
+| bip_39_word_underscore_4 | asthma_curve_reopen_destroy |  
+| bip_39_word_underscore_5 | asthma_curve_reopen_destroy_predict |  
+| bip_39_word_underscore_6 | asthma_curve_reopen_destroy_predict_mother |  
+| bip_39_word_underscore_7 | asthma_curve_reopen_destroy_predict_mother_patch |  
+| bip_39_word_underscore_8 | asthma_curve_reopen_destroy_predict_mother_patch_siren |  
+| bip_39_word_underscore_9 | asthma_curve_reopen_destroy_predict_mother_patch_siren_settle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

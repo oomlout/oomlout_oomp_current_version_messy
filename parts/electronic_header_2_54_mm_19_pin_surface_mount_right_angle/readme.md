@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pluck |  
+| bip_39_word_dash_10 | pluck-second-virtual-bulk-stock-cigar-gravity-online-silver-heart |  
+| bip_39_word_dash_11 | pluck-second-virtual-bulk-stock-cigar-gravity-online-silver-heart-crucial |  
+| bip_39_word_dash_12 | pluck-second-virtual-bulk-stock-cigar-gravity-online-silver-heart-crucial-addict |  
+| bip_39_word_dash_2 | pluck-second |  
+| bip_39_word_dash_3 | pluck-second-virtual |  
+| bip_39_word_dash_4 | pluck-second-virtual-bulk |  
+| bip_39_word_dash_5 | pluck-second-virtual-bulk-stock |  
+| bip_39_word_dash_6 | pluck-second-virtual-bulk-stock-cigar |  
+| bip_39_word_dash_7 | pluck-second-virtual-bulk-stock-cigar-gravity |  
+| bip_39_word_dash_8 | pluck-second-virtual-bulk-stock-cigar-gravity-online |  
+| bip_39_word_dash_9 | pluck-second-virtual-bulk-stock-cigar-gravity-online-silver |  
 | bip_39_word_new_br_1 | pluck |  
 | bip_39_word_new_br_10 | pluck<br>second<br>virtual<br>bulk<br>stock<br>cigar<br>gravity<br>online<br>silver<br>heart |  
 | bip_39_word_new_br_11 | pluck<br>second<br>virtual<br>bulk<br>stock<br>cigar<br>gravity<br>online<br>silver<br>heart<br>crucial |  
@@ -147,6 +159,18 @@ silver |
 | bip_39_word_space_7 | pluck second virtual bulk stock cigar gravity |  
 | bip_39_word_space_8 | pluck second virtual bulk stock cigar gravity online |  
 | bip_39_word_space_9 | pluck second virtual bulk stock cigar gravity online silver |  
+| bip_39_word_underscore_1 | pluck |  
+| bip_39_word_underscore_10 | pluck_second_virtual_bulk_stock_cigar_gravity_online_silver_heart |  
+| bip_39_word_underscore_11 | pluck_second_virtual_bulk_stock_cigar_gravity_online_silver_heart_crucial |  
+| bip_39_word_underscore_12 | pluck_second_virtual_bulk_stock_cigar_gravity_online_silver_heart_crucial_addict |  
+| bip_39_word_underscore_2 | pluck_second |  
+| bip_39_word_underscore_3 | pluck_second_virtual |  
+| bip_39_word_underscore_4 | pluck_second_virtual_bulk |  
+| bip_39_word_underscore_5 | pluck_second_virtual_bulk_stock |  
+| bip_39_word_underscore_6 | pluck_second_virtual_bulk_stock_cigar |  
+| bip_39_word_underscore_7 | pluck_second_virtual_bulk_stock_cigar_gravity |  
+| bip_39_word_underscore_8 | pluck_second_virtual_bulk_stock_cigar_gravity_online |  
+| bip_39_word_underscore_9 | pluck_second_virtual_bulk_stock_cigar_gravity_online_silver |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

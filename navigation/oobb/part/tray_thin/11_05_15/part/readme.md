@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | depend |  
+| bip_39_word_dash_10 | depend-glove-capable-embrace-material-obey-tiger-gesture-polar-blast |  
+| bip_39_word_dash_11 | depend-glove-capable-embrace-material-obey-tiger-gesture-polar-blast-brief |  
+| bip_39_word_dash_12 | depend-glove-capable-embrace-material-obey-tiger-gesture-polar-blast-brief-arch |  
+| bip_39_word_dash_2 | depend-glove |  
+| bip_39_word_dash_3 | depend-glove-capable |  
+| bip_39_word_dash_4 | depend-glove-capable-embrace |  
+| bip_39_word_dash_5 | depend-glove-capable-embrace-material |  
+| bip_39_word_dash_6 | depend-glove-capable-embrace-material-obey |  
+| bip_39_word_dash_7 | depend-glove-capable-embrace-material-obey-tiger |  
+| bip_39_word_dash_8 | depend-glove-capable-embrace-material-obey-tiger-gesture |  
+| bip_39_word_dash_9 | depend-glove-capable-embrace-material-obey-tiger-gesture-polar |  
 | bip_39_word_new_br_1 | depend |  
 | bip_39_word_new_br_10 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture<br>polar<br>blast |  
 | bip_39_word_new_br_11 | depend<br>glove<br>capable<br>embrace<br>material<br>obey<br>tiger<br>gesture<br>polar<br>blast<br>brief |  
@@ -147,6 +159,18 @@ polar |
 | bip_39_word_space_7 | depend glove capable embrace material obey tiger |  
 | bip_39_word_space_8 | depend glove capable embrace material obey tiger gesture |  
 | bip_39_word_space_9 | depend glove capable embrace material obey tiger gesture polar |  
+| bip_39_word_underscore_1 | depend |  
+| bip_39_word_underscore_10 | depend_glove_capable_embrace_material_obey_tiger_gesture_polar_blast |  
+| bip_39_word_underscore_11 | depend_glove_capable_embrace_material_obey_tiger_gesture_polar_blast_brief |  
+| bip_39_word_underscore_12 | depend_glove_capable_embrace_material_obey_tiger_gesture_polar_blast_brief_arch |  
+| bip_39_word_underscore_2 | depend_glove |  
+| bip_39_word_underscore_3 | depend_glove_capable |  
+| bip_39_word_underscore_4 | depend_glove_capable_embrace |  
+| bip_39_word_underscore_5 | depend_glove_capable_embrace_material |  
+| bip_39_word_underscore_6 | depend_glove_capable_embrace_material_obey |  
+| bip_39_word_underscore_7 | depend_glove_capable_embrace_material_obey_tiger |  
+| bip_39_word_underscore_8 | depend_glove_capable_embrace_material_obey_tiger_gesture |  
+| bip_39_word_underscore_9 | depend_glove_capable_embrace_material_obey_tiger_gesture_polar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

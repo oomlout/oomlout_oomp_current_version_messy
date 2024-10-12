@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | connect |  
+| bip_39_word_dash_10 | connect-romance-pact-embody-lemon-obvious-wine-spray-hospital-inhale |  
+| bip_39_word_dash_11 | connect-romance-pact-embody-lemon-obvious-wine-spray-hospital-inhale-leader |  
+| bip_39_word_dash_12 | connect-romance-pact-embody-lemon-obvious-wine-spray-hospital-inhale-leader-aerobic |  
+| bip_39_word_dash_2 | connect-romance |  
+| bip_39_word_dash_3 | connect-romance-pact |  
+| bip_39_word_dash_4 | connect-romance-pact-embody |  
+| bip_39_word_dash_5 | connect-romance-pact-embody-lemon |  
+| bip_39_word_dash_6 | connect-romance-pact-embody-lemon-obvious |  
+| bip_39_word_dash_7 | connect-romance-pact-embody-lemon-obvious-wine |  
+| bip_39_word_dash_8 | connect-romance-pact-embody-lemon-obvious-wine-spray |  
+| bip_39_word_dash_9 | connect-romance-pact-embody-lemon-obvious-wine-spray-hospital |  
 | bip_39_word_new_br_1 | connect |  
 | bip_39_word_new_br_10 | connect<br>romance<br>pact<br>embody<br>lemon<br>obvious<br>wine<br>spray<br>hospital<br>inhale |  
 | bip_39_word_new_br_11 | connect<br>romance<br>pact<br>embody<br>lemon<br>obvious<br>wine<br>spray<br>hospital<br>inhale<br>leader |  
@@ -147,6 +159,18 @@ hospital |
 | bip_39_word_space_7 | connect romance pact embody lemon obvious wine |  
 | bip_39_word_space_8 | connect romance pact embody lemon obvious wine spray |  
 | bip_39_word_space_9 | connect romance pact embody lemon obvious wine spray hospital |  
+| bip_39_word_underscore_1 | connect |  
+| bip_39_word_underscore_10 | connect_romance_pact_embody_lemon_obvious_wine_spray_hospital_inhale |  
+| bip_39_word_underscore_11 | connect_romance_pact_embody_lemon_obvious_wine_spray_hospital_inhale_leader |  
+| bip_39_word_underscore_12 | connect_romance_pact_embody_lemon_obvious_wine_spray_hospital_inhale_leader_aerobic |  
+| bip_39_word_underscore_2 | connect_romance |  
+| bip_39_word_underscore_3 | connect_romance_pact |  
+| bip_39_word_underscore_4 | connect_romance_pact_embody |  
+| bip_39_word_underscore_5 | connect_romance_pact_embody_lemon |  
+| bip_39_word_underscore_6 | connect_romance_pact_embody_lemon_obvious |  
+| bip_39_word_underscore_7 | connect_romance_pact_embody_lemon_obvious_wine |  
+| bip_39_word_underscore_8 | connect_romance_pact_embody_lemon_obvious_wine_spray |  
+| bip_39_word_underscore_9 | connect_romance_pact_embody_lemon_obvious_wine_spray_hospital |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

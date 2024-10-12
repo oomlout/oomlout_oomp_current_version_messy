@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cliff |  
+| bip_39_word_dash_10 | cliff-bubble-popular-smooth-judge-depend-size-trick-learn-public |  
+| bip_39_word_dash_11 | cliff-bubble-popular-smooth-judge-depend-size-trick-learn-public-style |  
+| bip_39_word_dash_12 | cliff-bubble-popular-smooth-judge-depend-size-trick-learn-public-style-anxiety |  
+| bip_39_word_dash_2 | cliff-bubble |  
+| bip_39_word_dash_3 | cliff-bubble-popular |  
+| bip_39_word_dash_4 | cliff-bubble-popular-smooth |  
+| bip_39_word_dash_5 | cliff-bubble-popular-smooth-judge |  
+| bip_39_word_dash_6 | cliff-bubble-popular-smooth-judge-depend |  
+| bip_39_word_dash_7 | cliff-bubble-popular-smooth-judge-depend-size |  
+| bip_39_word_dash_8 | cliff-bubble-popular-smooth-judge-depend-size-trick |  
+| bip_39_word_dash_9 | cliff-bubble-popular-smooth-judge-depend-size-trick-learn |  
 | bip_39_word_new_br_1 | cliff |  
 | bip_39_word_new_br_10 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick<br>learn<br>public |  
 | bip_39_word_new_br_11 | cliff<br>bubble<br>popular<br>smooth<br>judge<br>depend<br>size<br>trick<br>learn<br>public<br>style |  
@@ -147,6 +159,18 @@ learn |
 | bip_39_word_space_7 | cliff bubble popular smooth judge depend size |  
 | bip_39_word_space_8 | cliff bubble popular smooth judge depend size trick |  
 | bip_39_word_space_9 | cliff bubble popular smooth judge depend size trick learn |  
+| bip_39_word_underscore_1 | cliff |  
+| bip_39_word_underscore_10 | cliff_bubble_popular_smooth_judge_depend_size_trick_learn_public |  
+| bip_39_word_underscore_11 | cliff_bubble_popular_smooth_judge_depend_size_trick_learn_public_style |  
+| bip_39_word_underscore_12 | cliff_bubble_popular_smooth_judge_depend_size_trick_learn_public_style_anxiety |  
+| bip_39_word_underscore_2 | cliff_bubble |  
+| bip_39_word_underscore_3 | cliff_bubble_popular |  
+| bip_39_word_underscore_4 | cliff_bubble_popular_smooth |  
+| bip_39_word_underscore_5 | cliff_bubble_popular_smooth_judge |  
+| bip_39_word_underscore_6 | cliff_bubble_popular_smooth_judge_depend |  
+| bip_39_word_underscore_7 | cliff_bubble_popular_smooth_judge_depend_size |  
+| bip_39_word_underscore_8 | cliff_bubble_popular_smooth_judge_depend_size_trick |  
+| bip_39_word_underscore_9 | cliff_bubble_popular_smooth_judge_depend_size_trick_learn |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

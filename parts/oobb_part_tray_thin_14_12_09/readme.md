@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | own |  
+| bip_39_word_dash_10 | own-lock-attitude-teach-input-gold-fresh-heart-alter-auto |  
+| bip_39_word_dash_11 | own-lock-attitude-teach-input-gold-fresh-heart-alter-auto-size |  
+| bip_39_word_dash_12 | own-lock-attitude-teach-input-gold-fresh-heart-alter-auto-size-account |  
+| bip_39_word_dash_2 | own-lock |  
+| bip_39_word_dash_3 | own-lock-attitude |  
+| bip_39_word_dash_4 | own-lock-attitude-teach |  
+| bip_39_word_dash_5 | own-lock-attitude-teach-input |  
+| bip_39_word_dash_6 | own-lock-attitude-teach-input-gold |  
+| bip_39_word_dash_7 | own-lock-attitude-teach-input-gold-fresh |  
+| bip_39_word_dash_8 | own-lock-attitude-teach-input-gold-fresh-heart |  
+| bip_39_word_dash_9 | own-lock-attitude-teach-input-gold-fresh-heart-alter |  
 | bip_39_word_new_br_1 | own |  
 | bip_39_word_new_br_10 | own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart<br>alter<br>auto |  
 | bip_39_word_new_br_11 | own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart<br>alter<br>auto<br>size |  
@@ -147,6 +159,18 @@ alter |
 | bip_39_word_space_7 | own lock attitude teach input gold fresh |  
 | bip_39_word_space_8 | own lock attitude teach input gold fresh heart |  
 | bip_39_word_space_9 | own lock attitude teach input gold fresh heart alter |  
+| bip_39_word_underscore_1 | own |  
+| bip_39_word_underscore_10 | own_lock_attitude_teach_input_gold_fresh_heart_alter_auto |  
+| bip_39_word_underscore_11 | own_lock_attitude_teach_input_gold_fresh_heart_alter_auto_size |  
+| bip_39_word_underscore_12 | own_lock_attitude_teach_input_gold_fresh_heart_alter_auto_size_account |  
+| bip_39_word_underscore_2 | own_lock |  
+| bip_39_word_underscore_3 | own_lock_attitude |  
+| bip_39_word_underscore_4 | own_lock_attitude_teach |  
+| bip_39_word_underscore_5 | own_lock_attitude_teach_input |  
+| bip_39_word_underscore_6 | own_lock_attitude_teach_input_gold |  
+| bip_39_word_underscore_7 | own_lock_attitude_teach_input_gold_fresh |  
+| bip_39_word_underscore_8 | own_lock_attitude_teach_input_gold_fresh_heart |  
+| bip_39_word_underscore_9 | own_lock_attitude_teach_input_gold_fresh_heart_alter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

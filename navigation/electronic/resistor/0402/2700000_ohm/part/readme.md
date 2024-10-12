@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plunge |  
+| bip_39_word_dash_10 | plunge-garbage-orient-feel-moment-dry-vendor-awesome-orbit-swing |  
+| bip_39_word_dash_11 | plunge-garbage-orient-feel-moment-dry-vendor-awesome-orbit-swing-cupboard |  
+| bip_39_word_dash_12 | plunge-garbage-orient-feel-moment-dry-vendor-awesome-orbit-swing-cupboard-advance |  
+| bip_39_word_dash_2 | plunge-garbage |  
+| bip_39_word_dash_3 | plunge-garbage-orient |  
+| bip_39_word_dash_4 | plunge-garbage-orient-feel |  
+| bip_39_word_dash_5 | plunge-garbage-orient-feel-moment |  
+| bip_39_word_dash_6 | plunge-garbage-orient-feel-moment-dry |  
+| bip_39_word_dash_7 | plunge-garbage-orient-feel-moment-dry-vendor |  
+| bip_39_word_dash_8 | plunge-garbage-orient-feel-moment-dry-vendor-awesome |  
+| bip_39_word_dash_9 | plunge-garbage-orient-feel-moment-dry-vendor-awesome-orbit |  
 | bip_39_word_new_br_1 | plunge |  
 | bip_39_word_new_br_10 | plunge<br>garbage<br>orient<br>feel<br>moment<br>dry<br>vendor<br>awesome<br>orbit<br>swing |  
 | bip_39_word_new_br_11 | plunge<br>garbage<br>orient<br>feel<br>moment<br>dry<br>vendor<br>awesome<br>orbit<br>swing<br>cupboard |  
@@ -147,6 +159,18 @@ orbit |
 | bip_39_word_space_7 | plunge garbage orient feel moment dry vendor |  
 | bip_39_word_space_8 | plunge garbage orient feel moment dry vendor awesome |  
 | bip_39_word_space_9 | plunge garbage orient feel moment dry vendor awesome orbit |  
+| bip_39_word_underscore_1 | plunge |  
+| bip_39_word_underscore_10 | plunge_garbage_orient_feel_moment_dry_vendor_awesome_orbit_swing |  
+| bip_39_word_underscore_11 | plunge_garbage_orient_feel_moment_dry_vendor_awesome_orbit_swing_cupboard |  
+| bip_39_word_underscore_12 | plunge_garbage_orient_feel_moment_dry_vendor_awesome_orbit_swing_cupboard_advance |  
+| bip_39_word_underscore_2 | plunge_garbage |  
+| bip_39_word_underscore_3 | plunge_garbage_orient |  
+| bip_39_word_underscore_4 | plunge_garbage_orient_feel |  
+| bip_39_word_underscore_5 | plunge_garbage_orient_feel_moment |  
+| bip_39_word_underscore_6 | plunge_garbage_orient_feel_moment_dry |  
+| bip_39_word_underscore_7 | plunge_garbage_orient_feel_moment_dry_vendor |  
+| bip_39_word_underscore_8 | plunge_garbage_orient_feel_moment_dry_vendor_awesome |  
+| bip_39_word_underscore_9 | plunge_garbage_orient_feel_moment_dry_vendor_awesome_orbit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

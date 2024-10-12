@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mix
+bip_39_word_dash_10: mix-analyst-photo-essence-party-method-such-annual-kitten-cotton
+bip_39_word_dash_11: mix-analyst-photo-essence-party-method-such-annual-kitten-cotton-favorite
+bip_39_word_dash_12: mix-analyst-photo-essence-party-method-such-annual-kitten-cotton-favorite-account
+bip_39_word_dash_2: mix-analyst
+bip_39_word_dash_3: mix-analyst-photo
+bip_39_word_dash_4: mix-analyst-photo-essence
+bip_39_word_dash_5: mix-analyst-photo-essence-party
+bip_39_word_dash_6: mix-analyst-photo-essence-party-method
+bip_39_word_dash_7: mix-analyst-photo-essence-party-method-such
+bip_39_word_dash_8: mix-analyst-photo-essence-party-method-such-annual
+bip_39_word_dash_9: mix-analyst-photo-essence-party-method-such-annual-kitten
 bip_39_word_new_br_1: mix
 bip_39_word_new_br_10: mix<br>analyst<br>photo<br>essence<br>party<br>method<br>such<br>annual<br>kitten<br>cotton
 bip_39_word_new_br_11: mix<br>analyst<br>photo<br>essence<br>party<br>method<br>such<br>annual<br>kitten<br>cotton<br>favorite
@@ -193,6 +205,18 @@ bip_39_word_space_6: mix analyst photo essence party method
 bip_39_word_space_7: mix analyst photo essence party method such
 bip_39_word_space_8: mix analyst photo essence party method such annual
 bip_39_word_space_9: mix analyst photo essence party method such annual kitten
+bip_39_word_underscore_1: mix
+bip_39_word_underscore_10: mix_analyst_photo_essence_party_method_such_annual_kitten_cotton
+bip_39_word_underscore_11: mix_analyst_photo_essence_party_method_such_annual_kitten_cotton_favorite
+bip_39_word_underscore_12: mix_analyst_photo_essence_party_method_such_annual_kitten_cotton_favorite_account
+bip_39_word_underscore_2: mix_analyst
+bip_39_word_underscore_3: mix_analyst_photo
+bip_39_word_underscore_4: mix_analyst_photo_essence
+bip_39_word_underscore_5: mix_analyst_photo_essence_party
+bip_39_word_underscore_6: mix_analyst_photo_essence_party_method
+bip_39_word_underscore_7: mix_analyst_photo_essence_party_method_such
+bip_39_word_underscore_8: mix_analyst_photo_essence_party_method_such_annual
+bip_39_word_underscore_9: mix_analyst_photo_essence_party_method_such_annual_kitten
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

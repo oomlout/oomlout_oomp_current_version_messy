@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clarify |  
+| bip_39_word_dash_10 | clarify-door-palace-elevator-dilemma-begin-soft-bargain-write-frame |  
+| bip_39_word_dash_11 | clarify-door-palace-elevator-dilemma-begin-soft-bargain-write-frame-area |  
+| bip_39_word_dash_12 | clarify-door-palace-elevator-dilemma-begin-soft-bargain-write-frame-area-add |  
+| bip_39_word_dash_2 | clarify-door |  
+| bip_39_word_dash_3 | clarify-door-palace |  
+| bip_39_word_dash_4 | clarify-door-palace-elevator |  
+| bip_39_word_dash_5 | clarify-door-palace-elevator-dilemma |  
+| bip_39_word_dash_6 | clarify-door-palace-elevator-dilemma-begin |  
+| bip_39_word_dash_7 | clarify-door-palace-elevator-dilemma-begin-soft |  
+| bip_39_word_dash_8 | clarify-door-palace-elevator-dilemma-begin-soft-bargain |  
+| bip_39_word_dash_9 | clarify-door-palace-elevator-dilemma-begin-soft-bargain-write |  
 | bip_39_word_new_br_1 | clarify |  
 | bip_39_word_new_br_10 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain<br>write<br>frame |  
 | bip_39_word_new_br_11 | clarify<br>door<br>palace<br>elevator<br>dilemma<br>begin<br>soft<br>bargain<br>write<br>frame<br>area |  
@@ -147,6 +159,18 @@ write |
 | bip_39_word_space_7 | clarify door palace elevator dilemma begin soft |  
 | bip_39_word_space_8 | clarify door palace elevator dilemma begin soft bargain |  
 | bip_39_word_space_9 | clarify door palace elevator dilemma begin soft bargain write |  
+| bip_39_word_underscore_1 | clarify |  
+| bip_39_word_underscore_10 | clarify_door_palace_elevator_dilemma_begin_soft_bargain_write_frame |  
+| bip_39_word_underscore_11 | clarify_door_palace_elevator_dilemma_begin_soft_bargain_write_frame_area |  
+| bip_39_word_underscore_12 | clarify_door_palace_elevator_dilemma_begin_soft_bargain_write_frame_area_add |  
+| bip_39_word_underscore_2 | clarify_door |  
+| bip_39_word_underscore_3 | clarify_door_palace |  
+| bip_39_word_underscore_4 | clarify_door_palace_elevator |  
+| bip_39_word_underscore_5 | clarify_door_palace_elevator_dilemma |  
+| bip_39_word_underscore_6 | clarify_door_palace_elevator_dilemma_begin |  
+| bip_39_word_underscore_7 | clarify_door_palace_elevator_dilemma_begin_soft |  
+| bip_39_word_underscore_8 | clarify_door_palace_elevator_dilemma_begin_soft_bargain |  
+| bip_39_word_underscore_9 | clarify_door_palace_elevator_dilemma_begin_soft_bargain_write |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

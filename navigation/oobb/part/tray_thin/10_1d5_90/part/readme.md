@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fence |  
+| bip_39_word_dash_10 | fence-invite-thought-hip-coral-team-afraid-monitor-large-belt |  
+| bip_39_word_dash_11 | fence-invite-thought-hip-coral-team-afraid-monitor-large-belt-pole |  
+| bip_39_word_dash_12 | fence-invite-thought-hip-coral-team-afraid-monitor-large-belt-pole-auto |  
+| bip_39_word_dash_2 | fence-invite |  
+| bip_39_word_dash_3 | fence-invite-thought |  
+| bip_39_word_dash_4 | fence-invite-thought-hip |  
+| bip_39_word_dash_5 | fence-invite-thought-hip-coral |  
+| bip_39_word_dash_6 | fence-invite-thought-hip-coral-team |  
+| bip_39_word_dash_7 | fence-invite-thought-hip-coral-team-afraid |  
+| bip_39_word_dash_8 | fence-invite-thought-hip-coral-team-afraid-monitor |  
+| bip_39_word_dash_9 | fence-invite-thought-hip-coral-team-afraid-monitor-large |  
 | bip_39_word_new_br_1 | fence |  
 | bip_39_word_new_br_10 | fence<br>invite<br>thought<br>hip<br>coral<br>team<br>afraid<br>monitor<br>large<br>belt |  
 | bip_39_word_new_br_11 | fence<br>invite<br>thought<br>hip<br>coral<br>team<br>afraid<br>monitor<br>large<br>belt<br>pole |  
@@ -147,6 +159,18 @@ large |
 | bip_39_word_space_7 | fence invite thought hip coral team afraid |  
 | bip_39_word_space_8 | fence invite thought hip coral team afraid monitor |  
 | bip_39_word_space_9 | fence invite thought hip coral team afraid monitor large |  
+| bip_39_word_underscore_1 | fence |  
+| bip_39_word_underscore_10 | fence_invite_thought_hip_coral_team_afraid_monitor_large_belt |  
+| bip_39_word_underscore_11 | fence_invite_thought_hip_coral_team_afraid_monitor_large_belt_pole |  
+| bip_39_word_underscore_12 | fence_invite_thought_hip_coral_team_afraid_monitor_large_belt_pole_auto |  
+| bip_39_word_underscore_2 | fence_invite |  
+| bip_39_word_underscore_3 | fence_invite_thought |  
+| bip_39_word_underscore_4 | fence_invite_thought_hip |  
+| bip_39_word_underscore_5 | fence_invite_thought_hip_coral |  
+| bip_39_word_underscore_6 | fence_invite_thought_hip_coral_team |  
+| bip_39_word_underscore_7 | fence_invite_thought_hip_coral_team_afraid |  
+| bip_39_word_underscore_8 | fence_invite_thought_hip_coral_team_afraid_monitor |  
+| bip_39_word_underscore_9 | fence_invite_thought_hip_coral_team_afraid_monitor_large |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

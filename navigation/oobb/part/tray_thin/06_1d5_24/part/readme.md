@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | outer |  
+| bip_39_word_dash_10 | outer-escape-baby-return-penalty-helmet-riot-lunar-frequent-comfort |  
+| bip_39_word_dash_11 | outer-escape-baby-return-penalty-helmet-riot-lunar-frequent-comfort-doctor |  
+| bip_39_word_dash_12 | outer-escape-baby-return-penalty-helmet-riot-lunar-frequent-comfort-doctor-appear |  
+| bip_39_word_dash_2 | outer-escape |  
+| bip_39_word_dash_3 | outer-escape-baby |  
+| bip_39_word_dash_4 | outer-escape-baby-return |  
+| bip_39_word_dash_5 | outer-escape-baby-return-penalty |  
+| bip_39_word_dash_6 | outer-escape-baby-return-penalty-helmet |  
+| bip_39_word_dash_7 | outer-escape-baby-return-penalty-helmet-riot |  
+| bip_39_word_dash_8 | outer-escape-baby-return-penalty-helmet-riot-lunar |  
+| bip_39_word_dash_9 | outer-escape-baby-return-penalty-helmet-riot-lunar-frequent |  
 | bip_39_word_new_br_1 | outer |  
 | bip_39_word_new_br_10 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort |  
 | bip_39_word_new_br_11 | outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort<br>doctor |  
@@ -147,6 +159,18 @@ frequent |
 | bip_39_word_space_7 | outer escape baby return penalty helmet riot |  
 | bip_39_word_space_8 | outer escape baby return penalty helmet riot lunar |  
 | bip_39_word_space_9 | outer escape baby return penalty helmet riot lunar frequent |  
+| bip_39_word_underscore_1 | outer |  
+| bip_39_word_underscore_10 | outer_escape_baby_return_penalty_helmet_riot_lunar_frequent_comfort |  
+| bip_39_word_underscore_11 | outer_escape_baby_return_penalty_helmet_riot_lunar_frequent_comfort_doctor |  
+| bip_39_word_underscore_12 | outer_escape_baby_return_penalty_helmet_riot_lunar_frequent_comfort_doctor_appear |  
+| bip_39_word_underscore_2 | outer_escape |  
+| bip_39_word_underscore_3 | outer_escape_baby |  
+| bip_39_word_underscore_4 | outer_escape_baby_return |  
+| bip_39_word_underscore_5 | outer_escape_baby_return_penalty |  
+| bip_39_word_underscore_6 | outer_escape_baby_return_penalty_helmet |  
+| bip_39_word_underscore_7 | outer_escape_baby_return_penalty_helmet_riot |  
+| bip_39_word_underscore_8 | outer_escape_baby_return_penalty_helmet_riot_lunar |  
+| bip_39_word_underscore_9 | outer_escape_baby_return_penalty_helmet_riot_lunar_frequent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

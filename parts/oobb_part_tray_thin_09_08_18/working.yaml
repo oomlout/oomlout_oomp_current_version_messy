@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hammer
+bip_39_word_dash_10: hammer-throw-work-lion-focus-reform-indicate-cruel-fame-turkey
+bip_39_word_dash_11: hammer-throw-work-lion-focus-reform-indicate-cruel-fame-turkey-leopard
+bip_39_word_dash_12: hammer-throw-work-lion-focus-reform-indicate-cruel-fame-turkey-leopard-apology
+bip_39_word_dash_2: hammer-throw
+bip_39_word_dash_3: hammer-throw-work
+bip_39_word_dash_4: hammer-throw-work-lion
+bip_39_word_dash_5: hammer-throw-work-lion-focus
+bip_39_word_dash_6: hammer-throw-work-lion-focus-reform
+bip_39_word_dash_7: hammer-throw-work-lion-focus-reform-indicate
+bip_39_word_dash_8: hammer-throw-work-lion-focus-reform-indicate-cruel
+bip_39_word_dash_9: hammer-throw-work-lion-focus-reform-indicate-cruel-fame
 bip_39_word_new_br_1: hammer
 bip_39_word_new_br_10: hammer<br>throw<br>work<br>lion<br>focus<br>reform<br>indicate<br>cruel<br>fame<br>turkey
 bip_39_word_new_br_11: hammer<br>throw<br>work<br>lion<br>focus<br>reform<br>indicate<br>cruel<br>fame<br>turkey<br>leopard
@@ -193,6 +205,18 @@ bip_39_word_space_6: hammer throw work lion focus reform
 bip_39_word_space_7: hammer throw work lion focus reform indicate
 bip_39_word_space_8: hammer throw work lion focus reform indicate cruel
 bip_39_word_space_9: hammer throw work lion focus reform indicate cruel fame
+bip_39_word_underscore_1: hammer
+bip_39_word_underscore_10: hammer_throw_work_lion_focus_reform_indicate_cruel_fame_turkey
+bip_39_word_underscore_11: hammer_throw_work_lion_focus_reform_indicate_cruel_fame_turkey_leopard
+bip_39_word_underscore_12: hammer_throw_work_lion_focus_reform_indicate_cruel_fame_turkey_leopard_apology
+bip_39_word_underscore_2: hammer_throw
+bip_39_word_underscore_3: hammer_throw_work
+bip_39_word_underscore_4: hammer_throw_work_lion
+bip_39_word_underscore_5: hammer_throw_work_lion_focus
+bip_39_word_underscore_6: hammer_throw_work_lion_focus_reform
+bip_39_word_underscore_7: hammer_throw_work_lion_focus_reform_indicate
+bip_39_word_underscore_8: hammer_throw_work_lion_focus_reform_indicate_cruel
+bip_39_word_underscore_9: hammer_throw_work_lion_focus_reform_indicate_cruel_fame
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vacuum |  
+| bip_39_word_dash_10 | vacuum-girl-trophy-firm-powder-rabbit-carry-garment-hello-twin |  
+| bip_39_word_dash_11 | vacuum-girl-trophy-firm-powder-rabbit-carry-garment-hello-twin-armed |  
+| bip_39_word_dash_12 | vacuum-girl-trophy-firm-powder-rabbit-carry-garment-hello-twin-armed-assist |  
+| bip_39_word_dash_2 | vacuum-girl |  
+| bip_39_word_dash_3 | vacuum-girl-trophy |  
+| bip_39_word_dash_4 | vacuum-girl-trophy-firm |  
+| bip_39_word_dash_5 | vacuum-girl-trophy-firm-powder |  
+| bip_39_word_dash_6 | vacuum-girl-trophy-firm-powder-rabbit |  
+| bip_39_word_dash_7 | vacuum-girl-trophy-firm-powder-rabbit-carry |  
+| bip_39_word_dash_8 | vacuum-girl-trophy-firm-powder-rabbit-carry-garment |  
+| bip_39_word_dash_9 | vacuum-girl-trophy-firm-powder-rabbit-carry-garment-hello |  
 | bip_39_word_new_br_1 | vacuum |  
 | bip_39_word_new_br_10 | vacuum<br>girl<br>trophy<br>firm<br>powder<br>rabbit<br>carry<br>garment<br>hello<br>twin |  
 | bip_39_word_new_br_11 | vacuum<br>girl<br>trophy<br>firm<br>powder<br>rabbit<br>carry<br>garment<br>hello<br>twin<br>armed |  
@@ -147,6 +159,18 @@ hello |
 | bip_39_word_space_7 | vacuum girl trophy firm powder rabbit carry |  
 | bip_39_word_space_8 | vacuum girl trophy firm powder rabbit carry garment |  
 | bip_39_word_space_9 | vacuum girl trophy firm powder rabbit carry garment hello |  
+| bip_39_word_underscore_1 | vacuum |  
+| bip_39_word_underscore_10 | vacuum_girl_trophy_firm_powder_rabbit_carry_garment_hello_twin |  
+| bip_39_word_underscore_11 | vacuum_girl_trophy_firm_powder_rabbit_carry_garment_hello_twin_armed |  
+| bip_39_word_underscore_12 | vacuum_girl_trophy_firm_powder_rabbit_carry_garment_hello_twin_armed_assist |  
+| bip_39_word_underscore_2 | vacuum_girl |  
+| bip_39_word_underscore_3 | vacuum_girl_trophy |  
+| bip_39_word_underscore_4 | vacuum_girl_trophy_firm |  
+| bip_39_word_underscore_5 | vacuum_girl_trophy_firm_powder |  
+| bip_39_word_underscore_6 | vacuum_girl_trophy_firm_powder_rabbit |  
+| bip_39_word_underscore_7 | vacuum_girl_trophy_firm_powder_rabbit_carry |  
+| bip_39_word_underscore_8 | vacuum_girl_trophy_firm_powder_rabbit_carry_garment |  
+| bip_39_word_underscore_9 | vacuum_girl_trophy_firm_powder_rabbit_carry_garment_hello |  
 | classification | food |  
 | classification_capital | Food |  
 | classification_first_letter | f |  

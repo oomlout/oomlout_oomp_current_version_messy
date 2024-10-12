@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orange |  
+| bip_39_word_dash_10 | orange-hub-famous-mail-verify-tourist-member-demand-farm-snap |  
+| bip_39_word_dash_11 | orange-hub-famous-mail-verify-tourist-member-demand-farm-snap-pledge |  
+| bip_39_word_dash_12 | orange-hub-famous-mail-verify-tourist-member-demand-farm-snap-pledge-aerobic |  
+| bip_39_word_dash_2 | orange-hub |  
+| bip_39_word_dash_3 | orange-hub-famous |  
+| bip_39_word_dash_4 | orange-hub-famous-mail |  
+| bip_39_word_dash_5 | orange-hub-famous-mail-verify |  
+| bip_39_word_dash_6 | orange-hub-famous-mail-verify-tourist |  
+| bip_39_word_dash_7 | orange-hub-famous-mail-verify-tourist-member |  
+| bip_39_word_dash_8 | orange-hub-famous-mail-verify-tourist-member-demand |  
+| bip_39_word_dash_9 | orange-hub-famous-mail-verify-tourist-member-demand-farm |  
 | bip_39_word_new_br_1 | orange |  
 | bip_39_word_new_br_10 | orange<br>hub<br>famous<br>mail<br>verify<br>tourist<br>member<br>demand<br>farm<br>snap |  
 | bip_39_word_new_br_11 | orange<br>hub<br>famous<br>mail<br>verify<br>tourist<br>member<br>demand<br>farm<br>snap<br>pledge |  
@@ -147,6 +159,18 @@ farm |
 | bip_39_word_space_7 | orange hub famous mail verify tourist member |  
 | bip_39_word_space_8 | orange hub famous mail verify tourist member demand |  
 | bip_39_word_space_9 | orange hub famous mail verify tourist member demand farm |  
+| bip_39_word_underscore_1 | orange |  
+| bip_39_word_underscore_10 | orange_hub_famous_mail_verify_tourist_member_demand_farm_snap |  
+| bip_39_word_underscore_11 | orange_hub_famous_mail_verify_tourist_member_demand_farm_snap_pledge |  
+| bip_39_word_underscore_12 | orange_hub_famous_mail_verify_tourist_member_demand_farm_snap_pledge_aerobic |  
+| bip_39_word_underscore_2 | orange_hub |  
+| bip_39_word_underscore_3 | orange_hub_famous |  
+| bip_39_word_underscore_4 | orange_hub_famous_mail |  
+| bip_39_word_underscore_5 | orange_hub_famous_mail_verify |  
+| bip_39_word_underscore_6 | orange_hub_famous_mail_verify_tourist |  
+| bip_39_word_underscore_7 | orange_hub_famous_mail_verify_tourist_member |  
+| bip_39_word_underscore_8 | orange_hub_famous_mail_verify_tourist_member_demand |  
+| bip_39_word_underscore_9 | orange_hub_famous_mail_verify_tourist_member_demand_farm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | voice |  
+| bip_39_word_dash_10 | voice-reveal-ribbon-brief-chat-anger-parade-public-switch-peace |  
+| bip_39_word_dash_11 | voice-reveal-ribbon-brief-chat-anger-parade-public-switch-peace-powder |  
+| bip_39_word_dash_12 | voice-reveal-ribbon-brief-chat-anger-parade-public-switch-peace-powder-actor |  
+| bip_39_word_dash_2 | voice-reveal |  
+| bip_39_word_dash_3 | voice-reveal-ribbon |  
+| bip_39_word_dash_4 | voice-reveal-ribbon-brief |  
+| bip_39_word_dash_5 | voice-reveal-ribbon-brief-chat |  
+| bip_39_word_dash_6 | voice-reveal-ribbon-brief-chat-anger |  
+| bip_39_word_dash_7 | voice-reveal-ribbon-brief-chat-anger-parade |  
+| bip_39_word_dash_8 | voice-reveal-ribbon-brief-chat-anger-parade-public |  
+| bip_39_word_dash_9 | voice-reveal-ribbon-brief-chat-anger-parade-public-switch |  
 | bip_39_word_new_br_1 | voice |  
 | bip_39_word_new_br_10 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace |  
 | bip_39_word_new_br_11 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace<br>powder |  
@@ -147,6 +159,18 @@ switch |
 | bip_39_word_space_7 | voice reveal ribbon brief chat anger parade |  
 | bip_39_word_space_8 | voice reveal ribbon brief chat anger parade public |  
 | bip_39_word_space_9 | voice reveal ribbon brief chat anger parade public switch |  
+| bip_39_word_underscore_1 | voice |  
+| bip_39_word_underscore_10 | voice_reveal_ribbon_brief_chat_anger_parade_public_switch_peace |  
+| bip_39_word_underscore_11 | voice_reveal_ribbon_brief_chat_anger_parade_public_switch_peace_powder |  
+| bip_39_word_underscore_12 | voice_reveal_ribbon_brief_chat_anger_parade_public_switch_peace_powder_actor |  
+| bip_39_word_underscore_2 | voice_reveal |  
+| bip_39_word_underscore_3 | voice_reveal_ribbon |  
+| bip_39_word_underscore_4 | voice_reveal_ribbon_brief |  
+| bip_39_word_underscore_5 | voice_reveal_ribbon_brief_chat |  
+| bip_39_word_underscore_6 | voice_reveal_ribbon_brief_chat_anger |  
+| bip_39_word_underscore_7 | voice_reveal_ribbon_brief_chat_anger_parade |  
+| bip_39_word_underscore_8 | voice_reveal_ribbon_brief_chat_anger_parade_public |  
+| bip_39_word_underscore_9 | voice_reveal_ribbon_brief_chat_anger_parade_public_switch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

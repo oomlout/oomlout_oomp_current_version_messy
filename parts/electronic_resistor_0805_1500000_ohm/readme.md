@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exact |  
+| bip_39_word_dash_10 | exact-bright-door-door-either-stadium-air-danger-flock-call |  
+| bip_39_word_dash_11 | exact-bright-door-door-either-stadium-air-danger-flock-call-company |  
+| bip_39_word_dash_12 | exact-bright-door-door-either-stadium-air-danger-flock-call-company-alarm |  
+| bip_39_word_dash_2 | exact-bright |  
+| bip_39_word_dash_3 | exact-bright-door |  
+| bip_39_word_dash_4 | exact-bright-door-door |  
+| bip_39_word_dash_5 | exact-bright-door-door-either |  
+| bip_39_word_dash_6 | exact-bright-door-door-either-stadium |  
+| bip_39_word_dash_7 | exact-bright-door-door-either-stadium-air |  
+| bip_39_word_dash_8 | exact-bright-door-door-either-stadium-air-danger |  
+| bip_39_word_dash_9 | exact-bright-door-door-either-stadium-air-danger-flock |  
 | bip_39_word_new_br_1 | exact |  
 | bip_39_word_new_br_10 | exact<br>bright<br>door<br>door<br>either<br>stadium<br>air<br>danger<br>flock<br>call |  
 | bip_39_word_new_br_11 | exact<br>bright<br>door<br>door<br>either<br>stadium<br>air<br>danger<br>flock<br>call<br>company |  
@@ -147,6 +159,18 @@ flock |
 | bip_39_word_space_7 | exact bright door door either stadium air |  
 | bip_39_word_space_8 | exact bright door door either stadium air danger |  
 | bip_39_word_space_9 | exact bright door door either stadium air danger flock |  
+| bip_39_word_underscore_1 | exact |  
+| bip_39_word_underscore_10 | exact_bright_door_door_either_stadium_air_danger_flock_call |  
+| bip_39_word_underscore_11 | exact_bright_door_door_either_stadium_air_danger_flock_call_company |  
+| bip_39_word_underscore_12 | exact_bright_door_door_either_stadium_air_danger_flock_call_company_alarm |  
+| bip_39_word_underscore_2 | exact_bright |  
+| bip_39_word_underscore_3 | exact_bright_door |  
+| bip_39_word_underscore_4 | exact_bright_door_door |  
+| bip_39_word_underscore_5 | exact_bright_door_door_either |  
+| bip_39_word_underscore_6 | exact_bright_door_door_either_stadium |  
+| bip_39_word_underscore_7 | exact_bright_door_door_either_stadium_air |  
+| bip_39_word_underscore_8 | exact_bright_door_door_either_stadium_air_danger |  
+| bip_39_word_underscore_9 | exact_bright_door_door_either_stadium_air_danger_flock |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

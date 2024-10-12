@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | observe |  
+| bip_39_word_dash_10 | observe-mind-exhibit-matrix-circle-discover-orbit-brand-economy-struggle |  
+| bip_39_word_dash_11 | observe-mind-exhibit-matrix-circle-discover-orbit-brand-economy-struggle-salmon |  
+| bip_39_word_dash_12 | observe-mind-exhibit-matrix-circle-discover-orbit-brand-economy-struggle-salmon-antenna |  
+| bip_39_word_dash_2 | observe-mind |  
+| bip_39_word_dash_3 | observe-mind-exhibit |  
+| bip_39_word_dash_4 | observe-mind-exhibit-matrix |  
+| bip_39_word_dash_5 | observe-mind-exhibit-matrix-circle |  
+| bip_39_word_dash_6 | observe-mind-exhibit-matrix-circle-discover |  
+| bip_39_word_dash_7 | observe-mind-exhibit-matrix-circle-discover-orbit |  
+| bip_39_word_dash_8 | observe-mind-exhibit-matrix-circle-discover-orbit-brand |  
+| bip_39_word_dash_9 | observe-mind-exhibit-matrix-circle-discover-orbit-brand-economy |  
 | bip_39_word_new_br_1 | observe |  
 | bip_39_word_new_br_10 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand<br>economy<br>struggle |  
 | bip_39_word_new_br_11 | observe<br>mind<br>exhibit<br>matrix<br>circle<br>discover<br>orbit<br>brand<br>economy<br>struggle<br>salmon |  
@@ -147,6 +159,18 @@ economy |
 | bip_39_word_space_7 | observe mind exhibit matrix circle discover orbit |  
 | bip_39_word_space_8 | observe mind exhibit matrix circle discover orbit brand |  
 | bip_39_word_space_9 | observe mind exhibit matrix circle discover orbit brand economy |  
+| bip_39_word_underscore_1 | observe |  
+| bip_39_word_underscore_10 | observe_mind_exhibit_matrix_circle_discover_orbit_brand_economy_struggle |  
+| bip_39_word_underscore_11 | observe_mind_exhibit_matrix_circle_discover_orbit_brand_economy_struggle_salmon |  
+| bip_39_word_underscore_12 | observe_mind_exhibit_matrix_circle_discover_orbit_brand_economy_struggle_salmon_antenna |  
+| bip_39_word_underscore_2 | observe_mind |  
+| bip_39_word_underscore_3 | observe_mind_exhibit |  
+| bip_39_word_underscore_4 | observe_mind_exhibit_matrix |  
+| bip_39_word_underscore_5 | observe_mind_exhibit_matrix_circle |  
+| bip_39_word_underscore_6 | observe_mind_exhibit_matrix_circle_discover |  
+| bip_39_word_underscore_7 | observe_mind_exhibit_matrix_circle_discover_orbit |  
+| bip_39_word_underscore_8 | observe_mind_exhibit_matrix_circle_discover_orbit_brand |  
+| bip_39_word_underscore_9 | observe_mind_exhibit_matrix_circle_discover_orbit_brand_economy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

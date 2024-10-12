@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unit |  
+| bip_39_word_dash_10 | unit-strategy-pulp-height-lens-spider-option-shock-enough-junk |  
+| bip_39_word_dash_11 | unit-strategy-pulp-height-lens-spider-option-shock-enough-junk-material |  
+| bip_39_word_dash_12 | unit-strategy-pulp-height-lens-spider-option-shock-enough-junk-material-asset |  
+| bip_39_word_dash_2 | unit-strategy |  
+| bip_39_word_dash_3 | unit-strategy-pulp |  
+| bip_39_word_dash_4 | unit-strategy-pulp-height |  
+| bip_39_word_dash_5 | unit-strategy-pulp-height-lens |  
+| bip_39_word_dash_6 | unit-strategy-pulp-height-lens-spider |  
+| bip_39_word_dash_7 | unit-strategy-pulp-height-lens-spider-option |  
+| bip_39_word_dash_8 | unit-strategy-pulp-height-lens-spider-option-shock |  
+| bip_39_word_dash_9 | unit-strategy-pulp-height-lens-spider-option-shock-enough |  
 | bip_39_word_new_br_1 | unit |  
 | bip_39_word_new_br_10 | unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock<br>enough<br>junk |  
 | bip_39_word_new_br_11 | unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock<br>enough<br>junk<br>material |  
@@ -147,6 +159,18 @@ enough |
 | bip_39_word_space_7 | unit strategy pulp height lens spider option |  
 | bip_39_word_space_8 | unit strategy pulp height lens spider option shock |  
 | bip_39_word_space_9 | unit strategy pulp height lens spider option shock enough |  
+| bip_39_word_underscore_1 | unit |  
+| bip_39_word_underscore_10 | unit_strategy_pulp_height_lens_spider_option_shock_enough_junk |  
+| bip_39_word_underscore_11 | unit_strategy_pulp_height_lens_spider_option_shock_enough_junk_material |  
+| bip_39_word_underscore_12 | unit_strategy_pulp_height_lens_spider_option_shock_enough_junk_material_asset |  
+| bip_39_word_underscore_2 | unit_strategy |  
+| bip_39_word_underscore_3 | unit_strategy_pulp |  
+| bip_39_word_underscore_4 | unit_strategy_pulp_height |  
+| bip_39_word_underscore_5 | unit_strategy_pulp_height_lens |  
+| bip_39_word_underscore_6 | unit_strategy_pulp_height_lens_spider |  
+| bip_39_word_underscore_7 | unit_strategy_pulp_height_lens_spider_option |  
+| bip_39_word_underscore_8 | unit_strategy_pulp_height_lens_spider_option_shock |  
+| bip_39_word_underscore_9 | unit_strategy_pulp_height_lens_spider_option_shock_enough |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

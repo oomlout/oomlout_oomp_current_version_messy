@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | limb |  
+| bip_39_word_dash_10 | limb-congress-seed-online-front-forget-volcano-uncle-second-sea |  
+| bip_39_word_dash_11 | limb-congress-seed-online-front-forget-volcano-uncle-second-sea-ask |  
+| bip_39_word_dash_12 | limb-congress-seed-online-front-forget-volcano-uncle-second-sea-ask-already |  
+| bip_39_word_dash_2 | limb-congress |  
+| bip_39_word_dash_3 | limb-congress-seed |  
+| bip_39_word_dash_4 | limb-congress-seed-online |  
+| bip_39_word_dash_5 | limb-congress-seed-online-front |  
+| bip_39_word_dash_6 | limb-congress-seed-online-front-forget |  
+| bip_39_word_dash_7 | limb-congress-seed-online-front-forget-volcano |  
+| bip_39_word_dash_8 | limb-congress-seed-online-front-forget-volcano-uncle |  
+| bip_39_word_dash_9 | limb-congress-seed-online-front-forget-volcano-uncle-second |  
 | bip_39_word_new_br_1 | limb |  
 | bip_39_word_new_br_10 | limb<br>congress<br>seed<br>online<br>front<br>forget<br>volcano<br>uncle<br>second<br>sea |  
 | bip_39_word_new_br_11 | limb<br>congress<br>seed<br>online<br>front<br>forget<br>volcano<br>uncle<br>second<br>sea<br>ask |  
@@ -147,6 +159,18 @@ second |
 | bip_39_word_space_7 | limb congress seed online front forget volcano |  
 | bip_39_word_space_8 | limb congress seed online front forget volcano uncle |  
 | bip_39_word_space_9 | limb congress seed online front forget volcano uncle second |  
+| bip_39_word_underscore_1 | limb |  
+| bip_39_word_underscore_10 | limb_congress_seed_online_front_forget_volcano_uncle_second_sea |  
+| bip_39_word_underscore_11 | limb_congress_seed_online_front_forget_volcano_uncle_second_sea_ask |  
+| bip_39_word_underscore_12 | limb_congress_seed_online_front_forget_volcano_uncle_second_sea_ask_already |  
+| bip_39_word_underscore_2 | limb_congress |  
+| bip_39_word_underscore_3 | limb_congress_seed |  
+| bip_39_word_underscore_4 | limb_congress_seed_online |  
+| bip_39_word_underscore_5 | limb_congress_seed_online_front |  
+| bip_39_word_underscore_6 | limb_congress_seed_online_front_forget |  
+| bip_39_word_underscore_7 | limb_congress_seed_online_front_forget_volcano |  
+| bip_39_word_underscore_8 | limb_congress_seed_online_front_forget_volcano_uncle |  
+| bip_39_word_underscore_9 | limb_congress_seed_online_front_forget_volcano_uncle_second |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

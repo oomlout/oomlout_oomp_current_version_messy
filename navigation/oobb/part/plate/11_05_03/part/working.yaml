@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wrap
+bip_39_word_dash_10: wrap-jazz-supreme-pulse-ivory-walk-high-ugly-output-route
+bip_39_word_dash_11: wrap-jazz-supreme-pulse-ivory-walk-high-ugly-output-route-demise
+bip_39_word_dash_12: wrap-jazz-supreme-pulse-ivory-walk-high-ugly-output-route-demise-all
+bip_39_word_dash_2: wrap-jazz
+bip_39_word_dash_3: wrap-jazz-supreme
+bip_39_word_dash_4: wrap-jazz-supreme-pulse
+bip_39_word_dash_5: wrap-jazz-supreme-pulse-ivory
+bip_39_word_dash_6: wrap-jazz-supreme-pulse-ivory-walk
+bip_39_word_dash_7: wrap-jazz-supreme-pulse-ivory-walk-high
+bip_39_word_dash_8: wrap-jazz-supreme-pulse-ivory-walk-high-ugly
+bip_39_word_dash_9: wrap-jazz-supreme-pulse-ivory-walk-high-ugly-output
 bip_39_word_new_br_1: wrap
 bip_39_word_new_br_10: wrap<br>jazz<br>supreme<br>pulse<br>ivory<br>walk<br>high<br>ugly<br>output<br>route
 bip_39_word_new_br_11: wrap<br>jazz<br>supreme<br>pulse<br>ivory<br>walk<br>high<br>ugly<br>output<br>route<br>demise
@@ -192,6 +204,18 @@ bip_39_word_space_6: wrap jazz supreme pulse ivory walk
 bip_39_word_space_7: wrap jazz supreme pulse ivory walk high
 bip_39_word_space_8: wrap jazz supreme pulse ivory walk high ugly
 bip_39_word_space_9: wrap jazz supreme pulse ivory walk high ugly output
+bip_39_word_underscore_1: wrap
+bip_39_word_underscore_10: wrap_jazz_supreme_pulse_ivory_walk_high_ugly_output_route
+bip_39_word_underscore_11: wrap_jazz_supreme_pulse_ivory_walk_high_ugly_output_route_demise
+bip_39_word_underscore_12: wrap_jazz_supreme_pulse_ivory_walk_high_ugly_output_route_demise_all
+bip_39_word_underscore_2: wrap_jazz
+bip_39_word_underscore_3: wrap_jazz_supreme
+bip_39_word_underscore_4: wrap_jazz_supreme_pulse
+bip_39_word_underscore_5: wrap_jazz_supreme_pulse_ivory
+bip_39_word_underscore_6: wrap_jazz_supreme_pulse_ivory_walk
+bip_39_word_underscore_7: wrap_jazz_supreme_pulse_ivory_walk_high
+bip_39_word_underscore_8: wrap_jazz_supreme_pulse_ivory_walk_high_ugly
+bip_39_word_underscore_9: wrap_jazz_supreme_pulse_ivory_walk_high_ugly_output
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: today
+bip_39_word_dash_10: today-catch-shove-park-submit-envelope-elephant-uphold-sick-pass
+bip_39_word_dash_11: today-catch-shove-park-submit-envelope-elephant-uphold-sick-pass-father
+bip_39_word_dash_12: today-catch-shove-park-submit-envelope-elephant-uphold-sick-pass-father-alarm
+bip_39_word_dash_2: today-catch
+bip_39_word_dash_3: today-catch-shove
+bip_39_word_dash_4: today-catch-shove-park
+bip_39_word_dash_5: today-catch-shove-park-submit
+bip_39_word_dash_6: today-catch-shove-park-submit-envelope
+bip_39_word_dash_7: today-catch-shove-park-submit-envelope-elephant
+bip_39_word_dash_8: today-catch-shove-park-submit-envelope-elephant-uphold
+bip_39_word_dash_9: today-catch-shove-park-submit-envelope-elephant-uphold-sick
 bip_39_word_new_br_1: today
 bip_39_word_new_br_10: today<br>catch<br>shove<br>park<br>submit<br>envelope<br>elephant<br>uphold<br>sick<br>pass
 bip_39_word_new_br_11: today<br>catch<br>shove<br>park<br>submit<br>envelope<br>elephant<br>uphold<br>sick<br>pass<br>father
@@ -194,6 +206,18 @@ bip_39_word_space_6: today catch shove park submit envelope
 bip_39_word_space_7: today catch shove park submit envelope elephant
 bip_39_word_space_8: today catch shove park submit envelope elephant uphold
 bip_39_word_space_9: today catch shove park submit envelope elephant uphold sick
+bip_39_word_underscore_1: today
+bip_39_word_underscore_10: today_catch_shove_park_submit_envelope_elephant_uphold_sick_pass
+bip_39_word_underscore_11: today_catch_shove_park_submit_envelope_elephant_uphold_sick_pass_father
+bip_39_word_underscore_12: today_catch_shove_park_submit_envelope_elephant_uphold_sick_pass_father_alarm
+bip_39_word_underscore_2: today_catch
+bip_39_word_underscore_3: today_catch_shove
+bip_39_word_underscore_4: today_catch_shove_park
+bip_39_word_underscore_5: today_catch_shove_park_submit
+bip_39_word_underscore_6: today_catch_shove_park_submit_envelope
+bip_39_word_underscore_7: today_catch_shove_park_submit_envelope_elephant
+bip_39_word_underscore_8: today_catch_shove_park_submit_envelope_elephant_uphold
+bip_39_word_underscore_9: today_catch_shove_park_submit_envelope_elephant_uphold_sick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

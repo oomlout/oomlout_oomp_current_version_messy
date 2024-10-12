@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | approve |  
+| bip_39_word_dash_10 | approve-around-bomb-clown-possible-resemble-eight-vibrant-sphere-during |  
+| bip_39_word_dash_11 | approve-around-bomb-clown-possible-resemble-eight-vibrant-sphere-during-evolve |  
+| bip_39_word_dash_12 | approve-around-bomb-clown-possible-resemble-eight-vibrant-sphere-during-evolve-annual |  
+| bip_39_word_dash_2 | approve-around |  
+| bip_39_word_dash_3 | approve-around-bomb |  
+| bip_39_word_dash_4 | approve-around-bomb-clown |  
+| bip_39_word_dash_5 | approve-around-bomb-clown-possible |  
+| bip_39_word_dash_6 | approve-around-bomb-clown-possible-resemble |  
+| bip_39_word_dash_7 | approve-around-bomb-clown-possible-resemble-eight |  
+| bip_39_word_dash_8 | approve-around-bomb-clown-possible-resemble-eight-vibrant |  
+| bip_39_word_dash_9 | approve-around-bomb-clown-possible-resemble-eight-vibrant-sphere |  
 | bip_39_word_new_br_1 | approve |  
 | bip_39_word_new_br_10 | approve<br>around<br>bomb<br>clown<br>possible<br>resemble<br>eight<br>vibrant<br>sphere<br>during |  
 | bip_39_word_new_br_11 | approve<br>around<br>bomb<br>clown<br>possible<br>resemble<br>eight<br>vibrant<br>sphere<br>during<br>evolve |  
@@ -147,6 +159,18 @@ sphere |
 | bip_39_word_space_7 | approve around bomb clown possible resemble eight |  
 | bip_39_word_space_8 | approve around bomb clown possible resemble eight vibrant |  
 | bip_39_word_space_9 | approve around bomb clown possible resemble eight vibrant sphere |  
+| bip_39_word_underscore_1 | approve |  
+| bip_39_word_underscore_10 | approve_around_bomb_clown_possible_resemble_eight_vibrant_sphere_during |  
+| bip_39_word_underscore_11 | approve_around_bomb_clown_possible_resemble_eight_vibrant_sphere_during_evolve |  
+| bip_39_word_underscore_12 | approve_around_bomb_clown_possible_resemble_eight_vibrant_sphere_during_evolve_annual |  
+| bip_39_word_underscore_2 | approve_around |  
+| bip_39_word_underscore_3 | approve_around_bomb |  
+| bip_39_word_underscore_4 | approve_around_bomb_clown |  
+| bip_39_word_underscore_5 | approve_around_bomb_clown_possible |  
+| bip_39_word_underscore_6 | approve_around_bomb_clown_possible_resemble |  
+| bip_39_word_underscore_7 | approve_around_bomb_clown_possible_resemble_eight |  
+| bip_39_word_underscore_8 | approve_around_bomb_clown_possible_resemble_eight_vibrant |  
+| bip_39_word_underscore_9 | approve_around_bomb_clown_possible_resemble_eight_vibrant_sphere |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

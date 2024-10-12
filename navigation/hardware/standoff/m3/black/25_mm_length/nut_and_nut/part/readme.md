@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vapor |  
+| bip_39_word_dash_10 | vapor-virtual-push-adult-soap-fortune-area-breeze-kit-one |  
+| bip_39_word_dash_11 | vapor-virtual-push-adult-soap-fortune-area-breeze-kit-one-true |  
+| bip_39_word_dash_12 | vapor-virtual-push-adult-soap-fortune-area-breeze-kit-one-true-affair |  
+| bip_39_word_dash_2 | vapor-virtual |  
+| bip_39_word_dash_3 | vapor-virtual-push |  
+| bip_39_word_dash_4 | vapor-virtual-push-adult |  
+| bip_39_word_dash_5 | vapor-virtual-push-adult-soap |  
+| bip_39_word_dash_6 | vapor-virtual-push-adult-soap-fortune |  
+| bip_39_word_dash_7 | vapor-virtual-push-adult-soap-fortune-area |  
+| bip_39_word_dash_8 | vapor-virtual-push-adult-soap-fortune-area-breeze |  
+| bip_39_word_dash_9 | vapor-virtual-push-adult-soap-fortune-area-breeze-kit |  
 | bip_39_word_new_br_1 | vapor |  
 | bip_39_word_new_br_10 | vapor<br>virtual<br>push<br>adult<br>soap<br>fortune<br>area<br>breeze<br>kit<br>one |  
 | bip_39_word_new_br_11 | vapor<br>virtual<br>push<br>adult<br>soap<br>fortune<br>area<br>breeze<br>kit<br>one<br>true |  
@@ -147,6 +159,18 @@ kit |
 | bip_39_word_space_7 | vapor virtual push adult soap fortune area |  
 | bip_39_word_space_8 | vapor virtual push adult soap fortune area breeze |  
 | bip_39_word_space_9 | vapor virtual push adult soap fortune area breeze kit |  
+| bip_39_word_underscore_1 | vapor |  
+| bip_39_word_underscore_10 | vapor_virtual_push_adult_soap_fortune_area_breeze_kit_one |  
+| bip_39_word_underscore_11 | vapor_virtual_push_adult_soap_fortune_area_breeze_kit_one_true |  
+| bip_39_word_underscore_12 | vapor_virtual_push_adult_soap_fortune_area_breeze_kit_one_true_affair |  
+| bip_39_word_underscore_2 | vapor_virtual |  
+| bip_39_word_underscore_3 | vapor_virtual_push |  
+| bip_39_word_underscore_4 | vapor_virtual_push_adult |  
+| bip_39_word_underscore_5 | vapor_virtual_push_adult_soap |  
+| bip_39_word_underscore_6 | vapor_virtual_push_adult_soap_fortune |  
+| bip_39_word_underscore_7 | vapor_virtual_push_adult_soap_fortune_area |  
+| bip_39_word_underscore_8 | vapor_virtual_push_adult_soap_fortune_area_breeze |  
+| bip_39_word_underscore_9 | vapor_virtual_push_adult_soap_fortune_area_breeze_kit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

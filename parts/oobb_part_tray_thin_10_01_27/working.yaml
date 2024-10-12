@@ -1,3 +1,15 @@
+bip_39_word_dash_1: thank
+bip_39_word_dash_10: thank-fat-local-exotic-melt-drive-trust-mystery-unknown-wall
+bip_39_word_dash_11: thank-fat-local-exotic-melt-drive-trust-mystery-unknown-wall-bind
+bip_39_word_dash_12: thank-fat-local-exotic-melt-drive-trust-mystery-unknown-wall-bind-amateur
+bip_39_word_dash_2: thank-fat
+bip_39_word_dash_3: thank-fat-local
+bip_39_word_dash_4: thank-fat-local-exotic
+bip_39_word_dash_5: thank-fat-local-exotic-melt
+bip_39_word_dash_6: thank-fat-local-exotic-melt-drive
+bip_39_word_dash_7: thank-fat-local-exotic-melt-drive-trust
+bip_39_word_dash_8: thank-fat-local-exotic-melt-drive-trust-mystery
+bip_39_word_dash_9: thank-fat-local-exotic-melt-drive-trust-mystery-unknown
 bip_39_word_new_br_1: thank
 bip_39_word_new_br_10: thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery<br>unknown<br>wall
 bip_39_word_new_br_11: thank<br>fat<br>local<br>exotic<br>melt<br>drive<br>trust<br>mystery<br>unknown<br>wall<br>bind
@@ -193,6 +205,18 @@ bip_39_word_space_6: thank fat local exotic melt drive
 bip_39_word_space_7: thank fat local exotic melt drive trust
 bip_39_word_space_8: thank fat local exotic melt drive trust mystery
 bip_39_word_space_9: thank fat local exotic melt drive trust mystery unknown
+bip_39_word_underscore_1: thank
+bip_39_word_underscore_10: thank_fat_local_exotic_melt_drive_trust_mystery_unknown_wall
+bip_39_word_underscore_11: thank_fat_local_exotic_melt_drive_trust_mystery_unknown_wall_bind
+bip_39_word_underscore_12: thank_fat_local_exotic_melt_drive_trust_mystery_unknown_wall_bind_amateur
+bip_39_word_underscore_2: thank_fat
+bip_39_word_underscore_3: thank_fat_local
+bip_39_word_underscore_4: thank_fat_local_exotic
+bip_39_word_underscore_5: thank_fat_local_exotic_melt
+bip_39_word_underscore_6: thank_fat_local_exotic_melt_drive
+bip_39_word_underscore_7: thank_fat_local_exotic_melt_drive_trust
+bip_39_word_underscore_8: thank_fat_local_exotic_melt_drive_trust_mystery
+bip_39_word_underscore_9: thank_fat_local_exotic_melt_drive_trust_mystery_unknown
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | below |  
+| bip_39_word_dash_10 | below-custom-click-truck-vessel-honey-say-spare-install-age |  
+| bip_39_word_dash_11 | below-custom-click-truck-vessel-honey-say-spare-install-age-napkin |  
+| bip_39_word_dash_12 | below-custom-click-truck-vessel-honey-say-spare-install-age-napkin-arena |  
+| bip_39_word_dash_2 | below-custom |  
+| bip_39_word_dash_3 | below-custom-click |  
+| bip_39_word_dash_4 | below-custom-click-truck |  
+| bip_39_word_dash_5 | below-custom-click-truck-vessel |  
+| bip_39_word_dash_6 | below-custom-click-truck-vessel-honey |  
+| bip_39_word_dash_7 | below-custom-click-truck-vessel-honey-say |  
+| bip_39_word_dash_8 | below-custom-click-truck-vessel-honey-say-spare |  
+| bip_39_word_dash_9 | below-custom-click-truck-vessel-honey-say-spare-install |  
 | bip_39_word_new_br_1 | below |  
 | bip_39_word_new_br_10 | below<br>custom<br>click<br>truck<br>vessel<br>honey<br>say<br>spare<br>install<br>age |  
 | bip_39_word_new_br_11 | below<br>custom<br>click<br>truck<br>vessel<br>honey<br>say<br>spare<br>install<br>age<br>napkin |  
@@ -147,6 +159,18 @@ install |
 | bip_39_word_space_7 | below custom click truck vessel honey say |  
 | bip_39_word_space_8 | below custom click truck vessel honey say spare |  
 | bip_39_word_space_9 | below custom click truck vessel honey say spare install |  
+| bip_39_word_underscore_1 | below |  
+| bip_39_word_underscore_10 | below_custom_click_truck_vessel_honey_say_spare_install_age |  
+| bip_39_word_underscore_11 | below_custom_click_truck_vessel_honey_say_spare_install_age_napkin |  
+| bip_39_word_underscore_12 | below_custom_click_truck_vessel_honey_say_spare_install_age_napkin_arena |  
+| bip_39_word_underscore_2 | below_custom |  
+| bip_39_word_underscore_3 | below_custom_click |  
+| bip_39_word_underscore_4 | below_custom_click_truck |  
+| bip_39_word_underscore_5 | below_custom_click_truck_vessel |  
+| bip_39_word_underscore_6 | below_custom_click_truck_vessel_honey |  
+| bip_39_word_underscore_7 | below_custom_click_truck_vessel_honey_say |  
+| bip_39_word_underscore_8 | below_custom_click_truck_vessel_honey_say_spare |  
+| bip_39_word_underscore_9 | below_custom_click_truck_vessel_honey_say_spare_install |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

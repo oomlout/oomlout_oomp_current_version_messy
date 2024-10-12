@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | broken |  
+| bip_39_word_dash_10 | broken-fancy-swap-apology-pattern-mention-again-want-jeans-post |  
+| bip_39_word_dash_11 | broken-fancy-swap-apology-pattern-mention-again-want-jeans-post-mystery |  
+| bip_39_word_dash_12 | broken-fancy-swap-apology-pattern-mention-again-want-jeans-post-mystery-age |  
+| bip_39_word_dash_2 | broken-fancy |  
+| bip_39_word_dash_3 | broken-fancy-swap |  
+| bip_39_word_dash_4 | broken-fancy-swap-apology |  
+| bip_39_word_dash_5 | broken-fancy-swap-apology-pattern |  
+| bip_39_word_dash_6 | broken-fancy-swap-apology-pattern-mention |  
+| bip_39_word_dash_7 | broken-fancy-swap-apology-pattern-mention-again |  
+| bip_39_word_dash_8 | broken-fancy-swap-apology-pattern-mention-again-want |  
+| bip_39_word_dash_9 | broken-fancy-swap-apology-pattern-mention-again-want-jeans |  
 | bip_39_word_new_br_1 | broken |  
 | bip_39_word_new_br_10 | broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want<br>jeans<br>post |  
 | bip_39_word_new_br_11 | broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want<br>jeans<br>post<br>mystery |  
@@ -147,6 +159,18 @@ jeans |
 | bip_39_word_space_7 | broken fancy swap apology pattern mention again |  
 | bip_39_word_space_8 | broken fancy swap apology pattern mention again want |  
 | bip_39_word_space_9 | broken fancy swap apology pattern mention again want jeans |  
+| bip_39_word_underscore_1 | broken |  
+| bip_39_word_underscore_10 | broken_fancy_swap_apology_pattern_mention_again_want_jeans_post |  
+| bip_39_word_underscore_11 | broken_fancy_swap_apology_pattern_mention_again_want_jeans_post_mystery |  
+| bip_39_word_underscore_12 | broken_fancy_swap_apology_pattern_mention_again_want_jeans_post_mystery_age |  
+| bip_39_word_underscore_2 | broken_fancy |  
+| bip_39_word_underscore_3 | broken_fancy_swap |  
+| bip_39_word_underscore_4 | broken_fancy_swap_apology |  
+| bip_39_word_underscore_5 | broken_fancy_swap_apology_pattern |  
+| bip_39_word_underscore_6 | broken_fancy_swap_apology_pattern_mention |  
+| bip_39_word_underscore_7 | broken_fancy_swap_apology_pattern_mention_again |  
+| bip_39_word_underscore_8 | broken_fancy_swap_apology_pattern_mention_again_want |  
+| bip_39_word_underscore_9 | broken_fancy_swap_apology_pattern_mention_again_want_jeans |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

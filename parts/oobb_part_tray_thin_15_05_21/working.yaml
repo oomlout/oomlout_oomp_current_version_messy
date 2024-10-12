@@ -1,3 +1,15 @@
+bip_39_word_dash_1: donor
+bip_39_word_dash_10: donor-patient-tissue-tomato-world-funny-glove-napkin-casual-giggle
+bip_39_word_dash_11: donor-patient-tissue-tomato-world-funny-glove-napkin-casual-giggle-pepper
+bip_39_word_dash_12: donor-patient-tissue-tomato-world-funny-glove-napkin-casual-giggle-pepper-artist
+bip_39_word_dash_2: donor-patient
+bip_39_word_dash_3: donor-patient-tissue
+bip_39_word_dash_4: donor-patient-tissue-tomato
+bip_39_word_dash_5: donor-patient-tissue-tomato-world
+bip_39_word_dash_6: donor-patient-tissue-tomato-world-funny
+bip_39_word_dash_7: donor-patient-tissue-tomato-world-funny-glove
+bip_39_word_dash_8: donor-patient-tissue-tomato-world-funny-glove-napkin
+bip_39_word_dash_9: donor-patient-tissue-tomato-world-funny-glove-napkin-casual
 bip_39_word_new_br_1: donor
 bip_39_word_new_br_10: donor<br>patient<br>tissue<br>tomato<br>world<br>funny<br>glove<br>napkin<br>casual<br>giggle
 bip_39_word_new_br_11: donor<br>patient<br>tissue<br>tomato<br>world<br>funny<br>glove<br>napkin<br>casual<br>giggle<br>pepper
@@ -194,6 +206,18 @@ bip_39_word_space_6: donor patient tissue tomato world funny
 bip_39_word_space_7: donor patient tissue tomato world funny glove
 bip_39_word_space_8: donor patient tissue tomato world funny glove napkin
 bip_39_word_space_9: donor patient tissue tomato world funny glove napkin casual
+bip_39_word_underscore_1: donor
+bip_39_word_underscore_10: donor_patient_tissue_tomato_world_funny_glove_napkin_casual_giggle
+bip_39_word_underscore_11: donor_patient_tissue_tomato_world_funny_glove_napkin_casual_giggle_pepper
+bip_39_word_underscore_12: donor_patient_tissue_tomato_world_funny_glove_napkin_casual_giggle_pepper_artist
+bip_39_word_underscore_2: donor_patient
+bip_39_word_underscore_3: donor_patient_tissue
+bip_39_word_underscore_4: donor_patient_tissue_tomato
+bip_39_word_underscore_5: donor_patient_tissue_tomato_world
+bip_39_word_underscore_6: donor_patient_tissue_tomato_world_funny
+bip_39_word_underscore_7: donor_patient_tissue_tomato_world_funny_glove
+bip_39_word_underscore_8: donor_patient_tissue_tomato_world_funny_glove_napkin
+bip_39_word_underscore_9: donor_patient_tissue_tomato_world_funny_glove_napkin_casual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: broken
+bip_39_word_dash_10: broken-wrestle-barrel-giraffe-proof-cram-survey-spell-ceiling-ozone
+bip_39_word_dash_11: broken-wrestle-barrel-giraffe-proof-cram-survey-spell-ceiling-ozone-resist
+bip_39_word_dash_12: broken-wrestle-barrel-giraffe-proof-cram-survey-spell-ceiling-ozone-resist-allow
+bip_39_word_dash_2: broken-wrestle
+bip_39_word_dash_3: broken-wrestle-barrel
+bip_39_word_dash_4: broken-wrestle-barrel-giraffe
+bip_39_word_dash_5: broken-wrestle-barrel-giraffe-proof
+bip_39_word_dash_6: broken-wrestle-barrel-giraffe-proof-cram
+bip_39_word_dash_7: broken-wrestle-barrel-giraffe-proof-cram-survey
+bip_39_word_dash_8: broken-wrestle-barrel-giraffe-proof-cram-survey-spell
+bip_39_word_dash_9: broken-wrestle-barrel-giraffe-proof-cram-survey-spell-ceiling
 bip_39_word_new_br_1: broken
 bip_39_word_new_br_10: broken<br>wrestle<br>barrel<br>giraffe<br>proof<br>cram<br>survey<br>spell<br>ceiling<br>ozone
 bip_39_word_new_br_11: broken<br>wrestle<br>barrel<br>giraffe<br>proof<br>cram<br>survey<br>spell<br>ceiling<br>ozone<br>resist
@@ -194,6 +206,18 @@ bip_39_word_space_6: broken wrestle barrel giraffe proof cram
 bip_39_word_space_7: broken wrestle barrel giraffe proof cram survey
 bip_39_word_space_8: broken wrestle barrel giraffe proof cram survey spell
 bip_39_word_space_9: broken wrestle barrel giraffe proof cram survey spell ceiling
+bip_39_word_underscore_1: broken
+bip_39_word_underscore_10: broken_wrestle_barrel_giraffe_proof_cram_survey_spell_ceiling_ozone
+bip_39_word_underscore_11: broken_wrestle_barrel_giraffe_proof_cram_survey_spell_ceiling_ozone_resist
+bip_39_word_underscore_12: broken_wrestle_barrel_giraffe_proof_cram_survey_spell_ceiling_ozone_resist_allow
+bip_39_word_underscore_2: broken_wrestle
+bip_39_word_underscore_3: broken_wrestle_barrel
+bip_39_word_underscore_4: broken_wrestle_barrel_giraffe
+bip_39_word_underscore_5: broken_wrestle_barrel_giraffe_proof
+bip_39_word_underscore_6: broken_wrestle_barrel_giraffe_proof_cram
+bip_39_word_underscore_7: broken_wrestle_barrel_giraffe_proof_cram_survey
+bip_39_word_underscore_8: broken_wrestle_barrel_giraffe_proof_cram_survey_spell
+bip_39_word_underscore_9: broken_wrestle_barrel_giraffe_proof_cram_survey_spell_ceiling
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

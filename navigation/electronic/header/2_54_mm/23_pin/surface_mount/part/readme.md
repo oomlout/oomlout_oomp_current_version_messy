@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quarter |  
+| bip_39_word_dash_10 | quarter-easy-capital-rabbit-leaf-phrase-sing-roof-craft-maid |  
+| bip_39_word_dash_11 | quarter-easy-capital-rabbit-leaf-phrase-sing-roof-craft-maid-loud |  
+| bip_39_word_dash_12 | quarter-easy-capital-rabbit-leaf-phrase-sing-roof-craft-maid-loud-arrow |  
+| bip_39_word_dash_2 | quarter-easy |  
+| bip_39_word_dash_3 | quarter-easy-capital |  
+| bip_39_word_dash_4 | quarter-easy-capital-rabbit |  
+| bip_39_word_dash_5 | quarter-easy-capital-rabbit-leaf |  
+| bip_39_word_dash_6 | quarter-easy-capital-rabbit-leaf-phrase |  
+| bip_39_word_dash_7 | quarter-easy-capital-rabbit-leaf-phrase-sing |  
+| bip_39_word_dash_8 | quarter-easy-capital-rabbit-leaf-phrase-sing-roof |  
+| bip_39_word_dash_9 | quarter-easy-capital-rabbit-leaf-phrase-sing-roof-craft |  
 | bip_39_word_new_br_1 | quarter |  
 | bip_39_word_new_br_10 | quarter<br>easy<br>capital<br>rabbit<br>leaf<br>phrase<br>sing<br>roof<br>craft<br>maid |  
 | bip_39_word_new_br_11 | quarter<br>easy<br>capital<br>rabbit<br>leaf<br>phrase<br>sing<br>roof<br>craft<br>maid<br>loud |  
@@ -147,6 +159,18 @@ craft |
 | bip_39_word_space_7 | quarter easy capital rabbit leaf phrase sing |  
 | bip_39_word_space_8 | quarter easy capital rabbit leaf phrase sing roof |  
 | bip_39_word_space_9 | quarter easy capital rabbit leaf phrase sing roof craft |  
+| bip_39_word_underscore_1 | quarter |  
+| bip_39_word_underscore_10 | quarter_easy_capital_rabbit_leaf_phrase_sing_roof_craft_maid |  
+| bip_39_word_underscore_11 | quarter_easy_capital_rabbit_leaf_phrase_sing_roof_craft_maid_loud |  
+| bip_39_word_underscore_12 | quarter_easy_capital_rabbit_leaf_phrase_sing_roof_craft_maid_loud_arrow |  
+| bip_39_word_underscore_2 | quarter_easy |  
+| bip_39_word_underscore_3 | quarter_easy_capital |  
+| bip_39_word_underscore_4 | quarter_easy_capital_rabbit |  
+| bip_39_word_underscore_5 | quarter_easy_capital_rabbit_leaf |  
+| bip_39_word_underscore_6 | quarter_easy_capital_rabbit_leaf_phrase |  
+| bip_39_word_underscore_7 | quarter_easy_capital_rabbit_leaf_phrase_sing |  
+| bip_39_word_underscore_8 | quarter_easy_capital_rabbit_leaf_phrase_sing_roof |  
+| bip_39_word_underscore_9 | quarter_easy_capital_rabbit_leaf_phrase_sing_roof_craft |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

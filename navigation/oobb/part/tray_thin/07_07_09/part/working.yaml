@@ -1,3 +1,15 @@
+bip_39_word_dash_1: glow
+bip_39_word_dash_10: glow-game-pitch-horse-junk-term-general-dad-adult-suggest
+bip_39_word_dash_11: glow-game-pitch-horse-junk-term-general-dad-adult-suggest-eight
+bip_39_word_dash_12: glow-game-pitch-horse-junk-term-general-dad-adult-suggest-eight-afraid
+bip_39_word_dash_2: glow-game
+bip_39_word_dash_3: glow-game-pitch
+bip_39_word_dash_4: glow-game-pitch-horse
+bip_39_word_dash_5: glow-game-pitch-horse-junk
+bip_39_word_dash_6: glow-game-pitch-horse-junk-term
+bip_39_word_dash_7: glow-game-pitch-horse-junk-term-general
+bip_39_word_dash_8: glow-game-pitch-horse-junk-term-general-dad
+bip_39_word_dash_9: glow-game-pitch-horse-junk-term-general-dad-adult
 bip_39_word_new_br_1: glow
 bip_39_word_new_br_10: glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest
 bip_39_word_new_br_11: glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest<br>eight
@@ -192,6 +204,18 @@ bip_39_word_space_6: glow game pitch horse junk term
 bip_39_word_space_7: glow game pitch horse junk term general
 bip_39_word_space_8: glow game pitch horse junk term general dad
 bip_39_word_space_9: glow game pitch horse junk term general dad adult
+bip_39_word_underscore_1: glow
+bip_39_word_underscore_10: glow_game_pitch_horse_junk_term_general_dad_adult_suggest
+bip_39_word_underscore_11: glow_game_pitch_horse_junk_term_general_dad_adult_suggest_eight
+bip_39_word_underscore_12: glow_game_pitch_horse_junk_term_general_dad_adult_suggest_eight_afraid
+bip_39_word_underscore_2: glow_game
+bip_39_word_underscore_3: glow_game_pitch
+bip_39_word_underscore_4: glow_game_pitch_horse
+bip_39_word_underscore_5: glow_game_pitch_horse_junk
+bip_39_word_underscore_6: glow_game_pitch_horse_junk_term
+bip_39_word_underscore_7: glow_game_pitch_horse_junk_term_general
+bip_39_word_underscore_8: glow_game_pitch_horse_junk_term_general_dad
+bip_39_word_underscore_9: glow_game_pitch_horse_junk_term_general_dad_adult
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

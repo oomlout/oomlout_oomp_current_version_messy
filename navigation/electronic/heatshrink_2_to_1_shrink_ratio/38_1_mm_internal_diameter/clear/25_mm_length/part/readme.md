@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | online |  
+| bip_39_word_dash_10 | online-vintage-fiction-chest-supreme-leopard-bridge-prepare-together-essence |  
+| bip_39_word_dash_11 | online-vintage-fiction-chest-supreme-leopard-bridge-prepare-together-essence-injury |  
+| bip_39_word_dash_12 | online-vintage-fiction-chest-supreme-leopard-bridge-prepare-together-essence-injury-assume |  
+| bip_39_word_dash_2 | online-vintage |  
+| bip_39_word_dash_3 | online-vintage-fiction |  
+| bip_39_word_dash_4 | online-vintage-fiction-chest |  
+| bip_39_word_dash_5 | online-vintage-fiction-chest-supreme |  
+| bip_39_word_dash_6 | online-vintage-fiction-chest-supreme-leopard |  
+| bip_39_word_dash_7 | online-vintage-fiction-chest-supreme-leopard-bridge |  
+| bip_39_word_dash_8 | online-vintage-fiction-chest-supreme-leopard-bridge-prepare |  
+| bip_39_word_dash_9 | online-vintage-fiction-chest-supreme-leopard-bridge-prepare-together |  
 | bip_39_word_new_br_1 | online |  
 | bip_39_word_new_br_10 | online<br>vintage<br>fiction<br>chest<br>supreme<br>leopard<br>bridge<br>prepare<br>together<br>essence |  
 | bip_39_word_new_br_11 | online<br>vintage<br>fiction<br>chest<br>supreme<br>leopard<br>bridge<br>prepare<br>together<br>essence<br>injury |  
@@ -147,6 +159,18 @@ together |
 | bip_39_word_space_7 | online vintage fiction chest supreme leopard bridge |  
 | bip_39_word_space_8 | online vintage fiction chest supreme leopard bridge prepare |  
 | bip_39_word_space_9 | online vintage fiction chest supreme leopard bridge prepare together |  
+| bip_39_word_underscore_1 | online |  
+| bip_39_word_underscore_10 | online_vintage_fiction_chest_supreme_leopard_bridge_prepare_together_essence |  
+| bip_39_word_underscore_11 | online_vintage_fiction_chest_supreme_leopard_bridge_prepare_together_essence_injury |  
+| bip_39_word_underscore_12 | online_vintage_fiction_chest_supreme_leopard_bridge_prepare_together_essence_injury_assume |  
+| bip_39_word_underscore_2 | online_vintage |  
+| bip_39_word_underscore_3 | online_vintage_fiction |  
+| bip_39_word_underscore_4 | online_vintage_fiction_chest |  
+| bip_39_word_underscore_5 | online_vintage_fiction_chest_supreme |  
+| bip_39_word_underscore_6 | online_vintage_fiction_chest_supreme_leopard |  
+| bip_39_word_underscore_7 | online_vintage_fiction_chest_supreme_leopard_bridge |  
+| bip_39_word_underscore_8 | online_vintage_fiction_chest_supreme_leopard_bridge_prepare |  
+| bip_39_word_underscore_9 | online_vintage_fiction_chest_supreme_leopard_bridge_prepare_together |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

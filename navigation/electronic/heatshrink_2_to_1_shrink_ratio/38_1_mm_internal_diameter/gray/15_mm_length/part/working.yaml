@@ -1,3 +1,15 @@
+bip_39_word_dash_1: volume
+bip_39_word_dash_10: volume-junk-present-wife-jaguar-illness-imitate-brief-earn-drum
+bip_39_word_dash_11: volume-junk-present-wife-jaguar-illness-imitate-brief-earn-drum-night
+bip_39_word_dash_12: volume-junk-present-wife-jaguar-illness-imitate-brief-earn-drum-night-actual
+bip_39_word_dash_2: volume-junk
+bip_39_word_dash_3: volume-junk-present
+bip_39_word_dash_4: volume-junk-present-wife
+bip_39_word_dash_5: volume-junk-present-wife-jaguar
+bip_39_word_dash_6: volume-junk-present-wife-jaguar-illness
+bip_39_word_dash_7: volume-junk-present-wife-jaguar-illness-imitate
+bip_39_word_dash_8: volume-junk-present-wife-jaguar-illness-imitate-brief
+bip_39_word_dash_9: volume-junk-present-wife-jaguar-illness-imitate-brief-earn
 bip_39_word_new_br_1: volume
 bip_39_word_new_br_10: volume<br>junk<br>present<br>wife<br>jaguar<br>illness<br>imitate<br>brief<br>earn<br>drum
 bip_39_word_new_br_11: volume<br>junk<br>present<br>wife<br>jaguar<br>illness<br>imitate<br>brief<br>earn<br>drum<br>night
@@ -193,6 +205,18 @@ bip_39_word_space_6: volume junk present wife jaguar illness
 bip_39_word_space_7: volume junk present wife jaguar illness imitate
 bip_39_word_space_8: volume junk present wife jaguar illness imitate brief
 bip_39_word_space_9: volume junk present wife jaguar illness imitate brief earn
+bip_39_word_underscore_1: volume
+bip_39_word_underscore_10: volume_junk_present_wife_jaguar_illness_imitate_brief_earn_drum
+bip_39_word_underscore_11: volume_junk_present_wife_jaguar_illness_imitate_brief_earn_drum_night
+bip_39_word_underscore_12: volume_junk_present_wife_jaguar_illness_imitate_brief_earn_drum_night_actual
+bip_39_word_underscore_2: volume_junk
+bip_39_word_underscore_3: volume_junk_present
+bip_39_word_underscore_4: volume_junk_present_wife
+bip_39_word_underscore_5: volume_junk_present_wife_jaguar
+bip_39_word_underscore_6: volume_junk_present_wife_jaguar_illness
+bip_39_word_underscore_7: volume_junk_present_wife_jaguar_illness_imitate
+bip_39_word_underscore_8: volume_junk_present_wife_jaguar_illness_imitate_brief
+bip_39_word_underscore_9: volume_junk_present_wife_jaguar_illness_imitate_brief_earn
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

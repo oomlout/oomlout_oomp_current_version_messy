@@ -1,3 +1,15 @@
+bip_39_word_dash_1: meat
+bip_39_word_dash_10: meat-stairs-company-season-valve-axis-level-judge-toy-ticket
+bip_39_word_dash_11: meat-stairs-company-season-valve-axis-level-judge-toy-ticket-exercise
+bip_39_word_dash_12: meat-stairs-company-season-valve-axis-level-judge-toy-ticket-exercise-anger
+bip_39_word_dash_2: meat-stairs
+bip_39_word_dash_3: meat-stairs-company
+bip_39_word_dash_4: meat-stairs-company-season
+bip_39_word_dash_5: meat-stairs-company-season-valve
+bip_39_word_dash_6: meat-stairs-company-season-valve-axis
+bip_39_word_dash_7: meat-stairs-company-season-valve-axis-level
+bip_39_word_dash_8: meat-stairs-company-season-valve-axis-level-judge
+bip_39_word_dash_9: meat-stairs-company-season-valve-axis-level-judge-toy
 bip_39_word_new_br_1: meat
 bip_39_word_new_br_10: meat<br>stairs<br>company<br>season<br>valve<br>axis<br>level<br>judge<br>toy<br>ticket
 bip_39_word_new_br_11: meat<br>stairs<br>company<br>season<br>valve<br>axis<br>level<br>judge<br>toy<br>ticket<br>exercise
@@ -193,6 +205,18 @@ bip_39_word_space_6: meat stairs company season valve axis
 bip_39_word_space_7: meat stairs company season valve axis level
 bip_39_word_space_8: meat stairs company season valve axis level judge
 bip_39_word_space_9: meat stairs company season valve axis level judge toy
+bip_39_word_underscore_1: meat
+bip_39_word_underscore_10: meat_stairs_company_season_valve_axis_level_judge_toy_ticket
+bip_39_word_underscore_11: meat_stairs_company_season_valve_axis_level_judge_toy_ticket_exercise
+bip_39_word_underscore_12: meat_stairs_company_season_valve_axis_level_judge_toy_ticket_exercise_anger
+bip_39_word_underscore_2: meat_stairs
+bip_39_word_underscore_3: meat_stairs_company
+bip_39_word_underscore_4: meat_stairs_company_season
+bip_39_word_underscore_5: meat_stairs_company_season_valve
+bip_39_word_underscore_6: meat_stairs_company_season_valve_axis
+bip_39_word_underscore_7: meat_stairs_company_season_valve_axis_level
+bip_39_word_underscore_8: meat_stairs_company_season_valve_axis_level_judge
+bip_39_word_underscore_9: meat_stairs_company_season_valve_axis_level_judge_toy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | genius |  
+| bip_39_word_dash_10 | genius-convince-craft-seminar-ocean-earn-actor-utility-multiply-ketchup |  
+| bip_39_word_dash_11 | genius-convince-craft-seminar-ocean-earn-actor-utility-multiply-ketchup-minute |  
+| bip_39_word_dash_12 | genius-convince-craft-seminar-ocean-earn-actor-utility-multiply-ketchup-minute-animal |  
+| bip_39_word_dash_2 | genius-convince |  
+| bip_39_word_dash_3 | genius-convince-craft |  
+| bip_39_word_dash_4 | genius-convince-craft-seminar |  
+| bip_39_word_dash_5 | genius-convince-craft-seminar-ocean |  
+| bip_39_word_dash_6 | genius-convince-craft-seminar-ocean-earn |  
+| bip_39_word_dash_7 | genius-convince-craft-seminar-ocean-earn-actor |  
+| bip_39_word_dash_8 | genius-convince-craft-seminar-ocean-earn-actor-utility |  
+| bip_39_word_dash_9 | genius-convince-craft-seminar-ocean-earn-actor-utility-multiply |  
 | bip_39_word_new_br_1 | genius |  
 | bip_39_word_new_br_10 | genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility<br>multiply<br>ketchup |  
 | bip_39_word_new_br_11 | genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility<br>multiply<br>ketchup<br>minute |  
@@ -147,6 +159,18 @@ multiply |
 | bip_39_word_space_7 | genius convince craft seminar ocean earn actor |  
 | bip_39_word_space_8 | genius convince craft seminar ocean earn actor utility |  
 | bip_39_word_space_9 | genius convince craft seminar ocean earn actor utility multiply |  
+| bip_39_word_underscore_1 | genius |  
+| bip_39_word_underscore_10 | genius_convince_craft_seminar_ocean_earn_actor_utility_multiply_ketchup |  
+| bip_39_word_underscore_11 | genius_convince_craft_seminar_ocean_earn_actor_utility_multiply_ketchup_minute |  
+| bip_39_word_underscore_12 | genius_convince_craft_seminar_ocean_earn_actor_utility_multiply_ketchup_minute_animal |  
+| bip_39_word_underscore_2 | genius_convince |  
+| bip_39_word_underscore_3 | genius_convince_craft |  
+| bip_39_word_underscore_4 | genius_convince_craft_seminar |  
+| bip_39_word_underscore_5 | genius_convince_craft_seminar_ocean |  
+| bip_39_word_underscore_6 | genius_convince_craft_seminar_ocean_earn |  
+| bip_39_word_underscore_7 | genius_convince_craft_seminar_ocean_earn_actor |  
+| bip_39_word_underscore_8 | genius_convince_craft_seminar_ocean_earn_actor_utility |  
+| bip_39_word_underscore_9 | genius_convince_craft_seminar_ocean_earn_actor_utility_multiply |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | discover |  
+| bip_39_word_dash_10 | discover-van-gospel-tragic-sweet-kangaroo-eternal-believe-type-very |  
+| bip_39_word_dash_11 | discover-van-gospel-tragic-sweet-kangaroo-eternal-believe-type-very-own |  
+| bip_39_word_dash_12 | discover-van-gospel-tragic-sweet-kangaroo-eternal-believe-type-very-own-aisle |  
+| bip_39_word_dash_2 | discover-van |  
+| bip_39_word_dash_3 | discover-van-gospel |  
+| bip_39_word_dash_4 | discover-van-gospel-tragic |  
+| bip_39_word_dash_5 | discover-van-gospel-tragic-sweet |  
+| bip_39_word_dash_6 | discover-van-gospel-tragic-sweet-kangaroo |  
+| bip_39_word_dash_7 | discover-van-gospel-tragic-sweet-kangaroo-eternal |  
+| bip_39_word_dash_8 | discover-van-gospel-tragic-sweet-kangaroo-eternal-believe |  
+| bip_39_word_dash_9 | discover-van-gospel-tragic-sweet-kangaroo-eternal-believe-type |  
 | bip_39_word_new_br_1 | discover |  
 | bip_39_word_new_br_10 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe<br>type<br>very |  
 | bip_39_word_new_br_11 | discover<br>van<br>gospel<br>tragic<br>sweet<br>kangaroo<br>eternal<br>believe<br>type<br>very<br>own |  
@@ -147,6 +159,18 @@ type |
 | bip_39_word_space_7 | discover van gospel tragic sweet kangaroo eternal |  
 | bip_39_word_space_8 | discover van gospel tragic sweet kangaroo eternal believe |  
 | bip_39_word_space_9 | discover van gospel tragic sweet kangaroo eternal believe type |  
+| bip_39_word_underscore_1 | discover |  
+| bip_39_word_underscore_10 | discover_van_gospel_tragic_sweet_kangaroo_eternal_believe_type_very |  
+| bip_39_word_underscore_11 | discover_van_gospel_tragic_sweet_kangaroo_eternal_believe_type_very_own |  
+| bip_39_word_underscore_12 | discover_van_gospel_tragic_sweet_kangaroo_eternal_believe_type_very_own_aisle |  
+| bip_39_word_underscore_2 | discover_van |  
+| bip_39_word_underscore_3 | discover_van_gospel |  
+| bip_39_word_underscore_4 | discover_van_gospel_tragic |  
+| bip_39_word_underscore_5 | discover_van_gospel_tragic_sweet |  
+| bip_39_word_underscore_6 | discover_van_gospel_tragic_sweet_kangaroo |  
+| bip_39_word_underscore_7 | discover_van_gospel_tragic_sweet_kangaroo_eternal |  
+| bip_39_word_underscore_8 | discover_van_gospel_tragic_sweet_kangaroo_eternal_believe |  
+| bip_39_word_underscore_9 | discover_van_gospel_tragic_sweet_kangaroo_eternal_believe_type |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

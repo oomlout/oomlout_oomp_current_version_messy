@@ -1,3 +1,15 @@
+bip_39_word_dash_1: egg
+bip_39_word_dash_10: egg-taste-board-frame-defense-ugly-expect-glove-gospel-excuse
+bip_39_word_dash_11: egg-taste-board-frame-defense-ugly-expect-glove-gospel-excuse-monster
+bip_39_word_dash_12: egg-taste-board-frame-defense-ugly-expect-glove-gospel-excuse-monster-abuse
+bip_39_word_dash_2: egg-taste
+bip_39_word_dash_3: egg-taste-board
+bip_39_word_dash_4: egg-taste-board-frame
+bip_39_word_dash_5: egg-taste-board-frame-defense
+bip_39_word_dash_6: egg-taste-board-frame-defense-ugly
+bip_39_word_dash_7: egg-taste-board-frame-defense-ugly-expect
+bip_39_word_dash_8: egg-taste-board-frame-defense-ugly-expect-glove
+bip_39_word_dash_9: egg-taste-board-frame-defense-ugly-expect-glove-gospel
 bip_39_word_new_br_1: egg
 bip_39_word_new_br_10: egg<br>taste<br>board<br>frame<br>defense<br>ugly<br>expect<br>glove<br>gospel<br>excuse
 bip_39_word_new_br_11: egg<br>taste<br>board<br>frame<br>defense<br>ugly<br>expect<br>glove<br>gospel<br>excuse<br>monster
@@ -193,6 +205,18 @@ bip_39_word_space_6: egg taste board frame defense ugly
 bip_39_word_space_7: egg taste board frame defense ugly expect
 bip_39_word_space_8: egg taste board frame defense ugly expect glove
 bip_39_word_space_9: egg taste board frame defense ugly expect glove gospel
+bip_39_word_underscore_1: egg
+bip_39_word_underscore_10: egg_taste_board_frame_defense_ugly_expect_glove_gospel_excuse
+bip_39_word_underscore_11: egg_taste_board_frame_defense_ugly_expect_glove_gospel_excuse_monster
+bip_39_word_underscore_12: egg_taste_board_frame_defense_ugly_expect_glove_gospel_excuse_monster_abuse
+bip_39_word_underscore_2: egg_taste
+bip_39_word_underscore_3: egg_taste_board
+bip_39_word_underscore_4: egg_taste_board_frame
+bip_39_word_underscore_5: egg_taste_board_frame_defense
+bip_39_word_underscore_6: egg_taste_board_frame_defense_ugly
+bip_39_word_underscore_7: egg_taste_board_frame_defense_ugly_expect
+bip_39_word_underscore_8: egg_taste_board_frame_defense_ugly_expect_glove
+bip_39_word_underscore_9: egg_taste_board_frame_defense_ugly_expect_glove_gospel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

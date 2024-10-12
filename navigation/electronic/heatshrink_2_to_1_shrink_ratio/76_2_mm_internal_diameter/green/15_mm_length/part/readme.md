@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | riot |  
+| bip_39_word_dash_10 | riot-cattle-health-end-stable-between-yard-peanut-illness-fruit |  
+| bip_39_word_dash_11 | riot-cattle-health-end-stable-between-yard-peanut-illness-fruit-math |  
+| bip_39_word_dash_12 | riot-cattle-health-end-stable-between-yard-peanut-illness-fruit-math-analyst |  
+| bip_39_word_dash_2 | riot-cattle |  
+| bip_39_word_dash_3 | riot-cattle-health |  
+| bip_39_word_dash_4 | riot-cattle-health-end |  
+| bip_39_word_dash_5 | riot-cattle-health-end-stable |  
+| bip_39_word_dash_6 | riot-cattle-health-end-stable-between |  
+| bip_39_word_dash_7 | riot-cattle-health-end-stable-between-yard |  
+| bip_39_word_dash_8 | riot-cattle-health-end-stable-between-yard-peanut |  
+| bip_39_word_dash_9 | riot-cattle-health-end-stable-between-yard-peanut-illness |  
 | bip_39_word_new_br_1 | riot |  
 | bip_39_word_new_br_10 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut<br>illness<br>fruit |  
 | bip_39_word_new_br_11 | riot<br>cattle<br>health<br>end<br>stable<br>between<br>yard<br>peanut<br>illness<br>fruit<br>math |  
@@ -147,6 +159,18 @@ illness |
 | bip_39_word_space_7 | riot cattle health end stable between yard |  
 | bip_39_word_space_8 | riot cattle health end stable between yard peanut |  
 | bip_39_word_space_9 | riot cattle health end stable between yard peanut illness |  
+| bip_39_word_underscore_1 | riot |  
+| bip_39_word_underscore_10 | riot_cattle_health_end_stable_between_yard_peanut_illness_fruit |  
+| bip_39_word_underscore_11 | riot_cattle_health_end_stable_between_yard_peanut_illness_fruit_math |  
+| bip_39_word_underscore_12 | riot_cattle_health_end_stable_between_yard_peanut_illness_fruit_math_analyst |  
+| bip_39_word_underscore_2 | riot_cattle |  
+| bip_39_word_underscore_3 | riot_cattle_health |  
+| bip_39_word_underscore_4 | riot_cattle_health_end |  
+| bip_39_word_underscore_5 | riot_cattle_health_end_stable |  
+| bip_39_word_underscore_6 | riot_cattle_health_end_stable_between |  
+| bip_39_word_underscore_7 | riot_cattle_health_end_stable_between_yard |  
+| bip_39_word_underscore_8 | riot_cattle_health_end_stable_between_yard_peanut |  
+| bip_39_word_underscore_9 | riot_cattle_health_end_stable_between_yard_peanut_illness |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

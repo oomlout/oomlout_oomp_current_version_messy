@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | submit |  
+| bip_39_word_dash_10 | submit-banana-stairs-bundle-orbit-suit-fox-apart-myth-empower |  
+| bip_39_word_dash_11 | submit-banana-stairs-bundle-orbit-suit-fox-apart-myth-empower-arrow |  
+| bip_39_word_dash_12 | submit-banana-stairs-bundle-orbit-suit-fox-apart-myth-empower-arrow-another |  
+| bip_39_word_dash_2 | submit-banana |  
+| bip_39_word_dash_3 | submit-banana-stairs |  
+| bip_39_word_dash_4 | submit-banana-stairs-bundle |  
+| bip_39_word_dash_5 | submit-banana-stairs-bundle-orbit |  
+| bip_39_word_dash_6 | submit-banana-stairs-bundle-orbit-suit |  
+| bip_39_word_dash_7 | submit-banana-stairs-bundle-orbit-suit-fox |  
+| bip_39_word_dash_8 | submit-banana-stairs-bundle-orbit-suit-fox-apart |  
+| bip_39_word_dash_9 | submit-banana-stairs-bundle-orbit-suit-fox-apart-myth |  
 | bip_39_word_new_br_1 | submit |  
 | bip_39_word_new_br_10 | submit<br>banana<br>stairs<br>bundle<br>orbit<br>suit<br>fox<br>apart<br>myth<br>empower |  
 | bip_39_word_new_br_11 | submit<br>banana<br>stairs<br>bundle<br>orbit<br>suit<br>fox<br>apart<br>myth<br>empower<br>arrow |  
@@ -147,6 +159,18 @@ myth |
 | bip_39_word_space_7 | submit banana stairs bundle orbit suit fox |  
 | bip_39_word_space_8 | submit banana stairs bundle orbit suit fox apart |  
 | bip_39_word_space_9 | submit banana stairs bundle orbit suit fox apart myth |  
+| bip_39_word_underscore_1 | submit |  
+| bip_39_word_underscore_10 | submit_banana_stairs_bundle_orbit_suit_fox_apart_myth_empower |  
+| bip_39_word_underscore_11 | submit_banana_stairs_bundle_orbit_suit_fox_apart_myth_empower_arrow |  
+| bip_39_word_underscore_12 | submit_banana_stairs_bundle_orbit_suit_fox_apart_myth_empower_arrow_another |  
+| bip_39_word_underscore_2 | submit_banana |  
+| bip_39_word_underscore_3 | submit_banana_stairs |  
+| bip_39_word_underscore_4 | submit_banana_stairs_bundle |  
+| bip_39_word_underscore_5 | submit_banana_stairs_bundle_orbit |  
+| bip_39_word_underscore_6 | submit_banana_stairs_bundle_orbit_suit |  
+| bip_39_word_underscore_7 | submit_banana_stairs_bundle_orbit_suit_fox |  
+| bip_39_word_underscore_8 | submit_banana_stairs_bundle_orbit_suit_fox_apart |  
+| bip_39_word_underscore_9 | submit_banana_stairs_bundle_orbit_suit_fox_apart_myth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blade |  
+| bip_39_word_dash_10 | blade-steak-gym-diet-tissue-reflect-tackle-mom-latin-language |  
+| bip_39_word_dash_11 | blade-steak-gym-diet-tissue-reflect-tackle-mom-latin-language-mixture |  
+| bip_39_word_dash_12 | blade-steak-gym-diet-tissue-reflect-tackle-mom-latin-language-mixture-arena |  
+| bip_39_word_dash_2 | blade-steak |  
+| bip_39_word_dash_3 | blade-steak-gym |  
+| bip_39_word_dash_4 | blade-steak-gym-diet |  
+| bip_39_word_dash_5 | blade-steak-gym-diet-tissue |  
+| bip_39_word_dash_6 | blade-steak-gym-diet-tissue-reflect |  
+| bip_39_word_dash_7 | blade-steak-gym-diet-tissue-reflect-tackle |  
+| bip_39_word_dash_8 | blade-steak-gym-diet-tissue-reflect-tackle-mom |  
+| bip_39_word_dash_9 | blade-steak-gym-diet-tissue-reflect-tackle-mom-latin |  
 | bip_39_word_new_br_1 | blade |  
 | bip_39_word_new_br_10 | blade<br>steak<br>gym<br>diet<br>tissue<br>reflect<br>tackle<br>mom<br>latin<br>language |  
 | bip_39_word_new_br_11 | blade<br>steak<br>gym<br>diet<br>tissue<br>reflect<br>tackle<br>mom<br>latin<br>language<br>mixture |  
@@ -147,6 +159,18 @@ latin |
 | bip_39_word_space_7 | blade steak gym diet tissue reflect tackle |  
 | bip_39_word_space_8 | blade steak gym diet tissue reflect tackle mom |  
 | bip_39_word_space_9 | blade steak gym diet tissue reflect tackle mom latin |  
+| bip_39_word_underscore_1 | blade |  
+| bip_39_word_underscore_10 | blade_steak_gym_diet_tissue_reflect_tackle_mom_latin_language |  
+| bip_39_word_underscore_11 | blade_steak_gym_diet_tissue_reflect_tackle_mom_latin_language_mixture |  
+| bip_39_word_underscore_12 | blade_steak_gym_diet_tissue_reflect_tackle_mom_latin_language_mixture_arena |  
+| bip_39_word_underscore_2 | blade_steak |  
+| bip_39_word_underscore_3 | blade_steak_gym |  
+| bip_39_word_underscore_4 | blade_steak_gym_diet |  
+| bip_39_word_underscore_5 | blade_steak_gym_diet_tissue |  
+| bip_39_word_underscore_6 | blade_steak_gym_diet_tissue_reflect |  
+| bip_39_word_underscore_7 | blade_steak_gym_diet_tissue_reflect_tackle |  
+| bip_39_word_underscore_8 | blade_steak_gym_diet_tissue_reflect_tackle_mom |  
+| bip_39_word_underscore_9 | blade_steak_gym_diet_tissue_reflect_tackle_mom_latin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

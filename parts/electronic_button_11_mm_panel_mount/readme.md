@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vessel |  
+| bip_39_word_dash_10 | vessel-comic-measure-minute-cute-this-offer-sock-eight-recall |  
+| bip_39_word_dash_11 | vessel-comic-measure-minute-cute-this-offer-sock-eight-recall-tumble |  
+| bip_39_word_dash_12 | vessel-comic-measure-minute-cute-this-offer-sock-eight-recall-tumble-alert |  
+| bip_39_word_dash_2 | vessel-comic |  
+| bip_39_word_dash_3 | vessel-comic-measure |  
+| bip_39_word_dash_4 | vessel-comic-measure-minute |  
+| bip_39_word_dash_5 | vessel-comic-measure-minute-cute |  
+| bip_39_word_dash_6 | vessel-comic-measure-minute-cute-this |  
+| bip_39_word_dash_7 | vessel-comic-measure-minute-cute-this-offer |  
+| bip_39_word_dash_8 | vessel-comic-measure-minute-cute-this-offer-sock |  
+| bip_39_word_dash_9 | vessel-comic-measure-minute-cute-this-offer-sock-eight |  
 | bip_39_word_new_br_1 | vessel |  
 | bip_39_word_new_br_10 | vessel<br>comic<br>measure<br>minute<br>cute<br>this<br>offer<br>sock<br>eight<br>recall |  
 | bip_39_word_new_br_11 | vessel<br>comic<br>measure<br>minute<br>cute<br>this<br>offer<br>sock<br>eight<br>recall<br>tumble |  
@@ -147,6 +159,18 @@ eight |
 | bip_39_word_space_7 | vessel comic measure minute cute this offer |  
 | bip_39_word_space_8 | vessel comic measure minute cute this offer sock |  
 | bip_39_word_space_9 | vessel comic measure minute cute this offer sock eight |  
+| bip_39_word_underscore_1 | vessel |  
+| bip_39_word_underscore_10 | vessel_comic_measure_minute_cute_this_offer_sock_eight_recall |  
+| bip_39_word_underscore_11 | vessel_comic_measure_minute_cute_this_offer_sock_eight_recall_tumble |  
+| bip_39_word_underscore_12 | vessel_comic_measure_minute_cute_this_offer_sock_eight_recall_tumble_alert |  
+| bip_39_word_underscore_2 | vessel_comic |  
+| bip_39_word_underscore_3 | vessel_comic_measure |  
+| bip_39_word_underscore_4 | vessel_comic_measure_minute |  
+| bip_39_word_underscore_5 | vessel_comic_measure_minute_cute |  
+| bip_39_word_underscore_6 | vessel_comic_measure_minute_cute_this |  
+| bip_39_word_underscore_7 | vessel_comic_measure_minute_cute_this_offer |  
+| bip_39_word_underscore_8 | vessel_comic_measure_minute_cute_this_offer_sock |  
+| bip_39_word_underscore_9 | vessel_comic_measure_minute_cute_this_offer_sock_eight |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

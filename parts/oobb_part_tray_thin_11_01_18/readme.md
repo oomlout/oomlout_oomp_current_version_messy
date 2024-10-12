@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | physical |  
+| bip_39_word_dash_10 | physical-bottom-spatial-rubber-expect-mosquito-camera-nominee-solution-health |  
+| bip_39_word_dash_11 | physical-bottom-spatial-rubber-expect-mosquito-camera-nominee-solution-health-trouble |  
+| bip_39_word_dash_12 | physical-bottom-spatial-rubber-expect-mosquito-camera-nominee-solution-health-trouble-audit |  
+| bip_39_word_dash_2 | physical-bottom |  
+| bip_39_word_dash_3 | physical-bottom-spatial |  
+| bip_39_word_dash_4 | physical-bottom-spatial-rubber |  
+| bip_39_word_dash_5 | physical-bottom-spatial-rubber-expect |  
+| bip_39_word_dash_6 | physical-bottom-spatial-rubber-expect-mosquito |  
+| bip_39_word_dash_7 | physical-bottom-spatial-rubber-expect-mosquito-camera |  
+| bip_39_word_dash_8 | physical-bottom-spatial-rubber-expect-mosquito-camera-nominee |  
+| bip_39_word_dash_9 | physical-bottom-spatial-rubber-expect-mosquito-camera-nominee-solution |  
 | bip_39_word_new_br_1 | physical |  
 | bip_39_word_new_br_10 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee<br>solution<br>health |  
 | bip_39_word_new_br_11 | physical<br>bottom<br>spatial<br>rubber<br>expect<br>mosquito<br>camera<br>nominee<br>solution<br>health<br>trouble |  
@@ -147,6 +159,18 @@ solution |
 | bip_39_word_space_7 | physical bottom spatial rubber expect mosquito camera |  
 | bip_39_word_space_8 | physical bottom spatial rubber expect mosquito camera nominee |  
 | bip_39_word_space_9 | physical bottom spatial rubber expect mosquito camera nominee solution |  
+| bip_39_word_underscore_1 | physical |  
+| bip_39_word_underscore_10 | physical_bottom_spatial_rubber_expect_mosquito_camera_nominee_solution_health |  
+| bip_39_word_underscore_11 | physical_bottom_spatial_rubber_expect_mosquito_camera_nominee_solution_health_trouble |  
+| bip_39_word_underscore_12 | physical_bottom_spatial_rubber_expect_mosquito_camera_nominee_solution_health_trouble_audit |  
+| bip_39_word_underscore_2 | physical_bottom |  
+| bip_39_word_underscore_3 | physical_bottom_spatial |  
+| bip_39_word_underscore_4 | physical_bottom_spatial_rubber |  
+| bip_39_word_underscore_5 | physical_bottom_spatial_rubber_expect |  
+| bip_39_word_underscore_6 | physical_bottom_spatial_rubber_expect_mosquito |  
+| bip_39_word_underscore_7 | physical_bottom_spatial_rubber_expect_mosquito_camera |  
+| bip_39_word_underscore_8 | physical_bottom_spatial_rubber_expect_mosquito_camera_nominee |  
+| bip_39_word_underscore_9 | physical_bottom_spatial_rubber_expect_mosquito_camera_nominee_solution |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

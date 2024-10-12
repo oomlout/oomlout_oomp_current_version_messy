@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wait |  
+| bip_39_word_dash_10 | wait-ski-entire-mixed-sort-shoot-bundle-meadow-random-sustain |  
+| bip_39_word_dash_11 | wait-ski-entire-mixed-sort-shoot-bundle-meadow-random-sustain-whip |  
+| bip_39_word_dash_12 | wait-ski-entire-mixed-sort-shoot-bundle-meadow-random-sustain-whip-autumn |  
+| bip_39_word_dash_2 | wait-ski |  
+| bip_39_word_dash_3 | wait-ski-entire |  
+| bip_39_word_dash_4 | wait-ski-entire-mixed |  
+| bip_39_word_dash_5 | wait-ski-entire-mixed-sort |  
+| bip_39_word_dash_6 | wait-ski-entire-mixed-sort-shoot |  
+| bip_39_word_dash_7 | wait-ski-entire-mixed-sort-shoot-bundle |  
+| bip_39_word_dash_8 | wait-ski-entire-mixed-sort-shoot-bundle-meadow |  
+| bip_39_word_dash_9 | wait-ski-entire-mixed-sort-shoot-bundle-meadow-random |  
 | bip_39_word_new_br_1 | wait |  
 | bip_39_word_new_br_10 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain |  
 | bip_39_word_new_br_11 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain<br>whip |  
@@ -147,6 +159,18 @@ random |
 | bip_39_word_space_7 | wait ski entire mixed sort shoot bundle |  
 | bip_39_word_space_8 | wait ski entire mixed sort shoot bundle meadow |  
 | bip_39_word_space_9 | wait ski entire mixed sort shoot bundle meadow random |  
+| bip_39_word_underscore_1 | wait |  
+| bip_39_word_underscore_10 | wait_ski_entire_mixed_sort_shoot_bundle_meadow_random_sustain |  
+| bip_39_word_underscore_11 | wait_ski_entire_mixed_sort_shoot_bundle_meadow_random_sustain_whip |  
+| bip_39_word_underscore_12 | wait_ski_entire_mixed_sort_shoot_bundle_meadow_random_sustain_whip_autumn |  
+| bip_39_word_underscore_2 | wait_ski |  
+| bip_39_word_underscore_3 | wait_ski_entire |  
+| bip_39_word_underscore_4 | wait_ski_entire_mixed |  
+| bip_39_word_underscore_5 | wait_ski_entire_mixed_sort |  
+| bip_39_word_underscore_6 | wait_ski_entire_mixed_sort_shoot |  
+| bip_39_word_underscore_7 | wait_ski_entire_mixed_sort_shoot_bundle |  
+| bip_39_word_underscore_8 | wait_ski_entire_mixed_sort_shoot_bundle_meadow |  
+| bip_39_word_underscore_9 | wait_ski_entire_mixed_sort_shoot_bundle_meadow_random |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

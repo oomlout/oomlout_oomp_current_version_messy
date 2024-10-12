@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | protect |  
+| bip_39_word_dash_10 | protect-skull-predict-always-swarm-train-hard-client-quick-soap |  
+| bip_39_word_dash_11 | protect-skull-predict-always-swarm-train-hard-client-quick-soap-seek |  
+| bip_39_word_dash_12 | protect-skull-predict-always-swarm-train-hard-client-quick-soap-seek-acid |  
+| bip_39_word_dash_2 | protect-skull |  
+| bip_39_word_dash_3 | protect-skull-predict |  
+| bip_39_word_dash_4 | protect-skull-predict-always |  
+| bip_39_word_dash_5 | protect-skull-predict-always-swarm |  
+| bip_39_word_dash_6 | protect-skull-predict-always-swarm-train |  
+| bip_39_word_dash_7 | protect-skull-predict-always-swarm-train-hard |  
+| bip_39_word_dash_8 | protect-skull-predict-always-swarm-train-hard-client |  
+| bip_39_word_dash_9 | protect-skull-predict-always-swarm-train-hard-client-quick |  
 | bip_39_word_new_br_1 | protect |  
 | bip_39_word_new_br_10 | protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client<br>quick<br>soap |  
 | bip_39_word_new_br_11 | protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client<br>quick<br>soap<br>seek |  
@@ -147,6 +159,18 @@ quick |
 | bip_39_word_space_7 | protect skull predict always swarm train hard |  
 | bip_39_word_space_8 | protect skull predict always swarm train hard client |  
 | bip_39_word_space_9 | protect skull predict always swarm train hard client quick |  
+| bip_39_word_underscore_1 | protect |  
+| bip_39_word_underscore_10 | protect_skull_predict_always_swarm_train_hard_client_quick_soap |  
+| bip_39_word_underscore_11 | protect_skull_predict_always_swarm_train_hard_client_quick_soap_seek |  
+| bip_39_word_underscore_12 | protect_skull_predict_always_swarm_train_hard_client_quick_soap_seek_acid |  
+| bip_39_word_underscore_2 | protect_skull |  
+| bip_39_word_underscore_3 | protect_skull_predict |  
+| bip_39_word_underscore_4 | protect_skull_predict_always |  
+| bip_39_word_underscore_5 | protect_skull_predict_always_swarm |  
+| bip_39_word_underscore_6 | protect_skull_predict_always_swarm_train |  
+| bip_39_word_underscore_7 | protect_skull_predict_always_swarm_train_hard |  
+| bip_39_word_underscore_8 | protect_skull_predict_always_swarm_train_hard_client |  
+| bip_39_word_underscore_9 | protect_skull_predict_always_swarm_train_hard_client_quick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

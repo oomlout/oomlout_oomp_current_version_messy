@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spy |  
+| bip_39_word_dash_10 | spy-dignity-aerobic-call-cannon-this-exotic-surge-curious-thought |  
+| bip_39_word_dash_11 | spy-dignity-aerobic-call-cannon-this-exotic-surge-curious-thought-garment |  
+| bip_39_word_dash_12 | spy-dignity-aerobic-call-cannon-this-exotic-surge-curious-thought-garment-admit |  
+| bip_39_word_dash_2 | spy-dignity |  
+| bip_39_word_dash_3 | spy-dignity-aerobic |  
+| bip_39_word_dash_4 | spy-dignity-aerobic-call |  
+| bip_39_word_dash_5 | spy-dignity-aerobic-call-cannon |  
+| bip_39_word_dash_6 | spy-dignity-aerobic-call-cannon-this |  
+| bip_39_word_dash_7 | spy-dignity-aerobic-call-cannon-this-exotic |  
+| bip_39_word_dash_8 | spy-dignity-aerobic-call-cannon-this-exotic-surge |  
+| bip_39_word_dash_9 | spy-dignity-aerobic-call-cannon-this-exotic-surge-curious |  
 | bip_39_word_new_br_1 | spy |  
 | bip_39_word_new_br_10 | spy<br>dignity<br>aerobic<br>call<br>cannon<br>this<br>exotic<br>surge<br>curious<br>thought |  
 | bip_39_word_new_br_11 | spy<br>dignity<br>aerobic<br>call<br>cannon<br>this<br>exotic<br>surge<br>curious<br>thought<br>garment |  
@@ -147,6 +159,18 @@ curious |
 | bip_39_word_space_7 | spy dignity aerobic call cannon this exotic |  
 | bip_39_word_space_8 | spy dignity aerobic call cannon this exotic surge |  
 | bip_39_word_space_9 | spy dignity aerobic call cannon this exotic surge curious |  
+| bip_39_word_underscore_1 | spy |  
+| bip_39_word_underscore_10 | spy_dignity_aerobic_call_cannon_this_exotic_surge_curious_thought |  
+| bip_39_word_underscore_11 | spy_dignity_aerobic_call_cannon_this_exotic_surge_curious_thought_garment |  
+| bip_39_word_underscore_12 | spy_dignity_aerobic_call_cannon_this_exotic_surge_curious_thought_garment_admit |  
+| bip_39_word_underscore_2 | spy_dignity |  
+| bip_39_word_underscore_3 | spy_dignity_aerobic |  
+| bip_39_word_underscore_4 | spy_dignity_aerobic_call |  
+| bip_39_word_underscore_5 | spy_dignity_aerobic_call_cannon |  
+| bip_39_word_underscore_6 | spy_dignity_aerobic_call_cannon_this |  
+| bip_39_word_underscore_7 | spy_dignity_aerobic_call_cannon_this_exotic |  
+| bip_39_word_underscore_8 | spy_dignity_aerobic_call_cannon_this_exotic_surge |  
+| bip_39_word_underscore_9 | spy_dignity_aerobic_call_cannon_this_exotic_surge_curious |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

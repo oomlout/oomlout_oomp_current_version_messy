@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cabin |  
+| bip_39_word_dash_10 | cabin-long-vicious-reward-mixed-ship-forum-scheme-february-salmon |  
+| bip_39_word_dash_11 | cabin-long-vicious-reward-mixed-ship-forum-scheme-february-salmon-vote |  
+| bip_39_word_dash_12 | cabin-long-vicious-reward-mixed-ship-forum-scheme-february-salmon-vote-apart |  
+| bip_39_word_dash_2 | cabin-long |  
+| bip_39_word_dash_3 | cabin-long-vicious |  
+| bip_39_word_dash_4 | cabin-long-vicious-reward |  
+| bip_39_word_dash_5 | cabin-long-vicious-reward-mixed |  
+| bip_39_word_dash_6 | cabin-long-vicious-reward-mixed-ship |  
+| bip_39_word_dash_7 | cabin-long-vicious-reward-mixed-ship-forum |  
+| bip_39_word_dash_8 | cabin-long-vicious-reward-mixed-ship-forum-scheme |  
+| bip_39_word_dash_9 | cabin-long-vicious-reward-mixed-ship-forum-scheme-february |  
 | bip_39_word_new_br_1 | cabin |  
 | bip_39_word_new_br_10 | cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme<br>february<br>salmon |  
 | bip_39_word_new_br_11 | cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme<br>february<br>salmon<br>vote |  
@@ -147,6 +159,18 @@ february |
 | bip_39_word_space_7 | cabin long vicious reward mixed ship forum |  
 | bip_39_word_space_8 | cabin long vicious reward mixed ship forum scheme |  
 | bip_39_word_space_9 | cabin long vicious reward mixed ship forum scheme february |  
+| bip_39_word_underscore_1 | cabin |  
+| bip_39_word_underscore_10 | cabin_long_vicious_reward_mixed_ship_forum_scheme_february_salmon |  
+| bip_39_word_underscore_11 | cabin_long_vicious_reward_mixed_ship_forum_scheme_february_salmon_vote |  
+| bip_39_word_underscore_12 | cabin_long_vicious_reward_mixed_ship_forum_scheme_february_salmon_vote_apart |  
+| bip_39_word_underscore_2 | cabin_long |  
+| bip_39_word_underscore_3 | cabin_long_vicious |  
+| bip_39_word_underscore_4 | cabin_long_vicious_reward |  
+| bip_39_word_underscore_5 | cabin_long_vicious_reward_mixed |  
+| bip_39_word_underscore_6 | cabin_long_vicious_reward_mixed_ship |  
+| bip_39_word_underscore_7 | cabin_long_vicious_reward_mixed_ship_forum |  
+| bip_39_word_underscore_8 | cabin_long_vicious_reward_mixed_ship_forum_scheme |  
+| bip_39_word_underscore_9 | cabin_long_vicious_reward_mixed_ship_forum_scheme_february |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

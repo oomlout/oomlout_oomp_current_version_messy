@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | obvious |  
+| bip_39_word_dash_10 | obvious-lake-fuel-media-column-oven-logic-enter-render-say |  
+| bip_39_word_dash_11 | obvious-lake-fuel-media-column-oven-logic-enter-render-say-purchase |  
+| bip_39_word_dash_12 | obvious-lake-fuel-media-column-oven-logic-enter-render-say-purchase-adjust |  
+| bip_39_word_dash_2 | obvious-lake |  
+| bip_39_word_dash_3 | obvious-lake-fuel |  
+| bip_39_word_dash_4 | obvious-lake-fuel-media |  
+| bip_39_word_dash_5 | obvious-lake-fuel-media-column |  
+| bip_39_word_dash_6 | obvious-lake-fuel-media-column-oven |  
+| bip_39_word_dash_7 | obvious-lake-fuel-media-column-oven-logic |  
+| bip_39_word_dash_8 | obvious-lake-fuel-media-column-oven-logic-enter |  
+| bip_39_word_dash_9 | obvious-lake-fuel-media-column-oven-logic-enter-render |  
 | bip_39_word_new_br_1 | obvious |  
 | bip_39_word_new_br_10 | obvious<br>lake<br>fuel<br>media<br>column<br>oven<br>logic<br>enter<br>render<br>say |  
 | bip_39_word_new_br_11 | obvious<br>lake<br>fuel<br>media<br>column<br>oven<br>logic<br>enter<br>render<br>say<br>purchase |  
@@ -147,6 +159,18 @@ render |
 | bip_39_word_space_7 | obvious lake fuel media column oven logic |  
 | bip_39_word_space_8 | obvious lake fuel media column oven logic enter |  
 | bip_39_word_space_9 | obvious lake fuel media column oven logic enter render |  
+| bip_39_word_underscore_1 | obvious |  
+| bip_39_word_underscore_10 | obvious_lake_fuel_media_column_oven_logic_enter_render_say |  
+| bip_39_word_underscore_11 | obvious_lake_fuel_media_column_oven_logic_enter_render_say_purchase |  
+| bip_39_word_underscore_12 | obvious_lake_fuel_media_column_oven_logic_enter_render_say_purchase_adjust |  
+| bip_39_word_underscore_2 | obvious_lake |  
+| bip_39_word_underscore_3 | obvious_lake_fuel |  
+| bip_39_word_underscore_4 | obvious_lake_fuel_media |  
+| bip_39_word_underscore_5 | obvious_lake_fuel_media_column |  
+| bip_39_word_underscore_6 | obvious_lake_fuel_media_column_oven |  
+| bip_39_word_underscore_7 | obvious_lake_fuel_media_column_oven_logic |  
+| bip_39_word_underscore_8 | obvious_lake_fuel_media_column_oven_logic_enter |  
+| bip_39_word_underscore_9 | obvious_lake_fuel_media_column_oven_logic_enter_render |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

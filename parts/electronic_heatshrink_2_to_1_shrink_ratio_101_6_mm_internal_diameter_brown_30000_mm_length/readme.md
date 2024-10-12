@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hint |  
+| bip_39_word_dash_10 | hint-expand-lobster-vault-gloom-scan-letter-velvet-edge-side |  
+| bip_39_word_dash_11 | hint-expand-lobster-vault-gloom-scan-letter-velvet-edge-side-lady |  
+| bip_39_word_dash_12 | hint-expand-lobster-vault-gloom-scan-letter-velvet-edge-side-lady-agree |  
+| bip_39_word_dash_2 | hint-expand |  
+| bip_39_word_dash_3 | hint-expand-lobster |  
+| bip_39_word_dash_4 | hint-expand-lobster-vault |  
+| bip_39_word_dash_5 | hint-expand-lobster-vault-gloom |  
+| bip_39_word_dash_6 | hint-expand-lobster-vault-gloom-scan |  
+| bip_39_word_dash_7 | hint-expand-lobster-vault-gloom-scan-letter |  
+| bip_39_word_dash_8 | hint-expand-lobster-vault-gloom-scan-letter-velvet |  
+| bip_39_word_dash_9 | hint-expand-lobster-vault-gloom-scan-letter-velvet-edge |  
 | bip_39_word_new_br_1 | hint |  
 | bip_39_word_new_br_10 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge<br>side |  
 | bip_39_word_new_br_11 | hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge<br>side<br>lady |  
@@ -147,6 +159,18 @@ edge |
 | bip_39_word_space_7 | hint expand lobster vault gloom scan letter |  
 | bip_39_word_space_8 | hint expand lobster vault gloom scan letter velvet |  
 | bip_39_word_space_9 | hint expand lobster vault gloom scan letter velvet edge |  
+| bip_39_word_underscore_1 | hint |  
+| bip_39_word_underscore_10 | hint_expand_lobster_vault_gloom_scan_letter_velvet_edge_side |  
+| bip_39_word_underscore_11 | hint_expand_lobster_vault_gloom_scan_letter_velvet_edge_side_lady |  
+| bip_39_word_underscore_12 | hint_expand_lobster_vault_gloom_scan_letter_velvet_edge_side_lady_agree |  
+| bip_39_word_underscore_2 | hint_expand |  
+| bip_39_word_underscore_3 | hint_expand_lobster |  
+| bip_39_word_underscore_4 | hint_expand_lobster_vault |  
+| bip_39_word_underscore_5 | hint_expand_lobster_vault_gloom |  
+| bip_39_word_underscore_6 | hint_expand_lobster_vault_gloom_scan |  
+| bip_39_word_underscore_7 | hint_expand_lobster_vault_gloom_scan_letter |  
+| bip_39_word_underscore_8 | hint_expand_lobster_vault_gloom_scan_letter_velvet |  
+| bip_39_word_underscore_9 | hint_expand_lobster_vault_gloom_scan_letter_velvet_edge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

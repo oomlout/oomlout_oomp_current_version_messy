@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gym
+bip_39_word_dash_10: gym-egg-brand-joke-art-mutual-robot-transfer-actress-episode
+bip_39_word_dash_11: gym-egg-brand-joke-art-mutual-robot-transfer-actress-episode-resource
+bip_39_word_dash_12: gym-egg-brand-joke-art-mutual-robot-transfer-actress-episode-resource-afraid
+bip_39_word_dash_2: gym-egg
+bip_39_word_dash_3: gym-egg-brand
+bip_39_word_dash_4: gym-egg-brand-joke
+bip_39_word_dash_5: gym-egg-brand-joke-art
+bip_39_word_dash_6: gym-egg-brand-joke-art-mutual
+bip_39_word_dash_7: gym-egg-brand-joke-art-mutual-robot
+bip_39_word_dash_8: gym-egg-brand-joke-art-mutual-robot-transfer
+bip_39_word_dash_9: gym-egg-brand-joke-art-mutual-robot-transfer-actress
 bip_39_word_new_br_1: gym
 bip_39_word_new_br_10: gym<br>egg<br>brand<br>joke<br>art<br>mutual<br>robot<br>transfer<br>actress<br>episode
 bip_39_word_new_br_11: gym<br>egg<br>brand<br>joke<br>art<br>mutual<br>robot<br>transfer<br>actress<br>episode<br>resource
@@ -193,6 +205,18 @@ bip_39_word_space_6: gym egg brand joke art mutual
 bip_39_word_space_7: gym egg brand joke art mutual robot
 bip_39_word_space_8: gym egg brand joke art mutual robot transfer
 bip_39_word_space_9: gym egg brand joke art mutual robot transfer actress
+bip_39_word_underscore_1: gym
+bip_39_word_underscore_10: gym_egg_brand_joke_art_mutual_robot_transfer_actress_episode
+bip_39_word_underscore_11: gym_egg_brand_joke_art_mutual_robot_transfer_actress_episode_resource
+bip_39_word_underscore_12: gym_egg_brand_joke_art_mutual_robot_transfer_actress_episode_resource_afraid
+bip_39_word_underscore_2: gym_egg
+bip_39_word_underscore_3: gym_egg_brand
+bip_39_word_underscore_4: gym_egg_brand_joke
+bip_39_word_underscore_5: gym_egg_brand_joke_art
+bip_39_word_underscore_6: gym_egg_brand_joke_art_mutual
+bip_39_word_underscore_7: gym_egg_brand_joke_art_mutual_robot
+bip_39_word_underscore_8: gym_egg_brand_joke_art_mutual_robot_transfer
+bip_39_word_underscore_9: gym_egg_brand_joke_art_mutual_robot_transfer_actress
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

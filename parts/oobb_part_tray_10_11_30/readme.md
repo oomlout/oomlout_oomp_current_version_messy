@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lava |  
+| bip_39_word_dash_10 | lava-cricket-fruit-elder-suggest-thought-worry-clean-foot-green |  
+| bip_39_word_dash_11 | lava-cricket-fruit-elder-suggest-thought-worry-clean-foot-green-smile |  
+| bip_39_word_dash_12 | lava-cricket-fruit-elder-suggest-thought-worry-clean-foot-green-smile-assume |  
+| bip_39_word_dash_2 | lava-cricket |  
+| bip_39_word_dash_3 | lava-cricket-fruit |  
+| bip_39_word_dash_4 | lava-cricket-fruit-elder |  
+| bip_39_word_dash_5 | lava-cricket-fruit-elder-suggest |  
+| bip_39_word_dash_6 | lava-cricket-fruit-elder-suggest-thought |  
+| bip_39_word_dash_7 | lava-cricket-fruit-elder-suggest-thought-worry |  
+| bip_39_word_dash_8 | lava-cricket-fruit-elder-suggest-thought-worry-clean |  
+| bip_39_word_dash_9 | lava-cricket-fruit-elder-suggest-thought-worry-clean-foot |  
 | bip_39_word_new_br_1 | lava |  
 | bip_39_word_new_br_10 | lava<br>cricket<br>fruit<br>elder<br>suggest<br>thought<br>worry<br>clean<br>foot<br>green |  
 | bip_39_word_new_br_11 | lava<br>cricket<br>fruit<br>elder<br>suggest<br>thought<br>worry<br>clean<br>foot<br>green<br>smile |  
@@ -147,6 +159,18 @@ foot |
 | bip_39_word_space_7 | lava cricket fruit elder suggest thought worry |  
 | bip_39_word_space_8 | lava cricket fruit elder suggest thought worry clean |  
 | bip_39_word_space_9 | lava cricket fruit elder suggest thought worry clean foot |  
+| bip_39_word_underscore_1 | lava |  
+| bip_39_word_underscore_10 | lava_cricket_fruit_elder_suggest_thought_worry_clean_foot_green |  
+| bip_39_word_underscore_11 | lava_cricket_fruit_elder_suggest_thought_worry_clean_foot_green_smile |  
+| bip_39_word_underscore_12 | lava_cricket_fruit_elder_suggest_thought_worry_clean_foot_green_smile_assume |  
+| bip_39_word_underscore_2 | lava_cricket |  
+| bip_39_word_underscore_3 | lava_cricket_fruit |  
+| bip_39_word_underscore_4 | lava_cricket_fruit_elder |  
+| bip_39_word_underscore_5 | lava_cricket_fruit_elder_suggest |  
+| bip_39_word_underscore_6 | lava_cricket_fruit_elder_suggest_thought |  
+| bip_39_word_underscore_7 | lava_cricket_fruit_elder_suggest_thought_worry |  
+| bip_39_word_underscore_8 | lava_cricket_fruit_elder_suggest_thought_worry_clean |  
+| bip_39_word_underscore_9 | lava_cricket_fruit_elder_suggest_thought_worry_clean_foot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

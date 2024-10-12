@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | summer |  
+| bip_39_word_dash_10 | summer-pet-seed-picture-rug-sister-acid-clown-quarter-visual |  
+| bip_39_word_dash_11 | summer-pet-seed-picture-rug-sister-acid-clown-quarter-visual-wonder |  
+| bip_39_word_dash_12 | summer-pet-seed-picture-rug-sister-acid-clown-quarter-visual-wonder-afford |  
+| bip_39_word_dash_2 | summer-pet |  
+| bip_39_word_dash_3 | summer-pet-seed |  
+| bip_39_word_dash_4 | summer-pet-seed-picture |  
+| bip_39_word_dash_5 | summer-pet-seed-picture-rug |  
+| bip_39_word_dash_6 | summer-pet-seed-picture-rug-sister |  
+| bip_39_word_dash_7 | summer-pet-seed-picture-rug-sister-acid |  
+| bip_39_word_dash_8 | summer-pet-seed-picture-rug-sister-acid-clown |  
+| bip_39_word_dash_9 | summer-pet-seed-picture-rug-sister-acid-clown-quarter |  
 | bip_39_word_new_br_1 | summer |  
 | bip_39_word_new_br_10 | summer<br>pet<br>seed<br>picture<br>rug<br>sister<br>acid<br>clown<br>quarter<br>visual |  
 | bip_39_word_new_br_11 | summer<br>pet<br>seed<br>picture<br>rug<br>sister<br>acid<br>clown<br>quarter<br>visual<br>wonder |  
@@ -147,6 +159,18 @@ quarter |
 | bip_39_word_space_7 | summer pet seed picture rug sister acid |  
 | bip_39_word_space_8 | summer pet seed picture rug sister acid clown |  
 | bip_39_word_space_9 | summer pet seed picture rug sister acid clown quarter |  
+| bip_39_word_underscore_1 | summer |  
+| bip_39_word_underscore_10 | summer_pet_seed_picture_rug_sister_acid_clown_quarter_visual |  
+| bip_39_word_underscore_11 | summer_pet_seed_picture_rug_sister_acid_clown_quarter_visual_wonder |  
+| bip_39_word_underscore_12 | summer_pet_seed_picture_rug_sister_acid_clown_quarter_visual_wonder_afford |  
+| bip_39_word_underscore_2 | summer_pet |  
+| bip_39_word_underscore_3 | summer_pet_seed |  
+| bip_39_word_underscore_4 | summer_pet_seed_picture |  
+| bip_39_word_underscore_5 | summer_pet_seed_picture_rug |  
+| bip_39_word_underscore_6 | summer_pet_seed_picture_rug_sister |  
+| bip_39_word_underscore_7 | summer_pet_seed_picture_rug_sister_acid |  
+| bip_39_word_underscore_8 | summer_pet_seed_picture_rug_sister_acid_clown |  
+| bip_39_word_underscore_9 | summer_pet_seed_picture_rug_sister_acid_clown_quarter |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

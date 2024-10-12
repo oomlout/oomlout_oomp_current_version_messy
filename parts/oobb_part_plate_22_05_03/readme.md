@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | away |  
+| bip_39_word_dash_10 | away-say-best-educate-trim-repair-chase-wear-space-universe |  
+| bip_39_word_dash_11 | away-say-best-educate-trim-repair-chase-wear-space-universe-obey |  
+| bip_39_word_dash_12 | away-say-best-educate-trim-repair-chase-wear-space-universe-obey-again |  
+| bip_39_word_dash_2 | away-say |  
+| bip_39_word_dash_3 | away-say-best |  
+| bip_39_word_dash_4 | away-say-best-educate |  
+| bip_39_word_dash_5 | away-say-best-educate-trim |  
+| bip_39_word_dash_6 | away-say-best-educate-trim-repair |  
+| bip_39_word_dash_7 | away-say-best-educate-trim-repair-chase |  
+| bip_39_word_dash_8 | away-say-best-educate-trim-repair-chase-wear |  
+| bip_39_word_dash_9 | away-say-best-educate-trim-repair-chase-wear-space |  
 | bip_39_word_new_br_1 | away |  
 | bip_39_word_new_br_10 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear<br>space<br>universe |  
 | bip_39_word_new_br_11 | away<br>say<br>best<br>educate<br>trim<br>repair<br>chase<br>wear<br>space<br>universe<br>obey |  
@@ -147,6 +159,18 @@ space |
 | bip_39_word_space_7 | away say best educate trim repair chase |  
 | bip_39_word_space_8 | away say best educate trim repair chase wear |  
 | bip_39_word_space_9 | away say best educate trim repair chase wear space |  
+| bip_39_word_underscore_1 | away |  
+| bip_39_word_underscore_10 | away_say_best_educate_trim_repair_chase_wear_space_universe |  
+| bip_39_word_underscore_11 | away_say_best_educate_trim_repair_chase_wear_space_universe_obey |  
+| bip_39_word_underscore_12 | away_say_best_educate_trim_repair_chase_wear_space_universe_obey_again |  
+| bip_39_word_underscore_2 | away_say |  
+| bip_39_word_underscore_3 | away_say_best |  
+| bip_39_word_underscore_4 | away_say_best_educate |  
+| bip_39_word_underscore_5 | away_say_best_educate_trim |  
+| bip_39_word_underscore_6 | away_say_best_educate_trim_repair |  
+| bip_39_word_underscore_7 | away_say_best_educate_trim_repair_chase |  
+| bip_39_word_underscore_8 | away_say_best_educate_trim_repair_chase_wear |  
+| bip_39_word_underscore_9 | away_say_best_educate_trim_repair_chase_wear_space |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

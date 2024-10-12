@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | switch |  
+| bip_39_word_dash_10 | switch-all-source-culture-prevent-link-town-gossip-cake-shrug |  
+| bip_39_word_dash_11 | switch-all-source-culture-prevent-link-town-gossip-cake-shrug-duck |  
+| bip_39_word_dash_12 | switch-all-source-culture-prevent-link-town-gossip-cake-shrug-duck-apart |  
+| bip_39_word_dash_2 | switch-all |  
+| bip_39_word_dash_3 | switch-all-source |  
+| bip_39_word_dash_4 | switch-all-source-culture |  
+| bip_39_word_dash_5 | switch-all-source-culture-prevent |  
+| bip_39_word_dash_6 | switch-all-source-culture-prevent-link |  
+| bip_39_word_dash_7 | switch-all-source-culture-prevent-link-town |  
+| bip_39_word_dash_8 | switch-all-source-culture-prevent-link-town-gossip |  
+| bip_39_word_dash_9 | switch-all-source-culture-prevent-link-town-gossip-cake |  
 | bip_39_word_new_br_1 | switch |  
 | bip_39_word_new_br_10 | switch<br>all<br>source<br>culture<br>prevent<br>link<br>town<br>gossip<br>cake<br>shrug |  
 | bip_39_word_new_br_11 | switch<br>all<br>source<br>culture<br>prevent<br>link<br>town<br>gossip<br>cake<br>shrug<br>duck |  
@@ -147,6 +159,18 @@ cake |
 | bip_39_word_space_7 | switch all source culture prevent link town |  
 | bip_39_word_space_8 | switch all source culture prevent link town gossip |  
 | bip_39_word_space_9 | switch all source culture prevent link town gossip cake |  
+| bip_39_word_underscore_1 | switch |  
+| bip_39_word_underscore_10 | switch_all_source_culture_prevent_link_town_gossip_cake_shrug |  
+| bip_39_word_underscore_11 | switch_all_source_culture_prevent_link_town_gossip_cake_shrug_duck |  
+| bip_39_word_underscore_12 | switch_all_source_culture_prevent_link_town_gossip_cake_shrug_duck_apart |  
+| bip_39_word_underscore_2 | switch_all |  
+| bip_39_word_underscore_3 | switch_all_source |  
+| bip_39_word_underscore_4 | switch_all_source_culture |  
+| bip_39_word_underscore_5 | switch_all_source_culture_prevent |  
+| bip_39_word_underscore_6 | switch_all_source_culture_prevent_link |  
+| bip_39_word_underscore_7 | switch_all_source_culture_prevent_link_town |  
+| bip_39_word_underscore_8 | switch_all_source_culture_prevent_link_town_gossip |  
+| bip_39_word_underscore_9 | switch_all_source_culture_prevent_link_town_gossip_cake |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | olympic |  
+| bip_39_word_dash_10 | olympic-combine-switch-sunny-hawk-rigid-night-cigar-student-adult |  
+| bip_39_word_dash_11 | olympic-combine-switch-sunny-hawk-rigid-night-cigar-student-adult-prevent |  
+| bip_39_word_dash_12 | olympic-combine-switch-sunny-hawk-rigid-night-cigar-student-adult-prevent-attract |  
+| bip_39_word_dash_2 | olympic-combine |  
+| bip_39_word_dash_3 | olympic-combine-switch |  
+| bip_39_word_dash_4 | olympic-combine-switch-sunny |  
+| bip_39_word_dash_5 | olympic-combine-switch-sunny-hawk |  
+| bip_39_word_dash_6 | olympic-combine-switch-sunny-hawk-rigid |  
+| bip_39_word_dash_7 | olympic-combine-switch-sunny-hawk-rigid-night |  
+| bip_39_word_dash_8 | olympic-combine-switch-sunny-hawk-rigid-night-cigar |  
+| bip_39_word_dash_9 | olympic-combine-switch-sunny-hawk-rigid-night-cigar-student |  
 | bip_39_word_new_br_1 | olympic |  
 | bip_39_word_new_br_10 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar<br>student<br>adult |  
 | bip_39_word_new_br_11 | olympic<br>combine<br>switch<br>sunny<br>hawk<br>rigid<br>night<br>cigar<br>student<br>adult<br>prevent |  
@@ -147,6 +159,18 @@ student |
 | bip_39_word_space_7 | olympic combine switch sunny hawk rigid night |  
 | bip_39_word_space_8 | olympic combine switch sunny hawk rigid night cigar |  
 | bip_39_word_space_9 | olympic combine switch sunny hawk rigid night cigar student |  
+| bip_39_word_underscore_1 | olympic |  
+| bip_39_word_underscore_10 | olympic_combine_switch_sunny_hawk_rigid_night_cigar_student_adult |  
+| bip_39_word_underscore_11 | olympic_combine_switch_sunny_hawk_rigid_night_cigar_student_adult_prevent |  
+| bip_39_word_underscore_12 | olympic_combine_switch_sunny_hawk_rigid_night_cigar_student_adult_prevent_attract |  
+| bip_39_word_underscore_2 | olympic_combine |  
+| bip_39_word_underscore_3 | olympic_combine_switch |  
+| bip_39_word_underscore_4 | olympic_combine_switch_sunny |  
+| bip_39_word_underscore_5 | olympic_combine_switch_sunny_hawk |  
+| bip_39_word_underscore_6 | olympic_combine_switch_sunny_hawk_rigid |  
+| bip_39_word_underscore_7 | olympic_combine_switch_sunny_hawk_rigid_night |  
+| bip_39_word_underscore_8 | olympic_combine_switch_sunny_hawk_rigid_night_cigar |  
+| bip_39_word_underscore_9 | olympic_combine_switch_sunny_hawk_rigid_night_cigar_student |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

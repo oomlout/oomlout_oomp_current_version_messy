@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | response |  
+| bip_39_word_dash_10 | response-empower-country-corn-trumpet-steel-erode-quiz-since-first |  
+| bip_39_word_dash_11 | response-empower-country-corn-trumpet-steel-erode-quiz-since-first-glare |  
+| bip_39_word_dash_12 | response-empower-country-corn-trumpet-steel-erode-quiz-since-first-glare-afraid |  
+| bip_39_word_dash_2 | response-empower |  
+| bip_39_word_dash_3 | response-empower-country |  
+| bip_39_word_dash_4 | response-empower-country-corn |  
+| bip_39_word_dash_5 | response-empower-country-corn-trumpet |  
+| bip_39_word_dash_6 | response-empower-country-corn-trumpet-steel |  
+| bip_39_word_dash_7 | response-empower-country-corn-trumpet-steel-erode |  
+| bip_39_word_dash_8 | response-empower-country-corn-trumpet-steel-erode-quiz |  
+| bip_39_word_dash_9 | response-empower-country-corn-trumpet-steel-erode-quiz-since |  
 | bip_39_word_new_br_1 | response |  
 | bip_39_word_new_br_10 | response<br>empower<br>country<br>corn<br>trumpet<br>steel<br>erode<br>quiz<br>since<br>first |  
 | bip_39_word_new_br_11 | response<br>empower<br>country<br>corn<br>trumpet<br>steel<br>erode<br>quiz<br>since<br>first<br>glare |  
@@ -147,6 +159,18 @@ since |
 | bip_39_word_space_7 | response empower country corn trumpet steel erode |  
 | bip_39_word_space_8 | response empower country corn trumpet steel erode quiz |  
 | bip_39_word_space_9 | response empower country corn trumpet steel erode quiz since |  
+| bip_39_word_underscore_1 | response |  
+| bip_39_word_underscore_10 | response_empower_country_corn_trumpet_steel_erode_quiz_since_first |  
+| bip_39_word_underscore_11 | response_empower_country_corn_trumpet_steel_erode_quiz_since_first_glare |  
+| bip_39_word_underscore_12 | response_empower_country_corn_trumpet_steel_erode_quiz_since_first_glare_afraid |  
+| bip_39_word_underscore_2 | response_empower |  
+| bip_39_word_underscore_3 | response_empower_country |  
+| bip_39_word_underscore_4 | response_empower_country_corn |  
+| bip_39_word_underscore_5 | response_empower_country_corn_trumpet |  
+| bip_39_word_underscore_6 | response_empower_country_corn_trumpet_steel |  
+| bip_39_word_underscore_7 | response_empower_country_corn_trumpet_steel_erode |  
+| bip_39_word_underscore_8 | response_empower_country_corn_trumpet_steel_erode_quiz |  
+| bip_39_word_underscore_9 | response_empower_country_corn_trumpet_steel_erode_quiz_since |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

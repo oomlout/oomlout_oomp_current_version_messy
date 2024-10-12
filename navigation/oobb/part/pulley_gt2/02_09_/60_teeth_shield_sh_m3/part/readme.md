@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | price |  
+| bip_39_word_dash_10 | price-photo-craft-walk-young-future-kind-rent-nice-ship |  
+| bip_39_word_dash_11 | price-photo-craft-walk-young-future-kind-rent-nice-ship-drop |  
+| bip_39_word_dash_2 | price-photo |  
+| bip_39_word_dash_3 | price-photo-craft |  
+| bip_39_word_dash_4 | price-photo-craft-walk |  
+| bip_39_word_dash_5 | price-photo-craft-walk-young |  
+| bip_39_word_dash_6 | price-photo-craft-walk-young-future |  
+| bip_39_word_dash_7 | price-photo-craft-walk-young-future-kind |  
+| bip_39_word_dash_8 | price-photo-craft-walk-young-future-kind-rent |  
+| bip_39_word_dash_9 | price-photo-craft-walk-young-future-kind-rent-nice |  
 | bip_39_word_new_br_1 | price |  
 | bip_39_word_new_br_10 | price<br>photo<br>craft<br>walk<br>young<br>future<br>kind<br>rent<br>nice<br>ship |  
 | bip_39_word_new_br_11 | price<br>photo<br>craft<br>walk<br>young<br>future<br>kind<br>rent<br>nice<br>ship<br>drop |  
@@ -132,6 +143,17 @@ nice |
 | bip_39_word_space_7 | price photo craft walk young future kind |  
 | bip_39_word_space_8 | price photo craft walk young future kind rent |  
 | bip_39_word_space_9 | price photo craft walk young future kind rent nice |  
+| bip_39_word_underscore_1 | price |  
+| bip_39_word_underscore_10 | price_photo_craft_walk_young_future_kind_rent_nice_ship |  
+| bip_39_word_underscore_11 | price_photo_craft_walk_young_future_kind_rent_nice_ship_drop |  
+| bip_39_word_underscore_2 | price_photo |  
+| bip_39_word_underscore_3 | price_photo_craft |  
+| bip_39_word_underscore_4 | price_photo_craft_walk |  
+| bip_39_word_underscore_5 | price_photo_craft_walk_young |  
+| bip_39_word_underscore_6 | price_photo_craft_walk_young_future |  
+| bip_39_word_underscore_7 | price_photo_craft_walk_young_future_kind |  
+| bip_39_word_underscore_8 | price_photo_craft_walk_young_future_kind_rent |  
+| bip_39_word_underscore_9 | price_photo_craft_walk_young_future_kind_rent_nice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

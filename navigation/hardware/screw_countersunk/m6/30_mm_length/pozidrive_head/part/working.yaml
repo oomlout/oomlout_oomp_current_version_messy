@@ -1,3 +1,15 @@
+bip_39_word_dash_1: emerge
+bip_39_word_dash_10: emerge-cake-attend-noodle-bus-armor-gallery-very-team-corn
+bip_39_word_dash_11: emerge-cake-attend-noodle-bus-armor-gallery-very-team-corn-little
+bip_39_word_dash_12: emerge-cake-attend-noodle-bus-armor-gallery-very-team-corn-little-answer
+bip_39_word_dash_2: emerge-cake
+bip_39_word_dash_3: emerge-cake-attend
+bip_39_word_dash_4: emerge-cake-attend-noodle
+bip_39_word_dash_5: emerge-cake-attend-noodle-bus
+bip_39_word_dash_6: emerge-cake-attend-noodle-bus-armor
+bip_39_word_dash_7: emerge-cake-attend-noodle-bus-armor-gallery
+bip_39_word_dash_8: emerge-cake-attend-noodle-bus-armor-gallery-very
+bip_39_word_dash_9: emerge-cake-attend-noodle-bus-armor-gallery-very-team
 bip_39_word_new_br_1: emerge
 bip_39_word_new_br_10: emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn
 bip_39_word_new_br_11: emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn<br>little
@@ -192,6 +204,18 @@ bip_39_word_space_6: emerge cake attend noodle bus armor
 bip_39_word_space_7: emerge cake attend noodle bus armor gallery
 bip_39_word_space_8: emerge cake attend noodle bus armor gallery very
 bip_39_word_space_9: emerge cake attend noodle bus armor gallery very team
+bip_39_word_underscore_1: emerge
+bip_39_word_underscore_10: emerge_cake_attend_noodle_bus_armor_gallery_very_team_corn
+bip_39_word_underscore_11: emerge_cake_attend_noodle_bus_armor_gallery_very_team_corn_little
+bip_39_word_underscore_12: emerge_cake_attend_noodle_bus_armor_gallery_very_team_corn_little_answer
+bip_39_word_underscore_2: emerge_cake
+bip_39_word_underscore_3: emerge_cake_attend
+bip_39_word_underscore_4: emerge_cake_attend_noodle
+bip_39_word_underscore_5: emerge_cake_attend_noodle_bus
+bip_39_word_underscore_6: emerge_cake_attend_noodle_bus_armor
+bip_39_word_underscore_7: emerge_cake_attend_noodle_bus_armor_gallery
+bip_39_word_underscore_8: emerge_cake_attend_noodle_bus_armor_gallery_very
+bip_39_word_underscore_9: emerge_cake_attend_noodle_bus_armor_gallery_very_team
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

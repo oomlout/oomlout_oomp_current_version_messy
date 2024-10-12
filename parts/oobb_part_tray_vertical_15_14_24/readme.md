@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oyster |  
+| bip_39_word_dash_10 | oyster-town-pottery-vacant-box-aware-rose-joke-manual-frog |  
+| bip_39_word_dash_11 | oyster-town-pottery-vacant-box-aware-rose-joke-manual-frog-door |  
+| bip_39_word_dash_12 | oyster-town-pottery-vacant-box-aware-rose-joke-manual-frog-door-angry |  
+| bip_39_word_dash_2 | oyster-town |  
+| bip_39_word_dash_3 | oyster-town-pottery |  
+| bip_39_word_dash_4 | oyster-town-pottery-vacant |  
+| bip_39_word_dash_5 | oyster-town-pottery-vacant-box |  
+| bip_39_word_dash_6 | oyster-town-pottery-vacant-box-aware |  
+| bip_39_word_dash_7 | oyster-town-pottery-vacant-box-aware-rose |  
+| bip_39_word_dash_8 | oyster-town-pottery-vacant-box-aware-rose-joke |  
+| bip_39_word_dash_9 | oyster-town-pottery-vacant-box-aware-rose-joke-manual |  
 | bip_39_word_new_br_1 | oyster |  
 | bip_39_word_new_br_10 | oyster<br>town<br>pottery<br>vacant<br>box<br>aware<br>rose<br>joke<br>manual<br>frog |  
 | bip_39_word_new_br_11 | oyster<br>town<br>pottery<br>vacant<br>box<br>aware<br>rose<br>joke<br>manual<br>frog<br>door |  
@@ -147,6 +159,18 @@ manual |
 | bip_39_word_space_7 | oyster town pottery vacant box aware rose |  
 | bip_39_word_space_8 | oyster town pottery vacant box aware rose joke |  
 | bip_39_word_space_9 | oyster town pottery vacant box aware rose joke manual |  
+| bip_39_word_underscore_1 | oyster |  
+| bip_39_word_underscore_10 | oyster_town_pottery_vacant_box_aware_rose_joke_manual_frog |  
+| bip_39_word_underscore_11 | oyster_town_pottery_vacant_box_aware_rose_joke_manual_frog_door |  
+| bip_39_word_underscore_12 | oyster_town_pottery_vacant_box_aware_rose_joke_manual_frog_door_angry |  
+| bip_39_word_underscore_2 | oyster_town |  
+| bip_39_word_underscore_3 | oyster_town_pottery |  
+| bip_39_word_underscore_4 | oyster_town_pottery_vacant |  
+| bip_39_word_underscore_5 | oyster_town_pottery_vacant_box |  
+| bip_39_word_underscore_6 | oyster_town_pottery_vacant_box_aware |  
+| bip_39_word_underscore_7 | oyster_town_pottery_vacant_box_aware_rose |  
+| bip_39_word_underscore_8 | oyster_town_pottery_vacant_box_aware_rose_joke |  
+| bip_39_word_underscore_9 | oyster_town_pottery_vacant_box_aware_rose_joke_manual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

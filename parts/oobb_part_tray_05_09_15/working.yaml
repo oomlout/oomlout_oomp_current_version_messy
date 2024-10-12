@@ -1,3 +1,15 @@
+bip_39_word_dash_1: digital
+bip_39_word_dash_10: digital-odor-chicken-relax-deliver-spy-question-edge-tongue-seminar
+bip_39_word_dash_11: digital-odor-chicken-relax-deliver-spy-question-edge-tongue-seminar-upgrade
+bip_39_word_dash_12: digital-odor-chicken-relax-deliver-spy-question-edge-tongue-seminar-upgrade-account
+bip_39_word_dash_2: digital-odor
+bip_39_word_dash_3: digital-odor-chicken
+bip_39_word_dash_4: digital-odor-chicken-relax
+bip_39_word_dash_5: digital-odor-chicken-relax-deliver
+bip_39_word_dash_6: digital-odor-chicken-relax-deliver-spy
+bip_39_word_dash_7: digital-odor-chicken-relax-deliver-spy-question
+bip_39_word_dash_8: digital-odor-chicken-relax-deliver-spy-question-edge
+bip_39_word_dash_9: digital-odor-chicken-relax-deliver-spy-question-edge-tongue
 bip_39_word_new_br_1: digital
 bip_39_word_new_br_10: digital<br>odor<br>chicken<br>relax<br>deliver<br>spy<br>question<br>edge<br>tongue<br>seminar
 bip_39_word_new_br_11: digital<br>odor<br>chicken<br>relax<br>deliver<br>spy<br>question<br>edge<br>tongue<br>seminar<br>upgrade
@@ -194,6 +206,18 @@ bip_39_word_space_6: digital odor chicken relax deliver spy
 bip_39_word_space_7: digital odor chicken relax deliver spy question
 bip_39_word_space_8: digital odor chicken relax deliver spy question edge
 bip_39_word_space_9: digital odor chicken relax deliver spy question edge tongue
+bip_39_word_underscore_1: digital
+bip_39_word_underscore_10: digital_odor_chicken_relax_deliver_spy_question_edge_tongue_seminar
+bip_39_word_underscore_11: digital_odor_chicken_relax_deliver_spy_question_edge_tongue_seminar_upgrade
+bip_39_word_underscore_12: digital_odor_chicken_relax_deliver_spy_question_edge_tongue_seminar_upgrade_account
+bip_39_word_underscore_2: digital_odor
+bip_39_word_underscore_3: digital_odor_chicken
+bip_39_word_underscore_4: digital_odor_chicken_relax
+bip_39_word_underscore_5: digital_odor_chicken_relax_deliver
+bip_39_word_underscore_6: digital_odor_chicken_relax_deliver_spy
+bip_39_word_underscore_7: digital_odor_chicken_relax_deliver_spy_question
+bip_39_word_underscore_8: digital_odor_chicken_relax_deliver_spy_question_edge
+bip_39_word_underscore_9: digital_odor_chicken_relax_deliver_spy_question_edge_tongue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dish |  
+| bip_39_word_dash_10 | dish-unit-lamp-claim-piece-slight-clog-enjoy-uphold-ski |  
+| bip_39_word_dash_11 | dish-unit-lamp-claim-piece-slight-clog-enjoy-uphold-ski-boost |  
+| bip_39_word_dash_12 | dish-unit-lamp-claim-piece-slight-clog-enjoy-uphold-ski-boost-amount |  
+| bip_39_word_dash_2 | dish-unit |  
+| bip_39_word_dash_3 | dish-unit-lamp |  
+| bip_39_word_dash_4 | dish-unit-lamp-claim |  
+| bip_39_word_dash_5 | dish-unit-lamp-claim-piece |  
+| bip_39_word_dash_6 | dish-unit-lamp-claim-piece-slight |  
+| bip_39_word_dash_7 | dish-unit-lamp-claim-piece-slight-clog |  
+| bip_39_word_dash_8 | dish-unit-lamp-claim-piece-slight-clog-enjoy |  
+| bip_39_word_dash_9 | dish-unit-lamp-claim-piece-slight-clog-enjoy-uphold |  
 | bip_39_word_new_br_1 | dish |  
 | bip_39_word_new_br_10 | dish<br>unit<br>lamp<br>claim<br>piece<br>slight<br>clog<br>enjoy<br>uphold<br>ski |  
 | bip_39_word_new_br_11 | dish<br>unit<br>lamp<br>claim<br>piece<br>slight<br>clog<br>enjoy<br>uphold<br>ski<br>boost |  
@@ -147,6 +159,18 @@ uphold |
 | bip_39_word_space_7 | dish unit lamp claim piece slight clog |  
 | bip_39_word_space_8 | dish unit lamp claim piece slight clog enjoy |  
 | bip_39_word_space_9 | dish unit lamp claim piece slight clog enjoy uphold |  
+| bip_39_word_underscore_1 | dish |  
+| bip_39_word_underscore_10 | dish_unit_lamp_claim_piece_slight_clog_enjoy_uphold_ski |  
+| bip_39_word_underscore_11 | dish_unit_lamp_claim_piece_slight_clog_enjoy_uphold_ski_boost |  
+| bip_39_word_underscore_12 | dish_unit_lamp_claim_piece_slight_clog_enjoy_uphold_ski_boost_amount |  
+| bip_39_word_underscore_2 | dish_unit |  
+| bip_39_word_underscore_3 | dish_unit_lamp |  
+| bip_39_word_underscore_4 | dish_unit_lamp_claim |  
+| bip_39_word_underscore_5 | dish_unit_lamp_claim_piece |  
+| bip_39_word_underscore_6 | dish_unit_lamp_claim_piece_slight |  
+| bip_39_word_underscore_7 | dish_unit_lamp_claim_piece_slight_clog |  
+| bip_39_word_underscore_8 | dish_unit_lamp_claim_piece_slight_clog_enjoy |  
+| bip_39_word_underscore_9 | dish_unit_lamp_claim_piece_slight_clog_enjoy_uphold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

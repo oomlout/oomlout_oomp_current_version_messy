@@ -1,3 +1,15 @@
+bip_39_word_dash_1: burden
+bip_39_word_dash_10: burden-junk-sword-cabin-arrow-romance-provide-fitness-border-stick
+bip_39_word_dash_11: burden-junk-sword-cabin-arrow-romance-provide-fitness-border-stick-picnic
+bip_39_word_dash_12: burden-junk-sword-cabin-arrow-romance-provide-fitness-border-stick-picnic-aunt
+bip_39_word_dash_2: burden-junk
+bip_39_word_dash_3: burden-junk-sword
+bip_39_word_dash_4: burden-junk-sword-cabin
+bip_39_word_dash_5: burden-junk-sword-cabin-arrow
+bip_39_word_dash_6: burden-junk-sword-cabin-arrow-romance
+bip_39_word_dash_7: burden-junk-sword-cabin-arrow-romance-provide
+bip_39_word_dash_8: burden-junk-sword-cabin-arrow-romance-provide-fitness
+bip_39_word_dash_9: burden-junk-sword-cabin-arrow-romance-provide-fitness-border
 bip_39_word_new_br_1: burden
 bip_39_word_new_br_10: burden<br>junk<br>sword<br>cabin<br>arrow<br>romance<br>provide<br>fitness<br>border<br>stick
 bip_39_word_new_br_11: burden<br>junk<br>sword<br>cabin<br>arrow<br>romance<br>provide<br>fitness<br>border<br>stick<br>picnic
@@ -194,6 +206,18 @@ bip_39_word_space_6: burden junk sword cabin arrow romance
 bip_39_word_space_7: burden junk sword cabin arrow romance provide
 bip_39_word_space_8: burden junk sword cabin arrow romance provide fitness
 bip_39_word_space_9: burden junk sword cabin arrow romance provide fitness border
+bip_39_word_underscore_1: burden
+bip_39_word_underscore_10: burden_junk_sword_cabin_arrow_romance_provide_fitness_border_stick
+bip_39_word_underscore_11: burden_junk_sword_cabin_arrow_romance_provide_fitness_border_stick_picnic
+bip_39_word_underscore_12: burden_junk_sword_cabin_arrow_romance_provide_fitness_border_stick_picnic_aunt
+bip_39_word_underscore_2: burden_junk
+bip_39_word_underscore_3: burden_junk_sword
+bip_39_word_underscore_4: burden_junk_sword_cabin
+bip_39_word_underscore_5: burden_junk_sword_cabin_arrow
+bip_39_word_underscore_6: burden_junk_sword_cabin_arrow_romance
+bip_39_word_underscore_7: burden_junk_sword_cabin_arrow_romance_provide
+bip_39_word_underscore_8: burden_junk_sword_cabin_arrow_romance_provide_fitness
+bip_39_word_underscore_9: burden_junk_sword_cabin_arrow_romance_provide_fitness_border
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

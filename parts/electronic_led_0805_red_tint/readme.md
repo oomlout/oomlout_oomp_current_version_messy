@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lion |  
+| bip_39_word_dash_10 | lion-lion-object-movie-hunt-hockey-portion-machine-ocean-recycle |  
+| bip_39_word_dash_11 | lion-lion-object-movie-hunt-hockey-portion-machine-ocean-recycle-lunch |  
+| bip_39_word_dash_12 | lion-lion-object-movie-hunt-hockey-portion-machine-ocean-recycle-lunch-audit |  
+| bip_39_word_dash_2 | lion-lion |  
+| bip_39_word_dash_3 | lion-lion-object |  
+| bip_39_word_dash_4 | lion-lion-object-movie |  
+| bip_39_word_dash_5 | lion-lion-object-movie-hunt |  
+| bip_39_word_dash_6 | lion-lion-object-movie-hunt-hockey |  
+| bip_39_word_dash_7 | lion-lion-object-movie-hunt-hockey-portion |  
+| bip_39_word_dash_8 | lion-lion-object-movie-hunt-hockey-portion-machine |  
+| bip_39_word_dash_9 | lion-lion-object-movie-hunt-hockey-portion-machine-ocean |  
 | bip_39_word_new_br_1 | lion |  
 | bip_39_word_new_br_10 | lion<br>lion<br>object<br>movie<br>hunt<br>hockey<br>portion<br>machine<br>ocean<br>recycle |  
 | bip_39_word_new_br_11 | lion<br>lion<br>object<br>movie<br>hunt<br>hockey<br>portion<br>machine<br>ocean<br>recycle<br>lunch |  
@@ -147,6 +159,18 @@ ocean |
 | bip_39_word_space_7 | lion lion object movie hunt hockey portion |  
 | bip_39_word_space_8 | lion lion object movie hunt hockey portion machine |  
 | bip_39_word_space_9 | lion lion object movie hunt hockey portion machine ocean |  
+| bip_39_word_underscore_1 | lion |  
+| bip_39_word_underscore_10 | lion_lion_object_movie_hunt_hockey_portion_machine_ocean_recycle |  
+| bip_39_word_underscore_11 | lion_lion_object_movie_hunt_hockey_portion_machine_ocean_recycle_lunch |  
+| bip_39_word_underscore_12 | lion_lion_object_movie_hunt_hockey_portion_machine_ocean_recycle_lunch_audit |  
+| bip_39_word_underscore_2 | lion_lion |  
+| bip_39_word_underscore_3 | lion_lion_object |  
+| bip_39_word_underscore_4 | lion_lion_object_movie |  
+| bip_39_word_underscore_5 | lion_lion_object_movie_hunt |  
+| bip_39_word_underscore_6 | lion_lion_object_movie_hunt_hockey |  
+| bip_39_word_underscore_7 | lion_lion_object_movie_hunt_hockey_portion |  
+| bip_39_word_underscore_8 | lion_lion_object_movie_hunt_hockey_portion_machine |  
+| bip_39_word_underscore_9 | lion_lion_object_movie_hunt_hockey_portion_machine_ocean |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

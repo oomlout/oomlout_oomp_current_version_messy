@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | expand |  
+| bip_39_word_dash_10 | expand-pigeon-list-nurse-oblige-mutual-swim-spend-bitter-unit |  
+| bip_39_word_dash_11 | expand-pigeon-list-nurse-oblige-mutual-swim-spend-bitter-unit-credit |  
+| bip_39_word_dash_12 | expand-pigeon-list-nurse-oblige-mutual-swim-spend-bitter-unit-credit-actress |  
+| bip_39_word_dash_2 | expand-pigeon |  
+| bip_39_word_dash_3 | expand-pigeon-list |  
+| bip_39_word_dash_4 | expand-pigeon-list-nurse |  
+| bip_39_word_dash_5 | expand-pigeon-list-nurse-oblige |  
+| bip_39_word_dash_6 | expand-pigeon-list-nurse-oblige-mutual |  
+| bip_39_word_dash_7 | expand-pigeon-list-nurse-oblige-mutual-swim |  
+| bip_39_word_dash_8 | expand-pigeon-list-nurse-oblige-mutual-swim-spend |  
+| bip_39_word_dash_9 | expand-pigeon-list-nurse-oblige-mutual-swim-spend-bitter |  
 | bip_39_word_new_br_1 | expand |  
 | bip_39_word_new_br_10 | expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend<br>bitter<br>unit |  
 | bip_39_word_new_br_11 | expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend<br>bitter<br>unit<br>credit |  
@@ -147,6 +159,18 @@ bitter |
 | bip_39_word_space_7 | expand pigeon list nurse oblige mutual swim |  
 | bip_39_word_space_8 | expand pigeon list nurse oblige mutual swim spend |  
 | bip_39_word_space_9 | expand pigeon list nurse oblige mutual swim spend bitter |  
+| bip_39_word_underscore_1 | expand |  
+| bip_39_word_underscore_10 | expand_pigeon_list_nurse_oblige_mutual_swim_spend_bitter_unit |  
+| bip_39_word_underscore_11 | expand_pigeon_list_nurse_oblige_mutual_swim_spend_bitter_unit_credit |  
+| bip_39_word_underscore_12 | expand_pigeon_list_nurse_oblige_mutual_swim_spend_bitter_unit_credit_actress |  
+| bip_39_word_underscore_2 | expand_pigeon |  
+| bip_39_word_underscore_3 | expand_pigeon_list |  
+| bip_39_word_underscore_4 | expand_pigeon_list_nurse |  
+| bip_39_word_underscore_5 | expand_pigeon_list_nurse_oblige |  
+| bip_39_word_underscore_6 | expand_pigeon_list_nurse_oblige_mutual |  
+| bip_39_word_underscore_7 | expand_pigeon_list_nurse_oblige_mutual_swim |  
+| bip_39_word_underscore_8 | expand_pigeon_list_nurse_oblige_mutual_swim_spend |  
+| bip_39_word_underscore_9 | expand_pigeon_list_nurse_oblige_mutual_swim_spend_bitter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

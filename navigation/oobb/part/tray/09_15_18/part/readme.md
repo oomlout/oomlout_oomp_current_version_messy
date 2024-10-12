@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | surprise |  
+| bip_39_word_dash_10 | surprise-slam-wear-pen-glimpse-subway-thank-salad-effort-clown |  
+| bip_39_word_dash_11 | surprise-slam-wear-pen-glimpse-subway-thank-salad-effort-clown-six |  
+| bip_39_word_dash_12 | surprise-slam-wear-pen-glimpse-subway-thank-salad-effort-clown-six-afford |  
+| bip_39_word_dash_2 | surprise-slam |  
+| bip_39_word_dash_3 | surprise-slam-wear |  
+| bip_39_word_dash_4 | surprise-slam-wear-pen |  
+| bip_39_word_dash_5 | surprise-slam-wear-pen-glimpse |  
+| bip_39_word_dash_6 | surprise-slam-wear-pen-glimpse-subway |  
+| bip_39_word_dash_7 | surprise-slam-wear-pen-glimpse-subway-thank |  
+| bip_39_word_dash_8 | surprise-slam-wear-pen-glimpse-subway-thank-salad |  
+| bip_39_word_dash_9 | surprise-slam-wear-pen-glimpse-subway-thank-salad-effort |  
 | bip_39_word_new_br_1 | surprise |  
 | bip_39_word_new_br_10 | surprise<br>slam<br>wear<br>pen<br>glimpse<br>subway<br>thank<br>salad<br>effort<br>clown |  
 | bip_39_word_new_br_11 | surprise<br>slam<br>wear<br>pen<br>glimpse<br>subway<br>thank<br>salad<br>effort<br>clown<br>six |  
@@ -147,6 +159,18 @@ effort |
 | bip_39_word_space_7 | surprise slam wear pen glimpse subway thank |  
 | bip_39_word_space_8 | surprise slam wear pen glimpse subway thank salad |  
 | bip_39_word_space_9 | surprise slam wear pen glimpse subway thank salad effort |  
+| bip_39_word_underscore_1 | surprise |  
+| bip_39_word_underscore_10 | surprise_slam_wear_pen_glimpse_subway_thank_salad_effort_clown |  
+| bip_39_word_underscore_11 | surprise_slam_wear_pen_glimpse_subway_thank_salad_effort_clown_six |  
+| bip_39_word_underscore_12 | surprise_slam_wear_pen_glimpse_subway_thank_salad_effort_clown_six_afford |  
+| bip_39_word_underscore_2 | surprise_slam |  
+| bip_39_word_underscore_3 | surprise_slam_wear |  
+| bip_39_word_underscore_4 | surprise_slam_wear_pen |  
+| bip_39_word_underscore_5 | surprise_slam_wear_pen_glimpse |  
+| bip_39_word_underscore_6 | surprise_slam_wear_pen_glimpse_subway |  
+| bip_39_word_underscore_7 | surprise_slam_wear_pen_glimpse_subway_thank |  
+| bip_39_word_underscore_8 | surprise_slam_wear_pen_glimpse_subway_thank_salad |  
+| bip_39_word_underscore_9 | surprise_slam_wear_pen_glimpse_subway_thank_salad_effort |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

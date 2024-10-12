@@ -1,3 +1,15 @@
+bip_39_word_dash_1: small
+bip_39_word_dash_10: small-wing-reason-stairs-infant-remind-angle-measure-wild-embody
+bip_39_word_dash_11: small-wing-reason-stairs-infant-remind-angle-measure-wild-embody-venue
+bip_39_word_dash_12: small-wing-reason-stairs-infant-remind-angle-measure-wild-embody-venue-arch
+bip_39_word_dash_2: small-wing
+bip_39_word_dash_3: small-wing-reason
+bip_39_word_dash_4: small-wing-reason-stairs
+bip_39_word_dash_5: small-wing-reason-stairs-infant
+bip_39_word_dash_6: small-wing-reason-stairs-infant-remind
+bip_39_word_dash_7: small-wing-reason-stairs-infant-remind-angle
+bip_39_word_dash_8: small-wing-reason-stairs-infant-remind-angle-measure
+bip_39_word_dash_9: small-wing-reason-stairs-infant-remind-angle-measure-wild
 bip_39_word_new_br_1: small
 bip_39_word_new_br_10: small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody
 bip_39_word_new_br_11: small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody<br>venue
@@ -193,6 +205,18 @@ bip_39_word_space_6: small wing reason stairs infant remind
 bip_39_word_space_7: small wing reason stairs infant remind angle
 bip_39_word_space_8: small wing reason stairs infant remind angle measure
 bip_39_word_space_9: small wing reason stairs infant remind angle measure wild
+bip_39_word_underscore_1: small
+bip_39_word_underscore_10: small_wing_reason_stairs_infant_remind_angle_measure_wild_embody
+bip_39_word_underscore_11: small_wing_reason_stairs_infant_remind_angle_measure_wild_embody_venue
+bip_39_word_underscore_12: small_wing_reason_stairs_infant_remind_angle_measure_wild_embody_venue_arch
+bip_39_word_underscore_2: small_wing
+bip_39_word_underscore_3: small_wing_reason
+bip_39_word_underscore_4: small_wing_reason_stairs
+bip_39_word_underscore_5: small_wing_reason_stairs_infant
+bip_39_word_underscore_6: small_wing_reason_stairs_infant_remind
+bip_39_word_underscore_7: small_wing_reason_stairs_infant_remind_angle
+bip_39_word_underscore_8: small_wing_reason_stairs_infant_remind_angle_measure
+bip_39_word_underscore_9: small_wing_reason_stairs_infant_remind_angle_measure_wild
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

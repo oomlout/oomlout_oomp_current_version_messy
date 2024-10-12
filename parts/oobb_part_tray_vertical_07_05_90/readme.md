@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | between |  
+| bip_39_word_dash_10 | between-hip-wife-key-news-motor-milk-issue-govern-trend |  
+| bip_39_word_dash_11 | between-hip-wife-key-news-motor-milk-issue-govern-trend-festival |  
+| bip_39_word_dash_12 | between-hip-wife-key-news-motor-milk-issue-govern-trend-festival-autumn |  
+| bip_39_word_dash_2 | between-hip |  
+| bip_39_word_dash_3 | between-hip-wife |  
+| bip_39_word_dash_4 | between-hip-wife-key |  
+| bip_39_word_dash_5 | between-hip-wife-key-news |  
+| bip_39_word_dash_6 | between-hip-wife-key-news-motor |  
+| bip_39_word_dash_7 | between-hip-wife-key-news-motor-milk |  
+| bip_39_word_dash_8 | between-hip-wife-key-news-motor-milk-issue |  
+| bip_39_word_dash_9 | between-hip-wife-key-news-motor-milk-issue-govern |  
 | bip_39_word_new_br_1 | between |  
 | bip_39_word_new_br_10 | between<br>hip<br>wife<br>key<br>news<br>motor<br>milk<br>issue<br>govern<br>trend |  
 | bip_39_word_new_br_11 | between<br>hip<br>wife<br>key<br>news<br>motor<br>milk<br>issue<br>govern<br>trend<br>festival |  
@@ -147,6 +159,18 @@ govern |
 | bip_39_word_space_7 | between hip wife key news motor milk |  
 | bip_39_word_space_8 | between hip wife key news motor milk issue |  
 | bip_39_word_space_9 | between hip wife key news motor milk issue govern |  
+| bip_39_word_underscore_1 | between |  
+| bip_39_word_underscore_10 | between_hip_wife_key_news_motor_milk_issue_govern_trend |  
+| bip_39_word_underscore_11 | between_hip_wife_key_news_motor_milk_issue_govern_trend_festival |  
+| bip_39_word_underscore_12 | between_hip_wife_key_news_motor_milk_issue_govern_trend_festival_autumn |  
+| bip_39_word_underscore_2 | between_hip |  
+| bip_39_word_underscore_3 | between_hip_wife |  
+| bip_39_word_underscore_4 | between_hip_wife_key |  
+| bip_39_word_underscore_5 | between_hip_wife_key_news |  
+| bip_39_word_underscore_6 | between_hip_wife_key_news_motor |  
+| bip_39_word_underscore_7 | between_hip_wife_key_news_motor_milk |  
+| bip_39_word_underscore_8 | between_hip_wife_key_news_motor_milk_issue |  
+| bip_39_word_underscore_9 | between_hip_wife_key_news_motor_milk_issue_govern |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

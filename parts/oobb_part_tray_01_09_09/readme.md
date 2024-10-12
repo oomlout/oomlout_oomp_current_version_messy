@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | snow |  
+| bip_39_word_dash_10 | snow-vote-merry-ski-chimney-harbor-mobile-hazard-traffic-game |  
+| bip_39_word_dash_11 | snow-vote-merry-ski-chimney-harbor-mobile-hazard-traffic-game-version |  
+| bip_39_word_dash_12 | snow-vote-merry-ski-chimney-harbor-mobile-hazard-traffic-game-version-auction |  
+| bip_39_word_dash_2 | snow-vote |  
+| bip_39_word_dash_3 | snow-vote-merry |  
+| bip_39_word_dash_4 | snow-vote-merry-ski |  
+| bip_39_word_dash_5 | snow-vote-merry-ski-chimney |  
+| bip_39_word_dash_6 | snow-vote-merry-ski-chimney-harbor |  
+| bip_39_word_dash_7 | snow-vote-merry-ski-chimney-harbor-mobile |  
+| bip_39_word_dash_8 | snow-vote-merry-ski-chimney-harbor-mobile-hazard |  
+| bip_39_word_dash_9 | snow-vote-merry-ski-chimney-harbor-mobile-hazard-traffic |  
 | bip_39_word_new_br_1 | snow |  
 | bip_39_word_new_br_10 | snow<br>vote<br>merry<br>ski<br>chimney<br>harbor<br>mobile<br>hazard<br>traffic<br>game |  
 | bip_39_word_new_br_11 | snow<br>vote<br>merry<br>ski<br>chimney<br>harbor<br>mobile<br>hazard<br>traffic<br>game<br>version |  
@@ -147,6 +159,18 @@ traffic |
 | bip_39_word_space_7 | snow vote merry ski chimney harbor mobile |  
 | bip_39_word_space_8 | snow vote merry ski chimney harbor mobile hazard |  
 | bip_39_word_space_9 | snow vote merry ski chimney harbor mobile hazard traffic |  
+| bip_39_word_underscore_1 | snow |  
+| bip_39_word_underscore_10 | snow_vote_merry_ski_chimney_harbor_mobile_hazard_traffic_game |  
+| bip_39_word_underscore_11 | snow_vote_merry_ski_chimney_harbor_mobile_hazard_traffic_game_version |  
+| bip_39_word_underscore_12 | snow_vote_merry_ski_chimney_harbor_mobile_hazard_traffic_game_version_auction |  
+| bip_39_word_underscore_2 | snow_vote |  
+| bip_39_word_underscore_3 | snow_vote_merry |  
+| bip_39_word_underscore_4 | snow_vote_merry_ski |  
+| bip_39_word_underscore_5 | snow_vote_merry_ski_chimney |  
+| bip_39_word_underscore_6 | snow_vote_merry_ski_chimney_harbor |  
+| bip_39_word_underscore_7 | snow_vote_merry_ski_chimney_harbor_mobile |  
+| bip_39_word_underscore_8 | snow_vote_merry_ski_chimney_harbor_mobile_hazard |  
+| bip_39_word_underscore_9 | snow_vote_merry_ski_chimney_harbor_mobile_hazard_traffic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

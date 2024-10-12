@@ -1,3 +1,15 @@
+bip_39_word_dash_1: horn
+bip_39_word_dash_10: horn-caught-learn-diary-approve-immense-output-thrive-usual-coin
+bip_39_word_dash_11: horn-caught-learn-diary-approve-immense-output-thrive-usual-coin-maple
+bip_39_word_dash_12: horn-caught-learn-diary-approve-immense-output-thrive-usual-coin-maple-absorb
+bip_39_word_dash_2: horn-caught
+bip_39_word_dash_3: horn-caught-learn
+bip_39_word_dash_4: horn-caught-learn-diary
+bip_39_word_dash_5: horn-caught-learn-diary-approve
+bip_39_word_dash_6: horn-caught-learn-diary-approve-immense
+bip_39_word_dash_7: horn-caught-learn-diary-approve-immense-output
+bip_39_word_dash_8: horn-caught-learn-diary-approve-immense-output-thrive
+bip_39_word_dash_9: horn-caught-learn-diary-approve-immense-output-thrive-usual
 bip_39_word_new_br_1: horn
 bip_39_word_new_br_10: horn<br>caught<br>learn<br>diary<br>approve<br>immense<br>output<br>thrive<br>usual<br>coin
 bip_39_word_new_br_11: horn<br>caught<br>learn<br>diary<br>approve<br>immense<br>output<br>thrive<br>usual<br>coin<br>maple
@@ -194,6 +206,18 @@ bip_39_word_space_6: horn caught learn diary approve immense
 bip_39_word_space_7: horn caught learn diary approve immense output
 bip_39_word_space_8: horn caught learn diary approve immense output thrive
 bip_39_word_space_9: horn caught learn diary approve immense output thrive usual
+bip_39_word_underscore_1: horn
+bip_39_word_underscore_10: horn_caught_learn_diary_approve_immense_output_thrive_usual_coin
+bip_39_word_underscore_11: horn_caught_learn_diary_approve_immense_output_thrive_usual_coin_maple
+bip_39_word_underscore_12: horn_caught_learn_diary_approve_immense_output_thrive_usual_coin_maple_absorb
+bip_39_word_underscore_2: horn_caught
+bip_39_word_underscore_3: horn_caught_learn
+bip_39_word_underscore_4: horn_caught_learn_diary
+bip_39_word_underscore_5: horn_caught_learn_diary_approve
+bip_39_word_underscore_6: horn_caught_learn_diary_approve_immense
+bip_39_word_underscore_7: horn_caught_learn_diary_approve_immense_output
+bip_39_word_underscore_8: horn_caught_learn_diary_approve_immense_output_thrive
+bip_39_word_underscore_9: horn_caught_learn_diary_approve_immense_output_thrive_usual
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

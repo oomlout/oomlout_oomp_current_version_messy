@@ -1,3 +1,15 @@
+bip_39_word_dash_1: century
+bip_39_word_dash_10: century-corn-symbol-process-retire-real-employ-grass-vicious-stick
+bip_39_word_dash_11: century-corn-symbol-process-retire-real-employ-grass-vicious-stick-motor
+bip_39_word_dash_12: century-corn-symbol-process-retire-real-employ-grass-vicious-stick-motor-attack
+bip_39_word_dash_2: century-corn
+bip_39_word_dash_3: century-corn-symbol
+bip_39_word_dash_4: century-corn-symbol-process
+bip_39_word_dash_5: century-corn-symbol-process-retire
+bip_39_word_dash_6: century-corn-symbol-process-retire-real
+bip_39_word_dash_7: century-corn-symbol-process-retire-real-employ
+bip_39_word_dash_8: century-corn-symbol-process-retire-real-employ-grass
+bip_39_word_dash_9: century-corn-symbol-process-retire-real-employ-grass-vicious
 bip_39_word_new_br_1: century
 bip_39_word_new_br_10: century<br>corn<br>symbol<br>process<br>retire<br>real<br>employ<br>grass<br>vicious<br>stick
 bip_39_word_new_br_11: century<br>corn<br>symbol<br>process<br>retire<br>real<br>employ<br>grass<br>vicious<br>stick<br>motor
@@ -194,6 +206,18 @@ bip_39_word_space_6: century corn symbol process retire real
 bip_39_word_space_7: century corn symbol process retire real employ
 bip_39_word_space_8: century corn symbol process retire real employ grass
 bip_39_word_space_9: century corn symbol process retire real employ grass vicious
+bip_39_word_underscore_1: century
+bip_39_word_underscore_10: century_corn_symbol_process_retire_real_employ_grass_vicious_stick
+bip_39_word_underscore_11: century_corn_symbol_process_retire_real_employ_grass_vicious_stick_motor
+bip_39_word_underscore_12: century_corn_symbol_process_retire_real_employ_grass_vicious_stick_motor_attack
+bip_39_word_underscore_2: century_corn
+bip_39_word_underscore_3: century_corn_symbol
+bip_39_word_underscore_4: century_corn_symbol_process
+bip_39_word_underscore_5: century_corn_symbol_process_retire
+bip_39_word_underscore_6: century_corn_symbol_process_retire_real
+bip_39_word_underscore_7: century_corn_symbol_process_retire_real_employ
+bip_39_word_underscore_8: century_corn_symbol_process_retire_real_employ_grass
+bip_39_word_underscore_9: century_corn_symbol_process_retire_real_employ_grass_vicious
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

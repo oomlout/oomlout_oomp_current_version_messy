@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | travel |  
+| bip_39_word_dash_10 | travel-dance-ready-chimney-february-output-scheme-surge-tube-thought |  
+| bip_39_word_dash_11 | travel-dance-ready-chimney-february-output-scheme-surge-tube-thought-fix |  
+| bip_39_word_dash_12 | travel-dance-ready-chimney-february-output-scheme-surge-tube-thought-fix-asthma |  
+| bip_39_word_dash_2 | travel-dance |  
+| bip_39_word_dash_3 | travel-dance-ready |  
+| bip_39_word_dash_4 | travel-dance-ready-chimney |  
+| bip_39_word_dash_5 | travel-dance-ready-chimney-february |  
+| bip_39_word_dash_6 | travel-dance-ready-chimney-february-output |  
+| bip_39_word_dash_7 | travel-dance-ready-chimney-february-output-scheme |  
+| bip_39_word_dash_8 | travel-dance-ready-chimney-february-output-scheme-surge |  
+| bip_39_word_dash_9 | travel-dance-ready-chimney-february-output-scheme-surge-tube |  
 | bip_39_word_new_br_1 | travel |  
 | bip_39_word_new_br_10 | travel<br>dance<br>ready<br>chimney<br>february<br>output<br>scheme<br>surge<br>tube<br>thought |  
 | bip_39_word_new_br_11 | travel<br>dance<br>ready<br>chimney<br>february<br>output<br>scheme<br>surge<br>tube<br>thought<br>fix |  
@@ -147,6 +159,18 @@ tube |
 | bip_39_word_space_7 | travel dance ready chimney february output scheme |  
 | bip_39_word_space_8 | travel dance ready chimney february output scheme surge |  
 | bip_39_word_space_9 | travel dance ready chimney february output scheme surge tube |  
+| bip_39_word_underscore_1 | travel |  
+| bip_39_word_underscore_10 | travel_dance_ready_chimney_february_output_scheme_surge_tube_thought |  
+| bip_39_word_underscore_11 | travel_dance_ready_chimney_february_output_scheme_surge_tube_thought_fix |  
+| bip_39_word_underscore_12 | travel_dance_ready_chimney_february_output_scheme_surge_tube_thought_fix_asthma |  
+| bip_39_word_underscore_2 | travel_dance |  
+| bip_39_word_underscore_3 | travel_dance_ready |  
+| bip_39_word_underscore_4 | travel_dance_ready_chimney |  
+| bip_39_word_underscore_5 | travel_dance_ready_chimney_february |  
+| bip_39_word_underscore_6 | travel_dance_ready_chimney_february_output |  
+| bip_39_word_underscore_7 | travel_dance_ready_chimney_february_output_scheme |  
+| bip_39_word_underscore_8 | travel_dance_ready_chimney_february_output_scheme_surge |  
+| bip_39_word_underscore_9 | travel_dance_ready_chimney_february_output_scheme_surge_tube |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

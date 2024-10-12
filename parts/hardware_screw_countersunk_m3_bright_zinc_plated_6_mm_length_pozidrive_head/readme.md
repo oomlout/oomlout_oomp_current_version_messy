@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | best |  
+| bip_39_word_dash_10 | best-orange-coconut-radio-glory-pond-punch-width-load-trend |  
+| bip_39_word_dash_11 | best-orange-coconut-radio-glory-pond-punch-width-load-trend-simple |  
+| bip_39_word_dash_12 | best-orange-coconut-radio-glory-pond-punch-width-load-trend-simple-attend |  
+| bip_39_word_dash_2 | best-orange |  
+| bip_39_word_dash_3 | best-orange-coconut |  
+| bip_39_word_dash_4 | best-orange-coconut-radio |  
+| bip_39_word_dash_5 | best-orange-coconut-radio-glory |  
+| bip_39_word_dash_6 | best-orange-coconut-radio-glory-pond |  
+| bip_39_word_dash_7 | best-orange-coconut-radio-glory-pond-punch |  
+| bip_39_word_dash_8 | best-orange-coconut-radio-glory-pond-punch-width |  
+| bip_39_word_dash_9 | best-orange-coconut-radio-glory-pond-punch-width-load |  
 | bip_39_word_new_br_1 | best |  
 | bip_39_word_new_br_10 | best<br>orange<br>coconut<br>radio<br>glory<br>pond<br>punch<br>width<br>load<br>trend |  
 | bip_39_word_new_br_11 | best<br>orange<br>coconut<br>radio<br>glory<br>pond<br>punch<br>width<br>load<br>trend<br>simple |  
@@ -147,6 +159,18 @@ load |
 | bip_39_word_space_7 | best orange coconut radio glory pond punch |  
 | bip_39_word_space_8 | best orange coconut radio glory pond punch width |  
 | bip_39_word_space_9 | best orange coconut radio glory pond punch width load |  
+| bip_39_word_underscore_1 | best |  
+| bip_39_word_underscore_10 | best_orange_coconut_radio_glory_pond_punch_width_load_trend |  
+| bip_39_word_underscore_11 | best_orange_coconut_radio_glory_pond_punch_width_load_trend_simple |  
+| bip_39_word_underscore_12 | best_orange_coconut_radio_glory_pond_punch_width_load_trend_simple_attend |  
+| bip_39_word_underscore_2 | best_orange |  
+| bip_39_word_underscore_3 | best_orange_coconut |  
+| bip_39_word_underscore_4 | best_orange_coconut_radio |  
+| bip_39_word_underscore_5 | best_orange_coconut_radio_glory |  
+| bip_39_word_underscore_6 | best_orange_coconut_radio_glory_pond |  
+| bip_39_word_underscore_7 | best_orange_coconut_radio_glory_pond_punch |  
+| bip_39_word_underscore_8 | best_orange_coconut_radio_glory_pond_punch_width |  
+| bip_39_word_underscore_9 | best_orange_coconut_radio_glory_pond_punch_width_load |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

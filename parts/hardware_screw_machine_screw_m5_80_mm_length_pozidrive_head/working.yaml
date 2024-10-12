@@ -1,3 +1,15 @@
+bip_39_word_dash_1: luxury
+bip_39_word_dash_10: luxury-slender-clever-panel-offer-dirt-cloth-follow-rug-vacant
+bip_39_word_dash_11: luxury-slender-clever-panel-offer-dirt-cloth-follow-rug-vacant-neutral
+bip_39_word_dash_12: luxury-slender-clever-panel-offer-dirt-cloth-follow-rug-vacant-neutral-around
+bip_39_word_dash_2: luxury-slender
+bip_39_word_dash_3: luxury-slender-clever
+bip_39_word_dash_4: luxury-slender-clever-panel
+bip_39_word_dash_5: luxury-slender-clever-panel-offer
+bip_39_word_dash_6: luxury-slender-clever-panel-offer-dirt
+bip_39_word_dash_7: luxury-slender-clever-panel-offer-dirt-cloth
+bip_39_word_dash_8: luxury-slender-clever-panel-offer-dirt-cloth-follow
+bip_39_word_dash_9: luxury-slender-clever-panel-offer-dirt-cloth-follow-rug
 bip_39_word_new_br_1: luxury
 bip_39_word_new_br_10: luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow<br>rug<br>vacant
 bip_39_word_new_br_11: luxury<br>slender<br>clever<br>panel<br>offer<br>dirt<br>cloth<br>follow<br>rug<br>vacant<br>neutral
@@ -193,6 +205,18 @@ bip_39_word_space_6: luxury slender clever panel offer dirt
 bip_39_word_space_7: luxury slender clever panel offer dirt cloth
 bip_39_word_space_8: luxury slender clever panel offer dirt cloth follow
 bip_39_word_space_9: luxury slender clever panel offer dirt cloth follow rug
+bip_39_word_underscore_1: luxury
+bip_39_word_underscore_10: luxury_slender_clever_panel_offer_dirt_cloth_follow_rug_vacant
+bip_39_word_underscore_11: luxury_slender_clever_panel_offer_dirt_cloth_follow_rug_vacant_neutral
+bip_39_word_underscore_12: luxury_slender_clever_panel_offer_dirt_cloth_follow_rug_vacant_neutral_around
+bip_39_word_underscore_2: luxury_slender
+bip_39_word_underscore_3: luxury_slender_clever
+bip_39_word_underscore_4: luxury_slender_clever_panel
+bip_39_word_underscore_5: luxury_slender_clever_panel_offer
+bip_39_word_underscore_6: luxury_slender_clever_panel_offer_dirt
+bip_39_word_underscore_7: luxury_slender_clever_panel_offer_dirt_cloth
+bip_39_word_underscore_8: luxury_slender_clever_panel_offer_dirt_cloth_follow
+bip_39_word_underscore_9: luxury_slender_clever_panel_offer_dirt_cloth_follow_rug
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

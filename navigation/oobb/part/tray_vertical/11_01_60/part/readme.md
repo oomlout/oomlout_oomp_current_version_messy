@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | festival |  
+| bip_39_word_dash_10 | festival-prosper-vessel-bag-enjoy-leg-security-eager-edit-game |  
+| bip_39_word_dash_11 | festival-prosper-vessel-bag-enjoy-leg-security-eager-edit-game-soap |  
+| bip_39_word_dash_12 | festival-prosper-vessel-bag-enjoy-leg-security-eager-edit-game-soap-art |  
+| bip_39_word_dash_2 | festival-prosper |  
+| bip_39_word_dash_3 | festival-prosper-vessel |  
+| bip_39_word_dash_4 | festival-prosper-vessel-bag |  
+| bip_39_word_dash_5 | festival-prosper-vessel-bag-enjoy |  
+| bip_39_word_dash_6 | festival-prosper-vessel-bag-enjoy-leg |  
+| bip_39_word_dash_7 | festival-prosper-vessel-bag-enjoy-leg-security |  
+| bip_39_word_dash_8 | festival-prosper-vessel-bag-enjoy-leg-security-eager |  
+| bip_39_word_dash_9 | festival-prosper-vessel-bag-enjoy-leg-security-eager-edit |  
 | bip_39_word_new_br_1 | festival |  
 | bip_39_word_new_br_10 | festival<br>prosper<br>vessel<br>bag<br>enjoy<br>leg<br>security<br>eager<br>edit<br>game |  
 | bip_39_word_new_br_11 | festival<br>prosper<br>vessel<br>bag<br>enjoy<br>leg<br>security<br>eager<br>edit<br>game<br>soap |  
@@ -147,6 +159,18 @@ edit |
 | bip_39_word_space_7 | festival prosper vessel bag enjoy leg security |  
 | bip_39_word_space_8 | festival prosper vessel bag enjoy leg security eager |  
 | bip_39_word_space_9 | festival prosper vessel bag enjoy leg security eager edit |  
+| bip_39_word_underscore_1 | festival |  
+| bip_39_word_underscore_10 | festival_prosper_vessel_bag_enjoy_leg_security_eager_edit_game |  
+| bip_39_word_underscore_11 | festival_prosper_vessel_bag_enjoy_leg_security_eager_edit_game_soap |  
+| bip_39_word_underscore_12 | festival_prosper_vessel_bag_enjoy_leg_security_eager_edit_game_soap_art |  
+| bip_39_word_underscore_2 | festival_prosper |  
+| bip_39_word_underscore_3 | festival_prosper_vessel |  
+| bip_39_word_underscore_4 | festival_prosper_vessel_bag |  
+| bip_39_word_underscore_5 | festival_prosper_vessel_bag_enjoy |  
+| bip_39_word_underscore_6 | festival_prosper_vessel_bag_enjoy_leg |  
+| bip_39_word_underscore_7 | festival_prosper_vessel_bag_enjoy_leg_security |  
+| bip_39_word_underscore_8 | festival_prosper_vessel_bag_enjoy_leg_security_eager |  
+| bip_39_word_underscore_9 | festival_prosper_vessel_bag_enjoy_leg_security_eager_edit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

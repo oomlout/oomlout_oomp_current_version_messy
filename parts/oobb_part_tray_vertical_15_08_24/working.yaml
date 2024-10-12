@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inhale
+bip_39_word_dash_10: inhale-potato-cream-shadow-fitness-foot-index-goose-learn-pioneer
+bip_39_word_dash_11: inhale-potato-cream-shadow-fitness-foot-index-goose-learn-pioneer-burst
+bip_39_word_dash_12: inhale-potato-cream-shadow-fitness-foot-index-goose-learn-pioneer-burst-allow
+bip_39_word_dash_2: inhale-potato
+bip_39_word_dash_3: inhale-potato-cream
+bip_39_word_dash_4: inhale-potato-cream-shadow
+bip_39_word_dash_5: inhale-potato-cream-shadow-fitness
+bip_39_word_dash_6: inhale-potato-cream-shadow-fitness-foot
+bip_39_word_dash_7: inhale-potato-cream-shadow-fitness-foot-index
+bip_39_word_dash_8: inhale-potato-cream-shadow-fitness-foot-index-goose
+bip_39_word_dash_9: inhale-potato-cream-shadow-fitness-foot-index-goose-learn
 bip_39_word_new_br_1: inhale
 bip_39_word_new_br_10: inhale<br>potato<br>cream<br>shadow<br>fitness<br>foot<br>index<br>goose<br>learn<br>pioneer
 bip_39_word_new_br_11: inhale<br>potato<br>cream<br>shadow<br>fitness<br>foot<br>index<br>goose<br>learn<br>pioneer<br>burst
@@ -193,6 +205,18 @@ bip_39_word_space_6: inhale potato cream shadow fitness foot
 bip_39_word_space_7: inhale potato cream shadow fitness foot index
 bip_39_word_space_8: inhale potato cream shadow fitness foot index goose
 bip_39_word_space_9: inhale potato cream shadow fitness foot index goose learn
+bip_39_word_underscore_1: inhale
+bip_39_word_underscore_10: inhale_potato_cream_shadow_fitness_foot_index_goose_learn_pioneer
+bip_39_word_underscore_11: inhale_potato_cream_shadow_fitness_foot_index_goose_learn_pioneer_burst
+bip_39_word_underscore_12: inhale_potato_cream_shadow_fitness_foot_index_goose_learn_pioneer_burst_allow
+bip_39_word_underscore_2: inhale_potato
+bip_39_word_underscore_3: inhale_potato_cream
+bip_39_word_underscore_4: inhale_potato_cream_shadow
+bip_39_word_underscore_5: inhale_potato_cream_shadow_fitness
+bip_39_word_underscore_6: inhale_potato_cream_shadow_fitness_foot
+bip_39_word_underscore_7: inhale_potato_cream_shadow_fitness_foot_index
+bip_39_word_underscore_8: inhale_potato_cream_shadow_fitness_foot_index_goose
+bip_39_word_underscore_9: inhale_potato_cream_shadow_fitness_foot_index_goose_learn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

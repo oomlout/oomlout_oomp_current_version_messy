@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tip
+bip_39_word_dash_10: tip-begin-menu-voice-across-cradle-right-coil-solve-ride
+bip_39_word_dash_11: tip-begin-menu-voice-across-cradle-right-coil-solve-ride-cotton
+bip_39_word_dash_12: tip-begin-menu-voice-across-cradle-right-coil-solve-ride-cotton-alien
+bip_39_word_dash_2: tip-begin
+bip_39_word_dash_3: tip-begin-menu
+bip_39_word_dash_4: tip-begin-menu-voice
+bip_39_word_dash_5: tip-begin-menu-voice-across
+bip_39_word_dash_6: tip-begin-menu-voice-across-cradle
+bip_39_word_dash_7: tip-begin-menu-voice-across-cradle-right
+bip_39_word_dash_8: tip-begin-menu-voice-across-cradle-right-coil
+bip_39_word_dash_9: tip-begin-menu-voice-across-cradle-right-coil-solve
 bip_39_word_new_br_1: tip
 bip_39_word_new_br_10: tip<br>begin<br>menu<br>voice<br>across<br>cradle<br>right<br>coil<br>solve<br>ride
 bip_39_word_new_br_11: tip<br>begin<br>menu<br>voice<br>across<br>cradle<br>right<br>coil<br>solve<br>ride<br>cotton
@@ -192,6 +204,18 @@ bip_39_word_space_6: tip begin menu voice across cradle
 bip_39_word_space_7: tip begin menu voice across cradle right
 bip_39_word_space_8: tip begin menu voice across cradle right coil
 bip_39_word_space_9: tip begin menu voice across cradle right coil solve
+bip_39_word_underscore_1: tip
+bip_39_word_underscore_10: tip_begin_menu_voice_across_cradle_right_coil_solve_ride
+bip_39_word_underscore_11: tip_begin_menu_voice_across_cradle_right_coil_solve_ride_cotton
+bip_39_word_underscore_12: tip_begin_menu_voice_across_cradle_right_coil_solve_ride_cotton_alien
+bip_39_word_underscore_2: tip_begin
+bip_39_word_underscore_3: tip_begin_menu
+bip_39_word_underscore_4: tip_begin_menu_voice
+bip_39_word_underscore_5: tip_begin_menu_voice_across
+bip_39_word_underscore_6: tip_begin_menu_voice_across_cradle
+bip_39_word_underscore_7: tip_begin_menu_voice_across_cradle_right
+bip_39_word_underscore_8: tip_begin_menu_voice_across_cradle_right_coil
+bip_39_word_underscore_9: tip_begin_menu_voice_across_cradle_right_coil_solve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

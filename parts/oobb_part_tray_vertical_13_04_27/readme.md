@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unfold |  
+| bip_39_word_dash_10 | unfold-adjust-apology-summer-fiction-teach-blind-victory-arrest-avocado |  
+| bip_39_word_dash_11 | unfold-adjust-apology-summer-fiction-teach-blind-victory-arrest-avocado-boil |  
+| bip_39_word_dash_12 | unfold-adjust-apology-summer-fiction-teach-blind-victory-arrest-avocado-boil-arrive |  
+| bip_39_word_dash_2 | unfold-adjust |  
+| bip_39_word_dash_3 | unfold-adjust-apology |  
+| bip_39_word_dash_4 | unfold-adjust-apology-summer |  
+| bip_39_word_dash_5 | unfold-adjust-apology-summer-fiction |  
+| bip_39_word_dash_6 | unfold-adjust-apology-summer-fiction-teach |  
+| bip_39_word_dash_7 | unfold-adjust-apology-summer-fiction-teach-blind |  
+| bip_39_word_dash_8 | unfold-adjust-apology-summer-fiction-teach-blind-victory |  
+| bip_39_word_dash_9 | unfold-adjust-apology-summer-fiction-teach-blind-victory-arrest |  
 | bip_39_word_new_br_1 | unfold |  
 | bip_39_word_new_br_10 | unfold<br>adjust<br>apology<br>summer<br>fiction<br>teach<br>blind<br>victory<br>arrest<br>avocado |  
 | bip_39_word_new_br_11 | unfold<br>adjust<br>apology<br>summer<br>fiction<br>teach<br>blind<br>victory<br>arrest<br>avocado<br>boil |  
@@ -147,6 +159,18 @@ arrest |
 | bip_39_word_space_7 | unfold adjust apology summer fiction teach blind |  
 | bip_39_word_space_8 | unfold adjust apology summer fiction teach blind victory |  
 | bip_39_word_space_9 | unfold adjust apology summer fiction teach blind victory arrest |  
+| bip_39_word_underscore_1 | unfold |  
+| bip_39_word_underscore_10 | unfold_adjust_apology_summer_fiction_teach_blind_victory_arrest_avocado |  
+| bip_39_word_underscore_11 | unfold_adjust_apology_summer_fiction_teach_blind_victory_arrest_avocado_boil |  
+| bip_39_word_underscore_12 | unfold_adjust_apology_summer_fiction_teach_blind_victory_arrest_avocado_boil_arrive |  
+| bip_39_word_underscore_2 | unfold_adjust |  
+| bip_39_word_underscore_3 | unfold_adjust_apology |  
+| bip_39_word_underscore_4 | unfold_adjust_apology_summer |  
+| bip_39_word_underscore_5 | unfold_adjust_apology_summer_fiction |  
+| bip_39_word_underscore_6 | unfold_adjust_apology_summer_fiction_teach |  
+| bip_39_word_underscore_7 | unfold_adjust_apology_summer_fiction_teach_blind |  
+| bip_39_word_underscore_8 | unfold_adjust_apology_summer_fiction_teach_blind_victory |  
+| bip_39_word_underscore_9 | unfold_adjust_apology_summer_fiction_teach_blind_victory_arrest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

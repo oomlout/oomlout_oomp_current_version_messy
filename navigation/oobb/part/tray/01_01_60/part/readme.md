@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | actress |  
+| bip_39_word_dash_10 | actress-round-document-veteran-issue-bracket-erupt-noble-render-craft |  
+| bip_39_word_dash_11 | actress-round-document-veteran-issue-bracket-erupt-noble-render-craft-broccoli |  
+| bip_39_word_dash_12 | actress-round-document-veteran-issue-bracket-erupt-noble-render-craft-broccoli-antique |  
+| bip_39_word_dash_2 | actress-round |  
+| bip_39_word_dash_3 | actress-round-document |  
+| bip_39_word_dash_4 | actress-round-document-veteran |  
+| bip_39_word_dash_5 | actress-round-document-veteran-issue |  
+| bip_39_word_dash_6 | actress-round-document-veteran-issue-bracket |  
+| bip_39_word_dash_7 | actress-round-document-veteran-issue-bracket-erupt |  
+| bip_39_word_dash_8 | actress-round-document-veteran-issue-bracket-erupt-noble |  
+| bip_39_word_dash_9 | actress-round-document-veteran-issue-bracket-erupt-noble-render |  
 | bip_39_word_new_br_1 | actress |  
 | bip_39_word_new_br_10 | actress<br>round<br>document<br>veteran<br>issue<br>bracket<br>erupt<br>noble<br>render<br>craft |  
 | bip_39_word_new_br_11 | actress<br>round<br>document<br>veteran<br>issue<br>bracket<br>erupt<br>noble<br>render<br>craft<br>broccoli |  
@@ -147,6 +159,18 @@ render |
 | bip_39_word_space_7 | actress round document veteran issue bracket erupt |  
 | bip_39_word_space_8 | actress round document veteran issue bracket erupt noble |  
 | bip_39_word_space_9 | actress round document veteran issue bracket erupt noble render |  
+| bip_39_word_underscore_1 | actress |  
+| bip_39_word_underscore_10 | actress_round_document_veteran_issue_bracket_erupt_noble_render_craft |  
+| bip_39_word_underscore_11 | actress_round_document_veteran_issue_bracket_erupt_noble_render_craft_broccoli |  
+| bip_39_word_underscore_12 | actress_round_document_veteran_issue_bracket_erupt_noble_render_craft_broccoli_antique |  
+| bip_39_word_underscore_2 | actress_round |  
+| bip_39_word_underscore_3 | actress_round_document |  
+| bip_39_word_underscore_4 | actress_round_document_veteran |  
+| bip_39_word_underscore_5 | actress_round_document_veteran_issue |  
+| bip_39_word_underscore_6 | actress_round_document_veteran_issue_bracket |  
+| bip_39_word_underscore_7 | actress_round_document_veteran_issue_bracket_erupt |  
+| bip_39_word_underscore_8 | actress_round_document_veteran_issue_bracket_erupt_noble |  
+| bip_39_word_underscore_9 | actress_round_document_veteran_issue_bracket_erupt_noble_render |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

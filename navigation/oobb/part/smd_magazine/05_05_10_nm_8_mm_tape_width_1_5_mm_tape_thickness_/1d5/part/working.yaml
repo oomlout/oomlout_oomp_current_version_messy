@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hidden
+bip_39_word_dash_10: hidden-element-blossom-year-evolve-wink-pave-news-flat-course
+bip_39_word_dash_11: hidden-element-blossom-year-evolve-wink-pave-news-flat-course-video
+bip_39_word_dash_12: hidden-element-blossom-year-evolve-wink-pave-news-flat-course-video-announce
+bip_39_word_dash_2: hidden-element
+bip_39_word_dash_3: hidden-element-blossom
+bip_39_word_dash_4: hidden-element-blossom-year
+bip_39_word_dash_5: hidden-element-blossom-year-evolve
+bip_39_word_dash_6: hidden-element-blossom-year-evolve-wink
+bip_39_word_dash_7: hidden-element-blossom-year-evolve-wink-pave
+bip_39_word_dash_8: hidden-element-blossom-year-evolve-wink-pave-news
+bip_39_word_dash_9: hidden-element-blossom-year-evolve-wink-pave-news-flat
 bip_39_word_new_br_1: hidden
 bip_39_word_new_br_10: hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course
 bip_39_word_new_br_11: hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course<br>video
@@ -193,6 +205,18 @@ bip_39_word_space_6: hidden element blossom year evolve wink
 bip_39_word_space_7: hidden element blossom year evolve wink pave
 bip_39_word_space_8: hidden element blossom year evolve wink pave news
 bip_39_word_space_9: hidden element blossom year evolve wink pave news flat
+bip_39_word_underscore_1: hidden
+bip_39_word_underscore_10: hidden_element_blossom_year_evolve_wink_pave_news_flat_course
+bip_39_word_underscore_11: hidden_element_blossom_year_evolve_wink_pave_news_flat_course_video
+bip_39_word_underscore_12: hidden_element_blossom_year_evolve_wink_pave_news_flat_course_video_announce
+bip_39_word_underscore_2: hidden_element
+bip_39_word_underscore_3: hidden_element_blossom
+bip_39_word_underscore_4: hidden_element_blossom_year
+bip_39_word_underscore_5: hidden_element_blossom_year_evolve
+bip_39_word_underscore_6: hidden_element_blossom_year_evolve_wink
+bip_39_word_underscore_7: hidden_element_blossom_year_evolve_wink_pave
+bip_39_word_underscore_8: hidden_element_blossom_year_evolve_wink_pave_news
+bip_39_word_underscore_9: hidden_element_blossom_year_evolve_wink_pave_news_flat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

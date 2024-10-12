@@ -1,3 +1,15 @@
+bip_39_word_dash_1: square
+bip_39_word_dash_10: square-cream-observe-cement-life-cherry-pen-pretty-lady-seat
+bip_39_word_dash_11: square-cream-observe-cement-life-cherry-pen-pretty-lady-seat-riot
+bip_39_word_dash_12: square-cream-observe-cement-life-cherry-pen-pretty-lady-seat-riot-agent
+bip_39_word_dash_2: square-cream
+bip_39_word_dash_3: square-cream-observe
+bip_39_word_dash_4: square-cream-observe-cement
+bip_39_word_dash_5: square-cream-observe-cement-life
+bip_39_word_dash_6: square-cream-observe-cement-life-cherry
+bip_39_word_dash_7: square-cream-observe-cement-life-cherry-pen
+bip_39_word_dash_8: square-cream-observe-cement-life-cherry-pen-pretty
+bip_39_word_dash_9: square-cream-observe-cement-life-cherry-pen-pretty-lady
 bip_39_word_new_br_1: square
 bip_39_word_new_br_10: square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat
 bip_39_word_new_br_11: square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat<br>riot
@@ -193,6 +205,18 @@ bip_39_word_space_6: square cream observe cement life cherry
 bip_39_word_space_7: square cream observe cement life cherry pen
 bip_39_word_space_8: square cream observe cement life cherry pen pretty
 bip_39_word_space_9: square cream observe cement life cherry pen pretty lady
+bip_39_word_underscore_1: square
+bip_39_word_underscore_10: square_cream_observe_cement_life_cherry_pen_pretty_lady_seat
+bip_39_word_underscore_11: square_cream_observe_cement_life_cherry_pen_pretty_lady_seat_riot
+bip_39_word_underscore_12: square_cream_observe_cement_life_cherry_pen_pretty_lady_seat_riot_agent
+bip_39_word_underscore_2: square_cream
+bip_39_word_underscore_3: square_cream_observe
+bip_39_word_underscore_4: square_cream_observe_cement
+bip_39_word_underscore_5: square_cream_observe_cement_life
+bip_39_word_underscore_6: square_cream_observe_cement_life_cherry
+bip_39_word_underscore_7: square_cream_observe_cement_life_cherry_pen
+bip_39_word_underscore_8: square_cream_observe_cement_life_cherry_pen_pretty
+bip_39_word_underscore_9: square_cream_observe_cement_life_cherry_pen_pretty_lady
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

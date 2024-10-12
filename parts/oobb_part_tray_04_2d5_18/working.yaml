@@ -1,3 +1,15 @@
+bip_39_word_dash_1: provide
+bip_39_word_dash_10: provide-eye-notice-outer-pulp-wing-output-stem-ketchup-disagree
+bip_39_word_dash_11: provide-eye-notice-outer-pulp-wing-output-stem-ketchup-disagree-hazard
+bip_39_word_dash_12: provide-eye-notice-outer-pulp-wing-output-stem-ketchup-disagree-hazard-antenna
+bip_39_word_dash_2: provide-eye
+bip_39_word_dash_3: provide-eye-notice
+bip_39_word_dash_4: provide-eye-notice-outer
+bip_39_word_dash_5: provide-eye-notice-outer-pulp
+bip_39_word_dash_6: provide-eye-notice-outer-pulp-wing
+bip_39_word_dash_7: provide-eye-notice-outer-pulp-wing-output
+bip_39_word_dash_8: provide-eye-notice-outer-pulp-wing-output-stem
+bip_39_word_dash_9: provide-eye-notice-outer-pulp-wing-output-stem-ketchup
 bip_39_word_new_br_1: provide
 bip_39_word_new_br_10: provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree
 bip_39_word_new_br_11: provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree<br>hazard
@@ -193,6 +205,18 @@ bip_39_word_space_6: provide eye notice outer pulp wing
 bip_39_word_space_7: provide eye notice outer pulp wing output
 bip_39_word_space_8: provide eye notice outer pulp wing output stem
 bip_39_word_space_9: provide eye notice outer pulp wing output stem ketchup
+bip_39_word_underscore_1: provide
+bip_39_word_underscore_10: provide_eye_notice_outer_pulp_wing_output_stem_ketchup_disagree
+bip_39_word_underscore_11: provide_eye_notice_outer_pulp_wing_output_stem_ketchup_disagree_hazard
+bip_39_word_underscore_12: provide_eye_notice_outer_pulp_wing_output_stem_ketchup_disagree_hazard_antenna
+bip_39_word_underscore_2: provide_eye
+bip_39_word_underscore_3: provide_eye_notice
+bip_39_word_underscore_4: provide_eye_notice_outer
+bip_39_word_underscore_5: provide_eye_notice_outer_pulp
+bip_39_word_underscore_6: provide_eye_notice_outer_pulp_wing
+bip_39_word_underscore_7: provide_eye_notice_outer_pulp_wing_output
+bip_39_word_underscore_8: provide_eye_notice_outer_pulp_wing_output_stem
+bip_39_word_underscore_9: provide_eye_notice_outer_pulp_wing_output_stem_ketchup
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

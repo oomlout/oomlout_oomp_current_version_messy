@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | humble |  
+| bip_39_word_dash_10 | humble-bone-shock-fringe-evolve-coil-duty-train-sunset-judge |  
+| bip_39_word_dash_11 | humble-bone-shock-fringe-evolve-coil-duty-train-sunset-judge-call |  
+| bip_39_word_dash_12 | humble-bone-shock-fringe-evolve-coil-duty-train-sunset-judge-call-animal |  
+| bip_39_word_dash_2 | humble-bone |  
+| bip_39_word_dash_3 | humble-bone-shock |  
+| bip_39_word_dash_4 | humble-bone-shock-fringe |  
+| bip_39_word_dash_5 | humble-bone-shock-fringe-evolve |  
+| bip_39_word_dash_6 | humble-bone-shock-fringe-evolve-coil |  
+| bip_39_word_dash_7 | humble-bone-shock-fringe-evolve-coil-duty |  
+| bip_39_word_dash_8 | humble-bone-shock-fringe-evolve-coil-duty-train |  
+| bip_39_word_dash_9 | humble-bone-shock-fringe-evolve-coil-duty-train-sunset |  
 | bip_39_word_new_br_1 | humble |  
 | bip_39_word_new_br_10 | humble<br>bone<br>shock<br>fringe<br>evolve<br>coil<br>duty<br>train<br>sunset<br>judge |  
 | bip_39_word_new_br_11 | humble<br>bone<br>shock<br>fringe<br>evolve<br>coil<br>duty<br>train<br>sunset<br>judge<br>call |  
@@ -147,6 +159,18 @@ sunset |
 | bip_39_word_space_7 | humble bone shock fringe evolve coil duty |  
 | bip_39_word_space_8 | humble bone shock fringe evolve coil duty train |  
 | bip_39_word_space_9 | humble bone shock fringe evolve coil duty train sunset |  
+| bip_39_word_underscore_1 | humble |  
+| bip_39_word_underscore_10 | humble_bone_shock_fringe_evolve_coil_duty_train_sunset_judge |  
+| bip_39_word_underscore_11 | humble_bone_shock_fringe_evolve_coil_duty_train_sunset_judge_call |  
+| bip_39_word_underscore_12 | humble_bone_shock_fringe_evolve_coil_duty_train_sunset_judge_call_animal |  
+| bip_39_word_underscore_2 | humble_bone |  
+| bip_39_word_underscore_3 | humble_bone_shock |  
+| bip_39_word_underscore_4 | humble_bone_shock_fringe |  
+| bip_39_word_underscore_5 | humble_bone_shock_fringe_evolve |  
+| bip_39_word_underscore_6 | humble_bone_shock_fringe_evolve_coil |  
+| bip_39_word_underscore_7 | humble_bone_shock_fringe_evolve_coil_duty |  
+| bip_39_word_underscore_8 | humble_bone_shock_fringe_evolve_coil_duty_train |  
+| bip_39_word_underscore_9 | humble_bone_shock_fringe_evolve_coil_duty_train_sunset |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

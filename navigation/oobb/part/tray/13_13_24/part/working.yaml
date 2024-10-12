@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pony
+bip_39_word_dash_10: pony-upon-real-ring-unit-black-venue-awesome-lobster-adult
+bip_39_word_dash_11: pony-upon-real-ring-unit-black-venue-awesome-lobster-adult-unable
+bip_39_word_dash_12: pony-upon-real-ring-unit-black-venue-awesome-lobster-adult-unable-apple
+bip_39_word_dash_2: pony-upon
+bip_39_word_dash_3: pony-upon-real
+bip_39_word_dash_4: pony-upon-real-ring
+bip_39_word_dash_5: pony-upon-real-ring-unit
+bip_39_word_dash_6: pony-upon-real-ring-unit-black
+bip_39_word_dash_7: pony-upon-real-ring-unit-black-venue
+bip_39_word_dash_8: pony-upon-real-ring-unit-black-venue-awesome
+bip_39_word_dash_9: pony-upon-real-ring-unit-black-venue-awesome-lobster
 bip_39_word_new_br_1: pony
 bip_39_word_new_br_10: pony<br>upon<br>real<br>ring<br>unit<br>black<br>venue<br>awesome<br>lobster<br>adult
 bip_39_word_new_br_11: pony<br>upon<br>real<br>ring<br>unit<br>black<br>venue<br>awesome<br>lobster<br>adult<br>unable
@@ -192,6 +204,18 @@ bip_39_word_space_6: pony upon real ring unit black
 bip_39_word_space_7: pony upon real ring unit black venue
 bip_39_word_space_8: pony upon real ring unit black venue awesome
 bip_39_word_space_9: pony upon real ring unit black venue awesome lobster
+bip_39_word_underscore_1: pony
+bip_39_word_underscore_10: pony_upon_real_ring_unit_black_venue_awesome_lobster_adult
+bip_39_word_underscore_11: pony_upon_real_ring_unit_black_venue_awesome_lobster_adult_unable
+bip_39_word_underscore_12: pony_upon_real_ring_unit_black_venue_awesome_lobster_adult_unable_apple
+bip_39_word_underscore_2: pony_upon
+bip_39_word_underscore_3: pony_upon_real
+bip_39_word_underscore_4: pony_upon_real_ring
+bip_39_word_underscore_5: pony_upon_real_ring_unit
+bip_39_word_underscore_6: pony_upon_real_ring_unit_black
+bip_39_word_underscore_7: pony_upon_real_ring_unit_black_venue
+bip_39_word_underscore_8: pony_upon_real_ring_unit_black_venue_awesome
+bip_39_word_underscore_9: pony_upon_real_ring_unit_black_venue_awesome_lobster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

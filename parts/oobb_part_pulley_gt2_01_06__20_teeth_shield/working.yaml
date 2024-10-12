@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bullet
+bip_39_word_dash_10: bullet-hedgehog-describe-maid-admit-noble-knife-rent-cotton-fade
+bip_39_word_dash_11: bullet-hedgehog-describe-maid-admit-noble-knife-rent-cotton-fade-filter
+bip_39_word_dash_12: bullet-hedgehog-describe-maid-admit-noble-knife-rent-cotton-fade-filter-attitude
+bip_39_word_dash_2: bullet-hedgehog
+bip_39_word_dash_3: bullet-hedgehog-describe
+bip_39_word_dash_4: bullet-hedgehog-describe-maid
+bip_39_word_dash_5: bullet-hedgehog-describe-maid-admit
+bip_39_word_dash_6: bullet-hedgehog-describe-maid-admit-noble
+bip_39_word_dash_7: bullet-hedgehog-describe-maid-admit-noble-knife
+bip_39_word_dash_8: bullet-hedgehog-describe-maid-admit-noble-knife-rent
+bip_39_word_dash_9: bullet-hedgehog-describe-maid-admit-noble-knife-rent-cotton
 bip_39_word_new_br_1: bullet
 bip_39_word_new_br_10: bullet<br>hedgehog<br>describe<br>maid<br>admit<br>noble<br>knife<br>rent<br>cotton<br>fade
 bip_39_word_new_br_11: bullet<br>hedgehog<br>describe<br>maid<br>admit<br>noble<br>knife<br>rent<br>cotton<br>fade<br>filter
@@ -194,6 +206,18 @@ bip_39_word_space_6: bullet hedgehog describe maid admit noble
 bip_39_word_space_7: bullet hedgehog describe maid admit noble knife
 bip_39_word_space_8: bullet hedgehog describe maid admit noble knife rent
 bip_39_word_space_9: bullet hedgehog describe maid admit noble knife rent cotton
+bip_39_word_underscore_1: bullet
+bip_39_word_underscore_10: bullet_hedgehog_describe_maid_admit_noble_knife_rent_cotton_fade
+bip_39_word_underscore_11: bullet_hedgehog_describe_maid_admit_noble_knife_rent_cotton_fade_filter
+bip_39_word_underscore_12: bullet_hedgehog_describe_maid_admit_noble_knife_rent_cotton_fade_filter_attitude
+bip_39_word_underscore_2: bullet_hedgehog
+bip_39_word_underscore_3: bullet_hedgehog_describe
+bip_39_word_underscore_4: bullet_hedgehog_describe_maid
+bip_39_word_underscore_5: bullet_hedgehog_describe_maid_admit
+bip_39_word_underscore_6: bullet_hedgehog_describe_maid_admit_noble
+bip_39_word_underscore_7: bullet_hedgehog_describe_maid_admit_noble_knife
+bip_39_word_underscore_8: bullet_hedgehog_describe_maid_admit_noble_knife_rent
+bip_39_word_underscore_9: bullet_hedgehog_describe_maid_admit_noble_knife_rent_cotton
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

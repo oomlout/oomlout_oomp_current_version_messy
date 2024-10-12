@@ -1,3 +1,15 @@
+bip_39_word_dash_1: circle
+bip_39_word_dash_10: circle-purpose-shy-kangaroo-romance-tone-teach-twist-seek-obtain
+bip_39_word_dash_11: circle-purpose-shy-kangaroo-romance-tone-teach-twist-seek-obtain-mother
+bip_39_word_dash_12: circle-purpose-shy-kangaroo-romance-tone-teach-twist-seek-obtain-mother-adjust
+bip_39_word_dash_2: circle-purpose
+bip_39_word_dash_3: circle-purpose-shy
+bip_39_word_dash_4: circle-purpose-shy-kangaroo
+bip_39_word_dash_5: circle-purpose-shy-kangaroo-romance
+bip_39_word_dash_6: circle-purpose-shy-kangaroo-romance-tone
+bip_39_word_dash_7: circle-purpose-shy-kangaroo-romance-tone-teach
+bip_39_word_dash_8: circle-purpose-shy-kangaroo-romance-tone-teach-twist
+bip_39_word_dash_9: circle-purpose-shy-kangaroo-romance-tone-teach-twist-seek
 bip_39_word_new_br_1: circle
 bip_39_word_new_br_10: circle<br>purpose<br>shy<br>kangaroo<br>romance<br>tone<br>teach<br>twist<br>seek<br>obtain
 bip_39_word_new_br_11: circle<br>purpose<br>shy<br>kangaroo<br>romance<br>tone<br>teach<br>twist<br>seek<br>obtain<br>mother
@@ -193,6 +205,18 @@ bip_39_word_space_6: circle purpose shy kangaroo romance tone
 bip_39_word_space_7: circle purpose shy kangaroo romance tone teach
 bip_39_word_space_8: circle purpose shy kangaroo romance tone teach twist
 bip_39_word_space_9: circle purpose shy kangaroo romance tone teach twist seek
+bip_39_word_underscore_1: circle
+bip_39_word_underscore_10: circle_purpose_shy_kangaroo_romance_tone_teach_twist_seek_obtain
+bip_39_word_underscore_11: circle_purpose_shy_kangaroo_romance_tone_teach_twist_seek_obtain_mother
+bip_39_word_underscore_12: circle_purpose_shy_kangaroo_romance_tone_teach_twist_seek_obtain_mother_adjust
+bip_39_word_underscore_2: circle_purpose
+bip_39_word_underscore_3: circle_purpose_shy
+bip_39_word_underscore_4: circle_purpose_shy_kangaroo
+bip_39_word_underscore_5: circle_purpose_shy_kangaroo_romance
+bip_39_word_underscore_6: circle_purpose_shy_kangaroo_romance_tone
+bip_39_word_underscore_7: circle_purpose_shy_kangaroo_romance_tone_teach
+bip_39_word_underscore_8: circle_purpose_shy_kangaroo_romance_tone_teach_twist
+bip_39_word_underscore_9: circle_purpose_shy_kangaroo_romance_tone_teach_twist_seek
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

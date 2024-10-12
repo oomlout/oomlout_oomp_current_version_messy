@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | barrel |  
+| bip_39_word_dash_10 | barrel-pride-loyal-quick-prevent-crumble-repeat-fat-cattle-interest |  
+| bip_39_word_dash_11 | barrel-pride-loyal-quick-prevent-crumble-repeat-fat-cattle-interest-long |  
+| bip_39_word_dash_12 | barrel-pride-loyal-quick-prevent-crumble-repeat-fat-cattle-interest-long-around |  
+| bip_39_word_dash_2 | barrel-pride |  
+| bip_39_word_dash_3 | barrel-pride-loyal |  
+| bip_39_word_dash_4 | barrel-pride-loyal-quick |  
+| bip_39_word_dash_5 | barrel-pride-loyal-quick-prevent |  
+| bip_39_word_dash_6 | barrel-pride-loyal-quick-prevent-crumble |  
+| bip_39_word_dash_7 | barrel-pride-loyal-quick-prevent-crumble-repeat |  
+| bip_39_word_dash_8 | barrel-pride-loyal-quick-prevent-crumble-repeat-fat |  
+| bip_39_word_dash_9 | barrel-pride-loyal-quick-prevent-crumble-repeat-fat-cattle |  
 | bip_39_word_new_br_1 | barrel |  
 | bip_39_word_new_br_10 | barrel<br>pride<br>loyal<br>quick<br>prevent<br>crumble<br>repeat<br>fat<br>cattle<br>interest |  
 | bip_39_word_new_br_11 | barrel<br>pride<br>loyal<br>quick<br>prevent<br>crumble<br>repeat<br>fat<br>cattle<br>interest<br>long |  
@@ -147,6 +159,18 @@ cattle |
 | bip_39_word_space_7 | barrel pride loyal quick prevent crumble repeat |  
 | bip_39_word_space_8 | barrel pride loyal quick prevent crumble repeat fat |  
 | bip_39_word_space_9 | barrel pride loyal quick prevent crumble repeat fat cattle |  
+| bip_39_word_underscore_1 | barrel |  
+| bip_39_word_underscore_10 | barrel_pride_loyal_quick_prevent_crumble_repeat_fat_cattle_interest |  
+| bip_39_word_underscore_11 | barrel_pride_loyal_quick_prevent_crumble_repeat_fat_cattle_interest_long |  
+| bip_39_word_underscore_12 | barrel_pride_loyal_quick_prevent_crumble_repeat_fat_cattle_interest_long_around |  
+| bip_39_word_underscore_2 | barrel_pride |  
+| bip_39_word_underscore_3 | barrel_pride_loyal |  
+| bip_39_word_underscore_4 | barrel_pride_loyal_quick |  
+| bip_39_word_underscore_5 | barrel_pride_loyal_quick_prevent |  
+| bip_39_word_underscore_6 | barrel_pride_loyal_quick_prevent_crumble |  
+| bip_39_word_underscore_7 | barrel_pride_loyal_quick_prevent_crumble_repeat |  
+| bip_39_word_underscore_8 | barrel_pride_loyal_quick_prevent_crumble_repeat_fat |  
+| bip_39_word_underscore_9 | barrel_pride_loyal_quick_prevent_crumble_repeat_fat_cattle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

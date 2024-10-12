@@ -1,3 +1,15 @@
+bip_39_word_dash_1: subject
+bip_39_word_dash_10: subject-canal-give-document-evidence-chase-captain-label-sad-athlete
+bip_39_word_dash_11: subject-canal-give-document-evidence-chase-captain-label-sad-athlete-canvas
+bip_39_word_dash_12: subject-canal-give-document-evidence-chase-captain-label-sad-athlete-canvas-actress
+bip_39_word_dash_2: subject-canal
+bip_39_word_dash_3: subject-canal-give
+bip_39_word_dash_4: subject-canal-give-document
+bip_39_word_dash_5: subject-canal-give-document-evidence
+bip_39_word_dash_6: subject-canal-give-document-evidence-chase
+bip_39_word_dash_7: subject-canal-give-document-evidence-chase-captain
+bip_39_word_dash_8: subject-canal-give-document-evidence-chase-captain-label
+bip_39_word_dash_9: subject-canal-give-document-evidence-chase-captain-label-sad
 bip_39_word_new_br_1: subject
 bip_39_word_new_br_10: subject<br>canal<br>give<br>document<br>evidence<br>chase<br>captain<br>label<br>sad<br>athlete
 bip_39_word_new_br_11: subject<br>canal<br>give<br>document<br>evidence<br>chase<br>captain<br>label<br>sad<br>athlete<br>canvas
@@ -194,6 +206,18 @@ bip_39_word_space_6: subject canal give document evidence chase
 bip_39_word_space_7: subject canal give document evidence chase captain
 bip_39_word_space_8: subject canal give document evidence chase captain label
 bip_39_word_space_9: subject canal give document evidence chase captain label sad
+bip_39_word_underscore_1: subject
+bip_39_word_underscore_10: subject_canal_give_document_evidence_chase_captain_label_sad_athlete
+bip_39_word_underscore_11: subject_canal_give_document_evidence_chase_captain_label_sad_athlete_canvas
+bip_39_word_underscore_12: subject_canal_give_document_evidence_chase_captain_label_sad_athlete_canvas_actress
+bip_39_word_underscore_2: subject_canal
+bip_39_word_underscore_3: subject_canal_give
+bip_39_word_underscore_4: subject_canal_give_document
+bip_39_word_underscore_5: subject_canal_give_document_evidence
+bip_39_word_underscore_6: subject_canal_give_document_evidence_chase
+bip_39_word_underscore_7: subject_canal_give_document_evidence_chase_captain
+bip_39_word_underscore_8: subject_canal_give_document_evidence_chase_captain_label
+bip_39_word_underscore_9: subject_canal_give_document_evidence_chase_captain_label_sad
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

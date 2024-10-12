@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lobster |  
+| bip_39_word_dash_10 | lobster-luggage-debate-evidence-gentle-coffee-match-purpose-media-medal |  
+| bip_39_word_dash_11 | lobster-luggage-debate-evidence-gentle-coffee-match-purpose-media-medal-toss |  
+| bip_39_word_dash_12 | lobster-luggage-debate-evidence-gentle-coffee-match-purpose-media-medal-toss-august |  
+| bip_39_word_dash_2 | lobster-luggage |  
+| bip_39_word_dash_3 | lobster-luggage-debate |  
+| bip_39_word_dash_4 | lobster-luggage-debate-evidence |  
+| bip_39_word_dash_5 | lobster-luggage-debate-evidence-gentle |  
+| bip_39_word_dash_6 | lobster-luggage-debate-evidence-gentle-coffee |  
+| bip_39_word_dash_7 | lobster-luggage-debate-evidence-gentle-coffee-match |  
+| bip_39_word_dash_8 | lobster-luggage-debate-evidence-gentle-coffee-match-purpose |  
+| bip_39_word_dash_9 | lobster-luggage-debate-evidence-gentle-coffee-match-purpose-media |  
 | bip_39_word_new_br_1 | lobster |  
 | bip_39_word_new_br_10 | lobster<br>luggage<br>debate<br>evidence<br>gentle<br>coffee<br>match<br>purpose<br>media<br>medal |  
 | bip_39_word_new_br_11 | lobster<br>luggage<br>debate<br>evidence<br>gentle<br>coffee<br>match<br>purpose<br>media<br>medal<br>toss |  
@@ -147,6 +159,18 @@ media |
 | bip_39_word_space_7 | lobster luggage debate evidence gentle coffee match |  
 | bip_39_word_space_8 | lobster luggage debate evidence gentle coffee match purpose |  
 | bip_39_word_space_9 | lobster luggage debate evidence gentle coffee match purpose media |  
+| bip_39_word_underscore_1 | lobster |  
+| bip_39_word_underscore_10 | lobster_luggage_debate_evidence_gentle_coffee_match_purpose_media_medal |  
+| bip_39_word_underscore_11 | lobster_luggage_debate_evidence_gentle_coffee_match_purpose_media_medal_toss |  
+| bip_39_word_underscore_12 | lobster_luggage_debate_evidence_gentle_coffee_match_purpose_media_medal_toss_august |  
+| bip_39_word_underscore_2 | lobster_luggage |  
+| bip_39_word_underscore_3 | lobster_luggage_debate |  
+| bip_39_word_underscore_4 | lobster_luggage_debate_evidence |  
+| bip_39_word_underscore_5 | lobster_luggage_debate_evidence_gentle |  
+| bip_39_word_underscore_6 | lobster_luggage_debate_evidence_gentle_coffee |  
+| bip_39_word_underscore_7 | lobster_luggage_debate_evidence_gentle_coffee_match |  
+| bip_39_word_underscore_8 | lobster_luggage_debate_evidence_gentle_coffee_match_purpose |  
+| bip_39_word_underscore_9 | lobster_luggage_debate_evidence_gentle_coffee_match_purpose_media |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

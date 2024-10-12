@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hurt |  
+| bip_39_word_dash_10 | hurt-puzzle-model-fun-tired-region-inspire-senior-couple-pig |  
+| bip_39_word_dash_11 | hurt-puzzle-model-fun-tired-region-inspire-senior-couple-pig-tired |  
+| bip_39_word_dash_12 | hurt-puzzle-model-fun-tired-region-inspire-senior-couple-pig-tired-assist |  
+| bip_39_word_dash_2 | hurt-puzzle |  
+| bip_39_word_dash_3 | hurt-puzzle-model |  
+| bip_39_word_dash_4 | hurt-puzzle-model-fun |  
+| bip_39_word_dash_5 | hurt-puzzle-model-fun-tired |  
+| bip_39_word_dash_6 | hurt-puzzle-model-fun-tired-region |  
+| bip_39_word_dash_7 | hurt-puzzle-model-fun-tired-region-inspire |  
+| bip_39_word_dash_8 | hurt-puzzle-model-fun-tired-region-inspire-senior |  
+| bip_39_word_dash_9 | hurt-puzzle-model-fun-tired-region-inspire-senior-couple |  
 | bip_39_word_new_br_1 | hurt |  
 | bip_39_word_new_br_10 | hurt<br>puzzle<br>model<br>fun<br>tired<br>region<br>inspire<br>senior<br>couple<br>pig |  
 | bip_39_word_new_br_11 | hurt<br>puzzle<br>model<br>fun<br>tired<br>region<br>inspire<br>senior<br>couple<br>pig<br>tired |  
@@ -147,6 +159,18 @@ couple |
 | bip_39_word_space_7 | hurt puzzle model fun tired region inspire |  
 | bip_39_word_space_8 | hurt puzzle model fun tired region inspire senior |  
 | bip_39_word_space_9 | hurt puzzle model fun tired region inspire senior couple |  
+| bip_39_word_underscore_1 | hurt |  
+| bip_39_word_underscore_10 | hurt_puzzle_model_fun_tired_region_inspire_senior_couple_pig |  
+| bip_39_word_underscore_11 | hurt_puzzle_model_fun_tired_region_inspire_senior_couple_pig_tired |  
+| bip_39_word_underscore_12 | hurt_puzzle_model_fun_tired_region_inspire_senior_couple_pig_tired_assist |  
+| bip_39_word_underscore_2 | hurt_puzzle |  
+| bip_39_word_underscore_3 | hurt_puzzle_model |  
+| bip_39_word_underscore_4 | hurt_puzzle_model_fun |  
+| bip_39_word_underscore_5 | hurt_puzzle_model_fun_tired |  
+| bip_39_word_underscore_6 | hurt_puzzle_model_fun_tired_region |  
+| bip_39_word_underscore_7 | hurt_puzzle_model_fun_tired_region_inspire |  
+| bip_39_word_underscore_8 | hurt_puzzle_model_fun_tired_region_inspire_senior |  
+| bip_39_word_underscore_9 | hurt_puzzle_model_fun_tired_region_inspire_senior_couple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

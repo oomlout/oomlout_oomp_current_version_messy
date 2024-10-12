@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sea |  
+| bip_39_word_dash_10 | sea-weather-club-vintage-main-cream-fix-have-prepare-genuine |  
+| bip_39_word_dash_11 | sea-weather-club-vintage-main-cream-fix-have-prepare-genuine-spend |  
+| bip_39_word_dash_12 | sea-weather-club-vintage-main-cream-fix-have-prepare-genuine-spend-also |  
+| bip_39_word_dash_2 | sea-weather |  
+| bip_39_word_dash_3 | sea-weather-club |  
+| bip_39_word_dash_4 | sea-weather-club-vintage |  
+| bip_39_word_dash_5 | sea-weather-club-vintage-main |  
+| bip_39_word_dash_6 | sea-weather-club-vintage-main-cream |  
+| bip_39_word_dash_7 | sea-weather-club-vintage-main-cream-fix |  
+| bip_39_word_dash_8 | sea-weather-club-vintage-main-cream-fix-have |  
+| bip_39_word_dash_9 | sea-weather-club-vintage-main-cream-fix-have-prepare |  
 | bip_39_word_new_br_1 | sea |  
 | bip_39_word_new_br_10 | sea<br>weather<br>club<br>vintage<br>main<br>cream<br>fix<br>have<br>prepare<br>genuine |  
 | bip_39_word_new_br_11 | sea<br>weather<br>club<br>vintage<br>main<br>cream<br>fix<br>have<br>prepare<br>genuine<br>spend |  
@@ -147,6 +159,18 @@ prepare |
 | bip_39_word_space_7 | sea weather club vintage main cream fix |  
 | bip_39_word_space_8 | sea weather club vintage main cream fix have |  
 | bip_39_word_space_9 | sea weather club vintage main cream fix have prepare |  
+| bip_39_word_underscore_1 | sea |  
+| bip_39_word_underscore_10 | sea_weather_club_vintage_main_cream_fix_have_prepare_genuine |  
+| bip_39_word_underscore_11 | sea_weather_club_vintage_main_cream_fix_have_prepare_genuine_spend |  
+| bip_39_word_underscore_12 | sea_weather_club_vintage_main_cream_fix_have_prepare_genuine_spend_also |  
+| bip_39_word_underscore_2 | sea_weather |  
+| bip_39_word_underscore_3 | sea_weather_club |  
+| bip_39_word_underscore_4 | sea_weather_club_vintage |  
+| bip_39_word_underscore_5 | sea_weather_club_vintage_main |  
+| bip_39_word_underscore_6 | sea_weather_club_vintage_main_cream |  
+| bip_39_word_underscore_7 | sea_weather_club_vintage_main_cream_fix |  
+| bip_39_word_underscore_8 | sea_weather_club_vintage_main_cream_fix_have |  
+| bip_39_word_underscore_9 | sea_weather_club_vintage_main_cream_fix_have_prepare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

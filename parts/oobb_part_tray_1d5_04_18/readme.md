@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | message |  
+| bip_39_word_dash_10 | message-view-dinosaur-kiss-traffic-mix-biology-journey-cement-garden |  
+| bip_39_word_dash_11 | message-view-dinosaur-kiss-traffic-mix-biology-journey-cement-garden-donkey |  
+| bip_39_word_dash_12 | message-view-dinosaur-kiss-traffic-mix-biology-journey-cement-garden-donkey-agree |  
+| bip_39_word_dash_2 | message-view |  
+| bip_39_word_dash_3 | message-view-dinosaur |  
+| bip_39_word_dash_4 | message-view-dinosaur-kiss |  
+| bip_39_word_dash_5 | message-view-dinosaur-kiss-traffic |  
+| bip_39_word_dash_6 | message-view-dinosaur-kiss-traffic-mix |  
+| bip_39_word_dash_7 | message-view-dinosaur-kiss-traffic-mix-biology |  
+| bip_39_word_dash_8 | message-view-dinosaur-kiss-traffic-mix-biology-journey |  
+| bip_39_word_dash_9 | message-view-dinosaur-kiss-traffic-mix-biology-journey-cement |  
 | bip_39_word_new_br_1 | message |  
 | bip_39_word_new_br_10 | message<br>view<br>dinosaur<br>kiss<br>traffic<br>mix<br>biology<br>journey<br>cement<br>garden |  
 | bip_39_word_new_br_11 | message<br>view<br>dinosaur<br>kiss<br>traffic<br>mix<br>biology<br>journey<br>cement<br>garden<br>donkey |  
@@ -147,6 +159,18 @@ cement |
 | bip_39_word_space_7 | message view dinosaur kiss traffic mix biology |  
 | bip_39_word_space_8 | message view dinosaur kiss traffic mix biology journey |  
 | bip_39_word_space_9 | message view dinosaur kiss traffic mix biology journey cement |  
+| bip_39_word_underscore_1 | message |  
+| bip_39_word_underscore_10 | message_view_dinosaur_kiss_traffic_mix_biology_journey_cement_garden |  
+| bip_39_word_underscore_11 | message_view_dinosaur_kiss_traffic_mix_biology_journey_cement_garden_donkey |  
+| bip_39_word_underscore_12 | message_view_dinosaur_kiss_traffic_mix_biology_journey_cement_garden_donkey_agree |  
+| bip_39_word_underscore_2 | message_view |  
+| bip_39_word_underscore_3 | message_view_dinosaur |  
+| bip_39_word_underscore_4 | message_view_dinosaur_kiss |  
+| bip_39_word_underscore_5 | message_view_dinosaur_kiss_traffic |  
+| bip_39_word_underscore_6 | message_view_dinosaur_kiss_traffic_mix |  
+| bip_39_word_underscore_7 | message_view_dinosaur_kiss_traffic_mix_biology |  
+| bip_39_word_underscore_8 | message_view_dinosaur_kiss_traffic_mix_biology_journey |  
+| bip_39_word_underscore_9 | message_view_dinosaur_kiss_traffic_mix_biology_journey_cement |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

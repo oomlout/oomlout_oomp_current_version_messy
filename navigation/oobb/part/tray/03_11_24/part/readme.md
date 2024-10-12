@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | end |  
+| bip_39_word_dash_10 | end-odor-glory-tumble-program-garage-stem-swamp-valve-abandon |  
+| bip_39_word_dash_11 | end-odor-glory-tumble-program-garage-stem-swamp-valve-abandon-buyer |  
+| bip_39_word_dash_12 | end-odor-glory-tumble-program-garage-stem-swamp-valve-abandon-buyer-admit |  
+| bip_39_word_dash_2 | end-odor |  
+| bip_39_word_dash_3 | end-odor-glory |  
+| bip_39_word_dash_4 | end-odor-glory-tumble |  
+| bip_39_word_dash_5 | end-odor-glory-tumble-program |  
+| bip_39_word_dash_6 | end-odor-glory-tumble-program-garage |  
+| bip_39_word_dash_7 | end-odor-glory-tumble-program-garage-stem |  
+| bip_39_word_dash_8 | end-odor-glory-tumble-program-garage-stem-swamp |  
+| bip_39_word_dash_9 | end-odor-glory-tumble-program-garage-stem-swamp-valve |  
 | bip_39_word_new_br_1 | end |  
 | bip_39_word_new_br_10 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon |  
 | bip_39_word_new_br_11 | end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon<br>buyer |  
@@ -147,6 +159,18 @@ valve |
 | bip_39_word_space_7 | end odor glory tumble program garage stem |  
 | bip_39_word_space_8 | end odor glory tumble program garage stem swamp |  
 | bip_39_word_space_9 | end odor glory tumble program garage stem swamp valve |  
+| bip_39_word_underscore_1 | end |  
+| bip_39_word_underscore_10 | end_odor_glory_tumble_program_garage_stem_swamp_valve_abandon |  
+| bip_39_word_underscore_11 | end_odor_glory_tumble_program_garage_stem_swamp_valve_abandon_buyer |  
+| bip_39_word_underscore_12 | end_odor_glory_tumble_program_garage_stem_swamp_valve_abandon_buyer_admit |  
+| bip_39_word_underscore_2 | end_odor |  
+| bip_39_word_underscore_3 | end_odor_glory |  
+| bip_39_word_underscore_4 | end_odor_glory_tumble |  
+| bip_39_word_underscore_5 | end_odor_glory_tumble_program |  
+| bip_39_word_underscore_6 | end_odor_glory_tumble_program_garage |  
+| bip_39_word_underscore_7 | end_odor_glory_tumble_program_garage_stem |  
+| bip_39_word_underscore_8 | end_odor_glory_tumble_program_garage_stem_swamp |  
+| bip_39_word_underscore_9 | end_odor_glory_tumble_program_garage_stem_swamp_valve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

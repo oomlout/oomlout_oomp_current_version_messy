@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | police |  
+| bip_39_word_dash_10 | police-muffin-level-retreat-believe-foot-visa-squirrel-write-firm |  
+| bip_39_word_dash_11 | police-muffin-level-retreat-believe-foot-visa-squirrel-write-firm-fall |  
+| bip_39_word_dash_12 | police-muffin-level-retreat-believe-foot-visa-squirrel-write-firm-fall-around |  
+| bip_39_word_dash_2 | police-muffin |  
+| bip_39_word_dash_3 | police-muffin-level |  
+| bip_39_word_dash_4 | police-muffin-level-retreat |  
+| bip_39_word_dash_5 | police-muffin-level-retreat-believe |  
+| bip_39_word_dash_6 | police-muffin-level-retreat-believe-foot |  
+| bip_39_word_dash_7 | police-muffin-level-retreat-believe-foot-visa |  
+| bip_39_word_dash_8 | police-muffin-level-retreat-believe-foot-visa-squirrel |  
+| bip_39_word_dash_9 | police-muffin-level-retreat-believe-foot-visa-squirrel-write |  
 | bip_39_word_new_br_1 | police |  
 | bip_39_word_new_br_10 | police<br>muffin<br>level<br>retreat<br>believe<br>foot<br>visa<br>squirrel<br>write<br>firm |  
 | bip_39_word_new_br_11 | police<br>muffin<br>level<br>retreat<br>believe<br>foot<br>visa<br>squirrel<br>write<br>firm<br>fall |  
@@ -147,6 +159,18 @@ write |
 | bip_39_word_space_7 | police muffin level retreat believe foot visa |  
 | bip_39_word_space_8 | police muffin level retreat believe foot visa squirrel |  
 | bip_39_word_space_9 | police muffin level retreat believe foot visa squirrel write |  
+| bip_39_word_underscore_1 | police |  
+| bip_39_word_underscore_10 | police_muffin_level_retreat_believe_foot_visa_squirrel_write_firm |  
+| bip_39_word_underscore_11 | police_muffin_level_retreat_believe_foot_visa_squirrel_write_firm_fall |  
+| bip_39_word_underscore_12 | police_muffin_level_retreat_believe_foot_visa_squirrel_write_firm_fall_around |  
+| bip_39_word_underscore_2 | police_muffin |  
+| bip_39_word_underscore_3 | police_muffin_level |  
+| bip_39_word_underscore_4 | police_muffin_level_retreat |  
+| bip_39_word_underscore_5 | police_muffin_level_retreat_believe |  
+| bip_39_word_underscore_6 | police_muffin_level_retreat_believe_foot |  
+| bip_39_word_underscore_7 | police_muffin_level_retreat_believe_foot_visa |  
+| bip_39_word_underscore_8 | police_muffin_level_retreat_believe_foot_visa_squirrel |  
+| bip_39_word_underscore_9 | police_muffin_level_retreat_believe_foot_visa_squirrel_write |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

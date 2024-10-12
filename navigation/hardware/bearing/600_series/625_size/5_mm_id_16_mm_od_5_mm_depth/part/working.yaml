@@ -1,3 +1,15 @@
+bip_39_word_dash_1: correct
+bip_39_word_dash_10: correct-angry-universe-spring-tree-outdoor-mammal-hollow-evil-north
+bip_39_word_dash_11: correct-angry-universe-spring-tree-outdoor-mammal-hollow-evil-north-source
+bip_39_word_dash_12: correct-angry-universe-spring-tree-outdoor-mammal-hollow-evil-north-source-agent
+bip_39_word_dash_2: correct-angry
+bip_39_word_dash_3: correct-angry-universe
+bip_39_word_dash_4: correct-angry-universe-spring
+bip_39_word_dash_5: correct-angry-universe-spring-tree
+bip_39_word_dash_6: correct-angry-universe-spring-tree-outdoor
+bip_39_word_dash_7: correct-angry-universe-spring-tree-outdoor-mammal
+bip_39_word_dash_8: correct-angry-universe-spring-tree-outdoor-mammal-hollow
+bip_39_word_dash_9: correct-angry-universe-spring-tree-outdoor-mammal-hollow-evil
 bip_39_word_new_br_1: correct
 bip_39_word_new_br_10: correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow<br>evil<br>north
 bip_39_word_new_br_11: correct<br>angry<br>universe<br>spring<br>tree<br>outdoor<br>mammal<br>hollow<br>evil<br>north<br>source
@@ -194,6 +206,18 @@ bip_39_word_space_6: correct angry universe spring tree outdoor
 bip_39_word_space_7: correct angry universe spring tree outdoor mammal
 bip_39_word_space_8: correct angry universe spring tree outdoor mammal hollow
 bip_39_word_space_9: correct angry universe spring tree outdoor mammal hollow evil
+bip_39_word_underscore_1: correct
+bip_39_word_underscore_10: correct_angry_universe_spring_tree_outdoor_mammal_hollow_evil_north
+bip_39_word_underscore_11: correct_angry_universe_spring_tree_outdoor_mammal_hollow_evil_north_source
+bip_39_word_underscore_12: correct_angry_universe_spring_tree_outdoor_mammal_hollow_evil_north_source_agent
+bip_39_word_underscore_2: correct_angry
+bip_39_word_underscore_3: correct_angry_universe
+bip_39_word_underscore_4: correct_angry_universe_spring
+bip_39_word_underscore_5: correct_angry_universe_spring_tree
+bip_39_word_underscore_6: correct_angry_universe_spring_tree_outdoor
+bip_39_word_underscore_7: correct_angry_universe_spring_tree_outdoor_mammal
+bip_39_word_underscore_8: correct_angry_universe_spring_tree_outdoor_mammal_hollow
+bip_39_word_underscore_9: correct_angry_universe_spring_tree_outdoor_mammal_hollow_evil
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

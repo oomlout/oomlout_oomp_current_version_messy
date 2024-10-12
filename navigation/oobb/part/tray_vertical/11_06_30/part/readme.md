@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | online |  
+| bip_39_word_dash_10 | online-announce-fresh-below-confirm-keep-park-fold-bamboo-correct |  
+| bip_39_word_dash_11 | online-announce-fresh-below-confirm-keep-park-fold-bamboo-correct-series |  
+| bip_39_word_dash_12 | online-announce-fresh-below-confirm-keep-park-fold-bamboo-correct-series-airport |  
+| bip_39_word_dash_2 | online-announce |  
+| bip_39_word_dash_3 | online-announce-fresh |  
+| bip_39_word_dash_4 | online-announce-fresh-below |  
+| bip_39_word_dash_5 | online-announce-fresh-below-confirm |  
+| bip_39_word_dash_6 | online-announce-fresh-below-confirm-keep |  
+| bip_39_word_dash_7 | online-announce-fresh-below-confirm-keep-park |  
+| bip_39_word_dash_8 | online-announce-fresh-below-confirm-keep-park-fold |  
+| bip_39_word_dash_9 | online-announce-fresh-below-confirm-keep-park-fold-bamboo |  
 | bip_39_word_new_br_1 | online |  
 | bip_39_word_new_br_10 | online<br>announce<br>fresh<br>below<br>confirm<br>keep<br>park<br>fold<br>bamboo<br>correct |  
 | bip_39_word_new_br_11 | online<br>announce<br>fresh<br>below<br>confirm<br>keep<br>park<br>fold<br>bamboo<br>correct<br>series |  
@@ -147,6 +159,18 @@ bamboo |
 | bip_39_word_space_7 | online announce fresh below confirm keep park |  
 | bip_39_word_space_8 | online announce fresh below confirm keep park fold |  
 | bip_39_word_space_9 | online announce fresh below confirm keep park fold bamboo |  
+| bip_39_word_underscore_1 | online |  
+| bip_39_word_underscore_10 | online_announce_fresh_below_confirm_keep_park_fold_bamboo_correct |  
+| bip_39_word_underscore_11 | online_announce_fresh_below_confirm_keep_park_fold_bamboo_correct_series |  
+| bip_39_word_underscore_12 | online_announce_fresh_below_confirm_keep_park_fold_bamboo_correct_series_airport |  
+| bip_39_word_underscore_2 | online_announce |  
+| bip_39_word_underscore_3 | online_announce_fresh |  
+| bip_39_word_underscore_4 | online_announce_fresh_below |  
+| bip_39_word_underscore_5 | online_announce_fresh_below_confirm |  
+| bip_39_word_underscore_6 | online_announce_fresh_below_confirm_keep |  
+| bip_39_word_underscore_7 | online_announce_fresh_below_confirm_keep_park |  
+| bip_39_word_underscore_8 | online_announce_fresh_below_confirm_keep_park_fold |  
+| bip_39_word_underscore_9 | online_announce_fresh_below_confirm_keep_park_fold_bamboo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resist |  
+| bip_39_word_dash_10 | resist-shop-reunion-camp-sweet-split-stomach-now-thrive-ice |  
+| bip_39_word_dash_11 | resist-shop-reunion-camp-sweet-split-stomach-now-thrive-ice-shoulder |  
+| bip_39_word_dash_12 | resist-shop-reunion-camp-sweet-split-stomach-now-thrive-ice-shoulder-ankle |  
+| bip_39_word_dash_2 | resist-shop |  
+| bip_39_word_dash_3 | resist-shop-reunion |  
+| bip_39_word_dash_4 | resist-shop-reunion-camp |  
+| bip_39_word_dash_5 | resist-shop-reunion-camp-sweet |  
+| bip_39_word_dash_6 | resist-shop-reunion-camp-sweet-split |  
+| bip_39_word_dash_7 | resist-shop-reunion-camp-sweet-split-stomach |  
+| bip_39_word_dash_8 | resist-shop-reunion-camp-sweet-split-stomach-now |  
+| bip_39_word_dash_9 | resist-shop-reunion-camp-sweet-split-stomach-now-thrive |  
 | bip_39_word_new_br_1 | resist |  
 | bip_39_word_new_br_10 | resist<br>shop<br>reunion<br>camp<br>sweet<br>split<br>stomach<br>now<br>thrive<br>ice |  
 | bip_39_word_new_br_11 | resist<br>shop<br>reunion<br>camp<br>sweet<br>split<br>stomach<br>now<br>thrive<br>ice<br>shoulder |  
@@ -147,6 +159,18 @@ thrive |
 | bip_39_word_space_7 | resist shop reunion camp sweet split stomach |  
 | bip_39_word_space_8 | resist shop reunion camp sweet split stomach now |  
 | bip_39_word_space_9 | resist shop reunion camp sweet split stomach now thrive |  
+| bip_39_word_underscore_1 | resist |  
+| bip_39_word_underscore_10 | resist_shop_reunion_camp_sweet_split_stomach_now_thrive_ice |  
+| bip_39_word_underscore_11 | resist_shop_reunion_camp_sweet_split_stomach_now_thrive_ice_shoulder |  
+| bip_39_word_underscore_12 | resist_shop_reunion_camp_sweet_split_stomach_now_thrive_ice_shoulder_ankle |  
+| bip_39_word_underscore_2 | resist_shop |  
+| bip_39_word_underscore_3 | resist_shop_reunion |  
+| bip_39_word_underscore_4 | resist_shop_reunion_camp |  
+| bip_39_word_underscore_5 | resist_shop_reunion_camp_sweet |  
+| bip_39_word_underscore_6 | resist_shop_reunion_camp_sweet_split |  
+| bip_39_word_underscore_7 | resist_shop_reunion_camp_sweet_split_stomach |  
+| bip_39_word_underscore_8 | resist_shop_reunion_camp_sweet_split_stomach_now |  
+| bip_39_word_underscore_9 | resist_shop_reunion_camp_sweet_split_stomach_now_thrive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

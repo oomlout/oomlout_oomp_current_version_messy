@@ -1,3 +1,15 @@
+bip_39_word_dash_1: woman
+bip_39_word_dash_10: woman-arrange-jar-hundred-alley-symbol-affair-effort-such-monkey
+bip_39_word_dash_11: woman-arrange-jar-hundred-alley-symbol-affair-effort-such-monkey-cupboard
+bip_39_word_dash_12: woman-arrange-jar-hundred-alley-symbol-affair-effort-such-monkey-cupboard-acquire
+bip_39_word_dash_2: woman-arrange
+bip_39_word_dash_3: woman-arrange-jar
+bip_39_word_dash_4: woman-arrange-jar-hundred
+bip_39_word_dash_5: woman-arrange-jar-hundred-alley
+bip_39_word_dash_6: woman-arrange-jar-hundred-alley-symbol
+bip_39_word_dash_7: woman-arrange-jar-hundred-alley-symbol-affair
+bip_39_word_dash_8: woman-arrange-jar-hundred-alley-symbol-affair-effort
+bip_39_word_dash_9: woman-arrange-jar-hundred-alley-symbol-affair-effort-such
 bip_39_word_new_br_1: woman
 bip_39_word_new_br_10: woman<br>arrange<br>jar<br>hundred<br>alley<br>symbol<br>affair<br>effort<br>such<br>monkey
 bip_39_word_new_br_11: woman<br>arrange<br>jar<br>hundred<br>alley<br>symbol<br>affair<br>effort<br>such<br>monkey<br>cupboard
@@ -193,6 +205,18 @@ bip_39_word_space_6: woman arrange jar hundred alley symbol
 bip_39_word_space_7: woman arrange jar hundred alley symbol affair
 bip_39_word_space_8: woman arrange jar hundred alley symbol affair effort
 bip_39_word_space_9: woman arrange jar hundred alley symbol affair effort such
+bip_39_word_underscore_1: woman
+bip_39_word_underscore_10: woman_arrange_jar_hundred_alley_symbol_affair_effort_such_monkey
+bip_39_word_underscore_11: woman_arrange_jar_hundred_alley_symbol_affair_effort_such_monkey_cupboard
+bip_39_word_underscore_12: woman_arrange_jar_hundred_alley_symbol_affair_effort_such_monkey_cupboard_acquire
+bip_39_word_underscore_2: woman_arrange
+bip_39_word_underscore_3: woman_arrange_jar
+bip_39_word_underscore_4: woman_arrange_jar_hundred
+bip_39_word_underscore_5: woman_arrange_jar_hundred_alley
+bip_39_word_underscore_6: woman_arrange_jar_hundred_alley_symbol
+bip_39_word_underscore_7: woman_arrange_jar_hundred_alley_symbol_affair
+bip_39_word_underscore_8: woman_arrange_jar_hundred_alley_symbol_affair_effort
+bip_39_word_underscore_9: woman_arrange_jar_hundred_alley_symbol_affair_effort_such
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nurse |  
+| bip_39_word_dash_10 | nurse-print-elevator-mango-comic-pyramid-prepare-blanket-jewel-radar |  
+| bip_39_word_dash_11 | nurse-print-elevator-mango-comic-pyramid-prepare-blanket-jewel-radar-hub |  
+| bip_39_word_dash_12 | nurse-print-elevator-mango-comic-pyramid-prepare-blanket-jewel-radar-hub-always |  
+| bip_39_word_dash_2 | nurse-print |  
+| bip_39_word_dash_3 | nurse-print-elevator |  
+| bip_39_word_dash_4 | nurse-print-elevator-mango |  
+| bip_39_word_dash_5 | nurse-print-elevator-mango-comic |  
+| bip_39_word_dash_6 | nurse-print-elevator-mango-comic-pyramid |  
+| bip_39_word_dash_7 | nurse-print-elevator-mango-comic-pyramid-prepare |  
+| bip_39_word_dash_8 | nurse-print-elevator-mango-comic-pyramid-prepare-blanket |  
+| bip_39_word_dash_9 | nurse-print-elevator-mango-comic-pyramid-prepare-blanket-jewel |  
 | bip_39_word_new_br_1 | nurse |  
 | bip_39_word_new_br_10 | nurse<br>print<br>elevator<br>mango<br>comic<br>pyramid<br>prepare<br>blanket<br>jewel<br>radar |  
 | bip_39_word_new_br_11 | nurse<br>print<br>elevator<br>mango<br>comic<br>pyramid<br>prepare<br>blanket<br>jewel<br>radar<br>hub |  
@@ -147,6 +159,18 @@ jewel |
 | bip_39_word_space_7 | nurse print elevator mango comic pyramid prepare |  
 | bip_39_word_space_8 | nurse print elevator mango comic pyramid prepare blanket |  
 | bip_39_word_space_9 | nurse print elevator mango comic pyramid prepare blanket jewel |  
+| bip_39_word_underscore_1 | nurse |  
+| bip_39_word_underscore_10 | nurse_print_elevator_mango_comic_pyramid_prepare_blanket_jewel_radar |  
+| bip_39_word_underscore_11 | nurse_print_elevator_mango_comic_pyramid_prepare_blanket_jewel_radar_hub |  
+| bip_39_word_underscore_12 | nurse_print_elevator_mango_comic_pyramid_prepare_blanket_jewel_radar_hub_always |  
+| bip_39_word_underscore_2 | nurse_print |  
+| bip_39_word_underscore_3 | nurse_print_elevator |  
+| bip_39_word_underscore_4 | nurse_print_elevator_mango |  
+| bip_39_word_underscore_5 | nurse_print_elevator_mango_comic |  
+| bip_39_word_underscore_6 | nurse_print_elevator_mango_comic_pyramid |  
+| bip_39_word_underscore_7 | nurse_print_elevator_mango_comic_pyramid_prepare |  
+| bip_39_word_underscore_8 | nurse_print_elevator_mango_comic_pyramid_prepare_blanket |  
+| bip_39_word_underscore_9 | nurse_print_elevator_mango_comic_pyramid_prepare_blanket_jewel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

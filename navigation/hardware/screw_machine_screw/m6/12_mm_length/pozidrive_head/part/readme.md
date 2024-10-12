@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | staff |  
+| bip_39_word_dash_10 | staff-execute-dirt-parent-powder-average-manual-health-gate-hamster |  
+| bip_39_word_dash_11 | staff-execute-dirt-parent-powder-average-manual-health-gate-hamster-chief |  
+| bip_39_word_dash_12 | staff-execute-dirt-parent-powder-average-manual-health-gate-hamster-chief-artefact |  
+| bip_39_word_dash_2 | staff-execute |  
+| bip_39_word_dash_3 | staff-execute-dirt |  
+| bip_39_word_dash_4 | staff-execute-dirt-parent |  
+| bip_39_word_dash_5 | staff-execute-dirt-parent-powder |  
+| bip_39_word_dash_6 | staff-execute-dirt-parent-powder-average |  
+| bip_39_word_dash_7 | staff-execute-dirt-parent-powder-average-manual |  
+| bip_39_word_dash_8 | staff-execute-dirt-parent-powder-average-manual-health |  
+| bip_39_word_dash_9 | staff-execute-dirt-parent-powder-average-manual-health-gate |  
 | bip_39_word_new_br_1 | staff |  
 | bip_39_word_new_br_10 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster |  
 | bip_39_word_new_br_11 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster<br>chief |  
@@ -147,6 +159,18 @@ gate |
 | bip_39_word_space_7 | staff execute dirt parent powder average manual |  
 | bip_39_word_space_8 | staff execute dirt parent powder average manual health |  
 | bip_39_word_space_9 | staff execute dirt parent powder average manual health gate |  
+| bip_39_word_underscore_1 | staff |  
+| bip_39_word_underscore_10 | staff_execute_dirt_parent_powder_average_manual_health_gate_hamster |  
+| bip_39_word_underscore_11 | staff_execute_dirt_parent_powder_average_manual_health_gate_hamster_chief |  
+| bip_39_word_underscore_12 | staff_execute_dirt_parent_powder_average_manual_health_gate_hamster_chief_artefact |  
+| bip_39_word_underscore_2 | staff_execute |  
+| bip_39_word_underscore_3 | staff_execute_dirt |  
+| bip_39_word_underscore_4 | staff_execute_dirt_parent |  
+| bip_39_word_underscore_5 | staff_execute_dirt_parent_powder |  
+| bip_39_word_underscore_6 | staff_execute_dirt_parent_powder_average |  
+| bip_39_word_underscore_7 | staff_execute_dirt_parent_powder_average_manual |  
+| bip_39_word_underscore_8 | staff_execute_dirt_parent_powder_average_manual_health |  
+| bip_39_word_underscore_9 | staff_execute_dirt_parent_powder_average_manual_health_gate |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

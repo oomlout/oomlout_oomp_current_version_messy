@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | list |  
+| bip_39_word_dash_10 | list-weather-sting-bind-zebra-borrow-flight-skull-pepper-sample |  
+| bip_39_word_dash_11 | list-weather-sting-bind-zebra-borrow-flight-skull-pepper-sample-three |  
+| bip_39_word_dash_12 | list-weather-sting-bind-zebra-borrow-flight-skull-pepper-sample-three-attend |  
+| bip_39_word_dash_2 | list-weather |  
+| bip_39_word_dash_3 | list-weather-sting |  
+| bip_39_word_dash_4 | list-weather-sting-bind |  
+| bip_39_word_dash_5 | list-weather-sting-bind-zebra |  
+| bip_39_word_dash_6 | list-weather-sting-bind-zebra-borrow |  
+| bip_39_word_dash_7 | list-weather-sting-bind-zebra-borrow-flight |  
+| bip_39_word_dash_8 | list-weather-sting-bind-zebra-borrow-flight-skull |  
+| bip_39_word_dash_9 | list-weather-sting-bind-zebra-borrow-flight-skull-pepper |  
 | bip_39_word_new_br_1 | list |  
 | bip_39_word_new_br_10 | list<br>weather<br>sting<br>bind<br>zebra<br>borrow<br>flight<br>skull<br>pepper<br>sample |  
 | bip_39_word_new_br_11 | list<br>weather<br>sting<br>bind<br>zebra<br>borrow<br>flight<br>skull<br>pepper<br>sample<br>three |  
@@ -147,6 +159,18 @@ pepper |
 | bip_39_word_space_7 | list weather sting bind zebra borrow flight |  
 | bip_39_word_space_8 | list weather sting bind zebra borrow flight skull |  
 | bip_39_word_space_9 | list weather sting bind zebra borrow flight skull pepper |  
+| bip_39_word_underscore_1 | list |  
+| bip_39_word_underscore_10 | list_weather_sting_bind_zebra_borrow_flight_skull_pepper_sample |  
+| bip_39_word_underscore_11 | list_weather_sting_bind_zebra_borrow_flight_skull_pepper_sample_three |  
+| bip_39_word_underscore_12 | list_weather_sting_bind_zebra_borrow_flight_skull_pepper_sample_three_attend |  
+| bip_39_word_underscore_2 | list_weather |  
+| bip_39_word_underscore_3 | list_weather_sting |  
+| bip_39_word_underscore_4 | list_weather_sting_bind |  
+| bip_39_word_underscore_5 | list_weather_sting_bind_zebra |  
+| bip_39_word_underscore_6 | list_weather_sting_bind_zebra_borrow |  
+| bip_39_word_underscore_7 | list_weather_sting_bind_zebra_borrow_flight |  
+| bip_39_word_underscore_8 | list_weather_sting_bind_zebra_borrow_flight_skull |  
+| bip_39_word_underscore_9 | list_weather_sting_bind_zebra_borrow_flight_skull_pepper |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

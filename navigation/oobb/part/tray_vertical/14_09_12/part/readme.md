@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | valve |  
+| bip_39_word_dash_10 | valve-gravity-toward-portion-fault-left-absent-wife-immense-planet |  
+| bip_39_word_dash_11 | valve-gravity-toward-portion-fault-left-absent-wife-immense-planet-pole |  
+| bip_39_word_dash_12 | valve-gravity-toward-portion-fault-left-absent-wife-immense-planet-pole-addict |  
+| bip_39_word_dash_2 | valve-gravity |  
+| bip_39_word_dash_3 | valve-gravity-toward |  
+| bip_39_word_dash_4 | valve-gravity-toward-portion |  
+| bip_39_word_dash_5 | valve-gravity-toward-portion-fault |  
+| bip_39_word_dash_6 | valve-gravity-toward-portion-fault-left |  
+| bip_39_word_dash_7 | valve-gravity-toward-portion-fault-left-absent |  
+| bip_39_word_dash_8 | valve-gravity-toward-portion-fault-left-absent-wife |  
+| bip_39_word_dash_9 | valve-gravity-toward-portion-fault-left-absent-wife-immense |  
 | bip_39_word_new_br_1 | valve |  
 | bip_39_word_new_br_10 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife<br>immense<br>planet |  
 | bip_39_word_new_br_11 | valve<br>gravity<br>toward<br>portion<br>fault<br>left<br>absent<br>wife<br>immense<br>planet<br>pole |  
@@ -147,6 +159,18 @@ immense |
 | bip_39_word_space_7 | valve gravity toward portion fault left absent |  
 | bip_39_word_space_8 | valve gravity toward portion fault left absent wife |  
 | bip_39_word_space_9 | valve gravity toward portion fault left absent wife immense |  
+| bip_39_word_underscore_1 | valve |  
+| bip_39_word_underscore_10 | valve_gravity_toward_portion_fault_left_absent_wife_immense_planet |  
+| bip_39_word_underscore_11 | valve_gravity_toward_portion_fault_left_absent_wife_immense_planet_pole |  
+| bip_39_word_underscore_12 | valve_gravity_toward_portion_fault_left_absent_wife_immense_planet_pole_addict |  
+| bip_39_word_underscore_2 | valve_gravity |  
+| bip_39_word_underscore_3 | valve_gravity_toward |  
+| bip_39_word_underscore_4 | valve_gravity_toward_portion |  
+| bip_39_word_underscore_5 | valve_gravity_toward_portion_fault |  
+| bip_39_word_underscore_6 | valve_gravity_toward_portion_fault_left |  
+| bip_39_word_underscore_7 | valve_gravity_toward_portion_fault_left_absent |  
+| bip_39_word_underscore_8 | valve_gravity_toward_portion_fault_left_absent_wife |  
+| bip_39_word_underscore_9 | valve_gravity_toward_portion_fault_left_absent_wife_immense |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

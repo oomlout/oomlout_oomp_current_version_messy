@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dish
+bip_39_word_dash_10: dish-snake-zero-absent-eight-jacket-piece-review-fringe-wink
+bip_39_word_dash_11: dish-snake-zero-absent-eight-jacket-piece-review-fringe-wink-orchard
+bip_39_word_dash_12: dish-snake-zero-absent-eight-jacket-piece-review-fringe-wink-orchard-admit
+bip_39_word_dash_2: dish-snake
+bip_39_word_dash_3: dish-snake-zero
+bip_39_word_dash_4: dish-snake-zero-absent
+bip_39_word_dash_5: dish-snake-zero-absent-eight
+bip_39_word_dash_6: dish-snake-zero-absent-eight-jacket
+bip_39_word_dash_7: dish-snake-zero-absent-eight-jacket-piece
+bip_39_word_dash_8: dish-snake-zero-absent-eight-jacket-piece-review
+bip_39_word_dash_9: dish-snake-zero-absent-eight-jacket-piece-review-fringe
 bip_39_word_new_br_1: dish
 bip_39_word_new_br_10: dish<br>snake<br>zero<br>absent<br>eight<br>jacket<br>piece<br>review<br>fringe<br>wink
 bip_39_word_new_br_11: dish<br>snake<br>zero<br>absent<br>eight<br>jacket<br>piece<br>review<br>fringe<br>wink<br>orchard
@@ -193,6 +205,18 @@ bip_39_word_space_6: dish snake zero absent eight jacket
 bip_39_word_space_7: dish snake zero absent eight jacket piece
 bip_39_word_space_8: dish snake zero absent eight jacket piece review
 bip_39_word_space_9: dish snake zero absent eight jacket piece review fringe
+bip_39_word_underscore_1: dish
+bip_39_word_underscore_10: dish_snake_zero_absent_eight_jacket_piece_review_fringe_wink
+bip_39_word_underscore_11: dish_snake_zero_absent_eight_jacket_piece_review_fringe_wink_orchard
+bip_39_word_underscore_12: dish_snake_zero_absent_eight_jacket_piece_review_fringe_wink_orchard_admit
+bip_39_word_underscore_2: dish_snake
+bip_39_word_underscore_3: dish_snake_zero
+bip_39_word_underscore_4: dish_snake_zero_absent
+bip_39_word_underscore_5: dish_snake_zero_absent_eight
+bip_39_word_underscore_6: dish_snake_zero_absent_eight_jacket
+bip_39_word_underscore_7: dish_snake_zero_absent_eight_jacket_piece
+bip_39_word_underscore_8: dish_snake_zero_absent_eight_jacket_piece_review
+bip_39_word_underscore_9: dish_snake_zero_absent_eight_jacket_piece_review_fringe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

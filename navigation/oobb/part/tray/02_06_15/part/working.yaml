@@ -1,3 +1,15 @@
+bip_39_word_dash_1: feature
+bip_39_word_dash_10: feature-picture-roof-live-sand-patient-lizard-derive-decline-bulk
+bip_39_word_dash_11: feature-picture-roof-live-sand-patient-lizard-derive-decline-bulk-nation
+bip_39_word_dash_12: feature-picture-roof-live-sand-patient-lizard-derive-decline-bulk-nation-arctic
+bip_39_word_dash_2: feature-picture
+bip_39_word_dash_3: feature-picture-roof
+bip_39_word_dash_4: feature-picture-roof-live
+bip_39_word_dash_5: feature-picture-roof-live-sand
+bip_39_word_dash_6: feature-picture-roof-live-sand-patient
+bip_39_word_dash_7: feature-picture-roof-live-sand-patient-lizard
+bip_39_word_dash_8: feature-picture-roof-live-sand-patient-lizard-derive
+bip_39_word_dash_9: feature-picture-roof-live-sand-patient-lizard-derive-decline
 bip_39_word_new_br_1: feature
 bip_39_word_new_br_10: feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive<br>decline<br>bulk
 bip_39_word_new_br_11: feature<br>picture<br>roof<br>live<br>sand<br>patient<br>lizard<br>derive<br>decline<br>bulk<br>nation
@@ -194,6 +206,18 @@ bip_39_word_space_6: feature picture roof live sand patient
 bip_39_word_space_7: feature picture roof live sand patient lizard
 bip_39_word_space_8: feature picture roof live sand patient lizard derive
 bip_39_word_space_9: feature picture roof live sand patient lizard derive decline
+bip_39_word_underscore_1: feature
+bip_39_word_underscore_10: feature_picture_roof_live_sand_patient_lizard_derive_decline_bulk
+bip_39_word_underscore_11: feature_picture_roof_live_sand_patient_lizard_derive_decline_bulk_nation
+bip_39_word_underscore_12: feature_picture_roof_live_sand_patient_lizard_derive_decline_bulk_nation_arctic
+bip_39_word_underscore_2: feature_picture
+bip_39_word_underscore_3: feature_picture_roof
+bip_39_word_underscore_4: feature_picture_roof_live
+bip_39_word_underscore_5: feature_picture_roof_live_sand
+bip_39_word_underscore_6: feature_picture_roof_live_sand_patient
+bip_39_word_underscore_7: feature_picture_roof_live_sand_patient_lizard
+bip_39_word_underscore_8: feature_picture_roof_live_sand_patient_lizard_derive
+bip_39_word_underscore_9: feature_picture_roof_live_sand_patient_lizard_derive_decline
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

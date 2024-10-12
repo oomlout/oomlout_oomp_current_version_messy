@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | work |  
+| bip_39_word_dash_10 | work-same-attitude-explain-face-notice-venture-hollow-rocket-shaft |  
+| bip_39_word_dash_11 | work-same-attitude-explain-face-notice-venture-hollow-rocket-shaft-teach |  
+| bip_39_word_dash_12 | work-same-attitude-explain-face-notice-venture-hollow-rocket-shaft-teach-arch |  
+| bip_39_word_dash_2 | work-same |  
+| bip_39_word_dash_3 | work-same-attitude |  
+| bip_39_word_dash_4 | work-same-attitude-explain |  
+| bip_39_word_dash_5 | work-same-attitude-explain-face |  
+| bip_39_word_dash_6 | work-same-attitude-explain-face-notice |  
+| bip_39_word_dash_7 | work-same-attitude-explain-face-notice-venture |  
+| bip_39_word_dash_8 | work-same-attitude-explain-face-notice-venture-hollow |  
+| bip_39_word_dash_9 | work-same-attitude-explain-face-notice-venture-hollow-rocket |  
 | bip_39_word_new_br_1 | work |  
 | bip_39_word_new_br_10 | work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft |  
 | bip_39_word_new_br_11 | work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft<br>teach |  
@@ -147,6 +159,18 @@ rocket |
 | bip_39_word_space_7 | work same attitude explain face notice venture |  
 | bip_39_word_space_8 | work same attitude explain face notice venture hollow |  
 | bip_39_word_space_9 | work same attitude explain face notice venture hollow rocket |  
+| bip_39_word_underscore_1 | work |  
+| bip_39_word_underscore_10 | work_same_attitude_explain_face_notice_venture_hollow_rocket_shaft |  
+| bip_39_word_underscore_11 | work_same_attitude_explain_face_notice_venture_hollow_rocket_shaft_teach |  
+| bip_39_word_underscore_12 | work_same_attitude_explain_face_notice_venture_hollow_rocket_shaft_teach_arch |  
+| bip_39_word_underscore_2 | work_same |  
+| bip_39_word_underscore_3 | work_same_attitude |  
+| bip_39_word_underscore_4 | work_same_attitude_explain |  
+| bip_39_word_underscore_5 | work_same_attitude_explain_face |  
+| bip_39_word_underscore_6 | work_same_attitude_explain_face_notice |  
+| bip_39_word_underscore_7 | work_same_attitude_explain_face_notice_venture |  
+| bip_39_word_underscore_8 | work_same_attitude_explain_face_notice_venture_hollow |  
+| bip_39_word_underscore_9 | work_same_attitude_explain_face_notice_venture_hollow_rocket |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

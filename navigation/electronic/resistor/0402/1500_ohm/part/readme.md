@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | satisfy |  
+| bip_39_word_dash_10 | satisfy-home-lady-pyramid-stick-bachelor-legend-flavor-siren-innocent |  
+| bip_39_word_dash_11 | satisfy-home-lady-pyramid-stick-bachelor-legend-flavor-siren-innocent-employ |  
+| bip_39_word_dash_12 | satisfy-home-lady-pyramid-stick-bachelor-legend-flavor-siren-innocent-employ-acid |  
+| bip_39_word_dash_2 | satisfy-home |  
+| bip_39_word_dash_3 | satisfy-home-lady |  
+| bip_39_word_dash_4 | satisfy-home-lady-pyramid |  
+| bip_39_word_dash_5 | satisfy-home-lady-pyramid-stick |  
+| bip_39_word_dash_6 | satisfy-home-lady-pyramid-stick-bachelor |  
+| bip_39_word_dash_7 | satisfy-home-lady-pyramid-stick-bachelor-legend |  
+| bip_39_word_dash_8 | satisfy-home-lady-pyramid-stick-bachelor-legend-flavor |  
+| bip_39_word_dash_9 | satisfy-home-lady-pyramid-stick-bachelor-legend-flavor-siren |  
 | bip_39_word_new_br_1 | satisfy |  
 | bip_39_word_new_br_10 | satisfy<br>home<br>lady<br>pyramid<br>stick<br>bachelor<br>legend<br>flavor<br>siren<br>innocent |  
 | bip_39_word_new_br_11 | satisfy<br>home<br>lady<br>pyramid<br>stick<br>bachelor<br>legend<br>flavor<br>siren<br>innocent<br>employ |  
@@ -147,6 +159,18 @@ siren |
 | bip_39_word_space_7 | satisfy home lady pyramid stick bachelor legend |  
 | bip_39_word_space_8 | satisfy home lady pyramid stick bachelor legend flavor |  
 | bip_39_word_space_9 | satisfy home lady pyramid stick bachelor legend flavor siren |  
+| bip_39_word_underscore_1 | satisfy |  
+| bip_39_word_underscore_10 | satisfy_home_lady_pyramid_stick_bachelor_legend_flavor_siren_innocent |  
+| bip_39_word_underscore_11 | satisfy_home_lady_pyramid_stick_bachelor_legend_flavor_siren_innocent_employ |  
+| bip_39_word_underscore_12 | satisfy_home_lady_pyramid_stick_bachelor_legend_flavor_siren_innocent_employ_acid |  
+| bip_39_word_underscore_2 | satisfy_home |  
+| bip_39_word_underscore_3 | satisfy_home_lady |  
+| bip_39_word_underscore_4 | satisfy_home_lady_pyramid |  
+| bip_39_word_underscore_5 | satisfy_home_lady_pyramid_stick |  
+| bip_39_word_underscore_6 | satisfy_home_lady_pyramid_stick_bachelor |  
+| bip_39_word_underscore_7 | satisfy_home_lady_pyramid_stick_bachelor_legend |  
+| bip_39_word_underscore_8 | satisfy_home_lady_pyramid_stick_bachelor_legend_flavor |  
+| bip_39_word_underscore_9 | satisfy_home_lady_pyramid_stick_bachelor_legend_flavor_siren |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

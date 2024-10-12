@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | accident |  
+| bip_39_word_dash_10 | accident-leg-bright-flush-soon-weapon-talk-jeans-close-deposit |  
+| bip_39_word_dash_11 | accident-leg-bright-flush-soon-weapon-talk-jeans-close-deposit-lounge |  
+| bip_39_word_dash_12 | accident-leg-bright-flush-soon-weapon-talk-jeans-close-deposit-lounge-author |  
+| bip_39_word_dash_2 | accident-leg |  
+| bip_39_word_dash_3 | accident-leg-bright |  
+| bip_39_word_dash_4 | accident-leg-bright-flush |  
+| bip_39_word_dash_5 | accident-leg-bright-flush-soon |  
+| bip_39_word_dash_6 | accident-leg-bright-flush-soon-weapon |  
+| bip_39_word_dash_7 | accident-leg-bright-flush-soon-weapon-talk |  
+| bip_39_word_dash_8 | accident-leg-bright-flush-soon-weapon-talk-jeans |  
+| bip_39_word_dash_9 | accident-leg-bright-flush-soon-weapon-talk-jeans-close |  
 | bip_39_word_new_br_1 | accident |  
 | bip_39_word_new_br_10 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit |  
 | bip_39_word_new_br_11 | accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit<br>lounge |  
@@ -147,6 +159,18 @@ close |
 | bip_39_word_space_7 | accident leg bright flush soon weapon talk |  
 | bip_39_word_space_8 | accident leg bright flush soon weapon talk jeans |  
 | bip_39_word_space_9 | accident leg bright flush soon weapon talk jeans close |  
+| bip_39_word_underscore_1 | accident |  
+| bip_39_word_underscore_10 | accident_leg_bright_flush_soon_weapon_talk_jeans_close_deposit |  
+| bip_39_word_underscore_11 | accident_leg_bright_flush_soon_weapon_talk_jeans_close_deposit_lounge |  
+| bip_39_word_underscore_12 | accident_leg_bright_flush_soon_weapon_talk_jeans_close_deposit_lounge_author |  
+| bip_39_word_underscore_2 | accident_leg |  
+| bip_39_word_underscore_3 | accident_leg_bright |  
+| bip_39_word_underscore_4 | accident_leg_bright_flush |  
+| bip_39_word_underscore_5 | accident_leg_bright_flush_soon |  
+| bip_39_word_underscore_6 | accident_leg_bright_flush_soon_weapon |  
+| bip_39_word_underscore_7 | accident_leg_bright_flush_soon_weapon_talk |  
+| bip_39_word_underscore_8 | accident_leg_bright_flush_soon_weapon_talk_jeans |  
+| bip_39_word_underscore_9 | accident_leg_bright_flush_soon_weapon_talk_jeans_close |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

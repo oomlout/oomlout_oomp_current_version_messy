@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | once |  
+| bip_39_word_dash_10 | once-cabin-quote-noise-leave-cycle-effort-caution-toss-fiction |  
+| bip_39_word_dash_11 | once-cabin-quote-noise-leave-cycle-effort-caution-toss-fiction-shoot |  
+| bip_39_word_dash_12 | once-cabin-quote-noise-leave-cycle-effort-caution-toss-fiction-shoot-art |  
+| bip_39_word_dash_2 | once-cabin |  
+| bip_39_word_dash_3 | once-cabin-quote |  
+| bip_39_word_dash_4 | once-cabin-quote-noise |  
+| bip_39_word_dash_5 | once-cabin-quote-noise-leave |  
+| bip_39_word_dash_6 | once-cabin-quote-noise-leave-cycle |  
+| bip_39_word_dash_7 | once-cabin-quote-noise-leave-cycle-effort |  
+| bip_39_word_dash_8 | once-cabin-quote-noise-leave-cycle-effort-caution |  
+| bip_39_word_dash_9 | once-cabin-quote-noise-leave-cycle-effort-caution-toss |  
 | bip_39_word_new_br_1 | once |  
 | bip_39_word_new_br_10 | once<br>cabin<br>quote<br>noise<br>leave<br>cycle<br>effort<br>caution<br>toss<br>fiction |  
 | bip_39_word_new_br_11 | once<br>cabin<br>quote<br>noise<br>leave<br>cycle<br>effort<br>caution<br>toss<br>fiction<br>shoot |  
@@ -147,6 +159,18 @@ toss |
 | bip_39_word_space_7 | once cabin quote noise leave cycle effort |  
 | bip_39_word_space_8 | once cabin quote noise leave cycle effort caution |  
 | bip_39_word_space_9 | once cabin quote noise leave cycle effort caution toss |  
+| bip_39_word_underscore_1 | once |  
+| bip_39_word_underscore_10 | once_cabin_quote_noise_leave_cycle_effort_caution_toss_fiction |  
+| bip_39_word_underscore_11 | once_cabin_quote_noise_leave_cycle_effort_caution_toss_fiction_shoot |  
+| bip_39_word_underscore_12 | once_cabin_quote_noise_leave_cycle_effort_caution_toss_fiction_shoot_art |  
+| bip_39_word_underscore_2 | once_cabin |  
+| bip_39_word_underscore_3 | once_cabin_quote |  
+| bip_39_word_underscore_4 | once_cabin_quote_noise |  
+| bip_39_word_underscore_5 | once_cabin_quote_noise_leave |  
+| bip_39_word_underscore_6 | once_cabin_quote_noise_leave_cycle |  
+| bip_39_word_underscore_7 | once_cabin_quote_noise_leave_cycle_effort |  
+| bip_39_word_underscore_8 | once_cabin_quote_noise_leave_cycle_effort_caution |  
+| bip_39_word_underscore_9 | once_cabin_quote_noise_leave_cycle_effort_caution_toss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

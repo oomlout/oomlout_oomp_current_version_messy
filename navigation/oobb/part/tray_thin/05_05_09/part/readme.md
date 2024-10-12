@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | column |  
+| bip_39_word_dash_10 | column-carry-wink-about-car-glory-history-pretty-toilet-hello |  
+| bip_39_word_dash_11 | column-carry-wink-about-car-glory-history-pretty-toilet-hello-cool |  
+| bip_39_word_dash_12 | column-carry-wink-about-car-glory-history-pretty-toilet-hello-cool-airport |  
+| bip_39_word_dash_2 | column-carry |  
+| bip_39_word_dash_3 | column-carry-wink |  
+| bip_39_word_dash_4 | column-carry-wink-about |  
+| bip_39_word_dash_5 | column-carry-wink-about-car |  
+| bip_39_word_dash_6 | column-carry-wink-about-car-glory |  
+| bip_39_word_dash_7 | column-carry-wink-about-car-glory-history |  
+| bip_39_word_dash_8 | column-carry-wink-about-car-glory-history-pretty |  
+| bip_39_word_dash_9 | column-carry-wink-about-car-glory-history-pretty-toilet |  
 | bip_39_word_new_br_1 | column |  
 | bip_39_word_new_br_10 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello |  
 | bip_39_word_new_br_11 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello<br>cool |  
@@ -147,6 +159,18 @@ toilet |
 | bip_39_word_space_7 | column carry wink about car glory history |  
 | bip_39_word_space_8 | column carry wink about car glory history pretty |  
 | bip_39_word_space_9 | column carry wink about car glory history pretty toilet |  
+| bip_39_word_underscore_1 | column |  
+| bip_39_word_underscore_10 | column_carry_wink_about_car_glory_history_pretty_toilet_hello |  
+| bip_39_word_underscore_11 | column_carry_wink_about_car_glory_history_pretty_toilet_hello_cool |  
+| bip_39_word_underscore_12 | column_carry_wink_about_car_glory_history_pretty_toilet_hello_cool_airport |  
+| bip_39_word_underscore_2 | column_carry |  
+| bip_39_word_underscore_3 | column_carry_wink |  
+| bip_39_word_underscore_4 | column_carry_wink_about |  
+| bip_39_word_underscore_5 | column_carry_wink_about_car |  
+| bip_39_word_underscore_6 | column_carry_wink_about_car_glory |  
+| bip_39_word_underscore_7 | column_carry_wink_about_car_glory_history |  
+| bip_39_word_underscore_8 | column_carry_wink_about_car_glory_history_pretty |  
+| bip_39_word_underscore_9 | column_carry_wink_about_car_glory_history_pretty_toilet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

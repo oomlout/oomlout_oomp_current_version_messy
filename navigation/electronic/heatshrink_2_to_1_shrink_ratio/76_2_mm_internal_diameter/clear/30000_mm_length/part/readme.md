@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sadness |  
+| bip_39_word_dash_10 | sadness-cabbage-cup-inform-frequent-trust-guilt-onion-miss-rhythm |  
+| bip_39_word_dash_11 | sadness-cabbage-cup-inform-frequent-trust-guilt-onion-miss-rhythm-picture |  
+| bip_39_word_dash_12 | sadness-cabbage-cup-inform-frequent-trust-guilt-onion-miss-rhythm-picture-analyst |  
+| bip_39_word_dash_2 | sadness-cabbage |  
+| bip_39_word_dash_3 | sadness-cabbage-cup |  
+| bip_39_word_dash_4 | sadness-cabbage-cup-inform |  
+| bip_39_word_dash_5 | sadness-cabbage-cup-inform-frequent |  
+| bip_39_word_dash_6 | sadness-cabbage-cup-inform-frequent-trust |  
+| bip_39_word_dash_7 | sadness-cabbage-cup-inform-frequent-trust-guilt |  
+| bip_39_word_dash_8 | sadness-cabbage-cup-inform-frequent-trust-guilt-onion |  
+| bip_39_word_dash_9 | sadness-cabbage-cup-inform-frequent-trust-guilt-onion-miss |  
 | bip_39_word_new_br_1 | sadness |  
 | bip_39_word_new_br_10 | sadness<br>cabbage<br>cup<br>inform<br>frequent<br>trust<br>guilt<br>onion<br>miss<br>rhythm |  
 | bip_39_word_new_br_11 | sadness<br>cabbage<br>cup<br>inform<br>frequent<br>trust<br>guilt<br>onion<br>miss<br>rhythm<br>picture |  
@@ -147,6 +159,18 @@ miss |
 | bip_39_word_space_7 | sadness cabbage cup inform frequent trust guilt |  
 | bip_39_word_space_8 | sadness cabbage cup inform frequent trust guilt onion |  
 | bip_39_word_space_9 | sadness cabbage cup inform frequent trust guilt onion miss |  
+| bip_39_word_underscore_1 | sadness |  
+| bip_39_word_underscore_10 | sadness_cabbage_cup_inform_frequent_trust_guilt_onion_miss_rhythm |  
+| bip_39_word_underscore_11 | sadness_cabbage_cup_inform_frequent_trust_guilt_onion_miss_rhythm_picture |  
+| bip_39_word_underscore_12 | sadness_cabbage_cup_inform_frequent_trust_guilt_onion_miss_rhythm_picture_analyst |  
+| bip_39_word_underscore_2 | sadness_cabbage |  
+| bip_39_word_underscore_3 | sadness_cabbage_cup |  
+| bip_39_word_underscore_4 | sadness_cabbage_cup_inform |  
+| bip_39_word_underscore_5 | sadness_cabbage_cup_inform_frequent |  
+| bip_39_word_underscore_6 | sadness_cabbage_cup_inform_frequent_trust |  
+| bip_39_word_underscore_7 | sadness_cabbage_cup_inform_frequent_trust_guilt |  
+| bip_39_word_underscore_8 | sadness_cabbage_cup_inform_frequent_trust_guilt_onion |  
+| bip_39_word_underscore_9 | sadness_cabbage_cup_inform_frequent_trust_guilt_onion_miss |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

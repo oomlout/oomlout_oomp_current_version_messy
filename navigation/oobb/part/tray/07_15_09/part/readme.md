@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | element |  
+| bip_39_word_dash_10 | element-cover-oil-endorse-element-choice-verb-sentence-achieve-burger |  
+| bip_39_word_dash_11 | element-cover-oil-endorse-element-choice-verb-sentence-achieve-burger-garlic |  
+| bip_39_word_dash_12 | element-cover-oil-endorse-element-choice-verb-sentence-achieve-burger-garlic-afford |  
+| bip_39_word_dash_2 | element-cover |  
+| bip_39_word_dash_3 | element-cover-oil |  
+| bip_39_word_dash_4 | element-cover-oil-endorse |  
+| bip_39_word_dash_5 | element-cover-oil-endorse-element |  
+| bip_39_word_dash_6 | element-cover-oil-endorse-element-choice |  
+| bip_39_word_dash_7 | element-cover-oil-endorse-element-choice-verb |  
+| bip_39_word_dash_8 | element-cover-oil-endorse-element-choice-verb-sentence |  
+| bip_39_word_dash_9 | element-cover-oil-endorse-element-choice-verb-sentence-achieve |  
 | bip_39_word_new_br_1 | element |  
 | bip_39_word_new_br_10 | element<br>cover<br>oil<br>endorse<br>element<br>choice<br>verb<br>sentence<br>achieve<br>burger |  
 | bip_39_word_new_br_11 | element<br>cover<br>oil<br>endorse<br>element<br>choice<br>verb<br>sentence<br>achieve<br>burger<br>garlic |  
@@ -147,6 +159,18 @@ achieve |
 | bip_39_word_space_7 | element cover oil endorse element choice verb |  
 | bip_39_word_space_8 | element cover oil endorse element choice verb sentence |  
 | bip_39_word_space_9 | element cover oil endorse element choice verb sentence achieve |  
+| bip_39_word_underscore_1 | element |  
+| bip_39_word_underscore_10 | element_cover_oil_endorse_element_choice_verb_sentence_achieve_burger |  
+| bip_39_word_underscore_11 | element_cover_oil_endorse_element_choice_verb_sentence_achieve_burger_garlic |  
+| bip_39_word_underscore_12 | element_cover_oil_endorse_element_choice_verb_sentence_achieve_burger_garlic_afford |  
+| bip_39_word_underscore_2 | element_cover |  
+| bip_39_word_underscore_3 | element_cover_oil |  
+| bip_39_word_underscore_4 | element_cover_oil_endorse |  
+| bip_39_word_underscore_5 | element_cover_oil_endorse_element |  
+| bip_39_word_underscore_6 | element_cover_oil_endorse_element_choice |  
+| bip_39_word_underscore_7 | element_cover_oil_endorse_element_choice_verb |  
+| bip_39_word_underscore_8 | element_cover_oil_endorse_element_choice_verb_sentence |  
+| bip_39_word_underscore_9 | element_cover_oil_endorse_element_choice_verb_sentence_achieve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

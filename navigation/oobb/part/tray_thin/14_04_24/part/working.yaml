@@ -1,3 +1,15 @@
+bip_39_word_dash_1: receive
+bip_39_word_dash_10: receive-cricket-elevator-before-dash-candy-clown-field-outer-buyer
+bip_39_word_dash_11: receive-cricket-elevator-before-dash-candy-clown-field-outer-buyer-width
+bip_39_word_dash_12: receive-cricket-elevator-before-dash-candy-clown-field-outer-buyer-width-affair
+bip_39_word_dash_2: receive-cricket
+bip_39_word_dash_3: receive-cricket-elevator
+bip_39_word_dash_4: receive-cricket-elevator-before
+bip_39_word_dash_5: receive-cricket-elevator-before-dash
+bip_39_word_dash_6: receive-cricket-elevator-before-dash-candy
+bip_39_word_dash_7: receive-cricket-elevator-before-dash-candy-clown
+bip_39_word_dash_8: receive-cricket-elevator-before-dash-candy-clown-field
+bip_39_word_dash_9: receive-cricket-elevator-before-dash-candy-clown-field-outer
 bip_39_word_new_br_1: receive
 bip_39_word_new_br_10: receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field<br>outer<br>buyer
 bip_39_word_new_br_11: receive<br>cricket<br>elevator<br>before<br>dash<br>candy<br>clown<br>field<br>outer<br>buyer<br>width
@@ -194,6 +206,18 @@ bip_39_word_space_6: receive cricket elevator before dash candy
 bip_39_word_space_7: receive cricket elevator before dash candy clown
 bip_39_word_space_8: receive cricket elevator before dash candy clown field
 bip_39_word_space_9: receive cricket elevator before dash candy clown field outer
+bip_39_word_underscore_1: receive
+bip_39_word_underscore_10: receive_cricket_elevator_before_dash_candy_clown_field_outer_buyer
+bip_39_word_underscore_11: receive_cricket_elevator_before_dash_candy_clown_field_outer_buyer_width
+bip_39_word_underscore_12: receive_cricket_elevator_before_dash_candy_clown_field_outer_buyer_width_affair
+bip_39_word_underscore_2: receive_cricket
+bip_39_word_underscore_3: receive_cricket_elevator
+bip_39_word_underscore_4: receive_cricket_elevator_before
+bip_39_word_underscore_5: receive_cricket_elevator_before_dash
+bip_39_word_underscore_6: receive_cricket_elevator_before_dash_candy
+bip_39_word_underscore_7: receive_cricket_elevator_before_dash_candy_clown
+bip_39_word_underscore_8: receive_cricket_elevator_before_dash_candy_clown_field
+bip_39_word_underscore_9: receive_cricket_elevator_before_dash_candy_clown_field_outer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

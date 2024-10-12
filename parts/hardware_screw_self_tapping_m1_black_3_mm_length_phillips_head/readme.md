@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | type |  
+| bip_39_word_dash_10 | type-addict-broken-ahead-awkward-fiscal-fossil-alarm-stumble-village |  
+| bip_39_word_dash_11 | type-addict-broken-ahead-awkward-fiscal-fossil-alarm-stumble-village-grief |  
+| bip_39_word_dash_12 | type-addict-broken-ahead-awkward-fiscal-fossil-alarm-stumble-village-grief-aim |  
+| bip_39_word_dash_2 | type-addict |  
+| bip_39_word_dash_3 | type-addict-broken |  
+| bip_39_word_dash_4 | type-addict-broken-ahead |  
+| bip_39_word_dash_5 | type-addict-broken-ahead-awkward |  
+| bip_39_word_dash_6 | type-addict-broken-ahead-awkward-fiscal |  
+| bip_39_word_dash_7 | type-addict-broken-ahead-awkward-fiscal-fossil |  
+| bip_39_word_dash_8 | type-addict-broken-ahead-awkward-fiscal-fossil-alarm |  
+| bip_39_word_dash_9 | type-addict-broken-ahead-awkward-fiscal-fossil-alarm-stumble |  
 | bip_39_word_new_br_1 | type |  
 | bip_39_word_new_br_10 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village |  
 | bip_39_word_new_br_11 | type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village<br>grief |  
@@ -147,6 +159,18 @@ stumble |
 | bip_39_word_space_7 | type addict broken ahead awkward fiscal fossil |  
 | bip_39_word_space_8 | type addict broken ahead awkward fiscal fossil alarm |  
 | bip_39_word_space_9 | type addict broken ahead awkward fiscal fossil alarm stumble |  
+| bip_39_word_underscore_1 | type |  
+| bip_39_word_underscore_10 | type_addict_broken_ahead_awkward_fiscal_fossil_alarm_stumble_village |  
+| bip_39_word_underscore_11 | type_addict_broken_ahead_awkward_fiscal_fossil_alarm_stumble_village_grief |  
+| bip_39_word_underscore_12 | type_addict_broken_ahead_awkward_fiscal_fossil_alarm_stumble_village_grief_aim |  
+| bip_39_word_underscore_2 | type_addict |  
+| bip_39_word_underscore_3 | type_addict_broken |  
+| bip_39_word_underscore_4 | type_addict_broken_ahead |  
+| bip_39_word_underscore_5 | type_addict_broken_ahead_awkward |  
+| bip_39_word_underscore_6 | type_addict_broken_ahead_awkward_fiscal |  
+| bip_39_word_underscore_7 | type_addict_broken_ahead_awkward_fiscal_fossil |  
+| bip_39_word_underscore_8 | type_addict_broken_ahead_awkward_fiscal_fossil_alarm |  
+| bip_39_word_underscore_9 | type_addict_broken_ahead_awkward_fiscal_fossil_alarm_stumble |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

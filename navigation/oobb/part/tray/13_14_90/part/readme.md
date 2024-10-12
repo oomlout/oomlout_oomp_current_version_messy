@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clump |  
+| bip_39_word_dash_10 | clump-add-risk-level-innocent-sort-dune-allow-organ-pony |  
+| bip_39_word_dash_11 | clump-add-risk-level-innocent-sort-dune-allow-organ-pony-sing |  
+| bip_39_word_dash_12 | clump-add-risk-level-innocent-sort-dune-allow-organ-pony-sing-anchor |  
+| bip_39_word_dash_2 | clump-add |  
+| bip_39_word_dash_3 | clump-add-risk |  
+| bip_39_word_dash_4 | clump-add-risk-level |  
+| bip_39_word_dash_5 | clump-add-risk-level-innocent |  
+| bip_39_word_dash_6 | clump-add-risk-level-innocent-sort |  
+| bip_39_word_dash_7 | clump-add-risk-level-innocent-sort-dune |  
+| bip_39_word_dash_8 | clump-add-risk-level-innocent-sort-dune-allow |  
+| bip_39_word_dash_9 | clump-add-risk-level-innocent-sort-dune-allow-organ |  
 | bip_39_word_new_br_1 | clump |  
 | bip_39_word_new_br_10 | clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow<br>organ<br>pony |  
 | bip_39_word_new_br_11 | clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow<br>organ<br>pony<br>sing |  
@@ -147,6 +159,18 @@ organ |
 | bip_39_word_space_7 | clump add risk level innocent sort dune |  
 | bip_39_word_space_8 | clump add risk level innocent sort dune allow |  
 | bip_39_word_space_9 | clump add risk level innocent sort dune allow organ |  
+| bip_39_word_underscore_1 | clump |  
+| bip_39_word_underscore_10 | clump_add_risk_level_innocent_sort_dune_allow_organ_pony |  
+| bip_39_word_underscore_11 | clump_add_risk_level_innocent_sort_dune_allow_organ_pony_sing |  
+| bip_39_word_underscore_12 | clump_add_risk_level_innocent_sort_dune_allow_organ_pony_sing_anchor |  
+| bip_39_word_underscore_2 | clump_add |  
+| bip_39_word_underscore_3 | clump_add_risk |  
+| bip_39_word_underscore_4 | clump_add_risk_level |  
+| bip_39_word_underscore_5 | clump_add_risk_level_innocent |  
+| bip_39_word_underscore_6 | clump_add_risk_level_innocent_sort |  
+| bip_39_word_underscore_7 | clump_add_risk_level_innocent_sort_dune |  
+| bip_39_word_underscore_8 | clump_add_risk_level_innocent_sort_dune_allow |  
+| bip_39_word_underscore_9 | clump_add_risk_level_innocent_sort_dune_allow_organ |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

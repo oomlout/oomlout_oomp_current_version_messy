@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stairs
+bip_39_word_dash_10: stairs-crucial-govern-key-reflect-hope-couple-taste-admit-shove
+bip_39_word_dash_11: stairs-crucial-govern-key-reflect-hope-couple-taste-admit-shove-aware
+bip_39_word_dash_12: stairs-crucial-govern-key-reflect-hope-couple-taste-admit-shove-aware-autumn
+bip_39_word_dash_2: stairs-crucial
+bip_39_word_dash_3: stairs-crucial-govern
+bip_39_word_dash_4: stairs-crucial-govern-key
+bip_39_word_dash_5: stairs-crucial-govern-key-reflect
+bip_39_word_dash_6: stairs-crucial-govern-key-reflect-hope
+bip_39_word_dash_7: stairs-crucial-govern-key-reflect-hope-couple
+bip_39_word_dash_8: stairs-crucial-govern-key-reflect-hope-couple-taste
+bip_39_word_dash_9: stairs-crucial-govern-key-reflect-hope-couple-taste-admit
 bip_39_word_new_br_1: stairs
 bip_39_word_new_br_10: stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove
 bip_39_word_new_br_11: stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove<br>aware
@@ -193,6 +205,18 @@ bip_39_word_space_6: stairs crucial govern key reflect hope
 bip_39_word_space_7: stairs crucial govern key reflect hope couple
 bip_39_word_space_8: stairs crucial govern key reflect hope couple taste
 bip_39_word_space_9: stairs crucial govern key reflect hope couple taste admit
+bip_39_word_underscore_1: stairs
+bip_39_word_underscore_10: stairs_crucial_govern_key_reflect_hope_couple_taste_admit_shove
+bip_39_word_underscore_11: stairs_crucial_govern_key_reflect_hope_couple_taste_admit_shove_aware
+bip_39_word_underscore_12: stairs_crucial_govern_key_reflect_hope_couple_taste_admit_shove_aware_autumn
+bip_39_word_underscore_2: stairs_crucial
+bip_39_word_underscore_3: stairs_crucial_govern
+bip_39_word_underscore_4: stairs_crucial_govern_key
+bip_39_word_underscore_5: stairs_crucial_govern_key_reflect
+bip_39_word_underscore_6: stairs_crucial_govern_key_reflect_hope
+bip_39_word_underscore_7: stairs_crucial_govern_key_reflect_hope_couple
+bip_39_word_underscore_8: stairs_crucial_govern_key_reflect_hope_couple_taste
+bip_39_word_underscore_9: stairs_crucial_govern_key_reflect_hope_couple_taste_admit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: phrase
+bip_39_word_dash_10: phrase-course-crouch-wheel-scorpion-survey-public-sword-permit-sea
+bip_39_word_dash_11: phrase-course-crouch-wheel-scorpion-survey-public-sword-permit-sea-duty
+bip_39_word_dash_12: phrase-course-crouch-wheel-scorpion-survey-public-sword-permit-sea-duty-alcohol
+bip_39_word_dash_2: phrase-course
+bip_39_word_dash_3: phrase-course-crouch
+bip_39_word_dash_4: phrase-course-crouch-wheel
+bip_39_word_dash_5: phrase-course-crouch-wheel-scorpion
+bip_39_word_dash_6: phrase-course-crouch-wheel-scorpion-survey
+bip_39_word_dash_7: phrase-course-crouch-wheel-scorpion-survey-public
+bip_39_word_dash_8: phrase-course-crouch-wheel-scorpion-survey-public-sword
+bip_39_word_dash_9: phrase-course-crouch-wheel-scorpion-survey-public-sword-permit
 bip_39_word_new_br_1: phrase
 bip_39_word_new_br_10: phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword<br>permit<br>sea
 bip_39_word_new_br_11: phrase<br>course<br>crouch<br>wheel<br>scorpion<br>survey<br>public<br>sword<br>permit<br>sea<br>duty
@@ -194,6 +206,18 @@ bip_39_word_space_6: phrase course crouch wheel scorpion survey
 bip_39_word_space_7: phrase course crouch wheel scorpion survey public
 bip_39_word_space_8: phrase course crouch wheel scorpion survey public sword
 bip_39_word_space_9: phrase course crouch wheel scorpion survey public sword permit
+bip_39_word_underscore_1: phrase
+bip_39_word_underscore_10: phrase_course_crouch_wheel_scorpion_survey_public_sword_permit_sea
+bip_39_word_underscore_11: phrase_course_crouch_wheel_scorpion_survey_public_sword_permit_sea_duty
+bip_39_word_underscore_12: phrase_course_crouch_wheel_scorpion_survey_public_sword_permit_sea_duty_alcohol
+bip_39_word_underscore_2: phrase_course
+bip_39_word_underscore_3: phrase_course_crouch
+bip_39_word_underscore_4: phrase_course_crouch_wheel
+bip_39_word_underscore_5: phrase_course_crouch_wheel_scorpion
+bip_39_word_underscore_6: phrase_course_crouch_wheel_scorpion_survey
+bip_39_word_underscore_7: phrase_course_crouch_wheel_scorpion_survey_public
+bip_39_word_underscore_8: phrase_course_crouch_wheel_scorpion_survey_public_sword
+bip_39_word_underscore_9: phrase_course_crouch_wheel_scorpion_survey_public_sword_permit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

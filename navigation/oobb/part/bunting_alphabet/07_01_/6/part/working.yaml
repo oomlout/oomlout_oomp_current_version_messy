@@ -1,3 +1,15 @@
+bip_39_word_dash_1: skirt
+bip_39_word_dash_10: skirt-trick-change-blind-transfer-foster-topic-smoke-empty-must
+bip_39_word_dash_11: skirt-trick-change-blind-transfer-foster-topic-smoke-empty-must-sugar
+bip_39_word_dash_12: skirt-trick-change-blind-transfer-foster-topic-smoke-empty-must-sugar-august
+bip_39_word_dash_2: skirt-trick
+bip_39_word_dash_3: skirt-trick-change
+bip_39_word_dash_4: skirt-trick-change-blind
+bip_39_word_dash_5: skirt-trick-change-blind-transfer
+bip_39_word_dash_6: skirt-trick-change-blind-transfer-foster
+bip_39_word_dash_7: skirt-trick-change-blind-transfer-foster-topic
+bip_39_word_dash_8: skirt-trick-change-blind-transfer-foster-topic-smoke
+bip_39_word_dash_9: skirt-trick-change-blind-transfer-foster-topic-smoke-empty
 bip_39_word_new_br_1: skirt
 bip_39_word_new_br_10: skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke<br>empty<br>must
 bip_39_word_new_br_11: skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke<br>empty<br>must<br>sugar
@@ -193,6 +205,18 @@ bip_39_word_space_6: skirt trick change blind transfer foster
 bip_39_word_space_7: skirt trick change blind transfer foster topic
 bip_39_word_space_8: skirt trick change blind transfer foster topic smoke
 bip_39_word_space_9: skirt trick change blind transfer foster topic smoke empty
+bip_39_word_underscore_1: skirt
+bip_39_word_underscore_10: skirt_trick_change_blind_transfer_foster_topic_smoke_empty_must
+bip_39_word_underscore_11: skirt_trick_change_blind_transfer_foster_topic_smoke_empty_must_sugar
+bip_39_word_underscore_12: skirt_trick_change_blind_transfer_foster_topic_smoke_empty_must_sugar_august
+bip_39_word_underscore_2: skirt_trick
+bip_39_word_underscore_3: skirt_trick_change
+bip_39_word_underscore_4: skirt_trick_change_blind
+bip_39_word_underscore_5: skirt_trick_change_blind_transfer
+bip_39_word_underscore_6: skirt_trick_change_blind_transfer_foster
+bip_39_word_underscore_7: skirt_trick_change_blind_transfer_foster_topic
+bip_39_word_underscore_8: skirt_trick_change_blind_transfer_foster_topic_smoke
+bip_39_word_underscore_9: skirt_trick_change_blind_transfer_foster_topic_smoke_empty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

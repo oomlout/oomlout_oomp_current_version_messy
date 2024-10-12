@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tennis
+bip_39_word_dash_10: tennis-uncle-romance-wet-supreme-maple-track-bench-frozen-just
+bip_39_word_dash_11: tennis-uncle-romance-wet-supreme-maple-track-bench-frozen-just-inflict
+bip_39_word_dash_12: tennis-uncle-romance-wet-supreme-maple-track-bench-frozen-just-inflict-add
+bip_39_word_dash_2: tennis-uncle
+bip_39_word_dash_3: tennis-uncle-romance
+bip_39_word_dash_4: tennis-uncle-romance-wet
+bip_39_word_dash_5: tennis-uncle-romance-wet-supreme
+bip_39_word_dash_6: tennis-uncle-romance-wet-supreme-maple
+bip_39_word_dash_7: tennis-uncle-romance-wet-supreme-maple-track
+bip_39_word_dash_8: tennis-uncle-romance-wet-supreme-maple-track-bench
+bip_39_word_dash_9: tennis-uncle-romance-wet-supreme-maple-track-bench-frozen
 bip_39_word_new_br_1: tennis
 bip_39_word_new_br_10: tennis<br>uncle<br>romance<br>wet<br>supreme<br>maple<br>track<br>bench<br>frozen<br>just
 bip_39_word_new_br_11: tennis<br>uncle<br>romance<br>wet<br>supreme<br>maple<br>track<br>bench<br>frozen<br>just<br>inflict
@@ -193,6 +205,18 @@ bip_39_word_space_6: tennis uncle romance wet supreme maple
 bip_39_word_space_7: tennis uncle romance wet supreme maple track
 bip_39_word_space_8: tennis uncle romance wet supreme maple track bench
 bip_39_word_space_9: tennis uncle romance wet supreme maple track bench frozen
+bip_39_word_underscore_1: tennis
+bip_39_word_underscore_10: tennis_uncle_romance_wet_supreme_maple_track_bench_frozen_just
+bip_39_word_underscore_11: tennis_uncle_romance_wet_supreme_maple_track_bench_frozen_just_inflict
+bip_39_word_underscore_12: tennis_uncle_romance_wet_supreme_maple_track_bench_frozen_just_inflict_add
+bip_39_word_underscore_2: tennis_uncle
+bip_39_word_underscore_3: tennis_uncle_romance
+bip_39_word_underscore_4: tennis_uncle_romance_wet
+bip_39_word_underscore_5: tennis_uncle_romance_wet_supreme
+bip_39_word_underscore_6: tennis_uncle_romance_wet_supreme_maple
+bip_39_word_underscore_7: tennis_uncle_romance_wet_supreme_maple_track
+bip_39_word_underscore_8: tennis_uncle_romance_wet_supreme_maple_track_bench
+bip_39_word_underscore_9: tennis_uncle_romance_wet_supreme_maple_track_bench_frozen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silk |  
+| bip_39_word_dash_10 | silk-author-guard-onion-minor-chest-industry-crime-banana-stumble |  
+| bip_39_word_dash_11 | silk-author-guard-onion-minor-chest-industry-crime-banana-stumble-peasant |  
+| bip_39_word_dash_12 | silk-author-guard-onion-minor-chest-industry-crime-banana-stumble-peasant-alpha |  
+| bip_39_word_dash_2 | silk-author |  
+| bip_39_word_dash_3 | silk-author-guard |  
+| bip_39_word_dash_4 | silk-author-guard-onion |  
+| bip_39_word_dash_5 | silk-author-guard-onion-minor |  
+| bip_39_word_dash_6 | silk-author-guard-onion-minor-chest |  
+| bip_39_word_dash_7 | silk-author-guard-onion-minor-chest-industry |  
+| bip_39_word_dash_8 | silk-author-guard-onion-minor-chest-industry-crime |  
+| bip_39_word_dash_9 | silk-author-guard-onion-minor-chest-industry-crime-banana |  
 | bip_39_word_new_br_1 | silk |  
 | bip_39_word_new_br_10 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime<br>banana<br>stumble |  
 | bip_39_word_new_br_11 | silk<br>author<br>guard<br>onion<br>minor<br>chest<br>industry<br>crime<br>banana<br>stumble<br>peasant |  
@@ -147,6 +159,18 @@ banana |
 | bip_39_word_space_7 | silk author guard onion minor chest industry |  
 | bip_39_word_space_8 | silk author guard onion minor chest industry crime |  
 | bip_39_word_space_9 | silk author guard onion minor chest industry crime banana |  
+| bip_39_word_underscore_1 | silk |  
+| bip_39_word_underscore_10 | silk_author_guard_onion_minor_chest_industry_crime_banana_stumble |  
+| bip_39_word_underscore_11 | silk_author_guard_onion_minor_chest_industry_crime_banana_stumble_peasant |  
+| bip_39_word_underscore_12 | silk_author_guard_onion_minor_chest_industry_crime_banana_stumble_peasant_alpha |  
+| bip_39_word_underscore_2 | silk_author |  
+| bip_39_word_underscore_3 | silk_author_guard |  
+| bip_39_word_underscore_4 | silk_author_guard_onion |  
+| bip_39_word_underscore_5 | silk_author_guard_onion_minor |  
+| bip_39_word_underscore_6 | silk_author_guard_onion_minor_chest |  
+| bip_39_word_underscore_7 | silk_author_guard_onion_minor_chest_industry |  
+| bip_39_word_underscore_8 | silk_author_guard_onion_minor_chest_industry_crime |  
+| bip_39_word_underscore_9 | silk_author_guard_onion_minor_chest_industry_crime_banana |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

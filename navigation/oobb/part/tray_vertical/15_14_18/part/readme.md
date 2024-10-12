@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exhibit |  
+| bip_39_word_dash_10 | exhibit-scout-scale-cereal-endorse-stable-urge-cricket-join-legend |  
+| bip_39_word_dash_11 | exhibit-scout-scale-cereal-endorse-stable-urge-cricket-join-legend-panel |  
+| bip_39_word_dash_12 | exhibit-scout-scale-cereal-endorse-stable-urge-cricket-join-legend-panel-airport |  
+| bip_39_word_dash_2 | exhibit-scout |  
+| bip_39_word_dash_3 | exhibit-scout-scale |  
+| bip_39_word_dash_4 | exhibit-scout-scale-cereal |  
+| bip_39_word_dash_5 | exhibit-scout-scale-cereal-endorse |  
+| bip_39_word_dash_6 | exhibit-scout-scale-cereal-endorse-stable |  
+| bip_39_word_dash_7 | exhibit-scout-scale-cereal-endorse-stable-urge |  
+| bip_39_word_dash_8 | exhibit-scout-scale-cereal-endorse-stable-urge-cricket |  
+| bip_39_word_dash_9 | exhibit-scout-scale-cereal-endorse-stable-urge-cricket-join |  
 | bip_39_word_new_br_1 | exhibit |  
 | bip_39_word_new_br_10 | exhibit<br>scout<br>scale<br>cereal<br>endorse<br>stable<br>urge<br>cricket<br>join<br>legend |  
 | bip_39_word_new_br_11 | exhibit<br>scout<br>scale<br>cereal<br>endorse<br>stable<br>urge<br>cricket<br>join<br>legend<br>panel |  
@@ -147,6 +159,18 @@ join |
 | bip_39_word_space_7 | exhibit scout scale cereal endorse stable urge |  
 | bip_39_word_space_8 | exhibit scout scale cereal endorse stable urge cricket |  
 | bip_39_word_space_9 | exhibit scout scale cereal endorse stable urge cricket join |  
+| bip_39_word_underscore_1 | exhibit |  
+| bip_39_word_underscore_10 | exhibit_scout_scale_cereal_endorse_stable_urge_cricket_join_legend |  
+| bip_39_word_underscore_11 | exhibit_scout_scale_cereal_endorse_stable_urge_cricket_join_legend_panel |  
+| bip_39_word_underscore_12 | exhibit_scout_scale_cereal_endorse_stable_urge_cricket_join_legend_panel_airport |  
+| bip_39_word_underscore_2 | exhibit_scout |  
+| bip_39_word_underscore_3 | exhibit_scout_scale |  
+| bip_39_word_underscore_4 | exhibit_scout_scale_cereal |  
+| bip_39_word_underscore_5 | exhibit_scout_scale_cereal_endorse |  
+| bip_39_word_underscore_6 | exhibit_scout_scale_cereal_endorse_stable |  
+| bip_39_word_underscore_7 | exhibit_scout_scale_cereal_endorse_stable_urge |  
+| bip_39_word_underscore_8 | exhibit_scout_scale_cereal_endorse_stable_urge_cricket |  
+| bip_39_word_underscore_9 | exhibit_scout_scale_cereal_endorse_stable_urge_cricket_join |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

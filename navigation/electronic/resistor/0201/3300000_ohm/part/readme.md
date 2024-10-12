@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | artist |  
+| bip_39_word_dash_10 | artist-decade-wish-winner-stairs-please-awesome-verify-dance-throw |  
+| bip_39_word_dash_11 | artist-decade-wish-winner-stairs-please-awesome-verify-dance-throw-fragile |  
+| bip_39_word_dash_12 | artist-decade-wish-winner-stairs-please-awesome-verify-dance-throw-fragile-accident |  
+| bip_39_word_dash_2 | artist-decade |  
+| bip_39_word_dash_3 | artist-decade-wish |  
+| bip_39_word_dash_4 | artist-decade-wish-winner |  
+| bip_39_word_dash_5 | artist-decade-wish-winner-stairs |  
+| bip_39_word_dash_6 | artist-decade-wish-winner-stairs-please |  
+| bip_39_word_dash_7 | artist-decade-wish-winner-stairs-please-awesome |  
+| bip_39_word_dash_8 | artist-decade-wish-winner-stairs-please-awesome-verify |  
+| bip_39_word_dash_9 | artist-decade-wish-winner-stairs-please-awesome-verify-dance |  
 | bip_39_word_new_br_1 | artist |  
 | bip_39_word_new_br_10 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify<br>dance<br>throw |  
 | bip_39_word_new_br_11 | artist<br>decade<br>wish<br>winner<br>stairs<br>please<br>awesome<br>verify<br>dance<br>throw<br>fragile |  
@@ -147,6 +159,18 @@ dance |
 | bip_39_word_space_7 | artist decade wish winner stairs please awesome |  
 | bip_39_word_space_8 | artist decade wish winner stairs please awesome verify |  
 | bip_39_word_space_9 | artist decade wish winner stairs please awesome verify dance |  
+| bip_39_word_underscore_1 | artist |  
+| bip_39_word_underscore_10 | artist_decade_wish_winner_stairs_please_awesome_verify_dance_throw |  
+| bip_39_word_underscore_11 | artist_decade_wish_winner_stairs_please_awesome_verify_dance_throw_fragile |  
+| bip_39_word_underscore_12 | artist_decade_wish_winner_stairs_please_awesome_verify_dance_throw_fragile_accident |  
+| bip_39_word_underscore_2 | artist_decade |  
+| bip_39_word_underscore_3 | artist_decade_wish |  
+| bip_39_word_underscore_4 | artist_decade_wish_winner |  
+| bip_39_word_underscore_5 | artist_decade_wish_winner_stairs |  
+| bip_39_word_underscore_6 | artist_decade_wish_winner_stairs_please |  
+| bip_39_word_underscore_7 | artist_decade_wish_winner_stairs_please_awesome |  
+| bip_39_word_underscore_8 | artist_decade_wish_winner_stairs_please_awesome_verify |  
+| bip_39_word_underscore_9 | artist_decade_wish_winner_stairs_please_awesome_verify_dance |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

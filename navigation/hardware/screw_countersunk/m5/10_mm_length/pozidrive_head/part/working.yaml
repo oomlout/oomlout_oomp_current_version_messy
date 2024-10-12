@@ -1,3 +1,15 @@
+bip_39_word_dash_1: undo
+bip_39_word_dash_10: undo-gun-speed-bacon-husband-carbon-fragile-clerk-black-bullet
+bip_39_word_dash_11: undo-gun-speed-bacon-husband-carbon-fragile-clerk-black-bullet-bike
+bip_39_word_dash_12: undo-gun-speed-bacon-husband-carbon-fragile-clerk-black-bullet-bike-army
+bip_39_word_dash_2: undo-gun
+bip_39_word_dash_3: undo-gun-speed
+bip_39_word_dash_4: undo-gun-speed-bacon
+bip_39_word_dash_5: undo-gun-speed-bacon-husband
+bip_39_word_dash_6: undo-gun-speed-bacon-husband-carbon
+bip_39_word_dash_7: undo-gun-speed-bacon-husband-carbon-fragile
+bip_39_word_dash_8: undo-gun-speed-bacon-husband-carbon-fragile-clerk
+bip_39_word_dash_9: undo-gun-speed-bacon-husband-carbon-fragile-clerk-black
 bip_39_word_new_br_1: undo
 bip_39_word_new_br_10: undo<br>gun<br>speed<br>bacon<br>husband<br>carbon<br>fragile<br>clerk<br>black<br>bullet
 bip_39_word_new_br_11: undo<br>gun<br>speed<br>bacon<br>husband<br>carbon<br>fragile<br>clerk<br>black<br>bullet<br>bike
@@ -193,6 +205,18 @@ bip_39_word_space_6: undo gun speed bacon husband carbon
 bip_39_word_space_7: undo gun speed bacon husband carbon fragile
 bip_39_word_space_8: undo gun speed bacon husband carbon fragile clerk
 bip_39_word_space_9: undo gun speed bacon husband carbon fragile clerk black
+bip_39_word_underscore_1: undo
+bip_39_word_underscore_10: undo_gun_speed_bacon_husband_carbon_fragile_clerk_black_bullet
+bip_39_word_underscore_11: undo_gun_speed_bacon_husband_carbon_fragile_clerk_black_bullet_bike
+bip_39_word_underscore_12: undo_gun_speed_bacon_husband_carbon_fragile_clerk_black_bullet_bike_army
+bip_39_word_underscore_2: undo_gun
+bip_39_word_underscore_3: undo_gun_speed
+bip_39_word_underscore_4: undo_gun_speed_bacon
+bip_39_word_underscore_5: undo_gun_speed_bacon_husband
+bip_39_word_underscore_6: undo_gun_speed_bacon_husband_carbon
+bip_39_word_underscore_7: undo_gun_speed_bacon_husband_carbon_fragile
+bip_39_word_underscore_8: undo_gun_speed_bacon_husband_carbon_fragile_clerk
+bip_39_word_underscore_9: undo_gun_speed_bacon_husband_carbon_fragile_clerk_black
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

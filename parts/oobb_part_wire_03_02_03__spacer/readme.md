@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ceiling |  
+| bip_39_word_dash_10 | ceiling-decorate-draw-silly-festival-early-boy-female-soap-width |  
+| bip_39_word_dash_11 | ceiling-decorate-draw-silly-festival-early-boy-female-soap-width-collect |  
+| bip_39_word_dash_12 | ceiling-decorate-draw-silly-festival-early-boy-female-soap-width-collect-another |  
+| bip_39_word_dash_2 | ceiling-decorate |  
+| bip_39_word_dash_3 | ceiling-decorate-draw |  
+| bip_39_word_dash_4 | ceiling-decorate-draw-silly |  
+| bip_39_word_dash_5 | ceiling-decorate-draw-silly-festival |  
+| bip_39_word_dash_6 | ceiling-decorate-draw-silly-festival-early |  
+| bip_39_word_dash_7 | ceiling-decorate-draw-silly-festival-early-boy |  
+| bip_39_word_dash_8 | ceiling-decorate-draw-silly-festival-early-boy-female |  
+| bip_39_word_dash_9 | ceiling-decorate-draw-silly-festival-early-boy-female-soap |  
 | bip_39_word_new_br_1 | ceiling |  
 | bip_39_word_new_br_10 | ceiling<br>decorate<br>draw<br>silly<br>festival<br>early<br>boy<br>female<br>soap<br>width |  
 | bip_39_word_new_br_11 | ceiling<br>decorate<br>draw<br>silly<br>festival<br>early<br>boy<br>female<br>soap<br>width<br>collect |  
@@ -147,6 +159,18 @@ soap |
 | bip_39_word_space_7 | ceiling decorate draw silly festival early boy |  
 | bip_39_word_space_8 | ceiling decorate draw silly festival early boy female |  
 | bip_39_word_space_9 | ceiling decorate draw silly festival early boy female soap |  
+| bip_39_word_underscore_1 | ceiling |  
+| bip_39_word_underscore_10 | ceiling_decorate_draw_silly_festival_early_boy_female_soap_width |  
+| bip_39_word_underscore_11 | ceiling_decorate_draw_silly_festival_early_boy_female_soap_width_collect |  
+| bip_39_word_underscore_12 | ceiling_decorate_draw_silly_festival_early_boy_female_soap_width_collect_another |  
+| bip_39_word_underscore_2 | ceiling_decorate |  
+| bip_39_word_underscore_3 | ceiling_decorate_draw |  
+| bip_39_word_underscore_4 | ceiling_decorate_draw_silly |  
+| bip_39_word_underscore_5 | ceiling_decorate_draw_silly_festival |  
+| bip_39_word_underscore_6 | ceiling_decorate_draw_silly_festival_early |  
+| bip_39_word_underscore_7 | ceiling_decorate_draw_silly_festival_early_boy |  
+| bip_39_word_underscore_8 | ceiling_decorate_draw_silly_festival_early_boy_female |  
+| bip_39_word_underscore_9 | ceiling_decorate_draw_silly_festival_early_boy_female_soap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

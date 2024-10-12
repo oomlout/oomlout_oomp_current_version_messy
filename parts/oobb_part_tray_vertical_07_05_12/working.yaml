@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gaze
+bip_39_word_dash_10: gaze-spatial-toddler-tag-brass-claim-shove-toast-runway-trumpet
+bip_39_word_dash_11: gaze-spatial-toddler-tag-brass-claim-shove-toast-runway-trumpet-poem
+bip_39_word_dash_12: gaze-spatial-toddler-tag-brass-claim-shove-toast-runway-trumpet-poem-athlete
+bip_39_word_dash_2: gaze-spatial
+bip_39_word_dash_3: gaze-spatial-toddler
+bip_39_word_dash_4: gaze-spatial-toddler-tag
+bip_39_word_dash_5: gaze-spatial-toddler-tag-brass
+bip_39_word_dash_6: gaze-spatial-toddler-tag-brass-claim
+bip_39_word_dash_7: gaze-spatial-toddler-tag-brass-claim-shove
+bip_39_word_dash_8: gaze-spatial-toddler-tag-brass-claim-shove-toast
+bip_39_word_dash_9: gaze-spatial-toddler-tag-brass-claim-shove-toast-runway
 bip_39_word_new_br_1: gaze
 bip_39_word_new_br_10: gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast<br>runway<br>trumpet
 bip_39_word_new_br_11: gaze<br>spatial<br>toddler<br>tag<br>brass<br>claim<br>shove<br>toast<br>runway<br>trumpet<br>poem
@@ -193,6 +205,18 @@ bip_39_word_space_6: gaze spatial toddler tag brass claim
 bip_39_word_space_7: gaze spatial toddler tag brass claim shove
 bip_39_word_space_8: gaze spatial toddler tag brass claim shove toast
 bip_39_word_space_9: gaze spatial toddler tag brass claim shove toast runway
+bip_39_word_underscore_1: gaze
+bip_39_word_underscore_10: gaze_spatial_toddler_tag_brass_claim_shove_toast_runway_trumpet
+bip_39_word_underscore_11: gaze_spatial_toddler_tag_brass_claim_shove_toast_runway_trumpet_poem
+bip_39_word_underscore_12: gaze_spatial_toddler_tag_brass_claim_shove_toast_runway_trumpet_poem_athlete
+bip_39_word_underscore_2: gaze_spatial
+bip_39_word_underscore_3: gaze_spatial_toddler
+bip_39_word_underscore_4: gaze_spatial_toddler_tag
+bip_39_word_underscore_5: gaze_spatial_toddler_tag_brass
+bip_39_word_underscore_6: gaze_spatial_toddler_tag_brass_claim
+bip_39_word_underscore_7: gaze_spatial_toddler_tag_brass_claim_shove
+bip_39_word_underscore_8: gaze_spatial_toddler_tag_brass_claim_shove_toast
+bip_39_word_underscore_9: gaze_spatial_toddler_tag_brass_claim_shove_toast_runway
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

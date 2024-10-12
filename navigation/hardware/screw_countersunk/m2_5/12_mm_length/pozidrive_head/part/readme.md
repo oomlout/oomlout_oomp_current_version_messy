@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gravity |  
+| bip_39_word_dash_10 | gravity-usage-test-creek-sign-depart-endorse-idea-all-alley |  
+| bip_39_word_dash_11 | gravity-usage-test-creek-sign-depart-endorse-idea-all-alley-flock |  
+| bip_39_word_dash_12 | gravity-usage-test-creek-sign-depart-endorse-idea-all-alley-flock-angry |  
+| bip_39_word_dash_2 | gravity-usage |  
+| bip_39_word_dash_3 | gravity-usage-test |  
+| bip_39_word_dash_4 | gravity-usage-test-creek |  
+| bip_39_word_dash_5 | gravity-usage-test-creek-sign |  
+| bip_39_word_dash_6 | gravity-usage-test-creek-sign-depart |  
+| bip_39_word_dash_7 | gravity-usage-test-creek-sign-depart-endorse |  
+| bip_39_word_dash_8 | gravity-usage-test-creek-sign-depart-endorse-idea |  
+| bip_39_word_dash_9 | gravity-usage-test-creek-sign-depart-endorse-idea-all |  
 | bip_39_word_new_br_1 | gravity |  
 | bip_39_word_new_br_10 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea<br>all<br>alley |  
 | bip_39_word_new_br_11 | gravity<br>usage<br>test<br>creek<br>sign<br>depart<br>endorse<br>idea<br>all<br>alley<br>flock |  
@@ -147,6 +159,18 @@ all |
 | bip_39_word_space_7 | gravity usage test creek sign depart endorse |  
 | bip_39_word_space_8 | gravity usage test creek sign depart endorse idea |  
 | bip_39_word_space_9 | gravity usage test creek sign depart endorse idea all |  
+| bip_39_word_underscore_1 | gravity |  
+| bip_39_word_underscore_10 | gravity_usage_test_creek_sign_depart_endorse_idea_all_alley |  
+| bip_39_word_underscore_11 | gravity_usage_test_creek_sign_depart_endorse_idea_all_alley_flock |  
+| bip_39_word_underscore_12 | gravity_usage_test_creek_sign_depart_endorse_idea_all_alley_flock_angry |  
+| bip_39_word_underscore_2 | gravity_usage |  
+| bip_39_word_underscore_3 | gravity_usage_test |  
+| bip_39_word_underscore_4 | gravity_usage_test_creek |  
+| bip_39_word_underscore_5 | gravity_usage_test_creek_sign |  
+| bip_39_word_underscore_6 | gravity_usage_test_creek_sign_depart |  
+| bip_39_word_underscore_7 | gravity_usage_test_creek_sign_depart_endorse |  
+| bip_39_word_underscore_8 | gravity_usage_test_creek_sign_depart_endorse_idea |  
+| bip_39_word_underscore_9 | gravity_usage_test_creek_sign_depart_endorse_idea_all |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

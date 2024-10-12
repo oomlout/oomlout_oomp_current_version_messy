@@ -1,3 +1,15 @@
+bip_39_word_dash_1: elevator
+bip_39_word_dash_10: elevator-tunnel-fix-denial-output-cup-tired-mistake-kit-monkey
+bip_39_word_dash_11: elevator-tunnel-fix-denial-output-cup-tired-mistake-kit-monkey-sniff
+bip_39_word_dash_12: elevator-tunnel-fix-denial-output-cup-tired-mistake-kit-monkey-sniff-action
+bip_39_word_dash_2: elevator-tunnel
+bip_39_word_dash_3: elevator-tunnel-fix
+bip_39_word_dash_4: elevator-tunnel-fix-denial
+bip_39_word_dash_5: elevator-tunnel-fix-denial-output
+bip_39_word_dash_6: elevator-tunnel-fix-denial-output-cup
+bip_39_word_dash_7: elevator-tunnel-fix-denial-output-cup-tired
+bip_39_word_dash_8: elevator-tunnel-fix-denial-output-cup-tired-mistake
+bip_39_word_dash_9: elevator-tunnel-fix-denial-output-cup-tired-mistake-kit
 bip_39_word_new_br_1: elevator
 bip_39_word_new_br_10: elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake<br>kit<br>monkey
 bip_39_word_new_br_11: elevator<br>tunnel<br>fix<br>denial<br>output<br>cup<br>tired<br>mistake<br>kit<br>monkey<br>sniff
@@ -193,6 +205,18 @@ bip_39_word_space_6: elevator tunnel fix denial output cup
 bip_39_word_space_7: elevator tunnel fix denial output cup tired
 bip_39_word_space_8: elevator tunnel fix denial output cup tired mistake
 bip_39_word_space_9: elevator tunnel fix denial output cup tired mistake kit
+bip_39_word_underscore_1: elevator
+bip_39_word_underscore_10: elevator_tunnel_fix_denial_output_cup_tired_mistake_kit_monkey
+bip_39_word_underscore_11: elevator_tunnel_fix_denial_output_cup_tired_mistake_kit_monkey_sniff
+bip_39_word_underscore_12: elevator_tunnel_fix_denial_output_cup_tired_mistake_kit_monkey_sniff_action
+bip_39_word_underscore_2: elevator_tunnel
+bip_39_word_underscore_3: elevator_tunnel_fix
+bip_39_word_underscore_4: elevator_tunnel_fix_denial
+bip_39_word_underscore_5: elevator_tunnel_fix_denial_output
+bip_39_word_underscore_6: elevator_tunnel_fix_denial_output_cup
+bip_39_word_underscore_7: elevator_tunnel_fix_denial_output_cup_tired
+bip_39_word_underscore_8: elevator_tunnel_fix_denial_output_cup_tired_mistake
+bip_39_word_underscore_9: elevator_tunnel_fix_denial_output_cup_tired_mistake_kit
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

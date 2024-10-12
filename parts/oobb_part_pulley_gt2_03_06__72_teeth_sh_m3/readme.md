@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | salt |  
+| bip_39_word_dash_10 | salt-dignity-stick-alone-question-mesh-connect-open-trim-other |  
+| bip_39_word_dash_11 | salt-dignity-stick-alone-question-mesh-connect-open-trim-other-shove |  
+| bip_39_word_dash_12 | salt-dignity-stick-alone-question-mesh-connect-open-trim-other-shove-aisle |  
+| bip_39_word_dash_2 | salt-dignity |  
+| bip_39_word_dash_3 | salt-dignity-stick |  
+| bip_39_word_dash_4 | salt-dignity-stick-alone |  
+| bip_39_word_dash_5 | salt-dignity-stick-alone-question |  
+| bip_39_word_dash_6 | salt-dignity-stick-alone-question-mesh |  
+| bip_39_word_dash_7 | salt-dignity-stick-alone-question-mesh-connect |  
+| bip_39_word_dash_8 | salt-dignity-stick-alone-question-mesh-connect-open |  
+| bip_39_word_dash_9 | salt-dignity-stick-alone-question-mesh-connect-open-trim |  
 | bip_39_word_new_br_1 | salt |  
 | bip_39_word_new_br_10 | salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open<br>trim<br>other |  
 | bip_39_word_new_br_11 | salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open<br>trim<br>other<br>shove |  
@@ -147,6 +159,18 @@ trim |
 | bip_39_word_space_7 | salt dignity stick alone question mesh connect |  
 | bip_39_word_space_8 | salt dignity stick alone question mesh connect open |  
 | bip_39_word_space_9 | salt dignity stick alone question mesh connect open trim |  
+| bip_39_word_underscore_1 | salt |  
+| bip_39_word_underscore_10 | salt_dignity_stick_alone_question_mesh_connect_open_trim_other |  
+| bip_39_word_underscore_11 | salt_dignity_stick_alone_question_mesh_connect_open_trim_other_shove |  
+| bip_39_word_underscore_12 | salt_dignity_stick_alone_question_mesh_connect_open_trim_other_shove_aisle |  
+| bip_39_word_underscore_2 | salt_dignity |  
+| bip_39_word_underscore_3 | salt_dignity_stick |  
+| bip_39_word_underscore_4 | salt_dignity_stick_alone |  
+| bip_39_word_underscore_5 | salt_dignity_stick_alone_question |  
+| bip_39_word_underscore_6 | salt_dignity_stick_alone_question_mesh |  
+| bip_39_word_underscore_7 | salt_dignity_stick_alone_question_mesh_connect |  
+| bip_39_word_underscore_8 | salt_dignity_stick_alone_question_mesh_connect_open |  
+| bip_39_word_underscore_9 | salt_dignity_stick_alone_question_mesh_connect_open_trim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

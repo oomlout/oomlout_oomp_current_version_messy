@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sense
+bip_39_word_dash_10: sense-nerve-fade-shock-nice-table-maximum-size-duck-sphere
+bip_39_word_dash_11: sense-nerve-fade-shock-nice-table-maximum-size-duck-sphere-steel
+bip_39_word_dash_12: sense-nerve-fade-shock-nice-table-maximum-size-duck-sphere-steel-almost
+bip_39_word_dash_2: sense-nerve
+bip_39_word_dash_3: sense-nerve-fade
+bip_39_word_dash_4: sense-nerve-fade-shock
+bip_39_word_dash_5: sense-nerve-fade-shock-nice
+bip_39_word_dash_6: sense-nerve-fade-shock-nice-table
+bip_39_word_dash_7: sense-nerve-fade-shock-nice-table-maximum
+bip_39_word_dash_8: sense-nerve-fade-shock-nice-table-maximum-size
+bip_39_word_dash_9: sense-nerve-fade-shock-nice-table-maximum-size-duck
 bip_39_word_new_br_1: sense
 bip_39_word_new_br_10: sense<br>nerve<br>fade<br>shock<br>nice<br>table<br>maximum<br>size<br>duck<br>sphere
 bip_39_word_new_br_11: sense<br>nerve<br>fade<br>shock<br>nice<br>table<br>maximum<br>size<br>duck<br>sphere<br>steel
@@ -192,6 +204,18 @@ bip_39_word_space_6: sense nerve fade shock nice table
 bip_39_word_space_7: sense nerve fade shock nice table maximum
 bip_39_word_space_8: sense nerve fade shock nice table maximum size
 bip_39_word_space_9: sense nerve fade shock nice table maximum size duck
+bip_39_word_underscore_1: sense
+bip_39_word_underscore_10: sense_nerve_fade_shock_nice_table_maximum_size_duck_sphere
+bip_39_word_underscore_11: sense_nerve_fade_shock_nice_table_maximum_size_duck_sphere_steel
+bip_39_word_underscore_12: sense_nerve_fade_shock_nice_table_maximum_size_duck_sphere_steel_almost
+bip_39_word_underscore_2: sense_nerve
+bip_39_word_underscore_3: sense_nerve_fade
+bip_39_word_underscore_4: sense_nerve_fade_shock
+bip_39_word_underscore_5: sense_nerve_fade_shock_nice
+bip_39_word_underscore_6: sense_nerve_fade_shock_nice_table
+bip_39_word_underscore_7: sense_nerve_fade_shock_nice_table_maximum
+bip_39_word_underscore_8: sense_nerve_fade_shock_nice_table_maximum_size
+bip_39_word_underscore_9: sense_nerve_fade_shock_nice_table_maximum_size_duck
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

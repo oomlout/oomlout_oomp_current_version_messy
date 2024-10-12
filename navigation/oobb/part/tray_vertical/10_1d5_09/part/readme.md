@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vital |  
+| bip_39_word_dash_10 | vital-harvest-sort-increase-toddler-edge-judge-dust-slim-fox |  
+| bip_39_word_dash_11 | vital-harvest-sort-increase-toddler-edge-judge-dust-slim-fox-caught |  
+| bip_39_word_dash_12 | vital-harvest-sort-increase-toddler-edge-judge-dust-slim-fox-caught-accuse |  
+| bip_39_word_dash_2 | vital-harvest |  
+| bip_39_word_dash_3 | vital-harvest-sort |  
+| bip_39_word_dash_4 | vital-harvest-sort-increase |  
+| bip_39_word_dash_5 | vital-harvest-sort-increase-toddler |  
+| bip_39_word_dash_6 | vital-harvest-sort-increase-toddler-edge |  
+| bip_39_word_dash_7 | vital-harvest-sort-increase-toddler-edge-judge |  
+| bip_39_word_dash_8 | vital-harvest-sort-increase-toddler-edge-judge-dust |  
+| bip_39_word_dash_9 | vital-harvest-sort-increase-toddler-edge-judge-dust-slim |  
 | bip_39_word_new_br_1 | vital |  
 | bip_39_word_new_br_10 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox |  
 | bip_39_word_new_br_11 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox<br>caught |  
@@ -147,6 +159,18 @@ slim |
 | bip_39_word_space_7 | vital harvest sort increase toddler edge judge |  
 | bip_39_word_space_8 | vital harvest sort increase toddler edge judge dust |  
 | bip_39_word_space_9 | vital harvest sort increase toddler edge judge dust slim |  
+| bip_39_word_underscore_1 | vital |  
+| bip_39_word_underscore_10 | vital_harvest_sort_increase_toddler_edge_judge_dust_slim_fox |  
+| bip_39_word_underscore_11 | vital_harvest_sort_increase_toddler_edge_judge_dust_slim_fox_caught |  
+| bip_39_word_underscore_12 | vital_harvest_sort_increase_toddler_edge_judge_dust_slim_fox_caught_accuse |  
+| bip_39_word_underscore_2 | vital_harvest |  
+| bip_39_word_underscore_3 | vital_harvest_sort |  
+| bip_39_word_underscore_4 | vital_harvest_sort_increase |  
+| bip_39_word_underscore_5 | vital_harvest_sort_increase_toddler |  
+| bip_39_word_underscore_6 | vital_harvest_sort_increase_toddler_edge |  
+| bip_39_word_underscore_7 | vital_harvest_sort_increase_toddler_edge_judge |  
+| bip_39_word_underscore_8 | vital_harvest_sort_increase_toddler_edge_judge_dust |  
+| bip_39_word_underscore_9 | vital_harvest_sort_increase_toddler_edge_judge_dust_slim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

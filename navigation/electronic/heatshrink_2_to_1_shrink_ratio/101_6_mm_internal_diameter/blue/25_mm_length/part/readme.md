@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | park |  
+| bip_39_word_dash_10 | park-fog-raw-worth-desert-supreme-collect-olive-rapid-moon |  
+| bip_39_word_dash_11 | park-fog-raw-worth-desert-supreme-collect-olive-rapid-moon-other |  
+| bip_39_word_dash_12 | park-fog-raw-worth-desert-supreme-collect-olive-rapid-moon-other-assault |  
+| bip_39_word_dash_2 | park-fog |  
+| bip_39_word_dash_3 | park-fog-raw |  
+| bip_39_word_dash_4 | park-fog-raw-worth |  
+| bip_39_word_dash_5 | park-fog-raw-worth-desert |  
+| bip_39_word_dash_6 | park-fog-raw-worth-desert-supreme |  
+| bip_39_word_dash_7 | park-fog-raw-worth-desert-supreme-collect |  
+| bip_39_word_dash_8 | park-fog-raw-worth-desert-supreme-collect-olive |  
+| bip_39_word_dash_9 | park-fog-raw-worth-desert-supreme-collect-olive-rapid |  
 | bip_39_word_new_br_1 | park |  
 | bip_39_word_new_br_10 | park<br>fog<br>raw<br>worth<br>desert<br>supreme<br>collect<br>olive<br>rapid<br>moon |  
 | bip_39_word_new_br_11 | park<br>fog<br>raw<br>worth<br>desert<br>supreme<br>collect<br>olive<br>rapid<br>moon<br>other |  
@@ -147,6 +159,18 @@ rapid |
 | bip_39_word_space_7 | park fog raw worth desert supreme collect |  
 | bip_39_word_space_8 | park fog raw worth desert supreme collect olive |  
 | bip_39_word_space_9 | park fog raw worth desert supreme collect olive rapid |  
+| bip_39_word_underscore_1 | park |  
+| bip_39_word_underscore_10 | park_fog_raw_worth_desert_supreme_collect_olive_rapid_moon |  
+| bip_39_word_underscore_11 | park_fog_raw_worth_desert_supreme_collect_olive_rapid_moon_other |  
+| bip_39_word_underscore_12 | park_fog_raw_worth_desert_supreme_collect_olive_rapid_moon_other_assault |  
+| bip_39_word_underscore_2 | park_fog |  
+| bip_39_word_underscore_3 | park_fog_raw |  
+| bip_39_word_underscore_4 | park_fog_raw_worth |  
+| bip_39_word_underscore_5 | park_fog_raw_worth_desert |  
+| bip_39_word_underscore_6 | park_fog_raw_worth_desert_supreme |  
+| bip_39_word_underscore_7 | park_fog_raw_worth_desert_supreme_collect |  
+| bip_39_word_underscore_8 | park_fog_raw_worth_desert_supreme_collect_olive |  
+| bip_39_word_underscore_9 | park_fog_raw_worth_desert_supreme_collect_olive_rapid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

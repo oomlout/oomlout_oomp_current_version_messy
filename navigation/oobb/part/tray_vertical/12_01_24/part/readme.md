@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | talent |  
+| bip_39_word_dash_10 | talent-play-naive-panda-puzzle-logic-salmon-economy-still-gesture |  
+| bip_39_word_dash_11 | talent-play-naive-panda-puzzle-logic-salmon-economy-still-gesture-mango |  
+| bip_39_word_dash_12 | talent-play-naive-panda-puzzle-logic-salmon-economy-still-gesture-mango-assume |  
+| bip_39_word_dash_2 | talent-play |  
+| bip_39_word_dash_3 | talent-play-naive |  
+| bip_39_word_dash_4 | talent-play-naive-panda |  
+| bip_39_word_dash_5 | talent-play-naive-panda-puzzle |  
+| bip_39_word_dash_6 | talent-play-naive-panda-puzzle-logic |  
+| bip_39_word_dash_7 | talent-play-naive-panda-puzzle-logic-salmon |  
+| bip_39_word_dash_8 | talent-play-naive-panda-puzzle-logic-salmon-economy |  
+| bip_39_word_dash_9 | talent-play-naive-panda-puzzle-logic-salmon-economy-still |  
 | bip_39_word_new_br_1 | talent |  
 | bip_39_word_new_br_10 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture |  
 | bip_39_word_new_br_11 | talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture<br>mango |  
@@ -147,6 +159,18 @@ still |
 | bip_39_word_space_7 | talent play naive panda puzzle logic salmon |  
 | bip_39_word_space_8 | talent play naive panda puzzle logic salmon economy |  
 | bip_39_word_space_9 | talent play naive panda puzzle logic salmon economy still |  
+| bip_39_word_underscore_1 | talent |  
+| bip_39_word_underscore_10 | talent_play_naive_panda_puzzle_logic_salmon_economy_still_gesture |  
+| bip_39_word_underscore_11 | talent_play_naive_panda_puzzle_logic_salmon_economy_still_gesture_mango |  
+| bip_39_word_underscore_12 | talent_play_naive_panda_puzzle_logic_salmon_economy_still_gesture_mango_assume |  
+| bip_39_word_underscore_2 | talent_play |  
+| bip_39_word_underscore_3 | talent_play_naive |  
+| bip_39_word_underscore_4 | talent_play_naive_panda |  
+| bip_39_word_underscore_5 | talent_play_naive_panda_puzzle |  
+| bip_39_word_underscore_6 | talent_play_naive_panda_puzzle_logic |  
+| bip_39_word_underscore_7 | talent_play_naive_panda_puzzle_logic_salmon |  
+| bip_39_word_underscore_8 | talent_play_naive_panda_puzzle_logic_salmon_economy |  
+| bip_39_word_underscore_9 | talent_play_naive_panda_puzzle_logic_salmon_economy_still |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

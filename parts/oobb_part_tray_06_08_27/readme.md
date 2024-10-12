@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | laundry |  
+| bip_39_word_dash_10 | laundry-clock-quantum-spin-aspect-plunge-hospital-enjoy-ensure-inch |  
+| bip_39_word_dash_11 | laundry-clock-quantum-spin-aspect-plunge-hospital-enjoy-ensure-inch-island |  
+| bip_39_word_dash_12 | laundry-clock-quantum-spin-aspect-plunge-hospital-enjoy-ensure-inch-island-ankle |  
+| bip_39_word_dash_2 | laundry-clock |  
+| bip_39_word_dash_3 | laundry-clock-quantum |  
+| bip_39_word_dash_4 | laundry-clock-quantum-spin |  
+| bip_39_word_dash_5 | laundry-clock-quantum-spin-aspect |  
+| bip_39_word_dash_6 | laundry-clock-quantum-spin-aspect-plunge |  
+| bip_39_word_dash_7 | laundry-clock-quantum-spin-aspect-plunge-hospital |  
+| bip_39_word_dash_8 | laundry-clock-quantum-spin-aspect-plunge-hospital-enjoy |  
+| bip_39_word_dash_9 | laundry-clock-quantum-spin-aspect-plunge-hospital-enjoy-ensure |  
 | bip_39_word_new_br_1 | laundry |  
 | bip_39_word_new_br_10 | laundry<br>clock<br>quantum<br>spin<br>aspect<br>plunge<br>hospital<br>enjoy<br>ensure<br>inch |  
 | bip_39_word_new_br_11 | laundry<br>clock<br>quantum<br>spin<br>aspect<br>plunge<br>hospital<br>enjoy<br>ensure<br>inch<br>island |  
@@ -147,6 +159,18 @@ ensure |
 | bip_39_word_space_7 | laundry clock quantum spin aspect plunge hospital |  
 | bip_39_word_space_8 | laundry clock quantum spin aspect plunge hospital enjoy |  
 | bip_39_word_space_9 | laundry clock quantum spin aspect plunge hospital enjoy ensure |  
+| bip_39_word_underscore_1 | laundry |  
+| bip_39_word_underscore_10 | laundry_clock_quantum_spin_aspect_plunge_hospital_enjoy_ensure_inch |  
+| bip_39_word_underscore_11 | laundry_clock_quantum_spin_aspect_plunge_hospital_enjoy_ensure_inch_island |  
+| bip_39_word_underscore_12 | laundry_clock_quantum_spin_aspect_plunge_hospital_enjoy_ensure_inch_island_ankle |  
+| bip_39_word_underscore_2 | laundry_clock |  
+| bip_39_word_underscore_3 | laundry_clock_quantum |  
+| bip_39_word_underscore_4 | laundry_clock_quantum_spin |  
+| bip_39_word_underscore_5 | laundry_clock_quantum_spin_aspect |  
+| bip_39_word_underscore_6 | laundry_clock_quantum_spin_aspect_plunge |  
+| bip_39_word_underscore_7 | laundry_clock_quantum_spin_aspect_plunge_hospital |  
+| bip_39_word_underscore_8 | laundry_clock_quantum_spin_aspect_plunge_hospital_enjoy |  
+| bip_39_word_underscore_9 | laundry_clock_quantum_spin_aspect_plunge_hospital_enjoy_ensure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

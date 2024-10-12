@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | company |  
+| bip_39_word_dash_10 | company-knife-resemble-client-across-pluck-swift-year-spare-season |  
+| bip_39_word_dash_11 | company-knife-resemble-client-across-pluck-swift-year-spare-season-equip |  
+| bip_39_word_dash_12 | company-knife-resemble-client-across-pluck-swift-year-spare-season-equip-another |  
+| bip_39_word_dash_2 | company-knife |  
+| bip_39_word_dash_3 | company-knife-resemble |  
+| bip_39_word_dash_4 | company-knife-resemble-client |  
+| bip_39_word_dash_5 | company-knife-resemble-client-across |  
+| bip_39_word_dash_6 | company-knife-resemble-client-across-pluck |  
+| bip_39_word_dash_7 | company-knife-resemble-client-across-pluck-swift |  
+| bip_39_word_dash_8 | company-knife-resemble-client-across-pluck-swift-year |  
+| bip_39_word_dash_9 | company-knife-resemble-client-across-pluck-swift-year-spare |  
 | bip_39_word_new_br_1 | company |  
 | bip_39_word_new_br_10 | company<br>knife<br>resemble<br>client<br>across<br>pluck<br>swift<br>year<br>spare<br>season |  
 | bip_39_word_new_br_11 | company<br>knife<br>resemble<br>client<br>across<br>pluck<br>swift<br>year<br>spare<br>season<br>equip |  
@@ -147,6 +159,18 @@ spare |
 | bip_39_word_space_7 | company knife resemble client across pluck swift |  
 | bip_39_word_space_8 | company knife resemble client across pluck swift year |  
 | bip_39_word_space_9 | company knife resemble client across pluck swift year spare |  
+| bip_39_word_underscore_1 | company |  
+| bip_39_word_underscore_10 | company_knife_resemble_client_across_pluck_swift_year_spare_season |  
+| bip_39_word_underscore_11 | company_knife_resemble_client_across_pluck_swift_year_spare_season_equip |  
+| bip_39_word_underscore_12 | company_knife_resemble_client_across_pluck_swift_year_spare_season_equip_another |  
+| bip_39_word_underscore_2 | company_knife |  
+| bip_39_word_underscore_3 | company_knife_resemble |  
+| bip_39_word_underscore_4 | company_knife_resemble_client |  
+| bip_39_word_underscore_5 | company_knife_resemble_client_across |  
+| bip_39_word_underscore_6 | company_knife_resemble_client_across_pluck |  
+| bip_39_word_underscore_7 | company_knife_resemble_client_across_pluck_swift |  
+| bip_39_word_underscore_8 | company_knife_resemble_client_across_pluck_swift_year |  
+| bip_39_word_underscore_9 | company_knife_resemble_client_across_pluck_swift_year_spare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

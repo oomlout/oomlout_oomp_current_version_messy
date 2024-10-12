@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hill
+bip_39_word_dash_10: hill-divert-palm-aware-dad-chest-ill-property-lion-shy
+bip_39_word_dash_11: hill-divert-palm-aware-dad-chest-ill-property-lion-shy-demand
+bip_39_word_dash_12: hill-divert-palm-aware-dad-chest-ill-property-lion-shy-demand-analyst
+bip_39_word_dash_2: hill-divert
+bip_39_word_dash_3: hill-divert-palm
+bip_39_word_dash_4: hill-divert-palm-aware
+bip_39_word_dash_5: hill-divert-palm-aware-dad
+bip_39_word_dash_6: hill-divert-palm-aware-dad-chest
+bip_39_word_dash_7: hill-divert-palm-aware-dad-chest-ill
+bip_39_word_dash_8: hill-divert-palm-aware-dad-chest-ill-property
+bip_39_word_dash_9: hill-divert-palm-aware-dad-chest-ill-property-lion
 bip_39_word_new_br_1: hill
 bip_39_word_new_br_10: hill<br>divert<br>palm<br>aware<br>dad<br>chest<br>ill<br>property<br>lion<br>shy
 bip_39_word_new_br_11: hill<br>divert<br>palm<br>aware<br>dad<br>chest<br>ill<br>property<br>lion<br>shy<br>demand
@@ -192,6 +204,18 @@ bip_39_word_space_6: hill divert palm aware dad chest
 bip_39_word_space_7: hill divert palm aware dad chest ill
 bip_39_word_space_8: hill divert palm aware dad chest ill property
 bip_39_word_space_9: hill divert palm aware dad chest ill property lion
+bip_39_word_underscore_1: hill
+bip_39_word_underscore_10: hill_divert_palm_aware_dad_chest_ill_property_lion_shy
+bip_39_word_underscore_11: hill_divert_palm_aware_dad_chest_ill_property_lion_shy_demand
+bip_39_word_underscore_12: hill_divert_palm_aware_dad_chest_ill_property_lion_shy_demand_analyst
+bip_39_word_underscore_2: hill_divert
+bip_39_word_underscore_3: hill_divert_palm
+bip_39_word_underscore_4: hill_divert_palm_aware
+bip_39_word_underscore_5: hill_divert_palm_aware_dad
+bip_39_word_underscore_6: hill_divert_palm_aware_dad_chest
+bip_39_word_underscore_7: hill_divert_palm_aware_dad_chest_ill
+bip_39_word_underscore_8: hill_divert_palm_aware_dad_chest_ill_property
+bip_39_word_underscore_9: hill_divert_palm_aware_dad_chest_ill_property_lion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

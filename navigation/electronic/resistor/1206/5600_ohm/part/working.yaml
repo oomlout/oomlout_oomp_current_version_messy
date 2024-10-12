@@ -1,3 +1,15 @@
+bip_39_word_dash_1: basic
+bip_39_word_dash_10: basic-small-pulse-wine-ankle-patch-slender-decrease-demand-possible
+bip_39_word_dash_11: basic-small-pulse-wine-ankle-patch-slender-decrease-demand-possible-identify
+bip_39_word_dash_12: basic-small-pulse-wine-ankle-patch-slender-decrease-demand-possible-identify-asthma
+bip_39_word_dash_2: basic-small
+bip_39_word_dash_3: basic-small-pulse
+bip_39_word_dash_4: basic-small-pulse-wine
+bip_39_word_dash_5: basic-small-pulse-wine-ankle
+bip_39_word_dash_6: basic-small-pulse-wine-ankle-patch
+bip_39_word_dash_7: basic-small-pulse-wine-ankle-patch-slender
+bip_39_word_dash_8: basic-small-pulse-wine-ankle-patch-slender-decrease
+bip_39_word_dash_9: basic-small-pulse-wine-ankle-patch-slender-decrease-demand
 bip_39_word_new_br_1: basic
 bip_39_word_new_br_10: basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease<br>demand<br>possible
 bip_39_word_new_br_11: basic<br>small<br>pulse<br>wine<br>ankle<br>patch<br>slender<br>decrease<br>demand<br>possible<br>identify
@@ -193,6 +205,18 @@ bip_39_word_space_6: basic small pulse wine ankle patch
 bip_39_word_space_7: basic small pulse wine ankle patch slender
 bip_39_word_space_8: basic small pulse wine ankle patch slender decrease
 bip_39_word_space_9: basic small pulse wine ankle patch slender decrease demand
+bip_39_word_underscore_1: basic
+bip_39_word_underscore_10: basic_small_pulse_wine_ankle_patch_slender_decrease_demand_possible
+bip_39_word_underscore_11: basic_small_pulse_wine_ankle_patch_slender_decrease_demand_possible_identify
+bip_39_word_underscore_12: basic_small_pulse_wine_ankle_patch_slender_decrease_demand_possible_identify_asthma
+bip_39_word_underscore_2: basic_small
+bip_39_word_underscore_3: basic_small_pulse
+bip_39_word_underscore_4: basic_small_pulse_wine
+bip_39_word_underscore_5: basic_small_pulse_wine_ankle
+bip_39_word_underscore_6: basic_small_pulse_wine_ankle_patch
+bip_39_word_underscore_7: basic_small_pulse_wine_ankle_patch_slender
+bip_39_word_underscore_8: basic_small_pulse_wine_ankle_patch_slender_decrease
+bip_39_word_underscore_9: basic_small_pulse_wine_ankle_patch_slender_decrease_demand
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

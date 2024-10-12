@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | measure |  
+| bip_39_word_dash_10 | measure-wall-critic-harvest-polar-away-quote-sudden-abuse-demand |  
+| bip_39_word_dash_11 | measure-wall-critic-harvest-polar-away-quote-sudden-abuse-demand-ankle |  
+| bip_39_word_dash_12 | measure-wall-critic-harvest-polar-away-quote-sudden-abuse-demand-ankle-adapt |  
+| bip_39_word_dash_2 | measure-wall |  
+| bip_39_word_dash_3 | measure-wall-critic |  
+| bip_39_word_dash_4 | measure-wall-critic-harvest |  
+| bip_39_word_dash_5 | measure-wall-critic-harvest-polar |  
+| bip_39_word_dash_6 | measure-wall-critic-harvest-polar-away |  
+| bip_39_word_dash_7 | measure-wall-critic-harvest-polar-away-quote |  
+| bip_39_word_dash_8 | measure-wall-critic-harvest-polar-away-quote-sudden |  
+| bip_39_word_dash_9 | measure-wall-critic-harvest-polar-away-quote-sudden-abuse |  
 | bip_39_word_new_br_1 | measure |  
 | bip_39_word_new_br_10 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand |  
 | bip_39_word_new_br_11 | measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand<br>ankle |  
@@ -147,6 +159,18 @@ abuse |
 | bip_39_word_space_7 | measure wall critic harvest polar away quote |  
 | bip_39_word_space_8 | measure wall critic harvest polar away quote sudden |  
 | bip_39_word_space_9 | measure wall critic harvest polar away quote sudden abuse |  
+| bip_39_word_underscore_1 | measure |  
+| bip_39_word_underscore_10 | measure_wall_critic_harvest_polar_away_quote_sudden_abuse_demand |  
+| bip_39_word_underscore_11 | measure_wall_critic_harvest_polar_away_quote_sudden_abuse_demand_ankle |  
+| bip_39_word_underscore_12 | measure_wall_critic_harvest_polar_away_quote_sudden_abuse_demand_ankle_adapt |  
+| bip_39_word_underscore_2 | measure_wall |  
+| bip_39_word_underscore_3 | measure_wall_critic |  
+| bip_39_word_underscore_4 | measure_wall_critic_harvest |  
+| bip_39_word_underscore_5 | measure_wall_critic_harvest_polar |  
+| bip_39_word_underscore_6 | measure_wall_critic_harvest_polar_away |  
+| bip_39_word_underscore_7 | measure_wall_critic_harvest_polar_away_quote |  
+| bip_39_word_underscore_8 | measure_wall_critic_harvest_polar_away_quote_sudden |  
+| bip_39_word_underscore_9 | measure_wall_critic_harvest_polar_away_quote_sudden_abuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

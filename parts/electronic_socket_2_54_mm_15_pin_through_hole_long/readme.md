@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hold |  
+| bip_39_word_dash_10 | hold-dice-ugly-accuse-awake-all-huge-toward-coach-split |  
+| bip_39_word_dash_11 | hold-dice-ugly-accuse-awake-all-huge-toward-coach-split-order |  
+| bip_39_word_dash_12 | hold-dice-ugly-accuse-awake-all-huge-toward-coach-split-order-alpha |  
+| bip_39_word_dash_2 | hold-dice |  
+| bip_39_word_dash_3 | hold-dice-ugly |  
+| bip_39_word_dash_4 | hold-dice-ugly-accuse |  
+| bip_39_word_dash_5 | hold-dice-ugly-accuse-awake |  
+| bip_39_word_dash_6 | hold-dice-ugly-accuse-awake-all |  
+| bip_39_word_dash_7 | hold-dice-ugly-accuse-awake-all-huge |  
+| bip_39_word_dash_8 | hold-dice-ugly-accuse-awake-all-huge-toward |  
+| bip_39_word_dash_9 | hold-dice-ugly-accuse-awake-all-huge-toward-coach |  
 | bip_39_word_new_br_1 | hold |  
 | bip_39_word_new_br_10 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split |  
 | bip_39_word_new_br_11 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split<br>order |  
@@ -147,6 +159,18 @@ coach |
 | bip_39_word_space_7 | hold dice ugly accuse awake all huge |  
 | bip_39_word_space_8 | hold dice ugly accuse awake all huge toward |  
 | bip_39_word_space_9 | hold dice ugly accuse awake all huge toward coach |  
+| bip_39_word_underscore_1 | hold |  
+| bip_39_word_underscore_10 | hold_dice_ugly_accuse_awake_all_huge_toward_coach_split |  
+| bip_39_word_underscore_11 | hold_dice_ugly_accuse_awake_all_huge_toward_coach_split_order |  
+| bip_39_word_underscore_12 | hold_dice_ugly_accuse_awake_all_huge_toward_coach_split_order_alpha |  
+| bip_39_word_underscore_2 | hold_dice |  
+| bip_39_word_underscore_3 | hold_dice_ugly |  
+| bip_39_word_underscore_4 | hold_dice_ugly_accuse |  
+| bip_39_word_underscore_5 | hold_dice_ugly_accuse_awake |  
+| bip_39_word_underscore_6 | hold_dice_ugly_accuse_awake_all |  
+| bip_39_word_underscore_7 | hold_dice_ugly_accuse_awake_all_huge |  
+| bip_39_word_underscore_8 | hold_dice_ugly_accuse_awake_all_huge_toward |  
+| bip_39_word_underscore_9 | hold_dice_ugly_accuse_awake_all_huge_toward_coach |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

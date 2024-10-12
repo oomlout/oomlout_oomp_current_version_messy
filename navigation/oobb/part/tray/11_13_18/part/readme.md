@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | return |  
+| bip_39_word_dash_10 | return-february-velvet-autumn-note-bacon-vibrant-junior-honey-tooth |  
+| bip_39_word_dash_11 | return-february-velvet-autumn-note-bacon-vibrant-junior-honey-tooth-predict |  
+| bip_39_word_dash_12 | return-february-velvet-autumn-note-bacon-vibrant-junior-honey-tooth-predict-auto |  
+| bip_39_word_dash_2 | return-february |  
+| bip_39_word_dash_3 | return-february-velvet |  
+| bip_39_word_dash_4 | return-february-velvet-autumn |  
+| bip_39_word_dash_5 | return-february-velvet-autumn-note |  
+| bip_39_word_dash_6 | return-february-velvet-autumn-note-bacon |  
+| bip_39_word_dash_7 | return-february-velvet-autumn-note-bacon-vibrant |  
+| bip_39_word_dash_8 | return-february-velvet-autumn-note-bacon-vibrant-junior |  
+| bip_39_word_dash_9 | return-february-velvet-autumn-note-bacon-vibrant-junior-honey |  
 | bip_39_word_new_br_1 | return |  
 | bip_39_word_new_br_10 | return<br>february<br>velvet<br>autumn<br>note<br>bacon<br>vibrant<br>junior<br>honey<br>tooth |  
 | bip_39_word_new_br_11 | return<br>february<br>velvet<br>autumn<br>note<br>bacon<br>vibrant<br>junior<br>honey<br>tooth<br>predict |  
@@ -147,6 +159,18 @@ honey |
 | bip_39_word_space_7 | return february velvet autumn note bacon vibrant |  
 | bip_39_word_space_8 | return february velvet autumn note bacon vibrant junior |  
 | bip_39_word_space_9 | return february velvet autumn note bacon vibrant junior honey |  
+| bip_39_word_underscore_1 | return |  
+| bip_39_word_underscore_10 | return_february_velvet_autumn_note_bacon_vibrant_junior_honey_tooth |  
+| bip_39_word_underscore_11 | return_february_velvet_autumn_note_bacon_vibrant_junior_honey_tooth_predict |  
+| bip_39_word_underscore_12 | return_february_velvet_autumn_note_bacon_vibrant_junior_honey_tooth_predict_auto |  
+| bip_39_word_underscore_2 | return_february |  
+| bip_39_word_underscore_3 | return_february_velvet |  
+| bip_39_word_underscore_4 | return_february_velvet_autumn |  
+| bip_39_word_underscore_5 | return_february_velvet_autumn_note |  
+| bip_39_word_underscore_6 | return_february_velvet_autumn_note_bacon |  
+| bip_39_word_underscore_7 | return_february_velvet_autumn_note_bacon_vibrant |  
+| bip_39_word_underscore_8 | return_february_velvet_autumn_note_bacon_vibrant_junior |  
+| bip_39_word_underscore_9 | return_february_velvet_autumn_note_bacon_vibrant_junior_honey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

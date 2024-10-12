@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | winter |  
+| bip_39_word_dash_10 | winter-wealth-bamboo-visit-chicken-grass-repeat-grass-nuclear-raccoon |  
+| bip_39_word_dash_11 | winter-wealth-bamboo-visit-chicken-grass-repeat-grass-nuclear-raccoon-west |  
+| bip_39_word_dash_12 | winter-wealth-bamboo-visit-chicken-grass-repeat-grass-nuclear-raccoon-west-ahead |  
+| bip_39_word_dash_2 | winter-wealth |  
+| bip_39_word_dash_3 | winter-wealth-bamboo |  
+| bip_39_word_dash_4 | winter-wealth-bamboo-visit |  
+| bip_39_word_dash_5 | winter-wealth-bamboo-visit-chicken |  
+| bip_39_word_dash_6 | winter-wealth-bamboo-visit-chicken-grass |  
+| bip_39_word_dash_7 | winter-wealth-bamboo-visit-chicken-grass-repeat |  
+| bip_39_word_dash_8 | winter-wealth-bamboo-visit-chicken-grass-repeat-grass |  
+| bip_39_word_dash_9 | winter-wealth-bamboo-visit-chicken-grass-repeat-grass-nuclear |  
 | bip_39_word_new_br_1 | winter |  
 | bip_39_word_new_br_10 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass<br>nuclear<br>raccoon |  
 | bip_39_word_new_br_11 | winter<br>wealth<br>bamboo<br>visit<br>chicken<br>grass<br>repeat<br>grass<br>nuclear<br>raccoon<br>west |  
@@ -147,6 +159,18 @@ nuclear |
 | bip_39_word_space_7 | winter wealth bamboo visit chicken grass repeat |  
 | bip_39_word_space_8 | winter wealth bamboo visit chicken grass repeat grass |  
 | bip_39_word_space_9 | winter wealth bamboo visit chicken grass repeat grass nuclear |  
+| bip_39_word_underscore_1 | winter |  
+| bip_39_word_underscore_10 | winter_wealth_bamboo_visit_chicken_grass_repeat_grass_nuclear_raccoon |  
+| bip_39_word_underscore_11 | winter_wealth_bamboo_visit_chicken_grass_repeat_grass_nuclear_raccoon_west |  
+| bip_39_word_underscore_12 | winter_wealth_bamboo_visit_chicken_grass_repeat_grass_nuclear_raccoon_west_ahead |  
+| bip_39_word_underscore_2 | winter_wealth |  
+| bip_39_word_underscore_3 | winter_wealth_bamboo |  
+| bip_39_word_underscore_4 | winter_wealth_bamboo_visit |  
+| bip_39_word_underscore_5 | winter_wealth_bamboo_visit_chicken |  
+| bip_39_word_underscore_6 | winter_wealth_bamboo_visit_chicken_grass |  
+| bip_39_word_underscore_7 | winter_wealth_bamboo_visit_chicken_grass_repeat |  
+| bip_39_word_underscore_8 | winter_wealth_bamboo_visit_chicken_grass_repeat_grass |  
+| bip_39_word_underscore_9 | winter_wealth_bamboo_visit_chicken_grass_repeat_grass_nuclear |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

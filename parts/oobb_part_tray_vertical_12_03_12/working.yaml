@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fetch
+bip_39_word_dash_10: fetch-valid-put-mom-useful-very-inhale-pet-drastic-cute
+bip_39_word_dash_11: fetch-valid-put-mom-useful-very-inhale-pet-drastic-cute-spring
+bip_39_word_dash_12: fetch-valid-put-mom-useful-very-inhale-pet-drastic-cute-spring-amazing
+bip_39_word_dash_2: fetch-valid
+bip_39_word_dash_3: fetch-valid-put
+bip_39_word_dash_4: fetch-valid-put-mom
+bip_39_word_dash_5: fetch-valid-put-mom-useful
+bip_39_word_dash_6: fetch-valid-put-mom-useful-very
+bip_39_word_dash_7: fetch-valid-put-mom-useful-very-inhale
+bip_39_word_dash_8: fetch-valid-put-mom-useful-very-inhale-pet
+bip_39_word_dash_9: fetch-valid-put-mom-useful-very-inhale-pet-drastic
 bip_39_word_new_br_1: fetch
 bip_39_word_new_br_10: fetch<br>valid<br>put<br>mom<br>useful<br>very<br>inhale<br>pet<br>drastic<br>cute
 bip_39_word_new_br_11: fetch<br>valid<br>put<br>mom<br>useful<br>very<br>inhale<br>pet<br>drastic<br>cute<br>spring
@@ -192,6 +204,18 @@ bip_39_word_space_6: fetch valid put mom useful very
 bip_39_word_space_7: fetch valid put mom useful very inhale
 bip_39_word_space_8: fetch valid put mom useful very inhale pet
 bip_39_word_space_9: fetch valid put mom useful very inhale pet drastic
+bip_39_word_underscore_1: fetch
+bip_39_word_underscore_10: fetch_valid_put_mom_useful_very_inhale_pet_drastic_cute
+bip_39_word_underscore_11: fetch_valid_put_mom_useful_very_inhale_pet_drastic_cute_spring
+bip_39_word_underscore_12: fetch_valid_put_mom_useful_very_inhale_pet_drastic_cute_spring_amazing
+bip_39_word_underscore_2: fetch_valid
+bip_39_word_underscore_3: fetch_valid_put
+bip_39_word_underscore_4: fetch_valid_put_mom
+bip_39_word_underscore_5: fetch_valid_put_mom_useful
+bip_39_word_underscore_6: fetch_valid_put_mom_useful_very
+bip_39_word_underscore_7: fetch_valid_put_mom_useful_very_inhale
+bip_39_word_underscore_8: fetch_valid_put_mom_useful_very_inhale_pet
+bip_39_word_underscore_9: fetch_valid_put_mom_useful_very_inhale_pet_drastic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

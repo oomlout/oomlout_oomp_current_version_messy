@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | present |  
+| bip_39_word_dash_10 | present-follow-company-wait-arrive-acid-abstract-boost-try-what |  
+| bip_39_word_dash_11 | present-follow-company-wait-arrive-acid-abstract-boost-try-what-tank |  
+| bip_39_word_dash_12 | present-follow-company-wait-arrive-acid-abstract-boost-try-what-tank-ahead |  
+| bip_39_word_dash_2 | present-follow |  
+| bip_39_word_dash_3 | present-follow-company |  
+| bip_39_word_dash_4 | present-follow-company-wait |  
+| bip_39_word_dash_5 | present-follow-company-wait-arrive |  
+| bip_39_word_dash_6 | present-follow-company-wait-arrive-acid |  
+| bip_39_word_dash_7 | present-follow-company-wait-arrive-acid-abstract |  
+| bip_39_word_dash_8 | present-follow-company-wait-arrive-acid-abstract-boost |  
+| bip_39_word_dash_9 | present-follow-company-wait-arrive-acid-abstract-boost-try |  
 | bip_39_word_new_br_1 | present |  
 | bip_39_word_new_br_10 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what |  
 | bip_39_word_new_br_11 | present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what<br>tank |  
@@ -147,6 +159,18 @@ try |
 | bip_39_word_space_7 | present follow company wait arrive acid abstract |  
 | bip_39_word_space_8 | present follow company wait arrive acid abstract boost |  
 | bip_39_word_space_9 | present follow company wait arrive acid abstract boost try |  
+| bip_39_word_underscore_1 | present |  
+| bip_39_word_underscore_10 | present_follow_company_wait_arrive_acid_abstract_boost_try_what |  
+| bip_39_word_underscore_11 | present_follow_company_wait_arrive_acid_abstract_boost_try_what_tank |  
+| bip_39_word_underscore_12 | present_follow_company_wait_arrive_acid_abstract_boost_try_what_tank_ahead |  
+| bip_39_word_underscore_2 | present_follow |  
+| bip_39_word_underscore_3 | present_follow_company |  
+| bip_39_word_underscore_4 | present_follow_company_wait |  
+| bip_39_word_underscore_5 | present_follow_company_wait_arrive |  
+| bip_39_word_underscore_6 | present_follow_company_wait_arrive_acid |  
+| bip_39_word_underscore_7 | present_follow_company_wait_arrive_acid_abstract |  
+| bip_39_word_underscore_8 | present_follow_company_wait_arrive_acid_abstract_boost |  
+| bip_39_word_underscore_9 | present_follow_company_wait_arrive_acid_abstract_boost_try |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

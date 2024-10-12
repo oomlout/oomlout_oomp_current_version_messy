@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | defy |  
+| bip_39_word_dash_10 | defy-give-convince-destroy-strategy-bar-scene-yard-also-ribbon |  
+| bip_39_word_dash_11 | defy-give-convince-destroy-strategy-bar-scene-yard-also-ribbon-now |  
+| bip_39_word_dash_12 | defy-give-convince-destroy-strategy-bar-scene-yard-also-ribbon-now-adult |  
+| bip_39_word_dash_2 | defy-give |  
+| bip_39_word_dash_3 | defy-give-convince |  
+| bip_39_word_dash_4 | defy-give-convince-destroy |  
+| bip_39_word_dash_5 | defy-give-convince-destroy-strategy |  
+| bip_39_word_dash_6 | defy-give-convince-destroy-strategy-bar |  
+| bip_39_word_dash_7 | defy-give-convince-destroy-strategy-bar-scene |  
+| bip_39_word_dash_8 | defy-give-convince-destroy-strategy-bar-scene-yard |  
+| bip_39_word_dash_9 | defy-give-convince-destroy-strategy-bar-scene-yard-also |  
 | bip_39_word_new_br_1 | defy |  
 | bip_39_word_new_br_10 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard<br>also<br>ribbon |  
 | bip_39_word_new_br_11 | defy<br>give<br>convince<br>destroy<br>strategy<br>bar<br>scene<br>yard<br>also<br>ribbon<br>now |  
@@ -147,6 +159,18 @@ also |
 | bip_39_word_space_7 | defy give convince destroy strategy bar scene |  
 | bip_39_word_space_8 | defy give convince destroy strategy bar scene yard |  
 | bip_39_word_space_9 | defy give convince destroy strategy bar scene yard also |  
+| bip_39_word_underscore_1 | defy |  
+| bip_39_word_underscore_10 | defy_give_convince_destroy_strategy_bar_scene_yard_also_ribbon |  
+| bip_39_word_underscore_11 | defy_give_convince_destroy_strategy_bar_scene_yard_also_ribbon_now |  
+| bip_39_word_underscore_12 | defy_give_convince_destroy_strategy_bar_scene_yard_also_ribbon_now_adult |  
+| bip_39_word_underscore_2 | defy_give |  
+| bip_39_word_underscore_3 | defy_give_convince |  
+| bip_39_word_underscore_4 | defy_give_convince_destroy |  
+| bip_39_word_underscore_5 | defy_give_convince_destroy_strategy |  
+| bip_39_word_underscore_6 | defy_give_convince_destroy_strategy_bar |  
+| bip_39_word_underscore_7 | defy_give_convince_destroy_strategy_bar_scene |  
+| bip_39_word_underscore_8 | defy_give_convince_destroy_strategy_bar_scene_yard |  
+| bip_39_word_underscore_9 | defy_give_convince_destroy_strategy_bar_scene_yard_also |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

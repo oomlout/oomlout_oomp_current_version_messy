@@ -1,3 +1,15 @@
+bip_39_word_dash_1: 'true'
+bip_39_word_dash_10: true-tuna-front-ribbon-radar-twist-curtain-general-subject-wine
+bip_39_word_dash_11: true-tuna-front-ribbon-radar-twist-curtain-general-subject-wine-step
+bip_39_word_dash_12: true-tuna-front-ribbon-radar-twist-curtain-general-subject-wine-step-adjust
+bip_39_word_dash_2: true-tuna
+bip_39_word_dash_3: true-tuna-front
+bip_39_word_dash_4: true-tuna-front-ribbon
+bip_39_word_dash_5: true-tuna-front-ribbon-radar
+bip_39_word_dash_6: true-tuna-front-ribbon-radar-twist
+bip_39_word_dash_7: true-tuna-front-ribbon-radar-twist-curtain
+bip_39_word_dash_8: true-tuna-front-ribbon-radar-twist-curtain-general
+bip_39_word_dash_9: true-tuna-front-ribbon-radar-twist-curtain-general-subject
 bip_39_word_new_br_1: 'true'
 bip_39_word_new_br_10: true<br>tuna<br>front<br>ribbon<br>radar<br>twist<br>curtain<br>general<br>subject<br>wine
 bip_39_word_new_br_11: true<br>tuna<br>front<br>ribbon<br>radar<br>twist<br>curtain<br>general<br>subject<br>wine<br>step
@@ -193,6 +205,18 @@ bip_39_word_space_6: true tuna front ribbon radar twist
 bip_39_word_space_7: true tuna front ribbon radar twist curtain
 bip_39_word_space_8: true tuna front ribbon radar twist curtain general
 bip_39_word_space_9: true tuna front ribbon radar twist curtain general subject
+bip_39_word_underscore_1: 'true'
+bip_39_word_underscore_10: true_tuna_front_ribbon_radar_twist_curtain_general_subject_wine
+bip_39_word_underscore_11: true_tuna_front_ribbon_radar_twist_curtain_general_subject_wine_step
+bip_39_word_underscore_12: true_tuna_front_ribbon_radar_twist_curtain_general_subject_wine_step_adjust
+bip_39_word_underscore_2: true_tuna
+bip_39_word_underscore_3: true_tuna_front
+bip_39_word_underscore_4: true_tuna_front_ribbon
+bip_39_word_underscore_5: true_tuna_front_ribbon_radar
+bip_39_word_underscore_6: true_tuna_front_ribbon_radar_twist
+bip_39_word_underscore_7: true_tuna_front_ribbon_radar_twist_curtain
+bip_39_word_underscore_8: true_tuna_front_ribbon_radar_twist_curtain_general
+bip_39_word_underscore_9: true_tuna_front_ribbon_radar_twist_curtain_general_subject
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

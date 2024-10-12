@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | truly |  
+| bip_39_word_dash_10 | truly-sight-erase-flock-rabbit-blast-mass-trash-intact-cancel |  
+| bip_39_word_dash_11 | truly-sight-erase-flock-rabbit-blast-mass-trash-intact-cancel-put |  
+| bip_39_word_dash_12 | truly-sight-erase-flock-rabbit-blast-mass-trash-intact-cancel-put-advice |  
+| bip_39_word_dash_2 | truly-sight |  
+| bip_39_word_dash_3 | truly-sight-erase |  
+| bip_39_word_dash_4 | truly-sight-erase-flock |  
+| bip_39_word_dash_5 | truly-sight-erase-flock-rabbit |  
+| bip_39_word_dash_6 | truly-sight-erase-flock-rabbit-blast |  
+| bip_39_word_dash_7 | truly-sight-erase-flock-rabbit-blast-mass |  
+| bip_39_word_dash_8 | truly-sight-erase-flock-rabbit-blast-mass-trash |  
+| bip_39_word_dash_9 | truly-sight-erase-flock-rabbit-blast-mass-trash-intact |  
 | bip_39_word_new_br_1 | truly |  
 | bip_39_word_new_br_10 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel |  
 | bip_39_word_new_br_11 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel<br>put |  
@@ -147,6 +159,18 @@ intact |
 | bip_39_word_space_7 | truly sight erase flock rabbit blast mass |  
 | bip_39_word_space_8 | truly sight erase flock rabbit blast mass trash |  
 | bip_39_word_space_9 | truly sight erase flock rabbit blast mass trash intact |  
+| bip_39_word_underscore_1 | truly |  
+| bip_39_word_underscore_10 | truly_sight_erase_flock_rabbit_blast_mass_trash_intact_cancel |  
+| bip_39_word_underscore_11 | truly_sight_erase_flock_rabbit_blast_mass_trash_intact_cancel_put |  
+| bip_39_word_underscore_12 | truly_sight_erase_flock_rabbit_blast_mass_trash_intact_cancel_put_advice |  
+| bip_39_word_underscore_2 | truly_sight |  
+| bip_39_word_underscore_3 | truly_sight_erase |  
+| bip_39_word_underscore_4 | truly_sight_erase_flock |  
+| bip_39_word_underscore_5 | truly_sight_erase_flock_rabbit |  
+| bip_39_word_underscore_6 | truly_sight_erase_flock_rabbit_blast |  
+| bip_39_word_underscore_7 | truly_sight_erase_flock_rabbit_blast_mass |  
+| bip_39_word_underscore_8 | truly_sight_erase_flock_rabbit_blast_mass_trash |  
+| bip_39_word_underscore_9 | truly_sight_erase_flock_rabbit_blast_mass_trash_intact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

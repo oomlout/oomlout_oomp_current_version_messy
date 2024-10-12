@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exchange |  
+| bip_39_word_dash_10 | exchange-vacuum-nasty-gauge-medal-charge-cause-stage-rain-profit |  
+| bip_39_word_dash_11 | exchange-vacuum-nasty-gauge-medal-charge-cause-stage-rain-profit-laptop |  
+| bip_39_word_dash_12 | exchange-vacuum-nasty-gauge-medal-charge-cause-stage-rain-profit-laptop-admit |  
+| bip_39_word_dash_2 | exchange-vacuum |  
+| bip_39_word_dash_3 | exchange-vacuum-nasty |  
+| bip_39_word_dash_4 | exchange-vacuum-nasty-gauge |  
+| bip_39_word_dash_5 | exchange-vacuum-nasty-gauge-medal |  
+| bip_39_word_dash_6 | exchange-vacuum-nasty-gauge-medal-charge |  
+| bip_39_word_dash_7 | exchange-vacuum-nasty-gauge-medal-charge-cause |  
+| bip_39_word_dash_8 | exchange-vacuum-nasty-gauge-medal-charge-cause-stage |  
+| bip_39_word_dash_9 | exchange-vacuum-nasty-gauge-medal-charge-cause-stage-rain |  
 | bip_39_word_new_br_1 | exchange |  
 | bip_39_word_new_br_10 | exchange<br>vacuum<br>nasty<br>gauge<br>medal<br>charge<br>cause<br>stage<br>rain<br>profit |  
 | bip_39_word_new_br_11 | exchange<br>vacuum<br>nasty<br>gauge<br>medal<br>charge<br>cause<br>stage<br>rain<br>profit<br>laptop |  
@@ -147,6 +159,18 @@ rain |
 | bip_39_word_space_7 | exchange vacuum nasty gauge medal charge cause |  
 | bip_39_word_space_8 | exchange vacuum nasty gauge medal charge cause stage |  
 | bip_39_word_space_9 | exchange vacuum nasty gauge medal charge cause stage rain |  
+| bip_39_word_underscore_1 | exchange |  
+| bip_39_word_underscore_10 | exchange_vacuum_nasty_gauge_medal_charge_cause_stage_rain_profit |  
+| bip_39_word_underscore_11 | exchange_vacuum_nasty_gauge_medal_charge_cause_stage_rain_profit_laptop |  
+| bip_39_word_underscore_12 | exchange_vacuum_nasty_gauge_medal_charge_cause_stage_rain_profit_laptop_admit |  
+| bip_39_word_underscore_2 | exchange_vacuum |  
+| bip_39_word_underscore_3 | exchange_vacuum_nasty |  
+| bip_39_word_underscore_4 | exchange_vacuum_nasty_gauge |  
+| bip_39_word_underscore_5 | exchange_vacuum_nasty_gauge_medal |  
+| bip_39_word_underscore_6 | exchange_vacuum_nasty_gauge_medal_charge |  
+| bip_39_word_underscore_7 | exchange_vacuum_nasty_gauge_medal_charge_cause |  
+| bip_39_word_underscore_8 | exchange_vacuum_nasty_gauge_medal_charge_cause_stage |  
+| bip_39_word_underscore_9 | exchange_vacuum_nasty_gauge_medal_charge_cause_stage_rain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

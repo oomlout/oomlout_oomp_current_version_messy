@@ -1,3 +1,15 @@
+bip_39_word_dash_1: buddy
+bip_39_word_dash_10: buddy-pull-decrease-used-humor-street-gold-venture-ugly-salad
+bip_39_word_dash_11: buddy-pull-decrease-used-humor-street-gold-venture-ugly-salad-bulb
+bip_39_word_dash_12: buddy-pull-decrease-used-humor-street-gold-venture-ugly-salad-bulb-army
+bip_39_word_dash_2: buddy-pull
+bip_39_word_dash_3: buddy-pull-decrease
+bip_39_word_dash_4: buddy-pull-decrease-used
+bip_39_word_dash_5: buddy-pull-decrease-used-humor
+bip_39_word_dash_6: buddy-pull-decrease-used-humor-street
+bip_39_word_dash_7: buddy-pull-decrease-used-humor-street-gold
+bip_39_word_dash_8: buddy-pull-decrease-used-humor-street-gold-venture
+bip_39_word_dash_9: buddy-pull-decrease-used-humor-street-gold-venture-ugly
 bip_39_word_new_br_1: buddy
 bip_39_word_new_br_10: buddy<br>pull<br>decrease<br>used<br>humor<br>street<br>gold<br>venture<br>ugly<br>salad
 bip_39_word_new_br_11: buddy<br>pull<br>decrease<br>used<br>humor<br>street<br>gold<br>venture<br>ugly<br>salad<br>bulb
@@ -193,6 +205,18 @@ bip_39_word_space_6: buddy pull decrease used humor street
 bip_39_word_space_7: buddy pull decrease used humor street gold
 bip_39_word_space_8: buddy pull decrease used humor street gold venture
 bip_39_word_space_9: buddy pull decrease used humor street gold venture ugly
+bip_39_word_underscore_1: buddy
+bip_39_word_underscore_10: buddy_pull_decrease_used_humor_street_gold_venture_ugly_salad
+bip_39_word_underscore_11: buddy_pull_decrease_used_humor_street_gold_venture_ugly_salad_bulb
+bip_39_word_underscore_12: buddy_pull_decrease_used_humor_street_gold_venture_ugly_salad_bulb_army
+bip_39_word_underscore_2: buddy_pull
+bip_39_word_underscore_3: buddy_pull_decrease
+bip_39_word_underscore_4: buddy_pull_decrease_used
+bip_39_word_underscore_5: buddy_pull_decrease_used_humor
+bip_39_word_underscore_6: buddy_pull_decrease_used_humor_street
+bip_39_word_underscore_7: buddy_pull_decrease_used_humor_street_gold
+bip_39_word_underscore_8: buddy_pull_decrease_used_humor_street_gold_venture
+bip_39_word_underscore_9: buddy_pull_decrease_used_humor_street_gold_venture_ugly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

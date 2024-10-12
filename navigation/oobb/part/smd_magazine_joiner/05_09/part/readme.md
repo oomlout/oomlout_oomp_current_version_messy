@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loyal |  
+| bip_39_word_dash_10 | loyal-anger-exercise-song-hen-palace-resource-duty-wage-light |  
+| bip_39_word_dash_11 | loyal-anger-exercise-song-hen-palace-resource-duty-wage-light-explain |  
+| bip_39_word_dash_12 | loyal-anger-exercise-song-hen-palace-resource-duty-wage-light-explain-adapt |  
+| bip_39_word_dash_2 | loyal-anger |  
+| bip_39_word_dash_3 | loyal-anger-exercise |  
+| bip_39_word_dash_4 | loyal-anger-exercise-song |  
+| bip_39_word_dash_5 | loyal-anger-exercise-song-hen |  
+| bip_39_word_dash_6 | loyal-anger-exercise-song-hen-palace |  
+| bip_39_word_dash_7 | loyal-anger-exercise-song-hen-palace-resource |  
+| bip_39_word_dash_8 | loyal-anger-exercise-song-hen-palace-resource-duty |  
+| bip_39_word_dash_9 | loyal-anger-exercise-song-hen-palace-resource-duty-wage |  
 | bip_39_word_new_br_1 | loyal |  
 | bip_39_word_new_br_10 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty<br>wage<br>light |  
 | bip_39_word_new_br_11 | loyal<br>anger<br>exercise<br>song<br>hen<br>palace<br>resource<br>duty<br>wage<br>light<br>explain |  
@@ -147,6 +159,18 @@ wage |
 | bip_39_word_space_7 | loyal anger exercise song hen palace resource |  
 | bip_39_word_space_8 | loyal anger exercise song hen palace resource duty |  
 | bip_39_word_space_9 | loyal anger exercise song hen palace resource duty wage |  
+| bip_39_word_underscore_1 | loyal |  
+| bip_39_word_underscore_10 | loyal_anger_exercise_song_hen_palace_resource_duty_wage_light |  
+| bip_39_word_underscore_11 | loyal_anger_exercise_song_hen_palace_resource_duty_wage_light_explain |  
+| bip_39_word_underscore_12 | loyal_anger_exercise_song_hen_palace_resource_duty_wage_light_explain_adapt |  
+| bip_39_word_underscore_2 | loyal_anger |  
+| bip_39_word_underscore_3 | loyal_anger_exercise |  
+| bip_39_word_underscore_4 | loyal_anger_exercise_song |  
+| bip_39_word_underscore_5 | loyal_anger_exercise_song_hen |  
+| bip_39_word_underscore_6 | loyal_anger_exercise_song_hen_palace |  
+| bip_39_word_underscore_7 | loyal_anger_exercise_song_hen_palace_resource |  
+| bip_39_word_underscore_8 | loyal_anger_exercise_song_hen_palace_resource_duty |  
+| bip_39_word_underscore_9 | loyal_anger_exercise_song_hen_palace_resource_duty_wage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | immense |  
+| bip_39_word_dash_10 | immense-grace-museum-merry-sun-plastic-retreat-alert-kit-logic |  
+| bip_39_word_dash_11 | immense-grace-museum-merry-sun-plastic-retreat-alert-kit-logic-credit |  
+| bip_39_word_dash_12 | immense-grace-museum-merry-sun-plastic-retreat-alert-kit-logic-credit-abstract |  
+| bip_39_word_dash_2 | immense-grace |  
+| bip_39_word_dash_3 | immense-grace-museum |  
+| bip_39_word_dash_4 | immense-grace-museum-merry |  
+| bip_39_word_dash_5 | immense-grace-museum-merry-sun |  
+| bip_39_word_dash_6 | immense-grace-museum-merry-sun-plastic |  
+| bip_39_word_dash_7 | immense-grace-museum-merry-sun-plastic-retreat |  
+| bip_39_word_dash_8 | immense-grace-museum-merry-sun-plastic-retreat-alert |  
+| bip_39_word_dash_9 | immense-grace-museum-merry-sun-plastic-retreat-alert-kit |  
 | bip_39_word_new_br_1 | immense |  
 | bip_39_word_new_br_10 | immense<br>grace<br>museum<br>merry<br>sun<br>plastic<br>retreat<br>alert<br>kit<br>logic |  
 | bip_39_word_new_br_11 | immense<br>grace<br>museum<br>merry<br>sun<br>plastic<br>retreat<br>alert<br>kit<br>logic<br>credit |  
@@ -147,6 +159,18 @@ kit |
 | bip_39_word_space_7 | immense grace museum merry sun plastic retreat |  
 | bip_39_word_space_8 | immense grace museum merry sun plastic retreat alert |  
 | bip_39_word_space_9 | immense grace museum merry sun plastic retreat alert kit |  
+| bip_39_word_underscore_1 | immense |  
+| bip_39_word_underscore_10 | immense_grace_museum_merry_sun_plastic_retreat_alert_kit_logic |  
+| bip_39_word_underscore_11 | immense_grace_museum_merry_sun_plastic_retreat_alert_kit_logic_credit |  
+| bip_39_word_underscore_12 | immense_grace_museum_merry_sun_plastic_retreat_alert_kit_logic_credit_abstract |  
+| bip_39_word_underscore_2 | immense_grace |  
+| bip_39_word_underscore_3 | immense_grace_museum |  
+| bip_39_word_underscore_4 | immense_grace_museum_merry |  
+| bip_39_word_underscore_5 | immense_grace_museum_merry_sun |  
+| bip_39_word_underscore_6 | immense_grace_museum_merry_sun_plastic |  
+| bip_39_word_underscore_7 | immense_grace_museum_merry_sun_plastic_retreat |  
+| bip_39_word_underscore_8 | immense_grace_museum_merry_sun_plastic_retreat_alert |  
+| bip_39_word_underscore_9 | immense_grace_museum_merry_sun_plastic_retreat_alert_kit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

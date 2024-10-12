@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brand |  
+| bip_39_word_dash_10 | brand-empower-whale-coast-comic-claw-ski-make-staff-whisper |  
+| bip_39_word_dash_11 | brand-empower-whale-coast-comic-claw-ski-make-staff-whisper-gloom |  
+| bip_39_word_dash_12 | brand-empower-whale-coast-comic-claw-ski-make-staff-whisper-gloom-addict |  
+| bip_39_word_dash_2 | brand-empower |  
+| bip_39_word_dash_3 | brand-empower-whale |  
+| bip_39_word_dash_4 | brand-empower-whale-coast |  
+| bip_39_word_dash_5 | brand-empower-whale-coast-comic |  
+| bip_39_word_dash_6 | brand-empower-whale-coast-comic-claw |  
+| bip_39_word_dash_7 | brand-empower-whale-coast-comic-claw-ski |  
+| bip_39_word_dash_8 | brand-empower-whale-coast-comic-claw-ski-make |  
+| bip_39_word_dash_9 | brand-empower-whale-coast-comic-claw-ski-make-staff |  
 | bip_39_word_new_br_1 | brand |  
 | bip_39_word_new_br_10 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper |  
 | bip_39_word_new_br_11 | brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper<br>gloom |  
@@ -147,6 +159,18 @@ staff |
 | bip_39_word_space_7 | brand empower whale coast comic claw ski |  
 | bip_39_word_space_8 | brand empower whale coast comic claw ski make |  
 | bip_39_word_space_9 | brand empower whale coast comic claw ski make staff |  
+| bip_39_word_underscore_1 | brand |  
+| bip_39_word_underscore_10 | brand_empower_whale_coast_comic_claw_ski_make_staff_whisper |  
+| bip_39_word_underscore_11 | brand_empower_whale_coast_comic_claw_ski_make_staff_whisper_gloom |  
+| bip_39_word_underscore_12 | brand_empower_whale_coast_comic_claw_ski_make_staff_whisper_gloom_addict |  
+| bip_39_word_underscore_2 | brand_empower |  
+| bip_39_word_underscore_3 | brand_empower_whale |  
+| bip_39_word_underscore_4 | brand_empower_whale_coast |  
+| bip_39_word_underscore_5 | brand_empower_whale_coast_comic |  
+| bip_39_word_underscore_6 | brand_empower_whale_coast_comic_claw |  
+| bip_39_word_underscore_7 | brand_empower_whale_coast_comic_claw_ski |  
+| bip_39_word_underscore_8 | brand_empower_whale_coast_comic_claw_ski_make |  
+| bip_39_word_underscore_9 | brand_empower_whale_coast_comic_claw_ski_make_staff |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: decide
+bip_39_word_dash_10: decide-pink-surge-senior-build-mass-escape-moment-anger-climb
+bip_39_word_dash_11: decide-pink-surge-senior-build-mass-escape-moment-anger-climb-enact
+bip_39_word_dash_12: decide-pink-surge-senior-build-mass-escape-moment-anger-climb-enact-actress
+bip_39_word_dash_2: decide-pink
+bip_39_word_dash_3: decide-pink-surge
+bip_39_word_dash_4: decide-pink-surge-senior
+bip_39_word_dash_5: decide-pink-surge-senior-build
+bip_39_word_dash_6: decide-pink-surge-senior-build-mass
+bip_39_word_dash_7: decide-pink-surge-senior-build-mass-escape
+bip_39_word_dash_8: decide-pink-surge-senior-build-mass-escape-moment
+bip_39_word_dash_9: decide-pink-surge-senior-build-mass-escape-moment-anger
 bip_39_word_new_br_1: decide
 bip_39_word_new_br_10: decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb
 bip_39_word_new_br_11: decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb<br>enact
@@ -193,6 +205,18 @@ bip_39_word_space_6: decide pink surge senior build mass
 bip_39_word_space_7: decide pink surge senior build mass escape
 bip_39_word_space_8: decide pink surge senior build mass escape moment
 bip_39_word_space_9: decide pink surge senior build mass escape moment anger
+bip_39_word_underscore_1: decide
+bip_39_word_underscore_10: decide_pink_surge_senior_build_mass_escape_moment_anger_climb
+bip_39_word_underscore_11: decide_pink_surge_senior_build_mass_escape_moment_anger_climb_enact
+bip_39_word_underscore_12: decide_pink_surge_senior_build_mass_escape_moment_anger_climb_enact_actress
+bip_39_word_underscore_2: decide_pink
+bip_39_word_underscore_3: decide_pink_surge
+bip_39_word_underscore_4: decide_pink_surge_senior
+bip_39_word_underscore_5: decide_pink_surge_senior_build
+bip_39_word_underscore_6: decide_pink_surge_senior_build_mass
+bip_39_word_underscore_7: decide_pink_surge_senior_build_mass_escape
+bip_39_word_underscore_8: decide_pink_surge_senior_build_mass_escape_moment
+bip_39_word_underscore_9: decide_pink_surge_senior_build_mass_escape_moment_anger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | client |  
+| bip_39_word_dash_10 | client-upon-riot-butter-toward-strong-present-error-broccoli-match |  
+| bip_39_word_dash_11 | client-upon-riot-butter-toward-strong-present-error-broccoli-match-select |  
+| bip_39_word_dash_12 | client-upon-riot-butter-toward-strong-present-error-broccoli-match-select-actress |  
+| bip_39_word_dash_2 | client-upon |  
+| bip_39_word_dash_3 | client-upon-riot |  
+| bip_39_word_dash_4 | client-upon-riot-butter |  
+| bip_39_word_dash_5 | client-upon-riot-butter-toward |  
+| bip_39_word_dash_6 | client-upon-riot-butter-toward-strong |  
+| bip_39_word_dash_7 | client-upon-riot-butter-toward-strong-present |  
+| bip_39_word_dash_8 | client-upon-riot-butter-toward-strong-present-error |  
+| bip_39_word_dash_9 | client-upon-riot-butter-toward-strong-present-error-broccoli |  
 | bip_39_word_new_br_1 | client |  
 | bip_39_word_new_br_10 | client<br>upon<br>riot<br>butter<br>toward<br>strong<br>present<br>error<br>broccoli<br>match |  
 | bip_39_word_new_br_11 | client<br>upon<br>riot<br>butter<br>toward<br>strong<br>present<br>error<br>broccoli<br>match<br>select |  
@@ -147,6 +159,18 @@ broccoli |
 | bip_39_word_space_7 | client upon riot butter toward strong present |  
 | bip_39_word_space_8 | client upon riot butter toward strong present error |  
 | bip_39_word_space_9 | client upon riot butter toward strong present error broccoli |  
+| bip_39_word_underscore_1 | client |  
+| bip_39_word_underscore_10 | client_upon_riot_butter_toward_strong_present_error_broccoli_match |  
+| bip_39_word_underscore_11 | client_upon_riot_butter_toward_strong_present_error_broccoli_match_select |  
+| bip_39_word_underscore_12 | client_upon_riot_butter_toward_strong_present_error_broccoli_match_select_actress |  
+| bip_39_word_underscore_2 | client_upon |  
+| bip_39_word_underscore_3 | client_upon_riot |  
+| bip_39_word_underscore_4 | client_upon_riot_butter |  
+| bip_39_word_underscore_5 | client_upon_riot_butter_toward |  
+| bip_39_word_underscore_6 | client_upon_riot_butter_toward_strong |  
+| bip_39_word_underscore_7 | client_upon_riot_butter_toward_strong_present |  
+| bip_39_word_underscore_8 | client_upon_riot_butter_toward_strong_present_error |  
+| bip_39_word_underscore_9 | client_upon_riot_butter_toward_strong_present_error_broccoli |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

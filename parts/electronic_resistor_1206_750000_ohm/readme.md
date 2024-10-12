@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | smooth |  
+| bip_39_word_dash_10 | smooth-audit-eight-turtle-human-tortoise-brass-potato-interest-raise |  
+| bip_39_word_dash_11 | smooth-audit-eight-turtle-human-tortoise-brass-potato-interest-raise-ball |  
+| bip_39_word_dash_12 | smooth-audit-eight-turtle-human-tortoise-brass-potato-interest-raise-ball-agent |  
+| bip_39_word_dash_2 | smooth-audit |  
+| bip_39_word_dash_3 | smooth-audit-eight |  
+| bip_39_word_dash_4 | smooth-audit-eight-turtle |  
+| bip_39_word_dash_5 | smooth-audit-eight-turtle-human |  
+| bip_39_word_dash_6 | smooth-audit-eight-turtle-human-tortoise |  
+| bip_39_word_dash_7 | smooth-audit-eight-turtle-human-tortoise-brass |  
+| bip_39_word_dash_8 | smooth-audit-eight-turtle-human-tortoise-brass-potato |  
+| bip_39_word_dash_9 | smooth-audit-eight-turtle-human-tortoise-brass-potato-interest |  
 | bip_39_word_new_br_1 | smooth |  
 | bip_39_word_new_br_10 | smooth<br>audit<br>eight<br>turtle<br>human<br>tortoise<br>brass<br>potato<br>interest<br>raise |  
 | bip_39_word_new_br_11 | smooth<br>audit<br>eight<br>turtle<br>human<br>tortoise<br>brass<br>potato<br>interest<br>raise<br>ball |  
@@ -147,6 +159,18 @@ interest |
 | bip_39_word_space_7 | smooth audit eight turtle human tortoise brass |  
 | bip_39_word_space_8 | smooth audit eight turtle human tortoise brass potato |  
 | bip_39_word_space_9 | smooth audit eight turtle human tortoise brass potato interest |  
+| bip_39_word_underscore_1 | smooth |  
+| bip_39_word_underscore_10 | smooth_audit_eight_turtle_human_tortoise_brass_potato_interest_raise |  
+| bip_39_word_underscore_11 | smooth_audit_eight_turtle_human_tortoise_brass_potato_interest_raise_ball |  
+| bip_39_word_underscore_12 | smooth_audit_eight_turtle_human_tortoise_brass_potato_interest_raise_ball_agent |  
+| bip_39_word_underscore_2 | smooth_audit |  
+| bip_39_word_underscore_3 | smooth_audit_eight |  
+| bip_39_word_underscore_4 | smooth_audit_eight_turtle |  
+| bip_39_word_underscore_5 | smooth_audit_eight_turtle_human |  
+| bip_39_word_underscore_6 | smooth_audit_eight_turtle_human_tortoise |  
+| bip_39_word_underscore_7 | smooth_audit_eight_turtle_human_tortoise_brass |  
+| bip_39_word_underscore_8 | smooth_audit_eight_turtle_human_tortoise_brass_potato |  
+| bip_39_word_underscore_9 | smooth_audit_eight_turtle_human_tortoise_brass_potato_interest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

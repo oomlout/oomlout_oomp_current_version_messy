@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thumb |  
+| bip_39_word_dash_10 | thumb-team-control-only-sense-priority-unlock-excuse-parrot-such |  
+| bip_39_word_dash_11 | thumb-team-control-only-sense-priority-unlock-excuse-parrot-such-clog |  
+| bip_39_word_dash_12 | thumb-team-control-only-sense-priority-unlock-excuse-parrot-such-clog-armor |  
+| bip_39_word_dash_2 | thumb-team |  
+| bip_39_word_dash_3 | thumb-team-control |  
+| bip_39_word_dash_4 | thumb-team-control-only |  
+| bip_39_word_dash_5 | thumb-team-control-only-sense |  
+| bip_39_word_dash_6 | thumb-team-control-only-sense-priority |  
+| bip_39_word_dash_7 | thumb-team-control-only-sense-priority-unlock |  
+| bip_39_word_dash_8 | thumb-team-control-only-sense-priority-unlock-excuse |  
+| bip_39_word_dash_9 | thumb-team-control-only-sense-priority-unlock-excuse-parrot |  
 | bip_39_word_new_br_1 | thumb |  
 | bip_39_word_new_br_10 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse<br>parrot<br>such |  
 | bip_39_word_new_br_11 | thumb<br>team<br>control<br>only<br>sense<br>priority<br>unlock<br>excuse<br>parrot<br>such<br>clog |  
@@ -147,6 +159,18 @@ parrot |
 | bip_39_word_space_7 | thumb team control only sense priority unlock |  
 | bip_39_word_space_8 | thumb team control only sense priority unlock excuse |  
 | bip_39_word_space_9 | thumb team control only sense priority unlock excuse parrot |  
+| bip_39_word_underscore_1 | thumb |  
+| bip_39_word_underscore_10 | thumb_team_control_only_sense_priority_unlock_excuse_parrot_such |  
+| bip_39_word_underscore_11 | thumb_team_control_only_sense_priority_unlock_excuse_parrot_such_clog |  
+| bip_39_word_underscore_12 | thumb_team_control_only_sense_priority_unlock_excuse_parrot_such_clog_armor |  
+| bip_39_word_underscore_2 | thumb_team |  
+| bip_39_word_underscore_3 | thumb_team_control |  
+| bip_39_word_underscore_4 | thumb_team_control_only |  
+| bip_39_word_underscore_5 | thumb_team_control_only_sense |  
+| bip_39_word_underscore_6 | thumb_team_control_only_sense_priority |  
+| bip_39_word_underscore_7 | thumb_team_control_only_sense_priority_unlock |  
+| bip_39_word_underscore_8 | thumb_team_control_only_sense_priority_unlock_excuse |  
+| bip_39_word_underscore_9 | thumb_team_control_only_sense_priority_unlock_excuse_parrot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | busy |  
+| bip_39_word_dash_10 | busy-reason-seek-jeans-either-boring-skull-light-then-museum |  
+| bip_39_word_dash_11 | busy-reason-seek-jeans-either-boring-skull-light-then-museum-help |  
+| bip_39_word_dash_12 | busy-reason-seek-jeans-either-boring-skull-light-then-museum-help-amateur |  
+| bip_39_word_dash_2 | busy-reason |  
+| bip_39_word_dash_3 | busy-reason-seek |  
+| bip_39_word_dash_4 | busy-reason-seek-jeans |  
+| bip_39_word_dash_5 | busy-reason-seek-jeans-either |  
+| bip_39_word_dash_6 | busy-reason-seek-jeans-either-boring |  
+| bip_39_word_dash_7 | busy-reason-seek-jeans-either-boring-skull |  
+| bip_39_word_dash_8 | busy-reason-seek-jeans-either-boring-skull-light |  
+| bip_39_word_dash_9 | busy-reason-seek-jeans-either-boring-skull-light-then |  
 | bip_39_word_new_br_1 | busy |  
 | bip_39_word_new_br_10 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light<br>then<br>museum |  
 | bip_39_word_new_br_11 | busy<br>reason<br>seek<br>jeans<br>either<br>boring<br>skull<br>light<br>then<br>museum<br>help |  
@@ -147,6 +159,18 @@ then |
 | bip_39_word_space_7 | busy reason seek jeans either boring skull |  
 | bip_39_word_space_8 | busy reason seek jeans either boring skull light |  
 | bip_39_word_space_9 | busy reason seek jeans either boring skull light then |  
+| bip_39_word_underscore_1 | busy |  
+| bip_39_word_underscore_10 | busy_reason_seek_jeans_either_boring_skull_light_then_museum |  
+| bip_39_word_underscore_11 | busy_reason_seek_jeans_either_boring_skull_light_then_museum_help |  
+| bip_39_word_underscore_12 | busy_reason_seek_jeans_either_boring_skull_light_then_museum_help_amateur |  
+| bip_39_word_underscore_2 | busy_reason |  
+| bip_39_word_underscore_3 | busy_reason_seek |  
+| bip_39_word_underscore_4 | busy_reason_seek_jeans |  
+| bip_39_word_underscore_5 | busy_reason_seek_jeans_either |  
+| bip_39_word_underscore_6 | busy_reason_seek_jeans_either_boring |  
+| bip_39_word_underscore_7 | busy_reason_seek_jeans_either_boring_skull |  
+| bip_39_word_underscore_8 | busy_reason_seek_jeans_either_boring_skull_light |  
+| bip_39_word_underscore_9 | busy_reason_seek_jeans_either_boring_skull_light_then |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

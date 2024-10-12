@@ -1,3 +1,15 @@
+bip_39_word_dash_1: debate
+bip_39_word_dash_10: debate-wall-wedding-alone-shiver-mango-face-embrace-notable-under
+bip_39_word_dash_11: debate-wall-wedding-alone-shiver-mango-face-embrace-notable-under-purchase
+bip_39_word_dash_12: debate-wall-wedding-alone-shiver-mango-face-embrace-notable-under-purchase-art
+bip_39_word_dash_2: debate-wall
+bip_39_word_dash_3: debate-wall-wedding
+bip_39_word_dash_4: debate-wall-wedding-alone
+bip_39_word_dash_5: debate-wall-wedding-alone-shiver
+bip_39_word_dash_6: debate-wall-wedding-alone-shiver-mango
+bip_39_word_dash_7: debate-wall-wedding-alone-shiver-mango-face
+bip_39_word_dash_8: debate-wall-wedding-alone-shiver-mango-face-embrace
+bip_39_word_dash_9: debate-wall-wedding-alone-shiver-mango-face-embrace-notable
 bip_39_word_new_br_1: debate
 bip_39_word_new_br_10: debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace<br>notable<br>under
 bip_39_word_new_br_11: debate<br>wall<br>wedding<br>alone<br>shiver<br>mango<br>face<br>embrace<br>notable<br>under<br>purchase
@@ -194,6 +206,18 @@ bip_39_word_space_6: debate wall wedding alone shiver mango
 bip_39_word_space_7: debate wall wedding alone shiver mango face
 bip_39_word_space_8: debate wall wedding alone shiver mango face embrace
 bip_39_word_space_9: debate wall wedding alone shiver mango face embrace notable
+bip_39_word_underscore_1: debate
+bip_39_word_underscore_10: debate_wall_wedding_alone_shiver_mango_face_embrace_notable_under
+bip_39_word_underscore_11: debate_wall_wedding_alone_shiver_mango_face_embrace_notable_under_purchase
+bip_39_word_underscore_12: debate_wall_wedding_alone_shiver_mango_face_embrace_notable_under_purchase_art
+bip_39_word_underscore_2: debate_wall
+bip_39_word_underscore_3: debate_wall_wedding
+bip_39_word_underscore_4: debate_wall_wedding_alone
+bip_39_word_underscore_5: debate_wall_wedding_alone_shiver
+bip_39_word_underscore_6: debate_wall_wedding_alone_shiver_mango
+bip_39_word_underscore_7: debate_wall_wedding_alone_shiver_mango_face
+bip_39_word_underscore_8: debate_wall_wedding_alone_shiver_mango_face_embrace
+bip_39_word_underscore_9: debate_wall_wedding_alone_shiver_mango_face_embrace_notable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

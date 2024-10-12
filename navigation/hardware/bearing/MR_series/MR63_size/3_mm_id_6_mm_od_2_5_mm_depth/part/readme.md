@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kangaroo |  
+| bip_39_word_dash_10 | kangaroo-tourist-custom-fog-leaf-coral-reflect-friend-session-anger |  
+| bip_39_word_dash_11 | kangaroo-tourist-custom-fog-leaf-coral-reflect-friend-session-anger-actual |  
+| bip_39_word_dash_12 | kangaroo-tourist-custom-fog-leaf-coral-reflect-friend-session-anger-actual-air |  
+| bip_39_word_dash_2 | kangaroo-tourist |  
+| bip_39_word_dash_3 | kangaroo-tourist-custom |  
+| bip_39_word_dash_4 | kangaroo-tourist-custom-fog |  
+| bip_39_word_dash_5 | kangaroo-tourist-custom-fog-leaf |  
+| bip_39_word_dash_6 | kangaroo-tourist-custom-fog-leaf-coral |  
+| bip_39_word_dash_7 | kangaroo-tourist-custom-fog-leaf-coral-reflect |  
+| bip_39_word_dash_8 | kangaroo-tourist-custom-fog-leaf-coral-reflect-friend |  
+| bip_39_word_dash_9 | kangaroo-tourist-custom-fog-leaf-coral-reflect-friend-session |  
 | bip_39_word_new_br_1 | kangaroo |  
 | bip_39_word_new_br_10 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger |  
 | bip_39_word_new_br_11 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger<br>actual |  
@@ -147,6 +159,18 @@ session |
 | bip_39_word_space_7 | kangaroo tourist custom fog leaf coral reflect |  
 | bip_39_word_space_8 | kangaroo tourist custom fog leaf coral reflect friend |  
 | bip_39_word_space_9 | kangaroo tourist custom fog leaf coral reflect friend session |  
+| bip_39_word_underscore_1 | kangaroo |  
+| bip_39_word_underscore_10 | kangaroo_tourist_custom_fog_leaf_coral_reflect_friend_session_anger |  
+| bip_39_word_underscore_11 | kangaroo_tourist_custom_fog_leaf_coral_reflect_friend_session_anger_actual |  
+| bip_39_word_underscore_12 | kangaroo_tourist_custom_fog_leaf_coral_reflect_friend_session_anger_actual_air |  
+| bip_39_word_underscore_2 | kangaroo_tourist |  
+| bip_39_word_underscore_3 | kangaroo_tourist_custom |  
+| bip_39_word_underscore_4 | kangaroo_tourist_custom_fog |  
+| bip_39_word_underscore_5 | kangaroo_tourist_custom_fog_leaf |  
+| bip_39_word_underscore_6 | kangaroo_tourist_custom_fog_leaf_coral |  
+| bip_39_word_underscore_7 | kangaroo_tourist_custom_fog_leaf_coral_reflect |  
+| bip_39_word_underscore_8 | kangaroo_tourist_custom_fog_leaf_coral_reflect_friend |  
+| bip_39_word_underscore_9 | kangaroo_tourist_custom_fog_leaf_coral_reflect_friend_session |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: album
+bip_39_word_dash_10: album-dolphin-grid-biology-aim-cube-snow-motor-purpose-fossil
+bip_39_word_dash_11: album-dolphin-grid-biology-aim-cube-snow-motor-purpose-fossil-help
+bip_39_word_dash_12: album-dolphin-grid-biology-aim-cube-snow-motor-purpose-fossil-help-amazing
+bip_39_word_dash_2: album-dolphin
+bip_39_word_dash_3: album-dolphin-grid
+bip_39_word_dash_4: album-dolphin-grid-biology
+bip_39_word_dash_5: album-dolphin-grid-biology-aim
+bip_39_word_dash_6: album-dolphin-grid-biology-aim-cube
+bip_39_word_dash_7: album-dolphin-grid-biology-aim-cube-snow
+bip_39_word_dash_8: album-dolphin-grid-biology-aim-cube-snow-motor
+bip_39_word_dash_9: album-dolphin-grid-biology-aim-cube-snow-motor-purpose
 bip_39_word_new_br_1: album
 bip_39_word_new_br_10: album<br>dolphin<br>grid<br>biology<br>aim<br>cube<br>snow<br>motor<br>purpose<br>fossil
 bip_39_word_new_br_11: album<br>dolphin<br>grid<br>biology<br>aim<br>cube<br>snow<br>motor<br>purpose<br>fossil<br>help
@@ -193,6 +205,18 @@ bip_39_word_space_6: album dolphin grid biology aim cube
 bip_39_word_space_7: album dolphin grid biology aim cube snow
 bip_39_word_space_8: album dolphin grid biology aim cube snow motor
 bip_39_word_space_9: album dolphin grid biology aim cube snow motor purpose
+bip_39_word_underscore_1: album
+bip_39_word_underscore_10: album_dolphin_grid_biology_aim_cube_snow_motor_purpose_fossil
+bip_39_word_underscore_11: album_dolphin_grid_biology_aim_cube_snow_motor_purpose_fossil_help
+bip_39_word_underscore_12: album_dolphin_grid_biology_aim_cube_snow_motor_purpose_fossil_help_amazing
+bip_39_word_underscore_2: album_dolphin
+bip_39_word_underscore_3: album_dolphin_grid
+bip_39_word_underscore_4: album_dolphin_grid_biology
+bip_39_word_underscore_5: album_dolphin_grid_biology_aim
+bip_39_word_underscore_6: album_dolphin_grid_biology_aim_cube
+bip_39_word_underscore_7: album_dolphin_grid_biology_aim_cube_snow
+bip_39_word_underscore_8: album_dolphin_grid_biology_aim_cube_snow_motor
+bip_39_word_underscore_9: album_dolphin_grid_biology_aim_cube_snow_motor_purpose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

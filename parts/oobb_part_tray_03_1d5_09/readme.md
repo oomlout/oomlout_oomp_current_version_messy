@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | must |  
+| bip_39_word_dash_10 | must-edit-table-local-resource-odor-deliver-today-cushion-pulse |  
+| bip_39_word_dash_11 | must-edit-table-local-resource-odor-deliver-today-cushion-pulse-push |  
+| bip_39_word_dash_12 | must-edit-table-local-resource-odor-deliver-today-cushion-pulse-push-approve |  
+| bip_39_word_dash_2 | must-edit |  
+| bip_39_word_dash_3 | must-edit-table |  
+| bip_39_word_dash_4 | must-edit-table-local |  
+| bip_39_word_dash_5 | must-edit-table-local-resource |  
+| bip_39_word_dash_6 | must-edit-table-local-resource-odor |  
+| bip_39_word_dash_7 | must-edit-table-local-resource-odor-deliver |  
+| bip_39_word_dash_8 | must-edit-table-local-resource-odor-deliver-today |  
+| bip_39_word_dash_9 | must-edit-table-local-resource-odor-deliver-today-cushion |  
 | bip_39_word_new_br_1 | must |  
 | bip_39_word_new_br_10 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today<br>cushion<br>pulse |  
 | bip_39_word_new_br_11 | must<br>edit<br>table<br>local<br>resource<br>odor<br>deliver<br>today<br>cushion<br>pulse<br>push |  
@@ -147,6 +159,18 @@ cushion |
 | bip_39_word_space_7 | must edit table local resource odor deliver |  
 | bip_39_word_space_8 | must edit table local resource odor deliver today |  
 | bip_39_word_space_9 | must edit table local resource odor deliver today cushion |  
+| bip_39_word_underscore_1 | must |  
+| bip_39_word_underscore_10 | must_edit_table_local_resource_odor_deliver_today_cushion_pulse |  
+| bip_39_word_underscore_11 | must_edit_table_local_resource_odor_deliver_today_cushion_pulse_push |  
+| bip_39_word_underscore_12 | must_edit_table_local_resource_odor_deliver_today_cushion_pulse_push_approve |  
+| bip_39_word_underscore_2 | must_edit |  
+| bip_39_word_underscore_3 | must_edit_table |  
+| bip_39_word_underscore_4 | must_edit_table_local |  
+| bip_39_word_underscore_5 | must_edit_table_local_resource |  
+| bip_39_word_underscore_6 | must_edit_table_local_resource_odor |  
+| bip_39_word_underscore_7 | must_edit_table_local_resource_odor_deliver |  
+| bip_39_word_underscore_8 | must_edit_table_local_resource_odor_deliver_today |  
+| bip_39_word_underscore_9 | must_edit_table_local_resource_odor_deliver_today_cushion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | liar |  
+| bip_39_word_dash_10 | liar-close-theory-put-swap-spray-pitch-opinion-dice-require |  
+| bip_39_word_dash_11 | liar-close-theory-put-swap-spray-pitch-opinion-dice-require-ceiling |  
+| bip_39_word_dash_12 | liar-close-theory-put-swap-spray-pitch-opinion-dice-require-ceiling-admit |  
+| bip_39_word_dash_2 | liar-close |  
+| bip_39_word_dash_3 | liar-close-theory |  
+| bip_39_word_dash_4 | liar-close-theory-put |  
+| bip_39_word_dash_5 | liar-close-theory-put-swap |  
+| bip_39_word_dash_6 | liar-close-theory-put-swap-spray |  
+| bip_39_word_dash_7 | liar-close-theory-put-swap-spray-pitch |  
+| bip_39_word_dash_8 | liar-close-theory-put-swap-spray-pitch-opinion |  
+| bip_39_word_dash_9 | liar-close-theory-put-swap-spray-pitch-opinion-dice |  
 | bip_39_word_new_br_1 | liar |  
 | bip_39_word_new_br_10 | liar<br>close<br>theory<br>put<br>swap<br>spray<br>pitch<br>opinion<br>dice<br>require |  
 | bip_39_word_new_br_11 | liar<br>close<br>theory<br>put<br>swap<br>spray<br>pitch<br>opinion<br>dice<br>require<br>ceiling |  
@@ -147,6 +159,18 @@ dice |
 | bip_39_word_space_7 | liar close theory put swap spray pitch |  
 | bip_39_word_space_8 | liar close theory put swap spray pitch opinion |  
 | bip_39_word_space_9 | liar close theory put swap spray pitch opinion dice |  
+| bip_39_word_underscore_1 | liar |  
+| bip_39_word_underscore_10 | liar_close_theory_put_swap_spray_pitch_opinion_dice_require |  
+| bip_39_word_underscore_11 | liar_close_theory_put_swap_spray_pitch_opinion_dice_require_ceiling |  
+| bip_39_word_underscore_12 | liar_close_theory_put_swap_spray_pitch_opinion_dice_require_ceiling_admit |  
+| bip_39_word_underscore_2 | liar_close |  
+| bip_39_word_underscore_3 | liar_close_theory |  
+| bip_39_word_underscore_4 | liar_close_theory_put |  
+| bip_39_word_underscore_5 | liar_close_theory_put_swap |  
+| bip_39_word_underscore_6 | liar_close_theory_put_swap_spray |  
+| bip_39_word_underscore_7 | liar_close_theory_put_swap_spray_pitch |  
+| bip_39_word_underscore_8 | liar_close_theory_put_swap_spray_pitch_opinion |  
+| bip_39_word_underscore_9 | liar_close_theory_put_swap_spray_pitch_opinion_dice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scale
+bip_39_word_dash_10: scale-forget-caught-ahead-pig-hybrid-version-ability-inherit-left
+bip_39_word_dash_11: scale-forget-caught-ahead-pig-hybrid-version-ability-inherit-left-have
+bip_39_word_dash_12: scale-forget-caught-ahead-pig-hybrid-version-ability-inherit-left-have-album
+bip_39_word_dash_2: scale-forget
+bip_39_word_dash_3: scale-forget-caught
+bip_39_word_dash_4: scale-forget-caught-ahead
+bip_39_word_dash_5: scale-forget-caught-ahead-pig
+bip_39_word_dash_6: scale-forget-caught-ahead-pig-hybrid
+bip_39_word_dash_7: scale-forget-caught-ahead-pig-hybrid-version
+bip_39_word_dash_8: scale-forget-caught-ahead-pig-hybrid-version-ability
+bip_39_word_dash_9: scale-forget-caught-ahead-pig-hybrid-version-ability-inherit
 bip_39_word_new_br_1: scale
 bip_39_word_new_br_10: scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability<br>inherit<br>left
 bip_39_word_new_br_11: scale<br>forget<br>caught<br>ahead<br>pig<br>hybrid<br>version<br>ability<br>inherit<br>left<br>have
@@ -194,6 +206,18 @@ bip_39_word_space_6: scale forget caught ahead pig hybrid
 bip_39_word_space_7: scale forget caught ahead pig hybrid version
 bip_39_word_space_8: scale forget caught ahead pig hybrid version ability
 bip_39_word_space_9: scale forget caught ahead pig hybrid version ability inherit
+bip_39_word_underscore_1: scale
+bip_39_word_underscore_10: scale_forget_caught_ahead_pig_hybrid_version_ability_inherit_left
+bip_39_word_underscore_11: scale_forget_caught_ahead_pig_hybrid_version_ability_inherit_left_have
+bip_39_word_underscore_12: scale_forget_caught_ahead_pig_hybrid_version_ability_inherit_left_have_album
+bip_39_word_underscore_2: scale_forget
+bip_39_word_underscore_3: scale_forget_caught
+bip_39_word_underscore_4: scale_forget_caught_ahead
+bip_39_word_underscore_5: scale_forget_caught_ahead_pig
+bip_39_word_underscore_6: scale_forget_caught_ahead_pig_hybrid
+bip_39_word_underscore_7: scale_forget_caught_ahead_pig_hybrid_version
+bip_39_word_underscore_8: scale_forget_caught_ahead_pig_hybrid_version_ability
+bip_39_word_underscore_9: scale_forget_caught_ahead_pig_hybrid_version_ability_inherit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

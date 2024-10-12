@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spirit
+bip_39_word_dash_10: spirit-uncover-fury-pupil-law-absent-fall-real-kite-bread
+bip_39_word_dash_11: spirit-uncover-fury-pupil-law-absent-fall-real-kite-bread-electric
+bip_39_word_dash_12: spirit-uncover-fury-pupil-law-absent-fall-real-kite-bread-electric-anchor
+bip_39_word_dash_2: spirit-uncover
+bip_39_word_dash_3: spirit-uncover-fury
+bip_39_word_dash_4: spirit-uncover-fury-pupil
+bip_39_word_dash_5: spirit-uncover-fury-pupil-law
+bip_39_word_dash_6: spirit-uncover-fury-pupil-law-absent
+bip_39_word_dash_7: spirit-uncover-fury-pupil-law-absent-fall
+bip_39_word_dash_8: spirit-uncover-fury-pupil-law-absent-fall-real
+bip_39_word_dash_9: spirit-uncover-fury-pupil-law-absent-fall-real-kite
 bip_39_word_new_br_1: spirit
 bip_39_word_new_br_10: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread
 bip_39_word_new_br_11: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread<br>electric
@@ -192,6 +204,18 @@ bip_39_word_space_6: spirit uncover fury pupil law absent
 bip_39_word_space_7: spirit uncover fury pupil law absent fall
 bip_39_word_space_8: spirit uncover fury pupil law absent fall real
 bip_39_word_space_9: spirit uncover fury pupil law absent fall real kite
+bip_39_word_underscore_1: spirit
+bip_39_word_underscore_10: spirit_uncover_fury_pupil_law_absent_fall_real_kite_bread
+bip_39_word_underscore_11: spirit_uncover_fury_pupil_law_absent_fall_real_kite_bread_electric
+bip_39_word_underscore_12: spirit_uncover_fury_pupil_law_absent_fall_real_kite_bread_electric_anchor
+bip_39_word_underscore_2: spirit_uncover
+bip_39_word_underscore_3: spirit_uncover_fury
+bip_39_word_underscore_4: spirit_uncover_fury_pupil
+bip_39_word_underscore_5: spirit_uncover_fury_pupil_law
+bip_39_word_underscore_6: spirit_uncover_fury_pupil_law_absent
+bip_39_word_underscore_7: spirit_uncover_fury_pupil_law_absent_fall
+bip_39_word_underscore_8: spirit_uncover_fury_pupil_law_absent_fall_real
+bip_39_word_underscore_9: spirit_uncover_fury_pupil_law_absent_fall_real_kite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

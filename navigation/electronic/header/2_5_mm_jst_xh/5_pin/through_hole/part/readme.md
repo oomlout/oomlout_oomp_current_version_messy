@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dynamic |  
+| bip_39_word_dash_10 | dynamic-across-quiz-tray-thought-cable-slim-arctic-raccoon-reflect |  
+| bip_39_word_dash_11 | dynamic-across-quiz-tray-thought-cable-slim-arctic-raccoon-reflect-giant |  
+| bip_39_word_dash_12 | dynamic-across-quiz-tray-thought-cable-slim-arctic-raccoon-reflect-giant-arena |  
+| bip_39_word_dash_2 | dynamic-across |  
+| bip_39_word_dash_3 | dynamic-across-quiz |  
+| bip_39_word_dash_4 | dynamic-across-quiz-tray |  
+| bip_39_word_dash_5 | dynamic-across-quiz-tray-thought |  
+| bip_39_word_dash_6 | dynamic-across-quiz-tray-thought-cable |  
+| bip_39_word_dash_7 | dynamic-across-quiz-tray-thought-cable-slim |  
+| bip_39_word_dash_8 | dynamic-across-quiz-tray-thought-cable-slim-arctic |  
+| bip_39_word_dash_9 | dynamic-across-quiz-tray-thought-cable-slim-arctic-raccoon |  
 | bip_39_word_new_br_1 | dynamic |  
 | bip_39_word_new_br_10 | dynamic<br>across<br>quiz<br>tray<br>thought<br>cable<br>slim<br>arctic<br>raccoon<br>reflect |  
 | bip_39_word_new_br_11 | dynamic<br>across<br>quiz<br>tray<br>thought<br>cable<br>slim<br>arctic<br>raccoon<br>reflect<br>giant |  
@@ -147,6 +159,18 @@ raccoon |
 | bip_39_word_space_7 | dynamic across quiz tray thought cable slim |  
 | bip_39_word_space_8 | dynamic across quiz tray thought cable slim arctic |  
 | bip_39_word_space_9 | dynamic across quiz tray thought cable slim arctic raccoon |  
+| bip_39_word_underscore_1 | dynamic |  
+| bip_39_word_underscore_10 | dynamic_across_quiz_tray_thought_cable_slim_arctic_raccoon_reflect |  
+| bip_39_word_underscore_11 | dynamic_across_quiz_tray_thought_cable_slim_arctic_raccoon_reflect_giant |  
+| bip_39_word_underscore_12 | dynamic_across_quiz_tray_thought_cable_slim_arctic_raccoon_reflect_giant_arena |  
+| bip_39_word_underscore_2 | dynamic_across |  
+| bip_39_word_underscore_3 | dynamic_across_quiz |  
+| bip_39_word_underscore_4 | dynamic_across_quiz_tray |  
+| bip_39_word_underscore_5 | dynamic_across_quiz_tray_thought |  
+| bip_39_word_underscore_6 | dynamic_across_quiz_tray_thought_cable |  
+| bip_39_word_underscore_7 | dynamic_across_quiz_tray_thought_cable_slim |  
+| bip_39_word_underscore_8 | dynamic_across_quiz_tray_thought_cable_slim_arctic |  
+| bip_39_word_underscore_9 | dynamic_across_quiz_tray_thought_cable_slim_arctic_raccoon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

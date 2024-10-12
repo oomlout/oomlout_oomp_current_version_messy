@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brisk
+bip_39_word_dash_10: brisk-ship-usual-reward-cup-bomb-slide-drive-orbit-initial
+bip_39_word_dash_11: brisk-ship-usual-reward-cup-bomb-slide-drive-orbit-initial-cement
+bip_39_word_dash_12: brisk-ship-usual-reward-cup-bomb-slide-drive-orbit-initial-cement-actor
+bip_39_word_dash_2: brisk-ship
+bip_39_word_dash_3: brisk-ship-usual
+bip_39_word_dash_4: brisk-ship-usual-reward
+bip_39_word_dash_5: brisk-ship-usual-reward-cup
+bip_39_word_dash_6: brisk-ship-usual-reward-cup-bomb
+bip_39_word_dash_7: brisk-ship-usual-reward-cup-bomb-slide
+bip_39_word_dash_8: brisk-ship-usual-reward-cup-bomb-slide-drive
+bip_39_word_dash_9: brisk-ship-usual-reward-cup-bomb-slide-drive-orbit
 bip_39_word_new_br_1: brisk
 bip_39_word_new_br_10: brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial
 bip_39_word_new_br_11: brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial<br>cement
@@ -192,6 +204,18 @@ bip_39_word_space_6: brisk ship usual reward cup bomb
 bip_39_word_space_7: brisk ship usual reward cup bomb slide
 bip_39_word_space_8: brisk ship usual reward cup bomb slide drive
 bip_39_word_space_9: brisk ship usual reward cup bomb slide drive orbit
+bip_39_word_underscore_1: brisk
+bip_39_word_underscore_10: brisk_ship_usual_reward_cup_bomb_slide_drive_orbit_initial
+bip_39_word_underscore_11: brisk_ship_usual_reward_cup_bomb_slide_drive_orbit_initial_cement
+bip_39_word_underscore_12: brisk_ship_usual_reward_cup_bomb_slide_drive_orbit_initial_cement_actor
+bip_39_word_underscore_2: brisk_ship
+bip_39_word_underscore_3: brisk_ship_usual
+bip_39_word_underscore_4: brisk_ship_usual_reward
+bip_39_word_underscore_5: brisk_ship_usual_reward_cup
+bip_39_word_underscore_6: brisk_ship_usual_reward_cup_bomb
+bip_39_word_underscore_7: brisk_ship_usual_reward_cup_bomb_slide
+bip_39_word_underscore_8: brisk_ship_usual_reward_cup_bomb_slide_drive
+bip_39_word_underscore_9: brisk_ship_usual_reward_cup_bomb_slide_drive_orbit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

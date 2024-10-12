@@ -1,3 +1,15 @@
+bip_39_word_dash_1: define
+bip_39_word_dash_10: define-type-demise-stone-bleak-quality-ready-access-jazz-loyal
+bip_39_word_dash_11: define-type-demise-stone-bleak-quality-ready-access-jazz-loyal-gap
+bip_39_word_dash_12: define-type-demise-stone-bleak-quality-ready-access-jazz-loyal-gap-actress
+bip_39_word_dash_2: define-type
+bip_39_word_dash_3: define-type-demise
+bip_39_word_dash_4: define-type-demise-stone
+bip_39_word_dash_5: define-type-demise-stone-bleak
+bip_39_word_dash_6: define-type-demise-stone-bleak-quality
+bip_39_word_dash_7: define-type-demise-stone-bleak-quality-ready
+bip_39_word_dash_8: define-type-demise-stone-bleak-quality-ready-access
+bip_39_word_dash_9: define-type-demise-stone-bleak-quality-ready-access-jazz
 bip_39_word_new_br_1: define
 bip_39_word_new_br_10: define<br>type<br>demise<br>stone<br>bleak<br>quality<br>ready<br>access<br>jazz<br>loyal
 bip_39_word_new_br_11: define<br>type<br>demise<br>stone<br>bleak<br>quality<br>ready<br>access<br>jazz<br>loyal<br>gap
@@ -193,6 +205,18 @@ bip_39_word_space_6: define type demise stone bleak quality
 bip_39_word_space_7: define type demise stone bleak quality ready
 bip_39_word_space_8: define type demise stone bleak quality ready access
 bip_39_word_space_9: define type demise stone bleak quality ready access jazz
+bip_39_word_underscore_1: define
+bip_39_word_underscore_10: define_type_demise_stone_bleak_quality_ready_access_jazz_loyal
+bip_39_word_underscore_11: define_type_demise_stone_bleak_quality_ready_access_jazz_loyal_gap
+bip_39_word_underscore_12: define_type_demise_stone_bleak_quality_ready_access_jazz_loyal_gap_actress
+bip_39_word_underscore_2: define_type
+bip_39_word_underscore_3: define_type_demise
+bip_39_word_underscore_4: define_type_demise_stone
+bip_39_word_underscore_5: define_type_demise_stone_bleak
+bip_39_word_underscore_6: define_type_demise_stone_bleak_quality
+bip_39_word_underscore_7: define_type_demise_stone_bleak_quality_ready
+bip_39_word_underscore_8: define_type_demise_stone_bleak_quality_ready_access
+bip_39_word_underscore_9: define_type_demise_stone_bleak_quality_ready_access_jazz
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

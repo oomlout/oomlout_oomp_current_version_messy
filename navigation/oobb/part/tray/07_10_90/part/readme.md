@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | split |  
+| bip_39_word_dash_10 | split-stand-dynamic-repeat-cheap-ginger-sing-swap-critic-grit |  
+| bip_39_word_dash_11 | split-stand-dynamic-repeat-cheap-ginger-sing-swap-critic-grit-gift |  
+| bip_39_word_dash_12 | split-stand-dynamic-repeat-cheap-ginger-sing-swap-critic-grit-gift-air |  
+| bip_39_word_dash_2 | split-stand |  
+| bip_39_word_dash_3 | split-stand-dynamic |  
+| bip_39_word_dash_4 | split-stand-dynamic-repeat |  
+| bip_39_word_dash_5 | split-stand-dynamic-repeat-cheap |  
+| bip_39_word_dash_6 | split-stand-dynamic-repeat-cheap-ginger |  
+| bip_39_word_dash_7 | split-stand-dynamic-repeat-cheap-ginger-sing |  
+| bip_39_word_dash_8 | split-stand-dynamic-repeat-cheap-ginger-sing-swap |  
+| bip_39_word_dash_9 | split-stand-dynamic-repeat-cheap-ginger-sing-swap-critic |  
 | bip_39_word_new_br_1 | split |  
 | bip_39_word_new_br_10 | split<br>stand<br>dynamic<br>repeat<br>cheap<br>ginger<br>sing<br>swap<br>critic<br>grit |  
 | bip_39_word_new_br_11 | split<br>stand<br>dynamic<br>repeat<br>cheap<br>ginger<br>sing<br>swap<br>critic<br>grit<br>gift |  
@@ -147,6 +159,18 @@ critic |
 | bip_39_word_space_7 | split stand dynamic repeat cheap ginger sing |  
 | bip_39_word_space_8 | split stand dynamic repeat cheap ginger sing swap |  
 | bip_39_word_space_9 | split stand dynamic repeat cheap ginger sing swap critic |  
+| bip_39_word_underscore_1 | split |  
+| bip_39_word_underscore_10 | split_stand_dynamic_repeat_cheap_ginger_sing_swap_critic_grit |  
+| bip_39_word_underscore_11 | split_stand_dynamic_repeat_cheap_ginger_sing_swap_critic_grit_gift |  
+| bip_39_word_underscore_12 | split_stand_dynamic_repeat_cheap_ginger_sing_swap_critic_grit_gift_air |  
+| bip_39_word_underscore_2 | split_stand |  
+| bip_39_word_underscore_3 | split_stand_dynamic |  
+| bip_39_word_underscore_4 | split_stand_dynamic_repeat |  
+| bip_39_word_underscore_5 | split_stand_dynamic_repeat_cheap |  
+| bip_39_word_underscore_6 | split_stand_dynamic_repeat_cheap_ginger |  
+| bip_39_word_underscore_7 | split_stand_dynamic_repeat_cheap_ginger_sing |  
+| bip_39_word_underscore_8 | split_stand_dynamic_repeat_cheap_ginger_sing_swap |  
+| bip_39_word_underscore_9 | split_stand_dynamic_repeat_cheap_ginger_sing_swap_critic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

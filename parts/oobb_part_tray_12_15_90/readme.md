@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | involve |  
+| bip_39_word_dash_10 | involve-alter-mechanic-choose-arm-evolve-impose-public-cruise-clerk |  
+| bip_39_word_dash_11 | involve-alter-mechanic-choose-arm-evolve-impose-public-cruise-clerk-pole |  
+| bip_39_word_dash_12 | involve-alter-mechanic-choose-arm-evolve-impose-public-cruise-clerk-pole-analyst |  
+| bip_39_word_dash_2 | involve-alter |  
+| bip_39_word_dash_3 | involve-alter-mechanic |  
+| bip_39_word_dash_4 | involve-alter-mechanic-choose |  
+| bip_39_word_dash_5 | involve-alter-mechanic-choose-arm |  
+| bip_39_word_dash_6 | involve-alter-mechanic-choose-arm-evolve |  
+| bip_39_word_dash_7 | involve-alter-mechanic-choose-arm-evolve-impose |  
+| bip_39_word_dash_8 | involve-alter-mechanic-choose-arm-evolve-impose-public |  
+| bip_39_word_dash_9 | involve-alter-mechanic-choose-arm-evolve-impose-public-cruise |  
 | bip_39_word_new_br_1 | involve |  
 | bip_39_word_new_br_10 | involve<br>alter<br>mechanic<br>choose<br>arm<br>evolve<br>impose<br>public<br>cruise<br>clerk |  
 | bip_39_word_new_br_11 | involve<br>alter<br>mechanic<br>choose<br>arm<br>evolve<br>impose<br>public<br>cruise<br>clerk<br>pole |  
@@ -147,6 +159,18 @@ cruise |
 | bip_39_word_space_7 | involve alter mechanic choose arm evolve impose |  
 | bip_39_word_space_8 | involve alter mechanic choose arm evolve impose public |  
 | bip_39_word_space_9 | involve alter mechanic choose arm evolve impose public cruise |  
+| bip_39_word_underscore_1 | involve |  
+| bip_39_word_underscore_10 | involve_alter_mechanic_choose_arm_evolve_impose_public_cruise_clerk |  
+| bip_39_word_underscore_11 | involve_alter_mechanic_choose_arm_evolve_impose_public_cruise_clerk_pole |  
+| bip_39_word_underscore_12 | involve_alter_mechanic_choose_arm_evolve_impose_public_cruise_clerk_pole_analyst |  
+| bip_39_word_underscore_2 | involve_alter |  
+| bip_39_word_underscore_3 | involve_alter_mechanic |  
+| bip_39_word_underscore_4 | involve_alter_mechanic_choose |  
+| bip_39_word_underscore_5 | involve_alter_mechanic_choose_arm |  
+| bip_39_word_underscore_6 | involve_alter_mechanic_choose_arm_evolve |  
+| bip_39_word_underscore_7 | involve_alter_mechanic_choose_arm_evolve_impose |  
+| bip_39_word_underscore_8 | involve_alter_mechanic_choose_arm_evolve_impose_public |  
+| bip_39_word_underscore_9 | involve_alter_mechanic_choose_arm_evolve_impose_public_cruise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hard
+bip_39_word_dash_10: hard-seven-regular-vivid-together-benefit-rail-book-company-science
+bip_39_word_dash_11: hard-seven-regular-vivid-together-benefit-rail-book-company-science-deal
+bip_39_word_dash_12: hard-seven-regular-vivid-together-benefit-rail-book-company-science-deal-announce
+bip_39_word_dash_2: hard-seven
+bip_39_word_dash_3: hard-seven-regular
+bip_39_word_dash_4: hard-seven-regular-vivid
+bip_39_word_dash_5: hard-seven-regular-vivid-together
+bip_39_word_dash_6: hard-seven-regular-vivid-together-benefit
+bip_39_word_dash_7: hard-seven-regular-vivid-together-benefit-rail
+bip_39_word_dash_8: hard-seven-regular-vivid-together-benefit-rail-book
+bip_39_word_dash_9: hard-seven-regular-vivid-together-benefit-rail-book-company
 bip_39_word_new_br_1: hard
 bip_39_word_new_br_10: hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book<br>company<br>science
 bip_39_word_new_br_11: hard<br>seven<br>regular<br>vivid<br>together<br>benefit<br>rail<br>book<br>company<br>science<br>deal
@@ -194,6 +206,18 @@ bip_39_word_space_6: hard seven regular vivid together benefit
 bip_39_word_space_7: hard seven regular vivid together benefit rail
 bip_39_word_space_8: hard seven regular vivid together benefit rail book
 bip_39_word_space_9: hard seven regular vivid together benefit rail book company
+bip_39_word_underscore_1: hard
+bip_39_word_underscore_10: hard_seven_regular_vivid_together_benefit_rail_book_company_science
+bip_39_word_underscore_11: hard_seven_regular_vivid_together_benefit_rail_book_company_science_deal
+bip_39_word_underscore_12: hard_seven_regular_vivid_together_benefit_rail_book_company_science_deal_announce
+bip_39_word_underscore_2: hard_seven
+bip_39_word_underscore_3: hard_seven_regular
+bip_39_word_underscore_4: hard_seven_regular_vivid
+bip_39_word_underscore_5: hard_seven_regular_vivid_together
+bip_39_word_underscore_6: hard_seven_regular_vivid_together_benefit
+bip_39_word_underscore_7: hard_seven_regular_vivid_together_benefit_rail
+bip_39_word_underscore_8: hard_seven_regular_vivid_together_benefit_rail_book
+bip_39_word_underscore_9: hard_seven_regular_vivid_together_benefit_rail_book_company
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | winter |  
+| bip_39_word_dash_10 | winter-father-ocean-left-honey-urban-throw-melody-know-mean |  
+| bip_39_word_dash_11 | winter-father-ocean-left-honey-urban-throw-melody-know-mean-impose |  
+| bip_39_word_dash_12 | winter-father-ocean-left-honey-urban-throw-melody-know-mean-impose-around |  
+| bip_39_word_dash_2 | winter-father |  
+| bip_39_word_dash_3 | winter-father-ocean |  
+| bip_39_word_dash_4 | winter-father-ocean-left |  
+| bip_39_word_dash_5 | winter-father-ocean-left-honey |  
+| bip_39_word_dash_6 | winter-father-ocean-left-honey-urban |  
+| bip_39_word_dash_7 | winter-father-ocean-left-honey-urban-throw |  
+| bip_39_word_dash_8 | winter-father-ocean-left-honey-urban-throw-melody |  
+| bip_39_word_dash_9 | winter-father-ocean-left-honey-urban-throw-melody-know |  
 | bip_39_word_new_br_1 | winter |  
 | bip_39_word_new_br_10 | winter<br>father<br>ocean<br>left<br>honey<br>urban<br>throw<br>melody<br>know<br>mean |  
 | bip_39_word_new_br_11 | winter<br>father<br>ocean<br>left<br>honey<br>urban<br>throw<br>melody<br>know<br>mean<br>impose |  
@@ -147,6 +159,18 @@ know |
 | bip_39_word_space_7 | winter father ocean left honey urban throw |  
 | bip_39_word_space_8 | winter father ocean left honey urban throw melody |  
 | bip_39_word_space_9 | winter father ocean left honey urban throw melody know |  
+| bip_39_word_underscore_1 | winter |  
+| bip_39_word_underscore_10 | winter_father_ocean_left_honey_urban_throw_melody_know_mean |  
+| bip_39_word_underscore_11 | winter_father_ocean_left_honey_urban_throw_melody_know_mean_impose |  
+| bip_39_word_underscore_12 | winter_father_ocean_left_honey_urban_throw_melody_know_mean_impose_around |  
+| bip_39_word_underscore_2 | winter_father |  
+| bip_39_word_underscore_3 | winter_father_ocean |  
+| bip_39_word_underscore_4 | winter_father_ocean_left |  
+| bip_39_word_underscore_5 | winter_father_ocean_left_honey |  
+| bip_39_word_underscore_6 | winter_father_ocean_left_honey_urban |  
+| bip_39_word_underscore_7 | winter_father_ocean_left_honey_urban_throw |  
+| bip_39_word_underscore_8 | winter_father_ocean_left_honey_urban_throw_melody |  
+| bip_39_word_underscore_9 | winter_father_ocean_left_honey_urban_throw_melody_know |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

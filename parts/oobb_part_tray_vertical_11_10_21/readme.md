@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | foot |  
+| bip_39_word_dash_10 | foot-unusual-crystal-range-vanish-punch-pottery-obey-carbon-future |  
+| bip_39_word_dash_11 | foot-unusual-crystal-range-vanish-punch-pottery-obey-carbon-future-ginger |  
+| bip_39_word_dash_12 | foot-unusual-crystal-range-vanish-punch-pottery-obey-carbon-future-ginger-accident |  
+| bip_39_word_dash_2 | foot-unusual |  
+| bip_39_word_dash_3 | foot-unusual-crystal |  
+| bip_39_word_dash_4 | foot-unusual-crystal-range |  
+| bip_39_word_dash_5 | foot-unusual-crystal-range-vanish |  
+| bip_39_word_dash_6 | foot-unusual-crystal-range-vanish-punch |  
+| bip_39_word_dash_7 | foot-unusual-crystal-range-vanish-punch-pottery |  
+| bip_39_word_dash_8 | foot-unusual-crystal-range-vanish-punch-pottery-obey |  
+| bip_39_word_dash_9 | foot-unusual-crystal-range-vanish-punch-pottery-obey-carbon |  
 | bip_39_word_new_br_1 | foot |  
 | bip_39_word_new_br_10 | foot<br>unusual<br>crystal<br>range<br>vanish<br>punch<br>pottery<br>obey<br>carbon<br>future |  
 | bip_39_word_new_br_11 | foot<br>unusual<br>crystal<br>range<br>vanish<br>punch<br>pottery<br>obey<br>carbon<br>future<br>ginger |  
@@ -147,6 +159,18 @@ carbon |
 | bip_39_word_space_7 | foot unusual crystal range vanish punch pottery |  
 | bip_39_word_space_8 | foot unusual crystal range vanish punch pottery obey |  
 | bip_39_word_space_9 | foot unusual crystal range vanish punch pottery obey carbon |  
+| bip_39_word_underscore_1 | foot |  
+| bip_39_word_underscore_10 | foot_unusual_crystal_range_vanish_punch_pottery_obey_carbon_future |  
+| bip_39_word_underscore_11 | foot_unusual_crystal_range_vanish_punch_pottery_obey_carbon_future_ginger |  
+| bip_39_word_underscore_12 | foot_unusual_crystal_range_vanish_punch_pottery_obey_carbon_future_ginger_accident |  
+| bip_39_word_underscore_2 | foot_unusual |  
+| bip_39_word_underscore_3 | foot_unusual_crystal |  
+| bip_39_word_underscore_4 | foot_unusual_crystal_range |  
+| bip_39_word_underscore_5 | foot_unusual_crystal_range_vanish |  
+| bip_39_word_underscore_6 | foot_unusual_crystal_range_vanish_punch |  
+| bip_39_word_underscore_7 | foot_unusual_crystal_range_vanish_punch_pottery |  
+| bip_39_word_underscore_8 | foot_unusual_crystal_range_vanish_punch_pottery_obey |  
+| bip_39_word_underscore_9 | foot_unusual_crystal_range_vanish_punch_pottery_obey_carbon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

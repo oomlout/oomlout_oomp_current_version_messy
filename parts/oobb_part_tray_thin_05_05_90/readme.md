@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gospel |  
+| bip_39_word_dash_10 | gospel-describe-pond-globe-clean-spin-anxiety-avocado-muscle-control |  
+| bip_39_word_dash_11 | gospel-describe-pond-globe-clean-spin-anxiety-avocado-muscle-control-remove |  
+| bip_39_word_dash_12 | gospel-describe-pond-globe-clean-spin-anxiety-avocado-muscle-control-remove-album |  
+| bip_39_word_dash_2 | gospel-describe |  
+| bip_39_word_dash_3 | gospel-describe-pond |  
+| bip_39_word_dash_4 | gospel-describe-pond-globe |  
+| bip_39_word_dash_5 | gospel-describe-pond-globe-clean |  
+| bip_39_word_dash_6 | gospel-describe-pond-globe-clean-spin |  
+| bip_39_word_dash_7 | gospel-describe-pond-globe-clean-spin-anxiety |  
+| bip_39_word_dash_8 | gospel-describe-pond-globe-clean-spin-anxiety-avocado |  
+| bip_39_word_dash_9 | gospel-describe-pond-globe-clean-spin-anxiety-avocado-muscle |  
 | bip_39_word_new_br_1 | gospel |  
 | bip_39_word_new_br_10 | gospel<br>describe<br>pond<br>globe<br>clean<br>spin<br>anxiety<br>avocado<br>muscle<br>control |  
 | bip_39_word_new_br_11 | gospel<br>describe<br>pond<br>globe<br>clean<br>spin<br>anxiety<br>avocado<br>muscle<br>control<br>remove |  
@@ -147,6 +159,18 @@ muscle |
 | bip_39_word_space_7 | gospel describe pond globe clean spin anxiety |  
 | bip_39_word_space_8 | gospel describe pond globe clean spin anxiety avocado |  
 | bip_39_word_space_9 | gospel describe pond globe clean spin anxiety avocado muscle |  
+| bip_39_word_underscore_1 | gospel |  
+| bip_39_word_underscore_10 | gospel_describe_pond_globe_clean_spin_anxiety_avocado_muscle_control |  
+| bip_39_word_underscore_11 | gospel_describe_pond_globe_clean_spin_anxiety_avocado_muscle_control_remove |  
+| bip_39_word_underscore_12 | gospel_describe_pond_globe_clean_spin_anxiety_avocado_muscle_control_remove_album |  
+| bip_39_word_underscore_2 | gospel_describe |  
+| bip_39_word_underscore_3 | gospel_describe_pond |  
+| bip_39_word_underscore_4 | gospel_describe_pond_globe |  
+| bip_39_word_underscore_5 | gospel_describe_pond_globe_clean |  
+| bip_39_word_underscore_6 | gospel_describe_pond_globe_clean_spin |  
+| bip_39_word_underscore_7 | gospel_describe_pond_globe_clean_spin_anxiety |  
+| bip_39_word_underscore_8 | gospel_describe_pond_globe_clean_spin_anxiety_avocado |  
+| bip_39_word_underscore_9 | gospel_describe_pond_globe_clean_spin_anxiety_avocado_muscle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

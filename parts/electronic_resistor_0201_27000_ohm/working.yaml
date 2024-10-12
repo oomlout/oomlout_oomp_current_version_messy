@@ -1,3 +1,15 @@
+bip_39_word_dash_1: round
+bip_39_word_dash_10: round-flower-crisp-frame-episode-pet-equal-host-rival-skirt
+bip_39_word_dash_11: round-flower-crisp-frame-episode-pet-equal-host-rival-skirt-uncover
+bip_39_word_dash_12: round-flower-crisp-frame-episode-pet-equal-host-rival-skirt-uncover-achieve
+bip_39_word_dash_2: round-flower
+bip_39_word_dash_3: round-flower-crisp
+bip_39_word_dash_4: round-flower-crisp-frame
+bip_39_word_dash_5: round-flower-crisp-frame-episode
+bip_39_word_dash_6: round-flower-crisp-frame-episode-pet
+bip_39_word_dash_7: round-flower-crisp-frame-episode-pet-equal
+bip_39_word_dash_8: round-flower-crisp-frame-episode-pet-equal-host
+bip_39_word_dash_9: round-flower-crisp-frame-episode-pet-equal-host-rival
 bip_39_word_new_br_1: round
 bip_39_word_new_br_10: round<br>flower<br>crisp<br>frame<br>episode<br>pet<br>equal<br>host<br>rival<br>skirt
 bip_39_word_new_br_11: round<br>flower<br>crisp<br>frame<br>episode<br>pet<br>equal<br>host<br>rival<br>skirt<br>uncover
@@ -193,6 +205,18 @@ bip_39_word_space_6: round flower crisp frame episode pet
 bip_39_word_space_7: round flower crisp frame episode pet equal
 bip_39_word_space_8: round flower crisp frame episode pet equal host
 bip_39_word_space_9: round flower crisp frame episode pet equal host rival
+bip_39_word_underscore_1: round
+bip_39_word_underscore_10: round_flower_crisp_frame_episode_pet_equal_host_rival_skirt
+bip_39_word_underscore_11: round_flower_crisp_frame_episode_pet_equal_host_rival_skirt_uncover
+bip_39_word_underscore_12: round_flower_crisp_frame_episode_pet_equal_host_rival_skirt_uncover_achieve
+bip_39_word_underscore_2: round_flower
+bip_39_word_underscore_3: round_flower_crisp
+bip_39_word_underscore_4: round_flower_crisp_frame
+bip_39_word_underscore_5: round_flower_crisp_frame_episode
+bip_39_word_underscore_6: round_flower_crisp_frame_episode_pet
+bip_39_word_underscore_7: round_flower_crisp_frame_episode_pet_equal
+bip_39_word_underscore_8: round_flower_crisp_frame_episode_pet_equal_host
+bip_39_word_underscore_9: round_flower_crisp_frame_episode_pet_equal_host_rival
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

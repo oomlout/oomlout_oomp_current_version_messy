@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crawl |  
+| bip_39_word_dash_10 | crawl-embark-enlist-rent-purchase-depart-flee-when-inmate-cake |  
+| bip_39_word_dash_11 | crawl-embark-enlist-rent-purchase-depart-flee-when-inmate-cake-welcome |  
+| bip_39_word_dash_12 | crawl-embark-enlist-rent-purchase-depart-flee-when-inmate-cake-welcome-address |  
+| bip_39_word_dash_2 | crawl-embark |  
+| bip_39_word_dash_3 | crawl-embark-enlist |  
+| bip_39_word_dash_4 | crawl-embark-enlist-rent |  
+| bip_39_word_dash_5 | crawl-embark-enlist-rent-purchase |  
+| bip_39_word_dash_6 | crawl-embark-enlist-rent-purchase-depart |  
+| bip_39_word_dash_7 | crawl-embark-enlist-rent-purchase-depart-flee |  
+| bip_39_word_dash_8 | crawl-embark-enlist-rent-purchase-depart-flee-when |  
+| bip_39_word_dash_9 | crawl-embark-enlist-rent-purchase-depart-flee-when-inmate |  
 | bip_39_word_new_br_1 | crawl |  
 | bip_39_word_new_br_10 | crawl<br>embark<br>enlist<br>rent<br>purchase<br>depart<br>flee<br>when<br>inmate<br>cake |  
 | bip_39_word_new_br_11 | crawl<br>embark<br>enlist<br>rent<br>purchase<br>depart<br>flee<br>when<br>inmate<br>cake<br>welcome |  
@@ -147,6 +159,18 @@ inmate |
 | bip_39_word_space_7 | crawl embark enlist rent purchase depart flee |  
 | bip_39_word_space_8 | crawl embark enlist rent purchase depart flee when |  
 | bip_39_word_space_9 | crawl embark enlist rent purchase depart flee when inmate |  
+| bip_39_word_underscore_1 | crawl |  
+| bip_39_word_underscore_10 | crawl_embark_enlist_rent_purchase_depart_flee_when_inmate_cake |  
+| bip_39_word_underscore_11 | crawl_embark_enlist_rent_purchase_depart_flee_when_inmate_cake_welcome |  
+| bip_39_word_underscore_12 | crawl_embark_enlist_rent_purchase_depart_flee_when_inmate_cake_welcome_address |  
+| bip_39_word_underscore_2 | crawl_embark |  
+| bip_39_word_underscore_3 | crawl_embark_enlist |  
+| bip_39_word_underscore_4 | crawl_embark_enlist_rent |  
+| bip_39_word_underscore_5 | crawl_embark_enlist_rent_purchase |  
+| bip_39_word_underscore_6 | crawl_embark_enlist_rent_purchase_depart |  
+| bip_39_word_underscore_7 | crawl_embark_enlist_rent_purchase_depart_flee |  
+| bip_39_word_underscore_8 | crawl_embark_enlist_rent_purchase_depart_flee_when |  
+| bip_39_word_underscore_9 | crawl_embark_enlist_rent_purchase_depart_flee_when_inmate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

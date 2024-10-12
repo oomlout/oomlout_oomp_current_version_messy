@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tone |  
+| bip_39_word_dash_10 | tone-hold-ability-hockey-erase-shock-unit-ancient-artefact-exotic |  
+| bip_39_word_dash_11 | tone-hold-ability-hockey-erase-shock-unit-ancient-artefact-exotic-dismiss |  
+| bip_39_word_dash_12 | tone-hold-ability-hockey-erase-shock-unit-ancient-artefact-exotic-dismiss-art |  
+| bip_39_word_dash_2 | tone-hold |  
+| bip_39_word_dash_3 | tone-hold-ability |  
+| bip_39_word_dash_4 | tone-hold-ability-hockey |  
+| bip_39_word_dash_5 | tone-hold-ability-hockey-erase |  
+| bip_39_word_dash_6 | tone-hold-ability-hockey-erase-shock |  
+| bip_39_word_dash_7 | tone-hold-ability-hockey-erase-shock-unit |  
+| bip_39_word_dash_8 | tone-hold-ability-hockey-erase-shock-unit-ancient |  
+| bip_39_word_dash_9 | tone-hold-ability-hockey-erase-shock-unit-ancient-artefact |  
 | bip_39_word_new_br_1 | tone |  
 | bip_39_word_new_br_10 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient<br>artefact<br>exotic |  
 | bip_39_word_new_br_11 | tone<br>hold<br>ability<br>hockey<br>erase<br>shock<br>unit<br>ancient<br>artefact<br>exotic<br>dismiss |  
@@ -147,6 +159,18 @@ artefact |
 | bip_39_word_space_7 | tone hold ability hockey erase shock unit |  
 | bip_39_word_space_8 | tone hold ability hockey erase shock unit ancient |  
 | bip_39_word_space_9 | tone hold ability hockey erase shock unit ancient artefact |  
+| bip_39_word_underscore_1 | tone |  
+| bip_39_word_underscore_10 | tone_hold_ability_hockey_erase_shock_unit_ancient_artefact_exotic |  
+| bip_39_word_underscore_11 | tone_hold_ability_hockey_erase_shock_unit_ancient_artefact_exotic_dismiss |  
+| bip_39_word_underscore_12 | tone_hold_ability_hockey_erase_shock_unit_ancient_artefact_exotic_dismiss_art |  
+| bip_39_word_underscore_2 | tone_hold |  
+| bip_39_word_underscore_3 | tone_hold_ability |  
+| bip_39_word_underscore_4 | tone_hold_ability_hockey |  
+| bip_39_word_underscore_5 | tone_hold_ability_hockey_erase |  
+| bip_39_word_underscore_6 | tone_hold_ability_hockey_erase_shock |  
+| bip_39_word_underscore_7 | tone_hold_ability_hockey_erase_shock_unit |  
+| bip_39_word_underscore_8 | tone_hold_ability_hockey_erase_shock_unit_ancient |  
+| bip_39_word_underscore_9 | tone_hold_ability_hockey_erase_shock_unit_ancient_artefact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

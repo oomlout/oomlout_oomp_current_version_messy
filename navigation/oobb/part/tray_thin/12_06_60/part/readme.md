@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | merit |  
+| bip_39_word_dash_10 | merit-sentence-frog-pretty-sorry-opinion-pumpkin-polar-core-trick |  
+| bip_39_word_dash_11 | merit-sentence-frog-pretty-sorry-opinion-pumpkin-polar-core-trick-differ |  
+| bip_39_word_dash_12 | merit-sentence-frog-pretty-sorry-opinion-pumpkin-polar-core-trick-differ-above |  
+| bip_39_word_dash_2 | merit-sentence |  
+| bip_39_word_dash_3 | merit-sentence-frog |  
+| bip_39_word_dash_4 | merit-sentence-frog-pretty |  
+| bip_39_word_dash_5 | merit-sentence-frog-pretty-sorry |  
+| bip_39_word_dash_6 | merit-sentence-frog-pretty-sorry-opinion |  
+| bip_39_word_dash_7 | merit-sentence-frog-pretty-sorry-opinion-pumpkin |  
+| bip_39_word_dash_8 | merit-sentence-frog-pretty-sorry-opinion-pumpkin-polar |  
+| bip_39_word_dash_9 | merit-sentence-frog-pretty-sorry-opinion-pumpkin-polar-core |  
 | bip_39_word_new_br_1 | merit |  
 | bip_39_word_new_br_10 | merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar<br>core<br>trick |  
 | bip_39_word_new_br_11 | merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar<br>core<br>trick<br>differ |  
@@ -147,6 +159,18 @@ core |
 | bip_39_word_space_7 | merit sentence frog pretty sorry opinion pumpkin |  
 | bip_39_word_space_8 | merit sentence frog pretty sorry opinion pumpkin polar |  
 | bip_39_word_space_9 | merit sentence frog pretty sorry opinion pumpkin polar core |  
+| bip_39_word_underscore_1 | merit |  
+| bip_39_word_underscore_10 | merit_sentence_frog_pretty_sorry_opinion_pumpkin_polar_core_trick |  
+| bip_39_word_underscore_11 | merit_sentence_frog_pretty_sorry_opinion_pumpkin_polar_core_trick_differ |  
+| bip_39_word_underscore_12 | merit_sentence_frog_pretty_sorry_opinion_pumpkin_polar_core_trick_differ_above |  
+| bip_39_word_underscore_2 | merit_sentence |  
+| bip_39_word_underscore_3 | merit_sentence_frog |  
+| bip_39_word_underscore_4 | merit_sentence_frog_pretty |  
+| bip_39_word_underscore_5 | merit_sentence_frog_pretty_sorry |  
+| bip_39_word_underscore_6 | merit_sentence_frog_pretty_sorry_opinion |  
+| bip_39_word_underscore_7 | merit_sentence_frog_pretty_sorry_opinion_pumpkin |  
+| bip_39_word_underscore_8 | merit_sentence_frog_pretty_sorry_opinion_pumpkin_polar |  
+| bip_39_word_underscore_9 | merit_sentence_frog_pretty_sorry_opinion_pumpkin_polar_core |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

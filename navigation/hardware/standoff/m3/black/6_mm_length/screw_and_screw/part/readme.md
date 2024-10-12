@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | honey |  
+| bip_39_word_dash_10 | honey-debris-receive-tenant-avocado-forget-zoo-kitten-grocery-unusual |  
+| bip_39_word_dash_11 | honey-debris-receive-tenant-avocado-forget-zoo-kitten-grocery-unusual-blast |  
+| bip_39_word_dash_12 | honey-debris-receive-tenant-avocado-forget-zoo-kitten-grocery-unusual-blast-apart |  
+| bip_39_word_dash_2 | honey-debris |  
+| bip_39_word_dash_3 | honey-debris-receive |  
+| bip_39_word_dash_4 | honey-debris-receive-tenant |  
+| bip_39_word_dash_5 | honey-debris-receive-tenant-avocado |  
+| bip_39_word_dash_6 | honey-debris-receive-tenant-avocado-forget |  
+| bip_39_word_dash_7 | honey-debris-receive-tenant-avocado-forget-zoo |  
+| bip_39_word_dash_8 | honey-debris-receive-tenant-avocado-forget-zoo-kitten |  
+| bip_39_word_dash_9 | honey-debris-receive-tenant-avocado-forget-zoo-kitten-grocery |  
 | bip_39_word_new_br_1 | honey |  
 | bip_39_word_new_br_10 | honey<br>debris<br>receive<br>tenant<br>avocado<br>forget<br>zoo<br>kitten<br>grocery<br>unusual |  
 | bip_39_word_new_br_11 | honey<br>debris<br>receive<br>tenant<br>avocado<br>forget<br>zoo<br>kitten<br>grocery<br>unusual<br>blast |  
@@ -147,6 +159,18 @@ grocery |
 | bip_39_word_space_7 | honey debris receive tenant avocado forget zoo |  
 | bip_39_word_space_8 | honey debris receive tenant avocado forget zoo kitten |  
 | bip_39_word_space_9 | honey debris receive tenant avocado forget zoo kitten grocery |  
+| bip_39_word_underscore_1 | honey |  
+| bip_39_word_underscore_10 | honey_debris_receive_tenant_avocado_forget_zoo_kitten_grocery_unusual |  
+| bip_39_word_underscore_11 | honey_debris_receive_tenant_avocado_forget_zoo_kitten_grocery_unusual_blast |  
+| bip_39_word_underscore_12 | honey_debris_receive_tenant_avocado_forget_zoo_kitten_grocery_unusual_blast_apart |  
+| bip_39_word_underscore_2 | honey_debris |  
+| bip_39_word_underscore_3 | honey_debris_receive |  
+| bip_39_word_underscore_4 | honey_debris_receive_tenant |  
+| bip_39_word_underscore_5 | honey_debris_receive_tenant_avocado |  
+| bip_39_word_underscore_6 | honey_debris_receive_tenant_avocado_forget |  
+| bip_39_word_underscore_7 | honey_debris_receive_tenant_avocado_forget_zoo |  
+| bip_39_word_underscore_8 | honey_debris_receive_tenant_avocado_forget_zoo_kitten |  
+| bip_39_word_underscore_9 | honey_debris_receive_tenant_avocado_forget_zoo_kitten_grocery |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

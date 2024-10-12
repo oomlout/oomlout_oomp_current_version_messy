@@ -1,3 +1,15 @@
+bip_39_word_dash_1: license
+bip_39_word_dash_10: license-column-olive-alien-cliff-liberty-leave-mercy-carpet-catalog
+bip_39_word_dash_11: license-column-olive-alien-cliff-liberty-leave-mercy-carpet-catalog-country
+bip_39_word_dash_12: license-column-olive-alien-cliff-liberty-leave-mercy-carpet-catalog-country-album
+bip_39_word_dash_2: license-column
+bip_39_word_dash_3: license-column-olive
+bip_39_word_dash_4: license-column-olive-alien
+bip_39_word_dash_5: license-column-olive-alien-cliff
+bip_39_word_dash_6: license-column-olive-alien-cliff-liberty
+bip_39_word_dash_7: license-column-olive-alien-cliff-liberty-leave
+bip_39_word_dash_8: license-column-olive-alien-cliff-liberty-leave-mercy
+bip_39_word_dash_9: license-column-olive-alien-cliff-liberty-leave-mercy-carpet
 bip_39_word_new_br_1: license
 bip_39_word_new_br_10: license<br>column<br>olive<br>alien<br>cliff<br>liberty<br>leave<br>mercy<br>carpet<br>catalog
 bip_39_word_new_br_11: license<br>column<br>olive<br>alien<br>cliff<br>liberty<br>leave<br>mercy<br>carpet<br>catalog<br>country
@@ -194,6 +206,18 @@ bip_39_word_space_6: license column olive alien cliff liberty
 bip_39_word_space_7: license column olive alien cliff liberty leave
 bip_39_word_space_8: license column olive alien cliff liberty leave mercy
 bip_39_word_space_9: license column olive alien cliff liberty leave mercy carpet
+bip_39_word_underscore_1: license
+bip_39_word_underscore_10: license_column_olive_alien_cliff_liberty_leave_mercy_carpet_catalog
+bip_39_word_underscore_11: license_column_olive_alien_cliff_liberty_leave_mercy_carpet_catalog_country
+bip_39_word_underscore_12: license_column_olive_alien_cliff_liberty_leave_mercy_carpet_catalog_country_album
+bip_39_word_underscore_2: license_column
+bip_39_word_underscore_3: license_column_olive
+bip_39_word_underscore_4: license_column_olive_alien
+bip_39_word_underscore_5: license_column_olive_alien_cliff
+bip_39_word_underscore_6: license_column_olive_alien_cliff_liberty
+bip_39_word_underscore_7: license_column_olive_alien_cliff_liberty_leave
+bip_39_word_underscore_8: license_column_olive_alien_cliff_liberty_leave_mercy
+bip_39_word_underscore_9: license_column_olive_alien_cliff_liberty_leave_mercy_carpet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

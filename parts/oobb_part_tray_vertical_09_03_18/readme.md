@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stuff |  
+| bip_39_word_dash_10 | stuff-ghost-limit-bunker-husband-exclude-erode-design-task-perfect |  
+| bip_39_word_dash_11 | stuff-ghost-limit-bunker-husband-exclude-erode-design-task-perfect-ecology |  
+| bip_39_word_dash_12 | stuff-ghost-limit-bunker-husband-exclude-erode-design-task-perfect-ecology-advice |  
+| bip_39_word_dash_2 | stuff-ghost |  
+| bip_39_word_dash_3 | stuff-ghost-limit |  
+| bip_39_word_dash_4 | stuff-ghost-limit-bunker |  
+| bip_39_word_dash_5 | stuff-ghost-limit-bunker-husband |  
+| bip_39_word_dash_6 | stuff-ghost-limit-bunker-husband-exclude |  
+| bip_39_word_dash_7 | stuff-ghost-limit-bunker-husband-exclude-erode |  
+| bip_39_word_dash_8 | stuff-ghost-limit-bunker-husband-exclude-erode-design |  
+| bip_39_word_dash_9 | stuff-ghost-limit-bunker-husband-exclude-erode-design-task |  
 | bip_39_word_new_br_1 | stuff |  
 | bip_39_word_new_br_10 | stuff<br>ghost<br>limit<br>bunker<br>husband<br>exclude<br>erode<br>design<br>task<br>perfect |  
 | bip_39_word_new_br_11 | stuff<br>ghost<br>limit<br>bunker<br>husband<br>exclude<br>erode<br>design<br>task<br>perfect<br>ecology |  
@@ -147,6 +159,18 @@ task |
 | bip_39_word_space_7 | stuff ghost limit bunker husband exclude erode |  
 | bip_39_word_space_8 | stuff ghost limit bunker husband exclude erode design |  
 | bip_39_word_space_9 | stuff ghost limit bunker husband exclude erode design task |  
+| bip_39_word_underscore_1 | stuff |  
+| bip_39_word_underscore_10 | stuff_ghost_limit_bunker_husband_exclude_erode_design_task_perfect |  
+| bip_39_word_underscore_11 | stuff_ghost_limit_bunker_husband_exclude_erode_design_task_perfect_ecology |  
+| bip_39_word_underscore_12 | stuff_ghost_limit_bunker_husband_exclude_erode_design_task_perfect_ecology_advice |  
+| bip_39_word_underscore_2 | stuff_ghost |  
+| bip_39_word_underscore_3 | stuff_ghost_limit |  
+| bip_39_word_underscore_4 | stuff_ghost_limit_bunker |  
+| bip_39_word_underscore_5 | stuff_ghost_limit_bunker_husband |  
+| bip_39_word_underscore_6 | stuff_ghost_limit_bunker_husband_exclude |  
+| bip_39_word_underscore_7 | stuff_ghost_limit_bunker_husband_exclude_erode |  
+| bip_39_word_underscore_8 | stuff_ghost_limit_bunker_husband_exclude_erode_design |  
+| bip_39_word_underscore_9 | stuff_ghost_limit_bunker_husband_exclude_erode_design_task |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

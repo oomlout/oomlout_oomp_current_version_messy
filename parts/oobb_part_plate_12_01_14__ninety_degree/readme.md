@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | upper |  
+| bip_39_word_dash_10 | upper-accident-access-weird-virtual-lesson-circle-vehicle-castle-humor |  
+| bip_39_word_dash_11 | upper-accident-access-weird-virtual-lesson-circle-vehicle-castle-humor-seed |  
+| bip_39_word_dash_12 | upper-accident-access-weird-virtual-lesson-circle-vehicle-castle-humor-seed-afford |  
+| bip_39_word_dash_2 | upper-accident |  
+| bip_39_word_dash_3 | upper-accident-access |  
+| bip_39_word_dash_4 | upper-accident-access-weird |  
+| bip_39_word_dash_5 | upper-accident-access-weird-virtual |  
+| bip_39_word_dash_6 | upper-accident-access-weird-virtual-lesson |  
+| bip_39_word_dash_7 | upper-accident-access-weird-virtual-lesson-circle |  
+| bip_39_word_dash_8 | upper-accident-access-weird-virtual-lesson-circle-vehicle |  
+| bip_39_word_dash_9 | upper-accident-access-weird-virtual-lesson-circle-vehicle-castle |  
 | bip_39_word_new_br_1 | upper |  
 | bip_39_word_new_br_10 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle<br>castle<br>humor |  
 | bip_39_word_new_br_11 | upper<br>accident<br>access<br>weird<br>virtual<br>lesson<br>circle<br>vehicle<br>castle<br>humor<br>seed |  
@@ -147,6 +159,18 @@ castle |
 | bip_39_word_space_7 | upper accident access weird virtual lesson circle |  
 | bip_39_word_space_8 | upper accident access weird virtual lesson circle vehicle |  
 | bip_39_word_space_9 | upper accident access weird virtual lesson circle vehicle castle |  
+| bip_39_word_underscore_1 | upper |  
+| bip_39_word_underscore_10 | upper_accident_access_weird_virtual_lesson_circle_vehicle_castle_humor |  
+| bip_39_word_underscore_11 | upper_accident_access_weird_virtual_lesson_circle_vehicle_castle_humor_seed |  
+| bip_39_word_underscore_12 | upper_accident_access_weird_virtual_lesson_circle_vehicle_castle_humor_seed_afford |  
+| bip_39_word_underscore_2 | upper_accident |  
+| bip_39_word_underscore_3 | upper_accident_access |  
+| bip_39_word_underscore_4 | upper_accident_access_weird |  
+| bip_39_word_underscore_5 | upper_accident_access_weird_virtual |  
+| bip_39_word_underscore_6 | upper_accident_access_weird_virtual_lesson |  
+| bip_39_word_underscore_7 | upper_accident_access_weird_virtual_lesson_circle |  
+| bip_39_word_underscore_8 | upper_accident_access_weird_virtual_lesson_circle_vehicle |  
+| bip_39_word_underscore_9 | upper_accident_access_weird_virtual_lesson_circle_vehicle_castle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

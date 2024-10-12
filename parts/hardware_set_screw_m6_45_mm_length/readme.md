@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | today |  
+| bip_39_word_dash_10 | today-latin-cheese-injury-match-floor-crisp-dog-stable-hold |  
+| bip_39_word_dash_11 | today-latin-cheese-injury-match-floor-crisp-dog-stable-hold-advance |  
+| bip_39_word_dash_12 | today-latin-cheese-injury-match-floor-crisp-dog-stable-hold-advance-another |  
+| bip_39_word_dash_2 | today-latin |  
+| bip_39_word_dash_3 | today-latin-cheese |  
+| bip_39_word_dash_4 | today-latin-cheese-injury |  
+| bip_39_word_dash_5 | today-latin-cheese-injury-match |  
+| bip_39_word_dash_6 | today-latin-cheese-injury-match-floor |  
+| bip_39_word_dash_7 | today-latin-cheese-injury-match-floor-crisp |  
+| bip_39_word_dash_8 | today-latin-cheese-injury-match-floor-crisp-dog |  
+| bip_39_word_dash_9 | today-latin-cheese-injury-match-floor-crisp-dog-stable |  
 | bip_39_word_new_br_1 | today |  
 | bip_39_word_new_br_10 | today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog<br>stable<br>hold |  
 | bip_39_word_new_br_11 | today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog<br>stable<br>hold<br>advance |  
@@ -147,6 +159,18 @@ stable |
 | bip_39_word_space_7 | today latin cheese injury match floor crisp |  
 | bip_39_word_space_8 | today latin cheese injury match floor crisp dog |  
 | bip_39_word_space_9 | today latin cheese injury match floor crisp dog stable |  
+| bip_39_word_underscore_1 | today |  
+| bip_39_word_underscore_10 | today_latin_cheese_injury_match_floor_crisp_dog_stable_hold |  
+| bip_39_word_underscore_11 | today_latin_cheese_injury_match_floor_crisp_dog_stable_hold_advance |  
+| bip_39_word_underscore_12 | today_latin_cheese_injury_match_floor_crisp_dog_stable_hold_advance_another |  
+| bip_39_word_underscore_2 | today_latin |  
+| bip_39_word_underscore_3 | today_latin_cheese |  
+| bip_39_word_underscore_4 | today_latin_cheese_injury |  
+| bip_39_word_underscore_5 | today_latin_cheese_injury_match |  
+| bip_39_word_underscore_6 | today_latin_cheese_injury_match_floor |  
+| bip_39_word_underscore_7 | today_latin_cheese_injury_match_floor_crisp |  
+| bip_39_word_underscore_8 | today_latin_cheese_injury_match_floor_crisp_dog |  
+| bip_39_word_underscore_9 | today_latin_cheese_injury_match_floor_crisp_dog_stable |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

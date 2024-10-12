@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fine |  
+| bip_39_word_dash_10 | fine-game-token-ladder-frame-theme-mule-notable-crane-suggest |  
+| bip_39_word_dash_11 | fine-game-token-ladder-frame-theme-mule-notable-crane-suggest-reject |  
+| bip_39_word_dash_12 | fine-game-token-ladder-frame-theme-mule-notable-crane-suggest-reject-ahead |  
+| bip_39_word_dash_2 | fine-game |  
+| bip_39_word_dash_3 | fine-game-token |  
+| bip_39_word_dash_4 | fine-game-token-ladder |  
+| bip_39_word_dash_5 | fine-game-token-ladder-frame |  
+| bip_39_word_dash_6 | fine-game-token-ladder-frame-theme |  
+| bip_39_word_dash_7 | fine-game-token-ladder-frame-theme-mule |  
+| bip_39_word_dash_8 | fine-game-token-ladder-frame-theme-mule-notable |  
+| bip_39_word_dash_9 | fine-game-token-ladder-frame-theme-mule-notable-crane |  
 | bip_39_word_new_br_1 | fine |  
 | bip_39_word_new_br_10 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable<br>crane<br>suggest |  
 | bip_39_word_new_br_11 | fine<br>game<br>token<br>ladder<br>frame<br>theme<br>mule<br>notable<br>crane<br>suggest<br>reject |  
@@ -147,6 +159,18 @@ crane |
 | bip_39_word_space_7 | fine game token ladder frame theme mule |  
 | bip_39_word_space_8 | fine game token ladder frame theme mule notable |  
 | bip_39_word_space_9 | fine game token ladder frame theme mule notable crane |  
+| bip_39_word_underscore_1 | fine |  
+| bip_39_word_underscore_10 | fine_game_token_ladder_frame_theme_mule_notable_crane_suggest |  
+| bip_39_word_underscore_11 | fine_game_token_ladder_frame_theme_mule_notable_crane_suggest_reject |  
+| bip_39_word_underscore_12 | fine_game_token_ladder_frame_theme_mule_notable_crane_suggest_reject_ahead |  
+| bip_39_word_underscore_2 | fine_game |  
+| bip_39_word_underscore_3 | fine_game_token |  
+| bip_39_word_underscore_4 | fine_game_token_ladder |  
+| bip_39_word_underscore_5 | fine_game_token_ladder_frame |  
+| bip_39_word_underscore_6 | fine_game_token_ladder_frame_theme |  
+| bip_39_word_underscore_7 | fine_game_token_ladder_frame_theme_mule |  
+| bip_39_word_underscore_8 | fine_game_token_ladder_frame_theme_mule_notable |  
+| bip_39_word_underscore_9 | fine_game_token_ladder_frame_theme_mule_notable_crane |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

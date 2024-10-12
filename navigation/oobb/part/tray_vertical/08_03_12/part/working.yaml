@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flip
+bip_39_word_dash_10: flip-connect-only-cute-shrug-bring-melody-field-purity-prefer
+bip_39_word_dash_11: flip-connect-only-cute-shrug-bring-melody-field-purity-prefer-consider
+bip_39_word_dash_12: flip-connect-only-cute-shrug-bring-melody-field-purity-prefer-consider-ahead
+bip_39_word_dash_2: flip-connect
+bip_39_word_dash_3: flip-connect-only
+bip_39_word_dash_4: flip-connect-only-cute
+bip_39_word_dash_5: flip-connect-only-cute-shrug
+bip_39_word_dash_6: flip-connect-only-cute-shrug-bring
+bip_39_word_dash_7: flip-connect-only-cute-shrug-bring-melody
+bip_39_word_dash_8: flip-connect-only-cute-shrug-bring-melody-field
+bip_39_word_dash_9: flip-connect-only-cute-shrug-bring-melody-field-purity
 bip_39_word_new_br_1: flip
 bip_39_word_new_br_10: flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field<br>purity<br>prefer
 bip_39_word_new_br_11: flip<br>connect<br>only<br>cute<br>shrug<br>bring<br>melody<br>field<br>purity<br>prefer<br>consider
@@ -193,6 +205,18 @@ bip_39_word_space_6: flip connect only cute shrug bring
 bip_39_word_space_7: flip connect only cute shrug bring melody
 bip_39_word_space_8: flip connect only cute shrug bring melody field
 bip_39_word_space_9: flip connect only cute shrug bring melody field purity
+bip_39_word_underscore_1: flip
+bip_39_word_underscore_10: flip_connect_only_cute_shrug_bring_melody_field_purity_prefer
+bip_39_word_underscore_11: flip_connect_only_cute_shrug_bring_melody_field_purity_prefer_consider
+bip_39_word_underscore_12: flip_connect_only_cute_shrug_bring_melody_field_purity_prefer_consider_ahead
+bip_39_word_underscore_2: flip_connect
+bip_39_word_underscore_3: flip_connect_only
+bip_39_word_underscore_4: flip_connect_only_cute
+bip_39_word_underscore_5: flip_connect_only_cute_shrug
+bip_39_word_underscore_6: flip_connect_only_cute_shrug_bring
+bip_39_word_underscore_7: flip_connect_only_cute_shrug_bring_melody
+bip_39_word_underscore_8: flip_connect_only_cute_shrug_bring_melody_field
+bip_39_word_underscore_9: flip_connect_only_cute_shrug_bring_melody_field_purity
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

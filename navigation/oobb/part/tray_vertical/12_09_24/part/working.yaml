@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tail
+bip_39_word_dash_10: tail-cat-hawk-traffic-couple-silly-habit-reason-actual-begin
+bip_39_word_dash_11: tail-cat-hawk-traffic-couple-silly-habit-reason-actual-begin-little
+bip_39_word_dash_12: tail-cat-hawk-traffic-couple-silly-habit-reason-actual-begin-little-acid
+bip_39_word_dash_2: tail-cat
+bip_39_word_dash_3: tail-cat-hawk
+bip_39_word_dash_4: tail-cat-hawk-traffic
+bip_39_word_dash_5: tail-cat-hawk-traffic-couple
+bip_39_word_dash_6: tail-cat-hawk-traffic-couple-silly
+bip_39_word_dash_7: tail-cat-hawk-traffic-couple-silly-habit
+bip_39_word_dash_8: tail-cat-hawk-traffic-couple-silly-habit-reason
+bip_39_word_dash_9: tail-cat-hawk-traffic-couple-silly-habit-reason-actual
 bip_39_word_new_br_1: tail
 bip_39_word_new_br_10: tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason<br>actual<br>begin
 bip_39_word_new_br_11: tail<br>cat<br>hawk<br>traffic<br>couple<br>silly<br>habit<br>reason<br>actual<br>begin<br>little
@@ -193,6 +205,18 @@ bip_39_word_space_6: tail cat hawk traffic couple silly
 bip_39_word_space_7: tail cat hawk traffic couple silly habit
 bip_39_word_space_8: tail cat hawk traffic couple silly habit reason
 bip_39_word_space_9: tail cat hawk traffic couple silly habit reason actual
+bip_39_word_underscore_1: tail
+bip_39_word_underscore_10: tail_cat_hawk_traffic_couple_silly_habit_reason_actual_begin
+bip_39_word_underscore_11: tail_cat_hawk_traffic_couple_silly_habit_reason_actual_begin_little
+bip_39_word_underscore_12: tail_cat_hawk_traffic_couple_silly_habit_reason_actual_begin_little_acid
+bip_39_word_underscore_2: tail_cat
+bip_39_word_underscore_3: tail_cat_hawk
+bip_39_word_underscore_4: tail_cat_hawk_traffic
+bip_39_word_underscore_5: tail_cat_hawk_traffic_couple
+bip_39_word_underscore_6: tail_cat_hawk_traffic_couple_silly
+bip_39_word_underscore_7: tail_cat_hawk_traffic_couple_silly_habit
+bip_39_word_underscore_8: tail_cat_hawk_traffic_couple_silly_habit_reason
+bip_39_word_underscore_9: tail_cat_hawk_traffic_couple_silly_habit_reason_actual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

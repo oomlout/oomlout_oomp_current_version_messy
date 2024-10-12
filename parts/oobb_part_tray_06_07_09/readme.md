@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | transfer |  
+| bip_39_word_dash_10 | transfer-quiz-rescue-caught-drift-tooth-price-core-scissors-hawk |  
+| bip_39_word_dash_11 | transfer-quiz-rescue-caught-drift-tooth-price-core-scissors-hawk-bundle |  
+| bip_39_word_dash_12 | transfer-quiz-rescue-caught-drift-tooth-price-core-scissors-hawk-bundle-accuse |  
+| bip_39_word_dash_2 | transfer-quiz |  
+| bip_39_word_dash_3 | transfer-quiz-rescue |  
+| bip_39_word_dash_4 | transfer-quiz-rescue-caught |  
+| bip_39_word_dash_5 | transfer-quiz-rescue-caught-drift |  
+| bip_39_word_dash_6 | transfer-quiz-rescue-caught-drift-tooth |  
+| bip_39_word_dash_7 | transfer-quiz-rescue-caught-drift-tooth-price |  
+| bip_39_word_dash_8 | transfer-quiz-rescue-caught-drift-tooth-price-core |  
+| bip_39_word_dash_9 | transfer-quiz-rescue-caught-drift-tooth-price-core-scissors |  
 | bip_39_word_new_br_1 | transfer |  
 | bip_39_word_new_br_10 | transfer<br>quiz<br>rescue<br>caught<br>drift<br>tooth<br>price<br>core<br>scissors<br>hawk |  
 | bip_39_word_new_br_11 | transfer<br>quiz<br>rescue<br>caught<br>drift<br>tooth<br>price<br>core<br>scissors<br>hawk<br>bundle |  
@@ -147,6 +159,18 @@ scissors |
 | bip_39_word_space_7 | transfer quiz rescue caught drift tooth price |  
 | bip_39_word_space_8 | transfer quiz rescue caught drift tooth price core |  
 | bip_39_word_space_9 | transfer quiz rescue caught drift tooth price core scissors |  
+| bip_39_word_underscore_1 | transfer |  
+| bip_39_word_underscore_10 | transfer_quiz_rescue_caught_drift_tooth_price_core_scissors_hawk |  
+| bip_39_word_underscore_11 | transfer_quiz_rescue_caught_drift_tooth_price_core_scissors_hawk_bundle |  
+| bip_39_word_underscore_12 | transfer_quiz_rescue_caught_drift_tooth_price_core_scissors_hawk_bundle_accuse |  
+| bip_39_word_underscore_2 | transfer_quiz |  
+| bip_39_word_underscore_3 | transfer_quiz_rescue |  
+| bip_39_word_underscore_4 | transfer_quiz_rescue_caught |  
+| bip_39_word_underscore_5 | transfer_quiz_rescue_caught_drift |  
+| bip_39_word_underscore_6 | transfer_quiz_rescue_caught_drift_tooth |  
+| bip_39_word_underscore_7 | transfer_quiz_rescue_caught_drift_tooth_price |  
+| bip_39_word_underscore_8 | transfer_quiz_rescue_caught_drift_tooth_price_core |  
+| bip_39_word_underscore_9 | transfer_quiz_rescue_caught_drift_tooth_price_core_scissors |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: adjust
+bip_39_word_dash_10: adjust-name-gossip-baby-page-quiz-tackle-carry-speak-front
+bip_39_word_dash_11: adjust-name-gossip-baby-page-quiz-tackle-carry-speak-front-keep
+bip_39_word_dash_12: adjust-name-gossip-baby-page-quiz-tackle-carry-speak-front-keep-amount
+bip_39_word_dash_2: adjust-name
+bip_39_word_dash_3: adjust-name-gossip
+bip_39_word_dash_4: adjust-name-gossip-baby
+bip_39_word_dash_5: adjust-name-gossip-baby-page
+bip_39_word_dash_6: adjust-name-gossip-baby-page-quiz
+bip_39_word_dash_7: adjust-name-gossip-baby-page-quiz-tackle
+bip_39_word_dash_8: adjust-name-gossip-baby-page-quiz-tackle-carry
+bip_39_word_dash_9: adjust-name-gossip-baby-page-quiz-tackle-carry-speak
 bip_39_word_new_br_1: adjust
 bip_39_word_new_br_10: adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry<br>speak<br>front
 bip_39_word_new_br_11: adjust<br>name<br>gossip<br>baby<br>page<br>quiz<br>tackle<br>carry<br>speak<br>front<br>keep
@@ -192,6 +204,18 @@ bip_39_word_space_6: adjust name gossip baby page quiz
 bip_39_word_space_7: adjust name gossip baby page quiz tackle
 bip_39_word_space_8: adjust name gossip baby page quiz tackle carry
 bip_39_word_space_9: adjust name gossip baby page quiz tackle carry speak
+bip_39_word_underscore_1: adjust
+bip_39_word_underscore_10: adjust_name_gossip_baby_page_quiz_tackle_carry_speak_front
+bip_39_word_underscore_11: adjust_name_gossip_baby_page_quiz_tackle_carry_speak_front_keep
+bip_39_word_underscore_12: adjust_name_gossip_baby_page_quiz_tackle_carry_speak_front_keep_amount
+bip_39_word_underscore_2: adjust_name
+bip_39_word_underscore_3: adjust_name_gossip
+bip_39_word_underscore_4: adjust_name_gossip_baby
+bip_39_word_underscore_5: adjust_name_gossip_baby_page
+bip_39_word_underscore_6: adjust_name_gossip_baby_page_quiz
+bip_39_word_underscore_7: adjust_name_gossip_baby_page_quiz_tackle
+bip_39_word_underscore_8: adjust_name_gossip_baby_page_quiz_tackle_carry
+bip_39_word_underscore_9: adjust_name_gossip_baby_page_quiz_tackle_carry_speak
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

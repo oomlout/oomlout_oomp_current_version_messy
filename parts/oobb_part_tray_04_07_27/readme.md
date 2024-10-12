@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | amused |  
+| bip_39_word_dash_10 | amused-shiver-tape-dream-glare-exchange-cause-bundle-hand-talk |  
+| bip_39_word_dash_11 | amused-shiver-tape-dream-glare-exchange-cause-bundle-hand-talk-cannon |  
+| bip_39_word_dash_12 | amused-shiver-tape-dream-glare-exchange-cause-bundle-hand-talk-cannon-addict |  
+| bip_39_word_dash_2 | amused-shiver |  
+| bip_39_word_dash_3 | amused-shiver-tape |  
+| bip_39_word_dash_4 | amused-shiver-tape-dream |  
+| bip_39_word_dash_5 | amused-shiver-tape-dream-glare |  
+| bip_39_word_dash_6 | amused-shiver-tape-dream-glare-exchange |  
+| bip_39_word_dash_7 | amused-shiver-tape-dream-glare-exchange-cause |  
+| bip_39_word_dash_8 | amused-shiver-tape-dream-glare-exchange-cause-bundle |  
+| bip_39_word_dash_9 | amused-shiver-tape-dream-glare-exchange-cause-bundle-hand |  
 | bip_39_word_new_br_1 | amused |  
 | bip_39_word_new_br_10 | amused<br>shiver<br>tape<br>dream<br>glare<br>exchange<br>cause<br>bundle<br>hand<br>talk |  
 | bip_39_word_new_br_11 | amused<br>shiver<br>tape<br>dream<br>glare<br>exchange<br>cause<br>bundle<br>hand<br>talk<br>cannon |  
@@ -147,6 +159,18 @@ hand |
 | bip_39_word_space_7 | amused shiver tape dream glare exchange cause |  
 | bip_39_word_space_8 | amused shiver tape dream glare exchange cause bundle |  
 | bip_39_word_space_9 | amused shiver tape dream glare exchange cause bundle hand |  
+| bip_39_word_underscore_1 | amused |  
+| bip_39_word_underscore_10 | amused_shiver_tape_dream_glare_exchange_cause_bundle_hand_talk |  
+| bip_39_word_underscore_11 | amused_shiver_tape_dream_glare_exchange_cause_bundle_hand_talk_cannon |  
+| bip_39_word_underscore_12 | amused_shiver_tape_dream_glare_exchange_cause_bundle_hand_talk_cannon_addict |  
+| bip_39_word_underscore_2 | amused_shiver |  
+| bip_39_word_underscore_3 | amused_shiver_tape |  
+| bip_39_word_underscore_4 | amused_shiver_tape_dream |  
+| bip_39_word_underscore_5 | amused_shiver_tape_dream_glare |  
+| bip_39_word_underscore_6 | amused_shiver_tape_dream_glare_exchange |  
+| bip_39_word_underscore_7 | amused_shiver_tape_dream_glare_exchange_cause |  
+| bip_39_word_underscore_8 | amused_shiver_tape_dream_glare_exchange_cause_bundle |  
+| bip_39_word_underscore_9 | amused_shiver_tape_dream_glare_exchange_cause_bundle_hand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

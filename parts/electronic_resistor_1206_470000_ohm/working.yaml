@@ -1,3 +1,15 @@
+bip_39_word_dash_1: melt
+bip_39_word_dash_10: melt-cannon-misery-erode-fog-walnut-style-write-sign-task
+bip_39_word_dash_11: melt-cannon-misery-erode-fog-walnut-style-write-sign-task-fade
+bip_39_word_dash_12: melt-cannon-misery-erode-fog-walnut-style-write-sign-task-fade-afford
+bip_39_word_dash_2: melt-cannon
+bip_39_word_dash_3: melt-cannon-misery
+bip_39_word_dash_4: melt-cannon-misery-erode
+bip_39_word_dash_5: melt-cannon-misery-erode-fog
+bip_39_word_dash_6: melt-cannon-misery-erode-fog-walnut
+bip_39_word_dash_7: melt-cannon-misery-erode-fog-walnut-style
+bip_39_word_dash_8: melt-cannon-misery-erode-fog-walnut-style-write
+bip_39_word_dash_9: melt-cannon-misery-erode-fog-walnut-style-write-sign
 bip_39_word_new_br_1: melt
 bip_39_word_new_br_10: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write<br>sign<br>task
 bip_39_word_new_br_11: melt<br>cannon<br>misery<br>erode<br>fog<br>walnut<br>style<br>write<br>sign<br>task<br>fade
@@ -192,6 +204,18 @@ bip_39_word_space_6: melt cannon misery erode fog walnut
 bip_39_word_space_7: melt cannon misery erode fog walnut style
 bip_39_word_space_8: melt cannon misery erode fog walnut style write
 bip_39_word_space_9: melt cannon misery erode fog walnut style write sign
+bip_39_word_underscore_1: melt
+bip_39_word_underscore_10: melt_cannon_misery_erode_fog_walnut_style_write_sign_task
+bip_39_word_underscore_11: melt_cannon_misery_erode_fog_walnut_style_write_sign_task_fade
+bip_39_word_underscore_12: melt_cannon_misery_erode_fog_walnut_style_write_sign_task_fade_afford
+bip_39_word_underscore_2: melt_cannon
+bip_39_word_underscore_3: melt_cannon_misery
+bip_39_word_underscore_4: melt_cannon_misery_erode
+bip_39_word_underscore_5: melt_cannon_misery_erode_fog
+bip_39_word_underscore_6: melt_cannon_misery_erode_fog_walnut
+bip_39_word_underscore_7: melt_cannon_misery_erode_fog_walnut_style
+bip_39_word_underscore_8: melt_cannon_misery_erode_fog_walnut_style_write
+bip_39_word_underscore_9: melt_cannon_misery_erode_fog_walnut_style_write_sign
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

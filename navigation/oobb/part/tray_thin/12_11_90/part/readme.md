@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diagram |  
+| bip_39_word_dash_10 | diagram-once-wagon-knock-easily-ladder-hat-slow-flame-average |  
+| bip_39_word_dash_11 | diagram-once-wagon-knock-easily-ladder-hat-slow-flame-average-close |  
+| bip_39_word_dash_12 | diagram-once-wagon-knock-easily-ladder-hat-slow-flame-average-close-analyst |  
+| bip_39_word_dash_2 | diagram-once |  
+| bip_39_word_dash_3 | diagram-once-wagon |  
+| bip_39_word_dash_4 | diagram-once-wagon-knock |  
+| bip_39_word_dash_5 | diagram-once-wagon-knock-easily |  
+| bip_39_word_dash_6 | diagram-once-wagon-knock-easily-ladder |  
+| bip_39_word_dash_7 | diagram-once-wagon-knock-easily-ladder-hat |  
+| bip_39_word_dash_8 | diagram-once-wagon-knock-easily-ladder-hat-slow |  
+| bip_39_word_dash_9 | diagram-once-wagon-knock-easily-ladder-hat-slow-flame |  
 | bip_39_word_new_br_1 | diagram |  
 | bip_39_word_new_br_10 | diagram<br>once<br>wagon<br>knock<br>easily<br>ladder<br>hat<br>slow<br>flame<br>average |  
 | bip_39_word_new_br_11 | diagram<br>once<br>wagon<br>knock<br>easily<br>ladder<br>hat<br>slow<br>flame<br>average<br>close |  
@@ -147,6 +159,18 @@ flame |
 | bip_39_word_space_7 | diagram once wagon knock easily ladder hat |  
 | bip_39_word_space_8 | diagram once wagon knock easily ladder hat slow |  
 | bip_39_word_space_9 | diagram once wagon knock easily ladder hat slow flame |  
+| bip_39_word_underscore_1 | diagram |  
+| bip_39_word_underscore_10 | diagram_once_wagon_knock_easily_ladder_hat_slow_flame_average |  
+| bip_39_word_underscore_11 | diagram_once_wagon_knock_easily_ladder_hat_slow_flame_average_close |  
+| bip_39_word_underscore_12 | diagram_once_wagon_knock_easily_ladder_hat_slow_flame_average_close_analyst |  
+| bip_39_word_underscore_2 | diagram_once |  
+| bip_39_word_underscore_3 | diagram_once_wagon |  
+| bip_39_word_underscore_4 | diagram_once_wagon_knock |  
+| bip_39_word_underscore_5 | diagram_once_wagon_knock_easily |  
+| bip_39_word_underscore_6 | diagram_once_wagon_knock_easily_ladder |  
+| bip_39_word_underscore_7 | diagram_once_wagon_knock_easily_ladder_hat |  
+| bip_39_word_underscore_8 | diagram_once_wagon_knock_easily_ladder_hat_slow |  
+| bip_39_word_underscore_9 | diagram_once_wagon_knock_easily_ladder_hat_slow_flame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prosper |  
+| bip_39_word_dash_10 | prosper-bean-humble-rain-trigger-creek-arctic-domain-clown-spare |  
+| bip_39_word_dash_11 | prosper-bean-humble-rain-trigger-creek-arctic-domain-clown-spare-dumb |  
+| bip_39_word_dash_12 | prosper-bean-humble-rain-trigger-creek-arctic-domain-clown-spare-dumb-agent |  
+| bip_39_word_dash_2 | prosper-bean |  
+| bip_39_word_dash_3 | prosper-bean-humble |  
+| bip_39_word_dash_4 | prosper-bean-humble-rain |  
+| bip_39_word_dash_5 | prosper-bean-humble-rain-trigger |  
+| bip_39_word_dash_6 | prosper-bean-humble-rain-trigger-creek |  
+| bip_39_word_dash_7 | prosper-bean-humble-rain-trigger-creek-arctic |  
+| bip_39_word_dash_8 | prosper-bean-humble-rain-trigger-creek-arctic-domain |  
+| bip_39_word_dash_9 | prosper-bean-humble-rain-trigger-creek-arctic-domain-clown |  
 | bip_39_word_new_br_1 | prosper |  
 | bip_39_word_new_br_10 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare |  
 | bip_39_word_new_br_11 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare<br>dumb |  
@@ -147,6 +159,18 @@ clown |
 | bip_39_word_space_7 | prosper bean humble rain trigger creek arctic |  
 | bip_39_word_space_8 | prosper bean humble rain trigger creek arctic domain |  
 | bip_39_word_space_9 | prosper bean humble rain trigger creek arctic domain clown |  
+| bip_39_word_underscore_1 | prosper |  
+| bip_39_word_underscore_10 | prosper_bean_humble_rain_trigger_creek_arctic_domain_clown_spare |  
+| bip_39_word_underscore_11 | prosper_bean_humble_rain_trigger_creek_arctic_domain_clown_spare_dumb |  
+| bip_39_word_underscore_12 | prosper_bean_humble_rain_trigger_creek_arctic_domain_clown_spare_dumb_agent |  
+| bip_39_word_underscore_2 | prosper_bean |  
+| bip_39_word_underscore_3 | prosper_bean_humble |  
+| bip_39_word_underscore_4 | prosper_bean_humble_rain |  
+| bip_39_word_underscore_5 | prosper_bean_humble_rain_trigger |  
+| bip_39_word_underscore_6 | prosper_bean_humble_rain_trigger_creek |  
+| bip_39_word_underscore_7 | prosper_bean_humble_rain_trigger_creek_arctic |  
+| bip_39_word_underscore_8 | prosper_bean_humble_rain_trigger_creek_arctic_domain |  
+| bip_39_word_underscore_9 | prosper_bean_humble_rain_trigger_creek_arctic_domain_clown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

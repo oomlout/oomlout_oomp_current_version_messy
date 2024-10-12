@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toy
+bip_39_word_dash_10: toy-foster-catalog-profit-magic-thing-month-hero-sting-shove
+bip_39_word_dash_11: toy-foster-catalog-profit-magic-thing-month-hero-sting-shove-canyon
+bip_39_word_dash_12: toy-foster-catalog-profit-magic-thing-month-hero-sting-shove-canyon-alley
+bip_39_word_dash_2: toy-foster
+bip_39_word_dash_3: toy-foster-catalog
+bip_39_word_dash_4: toy-foster-catalog-profit
+bip_39_word_dash_5: toy-foster-catalog-profit-magic
+bip_39_word_dash_6: toy-foster-catalog-profit-magic-thing
+bip_39_word_dash_7: toy-foster-catalog-profit-magic-thing-month
+bip_39_word_dash_8: toy-foster-catalog-profit-magic-thing-month-hero
+bip_39_word_dash_9: toy-foster-catalog-profit-magic-thing-month-hero-sting
 bip_39_word_new_br_1: toy
 bip_39_word_new_br_10: toy<br>foster<br>catalog<br>profit<br>magic<br>thing<br>month<br>hero<br>sting<br>shove
 bip_39_word_new_br_11: toy<br>foster<br>catalog<br>profit<br>magic<br>thing<br>month<br>hero<br>sting<br>shove<br>canyon
@@ -193,6 +205,18 @@ bip_39_word_space_6: toy foster catalog profit magic thing
 bip_39_word_space_7: toy foster catalog profit magic thing month
 bip_39_word_space_8: toy foster catalog profit magic thing month hero
 bip_39_word_space_9: toy foster catalog profit magic thing month hero sting
+bip_39_word_underscore_1: toy
+bip_39_word_underscore_10: toy_foster_catalog_profit_magic_thing_month_hero_sting_shove
+bip_39_word_underscore_11: toy_foster_catalog_profit_magic_thing_month_hero_sting_shove_canyon
+bip_39_word_underscore_12: toy_foster_catalog_profit_magic_thing_month_hero_sting_shove_canyon_alley
+bip_39_word_underscore_2: toy_foster
+bip_39_word_underscore_3: toy_foster_catalog
+bip_39_word_underscore_4: toy_foster_catalog_profit
+bip_39_word_underscore_5: toy_foster_catalog_profit_magic
+bip_39_word_underscore_6: toy_foster_catalog_profit_magic_thing
+bip_39_word_underscore_7: toy_foster_catalog_profit_magic_thing_month
+bip_39_word_underscore_8: toy_foster_catalog_profit_magic_thing_month_hero
+bip_39_word_underscore_9: toy_foster_catalog_profit_magic_thing_month_hero_sting
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

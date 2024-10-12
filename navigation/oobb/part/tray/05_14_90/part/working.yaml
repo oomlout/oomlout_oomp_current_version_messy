@@ -1,3 +1,15 @@
+bip_39_word_dash_1: drill
+bip_39_word_dash_10: drill-easily-woman-witness-stairs-marine-step-truly-force-core
+bip_39_word_dash_11: drill-easily-woman-witness-stairs-marine-step-truly-force-core-market
+bip_39_word_dash_12: drill-easily-woman-witness-stairs-marine-step-truly-force-core-market-arrange
+bip_39_word_dash_2: drill-easily
+bip_39_word_dash_3: drill-easily-woman
+bip_39_word_dash_4: drill-easily-woman-witness
+bip_39_word_dash_5: drill-easily-woman-witness-stairs
+bip_39_word_dash_6: drill-easily-woman-witness-stairs-marine
+bip_39_word_dash_7: drill-easily-woman-witness-stairs-marine-step
+bip_39_word_dash_8: drill-easily-woman-witness-stairs-marine-step-truly
+bip_39_word_dash_9: drill-easily-woman-witness-stairs-marine-step-truly-force
 bip_39_word_new_br_1: drill
 bip_39_word_new_br_10: drill<br>easily<br>woman<br>witness<br>stairs<br>marine<br>step<br>truly<br>force<br>core
 bip_39_word_new_br_11: drill<br>easily<br>woman<br>witness<br>stairs<br>marine<br>step<br>truly<br>force<br>core<br>market
@@ -193,6 +205,18 @@ bip_39_word_space_6: drill easily woman witness stairs marine
 bip_39_word_space_7: drill easily woman witness stairs marine step
 bip_39_word_space_8: drill easily woman witness stairs marine step truly
 bip_39_word_space_9: drill easily woman witness stairs marine step truly force
+bip_39_word_underscore_1: drill
+bip_39_word_underscore_10: drill_easily_woman_witness_stairs_marine_step_truly_force_core
+bip_39_word_underscore_11: drill_easily_woman_witness_stairs_marine_step_truly_force_core_market
+bip_39_word_underscore_12: drill_easily_woman_witness_stairs_marine_step_truly_force_core_market_arrange
+bip_39_word_underscore_2: drill_easily
+bip_39_word_underscore_3: drill_easily_woman
+bip_39_word_underscore_4: drill_easily_woman_witness
+bip_39_word_underscore_5: drill_easily_woman_witness_stairs
+bip_39_word_underscore_6: drill_easily_woman_witness_stairs_marine
+bip_39_word_underscore_7: drill_easily_woman_witness_stairs_marine_step
+bip_39_word_underscore_8: drill_easily_woman_witness_stairs_marine_step_truly
+bip_39_word_underscore_9: drill_easily_woman_witness_stairs_marine_step_truly_force
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

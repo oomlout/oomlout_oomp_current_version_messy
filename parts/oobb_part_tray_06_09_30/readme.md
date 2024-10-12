@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blanket |  
+| bip_39_word_dash_10 | blanket-course-merry-mixed-run-leopard-portion-hurry-kingdom-feel |  
+| bip_39_word_dash_11 | blanket-course-merry-mixed-run-leopard-portion-hurry-kingdom-feel-layer |  
+| bip_39_word_dash_12 | blanket-course-merry-mixed-run-leopard-portion-hurry-kingdom-feel-layer-actual |  
+| bip_39_word_dash_2 | blanket-course |  
+| bip_39_word_dash_3 | blanket-course-merry |  
+| bip_39_word_dash_4 | blanket-course-merry-mixed |  
+| bip_39_word_dash_5 | blanket-course-merry-mixed-run |  
+| bip_39_word_dash_6 | blanket-course-merry-mixed-run-leopard |  
+| bip_39_word_dash_7 | blanket-course-merry-mixed-run-leopard-portion |  
+| bip_39_word_dash_8 | blanket-course-merry-mixed-run-leopard-portion-hurry |  
+| bip_39_word_dash_9 | blanket-course-merry-mixed-run-leopard-portion-hurry-kingdom |  
 | bip_39_word_new_br_1 | blanket |  
 | bip_39_word_new_br_10 | blanket<br>course<br>merry<br>mixed<br>run<br>leopard<br>portion<br>hurry<br>kingdom<br>feel |  
 | bip_39_word_new_br_11 | blanket<br>course<br>merry<br>mixed<br>run<br>leopard<br>portion<br>hurry<br>kingdom<br>feel<br>layer |  
@@ -147,6 +159,18 @@ kingdom |
 | bip_39_word_space_7 | blanket course merry mixed run leopard portion |  
 | bip_39_word_space_8 | blanket course merry mixed run leopard portion hurry |  
 | bip_39_word_space_9 | blanket course merry mixed run leopard portion hurry kingdom |  
+| bip_39_word_underscore_1 | blanket |  
+| bip_39_word_underscore_10 | blanket_course_merry_mixed_run_leopard_portion_hurry_kingdom_feel |  
+| bip_39_word_underscore_11 | blanket_course_merry_mixed_run_leopard_portion_hurry_kingdom_feel_layer |  
+| bip_39_word_underscore_12 | blanket_course_merry_mixed_run_leopard_portion_hurry_kingdom_feel_layer_actual |  
+| bip_39_word_underscore_2 | blanket_course |  
+| bip_39_word_underscore_3 | blanket_course_merry |  
+| bip_39_word_underscore_4 | blanket_course_merry_mixed |  
+| bip_39_word_underscore_5 | blanket_course_merry_mixed_run |  
+| bip_39_word_underscore_6 | blanket_course_merry_mixed_run_leopard |  
+| bip_39_word_underscore_7 | blanket_course_merry_mixed_run_leopard_portion |  
+| bip_39_word_underscore_8 | blanket_course_merry_mixed_run_leopard_portion_hurry |  
+| bip_39_word_underscore_9 | blanket_course_merry_mixed_run_leopard_portion_hurry_kingdom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

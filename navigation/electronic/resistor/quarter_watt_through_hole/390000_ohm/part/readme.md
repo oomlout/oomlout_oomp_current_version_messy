@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jelly |  
+| bip_39_word_dash_10 | jelly-saddle-wife-smile-genius-police-own-panda-celery-mobile |  
+| bip_39_word_dash_11 | jelly-saddle-wife-smile-genius-police-own-panda-celery-mobile-ethics |  
+| bip_39_word_dash_12 | jelly-saddle-wife-smile-genius-police-own-panda-celery-mobile-ethics-affair |  
+| bip_39_word_dash_2 | jelly-saddle |  
+| bip_39_word_dash_3 | jelly-saddle-wife |  
+| bip_39_word_dash_4 | jelly-saddle-wife-smile |  
+| bip_39_word_dash_5 | jelly-saddle-wife-smile-genius |  
+| bip_39_word_dash_6 | jelly-saddle-wife-smile-genius-police |  
+| bip_39_word_dash_7 | jelly-saddle-wife-smile-genius-police-own |  
+| bip_39_word_dash_8 | jelly-saddle-wife-smile-genius-police-own-panda |  
+| bip_39_word_dash_9 | jelly-saddle-wife-smile-genius-police-own-panda-celery |  
 | bip_39_word_new_br_1 | jelly |  
 | bip_39_word_new_br_10 | jelly<br>saddle<br>wife<br>smile<br>genius<br>police<br>own<br>panda<br>celery<br>mobile |  
 | bip_39_word_new_br_11 | jelly<br>saddle<br>wife<br>smile<br>genius<br>police<br>own<br>panda<br>celery<br>mobile<br>ethics |  
@@ -147,6 +159,18 @@ celery |
 | bip_39_word_space_7 | jelly saddle wife smile genius police own |  
 | bip_39_word_space_8 | jelly saddle wife smile genius police own panda |  
 | bip_39_word_space_9 | jelly saddle wife smile genius police own panda celery |  
+| bip_39_word_underscore_1 | jelly |  
+| bip_39_word_underscore_10 | jelly_saddle_wife_smile_genius_police_own_panda_celery_mobile |  
+| bip_39_word_underscore_11 | jelly_saddle_wife_smile_genius_police_own_panda_celery_mobile_ethics |  
+| bip_39_word_underscore_12 | jelly_saddle_wife_smile_genius_police_own_panda_celery_mobile_ethics_affair |  
+| bip_39_word_underscore_2 | jelly_saddle |  
+| bip_39_word_underscore_3 | jelly_saddle_wife |  
+| bip_39_word_underscore_4 | jelly_saddle_wife_smile |  
+| bip_39_word_underscore_5 | jelly_saddle_wife_smile_genius |  
+| bip_39_word_underscore_6 | jelly_saddle_wife_smile_genius_police |  
+| bip_39_word_underscore_7 | jelly_saddle_wife_smile_genius_police_own |  
+| bip_39_word_underscore_8 | jelly_saddle_wife_smile_genius_police_own_panda |  
+| bip_39_word_underscore_9 | jelly_saddle_wife_smile_genius_police_own_panda_celery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

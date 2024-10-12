@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enemy |  
+| bip_39_word_dash_10 | enemy-write-twenty-dream-office-grit-chest-sustain-page-faint |  
+| bip_39_word_dash_11 | enemy-write-twenty-dream-office-grit-chest-sustain-page-faint-found |  
+| bip_39_word_dash_12 | enemy-write-twenty-dream-office-grit-chest-sustain-page-faint-found-amount |  
+| bip_39_word_dash_2 | enemy-write |  
+| bip_39_word_dash_3 | enemy-write-twenty |  
+| bip_39_word_dash_4 | enemy-write-twenty-dream |  
+| bip_39_word_dash_5 | enemy-write-twenty-dream-office |  
+| bip_39_word_dash_6 | enemy-write-twenty-dream-office-grit |  
+| bip_39_word_dash_7 | enemy-write-twenty-dream-office-grit-chest |  
+| bip_39_word_dash_8 | enemy-write-twenty-dream-office-grit-chest-sustain |  
+| bip_39_word_dash_9 | enemy-write-twenty-dream-office-grit-chest-sustain-page |  
 | bip_39_word_new_br_1 | enemy |  
 | bip_39_word_new_br_10 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain<br>page<br>faint |  
 | bip_39_word_new_br_11 | enemy<br>write<br>twenty<br>dream<br>office<br>grit<br>chest<br>sustain<br>page<br>faint<br>found |  
@@ -147,6 +159,18 @@ page |
 | bip_39_word_space_7 | enemy write twenty dream office grit chest |  
 | bip_39_word_space_8 | enemy write twenty dream office grit chest sustain |  
 | bip_39_word_space_9 | enemy write twenty dream office grit chest sustain page |  
+| bip_39_word_underscore_1 | enemy |  
+| bip_39_word_underscore_10 | enemy_write_twenty_dream_office_grit_chest_sustain_page_faint |  
+| bip_39_word_underscore_11 | enemy_write_twenty_dream_office_grit_chest_sustain_page_faint_found |  
+| bip_39_word_underscore_12 | enemy_write_twenty_dream_office_grit_chest_sustain_page_faint_found_amount |  
+| bip_39_word_underscore_2 | enemy_write |  
+| bip_39_word_underscore_3 | enemy_write_twenty |  
+| bip_39_word_underscore_4 | enemy_write_twenty_dream |  
+| bip_39_word_underscore_5 | enemy_write_twenty_dream_office |  
+| bip_39_word_underscore_6 | enemy_write_twenty_dream_office_grit |  
+| bip_39_word_underscore_7 | enemy_write_twenty_dream_office_grit_chest |  
+| bip_39_word_underscore_8 | enemy_write_twenty_dream_office_grit_chest_sustain |  
+| bip_39_word_underscore_9 | enemy_write_twenty_dream_office_grit_chest_sustain_page |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

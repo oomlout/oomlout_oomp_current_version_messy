@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | accuse |  
+| bip_39_word_dash_10 | accuse-bless-expire-banner-consider-six-trim-lumber-permit-leisure |  
+| bip_39_word_dash_11 | accuse-bless-expire-banner-consider-six-trim-lumber-permit-leisure-disease |  
+| bip_39_word_dash_12 | accuse-bless-expire-banner-consider-six-trim-lumber-permit-leisure-disease-atom |  
+| bip_39_word_dash_2 | accuse-bless |  
+| bip_39_word_dash_3 | accuse-bless-expire |  
+| bip_39_word_dash_4 | accuse-bless-expire-banner |  
+| bip_39_word_dash_5 | accuse-bless-expire-banner-consider |  
+| bip_39_word_dash_6 | accuse-bless-expire-banner-consider-six |  
+| bip_39_word_dash_7 | accuse-bless-expire-banner-consider-six-trim |  
+| bip_39_word_dash_8 | accuse-bless-expire-banner-consider-six-trim-lumber |  
+| bip_39_word_dash_9 | accuse-bless-expire-banner-consider-six-trim-lumber-permit |  
 | bip_39_word_new_br_1 | accuse |  
 | bip_39_word_new_br_10 | accuse<br>bless<br>expire<br>banner<br>consider<br>six<br>trim<br>lumber<br>permit<br>leisure |  
 | bip_39_word_new_br_11 | accuse<br>bless<br>expire<br>banner<br>consider<br>six<br>trim<br>lumber<br>permit<br>leisure<br>disease |  
@@ -147,6 +159,18 @@ permit |
 | bip_39_word_space_7 | accuse bless expire banner consider six trim |  
 | bip_39_word_space_8 | accuse bless expire banner consider six trim lumber |  
 | bip_39_word_space_9 | accuse bless expire banner consider six trim lumber permit |  
+| bip_39_word_underscore_1 | accuse |  
+| bip_39_word_underscore_10 | accuse_bless_expire_banner_consider_six_trim_lumber_permit_leisure |  
+| bip_39_word_underscore_11 | accuse_bless_expire_banner_consider_six_trim_lumber_permit_leisure_disease |  
+| bip_39_word_underscore_12 | accuse_bless_expire_banner_consider_six_trim_lumber_permit_leisure_disease_atom |  
+| bip_39_word_underscore_2 | accuse_bless |  
+| bip_39_word_underscore_3 | accuse_bless_expire |  
+| bip_39_word_underscore_4 | accuse_bless_expire_banner |  
+| bip_39_word_underscore_5 | accuse_bless_expire_banner_consider |  
+| bip_39_word_underscore_6 | accuse_bless_expire_banner_consider_six |  
+| bip_39_word_underscore_7 | accuse_bless_expire_banner_consider_six_trim |  
+| bip_39_word_underscore_8 | accuse_bless_expire_banner_consider_six_trim_lumber |  
+| bip_39_word_underscore_9 | accuse_bless_expire_banner_consider_six_trim_lumber_permit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

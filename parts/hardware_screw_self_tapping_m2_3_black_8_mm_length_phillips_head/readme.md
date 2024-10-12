@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dentist |  
+| bip_39_word_dash_10 | dentist-pretty-blush-hotel-access-umbrella-rack-element-gossip-benefit |  
+| bip_39_word_dash_11 | dentist-pretty-blush-hotel-access-umbrella-rack-element-gossip-benefit-worry |  
+| bip_39_word_dash_12 | dentist-pretty-blush-hotel-access-umbrella-rack-element-gossip-benefit-worry-auto |  
+| bip_39_word_dash_2 | dentist-pretty |  
+| bip_39_word_dash_3 | dentist-pretty-blush |  
+| bip_39_word_dash_4 | dentist-pretty-blush-hotel |  
+| bip_39_word_dash_5 | dentist-pretty-blush-hotel-access |  
+| bip_39_word_dash_6 | dentist-pretty-blush-hotel-access-umbrella |  
+| bip_39_word_dash_7 | dentist-pretty-blush-hotel-access-umbrella-rack |  
+| bip_39_word_dash_8 | dentist-pretty-blush-hotel-access-umbrella-rack-element |  
+| bip_39_word_dash_9 | dentist-pretty-blush-hotel-access-umbrella-rack-element-gossip |  
 | bip_39_word_new_br_1 | dentist |  
 | bip_39_word_new_br_10 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element<br>gossip<br>benefit |  
 | bip_39_word_new_br_11 | dentist<br>pretty<br>blush<br>hotel<br>access<br>umbrella<br>rack<br>element<br>gossip<br>benefit<br>worry |  
@@ -147,6 +159,18 @@ gossip |
 | bip_39_word_space_7 | dentist pretty blush hotel access umbrella rack |  
 | bip_39_word_space_8 | dentist pretty blush hotel access umbrella rack element |  
 | bip_39_word_space_9 | dentist pretty blush hotel access umbrella rack element gossip |  
+| bip_39_word_underscore_1 | dentist |  
+| bip_39_word_underscore_10 | dentist_pretty_blush_hotel_access_umbrella_rack_element_gossip_benefit |  
+| bip_39_word_underscore_11 | dentist_pretty_blush_hotel_access_umbrella_rack_element_gossip_benefit_worry |  
+| bip_39_word_underscore_12 | dentist_pretty_blush_hotel_access_umbrella_rack_element_gossip_benefit_worry_auto |  
+| bip_39_word_underscore_2 | dentist_pretty |  
+| bip_39_word_underscore_3 | dentist_pretty_blush |  
+| bip_39_word_underscore_4 | dentist_pretty_blush_hotel |  
+| bip_39_word_underscore_5 | dentist_pretty_blush_hotel_access |  
+| bip_39_word_underscore_6 | dentist_pretty_blush_hotel_access_umbrella |  
+| bip_39_word_underscore_7 | dentist_pretty_blush_hotel_access_umbrella_rack |  
+| bip_39_word_underscore_8 | dentist_pretty_blush_hotel_access_umbrella_rack_element |  
+| bip_39_word_underscore_9 | dentist_pretty_blush_hotel_access_umbrella_rack_element_gossip |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

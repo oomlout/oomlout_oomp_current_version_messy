@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lottery
+bip_39_word_dash_10: lottery-receive-palm-hand-divorce-spot-concert-aisle-visa-unit
+bip_39_word_dash_11: lottery-receive-palm-hand-divorce-spot-concert-aisle-visa-unit-black
+bip_39_word_dash_12: lottery-receive-palm-hand-divorce-spot-concert-aisle-visa-unit-black-answer
+bip_39_word_dash_2: lottery-receive
+bip_39_word_dash_3: lottery-receive-palm
+bip_39_word_dash_4: lottery-receive-palm-hand
+bip_39_word_dash_5: lottery-receive-palm-hand-divorce
+bip_39_word_dash_6: lottery-receive-palm-hand-divorce-spot
+bip_39_word_dash_7: lottery-receive-palm-hand-divorce-spot-concert
+bip_39_word_dash_8: lottery-receive-palm-hand-divorce-spot-concert-aisle
+bip_39_word_dash_9: lottery-receive-palm-hand-divorce-spot-concert-aisle-visa
 bip_39_word_new_br_1: lottery
 bip_39_word_new_br_10: lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit
 bip_39_word_new_br_11: lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit<br>black
@@ -193,6 +205,18 @@ bip_39_word_space_6: lottery receive palm hand divorce spot
 bip_39_word_space_7: lottery receive palm hand divorce spot concert
 bip_39_word_space_8: lottery receive palm hand divorce spot concert aisle
 bip_39_word_space_9: lottery receive palm hand divorce spot concert aisle visa
+bip_39_word_underscore_1: lottery
+bip_39_word_underscore_10: lottery_receive_palm_hand_divorce_spot_concert_aisle_visa_unit
+bip_39_word_underscore_11: lottery_receive_palm_hand_divorce_spot_concert_aisle_visa_unit_black
+bip_39_word_underscore_12: lottery_receive_palm_hand_divorce_spot_concert_aisle_visa_unit_black_answer
+bip_39_word_underscore_2: lottery_receive
+bip_39_word_underscore_3: lottery_receive_palm
+bip_39_word_underscore_4: lottery_receive_palm_hand
+bip_39_word_underscore_5: lottery_receive_palm_hand_divorce
+bip_39_word_underscore_6: lottery_receive_palm_hand_divorce_spot
+bip_39_word_underscore_7: lottery_receive_palm_hand_divorce_spot_concert
+bip_39_word_underscore_8: lottery_receive_palm_hand_divorce_spot_concert_aisle
+bip_39_word_underscore_9: lottery_receive_palm_hand_divorce_spot_concert_aisle_visa
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

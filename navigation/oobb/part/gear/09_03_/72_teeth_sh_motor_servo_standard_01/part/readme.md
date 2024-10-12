@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loop |  
+| bip_39_word_dash_10 | loop-frame-small-mention-pudding-candy-winner-giggle-jazz-general |  
+| bip_39_word_dash_11 | loop-frame-small-mention-pudding-candy-winner-giggle-jazz-general-violin |  
+| bip_39_word_dash_12 | loop-frame-small-mention-pudding-candy-winner-giggle-jazz-general-violin-apart |  
+| bip_39_word_dash_2 | loop-frame |  
+| bip_39_word_dash_3 | loop-frame-small |  
+| bip_39_word_dash_4 | loop-frame-small-mention |  
+| bip_39_word_dash_5 | loop-frame-small-mention-pudding |  
+| bip_39_word_dash_6 | loop-frame-small-mention-pudding-candy |  
+| bip_39_word_dash_7 | loop-frame-small-mention-pudding-candy-winner |  
+| bip_39_word_dash_8 | loop-frame-small-mention-pudding-candy-winner-giggle |  
+| bip_39_word_dash_9 | loop-frame-small-mention-pudding-candy-winner-giggle-jazz |  
 | bip_39_word_new_br_1 | loop |  
 | bip_39_word_new_br_10 | loop<br>frame<br>small<br>mention<br>pudding<br>candy<br>winner<br>giggle<br>jazz<br>general |  
 | bip_39_word_new_br_11 | loop<br>frame<br>small<br>mention<br>pudding<br>candy<br>winner<br>giggle<br>jazz<br>general<br>violin |  
@@ -147,6 +159,18 @@ jazz |
 | bip_39_word_space_7 | loop frame small mention pudding candy winner |  
 | bip_39_word_space_8 | loop frame small mention pudding candy winner giggle |  
 | bip_39_word_space_9 | loop frame small mention pudding candy winner giggle jazz |  
+| bip_39_word_underscore_1 | loop |  
+| bip_39_word_underscore_10 | loop_frame_small_mention_pudding_candy_winner_giggle_jazz_general |  
+| bip_39_word_underscore_11 | loop_frame_small_mention_pudding_candy_winner_giggle_jazz_general_violin |  
+| bip_39_word_underscore_12 | loop_frame_small_mention_pudding_candy_winner_giggle_jazz_general_violin_apart |  
+| bip_39_word_underscore_2 | loop_frame |  
+| bip_39_word_underscore_3 | loop_frame_small |  
+| bip_39_word_underscore_4 | loop_frame_small_mention |  
+| bip_39_word_underscore_5 | loop_frame_small_mention_pudding |  
+| bip_39_word_underscore_6 | loop_frame_small_mention_pudding_candy |  
+| bip_39_word_underscore_7 | loop_frame_small_mention_pudding_candy_winner |  
+| bip_39_word_underscore_8 | loop_frame_small_mention_pudding_candy_winner_giggle |  
+| bip_39_word_underscore_9 | loop_frame_small_mention_pudding_candy_winner_giggle_jazz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

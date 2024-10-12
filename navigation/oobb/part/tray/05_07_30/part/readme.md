@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | second |  
+| bip_39_word_dash_10 | second-observe-inmate-woman-acoustic-season-voyage-blouse-rail-wait |  
+| bip_39_word_dash_11 | second-observe-inmate-woman-acoustic-season-voyage-blouse-rail-wait-evidence |  
+| bip_39_word_dash_12 | second-observe-inmate-woman-acoustic-season-voyage-blouse-rail-wait-evidence-artist |  
+| bip_39_word_dash_2 | second-observe |  
+| bip_39_word_dash_3 | second-observe-inmate |  
+| bip_39_word_dash_4 | second-observe-inmate-woman |  
+| bip_39_word_dash_5 | second-observe-inmate-woman-acoustic |  
+| bip_39_word_dash_6 | second-observe-inmate-woman-acoustic-season |  
+| bip_39_word_dash_7 | second-observe-inmate-woman-acoustic-season-voyage |  
+| bip_39_word_dash_8 | second-observe-inmate-woman-acoustic-season-voyage-blouse |  
+| bip_39_word_dash_9 | second-observe-inmate-woman-acoustic-season-voyage-blouse-rail |  
 | bip_39_word_new_br_1 | second |  
 | bip_39_word_new_br_10 | second<br>observe<br>inmate<br>woman<br>acoustic<br>season<br>voyage<br>blouse<br>rail<br>wait |  
 | bip_39_word_new_br_11 | second<br>observe<br>inmate<br>woman<br>acoustic<br>season<br>voyage<br>blouse<br>rail<br>wait<br>evidence |  
@@ -147,6 +159,18 @@ rail |
 | bip_39_word_space_7 | second observe inmate woman acoustic season voyage |  
 | bip_39_word_space_8 | second observe inmate woman acoustic season voyage blouse |  
 | bip_39_word_space_9 | second observe inmate woman acoustic season voyage blouse rail |  
+| bip_39_word_underscore_1 | second |  
+| bip_39_word_underscore_10 | second_observe_inmate_woman_acoustic_season_voyage_blouse_rail_wait |  
+| bip_39_word_underscore_11 | second_observe_inmate_woman_acoustic_season_voyage_blouse_rail_wait_evidence |  
+| bip_39_word_underscore_12 | second_observe_inmate_woman_acoustic_season_voyage_blouse_rail_wait_evidence_artist |  
+| bip_39_word_underscore_2 | second_observe |  
+| bip_39_word_underscore_3 | second_observe_inmate |  
+| bip_39_word_underscore_4 | second_observe_inmate_woman |  
+| bip_39_word_underscore_5 | second_observe_inmate_woman_acoustic |  
+| bip_39_word_underscore_6 | second_observe_inmate_woman_acoustic_season |  
+| bip_39_word_underscore_7 | second_observe_inmate_woman_acoustic_season_voyage |  
+| bip_39_word_underscore_8 | second_observe_inmate_woman_acoustic_season_voyage_blouse |  
+| bip_39_word_underscore_9 | second_observe_inmate_woman_acoustic_season_voyage_blouse_rail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

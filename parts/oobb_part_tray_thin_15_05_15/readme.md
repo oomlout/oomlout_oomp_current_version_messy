@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | put |  
+| bip_39_word_dash_10 | put-elbow-penalty-dance-tent-civil-segment-prize-foster-engine |  
+| bip_39_word_dash_11 | put-elbow-penalty-dance-tent-civil-segment-prize-foster-engine-toe |  
+| bip_39_word_dash_2 | put-elbow |  
+| bip_39_word_dash_3 | put-elbow-penalty |  
+| bip_39_word_dash_4 | put-elbow-penalty-dance |  
+| bip_39_word_dash_5 | put-elbow-penalty-dance-tent |  
+| bip_39_word_dash_6 | put-elbow-penalty-dance-tent-civil |  
+| bip_39_word_dash_7 | put-elbow-penalty-dance-tent-civil-segment |  
+| bip_39_word_dash_8 | put-elbow-penalty-dance-tent-civil-segment-prize |  
+| bip_39_word_dash_9 | put-elbow-penalty-dance-tent-civil-segment-prize-foster |  
 | bip_39_word_new_br_1 | put |  
 | bip_39_word_new_br_10 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment<br>prize<br>foster<br>engine |  
 | bip_39_word_new_br_11 | put<br>elbow<br>penalty<br>dance<br>tent<br>civil<br>segment<br>prize<br>foster<br>engine<br>toe |  
@@ -132,6 +143,17 @@ foster |
 | bip_39_word_space_7 | put elbow penalty dance tent civil segment |  
 | bip_39_word_space_8 | put elbow penalty dance tent civil segment prize |  
 | bip_39_word_space_9 | put elbow penalty dance tent civil segment prize foster |  
+| bip_39_word_underscore_1 | put |  
+| bip_39_word_underscore_10 | put_elbow_penalty_dance_tent_civil_segment_prize_foster_engine |  
+| bip_39_word_underscore_11 | put_elbow_penalty_dance_tent_civil_segment_prize_foster_engine_toe |  
+| bip_39_word_underscore_2 | put_elbow |  
+| bip_39_word_underscore_3 | put_elbow_penalty |  
+| bip_39_word_underscore_4 | put_elbow_penalty_dance |  
+| bip_39_word_underscore_5 | put_elbow_penalty_dance_tent |  
+| bip_39_word_underscore_6 | put_elbow_penalty_dance_tent_civil |  
+| bip_39_word_underscore_7 | put_elbow_penalty_dance_tent_civil_segment |  
+| bip_39_word_underscore_8 | put_elbow_penalty_dance_tent_civil_segment_prize |  
+| bip_39_word_underscore_9 | put_elbow_penalty_dance_tent_civil_segment_prize_foster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: welcome
+bip_39_word_dash_10: welcome-chronic-inform-rug-record-royal-harvest-thank-caught-push
+bip_39_word_dash_11: welcome-chronic-inform-rug-record-royal-harvest-thank-caught-push-inquiry
+bip_39_word_dash_12: welcome-chronic-inform-rug-record-royal-harvest-thank-caught-push-inquiry-across
+bip_39_word_dash_2: welcome-chronic
+bip_39_word_dash_3: welcome-chronic-inform
+bip_39_word_dash_4: welcome-chronic-inform-rug
+bip_39_word_dash_5: welcome-chronic-inform-rug-record
+bip_39_word_dash_6: welcome-chronic-inform-rug-record-royal
+bip_39_word_dash_7: welcome-chronic-inform-rug-record-royal-harvest
+bip_39_word_dash_8: welcome-chronic-inform-rug-record-royal-harvest-thank
+bip_39_word_dash_9: welcome-chronic-inform-rug-record-royal-harvest-thank-caught
 bip_39_word_new_br_1: welcome
 bip_39_word_new_br_10: welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push
 bip_39_word_new_br_11: welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push<br>inquiry
@@ -194,6 +206,18 @@ bip_39_word_space_6: welcome chronic inform rug record royal
 bip_39_word_space_7: welcome chronic inform rug record royal harvest
 bip_39_word_space_8: welcome chronic inform rug record royal harvest thank
 bip_39_word_space_9: welcome chronic inform rug record royal harvest thank caught
+bip_39_word_underscore_1: welcome
+bip_39_word_underscore_10: welcome_chronic_inform_rug_record_royal_harvest_thank_caught_push
+bip_39_word_underscore_11: welcome_chronic_inform_rug_record_royal_harvest_thank_caught_push_inquiry
+bip_39_word_underscore_12: welcome_chronic_inform_rug_record_royal_harvest_thank_caught_push_inquiry_across
+bip_39_word_underscore_2: welcome_chronic
+bip_39_word_underscore_3: welcome_chronic_inform
+bip_39_word_underscore_4: welcome_chronic_inform_rug
+bip_39_word_underscore_5: welcome_chronic_inform_rug_record
+bip_39_word_underscore_6: welcome_chronic_inform_rug_record_royal
+bip_39_word_underscore_7: welcome_chronic_inform_rug_record_royal_harvest
+bip_39_word_underscore_8: welcome_chronic_inform_rug_record_royal_harvest_thank
+bip_39_word_underscore_9: welcome_chronic_inform_rug_record_royal_harvest_thank_caught
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

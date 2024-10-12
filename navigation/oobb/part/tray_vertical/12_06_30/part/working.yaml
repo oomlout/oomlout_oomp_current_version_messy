@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trophy
+bip_39_word_dash_10: trophy-margin-estate-attend-invest-infant-inmate-salmon-scene-drill
+bip_39_word_dash_11: trophy-margin-estate-attend-invest-infant-inmate-salmon-scene-drill-spot
+bip_39_word_dash_12: trophy-margin-estate-attend-invest-infant-inmate-salmon-scene-drill-spot-assault
+bip_39_word_dash_2: trophy-margin
+bip_39_word_dash_3: trophy-margin-estate
+bip_39_word_dash_4: trophy-margin-estate-attend
+bip_39_word_dash_5: trophy-margin-estate-attend-invest
+bip_39_word_dash_6: trophy-margin-estate-attend-invest-infant
+bip_39_word_dash_7: trophy-margin-estate-attend-invest-infant-inmate
+bip_39_word_dash_8: trophy-margin-estate-attend-invest-infant-inmate-salmon
+bip_39_word_dash_9: trophy-margin-estate-attend-invest-infant-inmate-salmon-scene
 bip_39_word_new_br_1: trophy
 bip_39_word_new_br_10: trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill
 bip_39_word_new_br_11: trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill<br>spot
@@ -194,6 +206,18 @@ bip_39_word_space_6: trophy margin estate attend invest infant
 bip_39_word_space_7: trophy margin estate attend invest infant inmate
 bip_39_word_space_8: trophy margin estate attend invest infant inmate salmon
 bip_39_word_space_9: trophy margin estate attend invest infant inmate salmon scene
+bip_39_word_underscore_1: trophy
+bip_39_word_underscore_10: trophy_margin_estate_attend_invest_infant_inmate_salmon_scene_drill
+bip_39_word_underscore_11: trophy_margin_estate_attend_invest_infant_inmate_salmon_scene_drill_spot
+bip_39_word_underscore_12: trophy_margin_estate_attend_invest_infant_inmate_salmon_scene_drill_spot_assault
+bip_39_word_underscore_2: trophy_margin
+bip_39_word_underscore_3: trophy_margin_estate
+bip_39_word_underscore_4: trophy_margin_estate_attend
+bip_39_word_underscore_5: trophy_margin_estate_attend_invest
+bip_39_word_underscore_6: trophy_margin_estate_attend_invest_infant
+bip_39_word_underscore_7: trophy_margin_estate_attend_invest_infant_inmate
+bip_39_word_underscore_8: trophy_margin_estate_attend_invest_infant_inmate_salmon
+bip_39_word_underscore_9: trophy_margin_estate_attend_invest_infant_inmate_salmon_scene
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

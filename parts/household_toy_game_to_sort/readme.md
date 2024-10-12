@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | total |  
+| bip_39_word_dash_10 | total-shrimp-inside-slight-angry-cushion-task-frost-together-toddler |  
+| bip_39_word_dash_11 | total-shrimp-inside-slight-angry-cushion-task-frost-together-toddler-spoil |  
+| bip_39_word_dash_12 | total-shrimp-inside-slight-angry-cushion-task-frost-together-toddler-spoil-accident |  
+| bip_39_word_dash_2 | total-shrimp |  
+| bip_39_word_dash_3 | total-shrimp-inside |  
+| bip_39_word_dash_4 | total-shrimp-inside-slight |  
+| bip_39_word_dash_5 | total-shrimp-inside-slight-angry |  
+| bip_39_word_dash_6 | total-shrimp-inside-slight-angry-cushion |  
+| bip_39_word_dash_7 | total-shrimp-inside-slight-angry-cushion-task |  
+| bip_39_word_dash_8 | total-shrimp-inside-slight-angry-cushion-task-frost |  
+| bip_39_word_dash_9 | total-shrimp-inside-slight-angry-cushion-task-frost-together |  
 | bip_39_word_new_br_1 | total |  
 | bip_39_word_new_br_10 | total<br>shrimp<br>inside<br>slight<br>angry<br>cushion<br>task<br>frost<br>together<br>toddler |  
 | bip_39_word_new_br_11 | total<br>shrimp<br>inside<br>slight<br>angry<br>cushion<br>task<br>frost<br>together<br>toddler<br>spoil |  
@@ -147,6 +159,18 @@ together |
 | bip_39_word_space_7 | total shrimp inside slight angry cushion task |  
 | bip_39_word_space_8 | total shrimp inside slight angry cushion task frost |  
 | bip_39_word_space_9 | total shrimp inside slight angry cushion task frost together |  
+| bip_39_word_underscore_1 | total |  
+| bip_39_word_underscore_10 | total_shrimp_inside_slight_angry_cushion_task_frost_together_toddler |  
+| bip_39_word_underscore_11 | total_shrimp_inside_slight_angry_cushion_task_frost_together_toddler_spoil |  
+| bip_39_word_underscore_12 | total_shrimp_inside_slight_angry_cushion_task_frost_together_toddler_spoil_accident |  
+| bip_39_word_underscore_2 | total_shrimp |  
+| bip_39_word_underscore_3 | total_shrimp_inside |  
+| bip_39_word_underscore_4 | total_shrimp_inside_slight |  
+| bip_39_word_underscore_5 | total_shrimp_inside_slight_angry |  
+| bip_39_word_underscore_6 | total_shrimp_inside_slight_angry_cushion |  
+| bip_39_word_underscore_7 | total_shrimp_inside_slight_angry_cushion_task |  
+| bip_39_word_underscore_8 | total_shrimp_inside_slight_angry_cushion_task_frost |  
+| bip_39_word_underscore_9 | total_shrimp_inside_slight_angry_cushion_task_frost_together |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

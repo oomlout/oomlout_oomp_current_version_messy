@@ -1,3 +1,15 @@
+bip_39_word_dash_1: one
+bip_39_word_dash_10: one-anchor-shield-staff-man-giggle-guilt-human-art-select
+bip_39_word_dash_11: one-anchor-shield-staff-man-giggle-guilt-human-art-select-lock
+bip_39_word_dash_12: one-anchor-shield-staff-man-giggle-guilt-human-art-select-lock-actress
+bip_39_word_dash_2: one-anchor
+bip_39_word_dash_3: one-anchor-shield
+bip_39_word_dash_4: one-anchor-shield-staff
+bip_39_word_dash_5: one-anchor-shield-staff-man
+bip_39_word_dash_6: one-anchor-shield-staff-man-giggle
+bip_39_word_dash_7: one-anchor-shield-staff-man-giggle-guilt
+bip_39_word_dash_8: one-anchor-shield-staff-man-giggle-guilt-human
+bip_39_word_dash_9: one-anchor-shield-staff-man-giggle-guilt-human-art
 bip_39_word_new_br_1: one
 bip_39_word_new_br_10: one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select
 bip_39_word_new_br_11: one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select<br>lock
@@ -192,6 +204,18 @@ bip_39_word_space_6: one anchor shield staff man giggle
 bip_39_word_space_7: one anchor shield staff man giggle guilt
 bip_39_word_space_8: one anchor shield staff man giggle guilt human
 bip_39_word_space_9: one anchor shield staff man giggle guilt human art
+bip_39_word_underscore_1: one
+bip_39_word_underscore_10: one_anchor_shield_staff_man_giggle_guilt_human_art_select
+bip_39_word_underscore_11: one_anchor_shield_staff_man_giggle_guilt_human_art_select_lock
+bip_39_word_underscore_12: one_anchor_shield_staff_man_giggle_guilt_human_art_select_lock_actress
+bip_39_word_underscore_2: one_anchor
+bip_39_word_underscore_3: one_anchor_shield
+bip_39_word_underscore_4: one_anchor_shield_staff
+bip_39_word_underscore_5: one_anchor_shield_staff_man
+bip_39_word_underscore_6: one_anchor_shield_staff_man_giggle
+bip_39_word_underscore_7: one_anchor_shield_staff_man_giggle_guilt
+bip_39_word_underscore_8: one_anchor_shield_staff_man_giggle_guilt_human
+bip_39_word_underscore_9: one_anchor_shield_staff_man_giggle_guilt_human_art
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

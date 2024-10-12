@@ -1,3 +1,15 @@
+bip_39_word_dash_1: element
+bip_39_word_dash_10: element-grape-hold-december-file-cigar-whip-midnight-candy-inform
+bip_39_word_dash_11: element-grape-hold-december-file-cigar-whip-midnight-candy-inform-pencil
+bip_39_word_dash_12: element-grape-hold-december-file-cigar-whip-midnight-candy-inform-pencil-age
+bip_39_word_dash_2: element-grape
+bip_39_word_dash_3: element-grape-hold
+bip_39_word_dash_4: element-grape-hold-december
+bip_39_word_dash_5: element-grape-hold-december-file
+bip_39_word_dash_6: element-grape-hold-december-file-cigar
+bip_39_word_dash_7: element-grape-hold-december-file-cigar-whip
+bip_39_word_dash_8: element-grape-hold-december-file-cigar-whip-midnight
+bip_39_word_dash_9: element-grape-hold-december-file-cigar-whip-midnight-candy
 bip_39_word_new_br_1: element
 bip_39_word_new_br_10: element<br>grape<br>hold<br>december<br>file<br>cigar<br>whip<br>midnight<br>candy<br>inform
 bip_39_word_new_br_11: element<br>grape<br>hold<br>december<br>file<br>cigar<br>whip<br>midnight<br>candy<br>inform<br>pencil
@@ -193,6 +205,18 @@ bip_39_word_space_6: element grape hold december file cigar
 bip_39_word_space_7: element grape hold december file cigar whip
 bip_39_word_space_8: element grape hold december file cigar whip midnight
 bip_39_word_space_9: element grape hold december file cigar whip midnight candy
+bip_39_word_underscore_1: element
+bip_39_word_underscore_10: element_grape_hold_december_file_cigar_whip_midnight_candy_inform
+bip_39_word_underscore_11: element_grape_hold_december_file_cigar_whip_midnight_candy_inform_pencil
+bip_39_word_underscore_12: element_grape_hold_december_file_cigar_whip_midnight_candy_inform_pencil_age
+bip_39_word_underscore_2: element_grape
+bip_39_word_underscore_3: element_grape_hold
+bip_39_word_underscore_4: element_grape_hold_december
+bip_39_word_underscore_5: element_grape_hold_december_file
+bip_39_word_underscore_6: element_grape_hold_december_file_cigar
+bip_39_word_underscore_7: element_grape_hold_december_file_cigar_whip
+bip_39_word_underscore_8: element_grape_hold_december_file_cigar_whip_midnight
+bip_39_word_underscore_9: element_grape_hold_december_file_cigar_whip_midnight_candy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

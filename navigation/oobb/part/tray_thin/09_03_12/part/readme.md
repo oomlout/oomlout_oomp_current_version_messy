@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | actor |  
+| bip_39_word_dash_10 | actor-favorite-loop-term-liquid-truly-nasty-time-phrase-business |  
+| bip_39_word_dash_11 | actor-favorite-loop-term-liquid-truly-nasty-time-phrase-business-able |  
+| bip_39_word_dash_12 | actor-favorite-loop-term-liquid-truly-nasty-time-phrase-business-able-alpha |  
+| bip_39_word_dash_2 | actor-favorite |  
+| bip_39_word_dash_3 | actor-favorite-loop |  
+| bip_39_word_dash_4 | actor-favorite-loop-term |  
+| bip_39_word_dash_5 | actor-favorite-loop-term-liquid |  
+| bip_39_word_dash_6 | actor-favorite-loop-term-liquid-truly |  
+| bip_39_word_dash_7 | actor-favorite-loop-term-liquid-truly-nasty |  
+| bip_39_word_dash_8 | actor-favorite-loop-term-liquid-truly-nasty-time |  
+| bip_39_word_dash_9 | actor-favorite-loop-term-liquid-truly-nasty-time-phrase |  
 | bip_39_word_new_br_1 | actor |  
 | bip_39_word_new_br_10 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business |  
 | bip_39_word_new_br_11 | actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business<br>able |  
@@ -147,6 +159,18 @@ phrase |
 | bip_39_word_space_7 | actor favorite loop term liquid truly nasty |  
 | bip_39_word_space_8 | actor favorite loop term liquid truly nasty time |  
 | bip_39_word_space_9 | actor favorite loop term liquid truly nasty time phrase |  
+| bip_39_word_underscore_1 | actor |  
+| bip_39_word_underscore_10 | actor_favorite_loop_term_liquid_truly_nasty_time_phrase_business |  
+| bip_39_word_underscore_11 | actor_favorite_loop_term_liquid_truly_nasty_time_phrase_business_able |  
+| bip_39_word_underscore_12 | actor_favorite_loop_term_liquid_truly_nasty_time_phrase_business_able_alpha |  
+| bip_39_word_underscore_2 | actor_favorite |  
+| bip_39_word_underscore_3 | actor_favorite_loop |  
+| bip_39_word_underscore_4 | actor_favorite_loop_term |  
+| bip_39_word_underscore_5 | actor_favorite_loop_term_liquid |  
+| bip_39_word_underscore_6 | actor_favorite_loop_term_liquid_truly |  
+| bip_39_word_underscore_7 | actor_favorite_loop_term_liquid_truly_nasty |  
+| bip_39_word_underscore_8 | actor_favorite_loop_term_liquid_truly_nasty_time |  
+| bip_39_word_underscore_9 | actor_favorite_loop_term_liquid_truly_nasty_time_phrase |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: slice
+bip_39_word_dash_10: slice-finger-pig-hood-code-wear-churn-quick-effort-help
+bip_39_word_dash_11: slice-finger-pig-hood-code-wear-churn-quick-effort-help-garment
+bip_39_word_dash_12: slice-finger-pig-hood-code-wear-churn-quick-effort-help-garment-ask
+bip_39_word_dash_2: slice-finger
+bip_39_word_dash_3: slice-finger-pig
+bip_39_word_dash_4: slice-finger-pig-hood
+bip_39_word_dash_5: slice-finger-pig-hood-code
+bip_39_word_dash_6: slice-finger-pig-hood-code-wear
+bip_39_word_dash_7: slice-finger-pig-hood-code-wear-churn
+bip_39_word_dash_8: slice-finger-pig-hood-code-wear-churn-quick
+bip_39_word_dash_9: slice-finger-pig-hood-code-wear-churn-quick-effort
 bip_39_word_new_br_1: slice
 bip_39_word_new_br_10: slice<br>finger<br>pig<br>hood<br>code<br>wear<br>churn<br>quick<br>effort<br>help
 bip_39_word_new_br_11: slice<br>finger<br>pig<br>hood<br>code<br>wear<br>churn<br>quick<br>effort<br>help<br>garment
@@ -192,6 +204,18 @@ bip_39_word_space_6: slice finger pig hood code wear
 bip_39_word_space_7: slice finger pig hood code wear churn
 bip_39_word_space_8: slice finger pig hood code wear churn quick
 bip_39_word_space_9: slice finger pig hood code wear churn quick effort
+bip_39_word_underscore_1: slice
+bip_39_word_underscore_10: slice_finger_pig_hood_code_wear_churn_quick_effort_help
+bip_39_word_underscore_11: slice_finger_pig_hood_code_wear_churn_quick_effort_help_garment
+bip_39_word_underscore_12: slice_finger_pig_hood_code_wear_churn_quick_effort_help_garment_ask
+bip_39_word_underscore_2: slice_finger
+bip_39_word_underscore_3: slice_finger_pig
+bip_39_word_underscore_4: slice_finger_pig_hood
+bip_39_word_underscore_5: slice_finger_pig_hood_code
+bip_39_word_underscore_6: slice_finger_pig_hood_code_wear
+bip_39_word_underscore_7: slice_finger_pig_hood_code_wear_churn
+bip_39_word_underscore_8: slice_finger_pig_hood_code_wear_churn_quick
+bip_39_word_underscore_9: slice_finger_pig_hood_code_wear_churn_quick_effort
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | monitor |  
+| bip_39_word_dash_10 | monitor-nephew-kid-dance-category-simple-narrow-pupil-library-math |  
+| bip_39_word_dash_11 | monitor-nephew-kid-dance-category-simple-narrow-pupil-library-math-couch |  
+| bip_39_word_dash_12 | monitor-nephew-kid-dance-category-simple-narrow-pupil-library-math-couch-alone |  
+| bip_39_word_dash_2 | monitor-nephew |  
+| bip_39_word_dash_3 | monitor-nephew-kid |  
+| bip_39_word_dash_4 | monitor-nephew-kid-dance |  
+| bip_39_word_dash_5 | monitor-nephew-kid-dance-category |  
+| bip_39_word_dash_6 | monitor-nephew-kid-dance-category-simple |  
+| bip_39_word_dash_7 | monitor-nephew-kid-dance-category-simple-narrow |  
+| bip_39_word_dash_8 | monitor-nephew-kid-dance-category-simple-narrow-pupil |  
+| bip_39_word_dash_9 | monitor-nephew-kid-dance-category-simple-narrow-pupil-library |  
 | bip_39_word_new_br_1 | monitor |  
 | bip_39_word_new_br_10 | monitor<br>nephew<br>kid<br>dance<br>category<br>simple<br>narrow<br>pupil<br>library<br>math |  
 | bip_39_word_new_br_11 | monitor<br>nephew<br>kid<br>dance<br>category<br>simple<br>narrow<br>pupil<br>library<br>math<br>couch |  
@@ -147,6 +159,18 @@ library |
 | bip_39_word_space_7 | monitor nephew kid dance category simple narrow |  
 | bip_39_word_space_8 | monitor nephew kid dance category simple narrow pupil |  
 | bip_39_word_space_9 | monitor nephew kid dance category simple narrow pupil library |  
+| bip_39_word_underscore_1 | monitor |  
+| bip_39_word_underscore_10 | monitor_nephew_kid_dance_category_simple_narrow_pupil_library_math |  
+| bip_39_word_underscore_11 | monitor_nephew_kid_dance_category_simple_narrow_pupil_library_math_couch |  
+| bip_39_word_underscore_12 | monitor_nephew_kid_dance_category_simple_narrow_pupil_library_math_couch_alone |  
+| bip_39_word_underscore_2 | monitor_nephew |  
+| bip_39_word_underscore_3 | monitor_nephew_kid |  
+| bip_39_word_underscore_4 | monitor_nephew_kid_dance |  
+| bip_39_word_underscore_5 | monitor_nephew_kid_dance_category |  
+| bip_39_word_underscore_6 | monitor_nephew_kid_dance_category_simple |  
+| bip_39_word_underscore_7 | monitor_nephew_kid_dance_category_simple_narrow |  
+| bip_39_word_underscore_8 | monitor_nephew_kid_dance_category_simple_narrow_pupil |  
+| bip_39_word_underscore_9 | monitor_nephew_kid_dance_category_simple_narrow_pupil_library |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

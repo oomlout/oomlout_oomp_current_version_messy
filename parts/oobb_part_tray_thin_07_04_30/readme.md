@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | artist |  
+| bip_39_word_dash_10 | artist-lock-rough-duck-struggle-napkin-steel-wool-marble-safe |  
+| bip_39_word_dash_11 | artist-lock-rough-duck-struggle-napkin-steel-wool-marble-safe-damp |  
+| bip_39_word_dash_12 | artist-lock-rough-duck-struggle-napkin-steel-wool-marble-safe-damp-actual |  
+| bip_39_word_dash_2 | artist-lock |  
+| bip_39_word_dash_3 | artist-lock-rough |  
+| bip_39_word_dash_4 | artist-lock-rough-duck |  
+| bip_39_word_dash_5 | artist-lock-rough-duck-struggle |  
+| bip_39_word_dash_6 | artist-lock-rough-duck-struggle-napkin |  
+| bip_39_word_dash_7 | artist-lock-rough-duck-struggle-napkin-steel |  
+| bip_39_word_dash_8 | artist-lock-rough-duck-struggle-napkin-steel-wool |  
+| bip_39_word_dash_9 | artist-lock-rough-duck-struggle-napkin-steel-wool-marble |  
 | bip_39_word_new_br_1 | artist |  
 | bip_39_word_new_br_10 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool<br>marble<br>safe |  
 | bip_39_word_new_br_11 | artist<br>lock<br>rough<br>duck<br>struggle<br>napkin<br>steel<br>wool<br>marble<br>safe<br>damp |  
@@ -147,6 +159,18 @@ marble |
 | bip_39_word_space_7 | artist lock rough duck struggle napkin steel |  
 | bip_39_word_space_8 | artist lock rough duck struggle napkin steel wool |  
 | bip_39_word_space_9 | artist lock rough duck struggle napkin steel wool marble |  
+| bip_39_word_underscore_1 | artist |  
+| bip_39_word_underscore_10 | artist_lock_rough_duck_struggle_napkin_steel_wool_marble_safe |  
+| bip_39_word_underscore_11 | artist_lock_rough_duck_struggle_napkin_steel_wool_marble_safe_damp |  
+| bip_39_word_underscore_12 | artist_lock_rough_duck_struggle_napkin_steel_wool_marble_safe_damp_actual |  
+| bip_39_word_underscore_2 | artist_lock |  
+| bip_39_word_underscore_3 | artist_lock_rough |  
+| bip_39_word_underscore_4 | artist_lock_rough_duck |  
+| bip_39_word_underscore_5 | artist_lock_rough_duck_struggle |  
+| bip_39_word_underscore_6 | artist_lock_rough_duck_struggle_napkin |  
+| bip_39_word_underscore_7 | artist_lock_rough_duck_struggle_napkin_steel |  
+| bip_39_word_underscore_8 | artist_lock_rough_duck_struggle_napkin_steel_wool |  
+| bip_39_word_underscore_9 | artist_lock_rough_duck_struggle_napkin_steel_wool_marble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

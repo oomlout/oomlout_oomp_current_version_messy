@@ -1,3 +1,15 @@
+bip_39_word_dash_1: balcony
+bip_39_word_dash_10: balcony-cause-abuse-time-depth-advice-bitter-provide-soup-infant
+bip_39_word_dash_11: balcony-cause-abuse-time-depth-advice-bitter-provide-soup-infant-glory
+bip_39_word_dash_12: balcony-cause-abuse-time-depth-advice-bitter-provide-soup-infant-glory-act
+bip_39_word_dash_2: balcony-cause
+bip_39_word_dash_3: balcony-cause-abuse
+bip_39_word_dash_4: balcony-cause-abuse-time
+bip_39_word_dash_5: balcony-cause-abuse-time-depth
+bip_39_word_dash_6: balcony-cause-abuse-time-depth-advice
+bip_39_word_dash_7: balcony-cause-abuse-time-depth-advice-bitter
+bip_39_word_dash_8: balcony-cause-abuse-time-depth-advice-bitter-provide
+bip_39_word_dash_9: balcony-cause-abuse-time-depth-advice-bitter-provide-soup
 bip_39_word_new_br_1: balcony
 bip_39_word_new_br_10: balcony<br>cause<br>abuse<br>time<br>depth<br>advice<br>bitter<br>provide<br>soup<br>infant
 bip_39_word_new_br_11: balcony<br>cause<br>abuse<br>time<br>depth<br>advice<br>bitter<br>provide<br>soup<br>infant<br>glory
@@ -193,6 +205,18 @@ bip_39_word_space_6: balcony cause abuse time depth advice
 bip_39_word_space_7: balcony cause abuse time depth advice bitter
 bip_39_word_space_8: balcony cause abuse time depth advice bitter provide
 bip_39_word_space_9: balcony cause abuse time depth advice bitter provide soup
+bip_39_word_underscore_1: balcony
+bip_39_word_underscore_10: balcony_cause_abuse_time_depth_advice_bitter_provide_soup_infant
+bip_39_word_underscore_11: balcony_cause_abuse_time_depth_advice_bitter_provide_soup_infant_glory
+bip_39_word_underscore_12: balcony_cause_abuse_time_depth_advice_bitter_provide_soup_infant_glory_act
+bip_39_word_underscore_2: balcony_cause
+bip_39_word_underscore_3: balcony_cause_abuse
+bip_39_word_underscore_4: balcony_cause_abuse_time
+bip_39_word_underscore_5: balcony_cause_abuse_time_depth
+bip_39_word_underscore_6: balcony_cause_abuse_time_depth_advice
+bip_39_word_underscore_7: balcony_cause_abuse_time_depth_advice_bitter
+bip_39_word_underscore_8: balcony_cause_abuse_time_depth_advice_bitter_provide
+bip_39_word_underscore_9: balcony_cause_abuse_time_depth_advice_bitter_provide_soup
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ten |  
+| bip_39_word_dash_10 | ten-weather-task-snap-modify-caught-canvas-gun-uncle-pond |  
+| bip_39_word_dash_11 | ten-weather-task-snap-modify-caught-canvas-gun-uncle-pond-art |  
+| bip_39_word_dash_12 | ten-weather-task-snap-modify-caught-canvas-gun-uncle-pond-art-arm |  
+| bip_39_word_dash_2 | ten-weather |  
+| bip_39_word_dash_3 | ten-weather-task |  
+| bip_39_word_dash_4 | ten-weather-task-snap |  
+| bip_39_word_dash_5 | ten-weather-task-snap-modify |  
+| bip_39_word_dash_6 | ten-weather-task-snap-modify-caught |  
+| bip_39_word_dash_7 | ten-weather-task-snap-modify-caught-canvas |  
+| bip_39_word_dash_8 | ten-weather-task-snap-modify-caught-canvas-gun |  
+| bip_39_word_dash_9 | ten-weather-task-snap-modify-caught-canvas-gun-uncle |  
 | bip_39_word_new_br_1 | ten |  
 | bip_39_word_new_br_10 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun<br>uncle<br>pond |  
 | bip_39_word_new_br_11 | ten<br>weather<br>task<br>snap<br>modify<br>caught<br>canvas<br>gun<br>uncle<br>pond<br>art |  
@@ -147,6 +159,18 @@ uncle |
 | bip_39_word_space_7 | ten weather task snap modify caught canvas |  
 | bip_39_word_space_8 | ten weather task snap modify caught canvas gun |  
 | bip_39_word_space_9 | ten weather task snap modify caught canvas gun uncle |  
+| bip_39_word_underscore_1 | ten |  
+| bip_39_word_underscore_10 | ten_weather_task_snap_modify_caught_canvas_gun_uncle_pond |  
+| bip_39_word_underscore_11 | ten_weather_task_snap_modify_caught_canvas_gun_uncle_pond_art |  
+| bip_39_word_underscore_12 | ten_weather_task_snap_modify_caught_canvas_gun_uncle_pond_art_arm |  
+| bip_39_word_underscore_2 | ten_weather |  
+| bip_39_word_underscore_3 | ten_weather_task |  
+| bip_39_word_underscore_4 | ten_weather_task_snap |  
+| bip_39_word_underscore_5 | ten_weather_task_snap_modify |  
+| bip_39_word_underscore_6 | ten_weather_task_snap_modify_caught |  
+| bip_39_word_underscore_7 | ten_weather_task_snap_modify_caught_canvas |  
+| bip_39_word_underscore_8 | ten_weather_task_snap_modify_caught_canvas_gun |  
+| bip_39_word_underscore_9 | ten_weather_task_snap_modify_caught_canvas_gun_uncle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: render
+bip_39_word_dash_10: render-airport-vivid-viable-garage-bracket-useful-acid-coin-gospel
+bip_39_word_dash_11: render-airport-vivid-viable-garage-bracket-useful-acid-coin-gospel-soon
+bip_39_word_dash_12: render-airport-vivid-viable-garage-bracket-useful-acid-coin-gospel-soon-afford
+bip_39_word_dash_2: render-airport
+bip_39_word_dash_3: render-airport-vivid
+bip_39_word_dash_4: render-airport-vivid-viable
+bip_39_word_dash_5: render-airport-vivid-viable-garage
+bip_39_word_dash_6: render-airport-vivid-viable-garage-bracket
+bip_39_word_dash_7: render-airport-vivid-viable-garage-bracket-useful
+bip_39_word_dash_8: render-airport-vivid-viable-garage-bracket-useful-acid
+bip_39_word_dash_9: render-airport-vivid-viable-garage-bracket-useful-acid-coin
 bip_39_word_new_br_1: render
 bip_39_word_new_br_10: render<br>airport<br>vivid<br>viable<br>garage<br>bracket<br>useful<br>acid<br>coin<br>gospel
 bip_39_word_new_br_11: render<br>airport<br>vivid<br>viable<br>garage<br>bracket<br>useful<br>acid<br>coin<br>gospel<br>soon
@@ -194,6 +206,18 @@ bip_39_word_space_6: render airport vivid viable garage bracket
 bip_39_word_space_7: render airport vivid viable garage bracket useful
 bip_39_word_space_8: render airport vivid viable garage bracket useful acid
 bip_39_word_space_9: render airport vivid viable garage bracket useful acid coin
+bip_39_word_underscore_1: render
+bip_39_word_underscore_10: render_airport_vivid_viable_garage_bracket_useful_acid_coin_gospel
+bip_39_word_underscore_11: render_airport_vivid_viable_garage_bracket_useful_acid_coin_gospel_soon
+bip_39_word_underscore_12: render_airport_vivid_viable_garage_bracket_useful_acid_coin_gospel_soon_afford
+bip_39_word_underscore_2: render_airport
+bip_39_word_underscore_3: render_airport_vivid
+bip_39_word_underscore_4: render_airport_vivid_viable
+bip_39_word_underscore_5: render_airport_vivid_viable_garage
+bip_39_word_underscore_6: render_airport_vivid_viable_garage_bracket
+bip_39_word_underscore_7: render_airport_vivid_viable_garage_bracket_useful
+bip_39_word_underscore_8: render_airport_vivid_viable_garage_bracket_useful_acid
+bip_39_word_underscore_9: render_airport_vivid_viable_garage_bracket_useful_acid_coin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

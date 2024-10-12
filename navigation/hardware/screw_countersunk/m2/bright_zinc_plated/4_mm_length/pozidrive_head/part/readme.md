@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | track |  
+| bip_39_word_dash_10 | track-hunt-truck-mystery-struggle-biology-legal-find-air-business |  
+| bip_39_word_dash_11 | track-hunt-truck-mystery-struggle-biology-legal-find-air-business-split |  
+| bip_39_word_dash_12 | track-hunt-truck-mystery-struggle-biology-legal-find-air-business-split-album |  
+| bip_39_word_dash_2 | track-hunt |  
+| bip_39_word_dash_3 | track-hunt-truck |  
+| bip_39_word_dash_4 | track-hunt-truck-mystery |  
+| bip_39_word_dash_5 | track-hunt-truck-mystery-struggle |  
+| bip_39_word_dash_6 | track-hunt-truck-mystery-struggle-biology |  
+| bip_39_word_dash_7 | track-hunt-truck-mystery-struggle-biology-legal |  
+| bip_39_word_dash_8 | track-hunt-truck-mystery-struggle-biology-legal-find |  
+| bip_39_word_dash_9 | track-hunt-truck-mystery-struggle-biology-legal-find-air |  
 | bip_39_word_new_br_1 | track |  
 | bip_39_word_new_br_10 | track<br>hunt<br>truck<br>mystery<br>struggle<br>biology<br>legal<br>find<br>air<br>business |  
 | bip_39_word_new_br_11 | track<br>hunt<br>truck<br>mystery<br>struggle<br>biology<br>legal<br>find<br>air<br>business<br>split |  
@@ -147,6 +159,18 @@ air |
 | bip_39_word_space_7 | track hunt truck mystery struggle biology legal |  
 | bip_39_word_space_8 | track hunt truck mystery struggle biology legal find |  
 | bip_39_word_space_9 | track hunt truck mystery struggle biology legal find air |  
+| bip_39_word_underscore_1 | track |  
+| bip_39_word_underscore_10 | track_hunt_truck_mystery_struggle_biology_legal_find_air_business |  
+| bip_39_word_underscore_11 | track_hunt_truck_mystery_struggle_biology_legal_find_air_business_split |  
+| bip_39_word_underscore_12 | track_hunt_truck_mystery_struggle_biology_legal_find_air_business_split_album |  
+| bip_39_word_underscore_2 | track_hunt |  
+| bip_39_word_underscore_3 | track_hunt_truck |  
+| bip_39_word_underscore_4 | track_hunt_truck_mystery |  
+| bip_39_word_underscore_5 | track_hunt_truck_mystery_struggle |  
+| bip_39_word_underscore_6 | track_hunt_truck_mystery_struggle_biology |  
+| bip_39_word_underscore_7 | track_hunt_truck_mystery_struggle_biology_legal |  
+| bip_39_word_underscore_8 | track_hunt_truck_mystery_struggle_biology_legal_find |  
+| bip_39_word_underscore_9 | track_hunt_truck_mystery_struggle_biology_legal_find_air |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

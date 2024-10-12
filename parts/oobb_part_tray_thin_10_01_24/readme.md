@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | source |  
+| bip_39_word_dash_10 | source-flower-toy-mandate-gain-walk-host-decide-elegant-brain |  
+| bip_39_word_dash_11 | source-flower-toy-mandate-gain-walk-host-decide-elegant-brain-sight |  
+| bip_39_word_dash_12 | source-flower-toy-mandate-gain-walk-host-decide-elegant-brain-sight-accident |  
+| bip_39_word_dash_2 | source-flower |  
+| bip_39_word_dash_3 | source-flower-toy |  
+| bip_39_word_dash_4 | source-flower-toy-mandate |  
+| bip_39_word_dash_5 | source-flower-toy-mandate-gain |  
+| bip_39_word_dash_6 | source-flower-toy-mandate-gain-walk |  
+| bip_39_word_dash_7 | source-flower-toy-mandate-gain-walk-host |  
+| bip_39_word_dash_8 | source-flower-toy-mandate-gain-walk-host-decide |  
+| bip_39_word_dash_9 | source-flower-toy-mandate-gain-walk-host-decide-elegant |  
 | bip_39_word_new_br_1 | source |  
 | bip_39_word_new_br_10 | source<br>flower<br>toy<br>mandate<br>gain<br>walk<br>host<br>decide<br>elegant<br>brain |  
 | bip_39_word_new_br_11 | source<br>flower<br>toy<br>mandate<br>gain<br>walk<br>host<br>decide<br>elegant<br>brain<br>sight |  
@@ -147,6 +159,18 @@ elegant |
 | bip_39_word_space_7 | source flower toy mandate gain walk host |  
 | bip_39_word_space_8 | source flower toy mandate gain walk host decide |  
 | bip_39_word_space_9 | source flower toy mandate gain walk host decide elegant |  
+| bip_39_word_underscore_1 | source |  
+| bip_39_word_underscore_10 | source_flower_toy_mandate_gain_walk_host_decide_elegant_brain |  
+| bip_39_word_underscore_11 | source_flower_toy_mandate_gain_walk_host_decide_elegant_brain_sight |  
+| bip_39_word_underscore_12 | source_flower_toy_mandate_gain_walk_host_decide_elegant_brain_sight_accident |  
+| bip_39_word_underscore_2 | source_flower |  
+| bip_39_word_underscore_3 | source_flower_toy |  
+| bip_39_word_underscore_4 | source_flower_toy_mandate |  
+| bip_39_word_underscore_5 | source_flower_toy_mandate_gain |  
+| bip_39_word_underscore_6 | source_flower_toy_mandate_gain_walk |  
+| bip_39_word_underscore_7 | source_flower_toy_mandate_gain_walk_host |  
+| bip_39_word_underscore_8 | source_flower_toy_mandate_gain_walk_host_decide |  
+| bip_39_word_underscore_9 | source_flower_toy_mandate_gain_walk_host_decide_elegant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

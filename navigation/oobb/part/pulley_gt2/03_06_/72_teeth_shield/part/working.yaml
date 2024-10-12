@@ -1,3 +1,15 @@
+bip_39_word_dash_1: room
+bip_39_word_dash_10: room-buddy-youth-color-robust-twice-damp-giant-bacon-rack
+bip_39_word_dash_11: room-buddy-youth-color-robust-twice-damp-giant-bacon-rack-have
+bip_39_word_dash_12: room-buddy-youth-color-robust-twice-damp-giant-bacon-rack-have-also
+bip_39_word_dash_2: room-buddy
+bip_39_word_dash_3: room-buddy-youth
+bip_39_word_dash_4: room-buddy-youth-color
+bip_39_word_dash_5: room-buddy-youth-color-robust
+bip_39_word_dash_6: room-buddy-youth-color-robust-twice
+bip_39_word_dash_7: room-buddy-youth-color-robust-twice-damp
+bip_39_word_dash_8: room-buddy-youth-color-robust-twice-damp-giant
+bip_39_word_dash_9: room-buddy-youth-color-robust-twice-damp-giant-bacon
 bip_39_word_new_br_1: room
 bip_39_word_new_br_10: room<br>buddy<br>youth<br>color<br>robust<br>twice<br>damp<br>giant<br>bacon<br>rack
 bip_39_word_new_br_11: room<br>buddy<br>youth<br>color<br>robust<br>twice<br>damp<br>giant<br>bacon<br>rack<br>have
@@ -192,6 +204,18 @@ bip_39_word_space_6: room buddy youth color robust twice
 bip_39_word_space_7: room buddy youth color robust twice damp
 bip_39_word_space_8: room buddy youth color robust twice damp giant
 bip_39_word_space_9: room buddy youth color robust twice damp giant bacon
+bip_39_word_underscore_1: room
+bip_39_word_underscore_10: room_buddy_youth_color_robust_twice_damp_giant_bacon_rack
+bip_39_word_underscore_11: room_buddy_youth_color_robust_twice_damp_giant_bacon_rack_have
+bip_39_word_underscore_12: room_buddy_youth_color_robust_twice_damp_giant_bacon_rack_have_also
+bip_39_word_underscore_2: room_buddy
+bip_39_word_underscore_3: room_buddy_youth
+bip_39_word_underscore_4: room_buddy_youth_color
+bip_39_word_underscore_5: room_buddy_youth_color_robust
+bip_39_word_underscore_6: room_buddy_youth_color_robust_twice
+bip_39_word_underscore_7: room_buddy_youth_color_robust_twice_damp
+bip_39_word_underscore_8: room_buddy_youth_color_robust_twice_damp_giant
+bip_39_word_underscore_9: room_buddy_youth_color_robust_twice_damp_giant_bacon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

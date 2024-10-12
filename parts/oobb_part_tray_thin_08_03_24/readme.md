@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | minor |  
+| bip_39_word_dash_10 | minor-broom-catalog-much-state-cousin-cushion-large-paper-trip |  
+| bip_39_word_dash_11 | minor-broom-catalog-much-state-cousin-cushion-large-paper-trip-affair |  
+| bip_39_word_dash_12 | minor-broom-catalog-much-state-cousin-cushion-large-paper-trip-affair-afford |  
+| bip_39_word_dash_2 | minor-broom |  
+| bip_39_word_dash_3 | minor-broom-catalog |  
+| bip_39_word_dash_4 | minor-broom-catalog-much |  
+| bip_39_word_dash_5 | minor-broom-catalog-much-state |  
+| bip_39_word_dash_6 | minor-broom-catalog-much-state-cousin |  
+| bip_39_word_dash_7 | minor-broom-catalog-much-state-cousin-cushion |  
+| bip_39_word_dash_8 | minor-broom-catalog-much-state-cousin-cushion-large |  
+| bip_39_word_dash_9 | minor-broom-catalog-much-state-cousin-cushion-large-paper |  
 | bip_39_word_new_br_1 | minor |  
 | bip_39_word_new_br_10 | minor<br>broom<br>catalog<br>much<br>state<br>cousin<br>cushion<br>large<br>paper<br>trip |  
 | bip_39_word_new_br_11 | minor<br>broom<br>catalog<br>much<br>state<br>cousin<br>cushion<br>large<br>paper<br>trip<br>affair |  
@@ -147,6 +159,18 @@ paper |
 | bip_39_word_space_7 | minor broom catalog much state cousin cushion |  
 | bip_39_word_space_8 | minor broom catalog much state cousin cushion large |  
 | bip_39_word_space_9 | minor broom catalog much state cousin cushion large paper |  
+| bip_39_word_underscore_1 | minor |  
+| bip_39_word_underscore_10 | minor_broom_catalog_much_state_cousin_cushion_large_paper_trip |  
+| bip_39_word_underscore_11 | minor_broom_catalog_much_state_cousin_cushion_large_paper_trip_affair |  
+| bip_39_word_underscore_12 | minor_broom_catalog_much_state_cousin_cushion_large_paper_trip_affair_afford |  
+| bip_39_word_underscore_2 | minor_broom |  
+| bip_39_word_underscore_3 | minor_broom_catalog |  
+| bip_39_word_underscore_4 | minor_broom_catalog_much |  
+| bip_39_word_underscore_5 | minor_broom_catalog_much_state |  
+| bip_39_word_underscore_6 | minor_broom_catalog_much_state_cousin |  
+| bip_39_word_underscore_7 | minor_broom_catalog_much_state_cousin_cushion |  
+| bip_39_word_underscore_8 | minor_broom_catalog_much_state_cousin_cushion_large |  
+| bip_39_word_underscore_9 | minor_broom_catalog_much_state_cousin_cushion_large_paper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

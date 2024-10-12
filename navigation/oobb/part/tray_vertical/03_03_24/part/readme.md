@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jelly |  
+| bip_39_word_dash_10 | jelly-moment-limb-doctor-addict-gasp-among-toss-satoshi-hammer |  
+| bip_39_word_dash_11 | jelly-moment-limb-doctor-addict-gasp-among-toss-satoshi-hammer-ramp |  
+| bip_39_word_dash_12 | jelly-moment-limb-doctor-addict-gasp-among-toss-satoshi-hammer-ramp-attend |  
+| bip_39_word_dash_2 | jelly-moment |  
+| bip_39_word_dash_3 | jelly-moment-limb |  
+| bip_39_word_dash_4 | jelly-moment-limb-doctor |  
+| bip_39_word_dash_5 | jelly-moment-limb-doctor-addict |  
+| bip_39_word_dash_6 | jelly-moment-limb-doctor-addict-gasp |  
+| bip_39_word_dash_7 | jelly-moment-limb-doctor-addict-gasp-among |  
+| bip_39_word_dash_8 | jelly-moment-limb-doctor-addict-gasp-among-toss |  
+| bip_39_word_dash_9 | jelly-moment-limb-doctor-addict-gasp-among-toss-satoshi |  
 | bip_39_word_new_br_1 | jelly |  
 | bip_39_word_new_br_10 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss<br>satoshi<br>hammer |  
 | bip_39_word_new_br_11 | jelly<br>moment<br>limb<br>doctor<br>addict<br>gasp<br>among<br>toss<br>satoshi<br>hammer<br>ramp |  
@@ -147,6 +159,18 @@ satoshi |
 | bip_39_word_space_7 | jelly moment limb doctor addict gasp among |  
 | bip_39_word_space_8 | jelly moment limb doctor addict gasp among toss |  
 | bip_39_word_space_9 | jelly moment limb doctor addict gasp among toss satoshi |  
+| bip_39_word_underscore_1 | jelly |  
+| bip_39_word_underscore_10 | jelly_moment_limb_doctor_addict_gasp_among_toss_satoshi_hammer |  
+| bip_39_word_underscore_11 | jelly_moment_limb_doctor_addict_gasp_among_toss_satoshi_hammer_ramp |  
+| bip_39_word_underscore_12 | jelly_moment_limb_doctor_addict_gasp_among_toss_satoshi_hammer_ramp_attend |  
+| bip_39_word_underscore_2 | jelly_moment |  
+| bip_39_word_underscore_3 | jelly_moment_limb |  
+| bip_39_word_underscore_4 | jelly_moment_limb_doctor |  
+| bip_39_word_underscore_5 | jelly_moment_limb_doctor_addict |  
+| bip_39_word_underscore_6 | jelly_moment_limb_doctor_addict_gasp |  
+| bip_39_word_underscore_7 | jelly_moment_limb_doctor_addict_gasp_among |  
+| bip_39_word_underscore_8 | jelly_moment_limb_doctor_addict_gasp_among_toss |  
+| bip_39_word_underscore_9 | jelly_moment_limb_doctor_addict_gasp_among_toss_satoshi |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: couple
+bip_39_word_dash_10: couple-frog-worry-combine-blade-pride-skull-close-ready-fit
+bip_39_word_dash_11: couple-frog-worry-combine-blade-pride-skull-close-ready-fit-much
+bip_39_word_dash_12: couple-frog-worry-combine-blade-pride-skull-close-ready-fit-much-annual
+bip_39_word_dash_2: couple-frog
+bip_39_word_dash_3: couple-frog-worry
+bip_39_word_dash_4: couple-frog-worry-combine
+bip_39_word_dash_5: couple-frog-worry-combine-blade
+bip_39_word_dash_6: couple-frog-worry-combine-blade-pride
+bip_39_word_dash_7: couple-frog-worry-combine-blade-pride-skull
+bip_39_word_dash_8: couple-frog-worry-combine-blade-pride-skull-close
+bip_39_word_dash_9: couple-frog-worry-combine-blade-pride-skull-close-ready
 bip_39_word_new_br_1: couple
 bip_39_word_new_br_10: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close<br>ready<br>fit
 bip_39_word_new_br_11: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close<br>ready<br>fit<br>much
@@ -193,6 +205,18 @@ bip_39_word_space_6: couple frog worry combine blade pride
 bip_39_word_space_7: couple frog worry combine blade pride skull
 bip_39_word_space_8: couple frog worry combine blade pride skull close
 bip_39_word_space_9: couple frog worry combine blade pride skull close ready
+bip_39_word_underscore_1: couple
+bip_39_word_underscore_10: couple_frog_worry_combine_blade_pride_skull_close_ready_fit
+bip_39_word_underscore_11: couple_frog_worry_combine_blade_pride_skull_close_ready_fit_much
+bip_39_word_underscore_12: couple_frog_worry_combine_blade_pride_skull_close_ready_fit_much_annual
+bip_39_word_underscore_2: couple_frog
+bip_39_word_underscore_3: couple_frog_worry
+bip_39_word_underscore_4: couple_frog_worry_combine
+bip_39_word_underscore_5: couple_frog_worry_combine_blade
+bip_39_word_underscore_6: couple_frog_worry_combine_blade_pride
+bip_39_word_underscore_7: couple_frog_worry_combine_blade_pride_skull
+bip_39_word_underscore_8: couple_frog_worry_combine_blade_pride_skull_close
+bip_39_word_underscore_9: couple_frog_worry_combine_blade_pride_skull_close_ready
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

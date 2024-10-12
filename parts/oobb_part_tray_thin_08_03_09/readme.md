@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boat |  
+| bip_39_word_dash_10 | boat-faculty-shine-flight-brick-hint-bind-grocery-cause-wing |  
+| bip_39_word_dash_11 | boat-faculty-shine-flight-brick-hint-bind-grocery-cause-wing-dove |  
+| bip_39_word_dash_12 | boat-faculty-shine-flight-brick-hint-bind-grocery-cause-wing-dove-approve |  
+| bip_39_word_dash_2 | boat-faculty |  
+| bip_39_word_dash_3 | boat-faculty-shine |  
+| bip_39_word_dash_4 | boat-faculty-shine-flight |  
+| bip_39_word_dash_5 | boat-faculty-shine-flight-brick |  
+| bip_39_word_dash_6 | boat-faculty-shine-flight-brick-hint |  
+| bip_39_word_dash_7 | boat-faculty-shine-flight-brick-hint-bind |  
+| bip_39_word_dash_8 | boat-faculty-shine-flight-brick-hint-bind-grocery |  
+| bip_39_word_dash_9 | boat-faculty-shine-flight-brick-hint-bind-grocery-cause |  
 | bip_39_word_new_br_1 | boat |  
 | bip_39_word_new_br_10 | boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery<br>cause<br>wing |  
 | bip_39_word_new_br_11 | boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery<br>cause<br>wing<br>dove |  
@@ -147,6 +159,18 @@ cause |
 | bip_39_word_space_7 | boat faculty shine flight brick hint bind |  
 | bip_39_word_space_8 | boat faculty shine flight brick hint bind grocery |  
 | bip_39_word_space_9 | boat faculty shine flight brick hint bind grocery cause |  
+| bip_39_word_underscore_1 | boat |  
+| bip_39_word_underscore_10 | boat_faculty_shine_flight_brick_hint_bind_grocery_cause_wing |  
+| bip_39_word_underscore_11 | boat_faculty_shine_flight_brick_hint_bind_grocery_cause_wing_dove |  
+| bip_39_word_underscore_12 | boat_faculty_shine_flight_brick_hint_bind_grocery_cause_wing_dove_approve |  
+| bip_39_word_underscore_2 | boat_faculty |  
+| bip_39_word_underscore_3 | boat_faculty_shine |  
+| bip_39_word_underscore_4 | boat_faculty_shine_flight |  
+| bip_39_word_underscore_5 | boat_faculty_shine_flight_brick |  
+| bip_39_word_underscore_6 | boat_faculty_shine_flight_brick_hint |  
+| bip_39_word_underscore_7 | boat_faculty_shine_flight_brick_hint_bind |  
+| bip_39_word_underscore_8 | boat_faculty_shine_flight_brick_hint_bind_grocery |  
+| bip_39_word_underscore_9 | boat_faculty_shine_flight_brick_hint_bind_grocery_cause |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

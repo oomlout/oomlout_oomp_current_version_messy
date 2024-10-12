@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | celery |  
+| bip_39_word_dash_10 | celery-merit-same-boil-frown-library-regular-creek-snake-reopen |  
+| bip_39_word_dash_11 | celery-merit-same-boil-frown-library-regular-creek-snake-reopen-width |  
+| bip_39_word_dash_12 | celery-merit-same-boil-frown-library-regular-creek-snake-reopen-width-above |  
+| bip_39_word_dash_2 | celery-merit |  
+| bip_39_word_dash_3 | celery-merit-same |  
+| bip_39_word_dash_4 | celery-merit-same-boil |  
+| bip_39_word_dash_5 | celery-merit-same-boil-frown |  
+| bip_39_word_dash_6 | celery-merit-same-boil-frown-library |  
+| bip_39_word_dash_7 | celery-merit-same-boil-frown-library-regular |  
+| bip_39_word_dash_8 | celery-merit-same-boil-frown-library-regular-creek |  
+| bip_39_word_dash_9 | celery-merit-same-boil-frown-library-regular-creek-snake |  
 | bip_39_word_new_br_1 | celery |  
 | bip_39_word_new_br_10 | celery<br>merit<br>same<br>boil<br>frown<br>library<br>regular<br>creek<br>snake<br>reopen |  
 | bip_39_word_new_br_11 | celery<br>merit<br>same<br>boil<br>frown<br>library<br>regular<br>creek<br>snake<br>reopen<br>width |  
@@ -147,6 +159,18 @@ snake |
 | bip_39_word_space_7 | celery merit same boil frown library regular |  
 | bip_39_word_space_8 | celery merit same boil frown library regular creek |  
 | bip_39_word_space_9 | celery merit same boil frown library regular creek snake |  
+| bip_39_word_underscore_1 | celery |  
+| bip_39_word_underscore_10 | celery_merit_same_boil_frown_library_regular_creek_snake_reopen |  
+| bip_39_word_underscore_11 | celery_merit_same_boil_frown_library_regular_creek_snake_reopen_width |  
+| bip_39_word_underscore_12 | celery_merit_same_boil_frown_library_regular_creek_snake_reopen_width_above |  
+| bip_39_word_underscore_2 | celery_merit |  
+| bip_39_word_underscore_3 | celery_merit_same |  
+| bip_39_word_underscore_4 | celery_merit_same_boil |  
+| bip_39_word_underscore_5 | celery_merit_same_boil_frown |  
+| bip_39_word_underscore_6 | celery_merit_same_boil_frown_library |  
+| bip_39_word_underscore_7 | celery_merit_same_boil_frown_library_regular |  
+| bip_39_word_underscore_8 | celery_merit_same_boil_frown_library_regular_creek |  
+| bip_39_word_underscore_9 | celery_merit_same_boil_frown_library_regular_creek_snake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

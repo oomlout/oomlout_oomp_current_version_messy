@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | audit |  
+| bip_39_word_dash_10 | audit-pole-soccer-broken-wet-era-blur-shift-sphere-dream |  
+| bip_39_word_dash_11 | audit-pole-soccer-broken-wet-era-blur-shift-sphere-dream-entire |  
+| bip_39_word_dash_12 | audit-pole-soccer-broken-wet-era-blur-shift-sphere-dream-entire-august |  
+| bip_39_word_dash_2 | audit-pole |  
+| bip_39_word_dash_3 | audit-pole-soccer |  
+| bip_39_word_dash_4 | audit-pole-soccer-broken |  
+| bip_39_word_dash_5 | audit-pole-soccer-broken-wet |  
+| bip_39_word_dash_6 | audit-pole-soccer-broken-wet-era |  
+| bip_39_word_dash_7 | audit-pole-soccer-broken-wet-era-blur |  
+| bip_39_word_dash_8 | audit-pole-soccer-broken-wet-era-blur-shift |  
+| bip_39_word_dash_9 | audit-pole-soccer-broken-wet-era-blur-shift-sphere |  
 | bip_39_word_new_br_1 | audit |  
 | bip_39_word_new_br_10 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream |  
 | bip_39_word_new_br_11 | audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream<br>entire |  
@@ -147,6 +159,18 @@ sphere |
 | bip_39_word_space_7 | audit pole soccer broken wet era blur |  
 | bip_39_word_space_8 | audit pole soccer broken wet era blur shift |  
 | bip_39_word_space_9 | audit pole soccer broken wet era blur shift sphere |  
+| bip_39_word_underscore_1 | audit |  
+| bip_39_word_underscore_10 | audit_pole_soccer_broken_wet_era_blur_shift_sphere_dream |  
+| bip_39_word_underscore_11 | audit_pole_soccer_broken_wet_era_blur_shift_sphere_dream_entire |  
+| bip_39_word_underscore_12 | audit_pole_soccer_broken_wet_era_blur_shift_sphere_dream_entire_august |  
+| bip_39_word_underscore_2 | audit_pole |  
+| bip_39_word_underscore_3 | audit_pole_soccer |  
+| bip_39_word_underscore_4 | audit_pole_soccer_broken |  
+| bip_39_word_underscore_5 | audit_pole_soccer_broken_wet |  
+| bip_39_word_underscore_6 | audit_pole_soccer_broken_wet_era |  
+| bip_39_word_underscore_7 | audit_pole_soccer_broken_wet_era_blur |  
+| bip_39_word_underscore_8 | audit_pole_soccer_broken_wet_era_blur_shift |  
+| bip_39_word_underscore_9 | audit_pole_soccer_broken_wet_era_blur_shift_sphere |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

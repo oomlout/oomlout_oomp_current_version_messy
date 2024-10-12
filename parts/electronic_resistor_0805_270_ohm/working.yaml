@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blush
+bip_39_word_dash_10: blush-real-rail-patient-wing-job-leopard-divert-battle-thumb
+bip_39_word_dash_11: blush-real-rail-patient-wing-job-leopard-divert-battle-thumb-throw
+bip_39_word_dash_12: blush-real-rail-patient-wing-job-leopard-divert-battle-thumb-throw-aunt
+bip_39_word_dash_2: blush-real
+bip_39_word_dash_3: blush-real-rail
+bip_39_word_dash_4: blush-real-rail-patient
+bip_39_word_dash_5: blush-real-rail-patient-wing
+bip_39_word_dash_6: blush-real-rail-patient-wing-job
+bip_39_word_dash_7: blush-real-rail-patient-wing-job-leopard
+bip_39_word_dash_8: blush-real-rail-patient-wing-job-leopard-divert
+bip_39_word_dash_9: blush-real-rail-patient-wing-job-leopard-divert-battle
 bip_39_word_new_br_1: blush
 bip_39_word_new_br_10: blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb
 bip_39_word_new_br_11: blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb<br>throw
@@ -193,6 +205,18 @@ bip_39_word_space_6: blush real rail patient wing job
 bip_39_word_space_7: blush real rail patient wing job leopard
 bip_39_word_space_8: blush real rail patient wing job leopard divert
 bip_39_word_space_9: blush real rail patient wing job leopard divert battle
+bip_39_word_underscore_1: blush
+bip_39_word_underscore_10: blush_real_rail_patient_wing_job_leopard_divert_battle_thumb
+bip_39_word_underscore_11: blush_real_rail_patient_wing_job_leopard_divert_battle_thumb_throw
+bip_39_word_underscore_12: blush_real_rail_patient_wing_job_leopard_divert_battle_thumb_throw_aunt
+bip_39_word_underscore_2: blush_real
+bip_39_word_underscore_3: blush_real_rail
+bip_39_word_underscore_4: blush_real_rail_patient
+bip_39_word_underscore_5: blush_real_rail_patient_wing
+bip_39_word_underscore_6: blush_real_rail_patient_wing_job
+bip_39_word_underscore_7: blush_real_rail_patient_wing_job_leopard
+bip_39_word_underscore_8: blush_real_rail_patient_wing_job_leopard_divert
+bip_39_word_underscore_9: blush_real_rail_patient_wing_job_leopard_divert_battle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

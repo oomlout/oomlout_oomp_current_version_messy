@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | degree |  
+| bip_39_word_dash_10 | degree-glare-decline-spider-version-pencil-chronic-okay-speak-labor |  
+| bip_39_word_dash_11 | degree-glare-decline-spider-version-pencil-chronic-okay-speak-labor-acid |  
+| bip_39_word_dash_12 | degree-glare-decline-spider-version-pencil-chronic-okay-speak-labor-acid-autumn |  
+| bip_39_word_dash_2 | degree-glare |  
+| bip_39_word_dash_3 | degree-glare-decline |  
+| bip_39_word_dash_4 | degree-glare-decline-spider |  
+| bip_39_word_dash_5 | degree-glare-decline-spider-version |  
+| bip_39_word_dash_6 | degree-glare-decline-spider-version-pencil |  
+| bip_39_word_dash_7 | degree-glare-decline-spider-version-pencil-chronic |  
+| bip_39_word_dash_8 | degree-glare-decline-spider-version-pencil-chronic-okay |  
+| bip_39_word_dash_9 | degree-glare-decline-spider-version-pencil-chronic-okay-speak |  
 | bip_39_word_new_br_1 | degree |  
 | bip_39_word_new_br_10 | degree<br>glare<br>decline<br>spider<br>version<br>pencil<br>chronic<br>okay<br>speak<br>labor |  
 | bip_39_word_new_br_11 | degree<br>glare<br>decline<br>spider<br>version<br>pencil<br>chronic<br>okay<br>speak<br>labor<br>acid |  
@@ -147,6 +159,18 @@ speak |
 | bip_39_word_space_7 | degree glare decline spider version pencil chronic |  
 | bip_39_word_space_8 | degree glare decline spider version pencil chronic okay |  
 | bip_39_word_space_9 | degree glare decline spider version pencil chronic okay speak |  
+| bip_39_word_underscore_1 | degree |  
+| bip_39_word_underscore_10 | degree_glare_decline_spider_version_pencil_chronic_okay_speak_labor |  
+| bip_39_word_underscore_11 | degree_glare_decline_spider_version_pencil_chronic_okay_speak_labor_acid |  
+| bip_39_word_underscore_12 | degree_glare_decline_spider_version_pencil_chronic_okay_speak_labor_acid_autumn |  
+| bip_39_word_underscore_2 | degree_glare |  
+| bip_39_word_underscore_3 | degree_glare_decline |  
+| bip_39_word_underscore_4 | degree_glare_decline_spider |  
+| bip_39_word_underscore_5 | degree_glare_decline_spider_version |  
+| bip_39_word_underscore_6 | degree_glare_decline_spider_version_pencil |  
+| bip_39_word_underscore_7 | degree_glare_decline_spider_version_pencil_chronic |  
+| bip_39_word_underscore_8 | degree_glare_decline_spider_version_pencil_chronic_okay |  
+| bip_39_word_underscore_9 | degree_glare_decline_spider_version_pencil_chronic_okay_speak |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

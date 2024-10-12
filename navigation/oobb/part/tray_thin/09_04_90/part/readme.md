@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | float |  
+| bip_39_word_dash_10 | float-rain-miracle-labor-portion-allow-surround-minor-success-crumble |  
+| bip_39_word_dash_11 | float-rain-miracle-labor-portion-allow-surround-minor-success-crumble-little |  
+| bip_39_word_dash_12 | float-rain-miracle-labor-portion-allow-surround-minor-success-crumble-little-antique |  
+| bip_39_word_dash_2 | float-rain |  
+| bip_39_word_dash_3 | float-rain-miracle |  
+| bip_39_word_dash_4 | float-rain-miracle-labor |  
+| bip_39_word_dash_5 | float-rain-miracle-labor-portion |  
+| bip_39_word_dash_6 | float-rain-miracle-labor-portion-allow |  
+| bip_39_word_dash_7 | float-rain-miracle-labor-portion-allow-surround |  
+| bip_39_word_dash_8 | float-rain-miracle-labor-portion-allow-surround-minor |  
+| bip_39_word_dash_9 | float-rain-miracle-labor-portion-allow-surround-minor-success |  
 | bip_39_word_new_br_1 | float |  
 | bip_39_word_new_br_10 | float<br>rain<br>miracle<br>labor<br>portion<br>allow<br>surround<br>minor<br>success<br>crumble |  
 | bip_39_word_new_br_11 | float<br>rain<br>miracle<br>labor<br>portion<br>allow<br>surround<br>minor<br>success<br>crumble<br>little |  
@@ -147,6 +159,18 @@ success |
 | bip_39_word_space_7 | float rain miracle labor portion allow surround |  
 | bip_39_word_space_8 | float rain miracle labor portion allow surround minor |  
 | bip_39_word_space_9 | float rain miracle labor portion allow surround minor success |  
+| bip_39_word_underscore_1 | float |  
+| bip_39_word_underscore_10 | float_rain_miracle_labor_portion_allow_surround_minor_success_crumble |  
+| bip_39_word_underscore_11 | float_rain_miracle_labor_portion_allow_surround_minor_success_crumble_little |  
+| bip_39_word_underscore_12 | float_rain_miracle_labor_portion_allow_surround_minor_success_crumble_little_antique |  
+| bip_39_word_underscore_2 | float_rain |  
+| bip_39_word_underscore_3 | float_rain_miracle |  
+| bip_39_word_underscore_4 | float_rain_miracle_labor |  
+| bip_39_word_underscore_5 | float_rain_miracle_labor_portion |  
+| bip_39_word_underscore_6 | float_rain_miracle_labor_portion_allow |  
+| bip_39_word_underscore_7 | float_rain_miracle_labor_portion_allow_surround |  
+| bip_39_word_underscore_8 | float_rain_miracle_labor_portion_allow_surround_minor |  
+| bip_39_word_underscore_9 | float_rain_miracle_labor_portion_allow_surround_minor_success |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

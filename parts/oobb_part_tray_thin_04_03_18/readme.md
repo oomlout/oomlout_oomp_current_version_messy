@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sample |  
+| bip_39_word_dash_10 | sample-assault-various-dad-crush-gather-lawsuit-express-mom-bacon |  
+| bip_39_word_dash_11 | sample-assault-various-dad-crush-gather-lawsuit-express-mom-bacon-empty |  
+| bip_39_word_dash_12 | sample-assault-various-dad-crush-gather-lawsuit-express-mom-bacon-empty-attract |  
+| bip_39_word_dash_2 | sample-assault |  
+| bip_39_word_dash_3 | sample-assault-various |  
+| bip_39_word_dash_4 | sample-assault-various-dad |  
+| bip_39_word_dash_5 | sample-assault-various-dad-crush |  
+| bip_39_word_dash_6 | sample-assault-various-dad-crush-gather |  
+| bip_39_word_dash_7 | sample-assault-various-dad-crush-gather-lawsuit |  
+| bip_39_word_dash_8 | sample-assault-various-dad-crush-gather-lawsuit-express |  
+| bip_39_word_dash_9 | sample-assault-various-dad-crush-gather-lawsuit-express-mom |  
 | bip_39_word_new_br_1 | sample |  
 | bip_39_word_new_br_10 | sample<br>assault<br>various<br>dad<br>crush<br>gather<br>lawsuit<br>express<br>mom<br>bacon |  
 | bip_39_word_new_br_11 | sample<br>assault<br>various<br>dad<br>crush<br>gather<br>lawsuit<br>express<br>mom<br>bacon<br>empty |  
@@ -147,6 +159,18 @@ mom |
 | bip_39_word_space_7 | sample assault various dad crush gather lawsuit |  
 | bip_39_word_space_8 | sample assault various dad crush gather lawsuit express |  
 | bip_39_word_space_9 | sample assault various dad crush gather lawsuit express mom |  
+| bip_39_word_underscore_1 | sample |  
+| bip_39_word_underscore_10 | sample_assault_various_dad_crush_gather_lawsuit_express_mom_bacon |  
+| bip_39_word_underscore_11 | sample_assault_various_dad_crush_gather_lawsuit_express_mom_bacon_empty |  
+| bip_39_word_underscore_12 | sample_assault_various_dad_crush_gather_lawsuit_express_mom_bacon_empty_attract |  
+| bip_39_word_underscore_2 | sample_assault |  
+| bip_39_word_underscore_3 | sample_assault_various |  
+| bip_39_word_underscore_4 | sample_assault_various_dad |  
+| bip_39_word_underscore_5 | sample_assault_various_dad_crush |  
+| bip_39_word_underscore_6 | sample_assault_various_dad_crush_gather |  
+| bip_39_word_underscore_7 | sample_assault_various_dad_crush_gather_lawsuit |  
+| bip_39_word_underscore_8 | sample_assault_various_dad_crush_gather_lawsuit_express |  
+| bip_39_word_underscore_9 | sample_assault_various_dad_crush_gather_lawsuit_express_mom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

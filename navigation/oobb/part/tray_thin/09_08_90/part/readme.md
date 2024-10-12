@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thrive |  
+| bip_39_word_dash_10 | thrive-genuine-dash-exchange-invite-gasp-dinner-defy-hair-expire |  
+| bip_39_word_dash_11 | thrive-genuine-dash-exchange-invite-gasp-dinner-defy-hair-expire-client |  
+| bip_39_word_dash_12 | thrive-genuine-dash-exchange-invite-gasp-dinner-defy-hair-expire-client-alpha |  
+| bip_39_word_dash_2 | thrive-genuine |  
+| bip_39_word_dash_3 | thrive-genuine-dash |  
+| bip_39_word_dash_4 | thrive-genuine-dash-exchange |  
+| bip_39_word_dash_5 | thrive-genuine-dash-exchange-invite |  
+| bip_39_word_dash_6 | thrive-genuine-dash-exchange-invite-gasp |  
+| bip_39_word_dash_7 | thrive-genuine-dash-exchange-invite-gasp-dinner |  
+| bip_39_word_dash_8 | thrive-genuine-dash-exchange-invite-gasp-dinner-defy |  
+| bip_39_word_dash_9 | thrive-genuine-dash-exchange-invite-gasp-dinner-defy-hair |  
 | bip_39_word_new_br_1 | thrive |  
 | bip_39_word_new_br_10 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire |  
 | bip_39_word_new_br_11 | thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client |  
@@ -147,6 +159,18 @@ hair |
 | bip_39_word_space_7 | thrive genuine dash exchange invite gasp dinner |  
 | bip_39_word_space_8 | thrive genuine dash exchange invite gasp dinner defy |  
 | bip_39_word_space_9 | thrive genuine dash exchange invite gasp dinner defy hair |  
+| bip_39_word_underscore_1 | thrive |  
+| bip_39_word_underscore_10 | thrive_genuine_dash_exchange_invite_gasp_dinner_defy_hair_expire |  
+| bip_39_word_underscore_11 | thrive_genuine_dash_exchange_invite_gasp_dinner_defy_hair_expire_client |  
+| bip_39_word_underscore_12 | thrive_genuine_dash_exchange_invite_gasp_dinner_defy_hair_expire_client_alpha |  
+| bip_39_word_underscore_2 | thrive_genuine |  
+| bip_39_word_underscore_3 | thrive_genuine_dash |  
+| bip_39_word_underscore_4 | thrive_genuine_dash_exchange |  
+| bip_39_word_underscore_5 | thrive_genuine_dash_exchange_invite |  
+| bip_39_word_underscore_6 | thrive_genuine_dash_exchange_invite_gasp |  
+| bip_39_word_underscore_7 | thrive_genuine_dash_exchange_invite_gasp_dinner |  
+| bip_39_word_underscore_8 | thrive_genuine_dash_exchange_invite_gasp_dinner_defy |  
+| bip_39_word_underscore_9 | thrive_genuine_dash_exchange_invite_gasp_dinner_defy_hair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

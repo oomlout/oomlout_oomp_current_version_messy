@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quit |  
+| bip_39_word_dash_10 | quit-cycle-estate-dove-canoe-math-dwarf-plug-robot-permit |  
+| bip_39_word_dash_11 | quit-cycle-estate-dove-canoe-math-dwarf-plug-robot-permit-horror |  
+| bip_39_word_dash_12 | quit-cycle-estate-dove-canoe-math-dwarf-plug-robot-permit-horror-always |  
+| bip_39_word_dash_2 | quit-cycle |  
+| bip_39_word_dash_3 | quit-cycle-estate |  
+| bip_39_word_dash_4 | quit-cycle-estate-dove |  
+| bip_39_word_dash_5 | quit-cycle-estate-dove-canoe |  
+| bip_39_word_dash_6 | quit-cycle-estate-dove-canoe-math |  
+| bip_39_word_dash_7 | quit-cycle-estate-dove-canoe-math-dwarf |  
+| bip_39_word_dash_8 | quit-cycle-estate-dove-canoe-math-dwarf-plug |  
+| bip_39_word_dash_9 | quit-cycle-estate-dove-canoe-math-dwarf-plug-robot |  
 | bip_39_word_new_br_1 | quit |  
 | bip_39_word_new_br_10 | quit<br>cycle<br>estate<br>dove<br>canoe<br>math<br>dwarf<br>plug<br>robot<br>permit |  
 | bip_39_word_new_br_11 | quit<br>cycle<br>estate<br>dove<br>canoe<br>math<br>dwarf<br>plug<br>robot<br>permit<br>horror |  
@@ -147,6 +159,18 @@ robot |
 | bip_39_word_space_7 | quit cycle estate dove canoe math dwarf |  
 | bip_39_word_space_8 | quit cycle estate dove canoe math dwarf plug |  
 | bip_39_word_space_9 | quit cycle estate dove canoe math dwarf plug robot |  
+| bip_39_word_underscore_1 | quit |  
+| bip_39_word_underscore_10 | quit_cycle_estate_dove_canoe_math_dwarf_plug_robot_permit |  
+| bip_39_word_underscore_11 | quit_cycle_estate_dove_canoe_math_dwarf_plug_robot_permit_horror |  
+| bip_39_word_underscore_12 | quit_cycle_estate_dove_canoe_math_dwarf_plug_robot_permit_horror_always |  
+| bip_39_word_underscore_2 | quit_cycle |  
+| bip_39_word_underscore_3 | quit_cycle_estate |  
+| bip_39_word_underscore_4 | quit_cycle_estate_dove |  
+| bip_39_word_underscore_5 | quit_cycle_estate_dove_canoe |  
+| bip_39_word_underscore_6 | quit_cycle_estate_dove_canoe_math |  
+| bip_39_word_underscore_7 | quit_cycle_estate_dove_canoe_math_dwarf |  
+| bip_39_word_underscore_8 | quit_cycle_estate_dove_canoe_math_dwarf_plug |  
+| bip_39_word_underscore_9 | quit_cycle_estate_dove_canoe_math_dwarf_plug_robot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

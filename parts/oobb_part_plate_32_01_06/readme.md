@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | artefact |  
+| bip_39_word_dash_10 | artefact-disease-question-cigar-hero-project-cause-grain-draft-ugly |  
+| bip_39_word_dash_11 | artefact-disease-question-cigar-hero-project-cause-grain-draft-ugly-apart |  
+| bip_39_word_dash_12 | artefact-disease-question-cigar-hero-project-cause-grain-draft-ugly-apart-advance |  
+| bip_39_word_dash_2 | artefact-disease |  
+| bip_39_word_dash_3 | artefact-disease-question |  
+| bip_39_word_dash_4 | artefact-disease-question-cigar |  
+| bip_39_word_dash_5 | artefact-disease-question-cigar-hero |  
+| bip_39_word_dash_6 | artefact-disease-question-cigar-hero-project |  
+| bip_39_word_dash_7 | artefact-disease-question-cigar-hero-project-cause |  
+| bip_39_word_dash_8 | artefact-disease-question-cigar-hero-project-cause-grain |  
+| bip_39_word_dash_9 | artefact-disease-question-cigar-hero-project-cause-grain-draft |  
 | bip_39_word_new_br_1 | artefact |  
 | bip_39_word_new_br_10 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly |  
 | bip_39_word_new_br_11 | artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly<br>apart |  
@@ -147,6 +159,18 @@ draft |
 | bip_39_word_space_7 | artefact disease question cigar hero project cause |  
 | bip_39_word_space_8 | artefact disease question cigar hero project cause grain |  
 | bip_39_word_space_9 | artefact disease question cigar hero project cause grain draft |  
+| bip_39_word_underscore_1 | artefact |  
+| bip_39_word_underscore_10 | artefact_disease_question_cigar_hero_project_cause_grain_draft_ugly |  
+| bip_39_word_underscore_11 | artefact_disease_question_cigar_hero_project_cause_grain_draft_ugly_apart |  
+| bip_39_word_underscore_12 | artefact_disease_question_cigar_hero_project_cause_grain_draft_ugly_apart_advance |  
+| bip_39_word_underscore_2 | artefact_disease |  
+| bip_39_word_underscore_3 | artefact_disease_question |  
+| bip_39_word_underscore_4 | artefact_disease_question_cigar |  
+| bip_39_word_underscore_5 | artefact_disease_question_cigar_hero |  
+| bip_39_word_underscore_6 | artefact_disease_question_cigar_hero_project |  
+| bip_39_word_underscore_7 | artefact_disease_question_cigar_hero_project_cause |  
+| bip_39_word_underscore_8 | artefact_disease_question_cigar_hero_project_cause_grain |  
+| bip_39_word_underscore_9 | artefact_disease_question_cigar_hero_project_cause_grain_draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

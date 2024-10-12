@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dynamic |  
+| bip_39_word_dash_10 | dynamic-wagon-inflict-safe-proof-drill-aerobic-heart-ginger-egg |  
+| bip_39_word_dash_11 | dynamic-wagon-inflict-safe-proof-drill-aerobic-heart-ginger-egg-bachelor |  
+| bip_39_word_dash_12 | dynamic-wagon-inflict-safe-proof-drill-aerobic-heart-ginger-egg-bachelor-across |  
+| bip_39_word_dash_2 | dynamic-wagon |  
+| bip_39_word_dash_3 | dynamic-wagon-inflict |  
+| bip_39_word_dash_4 | dynamic-wagon-inflict-safe |  
+| bip_39_word_dash_5 | dynamic-wagon-inflict-safe-proof |  
+| bip_39_word_dash_6 | dynamic-wagon-inflict-safe-proof-drill |  
+| bip_39_word_dash_7 | dynamic-wagon-inflict-safe-proof-drill-aerobic |  
+| bip_39_word_dash_8 | dynamic-wagon-inflict-safe-proof-drill-aerobic-heart |  
+| bip_39_word_dash_9 | dynamic-wagon-inflict-safe-proof-drill-aerobic-heart-ginger |  
 | bip_39_word_new_br_1 | dynamic |  
 | bip_39_word_new_br_10 | dynamic<br>wagon<br>inflict<br>safe<br>proof<br>drill<br>aerobic<br>heart<br>ginger<br>egg |  
 | bip_39_word_new_br_11 | dynamic<br>wagon<br>inflict<br>safe<br>proof<br>drill<br>aerobic<br>heart<br>ginger<br>egg<br>bachelor |  
@@ -147,6 +159,18 @@ ginger |
 | bip_39_word_space_7 | dynamic wagon inflict safe proof drill aerobic |  
 | bip_39_word_space_8 | dynamic wagon inflict safe proof drill aerobic heart |  
 | bip_39_word_space_9 | dynamic wagon inflict safe proof drill aerobic heart ginger |  
+| bip_39_word_underscore_1 | dynamic |  
+| bip_39_word_underscore_10 | dynamic_wagon_inflict_safe_proof_drill_aerobic_heart_ginger_egg |  
+| bip_39_word_underscore_11 | dynamic_wagon_inflict_safe_proof_drill_aerobic_heart_ginger_egg_bachelor |  
+| bip_39_word_underscore_12 | dynamic_wagon_inflict_safe_proof_drill_aerobic_heart_ginger_egg_bachelor_across |  
+| bip_39_word_underscore_2 | dynamic_wagon |  
+| bip_39_word_underscore_3 | dynamic_wagon_inflict |  
+| bip_39_word_underscore_4 | dynamic_wagon_inflict_safe |  
+| bip_39_word_underscore_5 | dynamic_wagon_inflict_safe_proof |  
+| bip_39_word_underscore_6 | dynamic_wagon_inflict_safe_proof_drill |  
+| bip_39_word_underscore_7 | dynamic_wagon_inflict_safe_proof_drill_aerobic |  
+| bip_39_word_underscore_8 | dynamic_wagon_inflict_safe_proof_drill_aerobic_heart |  
+| bip_39_word_underscore_9 | dynamic_wagon_inflict_safe_proof_drill_aerobic_heart_ginger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

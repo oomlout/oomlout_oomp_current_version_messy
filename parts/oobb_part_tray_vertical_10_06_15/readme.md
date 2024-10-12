@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | true |  
+| bip_39_word_dash_10 | true-sing-pass-category-ocean-matter-luxury-nothing-ribbon-random |  
+| bip_39_word_dash_11 | true-sing-pass-category-ocean-matter-luxury-nothing-ribbon-random-visa |  
+| bip_39_word_dash_12 | true-sing-pass-category-ocean-matter-luxury-nothing-ribbon-random-visa-announce |  
+| bip_39_word_dash_2 | true-sing |  
+| bip_39_word_dash_3 | true-sing-pass |  
+| bip_39_word_dash_4 | true-sing-pass-category |  
+| bip_39_word_dash_5 | true-sing-pass-category-ocean |  
+| bip_39_word_dash_6 | true-sing-pass-category-ocean-matter |  
+| bip_39_word_dash_7 | true-sing-pass-category-ocean-matter-luxury |  
+| bip_39_word_dash_8 | true-sing-pass-category-ocean-matter-luxury-nothing |  
+| bip_39_word_dash_9 | true-sing-pass-category-ocean-matter-luxury-nothing-ribbon |  
 | bip_39_word_new_br_1 | true |  
 | bip_39_word_new_br_10 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing<br>ribbon<br>random |  
 | bip_39_word_new_br_11 | true<br>sing<br>pass<br>category<br>ocean<br>matter<br>luxury<br>nothing<br>ribbon<br>random<br>visa |  
@@ -147,6 +159,18 @@ ribbon |
 | bip_39_word_space_7 | true sing pass category ocean matter luxury |  
 | bip_39_word_space_8 | true sing pass category ocean matter luxury nothing |  
 | bip_39_word_space_9 | true sing pass category ocean matter luxury nothing ribbon |  
+| bip_39_word_underscore_1 | true |  
+| bip_39_word_underscore_10 | true_sing_pass_category_ocean_matter_luxury_nothing_ribbon_random |  
+| bip_39_word_underscore_11 | true_sing_pass_category_ocean_matter_luxury_nothing_ribbon_random_visa |  
+| bip_39_word_underscore_12 | true_sing_pass_category_ocean_matter_luxury_nothing_ribbon_random_visa_announce |  
+| bip_39_word_underscore_2 | true_sing |  
+| bip_39_word_underscore_3 | true_sing_pass |  
+| bip_39_word_underscore_4 | true_sing_pass_category |  
+| bip_39_word_underscore_5 | true_sing_pass_category_ocean |  
+| bip_39_word_underscore_6 | true_sing_pass_category_ocean_matter |  
+| bip_39_word_underscore_7 | true_sing_pass_category_ocean_matter_luxury |  
+| bip_39_word_underscore_8 | true_sing_pass_category_ocean_matter_luxury_nothing |  
+| bip_39_word_underscore_9 | true_sing_pass_category_ocean_matter_luxury_nothing_ribbon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

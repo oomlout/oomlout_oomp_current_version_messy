@@ -1,3 +1,15 @@
+bip_39_word_dash_1: corn
+bip_39_word_dash_10: corn-verify-marriage-stock-matrix-connect-emotion-stuff-damage-regular
+bip_39_word_dash_11: corn-verify-marriage-stock-matrix-connect-emotion-stuff-damage-regular-math
+bip_39_word_dash_12: corn-verify-marriage-stock-matrix-connect-emotion-stuff-damage-regular-math-average
+bip_39_word_dash_2: corn-verify
+bip_39_word_dash_3: corn-verify-marriage
+bip_39_word_dash_4: corn-verify-marriage-stock
+bip_39_word_dash_5: corn-verify-marriage-stock-matrix
+bip_39_word_dash_6: corn-verify-marriage-stock-matrix-connect
+bip_39_word_dash_7: corn-verify-marriage-stock-matrix-connect-emotion
+bip_39_word_dash_8: corn-verify-marriage-stock-matrix-connect-emotion-stuff
+bip_39_word_dash_9: corn-verify-marriage-stock-matrix-connect-emotion-stuff-damage
 bip_39_word_new_br_1: corn
 bip_39_word_new_br_10: corn<br>verify<br>marriage<br>stock<br>matrix<br>connect<br>emotion<br>stuff<br>damage<br>regular
 bip_39_word_new_br_11: corn<br>verify<br>marriage<br>stock<br>matrix<br>connect<br>emotion<br>stuff<br>damage<br>regular<br>math
@@ -194,6 +206,18 @@ bip_39_word_space_6: corn verify marriage stock matrix connect
 bip_39_word_space_7: corn verify marriage stock matrix connect emotion
 bip_39_word_space_8: corn verify marriage stock matrix connect emotion stuff
 bip_39_word_space_9: corn verify marriage stock matrix connect emotion stuff damage
+bip_39_word_underscore_1: corn
+bip_39_word_underscore_10: corn_verify_marriage_stock_matrix_connect_emotion_stuff_damage_regular
+bip_39_word_underscore_11: corn_verify_marriage_stock_matrix_connect_emotion_stuff_damage_regular_math
+bip_39_word_underscore_12: corn_verify_marriage_stock_matrix_connect_emotion_stuff_damage_regular_math_average
+bip_39_word_underscore_2: corn_verify
+bip_39_word_underscore_3: corn_verify_marriage
+bip_39_word_underscore_4: corn_verify_marriage_stock
+bip_39_word_underscore_5: corn_verify_marriage_stock_matrix
+bip_39_word_underscore_6: corn_verify_marriage_stock_matrix_connect
+bip_39_word_underscore_7: corn_verify_marriage_stock_matrix_connect_emotion
+bip_39_word_underscore_8: corn_verify_marriage_stock_matrix_connect_emotion_stuff
+bip_39_word_underscore_9: corn_verify_marriage_stock_matrix_connect_emotion_stuff_damage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

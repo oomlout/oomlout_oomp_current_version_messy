@@ -1,3 +1,15 @@
+bip_39_word_dash_1: total
+bip_39_word_dash_10: total-stairs-pledge-fortune-direct-machine-merry-guard-what-stove
+bip_39_word_dash_11: total-stairs-pledge-fortune-direct-machine-merry-guard-what-stove-match
+bip_39_word_dash_12: total-stairs-pledge-fortune-direct-machine-merry-guard-what-stove-match-addict
+bip_39_word_dash_2: total-stairs
+bip_39_word_dash_3: total-stairs-pledge
+bip_39_word_dash_4: total-stairs-pledge-fortune
+bip_39_word_dash_5: total-stairs-pledge-fortune-direct
+bip_39_word_dash_6: total-stairs-pledge-fortune-direct-machine
+bip_39_word_dash_7: total-stairs-pledge-fortune-direct-machine-merry
+bip_39_word_dash_8: total-stairs-pledge-fortune-direct-machine-merry-guard
+bip_39_word_dash_9: total-stairs-pledge-fortune-direct-machine-merry-guard-what
 bip_39_word_new_br_1: total
 bip_39_word_new_br_10: total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard<br>what<br>stove
 bip_39_word_new_br_11: total<br>stairs<br>pledge<br>fortune<br>direct<br>machine<br>merry<br>guard<br>what<br>stove<br>match
@@ -194,6 +206,18 @@ bip_39_word_space_6: total stairs pledge fortune direct machine
 bip_39_word_space_7: total stairs pledge fortune direct machine merry
 bip_39_word_space_8: total stairs pledge fortune direct machine merry guard
 bip_39_word_space_9: total stairs pledge fortune direct machine merry guard what
+bip_39_word_underscore_1: total
+bip_39_word_underscore_10: total_stairs_pledge_fortune_direct_machine_merry_guard_what_stove
+bip_39_word_underscore_11: total_stairs_pledge_fortune_direct_machine_merry_guard_what_stove_match
+bip_39_word_underscore_12: total_stairs_pledge_fortune_direct_machine_merry_guard_what_stove_match_addict
+bip_39_word_underscore_2: total_stairs
+bip_39_word_underscore_3: total_stairs_pledge
+bip_39_word_underscore_4: total_stairs_pledge_fortune
+bip_39_word_underscore_5: total_stairs_pledge_fortune_direct
+bip_39_word_underscore_6: total_stairs_pledge_fortune_direct_machine
+bip_39_word_underscore_7: total_stairs_pledge_fortune_direct_machine_merry
+bip_39_word_underscore_8: total_stairs_pledge_fortune_direct_machine_merry_guard
+bip_39_word_underscore_9: total_stairs_pledge_fortune_direct_machine_merry_guard_what
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

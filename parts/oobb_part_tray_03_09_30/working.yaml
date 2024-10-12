@@ -1,3 +1,15 @@
+bip_39_word_dash_1: verify
+bip_39_word_dash_10: verify-piece-business-better-blouse-night-rib-bread-enforce-name
+bip_39_word_dash_11: verify-piece-business-better-blouse-night-rib-bread-enforce-name-index
+bip_39_word_dash_12: verify-piece-business-better-blouse-night-rib-bread-enforce-name-index-arrange
+bip_39_word_dash_2: verify-piece
+bip_39_word_dash_3: verify-piece-business
+bip_39_word_dash_4: verify-piece-business-better
+bip_39_word_dash_5: verify-piece-business-better-blouse
+bip_39_word_dash_6: verify-piece-business-better-blouse-night
+bip_39_word_dash_7: verify-piece-business-better-blouse-night-rib
+bip_39_word_dash_8: verify-piece-business-better-blouse-night-rib-bread
+bip_39_word_dash_9: verify-piece-business-better-blouse-night-rib-bread-enforce
 bip_39_word_new_br_1: verify
 bip_39_word_new_br_10: verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread<br>enforce<br>name
 bip_39_word_new_br_11: verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread<br>enforce<br>name<br>index
@@ -194,6 +206,18 @@ bip_39_word_space_6: verify piece business better blouse night
 bip_39_word_space_7: verify piece business better blouse night rib
 bip_39_word_space_8: verify piece business better blouse night rib bread
 bip_39_word_space_9: verify piece business better blouse night rib bread enforce
+bip_39_word_underscore_1: verify
+bip_39_word_underscore_10: verify_piece_business_better_blouse_night_rib_bread_enforce_name
+bip_39_word_underscore_11: verify_piece_business_better_blouse_night_rib_bread_enforce_name_index
+bip_39_word_underscore_12: verify_piece_business_better_blouse_night_rib_bread_enforce_name_index_arrange
+bip_39_word_underscore_2: verify_piece
+bip_39_word_underscore_3: verify_piece_business
+bip_39_word_underscore_4: verify_piece_business_better
+bip_39_word_underscore_5: verify_piece_business_better_blouse
+bip_39_word_underscore_6: verify_piece_business_better_blouse_night
+bip_39_word_underscore_7: verify_piece_business_better_blouse_night_rib
+bip_39_word_underscore_8: verify_piece_business_better_blouse_night_rib_bread
+bip_39_word_underscore_9: verify_piece_business_better_blouse_night_rib_bread_enforce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

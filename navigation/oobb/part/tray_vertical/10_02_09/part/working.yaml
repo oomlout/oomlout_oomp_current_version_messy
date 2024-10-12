@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gun
+bip_39_word_dash_10: gun-inmate-foam-hedgehog-coast-raccoon-camp-aspect-stadium-rival
+bip_39_word_dash_11: gun-inmate-foam-hedgehog-coast-raccoon-camp-aspect-stadium-rival-library
+bip_39_word_dash_12: gun-inmate-foam-hedgehog-coast-raccoon-camp-aspect-stadium-rival-library-accuse
+bip_39_word_dash_2: gun-inmate
+bip_39_word_dash_3: gun-inmate-foam
+bip_39_word_dash_4: gun-inmate-foam-hedgehog
+bip_39_word_dash_5: gun-inmate-foam-hedgehog-coast
+bip_39_word_dash_6: gun-inmate-foam-hedgehog-coast-raccoon
+bip_39_word_dash_7: gun-inmate-foam-hedgehog-coast-raccoon-camp
+bip_39_word_dash_8: gun-inmate-foam-hedgehog-coast-raccoon-camp-aspect
+bip_39_word_dash_9: gun-inmate-foam-hedgehog-coast-raccoon-camp-aspect-stadium
 bip_39_word_new_br_1: gun
 bip_39_word_new_br_10: gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect<br>stadium<br>rival
 bip_39_word_new_br_11: gun<br>inmate<br>foam<br>hedgehog<br>coast<br>raccoon<br>camp<br>aspect<br>stadium<br>rival<br>library
@@ -193,6 +205,18 @@ bip_39_word_space_6: gun inmate foam hedgehog coast raccoon
 bip_39_word_space_7: gun inmate foam hedgehog coast raccoon camp
 bip_39_word_space_8: gun inmate foam hedgehog coast raccoon camp aspect
 bip_39_word_space_9: gun inmate foam hedgehog coast raccoon camp aspect stadium
+bip_39_word_underscore_1: gun
+bip_39_word_underscore_10: gun_inmate_foam_hedgehog_coast_raccoon_camp_aspect_stadium_rival
+bip_39_word_underscore_11: gun_inmate_foam_hedgehog_coast_raccoon_camp_aspect_stadium_rival_library
+bip_39_word_underscore_12: gun_inmate_foam_hedgehog_coast_raccoon_camp_aspect_stadium_rival_library_accuse
+bip_39_word_underscore_2: gun_inmate
+bip_39_word_underscore_3: gun_inmate_foam
+bip_39_word_underscore_4: gun_inmate_foam_hedgehog
+bip_39_word_underscore_5: gun_inmate_foam_hedgehog_coast
+bip_39_word_underscore_6: gun_inmate_foam_hedgehog_coast_raccoon
+bip_39_word_underscore_7: gun_inmate_foam_hedgehog_coast_raccoon_camp
+bip_39_word_underscore_8: gun_inmate_foam_hedgehog_coast_raccoon_camp_aspect
+bip_39_word_underscore_9: gun_inmate_foam_hedgehog_coast_raccoon_camp_aspect_stadium
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

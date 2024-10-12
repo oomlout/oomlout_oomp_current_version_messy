@@ -1,3 +1,15 @@
+bip_39_word_dash_1: asthma
+bip_39_word_dash_10: asthma-sense-disorder-august-increase-immune-valve-else-twist-juice
+bip_39_word_dash_11: asthma-sense-disorder-august-increase-immune-valve-else-twist-juice-loud
+bip_39_word_dash_12: asthma-sense-disorder-august-increase-immune-valve-else-twist-juice-loud-antique
+bip_39_word_dash_2: asthma-sense
+bip_39_word_dash_3: asthma-sense-disorder
+bip_39_word_dash_4: asthma-sense-disorder-august
+bip_39_word_dash_5: asthma-sense-disorder-august-increase
+bip_39_word_dash_6: asthma-sense-disorder-august-increase-immune
+bip_39_word_dash_7: asthma-sense-disorder-august-increase-immune-valve
+bip_39_word_dash_8: asthma-sense-disorder-august-increase-immune-valve-else
+bip_39_word_dash_9: asthma-sense-disorder-august-increase-immune-valve-else-twist
 bip_39_word_new_br_1: asthma
 bip_39_word_new_br_10: asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else<br>twist<br>juice
 bip_39_word_new_br_11: asthma<br>sense<br>disorder<br>august<br>increase<br>immune<br>valve<br>else<br>twist<br>juice<br>loud
@@ -194,6 +206,18 @@ bip_39_word_space_6: asthma sense disorder august increase immune
 bip_39_word_space_7: asthma sense disorder august increase immune valve
 bip_39_word_space_8: asthma sense disorder august increase immune valve else
 bip_39_word_space_9: asthma sense disorder august increase immune valve else twist
+bip_39_word_underscore_1: asthma
+bip_39_word_underscore_10: asthma_sense_disorder_august_increase_immune_valve_else_twist_juice
+bip_39_word_underscore_11: asthma_sense_disorder_august_increase_immune_valve_else_twist_juice_loud
+bip_39_word_underscore_12: asthma_sense_disorder_august_increase_immune_valve_else_twist_juice_loud_antique
+bip_39_word_underscore_2: asthma_sense
+bip_39_word_underscore_3: asthma_sense_disorder
+bip_39_word_underscore_4: asthma_sense_disorder_august
+bip_39_word_underscore_5: asthma_sense_disorder_august_increase
+bip_39_word_underscore_6: asthma_sense_disorder_august_increase_immune
+bip_39_word_underscore_7: asthma_sense_disorder_august_increase_immune_valve
+bip_39_word_underscore_8: asthma_sense_disorder_august_increase_immune_valve_else
+bip_39_word_underscore_9: asthma_sense_disorder_august_increase_immune_valve_else_twist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

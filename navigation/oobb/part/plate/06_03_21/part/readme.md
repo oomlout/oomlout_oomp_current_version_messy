@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | machine |  
+| bip_39_word_dash_10 | machine-sort-episode-spot-decide-bridge-doctor-hip-join-choice |  
+| bip_39_word_dash_11 | machine-sort-episode-spot-decide-bridge-doctor-hip-join-choice-beach |  
+| bip_39_word_dash_12 | machine-sort-episode-spot-decide-bridge-doctor-hip-join-choice-beach-access |  
+| bip_39_word_dash_2 | machine-sort |  
+| bip_39_word_dash_3 | machine-sort-episode |  
+| bip_39_word_dash_4 | machine-sort-episode-spot |  
+| bip_39_word_dash_5 | machine-sort-episode-spot-decide |  
+| bip_39_word_dash_6 | machine-sort-episode-spot-decide-bridge |  
+| bip_39_word_dash_7 | machine-sort-episode-spot-decide-bridge-doctor |  
+| bip_39_word_dash_8 | machine-sort-episode-spot-decide-bridge-doctor-hip |  
+| bip_39_word_dash_9 | machine-sort-episode-spot-decide-bridge-doctor-hip-join |  
 | bip_39_word_new_br_1 | machine |  
 | bip_39_word_new_br_10 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip<br>join<br>choice |  
 | bip_39_word_new_br_11 | machine<br>sort<br>episode<br>spot<br>decide<br>bridge<br>doctor<br>hip<br>join<br>choice<br>beach |  
@@ -147,6 +159,18 @@ join |
 | bip_39_word_space_7 | machine sort episode spot decide bridge doctor |  
 | bip_39_word_space_8 | machine sort episode spot decide bridge doctor hip |  
 | bip_39_word_space_9 | machine sort episode spot decide bridge doctor hip join |  
+| bip_39_word_underscore_1 | machine |  
+| bip_39_word_underscore_10 | machine_sort_episode_spot_decide_bridge_doctor_hip_join_choice |  
+| bip_39_word_underscore_11 | machine_sort_episode_spot_decide_bridge_doctor_hip_join_choice_beach |  
+| bip_39_word_underscore_12 | machine_sort_episode_spot_decide_bridge_doctor_hip_join_choice_beach_access |  
+| bip_39_word_underscore_2 | machine_sort |  
+| bip_39_word_underscore_3 | machine_sort_episode |  
+| bip_39_word_underscore_4 | machine_sort_episode_spot |  
+| bip_39_word_underscore_5 | machine_sort_episode_spot_decide |  
+| bip_39_word_underscore_6 | machine_sort_episode_spot_decide_bridge |  
+| bip_39_word_underscore_7 | machine_sort_episode_spot_decide_bridge_doctor |  
+| bip_39_word_underscore_8 | machine_sort_episode_spot_decide_bridge_doctor_hip |  
+| bip_39_word_underscore_9 | machine_sort_episode_spot_decide_bridge_doctor_hip_join |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

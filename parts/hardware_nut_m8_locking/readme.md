@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glimpse |  
+| bip_39_word_dash_10 | glimpse-blanket-virtual-usual-surge-select-few-process-occur-assist |  
+| bip_39_word_dash_11 | glimpse-blanket-virtual-usual-surge-select-few-process-occur-assist-rebel |  
+| bip_39_word_dash_12 | glimpse-blanket-virtual-usual-surge-select-few-process-occur-assist-rebel-adapt |  
+| bip_39_word_dash_2 | glimpse-blanket |  
+| bip_39_word_dash_3 | glimpse-blanket-virtual |  
+| bip_39_word_dash_4 | glimpse-blanket-virtual-usual |  
+| bip_39_word_dash_5 | glimpse-blanket-virtual-usual-surge |  
+| bip_39_word_dash_6 | glimpse-blanket-virtual-usual-surge-select |  
+| bip_39_word_dash_7 | glimpse-blanket-virtual-usual-surge-select-few |  
+| bip_39_word_dash_8 | glimpse-blanket-virtual-usual-surge-select-few-process |  
+| bip_39_word_dash_9 | glimpse-blanket-virtual-usual-surge-select-few-process-occur |  
 | bip_39_word_new_br_1 | glimpse |  
 | bip_39_word_new_br_10 | glimpse<br>blanket<br>virtual<br>usual<br>surge<br>select<br>few<br>process<br>occur<br>assist |  
 | bip_39_word_new_br_11 | glimpse<br>blanket<br>virtual<br>usual<br>surge<br>select<br>few<br>process<br>occur<br>assist<br>rebel |  
@@ -147,6 +159,18 @@ occur |
 | bip_39_word_space_7 | glimpse blanket virtual usual surge select few |  
 | bip_39_word_space_8 | glimpse blanket virtual usual surge select few process |  
 | bip_39_word_space_9 | glimpse blanket virtual usual surge select few process occur |  
+| bip_39_word_underscore_1 | glimpse |  
+| bip_39_word_underscore_10 | glimpse_blanket_virtual_usual_surge_select_few_process_occur_assist |  
+| bip_39_word_underscore_11 | glimpse_blanket_virtual_usual_surge_select_few_process_occur_assist_rebel |  
+| bip_39_word_underscore_12 | glimpse_blanket_virtual_usual_surge_select_few_process_occur_assist_rebel_adapt |  
+| bip_39_word_underscore_2 | glimpse_blanket |  
+| bip_39_word_underscore_3 | glimpse_blanket_virtual |  
+| bip_39_word_underscore_4 | glimpse_blanket_virtual_usual |  
+| bip_39_word_underscore_5 | glimpse_blanket_virtual_usual_surge |  
+| bip_39_word_underscore_6 | glimpse_blanket_virtual_usual_surge_select |  
+| bip_39_word_underscore_7 | glimpse_blanket_virtual_usual_surge_select_few |  
+| bip_39_word_underscore_8 | glimpse_blanket_virtual_usual_surge_select_few_process |  
+| bip_39_word_underscore_9 | glimpse_blanket_virtual_usual_surge_select_few_process_occur |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

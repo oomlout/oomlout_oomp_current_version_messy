@@ -1,3 +1,15 @@
+bip_39_word_dash_1: isolate
+bip_39_word_dash_10: isolate-vapor-alert-around-adapt-approve-bonus-detect-junior-brief
+bip_39_word_dash_11: isolate-vapor-alert-around-adapt-approve-bonus-detect-junior-brief-dizzy
+bip_39_word_dash_12: isolate-vapor-alert-around-adapt-approve-bonus-detect-junior-brief-dizzy-auto
+bip_39_word_dash_2: isolate-vapor
+bip_39_word_dash_3: isolate-vapor-alert
+bip_39_word_dash_4: isolate-vapor-alert-around
+bip_39_word_dash_5: isolate-vapor-alert-around-adapt
+bip_39_word_dash_6: isolate-vapor-alert-around-adapt-approve
+bip_39_word_dash_7: isolate-vapor-alert-around-adapt-approve-bonus
+bip_39_word_dash_8: isolate-vapor-alert-around-adapt-approve-bonus-detect
+bip_39_word_dash_9: isolate-vapor-alert-around-adapt-approve-bonus-detect-junior
 bip_39_word_new_br_1: isolate
 bip_39_word_new_br_10: isolate<br>vapor<br>alert<br>around<br>adapt<br>approve<br>bonus<br>detect<br>junior<br>brief
 bip_39_word_new_br_11: isolate<br>vapor<br>alert<br>around<br>adapt<br>approve<br>bonus<br>detect<br>junior<br>brief<br>dizzy
@@ -194,6 +206,18 @@ bip_39_word_space_6: isolate vapor alert around adapt approve
 bip_39_word_space_7: isolate vapor alert around adapt approve bonus
 bip_39_word_space_8: isolate vapor alert around adapt approve bonus detect
 bip_39_word_space_9: isolate vapor alert around adapt approve bonus detect junior
+bip_39_word_underscore_1: isolate
+bip_39_word_underscore_10: isolate_vapor_alert_around_adapt_approve_bonus_detect_junior_brief
+bip_39_word_underscore_11: isolate_vapor_alert_around_adapt_approve_bonus_detect_junior_brief_dizzy
+bip_39_word_underscore_12: isolate_vapor_alert_around_adapt_approve_bonus_detect_junior_brief_dizzy_auto
+bip_39_word_underscore_2: isolate_vapor
+bip_39_word_underscore_3: isolate_vapor_alert
+bip_39_word_underscore_4: isolate_vapor_alert_around
+bip_39_word_underscore_5: isolate_vapor_alert_around_adapt
+bip_39_word_underscore_6: isolate_vapor_alert_around_adapt_approve
+bip_39_word_underscore_7: isolate_vapor_alert_around_adapt_approve_bonus
+bip_39_word_underscore_8: isolate_vapor_alert_around_adapt_approve_bonus_detect
+bip_39_word_underscore_9: isolate_vapor_alert_around_adapt_approve_bonus_detect_junior
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

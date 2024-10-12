@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | visit |  
+| bip_39_word_dash_10 | visit-suit-wrist-talent-ability-tail-wedding-favorite-escape-trigger |  
+| bip_39_word_dash_11 | visit-suit-wrist-talent-ability-tail-wedding-favorite-escape-trigger-pride |  
+| bip_39_word_dash_12 | visit-suit-wrist-talent-ability-tail-wedding-favorite-escape-trigger-pride-around |  
+| bip_39_word_dash_2 | visit-suit |  
+| bip_39_word_dash_3 | visit-suit-wrist |  
+| bip_39_word_dash_4 | visit-suit-wrist-talent |  
+| bip_39_word_dash_5 | visit-suit-wrist-talent-ability |  
+| bip_39_word_dash_6 | visit-suit-wrist-talent-ability-tail |  
+| bip_39_word_dash_7 | visit-suit-wrist-talent-ability-tail-wedding |  
+| bip_39_word_dash_8 | visit-suit-wrist-talent-ability-tail-wedding-favorite |  
+| bip_39_word_dash_9 | visit-suit-wrist-talent-ability-tail-wedding-favorite-escape |  
 | bip_39_word_new_br_1 | visit |  
 | bip_39_word_new_br_10 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger |  
 | bip_39_word_new_br_11 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger<br>pride |  
@@ -147,6 +159,18 @@ escape |
 | bip_39_word_space_7 | visit suit wrist talent ability tail wedding |  
 | bip_39_word_space_8 | visit suit wrist talent ability tail wedding favorite |  
 | bip_39_word_space_9 | visit suit wrist talent ability tail wedding favorite escape |  
+| bip_39_word_underscore_1 | visit |  
+| bip_39_word_underscore_10 | visit_suit_wrist_talent_ability_tail_wedding_favorite_escape_trigger |  
+| bip_39_word_underscore_11 | visit_suit_wrist_talent_ability_tail_wedding_favorite_escape_trigger_pride |  
+| bip_39_word_underscore_12 | visit_suit_wrist_talent_ability_tail_wedding_favorite_escape_trigger_pride_around |  
+| bip_39_word_underscore_2 | visit_suit |  
+| bip_39_word_underscore_3 | visit_suit_wrist |  
+| bip_39_word_underscore_4 | visit_suit_wrist_talent |  
+| bip_39_word_underscore_5 | visit_suit_wrist_talent_ability |  
+| bip_39_word_underscore_6 | visit_suit_wrist_talent_ability_tail |  
+| bip_39_word_underscore_7 | visit_suit_wrist_talent_ability_tail_wedding |  
+| bip_39_word_underscore_8 | visit_suit_wrist_talent_ability_tail_wedding_favorite |  
+| bip_39_word_underscore_9 | visit_suit_wrist_talent_ability_tail_wedding_favorite_escape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

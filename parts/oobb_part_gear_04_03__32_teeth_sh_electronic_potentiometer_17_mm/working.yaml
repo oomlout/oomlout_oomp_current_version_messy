@@ -1,3 +1,15 @@
+bip_39_word_dash_1: region
+bip_39_word_dash_10: region-awake-fortune-script-resource-half-trouble-melody-warm-gather
+bip_39_word_dash_11: region-awake-fortune-script-resource-half-trouble-melody-warm-gather-romance
+bip_39_word_dash_12: region-awake-fortune-script-resource-half-trouble-melody-warm-gather-romance-asthma
+bip_39_word_dash_2: region-awake
+bip_39_word_dash_3: region-awake-fortune
+bip_39_word_dash_4: region-awake-fortune-script
+bip_39_word_dash_5: region-awake-fortune-script-resource
+bip_39_word_dash_6: region-awake-fortune-script-resource-half
+bip_39_word_dash_7: region-awake-fortune-script-resource-half-trouble
+bip_39_word_dash_8: region-awake-fortune-script-resource-half-trouble-melody
+bip_39_word_dash_9: region-awake-fortune-script-resource-half-trouble-melody-warm
 bip_39_word_new_br_1: region
 bip_39_word_new_br_10: region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather
 bip_39_word_new_br_11: region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather<br>romance
@@ -194,6 +206,18 @@ bip_39_word_space_6: region awake fortune script resource half
 bip_39_word_space_7: region awake fortune script resource half trouble
 bip_39_word_space_8: region awake fortune script resource half trouble melody
 bip_39_word_space_9: region awake fortune script resource half trouble melody warm
+bip_39_word_underscore_1: region
+bip_39_word_underscore_10: region_awake_fortune_script_resource_half_trouble_melody_warm_gather
+bip_39_word_underscore_11: region_awake_fortune_script_resource_half_trouble_melody_warm_gather_romance
+bip_39_word_underscore_12: region_awake_fortune_script_resource_half_trouble_melody_warm_gather_romance_asthma
+bip_39_word_underscore_2: region_awake
+bip_39_word_underscore_3: region_awake_fortune
+bip_39_word_underscore_4: region_awake_fortune_script
+bip_39_word_underscore_5: region_awake_fortune_script_resource
+bip_39_word_underscore_6: region_awake_fortune_script_resource_half
+bip_39_word_underscore_7: region_awake_fortune_script_resource_half_trouble
+bip_39_word_underscore_8: region_awake_fortune_script_resource_half_trouble_melody
+bip_39_word_underscore_9: region_awake_fortune_script_resource_half_trouble_melody_warm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

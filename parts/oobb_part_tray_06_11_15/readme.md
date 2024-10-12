@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skull |  
+| bip_39_word_dash_10 | skull-gasp-anger-ignore-wing-poem-shaft-twice-gold-road |  
+| bip_39_word_dash_11 | skull-gasp-anger-ignore-wing-poem-shaft-twice-gold-road-stool |  
+| bip_39_word_dash_12 | skull-gasp-anger-ignore-wing-poem-shaft-twice-gold-road-stool-attitude |  
+| bip_39_word_dash_2 | skull-gasp |  
+| bip_39_word_dash_3 | skull-gasp-anger |  
+| bip_39_word_dash_4 | skull-gasp-anger-ignore |  
+| bip_39_word_dash_5 | skull-gasp-anger-ignore-wing |  
+| bip_39_word_dash_6 | skull-gasp-anger-ignore-wing-poem |  
+| bip_39_word_dash_7 | skull-gasp-anger-ignore-wing-poem-shaft |  
+| bip_39_word_dash_8 | skull-gasp-anger-ignore-wing-poem-shaft-twice |  
+| bip_39_word_dash_9 | skull-gasp-anger-ignore-wing-poem-shaft-twice-gold |  
 | bip_39_word_new_br_1 | skull |  
 | bip_39_word_new_br_10 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road |  
 | bip_39_word_new_br_11 | skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road<br>stool |  
@@ -147,6 +159,18 @@ gold |
 | bip_39_word_space_7 | skull gasp anger ignore wing poem shaft |  
 | bip_39_word_space_8 | skull gasp anger ignore wing poem shaft twice |  
 | bip_39_word_space_9 | skull gasp anger ignore wing poem shaft twice gold |  
+| bip_39_word_underscore_1 | skull |  
+| bip_39_word_underscore_10 | skull_gasp_anger_ignore_wing_poem_shaft_twice_gold_road |  
+| bip_39_word_underscore_11 | skull_gasp_anger_ignore_wing_poem_shaft_twice_gold_road_stool |  
+| bip_39_word_underscore_12 | skull_gasp_anger_ignore_wing_poem_shaft_twice_gold_road_stool_attitude |  
+| bip_39_word_underscore_2 | skull_gasp |  
+| bip_39_word_underscore_3 | skull_gasp_anger |  
+| bip_39_word_underscore_4 | skull_gasp_anger_ignore |  
+| bip_39_word_underscore_5 | skull_gasp_anger_ignore_wing |  
+| bip_39_word_underscore_6 | skull_gasp_anger_ignore_wing_poem |  
+| bip_39_word_underscore_7 | skull_gasp_anger_ignore_wing_poem_shaft |  
+| bip_39_word_underscore_8 | skull_gasp_anger_ignore_wing_poem_shaft_twice |  
+| bip_39_word_underscore_9 | skull_gasp_anger_ignore_wing_poem_shaft_twice_gold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

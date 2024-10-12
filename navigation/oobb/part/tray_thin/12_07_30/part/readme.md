@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | friend |  
+| bip_39_word_dash_10 | friend-degree-orphan-pottery-someone-rubber-vapor-universe-border-kind |  
+| bip_39_word_dash_11 | friend-degree-orphan-pottery-someone-rubber-vapor-universe-border-kind-affair |  
+| bip_39_word_dash_12 | friend-degree-orphan-pottery-someone-rubber-vapor-universe-border-kind-affair-argue |  
+| bip_39_word_dash_2 | friend-degree |  
+| bip_39_word_dash_3 | friend-degree-orphan |  
+| bip_39_word_dash_4 | friend-degree-orphan-pottery |  
+| bip_39_word_dash_5 | friend-degree-orphan-pottery-someone |  
+| bip_39_word_dash_6 | friend-degree-orphan-pottery-someone-rubber |  
+| bip_39_word_dash_7 | friend-degree-orphan-pottery-someone-rubber-vapor |  
+| bip_39_word_dash_8 | friend-degree-orphan-pottery-someone-rubber-vapor-universe |  
+| bip_39_word_dash_9 | friend-degree-orphan-pottery-someone-rubber-vapor-universe-border |  
 | bip_39_word_new_br_1 | friend |  
 | bip_39_word_new_br_10 | friend<br>degree<br>orphan<br>pottery<br>someone<br>rubber<br>vapor<br>universe<br>border<br>kind |  
 | bip_39_word_new_br_11 | friend<br>degree<br>orphan<br>pottery<br>someone<br>rubber<br>vapor<br>universe<br>border<br>kind<br>affair |  
@@ -147,6 +159,18 @@ border |
 | bip_39_word_space_7 | friend degree orphan pottery someone rubber vapor |  
 | bip_39_word_space_8 | friend degree orphan pottery someone rubber vapor universe |  
 | bip_39_word_space_9 | friend degree orphan pottery someone rubber vapor universe border |  
+| bip_39_word_underscore_1 | friend |  
+| bip_39_word_underscore_10 | friend_degree_orphan_pottery_someone_rubber_vapor_universe_border_kind |  
+| bip_39_word_underscore_11 | friend_degree_orphan_pottery_someone_rubber_vapor_universe_border_kind_affair |  
+| bip_39_word_underscore_12 | friend_degree_orphan_pottery_someone_rubber_vapor_universe_border_kind_affair_argue |  
+| bip_39_word_underscore_2 | friend_degree |  
+| bip_39_word_underscore_3 | friend_degree_orphan |  
+| bip_39_word_underscore_4 | friend_degree_orphan_pottery |  
+| bip_39_word_underscore_5 | friend_degree_orphan_pottery_someone |  
+| bip_39_word_underscore_6 | friend_degree_orphan_pottery_someone_rubber |  
+| bip_39_word_underscore_7 | friend_degree_orphan_pottery_someone_rubber_vapor |  
+| bip_39_word_underscore_8 | friend_degree_orphan_pottery_someone_rubber_vapor_universe |  
+| bip_39_word_underscore_9 | friend_degree_orphan_pottery_someone_rubber_vapor_universe_border |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

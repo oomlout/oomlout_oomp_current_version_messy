@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | floor |  
+| bip_39_word_dash_10 | floor-child-soap-snap-piece-jacket-banner-recipe-team-lazy |  
+| bip_39_word_dash_11 | floor-child-soap-snap-piece-jacket-banner-recipe-team-lazy-code |  
+| bip_39_word_dash_12 | floor-child-soap-snap-piece-jacket-banner-recipe-team-lazy-code-already |  
+| bip_39_word_dash_2 | floor-child |  
+| bip_39_word_dash_3 | floor-child-soap |  
+| bip_39_word_dash_4 | floor-child-soap-snap |  
+| bip_39_word_dash_5 | floor-child-soap-snap-piece |  
+| bip_39_word_dash_6 | floor-child-soap-snap-piece-jacket |  
+| bip_39_word_dash_7 | floor-child-soap-snap-piece-jacket-banner |  
+| bip_39_word_dash_8 | floor-child-soap-snap-piece-jacket-banner-recipe |  
+| bip_39_word_dash_9 | floor-child-soap-snap-piece-jacket-banner-recipe-team |  
 | bip_39_word_new_br_1 | floor |  
 | bip_39_word_new_br_10 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy |  
 | bip_39_word_new_br_11 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy<br>code |  
@@ -147,6 +159,18 @@ team |
 | bip_39_word_space_7 | floor child soap snap piece jacket banner |  
 | bip_39_word_space_8 | floor child soap snap piece jacket banner recipe |  
 | bip_39_word_space_9 | floor child soap snap piece jacket banner recipe team |  
+| bip_39_word_underscore_1 | floor |  
+| bip_39_word_underscore_10 | floor_child_soap_snap_piece_jacket_banner_recipe_team_lazy |  
+| bip_39_word_underscore_11 | floor_child_soap_snap_piece_jacket_banner_recipe_team_lazy_code |  
+| bip_39_word_underscore_12 | floor_child_soap_snap_piece_jacket_banner_recipe_team_lazy_code_already |  
+| bip_39_word_underscore_2 | floor_child |  
+| bip_39_word_underscore_3 | floor_child_soap |  
+| bip_39_word_underscore_4 | floor_child_soap_snap |  
+| bip_39_word_underscore_5 | floor_child_soap_snap_piece |  
+| bip_39_word_underscore_6 | floor_child_soap_snap_piece_jacket |  
+| bip_39_word_underscore_7 | floor_child_soap_snap_piece_jacket_banner |  
+| bip_39_word_underscore_8 | floor_child_soap_snap_piece_jacket_banner_recipe |  
+| bip_39_word_underscore_9 | floor_child_soap_snap_piece_jacket_banner_recipe_team |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

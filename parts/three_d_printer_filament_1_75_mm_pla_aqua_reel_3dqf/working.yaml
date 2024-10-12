@@ -1,3 +1,15 @@
+bip_39_word_dash_1: what
+bip_39_word_dash_10: what-bachelor-behind-bone-ice-scale-ribbon-labor-uniform-lens
+bip_39_word_dash_11: what-bachelor-behind-bone-ice-scale-ribbon-labor-uniform-lens-own
+bip_39_word_dash_12: what-bachelor-behind-bone-ice-scale-ribbon-labor-uniform-lens-own-add
+bip_39_word_dash_2: what-bachelor
+bip_39_word_dash_3: what-bachelor-behind
+bip_39_word_dash_4: what-bachelor-behind-bone
+bip_39_word_dash_5: what-bachelor-behind-bone-ice
+bip_39_word_dash_6: what-bachelor-behind-bone-ice-scale
+bip_39_word_dash_7: what-bachelor-behind-bone-ice-scale-ribbon
+bip_39_word_dash_8: what-bachelor-behind-bone-ice-scale-ribbon-labor
+bip_39_word_dash_9: what-bachelor-behind-bone-ice-scale-ribbon-labor-uniform
 bip_39_word_new_br_1: what
 bip_39_word_new_br_10: what<br>bachelor<br>behind<br>bone<br>ice<br>scale<br>ribbon<br>labor<br>uniform<br>lens
 bip_39_word_new_br_11: what<br>bachelor<br>behind<br>bone<br>ice<br>scale<br>ribbon<br>labor<br>uniform<br>lens<br>own
@@ -193,6 +205,18 @@ bip_39_word_space_6: what bachelor behind bone ice scale
 bip_39_word_space_7: what bachelor behind bone ice scale ribbon
 bip_39_word_space_8: what bachelor behind bone ice scale ribbon labor
 bip_39_word_space_9: what bachelor behind bone ice scale ribbon labor uniform
+bip_39_word_underscore_1: what
+bip_39_word_underscore_10: what_bachelor_behind_bone_ice_scale_ribbon_labor_uniform_lens
+bip_39_word_underscore_11: what_bachelor_behind_bone_ice_scale_ribbon_labor_uniform_lens_own
+bip_39_word_underscore_12: what_bachelor_behind_bone_ice_scale_ribbon_labor_uniform_lens_own_add
+bip_39_word_underscore_2: what_bachelor
+bip_39_word_underscore_3: what_bachelor_behind
+bip_39_word_underscore_4: what_bachelor_behind_bone
+bip_39_word_underscore_5: what_bachelor_behind_bone_ice
+bip_39_word_underscore_6: what_bachelor_behind_bone_ice_scale
+bip_39_word_underscore_7: what_bachelor_behind_bone_ice_scale_ribbon
+bip_39_word_underscore_8: what_bachelor_behind_bone_ice_scale_ribbon_labor
+bip_39_word_underscore_9: what_bachelor_behind_bone_ice_scale_ribbon_labor_uniform
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | raven |  
+| bip_39_word_dash_10 | raven-fly-teach-enroll-army-wheat-jealous-diagram-cage-year |  
+| bip_39_word_dash_11 | raven-fly-teach-enroll-army-wheat-jealous-diagram-cage-year-open |  
+| bip_39_word_dash_12 | raven-fly-teach-enroll-army-wheat-jealous-diagram-cage-year-open-april |  
+| bip_39_word_dash_2 | raven-fly |  
+| bip_39_word_dash_3 | raven-fly-teach |  
+| bip_39_word_dash_4 | raven-fly-teach-enroll |  
+| bip_39_word_dash_5 | raven-fly-teach-enroll-army |  
+| bip_39_word_dash_6 | raven-fly-teach-enroll-army-wheat |  
+| bip_39_word_dash_7 | raven-fly-teach-enroll-army-wheat-jealous |  
+| bip_39_word_dash_8 | raven-fly-teach-enroll-army-wheat-jealous-diagram |  
+| bip_39_word_dash_9 | raven-fly-teach-enroll-army-wheat-jealous-diagram-cage |  
 | bip_39_word_new_br_1 | raven |  
 | bip_39_word_new_br_10 | raven<br>fly<br>teach<br>enroll<br>army<br>wheat<br>jealous<br>diagram<br>cage<br>year |  
 | bip_39_word_new_br_11 | raven<br>fly<br>teach<br>enroll<br>army<br>wheat<br>jealous<br>diagram<br>cage<br>year<br>open |  
@@ -147,6 +159,18 @@ cage |
 | bip_39_word_space_7 | raven fly teach enroll army wheat jealous |  
 | bip_39_word_space_8 | raven fly teach enroll army wheat jealous diagram |  
 | bip_39_word_space_9 | raven fly teach enroll army wheat jealous diagram cage |  
+| bip_39_word_underscore_1 | raven |  
+| bip_39_word_underscore_10 | raven_fly_teach_enroll_army_wheat_jealous_diagram_cage_year |  
+| bip_39_word_underscore_11 | raven_fly_teach_enroll_army_wheat_jealous_diagram_cage_year_open |  
+| bip_39_word_underscore_12 | raven_fly_teach_enroll_army_wheat_jealous_diagram_cage_year_open_april |  
+| bip_39_word_underscore_2 | raven_fly |  
+| bip_39_word_underscore_3 | raven_fly_teach |  
+| bip_39_word_underscore_4 | raven_fly_teach_enroll |  
+| bip_39_word_underscore_5 | raven_fly_teach_enroll_army |  
+| bip_39_word_underscore_6 | raven_fly_teach_enroll_army_wheat |  
+| bip_39_word_underscore_7 | raven_fly_teach_enroll_army_wheat_jealous |  
+| bip_39_word_underscore_8 | raven_fly_teach_enroll_army_wheat_jealous_diagram |  
+| bip_39_word_underscore_9 | raven_fly_teach_enroll_army_wheat_jealous_diagram_cage |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

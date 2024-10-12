@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | add |  
+| bip_39_word_dash_10 | add-impose-december-orange-village-clever-agree-crucial-switch-today |  
+| bip_39_word_dash_11 | add-impose-december-orange-village-clever-agree-crucial-switch-today-special |  
+| bip_39_word_dash_12 | add-impose-december-orange-village-clever-agree-crucial-switch-today-special-accuse |  
+| bip_39_word_dash_2 | add-impose |  
+| bip_39_word_dash_3 | add-impose-december |  
+| bip_39_word_dash_4 | add-impose-december-orange |  
+| bip_39_word_dash_5 | add-impose-december-orange-village |  
+| bip_39_word_dash_6 | add-impose-december-orange-village-clever |  
+| bip_39_word_dash_7 | add-impose-december-orange-village-clever-agree |  
+| bip_39_word_dash_8 | add-impose-december-orange-village-clever-agree-crucial |  
+| bip_39_word_dash_9 | add-impose-december-orange-village-clever-agree-crucial-switch |  
 | bip_39_word_new_br_1 | add |  
 | bip_39_word_new_br_10 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial<br>switch<br>today |  
 | bip_39_word_new_br_11 | add<br>impose<br>december<br>orange<br>village<br>clever<br>agree<br>crucial<br>switch<br>today<br>special |  
@@ -147,6 +159,18 @@ switch |
 | bip_39_word_space_7 | add impose december orange village clever agree |  
 | bip_39_word_space_8 | add impose december orange village clever agree crucial |  
 | bip_39_word_space_9 | add impose december orange village clever agree crucial switch |  
+| bip_39_word_underscore_1 | add |  
+| bip_39_word_underscore_10 | add_impose_december_orange_village_clever_agree_crucial_switch_today |  
+| bip_39_word_underscore_11 | add_impose_december_orange_village_clever_agree_crucial_switch_today_special |  
+| bip_39_word_underscore_12 | add_impose_december_orange_village_clever_agree_crucial_switch_today_special_accuse |  
+| bip_39_word_underscore_2 | add_impose |  
+| bip_39_word_underscore_3 | add_impose_december |  
+| bip_39_word_underscore_4 | add_impose_december_orange |  
+| bip_39_word_underscore_5 | add_impose_december_orange_village |  
+| bip_39_word_underscore_6 | add_impose_december_orange_village_clever |  
+| bip_39_word_underscore_7 | add_impose_december_orange_village_clever_agree |  
+| bip_39_word_underscore_8 | add_impose_december_orange_village_clever_agree_crucial |  
+| bip_39_word_underscore_9 | add_impose_december_orange_village_clever_agree_crucial_switch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

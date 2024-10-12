@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | club |  
+| bip_39_word_dash_10 | club-kind-globe-comic-benefit-sunny-riot-soon-sauce-clump |  
+| bip_39_word_dash_11 | club-kind-globe-comic-benefit-sunny-riot-soon-sauce-clump-fatigue |  
+| bip_39_word_dash_12 | club-kind-globe-comic-benefit-sunny-riot-soon-sauce-clump-fatigue-average |  
+| bip_39_word_dash_2 | club-kind |  
+| bip_39_word_dash_3 | club-kind-globe |  
+| bip_39_word_dash_4 | club-kind-globe-comic |  
+| bip_39_word_dash_5 | club-kind-globe-comic-benefit |  
+| bip_39_word_dash_6 | club-kind-globe-comic-benefit-sunny |  
+| bip_39_word_dash_7 | club-kind-globe-comic-benefit-sunny-riot |  
+| bip_39_word_dash_8 | club-kind-globe-comic-benefit-sunny-riot-soon |  
+| bip_39_word_dash_9 | club-kind-globe-comic-benefit-sunny-riot-soon-sauce |  
 | bip_39_word_new_br_1 | club |  
 | bip_39_word_new_br_10 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon<br>sauce<br>clump |  
 | bip_39_word_new_br_11 | club<br>kind<br>globe<br>comic<br>benefit<br>sunny<br>riot<br>soon<br>sauce<br>clump<br>fatigue |  
@@ -147,6 +159,18 @@ sauce |
 | bip_39_word_space_7 | club kind globe comic benefit sunny riot |  
 | bip_39_word_space_8 | club kind globe comic benefit sunny riot soon |  
 | bip_39_word_space_9 | club kind globe comic benefit sunny riot soon sauce |  
+| bip_39_word_underscore_1 | club |  
+| bip_39_word_underscore_10 | club_kind_globe_comic_benefit_sunny_riot_soon_sauce_clump |  
+| bip_39_word_underscore_11 | club_kind_globe_comic_benefit_sunny_riot_soon_sauce_clump_fatigue |  
+| bip_39_word_underscore_12 | club_kind_globe_comic_benefit_sunny_riot_soon_sauce_clump_fatigue_average |  
+| bip_39_word_underscore_2 | club_kind |  
+| bip_39_word_underscore_3 | club_kind_globe |  
+| bip_39_word_underscore_4 | club_kind_globe_comic |  
+| bip_39_word_underscore_5 | club_kind_globe_comic_benefit |  
+| bip_39_word_underscore_6 | club_kind_globe_comic_benefit_sunny |  
+| bip_39_word_underscore_7 | club_kind_globe_comic_benefit_sunny_riot |  
+| bip_39_word_underscore_8 | club_kind_globe_comic_benefit_sunny_riot_soon |  
+| bip_39_word_underscore_9 | club_kind_globe_comic_benefit_sunny_riot_soon_sauce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

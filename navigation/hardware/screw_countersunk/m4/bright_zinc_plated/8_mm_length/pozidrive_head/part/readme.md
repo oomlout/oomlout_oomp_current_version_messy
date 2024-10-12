@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | laugh |  
+| bip_39_word_dash_10 | laugh-tuition-rubber-wasp-task-unveil-ice-spice-second-memory |  
+| bip_39_word_dash_11 | laugh-tuition-rubber-wasp-task-unveil-ice-spice-second-memory-split |  
+| bip_39_word_dash_12 | laugh-tuition-rubber-wasp-task-unveil-ice-spice-second-memory-split-analyst |  
+| bip_39_word_dash_2 | laugh-tuition |  
+| bip_39_word_dash_3 | laugh-tuition-rubber |  
+| bip_39_word_dash_4 | laugh-tuition-rubber-wasp |  
+| bip_39_word_dash_5 | laugh-tuition-rubber-wasp-task |  
+| bip_39_word_dash_6 | laugh-tuition-rubber-wasp-task-unveil |  
+| bip_39_word_dash_7 | laugh-tuition-rubber-wasp-task-unveil-ice |  
+| bip_39_word_dash_8 | laugh-tuition-rubber-wasp-task-unveil-ice-spice |  
+| bip_39_word_dash_9 | laugh-tuition-rubber-wasp-task-unveil-ice-spice-second |  
 | bip_39_word_new_br_1 | laugh |  
 | bip_39_word_new_br_10 | laugh<br>tuition<br>rubber<br>wasp<br>task<br>unveil<br>ice<br>spice<br>second<br>memory |  
 | bip_39_word_new_br_11 | laugh<br>tuition<br>rubber<br>wasp<br>task<br>unveil<br>ice<br>spice<br>second<br>memory<br>split |  
@@ -147,6 +159,18 @@ second |
 | bip_39_word_space_7 | laugh tuition rubber wasp task unveil ice |  
 | bip_39_word_space_8 | laugh tuition rubber wasp task unveil ice spice |  
 | bip_39_word_space_9 | laugh tuition rubber wasp task unveil ice spice second |  
+| bip_39_word_underscore_1 | laugh |  
+| bip_39_word_underscore_10 | laugh_tuition_rubber_wasp_task_unveil_ice_spice_second_memory |  
+| bip_39_word_underscore_11 | laugh_tuition_rubber_wasp_task_unveil_ice_spice_second_memory_split |  
+| bip_39_word_underscore_12 | laugh_tuition_rubber_wasp_task_unveil_ice_spice_second_memory_split_analyst |  
+| bip_39_word_underscore_2 | laugh_tuition |  
+| bip_39_word_underscore_3 | laugh_tuition_rubber |  
+| bip_39_word_underscore_4 | laugh_tuition_rubber_wasp |  
+| bip_39_word_underscore_5 | laugh_tuition_rubber_wasp_task |  
+| bip_39_word_underscore_6 | laugh_tuition_rubber_wasp_task_unveil |  
+| bip_39_word_underscore_7 | laugh_tuition_rubber_wasp_task_unveil_ice |  
+| bip_39_word_underscore_8 | laugh_tuition_rubber_wasp_task_unveil_ice_spice |  
+| bip_39_word_underscore_9 | laugh_tuition_rubber_wasp_task_unveil_ice_spice_second |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

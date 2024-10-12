@@ -1,3 +1,15 @@
+bip_39_word_dash_1: modify
+bip_39_word_dash_10: modify-ivory-wise-never-ocean-tuition-decide-shop-inflict-execute
+bip_39_word_dash_11: modify-ivory-wise-never-ocean-tuition-decide-shop-inflict-execute-income
+bip_39_word_dash_12: modify-ivory-wise-never-ocean-tuition-decide-shop-inflict-execute-income-act
+bip_39_word_dash_2: modify-ivory
+bip_39_word_dash_3: modify-ivory-wise
+bip_39_word_dash_4: modify-ivory-wise-never
+bip_39_word_dash_5: modify-ivory-wise-never-ocean
+bip_39_word_dash_6: modify-ivory-wise-never-ocean-tuition
+bip_39_word_dash_7: modify-ivory-wise-never-ocean-tuition-decide
+bip_39_word_dash_8: modify-ivory-wise-never-ocean-tuition-decide-shop
+bip_39_word_dash_9: modify-ivory-wise-never-ocean-tuition-decide-shop-inflict
 bip_39_word_new_br_1: modify
 bip_39_word_new_br_10: modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop<br>inflict<br>execute
 bip_39_word_new_br_11: modify<br>ivory<br>wise<br>never<br>ocean<br>tuition<br>decide<br>shop<br>inflict<br>execute<br>income
@@ -193,6 +205,18 @@ bip_39_word_space_6: modify ivory wise never ocean tuition
 bip_39_word_space_7: modify ivory wise never ocean tuition decide
 bip_39_word_space_8: modify ivory wise never ocean tuition decide shop
 bip_39_word_space_9: modify ivory wise never ocean tuition decide shop inflict
+bip_39_word_underscore_1: modify
+bip_39_word_underscore_10: modify_ivory_wise_never_ocean_tuition_decide_shop_inflict_execute
+bip_39_word_underscore_11: modify_ivory_wise_never_ocean_tuition_decide_shop_inflict_execute_income
+bip_39_word_underscore_12: modify_ivory_wise_never_ocean_tuition_decide_shop_inflict_execute_income_act
+bip_39_word_underscore_2: modify_ivory
+bip_39_word_underscore_3: modify_ivory_wise
+bip_39_word_underscore_4: modify_ivory_wise_never
+bip_39_word_underscore_5: modify_ivory_wise_never_ocean
+bip_39_word_underscore_6: modify_ivory_wise_never_ocean_tuition
+bip_39_word_underscore_7: modify_ivory_wise_never_ocean_tuition_decide
+bip_39_word_underscore_8: modify_ivory_wise_never_ocean_tuition_decide_shop
+bip_39_word_underscore_9: modify_ivory_wise_never_ocean_tuition_decide_shop_inflict
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

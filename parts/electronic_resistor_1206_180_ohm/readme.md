@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reunion |  
+| bip_39_word_dash_10 | reunion-initial-cement-write-priority-husband-salute-achieve-paper-flame |  
+| bip_39_word_dash_11 | reunion-initial-cement-write-priority-husband-salute-achieve-paper-flame-below |  
+| bip_39_word_dash_12 | reunion-initial-cement-write-priority-husband-salute-achieve-paper-flame-below-approve |  
+| bip_39_word_dash_2 | reunion-initial |  
+| bip_39_word_dash_3 | reunion-initial-cement |  
+| bip_39_word_dash_4 | reunion-initial-cement-write |  
+| bip_39_word_dash_5 | reunion-initial-cement-write-priority |  
+| bip_39_word_dash_6 | reunion-initial-cement-write-priority-husband |  
+| bip_39_word_dash_7 | reunion-initial-cement-write-priority-husband-salute |  
+| bip_39_word_dash_8 | reunion-initial-cement-write-priority-husband-salute-achieve |  
+| bip_39_word_dash_9 | reunion-initial-cement-write-priority-husband-salute-achieve-paper |  
 | bip_39_word_new_br_1 | reunion |  
 | bip_39_word_new_br_10 | reunion<br>initial<br>cement<br>write<br>priority<br>husband<br>salute<br>achieve<br>paper<br>flame |  
 | bip_39_word_new_br_11 | reunion<br>initial<br>cement<br>write<br>priority<br>husband<br>salute<br>achieve<br>paper<br>flame<br>below |  
@@ -147,6 +159,18 @@ paper |
 | bip_39_word_space_7 | reunion initial cement write priority husband salute |  
 | bip_39_word_space_8 | reunion initial cement write priority husband salute achieve |  
 | bip_39_word_space_9 | reunion initial cement write priority husband salute achieve paper |  
+| bip_39_word_underscore_1 | reunion |  
+| bip_39_word_underscore_10 | reunion_initial_cement_write_priority_husband_salute_achieve_paper_flame |  
+| bip_39_word_underscore_11 | reunion_initial_cement_write_priority_husband_salute_achieve_paper_flame_below |  
+| bip_39_word_underscore_12 | reunion_initial_cement_write_priority_husband_salute_achieve_paper_flame_below_approve |  
+| bip_39_word_underscore_2 | reunion_initial |  
+| bip_39_word_underscore_3 | reunion_initial_cement |  
+| bip_39_word_underscore_4 | reunion_initial_cement_write |  
+| bip_39_word_underscore_5 | reunion_initial_cement_write_priority |  
+| bip_39_word_underscore_6 | reunion_initial_cement_write_priority_husband |  
+| bip_39_word_underscore_7 | reunion_initial_cement_write_priority_husband_salute |  
+| bip_39_word_underscore_8 | reunion_initial_cement_write_priority_husband_salute_achieve |  
+| bip_39_word_underscore_9 | reunion_initial_cement_write_priority_husband_salute_achieve_paper |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

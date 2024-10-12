@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wife |  
+| bip_39_word_dash_10 | wife-hedgehog-true-ridge-viable-fragile-person-kiss-delay-cover |  
+| bip_39_word_dash_11 | wife-hedgehog-true-ridge-viable-fragile-person-kiss-delay-cover-hockey |  
+| bip_39_word_dash_12 | wife-hedgehog-true-ridge-viable-fragile-person-kiss-delay-cover-hockey-appear |  
+| bip_39_word_dash_2 | wife-hedgehog |  
+| bip_39_word_dash_3 | wife-hedgehog-true |  
+| bip_39_word_dash_4 | wife-hedgehog-true-ridge |  
+| bip_39_word_dash_5 | wife-hedgehog-true-ridge-viable |  
+| bip_39_word_dash_6 | wife-hedgehog-true-ridge-viable-fragile |  
+| bip_39_word_dash_7 | wife-hedgehog-true-ridge-viable-fragile-person |  
+| bip_39_word_dash_8 | wife-hedgehog-true-ridge-viable-fragile-person-kiss |  
+| bip_39_word_dash_9 | wife-hedgehog-true-ridge-viable-fragile-person-kiss-delay |  
 | bip_39_word_new_br_1 | wife |  
 | bip_39_word_new_br_10 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover |  
 | bip_39_word_new_br_11 | wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover<br>hockey |  
@@ -147,6 +159,18 @@ delay |
 | bip_39_word_space_7 | wife hedgehog true ridge viable fragile person |  
 | bip_39_word_space_8 | wife hedgehog true ridge viable fragile person kiss |  
 | bip_39_word_space_9 | wife hedgehog true ridge viable fragile person kiss delay |  
+| bip_39_word_underscore_1 | wife |  
+| bip_39_word_underscore_10 | wife_hedgehog_true_ridge_viable_fragile_person_kiss_delay_cover |  
+| bip_39_word_underscore_11 | wife_hedgehog_true_ridge_viable_fragile_person_kiss_delay_cover_hockey |  
+| bip_39_word_underscore_12 | wife_hedgehog_true_ridge_viable_fragile_person_kiss_delay_cover_hockey_appear |  
+| bip_39_word_underscore_2 | wife_hedgehog |  
+| bip_39_word_underscore_3 | wife_hedgehog_true |  
+| bip_39_word_underscore_4 | wife_hedgehog_true_ridge |  
+| bip_39_word_underscore_5 | wife_hedgehog_true_ridge_viable |  
+| bip_39_word_underscore_6 | wife_hedgehog_true_ridge_viable_fragile |  
+| bip_39_word_underscore_7 | wife_hedgehog_true_ridge_viable_fragile_person |  
+| bip_39_word_underscore_8 | wife_hedgehog_true_ridge_viable_fragile_person_kiss |  
+| bip_39_word_underscore_9 | wife_hedgehog_true_ridge_viable_fragile_person_kiss_delay |  
 | classification | food |  
 | classification_capital | Food |  
 | classification_first_letter | f |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bargain |  
+| bip_39_word_dash_10 | bargain-into-employ-salad-ask-inspire-unlock-soccer-depth-omit |  
+| bip_39_word_dash_11 | bargain-into-employ-salad-ask-inspire-unlock-soccer-depth-omit-rare |  
+| bip_39_word_dash_12 | bargain-into-employ-salad-ask-inspire-unlock-soccer-depth-omit-rare-add |  
+| bip_39_word_dash_2 | bargain-into |  
+| bip_39_word_dash_3 | bargain-into-employ |  
+| bip_39_word_dash_4 | bargain-into-employ-salad |  
+| bip_39_word_dash_5 | bargain-into-employ-salad-ask |  
+| bip_39_word_dash_6 | bargain-into-employ-salad-ask-inspire |  
+| bip_39_word_dash_7 | bargain-into-employ-salad-ask-inspire-unlock |  
+| bip_39_word_dash_8 | bargain-into-employ-salad-ask-inspire-unlock-soccer |  
+| bip_39_word_dash_9 | bargain-into-employ-salad-ask-inspire-unlock-soccer-depth |  
 | bip_39_word_new_br_1 | bargain |  
 | bip_39_word_new_br_10 | bargain<br>into<br>employ<br>salad<br>ask<br>inspire<br>unlock<br>soccer<br>depth<br>omit |  
 | bip_39_word_new_br_11 | bargain<br>into<br>employ<br>salad<br>ask<br>inspire<br>unlock<br>soccer<br>depth<br>omit<br>rare |  
@@ -147,6 +159,18 @@ depth |
 | bip_39_word_space_7 | bargain into employ salad ask inspire unlock |  
 | bip_39_word_space_8 | bargain into employ salad ask inspire unlock soccer |  
 | bip_39_word_space_9 | bargain into employ salad ask inspire unlock soccer depth |  
+| bip_39_word_underscore_1 | bargain |  
+| bip_39_word_underscore_10 | bargain_into_employ_salad_ask_inspire_unlock_soccer_depth_omit |  
+| bip_39_word_underscore_11 | bargain_into_employ_salad_ask_inspire_unlock_soccer_depth_omit_rare |  
+| bip_39_word_underscore_12 | bargain_into_employ_salad_ask_inspire_unlock_soccer_depth_omit_rare_add |  
+| bip_39_word_underscore_2 | bargain_into |  
+| bip_39_word_underscore_3 | bargain_into_employ |  
+| bip_39_word_underscore_4 | bargain_into_employ_salad |  
+| bip_39_word_underscore_5 | bargain_into_employ_salad_ask |  
+| bip_39_word_underscore_6 | bargain_into_employ_salad_ask_inspire |  
+| bip_39_word_underscore_7 | bargain_into_employ_salad_ask_inspire_unlock |  
+| bip_39_word_underscore_8 | bargain_into_employ_salad_ask_inspire_unlock_soccer |  
+| bip_39_word_underscore_9 | bargain_into_employ_salad_ask_inspire_unlock_soccer_depth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

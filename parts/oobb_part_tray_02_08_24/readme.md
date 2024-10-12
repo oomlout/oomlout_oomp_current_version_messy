@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | morning |  
+| bip_39_word_dash_10 | morning-crumble-foam-vapor-dumb-situate-debris-wealth-soft-blue |  
+| bip_39_word_dash_11 | morning-crumble-foam-vapor-dumb-situate-debris-wealth-soft-blue-left |  
+| bip_39_word_dash_12 | morning-crumble-foam-vapor-dumb-situate-debris-wealth-soft-blue-left-arena |  
+| bip_39_word_dash_2 | morning-crumble |  
+| bip_39_word_dash_3 | morning-crumble-foam |  
+| bip_39_word_dash_4 | morning-crumble-foam-vapor |  
+| bip_39_word_dash_5 | morning-crumble-foam-vapor-dumb |  
+| bip_39_word_dash_6 | morning-crumble-foam-vapor-dumb-situate |  
+| bip_39_word_dash_7 | morning-crumble-foam-vapor-dumb-situate-debris |  
+| bip_39_word_dash_8 | morning-crumble-foam-vapor-dumb-situate-debris-wealth |  
+| bip_39_word_dash_9 | morning-crumble-foam-vapor-dumb-situate-debris-wealth-soft |  
 | bip_39_word_new_br_1 | morning |  
 | bip_39_word_new_br_10 | morning<br>crumble<br>foam<br>vapor<br>dumb<br>situate<br>debris<br>wealth<br>soft<br>blue |  
 | bip_39_word_new_br_11 | morning<br>crumble<br>foam<br>vapor<br>dumb<br>situate<br>debris<br>wealth<br>soft<br>blue<br>left |  
@@ -147,6 +159,18 @@ soft |
 | bip_39_word_space_7 | morning crumble foam vapor dumb situate debris |  
 | bip_39_word_space_8 | morning crumble foam vapor dumb situate debris wealth |  
 | bip_39_word_space_9 | morning crumble foam vapor dumb situate debris wealth soft |  
+| bip_39_word_underscore_1 | morning |  
+| bip_39_word_underscore_10 | morning_crumble_foam_vapor_dumb_situate_debris_wealth_soft_blue |  
+| bip_39_word_underscore_11 | morning_crumble_foam_vapor_dumb_situate_debris_wealth_soft_blue_left |  
+| bip_39_word_underscore_12 | morning_crumble_foam_vapor_dumb_situate_debris_wealth_soft_blue_left_arena |  
+| bip_39_word_underscore_2 | morning_crumble |  
+| bip_39_word_underscore_3 | morning_crumble_foam |  
+| bip_39_word_underscore_4 | morning_crumble_foam_vapor |  
+| bip_39_word_underscore_5 | morning_crumble_foam_vapor_dumb |  
+| bip_39_word_underscore_6 | morning_crumble_foam_vapor_dumb_situate |  
+| bip_39_word_underscore_7 | morning_crumble_foam_vapor_dumb_situate_debris |  
+| bip_39_word_underscore_8 | morning_crumble_foam_vapor_dumb_situate_debris_wealth |  
+| bip_39_word_underscore_9 | morning_crumble_foam_vapor_dumb_situate_debris_wealth_soft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

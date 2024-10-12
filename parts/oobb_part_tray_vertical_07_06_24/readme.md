@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pioneer |  
+| bip_39_word_dash_10 | pioneer-violin-shell-drip-promote-blouse-admit-ride-grow-depend |  
+| bip_39_word_dash_11 | pioneer-violin-shell-drip-promote-blouse-admit-ride-grow-depend-scene |  
+| bip_39_word_dash_12 | pioneer-violin-shell-drip-promote-blouse-admit-ride-grow-depend-scene-alcohol |  
+| bip_39_word_dash_2 | pioneer-violin |  
+| bip_39_word_dash_3 | pioneer-violin-shell |  
+| bip_39_word_dash_4 | pioneer-violin-shell-drip |  
+| bip_39_word_dash_5 | pioneer-violin-shell-drip-promote |  
+| bip_39_word_dash_6 | pioneer-violin-shell-drip-promote-blouse |  
+| bip_39_word_dash_7 | pioneer-violin-shell-drip-promote-blouse-admit |  
+| bip_39_word_dash_8 | pioneer-violin-shell-drip-promote-blouse-admit-ride |  
+| bip_39_word_dash_9 | pioneer-violin-shell-drip-promote-blouse-admit-ride-grow |  
 | bip_39_word_new_br_1 | pioneer |  
 | bip_39_word_new_br_10 | pioneer<br>violin<br>shell<br>drip<br>promote<br>blouse<br>admit<br>ride<br>grow<br>depend |  
 | bip_39_word_new_br_11 | pioneer<br>violin<br>shell<br>drip<br>promote<br>blouse<br>admit<br>ride<br>grow<br>depend<br>scene |  
@@ -147,6 +159,18 @@ grow |
 | bip_39_word_space_7 | pioneer violin shell drip promote blouse admit |  
 | bip_39_word_space_8 | pioneer violin shell drip promote blouse admit ride |  
 | bip_39_word_space_9 | pioneer violin shell drip promote blouse admit ride grow |  
+| bip_39_word_underscore_1 | pioneer |  
+| bip_39_word_underscore_10 | pioneer_violin_shell_drip_promote_blouse_admit_ride_grow_depend |  
+| bip_39_word_underscore_11 | pioneer_violin_shell_drip_promote_blouse_admit_ride_grow_depend_scene |  
+| bip_39_word_underscore_12 | pioneer_violin_shell_drip_promote_blouse_admit_ride_grow_depend_scene_alcohol |  
+| bip_39_word_underscore_2 | pioneer_violin |  
+| bip_39_word_underscore_3 | pioneer_violin_shell |  
+| bip_39_word_underscore_4 | pioneer_violin_shell_drip |  
+| bip_39_word_underscore_5 | pioneer_violin_shell_drip_promote |  
+| bip_39_word_underscore_6 | pioneer_violin_shell_drip_promote_blouse |  
+| bip_39_word_underscore_7 | pioneer_violin_shell_drip_promote_blouse_admit |  
+| bip_39_word_underscore_8 | pioneer_violin_shell_drip_promote_blouse_admit_ride |  
+| bip_39_word_underscore_9 | pioneer_violin_shell_drip_promote_blouse_admit_ride_grow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

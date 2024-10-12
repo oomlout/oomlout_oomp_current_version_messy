@@ -1,3 +1,15 @@
+bip_39_word_dash_1: throw
+bip_39_word_dash_10: throw-around-today-theory-unaware-travel-capital-erupt-either-toy
+bip_39_word_dash_11: throw-around-today-theory-unaware-travel-capital-erupt-either-toy-point
+bip_39_word_dash_12: throw-around-today-theory-unaware-travel-capital-erupt-either-toy-point-arrow
+bip_39_word_dash_2: throw-around
+bip_39_word_dash_3: throw-around-today
+bip_39_word_dash_4: throw-around-today-theory
+bip_39_word_dash_5: throw-around-today-theory-unaware
+bip_39_word_dash_6: throw-around-today-theory-unaware-travel
+bip_39_word_dash_7: throw-around-today-theory-unaware-travel-capital
+bip_39_word_dash_8: throw-around-today-theory-unaware-travel-capital-erupt
+bip_39_word_dash_9: throw-around-today-theory-unaware-travel-capital-erupt-either
 bip_39_word_new_br_1: throw
 bip_39_word_new_br_10: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt<br>either<br>toy
 bip_39_word_new_br_11: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt<br>either<br>toy<br>point
@@ -194,6 +206,18 @@ bip_39_word_space_6: throw around today theory unaware travel
 bip_39_word_space_7: throw around today theory unaware travel capital
 bip_39_word_space_8: throw around today theory unaware travel capital erupt
 bip_39_word_space_9: throw around today theory unaware travel capital erupt either
+bip_39_word_underscore_1: throw
+bip_39_word_underscore_10: throw_around_today_theory_unaware_travel_capital_erupt_either_toy
+bip_39_word_underscore_11: throw_around_today_theory_unaware_travel_capital_erupt_either_toy_point
+bip_39_word_underscore_12: throw_around_today_theory_unaware_travel_capital_erupt_either_toy_point_arrow
+bip_39_word_underscore_2: throw_around
+bip_39_word_underscore_3: throw_around_today
+bip_39_word_underscore_4: throw_around_today_theory
+bip_39_word_underscore_5: throw_around_today_theory_unaware
+bip_39_word_underscore_6: throw_around_today_theory_unaware_travel
+bip_39_word_underscore_7: throw_around_today_theory_unaware_travel_capital
+bip_39_word_underscore_8: throw_around_today_theory_unaware_travel_capital_erupt
+bip_39_word_underscore_9: throw_around_today_theory_unaware_travel_capital_erupt_either
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | knee |  
+| bip_39_word_dash_10 | knee-pizza-thought-capital-exotic-remove-parade-gravity-lesson-tilt |  
+| bip_39_word_dash_11 | knee-pizza-thought-capital-exotic-remove-parade-gravity-lesson-tilt-hurry |  
+| bip_39_word_dash_12 | knee-pizza-thought-capital-exotic-remove-parade-gravity-lesson-tilt-hurry-aim |  
+| bip_39_word_dash_2 | knee-pizza |  
+| bip_39_word_dash_3 | knee-pizza-thought |  
+| bip_39_word_dash_4 | knee-pizza-thought-capital |  
+| bip_39_word_dash_5 | knee-pizza-thought-capital-exotic |  
+| bip_39_word_dash_6 | knee-pizza-thought-capital-exotic-remove |  
+| bip_39_word_dash_7 | knee-pizza-thought-capital-exotic-remove-parade |  
+| bip_39_word_dash_8 | knee-pizza-thought-capital-exotic-remove-parade-gravity |  
+| bip_39_word_dash_9 | knee-pizza-thought-capital-exotic-remove-parade-gravity-lesson |  
 | bip_39_word_new_br_1 | knee |  
 | bip_39_word_new_br_10 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity<br>lesson<br>tilt |  
 | bip_39_word_new_br_11 | knee<br>pizza<br>thought<br>capital<br>exotic<br>remove<br>parade<br>gravity<br>lesson<br>tilt<br>hurry |  
@@ -147,6 +159,18 @@ lesson |
 | bip_39_word_space_7 | knee pizza thought capital exotic remove parade |  
 | bip_39_word_space_8 | knee pizza thought capital exotic remove parade gravity |  
 | bip_39_word_space_9 | knee pizza thought capital exotic remove parade gravity lesson |  
+| bip_39_word_underscore_1 | knee |  
+| bip_39_word_underscore_10 | knee_pizza_thought_capital_exotic_remove_parade_gravity_lesson_tilt |  
+| bip_39_word_underscore_11 | knee_pizza_thought_capital_exotic_remove_parade_gravity_lesson_tilt_hurry |  
+| bip_39_word_underscore_12 | knee_pizza_thought_capital_exotic_remove_parade_gravity_lesson_tilt_hurry_aim |  
+| bip_39_word_underscore_2 | knee_pizza |  
+| bip_39_word_underscore_3 | knee_pizza_thought |  
+| bip_39_word_underscore_4 | knee_pizza_thought_capital |  
+| bip_39_word_underscore_5 | knee_pizza_thought_capital_exotic |  
+| bip_39_word_underscore_6 | knee_pizza_thought_capital_exotic_remove |  
+| bip_39_word_underscore_7 | knee_pizza_thought_capital_exotic_remove_parade |  
+| bip_39_word_underscore_8 | knee_pizza_thought_capital_exotic_remove_parade_gravity |  
+| bip_39_word_underscore_9 | knee_pizza_thought_capital_exotic_remove_parade_gravity_lesson |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

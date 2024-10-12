@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | axis |  
+| bip_39_word_dash_10 | axis-waste-clay-tilt-thing-hover-option-kid-earn-curious |  
+| bip_39_word_dash_11 | axis-waste-clay-tilt-thing-hover-option-kid-earn-curious-parent |  
+| bip_39_word_dash_12 | axis-waste-clay-tilt-thing-hover-option-kid-earn-curious-parent-angry |  
+| bip_39_word_dash_2 | axis-waste |  
+| bip_39_word_dash_3 | axis-waste-clay |  
+| bip_39_word_dash_4 | axis-waste-clay-tilt |  
+| bip_39_word_dash_5 | axis-waste-clay-tilt-thing |  
+| bip_39_word_dash_6 | axis-waste-clay-tilt-thing-hover |  
+| bip_39_word_dash_7 | axis-waste-clay-tilt-thing-hover-option |  
+| bip_39_word_dash_8 | axis-waste-clay-tilt-thing-hover-option-kid |  
+| bip_39_word_dash_9 | axis-waste-clay-tilt-thing-hover-option-kid-earn |  
 | bip_39_word_new_br_1 | axis |  
 | bip_39_word_new_br_10 | axis<br>waste<br>clay<br>tilt<br>thing<br>hover<br>option<br>kid<br>earn<br>curious |  
 | bip_39_word_new_br_11 | axis<br>waste<br>clay<br>tilt<br>thing<br>hover<br>option<br>kid<br>earn<br>curious<br>parent |  
@@ -147,6 +159,18 @@ earn |
 | bip_39_word_space_7 | axis waste clay tilt thing hover option |  
 | bip_39_word_space_8 | axis waste clay tilt thing hover option kid |  
 | bip_39_word_space_9 | axis waste clay tilt thing hover option kid earn |  
+| bip_39_word_underscore_1 | axis |  
+| bip_39_word_underscore_10 | axis_waste_clay_tilt_thing_hover_option_kid_earn_curious |  
+| bip_39_word_underscore_11 | axis_waste_clay_tilt_thing_hover_option_kid_earn_curious_parent |  
+| bip_39_word_underscore_12 | axis_waste_clay_tilt_thing_hover_option_kid_earn_curious_parent_angry |  
+| bip_39_word_underscore_2 | axis_waste |  
+| bip_39_word_underscore_3 | axis_waste_clay |  
+| bip_39_word_underscore_4 | axis_waste_clay_tilt |  
+| bip_39_word_underscore_5 | axis_waste_clay_tilt_thing |  
+| bip_39_word_underscore_6 | axis_waste_clay_tilt_thing_hover |  
+| bip_39_word_underscore_7 | axis_waste_clay_tilt_thing_hover_option |  
+| bip_39_word_underscore_8 | axis_waste_clay_tilt_thing_hover_option_kid |  
+| bip_39_word_underscore_9 | axis_waste_clay_tilt_thing_hover_option_kid_earn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

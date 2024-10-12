@@ -1,3 +1,15 @@
+bip_39_word_dash_1: float
+bip_39_word_dash_10: float-razor-term-green-ivory-limb-observe-sell-scorpion-horror
+bip_39_word_dash_11: float-razor-term-green-ivory-limb-observe-sell-scorpion-horror-number
+bip_39_word_dash_12: float-razor-term-green-ivory-limb-observe-sell-scorpion-horror-number-aim
+bip_39_word_dash_2: float-razor
+bip_39_word_dash_3: float-razor-term
+bip_39_word_dash_4: float-razor-term-green
+bip_39_word_dash_5: float-razor-term-green-ivory
+bip_39_word_dash_6: float-razor-term-green-ivory-limb
+bip_39_word_dash_7: float-razor-term-green-ivory-limb-observe
+bip_39_word_dash_8: float-razor-term-green-ivory-limb-observe-sell
+bip_39_word_dash_9: float-razor-term-green-ivory-limb-observe-sell-scorpion
 bip_39_word_new_br_1: float
 bip_39_word_new_br_10: float<br>razor<br>term<br>green<br>ivory<br>limb<br>observe<br>sell<br>scorpion<br>horror
 bip_39_word_new_br_11: float<br>razor<br>term<br>green<br>ivory<br>limb<br>observe<br>sell<br>scorpion<br>horror<br>number
@@ -193,6 +205,18 @@ bip_39_word_space_6: float razor term green ivory limb
 bip_39_word_space_7: float razor term green ivory limb observe
 bip_39_word_space_8: float razor term green ivory limb observe sell
 bip_39_word_space_9: float razor term green ivory limb observe sell scorpion
+bip_39_word_underscore_1: float
+bip_39_word_underscore_10: float_razor_term_green_ivory_limb_observe_sell_scorpion_horror
+bip_39_word_underscore_11: float_razor_term_green_ivory_limb_observe_sell_scorpion_horror_number
+bip_39_word_underscore_12: float_razor_term_green_ivory_limb_observe_sell_scorpion_horror_number_aim
+bip_39_word_underscore_2: float_razor
+bip_39_word_underscore_3: float_razor_term
+bip_39_word_underscore_4: float_razor_term_green
+bip_39_word_underscore_5: float_razor_term_green_ivory
+bip_39_word_underscore_6: float_razor_term_green_ivory_limb
+bip_39_word_underscore_7: float_razor_term_green_ivory_limb_observe
+bip_39_word_underscore_8: float_razor_term_green_ivory_limb_observe_sell
+bip_39_word_underscore_9: float_razor_term_green_ivory_limb_observe_sell_scorpion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

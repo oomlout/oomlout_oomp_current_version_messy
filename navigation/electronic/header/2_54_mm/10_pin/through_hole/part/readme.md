@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | intact |  
+| bip_39_word_dash_10 | intact-vendor-speed-maid-need-hello-industry-law-need-crater |  
+| bip_39_word_dash_11 | intact-vendor-speed-maid-need-hello-industry-law-need-crater-cube |  
+| bip_39_word_dash_12 | intact-vendor-speed-maid-need-hello-industry-law-need-crater-cube-auction |  
+| bip_39_word_dash_2 | intact-vendor |  
+| bip_39_word_dash_3 | intact-vendor-speed |  
+| bip_39_word_dash_4 | intact-vendor-speed-maid |  
+| bip_39_word_dash_5 | intact-vendor-speed-maid-need |  
+| bip_39_word_dash_6 | intact-vendor-speed-maid-need-hello |  
+| bip_39_word_dash_7 | intact-vendor-speed-maid-need-hello-industry |  
+| bip_39_word_dash_8 | intact-vendor-speed-maid-need-hello-industry-law |  
+| bip_39_word_dash_9 | intact-vendor-speed-maid-need-hello-industry-law-need |  
 | bip_39_word_new_br_1 | intact |  
 | bip_39_word_new_br_10 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law<br>need<br>crater |  
 | bip_39_word_new_br_11 | intact<br>vendor<br>speed<br>maid<br>need<br>hello<br>industry<br>law<br>need<br>crater<br>cube |  
@@ -147,6 +159,18 @@ need |
 | bip_39_word_space_7 | intact vendor speed maid need hello industry |  
 | bip_39_word_space_8 | intact vendor speed maid need hello industry law |  
 | bip_39_word_space_9 | intact vendor speed maid need hello industry law need |  
+| bip_39_word_underscore_1 | intact |  
+| bip_39_word_underscore_10 | intact_vendor_speed_maid_need_hello_industry_law_need_crater |  
+| bip_39_word_underscore_11 | intact_vendor_speed_maid_need_hello_industry_law_need_crater_cube |  
+| bip_39_word_underscore_12 | intact_vendor_speed_maid_need_hello_industry_law_need_crater_cube_auction |  
+| bip_39_word_underscore_2 | intact_vendor |  
+| bip_39_word_underscore_3 | intact_vendor_speed |  
+| bip_39_word_underscore_4 | intact_vendor_speed_maid |  
+| bip_39_word_underscore_5 | intact_vendor_speed_maid_need |  
+| bip_39_word_underscore_6 | intact_vendor_speed_maid_need_hello |  
+| bip_39_word_underscore_7 | intact_vendor_speed_maid_need_hello_industry |  
+| bip_39_word_underscore_8 | intact_vendor_speed_maid_need_hello_industry_law |  
+| bip_39_word_underscore_9 | intact_vendor_speed_maid_need_hello_industry_law_need |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

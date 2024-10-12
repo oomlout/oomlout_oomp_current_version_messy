@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | field |  
+| bip_39_word_dash_10 | field-this-august-name-tourist-vanish-dolphin-garment-scorpion-elegant |  
+| bip_39_word_dash_11 | field-this-august-name-tourist-vanish-dolphin-garment-scorpion-elegant-arrive |  
+| bip_39_word_dash_12 | field-this-august-name-tourist-vanish-dolphin-garment-scorpion-elegant-arrive-all |  
+| bip_39_word_dash_2 | field-this |  
+| bip_39_word_dash_3 | field-this-august |  
+| bip_39_word_dash_4 | field-this-august-name |  
+| bip_39_word_dash_5 | field-this-august-name-tourist |  
+| bip_39_word_dash_6 | field-this-august-name-tourist-vanish |  
+| bip_39_word_dash_7 | field-this-august-name-tourist-vanish-dolphin |  
+| bip_39_word_dash_8 | field-this-august-name-tourist-vanish-dolphin-garment |  
+| bip_39_word_dash_9 | field-this-august-name-tourist-vanish-dolphin-garment-scorpion |  
 | bip_39_word_new_br_1 | field |  
 | bip_39_word_new_br_10 | field<br>this<br>august<br>name<br>tourist<br>vanish<br>dolphin<br>garment<br>scorpion<br>elegant |  
 | bip_39_word_new_br_11 | field<br>this<br>august<br>name<br>tourist<br>vanish<br>dolphin<br>garment<br>scorpion<br>elegant<br>arrive |  
@@ -147,6 +159,18 @@ scorpion |
 | bip_39_word_space_7 | field this august name tourist vanish dolphin |  
 | bip_39_word_space_8 | field this august name tourist vanish dolphin garment |  
 | bip_39_word_space_9 | field this august name tourist vanish dolphin garment scorpion |  
+| bip_39_word_underscore_1 | field |  
+| bip_39_word_underscore_10 | field_this_august_name_tourist_vanish_dolphin_garment_scorpion_elegant |  
+| bip_39_word_underscore_11 | field_this_august_name_tourist_vanish_dolphin_garment_scorpion_elegant_arrive |  
+| bip_39_word_underscore_12 | field_this_august_name_tourist_vanish_dolphin_garment_scorpion_elegant_arrive_all |  
+| bip_39_word_underscore_2 | field_this |  
+| bip_39_word_underscore_3 | field_this_august |  
+| bip_39_word_underscore_4 | field_this_august_name |  
+| bip_39_word_underscore_5 | field_this_august_name_tourist |  
+| bip_39_word_underscore_6 | field_this_august_name_tourist_vanish |  
+| bip_39_word_underscore_7 | field_this_august_name_tourist_vanish_dolphin |  
+| bip_39_word_underscore_8 | field_this_august_name_tourist_vanish_dolphin_garment |  
+| bip_39_word_underscore_9 | field_this_august_name_tourist_vanish_dolphin_garment_scorpion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

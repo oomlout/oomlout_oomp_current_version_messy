@@ -1,3 +1,15 @@
+bip_39_word_dash_1: company
+bip_39_word_dash_10: company-wonder-bid-strike-direct-clever-all-cattle-cram-member
+bip_39_word_dash_11: company-wonder-bid-strike-direct-clever-all-cattle-cram-member-shed
+bip_39_word_dash_12: company-wonder-bid-strike-direct-clever-all-cattle-cram-member-shed-amateur
+bip_39_word_dash_2: company-wonder
+bip_39_word_dash_3: company-wonder-bid
+bip_39_word_dash_4: company-wonder-bid-strike
+bip_39_word_dash_5: company-wonder-bid-strike-direct
+bip_39_word_dash_6: company-wonder-bid-strike-direct-clever
+bip_39_word_dash_7: company-wonder-bid-strike-direct-clever-all
+bip_39_word_dash_8: company-wonder-bid-strike-direct-clever-all-cattle
+bip_39_word_dash_9: company-wonder-bid-strike-direct-clever-all-cattle-cram
 bip_39_word_new_br_1: company
 bip_39_word_new_br_10: company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle<br>cram<br>member
 bip_39_word_new_br_11: company<br>wonder<br>bid<br>strike<br>direct<br>clever<br>all<br>cattle<br>cram<br>member<br>shed
@@ -193,6 +205,18 @@ bip_39_word_space_6: company wonder bid strike direct clever
 bip_39_word_space_7: company wonder bid strike direct clever all
 bip_39_word_space_8: company wonder bid strike direct clever all cattle
 bip_39_word_space_9: company wonder bid strike direct clever all cattle cram
+bip_39_word_underscore_1: company
+bip_39_word_underscore_10: company_wonder_bid_strike_direct_clever_all_cattle_cram_member
+bip_39_word_underscore_11: company_wonder_bid_strike_direct_clever_all_cattle_cram_member_shed
+bip_39_word_underscore_12: company_wonder_bid_strike_direct_clever_all_cattle_cram_member_shed_amateur
+bip_39_word_underscore_2: company_wonder
+bip_39_word_underscore_3: company_wonder_bid
+bip_39_word_underscore_4: company_wonder_bid_strike
+bip_39_word_underscore_5: company_wonder_bid_strike_direct
+bip_39_word_underscore_6: company_wonder_bid_strike_direct_clever
+bip_39_word_underscore_7: company_wonder_bid_strike_direct_clever_all
+bip_39_word_underscore_8: company_wonder_bid_strike_direct_clever_all_cattle
+bip_39_word_underscore_9: company_wonder_bid_strike_direct_clever_all_cattle_cram
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

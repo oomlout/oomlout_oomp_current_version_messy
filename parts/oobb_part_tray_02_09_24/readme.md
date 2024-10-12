@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | goddess |  
+| bip_39_word_dash_10 | goddess-slab-best-maze-have-quick-youth-fire-egg-ecology |  
+| bip_39_word_dash_11 | goddess-slab-best-maze-have-quick-youth-fire-egg-ecology-cat |  
+| bip_39_word_dash_12 | goddess-slab-best-maze-have-quick-youth-fire-egg-ecology-cat-anchor |  
+| bip_39_word_dash_2 | goddess-slab |  
+| bip_39_word_dash_3 | goddess-slab-best |  
+| bip_39_word_dash_4 | goddess-slab-best-maze |  
+| bip_39_word_dash_5 | goddess-slab-best-maze-have |  
+| bip_39_word_dash_6 | goddess-slab-best-maze-have-quick |  
+| bip_39_word_dash_7 | goddess-slab-best-maze-have-quick-youth |  
+| bip_39_word_dash_8 | goddess-slab-best-maze-have-quick-youth-fire |  
+| bip_39_word_dash_9 | goddess-slab-best-maze-have-quick-youth-fire-egg |  
 | bip_39_word_new_br_1 | goddess |  
 | bip_39_word_new_br_10 | goddess<br>slab<br>best<br>maze<br>have<br>quick<br>youth<br>fire<br>egg<br>ecology |  
 | bip_39_word_new_br_11 | goddess<br>slab<br>best<br>maze<br>have<br>quick<br>youth<br>fire<br>egg<br>ecology<br>cat |  
@@ -147,6 +159,18 @@ egg |
 | bip_39_word_space_7 | goddess slab best maze have quick youth |  
 | bip_39_word_space_8 | goddess slab best maze have quick youth fire |  
 | bip_39_word_space_9 | goddess slab best maze have quick youth fire egg |  
+| bip_39_word_underscore_1 | goddess |  
+| bip_39_word_underscore_10 | goddess_slab_best_maze_have_quick_youth_fire_egg_ecology |  
+| bip_39_word_underscore_11 | goddess_slab_best_maze_have_quick_youth_fire_egg_ecology_cat |  
+| bip_39_word_underscore_12 | goddess_slab_best_maze_have_quick_youth_fire_egg_ecology_cat_anchor |  
+| bip_39_word_underscore_2 | goddess_slab |  
+| bip_39_word_underscore_3 | goddess_slab_best |  
+| bip_39_word_underscore_4 | goddess_slab_best_maze |  
+| bip_39_word_underscore_5 | goddess_slab_best_maze_have |  
+| bip_39_word_underscore_6 | goddess_slab_best_maze_have_quick |  
+| bip_39_word_underscore_7 | goddess_slab_best_maze_have_quick_youth |  
+| bip_39_word_underscore_8 | goddess_slab_best_maze_have_quick_youth_fire |  
+| bip_39_word_underscore_9 | goddess_slab_best_maze_have_quick_youth_fire_egg |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cloud |  
+| bip_39_word_dash_10 | cloud-tube-pigeon-round-armor-control-attack-govern-harsh-rude |  
+| bip_39_word_dash_11 | cloud-tube-pigeon-round-armor-control-attack-govern-harsh-rude-pond |  
+| bip_39_word_dash_12 | cloud-tube-pigeon-round-armor-control-attack-govern-harsh-rude-pond-actress |  
+| bip_39_word_dash_2 | cloud-tube |  
+| bip_39_word_dash_3 | cloud-tube-pigeon |  
+| bip_39_word_dash_4 | cloud-tube-pigeon-round |  
+| bip_39_word_dash_5 | cloud-tube-pigeon-round-armor |  
+| bip_39_word_dash_6 | cloud-tube-pigeon-round-armor-control |  
+| bip_39_word_dash_7 | cloud-tube-pigeon-round-armor-control-attack |  
+| bip_39_word_dash_8 | cloud-tube-pigeon-round-armor-control-attack-govern |  
+| bip_39_word_dash_9 | cloud-tube-pigeon-round-armor-control-attack-govern-harsh |  
 | bip_39_word_new_br_1 | cloud |  
 | bip_39_word_new_br_10 | cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern<br>harsh<br>rude |  
 | bip_39_word_new_br_11 | cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern<br>harsh<br>rude<br>pond |  
@@ -147,6 +159,18 @@ harsh |
 | bip_39_word_space_7 | cloud tube pigeon round armor control attack |  
 | bip_39_word_space_8 | cloud tube pigeon round armor control attack govern |  
 | bip_39_word_space_9 | cloud tube pigeon round armor control attack govern harsh |  
+| bip_39_word_underscore_1 | cloud |  
+| bip_39_word_underscore_10 | cloud_tube_pigeon_round_armor_control_attack_govern_harsh_rude |  
+| bip_39_word_underscore_11 | cloud_tube_pigeon_round_armor_control_attack_govern_harsh_rude_pond |  
+| bip_39_word_underscore_12 | cloud_tube_pigeon_round_armor_control_attack_govern_harsh_rude_pond_actress |  
+| bip_39_word_underscore_2 | cloud_tube |  
+| bip_39_word_underscore_3 | cloud_tube_pigeon |  
+| bip_39_word_underscore_4 | cloud_tube_pigeon_round |  
+| bip_39_word_underscore_5 | cloud_tube_pigeon_round_armor |  
+| bip_39_word_underscore_6 | cloud_tube_pigeon_round_armor_control |  
+| bip_39_word_underscore_7 | cloud_tube_pigeon_round_armor_control_attack |  
+| bip_39_word_underscore_8 | cloud_tube_pigeon_round_armor_control_attack_govern |  
+| bip_39_word_underscore_9 | cloud_tube_pigeon_round_armor_control_attack_govern_harsh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

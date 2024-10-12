@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bubble |  
+| bip_39_word_dash_10 | bubble-clerk-myth-tiny-monitor-tenant-chunk-tell-core-patch |  
+| bip_39_word_dash_11 | bubble-clerk-myth-tiny-monitor-tenant-chunk-tell-core-patch-roast |  
+| bip_39_word_dash_12 | bubble-clerk-myth-tiny-monitor-tenant-chunk-tell-core-patch-roast-assist |  
+| bip_39_word_dash_2 | bubble-clerk |  
+| bip_39_word_dash_3 | bubble-clerk-myth |  
+| bip_39_word_dash_4 | bubble-clerk-myth-tiny |  
+| bip_39_word_dash_5 | bubble-clerk-myth-tiny-monitor |  
+| bip_39_word_dash_6 | bubble-clerk-myth-tiny-monitor-tenant |  
+| bip_39_word_dash_7 | bubble-clerk-myth-tiny-monitor-tenant-chunk |  
+| bip_39_word_dash_8 | bubble-clerk-myth-tiny-monitor-tenant-chunk-tell |  
+| bip_39_word_dash_9 | bubble-clerk-myth-tiny-monitor-tenant-chunk-tell-core |  
 | bip_39_word_new_br_1 | bubble |  
 | bip_39_word_new_br_10 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell<br>core<br>patch |  
 | bip_39_word_new_br_11 | bubble<br>clerk<br>myth<br>tiny<br>monitor<br>tenant<br>chunk<br>tell<br>core<br>patch<br>roast |  
@@ -147,6 +159,18 @@ core |
 | bip_39_word_space_7 | bubble clerk myth tiny monitor tenant chunk |  
 | bip_39_word_space_8 | bubble clerk myth tiny monitor tenant chunk tell |  
 | bip_39_word_space_9 | bubble clerk myth tiny monitor tenant chunk tell core |  
+| bip_39_word_underscore_1 | bubble |  
+| bip_39_word_underscore_10 | bubble_clerk_myth_tiny_monitor_tenant_chunk_tell_core_patch |  
+| bip_39_word_underscore_11 | bubble_clerk_myth_tiny_monitor_tenant_chunk_tell_core_patch_roast |  
+| bip_39_word_underscore_12 | bubble_clerk_myth_tiny_monitor_tenant_chunk_tell_core_patch_roast_assist |  
+| bip_39_word_underscore_2 | bubble_clerk |  
+| bip_39_word_underscore_3 | bubble_clerk_myth |  
+| bip_39_word_underscore_4 | bubble_clerk_myth_tiny |  
+| bip_39_word_underscore_5 | bubble_clerk_myth_tiny_monitor |  
+| bip_39_word_underscore_6 | bubble_clerk_myth_tiny_monitor_tenant |  
+| bip_39_word_underscore_7 | bubble_clerk_myth_tiny_monitor_tenant_chunk |  
+| bip_39_word_underscore_8 | bubble_clerk_myth_tiny_monitor_tenant_chunk_tell |  
+| bip_39_word_underscore_9 | bubble_clerk_myth_tiny_monitor_tenant_chunk_tell_core |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | galaxy |  
+| bip_39_word_dash_10 | galaxy-theme-path-kidney-alley-rival-one-human-during-alley |  
+| bip_39_word_dash_11 | galaxy-theme-path-kidney-alley-rival-one-human-during-alley-glance |  
+| bip_39_word_dash_12 | galaxy-theme-path-kidney-alley-rival-one-human-during-alley-glance-assist |  
+| bip_39_word_dash_2 | galaxy-theme |  
+| bip_39_word_dash_3 | galaxy-theme-path |  
+| bip_39_word_dash_4 | galaxy-theme-path-kidney |  
+| bip_39_word_dash_5 | galaxy-theme-path-kidney-alley |  
+| bip_39_word_dash_6 | galaxy-theme-path-kidney-alley-rival |  
+| bip_39_word_dash_7 | galaxy-theme-path-kidney-alley-rival-one |  
+| bip_39_word_dash_8 | galaxy-theme-path-kidney-alley-rival-one-human |  
+| bip_39_word_dash_9 | galaxy-theme-path-kidney-alley-rival-one-human-during |  
 | bip_39_word_new_br_1 | galaxy |  
 | bip_39_word_new_br_10 | galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley |  
 | bip_39_word_new_br_11 | galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley<br>glance |  
@@ -147,6 +159,18 @@ during |
 | bip_39_word_space_7 | galaxy theme path kidney alley rival one |  
 | bip_39_word_space_8 | galaxy theme path kidney alley rival one human |  
 | bip_39_word_space_9 | galaxy theme path kidney alley rival one human during |  
+| bip_39_word_underscore_1 | galaxy |  
+| bip_39_word_underscore_10 | galaxy_theme_path_kidney_alley_rival_one_human_during_alley |  
+| bip_39_word_underscore_11 | galaxy_theme_path_kidney_alley_rival_one_human_during_alley_glance |  
+| bip_39_word_underscore_12 | galaxy_theme_path_kidney_alley_rival_one_human_during_alley_glance_assist |  
+| bip_39_word_underscore_2 | galaxy_theme |  
+| bip_39_word_underscore_3 | galaxy_theme_path |  
+| bip_39_word_underscore_4 | galaxy_theme_path_kidney |  
+| bip_39_word_underscore_5 | galaxy_theme_path_kidney_alley |  
+| bip_39_word_underscore_6 | galaxy_theme_path_kidney_alley_rival |  
+| bip_39_word_underscore_7 | galaxy_theme_path_kidney_alley_rival_one |  
+| bip_39_word_underscore_8 | galaxy_theme_path_kidney_alley_rival_one_human |  
+| bip_39_word_underscore_9 | galaxy_theme_path_kidney_alley_rival_one_human_during |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

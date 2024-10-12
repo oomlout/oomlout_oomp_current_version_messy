@@ -1,3 +1,15 @@
+bip_39_word_dash_1: board
+bip_39_word_dash_10: board-silver-family-toddler-cotton-pride-much-time-scout-school
+bip_39_word_dash_11: board-silver-family-toddler-cotton-pride-much-time-scout-school-lucky
+bip_39_word_dash_12: board-silver-family-toddler-cotton-pride-much-time-scout-school-lucky-arrive
+bip_39_word_dash_2: board-silver
+bip_39_word_dash_3: board-silver-family
+bip_39_word_dash_4: board-silver-family-toddler
+bip_39_word_dash_5: board-silver-family-toddler-cotton
+bip_39_word_dash_6: board-silver-family-toddler-cotton-pride
+bip_39_word_dash_7: board-silver-family-toddler-cotton-pride-much
+bip_39_word_dash_8: board-silver-family-toddler-cotton-pride-much-time
+bip_39_word_dash_9: board-silver-family-toddler-cotton-pride-much-time-scout
 bip_39_word_new_br_1: board
 bip_39_word_new_br_10: board<br>silver<br>family<br>toddler<br>cotton<br>pride<br>much<br>time<br>scout<br>school
 bip_39_word_new_br_11: board<br>silver<br>family<br>toddler<br>cotton<br>pride<br>much<br>time<br>scout<br>school<br>lucky
@@ -193,6 +205,18 @@ bip_39_word_space_6: board silver family toddler cotton pride
 bip_39_word_space_7: board silver family toddler cotton pride much
 bip_39_word_space_8: board silver family toddler cotton pride much time
 bip_39_word_space_9: board silver family toddler cotton pride much time scout
+bip_39_word_underscore_1: board
+bip_39_word_underscore_10: board_silver_family_toddler_cotton_pride_much_time_scout_school
+bip_39_word_underscore_11: board_silver_family_toddler_cotton_pride_much_time_scout_school_lucky
+bip_39_word_underscore_12: board_silver_family_toddler_cotton_pride_much_time_scout_school_lucky_arrive
+bip_39_word_underscore_2: board_silver
+bip_39_word_underscore_3: board_silver_family
+bip_39_word_underscore_4: board_silver_family_toddler
+bip_39_word_underscore_5: board_silver_family_toddler_cotton
+bip_39_word_underscore_6: board_silver_family_toddler_cotton_pride
+bip_39_word_underscore_7: board_silver_family_toddler_cotton_pride_much
+bip_39_word_underscore_8: board_silver_family_toddler_cotton_pride_much_time
+bip_39_word_underscore_9: board_silver_family_toddler_cotton_pride_much_time_scout
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

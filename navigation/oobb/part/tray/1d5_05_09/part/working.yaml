@@ -1,3 +1,15 @@
+bip_39_word_dash_1: across
+bip_39_word_dash_10: across-hope-network-bounce-gauge-index-blast-pyramid-beef-total
+bip_39_word_dash_11: across-hope-network-bounce-gauge-index-blast-pyramid-beef-total-raise
+bip_39_word_dash_12: across-hope-network-bounce-gauge-index-blast-pyramid-beef-total-raise-also
+bip_39_word_dash_2: across-hope
+bip_39_word_dash_3: across-hope-network
+bip_39_word_dash_4: across-hope-network-bounce
+bip_39_word_dash_5: across-hope-network-bounce-gauge
+bip_39_word_dash_6: across-hope-network-bounce-gauge-index
+bip_39_word_dash_7: across-hope-network-bounce-gauge-index-blast
+bip_39_word_dash_8: across-hope-network-bounce-gauge-index-blast-pyramid
+bip_39_word_dash_9: across-hope-network-bounce-gauge-index-blast-pyramid-beef
 bip_39_word_new_br_1: across
 bip_39_word_new_br_10: across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid<br>beef<br>total
 bip_39_word_new_br_11: across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid<br>beef<br>total<br>raise
@@ -193,6 +205,18 @@ bip_39_word_space_6: across hope network bounce gauge index
 bip_39_word_space_7: across hope network bounce gauge index blast
 bip_39_word_space_8: across hope network bounce gauge index blast pyramid
 bip_39_word_space_9: across hope network bounce gauge index blast pyramid beef
+bip_39_word_underscore_1: across
+bip_39_word_underscore_10: across_hope_network_bounce_gauge_index_blast_pyramid_beef_total
+bip_39_word_underscore_11: across_hope_network_bounce_gauge_index_blast_pyramid_beef_total_raise
+bip_39_word_underscore_12: across_hope_network_bounce_gauge_index_blast_pyramid_beef_total_raise_also
+bip_39_word_underscore_2: across_hope
+bip_39_word_underscore_3: across_hope_network
+bip_39_word_underscore_4: across_hope_network_bounce
+bip_39_word_underscore_5: across_hope_network_bounce_gauge
+bip_39_word_underscore_6: across_hope_network_bounce_gauge_index
+bip_39_word_underscore_7: across_hope_network_bounce_gauge_index_blast
+bip_39_word_underscore_8: across_hope_network_bounce_gauge_index_blast_pyramid
+bip_39_word_underscore_9: across_hope_network_bounce_gauge_index_blast_pyramid_beef
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

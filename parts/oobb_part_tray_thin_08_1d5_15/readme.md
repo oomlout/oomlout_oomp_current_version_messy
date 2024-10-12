@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | donkey |  
+| bip_39_word_dash_10 | donkey-crucial-limit-demand-upon-citizen-deal-alien-van-thumb |  
+| bip_39_word_dash_11 | donkey-crucial-limit-demand-upon-citizen-deal-alien-van-thumb-page |  
+| bip_39_word_dash_12 | donkey-crucial-limit-demand-upon-citizen-deal-alien-van-thumb-page-also |  
+| bip_39_word_dash_2 | donkey-crucial |  
+| bip_39_word_dash_3 | donkey-crucial-limit |  
+| bip_39_word_dash_4 | donkey-crucial-limit-demand |  
+| bip_39_word_dash_5 | donkey-crucial-limit-demand-upon |  
+| bip_39_word_dash_6 | donkey-crucial-limit-demand-upon-citizen |  
+| bip_39_word_dash_7 | donkey-crucial-limit-demand-upon-citizen-deal |  
+| bip_39_word_dash_8 | donkey-crucial-limit-demand-upon-citizen-deal-alien |  
+| bip_39_word_dash_9 | donkey-crucial-limit-demand-upon-citizen-deal-alien-van |  
 | bip_39_word_new_br_1 | donkey |  
 | bip_39_word_new_br_10 | donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien<br>van<br>thumb |  
 | bip_39_word_new_br_11 | donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien<br>van<br>thumb<br>page |  
@@ -147,6 +159,18 @@ van |
 | bip_39_word_space_7 | donkey crucial limit demand upon citizen deal |  
 | bip_39_word_space_8 | donkey crucial limit demand upon citizen deal alien |  
 | bip_39_word_space_9 | donkey crucial limit demand upon citizen deal alien van |  
+| bip_39_word_underscore_1 | donkey |  
+| bip_39_word_underscore_10 | donkey_crucial_limit_demand_upon_citizen_deal_alien_van_thumb |  
+| bip_39_word_underscore_11 | donkey_crucial_limit_demand_upon_citizen_deal_alien_van_thumb_page |  
+| bip_39_word_underscore_12 | donkey_crucial_limit_demand_upon_citizen_deal_alien_van_thumb_page_also |  
+| bip_39_word_underscore_2 | donkey_crucial |  
+| bip_39_word_underscore_3 | donkey_crucial_limit |  
+| bip_39_word_underscore_4 | donkey_crucial_limit_demand |  
+| bip_39_word_underscore_5 | donkey_crucial_limit_demand_upon |  
+| bip_39_word_underscore_6 | donkey_crucial_limit_demand_upon_citizen |  
+| bip_39_word_underscore_7 | donkey_crucial_limit_demand_upon_citizen_deal |  
+| bip_39_word_underscore_8 | donkey_crucial_limit_demand_upon_citizen_deal_alien |  
+| bip_39_word_underscore_9 | donkey_crucial_limit_demand_upon_citizen_deal_alien_van |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

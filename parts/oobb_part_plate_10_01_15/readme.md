@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reject |  
+| bip_39_word_dash_10 | reject-spider-canyon-debris-crisp-huge-vacuum-grow-color-zoo |  
+| bip_39_word_dash_11 | reject-spider-canyon-debris-crisp-huge-vacuum-grow-color-zoo-stomach |  
+| bip_39_word_dash_12 | reject-spider-canyon-debris-crisp-huge-vacuum-grow-color-zoo-stomach-assume |  
+| bip_39_word_dash_2 | reject-spider |  
+| bip_39_word_dash_3 | reject-spider-canyon |  
+| bip_39_word_dash_4 | reject-spider-canyon-debris |  
+| bip_39_word_dash_5 | reject-spider-canyon-debris-crisp |  
+| bip_39_word_dash_6 | reject-spider-canyon-debris-crisp-huge |  
+| bip_39_word_dash_7 | reject-spider-canyon-debris-crisp-huge-vacuum |  
+| bip_39_word_dash_8 | reject-spider-canyon-debris-crisp-huge-vacuum-grow |  
+| bip_39_word_dash_9 | reject-spider-canyon-debris-crisp-huge-vacuum-grow-color |  
 | bip_39_word_new_br_1 | reject |  
 | bip_39_word_new_br_10 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo |  
 | bip_39_word_new_br_11 | reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo<br>stomach |  
@@ -147,6 +159,18 @@ color |
 | bip_39_word_space_7 | reject spider canyon debris crisp huge vacuum |  
 | bip_39_word_space_8 | reject spider canyon debris crisp huge vacuum grow |  
 | bip_39_word_space_9 | reject spider canyon debris crisp huge vacuum grow color |  
+| bip_39_word_underscore_1 | reject |  
+| bip_39_word_underscore_10 | reject_spider_canyon_debris_crisp_huge_vacuum_grow_color_zoo |  
+| bip_39_word_underscore_11 | reject_spider_canyon_debris_crisp_huge_vacuum_grow_color_zoo_stomach |  
+| bip_39_word_underscore_12 | reject_spider_canyon_debris_crisp_huge_vacuum_grow_color_zoo_stomach_assume |  
+| bip_39_word_underscore_2 | reject_spider |  
+| bip_39_word_underscore_3 | reject_spider_canyon |  
+| bip_39_word_underscore_4 | reject_spider_canyon_debris |  
+| bip_39_word_underscore_5 | reject_spider_canyon_debris_crisp |  
+| bip_39_word_underscore_6 | reject_spider_canyon_debris_crisp_huge |  
+| bip_39_word_underscore_7 | reject_spider_canyon_debris_crisp_huge_vacuum |  
+| bip_39_word_underscore_8 | reject_spider_canyon_debris_crisp_huge_vacuum_grow |  
+| bip_39_word_underscore_9 | reject_spider_canyon_debris_crisp_huge_vacuum_grow_color |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

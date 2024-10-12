@@ -1,3 +1,15 @@
+bip_39_word_dash_1: moon
+bip_39_word_dash_10: moon-voice-history-undo-fix-prevent-question-tip-lyrics-already
+bip_39_word_dash_11: moon-voice-history-undo-fix-prevent-question-tip-lyrics-already-comfort
+bip_39_word_dash_12: moon-voice-history-undo-fix-prevent-question-tip-lyrics-already-comfort-antenna
+bip_39_word_dash_2: moon-voice
+bip_39_word_dash_3: moon-voice-history
+bip_39_word_dash_4: moon-voice-history-undo
+bip_39_word_dash_5: moon-voice-history-undo-fix
+bip_39_word_dash_6: moon-voice-history-undo-fix-prevent
+bip_39_word_dash_7: moon-voice-history-undo-fix-prevent-question
+bip_39_word_dash_8: moon-voice-history-undo-fix-prevent-question-tip
+bip_39_word_dash_9: moon-voice-history-undo-fix-prevent-question-tip-lyrics
 bip_39_word_new_br_1: moon
 bip_39_word_new_br_10: moon<br>voice<br>history<br>undo<br>fix<br>prevent<br>question<br>tip<br>lyrics<br>already
 bip_39_word_new_br_11: moon<br>voice<br>history<br>undo<br>fix<br>prevent<br>question<br>tip<br>lyrics<br>already<br>comfort
@@ -193,6 +205,18 @@ bip_39_word_space_6: moon voice history undo fix prevent
 bip_39_word_space_7: moon voice history undo fix prevent question
 bip_39_word_space_8: moon voice history undo fix prevent question tip
 bip_39_word_space_9: moon voice history undo fix prevent question tip lyrics
+bip_39_word_underscore_1: moon
+bip_39_word_underscore_10: moon_voice_history_undo_fix_prevent_question_tip_lyrics_already
+bip_39_word_underscore_11: moon_voice_history_undo_fix_prevent_question_tip_lyrics_already_comfort
+bip_39_word_underscore_12: moon_voice_history_undo_fix_prevent_question_tip_lyrics_already_comfort_antenna
+bip_39_word_underscore_2: moon_voice
+bip_39_word_underscore_3: moon_voice_history
+bip_39_word_underscore_4: moon_voice_history_undo
+bip_39_word_underscore_5: moon_voice_history_undo_fix
+bip_39_word_underscore_6: moon_voice_history_undo_fix_prevent
+bip_39_word_underscore_7: moon_voice_history_undo_fix_prevent_question
+bip_39_word_underscore_8: moon_voice_history_undo_fix_prevent_question_tip
+bip_39_word_underscore_9: moon_voice_history_undo_fix_prevent_question_tip_lyrics
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

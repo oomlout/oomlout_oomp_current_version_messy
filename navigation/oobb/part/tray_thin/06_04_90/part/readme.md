@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mail |  
+| bip_39_word_dash_10 | mail-away-select-shop-next-kid-absent-helmet-true-lend |  
+| bip_39_word_dash_11 | mail-away-select-shop-next-kid-absent-helmet-true-lend-sauce |  
+| bip_39_word_dash_12 | mail-away-select-shop-next-kid-absent-helmet-true-lend-sauce-aisle |  
+| bip_39_word_dash_2 | mail-away |  
+| bip_39_word_dash_3 | mail-away-select |  
+| bip_39_word_dash_4 | mail-away-select-shop |  
+| bip_39_word_dash_5 | mail-away-select-shop-next |  
+| bip_39_word_dash_6 | mail-away-select-shop-next-kid |  
+| bip_39_word_dash_7 | mail-away-select-shop-next-kid-absent |  
+| bip_39_word_dash_8 | mail-away-select-shop-next-kid-absent-helmet |  
+| bip_39_word_dash_9 | mail-away-select-shop-next-kid-absent-helmet-true |  
 | bip_39_word_new_br_1 | mail |  
 | bip_39_word_new_br_10 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend |  
 | bip_39_word_new_br_11 | mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend<br>sauce |  
@@ -147,6 +159,18 @@ true |
 | bip_39_word_space_7 | mail away select shop next kid absent |  
 | bip_39_word_space_8 | mail away select shop next kid absent helmet |  
 | bip_39_word_space_9 | mail away select shop next kid absent helmet true |  
+| bip_39_word_underscore_1 | mail |  
+| bip_39_word_underscore_10 | mail_away_select_shop_next_kid_absent_helmet_true_lend |  
+| bip_39_word_underscore_11 | mail_away_select_shop_next_kid_absent_helmet_true_lend_sauce |  
+| bip_39_word_underscore_12 | mail_away_select_shop_next_kid_absent_helmet_true_lend_sauce_aisle |  
+| bip_39_word_underscore_2 | mail_away |  
+| bip_39_word_underscore_3 | mail_away_select |  
+| bip_39_word_underscore_4 | mail_away_select_shop |  
+| bip_39_word_underscore_5 | mail_away_select_shop_next |  
+| bip_39_word_underscore_6 | mail_away_select_shop_next_kid |  
+| bip_39_word_underscore_7 | mail_away_select_shop_next_kid_absent |  
+| bip_39_word_underscore_8 | mail_away_select_shop_next_kid_absent_helmet |  
+| bip_39_word_underscore_9 | mail_away_select_shop_next_kid_absent_helmet_true |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gain
+bip_39_word_dash_10: gain-filter-chimney-face-rival-pulse-citizen-palace-exhibit-recycle
+bip_39_word_dash_11: gain-filter-chimney-face-rival-pulse-citizen-palace-exhibit-recycle-interest
+bip_39_word_dash_12: gain-filter-chimney-face-rival-pulse-citizen-palace-exhibit-recycle-interest-admit
+bip_39_word_dash_2: gain-filter
+bip_39_word_dash_3: gain-filter-chimney
+bip_39_word_dash_4: gain-filter-chimney-face
+bip_39_word_dash_5: gain-filter-chimney-face-rival
+bip_39_word_dash_6: gain-filter-chimney-face-rival-pulse
+bip_39_word_dash_7: gain-filter-chimney-face-rival-pulse-citizen
+bip_39_word_dash_8: gain-filter-chimney-face-rival-pulse-citizen-palace
+bip_39_word_dash_9: gain-filter-chimney-face-rival-pulse-citizen-palace-exhibit
 bip_39_word_new_br_1: gain
 bip_39_word_new_br_10: gain<br>filter<br>chimney<br>face<br>rival<br>pulse<br>citizen<br>palace<br>exhibit<br>recycle
 bip_39_word_new_br_11: gain<br>filter<br>chimney<br>face<br>rival<br>pulse<br>citizen<br>palace<br>exhibit<br>recycle<br>interest
@@ -194,6 +206,18 @@ bip_39_word_space_6: gain filter chimney face rival pulse
 bip_39_word_space_7: gain filter chimney face rival pulse citizen
 bip_39_word_space_8: gain filter chimney face rival pulse citizen palace
 bip_39_word_space_9: gain filter chimney face rival pulse citizen palace exhibit
+bip_39_word_underscore_1: gain
+bip_39_word_underscore_10: gain_filter_chimney_face_rival_pulse_citizen_palace_exhibit_recycle
+bip_39_word_underscore_11: gain_filter_chimney_face_rival_pulse_citizen_palace_exhibit_recycle_interest
+bip_39_word_underscore_12: gain_filter_chimney_face_rival_pulse_citizen_palace_exhibit_recycle_interest_admit
+bip_39_word_underscore_2: gain_filter
+bip_39_word_underscore_3: gain_filter_chimney
+bip_39_word_underscore_4: gain_filter_chimney_face
+bip_39_word_underscore_5: gain_filter_chimney_face_rival
+bip_39_word_underscore_6: gain_filter_chimney_face_rival_pulse
+bip_39_word_underscore_7: gain_filter_chimney_face_rival_pulse_citizen
+bip_39_word_underscore_8: gain_filter_chimney_face_rival_pulse_citizen_palace
+bip_39_word_underscore_9: gain_filter_chimney_face_rival_pulse_citizen_palace_exhibit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

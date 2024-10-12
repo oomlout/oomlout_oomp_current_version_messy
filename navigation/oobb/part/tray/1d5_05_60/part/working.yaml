@@ -1,3 +1,15 @@
+bip_39_word_dash_1: canyon
+bip_39_word_dash_10: canyon-exercise-slam-margin-bid-arm-spawn-measure-amazing-scout
+bip_39_word_dash_11: canyon-exercise-slam-margin-bid-arm-spawn-measure-amazing-scout-reward
+bip_39_word_dash_12: canyon-exercise-slam-margin-bid-arm-spawn-measure-amazing-scout-reward-armor
+bip_39_word_dash_2: canyon-exercise
+bip_39_word_dash_3: canyon-exercise-slam
+bip_39_word_dash_4: canyon-exercise-slam-margin
+bip_39_word_dash_5: canyon-exercise-slam-margin-bid
+bip_39_word_dash_6: canyon-exercise-slam-margin-bid-arm
+bip_39_word_dash_7: canyon-exercise-slam-margin-bid-arm-spawn
+bip_39_word_dash_8: canyon-exercise-slam-margin-bid-arm-spawn-measure
+bip_39_word_dash_9: canyon-exercise-slam-margin-bid-arm-spawn-measure-amazing
 bip_39_word_new_br_1: canyon
 bip_39_word_new_br_10: canyon<br>exercise<br>slam<br>margin<br>bid<br>arm<br>spawn<br>measure<br>amazing<br>scout
 bip_39_word_new_br_11: canyon<br>exercise<br>slam<br>margin<br>bid<br>arm<br>spawn<br>measure<br>amazing<br>scout<br>reward
@@ -193,6 +205,18 @@ bip_39_word_space_6: canyon exercise slam margin bid arm
 bip_39_word_space_7: canyon exercise slam margin bid arm spawn
 bip_39_word_space_8: canyon exercise slam margin bid arm spawn measure
 bip_39_word_space_9: canyon exercise slam margin bid arm spawn measure amazing
+bip_39_word_underscore_1: canyon
+bip_39_word_underscore_10: canyon_exercise_slam_margin_bid_arm_spawn_measure_amazing_scout
+bip_39_word_underscore_11: canyon_exercise_slam_margin_bid_arm_spawn_measure_amazing_scout_reward
+bip_39_word_underscore_12: canyon_exercise_slam_margin_bid_arm_spawn_measure_amazing_scout_reward_armor
+bip_39_word_underscore_2: canyon_exercise
+bip_39_word_underscore_3: canyon_exercise_slam
+bip_39_word_underscore_4: canyon_exercise_slam_margin
+bip_39_word_underscore_5: canyon_exercise_slam_margin_bid
+bip_39_word_underscore_6: canyon_exercise_slam_margin_bid_arm
+bip_39_word_underscore_7: canyon_exercise_slam_margin_bid_arm_spawn
+bip_39_word_underscore_8: canyon_exercise_slam_margin_bid_arm_spawn_measure
+bip_39_word_underscore_9: canyon_exercise_slam_margin_bid_arm_spawn_measure_amazing
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

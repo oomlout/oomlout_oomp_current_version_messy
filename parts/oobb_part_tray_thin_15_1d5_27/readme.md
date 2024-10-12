@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arm |  
+| bip_39_word_dash_10 | arm-biology-alpha-isolate-crop-town-near-opera-power-fat |  
+| bip_39_word_dash_11 | arm-biology-alpha-isolate-crop-town-near-opera-power-fat-subject |  
+| bip_39_word_dash_12 | arm-biology-alpha-isolate-crop-town-near-opera-power-fat-subject-adapt |  
+| bip_39_word_dash_2 | arm-biology |  
+| bip_39_word_dash_3 | arm-biology-alpha |  
+| bip_39_word_dash_4 | arm-biology-alpha-isolate |  
+| bip_39_word_dash_5 | arm-biology-alpha-isolate-crop |  
+| bip_39_word_dash_6 | arm-biology-alpha-isolate-crop-town |  
+| bip_39_word_dash_7 | arm-biology-alpha-isolate-crop-town-near |  
+| bip_39_word_dash_8 | arm-biology-alpha-isolate-crop-town-near-opera |  
+| bip_39_word_dash_9 | arm-biology-alpha-isolate-crop-town-near-opera-power |  
 | bip_39_word_new_br_1 | arm |  
 | bip_39_word_new_br_10 | arm<br>biology<br>alpha<br>isolate<br>crop<br>town<br>near<br>opera<br>power<br>fat |  
 | bip_39_word_new_br_11 | arm<br>biology<br>alpha<br>isolate<br>crop<br>town<br>near<br>opera<br>power<br>fat<br>subject |  
@@ -147,6 +159,18 @@ power |
 | bip_39_word_space_7 | arm biology alpha isolate crop town near |  
 | bip_39_word_space_8 | arm biology alpha isolate crop town near opera |  
 | bip_39_word_space_9 | arm biology alpha isolate crop town near opera power |  
+| bip_39_word_underscore_1 | arm |  
+| bip_39_word_underscore_10 | arm_biology_alpha_isolate_crop_town_near_opera_power_fat |  
+| bip_39_word_underscore_11 | arm_biology_alpha_isolate_crop_town_near_opera_power_fat_subject |  
+| bip_39_word_underscore_12 | arm_biology_alpha_isolate_crop_town_near_opera_power_fat_subject_adapt |  
+| bip_39_word_underscore_2 | arm_biology |  
+| bip_39_word_underscore_3 | arm_biology_alpha |  
+| bip_39_word_underscore_4 | arm_biology_alpha_isolate |  
+| bip_39_word_underscore_5 | arm_biology_alpha_isolate_crop |  
+| bip_39_word_underscore_6 | arm_biology_alpha_isolate_crop_town |  
+| bip_39_word_underscore_7 | arm_biology_alpha_isolate_crop_town_near |  
+| bip_39_word_underscore_8 | arm_biology_alpha_isolate_crop_town_near_opera |  
+| bip_39_word_underscore_9 | arm_biology_alpha_isolate_crop_town_near_opera_power |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

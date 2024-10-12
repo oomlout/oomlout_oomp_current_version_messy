@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scheme |  
+| bip_39_word_dash_10 | scheme-add-leave-shift-mobile-pledge-foam-lab-decade-spray |  
+| bip_39_word_dash_11 | scheme-add-leave-shift-mobile-pledge-foam-lab-decade-spray-element |  
+| bip_39_word_dash_12 | scheme-add-leave-shift-mobile-pledge-foam-lab-decade-spray-element-alert |  
+| bip_39_word_dash_2 | scheme-add |  
+| bip_39_word_dash_3 | scheme-add-leave |  
+| bip_39_word_dash_4 | scheme-add-leave-shift |  
+| bip_39_word_dash_5 | scheme-add-leave-shift-mobile |  
+| bip_39_word_dash_6 | scheme-add-leave-shift-mobile-pledge |  
+| bip_39_word_dash_7 | scheme-add-leave-shift-mobile-pledge-foam |  
+| bip_39_word_dash_8 | scheme-add-leave-shift-mobile-pledge-foam-lab |  
+| bip_39_word_dash_9 | scheme-add-leave-shift-mobile-pledge-foam-lab-decade |  
 | bip_39_word_new_br_1 | scheme |  
 | bip_39_word_new_br_10 | scheme<br>add<br>leave<br>shift<br>mobile<br>pledge<br>foam<br>lab<br>decade<br>spray |  
 | bip_39_word_new_br_11 | scheme<br>add<br>leave<br>shift<br>mobile<br>pledge<br>foam<br>lab<br>decade<br>spray<br>element |  
@@ -147,6 +159,18 @@ decade |
 | bip_39_word_space_7 | scheme add leave shift mobile pledge foam |  
 | bip_39_word_space_8 | scheme add leave shift mobile pledge foam lab |  
 | bip_39_word_space_9 | scheme add leave shift mobile pledge foam lab decade |  
+| bip_39_word_underscore_1 | scheme |  
+| bip_39_word_underscore_10 | scheme_add_leave_shift_mobile_pledge_foam_lab_decade_spray |  
+| bip_39_word_underscore_11 | scheme_add_leave_shift_mobile_pledge_foam_lab_decade_spray_element |  
+| bip_39_word_underscore_12 | scheme_add_leave_shift_mobile_pledge_foam_lab_decade_spray_element_alert |  
+| bip_39_word_underscore_2 | scheme_add |  
+| bip_39_word_underscore_3 | scheme_add_leave |  
+| bip_39_word_underscore_4 | scheme_add_leave_shift |  
+| bip_39_word_underscore_5 | scheme_add_leave_shift_mobile |  
+| bip_39_word_underscore_6 | scheme_add_leave_shift_mobile_pledge |  
+| bip_39_word_underscore_7 | scheme_add_leave_shift_mobile_pledge_foam |  
+| bip_39_word_underscore_8 | scheme_add_leave_shift_mobile_pledge_foam_lab |  
+| bip_39_word_underscore_9 | scheme_add_leave_shift_mobile_pledge_foam_lab_decade |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

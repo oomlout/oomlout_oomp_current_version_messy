@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | copy |  
+| bip_39_word_dash_10 | copy-addict-grape-stamp-vast-pond-stadium-history-erupt-gasp |  
+| bip_39_word_dash_11 | copy-addict-grape-stamp-vast-pond-stadium-history-erupt-gasp-gas |  
+| bip_39_word_dash_12 | copy-addict-grape-stamp-vast-pond-stadium-history-erupt-gasp-gas-annual |  
+| bip_39_word_dash_2 | copy-addict |  
+| bip_39_word_dash_3 | copy-addict-grape |  
+| bip_39_word_dash_4 | copy-addict-grape-stamp |  
+| bip_39_word_dash_5 | copy-addict-grape-stamp-vast |  
+| bip_39_word_dash_6 | copy-addict-grape-stamp-vast-pond |  
+| bip_39_word_dash_7 | copy-addict-grape-stamp-vast-pond-stadium |  
+| bip_39_word_dash_8 | copy-addict-grape-stamp-vast-pond-stadium-history |  
+| bip_39_word_dash_9 | copy-addict-grape-stamp-vast-pond-stadium-history-erupt |  
 | bip_39_word_new_br_1 | copy |  
 | bip_39_word_new_br_10 | copy<br>addict<br>grape<br>stamp<br>vast<br>pond<br>stadium<br>history<br>erupt<br>gasp |  
 | bip_39_word_new_br_11 | copy<br>addict<br>grape<br>stamp<br>vast<br>pond<br>stadium<br>history<br>erupt<br>gasp<br>gas |  
@@ -147,6 +159,18 @@ erupt |
 | bip_39_word_space_7 | copy addict grape stamp vast pond stadium |  
 | bip_39_word_space_8 | copy addict grape stamp vast pond stadium history |  
 | bip_39_word_space_9 | copy addict grape stamp vast pond stadium history erupt |  
+| bip_39_word_underscore_1 | copy |  
+| bip_39_word_underscore_10 | copy_addict_grape_stamp_vast_pond_stadium_history_erupt_gasp |  
+| bip_39_word_underscore_11 | copy_addict_grape_stamp_vast_pond_stadium_history_erupt_gasp_gas |  
+| bip_39_word_underscore_12 | copy_addict_grape_stamp_vast_pond_stadium_history_erupt_gasp_gas_annual |  
+| bip_39_word_underscore_2 | copy_addict |  
+| bip_39_word_underscore_3 | copy_addict_grape |  
+| bip_39_word_underscore_4 | copy_addict_grape_stamp |  
+| bip_39_word_underscore_5 | copy_addict_grape_stamp_vast |  
+| bip_39_word_underscore_6 | copy_addict_grape_stamp_vast_pond |  
+| bip_39_word_underscore_7 | copy_addict_grape_stamp_vast_pond_stadium |  
+| bip_39_word_underscore_8 | copy_addict_grape_stamp_vast_pond_stadium_history |  
+| bip_39_word_underscore_9 | copy_addict_grape_stamp_vast_pond_stadium_history_erupt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

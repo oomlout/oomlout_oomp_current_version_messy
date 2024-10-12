@@ -1,3 +1,15 @@
+bip_39_word_dash_1: order
+bip_39_word_dash_10: order-tuna-close-glad-connect-armed-throw-adult-casual-deal
+bip_39_word_dash_11: order-tuna-close-glad-connect-armed-throw-adult-casual-deal-blossom
+bip_39_word_dash_12: order-tuna-close-glad-connect-armed-throw-adult-casual-deal-blossom-arrest
+bip_39_word_dash_2: order-tuna
+bip_39_word_dash_3: order-tuna-close
+bip_39_word_dash_4: order-tuna-close-glad
+bip_39_word_dash_5: order-tuna-close-glad-connect
+bip_39_word_dash_6: order-tuna-close-glad-connect-armed
+bip_39_word_dash_7: order-tuna-close-glad-connect-armed-throw
+bip_39_word_dash_8: order-tuna-close-glad-connect-armed-throw-adult
+bip_39_word_dash_9: order-tuna-close-glad-connect-armed-throw-adult-casual
 bip_39_word_new_br_1: order
 bip_39_word_new_br_10: order<br>tuna<br>close<br>glad<br>connect<br>armed<br>throw<br>adult<br>casual<br>deal
 bip_39_word_new_br_11: order<br>tuna<br>close<br>glad<br>connect<br>armed<br>throw<br>adult<br>casual<br>deal<br>blossom
@@ -193,6 +205,18 @@ bip_39_word_space_6: order tuna close glad connect armed
 bip_39_word_space_7: order tuna close glad connect armed throw
 bip_39_word_space_8: order tuna close glad connect armed throw adult
 bip_39_word_space_9: order tuna close glad connect armed throw adult casual
+bip_39_word_underscore_1: order
+bip_39_word_underscore_10: order_tuna_close_glad_connect_armed_throw_adult_casual_deal
+bip_39_word_underscore_11: order_tuna_close_glad_connect_armed_throw_adult_casual_deal_blossom
+bip_39_word_underscore_12: order_tuna_close_glad_connect_armed_throw_adult_casual_deal_blossom_arrest
+bip_39_word_underscore_2: order_tuna
+bip_39_word_underscore_3: order_tuna_close
+bip_39_word_underscore_4: order_tuna_close_glad
+bip_39_word_underscore_5: order_tuna_close_glad_connect
+bip_39_word_underscore_6: order_tuna_close_glad_connect_armed
+bip_39_word_underscore_7: order_tuna_close_glad_connect_armed_throw
+bip_39_word_underscore_8: order_tuna_close_glad_connect_armed_throw_adult
+bip_39_word_underscore_9: order_tuna_close_glad_connect_armed_throw_adult_casual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

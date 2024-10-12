@@ -1,3 +1,15 @@
+bip_39_word_dash_1: curve
+bip_39_word_dash_10: curve-multiply-surround-lazy-curve-input-eagle-scene-myth-hand
+bip_39_word_dash_11: curve-multiply-surround-lazy-curve-input-eagle-scene-myth-hand-receive
+bip_39_word_dash_12: curve-multiply-surround-lazy-curve-input-eagle-scene-myth-hand-receive-average
+bip_39_word_dash_2: curve-multiply
+bip_39_word_dash_3: curve-multiply-surround
+bip_39_word_dash_4: curve-multiply-surround-lazy
+bip_39_word_dash_5: curve-multiply-surround-lazy-curve
+bip_39_word_dash_6: curve-multiply-surround-lazy-curve-input
+bip_39_word_dash_7: curve-multiply-surround-lazy-curve-input-eagle
+bip_39_word_dash_8: curve-multiply-surround-lazy-curve-input-eagle-scene
+bip_39_word_dash_9: curve-multiply-surround-lazy-curve-input-eagle-scene-myth
 bip_39_word_new_br_1: curve
 bip_39_word_new_br_10: curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene<br>myth<br>hand
 bip_39_word_new_br_11: curve<br>multiply<br>surround<br>lazy<br>curve<br>input<br>eagle<br>scene<br>myth<br>hand<br>receive
@@ -193,6 +205,18 @@ bip_39_word_space_6: curve multiply surround lazy curve input
 bip_39_word_space_7: curve multiply surround lazy curve input eagle
 bip_39_word_space_8: curve multiply surround lazy curve input eagle scene
 bip_39_word_space_9: curve multiply surround lazy curve input eagle scene myth
+bip_39_word_underscore_1: curve
+bip_39_word_underscore_10: curve_multiply_surround_lazy_curve_input_eagle_scene_myth_hand
+bip_39_word_underscore_11: curve_multiply_surround_lazy_curve_input_eagle_scene_myth_hand_receive
+bip_39_word_underscore_12: curve_multiply_surround_lazy_curve_input_eagle_scene_myth_hand_receive_average
+bip_39_word_underscore_2: curve_multiply
+bip_39_word_underscore_3: curve_multiply_surround
+bip_39_word_underscore_4: curve_multiply_surround_lazy
+bip_39_word_underscore_5: curve_multiply_surround_lazy_curve
+bip_39_word_underscore_6: curve_multiply_surround_lazy_curve_input
+bip_39_word_underscore_7: curve_multiply_surround_lazy_curve_input_eagle
+bip_39_word_underscore_8: curve_multiply_surround_lazy_curve_input_eagle_scene
+bip_39_word_underscore_9: curve_multiply_surround_lazy_curve_input_eagle_scene_myth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

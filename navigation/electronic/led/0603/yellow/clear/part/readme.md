@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | obvious |  
+| bip_39_word_dash_10 | obvious-call-effort-hamster-speak-toilet-road-legal-battle-easily |  
+| bip_39_word_dash_11 | obvious-call-effort-hamster-speak-toilet-road-legal-battle-easily-fiction |  
+| bip_39_word_dash_12 | obvious-call-effort-hamster-speak-toilet-road-legal-battle-easily-fiction-abuse |  
+| bip_39_word_dash_2 | obvious-call |  
+| bip_39_word_dash_3 | obvious-call-effort |  
+| bip_39_word_dash_4 | obvious-call-effort-hamster |  
+| bip_39_word_dash_5 | obvious-call-effort-hamster-speak |  
+| bip_39_word_dash_6 | obvious-call-effort-hamster-speak-toilet |  
+| bip_39_word_dash_7 | obvious-call-effort-hamster-speak-toilet-road |  
+| bip_39_word_dash_8 | obvious-call-effort-hamster-speak-toilet-road-legal |  
+| bip_39_word_dash_9 | obvious-call-effort-hamster-speak-toilet-road-legal-battle |  
 | bip_39_word_new_br_1 | obvious |  
 | bip_39_word_new_br_10 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily |  
 | bip_39_word_new_br_11 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily<br>fiction |  
@@ -147,6 +159,18 @@ battle |
 | bip_39_word_space_7 | obvious call effort hamster speak toilet road |  
 | bip_39_word_space_8 | obvious call effort hamster speak toilet road legal |  
 | bip_39_word_space_9 | obvious call effort hamster speak toilet road legal battle |  
+| bip_39_word_underscore_1 | obvious |  
+| bip_39_word_underscore_10 | obvious_call_effort_hamster_speak_toilet_road_legal_battle_easily |  
+| bip_39_word_underscore_11 | obvious_call_effort_hamster_speak_toilet_road_legal_battle_easily_fiction |  
+| bip_39_word_underscore_12 | obvious_call_effort_hamster_speak_toilet_road_legal_battle_easily_fiction_abuse |  
+| bip_39_word_underscore_2 | obvious_call |  
+| bip_39_word_underscore_3 | obvious_call_effort |  
+| bip_39_word_underscore_4 | obvious_call_effort_hamster |  
+| bip_39_word_underscore_5 | obvious_call_effort_hamster_speak |  
+| bip_39_word_underscore_6 | obvious_call_effort_hamster_speak_toilet |  
+| bip_39_word_underscore_7 | obvious_call_effort_hamster_speak_toilet_road |  
+| bip_39_word_underscore_8 | obvious_call_effort_hamster_speak_toilet_road_legal |  
+| bip_39_word_underscore_9 | obvious_call_effort_hamster_speak_toilet_road_legal_battle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

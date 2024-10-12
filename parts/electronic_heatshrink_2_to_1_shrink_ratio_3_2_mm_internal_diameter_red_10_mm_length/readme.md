@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | name |  
+| bip_39_word_dash_10 | name-purse-couch-crazy-blade-bronze-hour-object-salute-patient |  
+| bip_39_word_dash_11 | name-purse-couch-crazy-blade-bronze-hour-object-salute-patient-annual |  
+| bip_39_word_dash_12 | name-purse-couch-crazy-blade-bronze-hour-object-salute-patient-annual-any |  
+| bip_39_word_dash_2 | name-purse |  
+| bip_39_word_dash_3 | name-purse-couch |  
+| bip_39_word_dash_4 | name-purse-couch-crazy |  
+| bip_39_word_dash_5 | name-purse-couch-crazy-blade |  
+| bip_39_word_dash_6 | name-purse-couch-crazy-blade-bronze |  
+| bip_39_word_dash_7 | name-purse-couch-crazy-blade-bronze-hour |  
+| bip_39_word_dash_8 | name-purse-couch-crazy-blade-bronze-hour-object |  
+| bip_39_word_dash_9 | name-purse-couch-crazy-blade-bronze-hour-object-salute |  
 | bip_39_word_new_br_1 | name |  
 | bip_39_word_new_br_10 | name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object<br>salute<br>patient |  
 | bip_39_word_new_br_11 | name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object<br>salute<br>patient<br>annual |  
@@ -147,6 +159,18 @@ salute |
 | bip_39_word_space_7 | name purse couch crazy blade bronze hour |  
 | bip_39_word_space_8 | name purse couch crazy blade bronze hour object |  
 | bip_39_word_space_9 | name purse couch crazy blade bronze hour object salute |  
+| bip_39_word_underscore_1 | name |  
+| bip_39_word_underscore_10 | name_purse_couch_crazy_blade_bronze_hour_object_salute_patient |  
+| bip_39_word_underscore_11 | name_purse_couch_crazy_blade_bronze_hour_object_salute_patient_annual |  
+| bip_39_word_underscore_12 | name_purse_couch_crazy_blade_bronze_hour_object_salute_patient_annual_any |  
+| bip_39_word_underscore_2 | name_purse |  
+| bip_39_word_underscore_3 | name_purse_couch |  
+| bip_39_word_underscore_4 | name_purse_couch_crazy |  
+| bip_39_word_underscore_5 | name_purse_couch_crazy_blade |  
+| bip_39_word_underscore_6 | name_purse_couch_crazy_blade_bronze |  
+| bip_39_word_underscore_7 | name_purse_couch_crazy_blade_bronze_hour |  
+| bip_39_word_underscore_8 | name_purse_couch_crazy_blade_bronze_hour_object |  
+| bip_39_word_underscore_9 | name_purse_couch_crazy_blade_bronze_hour_object_salute |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

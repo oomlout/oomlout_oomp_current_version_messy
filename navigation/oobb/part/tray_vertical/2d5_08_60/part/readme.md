@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | raise |  
+| bip_39_word_dash_10 | raise-shadow-toilet-column-ensure-future-crisp-when-stable-enlist |  
+| bip_39_word_dash_11 | raise-shadow-toilet-column-ensure-future-crisp-when-stable-enlist-poet |  
+| bip_39_word_dash_12 | raise-shadow-toilet-column-ensure-future-crisp-when-stable-enlist-poet-ancient |  
+| bip_39_word_dash_2 | raise-shadow |  
+| bip_39_word_dash_3 | raise-shadow-toilet |  
+| bip_39_word_dash_4 | raise-shadow-toilet-column |  
+| bip_39_word_dash_5 | raise-shadow-toilet-column-ensure |  
+| bip_39_word_dash_6 | raise-shadow-toilet-column-ensure-future |  
+| bip_39_word_dash_7 | raise-shadow-toilet-column-ensure-future-crisp |  
+| bip_39_word_dash_8 | raise-shadow-toilet-column-ensure-future-crisp-when |  
+| bip_39_word_dash_9 | raise-shadow-toilet-column-ensure-future-crisp-when-stable |  
 | bip_39_word_new_br_1 | raise |  
 | bip_39_word_new_br_10 | raise<br>shadow<br>toilet<br>column<br>ensure<br>future<br>crisp<br>when<br>stable<br>enlist |  
 | bip_39_word_new_br_11 | raise<br>shadow<br>toilet<br>column<br>ensure<br>future<br>crisp<br>when<br>stable<br>enlist<br>poet |  
@@ -147,6 +159,18 @@ stable |
 | bip_39_word_space_7 | raise shadow toilet column ensure future crisp |  
 | bip_39_word_space_8 | raise shadow toilet column ensure future crisp when |  
 | bip_39_word_space_9 | raise shadow toilet column ensure future crisp when stable |  
+| bip_39_word_underscore_1 | raise |  
+| bip_39_word_underscore_10 | raise_shadow_toilet_column_ensure_future_crisp_when_stable_enlist |  
+| bip_39_word_underscore_11 | raise_shadow_toilet_column_ensure_future_crisp_when_stable_enlist_poet |  
+| bip_39_word_underscore_12 | raise_shadow_toilet_column_ensure_future_crisp_when_stable_enlist_poet_ancient |  
+| bip_39_word_underscore_2 | raise_shadow |  
+| bip_39_word_underscore_3 | raise_shadow_toilet |  
+| bip_39_word_underscore_4 | raise_shadow_toilet_column |  
+| bip_39_word_underscore_5 | raise_shadow_toilet_column_ensure |  
+| bip_39_word_underscore_6 | raise_shadow_toilet_column_ensure_future |  
+| bip_39_word_underscore_7 | raise_shadow_toilet_column_ensure_future_crisp |  
+| bip_39_word_underscore_8 | raise_shadow_toilet_column_ensure_future_crisp_when |  
+| bip_39_word_underscore_9 | raise_shadow_toilet_column_ensure_future_crisp_when_stable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

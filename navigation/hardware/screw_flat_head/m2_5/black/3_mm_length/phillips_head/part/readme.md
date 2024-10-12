@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | injury |  
+| bip_39_word_dash_10 | injury-siren-bomb-uphold-crop-ensure-bracket-degree-annual-lucky |  
+| bip_39_word_dash_11 | injury-siren-bomb-uphold-crop-ensure-bracket-degree-annual-lucky-trash |  
+| bip_39_word_dash_12 | injury-siren-bomb-uphold-crop-ensure-bracket-degree-annual-lucky-trash-average |  
+| bip_39_word_dash_2 | injury-siren |  
+| bip_39_word_dash_3 | injury-siren-bomb |  
+| bip_39_word_dash_4 | injury-siren-bomb-uphold |  
+| bip_39_word_dash_5 | injury-siren-bomb-uphold-crop |  
+| bip_39_word_dash_6 | injury-siren-bomb-uphold-crop-ensure |  
+| bip_39_word_dash_7 | injury-siren-bomb-uphold-crop-ensure-bracket |  
+| bip_39_word_dash_8 | injury-siren-bomb-uphold-crop-ensure-bracket-degree |  
+| bip_39_word_dash_9 | injury-siren-bomb-uphold-crop-ensure-bracket-degree-annual |  
 | bip_39_word_new_br_1 | injury |  
 | bip_39_word_new_br_10 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky |  
 | bip_39_word_new_br_11 | injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky<br>trash |  
@@ -147,6 +159,18 @@ annual |
 | bip_39_word_space_7 | injury siren bomb uphold crop ensure bracket |  
 | bip_39_word_space_8 | injury siren bomb uphold crop ensure bracket degree |  
 | bip_39_word_space_9 | injury siren bomb uphold crop ensure bracket degree annual |  
+| bip_39_word_underscore_1 | injury |  
+| bip_39_word_underscore_10 | injury_siren_bomb_uphold_crop_ensure_bracket_degree_annual_lucky |  
+| bip_39_word_underscore_11 | injury_siren_bomb_uphold_crop_ensure_bracket_degree_annual_lucky_trash |  
+| bip_39_word_underscore_12 | injury_siren_bomb_uphold_crop_ensure_bracket_degree_annual_lucky_trash_average |  
+| bip_39_word_underscore_2 | injury_siren |  
+| bip_39_word_underscore_3 | injury_siren_bomb |  
+| bip_39_word_underscore_4 | injury_siren_bomb_uphold |  
+| bip_39_word_underscore_5 | injury_siren_bomb_uphold_crop |  
+| bip_39_word_underscore_6 | injury_siren_bomb_uphold_crop_ensure |  
+| bip_39_word_underscore_7 | injury_siren_bomb_uphold_crop_ensure_bracket |  
+| bip_39_word_underscore_8 | injury_siren_bomb_uphold_crop_ensure_bracket_degree |  
+| bip_39_word_underscore_9 | injury_siren_bomb_uphold_crop_ensure_bracket_degree_annual |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

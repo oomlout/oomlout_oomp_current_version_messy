@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | liberty |  
+| bip_39_word_dash_10 | liberty-drink-rose-swap-auto-chaos-spatial-jungle-deliver-deposit |  
+| bip_39_word_dash_11 | liberty-drink-rose-swap-auto-chaos-spatial-jungle-deliver-deposit-cluster |  
+| bip_39_word_dash_12 | liberty-drink-rose-swap-auto-chaos-spatial-jungle-deliver-deposit-cluster-addict |  
+| bip_39_word_dash_2 | liberty-drink |  
+| bip_39_word_dash_3 | liberty-drink-rose |  
+| bip_39_word_dash_4 | liberty-drink-rose-swap |  
+| bip_39_word_dash_5 | liberty-drink-rose-swap-auto |  
+| bip_39_word_dash_6 | liberty-drink-rose-swap-auto-chaos |  
+| bip_39_word_dash_7 | liberty-drink-rose-swap-auto-chaos-spatial |  
+| bip_39_word_dash_8 | liberty-drink-rose-swap-auto-chaos-spatial-jungle |  
+| bip_39_word_dash_9 | liberty-drink-rose-swap-auto-chaos-spatial-jungle-deliver |  
 | bip_39_word_new_br_1 | liberty |  
 | bip_39_word_new_br_10 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle<br>deliver<br>deposit |  
 | bip_39_word_new_br_11 | liberty<br>drink<br>rose<br>swap<br>auto<br>chaos<br>spatial<br>jungle<br>deliver<br>deposit<br>cluster |  
@@ -147,6 +159,18 @@ deliver |
 | bip_39_word_space_7 | liberty drink rose swap auto chaos spatial |  
 | bip_39_word_space_8 | liberty drink rose swap auto chaos spatial jungle |  
 | bip_39_word_space_9 | liberty drink rose swap auto chaos spatial jungle deliver |  
+| bip_39_word_underscore_1 | liberty |  
+| bip_39_word_underscore_10 | liberty_drink_rose_swap_auto_chaos_spatial_jungle_deliver_deposit |  
+| bip_39_word_underscore_11 | liberty_drink_rose_swap_auto_chaos_spatial_jungle_deliver_deposit_cluster |  
+| bip_39_word_underscore_12 | liberty_drink_rose_swap_auto_chaos_spatial_jungle_deliver_deposit_cluster_addict |  
+| bip_39_word_underscore_2 | liberty_drink |  
+| bip_39_word_underscore_3 | liberty_drink_rose |  
+| bip_39_word_underscore_4 | liberty_drink_rose_swap |  
+| bip_39_word_underscore_5 | liberty_drink_rose_swap_auto |  
+| bip_39_word_underscore_6 | liberty_drink_rose_swap_auto_chaos |  
+| bip_39_word_underscore_7 | liberty_drink_rose_swap_auto_chaos_spatial |  
+| bip_39_word_underscore_8 | liberty_drink_rose_swap_auto_chaos_spatial_jungle |  
+| bip_39_word_underscore_9 | liberty_drink_rose_swap_auto_chaos_spatial_jungle_deliver |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

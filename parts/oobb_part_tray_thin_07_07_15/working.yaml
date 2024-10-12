@@ -1,3 +1,15 @@
+bip_39_word_dash_1: palace
+bip_39_word_dash_10: palace-reflect-limb-ticket-drink-certain-vessel-minor-web-midnight
+bip_39_word_dash_11: palace-reflect-limb-ticket-drink-certain-vessel-minor-web-midnight-jelly
+bip_39_word_dash_12: palace-reflect-limb-ticket-drink-certain-vessel-minor-web-midnight-jelly-anxiety
+bip_39_word_dash_2: palace-reflect
+bip_39_word_dash_3: palace-reflect-limb
+bip_39_word_dash_4: palace-reflect-limb-ticket
+bip_39_word_dash_5: palace-reflect-limb-ticket-drink
+bip_39_word_dash_6: palace-reflect-limb-ticket-drink-certain
+bip_39_word_dash_7: palace-reflect-limb-ticket-drink-certain-vessel
+bip_39_word_dash_8: palace-reflect-limb-ticket-drink-certain-vessel-minor
+bip_39_word_dash_9: palace-reflect-limb-ticket-drink-certain-vessel-minor-web
 bip_39_word_new_br_1: palace
 bip_39_word_new_br_10: palace<br>reflect<br>limb<br>ticket<br>drink<br>certain<br>vessel<br>minor<br>web<br>midnight
 bip_39_word_new_br_11: palace<br>reflect<br>limb<br>ticket<br>drink<br>certain<br>vessel<br>minor<br>web<br>midnight<br>jelly
@@ -193,6 +205,18 @@ bip_39_word_space_6: palace reflect limb ticket drink certain
 bip_39_word_space_7: palace reflect limb ticket drink certain vessel
 bip_39_word_space_8: palace reflect limb ticket drink certain vessel minor
 bip_39_word_space_9: palace reflect limb ticket drink certain vessel minor web
+bip_39_word_underscore_1: palace
+bip_39_word_underscore_10: palace_reflect_limb_ticket_drink_certain_vessel_minor_web_midnight
+bip_39_word_underscore_11: palace_reflect_limb_ticket_drink_certain_vessel_minor_web_midnight_jelly
+bip_39_word_underscore_12: palace_reflect_limb_ticket_drink_certain_vessel_minor_web_midnight_jelly_anxiety
+bip_39_word_underscore_2: palace_reflect
+bip_39_word_underscore_3: palace_reflect_limb
+bip_39_word_underscore_4: palace_reflect_limb_ticket
+bip_39_word_underscore_5: palace_reflect_limb_ticket_drink
+bip_39_word_underscore_6: palace_reflect_limb_ticket_drink_certain
+bip_39_word_underscore_7: palace_reflect_limb_ticket_drink_certain_vessel
+bip_39_word_underscore_8: palace_reflect_limb_ticket_drink_certain_vessel_minor
+bip_39_word_underscore_9: palace_reflect_limb_ticket_drink_certain_vessel_minor_web
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

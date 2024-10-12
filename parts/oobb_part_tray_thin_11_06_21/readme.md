@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burger |  
+| bip_39_word_dash_10 | burger-rapid-oblige-diet-lunch-creek-fancy-double-minimum-scan |  
+| bip_39_word_dash_11 | burger-rapid-oblige-diet-lunch-creek-fancy-double-minimum-scan-nurse |  
+| bip_39_word_dash_12 | burger-rapid-oblige-diet-lunch-creek-fancy-double-minimum-scan-nurse-ask |  
+| bip_39_word_dash_2 | burger-rapid |  
+| bip_39_word_dash_3 | burger-rapid-oblige |  
+| bip_39_word_dash_4 | burger-rapid-oblige-diet |  
+| bip_39_word_dash_5 | burger-rapid-oblige-diet-lunch |  
+| bip_39_word_dash_6 | burger-rapid-oblige-diet-lunch-creek |  
+| bip_39_word_dash_7 | burger-rapid-oblige-diet-lunch-creek-fancy |  
+| bip_39_word_dash_8 | burger-rapid-oblige-diet-lunch-creek-fancy-double |  
+| bip_39_word_dash_9 | burger-rapid-oblige-diet-lunch-creek-fancy-double-minimum |  
 | bip_39_word_new_br_1 | burger |  
 | bip_39_word_new_br_10 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double<br>minimum<br>scan |  
 | bip_39_word_new_br_11 | burger<br>rapid<br>oblige<br>diet<br>lunch<br>creek<br>fancy<br>double<br>minimum<br>scan<br>nurse |  
@@ -147,6 +159,18 @@ minimum |
 | bip_39_word_space_7 | burger rapid oblige diet lunch creek fancy |  
 | bip_39_word_space_8 | burger rapid oblige diet lunch creek fancy double |  
 | bip_39_word_space_9 | burger rapid oblige diet lunch creek fancy double minimum |  
+| bip_39_word_underscore_1 | burger |  
+| bip_39_word_underscore_10 | burger_rapid_oblige_diet_lunch_creek_fancy_double_minimum_scan |  
+| bip_39_word_underscore_11 | burger_rapid_oblige_diet_lunch_creek_fancy_double_minimum_scan_nurse |  
+| bip_39_word_underscore_12 | burger_rapid_oblige_diet_lunch_creek_fancy_double_minimum_scan_nurse_ask |  
+| bip_39_word_underscore_2 | burger_rapid |  
+| bip_39_word_underscore_3 | burger_rapid_oblige |  
+| bip_39_word_underscore_4 | burger_rapid_oblige_diet |  
+| bip_39_word_underscore_5 | burger_rapid_oblige_diet_lunch |  
+| bip_39_word_underscore_6 | burger_rapid_oblige_diet_lunch_creek |  
+| bip_39_word_underscore_7 | burger_rapid_oblige_diet_lunch_creek_fancy |  
+| bip_39_word_underscore_8 | burger_rapid_oblige_diet_lunch_creek_fancy_double |  
+| bip_39_word_underscore_9 | burger_rapid_oblige_diet_lunch_creek_fancy_double_minimum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

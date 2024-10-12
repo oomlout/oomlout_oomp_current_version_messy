@@ -1,3 +1,15 @@
+bip_39_word_dash_1: save
+bip_39_word_dash_10: save-cannon-heart-zoo-allow-icon-long-gap-memory-invest
+bip_39_word_dash_11: save-cannon-heart-zoo-allow-icon-long-gap-memory-invest-radio
+bip_39_word_dash_12: save-cannon-heart-zoo-allow-icon-long-gap-memory-invest-radio-arrest
+bip_39_word_dash_2: save-cannon
+bip_39_word_dash_3: save-cannon-heart
+bip_39_word_dash_4: save-cannon-heart-zoo
+bip_39_word_dash_5: save-cannon-heart-zoo-allow
+bip_39_word_dash_6: save-cannon-heart-zoo-allow-icon
+bip_39_word_dash_7: save-cannon-heart-zoo-allow-icon-long
+bip_39_word_dash_8: save-cannon-heart-zoo-allow-icon-long-gap
+bip_39_word_dash_9: save-cannon-heart-zoo-allow-icon-long-gap-memory
 bip_39_word_new_br_1: save
 bip_39_word_new_br_10: save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest
 bip_39_word_new_br_11: save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest<br>radio
@@ -192,6 +204,18 @@ bip_39_word_space_6: save cannon heart zoo allow icon
 bip_39_word_space_7: save cannon heart zoo allow icon long
 bip_39_word_space_8: save cannon heart zoo allow icon long gap
 bip_39_word_space_9: save cannon heart zoo allow icon long gap memory
+bip_39_word_underscore_1: save
+bip_39_word_underscore_10: save_cannon_heart_zoo_allow_icon_long_gap_memory_invest
+bip_39_word_underscore_11: save_cannon_heart_zoo_allow_icon_long_gap_memory_invest_radio
+bip_39_word_underscore_12: save_cannon_heart_zoo_allow_icon_long_gap_memory_invest_radio_arrest
+bip_39_word_underscore_2: save_cannon
+bip_39_word_underscore_3: save_cannon_heart
+bip_39_word_underscore_4: save_cannon_heart_zoo
+bip_39_word_underscore_5: save_cannon_heart_zoo_allow
+bip_39_word_underscore_6: save_cannon_heart_zoo_allow_icon
+bip_39_word_underscore_7: save_cannon_heart_zoo_allow_icon_long
+bip_39_word_underscore_8: save_cannon_heart_zoo_allow_icon_long_gap
+bip_39_word_underscore_9: save_cannon_heart_zoo_allow_icon_long_gap_memory
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

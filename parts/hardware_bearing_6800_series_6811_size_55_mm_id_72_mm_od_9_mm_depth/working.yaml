@@ -1,3 +1,15 @@
+bip_39_word_dash_1: access
+bip_39_word_dash_10: access-able-provide-evoke-lumber-link-cargo-attract-blue-bundle
+bip_39_word_dash_11: access-able-provide-evoke-lumber-link-cargo-attract-blue-bundle-lift
+bip_39_word_dash_12: access-able-provide-evoke-lumber-link-cargo-attract-blue-bundle-lift-again
+bip_39_word_dash_2: access-able
+bip_39_word_dash_3: access-able-provide
+bip_39_word_dash_4: access-able-provide-evoke
+bip_39_word_dash_5: access-able-provide-evoke-lumber
+bip_39_word_dash_6: access-able-provide-evoke-lumber-link
+bip_39_word_dash_7: access-able-provide-evoke-lumber-link-cargo
+bip_39_word_dash_8: access-able-provide-evoke-lumber-link-cargo-attract
+bip_39_word_dash_9: access-able-provide-evoke-lumber-link-cargo-attract-blue
 bip_39_word_new_br_1: access
 bip_39_word_new_br_10: access<br>able<br>provide<br>evoke<br>lumber<br>link<br>cargo<br>attract<br>blue<br>bundle
 bip_39_word_new_br_11: access<br>able<br>provide<br>evoke<br>lumber<br>link<br>cargo<br>attract<br>blue<br>bundle<br>lift
@@ -193,6 +205,18 @@ bip_39_word_space_6: access able provide evoke lumber link
 bip_39_word_space_7: access able provide evoke lumber link cargo
 bip_39_word_space_8: access able provide evoke lumber link cargo attract
 bip_39_word_space_9: access able provide evoke lumber link cargo attract blue
+bip_39_word_underscore_1: access
+bip_39_word_underscore_10: access_able_provide_evoke_lumber_link_cargo_attract_blue_bundle
+bip_39_word_underscore_11: access_able_provide_evoke_lumber_link_cargo_attract_blue_bundle_lift
+bip_39_word_underscore_12: access_able_provide_evoke_lumber_link_cargo_attract_blue_bundle_lift_again
+bip_39_word_underscore_2: access_able
+bip_39_word_underscore_3: access_able_provide
+bip_39_word_underscore_4: access_able_provide_evoke
+bip_39_word_underscore_5: access_able_provide_evoke_lumber
+bip_39_word_underscore_6: access_able_provide_evoke_lumber_link
+bip_39_word_underscore_7: access_able_provide_evoke_lumber_link_cargo
+bip_39_word_underscore_8: access_able_provide_evoke_lumber_link_cargo_attract
+bip_39_word_underscore_9: access_able_provide_evoke_lumber_link_cargo_attract_blue
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

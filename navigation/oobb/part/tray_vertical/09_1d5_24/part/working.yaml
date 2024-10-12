@@ -1,3 +1,15 @@
+bip_39_word_dash_1: piece
+bip_39_word_dash_10: piece-kitten-prefer-silent-rally-hard-flee-electric-fiscal-soup
+bip_39_word_dash_11: piece-kitten-prefer-silent-rally-hard-flee-electric-fiscal-soup-six
+bip_39_word_dash_12: piece-kitten-prefer-silent-rally-hard-flee-electric-fiscal-soup-six-agent
+bip_39_word_dash_2: piece-kitten
+bip_39_word_dash_3: piece-kitten-prefer
+bip_39_word_dash_4: piece-kitten-prefer-silent
+bip_39_word_dash_5: piece-kitten-prefer-silent-rally
+bip_39_word_dash_6: piece-kitten-prefer-silent-rally-hard
+bip_39_word_dash_7: piece-kitten-prefer-silent-rally-hard-flee
+bip_39_word_dash_8: piece-kitten-prefer-silent-rally-hard-flee-electric
+bip_39_word_dash_9: piece-kitten-prefer-silent-rally-hard-flee-electric-fiscal
 bip_39_word_new_br_1: piece
 bip_39_word_new_br_10: piece<br>kitten<br>prefer<br>silent<br>rally<br>hard<br>flee<br>electric<br>fiscal<br>soup
 bip_39_word_new_br_11: piece<br>kitten<br>prefer<br>silent<br>rally<br>hard<br>flee<br>electric<br>fiscal<br>soup<br>six
@@ -193,6 +205,18 @@ bip_39_word_space_6: piece kitten prefer silent rally hard
 bip_39_word_space_7: piece kitten prefer silent rally hard flee
 bip_39_word_space_8: piece kitten prefer silent rally hard flee electric
 bip_39_word_space_9: piece kitten prefer silent rally hard flee electric fiscal
+bip_39_word_underscore_1: piece
+bip_39_word_underscore_10: piece_kitten_prefer_silent_rally_hard_flee_electric_fiscal_soup
+bip_39_word_underscore_11: piece_kitten_prefer_silent_rally_hard_flee_electric_fiscal_soup_six
+bip_39_word_underscore_12: piece_kitten_prefer_silent_rally_hard_flee_electric_fiscal_soup_six_agent
+bip_39_word_underscore_2: piece_kitten
+bip_39_word_underscore_3: piece_kitten_prefer
+bip_39_word_underscore_4: piece_kitten_prefer_silent
+bip_39_word_underscore_5: piece_kitten_prefer_silent_rally
+bip_39_word_underscore_6: piece_kitten_prefer_silent_rally_hard
+bip_39_word_underscore_7: piece_kitten_prefer_silent_rally_hard_flee
+bip_39_word_underscore_8: piece_kitten_prefer_silent_rally_hard_flee_electric
+bip_39_word_underscore_9: piece_kitten_prefer_silent_rally_hard_flee_electric_fiscal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

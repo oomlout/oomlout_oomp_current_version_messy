@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sick |  
+| bip_39_word_dash_10 | sick-relief-betray-labor-aunt-hockey-pepper-list-theme-journey |  
+| bip_39_word_dash_11 | sick-relief-betray-labor-aunt-hockey-pepper-list-theme-journey-unusual |  
+| bip_39_word_dash_12 | sick-relief-betray-labor-aunt-hockey-pepper-list-theme-journey-unusual-already |  
+| bip_39_word_dash_2 | sick-relief |  
+| bip_39_word_dash_3 | sick-relief-betray |  
+| bip_39_word_dash_4 | sick-relief-betray-labor |  
+| bip_39_word_dash_5 | sick-relief-betray-labor-aunt |  
+| bip_39_word_dash_6 | sick-relief-betray-labor-aunt-hockey |  
+| bip_39_word_dash_7 | sick-relief-betray-labor-aunt-hockey-pepper |  
+| bip_39_word_dash_8 | sick-relief-betray-labor-aunt-hockey-pepper-list |  
+| bip_39_word_dash_9 | sick-relief-betray-labor-aunt-hockey-pepper-list-theme |  
 | bip_39_word_new_br_1 | sick |  
 | bip_39_word_new_br_10 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey |  
 | bip_39_word_new_br_11 | sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey<br>unusual |  
@@ -147,6 +159,18 @@ theme |
 | bip_39_word_space_7 | sick relief betray labor aunt hockey pepper |  
 | bip_39_word_space_8 | sick relief betray labor aunt hockey pepper list |  
 | bip_39_word_space_9 | sick relief betray labor aunt hockey pepper list theme |  
+| bip_39_word_underscore_1 | sick |  
+| bip_39_word_underscore_10 | sick_relief_betray_labor_aunt_hockey_pepper_list_theme_journey |  
+| bip_39_word_underscore_11 | sick_relief_betray_labor_aunt_hockey_pepper_list_theme_journey_unusual |  
+| bip_39_word_underscore_12 | sick_relief_betray_labor_aunt_hockey_pepper_list_theme_journey_unusual_already |  
+| bip_39_word_underscore_2 | sick_relief |  
+| bip_39_word_underscore_3 | sick_relief_betray |  
+| bip_39_word_underscore_4 | sick_relief_betray_labor |  
+| bip_39_word_underscore_5 | sick_relief_betray_labor_aunt |  
+| bip_39_word_underscore_6 | sick_relief_betray_labor_aunt_hockey |  
+| bip_39_word_underscore_7 | sick_relief_betray_labor_aunt_hockey_pepper |  
+| bip_39_word_underscore_8 | sick_relief_betray_labor_aunt_hockey_pepper_list |  
+| bip_39_word_underscore_9 | sick_relief_betray_labor_aunt_hockey_pepper_list_theme |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

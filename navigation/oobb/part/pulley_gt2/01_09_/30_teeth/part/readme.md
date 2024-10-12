@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cushion |  
+| bip_39_word_dash_10 | cushion-flame-paper-before-toddler-squeeze-bird-strike-hip-ribbon |  
+| bip_39_word_dash_11 | cushion-flame-paper-before-toddler-squeeze-bird-strike-hip-ribbon-rotate |  
+| bip_39_word_dash_12 | cushion-flame-paper-before-toddler-squeeze-bird-strike-hip-ribbon-rotate-advance |  
+| bip_39_word_dash_2 | cushion-flame |  
+| bip_39_word_dash_3 | cushion-flame-paper |  
+| bip_39_word_dash_4 | cushion-flame-paper-before |  
+| bip_39_word_dash_5 | cushion-flame-paper-before-toddler |  
+| bip_39_word_dash_6 | cushion-flame-paper-before-toddler-squeeze |  
+| bip_39_word_dash_7 | cushion-flame-paper-before-toddler-squeeze-bird |  
+| bip_39_word_dash_8 | cushion-flame-paper-before-toddler-squeeze-bird-strike |  
+| bip_39_word_dash_9 | cushion-flame-paper-before-toddler-squeeze-bird-strike-hip |  
 | bip_39_word_new_br_1 | cushion |  
 | bip_39_word_new_br_10 | cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike<br>hip<br>ribbon |  
 | bip_39_word_new_br_11 | cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike<br>hip<br>ribbon<br>rotate |  
@@ -147,6 +159,18 @@ hip |
 | bip_39_word_space_7 | cushion flame paper before toddler squeeze bird |  
 | bip_39_word_space_8 | cushion flame paper before toddler squeeze bird strike |  
 | bip_39_word_space_9 | cushion flame paper before toddler squeeze bird strike hip |  
+| bip_39_word_underscore_1 | cushion |  
+| bip_39_word_underscore_10 | cushion_flame_paper_before_toddler_squeeze_bird_strike_hip_ribbon |  
+| bip_39_word_underscore_11 | cushion_flame_paper_before_toddler_squeeze_bird_strike_hip_ribbon_rotate |  
+| bip_39_word_underscore_12 | cushion_flame_paper_before_toddler_squeeze_bird_strike_hip_ribbon_rotate_advance |  
+| bip_39_word_underscore_2 | cushion_flame |  
+| bip_39_word_underscore_3 | cushion_flame_paper |  
+| bip_39_word_underscore_4 | cushion_flame_paper_before |  
+| bip_39_word_underscore_5 | cushion_flame_paper_before_toddler |  
+| bip_39_word_underscore_6 | cushion_flame_paper_before_toddler_squeeze |  
+| bip_39_word_underscore_7 | cushion_flame_paper_before_toddler_squeeze_bird |  
+| bip_39_word_underscore_8 | cushion_flame_paper_before_toddler_squeeze_bird_strike |  
+| bip_39_word_underscore_9 | cushion_flame_paper_before_toddler_squeeze_bird_strike_hip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

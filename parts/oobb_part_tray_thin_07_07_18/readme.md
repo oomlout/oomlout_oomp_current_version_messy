@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fine |  
+| bip_39_word_dash_10 | fine-void-hawk-first-second-gather-brother-fresh-attend-bounce |  
+| bip_39_word_dash_11 | fine-void-hawk-first-second-gather-brother-fresh-attend-bounce-submit |  
+| bip_39_word_dash_12 | fine-void-hawk-first-second-gather-brother-fresh-attend-bounce-submit-air |  
+| bip_39_word_dash_2 | fine-void |  
+| bip_39_word_dash_3 | fine-void-hawk |  
+| bip_39_word_dash_4 | fine-void-hawk-first |  
+| bip_39_word_dash_5 | fine-void-hawk-first-second |  
+| bip_39_word_dash_6 | fine-void-hawk-first-second-gather |  
+| bip_39_word_dash_7 | fine-void-hawk-first-second-gather-brother |  
+| bip_39_word_dash_8 | fine-void-hawk-first-second-gather-brother-fresh |  
+| bip_39_word_dash_9 | fine-void-hawk-first-second-gather-brother-fresh-attend |  
 | bip_39_word_new_br_1 | fine |  
 | bip_39_word_new_br_10 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh<br>attend<br>bounce |  
 | bip_39_word_new_br_11 | fine<br>void<br>hawk<br>first<br>second<br>gather<br>brother<br>fresh<br>attend<br>bounce<br>submit |  
@@ -147,6 +159,18 @@ attend |
 | bip_39_word_space_7 | fine void hawk first second gather brother |  
 | bip_39_word_space_8 | fine void hawk first second gather brother fresh |  
 | bip_39_word_space_9 | fine void hawk first second gather brother fresh attend |  
+| bip_39_word_underscore_1 | fine |  
+| bip_39_word_underscore_10 | fine_void_hawk_first_second_gather_brother_fresh_attend_bounce |  
+| bip_39_word_underscore_11 | fine_void_hawk_first_second_gather_brother_fresh_attend_bounce_submit |  
+| bip_39_word_underscore_12 | fine_void_hawk_first_second_gather_brother_fresh_attend_bounce_submit_air |  
+| bip_39_word_underscore_2 | fine_void |  
+| bip_39_word_underscore_3 | fine_void_hawk |  
+| bip_39_word_underscore_4 | fine_void_hawk_first |  
+| bip_39_word_underscore_5 | fine_void_hawk_first_second |  
+| bip_39_word_underscore_6 | fine_void_hawk_first_second_gather |  
+| bip_39_word_underscore_7 | fine_void_hawk_first_second_gather_brother |  
+| bip_39_word_underscore_8 | fine_void_hawk_first_second_gather_brother_fresh |  
+| bip_39_word_underscore_9 | fine_void_hawk_first_second_gather_brother_fresh_attend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tomato |  
+| bip_39_word_dash_10 | tomato-bacon-impulse-exhaust-middle-stereo-stool-digital-hand-finish |  
+| bip_39_word_dash_11 | tomato-bacon-impulse-exhaust-middle-stereo-stool-digital-hand-finish-client |  
+| bip_39_word_dash_12 | tomato-bacon-impulse-exhaust-middle-stereo-stool-digital-hand-finish-client-april |  
+| bip_39_word_dash_2 | tomato-bacon |  
+| bip_39_word_dash_3 | tomato-bacon-impulse |  
+| bip_39_word_dash_4 | tomato-bacon-impulse-exhaust |  
+| bip_39_word_dash_5 | tomato-bacon-impulse-exhaust-middle |  
+| bip_39_word_dash_6 | tomato-bacon-impulse-exhaust-middle-stereo |  
+| bip_39_word_dash_7 | tomato-bacon-impulse-exhaust-middle-stereo-stool |  
+| bip_39_word_dash_8 | tomato-bacon-impulse-exhaust-middle-stereo-stool-digital |  
+| bip_39_word_dash_9 | tomato-bacon-impulse-exhaust-middle-stereo-stool-digital-hand |  
 | bip_39_word_new_br_1 | tomato |  
 | bip_39_word_new_br_10 | tomato<br>bacon<br>impulse<br>exhaust<br>middle<br>stereo<br>stool<br>digital<br>hand<br>finish |  
 | bip_39_word_new_br_11 | tomato<br>bacon<br>impulse<br>exhaust<br>middle<br>stereo<br>stool<br>digital<br>hand<br>finish<br>client |  
@@ -147,6 +159,18 @@ hand |
 | bip_39_word_space_7 | tomato bacon impulse exhaust middle stereo stool |  
 | bip_39_word_space_8 | tomato bacon impulse exhaust middle stereo stool digital |  
 | bip_39_word_space_9 | tomato bacon impulse exhaust middle stereo stool digital hand |  
+| bip_39_word_underscore_1 | tomato |  
+| bip_39_word_underscore_10 | tomato_bacon_impulse_exhaust_middle_stereo_stool_digital_hand_finish |  
+| bip_39_word_underscore_11 | tomato_bacon_impulse_exhaust_middle_stereo_stool_digital_hand_finish_client |  
+| bip_39_word_underscore_12 | tomato_bacon_impulse_exhaust_middle_stereo_stool_digital_hand_finish_client_april |  
+| bip_39_word_underscore_2 | tomato_bacon |  
+| bip_39_word_underscore_3 | tomato_bacon_impulse |  
+| bip_39_word_underscore_4 | tomato_bacon_impulse_exhaust |  
+| bip_39_word_underscore_5 | tomato_bacon_impulse_exhaust_middle |  
+| bip_39_word_underscore_6 | tomato_bacon_impulse_exhaust_middle_stereo |  
+| bip_39_word_underscore_7 | tomato_bacon_impulse_exhaust_middle_stereo_stool |  
+| bip_39_word_underscore_8 | tomato_bacon_impulse_exhaust_middle_stereo_stool_digital |  
+| bip_39_word_underscore_9 | tomato_bacon_impulse_exhaust_middle_stereo_stool_digital_hand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

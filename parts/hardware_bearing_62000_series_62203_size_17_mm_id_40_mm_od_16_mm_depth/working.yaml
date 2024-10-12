@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mouse
+bip_39_word_dash_10: mouse-license-vague-couch-empower-tower-rebel-obvious-cheap-call
+bip_39_word_dash_11: mouse-license-vague-couch-empower-tower-rebel-obvious-cheap-call-poem
+bip_39_word_dash_12: mouse-license-vague-couch-empower-tower-rebel-obvious-cheap-call-poem-asthma
+bip_39_word_dash_2: mouse-license
+bip_39_word_dash_3: mouse-license-vague
+bip_39_word_dash_4: mouse-license-vague-couch
+bip_39_word_dash_5: mouse-license-vague-couch-empower
+bip_39_word_dash_6: mouse-license-vague-couch-empower-tower
+bip_39_word_dash_7: mouse-license-vague-couch-empower-tower-rebel
+bip_39_word_dash_8: mouse-license-vague-couch-empower-tower-rebel-obvious
+bip_39_word_dash_9: mouse-license-vague-couch-empower-tower-rebel-obvious-cheap
 bip_39_word_new_br_1: mouse
 bip_39_word_new_br_10: mouse<br>license<br>vague<br>couch<br>empower<br>tower<br>rebel<br>obvious<br>cheap<br>call
 bip_39_word_new_br_11: mouse<br>license<br>vague<br>couch<br>empower<br>tower<br>rebel<br>obvious<br>cheap<br>call<br>poem
@@ -194,6 +206,18 @@ bip_39_word_space_6: mouse license vague couch empower tower
 bip_39_word_space_7: mouse license vague couch empower tower rebel
 bip_39_word_space_8: mouse license vague couch empower tower rebel obvious
 bip_39_word_space_9: mouse license vague couch empower tower rebel obvious cheap
+bip_39_word_underscore_1: mouse
+bip_39_word_underscore_10: mouse_license_vague_couch_empower_tower_rebel_obvious_cheap_call
+bip_39_word_underscore_11: mouse_license_vague_couch_empower_tower_rebel_obvious_cheap_call_poem
+bip_39_word_underscore_12: mouse_license_vague_couch_empower_tower_rebel_obvious_cheap_call_poem_asthma
+bip_39_word_underscore_2: mouse_license
+bip_39_word_underscore_3: mouse_license_vague
+bip_39_word_underscore_4: mouse_license_vague_couch
+bip_39_word_underscore_5: mouse_license_vague_couch_empower
+bip_39_word_underscore_6: mouse_license_vague_couch_empower_tower
+bip_39_word_underscore_7: mouse_license_vague_couch_empower_tower_rebel
+bip_39_word_underscore_8: mouse_license_vague_couch_empower_tower_rebel_obvious
+bip_39_word_underscore_9: mouse_license_vague_couch_empower_tower_rebel_obvious_cheap
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

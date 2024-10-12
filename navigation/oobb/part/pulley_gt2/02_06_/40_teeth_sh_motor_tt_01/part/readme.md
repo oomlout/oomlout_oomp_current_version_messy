@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alert |  
+| bip_39_word_dash_10 | alert-silver-turkey-unhappy-remind-load-intact-guess-review-warrior |  
+| bip_39_word_dash_11 | alert-silver-turkey-unhappy-remind-load-intact-guess-review-warrior-filter |  
+| bip_39_word_dash_12 | alert-silver-turkey-unhappy-remind-load-intact-guess-review-warrior-filter-annual |  
+| bip_39_word_dash_2 | alert-silver |  
+| bip_39_word_dash_3 | alert-silver-turkey |  
+| bip_39_word_dash_4 | alert-silver-turkey-unhappy |  
+| bip_39_word_dash_5 | alert-silver-turkey-unhappy-remind |  
+| bip_39_word_dash_6 | alert-silver-turkey-unhappy-remind-load |  
+| bip_39_word_dash_7 | alert-silver-turkey-unhappy-remind-load-intact |  
+| bip_39_word_dash_8 | alert-silver-turkey-unhappy-remind-load-intact-guess |  
+| bip_39_word_dash_9 | alert-silver-turkey-unhappy-remind-load-intact-guess-review |  
 | bip_39_word_new_br_1 | alert |  
 | bip_39_word_new_br_10 | alert<br>silver<br>turkey<br>unhappy<br>remind<br>load<br>intact<br>guess<br>review<br>warrior |  
 | bip_39_word_new_br_11 | alert<br>silver<br>turkey<br>unhappy<br>remind<br>load<br>intact<br>guess<br>review<br>warrior<br>filter |  
@@ -147,6 +159,18 @@ review |
 | bip_39_word_space_7 | alert silver turkey unhappy remind load intact |  
 | bip_39_word_space_8 | alert silver turkey unhappy remind load intact guess |  
 | bip_39_word_space_9 | alert silver turkey unhappy remind load intact guess review |  
+| bip_39_word_underscore_1 | alert |  
+| bip_39_word_underscore_10 | alert_silver_turkey_unhappy_remind_load_intact_guess_review_warrior |  
+| bip_39_word_underscore_11 | alert_silver_turkey_unhappy_remind_load_intact_guess_review_warrior_filter |  
+| bip_39_word_underscore_12 | alert_silver_turkey_unhappy_remind_load_intact_guess_review_warrior_filter_annual |  
+| bip_39_word_underscore_2 | alert_silver |  
+| bip_39_word_underscore_3 | alert_silver_turkey |  
+| bip_39_word_underscore_4 | alert_silver_turkey_unhappy |  
+| bip_39_word_underscore_5 | alert_silver_turkey_unhappy_remind |  
+| bip_39_word_underscore_6 | alert_silver_turkey_unhappy_remind_load |  
+| bip_39_word_underscore_7 | alert_silver_turkey_unhappy_remind_load_intact |  
+| bip_39_word_underscore_8 | alert_silver_turkey_unhappy_remind_load_intact_guess |  
+| bip_39_word_underscore_9 | alert_silver_turkey_unhappy_remind_load_intact_guess_review |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

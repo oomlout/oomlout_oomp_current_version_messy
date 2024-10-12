@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | green |  
+| bip_39_word_dash_10 | green-future-sound-kitten-that-sign-grape-huge-ankle-chicken |  
+| bip_39_word_dash_11 | green-future-sound-kitten-that-sign-grape-huge-ankle-chicken-unhappy |  
+| bip_39_word_dash_12 | green-future-sound-kitten-that-sign-grape-huge-ankle-chicken-unhappy-angry |  
+| bip_39_word_dash_2 | green-future |  
+| bip_39_word_dash_3 | green-future-sound |  
+| bip_39_word_dash_4 | green-future-sound-kitten |  
+| bip_39_word_dash_5 | green-future-sound-kitten-that |  
+| bip_39_word_dash_6 | green-future-sound-kitten-that-sign |  
+| bip_39_word_dash_7 | green-future-sound-kitten-that-sign-grape |  
+| bip_39_word_dash_8 | green-future-sound-kitten-that-sign-grape-huge |  
+| bip_39_word_dash_9 | green-future-sound-kitten-that-sign-grape-huge-ankle |  
 | bip_39_word_new_br_1 | green |  
 | bip_39_word_new_br_10 | green<br>future<br>sound<br>kitten<br>that<br>sign<br>grape<br>huge<br>ankle<br>chicken |  
 | bip_39_word_new_br_11 | green<br>future<br>sound<br>kitten<br>that<br>sign<br>grape<br>huge<br>ankle<br>chicken<br>unhappy |  
@@ -147,6 +159,18 @@ ankle |
 | bip_39_word_space_7 | green future sound kitten that sign grape |  
 | bip_39_word_space_8 | green future sound kitten that sign grape huge |  
 | bip_39_word_space_9 | green future sound kitten that sign grape huge ankle |  
+| bip_39_word_underscore_1 | green |  
+| bip_39_word_underscore_10 | green_future_sound_kitten_that_sign_grape_huge_ankle_chicken |  
+| bip_39_word_underscore_11 | green_future_sound_kitten_that_sign_grape_huge_ankle_chicken_unhappy |  
+| bip_39_word_underscore_12 | green_future_sound_kitten_that_sign_grape_huge_ankle_chicken_unhappy_angry |  
+| bip_39_word_underscore_2 | green_future |  
+| bip_39_word_underscore_3 | green_future_sound |  
+| bip_39_word_underscore_4 | green_future_sound_kitten |  
+| bip_39_word_underscore_5 | green_future_sound_kitten_that |  
+| bip_39_word_underscore_6 | green_future_sound_kitten_that_sign |  
+| bip_39_word_underscore_7 | green_future_sound_kitten_that_sign_grape |  
+| bip_39_word_underscore_8 | green_future_sound_kitten_that_sign_grape_huge |  
+| bip_39_word_underscore_9 | green_future_sound_kitten_that_sign_grape_huge_ankle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

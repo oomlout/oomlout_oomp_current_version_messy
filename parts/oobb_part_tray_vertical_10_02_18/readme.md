@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | medal |  
+| bip_39_word_dash_10 | medal-suspect-patrol-rather-ostrich-cause-ribbon-gain-river-eye |  
+| bip_39_word_dash_11 | medal-suspect-patrol-rather-ostrich-cause-ribbon-gain-river-eye-ladder |  
+| bip_39_word_dash_12 | medal-suspect-patrol-rather-ostrich-cause-ribbon-gain-river-eye-ladder-absurd |  
+| bip_39_word_dash_2 | medal-suspect |  
+| bip_39_word_dash_3 | medal-suspect-patrol |  
+| bip_39_word_dash_4 | medal-suspect-patrol-rather |  
+| bip_39_word_dash_5 | medal-suspect-patrol-rather-ostrich |  
+| bip_39_word_dash_6 | medal-suspect-patrol-rather-ostrich-cause |  
+| bip_39_word_dash_7 | medal-suspect-patrol-rather-ostrich-cause-ribbon |  
+| bip_39_word_dash_8 | medal-suspect-patrol-rather-ostrich-cause-ribbon-gain |  
+| bip_39_word_dash_9 | medal-suspect-patrol-rather-ostrich-cause-ribbon-gain-river |  
 | bip_39_word_new_br_1 | medal |  
 | bip_39_word_new_br_10 | medal<br>suspect<br>patrol<br>rather<br>ostrich<br>cause<br>ribbon<br>gain<br>river<br>eye |  
 | bip_39_word_new_br_11 | medal<br>suspect<br>patrol<br>rather<br>ostrich<br>cause<br>ribbon<br>gain<br>river<br>eye<br>ladder |  
@@ -147,6 +159,18 @@ river |
 | bip_39_word_space_7 | medal suspect patrol rather ostrich cause ribbon |  
 | bip_39_word_space_8 | medal suspect patrol rather ostrich cause ribbon gain |  
 | bip_39_word_space_9 | medal suspect patrol rather ostrich cause ribbon gain river |  
+| bip_39_word_underscore_1 | medal |  
+| bip_39_word_underscore_10 | medal_suspect_patrol_rather_ostrich_cause_ribbon_gain_river_eye |  
+| bip_39_word_underscore_11 | medal_suspect_patrol_rather_ostrich_cause_ribbon_gain_river_eye_ladder |  
+| bip_39_word_underscore_12 | medal_suspect_patrol_rather_ostrich_cause_ribbon_gain_river_eye_ladder_absurd |  
+| bip_39_word_underscore_2 | medal_suspect |  
+| bip_39_word_underscore_3 | medal_suspect_patrol |  
+| bip_39_word_underscore_4 | medal_suspect_patrol_rather |  
+| bip_39_word_underscore_5 | medal_suspect_patrol_rather_ostrich |  
+| bip_39_word_underscore_6 | medal_suspect_patrol_rather_ostrich_cause |  
+| bip_39_word_underscore_7 | medal_suspect_patrol_rather_ostrich_cause_ribbon |  
+| bip_39_word_underscore_8 | medal_suspect_patrol_rather_ostrich_cause_ribbon_gain |  
+| bip_39_word_underscore_9 | medal_suspect_patrol_rather_ostrich_cause_ribbon_gain_river |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

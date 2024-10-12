@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | patch |  
+| bip_39_word_dash_10 | patch-satoshi-cave-polar-promote-broom-fiber-impulse-erosion-explain |  
+| bip_39_word_dash_11 | patch-satoshi-cave-polar-promote-broom-fiber-impulse-erosion-explain-lend |  
+| bip_39_word_dash_12 | patch-satoshi-cave-polar-promote-broom-fiber-impulse-erosion-explain-lend-advice |  
+| bip_39_word_dash_2 | patch-satoshi |  
+| bip_39_word_dash_3 | patch-satoshi-cave |  
+| bip_39_word_dash_4 | patch-satoshi-cave-polar |  
+| bip_39_word_dash_5 | patch-satoshi-cave-polar-promote |  
+| bip_39_word_dash_6 | patch-satoshi-cave-polar-promote-broom |  
+| bip_39_word_dash_7 | patch-satoshi-cave-polar-promote-broom-fiber |  
+| bip_39_word_dash_8 | patch-satoshi-cave-polar-promote-broom-fiber-impulse |  
+| bip_39_word_dash_9 | patch-satoshi-cave-polar-promote-broom-fiber-impulse-erosion |  
 | bip_39_word_new_br_1 | patch |  
 | bip_39_word_new_br_10 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse<br>erosion<br>explain |  
 | bip_39_word_new_br_11 | patch<br>satoshi<br>cave<br>polar<br>promote<br>broom<br>fiber<br>impulse<br>erosion<br>explain<br>lend |  
@@ -147,6 +159,18 @@ erosion |
 | bip_39_word_space_7 | patch satoshi cave polar promote broom fiber |  
 | bip_39_word_space_8 | patch satoshi cave polar promote broom fiber impulse |  
 | bip_39_word_space_9 | patch satoshi cave polar promote broom fiber impulse erosion |  
+| bip_39_word_underscore_1 | patch |  
+| bip_39_word_underscore_10 | patch_satoshi_cave_polar_promote_broom_fiber_impulse_erosion_explain |  
+| bip_39_word_underscore_11 | patch_satoshi_cave_polar_promote_broom_fiber_impulse_erosion_explain_lend |  
+| bip_39_word_underscore_12 | patch_satoshi_cave_polar_promote_broom_fiber_impulse_erosion_explain_lend_advice |  
+| bip_39_word_underscore_2 | patch_satoshi |  
+| bip_39_word_underscore_3 | patch_satoshi_cave |  
+| bip_39_word_underscore_4 | patch_satoshi_cave_polar |  
+| bip_39_word_underscore_5 | patch_satoshi_cave_polar_promote |  
+| bip_39_word_underscore_6 | patch_satoshi_cave_polar_promote_broom |  
+| bip_39_word_underscore_7 | patch_satoshi_cave_polar_promote_broom_fiber |  
+| bip_39_word_underscore_8 | patch_satoshi_cave_polar_promote_broom_fiber_impulse |  
+| bip_39_word_underscore_9 | patch_satoshi_cave_polar_promote_broom_fiber_impulse_erosion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

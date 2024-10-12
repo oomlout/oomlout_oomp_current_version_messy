@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | donor |  
+| bip_39_word_dash_10 | donor-duck-undo-joy-brass-discover-design-super-this-inform |  
+| bip_39_word_dash_11 | donor-duck-undo-joy-brass-discover-design-super-this-inform-weekend |  
+| bip_39_word_dash_12 | donor-duck-undo-joy-brass-discover-design-super-this-inform-weekend-antique |  
+| bip_39_word_dash_2 | donor-duck |  
+| bip_39_word_dash_3 | donor-duck-undo |  
+| bip_39_word_dash_4 | donor-duck-undo-joy |  
+| bip_39_word_dash_5 | donor-duck-undo-joy-brass |  
+| bip_39_word_dash_6 | donor-duck-undo-joy-brass-discover |  
+| bip_39_word_dash_7 | donor-duck-undo-joy-brass-discover-design |  
+| bip_39_word_dash_8 | donor-duck-undo-joy-brass-discover-design-super |  
+| bip_39_word_dash_9 | donor-duck-undo-joy-brass-discover-design-super-this |  
 | bip_39_word_new_br_1 | donor |  
 | bip_39_word_new_br_10 | donor<br>duck<br>undo<br>joy<br>brass<br>discover<br>design<br>super<br>this<br>inform |  
 | bip_39_word_new_br_11 | donor<br>duck<br>undo<br>joy<br>brass<br>discover<br>design<br>super<br>this<br>inform<br>weekend |  
@@ -147,6 +159,18 @@ this |
 | bip_39_word_space_7 | donor duck undo joy brass discover design |  
 | bip_39_word_space_8 | donor duck undo joy brass discover design super |  
 | bip_39_word_space_9 | donor duck undo joy brass discover design super this |  
+| bip_39_word_underscore_1 | donor |  
+| bip_39_word_underscore_10 | donor_duck_undo_joy_brass_discover_design_super_this_inform |  
+| bip_39_word_underscore_11 | donor_duck_undo_joy_brass_discover_design_super_this_inform_weekend |  
+| bip_39_word_underscore_12 | donor_duck_undo_joy_brass_discover_design_super_this_inform_weekend_antique |  
+| bip_39_word_underscore_2 | donor_duck |  
+| bip_39_word_underscore_3 | donor_duck_undo |  
+| bip_39_word_underscore_4 | donor_duck_undo_joy |  
+| bip_39_word_underscore_5 | donor_duck_undo_joy_brass |  
+| bip_39_word_underscore_6 | donor_duck_undo_joy_brass_discover |  
+| bip_39_word_underscore_7 | donor_duck_undo_joy_brass_discover_design |  
+| bip_39_word_underscore_8 | donor_duck_undo_joy_brass_discover_design_super |  
+| bip_39_word_underscore_9 | donor_duck_undo_joy_brass_discover_design_super_this |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

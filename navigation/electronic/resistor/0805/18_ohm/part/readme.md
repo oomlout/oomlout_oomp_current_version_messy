@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | interest |  
+| bip_39_word_dash_10 | interest-rebel-misery-foil-beef-panel-solar-dismiss-want-comfort |  
+| bip_39_word_dash_11 | interest-rebel-misery-foil-beef-panel-solar-dismiss-want-comfort-bar |  
+| bip_39_word_dash_12 | interest-rebel-misery-foil-beef-panel-solar-dismiss-want-comfort-bar-accuse |  
+| bip_39_word_dash_2 | interest-rebel |  
+| bip_39_word_dash_3 | interest-rebel-misery |  
+| bip_39_word_dash_4 | interest-rebel-misery-foil |  
+| bip_39_word_dash_5 | interest-rebel-misery-foil-beef |  
+| bip_39_word_dash_6 | interest-rebel-misery-foil-beef-panel |  
+| bip_39_word_dash_7 | interest-rebel-misery-foil-beef-panel-solar |  
+| bip_39_word_dash_8 | interest-rebel-misery-foil-beef-panel-solar-dismiss |  
+| bip_39_word_dash_9 | interest-rebel-misery-foil-beef-panel-solar-dismiss-want |  
 | bip_39_word_new_br_1 | interest |  
 | bip_39_word_new_br_10 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss<br>want<br>comfort |  
 | bip_39_word_new_br_11 | interest<br>rebel<br>misery<br>foil<br>beef<br>panel<br>solar<br>dismiss<br>want<br>comfort<br>bar |  
@@ -147,6 +159,18 @@ want |
 | bip_39_word_space_7 | interest rebel misery foil beef panel solar |  
 | bip_39_word_space_8 | interest rebel misery foil beef panel solar dismiss |  
 | bip_39_word_space_9 | interest rebel misery foil beef panel solar dismiss want |  
+| bip_39_word_underscore_1 | interest |  
+| bip_39_word_underscore_10 | interest_rebel_misery_foil_beef_panel_solar_dismiss_want_comfort |  
+| bip_39_word_underscore_11 | interest_rebel_misery_foil_beef_panel_solar_dismiss_want_comfort_bar |  
+| bip_39_word_underscore_12 | interest_rebel_misery_foil_beef_panel_solar_dismiss_want_comfort_bar_accuse |  
+| bip_39_word_underscore_2 | interest_rebel |  
+| bip_39_word_underscore_3 | interest_rebel_misery |  
+| bip_39_word_underscore_4 | interest_rebel_misery_foil |  
+| bip_39_word_underscore_5 | interest_rebel_misery_foil_beef |  
+| bip_39_word_underscore_6 | interest_rebel_misery_foil_beef_panel |  
+| bip_39_word_underscore_7 | interest_rebel_misery_foil_beef_panel_solar |  
+| bip_39_word_underscore_8 | interest_rebel_misery_foil_beef_panel_solar_dismiss |  
+| bip_39_word_underscore_9 | interest_rebel_misery_foil_beef_panel_solar_dismiss_want |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

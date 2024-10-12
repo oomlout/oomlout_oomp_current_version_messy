@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wise
+bip_39_word_dash_10: wise-cool-appear-leave-divert-dirt-alcohol-daring-parrot-seat
+bip_39_word_dash_11: wise-cool-appear-leave-divert-dirt-alcohol-daring-parrot-seat-until
+bip_39_word_dash_12: wise-cool-appear-leave-divert-dirt-alcohol-daring-parrot-seat-until-any
+bip_39_word_dash_2: wise-cool
+bip_39_word_dash_3: wise-cool-appear
+bip_39_word_dash_4: wise-cool-appear-leave
+bip_39_word_dash_5: wise-cool-appear-leave-divert
+bip_39_word_dash_6: wise-cool-appear-leave-divert-dirt
+bip_39_word_dash_7: wise-cool-appear-leave-divert-dirt-alcohol
+bip_39_word_dash_8: wise-cool-appear-leave-divert-dirt-alcohol-daring
+bip_39_word_dash_9: wise-cool-appear-leave-divert-dirt-alcohol-daring-parrot
 bip_39_word_new_br_1: wise
 bip_39_word_new_br_10: wise<br>cool<br>appear<br>leave<br>divert<br>dirt<br>alcohol<br>daring<br>parrot<br>seat
 bip_39_word_new_br_11: wise<br>cool<br>appear<br>leave<br>divert<br>dirt<br>alcohol<br>daring<br>parrot<br>seat<br>until
@@ -193,6 +205,18 @@ bip_39_word_space_6: wise cool appear leave divert dirt
 bip_39_word_space_7: wise cool appear leave divert dirt alcohol
 bip_39_word_space_8: wise cool appear leave divert dirt alcohol daring
 bip_39_word_space_9: wise cool appear leave divert dirt alcohol daring parrot
+bip_39_word_underscore_1: wise
+bip_39_word_underscore_10: wise_cool_appear_leave_divert_dirt_alcohol_daring_parrot_seat
+bip_39_word_underscore_11: wise_cool_appear_leave_divert_dirt_alcohol_daring_parrot_seat_until
+bip_39_word_underscore_12: wise_cool_appear_leave_divert_dirt_alcohol_daring_parrot_seat_until_any
+bip_39_word_underscore_2: wise_cool
+bip_39_word_underscore_3: wise_cool_appear
+bip_39_word_underscore_4: wise_cool_appear_leave
+bip_39_word_underscore_5: wise_cool_appear_leave_divert
+bip_39_word_underscore_6: wise_cool_appear_leave_divert_dirt
+bip_39_word_underscore_7: wise_cool_appear_leave_divert_dirt_alcohol
+bip_39_word_underscore_8: wise_cool_appear_leave_divert_dirt_alcohol_daring
+bip_39_word_underscore_9: wise_cool_appear_leave_divert_dirt_alcohol_daring_parrot
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

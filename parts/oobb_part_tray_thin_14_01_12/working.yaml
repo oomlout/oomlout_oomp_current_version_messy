@@ -1,3 +1,15 @@
+bip_39_word_dash_1: talk
+bip_39_word_dash_10: talk-ivory-harvest-lend-velvet-clog-news-act-swamp-differ
+bip_39_word_dash_11: talk-ivory-harvest-lend-velvet-clog-news-act-swamp-differ-road
+bip_39_word_dash_12: talk-ivory-harvest-lend-velvet-clog-news-act-swamp-differ-road-amount
+bip_39_word_dash_2: talk-ivory
+bip_39_word_dash_3: talk-ivory-harvest
+bip_39_word_dash_4: talk-ivory-harvest-lend
+bip_39_word_dash_5: talk-ivory-harvest-lend-velvet
+bip_39_word_dash_6: talk-ivory-harvest-lend-velvet-clog
+bip_39_word_dash_7: talk-ivory-harvest-lend-velvet-clog-news
+bip_39_word_dash_8: talk-ivory-harvest-lend-velvet-clog-news-act
+bip_39_word_dash_9: talk-ivory-harvest-lend-velvet-clog-news-act-swamp
 bip_39_word_new_br_1: talk
 bip_39_word_new_br_10: talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act<br>swamp<br>differ
 bip_39_word_new_br_11: talk<br>ivory<br>harvest<br>lend<br>velvet<br>clog<br>news<br>act<br>swamp<br>differ<br>road
@@ -192,6 +204,18 @@ bip_39_word_space_6: talk ivory harvest lend velvet clog
 bip_39_word_space_7: talk ivory harvest lend velvet clog news
 bip_39_word_space_8: talk ivory harvest lend velvet clog news act
 bip_39_word_space_9: talk ivory harvest lend velvet clog news act swamp
+bip_39_word_underscore_1: talk
+bip_39_word_underscore_10: talk_ivory_harvest_lend_velvet_clog_news_act_swamp_differ
+bip_39_word_underscore_11: talk_ivory_harvest_lend_velvet_clog_news_act_swamp_differ_road
+bip_39_word_underscore_12: talk_ivory_harvest_lend_velvet_clog_news_act_swamp_differ_road_amount
+bip_39_word_underscore_2: talk_ivory
+bip_39_word_underscore_3: talk_ivory_harvest
+bip_39_word_underscore_4: talk_ivory_harvest_lend
+bip_39_word_underscore_5: talk_ivory_harvest_lend_velvet
+bip_39_word_underscore_6: talk_ivory_harvest_lend_velvet_clog
+bip_39_word_underscore_7: talk_ivory_harvest_lend_velvet_clog_news
+bip_39_word_underscore_8: talk_ivory_harvest_lend_velvet_clog_news_act
+bip_39_word_underscore_9: talk_ivory_harvest_lend_velvet_clog_news_act_swamp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

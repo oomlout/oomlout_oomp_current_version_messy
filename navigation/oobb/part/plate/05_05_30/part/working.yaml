@@ -1,3 +1,15 @@
+bip_39_word_dash_1: page
+bip_39_word_dash_10: page-hard-mountain-traffic-scene-window-plunge-repair-shop-table
+bip_39_word_dash_11: page-hard-mountain-traffic-scene-window-plunge-repair-shop-table-captain
+bip_39_word_dash_12: page-hard-mountain-traffic-scene-window-plunge-repair-shop-table-captain-assist
+bip_39_word_dash_2: page-hard
+bip_39_word_dash_3: page-hard-mountain
+bip_39_word_dash_4: page-hard-mountain-traffic
+bip_39_word_dash_5: page-hard-mountain-traffic-scene
+bip_39_word_dash_6: page-hard-mountain-traffic-scene-window
+bip_39_word_dash_7: page-hard-mountain-traffic-scene-window-plunge
+bip_39_word_dash_8: page-hard-mountain-traffic-scene-window-plunge-repair
+bip_39_word_dash_9: page-hard-mountain-traffic-scene-window-plunge-repair-shop
 bip_39_word_new_br_1: page
 bip_39_word_new_br_10: page<br>hard<br>mountain<br>traffic<br>scene<br>window<br>plunge<br>repair<br>shop<br>table
 bip_39_word_new_br_11: page<br>hard<br>mountain<br>traffic<br>scene<br>window<br>plunge<br>repair<br>shop<br>table<br>captain
@@ -193,6 +205,18 @@ bip_39_word_space_6: page hard mountain traffic scene window
 bip_39_word_space_7: page hard mountain traffic scene window plunge
 bip_39_word_space_8: page hard mountain traffic scene window plunge repair
 bip_39_word_space_9: page hard mountain traffic scene window plunge repair shop
+bip_39_word_underscore_1: page
+bip_39_word_underscore_10: page_hard_mountain_traffic_scene_window_plunge_repair_shop_table
+bip_39_word_underscore_11: page_hard_mountain_traffic_scene_window_plunge_repair_shop_table_captain
+bip_39_word_underscore_12: page_hard_mountain_traffic_scene_window_plunge_repair_shop_table_captain_assist
+bip_39_word_underscore_2: page_hard
+bip_39_word_underscore_3: page_hard_mountain
+bip_39_word_underscore_4: page_hard_mountain_traffic
+bip_39_word_underscore_5: page_hard_mountain_traffic_scene
+bip_39_word_underscore_6: page_hard_mountain_traffic_scene_window
+bip_39_word_underscore_7: page_hard_mountain_traffic_scene_window_plunge
+bip_39_word_underscore_8: page_hard_mountain_traffic_scene_window_plunge_repair
+bip_39_word_underscore_9: page_hard_mountain_traffic_scene_window_plunge_repair_shop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

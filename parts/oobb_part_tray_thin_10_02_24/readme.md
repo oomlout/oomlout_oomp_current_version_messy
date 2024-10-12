@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boss |  
+| bip_39_word_dash_10 | boss-tooth-boost-tent-broken-fresh-forum-theme-steel-steel |  
+| bip_39_word_dash_11 | boss-tooth-boost-tent-broken-fresh-forum-theme-steel-steel-copy |  
+| bip_39_word_dash_12 | boss-tooth-boost-tent-broken-fresh-forum-theme-steel-steel-copy-announce |  
+| bip_39_word_dash_2 | boss-tooth |  
+| bip_39_word_dash_3 | boss-tooth-boost |  
+| bip_39_word_dash_4 | boss-tooth-boost-tent |  
+| bip_39_word_dash_5 | boss-tooth-boost-tent-broken |  
+| bip_39_word_dash_6 | boss-tooth-boost-tent-broken-fresh |  
+| bip_39_word_dash_7 | boss-tooth-boost-tent-broken-fresh-forum |  
+| bip_39_word_dash_8 | boss-tooth-boost-tent-broken-fresh-forum-theme |  
+| bip_39_word_dash_9 | boss-tooth-boost-tent-broken-fresh-forum-theme-steel |  
 | bip_39_word_new_br_1 | boss |  
 | bip_39_word_new_br_10 | boss<br>tooth<br>boost<br>tent<br>broken<br>fresh<br>forum<br>theme<br>steel<br>steel |  
 | bip_39_word_new_br_11 | boss<br>tooth<br>boost<br>tent<br>broken<br>fresh<br>forum<br>theme<br>steel<br>steel<br>copy |  
@@ -147,6 +159,18 @@ steel |
 | bip_39_word_space_7 | boss tooth boost tent broken fresh forum |  
 | bip_39_word_space_8 | boss tooth boost tent broken fresh forum theme |  
 | bip_39_word_space_9 | boss tooth boost tent broken fresh forum theme steel |  
+| bip_39_word_underscore_1 | boss |  
+| bip_39_word_underscore_10 | boss_tooth_boost_tent_broken_fresh_forum_theme_steel_steel |  
+| bip_39_word_underscore_11 | boss_tooth_boost_tent_broken_fresh_forum_theme_steel_steel_copy |  
+| bip_39_word_underscore_12 | boss_tooth_boost_tent_broken_fresh_forum_theme_steel_steel_copy_announce |  
+| bip_39_word_underscore_2 | boss_tooth |  
+| bip_39_word_underscore_3 | boss_tooth_boost |  
+| bip_39_word_underscore_4 | boss_tooth_boost_tent |  
+| bip_39_word_underscore_5 | boss_tooth_boost_tent_broken |  
+| bip_39_word_underscore_6 | boss_tooth_boost_tent_broken_fresh |  
+| bip_39_word_underscore_7 | boss_tooth_boost_tent_broken_fresh_forum |  
+| bip_39_word_underscore_8 | boss_tooth_boost_tent_broken_fresh_forum_theme |  
+| bip_39_word_underscore_9 | boss_tooth_boost_tent_broken_fresh_forum_theme_steel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

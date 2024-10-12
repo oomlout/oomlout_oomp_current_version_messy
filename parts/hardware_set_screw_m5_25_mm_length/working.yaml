@@ -1,3 +1,15 @@
+bip_39_word_dash_1: guilt
+bip_39_word_dash_10: guilt-citizen-person-eye-angle-gesture-eye-bag-agent-embody
+bip_39_word_dash_11: guilt-citizen-person-eye-angle-gesture-eye-bag-agent-embody-rare
+bip_39_word_dash_12: guilt-citizen-person-eye-angle-gesture-eye-bag-agent-embody-rare-adapt
+bip_39_word_dash_2: guilt-citizen
+bip_39_word_dash_3: guilt-citizen-person
+bip_39_word_dash_4: guilt-citizen-person-eye
+bip_39_word_dash_5: guilt-citizen-person-eye-angle
+bip_39_word_dash_6: guilt-citizen-person-eye-angle-gesture
+bip_39_word_dash_7: guilt-citizen-person-eye-angle-gesture-eye
+bip_39_word_dash_8: guilt-citizen-person-eye-angle-gesture-eye-bag
+bip_39_word_dash_9: guilt-citizen-person-eye-angle-gesture-eye-bag-agent
 bip_39_word_new_br_1: guilt
 bip_39_word_new_br_10: guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag<br>agent<br>embody
 bip_39_word_new_br_11: guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag<br>agent<br>embody<br>rare
@@ -193,6 +205,18 @@ bip_39_word_space_6: guilt citizen person eye angle gesture
 bip_39_word_space_7: guilt citizen person eye angle gesture eye
 bip_39_word_space_8: guilt citizen person eye angle gesture eye bag
 bip_39_word_space_9: guilt citizen person eye angle gesture eye bag agent
+bip_39_word_underscore_1: guilt
+bip_39_word_underscore_10: guilt_citizen_person_eye_angle_gesture_eye_bag_agent_embody
+bip_39_word_underscore_11: guilt_citizen_person_eye_angle_gesture_eye_bag_agent_embody_rare
+bip_39_word_underscore_12: guilt_citizen_person_eye_angle_gesture_eye_bag_agent_embody_rare_adapt
+bip_39_word_underscore_2: guilt_citizen
+bip_39_word_underscore_3: guilt_citizen_person
+bip_39_word_underscore_4: guilt_citizen_person_eye
+bip_39_word_underscore_5: guilt_citizen_person_eye_angle
+bip_39_word_underscore_6: guilt_citizen_person_eye_angle_gesture
+bip_39_word_underscore_7: guilt_citizen_person_eye_angle_gesture_eye
+bip_39_word_underscore_8: guilt_citizen_person_eye_angle_gesture_eye_bag
+bip_39_word_underscore_9: guilt_citizen_person_eye_angle_gesture_eye_bag_agent
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

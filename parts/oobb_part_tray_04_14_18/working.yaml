@@ -1,3 +1,15 @@
+bip_39_word_dash_1: profit
+bip_39_word_dash_10: profit-injury-elbow-perfect-arrest-scene-negative-awkward-rifle-swear
+bip_39_word_dash_11: profit-injury-elbow-perfect-arrest-scene-negative-awkward-rifle-swear-melody
+bip_39_word_dash_12: profit-injury-elbow-perfect-arrest-scene-negative-awkward-rifle-swear-melody-alone
+bip_39_word_dash_2: profit-injury
+bip_39_word_dash_3: profit-injury-elbow
+bip_39_word_dash_4: profit-injury-elbow-perfect
+bip_39_word_dash_5: profit-injury-elbow-perfect-arrest
+bip_39_word_dash_6: profit-injury-elbow-perfect-arrest-scene
+bip_39_word_dash_7: profit-injury-elbow-perfect-arrest-scene-negative
+bip_39_word_dash_8: profit-injury-elbow-perfect-arrest-scene-negative-awkward
+bip_39_word_dash_9: profit-injury-elbow-perfect-arrest-scene-negative-awkward-rifle
 bip_39_word_new_br_1: profit
 bip_39_word_new_br_10: profit<br>injury<br>elbow<br>perfect<br>arrest<br>scene<br>negative<br>awkward<br>rifle<br>swear
 bip_39_word_new_br_11: profit<br>injury<br>elbow<br>perfect<br>arrest<br>scene<br>negative<br>awkward<br>rifle<br>swear<br>melody
@@ -194,6 +206,18 @@ bip_39_word_space_6: profit injury elbow perfect arrest scene
 bip_39_word_space_7: profit injury elbow perfect arrest scene negative
 bip_39_word_space_8: profit injury elbow perfect arrest scene negative awkward
 bip_39_word_space_9: profit injury elbow perfect arrest scene negative awkward rifle
+bip_39_word_underscore_1: profit
+bip_39_word_underscore_10: profit_injury_elbow_perfect_arrest_scene_negative_awkward_rifle_swear
+bip_39_word_underscore_11: profit_injury_elbow_perfect_arrest_scene_negative_awkward_rifle_swear_melody
+bip_39_word_underscore_12: profit_injury_elbow_perfect_arrest_scene_negative_awkward_rifle_swear_melody_alone
+bip_39_word_underscore_2: profit_injury
+bip_39_word_underscore_3: profit_injury_elbow
+bip_39_word_underscore_4: profit_injury_elbow_perfect
+bip_39_word_underscore_5: profit_injury_elbow_perfect_arrest
+bip_39_word_underscore_6: profit_injury_elbow_perfect_arrest_scene
+bip_39_word_underscore_7: profit_injury_elbow_perfect_arrest_scene_negative
+bip_39_word_underscore_8: profit_injury_elbow_perfect_arrest_scene_negative_awkward
+bip_39_word_underscore_9: profit_injury_elbow_perfect_arrest_scene_negative_awkward_rifle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

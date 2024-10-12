@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hover
+bip_39_word_dash_10: hover-foam-champion-gap-once-utility-wheat-decide-short-eagle
+bip_39_word_dash_11: hover-foam-champion-gap-once-utility-wheat-decide-short-eagle-hundred
+bip_39_word_dash_12: hover-foam-champion-gap-once-utility-wheat-decide-short-eagle-hundred-attend
+bip_39_word_dash_2: hover-foam
+bip_39_word_dash_3: hover-foam-champion
+bip_39_word_dash_4: hover-foam-champion-gap
+bip_39_word_dash_5: hover-foam-champion-gap-once
+bip_39_word_dash_6: hover-foam-champion-gap-once-utility
+bip_39_word_dash_7: hover-foam-champion-gap-once-utility-wheat
+bip_39_word_dash_8: hover-foam-champion-gap-once-utility-wheat-decide
+bip_39_word_dash_9: hover-foam-champion-gap-once-utility-wheat-decide-short
 bip_39_word_new_br_1: hover
 bip_39_word_new_br_10: hover<br>foam<br>champion<br>gap<br>once<br>utility<br>wheat<br>decide<br>short<br>eagle
 bip_39_word_new_br_11: hover<br>foam<br>champion<br>gap<br>once<br>utility<br>wheat<br>decide<br>short<br>eagle<br>hundred
@@ -193,6 +205,18 @@ bip_39_word_space_6: hover foam champion gap once utility
 bip_39_word_space_7: hover foam champion gap once utility wheat
 bip_39_word_space_8: hover foam champion gap once utility wheat decide
 bip_39_word_space_9: hover foam champion gap once utility wheat decide short
+bip_39_word_underscore_1: hover
+bip_39_word_underscore_10: hover_foam_champion_gap_once_utility_wheat_decide_short_eagle
+bip_39_word_underscore_11: hover_foam_champion_gap_once_utility_wheat_decide_short_eagle_hundred
+bip_39_word_underscore_12: hover_foam_champion_gap_once_utility_wheat_decide_short_eagle_hundred_attend
+bip_39_word_underscore_2: hover_foam
+bip_39_word_underscore_3: hover_foam_champion
+bip_39_word_underscore_4: hover_foam_champion_gap
+bip_39_word_underscore_5: hover_foam_champion_gap_once
+bip_39_word_underscore_6: hover_foam_champion_gap_once_utility
+bip_39_word_underscore_7: hover_foam_champion_gap_once_utility_wheat
+bip_39_word_underscore_8: hover_foam_champion_gap_once_utility_wheat_decide
+bip_39_word_underscore_9: hover_foam_champion_gap_once_utility_wheat_decide_short
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

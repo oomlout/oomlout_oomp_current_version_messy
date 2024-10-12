@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sick
+bip_39_word_dash_10: sick-such-mystery-frost-below-time-lounge-helmet-merge-consider
+bip_39_word_dash_11: sick-such-mystery-frost-below-time-lounge-helmet-merge-consider-embark
+bip_39_word_dash_12: sick-such-mystery-frost-below-time-lounge-helmet-merge-consider-embark-account
+bip_39_word_dash_2: sick-such
+bip_39_word_dash_3: sick-such-mystery
+bip_39_word_dash_4: sick-such-mystery-frost
+bip_39_word_dash_5: sick-such-mystery-frost-below
+bip_39_word_dash_6: sick-such-mystery-frost-below-time
+bip_39_word_dash_7: sick-such-mystery-frost-below-time-lounge
+bip_39_word_dash_8: sick-such-mystery-frost-below-time-lounge-helmet
+bip_39_word_dash_9: sick-such-mystery-frost-below-time-lounge-helmet-merge
 bip_39_word_new_br_1: sick
 bip_39_word_new_br_10: sick<br>such<br>mystery<br>frost<br>below<br>time<br>lounge<br>helmet<br>merge<br>consider
 bip_39_word_new_br_11: sick<br>such<br>mystery<br>frost<br>below<br>time<br>lounge<br>helmet<br>merge<br>consider<br>embark
@@ -193,6 +205,18 @@ bip_39_word_space_6: sick such mystery frost below time
 bip_39_word_space_7: sick such mystery frost below time lounge
 bip_39_word_space_8: sick such mystery frost below time lounge helmet
 bip_39_word_space_9: sick such mystery frost below time lounge helmet merge
+bip_39_word_underscore_1: sick
+bip_39_word_underscore_10: sick_such_mystery_frost_below_time_lounge_helmet_merge_consider
+bip_39_word_underscore_11: sick_such_mystery_frost_below_time_lounge_helmet_merge_consider_embark
+bip_39_word_underscore_12: sick_such_mystery_frost_below_time_lounge_helmet_merge_consider_embark_account
+bip_39_word_underscore_2: sick_such
+bip_39_word_underscore_3: sick_such_mystery
+bip_39_word_underscore_4: sick_such_mystery_frost
+bip_39_word_underscore_5: sick_such_mystery_frost_below
+bip_39_word_underscore_6: sick_such_mystery_frost_below_time
+bip_39_word_underscore_7: sick_such_mystery_frost_below_time_lounge
+bip_39_word_underscore_8: sick_such_mystery_frost_below_time_lounge_helmet
+bip_39_word_underscore_9: sick_such_mystery_frost_below_time_lounge_helmet_merge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

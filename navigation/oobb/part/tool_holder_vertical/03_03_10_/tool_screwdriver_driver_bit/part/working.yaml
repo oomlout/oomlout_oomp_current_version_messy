@@ -1,3 +1,15 @@
+bip_39_word_dash_1: engine
+bip_39_word_dash_10: engine-lock-duck-omit-lyrics-select-runway-warfare-wrong-ocean
+bip_39_word_dash_11: engine-lock-duck-omit-lyrics-select-runway-warfare-wrong-ocean-view
+bip_39_word_dash_12: engine-lock-duck-omit-lyrics-select-runway-warfare-wrong-ocean-view-afraid
+bip_39_word_dash_2: engine-lock
+bip_39_word_dash_3: engine-lock-duck
+bip_39_word_dash_4: engine-lock-duck-omit
+bip_39_word_dash_5: engine-lock-duck-omit-lyrics
+bip_39_word_dash_6: engine-lock-duck-omit-lyrics-select
+bip_39_word_dash_7: engine-lock-duck-omit-lyrics-select-runway
+bip_39_word_dash_8: engine-lock-duck-omit-lyrics-select-runway-warfare
+bip_39_word_dash_9: engine-lock-duck-omit-lyrics-select-runway-warfare-wrong
 bip_39_word_new_br_1: engine
 bip_39_word_new_br_10: engine<br>lock<br>duck<br>omit<br>lyrics<br>select<br>runway<br>warfare<br>wrong<br>ocean
 bip_39_word_new_br_11: engine<br>lock<br>duck<br>omit<br>lyrics<br>select<br>runway<br>warfare<br>wrong<br>ocean<br>view
@@ -193,6 +205,18 @@ bip_39_word_space_6: engine lock duck omit lyrics select
 bip_39_word_space_7: engine lock duck omit lyrics select runway
 bip_39_word_space_8: engine lock duck omit lyrics select runway warfare
 bip_39_word_space_9: engine lock duck omit lyrics select runway warfare wrong
+bip_39_word_underscore_1: engine
+bip_39_word_underscore_10: engine_lock_duck_omit_lyrics_select_runway_warfare_wrong_ocean
+bip_39_word_underscore_11: engine_lock_duck_omit_lyrics_select_runway_warfare_wrong_ocean_view
+bip_39_word_underscore_12: engine_lock_duck_omit_lyrics_select_runway_warfare_wrong_ocean_view_afraid
+bip_39_word_underscore_2: engine_lock
+bip_39_word_underscore_3: engine_lock_duck
+bip_39_word_underscore_4: engine_lock_duck_omit
+bip_39_word_underscore_5: engine_lock_duck_omit_lyrics
+bip_39_word_underscore_6: engine_lock_duck_omit_lyrics_select
+bip_39_word_underscore_7: engine_lock_duck_omit_lyrics_select_runway
+bip_39_word_underscore_8: engine_lock_duck_omit_lyrics_select_runway_warfare
+bip_39_word_underscore_9: engine_lock_duck_omit_lyrics_select_runway_warfare_wrong
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

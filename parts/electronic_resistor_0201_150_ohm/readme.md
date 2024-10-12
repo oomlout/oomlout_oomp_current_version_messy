@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | morning |  
+| bip_39_word_dash_10 | morning-feed-buddy-patch-photo-despair-rigid-lend-hand-taste |  
+| bip_39_word_dash_11 | morning-feed-buddy-patch-photo-despair-rigid-lend-hand-taste-attract |  
+| bip_39_word_dash_12 | morning-feed-buddy-patch-photo-despair-rigid-lend-hand-taste-attract-announce |  
+| bip_39_word_dash_2 | morning-feed |  
+| bip_39_word_dash_3 | morning-feed-buddy |  
+| bip_39_word_dash_4 | morning-feed-buddy-patch |  
+| bip_39_word_dash_5 | morning-feed-buddy-patch-photo |  
+| bip_39_word_dash_6 | morning-feed-buddy-patch-photo-despair |  
+| bip_39_word_dash_7 | morning-feed-buddy-patch-photo-despair-rigid |  
+| bip_39_word_dash_8 | morning-feed-buddy-patch-photo-despair-rigid-lend |  
+| bip_39_word_dash_9 | morning-feed-buddy-patch-photo-despair-rigid-lend-hand |  
 | bip_39_word_new_br_1 | morning |  
 | bip_39_word_new_br_10 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend<br>hand<br>taste |  
 | bip_39_word_new_br_11 | morning<br>feed<br>buddy<br>patch<br>photo<br>despair<br>rigid<br>lend<br>hand<br>taste<br>attract |  
@@ -147,6 +159,18 @@ hand |
 | bip_39_word_space_7 | morning feed buddy patch photo despair rigid |  
 | bip_39_word_space_8 | morning feed buddy patch photo despair rigid lend |  
 | bip_39_word_space_9 | morning feed buddy patch photo despair rigid lend hand |  
+| bip_39_word_underscore_1 | morning |  
+| bip_39_word_underscore_10 | morning_feed_buddy_patch_photo_despair_rigid_lend_hand_taste |  
+| bip_39_word_underscore_11 | morning_feed_buddy_patch_photo_despair_rigid_lend_hand_taste_attract |  
+| bip_39_word_underscore_12 | morning_feed_buddy_patch_photo_despair_rigid_lend_hand_taste_attract_announce |  
+| bip_39_word_underscore_2 | morning_feed |  
+| bip_39_word_underscore_3 | morning_feed_buddy |  
+| bip_39_word_underscore_4 | morning_feed_buddy_patch |  
+| bip_39_word_underscore_5 | morning_feed_buddy_patch_photo |  
+| bip_39_word_underscore_6 | morning_feed_buddy_patch_photo_despair |  
+| bip_39_word_underscore_7 | morning_feed_buddy_patch_photo_despair_rigid |  
+| bip_39_word_underscore_8 | morning_feed_buddy_patch_photo_despair_rigid_lend |  
+| bip_39_word_underscore_9 | morning_feed_buddy_patch_photo_despair_rigid_lend_hand |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | consider |  
+| bip_39_word_dash_10 | consider-journey-face-name-famous-desert-mutual-certain-undo-attend |  
+| bip_39_word_dash_11 | consider-journey-face-name-famous-desert-mutual-certain-undo-attend-chimney |  
+| bip_39_word_dash_12 | consider-journey-face-name-famous-desert-mutual-certain-undo-attend-chimney-armor |  
+| bip_39_word_dash_2 | consider-journey |  
+| bip_39_word_dash_3 | consider-journey-face |  
+| bip_39_word_dash_4 | consider-journey-face-name |  
+| bip_39_word_dash_5 | consider-journey-face-name-famous |  
+| bip_39_word_dash_6 | consider-journey-face-name-famous-desert |  
+| bip_39_word_dash_7 | consider-journey-face-name-famous-desert-mutual |  
+| bip_39_word_dash_8 | consider-journey-face-name-famous-desert-mutual-certain |  
+| bip_39_word_dash_9 | consider-journey-face-name-famous-desert-mutual-certain-undo |  
 | bip_39_word_new_br_1 | consider |  
 | bip_39_word_new_br_10 | consider<br>journey<br>face<br>name<br>famous<br>desert<br>mutual<br>certain<br>undo<br>attend |  
 | bip_39_word_new_br_11 | consider<br>journey<br>face<br>name<br>famous<br>desert<br>mutual<br>certain<br>undo<br>attend<br>chimney |  
@@ -147,6 +159,18 @@ undo |
 | bip_39_word_space_7 | consider journey face name famous desert mutual |  
 | bip_39_word_space_8 | consider journey face name famous desert mutual certain |  
 | bip_39_word_space_9 | consider journey face name famous desert mutual certain undo |  
+| bip_39_word_underscore_1 | consider |  
+| bip_39_word_underscore_10 | consider_journey_face_name_famous_desert_mutual_certain_undo_attend |  
+| bip_39_word_underscore_11 | consider_journey_face_name_famous_desert_mutual_certain_undo_attend_chimney |  
+| bip_39_word_underscore_12 | consider_journey_face_name_famous_desert_mutual_certain_undo_attend_chimney_armor |  
+| bip_39_word_underscore_2 | consider_journey |  
+| bip_39_word_underscore_3 | consider_journey_face |  
+| bip_39_word_underscore_4 | consider_journey_face_name |  
+| bip_39_word_underscore_5 | consider_journey_face_name_famous |  
+| bip_39_word_underscore_6 | consider_journey_face_name_famous_desert |  
+| bip_39_word_underscore_7 | consider_journey_face_name_famous_desert_mutual |  
+| bip_39_word_underscore_8 | consider_journey_face_name_famous_desert_mutual_certain |  
+| bip_39_word_underscore_9 | consider_journey_face_name_famous_desert_mutual_certain_undo |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

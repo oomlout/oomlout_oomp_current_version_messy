@@ -1,3 +1,15 @@
+bip_39_word_dash_1: critic
+bip_39_word_dash_10: critic-shallow-ozone-recipe-junk-spirit-sentence-dish-absorb-bridge
+bip_39_word_dash_11: critic-shallow-ozone-recipe-junk-spirit-sentence-dish-absorb-bridge-enrich
+bip_39_word_dash_12: critic-shallow-ozone-recipe-junk-spirit-sentence-dish-absorb-bridge-enrich-addict
+bip_39_word_dash_2: critic-shallow
+bip_39_word_dash_3: critic-shallow-ozone
+bip_39_word_dash_4: critic-shallow-ozone-recipe
+bip_39_word_dash_5: critic-shallow-ozone-recipe-junk
+bip_39_word_dash_6: critic-shallow-ozone-recipe-junk-spirit
+bip_39_word_dash_7: critic-shallow-ozone-recipe-junk-spirit-sentence
+bip_39_word_dash_8: critic-shallow-ozone-recipe-junk-spirit-sentence-dish
+bip_39_word_dash_9: critic-shallow-ozone-recipe-junk-spirit-sentence-dish-absorb
 bip_39_word_new_br_1: critic
 bip_39_word_new_br_10: critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish<br>absorb<br>bridge
 bip_39_word_new_br_11: critic<br>shallow<br>ozone<br>recipe<br>junk<br>spirit<br>sentence<br>dish<br>absorb<br>bridge<br>enrich
@@ -194,6 +206,18 @@ bip_39_word_space_6: critic shallow ozone recipe junk spirit
 bip_39_word_space_7: critic shallow ozone recipe junk spirit sentence
 bip_39_word_space_8: critic shallow ozone recipe junk spirit sentence dish
 bip_39_word_space_9: critic shallow ozone recipe junk spirit sentence dish absorb
+bip_39_word_underscore_1: critic
+bip_39_word_underscore_10: critic_shallow_ozone_recipe_junk_spirit_sentence_dish_absorb_bridge
+bip_39_word_underscore_11: critic_shallow_ozone_recipe_junk_spirit_sentence_dish_absorb_bridge_enrich
+bip_39_word_underscore_12: critic_shallow_ozone_recipe_junk_spirit_sentence_dish_absorb_bridge_enrich_addict
+bip_39_word_underscore_2: critic_shallow
+bip_39_word_underscore_3: critic_shallow_ozone
+bip_39_word_underscore_4: critic_shallow_ozone_recipe
+bip_39_word_underscore_5: critic_shallow_ozone_recipe_junk
+bip_39_word_underscore_6: critic_shallow_ozone_recipe_junk_spirit
+bip_39_word_underscore_7: critic_shallow_ozone_recipe_junk_spirit_sentence
+bip_39_word_underscore_8: critic_shallow_ozone_recipe_junk_spirit_sentence_dish
+bip_39_word_underscore_9: critic_shallow_ozone_recipe_junk_spirit_sentence_dish_absorb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

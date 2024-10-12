@@ -1,3 +1,15 @@
+bip_39_word_dash_1: island
+bip_39_word_dash_10: island-orchard-gown-trap-creek-sorry-wife-dragon-never-capable
+bip_39_word_dash_11: island-orchard-gown-trap-creek-sorry-wife-dragon-never-capable-athlete
+bip_39_word_dash_12: island-orchard-gown-trap-creek-sorry-wife-dragon-never-capable-athlete-above
+bip_39_word_dash_2: island-orchard
+bip_39_word_dash_3: island-orchard-gown
+bip_39_word_dash_4: island-orchard-gown-trap
+bip_39_word_dash_5: island-orchard-gown-trap-creek
+bip_39_word_dash_6: island-orchard-gown-trap-creek-sorry
+bip_39_word_dash_7: island-orchard-gown-trap-creek-sorry-wife
+bip_39_word_dash_8: island-orchard-gown-trap-creek-sorry-wife-dragon
+bip_39_word_dash_9: island-orchard-gown-trap-creek-sorry-wife-dragon-never
 bip_39_word_new_br_1: island
 bip_39_word_new_br_10: island<br>orchard<br>gown<br>trap<br>creek<br>sorry<br>wife<br>dragon<br>never<br>capable
 bip_39_word_new_br_11: island<br>orchard<br>gown<br>trap<br>creek<br>sorry<br>wife<br>dragon<br>never<br>capable<br>athlete
@@ -193,6 +205,18 @@ bip_39_word_space_6: island orchard gown trap creek sorry
 bip_39_word_space_7: island orchard gown trap creek sorry wife
 bip_39_word_space_8: island orchard gown trap creek sorry wife dragon
 bip_39_word_space_9: island orchard gown trap creek sorry wife dragon never
+bip_39_word_underscore_1: island
+bip_39_word_underscore_10: island_orchard_gown_trap_creek_sorry_wife_dragon_never_capable
+bip_39_word_underscore_11: island_orchard_gown_trap_creek_sorry_wife_dragon_never_capable_athlete
+bip_39_word_underscore_12: island_orchard_gown_trap_creek_sorry_wife_dragon_never_capable_athlete_above
+bip_39_word_underscore_2: island_orchard
+bip_39_word_underscore_3: island_orchard_gown
+bip_39_word_underscore_4: island_orchard_gown_trap
+bip_39_word_underscore_5: island_orchard_gown_trap_creek
+bip_39_word_underscore_6: island_orchard_gown_trap_creek_sorry
+bip_39_word_underscore_7: island_orchard_gown_trap_creek_sorry_wife
+bip_39_word_underscore_8: island_orchard_gown_trap_creek_sorry_wife_dragon
+bip_39_word_underscore_9: island_orchard_gown_trap_creek_sorry_wife_dragon_never
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

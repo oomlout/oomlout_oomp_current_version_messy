@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drive |  
+| bip_39_word_dash_10 | drive-tape-naive-grit-safe-dish-syrup-apple-matter-fashion |  
+| bip_39_word_dash_11 | drive-tape-naive-grit-safe-dish-syrup-apple-matter-fashion-rich |  
+| bip_39_word_dash_12 | drive-tape-naive-grit-safe-dish-syrup-apple-matter-fashion-rich-annual |  
+| bip_39_word_dash_2 | drive-tape |  
+| bip_39_word_dash_3 | drive-tape-naive |  
+| bip_39_word_dash_4 | drive-tape-naive-grit |  
+| bip_39_word_dash_5 | drive-tape-naive-grit-safe |  
+| bip_39_word_dash_6 | drive-tape-naive-grit-safe-dish |  
+| bip_39_word_dash_7 | drive-tape-naive-grit-safe-dish-syrup |  
+| bip_39_word_dash_8 | drive-tape-naive-grit-safe-dish-syrup-apple |  
+| bip_39_word_dash_9 | drive-tape-naive-grit-safe-dish-syrup-apple-matter |  
 | bip_39_word_new_br_1 | drive |  
 | bip_39_word_new_br_10 | drive<br>tape<br>naive<br>grit<br>safe<br>dish<br>syrup<br>apple<br>matter<br>fashion |  
 | bip_39_word_new_br_11 | drive<br>tape<br>naive<br>grit<br>safe<br>dish<br>syrup<br>apple<br>matter<br>fashion<br>rich |  
@@ -147,6 +159,18 @@ matter |
 | bip_39_word_space_7 | drive tape naive grit safe dish syrup |  
 | bip_39_word_space_8 | drive tape naive grit safe dish syrup apple |  
 | bip_39_word_space_9 | drive tape naive grit safe dish syrup apple matter |  
+| bip_39_word_underscore_1 | drive |  
+| bip_39_word_underscore_10 | drive_tape_naive_grit_safe_dish_syrup_apple_matter_fashion |  
+| bip_39_word_underscore_11 | drive_tape_naive_grit_safe_dish_syrup_apple_matter_fashion_rich |  
+| bip_39_word_underscore_12 | drive_tape_naive_grit_safe_dish_syrup_apple_matter_fashion_rich_annual |  
+| bip_39_word_underscore_2 | drive_tape |  
+| bip_39_word_underscore_3 | drive_tape_naive |  
+| bip_39_word_underscore_4 | drive_tape_naive_grit |  
+| bip_39_word_underscore_5 | drive_tape_naive_grit_safe |  
+| bip_39_word_underscore_6 | drive_tape_naive_grit_safe_dish |  
+| bip_39_word_underscore_7 | drive_tape_naive_grit_safe_dish_syrup |  
+| bip_39_word_underscore_8 | drive_tape_naive_grit_safe_dish_syrup_apple |  
+| bip_39_word_underscore_9 | drive_tape_naive_grit_safe_dish_syrup_apple_matter |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

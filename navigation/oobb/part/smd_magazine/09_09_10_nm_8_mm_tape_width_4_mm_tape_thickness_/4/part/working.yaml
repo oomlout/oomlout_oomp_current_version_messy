@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unit
+bip_39_word_dash_10: unit-abandon-dust-upset-proud-turkey-gauge-lunch-mystery-front
+bip_39_word_dash_11: unit-abandon-dust-upset-proud-turkey-gauge-lunch-mystery-front-educate
+bip_39_word_dash_12: unit-abandon-dust-upset-proud-turkey-gauge-lunch-mystery-front-educate-addict
+bip_39_word_dash_2: unit-abandon
+bip_39_word_dash_3: unit-abandon-dust
+bip_39_word_dash_4: unit-abandon-dust-upset
+bip_39_word_dash_5: unit-abandon-dust-upset-proud
+bip_39_word_dash_6: unit-abandon-dust-upset-proud-turkey
+bip_39_word_dash_7: unit-abandon-dust-upset-proud-turkey-gauge
+bip_39_word_dash_8: unit-abandon-dust-upset-proud-turkey-gauge-lunch
+bip_39_word_dash_9: unit-abandon-dust-upset-proud-turkey-gauge-lunch-mystery
 bip_39_word_new_br_1: unit
 bip_39_word_new_br_10: unit<br>abandon<br>dust<br>upset<br>proud<br>turkey<br>gauge<br>lunch<br>mystery<br>front
 bip_39_word_new_br_11: unit<br>abandon<br>dust<br>upset<br>proud<br>turkey<br>gauge<br>lunch<br>mystery<br>front<br>educate
@@ -193,6 +205,18 @@ bip_39_word_space_6: unit abandon dust upset proud turkey
 bip_39_word_space_7: unit abandon dust upset proud turkey gauge
 bip_39_word_space_8: unit abandon dust upset proud turkey gauge lunch
 bip_39_word_space_9: unit abandon dust upset proud turkey gauge lunch mystery
+bip_39_word_underscore_1: unit
+bip_39_word_underscore_10: unit_abandon_dust_upset_proud_turkey_gauge_lunch_mystery_front
+bip_39_word_underscore_11: unit_abandon_dust_upset_proud_turkey_gauge_lunch_mystery_front_educate
+bip_39_word_underscore_12: unit_abandon_dust_upset_proud_turkey_gauge_lunch_mystery_front_educate_addict
+bip_39_word_underscore_2: unit_abandon
+bip_39_word_underscore_3: unit_abandon_dust
+bip_39_word_underscore_4: unit_abandon_dust_upset
+bip_39_word_underscore_5: unit_abandon_dust_upset_proud
+bip_39_word_underscore_6: unit_abandon_dust_upset_proud_turkey
+bip_39_word_underscore_7: unit_abandon_dust_upset_proud_turkey_gauge
+bip_39_word_underscore_8: unit_abandon_dust_upset_proud_turkey_gauge_lunch
+bip_39_word_underscore_9: unit_abandon_dust_upset_proud_turkey_gauge_lunch_mystery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

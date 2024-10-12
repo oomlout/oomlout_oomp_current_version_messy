@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fruit
+bip_39_word_dash_10: fruit-hawk-tomato-there-solid-wool-clutch-bar-bind-mushroom
+bip_39_word_dash_11: fruit-hawk-tomato-there-solid-wool-clutch-bar-bind-mushroom-say
+bip_39_word_dash_12: fruit-hawk-tomato-there-solid-wool-clutch-bar-bind-mushroom-say-agree
+bip_39_word_dash_2: fruit-hawk
+bip_39_word_dash_3: fruit-hawk-tomato
+bip_39_word_dash_4: fruit-hawk-tomato-there
+bip_39_word_dash_5: fruit-hawk-tomato-there-solid
+bip_39_word_dash_6: fruit-hawk-tomato-there-solid-wool
+bip_39_word_dash_7: fruit-hawk-tomato-there-solid-wool-clutch
+bip_39_word_dash_8: fruit-hawk-tomato-there-solid-wool-clutch-bar
+bip_39_word_dash_9: fruit-hawk-tomato-there-solid-wool-clutch-bar-bind
 bip_39_word_new_br_1: fruit
 bip_39_word_new_br_10: fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar<br>bind<br>mushroom
 bip_39_word_new_br_11: fruit<br>hawk<br>tomato<br>there<br>solid<br>wool<br>clutch<br>bar<br>bind<br>mushroom<br>say
@@ -193,6 +205,18 @@ bip_39_word_space_6: fruit hawk tomato there solid wool
 bip_39_word_space_7: fruit hawk tomato there solid wool clutch
 bip_39_word_space_8: fruit hawk tomato there solid wool clutch bar
 bip_39_word_space_9: fruit hawk tomato there solid wool clutch bar bind
+bip_39_word_underscore_1: fruit
+bip_39_word_underscore_10: fruit_hawk_tomato_there_solid_wool_clutch_bar_bind_mushroom
+bip_39_word_underscore_11: fruit_hawk_tomato_there_solid_wool_clutch_bar_bind_mushroom_say
+bip_39_word_underscore_12: fruit_hawk_tomato_there_solid_wool_clutch_bar_bind_mushroom_say_agree
+bip_39_word_underscore_2: fruit_hawk
+bip_39_word_underscore_3: fruit_hawk_tomato
+bip_39_word_underscore_4: fruit_hawk_tomato_there
+bip_39_word_underscore_5: fruit_hawk_tomato_there_solid
+bip_39_word_underscore_6: fruit_hawk_tomato_there_solid_wool
+bip_39_word_underscore_7: fruit_hawk_tomato_there_solid_wool_clutch
+bip_39_word_underscore_8: fruit_hawk_tomato_there_solid_wool_clutch_bar
+bip_39_word_underscore_9: fruit_hawk_tomato_there_solid_wool_clutch_bar_bind
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

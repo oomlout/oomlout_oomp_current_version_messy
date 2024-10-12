@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | light |  
+| bip_39_word_dash_10 | light-enable-empty-copy-spread-club-lawsuit-rail-host-main |  
+| bip_39_word_dash_11 | light-enable-empty-copy-spread-club-lawsuit-rail-host-main-mixed |  
+| bip_39_word_dash_12 | light-enable-empty-copy-spread-club-lawsuit-rail-host-main-mixed-antenna |  
+| bip_39_word_dash_2 | light-enable |  
+| bip_39_word_dash_3 | light-enable-empty |  
+| bip_39_word_dash_4 | light-enable-empty-copy |  
+| bip_39_word_dash_5 | light-enable-empty-copy-spread |  
+| bip_39_word_dash_6 | light-enable-empty-copy-spread-club |  
+| bip_39_word_dash_7 | light-enable-empty-copy-spread-club-lawsuit |  
+| bip_39_word_dash_8 | light-enable-empty-copy-spread-club-lawsuit-rail |  
+| bip_39_word_dash_9 | light-enable-empty-copy-spread-club-lawsuit-rail-host |  
 | bip_39_word_new_br_1 | light |  
 | bip_39_word_new_br_10 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main |  
 | bip_39_word_new_br_11 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main<br>mixed |  
@@ -147,6 +159,18 @@ host |
 | bip_39_word_space_7 | light enable empty copy spread club lawsuit |  
 | bip_39_word_space_8 | light enable empty copy spread club lawsuit rail |  
 | bip_39_word_space_9 | light enable empty copy spread club lawsuit rail host |  
+| bip_39_word_underscore_1 | light |  
+| bip_39_word_underscore_10 | light_enable_empty_copy_spread_club_lawsuit_rail_host_main |  
+| bip_39_word_underscore_11 | light_enable_empty_copy_spread_club_lawsuit_rail_host_main_mixed |  
+| bip_39_word_underscore_12 | light_enable_empty_copy_spread_club_lawsuit_rail_host_main_mixed_antenna |  
+| bip_39_word_underscore_2 | light_enable |  
+| bip_39_word_underscore_3 | light_enable_empty |  
+| bip_39_word_underscore_4 | light_enable_empty_copy |  
+| bip_39_word_underscore_5 | light_enable_empty_copy_spread |  
+| bip_39_word_underscore_6 | light_enable_empty_copy_spread_club |  
+| bip_39_word_underscore_7 | light_enable_empty_copy_spread_club_lawsuit |  
+| bip_39_word_underscore_8 | light_enable_empty_copy_spread_club_lawsuit_rail |  
+| bip_39_word_underscore_9 | light_enable_empty_copy_spread_club_lawsuit_rail_host |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

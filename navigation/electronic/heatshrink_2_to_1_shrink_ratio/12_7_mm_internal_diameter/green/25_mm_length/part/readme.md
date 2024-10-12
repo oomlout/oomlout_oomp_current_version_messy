@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cable |  
+| bip_39_word_dash_10 | cable-gospel-foster-muscle-raccoon-woman-canvas-abstract-turkey-present |  
+| bip_39_word_dash_11 | cable-gospel-foster-muscle-raccoon-woman-canvas-abstract-turkey-present-maximum |  
+| bip_39_word_dash_12 | cable-gospel-foster-muscle-raccoon-woman-canvas-abstract-turkey-present-maximum-artwork |  
+| bip_39_word_dash_2 | cable-gospel |  
+| bip_39_word_dash_3 | cable-gospel-foster |  
+| bip_39_word_dash_4 | cable-gospel-foster-muscle |  
+| bip_39_word_dash_5 | cable-gospel-foster-muscle-raccoon |  
+| bip_39_word_dash_6 | cable-gospel-foster-muscle-raccoon-woman |  
+| bip_39_word_dash_7 | cable-gospel-foster-muscle-raccoon-woman-canvas |  
+| bip_39_word_dash_8 | cable-gospel-foster-muscle-raccoon-woman-canvas-abstract |  
+| bip_39_word_dash_9 | cable-gospel-foster-muscle-raccoon-woman-canvas-abstract-turkey |  
 | bip_39_word_new_br_1 | cable |  
 | bip_39_word_new_br_10 | cable<br>gospel<br>foster<br>muscle<br>raccoon<br>woman<br>canvas<br>abstract<br>turkey<br>present |  
 | bip_39_word_new_br_11 | cable<br>gospel<br>foster<br>muscle<br>raccoon<br>woman<br>canvas<br>abstract<br>turkey<br>present<br>maximum |  
@@ -147,6 +159,18 @@ turkey |
 | bip_39_word_space_7 | cable gospel foster muscle raccoon woman canvas |  
 | bip_39_word_space_8 | cable gospel foster muscle raccoon woman canvas abstract |  
 | bip_39_word_space_9 | cable gospel foster muscle raccoon woman canvas abstract turkey |  
+| bip_39_word_underscore_1 | cable |  
+| bip_39_word_underscore_10 | cable_gospel_foster_muscle_raccoon_woman_canvas_abstract_turkey_present |  
+| bip_39_word_underscore_11 | cable_gospel_foster_muscle_raccoon_woman_canvas_abstract_turkey_present_maximum |  
+| bip_39_word_underscore_12 | cable_gospel_foster_muscle_raccoon_woman_canvas_abstract_turkey_present_maximum_artwork |  
+| bip_39_word_underscore_2 | cable_gospel |  
+| bip_39_word_underscore_3 | cable_gospel_foster |  
+| bip_39_word_underscore_4 | cable_gospel_foster_muscle |  
+| bip_39_word_underscore_5 | cable_gospel_foster_muscle_raccoon |  
+| bip_39_word_underscore_6 | cable_gospel_foster_muscle_raccoon_woman |  
+| bip_39_word_underscore_7 | cable_gospel_foster_muscle_raccoon_woman_canvas |  
+| bip_39_word_underscore_8 | cable_gospel_foster_muscle_raccoon_woman_canvas_abstract |  
+| bip_39_word_underscore_9 | cable_gospel_foster_muscle_raccoon_woman_canvas_abstract_turkey |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

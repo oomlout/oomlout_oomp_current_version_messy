@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hero |  
+| bip_39_word_dash_10 | hero-game-whale-side-desk-dress-garbage-decrease-concert-divorce |  
+| bip_39_word_dash_11 | hero-game-whale-side-desk-dress-garbage-decrease-concert-divorce-delay |  
+| bip_39_word_dash_12 | hero-game-whale-side-desk-dress-garbage-decrease-concert-divorce-delay-assault |  
+| bip_39_word_dash_2 | hero-game |  
+| bip_39_word_dash_3 | hero-game-whale |  
+| bip_39_word_dash_4 | hero-game-whale-side |  
+| bip_39_word_dash_5 | hero-game-whale-side-desk |  
+| bip_39_word_dash_6 | hero-game-whale-side-desk-dress |  
+| bip_39_word_dash_7 | hero-game-whale-side-desk-dress-garbage |  
+| bip_39_word_dash_8 | hero-game-whale-side-desk-dress-garbage-decrease |  
+| bip_39_word_dash_9 | hero-game-whale-side-desk-dress-garbage-decrease-concert |  
 | bip_39_word_new_br_1 | hero |  
 | bip_39_word_new_br_10 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease<br>concert<br>divorce |  
 | bip_39_word_new_br_11 | hero<br>game<br>whale<br>side<br>desk<br>dress<br>garbage<br>decrease<br>concert<br>divorce<br>delay |  
@@ -147,6 +159,18 @@ concert |
 | bip_39_word_space_7 | hero game whale side desk dress garbage |  
 | bip_39_word_space_8 | hero game whale side desk dress garbage decrease |  
 | bip_39_word_space_9 | hero game whale side desk dress garbage decrease concert |  
+| bip_39_word_underscore_1 | hero |  
+| bip_39_word_underscore_10 | hero_game_whale_side_desk_dress_garbage_decrease_concert_divorce |  
+| bip_39_word_underscore_11 | hero_game_whale_side_desk_dress_garbage_decrease_concert_divorce_delay |  
+| bip_39_word_underscore_12 | hero_game_whale_side_desk_dress_garbage_decrease_concert_divorce_delay_assault |  
+| bip_39_word_underscore_2 | hero_game |  
+| bip_39_word_underscore_3 | hero_game_whale |  
+| bip_39_word_underscore_4 | hero_game_whale_side |  
+| bip_39_word_underscore_5 | hero_game_whale_side_desk |  
+| bip_39_word_underscore_6 | hero_game_whale_side_desk_dress |  
+| bip_39_word_underscore_7 | hero_game_whale_side_desk_dress_garbage |  
+| bip_39_word_underscore_8 | hero_game_whale_side_desk_dress_garbage_decrease |  
+| bip_39_word_underscore_9 | hero_game_whale_side_desk_dress_garbage_decrease_concert |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

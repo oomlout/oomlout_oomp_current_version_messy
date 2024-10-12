@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pause
+bip_39_word_dash_10: pause-blood-smooth-practice-improve-cushion-old-notice-tourist-what
+bip_39_word_dash_11: pause-blood-smooth-practice-improve-cushion-old-notice-tourist-what-scout
+bip_39_word_dash_12: pause-blood-smooth-practice-improve-cushion-old-notice-tourist-what-scout-arrest
+bip_39_word_dash_2: pause-blood
+bip_39_word_dash_3: pause-blood-smooth
+bip_39_word_dash_4: pause-blood-smooth-practice
+bip_39_word_dash_5: pause-blood-smooth-practice-improve
+bip_39_word_dash_6: pause-blood-smooth-practice-improve-cushion
+bip_39_word_dash_7: pause-blood-smooth-practice-improve-cushion-old
+bip_39_word_dash_8: pause-blood-smooth-practice-improve-cushion-old-notice
+bip_39_word_dash_9: pause-blood-smooth-practice-improve-cushion-old-notice-tourist
 bip_39_word_new_br_1: pause
 bip_39_word_new_br_10: pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice<br>tourist<br>what
 bip_39_word_new_br_11: pause<br>blood<br>smooth<br>practice<br>improve<br>cushion<br>old<br>notice<br>tourist<br>what<br>scout
@@ -194,6 +206,18 @@ bip_39_word_space_6: pause blood smooth practice improve cushion
 bip_39_word_space_7: pause blood smooth practice improve cushion old
 bip_39_word_space_8: pause blood smooth practice improve cushion old notice
 bip_39_word_space_9: pause blood smooth practice improve cushion old notice tourist
+bip_39_word_underscore_1: pause
+bip_39_word_underscore_10: pause_blood_smooth_practice_improve_cushion_old_notice_tourist_what
+bip_39_word_underscore_11: pause_blood_smooth_practice_improve_cushion_old_notice_tourist_what_scout
+bip_39_word_underscore_12: pause_blood_smooth_practice_improve_cushion_old_notice_tourist_what_scout_arrest
+bip_39_word_underscore_2: pause_blood
+bip_39_word_underscore_3: pause_blood_smooth
+bip_39_word_underscore_4: pause_blood_smooth_practice
+bip_39_word_underscore_5: pause_blood_smooth_practice_improve
+bip_39_word_underscore_6: pause_blood_smooth_practice_improve_cushion
+bip_39_word_underscore_7: pause_blood_smooth_practice_improve_cushion_old
+bip_39_word_underscore_8: pause_blood_smooth_practice_improve_cushion_old_notice
+bip_39_word_underscore_9: pause_blood_smooth_practice_improve_cushion_old_notice_tourist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

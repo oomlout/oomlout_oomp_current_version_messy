@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | select |  
+| bip_39_word_dash_10 | select-buddy-armed-timber-off-sunset-skin-success-erode-mansion |  
+| bip_39_word_dash_11 | select-buddy-armed-timber-off-sunset-skin-success-erode-mansion-clip |  
+| bip_39_word_dash_12 | select-buddy-armed-timber-off-sunset-skin-success-erode-mansion-clip-asset |  
+| bip_39_word_dash_2 | select-buddy |  
+| bip_39_word_dash_3 | select-buddy-armed |  
+| bip_39_word_dash_4 | select-buddy-armed-timber |  
+| bip_39_word_dash_5 | select-buddy-armed-timber-off |  
+| bip_39_word_dash_6 | select-buddy-armed-timber-off-sunset |  
+| bip_39_word_dash_7 | select-buddy-armed-timber-off-sunset-skin |  
+| bip_39_word_dash_8 | select-buddy-armed-timber-off-sunset-skin-success |  
+| bip_39_word_dash_9 | select-buddy-armed-timber-off-sunset-skin-success-erode |  
 | bip_39_word_new_br_1 | select |  
 | bip_39_word_new_br_10 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion |  
 | bip_39_word_new_br_11 | select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion<br>clip |  
@@ -147,6 +159,18 @@ erode |
 | bip_39_word_space_7 | select buddy armed timber off sunset skin |  
 | bip_39_word_space_8 | select buddy armed timber off sunset skin success |  
 | bip_39_word_space_9 | select buddy armed timber off sunset skin success erode |  
+| bip_39_word_underscore_1 | select |  
+| bip_39_word_underscore_10 | select_buddy_armed_timber_off_sunset_skin_success_erode_mansion |  
+| bip_39_word_underscore_11 | select_buddy_armed_timber_off_sunset_skin_success_erode_mansion_clip |  
+| bip_39_word_underscore_12 | select_buddy_armed_timber_off_sunset_skin_success_erode_mansion_clip_asset |  
+| bip_39_word_underscore_2 | select_buddy |  
+| bip_39_word_underscore_3 | select_buddy_armed |  
+| bip_39_word_underscore_4 | select_buddy_armed_timber |  
+| bip_39_word_underscore_5 | select_buddy_armed_timber_off |  
+| bip_39_word_underscore_6 | select_buddy_armed_timber_off_sunset |  
+| bip_39_word_underscore_7 | select_buddy_armed_timber_off_sunset_skin |  
+| bip_39_word_underscore_8 | select_buddy_armed_timber_off_sunset_skin_success |  
+| bip_39_word_underscore_9 | select_buddy_armed_timber_off_sunset_skin_success_erode |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sleep
+bip_39_word_dash_10: sleep-daughter-wealth-patch-bullet-opinion-gloom-caution-tissue-notice
+bip_39_word_dash_11: sleep-daughter-wealth-patch-bullet-opinion-gloom-caution-tissue-notice-undo
+bip_39_word_dash_12: sleep-daughter-wealth-patch-bullet-opinion-gloom-caution-tissue-notice-undo-animal
+bip_39_word_dash_2: sleep-daughter
+bip_39_word_dash_3: sleep-daughter-wealth
+bip_39_word_dash_4: sleep-daughter-wealth-patch
+bip_39_word_dash_5: sleep-daughter-wealth-patch-bullet
+bip_39_word_dash_6: sleep-daughter-wealth-patch-bullet-opinion
+bip_39_word_dash_7: sleep-daughter-wealth-patch-bullet-opinion-gloom
+bip_39_word_dash_8: sleep-daughter-wealth-patch-bullet-opinion-gloom-caution
+bip_39_word_dash_9: sleep-daughter-wealth-patch-bullet-opinion-gloom-caution-tissue
 bip_39_word_new_br_1: sleep
 bip_39_word_new_br_10: sleep<br>daughter<br>wealth<br>patch<br>bullet<br>opinion<br>gloom<br>caution<br>tissue<br>notice
 bip_39_word_new_br_11: sleep<br>daughter<br>wealth<br>patch<br>bullet<br>opinion<br>gloom<br>caution<br>tissue<br>notice<br>undo
@@ -194,6 +206,18 @@ bip_39_word_space_6: sleep daughter wealth patch bullet opinion
 bip_39_word_space_7: sleep daughter wealth patch bullet opinion gloom
 bip_39_word_space_8: sleep daughter wealth patch bullet opinion gloom caution
 bip_39_word_space_9: sleep daughter wealth patch bullet opinion gloom caution tissue
+bip_39_word_underscore_1: sleep
+bip_39_word_underscore_10: sleep_daughter_wealth_patch_bullet_opinion_gloom_caution_tissue_notice
+bip_39_word_underscore_11: sleep_daughter_wealth_patch_bullet_opinion_gloom_caution_tissue_notice_undo
+bip_39_word_underscore_12: sleep_daughter_wealth_patch_bullet_opinion_gloom_caution_tissue_notice_undo_animal
+bip_39_word_underscore_2: sleep_daughter
+bip_39_word_underscore_3: sleep_daughter_wealth
+bip_39_word_underscore_4: sleep_daughter_wealth_patch
+bip_39_word_underscore_5: sleep_daughter_wealth_patch_bullet
+bip_39_word_underscore_6: sleep_daughter_wealth_patch_bullet_opinion
+bip_39_word_underscore_7: sleep_daughter_wealth_patch_bullet_opinion_gloom
+bip_39_word_underscore_8: sleep_daughter_wealth_patch_bullet_opinion_gloom_caution
+bip_39_word_underscore_9: sleep_daughter_wealth_patch_bullet_opinion_gloom_caution_tissue
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

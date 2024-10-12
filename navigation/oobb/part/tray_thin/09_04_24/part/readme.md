@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enforce |  
+| bip_39_word_dash_10 | enforce-virus-embark-craft-cliff-athlete-stock-place-palm-echo |  
+| bip_39_word_dash_11 | enforce-virus-embark-craft-cliff-athlete-stock-place-palm-echo-raccoon |  
+| bip_39_word_dash_12 | enforce-virus-embark-craft-cliff-athlete-stock-place-palm-echo-raccoon-antenna |  
+| bip_39_word_dash_2 | enforce-virus |  
+| bip_39_word_dash_3 | enforce-virus-embark |  
+| bip_39_word_dash_4 | enforce-virus-embark-craft |  
+| bip_39_word_dash_5 | enforce-virus-embark-craft-cliff |  
+| bip_39_word_dash_6 | enforce-virus-embark-craft-cliff-athlete |  
+| bip_39_word_dash_7 | enforce-virus-embark-craft-cliff-athlete-stock |  
+| bip_39_word_dash_8 | enforce-virus-embark-craft-cliff-athlete-stock-place |  
+| bip_39_word_dash_9 | enforce-virus-embark-craft-cliff-athlete-stock-place-palm |  
 | bip_39_word_new_br_1 | enforce |  
 | bip_39_word_new_br_10 | enforce<br>virus<br>embark<br>craft<br>cliff<br>athlete<br>stock<br>place<br>palm<br>echo |  
 | bip_39_word_new_br_11 | enforce<br>virus<br>embark<br>craft<br>cliff<br>athlete<br>stock<br>place<br>palm<br>echo<br>raccoon |  
@@ -147,6 +159,18 @@ palm |
 | bip_39_word_space_7 | enforce virus embark craft cliff athlete stock |  
 | bip_39_word_space_8 | enforce virus embark craft cliff athlete stock place |  
 | bip_39_word_space_9 | enforce virus embark craft cliff athlete stock place palm |  
+| bip_39_word_underscore_1 | enforce |  
+| bip_39_word_underscore_10 | enforce_virus_embark_craft_cliff_athlete_stock_place_palm_echo |  
+| bip_39_word_underscore_11 | enforce_virus_embark_craft_cliff_athlete_stock_place_palm_echo_raccoon |  
+| bip_39_word_underscore_12 | enforce_virus_embark_craft_cliff_athlete_stock_place_palm_echo_raccoon_antenna |  
+| bip_39_word_underscore_2 | enforce_virus |  
+| bip_39_word_underscore_3 | enforce_virus_embark |  
+| bip_39_word_underscore_4 | enforce_virus_embark_craft |  
+| bip_39_word_underscore_5 | enforce_virus_embark_craft_cliff |  
+| bip_39_word_underscore_6 | enforce_virus_embark_craft_cliff_athlete |  
+| bip_39_word_underscore_7 | enforce_virus_embark_craft_cliff_athlete_stock |  
+| bip_39_word_underscore_8 | enforce_virus_embark_craft_cliff_athlete_stock_place |  
+| bip_39_word_underscore_9 | enforce_virus_embark_craft_cliff_athlete_stock_place_palm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

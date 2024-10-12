@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shoot
+bip_39_word_dash_10: shoot-shuffle-effort-allow-until-pizza-illness-swim-better-cancel
+bip_39_word_dash_11: shoot-shuffle-effort-allow-until-pizza-illness-swim-better-cancel-grit
+bip_39_word_dash_12: shoot-shuffle-effort-allow-until-pizza-illness-swim-better-cancel-grit-affair
+bip_39_word_dash_2: shoot-shuffle
+bip_39_word_dash_3: shoot-shuffle-effort
+bip_39_word_dash_4: shoot-shuffle-effort-allow
+bip_39_word_dash_5: shoot-shuffle-effort-allow-until
+bip_39_word_dash_6: shoot-shuffle-effort-allow-until-pizza
+bip_39_word_dash_7: shoot-shuffle-effort-allow-until-pizza-illness
+bip_39_word_dash_8: shoot-shuffle-effort-allow-until-pizza-illness-swim
+bip_39_word_dash_9: shoot-shuffle-effort-allow-until-pizza-illness-swim-better
 bip_39_word_new_br_1: shoot
 bip_39_word_new_br_10: shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel
 bip_39_word_new_br_11: shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel<br>grit
@@ -193,6 +205,18 @@ bip_39_word_space_6: shoot shuffle effort allow until pizza
 bip_39_word_space_7: shoot shuffle effort allow until pizza illness
 bip_39_word_space_8: shoot shuffle effort allow until pizza illness swim
 bip_39_word_space_9: shoot shuffle effort allow until pizza illness swim better
+bip_39_word_underscore_1: shoot
+bip_39_word_underscore_10: shoot_shuffle_effort_allow_until_pizza_illness_swim_better_cancel
+bip_39_word_underscore_11: shoot_shuffle_effort_allow_until_pizza_illness_swim_better_cancel_grit
+bip_39_word_underscore_12: shoot_shuffle_effort_allow_until_pizza_illness_swim_better_cancel_grit_affair
+bip_39_word_underscore_2: shoot_shuffle
+bip_39_word_underscore_3: shoot_shuffle_effort
+bip_39_word_underscore_4: shoot_shuffle_effort_allow
+bip_39_word_underscore_5: shoot_shuffle_effort_allow_until
+bip_39_word_underscore_6: shoot_shuffle_effort_allow_until_pizza
+bip_39_word_underscore_7: shoot_shuffle_effort_allow_until_pizza_illness
+bip_39_word_underscore_8: shoot_shuffle_effort_allow_until_pizza_illness_swim
+bip_39_word_underscore_9: shoot_shuffle_effort_allow_until_pizza_illness_swim_better
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

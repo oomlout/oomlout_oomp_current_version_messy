@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rack |  
+| bip_39_word_dash_10 | rack-fan-shed-visit-despair-empower-gorilla-forum-antenna-crop |  
+| bip_39_word_dash_11 | rack-fan-shed-visit-despair-empower-gorilla-forum-antenna-crop-jacket |  
+| bip_39_word_dash_12 | rack-fan-shed-visit-despair-empower-gorilla-forum-antenna-crop-jacket-actress |  
+| bip_39_word_dash_2 | rack-fan |  
+| bip_39_word_dash_3 | rack-fan-shed |  
+| bip_39_word_dash_4 | rack-fan-shed-visit |  
+| bip_39_word_dash_5 | rack-fan-shed-visit-despair |  
+| bip_39_word_dash_6 | rack-fan-shed-visit-despair-empower |  
+| bip_39_word_dash_7 | rack-fan-shed-visit-despair-empower-gorilla |  
+| bip_39_word_dash_8 | rack-fan-shed-visit-despair-empower-gorilla-forum |  
+| bip_39_word_dash_9 | rack-fan-shed-visit-despair-empower-gorilla-forum-antenna |  
 | bip_39_word_new_br_1 | rack |  
 | bip_39_word_new_br_10 | rack<br>fan<br>shed<br>visit<br>despair<br>empower<br>gorilla<br>forum<br>antenna<br>crop |  
 | bip_39_word_new_br_11 | rack<br>fan<br>shed<br>visit<br>despair<br>empower<br>gorilla<br>forum<br>antenna<br>crop<br>jacket |  
@@ -147,6 +159,18 @@ antenna |
 | bip_39_word_space_7 | rack fan shed visit despair empower gorilla |  
 | bip_39_word_space_8 | rack fan shed visit despair empower gorilla forum |  
 | bip_39_word_space_9 | rack fan shed visit despair empower gorilla forum antenna |  
+| bip_39_word_underscore_1 | rack |  
+| bip_39_word_underscore_10 | rack_fan_shed_visit_despair_empower_gorilla_forum_antenna_crop |  
+| bip_39_word_underscore_11 | rack_fan_shed_visit_despair_empower_gorilla_forum_antenna_crop_jacket |  
+| bip_39_word_underscore_12 | rack_fan_shed_visit_despair_empower_gorilla_forum_antenna_crop_jacket_actress |  
+| bip_39_word_underscore_2 | rack_fan |  
+| bip_39_word_underscore_3 | rack_fan_shed |  
+| bip_39_word_underscore_4 | rack_fan_shed_visit |  
+| bip_39_word_underscore_5 | rack_fan_shed_visit_despair |  
+| bip_39_word_underscore_6 | rack_fan_shed_visit_despair_empower |  
+| bip_39_word_underscore_7 | rack_fan_shed_visit_despair_empower_gorilla |  
+| bip_39_word_underscore_8 | rack_fan_shed_visit_despair_empower_gorilla_forum |  
+| bip_39_word_underscore_9 | rack_fan_shed_visit_despair_empower_gorilla_forum_antenna |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grit
+bip_39_word_dash_10: grit-cloud-rule-life-ahead-turn-brave-sword-lava-submit
+bip_39_word_dash_11: grit-cloud-rule-life-ahead-turn-brave-sword-lava-submit-rack
+bip_39_word_dash_12: grit-cloud-rule-life-ahead-turn-brave-sword-lava-submit-rack-action
+bip_39_word_dash_2: grit-cloud
+bip_39_word_dash_3: grit-cloud-rule
+bip_39_word_dash_4: grit-cloud-rule-life
+bip_39_word_dash_5: grit-cloud-rule-life-ahead
+bip_39_word_dash_6: grit-cloud-rule-life-ahead-turn
+bip_39_word_dash_7: grit-cloud-rule-life-ahead-turn-brave
+bip_39_word_dash_8: grit-cloud-rule-life-ahead-turn-brave-sword
+bip_39_word_dash_9: grit-cloud-rule-life-ahead-turn-brave-sword-lava
 bip_39_word_new_br_1: grit
 bip_39_word_new_br_10: grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword<br>lava<br>submit
 bip_39_word_new_br_11: grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword<br>lava<br>submit<br>rack
@@ -192,6 +204,18 @@ bip_39_word_space_6: grit cloud rule life ahead turn
 bip_39_word_space_7: grit cloud rule life ahead turn brave
 bip_39_word_space_8: grit cloud rule life ahead turn brave sword
 bip_39_word_space_9: grit cloud rule life ahead turn brave sword lava
+bip_39_word_underscore_1: grit
+bip_39_word_underscore_10: grit_cloud_rule_life_ahead_turn_brave_sword_lava_submit
+bip_39_word_underscore_11: grit_cloud_rule_life_ahead_turn_brave_sword_lava_submit_rack
+bip_39_word_underscore_12: grit_cloud_rule_life_ahead_turn_brave_sword_lava_submit_rack_action
+bip_39_word_underscore_2: grit_cloud
+bip_39_word_underscore_3: grit_cloud_rule
+bip_39_word_underscore_4: grit_cloud_rule_life
+bip_39_word_underscore_5: grit_cloud_rule_life_ahead
+bip_39_word_underscore_6: grit_cloud_rule_life_ahead_turn
+bip_39_word_underscore_7: grit_cloud_rule_life_ahead_turn_brave
+bip_39_word_underscore_8: grit_cloud_rule_life_ahead_turn_brave_sword
+bip_39_word_underscore_9: grit_cloud_rule_life_ahead_turn_brave_sword_lava
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

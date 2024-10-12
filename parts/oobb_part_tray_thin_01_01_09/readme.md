@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | layer |  
+| bip_39_word_dash_10 | layer-point-treat-train-improve-copper-unveil-dice-address-puppy |  
+| bip_39_word_dash_11 | layer-point-treat-train-improve-copper-unveil-dice-address-puppy-erupt |  
+| bip_39_word_dash_12 | layer-point-treat-train-improve-copper-unveil-dice-address-puppy-erupt-amused |  
+| bip_39_word_dash_2 | layer-point |  
+| bip_39_word_dash_3 | layer-point-treat |  
+| bip_39_word_dash_4 | layer-point-treat-train |  
+| bip_39_word_dash_5 | layer-point-treat-train-improve |  
+| bip_39_word_dash_6 | layer-point-treat-train-improve-copper |  
+| bip_39_word_dash_7 | layer-point-treat-train-improve-copper-unveil |  
+| bip_39_word_dash_8 | layer-point-treat-train-improve-copper-unveil-dice |  
+| bip_39_word_dash_9 | layer-point-treat-train-improve-copper-unveil-dice-address |  
 | bip_39_word_new_br_1 | layer |  
 | bip_39_word_new_br_10 | layer<br>point<br>treat<br>train<br>improve<br>copper<br>unveil<br>dice<br>address<br>puppy |  
 | bip_39_word_new_br_11 | layer<br>point<br>treat<br>train<br>improve<br>copper<br>unveil<br>dice<br>address<br>puppy<br>erupt |  
@@ -147,6 +159,18 @@ address |
 | bip_39_word_space_7 | layer point treat train improve copper unveil |  
 | bip_39_word_space_8 | layer point treat train improve copper unveil dice |  
 | bip_39_word_space_9 | layer point treat train improve copper unveil dice address |  
+| bip_39_word_underscore_1 | layer |  
+| bip_39_word_underscore_10 | layer_point_treat_train_improve_copper_unveil_dice_address_puppy |  
+| bip_39_word_underscore_11 | layer_point_treat_train_improve_copper_unveil_dice_address_puppy_erupt |  
+| bip_39_word_underscore_12 | layer_point_treat_train_improve_copper_unveil_dice_address_puppy_erupt_amused |  
+| bip_39_word_underscore_2 | layer_point |  
+| bip_39_word_underscore_3 | layer_point_treat |  
+| bip_39_word_underscore_4 | layer_point_treat_train |  
+| bip_39_word_underscore_5 | layer_point_treat_train_improve |  
+| bip_39_word_underscore_6 | layer_point_treat_train_improve_copper |  
+| bip_39_word_underscore_7 | layer_point_treat_train_improve_copper_unveil |  
+| bip_39_word_underscore_8 | layer_point_treat_train_improve_copper_unveil_dice |  
+| bip_39_word_underscore_9 | layer_point_treat_train_improve_copper_unveil_dice_address |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

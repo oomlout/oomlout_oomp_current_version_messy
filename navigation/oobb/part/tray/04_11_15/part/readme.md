@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coil |  
+| bip_39_word_dash_10 | coil-suit-point-chronic-salute-exotic-abandon-school-bitter-measure |  
+| bip_39_word_dash_11 | coil-suit-point-chronic-salute-exotic-abandon-school-bitter-measure-faith |  
+| bip_39_word_dash_12 | coil-suit-point-chronic-salute-exotic-abandon-school-bitter-measure-faith-amateur |  
+| bip_39_word_dash_2 | coil-suit |  
+| bip_39_word_dash_3 | coil-suit-point |  
+| bip_39_word_dash_4 | coil-suit-point-chronic |  
+| bip_39_word_dash_5 | coil-suit-point-chronic-salute |  
+| bip_39_word_dash_6 | coil-suit-point-chronic-salute-exotic |  
+| bip_39_word_dash_7 | coil-suit-point-chronic-salute-exotic-abandon |  
+| bip_39_word_dash_8 | coil-suit-point-chronic-salute-exotic-abandon-school |  
+| bip_39_word_dash_9 | coil-suit-point-chronic-salute-exotic-abandon-school-bitter |  
 | bip_39_word_new_br_1 | coil |  
 | bip_39_word_new_br_10 | coil<br>suit<br>point<br>chronic<br>salute<br>exotic<br>abandon<br>school<br>bitter<br>measure |  
 | bip_39_word_new_br_11 | coil<br>suit<br>point<br>chronic<br>salute<br>exotic<br>abandon<br>school<br>bitter<br>measure<br>faith |  
@@ -147,6 +159,18 @@ bitter |
 | bip_39_word_space_7 | coil suit point chronic salute exotic abandon |  
 | bip_39_word_space_8 | coil suit point chronic salute exotic abandon school |  
 | bip_39_word_space_9 | coil suit point chronic salute exotic abandon school bitter |  
+| bip_39_word_underscore_1 | coil |  
+| bip_39_word_underscore_10 | coil_suit_point_chronic_salute_exotic_abandon_school_bitter_measure |  
+| bip_39_word_underscore_11 | coil_suit_point_chronic_salute_exotic_abandon_school_bitter_measure_faith |  
+| bip_39_word_underscore_12 | coil_suit_point_chronic_salute_exotic_abandon_school_bitter_measure_faith_amateur |  
+| bip_39_word_underscore_2 | coil_suit |  
+| bip_39_word_underscore_3 | coil_suit_point |  
+| bip_39_word_underscore_4 | coil_suit_point_chronic |  
+| bip_39_word_underscore_5 | coil_suit_point_chronic_salute |  
+| bip_39_word_underscore_6 | coil_suit_point_chronic_salute_exotic |  
+| bip_39_word_underscore_7 | coil_suit_point_chronic_salute_exotic_abandon |  
+| bip_39_word_underscore_8 | coil_suit_point_chronic_salute_exotic_abandon_school |  
+| bip_39_word_underscore_9 | coil_suit_point_chronic_salute_exotic_abandon_school_bitter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

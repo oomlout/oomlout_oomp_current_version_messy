@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | language |  
+| bip_39_word_dash_10 | language-fabric-tank-pudding-edit-sing-ship-used-weasel-plug |  
+| bip_39_word_dash_11 | language-fabric-tank-pudding-edit-sing-ship-used-weasel-plug-brick |  
+| bip_39_word_dash_12 | language-fabric-tank-pudding-edit-sing-ship-used-weasel-plug-brick-approve |  
+| bip_39_word_dash_2 | language-fabric |  
+| bip_39_word_dash_3 | language-fabric-tank |  
+| bip_39_word_dash_4 | language-fabric-tank-pudding |  
+| bip_39_word_dash_5 | language-fabric-tank-pudding-edit |  
+| bip_39_word_dash_6 | language-fabric-tank-pudding-edit-sing |  
+| bip_39_word_dash_7 | language-fabric-tank-pudding-edit-sing-ship |  
+| bip_39_word_dash_8 | language-fabric-tank-pudding-edit-sing-ship-used |  
+| bip_39_word_dash_9 | language-fabric-tank-pudding-edit-sing-ship-used-weasel |  
 | bip_39_word_new_br_1 | language |  
 | bip_39_word_new_br_10 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug |  
 | bip_39_word_new_br_11 | language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug<br>brick |  
@@ -147,6 +159,18 @@ weasel |
 | bip_39_word_space_7 | language fabric tank pudding edit sing ship |  
 | bip_39_word_space_8 | language fabric tank pudding edit sing ship used |  
 | bip_39_word_space_9 | language fabric tank pudding edit sing ship used weasel |  
+| bip_39_word_underscore_1 | language |  
+| bip_39_word_underscore_10 | language_fabric_tank_pudding_edit_sing_ship_used_weasel_plug |  
+| bip_39_word_underscore_11 | language_fabric_tank_pudding_edit_sing_ship_used_weasel_plug_brick |  
+| bip_39_word_underscore_12 | language_fabric_tank_pudding_edit_sing_ship_used_weasel_plug_brick_approve |  
+| bip_39_word_underscore_2 | language_fabric |  
+| bip_39_word_underscore_3 | language_fabric_tank |  
+| bip_39_word_underscore_4 | language_fabric_tank_pudding |  
+| bip_39_word_underscore_5 | language_fabric_tank_pudding_edit |  
+| bip_39_word_underscore_6 | language_fabric_tank_pudding_edit_sing |  
+| bip_39_word_underscore_7 | language_fabric_tank_pudding_edit_sing_ship |  
+| bip_39_word_underscore_8 | language_fabric_tank_pudding_edit_sing_ship_used |  
+| bip_39_word_underscore_9 | language_fabric_tank_pudding_edit_sing_ship_used_weasel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | double |  
+| bip_39_word_dash_10 | double-aim-differ-say-mimic-bread-advice-uniform-expand-siege |  
+| bip_39_word_dash_11 | double-aim-differ-say-mimic-bread-advice-uniform-expand-siege-syrup |  
+| bip_39_word_dash_12 | double-aim-differ-say-mimic-bread-advice-uniform-expand-siege-syrup-already |  
+| bip_39_word_dash_2 | double-aim |  
+| bip_39_word_dash_3 | double-aim-differ |  
+| bip_39_word_dash_4 | double-aim-differ-say |  
+| bip_39_word_dash_5 | double-aim-differ-say-mimic |  
+| bip_39_word_dash_6 | double-aim-differ-say-mimic-bread |  
+| bip_39_word_dash_7 | double-aim-differ-say-mimic-bread-advice |  
+| bip_39_word_dash_8 | double-aim-differ-say-mimic-bread-advice-uniform |  
+| bip_39_word_dash_9 | double-aim-differ-say-mimic-bread-advice-uniform-expand |  
 | bip_39_word_new_br_1 | double |  
 | bip_39_word_new_br_10 | double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform<br>expand<br>siege |  
 | bip_39_word_new_br_11 | double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform<br>expand<br>siege<br>syrup |  
@@ -147,6 +159,18 @@ expand |
 | bip_39_word_space_7 | double aim differ say mimic bread advice |  
 | bip_39_word_space_8 | double aim differ say mimic bread advice uniform |  
 | bip_39_word_space_9 | double aim differ say mimic bread advice uniform expand |  
+| bip_39_word_underscore_1 | double |  
+| bip_39_word_underscore_10 | double_aim_differ_say_mimic_bread_advice_uniform_expand_siege |  
+| bip_39_word_underscore_11 | double_aim_differ_say_mimic_bread_advice_uniform_expand_siege_syrup |  
+| bip_39_word_underscore_12 | double_aim_differ_say_mimic_bread_advice_uniform_expand_siege_syrup_already |  
+| bip_39_word_underscore_2 | double_aim |  
+| bip_39_word_underscore_3 | double_aim_differ |  
+| bip_39_word_underscore_4 | double_aim_differ_say |  
+| bip_39_word_underscore_5 | double_aim_differ_say_mimic |  
+| bip_39_word_underscore_6 | double_aim_differ_say_mimic_bread |  
+| bip_39_word_underscore_7 | double_aim_differ_say_mimic_bread_advice |  
+| bip_39_word_underscore_8 | double_aim_differ_say_mimic_bread_advice_uniform |  
+| bip_39_word_underscore_9 | double_aim_differ_say_mimic_bread_advice_uniform_expand |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

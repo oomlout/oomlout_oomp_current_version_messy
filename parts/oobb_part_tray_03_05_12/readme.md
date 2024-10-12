@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | afraid |  
+| bip_39_word_dash_10 | afraid-cigar-spread-uncle-swap-film-timber-leisure-frequent-pepper |  
+| bip_39_word_dash_11 | afraid-cigar-spread-uncle-swap-film-timber-leisure-frequent-pepper-crater |  
+| bip_39_word_dash_12 | afraid-cigar-spread-uncle-swap-film-timber-leisure-frequent-pepper-crater-art |  
+| bip_39_word_dash_2 | afraid-cigar |  
+| bip_39_word_dash_3 | afraid-cigar-spread |  
+| bip_39_word_dash_4 | afraid-cigar-spread-uncle |  
+| bip_39_word_dash_5 | afraid-cigar-spread-uncle-swap |  
+| bip_39_word_dash_6 | afraid-cigar-spread-uncle-swap-film |  
+| bip_39_word_dash_7 | afraid-cigar-spread-uncle-swap-film-timber |  
+| bip_39_word_dash_8 | afraid-cigar-spread-uncle-swap-film-timber-leisure |  
+| bip_39_word_dash_9 | afraid-cigar-spread-uncle-swap-film-timber-leisure-frequent |  
 | bip_39_word_new_br_1 | afraid |  
 | bip_39_word_new_br_10 | afraid<br>cigar<br>spread<br>uncle<br>swap<br>film<br>timber<br>leisure<br>frequent<br>pepper |  
 | bip_39_word_new_br_11 | afraid<br>cigar<br>spread<br>uncle<br>swap<br>film<br>timber<br>leisure<br>frequent<br>pepper<br>crater |  
@@ -147,6 +159,18 @@ frequent |
 | bip_39_word_space_7 | afraid cigar spread uncle swap film timber |  
 | bip_39_word_space_8 | afraid cigar spread uncle swap film timber leisure |  
 | bip_39_word_space_9 | afraid cigar spread uncle swap film timber leisure frequent |  
+| bip_39_word_underscore_1 | afraid |  
+| bip_39_word_underscore_10 | afraid_cigar_spread_uncle_swap_film_timber_leisure_frequent_pepper |  
+| bip_39_word_underscore_11 | afraid_cigar_spread_uncle_swap_film_timber_leisure_frequent_pepper_crater |  
+| bip_39_word_underscore_12 | afraid_cigar_spread_uncle_swap_film_timber_leisure_frequent_pepper_crater_art |  
+| bip_39_word_underscore_2 | afraid_cigar |  
+| bip_39_word_underscore_3 | afraid_cigar_spread |  
+| bip_39_word_underscore_4 | afraid_cigar_spread_uncle |  
+| bip_39_word_underscore_5 | afraid_cigar_spread_uncle_swap |  
+| bip_39_word_underscore_6 | afraid_cigar_spread_uncle_swap_film |  
+| bip_39_word_underscore_7 | afraid_cigar_spread_uncle_swap_film_timber |  
+| bip_39_word_underscore_8 | afraid_cigar_spread_uncle_swap_film_timber_leisure |  
+| bip_39_word_underscore_9 | afraid_cigar_spread_uncle_swap_film_timber_leisure_frequent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

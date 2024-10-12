@@ -1,3 +1,15 @@
+bip_39_word_dash_1: day
+bip_39_word_dash_10: day-island-raise-erode-cycle-glare-suit-abandon-dream-funny
+bip_39_word_dash_11: day-island-raise-erode-cycle-glare-suit-abandon-dream-funny-pluck
+bip_39_word_dash_12: day-island-raise-erode-cycle-glare-suit-abandon-dream-funny-pluck-above
+bip_39_word_dash_2: day-island
+bip_39_word_dash_3: day-island-raise
+bip_39_word_dash_4: day-island-raise-erode
+bip_39_word_dash_5: day-island-raise-erode-cycle
+bip_39_word_dash_6: day-island-raise-erode-cycle-glare
+bip_39_word_dash_7: day-island-raise-erode-cycle-glare-suit
+bip_39_word_dash_8: day-island-raise-erode-cycle-glare-suit-abandon
+bip_39_word_dash_9: day-island-raise-erode-cycle-glare-suit-abandon-dream
 bip_39_word_new_br_1: day
 bip_39_word_new_br_10: day<br>island<br>raise<br>erode<br>cycle<br>glare<br>suit<br>abandon<br>dream<br>funny
 bip_39_word_new_br_11: day<br>island<br>raise<br>erode<br>cycle<br>glare<br>suit<br>abandon<br>dream<br>funny<br>pluck
@@ -193,6 +205,18 @@ bip_39_word_space_6: day island raise erode cycle glare
 bip_39_word_space_7: day island raise erode cycle glare suit
 bip_39_word_space_8: day island raise erode cycle glare suit abandon
 bip_39_word_space_9: day island raise erode cycle glare suit abandon dream
+bip_39_word_underscore_1: day
+bip_39_word_underscore_10: day_island_raise_erode_cycle_glare_suit_abandon_dream_funny
+bip_39_word_underscore_11: day_island_raise_erode_cycle_glare_suit_abandon_dream_funny_pluck
+bip_39_word_underscore_12: day_island_raise_erode_cycle_glare_suit_abandon_dream_funny_pluck_above
+bip_39_word_underscore_2: day_island
+bip_39_word_underscore_3: day_island_raise
+bip_39_word_underscore_4: day_island_raise_erode
+bip_39_word_underscore_5: day_island_raise_erode_cycle
+bip_39_word_underscore_6: day_island_raise_erode_cycle_glare
+bip_39_word_underscore_7: day_island_raise_erode_cycle_glare_suit
+bip_39_word_underscore_8: day_island_raise_erode_cycle_glare_suit_abandon
+bip_39_word_underscore_9: day_island_raise_erode_cycle_glare_suit_abandon_dream
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

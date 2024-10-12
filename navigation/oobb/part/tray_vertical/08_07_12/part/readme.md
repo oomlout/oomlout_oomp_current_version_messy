@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clinic |  
+| bip_39_word_dash_10 | clinic-galaxy-pelican-behind-law-party-awesome-collect-club-wine |  
+| bip_39_word_dash_11 | clinic-galaxy-pelican-behind-law-party-awesome-collect-club-wine-rally |  
+| bip_39_word_dash_12 | clinic-galaxy-pelican-behind-law-party-awesome-collect-club-wine-rally-asset |  
+| bip_39_word_dash_2 | clinic-galaxy |  
+| bip_39_word_dash_3 | clinic-galaxy-pelican |  
+| bip_39_word_dash_4 | clinic-galaxy-pelican-behind |  
+| bip_39_word_dash_5 | clinic-galaxy-pelican-behind-law |  
+| bip_39_word_dash_6 | clinic-galaxy-pelican-behind-law-party |  
+| bip_39_word_dash_7 | clinic-galaxy-pelican-behind-law-party-awesome |  
+| bip_39_word_dash_8 | clinic-galaxy-pelican-behind-law-party-awesome-collect |  
+| bip_39_word_dash_9 | clinic-galaxy-pelican-behind-law-party-awesome-collect-club |  
 | bip_39_word_new_br_1 | clinic |  
 | bip_39_word_new_br_10 | clinic<br>galaxy<br>pelican<br>behind<br>law<br>party<br>awesome<br>collect<br>club<br>wine |  
 | bip_39_word_new_br_11 | clinic<br>galaxy<br>pelican<br>behind<br>law<br>party<br>awesome<br>collect<br>club<br>wine<br>rally |  
@@ -147,6 +159,18 @@ club |
 | bip_39_word_space_7 | clinic galaxy pelican behind law party awesome |  
 | bip_39_word_space_8 | clinic galaxy pelican behind law party awesome collect |  
 | bip_39_word_space_9 | clinic galaxy pelican behind law party awesome collect club |  
+| bip_39_word_underscore_1 | clinic |  
+| bip_39_word_underscore_10 | clinic_galaxy_pelican_behind_law_party_awesome_collect_club_wine |  
+| bip_39_word_underscore_11 | clinic_galaxy_pelican_behind_law_party_awesome_collect_club_wine_rally |  
+| bip_39_word_underscore_12 | clinic_galaxy_pelican_behind_law_party_awesome_collect_club_wine_rally_asset |  
+| bip_39_word_underscore_2 | clinic_galaxy |  
+| bip_39_word_underscore_3 | clinic_galaxy_pelican |  
+| bip_39_word_underscore_4 | clinic_galaxy_pelican_behind |  
+| bip_39_word_underscore_5 | clinic_galaxy_pelican_behind_law |  
+| bip_39_word_underscore_6 | clinic_galaxy_pelican_behind_law_party |  
+| bip_39_word_underscore_7 | clinic_galaxy_pelican_behind_law_party_awesome |  
+| bip_39_word_underscore_8 | clinic_galaxy_pelican_behind_law_party_awesome_collect |  
+| bip_39_word_underscore_9 | clinic_galaxy_pelican_behind_law_party_awesome_collect_club |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

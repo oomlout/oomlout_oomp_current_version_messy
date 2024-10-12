@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tragic |  
+| bip_39_word_dash_10 | tragic-tooth-gain-daughter-tilt-umbrella-mansion-village-hidden-flower |  
+| bip_39_word_dash_11 | tragic-tooth-gain-daughter-tilt-umbrella-mansion-village-hidden-flower-stick |  
+| bip_39_word_dash_12 | tragic-tooth-gain-daughter-tilt-umbrella-mansion-village-hidden-flower-stick-arena |  
+| bip_39_word_dash_2 | tragic-tooth |  
+| bip_39_word_dash_3 | tragic-tooth-gain |  
+| bip_39_word_dash_4 | tragic-tooth-gain-daughter |  
+| bip_39_word_dash_5 | tragic-tooth-gain-daughter-tilt |  
+| bip_39_word_dash_6 | tragic-tooth-gain-daughter-tilt-umbrella |  
+| bip_39_word_dash_7 | tragic-tooth-gain-daughter-tilt-umbrella-mansion |  
+| bip_39_word_dash_8 | tragic-tooth-gain-daughter-tilt-umbrella-mansion-village |  
+| bip_39_word_dash_9 | tragic-tooth-gain-daughter-tilt-umbrella-mansion-village-hidden |  
 | bip_39_word_new_br_1 | tragic |  
 | bip_39_word_new_br_10 | tragic<br>tooth<br>gain<br>daughter<br>tilt<br>umbrella<br>mansion<br>village<br>hidden<br>flower |  
 | bip_39_word_new_br_11 | tragic<br>tooth<br>gain<br>daughter<br>tilt<br>umbrella<br>mansion<br>village<br>hidden<br>flower<br>stick |  
@@ -147,6 +159,18 @@ hidden |
 | bip_39_word_space_7 | tragic tooth gain daughter tilt umbrella mansion |  
 | bip_39_word_space_8 | tragic tooth gain daughter tilt umbrella mansion village |  
 | bip_39_word_space_9 | tragic tooth gain daughter tilt umbrella mansion village hidden |  
+| bip_39_word_underscore_1 | tragic |  
+| bip_39_word_underscore_10 | tragic_tooth_gain_daughter_tilt_umbrella_mansion_village_hidden_flower |  
+| bip_39_word_underscore_11 | tragic_tooth_gain_daughter_tilt_umbrella_mansion_village_hidden_flower_stick |  
+| bip_39_word_underscore_12 | tragic_tooth_gain_daughter_tilt_umbrella_mansion_village_hidden_flower_stick_arena |  
+| bip_39_word_underscore_2 | tragic_tooth |  
+| bip_39_word_underscore_3 | tragic_tooth_gain |  
+| bip_39_word_underscore_4 | tragic_tooth_gain_daughter |  
+| bip_39_word_underscore_5 | tragic_tooth_gain_daughter_tilt |  
+| bip_39_word_underscore_6 | tragic_tooth_gain_daughter_tilt_umbrella |  
+| bip_39_word_underscore_7 | tragic_tooth_gain_daughter_tilt_umbrella_mansion |  
+| bip_39_word_underscore_8 | tragic_tooth_gain_daughter_tilt_umbrella_mansion_village |  
+| bip_39_word_underscore_9 | tragic_tooth_gain_daughter_tilt_umbrella_mansion_village_hidden |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

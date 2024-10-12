@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deposit
+bip_39_word_dash_10: deposit-drama-meat-gloom-route-soap-moral-collect-language-genre
+bip_39_word_dash_11: deposit-drama-meat-gloom-route-soap-moral-collect-language-genre-useful
+bip_39_word_dash_12: deposit-drama-meat-gloom-route-soap-moral-collect-language-genre-useful-attack
+bip_39_word_dash_2: deposit-drama
+bip_39_word_dash_3: deposit-drama-meat
+bip_39_word_dash_4: deposit-drama-meat-gloom
+bip_39_word_dash_5: deposit-drama-meat-gloom-route
+bip_39_word_dash_6: deposit-drama-meat-gloom-route-soap
+bip_39_word_dash_7: deposit-drama-meat-gloom-route-soap-moral
+bip_39_word_dash_8: deposit-drama-meat-gloom-route-soap-moral-collect
+bip_39_word_dash_9: deposit-drama-meat-gloom-route-soap-moral-collect-language
 bip_39_word_new_br_1: deposit
 bip_39_word_new_br_10: deposit<br>drama<br>meat<br>gloom<br>route<br>soap<br>moral<br>collect<br>language<br>genre
 bip_39_word_new_br_11: deposit<br>drama<br>meat<br>gloom<br>route<br>soap<br>moral<br>collect<br>language<br>genre<br>useful
@@ -193,6 +205,18 @@ bip_39_word_space_6: deposit drama meat gloom route soap
 bip_39_word_space_7: deposit drama meat gloom route soap moral
 bip_39_word_space_8: deposit drama meat gloom route soap moral collect
 bip_39_word_space_9: deposit drama meat gloom route soap moral collect language
+bip_39_word_underscore_1: deposit
+bip_39_word_underscore_10: deposit_drama_meat_gloom_route_soap_moral_collect_language_genre
+bip_39_word_underscore_11: deposit_drama_meat_gloom_route_soap_moral_collect_language_genre_useful
+bip_39_word_underscore_12: deposit_drama_meat_gloom_route_soap_moral_collect_language_genre_useful_attack
+bip_39_word_underscore_2: deposit_drama
+bip_39_word_underscore_3: deposit_drama_meat
+bip_39_word_underscore_4: deposit_drama_meat_gloom
+bip_39_word_underscore_5: deposit_drama_meat_gloom_route
+bip_39_word_underscore_6: deposit_drama_meat_gloom_route_soap
+bip_39_word_underscore_7: deposit_drama_meat_gloom_route_soap_moral
+bip_39_word_underscore_8: deposit_drama_meat_gloom_route_soap_moral_collect
+bip_39_word_underscore_9: deposit_drama_meat_gloom_route_soap_moral_collect_language
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

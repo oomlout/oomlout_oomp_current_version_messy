@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nothing |  
+| bip_39_word_dash_10 | nothing-traffic-hollow-spell-cry-grief-miracle-source-oppose-era |  
+| bip_39_word_dash_11 | nothing-traffic-hollow-spell-cry-grief-miracle-source-oppose-era-end |  
+| bip_39_word_dash_12 | nothing-traffic-hollow-spell-cry-grief-miracle-source-oppose-era-end-amount |  
+| bip_39_word_dash_2 | nothing-traffic |  
+| bip_39_word_dash_3 | nothing-traffic-hollow |  
+| bip_39_word_dash_4 | nothing-traffic-hollow-spell |  
+| bip_39_word_dash_5 | nothing-traffic-hollow-spell-cry |  
+| bip_39_word_dash_6 | nothing-traffic-hollow-spell-cry-grief |  
+| bip_39_word_dash_7 | nothing-traffic-hollow-spell-cry-grief-miracle |  
+| bip_39_word_dash_8 | nothing-traffic-hollow-spell-cry-grief-miracle-source |  
+| bip_39_word_dash_9 | nothing-traffic-hollow-spell-cry-grief-miracle-source-oppose |  
 | bip_39_word_new_br_1 | nothing |  
 | bip_39_word_new_br_10 | nothing<br>traffic<br>hollow<br>spell<br>cry<br>grief<br>miracle<br>source<br>oppose<br>era |  
 | bip_39_word_new_br_11 | nothing<br>traffic<br>hollow<br>spell<br>cry<br>grief<br>miracle<br>source<br>oppose<br>era<br>end |  
@@ -147,6 +159,18 @@ oppose |
 | bip_39_word_space_7 | nothing traffic hollow spell cry grief miracle |  
 | bip_39_word_space_8 | nothing traffic hollow spell cry grief miracle source |  
 | bip_39_word_space_9 | nothing traffic hollow spell cry grief miracle source oppose |  
+| bip_39_word_underscore_1 | nothing |  
+| bip_39_word_underscore_10 | nothing_traffic_hollow_spell_cry_grief_miracle_source_oppose_era |  
+| bip_39_word_underscore_11 | nothing_traffic_hollow_spell_cry_grief_miracle_source_oppose_era_end |  
+| bip_39_word_underscore_12 | nothing_traffic_hollow_spell_cry_grief_miracle_source_oppose_era_end_amount |  
+| bip_39_word_underscore_2 | nothing_traffic |  
+| bip_39_word_underscore_3 | nothing_traffic_hollow |  
+| bip_39_word_underscore_4 | nothing_traffic_hollow_spell |  
+| bip_39_word_underscore_5 | nothing_traffic_hollow_spell_cry |  
+| bip_39_word_underscore_6 | nothing_traffic_hollow_spell_cry_grief |  
+| bip_39_word_underscore_7 | nothing_traffic_hollow_spell_cry_grief_miracle |  
+| bip_39_word_underscore_8 | nothing_traffic_hollow_spell_cry_grief_miracle_source |  
+| bip_39_word_underscore_9 | nothing_traffic_hollow_spell_cry_grief_miracle_source_oppose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

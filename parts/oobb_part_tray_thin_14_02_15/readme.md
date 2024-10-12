@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | laugh |  
+| bip_39_word_dash_10 | laugh-memory-hero-kite-frog-buzz-window-west-chicken-drive |  
+| bip_39_word_dash_11 | laugh-memory-hero-kite-frog-buzz-window-west-chicken-drive-yard |  
+| bip_39_word_dash_12 | laugh-memory-hero-kite-frog-buzz-window-west-chicken-drive-yard-adapt |  
+| bip_39_word_dash_2 | laugh-memory |  
+| bip_39_word_dash_3 | laugh-memory-hero |  
+| bip_39_word_dash_4 | laugh-memory-hero-kite |  
+| bip_39_word_dash_5 | laugh-memory-hero-kite-frog |  
+| bip_39_word_dash_6 | laugh-memory-hero-kite-frog-buzz |  
+| bip_39_word_dash_7 | laugh-memory-hero-kite-frog-buzz-window |  
+| bip_39_word_dash_8 | laugh-memory-hero-kite-frog-buzz-window-west |  
+| bip_39_word_dash_9 | laugh-memory-hero-kite-frog-buzz-window-west-chicken |  
 | bip_39_word_new_br_1 | laugh |  
 | bip_39_word_new_br_10 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west<br>chicken<br>drive |  
 | bip_39_word_new_br_11 | laugh<br>memory<br>hero<br>kite<br>frog<br>buzz<br>window<br>west<br>chicken<br>drive<br>yard |  
@@ -147,6 +159,18 @@ chicken |
 | bip_39_word_space_7 | laugh memory hero kite frog buzz window |  
 | bip_39_word_space_8 | laugh memory hero kite frog buzz window west |  
 | bip_39_word_space_9 | laugh memory hero kite frog buzz window west chicken |  
+| bip_39_word_underscore_1 | laugh |  
+| bip_39_word_underscore_10 | laugh_memory_hero_kite_frog_buzz_window_west_chicken_drive |  
+| bip_39_word_underscore_11 | laugh_memory_hero_kite_frog_buzz_window_west_chicken_drive_yard |  
+| bip_39_word_underscore_12 | laugh_memory_hero_kite_frog_buzz_window_west_chicken_drive_yard_adapt |  
+| bip_39_word_underscore_2 | laugh_memory |  
+| bip_39_word_underscore_3 | laugh_memory_hero |  
+| bip_39_word_underscore_4 | laugh_memory_hero_kite |  
+| bip_39_word_underscore_5 | laugh_memory_hero_kite_frog |  
+| bip_39_word_underscore_6 | laugh_memory_hero_kite_frog_buzz |  
+| bip_39_word_underscore_7 | laugh_memory_hero_kite_frog_buzz_window |  
+| bip_39_word_underscore_8 | laugh_memory_hero_kite_frog_buzz_window_west |  
+| bip_39_word_underscore_9 | laugh_memory_hero_kite_frog_buzz_window_west_chicken |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

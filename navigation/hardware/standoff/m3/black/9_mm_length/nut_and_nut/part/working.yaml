@@ -1,3 +1,15 @@
+bip_39_word_dash_1: give
+bip_39_word_dash_10: give-student-glad-page-leg-eight-note-vault-host-domain
+bip_39_word_dash_11: give-student-glad-page-leg-eight-note-vault-host-domain-fashion
+bip_39_word_dash_12: give-student-glad-page-leg-eight-note-vault-host-domain-fashion-assist
+bip_39_word_dash_2: give-student
+bip_39_word_dash_3: give-student-glad
+bip_39_word_dash_4: give-student-glad-page
+bip_39_word_dash_5: give-student-glad-page-leg
+bip_39_word_dash_6: give-student-glad-page-leg-eight
+bip_39_word_dash_7: give-student-glad-page-leg-eight-note
+bip_39_word_dash_8: give-student-glad-page-leg-eight-note-vault
+bip_39_word_dash_9: give-student-glad-page-leg-eight-note-vault-host
 bip_39_word_new_br_1: give
 bip_39_word_new_br_10: give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain
 bip_39_word_new_br_11: give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain<br>fashion
@@ -192,6 +204,18 @@ bip_39_word_space_6: give student glad page leg eight
 bip_39_word_space_7: give student glad page leg eight note
 bip_39_word_space_8: give student glad page leg eight note vault
 bip_39_word_space_9: give student glad page leg eight note vault host
+bip_39_word_underscore_1: give
+bip_39_word_underscore_10: give_student_glad_page_leg_eight_note_vault_host_domain
+bip_39_word_underscore_11: give_student_glad_page_leg_eight_note_vault_host_domain_fashion
+bip_39_word_underscore_12: give_student_glad_page_leg_eight_note_vault_host_domain_fashion_assist
+bip_39_word_underscore_2: give_student
+bip_39_word_underscore_3: give_student_glad
+bip_39_word_underscore_4: give_student_glad_page
+bip_39_word_underscore_5: give_student_glad_page_leg
+bip_39_word_underscore_6: give_student_glad_page_leg_eight
+bip_39_word_underscore_7: give_student_glad_page_leg_eight_note
+bip_39_word_underscore_8: give_student_glad_page_leg_eight_note_vault
+bip_39_word_underscore_9: give_student_glad_page_leg_eight_note_vault_host
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

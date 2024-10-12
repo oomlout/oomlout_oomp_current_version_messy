@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spice |  
+| bip_39_word_dash_10 | spice-decade-slush-conduct-logic-ladder-degree-father-floor-zebra |  
+| bip_39_word_dash_11 | spice-decade-slush-conduct-logic-ladder-degree-father-floor-zebra-north |  
+| bip_39_word_dash_12 | spice-decade-slush-conduct-logic-ladder-degree-father-floor-zebra-north-armed |  
+| bip_39_word_dash_2 | spice-decade |  
+| bip_39_word_dash_3 | spice-decade-slush |  
+| bip_39_word_dash_4 | spice-decade-slush-conduct |  
+| bip_39_word_dash_5 | spice-decade-slush-conduct-logic |  
+| bip_39_word_dash_6 | spice-decade-slush-conduct-logic-ladder |  
+| bip_39_word_dash_7 | spice-decade-slush-conduct-logic-ladder-degree |  
+| bip_39_word_dash_8 | spice-decade-slush-conduct-logic-ladder-degree-father |  
+| bip_39_word_dash_9 | spice-decade-slush-conduct-logic-ladder-degree-father-floor |  
 | bip_39_word_new_br_1 | spice |  
 | bip_39_word_new_br_10 | spice<br>decade<br>slush<br>conduct<br>logic<br>ladder<br>degree<br>father<br>floor<br>zebra |  
 | bip_39_word_new_br_11 | spice<br>decade<br>slush<br>conduct<br>logic<br>ladder<br>degree<br>father<br>floor<br>zebra<br>north |  
@@ -147,6 +159,18 @@ floor |
 | bip_39_word_space_7 | spice decade slush conduct logic ladder degree |  
 | bip_39_word_space_8 | spice decade slush conduct logic ladder degree father |  
 | bip_39_word_space_9 | spice decade slush conduct logic ladder degree father floor |  
+| bip_39_word_underscore_1 | spice |  
+| bip_39_word_underscore_10 | spice_decade_slush_conduct_logic_ladder_degree_father_floor_zebra |  
+| bip_39_word_underscore_11 | spice_decade_slush_conduct_logic_ladder_degree_father_floor_zebra_north |  
+| bip_39_word_underscore_12 | spice_decade_slush_conduct_logic_ladder_degree_father_floor_zebra_north_armed |  
+| bip_39_word_underscore_2 | spice_decade |  
+| bip_39_word_underscore_3 | spice_decade_slush |  
+| bip_39_word_underscore_4 | spice_decade_slush_conduct |  
+| bip_39_word_underscore_5 | spice_decade_slush_conduct_logic |  
+| bip_39_word_underscore_6 | spice_decade_slush_conduct_logic_ladder |  
+| bip_39_word_underscore_7 | spice_decade_slush_conduct_logic_ladder_degree |  
+| bip_39_word_underscore_8 | spice_decade_slush_conduct_logic_ladder_degree_father |  
+| bip_39_word_underscore_9 | spice_decade_slush_conduct_logic_ladder_degree_father_floor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | social |  
+| bip_39_word_dash_10 | social-title-cushion-egg-deer-toe-plunge-best-random-public |  
+| bip_39_word_dash_11 | social-title-cushion-egg-deer-toe-plunge-best-random-public-peace |  
+| bip_39_word_dash_12 | social-title-cushion-egg-deer-toe-plunge-best-random-public-peace-armor |  
+| bip_39_word_dash_2 | social-title |  
+| bip_39_word_dash_3 | social-title-cushion |  
+| bip_39_word_dash_4 | social-title-cushion-egg |  
+| bip_39_word_dash_5 | social-title-cushion-egg-deer |  
+| bip_39_word_dash_6 | social-title-cushion-egg-deer-toe |  
+| bip_39_word_dash_7 | social-title-cushion-egg-deer-toe-plunge |  
+| bip_39_word_dash_8 | social-title-cushion-egg-deer-toe-plunge-best |  
+| bip_39_word_dash_9 | social-title-cushion-egg-deer-toe-plunge-best-random |  
 | bip_39_word_new_br_1 | social |  
 | bip_39_word_new_br_10 | social<br>title<br>cushion<br>egg<br>deer<br>toe<br>plunge<br>best<br>random<br>public |  
 | bip_39_word_new_br_11 | social<br>title<br>cushion<br>egg<br>deer<br>toe<br>plunge<br>best<br>random<br>public<br>peace |  
@@ -147,6 +159,18 @@ random |
 | bip_39_word_space_7 | social title cushion egg deer toe plunge |  
 | bip_39_word_space_8 | social title cushion egg deer toe plunge best |  
 | bip_39_word_space_9 | social title cushion egg deer toe plunge best random |  
+| bip_39_word_underscore_1 | social |  
+| bip_39_word_underscore_10 | social_title_cushion_egg_deer_toe_plunge_best_random_public |  
+| bip_39_word_underscore_11 | social_title_cushion_egg_deer_toe_plunge_best_random_public_peace |  
+| bip_39_word_underscore_12 | social_title_cushion_egg_deer_toe_plunge_best_random_public_peace_armor |  
+| bip_39_word_underscore_2 | social_title |  
+| bip_39_word_underscore_3 | social_title_cushion |  
+| bip_39_word_underscore_4 | social_title_cushion_egg |  
+| bip_39_word_underscore_5 | social_title_cushion_egg_deer |  
+| bip_39_word_underscore_6 | social_title_cushion_egg_deer_toe |  
+| bip_39_word_underscore_7 | social_title_cushion_egg_deer_toe_plunge |  
+| bip_39_word_underscore_8 | social_title_cushion_egg_deer_toe_plunge_best |  
+| bip_39_word_underscore_9 | social_title_cushion_egg_deer_toe_plunge_best_random |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

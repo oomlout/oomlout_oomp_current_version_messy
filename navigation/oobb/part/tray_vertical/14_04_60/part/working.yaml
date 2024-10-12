@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crowd
+bip_39_word_dash_10: crowd-appear-run-lamp-crane-rice-mesh-skate-elder-prosper
+bip_39_word_dash_11: crowd-appear-run-lamp-crane-rice-mesh-skate-elder-prosper-kiss
+bip_39_word_dash_12: crowd-appear-run-lamp-crane-rice-mesh-skate-elder-prosper-kiss-alley
+bip_39_word_dash_2: crowd-appear
+bip_39_word_dash_3: crowd-appear-run
+bip_39_word_dash_4: crowd-appear-run-lamp
+bip_39_word_dash_5: crowd-appear-run-lamp-crane
+bip_39_word_dash_6: crowd-appear-run-lamp-crane-rice
+bip_39_word_dash_7: crowd-appear-run-lamp-crane-rice-mesh
+bip_39_word_dash_8: crowd-appear-run-lamp-crane-rice-mesh-skate
+bip_39_word_dash_9: crowd-appear-run-lamp-crane-rice-mesh-skate-elder
 bip_39_word_new_br_1: crowd
 bip_39_word_new_br_10: crowd<br>appear<br>run<br>lamp<br>crane<br>rice<br>mesh<br>skate<br>elder<br>prosper
 bip_39_word_new_br_11: crowd<br>appear<br>run<br>lamp<br>crane<br>rice<br>mesh<br>skate<br>elder<br>prosper<br>kiss
@@ -192,6 +204,18 @@ bip_39_word_space_6: crowd appear run lamp crane rice
 bip_39_word_space_7: crowd appear run lamp crane rice mesh
 bip_39_word_space_8: crowd appear run lamp crane rice mesh skate
 bip_39_word_space_9: crowd appear run lamp crane rice mesh skate elder
+bip_39_word_underscore_1: crowd
+bip_39_word_underscore_10: crowd_appear_run_lamp_crane_rice_mesh_skate_elder_prosper
+bip_39_word_underscore_11: crowd_appear_run_lamp_crane_rice_mesh_skate_elder_prosper_kiss
+bip_39_word_underscore_12: crowd_appear_run_lamp_crane_rice_mesh_skate_elder_prosper_kiss_alley
+bip_39_word_underscore_2: crowd_appear
+bip_39_word_underscore_3: crowd_appear_run
+bip_39_word_underscore_4: crowd_appear_run_lamp
+bip_39_word_underscore_5: crowd_appear_run_lamp_crane
+bip_39_word_underscore_6: crowd_appear_run_lamp_crane_rice
+bip_39_word_underscore_7: crowd_appear_run_lamp_crane_rice_mesh
+bip_39_word_underscore_8: crowd_appear_run_lamp_crane_rice_mesh_skate
+bip_39_word_underscore_9: crowd_appear_run_lamp_crane_rice_mesh_skate_elder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

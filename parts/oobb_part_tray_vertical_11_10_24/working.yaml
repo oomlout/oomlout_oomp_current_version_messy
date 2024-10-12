@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toss
+bip_39_word_dash_10: toss-spice-car-thing-feel-obscure-saddle-host-desert-casino
+bip_39_word_dash_11: toss-spice-car-thing-feel-obscure-saddle-host-desert-casino-autumn
+bip_39_word_dash_12: toss-spice-car-thing-feel-obscure-saddle-host-desert-casino-autumn-access
+bip_39_word_dash_2: toss-spice
+bip_39_word_dash_3: toss-spice-car
+bip_39_word_dash_4: toss-spice-car-thing
+bip_39_word_dash_5: toss-spice-car-thing-feel
+bip_39_word_dash_6: toss-spice-car-thing-feel-obscure
+bip_39_word_dash_7: toss-spice-car-thing-feel-obscure-saddle
+bip_39_word_dash_8: toss-spice-car-thing-feel-obscure-saddle-host
+bip_39_word_dash_9: toss-spice-car-thing-feel-obscure-saddle-host-desert
 bip_39_word_new_br_1: toss
 bip_39_word_new_br_10: toss<br>spice<br>car<br>thing<br>feel<br>obscure<br>saddle<br>host<br>desert<br>casino
 bip_39_word_new_br_11: toss<br>spice<br>car<br>thing<br>feel<br>obscure<br>saddle<br>host<br>desert<br>casino<br>autumn
@@ -193,6 +205,18 @@ bip_39_word_space_6: toss spice car thing feel obscure
 bip_39_word_space_7: toss spice car thing feel obscure saddle
 bip_39_word_space_8: toss spice car thing feel obscure saddle host
 bip_39_word_space_9: toss spice car thing feel obscure saddle host desert
+bip_39_word_underscore_1: toss
+bip_39_word_underscore_10: toss_spice_car_thing_feel_obscure_saddle_host_desert_casino
+bip_39_word_underscore_11: toss_spice_car_thing_feel_obscure_saddle_host_desert_casino_autumn
+bip_39_word_underscore_12: toss_spice_car_thing_feel_obscure_saddle_host_desert_casino_autumn_access
+bip_39_word_underscore_2: toss_spice
+bip_39_word_underscore_3: toss_spice_car
+bip_39_word_underscore_4: toss_spice_car_thing
+bip_39_word_underscore_5: toss_spice_car_thing_feel
+bip_39_word_underscore_6: toss_spice_car_thing_feel_obscure
+bip_39_word_underscore_7: toss_spice_car_thing_feel_obscure_saddle
+bip_39_word_underscore_8: toss_spice_car_thing_feel_obscure_saddle_host
+bip_39_word_underscore_9: toss_spice_car_thing_feel_obscure_saddle_host_desert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

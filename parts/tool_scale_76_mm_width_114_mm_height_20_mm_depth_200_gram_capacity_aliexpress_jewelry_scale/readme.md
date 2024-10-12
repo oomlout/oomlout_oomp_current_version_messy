@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | what |  
+| bip_39_word_dash_10 | what-bean-pear-night-similar-argue-give-guide-topic-master |  
+| bip_39_word_dash_11 | what-bean-pear-night-similar-argue-give-guide-topic-master-toy |  
+| bip_39_word_dash_12 | what-bean-pear-night-similar-argue-give-guide-topic-master-toy-amount |  
+| bip_39_word_dash_2 | what-bean |  
+| bip_39_word_dash_3 | what-bean-pear |  
+| bip_39_word_dash_4 | what-bean-pear-night |  
+| bip_39_word_dash_5 | what-bean-pear-night-similar |  
+| bip_39_word_dash_6 | what-bean-pear-night-similar-argue |  
+| bip_39_word_dash_7 | what-bean-pear-night-similar-argue-give |  
+| bip_39_word_dash_8 | what-bean-pear-night-similar-argue-give-guide |  
+| bip_39_word_dash_9 | what-bean-pear-night-similar-argue-give-guide-topic |  
 | bip_39_word_new_br_1 | what |  
 | bip_39_word_new_br_10 | what<br>bean<br>pear<br>night<br>similar<br>argue<br>give<br>guide<br>topic<br>master |  
 | bip_39_word_new_br_11 | what<br>bean<br>pear<br>night<br>similar<br>argue<br>give<br>guide<br>topic<br>master<br>toy |  
@@ -147,6 +159,18 @@ topic |
 | bip_39_word_space_7 | what bean pear night similar argue give |  
 | bip_39_word_space_8 | what bean pear night similar argue give guide |  
 | bip_39_word_space_9 | what bean pear night similar argue give guide topic |  
+| bip_39_word_underscore_1 | what |  
+| bip_39_word_underscore_10 | what_bean_pear_night_similar_argue_give_guide_topic_master |  
+| bip_39_word_underscore_11 | what_bean_pear_night_similar_argue_give_guide_topic_master_toy |  
+| bip_39_word_underscore_12 | what_bean_pear_night_similar_argue_give_guide_topic_master_toy_amount |  
+| bip_39_word_underscore_2 | what_bean |  
+| bip_39_word_underscore_3 | what_bean_pear |  
+| bip_39_word_underscore_4 | what_bean_pear_night |  
+| bip_39_word_underscore_5 | what_bean_pear_night_similar |  
+| bip_39_word_underscore_6 | what_bean_pear_night_similar_argue |  
+| bip_39_word_underscore_7 | what_bean_pear_night_similar_argue_give |  
+| bip_39_word_underscore_8 | what_bean_pear_night_similar_argue_give_guide |  
+| bip_39_word_underscore_9 | what_bean_pear_night_similar_argue_give_guide_topic |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

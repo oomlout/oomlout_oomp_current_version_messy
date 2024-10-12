@@ -1,3 +1,15 @@
+bip_39_word_dash_1: metal
+bip_39_word_dash_10: metal-letter-horse-tunnel-farm-fatigue-shine-tide-veteran-immense
+bip_39_word_dash_11: metal-letter-horse-tunnel-farm-fatigue-shine-tide-veteran-immense-gravity
+bip_39_word_dash_12: metal-letter-horse-tunnel-farm-fatigue-shine-tide-veteran-immense-gravity-apart
+bip_39_word_dash_2: metal-letter
+bip_39_word_dash_3: metal-letter-horse
+bip_39_word_dash_4: metal-letter-horse-tunnel
+bip_39_word_dash_5: metal-letter-horse-tunnel-farm
+bip_39_word_dash_6: metal-letter-horse-tunnel-farm-fatigue
+bip_39_word_dash_7: metal-letter-horse-tunnel-farm-fatigue-shine
+bip_39_word_dash_8: metal-letter-horse-tunnel-farm-fatigue-shine-tide
+bip_39_word_dash_9: metal-letter-horse-tunnel-farm-fatigue-shine-tide-veteran
 bip_39_word_new_br_1: metal
 bip_39_word_new_br_10: metal<br>letter<br>horse<br>tunnel<br>farm<br>fatigue<br>shine<br>tide<br>veteran<br>immense
 bip_39_word_new_br_11: metal<br>letter<br>horse<br>tunnel<br>farm<br>fatigue<br>shine<br>tide<br>veteran<br>immense<br>gravity
@@ -193,6 +205,18 @@ bip_39_word_space_6: metal letter horse tunnel farm fatigue
 bip_39_word_space_7: metal letter horse tunnel farm fatigue shine
 bip_39_word_space_8: metal letter horse tunnel farm fatigue shine tide
 bip_39_word_space_9: metal letter horse tunnel farm fatigue shine tide veteran
+bip_39_word_underscore_1: metal
+bip_39_word_underscore_10: metal_letter_horse_tunnel_farm_fatigue_shine_tide_veteran_immense
+bip_39_word_underscore_11: metal_letter_horse_tunnel_farm_fatigue_shine_tide_veteran_immense_gravity
+bip_39_word_underscore_12: metal_letter_horse_tunnel_farm_fatigue_shine_tide_veteran_immense_gravity_apart
+bip_39_word_underscore_2: metal_letter
+bip_39_word_underscore_3: metal_letter_horse
+bip_39_word_underscore_4: metal_letter_horse_tunnel
+bip_39_word_underscore_5: metal_letter_horse_tunnel_farm
+bip_39_word_underscore_6: metal_letter_horse_tunnel_farm_fatigue
+bip_39_word_underscore_7: metal_letter_horse_tunnel_farm_fatigue_shine
+bip_39_word_underscore_8: metal_letter_horse_tunnel_farm_fatigue_shine_tide
+bip_39_word_underscore_9: metal_letter_horse_tunnel_farm_fatigue_shine_tide_veteran
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

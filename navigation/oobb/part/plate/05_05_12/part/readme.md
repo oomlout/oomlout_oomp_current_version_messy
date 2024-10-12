@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | humble |  
+| bip_39_word_dash_10 | humble-deposit-nothing-rail-inherit-pony-mother-gold-grid-father |  
+| bip_39_word_dash_11 | humble-deposit-nothing-rail-inherit-pony-mother-gold-grid-father-among |  
+| bip_39_word_dash_12 | humble-deposit-nothing-rail-inherit-pony-mother-gold-grid-father-among-acoustic |  
+| bip_39_word_dash_2 | humble-deposit |  
+| bip_39_word_dash_3 | humble-deposit-nothing |  
+| bip_39_word_dash_4 | humble-deposit-nothing-rail |  
+| bip_39_word_dash_5 | humble-deposit-nothing-rail-inherit |  
+| bip_39_word_dash_6 | humble-deposit-nothing-rail-inherit-pony |  
+| bip_39_word_dash_7 | humble-deposit-nothing-rail-inherit-pony-mother |  
+| bip_39_word_dash_8 | humble-deposit-nothing-rail-inherit-pony-mother-gold |  
+| bip_39_word_dash_9 | humble-deposit-nothing-rail-inherit-pony-mother-gold-grid |  
 | bip_39_word_new_br_1 | humble |  
 | bip_39_word_new_br_10 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold<br>grid<br>father |  
 | bip_39_word_new_br_11 | humble<br>deposit<br>nothing<br>rail<br>inherit<br>pony<br>mother<br>gold<br>grid<br>father<br>among |  
@@ -147,6 +159,18 @@ grid |
 | bip_39_word_space_7 | humble deposit nothing rail inherit pony mother |  
 | bip_39_word_space_8 | humble deposit nothing rail inherit pony mother gold |  
 | bip_39_word_space_9 | humble deposit nothing rail inherit pony mother gold grid |  
+| bip_39_word_underscore_1 | humble |  
+| bip_39_word_underscore_10 | humble_deposit_nothing_rail_inherit_pony_mother_gold_grid_father |  
+| bip_39_word_underscore_11 | humble_deposit_nothing_rail_inherit_pony_mother_gold_grid_father_among |  
+| bip_39_word_underscore_12 | humble_deposit_nothing_rail_inherit_pony_mother_gold_grid_father_among_acoustic |  
+| bip_39_word_underscore_2 | humble_deposit |  
+| bip_39_word_underscore_3 | humble_deposit_nothing |  
+| bip_39_word_underscore_4 | humble_deposit_nothing_rail |  
+| bip_39_word_underscore_5 | humble_deposit_nothing_rail_inherit |  
+| bip_39_word_underscore_6 | humble_deposit_nothing_rail_inherit_pony |  
+| bip_39_word_underscore_7 | humble_deposit_nothing_rail_inherit_pony_mother |  
+| bip_39_word_underscore_8 | humble_deposit_nothing_rail_inherit_pony_mother_gold |  
+| bip_39_word_underscore_9 | humble_deposit_nothing_rail_inherit_pony_mother_gold_grid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

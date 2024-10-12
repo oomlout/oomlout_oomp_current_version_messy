@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | around |  
+| bip_39_word_dash_10 | around-lumber-wink-labor-payment-panther-degree-civil-once-credit |  
+| bip_39_word_dash_11 | around-lumber-wink-labor-payment-panther-degree-civil-once-credit-grocery |  
+| bip_39_word_dash_12 | around-lumber-wink-labor-payment-panther-degree-civil-once-credit-grocery-armor |  
+| bip_39_word_dash_2 | around-lumber |  
+| bip_39_word_dash_3 | around-lumber-wink |  
+| bip_39_word_dash_4 | around-lumber-wink-labor |  
+| bip_39_word_dash_5 | around-lumber-wink-labor-payment |  
+| bip_39_word_dash_6 | around-lumber-wink-labor-payment-panther |  
+| bip_39_word_dash_7 | around-lumber-wink-labor-payment-panther-degree |  
+| bip_39_word_dash_8 | around-lumber-wink-labor-payment-panther-degree-civil |  
+| bip_39_word_dash_9 | around-lumber-wink-labor-payment-panther-degree-civil-once |  
 | bip_39_word_new_br_1 | around |  
 | bip_39_word_new_br_10 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil<br>once<br>credit |  
 | bip_39_word_new_br_11 | around<br>lumber<br>wink<br>labor<br>payment<br>panther<br>degree<br>civil<br>once<br>credit<br>grocery |  
@@ -147,6 +159,18 @@ once |
 | bip_39_word_space_7 | around lumber wink labor payment panther degree |  
 | bip_39_word_space_8 | around lumber wink labor payment panther degree civil |  
 | bip_39_word_space_9 | around lumber wink labor payment panther degree civil once |  
+| bip_39_word_underscore_1 | around |  
+| bip_39_word_underscore_10 | around_lumber_wink_labor_payment_panther_degree_civil_once_credit |  
+| bip_39_word_underscore_11 | around_lumber_wink_labor_payment_panther_degree_civil_once_credit_grocery |  
+| bip_39_word_underscore_12 | around_lumber_wink_labor_payment_panther_degree_civil_once_credit_grocery_armor |  
+| bip_39_word_underscore_2 | around_lumber |  
+| bip_39_word_underscore_3 | around_lumber_wink |  
+| bip_39_word_underscore_4 | around_lumber_wink_labor |  
+| bip_39_word_underscore_5 | around_lumber_wink_labor_payment |  
+| bip_39_word_underscore_6 | around_lumber_wink_labor_payment_panther |  
+| bip_39_word_underscore_7 | around_lumber_wink_labor_payment_panther_degree |  
+| bip_39_word_underscore_8 | around_lumber_wink_labor_payment_panther_degree_civil |  
+| bip_39_word_underscore_9 | around_lumber_wink_labor_payment_panther_degree_civil_once |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clog |  
+| bip_39_word_dash_10 | clog-rare-kingdom-jelly-mutual-couple-left-noodle-dove-useful |  
+| bip_39_word_dash_11 | clog-rare-kingdom-jelly-mutual-couple-left-noodle-dove-useful-obey |  
+| bip_39_word_dash_12 | clog-rare-kingdom-jelly-mutual-couple-left-noodle-dove-useful-obey-action |  
+| bip_39_word_dash_2 | clog-rare |  
+| bip_39_word_dash_3 | clog-rare-kingdom |  
+| bip_39_word_dash_4 | clog-rare-kingdom-jelly |  
+| bip_39_word_dash_5 | clog-rare-kingdom-jelly-mutual |  
+| bip_39_word_dash_6 | clog-rare-kingdom-jelly-mutual-couple |  
+| bip_39_word_dash_7 | clog-rare-kingdom-jelly-mutual-couple-left |  
+| bip_39_word_dash_8 | clog-rare-kingdom-jelly-mutual-couple-left-noodle |  
+| bip_39_word_dash_9 | clog-rare-kingdom-jelly-mutual-couple-left-noodle-dove |  
 | bip_39_word_new_br_1 | clog |  
 | bip_39_word_new_br_10 | clog<br>rare<br>kingdom<br>jelly<br>mutual<br>couple<br>left<br>noodle<br>dove<br>useful |  
 | bip_39_word_new_br_11 | clog<br>rare<br>kingdom<br>jelly<br>mutual<br>couple<br>left<br>noodle<br>dove<br>useful<br>obey |  
@@ -147,6 +159,18 @@ dove |
 | bip_39_word_space_7 | clog rare kingdom jelly mutual couple left |  
 | bip_39_word_space_8 | clog rare kingdom jelly mutual couple left noodle |  
 | bip_39_word_space_9 | clog rare kingdom jelly mutual couple left noodle dove |  
+| bip_39_word_underscore_1 | clog |  
+| bip_39_word_underscore_10 | clog_rare_kingdom_jelly_mutual_couple_left_noodle_dove_useful |  
+| bip_39_word_underscore_11 | clog_rare_kingdom_jelly_mutual_couple_left_noodle_dove_useful_obey |  
+| bip_39_word_underscore_12 | clog_rare_kingdom_jelly_mutual_couple_left_noodle_dove_useful_obey_action |  
+| bip_39_word_underscore_2 | clog_rare |  
+| bip_39_word_underscore_3 | clog_rare_kingdom |  
+| bip_39_word_underscore_4 | clog_rare_kingdom_jelly |  
+| bip_39_word_underscore_5 | clog_rare_kingdom_jelly_mutual |  
+| bip_39_word_underscore_6 | clog_rare_kingdom_jelly_mutual_couple |  
+| bip_39_word_underscore_7 | clog_rare_kingdom_jelly_mutual_couple_left |  
+| bip_39_word_underscore_8 | clog_rare_kingdom_jelly_mutual_couple_left_noodle |  
+| bip_39_word_underscore_9 | clog_rare_kingdom_jelly_mutual_couple_left_noodle_dove |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

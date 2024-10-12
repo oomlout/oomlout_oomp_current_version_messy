@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | attack |  
+| bip_39_word_dash_10 | attack-detect-liberty-peanut-dog-awake-car-bonus-attitude-involve |  
+| bip_39_word_dash_11 | attack-detect-liberty-peanut-dog-awake-car-bonus-attitude-involve-dinner |  
+| bip_39_word_dash_12 | attack-detect-liberty-peanut-dog-awake-car-bonus-attitude-involve-dinner-auction |  
+| bip_39_word_dash_2 | attack-detect |  
+| bip_39_word_dash_3 | attack-detect-liberty |  
+| bip_39_word_dash_4 | attack-detect-liberty-peanut |  
+| bip_39_word_dash_5 | attack-detect-liberty-peanut-dog |  
+| bip_39_word_dash_6 | attack-detect-liberty-peanut-dog-awake |  
+| bip_39_word_dash_7 | attack-detect-liberty-peanut-dog-awake-car |  
+| bip_39_word_dash_8 | attack-detect-liberty-peanut-dog-awake-car-bonus |  
+| bip_39_word_dash_9 | attack-detect-liberty-peanut-dog-awake-car-bonus-attitude |  
 | bip_39_word_new_br_1 | attack |  
 | bip_39_word_new_br_10 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve |  
 | bip_39_word_new_br_11 | attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve<br>dinner |  
@@ -147,6 +159,18 @@ attitude |
 | bip_39_word_space_7 | attack detect liberty peanut dog awake car |  
 | bip_39_word_space_8 | attack detect liberty peanut dog awake car bonus |  
 | bip_39_word_space_9 | attack detect liberty peanut dog awake car bonus attitude |  
+| bip_39_word_underscore_1 | attack |  
+| bip_39_word_underscore_10 | attack_detect_liberty_peanut_dog_awake_car_bonus_attitude_involve |  
+| bip_39_word_underscore_11 | attack_detect_liberty_peanut_dog_awake_car_bonus_attitude_involve_dinner |  
+| bip_39_word_underscore_12 | attack_detect_liberty_peanut_dog_awake_car_bonus_attitude_involve_dinner_auction |  
+| bip_39_word_underscore_2 | attack_detect |  
+| bip_39_word_underscore_3 | attack_detect_liberty |  
+| bip_39_word_underscore_4 | attack_detect_liberty_peanut |  
+| bip_39_word_underscore_5 | attack_detect_liberty_peanut_dog |  
+| bip_39_word_underscore_6 | attack_detect_liberty_peanut_dog_awake |  
+| bip_39_word_underscore_7 | attack_detect_liberty_peanut_dog_awake_car |  
+| bip_39_word_underscore_8 | attack_detect_liberty_peanut_dog_awake_car_bonus |  
+| bip_39_word_underscore_9 | attack_detect_liberty_peanut_dog_awake_car_bonus_attitude |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

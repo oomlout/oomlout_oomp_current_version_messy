@@ -1,3 +1,15 @@
+bip_39_word_dash_1: torch
+bip_39_word_dash_10: torch-great-water-bright-deal-crater-luxury-vacant-enemy-during
+bip_39_word_dash_11: torch-great-water-bright-deal-crater-luxury-vacant-enemy-during-skill
+bip_39_word_dash_12: torch-great-water-bright-deal-crater-luxury-vacant-enemy-during-skill-auction
+bip_39_word_dash_2: torch-great
+bip_39_word_dash_3: torch-great-water
+bip_39_word_dash_4: torch-great-water-bright
+bip_39_word_dash_5: torch-great-water-bright-deal
+bip_39_word_dash_6: torch-great-water-bright-deal-crater
+bip_39_word_dash_7: torch-great-water-bright-deal-crater-luxury
+bip_39_word_dash_8: torch-great-water-bright-deal-crater-luxury-vacant
+bip_39_word_dash_9: torch-great-water-bright-deal-crater-luxury-vacant-enemy
 bip_39_word_new_br_1: torch
 bip_39_word_new_br_10: torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant<br>enemy<br>during
 bip_39_word_new_br_11: torch<br>great<br>water<br>bright<br>deal<br>crater<br>luxury<br>vacant<br>enemy<br>during<br>skill
@@ -193,6 +205,18 @@ bip_39_word_space_6: torch great water bright deal crater
 bip_39_word_space_7: torch great water bright deal crater luxury
 bip_39_word_space_8: torch great water bright deal crater luxury vacant
 bip_39_word_space_9: torch great water bright deal crater luxury vacant enemy
+bip_39_word_underscore_1: torch
+bip_39_word_underscore_10: torch_great_water_bright_deal_crater_luxury_vacant_enemy_during
+bip_39_word_underscore_11: torch_great_water_bright_deal_crater_luxury_vacant_enemy_during_skill
+bip_39_word_underscore_12: torch_great_water_bright_deal_crater_luxury_vacant_enemy_during_skill_auction
+bip_39_word_underscore_2: torch_great
+bip_39_word_underscore_3: torch_great_water
+bip_39_word_underscore_4: torch_great_water_bright
+bip_39_word_underscore_5: torch_great_water_bright_deal
+bip_39_word_underscore_6: torch_great_water_bright_deal_crater
+bip_39_word_underscore_7: torch_great_water_bright_deal_crater_luxury
+bip_39_word_underscore_8: torch_great_water_bright_deal_crater_luxury_vacant
+bip_39_word_underscore_9: torch_great_water_bright_deal_crater_luxury_vacant_enemy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

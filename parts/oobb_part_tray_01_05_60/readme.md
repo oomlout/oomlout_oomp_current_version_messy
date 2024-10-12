@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unlock |  
+| bip_39_word_dash_10 | unlock-city-series-project-cactus-damp-essay-lawsuit-champion-inflict |  
+| bip_39_word_dash_11 | unlock-city-series-project-cactus-damp-essay-lawsuit-champion-inflict-decide |  
+| bip_39_word_dash_2 | unlock-city |  
+| bip_39_word_dash_3 | unlock-city-series |  
+| bip_39_word_dash_4 | unlock-city-series-project |  
+| bip_39_word_dash_5 | unlock-city-series-project-cactus |  
+| bip_39_word_dash_6 | unlock-city-series-project-cactus-damp |  
+| bip_39_word_dash_7 | unlock-city-series-project-cactus-damp-essay |  
+| bip_39_word_dash_8 | unlock-city-series-project-cactus-damp-essay-lawsuit |  
+| bip_39_word_dash_9 | unlock-city-series-project-cactus-damp-essay-lawsuit-champion |  
 | bip_39_word_new_br_1 | unlock |  
 | bip_39_word_new_br_10 | unlock<br>city<br>series<br>project<br>cactus<br>damp<br>essay<br>lawsuit<br>champion<br>inflict |  
 | bip_39_word_new_br_11 | unlock<br>city<br>series<br>project<br>cactus<br>damp<br>essay<br>lawsuit<br>champion<br>inflict<br>decide |  
@@ -132,6 +143,17 @@ champion |
 | bip_39_word_space_7 | unlock city series project cactus damp essay |  
 | bip_39_word_space_8 | unlock city series project cactus damp essay lawsuit |  
 | bip_39_word_space_9 | unlock city series project cactus damp essay lawsuit champion |  
+| bip_39_word_underscore_1 | unlock |  
+| bip_39_word_underscore_10 | unlock_city_series_project_cactus_damp_essay_lawsuit_champion_inflict |  
+| bip_39_word_underscore_11 | unlock_city_series_project_cactus_damp_essay_lawsuit_champion_inflict_decide |  
+| bip_39_word_underscore_2 | unlock_city |  
+| bip_39_word_underscore_3 | unlock_city_series |  
+| bip_39_word_underscore_4 | unlock_city_series_project |  
+| bip_39_word_underscore_5 | unlock_city_series_project_cactus |  
+| bip_39_word_underscore_6 | unlock_city_series_project_cactus_damp |  
+| bip_39_word_underscore_7 | unlock_city_series_project_cactus_damp_essay |  
+| bip_39_word_underscore_8 | unlock_city_series_project_cactus_damp_essay_lawsuit |  
+| bip_39_word_underscore_9 | unlock_city_series_project_cactus_damp_essay_lawsuit_champion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

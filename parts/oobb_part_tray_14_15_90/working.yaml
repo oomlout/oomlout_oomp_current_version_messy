@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scout
+bip_39_word_dash_10: scout-urban-crime-churn-father-jar-potato-spirit-tent-wild
+bip_39_word_dash_11: scout-urban-crime-churn-father-jar-potato-spirit-tent-wild-silk
+bip_39_word_dash_12: scout-urban-crime-churn-father-jar-potato-spirit-tent-wild-silk-admit
+bip_39_word_dash_2: scout-urban
+bip_39_word_dash_3: scout-urban-crime
+bip_39_word_dash_4: scout-urban-crime-churn
+bip_39_word_dash_5: scout-urban-crime-churn-father
+bip_39_word_dash_6: scout-urban-crime-churn-father-jar
+bip_39_word_dash_7: scout-urban-crime-churn-father-jar-potato
+bip_39_word_dash_8: scout-urban-crime-churn-father-jar-potato-spirit
+bip_39_word_dash_9: scout-urban-crime-churn-father-jar-potato-spirit-tent
 bip_39_word_new_br_1: scout
 bip_39_word_new_br_10: scout<br>urban<br>crime<br>churn<br>father<br>jar<br>potato<br>spirit<br>tent<br>wild
 bip_39_word_new_br_11: scout<br>urban<br>crime<br>churn<br>father<br>jar<br>potato<br>spirit<br>tent<br>wild<br>silk
@@ -192,6 +204,18 @@ bip_39_word_space_6: scout urban crime churn father jar
 bip_39_word_space_7: scout urban crime churn father jar potato
 bip_39_word_space_8: scout urban crime churn father jar potato spirit
 bip_39_word_space_9: scout urban crime churn father jar potato spirit tent
+bip_39_word_underscore_1: scout
+bip_39_word_underscore_10: scout_urban_crime_churn_father_jar_potato_spirit_tent_wild
+bip_39_word_underscore_11: scout_urban_crime_churn_father_jar_potato_spirit_tent_wild_silk
+bip_39_word_underscore_12: scout_urban_crime_churn_father_jar_potato_spirit_tent_wild_silk_admit
+bip_39_word_underscore_2: scout_urban
+bip_39_word_underscore_3: scout_urban_crime
+bip_39_word_underscore_4: scout_urban_crime_churn
+bip_39_word_underscore_5: scout_urban_crime_churn_father
+bip_39_word_underscore_6: scout_urban_crime_churn_father_jar
+bip_39_word_underscore_7: scout_urban_crime_churn_father_jar_potato
+bip_39_word_underscore_8: scout_urban_crime_churn_father_jar_potato_spirit
+bip_39_word_underscore_9: scout_urban_crime_churn_father_jar_potato_spirit_tent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

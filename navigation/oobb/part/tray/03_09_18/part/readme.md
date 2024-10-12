@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | awkward |  
+| bip_39_word_dash_10 | awkward-explain-cotton-effort-evil-need-much-tourist-reunion-exhaust |  
+| bip_39_word_dash_11 | awkward-explain-cotton-effort-evil-need-much-tourist-reunion-exhaust-biology |  
+| bip_39_word_dash_12 | awkward-explain-cotton-effort-evil-need-much-tourist-reunion-exhaust-biology-atom |  
+| bip_39_word_dash_2 | awkward-explain |  
+| bip_39_word_dash_3 | awkward-explain-cotton |  
+| bip_39_word_dash_4 | awkward-explain-cotton-effort |  
+| bip_39_word_dash_5 | awkward-explain-cotton-effort-evil |  
+| bip_39_word_dash_6 | awkward-explain-cotton-effort-evil-need |  
+| bip_39_word_dash_7 | awkward-explain-cotton-effort-evil-need-much |  
+| bip_39_word_dash_8 | awkward-explain-cotton-effort-evil-need-much-tourist |  
+| bip_39_word_dash_9 | awkward-explain-cotton-effort-evil-need-much-tourist-reunion |  
 | bip_39_word_new_br_1 | awkward |  
 | bip_39_word_new_br_10 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust |  
 | bip_39_word_new_br_11 | awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust<br>biology |  
@@ -147,6 +159,18 @@ reunion |
 | bip_39_word_space_7 | awkward explain cotton effort evil need much |  
 | bip_39_word_space_8 | awkward explain cotton effort evil need much tourist |  
 | bip_39_word_space_9 | awkward explain cotton effort evil need much tourist reunion |  
+| bip_39_word_underscore_1 | awkward |  
+| bip_39_word_underscore_10 | awkward_explain_cotton_effort_evil_need_much_tourist_reunion_exhaust |  
+| bip_39_word_underscore_11 | awkward_explain_cotton_effort_evil_need_much_tourist_reunion_exhaust_biology |  
+| bip_39_word_underscore_12 | awkward_explain_cotton_effort_evil_need_much_tourist_reunion_exhaust_biology_atom |  
+| bip_39_word_underscore_2 | awkward_explain |  
+| bip_39_word_underscore_3 | awkward_explain_cotton |  
+| bip_39_word_underscore_4 | awkward_explain_cotton_effort |  
+| bip_39_word_underscore_5 | awkward_explain_cotton_effort_evil |  
+| bip_39_word_underscore_6 | awkward_explain_cotton_effort_evil_need |  
+| bip_39_word_underscore_7 | awkward_explain_cotton_effort_evil_need_much |  
+| bip_39_word_underscore_8 | awkward_explain_cotton_effort_evil_need_much_tourist |  
+| bip_39_word_underscore_9 | awkward_explain_cotton_effort_evil_need_much_tourist_reunion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gossip |  
+| bip_39_word_dash_10 | gossip-scale-silver-leave-acid-language-govern-save-spring-soul |  
+| bip_39_word_dash_11 | gossip-scale-silver-leave-acid-language-govern-save-spring-soul-absurd |  
+| bip_39_word_dash_12 | gossip-scale-silver-leave-acid-language-govern-save-spring-soul-absurd-admit |  
+| bip_39_word_dash_2 | gossip-scale |  
+| bip_39_word_dash_3 | gossip-scale-silver |  
+| bip_39_word_dash_4 | gossip-scale-silver-leave |  
+| bip_39_word_dash_5 | gossip-scale-silver-leave-acid |  
+| bip_39_word_dash_6 | gossip-scale-silver-leave-acid-language |  
+| bip_39_word_dash_7 | gossip-scale-silver-leave-acid-language-govern |  
+| bip_39_word_dash_8 | gossip-scale-silver-leave-acid-language-govern-save |  
+| bip_39_word_dash_9 | gossip-scale-silver-leave-acid-language-govern-save-spring |  
 | bip_39_word_new_br_1 | gossip |  
 | bip_39_word_new_br_10 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul |  
 | bip_39_word_new_br_11 | gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul<br>absurd |  
@@ -147,6 +159,18 @@ spring |
 | bip_39_word_space_7 | gossip scale silver leave acid language govern |  
 | bip_39_word_space_8 | gossip scale silver leave acid language govern save |  
 | bip_39_word_space_9 | gossip scale silver leave acid language govern save spring |  
+| bip_39_word_underscore_1 | gossip |  
+| bip_39_word_underscore_10 | gossip_scale_silver_leave_acid_language_govern_save_spring_soul |  
+| bip_39_word_underscore_11 | gossip_scale_silver_leave_acid_language_govern_save_spring_soul_absurd |  
+| bip_39_word_underscore_12 | gossip_scale_silver_leave_acid_language_govern_save_spring_soul_absurd_admit |  
+| bip_39_word_underscore_2 | gossip_scale |  
+| bip_39_word_underscore_3 | gossip_scale_silver |  
+| bip_39_word_underscore_4 | gossip_scale_silver_leave |  
+| bip_39_word_underscore_5 | gossip_scale_silver_leave_acid |  
+| bip_39_word_underscore_6 | gossip_scale_silver_leave_acid_language |  
+| bip_39_word_underscore_7 | gossip_scale_silver_leave_acid_language_govern |  
+| bip_39_word_underscore_8 | gossip_scale_silver_leave_acid_language_govern_save |  
+| bip_39_word_underscore_9 | gossip_scale_silver_leave_acid_language_govern_save_spring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

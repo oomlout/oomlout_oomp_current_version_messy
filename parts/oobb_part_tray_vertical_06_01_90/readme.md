@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ignore |  
+| bip_39_word_dash_10 | ignore-truly-wide-panda-obvious-pipe-crime-trade-run-swing |  
+| bip_39_word_dash_11 | ignore-truly-wide-panda-obvious-pipe-crime-trade-run-swing-skull |  
+| bip_39_word_dash_12 | ignore-truly-wide-panda-obvious-pipe-crime-trade-run-swing-skull-addict |  
+| bip_39_word_dash_2 | ignore-truly |  
+| bip_39_word_dash_3 | ignore-truly-wide |  
+| bip_39_word_dash_4 | ignore-truly-wide-panda |  
+| bip_39_word_dash_5 | ignore-truly-wide-panda-obvious |  
+| bip_39_word_dash_6 | ignore-truly-wide-panda-obvious-pipe |  
+| bip_39_word_dash_7 | ignore-truly-wide-panda-obvious-pipe-crime |  
+| bip_39_word_dash_8 | ignore-truly-wide-panda-obvious-pipe-crime-trade |  
+| bip_39_word_dash_9 | ignore-truly-wide-panda-obvious-pipe-crime-trade-run |  
 | bip_39_word_new_br_1 | ignore |  
 | bip_39_word_new_br_10 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing |  
 | bip_39_word_new_br_11 | ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing<br>skull |  
@@ -147,6 +159,18 @@ run |
 | bip_39_word_space_7 | ignore truly wide panda obvious pipe crime |  
 | bip_39_word_space_8 | ignore truly wide panda obvious pipe crime trade |  
 | bip_39_word_space_9 | ignore truly wide panda obvious pipe crime trade run |  
+| bip_39_word_underscore_1 | ignore |  
+| bip_39_word_underscore_10 | ignore_truly_wide_panda_obvious_pipe_crime_trade_run_swing |  
+| bip_39_word_underscore_11 | ignore_truly_wide_panda_obvious_pipe_crime_trade_run_swing_skull |  
+| bip_39_word_underscore_12 | ignore_truly_wide_panda_obvious_pipe_crime_trade_run_swing_skull_addict |  
+| bip_39_word_underscore_2 | ignore_truly |  
+| bip_39_word_underscore_3 | ignore_truly_wide |  
+| bip_39_word_underscore_4 | ignore_truly_wide_panda |  
+| bip_39_word_underscore_5 | ignore_truly_wide_panda_obvious |  
+| bip_39_word_underscore_6 | ignore_truly_wide_panda_obvious_pipe |  
+| bip_39_word_underscore_7 | ignore_truly_wide_panda_obvious_pipe_crime |  
+| bip_39_word_underscore_8 | ignore_truly_wide_panda_obvious_pipe_crime_trade |  
+| bip_39_word_underscore_9 | ignore_truly_wide_panda_obvious_pipe_crime_trade_run |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

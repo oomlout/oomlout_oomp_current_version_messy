@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | section |  
+| bip_39_word_dash_10 | section-seminar-stone-endless-beyond-asset-badge-velvet-south-latin |  
+| bip_39_word_dash_11 | section-seminar-stone-endless-beyond-asset-badge-velvet-south-latin-poet |  
+| bip_39_word_dash_12 | section-seminar-stone-endless-beyond-asset-badge-velvet-south-latin-poet-accident |  
+| bip_39_word_dash_2 | section-seminar |  
+| bip_39_word_dash_3 | section-seminar-stone |  
+| bip_39_word_dash_4 | section-seminar-stone-endless |  
+| bip_39_word_dash_5 | section-seminar-stone-endless-beyond |  
+| bip_39_word_dash_6 | section-seminar-stone-endless-beyond-asset |  
+| bip_39_word_dash_7 | section-seminar-stone-endless-beyond-asset-badge |  
+| bip_39_word_dash_8 | section-seminar-stone-endless-beyond-asset-badge-velvet |  
+| bip_39_word_dash_9 | section-seminar-stone-endless-beyond-asset-badge-velvet-south |  
 | bip_39_word_new_br_1 | section |  
 | bip_39_word_new_br_10 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet<br>south<br>latin |  
 | bip_39_word_new_br_11 | section<br>seminar<br>stone<br>endless<br>beyond<br>asset<br>badge<br>velvet<br>south<br>latin<br>poet |  
@@ -147,6 +159,18 @@ south |
 | bip_39_word_space_7 | section seminar stone endless beyond asset badge |  
 | bip_39_word_space_8 | section seminar stone endless beyond asset badge velvet |  
 | bip_39_word_space_9 | section seminar stone endless beyond asset badge velvet south |  
+| bip_39_word_underscore_1 | section |  
+| bip_39_word_underscore_10 | section_seminar_stone_endless_beyond_asset_badge_velvet_south_latin |  
+| bip_39_word_underscore_11 | section_seminar_stone_endless_beyond_asset_badge_velvet_south_latin_poet |  
+| bip_39_word_underscore_12 | section_seminar_stone_endless_beyond_asset_badge_velvet_south_latin_poet_accident |  
+| bip_39_word_underscore_2 | section_seminar |  
+| bip_39_word_underscore_3 | section_seminar_stone |  
+| bip_39_word_underscore_4 | section_seminar_stone_endless |  
+| bip_39_word_underscore_5 | section_seminar_stone_endless_beyond |  
+| bip_39_word_underscore_6 | section_seminar_stone_endless_beyond_asset |  
+| bip_39_word_underscore_7 | section_seminar_stone_endless_beyond_asset_badge |  
+| bip_39_word_underscore_8 | section_seminar_stone_endless_beyond_asset_badge_velvet |  
+| bip_39_word_underscore_9 | section_seminar_stone_endless_beyond_asset_badge_velvet_south |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

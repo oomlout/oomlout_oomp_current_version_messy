@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deal |  
+| bip_39_word_dash_10 | deal-blind-tank-never-cycle-weapon-boost-unfold-lunch-question |  
+| bip_39_word_dash_11 | deal-blind-tank-never-cycle-weapon-boost-unfold-lunch-question-shoe |  
+| bip_39_word_dash_12 | deal-blind-tank-never-cycle-weapon-boost-unfold-lunch-question-shoe-assume |  
+| bip_39_word_dash_2 | deal-blind |  
+| bip_39_word_dash_3 | deal-blind-tank |  
+| bip_39_word_dash_4 | deal-blind-tank-never |  
+| bip_39_word_dash_5 | deal-blind-tank-never-cycle |  
+| bip_39_word_dash_6 | deal-blind-tank-never-cycle-weapon |  
+| bip_39_word_dash_7 | deal-blind-tank-never-cycle-weapon-boost |  
+| bip_39_word_dash_8 | deal-blind-tank-never-cycle-weapon-boost-unfold |  
+| bip_39_word_dash_9 | deal-blind-tank-never-cycle-weapon-boost-unfold-lunch |  
 | bip_39_word_new_br_1 | deal |  
 | bip_39_word_new_br_10 | deal<br>blind<br>tank<br>never<br>cycle<br>weapon<br>boost<br>unfold<br>lunch<br>question |  
 | bip_39_word_new_br_11 | deal<br>blind<br>tank<br>never<br>cycle<br>weapon<br>boost<br>unfold<br>lunch<br>question<br>shoe |  
@@ -147,6 +159,18 @@ lunch |
 | bip_39_word_space_7 | deal blind tank never cycle weapon boost |  
 | bip_39_word_space_8 | deal blind tank never cycle weapon boost unfold |  
 | bip_39_word_space_9 | deal blind tank never cycle weapon boost unfold lunch |  
+| bip_39_word_underscore_1 | deal |  
+| bip_39_word_underscore_10 | deal_blind_tank_never_cycle_weapon_boost_unfold_lunch_question |  
+| bip_39_word_underscore_11 | deal_blind_tank_never_cycle_weapon_boost_unfold_lunch_question_shoe |  
+| bip_39_word_underscore_12 | deal_blind_tank_never_cycle_weapon_boost_unfold_lunch_question_shoe_assume |  
+| bip_39_word_underscore_2 | deal_blind |  
+| bip_39_word_underscore_3 | deal_blind_tank |  
+| bip_39_word_underscore_4 | deal_blind_tank_never |  
+| bip_39_word_underscore_5 | deal_blind_tank_never_cycle |  
+| bip_39_word_underscore_6 | deal_blind_tank_never_cycle_weapon |  
+| bip_39_word_underscore_7 | deal_blind_tank_never_cycle_weapon_boost |  
+| bip_39_word_underscore_8 | deal_blind_tank_never_cycle_weapon_boost_unfold |  
+| bip_39_word_underscore_9 | deal_blind_tank_never_cycle_weapon_boost_unfold_lunch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

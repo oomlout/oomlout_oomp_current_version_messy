@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | type |  
+| bip_39_word_dash_10 | type-educate-stumble-hobby-trophy-like-abandon-intact-clean-scale |  
+| bip_39_word_dash_11 | type-educate-stumble-hobby-trophy-like-abandon-intact-clean-scale-column |  
+| bip_39_word_dash_12 | type-educate-stumble-hobby-trophy-like-abandon-intact-clean-scale-column-able |  
+| bip_39_word_dash_2 | type-educate |  
+| bip_39_word_dash_3 | type-educate-stumble |  
+| bip_39_word_dash_4 | type-educate-stumble-hobby |  
+| bip_39_word_dash_5 | type-educate-stumble-hobby-trophy |  
+| bip_39_word_dash_6 | type-educate-stumble-hobby-trophy-like |  
+| bip_39_word_dash_7 | type-educate-stumble-hobby-trophy-like-abandon |  
+| bip_39_word_dash_8 | type-educate-stumble-hobby-trophy-like-abandon-intact |  
+| bip_39_word_dash_9 | type-educate-stumble-hobby-trophy-like-abandon-intact-clean |  
 | bip_39_word_new_br_1 | type |  
 | bip_39_word_new_br_10 | type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact<br>clean<br>scale |  
 | bip_39_word_new_br_11 | type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact<br>clean<br>scale<br>column |  
@@ -147,6 +159,18 @@ clean |
 | bip_39_word_space_7 | type educate stumble hobby trophy like abandon |  
 | bip_39_word_space_8 | type educate stumble hobby trophy like abandon intact |  
 | bip_39_word_space_9 | type educate stumble hobby trophy like abandon intact clean |  
+| bip_39_word_underscore_1 | type |  
+| bip_39_word_underscore_10 | type_educate_stumble_hobby_trophy_like_abandon_intact_clean_scale |  
+| bip_39_word_underscore_11 | type_educate_stumble_hobby_trophy_like_abandon_intact_clean_scale_column |  
+| bip_39_word_underscore_12 | type_educate_stumble_hobby_trophy_like_abandon_intact_clean_scale_column_able |  
+| bip_39_word_underscore_2 | type_educate |  
+| bip_39_word_underscore_3 | type_educate_stumble |  
+| bip_39_word_underscore_4 | type_educate_stumble_hobby |  
+| bip_39_word_underscore_5 | type_educate_stumble_hobby_trophy |  
+| bip_39_word_underscore_6 | type_educate_stumble_hobby_trophy_like |  
+| bip_39_word_underscore_7 | type_educate_stumble_hobby_trophy_like_abandon |  
+| bip_39_word_underscore_8 | type_educate_stumble_hobby_trophy_like_abandon_intact |  
+| bip_39_word_underscore_9 | type_educate_stumble_hobby_trophy_like_abandon_intact_clean |  
 | box_quantity | 197 |  
 | classification | packaging |  
 | classification_capital | Packaging |  

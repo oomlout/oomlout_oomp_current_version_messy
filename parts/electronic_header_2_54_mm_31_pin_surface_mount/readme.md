@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bar |  
+| bip_39_word_dash_10 | bar-erupt-smooth-predict-retreat-critic-case-burst-want-success |  
+| bip_39_word_dash_11 | bar-erupt-smooth-predict-retreat-critic-case-burst-want-success-tennis |  
+| bip_39_word_dash_12 | bar-erupt-smooth-predict-retreat-critic-case-burst-want-success-tennis-admit |  
+| bip_39_word_dash_2 | bar-erupt |  
+| bip_39_word_dash_3 | bar-erupt-smooth |  
+| bip_39_word_dash_4 | bar-erupt-smooth-predict |  
+| bip_39_word_dash_5 | bar-erupt-smooth-predict-retreat |  
+| bip_39_word_dash_6 | bar-erupt-smooth-predict-retreat-critic |  
+| bip_39_word_dash_7 | bar-erupt-smooth-predict-retreat-critic-case |  
+| bip_39_word_dash_8 | bar-erupt-smooth-predict-retreat-critic-case-burst |  
+| bip_39_word_dash_9 | bar-erupt-smooth-predict-retreat-critic-case-burst-want |  
 | bip_39_word_new_br_1 | bar |  
 | bip_39_word_new_br_10 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst<br>want<br>success |  
 | bip_39_word_new_br_11 | bar<br>erupt<br>smooth<br>predict<br>retreat<br>critic<br>case<br>burst<br>want<br>success<br>tennis |  
@@ -147,6 +159,18 @@ want |
 | bip_39_word_space_7 | bar erupt smooth predict retreat critic case |  
 | bip_39_word_space_8 | bar erupt smooth predict retreat critic case burst |  
 | bip_39_word_space_9 | bar erupt smooth predict retreat critic case burst want |  
+| bip_39_word_underscore_1 | bar |  
+| bip_39_word_underscore_10 | bar_erupt_smooth_predict_retreat_critic_case_burst_want_success |  
+| bip_39_word_underscore_11 | bar_erupt_smooth_predict_retreat_critic_case_burst_want_success_tennis |  
+| bip_39_word_underscore_12 | bar_erupt_smooth_predict_retreat_critic_case_burst_want_success_tennis_admit |  
+| bip_39_word_underscore_2 | bar_erupt |  
+| bip_39_word_underscore_3 | bar_erupt_smooth |  
+| bip_39_word_underscore_4 | bar_erupt_smooth_predict |  
+| bip_39_word_underscore_5 | bar_erupt_smooth_predict_retreat |  
+| bip_39_word_underscore_6 | bar_erupt_smooth_predict_retreat_critic |  
+| bip_39_word_underscore_7 | bar_erupt_smooth_predict_retreat_critic_case |  
+| bip_39_word_underscore_8 | bar_erupt_smooth_predict_retreat_critic_case_burst |  
+| bip_39_word_underscore_9 | bar_erupt_smooth_predict_retreat_critic_case_burst_want |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

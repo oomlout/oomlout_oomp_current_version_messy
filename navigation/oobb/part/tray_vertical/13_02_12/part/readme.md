@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | warrior |  
+| bip_39_word_dash_10 | warrior-lottery-puppy-alpha-link-ability-alert-lyrics-narrow-special |  
+| bip_39_word_dash_11 | warrior-lottery-puppy-alpha-link-ability-alert-lyrics-narrow-special-poem |  
+| bip_39_word_dash_12 | warrior-lottery-puppy-alpha-link-ability-alert-lyrics-narrow-special-poem-assault |  
+| bip_39_word_dash_2 | warrior-lottery |  
+| bip_39_word_dash_3 | warrior-lottery-puppy |  
+| bip_39_word_dash_4 | warrior-lottery-puppy-alpha |  
+| bip_39_word_dash_5 | warrior-lottery-puppy-alpha-link |  
+| bip_39_word_dash_6 | warrior-lottery-puppy-alpha-link-ability |  
+| bip_39_word_dash_7 | warrior-lottery-puppy-alpha-link-ability-alert |  
+| bip_39_word_dash_8 | warrior-lottery-puppy-alpha-link-ability-alert-lyrics |  
+| bip_39_word_dash_9 | warrior-lottery-puppy-alpha-link-ability-alert-lyrics-narrow |  
 | bip_39_word_new_br_1 | warrior |  
 | bip_39_word_new_br_10 | warrior<br>lottery<br>puppy<br>alpha<br>link<br>ability<br>alert<br>lyrics<br>narrow<br>special |  
 | bip_39_word_new_br_11 | warrior<br>lottery<br>puppy<br>alpha<br>link<br>ability<br>alert<br>lyrics<br>narrow<br>special<br>poem |  
@@ -147,6 +159,18 @@ narrow |
 | bip_39_word_space_7 | warrior lottery puppy alpha link ability alert |  
 | bip_39_word_space_8 | warrior lottery puppy alpha link ability alert lyrics |  
 | bip_39_word_space_9 | warrior lottery puppy alpha link ability alert lyrics narrow |  
+| bip_39_word_underscore_1 | warrior |  
+| bip_39_word_underscore_10 | warrior_lottery_puppy_alpha_link_ability_alert_lyrics_narrow_special |  
+| bip_39_word_underscore_11 | warrior_lottery_puppy_alpha_link_ability_alert_lyrics_narrow_special_poem |  
+| bip_39_word_underscore_12 | warrior_lottery_puppy_alpha_link_ability_alert_lyrics_narrow_special_poem_assault |  
+| bip_39_word_underscore_2 | warrior_lottery |  
+| bip_39_word_underscore_3 | warrior_lottery_puppy |  
+| bip_39_word_underscore_4 | warrior_lottery_puppy_alpha |  
+| bip_39_word_underscore_5 | warrior_lottery_puppy_alpha_link |  
+| bip_39_word_underscore_6 | warrior_lottery_puppy_alpha_link_ability |  
+| bip_39_word_underscore_7 | warrior_lottery_puppy_alpha_link_ability_alert |  
+| bip_39_word_underscore_8 | warrior_lottery_puppy_alpha_link_ability_alert_lyrics |  
+| bip_39_word_underscore_9 | warrior_lottery_puppy_alpha_link_ability_alert_lyrics_narrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fire |  
+| bip_39_word_dash_10 | fire-enforce-bridge-floor-garden-exact-retreat-practice-camp-limit |  
+| bip_39_word_dash_11 | fire-enforce-bridge-floor-garden-exact-retreat-practice-camp-limit-pact |  
+| bip_39_word_dash_12 | fire-enforce-bridge-floor-garden-exact-retreat-practice-camp-limit-pact-arena |  
+| bip_39_word_dash_2 | fire-enforce |  
+| bip_39_word_dash_3 | fire-enforce-bridge |  
+| bip_39_word_dash_4 | fire-enforce-bridge-floor |  
+| bip_39_word_dash_5 | fire-enforce-bridge-floor-garden |  
+| bip_39_word_dash_6 | fire-enforce-bridge-floor-garden-exact |  
+| bip_39_word_dash_7 | fire-enforce-bridge-floor-garden-exact-retreat |  
+| bip_39_word_dash_8 | fire-enforce-bridge-floor-garden-exact-retreat-practice |  
+| bip_39_word_dash_9 | fire-enforce-bridge-floor-garden-exact-retreat-practice-camp |  
 | bip_39_word_new_br_1 | fire |  
 | bip_39_word_new_br_10 | fire<br>enforce<br>bridge<br>floor<br>garden<br>exact<br>retreat<br>practice<br>camp<br>limit |  
 | bip_39_word_new_br_11 | fire<br>enforce<br>bridge<br>floor<br>garden<br>exact<br>retreat<br>practice<br>camp<br>limit<br>pact |  
@@ -147,6 +159,18 @@ camp |
 | bip_39_word_space_7 | fire enforce bridge floor garden exact retreat |  
 | bip_39_word_space_8 | fire enforce bridge floor garden exact retreat practice |  
 | bip_39_word_space_9 | fire enforce bridge floor garden exact retreat practice camp |  
+| bip_39_word_underscore_1 | fire |  
+| bip_39_word_underscore_10 | fire_enforce_bridge_floor_garden_exact_retreat_practice_camp_limit |  
+| bip_39_word_underscore_11 | fire_enforce_bridge_floor_garden_exact_retreat_practice_camp_limit_pact |  
+| bip_39_word_underscore_12 | fire_enforce_bridge_floor_garden_exact_retreat_practice_camp_limit_pact_arena |  
+| bip_39_word_underscore_2 | fire_enforce |  
+| bip_39_word_underscore_3 | fire_enforce_bridge |  
+| bip_39_word_underscore_4 | fire_enforce_bridge_floor |  
+| bip_39_word_underscore_5 | fire_enforce_bridge_floor_garden |  
+| bip_39_word_underscore_6 | fire_enforce_bridge_floor_garden_exact |  
+| bip_39_word_underscore_7 | fire_enforce_bridge_floor_garden_exact_retreat |  
+| bip_39_word_underscore_8 | fire_enforce_bridge_floor_garden_exact_retreat_practice |  
+| bip_39_word_underscore_9 | fire_enforce_bridge_floor_garden_exact_retreat_practice_camp |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

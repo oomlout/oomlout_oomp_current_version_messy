@@ -1,3 +1,15 @@
+bip_39_word_dash_1: liquid
+bip_39_word_dash_10: liquid-worth-window-gun-vast-castle-image-current-resemble-birth
+bip_39_word_dash_11: liquid-worth-window-gun-vast-castle-image-current-resemble-birth-lens
+bip_39_word_dash_12: liquid-worth-window-gun-vast-castle-image-current-resemble-birth-lens-abuse
+bip_39_word_dash_2: liquid-worth
+bip_39_word_dash_3: liquid-worth-window
+bip_39_word_dash_4: liquid-worth-window-gun
+bip_39_word_dash_5: liquid-worth-window-gun-vast
+bip_39_word_dash_6: liquid-worth-window-gun-vast-castle
+bip_39_word_dash_7: liquid-worth-window-gun-vast-castle-image
+bip_39_word_dash_8: liquid-worth-window-gun-vast-castle-image-current
+bip_39_word_dash_9: liquid-worth-window-gun-vast-castle-image-current-resemble
 bip_39_word_new_br_1: liquid
 bip_39_word_new_br_10: liquid<br>worth<br>window<br>gun<br>vast<br>castle<br>image<br>current<br>resemble<br>birth
 bip_39_word_new_br_11: liquid<br>worth<br>window<br>gun<br>vast<br>castle<br>image<br>current<br>resemble<br>birth<br>lens
@@ -193,6 +205,18 @@ bip_39_word_space_6: liquid worth window gun vast castle
 bip_39_word_space_7: liquid worth window gun vast castle image
 bip_39_word_space_8: liquid worth window gun vast castle image current
 bip_39_word_space_9: liquid worth window gun vast castle image current resemble
+bip_39_word_underscore_1: liquid
+bip_39_word_underscore_10: liquid_worth_window_gun_vast_castle_image_current_resemble_birth
+bip_39_word_underscore_11: liquid_worth_window_gun_vast_castle_image_current_resemble_birth_lens
+bip_39_word_underscore_12: liquid_worth_window_gun_vast_castle_image_current_resemble_birth_lens_abuse
+bip_39_word_underscore_2: liquid_worth
+bip_39_word_underscore_3: liquid_worth_window
+bip_39_word_underscore_4: liquid_worth_window_gun
+bip_39_word_underscore_5: liquid_worth_window_gun_vast
+bip_39_word_underscore_6: liquid_worth_window_gun_vast_castle
+bip_39_word_underscore_7: liquid_worth_window_gun_vast_castle_image
+bip_39_word_underscore_8: liquid_worth_window_gun_vast_castle_image_current
+bip_39_word_underscore_9: liquid_worth_window_gun_vast_castle_image_current_resemble
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sample |  
+| bip_39_word_dash_10 | sample-vicious-marine-caught-lucky-notable-rose-globe-wisdom-black |  
+| bip_39_word_dash_11 | sample-vicious-marine-caught-lucky-notable-rose-globe-wisdom-black-cluster |  
+| bip_39_word_dash_12 | sample-vicious-marine-caught-lucky-notable-rose-globe-wisdom-black-cluster-alpha |  
+| bip_39_word_dash_2 | sample-vicious |  
+| bip_39_word_dash_3 | sample-vicious-marine |  
+| bip_39_word_dash_4 | sample-vicious-marine-caught |  
+| bip_39_word_dash_5 | sample-vicious-marine-caught-lucky |  
+| bip_39_word_dash_6 | sample-vicious-marine-caught-lucky-notable |  
+| bip_39_word_dash_7 | sample-vicious-marine-caught-lucky-notable-rose |  
+| bip_39_word_dash_8 | sample-vicious-marine-caught-lucky-notable-rose-globe |  
+| bip_39_word_dash_9 | sample-vicious-marine-caught-lucky-notable-rose-globe-wisdom |  
 | bip_39_word_new_br_1 | sample |  
 | bip_39_word_new_br_10 | sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe<br>wisdom<br>black |  
 | bip_39_word_new_br_11 | sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe<br>wisdom<br>black<br>cluster |  
@@ -147,6 +159,18 @@ wisdom |
 | bip_39_word_space_7 | sample vicious marine caught lucky notable rose |  
 | bip_39_word_space_8 | sample vicious marine caught lucky notable rose globe |  
 | bip_39_word_space_9 | sample vicious marine caught lucky notable rose globe wisdom |  
+| bip_39_word_underscore_1 | sample |  
+| bip_39_word_underscore_10 | sample_vicious_marine_caught_lucky_notable_rose_globe_wisdom_black |  
+| bip_39_word_underscore_11 | sample_vicious_marine_caught_lucky_notable_rose_globe_wisdom_black_cluster |  
+| bip_39_word_underscore_12 | sample_vicious_marine_caught_lucky_notable_rose_globe_wisdom_black_cluster_alpha |  
+| bip_39_word_underscore_2 | sample_vicious |  
+| bip_39_word_underscore_3 | sample_vicious_marine |  
+| bip_39_word_underscore_4 | sample_vicious_marine_caught |  
+| bip_39_word_underscore_5 | sample_vicious_marine_caught_lucky |  
+| bip_39_word_underscore_6 | sample_vicious_marine_caught_lucky_notable |  
+| bip_39_word_underscore_7 | sample_vicious_marine_caught_lucky_notable_rose |  
+| bip_39_word_underscore_8 | sample_vicious_marine_caught_lucky_notable_rose_globe |  
+| bip_39_word_underscore_9 | sample_vicious_marine_caught_lucky_notable_rose_globe_wisdom |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

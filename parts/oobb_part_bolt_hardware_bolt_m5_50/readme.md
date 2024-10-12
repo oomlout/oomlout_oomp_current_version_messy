@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quick |  
+| bip_39_word_dash_10 | quick-sketch-scheme-frost-cinnamon-coach-mercy-crater-crawl-echo |  
+| bip_39_word_dash_11 | quick-sketch-scheme-frost-cinnamon-coach-mercy-crater-crawl-echo-tag |  
+| bip_39_word_dash_12 | quick-sketch-scheme-frost-cinnamon-coach-mercy-crater-crawl-echo-tag-amused |  
+| bip_39_word_dash_2 | quick-sketch |  
+| bip_39_word_dash_3 | quick-sketch-scheme |  
+| bip_39_word_dash_4 | quick-sketch-scheme-frost |  
+| bip_39_word_dash_5 | quick-sketch-scheme-frost-cinnamon |  
+| bip_39_word_dash_6 | quick-sketch-scheme-frost-cinnamon-coach |  
+| bip_39_word_dash_7 | quick-sketch-scheme-frost-cinnamon-coach-mercy |  
+| bip_39_word_dash_8 | quick-sketch-scheme-frost-cinnamon-coach-mercy-crater |  
+| bip_39_word_dash_9 | quick-sketch-scheme-frost-cinnamon-coach-mercy-crater-crawl |  
 | bip_39_word_new_br_1 | quick |  
 | bip_39_word_new_br_10 | quick<br>sketch<br>scheme<br>frost<br>cinnamon<br>coach<br>mercy<br>crater<br>crawl<br>echo |  
 | bip_39_word_new_br_11 | quick<br>sketch<br>scheme<br>frost<br>cinnamon<br>coach<br>mercy<br>crater<br>crawl<br>echo<br>tag |  
@@ -147,6 +159,18 @@ crawl |
 | bip_39_word_space_7 | quick sketch scheme frost cinnamon coach mercy |  
 | bip_39_word_space_8 | quick sketch scheme frost cinnamon coach mercy crater |  
 | bip_39_word_space_9 | quick sketch scheme frost cinnamon coach mercy crater crawl |  
+| bip_39_word_underscore_1 | quick |  
+| bip_39_word_underscore_10 | quick_sketch_scheme_frost_cinnamon_coach_mercy_crater_crawl_echo |  
+| bip_39_word_underscore_11 | quick_sketch_scheme_frost_cinnamon_coach_mercy_crater_crawl_echo_tag |  
+| bip_39_word_underscore_12 | quick_sketch_scheme_frost_cinnamon_coach_mercy_crater_crawl_echo_tag_amused |  
+| bip_39_word_underscore_2 | quick_sketch |  
+| bip_39_word_underscore_3 | quick_sketch_scheme |  
+| bip_39_word_underscore_4 | quick_sketch_scheme_frost |  
+| bip_39_word_underscore_5 | quick_sketch_scheme_frost_cinnamon |  
+| bip_39_word_underscore_6 | quick_sketch_scheme_frost_cinnamon_coach |  
+| bip_39_word_underscore_7 | quick_sketch_scheme_frost_cinnamon_coach_mercy |  
+| bip_39_word_underscore_8 | quick_sketch_scheme_frost_cinnamon_coach_mercy_crater |  
+| bip_39_word_underscore_9 | quick_sketch_scheme_frost_cinnamon_coach_mercy_crater_crawl |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

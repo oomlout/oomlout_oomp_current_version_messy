@@ -1,3 +1,15 @@
+bip_39_word_dash_1: just
+bip_39_word_dash_10: just-bag-brief-pull-expire-layer-void-toward-solution-portion
+bip_39_word_dash_11: just-bag-brief-pull-expire-layer-void-toward-solution-portion-people
+bip_39_word_dash_12: just-bag-brief-pull-expire-layer-void-toward-solution-portion-people-agree
+bip_39_word_dash_2: just-bag
+bip_39_word_dash_3: just-bag-brief
+bip_39_word_dash_4: just-bag-brief-pull
+bip_39_word_dash_5: just-bag-brief-pull-expire
+bip_39_word_dash_6: just-bag-brief-pull-expire-layer
+bip_39_word_dash_7: just-bag-brief-pull-expire-layer-void
+bip_39_word_dash_8: just-bag-brief-pull-expire-layer-void-toward
+bip_39_word_dash_9: just-bag-brief-pull-expire-layer-void-toward-solution
 bip_39_word_new_br_1: just
 bip_39_word_new_br_10: just<br>bag<br>brief<br>pull<br>expire<br>layer<br>void<br>toward<br>solution<br>portion
 bip_39_word_new_br_11: just<br>bag<br>brief<br>pull<br>expire<br>layer<br>void<br>toward<br>solution<br>portion<br>people
@@ -193,6 +205,18 @@ bip_39_word_space_6: just bag brief pull expire layer
 bip_39_word_space_7: just bag brief pull expire layer void
 bip_39_word_space_8: just bag brief pull expire layer void toward
 bip_39_word_space_9: just bag brief pull expire layer void toward solution
+bip_39_word_underscore_1: just
+bip_39_word_underscore_10: just_bag_brief_pull_expire_layer_void_toward_solution_portion
+bip_39_word_underscore_11: just_bag_brief_pull_expire_layer_void_toward_solution_portion_people
+bip_39_word_underscore_12: just_bag_brief_pull_expire_layer_void_toward_solution_portion_people_agree
+bip_39_word_underscore_2: just_bag
+bip_39_word_underscore_3: just_bag_brief
+bip_39_word_underscore_4: just_bag_brief_pull
+bip_39_word_underscore_5: just_bag_brief_pull_expire
+bip_39_word_underscore_6: just_bag_brief_pull_expire_layer
+bip_39_word_underscore_7: just_bag_brief_pull_expire_layer_void
+bip_39_word_underscore_8: just_bag_brief_pull_expire_layer_void_toward
+bip_39_word_underscore_9: just_bag_brief_pull_expire_layer_void_toward_solution
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

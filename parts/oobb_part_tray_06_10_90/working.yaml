@@ -1,3 +1,15 @@
+bip_39_word_dash_1: visit
+bip_39_word_dash_10: visit-pigeon-museum-talent-chapter-middle-universe-physical-raven-hockey
+bip_39_word_dash_11: visit-pigeon-museum-talent-chapter-middle-universe-physical-raven-hockey-address
+bip_39_word_dash_12: visit-pigeon-museum-talent-chapter-middle-universe-physical-raven-hockey-address-admit
+bip_39_word_dash_2: visit-pigeon
+bip_39_word_dash_3: visit-pigeon-museum
+bip_39_word_dash_4: visit-pigeon-museum-talent
+bip_39_word_dash_5: visit-pigeon-museum-talent-chapter
+bip_39_word_dash_6: visit-pigeon-museum-talent-chapter-middle
+bip_39_word_dash_7: visit-pigeon-museum-talent-chapter-middle-universe
+bip_39_word_dash_8: visit-pigeon-museum-talent-chapter-middle-universe-physical
+bip_39_word_dash_9: visit-pigeon-museum-talent-chapter-middle-universe-physical-raven
 bip_39_word_new_br_1: visit
 bip_39_word_new_br_10: visit<br>pigeon<br>museum<br>talent<br>chapter<br>middle<br>universe<br>physical<br>raven<br>hockey
 bip_39_word_new_br_11: visit<br>pigeon<br>museum<br>talent<br>chapter<br>middle<br>universe<br>physical<br>raven<br>hockey<br>address
@@ -194,6 +206,18 @@ bip_39_word_space_6: visit pigeon museum talent chapter middle
 bip_39_word_space_7: visit pigeon museum talent chapter middle universe
 bip_39_word_space_8: visit pigeon museum talent chapter middle universe physical
 bip_39_word_space_9: visit pigeon museum talent chapter middle universe physical raven
+bip_39_word_underscore_1: visit
+bip_39_word_underscore_10: visit_pigeon_museum_talent_chapter_middle_universe_physical_raven_hockey
+bip_39_word_underscore_11: visit_pigeon_museum_talent_chapter_middle_universe_physical_raven_hockey_address
+bip_39_word_underscore_12: visit_pigeon_museum_talent_chapter_middle_universe_physical_raven_hockey_address_admit
+bip_39_word_underscore_2: visit_pigeon
+bip_39_word_underscore_3: visit_pigeon_museum
+bip_39_word_underscore_4: visit_pigeon_museum_talent
+bip_39_word_underscore_5: visit_pigeon_museum_talent_chapter
+bip_39_word_underscore_6: visit_pigeon_museum_talent_chapter_middle
+bip_39_word_underscore_7: visit_pigeon_museum_talent_chapter_middle_universe
+bip_39_word_underscore_8: visit_pigeon_museum_talent_chapter_middle_universe_physical
+bip_39_word_underscore_9: visit_pigeon_museum_talent_chapter_middle_universe_physical_raven
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

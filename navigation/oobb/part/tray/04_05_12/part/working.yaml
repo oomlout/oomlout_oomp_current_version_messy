@@ -1,3 +1,15 @@
+bip_39_word_dash_1: twist
+bip_39_word_dash_10: twist-outdoor-pill-siege-forum-island-grass-debris-act-loud
+bip_39_word_dash_11: twist-outdoor-pill-siege-forum-island-grass-debris-act-loud-donor
+bip_39_word_dash_12: twist-outdoor-pill-siege-forum-island-grass-debris-act-loud-donor-afraid
+bip_39_word_dash_2: twist-outdoor
+bip_39_word_dash_3: twist-outdoor-pill
+bip_39_word_dash_4: twist-outdoor-pill-siege
+bip_39_word_dash_5: twist-outdoor-pill-siege-forum
+bip_39_word_dash_6: twist-outdoor-pill-siege-forum-island
+bip_39_word_dash_7: twist-outdoor-pill-siege-forum-island-grass
+bip_39_word_dash_8: twist-outdoor-pill-siege-forum-island-grass-debris
+bip_39_word_dash_9: twist-outdoor-pill-siege-forum-island-grass-debris-act
 bip_39_word_new_br_1: twist
 bip_39_word_new_br_10: twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris<br>act<br>loud
 bip_39_word_new_br_11: twist<br>outdoor<br>pill<br>siege<br>forum<br>island<br>grass<br>debris<br>act<br>loud<br>donor
@@ -193,6 +205,18 @@ bip_39_word_space_6: twist outdoor pill siege forum island
 bip_39_word_space_7: twist outdoor pill siege forum island grass
 bip_39_word_space_8: twist outdoor pill siege forum island grass debris
 bip_39_word_space_9: twist outdoor pill siege forum island grass debris act
+bip_39_word_underscore_1: twist
+bip_39_word_underscore_10: twist_outdoor_pill_siege_forum_island_grass_debris_act_loud
+bip_39_word_underscore_11: twist_outdoor_pill_siege_forum_island_grass_debris_act_loud_donor
+bip_39_word_underscore_12: twist_outdoor_pill_siege_forum_island_grass_debris_act_loud_donor_afraid
+bip_39_word_underscore_2: twist_outdoor
+bip_39_word_underscore_3: twist_outdoor_pill
+bip_39_word_underscore_4: twist_outdoor_pill_siege
+bip_39_word_underscore_5: twist_outdoor_pill_siege_forum
+bip_39_word_underscore_6: twist_outdoor_pill_siege_forum_island
+bip_39_word_underscore_7: twist_outdoor_pill_siege_forum_island_grass
+bip_39_word_underscore_8: twist_outdoor_pill_siege_forum_island_grass_debris
+bip_39_word_underscore_9: twist_outdoor_pill_siege_forum_island_grass_debris_act
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

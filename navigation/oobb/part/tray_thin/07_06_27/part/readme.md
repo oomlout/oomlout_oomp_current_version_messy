@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grid |  
+| bip_39_word_dash_10 | grid-pattern-rail-olympic-choose-gentle-inmate-online-problem-ocean |  
+| bip_39_word_dash_11 | grid-pattern-rail-olympic-choose-gentle-inmate-online-problem-ocean-gloom |  
+| bip_39_word_dash_12 | grid-pattern-rail-olympic-choose-gentle-inmate-online-problem-ocean-gloom-antenna |  
+| bip_39_word_dash_2 | grid-pattern |  
+| bip_39_word_dash_3 | grid-pattern-rail |  
+| bip_39_word_dash_4 | grid-pattern-rail-olympic |  
+| bip_39_word_dash_5 | grid-pattern-rail-olympic-choose |  
+| bip_39_word_dash_6 | grid-pattern-rail-olympic-choose-gentle |  
+| bip_39_word_dash_7 | grid-pattern-rail-olympic-choose-gentle-inmate |  
+| bip_39_word_dash_8 | grid-pattern-rail-olympic-choose-gentle-inmate-online |  
+| bip_39_word_dash_9 | grid-pattern-rail-olympic-choose-gentle-inmate-online-problem |  
 | bip_39_word_new_br_1 | grid |  
 | bip_39_word_new_br_10 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean |  
 | bip_39_word_new_br_11 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean<br>gloom |  
@@ -147,6 +159,18 @@ problem |
 | bip_39_word_space_7 | grid pattern rail olympic choose gentle inmate |  
 | bip_39_word_space_8 | grid pattern rail olympic choose gentle inmate online |  
 | bip_39_word_space_9 | grid pattern rail olympic choose gentle inmate online problem |  
+| bip_39_word_underscore_1 | grid |  
+| bip_39_word_underscore_10 | grid_pattern_rail_olympic_choose_gentle_inmate_online_problem_ocean |  
+| bip_39_word_underscore_11 | grid_pattern_rail_olympic_choose_gentle_inmate_online_problem_ocean_gloom |  
+| bip_39_word_underscore_12 | grid_pattern_rail_olympic_choose_gentle_inmate_online_problem_ocean_gloom_antenna |  
+| bip_39_word_underscore_2 | grid_pattern |  
+| bip_39_word_underscore_3 | grid_pattern_rail |  
+| bip_39_word_underscore_4 | grid_pattern_rail_olympic |  
+| bip_39_word_underscore_5 | grid_pattern_rail_olympic_choose |  
+| bip_39_word_underscore_6 | grid_pattern_rail_olympic_choose_gentle |  
+| bip_39_word_underscore_7 | grid_pattern_rail_olympic_choose_gentle_inmate |  
+| bip_39_word_underscore_8 | grid_pattern_rail_olympic_choose_gentle_inmate_online |  
+| bip_39_word_underscore_9 | grid_pattern_rail_olympic_choose_gentle_inmate_online_problem |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

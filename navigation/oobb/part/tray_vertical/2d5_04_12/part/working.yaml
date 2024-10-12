@@ -1,3 +1,15 @@
+bip_39_word_dash_1: phone
+bip_39_word_dash_10: phone-horse-devote-ticket-island-earth-adapt-violin-kick-heavy
+bip_39_word_dash_11: phone-horse-devote-ticket-island-earth-adapt-violin-kick-heavy-art
+bip_39_word_dash_12: phone-horse-devote-ticket-island-earth-adapt-violin-kick-heavy-art-aunt
+bip_39_word_dash_2: phone-horse
+bip_39_word_dash_3: phone-horse-devote
+bip_39_word_dash_4: phone-horse-devote-ticket
+bip_39_word_dash_5: phone-horse-devote-ticket-island
+bip_39_word_dash_6: phone-horse-devote-ticket-island-earth
+bip_39_word_dash_7: phone-horse-devote-ticket-island-earth-adapt
+bip_39_word_dash_8: phone-horse-devote-ticket-island-earth-adapt-violin
+bip_39_word_dash_9: phone-horse-devote-ticket-island-earth-adapt-violin-kick
 bip_39_word_new_br_1: phone
 bip_39_word_new_br_10: phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy
 bip_39_word_new_br_11: phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy<br>art
@@ -193,6 +205,18 @@ bip_39_word_space_6: phone horse devote ticket island earth
 bip_39_word_space_7: phone horse devote ticket island earth adapt
 bip_39_word_space_8: phone horse devote ticket island earth adapt violin
 bip_39_word_space_9: phone horse devote ticket island earth adapt violin kick
+bip_39_word_underscore_1: phone
+bip_39_word_underscore_10: phone_horse_devote_ticket_island_earth_adapt_violin_kick_heavy
+bip_39_word_underscore_11: phone_horse_devote_ticket_island_earth_adapt_violin_kick_heavy_art
+bip_39_word_underscore_12: phone_horse_devote_ticket_island_earth_adapt_violin_kick_heavy_art_aunt
+bip_39_word_underscore_2: phone_horse
+bip_39_word_underscore_3: phone_horse_devote
+bip_39_word_underscore_4: phone_horse_devote_ticket
+bip_39_word_underscore_5: phone_horse_devote_ticket_island
+bip_39_word_underscore_6: phone_horse_devote_ticket_island_earth
+bip_39_word_underscore_7: phone_horse_devote_ticket_island_earth_adapt
+bip_39_word_underscore_8: phone_horse_devote_ticket_island_earth_adapt_violin
+bip_39_word_underscore_9: phone_horse_devote_ticket_island_earth_adapt_violin_kick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

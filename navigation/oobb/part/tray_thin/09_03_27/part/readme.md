@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enter |  
+| bip_39_word_dash_10 | enter-panda-office-warm-embark-clutch-lyrics-mom-siege-upper |  
+| bip_39_word_dash_11 | enter-panda-office-warm-embark-clutch-lyrics-mom-siege-upper-coin |  
+| bip_39_word_dash_12 | enter-panda-office-warm-embark-clutch-lyrics-mom-siege-upper-coin-admit |  
+| bip_39_word_dash_2 | enter-panda |  
+| bip_39_word_dash_3 | enter-panda-office |  
+| bip_39_word_dash_4 | enter-panda-office-warm |  
+| bip_39_word_dash_5 | enter-panda-office-warm-embark |  
+| bip_39_word_dash_6 | enter-panda-office-warm-embark-clutch |  
+| bip_39_word_dash_7 | enter-panda-office-warm-embark-clutch-lyrics |  
+| bip_39_word_dash_8 | enter-panda-office-warm-embark-clutch-lyrics-mom |  
+| bip_39_word_dash_9 | enter-panda-office-warm-embark-clutch-lyrics-mom-siege |  
 | bip_39_word_new_br_1 | enter |  
 | bip_39_word_new_br_10 | enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom<br>siege<br>upper |  
 | bip_39_word_new_br_11 | enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom<br>siege<br>upper<br>coin |  
@@ -147,6 +159,18 @@ siege |
 | bip_39_word_space_7 | enter panda office warm embark clutch lyrics |  
 | bip_39_word_space_8 | enter panda office warm embark clutch lyrics mom |  
 | bip_39_word_space_9 | enter panda office warm embark clutch lyrics mom siege |  
+| bip_39_word_underscore_1 | enter |  
+| bip_39_word_underscore_10 | enter_panda_office_warm_embark_clutch_lyrics_mom_siege_upper |  
+| bip_39_word_underscore_11 | enter_panda_office_warm_embark_clutch_lyrics_mom_siege_upper_coin |  
+| bip_39_word_underscore_12 | enter_panda_office_warm_embark_clutch_lyrics_mom_siege_upper_coin_admit |  
+| bip_39_word_underscore_2 | enter_panda |  
+| bip_39_word_underscore_3 | enter_panda_office |  
+| bip_39_word_underscore_4 | enter_panda_office_warm |  
+| bip_39_word_underscore_5 | enter_panda_office_warm_embark |  
+| bip_39_word_underscore_6 | enter_panda_office_warm_embark_clutch |  
+| bip_39_word_underscore_7 | enter_panda_office_warm_embark_clutch_lyrics |  
+| bip_39_word_underscore_8 | enter_panda_office_warm_embark_clutch_lyrics_mom |  
+| bip_39_word_underscore_9 | enter_panda_office_warm_embark_clutch_lyrics_mom_siege |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

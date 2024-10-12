@@ -1,3 +1,15 @@
+bip_39_word_dash_1: electric
+bip_39_word_dash_10: electric-bless-piece-canyon-scorpion-ethics-junior-rice-endorse-burst
+bip_39_word_dash_11: electric-bless-piece-canyon-scorpion-ethics-junior-rice-endorse-burst-hobby
+bip_39_word_dash_12: electric-bless-piece-canyon-scorpion-ethics-junior-rice-endorse-burst-hobby-aerobic
+bip_39_word_dash_2: electric-bless
+bip_39_word_dash_3: electric-bless-piece
+bip_39_word_dash_4: electric-bless-piece-canyon
+bip_39_word_dash_5: electric-bless-piece-canyon-scorpion
+bip_39_word_dash_6: electric-bless-piece-canyon-scorpion-ethics
+bip_39_word_dash_7: electric-bless-piece-canyon-scorpion-ethics-junior
+bip_39_word_dash_8: electric-bless-piece-canyon-scorpion-ethics-junior-rice
+bip_39_word_dash_9: electric-bless-piece-canyon-scorpion-ethics-junior-rice-endorse
 bip_39_word_new_br_1: electric
 bip_39_word_new_br_10: electric<br>bless<br>piece<br>canyon<br>scorpion<br>ethics<br>junior<br>rice<br>endorse<br>burst
 bip_39_word_new_br_11: electric<br>bless<br>piece<br>canyon<br>scorpion<br>ethics<br>junior<br>rice<br>endorse<br>burst<br>hobby
@@ -194,6 +206,18 @@ bip_39_word_space_6: electric bless piece canyon scorpion ethics
 bip_39_word_space_7: electric bless piece canyon scorpion ethics junior
 bip_39_word_space_8: electric bless piece canyon scorpion ethics junior rice
 bip_39_word_space_9: electric bless piece canyon scorpion ethics junior rice endorse
+bip_39_word_underscore_1: electric
+bip_39_word_underscore_10: electric_bless_piece_canyon_scorpion_ethics_junior_rice_endorse_burst
+bip_39_word_underscore_11: electric_bless_piece_canyon_scorpion_ethics_junior_rice_endorse_burst_hobby
+bip_39_word_underscore_12: electric_bless_piece_canyon_scorpion_ethics_junior_rice_endorse_burst_hobby_aerobic
+bip_39_word_underscore_2: electric_bless
+bip_39_word_underscore_3: electric_bless_piece
+bip_39_word_underscore_4: electric_bless_piece_canyon
+bip_39_word_underscore_5: electric_bless_piece_canyon_scorpion
+bip_39_word_underscore_6: electric_bless_piece_canyon_scorpion_ethics
+bip_39_word_underscore_7: electric_bless_piece_canyon_scorpion_ethics_junior
+bip_39_word_underscore_8: electric_bless_piece_canyon_scorpion_ethics_junior_rice
+bip_39_word_underscore_9: electric_bless_piece_canyon_scorpion_ethics_junior_rice_endorse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

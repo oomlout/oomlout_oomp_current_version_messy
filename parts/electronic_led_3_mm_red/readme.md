@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crew |  
+| bip_39_word_dash_10 | crew-idle-medal-void-park-ball-quick-rifle-language-acoustic |  
+| bip_39_word_dash_11 | crew-idle-medal-void-park-ball-quick-rifle-language-acoustic-alien |  
+| bip_39_word_dash_12 | crew-idle-medal-void-park-ball-quick-rifle-language-acoustic-alien-another |  
+| bip_39_word_dash_2 | crew-idle |  
+| bip_39_word_dash_3 | crew-idle-medal |  
+| bip_39_word_dash_4 | crew-idle-medal-void |  
+| bip_39_word_dash_5 | crew-idle-medal-void-park |  
+| bip_39_word_dash_6 | crew-idle-medal-void-park-ball |  
+| bip_39_word_dash_7 | crew-idle-medal-void-park-ball-quick |  
+| bip_39_word_dash_8 | crew-idle-medal-void-park-ball-quick-rifle |  
+| bip_39_word_dash_9 | crew-idle-medal-void-park-ball-quick-rifle-language |  
 | bip_39_word_new_br_1 | crew |  
 | bip_39_word_new_br_10 | crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle<br>language<br>acoustic |  
 | bip_39_word_new_br_11 | crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle<br>language<br>acoustic<br>alien |  
@@ -147,6 +159,18 @@ language |
 | bip_39_word_space_7 | crew idle medal void park ball quick |  
 | bip_39_word_space_8 | crew idle medal void park ball quick rifle |  
 | bip_39_word_space_9 | crew idle medal void park ball quick rifle language |  
+| bip_39_word_underscore_1 | crew |  
+| bip_39_word_underscore_10 | crew_idle_medal_void_park_ball_quick_rifle_language_acoustic |  
+| bip_39_word_underscore_11 | crew_idle_medal_void_park_ball_quick_rifle_language_acoustic_alien |  
+| bip_39_word_underscore_12 | crew_idle_medal_void_park_ball_quick_rifle_language_acoustic_alien_another |  
+| bip_39_word_underscore_2 | crew_idle |  
+| bip_39_word_underscore_3 | crew_idle_medal |  
+| bip_39_word_underscore_4 | crew_idle_medal_void |  
+| bip_39_word_underscore_5 | crew_idle_medal_void_park |  
+| bip_39_word_underscore_6 | crew_idle_medal_void_park_ball |  
+| bip_39_word_underscore_7 | crew_idle_medal_void_park_ball_quick |  
+| bip_39_word_underscore_8 | crew_idle_medal_void_park_ball_quick_rifle |  
+| bip_39_word_underscore_9 | crew_idle_medal_void_park_ball_quick_rifle_language |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

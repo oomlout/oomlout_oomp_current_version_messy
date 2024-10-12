@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | result |  
+| bip_39_word_dash_10 | result-gentle-ignore-fiction-toe-fury-tooth-tragic-real-scorpion |  
+| bip_39_word_dash_11 | result-gentle-ignore-fiction-toe-fury-tooth-tragic-real-scorpion-enhance |  
+| bip_39_word_dash_12 | result-gentle-ignore-fiction-toe-fury-tooth-tragic-real-scorpion-enhance-absurd |  
+| bip_39_word_dash_2 | result-gentle |  
+| bip_39_word_dash_3 | result-gentle-ignore |  
+| bip_39_word_dash_4 | result-gentle-ignore-fiction |  
+| bip_39_word_dash_5 | result-gentle-ignore-fiction-toe |  
+| bip_39_word_dash_6 | result-gentle-ignore-fiction-toe-fury |  
+| bip_39_word_dash_7 | result-gentle-ignore-fiction-toe-fury-tooth |  
+| bip_39_word_dash_8 | result-gentle-ignore-fiction-toe-fury-tooth-tragic |  
+| bip_39_word_dash_9 | result-gentle-ignore-fiction-toe-fury-tooth-tragic-real |  
 | bip_39_word_new_br_1 | result |  
 | bip_39_word_new_br_10 | result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic<br>real<br>scorpion |  
 | bip_39_word_new_br_11 | result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic<br>real<br>scorpion<br>enhance |  
@@ -147,6 +159,18 @@ real |
 | bip_39_word_space_7 | result gentle ignore fiction toe fury tooth |  
 | bip_39_word_space_8 | result gentle ignore fiction toe fury tooth tragic |  
 | bip_39_word_space_9 | result gentle ignore fiction toe fury tooth tragic real |  
+| bip_39_word_underscore_1 | result |  
+| bip_39_word_underscore_10 | result_gentle_ignore_fiction_toe_fury_tooth_tragic_real_scorpion |  
+| bip_39_word_underscore_11 | result_gentle_ignore_fiction_toe_fury_tooth_tragic_real_scorpion_enhance |  
+| bip_39_word_underscore_12 | result_gentle_ignore_fiction_toe_fury_tooth_tragic_real_scorpion_enhance_absurd |  
+| bip_39_word_underscore_2 | result_gentle |  
+| bip_39_word_underscore_3 | result_gentle_ignore |  
+| bip_39_word_underscore_4 | result_gentle_ignore_fiction |  
+| bip_39_word_underscore_5 | result_gentle_ignore_fiction_toe |  
+| bip_39_word_underscore_6 | result_gentle_ignore_fiction_toe_fury |  
+| bip_39_word_underscore_7 | result_gentle_ignore_fiction_toe_fury_tooth |  
+| bip_39_word_underscore_8 | result_gentle_ignore_fiction_toe_fury_tooth_tragic |  
+| bip_39_word_underscore_9 | result_gentle_ignore_fiction_toe_fury_tooth_tragic_real |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

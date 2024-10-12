@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shove |  
+| bip_39_word_dash_10 | shove-sheriff-earn-lock-ski-pipe-photo-surprise-wool-manage |  
+| bip_39_word_dash_11 | shove-sheriff-earn-lock-ski-pipe-photo-surprise-wool-manage-friend |  
+| bip_39_word_dash_12 | shove-sheriff-earn-lock-ski-pipe-photo-surprise-wool-manage-friend-artist |  
+| bip_39_word_dash_2 | shove-sheriff |  
+| bip_39_word_dash_3 | shove-sheriff-earn |  
+| bip_39_word_dash_4 | shove-sheriff-earn-lock |  
+| bip_39_word_dash_5 | shove-sheriff-earn-lock-ski |  
+| bip_39_word_dash_6 | shove-sheriff-earn-lock-ski-pipe |  
+| bip_39_word_dash_7 | shove-sheriff-earn-lock-ski-pipe-photo |  
+| bip_39_word_dash_8 | shove-sheriff-earn-lock-ski-pipe-photo-surprise |  
+| bip_39_word_dash_9 | shove-sheriff-earn-lock-ski-pipe-photo-surprise-wool |  
 | bip_39_word_new_br_1 | shove |  
 | bip_39_word_new_br_10 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise<br>wool<br>manage |  
 | bip_39_word_new_br_11 | shove<br>sheriff<br>earn<br>lock<br>ski<br>pipe<br>photo<br>surprise<br>wool<br>manage<br>friend |  
@@ -147,6 +159,18 @@ wool |
 | bip_39_word_space_7 | shove sheriff earn lock ski pipe photo |  
 | bip_39_word_space_8 | shove sheriff earn lock ski pipe photo surprise |  
 | bip_39_word_space_9 | shove sheriff earn lock ski pipe photo surprise wool |  
+| bip_39_word_underscore_1 | shove |  
+| bip_39_word_underscore_10 | shove_sheriff_earn_lock_ski_pipe_photo_surprise_wool_manage |  
+| bip_39_word_underscore_11 | shove_sheriff_earn_lock_ski_pipe_photo_surprise_wool_manage_friend |  
+| bip_39_word_underscore_12 | shove_sheriff_earn_lock_ski_pipe_photo_surprise_wool_manage_friend_artist |  
+| bip_39_word_underscore_2 | shove_sheriff |  
+| bip_39_word_underscore_3 | shove_sheriff_earn |  
+| bip_39_word_underscore_4 | shove_sheriff_earn_lock |  
+| bip_39_word_underscore_5 | shove_sheriff_earn_lock_ski |  
+| bip_39_word_underscore_6 | shove_sheriff_earn_lock_ski_pipe |  
+| bip_39_word_underscore_7 | shove_sheriff_earn_lock_ski_pipe_photo |  
+| bip_39_word_underscore_8 | shove_sheriff_earn_lock_ski_pipe_photo_surprise |  
+| bip_39_word_underscore_9 | shove_sheriff_earn_lock_ski_pipe_photo_surprise_wool |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tool |  
+| bip_39_word_dash_10 | tool-trumpet-pottery-flat-couple-distance-stay-glide-creek-junior |  
+| bip_39_word_dash_11 | tool-trumpet-pottery-flat-couple-distance-stay-glide-creek-junior-fog |  
+| bip_39_word_dash_12 | tool-trumpet-pottery-flat-couple-distance-stay-glide-creek-junior-fog-anchor |  
+| bip_39_word_dash_2 | tool-trumpet |  
+| bip_39_word_dash_3 | tool-trumpet-pottery |  
+| bip_39_word_dash_4 | tool-trumpet-pottery-flat |  
+| bip_39_word_dash_5 | tool-trumpet-pottery-flat-couple |  
+| bip_39_word_dash_6 | tool-trumpet-pottery-flat-couple-distance |  
+| bip_39_word_dash_7 | tool-trumpet-pottery-flat-couple-distance-stay |  
+| bip_39_word_dash_8 | tool-trumpet-pottery-flat-couple-distance-stay-glide |  
+| bip_39_word_dash_9 | tool-trumpet-pottery-flat-couple-distance-stay-glide-creek |  
 | bip_39_word_new_br_1 | tool |  
 | bip_39_word_new_br_10 | tool<br>trumpet<br>pottery<br>flat<br>couple<br>distance<br>stay<br>glide<br>creek<br>junior |  
 | bip_39_word_new_br_11 | tool<br>trumpet<br>pottery<br>flat<br>couple<br>distance<br>stay<br>glide<br>creek<br>junior<br>fog |  
@@ -147,6 +159,18 @@ creek |
 | bip_39_word_space_7 | tool trumpet pottery flat couple distance stay |  
 | bip_39_word_space_8 | tool trumpet pottery flat couple distance stay glide |  
 | bip_39_word_space_9 | tool trumpet pottery flat couple distance stay glide creek |  
+| bip_39_word_underscore_1 | tool |  
+| bip_39_word_underscore_10 | tool_trumpet_pottery_flat_couple_distance_stay_glide_creek_junior |  
+| bip_39_word_underscore_11 | tool_trumpet_pottery_flat_couple_distance_stay_glide_creek_junior_fog |  
+| bip_39_word_underscore_12 | tool_trumpet_pottery_flat_couple_distance_stay_glide_creek_junior_fog_anchor |  
+| bip_39_word_underscore_2 | tool_trumpet |  
+| bip_39_word_underscore_3 | tool_trumpet_pottery |  
+| bip_39_word_underscore_4 | tool_trumpet_pottery_flat |  
+| bip_39_word_underscore_5 | tool_trumpet_pottery_flat_couple |  
+| bip_39_word_underscore_6 | tool_trumpet_pottery_flat_couple_distance |  
+| bip_39_word_underscore_7 | tool_trumpet_pottery_flat_couple_distance_stay |  
+| bip_39_word_underscore_8 | tool_trumpet_pottery_flat_couple_distance_stay_glide |  
+| bip_39_word_underscore_9 | tool_trumpet_pottery_flat_couple_distance_stay_glide_creek |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | legal |  
+| bip_39_word_dash_10 | legal-cloud-cluster-parrot-bulb-theory-crop-company-start-winner |  
+| bip_39_word_dash_11 | legal-cloud-cluster-parrot-bulb-theory-crop-company-start-winner-exist |  
+| bip_39_word_dash_12 | legal-cloud-cluster-parrot-bulb-theory-crop-company-start-winner-exist-achieve |  
+| bip_39_word_dash_2 | legal-cloud |  
+| bip_39_word_dash_3 | legal-cloud-cluster |  
+| bip_39_word_dash_4 | legal-cloud-cluster-parrot |  
+| bip_39_word_dash_5 | legal-cloud-cluster-parrot-bulb |  
+| bip_39_word_dash_6 | legal-cloud-cluster-parrot-bulb-theory |  
+| bip_39_word_dash_7 | legal-cloud-cluster-parrot-bulb-theory-crop |  
+| bip_39_word_dash_8 | legal-cloud-cluster-parrot-bulb-theory-crop-company |  
+| bip_39_word_dash_9 | legal-cloud-cluster-parrot-bulb-theory-crop-company-start |  
 | bip_39_word_new_br_1 | legal |  
 | bip_39_word_new_br_10 | legal<br>cloud<br>cluster<br>parrot<br>bulb<br>theory<br>crop<br>company<br>start<br>winner |  
 | bip_39_word_new_br_11 | legal<br>cloud<br>cluster<br>parrot<br>bulb<br>theory<br>crop<br>company<br>start<br>winner<br>exist |  
@@ -147,6 +159,18 @@ start |
 | bip_39_word_space_7 | legal cloud cluster parrot bulb theory crop |  
 | bip_39_word_space_8 | legal cloud cluster parrot bulb theory crop company |  
 | bip_39_word_space_9 | legal cloud cluster parrot bulb theory crop company start |  
+| bip_39_word_underscore_1 | legal |  
+| bip_39_word_underscore_10 | legal_cloud_cluster_parrot_bulb_theory_crop_company_start_winner |  
+| bip_39_word_underscore_11 | legal_cloud_cluster_parrot_bulb_theory_crop_company_start_winner_exist |  
+| bip_39_word_underscore_12 | legal_cloud_cluster_parrot_bulb_theory_crop_company_start_winner_exist_achieve |  
+| bip_39_word_underscore_2 | legal_cloud |  
+| bip_39_word_underscore_3 | legal_cloud_cluster |  
+| bip_39_word_underscore_4 | legal_cloud_cluster_parrot |  
+| bip_39_word_underscore_5 | legal_cloud_cluster_parrot_bulb |  
+| bip_39_word_underscore_6 | legal_cloud_cluster_parrot_bulb_theory |  
+| bip_39_word_underscore_7 | legal_cloud_cluster_parrot_bulb_theory_crop |  
+| bip_39_word_underscore_8 | legal_cloud_cluster_parrot_bulb_theory_crop_company |  
+| bip_39_word_underscore_9 | legal_cloud_cluster_parrot_bulb_theory_crop_company_start |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shy
+bip_39_word_dash_10: shy-traffic-annual-pole-either-speak-pole-any-major-grass
+bip_39_word_dash_11: shy-traffic-annual-pole-either-speak-pole-any-major-grass-raven
+bip_39_word_dash_12: shy-traffic-annual-pole-either-speak-pole-any-major-grass-raven-addict
+bip_39_word_dash_2: shy-traffic
+bip_39_word_dash_3: shy-traffic-annual
+bip_39_word_dash_4: shy-traffic-annual-pole
+bip_39_word_dash_5: shy-traffic-annual-pole-either
+bip_39_word_dash_6: shy-traffic-annual-pole-either-speak
+bip_39_word_dash_7: shy-traffic-annual-pole-either-speak-pole
+bip_39_word_dash_8: shy-traffic-annual-pole-either-speak-pole-any
+bip_39_word_dash_9: shy-traffic-annual-pole-either-speak-pole-any-major
 bip_39_word_new_br_1: shy
 bip_39_word_new_br_10: shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any<br>major<br>grass
 bip_39_word_new_br_11: shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any<br>major<br>grass<br>raven
@@ -192,6 +204,18 @@ bip_39_word_space_6: shy traffic annual pole either speak
 bip_39_word_space_7: shy traffic annual pole either speak pole
 bip_39_word_space_8: shy traffic annual pole either speak pole any
 bip_39_word_space_9: shy traffic annual pole either speak pole any major
+bip_39_word_underscore_1: shy
+bip_39_word_underscore_10: shy_traffic_annual_pole_either_speak_pole_any_major_grass
+bip_39_word_underscore_11: shy_traffic_annual_pole_either_speak_pole_any_major_grass_raven
+bip_39_word_underscore_12: shy_traffic_annual_pole_either_speak_pole_any_major_grass_raven_addict
+bip_39_word_underscore_2: shy_traffic
+bip_39_word_underscore_3: shy_traffic_annual
+bip_39_word_underscore_4: shy_traffic_annual_pole
+bip_39_word_underscore_5: shy_traffic_annual_pole_either
+bip_39_word_underscore_6: shy_traffic_annual_pole_either_speak
+bip_39_word_underscore_7: shy_traffic_annual_pole_either_speak_pole
+bip_39_word_underscore_8: shy_traffic_annual_pole_either_speak_pole_any
+bip_39_word_underscore_9: shy_traffic_annual_pole_either_speak_pole_any_major
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

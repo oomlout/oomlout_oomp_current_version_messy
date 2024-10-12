@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wage |  
+| bip_39_word_dash_10 | wage-angle-link-salmon-deer-faith-renew-flee-vessel-hockey |  
+| bip_39_word_dash_11 | wage-angle-link-salmon-deer-faith-renew-flee-vessel-hockey-thing |  
+| bip_39_word_dash_12 | wage-angle-link-salmon-deer-faith-renew-flee-vessel-hockey-thing-almost |  
+| bip_39_word_dash_2 | wage-angle |  
+| bip_39_word_dash_3 | wage-angle-link |  
+| bip_39_word_dash_4 | wage-angle-link-salmon |  
+| bip_39_word_dash_5 | wage-angle-link-salmon-deer |  
+| bip_39_word_dash_6 | wage-angle-link-salmon-deer-faith |  
+| bip_39_word_dash_7 | wage-angle-link-salmon-deer-faith-renew |  
+| bip_39_word_dash_8 | wage-angle-link-salmon-deer-faith-renew-flee |  
+| bip_39_word_dash_9 | wage-angle-link-salmon-deer-faith-renew-flee-vessel |  
 | bip_39_word_new_br_1 | wage |  
 | bip_39_word_new_br_10 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey |  
 | bip_39_word_new_br_11 | wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey<br>thing |  
@@ -147,6 +159,18 @@ vessel |
 | bip_39_word_space_7 | wage angle link salmon deer faith renew |  
 | bip_39_word_space_8 | wage angle link salmon deer faith renew flee |  
 | bip_39_word_space_9 | wage angle link salmon deer faith renew flee vessel |  
+| bip_39_word_underscore_1 | wage |  
+| bip_39_word_underscore_10 | wage_angle_link_salmon_deer_faith_renew_flee_vessel_hockey |  
+| bip_39_word_underscore_11 | wage_angle_link_salmon_deer_faith_renew_flee_vessel_hockey_thing |  
+| bip_39_word_underscore_12 | wage_angle_link_salmon_deer_faith_renew_flee_vessel_hockey_thing_almost |  
+| bip_39_word_underscore_2 | wage_angle |  
+| bip_39_word_underscore_3 | wage_angle_link |  
+| bip_39_word_underscore_4 | wage_angle_link_salmon |  
+| bip_39_word_underscore_5 | wage_angle_link_salmon_deer |  
+| bip_39_word_underscore_6 | wage_angle_link_salmon_deer_faith |  
+| bip_39_word_underscore_7 | wage_angle_link_salmon_deer_faith_renew |  
+| bip_39_word_underscore_8 | wage_angle_link_salmon_deer_faith_renew_flee |  
+| bip_39_word_underscore_9 | wage_angle_link_salmon_deer_faith_renew_flee_vessel |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

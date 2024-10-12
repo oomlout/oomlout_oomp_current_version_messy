@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mobile |  
+| bip_39_word_dash_10 | mobile-alcohol-crucial-mouse-cloud-borrow-common-rice-slab-journey |  
+| bip_39_word_dash_11 | mobile-alcohol-crucial-mouse-cloud-borrow-common-rice-slab-journey-dizzy |  
+| bip_39_word_dash_12 | mobile-alcohol-crucial-mouse-cloud-borrow-common-rice-slab-journey-dizzy-artefact |  
+| bip_39_word_dash_2 | mobile-alcohol |  
+| bip_39_word_dash_3 | mobile-alcohol-crucial |  
+| bip_39_word_dash_4 | mobile-alcohol-crucial-mouse |  
+| bip_39_word_dash_5 | mobile-alcohol-crucial-mouse-cloud |  
+| bip_39_word_dash_6 | mobile-alcohol-crucial-mouse-cloud-borrow |  
+| bip_39_word_dash_7 | mobile-alcohol-crucial-mouse-cloud-borrow-common |  
+| bip_39_word_dash_8 | mobile-alcohol-crucial-mouse-cloud-borrow-common-rice |  
+| bip_39_word_dash_9 | mobile-alcohol-crucial-mouse-cloud-borrow-common-rice-slab |  
 | bip_39_word_new_br_1 | mobile |  
 | bip_39_word_new_br_10 | mobile<br>alcohol<br>crucial<br>mouse<br>cloud<br>borrow<br>common<br>rice<br>slab<br>journey |  
 | bip_39_word_new_br_11 | mobile<br>alcohol<br>crucial<br>mouse<br>cloud<br>borrow<br>common<br>rice<br>slab<br>journey<br>dizzy |  
@@ -147,6 +159,18 @@ slab |
 | bip_39_word_space_7 | mobile alcohol crucial mouse cloud borrow common |  
 | bip_39_word_space_8 | mobile alcohol crucial mouse cloud borrow common rice |  
 | bip_39_word_space_9 | mobile alcohol crucial mouse cloud borrow common rice slab |  
+| bip_39_word_underscore_1 | mobile |  
+| bip_39_word_underscore_10 | mobile_alcohol_crucial_mouse_cloud_borrow_common_rice_slab_journey |  
+| bip_39_word_underscore_11 | mobile_alcohol_crucial_mouse_cloud_borrow_common_rice_slab_journey_dizzy |  
+| bip_39_word_underscore_12 | mobile_alcohol_crucial_mouse_cloud_borrow_common_rice_slab_journey_dizzy_artefact |  
+| bip_39_word_underscore_2 | mobile_alcohol |  
+| bip_39_word_underscore_3 | mobile_alcohol_crucial |  
+| bip_39_word_underscore_4 | mobile_alcohol_crucial_mouse |  
+| bip_39_word_underscore_5 | mobile_alcohol_crucial_mouse_cloud |  
+| bip_39_word_underscore_6 | mobile_alcohol_crucial_mouse_cloud_borrow |  
+| bip_39_word_underscore_7 | mobile_alcohol_crucial_mouse_cloud_borrow_common |  
+| bip_39_word_underscore_8 | mobile_alcohol_crucial_mouse_cloud_borrow_common_rice |  
+| bip_39_word_underscore_9 | mobile_alcohol_crucial_mouse_cloud_borrow_common_rice_slab |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

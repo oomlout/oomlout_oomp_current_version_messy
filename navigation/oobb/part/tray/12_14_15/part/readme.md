@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hire |  
+| bip_39_word_dash_10 | hire-invest-universe-dumb-false-endless-love-program-hurry-arctic |  
+| bip_39_word_dash_11 | hire-invest-universe-dumb-false-endless-love-program-hurry-arctic-fantasy |  
+| bip_39_word_dash_12 | hire-invest-universe-dumb-false-endless-love-program-hurry-arctic-fantasy-ancient |  
+| bip_39_word_dash_2 | hire-invest |  
+| bip_39_word_dash_3 | hire-invest-universe |  
+| bip_39_word_dash_4 | hire-invest-universe-dumb |  
+| bip_39_word_dash_5 | hire-invest-universe-dumb-false |  
+| bip_39_word_dash_6 | hire-invest-universe-dumb-false-endless |  
+| bip_39_word_dash_7 | hire-invest-universe-dumb-false-endless-love |  
+| bip_39_word_dash_8 | hire-invest-universe-dumb-false-endless-love-program |  
+| bip_39_word_dash_9 | hire-invest-universe-dumb-false-endless-love-program-hurry |  
 | bip_39_word_new_br_1 | hire |  
 | bip_39_word_new_br_10 | hire<br>invest<br>universe<br>dumb<br>false<br>endless<br>love<br>program<br>hurry<br>arctic |  
 | bip_39_word_new_br_11 | hire<br>invest<br>universe<br>dumb<br>false<br>endless<br>love<br>program<br>hurry<br>arctic<br>fantasy |  
@@ -147,6 +159,18 @@ hurry |
 | bip_39_word_space_7 | hire invest universe dumb false endless love |  
 | bip_39_word_space_8 | hire invest universe dumb false endless love program |  
 | bip_39_word_space_9 | hire invest universe dumb false endless love program hurry |  
+| bip_39_word_underscore_1 | hire |  
+| bip_39_word_underscore_10 | hire_invest_universe_dumb_false_endless_love_program_hurry_arctic |  
+| bip_39_word_underscore_11 | hire_invest_universe_dumb_false_endless_love_program_hurry_arctic_fantasy |  
+| bip_39_word_underscore_12 | hire_invest_universe_dumb_false_endless_love_program_hurry_arctic_fantasy_ancient |  
+| bip_39_word_underscore_2 | hire_invest |  
+| bip_39_word_underscore_3 | hire_invest_universe |  
+| bip_39_word_underscore_4 | hire_invest_universe_dumb |  
+| bip_39_word_underscore_5 | hire_invest_universe_dumb_false |  
+| bip_39_word_underscore_6 | hire_invest_universe_dumb_false_endless |  
+| bip_39_word_underscore_7 | hire_invest_universe_dumb_false_endless_love |  
+| bip_39_word_underscore_8 | hire_invest_universe_dumb_false_endless_love_program |  
+| bip_39_word_underscore_9 | hire_invest_universe_dumb_false_endless_love_program_hurry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

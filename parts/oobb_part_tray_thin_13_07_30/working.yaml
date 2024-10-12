@@ -1,3 +1,15 @@
+bip_39_word_dash_1: core
+bip_39_word_dash_10: core-social-hamster-tuna-piece-fox-scatter-attend-empower-mushroom
+bip_39_word_dash_11: core-social-hamster-tuna-piece-fox-scatter-attend-empower-mushroom-brand
+bip_39_word_dash_12: core-social-hamster-tuna-piece-fox-scatter-attend-empower-mushroom-brand-airport
+bip_39_word_dash_2: core-social
+bip_39_word_dash_3: core-social-hamster
+bip_39_word_dash_4: core-social-hamster-tuna
+bip_39_word_dash_5: core-social-hamster-tuna-piece
+bip_39_word_dash_6: core-social-hamster-tuna-piece-fox
+bip_39_word_dash_7: core-social-hamster-tuna-piece-fox-scatter
+bip_39_word_dash_8: core-social-hamster-tuna-piece-fox-scatter-attend
+bip_39_word_dash_9: core-social-hamster-tuna-piece-fox-scatter-attend-empower
 bip_39_word_new_br_1: core
 bip_39_word_new_br_10: core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend<br>empower<br>mushroom
 bip_39_word_new_br_11: core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend<br>empower<br>mushroom<br>brand
@@ -193,6 +205,18 @@ bip_39_word_space_6: core social hamster tuna piece fox
 bip_39_word_space_7: core social hamster tuna piece fox scatter
 bip_39_word_space_8: core social hamster tuna piece fox scatter attend
 bip_39_word_space_9: core social hamster tuna piece fox scatter attend empower
+bip_39_word_underscore_1: core
+bip_39_word_underscore_10: core_social_hamster_tuna_piece_fox_scatter_attend_empower_mushroom
+bip_39_word_underscore_11: core_social_hamster_tuna_piece_fox_scatter_attend_empower_mushroom_brand
+bip_39_word_underscore_12: core_social_hamster_tuna_piece_fox_scatter_attend_empower_mushroom_brand_airport
+bip_39_word_underscore_2: core_social
+bip_39_word_underscore_3: core_social_hamster
+bip_39_word_underscore_4: core_social_hamster_tuna
+bip_39_word_underscore_5: core_social_hamster_tuna_piece
+bip_39_word_underscore_6: core_social_hamster_tuna_piece_fox
+bip_39_word_underscore_7: core_social_hamster_tuna_piece_fox_scatter
+bip_39_word_underscore_8: core_social_hamster_tuna_piece_fox_scatter_attend
+bip_39_word_underscore_9: core_social_hamster_tuna_piece_fox_scatter_attend_empower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

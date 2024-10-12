@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | model |  
+| bip_39_word_dash_10 | model-staff-music-there-wheat-orient-blouse-test-famous-matrix |  
+| bip_39_word_dash_11 | model-staff-music-there-wheat-orient-blouse-test-famous-matrix-blade |  
+| bip_39_word_dash_12 | model-staff-music-there-wheat-orient-blouse-test-famous-matrix-blade-autumn |  
+| bip_39_word_dash_2 | model-staff |  
+| bip_39_word_dash_3 | model-staff-music |  
+| bip_39_word_dash_4 | model-staff-music-there |  
+| bip_39_word_dash_5 | model-staff-music-there-wheat |  
+| bip_39_word_dash_6 | model-staff-music-there-wheat-orient |  
+| bip_39_word_dash_7 | model-staff-music-there-wheat-orient-blouse |  
+| bip_39_word_dash_8 | model-staff-music-there-wheat-orient-blouse-test |  
+| bip_39_word_dash_9 | model-staff-music-there-wheat-orient-blouse-test-famous |  
 | bip_39_word_new_br_1 | model |  
 | bip_39_word_new_br_10 | model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test<br>famous<br>matrix |  
 | bip_39_word_new_br_11 | model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test<br>famous<br>matrix<br>blade |  
@@ -147,6 +159,18 @@ famous |
 | bip_39_word_space_7 | model staff music there wheat orient blouse |  
 | bip_39_word_space_8 | model staff music there wheat orient blouse test |  
 | bip_39_word_space_9 | model staff music there wheat orient blouse test famous |  
+| bip_39_word_underscore_1 | model |  
+| bip_39_word_underscore_10 | model_staff_music_there_wheat_orient_blouse_test_famous_matrix |  
+| bip_39_word_underscore_11 | model_staff_music_there_wheat_orient_blouse_test_famous_matrix_blade |  
+| bip_39_word_underscore_12 | model_staff_music_there_wheat_orient_blouse_test_famous_matrix_blade_autumn |  
+| bip_39_word_underscore_2 | model_staff |  
+| bip_39_word_underscore_3 | model_staff_music |  
+| bip_39_word_underscore_4 | model_staff_music_there |  
+| bip_39_word_underscore_5 | model_staff_music_there_wheat |  
+| bip_39_word_underscore_6 | model_staff_music_there_wheat_orient |  
+| bip_39_word_underscore_7 | model_staff_music_there_wheat_orient_blouse |  
+| bip_39_word_underscore_8 | model_staff_music_there_wheat_orient_blouse_test |  
+| bip_39_word_underscore_9 | model_staff_music_there_wheat_orient_blouse_test_famous |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

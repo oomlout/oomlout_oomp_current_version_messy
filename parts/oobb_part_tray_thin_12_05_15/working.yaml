@@ -1,3 +1,15 @@
+bip_39_word_dash_1: often
+bip_39_word_dash_10: often-fix-fury-oak-coffee-diesel-diagram-panther-humble-secret
+bip_39_word_dash_11: often-fix-fury-oak-coffee-diesel-diagram-panther-humble-secret-either
+bip_39_word_dash_12: often-fix-fury-oak-coffee-diesel-diagram-panther-humble-secret-either-almost
+bip_39_word_dash_2: often-fix
+bip_39_word_dash_3: often-fix-fury
+bip_39_word_dash_4: often-fix-fury-oak
+bip_39_word_dash_5: often-fix-fury-oak-coffee
+bip_39_word_dash_6: often-fix-fury-oak-coffee-diesel
+bip_39_word_dash_7: often-fix-fury-oak-coffee-diesel-diagram
+bip_39_word_dash_8: often-fix-fury-oak-coffee-diesel-diagram-panther
+bip_39_word_dash_9: often-fix-fury-oak-coffee-diesel-diagram-panther-humble
 bip_39_word_new_br_1: often
 bip_39_word_new_br_10: often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret
 bip_39_word_new_br_11: often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret<br>either
@@ -193,6 +205,18 @@ bip_39_word_space_6: often fix fury oak coffee diesel
 bip_39_word_space_7: often fix fury oak coffee diesel diagram
 bip_39_word_space_8: often fix fury oak coffee diesel diagram panther
 bip_39_word_space_9: often fix fury oak coffee diesel diagram panther humble
+bip_39_word_underscore_1: often
+bip_39_word_underscore_10: often_fix_fury_oak_coffee_diesel_diagram_panther_humble_secret
+bip_39_word_underscore_11: often_fix_fury_oak_coffee_diesel_diagram_panther_humble_secret_either
+bip_39_word_underscore_12: often_fix_fury_oak_coffee_diesel_diagram_panther_humble_secret_either_almost
+bip_39_word_underscore_2: often_fix
+bip_39_word_underscore_3: often_fix_fury
+bip_39_word_underscore_4: often_fix_fury_oak
+bip_39_word_underscore_5: often_fix_fury_oak_coffee
+bip_39_word_underscore_6: often_fix_fury_oak_coffee_diesel
+bip_39_word_underscore_7: often_fix_fury_oak_coffee_diesel_diagram
+bip_39_word_underscore_8: often_fix_fury_oak_coffee_diesel_diagram_panther
+bip_39_word_underscore_9: often_fix_fury_oak_coffee_diesel_diagram_panther_humble
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

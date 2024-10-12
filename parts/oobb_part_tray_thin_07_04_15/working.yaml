@@ -1,3 +1,15 @@
+bip_39_word_dash_1: help
+bip_39_word_dash_10: help-check-derive-token-stove-since-pulse-steel-degree-involve
+bip_39_word_dash_11: help-check-derive-token-stove-since-pulse-steel-degree-involve-unusual
+bip_39_word_dash_12: help-check-derive-token-stove-since-pulse-steel-degree-involve-unusual-address
+bip_39_word_dash_2: help-check
+bip_39_word_dash_3: help-check-derive
+bip_39_word_dash_4: help-check-derive-token
+bip_39_word_dash_5: help-check-derive-token-stove
+bip_39_word_dash_6: help-check-derive-token-stove-since
+bip_39_word_dash_7: help-check-derive-token-stove-since-pulse
+bip_39_word_dash_8: help-check-derive-token-stove-since-pulse-steel
+bip_39_word_dash_9: help-check-derive-token-stove-since-pulse-steel-degree
 bip_39_word_new_br_1: help
 bip_39_word_new_br_10: help<br>check<br>derive<br>token<br>stove<br>since<br>pulse<br>steel<br>degree<br>involve
 bip_39_word_new_br_11: help<br>check<br>derive<br>token<br>stove<br>since<br>pulse<br>steel<br>degree<br>involve<br>unusual
@@ -193,6 +205,18 @@ bip_39_word_space_6: help check derive token stove since
 bip_39_word_space_7: help check derive token stove since pulse
 bip_39_word_space_8: help check derive token stove since pulse steel
 bip_39_word_space_9: help check derive token stove since pulse steel degree
+bip_39_word_underscore_1: help
+bip_39_word_underscore_10: help_check_derive_token_stove_since_pulse_steel_degree_involve
+bip_39_word_underscore_11: help_check_derive_token_stove_since_pulse_steel_degree_involve_unusual
+bip_39_word_underscore_12: help_check_derive_token_stove_since_pulse_steel_degree_involve_unusual_address
+bip_39_word_underscore_2: help_check
+bip_39_word_underscore_3: help_check_derive
+bip_39_word_underscore_4: help_check_derive_token
+bip_39_word_underscore_5: help_check_derive_token_stove
+bip_39_word_underscore_6: help_check_derive_token_stove_since
+bip_39_word_underscore_7: help_check_derive_token_stove_since_pulse
+bip_39_word_underscore_8: help_check_derive_token_stove_since_pulse_steel
+bip_39_word_underscore_9: help_check_derive_token_stove_since_pulse_steel_degree
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

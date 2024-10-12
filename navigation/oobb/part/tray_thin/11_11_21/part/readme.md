@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grace |  
+| bip_39_word_dash_10 | grace-dry-soap-knee-cluster-alcohol-humor-nation-renew-write |  
+| bip_39_word_dash_11 | grace-dry-soap-knee-cluster-alcohol-humor-nation-renew-write-arrow |  
+| bip_39_word_dash_12 | grace-dry-soap-knee-cluster-alcohol-humor-nation-renew-write-arrow-achieve |  
+| bip_39_word_dash_2 | grace-dry |  
+| bip_39_word_dash_3 | grace-dry-soap |  
+| bip_39_word_dash_4 | grace-dry-soap-knee |  
+| bip_39_word_dash_5 | grace-dry-soap-knee-cluster |  
+| bip_39_word_dash_6 | grace-dry-soap-knee-cluster-alcohol |  
+| bip_39_word_dash_7 | grace-dry-soap-knee-cluster-alcohol-humor |  
+| bip_39_word_dash_8 | grace-dry-soap-knee-cluster-alcohol-humor-nation |  
+| bip_39_word_dash_9 | grace-dry-soap-knee-cluster-alcohol-humor-nation-renew |  
 | bip_39_word_new_br_1 | grace |  
 | bip_39_word_new_br_10 | grace<br>dry<br>soap<br>knee<br>cluster<br>alcohol<br>humor<br>nation<br>renew<br>write |  
 | bip_39_word_new_br_11 | grace<br>dry<br>soap<br>knee<br>cluster<br>alcohol<br>humor<br>nation<br>renew<br>write<br>arrow |  
@@ -147,6 +159,18 @@ renew |
 | bip_39_word_space_7 | grace dry soap knee cluster alcohol humor |  
 | bip_39_word_space_8 | grace dry soap knee cluster alcohol humor nation |  
 | bip_39_word_space_9 | grace dry soap knee cluster alcohol humor nation renew |  
+| bip_39_word_underscore_1 | grace |  
+| bip_39_word_underscore_10 | grace_dry_soap_knee_cluster_alcohol_humor_nation_renew_write |  
+| bip_39_word_underscore_11 | grace_dry_soap_knee_cluster_alcohol_humor_nation_renew_write_arrow |  
+| bip_39_word_underscore_12 | grace_dry_soap_knee_cluster_alcohol_humor_nation_renew_write_arrow_achieve |  
+| bip_39_word_underscore_2 | grace_dry |  
+| bip_39_word_underscore_3 | grace_dry_soap |  
+| bip_39_word_underscore_4 | grace_dry_soap_knee |  
+| bip_39_word_underscore_5 | grace_dry_soap_knee_cluster |  
+| bip_39_word_underscore_6 | grace_dry_soap_knee_cluster_alcohol |  
+| bip_39_word_underscore_7 | grace_dry_soap_knee_cluster_alcohol_humor |  
+| bip_39_word_underscore_8 | grace_dry_soap_knee_cluster_alcohol_humor_nation |  
+| bip_39_word_underscore_9 | grace_dry_soap_knee_cluster_alcohol_humor_nation_renew |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cat |  
+| bip_39_word_dash_10 | cat-million-drama-swear-suggest-foster-inject-there-nature-rural |  
+| bip_39_word_dash_11 | cat-million-drama-swear-suggest-foster-inject-there-nature-rural-cake |  
+| bip_39_word_dash_12 | cat-million-drama-swear-suggest-foster-inject-there-nature-rural-cake-answer |  
+| bip_39_word_dash_2 | cat-million |  
+| bip_39_word_dash_3 | cat-million-drama |  
+| bip_39_word_dash_4 | cat-million-drama-swear |  
+| bip_39_word_dash_5 | cat-million-drama-swear-suggest |  
+| bip_39_word_dash_6 | cat-million-drama-swear-suggest-foster |  
+| bip_39_word_dash_7 | cat-million-drama-swear-suggest-foster-inject |  
+| bip_39_word_dash_8 | cat-million-drama-swear-suggest-foster-inject-there |  
+| bip_39_word_dash_9 | cat-million-drama-swear-suggest-foster-inject-there-nature |  
 | bip_39_word_new_br_1 | cat |  
 | bip_39_word_new_br_10 | cat<br>million<br>drama<br>swear<br>suggest<br>foster<br>inject<br>there<br>nature<br>rural |  
 | bip_39_word_new_br_11 | cat<br>million<br>drama<br>swear<br>suggest<br>foster<br>inject<br>there<br>nature<br>rural<br>cake |  
@@ -147,6 +159,18 @@ nature |
 | bip_39_word_space_7 | cat million drama swear suggest foster inject |  
 | bip_39_word_space_8 | cat million drama swear suggest foster inject there |  
 | bip_39_word_space_9 | cat million drama swear suggest foster inject there nature |  
+| bip_39_word_underscore_1 | cat |  
+| bip_39_word_underscore_10 | cat_million_drama_swear_suggest_foster_inject_there_nature_rural |  
+| bip_39_word_underscore_11 | cat_million_drama_swear_suggest_foster_inject_there_nature_rural_cake |  
+| bip_39_word_underscore_12 | cat_million_drama_swear_suggest_foster_inject_there_nature_rural_cake_answer |  
+| bip_39_word_underscore_2 | cat_million |  
+| bip_39_word_underscore_3 | cat_million_drama |  
+| bip_39_word_underscore_4 | cat_million_drama_swear |  
+| bip_39_word_underscore_5 | cat_million_drama_swear_suggest |  
+| bip_39_word_underscore_6 | cat_million_drama_swear_suggest_foster |  
+| bip_39_word_underscore_7 | cat_million_drama_swear_suggest_foster_inject |  
+| bip_39_word_underscore_8 | cat_million_drama_swear_suggest_foster_inject_there |  
+| bip_39_word_underscore_9 | cat_million_drama_swear_suggest_foster_inject_there_nature |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

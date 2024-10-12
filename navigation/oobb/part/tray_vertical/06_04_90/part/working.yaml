@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jungle
+bip_39_word_dash_10: jungle-spy-genre-sport-hold-visa-float-tourist-hobby-spirit
+bip_39_word_dash_11: jungle-spy-genre-sport-hold-visa-float-tourist-hobby-spirit-angry
+bip_39_word_dash_12: jungle-spy-genre-sport-hold-visa-float-tourist-hobby-spirit-angry-actor
+bip_39_word_dash_2: jungle-spy
+bip_39_word_dash_3: jungle-spy-genre
+bip_39_word_dash_4: jungle-spy-genre-sport
+bip_39_word_dash_5: jungle-spy-genre-sport-hold
+bip_39_word_dash_6: jungle-spy-genre-sport-hold-visa
+bip_39_word_dash_7: jungle-spy-genre-sport-hold-visa-float
+bip_39_word_dash_8: jungle-spy-genre-sport-hold-visa-float-tourist
+bip_39_word_dash_9: jungle-spy-genre-sport-hold-visa-float-tourist-hobby
 bip_39_word_new_br_1: jungle
 bip_39_word_new_br_10: jungle<br>spy<br>genre<br>sport<br>hold<br>visa<br>float<br>tourist<br>hobby<br>spirit
 bip_39_word_new_br_11: jungle<br>spy<br>genre<br>sport<br>hold<br>visa<br>float<br>tourist<br>hobby<br>spirit<br>angry
@@ -193,6 +205,18 @@ bip_39_word_space_6: jungle spy genre sport hold visa
 bip_39_word_space_7: jungle spy genre sport hold visa float
 bip_39_word_space_8: jungle spy genre sport hold visa float tourist
 bip_39_word_space_9: jungle spy genre sport hold visa float tourist hobby
+bip_39_word_underscore_1: jungle
+bip_39_word_underscore_10: jungle_spy_genre_sport_hold_visa_float_tourist_hobby_spirit
+bip_39_word_underscore_11: jungle_spy_genre_sport_hold_visa_float_tourist_hobby_spirit_angry
+bip_39_word_underscore_12: jungle_spy_genre_sport_hold_visa_float_tourist_hobby_spirit_angry_actor
+bip_39_word_underscore_2: jungle_spy
+bip_39_word_underscore_3: jungle_spy_genre
+bip_39_word_underscore_4: jungle_spy_genre_sport
+bip_39_word_underscore_5: jungle_spy_genre_sport_hold
+bip_39_word_underscore_6: jungle_spy_genre_sport_hold_visa
+bip_39_word_underscore_7: jungle_spy_genre_sport_hold_visa_float
+bip_39_word_underscore_8: jungle_spy_genre_sport_hold_visa_float_tourist
+bip_39_word_underscore_9: jungle_spy_genre_sport_hold_visa_float_tourist_hobby
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

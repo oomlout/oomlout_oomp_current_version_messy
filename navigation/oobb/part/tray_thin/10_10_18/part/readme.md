@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | goat |  
+| bip_39_word_dash_10 | goat-unknown-era-grace-regret-craft-marble-flee-theme-update |  
+| bip_39_word_dash_11 | goat-unknown-era-grace-regret-craft-marble-flee-theme-update-host |  
+| bip_39_word_dash_12 | goat-unknown-era-grace-regret-craft-marble-flee-theme-update-host-acid |  
+| bip_39_word_dash_2 | goat-unknown |  
+| bip_39_word_dash_3 | goat-unknown-era |  
+| bip_39_word_dash_4 | goat-unknown-era-grace |  
+| bip_39_word_dash_5 | goat-unknown-era-grace-regret |  
+| bip_39_word_dash_6 | goat-unknown-era-grace-regret-craft |  
+| bip_39_word_dash_7 | goat-unknown-era-grace-regret-craft-marble |  
+| bip_39_word_dash_8 | goat-unknown-era-grace-regret-craft-marble-flee |  
+| bip_39_word_dash_9 | goat-unknown-era-grace-regret-craft-marble-flee-theme |  
 | bip_39_word_new_br_1 | goat |  
 | bip_39_word_new_br_10 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update |  
 | bip_39_word_new_br_11 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update<br>host |  
@@ -147,6 +159,18 @@ theme |
 | bip_39_word_space_7 | goat unknown era grace regret craft marble |  
 | bip_39_word_space_8 | goat unknown era grace regret craft marble flee |  
 | bip_39_word_space_9 | goat unknown era grace regret craft marble flee theme |  
+| bip_39_word_underscore_1 | goat |  
+| bip_39_word_underscore_10 | goat_unknown_era_grace_regret_craft_marble_flee_theme_update |  
+| bip_39_word_underscore_11 | goat_unknown_era_grace_regret_craft_marble_flee_theme_update_host |  
+| bip_39_word_underscore_12 | goat_unknown_era_grace_regret_craft_marble_flee_theme_update_host_acid |  
+| bip_39_word_underscore_2 | goat_unknown |  
+| bip_39_word_underscore_3 | goat_unknown_era |  
+| bip_39_word_underscore_4 | goat_unknown_era_grace |  
+| bip_39_word_underscore_5 | goat_unknown_era_grace_regret |  
+| bip_39_word_underscore_6 | goat_unknown_era_grace_regret_craft |  
+| bip_39_word_underscore_7 | goat_unknown_era_grace_regret_craft_marble |  
+| bip_39_word_underscore_8 | goat_unknown_era_grace_regret_craft_marble_flee |  
+| bip_39_word_underscore_9 | goat_unknown_era_grace_regret_craft_marble_flee_theme |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

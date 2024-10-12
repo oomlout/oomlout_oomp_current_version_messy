@@ -1,3 +1,15 @@
+bip_39_word_dash_1: artwork
+bip_39_word_dash_10: artwork-link-nephew-fantasy-celery-clock-multiply-manage-humor-job
+bip_39_word_dash_11: artwork-link-nephew-fantasy-celery-clock-multiply-manage-humor-job-blame
+bip_39_word_dash_12: artwork-link-nephew-fantasy-celery-clock-multiply-manage-humor-job-blame-annual
+bip_39_word_dash_2: artwork-link
+bip_39_word_dash_3: artwork-link-nephew
+bip_39_word_dash_4: artwork-link-nephew-fantasy
+bip_39_word_dash_5: artwork-link-nephew-fantasy-celery
+bip_39_word_dash_6: artwork-link-nephew-fantasy-celery-clock
+bip_39_word_dash_7: artwork-link-nephew-fantasy-celery-clock-multiply
+bip_39_word_dash_8: artwork-link-nephew-fantasy-celery-clock-multiply-manage
+bip_39_word_dash_9: artwork-link-nephew-fantasy-celery-clock-multiply-manage-humor
 bip_39_word_new_br_1: artwork
 bip_39_word_new_br_10: artwork<br>link<br>nephew<br>fantasy<br>celery<br>clock<br>multiply<br>manage<br>humor<br>job
 bip_39_word_new_br_11: artwork<br>link<br>nephew<br>fantasy<br>celery<br>clock<br>multiply<br>manage<br>humor<br>job<br>blame
@@ -194,6 +206,18 @@ bip_39_word_space_6: artwork link nephew fantasy celery clock
 bip_39_word_space_7: artwork link nephew fantasy celery clock multiply
 bip_39_word_space_8: artwork link nephew fantasy celery clock multiply manage
 bip_39_word_space_9: artwork link nephew fantasy celery clock multiply manage humor
+bip_39_word_underscore_1: artwork
+bip_39_word_underscore_10: artwork_link_nephew_fantasy_celery_clock_multiply_manage_humor_job
+bip_39_word_underscore_11: artwork_link_nephew_fantasy_celery_clock_multiply_manage_humor_job_blame
+bip_39_word_underscore_12: artwork_link_nephew_fantasy_celery_clock_multiply_manage_humor_job_blame_annual
+bip_39_word_underscore_2: artwork_link
+bip_39_word_underscore_3: artwork_link_nephew
+bip_39_word_underscore_4: artwork_link_nephew_fantasy
+bip_39_word_underscore_5: artwork_link_nephew_fantasy_celery
+bip_39_word_underscore_6: artwork_link_nephew_fantasy_celery_clock
+bip_39_word_underscore_7: artwork_link_nephew_fantasy_celery_clock_multiply
+bip_39_word_underscore_8: artwork_link_nephew_fantasy_celery_clock_multiply_manage
+bip_39_word_underscore_9: artwork_link_nephew_fantasy_celery_clock_multiply_manage_humor
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

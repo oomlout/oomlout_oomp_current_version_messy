@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dinosaur |  
+| bip_39_word_dash_10 | dinosaur-seminar-breeze-fiction-weapon-vapor-attitude-spring-solve-excess |  
+| bip_39_word_dash_11 | dinosaur-seminar-breeze-fiction-weapon-vapor-attitude-spring-solve-excess-stick |  
+| bip_39_word_dash_12 | dinosaur-seminar-breeze-fiction-weapon-vapor-attitude-spring-solve-excess-stick-arctic |  
+| bip_39_word_dash_2 | dinosaur-seminar |  
+| bip_39_word_dash_3 | dinosaur-seminar-breeze |  
+| bip_39_word_dash_4 | dinosaur-seminar-breeze-fiction |  
+| bip_39_word_dash_5 | dinosaur-seminar-breeze-fiction-weapon |  
+| bip_39_word_dash_6 | dinosaur-seminar-breeze-fiction-weapon-vapor |  
+| bip_39_word_dash_7 | dinosaur-seminar-breeze-fiction-weapon-vapor-attitude |  
+| bip_39_word_dash_8 | dinosaur-seminar-breeze-fiction-weapon-vapor-attitude-spring |  
+| bip_39_word_dash_9 | dinosaur-seminar-breeze-fiction-weapon-vapor-attitude-spring-solve |  
 | bip_39_word_new_br_1 | dinosaur |  
 | bip_39_word_new_br_10 | dinosaur<br>seminar<br>breeze<br>fiction<br>weapon<br>vapor<br>attitude<br>spring<br>solve<br>excess |  
 | bip_39_word_new_br_11 | dinosaur<br>seminar<br>breeze<br>fiction<br>weapon<br>vapor<br>attitude<br>spring<br>solve<br>excess<br>stick |  
@@ -147,6 +159,18 @@ solve |
 | bip_39_word_space_7 | dinosaur seminar breeze fiction weapon vapor attitude |  
 | bip_39_word_space_8 | dinosaur seminar breeze fiction weapon vapor attitude spring |  
 | bip_39_word_space_9 | dinosaur seminar breeze fiction weapon vapor attitude spring solve |  
+| bip_39_word_underscore_1 | dinosaur |  
+| bip_39_word_underscore_10 | dinosaur_seminar_breeze_fiction_weapon_vapor_attitude_spring_solve_excess |  
+| bip_39_word_underscore_11 | dinosaur_seminar_breeze_fiction_weapon_vapor_attitude_spring_solve_excess_stick |  
+| bip_39_word_underscore_12 | dinosaur_seminar_breeze_fiction_weapon_vapor_attitude_spring_solve_excess_stick_arctic |  
+| bip_39_word_underscore_2 | dinosaur_seminar |  
+| bip_39_word_underscore_3 | dinosaur_seminar_breeze |  
+| bip_39_word_underscore_4 | dinosaur_seminar_breeze_fiction |  
+| bip_39_word_underscore_5 | dinosaur_seminar_breeze_fiction_weapon |  
+| bip_39_word_underscore_6 | dinosaur_seminar_breeze_fiction_weapon_vapor |  
+| bip_39_word_underscore_7 | dinosaur_seminar_breeze_fiction_weapon_vapor_attitude |  
+| bip_39_word_underscore_8 | dinosaur_seminar_breeze_fiction_weapon_vapor_attitude_spring |  
+| bip_39_word_underscore_9 | dinosaur_seminar_breeze_fiction_weapon_vapor_attitude_spring_solve |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

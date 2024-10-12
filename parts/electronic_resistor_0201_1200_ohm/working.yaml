@@ -1,3 +1,15 @@
+bip_39_word_dash_1: long
+bip_39_word_dash_10: long-scissors-floor-hill-later-code-demise-glory-rotate-base
+bip_39_word_dash_11: long-scissors-floor-hill-later-code-demise-glory-rotate-base-gate
+bip_39_word_dash_12: long-scissors-floor-hill-later-code-demise-glory-rotate-base-gate-already
+bip_39_word_dash_2: long-scissors
+bip_39_word_dash_3: long-scissors-floor
+bip_39_word_dash_4: long-scissors-floor-hill
+bip_39_word_dash_5: long-scissors-floor-hill-later
+bip_39_word_dash_6: long-scissors-floor-hill-later-code
+bip_39_word_dash_7: long-scissors-floor-hill-later-code-demise
+bip_39_word_dash_8: long-scissors-floor-hill-later-code-demise-glory
+bip_39_word_dash_9: long-scissors-floor-hill-later-code-demise-glory-rotate
 bip_39_word_new_br_1: long
 bip_39_word_new_br_10: long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base
 bip_39_word_new_br_11: long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base<br>gate
@@ -193,6 +205,18 @@ bip_39_word_space_6: long scissors floor hill later code
 bip_39_word_space_7: long scissors floor hill later code demise
 bip_39_word_space_8: long scissors floor hill later code demise glory
 bip_39_word_space_9: long scissors floor hill later code demise glory rotate
+bip_39_word_underscore_1: long
+bip_39_word_underscore_10: long_scissors_floor_hill_later_code_demise_glory_rotate_base
+bip_39_word_underscore_11: long_scissors_floor_hill_later_code_demise_glory_rotate_base_gate
+bip_39_word_underscore_12: long_scissors_floor_hill_later_code_demise_glory_rotate_base_gate_already
+bip_39_word_underscore_2: long_scissors
+bip_39_word_underscore_3: long_scissors_floor
+bip_39_word_underscore_4: long_scissors_floor_hill
+bip_39_word_underscore_5: long_scissors_floor_hill_later
+bip_39_word_underscore_6: long_scissors_floor_hill_later_code
+bip_39_word_underscore_7: long_scissors_floor_hill_later_code_demise
+bip_39_word_underscore_8: long_scissors_floor_hill_later_code_demise_glory
+bip_39_word_underscore_9: long_scissors_floor_hill_later_code_demise_glory_rotate
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

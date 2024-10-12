@@ -1,3 +1,15 @@
+bip_39_word_dash_1: provide
+bip_39_word_dash_10: provide-cruel-ancient-rocket-become-van-culture-column-dust-sleep
+bip_39_word_dash_11: provide-cruel-ancient-rocket-become-van-culture-column-dust-sleep-own
+bip_39_word_dash_12: provide-cruel-ancient-rocket-become-van-culture-column-dust-sleep-own-ask
+bip_39_word_dash_2: provide-cruel
+bip_39_word_dash_3: provide-cruel-ancient
+bip_39_word_dash_4: provide-cruel-ancient-rocket
+bip_39_word_dash_5: provide-cruel-ancient-rocket-become
+bip_39_word_dash_6: provide-cruel-ancient-rocket-become-van
+bip_39_word_dash_7: provide-cruel-ancient-rocket-become-van-culture
+bip_39_word_dash_8: provide-cruel-ancient-rocket-become-van-culture-column
+bip_39_word_dash_9: provide-cruel-ancient-rocket-become-van-culture-column-dust
 bip_39_word_new_br_1: provide
 bip_39_word_new_br_10: provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep
 bip_39_word_new_br_11: provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep<br>own
@@ -194,6 +206,18 @@ bip_39_word_space_6: provide cruel ancient rocket become van
 bip_39_word_space_7: provide cruel ancient rocket become van culture
 bip_39_word_space_8: provide cruel ancient rocket become van culture column
 bip_39_word_space_9: provide cruel ancient rocket become van culture column dust
+bip_39_word_underscore_1: provide
+bip_39_word_underscore_10: provide_cruel_ancient_rocket_become_van_culture_column_dust_sleep
+bip_39_word_underscore_11: provide_cruel_ancient_rocket_become_van_culture_column_dust_sleep_own
+bip_39_word_underscore_12: provide_cruel_ancient_rocket_become_van_culture_column_dust_sleep_own_ask
+bip_39_word_underscore_2: provide_cruel
+bip_39_word_underscore_3: provide_cruel_ancient
+bip_39_word_underscore_4: provide_cruel_ancient_rocket
+bip_39_word_underscore_5: provide_cruel_ancient_rocket_become
+bip_39_word_underscore_6: provide_cruel_ancient_rocket_become_van
+bip_39_word_underscore_7: provide_cruel_ancient_rocket_become_van_culture
+bip_39_word_underscore_8: provide_cruel_ancient_rocket_become_van_culture_column
+bip_39_word_underscore_9: provide_cruel_ancient_rocket_become_van_culture_column_dust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

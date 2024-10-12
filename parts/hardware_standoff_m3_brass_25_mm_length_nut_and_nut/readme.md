@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | second |  
+| bip_39_word_dash_10 | second-expand-fork-sugar-sport-chest-tape-solid-embark-boss |  
+| bip_39_word_dash_11 | second-expand-fork-sugar-sport-chest-tape-solid-embark-boss-village |  
+| bip_39_word_dash_12 | second-expand-fork-sugar-sport-chest-tape-solid-embark-boss-village-absent |  
+| bip_39_word_dash_2 | second-expand |  
+| bip_39_word_dash_3 | second-expand-fork |  
+| bip_39_word_dash_4 | second-expand-fork-sugar |  
+| bip_39_word_dash_5 | second-expand-fork-sugar-sport |  
+| bip_39_word_dash_6 | second-expand-fork-sugar-sport-chest |  
+| bip_39_word_dash_7 | second-expand-fork-sugar-sport-chest-tape |  
+| bip_39_word_dash_8 | second-expand-fork-sugar-sport-chest-tape-solid |  
+| bip_39_word_dash_9 | second-expand-fork-sugar-sport-chest-tape-solid-embark |  
 | bip_39_word_new_br_1 | second |  
 | bip_39_word_new_br_10 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss |  
 | bip_39_word_new_br_11 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss<br>village |  
@@ -147,6 +159,18 @@ embark |
 | bip_39_word_space_7 | second expand fork sugar sport chest tape |  
 | bip_39_word_space_8 | second expand fork sugar sport chest tape solid |  
 | bip_39_word_space_9 | second expand fork sugar sport chest tape solid embark |  
+| bip_39_word_underscore_1 | second |  
+| bip_39_word_underscore_10 | second_expand_fork_sugar_sport_chest_tape_solid_embark_boss |  
+| bip_39_word_underscore_11 | second_expand_fork_sugar_sport_chest_tape_solid_embark_boss_village |  
+| bip_39_word_underscore_12 | second_expand_fork_sugar_sport_chest_tape_solid_embark_boss_village_absent |  
+| bip_39_word_underscore_2 | second_expand |  
+| bip_39_word_underscore_3 | second_expand_fork |  
+| bip_39_word_underscore_4 | second_expand_fork_sugar |  
+| bip_39_word_underscore_5 | second_expand_fork_sugar_sport |  
+| bip_39_word_underscore_6 | second_expand_fork_sugar_sport_chest |  
+| bip_39_word_underscore_7 | second_expand_fork_sugar_sport_chest_tape |  
+| bip_39_word_underscore_8 | second_expand_fork_sugar_sport_chest_tape_solid |  
+| bip_39_word_underscore_9 | second_expand_fork_sugar_sport_chest_tape_solid_embark |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

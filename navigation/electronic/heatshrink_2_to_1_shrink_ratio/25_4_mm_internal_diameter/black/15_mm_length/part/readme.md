@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | match |  
+| bip_39_word_dash_10 | match-eagle-butter-risk-city-series-oxygen-country-lake-glass |  
+| bip_39_word_dash_11 | match-eagle-butter-risk-city-series-oxygen-country-lake-glass-setup |  
+| bip_39_word_dash_12 | match-eagle-butter-risk-city-series-oxygen-country-lake-glass-setup-advice |  
+| bip_39_word_dash_2 | match-eagle |  
+| bip_39_word_dash_3 | match-eagle-butter |  
+| bip_39_word_dash_4 | match-eagle-butter-risk |  
+| bip_39_word_dash_5 | match-eagle-butter-risk-city |  
+| bip_39_word_dash_6 | match-eagle-butter-risk-city-series |  
+| bip_39_word_dash_7 | match-eagle-butter-risk-city-series-oxygen |  
+| bip_39_word_dash_8 | match-eagle-butter-risk-city-series-oxygen-country |  
+| bip_39_word_dash_9 | match-eagle-butter-risk-city-series-oxygen-country-lake |  
 | bip_39_word_new_br_1 | match |  
 | bip_39_word_new_br_10 | match<br>eagle<br>butter<br>risk<br>city<br>series<br>oxygen<br>country<br>lake<br>glass |  
 | bip_39_word_new_br_11 | match<br>eagle<br>butter<br>risk<br>city<br>series<br>oxygen<br>country<br>lake<br>glass<br>setup |  
@@ -147,6 +159,18 @@ lake |
 | bip_39_word_space_7 | match eagle butter risk city series oxygen |  
 | bip_39_word_space_8 | match eagle butter risk city series oxygen country |  
 | bip_39_word_space_9 | match eagle butter risk city series oxygen country lake |  
+| bip_39_word_underscore_1 | match |  
+| bip_39_word_underscore_10 | match_eagle_butter_risk_city_series_oxygen_country_lake_glass |  
+| bip_39_word_underscore_11 | match_eagle_butter_risk_city_series_oxygen_country_lake_glass_setup |  
+| bip_39_word_underscore_12 | match_eagle_butter_risk_city_series_oxygen_country_lake_glass_setup_advice |  
+| bip_39_word_underscore_2 | match_eagle |  
+| bip_39_word_underscore_3 | match_eagle_butter |  
+| bip_39_word_underscore_4 | match_eagle_butter_risk |  
+| bip_39_word_underscore_5 | match_eagle_butter_risk_city |  
+| bip_39_word_underscore_6 | match_eagle_butter_risk_city_series |  
+| bip_39_word_underscore_7 | match_eagle_butter_risk_city_series_oxygen |  
+| bip_39_word_underscore_8 | match_eagle_butter_risk_city_series_oxygen_country |  
+| bip_39_word_underscore_9 | match_eagle_butter_risk_city_series_oxygen_country_lake |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

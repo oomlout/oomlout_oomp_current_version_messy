@@ -1,3 +1,15 @@
+bip_39_word_dash_1: north
+bip_39_word_dash_10: north-loan-solid-column-purse-oval-help-era-invite-fan
+bip_39_word_dash_11: north-loan-solid-column-purse-oval-help-era-invite-fan-myself
+bip_39_word_dash_12: north-loan-solid-column-purse-oval-help-era-invite-fan-myself-assume
+bip_39_word_dash_2: north-loan
+bip_39_word_dash_3: north-loan-solid
+bip_39_word_dash_4: north-loan-solid-column
+bip_39_word_dash_5: north-loan-solid-column-purse
+bip_39_word_dash_6: north-loan-solid-column-purse-oval
+bip_39_word_dash_7: north-loan-solid-column-purse-oval-help
+bip_39_word_dash_8: north-loan-solid-column-purse-oval-help-era
+bip_39_word_dash_9: north-loan-solid-column-purse-oval-help-era-invite
 bip_39_word_new_br_1: north
 bip_39_word_new_br_10: north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era<br>invite<br>fan
 bip_39_word_new_br_11: north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era<br>invite<br>fan<br>myself
@@ -192,6 +204,18 @@ bip_39_word_space_6: north loan solid column purse oval
 bip_39_word_space_7: north loan solid column purse oval help
 bip_39_word_space_8: north loan solid column purse oval help era
 bip_39_word_space_9: north loan solid column purse oval help era invite
+bip_39_word_underscore_1: north
+bip_39_word_underscore_10: north_loan_solid_column_purse_oval_help_era_invite_fan
+bip_39_word_underscore_11: north_loan_solid_column_purse_oval_help_era_invite_fan_myself
+bip_39_word_underscore_12: north_loan_solid_column_purse_oval_help_era_invite_fan_myself_assume
+bip_39_word_underscore_2: north_loan
+bip_39_word_underscore_3: north_loan_solid
+bip_39_word_underscore_4: north_loan_solid_column
+bip_39_word_underscore_5: north_loan_solid_column_purse
+bip_39_word_underscore_6: north_loan_solid_column_purse_oval
+bip_39_word_underscore_7: north_loan_solid_column_purse_oval_help
+bip_39_word_underscore_8: north_loan_solid_column_purse_oval_help_era
+bip_39_word_underscore_9: north_loan_solid_column_purse_oval_help_era_invite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

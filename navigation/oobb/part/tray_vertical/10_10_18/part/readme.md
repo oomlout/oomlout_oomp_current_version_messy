@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | afraid |  
+| bip_39_word_dash_10 | afraid-during-trophy-gown-monster-arctic-viable-canoe-sleep-opinion |  
+| bip_39_word_dash_11 | afraid-during-trophy-gown-monster-arctic-viable-canoe-sleep-opinion-raven |  
+| bip_39_word_dash_12 | afraid-during-trophy-gown-monster-arctic-viable-canoe-sleep-opinion-raven-admit |  
+| bip_39_word_dash_2 | afraid-during |  
+| bip_39_word_dash_3 | afraid-during-trophy |  
+| bip_39_word_dash_4 | afraid-during-trophy-gown |  
+| bip_39_word_dash_5 | afraid-during-trophy-gown-monster |  
+| bip_39_word_dash_6 | afraid-during-trophy-gown-monster-arctic |  
+| bip_39_word_dash_7 | afraid-during-trophy-gown-monster-arctic-viable |  
+| bip_39_word_dash_8 | afraid-during-trophy-gown-monster-arctic-viable-canoe |  
+| bip_39_word_dash_9 | afraid-during-trophy-gown-monster-arctic-viable-canoe-sleep |  
 | bip_39_word_new_br_1 | afraid |  
 | bip_39_word_new_br_10 | afraid<br>during<br>trophy<br>gown<br>monster<br>arctic<br>viable<br>canoe<br>sleep<br>opinion |  
 | bip_39_word_new_br_11 | afraid<br>during<br>trophy<br>gown<br>monster<br>arctic<br>viable<br>canoe<br>sleep<br>opinion<br>raven |  
@@ -147,6 +159,18 @@ sleep |
 | bip_39_word_space_7 | afraid during trophy gown monster arctic viable |  
 | bip_39_word_space_8 | afraid during trophy gown monster arctic viable canoe |  
 | bip_39_word_space_9 | afraid during trophy gown monster arctic viable canoe sleep |  
+| bip_39_word_underscore_1 | afraid |  
+| bip_39_word_underscore_10 | afraid_during_trophy_gown_monster_arctic_viable_canoe_sleep_opinion |  
+| bip_39_word_underscore_11 | afraid_during_trophy_gown_monster_arctic_viable_canoe_sleep_opinion_raven |  
+| bip_39_word_underscore_12 | afraid_during_trophy_gown_monster_arctic_viable_canoe_sleep_opinion_raven_admit |  
+| bip_39_word_underscore_2 | afraid_during |  
+| bip_39_word_underscore_3 | afraid_during_trophy |  
+| bip_39_word_underscore_4 | afraid_during_trophy_gown |  
+| bip_39_word_underscore_5 | afraid_during_trophy_gown_monster |  
+| bip_39_word_underscore_6 | afraid_during_trophy_gown_monster_arctic |  
+| bip_39_word_underscore_7 | afraid_during_trophy_gown_monster_arctic_viable |  
+| bip_39_word_underscore_8 | afraid_during_trophy_gown_monster_arctic_viable_canoe |  
+| bip_39_word_underscore_9 | afraid_during_trophy_gown_monster_arctic_viable_canoe_sleep |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

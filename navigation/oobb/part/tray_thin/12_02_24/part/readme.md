@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | all |  
+| bip_39_word_dash_10 | all-noodle-come-cannon-onion-poem-wave-away-huge-salmon |  
+| bip_39_word_dash_11 | all-noodle-come-cannon-onion-poem-wave-away-huge-salmon-jaguar |  
+| bip_39_word_dash_12 | all-noodle-come-cannon-onion-poem-wave-away-huge-salmon-jaguar-aerobic |  
+| bip_39_word_dash_2 | all-noodle |  
+| bip_39_word_dash_3 | all-noodle-come |  
+| bip_39_word_dash_4 | all-noodle-come-cannon |  
+| bip_39_word_dash_5 | all-noodle-come-cannon-onion |  
+| bip_39_word_dash_6 | all-noodle-come-cannon-onion-poem |  
+| bip_39_word_dash_7 | all-noodle-come-cannon-onion-poem-wave |  
+| bip_39_word_dash_8 | all-noodle-come-cannon-onion-poem-wave-away |  
+| bip_39_word_dash_9 | all-noodle-come-cannon-onion-poem-wave-away-huge |  
 | bip_39_word_new_br_1 | all |  
 | bip_39_word_new_br_10 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away<br>huge<br>salmon |  
 | bip_39_word_new_br_11 | all<br>noodle<br>come<br>cannon<br>onion<br>poem<br>wave<br>away<br>huge<br>salmon<br>jaguar |  
@@ -147,6 +159,18 @@ huge |
 | bip_39_word_space_7 | all noodle come cannon onion poem wave |  
 | bip_39_word_space_8 | all noodle come cannon onion poem wave away |  
 | bip_39_word_space_9 | all noodle come cannon onion poem wave away huge |  
+| bip_39_word_underscore_1 | all |  
+| bip_39_word_underscore_10 | all_noodle_come_cannon_onion_poem_wave_away_huge_salmon |  
+| bip_39_word_underscore_11 | all_noodle_come_cannon_onion_poem_wave_away_huge_salmon_jaguar |  
+| bip_39_word_underscore_12 | all_noodle_come_cannon_onion_poem_wave_away_huge_salmon_jaguar_aerobic |  
+| bip_39_word_underscore_2 | all_noodle |  
+| bip_39_word_underscore_3 | all_noodle_come |  
+| bip_39_word_underscore_4 | all_noodle_come_cannon |  
+| bip_39_word_underscore_5 | all_noodle_come_cannon_onion |  
+| bip_39_word_underscore_6 | all_noodle_come_cannon_onion_poem |  
+| bip_39_word_underscore_7 | all_noodle_come_cannon_onion_poem_wave |  
+| bip_39_word_underscore_8 | all_noodle_come_cannon_onion_poem_wave_away |  
+| bip_39_word_underscore_9 | all_noodle_come_cannon_onion_poem_wave_away_huge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

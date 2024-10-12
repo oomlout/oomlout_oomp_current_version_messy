@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | target |  
+| bip_39_word_dash_10 | target-anxiety-foot-later-shock-execute-scissors-theme-setup-vault |  
+| bip_39_word_dash_11 | target-anxiety-foot-later-shock-execute-scissors-theme-setup-vault-gap |  
+| bip_39_word_dash_12 | target-anxiety-foot-later-shock-execute-scissors-theme-setup-vault-gap-age |  
+| bip_39_word_dash_2 | target-anxiety |  
+| bip_39_word_dash_3 | target-anxiety-foot |  
+| bip_39_word_dash_4 | target-anxiety-foot-later |  
+| bip_39_word_dash_5 | target-anxiety-foot-later-shock |  
+| bip_39_word_dash_6 | target-anxiety-foot-later-shock-execute |  
+| bip_39_word_dash_7 | target-anxiety-foot-later-shock-execute-scissors |  
+| bip_39_word_dash_8 | target-anxiety-foot-later-shock-execute-scissors-theme |  
+| bip_39_word_dash_9 | target-anxiety-foot-later-shock-execute-scissors-theme-setup |  
 | bip_39_word_new_br_1 | target |  
 | bip_39_word_new_br_10 | target<br>anxiety<br>foot<br>later<br>shock<br>execute<br>scissors<br>theme<br>setup<br>vault |  
 | bip_39_word_new_br_11 | target<br>anxiety<br>foot<br>later<br>shock<br>execute<br>scissors<br>theme<br>setup<br>vault<br>gap |  
@@ -147,6 +159,18 @@ setup |
 | bip_39_word_space_7 | target anxiety foot later shock execute scissors |  
 | bip_39_word_space_8 | target anxiety foot later shock execute scissors theme |  
 | bip_39_word_space_9 | target anxiety foot later shock execute scissors theme setup |  
+| bip_39_word_underscore_1 | target |  
+| bip_39_word_underscore_10 | target_anxiety_foot_later_shock_execute_scissors_theme_setup_vault |  
+| bip_39_word_underscore_11 | target_anxiety_foot_later_shock_execute_scissors_theme_setup_vault_gap |  
+| bip_39_word_underscore_12 | target_anxiety_foot_later_shock_execute_scissors_theme_setup_vault_gap_age |  
+| bip_39_word_underscore_2 | target_anxiety |  
+| bip_39_word_underscore_3 | target_anxiety_foot |  
+| bip_39_word_underscore_4 | target_anxiety_foot_later |  
+| bip_39_word_underscore_5 | target_anxiety_foot_later_shock |  
+| bip_39_word_underscore_6 | target_anxiety_foot_later_shock_execute |  
+| bip_39_word_underscore_7 | target_anxiety_foot_later_shock_execute_scissors |  
+| bip_39_word_underscore_8 | target_anxiety_foot_later_shock_execute_scissors_theme |  
+| bip_39_word_underscore_9 | target_anxiety_foot_later_shock_execute_scissors_theme_setup |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

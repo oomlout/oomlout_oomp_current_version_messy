@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | powder |  
+| bip_39_word_dash_10 | powder-fan-fine-badge-grant-coral-demise-busy-evoke-plastic |  
+| bip_39_word_dash_11 | powder-fan-fine-badge-grant-coral-demise-busy-evoke-plastic-glance |  
+| bip_39_word_dash_12 | powder-fan-fine-badge-grant-coral-demise-busy-evoke-plastic-glance-artwork |  
+| bip_39_word_dash_2 | powder-fan |  
+| bip_39_word_dash_3 | powder-fan-fine |  
+| bip_39_word_dash_4 | powder-fan-fine-badge |  
+| bip_39_word_dash_5 | powder-fan-fine-badge-grant |  
+| bip_39_word_dash_6 | powder-fan-fine-badge-grant-coral |  
+| bip_39_word_dash_7 | powder-fan-fine-badge-grant-coral-demise |  
+| bip_39_word_dash_8 | powder-fan-fine-badge-grant-coral-demise-busy |  
+| bip_39_word_dash_9 | powder-fan-fine-badge-grant-coral-demise-busy-evoke |  
 | bip_39_word_new_br_1 | powder |  
 | bip_39_word_new_br_10 | powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy<br>evoke<br>plastic |  
 | bip_39_word_new_br_11 | powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy<br>evoke<br>plastic<br>glance |  
@@ -147,6 +159,18 @@ evoke |
 | bip_39_word_space_7 | powder fan fine badge grant coral demise |  
 | bip_39_word_space_8 | powder fan fine badge grant coral demise busy |  
 | bip_39_word_space_9 | powder fan fine badge grant coral demise busy evoke |  
+| bip_39_word_underscore_1 | powder |  
+| bip_39_word_underscore_10 | powder_fan_fine_badge_grant_coral_demise_busy_evoke_plastic |  
+| bip_39_word_underscore_11 | powder_fan_fine_badge_grant_coral_demise_busy_evoke_plastic_glance |  
+| bip_39_word_underscore_12 | powder_fan_fine_badge_grant_coral_demise_busy_evoke_plastic_glance_artwork |  
+| bip_39_word_underscore_2 | powder_fan |  
+| bip_39_word_underscore_3 | powder_fan_fine |  
+| bip_39_word_underscore_4 | powder_fan_fine_badge |  
+| bip_39_word_underscore_5 | powder_fan_fine_badge_grant |  
+| bip_39_word_underscore_6 | powder_fan_fine_badge_grant_coral |  
+| bip_39_word_underscore_7 | powder_fan_fine_badge_grant_coral_demise |  
+| bip_39_word_underscore_8 | powder_fan_fine_badge_grant_coral_demise_busy |  
+| bip_39_word_underscore_9 | powder_fan_fine_badge_grant_coral_demise_busy_evoke |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

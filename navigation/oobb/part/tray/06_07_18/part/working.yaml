@@ -1,3 +1,15 @@
+bip_39_word_dash_1: frozen
+bip_39_word_dash_10: frozen-major-limb-hawk-about-top-toast-lock-million-rocket
+bip_39_word_dash_11: frozen-major-limb-hawk-about-top-toast-lock-million-rocket-thumb
+bip_39_word_dash_12: frozen-major-limb-hawk-about-top-toast-lock-million-rocket-thumb-allow
+bip_39_word_dash_2: frozen-major
+bip_39_word_dash_3: frozen-major-limb
+bip_39_word_dash_4: frozen-major-limb-hawk
+bip_39_word_dash_5: frozen-major-limb-hawk-about
+bip_39_word_dash_6: frozen-major-limb-hawk-about-top
+bip_39_word_dash_7: frozen-major-limb-hawk-about-top-toast
+bip_39_word_dash_8: frozen-major-limb-hawk-about-top-toast-lock
+bip_39_word_dash_9: frozen-major-limb-hawk-about-top-toast-lock-million
 bip_39_word_new_br_1: frozen
 bip_39_word_new_br_10: frozen<br>major<br>limb<br>hawk<br>about<br>top<br>toast<br>lock<br>million<br>rocket
 bip_39_word_new_br_11: frozen<br>major<br>limb<br>hawk<br>about<br>top<br>toast<br>lock<br>million<br>rocket<br>thumb
@@ -192,6 +204,18 @@ bip_39_word_space_6: frozen major limb hawk about top
 bip_39_word_space_7: frozen major limb hawk about top toast
 bip_39_word_space_8: frozen major limb hawk about top toast lock
 bip_39_word_space_9: frozen major limb hawk about top toast lock million
+bip_39_word_underscore_1: frozen
+bip_39_word_underscore_10: frozen_major_limb_hawk_about_top_toast_lock_million_rocket
+bip_39_word_underscore_11: frozen_major_limb_hawk_about_top_toast_lock_million_rocket_thumb
+bip_39_word_underscore_12: frozen_major_limb_hawk_about_top_toast_lock_million_rocket_thumb_allow
+bip_39_word_underscore_2: frozen_major
+bip_39_word_underscore_3: frozen_major_limb
+bip_39_word_underscore_4: frozen_major_limb_hawk
+bip_39_word_underscore_5: frozen_major_limb_hawk_about
+bip_39_word_underscore_6: frozen_major_limb_hawk_about_top
+bip_39_word_underscore_7: frozen_major_limb_hawk_about_top_toast
+bip_39_word_underscore_8: frozen_major_limb_hawk_about_top_toast_lock
+bip_39_word_underscore_9: frozen_major_limb_hawk_about_top_toast_lock_million
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

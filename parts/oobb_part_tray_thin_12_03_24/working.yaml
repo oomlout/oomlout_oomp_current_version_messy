@@ -1,3 +1,15 @@
+bip_39_word_dash_1: resource
+bip_39_word_dash_10: resource-turn-mention-vocal-ridge-toe-lawsuit-where-present-moment
+bip_39_word_dash_11: resource-turn-mention-vocal-ridge-toe-lawsuit-where-present-moment-unfair
+bip_39_word_dash_12: resource-turn-mention-vocal-ridge-toe-lawsuit-where-present-moment-unfair-amount
+bip_39_word_dash_2: resource-turn
+bip_39_word_dash_3: resource-turn-mention
+bip_39_word_dash_4: resource-turn-mention-vocal
+bip_39_word_dash_5: resource-turn-mention-vocal-ridge
+bip_39_word_dash_6: resource-turn-mention-vocal-ridge-toe
+bip_39_word_dash_7: resource-turn-mention-vocal-ridge-toe-lawsuit
+bip_39_word_dash_8: resource-turn-mention-vocal-ridge-toe-lawsuit-where
+bip_39_word_dash_9: resource-turn-mention-vocal-ridge-toe-lawsuit-where-present
 bip_39_word_new_br_1: resource
 bip_39_word_new_br_10: resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where<br>present<br>moment
 bip_39_word_new_br_11: resource<br>turn<br>mention<br>vocal<br>ridge<br>toe<br>lawsuit<br>where<br>present<br>moment<br>unfair
@@ -194,6 +206,18 @@ bip_39_word_space_6: resource turn mention vocal ridge toe
 bip_39_word_space_7: resource turn mention vocal ridge toe lawsuit
 bip_39_word_space_8: resource turn mention vocal ridge toe lawsuit where
 bip_39_word_space_9: resource turn mention vocal ridge toe lawsuit where present
+bip_39_word_underscore_1: resource
+bip_39_word_underscore_10: resource_turn_mention_vocal_ridge_toe_lawsuit_where_present_moment
+bip_39_word_underscore_11: resource_turn_mention_vocal_ridge_toe_lawsuit_where_present_moment_unfair
+bip_39_word_underscore_12: resource_turn_mention_vocal_ridge_toe_lawsuit_where_present_moment_unfair_amount
+bip_39_word_underscore_2: resource_turn
+bip_39_word_underscore_3: resource_turn_mention
+bip_39_word_underscore_4: resource_turn_mention_vocal
+bip_39_word_underscore_5: resource_turn_mention_vocal_ridge
+bip_39_word_underscore_6: resource_turn_mention_vocal_ridge_toe
+bip_39_word_underscore_7: resource_turn_mention_vocal_ridge_toe_lawsuit
+bip_39_word_underscore_8: resource_turn_mention_vocal_ridge_toe_lawsuit_where
+bip_39_word_underscore_9: resource_turn_mention_vocal_ridge_toe_lawsuit_where_present
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

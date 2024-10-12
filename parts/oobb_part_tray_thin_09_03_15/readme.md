@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | forget |  
+| bip_39_word_dash_10 | forget-original-sibling-wage-client-then-evil-bamboo-sense-wire |  
+| bip_39_word_dash_11 | forget-original-sibling-wage-client-then-evil-bamboo-sense-wire-twice |  
+| bip_39_word_dash_12 | forget-original-sibling-wage-client-then-evil-bamboo-sense-wire-twice-antenna |  
+| bip_39_word_dash_2 | forget-original |  
+| bip_39_word_dash_3 | forget-original-sibling |  
+| bip_39_word_dash_4 | forget-original-sibling-wage |  
+| bip_39_word_dash_5 | forget-original-sibling-wage-client |  
+| bip_39_word_dash_6 | forget-original-sibling-wage-client-then |  
+| bip_39_word_dash_7 | forget-original-sibling-wage-client-then-evil |  
+| bip_39_word_dash_8 | forget-original-sibling-wage-client-then-evil-bamboo |  
+| bip_39_word_dash_9 | forget-original-sibling-wage-client-then-evil-bamboo-sense |  
 | bip_39_word_new_br_1 | forget |  
 | bip_39_word_new_br_10 | forget<br>original<br>sibling<br>wage<br>client<br>then<br>evil<br>bamboo<br>sense<br>wire |  
 | bip_39_word_new_br_11 | forget<br>original<br>sibling<br>wage<br>client<br>then<br>evil<br>bamboo<br>sense<br>wire<br>twice |  
@@ -147,6 +159,18 @@ sense |
 | bip_39_word_space_7 | forget original sibling wage client then evil |  
 | bip_39_word_space_8 | forget original sibling wage client then evil bamboo |  
 | bip_39_word_space_9 | forget original sibling wage client then evil bamboo sense |  
+| bip_39_word_underscore_1 | forget |  
+| bip_39_word_underscore_10 | forget_original_sibling_wage_client_then_evil_bamboo_sense_wire |  
+| bip_39_word_underscore_11 | forget_original_sibling_wage_client_then_evil_bamboo_sense_wire_twice |  
+| bip_39_word_underscore_12 | forget_original_sibling_wage_client_then_evil_bamboo_sense_wire_twice_antenna |  
+| bip_39_word_underscore_2 | forget_original |  
+| bip_39_word_underscore_3 | forget_original_sibling |  
+| bip_39_word_underscore_4 | forget_original_sibling_wage |  
+| bip_39_word_underscore_5 | forget_original_sibling_wage_client |  
+| bip_39_word_underscore_6 | forget_original_sibling_wage_client_then |  
+| bip_39_word_underscore_7 | forget_original_sibling_wage_client_then_evil |  
+| bip_39_word_underscore_8 | forget_original_sibling_wage_client_then_evil_bamboo |  
+| bip_39_word_underscore_9 | forget_original_sibling_wage_client_then_evil_bamboo_sense |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

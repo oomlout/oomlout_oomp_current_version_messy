@@ -1,3 +1,15 @@
+bip_39_word_dash_1: climb
+bip_39_word_dash_10: climb-tribe-glance-nut-web-picnic-drip-wheel-ticket-forest
+bip_39_word_dash_11: climb-tribe-glance-nut-web-picnic-drip-wheel-ticket-forest-undo
+bip_39_word_dash_12: climb-tribe-glance-nut-web-picnic-drip-wheel-ticket-forest-undo-aerobic
+bip_39_word_dash_2: climb-tribe
+bip_39_word_dash_3: climb-tribe-glance
+bip_39_word_dash_4: climb-tribe-glance-nut
+bip_39_word_dash_5: climb-tribe-glance-nut-web
+bip_39_word_dash_6: climb-tribe-glance-nut-web-picnic
+bip_39_word_dash_7: climb-tribe-glance-nut-web-picnic-drip
+bip_39_word_dash_8: climb-tribe-glance-nut-web-picnic-drip-wheel
+bip_39_word_dash_9: climb-tribe-glance-nut-web-picnic-drip-wheel-ticket
 bip_39_word_new_br_1: climb
 bip_39_word_new_br_10: climb<br>tribe<br>glance<br>nut<br>web<br>picnic<br>drip<br>wheel<br>ticket<br>forest
 bip_39_word_new_br_11: climb<br>tribe<br>glance<br>nut<br>web<br>picnic<br>drip<br>wheel<br>ticket<br>forest<br>undo
@@ -192,6 +204,18 @@ bip_39_word_space_6: climb tribe glance nut web picnic
 bip_39_word_space_7: climb tribe glance nut web picnic drip
 bip_39_word_space_8: climb tribe glance nut web picnic drip wheel
 bip_39_word_space_9: climb tribe glance nut web picnic drip wheel ticket
+bip_39_word_underscore_1: climb
+bip_39_word_underscore_10: climb_tribe_glance_nut_web_picnic_drip_wheel_ticket_forest
+bip_39_word_underscore_11: climb_tribe_glance_nut_web_picnic_drip_wheel_ticket_forest_undo
+bip_39_word_underscore_12: climb_tribe_glance_nut_web_picnic_drip_wheel_ticket_forest_undo_aerobic
+bip_39_word_underscore_2: climb_tribe
+bip_39_word_underscore_3: climb_tribe_glance
+bip_39_word_underscore_4: climb_tribe_glance_nut
+bip_39_word_underscore_5: climb_tribe_glance_nut_web
+bip_39_word_underscore_6: climb_tribe_glance_nut_web_picnic
+bip_39_word_underscore_7: climb_tribe_glance_nut_web_picnic_drip
+bip_39_word_underscore_8: climb_tribe_glance_nut_web_picnic_drip_wheel
+bip_39_word_underscore_9: climb_tribe_glance_nut_web_picnic_drip_wheel_ticket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

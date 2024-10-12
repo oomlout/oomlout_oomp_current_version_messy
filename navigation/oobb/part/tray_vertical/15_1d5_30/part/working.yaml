@@ -1,3 +1,15 @@
+bip_39_word_dash_1: plastic
+bip_39_word_dash_10: plastic-sting-inquiry-wing-swarm-twelve-search-portion-print-album
+bip_39_word_dash_11: plastic-sting-inquiry-wing-swarm-twelve-search-portion-print-album-maze
+bip_39_word_dash_12: plastic-sting-inquiry-wing-swarm-twelve-search-portion-print-album-maze-alien
+bip_39_word_dash_2: plastic-sting
+bip_39_word_dash_3: plastic-sting-inquiry
+bip_39_word_dash_4: plastic-sting-inquiry-wing
+bip_39_word_dash_5: plastic-sting-inquiry-wing-swarm
+bip_39_word_dash_6: plastic-sting-inquiry-wing-swarm-twelve
+bip_39_word_dash_7: plastic-sting-inquiry-wing-swarm-twelve-search
+bip_39_word_dash_8: plastic-sting-inquiry-wing-swarm-twelve-search-portion
+bip_39_word_dash_9: plastic-sting-inquiry-wing-swarm-twelve-search-portion-print
 bip_39_word_new_br_1: plastic
 bip_39_word_new_br_10: plastic<br>sting<br>inquiry<br>wing<br>swarm<br>twelve<br>search<br>portion<br>print<br>album
 bip_39_word_new_br_11: plastic<br>sting<br>inquiry<br>wing<br>swarm<br>twelve<br>search<br>portion<br>print<br>album<br>maze
@@ -194,6 +206,18 @@ bip_39_word_space_6: plastic sting inquiry wing swarm twelve
 bip_39_word_space_7: plastic sting inquiry wing swarm twelve search
 bip_39_word_space_8: plastic sting inquiry wing swarm twelve search portion
 bip_39_word_space_9: plastic sting inquiry wing swarm twelve search portion print
+bip_39_word_underscore_1: plastic
+bip_39_word_underscore_10: plastic_sting_inquiry_wing_swarm_twelve_search_portion_print_album
+bip_39_word_underscore_11: plastic_sting_inquiry_wing_swarm_twelve_search_portion_print_album_maze
+bip_39_word_underscore_12: plastic_sting_inquiry_wing_swarm_twelve_search_portion_print_album_maze_alien
+bip_39_word_underscore_2: plastic_sting
+bip_39_word_underscore_3: plastic_sting_inquiry
+bip_39_word_underscore_4: plastic_sting_inquiry_wing
+bip_39_word_underscore_5: plastic_sting_inquiry_wing_swarm
+bip_39_word_underscore_6: plastic_sting_inquiry_wing_swarm_twelve
+bip_39_word_underscore_7: plastic_sting_inquiry_wing_swarm_twelve_search
+bip_39_word_underscore_8: plastic_sting_inquiry_wing_swarm_twelve_search_portion
+bip_39_word_underscore_9: plastic_sting_inquiry_wing_swarm_twelve_search_portion_print
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

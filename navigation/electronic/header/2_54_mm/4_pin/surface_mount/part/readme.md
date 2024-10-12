@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | law |  
+| bip_39_word_dash_10 | law-indicate-prosper-rebel-carry-dice-hero-sausage-captain-alien |  
+| bip_39_word_dash_11 | law-indicate-prosper-rebel-carry-dice-hero-sausage-captain-alien-adapt |  
+| bip_39_word_dash_12 | law-indicate-prosper-rebel-carry-dice-hero-sausage-captain-alien-adapt-amused |  
+| bip_39_word_dash_2 | law-indicate |  
+| bip_39_word_dash_3 | law-indicate-prosper |  
+| bip_39_word_dash_4 | law-indicate-prosper-rebel |  
+| bip_39_word_dash_5 | law-indicate-prosper-rebel-carry |  
+| bip_39_word_dash_6 | law-indicate-prosper-rebel-carry-dice |  
+| bip_39_word_dash_7 | law-indicate-prosper-rebel-carry-dice-hero |  
+| bip_39_word_dash_8 | law-indicate-prosper-rebel-carry-dice-hero-sausage |  
+| bip_39_word_dash_9 | law-indicate-prosper-rebel-carry-dice-hero-sausage-captain |  
 | bip_39_word_new_br_1 | law |  
 | bip_39_word_new_br_10 | law<br>indicate<br>prosper<br>rebel<br>carry<br>dice<br>hero<br>sausage<br>captain<br>alien |  
 | bip_39_word_new_br_11 | law<br>indicate<br>prosper<br>rebel<br>carry<br>dice<br>hero<br>sausage<br>captain<br>alien<br>adapt |  
@@ -147,6 +159,18 @@ captain |
 | bip_39_word_space_7 | law indicate prosper rebel carry dice hero |  
 | bip_39_word_space_8 | law indicate prosper rebel carry dice hero sausage |  
 | bip_39_word_space_9 | law indicate prosper rebel carry dice hero sausage captain |  
+| bip_39_word_underscore_1 | law |  
+| bip_39_word_underscore_10 | law_indicate_prosper_rebel_carry_dice_hero_sausage_captain_alien |  
+| bip_39_word_underscore_11 | law_indicate_prosper_rebel_carry_dice_hero_sausage_captain_alien_adapt |  
+| bip_39_word_underscore_12 | law_indicate_prosper_rebel_carry_dice_hero_sausage_captain_alien_adapt_amused |  
+| bip_39_word_underscore_2 | law_indicate |  
+| bip_39_word_underscore_3 | law_indicate_prosper |  
+| bip_39_word_underscore_4 | law_indicate_prosper_rebel |  
+| bip_39_word_underscore_5 | law_indicate_prosper_rebel_carry |  
+| bip_39_word_underscore_6 | law_indicate_prosper_rebel_carry_dice |  
+| bip_39_word_underscore_7 | law_indicate_prosper_rebel_carry_dice_hero |  
+| bip_39_word_underscore_8 | law_indicate_prosper_rebel_carry_dice_hero_sausage |  
+| bip_39_word_underscore_9 | law_indicate_prosper_rebel_carry_dice_hero_sausage_captain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: walnut
+bip_39_word_dash_10: walnut-moral-caution-retreat-treat-plastic-region-rule-damage-design
+bip_39_word_dash_11: walnut-moral-caution-retreat-treat-plastic-region-rule-damage-design-delay
+bip_39_word_dash_12: walnut-moral-caution-retreat-treat-plastic-region-rule-damage-design-delay-around
+bip_39_word_dash_2: walnut-moral
+bip_39_word_dash_3: walnut-moral-caution
+bip_39_word_dash_4: walnut-moral-caution-retreat
+bip_39_word_dash_5: walnut-moral-caution-retreat-treat
+bip_39_word_dash_6: walnut-moral-caution-retreat-treat-plastic
+bip_39_word_dash_7: walnut-moral-caution-retreat-treat-plastic-region
+bip_39_word_dash_8: walnut-moral-caution-retreat-treat-plastic-region-rule
+bip_39_word_dash_9: walnut-moral-caution-retreat-treat-plastic-region-rule-damage
 bip_39_word_new_br_1: walnut
 bip_39_word_new_br_10: walnut<br>moral<br>caution<br>retreat<br>treat<br>plastic<br>region<br>rule<br>damage<br>design
 bip_39_word_new_br_11: walnut<br>moral<br>caution<br>retreat<br>treat<br>plastic<br>region<br>rule<br>damage<br>design<br>delay
@@ -194,6 +206,18 @@ bip_39_word_space_6: walnut moral caution retreat treat plastic
 bip_39_word_space_7: walnut moral caution retreat treat plastic region
 bip_39_word_space_8: walnut moral caution retreat treat plastic region rule
 bip_39_word_space_9: walnut moral caution retreat treat plastic region rule damage
+bip_39_word_underscore_1: walnut
+bip_39_word_underscore_10: walnut_moral_caution_retreat_treat_plastic_region_rule_damage_design
+bip_39_word_underscore_11: walnut_moral_caution_retreat_treat_plastic_region_rule_damage_design_delay
+bip_39_word_underscore_12: walnut_moral_caution_retreat_treat_plastic_region_rule_damage_design_delay_around
+bip_39_word_underscore_2: walnut_moral
+bip_39_word_underscore_3: walnut_moral_caution
+bip_39_word_underscore_4: walnut_moral_caution_retreat
+bip_39_word_underscore_5: walnut_moral_caution_retreat_treat
+bip_39_word_underscore_6: walnut_moral_caution_retreat_treat_plastic
+bip_39_word_underscore_7: walnut_moral_caution_retreat_treat_plastic_region
+bip_39_word_underscore_8: walnut_moral_caution_retreat_treat_plastic_region_rule
+bip_39_word_underscore_9: walnut_moral_caution_retreat_treat_plastic_region_rule_damage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

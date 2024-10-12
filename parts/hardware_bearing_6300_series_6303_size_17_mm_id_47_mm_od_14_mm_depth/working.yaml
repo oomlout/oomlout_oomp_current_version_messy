@@ -1,3 +1,15 @@
+bip_39_word_dash_1: satoshi
+bip_39_word_dash_10: satoshi-blind-sniff-snake-current-thunder-robust-village-net-polar
+bip_39_word_dash_11: satoshi-blind-sniff-snake-current-thunder-robust-village-net-polar-valve
+bip_39_word_dash_12: satoshi-blind-sniff-snake-current-thunder-robust-village-net-polar-valve-alpha
+bip_39_word_dash_2: satoshi-blind
+bip_39_word_dash_3: satoshi-blind-sniff
+bip_39_word_dash_4: satoshi-blind-sniff-snake
+bip_39_word_dash_5: satoshi-blind-sniff-snake-current
+bip_39_word_dash_6: satoshi-blind-sniff-snake-current-thunder
+bip_39_word_dash_7: satoshi-blind-sniff-snake-current-thunder-robust
+bip_39_word_dash_8: satoshi-blind-sniff-snake-current-thunder-robust-village
+bip_39_word_dash_9: satoshi-blind-sniff-snake-current-thunder-robust-village-net
 bip_39_word_new_br_1: satoshi
 bip_39_word_new_br_10: satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village<br>net<br>polar
 bip_39_word_new_br_11: satoshi<br>blind<br>sniff<br>snake<br>current<br>thunder<br>robust<br>village<br>net<br>polar<br>valve
@@ -194,6 +206,18 @@ bip_39_word_space_6: satoshi blind sniff snake current thunder
 bip_39_word_space_7: satoshi blind sniff snake current thunder robust
 bip_39_word_space_8: satoshi blind sniff snake current thunder robust village
 bip_39_word_space_9: satoshi blind sniff snake current thunder robust village net
+bip_39_word_underscore_1: satoshi
+bip_39_word_underscore_10: satoshi_blind_sniff_snake_current_thunder_robust_village_net_polar
+bip_39_word_underscore_11: satoshi_blind_sniff_snake_current_thunder_robust_village_net_polar_valve
+bip_39_word_underscore_12: satoshi_blind_sniff_snake_current_thunder_robust_village_net_polar_valve_alpha
+bip_39_word_underscore_2: satoshi_blind
+bip_39_word_underscore_3: satoshi_blind_sniff
+bip_39_word_underscore_4: satoshi_blind_sniff_snake
+bip_39_word_underscore_5: satoshi_blind_sniff_snake_current
+bip_39_word_underscore_6: satoshi_blind_sniff_snake_current_thunder
+bip_39_word_underscore_7: satoshi_blind_sniff_snake_current_thunder_robust
+bip_39_word_underscore_8: satoshi_blind_sniff_snake_current_thunder_robust_village
+bip_39_word_underscore_9: satoshi_blind_sniff_snake_current_thunder_robust_village_net
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

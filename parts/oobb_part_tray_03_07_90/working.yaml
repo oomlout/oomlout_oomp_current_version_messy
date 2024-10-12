@@ -1,3 +1,15 @@
+bip_39_word_dash_1: expect
+bip_39_word_dash_10: expect-rate-wolf-repair-increase-fall-divorce-monitor-illness-crowd
+bip_39_word_dash_11: expect-rate-wolf-repair-increase-fall-divorce-monitor-illness-crowd-choice
+bip_39_word_dash_12: expect-rate-wolf-repair-increase-fall-divorce-monitor-illness-crowd-choice-asset
+bip_39_word_dash_2: expect-rate
+bip_39_word_dash_3: expect-rate-wolf
+bip_39_word_dash_4: expect-rate-wolf-repair
+bip_39_word_dash_5: expect-rate-wolf-repair-increase
+bip_39_word_dash_6: expect-rate-wolf-repair-increase-fall
+bip_39_word_dash_7: expect-rate-wolf-repair-increase-fall-divorce
+bip_39_word_dash_8: expect-rate-wolf-repair-increase-fall-divorce-monitor
+bip_39_word_dash_9: expect-rate-wolf-repair-increase-fall-divorce-monitor-illness
 bip_39_word_new_br_1: expect
 bip_39_word_new_br_10: expect<br>rate<br>wolf<br>repair<br>increase<br>fall<br>divorce<br>monitor<br>illness<br>crowd
 bip_39_word_new_br_11: expect<br>rate<br>wolf<br>repair<br>increase<br>fall<br>divorce<br>monitor<br>illness<br>crowd<br>choice
@@ -194,6 +206,18 @@ bip_39_word_space_6: expect rate wolf repair increase fall
 bip_39_word_space_7: expect rate wolf repair increase fall divorce
 bip_39_word_space_8: expect rate wolf repair increase fall divorce monitor
 bip_39_word_space_9: expect rate wolf repair increase fall divorce monitor illness
+bip_39_word_underscore_1: expect
+bip_39_word_underscore_10: expect_rate_wolf_repair_increase_fall_divorce_monitor_illness_crowd
+bip_39_word_underscore_11: expect_rate_wolf_repair_increase_fall_divorce_monitor_illness_crowd_choice
+bip_39_word_underscore_12: expect_rate_wolf_repair_increase_fall_divorce_monitor_illness_crowd_choice_asset
+bip_39_word_underscore_2: expect_rate
+bip_39_word_underscore_3: expect_rate_wolf
+bip_39_word_underscore_4: expect_rate_wolf_repair
+bip_39_word_underscore_5: expect_rate_wolf_repair_increase
+bip_39_word_underscore_6: expect_rate_wolf_repair_increase_fall
+bip_39_word_underscore_7: expect_rate_wolf_repair_increase_fall_divorce
+bip_39_word_underscore_8: expect_rate_wolf_repair_increase_fall_divorce_monitor
+bip_39_word_underscore_9: expect_rate_wolf_repair_increase_fall_divorce_monitor_illness
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

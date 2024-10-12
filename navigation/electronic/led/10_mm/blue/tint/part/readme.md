@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | space |  
+| bip_39_word_dash_10 | space-vacant-siege-speed-category-define-attract-dismiss-combine-average |  
+| bip_39_word_dash_11 | space-vacant-siege-speed-category-define-attract-dismiss-combine-average-lawn |  
+| bip_39_word_dash_12 | space-vacant-siege-speed-category-define-attract-dismiss-combine-average-lawn-art |  
+| bip_39_word_dash_2 | space-vacant |  
+| bip_39_word_dash_3 | space-vacant-siege |  
+| bip_39_word_dash_4 | space-vacant-siege-speed |  
+| bip_39_word_dash_5 | space-vacant-siege-speed-category |  
+| bip_39_word_dash_6 | space-vacant-siege-speed-category-define |  
+| bip_39_word_dash_7 | space-vacant-siege-speed-category-define-attract |  
+| bip_39_word_dash_8 | space-vacant-siege-speed-category-define-attract-dismiss |  
+| bip_39_word_dash_9 | space-vacant-siege-speed-category-define-attract-dismiss-combine |  
 | bip_39_word_new_br_1 | space |  
 | bip_39_word_new_br_10 | space<br>vacant<br>siege<br>speed<br>category<br>define<br>attract<br>dismiss<br>combine<br>average |  
 | bip_39_word_new_br_11 | space<br>vacant<br>siege<br>speed<br>category<br>define<br>attract<br>dismiss<br>combine<br>average<br>lawn |  
@@ -147,6 +159,18 @@ combine |
 | bip_39_word_space_7 | space vacant siege speed category define attract |  
 | bip_39_word_space_8 | space vacant siege speed category define attract dismiss |  
 | bip_39_word_space_9 | space vacant siege speed category define attract dismiss combine |  
+| bip_39_word_underscore_1 | space |  
+| bip_39_word_underscore_10 | space_vacant_siege_speed_category_define_attract_dismiss_combine_average |  
+| bip_39_word_underscore_11 | space_vacant_siege_speed_category_define_attract_dismiss_combine_average_lawn |  
+| bip_39_word_underscore_12 | space_vacant_siege_speed_category_define_attract_dismiss_combine_average_lawn_art |  
+| bip_39_word_underscore_2 | space_vacant |  
+| bip_39_word_underscore_3 | space_vacant_siege |  
+| bip_39_word_underscore_4 | space_vacant_siege_speed |  
+| bip_39_word_underscore_5 | space_vacant_siege_speed_category |  
+| bip_39_word_underscore_6 | space_vacant_siege_speed_category_define |  
+| bip_39_word_underscore_7 | space_vacant_siege_speed_category_define_attract |  
+| bip_39_word_underscore_8 | space_vacant_siege_speed_category_define_attract_dismiss |  
+| bip_39_word_underscore_9 | space_vacant_siege_speed_category_define_attract_dismiss_combine |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

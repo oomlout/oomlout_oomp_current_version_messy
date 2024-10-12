@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enrich |  
+| bip_39_word_dash_10 | enrich-title-drum-glow-phone-design-fox-zebra-gain-pistol |  
+| bip_39_word_dash_11 | enrich-title-drum-glow-phone-design-fox-zebra-gain-pistol-fabric |  
+| bip_39_word_dash_12 | enrich-title-drum-glow-phone-design-fox-zebra-gain-pistol-fabric-annual |  
+| bip_39_word_dash_2 | enrich-title |  
+| bip_39_word_dash_3 | enrich-title-drum |  
+| bip_39_word_dash_4 | enrich-title-drum-glow |  
+| bip_39_word_dash_5 | enrich-title-drum-glow-phone |  
+| bip_39_word_dash_6 | enrich-title-drum-glow-phone-design |  
+| bip_39_word_dash_7 | enrich-title-drum-glow-phone-design-fox |  
+| bip_39_word_dash_8 | enrich-title-drum-glow-phone-design-fox-zebra |  
+| bip_39_word_dash_9 | enrich-title-drum-glow-phone-design-fox-zebra-gain |  
 | bip_39_word_new_br_1 | enrich |  
 | bip_39_word_new_br_10 | enrich<br>title<br>drum<br>glow<br>phone<br>design<br>fox<br>zebra<br>gain<br>pistol |  
 | bip_39_word_new_br_11 | enrich<br>title<br>drum<br>glow<br>phone<br>design<br>fox<br>zebra<br>gain<br>pistol<br>fabric |  
@@ -147,6 +159,18 @@ gain |
 | bip_39_word_space_7 | enrich title drum glow phone design fox |  
 | bip_39_word_space_8 | enrich title drum glow phone design fox zebra |  
 | bip_39_word_space_9 | enrich title drum glow phone design fox zebra gain |  
+| bip_39_word_underscore_1 | enrich |  
+| bip_39_word_underscore_10 | enrich_title_drum_glow_phone_design_fox_zebra_gain_pistol |  
+| bip_39_word_underscore_11 | enrich_title_drum_glow_phone_design_fox_zebra_gain_pistol_fabric |  
+| bip_39_word_underscore_12 | enrich_title_drum_glow_phone_design_fox_zebra_gain_pistol_fabric_annual |  
+| bip_39_word_underscore_2 | enrich_title |  
+| bip_39_word_underscore_3 | enrich_title_drum |  
+| bip_39_word_underscore_4 | enrich_title_drum_glow |  
+| bip_39_word_underscore_5 | enrich_title_drum_glow_phone |  
+| bip_39_word_underscore_6 | enrich_title_drum_glow_phone_design |  
+| bip_39_word_underscore_7 | enrich_title_drum_glow_phone_design_fox |  
+| bip_39_word_underscore_8 | enrich_title_drum_glow_phone_design_fox_zebra |  
+| bip_39_word_underscore_9 | enrich_title_drum_glow_phone_design_fox_zebra_gain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

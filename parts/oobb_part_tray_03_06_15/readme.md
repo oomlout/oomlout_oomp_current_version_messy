@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | habit |  
+| bip_39_word_dash_10 | habit-sibling-piece-noodle-blood-various-salt-bleak-animal-jungle |  
+| bip_39_word_dash_11 | habit-sibling-piece-noodle-blood-various-salt-bleak-animal-jungle-motor |  
+| bip_39_word_dash_12 | habit-sibling-piece-noodle-blood-various-salt-bleak-animal-jungle-motor-athlete |  
+| bip_39_word_dash_2 | habit-sibling |  
+| bip_39_word_dash_3 | habit-sibling-piece |  
+| bip_39_word_dash_4 | habit-sibling-piece-noodle |  
+| bip_39_word_dash_5 | habit-sibling-piece-noodle-blood |  
+| bip_39_word_dash_6 | habit-sibling-piece-noodle-blood-various |  
+| bip_39_word_dash_7 | habit-sibling-piece-noodle-blood-various-salt |  
+| bip_39_word_dash_8 | habit-sibling-piece-noodle-blood-various-salt-bleak |  
+| bip_39_word_dash_9 | habit-sibling-piece-noodle-blood-various-salt-bleak-animal |  
 | bip_39_word_new_br_1 | habit |  
 | bip_39_word_new_br_10 | habit<br>sibling<br>piece<br>noodle<br>blood<br>various<br>salt<br>bleak<br>animal<br>jungle |  
 | bip_39_word_new_br_11 | habit<br>sibling<br>piece<br>noodle<br>blood<br>various<br>salt<br>bleak<br>animal<br>jungle<br>motor |  
@@ -147,6 +159,18 @@ animal |
 | bip_39_word_space_7 | habit sibling piece noodle blood various salt |  
 | bip_39_word_space_8 | habit sibling piece noodle blood various salt bleak |  
 | bip_39_word_space_9 | habit sibling piece noodle blood various salt bleak animal |  
+| bip_39_word_underscore_1 | habit |  
+| bip_39_word_underscore_10 | habit_sibling_piece_noodle_blood_various_salt_bleak_animal_jungle |  
+| bip_39_word_underscore_11 | habit_sibling_piece_noodle_blood_various_salt_bleak_animal_jungle_motor |  
+| bip_39_word_underscore_12 | habit_sibling_piece_noodle_blood_various_salt_bleak_animal_jungle_motor_athlete |  
+| bip_39_word_underscore_2 | habit_sibling |  
+| bip_39_word_underscore_3 | habit_sibling_piece |  
+| bip_39_word_underscore_4 | habit_sibling_piece_noodle |  
+| bip_39_word_underscore_5 | habit_sibling_piece_noodle_blood |  
+| bip_39_word_underscore_6 | habit_sibling_piece_noodle_blood_various |  
+| bip_39_word_underscore_7 | habit_sibling_piece_noodle_blood_various_salt |  
+| bip_39_word_underscore_8 | habit_sibling_piece_noodle_blood_various_salt_bleak |  
+| bip_39_word_underscore_9 | habit_sibling_piece_noodle_blood_various_salt_bleak_animal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scan |  
+| bip_39_word_dash_10 | scan-move-swift-satoshi-install-estate-clever-suffer-parent-harbor |  
+| bip_39_word_dash_11 | scan-move-swift-satoshi-install-estate-clever-suffer-parent-harbor-whale |  
+| bip_39_word_dash_12 | scan-move-swift-satoshi-install-estate-clever-suffer-parent-harbor-whale-ankle |  
+| bip_39_word_dash_2 | scan-move |  
+| bip_39_word_dash_3 | scan-move-swift |  
+| bip_39_word_dash_4 | scan-move-swift-satoshi |  
+| bip_39_word_dash_5 | scan-move-swift-satoshi-install |  
+| bip_39_word_dash_6 | scan-move-swift-satoshi-install-estate |  
+| bip_39_word_dash_7 | scan-move-swift-satoshi-install-estate-clever |  
+| bip_39_word_dash_8 | scan-move-swift-satoshi-install-estate-clever-suffer |  
+| bip_39_word_dash_9 | scan-move-swift-satoshi-install-estate-clever-suffer-parent |  
 | bip_39_word_new_br_1 | scan |  
 | bip_39_word_new_br_10 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer<br>parent<br>harbor |  
 | bip_39_word_new_br_11 | scan<br>move<br>swift<br>satoshi<br>install<br>estate<br>clever<br>suffer<br>parent<br>harbor<br>whale |  
@@ -147,6 +159,18 @@ parent |
 | bip_39_word_space_7 | scan move swift satoshi install estate clever |  
 | bip_39_word_space_8 | scan move swift satoshi install estate clever suffer |  
 | bip_39_word_space_9 | scan move swift satoshi install estate clever suffer parent |  
+| bip_39_word_underscore_1 | scan |  
+| bip_39_word_underscore_10 | scan_move_swift_satoshi_install_estate_clever_suffer_parent_harbor |  
+| bip_39_word_underscore_11 | scan_move_swift_satoshi_install_estate_clever_suffer_parent_harbor_whale |  
+| bip_39_word_underscore_12 | scan_move_swift_satoshi_install_estate_clever_suffer_parent_harbor_whale_ankle |  
+| bip_39_word_underscore_2 | scan_move |  
+| bip_39_word_underscore_3 | scan_move_swift |  
+| bip_39_word_underscore_4 | scan_move_swift_satoshi |  
+| bip_39_word_underscore_5 | scan_move_swift_satoshi_install |  
+| bip_39_word_underscore_6 | scan_move_swift_satoshi_install_estate |  
+| bip_39_word_underscore_7 | scan_move_swift_satoshi_install_estate_clever |  
+| bip_39_word_underscore_8 | scan_move_swift_satoshi_install_estate_clever_suffer |  
+| bip_39_word_underscore_9 | scan_move_swift_satoshi_install_estate_clever_suffer_parent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

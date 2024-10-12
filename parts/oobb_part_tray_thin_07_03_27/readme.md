@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dove |  
+| bip_39_word_dash_10 | dove-slogan-team-april-step-any-neutral-flush-solar-flush |  
+| bip_39_word_dash_11 | dove-slogan-team-april-step-any-neutral-flush-solar-flush-huge |  
+| bip_39_word_dash_12 | dove-slogan-team-april-step-any-neutral-flush-solar-flush-huge-arena |  
+| bip_39_word_dash_2 | dove-slogan |  
+| bip_39_word_dash_3 | dove-slogan-team |  
+| bip_39_word_dash_4 | dove-slogan-team-april |  
+| bip_39_word_dash_5 | dove-slogan-team-april-step |  
+| bip_39_word_dash_6 | dove-slogan-team-april-step-any |  
+| bip_39_word_dash_7 | dove-slogan-team-april-step-any-neutral |  
+| bip_39_word_dash_8 | dove-slogan-team-april-step-any-neutral-flush |  
+| bip_39_word_dash_9 | dove-slogan-team-april-step-any-neutral-flush-solar |  
 | bip_39_word_new_br_1 | dove |  
 | bip_39_word_new_br_10 | dove<br>slogan<br>team<br>april<br>step<br>any<br>neutral<br>flush<br>solar<br>flush |  
 | bip_39_word_new_br_11 | dove<br>slogan<br>team<br>april<br>step<br>any<br>neutral<br>flush<br>solar<br>flush<br>huge |  
@@ -147,6 +159,18 @@ solar |
 | bip_39_word_space_7 | dove slogan team april step any neutral |  
 | bip_39_word_space_8 | dove slogan team april step any neutral flush |  
 | bip_39_word_space_9 | dove slogan team april step any neutral flush solar |  
+| bip_39_word_underscore_1 | dove |  
+| bip_39_word_underscore_10 | dove_slogan_team_april_step_any_neutral_flush_solar_flush |  
+| bip_39_word_underscore_11 | dove_slogan_team_april_step_any_neutral_flush_solar_flush_huge |  
+| bip_39_word_underscore_12 | dove_slogan_team_april_step_any_neutral_flush_solar_flush_huge_arena |  
+| bip_39_word_underscore_2 | dove_slogan |  
+| bip_39_word_underscore_3 | dove_slogan_team |  
+| bip_39_word_underscore_4 | dove_slogan_team_april |  
+| bip_39_word_underscore_5 | dove_slogan_team_april_step |  
+| bip_39_word_underscore_6 | dove_slogan_team_april_step_any |  
+| bip_39_word_underscore_7 | dove_slogan_team_april_step_any_neutral |  
+| bip_39_word_underscore_8 | dove_slogan_team_april_step_any_neutral_flush |  
+| bip_39_word_underscore_9 | dove_slogan_team_april_step_any_neutral_flush_solar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

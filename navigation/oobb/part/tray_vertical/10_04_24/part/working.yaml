@@ -1,3 +1,15 @@
+bip_39_word_dash_1: artefact
+bip_39_word_dash_10: artefact-female-voyage-easy-umbrella-zone-antenna-damp-diamond-siege
+bip_39_word_dash_11: artefact-female-voyage-easy-umbrella-zone-antenna-damp-diamond-siege-canal
+bip_39_word_dash_12: artefact-female-voyage-easy-umbrella-zone-antenna-damp-diamond-siege-canal-absorb
+bip_39_word_dash_2: artefact-female
+bip_39_word_dash_3: artefact-female-voyage
+bip_39_word_dash_4: artefact-female-voyage-easy
+bip_39_word_dash_5: artefact-female-voyage-easy-umbrella
+bip_39_word_dash_6: artefact-female-voyage-easy-umbrella-zone
+bip_39_word_dash_7: artefact-female-voyage-easy-umbrella-zone-antenna
+bip_39_word_dash_8: artefact-female-voyage-easy-umbrella-zone-antenna-damp
+bip_39_word_dash_9: artefact-female-voyage-easy-umbrella-zone-antenna-damp-diamond
 bip_39_word_new_br_1: artefact
 bip_39_word_new_br_10: artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp<br>diamond<br>siege
 bip_39_word_new_br_11: artefact<br>female<br>voyage<br>easy<br>umbrella<br>zone<br>antenna<br>damp<br>diamond<br>siege<br>canal
@@ -194,6 +206,18 @@ bip_39_word_space_6: artefact female voyage easy umbrella zone
 bip_39_word_space_7: artefact female voyage easy umbrella zone antenna
 bip_39_word_space_8: artefact female voyage easy umbrella zone antenna damp
 bip_39_word_space_9: artefact female voyage easy umbrella zone antenna damp diamond
+bip_39_word_underscore_1: artefact
+bip_39_word_underscore_10: artefact_female_voyage_easy_umbrella_zone_antenna_damp_diamond_siege
+bip_39_word_underscore_11: artefact_female_voyage_easy_umbrella_zone_antenna_damp_diamond_siege_canal
+bip_39_word_underscore_12: artefact_female_voyage_easy_umbrella_zone_antenna_damp_diamond_siege_canal_absorb
+bip_39_word_underscore_2: artefact_female
+bip_39_word_underscore_3: artefact_female_voyage
+bip_39_word_underscore_4: artefact_female_voyage_easy
+bip_39_word_underscore_5: artefact_female_voyage_easy_umbrella
+bip_39_word_underscore_6: artefact_female_voyage_easy_umbrella_zone
+bip_39_word_underscore_7: artefact_female_voyage_easy_umbrella_zone_antenna
+bip_39_word_underscore_8: artefact_female_voyage_easy_umbrella_zone_antenna_damp
+bip_39_word_underscore_9: artefact_female_voyage_easy_umbrella_zone_antenna_damp_diamond
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

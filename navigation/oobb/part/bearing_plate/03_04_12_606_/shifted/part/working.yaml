@@ -1,3 +1,15 @@
+bip_39_word_dash_1: world
+bip_39_word_dash_10: world-clock-bag-faint-spring-chimney-express-judge-need-iron
+bip_39_word_dash_11: world-clock-bag-faint-spring-chimney-express-judge-need-iron-bench
+bip_39_word_dash_12: world-clock-bag-faint-spring-chimney-express-judge-need-iron-bench-apart
+bip_39_word_dash_2: world-clock
+bip_39_word_dash_3: world-clock-bag
+bip_39_word_dash_4: world-clock-bag-faint
+bip_39_word_dash_5: world-clock-bag-faint-spring
+bip_39_word_dash_6: world-clock-bag-faint-spring-chimney
+bip_39_word_dash_7: world-clock-bag-faint-spring-chimney-express
+bip_39_word_dash_8: world-clock-bag-faint-spring-chimney-express-judge
+bip_39_word_dash_9: world-clock-bag-faint-spring-chimney-express-judge-need
 bip_39_word_new_br_1: world
 bip_39_word_new_br_10: world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge<br>need<br>iron
 bip_39_word_new_br_11: world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge<br>need<br>iron<br>bench
@@ -193,6 +205,18 @@ bip_39_word_space_6: world clock bag faint spring chimney
 bip_39_word_space_7: world clock bag faint spring chimney express
 bip_39_word_space_8: world clock bag faint spring chimney express judge
 bip_39_word_space_9: world clock bag faint spring chimney express judge need
+bip_39_word_underscore_1: world
+bip_39_word_underscore_10: world_clock_bag_faint_spring_chimney_express_judge_need_iron
+bip_39_word_underscore_11: world_clock_bag_faint_spring_chimney_express_judge_need_iron_bench
+bip_39_word_underscore_12: world_clock_bag_faint_spring_chimney_express_judge_need_iron_bench_apart
+bip_39_word_underscore_2: world_clock
+bip_39_word_underscore_3: world_clock_bag
+bip_39_word_underscore_4: world_clock_bag_faint
+bip_39_word_underscore_5: world_clock_bag_faint_spring
+bip_39_word_underscore_6: world_clock_bag_faint_spring_chimney
+bip_39_word_underscore_7: world_clock_bag_faint_spring_chimney_express
+bip_39_word_underscore_8: world_clock_bag_faint_spring_chimney_express_judge
+bip_39_word_underscore_9: world_clock_bag_faint_spring_chimney_express_judge_need
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

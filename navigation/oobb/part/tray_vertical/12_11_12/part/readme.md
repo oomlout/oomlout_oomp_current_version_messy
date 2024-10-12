@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assume |  
+| bip_39_word_dash_10 | assume-force-amazing-lawn-gauge-print-marriage-shield-fragile-blast |  
+| bip_39_word_dash_11 | assume-force-amazing-lawn-gauge-print-marriage-shield-fragile-blast-sail |  
+| bip_39_word_dash_12 | assume-force-amazing-lawn-gauge-print-marriage-shield-fragile-blast-sail-armed |  
+| bip_39_word_dash_2 | assume-force |  
+| bip_39_word_dash_3 | assume-force-amazing |  
+| bip_39_word_dash_4 | assume-force-amazing-lawn |  
+| bip_39_word_dash_5 | assume-force-amazing-lawn-gauge |  
+| bip_39_word_dash_6 | assume-force-amazing-lawn-gauge-print |  
+| bip_39_word_dash_7 | assume-force-amazing-lawn-gauge-print-marriage |  
+| bip_39_word_dash_8 | assume-force-amazing-lawn-gauge-print-marriage-shield |  
+| bip_39_word_dash_9 | assume-force-amazing-lawn-gauge-print-marriage-shield-fragile |  
 | bip_39_word_new_br_1 | assume |  
 | bip_39_word_new_br_10 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast |  
 | bip_39_word_new_br_11 | assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast<br>sail |  
@@ -147,6 +159,18 @@ fragile |
 | bip_39_word_space_7 | assume force amazing lawn gauge print marriage |  
 | bip_39_word_space_8 | assume force amazing lawn gauge print marriage shield |  
 | bip_39_word_space_9 | assume force amazing lawn gauge print marriage shield fragile |  
+| bip_39_word_underscore_1 | assume |  
+| bip_39_word_underscore_10 | assume_force_amazing_lawn_gauge_print_marriage_shield_fragile_blast |  
+| bip_39_word_underscore_11 | assume_force_amazing_lawn_gauge_print_marriage_shield_fragile_blast_sail |  
+| bip_39_word_underscore_12 | assume_force_amazing_lawn_gauge_print_marriage_shield_fragile_blast_sail_armed |  
+| bip_39_word_underscore_2 | assume_force |  
+| bip_39_word_underscore_3 | assume_force_amazing |  
+| bip_39_word_underscore_4 | assume_force_amazing_lawn |  
+| bip_39_word_underscore_5 | assume_force_amazing_lawn_gauge |  
+| bip_39_word_underscore_6 | assume_force_amazing_lawn_gauge_print |  
+| bip_39_word_underscore_7 | assume_force_amazing_lawn_gauge_print_marriage |  
+| bip_39_word_underscore_8 | assume_force_amazing_lawn_gauge_print_marriage_shield |  
+| bip_39_word_underscore_9 | assume_force_amazing_lawn_gauge_print_marriage_shield_fragile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

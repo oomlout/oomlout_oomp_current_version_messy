@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | round |  
+| bip_39_word_dash_10 | round-unable-churn-wood-old-trumpet-journey-chaos-photo-help |  
+| bip_39_word_dash_11 | round-unable-churn-wood-old-trumpet-journey-chaos-photo-help-intact |  
+| bip_39_word_dash_12 | round-unable-churn-wood-old-trumpet-journey-chaos-photo-help-intact-artwork |  
+| bip_39_word_dash_2 | round-unable |  
+| bip_39_word_dash_3 | round-unable-churn |  
+| bip_39_word_dash_4 | round-unable-churn-wood |  
+| bip_39_word_dash_5 | round-unable-churn-wood-old |  
+| bip_39_word_dash_6 | round-unable-churn-wood-old-trumpet |  
+| bip_39_word_dash_7 | round-unable-churn-wood-old-trumpet-journey |  
+| bip_39_word_dash_8 | round-unable-churn-wood-old-trumpet-journey-chaos |  
+| bip_39_word_dash_9 | round-unable-churn-wood-old-trumpet-journey-chaos-photo |  
 | bip_39_word_new_br_1 | round |  
 | bip_39_word_new_br_10 | round<br>unable<br>churn<br>wood<br>old<br>trumpet<br>journey<br>chaos<br>photo<br>help |  
 | bip_39_word_new_br_11 | round<br>unable<br>churn<br>wood<br>old<br>trumpet<br>journey<br>chaos<br>photo<br>help<br>intact |  
@@ -147,6 +159,18 @@ photo |
 | bip_39_word_space_7 | round unable churn wood old trumpet journey |  
 | bip_39_word_space_8 | round unable churn wood old trumpet journey chaos |  
 | bip_39_word_space_9 | round unable churn wood old trumpet journey chaos photo |  
+| bip_39_word_underscore_1 | round |  
+| bip_39_word_underscore_10 | round_unable_churn_wood_old_trumpet_journey_chaos_photo_help |  
+| bip_39_word_underscore_11 | round_unable_churn_wood_old_trumpet_journey_chaos_photo_help_intact |  
+| bip_39_word_underscore_12 | round_unable_churn_wood_old_trumpet_journey_chaos_photo_help_intact_artwork |  
+| bip_39_word_underscore_2 | round_unable |  
+| bip_39_word_underscore_3 | round_unable_churn |  
+| bip_39_word_underscore_4 | round_unable_churn_wood |  
+| bip_39_word_underscore_5 | round_unable_churn_wood_old |  
+| bip_39_word_underscore_6 | round_unable_churn_wood_old_trumpet |  
+| bip_39_word_underscore_7 | round_unable_churn_wood_old_trumpet_journey |  
+| bip_39_word_underscore_8 | round_unable_churn_wood_old_trumpet_journey_chaos |  
+| bip_39_word_underscore_9 | round_unable_churn_wood_old_trumpet_journey_chaos_photo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

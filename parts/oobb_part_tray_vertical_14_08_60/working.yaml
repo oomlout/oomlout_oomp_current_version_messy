@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vehicle
+bip_39_word_dash_10: vehicle-crush-capable-dream-home-laptop-step-stairs-biology-venue
+bip_39_word_dash_11: vehicle-crush-capable-dream-home-laptop-step-stairs-biology-venue-middle
+bip_39_word_dash_12: vehicle-crush-capable-dream-home-laptop-step-stairs-biology-venue-middle-assist
+bip_39_word_dash_2: vehicle-crush
+bip_39_word_dash_3: vehicle-crush-capable
+bip_39_word_dash_4: vehicle-crush-capable-dream
+bip_39_word_dash_5: vehicle-crush-capable-dream-home
+bip_39_word_dash_6: vehicle-crush-capable-dream-home-laptop
+bip_39_word_dash_7: vehicle-crush-capable-dream-home-laptop-step
+bip_39_word_dash_8: vehicle-crush-capable-dream-home-laptop-step-stairs
+bip_39_word_dash_9: vehicle-crush-capable-dream-home-laptop-step-stairs-biology
 bip_39_word_new_br_1: vehicle
 bip_39_word_new_br_10: vehicle<br>crush<br>capable<br>dream<br>home<br>laptop<br>step<br>stairs<br>biology<br>venue
 bip_39_word_new_br_11: vehicle<br>crush<br>capable<br>dream<br>home<br>laptop<br>step<br>stairs<br>biology<br>venue<br>middle
@@ -194,6 +206,18 @@ bip_39_word_space_6: vehicle crush capable dream home laptop
 bip_39_word_space_7: vehicle crush capable dream home laptop step
 bip_39_word_space_8: vehicle crush capable dream home laptop step stairs
 bip_39_word_space_9: vehicle crush capable dream home laptop step stairs biology
+bip_39_word_underscore_1: vehicle
+bip_39_word_underscore_10: vehicle_crush_capable_dream_home_laptop_step_stairs_biology_venue
+bip_39_word_underscore_11: vehicle_crush_capable_dream_home_laptop_step_stairs_biology_venue_middle
+bip_39_word_underscore_12: vehicle_crush_capable_dream_home_laptop_step_stairs_biology_venue_middle_assist
+bip_39_word_underscore_2: vehicle_crush
+bip_39_word_underscore_3: vehicle_crush_capable
+bip_39_word_underscore_4: vehicle_crush_capable_dream
+bip_39_word_underscore_5: vehicle_crush_capable_dream_home
+bip_39_word_underscore_6: vehicle_crush_capable_dream_home_laptop
+bip_39_word_underscore_7: vehicle_crush_capable_dream_home_laptop_step
+bip_39_word_underscore_8: vehicle_crush_capable_dream_home_laptop_step_stairs
+bip_39_word_underscore_9: vehicle_crush_capable_dream_home_laptop_step_stairs_biology
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tornado |  
+| bip_39_word_dash_10 | tornado-disease-voice-agree-primary-current-index-portion-elder-fever |  
+| bip_39_word_dash_11 | tornado-disease-voice-agree-primary-current-index-portion-elder-fever-record |  
+| bip_39_word_dash_12 | tornado-disease-voice-agree-primary-current-index-portion-elder-fever-record-almost |  
+| bip_39_word_dash_2 | tornado-disease |  
+| bip_39_word_dash_3 | tornado-disease-voice |  
+| bip_39_word_dash_4 | tornado-disease-voice-agree |  
+| bip_39_word_dash_5 | tornado-disease-voice-agree-primary |  
+| bip_39_word_dash_6 | tornado-disease-voice-agree-primary-current |  
+| bip_39_word_dash_7 | tornado-disease-voice-agree-primary-current-index |  
+| bip_39_word_dash_8 | tornado-disease-voice-agree-primary-current-index-portion |  
+| bip_39_word_dash_9 | tornado-disease-voice-agree-primary-current-index-portion-elder |  
 | bip_39_word_new_br_1 | tornado |  
 | bip_39_word_new_br_10 | tornado<br>disease<br>voice<br>agree<br>primary<br>current<br>index<br>portion<br>elder<br>fever |  
 | bip_39_word_new_br_11 | tornado<br>disease<br>voice<br>agree<br>primary<br>current<br>index<br>portion<br>elder<br>fever<br>record |  
@@ -147,6 +159,18 @@ elder |
 | bip_39_word_space_7 | tornado disease voice agree primary current index |  
 | bip_39_word_space_8 | tornado disease voice agree primary current index portion |  
 | bip_39_word_space_9 | tornado disease voice agree primary current index portion elder |  
+| bip_39_word_underscore_1 | tornado |  
+| bip_39_word_underscore_10 | tornado_disease_voice_agree_primary_current_index_portion_elder_fever |  
+| bip_39_word_underscore_11 | tornado_disease_voice_agree_primary_current_index_portion_elder_fever_record |  
+| bip_39_word_underscore_12 | tornado_disease_voice_agree_primary_current_index_portion_elder_fever_record_almost |  
+| bip_39_word_underscore_2 | tornado_disease |  
+| bip_39_word_underscore_3 | tornado_disease_voice |  
+| bip_39_word_underscore_4 | tornado_disease_voice_agree |  
+| bip_39_word_underscore_5 | tornado_disease_voice_agree_primary |  
+| bip_39_word_underscore_6 | tornado_disease_voice_agree_primary_current |  
+| bip_39_word_underscore_7 | tornado_disease_voice_agree_primary_current_index |  
+| bip_39_word_underscore_8 | tornado_disease_voice_agree_primary_current_index_portion |  
+| bip_39_word_underscore_9 | tornado_disease_voice_agree_primary_current_index_portion_elder |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

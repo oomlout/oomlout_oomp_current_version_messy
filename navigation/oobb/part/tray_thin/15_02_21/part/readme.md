@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | noble |  
+| bip_39_word_dash_10 | noble-bar-begin-across-reopen-earth-vivid-tape-isolate-trend |  
+| bip_39_word_dash_11 | noble-bar-begin-across-reopen-earth-vivid-tape-isolate-trend-portion |  
+| bip_39_word_dash_12 | noble-bar-begin-across-reopen-earth-vivid-tape-isolate-trend-portion-attack |  
+| bip_39_word_dash_2 | noble-bar |  
+| bip_39_word_dash_3 | noble-bar-begin |  
+| bip_39_word_dash_4 | noble-bar-begin-across |  
+| bip_39_word_dash_5 | noble-bar-begin-across-reopen |  
+| bip_39_word_dash_6 | noble-bar-begin-across-reopen-earth |  
+| bip_39_word_dash_7 | noble-bar-begin-across-reopen-earth-vivid |  
+| bip_39_word_dash_8 | noble-bar-begin-across-reopen-earth-vivid-tape |  
+| bip_39_word_dash_9 | noble-bar-begin-across-reopen-earth-vivid-tape-isolate |  
 | bip_39_word_new_br_1 | noble |  
 | bip_39_word_new_br_10 | noble<br>bar<br>begin<br>across<br>reopen<br>earth<br>vivid<br>tape<br>isolate<br>trend |  
 | bip_39_word_new_br_11 | noble<br>bar<br>begin<br>across<br>reopen<br>earth<br>vivid<br>tape<br>isolate<br>trend<br>portion |  
@@ -147,6 +159,18 @@ isolate |
 | bip_39_word_space_7 | noble bar begin across reopen earth vivid |  
 | bip_39_word_space_8 | noble bar begin across reopen earth vivid tape |  
 | bip_39_word_space_9 | noble bar begin across reopen earth vivid tape isolate |  
+| bip_39_word_underscore_1 | noble |  
+| bip_39_word_underscore_10 | noble_bar_begin_across_reopen_earth_vivid_tape_isolate_trend |  
+| bip_39_word_underscore_11 | noble_bar_begin_across_reopen_earth_vivid_tape_isolate_trend_portion |  
+| bip_39_word_underscore_12 | noble_bar_begin_across_reopen_earth_vivid_tape_isolate_trend_portion_attack |  
+| bip_39_word_underscore_2 | noble_bar |  
+| bip_39_word_underscore_3 | noble_bar_begin |  
+| bip_39_word_underscore_4 | noble_bar_begin_across |  
+| bip_39_word_underscore_5 | noble_bar_begin_across_reopen |  
+| bip_39_word_underscore_6 | noble_bar_begin_across_reopen_earth |  
+| bip_39_word_underscore_7 | noble_bar_begin_across_reopen_earth_vivid |  
+| bip_39_word_underscore_8 | noble_bar_begin_across_reopen_earth_vivid_tape |  
+| bip_39_word_underscore_9 | noble_bar_begin_across_reopen_earth_vivid_tape_isolate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

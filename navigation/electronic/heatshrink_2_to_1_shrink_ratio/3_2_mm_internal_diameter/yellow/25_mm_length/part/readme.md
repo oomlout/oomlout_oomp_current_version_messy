@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leg |  
+| bip_39_word_dash_10 | leg-spray-index-drop-subject-insane-rose-laptop-busy-ahead |  
+| bip_39_word_dash_11 | leg-spray-index-drop-subject-insane-rose-laptop-busy-ahead-people |  
+| bip_39_word_dash_12 | leg-spray-index-drop-subject-insane-rose-laptop-busy-ahead-people-argue |  
+| bip_39_word_dash_2 | leg-spray |  
+| bip_39_word_dash_3 | leg-spray-index |  
+| bip_39_word_dash_4 | leg-spray-index-drop |  
+| bip_39_word_dash_5 | leg-spray-index-drop-subject |  
+| bip_39_word_dash_6 | leg-spray-index-drop-subject-insane |  
+| bip_39_word_dash_7 | leg-spray-index-drop-subject-insane-rose |  
+| bip_39_word_dash_8 | leg-spray-index-drop-subject-insane-rose-laptop |  
+| bip_39_word_dash_9 | leg-spray-index-drop-subject-insane-rose-laptop-busy |  
 | bip_39_word_new_br_1 | leg |  
 | bip_39_word_new_br_10 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead |  
 | bip_39_word_new_br_11 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead<br>people |  
@@ -147,6 +159,18 @@ busy |
 | bip_39_word_space_7 | leg spray index drop subject insane rose |  
 | bip_39_word_space_8 | leg spray index drop subject insane rose laptop |  
 | bip_39_word_space_9 | leg spray index drop subject insane rose laptop busy |  
+| bip_39_word_underscore_1 | leg |  
+| bip_39_word_underscore_10 | leg_spray_index_drop_subject_insane_rose_laptop_busy_ahead |  
+| bip_39_word_underscore_11 | leg_spray_index_drop_subject_insane_rose_laptop_busy_ahead_people |  
+| bip_39_word_underscore_12 | leg_spray_index_drop_subject_insane_rose_laptop_busy_ahead_people_argue |  
+| bip_39_word_underscore_2 | leg_spray |  
+| bip_39_word_underscore_3 | leg_spray_index |  
+| bip_39_word_underscore_4 | leg_spray_index_drop |  
+| bip_39_word_underscore_5 | leg_spray_index_drop_subject |  
+| bip_39_word_underscore_6 | leg_spray_index_drop_subject_insane |  
+| bip_39_word_underscore_7 | leg_spray_index_drop_subject_insane_rose |  
+| bip_39_word_underscore_8 | leg_spray_index_drop_subject_insane_rose_laptop |  
+| bip_39_word_underscore_9 | leg_spray_index_drop_subject_insane_rose_laptop_busy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

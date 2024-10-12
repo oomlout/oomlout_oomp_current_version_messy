@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dance
+bip_39_word_dash_10: dance-cup-security-young-ghost-excess-mail-hero-frost-best
+bip_39_word_dash_11: dance-cup-security-young-ghost-excess-mail-hero-frost-best-travel
+bip_39_word_dash_12: dance-cup-security-young-ghost-excess-mail-hero-frost-best-travel-atom
+bip_39_word_dash_2: dance-cup
+bip_39_word_dash_3: dance-cup-security
+bip_39_word_dash_4: dance-cup-security-young
+bip_39_word_dash_5: dance-cup-security-young-ghost
+bip_39_word_dash_6: dance-cup-security-young-ghost-excess
+bip_39_word_dash_7: dance-cup-security-young-ghost-excess-mail
+bip_39_word_dash_8: dance-cup-security-young-ghost-excess-mail-hero
+bip_39_word_dash_9: dance-cup-security-young-ghost-excess-mail-hero-frost
 bip_39_word_new_br_1: dance
 bip_39_word_new_br_10: dance<br>cup<br>security<br>young<br>ghost<br>excess<br>mail<br>hero<br>frost<br>best
 bip_39_word_new_br_11: dance<br>cup<br>security<br>young<br>ghost<br>excess<br>mail<br>hero<br>frost<br>best<br>travel
@@ -192,6 +204,18 @@ bip_39_word_space_6: dance cup security young ghost excess
 bip_39_word_space_7: dance cup security young ghost excess mail
 bip_39_word_space_8: dance cup security young ghost excess mail hero
 bip_39_word_space_9: dance cup security young ghost excess mail hero frost
+bip_39_word_underscore_1: dance
+bip_39_word_underscore_10: dance_cup_security_young_ghost_excess_mail_hero_frost_best
+bip_39_word_underscore_11: dance_cup_security_young_ghost_excess_mail_hero_frost_best_travel
+bip_39_word_underscore_12: dance_cup_security_young_ghost_excess_mail_hero_frost_best_travel_atom
+bip_39_word_underscore_2: dance_cup
+bip_39_word_underscore_3: dance_cup_security
+bip_39_word_underscore_4: dance_cup_security_young
+bip_39_word_underscore_5: dance_cup_security_young_ghost
+bip_39_word_underscore_6: dance_cup_security_young_ghost_excess
+bip_39_word_underscore_7: dance_cup_security_young_ghost_excess_mail
+bip_39_word_underscore_8: dance_cup_security_young_ghost_excess_mail_hero
+bip_39_word_underscore_9: dance_cup_security_young_ghost_excess_mail_hero_frost
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

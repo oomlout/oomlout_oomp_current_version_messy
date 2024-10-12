@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trend |  
+| bip_39_word_dash_10 | trend-shine-ring-flip-forest-range-tongue-decade-uniform-immense |  
+| bip_39_word_dash_11 | trend-shine-ring-flip-forest-range-tongue-decade-uniform-immense-mention |  
+| bip_39_word_dash_12 | trend-shine-ring-flip-forest-range-tongue-decade-uniform-immense-mention-alert |  
+| bip_39_word_dash_2 | trend-shine |  
+| bip_39_word_dash_3 | trend-shine-ring |  
+| bip_39_word_dash_4 | trend-shine-ring-flip |  
+| bip_39_word_dash_5 | trend-shine-ring-flip-forest |  
+| bip_39_word_dash_6 | trend-shine-ring-flip-forest-range |  
+| bip_39_word_dash_7 | trend-shine-ring-flip-forest-range-tongue |  
+| bip_39_word_dash_8 | trend-shine-ring-flip-forest-range-tongue-decade |  
+| bip_39_word_dash_9 | trend-shine-ring-flip-forest-range-tongue-decade-uniform |  
 | bip_39_word_new_br_1 | trend |  
 | bip_39_word_new_br_10 | trend<br>shine<br>ring<br>flip<br>forest<br>range<br>tongue<br>decade<br>uniform<br>immense |  
 | bip_39_word_new_br_11 | trend<br>shine<br>ring<br>flip<br>forest<br>range<br>tongue<br>decade<br>uniform<br>immense<br>mention |  
@@ -147,6 +159,18 @@ uniform |
 | bip_39_word_space_7 | trend shine ring flip forest range tongue |  
 | bip_39_word_space_8 | trend shine ring flip forest range tongue decade |  
 | bip_39_word_space_9 | trend shine ring flip forest range tongue decade uniform |  
+| bip_39_word_underscore_1 | trend |  
+| bip_39_word_underscore_10 | trend_shine_ring_flip_forest_range_tongue_decade_uniform_immense |  
+| bip_39_word_underscore_11 | trend_shine_ring_flip_forest_range_tongue_decade_uniform_immense_mention |  
+| bip_39_word_underscore_12 | trend_shine_ring_flip_forest_range_tongue_decade_uniform_immense_mention_alert |  
+| bip_39_word_underscore_2 | trend_shine |  
+| bip_39_word_underscore_3 | trend_shine_ring |  
+| bip_39_word_underscore_4 | trend_shine_ring_flip |  
+| bip_39_word_underscore_5 | trend_shine_ring_flip_forest |  
+| bip_39_word_underscore_6 | trend_shine_ring_flip_forest_range |  
+| bip_39_word_underscore_7 | trend_shine_ring_flip_forest_range_tongue |  
+| bip_39_word_underscore_8 | trend_shine_ring_flip_forest_range_tongue_decade |  
+| bip_39_word_underscore_9 | trend_shine_ring_flip_forest_range_tongue_decade_uniform |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

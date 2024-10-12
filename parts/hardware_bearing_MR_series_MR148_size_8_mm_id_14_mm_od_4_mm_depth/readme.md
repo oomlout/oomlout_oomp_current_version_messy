@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | addict |  
+| bip_39_word_dash_10 | addict-fetch-decline-pen-foot-shed-charge-shoe-fame-hazard |  
+| bip_39_word_dash_11 | addict-fetch-decline-pen-foot-shed-charge-shoe-fame-hazard-letter |  
+| bip_39_word_dash_12 | addict-fetch-decline-pen-foot-shed-charge-shoe-fame-hazard-letter-august |  
+| bip_39_word_dash_2 | addict-fetch |  
+| bip_39_word_dash_3 | addict-fetch-decline |  
+| bip_39_word_dash_4 | addict-fetch-decline-pen |  
+| bip_39_word_dash_5 | addict-fetch-decline-pen-foot |  
+| bip_39_word_dash_6 | addict-fetch-decline-pen-foot-shed |  
+| bip_39_word_dash_7 | addict-fetch-decline-pen-foot-shed-charge |  
+| bip_39_word_dash_8 | addict-fetch-decline-pen-foot-shed-charge-shoe |  
+| bip_39_word_dash_9 | addict-fetch-decline-pen-foot-shed-charge-shoe-fame |  
 | bip_39_word_new_br_1 | addict |  
 | bip_39_word_new_br_10 | addict<br>fetch<br>decline<br>pen<br>foot<br>shed<br>charge<br>shoe<br>fame<br>hazard |  
 | bip_39_word_new_br_11 | addict<br>fetch<br>decline<br>pen<br>foot<br>shed<br>charge<br>shoe<br>fame<br>hazard<br>letter |  
@@ -147,6 +159,18 @@ fame |
 | bip_39_word_space_7 | addict fetch decline pen foot shed charge |  
 | bip_39_word_space_8 | addict fetch decline pen foot shed charge shoe |  
 | bip_39_word_space_9 | addict fetch decline pen foot shed charge shoe fame |  
+| bip_39_word_underscore_1 | addict |  
+| bip_39_word_underscore_10 | addict_fetch_decline_pen_foot_shed_charge_shoe_fame_hazard |  
+| bip_39_word_underscore_11 | addict_fetch_decline_pen_foot_shed_charge_shoe_fame_hazard_letter |  
+| bip_39_word_underscore_12 | addict_fetch_decline_pen_foot_shed_charge_shoe_fame_hazard_letter_august |  
+| bip_39_word_underscore_2 | addict_fetch |  
+| bip_39_word_underscore_3 | addict_fetch_decline |  
+| bip_39_word_underscore_4 | addict_fetch_decline_pen |  
+| bip_39_word_underscore_5 | addict_fetch_decline_pen_foot |  
+| bip_39_word_underscore_6 | addict_fetch_decline_pen_foot_shed |  
+| bip_39_word_underscore_7 | addict_fetch_decline_pen_foot_shed_charge |  
+| bip_39_word_underscore_8 | addict_fetch_decline_pen_foot_shed_charge_shoe |  
+| bip_39_word_underscore_9 | addict_fetch_decline_pen_foot_shed_charge_shoe_fame |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

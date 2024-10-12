@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reward |  
+| bip_39_word_dash_10 | reward-share-stairs-hungry-cry-olympic-fetch-holiday-endless-potato |  
+| bip_39_word_dash_11 | reward-share-stairs-hungry-cry-olympic-fetch-holiday-endless-potato-win |  
+| bip_39_word_dash_12 | reward-share-stairs-hungry-cry-olympic-fetch-holiday-endless-potato-win-autumn |  
+| bip_39_word_dash_2 | reward-share |  
+| bip_39_word_dash_3 | reward-share-stairs |  
+| bip_39_word_dash_4 | reward-share-stairs-hungry |  
+| bip_39_word_dash_5 | reward-share-stairs-hungry-cry |  
+| bip_39_word_dash_6 | reward-share-stairs-hungry-cry-olympic |  
+| bip_39_word_dash_7 | reward-share-stairs-hungry-cry-olympic-fetch |  
+| bip_39_word_dash_8 | reward-share-stairs-hungry-cry-olympic-fetch-holiday |  
+| bip_39_word_dash_9 | reward-share-stairs-hungry-cry-olympic-fetch-holiday-endless |  
 | bip_39_word_new_br_1 | reward |  
 | bip_39_word_new_br_10 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato |  
 | bip_39_word_new_br_11 | reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato<br>win |  
@@ -147,6 +159,18 @@ endless |
 | bip_39_word_space_7 | reward share stairs hungry cry olympic fetch |  
 | bip_39_word_space_8 | reward share stairs hungry cry olympic fetch holiday |  
 | bip_39_word_space_9 | reward share stairs hungry cry olympic fetch holiday endless |  
+| bip_39_word_underscore_1 | reward |  
+| bip_39_word_underscore_10 | reward_share_stairs_hungry_cry_olympic_fetch_holiday_endless_potato |  
+| bip_39_word_underscore_11 | reward_share_stairs_hungry_cry_olympic_fetch_holiday_endless_potato_win |  
+| bip_39_word_underscore_12 | reward_share_stairs_hungry_cry_olympic_fetch_holiday_endless_potato_win_autumn |  
+| bip_39_word_underscore_2 | reward_share |  
+| bip_39_word_underscore_3 | reward_share_stairs |  
+| bip_39_word_underscore_4 | reward_share_stairs_hungry |  
+| bip_39_word_underscore_5 | reward_share_stairs_hungry_cry |  
+| bip_39_word_underscore_6 | reward_share_stairs_hungry_cry_olympic |  
+| bip_39_word_underscore_7 | reward_share_stairs_hungry_cry_olympic_fetch |  
+| bip_39_word_underscore_8 | reward_share_stairs_hungry_cry_olympic_fetch_holiday |  
+| bip_39_word_underscore_9 | reward_share_stairs_hungry_cry_olympic_fetch_holiday_endless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | evidence |  
+| bip_39_word_dash_10 | evidence-curious-latin-casino-frost-version-rotate-kiwi-observe-protect |  
+| bip_39_word_dash_11 | evidence-curious-latin-casino-frost-version-rotate-kiwi-observe-protect-sustain |  
+| bip_39_word_dash_12 | evidence-curious-latin-casino-frost-version-rotate-kiwi-observe-protect-sustain-accident |  
+| bip_39_word_dash_2 | evidence-curious |  
+| bip_39_word_dash_3 | evidence-curious-latin |  
+| bip_39_word_dash_4 | evidence-curious-latin-casino |  
+| bip_39_word_dash_5 | evidence-curious-latin-casino-frost |  
+| bip_39_word_dash_6 | evidence-curious-latin-casino-frost-version |  
+| bip_39_word_dash_7 | evidence-curious-latin-casino-frost-version-rotate |  
+| bip_39_word_dash_8 | evidence-curious-latin-casino-frost-version-rotate-kiwi |  
+| bip_39_word_dash_9 | evidence-curious-latin-casino-frost-version-rotate-kiwi-observe |  
 | bip_39_word_new_br_1 | evidence |  
 | bip_39_word_new_br_10 | evidence<br>curious<br>latin<br>casino<br>frost<br>version<br>rotate<br>kiwi<br>observe<br>protect |  
 | bip_39_word_new_br_11 | evidence<br>curious<br>latin<br>casino<br>frost<br>version<br>rotate<br>kiwi<br>observe<br>protect<br>sustain |  
@@ -147,6 +159,18 @@ observe |
 | bip_39_word_space_7 | evidence curious latin casino frost version rotate |  
 | bip_39_word_space_8 | evidence curious latin casino frost version rotate kiwi |  
 | bip_39_word_space_9 | evidence curious latin casino frost version rotate kiwi observe |  
+| bip_39_word_underscore_1 | evidence |  
+| bip_39_word_underscore_10 | evidence_curious_latin_casino_frost_version_rotate_kiwi_observe_protect |  
+| bip_39_word_underscore_11 | evidence_curious_latin_casino_frost_version_rotate_kiwi_observe_protect_sustain |  
+| bip_39_word_underscore_12 | evidence_curious_latin_casino_frost_version_rotate_kiwi_observe_protect_sustain_accident |  
+| bip_39_word_underscore_2 | evidence_curious |  
+| bip_39_word_underscore_3 | evidence_curious_latin |  
+| bip_39_word_underscore_4 | evidence_curious_latin_casino |  
+| bip_39_word_underscore_5 | evidence_curious_latin_casino_frost |  
+| bip_39_word_underscore_6 | evidence_curious_latin_casino_frost_version |  
+| bip_39_word_underscore_7 | evidence_curious_latin_casino_frost_version_rotate |  
+| bip_39_word_underscore_8 | evidence_curious_latin_casino_frost_version_rotate_kiwi |  
+| bip_39_word_underscore_9 | evidence_curious_latin_casino_frost_version_rotate_kiwi_observe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

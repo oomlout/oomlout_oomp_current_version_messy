@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | echo |  
+| bip_39_word_dash_10 | echo-innocent-load-soon-weapon-tilt-patch-bounce-live-what |  
+| bip_39_word_dash_11 | echo-innocent-load-soon-weapon-tilt-patch-bounce-live-what-pizza |  
+| bip_39_word_dash_12 | echo-innocent-load-soon-weapon-tilt-patch-bounce-live-what-pizza-alarm |  
+| bip_39_word_dash_2 | echo-innocent |  
+| bip_39_word_dash_3 | echo-innocent-load |  
+| bip_39_word_dash_4 | echo-innocent-load-soon |  
+| bip_39_word_dash_5 | echo-innocent-load-soon-weapon |  
+| bip_39_word_dash_6 | echo-innocent-load-soon-weapon-tilt |  
+| bip_39_word_dash_7 | echo-innocent-load-soon-weapon-tilt-patch |  
+| bip_39_word_dash_8 | echo-innocent-load-soon-weapon-tilt-patch-bounce |  
+| bip_39_word_dash_9 | echo-innocent-load-soon-weapon-tilt-patch-bounce-live |  
 | bip_39_word_new_br_1 | echo |  
 | bip_39_word_new_br_10 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce<br>live<br>what |  
 | bip_39_word_new_br_11 | echo<br>innocent<br>load<br>soon<br>weapon<br>tilt<br>patch<br>bounce<br>live<br>what<br>pizza |  
@@ -147,6 +159,18 @@ live |
 | bip_39_word_space_7 | echo innocent load soon weapon tilt patch |  
 | bip_39_word_space_8 | echo innocent load soon weapon tilt patch bounce |  
 | bip_39_word_space_9 | echo innocent load soon weapon tilt patch bounce live |  
+| bip_39_word_underscore_1 | echo |  
+| bip_39_word_underscore_10 | echo_innocent_load_soon_weapon_tilt_patch_bounce_live_what |  
+| bip_39_word_underscore_11 | echo_innocent_load_soon_weapon_tilt_patch_bounce_live_what_pizza |  
+| bip_39_word_underscore_12 | echo_innocent_load_soon_weapon_tilt_patch_bounce_live_what_pizza_alarm |  
+| bip_39_word_underscore_2 | echo_innocent |  
+| bip_39_word_underscore_3 | echo_innocent_load |  
+| bip_39_word_underscore_4 | echo_innocent_load_soon |  
+| bip_39_word_underscore_5 | echo_innocent_load_soon_weapon |  
+| bip_39_word_underscore_6 | echo_innocent_load_soon_weapon_tilt |  
+| bip_39_word_underscore_7 | echo_innocent_load_soon_weapon_tilt_patch |  
+| bip_39_word_underscore_8 | echo_innocent_load_soon_weapon_tilt_patch_bounce |  
+| bip_39_word_underscore_9 | echo_innocent_load_soon_weapon_tilt_patch_bounce_live |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

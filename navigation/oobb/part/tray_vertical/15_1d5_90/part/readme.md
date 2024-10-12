@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exclude |  
+| bip_39_word_dash_10 | exclude-whip-token-able-word-senior-visa-junk-burger-total |  
+| bip_39_word_dash_11 | exclude-whip-token-able-word-senior-visa-junk-burger-total-robust |  
+| bip_39_word_dash_12 | exclude-whip-token-able-word-senior-visa-junk-burger-total-robust-asset |  
+| bip_39_word_dash_2 | exclude-whip |  
+| bip_39_word_dash_3 | exclude-whip-token |  
+| bip_39_word_dash_4 | exclude-whip-token-able |  
+| bip_39_word_dash_5 | exclude-whip-token-able-word |  
+| bip_39_word_dash_6 | exclude-whip-token-able-word-senior |  
+| bip_39_word_dash_7 | exclude-whip-token-able-word-senior-visa |  
+| bip_39_word_dash_8 | exclude-whip-token-able-word-senior-visa-junk |  
+| bip_39_word_dash_9 | exclude-whip-token-able-word-senior-visa-junk-burger |  
 | bip_39_word_new_br_1 | exclude |  
 | bip_39_word_new_br_10 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk<br>burger<br>total |  
 | bip_39_word_new_br_11 | exclude<br>whip<br>token<br>able<br>word<br>senior<br>visa<br>junk<br>burger<br>total<br>robust |  
@@ -147,6 +159,18 @@ burger |
 | bip_39_word_space_7 | exclude whip token able word senior visa |  
 | bip_39_word_space_8 | exclude whip token able word senior visa junk |  
 | bip_39_word_space_9 | exclude whip token able word senior visa junk burger |  
+| bip_39_word_underscore_1 | exclude |  
+| bip_39_word_underscore_10 | exclude_whip_token_able_word_senior_visa_junk_burger_total |  
+| bip_39_word_underscore_11 | exclude_whip_token_able_word_senior_visa_junk_burger_total_robust |  
+| bip_39_word_underscore_12 | exclude_whip_token_able_word_senior_visa_junk_burger_total_robust_asset |  
+| bip_39_word_underscore_2 | exclude_whip |  
+| bip_39_word_underscore_3 | exclude_whip_token |  
+| bip_39_word_underscore_4 | exclude_whip_token_able |  
+| bip_39_word_underscore_5 | exclude_whip_token_able_word |  
+| bip_39_word_underscore_6 | exclude_whip_token_able_word_senior |  
+| bip_39_word_underscore_7 | exclude_whip_token_able_word_senior_visa |  
+| bip_39_word_underscore_8 | exclude_whip_token_able_word_senior_visa_junk |  
+| bip_39_word_underscore_9 | exclude_whip_token_able_word_senior_visa_junk_burger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

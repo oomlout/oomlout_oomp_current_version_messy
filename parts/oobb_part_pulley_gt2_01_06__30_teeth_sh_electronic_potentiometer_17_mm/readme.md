@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | involve |  
+| bip_39_word_dash_10 | involve-until-double-charge-area-shadow-control-maximum-neither-various |  
+| bip_39_word_dash_11 | involve-until-double-charge-area-shadow-control-maximum-neither-various-exact |  
+| bip_39_word_dash_12 | involve-until-double-charge-area-shadow-control-maximum-neither-various-exact-advice |  
+| bip_39_word_dash_2 | involve-until |  
+| bip_39_word_dash_3 | involve-until-double |  
+| bip_39_word_dash_4 | involve-until-double-charge |  
+| bip_39_word_dash_5 | involve-until-double-charge-area |  
+| bip_39_word_dash_6 | involve-until-double-charge-area-shadow |  
+| bip_39_word_dash_7 | involve-until-double-charge-area-shadow-control |  
+| bip_39_word_dash_8 | involve-until-double-charge-area-shadow-control-maximum |  
+| bip_39_word_dash_9 | involve-until-double-charge-area-shadow-control-maximum-neither |  
 | bip_39_word_new_br_1 | involve |  
 | bip_39_word_new_br_10 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various |  
 | bip_39_word_new_br_11 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various<br>exact |  
@@ -147,6 +159,18 @@ neither |
 | bip_39_word_space_7 | involve until double charge area shadow control |  
 | bip_39_word_space_8 | involve until double charge area shadow control maximum |  
 | bip_39_word_space_9 | involve until double charge area shadow control maximum neither |  
+| bip_39_word_underscore_1 | involve |  
+| bip_39_word_underscore_10 | involve_until_double_charge_area_shadow_control_maximum_neither_various |  
+| bip_39_word_underscore_11 | involve_until_double_charge_area_shadow_control_maximum_neither_various_exact |  
+| bip_39_word_underscore_12 | involve_until_double_charge_area_shadow_control_maximum_neither_various_exact_advice |  
+| bip_39_word_underscore_2 | involve_until |  
+| bip_39_word_underscore_3 | involve_until_double |  
+| bip_39_word_underscore_4 | involve_until_double_charge |  
+| bip_39_word_underscore_5 | involve_until_double_charge_area |  
+| bip_39_word_underscore_6 | involve_until_double_charge_area_shadow |  
+| bip_39_word_underscore_7 | involve_until_double_charge_area_shadow_control |  
+| bip_39_word_underscore_8 | involve_until_double_charge_area_shadow_control_maximum |  
+| bip_39_word_underscore_9 | involve_until_double_charge_area_shadow_control_maximum_neither |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

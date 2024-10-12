@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lecture |  
+| bip_39_word_dash_10 | lecture-tide-auction-invite-satoshi-lonely-sock-carpet-novel-select |  
+| bip_39_word_dash_11 | lecture-tide-auction-invite-satoshi-lonely-sock-carpet-novel-select-tray |  
+| bip_39_word_dash_12 | lecture-tide-auction-invite-satoshi-lonely-sock-carpet-novel-select-tray-agent |  
+| bip_39_word_dash_2 | lecture-tide |  
+| bip_39_word_dash_3 | lecture-tide-auction |  
+| bip_39_word_dash_4 | lecture-tide-auction-invite |  
+| bip_39_word_dash_5 | lecture-tide-auction-invite-satoshi |  
+| bip_39_word_dash_6 | lecture-tide-auction-invite-satoshi-lonely |  
+| bip_39_word_dash_7 | lecture-tide-auction-invite-satoshi-lonely-sock |  
+| bip_39_word_dash_8 | lecture-tide-auction-invite-satoshi-lonely-sock-carpet |  
+| bip_39_word_dash_9 | lecture-tide-auction-invite-satoshi-lonely-sock-carpet-novel |  
 | bip_39_word_new_br_1 | lecture |  
 | bip_39_word_new_br_10 | lecture<br>tide<br>auction<br>invite<br>satoshi<br>lonely<br>sock<br>carpet<br>novel<br>select |  
 | bip_39_word_new_br_11 | lecture<br>tide<br>auction<br>invite<br>satoshi<br>lonely<br>sock<br>carpet<br>novel<br>select<br>tray |  
@@ -147,6 +159,18 @@ novel |
 | bip_39_word_space_7 | lecture tide auction invite satoshi lonely sock |  
 | bip_39_word_space_8 | lecture tide auction invite satoshi lonely sock carpet |  
 | bip_39_word_space_9 | lecture tide auction invite satoshi lonely sock carpet novel |  
+| bip_39_word_underscore_1 | lecture |  
+| bip_39_word_underscore_10 | lecture_tide_auction_invite_satoshi_lonely_sock_carpet_novel_select |  
+| bip_39_word_underscore_11 | lecture_tide_auction_invite_satoshi_lonely_sock_carpet_novel_select_tray |  
+| bip_39_word_underscore_12 | lecture_tide_auction_invite_satoshi_lonely_sock_carpet_novel_select_tray_agent |  
+| bip_39_word_underscore_2 | lecture_tide |  
+| bip_39_word_underscore_3 | lecture_tide_auction |  
+| bip_39_word_underscore_4 | lecture_tide_auction_invite |  
+| bip_39_word_underscore_5 | lecture_tide_auction_invite_satoshi |  
+| bip_39_word_underscore_6 | lecture_tide_auction_invite_satoshi_lonely |  
+| bip_39_word_underscore_7 | lecture_tide_auction_invite_satoshi_lonely_sock |  
+| bip_39_word_underscore_8 | lecture_tide_auction_invite_satoshi_lonely_sock_carpet |  
+| bip_39_word_underscore_9 | lecture_tide_auction_invite_satoshi_lonely_sock_carpet_novel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

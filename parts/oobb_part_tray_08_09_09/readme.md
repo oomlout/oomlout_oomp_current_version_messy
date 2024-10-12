@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tag |  
+| bip_39_word_dash_10 | tag-flag-naive-potato-thing-tornado-lottery-way-leg-load |  
+| bip_39_word_dash_11 | tag-flag-naive-potato-thing-tornado-lottery-way-leg-load-impact |  
+| bip_39_word_dash_12 | tag-flag-naive-potato-thing-tornado-lottery-way-leg-load-impact-amount |  
+| bip_39_word_dash_2 | tag-flag |  
+| bip_39_word_dash_3 | tag-flag-naive |  
+| bip_39_word_dash_4 | tag-flag-naive-potato |  
+| bip_39_word_dash_5 | tag-flag-naive-potato-thing |  
+| bip_39_word_dash_6 | tag-flag-naive-potato-thing-tornado |  
+| bip_39_word_dash_7 | tag-flag-naive-potato-thing-tornado-lottery |  
+| bip_39_word_dash_8 | tag-flag-naive-potato-thing-tornado-lottery-way |  
+| bip_39_word_dash_9 | tag-flag-naive-potato-thing-tornado-lottery-way-leg |  
 | bip_39_word_new_br_1 | tag |  
 | bip_39_word_new_br_10 | tag<br>flag<br>naive<br>potato<br>thing<br>tornado<br>lottery<br>way<br>leg<br>load |  
 | bip_39_word_new_br_11 | tag<br>flag<br>naive<br>potato<br>thing<br>tornado<br>lottery<br>way<br>leg<br>load<br>impact |  
@@ -147,6 +159,18 @@ leg |
 | bip_39_word_space_7 | tag flag naive potato thing tornado lottery |  
 | bip_39_word_space_8 | tag flag naive potato thing tornado lottery way |  
 | bip_39_word_space_9 | tag flag naive potato thing tornado lottery way leg |  
+| bip_39_word_underscore_1 | tag |  
+| bip_39_word_underscore_10 | tag_flag_naive_potato_thing_tornado_lottery_way_leg_load |  
+| bip_39_word_underscore_11 | tag_flag_naive_potato_thing_tornado_lottery_way_leg_load_impact |  
+| bip_39_word_underscore_12 | tag_flag_naive_potato_thing_tornado_lottery_way_leg_load_impact_amount |  
+| bip_39_word_underscore_2 | tag_flag |  
+| bip_39_word_underscore_3 | tag_flag_naive |  
+| bip_39_word_underscore_4 | tag_flag_naive_potato |  
+| bip_39_word_underscore_5 | tag_flag_naive_potato_thing |  
+| bip_39_word_underscore_6 | tag_flag_naive_potato_thing_tornado |  
+| bip_39_word_underscore_7 | tag_flag_naive_potato_thing_tornado_lottery |  
+| bip_39_word_underscore_8 | tag_flag_naive_potato_thing_tornado_lottery_way |  
+| bip_39_word_underscore_9 | tag_flag_naive_potato_thing_tornado_lottery_way_leg |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

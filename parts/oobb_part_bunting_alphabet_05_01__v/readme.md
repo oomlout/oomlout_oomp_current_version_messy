@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cram |  
+| bip_39_word_dash_10 | cram-reduce-penalty-tourist-dance-elevator-bean-panic-toss-risk |  
+| bip_39_word_dash_11 | cram-reduce-penalty-tourist-dance-elevator-bean-panic-toss-risk-exclude |  
+| bip_39_word_dash_12 | cram-reduce-penalty-tourist-dance-elevator-bean-panic-toss-risk-exclude-auto |  
+| bip_39_word_dash_2 | cram-reduce |  
+| bip_39_word_dash_3 | cram-reduce-penalty |  
+| bip_39_word_dash_4 | cram-reduce-penalty-tourist |  
+| bip_39_word_dash_5 | cram-reduce-penalty-tourist-dance |  
+| bip_39_word_dash_6 | cram-reduce-penalty-tourist-dance-elevator |  
+| bip_39_word_dash_7 | cram-reduce-penalty-tourist-dance-elevator-bean |  
+| bip_39_word_dash_8 | cram-reduce-penalty-tourist-dance-elevator-bean-panic |  
+| bip_39_word_dash_9 | cram-reduce-penalty-tourist-dance-elevator-bean-panic-toss |  
 | bip_39_word_new_br_1 | cram |  
 | bip_39_word_new_br_10 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk |  
 | bip_39_word_new_br_11 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk<br>exclude |  
@@ -147,6 +159,18 @@ toss |
 | bip_39_word_space_7 | cram reduce penalty tourist dance elevator bean |  
 | bip_39_word_space_8 | cram reduce penalty tourist dance elevator bean panic |  
 | bip_39_word_space_9 | cram reduce penalty tourist dance elevator bean panic toss |  
+| bip_39_word_underscore_1 | cram |  
+| bip_39_word_underscore_10 | cram_reduce_penalty_tourist_dance_elevator_bean_panic_toss_risk |  
+| bip_39_word_underscore_11 | cram_reduce_penalty_tourist_dance_elevator_bean_panic_toss_risk_exclude |  
+| bip_39_word_underscore_12 | cram_reduce_penalty_tourist_dance_elevator_bean_panic_toss_risk_exclude_auto |  
+| bip_39_word_underscore_2 | cram_reduce |  
+| bip_39_word_underscore_3 | cram_reduce_penalty |  
+| bip_39_word_underscore_4 | cram_reduce_penalty_tourist |  
+| bip_39_word_underscore_5 | cram_reduce_penalty_tourist_dance |  
+| bip_39_word_underscore_6 | cram_reduce_penalty_tourist_dance_elevator |  
+| bip_39_word_underscore_7 | cram_reduce_penalty_tourist_dance_elevator_bean |  
+| bip_39_word_underscore_8 | cram_reduce_penalty_tourist_dance_elevator_bean_panic |  
+| bip_39_word_underscore_9 | cram_reduce_penalty_tourist_dance_elevator_bean_panic_toss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

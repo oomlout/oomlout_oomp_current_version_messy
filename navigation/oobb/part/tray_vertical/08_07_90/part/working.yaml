@@ -1,3 +1,15 @@
+bip_39_word_dash_1: safe
+bip_39_word_dash_10: safe-elephant-fall-flight-cheese-heavy-century-exile-make-stove
+bip_39_word_dash_11: safe-elephant-fall-flight-cheese-heavy-century-exile-make-stove-devote
+bip_39_word_dash_12: safe-elephant-fall-flight-cheese-heavy-century-exile-make-stove-devote-absorb
+bip_39_word_dash_2: safe-elephant
+bip_39_word_dash_3: safe-elephant-fall
+bip_39_word_dash_4: safe-elephant-fall-flight
+bip_39_word_dash_5: safe-elephant-fall-flight-cheese
+bip_39_word_dash_6: safe-elephant-fall-flight-cheese-heavy
+bip_39_word_dash_7: safe-elephant-fall-flight-cheese-heavy-century
+bip_39_word_dash_8: safe-elephant-fall-flight-cheese-heavy-century-exile
+bip_39_word_dash_9: safe-elephant-fall-flight-cheese-heavy-century-exile-make
 bip_39_word_new_br_1: safe
 bip_39_word_new_br_10: safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile<br>make<br>stove
 bip_39_word_new_br_11: safe<br>elephant<br>fall<br>flight<br>cheese<br>heavy<br>century<br>exile<br>make<br>stove<br>devote
@@ -193,6 +205,18 @@ bip_39_word_space_6: safe elephant fall flight cheese heavy
 bip_39_word_space_7: safe elephant fall flight cheese heavy century
 bip_39_word_space_8: safe elephant fall flight cheese heavy century exile
 bip_39_word_space_9: safe elephant fall flight cheese heavy century exile make
+bip_39_word_underscore_1: safe
+bip_39_word_underscore_10: safe_elephant_fall_flight_cheese_heavy_century_exile_make_stove
+bip_39_word_underscore_11: safe_elephant_fall_flight_cheese_heavy_century_exile_make_stove_devote
+bip_39_word_underscore_12: safe_elephant_fall_flight_cheese_heavy_century_exile_make_stove_devote_absorb
+bip_39_word_underscore_2: safe_elephant
+bip_39_word_underscore_3: safe_elephant_fall
+bip_39_word_underscore_4: safe_elephant_fall_flight
+bip_39_word_underscore_5: safe_elephant_fall_flight_cheese
+bip_39_word_underscore_6: safe_elephant_fall_flight_cheese_heavy
+bip_39_word_underscore_7: safe_elephant_fall_flight_cheese_heavy_century
+bip_39_word_underscore_8: safe_elephant_fall_flight_cheese_heavy_century_exile
+bip_39_word_underscore_9: safe_elephant_fall_flight_cheese_heavy_century_exile_make
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wood
+bip_39_word_dash_10: wood-leader-remember-art-viable-vacuum-anxiety-jealous-athlete-latin
+bip_39_word_dash_11: wood-leader-remember-art-viable-vacuum-anxiety-jealous-athlete-latin-yard
+bip_39_word_dash_12: wood-leader-remember-art-viable-vacuum-anxiety-jealous-athlete-latin-yard-adult
+bip_39_word_dash_2: wood-leader
+bip_39_word_dash_3: wood-leader-remember
+bip_39_word_dash_4: wood-leader-remember-art
+bip_39_word_dash_5: wood-leader-remember-art-viable
+bip_39_word_dash_6: wood-leader-remember-art-viable-vacuum
+bip_39_word_dash_7: wood-leader-remember-art-viable-vacuum-anxiety
+bip_39_word_dash_8: wood-leader-remember-art-viable-vacuum-anxiety-jealous
+bip_39_word_dash_9: wood-leader-remember-art-viable-vacuum-anxiety-jealous-athlete
 bip_39_word_new_br_1: wood
 bip_39_word_new_br_10: wood<br>leader<br>remember<br>art<br>viable<br>vacuum<br>anxiety<br>jealous<br>athlete<br>latin
 bip_39_word_new_br_11: wood<br>leader<br>remember<br>art<br>viable<br>vacuum<br>anxiety<br>jealous<br>athlete<br>latin<br>yard
@@ -194,6 +206,18 @@ bip_39_word_space_6: wood leader remember art viable vacuum
 bip_39_word_space_7: wood leader remember art viable vacuum anxiety
 bip_39_word_space_8: wood leader remember art viable vacuum anxiety jealous
 bip_39_word_space_9: wood leader remember art viable vacuum anxiety jealous athlete
+bip_39_word_underscore_1: wood
+bip_39_word_underscore_10: wood_leader_remember_art_viable_vacuum_anxiety_jealous_athlete_latin
+bip_39_word_underscore_11: wood_leader_remember_art_viable_vacuum_anxiety_jealous_athlete_latin_yard
+bip_39_word_underscore_12: wood_leader_remember_art_viable_vacuum_anxiety_jealous_athlete_latin_yard_adult
+bip_39_word_underscore_2: wood_leader
+bip_39_word_underscore_3: wood_leader_remember
+bip_39_word_underscore_4: wood_leader_remember_art
+bip_39_word_underscore_5: wood_leader_remember_art_viable
+bip_39_word_underscore_6: wood_leader_remember_art_viable_vacuum
+bip_39_word_underscore_7: wood_leader_remember_art_viable_vacuum_anxiety
+bip_39_word_underscore_8: wood_leader_remember_art_viable_vacuum_anxiety_jealous
+bip_39_word_underscore_9: wood_leader_remember_art_viable_vacuum_anxiety_jealous_athlete
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | debate |  
+| bip_39_word_dash_10 | debate-donkey-indoor-connect-disease-grape-sunny-february-gather-farm |  
+| bip_39_word_dash_11 | debate-donkey-indoor-connect-disease-grape-sunny-february-gather-farm-pilot |  
+| bip_39_word_dash_12 | debate-donkey-indoor-connect-disease-grape-sunny-february-gather-farm-pilot-affair |  
+| bip_39_word_dash_2 | debate-donkey |  
+| bip_39_word_dash_3 | debate-donkey-indoor |  
+| bip_39_word_dash_4 | debate-donkey-indoor-connect |  
+| bip_39_word_dash_5 | debate-donkey-indoor-connect-disease |  
+| bip_39_word_dash_6 | debate-donkey-indoor-connect-disease-grape |  
+| bip_39_word_dash_7 | debate-donkey-indoor-connect-disease-grape-sunny |  
+| bip_39_word_dash_8 | debate-donkey-indoor-connect-disease-grape-sunny-february |  
+| bip_39_word_dash_9 | debate-donkey-indoor-connect-disease-grape-sunny-february-gather |  
 | bip_39_word_new_br_1 | debate |  
 | bip_39_word_new_br_10 | debate<br>donkey<br>indoor<br>connect<br>disease<br>grape<br>sunny<br>february<br>gather<br>farm |  
 | bip_39_word_new_br_11 | debate<br>donkey<br>indoor<br>connect<br>disease<br>grape<br>sunny<br>february<br>gather<br>farm<br>pilot |  
@@ -147,6 +159,18 @@ gather |
 | bip_39_word_space_7 | debate donkey indoor connect disease grape sunny |  
 | bip_39_word_space_8 | debate donkey indoor connect disease grape sunny february |  
 | bip_39_word_space_9 | debate donkey indoor connect disease grape sunny february gather |  
+| bip_39_word_underscore_1 | debate |  
+| bip_39_word_underscore_10 | debate_donkey_indoor_connect_disease_grape_sunny_february_gather_farm |  
+| bip_39_word_underscore_11 | debate_donkey_indoor_connect_disease_grape_sunny_february_gather_farm_pilot |  
+| bip_39_word_underscore_12 | debate_donkey_indoor_connect_disease_grape_sunny_february_gather_farm_pilot_affair |  
+| bip_39_word_underscore_2 | debate_donkey |  
+| bip_39_word_underscore_3 | debate_donkey_indoor |  
+| bip_39_word_underscore_4 | debate_donkey_indoor_connect |  
+| bip_39_word_underscore_5 | debate_donkey_indoor_connect_disease |  
+| bip_39_word_underscore_6 | debate_donkey_indoor_connect_disease_grape |  
+| bip_39_word_underscore_7 | debate_donkey_indoor_connect_disease_grape_sunny |  
+| bip_39_word_underscore_8 | debate_donkey_indoor_connect_disease_grape_sunny_february |  
+| bip_39_word_underscore_9 | debate_donkey_indoor_connect_disease_grape_sunny_february_gather |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

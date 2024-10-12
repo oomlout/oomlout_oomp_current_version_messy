@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | float |  
+| bip_39_word_dash_10 | float-regular-olympic-august-suit-still-buddy-hidden-ankle-shallow |  
+| bip_39_word_dash_11 | float-regular-olympic-august-suit-still-buddy-hidden-ankle-shallow-chimney |  
+| bip_39_word_dash_12 | float-regular-olympic-august-suit-still-buddy-hidden-ankle-shallow-chimney-acid |  
+| bip_39_word_dash_2 | float-regular |  
+| bip_39_word_dash_3 | float-regular-olympic |  
+| bip_39_word_dash_4 | float-regular-olympic-august |  
+| bip_39_word_dash_5 | float-regular-olympic-august-suit |  
+| bip_39_word_dash_6 | float-regular-olympic-august-suit-still |  
+| bip_39_word_dash_7 | float-regular-olympic-august-suit-still-buddy |  
+| bip_39_word_dash_8 | float-regular-olympic-august-suit-still-buddy-hidden |  
+| bip_39_word_dash_9 | float-regular-olympic-august-suit-still-buddy-hidden-ankle |  
 | bip_39_word_new_br_1 | float |  
 | bip_39_word_new_br_10 | float<br>regular<br>olympic<br>august<br>suit<br>still<br>buddy<br>hidden<br>ankle<br>shallow |  
 | bip_39_word_new_br_11 | float<br>regular<br>olympic<br>august<br>suit<br>still<br>buddy<br>hidden<br>ankle<br>shallow<br>chimney |  
@@ -147,6 +159,18 @@ ankle |
 | bip_39_word_space_7 | float regular olympic august suit still buddy |  
 | bip_39_word_space_8 | float regular olympic august suit still buddy hidden |  
 | bip_39_word_space_9 | float regular olympic august suit still buddy hidden ankle |  
+| bip_39_word_underscore_1 | float |  
+| bip_39_word_underscore_10 | float_regular_olympic_august_suit_still_buddy_hidden_ankle_shallow |  
+| bip_39_word_underscore_11 | float_regular_olympic_august_suit_still_buddy_hidden_ankle_shallow_chimney |  
+| bip_39_word_underscore_12 | float_regular_olympic_august_suit_still_buddy_hidden_ankle_shallow_chimney_acid |  
+| bip_39_word_underscore_2 | float_regular |  
+| bip_39_word_underscore_3 | float_regular_olympic |  
+| bip_39_word_underscore_4 | float_regular_olympic_august |  
+| bip_39_word_underscore_5 | float_regular_olympic_august_suit |  
+| bip_39_word_underscore_6 | float_regular_olympic_august_suit_still |  
+| bip_39_word_underscore_7 | float_regular_olympic_august_suit_still_buddy |  
+| bip_39_word_underscore_8 | float_regular_olympic_august_suit_still_buddy_hidden |  
+| bip_39_word_underscore_9 | float_regular_olympic_august_suit_still_buddy_hidden_ankle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

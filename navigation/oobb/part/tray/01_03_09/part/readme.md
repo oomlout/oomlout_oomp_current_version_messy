@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | define |  
+| bip_39_word_dash_10 | define-oxygen-level-fever-stand-please-exercise-funny-soccer-must |  
+| bip_39_word_dash_11 | define-oxygen-level-fever-stand-please-exercise-funny-soccer-must-lonely |  
+| bip_39_word_dash_12 | define-oxygen-level-fever-stand-please-exercise-funny-soccer-must-lonely-area |  
+| bip_39_word_dash_2 | define-oxygen |  
+| bip_39_word_dash_3 | define-oxygen-level |  
+| bip_39_word_dash_4 | define-oxygen-level-fever |  
+| bip_39_word_dash_5 | define-oxygen-level-fever-stand |  
+| bip_39_word_dash_6 | define-oxygen-level-fever-stand-please |  
+| bip_39_word_dash_7 | define-oxygen-level-fever-stand-please-exercise |  
+| bip_39_word_dash_8 | define-oxygen-level-fever-stand-please-exercise-funny |  
+| bip_39_word_dash_9 | define-oxygen-level-fever-stand-please-exercise-funny-soccer |  
 | bip_39_word_new_br_1 | define |  
 | bip_39_word_new_br_10 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must |  
 | bip_39_word_new_br_11 | define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must<br>lonely |  
@@ -147,6 +159,18 @@ soccer |
 | bip_39_word_space_7 | define oxygen level fever stand please exercise |  
 | bip_39_word_space_8 | define oxygen level fever stand please exercise funny |  
 | bip_39_word_space_9 | define oxygen level fever stand please exercise funny soccer |  
+| bip_39_word_underscore_1 | define |  
+| bip_39_word_underscore_10 | define_oxygen_level_fever_stand_please_exercise_funny_soccer_must |  
+| bip_39_word_underscore_11 | define_oxygen_level_fever_stand_please_exercise_funny_soccer_must_lonely |  
+| bip_39_word_underscore_12 | define_oxygen_level_fever_stand_please_exercise_funny_soccer_must_lonely_area |  
+| bip_39_word_underscore_2 | define_oxygen |  
+| bip_39_word_underscore_3 | define_oxygen_level |  
+| bip_39_word_underscore_4 | define_oxygen_level_fever |  
+| bip_39_word_underscore_5 | define_oxygen_level_fever_stand |  
+| bip_39_word_underscore_6 | define_oxygen_level_fever_stand_please |  
+| bip_39_word_underscore_7 | define_oxygen_level_fever_stand_please_exercise |  
+| bip_39_word_underscore_8 | define_oxygen_level_fever_stand_please_exercise_funny |  
+| bip_39_word_underscore_9 | define_oxygen_level_fever_stand_please_exercise_funny_soccer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

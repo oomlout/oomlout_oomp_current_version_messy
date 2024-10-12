@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | void |  
+| bip_39_word_dash_10 | void-myth-first-wash-crime-exit-pride-tomorrow-ozone-comic |  
+| bip_39_word_dash_11 | void-myth-first-wash-crime-exit-pride-tomorrow-ozone-comic-body |  
+| bip_39_word_dash_12 | void-myth-first-wash-crime-exit-pride-tomorrow-ozone-comic-body-ability |  
+| bip_39_word_dash_2 | void-myth |  
+| bip_39_word_dash_3 | void-myth-first |  
+| bip_39_word_dash_4 | void-myth-first-wash |  
+| bip_39_word_dash_5 | void-myth-first-wash-crime |  
+| bip_39_word_dash_6 | void-myth-first-wash-crime-exit |  
+| bip_39_word_dash_7 | void-myth-first-wash-crime-exit-pride |  
+| bip_39_word_dash_8 | void-myth-first-wash-crime-exit-pride-tomorrow |  
+| bip_39_word_dash_9 | void-myth-first-wash-crime-exit-pride-tomorrow-ozone |  
 | bip_39_word_new_br_1 | void |  
 | bip_39_word_new_br_10 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic |  
 | bip_39_word_new_br_11 | void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic<br>body |  
@@ -147,6 +159,18 @@ ozone |
 | bip_39_word_space_7 | void myth first wash crime exit pride |  
 | bip_39_word_space_8 | void myth first wash crime exit pride tomorrow |  
 | bip_39_word_space_9 | void myth first wash crime exit pride tomorrow ozone |  
+| bip_39_word_underscore_1 | void |  
+| bip_39_word_underscore_10 | void_myth_first_wash_crime_exit_pride_tomorrow_ozone_comic |  
+| bip_39_word_underscore_11 | void_myth_first_wash_crime_exit_pride_tomorrow_ozone_comic_body |  
+| bip_39_word_underscore_12 | void_myth_first_wash_crime_exit_pride_tomorrow_ozone_comic_body_ability |  
+| bip_39_word_underscore_2 | void_myth |  
+| bip_39_word_underscore_3 | void_myth_first |  
+| bip_39_word_underscore_4 | void_myth_first_wash |  
+| bip_39_word_underscore_5 | void_myth_first_wash_crime |  
+| bip_39_word_underscore_6 | void_myth_first_wash_crime_exit |  
+| bip_39_word_underscore_7 | void_myth_first_wash_crime_exit_pride |  
+| bip_39_word_underscore_8 | void_myth_first_wash_crime_exit_pride_tomorrow |  
+| bip_39_word_underscore_9 | void_myth_first_wash_crime_exit_pride_tomorrow_ozone |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: decade
+bip_39_word_dash_10: decade-beauty-turtle-flame-farm-hard-fiction-about-unaware-tortoise
+bip_39_word_dash_11: decade-beauty-turtle-flame-farm-hard-fiction-about-unaware-tortoise-shop
+bip_39_word_dash_12: decade-beauty-turtle-flame-farm-hard-fiction-about-unaware-tortoise-shop-allow
+bip_39_word_dash_2: decade-beauty
+bip_39_word_dash_3: decade-beauty-turtle
+bip_39_word_dash_4: decade-beauty-turtle-flame
+bip_39_word_dash_5: decade-beauty-turtle-flame-farm
+bip_39_word_dash_6: decade-beauty-turtle-flame-farm-hard
+bip_39_word_dash_7: decade-beauty-turtle-flame-farm-hard-fiction
+bip_39_word_dash_8: decade-beauty-turtle-flame-farm-hard-fiction-about
+bip_39_word_dash_9: decade-beauty-turtle-flame-farm-hard-fiction-about-unaware
 bip_39_word_new_br_1: decade
 bip_39_word_new_br_10: decade<br>beauty<br>turtle<br>flame<br>farm<br>hard<br>fiction<br>about<br>unaware<br>tortoise
 bip_39_word_new_br_11: decade<br>beauty<br>turtle<br>flame<br>farm<br>hard<br>fiction<br>about<br>unaware<br>tortoise<br>shop
@@ -193,6 +205,18 @@ bip_39_word_space_6: decade beauty turtle flame farm hard
 bip_39_word_space_7: decade beauty turtle flame farm hard fiction
 bip_39_word_space_8: decade beauty turtle flame farm hard fiction about
 bip_39_word_space_9: decade beauty turtle flame farm hard fiction about unaware
+bip_39_word_underscore_1: decade
+bip_39_word_underscore_10: decade_beauty_turtle_flame_farm_hard_fiction_about_unaware_tortoise
+bip_39_word_underscore_11: decade_beauty_turtle_flame_farm_hard_fiction_about_unaware_tortoise_shop
+bip_39_word_underscore_12: decade_beauty_turtle_flame_farm_hard_fiction_about_unaware_tortoise_shop_allow
+bip_39_word_underscore_2: decade_beauty
+bip_39_word_underscore_3: decade_beauty_turtle
+bip_39_word_underscore_4: decade_beauty_turtle_flame
+bip_39_word_underscore_5: decade_beauty_turtle_flame_farm
+bip_39_word_underscore_6: decade_beauty_turtle_flame_farm_hard
+bip_39_word_underscore_7: decade_beauty_turtle_flame_farm_hard_fiction
+bip_39_word_underscore_8: decade_beauty_turtle_flame_farm_hard_fiction_about
+bip_39_word_underscore_9: decade_beauty_turtle_flame_farm_hard_fiction_about_unaware
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

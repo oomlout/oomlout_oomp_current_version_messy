@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | outside |  
+| bip_39_word_dash_10 | outside-tobacco-oven-foot-abstract-amazing-brave-spice-alone-decorate |  
+| bip_39_word_dash_11 | outside-tobacco-oven-foot-abstract-amazing-brave-spice-alone-decorate-tomorrow |  
+| bip_39_word_dash_12 | outside-tobacco-oven-foot-abstract-amazing-brave-spice-alone-decorate-tomorrow-ahead |  
+| bip_39_word_dash_2 | outside-tobacco |  
+| bip_39_word_dash_3 | outside-tobacco-oven |  
+| bip_39_word_dash_4 | outside-tobacco-oven-foot |  
+| bip_39_word_dash_5 | outside-tobacco-oven-foot-abstract |  
+| bip_39_word_dash_6 | outside-tobacco-oven-foot-abstract-amazing |  
+| bip_39_word_dash_7 | outside-tobacco-oven-foot-abstract-amazing-brave |  
+| bip_39_word_dash_8 | outside-tobacco-oven-foot-abstract-amazing-brave-spice |  
+| bip_39_word_dash_9 | outside-tobacco-oven-foot-abstract-amazing-brave-spice-alone |  
 | bip_39_word_new_br_1 | outside |  
 | bip_39_word_new_br_10 | outside<br>tobacco<br>oven<br>foot<br>abstract<br>amazing<br>brave<br>spice<br>alone<br>decorate |  
 | bip_39_word_new_br_11 | outside<br>tobacco<br>oven<br>foot<br>abstract<br>amazing<br>brave<br>spice<br>alone<br>decorate<br>tomorrow |  
@@ -147,6 +159,18 @@ alone |
 | bip_39_word_space_7 | outside tobacco oven foot abstract amazing brave |  
 | bip_39_word_space_8 | outside tobacco oven foot abstract amazing brave spice |  
 | bip_39_word_space_9 | outside tobacco oven foot abstract amazing brave spice alone |  
+| bip_39_word_underscore_1 | outside |  
+| bip_39_word_underscore_10 | outside_tobacco_oven_foot_abstract_amazing_brave_spice_alone_decorate |  
+| bip_39_word_underscore_11 | outside_tobacco_oven_foot_abstract_amazing_brave_spice_alone_decorate_tomorrow |  
+| bip_39_word_underscore_12 | outside_tobacco_oven_foot_abstract_amazing_brave_spice_alone_decorate_tomorrow_ahead |  
+| bip_39_word_underscore_2 | outside_tobacco |  
+| bip_39_word_underscore_3 | outside_tobacco_oven |  
+| bip_39_word_underscore_4 | outside_tobacco_oven_foot |  
+| bip_39_word_underscore_5 | outside_tobacco_oven_foot_abstract |  
+| bip_39_word_underscore_6 | outside_tobacco_oven_foot_abstract_amazing |  
+| bip_39_word_underscore_7 | outside_tobacco_oven_foot_abstract_amazing_brave |  
+| bip_39_word_underscore_8 | outside_tobacco_oven_foot_abstract_amazing_brave_spice |  
+| bip_39_word_underscore_9 | outside_tobacco_oven_foot_abstract_amazing_brave_spice_alone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

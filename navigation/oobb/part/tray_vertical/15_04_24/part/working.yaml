@@ -1,3 +1,15 @@
+bip_39_word_dash_1: powder
+bip_39_word_dash_10: powder-mutual-spy-extend-despair-uniform-tip-inflict-february-wide
+bip_39_word_dash_11: powder-mutual-spy-extend-despair-uniform-tip-inflict-february-wide-unlock
+bip_39_word_dash_12: powder-mutual-spy-extend-despair-uniform-tip-inflict-february-wide-unlock-attack
+bip_39_word_dash_2: powder-mutual
+bip_39_word_dash_3: powder-mutual-spy
+bip_39_word_dash_4: powder-mutual-spy-extend
+bip_39_word_dash_5: powder-mutual-spy-extend-despair
+bip_39_word_dash_6: powder-mutual-spy-extend-despair-uniform
+bip_39_word_dash_7: powder-mutual-spy-extend-despair-uniform-tip
+bip_39_word_dash_8: powder-mutual-spy-extend-despair-uniform-tip-inflict
+bip_39_word_dash_9: powder-mutual-spy-extend-despair-uniform-tip-inflict-february
 bip_39_word_new_br_1: powder
 bip_39_word_new_br_10: powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide
 bip_39_word_new_br_11: powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide<br>unlock
@@ -194,6 +206,18 @@ bip_39_word_space_6: powder mutual spy extend despair uniform
 bip_39_word_space_7: powder mutual spy extend despair uniform tip
 bip_39_word_space_8: powder mutual spy extend despair uniform tip inflict
 bip_39_word_space_9: powder mutual spy extend despair uniform tip inflict february
+bip_39_word_underscore_1: powder
+bip_39_word_underscore_10: powder_mutual_spy_extend_despair_uniform_tip_inflict_february_wide
+bip_39_word_underscore_11: powder_mutual_spy_extend_despair_uniform_tip_inflict_february_wide_unlock
+bip_39_word_underscore_12: powder_mutual_spy_extend_despair_uniform_tip_inflict_february_wide_unlock_attack
+bip_39_word_underscore_2: powder_mutual
+bip_39_word_underscore_3: powder_mutual_spy
+bip_39_word_underscore_4: powder_mutual_spy_extend
+bip_39_word_underscore_5: powder_mutual_spy_extend_despair
+bip_39_word_underscore_6: powder_mutual_spy_extend_despair_uniform
+bip_39_word_underscore_7: powder_mutual_spy_extend_despair_uniform_tip
+bip_39_word_underscore_8: powder_mutual_spy_extend_despair_uniform_tip_inflict
+bip_39_word_underscore_9: powder_mutual_spy_extend_despair_uniform_tip_inflict_february
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

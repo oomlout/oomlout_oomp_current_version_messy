@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lobster |  
+| bip_39_word_dash_10 | lobster-hip-resemble-sunny-color-play-rare-miss-food-dog |  
+| bip_39_word_dash_11 | lobster-hip-resemble-sunny-color-play-rare-miss-food-dog-process |  
+| bip_39_word_dash_12 | lobster-hip-resemble-sunny-color-play-rare-miss-food-dog-process-aerobic |  
+| bip_39_word_dash_2 | lobster-hip |  
+| bip_39_word_dash_3 | lobster-hip-resemble |  
+| bip_39_word_dash_4 | lobster-hip-resemble-sunny |  
+| bip_39_word_dash_5 | lobster-hip-resemble-sunny-color |  
+| bip_39_word_dash_6 | lobster-hip-resemble-sunny-color-play |  
+| bip_39_word_dash_7 | lobster-hip-resemble-sunny-color-play-rare |  
+| bip_39_word_dash_8 | lobster-hip-resemble-sunny-color-play-rare-miss |  
+| bip_39_word_dash_9 | lobster-hip-resemble-sunny-color-play-rare-miss-food |  
 | bip_39_word_new_br_1 | lobster |  
 | bip_39_word_new_br_10 | lobster<br>hip<br>resemble<br>sunny<br>color<br>play<br>rare<br>miss<br>food<br>dog |  
 | bip_39_word_new_br_11 | lobster<br>hip<br>resemble<br>sunny<br>color<br>play<br>rare<br>miss<br>food<br>dog<br>process |  
@@ -147,6 +159,18 @@ food |
 | bip_39_word_space_7 | lobster hip resemble sunny color play rare |  
 | bip_39_word_space_8 | lobster hip resemble sunny color play rare miss |  
 | bip_39_word_space_9 | lobster hip resemble sunny color play rare miss food |  
+| bip_39_word_underscore_1 | lobster |  
+| bip_39_word_underscore_10 | lobster_hip_resemble_sunny_color_play_rare_miss_food_dog |  
+| bip_39_word_underscore_11 | lobster_hip_resemble_sunny_color_play_rare_miss_food_dog_process |  
+| bip_39_word_underscore_12 | lobster_hip_resemble_sunny_color_play_rare_miss_food_dog_process_aerobic |  
+| bip_39_word_underscore_2 | lobster_hip |  
+| bip_39_word_underscore_3 | lobster_hip_resemble |  
+| bip_39_word_underscore_4 | lobster_hip_resemble_sunny |  
+| bip_39_word_underscore_5 | lobster_hip_resemble_sunny_color |  
+| bip_39_word_underscore_6 | lobster_hip_resemble_sunny_color_play |  
+| bip_39_word_underscore_7 | lobster_hip_resemble_sunny_color_play_rare |  
+| bip_39_word_underscore_8 | lobster_hip_resemble_sunny_color_play_rare_miss |  
+| bip_39_word_underscore_9 | lobster_hip_resemble_sunny_color_play_rare_miss_food |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

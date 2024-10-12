@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cage
+bip_39_word_dash_10: cage-income-flower-glory-gloom-worry-absurd-badge-reflect-shift
+bip_39_word_dash_11: cage-income-flower-glory-gloom-worry-absurd-badge-reflect-shift-trap
+bip_39_word_dash_12: cage-income-flower-glory-gloom-worry-absurd-badge-reflect-shift-trap-abstract
+bip_39_word_dash_2: cage-income
+bip_39_word_dash_3: cage-income-flower
+bip_39_word_dash_4: cage-income-flower-glory
+bip_39_word_dash_5: cage-income-flower-glory-gloom
+bip_39_word_dash_6: cage-income-flower-glory-gloom-worry
+bip_39_word_dash_7: cage-income-flower-glory-gloom-worry-absurd
+bip_39_word_dash_8: cage-income-flower-glory-gloom-worry-absurd-badge
+bip_39_word_dash_9: cage-income-flower-glory-gloom-worry-absurd-badge-reflect
 bip_39_word_new_br_1: cage
 bip_39_word_new_br_10: cage<br>income<br>flower<br>glory<br>gloom<br>worry<br>absurd<br>badge<br>reflect<br>shift
 bip_39_word_new_br_11: cage<br>income<br>flower<br>glory<br>gloom<br>worry<br>absurd<br>badge<br>reflect<br>shift<br>trap
@@ -193,6 +205,18 @@ bip_39_word_space_6: cage income flower glory gloom worry
 bip_39_word_space_7: cage income flower glory gloom worry absurd
 bip_39_word_space_8: cage income flower glory gloom worry absurd badge
 bip_39_word_space_9: cage income flower glory gloom worry absurd badge reflect
+bip_39_word_underscore_1: cage
+bip_39_word_underscore_10: cage_income_flower_glory_gloom_worry_absurd_badge_reflect_shift
+bip_39_word_underscore_11: cage_income_flower_glory_gloom_worry_absurd_badge_reflect_shift_trap
+bip_39_word_underscore_12: cage_income_flower_glory_gloom_worry_absurd_badge_reflect_shift_trap_abstract
+bip_39_word_underscore_2: cage_income
+bip_39_word_underscore_3: cage_income_flower
+bip_39_word_underscore_4: cage_income_flower_glory
+bip_39_word_underscore_5: cage_income_flower_glory_gloom
+bip_39_word_underscore_6: cage_income_flower_glory_gloom_worry
+bip_39_word_underscore_7: cage_income_flower_glory_gloom_worry_absurd
+bip_39_word_underscore_8: cage_income_flower_glory_gloom_worry_absurd_badge
+bip_39_word_underscore_9: cage_income_flower_glory_gloom_worry_absurd_badge_reflect
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

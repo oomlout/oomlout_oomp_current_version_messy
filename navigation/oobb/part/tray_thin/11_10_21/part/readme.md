@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | only |  
+| bip_39_word_dash_10 | only-wealth-village-rocket-supreme-element-expire-kangaroo-tonight-exist |  
+| bip_39_word_dash_11 | only-wealth-village-rocket-supreme-element-expire-kangaroo-tonight-exist-jeans |  
+| bip_39_word_dash_12 | only-wealth-village-rocket-supreme-element-expire-kangaroo-tonight-exist-jeans-album |  
+| bip_39_word_dash_2 | only-wealth |  
+| bip_39_word_dash_3 | only-wealth-village |  
+| bip_39_word_dash_4 | only-wealth-village-rocket |  
+| bip_39_word_dash_5 | only-wealth-village-rocket-supreme |  
+| bip_39_word_dash_6 | only-wealth-village-rocket-supreme-element |  
+| bip_39_word_dash_7 | only-wealth-village-rocket-supreme-element-expire |  
+| bip_39_word_dash_8 | only-wealth-village-rocket-supreme-element-expire-kangaroo |  
+| bip_39_word_dash_9 | only-wealth-village-rocket-supreme-element-expire-kangaroo-tonight |  
 | bip_39_word_new_br_1 | only |  
 | bip_39_word_new_br_10 | only<br>wealth<br>village<br>rocket<br>supreme<br>element<br>expire<br>kangaroo<br>tonight<br>exist |  
 | bip_39_word_new_br_11 | only<br>wealth<br>village<br>rocket<br>supreme<br>element<br>expire<br>kangaroo<br>tonight<br>exist<br>jeans |  
@@ -147,6 +159,18 @@ tonight |
 | bip_39_word_space_7 | only wealth village rocket supreme element expire |  
 | bip_39_word_space_8 | only wealth village rocket supreme element expire kangaroo |  
 | bip_39_word_space_9 | only wealth village rocket supreme element expire kangaroo tonight |  
+| bip_39_word_underscore_1 | only |  
+| bip_39_word_underscore_10 | only_wealth_village_rocket_supreme_element_expire_kangaroo_tonight_exist |  
+| bip_39_word_underscore_11 | only_wealth_village_rocket_supreme_element_expire_kangaroo_tonight_exist_jeans |  
+| bip_39_word_underscore_12 | only_wealth_village_rocket_supreme_element_expire_kangaroo_tonight_exist_jeans_album |  
+| bip_39_word_underscore_2 | only_wealth |  
+| bip_39_word_underscore_3 | only_wealth_village |  
+| bip_39_word_underscore_4 | only_wealth_village_rocket |  
+| bip_39_word_underscore_5 | only_wealth_village_rocket_supreme |  
+| bip_39_word_underscore_6 | only_wealth_village_rocket_supreme_element |  
+| bip_39_word_underscore_7 | only_wealth_village_rocket_supreme_element_expire |  
+| bip_39_word_underscore_8 | only_wealth_village_rocket_supreme_element_expire_kangaroo |  
+| bip_39_word_underscore_9 | only_wealth_village_rocket_supreme_element_expire_kangaroo_tonight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

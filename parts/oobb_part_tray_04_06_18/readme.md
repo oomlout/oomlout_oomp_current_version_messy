@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rabbit |  
+| bip_39_word_dash_10 | rabbit-uncle-verb-other-crazy-people-run-lobster-travel-buffalo |  
+| bip_39_word_dash_11 | rabbit-uncle-verb-other-crazy-people-run-lobster-travel-buffalo-hair |  
+| bip_39_word_dash_12 | rabbit-uncle-verb-other-crazy-people-run-lobster-travel-buffalo-hair-air |  
+| bip_39_word_dash_2 | rabbit-uncle |  
+| bip_39_word_dash_3 | rabbit-uncle-verb |  
+| bip_39_word_dash_4 | rabbit-uncle-verb-other |  
+| bip_39_word_dash_5 | rabbit-uncle-verb-other-crazy |  
+| bip_39_word_dash_6 | rabbit-uncle-verb-other-crazy-people |  
+| bip_39_word_dash_7 | rabbit-uncle-verb-other-crazy-people-run |  
+| bip_39_word_dash_8 | rabbit-uncle-verb-other-crazy-people-run-lobster |  
+| bip_39_word_dash_9 | rabbit-uncle-verb-other-crazy-people-run-lobster-travel |  
 | bip_39_word_new_br_1 | rabbit |  
 | bip_39_word_new_br_10 | rabbit<br>uncle<br>verb<br>other<br>crazy<br>people<br>run<br>lobster<br>travel<br>buffalo |  
 | bip_39_word_new_br_11 | rabbit<br>uncle<br>verb<br>other<br>crazy<br>people<br>run<br>lobster<br>travel<br>buffalo<br>hair |  
@@ -147,6 +159,18 @@ travel |
 | bip_39_word_space_7 | rabbit uncle verb other crazy people run |  
 | bip_39_word_space_8 | rabbit uncle verb other crazy people run lobster |  
 | bip_39_word_space_9 | rabbit uncle verb other crazy people run lobster travel |  
+| bip_39_word_underscore_1 | rabbit |  
+| bip_39_word_underscore_10 | rabbit_uncle_verb_other_crazy_people_run_lobster_travel_buffalo |  
+| bip_39_word_underscore_11 | rabbit_uncle_verb_other_crazy_people_run_lobster_travel_buffalo_hair |  
+| bip_39_word_underscore_12 | rabbit_uncle_verb_other_crazy_people_run_lobster_travel_buffalo_hair_air |  
+| bip_39_word_underscore_2 | rabbit_uncle |  
+| bip_39_word_underscore_3 | rabbit_uncle_verb |  
+| bip_39_word_underscore_4 | rabbit_uncle_verb_other |  
+| bip_39_word_underscore_5 | rabbit_uncle_verb_other_crazy |  
+| bip_39_word_underscore_6 | rabbit_uncle_verb_other_crazy_people |  
+| bip_39_word_underscore_7 | rabbit_uncle_verb_other_crazy_people_run |  
+| bip_39_word_underscore_8 | rabbit_uncle_verb_other_crazy_people_run_lobster |  
+| bip_39_word_underscore_9 | rabbit_uncle_verb_other_crazy_people_run_lobster_travel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

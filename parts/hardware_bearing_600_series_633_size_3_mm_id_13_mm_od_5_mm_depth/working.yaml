@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scan
+bip_39_word_dash_10: scan-couch-scrap-noodle-angle-card-sunset-laundry-blade-winter
+bip_39_word_dash_11: scan-couch-scrap-noodle-angle-card-sunset-laundry-blade-winter-dove
+bip_39_word_dash_12: scan-couch-scrap-noodle-angle-card-sunset-laundry-blade-winter-dove-alert
+bip_39_word_dash_2: scan-couch
+bip_39_word_dash_3: scan-couch-scrap
+bip_39_word_dash_4: scan-couch-scrap-noodle
+bip_39_word_dash_5: scan-couch-scrap-noodle-angle
+bip_39_word_dash_6: scan-couch-scrap-noodle-angle-card
+bip_39_word_dash_7: scan-couch-scrap-noodle-angle-card-sunset
+bip_39_word_dash_8: scan-couch-scrap-noodle-angle-card-sunset-laundry
+bip_39_word_dash_9: scan-couch-scrap-noodle-angle-card-sunset-laundry-blade
 bip_39_word_new_br_1: scan
 bip_39_word_new_br_10: scan<br>couch<br>scrap<br>noodle<br>angle<br>card<br>sunset<br>laundry<br>blade<br>winter
 bip_39_word_new_br_11: scan<br>couch<br>scrap<br>noodle<br>angle<br>card<br>sunset<br>laundry<br>blade<br>winter<br>dove
@@ -193,6 +205,18 @@ bip_39_word_space_6: scan couch scrap noodle angle card
 bip_39_word_space_7: scan couch scrap noodle angle card sunset
 bip_39_word_space_8: scan couch scrap noodle angle card sunset laundry
 bip_39_word_space_9: scan couch scrap noodle angle card sunset laundry blade
+bip_39_word_underscore_1: scan
+bip_39_word_underscore_10: scan_couch_scrap_noodle_angle_card_sunset_laundry_blade_winter
+bip_39_word_underscore_11: scan_couch_scrap_noodle_angle_card_sunset_laundry_blade_winter_dove
+bip_39_word_underscore_12: scan_couch_scrap_noodle_angle_card_sunset_laundry_blade_winter_dove_alert
+bip_39_word_underscore_2: scan_couch
+bip_39_word_underscore_3: scan_couch_scrap
+bip_39_word_underscore_4: scan_couch_scrap_noodle
+bip_39_word_underscore_5: scan_couch_scrap_noodle_angle
+bip_39_word_underscore_6: scan_couch_scrap_noodle_angle_card
+bip_39_word_underscore_7: scan_couch_scrap_noodle_angle_card_sunset
+bip_39_word_underscore_8: scan_couch_scrap_noodle_angle_card_sunset_laundry
+bip_39_word_underscore_9: scan_couch_scrap_noodle_angle_card_sunset_laundry_blade
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

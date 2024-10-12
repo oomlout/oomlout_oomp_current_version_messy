@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | annual |  
+| bip_39_word_dash_10 | annual-bonus-transfer-cinnamon-rebuild-brave-slice-burger-autumn-proof |  
+| bip_39_word_dash_11 | annual-bonus-transfer-cinnamon-rebuild-brave-slice-burger-autumn-proof-pupil |  
+| bip_39_word_dash_12 | annual-bonus-transfer-cinnamon-rebuild-brave-slice-burger-autumn-proof-pupil-angle |  
+| bip_39_word_dash_2 | annual-bonus |  
+| bip_39_word_dash_3 | annual-bonus-transfer |  
+| bip_39_word_dash_4 | annual-bonus-transfer-cinnamon |  
+| bip_39_word_dash_5 | annual-bonus-transfer-cinnamon-rebuild |  
+| bip_39_word_dash_6 | annual-bonus-transfer-cinnamon-rebuild-brave |  
+| bip_39_word_dash_7 | annual-bonus-transfer-cinnamon-rebuild-brave-slice |  
+| bip_39_word_dash_8 | annual-bonus-transfer-cinnamon-rebuild-brave-slice-burger |  
+| bip_39_word_dash_9 | annual-bonus-transfer-cinnamon-rebuild-brave-slice-burger-autumn |  
 | bip_39_word_new_br_1 | annual |  
 | bip_39_word_new_br_10 | annual<br>bonus<br>transfer<br>cinnamon<br>rebuild<br>brave<br>slice<br>burger<br>autumn<br>proof |  
 | bip_39_word_new_br_11 | annual<br>bonus<br>transfer<br>cinnamon<br>rebuild<br>brave<br>slice<br>burger<br>autumn<br>proof<br>pupil |  
@@ -147,6 +159,18 @@ autumn |
 | bip_39_word_space_7 | annual bonus transfer cinnamon rebuild brave slice |  
 | bip_39_word_space_8 | annual bonus transfer cinnamon rebuild brave slice burger |  
 | bip_39_word_space_9 | annual bonus transfer cinnamon rebuild brave slice burger autumn |  
+| bip_39_word_underscore_1 | annual |  
+| bip_39_word_underscore_10 | annual_bonus_transfer_cinnamon_rebuild_brave_slice_burger_autumn_proof |  
+| bip_39_word_underscore_11 | annual_bonus_transfer_cinnamon_rebuild_brave_slice_burger_autumn_proof_pupil |  
+| bip_39_word_underscore_12 | annual_bonus_transfer_cinnamon_rebuild_brave_slice_burger_autumn_proof_pupil_angle |  
+| bip_39_word_underscore_2 | annual_bonus |  
+| bip_39_word_underscore_3 | annual_bonus_transfer |  
+| bip_39_word_underscore_4 | annual_bonus_transfer_cinnamon |  
+| bip_39_word_underscore_5 | annual_bonus_transfer_cinnamon_rebuild |  
+| bip_39_word_underscore_6 | annual_bonus_transfer_cinnamon_rebuild_brave |  
+| bip_39_word_underscore_7 | annual_bonus_transfer_cinnamon_rebuild_brave_slice |  
+| bip_39_word_underscore_8 | annual_bonus_transfer_cinnamon_rebuild_brave_slice_burger |  
+| bip_39_word_underscore_9 | annual_bonus_transfer_cinnamon_rebuild_brave_slice_burger_autumn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

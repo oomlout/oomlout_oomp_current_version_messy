@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | monkey |  
+| bip_39_word_dash_10 | monkey-shine-catalog-other-below-bottom-grunt-oil-struggle-brass |  
+| bip_39_word_dash_11 | monkey-shine-catalog-other-below-bottom-grunt-oil-struggle-brass-wonder |  
+| bip_39_word_dash_12 | monkey-shine-catalog-other-below-bottom-grunt-oil-struggle-brass-wonder-adapt |  
+| bip_39_word_dash_2 | monkey-shine |  
+| bip_39_word_dash_3 | monkey-shine-catalog |  
+| bip_39_word_dash_4 | monkey-shine-catalog-other |  
+| bip_39_word_dash_5 | monkey-shine-catalog-other-below |  
+| bip_39_word_dash_6 | monkey-shine-catalog-other-below-bottom |  
+| bip_39_word_dash_7 | monkey-shine-catalog-other-below-bottom-grunt |  
+| bip_39_word_dash_8 | monkey-shine-catalog-other-below-bottom-grunt-oil |  
+| bip_39_word_dash_9 | monkey-shine-catalog-other-below-bottom-grunt-oil-struggle |  
 | bip_39_word_new_br_1 | monkey |  
 | bip_39_word_new_br_10 | monkey<br>shine<br>catalog<br>other<br>below<br>bottom<br>grunt<br>oil<br>struggle<br>brass |  
 | bip_39_word_new_br_11 | monkey<br>shine<br>catalog<br>other<br>below<br>bottom<br>grunt<br>oil<br>struggle<br>brass<br>wonder |  
@@ -147,6 +159,18 @@ struggle |
 | bip_39_word_space_7 | monkey shine catalog other below bottom grunt |  
 | bip_39_word_space_8 | monkey shine catalog other below bottom grunt oil |  
 | bip_39_word_space_9 | monkey shine catalog other below bottom grunt oil struggle |  
+| bip_39_word_underscore_1 | monkey |  
+| bip_39_word_underscore_10 | monkey_shine_catalog_other_below_bottom_grunt_oil_struggle_brass |  
+| bip_39_word_underscore_11 | monkey_shine_catalog_other_below_bottom_grunt_oil_struggle_brass_wonder |  
+| bip_39_word_underscore_12 | monkey_shine_catalog_other_below_bottom_grunt_oil_struggle_brass_wonder_adapt |  
+| bip_39_word_underscore_2 | monkey_shine |  
+| bip_39_word_underscore_3 | monkey_shine_catalog |  
+| bip_39_word_underscore_4 | monkey_shine_catalog_other |  
+| bip_39_word_underscore_5 | monkey_shine_catalog_other_below |  
+| bip_39_word_underscore_6 | monkey_shine_catalog_other_below_bottom |  
+| bip_39_word_underscore_7 | monkey_shine_catalog_other_below_bottom_grunt |  
+| bip_39_word_underscore_8 | monkey_shine_catalog_other_below_bottom_grunt_oil |  
+| bip_39_word_underscore_9 | monkey_shine_catalog_other_below_bottom_grunt_oil_struggle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

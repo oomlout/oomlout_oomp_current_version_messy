@@ -1,3 +1,15 @@
+bip_39_word_dash_1: squeeze
+bip_39_word_dash_10: squeeze-trouble-december-opinion-have-ribbon-detail-brown-calm-album
+bip_39_word_dash_11: squeeze-trouble-december-opinion-have-ribbon-detail-brown-calm-album-denial
+bip_39_word_dash_12: squeeze-trouble-december-opinion-have-ribbon-detail-brown-calm-album-denial-apology
+bip_39_word_dash_2: squeeze-trouble
+bip_39_word_dash_3: squeeze-trouble-december
+bip_39_word_dash_4: squeeze-trouble-december-opinion
+bip_39_word_dash_5: squeeze-trouble-december-opinion-have
+bip_39_word_dash_6: squeeze-trouble-december-opinion-have-ribbon
+bip_39_word_dash_7: squeeze-trouble-december-opinion-have-ribbon-detail
+bip_39_word_dash_8: squeeze-trouble-december-opinion-have-ribbon-detail-brown
+bip_39_word_dash_9: squeeze-trouble-december-opinion-have-ribbon-detail-brown-calm
 bip_39_word_new_br_1: squeeze
 bip_39_word_new_br_10: squeeze<br>trouble<br>december<br>opinion<br>have<br>ribbon<br>detail<br>brown<br>calm<br>album
 bip_39_word_new_br_11: squeeze<br>trouble<br>december<br>opinion<br>have<br>ribbon<br>detail<br>brown<br>calm<br>album<br>denial
@@ -194,6 +206,18 @@ bip_39_word_space_6: squeeze trouble december opinion have ribbon
 bip_39_word_space_7: squeeze trouble december opinion have ribbon detail
 bip_39_word_space_8: squeeze trouble december opinion have ribbon detail brown
 bip_39_word_space_9: squeeze trouble december opinion have ribbon detail brown calm
+bip_39_word_underscore_1: squeeze
+bip_39_word_underscore_10: squeeze_trouble_december_opinion_have_ribbon_detail_brown_calm_album
+bip_39_word_underscore_11: squeeze_trouble_december_opinion_have_ribbon_detail_brown_calm_album_denial
+bip_39_word_underscore_12: squeeze_trouble_december_opinion_have_ribbon_detail_brown_calm_album_denial_apology
+bip_39_word_underscore_2: squeeze_trouble
+bip_39_word_underscore_3: squeeze_trouble_december
+bip_39_word_underscore_4: squeeze_trouble_december_opinion
+bip_39_word_underscore_5: squeeze_trouble_december_opinion_have
+bip_39_word_underscore_6: squeeze_trouble_december_opinion_have_ribbon
+bip_39_word_underscore_7: squeeze_trouble_december_opinion_have_ribbon_detail
+bip_39_word_underscore_8: squeeze_trouble_december_opinion_have_ribbon_detail_brown
+bip_39_word_underscore_9: squeeze_trouble_december_opinion_have_ribbon_detail_brown_calm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

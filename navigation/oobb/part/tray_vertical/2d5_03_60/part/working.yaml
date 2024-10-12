@@ -1,3 +1,15 @@
+bip_39_word_dash_1: near
+bip_39_word_dash_10: near-cube-property-vocal-close-uniform-veteran-crazy-upon-crunch
+bip_39_word_dash_11: near-cube-property-vocal-close-uniform-veteran-crazy-upon-crunch-banana
+bip_39_word_dash_12: near-cube-property-vocal-close-uniform-veteran-crazy-upon-crunch-banana-aisle
+bip_39_word_dash_2: near-cube
+bip_39_word_dash_3: near-cube-property
+bip_39_word_dash_4: near-cube-property-vocal
+bip_39_word_dash_5: near-cube-property-vocal-close
+bip_39_word_dash_6: near-cube-property-vocal-close-uniform
+bip_39_word_dash_7: near-cube-property-vocal-close-uniform-veteran
+bip_39_word_dash_8: near-cube-property-vocal-close-uniform-veteran-crazy
+bip_39_word_dash_9: near-cube-property-vocal-close-uniform-veteran-crazy-upon
 bip_39_word_new_br_1: near
 bip_39_word_new_br_10: near<br>cube<br>property<br>vocal<br>close<br>uniform<br>veteran<br>crazy<br>upon<br>crunch
 bip_39_word_new_br_11: near<br>cube<br>property<br>vocal<br>close<br>uniform<br>veteran<br>crazy<br>upon<br>crunch<br>banana
@@ -193,6 +205,18 @@ bip_39_word_space_6: near cube property vocal close uniform
 bip_39_word_space_7: near cube property vocal close uniform veteran
 bip_39_word_space_8: near cube property vocal close uniform veteran crazy
 bip_39_word_space_9: near cube property vocal close uniform veteran crazy upon
+bip_39_word_underscore_1: near
+bip_39_word_underscore_10: near_cube_property_vocal_close_uniform_veteran_crazy_upon_crunch
+bip_39_word_underscore_11: near_cube_property_vocal_close_uniform_veteran_crazy_upon_crunch_banana
+bip_39_word_underscore_12: near_cube_property_vocal_close_uniform_veteran_crazy_upon_crunch_banana_aisle
+bip_39_word_underscore_2: near_cube
+bip_39_word_underscore_3: near_cube_property
+bip_39_word_underscore_4: near_cube_property_vocal
+bip_39_word_underscore_5: near_cube_property_vocal_close
+bip_39_word_underscore_6: near_cube_property_vocal_close_uniform
+bip_39_word_underscore_7: near_cube_property_vocal_close_uniform_veteran
+bip_39_word_underscore_8: near_cube_property_vocal_close_uniform_veteran_crazy
+bip_39_word_underscore_9: near_cube_property_vocal_close_uniform_veteran_crazy_upon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

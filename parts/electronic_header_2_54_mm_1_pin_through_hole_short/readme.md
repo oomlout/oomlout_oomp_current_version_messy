@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | town |  
+| bip_39_word_dash_10 | town-zero-tomorrow-victory-weekend-message-stage-merry-fish-stick |  
+| bip_39_word_dash_11 | town-zero-tomorrow-victory-weekend-message-stage-merry-fish-stick-near |  
+| bip_39_word_dash_12 | town-zero-tomorrow-victory-weekend-message-stage-merry-fish-stick-near-arena |  
+| bip_39_word_dash_2 | town-zero |  
+| bip_39_word_dash_3 | town-zero-tomorrow |  
+| bip_39_word_dash_4 | town-zero-tomorrow-victory |  
+| bip_39_word_dash_5 | town-zero-tomorrow-victory-weekend |  
+| bip_39_word_dash_6 | town-zero-tomorrow-victory-weekend-message |  
+| bip_39_word_dash_7 | town-zero-tomorrow-victory-weekend-message-stage |  
+| bip_39_word_dash_8 | town-zero-tomorrow-victory-weekend-message-stage-merry |  
+| bip_39_word_dash_9 | town-zero-tomorrow-victory-weekend-message-stage-merry-fish |  
 | bip_39_word_new_br_1 | town |  
 | bip_39_word_new_br_10 | town<br>zero<br>tomorrow<br>victory<br>weekend<br>message<br>stage<br>merry<br>fish<br>stick |  
 | bip_39_word_new_br_11 | town<br>zero<br>tomorrow<br>victory<br>weekend<br>message<br>stage<br>merry<br>fish<br>stick<br>near |  
@@ -147,6 +159,18 @@ fish |
 | bip_39_word_space_7 | town zero tomorrow victory weekend message stage |  
 | bip_39_word_space_8 | town zero tomorrow victory weekend message stage merry |  
 | bip_39_word_space_9 | town zero tomorrow victory weekend message stage merry fish |  
+| bip_39_word_underscore_1 | town |  
+| bip_39_word_underscore_10 | town_zero_tomorrow_victory_weekend_message_stage_merry_fish_stick |  
+| bip_39_word_underscore_11 | town_zero_tomorrow_victory_weekend_message_stage_merry_fish_stick_near |  
+| bip_39_word_underscore_12 | town_zero_tomorrow_victory_weekend_message_stage_merry_fish_stick_near_arena |  
+| bip_39_word_underscore_2 | town_zero |  
+| bip_39_word_underscore_3 | town_zero_tomorrow |  
+| bip_39_word_underscore_4 | town_zero_tomorrow_victory |  
+| bip_39_word_underscore_5 | town_zero_tomorrow_victory_weekend |  
+| bip_39_word_underscore_6 | town_zero_tomorrow_victory_weekend_message |  
+| bip_39_word_underscore_7 | town_zero_tomorrow_victory_weekend_message_stage |  
+| bip_39_word_underscore_8 | town_zero_tomorrow_victory_weekend_message_stage_merry |  
+| bip_39_word_underscore_9 | town_zero_tomorrow_victory_weekend_message_stage_merry_fish |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

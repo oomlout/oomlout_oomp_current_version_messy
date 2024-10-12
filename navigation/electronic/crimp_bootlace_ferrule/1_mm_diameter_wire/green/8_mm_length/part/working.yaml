@@ -1,3 +1,15 @@
+bip_39_word_dash_1: effort
+bip_39_word_dash_10: effort-utility-topple-desk-type-cradle-refuse-myself-furnace-shield
+bip_39_word_dash_11: effort-utility-topple-desk-type-cradle-refuse-myself-furnace-shield-tag
+bip_39_word_dash_12: effort-utility-topple-desk-type-cradle-refuse-myself-furnace-shield-tag-apple
+bip_39_word_dash_2: effort-utility
+bip_39_word_dash_3: effort-utility-topple
+bip_39_word_dash_4: effort-utility-topple-desk
+bip_39_word_dash_5: effort-utility-topple-desk-type
+bip_39_word_dash_6: effort-utility-topple-desk-type-cradle
+bip_39_word_dash_7: effort-utility-topple-desk-type-cradle-refuse
+bip_39_word_dash_8: effort-utility-topple-desk-type-cradle-refuse-myself
+bip_39_word_dash_9: effort-utility-topple-desk-type-cradle-refuse-myself-furnace
 bip_39_word_new_br_1: effort
 bip_39_word_new_br_10: effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself<br>furnace<br>shield
 bip_39_word_new_br_11: effort<br>utility<br>topple<br>desk<br>type<br>cradle<br>refuse<br>myself<br>furnace<br>shield<br>tag
@@ -194,6 +206,18 @@ bip_39_word_space_6: effort utility topple desk type cradle
 bip_39_word_space_7: effort utility topple desk type cradle refuse
 bip_39_word_space_8: effort utility topple desk type cradle refuse myself
 bip_39_word_space_9: effort utility topple desk type cradle refuse myself furnace
+bip_39_word_underscore_1: effort
+bip_39_word_underscore_10: effort_utility_topple_desk_type_cradle_refuse_myself_furnace_shield
+bip_39_word_underscore_11: effort_utility_topple_desk_type_cradle_refuse_myself_furnace_shield_tag
+bip_39_word_underscore_12: effort_utility_topple_desk_type_cradle_refuse_myself_furnace_shield_tag_apple
+bip_39_word_underscore_2: effort_utility
+bip_39_word_underscore_3: effort_utility_topple
+bip_39_word_underscore_4: effort_utility_topple_desk
+bip_39_word_underscore_5: effort_utility_topple_desk_type
+bip_39_word_underscore_6: effort_utility_topple_desk_type_cradle
+bip_39_word_underscore_7: effort_utility_topple_desk_type_cradle_refuse
+bip_39_word_underscore_8: effort_utility_topple_desk_type_cradle_refuse_myself
+bip_39_word_underscore_9: effort_utility_topple_desk_type_cradle_refuse_myself_furnace
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

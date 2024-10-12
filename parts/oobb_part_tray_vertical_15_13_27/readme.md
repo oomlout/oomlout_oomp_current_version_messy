@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | remove |  
+| bip_39_word_dash_10 | remove-adult-eight-embody-direct-error-tuna-ranch-claim-voyage |  
+| bip_39_word_dash_11 | remove-adult-eight-embody-direct-error-tuna-ranch-claim-voyage-garbage |  
+| bip_39_word_dash_12 | remove-adult-eight-embody-direct-error-tuna-ranch-claim-voyage-garbage-attract |  
+| bip_39_word_dash_2 | remove-adult |  
+| bip_39_word_dash_3 | remove-adult-eight |  
+| bip_39_word_dash_4 | remove-adult-eight-embody |  
+| bip_39_word_dash_5 | remove-adult-eight-embody-direct |  
+| bip_39_word_dash_6 | remove-adult-eight-embody-direct-error |  
+| bip_39_word_dash_7 | remove-adult-eight-embody-direct-error-tuna |  
+| bip_39_word_dash_8 | remove-adult-eight-embody-direct-error-tuna-ranch |  
+| bip_39_word_dash_9 | remove-adult-eight-embody-direct-error-tuna-ranch-claim |  
 | bip_39_word_new_br_1 | remove |  
 | bip_39_word_new_br_10 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch<br>claim<br>voyage |  
 | bip_39_word_new_br_11 | remove<br>adult<br>eight<br>embody<br>direct<br>error<br>tuna<br>ranch<br>claim<br>voyage<br>garbage |  
@@ -147,6 +159,18 @@ claim |
 | bip_39_word_space_7 | remove adult eight embody direct error tuna |  
 | bip_39_word_space_8 | remove adult eight embody direct error tuna ranch |  
 | bip_39_word_space_9 | remove adult eight embody direct error tuna ranch claim |  
+| bip_39_word_underscore_1 | remove |  
+| bip_39_word_underscore_10 | remove_adult_eight_embody_direct_error_tuna_ranch_claim_voyage |  
+| bip_39_word_underscore_11 | remove_adult_eight_embody_direct_error_tuna_ranch_claim_voyage_garbage |  
+| bip_39_word_underscore_12 | remove_adult_eight_embody_direct_error_tuna_ranch_claim_voyage_garbage_attract |  
+| bip_39_word_underscore_2 | remove_adult |  
+| bip_39_word_underscore_3 | remove_adult_eight |  
+| bip_39_word_underscore_4 | remove_adult_eight_embody |  
+| bip_39_word_underscore_5 | remove_adult_eight_embody_direct |  
+| bip_39_word_underscore_6 | remove_adult_eight_embody_direct_error |  
+| bip_39_word_underscore_7 | remove_adult_eight_embody_direct_error_tuna |  
+| bip_39_word_underscore_8 | remove_adult_eight_embody_direct_error_tuna_ranch |  
+| bip_39_word_underscore_9 | remove_adult_eight_embody_direct_error_tuna_ranch_claim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

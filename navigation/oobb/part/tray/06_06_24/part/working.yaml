@@ -1,3 +1,15 @@
+bip_39_word_dash_1: verify
+bip_39_word_dash_10: verify-head-tilt-ask-cook-way-noble-merry-cousin-rookie
+bip_39_word_dash_11: verify-head-tilt-ask-cook-way-noble-merry-cousin-rookie-submit
+bip_39_word_dash_12: verify-head-tilt-ask-cook-way-noble-merry-cousin-rookie-submit-april
+bip_39_word_dash_2: verify-head
+bip_39_word_dash_3: verify-head-tilt
+bip_39_word_dash_4: verify-head-tilt-ask
+bip_39_word_dash_5: verify-head-tilt-ask-cook
+bip_39_word_dash_6: verify-head-tilt-ask-cook-way
+bip_39_word_dash_7: verify-head-tilt-ask-cook-way-noble
+bip_39_word_dash_8: verify-head-tilt-ask-cook-way-noble-merry
+bip_39_word_dash_9: verify-head-tilt-ask-cook-way-noble-merry-cousin
 bip_39_word_new_br_1: verify
 bip_39_word_new_br_10: verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry<br>cousin<br>rookie
 bip_39_word_new_br_11: verify<br>head<br>tilt<br>ask<br>cook<br>way<br>noble<br>merry<br>cousin<br>rookie<br>submit
@@ -192,6 +204,18 @@ bip_39_word_space_6: verify head tilt ask cook way
 bip_39_word_space_7: verify head tilt ask cook way noble
 bip_39_word_space_8: verify head tilt ask cook way noble merry
 bip_39_word_space_9: verify head tilt ask cook way noble merry cousin
+bip_39_word_underscore_1: verify
+bip_39_word_underscore_10: verify_head_tilt_ask_cook_way_noble_merry_cousin_rookie
+bip_39_word_underscore_11: verify_head_tilt_ask_cook_way_noble_merry_cousin_rookie_submit
+bip_39_word_underscore_12: verify_head_tilt_ask_cook_way_noble_merry_cousin_rookie_submit_april
+bip_39_word_underscore_2: verify_head
+bip_39_word_underscore_3: verify_head_tilt
+bip_39_word_underscore_4: verify_head_tilt_ask
+bip_39_word_underscore_5: verify_head_tilt_ask_cook
+bip_39_word_underscore_6: verify_head_tilt_ask_cook_way
+bip_39_word_underscore_7: verify_head_tilt_ask_cook_way_noble
+bip_39_word_underscore_8: verify_head_tilt_ask_cook_way_noble_merry
+bip_39_word_underscore_9: verify_head_tilt_ask_cook_way_noble_merry_cousin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

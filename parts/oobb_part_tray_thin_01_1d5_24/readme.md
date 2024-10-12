@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | basic |  
+| bip_39_word_dash_10 | basic-vacuum-type-hub-dismiss-satoshi-entry-chunk-sting-refuse |  
+| bip_39_word_dash_11 | basic-vacuum-type-hub-dismiss-satoshi-entry-chunk-sting-refuse-network |  
+| bip_39_word_dash_12 | basic-vacuum-type-hub-dismiss-satoshi-entry-chunk-sting-refuse-network-account |  
+| bip_39_word_dash_2 | basic-vacuum |  
+| bip_39_word_dash_3 | basic-vacuum-type |  
+| bip_39_word_dash_4 | basic-vacuum-type-hub |  
+| bip_39_word_dash_5 | basic-vacuum-type-hub-dismiss |  
+| bip_39_word_dash_6 | basic-vacuum-type-hub-dismiss-satoshi |  
+| bip_39_word_dash_7 | basic-vacuum-type-hub-dismiss-satoshi-entry |  
+| bip_39_word_dash_8 | basic-vacuum-type-hub-dismiss-satoshi-entry-chunk |  
+| bip_39_word_dash_9 | basic-vacuum-type-hub-dismiss-satoshi-entry-chunk-sting |  
 | bip_39_word_new_br_1 | basic |  
 | bip_39_word_new_br_10 | basic<br>vacuum<br>type<br>hub<br>dismiss<br>satoshi<br>entry<br>chunk<br>sting<br>refuse |  
 | bip_39_word_new_br_11 | basic<br>vacuum<br>type<br>hub<br>dismiss<br>satoshi<br>entry<br>chunk<br>sting<br>refuse<br>network |  
@@ -147,6 +159,18 @@ sting |
 | bip_39_word_space_7 | basic vacuum type hub dismiss satoshi entry |  
 | bip_39_word_space_8 | basic vacuum type hub dismiss satoshi entry chunk |  
 | bip_39_word_space_9 | basic vacuum type hub dismiss satoshi entry chunk sting |  
+| bip_39_word_underscore_1 | basic |  
+| bip_39_word_underscore_10 | basic_vacuum_type_hub_dismiss_satoshi_entry_chunk_sting_refuse |  
+| bip_39_word_underscore_11 | basic_vacuum_type_hub_dismiss_satoshi_entry_chunk_sting_refuse_network |  
+| bip_39_word_underscore_12 | basic_vacuum_type_hub_dismiss_satoshi_entry_chunk_sting_refuse_network_account |  
+| bip_39_word_underscore_2 | basic_vacuum |  
+| bip_39_word_underscore_3 | basic_vacuum_type |  
+| bip_39_word_underscore_4 | basic_vacuum_type_hub |  
+| bip_39_word_underscore_5 | basic_vacuum_type_hub_dismiss |  
+| bip_39_word_underscore_6 | basic_vacuum_type_hub_dismiss_satoshi |  
+| bip_39_word_underscore_7 | basic_vacuum_type_hub_dismiss_satoshi_entry |  
+| bip_39_word_underscore_8 | basic_vacuum_type_hub_dismiss_satoshi_entry_chunk |  
+| bip_39_word_underscore_9 | basic_vacuum_type_hub_dismiss_satoshi_entry_chunk_sting |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

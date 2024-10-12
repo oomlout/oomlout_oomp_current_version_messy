@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ankle
+bip_39_word_dash_10: ankle-hurdle-tuna-cash-practice-sniff-apology-surprise-keen-just
+bip_39_word_dash_11: ankle-hurdle-tuna-cash-practice-sniff-apology-surprise-keen-just-winter
+bip_39_word_dash_12: ankle-hurdle-tuna-cash-practice-sniff-apology-surprise-keen-just-winter-author
+bip_39_word_dash_2: ankle-hurdle
+bip_39_word_dash_3: ankle-hurdle-tuna
+bip_39_word_dash_4: ankle-hurdle-tuna-cash
+bip_39_word_dash_5: ankle-hurdle-tuna-cash-practice
+bip_39_word_dash_6: ankle-hurdle-tuna-cash-practice-sniff
+bip_39_word_dash_7: ankle-hurdle-tuna-cash-practice-sniff-apology
+bip_39_word_dash_8: ankle-hurdle-tuna-cash-practice-sniff-apology-surprise
+bip_39_word_dash_9: ankle-hurdle-tuna-cash-practice-sniff-apology-surprise-keen
 bip_39_word_new_br_1: ankle
 bip_39_word_new_br_10: ankle<br>hurdle<br>tuna<br>cash<br>practice<br>sniff<br>apology<br>surprise<br>keen<br>just
 bip_39_word_new_br_11: ankle<br>hurdle<br>tuna<br>cash<br>practice<br>sniff<br>apology<br>surprise<br>keen<br>just<br>winter
@@ -194,6 +206,18 @@ bip_39_word_space_6: ankle hurdle tuna cash practice sniff
 bip_39_word_space_7: ankle hurdle tuna cash practice sniff apology
 bip_39_word_space_8: ankle hurdle tuna cash practice sniff apology surprise
 bip_39_word_space_9: ankle hurdle tuna cash practice sniff apology surprise keen
+bip_39_word_underscore_1: ankle
+bip_39_word_underscore_10: ankle_hurdle_tuna_cash_practice_sniff_apology_surprise_keen_just
+bip_39_word_underscore_11: ankle_hurdle_tuna_cash_practice_sniff_apology_surprise_keen_just_winter
+bip_39_word_underscore_12: ankle_hurdle_tuna_cash_practice_sniff_apology_surprise_keen_just_winter_author
+bip_39_word_underscore_2: ankle_hurdle
+bip_39_word_underscore_3: ankle_hurdle_tuna
+bip_39_word_underscore_4: ankle_hurdle_tuna_cash
+bip_39_word_underscore_5: ankle_hurdle_tuna_cash_practice
+bip_39_word_underscore_6: ankle_hurdle_tuna_cash_practice_sniff
+bip_39_word_underscore_7: ankle_hurdle_tuna_cash_practice_sniff_apology
+bip_39_word_underscore_8: ankle_hurdle_tuna_cash_practice_sniff_apology_surprise
+bip_39_word_underscore_9: ankle_hurdle_tuna_cash_practice_sniff_apology_surprise_keen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

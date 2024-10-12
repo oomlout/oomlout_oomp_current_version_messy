@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toward
+bip_39_word_dash_10: toward-seat-clarify-steak-into-enjoy-critic-love-topic-exhibit
+bip_39_word_dash_11: toward-seat-clarify-steak-into-enjoy-critic-love-topic-exhibit-help
+bip_39_word_dash_12: toward-seat-clarify-steak-into-enjoy-critic-love-topic-exhibit-help-also
+bip_39_word_dash_2: toward-seat
+bip_39_word_dash_3: toward-seat-clarify
+bip_39_word_dash_4: toward-seat-clarify-steak
+bip_39_word_dash_5: toward-seat-clarify-steak-into
+bip_39_word_dash_6: toward-seat-clarify-steak-into-enjoy
+bip_39_word_dash_7: toward-seat-clarify-steak-into-enjoy-critic
+bip_39_word_dash_8: toward-seat-clarify-steak-into-enjoy-critic-love
+bip_39_word_dash_9: toward-seat-clarify-steak-into-enjoy-critic-love-topic
 bip_39_word_new_br_1: toward
 bip_39_word_new_br_10: toward<br>seat<br>clarify<br>steak<br>into<br>enjoy<br>critic<br>love<br>topic<br>exhibit
 bip_39_word_new_br_11: toward<br>seat<br>clarify<br>steak<br>into<br>enjoy<br>critic<br>love<br>topic<br>exhibit<br>help
@@ -193,6 +205,18 @@ bip_39_word_space_6: toward seat clarify steak into enjoy
 bip_39_word_space_7: toward seat clarify steak into enjoy critic
 bip_39_word_space_8: toward seat clarify steak into enjoy critic love
 bip_39_word_space_9: toward seat clarify steak into enjoy critic love topic
+bip_39_word_underscore_1: toward
+bip_39_word_underscore_10: toward_seat_clarify_steak_into_enjoy_critic_love_topic_exhibit
+bip_39_word_underscore_11: toward_seat_clarify_steak_into_enjoy_critic_love_topic_exhibit_help
+bip_39_word_underscore_12: toward_seat_clarify_steak_into_enjoy_critic_love_topic_exhibit_help_also
+bip_39_word_underscore_2: toward_seat
+bip_39_word_underscore_3: toward_seat_clarify
+bip_39_word_underscore_4: toward_seat_clarify_steak
+bip_39_word_underscore_5: toward_seat_clarify_steak_into
+bip_39_word_underscore_6: toward_seat_clarify_steak_into_enjoy
+bip_39_word_underscore_7: toward_seat_clarify_steak_into_enjoy_critic
+bip_39_word_underscore_8: toward_seat_clarify_steak_into_enjoy_critic_love
+bip_39_word_underscore_9: toward_seat_clarify_steak_into_enjoy_critic_love_topic
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

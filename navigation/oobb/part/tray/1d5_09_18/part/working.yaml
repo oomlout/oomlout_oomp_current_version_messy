@@ -1,3 +1,14 @@
+bip_39_word_dash_1: gap
+bip_39_word_dash_10: gap-aim-thumb-denial-hold-fresh-vacuum-wrong-chaos-magnet
+bip_39_word_dash_11: gap-aim-thumb-denial-hold-fresh-vacuum-wrong-chaos-magnet-police
+bip_39_word_dash_2: gap-aim
+bip_39_word_dash_3: gap-aim-thumb
+bip_39_word_dash_4: gap-aim-thumb-denial
+bip_39_word_dash_5: gap-aim-thumb-denial-hold
+bip_39_word_dash_6: gap-aim-thumb-denial-hold-fresh
+bip_39_word_dash_7: gap-aim-thumb-denial-hold-fresh-vacuum
+bip_39_word_dash_8: gap-aim-thumb-denial-hold-fresh-vacuum-wrong
+bip_39_word_dash_9: gap-aim-thumb-denial-hold-fresh-vacuum-wrong-chaos
 bip_39_word_new_br_1: gap
 bip_39_word_new_br_10: gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos<br>magnet
 bip_39_word_new_br_11: gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos<br>magnet<br>police
@@ -164,6 +175,17 @@ bip_39_word_space_6: gap aim thumb denial hold fresh
 bip_39_word_space_7: gap aim thumb denial hold fresh vacuum
 bip_39_word_space_8: gap aim thumb denial hold fresh vacuum wrong
 bip_39_word_space_9: gap aim thumb denial hold fresh vacuum wrong chaos
+bip_39_word_underscore_1: gap
+bip_39_word_underscore_10: gap_aim_thumb_denial_hold_fresh_vacuum_wrong_chaos_magnet
+bip_39_word_underscore_11: gap_aim_thumb_denial_hold_fresh_vacuum_wrong_chaos_magnet_police
+bip_39_word_underscore_2: gap_aim
+bip_39_word_underscore_3: gap_aim_thumb
+bip_39_word_underscore_4: gap_aim_thumb_denial
+bip_39_word_underscore_5: gap_aim_thumb_denial_hold
+bip_39_word_underscore_6: gap_aim_thumb_denial_hold_fresh
+bip_39_word_underscore_7: gap_aim_thumb_denial_hold_fresh_vacuum
+bip_39_word_underscore_8: gap_aim_thumb_denial_hold_fresh_vacuum_wrong
+bip_39_word_underscore_9: gap_aim_thumb_denial_hold_fresh_vacuum_wrong_chaos
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

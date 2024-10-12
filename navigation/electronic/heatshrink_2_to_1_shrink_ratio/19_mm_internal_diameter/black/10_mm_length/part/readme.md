@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chef |  
+| bip_39_word_dash_10 | chef-seven-jump-search-picture-describe-panic-cart-limit-day |  
+| bip_39_word_dash_11 | chef-seven-jump-search-picture-describe-panic-cart-limit-day-guitar |  
+| bip_39_word_dash_12 | chef-seven-jump-search-picture-describe-panic-cart-limit-day-guitar-about |  
+| bip_39_word_dash_2 | chef-seven |  
+| bip_39_word_dash_3 | chef-seven-jump |  
+| bip_39_word_dash_4 | chef-seven-jump-search |  
+| bip_39_word_dash_5 | chef-seven-jump-search-picture |  
+| bip_39_word_dash_6 | chef-seven-jump-search-picture-describe |  
+| bip_39_word_dash_7 | chef-seven-jump-search-picture-describe-panic |  
+| bip_39_word_dash_8 | chef-seven-jump-search-picture-describe-panic-cart |  
+| bip_39_word_dash_9 | chef-seven-jump-search-picture-describe-panic-cart-limit |  
 | bip_39_word_new_br_1 | chef |  
 | bip_39_word_new_br_10 | chef<br>seven<br>jump<br>search<br>picture<br>describe<br>panic<br>cart<br>limit<br>day |  
 | bip_39_word_new_br_11 | chef<br>seven<br>jump<br>search<br>picture<br>describe<br>panic<br>cart<br>limit<br>day<br>guitar |  
@@ -147,6 +159,18 @@ limit |
 | bip_39_word_space_7 | chef seven jump search picture describe panic |  
 | bip_39_word_space_8 | chef seven jump search picture describe panic cart |  
 | bip_39_word_space_9 | chef seven jump search picture describe panic cart limit |  
+| bip_39_word_underscore_1 | chef |  
+| bip_39_word_underscore_10 | chef_seven_jump_search_picture_describe_panic_cart_limit_day |  
+| bip_39_word_underscore_11 | chef_seven_jump_search_picture_describe_panic_cart_limit_day_guitar |  
+| bip_39_word_underscore_12 | chef_seven_jump_search_picture_describe_panic_cart_limit_day_guitar_about |  
+| bip_39_word_underscore_2 | chef_seven |  
+| bip_39_word_underscore_3 | chef_seven_jump |  
+| bip_39_word_underscore_4 | chef_seven_jump_search |  
+| bip_39_word_underscore_5 | chef_seven_jump_search_picture |  
+| bip_39_word_underscore_6 | chef_seven_jump_search_picture_describe |  
+| bip_39_word_underscore_7 | chef_seven_jump_search_picture_describe_panic |  
+| bip_39_word_underscore_8 | chef_seven_jump_search_picture_describe_panic_cart |  
+| bip_39_word_underscore_9 | chef_seven_jump_search_picture_describe_panic_cart_limit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

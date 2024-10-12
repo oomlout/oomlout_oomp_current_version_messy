@@ -1,3 +1,15 @@
+bip_39_word_dash_1: coconut
+bip_39_word_dash_10: coconut-song-forest-girl-fine-squeeze-current-annual-man-combine
+bip_39_word_dash_11: coconut-song-forest-girl-fine-squeeze-current-annual-man-combine-price
+bip_39_word_dash_12: coconut-song-forest-girl-fine-squeeze-current-annual-man-combine-price-action
+bip_39_word_dash_2: coconut-song
+bip_39_word_dash_3: coconut-song-forest
+bip_39_word_dash_4: coconut-song-forest-girl
+bip_39_word_dash_5: coconut-song-forest-girl-fine
+bip_39_word_dash_6: coconut-song-forest-girl-fine-squeeze
+bip_39_word_dash_7: coconut-song-forest-girl-fine-squeeze-current
+bip_39_word_dash_8: coconut-song-forest-girl-fine-squeeze-current-annual
+bip_39_word_dash_9: coconut-song-forest-girl-fine-squeeze-current-annual-man
 bip_39_word_new_br_1: coconut
 bip_39_word_new_br_10: coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual<br>man<br>combine
 bip_39_word_new_br_11: coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual<br>man<br>combine<br>price
@@ -193,6 +205,18 @@ bip_39_word_space_6: coconut song forest girl fine squeeze
 bip_39_word_space_7: coconut song forest girl fine squeeze current
 bip_39_word_space_8: coconut song forest girl fine squeeze current annual
 bip_39_word_space_9: coconut song forest girl fine squeeze current annual man
+bip_39_word_underscore_1: coconut
+bip_39_word_underscore_10: coconut_song_forest_girl_fine_squeeze_current_annual_man_combine
+bip_39_word_underscore_11: coconut_song_forest_girl_fine_squeeze_current_annual_man_combine_price
+bip_39_word_underscore_12: coconut_song_forest_girl_fine_squeeze_current_annual_man_combine_price_action
+bip_39_word_underscore_2: coconut_song
+bip_39_word_underscore_3: coconut_song_forest
+bip_39_word_underscore_4: coconut_song_forest_girl
+bip_39_word_underscore_5: coconut_song_forest_girl_fine
+bip_39_word_underscore_6: coconut_song_forest_girl_fine_squeeze
+bip_39_word_underscore_7: coconut_song_forest_girl_fine_squeeze_current
+bip_39_word_underscore_8: coconut_song_forest_girl_fine_squeeze_current_annual
+bip_39_word_underscore_9: coconut_song_forest_girl_fine_squeeze_current_annual_man
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

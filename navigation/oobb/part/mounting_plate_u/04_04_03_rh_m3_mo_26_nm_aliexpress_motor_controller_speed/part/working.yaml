@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trumpet
+bip_39_word_dash_10: trumpet-foam-avoid-olive-decorate-myth-impact-protect-evidence-keen
+bip_39_word_dash_11: trumpet-foam-avoid-olive-decorate-myth-impact-protect-evidence-keen-oven
+bip_39_word_dash_12: trumpet-foam-avoid-olive-decorate-myth-impact-protect-evidence-keen-oven-absent
+bip_39_word_dash_2: trumpet-foam
+bip_39_word_dash_3: trumpet-foam-avoid
+bip_39_word_dash_4: trumpet-foam-avoid-olive
+bip_39_word_dash_5: trumpet-foam-avoid-olive-decorate
+bip_39_word_dash_6: trumpet-foam-avoid-olive-decorate-myth
+bip_39_word_dash_7: trumpet-foam-avoid-olive-decorate-myth-impact
+bip_39_word_dash_8: trumpet-foam-avoid-olive-decorate-myth-impact-protect
+bip_39_word_dash_9: trumpet-foam-avoid-olive-decorate-myth-impact-protect-evidence
 bip_39_word_new_br_1: trumpet
 bip_39_word_new_br_10: trumpet<br>foam<br>avoid<br>olive<br>decorate<br>myth<br>impact<br>protect<br>evidence<br>keen
 bip_39_word_new_br_11: trumpet<br>foam<br>avoid<br>olive<br>decorate<br>myth<br>impact<br>protect<br>evidence<br>keen<br>oven
@@ -194,6 +206,18 @@ bip_39_word_space_6: trumpet foam avoid olive decorate myth
 bip_39_word_space_7: trumpet foam avoid olive decorate myth impact
 bip_39_word_space_8: trumpet foam avoid olive decorate myth impact protect
 bip_39_word_space_9: trumpet foam avoid olive decorate myth impact protect evidence
+bip_39_word_underscore_1: trumpet
+bip_39_word_underscore_10: trumpet_foam_avoid_olive_decorate_myth_impact_protect_evidence_keen
+bip_39_word_underscore_11: trumpet_foam_avoid_olive_decorate_myth_impact_protect_evidence_keen_oven
+bip_39_word_underscore_12: trumpet_foam_avoid_olive_decorate_myth_impact_protect_evidence_keen_oven_absent
+bip_39_word_underscore_2: trumpet_foam
+bip_39_word_underscore_3: trumpet_foam_avoid
+bip_39_word_underscore_4: trumpet_foam_avoid_olive
+bip_39_word_underscore_5: trumpet_foam_avoid_olive_decorate
+bip_39_word_underscore_6: trumpet_foam_avoid_olive_decorate_myth
+bip_39_word_underscore_7: trumpet_foam_avoid_olive_decorate_myth_impact
+bip_39_word_underscore_8: trumpet_foam_avoid_olive_decorate_myth_impact_protect
+bip_39_word_underscore_9: trumpet_foam_avoid_olive_decorate_myth_impact_protect_evidence
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

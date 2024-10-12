@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toddler
+bip_39_word_dash_10: toddler-fiber-tell-gasp-nest-federal-walnut-devote-panda-access
+bip_39_word_dash_11: toddler-fiber-tell-gasp-nest-federal-walnut-devote-panda-access-poem
+bip_39_word_dash_12: toddler-fiber-tell-gasp-nest-federal-walnut-devote-panda-access-poem-again
+bip_39_word_dash_2: toddler-fiber
+bip_39_word_dash_3: toddler-fiber-tell
+bip_39_word_dash_4: toddler-fiber-tell-gasp
+bip_39_word_dash_5: toddler-fiber-tell-gasp-nest
+bip_39_word_dash_6: toddler-fiber-tell-gasp-nest-federal
+bip_39_word_dash_7: toddler-fiber-tell-gasp-nest-federal-walnut
+bip_39_word_dash_8: toddler-fiber-tell-gasp-nest-federal-walnut-devote
+bip_39_word_dash_9: toddler-fiber-tell-gasp-nest-federal-walnut-devote-panda
 bip_39_word_new_br_1: toddler
 bip_39_word_new_br_10: toddler<br>fiber<br>tell<br>gasp<br>nest<br>federal<br>walnut<br>devote<br>panda<br>access
 bip_39_word_new_br_11: toddler<br>fiber<br>tell<br>gasp<br>nest<br>federal<br>walnut<br>devote<br>panda<br>access<br>poem
@@ -193,6 +205,18 @@ bip_39_word_space_6: toddler fiber tell gasp nest federal
 bip_39_word_space_7: toddler fiber tell gasp nest federal walnut
 bip_39_word_space_8: toddler fiber tell gasp nest federal walnut devote
 bip_39_word_space_9: toddler fiber tell gasp nest federal walnut devote panda
+bip_39_word_underscore_1: toddler
+bip_39_word_underscore_10: toddler_fiber_tell_gasp_nest_federal_walnut_devote_panda_access
+bip_39_word_underscore_11: toddler_fiber_tell_gasp_nest_federal_walnut_devote_panda_access_poem
+bip_39_word_underscore_12: toddler_fiber_tell_gasp_nest_federal_walnut_devote_panda_access_poem_again
+bip_39_word_underscore_2: toddler_fiber
+bip_39_word_underscore_3: toddler_fiber_tell
+bip_39_word_underscore_4: toddler_fiber_tell_gasp
+bip_39_word_underscore_5: toddler_fiber_tell_gasp_nest
+bip_39_word_underscore_6: toddler_fiber_tell_gasp_nest_federal
+bip_39_word_underscore_7: toddler_fiber_tell_gasp_nest_federal_walnut
+bip_39_word_underscore_8: toddler_fiber_tell_gasp_nest_federal_walnut_devote
+bip_39_word_underscore_9: toddler_fiber_tell_gasp_nest_federal_walnut_devote_panda
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: need
+bip_39_word_dash_10: need-love-honey-snow-tissue-jewel-child-flavor-rifle-slender
+bip_39_word_dash_11: need-love-honey-snow-tissue-jewel-child-flavor-rifle-slender-neglect
+bip_39_word_dash_12: need-love-honey-snow-tissue-jewel-child-flavor-rifle-slender-neglect-abuse
+bip_39_word_dash_2: need-love
+bip_39_word_dash_3: need-love-honey
+bip_39_word_dash_4: need-love-honey-snow
+bip_39_word_dash_5: need-love-honey-snow-tissue
+bip_39_word_dash_6: need-love-honey-snow-tissue-jewel
+bip_39_word_dash_7: need-love-honey-snow-tissue-jewel-child
+bip_39_word_dash_8: need-love-honey-snow-tissue-jewel-child-flavor
+bip_39_word_dash_9: need-love-honey-snow-tissue-jewel-child-flavor-rifle
 bip_39_word_new_br_1: need
 bip_39_word_new_br_10: need<br>love<br>honey<br>snow<br>tissue<br>jewel<br>child<br>flavor<br>rifle<br>slender
 bip_39_word_new_br_11: need<br>love<br>honey<br>snow<br>tissue<br>jewel<br>child<br>flavor<br>rifle<br>slender<br>neglect
@@ -193,6 +205,18 @@ bip_39_word_space_6: need love honey snow tissue jewel
 bip_39_word_space_7: need love honey snow tissue jewel child
 bip_39_word_space_8: need love honey snow tissue jewel child flavor
 bip_39_word_space_9: need love honey snow tissue jewel child flavor rifle
+bip_39_word_underscore_1: need
+bip_39_word_underscore_10: need_love_honey_snow_tissue_jewel_child_flavor_rifle_slender
+bip_39_word_underscore_11: need_love_honey_snow_tissue_jewel_child_flavor_rifle_slender_neglect
+bip_39_word_underscore_12: need_love_honey_snow_tissue_jewel_child_flavor_rifle_slender_neglect_abuse
+bip_39_word_underscore_2: need_love
+bip_39_word_underscore_3: need_love_honey
+bip_39_word_underscore_4: need_love_honey_snow
+bip_39_word_underscore_5: need_love_honey_snow_tissue
+bip_39_word_underscore_6: need_love_honey_snow_tissue_jewel
+bip_39_word_underscore_7: need_love_honey_snow_tissue_jewel_child
+bip_39_word_underscore_8: need_love_honey_snow_tissue_jewel_child_flavor
+bip_39_word_underscore_9: need_love_honey_snow_tissue_jewel_child_flavor_rifle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

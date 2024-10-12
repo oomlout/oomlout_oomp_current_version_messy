@@ -1,3 +1,15 @@
+bip_39_word_dash_1: journey
+bip_39_word_dash_10: journey-jelly-paddle-fatigue-drop-next-moment-actress-voice-welcome
+bip_39_word_dash_11: journey-jelly-paddle-fatigue-drop-next-moment-actress-voice-welcome-bless
+bip_39_word_dash_12: journey-jelly-paddle-fatigue-drop-next-moment-actress-voice-welcome-bless-argue
+bip_39_word_dash_2: journey-jelly
+bip_39_word_dash_3: journey-jelly-paddle
+bip_39_word_dash_4: journey-jelly-paddle-fatigue
+bip_39_word_dash_5: journey-jelly-paddle-fatigue-drop
+bip_39_word_dash_6: journey-jelly-paddle-fatigue-drop-next
+bip_39_word_dash_7: journey-jelly-paddle-fatigue-drop-next-moment
+bip_39_word_dash_8: journey-jelly-paddle-fatigue-drop-next-moment-actress
+bip_39_word_dash_9: journey-jelly-paddle-fatigue-drop-next-moment-actress-voice
 bip_39_word_new_br_1: journey
 bip_39_word_new_br_10: journey<br>jelly<br>paddle<br>fatigue<br>drop<br>next<br>moment<br>actress<br>voice<br>welcome
 bip_39_word_new_br_11: journey<br>jelly<br>paddle<br>fatigue<br>drop<br>next<br>moment<br>actress<br>voice<br>welcome<br>bless
@@ -194,6 +206,18 @@ bip_39_word_space_6: journey jelly paddle fatigue drop next
 bip_39_word_space_7: journey jelly paddle fatigue drop next moment
 bip_39_word_space_8: journey jelly paddle fatigue drop next moment actress
 bip_39_word_space_9: journey jelly paddle fatigue drop next moment actress voice
+bip_39_word_underscore_1: journey
+bip_39_word_underscore_10: journey_jelly_paddle_fatigue_drop_next_moment_actress_voice_welcome
+bip_39_word_underscore_11: journey_jelly_paddle_fatigue_drop_next_moment_actress_voice_welcome_bless
+bip_39_word_underscore_12: journey_jelly_paddle_fatigue_drop_next_moment_actress_voice_welcome_bless_argue
+bip_39_word_underscore_2: journey_jelly
+bip_39_word_underscore_3: journey_jelly_paddle
+bip_39_word_underscore_4: journey_jelly_paddle_fatigue
+bip_39_word_underscore_5: journey_jelly_paddle_fatigue_drop
+bip_39_word_underscore_6: journey_jelly_paddle_fatigue_drop_next
+bip_39_word_underscore_7: journey_jelly_paddle_fatigue_drop_next_moment
+bip_39_word_underscore_8: journey_jelly_paddle_fatigue_drop_next_moment_actress
+bip_39_word_underscore_9: journey_jelly_paddle_fatigue_drop_next_moment_actress_voice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: giant
+bip_39_word_dash_10: giant-exercise-weasel-cinnamon-name-oblige-hub-group-twice-pair
+bip_39_word_dash_11: giant-exercise-weasel-cinnamon-name-oblige-hub-group-twice-pair-script
+bip_39_word_dash_12: giant-exercise-weasel-cinnamon-name-oblige-hub-group-twice-pair-script-angle
+bip_39_word_dash_2: giant-exercise
+bip_39_word_dash_3: giant-exercise-weasel
+bip_39_word_dash_4: giant-exercise-weasel-cinnamon
+bip_39_word_dash_5: giant-exercise-weasel-cinnamon-name
+bip_39_word_dash_6: giant-exercise-weasel-cinnamon-name-oblige
+bip_39_word_dash_7: giant-exercise-weasel-cinnamon-name-oblige-hub
+bip_39_word_dash_8: giant-exercise-weasel-cinnamon-name-oblige-hub-group
+bip_39_word_dash_9: giant-exercise-weasel-cinnamon-name-oblige-hub-group-twice
 bip_39_word_new_br_1: giant
 bip_39_word_new_br_10: giant<br>exercise<br>weasel<br>cinnamon<br>name<br>oblige<br>hub<br>group<br>twice<br>pair
 bip_39_word_new_br_11: giant<br>exercise<br>weasel<br>cinnamon<br>name<br>oblige<br>hub<br>group<br>twice<br>pair<br>script
@@ -193,6 +205,18 @@ bip_39_word_space_6: giant exercise weasel cinnamon name oblige
 bip_39_word_space_7: giant exercise weasel cinnamon name oblige hub
 bip_39_word_space_8: giant exercise weasel cinnamon name oblige hub group
 bip_39_word_space_9: giant exercise weasel cinnamon name oblige hub group twice
+bip_39_word_underscore_1: giant
+bip_39_word_underscore_10: giant_exercise_weasel_cinnamon_name_oblige_hub_group_twice_pair
+bip_39_word_underscore_11: giant_exercise_weasel_cinnamon_name_oblige_hub_group_twice_pair_script
+bip_39_word_underscore_12: giant_exercise_weasel_cinnamon_name_oblige_hub_group_twice_pair_script_angle
+bip_39_word_underscore_2: giant_exercise
+bip_39_word_underscore_3: giant_exercise_weasel
+bip_39_word_underscore_4: giant_exercise_weasel_cinnamon
+bip_39_word_underscore_5: giant_exercise_weasel_cinnamon_name
+bip_39_word_underscore_6: giant_exercise_weasel_cinnamon_name_oblige
+bip_39_word_underscore_7: giant_exercise_weasel_cinnamon_name_oblige_hub
+bip_39_word_underscore_8: giant_exercise_weasel_cinnamon_name_oblige_hub_group
+bip_39_word_underscore_9: giant_exercise_weasel_cinnamon_name_oblige_hub_group_twice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cable
+bip_39_word_dash_10: cable-lawn-any-offer-pledge-memory-profit-example-essay-vital
+bip_39_word_dash_11: cable-lawn-any-offer-pledge-memory-profit-example-essay-vital-tray
+bip_39_word_dash_12: cable-lawn-any-offer-pledge-memory-profit-example-essay-vital-tray-attract
+bip_39_word_dash_2: cable-lawn
+bip_39_word_dash_3: cable-lawn-any
+bip_39_word_dash_4: cable-lawn-any-offer
+bip_39_word_dash_5: cable-lawn-any-offer-pledge
+bip_39_word_dash_6: cable-lawn-any-offer-pledge-memory
+bip_39_word_dash_7: cable-lawn-any-offer-pledge-memory-profit
+bip_39_word_dash_8: cable-lawn-any-offer-pledge-memory-profit-example
+bip_39_word_dash_9: cable-lawn-any-offer-pledge-memory-profit-example-essay
 bip_39_word_new_br_1: cable
 bip_39_word_new_br_10: cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example<br>essay<br>vital
 bip_39_word_new_br_11: cable<br>lawn<br>any<br>offer<br>pledge<br>memory<br>profit<br>example<br>essay<br>vital<br>tray
@@ -193,6 +205,18 @@ bip_39_word_space_6: cable lawn any offer pledge memory
 bip_39_word_space_7: cable lawn any offer pledge memory profit
 bip_39_word_space_8: cable lawn any offer pledge memory profit example
 bip_39_word_space_9: cable lawn any offer pledge memory profit example essay
+bip_39_word_underscore_1: cable
+bip_39_word_underscore_10: cable_lawn_any_offer_pledge_memory_profit_example_essay_vital
+bip_39_word_underscore_11: cable_lawn_any_offer_pledge_memory_profit_example_essay_vital_tray
+bip_39_word_underscore_12: cable_lawn_any_offer_pledge_memory_profit_example_essay_vital_tray_attract
+bip_39_word_underscore_2: cable_lawn
+bip_39_word_underscore_3: cable_lawn_any
+bip_39_word_underscore_4: cable_lawn_any_offer
+bip_39_word_underscore_5: cable_lawn_any_offer_pledge
+bip_39_word_underscore_6: cable_lawn_any_offer_pledge_memory
+bip_39_word_underscore_7: cable_lawn_any_offer_pledge_memory_profit
+bip_39_word_underscore_8: cable_lawn_any_offer_pledge_memory_profit_example
+bip_39_word_underscore_9: cable_lawn_any_offer_pledge_memory_profit_example_essay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: frown
+bip_39_word_dash_10: frown-laugh-wife-frequent-wisdom-purpose-shove-orbit-october-pioneer
+bip_39_word_dash_11: frown-laugh-wife-frequent-wisdom-purpose-shove-orbit-october-pioneer-win
+bip_39_word_dash_12: frown-laugh-wife-frequent-wisdom-purpose-shove-orbit-october-pioneer-win-arch
+bip_39_word_dash_2: frown-laugh
+bip_39_word_dash_3: frown-laugh-wife
+bip_39_word_dash_4: frown-laugh-wife-frequent
+bip_39_word_dash_5: frown-laugh-wife-frequent-wisdom
+bip_39_word_dash_6: frown-laugh-wife-frequent-wisdom-purpose
+bip_39_word_dash_7: frown-laugh-wife-frequent-wisdom-purpose-shove
+bip_39_word_dash_8: frown-laugh-wife-frequent-wisdom-purpose-shove-orbit
+bip_39_word_dash_9: frown-laugh-wife-frequent-wisdom-purpose-shove-orbit-october
 bip_39_word_new_br_1: frown
 bip_39_word_new_br_10: frown<br>laugh<br>wife<br>frequent<br>wisdom<br>purpose<br>shove<br>orbit<br>october<br>pioneer
 bip_39_word_new_br_11: frown<br>laugh<br>wife<br>frequent<br>wisdom<br>purpose<br>shove<br>orbit<br>october<br>pioneer<br>win
@@ -194,6 +206,18 @@ bip_39_word_space_6: frown laugh wife frequent wisdom purpose
 bip_39_word_space_7: frown laugh wife frequent wisdom purpose shove
 bip_39_word_space_8: frown laugh wife frequent wisdom purpose shove orbit
 bip_39_word_space_9: frown laugh wife frequent wisdom purpose shove orbit october
+bip_39_word_underscore_1: frown
+bip_39_word_underscore_10: frown_laugh_wife_frequent_wisdom_purpose_shove_orbit_october_pioneer
+bip_39_word_underscore_11: frown_laugh_wife_frequent_wisdom_purpose_shove_orbit_october_pioneer_win
+bip_39_word_underscore_12: frown_laugh_wife_frequent_wisdom_purpose_shove_orbit_october_pioneer_win_arch
+bip_39_word_underscore_2: frown_laugh
+bip_39_word_underscore_3: frown_laugh_wife
+bip_39_word_underscore_4: frown_laugh_wife_frequent
+bip_39_word_underscore_5: frown_laugh_wife_frequent_wisdom
+bip_39_word_underscore_6: frown_laugh_wife_frequent_wisdom_purpose
+bip_39_word_underscore_7: frown_laugh_wife_frequent_wisdom_purpose_shove
+bip_39_word_underscore_8: frown_laugh_wife_frequent_wisdom_purpose_shove_orbit
+bip_39_word_underscore_9: frown_laugh_wife_frequent_wisdom_purpose_shove_orbit_october
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

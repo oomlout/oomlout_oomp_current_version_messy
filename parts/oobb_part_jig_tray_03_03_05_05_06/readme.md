@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | avocado |  
+| bip_39_word_dash_10 | avocado-rose-vacuum-prevent-teach-limb-come-wish-often-know |  
+| bip_39_word_dash_11 | avocado-rose-vacuum-prevent-teach-limb-come-wish-often-know-hazard |  
+| bip_39_word_dash_12 | avocado-rose-vacuum-prevent-teach-limb-come-wish-often-know-hazard-artist |  
+| bip_39_word_dash_2 | avocado-rose |  
+| bip_39_word_dash_3 | avocado-rose-vacuum |  
+| bip_39_word_dash_4 | avocado-rose-vacuum-prevent |  
+| bip_39_word_dash_5 | avocado-rose-vacuum-prevent-teach |  
+| bip_39_word_dash_6 | avocado-rose-vacuum-prevent-teach-limb |  
+| bip_39_word_dash_7 | avocado-rose-vacuum-prevent-teach-limb-come |  
+| bip_39_word_dash_8 | avocado-rose-vacuum-prevent-teach-limb-come-wish |  
+| bip_39_word_dash_9 | avocado-rose-vacuum-prevent-teach-limb-come-wish-often |  
 | bip_39_word_new_br_1 | avocado |  
 | bip_39_word_new_br_10 | avocado<br>rose<br>vacuum<br>prevent<br>teach<br>limb<br>come<br>wish<br>often<br>know |  
 | bip_39_word_new_br_11 | avocado<br>rose<br>vacuum<br>prevent<br>teach<br>limb<br>come<br>wish<br>often<br>know<br>hazard |  
@@ -147,6 +159,18 @@ often |
 | bip_39_word_space_7 | avocado rose vacuum prevent teach limb come |  
 | bip_39_word_space_8 | avocado rose vacuum prevent teach limb come wish |  
 | bip_39_word_space_9 | avocado rose vacuum prevent teach limb come wish often |  
+| bip_39_word_underscore_1 | avocado |  
+| bip_39_word_underscore_10 | avocado_rose_vacuum_prevent_teach_limb_come_wish_often_know |  
+| bip_39_word_underscore_11 | avocado_rose_vacuum_prevent_teach_limb_come_wish_often_know_hazard |  
+| bip_39_word_underscore_12 | avocado_rose_vacuum_prevent_teach_limb_come_wish_often_know_hazard_artist |  
+| bip_39_word_underscore_2 | avocado_rose |  
+| bip_39_word_underscore_3 | avocado_rose_vacuum |  
+| bip_39_word_underscore_4 | avocado_rose_vacuum_prevent |  
+| bip_39_word_underscore_5 | avocado_rose_vacuum_prevent_teach |  
+| bip_39_word_underscore_6 | avocado_rose_vacuum_prevent_teach_limb |  
+| bip_39_word_underscore_7 | avocado_rose_vacuum_prevent_teach_limb_come |  
+| bip_39_word_underscore_8 | avocado_rose_vacuum_prevent_teach_limb_come_wish |  
+| bip_39_word_underscore_9 | avocado_rose_vacuum_prevent_teach_limb_come_wish_often |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

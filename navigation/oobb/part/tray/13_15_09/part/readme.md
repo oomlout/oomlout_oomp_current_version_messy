@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | barrel |  
+| bip_39_word_dash_10 | barrel-fog-ribbon-nephew-nest-pigeon-blush-depend-myth-copy |  
+| bip_39_word_dash_11 | barrel-fog-ribbon-nephew-nest-pigeon-blush-depend-myth-copy-print |  
+| bip_39_word_dash_12 | barrel-fog-ribbon-nephew-nest-pigeon-blush-depend-myth-copy-print-add |  
+| bip_39_word_dash_2 | barrel-fog |  
+| bip_39_word_dash_3 | barrel-fog-ribbon |  
+| bip_39_word_dash_4 | barrel-fog-ribbon-nephew |  
+| bip_39_word_dash_5 | barrel-fog-ribbon-nephew-nest |  
+| bip_39_word_dash_6 | barrel-fog-ribbon-nephew-nest-pigeon |  
+| bip_39_word_dash_7 | barrel-fog-ribbon-nephew-nest-pigeon-blush |  
+| bip_39_word_dash_8 | barrel-fog-ribbon-nephew-nest-pigeon-blush-depend |  
+| bip_39_word_dash_9 | barrel-fog-ribbon-nephew-nest-pigeon-blush-depend-myth |  
 | bip_39_word_new_br_1 | barrel |  
 | bip_39_word_new_br_10 | barrel<br>fog<br>ribbon<br>nephew<br>nest<br>pigeon<br>blush<br>depend<br>myth<br>copy |  
 | bip_39_word_new_br_11 | barrel<br>fog<br>ribbon<br>nephew<br>nest<br>pigeon<br>blush<br>depend<br>myth<br>copy<br>print |  
@@ -147,6 +159,18 @@ myth |
 | bip_39_word_space_7 | barrel fog ribbon nephew nest pigeon blush |  
 | bip_39_word_space_8 | barrel fog ribbon nephew nest pigeon blush depend |  
 | bip_39_word_space_9 | barrel fog ribbon nephew nest pigeon blush depend myth |  
+| bip_39_word_underscore_1 | barrel |  
+| bip_39_word_underscore_10 | barrel_fog_ribbon_nephew_nest_pigeon_blush_depend_myth_copy |  
+| bip_39_word_underscore_11 | barrel_fog_ribbon_nephew_nest_pigeon_blush_depend_myth_copy_print |  
+| bip_39_word_underscore_12 | barrel_fog_ribbon_nephew_nest_pigeon_blush_depend_myth_copy_print_add |  
+| bip_39_word_underscore_2 | barrel_fog |  
+| bip_39_word_underscore_3 | barrel_fog_ribbon |  
+| bip_39_word_underscore_4 | barrel_fog_ribbon_nephew |  
+| bip_39_word_underscore_5 | barrel_fog_ribbon_nephew_nest |  
+| bip_39_word_underscore_6 | barrel_fog_ribbon_nephew_nest_pigeon |  
+| bip_39_word_underscore_7 | barrel_fog_ribbon_nephew_nest_pigeon_blush |  
+| bip_39_word_underscore_8 | barrel_fog_ribbon_nephew_nest_pigeon_blush_depend |  
+| bip_39_word_underscore_9 | barrel_fog_ribbon_nephew_nest_pigeon_blush_depend_myth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

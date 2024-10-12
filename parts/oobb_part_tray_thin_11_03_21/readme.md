@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wealth |  
+| bip_39_word_dash_10 | wealth-control-vehicle-modify-tornado-mansion-coffee-ability-donor-soup |  
+| bip_39_word_dash_11 | wealth-control-vehicle-modify-tornado-mansion-coffee-ability-donor-soup-involve |  
+| bip_39_word_dash_12 | wealth-control-vehicle-modify-tornado-mansion-coffee-ability-donor-soup-involve-achieve |  
+| bip_39_word_dash_2 | wealth-control |  
+| bip_39_word_dash_3 | wealth-control-vehicle |  
+| bip_39_word_dash_4 | wealth-control-vehicle-modify |  
+| bip_39_word_dash_5 | wealth-control-vehicle-modify-tornado |  
+| bip_39_word_dash_6 | wealth-control-vehicle-modify-tornado-mansion |  
+| bip_39_word_dash_7 | wealth-control-vehicle-modify-tornado-mansion-coffee |  
+| bip_39_word_dash_8 | wealth-control-vehicle-modify-tornado-mansion-coffee-ability |  
+| bip_39_word_dash_9 | wealth-control-vehicle-modify-tornado-mansion-coffee-ability-donor |  
 | bip_39_word_new_br_1 | wealth |  
 | bip_39_word_new_br_10 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability<br>donor<br>soup |  
 | bip_39_word_new_br_11 | wealth<br>control<br>vehicle<br>modify<br>tornado<br>mansion<br>coffee<br>ability<br>donor<br>soup<br>involve |  
@@ -147,6 +159,18 @@ donor |
 | bip_39_word_space_7 | wealth control vehicle modify tornado mansion coffee |  
 | bip_39_word_space_8 | wealth control vehicle modify tornado mansion coffee ability |  
 | bip_39_word_space_9 | wealth control vehicle modify tornado mansion coffee ability donor |  
+| bip_39_word_underscore_1 | wealth |  
+| bip_39_word_underscore_10 | wealth_control_vehicle_modify_tornado_mansion_coffee_ability_donor_soup |  
+| bip_39_word_underscore_11 | wealth_control_vehicle_modify_tornado_mansion_coffee_ability_donor_soup_involve |  
+| bip_39_word_underscore_12 | wealth_control_vehicle_modify_tornado_mansion_coffee_ability_donor_soup_involve_achieve |  
+| bip_39_word_underscore_2 | wealth_control |  
+| bip_39_word_underscore_3 | wealth_control_vehicle |  
+| bip_39_word_underscore_4 | wealth_control_vehicle_modify |  
+| bip_39_word_underscore_5 | wealth_control_vehicle_modify_tornado |  
+| bip_39_word_underscore_6 | wealth_control_vehicle_modify_tornado_mansion |  
+| bip_39_word_underscore_7 | wealth_control_vehicle_modify_tornado_mansion_coffee |  
+| bip_39_word_underscore_8 | wealth_control_vehicle_modify_tornado_mansion_coffee_ability |  
+| bip_39_word_underscore_9 | wealth_control_vehicle_modify_tornado_mansion_coffee_ability_donor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

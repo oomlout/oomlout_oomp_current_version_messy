@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mule
+bip_39_word_dash_10: mule-payment-smart-swift-faith-label-material-negative-carry-butter
+bip_39_word_dash_11: mule-payment-smart-swift-faith-label-material-negative-carry-butter-acid
+bip_39_word_dash_12: mule-payment-smart-swift-faith-label-material-negative-carry-butter-acid-angle
+bip_39_word_dash_2: mule-payment
+bip_39_word_dash_3: mule-payment-smart
+bip_39_word_dash_4: mule-payment-smart-swift
+bip_39_word_dash_5: mule-payment-smart-swift-faith
+bip_39_word_dash_6: mule-payment-smart-swift-faith-label
+bip_39_word_dash_7: mule-payment-smart-swift-faith-label-material
+bip_39_word_dash_8: mule-payment-smart-swift-faith-label-material-negative
+bip_39_word_dash_9: mule-payment-smart-swift-faith-label-material-negative-carry
 bip_39_word_new_br_1: mule
 bip_39_word_new_br_10: mule<br>payment<br>smart<br>swift<br>faith<br>label<br>material<br>negative<br>carry<br>butter
 bip_39_word_new_br_11: mule<br>payment<br>smart<br>swift<br>faith<br>label<br>material<br>negative<br>carry<br>butter<br>acid
@@ -194,6 +206,18 @@ bip_39_word_space_6: mule payment smart swift faith label
 bip_39_word_space_7: mule payment smart swift faith label material
 bip_39_word_space_8: mule payment smart swift faith label material negative
 bip_39_word_space_9: mule payment smart swift faith label material negative carry
+bip_39_word_underscore_1: mule
+bip_39_word_underscore_10: mule_payment_smart_swift_faith_label_material_negative_carry_butter
+bip_39_word_underscore_11: mule_payment_smart_swift_faith_label_material_negative_carry_butter_acid
+bip_39_word_underscore_12: mule_payment_smart_swift_faith_label_material_negative_carry_butter_acid_angle
+bip_39_word_underscore_2: mule_payment
+bip_39_word_underscore_3: mule_payment_smart
+bip_39_word_underscore_4: mule_payment_smart_swift
+bip_39_word_underscore_5: mule_payment_smart_swift_faith
+bip_39_word_underscore_6: mule_payment_smart_swift_faith_label
+bip_39_word_underscore_7: mule_payment_smart_swift_faith_label_material
+bip_39_word_underscore_8: mule_payment_smart_swift_faith_label_material_negative
+bip_39_word_underscore_9: mule_payment_smart_swift_faith_label_material_negative_carry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frozen |  
+| bip_39_word_dash_10 | frozen-leopard-minute-illegal-knife-pen-junk-increase-invite-long |  
+| bip_39_word_dash_11 | frozen-leopard-minute-illegal-knife-pen-junk-increase-invite-long-climb |  
+| bip_39_word_dash_12 | frozen-leopard-minute-illegal-knife-pen-junk-increase-invite-long-climb-aunt |  
+| bip_39_word_dash_2 | frozen-leopard |  
+| bip_39_word_dash_3 | frozen-leopard-minute |  
+| bip_39_word_dash_4 | frozen-leopard-minute-illegal |  
+| bip_39_word_dash_5 | frozen-leopard-minute-illegal-knife |  
+| bip_39_word_dash_6 | frozen-leopard-minute-illegal-knife-pen |  
+| bip_39_word_dash_7 | frozen-leopard-minute-illegal-knife-pen-junk |  
+| bip_39_word_dash_8 | frozen-leopard-minute-illegal-knife-pen-junk-increase |  
+| bip_39_word_dash_9 | frozen-leopard-minute-illegal-knife-pen-junk-increase-invite |  
 | bip_39_word_new_br_1 | frozen |  
 | bip_39_word_new_br_10 | frozen<br>leopard<br>minute<br>illegal<br>knife<br>pen<br>junk<br>increase<br>invite<br>long |  
 | bip_39_word_new_br_11 | frozen<br>leopard<br>minute<br>illegal<br>knife<br>pen<br>junk<br>increase<br>invite<br>long<br>climb |  
@@ -147,6 +159,18 @@ invite |
 | bip_39_word_space_7 | frozen leopard minute illegal knife pen junk |  
 | bip_39_word_space_8 | frozen leopard minute illegal knife pen junk increase |  
 | bip_39_word_space_9 | frozen leopard minute illegal knife pen junk increase invite |  
+| bip_39_word_underscore_1 | frozen |  
+| bip_39_word_underscore_10 | frozen_leopard_minute_illegal_knife_pen_junk_increase_invite_long |  
+| bip_39_word_underscore_11 | frozen_leopard_minute_illegal_knife_pen_junk_increase_invite_long_climb |  
+| bip_39_word_underscore_12 | frozen_leopard_minute_illegal_knife_pen_junk_increase_invite_long_climb_aunt |  
+| bip_39_word_underscore_2 | frozen_leopard |  
+| bip_39_word_underscore_3 | frozen_leopard_minute |  
+| bip_39_word_underscore_4 | frozen_leopard_minute_illegal |  
+| bip_39_word_underscore_5 | frozen_leopard_minute_illegal_knife |  
+| bip_39_word_underscore_6 | frozen_leopard_minute_illegal_knife_pen |  
+| bip_39_word_underscore_7 | frozen_leopard_minute_illegal_knife_pen_junk |  
+| bip_39_word_underscore_8 | frozen_leopard_minute_illegal_knife_pen_junk_increase |  
+| bip_39_word_underscore_9 | frozen_leopard_minute_illegal_knife_pen_junk_increase_invite |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

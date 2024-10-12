@@ -1,3 +1,15 @@
+bip_39_word_dash_1: live
+bip_39_word_dash_10: live-undo-proof-kid-bicycle-before-witness-air-divert-ceiling
+bip_39_word_dash_11: live-undo-proof-kid-bicycle-before-witness-air-divert-ceiling-pupil
+bip_39_word_dash_12: live-undo-proof-kid-bicycle-before-witness-air-divert-ceiling-pupil-aim
+bip_39_word_dash_2: live-undo
+bip_39_word_dash_3: live-undo-proof
+bip_39_word_dash_4: live-undo-proof-kid
+bip_39_word_dash_5: live-undo-proof-kid-bicycle
+bip_39_word_dash_6: live-undo-proof-kid-bicycle-before
+bip_39_word_dash_7: live-undo-proof-kid-bicycle-before-witness
+bip_39_word_dash_8: live-undo-proof-kid-bicycle-before-witness-air
+bip_39_word_dash_9: live-undo-proof-kid-bicycle-before-witness-air-divert
 bip_39_word_new_br_1: live
 bip_39_word_new_br_10: live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling
 bip_39_word_new_br_11: live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling<br>pupil
@@ -193,6 +205,18 @@ bip_39_word_space_6: live undo proof kid bicycle before
 bip_39_word_space_7: live undo proof kid bicycle before witness
 bip_39_word_space_8: live undo proof kid bicycle before witness air
 bip_39_word_space_9: live undo proof kid bicycle before witness air divert
+bip_39_word_underscore_1: live
+bip_39_word_underscore_10: live_undo_proof_kid_bicycle_before_witness_air_divert_ceiling
+bip_39_word_underscore_11: live_undo_proof_kid_bicycle_before_witness_air_divert_ceiling_pupil
+bip_39_word_underscore_12: live_undo_proof_kid_bicycle_before_witness_air_divert_ceiling_pupil_aim
+bip_39_word_underscore_2: live_undo
+bip_39_word_underscore_3: live_undo_proof
+bip_39_word_underscore_4: live_undo_proof_kid
+bip_39_word_underscore_5: live_undo_proof_kid_bicycle
+bip_39_word_underscore_6: live_undo_proof_kid_bicycle_before
+bip_39_word_underscore_7: live_undo_proof_kid_bicycle_before_witness
+bip_39_word_underscore_8: live_undo_proof_kid_bicycle_before_witness_air
+bip_39_word_underscore_9: live_undo_proof_kid_bicycle_before_witness_air_divert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

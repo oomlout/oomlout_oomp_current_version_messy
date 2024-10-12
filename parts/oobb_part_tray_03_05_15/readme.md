@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wire |  
+| bip_39_word_dash_10 | wire-dizzy-fruit-disease-total-liar-cluster-canvas-concert-find |  
+| bip_39_word_dash_11 | wire-dizzy-fruit-disease-total-liar-cluster-canvas-concert-find-resource |  
+| bip_39_word_dash_12 | wire-dizzy-fruit-disease-total-liar-cluster-canvas-concert-find-resource-alter |  
+| bip_39_word_dash_2 | wire-dizzy |  
+| bip_39_word_dash_3 | wire-dizzy-fruit |  
+| bip_39_word_dash_4 | wire-dizzy-fruit-disease |  
+| bip_39_word_dash_5 | wire-dizzy-fruit-disease-total |  
+| bip_39_word_dash_6 | wire-dizzy-fruit-disease-total-liar |  
+| bip_39_word_dash_7 | wire-dizzy-fruit-disease-total-liar-cluster |  
+| bip_39_word_dash_8 | wire-dizzy-fruit-disease-total-liar-cluster-canvas |  
+| bip_39_word_dash_9 | wire-dizzy-fruit-disease-total-liar-cluster-canvas-concert |  
 | bip_39_word_new_br_1 | wire |  
 | bip_39_word_new_br_10 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas<br>concert<br>find |  
 | bip_39_word_new_br_11 | wire<br>dizzy<br>fruit<br>disease<br>total<br>liar<br>cluster<br>canvas<br>concert<br>find<br>resource |  
@@ -147,6 +159,18 @@ concert |
 | bip_39_word_space_7 | wire dizzy fruit disease total liar cluster |  
 | bip_39_word_space_8 | wire dizzy fruit disease total liar cluster canvas |  
 | bip_39_word_space_9 | wire dizzy fruit disease total liar cluster canvas concert |  
+| bip_39_word_underscore_1 | wire |  
+| bip_39_word_underscore_10 | wire_dizzy_fruit_disease_total_liar_cluster_canvas_concert_find |  
+| bip_39_word_underscore_11 | wire_dizzy_fruit_disease_total_liar_cluster_canvas_concert_find_resource |  
+| bip_39_word_underscore_12 | wire_dizzy_fruit_disease_total_liar_cluster_canvas_concert_find_resource_alter |  
+| bip_39_word_underscore_2 | wire_dizzy |  
+| bip_39_word_underscore_3 | wire_dizzy_fruit |  
+| bip_39_word_underscore_4 | wire_dizzy_fruit_disease |  
+| bip_39_word_underscore_5 | wire_dizzy_fruit_disease_total |  
+| bip_39_word_underscore_6 | wire_dizzy_fruit_disease_total_liar |  
+| bip_39_word_underscore_7 | wire_dizzy_fruit_disease_total_liar_cluster |  
+| bip_39_word_underscore_8 | wire_dizzy_fruit_disease_total_liar_cluster_canvas |  
+| bip_39_word_underscore_9 | wire_dizzy_fruit_disease_total_liar_cluster_canvas_concert |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

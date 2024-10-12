@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alien |  
+| bip_39_word_dash_10 | alien-step-diary-enter-turkey-hamster-gift-melody-donkey-adjust |  
+| bip_39_word_dash_11 | alien-step-diary-enter-turkey-hamster-gift-melody-donkey-adjust-cupboard |  
+| bip_39_word_dash_12 | alien-step-diary-enter-turkey-hamster-gift-melody-donkey-adjust-cupboard-arrive |  
+| bip_39_word_dash_2 | alien-step |  
+| bip_39_word_dash_3 | alien-step-diary |  
+| bip_39_word_dash_4 | alien-step-diary-enter |  
+| bip_39_word_dash_5 | alien-step-diary-enter-turkey |  
+| bip_39_word_dash_6 | alien-step-diary-enter-turkey-hamster |  
+| bip_39_word_dash_7 | alien-step-diary-enter-turkey-hamster-gift |  
+| bip_39_word_dash_8 | alien-step-diary-enter-turkey-hamster-gift-melody |  
+| bip_39_word_dash_9 | alien-step-diary-enter-turkey-hamster-gift-melody-donkey |  
 | bip_39_word_new_br_1 | alien |  
 | bip_39_word_new_br_10 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody<br>donkey<br>adjust |  
 | bip_39_word_new_br_11 | alien<br>step<br>diary<br>enter<br>turkey<br>hamster<br>gift<br>melody<br>donkey<br>adjust<br>cupboard |  
@@ -147,6 +159,18 @@ donkey |
 | bip_39_word_space_7 | alien step diary enter turkey hamster gift |  
 | bip_39_word_space_8 | alien step diary enter turkey hamster gift melody |  
 | bip_39_word_space_9 | alien step diary enter turkey hamster gift melody donkey |  
+| bip_39_word_underscore_1 | alien |  
+| bip_39_word_underscore_10 | alien_step_diary_enter_turkey_hamster_gift_melody_donkey_adjust |  
+| bip_39_word_underscore_11 | alien_step_diary_enter_turkey_hamster_gift_melody_donkey_adjust_cupboard |  
+| bip_39_word_underscore_12 | alien_step_diary_enter_turkey_hamster_gift_melody_donkey_adjust_cupboard_arrive |  
+| bip_39_word_underscore_2 | alien_step |  
+| bip_39_word_underscore_3 | alien_step_diary |  
+| bip_39_word_underscore_4 | alien_step_diary_enter |  
+| bip_39_word_underscore_5 | alien_step_diary_enter_turkey |  
+| bip_39_word_underscore_6 | alien_step_diary_enter_turkey_hamster |  
+| bip_39_word_underscore_7 | alien_step_diary_enter_turkey_hamster_gift |  
+| bip_39_word_underscore_8 | alien_step_diary_enter_turkey_hamster_gift_melody |  
+| bip_39_word_underscore_9 | alien_step_diary_enter_turkey_hamster_gift_melody_donkey |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

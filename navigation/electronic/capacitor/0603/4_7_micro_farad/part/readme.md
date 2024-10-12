@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blade |  
+| bip_39_word_dash_10 | blade-gadget-engage-bulk-fame-idea-aspect-captain-nice-cricket |  
+| bip_39_word_dash_11 | blade-gadget-engage-bulk-fame-idea-aspect-captain-nice-cricket-flush |  
+| bip_39_word_dash_12 | blade-gadget-engage-bulk-fame-idea-aspect-captain-nice-cricket-flush-allow |  
+| bip_39_word_dash_2 | blade-gadget |  
+| bip_39_word_dash_3 | blade-gadget-engage |  
+| bip_39_word_dash_4 | blade-gadget-engage-bulk |  
+| bip_39_word_dash_5 | blade-gadget-engage-bulk-fame |  
+| bip_39_word_dash_6 | blade-gadget-engage-bulk-fame-idea |  
+| bip_39_word_dash_7 | blade-gadget-engage-bulk-fame-idea-aspect |  
+| bip_39_word_dash_8 | blade-gadget-engage-bulk-fame-idea-aspect-captain |  
+| bip_39_word_dash_9 | blade-gadget-engage-bulk-fame-idea-aspect-captain-nice |  
 | bip_39_word_new_br_1 | blade |  
 | bip_39_word_new_br_10 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket |  
 | bip_39_word_new_br_11 | blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket<br>flush |  
@@ -147,6 +159,18 @@ nice |
 | bip_39_word_space_7 | blade gadget engage bulk fame idea aspect |  
 | bip_39_word_space_8 | blade gadget engage bulk fame idea aspect captain |  
 | bip_39_word_space_9 | blade gadget engage bulk fame idea aspect captain nice |  
+| bip_39_word_underscore_1 | blade |  
+| bip_39_word_underscore_10 | blade_gadget_engage_bulk_fame_idea_aspect_captain_nice_cricket |  
+| bip_39_word_underscore_11 | blade_gadget_engage_bulk_fame_idea_aspect_captain_nice_cricket_flush |  
+| bip_39_word_underscore_12 | blade_gadget_engage_bulk_fame_idea_aspect_captain_nice_cricket_flush_allow |  
+| bip_39_word_underscore_2 | blade_gadget |  
+| bip_39_word_underscore_3 | blade_gadget_engage |  
+| bip_39_word_underscore_4 | blade_gadget_engage_bulk |  
+| bip_39_word_underscore_5 | blade_gadget_engage_bulk_fame |  
+| bip_39_word_underscore_6 | blade_gadget_engage_bulk_fame_idea |  
+| bip_39_word_underscore_7 | blade_gadget_engage_bulk_fame_idea_aspect |  
+| bip_39_word_underscore_8 | blade_gadget_engage_bulk_fame_idea_aspect_captain |  
+| bip_39_word_underscore_9 | blade_gadget_engage_bulk_fame_idea_aspect_captain_nice |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

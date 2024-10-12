@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | point |  
+| bip_39_word_dash_10 | point-siege-pretty-evil-damp-noble-extra-vintage-wedding-over |  
+| bip_39_word_dash_11 | point-siege-pretty-evil-damp-noble-extra-vintage-wedding-over-because |  
+| bip_39_word_dash_12 | point-siege-pretty-evil-damp-noble-extra-vintage-wedding-over-because-auction |  
+| bip_39_word_dash_2 | point-siege |  
+| bip_39_word_dash_3 | point-siege-pretty |  
+| bip_39_word_dash_4 | point-siege-pretty-evil |  
+| bip_39_word_dash_5 | point-siege-pretty-evil-damp |  
+| bip_39_word_dash_6 | point-siege-pretty-evil-damp-noble |  
+| bip_39_word_dash_7 | point-siege-pretty-evil-damp-noble-extra |  
+| bip_39_word_dash_8 | point-siege-pretty-evil-damp-noble-extra-vintage |  
+| bip_39_word_dash_9 | point-siege-pretty-evil-damp-noble-extra-vintage-wedding |  
 | bip_39_word_new_br_1 | point |  
 | bip_39_word_new_br_10 | point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage<br>wedding<br>over |  
 | bip_39_word_new_br_11 | point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage<br>wedding<br>over<br>because |  
@@ -147,6 +159,18 @@ wedding |
 | bip_39_word_space_7 | point siege pretty evil damp noble extra |  
 | bip_39_word_space_8 | point siege pretty evil damp noble extra vintage |  
 | bip_39_word_space_9 | point siege pretty evil damp noble extra vintage wedding |  
+| bip_39_word_underscore_1 | point |  
+| bip_39_word_underscore_10 | point_siege_pretty_evil_damp_noble_extra_vintage_wedding_over |  
+| bip_39_word_underscore_11 | point_siege_pretty_evil_damp_noble_extra_vintage_wedding_over_because |  
+| bip_39_word_underscore_12 | point_siege_pretty_evil_damp_noble_extra_vintage_wedding_over_because_auction |  
+| bip_39_word_underscore_2 | point_siege |  
+| bip_39_word_underscore_3 | point_siege_pretty |  
+| bip_39_word_underscore_4 | point_siege_pretty_evil |  
+| bip_39_word_underscore_5 | point_siege_pretty_evil_damp |  
+| bip_39_word_underscore_6 | point_siege_pretty_evil_damp_noble |  
+| bip_39_word_underscore_7 | point_siege_pretty_evil_damp_noble_extra |  
+| bip_39_word_underscore_8 | point_siege_pretty_evil_damp_noble_extra_vintage |  
+| bip_39_word_underscore_9 | point_siege_pretty_evil_damp_noble_extra_vintage_wedding |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

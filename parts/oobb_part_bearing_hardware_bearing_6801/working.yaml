@@ -1,3 +1,15 @@
+bip_39_word_dash_1: matter
+bip_39_word_dash_10: matter-excuse-metal-guilt-jeans-crumble-rely-erode-ivory-neither
+bip_39_word_dash_11: matter-excuse-metal-guilt-jeans-crumble-rely-erode-ivory-neither-kidney
+bip_39_word_dash_12: matter-excuse-metal-guilt-jeans-crumble-rely-erode-ivory-neither-kidney-athlete
+bip_39_word_dash_2: matter-excuse
+bip_39_word_dash_3: matter-excuse-metal
+bip_39_word_dash_4: matter-excuse-metal-guilt
+bip_39_word_dash_5: matter-excuse-metal-guilt-jeans
+bip_39_word_dash_6: matter-excuse-metal-guilt-jeans-crumble
+bip_39_word_dash_7: matter-excuse-metal-guilt-jeans-crumble-rely
+bip_39_word_dash_8: matter-excuse-metal-guilt-jeans-crumble-rely-erode
+bip_39_word_dash_9: matter-excuse-metal-guilt-jeans-crumble-rely-erode-ivory
 bip_39_word_new_br_1: matter
 bip_39_word_new_br_10: matter<br>excuse<br>metal<br>guilt<br>jeans<br>crumble<br>rely<br>erode<br>ivory<br>neither
 bip_39_word_new_br_11: matter<br>excuse<br>metal<br>guilt<br>jeans<br>crumble<br>rely<br>erode<br>ivory<br>neither<br>kidney
@@ -193,6 +205,18 @@ bip_39_word_space_6: matter excuse metal guilt jeans crumble
 bip_39_word_space_7: matter excuse metal guilt jeans crumble rely
 bip_39_word_space_8: matter excuse metal guilt jeans crumble rely erode
 bip_39_word_space_9: matter excuse metal guilt jeans crumble rely erode ivory
+bip_39_word_underscore_1: matter
+bip_39_word_underscore_10: matter_excuse_metal_guilt_jeans_crumble_rely_erode_ivory_neither
+bip_39_word_underscore_11: matter_excuse_metal_guilt_jeans_crumble_rely_erode_ivory_neither_kidney
+bip_39_word_underscore_12: matter_excuse_metal_guilt_jeans_crumble_rely_erode_ivory_neither_kidney_athlete
+bip_39_word_underscore_2: matter_excuse
+bip_39_word_underscore_3: matter_excuse_metal
+bip_39_word_underscore_4: matter_excuse_metal_guilt
+bip_39_word_underscore_5: matter_excuse_metal_guilt_jeans
+bip_39_word_underscore_6: matter_excuse_metal_guilt_jeans_crumble
+bip_39_word_underscore_7: matter_excuse_metal_guilt_jeans_crumble_rely
+bip_39_word_underscore_8: matter_excuse_metal_guilt_jeans_crumble_rely_erode
+bip_39_word_underscore_9: matter_excuse_metal_guilt_jeans_crumble_rely_erode_ivory
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

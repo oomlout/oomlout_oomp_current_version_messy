@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lion
+bip_39_word_dash_10: lion-find-egg-wreck-reveal-follow-caution-chimney-game-dignity
+bip_39_word_dash_11: lion-find-egg-wreck-reveal-follow-caution-chimney-game-dignity-knee
+bip_39_word_dash_12: lion-find-egg-wreck-reveal-follow-caution-chimney-game-dignity-knee-apology
+bip_39_word_dash_2: lion-find
+bip_39_word_dash_3: lion-find-egg
+bip_39_word_dash_4: lion-find-egg-wreck
+bip_39_word_dash_5: lion-find-egg-wreck-reveal
+bip_39_word_dash_6: lion-find-egg-wreck-reveal-follow
+bip_39_word_dash_7: lion-find-egg-wreck-reveal-follow-caution
+bip_39_word_dash_8: lion-find-egg-wreck-reveal-follow-caution-chimney
+bip_39_word_dash_9: lion-find-egg-wreck-reveal-follow-caution-chimney-game
 bip_39_word_new_br_1: lion
 bip_39_word_new_br_10: lion<br>find<br>egg<br>wreck<br>reveal<br>follow<br>caution<br>chimney<br>game<br>dignity
 bip_39_word_new_br_11: lion<br>find<br>egg<br>wreck<br>reveal<br>follow<br>caution<br>chimney<br>game<br>dignity<br>knee
@@ -193,6 +205,18 @@ bip_39_word_space_6: lion find egg wreck reveal follow
 bip_39_word_space_7: lion find egg wreck reveal follow caution
 bip_39_word_space_8: lion find egg wreck reveal follow caution chimney
 bip_39_word_space_9: lion find egg wreck reveal follow caution chimney game
+bip_39_word_underscore_1: lion
+bip_39_word_underscore_10: lion_find_egg_wreck_reveal_follow_caution_chimney_game_dignity
+bip_39_word_underscore_11: lion_find_egg_wreck_reveal_follow_caution_chimney_game_dignity_knee
+bip_39_word_underscore_12: lion_find_egg_wreck_reveal_follow_caution_chimney_game_dignity_knee_apology
+bip_39_word_underscore_2: lion_find
+bip_39_word_underscore_3: lion_find_egg
+bip_39_word_underscore_4: lion_find_egg_wreck
+bip_39_word_underscore_5: lion_find_egg_wreck_reveal
+bip_39_word_underscore_6: lion_find_egg_wreck_reveal_follow
+bip_39_word_underscore_7: lion_find_egg_wreck_reveal_follow_caution
+bip_39_word_underscore_8: lion_find_egg_wreck_reveal_follow_caution_chimney
+bip_39_word_underscore_9: lion_find_egg_wreck_reveal_follow_caution_chimney_game
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: item
+bip_39_word_dash_10: item-toy-goddess-ankle-rabbit-rare-sentence-page-make-embody
+bip_39_word_dash_11: item-toy-goddess-ankle-rabbit-rare-sentence-page-make-embody-blast
+bip_39_word_dash_12: item-toy-goddess-ankle-rabbit-rare-sentence-page-make-embody-blast-album
+bip_39_word_dash_2: item-toy
+bip_39_word_dash_3: item-toy-goddess
+bip_39_word_dash_4: item-toy-goddess-ankle
+bip_39_word_dash_5: item-toy-goddess-ankle-rabbit
+bip_39_word_dash_6: item-toy-goddess-ankle-rabbit-rare
+bip_39_word_dash_7: item-toy-goddess-ankle-rabbit-rare-sentence
+bip_39_word_dash_8: item-toy-goddess-ankle-rabbit-rare-sentence-page
+bip_39_word_dash_9: item-toy-goddess-ankle-rabbit-rare-sentence-page-make
 bip_39_word_new_br_1: item
 bip_39_word_new_br_10: item<br>toy<br>goddess<br>ankle<br>rabbit<br>rare<br>sentence<br>page<br>make<br>embody
 bip_39_word_new_br_11: item<br>toy<br>goddess<br>ankle<br>rabbit<br>rare<br>sentence<br>page<br>make<br>embody<br>blast
@@ -193,6 +205,18 @@ bip_39_word_space_6: item toy goddess ankle rabbit rare
 bip_39_word_space_7: item toy goddess ankle rabbit rare sentence
 bip_39_word_space_8: item toy goddess ankle rabbit rare sentence page
 bip_39_word_space_9: item toy goddess ankle rabbit rare sentence page make
+bip_39_word_underscore_1: item
+bip_39_word_underscore_10: item_toy_goddess_ankle_rabbit_rare_sentence_page_make_embody
+bip_39_word_underscore_11: item_toy_goddess_ankle_rabbit_rare_sentence_page_make_embody_blast
+bip_39_word_underscore_12: item_toy_goddess_ankle_rabbit_rare_sentence_page_make_embody_blast_album
+bip_39_word_underscore_2: item_toy
+bip_39_word_underscore_3: item_toy_goddess
+bip_39_word_underscore_4: item_toy_goddess_ankle
+bip_39_word_underscore_5: item_toy_goddess_ankle_rabbit
+bip_39_word_underscore_6: item_toy_goddess_ankle_rabbit_rare
+bip_39_word_underscore_7: item_toy_goddess_ankle_rabbit_rare_sentence
+bip_39_word_underscore_8: item_toy_goddess_ankle_rabbit_rare_sentence_page
+bip_39_word_underscore_9: item_toy_goddess_ankle_rabbit_rare_sentence_page_make
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

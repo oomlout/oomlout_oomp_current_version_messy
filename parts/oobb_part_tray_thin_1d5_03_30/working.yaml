@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rude
+bip_39_word_dash_10: rude-attitude-slide-student-stable-car-stool-tiger-boss-balcony
+bip_39_word_dash_11: rude-attitude-slide-student-stable-car-stool-tiger-boss-balcony-agree
+bip_39_word_dash_12: rude-attitude-slide-student-stable-car-stool-tiger-boss-balcony-agree-author
+bip_39_word_dash_2: rude-attitude
+bip_39_word_dash_3: rude-attitude-slide
+bip_39_word_dash_4: rude-attitude-slide-student
+bip_39_word_dash_5: rude-attitude-slide-student-stable
+bip_39_word_dash_6: rude-attitude-slide-student-stable-car
+bip_39_word_dash_7: rude-attitude-slide-student-stable-car-stool
+bip_39_word_dash_8: rude-attitude-slide-student-stable-car-stool-tiger
+bip_39_word_dash_9: rude-attitude-slide-student-stable-car-stool-tiger-boss
 bip_39_word_new_br_1: rude
 bip_39_word_new_br_10: rude<br>attitude<br>slide<br>student<br>stable<br>car<br>stool<br>tiger<br>boss<br>balcony
 bip_39_word_new_br_11: rude<br>attitude<br>slide<br>student<br>stable<br>car<br>stool<br>tiger<br>boss<br>balcony<br>agree
@@ -193,6 +205,18 @@ bip_39_word_space_6: rude attitude slide student stable car
 bip_39_word_space_7: rude attitude slide student stable car stool
 bip_39_word_space_8: rude attitude slide student stable car stool tiger
 bip_39_word_space_9: rude attitude slide student stable car stool tiger boss
+bip_39_word_underscore_1: rude
+bip_39_word_underscore_10: rude_attitude_slide_student_stable_car_stool_tiger_boss_balcony
+bip_39_word_underscore_11: rude_attitude_slide_student_stable_car_stool_tiger_boss_balcony_agree
+bip_39_word_underscore_12: rude_attitude_slide_student_stable_car_stool_tiger_boss_balcony_agree_author
+bip_39_word_underscore_2: rude_attitude
+bip_39_word_underscore_3: rude_attitude_slide
+bip_39_word_underscore_4: rude_attitude_slide_student
+bip_39_word_underscore_5: rude_attitude_slide_student_stable
+bip_39_word_underscore_6: rude_attitude_slide_student_stable_car
+bip_39_word_underscore_7: rude_attitude_slide_student_stable_car_stool
+bip_39_word_underscore_8: rude_attitude_slide_student_stable_car_stool_tiger
+bip_39_word_underscore_9: rude_attitude_slide_student_stable_car_stool_tiger_boss
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

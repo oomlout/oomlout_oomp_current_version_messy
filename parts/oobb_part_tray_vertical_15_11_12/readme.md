@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | april |  
+| bip_39_word_dash_10 | april-answer-magnet-gadget-sting-torch-topple-nominee-brick-cherry |  
+| bip_39_word_dash_11 | april-answer-magnet-gadget-sting-torch-topple-nominee-brick-cherry-chapter |  
+| bip_39_word_dash_12 | april-answer-magnet-gadget-sting-torch-topple-nominee-brick-cherry-chapter-adult |  
+| bip_39_word_dash_2 | april-answer |  
+| bip_39_word_dash_3 | april-answer-magnet |  
+| bip_39_word_dash_4 | april-answer-magnet-gadget |  
+| bip_39_word_dash_5 | april-answer-magnet-gadget-sting |  
+| bip_39_word_dash_6 | april-answer-magnet-gadget-sting-torch |  
+| bip_39_word_dash_7 | april-answer-magnet-gadget-sting-torch-topple |  
+| bip_39_word_dash_8 | april-answer-magnet-gadget-sting-torch-topple-nominee |  
+| bip_39_word_dash_9 | april-answer-magnet-gadget-sting-torch-topple-nominee-brick |  
 | bip_39_word_new_br_1 | april |  
 | bip_39_word_new_br_10 | april<br>answer<br>magnet<br>gadget<br>sting<br>torch<br>topple<br>nominee<br>brick<br>cherry |  
 | bip_39_word_new_br_11 | april<br>answer<br>magnet<br>gadget<br>sting<br>torch<br>topple<br>nominee<br>brick<br>cherry<br>chapter |  
@@ -147,6 +159,18 @@ brick |
 | bip_39_word_space_7 | april answer magnet gadget sting torch topple |  
 | bip_39_word_space_8 | april answer magnet gadget sting torch topple nominee |  
 | bip_39_word_space_9 | april answer magnet gadget sting torch topple nominee brick |  
+| bip_39_word_underscore_1 | april |  
+| bip_39_word_underscore_10 | april_answer_magnet_gadget_sting_torch_topple_nominee_brick_cherry |  
+| bip_39_word_underscore_11 | april_answer_magnet_gadget_sting_torch_topple_nominee_brick_cherry_chapter |  
+| bip_39_word_underscore_12 | april_answer_magnet_gadget_sting_torch_topple_nominee_brick_cherry_chapter_adult |  
+| bip_39_word_underscore_2 | april_answer |  
+| bip_39_word_underscore_3 | april_answer_magnet |  
+| bip_39_word_underscore_4 | april_answer_magnet_gadget |  
+| bip_39_word_underscore_5 | april_answer_magnet_gadget_sting |  
+| bip_39_word_underscore_6 | april_answer_magnet_gadget_sting_torch |  
+| bip_39_word_underscore_7 | april_answer_magnet_gadget_sting_torch_topple |  
+| bip_39_word_underscore_8 | april_answer_magnet_gadget_sting_torch_topple_nominee |  
+| bip_39_word_underscore_9 | april_answer_magnet_gadget_sting_torch_topple_nominee_brick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

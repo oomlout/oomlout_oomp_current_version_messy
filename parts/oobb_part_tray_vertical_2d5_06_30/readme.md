@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | negative |  
+| bip_39_word_dash_10 | negative-extra-poem-walnut-upon-build-patient-blood-antenna-deny |  
+| bip_39_word_dash_11 | negative-extra-poem-walnut-upon-build-patient-blood-antenna-deny-trend |  
+| bip_39_word_dash_12 | negative-extra-poem-walnut-upon-build-patient-blood-antenna-deny-trend-assault |  
+| bip_39_word_dash_2 | negative-extra |  
+| bip_39_word_dash_3 | negative-extra-poem |  
+| bip_39_word_dash_4 | negative-extra-poem-walnut |  
+| bip_39_word_dash_5 | negative-extra-poem-walnut-upon |  
+| bip_39_word_dash_6 | negative-extra-poem-walnut-upon-build |  
+| bip_39_word_dash_7 | negative-extra-poem-walnut-upon-build-patient |  
+| bip_39_word_dash_8 | negative-extra-poem-walnut-upon-build-patient-blood |  
+| bip_39_word_dash_9 | negative-extra-poem-walnut-upon-build-patient-blood-antenna |  
 | bip_39_word_new_br_1 | negative |  
 | bip_39_word_new_br_10 | negative<br>extra<br>poem<br>walnut<br>upon<br>build<br>patient<br>blood<br>antenna<br>deny |  
 | bip_39_word_new_br_11 | negative<br>extra<br>poem<br>walnut<br>upon<br>build<br>patient<br>blood<br>antenna<br>deny<br>trend |  
@@ -147,6 +159,18 @@ antenna |
 | bip_39_word_space_7 | negative extra poem walnut upon build patient |  
 | bip_39_word_space_8 | negative extra poem walnut upon build patient blood |  
 | bip_39_word_space_9 | negative extra poem walnut upon build patient blood antenna |  
+| bip_39_word_underscore_1 | negative |  
+| bip_39_word_underscore_10 | negative_extra_poem_walnut_upon_build_patient_blood_antenna_deny |  
+| bip_39_word_underscore_11 | negative_extra_poem_walnut_upon_build_patient_blood_antenna_deny_trend |  
+| bip_39_word_underscore_12 | negative_extra_poem_walnut_upon_build_patient_blood_antenna_deny_trend_assault |  
+| bip_39_word_underscore_2 | negative_extra |  
+| bip_39_word_underscore_3 | negative_extra_poem |  
+| bip_39_word_underscore_4 | negative_extra_poem_walnut |  
+| bip_39_word_underscore_5 | negative_extra_poem_walnut_upon |  
+| bip_39_word_underscore_6 | negative_extra_poem_walnut_upon_build |  
+| bip_39_word_underscore_7 | negative_extra_poem_walnut_upon_build_patient |  
+| bip_39_word_underscore_8 | negative_extra_poem_walnut_upon_build_patient_blood |  
+| bip_39_word_underscore_9 | negative_extra_poem_walnut_upon_build_patient_blood_antenna |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

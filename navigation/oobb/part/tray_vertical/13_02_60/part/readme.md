@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cube |  
+| bip_39_word_dash_10 | cube-estate-friend-permit-blur-blanket-glare-peanut-fire-jewel |  
+| bip_39_word_dash_11 | cube-estate-friend-permit-blur-blanket-glare-peanut-fire-jewel-proud |  
+| bip_39_word_dash_12 | cube-estate-friend-permit-blur-blanket-glare-peanut-fire-jewel-proud-adapt |  
+| bip_39_word_dash_2 | cube-estate |  
+| bip_39_word_dash_3 | cube-estate-friend |  
+| bip_39_word_dash_4 | cube-estate-friend-permit |  
+| bip_39_word_dash_5 | cube-estate-friend-permit-blur |  
+| bip_39_word_dash_6 | cube-estate-friend-permit-blur-blanket |  
+| bip_39_word_dash_7 | cube-estate-friend-permit-blur-blanket-glare |  
+| bip_39_word_dash_8 | cube-estate-friend-permit-blur-blanket-glare-peanut |  
+| bip_39_word_dash_9 | cube-estate-friend-permit-blur-blanket-glare-peanut-fire |  
 | bip_39_word_new_br_1 | cube |  
 | bip_39_word_new_br_10 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut<br>fire<br>jewel |  
 | bip_39_word_new_br_11 | cube<br>estate<br>friend<br>permit<br>blur<br>blanket<br>glare<br>peanut<br>fire<br>jewel<br>proud |  
@@ -147,6 +159,18 @@ fire |
 | bip_39_word_space_7 | cube estate friend permit blur blanket glare |  
 | bip_39_word_space_8 | cube estate friend permit blur blanket glare peanut |  
 | bip_39_word_space_9 | cube estate friend permit blur blanket glare peanut fire |  
+| bip_39_word_underscore_1 | cube |  
+| bip_39_word_underscore_10 | cube_estate_friend_permit_blur_blanket_glare_peanut_fire_jewel |  
+| bip_39_word_underscore_11 | cube_estate_friend_permit_blur_blanket_glare_peanut_fire_jewel_proud |  
+| bip_39_word_underscore_12 | cube_estate_friend_permit_blur_blanket_glare_peanut_fire_jewel_proud_adapt |  
+| bip_39_word_underscore_2 | cube_estate |  
+| bip_39_word_underscore_3 | cube_estate_friend |  
+| bip_39_word_underscore_4 | cube_estate_friend_permit |  
+| bip_39_word_underscore_5 | cube_estate_friend_permit_blur |  
+| bip_39_word_underscore_6 | cube_estate_friend_permit_blur_blanket |  
+| bip_39_word_underscore_7 | cube_estate_friend_permit_blur_blanket_glare |  
+| bip_39_word_underscore_8 | cube_estate_friend_permit_blur_blanket_glare_peanut |  
+| bip_39_word_underscore_9 | cube_estate_friend_permit_blur_blanket_glare_peanut_fire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

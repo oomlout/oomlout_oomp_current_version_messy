@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | forward |  
+| bip_39_word_dash_10 | forward-torch-laugh-warrior-kite-target-slogan-south-maximum-lift |  
+| bip_39_word_dash_11 | forward-torch-laugh-warrior-kite-target-slogan-south-maximum-lift-warfare |  
+| bip_39_word_dash_12 | forward-torch-laugh-warrior-kite-target-slogan-south-maximum-lift-warfare-anger |  
+| bip_39_word_dash_2 | forward-torch |  
+| bip_39_word_dash_3 | forward-torch-laugh |  
+| bip_39_word_dash_4 | forward-torch-laugh-warrior |  
+| bip_39_word_dash_5 | forward-torch-laugh-warrior-kite |  
+| bip_39_word_dash_6 | forward-torch-laugh-warrior-kite-target |  
+| bip_39_word_dash_7 | forward-torch-laugh-warrior-kite-target-slogan |  
+| bip_39_word_dash_8 | forward-torch-laugh-warrior-kite-target-slogan-south |  
+| bip_39_word_dash_9 | forward-torch-laugh-warrior-kite-target-slogan-south-maximum |  
 | bip_39_word_new_br_1 | forward |  
 | bip_39_word_new_br_10 | forward<br>torch<br>laugh<br>warrior<br>kite<br>target<br>slogan<br>south<br>maximum<br>lift |  
 | bip_39_word_new_br_11 | forward<br>torch<br>laugh<br>warrior<br>kite<br>target<br>slogan<br>south<br>maximum<br>lift<br>warfare |  
@@ -147,6 +159,18 @@ maximum |
 | bip_39_word_space_7 | forward torch laugh warrior kite target slogan |  
 | bip_39_word_space_8 | forward torch laugh warrior kite target slogan south |  
 | bip_39_word_space_9 | forward torch laugh warrior kite target slogan south maximum |  
+| bip_39_word_underscore_1 | forward |  
+| bip_39_word_underscore_10 | forward_torch_laugh_warrior_kite_target_slogan_south_maximum_lift |  
+| bip_39_word_underscore_11 | forward_torch_laugh_warrior_kite_target_slogan_south_maximum_lift_warfare |  
+| bip_39_word_underscore_12 | forward_torch_laugh_warrior_kite_target_slogan_south_maximum_lift_warfare_anger |  
+| bip_39_word_underscore_2 | forward_torch |  
+| bip_39_word_underscore_3 | forward_torch_laugh |  
+| bip_39_word_underscore_4 | forward_torch_laugh_warrior |  
+| bip_39_word_underscore_5 | forward_torch_laugh_warrior_kite |  
+| bip_39_word_underscore_6 | forward_torch_laugh_warrior_kite_target |  
+| bip_39_word_underscore_7 | forward_torch_laugh_warrior_kite_target_slogan |  
+| bip_39_word_underscore_8 | forward_torch_laugh_warrior_kite_target_slogan_south |  
+| bip_39_word_underscore_9 | forward_torch_laugh_warrior_kite_target_slogan_south_maximum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

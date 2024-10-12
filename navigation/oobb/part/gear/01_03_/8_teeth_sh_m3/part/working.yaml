@@ -1,3 +1,15 @@
+bip_39_word_dash_1: whisper
+bip_39_word_dash_10: whisper-oppose-jacket-eagle-test-remind-butter-series-rug-accuse
+bip_39_word_dash_11: whisper-oppose-jacket-eagle-test-remind-butter-series-rug-accuse-garden
+bip_39_word_dash_12: whisper-oppose-jacket-eagle-test-remind-butter-series-rug-accuse-garden-adult
+bip_39_word_dash_2: whisper-oppose
+bip_39_word_dash_3: whisper-oppose-jacket
+bip_39_word_dash_4: whisper-oppose-jacket-eagle
+bip_39_word_dash_5: whisper-oppose-jacket-eagle-test
+bip_39_word_dash_6: whisper-oppose-jacket-eagle-test-remind
+bip_39_word_dash_7: whisper-oppose-jacket-eagle-test-remind-butter
+bip_39_word_dash_8: whisper-oppose-jacket-eagle-test-remind-butter-series
+bip_39_word_dash_9: whisper-oppose-jacket-eagle-test-remind-butter-series-rug
 bip_39_word_new_br_1: whisper
 bip_39_word_new_br_10: whisper<br>oppose<br>jacket<br>eagle<br>test<br>remind<br>butter<br>series<br>rug<br>accuse
 bip_39_word_new_br_11: whisper<br>oppose<br>jacket<br>eagle<br>test<br>remind<br>butter<br>series<br>rug<br>accuse<br>garden
@@ -193,6 +205,18 @@ bip_39_word_space_6: whisper oppose jacket eagle test remind
 bip_39_word_space_7: whisper oppose jacket eagle test remind butter
 bip_39_word_space_8: whisper oppose jacket eagle test remind butter series
 bip_39_word_space_9: whisper oppose jacket eagle test remind butter series rug
+bip_39_word_underscore_1: whisper
+bip_39_word_underscore_10: whisper_oppose_jacket_eagle_test_remind_butter_series_rug_accuse
+bip_39_word_underscore_11: whisper_oppose_jacket_eagle_test_remind_butter_series_rug_accuse_garden
+bip_39_word_underscore_12: whisper_oppose_jacket_eagle_test_remind_butter_series_rug_accuse_garden_adult
+bip_39_word_underscore_2: whisper_oppose
+bip_39_word_underscore_3: whisper_oppose_jacket
+bip_39_word_underscore_4: whisper_oppose_jacket_eagle
+bip_39_word_underscore_5: whisper_oppose_jacket_eagle_test
+bip_39_word_underscore_6: whisper_oppose_jacket_eagle_test_remind
+bip_39_word_underscore_7: whisper_oppose_jacket_eagle_test_remind_butter
+bip_39_word_underscore_8: whisper_oppose_jacket_eagle_test_remind_butter_series
+bip_39_word_underscore_9: whisper_oppose_jacket_eagle_test_remind_butter_series_rug
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

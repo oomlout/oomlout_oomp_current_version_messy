@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thunder |  
+| bip_39_word_dash_10 | thunder-patch-scare-odor-orphan-lounge-glide-hurry-output-boat |  
+| bip_39_word_dash_11 | thunder-patch-scare-odor-orphan-lounge-glide-hurry-output-boat-inject |  
+| bip_39_word_dash_12 | thunder-patch-scare-odor-orphan-lounge-glide-hurry-output-boat-inject-acoustic |  
+| bip_39_word_dash_2 | thunder-patch |  
+| bip_39_word_dash_3 | thunder-patch-scare |  
+| bip_39_word_dash_4 | thunder-patch-scare-odor |  
+| bip_39_word_dash_5 | thunder-patch-scare-odor-orphan |  
+| bip_39_word_dash_6 | thunder-patch-scare-odor-orphan-lounge |  
+| bip_39_word_dash_7 | thunder-patch-scare-odor-orphan-lounge-glide |  
+| bip_39_word_dash_8 | thunder-patch-scare-odor-orphan-lounge-glide-hurry |  
+| bip_39_word_dash_9 | thunder-patch-scare-odor-orphan-lounge-glide-hurry-output |  
 | bip_39_word_new_br_1 | thunder |  
 | bip_39_word_new_br_10 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat |  
 | bip_39_word_new_br_11 | thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat<br>inject |  
@@ -147,6 +159,18 @@ output |
 | bip_39_word_space_7 | thunder patch scare odor orphan lounge glide |  
 | bip_39_word_space_8 | thunder patch scare odor orphan lounge glide hurry |  
 | bip_39_word_space_9 | thunder patch scare odor orphan lounge glide hurry output |  
+| bip_39_word_underscore_1 | thunder |  
+| bip_39_word_underscore_10 | thunder_patch_scare_odor_orphan_lounge_glide_hurry_output_boat |  
+| bip_39_word_underscore_11 | thunder_patch_scare_odor_orphan_lounge_glide_hurry_output_boat_inject |  
+| bip_39_word_underscore_12 | thunder_patch_scare_odor_orphan_lounge_glide_hurry_output_boat_inject_acoustic |  
+| bip_39_word_underscore_2 | thunder_patch |  
+| bip_39_word_underscore_3 | thunder_patch_scare |  
+| bip_39_word_underscore_4 | thunder_patch_scare_odor |  
+| bip_39_word_underscore_5 | thunder_patch_scare_odor_orphan |  
+| bip_39_word_underscore_6 | thunder_patch_scare_odor_orphan_lounge |  
+| bip_39_word_underscore_7 | thunder_patch_scare_odor_orphan_lounge_glide |  
+| bip_39_word_underscore_8 | thunder_patch_scare_odor_orphan_lounge_glide_hurry |  
+| bip_39_word_underscore_9 | thunder_patch_scare_odor_orphan_lounge_glide_hurry_output |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

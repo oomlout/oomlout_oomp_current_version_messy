@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vacuum |  
+| bip_39_word_dash_10 | vacuum-pluck-manage-super-doll-prepare-stereo-tuition-divide-can |  
+| bip_39_word_dash_11 | vacuum-pluck-manage-super-doll-prepare-stereo-tuition-divide-can-raise |  
+| bip_39_word_dash_12 | vacuum-pluck-manage-super-doll-prepare-stereo-tuition-divide-can-raise-armed |  
+| bip_39_word_dash_2 | vacuum-pluck |  
+| bip_39_word_dash_3 | vacuum-pluck-manage |  
+| bip_39_word_dash_4 | vacuum-pluck-manage-super |  
+| bip_39_word_dash_5 | vacuum-pluck-manage-super-doll |  
+| bip_39_word_dash_6 | vacuum-pluck-manage-super-doll-prepare |  
+| bip_39_word_dash_7 | vacuum-pluck-manage-super-doll-prepare-stereo |  
+| bip_39_word_dash_8 | vacuum-pluck-manage-super-doll-prepare-stereo-tuition |  
+| bip_39_word_dash_9 | vacuum-pluck-manage-super-doll-prepare-stereo-tuition-divide |  
 | bip_39_word_new_br_1 | vacuum |  
 | bip_39_word_new_br_10 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition<br>divide<br>can |  
 | bip_39_word_new_br_11 | vacuum<br>pluck<br>manage<br>super<br>doll<br>prepare<br>stereo<br>tuition<br>divide<br>can<br>raise |  
@@ -147,6 +159,18 @@ divide |
 | bip_39_word_space_7 | vacuum pluck manage super doll prepare stereo |  
 | bip_39_word_space_8 | vacuum pluck manage super doll prepare stereo tuition |  
 | bip_39_word_space_9 | vacuum pluck manage super doll prepare stereo tuition divide |  
+| bip_39_word_underscore_1 | vacuum |  
+| bip_39_word_underscore_10 | vacuum_pluck_manage_super_doll_prepare_stereo_tuition_divide_can |  
+| bip_39_word_underscore_11 | vacuum_pluck_manage_super_doll_prepare_stereo_tuition_divide_can_raise |  
+| bip_39_word_underscore_12 | vacuum_pluck_manage_super_doll_prepare_stereo_tuition_divide_can_raise_armed |  
+| bip_39_word_underscore_2 | vacuum_pluck |  
+| bip_39_word_underscore_3 | vacuum_pluck_manage |  
+| bip_39_word_underscore_4 | vacuum_pluck_manage_super |  
+| bip_39_word_underscore_5 | vacuum_pluck_manage_super_doll |  
+| bip_39_word_underscore_6 | vacuum_pluck_manage_super_doll_prepare |  
+| bip_39_word_underscore_7 | vacuum_pluck_manage_super_doll_prepare_stereo |  
+| bip_39_word_underscore_8 | vacuum_pluck_manage_super_doll_prepare_stereo_tuition |  
+| bip_39_word_underscore_9 | vacuum_pluck_manage_super_doll_prepare_stereo_tuition_divide |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

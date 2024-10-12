@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leisure
+bip_39_word_dash_10: leisure-topic-tragic-expose-visual-drill-visit-require-same-combine
+bip_39_word_dash_11: leisure-topic-tragic-expose-visual-drill-visit-require-same-combine-boy
+bip_39_word_dash_12: leisure-topic-tragic-expose-visual-drill-visit-require-same-combine-boy-adjust
+bip_39_word_dash_2: leisure-topic
+bip_39_word_dash_3: leisure-topic-tragic
+bip_39_word_dash_4: leisure-topic-tragic-expose
+bip_39_word_dash_5: leisure-topic-tragic-expose-visual
+bip_39_word_dash_6: leisure-topic-tragic-expose-visual-drill
+bip_39_word_dash_7: leisure-topic-tragic-expose-visual-drill-visit
+bip_39_word_dash_8: leisure-topic-tragic-expose-visual-drill-visit-require
+bip_39_word_dash_9: leisure-topic-tragic-expose-visual-drill-visit-require-same
 bip_39_word_new_br_1: leisure
 bip_39_word_new_br_10: leisure<br>topic<br>tragic<br>expose<br>visual<br>drill<br>visit<br>require<br>same<br>combine
 bip_39_word_new_br_11: leisure<br>topic<br>tragic<br>expose<br>visual<br>drill<br>visit<br>require<br>same<br>combine<br>boy
@@ -194,6 +206,18 @@ bip_39_word_space_6: leisure topic tragic expose visual drill
 bip_39_word_space_7: leisure topic tragic expose visual drill visit
 bip_39_word_space_8: leisure topic tragic expose visual drill visit require
 bip_39_word_space_9: leisure topic tragic expose visual drill visit require same
+bip_39_word_underscore_1: leisure
+bip_39_word_underscore_10: leisure_topic_tragic_expose_visual_drill_visit_require_same_combine
+bip_39_word_underscore_11: leisure_topic_tragic_expose_visual_drill_visit_require_same_combine_boy
+bip_39_word_underscore_12: leisure_topic_tragic_expose_visual_drill_visit_require_same_combine_boy_adjust
+bip_39_word_underscore_2: leisure_topic
+bip_39_word_underscore_3: leisure_topic_tragic
+bip_39_word_underscore_4: leisure_topic_tragic_expose
+bip_39_word_underscore_5: leisure_topic_tragic_expose_visual
+bip_39_word_underscore_6: leisure_topic_tragic_expose_visual_drill
+bip_39_word_underscore_7: leisure_topic_tragic_expose_visual_drill_visit
+bip_39_word_underscore_8: leisure_topic_tragic_expose_visual_drill_visit_require
+bip_39_word_underscore_9: leisure_topic_tragic_expose_visual_drill_visit_require_same
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

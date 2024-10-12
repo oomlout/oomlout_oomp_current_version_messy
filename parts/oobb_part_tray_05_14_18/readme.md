@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | seed |  
+| bip_39_word_dash_10 | seed-ocean-artist-assist-bike-indicate-near-loyal-galaxy-chimney |  
+| bip_39_word_dash_11 | seed-ocean-artist-assist-bike-indicate-near-loyal-galaxy-chimney-enforce |  
+| bip_39_word_dash_12 | seed-ocean-artist-assist-bike-indicate-near-loyal-galaxy-chimney-enforce-alone |  
+| bip_39_word_dash_2 | seed-ocean |  
+| bip_39_word_dash_3 | seed-ocean-artist |  
+| bip_39_word_dash_4 | seed-ocean-artist-assist |  
+| bip_39_word_dash_5 | seed-ocean-artist-assist-bike |  
+| bip_39_word_dash_6 | seed-ocean-artist-assist-bike-indicate |  
+| bip_39_word_dash_7 | seed-ocean-artist-assist-bike-indicate-near |  
+| bip_39_word_dash_8 | seed-ocean-artist-assist-bike-indicate-near-loyal |  
+| bip_39_word_dash_9 | seed-ocean-artist-assist-bike-indicate-near-loyal-galaxy |  
 | bip_39_word_new_br_1 | seed |  
 | bip_39_word_new_br_10 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal<br>galaxy<br>chimney |  
 | bip_39_word_new_br_11 | seed<br>ocean<br>artist<br>assist<br>bike<br>indicate<br>near<br>loyal<br>galaxy<br>chimney<br>enforce |  
@@ -147,6 +159,18 @@ galaxy |
 | bip_39_word_space_7 | seed ocean artist assist bike indicate near |  
 | bip_39_word_space_8 | seed ocean artist assist bike indicate near loyal |  
 | bip_39_word_space_9 | seed ocean artist assist bike indicate near loyal galaxy |  
+| bip_39_word_underscore_1 | seed |  
+| bip_39_word_underscore_10 | seed_ocean_artist_assist_bike_indicate_near_loyal_galaxy_chimney |  
+| bip_39_word_underscore_11 | seed_ocean_artist_assist_bike_indicate_near_loyal_galaxy_chimney_enforce |  
+| bip_39_word_underscore_12 | seed_ocean_artist_assist_bike_indicate_near_loyal_galaxy_chimney_enforce_alone |  
+| bip_39_word_underscore_2 | seed_ocean |  
+| bip_39_word_underscore_3 | seed_ocean_artist |  
+| bip_39_word_underscore_4 | seed_ocean_artist_assist |  
+| bip_39_word_underscore_5 | seed_ocean_artist_assist_bike |  
+| bip_39_word_underscore_6 | seed_ocean_artist_assist_bike_indicate |  
+| bip_39_word_underscore_7 | seed_ocean_artist_assist_bike_indicate_near |  
+| bip_39_word_underscore_8 | seed_ocean_artist_assist_bike_indicate_near_loyal |  
+| bip_39_word_underscore_9 | seed_ocean_artist_assist_bike_indicate_near_loyal_galaxy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

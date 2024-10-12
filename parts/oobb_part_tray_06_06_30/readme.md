@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sketch |  
+| bip_39_word_dash_10 | sketch-situate-sample-text-wool-coast-canoe-digital-permit-project |  
+| bip_39_word_dash_11 | sketch-situate-sample-text-wool-coast-canoe-digital-permit-project-right |  
+| bip_39_word_dash_12 | sketch-situate-sample-text-wool-coast-canoe-digital-permit-project-right-aim |  
+| bip_39_word_dash_2 | sketch-situate |  
+| bip_39_word_dash_3 | sketch-situate-sample |  
+| bip_39_word_dash_4 | sketch-situate-sample-text |  
+| bip_39_word_dash_5 | sketch-situate-sample-text-wool |  
+| bip_39_word_dash_6 | sketch-situate-sample-text-wool-coast |  
+| bip_39_word_dash_7 | sketch-situate-sample-text-wool-coast-canoe |  
+| bip_39_word_dash_8 | sketch-situate-sample-text-wool-coast-canoe-digital |  
+| bip_39_word_dash_9 | sketch-situate-sample-text-wool-coast-canoe-digital-permit |  
 | bip_39_word_new_br_1 | sketch |  
 | bip_39_word_new_br_10 | sketch<br>situate<br>sample<br>text<br>wool<br>coast<br>canoe<br>digital<br>permit<br>project |  
 | bip_39_word_new_br_11 | sketch<br>situate<br>sample<br>text<br>wool<br>coast<br>canoe<br>digital<br>permit<br>project<br>right |  
@@ -147,6 +159,18 @@ permit |
 | bip_39_word_space_7 | sketch situate sample text wool coast canoe |  
 | bip_39_word_space_8 | sketch situate sample text wool coast canoe digital |  
 | bip_39_word_space_9 | sketch situate sample text wool coast canoe digital permit |  
+| bip_39_word_underscore_1 | sketch |  
+| bip_39_word_underscore_10 | sketch_situate_sample_text_wool_coast_canoe_digital_permit_project |  
+| bip_39_word_underscore_11 | sketch_situate_sample_text_wool_coast_canoe_digital_permit_project_right |  
+| bip_39_word_underscore_12 | sketch_situate_sample_text_wool_coast_canoe_digital_permit_project_right_aim |  
+| bip_39_word_underscore_2 | sketch_situate |  
+| bip_39_word_underscore_3 | sketch_situate_sample |  
+| bip_39_word_underscore_4 | sketch_situate_sample_text |  
+| bip_39_word_underscore_5 | sketch_situate_sample_text_wool |  
+| bip_39_word_underscore_6 | sketch_situate_sample_text_wool_coast |  
+| bip_39_word_underscore_7 | sketch_situate_sample_text_wool_coast_canoe |  
+| bip_39_word_underscore_8 | sketch_situate_sample_text_wool_coast_canoe_digital |  
+| bip_39_word_underscore_9 | sketch_situate_sample_text_wool_coast_canoe_digital_permit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

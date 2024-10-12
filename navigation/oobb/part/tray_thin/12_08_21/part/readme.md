@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | noise |  
+| bip_39_word_dash_10 | noise-melody-front-avocado-memory-cute-orphan-super-crazy-glory |  
+| bip_39_word_dash_11 | noise-melody-front-avocado-memory-cute-orphan-super-crazy-glory-lesson |  
+| bip_39_word_dash_12 | noise-melody-front-avocado-memory-cute-orphan-super-crazy-glory-lesson-acid |  
+| bip_39_word_dash_2 | noise-melody |  
+| bip_39_word_dash_3 | noise-melody-front |  
+| bip_39_word_dash_4 | noise-melody-front-avocado |  
+| bip_39_word_dash_5 | noise-melody-front-avocado-memory |  
+| bip_39_word_dash_6 | noise-melody-front-avocado-memory-cute |  
+| bip_39_word_dash_7 | noise-melody-front-avocado-memory-cute-orphan |  
+| bip_39_word_dash_8 | noise-melody-front-avocado-memory-cute-orphan-super |  
+| bip_39_word_dash_9 | noise-melody-front-avocado-memory-cute-orphan-super-crazy |  
 | bip_39_word_new_br_1 | noise |  
 | bip_39_word_new_br_10 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super<br>crazy<br>glory |  
 | bip_39_word_new_br_11 | noise<br>melody<br>front<br>avocado<br>memory<br>cute<br>orphan<br>super<br>crazy<br>glory<br>lesson |  
@@ -147,6 +159,18 @@ crazy |
 | bip_39_word_space_7 | noise melody front avocado memory cute orphan |  
 | bip_39_word_space_8 | noise melody front avocado memory cute orphan super |  
 | bip_39_word_space_9 | noise melody front avocado memory cute orphan super crazy |  
+| bip_39_word_underscore_1 | noise |  
+| bip_39_word_underscore_10 | noise_melody_front_avocado_memory_cute_orphan_super_crazy_glory |  
+| bip_39_word_underscore_11 | noise_melody_front_avocado_memory_cute_orphan_super_crazy_glory_lesson |  
+| bip_39_word_underscore_12 | noise_melody_front_avocado_memory_cute_orphan_super_crazy_glory_lesson_acid |  
+| bip_39_word_underscore_2 | noise_melody |  
+| bip_39_word_underscore_3 | noise_melody_front |  
+| bip_39_word_underscore_4 | noise_melody_front_avocado |  
+| bip_39_word_underscore_5 | noise_melody_front_avocado_memory |  
+| bip_39_word_underscore_6 | noise_melody_front_avocado_memory_cute |  
+| bip_39_word_underscore_7 | noise_melody_front_avocado_memory_cute_orphan |  
+| bip_39_word_underscore_8 | noise_melody_front_avocado_memory_cute_orphan_super |  
+| bip_39_word_underscore_9 | noise_melody_front_avocado_memory_cute_orphan_super_crazy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

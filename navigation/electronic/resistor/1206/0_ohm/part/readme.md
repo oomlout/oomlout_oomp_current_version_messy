@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | emotion |  
+| bip_39_word_dash_10 | emotion-program-judge-artefact-oven-solid-joy-mother-cactus-whale |  
+| bip_39_word_dash_11 | emotion-program-judge-artefact-oven-solid-joy-mother-cactus-whale-scatter |  
+| bip_39_word_dash_12 | emotion-program-judge-artefact-oven-solid-joy-mother-cactus-whale-scatter-arrow |  
+| bip_39_word_dash_2 | emotion-program |  
+| bip_39_word_dash_3 | emotion-program-judge |  
+| bip_39_word_dash_4 | emotion-program-judge-artefact |  
+| bip_39_word_dash_5 | emotion-program-judge-artefact-oven |  
+| bip_39_word_dash_6 | emotion-program-judge-artefact-oven-solid |  
+| bip_39_word_dash_7 | emotion-program-judge-artefact-oven-solid-joy |  
+| bip_39_word_dash_8 | emotion-program-judge-artefact-oven-solid-joy-mother |  
+| bip_39_word_dash_9 | emotion-program-judge-artefact-oven-solid-joy-mother-cactus |  
 | bip_39_word_new_br_1 | emotion |  
 | bip_39_word_new_br_10 | emotion<br>program<br>judge<br>artefact<br>oven<br>solid<br>joy<br>mother<br>cactus<br>whale |  
 | bip_39_word_new_br_11 | emotion<br>program<br>judge<br>artefact<br>oven<br>solid<br>joy<br>mother<br>cactus<br>whale<br>scatter |  
@@ -147,6 +159,18 @@ cactus |
 | bip_39_word_space_7 | emotion program judge artefact oven solid joy |  
 | bip_39_word_space_8 | emotion program judge artefact oven solid joy mother |  
 | bip_39_word_space_9 | emotion program judge artefact oven solid joy mother cactus |  
+| bip_39_word_underscore_1 | emotion |  
+| bip_39_word_underscore_10 | emotion_program_judge_artefact_oven_solid_joy_mother_cactus_whale |  
+| bip_39_word_underscore_11 | emotion_program_judge_artefact_oven_solid_joy_mother_cactus_whale_scatter |  
+| bip_39_word_underscore_12 | emotion_program_judge_artefact_oven_solid_joy_mother_cactus_whale_scatter_arrow |  
+| bip_39_word_underscore_2 | emotion_program |  
+| bip_39_word_underscore_3 | emotion_program_judge |  
+| bip_39_word_underscore_4 | emotion_program_judge_artefact |  
+| bip_39_word_underscore_5 | emotion_program_judge_artefact_oven |  
+| bip_39_word_underscore_6 | emotion_program_judge_artefact_oven_solid |  
+| bip_39_word_underscore_7 | emotion_program_judge_artefact_oven_solid_joy |  
+| bip_39_word_underscore_8 | emotion_program_judge_artefact_oven_solid_joy_mother |  
+| bip_39_word_underscore_9 | emotion_program_judge_artefact_oven_solid_joy_mother_cactus |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

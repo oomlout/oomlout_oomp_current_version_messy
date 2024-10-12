@@ -1,3 +1,15 @@
+bip_39_word_dash_1: head
+bip_39_word_dash_10: head-knife-inform-eager-behind-stone-raise-window-echo-diagram
+bip_39_word_dash_11: head-knife-inform-eager-behind-stone-raise-window-echo-diagram-please
+bip_39_word_dash_12: head-knife-inform-eager-behind-stone-raise-window-echo-diagram-please-angle
+bip_39_word_dash_2: head-knife
+bip_39_word_dash_3: head-knife-inform
+bip_39_word_dash_4: head-knife-inform-eager
+bip_39_word_dash_5: head-knife-inform-eager-behind
+bip_39_word_dash_6: head-knife-inform-eager-behind-stone
+bip_39_word_dash_7: head-knife-inform-eager-behind-stone-raise
+bip_39_word_dash_8: head-knife-inform-eager-behind-stone-raise-window
+bip_39_word_dash_9: head-knife-inform-eager-behind-stone-raise-window-echo
 bip_39_word_new_br_1: head
 bip_39_word_new_br_10: head<br>knife<br>inform<br>eager<br>behind<br>stone<br>raise<br>window<br>echo<br>diagram
 bip_39_word_new_br_11: head<br>knife<br>inform<br>eager<br>behind<br>stone<br>raise<br>window<br>echo<br>diagram<br>please
@@ -193,6 +205,18 @@ bip_39_word_space_6: head knife inform eager behind stone
 bip_39_word_space_7: head knife inform eager behind stone raise
 bip_39_word_space_8: head knife inform eager behind stone raise window
 bip_39_word_space_9: head knife inform eager behind stone raise window echo
+bip_39_word_underscore_1: head
+bip_39_word_underscore_10: head_knife_inform_eager_behind_stone_raise_window_echo_diagram
+bip_39_word_underscore_11: head_knife_inform_eager_behind_stone_raise_window_echo_diagram_please
+bip_39_word_underscore_12: head_knife_inform_eager_behind_stone_raise_window_echo_diagram_please_angle
+bip_39_word_underscore_2: head_knife
+bip_39_word_underscore_3: head_knife_inform
+bip_39_word_underscore_4: head_knife_inform_eager
+bip_39_word_underscore_5: head_knife_inform_eager_behind
+bip_39_word_underscore_6: head_knife_inform_eager_behind_stone
+bip_39_word_underscore_7: head_knife_inform_eager_behind_stone_raise
+bip_39_word_underscore_8: head_knife_inform_eager_behind_stone_raise_window
+bip_39_word_underscore_9: head_knife_inform_eager_behind_stone_raise_window_echo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

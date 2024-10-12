@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | badge |  
+| bip_39_word_dash_10 | badge-nerve-cube-broom-wage-dog-orient-vote-mandate-blind |  
+| bip_39_word_dash_11 | badge-nerve-cube-broom-wage-dog-orient-vote-mandate-blind-hour |  
+| bip_39_word_dash_12 | badge-nerve-cube-broom-wage-dog-orient-vote-mandate-blind-hour-apart |  
+| bip_39_word_dash_2 | badge-nerve |  
+| bip_39_word_dash_3 | badge-nerve-cube |  
+| bip_39_word_dash_4 | badge-nerve-cube-broom |  
+| bip_39_word_dash_5 | badge-nerve-cube-broom-wage |  
+| bip_39_word_dash_6 | badge-nerve-cube-broom-wage-dog |  
+| bip_39_word_dash_7 | badge-nerve-cube-broom-wage-dog-orient |  
+| bip_39_word_dash_8 | badge-nerve-cube-broom-wage-dog-orient-vote |  
+| bip_39_word_dash_9 | badge-nerve-cube-broom-wage-dog-orient-vote-mandate |  
 | bip_39_word_new_br_1 | badge |  
 | bip_39_word_new_br_10 | badge<br>nerve<br>cube<br>broom<br>wage<br>dog<br>orient<br>vote<br>mandate<br>blind |  
 | bip_39_word_new_br_11 | badge<br>nerve<br>cube<br>broom<br>wage<br>dog<br>orient<br>vote<br>mandate<br>blind<br>hour |  
@@ -147,6 +159,18 @@ mandate |
 | bip_39_word_space_7 | badge nerve cube broom wage dog orient |  
 | bip_39_word_space_8 | badge nerve cube broom wage dog orient vote |  
 | bip_39_word_space_9 | badge nerve cube broom wage dog orient vote mandate |  
+| bip_39_word_underscore_1 | badge |  
+| bip_39_word_underscore_10 | badge_nerve_cube_broom_wage_dog_orient_vote_mandate_blind |  
+| bip_39_word_underscore_11 | badge_nerve_cube_broom_wage_dog_orient_vote_mandate_blind_hour |  
+| bip_39_word_underscore_12 | badge_nerve_cube_broom_wage_dog_orient_vote_mandate_blind_hour_apart |  
+| bip_39_word_underscore_2 | badge_nerve |  
+| bip_39_word_underscore_3 | badge_nerve_cube |  
+| bip_39_word_underscore_4 | badge_nerve_cube_broom |  
+| bip_39_word_underscore_5 | badge_nerve_cube_broom_wage |  
+| bip_39_word_underscore_6 | badge_nerve_cube_broom_wage_dog |  
+| bip_39_word_underscore_7 | badge_nerve_cube_broom_wage_dog_orient |  
+| bip_39_word_underscore_8 | badge_nerve_cube_broom_wage_dog_orient_vote |  
+| bip_39_word_underscore_9 | badge_nerve_cube_broom_wage_dog_orient_vote_mandate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

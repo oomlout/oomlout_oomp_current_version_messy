@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | domain |  
+| bip_39_word_dash_10 | domain-enter-artefact-mutual-talk-paper-vicious-diagram-animal-dinosaur |  
+| bip_39_word_dash_11 | domain-enter-artefact-mutual-talk-paper-vicious-diagram-animal-dinosaur-never |  
+| bip_39_word_dash_12 | domain-enter-artefact-mutual-talk-paper-vicious-diagram-animal-dinosaur-never-analyst |  
+| bip_39_word_dash_2 | domain-enter |  
+| bip_39_word_dash_3 | domain-enter-artefact |  
+| bip_39_word_dash_4 | domain-enter-artefact-mutual |  
+| bip_39_word_dash_5 | domain-enter-artefact-mutual-talk |  
+| bip_39_word_dash_6 | domain-enter-artefact-mutual-talk-paper |  
+| bip_39_word_dash_7 | domain-enter-artefact-mutual-talk-paper-vicious |  
+| bip_39_word_dash_8 | domain-enter-artefact-mutual-talk-paper-vicious-diagram |  
+| bip_39_word_dash_9 | domain-enter-artefact-mutual-talk-paper-vicious-diagram-animal |  
 | bip_39_word_new_br_1 | domain |  
 | bip_39_word_new_br_10 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram<br>animal<br>dinosaur |  
 | bip_39_word_new_br_11 | domain<br>enter<br>artefact<br>mutual<br>talk<br>paper<br>vicious<br>diagram<br>animal<br>dinosaur<br>never |  
@@ -147,6 +159,18 @@ animal |
 | bip_39_word_space_7 | domain enter artefact mutual talk paper vicious |  
 | bip_39_word_space_8 | domain enter artefact mutual talk paper vicious diagram |  
 | bip_39_word_space_9 | domain enter artefact mutual talk paper vicious diagram animal |  
+| bip_39_word_underscore_1 | domain |  
+| bip_39_word_underscore_10 | domain_enter_artefact_mutual_talk_paper_vicious_diagram_animal_dinosaur |  
+| bip_39_word_underscore_11 | domain_enter_artefact_mutual_talk_paper_vicious_diagram_animal_dinosaur_never |  
+| bip_39_word_underscore_12 | domain_enter_artefact_mutual_talk_paper_vicious_diagram_animal_dinosaur_never_analyst |  
+| bip_39_word_underscore_2 | domain_enter |  
+| bip_39_word_underscore_3 | domain_enter_artefact |  
+| bip_39_word_underscore_4 | domain_enter_artefact_mutual |  
+| bip_39_word_underscore_5 | domain_enter_artefact_mutual_talk |  
+| bip_39_word_underscore_6 | domain_enter_artefact_mutual_talk_paper |  
+| bip_39_word_underscore_7 | domain_enter_artefact_mutual_talk_paper_vicious |  
+| bip_39_word_underscore_8 | domain_enter_artefact_mutual_talk_paper_vicious_diagram |  
+| bip_39_word_underscore_9 | domain_enter_artefact_mutual_talk_paper_vicious_diagram_animal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

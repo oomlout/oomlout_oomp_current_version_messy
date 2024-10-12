@@ -1,3 +1,15 @@
+bip_39_word_dash_1: glass
+bip_39_word_dash_10: glass-wash-quarter-wagon-basic-fee-vicious-eagle-october-hungry
+bip_39_word_dash_11: glass-wash-quarter-wagon-basic-fee-vicious-eagle-october-hungry-rail
+bip_39_word_dash_12: glass-wash-quarter-wagon-basic-fee-vicious-eagle-october-hungry-rail-artist
+bip_39_word_dash_2: glass-wash
+bip_39_word_dash_3: glass-wash-quarter
+bip_39_word_dash_4: glass-wash-quarter-wagon
+bip_39_word_dash_5: glass-wash-quarter-wagon-basic
+bip_39_word_dash_6: glass-wash-quarter-wagon-basic-fee
+bip_39_word_dash_7: glass-wash-quarter-wagon-basic-fee-vicious
+bip_39_word_dash_8: glass-wash-quarter-wagon-basic-fee-vicious-eagle
+bip_39_word_dash_9: glass-wash-quarter-wagon-basic-fee-vicious-eagle-october
 bip_39_word_new_br_1: glass
 bip_39_word_new_br_10: glass<br>wash<br>quarter<br>wagon<br>basic<br>fee<br>vicious<br>eagle<br>october<br>hungry
 bip_39_word_new_br_11: glass<br>wash<br>quarter<br>wagon<br>basic<br>fee<br>vicious<br>eagle<br>october<br>hungry<br>rail
@@ -193,6 +205,18 @@ bip_39_word_space_6: glass wash quarter wagon basic fee
 bip_39_word_space_7: glass wash quarter wagon basic fee vicious
 bip_39_word_space_8: glass wash quarter wagon basic fee vicious eagle
 bip_39_word_space_9: glass wash quarter wagon basic fee vicious eagle october
+bip_39_word_underscore_1: glass
+bip_39_word_underscore_10: glass_wash_quarter_wagon_basic_fee_vicious_eagle_october_hungry
+bip_39_word_underscore_11: glass_wash_quarter_wagon_basic_fee_vicious_eagle_october_hungry_rail
+bip_39_word_underscore_12: glass_wash_quarter_wagon_basic_fee_vicious_eagle_october_hungry_rail_artist
+bip_39_word_underscore_2: glass_wash
+bip_39_word_underscore_3: glass_wash_quarter
+bip_39_word_underscore_4: glass_wash_quarter_wagon
+bip_39_word_underscore_5: glass_wash_quarter_wagon_basic
+bip_39_word_underscore_6: glass_wash_quarter_wagon_basic_fee
+bip_39_word_underscore_7: glass_wash_quarter_wagon_basic_fee_vicious
+bip_39_word_underscore_8: glass_wash_quarter_wagon_basic_fee_vicious_eagle
+bip_39_word_underscore_9: glass_wash_quarter_wagon_basic_fee_vicious_eagle_october
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

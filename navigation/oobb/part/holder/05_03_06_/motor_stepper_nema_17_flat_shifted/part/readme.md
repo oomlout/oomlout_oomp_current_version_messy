@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mobile |  
+| bip_39_word_dash_10 | mobile-argue-drift-hungry-captain-knife-aerobic-fine-drop-gift |  
+| bip_39_word_dash_11 | mobile-argue-drift-hungry-captain-knife-aerobic-fine-drop-gift-action |  
+| bip_39_word_dash_12 | mobile-argue-drift-hungry-captain-knife-aerobic-fine-drop-gift-action-amused |  
+| bip_39_word_dash_2 | mobile-argue |  
+| bip_39_word_dash_3 | mobile-argue-drift |  
+| bip_39_word_dash_4 | mobile-argue-drift-hungry |  
+| bip_39_word_dash_5 | mobile-argue-drift-hungry-captain |  
+| bip_39_word_dash_6 | mobile-argue-drift-hungry-captain-knife |  
+| bip_39_word_dash_7 | mobile-argue-drift-hungry-captain-knife-aerobic |  
+| bip_39_word_dash_8 | mobile-argue-drift-hungry-captain-knife-aerobic-fine |  
+| bip_39_word_dash_9 | mobile-argue-drift-hungry-captain-knife-aerobic-fine-drop |  
 | bip_39_word_new_br_1 | mobile |  
 | bip_39_word_new_br_10 | mobile<br>argue<br>drift<br>hungry<br>captain<br>knife<br>aerobic<br>fine<br>drop<br>gift |  
 | bip_39_word_new_br_11 | mobile<br>argue<br>drift<br>hungry<br>captain<br>knife<br>aerobic<br>fine<br>drop<br>gift<br>action |  
@@ -147,6 +159,18 @@ drop |
 | bip_39_word_space_7 | mobile argue drift hungry captain knife aerobic |  
 | bip_39_word_space_8 | mobile argue drift hungry captain knife aerobic fine |  
 | bip_39_word_space_9 | mobile argue drift hungry captain knife aerobic fine drop |  
+| bip_39_word_underscore_1 | mobile |  
+| bip_39_word_underscore_10 | mobile_argue_drift_hungry_captain_knife_aerobic_fine_drop_gift |  
+| bip_39_word_underscore_11 | mobile_argue_drift_hungry_captain_knife_aerobic_fine_drop_gift_action |  
+| bip_39_word_underscore_12 | mobile_argue_drift_hungry_captain_knife_aerobic_fine_drop_gift_action_amused |  
+| bip_39_word_underscore_2 | mobile_argue |  
+| bip_39_word_underscore_3 | mobile_argue_drift |  
+| bip_39_word_underscore_4 | mobile_argue_drift_hungry |  
+| bip_39_word_underscore_5 | mobile_argue_drift_hungry_captain |  
+| bip_39_word_underscore_6 | mobile_argue_drift_hungry_captain_knife |  
+| bip_39_word_underscore_7 | mobile_argue_drift_hungry_captain_knife_aerobic |  
+| bip_39_word_underscore_8 | mobile_argue_drift_hungry_captain_knife_aerobic_fine |  
+| bip_39_word_underscore_9 | mobile_argue_drift_hungry_captain_knife_aerobic_fine_drop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

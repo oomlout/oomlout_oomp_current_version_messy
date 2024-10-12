@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inform
+bip_39_word_dash_10: inform-mixed-effort-hole-budget-mistake-slender-hamster-cradle-top
+bip_39_word_dash_11: inform-mixed-effort-hole-budget-mistake-slender-hamster-cradle-top-cigar
+bip_39_word_dash_12: inform-mixed-effort-hole-budget-mistake-slender-hamster-cradle-top-cigar-absorb
+bip_39_word_dash_2: inform-mixed
+bip_39_word_dash_3: inform-mixed-effort
+bip_39_word_dash_4: inform-mixed-effort-hole
+bip_39_word_dash_5: inform-mixed-effort-hole-budget
+bip_39_word_dash_6: inform-mixed-effort-hole-budget-mistake
+bip_39_word_dash_7: inform-mixed-effort-hole-budget-mistake-slender
+bip_39_word_dash_8: inform-mixed-effort-hole-budget-mistake-slender-hamster
+bip_39_word_dash_9: inform-mixed-effort-hole-budget-mistake-slender-hamster-cradle
 bip_39_word_new_br_1: inform
 bip_39_word_new_br_10: inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top
 bip_39_word_new_br_11: inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top<br>cigar
@@ -194,6 +206,18 @@ bip_39_word_space_6: inform mixed effort hole budget mistake
 bip_39_word_space_7: inform mixed effort hole budget mistake slender
 bip_39_word_space_8: inform mixed effort hole budget mistake slender hamster
 bip_39_word_space_9: inform mixed effort hole budget mistake slender hamster cradle
+bip_39_word_underscore_1: inform
+bip_39_word_underscore_10: inform_mixed_effort_hole_budget_mistake_slender_hamster_cradle_top
+bip_39_word_underscore_11: inform_mixed_effort_hole_budget_mistake_slender_hamster_cradle_top_cigar
+bip_39_word_underscore_12: inform_mixed_effort_hole_budget_mistake_slender_hamster_cradle_top_cigar_absorb
+bip_39_word_underscore_2: inform_mixed
+bip_39_word_underscore_3: inform_mixed_effort
+bip_39_word_underscore_4: inform_mixed_effort_hole
+bip_39_word_underscore_5: inform_mixed_effort_hole_budget
+bip_39_word_underscore_6: inform_mixed_effort_hole_budget_mistake
+bip_39_word_underscore_7: inform_mixed_effort_hole_budget_mistake_slender
+bip_39_word_underscore_8: inform_mixed_effort_hole_budget_mistake_slender_hamster
+bip_39_word_underscore_9: inform_mixed_effort_hole_budget_mistake_slender_hamster_cradle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

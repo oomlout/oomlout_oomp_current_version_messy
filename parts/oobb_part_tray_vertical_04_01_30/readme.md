@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crumble |  
+| bip_39_word_dash_10 | crumble-develop-believe-bus-use-alone-jump-wrap-embark-couple |  
+| bip_39_word_dash_11 | crumble-develop-believe-bus-use-alone-jump-wrap-embark-couple-second |  
+| bip_39_word_dash_12 | crumble-develop-believe-bus-use-alone-jump-wrap-embark-couple-second-about |  
+| bip_39_word_dash_2 | crumble-develop |  
+| bip_39_word_dash_3 | crumble-develop-believe |  
+| bip_39_word_dash_4 | crumble-develop-believe-bus |  
+| bip_39_word_dash_5 | crumble-develop-believe-bus-use |  
+| bip_39_word_dash_6 | crumble-develop-believe-bus-use-alone |  
+| bip_39_word_dash_7 | crumble-develop-believe-bus-use-alone-jump |  
+| bip_39_word_dash_8 | crumble-develop-believe-bus-use-alone-jump-wrap |  
+| bip_39_word_dash_9 | crumble-develop-believe-bus-use-alone-jump-wrap-embark |  
 | bip_39_word_new_br_1 | crumble |  
 | bip_39_word_new_br_10 | crumble<br>develop<br>believe<br>bus<br>use<br>alone<br>jump<br>wrap<br>embark<br>couple |  
 | bip_39_word_new_br_11 | crumble<br>develop<br>believe<br>bus<br>use<br>alone<br>jump<br>wrap<br>embark<br>couple<br>second |  
@@ -147,6 +159,18 @@ embark |
 | bip_39_word_space_7 | crumble develop believe bus use alone jump |  
 | bip_39_word_space_8 | crumble develop believe bus use alone jump wrap |  
 | bip_39_word_space_9 | crumble develop believe bus use alone jump wrap embark |  
+| bip_39_word_underscore_1 | crumble |  
+| bip_39_word_underscore_10 | crumble_develop_believe_bus_use_alone_jump_wrap_embark_couple |  
+| bip_39_word_underscore_11 | crumble_develop_believe_bus_use_alone_jump_wrap_embark_couple_second |  
+| bip_39_word_underscore_12 | crumble_develop_believe_bus_use_alone_jump_wrap_embark_couple_second_about |  
+| bip_39_word_underscore_2 | crumble_develop |  
+| bip_39_word_underscore_3 | crumble_develop_believe |  
+| bip_39_word_underscore_4 | crumble_develop_believe_bus |  
+| bip_39_word_underscore_5 | crumble_develop_believe_bus_use |  
+| bip_39_word_underscore_6 | crumble_develop_believe_bus_use_alone |  
+| bip_39_word_underscore_7 | crumble_develop_believe_bus_use_alone_jump |  
+| bip_39_word_underscore_8 | crumble_develop_believe_bus_use_alone_jump_wrap |  
+| bip_39_word_underscore_9 | crumble_develop_believe_bus_use_alone_jump_wrap_embark |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

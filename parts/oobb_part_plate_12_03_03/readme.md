@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | keen |  
+| bip_39_word_dash_10 | keen-scatter-prefer-shrug-cupboard-hurt-cage-hungry-cheap-lock |  
+| bip_39_word_dash_11 | keen-scatter-prefer-shrug-cupboard-hurt-cage-hungry-cheap-lock-knock |  
+| bip_39_word_dash_12 | keen-scatter-prefer-shrug-cupboard-hurt-cage-hungry-cheap-lock-knock-adjust |  
+| bip_39_word_dash_2 | keen-scatter |  
+| bip_39_word_dash_3 | keen-scatter-prefer |  
+| bip_39_word_dash_4 | keen-scatter-prefer-shrug |  
+| bip_39_word_dash_5 | keen-scatter-prefer-shrug-cupboard |  
+| bip_39_word_dash_6 | keen-scatter-prefer-shrug-cupboard-hurt |  
+| bip_39_word_dash_7 | keen-scatter-prefer-shrug-cupboard-hurt-cage |  
+| bip_39_word_dash_8 | keen-scatter-prefer-shrug-cupboard-hurt-cage-hungry |  
+| bip_39_word_dash_9 | keen-scatter-prefer-shrug-cupboard-hurt-cage-hungry-cheap |  
 | bip_39_word_new_br_1 | keen |  
 | bip_39_word_new_br_10 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock |  
 | bip_39_word_new_br_11 | keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock<br>knock |  
@@ -147,6 +159,18 @@ cheap |
 | bip_39_word_space_7 | keen scatter prefer shrug cupboard hurt cage |  
 | bip_39_word_space_8 | keen scatter prefer shrug cupboard hurt cage hungry |  
 | bip_39_word_space_9 | keen scatter prefer shrug cupboard hurt cage hungry cheap |  
+| bip_39_word_underscore_1 | keen |  
+| bip_39_word_underscore_10 | keen_scatter_prefer_shrug_cupboard_hurt_cage_hungry_cheap_lock |  
+| bip_39_word_underscore_11 | keen_scatter_prefer_shrug_cupboard_hurt_cage_hungry_cheap_lock_knock |  
+| bip_39_word_underscore_12 | keen_scatter_prefer_shrug_cupboard_hurt_cage_hungry_cheap_lock_knock_adjust |  
+| bip_39_word_underscore_2 | keen_scatter |  
+| bip_39_word_underscore_3 | keen_scatter_prefer |  
+| bip_39_word_underscore_4 | keen_scatter_prefer_shrug |  
+| bip_39_word_underscore_5 | keen_scatter_prefer_shrug_cupboard |  
+| bip_39_word_underscore_6 | keen_scatter_prefer_shrug_cupboard_hurt |  
+| bip_39_word_underscore_7 | keen_scatter_prefer_shrug_cupboard_hurt_cage |  
+| bip_39_word_underscore_8 | keen_scatter_prefer_shrug_cupboard_hurt_cage_hungry |  
+| bip_39_word_underscore_9 | keen_scatter_prefer_shrug_cupboard_hurt_cage_hungry_cheap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

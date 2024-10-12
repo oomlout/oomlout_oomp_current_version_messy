@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plate |  
+| bip_39_word_dash_10 | plate-door-evoke-twin-index-post-mesh-mixture-brown-idea |  
+| bip_39_word_dash_11 | plate-door-evoke-twin-index-post-mesh-mixture-brown-idea-blouse |  
+| bip_39_word_dash_12 | plate-door-evoke-twin-index-post-mesh-mixture-brown-idea-blouse-angry |  
+| bip_39_word_dash_2 | plate-door |  
+| bip_39_word_dash_3 | plate-door-evoke |  
+| bip_39_word_dash_4 | plate-door-evoke-twin |  
+| bip_39_word_dash_5 | plate-door-evoke-twin-index |  
+| bip_39_word_dash_6 | plate-door-evoke-twin-index-post |  
+| bip_39_word_dash_7 | plate-door-evoke-twin-index-post-mesh |  
+| bip_39_word_dash_8 | plate-door-evoke-twin-index-post-mesh-mixture |  
+| bip_39_word_dash_9 | plate-door-evoke-twin-index-post-mesh-mixture-brown |  
 | bip_39_word_new_br_1 | plate |  
 | bip_39_word_new_br_10 | plate<br>door<br>evoke<br>twin<br>index<br>post<br>mesh<br>mixture<br>brown<br>idea |  
 | bip_39_word_new_br_11 | plate<br>door<br>evoke<br>twin<br>index<br>post<br>mesh<br>mixture<br>brown<br>idea<br>blouse |  
@@ -147,6 +159,18 @@ brown |
 | bip_39_word_space_7 | plate door evoke twin index post mesh |  
 | bip_39_word_space_8 | plate door evoke twin index post mesh mixture |  
 | bip_39_word_space_9 | plate door evoke twin index post mesh mixture brown |  
+| bip_39_word_underscore_1 | plate |  
+| bip_39_word_underscore_10 | plate_door_evoke_twin_index_post_mesh_mixture_brown_idea |  
+| bip_39_word_underscore_11 | plate_door_evoke_twin_index_post_mesh_mixture_brown_idea_blouse |  
+| bip_39_word_underscore_12 | plate_door_evoke_twin_index_post_mesh_mixture_brown_idea_blouse_angry |  
+| bip_39_word_underscore_2 | plate_door |  
+| bip_39_word_underscore_3 | plate_door_evoke |  
+| bip_39_word_underscore_4 | plate_door_evoke_twin |  
+| bip_39_word_underscore_5 | plate_door_evoke_twin_index |  
+| bip_39_word_underscore_6 | plate_door_evoke_twin_index_post |  
+| bip_39_word_underscore_7 | plate_door_evoke_twin_index_post_mesh |  
+| bip_39_word_underscore_8 | plate_door_evoke_twin_index_post_mesh_mixture |  
+| bip_39_word_underscore_9 | plate_door_evoke_twin_index_post_mesh_mixture_brown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

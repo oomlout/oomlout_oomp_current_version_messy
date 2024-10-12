@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plastic |  
+| bip_39_word_dash_10 | plastic-ranch-attitude-rose-fruit-immune-quit-gather-nation-trick |  
+| bip_39_word_dash_11 | plastic-ranch-attitude-rose-fruit-immune-quit-gather-nation-trick-vacuum |  
+| bip_39_word_dash_12 | plastic-ranch-attitude-rose-fruit-immune-quit-gather-nation-trick-vacuum-add |  
+| bip_39_word_dash_2 | plastic-ranch |  
+| bip_39_word_dash_3 | plastic-ranch-attitude |  
+| bip_39_word_dash_4 | plastic-ranch-attitude-rose |  
+| bip_39_word_dash_5 | plastic-ranch-attitude-rose-fruit |  
+| bip_39_word_dash_6 | plastic-ranch-attitude-rose-fruit-immune |  
+| bip_39_word_dash_7 | plastic-ranch-attitude-rose-fruit-immune-quit |  
+| bip_39_word_dash_8 | plastic-ranch-attitude-rose-fruit-immune-quit-gather |  
+| bip_39_word_dash_9 | plastic-ranch-attitude-rose-fruit-immune-quit-gather-nation |  
 | bip_39_word_new_br_1 | plastic |  
 | bip_39_word_new_br_10 | plastic<br>ranch<br>attitude<br>rose<br>fruit<br>immune<br>quit<br>gather<br>nation<br>trick |  
 | bip_39_word_new_br_11 | plastic<br>ranch<br>attitude<br>rose<br>fruit<br>immune<br>quit<br>gather<br>nation<br>trick<br>vacuum |  
@@ -147,6 +159,18 @@ nation |
 | bip_39_word_space_7 | plastic ranch attitude rose fruit immune quit |  
 | bip_39_word_space_8 | plastic ranch attitude rose fruit immune quit gather |  
 | bip_39_word_space_9 | plastic ranch attitude rose fruit immune quit gather nation |  
+| bip_39_word_underscore_1 | plastic |  
+| bip_39_word_underscore_10 | plastic_ranch_attitude_rose_fruit_immune_quit_gather_nation_trick |  
+| bip_39_word_underscore_11 | plastic_ranch_attitude_rose_fruit_immune_quit_gather_nation_trick_vacuum |  
+| bip_39_word_underscore_12 | plastic_ranch_attitude_rose_fruit_immune_quit_gather_nation_trick_vacuum_add |  
+| bip_39_word_underscore_2 | plastic_ranch |  
+| bip_39_word_underscore_3 | plastic_ranch_attitude |  
+| bip_39_word_underscore_4 | plastic_ranch_attitude_rose |  
+| bip_39_word_underscore_5 | plastic_ranch_attitude_rose_fruit |  
+| bip_39_word_underscore_6 | plastic_ranch_attitude_rose_fruit_immune |  
+| bip_39_word_underscore_7 | plastic_ranch_attitude_rose_fruit_immune_quit |  
+| bip_39_word_underscore_8 | plastic_ranch_attitude_rose_fruit_immune_quit_gather |  
+| bip_39_word_underscore_9 | plastic_ranch_attitude_rose_fruit_immune_quit_gather_nation |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

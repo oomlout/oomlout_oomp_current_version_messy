@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bicycle
+bip_39_word_dash_10: bicycle-heavy-phone-secret-craft-female-pitch-buzz-west-prevent
+bip_39_word_dash_11: bicycle-heavy-phone-secret-craft-female-pitch-buzz-west-prevent-ecology
+bip_39_word_dash_12: bicycle-heavy-phone-secret-craft-female-pitch-buzz-west-prevent-ecology-alert
+bip_39_word_dash_2: bicycle-heavy
+bip_39_word_dash_3: bicycle-heavy-phone
+bip_39_word_dash_4: bicycle-heavy-phone-secret
+bip_39_word_dash_5: bicycle-heavy-phone-secret-craft
+bip_39_word_dash_6: bicycle-heavy-phone-secret-craft-female
+bip_39_word_dash_7: bicycle-heavy-phone-secret-craft-female-pitch
+bip_39_word_dash_8: bicycle-heavy-phone-secret-craft-female-pitch-buzz
+bip_39_word_dash_9: bicycle-heavy-phone-secret-craft-female-pitch-buzz-west
 bip_39_word_new_br_1: bicycle
 bip_39_word_new_br_10: bicycle<br>heavy<br>phone<br>secret<br>craft<br>female<br>pitch<br>buzz<br>west<br>prevent
 bip_39_word_new_br_11: bicycle<br>heavy<br>phone<br>secret<br>craft<br>female<br>pitch<br>buzz<br>west<br>prevent<br>ecology
@@ -193,6 +205,18 @@ bip_39_word_space_6: bicycle heavy phone secret craft female
 bip_39_word_space_7: bicycle heavy phone secret craft female pitch
 bip_39_word_space_8: bicycle heavy phone secret craft female pitch buzz
 bip_39_word_space_9: bicycle heavy phone secret craft female pitch buzz west
+bip_39_word_underscore_1: bicycle
+bip_39_word_underscore_10: bicycle_heavy_phone_secret_craft_female_pitch_buzz_west_prevent
+bip_39_word_underscore_11: bicycle_heavy_phone_secret_craft_female_pitch_buzz_west_prevent_ecology
+bip_39_word_underscore_12: bicycle_heavy_phone_secret_craft_female_pitch_buzz_west_prevent_ecology_alert
+bip_39_word_underscore_2: bicycle_heavy
+bip_39_word_underscore_3: bicycle_heavy_phone
+bip_39_word_underscore_4: bicycle_heavy_phone_secret
+bip_39_word_underscore_5: bicycle_heavy_phone_secret_craft
+bip_39_word_underscore_6: bicycle_heavy_phone_secret_craft_female
+bip_39_word_underscore_7: bicycle_heavy_phone_secret_craft_female_pitch
+bip_39_word_underscore_8: bicycle_heavy_phone_secret_craft_female_pitch_buzz
+bip_39_word_underscore_9: bicycle_heavy_phone_secret_craft_female_pitch_buzz_west
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

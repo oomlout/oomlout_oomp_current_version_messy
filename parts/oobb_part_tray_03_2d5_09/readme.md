@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | museum |  
+| bip_39_word_dash_10 | museum-rifle-hire-luggage-tube-winter-beef-visual-hammer-question |  
+| bip_39_word_dash_11 | museum-rifle-hire-luggage-tube-winter-beef-visual-hammer-question-element |  
+| bip_39_word_dash_12 | museum-rifle-hire-luggage-tube-winter-beef-visual-hammer-question-element-annual |  
+| bip_39_word_dash_2 | museum-rifle |  
+| bip_39_word_dash_3 | museum-rifle-hire |  
+| bip_39_word_dash_4 | museum-rifle-hire-luggage |  
+| bip_39_word_dash_5 | museum-rifle-hire-luggage-tube |  
+| bip_39_word_dash_6 | museum-rifle-hire-luggage-tube-winter |  
+| bip_39_word_dash_7 | museum-rifle-hire-luggage-tube-winter-beef |  
+| bip_39_word_dash_8 | museum-rifle-hire-luggage-tube-winter-beef-visual |  
+| bip_39_word_dash_9 | museum-rifle-hire-luggage-tube-winter-beef-visual-hammer |  
 | bip_39_word_new_br_1 | museum |  
 | bip_39_word_new_br_10 | museum<br>rifle<br>hire<br>luggage<br>tube<br>winter<br>beef<br>visual<br>hammer<br>question |  
 | bip_39_word_new_br_11 | museum<br>rifle<br>hire<br>luggage<br>tube<br>winter<br>beef<br>visual<br>hammer<br>question<br>element |  
@@ -147,6 +159,18 @@ hammer |
 | bip_39_word_space_7 | museum rifle hire luggage tube winter beef |  
 | bip_39_word_space_8 | museum rifle hire luggage tube winter beef visual |  
 | bip_39_word_space_9 | museum rifle hire luggage tube winter beef visual hammer |  
+| bip_39_word_underscore_1 | museum |  
+| bip_39_word_underscore_10 | museum_rifle_hire_luggage_tube_winter_beef_visual_hammer_question |  
+| bip_39_word_underscore_11 | museum_rifle_hire_luggage_tube_winter_beef_visual_hammer_question_element |  
+| bip_39_word_underscore_12 | museum_rifle_hire_luggage_tube_winter_beef_visual_hammer_question_element_annual |  
+| bip_39_word_underscore_2 | museum_rifle |  
+| bip_39_word_underscore_3 | museum_rifle_hire |  
+| bip_39_word_underscore_4 | museum_rifle_hire_luggage |  
+| bip_39_word_underscore_5 | museum_rifle_hire_luggage_tube |  
+| bip_39_word_underscore_6 | museum_rifle_hire_luggage_tube_winter |  
+| bip_39_word_underscore_7 | museum_rifle_hire_luggage_tube_winter_beef |  
+| bip_39_word_underscore_8 | museum_rifle_hire_luggage_tube_winter_beef_visual |  
+| bip_39_word_underscore_9 | museum_rifle_hire_luggage_tube_winter_beef_visual_hammer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

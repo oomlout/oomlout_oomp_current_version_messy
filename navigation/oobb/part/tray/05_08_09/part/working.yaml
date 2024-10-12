@@ -1,3 +1,15 @@
+bip_39_word_dash_1: little
+bip_39_word_dash_10: little-trust-phrase-index-execute-canvas-fine-supreme-talk-smart
+bip_39_word_dash_11: little-trust-phrase-index-execute-canvas-fine-supreme-talk-smart-bottom
+bip_39_word_dash_12: little-trust-phrase-index-execute-canvas-fine-supreme-talk-smart-bottom-adjust
+bip_39_word_dash_2: little-trust
+bip_39_word_dash_3: little-trust-phrase
+bip_39_word_dash_4: little-trust-phrase-index
+bip_39_word_dash_5: little-trust-phrase-index-execute
+bip_39_word_dash_6: little-trust-phrase-index-execute-canvas
+bip_39_word_dash_7: little-trust-phrase-index-execute-canvas-fine
+bip_39_word_dash_8: little-trust-phrase-index-execute-canvas-fine-supreme
+bip_39_word_dash_9: little-trust-phrase-index-execute-canvas-fine-supreme-talk
 bip_39_word_new_br_1: little
 bip_39_word_new_br_10: little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme<br>talk<br>smart
 bip_39_word_new_br_11: little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme<br>talk<br>smart<br>bottom
@@ -193,6 +205,18 @@ bip_39_word_space_6: little trust phrase index execute canvas
 bip_39_word_space_7: little trust phrase index execute canvas fine
 bip_39_word_space_8: little trust phrase index execute canvas fine supreme
 bip_39_word_space_9: little trust phrase index execute canvas fine supreme talk
+bip_39_word_underscore_1: little
+bip_39_word_underscore_10: little_trust_phrase_index_execute_canvas_fine_supreme_talk_smart
+bip_39_word_underscore_11: little_trust_phrase_index_execute_canvas_fine_supreme_talk_smart_bottom
+bip_39_word_underscore_12: little_trust_phrase_index_execute_canvas_fine_supreme_talk_smart_bottom_adjust
+bip_39_word_underscore_2: little_trust
+bip_39_word_underscore_3: little_trust_phrase
+bip_39_word_underscore_4: little_trust_phrase_index
+bip_39_word_underscore_5: little_trust_phrase_index_execute
+bip_39_word_underscore_6: little_trust_phrase_index_execute_canvas
+bip_39_word_underscore_7: little_trust_phrase_index_execute_canvas_fine
+bip_39_word_underscore_8: little_trust_phrase_index_execute_canvas_fine_supreme
+bip_39_word_underscore_9: little_trust_phrase_index_execute_canvas_fine_supreme_talk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

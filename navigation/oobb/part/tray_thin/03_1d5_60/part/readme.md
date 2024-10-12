@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | act |  
+| bip_39_word_dash_10 | act-ivory-box-wife-banana-relax-define-mutual-impact-fragile |  
+| bip_39_word_dash_11 | act-ivory-box-wife-banana-relax-define-mutual-impact-fragile-topic |  
+| bip_39_word_dash_12 | act-ivory-box-wife-banana-relax-define-mutual-impact-fragile-topic-able |  
+| bip_39_word_dash_2 | act-ivory |  
+| bip_39_word_dash_3 | act-ivory-box |  
+| bip_39_word_dash_4 | act-ivory-box-wife |  
+| bip_39_word_dash_5 | act-ivory-box-wife-banana |  
+| bip_39_word_dash_6 | act-ivory-box-wife-banana-relax |  
+| bip_39_word_dash_7 | act-ivory-box-wife-banana-relax-define |  
+| bip_39_word_dash_8 | act-ivory-box-wife-banana-relax-define-mutual |  
+| bip_39_word_dash_9 | act-ivory-box-wife-banana-relax-define-mutual-impact |  
 | bip_39_word_new_br_1 | act |  
 | bip_39_word_new_br_10 | act<br>ivory<br>box<br>wife<br>banana<br>relax<br>define<br>mutual<br>impact<br>fragile |  
 | bip_39_word_new_br_11 | act<br>ivory<br>box<br>wife<br>banana<br>relax<br>define<br>mutual<br>impact<br>fragile<br>topic |  
@@ -147,6 +159,18 @@ impact |
 | bip_39_word_space_7 | act ivory box wife banana relax define |  
 | bip_39_word_space_8 | act ivory box wife banana relax define mutual |  
 | bip_39_word_space_9 | act ivory box wife banana relax define mutual impact |  
+| bip_39_word_underscore_1 | act |  
+| bip_39_word_underscore_10 | act_ivory_box_wife_banana_relax_define_mutual_impact_fragile |  
+| bip_39_word_underscore_11 | act_ivory_box_wife_banana_relax_define_mutual_impact_fragile_topic |  
+| bip_39_word_underscore_12 | act_ivory_box_wife_banana_relax_define_mutual_impact_fragile_topic_able |  
+| bip_39_word_underscore_2 | act_ivory |  
+| bip_39_word_underscore_3 | act_ivory_box |  
+| bip_39_word_underscore_4 | act_ivory_box_wife |  
+| bip_39_word_underscore_5 | act_ivory_box_wife_banana |  
+| bip_39_word_underscore_6 | act_ivory_box_wife_banana_relax |  
+| bip_39_word_underscore_7 | act_ivory_box_wife_banana_relax_define |  
+| bip_39_word_underscore_8 | act_ivory_box_wife_banana_relax_define_mutual |  
+| bip_39_word_underscore_9 | act_ivory_box_wife_banana_relax_define_mutual_impact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

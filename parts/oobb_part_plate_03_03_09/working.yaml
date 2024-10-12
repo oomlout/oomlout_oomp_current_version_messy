@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tone
+bip_39_word_dash_10: tone-raven-wash-man-desert-tray-bracket-spend-veteran-life
+bip_39_word_dash_11: tone-raven-wash-man-desert-tray-bracket-spend-veteran-life-lucky
+bip_39_word_dash_12: tone-raven-wash-man-desert-tray-bracket-spend-veteran-life-lucky-advice
+bip_39_word_dash_2: tone-raven
+bip_39_word_dash_3: tone-raven-wash
+bip_39_word_dash_4: tone-raven-wash-man
+bip_39_word_dash_5: tone-raven-wash-man-desert
+bip_39_word_dash_6: tone-raven-wash-man-desert-tray
+bip_39_word_dash_7: tone-raven-wash-man-desert-tray-bracket
+bip_39_word_dash_8: tone-raven-wash-man-desert-tray-bracket-spend
+bip_39_word_dash_9: tone-raven-wash-man-desert-tray-bracket-spend-veteran
 bip_39_word_new_br_1: tone
 bip_39_word_new_br_10: tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life
 bip_39_word_new_br_11: tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life<br>lucky
@@ -192,6 +204,18 @@ bip_39_word_space_6: tone raven wash man desert tray
 bip_39_word_space_7: tone raven wash man desert tray bracket
 bip_39_word_space_8: tone raven wash man desert tray bracket spend
 bip_39_word_space_9: tone raven wash man desert tray bracket spend veteran
+bip_39_word_underscore_1: tone
+bip_39_word_underscore_10: tone_raven_wash_man_desert_tray_bracket_spend_veteran_life
+bip_39_word_underscore_11: tone_raven_wash_man_desert_tray_bracket_spend_veteran_life_lucky
+bip_39_word_underscore_12: tone_raven_wash_man_desert_tray_bracket_spend_veteran_life_lucky_advice
+bip_39_word_underscore_2: tone_raven
+bip_39_word_underscore_3: tone_raven_wash
+bip_39_word_underscore_4: tone_raven_wash_man
+bip_39_word_underscore_5: tone_raven_wash_man_desert
+bip_39_word_underscore_6: tone_raven_wash_man_desert_tray
+bip_39_word_underscore_7: tone_raven_wash_man_desert_tray_bracket
+bip_39_word_underscore_8: tone_raven_wash_man_desert_tray_bracket_spend
+bip_39_word_underscore_9: tone_raven_wash_man_desert_tray_bracket_spend_veteran
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

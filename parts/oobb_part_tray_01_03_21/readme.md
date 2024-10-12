@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | valid |  
+| bip_39_word_dash_10 | valid-shove-laundry-provide-stick-essay-cheap-dilemma-mail-opinion |  
+| bip_39_word_dash_11 | valid-shove-laundry-provide-stick-essay-cheap-dilemma-mail-opinion-venue |  
+| bip_39_word_dash_12 | valid-shove-laundry-provide-stick-essay-cheap-dilemma-mail-opinion-venue-atom |  
+| bip_39_word_dash_2 | valid-shove |  
+| bip_39_word_dash_3 | valid-shove-laundry |  
+| bip_39_word_dash_4 | valid-shove-laundry-provide |  
+| bip_39_word_dash_5 | valid-shove-laundry-provide-stick |  
+| bip_39_word_dash_6 | valid-shove-laundry-provide-stick-essay |  
+| bip_39_word_dash_7 | valid-shove-laundry-provide-stick-essay-cheap |  
+| bip_39_word_dash_8 | valid-shove-laundry-provide-stick-essay-cheap-dilemma |  
+| bip_39_word_dash_9 | valid-shove-laundry-provide-stick-essay-cheap-dilemma-mail |  
 | bip_39_word_new_br_1 | valid |  
 | bip_39_word_new_br_10 | valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma<br>mail<br>opinion |  
 | bip_39_word_new_br_11 | valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma<br>mail<br>opinion<br>venue |  
@@ -147,6 +159,18 @@ mail |
 | bip_39_word_space_7 | valid shove laundry provide stick essay cheap |  
 | bip_39_word_space_8 | valid shove laundry provide stick essay cheap dilemma |  
 | bip_39_word_space_9 | valid shove laundry provide stick essay cheap dilemma mail |  
+| bip_39_word_underscore_1 | valid |  
+| bip_39_word_underscore_10 | valid_shove_laundry_provide_stick_essay_cheap_dilemma_mail_opinion |  
+| bip_39_word_underscore_11 | valid_shove_laundry_provide_stick_essay_cheap_dilemma_mail_opinion_venue |  
+| bip_39_word_underscore_12 | valid_shove_laundry_provide_stick_essay_cheap_dilemma_mail_opinion_venue_atom |  
+| bip_39_word_underscore_2 | valid_shove |  
+| bip_39_word_underscore_3 | valid_shove_laundry |  
+| bip_39_word_underscore_4 | valid_shove_laundry_provide |  
+| bip_39_word_underscore_5 | valid_shove_laundry_provide_stick |  
+| bip_39_word_underscore_6 | valid_shove_laundry_provide_stick_essay |  
+| bip_39_word_underscore_7 | valid_shove_laundry_provide_stick_essay_cheap |  
+| bip_39_word_underscore_8 | valid_shove_laundry_provide_stick_essay_cheap_dilemma |  
+| bip_39_word_underscore_9 | valid_shove_laundry_provide_stick_essay_cheap_dilemma_mail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

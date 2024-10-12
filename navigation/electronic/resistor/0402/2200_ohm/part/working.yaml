@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hair
+bip_39_word_dash_10: hair-amateur-crouch-ice-magnet-use-promote-layer-wide-ignore
+bip_39_word_dash_11: hair-amateur-crouch-ice-magnet-use-promote-layer-wide-ignore-tide
+bip_39_word_dash_12: hair-amateur-crouch-ice-magnet-use-promote-layer-wide-ignore-tide-all
+bip_39_word_dash_2: hair-amateur
+bip_39_word_dash_3: hair-amateur-crouch
+bip_39_word_dash_4: hair-amateur-crouch-ice
+bip_39_word_dash_5: hair-amateur-crouch-ice-magnet
+bip_39_word_dash_6: hair-amateur-crouch-ice-magnet-use
+bip_39_word_dash_7: hair-amateur-crouch-ice-magnet-use-promote
+bip_39_word_dash_8: hair-amateur-crouch-ice-magnet-use-promote-layer
+bip_39_word_dash_9: hair-amateur-crouch-ice-magnet-use-promote-layer-wide
 bip_39_word_new_br_1: hair
 bip_39_word_new_br_10: hair<br>amateur<br>crouch<br>ice<br>magnet<br>use<br>promote<br>layer<br>wide<br>ignore
 bip_39_word_new_br_11: hair<br>amateur<br>crouch<br>ice<br>magnet<br>use<br>promote<br>layer<br>wide<br>ignore<br>tide
@@ -193,6 +205,18 @@ bip_39_word_space_6: hair amateur crouch ice magnet use
 bip_39_word_space_7: hair amateur crouch ice magnet use promote
 bip_39_word_space_8: hair amateur crouch ice magnet use promote layer
 bip_39_word_space_9: hair amateur crouch ice magnet use promote layer wide
+bip_39_word_underscore_1: hair
+bip_39_word_underscore_10: hair_amateur_crouch_ice_magnet_use_promote_layer_wide_ignore
+bip_39_word_underscore_11: hair_amateur_crouch_ice_magnet_use_promote_layer_wide_ignore_tide
+bip_39_word_underscore_12: hair_amateur_crouch_ice_magnet_use_promote_layer_wide_ignore_tide_all
+bip_39_word_underscore_2: hair_amateur
+bip_39_word_underscore_3: hair_amateur_crouch
+bip_39_word_underscore_4: hair_amateur_crouch_ice
+bip_39_word_underscore_5: hair_amateur_crouch_ice_magnet
+bip_39_word_underscore_6: hair_amateur_crouch_ice_magnet_use
+bip_39_word_underscore_7: hair_amateur_crouch_ice_magnet_use_promote
+bip_39_word_underscore_8: hair_amateur_crouch_ice_magnet_use_promote_layer
+bip_39_word_underscore_9: hair_amateur_crouch_ice_magnet_use_promote_layer_wide
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

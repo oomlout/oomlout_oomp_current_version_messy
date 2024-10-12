@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | account |  
+| bip_39_word_dash_10 | account-broom-medal-lava-world-crater-smooth-athlete-fatal-wire |  
+| bip_39_word_dash_11 | account-broom-medal-lava-world-crater-smooth-athlete-fatal-wire-dignity |  
+| bip_39_word_dash_12 | account-broom-medal-lava-world-crater-smooth-athlete-fatal-wire-dignity-allow |  
+| bip_39_word_dash_2 | account-broom |  
+| bip_39_word_dash_3 | account-broom-medal |  
+| bip_39_word_dash_4 | account-broom-medal-lava |  
+| bip_39_word_dash_5 | account-broom-medal-lava-world |  
+| bip_39_word_dash_6 | account-broom-medal-lava-world-crater |  
+| bip_39_word_dash_7 | account-broom-medal-lava-world-crater-smooth |  
+| bip_39_word_dash_8 | account-broom-medal-lava-world-crater-smooth-athlete |  
+| bip_39_word_dash_9 | account-broom-medal-lava-world-crater-smooth-athlete-fatal |  
 | bip_39_word_new_br_1 | account |  
 | bip_39_word_new_br_10 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire |  
 | bip_39_word_new_br_11 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire<br>dignity |  
@@ -147,6 +159,18 @@ fatal |
 | bip_39_word_space_7 | account broom medal lava world crater smooth |  
 | bip_39_word_space_8 | account broom medal lava world crater smooth athlete |  
 | bip_39_word_space_9 | account broom medal lava world crater smooth athlete fatal |  
+| bip_39_word_underscore_1 | account |  
+| bip_39_word_underscore_10 | account_broom_medal_lava_world_crater_smooth_athlete_fatal_wire |  
+| bip_39_word_underscore_11 | account_broom_medal_lava_world_crater_smooth_athlete_fatal_wire_dignity |  
+| bip_39_word_underscore_12 | account_broom_medal_lava_world_crater_smooth_athlete_fatal_wire_dignity_allow |  
+| bip_39_word_underscore_2 | account_broom |  
+| bip_39_word_underscore_3 | account_broom_medal |  
+| bip_39_word_underscore_4 | account_broom_medal_lava |  
+| bip_39_word_underscore_5 | account_broom_medal_lava_world |  
+| bip_39_word_underscore_6 | account_broom_medal_lava_world_crater |  
+| bip_39_word_underscore_7 | account_broom_medal_lava_world_crater_smooth |  
+| bip_39_word_underscore_8 | account_broom_medal_lava_world_crater_smooth_athlete |  
+| bip_39_word_underscore_9 | account_broom_medal_lava_world_crater_smooth_athlete_fatal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

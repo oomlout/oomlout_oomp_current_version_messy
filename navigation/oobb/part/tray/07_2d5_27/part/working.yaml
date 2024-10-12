@@ -1,3 +1,15 @@
+bip_39_word_dash_1: entry
+bip_39_word_dash_10: entry-sheriff-average-easy-ignore-cause-cushion-rose-box-floor
+bip_39_word_dash_11: entry-sheriff-average-easy-ignore-cause-cushion-rose-box-floor-fit
+bip_39_word_dash_12: entry-sheriff-average-easy-ignore-cause-cushion-rose-box-floor-fit-angle
+bip_39_word_dash_2: entry-sheriff
+bip_39_word_dash_3: entry-sheriff-average
+bip_39_word_dash_4: entry-sheriff-average-easy
+bip_39_word_dash_5: entry-sheriff-average-easy-ignore
+bip_39_word_dash_6: entry-sheriff-average-easy-ignore-cause
+bip_39_word_dash_7: entry-sheriff-average-easy-ignore-cause-cushion
+bip_39_word_dash_8: entry-sheriff-average-easy-ignore-cause-cushion-rose
+bip_39_word_dash_9: entry-sheriff-average-easy-ignore-cause-cushion-rose-box
 bip_39_word_new_br_1: entry
 bip_39_word_new_br_10: entry<br>sheriff<br>average<br>easy<br>ignore<br>cause<br>cushion<br>rose<br>box<br>floor
 bip_39_word_new_br_11: entry<br>sheriff<br>average<br>easy<br>ignore<br>cause<br>cushion<br>rose<br>box<br>floor<br>fit
@@ -193,6 +205,18 @@ bip_39_word_space_6: entry sheriff average easy ignore cause
 bip_39_word_space_7: entry sheriff average easy ignore cause cushion
 bip_39_word_space_8: entry sheriff average easy ignore cause cushion rose
 bip_39_word_space_9: entry sheriff average easy ignore cause cushion rose box
+bip_39_word_underscore_1: entry
+bip_39_word_underscore_10: entry_sheriff_average_easy_ignore_cause_cushion_rose_box_floor
+bip_39_word_underscore_11: entry_sheriff_average_easy_ignore_cause_cushion_rose_box_floor_fit
+bip_39_word_underscore_12: entry_sheriff_average_easy_ignore_cause_cushion_rose_box_floor_fit_angle
+bip_39_word_underscore_2: entry_sheriff
+bip_39_word_underscore_3: entry_sheriff_average
+bip_39_word_underscore_4: entry_sheriff_average_easy
+bip_39_word_underscore_5: entry_sheriff_average_easy_ignore
+bip_39_word_underscore_6: entry_sheriff_average_easy_ignore_cause
+bip_39_word_underscore_7: entry_sheriff_average_easy_ignore_cause_cushion
+bip_39_word_underscore_8: entry_sheriff_average_easy_ignore_cause_cushion_rose
+bip_39_word_underscore_9: entry_sheriff_average_easy_ignore_cause_cushion_rose_box
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lab
+bip_39_word_dash_10: lab-point-saddle-profit-whip-attract-hurry-network-bargain-liberty
+bip_39_word_dash_11: lab-point-saddle-profit-whip-attract-hurry-network-bargain-liberty-wagon
+bip_39_word_dash_12: lab-point-saddle-profit-whip-attract-hurry-network-bargain-liberty-wagon-area
+bip_39_word_dash_2: lab-point
+bip_39_word_dash_3: lab-point-saddle
+bip_39_word_dash_4: lab-point-saddle-profit
+bip_39_word_dash_5: lab-point-saddle-profit-whip
+bip_39_word_dash_6: lab-point-saddle-profit-whip-attract
+bip_39_word_dash_7: lab-point-saddle-profit-whip-attract-hurry
+bip_39_word_dash_8: lab-point-saddle-profit-whip-attract-hurry-network
+bip_39_word_dash_9: lab-point-saddle-profit-whip-attract-hurry-network-bargain
 bip_39_word_new_br_1: lab
 bip_39_word_new_br_10: lab<br>point<br>saddle<br>profit<br>whip<br>attract<br>hurry<br>network<br>bargain<br>liberty
 bip_39_word_new_br_11: lab<br>point<br>saddle<br>profit<br>whip<br>attract<br>hurry<br>network<br>bargain<br>liberty<br>wagon
@@ -193,6 +205,18 @@ bip_39_word_space_6: lab point saddle profit whip attract
 bip_39_word_space_7: lab point saddle profit whip attract hurry
 bip_39_word_space_8: lab point saddle profit whip attract hurry network
 bip_39_word_space_9: lab point saddle profit whip attract hurry network bargain
+bip_39_word_underscore_1: lab
+bip_39_word_underscore_10: lab_point_saddle_profit_whip_attract_hurry_network_bargain_liberty
+bip_39_word_underscore_11: lab_point_saddle_profit_whip_attract_hurry_network_bargain_liberty_wagon
+bip_39_word_underscore_12: lab_point_saddle_profit_whip_attract_hurry_network_bargain_liberty_wagon_area
+bip_39_word_underscore_2: lab_point
+bip_39_word_underscore_3: lab_point_saddle
+bip_39_word_underscore_4: lab_point_saddle_profit
+bip_39_word_underscore_5: lab_point_saddle_profit_whip
+bip_39_word_underscore_6: lab_point_saddle_profit_whip_attract
+bip_39_word_underscore_7: lab_point_saddle_profit_whip_attract_hurry
+bip_39_word_underscore_8: lab_point_saddle_profit_whip_attract_hurry_network
+bip_39_word_underscore_9: lab_point_saddle_profit_whip_attract_hurry_network_bargain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

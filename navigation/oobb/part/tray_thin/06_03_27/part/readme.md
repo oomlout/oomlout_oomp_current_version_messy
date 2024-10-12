@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enroll |  
+| bip_39_word_dash_10 | enroll-tray-tilt-train-zoo-prison-electric-raise-wood-cushion |  
+| bip_39_word_dash_11 | enroll-tray-tilt-train-zoo-prison-electric-raise-wood-cushion-green |  
+| bip_39_word_dash_12 | enroll-tray-tilt-train-zoo-prison-electric-raise-wood-cushion-green-average |  
+| bip_39_word_dash_2 | enroll-tray |  
+| bip_39_word_dash_3 | enroll-tray-tilt |  
+| bip_39_word_dash_4 | enroll-tray-tilt-train |  
+| bip_39_word_dash_5 | enroll-tray-tilt-train-zoo |  
+| bip_39_word_dash_6 | enroll-tray-tilt-train-zoo-prison |  
+| bip_39_word_dash_7 | enroll-tray-tilt-train-zoo-prison-electric |  
+| bip_39_word_dash_8 | enroll-tray-tilt-train-zoo-prison-electric-raise |  
+| bip_39_word_dash_9 | enroll-tray-tilt-train-zoo-prison-electric-raise-wood |  
 | bip_39_word_new_br_1 | enroll |  
 | bip_39_word_new_br_10 | enroll<br>tray<br>tilt<br>train<br>zoo<br>prison<br>electric<br>raise<br>wood<br>cushion |  
 | bip_39_word_new_br_11 | enroll<br>tray<br>tilt<br>train<br>zoo<br>prison<br>electric<br>raise<br>wood<br>cushion<br>green |  
@@ -147,6 +159,18 @@ wood |
 | bip_39_word_space_7 | enroll tray tilt train zoo prison electric |  
 | bip_39_word_space_8 | enroll tray tilt train zoo prison electric raise |  
 | bip_39_word_space_9 | enroll tray tilt train zoo prison electric raise wood |  
+| bip_39_word_underscore_1 | enroll |  
+| bip_39_word_underscore_10 | enroll_tray_tilt_train_zoo_prison_electric_raise_wood_cushion |  
+| bip_39_word_underscore_11 | enroll_tray_tilt_train_zoo_prison_electric_raise_wood_cushion_green |  
+| bip_39_word_underscore_12 | enroll_tray_tilt_train_zoo_prison_electric_raise_wood_cushion_green_average |  
+| bip_39_word_underscore_2 | enroll_tray |  
+| bip_39_word_underscore_3 | enroll_tray_tilt |  
+| bip_39_word_underscore_4 | enroll_tray_tilt_train |  
+| bip_39_word_underscore_5 | enroll_tray_tilt_train_zoo |  
+| bip_39_word_underscore_6 | enroll_tray_tilt_train_zoo_prison |  
+| bip_39_word_underscore_7 | enroll_tray_tilt_train_zoo_prison_electric |  
+| bip_39_word_underscore_8 | enroll_tray_tilt_train_zoo_prison_electric_raise |  
+| bip_39_word_underscore_9 | enroll_tray_tilt_train_zoo_prison_electric_raise_wood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

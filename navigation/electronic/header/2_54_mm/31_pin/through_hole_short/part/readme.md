@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | illegal |  
+| bip_39_word_dash_10 | illegal-rug-wedding-emerge-pencil-rule-obtain-tide-replace-ketchup |  
+| bip_39_word_dash_11 | illegal-rug-wedding-emerge-pencil-rule-obtain-tide-replace-ketchup-champion |  
+| bip_39_word_dash_12 | illegal-rug-wedding-emerge-pencil-rule-obtain-tide-replace-ketchup-champion-air |  
+| bip_39_word_dash_2 | illegal-rug |  
+| bip_39_word_dash_3 | illegal-rug-wedding |  
+| bip_39_word_dash_4 | illegal-rug-wedding-emerge |  
+| bip_39_word_dash_5 | illegal-rug-wedding-emerge-pencil |  
+| bip_39_word_dash_6 | illegal-rug-wedding-emerge-pencil-rule |  
+| bip_39_word_dash_7 | illegal-rug-wedding-emerge-pencil-rule-obtain |  
+| bip_39_word_dash_8 | illegal-rug-wedding-emerge-pencil-rule-obtain-tide |  
+| bip_39_word_dash_9 | illegal-rug-wedding-emerge-pencil-rule-obtain-tide-replace |  
 | bip_39_word_new_br_1 | illegal |  
 | bip_39_word_new_br_10 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide<br>replace<br>ketchup |  
 | bip_39_word_new_br_11 | illegal<br>rug<br>wedding<br>emerge<br>pencil<br>rule<br>obtain<br>tide<br>replace<br>ketchup<br>champion |  
@@ -147,6 +159,18 @@ replace |
 | bip_39_word_space_7 | illegal rug wedding emerge pencil rule obtain |  
 | bip_39_word_space_8 | illegal rug wedding emerge pencil rule obtain tide |  
 | bip_39_word_space_9 | illegal rug wedding emerge pencil rule obtain tide replace |  
+| bip_39_word_underscore_1 | illegal |  
+| bip_39_word_underscore_10 | illegal_rug_wedding_emerge_pencil_rule_obtain_tide_replace_ketchup |  
+| bip_39_word_underscore_11 | illegal_rug_wedding_emerge_pencil_rule_obtain_tide_replace_ketchup_champion |  
+| bip_39_word_underscore_12 | illegal_rug_wedding_emerge_pencil_rule_obtain_tide_replace_ketchup_champion_air |  
+| bip_39_word_underscore_2 | illegal_rug |  
+| bip_39_word_underscore_3 | illegal_rug_wedding |  
+| bip_39_word_underscore_4 | illegal_rug_wedding_emerge |  
+| bip_39_word_underscore_5 | illegal_rug_wedding_emerge_pencil |  
+| bip_39_word_underscore_6 | illegal_rug_wedding_emerge_pencil_rule |  
+| bip_39_word_underscore_7 | illegal_rug_wedding_emerge_pencil_rule_obtain |  
+| bip_39_word_underscore_8 | illegal_rug_wedding_emerge_pencil_rule_obtain_tide |  
+| bip_39_word_underscore_9 | illegal_rug_wedding_emerge_pencil_rule_obtain_tide_replace |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

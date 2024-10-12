@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tongue |  
+| bip_39_word_dash_10 | tongue-pond-escape-tuna-few-boring-leg-fault-bus-finish |  
+| bip_39_word_dash_11 | tongue-pond-escape-tuna-few-boring-leg-fault-bus-finish-fantasy |  
+| bip_39_word_dash_12 | tongue-pond-escape-tuna-few-boring-leg-fault-bus-finish-fantasy-attitude |  
+| bip_39_word_dash_2 | tongue-pond |  
+| bip_39_word_dash_3 | tongue-pond-escape |  
+| bip_39_word_dash_4 | tongue-pond-escape-tuna |  
+| bip_39_word_dash_5 | tongue-pond-escape-tuna-few |  
+| bip_39_word_dash_6 | tongue-pond-escape-tuna-few-boring |  
+| bip_39_word_dash_7 | tongue-pond-escape-tuna-few-boring-leg |  
+| bip_39_word_dash_8 | tongue-pond-escape-tuna-few-boring-leg-fault |  
+| bip_39_word_dash_9 | tongue-pond-escape-tuna-few-boring-leg-fault-bus |  
 | bip_39_word_new_br_1 | tongue |  
 | bip_39_word_new_br_10 | tongue<br>pond<br>escape<br>tuna<br>few<br>boring<br>leg<br>fault<br>bus<br>finish |  
 | bip_39_word_new_br_11 | tongue<br>pond<br>escape<br>tuna<br>few<br>boring<br>leg<br>fault<br>bus<br>finish<br>fantasy |  
@@ -147,6 +159,18 @@ bus |
 | bip_39_word_space_7 | tongue pond escape tuna few boring leg |  
 | bip_39_word_space_8 | tongue pond escape tuna few boring leg fault |  
 | bip_39_word_space_9 | tongue pond escape tuna few boring leg fault bus |  
+| bip_39_word_underscore_1 | tongue |  
+| bip_39_word_underscore_10 | tongue_pond_escape_tuna_few_boring_leg_fault_bus_finish |  
+| bip_39_word_underscore_11 | tongue_pond_escape_tuna_few_boring_leg_fault_bus_finish_fantasy |  
+| bip_39_word_underscore_12 | tongue_pond_escape_tuna_few_boring_leg_fault_bus_finish_fantasy_attitude |  
+| bip_39_word_underscore_2 | tongue_pond |  
+| bip_39_word_underscore_3 | tongue_pond_escape |  
+| bip_39_word_underscore_4 | tongue_pond_escape_tuna |  
+| bip_39_word_underscore_5 | tongue_pond_escape_tuna_few |  
+| bip_39_word_underscore_6 | tongue_pond_escape_tuna_few_boring |  
+| bip_39_word_underscore_7 | tongue_pond_escape_tuna_few_boring_leg |  
+| bip_39_word_underscore_8 | tongue_pond_escape_tuna_few_boring_leg_fault |  
+| bip_39_word_underscore_9 | tongue_pond_escape_tuna_few_boring_leg_fault_bus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

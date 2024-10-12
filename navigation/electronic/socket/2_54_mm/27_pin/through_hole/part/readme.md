@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | zone |  
+| bip_39_word_dash_10 | zone-fire-gate-skin-oven-company-table-vicious-consider-exile |  
+| bip_39_word_dash_11 | zone-fire-gate-skin-oven-company-table-vicious-consider-exile-eternal |  
+| bip_39_word_dash_12 | zone-fire-gate-skin-oven-company-table-vicious-consider-exile-eternal-allow |  
+| bip_39_word_dash_2 | zone-fire |  
+| bip_39_word_dash_3 | zone-fire-gate |  
+| bip_39_word_dash_4 | zone-fire-gate-skin |  
+| bip_39_word_dash_5 | zone-fire-gate-skin-oven |  
+| bip_39_word_dash_6 | zone-fire-gate-skin-oven-company |  
+| bip_39_word_dash_7 | zone-fire-gate-skin-oven-company-table |  
+| bip_39_word_dash_8 | zone-fire-gate-skin-oven-company-table-vicious |  
+| bip_39_word_dash_9 | zone-fire-gate-skin-oven-company-table-vicious-consider |  
 | bip_39_word_new_br_1 | zone |  
 | bip_39_word_new_br_10 | zone<br>fire<br>gate<br>skin<br>oven<br>company<br>table<br>vicious<br>consider<br>exile |  
 | bip_39_word_new_br_11 | zone<br>fire<br>gate<br>skin<br>oven<br>company<br>table<br>vicious<br>consider<br>exile<br>eternal |  
@@ -147,6 +159,18 @@ consider |
 | bip_39_word_space_7 | zone fire gate skin oven company table |  
 | bip_39_word_space_8 | zone fire gate skin oven company table vicious |  
 | bip_39_word_space_9 | zone fire gate skin oven company table vicious consider |  
+| bip_39_word_underscore_1 | zone |  
+| bip_39_word_underscore_10 | zone_fire_gate_skin_oven_company_table_vicious_consider_exile |  
+| bip_39_word_underscore_11 | zone_fire_gate_skin_oven_company_table_vicious_consider_exile_eternal |  
+| bip_39_word_underscore_12 | zone_fire_gate_skin_oven_company_table_vicious_consider_exile_eternal_allow |  
+| bip_39_word_underscore_2 | zone_fire |  
+| bip_39_word_underscore_3 | zone_fire_gate |  
+| bip_39_word_underscore_4 | zone_fire_gate_skin |  
+| bip_39_word_underscore_5 | zone_fire_gate_skin_oven |  
+| bip_39_word_underscore_6 | zone_fire_gate_skin_oven_company |  
+| bip_39_word_underscore_7 | zone_fire_gate_skin_oven_company_table |  
+| bip_39_word_underscore_8 | zone_fire_gate_skin_oven_company_table_vicious |  
+| bip_39_word_underscore_9 | zone_fire_gate_skin_oven_company_table_vicious_consider |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

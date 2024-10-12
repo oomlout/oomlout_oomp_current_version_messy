@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fresh |  
+| bip_39_word_dash_10 | fresh-tip-recipe-impact-milk-destroy-eight-water-apart-rule |  
+| bip_39_word_dash_11 | fresh-tip-recipe-impact-milk-destroy-eight-water-apart-rule-cactus |  
+| bip_39_word_dash_12 | fresh-tip-recipe-impact-milk-destroy-eight-water-apart-rule-cactus-ability |  
+| bip_39_word_dash_2 | fresh-tip |  
+| bip_39_word_dash_3 | fresh-tip-recipe |  
+| bip_39_word_dash_4 | fresh-tip-recipe-impact |  
+| bip_39_word_dash_5 | fresh-tip-recipe-impact-milk |  
+| bip_39_word_dash_6 | fresh-tip-recipe-impact-milk-destroy |  
+| bip_39_word_dash_7 | fresh-tip-recipe-impact-milk-destroy-eight |  
+| bip_39_word_dash_8 | fresh-tip-recipe-impact-milk-destroy-eight-water |  
+| bip_39_word_dash_9 | fresh-tip-recipe-impact-milk-destroy-eight-water-apart |  
 | bip_39_word_new_br_1 | fresh |  
 | bip_39_word_new_br_10 | fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water<br>apart<br>rule |  
 | bip_39_word_new_br_11 | fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water<br>apart<br>rule<br>cactus |  
@@ -147,6 +159,18 @@ apart |
 | bip_39_word_space_7 | fresh tip recipe impact milk destroy eight |  
 | bip_39_word_space_8 | fresh tip recipe impact milk destroy eight water |  
 | bip_39_word_space_9 | fresh tip recipe impact milk destroy eight water apart |  
+| bip_39_word_underscore_1 | fresh |  
+| bip_39_word_underscore_10 | fresh_tip_recipe_impact_milk_destroy_eight_water_apart_rule |  
+| bip_39_word_underscore_11 | fresh_tip_recipe_impact_milk_destroy_eight_water_apart_rule_cactus |  
+| bip_39_word_underscore_12 | fresh_tip_recipe_impact_milk_destroy_eight_water_apart_rule_cactus_ability |  
+| bip_39_word_underscore_2 | fresh_tip |  
+| bip_39_word_underscore_3 | fresh_tip_recipe |  
+| bip_39_word_underscore_4 | fresh_tip_recipe_impact |  
+| bip_39_word_underscore_5 | fresh_tip_recipe_impact_milk |  
+| bip_39_word_underscore_6 | fresh_tip_recipe_impact_milk_destroy |  
+| bip_39_word_underscore_7 | fresh_tip_recipe_impact_milk_destroy_eight |  
+| bip_39_word_underscore_8 | fresh_tip_recipe_impact_milk_destroy_eight_water |  
+| bip_39_word_underscore_9 | fresh_tip_recipe_impact_milk_destroy_eight_water_apart |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

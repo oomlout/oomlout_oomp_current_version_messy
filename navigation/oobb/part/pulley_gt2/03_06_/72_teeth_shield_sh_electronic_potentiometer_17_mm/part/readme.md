@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reunion |  
+| bip_39_word_dash_10 | reunion-rapid-silver-carbon-lunch-unfold-web-wheel-drift-scare |  
+| bip_39_word_dash_11 | reunion-rapid-silver-carbon-lunch-unfold-web-wheel-drift-scare-world |  
+| bip_39_word_dash_12 | reunion-rapid-silver-carbon-lunch-unfold-web-wheel-drift-scare-world-agent |  
+| bip_39_word_dash_2 | reunion-rapid |  
+| bip_39_word_dash_3 | reunion-rapid-silver |  
+| bip_39_word_dash_4 | reunion-rapid-silver-carbon |  
+| bip_39_word_dash_5 | reunion-rapid-silver-carbon-lunch |  
+| bip_39_word_dash_6 | reunion-rapid-silver-carbon-lunch-unfold |  
+| bip_39_word_dash_7 | reunion-rapid-silver-carbon-lunch-unfold-web |  
+| bip_39_word_dash_8 | reunion-rapid-silver-carbon-lunch-unfold-web-wheel |  
+| bip_39_word_dash_9 | reunion-rapid-silver-carbon-lunch-unfold-web-wheel-drift |  
 | bip_39_word_new_br_1 | reunion |  
 | bip_39_word_new_br_10 | reunion<br>rapid<br>silver<br>carbon<br>lunch<br>unfold<br>web<br>wheel<br>drift<br>scare |  
 | bip_39_word_new_br_11 | reunion<br>rapid<br>silver<br>carbon<br>lunch<br>unfold<br>web<br>wheel<br>drift<br>scare<br>world |  
@@ -147,6 +159,18 @@ drift |
 | bip_39_word_space_7 | reunion rapid silver carbon lunch unfold web |  
 | bip_39_word_space_8 | reunion rapid silver carbon lunch unfold web wheel |  
 | bip_39_word_space_9 | reunion rapid silver carbon lunch unfold web wheel drift |  
+| bip_39_word_underscore_1 | reunion |  
+| bip_39_word_underscore_10 | reunion_rapid_silver_carbon_lunch_unfold_web_wheel_drift_scare |  
+| bip_39_word_underscore_11 | reunion_rapid_silver_carbon_lunch_unfold_web_wheel_drift_scare_world |  
+| bip_39_word_underscore_12 | reunion_rapid_silver_carbon_lunch_unfold_web_wheel_drift_scare_world_agent |  
+| bip_39_word_underscore_2 | reunion_rapid |  
+| bip_39_word_underscore_3 | reunion_rapid_silver |  
+| bip_39_word_underscore_4 | reunion_rapid_silver_carbon |  
+| bip_39_word_underscore_5 | reunion_rapid_silver_carbon_lunch |  
+| bip_39_word_underscore_6 | reunion_rapid_silver_carbon_lunch_unfold |  
+| bip_39_word_underscore_7 | reunion_rapid_silver_carbon_lunch_unfold_web |  
+| bip_39_word_underscore_8 | reunion_rapid_silver_carbon_lunch_unfold_web_wheel |  
+| bip_39_word_underscore_9 | reunion_rapid_silver_carbon_lunch_unfold_web_wheel_drift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

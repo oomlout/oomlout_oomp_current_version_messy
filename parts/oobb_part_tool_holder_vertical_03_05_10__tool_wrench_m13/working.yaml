@@ -1,3 +1,15 @@
+bip_39_word_dash_1: innocent
+bip_39_word_dash_10: innocent-swing-eye-cheese-false-stairs-spray-maple-define-method
+bip_39_word_dash_11: innocent-swing-eye-cheese-false-stairs-spray-maple-define-method-clump
+bip_39_word_dash_12: innocent-swing-eye-cheese-false-stairs-spray-maple-define-method-clump-avocado
+bip_39_word_dash_2: innocent-swing
+bip_39_word_dash_3: innocent-swing-eye
+bip_39_word_dash_4: innocent-swing-eye-cheese
+bip_39_word_dash_5: innocent-swing-eye-cheese-false
+bip_39_word_dash_6: innocent-swing-eye-cheese-false-stairs
+bip_39_word_dash_7: innocent-swing-eye-cheese-false-stairs-spray
+bip_39_word_dash_8: innocent-swing-eye-cheese-false-stairs-spray-maple
+bip_39_word_dash_9: innocent-swing-eye-cheese-false-stairs-spray-maple-define
 bip_39_word_new_br_1: innocent
 bip_39_word_new_br_10: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple<br>define<br>method
 bip_39_word_new_br_11: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple<br>define<br>method<br>clump
@@ -193,6 +205,18 @@ bip_39_word_space_6: innocent swing eye cheese false stairs
 bip_39_word_space_7: innocent swing eye cheese false stairs spray
 bip_39_word_space_8: innocent swing eye cheese false stairs spray maple
 bip_39_word_space_9: innocent swing eye cheese false stairs spray maple define
+bip_39_word_underscore_1: innocent
+bip_39_word_underscore_10: innocent_swing_eye_cheese_false_stairs_spray_maple_define_method
+bip_39_word_underscore_11: innocent_swing_eye_cheese_false_stairs_spray_maple_define_method_clump
+bip_39_word_underscore_12: innocent_swing_eye_cheese_false_stairs_spray_maple_define_method_clump_avocado
+bip_39_word_underscore_2: innocent_swing
+bip_39_word_underscore_3: innocent_swing_eye
+bip_39_word_underscore_4: innocent_swing_eye_cheese
+bip_39_word_underscore_5: innocent_swing_eye_cheese_false
+bip_39_word_underscore_6: innocent_swing_eye_cheese_false_stairs
+bip_39_word_underscore_7: innocent_swing_eye_cheese_false_stairs_spray
+bip_39_word_underscore_8: innocent_swing_eye_cheese_false_stairs_spray_maple
+bip_39_word_underscore_9: innocent_swing_eye_cheese_false_stairs_spray_maple_define
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sphere |  
+| bip_39_word_dash_10 | sphere-winner-expect-lawsuit-enable-purity-absent-rich-place-coral |  
+| bip_39_word_dash_11 | sphere-winner-expect-lawsuit-enable-purity-absent-rich-place-coral-member |  
+| bip_39_word_dash_12 | sphere-winner-expect-lawsuit-enable-purity-absent-rich-place-coral-member-aisle |  
+| bip_39_word_dash_2 | sphere-winner |  
+| bip_39_word_dash_3 | sphere-winner-expect |  
+| bip_39_word_dash_4 | sphere-winner-expect-lawsuit |  
+| bip_39_word_dash_5 | sphere-winner-expect-lawsuit-enable |  
+| bip_39_word_dash_6 | sphere-winner-expect-lawsuit-enable-purity |  
+| bip_39_word_dash_7 | sphere-winner-expect-lawsuit-enable-purity-absent |  
+| bip_39_word_dash_8 | sphere-winner-expect-lawsuit-enable-purity-absent-rich |  
+| bip_39_word_dash_9 | sphere-winner-expect-lawsuit-enable-purity-absent-rich-place |  
 | bip_39_word_new_br_1 | sphere |  
 | bip_39_word_new_br_10 | sphere<br>winner<br>expect<br>lawsuit<br>enable<br>purity<br>absent<br>rich<br>place<br>coral |  
 | bip_39_word_new_br_11 | sphere<br>winner<br>expect<br>lawsuit<br>enable<br>purity<br>absent<br>rich<br>place<br>coral<br>member |  
@@ -147,6 +159,18 @@ place |
 | bip_39_word_space_7 | sphere winner expect lawsuit enable purity absent |  
 | bip_39_word_space_8 | sphere winner expect lawsuit enable purity absent rich |  
 | bip_39_word_space_9 | sphere winner expect lawsuit enable purity absent rich place |  
+| bip_39_word_underscore_1 | sphere |  
+| bip_39_word_underscore_10 | sphere_winner_expect_lawsuit_enable_purity_absent_rich_place_coral |  
+| bip_39_word_underscore_11 | sphere_winner_expect_lawsuit_enable_purity_absent_rich_place_coral_member |  
+| bip_39_word_underscore_12 | sphere_winner_expect_lawsuit_enable_purity_absent_rich_place_coral_member_aisle |  
+| bip_39_word_underscore_2 | sphere_winner |  
+| bip_39_word_underscore_3 | sphere_winner_expect |  
+| bip_39_word_underscore_4 | sphere_winner_expect_lawsuit |  
+| bip_39_word_underscore_5 | sphere_winner_expect_lawsuit_enable |  
+| bip_39_word_underscore_6 | sphere_winner_expect_lawsuit_enable_purity |  
+| bip_39_word_underscore_7 | sphere_winner_expect_lawsuit_enable_purity_absent |  
+| bip_39_word_underscore_8 | sphere_winner_expect_lawsuit_enable_purity_absent_rich |  
+| bip_39_word_underscore_9 | sphere_winner_expect_lawsuit_enable_purity_absent_rich_place |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

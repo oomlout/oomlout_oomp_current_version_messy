@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resemble |  
+| bip_39_word_dash_10 | resemble-six-truck-honey-world-elevator-ketchup-calm-marine-kingdom |  
+| bip_39_word_dash_11 | resemble-six-truck-honey-world-elevator-ketchup-calm-marine-kingdom-omit |  
+| bip_39_word_dash_12 | resemble-six-truck-honey-world-elevator-ketchup-calm-marine-kingdom-omit-alarm |  
+| bip_39_word_dash_2 | resemble-six |  
+| bip_39_word_dash_3 | resemble-six-truck |  
+| bip_39_word_dash_4 | resemble-six-truck-honey |  
+| bip_39_word_dash_5 | resemble-six-truck-honey-world |  
+| bip_39_word_dash_6 | resemble-six-truck-honey-world-elevator |  
+| bip_39_word_dash_7 | resemble-six-truck-honey-world-elevator-ketchup |  
+| bip_39_word_dash_8 | resemble-six-truck-honey-world-elevator-ketchup-calm |  
+| bip_39_word_dash_9 | resemble-six-truck-honey-world-elevator-ketchup-calm-marine |  
 | bip_39_word_new_br_1 | resemble |  
 | bip_39_word_new_br_10 | resemble<br>six<br>truck<br>honey<br>world<br>elevator<br>ketchup<br>calm<br>marine<br>kingdom |  
 | bip_39_word_new_br_11 | resemble<br>six<br>truck<br>honey<br>world<br>elevator<br>ketchup<br>calm<br>marine<br>kingdom<br>omit |  
@@ -147,6 +159,18 @@ marine |
 | bip_39_word_space_7 | resemble six truck honey world elevator ketchup |  
 | bip_39_word_space_8 | resemble six truck honey world elevator ketchup calm |  
 | bip_39_word_space_9 | resemble six truck honey world elevator ketchup calm marine |  
+| bip_39_word_underscore_1 | resemble |  
+| bip_39_word_underscore_10 | resemble_six_truck_honey_world_elevator_ketchup_calm_marine_kingdom |  
+| bip_39_word_underscore_11 | resemble_six_truck_honey_world_elevator_ketchup_calm_marine_kingdom_omit |  
+| bip_39_word_underscore_12 | resemble_six_truck_honey_world_elevator_ketchup_calm_marine_kingdom_omit_alarm |  
+| bip_39_word_underscore_2 | resemble_six |  
+| bip_39_word_underscore_3 | resemble_six_truck |  
+| bip_39_word_underscore_4 | resemble_six_truck_honey |  
+| bip_39_word_underscore_5 | resemble_six_truck_honey_world |  
+| bip_39_word_underscore_6 | resemble_six_truck_honey_world_elevator |  
+| bip_39_word_underscore_7 | resemble_six_truck_honey_world_elevator_ketchup |  
+| bip_39_word_underscore_8 | resemble_six_truck_honey_world_elevator_ketchup_calm |  
+| bip_39_word_underscore_9 | resemble_six_truck_honey_world_elevator_ketchup_calm_marine |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

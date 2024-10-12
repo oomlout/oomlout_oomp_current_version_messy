@@ -1,3 +1,15 @@
+bip_39_word_dash_1: turtle
+bip_39_word_dash_10: turtle-amateur-unknown-member-gadget-swim-giraffe-royal-neither-hire
+bip_39_word_dash_11: turtle-amateur-unknown-member-gadget-swim-giraffe-royal-neither-hire-calm
+bip_39_word_dash_12: turtle-amateur-unknown-member-gadget-swim-giraffe-royal-neither-hire-calm-angry
+bip_39_word_dash_2: turtle-amateur
+bip_39_word_dash_3: turtle-amateur-unknown
+bip_39_word_dash_4: turtle-amateur-unknown-member
+bip_39_word_dash_5: turtle-amateur-unknown-member-gadget
+bip_39_word_dash_6: turtle-amateur-unknown-member-gadget-swim
+bip_39_word_dash_7: turtle-amateur-unknown-member-gadget-swim-giraffe
+bip_39_word_dash_8: turtle-amateur-unknown-member-gadget-swim-giraffe-royal
+bip_39_word_dash_9: turtle-amateur-unknown-member-gadget-swim-giraffe-royal-neither
 bip_39_word_new_br_1: turtle
 bip_39_word_new_br_10: turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire
 bip_39_word_new_br_11: turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire<br>calm
@@ -194,6 +206,18 @@ bip_39_word_space_6: turtle amateur unknown member gadget swim
 bip_39_word_space_7: turtle amateur unknown member gadget swim giraffe
 bip_39_word_space_8: turtle amateur unknown member gadget swim giraffe royal
 bip_39_word_space_9: turtle amateur unknown member gadget swim giraffe royal neither
+bip_39_word_underscore_1: turtle
+bip_39_word_underscore_10: turtle_amateur_unknown_member_gadget_swim_giraffe_royal_neither_hire
+bip_39_word_underscore_11: turtle_amateur_unknown_member_gadget_swim_giraffe_royal_neither_hire_calm
+bip_39_word_underscore_12: turtle_amateur_unknown_member_gadget_swim_giraffe_royal_neither_hire_calm_angry
+bip_39_word_underscore_2: turtle_amateur
+bip_39_word_underscore_3: turtle_amateur_unknown
+bip_39_word_underscore_4: turtle_amateur_unknown_member
+bip_39_word_underscore_5: turtle_amateur_unknown_member_gadget
+bip_39_word_underscore_6: turtle_amateur_unknown_member_gadget_swim
+bip_39_word_underscore_7: turtle_amateur_unknown_member_gadget_swim_giraffe
+bip_39_word_underscore_8: turtle_amateur_unknown_member_gadget_swim_giraffe_royal
+bip_39_word_underscore_9: turtle_amateur_unknown_member_gadget_swim_giraffe_royal_neither
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

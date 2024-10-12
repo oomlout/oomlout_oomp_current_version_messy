@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | three |  
+| bip_39_word_dash_10 | three-chef-fork-concert-shaft-vanish-elegant-fence-flush-hip |  
+| bip_39_word_dash_11 | three-chef-fork-concert-shaft-vanish-elegant-fence-flush-hip-quote |  
+| bip_39_word_dash_12 | three-chef-fork-concert-shaft-vanish-elegant-fence-flush-hip-quote-almost |  
+| bip_39_word_dash_2 | three-chef |  
+| bip_39_word_dash_3 | three-chef-fork |  
+| bip_39_word_dash_4 | three-chef-fork-concert |  
+| bip_39_word_dash_5 | three-chef-fork-concert-shaft |  
+| bip_39_word_dash_6 | three-chef-fork-concert-shaft-vanish |  
+| bip_39_word_dash_7 | three-chef-fork-concert-shaft-vanish-elegant |  
+| bip_39_word_dash_8 | three-chef-fork-concert-shaft-vanish-elegant-fence |  
+| bip_39_word_dash_9 | three-chef-fork-concert-shaft-vanish-elegant-fence-flush |  
 | bip_39_word_new_br_1 | three |  
 | bip_39_word_new_br_10 | three<br>chef<br>fork<br>concert<br>shaft<br>vanish<br>elegant<br>fence<br>flush<br>hip |  
 | bip_39_word_new_br_11 | three<br>chef<br>fork<br>concert<br>shaft<br>vanish<br>elegant<br>fence<br>flush<br>hip<br>quote |  
@@ -147,6 +159,18 @@ flush |
 | bip_39_word_space_7 | three chef fork concert shaft vanish elegant |  
 | bip_39_word_space_8 | three chef fork concert shaft vanish elegant fence |  
 | bip_39_word_space_9 | three chef fork concert shaft vanish elegant fence flush |  
+| bip_39_word_underscore_1 | three |  
+| bip_39_word_underscore_10 | three_chef_fork_concert_shaft_vanish_elegant_fence_flush_hip |  
+| bip_39_word_underscore_11 | three_chef_fork_concert_shaft_vanish_elegant_fence_flush_hip_quote |  
+| bip_39_word_underscore_12 | three_chef_fork_concert_shaft_vanish_elegant_fence_flush_hip_quote_almost |  
+| bip_39_word_underscore_2 | three_chef |  
+| bip_39_word_underscore_3 | three_chef_fork |  
+| bip_39_word_underscore_4 | three_chef_fork_concert |  
+| bip_39_word_underscore_5 | three_chef_fork_concert_shaft |  
+| bip_39_word_underscore_6 | three_chef_fork_concert_shaft_vanish |  
+| bip_39_word_underscore_7 | three_chef_fork_concert_shaft_vanish_elegant |  
+| bip_39_word_underscore_8 | three_chef_fork_concert_shaft_vanish_elegant_fence |  
+| bip_39_word_underscore_9 | three_chef_fork_concert_shaft_vanish_elegant_fence_flush |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

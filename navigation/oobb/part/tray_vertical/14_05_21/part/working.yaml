@@ -1,3 +1,15 @@
+bip_39_word_dash_1: law
+bip_39_word_dash_10: law-floor-cherry-seat-reflect-escape-lemon-soul-observe-embark
+bip_39_word_dash_11: law-floor-cherry-seat-reflect-escape-lemon-soul-observe-embark-romance
+bip_39_word_dash_12: law-floor-cherry-seat-reflect-escape-lemon-soul-observe-embark-romance-adapt
+bip_39_word_dash_2: law-floor
+bip_39_word_dash_3: law-floor-cherry
+bip_39_word_dash_4: law-floor-cherry-seat
+bip_39_word_dash_5: law-floor-cherry-seat-reflect
+bip_39_word_dash_6: law-floor-cherry-seat-reflect-escape
+bip_39_word_dash_7: law-floor-cherry-seat-reflect-escape-lemon
+bip_39_word_dash_8: law-floor-cherry-seat-reflect-escape-lemon-soul
+bip_39_word_dash_9: law-floor-cherry-seat-reflect-escape-lemon-soul-observe
 bip_39_word_new_br_1: law
 bip_39_word_new_br_10: law<br>floor<br>cherry<br>seat<br>reflect<br>escape<br>lemon<br>soul<br>observe<br>embark
 bip_39_word_new_br_11: law<br>floor<br>cherry<br>seat<br>reflect<br>escape<br>lemon<br>soul<br>observe<br>embark<br>romance
@@ -193,6 +205,18 @@ bip_39_word_space_6: law floor cherry seat reflect escape
 bip_39_word_space_7: law floor cherry seat reflect escape lemon
 bip_39_word_space_8: law floor cherry seat reflect escape lemon soul
 bip_39_word_space_9: law floor cherry seat reflect escape lemon soul observe
+bip_39_word_underscore_1: law
+bip_39_word_underscore_10: law_floor_cherry_seat_reflect_escape_lemon_soul_observe_embark
+bip_39_word_underscore_11: law_floor_cherry_seat_reflect_escape_lemon_soul_observe_embark_romance
+bip_39_word_underscore_12: law_floor_cherry_seat_reflect_escape_lemon_soul_observe_embark_romance_adapt
+bip_39_word_underscore_2: law_floor
+bip_39_word_underscore_3: law_floor_cherry
+bip_39_word_underscore_4: law_floor_cherry_seat
+bip_39_word_underscore_5: law_floor_cherry_seat_reflect
+bip_39_word_underscore_6: law_floor_cherry_seat_reflect_escape
+bip_39_word_underscore_7: law_floor_cherry_seat_reflect_escape_lemon
+bip_39_word_underscore_8: law_floor_cherry_seat_reflect_escape_lemon_soul
+bip_39_word_underscore_9: law_floor_cherry_seat_reflect_escape_lemon_soul_observe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

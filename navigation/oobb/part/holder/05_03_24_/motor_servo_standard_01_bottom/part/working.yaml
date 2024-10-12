@@ -1,3 +1,15 @@
+bip_39_word_dash_1: embrace
+bip_39_word_dash_10: embrace-olive-wonder-guitar-pizza-creek-pelican-soon-early-kind
+bip_39_word_dash_11: embrace-olive-wonder-guitar-pizza-creek-pelican-soon-early-kind-enforce
+bip_39_word_dash_12: embrace-olive-wonder-guitar-pizza-creek-pelican-soon-early-kind-enforce-afford
+bip_39_word_dash_2: embrace-olive
+bip_39_word_dash_3: embrace-olive-wonder
+bip_39_word_dash_4: embrace-olive-wonder-guitar
+bip_39_word_dash_5: embrace-olive-wonder-guitar-pizza
+bip_39_word_dash_6: embrace-olive-wonder-guitar-pizza-creek
+bip_39_word_dash_7: embrace-olive-wonder-guitar-pizza-creek-pelican
+bip_39_word_dash_8: embrace-olive-wonder-guitar-pizza-creek-pelican-soon
+bip_39_word_dash_9: embrace-olive-wonder-guitar-pizza-creek-pelican-soon-early
 bip_39_word_new_br_1: embrace
 bip_39_word_new_br_10: embrace<br>olive<br>wonder<br>guitar<br>pizza<br>creek<br>pelican<br>soon<br>early<br>kind
 bip_39_word_new_br_11: embrace<br>olive<br>wonder<br>guitar<br>pizza<br>creek<br>pelican<br>soon<br>early<br>kind<br>enforce
@@ -193,6 +205,18 @@ bip_39_word_space_6: embrace olive wonder guitar pizza creek
 bip_39_word_space_7: embrace olive wonder guitar pizza creek pelican
 bip_39_word_space_8: embrace olive wonder guitar pizza creek pelican soon
 bip_39_word_space_9: embrace olive wonder guitar pizza creek pelican soon early
+bip_39_word_underscore_1: embrace
+bip_39_word_underscore_10: embrace_olive_wonder_guitar_pizza_creek_pelican_soon_early_kind
+bip_39_word_underscore_11: embrace_olive_wonder_guitar_pizza_creek_pelican_soon_early_kind_enforce
+bip_39_word_underscore_12: embrace_olive_wonder_guitar_pizza_creek_pelican_soon_early_kind_enforce_afford
+bip_39_word_underscore_2: embrace_olive
+bip_39_word_underscore_3: embrace_olive_wonder
+bip_39_word_underscore_4: embrace_olive_wonder_guitar
+bip_39_word_underscore_5: embrace_olive_wonder_guitar_pizza
+bip_39_word_underscore_6: embrace_olive_wonder_guitar_pizza_creek
+bip_39_word_underscore_7: embrace_olive_wonder_guitar_pizza_creek_pelican
+bip_39_word_underscore_8: embrace_olive_wonder_guitar_pizza_creek_pelican_soon
+bip_39_word_underscore_9: embrace_olive_wonder_guitar_pizza_creek_pelican_soon_early
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

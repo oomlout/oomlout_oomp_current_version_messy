@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mushroom |  
+| bip_39_word_dash_10 | mushroom-sound-aisle-easily-wrestle-choice-sword-laugh-card-pioneer |  
+| bip_39_word_dash_11 | mushroom-sound-aisle-easily-wrestle-choice-sword-laugh-card-pioneer-ceiling |  
+| bip_39_word_dash_12 | mushroom-sound-aisle-easily-wrestle-choice-sword-laugh-card-pioneer-ceiling-antique |  
+| bip_39_word_dash_2 | mushroom-sound |  
+| bip_39_word_dash_3 | mushroom-sound-aisle |  
+| bip_39_word_dash_4 | mushroom-sound-aisle-easily |  
+| bip_39_word_dash_5 | mushroom-sound-aisle-easily-wrestle |  
+| bip_39_word_dash_6 | mushroom-sound-aisle-easily-wrestle-choice |  
+| bip_39_word_dash_7 | mushroom-sound-aisle-easily-wrestle-choice-sword |  
+| bip_39_word_dash_8 | mushroom-sound-aisle-easily-wrestle-choice-sword-laugh |  
+| bip_39_word_dash_9 | mushroom-sound-aisle-easily-wrestle-choice-sword-laugh-card |  
 | bip_39_word_new_br_1 | mushroom |  
 | bip_39_word_new_br_10 | mushroom<br>sound<br>aisle<br>easily<br>wrestle<br>choice<br>sword<br>laugh<br>card<br>pioneer |  
 | bip_39_word_new_br_11 | mushroom<br>sound<br>aisle<br>easily<br>wrestle<br>choice<br>sword<br>laugh<br>card<br>pioneer<br>ceiling |  
@@ -147,6 +159,18 @@ card |
 | bip_39_word_space_7 | mushroom sound aisle easily wrestle choice sword |  
 | bip_39_word_space_8 | mushroom sound aisle easily wrestle choice sword laugh |  
 | bip_39_word_space_9 | mushroom sound aisle easily wrestle choice sword laugh card |  
+| bip_39_word_underscore_1 | mushroom |  
+| bip_39_word_underscore_10 | mushroom_sound_aisle_easily_wrestle_choice_sword_laugh_card_pioneer |  
+| bip_39_word_underscore_11 | mushroom_sound_aisle_easily_wrestle_choice_sword_laugh_card_pioneer_ceiling |  
+| bip_39_word_underscore_12 | mushroom_sound_aisle_easily_wrestle_choice_sword_laugh_card_pioneer_ceiling_antique |  
+| bip_39_word_underscore_2 | mushroom_sound |  
+| bip_39_word_underscore_3 | mushroom_sound_aisle |  
+| bip_39_word_underscore_4 | mushroom_sound_aisle_easily |  
+| bip_39_word_underscore_5 | mushroom_sound_aisle_easily_wrestle |  
+| bip_39_word_underscore_6 | mushroom_sound_aisle_easily_wrestle_choice |  
+| bip_39_word_underscore_7 | mushroom_sound_aisle_easily_wrestle_choice_sword |  
+| bip_39_word_underscore_8 | mushroom_sound_aisle_easily_wrestle_choice_sword_laugh |  
+| bip_39_word_underscore_9 | mushroom_sound_aisle_easily_wrestle_choice_sword_laugh_card |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

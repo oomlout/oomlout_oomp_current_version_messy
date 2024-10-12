@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cram |  
+| bip_39_word_dash_10 | cram-reopen-pitch-enjoy-quote-luggage-flower-bargain-method-elephant |  
+| bip_39_word_dash_11 | cram-reopen-pitch-enjoy-quote-luggage-flower-bargain-method-elephant-bundle |  
+| bip_39_word_dash_12 | cram-reopen-pitch-enjoy-quote-luggage-flower-bargain-method-elephant-bundle-act |  
+| bip_39_word_dash_2 | cram-reopen |  
+| bip_39_word_dash_3 | cram-reopen-pitch |  
+| bip_39_word_dash_4 | cram-reopen-pitch-enjoy |  
+| bip_39_word_dash_5 | cram-reopen-pitch-enjoy-quote |  
+| bip_39_word_dash_6 | cram-reopen-pitch-enjoy-quote-luggage |  
+| bip_39_word_dash_7 | cram-reopen-pitch-enjoy-quote-luggage-flower |  
+| bip_39_word_dash_8 | cram-reopen-pitch-enjoy-quote-luggage-flower-bargain |  
+| bip_39_word_dash_9 | cram-reopen-pitch-enjoy-quote-luggage-flower-bargain-method |  
 | bip_39_word_new_br_1 | cram |  
 | bip_39_word_new_br_10 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain<br>method<br>elephant |  
 | bip_39_word_new_br_11 | cram<br>reopen<br>pitch<br>enjoy<br>quote<br>luggage<br>flower<br>bargain<br>method<br>elephant<br>bundle |  
@@ -147,6 +159,18 @@ method |
 | bip_39_word_space_7 | cram reopen pitch enjoy quote luggage flower |  
 | bip_39_word_space_8 | cram reopen pitch enjoy quote luggage flower bargain |  
 | bip_39_word_space_9 | cram reopen pitch enjoy quote luggage flower bargain method |  
+| bip_39_word_underscore_1 | cram |  
+| bip_39_word_underscore_10 | cram_reopen_pitch_enjoy_quote_luggage_flower_bargain_method_elephant |  
+| bip_39_word_underscore_11 | cram_reopen_pitch_enjoy_quote_luggage_flower_bargain_method_elephant_bundle |  
+| bip_39_word_underscore_12 | cram_reopen_pitch_enjoy_quote_luggage_flower_bargain_method_elephant_bundle_act |  
+| bip_39_word_underscore_2 | cram_reopen |  
+| bip_39_word_underscore_3 | cram_reopen_pitch |  
+| bip_39_word_underscore_4 | cram_reopen_pitch_enjoy |  
+| bip_39_word_underscore_5 | cram_reopen_pitch_enjoy_quote |  
+| bip_39_word_underscore_6 | cram_reopen_pitch_enjoy_quote_luggage |  
+| bip_39_word_underscore_7 | cram_reopen_pitch_enjoy_quote_luggage_flower |  
+| bip_39_word_underscore_8 | cram_reopen_pitch_enjoy_quote_luggage_flower_bargain |  
+| bip_39_word_underscore_9 | cram_reopen_pitch_enjoy_quote_luggage_flower_bargain_method |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

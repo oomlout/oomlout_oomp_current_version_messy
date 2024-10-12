@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fossil |  
+| bip_39_word_dash_10 | fossil-coyote-response-record-dynamic-piece-fine-useful-shaft-master |  
+| bip_39_word_dash_11 | fossil-coyote-response-record-dynamic-piece-fine-useful-shaft-master-middle |  
+| bip_39_word_dash_12 | fossil-coyote-response-record-dynamic-piece-fine-useful-shaft-master-middle-asthma |  
+| bip_39_word_dash_2 | fossil-coyote |  
+| bip_39_word_dash_3 | fossil-coyote-response |  
+| bip_39_word_dash_4 | fossil-coyote-response-record |  
+| bip_39_word_dash_5 | fossil-coyote-response-record-dynamic |  
+| bip_39_word_dash_6 | fossil-coyote-response-record-dynamic-piece |  
+| bip_39_word_dash_7 | fossil-coyote-response-record-dynamic-piece-fine |  
+| bip_39_word_dash_8 | fossil-coyote-response-record-dynamic-piece-fine-useful |  
+| bip_39_word_dash_9 | fossil-coyote-response-record-dynamic-piece-fine-useful-shaft |  
 | bip_39_word_new_br_1 | fossil |  
 | bip_39_word_new_br_10 | fossil<br>coyote<br>response<br>record<br>dynamic<br>piece<br>fine<br>useful<br>shaft<br>master |  
 | bip_39_word_new_br_11 | fossil<br>coyote<br>response<br>record<br>dynamic<br>piece<br>fine<br>useful<br>shaft<br>master<br>middle |  
@@ -147,6 +159,18 @@ shaft |
 | bip_39_word_space_7 | fossil coyote response record dynamic piece fine |  
 | bip_39_word_space_8 | fossil coyote response record dynamic piece fine useful |  
 | bip_39_word_space_9 | fossil coyote response record dynamic piece fine useful shaft |  
+| bip_39_word_underscore_1 | fossil |  
+| bip_39_word_underscore_10 | fossil_coyote_response_record_dynamic_piece_fine_useful_shaft_master |  
+| bip_39_word_underscore_11 | fossil_coyote_response_record_dynamic_piece_fine_useful_shaft_master_middle |  
+| bip_39_word_underscore_12 | fossil_coyote_response_record_dynamic_piece_fine_useful_shaft_master_middle_asthma |  
+| bip_39_word_underscore_2 | fossil_coyote |  
+| bip_39_word_underscore_3 | fossil_coyote_response |  
+| bip_39_word_underscore_4 | fossil_coyote_response_record |  
+| bip_39_word_underscore_5 | fossil_coyote_response_record_dynamic |  
+| bip_39_word_underscore_6 | fossil_coyote_response_record_dynamic_piece |  
+| bip_39_word_underscore_7 | fossil_coyote_response_record_dynamic_piece_fine |  
+| bip_39_word_underscore_8 | fossil_coyote_response_record_dynamic_piece_fine_useful |  
+| bip_39_word_underscore_9 | fossil_coyote_response_record_dynamic_piece_fine_useful_shaft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

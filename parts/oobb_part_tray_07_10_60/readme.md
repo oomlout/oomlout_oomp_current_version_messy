@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bachelor |  
+| bip_39_word_dash_10 | bachelor-truly-ordinary-same-enable-walk-great-rookie-polar-shoot |  
+| bip_39_word_dash_11 | bachelor-truly-ordinary-same-enable-walk-great-rookie-polar-shoot-guilt |  
+| bip_39_word_dash_12 | bachelor-truly-ordinary-same-enable-walk-great-rookie-polar-shoot-guilt-any |  
+| bip_39_word_dash_2 | bachelor-truly |  
+| bip_39_word_dash_3 | bachelor-truly-ordinary |  
+| bip_39_word_dash_4 | bachelor-truly-ordinary-same |  
+| bip_39_word_dash_5 | bachelor-truly-ordinary-same-enable |  
+| bip_39_word_dash_6 | bachelor-truly-ordinary-same-enable-walk |  
+| bip_39_word_dash_7 | bachelor-truly-ordinary-same-enable-walk-great |  
+| bip_39_word_dash_8 | bachelor-truly-ordinary-same-enable-walk-great-rookie |  
+| bip_39_word_dash_9 | bachelor-truly-ordinary-same-enable-walk-great-rookie-polar |  
 | bip_39_word_new_br_1 | bachelor |  
 | bip_39_word_new_br_10 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie<br>polar<br>shoot |  
 | bip_39_word_new_br_11 | bachelor<br>truly<br>ordinary<br>same<br>enable<br>walk<br>great<br>rookie<br>polar<br>shoot<br>guilt |  
@@ -147,6 +159,18 @@ polar |
 | bip_39_word_space_7 | bachelor truly ordinary same enable walk great |  
 | bip_39_word_space_8 | bachelor truly ordinary same enable walk great rookie |  
 | bip_39_word_space_9 | bachelor truly ordinary same enable walk great rookie polar |  
+| bip_39_word_underscore_1 | bachelor |  
+| bip_39_word_underscore_10 | bachelor_truly_ordinary_same_enable_walk_great_rookie_polar_shoot |  
+| bip_39_word_underscore_11 | bachelor_truly_ordinary_same_enable_walk_great_rookie_polar_shoot_guilt |  
+| bip_39_word_underscore_12 | bachelor_truly_ordinary_same_enable_walk_great_rookie_polar_shoot_guilt_any |  
+| bip_39_word_underscore_2 | bachelor_truly |  
+| bip_39_word_underscore_3 | bachelor_truly_ordinary |  
+| bip_39_word_underscore_4 | bachelor_truly_ordinary_same |  
+| bip_39_word_underscore_5 | bachelor_truly_ordinary_same_enable |  
+| bip_39_word_underscore_6 | bachelor_truly_ordinary_same_enable_walk |  
+| bip_39_word_underscore_7 | bachelor_truly_ordinary_same_enable_walk_great |  
+| bip_39_word_underscore_8 | bachelor_truly_ordinary_same_enable_walk_great_rookie |  
+| bip_39_word_underscore_9 | bachelor_truly_ordinary_same_enable_walk_great_rookie_polar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

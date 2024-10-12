@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boil |  
+| bip_39_word_dash_10 | boil-develop-drop-match-dismiss-vote-catch-design-hollow-punch |  
+| bip_39_word_dash_11 | boil-develop-drop-match-dismiss-vote-catch-design-hollow-punch-tone |  
+| bip_39_word_dash_12 | boil-develop-drop-match-dismiss-vote-catch-design-hollow-punch-tone-allow |  
+| bip_39_word_dash_2 | boil-develop |  
+| bip_39_word_dash_3 | boil-develop-drop |  
+| bip_39_word_dash_4 | boil-develop-drop-match |  
+| bip_39_word_dash_5 | boil-develop-drop-match-dismiss |  
+| bip_39_word_dash_6 | boil-develop-drop-match-dismiss-vote |  
+| bip_39_word_dash_7 | boil-develop-drop-match-dismiss-vote-catch |  
+| bip_39_word_dash_8 | boil-develop-drop-match-dismiss-vote-catch-design |  
+| bip_39_word_dash_9 | boil-develop-drop-match-dismiss-vote-catch-design-hollow |  
 | bip_39_word_new_br_1 | boil |  
 | bip_39_word_new_br_10 | boil<br>develop<br>drop<br>match<br>dismiss<br>vote<br>catch<br>design<br>hollow<br>punch |  
 | bip_39_word_new_br_11 | boil<br>develop<br>drop<br>match<br>dismiss<br>vote<br>catch<br>design<br>hollow<br>punch<br>tone |  
@@ -147,6 +159,18 @@ hollow |
 | bip_39_word_space_7 | boil develop drop match dismiss vote catch |  
 | bip_39_word_space_8 | boil develop drop match dismiss vote catch design |  
 | bip_39_word_space_9 | boil develop drop match dismiss vote catch design hollow |  
+| bip_39_word_underscore_1 | boil |  
+| bip_39_word_underscore_10 | boil_develop_drop_match_dismiss_vote_catch_design_hollow_punch |  
+| bip_39_word_underscore_11 | boil_develop_drop_match_dismiss_vote_catch_design_hollow_punch_tone |  
+| bip_39_word_underscore_12 | boil_develop_drop_match_dismiss_vote_catch_design_hollow_punch_tone_allow |  
+| bip_39_word_underscore_2 | boil_develop |  
+| bip_39_word_underscore_3 | boil_develop_drop |  
+| bip_39_word_underscore_4 | boil_develop_drop_match |  
+| bip_39_word_underscore_5 | boil_develop_drop_match_dismiss |  
+| bip_39_word_underscore_6 | boil_develop_drop_match_dismiss_vote |  
+| bip_39_word_underscore_7 | boil_develop_drop_match_dismiss_vote_catch |  
+| bip_39_word_underscore_8 | boil_develop_drop_match_dismiss_vote_catch_design |  
+| bip_39_word_underscore_9 | boil_develop_drop_match_dismiss_vote_catch_design_hollow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

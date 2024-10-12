@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | popular |  
+| bip_39_word_dash_10 | popular-ankle-interest-main-guide-mixture-make-disorder-mistake-inflict |  
+| bip_39_word_dash_11 | popular-ankle-interest-main-guide-mixture-make-disorder-mistake-inflict-sample |  
+| bip_39_word_dash_12 | popular-ankle-interest-main-guide-mixture-make-disorder-mistake-inflict-sample-ask |  
+| bip_39_word_dash_2 | popular-ankle |  
+| bip_39_word_dash_3 | popular-ankle-interest |  
+| bip_39_word_dash_4 | popular-ankle-interest-main |  
+| bip_39_word_dash_5 | popular-ankle-interest-main-guide |  
+| bip_39_word_dash_6 | popular-ankle-interest-main-guide-mixture |  
+| bip_39_word_dash_7 | popular-ankle-interest-main-guide-mixture-make |  
+| bip_39_word_dash_8 | popular-ankle-interest-main-guide-mixture-make-disorder |  
+| bip_39_word_dash_9 | popular-ankle-interest-main-guide-mixture-make-disorder-mistake |  
 | bip_39_word_new_br_1 | popular |  
 | bip_39_word_new_br_10 | popular<br>ankle<br>interest<br>main<br>guide<br>mixture<br>make<br>disorder<br>mistake<br>inflict |  
 | bip_39_word_new_br_11 | popular<br>ankle<br>interest<br>main<br>guide<br>mixture<br>make<br>disorder<br>mistake<br>inflict<br>sample |  
@@ -147,6 +159,18 @@ mistake |
 | bip_39_word_space_7 | popular ankle interest main guide mixture make |  
 | bip_39_word_space_8 | popular ankle interest main guide mixture make disorder |  
 | bip_39_word_space_9 | popular ankle interest main guide mixture make disorder mistake |  
+| bip_39_word_underscore_1 | popular |  
+| bip_39_word_underscore_10 | popular_ankle_interest_main_guide_mixture_make_disorder_mistake_inflict |  
+| bip_39_word_underscore_11 | popular_ankle_interest_main_guide_mixture_make_disorder_mistake_inflict_sample |  
+| bip_39_word_underscore_12 | popular_ankle_interest_main_guide_mixture_make_disorder_mistake_inflict_sample_ask |  
+| bip_39_word_underscore_2 | popular_ankle |  
+| bip_39_word_underscore_3 | popular_ankle_interest |  
+| bip_39_word_underscore_4 | popular_ankle_interest_main |  
+| bip_39_word_underscore_5 | popular_ankle_interest_main_guide |  
+| bip_39_word_underscore_6 | popular_ankle_interest_main_guide_mixture |  
+| bip_39_word_underscore_7 | popular_ankle_interest_main_guide_mixture_make |  
+| bip_39_word_underscore_8 | popular_ankle_interest_main_guide_mixture_make_disorder |  
+| bip_39_word_underscore_9 | popular_ankle_interest_main_guide_mixture_make_disorder_mistake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

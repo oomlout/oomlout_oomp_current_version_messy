@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ready |  
+| bip_39_word_dash_10 | ready-often-glory-clean-labor-piano-then-remain-grace-dance |  
+| bip_39_word_dash_11 | ready-often-glory-clean-labor-piano-then-remain-grace-dance-clean |  
+| bip_39_word_dash_12 | ready-often-glory-clean-labor-piano-then-remain-grace-dance-clean-approve |  
+| bip_39_word_dash_2 | ready-often |  
+| bip_39_word_dash_3 | ready-often-glory |  
+| bip_39_word_dash_4 | ready-often-glory-clean |  
+| bip_39_word_dash_5 | ready-often-glory-clean-labor |  
+| bip_39_word_dash_6 | ready-often-glory-clean-labor-piano |  
+| bip_39_word_dash_7 | ready-often-glory-clean-labor-piano-then |  
+| bip_39_word_dash_8 | ready-often-glory-clean-labor-piano-then-remain |  
+| bip_39_word_dash_9 | ready-often-glory-clean-labor-piano-then-remain-grace |  
 | bip_39_word_new_br_1 | ready |  
 | bip_39_word_new_br_10 | ready<br>often<br>glory<br>clean<br>labor<br>piano<br>then<br>remain<br>grace<br>dance |  
 | bip_39_word_new_br_11 | ready<br>often<br>glory<br>clean<br>labor<br>piano<br>then<br>remain<br>grace<br>dance<br>clean |  
@@ -147,6 +159,18 @@ grace |
 | bip_39_word_space_7 | ready often glory clean labor piano then |  
 | bip_39_word_space_8 | ready often glory clean labor piano then remain |  
 | bip_39_word_space_9 | ready often glory clean labor piano then remain grace |  
+| bip_39_word_underscore_1 | ready |  
+| bip_39_word_underscore_10 | ready_often_glory_clean_labor_piano_then_remain_grace_dance |  
+| bip_39_word_underscore_11 | ready_often_glory_clean_labor_piano_then_remain_grace_dance_clean |  
+| bip_39_word_underscore_12 | ready_often_glory_clean_labor_piano_then_remain_grace_dance_clean_approve |  
+| bip_39_word_underscore_2 | ready_often |  
+| bip_39_word_underscore_3 | ready_often_glory |  
+| bip_39_word_underscore_4 | ready_often_glory_clean |  
+| bip_39_word_underscore_5 | ready_often_glory_clean_labor |  
+| bip_39_word_underscore_6 | ready_often_glory_clean_labor_piano |  
+| bip_39_word_underscore_7 | ready_often_glory_clean_labor_piano_then |  
+| bip_39_word_underscore_8 | ready_often_glory_clean_labor_piano_then_remain |  
+| bip_39_word_underscore_9 | ready_often_glory_clean_labor_piano_then_remain_grace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

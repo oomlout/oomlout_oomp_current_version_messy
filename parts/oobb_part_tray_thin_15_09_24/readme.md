@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fun |  
+| bip_39_word_dash_10 | fun-then-glide-tower-token-shove-city-torch-dose-resemble |  
+| bip_39_word_dash_11 | fun-then-glide-tower-token-shove-city-torch-dose-resemble-still |  
+| bip_39_word_dash_12 | fun-then-glide-tower-token-shove-city-torch-dose-resemble-still-april |  
+| bip_39_word_dash_2 | fun-then |  
+| bip_39_word_dash_3 | fun-then-glide |  
+| bip_39_word_dash_4 | fun-then-glide-tower |  
+| bip_39_word_dash_5 | fun-then-glide-tower-token |  
+| bip_39_word_dash_6 | fun-then-glide-tower-token-shove |  
+| bip_39_word_dash_7 | fun-then-glide-tower-token-shove-city |  
+| bip_39_word_dash_8 | fun-then-glide-tower-token-shove-city-torch |  
+| bip_39_word_dash_9 | fun-then-glide-tower-token-shove-city-torch-dose |  
 | bip_39_word_new_br_1 | fun |  
 | bip_39_word_new_br_10 | fun<br>then<br>glide<br>tower<br>token<br>shove<br>city<br>torch<br>dose<br>resemble |  
 | bip_39_word_new_br_11 | fun<br>then<br>glide<br>tower<br>token<br>shove<br>city<br>torch<br>dose<br>resemble<br>still |  
@@ -147,6 +159,18 @@ dose |
 | bip_39_word_space_7 | fun then glide tower token shove city |  
 | bip_39_word_space_8 | fun then glide tower token shove city torch |  
 | bip_39_word_space_9 | fun then glide tower token shove city torch dose |  
+| bip_39_word_underscore_1 | fun |  
+| bip_39_word_underscore_10 | fun_then_glide_tower_token_shove_city_torch_dose_resemble |  
+| bip_39_word_underscore_11 | fun_then_glide_tower_token_shove_city_torch_dose_resemble_still |  
+| bip_39_word_underscore_12 | fun_then_glide_tower_token_shove_city_torch_dose_resemble_still_april |  
+| bip_39_word_underscore_2 | fun_then |  
+| bip_39_word_underscore_3 | fun_then_glide |  
+| bip_39_word_underscore_4 | fun_then_glide_tower |  
+| bip_39_word_underscore_5 | fun_then_glide_tower_token |  
+| bip_39_word_underscore_6 | fun_then_glide_tower_token_shove |  
+| bip_39_word_underscore_7 | fun_then_glide_tower_token_shove_city |  
+| bip_39_word_underscore_8 | fun_then_glide_tower_token_shove_city_torch |  
+| bip_39_word_underscore_9 | fun_then_glide_tower_token_shove_city_torch_dose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sudden |  
+| bip_39_word_dash_10 | sudden-envelope-ocean-slice-annual-never-mixed-champion-smooth-expand |  
+| bip_39_word_dash_11 | sudden-envelope-ocean-slice-annual-never-mixed-champion-smooth-expand-lyrics |  
+| bip_39_word_dash_12 | sudden-envelope-ocean-slice-annual-never-mixed-champion-smooth-expand-lyrics-agree |  
+| bip_39_word_dash_2 | sudden-envelope |  
+| bip_39_word_dash_3 | sudden-envelope-ocean |  
+| bip_39_word_dash_4 | sudden-envelope-ocean-slice |  
+| bip_39_word_dash_5 | sudden-envelope-ocean-slice-annual |  
+| bip_39_word_dash_6 | sudden-envelope-ocean-slice-annual-never |  
+| bip_39_word_dash_7 | sudden-envelope-ocean-slice-annual-never-mixed |  
+| bip_39_word_dash_8 | sudden-envelope-ocean-slice-annual-never-mixed-champion |  
+| bip_39_word_dash_9 | sudden-envelope-ocean-slice-annual-never-mixed-champion-smooth |  
 | bip_39_word_new_br_1 | sudden |  
 | bip_39_word_new_br_10 | sudden<br>envelope<br>ocean<br>slice<br>annual<br>never<br>mixed<br>champion<br>smooth<br>expand |  
 | bip_39_word_new_br_11 | sudden<br>envelope<br>ocean<br>slice<br>annual<br>never<br>mixed<br>champion<br>smooth<br>expand<br>lyrics |  
@@ -147,6 +159,18 @@ smooth |
 | bip_39_word_space_7 | sudden envelope ocean slice annual never mixed |  
 | bip_39_word_space_8 | sudden envelope ocean slice annual never mixed champion |  
 | bip_39_word_space_9 | sudden envelope ocean slice annual never mixed champion smooth |  
+| bip_39_word_underscore_1 | sudden |  
+| bip_39_word_underscore_10 | sudden_envelope_ocean_slice_annual_never_mixed_champion_smooth_expand |  
+| bip_39_word_underscore_11 | sudden_envelope_ocean_slice_annual_never_mixed_champion_smooth_expand_lyrics |  
+| bip_39_word_underscore_12 | sudden_envelope_ocean_slice_annual_never_mixed_champion_smooth_expand_lyrics_agree |  
+| bip_39_word_underscore_2 | sudden_envelope |  
+| bip_39_word_underscore_3 | sudden_envelope_ocean |  
+| bip_39_word_underscore_4 | sudden_envelope_ocean_slice |  
+| bip_39_word_underscore_5 | sudden_envelope_ocean_slice_annual |  
+| bip_39_word_underscore_6 | sudden_envelope_ocean_slice_annual_never |  
+| bip_39_word_underscore_7 | sudden_envelope_ocean_slice_annual_never_mixed |  
+| bip_39_word_underscore_8 | sudden_envelope_ocean_slice_annual_never_mixed_champion |  
+| bip_39_word_underscore_9 | sudden_envelope_ocean_slice_annual_never_mixed_champion_smooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

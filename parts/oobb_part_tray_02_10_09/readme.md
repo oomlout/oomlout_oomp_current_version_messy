@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thought |  
+| bip_39_word_dash_10 | thought-frame-private-radar-obtain-police-never-anxiety-horror-retire |  
+| bip_39_word_dash_11 | thought-frame-private-radar-obtain-police-never-anxiety-horror-retire-camp |  
+| bip_39_word_dash_12 | thought-frame-private-radar-obtain-police-never-anxiety-horror-retire-camp-aisle |  
+| bip_39_word_dash_2 | thought-frame |  
+| bip_39_word_dash_3 | thought-frame-private |  
+| bip_39_word_dash_4 | thought-frame-private-radar |  
+| bip_39_word_dash_5 | thought-frame-private-radar-obtain |  
+| bip_39_word_dash_6 | thought-frame-private-radar-obtain-police |  
+| bip_39_word_dash_7 | thought-frame-private-radar-obtain-police-never |  
+| bip_39_word_dash_8 | thought-frame-private-radar-obtain-police-never-anxiety |  
+| bip_39_word_dash_9 | thought-frame-private-radar-obtain-police-never-anxiety-horror |  
 | bip_39_word_new_br_1 | thought |  
 | bip_39_word_new_br_10 | thought<br>frame<br>private<br>radar<br>obtain<br>police<br>never<br>anxiety<br>horror<br>retire |  
 | bip_39_word_new_br_11 | thought<br>frame<br>private<br>radar<br>obtain<br>police<br>never<br>anxiety<br>horror<br>retire<br>camp |  
@@ -147,6 +159,18 @@ horror |
 | bip_39_word_space_7 | thought frame private radar obtain police never |  
 | bip_39_word_space_8 | thought frame private radar obtain police never anxiety |  
 | bip_39_word_space_9 | thought frame private radar obtain police never anxiety horror |  
+| bip_39_word_underscore_1 | thought |  
+| bip_39_word_underscore_10 | thought_frame_private_radar_obtain_police_never_anxiety_horror_retire |  
+| bip_39_word_underscore_11 | thought_frame_private_radar_obtain_police_never_anxiety_horror_retire_camp |  
+| bip_39_word_underscore_12 | thought_frame_private_radar_obtain_police_never_anxiety_horror_retire_camp_aisle |  
+| bip_39_word_underscore_2 | thought_frame |  
+| bip_39_word_underscore_3 | thought_frame_private |  
+| bip_39_word_underscore_4 | thought_frame_private_radar |  
+| bip_39_word_underscore_5 | thought_frame_private_radar_obtain |  
+| bip_39_word_underscore_6 | thought_frame_private_radar_obtain_police |  
+| bip_39_word_underscore_7 | thought_frame_private_radar_obtain_police_never |  
+| bip_39_word_underscore_8 | thought_frame_private_radar_obtain_police_never_anxiety |  
+| bip_39_word_underscore_9 | thought_frame_private_radar_obtain_police_never_anxiety_horror |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

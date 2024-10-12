@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tell |  
+| bip_39_word_dash_10 | tell-spray-define-ribbon-day-oxygen-feel-repair-just-salon |  
+| bip_39_word_dash_11 | tell-spray-define-ribbon-day-oxygen-feel-repair-just-salon-rival |  
+| bip_39_word_dash_12 | tell-spray-define-ribbon-day-oxygen-feel-repair-just-salon-rival-accuse |  
+| bip_39_word_dash_2 | tell-spray |  
+| bip_39_word_dash_3 | tell-spray-define |  
+| bip_39_word_dash_4 | tell-spray-define-ribbon |  
+| bip_39_word_dash_5 | tell-spray-define-ribbon-day |  
+| bip_39_word_dash_6 | tell-spray-define-ribbon-day-oxygen |  
+| bip_39_word_dash_7 | tell-spray-define-ribbon-day-oxygen-feel |  
+| bip_39_word_dash_8 | tell-spray-define-ribbon-day-oxygen-feel-repair |  
+| bip_39_word_dash_9 | tell-spray-define-ribbon-day-oxygen-feel-repair-just |  
 | bip_39_word_new_br_1 | tell |  
 | bip_39_word_new_br_10 | tell<br>spray<br>define<br>ribbon<br>day<br>oxygen<br>feel<br>repair<br>just<br>salon |  
 | bip_39_word_new_br_11 | tell<br>spray<br>define<br>ribbon<br>day<br>oxygen<br>feel<br>repair<br>just<br>salon<br>rival |  
@@ -147,6 +159,18 @@ just |
 | bip_39_word_space_7 | tell spray define ribbon day oxygen feel |  
 | bip_39_word_space_8 | tell spray define ribbon day oxygen feel repair |  
 | bip_39_word_space_9 | tell spray define ribbon day oxygen feel repair just |  
+| bip_39_word_underscore_1 | tell |  
+| bip_39_word_underscore_10 | tell_spray_define_ribbon_day_oxygen_feel_repair_just_salon |  
+| bip_39_word_underscore_11 | tell_spray_define_ribbon_day_oxygen_feel_repair_just_salon_rival |  
+| bip_39_word_underscore_12 | tell_spray_define_ribbon_day_oxygen_feel_repair_just_salon_rival_accuse |  
+| bip_39_word_underscore_2 | tell_spray |  
+| bip_39_word_underscore_3 | tell_spray_define |  
+| bip_39_word_underscore_4 | tell_spray_define_ribbon |  
+| bip_39_word_underscore_5 | tell_spray_define_ribbon_day |  
+| bip_39_word_underscore_6 | tell_spray_define_ribbon_day_oxygen |  
+| bip_39_word_underscore_7 | tell_spray_define_ribbon_day_oxygen_feel |  
+| bip_39_word_underscore_8 | tell_spray_define_ribbon_day_oxygen_feel_repair |  
+| bip_39_word_underscore_9 | tell_spray_define_ribbon_day_oxygen_feel_repair_just |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

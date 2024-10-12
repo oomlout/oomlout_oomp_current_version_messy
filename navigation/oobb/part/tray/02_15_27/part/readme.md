@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | perfect |  
+| bip_39_word_dash_10 | perfect-describe-display-unusual-wedding-mistake-slab-firm-work-settle |  
+| bip_39_word_dash_11 | perfect-describe-display-unusual-wedding-mistake-slab-firm-work-settle-sample |  
+| bip_39_word_dash_12 | perfect-describe-display-unusual-wedding-mistake-slab-firm-work-settle-sample-abuse |  
+| bip_39_word_dash_2 | perfect-describe |  
+| bip_39_word_dash_3 | perfect-describe-display |  
+| bip_39_word_dash_4 | perfect-describe-display-unusual |  
+| bip_39_word_dash_5 | perfect-describe-display-unusual-wedding |  
+| bip_39_word_dash_6 | perfect-describe-display-unusual-wedding-mistake |  
+| bip_39_word_dash_7 | perfect-describe-display-unusual-wedding-mistake-slab |  
+| bip_39_word_dash_8 | perfect-describe-display-unusual-wedding-mistake-slab-firm |  
+| bip_39_word_dash_9 | perfect-describe-display-unusual-wedding-mistake-slab-firm-work |  
 | bip_39_word_new_br_1 | perfect |  
 | bip_39_word_new_br_10 | perfect<br>describe<br>display<br>unusual<br>wedding<br>mistake<br>slab<br>firm<br>work<br>settle |  
 | bip_39_word_new_br_11 | perfect<br>describe<br>display<br>unusual<br>wedding<br>mistake<br>slab<br>firm<br>work<br>settle<br>sample |  
@@ -147,6 +159,18 @@ work |
 | bip_39_word_space_7 | perfect describe display unusual wedding mistake slab |  
 | bip_39_word_space_8 | perfect describe display unusual wedding mistake slab firm |  
 | bip_39_word_space_9 | perfect describe display unusual wedding mistake slab firm work |  
+| bip_39_word_underscore_1 | perfect |  
+| bip_39_word_underscore_10 | perfect_describe_display_unusual_wedding_mistake_slab_firm_work_settle |  
+| bip_39_word_underscore_11 | perfect_describe_display_unusual_wedding_mistake_slab_firm_work_settle_sample |  
+| bip_39_word_underscore_12 | perfect_describe_display_unusual_wedding_mistake_slab_firm_work_settle_sample_abuse |  
+| bip_39_word_underscore_2 | perfect_describe |  
+| bip_39_word_underscore_3 | perfect_describe_display |  
+| bip_39_word_underscore_4 | perfect_describe_display_unusual |  
+| bip_39_word_underscore_5 | perfect_describe_display_unusual_wedding |  
+| bip_39_word_underscore_6 | perfect_describe_display_unusual_wedding_mistake |  
+| bip_39_word_underscore_7 | perfect_describe_display_unusual_wedding_mistake_slab |  
+| bip_39_word_underscore_8 | perfect_describe_display_unusual_wedding_mistake_slab_firm |  
+| bip_39_word_underscore_9 | perfect_describe_display_unusual_wedding_mistake_slab_firm_work |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

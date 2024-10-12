@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mutual |  
+| bip_39_word_dash_10 | mutual-beef-early-fee-escape-scrap-plate-noodle-draft-basic |  
+| bip_39_word_dash_11 | mutual-beef-early-fee-escape-scrap-plate-noodle-draft-basic-feed |  
+| bip_39_word_dash_12 | mutual-beef-early-fee-escape-scrap-plate-noodle-draft-basic-feed-atom |  
+| bip_39_word_dash_2 | mutual-beef |  
+| bip_39_word_dash_3 | mutual-beef-early |  
+| bip_39_word_dash_4 | mutual-beef-early-fee |  
+| bip_39_word_dash_5 | mutual-beef-early-fee-escape |  
+| bip_39_word_dash_6 | mutual-beef-early-fee-escape-scrap |  
+| bip_39_word_dash_7 | mutual-beef-early-fee-escape-scrap-plate |  
+| bip_39_word_dash_8 | mutual-beef-early-fee-escape-scrap-plate-noodle |  
+| bip_39_word_dash_9 | mutual-beef-early-fee-escape-scrap-plate-noodle-draft |  
 | bip_39_word_new_br_1 | mutual |  
 | bip_39_word_new_br_10 | mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle<br>draft<br>basic |  
 | bip_39_word_new_br_11 | mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle<br>draft<br>basic<br>feed |  
@@ -147,6 +159,18 @@ draft |
 | bip_39_word_space_7 | mutual beef early fee escape scrap plate |  
 | bip_39_word_space_8 | mutual beef early fee escape scrap plate noodle |  
 | bip_39_word_space_9 | mutual beef early fee escape scrap plate noodle draft |  
+| bip_39_word_underscore_1 | mutual |  
+| bip_39_word_underscore_10 | mutual_beef_early_fee_escape_scrap_plate_noodle_draft_basic |  
+| bip_39_word_underscore_11 | mutual_beef_early_fee_escape_scrap_plate_noodle_draft_basic_feed |  
+| bip_39_word_underscore_12 | mutual_beef_early_fee_escape_scrap_plate_noodle_draft_basic_feed_atom |  
+| bip_39_word_underscore_2 | mutual_beef |  
+| bip_39_word_underscore_3 | mutual_beef_early |  
+| bip_39_word_underscore_4 | mutual_beef_early_fee |  
+| bip_39_word_underscore_5 | mutual_beef_early_fee_escape |  
+| bip_39_word_underscore_6 | mutual_beef_early_fee_escape_scrap |  
+| bip_39_word_underscore_7 | mutual_beef_early_fee_escape_scrap_plate |  
+| bip_39_word_underscore_8 | mutual_beef_early_fee_escape_scrap_plate_noodle |  
+| bip_39_word_underscore_9 | mutual_beef_early_fee_escape_scrap_plate_noodle_draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

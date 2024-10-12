@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | judge |  
+| bip_39_word_dash_10 | judge-option-hint-sell-fix-list-notice-ecology-various-better |  
+| bip_39_word_dash_11 | judge-option-hint-sell-fix-list-notice-ecology-various-better-broccoli |  
+| bip_39_word_dash_12 | judge-option-hint-sell-fix-list-notice-ecology-various-better-broccoli-announce |  
+| bip_39_word_dash_2 | judge-option |  
+| bip_39_word_dash_3 | judge-option-hint |  
+| bip_39_word_dash_4 | judge-option-hint-sell |  
+| bip_39_word_dash_5 | judge-option-hint-sell-fix |  
+| bip_39_word_dash_6 | judge-option-hint-sell-fix-list |  
+| bip_39_word_dash_7 | judge-option-hint-sell-fix-list-notice |  
+| bip_39_word_dash_8 | judge-option-hint-sell-fix-list-notice-ecology |  
+| bip_39_word_dash_9 | judge-option-hint-sell-fix-list-notice-ecology-various |  
 | bip_39_word_new_br_1 | judge |  
 | bip_39_word_new_br_10 | judge<br>option<br>hint<br>sell<br>fix<br>list<br>notice<br>ecology<br>various<br>better |  
 | bip_39_word_new_br_11 | judge<br>option<br>hint<br>sell<br>fix<br>list<br>notice<br>ecology<br>various<br>better<br>broccoli |  
@@ -147,6 +159,18 @@ various |
 | bip_39_word_space_7 | judge option hint sell fix list notice |  
 | bip_39_word_space_8 | judge option hint sell fix list notice ecology |  
 | bip_39_word_space_9 | judge option hint sell fix list notice ecology various |  
+| bip_39_word_underscore_1 | judge |  
+| bip_39_word_underscore_10 | judge_option_hint_sell_fix_list_notice_ecology_various_better |  
+| bip_39_word_underscore_11 | judge_option_hint_sell_fix_list_notice_ecology_various_better_broccoli |  
+| bip_39_word_underscore_12 | judge_option_hint_sell_fix_list_notice_ecology_various_better_broccoli_announce |  
+| bip_39_word_underscore_2 | judge_option |  
+| bip_39_word_underscore_3 | judge_option_hint |  
+| bip_39_word_underscore_4 | judge_option_hint_sell |  
+| bip_39_word_underscore_5 | judge_option_hint_sell_fix |  
+| bip_39_word_underscore_6 | judge_option_hint_sell_fix_list |  
+| bip_39_word_underscore_7 | judge_option_hint_sell_fix_list_notice |  
+| bip_39_word_underscore_8 | judge_option_hint_sell_fix_list_notice_ecology |  
+| bip_39_word_underscore_9 | judge_option_hint_sell_fix_list_notice_ecology_various |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | suspect |  
+| bip_39_word_dash_10 | suspect-annual-spoil-chronic-eagle-chair-inform-message-boil-velvet |  
+| bip_39_word_dash_11 | suspect-annual-spoil-chronic-eagle-chair-inform-message-boil-velvet-current |  
+| bip_39_word_dash_12 | suspect-annual-spoil-chronic-eagle-chair-inform-message-boil-velvet-current-alter |  
+| bip_39_word_dash_2 | suspect-annual |  
+| bip_39_word_dash_3 | suspect-annual-spoil |  
+| bip_39_word_dash_4 | suspect-annual-spoil-chronic |  
+| bip_39_word_dash_5 | suspect-annual-spoil-chronic-eagle |  
+| bip_39_word_dash_6 | suspect-annual-spoil-chronic-eagle-chair |  
+| bip_39_word_dash_7 | suspect-annual-spoil-chronic-eagle-chair-inform |  
+| bip_39_word_dash_8 | suspect-annual-spoil-chronic-eagle-chair-inform-message |  
+| bip_39_word_dash_9 | suspect-annual-spoil-chronic-eagle-chair-inform-message-boil |  
 | bip_39_word_new_br_1 | suspect |  
 | bip_39_word_new_br_10 | suspect<br>annual<br>spoil<br>chronic<br>eagle<br>chair<br>inform<br>message<br>boil<br>velvet |  
 | bip_39_word_new_br_11 | suspect<br>annual<br>spoil<br>chronic<br>eagle<br>chair<br>inform<br>message<br>boil<br>velvet<br>current |  
@@ -147,6 +159,18 @@ boil |
 | bip_39_word_space_7 | suspect annual spoil chronic eagle chair inform |  
 | bip_39_word_space_8 | suspect annual spoil chronic eagle chair inform message |  
 | bip_39_word_space_9 | suspect annual spoil chronic eagle chair inform message boil |  
+| bip_39_word_underscore_1 | suspect |  
+| bip_39_word_underscore_10 | suspect_annual_spoil_chronic_eagle_chair_inform_message_boil_velvet |  
+| bip_39_word_underscore_11 | suspect_annual_spoil_chronic_eagle_chair_inform_message_boil_velvet_current |  
+| bip_39_word_underscore_12 | suspect_annual_spoil_chronic_eagle_chair_inform_message_boil_velvet_current_alter |  
+| bip_39_word_underscore_2 | suspect_annual |  
+| bip_39_word_underscore_3 | suspect_annual_spoil |  
+| bip_39_word_underscore_4 | suspect_annual_spoil_chronic |  
+| bip_39_word_underscore_5 | suspect_annual_spoil_chronic_eagle |  
+| bip_39_word_underscore_6 | suspect_annual_spoil_chronic_eagle_chair |  
+| bip_39_word_underscore_7 | suspect_annual_spoil_chronic_eagle_chair_inform |  
+| bip_39_word_underscore_8 | suspect_annual_spoil_chronic_eagle_chair_inform_message |  
+| bip_39_word_underscore_9 | suspect_annual_spoil_chronic_eagle_chair_inform_message_boil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

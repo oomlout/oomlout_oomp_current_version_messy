@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grief
+bip_39_word_dash_10: grief-ordinary-resist-corn-eagle-craft-injury-mad-fly-immune
+bip_39_word_dash_11: grief-ordinary-resist-corn-eagle-craft-injury-mad-fly-immune-earn
+bip_39_word_dash_12: grief-ordinary-resist-corn-eagle-craft-injury-mad-fly-immune-earn-argue
+bip_39_word_dash_2: grief-ordinary
+bip_39_word_dash_3: grief-ordinary-resist
+bip_39_word_dash_4: grief-ordinary-resist-corn
+bip_39_word_dash_5: grief-ordinary-resist-corn-eagle
+bip_39_word_dash_6: grief-ordinary-resist-corn-eagle-craft
+bip_39_word_dash_7: grief-ordinary-resist-corn-eagle-craft-injury
+bip_39_word_dash_8: grief-ordinary-resist-corn-eagle-craft-injury-mad
+bip_39_word_dash_9: grief-ordinary-resist-corn-eagle-craft-injury-mad-fly
 bip_39_word_new_br_1: grief
 bip_39_word_new_br_10: grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad<br>fly<br>immune
 bip_39_word_new_br_11: grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad<br>fly<br>immune<br>earn
@@ -193,6 +205,18 @@ bip_39_word_space_6: grief ordinary resist corn eagle craft
 bip_39_word_space_7: grief ordinary resist corn eagle craft injury
 bip_39_word_space_8: grief ordinary resist corn eagle craft injury mad
 bip_39_word_space_9: grief ordinary resist corn eagle craft injury mad fly
+bip_39_word_underscore_1: grief
+bip_39_word_underscore_10: grief_ordinary_resist_corn_eagle_craft_injury_mad_fly_immune
+bip_39_word_underscore_11: grief_ordinary_resist_corn_eagle_craft_injury_mad_fly_immune_earn
+bip_39_word_underscore_12: grief_ordinary_resist_corn_eagle_craft_injury_mad_fly_immune_earn_argue
+bip_39_word_underscore_2: grief_ordinary
+bip_39_word_underscore_3: grief_ordinary_resist
+bip_39_word_underscore_4: grief_ordinary_resist_corn
+bip_39_word_underscore_5: grief_ordinary_resist_corn_eagle
+bip_39_word_underscore_6: grief_ordinary_resist_corn_eagle_craft
+bip_39_word_underscore_7: grief_ordinary_resist_corn_eagle_craft_injury
+bip_39_word_underscore_8: grief_ordinary_resist_corn_eagle_craft_injury_mad
+bip_39_word_underscore_9: grief_ordinary_resist_corn_eagle_craft_injury_mad_fly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

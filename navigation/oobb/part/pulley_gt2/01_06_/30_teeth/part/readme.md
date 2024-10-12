@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | file |  
+| bip_39_word_dash_10 | file-ski-light-wonder-pledge-normal-good-evil-scout-system |  
+| bip_39_word_dash_11 | file-ski-light-wonder-pledge-normal-good-evil-scout-system-reduce |  
+| bip_39_word_dash_12 | file-ski-light-wonder-pledge-normal-good-evil-scout-system-reduce-absent |  
+| bip_39_word_dash_2 | file-ski |  
+| bip_39_word_dash_3 | file-ski-light |  
+| bip_39_word_dash_4 | file-ski-light-wonder |  
+| bip_39_word_dash_5 | file-ski-light-wonder-pledge |  
+| bip_39_word_dash_6 | file-ski-light-wonder-pledge-normal |  
+| bip_39_word_dash_7 | file-ski-light-wonder-pledge-normal-good |  
+| bip_39_word_dash_8 | file-ski-light-wonder-pledge-normal-good-evil |  
+| bip_39_word_dash_9 | file-ski-light-wonder-pledge-normal-good-evil-scout |  
 | bip_39_word_new_br_1 | file |  
 | bip_39_word_new_br_10 | file<br>ski<br>light<br>wonder<br>pledge<br>normal<br>good<br>evil<br>scout<br>system |  
 | bip_39_word_new_br_11 | file<br>ski<br>light<br>wonder<br>pledge<br>normal<br>good<br>evil<br>scout<br>system<br>reduce |  
@@ -147,6 +159,18 @@ scout |
 | bip_39_word_space_7 | file ski light wonder pledge normal good |  
 | bip_39_word_space_8 | file ski light wonder pledge normal good evil |  
 | bip_39_word_space_9 | file ski light wonder pledge normal good evil scout |  
+| bip_39_word_underscore_1 | file |  
+| bip_39_word_underscore_10 | file_ski_light_wonder_pledge_normal_good_evil_scout_system |  
+| bip_39_word_underscore_11 | file_ski_light_wonder_pledge_normal_good_evil_scout_system_reduce |  
+| bip_39_word_underscore_12 | file_ski_light_wonder_pledge_normal_good_evil_scout_system_reduce_absent |  
+| bip_39_word_underscore_2 | file_ski |  
+| bip_39_word_underscore_3 | file_ski_light |  
+| bip_39_word_underscore_4 | file_ski_light_wonder |  
+| bip_39_word_underscore_5 | file_ski_light_wonder_pledge |  
+| bip_39_word_underscore_6 | file_ski_light_wonder_pledge_normal |  
+| bip_39_word_underscore_7 | file_ski_light_wonder_pledge_normal_good |  
+| bip_39_word_underscore_8 | file_ski_light_wonder_pledge_normal_good_evil |  
+| bip_39_word_underscore_9 | file_ski_light_wonder_pledge_normal_good_evil_scout |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

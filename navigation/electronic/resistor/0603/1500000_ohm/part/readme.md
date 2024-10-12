@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | awesome |  
+| bip_39_word_dash_10 | awesome-bronze-deny-squeeze-stomach-jungle-filter-scout-iron-rebuild |  
+| bip_39_word_dash_11 | awesome-bronze-deny-squeeze-stomach-jungle-filter-scout-iron-rebuild-radar |  
+| bip_39_word_dash_12 | awesome-bronze-deny-squeeze-stomach-jungle-filter-scout-iron-rebuild-radar-arctic |  
+| bip_39_word_dash_2 | awesome-bronze |  
+| bip_39_word_dash_3 | awesome-bronze-deny |  
+| bip_39_word_dash_4 | awesome-bronze-deny-squeeze |  
+| bip_39_word_dash_5 | awesome-bronze-deny-squeeze-stomach |  
+| bip_39_word_dash_6 | awesome-bronze-deny-squeeze-stomach-jungle |  
+| bip_39_word_dash_7 | awesome-bronze-deny-squeeze-stomach-jungle-filter |  
+| bip_39_word_dash_8 | awesome-bronze-deny-squeeze-stomach-jungle-filter-scout |  
+| bip_39_word_dash_9 | awesome-bronze-deny-squeeze-stomach-jungle-filter-scout-iron |  
 | bip_39_word_new_br_1 | awesome |  
 | bip_39_word_new_br_10 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild |  
 | bip_39_word_new_br_11 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild<br>radar |  
@@ -147,6 +159,18 @@ iron |
 | bip_39_word_space_7 | awesome bronze deny squeeze stomach jungle filter |  
 | bip_39_word_space_8 | awesome bronze deny squeeze stomach jungle filter scout |  
 | bip_39_word_space_9 | awesome bronze deny squeeze stomach jungle filter scout iron |  
+| bip_39_word_underscore_1 | awesome |  
+| bip_39_word_underscore_10 | awesome_bronze_deny_squeeze_stomach_jungle_filter_scout_iron_rebuild |  
+| bip_39_word_underscore_11 | awesome_bronze_deny_squeeze_stomach_jungle_filter_scout_iron_rebuild_radar |  
+| bip_39_word_underscore_12 | awesome_bronze_deny_squeeze_stomach_jungle_filter_scout_iron_rebuild_radar_arctic |  
+| bip_39_word_underscore_2 | awesome_bronze |  
+| bip_39_word_underscore_3 | awesome_bronze_deny |  
+| bip_39_word_underscore_4 | awesome_bronze_deny_squeeze |  
+| bip_39_word_underscore_5 | awesome_bronze_deny_squeeze_stomach |  
+| bip_39_word_underscore_6 | awesome_bronze_deny_squeeze_stomach_jungle |  
+| bip_39_word_underscore_7 | awesome_bronze_deny_squeeze_stomach_jungle_filter |  
+| bip_39_word_underscore_8 | awesome_bronze_deny_squeeze_stomach_jungle_filter_scout |  
+| bip_39_word_underscore_9 | awesome_bronze_deny_squeeze_stomach_jungle_filter_scout_iron |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

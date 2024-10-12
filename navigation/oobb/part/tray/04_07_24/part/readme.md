@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | news |  
+| bip_39_word_dash_10 | news-knock-engine-order-glide-town-behave-bring-alley-arrange |  
+| bip_39_word_dash_11 | news-knock-engine-order-glide-town-behave-bring-alley-arrange-like |  
+| bip_39_word_dash_12 | news-knock-engine-order-glide-town-behave-bring-alley-arrange-like-account |  
+| bip_39_word_dash_2 | news-knock |  
+| bip_39_word_dash_3 | news-knock-engine |  
+| bip_39_word_dash_4 | news-knock-engine-order |  
+| bip_39_word_dash_5 | news-knock-engine-order-glide |  
+| bip_39_word_dash_6 | news-knock-engine-order-glide-town |  
+| bip_39_word_dash_7 | news-knock-engine-order-glide-town-behave |  
+| bip_39_word_dash_8 | news-knock-engine-order-glide-town-behave-bring |  
+| bip_39_word_dash_9 | news-knock-engine-order-glide-town-behave-bring-alley |  
 | bip_39_word_new_br_1 | news |  
 | bip_39_word_new_br_10 | news<br>knock<br>engine<br>order<br>glide<br>town<br>behave<br>bring<br>alley<br>arrange |  
 | bip_39_word_new_br_11 | news<br>knock<br>engine<br>order<br>glide<br>town<br>behave<br>bring<br>alley<br>arrange<br>like |  
@@ -147,6 +159,18 @@ alley |
 | bip_39_word_space_7 | news knock engine order glide town behave |  
 | bip_39_word_space_8 | news knock engine order glide town behave bring |  
 | bip_39_word_space_9 | news knock engine order glide town behave bring alley |  
+| bip_39_word_underscore_1 | news |  
+| bip_39_word_underscore_10 | news_knock_engine_order_glide_town_behave_bring_alley_arrange |  
+| bip_39_word_underscore_11 | news_knock_engine_order_glide_town_behave_bring_alley_arrange_like |  
+| bip_39_word_underscore_12 | news_knock_engine_order_glide_town_behave_bring_alley_arrange_like_account |  
+| bip_39_word_underscore_2 | news_knock |  
+| bip_39_word_underscore_3 | news_knock_engine |  
+| bip_39_word_underscore_4 | news_knock_engine_order |  
+| bip_39_word_underscore_5 | news_knock_engine_order_glide |  
+| bip_39_word_underscore_6 | news_knock_engine_order_glide_town |  
+| bip_39_word_underscore_7 | news_knock_engine_order_glide_town_behave |  
+| bip_39_word_underscore_8 | news_knock_engine_order_glide_town_behave_bring |  
+| bip_39_word_underscore_9 | news_knock_engine_order_glide_town_behave_bring_alley |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

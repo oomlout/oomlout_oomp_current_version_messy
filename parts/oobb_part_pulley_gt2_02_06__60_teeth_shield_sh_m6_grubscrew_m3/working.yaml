@@ -1,3 +1,15 @@
+bip_39_word_dash_1: burst
+bip_39_word_dash_10: burst-goddess-junk-fee-spike-nuclear-behave-jungle-panel-fuel
+bip_39_word_dash_11: burst-goddess-junk-fee-spike-nuclear-behave-jungle-panel-fuel-depart
+bip_39_word_dash_12: burst-goddess-junk-fee-spike-nuclear-behave-jungle-panel-fuel-depart-admit
+bip_39_word_dash_2: burst-goddess
+bip_39_word_dash_3: burst-goddess-junk
+bip_39_word_dash_4: burst-goddess-junk-fee
+bip_39_word_dash_5: burst-goddess-junk-fee-spike
+bip_39_word_dash_6: burst-goddess-junk-fee-spike-nuclear
+bip_39_word_dash_7: burst-goddess-junk-fee-spike-nuclear-behave
+bip_39_word_dash_8: burst-goddess-junk-fee-spike-nuclear-behave-jungle
+bip_39_word_dash_9: burst-goddess-junk-fee-spike-nuclear-behave-jungle-panel
 bip_39_word_new_br_1: burst
 bip_39_word_new_br_10: burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle<br>panel<br>fuel
 bip_39_word_new_br_11: burst<br>goddess<br>junk<br>fee<br>spike<br>nuclear<br>behave<br>jungle<br>panel<br>fuel<br>depart
@@ -193,6 +205,18 @@ bip_39_word_space_6: burst goddess junk fee spike nuclear
 bip_39_word_space_7: burst goddess junk fee spike nuclear behave
 bip_39_word_space_8: burst goddess junk fee spike nuclear behave jungle
 bip_39_word_space_9: burst goddess junk fee spike nuclear behave jungle panel
+bip_39_word_underscore_1: burst
+bip_39_word_underscore_10: burst_goddess_junk_fee_spike_nuclear_behave_jungle_panel_fuel
+bip_39_word_underscore_11: burst_goddess_junk_fee_spike_nuclear_behave_jungle_panel_fuel_depart
+bip_39_word_underscore_12: burst_goddess_junk_fee_spike_nuclear_behave_jungle_panel_fuel_depart_admit
+bip_39_word_underscore_2: burst_goddess
+bip_39_word_underscore_3: burst_goddess_junk
+bip_39_word_underscore_4: burst_goddess_junk_fee
+bip_39_word_underscore_5: burst_goddess_junk_fee_spike
+bip_39_word_underscore_6: burst_goddess_junk_fee_spike_nuclear
+bip_39_word_underscore_7: burst_goddess_junk_fee_spike_nuclear_behave
+bip_39_word_underscore_8: burst_goddess_junk_fee_spike_nuclear_behave_jungle
+bip_39_word_underscore_9: burst_goddess_junk_fee_spike_nuclear_behave_jungle_panel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

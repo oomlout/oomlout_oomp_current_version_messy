@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | staff |  
+| bip_39_word_dash_10 | staff-rent-celery-pioneer-either-bid-kite-supreme-broken-price |  
+| bip_39_word_dash_11 | staff-rent-celery-pioneer-either-bid-kite-supreme-broken-price-inner |  
+| bip_39_word_dash_12 | staff-rent-celery-pioneer-either-bid-kite-supreme-broken-price-inner-around |  
+| bip_39_word_dash_2 | staff-rent |  
+| bip_39_word_dash_3 | staff-rent-celery |  
+| bip_39_word_dash_4 | staff-rent-celery-pioneer |  
+| bip_39_word_dash_5 | staff-rent-celery-pioneer-either |  
+| bip_39_word_dash_6 | staff-rent-celery-pioneer-either-bid |  
+| bip_39_word_dash_7 | staff-rent-celery-pioneer-either-bid-kite |  
+| bip_39_word_dash_8 | staff-rent-celery-pioneer-either-bid-kite-supreme |  
+| bip_39_word_dash_9 | staff-rent-celery-pioneer-either-bid-kite-supreme-broken |  
 | bip_39_word_new_br_1 | staff |  
 | bip_39_word_new_br_10 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price |  
 | bip_39_word_new_br_11 | staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price<br>inner |  
@@ -147,6 +159,18 @@ broken |
 | bip_39_word_space_7 | staff rent celery pioneer either bid kite |  
 | bip_39_word_space_8 | staff rent celery pioneer either bid kite supreme |  
 | bip_39_word_space_9 | staff rent celery pioneer either bid kite supreme broken |  
+| bip_39_word_underscore_1 | staff |  
+| bip_39_word_underscore_10 | staff_rent_celery_pioneer_either_bid_kite_supreme_broken_price |  
+| bip_39_word_underscore_11 | staff_rent_celery_pioneer_either_bid_kite_supreme_broken_price_inner |  
+| bip_39_word_underscore_12 | staff_rent_celery_pioneer_either_bid_kite_supreme_broken_price_inner_around |  
+| bip_39_word_underscore_2 | staff_rent |  
+| bip_39_word_underscore_3 | staff_rent_celery |  
+| bip_39_word_underscore_4 | staff_rent_celery_pioneer |  
+| bip_39_word_underscore_5 | staff_rent_celery_pioneer_either |  
+| bip_39_word_underscore_6 | staff_rent_celery_pioneer_either_bid |  
+| bip_39_word_underscore_7 | staff_rent_celery_pioneer_either_bid_kite |  
+| bip_39_word_underscore_8 | staff_rent_celery_pioneer_either_bid_kite_supreme |  
+| bip_39_word_underscore_9 | staff_rent_celery_pioneer_either_bid_kite_supreme_broken |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

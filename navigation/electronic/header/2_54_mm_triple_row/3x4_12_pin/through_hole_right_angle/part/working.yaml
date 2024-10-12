@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sort
+bip_39_word_dash_10: sort-pledge-later-story-alone-table-neutral-staff-forward-convince
+bip_39_word_dash_11: sort-pledge-later-story-alone-table-neutral-staff-forward-convince-visual
+bip_39_word_dash_12: sort-pledge-later-story-alone-table-neutral-staff-forward-convince-visual-age
+bip_39_word_dash_2: sort-pledge
+bip_39_word_dash_3: sort-pledge-later
+bip_39_word_dash_4: sort-pledge-later-story
+bip_39_word_dash_5: sort-pledge-later-story-alone
+bip_39_word_dash_6: sort-pledge-later-story-alone-table
+bip_39_word_dash_7: sort-pledge-later-story-alone-table-neutral
+bip_39_word_dash_8: sort-pledge-later-story-alone-table-neutral-staff
+bip_39_word_dash_9: sort-pledge-later-story-alone-table-neutral-staff-forward
 bip_39_word_new_br_1: sort
 bip_39_word_new_br_10: sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince
 bip_39_word_new_br_11: sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince<br>visual
@@ -193,6 +205,18 @@ bip_39_word_space_6: sort pledge later story alone table
 bip_39_word_space_7: sort pledge later story alone table neutral
 bip_39_word_space_8: sort pledge later story alone table neutral staff
 bip_39_word_space_9: sort pledge later story alone table neutral staff forward
+bip_39_word_underscore_1: sort
+bip_39_word_underscore_10: sort_pledge_later_story_alone_table_neutral_staff_forward_convince
+bip_39_word_underscore_11: sort_pledge_later_story_alone_table_neutral_staff_forward_convince_visual
+bip_39_word_underscore_12: sort_pledge_later_story_alone_table_neutral_staff_forward_convince_visual_age
+bip_39_word_underscore_2: sort_pledge
+bip_39_word_underscore_3: sort_pledge_later
+bip_39_word_underscore_4: sort_pledge_later_story
+bip_39_word_underscore_5: sort_pledge_later_story_alone
+bip_39_word_underscore_6: sort_pledge_later_story_alone_table
+bip_39_word_underscore_7: sort_pledge_later_story_alone_table_neutral
+bip_39_word_underscore_8: sort_pledge_later_story_alone_table_neutral_staff
+bip_39_word_underscore_9: sort_pledge_later_story_alone_table_neutral_staff_forward
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

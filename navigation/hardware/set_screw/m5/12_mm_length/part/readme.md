@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wrestle |  
+| bip_39_word_dash_10 | wrestle-valve-home-sustain-where-warfare-under-summer-kiss-much |  
+| bip_39_word_dash_11 | wrestle-valve-home-sustain-where-warfare-under-summer-kiss-much-velvet |  
+| bip_39_word_dash_12 | wrestle-valve-home-sustain-where-warfare-under-summer-kiss-much-velvet-athlete |  
+| bip_39_word_dash_2 | wrestle-valve |  
+| bip_39_word_dash_3 | wrestle-valve-home |  
+| bip_39_word_dash_4 | wrestle-valve-home-sustain |  
+| bip_39_word_dash_5 | wrestle-valve-home-sustain-where |  
+| bip_39_word_dash_6 | wrestle-valve-home-sustain-where-warfare |  
+| bip_39_word_dash_7 | wrestle-valve-home-sustain-where-warfare-under |  
+| bip_39_word_dash_8 | wrestle-valve-home-sustain-where-warfare-under-summer |  
+| bip_39_word_dash_9 | wrestle-valve-home-sustain-where-warfare-under-summer-kiss |  
 | bip_39_word_new_br_1 | wrestle |  
 | bip_39_word_new_br_10 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much |  
 | bip_39_word_new_br_11 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much<br>velvet |  
@@ -147,6 +159,18 @@ kiss |
 | bip_39_word_space_7 | wrestle valve home sustain where warfare under |  
 | bip_39_word_space_8 | wrestle valve home sustain where warfare under summer |  
 | bip_39_word_space_9 | wrestle valve home sustain where warfare under summer kiss |  
+| bip_39_word_underscore_1 | wrestle |  
+| bip_39_word_underscore_10 | wrestle_valve_home_sustain_where_warfare_under_summer_kiss_much |  
+| bip_39_word_underscore_11 | wrestle_valve_home_sustain_where_warfare_under_summer_kiss_much_velvet |  
+| bip_39_word_underscore_12 | wrestle_valve_home_sustain_where_warfare_under_summer_kiss_much_velvet_athlete |  
+| bip_39_word_underscore_2 | wrestle_valve |  
+| bip_39_word_underscore_3 | wrestle_valve_home |  
+| bip_39_word_underscore_4 | wrestle_valve_home_sustain |  
+| bip_39_word_underscore_5 | wrestle_valve_home_sustain_where |  
+| bip_39_word_underscore_6 | wrestle_valve_home_sustain_where_warfare |  
+| bip_39_word_underscore_7 | wrestle_valve_home_sustain_where_warfare_under |  
+| bip_39_word_underscore_8 | wrestle_valve_home_sustain_where_warfare_under_summer |  
+| bip_39_word_underscore_9 | wrestle_valve_home_sustain_where_warfare_under_summer_kiss |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

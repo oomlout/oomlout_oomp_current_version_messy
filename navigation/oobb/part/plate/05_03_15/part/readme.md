@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | survey |  
+| bip_39_word_dash_10 | survey-brush-copper-payment-oil-lion-receive-tooth-between-bulb |  
+| bip_39_word_dash_11 | survey-brush-copper-payment-oil-lion-receive-tooth-between-bulb-play |  
+| bip_39_word_dash_12 | survey-brush-copper-payment-oil-lion-receive-tooth-between-bulb-play-animal |  
+| bip_39_word_dash_2 | survey-brush |  
+| bip_39_word_dash_3 | survey-brush-copper |  
+| bip_39_word_dash_4 | survey-brush-copper-payment |  
+| bip_39_word_dash_5 | survey-brush-copper-payment-oil |  
+| bip_39_word_dash_6 | survey-brush-copper-payment-oil-lion |  
+| bip_39_word_dash_7 | survey-brush-copper-payment-oil-lion-receive |  
+| bip_39_word_dash_8 | survey-brush-copper-payment-oil-lion-receive-tooth |  
+| bip_39_word_dash_9 | survey-brush-copper-payment-oil-lion-receive-tooth-between |  
 | bip_39_word_new_br_1 | survey |  
 | bip_39_word_new_br_10 | survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth<br>between<br>bulb |  
 | bip_39_word_new_br_11 | survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth<br>between<br>bulb<br>play |  
@@ -147,6 +159,18 @@ between |
 | bip_39_word_space_7 | survey brush copper payment oil lion receive |  
 | bip_39_word_space_8 | survey brush copper payment oil lion receive tooth |  
 | bip_39_word_space_9 | survey brush copper payment oil lion receive tooth between |  
+| bip_39_word_underscore_1 | survey |  
+| bip_39_word_underscore_10 | survey_brush_copper_payment_oil_lion_receive_tooth_between_bulb |  
+| bip_39_word_underscore_11 | survey_brush_copper_payment_oil_lion_receive_tooth_between_bulb_play |  
+| bip_39_word_underscore_12 | survey_brush_copper_payment_oil_lion_receive_tooth_between_bulb_play_animal |  
+| bip_39_word_underscore_2 | survey_brush |  
+| bip_39_word_underscore_3 | survey_brush_copper |  
+| bip_39_word_underscore_4 | survey_brush_copper_payment |  
+| bip_39_word_underscore_5 | survey_brush_copper_payment_oil |  
+| bip_39_word_underscore_6 | survey_brush_copper_payment_oil_lion |  
+| bip_39_word_underscore_7 | survey_brush_copper_payment_oil_lion_receive |  
+| bip_39_word_underscore_8 | survey_brush_copper_payment_oil_lion_receive_tooth |  
+| bip_39_word_underscore_9 | survey_brush_copper_payment_oil_lion_receive_tooth_between |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

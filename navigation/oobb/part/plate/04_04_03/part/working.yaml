@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cruel
+bip_39_word_dash_10: cruel-mad-improve-shed-clever-height-bar-decade-stable-time
+bip_39_word_dash_11: cruel-mad-improve-shed-clever-height-bar-decade-stable-time-wood
+bip_39_word_dash_12: cruel-mad-improve-shed-clever-height-bar-decade-stable-time-wood-attend
+bip_39_word_dash_2: cruel-mad
+bip_39_word_dash_3: cruel-mad-improve
+bip_39_word_dash_4: cruel-mad-improve-shed
+bip_39_word_dash_5: cruel-mad-improve-shed-clever
+bip_39_word_dash_6: cruel-mad-improve-shed-clever-height
+bip_39_word_dash_7: cruel-mad-improve-shed-clever-height-bar
+bip_39_word_dash_8: cruel-mad-improve-shed-clever-height-bar-decade
+bip_39_word_dash_9: cruel-mad-improve-shed-clever-height-bar-decade-stable
 bip_39_word_new_br_1: cruel
 bip_39_word_new_br_10: cruel<br>mad<br>improve<br>shed<br>clever<br>height<br>bar<br>decade<br>stable<br>time
 bip_39_word_new_br_11: cruel<br>mad<br>improve<br>shed<br>clever<br>height<br>bar<br>decade<br>stable<br>time<br>wood
@@ -193,6 +205,18 @@ bip_39_word_space_6: cruel mad improve shed clever height
 bip_39_word_space_7: cruel mad improve shed clever height bar
 bip_39_word_space_8: cruel mad improve shed clever height bar decade
 bip_39_word_space_9: cruel mad improve shed clever height bar decade stable
+bip_39_word_underscore_1: cruel
+bip_39_word_underscore_10: cruel_mad_improve_shed_clever_height_bar_decade_stable_time
+bip_39_word_underscore_11: cruel_mad_improve_shed_clever_height_bar_decade_stable_time_wood
+bip_39_word_underscore_12: cruel_mad_improve_shed_clever_height_bar_decade_stable_time_wood_attend
+bip_39_word_underscore_2: cruel_mad
+bip_39_word_underscore_3: cruel_mad_improve
+bip_39_word_underscore_4: cruel_mad_improve_shed
+bip_39_word_underscore_5: cruel_mad_improve_shed_clever
+bip_39_word_underscore_6: cruel_mad_improve_shed_clever_height
+bip_39_word_underscore_7: cruel_mad_improve_shed_clever_height_bar
+bip_39_word_underscore_8: cruel_mad_improve_shed_clever_height_bar_decade
+bip_39_word_underscore_9: cruel_mad_improve_shed_clever_height_bar_decade_stable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

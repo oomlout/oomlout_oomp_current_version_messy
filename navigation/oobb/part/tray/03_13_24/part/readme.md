@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | day |  
+| bip_39_word_dash_10 | day-mountain-hero-wealth-benefit-clump-check-burst-feature-shoulder |  
+| bip_39_word_dash_11 | day-mountain-hero-wealth-benefit-clump-check-burst-feature-shoulder-other |  
+| bip_39_word_dash_2 | day-mountain |  
+| bip_39_word_dash_3 | day-mountain-hero |  
+| bip_39_word_dash_4 | day-mountain-hero-wealth |  
+| bip_39_word_dash_5 | day-mountain-hero-wealth-benefit |  
+| bip_39_word_dash_6 | day-mountain-hero-wealth-benefit-clump |  
+| bip_39_word_dash_7 | day-mountain-hero-wealth-benefit-clump-check |  
+| bip_39_word_dash_8 | day-mountain-hero-wealth-benefit-clump-check-burst |  
+| bip_39_word_dash_9 | day-mountain-hero-wealth-benefit-clump-check-burst-feature |  
 | bip_39_word_new_br_1 | day |  
 | bip_39_word_new_br_10 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature<br>shoulder |  
 | bip_39_word_new_br_11 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature<br>shoulder<br>other |  
@@ -132,6 +143,17 @@ feature |
 | bip_39_word_space_7 | day mountain hero wealth benefit clump check |  
 | bip_39_word_space_8 | day mountain hero wealth benefit clump check burst |  
 | bip_39_word_space_9 | day mountain hero wealth benefit clump check burst feature |  
+| bip_39_word_underscore_1 | day |  
+| bip_39_word_underscore_10 | day_mountain_hero_wealth_benefit_clump_check_burst_feature_shoulder |  
+| bip_39_word_underscore_11 | day_mountain_hero_wealth_benefit_clump_check_burst_feature_shoulder_other |  
+| bip_39_word_underscore_2 | day_mountain |  
+| bip_39_word_underscore_3 | day_mountain_hero |  
+| bip_39_word_underscore_4 | day_mountain_hero_wealth |  
+| bip_39_word_underscore_5 | day_mountain_hero_wealth_benefit |  
+| bip_39_word_underscore_6 | day_mountain_hero_wealth_benefit_clump |  
+| bip_39_word_underscore_7 | day_mountain_hero_wealth_benefit_clump_check |  
+| bip_39_word_underscore_8 | day_mountain_hero_wealth_benefit_clump_check_burst |  
+| bip_39_word_underscore_9 | day_mountain_hero_wealth_benefit_clump_check_burst_feature |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flat
+bip_39_word_dash_10: flat-deer-grief-embrace-wheel-tenant-black-lottery-cat-believe
+bip_39_word_dash_11: flat-deer-grief-embrace-wheel-tenant-black-lottery-cat-believe-hint
+bip_39_word_dash_12: flat-deer-grief-embrace-wheel-tenant-black-lottery-cat-believe-hint-amazing
+bip_39_word_dash_2: flat-deer
+bip_39_word_dash_3: flat-deer-grief
+bip_39_word_dash_4: flat-deer-grief-embrace
+bip_39_word_dash_5: flat-deer-grief-embrace-wheel
+bip_39_word_dash_6: flat-deer-grief-embrace-wheel-tenant
+bip_39_word_dash_7: flat-deer-grief-embrace-wheel-tenant-black
+bip_39_word_dash_8: flat-deer-grief-embrace-wheel-tenant-black-lottery
+bip_39_word_dash_9: flat-deer-grief-embrace-wheel-tenant-black-lottery-cat
 bip_39_word_new_br_1: flat
 bip_39_word_new_br_10: flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery<br>cat<br>believe
 bip_39_word_new_br_11: flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery<br>cat<br>believe<br>hint
@@ -193,6 +205,18 @@ bip_39_word_space_6: flat deer grief embrace wheel tenant
 bip_39_word_space_7: flat deer grief embrace wheel tenant black
 bip_39_word_space_8: flat deer grief embrace wheel tenant black lottery
 bip_39_word_space_9: flat deer grief embrace wheel tenant black lottery cat
+bip_39_word_underscore_1: flat
+bip_39_word_underscore_10: flat_deer_grief_embrace_wheel_tenant_black_lottery_cat_believe
+bip_39_word_underscore_11: flat_deer_grief_embrace_wheel_tenant_black_lottery_cat_believe_hint
+bip_39_word_underscore_12: flat_deer_grief_embrace_wheel_tenant_black_lottery_cat_believe_hint_amazing
+bip_39_word_underscore_2: flat_deer
+bip_39_word_underscore_3: flat_deer_grief
+bip_39_word_underscore_4: flat_deer_grief_embrace
+bip_39_word_underscore_5: flat_deer_grief_embrace_wheel
+bip_39_word_underscore_6: flat_deer_grief_embrace_wheel_tenant
+bip_39_word_underscore_7: flat_deer_grief_embrace_wheel_tenant_black
+bip_39_word_underscore_8: flat_deer_grief_embrace_wheel_tenant_black_lottery
+bip_39_word_underscore_9: flat_deer_grief_embrace_wheel_tenant_black_lottery_cat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

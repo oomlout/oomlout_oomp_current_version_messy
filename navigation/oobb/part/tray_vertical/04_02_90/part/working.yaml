@@ -1,3 +1,15 @@
+bip_39_word_dash_1: west
+bip_39_word_dash_10: west-digital-juice-float-joke-student-cannon-boost-purity-crisp
+bip_39_word_dash_11: west-digital-juice-float-joke-student-cannon-boost-purity-crisp-sketch
+bip_39_word_dash_12: west-digital-juice-float-joke-student-cannon-boost-purity-crisp-sketch-also
+bip_39_word_dash_2: west-digital
+bip_39_word_dash_3: west-digital-juice
+bip_39_word_dash_4: west-digital-juice-float
+bip_39_word_dash_5: west-digital-juice-float-joke
+bip_39_word_dash_6: west-digital-juice-float-joke-student
+bip_39_word_dash_7: west-digital-juice-float-joke-student-cannon
+bip_39_word_dash_8: west-digital-juice-float-joke-student-cannon-boost
+bip_39_word_dash_9: west-digital-juice-float-joke-student-cannon-boost-purity
 bip_39_word_new_br_1: west
 bip_39_word_new_br_10: west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost<br>purity<br>crisp
 bip_39_word_new_br_11: west<br>digital<br>juice<br>float<br>joke<br>student<br>cannon<br>boost<br>purity<br>crisp<br>sketch
@@ -193,6 +205,18 @@ bip_39_word_space_6: west digital juice float joke student
 bip_39_word_space_7: west digital juice float joke student cannon
 bip_39_word_space_8: west digital juice float joke student cannon boost
 bip_39_word_space_9: west digital juice float joke student cannon boost purity
+bip_39_word_underscore_1: west
+bip_39_word_underscore_10: west_digital_juice_float_joke_student_cannon_boost_purity_crisp
+bip_39_word_underscore_11: west_digital_juice_float_joke_student_cannon_boost_purity_crisp_sketch
+bip_39_word_underscore_12: west_digital_juice_float_joke_student_cannon_boost_purity_crisp_sketch_also
+bip_39_word_underscore_2: west_digital
+bip_39_word_underscore_3: west_digital_juice
+bip_39_word_underscore_4: west_digital_juice_float
+bip_39_word_underscore_5: west_digital_juice_float_joke
+bip_39_word_underscore_6: west_digital_juice_float_joke_student
+bip_39_word_underscore_7: west_digital_juice_float_joke_student_cannon
+bip_39_word_underscore_8: west_digital_juice_float_joke_student_cannon_boost
+bip_39_word_underscore_9: west_digital_juice_float_joke_student_cannon_boost_purity
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

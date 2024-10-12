@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cook |  
+| bip_39_word_dash_10 | cook-legal-skill-notable-retire-outer-cattle-toward-primary-twice |  
+| bip_39_word_dash_11 | cook-legal-skill-notable-retire-outer-cattle-toward-primary-twice-devote |  
+| bip_39_word_dash_12 | cook-legal-skill-notable-retire-outer-cattle-toward-primary-twice-devote-again |  
+| bip_39_word_dash_2 | cook-legal |  
+| bip_39_word_dash_3 | cook-legal-skill |  
+| bip_39_word_dash_4 | cook-legal-skill-notable |  
+| bip_39_word_dash_5 | cook-legal-skill-notable-retire |  
+| bip_39_word_dash_6 | cook-legal-skill-notable-retire-outer |  
+| bip_39_word_dash_7 | cook-legal-skill-notable-retire-outer-cattle |  
+| bip_39_word_dash_8 | cook-legal-skill-notable-retire-outer-cattle-toward |  
+| bip_39_word_dash_9 | cook-legal-skill-notable-retire-outer-cattle-toward-primary |  
 | bip_39_word_new_br_1 | cook |  
 | bip_39_word_new_br_10 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward<br>primary<br>twice |  
 | bip_39_word_new_br_11 | cook<br>legal<br>skill<br>notable<br>retire<br>outer<br>cattle<br>toward<br>primary<br>twice<br>devote |  
@@ -147,6 +159,18 @@ primary |
 | bip_39_word_space_7 | cook legal skill notable retire outer cattle |  
 | bip_39_word_space_8 | cook legal skill notable retire outer cattle toward |  
 | bip_39_word_space_9 | cook legal skill notable retire outer cattle toward primary |  
+| bip_39_word_underscore_1 | cook |  
+| bip_39_word_underscore_10 | cook_legal_skill_notable_retire_outer_cattle_toward_primary_twice |  
+| bip_39_word_underscore_11 | cook_legal_skill_notable_retire_outer_cattle_toward_primary_twice_devote |  
+| bip_39_word_underscore_12 | cook_legal_skill_notable_retire_outer_cattle_toward_primary_twice_devote_again |  
+| bip_39_word_underscore_2 | cook_legal |  
+| bip_39_word_underscore_3 | cook_legal_skill |  
+| bip_39_word_underscore_4 | cook_legal_skill_notable |  
+| bip_39_word_underscore_5 | cook_legal_skill_notable_retire |  
+| bip_39_word_underscore_6 | cook_legal_skill_notable_retire_outer |  
+| bip_39_word_underscore_7 | cook_legal_skill_notable_retire_outer_cattle |  
+| bip_39_word_underscore_8 | cook_legal_skill_notable_retire_outer_cattle_toward |  
+| bip_39_word_underscore_9 | cook_legal_skill_notable_retire_outer_cattle_toward_primary |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

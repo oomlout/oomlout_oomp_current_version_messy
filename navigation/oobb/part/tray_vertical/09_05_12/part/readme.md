@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | green |  
+| bip_39_word_dash_10 | green-can-coach-wheel-culture-push-wise-book-company-scatter |  
+| bip_39_word_dash_11 | green-can-coach-wheel-culture-push-wise-book-company-scatter-crawl |  
+| bip_39_word_dash_12 | green-can-coach-wheel-culture-push-wise-book-company-scatter-crawl-atom |  
+| bip_39_word_dash_2 | green-can |  
+| bip_39_word_dash_3 | green-can-coach |  
+| bip_39_word_dash_4 | green-can-coach-wheel |  
+| bip_39_word_dash_5 | green-can-coach-wheel-culture |  
+| bip_39_word_dash_6 | green-can-coach-wheel-culture-push |  
+| bip_39_word_dash_7 | green-can-coach-wheel-culture-push-wise |  
+| bip_39_word_dash_8 | green-can-coach-wheel-culture-push-wise-book |  
+| bip_39_word_dash_9 | green-can-coach-wheel-culture-push-wise-book-company |  
 | bip_39_word_new_br_1 | green |  
 | bip_39_word_new_br_10 | green<br>can<br>coach<br>wheel<br>culture<br>push<br>wise<br>book<br>company<br>scatter |  
 | bip_39_word_new_br_11 | green<br>can<br>coach<br>wheel<br>culture<br>push<br>wise<br>book<br>company<br>scatter<br>crawl |  
@@ -147,6 +159,18 @@ company |
 | bip_39_word_space_7 | green can coach wheel culture push wise |  
 | bip_39_word_space_8 | green can coach wheel culture push wise book |  
 | bip_39_word_space_9 | green can coach wheel culture push wise book company |  
+| bip_39_word_underscore_1 | green |  
+| bip_39_word_underscore_10 | green_can_coach_wheel_culture_push_wise_book_company_scatter |  
+| bip_39_word_underscore_11 | green_can_coach_wheel_culture_push_wise_book_company_scatter_crawl |  
+| bip_39_word_underscore_12 | green_can_coach_wheel_culture_push_wise_book_company_scatter_crawl_atom |  
+| bip_39_word_underscore_2 | green_can |  
+| bip_39_word_underscore_3 | green_can_coach |  
+| bip_39_word_underscore_4 | green_can_coach_wheel |  
+| bip_39_word_underscore_5 | green_can_coach_wheel_culture |  
+| bip_39_word_underscore_6 | green_can_coach_wheel_culture_push |  
+| bip_39_word_underscore_7 | green_can_coach_wheel_culture_push_wise |  
+| bip_39_word_underscore_8 | green_can_coach_wheel_culture_push_wise_book |  
+| bip_39_word_underscore_9 | green_can_coach_wheel_culture_push_wise_book_company |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

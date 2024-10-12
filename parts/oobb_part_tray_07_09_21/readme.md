@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | select |  
+| bip_39_word_dash_10 | select-sight-swap-strike-divorce-item-ski-era-build-final |  
+| bip_39_word_dash_11 | select-sight-swap-strike-divorce-item-ski-era-build-final-hollow |  
+| bip_39_word_dash_12 | select-sight-swap-strike-divorce-item-ski-era-build-final-hollow-among |  
+| bip_39_word_dash_2 | select-sight |  
+| bip_39_word_dash_3 | select-sight-swap |  
+| bip_39_word_dash_4 | select-sight-swap-strike |  
+| bip_39_word_dash_5 | select-sight-swap-strike-divorce |  
+| bip_39_word_dash_6 | select-sight-swap-strike-divorce-item |  
+| bip_39_word_dash_7 | select-sight-swap-strike-divorce-item-ski |  
+| bip_39_word_dash_8 | select-sight-swap-strike-divorce-item-ski-era |  
+| bip_39_word_dash_9 | select-sight-swap-strike-divorce-item-ski-era-build |  
 | bip_39_word_new_br_1 | select |  
 | bip_39_word_new_br_10 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era<br>build<br>final |  
 | bip_39_word_new_br_11 | select<br>sight<br>swap<br>strike<br>divorce<br>item<br>ski<br>era<br>build<br>final<br>hollow |  
@@ -147,6 +159,18 @@ build |
 | bip_39_word_space_7 | select sight swap strike divorce item ski |  
 | bip_39_word_space_8 | select sight swap strike divorce item ski era |  
 | bip_39_word_space_9 | select sight swap strike divorce item ski era build |  
+| bip_39_word_underscore_1 | select |  
+| bip_39_word_underscore_10 | select_sight_swap_strike_divorce_item_ski_era_build_final |  
+| bip_39_word_underscore_11 | select_sight_swap_strike_divorce_item_ski_era_build_final_hollow |  
+| bip_39_word_underscore_12 | select_sight_swap_strike_divorce_item_ski_era_build_final_hollow_among |  
+| bip_39_word_underscore_2 | select_sight |  
+| bip_39_word_underscore_3 | select_sight_swap |  
+| bip_39_word_underscore_4 | select_sight_swap_strike |  
+| bip_39_word_underscore_5 | select_sight_swap_strike_divorce |  
+| bip_39_word_underscore_6 | select_sight_swap_strike_divorce_item |  
+| bip_39_word_underscore_7 | select_sight_swap_strike_divorce_item_ski |  
+| bip_39_word_underscore_8 | select_sight_swap_strike_divorce_item_ski_era |  
+| bip_39_word_underscore_9 | select_sight_swap_strike_divorce_item_ski_era_build |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

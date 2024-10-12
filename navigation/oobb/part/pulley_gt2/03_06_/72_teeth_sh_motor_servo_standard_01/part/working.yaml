@@ -1,3 +1,15 @@
+bip_39_word_dash_1: voice
+bip_39_word_dash_10: voice-seek-offer-uniform-obvious-swim-occur-boost-sick-dolphin
+bip_39_word_dash_11: voice-seek-offer-uniform-obvious-swim-occur-boost-sick-dolphin-auction
+bip_39_word_dash_12: voice-seek-offer-uniform-obvious-swim-occur-boost-sick-dolphin-auction-any
+bip_39_word_dash_2: voice-seek
+bip_39_word_dash_3: voice-seek-offer
+bip_39_word_dash_4: voice-seek-offer-uniform
+bip_39_word_dash_5: voice-seek-offer-uniform-obvious
+bip_39_word_dash_6: voice-seek-offer-uniform-obvious-swim
+bip_39_word_dash_7: voice-seek-offer-uniform-obvious-swim-occur
+bip_39_word_dash_8: voice-seek-offer-uniform-obvious-swim-occur-boost
+bip_39_word_dash_9: voice-seek-offer-uniform-obvious-swim-occur-boost-sick
 bip_39_word_new_br_1: voice
 bip_39_word_new_br_10: voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin
 bip_39_word_new_br_11: voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin<br>auction
@@ -193,6 +205,18 @@ bip_39_word_space_6: voice seek offer uniform obvious swim
 bip_39_word_space_7: voice seek offer uniform obvious swim occur
 bip_39_word_space_8: voice seek offer uniform obvious swim occur boost
 bip_39_word_space_9: voice seek offer uniform obvious swim occur boost sick
+bip_39_word_underscore_1: voice
+bip_39_word_underscore_10: voice_seek_offer_uniform_obvious_swim_occur_boost_sick_dolphin
+bip_39_word_underscore_11: voice_seek_offer_uniform_obvious_swim_occur_boost_sick_dolphin_auction
+bip_39_word_underscore_12: voice_seek_offer_uniform_obvious_swim_occur_boost_sick_dolphin_auction_any
+bip_39_word_underscore_2: voice_seek
+bip_39_word_underscore_3: voice_seek_offer
+bip_39_word_underscore_4: voice_seek_offer_uniform
+bip_39_word_underscore_5: voice_seek_offer_uniform_obvious
+bip_39_word_underscore_6: voice_seek_offer_uniform_obvious_swim
+bip_39_word_underscore_7: voice_seek_offer_uniform_obvious_swim_occur
+bip_39_word_underscore_8: voice_seek_offer_uniform_obvious_swim_occur_boost
+bip_39_word_underscore_9: voice_seek_offer_uniform_obvious_swim_occur_boost_sick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

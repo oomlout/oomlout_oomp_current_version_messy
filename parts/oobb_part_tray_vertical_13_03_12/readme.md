@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dumb |  
+| bip_39_word_dash_10 | dumb-tower-gold-sentence-success-card-snack-special-left-deny |  
+| bip_39_word_dash_11 | dumb-tower-gold-sentence-success-card-snack-special-left-deny-try |  
+| bip_39_word_dash_12 | dumb-tower-gold-sentence-success-card-snack-special-left-deny-try-amateur |  
+| bip_39_word_dash_2 | dumb-tower |  
+| bip_39_word_dash_3 | dumb-tower-gold |  
+| bip_39_word_dash_4 | dumb-tower-gold-sentence |  
+| bip_39_word_dash_5 | dumb-tower-gold-sentence-success |  
+| bip_39_word_dash_6 | dumb-tower-gold-sentence-success-card |  
+| bip_39_word_dash_7 | dumb-tower-gold-sentence-success-card-snack |  
+| bip_39_word_dash_8 | dumb-tower-gold-sentence-success-card-snack-special |  
+| bip_39_word_dash_9 | dumb-tower-gold-sentence-success-card-snack-special-left |  
 | bip_39_word_new_br_1 | dumb |  
 | bip_39_word_new_br_10 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny |  
 | bip_39_word_new_br_11 | dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny<br>try |  
@@ -147,6 +159,18 @@ left |
 | bip_39_word_space_7 | dumb tower gold sentence success card snack |  
 | bip_39_word_space_8 | dumb tower gold sentence success card snack special |  
 | bip_39_word_space_9 | dumb tower gold sentence success card snack special left |  
+| bip_39_word_underscore_1 | dumb |  
+| bip_39_word_underscore_10 | dumb_tower_gold_sentence_success_card_snack_special_left_deny |  
+| bip_39_word_underscore_11 | dumb_tower_gold_sentence_success_card_snack_special_left_deny_try |  
+| bip_39_word_underscore_12 | dumb_tower_gold_sentence_success_card_snack_special_left_deny_try_amateur |  
+| bip_39_word_underscore_2 | dumb_tower |  
+| bip_39_word_underscore_3 | dumb_tower_gold |  
+| bip_39_word_underscore_4 | dumb_tower_gold_sentence |  
+| bip_39_word_underscore_5 | dumb_tower_gold_sentence_success |  
+| bip_39_word_underscore_6 | dumb_tower_gold_sentence_success_card |  
+| bip_39_word_underscore_7 | dumb_tower_gold_sentence_success_card_snack |  
+| bip_39_word_underscore_8 | dumb_tower_gold_sentence_success_card_snack_special |  
+| bip_39_word_underscore_9 | dumb_tower_gold_sentence_success_card_snack_special_left |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

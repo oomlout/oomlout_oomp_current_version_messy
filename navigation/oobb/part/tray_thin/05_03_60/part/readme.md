@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | welcome |  
+| bip_39_word_dash_10 | welcome-inform-access-whisper-priority-address-supply-leisure-response-witness |  
+| bip_39_word_dash_11 | welcome-inform-access-whisper-priority-address-supply-leisure-response-witness-crowd |  
+| bip_39_word_dash_12 | welcome-inform-access-whisper-priority-address-supply-leisure-response-witness-crowd-alley |  
+| bip_39_word_dash_2 | welcome-inform |  
+| bip_39_word_dash_3 | welcome-inform-access |  
+| bip_39_word_dash_4 | welcome-inform-access-whisper |  
+| bip_39_word_dash_5 | welcome-inform-access-whisper-priority |  
+| bip_39_word_dash_6 | welcome-inform-access-whisper-priority-address |  
+| bip_39_word_dash_7 | welcome-inform-access-whisper-priority-address-supply |  
+| bip_39_word_dash_8 | welcome-inform-access-whisper-priority-address-supply-leisure |  
+| bip_39_word_dash_9 | welcome-inform-access-whisper-priority-address-supply-leisure-response |  
 | bip_39_word_new_br_1 | welcome |  
 | bip_39_word_new_br_10 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness |  
 | bip_39_word_new_br_11 | welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness<br>crowd |  
@@ -147,6 +159,18 @@ response |
 | bip_39_word_space_7 | welcome inform access whisper priority address supply |  
 | bip_39_word_space_8 | welcome inform access whisper priority address supply leisure |  
 | bip_39_word_space_9 | welcome inform access whisper priority address supply leisure response |  
+| bip_39_word_underscore_1 | welcome |  
+| bip_39_word_underscore_10 | welcome_inform_access_whisper_priority_address_supply_leisure_response_witness |  
+| bip_39_word_underscore_11 | welcome_inform_access_whisper_priority_address_supply_leisure_response_witness_crowd |  
+| bip_39_word_underscore_12 | welcome_inform_access_whisper_priority_address_supply_leisure_response_witness_crowd_alley |  
+| bip_39_word_underscore_2 | welcome_inform |  
+| bip_39_word_underscore_3 | welcome_inform_access |  
+| bip_39_word_underscore_4 | welcome_inform_access_whisper |  
+| bip_39_word_underscore_5 | welcome_inform_access_whisper_priority |  
+| bip_39_word_underscore_6 | welcome_inform_access_whisper_priority_address |  
+| bip_39_word_underscore_7 | welcome_inform_access_whisper_priority_address_supply |  
+| bip_39_word_underscore_8 | welcome_inform_access_whisper_priority_address_supply_leisure |  
+| bip_39_word_underscore_9 | welcome_inform_access_whisper_priority_address_supply_leisure_response |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

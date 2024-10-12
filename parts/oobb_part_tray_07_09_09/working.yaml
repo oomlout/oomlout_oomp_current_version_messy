@@ -1,3 +1,15 @@
+bip_39_word_dash_1: way
+bip_39_word_dash_10: way-feel-rely-clog-crush-topic-argue-bring-miracle-worry
+bip_39_word_dash_11: way-feel-rely-clog-crush-topic-argue-bring-miracle-worry-only
+bip_39_word_dash_12: way-feel-rely-clog-crush-topic-argue-bring-miracle-worry-only-acoustic
+bip_39_word_dash_2: way-feel
+bip_39_word_dash_3: way-feel-rely
+bip_39_word_dash_4: way-feel-rely-clog
+bip_39_word_dash_5: way-feel-rely-clog-crush
+bip_39_word_dash_6: way-feel-rely-clog-crush-topic
+bip_39_word_dash_7: way-feel-rely-clog-crush-topic-argue
+bip_39_word_dash_8: way-feel-rely-clog-crush-topic-argue-bring
+bip_39_word_dash_9: way-feel-rely-clog-crush-topic-argue-bring-miracle
 bip_39_word_new_br_1: way
 bip_39_word_new_br_10: way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring<br>miracle<br>worry
 bip_39_word_new_br_11: way<br>feel<br>rely<br>clog<br>crush<br>topic<br>argue<br>bring<br>miracle<br>worry<br>only
@@ -192,6 +204,18 @@ bip_39_word_space_6: way feel rely clog crush topic
 bip_39_word_space_7: way feel rely clog crush topic argue
 bip_39_word_space_8: way feel rely clog crush topic argue bring
 bip_39_word_space_9: way feel rely clog crush topic argue bring miracle
+bip_39_word_underscore_1: way
+bip_39_word_underscore_10: way_feel_rely_clog_crush_topic_argue_bring_miracle_worry
+bip_39_word_underscore_11: way_feel_rely_clog_crush_topic_argue_bring_miracle_worry_only
+bip_39_word_underscore_12: way_feel_rely_clog_crush_topic_argue_bring_miracle_worry_only_acoustic
+bip_39_word_underscore_2: way_feel
+bip_39_word_underscore_3: way_feel_rely
+bip_39_word_underscore_4: way_feel_rely_clog
+bip_39_word_underscore_5: way_feel_rely_clog_crush
+bip_39_word_underscore_6: way_feel_rely_clog_crush_topic
+bip_39_word_underscore_7: way_feel_rely_clog_crush_topic_argue
+bip_39_word_underscore_8: way_feel_rely_clog_crush_topic_argue_bring
+bip_39_word_underscore_9: way_feel_rely_clog_crush_topic_argue_bring_miracle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

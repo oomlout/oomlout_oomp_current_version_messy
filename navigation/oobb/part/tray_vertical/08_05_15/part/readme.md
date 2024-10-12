@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | radar |  
+| bip_39_word_dash_10 | radar-enemy-floor-fog-leisure-gold-bike-pelican-cross-calm |  
+| bip_39_word_dash_11 | radar-enemy-floor-fog-leisure-gold-bike-pelican-cross-calm-used |  
+| bip_39_word_dash_12 | radar-enemy-floor-fog-leisure-gold-bike-pelican-cross-calm-used-aerobic |  
+| bip_39_word_dash_2 | radar-enemy |  
+| bip_39_word_dash_3 | radar-enemy-floor |  
+| bip_39_word_dash_4 | radar-enemy-floor-fog |  
+| bip_39_word_dash_5 | radar-enemy-floor-fog-leisure |  
+| bip_39_word_dash_6 | radar-enemy-floor-fog-leisure-gold |  
+| bip_39_word_dash_7 | radar-enemy-floor-fog-leisure-gold-bike |  
+| bip_39_word_dash_8 | radar-enemy-floor-fog-leisure-gold-bike-pelican |  
+| bip_39_word_dash_9 | radar-enemy-floor-fog-leisure-gold-bike-pelican-cross |  
 | bip_39_word_new_br_1 | radar |  
 | bip_39_word_new_br_10 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican<br>cross<br>calm |  
 | bip_39_word_new_br_11 | radar<br>enemy<br>floor<br>fog<br>leisure<br>gold<br>bike<br>pelican<br>cross<br>calm<br>used |  
@@ -147,6 +159,18 @@ cross |
 | bip_39_word_space_7 | radar enemy floor fog leisure gold bike |  
 | bip_39_word_space_8 | radar enemy floor fog leisure gold bike pelican |  
 | bip_39_word_space_9 | radar enemy floor fog leisure gold bike pelican cross |  
+| bip_39_word_underscore_1 | radar |  
+| bip_39_word_underscore_10 | radar_enemy_floor_fog_leisure_gold_bike_pelican_cross_calm |  
+| bip_39_word_underscore_11 | radar_enemy_floor_fog_leisure_gold_bike_pelican_cross_calm_used |  
+| bip_39_word_underscore_12 | radar_enemy_floor_fog_leisure_gold_bike_pelican_cross_calm_used_aerobic |  
+| bip_39_word_underscore_2 | radar_enemy |  
+| bip_39_word_underscore_3 | radar_enemy_floor |  
+| bip_39_word_underscore_4 | radar_enemy_floor_fog |  
+| bip_39_word_underscore_5 | radar_enemy_floor_fog_leisure |  
+| bip_39_word_underscore_6 | radar_enemy_floor_fog_leisure_gold |  
+| bip_39_word_underscore_7 | radar_enemy_floor_fog_leisure_gold_bike |  
+| bip_39_word_underscore_8 | radar_enemy_floor_fog_leisure_gold_bike_pelican |  
+| bip_39_word_underscore_9 | radar_enemy_floor_fog_leisure_gold_bike_pelican_cross |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

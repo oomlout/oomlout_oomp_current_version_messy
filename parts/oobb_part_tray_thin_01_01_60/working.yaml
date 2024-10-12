@@ -1,3 +1,15 @@
+bip_39_word_dash_1: apology
+bip_39_word_dash_10: apology-fashion-model-boss-heart-south-brick-air-strong-dolphin
+bip_39_word_dash_11: apology-fashion-model-boss-heart-south-brick-air-strong-dolphin-hammer
+bip_39_word_dash_12: apology-fashion-model-boss-heart-south-brick-air-strong-dolphin-hammer-angle
+bip_39_word_dash_2: apology-fashion
+bip_39_word_dash_3: apology-fashion-model
+bip_39_word_dash_4: apology-fashion-model-boss
+bip_39_word_dash_5: apology-fashion-model-boss-heart
+bip_39_word_dash_6: apology-fashion-model-boss-heart-south
+bip_39_word_dash_7: apology-fashion-model-boss-heart-south-brick
+bip_39_word_dash_8: apology-fashion-model-boss-heart-south-brick-air
+bip_39_word_dash_9: apology-fashion-model-boss-heart-south-brick-air-strong
 bip_39_word_new_br_1: apology
 bip_39_word_new_br_10: apology<br>fashion<br>model<br>boss<br>heart<br>south<br>brick<br>air<br>strong<br>dolphin
 bip_39_word_new_br_11: apology<br>fashion<br>model<br>boss<br>heart<br>south<br>brick<br>air<br>strong<br>dolphin<br>hammer
@@ -193,6 +205,18 @@ bip_39_word_space_6: apology fashion model boss heart south
 bip_39_word_space_7: apology fashion model boss heart south brick
 bip_39_word_space_8: apology fashion model boss heart south brick air
 bip_39_word_space_9: apology fashion model boss heart south brick air strong
+bip_39_word_underscore_1: apology
+bip_39_word_underscore_10: apology_fashion_model_boss_heart_south_brick_air_strong_dolphin
+bip_39_word_underscore_11: apology_fashion_model_boss_heart_south_brick_air_strong_dolphin_hammer
+bip_39_word_underscore_12: apology_fashion_model_boss_heart_south_brick_air_strong_dolphin_hammer_angle
+bip_39_word_underscore_2: apology_fashion
+bip_39_word_underscore_3: apology_fashion_model
+bip_39_word_underscore_4: apology_fashion_model_boss
+bip_39_word_underscore_5: apology_fashion_model_boss_heart
+bip_39_word_underscore_6: apology_fashion_model_boss_heart_south
+bip_39_word_underscore_7: apology_fashion_model_boss_heart_south_brick
+bip_39_word_underscore_8: apology_fashion_model_boss_heart_south_brick_air
+bip_39_word_underscore_9: apology_fashion_model_boss_heart_south_brick_air_strong
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

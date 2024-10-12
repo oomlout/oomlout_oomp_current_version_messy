@@ -1,3 +1,15 @@
+bip_39_word_dash_1: series
+bip_39_word_dash_10: series-theme-mouse-reform-symbol-awful-pink-best-bean-bamboo
+bip_39_word_dash_11: series-theme-mouse-reform-symbol-awful-pink-best-bean-bamboo-order
+bip_39_word_dash_12: series-theme-mouse-reform-symbol-awful-pink-best-bean-bamboo-order-abuse
+bip_39_word_dash_2: series-theme
+bip_39_word_dash_3: series-theme-mouse
+bip_39_word_dash_4: series-theme-mouse-reform
+bip_39_word_dash_5: series-theme-mouse-reform-symbol
+bip_39_word_dash_6: series-theme-mouse-reform-symbol-awful
+bip_39_word_dash_7: series-theme-mouse-reform-symbol-awful-pink
+bip_39_word_dash_8: series-theme-mouse-reform-symbol-awful-pink-best
+bip_39_word_dash_9: series-theme-mouse-reform-symbol-awful-pink-best-bean
 bip_39_word_new_br_1: series
 bip_39_word_new_br_10: series<br>theme<br>mouse<br>reform<br>symbol<br>awful<br>pink<br>best<br>bean<br>bamboo
 bip_39_word_new_br_11: series<br>theme<br>mouse<br>reform<br>symbol<br>awful<br>pink<br>best<br>bean<br>bamboo<br>order
@@ -193,6 +205,18 @@ bip_39_word_space_6: series theme mouse reform symbol awful
 bip_39_word_space_7: series theme mouse reform symbol awful pink
 bip_39_word_space_8: series theme mouse reform symbol awful pink best
 bip_39_word_space_9: series theme mouse reform symbol awful pink best bean
+bip_39_word_underscore_1: series
+bip_39_word_underscore_10: series_theme_mouse_reform_symbol_awful_pink_best_bean_bamboo
+bip_39_word_underscore_11: series_theme_mouse_reform_symbol_awful_pink_best_bean_bamboo_order
+bip_39_word_underscore_12: series_theme_mouse_reform_symbol_awful_pink_best_bean_bamboo_order_abuse
+bip_39_word_underscore_2: series_theme
+bip_39_word_underscore_3: series_theme_mouse
+bip_39_word_underscore_4: series_theme_mouse_reform
+bip_39_word_underscore_5: series_theme_mouse_reform_symbol
+bip_39_word_underscore_6: series_theme_mouse_reform_symbol_awful
+bip_39_word_underscore_7: series_theme_mouse_reform_symbol_awful_pink
+bip_39_word_underscore_8: series_theme_mouse_reform_symbol_awful_pink_best
+bip_39_word_underscore_9: series_theme_mouse_reform_symbol_awful_pink_best_bean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

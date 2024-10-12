@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chest
+bip_39_word_dash_10: chest-endless-habit-quiz-ready-minimum-obscure-december-treat-until
+bip_39_word_dash_11: chest-endless-habit-quiz-ready-minimum-obscure-december-treat-until-penalty
+bip_39_word_dash_12: chest-endless-habit-quiz-ready-minimum-obscure-december-treat-until-penalty-artist
+bip_39_word_dash_2: chest-endless
+bip_39_word_dash_3: chest-endless-habit
+bip_39_word_dash_4: chest-endless-habit-quiz
+bip_39_word_dash_5: chest-endless-habit-quiz-ready
+bip_39_word_dash_6: chest-endless-habit-quiz-ready-minimum
+bip_39_word_dash_7: chest-endless-habit-quiz-ready-minimum-obscure
+bip_39_word_dash_8: chest-endless-habit-quiz-ready-minimum-obscure-december
+bip_39_word_dash_9: chest-endless-habit-quiz-ready-minimum-obscure-december-treat
 bip_39_word_new_br_1: chest
 bip_39_word_new_br_10: chest<br>endless<br>habit<br>quiz<br>ready<br>minimum<br>obscure<br>december<br>treat<br>until
 bip_39_word_new_br_11: chest<br>endless<br>habit<br>quiz<br>ready<br>minimum<br>obscure<br>december<br>treat<br>until<br>penalty
@@ -194,6 +206,18 @@ bip_39_word_space_6: chest endless habit quiz ready minimum
 bip_39_word_space_7: chest endless habit quiz ready minimum obscure
 bip_39_word_space_8: chest endless habit quiz ready minimum obscure december
 bip_39_word_space_9: chest endless habit quiz ready minimum obscure december treat
+bip_39_word_underscore_1: chest
+bip_39_word_underscore_10: chest_endless_habit_quiz_ready_minimum_obscure_december_treat_until
+bip_39_word_underscore_11: chest_endless_habit_quiz_ready_minimum_obscure_december_treat_until_penalty
+bip_39_word_underscore_12: chest_endless_habit_quiz_ready_minimum_obscure_december_treat_until_penalty_artist
+bip_39_word_underscore_2: chest_endless
+bip_39_word_underscore_3: chest_endless_habit
+bip_39_word_underscore_4: chest_endless_habit_quiz
+bip_39_word_underscore_5: chest_endless_habit_quiz_ready
+bip_39_word_underscore_6: chest_endless_habit_quiz_ready_minimum
+bip_39_word_underscore_7: chest_endless_habit_quiz_ready_minimum_obscure
+bip_39_word_underscore_8: chest_endless_habit_quiz_ready_minimum_obscure_december
+bip_39_word_underscore_9: chest_endless_habit_quiz_ready_minimum_obscure_december_treat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

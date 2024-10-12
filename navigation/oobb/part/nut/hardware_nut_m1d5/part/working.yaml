@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lottery
+bip_39_word_dash_10: lottery-visit-syrup-direct-civil-toss-imitate-aerobic-pizza-curious
+bip_39_word_dash_11: lottery-visit-syrup-direct-civil-toss-imitate-aerobic-pizza-curious-decorate
+bip_39_word_dash_12: lottery-visit-syrup-direct-civil-toss-imitate-aerobic-pizza-curious-decorate-alone
+bip_39_word_dash_2: lottery-visit
+bip_39_word_dash_3: lottery-visit-syrup
+bip_39_word_dash_4: lottery-visit-syrup-direct
+bip_39_word_dash_5: lottery-visit-syrup-direct-civil
+bip_39_word_dash_6: lottery-visit-syrup-direct-civil-toss
+bip_39_word_dash_7: lottery-visit-syrup-direct-civil-toss-imitate
+bip_39_word_dash_8: lottery-visit-syrup-direct-civil-toss-imitate-aerobic
+bip_39_word_dash_9: lottery-visit-syrup-direct-civil-toss-imitate-aerobic-pizza
 bip_39_word_new_br_1: lottery
 bip_39_word_new_br_10: lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic<br>pizza<br>curious
 bip_39_word_new_br_11: lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic<br>pizza<br>curious<br>decorate
@@ -194,6 +206,18 @@ bip_39_word_space_6: lottery visit syrup direct civil toss
 bip_39_word_space_7: lottery visit syrup direct civil toss imitate
 bip_39_word_space_8: lottery visit syrup direct civil toss imitate aerobic
 bip_39_word_space_9: lottery visit syrup direct civil toss imitate aerobic pizza
+bip_39_word_underscore_1: lottery
+bip_39_word_underscore_10: lottery_visit_syrup_direct_civil_toss_imitate_aerobic_pizza_curious
+bip_39_word_underscore_11: lottery_visit_syrup_direct_civil_toss_imitate_aerobic_pizza_curious_decorate
+bip_39_word_underscore_12: lottery_visit_syrup_direct_civil_toss_imitate_aerobic_pizza_curious_decorate_alone
+bip_39_word_underscore_2: lottery_visit
+bip_39_word_underscore_3: lottery_visit_syrup
+bip_39_word_underscore_4: lottery_visit_syrup_direct
+bip_39_word_underscore_5: lottery_visit_syrup_direct_civil
+bip_39_word_underscore_6: lottery_visit_syrup_direct_civil_toss
+bip_39_word_underscore_7: lottery_visit_syrup_direct_civil_toss_imitate
+bip_39_word_underscore_8: lottery_visit_syrup_direct_civil_toss_imitate_aerobic
+bip_39_word_underscore_9: lottery_visit_syrup_direct_civil_toss_imitate_aerobic_pizza
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sign
+bip_39_word_dash_10: sign-torch-barrel-beyond-ketchup-clever-project-empower-neglect-right
+bip_39_word_dash_11: sign-torch-barrel-beyond-ketchup-clever-project-empower-neglect-right-two
+bip_39_word_dash_12: sign-torch-barrel-beyond-ketchup-clever-project-empower-neglect-right-two-attend
+bip_39_word_dash_2: sign-torch
+bip_39_word_dash_3: sign-torch-barrel
+bip_39_word_dash_4: sign-torch-barrel-beyond
+bip_39_word_dash_5: sign-torch-barrel-beyond-ketchup
+bip_39_word_dash_6: sign-torch-barrel-beyond-ketchup-clever
+bip_39_word_dash_7: sign-torch-barrel-beyond-ketchup-clever-project
+bip_39_word_dash_8: sign-torch-barrel-beyond-ketchup-clever-project-empower
+bip_39_word_dash_9: sign-torch-barrel-beyond-ketchup-clever-project-empower-neglect
 bip_39_word_new_br_1: sign
 bip_39_word_new_br_10: sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower<br>neglect<br>right
 bip_39_word_new_br_11: sign<br>torch<br>barrel<br>beyond<br>ketchup<br>clever<br>project<br>empower<br>neglect<br>right<br>two
@@ -194,6 +206,18 @@ bip_39_word_space_6: sign torch barrel beyond ketchup clever
 bip_39_word_space_7: sign torch barrel beyond ketchup clever project
 bip_39_word_space_8: sign torch barrel beyond ketchup clever project empower
 bip_39_word_space_9: sign torch barrel beyond ketchup clever project empower neglect
+bip_39_word_underscore_1: sign
+bip_39_word_underscore_10: sign_torch_barrel_beyond_ketchup_clever_project_empower_neglect_right
+bip_39_word_underscore_11: sign_torch_barrel_beyond_ketchup_clever_project_empower_neglect_right_two
+bip_39_word_underscore_12: sign_torch_barrel_beyond_ketchup_clever_project_empower_neglect_right_two_attend
+bip_39_word_underscore_2: sign_torch
+bip_39_word_underscore_3: sign_torch_barrel
+bip_39_word_underscore_4: sign_torch_barrel_beyond
+bip_39_word_underscore_5: sign_torch_barrel_beyond_ketchup
+bip_39_word_underscore_6: sign_torch_barrel_beyond_ketchup_clever
+bip_39_word_underscore_7: sign_torch_barrel_beyond_ketchup_clever_project
+bip_39_word_underscore_8: sign_torch_barrel_beyond_ketchup_clever_project_empower
+bip_39_word_underscore_9: sign_torch_barrel_beyond_ketchup_clever_project_empower_neglect
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

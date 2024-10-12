@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rule
+bip_39_word_dash_10: rule-derive-improve-nothing-scrub-immune-cute-together-shoulder-wall
+bip_39_word_dash_11: rule-derive-improve-nothing-scrub-immune-cute-together-shoulder-wall-good
+bip_39_word_dash_12: rule-derive-improve-nothing-scrub-immune-cute-together-shoulder-wall-good-afraid
+bip_39_word_dash_2: rule-derive
+bip_39_word_dash_3: rule-derive-improve
+bip_39_word_dash_4: rule-derive-improve-nothing
+bip_39_word_dash_5: rule-derive-improve-nothing-scrub
+bip_39_word_dash_6: rule-derive-improve-nothing-scrub-immune
+bip_39_word_dash_7: rule-derive-improve-nothing-scrub-immune-cute
+bip_39_word_dash_8: rule-derive-improve-nothing-scrub-immune-cute-together
+bip_39_word_dash_9: rule-derive-improve-nothing-scrub-immune-cute-together-shoulder
 bip_39_word_new_br_1: rule
 bip_39_word_new_br_10: rule<br>derive<br>improve<br>nothing<br>scrub<br>immune<br>cute<br>together<br>shoulder<br>wall
 bip_39_word_new_br_11: rule<br>derive<br>improve<br>nothing<br>scrub<br>immune<br>cute<br>together<br>shoulder<br>wall<br>good
@@ -194,6 +206,18 @@ bip_39_word_space_6: rule derive improve nothing scrub immune
 bip_39_word_space_7: rule derive improve nothing scrub immune cute
 bip_39_word_space_8: rule derive improve nothing scrub immune cute together
 bip_39_word_space_9: rule derive improve nothing scrub immune cute together shoulder
+bip_39_word_underscore_1: rule
+bip_39_word_underscore_10: rule_derive_improve_nothing_scrub_immune_cute_together_shoulder_wall
+bip_39_word_underscore_11: rule_derive_improve_nothing_scrub_immune_cute_together_shoulder_wall_good
+bip_39_word_underscore_12: rule_derive_improve_nothing_scrub_immune_cute_together_shoulder_wall_good_afraid
+bip_39_word_underscore_2: rule_derive
+bip_39_word_underscore_3: rule_derive_improve
+bip_39_word_underscore_4: rule_derive_improve_nothing
+bip_39_word_underscore_5: rule_derive_improve_nothing_scrub
+bip_39_word_underscore_6: rule_derive_improve_nothing_scrub_immune
+bip_39_word_underscore_7: rule_derive_improve_nothing_scrub_immune_cute
+bip_39_word_underscore_8: rule_derive_improve_nothing_scrub_immune_cute_together
+bip_39_word_underscore_9: rule_derive_improve_nothing_scrub_immune_cute_together_shoulder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

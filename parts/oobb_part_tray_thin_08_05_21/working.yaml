@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tumble
+bip_39_word_dash_10: tumble-olympic-surprise-harvest-want-march-meadow-deal-naive-hurry
+bip_39_word_dash_11: tumble-olympic-surprise-harvest-want-march-meadow-deal-naive-hurry-cross
+bip_39_word_dash_12: tumble-olympic-surprise-harvest-want-march-meadow-deal-naive-hurry-cross-amount
+bip_39_word_dash_2: tumble-olympic
+bip_39_word_dash_3: tumble-olympic-surprise
+bip_39_word_dash_4: tumble-olympic-surprise-harvest
+bip_39_word_dash_5: tumble-olympic-surprise-harvest-want
+bip_39_word_dash_6: tumble-olympic-surprise-harvest-want-march
+bip_39_word_dash_7: tumble-olympic-surprise-harvest-want-march-meadow
+bip_39_word_dash_8: tumble-olympic-surprise-harvest-want-march-meadow-deal
+bip_39_word_dash_9: tumble-olympic-surprise-harvest-want-march-meadow-deal-naive
 bip_39_word_new_br_1: tumble
 bip_39_word_new_br_10: tumble<br>olympic<br>surprise<br>harvest<br>want<br>march<br>meadow<br>deal<br>naive<br>hurry
 bip_39_word_new_br_11: tumble<br>olympic<br>surprise<br>harvest<br>want<br>march<br>meadow<br>deal<br>naive<br>hurry<br>cross
@@ -194,6 +206,18 @@ bip_39_word_space_6: tumble olympic surprise harvest want march
 bip_39_word_space_7: tumble olympic surprise harvest want march meadow
 bip_39_word_space_8: tumble olympic surprise harvest want march meadow deal
 bip_39_word_space_9: tumble olympic surprise harvest want march meadow deal naive
+bip_39_word_underscore_1: tumble
+bip_39_word_underscore_10: tumble_olympic_surprise_harvest_want_march_meadow_deal_naive_hurry
+bip_39_word_underscore_11: tumble_olympic_surprise_harvest_want_march_meadow_deal_naive_hurry_cross
+bip_39_word_underscore_12: tumble_olympic_surprise_harvest_want_march_meadow_deal_naive_hurry_cross_amount
+bip_39_word_underscore_2: tumble_olympic
+bip_39_word_underscore_3: tumble_olympic_surprise
+bip_39_word_underscore_4: tumble_olympic_surprise_harvest
+bip_39_word_underscore_5: tumble_olympic_surprise_harvest_want
+bip_39_word_underscore_6: tumble_olympic_surprise_harvest_want_march
+bip_39_word_underscore_7: tumble_olympic_surprise_harvest_want_march_meadow
+bip_39_word_underscore_8: tumble_olympic_surprise_harvest_want_march_meadow_deal
+bip_39_word_underscore_9: tumble_olympic_surprise_harvest_want_march_meadow_deal_naive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

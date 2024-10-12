@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tenant |  
+| bip_39_word_dash_10 | tenant-zone-bonus-food-opera-neck-rich-dream-actual-pulse |  
+| bip_39_word_dash_11 | tenant-zone-bonus-food-opera-neck-rich-dream-actual-pulse-topic |  
+| bip_39_word_dash_12 | tenant-zone-bonus-food-opera-neck-rich-dream-actual-pulse-topic-actual |  
+| bip_39_word_dash_2 | tenant-zone |  
+| bip_39_word_dash_3 | tenant-zone-bonus |  
+| bip_39_word_dash_4 | tenant-zone-bonus-food |  
+| bip_39_word_dash_5 | tenant-zone-bonus-food-opera |  
+| bip_39_word_dash_6 | tenant-zone-bonus-food-opera-neck |  
+| bip_39_word_dash_7 | tenant-zone-bonus-food-opera-neck-rich |  
+| bip_39_word_dash_8 | tenant-zone-bonus-food-opera-neck-rich-dream |  
+| bip_39_word_dash_9 | tenant-zone-bonus-food-opera-neck-rich-dream-actual |  
 | bip_39_word_new_br_1 | tenant |  
 | bip_39_word_new_br_10 | tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream<br>actual<br>pulse |  
 | bip_39_word_new_br_11 | tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream<br>actual<br>pulse<br>topic |  
@@ -147,6 +159,18 @@ actual |
 | bip_39_word_space_7 | tenant zone bonus food opera neck rich |  
 | bip_39_word_space_8 | tenant zone bonus food opera neck rich dream |  
 | bip_39_word_space_9 | tenant zone bonus food opera neck rich dream actual |  
+| bip_39_word_underscore_1 | tenant |  
+| bip_39_word_underscore_10 | tenant_zone_bonus_food_opera_neck_rich_dream_actual_pulse |  
+| bip_39_word_underscore_11 | tenant_zone_bonus_food_opera_neck_rich_dream_actual_pulse_topic |  
+| bip_39_word_underscore_12 | tenant_zone_bonus_food_opera_neck_rich_dream_actual_pulse_topic_actual |  
+| bip_39_word_underscore_2 | tenant_zone |  
+| bip_39_word_underscore_3 | tenant_zone_bonus |  
+| bip_39_word_underscore_4 | tenant_zone_bonus_food |  
+| bip_39_word_underscore_5 | tenant_zone_bonus_food_opera |  
+| bip_39_word_underscore_6 | tenant_zone_bonus_food_opera_neck |  
+| bip_39_word_underscore_7 | tenant_zone_bonus_food_opera_neck_rich |  
+| bip_39_word_underscore_8 | tenant_zone_bonus_food_opera_neck_rich_dream |  
+| bip_39_word_underscore_9 | tenant_zone_bonus_food_opera_neck_rich_dream_actual |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | earth |  
+| bip_39_word_dash_10 | earth-pistol-spread-enforce-agree-horror-core-valid-pretty-local |  
+| bip_39_word_dash_11 | earth-pistol-spread-enforce-agree-horror-core-valid-pretty-local-possible |  
+| bip_39_word_dash_12 | earth-pistol-spread-enforce-agree-horror-core-valid-pretty-local-possible-affair |  
+| bip_39_word_dash_2 | earth-pistol |  
+| bip_39_word_dash_3 | earth-pistol-spread |  
+| bip_39_word_dash_4 | earth-pistol-spread-enforce |  
+| bip_39_word_dash_5 | earth-pistol-spread-enforce-agree |  
+| bip_39_word_dash_6 | earth-pistol-spread-enforce-agree-horror |  
+| bip_39_word_dash_7 | earth-pistol-spread-enforce-agree-horror-core |  
+| bip_39_word_dash_8 | earth-pistol-spread-enforce-agree-horror-core-valid |  
+| bip_39_word_dash_9 | earth-pistol-spread-enforce-agree-horror-core-valid-pretty |  
 | bip_39_word_new_br_1 | earth |  
 | bip_39_word_new_br_10 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid<br>pretty<br>local |  
 | bip_39_word_new_br_11 | earth<br>pistol<br>spread<br>enforce<br>agree<br>horror<br>core<br>valid<br>pretty<br>local<br>possible |  
@@ -147,6 +159,18 @@ pretty |
 | bip_39_word_space_7 | earth pistol spread enforce agree horror core |  
 | bip_39_word_space_8 | earth pistol spread enforce agree horror core valid |  
 | bip_39_word_space_9 | earth pistol spread enforce agree horror core valid pretty |  
+| bip_39_word_underscore_1 | earth |  
+| bip_39_word_underscore_10 | earth_pistol_spread_enforce_agree_horror_core_valid_pretty_local |  
+| bip_39_word_underscore_11 | earth_pistol_spread_enforce_agree_horror_core_valid_pretty_local_possible |  
+| bip_39_word_underscore_12 | earth_pistol_spread_enforce_agree_horror_core_valid_pretty_local_possible_affair |  
+| bip_39_word_underscore_2 | earth_pistol |  
+| bip_39_word_underscore_3 | earth_pistol_spread |  
+| bip_39_word_underscore_4 | earth_pistol_spread_enforce |  
+| bip_39_word_underscore_5 | earth_pistol_spread_enforce_agree |  
+| bip_39_word_underscore_6 | earth_pistol_spread_enforce_agree_horror |  
+| bip_39_word_underscore_7 | earth_pistol_spread_enforce_agree_horror_core |  
+| bip_39_word_underscore_8 | earth_pistol_spread_enforce_agree_horror_core_valid |  
+| bip_39_word_underscore_9 | earth_pistol_spread_enforce_agree_horror_core_valid_pretty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

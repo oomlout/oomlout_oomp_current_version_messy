@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | program |  
+| bip_39_word_dash_10 | program-smart-indoor-move-umbrella-wrong-spy-verify-liquid-wink |  
+| bip_39_word_dash_11 | program-smart-indoor-move-umbrella-wrong-spy-verify-liquid-wink-blanket |  
+| bip_39_word_dash_12 | program-smart-indoor-move-umbrella-wrong-spy-verify-liquid-wink-blanket-audit |  
+| bip_39_word_dash_2 | program-smart |  
+| bip_39_word_dash_3 | program-smart-indoor |  
+| bip_39_word_dash_4 | program-smart-indoor-move |  
+| bip_39_word_dash_5 | program-smart-indoor-move-umbrella |  
+| bip_39_word_dash_6 | program-smart-indoor-move-umbrella-wrong |  
+| bip_39_word_dash_7 | program-smart-indoor-move-umbrella-wrong-spy |  
+| bip_39_word_dash_8 | program-smart-indoor-move-umbrella-wrong-spy-verify |  
+| bip_39_word_dash_9 | program-smart-indoor-move-umbrella-wrong-spy-verify-liquid |  
 | bip_39_word_new_br_1 | program |  
 | bip_39_word_new_br_10 | program<br>smart<br>indoor<br>move<br>umbrella<br>wrong<br>spy<br>verify<br>liquid<br>wink |  
 | bip_39_word_new_br_11 | program<br>smart<br>indoor<br>move<br>umbrella<br>wrong<br>spy<br>verify<br>liquid<br>wink<br>blanket |  
@@ -147,6 +159,18 @@ liquid |
 | bip_39_word_space_7 | program smart indoor move umbrella wrong spy |  
 | bip_39_word_space_8 | program smart indoor move umbrella wrong spy verify |  
 | bip_39_word_space_9 | program smart indoor move umbrella wrong spy verify liquid |  
+| bip_39_word_underscore_1 | program |  
+| bip_39_word_underscore_10 | program_smart_indoor_move_umbrella_wrong_spy_verify_liquid_wink |  
+| bip_39_word_underscore_11 | program_smart_indoor_move_umbrella_wrong_spy_verify_liquid_wink_blanket |  
+| bip_39_word_underscore_12 | program_smart_indoor_move_umbrella_wrong_spy_verify_liquid_wink_blanket_audit |  
+| bip_39_word_underscore_2 | program_smart |  
+| bip_39_word_underscore_3 | program_smart_indoor |  
+| bip_39_word_underscore_4 | program_smart_indoor_move |  
+| bip_39_word_underscore_5 | program_smart_indoor_move_umbrella |  
+| bip_39_word_underscore_6 | program_smart_indoor_move_umbrella_wrong |  
+| bip_39_word_underscore_7 | program_smart_indoor_move_umbrella_wrong_spy |  
+| bip_39_word_underscore_8 | program_smart_indoor_move_umbrella_wrong_spy_verify |  
+| bip_39_word_underscore_9 | program_smart_indoor_move_umbrella_wrong_spy_verify_liquid |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

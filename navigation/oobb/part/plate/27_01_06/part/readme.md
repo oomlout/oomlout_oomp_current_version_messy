@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trim |  
+| bip_39_word_dash_10 | trim-bundle-erode-walnut-fly-night-task-street-wait-trophy |  
+| bip_39_word_dash_11 | trim-bundle-erode-walnut-fly-night-task-street-wait-trophy-puzzle |  
+| bip_39_word_dash_12 | trim-bundle-erode-walnut-fly-night-task-street-wait-trophy-puzzle-athlete |  
+| bip_39_word_dash_2 | trim-bundle |  
+| bip_39_word_dash_3 | trim-bundle-erode |  
+| bip_39_word_dash_4 | trim-bundle-erode-walnut |  
+| bip_39_word_dash_5 | trim-bundle-erode-walnut-fly |  
+| bip_39_word_dash_6 | trim-bundle-erode-walnut-fly-night |  
+| bip_39_word_dash_7 | trim-bundle-erode-walnut-fly-night-task |  
+| bip_39_word_dash_8 | trim-bundle-erode-walnut-fly-night-task-street |  
+| bip_39_word_dash_9 | trim-bundle-erode-walnut-fly-night-task-street-wait |  
 | bip_39_word_new_br_1 | trim |  
 | bip_39_word_new_br_10 | trim<br>bundle<br>erode<br>walnut<br>fly<br>night<br>task<br>street<br>wait<br>trophy |  
 | bip_39_word_new_br_11 | trim<br>bundle<br>erode<br>walnut<br>fly<br>night<br>task<br>street<br>wait<br>trophy<br>puzzle |  
@@ -147,6 +159,18 @@ wait |
 | bip_39_word_space_7 | trim bundle erode walnut fly night task |  
 | bip_39_word_space_8 | trim bundle erode walnut fly night task street |  
 | bip_39_word_space_9 | trim bundle erode walnut fly night task street wait |  
+| bip_39_word_underscore_1 | trim |  
+| bip_39_word_underscore_10 | trim_bundle_erode_walnut_fly_night_task_street_wait_trophy |  
+| bip_39_word_underscore_11 | trim_bundle_erode_walnut_fly_night_task_street_wait_trophy_puzzle |  
+| bip_39_word_underscore_12 | trim_bundle_erode_walnut_fly_night_task_street_wait_trophy_puzzle_athlete |  
+| bip_39_word_underscore_2 | trim_bundle |  
+| bip_39_word_underscore_3 | trim_bundle_erode |  
+| bip_39_word_underscore_4 | trim_bundle_erode_walnut |  
+| bip_39_word_underscore_5 | trim_bundle_erode_walnut_fly |  
+| bip_39_word_underscore_6 | trim_bundle_erode_walnut_fly_night |  
+| bip_39_word_underscore_7 | trim_bundle_erode_walnut_fly_night_task |  
+| bip_39_word_underscore_8 | trim_bundle_erode_walnut_fly_night_task_street |  
+| bip_39_word_underscore_9 | trim_bundle_erode_walnut_fly_night_task_street_wait |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

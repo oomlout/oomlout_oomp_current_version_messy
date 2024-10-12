@@ -1,3 +1,15 @@
+bip_39_word_dash_1: orient
+bip_39_word_dash_10: orient-wish-join-include-harsh-better-inspire-mimic-fatal-message
+bip_39_word_dash_11: orient-wish-join-include-harsh-better-inspire-mimic-fatal-message-quality
+bip_39_word_dash_12: orient-wish-join-include-harsh-better-inspire-mimic-fatal-message-quality-adapt
+bip_39_word_dash_2: orient-wish
+bip_39_word_dash_3: orient-wish-join
+bip_39_word_dash_4: orient-wish-join-include
+bip_39_word_dash_5: orient-wish-join-include-harsh
+bip_39_word_dash_6: orient-wish-join-include-harsh-better
+bip_39_word_dash_7: orient-wish-join-include-harsh-better-inspire
+bip_39_word_dash_8: orient-wish-join-include-harsh-better-inspire-mimic
+bip_39_word_dash_9: orient-wish-join-include-harsh-better-inspire-mimic-fatal
 bip_39_word_new_br_1: orient
 bip_39_word_new_br_10: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message
 bip_39_word_new_br_11: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message<br>quality
@@ -193,6 +205,18 @@ bip_39_word_space_6: orient wish join include harsh better
 bip_39_word_space_7: orient wish join include harsh better inspire
 bip_39_word_space_8: orient wish join include harsh better inspire mimic
 bip_39_word_space_9: orient wish join include harsh better inspire mimic fatal
+bip_39_word_underscore_1: orient
+bip_39_word_underscore_10: orient_wish_join_include_harsh_better_inspire_mimic_fatal_message
+bip_39_word_underscore_11: orient_wish_join_include_harsh_better_inspire_mimic_fatal_message_quality
+bip_39_word_underscore_12: orient_wish_join_include_harsh_better_inspire_mimic_fatal_message_quality_adapt
+bip_39_word_underscore_2: orient_wish
+bip_39_word_underscore_3: orient_wish_join
+bip_39_word_underscore_4: orient_wish_join_include
+bip_39_word_underscore_5: orient_wish_join_include_harsh
+bip_39_word_underscore_6: orient_wish_join_include_harsh_better
+bip_39_word_underscore_7: orient_wish_join_include_harsh_better_inspire
+bip_39_word_underscore_8: orient_wish_join_include_harsh_better_inspire_mimic
+bip_39_word_underscore_9: orient_wish_join_include_harsh_better_inspire_mimic_fatal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

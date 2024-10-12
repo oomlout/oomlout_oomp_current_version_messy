@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grass |  
+| bip_39_word_dash_10 | grass-remove-vacant-current-monkey-attitude-primary-okay-corn-soda |  
+| bip_39_word_dash_11 | grass-remove-vacant-current-monkey-attitude-primary-okay-corn-soda-rookie |  
+| bip_39_word_dash_12 | grass-remove-vacant-current-monkey-attitude-primary-okay-corn-soda-rookie-actual |  
+| bip_39_word_dash_2 | grass-remove |  
+| bip_39_word_dash_3 | grass-remove-vacant |  
+| bip_39_word_dash_4 | grass-remove-vacant-current |  
+| bip_39_word_dash_5 | grass-remove-vacant-current-monkey |  
+| bip_39_word_dash_6 | grass-remove-vacant-current-monkey-attitude |  
+| bip_39_word_dash_7 | grass-remove-vacant-current-monkey-attitude-primary |  
+| bip_39_word_dash_8 | grass-remove-vacant-current-monkey-attitude-primary-okay |  
+| bip_39_word_dash_9 | grass-remove-vacant-current-monkey-attitude-primary-okay-corn |  
 | bip_39_word_new_br_1 | grass |  
 | bip_39_word_new_br_10 | grass<br>remove<br>vacant<br>current<br>monkey<br>attitude<br>primary<br>okay<br>corn<br>soda |  
 | bip_39_word_new_br_11 | grass<br>remove<br>vacant<br>current<br>monkey<br>attitude<br>primary<br>okay<br>corn<br>soda<br>rookie |  
@@ -147,6 +159,18 @@ corn |
 | bip_39_word_space_7 | grass remove vacant current monkey attitude primary |  
 | bip_39_word_space_8 | grass remove vacant current monkey attitude primary okay |  
 | bip_39_word_space_9 | grass remove vacant current monkey attitude primary okay corn |  
+| bip_39_word_underscore_1 | grass |  
+| bip_39_word_underscore_10 | grass_remove_vacant_current_monkey_attitude_primary_okay_corn_soda |  
+| bip_39_word_underscore_11 | grass_remove_vacant_current_monkey_attitude_primary_okay_corn_soda_rookie |  
+| bip_39_word_underscore_12 | grass_remove_vacant_current_monkey_attitude_primary_okay_corn_soda_rookie_actual |  
+| bip_39_word_underscore_2 | grass_remove |  
+| bip_39_word_underscore_3 | grass_remove_vacant |  
+| bip_39_word_underscore_4 | grass_remove_vacant_current |  
+| bip_39_word_underscore_5 | grass_remove_vacant_current_monkey |  
+| bip_39_word_underscore_6 | grass_remove_vacant_current_monkey_attitude |  
+| bip_39_word_underscore_7 | grass_remove_vacant_current_monkey_attitude_primary |  
+| bip_39_word_underscore_8 | grass_remove_vacant_current_monkey_attitude_primary_okay |  
+| bip_39_word_underscore_9 | grass_remove_vacant_current_monkey_attitude_primary_okay_corn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

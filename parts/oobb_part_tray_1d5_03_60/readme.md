@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reward |  
+| bip_39_word_dash_10 | reward-often-jazz-polar-drive-fly-erosion-relief-word-oppose |  
+| bip_39_word_dash_11 | reward-often-jazz-polar-drive-fly-erosion-relief-word-oppose-hunt |  
+| bip_39_word_dash_12 | reward-often-jazz-polar-drive-fly-erosion-relief-word-oppose-hunt-acquire |  
+| bip_39_word_dash_2 | reward-often |  
+| bip_39_word_dash_3 | reward-often-jazz |  
+| bip_39_word_dash_4 | reward-often-jazz-polar |  
+| bip_39_word_dash_5 | reward-often-jazz-polar-drive |  
+| bip_39_word_dash_6 | reward-often-jazz-polar-drive-fly |  
+| bip_39_word_dash_7 | reward-often-jazz-polar-drive-fly-erosion |  
+| bip_39_word_dash_8 | reward-often-jazz-polar-drive-fly-erosion-relief |  
+| bip_39_word_dash_9 | reward-often-jazz-polar-drive-fly-erosion-relief-word |  
 | bip_39_word_new_br_1 | reward |  
 | bip_39_word_new_br_10 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief<br>word<br>oppose |  
 | bip_39_word_new_br_11 | reward<br>often<br>jazz<br>polar<br>drive<br>fly<br>erosion<br>relief<br>word<br>oppose<br>hunt |  
@@ -147,6 +159,18 @@ word |
 | bip_39_word_space_7 | reward often jazz polar drive fly erosion |  
 | bip_39_word_space_8 | reward often jazz polar drive fly erosion relief |  
 | bip_39_word_space_9 | reward often jazz polar drive fly erosion relief word |  
+| bip_39_word_underscore_1 | reward |  
+| bip_39_word_underscore_10 | reward_often_jazz_polar_drive_fly_erosion_relief_word_oppose |  
+| bip_39_word_underscore_11 | reward_often_jazz_polar_drive_fly_erosion_relief_word_oppose_hunt |  
+| bip_39_word_underscore_12 | reward_often_jazz_polar_drive_fly_erosion_relief_word_oppose_hunt_acquire |  
+| bip_39_word_underscore_2 | reward_often |  
+| bip_39_word_underscore_3 | reward_often_jazz |  
+| bip_39_word_underscore_4 | reward_often_jazz_polar |  
+| bip_39_word_underscore_5 | reward_often_jazz_polar_drive |  
+| bip_39_word_underscore_6 | reward_often_jazz_polar_drive_fly |  
+| bip_39_word_underscore_7 | reward_often_jazz_polar_drive_fly_erosion |  
+| bip_39_word_underscore_8 | reward_often_jazz_polar_drive_fly_erosion_relief |  
+| bip_39_word_underscore_9 | reward_often_jazz_polar_drive_fly_erosion_relief_word |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

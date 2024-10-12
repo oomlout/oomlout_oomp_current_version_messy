@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | basket |  
+| bip_39_word_dash_10 | basket-onion-cool-dilemma-enter-planet-grape-close-weasel-stove |  
+| bip_39_word_dash_11 | basket-onion-cool-dilemma-enter-planet-grape-close-weasel-stove-animal |  
+| bip_39_word_dash_12 | basket-onion-cool-dilemma-enter-planet-grape-close-weasel-stove-animal-amused |  
+| bip_39_word_dash_2 | basket-onion |  
+| bip_39_word_dash_3 | basket-onion-cool |  
+| bip_39_word_dash_4 | basket-onion-cool-dilemma |  
+| bip_39_word_dash_5 | basket-onion-cool-dilemma-enter |  
+| bip_39_word_dash_6 | basket-onion-cool-dilemma-enter-planet |  
+| bip_39_word_dash_7 | basket-onion-cool-dilemma-enter-planet-grape |  
+| bip_39_word_dash_8 | basket-onion-cool-dilemma-enter-planet-grape-close |  
+| bip_39_word_dash_9 | basket-onion-cool-dilemma-enter-planet-grape-close-weasel |  
 | bip_39_word_new_br_1 | basket |  
 | bip_39_word_new_br_10 | basket<br>onion<br>cool<br>dilemma<br>enter<br>planet<br>grape<br>close<br>weasel<br>stove |  
 | bip_39_word_new_br_11 | basket<br>onion<br>cool<br>dilemma<br>enter<br>planet<br>grape<br>close<br>weasel<br>stove<br>animal |  
@@ -147,6 +159,18 @@ weasel |
 | bip_39_word_space_7 | basket onion cool dilemma enter planet grape |  
 | bip_39_word_space_8 | basket onion cool dilemma enter planet grape close |  
 | bip_39_word_space_9 | basket onion cool dilemma enter planet grape close weasel |  
+| bip_39_word_underscore_1 | basket |  
+| bip_39_word_underscore_10 | basket_onion_cool_dilemma_enter_planet_grape_close_weasel_stove |  
+| bip_39_word_underscore_11 | basket_onion_cool_dilemma_enter_planet_grape_close_weasel_stove_animal |  
+| bip_39_word_underscore_12 | basket_onion_cool_dilemma_enter_planet_grape_close_weasel_stove_animal_amused |  
+| bip_39_word_underscore_2 | basket_onion |  
+| bip_39_word_underscore_3 | basket_onion_cool |  
+| bip_39_word_underscore_4 | basket_onion_cool_dilemma |  
+| bip_39_word_underscore_5 | basket_onion_cool_dilemma_enter |  
+| bip_39_word_underscore_6 | basket_onion_cool_dilemma_enter_planet |  
+| bip_39_word_underscore_7 | basket_onion_cool_dilemma_enter_planet_grape |  
+| bip_39_word_underscore_8 | basket_onion_cool_dilemma_enter_planet_grape_close |  
+| bip_39_word_underscore_9 | basket_onion_cool_dilemma_enter_planet_grape_close_weasel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

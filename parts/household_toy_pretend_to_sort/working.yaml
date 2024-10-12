@@ -1,3 +1,15 @@
+bip_39_word_dash_1: across
+bip_39_word_dash_10: across-run-okay-goddess-leave-truth-juice-chat-scheme-tonight
+bip_39_word_dash_11: across-run-okay-goddess-leave-truth-juice-chat-scheme-tonight-blue
+bip_39_word_dash_12: across-run-okay-goddess-leave-truth-juice-chat-scheme-tonight-blue-agent
+bip_39_word_dash_2: across-run
+bip_39_word_dash_3: across-run-okay
+bip_39_word_dash_4: across-run-okay-goddess
+bip_39_word_dash_5: across-run-okay-goddess-leave
+bip_39_word_dash_6: across-run-okay-goddess-leave-truth
+bip_39_word_dash_7: across-run-okay-goddess-leave-truth-juice
+bip_39_word_dash_8: across-run-okay-goddess-leave-truth-juice-chat
+bip_39_word_dash_9: across-run-okay-goddess-leave-truth-juice-chat-scheme
 bip_39_word_new_br_1: across
 bip_39_word_new_br_10: across<br>run<br>okay<br>goddess<br>leave<br>truth<br>juice<br>chat<br>scheme<br>tonight
 bip_39_word_new_br_11: across<br>run<br>okay<br>goddess<br>leave<br>truth<br>juice<br>chat<br>scheme<br>tonight<br>blue
@@ -193,6 +205,18 @@ bip_39_word_space_6: across run okay goddess leave truth
 bip_39_word_space_7: across run okay goddess leave truth juice
 bip_39_word_space_8: across run okay goddess leave truth juice chat
 bip_39_word_space_9: across run okay goddess leave truth juice chat scheme
+bip_39_word_underscore_1: across
+bip_39_word_underscore_10: across_run_okay_goddess_leave_truth_juice_chat_scheme_tonight
+bip_39_word_underscore_11: across_run_okay_goddess_leave_truth_juice_chat_scheme_tonight_blue
+bip_39_word_underscore_12: across_run_okay_goddess_leave_truth_juice_chat_scheme_tonight_blue_agent
+bip_39_word_underscore_2: across_run
+bip_39_word_underscore_3: across_run_okay
+bip_39_word_underscore_4: across_run_okay_goddess
+bip_39_word_underscore_5: across_run_okay_goddess_leave
+bip_39_word_underscore_6: across_run_okay_goddess_leave_truth
+bip_39_word_underscore_7: across_run_okay_goddess_leave_truth_juice
+bip_39_word_underscore_8: across_run_okay_goddess_leave_truth_juice_chat
+bip_39_word_underscore_9: across_run_okay_goddess_leave_truth_juice_chat_scheme
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | all |  
+| bip_39_word_dash_10 | all-never-quick-start-hard-orphan-dignity-label-fitness-purpose |  
+| bip_39_word_dash_11 | all-never-quick-start-hard-orphan-dignity-label-fitness-purpose-jewel |  
+| bip_39_word_dash_12 | all-never-quick-start-hard-orphan-dignity-label-fitness-purpose-jewel-amount |  
+| bip_39_word_dash_2 | all-never |  
+| bip_39_word_dash_3 | all-never-quick |  
+| bip_39_word_dash_4 | all-never-quick-start |  
+| bip_39_word_dash_5 | all-never-quick-start-hard |  
+| bip_39_word_dash_6 | all-never-quick-start-hard-orphan |  
+| bip_39_word_dash_7 | all-never-quick-start-hard-orphan-dignity |  
+| bip_39_word_dash_8 | all-never-quick-start-hard-orphan-dignity-label |  
+| bip_39_word_dash_9 | all-never-quick-start-hard-orphan-dignity-label-fitness |  
 | bip_39_word_new_br_1 | all |  
 | bip_39_word_new_br_10 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label<br>fitness<br>purpose |  
 | bip_39_word_new_br_11 | all<br>never<br>quick<br>start<br>hard<br>orphan<br>dignity<br>label<br>fitness<br>purpose<br>jewel |  
@@ -147,6 +159,18 @@ fitness |
 | bip_39_word_space_7 | all never quick start hard orphan dignity |  
 | bip_39_word_space_8 | all never quick start hard orphan dignity label |  
 | bip_39_word_space_9 | all never quick start hard orphan dignity label fitness |  
+| bip_39_word_underscore_1 | all |  
+| bip_39_word_underscore_10 | all_never_quick_start_hard_orphan_dignity_label_fitness_purpose |  
+| bip_39_word_underscore_11 | all_never_quick_start_hard_orphan_dignity_label_fitness_purpose_jewel |  
+| bip_39_word_underscore_12 | all_never_quick_start_hard_orphan_dignity_label_fitness_purpose_jewel_amount |  
+| bip_39_word_underscore_2 | all_never |  
+| bip_39_word_underscore_3 | all_never_quick |  
+| bip_39_word_underscore_4 | all_never_quick_start |  
+| bip_39_word_underscore_5 | all_never_quick_start_hard |  
+| bip_39_word_underscore_6 | all_never_quick_start_hard_orphan |  
+| bip_39_word_underscore_7 | all_never_quick_start_hard_orphan_dignity |  
+| bip_39_word_underscore_8 | all_never_quick_start_hard_orphan_dignity_label |  
+| bip_39_word_underscore_9 | all_never_quick_start_hard_orphan_dignity_label_fitness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

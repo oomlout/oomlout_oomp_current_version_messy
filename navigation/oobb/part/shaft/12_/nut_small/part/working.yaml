@@ -1,3 +1,15 @@
+bip_39_word_dash_1: response
+bip_39_word_dash_10: response-rich-pen-finger-narrow-sketch-symbol-plate-whip-engage
+bip_39_word_dash_11: response-rich-pen-finger-narrow-sketch-symbol-plate-whip-engage-parent
+bip_39_word_dash_12: response-rich-pen-finger-narrow-sketch-symbol-plate-whip-engage-parent-apple
+bip_39_word_dash_2: response-rich
+bip_39_word_dash_3: response-rich-pen
+bip_39_word_dash_4: response-rich-pen-finger
+bip_39_word_dash_5: response-rich-pen-finger-narrow
+bip_39_word_dash_6: response-rich-pen-finger-narrow-sketch
+bip_39_word_dash_7: response-rich-pen-finger-narrow-sketch-symbol
+bip_39_word_dash_8: response-rich-pen-finger-narrow-sketch-symbol-plate
+bip_39_word_dash_9: response-rich-pen-finger-narrow-sketch-symbol-plate-whip
 bip_39_word_new_br_1: response
 bip_39_word_new_br_10: response<br>rich<br>pen<br>finger<br>narrow<br>sketch<br>symbol<br>plate<br>whip<br>engage
 bip_39_word_new_br_11: response<br>rich<br>pen<br>finger<br>narrow<br>sketch<br>symbol<br>plate<br>whip<br>engage<br>parent
@@ -193,6 +205,18 @@ bip_39_word_space_6: response rich pen finger narrow sketch
 bip_39_word_space_7: response rich pen finger narrow sketch symbol
 bip_39_word_space_8: response rich pen finger narrow sketch symbol plate
 bip_39_word_space_9: response rich pen finger narrow sketch symbol plate whip
+bip_39_word_underscore_1: response
+bip_39_word_underscore_10: response_rich_pen_finger_narrow_sketch_symbol_plate_whip_engage
+bip_39_word_underscore_11: response_rich_pen_finger_narrow_sketch_symbol_plate_whip_engage_parent
+bip_39_word_underscore_12: response_rich_pen_finger_narrow_sketch_symbol_plate_whip_engage_parent_apple
+bip_39_word_underscore_2: response_rich
+bip_39_word_underscore_3: response_rich_pen
+bip_39_word_underscore_4: response_rich_pen_finger
+bip_39_word_underscore_5: response_rich_pen_finger_narrow
+bip_39_word_underscore_6: response_rich_pen_finger_narrow_sketch
+bip_39_word_underscore_7: response_rich_pen_finger_narrow_sketch_symbol
+bip_39_word_underscore_8: response_rich_pen_finger_narrow_sketch_symbol_plate
+bip_39_word_underscore_9: response_rich_pen_finger_narrow_sketch_symbol_plate_whip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

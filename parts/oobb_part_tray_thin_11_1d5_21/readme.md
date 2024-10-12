@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | outdoor |  
+| bip_39_word_dash_10 | outdoor-raccoon-exclude-bridge-hamster-gift-moral-often-vault-that |  
+| bip_39_word_dash_11 | outdoor-raccoon-exclude-bridge-hamster-gift-moral-often-vault-that-cat |  
+| bip_39_word_dash_12 | outdoor-raccoon-exclude-bridge-hamster-gift-moral-often-vault-that-cat-ancient |  
+| bip_39_word_dash_2 | outdoor-raccoon |  
+| bip_39_word_dash_3 | outdoor-raccoon-exclude |  
+| bip_39_word_dash_4 | outdoor-raccoon-exclude-bridge |  
+| bip_39_word_dash_5 | outdoor-raccoon-exclude-bridge-hamster |  
+| bip_39_word_dash_6 | outdoor-raccoon-exclude-bridge-hamster-gift |  
+| bip_39_word_dash_7 | outdoor-raccoon-exclude-bridge-hamster-gift-moral |  
+| bip_39_word_dash_8 | outdoor-raccoon-exclude-bridge-hamster-gift-moral-often |  
+| bip_39_word_dash_9 | outdoor-raccoon-exclude-bridge-hamster-gift-moral-often-vault |  
 | bip_39_word_new_br_1 | outdoor |  
 | bip_39_word_new_br_10 | outdoor<br>raccoon<br>exclude<br>bridge<br>hamster<br>gift<br>moral<br>often<br>vault<br>that |  
 | bip_39_word_new_br_11 | outdoor<br>raccoon<br>exclude<br>bridge<br>hamster<br>gift<br>moral<br>often<br>vault<br>that<br>cat |  
@@ -147,6 +159,18 @@ vault |
 | bip_39_word_space_7 | outdoor raccoon exclude bridge hamster gift moral |  
 | bip_39_word_space_8 | outdoor raccoon exclude bridge hamster gift moral often |  
 | bip_39_word_space_9 | outdoor raccoon exclude bridge hamster gift moral often vault |  
+| bip_39_word_underscore_1 | outdoor |  
+| bip_39_word_underscore_10 | outdoor_raccoon_exclude_bridge_hamster_gift_moral_often_vault_that |  
+| bip_39_word_underscore_11 | outdoor_raccoon_exclude_bridge_hamster_gift_moral_often_vault_that_cat |  
+| bip_39_word_underscore_12 | outdoor_raccoon_exclude_bridge_hamster_gift_moral_often_vault_that_cat_ancient |  
+| bip_39_word_underscore_2 | outdoor_raccoon |  
+| bip_39_word_underscore_3 | outdoor_raccoon_exclude |  
+| bip_39_word_underscore_4 | outdoor_raccoon_exclude_bridge |  
+| bip_39_word_underscore_5 | outdoor_raccoon_exclude_bridge_hamster |  
+| bip_39_word_underscore_6 | outdoor_raccoon_exclude_bridge_hamster_gift |  
+| bip_39_word_underscore_7 | outdoor_raccoon_exclude_bridge_hamster_gift_moral |  
+| bip_39_word_underscore_8 | outdoor_raccoon_exclude_bridge_hamster_gift_moral_often |  
+| bip_39_word_underscore_9 | outdoor_raccoon_exclude_bridge_hamster_gift_moral_often_vault |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

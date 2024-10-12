@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | expose |  
+| bip_39_word_dash_10 | expose-decide-puzzle-youth-ozone-step-produce-route-sibling-mushroom |  
+| bip_39_word_dash_11 | expose-decide-puzzle-youth-ozone-step-produce-route-sibling-mushroom-film |  
+| bip_39_word_dash_12 | expose-decide-puzzle-youth-ozone-step-produce-route-sibling-mushroom-film-alcohol |  
+| bip_39_word_dash_2 | expose-decide |  
+| bip_39_word_dash_3 | expose-decide-puzzle |  
+| bip_39_word_dash_4 | expose-decide-puzzle-youth |  
+| bip_39_word_dash_5 | expose-decide-puzzle-youth-ozone |  
+| bip_39_word_dash_6 | expose-decide-puzzle-youth-ozone-step |  
+| bip_39_word_dash_7 | expose-decide-puzzle-youth-ozone-step-produce |  
+| bip_39_word_dash_8 | expose-decide-puzzle-youth-ozone-step-produce-route |  
+| bip_39_word_dash_9 | expose-decide-puzzle-youth-ozone-step-produce-route-sibling |  
 | bip_39_word_new_br_1 | expose |  
 | bip_39_word_new_br_10 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route<br>sibling<br>mushroom |  
 | bip_39_word_new_br_11 | expose<br>decide<br>puzzle<br>youth<br>ozone<br>step<br>produce<br>route<br>sibling<br>mushroom<br>film |  
@@ -147,6 +159,18 @@ sibling |
 | bip_39_word_space_7 | expose decide puzzle youth ozone step produce |  
 | bip_39_word_space_8 | expose decide puzzle youth ozone step produce route |  
 | bip_39_word_space_9 | expose decide puzzle youth ozone step produce route sibling |  
+| bip_39_word_underscore_1 | expose |  
+| bip_39_word_underscore_10 | expose_decide_puzzle_youth_ozone_step_produce_route_sibling_mushroom |  
+| bip_39_word_underscore_11 | expose_decide_puzzle_youth_ozone_step_produce_route_sibling_mushroom_film |  
+| bip_39_word_underscore_12 | expose_decide_puzzle_youth_ozone_step_produce_route_sibling_mushroom_film_alcohol |  
+| bip_39_word_underscore_2 | expose_decide |  
+| bip_39_word_underscore_3 | expose_decide_puzzle |  
+| bip_39_word_underscore_4 | expose_decide_puzzle_youth |  
+| bip_39_word_underscore_5 | expose_decide_puzzle_youth_ozone |  
+| bip_39_word_underscore_6 | expose_decide_puzzle_youth_ozone_step |  
+| bip_39_word_underscore_7 | expose_decide_puzzle_youth_ozone_step_produce |  
+| bip_39_word_underscore_8 | expose_decide_puzzle_youth_ozone_step_produce_route |  
+| bip_39_word_underscore_9 | expose_decide_puzzle_youth_ozone_step_produce_route_sibling |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | front |  
+| bip_39_word_dash_10 | front-fantasy-ill-human-hollow-virus-mobile-exist-already-empower |  
+| bip_39_word_dash_11 | front-fantasy-ill-human-hollow-virus-mobile-exist-already-empower-wage |  
+| bip_39_word_dash_12 | front-fantasy-ill-human-hollow-virus-mobile-exist-already-empower-wage-add |  
+| bip_39_word_dash_2 | front-fantasy |  
+| bip_39_word_dash_3 | front-fantasy-ill |  
+| bip_39_word_dash_4 | front-fantasy-ill-human |  
+| bip_39_word_dash_5 | front-fantasy-ill-human-hollow |  
+| bip_39_word_dash_6 | front-fantasy-ill-human-hollow-virus |  
+| bip_39_word_dash_7 | front-fantasy-ill-human-hollow-virus-mobile |  
+| bip_39_word_dash_8 | front-fantasy-ill-human-hollow-virus-mobile-exist |  
+| bip_39_word_dash_9 | front-fantasy-ill-human-hollow-virus-mobile-exist-already |  
 | bip_39_word_new_br_1 | front |  
 | bip_39_word_new_br_10 | front<br>fantasy<br>ill<br>human<br>hollow<br>virus<br>mobile<br>exist<br>already<br>empower |  
 | bip_39_word_new_br_11 | front<br>fantasy<br>ill<br>human<br>hollow<br>virus<br>mobile<br>exist<br>already<br>empower<br>wage |  
@@ -147,6 +159,18 @@ already |
 | bip_39_word_space_7 | front fantasy ill human hollow virus mobile |  
 | bip_39_word_space_8 | front fantasy ill human hollow virus mobile exist |  
 | bip_39_word_space_9 | front fantasy ill human hollow virus mobile exist already |  
+| bip_39_word_underscore_1 | front |  
+| bip_39_word_underscore_10 | front_fantasy_ill_human_hollow_virus_mobile_exist_already_empower |  
+| bip_39_word_underscore_11 | front_fantasy_ill_human_hollow_virus_mobile_exist_already_empower_wage |  
+| bip_39_word_underscore_12 | front_fantasy_ill_human_hollow_virus_mobile_exist_already_empower_wage_add |  
+| bip_39_word_underscore_2 | front_fantasy |  
+| bip_39_word_underscore_3 | front_fantasy_ill |  
+| bip_39_word_underscore_4 | front_fantasy_ill_human |  
+| bip_39_word_underscore_5 | front_fantasy_ill_human_hollow |  
+| bip_39_word_underscore_6 | front_fantasy_ill_human_hollow_virus |  
+| bip_39_word_underscore_7 | front_fantasy_ill_human_hollow_virus_mobile |  
+| bip_39_word_underscore_8 | front_fantasy_ill_human_hollow_virus_mobile_exist |  
+| bip_39_word_underscore_9 | front_fantasy_ill_human_hollow_virus_mobile_exist_already |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

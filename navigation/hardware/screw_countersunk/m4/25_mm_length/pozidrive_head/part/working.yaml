@@ -1,3 +1,15 @@
+bip_39_word_dash_1: police
+bip_39_word_dash_10: police-creek-differ-plug-injury-manage-arrow-giraffe-snap-battle
+bip_39_word_dash_11: police-creek-differ-plug-injury-manage-arrow-giraffe-snap-battle-plunge
+bip_39_word_dash_12: police-creek-differ-plug-injury-manage-arrow-giraffe-snap-battle-plunge-adapt
+bip_39_word_dash_2: police-creek
+bip_39_word_dash_3: police-creek-differ
+bip_39_word_dash_4: police-creek-differ-plug
+bip_39_word_dash_5: police-creek-differ-plug-injury
+bip_39_word_dash_6: police-creek-differ-plug-injury-manage
+bip_39_word_dash_7: police-creek-differ-plug-injury-manage-arrow
+bip_39_word_dash_8: police-creek-differ-plug-injury-manage-arrow-giraffe
+bip_39_word_dash_9: police-creek-differ-plug-injury-manage-arrow-giraffe-snap
 bip_39_word_new_br_1: police
 bip_39_word_new_br_10: police<br>creek<br>differ<br>plug<br>injury<br>manage<br>arrow<br>giraffe<br>snap<br>battle
 bip_39_word_new_br_11: police<br>creek<br>differ<br>plug<br>injury<br>manage<br>arrow<br>giraffe<br>snap<br>battle<br>plunge
@@ -193,6 +205,18 @@ bip_39_word_space_6: police creek differ plug injury manage
 bip_39_word_space_7: police creek differ plug injury manage arrow
 bip_39_word_space_8: police creek differ plug injury manage arrow giraffe
 bip_39_word_space_9: police creek differ plug injury manage arrow giraffe snap
+bip_39_word_underscore_1: police
+bip_39_word_underscore_10: police_creek_differ_plug_injury_manage_arrow_giraffe_snap_battle
+bip_39_word_underscore_11: police_creek_differ_plug_injury_manage_arrow_giraffe_snap_battle_plunge
+bip_39_word_underscore_12: police_creek_differ_plug_injury_manage_arrow_giraffe_snap_battle_plunge_adapt
+bip_39_word_underscore_2: police_creek
+bip_39_word_underscore_3: police_creek_differ
+bip_39_word_underscore_4: police_creek_differ_plug
+bip_39_word_underscore_5: police_creek_differ_plug_injury
+bip_39_word_underscore_6: police_creek_differ_plug_injury_manage
+bip_39_word_underscore_7: police_creek_differ_plug_injury_manage_arrow
+bip_39_word_underscore_8: police_creek_differ_plug_injury_manage_arrow_giraffe
+bip_39_word_underscore_9: police_creek_differ_plug_injury_manage_arrow_giraffe_snap
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrive |  
+| bip_39_word_dash_10 | arrive-output-dial-best-maid-ride-lobster-claim-timber-blade |  
+| bip_39_word_dash_11 | arrive-output-dial-best-maid-ride-lobster-claim-timber-blade-detect |  
+| bip_39_word_dash_12 | arrive-output-dial-best-maid-ride-lobster-claim-timber-blade-detect-artist |  
+| bip_39_word_dash_2 | arrive-output |  
+| bip_39_word_dash_3 | arrive-output-dial |  
+| bip_39_word_dash_4 | arrive-output-dial-best |  
+| bip_39_word_dash_5 | arrive-output-dial-best-maid |  
+| bip_39_word_dash_6 | arrive-output-dial-best-maid-ride |  
+| bip_39_word_dash_7 | arrive-output-dial-best-maid-ride-lobster |  
+| bip_39_word_dash_8 | arrive-output-dial-best-maid-ride-lobster-claim |  
+| bip_39_word_dash_9 | arrive-output-dial-best-maid-ride-lobster-claim-timber |  
 | bip_39_word_new_br_1 | arrive |  
 | bip_39_word_new_br_10 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim<br>timber<br>blade |  
 | bip_39_word_new_br_11 | arrive<br>output<br>dial<br>best<br>maid<br>ride<br>lobster<br>claim<br>timber<br>blade<br>detect |  
@@ -147,6 +159,18 @@ timber |
 | bip_39_word_space_7 | arrive output dial best maid ride lobster |  
 | bip_39_word_space_8 | arrive output dial best maid ride lobster claim |  
 | bip_39_word_space_9 | arrive output dial best maid ride lobster claim timber |  
+| bip_39_word_underscore_1 | arrive |  
+| bip_39_word_underscore_10 | arrive_output_dial_best_maid_ride_lobster_claim_timber_blade |  
+| bip_39_word_underscore_11 | arrive_output_dial_best_maid_ride_lobster_claim_timber_blade_detect |  
+| bip_39_word_underscore_12 | arrive_output_dial_best_maid_ride_lobster_claim_timber_blade_detect_artist |  
+| bip_39_word_underscore_2 | arrive_output |  
+| bip_39_word_underscore_3 | arrive_output_dial |  
+| bip_39_word_underscore_4 | arrive_output_dial_best |  
+| bip_39_word_underscore_5 | arrive_output_dial_best_maid |  
+| bip_39_word_underscore_6 | arrive_output_dial_best_maid_ride |  
+| bip_39_word_underscore_7 | arrive_output_dial_best_maid_ride_lobster |  
+| bip_39_word_underscore_8 | arrive_output_dial_best_maid_ride_lobster_claim |  
+| bip_39_word_underscore_9 | arrive_output_dial_best_maid_ride_lobster_claim_timber |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

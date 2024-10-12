@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | worry |  
+| bip_39_word_dash_10 | worry-stem-cushion-forward-omit-grocery-seat-voyage-cost-old |  
+| bip_39_word_dash_11 | worry-stem-cushion-forward-omit-grocery-seat-voyage-cost-old-december |  
+| bip_39_word_dash_12 | worry-stem-cushion-forward-omit-grocery-seat-voyage-cost-old-december-average |  
+| bip_39_word_dash_2 | worry-stem |  
+| bip_39_word_dash_3 | worry-stem-cushion |  
+| bip_39_word_dash_4 | worry-stem-cushion-forward |  
+| bip_39_word_dash_5 | worry-stem-cushion-forward-omit |  
+| bip_39_word_dash_6 | worry-stem-cushion-forward-omit-grocery |  
+| bip_39_word_dash_7 | worry-stem-cushion-forward-omit-grocery-seat |  
+| bip_39_word_dash_8 | worry-stem-cushion-forward-omit-grocery-seat-voyage |  
+| bip_39_word_dash_9 | worry-stem-cushion-forward-omit-grocery-seat-voyage-cost |  
 | bip_39_word_new_br_1 | worry |  
 | bip_39_word_new_br_10 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage<br>cost<br>old |  
 | bip_39_word_new_br_11 | worry<br>stem<br>cushion<br>forward<br>omit<br>grocery<br>seat<br>voyage<br>cost<br>old<br>december |  
@@ -147,6 +159,18 @@ cost |
 | bip_39_word_space_7 | worry stem cushion forward omit grocery seat |  
 | bip_39_word_space_8 | worry stem cushion forward omit grocery seat voyage |  
 | bip_39_word_space_9 | worry stem cushion forward omit grocery seat voyage cost |  
+| bip_39_word_underscore_1 | worry |  
+| bip_39_word_underscore_10 | worry_stem_cushion_forward_omit_grocery_seat_voyage_cost_old |  
+| bip_39_word_underscore_11 | worry_stem_cushion_forward_omit_grocery_seat_voyage_cost_old_december |  
+| bip_39_word_underscore_12 | worry_stem_cushion_forward_omit_grocery_seat_voyage_cost_old_december_average |  
+| bip_39_word_underscore_2 | worry_stem |  
+| bip_39_word_underscore_3 | worry_stem_cushion |  
+| bip_39_word_underscore_4 | worry_stem_cushion_forward |  
+| bip_39_word_underscore_5 | worry_stem_cushion_forward_omit |  
+| bip_39_word_underscore_6 | worry_stem_cushion_forward_omit_grocery |  
+| bip_39_word_underscore_7 | worry_stem_cushion_forward_omit_grocery_seat |  
+| bip_39_word_underscore_8 | worry_stem_cushion_forward_omit_grocery_seat_voyage |  
+| bip_39_word_underscore_9 | worry_stem_cushion_forward_omit_grocery_seat_voyage_cost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

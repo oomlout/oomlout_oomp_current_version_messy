@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | liberty |  
+| bip_39_word_dash_10 | liberty-toward-spirit-blast-powder-butter-fatigue-else-average-sphere |  
+| bip_39_word_dash_11 | liberty-toward-spirit-blast-powder-butter-fatigue-else-average-sphere-fever |  
+| bip_39_word_dash_12 | liberty-toward-spirit-blast-powder-butter-fatigue-else-average-sphere-fever-always |  
+| bip_39_word_dash_2 | liberty-toward |  
+| bip_39_word_dash_3 | liberty-toward-spirit |  
+| bip_39_word_dash_4 | liberty-toward-spirit-blast |  
+| bip_39_word_dash_5 | liberty-toward-spirit-blast-powder |  
+| bip_39_word_dash_6 | liberty-toward-spirit-blast-powder-butter |  
+| bip_39_word_dash_7 | liberty-toward-spirit-blast-powder-butter-fatigue |  
+| bip_39_word_dash_8 | liberty-toward-spirit-blast-powder-butter-fatigue-else |  
+| bip_39_word_dash_9 | liberty-toward-spirit-blast-powder-butter-fatigue-else-average |  
 | bip_39_word_new_br_1 | liberty |  
 | bip_39_word_new_br_10 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere |  
 | bip_39_word_new_br_11 | liberty<br>toward<br>spirit<br>blast<br>powder<br>butter<br>fatigue<br>else<br>average<br>sphere<br>fever |  
@@ -147,6 +159,18 @@ average |
 | bip_39_word_space_7 | liberty toward spirit blast powder butter fatigue |  
 | bip_39_word_space_8 | liberty toward spirit blast powder butter fatigue else |  
 | bip_39_word_space_9 | liberty toward spirit blast powder butter fatigue else average |  
+| bip_39_word_underscore_1 | liberty |  
+| bip_39_word_underscore_10 | liberty_toward_spirit_blast_powder_butter_fatigue_else_average_sphere |  
+| bip_39_word_underscore_11 | liberty_toward_spirit_blast_powder_butter_fatigue_else_average_sphere_fever |  
+| bip_39_word_underscore_12 | liberty_toward_spirit_blast_powder_butter_fatigue_else_average_sphere_fever_always |  
+| bip_39_word_underscore_2 | liberty_toward |  
+| bip_39_word_underscore_3 | liberty_toward_spirit |  
+| bip_39_word_underscore_4 | liberty_toward_spirit_blast |  
+| bip_39_word_underscore_5 | liberty_toward_spirit_blast_powder |  
+| bip_39_word_underscore_6 | liberty_toward_spirit_blast_powder_butter |  
+| bip_39_word_underscore_7 | liberty_toward_spirit_blast_powder_butter_fatigue |  
+| bip_39_word_underscore_8 | liberty_toward_spirit_blast_powder_butter_fatigue_else |  
+| bip_39_word_underscore_9 | liberty_toward_spirit_blast_powder_butter_fatigue_else_average |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

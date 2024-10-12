@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | train |  
+| bip_39_word_dash_10 | train-replace-vendor-fossil-aunt-odor-slam-flash-voice-reopen |  
+| bip_39_word_dash_11 | train-replace-vendor-fossil-aunt-odor-slam-flash-voice-reopen-bird |  
+| bip_39_word_dash_12 | train-replace-vendor-fossil-aunt-odor-slam-flash-voice-reopen-bird-addict |  
+| bip_39_word_dash_2 | train-replace |  
+| bip_39_word_dash_3 | train-replace-vendor |  
+| bip_39_word_dash_4 | train-replace-vendor-fossil |  
+| bip_39_word_dash_5 | train-replace-vendor-fossil-aunt |  
+| bip_39_word_dash_6 | train-replace-vendor-fossil-aunt-odor |  
+| bip_39_word_dash_7 | train-replace-vendor-fossil-aunt-odor-slam |  
+| bip_39_word_dash_8 | train-replace-vendor-fossil-aunt-odor-slam-flash |  
+| bip_39_word_dash_9 | train-replace-vendor-fossil-aunt-odor-slam-flash-voice |  
 | bip_39_word_new_br_1 | train |  
 | bip_39_word_new_br_10 | train<br>replace<br>vendor<br>fossil<br>aunt<br>odor<br>slam<br>flash<br>voice<br>reopen |  
 | bip_39_word_new_br_11 | train<br>replace<br>vendor<br>fossil<br>aunt<br>odor<br>slam<br>flash<br>voice<br>reopen<br>bird |  
@@ -147,6 +159,18 @@ voice |
 | bip_39_word_space_7 | train replace vendor fossil aunt odor slam |  
 | bip_39_word_space_8 | train replace vendor fossil aunt odor slam flash |  
 | bip_39_word_space_9 | train replace vendor fossil aunt odor slam flash voice |  
+| bip_39_word_underscore_1 | train |  
+| bip_39_word_underscore_10 | train_replace_vendor_fossil_aunt_odor_slam_flash_voice_reopen |  
+| bip_39_word_underscore_11 | train_replace_vendor_fossil_aunt_odor_slam_flash_voice_reopen_bird |  
+| bip_39_word_underscore_12 | train_replace_vendor_fossil_aunt_odor_slam_flash_voice_reopen_bird_addict |  
+| bip_39_word_underscore_2 | train_replace |  
+| bip_39_word_underscore_3 | train_replace_vendor |  
+| bip_39_word_underscore_4 | train_replace_vendor_fossil |  
+| bip_39_word_underscore_5 | train_replace_vendor_fossil_aunt |  
+| bip_39_word_underscore_6 | train_replace_vendor_fossil_aunt_odor |  
+| bip_39_word_underscore_7 | train_replace_vendor_fossil_aunt_odor_slam |  
+| bip_39_word_underscore_8 | train_replace_vendor_fossil_aunt_odor_slam_flash |  
+| bip_39_word_underscore_9 | train_replace_vendor_fossil_aunt_odor_slam_flash_voice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

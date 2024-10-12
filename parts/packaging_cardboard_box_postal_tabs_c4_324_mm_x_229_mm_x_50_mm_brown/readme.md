@@ -34,6 +34,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | print |  
+| bip_39_word_dash_10 | print-cave-output-since-recipe-simple-vicious-health-beyond-walk |  
+| bip_39_word_dash_11 | print-cave-output-since-recipe-simple-vicious-health-beyond-walk-legal |  
+| bip_39_word_dash_12 | print-cave-output-since-recipe-simple-vicious-health-beyond-walk-legal-accident |  
+| bip_39_word_dash_2 | print-cave |  
+| bip_39_word_dash_3 | print-cave-output |  
+| bip_39_word_dash_4 | print-cave-output-since |  
+| bip_39_word_dash_5 | print-cave-output-since-recipe |  
+| bip_39_word_dash_6 | print-cave-output-since-recipe-simple |  
+| bip_39_word_dash_7 | print-cave-output-since-recipe-simple-vicious |  
+| bip_39_word_dash_8 | print-cave-output-since-recipe-simple-vicious-health |  
+| bip_39_word_dash_9 | print-cave-output-since-recipe-simple-vicious-health-beyond |  
 | bip_39_word_new_br_1 | print |  
 | bip_39_word_new_br_10 | print<br>cave<br>output<br>since<br>recipe<br>simple<br>vicious<br>health<br>beyond<br>walk |  
 | bip_39_word_new_br_11 | print<br>cave<br>output<br>since<br>recipe<br>simple<br>vicious<br>health<br>beyond<br>walk<br>legal |  
@@ -149,6 +161,18 @@ beyond |
 | bip_39_word_space_7 | print cave output since recipe simple vicious |  
 | bip_39_word_space_8 | print cave output since recipe simple vicious health |  
 | bip_39_word_space_9 | print cave output since recipe simple vicious health beyond |  
+| bip_39_word_underscore_1 | print |  
+| bip_39_word_underscore_10 | print_cave_output_since_recipe_simple_vicious_health_beyond_walk |  
+| bip_39_word_underscore_11 | print_cave_output_since_recipe_simple_vicious_health_beyond_walk_legal |  
+| bip_39_word_underscore_12 | print_cave_output_since_recipe_simple_vicious_health_beyond_walk_legal_accident |  
+| bip_39_word_underscore_2 | print_cave |  
+| bip_39_word_underscore_3 | print_cave_output |  
+| bip_39_word_underscore_4 | print_cave_output_since |  
+| bip_39_word_underscore_5 | print_cave_output_since_recipe |  
+| bip_39_word_underscore_6 | print_cave_output_since_recipe_simple |  
+| bip_39_word_underscore_7 | print_cave_output_since_recipe_simple_vicious |  
+| bip_39_word_underscore_8 | print_cave_output_since_recipe_simple_vicious_health |  
+| bip_39_word_underscore_9 | print_cave_output_since_recipe_simple_vicious_health_beyond |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

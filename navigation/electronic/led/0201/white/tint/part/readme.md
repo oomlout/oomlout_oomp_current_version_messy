@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ski |  
+| bip_39_word_dash_10 | ski-grace-fruit-surface-menu-cheap-often-beef-pattern-neutral |  
+| bip_39_word_dash_11 | ski-grace-fruit-surface-menu-cheap-often-beef-pattern-neutral-wide |  
+| bip_39_word_dash_12 | ski-grace-fruit-surface-menu-cheap-often-beef-pattern-neutral-wide-again |  
+| bip_39_word_dash_2 | ski-grace |  
+| bip_39_word_dash_3 | ski-grace-fruit |  
+| bip_39_word_dash_4 | ski-grace-fruit-surface |  
+| bip_39_word_dash_5 | ski-grace-fruit-surface-menu |  
+| bip_39_word_dash_6 | ski-grace-fruit-surface-menu-cheap |  
+| bip_39_word_dash_7 | ski-grace-fruit-surface-menu-cheap-often |  
+| bip_39_word_dash_8 | ski-grace-fruit-surface-menu-cheap-often-beef |  
+| bip_39_word_dash_9 | ski-grace-fruit-surface-menu-cheap-often-beef-pattern |  
 | bip_39_word_new_br_1 | ski |  
 | bip_39_word_new_br_10 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef<br>pattern<br>neutral |  
 | bip_39_word_new_br_11 | ski<br>grace<br>fruit<br>surface<br>menu<br>cheap<br>often<br>beef<br>pattern<br>neutral<br>wide |  
@@ -147,6 +159,18 @@ pattern |
 | bip_39_word_space_7 | ski grace fruit surface menu cheap often |  
 | bip_39_word_space_8 | ski grace fruit surface menu cheap often beef |  
 | bip_39_word_space_9 | ski grace fruit surface menu cheap often beef pattern |  
+| bip_39_word_underscore_1 | ski |  
+| bip_39_word_underscore_10 | ski_grace_fruit_surface_menu_cheap_often_beef_pattern_neutral |  
+| bip_39_word_underscore_11 | ski_grace_fruit_surface_menu_cheap_often_beef_pattern_neutral_wide |  
+| bip_39_word_underscore_12 | ski_grace_fruit_surface_menu_cheap_often_beef_pattern_neutral_wide_again |  
+| bip_39_word_underscore_2 | ski_grace |  
+| bip_39_word_underscore_3 | ski_grace_fruit |  
+| bip_39_word_underscore_4 | ski_grace_fruit_surface |  
+| bip_39_word_underscore_5 | ski_grace_fruit_surface_menu |  
+| bip_39_word_underscore_6 | ski_grace_fruit_surface_menu_cheap |  
+| bip_39_word_underscore_7 | ski_grace_fruit_surface_menu_cheap_often |  
+| bip_39_word_underscore_8 | ski_grace_fruit_surface_menu_cheap_often_beef |  
+| bip_39_word_underscore_9 | ski_grace_fruit_surface_menu_cheap_often_beef_pattern |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

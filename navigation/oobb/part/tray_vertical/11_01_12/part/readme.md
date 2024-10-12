@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrange |  
+| bip_39_word_dash_10 | arrange-nerve-farm-daring-verify-gift-punch-wrestle-scissors-inmate |  
+| bip_39_word_dash_11 | arrange-nerve-farm-daring-verify-gift-punch-wrestle-scissors-inmate-often |  
+| bip_39_word_dash_12 | arrange-nerve-farm-daring-verify-gift-punch-wrestle-scissors-inmate-often-also |  
+| bip_39_word_dash_2 | arrange-nerve |  
+| bip_39_word_dash_3 | arrange-nerve-farm |  
+| bip_39_word_dash_4 | arrange-nerve-farm-daring |  
+| bip_39_word_dash_5 | arrange-nerve-farm-daring-verify |  
+| bip_39_word_dash_6 | arrange-nerve-farm-daring-verify-gift |  
+| bip_39_word_dash_7 | arrange-nerve-farm-daring-verify-gift-punch |  
+| bip_39_word_dash_8 | arrange-nerve-farm-daring-verify-gift-punch-wrestle |  
+| bip_39_word_dash_9 | arrange-nerve-farm-daring-verify-gift-punch-wrestle-scissors |  
 | bip_39_word_new_br_1 | arrange |  
 | bip_39_word_new_br_10 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate |  
 | bip_39_word_new_br_11 | arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate<br>often |  
@@ -147,6 +159,18 @@ scissors |
 | bip_39_word_space_7 | arrange nerve farm daring verify gift punch |  
 | bip_39_word_space_8 | arrange nerve farm daring verify gift punch wrestle |  
 | bip_39_word_space_9 | arrange nerve farm daring verify gift punch wrestle scissors |  
+| bip_39_word_underscore_1 | arrange |  
+| bip_39_word_underscore_10 | arrange_nerve_farm_daring_verify_gift_punch_wrestle_scissors_inmate |  
+| bip_39_word_underscore_11 | arrange_nerve_farm_daring_verify_gift_punch_wrestle_scissors_inmate_often |  
+| bip_39_word_underscore_12 | arrange_nerve_farm_daring_verify_gift_punch_wrestle_scissors_inmate_often_also |  
+| bip_39_word_underscore_2 | arrange_nerve |  
+| bip_39_word_underscore_3 | arrange_nerve_farm |  
+| bip_39_word_underscore_4 | arrange_nerve_farm_daring |  
+| bip_39_word_underscore_5 | arrange_nerve_farm_daring_verify |  
+| bip_39_word_underscore_6 | arrange_nerve_farm_daring_verify_gift |  
+| bip_39_word_underscore_7 | arrange_nerve_farm_daring_verify_gift_punch |  
+| bip_39_word_underscore_8 | arrange_nerve_farm_daring_verify_gift_punch_wrestle |  
+| bip_39_word_underscore_9 | arrange_nerve_farm_daring_verify_gift_punch_wrestle_scissors |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

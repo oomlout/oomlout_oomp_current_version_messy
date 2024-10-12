@@ -1,3 +1,15 @@
+bip_39_word_dash_1: output
+bip_39_word_dash_10: output-valid-host-glow-strike-pulp-actor-click-damp-sing
+bip_39_word_dash_11: output-valid-host-glow-strike-pulp-actor-click-damp-sing-impulse
+bip_39_word_dash_12: output-valid-host-glow-strike-pulp-actor-click-damp-sing-impulse-appear
+bip_39_word_dash_2: output-valid
+bip_39_word_dash_3: output-valid-host
+bip_39_word_dash_4: output-valid-host-glow
+bip_39_word_dash_5: output-valid-host-glow-strike
+bip_39_word_dash_6: output-valid-host-glow-strike-pulp
+bip_39_word_dash_7: output-valid-host-glow-strike-pulp-actor
+bip_39_word_dash_8: output-valid-host-glow-strike-pulp-actor-click
+bip_39_word_dash_9: output-valid-host-glow-strike-pulp-actor-click-damp
 bip_39_word_new_br_1: output
 bip_39_word_new_br_10: output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing
 bip_39_word_new_br_11: output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing<br>impulse
@@ -192,6 +204,18 @@ bip_39_word_space_6: output valid host glow strike pulp
 bip_39_word_space_7: output valid host glow strike pulp actor
 bip_39_word_space_8: output valid host glow strike pulp actor click
 bip_39_word_space_9: output valid host glow strike pulp actor click damp
+bip_39_word_underscore_1: output
+bip_39_word_underscore_10: output_valid_host_glow_strike_pulp_actor_click_damp_sing
+bip_39_word_underscore_11: output_valid_host_glow_strike_pulp_actor_click_damp_sing_impulse
+bip_39_word_underscore_12: output_valid_host_glow_strike_pulp_actor_click_damp_sing_impulse_appear
+bip_39_word_underscore_2: output_valid
+bip_39_word_underscore_3: output_valid_host
+bip_39_word_underscore_4: output_valid_host_glow
+bip_39_word_underscore_5: output_valid_host_glow_strike
+bip_39_word_underscore_6: output_valid_host_glow_strike_pulp
+bip_39_word_underscore_7: output_valid_host_glow_strike_pulp_actor
+bip_39_word_underscore_8: output_valid_host_glow_strike_pulp_actor_click
+bip_39_word_underscore_9: output_valid_host_glow_strike_pulp_actor_click_damp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

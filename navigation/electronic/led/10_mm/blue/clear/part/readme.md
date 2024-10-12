@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tail |  
+| bip_39_word_dash_10 | tail-car-glue-enroll-evolve-senior-tuition-blast-brass-vacant |  
+| bip_39_word_dash_11 | tail-car-glue-enroll-evolve-senior-tuition-blast-brass-vacant-truth |  
+| bip_39_word_dash_12 | tail-car-glue-enroll-evolve-senior-tuition-blast-brass-vacant-truth-auction |  
+| bip_39_word_dash_2 | tail-car |  
+| bip_39_word_dash_3 | tail-car-glue |  
+| bip_39_word_dash_4 | tail-car-glue-enroll |  
+| bip_39_word_dash_5 | tail-car-glue-enroll-evolve |  
+| bip_39_word_dash_6 | tail-car-glue-enroll-evolve-senior |  
+| bip_39_word_dash_7 | tail-car-glue-enroll-evolve-senior-tuition |  
+| bip_39_word_dash_8 | tail-car-glue-enroll-evolve-senior-tuition-blast |  
+| bip_39_word_dash_9 | tail-car-glue-enroll-evolve-senior-tuition-blast-brass |  
 | bip_39_word_new_br_1 | tail |  
 | bip_39_word_new_br_10 | tail<br>car<br>glue<br>enroll<br>evolve<br>senior<br>tuition<br>blast<br>brass<br>vacant |  
 | bip_39_word_new_br_11 | tail<br>car<br>glue<br>enroll<br>evolve<br>senior<br>tuition<br>blast<br>brass<br>vacant<br>truth |  
@@ -147,6 +159,18 @@ brass |
 | bip_39_word_space_7 | tail car glue enroll evolve senior tuition |  
 | bip_39_word_space_8 | tail car glue enroll evolve senior tuition blast |  
 | bip_39_word_space_9 | tail car glue enroll evolve senior tuition blast brass |  
+| bip_39_word_underscore_1 | tail |  
+| bip_39_word_underscore_10 | tail_car_glue_enroll_evolve_senior_tuition_blast_brass_vacant |  
+| bip_39_word_underscore_11 | tail_car_glue_enroll_evolve_senior_tuition_blast_brass_vacant_truth |  
+| bip_39_word_underscore_12 | tail_car_glue_enroll_evolve_senior_tuition_blast_brass_vacant_truth_auction |  
+| bip_39_word_underscore_2 | tail_car |  
+| bip_39_word_underscore_3 | tail_car_glue |  
+| bip_39_word_underscore_4 | tail_car_glue_enroll |  
+| bip_39_word_underscore_5 | tail_car_glue_enroll_evolve |  
+| bip_39_word_underscore_6 | tail_car_glue_enroll_evolve_senior |  
+| bip_39_word_underscore_7 | tail_car_glue_enroll_evolve_senior_tuition |  
+| bip_39_word_underscore_8 | tail_car_glue_enroll_evolve_senior_tuition_blast |  
+| bip_39_word_underscore_9 | tail_car_glue_enroll_evolve_senior_tuition_blast_brass |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

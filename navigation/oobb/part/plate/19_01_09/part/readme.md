@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | capital |  
+| bip_39_word_dash_10 | capital-ladder-history-head-bottom-zebra-liberty-fee-review-reduce |  
+| bip_39_word_dash_11 | capital-ladder-history-head-bottom-zebra-liberty-fee-review-reduce-mystery |  
+| bip_39_word_dash_12 | capital-ladder-history-head-bottom-zebra-liberty-fee-review-reduce-mystery-alone |  
+| bip_39_word_dash_2 | capital-ladder |  
+| bip_39_word_dash_3 | capital-ladder-history |  
+| bip_39_word_dash_4 | capital-ladder-history-head |  
+| bip_39_word_dash_5 | capital-ladder-history-head-bottom |  
+| bip_39_word_dash_6 | capital-ladder-history-head-bottom-zebra |  
+| bip_39_word_dash_7 | capital-ladder-history-head-bottom-zebra-liberty |  
+| bip_39_word_dash_8 | capital-ladder-history-head-bottom-zebra-liberty-fee |  
+| bip_39_word_dash_9 | capital-ladder-history-head-bottom-zebra-liberty-fee-review |  
 | bip_39_word_new_br_1 | capital |  
 | bip_39_word_new_br_10 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee<br>review<br>reduce |  
 | bip_39_word_new_br_11 | capital<br>ladder<br>history<br>head<br>bottom<br>zebra<br>liberty<br>fee<br>review<br>reduce<br>mystery |  
@@ -147,6 +159,18 @@ review |
 | bip_39_word_space_7 | capital ladder history head bottom zebra liberty |  
 | bip_39_word_space_8 | capital ladder history head bottom zebra liberty fee |  
 | bip_39_word_space_9 | capital ladder history head bottom zebra liberty fee review |  
+| bip_39_word_underscore_1 | capital |  
+| bip_39_word_underscore_10 | capital_ladder_history_head_bottom_zebra_liberty_fee_review_reduce |  
+| bip_39_word_underscore_11 | capital_ladder_history_head_bottom_zebra_liberty_fee_review_reduce_mystery |  
+| bip_39_word_underscore_12 | capital_ladder_history_head_bottom_zebra_liberty_fee_review_reduce_mystery_alone |  
+| bip_39_word_underscore_2 | capital_ladder |  
+| bip_39_word_underscore_3 | capital_ladder_history |  
+| bip_39_word_underscore_4 | capital_ladder_history_head |  
+| bip_39_word_underscore_5 | capital_ladder_history_head_bottom |  
+| bip_39_word_underscore_6 | capital_ladder_history_head_bottom_zebra |  
+| bip_39_word_underscore_7 | capital_ladder_history_head_bottom_zebra_liberty |  
+| bip_39_word_underscore_8 | capital_ladder_history_head_bottom_zebra_liberty_fee |  
+| bip_39_word_underscore_9 | capital_ladder_history_head_bottom_zebra_liberty_fee_review |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

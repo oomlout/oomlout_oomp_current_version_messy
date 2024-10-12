@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wasp |  
+| bip_39_word_dash_10 | wasp-card-bread-category-elevator-input-practice-argue-current-can |  
+| bip_39_word_dash_11 | wasp-card-bread-category-elevator-input-practice-argue-current-can-snake |  
+| bip_39_word_dash_12 | wasp-card-bread-category-elevator-input-practice-argue-current-can-snake-ancient |  
+| bip_39_word_dash_2 | wasp-card |  
+| bip_39_word_dash_3 | wasp-card-bread |  
+| bip_39_word_dash_4 | wasp-card-bread-category |  
+| bip_39_word_dash_5 | wasp-card-bread-category-elevator |  
+| bip_39_word_dash_6 | wasp-card-bread-category-elevator-input |  
+| bip_39_word_dash_7 | wasp-card-bread-category-elevator-input-practice |  
+| bip_39_word_dash_8 | wasp-card-bread-category-elevator-input-practice-argue |  
+| bip_39_word_dash_9 | wasp-card-bread-category-elevator-input-practice-argue-current |  
 | bip_39_word_new_br_1 | wasp |  
 | bip_39_word_new_br_10 | wasp<br>card<br>bread<br>category<br>elevator<br>input<br>practice<br>argue<br>current<br>can |  
 | bip_39_word_new_br_11 | wasp<br>card<br>bread<br>category<br>elevator<br>input<br>practice<br>argue<br>current<br>can<br>snake |  
@@ -147,6 +159,18 @@ current |
 | bip_39_word_space_7 | wasp card bread category elevator input practice |  
 | bip_39_word_space_8 | wasp card bread category elevator input practice argue |  
 | bip_39_word_space_9 | wasp card bread category elevator input practice argue current |  
+| bip_39_word_underscore_1 | wasp |  
+| bip_39_word_underscore_10 | wasp_card_bread_category_elevator_input_practice_argue_current_can |  
+| bip_39_word_underscore_11 | wasp_card_bread_category_elevator_input_practice_argue_current_can_snake |  
+| bip_39_word_underscore_12 | wasp_card_bread_category_elevator_input_practice_argue_current_can_snake_ancient |  
+| bip_39_word_underscore_2 | wasp_card |  
+| bip_39_word_underscore_3 | wasp_card_bread |  
+| bip_39_word_underscore_4 | wasp_card_bread_category |  
+| bip_39_word_underscore_5 | wasp_card_bread_category_elevator |  
+| bip_39_word_underscore_6 | wasp_card_bread_category_elevator_input |  
+| bip_39_word_underscore_7 | wasp_card_bread_category_elevator_input_practice |  
+| bip_39_word_underscore_8 | wasp_card_bread_category_elevator_input_practice_argue |  
+| bip_39_word_underscore_9 | wasp_card_bread_category_elevator_input_practice_argue_current |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

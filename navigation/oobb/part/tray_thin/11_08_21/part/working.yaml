@@ -1,3 +1,15 @@
+bip_39_word_dash_1: push
+bip_39_word_dash_10: push-antique-quote-jazz-doll-dutch-settle-lady-cost-like
+bip_39_word_dash_11: push-antique-quote-jazz-doll-dutch-settle-lady-cost-like-vehicle
+bip_39_word_dash_12: push-antique-quote-jazz-doll-dutch-settle-lady-cost-like-vehicle-adjust
+bip_39_word_dash_2: push-antique
+bip_39_word_dash_3: push-antique-quote
+bip_39_word_dash_4: push-antique-quote-jazz
+bip_39_word_dash_5: push-antique-quote-jazz-doll
+bip_39_word_dash_6: push-antique-quote-jazz-doll-dutch
+bip_39_word_dash_7: push-antique-quote-jazz-doll-dutch-settle
+bip_39_word_dash_8: push-antique-quote-jazz-doll-dutch-settle-lady
+bip_39_word_dash_9: push-antique-quote-jazz-doll-dutch-settle-lady-cost
 bip_39_word_new_br_1: push
 bip_39_word_new_br_10: push<br>antique<br>quote<br>jazz<br>doll<br>dutch<br>settle<br>lady<br>cost<br>like
 bip_39_word_new_br_11: push<br>antique<br>quote<br>jazz<br>doll<br>dutch<br>settle<br>lady<br>cost<br>like<br>vehicle
@@ -192,6 +204,18 @@ bip_39_word_space_6: push antique quote jazz doll dutch
 bip_39_word_space_7: push antique quote jazz doll dutch settle
 bip_39_word_space_8: push antique quote jazz doll dutch settle lady
 bip_39_word_space_9: push antique quote jazz doll dutch settle lady cost
+bip_39_word_underscore_1: push
+bip_39_word_underscore_10: push_antique_quote_jazz_doll_dutch_settle_lady_cost_like
+bip_39_word_underscore_11: push_antique_quote_jazz_doll_dutch_settle_lady_cost_like_vehicle
+bip_39_word_underscore_12: push_antique_quote_jazz_doll_dutch_settle_lady_cost_like_vehicle_adjust
+bip_39_word_underscore_2: push_antique
+bip_39_word_underscore_3: push_antique_quote
+bip_39_word_underscore_4: push_antique_quote_jazz
+bip_39_word_underscore_5: push_antique_quote_jazz_doll
+bip_39_word_underscore_6: push_antique_quote_jazz_doll_dutch
+bip_39_word_underscore_7: push_antique_quote_jazz_doll_dutch_settle
+bip_39_word_underscore_8: push_antique_quote_jazz_doll_dutch_settle_lady
+bip_39_word_underscore_9: push_antique_quote_jazz_doll_dutch_settle_lady_cost
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gallery
+bip_39_word_dash_10: gallery-wolf-until-need-banner-reunion-cattle-struggle-gaze-trade
+bip_39_word_dash_11: gallery-wolf-until-need-banner-reunion-cattle-struggle-gaze-trade-double
+bip_39_word_dash_12: gallery-wolf-until-need-banner-reunion-cattle-struggle-gaze-trade-double-auction
+bip_39_word_dash_2: gallery-wolf
+bip_39_word_dash_3: gallery-wolf-until
+bip_39_word_dash_4: gallery-wolf-until-need
+bip_39_word_dash_5: gallery-wolf-until-need-banner
+bip_39_word_dash_6: gallery-wolf-until-need-banner-reunion
+bip_39_word_dash_7: gallery-wolf-until-need-banner-reunion-cattle
+bip_39_word_dash_8: gallery-wolf-until-need-banner-reunion-cattle-struggle
+bip_39_word_dash_9: gallery-wolf-until-need-banner-reunion-cattle-struggle-gaze
 bip_39_word_new_br_1: gallery
 bip_39_word_new_br_10: gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade
 bip_39_word_new_br_11: gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade<br>double
@@ -194,6 +206,18 @@ bip_39_word_space_6: gallery wolf until need banner reunion
 bip_39_word_space_7: gallery wolf until need banner reunion cattle
 bip_39_word_space_8: gallery wolf until need banner reunion cattle struggle
 bip_39_word_space_9: gallery wolf until need banner reunion cattle struggle gaze
+bip_39_word_underscore_1: gallery
+bip_39_word_underscore_10: gallery_wolf_until_need_banner_reunion_cattle_struggle_gaze_trade
+bip_39_word_underscore_11: gallery_wolf_until_need_banner_reunion_cattle_struggle_gaze_trade_double
+bip_39_word_underscore_12: gallery_wolf_until_need_banner_reunion_cattle_struggle_gaze_trade_double_auction
+bip_39_word_underscore_2: gallery_wolf
+bip_39_word_underscore_3: gallery_wolf_until
+bip_39_word_underscore_4: gallery_wolf_until_need
+bip_39_word_underscore_5: gallery_wolf_until_need_banner
+bip_39_word_underscore_6: gallery_wolf_until_need_banner_reunion
+bip_39_word_underscore_7: gallery_wolf_until_need_banner_reunion_cattle
+bip_39_word_underscore_8: gallery_wolf_until_need_banner_reunion_cattle_struggle
+bip_39_word_underscore_9: gallery_wolf_until_need_banner_reunion_cattle_struggle_gaze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

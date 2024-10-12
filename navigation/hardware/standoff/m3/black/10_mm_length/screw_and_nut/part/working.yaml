@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flat
+bip_39_word_dash_10: flat-balance-elegant-autumn-process-unfold-belt-tiny-kingdom-frost
+bip_39_word_dash_11: flat-balance-elegant-autumn-process-unfold-belt-tiny-kingdom-frost-mystery
+bip_39_word_dash_12: flat-balance-elegant-autumn-process-unfold-belt-tiny-kingdom-frost-mystery-analyst
+bip_39_word_dash_2: flat-balance
+bip_39_word_dash_3: flat-balance-elegant
+bip_39_word_dash_4: flat-balance-elegant-autumn
+bip_39_word_dash_5: flat-balance-elegant-autumn-process
+bip_39_word_dash_6: flat-balance-elegant-autumn-process-unfold
+bip_39_word_dash_7: flat-balance-elegant-autumn-process-unfold-belt
+bip_39_word_dash_8: flat-balance-elegant-autumn-process-unfold-belt-tiny
+bip_39_word_dash_9: flat-balance-elegant-autumn-process-unfold-belt-tiny-kingdom
 bip_39_word_new_br_1: flat
 bip_39_word_new_br_10: flat<br>balance<br>elegant<br>autumn<br>process<br>unfold<br>belt<br>tiny<br>kingdom<br>frost
 bip_39_word_new_br_11: flat<br>balance<br>elegant<br>autumn<br>process<br>unfold<br>belt<br>tiny<br>kingdom<br>frost<br>mystery
@@ -194,6 +206,18 @@ bip_39_word_space_6: flat balance elegant autumn process unfold
 bip_39_word_space_7: flat balance elegant autumn process unfold belt
 bip_39_word_space_8: flat balance elegant autumn process unfold belt tiny
 bip_39_word_space_9: flat balance elegant autumn process unfold belt tiny kingdom
+bip_39_word_underscore_1: flat
+bip_39_word_underscore_10: flat_balance_elegant_autumn_process_unfold_belt_tiny_kingdom_frost
+bip_39_word_underscore_11: flat_balance_elegant_autumn_process_unfold_belt_tiny_kingdom_frost_mystery
+bip_39_word_underscore_12: flat_balance_elegant_autumn_process_unfold_belt_tiny_kingdom_frost_mystery_analyst
+bip_39_word_underscore_2: flat_balance
+bip_39_word_underscore_3: flat_balance_elegant
+bip_39_word_underscore_4: flat_balance_elegant_autumn
+bip_39_word_underscore_5: flat_balance_elegant_autumn_process
+bip_39_word_underscore_6: flat_balance_elegant_autumn_process_unfold
+bip_39_word_underscore_7: flat_balance_elegant_autumn_process_unfold_belt
+bip_39_word_underscore_8: flat_balance_elegant_autumn_process_unfold_belt_tiny
+bip_39_word_underscore_9: flat_balance_elegant_autumn_process_unfold_belt_tiny_kingdom
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

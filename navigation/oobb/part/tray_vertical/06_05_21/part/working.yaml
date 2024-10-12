@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stage
+bip_39_word_dash_10: stage-remain-hawk-wagon-proud-grief-bitter-cattle-exchange-super
+bip_39_word_dash_11: stage-remain-hawk-wagon-proud-grief-bitter-cattle-exchange-super-present
+bip_39_word_dash_12: stage-remain-hawk-wagon-proud-grief-bitter-cattle-exchange-super-present-achieve
+bip_39_word_dash_2: stage-remain
+bip_39_word_dash_3: stage-remain-hawk
+bip_39_word_dash_4: stage-remain-hawk-wagon
+bip_39_word_dash_5: stage-remain-hawk-wagon-proud
+bip_39_word_dash_6: stage-remain-hawk-wagon-proud-grief
+bip_39_word_dash_7: stage-remain-hawk-wagon-proud-grief-bitter
+bip_39_word_dash_8: stage-remain-hawk-wagon-proud-grief-bitter-cattle
+bip_39_word_dash_9: stage-remain-hawk-wagon-proud-grief-bitter-cattle-exchange
 bip_39_word_new_br_1: stage
 bip_39_word_new_br_10: stage<br>remain<br>hawk<br>wagon<br>proud<br>grief<br>bitter<br>cattle<br>exchange<br>super
 bip_39_word_new_br_11: stage<br>remain<br>hawk<br>wagon<br>proud<br>grief<br>bitter<br>cattle<br>exchange<br>super<br>present
@@ -193,6 +205,18 @@ bip_39_word_space_6: stage remain hawk wagon proud grief
 bip_39_word_space_7: stage remain hawk wagon proud grief bitter
 bip_39_word_space_8: stage remain hawk wagon proud grief bitter cattle
 bip_39_word_space_9: stage remain hawk wagon proud grief bitter cattle exchange
+bip_39_word_underscore_1: stage
+bip_39_word_underscore_10: stage_remain_hawk_wagon_proud_grief_bitter_cattle_exchange_super
+bip_39_word_underscore_11: stage_remain_hawk_wagon_proud_grief_bitter_cattle_exchange_super_present
+bip_39_word_underscore_12: stage_remain_hawk_wagon_proud_grief_bitter_cattle_exchange_super_present_achieve
+bip_39_word_underscore_2: stage_remain
+bip_39_word_underscore_3: stage_remain_hawk
+bip_39_word_underscore_4: stage_remain_hawk_wagon
+bip_39_word_underscore_5: stage_remain_hawk_wagon_proud
+bip_39_word_underscore_6: stage_remain_hawk_wagon_proud_grief
+bip_39_word_underscore_7: stage_remain_hawk_wagon_proud_grief_bitter
+bip_39_word_underscore_8: stage_remain_hawk_wagon_proud_grief_bitter_cattle
+bip_39_word_underscore_9: stage_remain_hawk_wagon_proud_grief_bitter_cattle_exchange
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

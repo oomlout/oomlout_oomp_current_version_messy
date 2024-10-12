@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | job |  
+| bip_39_word_dash_10 | job-slide-until-artwork-arctic-marble-plug-swear-benefit-vague |  
+| bip_39_word_dash_11 | job-slide-until-artwork-arctic-marble-plug-swear-benefit-vague-seminar |  
+| bip_39_word_dash_12 | job-slide-until-artwork-arctic-marble-plug-swear-benefit-vague-seminar-anger |  
+| bip_39_word_dash_2 | job-slide |  
+| bip_39_word_dash_3 | job-slide-until |  
+| bip_39_word_dash_4 | job-slide-until-artwork |  
+| bip_39_word_dash_5 | job-slide-until-artwork-arctic |  
+| bip_39_word_dash_6 | job-slide-until-artwork-arctic-marble |  
+| bip_39_word_dash_7 | job-slide-until-artwork-arctic-marble-plug |  
+| bip_39_word_dash_8 | job-slide-until-artwork-arctic-marble-plug-swear |  
+| bip_39_word_dash_9 | job-slide-until-artwork-arctic-marble-plug-swear-benefit |  
 | bip_39_word_new_br_1 | job |  
 | bip_39_word_new_br_10 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague |  
 | bip_39_word_new_br_11 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague<br>seminar |  
@@ -147,6 +159,18 @@ benefit |
 | bip_39_word_space_7 | job slide until artwork arctic marble plug |  
 | bip_39_word_space_8 | job slide until artwork arctic marble plug swear |  
 | bip_39_word_space_9 | job slide until artwork arctic marble plug swear benefit |  
+| bip_39_word_underscore_1 | job |  
+| bip_39_word_underscore_10 | job_slide_until_artwork_arctic_marble_plug_swear_benefit_vague |  
+| bip_39_word_underscore_11 | job_slide_until_artwork_arctic_marble_plug_swear_benefit_vague_seminar |  
+| bip_39_word_underscore_12 | job_slide_until_artwork_arctic_marble_plug_swear_benefit_vague_seminar_anger |  
+| bip_39_word_underscore_2 | job_slide |  
+| bip_39_word_underscore_3 | job_slide_until |  
+| bip_39_word_underscore_4 | job_slide_until_artwork |  
+| bip_39_word_underscore_5 | job_slide_until_artwork_arctic |  
+| bip_39_word_underscore_6 | job_slide_until_artwork_arctic_marble |  
+| bip_39_word_underscore_7 | job_slide_until_artwork_arctic_marble_plug |  
+| bip_39_word_underscore_8 | job_slide_until_artwork_arctic_marble_plug_swear |  
+| bip_39_word_underscore_9 | job_slide_until_artwork_arctic_marble_plug_swear_benefit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

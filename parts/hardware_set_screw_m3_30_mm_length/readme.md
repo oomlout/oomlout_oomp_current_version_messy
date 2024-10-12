@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | base |  
+| bip_39_word_dash_10 | base-napkin-adjust-always-input-ladder-north-turtle-tape-joke |  
+| bip_39_word_dash_11 | base-napkin-adjust-always-input-ladder-north-turtle-tape-joke-orchard |  
+| bip_39_word_dash_12 | base-napkin-adjust-always-input-ladder-north-turtle-tape-joke-orchard-attitude |  
+| bip_39_word_dash_2 | base-napkin |  
+| bip_39_word_dash_3 | base-napkin-adjust |  
+| bip_39_word_dash_4 | base-napkin-adjust-always |  
+| bip_39_word_dash_5 | base-napkin-adjust-always-input |  
+| bip_39_word_dash_6 | base-napkin-adjust-always-input-ladder |  
+| bip_39_word_dash_7 | base-napkin-adjust-always-input-ladder-north |  
+| bip_39_word_dash_8 | base-napkin-adjust-always-input-ladder-north-turtle |  
+| bip_39_word_dash_9 | base-napkin-adjust-always-input-ladder-north-turtle-tape |  
 | bip_39_word_new_br_1 | base |  
 | bip_39_word_new_br_10 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle<br>tape<br>joke |  
 | bip_39_word_new_br_11 | base<br>napkin<br>adjust<br>always<br>input<br>ladder<br>north<br>turtle<br>tape<br>joke<br>orchard |  
@@ -147,6 +159,18 @@ tape |
 | bip_39_word_space_7 | base napkin adjust always input ladder north |  
 | bip_39_word_space_8 | base napkin adjust always input ladder north turtle |  
 | bip_39_word_space_9 | base napkin adjust always input ladder north turtle tape |  
+| bip_39_word_underscore_1 | base |  
+| bip_39_word_underscore_10 | base_napkin_adjust_always_input_ladder_north_turtle_tape_joke |  
+| bip_39_word_underscore_11 | base_napkin_adjust_always_input_ladder_north_turtle_tape_joke_orchard |  
+| bip_39_word_underscore_12 | base_napkin_adjust_always_input_ladder_north_turtle_tape_joke_orchard_attitude |  
+| bip_39_word_underscore_2 | base_napkin |  
+| bip_39_word_underscore_3 | base_napkin_adjust |  
+| bip_39_word_underscore_4 | base_napkin_adjust_always |  
+| bip_39_word_underscore_5 | base_napkin_adjust_always_input |  
+| bip_39_word_underscore_6 | base_napkin_adjust_always_input_ladder |  
+| bip_39_word_underscore_7 | base_napkin_adjust_always_input_ladder_north |  
+| bip_39_word_underscore_8 | base_napkin_adjust_always_input_ladder_north_turtle |  
+| bip_39_word_underscore_9 | base_napkin_adjust_always_input_ladder_north_turtle_tape |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

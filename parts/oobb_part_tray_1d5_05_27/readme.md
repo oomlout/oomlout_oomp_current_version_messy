@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | invite |  
+| bip_39_word_dash_10 | invite-rice-gauge-sock-online-butter-rich-file-suffer-impact |  
+| bip_39_word_dash_11 | invite-rice-gauge-sock-online-butter-rich-file-suffer-impact-annual |  
+| bip_39_word_dash_12 | invite-rice-gauge-sock-online-butter-rich-file-suffer-impact-annual-affair |  
+| bip_39_word_dash_2 | invite-rice |  
+| bip_39_word_dash_3 | invite-rice-gauge |  
+| bip_39_word_dash_4 | invite-rice-gauge-sock |  
+| bip_39_word_dash_5 | invite-rice-gauge-sock-online |  
+| bip_39_word_dash_6 | invite-rice-gauge-sock-online-butter |  
+| bip_39_word_dash_7 | invite-rice-gauge-sock-online-butter-rich |  
+| bip_39_word_dash_8 | invite-rice-gauge-sock-online-butter-rich-file |  
+| bip_39_word_dash_9 | invite-rice-gauge-sock-online-butter-rich-file-suffer |  
 | bip_39_word_new_br_1 | invite |  
 | bip_39_word_new_br_10 | invite<br>rice<br>gauge<br>sock<br>online<br>butter<br>rich<br>file<br>suffer<br>impact |  
 | bip_39_word_new_br_11 | invite<br>rice<br>gauge<br>sock<br>online<br>butter<br>rich<br>file<br>suffer<br>impact<br>annual |  
@@ -147,6 +159,18 @@ suffer |
 | bip_39_word_space_7 | invite rice gauge sock online butter rich |  
 | bip_39_word_space_8 | invite rice gauge sock online butter rich file |  
 | bip_39_word_space_9 | invite rice gauge sock online butter rich file suffer |  
+| bip_39_word_underscore_1 | invite |  
+| bip_39_word_underscore_10 | invite_rice_gauge_sock_online_butter_rich_file_suffer_impact |  
+| bip_39_word_underscore_11 | invite_rice_gauge_sock_online_butter_rich_file_suffer_impact_annual |  
+| bip_39_word_underscore_12 | invite_rice_gauge_sock_online_butter_rich_file_suffer_impact_annual_affair |  
+| bip_39_word_underscore_2 | invite_rice |  
+| bip_39_word_underscore_3 | invite_rice_gauge |  
+| bip_39_word_underscore_4 | invite_rice_gauge_sock |  
+| bip_39_word_underscore_5 | invite_rice_gauge_sock_online |  
+| bip_39_word_underscore_6 | invite_rice_gauge_sock_online_butter |  
+| bip_39_word_underscore_7 | invite_rice_gauge_sock_online_butter_rich |  
+| bip_39_word_underscore_8 | invite_rice_gauge_sock_online_butter_rich_file |  
+| bip_39_word_underscore_9 | invite_rice_gauge_sock_online_butter_rich_file_suffer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

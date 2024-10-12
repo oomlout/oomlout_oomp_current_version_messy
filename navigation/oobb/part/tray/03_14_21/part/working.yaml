@@ -1,3 +1,15 @@
+bip_39_word_dash_1: year
+bip_39_word_dash_10: year-worry-grace-ordinary-surge-movie-tail-this-uphold-outer
+bip_39_word_dash_11: year-worry-grace-ordinary-surge-movie-tail-this-uphold-outer-possible
+bip_39_word_dash_12: year-worry-grace-ordinary-surge-movie-tail-this-uphold-outer-possible-alpha
+bip_39_word_dash_2: year-worry
+bip_39_word_dash_3: year-worry-grace
+bip_39_word_dash_4: year-worry-grace-ordinary
+bip_39_word_dash_5: year-worry-grace-ordinary-surge
+bip_39_word_dash_6: year-worry-grace-ordinary-surge-movie
+bip_39_word_dash_7: year-worry-grace-ordinary-surge-movie-tail
+bip_39_word_dash_8: year-worry-grace-ordinary-surge-movie-tail-this
+bip_39_word_dash_9: year-worry-grace-ordinary-surge-movie-tail-this-uphold
 bip_39_word_new_br_1: year
 bip_39_word_new_br_10: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer
 bip_39_word_new_br_11: year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer<br>possible
@@ -193,6 +205,18 @@ bip_39_word_space_6: year worry grace ordinary surge movie
 bip_39_word_space_7: year worry grace ordinary surge movie tail
 bip_39_word_space_8: year worry grace ordinary surge movie tail this
 bip_39_word_space_9: year worry grace ordinary surge movie tail this uphold
+bip_39_word_underscore_1: year
+bip_39_word_underscore_10: year_worry_grace_ordinary_surge_movie_tail_this_uphold_outer
+bip_39_word_underscore_11: year_worry_grace_ordinary_surge_movie_tail_this_uphold_outer_possible
+bip_39_word_underscore_12: year_worry_grace_ordinary_surge_movie_tail_this_uphold_outer_possible_alpha
+bip_39_word_underscore_2: year_worry
+bip_39_word_underscore_3: year_worry_grace
+bip_39_word_underscore_4: year_worry_grace_ordinary
+bip_39_word_underscore_5: year_worry_grace_ordinary_surge
+bip_39_word_underscore_6: year_worry_grace_ordinary_surge_movie
+bip_39_word_underscore_7: year_worry_grace_ordinary_surge_movie_tail
+bip_39_word_underscore_8: year_worry_grace_ordinary_surge_movie_tail_this
+bip_39_word_underscore_9: year_worry_grace_ordinary_surge_movie_tail_this_uphold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

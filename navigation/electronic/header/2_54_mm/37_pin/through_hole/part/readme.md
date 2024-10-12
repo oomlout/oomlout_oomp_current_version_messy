@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pistol |  
+| bip_39_word_dash_10 | pistol-document-daring-october-rigid-nature-kind-egg-click-method |  
+| bip_39_word_dash_11 | pistol-document-daring-october-rigid-nature-kind-egg-click-method-remove |  
+| bip_39_word_dash_12 | pistol-document-daring-october-rigid-nature-kind-egg-click-method-remove-abstract |  
+| bip_39_word_dash_2 | pistol-document |  
+| bip_39_word_dash_3 | pistol-document-daring |  
+| bip_39_word_dash_4 | pistol-document-daring-october |  
+| bip_39_word_dash_5 | pistol-document-daring-october-rigid |  
+| bip_39_word_dash_6 | pistol-document-daring-october-rigid-nature |  
+| bip_39_word_dash_7 | pistol-document-daring-october-rigid-nature-kind |  
+| bip_39_word_dash_8 | pistol-document-daring-october-rigid-nature-kind-egg |  
+| bip_39_word_dash_9 | pistol-document-daring-october-rigid-nature-kind-egg-click |  
 | bip_39_word_new_br_1 | pistol |  
 | bip_39_word_new_br_10 | pistol<br>document<br>daring<br>october<br>rigid<br>nature<br>kind<br>egg<br>click<br>method |  
 | bip_39_word_new_br_11 | pistol<br>document<br>daring<br>october<br>rigid<br>nature<br>kind<br>egg<br>click<br>method<br>remove |  
@@ -147,6 +159,18 @@ click |
 | bip_39_word_space_7 | pistol document daring october rigid nature kind |  
 | bip_39_word_space_8 | pistol document daring october rigid nature kind egg |  
 | bip_39_word_space_9 | pistol document daring october rigid nature kind egg click |  
+| bip_39_word_underscore_1 | pistol |  
+| bip_39_word_underscore_10 | pistol_document_daring_october_rigid_nature_kind_egg_click_method |  
+| bip_39_word_underscore_11 | pistol_document_daring_october_rigid_nature_kind_egg_click_method_remove |  
+| bip_39_word_underscore_12 | pistol_document_daring_october_rigid_nature_kind_egg_click_method_remove_abstract |  
+| bip_39_word_underscore_2 | pistol_document |  
+| bip_39_word_underscore_3 | pistol_document_daring |  
+| bip_39_word_underscore_4 | pistol_document_daring_october |  
+| bip_39_word_underscore_5 | pistol_document_daring_october_rigid |  
+| bip_39_word_underscore_6 | pistol_document_daring_october_rigid_nature |  
+| bip_39_word_underscore_7 | pistol_document_daring_october_rigid_nature_kind |  
+| bip_39_word_underscore_8 | pistol_document_daring_october_rigid_nature_kind_egg |  
+| bip_39_word_underscore_9 | pistol_document_daring_october_rigid_nature_kind_egg_click |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

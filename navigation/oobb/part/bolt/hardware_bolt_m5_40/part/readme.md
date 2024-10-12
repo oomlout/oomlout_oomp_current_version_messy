@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | venue |  
+| bip_39_word_dash_10 | venue-since-avoid-exclude-minute-used-crew-sweet-live-foil |  
+| bip_39_word_dash_11 | venue-since-avoid-exclude-minute-used-crew-sweet-live-foil-pool |  
+| bip_39_word_dash_12 | venue-since-avoid-exclude-minute-used-crew-sweet-live-foil-pool-arch |  
+| bip_39_word_dash_2 | venue-since |  
+| bip_39_word_dash_3 | venue-since-avoid |  
+| bip_39_word_dash_4 | venue-since-avoid-exclude |  
+| bip_39_word_dash_5 | venue-since-avoid-exclude-minute |  
+| bip_39_word_dash_6 | venue-since-avoid-exclude-minute-used |  
+| bip_39_word_dash_7 | venue-since-avoid-exclude-minute-used-crew |  
+| bip_39_word_dash_8 | venue-since-avoid-exclude-minute-used-crew-sweet |  
+| bip_39_word_dash_9 | venue-since-avoid-exclude-minute-used-crew-sweet-live |  
 | bip_39_word_new_br_1 | venue |  
 | bip_39_word_new_br_10 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil |  
 | bip_39_word_new_br_11 | venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil<br>pool |  
@@ -147,6 +159,18 @@ live |
 | bip_39_word_space_7 | venue since avoid exclude minute used crew |  
 | bip_39_word_space_8 | venue since avoid exclude minute used crew sweet |  
 | bip_39_word_space_9 | venue since avoid exclude minute used crew sweet live |  
+| bip_39_word_underscore_1 | venue |  
+| bip_39_word_underscore_10 | venue_since_avoid_exclude_minute_used_crew_sweet_live_foil |  
+| bip_39_word_underscore_11 | venue_since_avoid_exclude_minute_used_crew_sweet_live_foil_pool |  
+| bip_39_word_underscore_12 | venue_since_avoid_exclude_minute_used_crew_sweet_live_foil_pool_arch |  
+| bip_39_word_underscore_2 | venue_since |  
+| bip_39_word_underscore_3 | venue_since_avoid |  
+| bip_39_word_underscore_4 | venue_since_avoid_exclude |  
+| bip_39_word_underscore_5 | venue_since_avoid_exclude_minute |  
+| bip_39_word_underscore_6 | venue_since_avoid_exclude_minute_used |  
+| bip_39_word_underscore_7 | venue_since_avoid_exclude_minute_used_crew |  
+| bip_39_word_underscore_8 | venue_since_avoid_exclude_minute_used_crew_sweet |  
+| bip_39_word_underscore_9 | venue_since_avoid_exclude_minute_used_crew_sweet_live |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

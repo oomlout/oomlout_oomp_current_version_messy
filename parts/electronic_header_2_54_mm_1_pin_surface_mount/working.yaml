@@ -1,3 +1,15 @@
+bip_39_word_dash_1: define
+bip_39_word_dash_10: define-lizard-boss-airport-pluck-invite-donkey-winner-hybrid-cluster
+bip_39_word_dash_11: define-lizard-boss-airport-pluck-invite-donkey-winner-hybrid-cluster-weird
+bip_39_word_dash_12: define-lizard-boss-airport-pluck-invite-donkey-winner-hybrid-cluster-weird-auction
+bip_39_word_dash_2: define-lizard
+bip_39_word_dash_3: define-lizard-boss
+bip_39_word_dash_4: define-lizard-boss-airport
+bip_39_word_dash_5: define-lizard-boss-airport-pluck
+bip_39_word_dash_6: define-lizard-boss-airport-pluck-invite
+bip_39_word_dash_7: define-lizard-boss-airport-pluck-invite-donkey
+bip_39_word_dash_8: define-lizard-boss-airport-pluck-invite-donkey-winner
+bip_39_word_dash_9: define-lizard-boss-airport-pluck-invite-donkey-winner-hybrid
 bip_39_word_new_br_1: define
 bip_39_word_new_br_10: define<br>lizard<br>boss<br>airport<br>pluck<br>invite<br>donkey<br>winner<br>hybrid<br>cluster
 bip_39_word_new_br_11: define<br>lizard<br>boss<br>airport<br>pluck<br>invite<br>donkey<br>winner<br>hybrid<br>cluster<br>weird
@@ -194,6 +206,18 @@ bip_39_word_space_6: define lizard boss airport pluck invite
 bip_39_word_space_7: define lizard boss airport pluck invite donkey
 bip_39_word_space_8: define lizard boss airport pluck invite donkey winner
 bip_39_word_space_9: define lizard boss airport pluck invite donkey winner hybrid
+bip_39_word_underscore_1: define
+bip_39_word_underscore_10: define_lizard_boss_airport_pluck_invite_donkey_winner_hybrid_cluster
+bip_39_word_underscore_11: define_lizard_boss_airport_pluck_invite_donkey_winner_hybrid_cluster_weird
+bip_39_word_underscore_12: define_lizard_boss_airport_pluck_invite_donkey_winner_hybrid_cluster_weird_auction
+bip_39_word_underscore_2: define_lizard
+bip_39_word_underscore_3: define_lizard_boss
+bip_39_word_underscore_4: define_lizard_boss_airport
+bip_39_word_underscore_5: define_lizard_boss_airport_pluck
+bip_39_word_underscore_6: define_lizard_boss_airport_pluck_invite
+bip_39_word_underscore_7: define_lizard_boss_airport_pluck_invite_donkey
+bip_39_word_underscore_8: define_lizard_boss_airport_pluck_invite_donkey_winner
+bip_39_word_underscore_9: define_lizard_boss_airport_pluck_invite_donkey_winner_hybrid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | apology |  
+| bip_39_word_dash_10 | apology-element-spy-entry-spring-cloth-prison-tongue-unable-occur |  
+| bip_39_word_dash_11 | apology-element-spy-entry-spring-cloth-prison-tongue-unable-occur-shadow |  
+| bip_39_word_dash_12 | apology-element-spy-entry-spring-cloth-prison-tongue-unable-occur-shadow-audit |  
+| bip_39_word_dash_2 | apology-element |  
+| bip_39_word_dash_3 | apology-element-spy |  
+| bip_39_word_dash_4 | apology-element-spy-entry |  
+| bip_39_word_dash_5 | apology-element-spy-entry-spring |  
+| bip_39_word_dash_6 | apology-element-spy-entry-spring-cloth |  
+| bip_39_word_dash_7 | apology-element-spy-entry-spring-cloth-prison |  
+| bip_39_word_dash_8 | apology-element-spy-entry-spring-cloth-prison-tongue |  
+| bip_39_word_dash_9 | apology-element-spy-entry-spring-cloth-prison-tongue-unable |  
 | bip_39_word_new_br_1 | apology |  
 | bip_39_word_new_br_10 | apology<br>element<br>spy<br>entry<br>spring<br>cloth<br>prison<br>tongue<br>unable<br>occur |  
 | bip_39_word_new_br_11 | apology<br>element<br>spy<br>entry<br>spring<br>cloth<br>prison<br>tongue<br>unable<br>occur<br>shadow |  
@@ -147,6 +159,18 @@ unable |
 | bip_39_word_space_7 | apology element spy entry spring cloth prison |  
 | bip_39_word_space_8 | apology element spy entry spring cloth prison tongue |  
 | bip_39_word_space_9 | apology element spy entry spring cloth prison tongue unable |  
+| bip_39_word_underscore_1 | apology |  
+| bip_39_word_underscore_10 | apology_element_spy_entry_spring_cloth_prison_tongue_unable_occur |  
+| bip_39_word_underscore_11 | apology_element_spy_entry_spring_cloth_prison_tongue_unable_occur_shadow |  
+| bip_39_word_underscore_12 | apology_element_spy_entry_spring_cloth_prison_tongue_unable_occur_shadow_audit |  
+| bip_39_word_underscore_2 | apology_element |  
+| bip_39_word_underscore_3 | apology_element_spy |  
+| bip_39_word_underscore_4 | apology_element_spy_entry |  
+| bip_39_word_underscore_5 | apology_element_spy_entry_spring |  
+| bip_39_word_underscore_6 | apology_element_spy_entry_spring_cloth |  
+| bip_39_word_underscore_7 | apology_element_spy_entry_spring_cloth_prison |  
+| bip_39_word_underscore_8 | apology_element_spy_entry_spring_cloth_prison_tongue |  
+| bip_39_word_underscore_9 | apology_element_spy_entry_spring_cloth_prison_tongue_unable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

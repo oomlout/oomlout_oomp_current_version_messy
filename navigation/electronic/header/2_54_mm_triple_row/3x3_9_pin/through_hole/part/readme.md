@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | timber |  
+| bip_39_word_dash_10 | timber-lonely-left-amount-mercy-wrong-solve-bar-rent-whisper |  
+| bip_39_word_dash_11 | timber-lonely-left-amount-mercy-wrong-solve-bar-rent-whisper-rice |  
+| bip_39_word_dash_12 | timber-lonely-left-amount-mercy-wrong-solve-bar-rent-whisper-rice-angle |  
+| bip_39_word_dash_2 | timber-lonely |  
+| bip_39_word_dash_3 | timber-lonely-left |  
+| bip_39_word_dash_4 | timber-lonely-left-amount |  
+| bip_39_word_dash_5 | timber-lonely-left-amount-mercy |  
+| bip_39_word_dash_6 | timber-lonely-left-amount-mercy-wrong |  
+| bip_39_word_dash_7 | timber-lonely-left-amount-mercy-wrong-solve |  
+| bip_39_word_dash_8 | timber-lonely-left-amount-mercy-wrong-solve-bar |  
+| bip_39_word_dash_9 | timber-lonely-left-amount-mercy-wrong-solve-bar-rent |  
 | bip_39_word_new_br_1 | timber |  
 | bip_39_word_new_br_10 | timber<br>lonely<br>left<br>amount<br>mercy<br>wrong<br>solve<br>bar<br>rent<br>whisper |  
 | bip_39_word_new_br_11 | timber<br>lonely<br>left<br>amount<br>mercy<br>wrong<br>solve<br>bar<br>rent<br>whisper<br>rice |  
@@ -147,6 +159,18 @@ rent |
 | bip_39_word_space_7 | timber lonely left amount mercy wrong solve |  
 | bip_39_word_space_8 | timber lonely left amount mercy wrong solve bar |  
 | bip_39_word_space_9 | timber lonely left amount mercy wrong solve bar rent |  
+| bip_39_word_underscore_1 | timber |  
+| bip_39_word_underscore_10 | timber_lonely_left_amount_mercy_wrong_solve_bar_rent_whisper |  
+| bip_39_word_underscore_11 | timber_lonely_left_amount_mercy_wrong_solve_bar_rent_whisper_rice |  
+| bip_39_word_underscore_12 | timber_lonely_left_amount_mercy_wrong_solve_bar_rent_whisper_rice_angle |  
+| bip_39_word_underscore_2 | timber_lonely |  
+| bip_39_word_underscore_3 | timber_lonely_left |  
+| bip_39_word_underscore_4 | timber_lonely_left_amount |  
+| bip_39_word_underscore_5 | timber_lonely_left_amount_mercy |  
+| bip_39_word_underscore_6 | timber_lonely_left_amount_mercy_wrong |  
+| bip_39_word_underscore_7 | timber_lonely_left_amount_mercy_wrong_solve |  
+| bip_39_word_underscore_8 | timber_lonely_left_amount_mercy_wrong_solve_bar |  
+| bip_39_word_underscore_9 | timber_lonely_left_amount_mercy_wrong_solve_bar_rent |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

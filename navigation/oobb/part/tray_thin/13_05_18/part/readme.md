@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aspect |  
+| bip_39_word_dash_10 | aspect-toward-service-couple-album-chase-december-purity-token-buzz |  
+| bip_39_word_dash_11 | aspect-toward-service-couple-album-chase-december-purity-token-buzz-bird |  
+| bip_39_word_dash_12 | aspect-toward-service-couple-album-chase-december-purity-token-buzz-bird-artwork |  
+| bip_39_word_dash_2 | aspect-toward |  
+| bip_39_word_dash_3 | aspect-toward-service |  
+| bip_39_word_dash_4 | aspect-toward-service-couple |  
+| bip_39_word_dash_5 | aspect-toward-service-couple-album |  
+| bip_39_word_dash_6 | aspect-toward-service-couple-album-chase |  
+| bip_39_word_dash_7 | aspect-toward-service-couple-album-chase-december |  
+| bip_39_word_dash_8 | aspect-toward-service-couple-album-chase-december-purity |  
+| bip_39_word_dash_9 | aspect-toward-service-couple-album-chase-december-purity-token |  
 | bip_39_word_new_br_1 | aspect |  
 | bip_39_word_new_br_10 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz |  
 | bip_39_word_new_br_11 | aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz<br>bird |  
@@ -147,6 +159,18 @@ token |
 | bip_39_word_space_7 | aspect toward service couple album chase december |  
 | bip_39_word_space_8 | aspect toward service couple album chase december purity |  
 | bip_39_word_space_9 | aspect toward service couple album chase december purity token |  
+| bip_39_word_underscore_1 | aspect |  
+| bip_39_word_underscore_10 | aspect_toward_service_couple_album_chase_december_purity_token_buzz |  
+| bip_39_word_underscore_11 | aspect_toward_service_couple_album_chase_december_purity_token_buzz_bird |  
+| bip_39_word_underscore_12 | aspect_toward_service_couple_album_chase_december_purity_token_buzz_bird_artwork |  
+| bip_39_word_underscore_2 | aspect_toward |  
+| bip_39_word_underscore_3 | aspect_toward_service |  
+| bip_39_word_underscore_4 | aspect_toward_service_couple |  
+| bip_39_word_underscore_5 | aspect_toward_service_couple_album |  
+| bip_39_word_underscore_6 | aspect_toward_service_couple_album_chase |  
+| bip_39_word_underscore_7 | aspect_toward_service_couple_album_chase_december |  
+| bip_39_word_underscore_8 | aspect_toward_service_couple_album_chase_december_purity |  
+| bip_39_word_underscore_9 | aspect_toward_service_couple_album_chase_december_purity_token |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

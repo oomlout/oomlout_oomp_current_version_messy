@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drink |  
+| bip_39_word_dash_10 | drink-three-crane-dog-glare-crazy-crack-pave-face-useless |  
+| bip_39_word_dash_11 | drink-three-crane-dog-glare-crazy-crack-pave-face-useless-okay |  
+| bip_39_word_dash_12 | drink-three-crane-dog-glare-crazy-crack-pave-face-useless-okay-acquire |  
+| bip_39_word_dash_2 | drink-three |  
+| bip_39_word_dash_3 | drink-three-crane |  
+| bip_39_word_dash_4 | drink-three-crane-dog |  
+| bip_39_word_dash_5 | drink-three-crane-dog-glare |  
+| bip_39_word_dash_6 | drink-three-crane-dog-glare-crazy |  
+| bip_39_word_dash_7 | drink-three-crane-dog-glare-crazy-crack |  
+| bip_39_word_dash_8 | drink-three-crane-dog-glare-crazy-crack-pave |  
+| bip_39_word_dash_9 | drink-three-crane-dog-glare-crazy-crack-pave-face |  
 | bip_39_word_new_br_1 | drink |  
 | bip_39_word_new_br_10 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless |  
 | bip_39_word_new_br_11 | drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless<br>okay |  
@@ -147,6 +159,18 @@ face |
 | bip_39_word_space_7 | drink three crane dog glare crazy crack |  
 | bip_39_word_space_8 | drink three crane dog glare crazy crack pave |  
 | bip_39_word_space_9 | drink three crane dog glare crazy crack pave face |  
+| bip_39_word_underscore_1 | drink |  
+| bip_39_word_underscore_10 | drink_three_crane_dog_glare_crazy_crack_pave_face_useless |  
+| bip_39_word_underscore_11 | drink_three_crane_dog_glare_crazy_crack_pave_face_useless_okay |  
+| bip_39_word_underscore_12 | drink_three_crane_dog_glare_crazy_crack_pave_face_useless_okay_acquire |  
+| bip_39_word_underscore_2 | drink_three |  
+| bip_39_word_underscore_3 | drink_three_crane |  
+| bip_39_word_underscore_4 | drink_three_crane_dog |  
+| bip_39_word_underscore_5 | drink_three_crane_dog_glare |  
+| bip_39_word_underscore_6 | drink_three_crane_dog_glare_crazy |  
+| bip_39_word_underscore_7 | drink_three_crane_dog_glare_crazy_crack |  
+| bip_39_word_underscore_8 | drink_three_crane_dog_glare_crazy_crack_pave |  
+| bip_39_word_underscore_9 | drink_three_crane_dog_glare_crazy_crack_pave_face |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

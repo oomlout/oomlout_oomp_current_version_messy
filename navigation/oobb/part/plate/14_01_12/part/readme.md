@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | awful |  
+| bip_39_word_dash_10 | awful-bullet-guard-swarm-never-slide-disease-insane-wine-attack |  
+| bip_39_word_dash_11 | awful-bullet-guard-swarm-never-slide-disease-insane-wine-attack-artwork |  
+| bip_39_word_dash_12 | awful-bullet-guard-swarm-never-slide-disease-insane-wine-attack-artwork-about |  
+| bip_39_word_dash_2 | awful-bullet |  
+| bip_39_word_dash_3 | awful-bullet-guard |  
+| bip_39_word_dash_4 | awful-bullet-guard-swarm |  
+| bip_39_word_dash_5 | awful-bullet-guard-swarm-never |  
+| bip_39_word_dash_6 | awful-bullet-guard-swarm-never-slide |  
+| bip_39_word_dash_7 | awful-bullet-guard-swarm-never-slide-disease |  
+| bip_39_word_dash_8 | awful-bullet-guard-swarm-never-slide-disease-insane |  
+| bip_39_word_dash_9 | awful-bullet-guard-swarm-never-slide-disease-insane-wine |  
 | bip_39_word_new_br_1 | awful |  
 | bip_39_word_new_br_10 | awful<br>bullet<br>guard<br>swarm<br>never<br>slide<br>disease<br>insane<br>wine<br>attack |  
 | bip_39_word_new_br_11 | awful<br>bullet<br>guard<br>swarm<br>never<br>slide<br>disease<br>insane<br>wine<br>attack<br>artwork |  
@@ -147,6 +159,18 @@ wine |
 | bip_39_word_space_7 | awful bullet guard swarm never slide disease |  
 | bip_39_word_space_8 | awful bullet guard swarm never slide disease insane |  
 | bip_39_word_space_9 | awful bullet guard swarm never slide disease insane wine |  
+| bip_39_word_underscore_1 | awful |  
+| bip_39_word_underscore_10 | awful_bullet_guard_swarm_never_slide_disease_insane_wine_attack |  
+| bip_39_word_underscore_11 | awful_bullet_guard_swarm_never_slide_disease_insane_wine_attack_artwork |  
+| bip_39_word_underscore_12 | awful_bullet_guard_swarm_never_slide_disease_insane_wine_attack_artwork_about |  
+| bip_39_word_underscore_2 | awful_bullet |  
+| bip_39_word_underscore_3 | awful_bullet_guard |  
+| bip_39_word_underscore_4 | awful_bullet_guard_swarm |  
+| bip_39_word_underscore_5 | awful_bullet_guard_swarm_never |  
+| bip_39_word_underscore_6 | awful_bullet_guard_swarm_never_slide |  
+| bip_39_word_underscore_7 | awful_bullet_guard_swarm_never_slide_disease |  
+| bip_39_word_underscore_8 | awful_bullet_guard_swarm_never_slide_disease_insane |  
+| bip_39_word_underscore_9 | awful_bullet_guard_swarm_never_slide_disease_insane_wine |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | luggage |  
+| bip_39_word_dash_10 | luggage-gentle-cushion-achieve-fitness-reason-sibling-arrive-floor-grape |  
+| bip_39_word_dash_11 | luggage-gentle-cushion-achieve-fitness-reason-sibling-arrive-floor-grape-hollow |  
+| bip_39_word_dash_12 | luggage-gentle-cushion-achieve-fitness-reason-sibling-arrive-floor-grape-hollow-afford |  
+| bip_39_word_dash_2 | luggage-gentle |  
+| bip_39_word_dash_3 | luggage-gentle-cushion |  
+| bip_39_word_dash_4 | luggage-gentle-cushion-achieve |  
+| bip_39_word_dash_5 | luggage-gentle-cushion-achieve-fitness |  
+| bip_39_word_dash_6 | luggage-gentle-cushion-achieve-fitness-reason |  
+| bip_39_word_dash_7 | luggage-gentle-cushion-achieve-fitness-reason-sibling |  
+| bip_39_word_dash_8 | luggage-gentle-cushion-achieve-fitness-reason-sibling-arrive |  
+| bip_39_word_dash_9 | luggage-gentle-cushion-achieve-fitness-reason-sibling-arrive-floor |  
 | bip_39_word_new_br_1 | luggage |  
 | bip_39_word_new_br_10 | luggage<br>gentle<br>cushion<br>achieve<br>fitness<br>reason<br>sibling<br>arrive<br>floor<br>grape |  
 | bip_39_word_new_br_11 | luggage<br>gentle<br>cushion<br>achieve<br>fitness<br>reason<br>sibling<br>arrive<br>floor<br>grape<br>hollow |  
@@ -147,6 +159,18 @@ floor |
 | bip_39_word_space_7 | luggage gentle cushion achieve fitness reason sibling |  
 | bip_39_word_space_8 | luggage gentle cushion achieve fitness reason sibling arrive |  
 | bip_39_word_space_9 | luggage gentle cushion achieve fitness reason sibling arrive floor |  
+| bip_39_word_underscore_1 | luggage |  
+| bip_39_word_underscore_10 | luggage_gentle_cushion_achieve_fitness_reason_sibling_arrive_floor_grape |  
+| bip_39_word_underscore_11 | luggage_gentle_cushion_achieve_fitness_reason_sibling_arrive_floor_grape_hollow |  
+| bip_39_word_underscore_12 | luggage_gentle_cushion_achieve_fitness_reason_sibling_arrive_floor_grape_hollow_afford |  
+| bip_39_word_underscore_2 | luggage_gentle |  
+| bip_39_word_underscore_3 | luggage_gentle_cushion |  
+| bip_39_word_underscore_4 | luggage_gentle_cushion_achieve |  
+| bip_39_word_underscore_5 | luggage_gentle_cushion_achieve_fitness |  
+| bip_39_word_underscore_6 | luggage_gentle_cushion_achieve_fitness_reason |  
+| bip_39_word_underscore_7 | luggage_gentle_cushion_achieve_fitness_reason_sibling |  
+| bip_39_word_underscore_8 | luggage_gentle_cushion_achieve_fitness_reason_sibling_arrive |  
+| bip_39_word_underscore_9 | luggage_gentle_cushion_achieve_fitness_reason_sibling_arrive_floor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

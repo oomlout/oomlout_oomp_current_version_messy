@@ -1,3 +1,15 @@
+bip_39_word_dash_1: identify
+bip_39_word_dash_10: identify-option-text-adapt-step-six-spare-vanish-one-bind
+bip_39_word_dash_11: identify-option-text-adapt-step-six-spare-vanish-one-bind-virus
+bip_39_word_dash_12: identify-option-text-adapt-step-six-spare-vanish-one-bind-virus-antenna
+bip_39_word_dash_2: identify-option
+bip_39_word_dash_3: identify-option-text
+bip_39_word_dash_4: identify-option-text-adapt
+bip_39_word_dash_5: identify-option-text-adapt-step
+bip_39_word_dash_6: identify-option-text-adapt-step-six
+bip_39_word_dash_7: identify-option-text-adapt-step-six-spare
+bip_39_word_dash_8: identify-option-text-adapt-step-six-spare-vanish
+bip_39_word_dash_9: identify-option-text-adapt-step-six-spare-vanish-one
 bip_39_word_new_br_1: identify
 bip_39_word_new_br_10: identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish<br>one<br>bind
 bip_39_word_new_br_11: identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish<br>one<br>bind<br>virus
@@ -192,6 +204,18 @@ bip_39_word_space_6: identify option text adapt step six
 bip_39_word_space_7: identify option text adapt step six spare
 bip_39_word_space_8: identify option text adapt step six spare vanish
 bip_39_word_space_9: identify option text adapt step six spare vanish one
+bip_39_word_underscore_1: identify
+bip_39_word_underscore_10: identify_option_text_adapt_step_six_spare_vanish_one_bind
+bip_39_word_underscore_11: identify_option_text_adapt_step_six_spare_vanish_one_bind_virus
+bip_39_word_underscore_12: identify_option_text_adapt_step_six_spare_vanish_one_bind_virus_antenna
+bip_39_word_underscore_2: identify_option
+bip_39_word_underscore_3: identify_option_text
+bip_39_word_underscore_4: identify_option_text_adapt
+bip_39_word_underscore_5: identify_option_text_adapt_step
+bip_39_word_underscore_6: identify_option_text_adapt_step_six
+bip_39_word_underscore_7: identify_option_text_adapt_step_six_spare
+bip_39_word_underscore_8: identify_option_text_adapt_step_six_spare_vanish
+bip_39_word_underscore_9: identify_option_text_adapt_step_six_spare_vanish_one
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

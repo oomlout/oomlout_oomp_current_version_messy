@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | young |  
+| bip_39_word_dash_10 | young-replace-bike-inflict-tip-victory-cradle-mammal-dance-elephant |  
+| bip_39_word_dash_11 | young-replace-bike-inflict-tip-victory-cradle-mammal-dance-elephant-pig |  
+| bip_39_word_dash_12 | young-replace-bike-inflict-tip-victory-cradle-mammal-dance-elephant-pig-amused |  
+| bip_39_word_dash_2 | young-replace |  
+| bip_39_word_dash_3 | young-replace-bike |  
+| bip_39_word_dash_4 | young-replace-bike-inflict |  
+| bip_39_word_dash_5 | young-replace-bike-inflict-tip |  
+| bip_39_word_dash_6 | young-replace-bike-inflict-tip-victory |  
+| bip_39_word_dash_7 | young-replace-bike-inflict-tip-victory-cradle |  
+| bip_39_word_dash_8 | young-replace-bike-inflict-tip-victory-cradle-mammal |  
+| bip_39_word_dash_9 | young-replace-bike-inflict-tip-victory-cradle-mammal-dance |  
 | bip_39_word_new_br_1 | young |  
 | bip_39_word_new_br_10 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant |  
 | bip_39_word_new_br_11 | young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant<br>pig |  
@@ -147,6 +159,18 @@ dance |
 | bip_39_word_space_7 | young replace bike inflict tip victory cradle |  
 | bip_39_word_space_8 | young replace bike inflict tip victory cradle mammal |  
 | bip_39_word_space_9 | young replace bike inflict tip victory cradle mammal dance |  
+| bip_39_word_underscore_1 | young |  
+| bip_39_word_underscore_10 | young_replace_bike_inflict_tip_victory_cradle_mammal_dance_elephant |  
+| bip_39_word_underscore_11 | young_replace_bike_inflict_tip_victory_cradle_mammal_dance_elephant_pig |  
+| bip_39_word_underscore_12 | young_replace_bike_inflict_tip_victory_cradle_mammal_dance_elephant_pig_amused |  
+| bip_39_word_underscore_2 | young_replace |  
+| bip_39_word_underscore_3 | young_replace_bike |  
+| bip_39_word_underscore_4 | young_replace_bike_inflict |  
+| bip_39_word_underscore_5 | young_replace_bike_inflict_tip |  
+| bip_39_word_underscore_6 | young_replace_bike_inflict_tip_victory |  
+| bip_39_word_underscore_7 | young_replace_bike_inflict_tip_victory_cradle |  
+| bip_39_word_underscore_8 | young_replace_bike_inflict_tip_victory_cradle_mammal |  
+| bip_39_word_underscore_9 | young_replace_bike_inflict_tip_victory_cradle_mammal_dance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

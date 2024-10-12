@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toss |  
+| bip_39_word_dash_10 | toss-police-slice-caught-rain-tuna-alarm-satoshi-motor-oyster |  
+| bip_39_word_dash_11 | toss-police-slice-caught-rain-tuna-alarm-satoshi-motor-oyster-region |  
+| bip_39_word_dash_12 | toss-police-slice-caught-rain-tuna-alarm-satoshi-motor-oyster-region-air |  
+| bip_39_word_dash_2 | toss-police |  
+| bip_39_word_dash_3 | toss-police-slice |  
+| bip_39_word_dash_4 | toss-police-slice-caught |  
+| bip_39_word_dash_5 | toss-police-slice-caught-rain |  
+| bip_39_word_dash_6 | toss-police-slice-caught-rain-tuna |  
+| bip_39_word_dash_7 | toss-police-slice-caught-rain-tuna-alarm |  
+| bip_39_word_dash_8 | toss-police-slice-caught-rain-tuna-alarm-satoshi |  
+| bip_39_word_dash_9 | toss-police-slice-caught-rain-tuna-alarm-satoshi-motor |  
 | bip_39_word_new_br_1 | toss |  
 | bip_39_word_new_br_10 | toss<br>police<br>slice<br>caught<br>rain<br>tuna<br>alarm<br>satoshi<br>motor<br>oyster |  
 | bip_39_word_new_br_11 | toss<br>police<br>slice<br>caught<br>rain<br>tuna<br>alarm<br>satoshi<br>motor<br>oyster<br>region |  
@@ -147,6 +159,18 @@ motor |
 | bip_39_word_space_7 | toss police slice caught rain tuna alarm |  
 | bip_39_word_space_8 | toss police slice caught rain tuna alarm satoshi |  
 | bip_39_word_space_9 | toss police slice caught rain tuna alarm satoshi motor |  
+| bip_39_word_underscore_1 | toss |  
+| bip_39_word_underscore_10 | toss_police_slice_caught_rain_tuna_alarm_satoshi_motor_oyster |  
+| bip_39_word_underscore_11 | toss_police_slice_caught_rain_tuna_alarm_satoshi_motor_oyster_region |  
+| bip_39_word_underscore_12 | toss_police_slice_caught_rain_tuna_alarm_satoshi_motor_oyster_region_air |  
+| bip_39_word_underscore_2 | toss_police |  
+| bip_39_word_underscore_3 | toss_police_slice |  
+| bip_39_word_underscore_4 | toss_police_slice_caught |  
+| bip_39_word_underscore_5 | toss_police_slice_caught_rain |  
+| bip_39_word_underscore_6 | toss_police_slice_caught_rain_tuna |  
+| bip_39_word_underscore_7 | toss_police_slice_caught_rain_tuna_alarm |  
+| bip_39_word_underscore_8 | toss_police_slice_caught_rain_tuna_alarm_satoshi |  
+| bip_39_word_underscore_9 | toss_police_slice_caught_rain_tuna_alarm_satoshi_motor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

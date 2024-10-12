@@ -1,3 +1,15 @@
+bip_39_word_dash_1: denial
+bip_39_word_dash_10: denial-twenty-wool-success-bless-mask-above-iron-lizard-basic
+bip_39_word_dash_11: denial-twenty-wool-success-bless-mask-above-iron-lizard-basic-swarm
+bip_39_word_dash_12: denial-twenty-wool-success-bless-mask-above-iron-lizard-basic-swarm-alone
+bip_39_word_dash_2: denial-twenty
+bip_39_word_dash_3: denial-twenty-wool
+bip_39_word_dash_4: denial-twenty-wool-success
+bip_39_word_dash_5: denial-twenty-wool-success-bless
+bip_39_word_dash_6: denial-twenty-wool-success-bless-mask
+bip_39_word_dash_7: denial-twenty-wool-success-bless-mask-above
+bip_39_word_dash_8: denial-twenty-wool-success-bless-mask-above-iron
+bip_39_word_dash_9: denial-twenty-wool-success-bless-mask-above-iron-lizard
 bip_39_word_new_br_1: denial
 bip_39_word_new_br_10: denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic
 bip_39_word_new_br_11: denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic<br>swarm
@@ -193,6 +205,18 @@ bip_39_word_space_6: denial twenty wool success bless mask
 bip_39_word_space_7: denial twenty wool success bless mask above
 bip_39_word_space_8: denial twenty wool success bless mask above iron
 bip_39_word_space_9: denial twenty wool success bless mask above iron lizard
+bip_39_word_underscore_1: denial
+bip_39_word_underscore_10: denial_twenty_wool_success_bless_mask_above_iron_lizard_basic
+bip_39_word_underscore_11: denial_twenty_wool_success_bless_mask_above_iron_lizard_basic_swarm
+bip_39_word_underscore_12: denial_twenty_wool_success_bless_mask_above_iron_lizard_basic_swarm_alone
+bip_39_word_underscore_2: denial_twenty
+bip_39_word_underscore_3: denial_twenty_wool
+bip_39_word_underscore_4: denial_twenty_wool_success
+bip_39_word_underscore_5: denial_twenty_wool_success_bless
+bip_39_word_underscore_6: denial_twenty_wool_success_bless_mask
+bip_39_word_underscore_7: denial_twenty_wool_success_bless_mask_above
+bip_39_word_underscore_8: denial_twenty_wool_success_bless_mask_above_iron
+bip_39_word_underscore_9: denial_twenty_wool_success_bless_mask_above_iron_lizard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

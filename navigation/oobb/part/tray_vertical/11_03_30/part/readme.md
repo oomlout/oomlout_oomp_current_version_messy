@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | biology |  
+| bip_39_word_dash_10 | biology-cabin-blur-idle-six-siege-task-helmet-device-general |  
+| bip_39_word_dash_11 | biology-cabin-blur-idle-six-siege-task-helmet-device-general-april |  
+| bip_39_word_dash_12 | biology-cabin-blur-idle-six-siege-task-helmet-device-general-april-amateur |  
+| bip_39_word_dash_2 | biology-cabin |  
+| bip_39_word_dash_3 | biology-cabin-blur |  
+| bip_39_word_dash_4 | biology-cabin-blur-idle |  
+| bip_39_word_dash_5 | biology-cabin-blur-idle-six |  
+| bip_39_word_dash_6 | biology-cabin-blur-idle-six-siege |  
+| bip_39_word_dash_7 | biology-cabin-blur-idle-six-siege-task |  
+| bip_39_word_dash_8 | biology-cabin-blur-idle-six-siege-task-helmet |  
+| bip_39_word_dash_9 | biology-cabin-blur-idle-six-siege-task-helmet-device |  
 | bip_39_word_new_br_1 | biology |  
 | bip_39_word_new_br_10 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet<br>device<br>general |  
 | bip_39_word_new_br_11 | biology<br>cabin<br>blur<br>idle<br>six<br>siege<br>task<br>helmet<br>device<br>general<br>april |  
@@ -147,6 +159,18 @@ device |
 | bip_39_word_space_7 | biology cabin blur idle six siege task |  
 | bip_39_word_space_8 | biology cabin blur idle six siege task helmet |  
 | bip_39_word_space_9 | biology cabin blur idle six siege task helmet device |  
+| bip_39_word_underscore_1 | biology |  
+| bip_39_word_underscore_10 | biology_cabin_blur_idle_six_siege_task_helmet_device_general |  
+| bip_39_word_underscore_11 | biology_cabin_blur_idle_six_siege_task_helmet_device_general_april |  
+| bip_39_word_underscore_12 | biology_cabin_blur_idle_six_siege_task_helmet_device_general_april_amateur |  
+| bip_39_word_underscore_2 | biology_cabin |  
+| bip_39_word_underscore_3 | biology_cabin_blur |  
+| bip_39_word_underscore_4 | biology_cabin_blur_idle |  
+| bip_39_word_underscore_5 | biology_cabin_blur_idle_six |  
+| bip_39_word_underscore_6 | biology_cabin_blur_idle_six_siege |  
+| bip_39_word_underscore_7 | biology_cabin_blur_idle_six_siege_task |  
+| bip_39_word_underscore_8 | biology_cabin_blur_idle_six_siege_task_helmet |  
+| bip_39_word_underscore_9 | biology_cabin_blur_idle_six_siege_task_helmet_device |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

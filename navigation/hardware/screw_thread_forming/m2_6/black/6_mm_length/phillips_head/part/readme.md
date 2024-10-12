@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brass |  
+| bip_39_word_dash_10 | brass-chuckle-poet-reduce-sight-parent-convince-pipe-candy-rain |  
+| bip_39_word_dash_11 | brass-chuckle-poet-reduce-sight-parent-convince-pipe-candy-rain-salad |  
+| bip_39_word_dash_12 | brass-chuckle-poet-reduce-sight-parent-convince-pipe-candy-rain-salad-admit |  
+| bip_39_word_dash_2 | brass-chuckle |  
+| bip_39_word_dash_3 | brass-chuckle-poet |  
+| bip_39_word_dash_4 | brass-chuckle-poet-reduce |  
+| bip_39_word_dash_5 | brass-chuckle-poet-reduce-sight |  
+| bip_39_word_dash_6 | brass-chuckle-poet-reduce-sight-parent |  
+| bip_39_word_dash_7 | brass-chuckle-poet-reduce-sight-parent-convince |  
+| bip_39_word_dash_8 | brass-chuckle-poet-reduce-sight-parent-convince-pipe |  
+| bip_39_word_dash_9 | brass-chuckle-poet-reduce-sight-parent-convince-pipe-candy |  
 | bip_39_word_new_br_1 | brass |  
 | bip_39_word_new_br_10 | brass<br>chuckle<br>poet<br>reduce<br>sight<br>parent<br>convince<br>pipe<br>candy<br>rain |  
 | bip_39_word_new_br_11 | brass<br>chuckle<br>poet<br>reduce<br>sight<br>parent<br>convince<br>pipe<br>candy<br>rain<br>salad |  
@@ -147,6 +159,18 @@ candy |
 | bip_39_word_space_7 | brass chuckle poet reduce sight parent convince |  
 | bip_39_word_space_8 | brass chuckle poet reduce sight parent convince pipe |  
 | bip_39_word_space_9 | brass chuckle poet reduce sight parent convince pipe candy |  
+| bip_39_word_underscore_1 | brass |  
+| bip_39_word_underscore_10 | brass_chuckle_poet_reduce_sight_parent_convince_pipe_candy_rain |  
+| bip_39_word_underscore_11 | brass_chuckle_poet_reduce_sight_parent_convince_pipe_candy_rain_salad |  
+| bip_39_word_underscore_12 | brass_chuckle_poet_reduce_sight_parent_convince_pipe_candy_rain_salad_admit |  
+| bip_39_word_underscore_2 | brass_chuckle |  
+| bip_39_word_underscore_3 | brass_chuckle_poet |  
+| bip_39_word_underscore_4 | brass_chuckle_poet_reduce |  
+| bip_39_word_underscore_5 | brass_chuckle_poet_reduce_sight |  
+| bip_39_word_underscore_6 | brass_chuckle_poet_reduce_sight_parent |  
+| bip_39_word_underscore_7 | brass_chuckle_poet_reduce_sight_parent_convince |  
+| bip_39_word_underscore_8 | brass_chuckle_poet_reduce_sight_parent_convince_pipe |  
+| bip_39_word_underscore_9 | brass_chuckle_poet_reduce_sight_parent_convince_pipe_candy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

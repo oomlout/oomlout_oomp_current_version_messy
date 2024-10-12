@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | story |  
+| bip_39_word_dash_10 | story-lucky-shadow-better-mirror-summer-decade-clerk-clerk-quit |  
+| bip_39_word_dash_11 | story-lucky-shadow-better-mirror-summer-decade-clerk-clerk-quit-kiwi |  
+| bip_39_word_dash_12 | story-lucky-shadow-better-mirror-summer-decade-clerk-clerk-quit-kiwi-asset |  
+| bip_39_word_dash_2 | story-lucky |  
+| bip_39_word_dash_3 | story-lucky-shadow |  
+| bip_39_word_dash_4 | story-lucky-shadow-better |  
+| bip_39_word_dash_5 | story-lucky-shadow-better-mirror |  
+| bip_39_word_dash_6 | story-lucky-shadow-better-mirror-summer |  
+| bip_39_word_dash_7 | story-lucky-shadow-better-mirror-summer-decade |  
+| bip_39_word_dash_8 | story-lucky-shadow-better-mirror-summer-decade-clerk |  
+| bip_39_word_dash_9 | story-lucky-shadow-better-mirror-summer-decade-clerk-clerk |  
 | bip_39_word_new_br_1 | story |  
 | bip_39_word_new_br_10 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk<br>clerk<br>quit |  
 | bip_39_word_new_br_11 | story<br>lucky<br>shadow<br>better<br>mirror<br>summer<br>decade<br>clerk<br>clerk<br>quit<br>kiwi |  
@@ -147,6 +159,18 @@ clerk |
 | bip_39_word_space_7 | story lucky shadow better mirror summer decade |  
 | bip_39_word_space_8 | story lucky shadow better mirror summer decade clerk |  
 | bip_39_word_space_9 | story lucky shadow better mirror summer decade clerk clerk |  
+| bip_39_word_underscore_1 | story |  
+| bip_39_word_underscore_10 | story_lucky_shadow_better_mirror_summer_decade_clerk_clerk_quit |  
+| bip_39_word_underscore_11 | story_lucky_shadow_better_mirror_summer_decade_clerk_clerk_quit_kiwi |  
+| bip_39_word_underscore_12 | story_lucky_shadow_better_mirror_summer_decade_clerk_clerk_quit_kiwi_asset |  
+| bip_39_word_underscore_2 | story_lucky |  
+| bip_39_word_underscore_3 | story_lucky_shadow |  
+| bip_39_word_underscore_4 | story_lucky_shadow_better |  
+| bip_39_word_underscore_5 | story_lucky_shadow_better_mirror |  
+| bip_39_word_underscore_6 | story_lucky_shadow_better_mirror_summer |  
+| bip_39_word_underscore_7 | story_lucky_shadow_better_mirror_summer_decade |  
+| bip_39_word_underscore_8 | story_lucky_shadow_better_mirror_summer_decade_clerk |  
+| bip_39_word_underscore_9 | story_lucky_shadow_better_mirror_summer_decade_clerk_clerk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

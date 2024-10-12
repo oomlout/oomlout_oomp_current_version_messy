@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gentle
+bip_39_word_dash_10: gentle-ozone-flash-message-bargain-double-abuse-celery-diet-oyster
+bip_39_word_dash_11: gentle-ozone-flash-message-bargain-double-abuse-celery-diet-oyster-gadget
+bip_39_word_dash_12: gentle-ozone-flash-message-bargain-double-abuse-celery-diet-oyster-gadget-armor
+bip_39_word_dash_2: gentle-ozone
+bip_39_word_dash_3: gentle-ozone-flash
+bip_39_word_dash_4: gentle-ozone-flash-message
+bip_39_word_dash_5: gentle-ozone-flash-message-bargain
+bip_39_word_dash_6: gentle-ozone-flash-message-bargain-double
+bip_39_word_dash_7: gentle-ozone-flash-message-bargain-double-abuse
+bip_39_word_dash_8: gentle-ozone-flash-message-bargain-double-abuse-celery
+bip_39_word_dash_9: gentle-ozone-flash-message-bargain-double-abuse-celery-diet
 bip_39_word_new_br_1: gentle
 bip_39_word_new_br_10: gentle<br>ozone<br>flash<br>message<br>bargain<br>double<br>abuse<br>celery<br>diet<br>oyster
 bip_39_word_new_br_11: gentle<br>ozone<br>flash<br>message<br>bargain<br>double<br>abuse<br>celery<br>diet<br>oyster<br>gadget
@@ -194,6 +206,18 @@ bip_39_word_space_6: gentle ozone flash message bargain double
 bip_39_word_space_7: gentle ozone flash message bargain double abuse
 bip_39_word_space_8: gentle ozone flash message bargain double abuse celery
 bip_39_word_space_9: gentle ozone flash message bargain double abuse celery diet
+bip_39_word_underscore_1: gentle
+bip_39_word_underscore_10: gentle_ozone_flash_message_bargain_double_abuse_celery_diet_oyster
+bip_39_word_underscore_11: gentle_ozone_flash_message_bargain_double_abuse_celery_diet_oyster_gadget
+bip_39_word_underscore_12: gentle_ozone_flash_message_bargain_double_abuse_celery_diet_oyster_gadget_armor
+bip_39_word_underscore_2: gentle_ozone
+bip_39_word_underscore_3: gentle_ozone_flash
+bip_39_word_underscore_4: gentle_ozone_flash_message
+bip_39_word_underscore_5: gentle_ozone_flash_message_bargain
+bip_39_word_underscore_6: gentle_ozone_flash_message_bargain_double
+bip_39_word_underscore_7: gentle_ozone_flash_message_bargain_double_abuse
+bip_39_word_underscore_8: gentle_ozone_flash_message_bargain_double_abuse_celery
+bip_39_word_underscore_9: gentle_ozone_flash_message_bargain_double_abuse_celery_diet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

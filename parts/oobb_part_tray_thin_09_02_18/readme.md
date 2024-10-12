@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inspire |  
+| bip_39_word_dash_10 | inspire-taxi-witness-spell-captain-crash-rival-buffalo-copper-sock |  
+| bip_39_word_dash_11 | inspire-taxi-witness-spell-captain-crash-rival-buffalo-copper-sock-material |  
+| bip_39_word_dash_12 | inspire-taxi-witness-spell-captain-crash-rival-buffalo-copper-sock-material-alien |  
+| bip_39_word_dash_2 | inspire-taxi |  
+| bip_39_word_dash_3 | inspire-taxi-witness |  
+| bip_39_word_dash_4 | inspire-taxi-witness-spell |  
+| bip_39_word_dash_5 | inspire-taxi-witness-spell-captain |  
+| bip_39_word_dash_6 | inspire-taxi-witness-spell-captain-crash |  
+| bip_39_word_dash_7 | inspire-taxi-witness-spell-captain-crash-rival |  
+| bip_39_word_dash_8 | inspire-taxi-witness-spell-captain-crash-rival-buffalo |  
+| bip_39_word_dash_9 | inspire-taxi-witness-spell-captain-crash-rival-buffalo-copper |  
 | bip_39_word_new_br_1 | inspire |  
 | bip_39_word_new_br_10 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo<br>copper<br>sock |  
 | bip_39_word_new_br_11 | inspire<br>taxi<br>witness<br>spell<br>captain<br>crash<br>rival<br>buffalo<br>copper<br>sock<br>material |  
@@ -147,6 +159,18 @@ copper |
 | bip_39_word_space_7 | inspire taxi witness spell captain crash rival |  
 | bip_39_word_space_8 | inspire taxi witness spell captain crash rival buffalo |  
 | bip_39_word_space_9 | inspire taxi witness spell captain crash rival buffalo copper |  
+| bip_39_word_underscore_1 | inspire |  
+| bip_39_word_underscore_10 | inspire_taxi_witness_spell_captain_crash_rival_buffalo_copper_sock |  
+| bip_39_word_underscore_11 | inspire_taxi_witness_spell_captain_crash_rival_buffalo_copper_sock_material |  
+| bip_39_word_underscore_12 | inspire_taxi_witness_spell_captain_crash_rival_buffalo_copper_sock_material_alien |  
+| bip_39_word_underscore_2 | inspire_taxi |  
+| bip_39_word_underscore_3 | inspire_taxi_witness |  
+| bip_39_word_underscore_4 | inspire_taxi_witness_spell |  
+| bip_39_word_underscore_5 | inspire_taxi_witness_spell_captain |  
+| bip_39_word_underscore_6 | inspire_taxi_witness_spell_captain_crash |  
+| bip_39_word_underscore_7 | inspire_taxi_witness_spell_captain_crash_rival |  
+| bip_39_word_underscore_8 | inspire_taxi_witness_spell_captain_crash_rival_buffalo |  
+| bip_39_word_underscore_9 | inspire_taxi_witness_spell_captain_crash_rival_buffalo_copper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

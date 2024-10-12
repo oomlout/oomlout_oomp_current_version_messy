@@ -1,3 +1,15 @@
+bip_39_word_dash_1: resist
+bip_39_word_dash_10: resist-retire-still-room-catch-scout-like-kind-fee-myth
+bip_39_word_dash_11: resist-retire-still-room-catch-scout-like-kind-fee-myth-admit
+bip_39_word_dash_12: resist-retire-still-room-catch-scout-like-kind-fee-myth-admit-arm
+bip_39_word_dash_2: resist-retire
+bip_39_word_dash_3: resist-retire-still
+bip_39_word_dash_4: resist-retire-still-room
+bip_39_word_dash_5: resist-retire-still-room-catch
+bip_39_word_dash_6: resist-retire-still-room-catch-scout
+bip_39_word_dash_7: resist-retire-still-room-catch-scout-like
+bip_39_word_dash_8: resist-retire-still-room-catch-scout-like-kind
+bip_39_word_dash_9: resist-retire-still-room-catch-scout-like-kind-fee
 bip_39_word_new_br_1: resist
 bip_39_word_new_br_10: resist<br>retire<br>still<br>room<br>catch<br>scout<br>like<br>kind<br>fee<br>myth
 bip_39_word_new_br_11: resist<br>retire<br>still<br>room<br>catch<br>scout<br>like<br>kind<br>fee<br>myth<br>admit
@@ -192,6 +204,18 @@ bip_39_word_space_6: resist retire still room catch scout
 bip_39_word_space_7: resist retire still room catch scout like
 bip_39_word_space_8: resist retire still room catch scout like kind
 bip_39_word_space_9: resist retire still room catch scout like kind fee
+bip_39_word_underscore_1: resist
+bip_39_word_underscore_10: resist_retire_still_room_catch_scout_like_kind_fee_myth
+bip_39_word_underscore_11: resist_retire_still_room_catch_scout_like_kind_fee_myth_admit
+bip_39_word_underscore_12: resist_retire_still_room_catch_scout_like_kind_fee_myth_admit_arm
+bip_39_word_underscore_2: resist_retire
+bip_39_word_underscore_3: resist_retire_still
+bip_39_word_underscore_4: resist_retire_still_room
+bip_39_word_underscore_5: resist_retire_still_room_catch
+bip_39_word_underscore_6: resist_retire_still_room_catch_scout
+bip_39_word_underscore_7: resist_retire_still_room_catch_scout_like
+bip_39_word_underscore_8: resist_retire_still_room_catch_scout_like_kind
+bip_39_word_underscore_9: resist_retire_still_room_catch_scout_like_kind_fee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

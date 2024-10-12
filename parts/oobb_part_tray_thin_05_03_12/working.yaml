@@ -1,3 +1,15 @@
+bip_39_word_dash_1: drift
+bip_39_word_dash_10: drift-symbol-mad-bind-special-pact-choose-broom-enhance-settle
+bip_39_word_dash_11: drift-symbol-mad-bind-special-pact-choose-broom-enhance-settle-pen
+bip_39_word_dash_12: drift-symbol-mad-bind-special-pact-choose-broom-enhance-settle-pen-accuse
+bip_39_word_dash_2: drift-symbol
+bip_39_word_dash_3: drift-symbol-mad
+bip_39_word_dash_4: drift-symbol-mad-bind
+bip_39_word_dash_5: drift-symbol-mad-bind-special
+bip_39_word_dash_6: drift-symbol-mad-bind-special-pact
+bip_39_word_dash_7: drift-symbol-mad-bind-special-pact-choose
+bip_39_word_dash_8: drift-symbol-mad-bind-special-pact-choose-broom
+bip_39_word_dash_9: drift-symbol-mad-bind-special-pact-choose-broom-enhance
 bip_39_word_new_br_1: drift
 bip_39_word_new_br_10: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle
 bip_39_word_new_br_11: drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle<br>pen
@@ -193,6 +205,18 @@ bip_39_word_space_6: drift symbol mad bind special pact
 bip_39_word_space_7: drift symbol mad bind special pact choose
 bip_39_word_space_8: drift symbol mad bind special pact choose broom
 bip_39_word_space_9: drift symbol mad bind special pact choose broom enhance
+bip_39_word_underscore_1: drift
+bip_39_word_underscore_10: drift_symbol_mad_bind_special_pact_choose_broom_enhance_settle
+bip_39_word_underscore_11: drift_symbol_mad_bind_special_pact_choose_broom_enhance_settle_pen
+bip_39_word_underscore_12: drift_symbol_mad_bind_special_pact_choose_broom_enhance_settle_pen_accuse
+bip_39_word_underscore_2: drift_symbol
+bip_39_word_underscore_3: drift_symbol_mad
+bip_39_word_underscore_4: drift_symbol_mad_bind
+bip_39_word_underscore_5: drift_symbol_mad_bind_special
+bip_39_word_underscore_6: drift_symbol_mad_bind_special_pact
+bip_39_word_underscore_7: drift_symbol_mad_bind_special_pact_choose
+bip_39_word_underscore_8: drift_symbol_mad_bind_special_pact_choose_broom
+bip_39_word_underscore_9: drift_symbol_mad_bind_special_pact_choose_broom_enhance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: kitten
+bip_39_word_dash_10: kitten-top-copper-dawn-century-famous-agent-dignity-gloom-noodle
+bip_39_word_dash_11: kitten-top-copper-dawn-century-famous-agent-dignity-gloom-noodle-skill
+bip_39_word_dash_12: kitten-top-copper-dawn-century-famous-agent-dignity-gloom-noodle-skill-appear
+bip_39_word_dash_2: kitten-top
+bip_39_word_dash_3: kitten-top-copper
+bip_39_word_dash_4: kitten-top-copper-dawn
+bip_39_word_dash_5: kitten-top-copper-dawn-century
+bip_39_word_dash_6: kitten-top-copper-dawn-century-famous
+bip_39_word_dash_7: kitten-top-copper-dawn-century-famous-agent
+bip_39_word_dash_8: kitten-top-copper-dawn-century-famous-agent-dignity
+bip_39_word_dash_9: kitten-top-copper-dawn-century-famous-agent-dignity-gloom
 bip_39_word_new_br_1: kitten
 bip_39_word_new_br_10: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle
 bip_39_word_new_br_11: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle<br>skill
@@ -193,6 +205,18 @@ bip_39_word_space_6: kitten top copper dawn century famous
 bip_39_word_space_7: kitten top copper dawn century famous agent
 bip_39_word_space_8: kitten top copper dawn century famous agent dignity
 bip_39_word_space_9: kitten top copper dawn century famous agent dignity gloom
+bip_39_word_underscore_1: kitten
+bip_39_word_underscore_10: kitten_top_copper_dawn_century_famous_agent_dignity_gloom_noodle
+bip_39_word_underscore_11: kitten_top_copper_dawn_century_famous_agent_dignity_gloom_noodle_skill
+bip_39_word_underscore_12: kitten_top_copper_dawn_century_famous_agent_dignity_gloom_noodle_skill_appear
+bip_39_word_underscore_2: kitten_top
+bip_39_word_underscore_3: kitten_top_copper
+bip_39_word_underscore_4: kitten_top_copper_dawn
+bip_39_word_underscore_5: kitten_top_copper_dawn_century
+bip_39_word_underscore_6: kitten_top_copper_dawn_century_famous
+bip_39_word_underscore_7: kitten_top_copper_dawn_century_famous_agent
+bip_39_word_underscore_8: kitten_top_copper_dawn_century_famous_agent_dignity
+bip_39_word_underscore_9: kitten_top_copper_dawn_century_famous_agent_dignity_gloom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

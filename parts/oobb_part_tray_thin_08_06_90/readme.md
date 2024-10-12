@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | harsh |  
+| bip_39_word_dash_10 | harsh-when-segment-finger-wise-enter-just-speed-absorb-border |  
+| bip_39_word_dash_11 | harsh-when-segment-finger-wise-enter-just-speed-absorb-border-tilt |  
+| bip_39_word_dash_12 | harsh-when-segment-finger-wise-enter-just-speed-absorb-border-tilt-always |  
+| bip_39_word_dash_2 | harsh-when |  
+| bip_39_word_dash_3 | harsh-when-segment |  
+| bip_39_word_dash_4 | harsh-when-segment-finger |  
+| bip_39_word_dash_5 | harsh-when-segment-finger-wise |  
+| bip_39_word_dash_6 | harsh-when-segment-finger-wise-enter |  
+| bip_39_word_dash_7 | harsh-when-segment-finger-wise-enter-just |  
+| bip_39_word_dash_8 | harsh-when-segment-finger-wise-enter-just-speed |  
+| bip_39_word_dash_9 | harsh-when-segment-finger-wise-enter-just-speed-absorb |  
 | bip_39_word_new_br_1 | harsh |  
 | bip_39_word_new_br_10 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border |  
 | bip_39_word_new_br_11 | harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border<br>tilt |  
@@ -147,6 +159,18 @@ absorb |
 | bip_39_word_space_7 | harsh when segment finger wise enter just |  
 | bip_39_word_space_8 | harsh when segment finger wise enter just speed |  
 | bip_39_word_space_9 | harsh when segment finger wise enter just speed absorb |  
+| bip_39_word_underscore_1 | harsh |  
+| bip_39_word_underscore_10 | harsh_when_segment_finger_wise_enter_just_speed_absorb_border |  
+| bip_39_word_underscore_11 | harsh_when_segment_finger_wise_enter_just_speed_absorb_border_tilt |  
+| bip_39_word_underscore_12 | harsh_when_segment_finger_wise_enter_just_speed_absorb_border_tilt_always |  
+| bip_39_word_underscore_2 | harsh_when |  
+| bip_39_word_underscore_3 | harsh_when_segment |  
+| bip_39_word_underscore_4 | harsh_when_segment_finger |  
+| bip_39_word_underscore_5 | harsh_when_segment_finger_wise |  
+| bip_39_word_underscore_6 | harsh_when_segment_finger_wise_enter |  
+| bip_39_word_underscore_7 | harsh_when_segment_finger_wise_enter_just |  
+| bip_39_word_underscore_8 | harsh_when_segment_finger_wise_enter_just_speed |  
+| bip_39_word_underscore_9 | harsh_when_segment_finger_wise_enter_just_speed_absorb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

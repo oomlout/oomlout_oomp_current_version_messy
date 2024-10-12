@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rich
+bip_39_word_dash_10: rich-december-cruise-scorpion-entire-toilet-cradle-grow-settle-already
+bip_39_word_dash_11: rich-december-cruise-scorpion-entire-toilet-cradle-grow-settle-already-orchard
+bip_39_word_dash_12: rich-december-cruise-scorpion-entire-toilet-cradle-grow-settle-already-orchard-absorb
+bip_39_word_dash_2: rich-december
+bip_39_word_dash_3: rich-december-cruise
+bip_39_word_dash_4: rich-december-cruise-scorpion
+bip_39_word_dash_5: rich-december-cruise-scorpion-entire
+bip_39_word_dash_6: rich-december-cruise-scorpion-entire-toilet
+bip_39_word_dash_7: rich-december-cruise-scorpion-entire-toilet-cradle
+bip_39_word_dash_8: rich-december-cruise-scorpion-entire-toilet-cradle-grow
+bip_39_word_dash_9: rich-december-cruise-scorpion-entire-toilet-cradle-grow-settle
 bip_39_word_new_br_1: rich
 bip_39_word_new_br_10: rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow<br>settle<br>already
 bip_39_word_new_br_11: rich<br>december<br>cruise<br>scorpion<br>entire<br>toilet<br>cradle<br>grow<br>settle<br>already<br>orchard
@@ -194,6 +206,18 @@ bip_39_word_space_6: rich december cruise scorpion entire toilet
 bip_39_word_space_7: rich december cruise scorpion entire toilet cradle
 bip_39_word_space_8: rich december cruise scorpion entire toilet cradle grow
 bip_39_word_space_9: rich december cruise scorpion entire toilet cradle grow settle
+bip_39_word_underscore_1: rich
+bip_39_word_underscore_10: rich_december_cruise_scorpion_entire_toilet_cradle_grow_settle_already
+bip_39_word_underscore_11: rich_december_cruise_scorpion_entire_toilet_cradle_grow_settle_already_orchard
+bip_39_word_underscore_12: rich_december_cruise_scorpion_entire_toilet_cradle_grow_settle_already_orchard_absorb
+bip_39_word_underscore_2: rich_december
+bip_39_word_underscore_3: rich_december_cruise
+bip_39_word_underscore_4: rich_december_cruise_scorpion
+bip_39_word_underscore_5: rich_december_cruise_scorpion_entire
+bip_39_word_underscore_6: rich_december_cruise_scorpion_entire_toilet
+bip_39_word_underscore_7: rich_december_cruise_scorpion_entire_toilet_cradle
+bip_39_word_underscore_8: rich_december_cruise_scorpion_entire_toilet_cradle_grow
+bip_39_word_underscore_9: rich_december_cruise_scorpion_entire_toilet_cradle_grow_settle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

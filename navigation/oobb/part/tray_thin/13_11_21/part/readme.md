@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | model |  
+| bip_39_word_dash_10 | model-sibling-train-tired-odor-sauce-alter-battle-intact-match |  
+| bip_39_word_dash_11 | model-sibling-train-tired-odor-sauce-alter-battle-intact-match-actual |  
+| bip_39_word_dash_12 | model-sibling-train-tired-odor-sauce-alter-battle-intact-match-actual-armor |  
+| bip_39_word_dash_2 | model-sibling |  
+| bip_39_word_dash_3 | model-sibling-train |  
+| bip_39_word_dash_4 | model-sibling-train-tired |  
+| bip_39_word_dash_5 | model-sibling-train-tired-odor |  
+| bip_39_word_dash_6 | model-sibling-train-tired-odor-sauce |  
+| bip_39_word_dash_7 | model-sibling-train-tired-odor-sauce-alter |  
+| bip_39_word_dash_8 | model-sibling-train-tired-odor-sauce-alter-battle |  
+| bip_39_word_dash_9 | model-sibling-train-tired-odor-sauce-alter-battle-intact |  
 | bip_39_word_new_br_1 | model |  
 | bip_39_word_new_br_10 | model<br>sibling<br>train<br>tired<br>odor<br>sauce<br>alter<br>battle<br>intact<br>match |  
 | bip_39_word_new_br_11 | model<br>sibling<br>train<br>tired<br>odor<br>sauce<br>alter<br>battle<br>intact<br>match<br>actual |  
@@ -147,6 +159,18 @@ intact |
 | bip_39_word_space_7 | model sibling train tired odor sauce alter |  
 | bip_39_word_space_8 | model sibling train tired odor sauce alter battle |  
 | bip_39_word_space_9 | model sibling train tired odor sauce alter battle intact |  
+| bip_39_word_underscore_1 | model |  
+| bip_39_word_underscore_10 | model_sibling_train_tired_odor_sauce_alter_battle_intact_match |  
+| bip_39_word_underscore_11 | model_sibling_train_tired_odor_sauce_alter_battle_intact_match_actual |  
+| bip_39_word_underscore_12 | model_sibling_train_tired_odor_sauce_alter_battle_intact_match_actual_armor |  
+| bip_39_word_underscore_2 | model_sibling |  
+| bip_39_word_underscore_3 | model_sibling_train |  
+| bip_39_word_underscore_4 | model_sibling_train_tired |  
+| bip_39_word_underscore_5 | model_sibling_train_tired_odor |  
+| bip_39_word_underscore_6 | model_sibling_train_tired_odor_sauce |  
+| bip_39_word_underscore_7 | model_sibling_train_tired_odor_sauce_alter |  
+| bip_39_word_underscore_8 | model_sibling_train_tired_odor_sauce_alter_battle |  
+| bip_39_word_underscore_9 | model_sibling_train_tired_odor_sauce_alter_battle_intact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alley |  
+| bip_39_word_dash_10 | alley-panic-tornado-eagle-ticket-alpha-acid-immune-keen-antenna |  
+| bip_39_word_dash_11 | alley-panic-tornado-eagle-ticket-alpha-acid-immune-keen-antenna-stick |  
+| bip_39_word_dash_12 | alley-panic-tornado-eagle-ticket-alpha-acid-immune-keen-antenna-stick-action |  
+| bip_39_word_dash_2 | alley-panic |  
+| bip_39_word_dash_3 | alley-panic-tornado |  
+| bip_39_word_dash_4 | alley-panic-tornado-eagle |  
+| bip_39_word_dash_5 | alley-panic-tornado-eagle-ticket |  
+| bip_39_word_dash_6 | alley-panic-tornado-eagle-ticket-alpha |  
+| bip_39_word_dash_7 | alley-panic-tornado-eagle-ticket-alpha-acid |  
+| bip_39_word_dash_8 | alley-panic-tornado-eagle-ticket-alpha-acid-immune |  
+| bip_39_word_dash_9 | alley-panic-tornado-eagle-ticket-alpha-acid-immune-keen |  
 | bip_39_word_new_br_1 | alley |  
 | bip_39_word_new_br_10 | alley<br>panic<br>tornado<br>eagle<br>ticket<br>alpha<br>acid<br>immune<br>keen<br>antenna |  
 | bip_39_word_new_br_11 | alley<br>panic<br>tornado<br>eagle<br>ticket<br>alpha<br>acid<br>immune<br>keen<br>antenna<br>stick |  
@@ -147,6 +159,18 @@ keen |
 | bip_39_word_space_7 | alley panic tornado eagle ticket alpha acid |  
 | bip_39_word_space_8 | alley panic tornado eagle ticket alpha acid immune |  
 | bip_39_word_space_9 | alley panic tornado eagle ticket alpha acid immune keen |  
+| bip_39_word_underscore_1 | alley |  
+| bip_39_word_underscore_10 | alley_panic_tornado_eagle_ticket_alpha_acid_immune_keen_antenna |  
+| bip_39_word_underscore_11 | alley_panic_tornado_eagle_ticket_alpha_acid_immune_keen_antenna_stick |  
+| bip_39_word_underscore_12 | alley_panic_tornado_eagle_ticket_alpha_acid_immune_keen_antenna_stick_action |  
+| bip_39_word_underscore_2 | alley_panic |  
+| bip_39_word_underscore_3 | alley_panic_tornado |  
+| bip_39_word_underscore_4 | alley_panic_tornado_eagle |  
+| bip_39_word_underscore_5 | alley_panic_tornado_eagle_ticket |  
+| bip_39_word_underscore_6 | alley_panic_tornado_eagle_ticket_alpha |  
+| bip_39_word_underscore_7 | alley_panic_tornado_eagle_ticket_alpha_acid |  
+| bip_39_word_underscore_8 | alley_panic_tornado_eagle_ticket_alpha_acid_immune |  
+| bip_39_word_underscore_9 | alley_panic_tornado_eagle_ticket_alpha_acid_immune_keen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

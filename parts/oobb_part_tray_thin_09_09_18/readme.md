@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loan |  
+| bip_39_word_dash_10 | loan-minute-session-buyer-typical-dentist-reject-picnic-sunset-come |  
+| bip_39_word_dash_11 | loan-minute-session-buyer-typical-dentist-reject-picnic-sunset-come-trigger |  
+| bip_39_word_dash_12 | loan-minute-session-buyer-typical-dentist-reject-picnic-sunset-come-trigger-absorb |  
+| bip_39_word_dash_2 | loan-minute |  
+| bip_39_word_dash_3 | loan-minute-session |  
+| bip_39_word_dash_4 | loan-minute-session-buyer |  
+| bip_39_word_dash_5 | loan-minute-session-buyer-typical |  
+| bip_39_word_dash_6 | loan-minute-session-buyer-typical-dentist |  
+| bip_39_word_dash_7 | loan-minute-session-buyer-typical-dentist-reject |  
+| bip_39_word_dash_8 | loan-minute-session-buyer-typical-dentist-reject-picnic |  
+| bip_39_word_dash_9 | loan-minute-session-buyer-typical-dentist-reject-picnic-sunset |  
 | bip_39_word_new_br_1 | loan |  
 | bip_39_word_new_br_10 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come |  
 | bip_39_word_new_br_11 | loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come<br>trigger |  
@@ -147,6 +159,18 @@ sunset |
 | bip_39_word_space_7 | loan minute session buyer typical dentist reject |  
 | bip_39_word_space_8 | loan minute session buyer typical dentist reject picnic |  
 | bip_39_word_space_9 | loan minute session buyer typical dentist reject picnic sunset |  
+| bip_39_word_underscore_1 | loan |  
+| bip_39_word_underscore_10 | loan_minute_session_buyer_typical_dentist_reject_picnic_sunset_come |  
+| bip_39_word_underscore_11 | loan_minute_session_buyer_typical_dentist_reject_picnic_sunset_come_trigger |  
+| bip_39_word_underscore_12 | loan_minute_session_buyer_typical_dentist_reject_picnic_sunset_come_trigger_absorb |  
+| bip_39_word_underscore_2 | loan_minute |  
+| bip_39_word_underscore_3 | loan_minute_session |  
+| bip_39_word_underscore_4 | loan_minute_session_buyer |  
+| bip_39_word_underscore_5 | loan_minute_session_buyer_typical |  
+| bip_39_word_underscore_6 | loan_minute_session_buyer_typical_dentist |  
+| bip_39_word_underscore_7 | loan_minute_session_buyer_typical_dentist_reject |  
+| bip_39_word_underscore_8 | loan_minute_session_buyer_typical_dentist_reject_picnic |  
+| bip_39_word_underscore_9 | loan_minute_session_buyer_typical_dentist_reject_picnic_sunset |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

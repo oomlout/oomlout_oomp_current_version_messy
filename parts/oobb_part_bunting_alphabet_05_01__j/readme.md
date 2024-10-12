@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mosquito |  
+| bip_39_word_dash_10 | mosquito-crunch-monster-detect-spoil-episode-differ-benefit-chase-move |  
+| bip_39_word_dash_11 | mosquito-crunch-monster-detect-spoil-episode-differ-benefit-chase-move-beyond |  
+| bip_39_word_dash_12 | mosquito-crunch-monster-detect-spoil-episode-differ-benefit-chase-move-beyond-asthma |  
+| bip_39_word_dash_2 | mosquito-crunch |  
+| bip_39_word_dash_3 | mosquito-crunch-monster |  
+| bip_39_word_dash_4 | mosquito-crunch-monster-detect |  
+| bip_39_word_dash_5 | mosquito-crunch-monster-detect-spoil |  
+| bip_39_word_dash_6 | mosquito-crunch-monster-detect-spoil-episode |  
+| bip_39_word_dash_7 | mosquito-crunch-monster-detect-spoil-episode-differ |  
+| bip_39_word_dash_8 | mosquito-crunch-monster-detect-spoil-episode-differ-benefit |  
+| bip_39_word_dash_9 | mosquito-crunch-monster-detect-spoil-episode-differ-benefit-chase |  
 | bip_39_word_new_br_1 | mosquito |  
 | bip_39_word_new_br_10 | mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move |  
 | bip_39_word_new_br_11 | mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move<br>beyond |  
@@ -147,6 +159,18 @@ chase |
 | bip_39_word_space_7 | mosquito crunch monster detect spoil episode differ |  
 | bip_39_word_space_8 | mosquito crunch monster detect spoil episode differ benefit |  
 | bip_39_word_space_9 | mosquito crunch monster detect spoil episode differ benefit chase |  
+| bip_39_word_underscore_1 | mosquito |  
+| bip_39_word_underscore_10 | mosquito_crunch_monster_detect_spoil_episode_differ_benefit_chase_move |  
+| bip_39_word_underscore_11 | mosquito_crunch_monster_detect_spoil_episode_differ_benefit_chase_move_beyond |  
+| bip_39_word_underscore_12 | mosquito_crunch_monster_detect_spoil_episode_differ_benefit_chase_move_beyond_asthma |  
+| bip_39_word_underscore_2 | mosquito_crunch |  
+| bip_39_word_underscore_3 | mosquito_crunch_monster |  
+| bip_39_word_underscore_4 | mosquito_crunch_monster_detect |  
+| bip_39_word_underscore_5 | mosquito_crunch_monster_detect_spoil |  
+| bip_39_word_underscore_6 | mosquito_crunch_monster_detect_spoil_episode |  
+| bip_39_word_underscore_7 | mosquito_crunch_monster_detect_spoil_episode_differ |  
+| bip_39_word_underscore_8 | mosquito_crunch_monster_detect_spoil_episode_differ_benefit |  
+| bip_39_word_underscore_9 | mosquito_crunch_monster_detect_spoil_episode_differ_benefit_chase |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

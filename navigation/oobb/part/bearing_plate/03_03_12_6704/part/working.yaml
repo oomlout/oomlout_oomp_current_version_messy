@@ -1,3 +1,15 @@
+bip_39_word_dash_1: super
+bip_39_word_dash_10: super-mountain-denial-cross-street-car-actress-wealth-atom-inch
+bip_39_word_dash_11: super-mountain-denial-cross-street-car-actress-wealth-atom-inch-crowd
+bip_39_word_dash_12: super-mountain-denial-cross-street-car-actress-wealth-atom-inch-crowd-allow
+bip_39_word_dash_2: super-mountain
+bip_39_word_dash_3: super-mountain-denial
+bip_39_word_dash_4: super-mountain-denial-cross
+bip_39_word_dash_5: super-mountain-denial-cross-street
+bip_39_word_dash_6: super-mountain-denial-cross-street-car
+bip_39_word_dash_7: super-mountain-denial-cross-street-car-actress
+bip_39_word_dash_8: super-mountain-denial-cross-street-car-actress-wealth
+bip_39_word_dash_9: super-mountain-denial-cross-street-car-actress-wealth-atom
 bip_39_word_new_br_1: super
 bip_39_word_new_br_10: super<br>mountain<br>denial<br>cross<br>street<br>car<br>actress<br>wealth<br>atom<br>inch
 bip_39_word_new_br_11: super<br>mountain<br>denial<br>cross<br>street<br>car<br>actress<br>wealth<br>atom<br>inch<br>crowd
@@ -193,6 +205,18 @@ bip_39_word_space_6: super mountain denial cross street car
 bip_39_word_space_7: super mountain denial cross street car actress
 bip_39_word_space_8: super mountain denial cross street car actress wealth
 bip_39_word_space_9: super mountain denial cross street car actress wealth atom
+bip_39_word_underscore_1: super
+bip_39_word_underscore_10: super_mountain_denial_cross_street_car_actress_wealth_atom_inch
+bip_39_word_underscore_11: super_mountain_denial_cross_street_car_actress_wealth_atom_inch_crowd
+bip_39_word_underscore_12: super_mountain_denial_cross_street_car_actress_wealth_atom_inch_crowd_allow
+bip_39_word_underscore_2: super_mountain
+bip_39_word_underscore_3: super_mountain_denial
+bip_39_word_underscore_4: super_mountain_denial_cross
+bip_39_word_underscore_5: super_mountain_denial_cross_street
+bip_39_word_underscore_6: super_mountain_denial_cross_street_car
+bip_39_word_underscore_7: super_mountain_denial_cross_street_car_actress
+bip_39_word_underscore_8: super_mountain_denial_cross_street_car_actress_wealth
+bip_39_word_underscore_9: super_mountain_denial_cross_street_car_actress_wealth_atom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

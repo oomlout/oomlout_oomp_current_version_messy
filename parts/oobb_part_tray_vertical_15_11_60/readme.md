@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | law |  
+| bip_39_word_dash_10 | law-book-face-tongue-token-diesel-legend-stove-swamp-play |  
+| bip_39_word_dash_11 | law-book-face-tongue-token-diesel-legend-stove-swamp-play-quote |  
+| bip_39_word_dash_12 | law-book-face-tongue-token-diesel-legend-stove-swamp-play-quote-admit |  
+| bip_39_word_dash_2 | law-book |  
+| bip_39_word_dash_3 | law-book-face |  
+| bip_39_word_dash_4 | law-book-face-tongue |  
+| bip_39_word_dash_5 | law-book-face-tongue-token |  
+| bip_39_word_dash_6 | law-book-face-tongue-token-diesel |  
+| bip_39_word_dash_7 | law-book-face-tongue-token-diesel-legend |  
+| bip_39_word_dash_8 | law-book-face-tongue-token-diesel-legend-stove |  
+| bip_39_word_dash_9 | law-book-face-tongue-token-diesel-legend-stove-swamp |  
 | bip_39_word_new_br_1 | law |  
 | bip_39_word_new_br_10 | law<br>book<br>face<br>tongue<br>token<br>diesel<br>legend<br>stove<br>swamp<br>play |  
 | bip_39_word_new_br_11 | law<br>book<br>face<br>tongue<br>token<br>diesel<br>legend<br>stove<br>swamp<br>play<br>quote |  
@@ -147,6 +159,18 @@ swamp |
 | bip_39_word_space_7 | law book face tongue token diesel legend |  
 | bip_39_word_space_8 | law book face tongue token diesel legend stove |  
 | bip_39_word_space_9 | law book face tongue token diesel legend stove swamp |  
+| bip_39_word_underscore_1 | law |  
+| bip_39_word_underscore_10 | law_book_face_tongue_token_diesel_legend_stove_swamp_play |  
+| bip_39_word_underscore_11 | law_book_face_tongue_token_diesel_legend_stove_swamp_play_quote |  
+| bip_39_word_underscore_12 | law_book_face_tongue_token_diesel_legend_stove_swamp_play_quote_admit |  
+| bip_39_word_underscore_2 | law_book |  
+| bip_39_word_underscore_3 | law_book_face |  
+| bip_39_word_underscore_4 | law_book_face_tongue |  
+| bip_39_word_underscore_5 | law_book_face_tongue_token |  
+| bip_39_word_underscore_6 | law_book_face_tongue_token_diesel |  
+| bip_39_word_underscore_7 | law_book_face_tongue_token_diesel_legend |  
+| bip_39_word_underscore_8 | law_book_face_tongue_token_diesel_legend_stove |  
+| bip_39_word_underscore_9 | law_book_face_tongue_token_diesel_legend_stove_swamp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

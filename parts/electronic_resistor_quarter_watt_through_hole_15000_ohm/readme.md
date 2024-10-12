@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clap |  
+| bip_39_word_dash_10 | clap-swear-demise-typical-theory-argue-track-kingdom-hurdle-flower |  
+| bip_39_word_dash_11 | clap-swear-demise-typical-theory-argue-track-kingdom-hurdle-flower-subway |  
+| bip_39_word_dash_12 | clap-swear-demise-typical-theory-argue-track-kingdom-hurdle-flower-subway-accident |  
+| bip_39_word_dash_2 | clap-swear |  
+| bip_39_word_dash_3 | clap-swear-demise |  
+| bip_39_word_dash_4 | clap-swear-demise-typical |  
+| bip_39_word_dash_5 | clap-swear-demise-typical-theory |  
+| bip_39_word_dash_6 | clap-swear-demise-typical-theory-argue |  
+| bip_39_word_dash_7 | clap-swear-demise-typical-theory-argue-track |  
+| bip_39_word_dash_8 | clap-swear-demise-typical-theory-argue-track-kingdom |  
+| bip_39_word_dash_9 | clap-swear-demise-typical-theory-argue-track-kingdom-hurdle |  
 | bip_39_word_new_br_1 | clap |  
 | bip_39_word_new_br_10 | clap<br>swear<br>demise<br>typical<br>theory<br>argue<br>track<br>kingdom<br>hurdle<br>flower |  
 | bip_39_word_new_br_11 | clap<br>swear<br>demise<br>typical<br>theory<br>argue<br>track<br>kingdom<br>hurdle<br>flower<br>subway |  
@@ -147,6 +159,18 @@ hurdle |
 | bip_39_word_space_7 | clap swear demise typical theory argue track |  
 | bip_39_word_space_8 | clap swear demise typical theory argue track kingdom |  
 | bip_39_word_space_9 | clap swear demise typical theory argue track kingdom hurdle |  
+| bip_39_word_underscore_1 | clap |  
+| bip_39_word_underscore_10 | clap_swear_demise_typical_theory_argue_track_kingdom_hurdle_flower |  
+| bip_39_word_underscore_11 | clap_swear_demise_typical_theory_argue_track_kingdom_hurdle_flower_subway |  
+| bip_39_word_underscore_12 | clap_swear_demise_typical_theory_argue_track_kingdom_hurdle_flower_subway_accident |  
+| bip_39_word_underscore_2 | clap_swear |  
+| bip_39_word_underscore_3 | clap_swear_demise |  
+| bip_39_word_underscore_4 | clap_swear_demise_typical |  
+| bip_39_word_underscore_5 | clap_swear_demise_typical_theory |  
+| bip_39_word_underscore_6 | clap_swear_demise_typical_theory_argue |  
+| bip_39_word_underscore_7 | clap_swear_demise_typical_theory_argue_track |  
+| bip_39_word_underscore_8 | clap_swear_demise_typical_theory_argue_track_kingdom |  
+| bip_39_word_underscore_9 | clap_swear_demise_typical_theory_argue_track_kingdom_hurdle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | proof |  
+| bip_39_word_dash_10 | proof-blue-come-material-still-kitchen-snow-debate-great-bachelor |  
+| bip_39_word_dash_11 | proof-blue-come-material-still-kitchen-snow-debate-great-bachelor-alcohol |  
+| bip_39_word_dash_12 | proof-blue-come-material-still-kitchen-snow-debate-great-bachelor-alcohol-average |  
+| bip_39_word_dash_2 | proof-blue |  
+| bip_39_word_dash_3 | proof-blue-come |  
+| bip_39_word_dash_4 | proof-blue-come-material |  
+| bip_39_word_dash_5 | proof-blue-come-material-still |  
+| bip_39_word_dash_6 | proof-blue-come-material-still-kitchen |  
+| bip_39_word_dash_7 | proof-blue-come-material-still-kitchen-snow |  
+| bip_39_word_dash_8 | proof-blue-come-material-still-kitchen-snow-debate |  
+| bip_39_word_dash_9 | proof-blue-come-material-still-kitchen-snow-debate-great |  
 | bip_39_word_new_br_1 | proof |  
 | bip_39_word_new_br_10 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor |  
 | bip_39_word_new_br_11 | proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor<br>alcohol |  
@@ -147,6 +159,18 @@ great |
 | bip_39_word_space_7 | proof blue come material still kitchen snow |  
 | bip_39_word_space_8 | proof blue come material still kitchen snow debate |  
 | bip_39_word_space_9 | proof blue come material still kitchen snow debate great |  
+| bip_39_word_underscore_1 | proof |  
+| bip_39_word_underscore_10 | proof_blue_come_material_still_kitchen_snow_debate_great_bachelor |  
+| bip_39_word_underscore_11 | proof_blue_come_material_still_kitchen_snow_debate_great_bachelor_alcohol |  
+| bip_39_word_underscore_12 | proof_blue_come_material_still_kitchen_snow_debate_great_bachelor_alcohol_average |  
+| bip_39_word_underscore_2 | proof_blue |  
+| bip_39_word_underscore_3 | proof_blue_come |  
+| bip_39_word_underscore_4 | proof_blue_come_material |  
+| bip_39_word_underscore_5 | proof_blue_come_material_still |  
+| bip_39_word_underscore_6 | proof_blue_come_material_still_kitchen |  
+| bip_39_word_underscore_7 | proof_blue_come_material_still_kitchen_snow |  
+| bip_39_word_underscore_8 | proof_blue_come_material_still_kitchen_snow_debate |  
+| bip_39_word_underscore_9 | proof_blue_come_material_still_kitchen_snow_debate_great |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

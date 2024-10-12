@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | weasel |  
+| bip_39_word_dash_10 | weasel-indicate-detail-planet-south-snow-soap-still-essay-message |  
+| bip_39_word_dash_11 | weasel-indicate-detail-planet-south-snow-soap-still-essay-message-infant |  
+| bip_39_word_dash_12 | weasel-indicate-detail-planet-south-snow-soap-still-essay-message-infant-amazing |  
+| bip_39_word_dash_2 | weasel-indicate |  
+| bip_39_word_dash_3 | weasel-indicate-detail |  
+| bip_39_word_dash_4 | weasel-indicate-detail-planet |  
+| bip_39_word_dash_5 | weasel-indicate-detail-planet-south |  
+| bip_39_word_dash_6 | weasel-indicate-detail-planet-south-snow |  
+| bip_39_word_dash_7 | weasel-indicate-detail-planet-south-snow-soap |  
+| bip_39_word_dash_8 | weasel-indicate-detail-planet-south-snow-soap-still |  
+| bip_39_word_dash_9 | weasel-indicate-detail-planet-south-snow-soap-still-essay |  
 | bip_39_word_new_br_1 | weasel |  
 | bip_39_word_new_br_10 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still<br>essay<br>message |  
 | bip_39_word_new_br_11 | weasel<br>indicate<br>detail<br>planet<br>south<br>snow<br>soap<br>still<br>essay<br>message<br>infant |  
@@ -147,6 +159,18 @@ essay |
 | bip_39_word_space_7 | weasel indicate detail planet south snow soap |  
 | bip_39_word_space_8 | weasel indicate detail planet south snow soap still |  
 | bip_39_word_space_9 | weasel indicate detail planet south snow soap still essay |  
+| bip_39_word_underscore_1 | weasel |  
+| bip_39_word_underscore_10 | weasel_indicate_detail_planet_south_snow_soap_still_essay_message |  
+| bip_39_word_underscore_11 | weasel_indicate_detail_planet_south_snow_soap_still_essay_message_infant |  
+| bip_39_word_underscore_12 | weasel_indicate_detail_planet_south_snow_soap_still_essay_message_infant_amazing |  
+| bip_39_word_underscore_2 | weasel_indicate |  
+| bip_39_word_underscore_3 | weasel_indicate_detail |  
+| bip_39_word_underscore_4 | weasel_indicate_detail_planet |  
+| bip_39_word_underscore_5 | weasel_indicate_detail_planet_south |  
+| bip_39_word_underscore_6 | weasel_indicate_detail_planet_south_snow |  
+| bip_39_word_underscore_7 | weasel_indicate_detail_planet_south_snow_soap |  
+| bip_39_word_underscore_8 | weasel_indicate_detail_planet_south_snow_soap_still |  
+| bip_39_word_underscore_9 | weasel_indicate_detail_planet_south_snow_soap_still_essay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crisp |  
+| bip_39_word_dash_10 | crisp-coil-history-treat-bean-frog-worry-juice-local-very |  
+| bip_39_word_dash_11 | crisp-coil-history-treat-bean-frog-worry-juice-local-very-copy |  
+| bip_39_word_dash_12 | crisp-coil-history-treat-bean-frog-worry-juice-local-very-copy-across |  
+| bip_39_word_dash_2 | crisp-coil |  
+| bip_39_word_dash_3 | crisp-coil-history |  
+| bip_39_word_dash_4 | crisp-coil-history-treat |  
+| bip_39_word_dash_5 | crisp-coil-history-treat-bean |  
+| bip_39_word_dash_6 | crisp-coil-history-treat-bean-frog |  
+| bip_39_word_dash_7 | crisp-coil-history-treat-bean-frog-worry |  
+| bip_39_word_dash_8 | crisp-coil-history-treat-bean-frog-worry-juice |  
+| bip_39_word_dash_9 | crisp-coil-history-treat-bean-frog-worry-juice-local |  
 | bip_39_word_new_br_1 | crisp |  
 | bip_39_word_new_br_10 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very |  
 | bip_39_word_new_br_11 | crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very<br>copy |  
@@ -147,6 +159,18 @@ local |
 | bip_39_word_space_7 | crisp coil history treat bean frog worry |  
 | bip_39_word_space_8 | crisp coil history treat bean frog worry juice |  
 | bip_39_word_space_9 | crisp coil history treat bean frog worry juice local |  
+| bip_39_word_underscore_1 | crisp |  
+| bip_39_word_underscore_10 | crisp_coil_history_treat_bean_frog_worry_juice_local_very |  
+| bip_39_word_underscore_11 | crisp_coil_history_treat_bean_frog_worry_juice_local_very_copy |  
+| bip_39_word_underscore_12 | crisp_coil_history_treat_bean_frog_worry_juice_local_very_copy_across |  
+| bip_39_word_underscore_2 | crisp_coil |  
+| bip_39_word_underscore_3 | crisp_coil_history |  
+| bip_39_word_underscore_4 | crisp_coil_history_treat |  
+| bip_39_word_underscore_5 | crisp_coil_history_treat_bean |  
+| bip_39_word_underscore_6 | crisp_coil_history_treat_bean_frog |  
+| bip_39_word_underscore_7 | crisp_coil_history_treat_bean_frog_worry |  
+| bip_39_word_underscore_8 | crisp_coil_history_treat_bean_frog_worry_juice |  
+| bip_39_word_underscore_9 | crisp_coil_history_treat_bean_frog_worry_juice_local |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

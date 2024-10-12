@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hungry |  
+| bip_39_word_dash_10 | hungry-smoke-where-culture-film-laugh-shove-domain-gain-captain |  
+| bip_39_word_dash_11 | hungry-smoke-where-culture-film-laugh-shove-domain-gain-captain-evil |  
+| bip_39_word_dash_12 | hungry-smoke-where-culture-film-laugh-shove-domain-gain-captain-evil-ancient |  
+| bip_39_word_dash_2 | hungry-smoke |  
+| bip_39_word_dash_3 | hungry-smoke-where |  
+| bip_39_word_dash_4 | hungry-smoke-where-culture |  
+| bip_39_word_dash_5 | hungry-smoke-where-culture-film |  
+| bip_39_word_dash_6 | hungry-smoke-where-culture-film-laugh |  
+| bip_39_word_dash_7 | hungry-smoke-where-culture-film-laugh-shove |  
+| bip_39_word_dash_8 | hungry-smoke-where-culture-film-laugh-shove-domain |  
+| bip_39_word_dash_9 | hungry-smoke-where-culture-film-laugh-shove-domain-gain |  
 | bip_39_word_new_br_1 | hungry |  
 | bip_39_word_new_br_10 | hungry<br>smoke<br>where<br>culture<br>film<br>laugh<br>shove<br>domain<br>gain<br>captain |  
 | bip_39_word_new_br_11 | hungry<br>smoke<br>where<br>culture<br>film<br>laugh<br>shove<br>domain<br>gain<br>captain<br>evil |  
@@ -147,6 +159,18 @@ gain |
 | bip_39_word_space_7 | hungry smoke where culture film laugh shove |  
 | bip_39_word_space_8 | hungry smoke where culture film laugh shove domain |  
 | bip_39_word_space_9 | hungry smoke where culture film laugh shove domain gain |  
+| bip_39_word_underscore_1 | hungry |  
+| bip_39_word_underscore_10 | hungry_smoke_where_culture_film_laugh_shove_domain_gain_captain |  
+| bip_39_word_underscore_11 | hungry_smoke_where_culture_film_laugh_shove_domain_gain_captain_evil |  
+| bip_39_word_underscore_12 | hungry_smoke_where_culture_film_laugh_shove_domain_gain_captain_evil_ancient |  
+| bip_39_word_underscore_2 | hungry_smoke |  
+| bip_39_word_underscore_3 | hungry_smoke_where |  
+| bip_39_word_underscore_4 | hungry_smoke_where_culture |  
+| bip_39_word_underscore_5 | hungry_smoke_where_culture_film |  
+| bip_39_word_underscore_6 | hungry_smoke_where_culture_film_laugh |  
+| bip_39_word_underscore_7 | hungry_smoke_where_culture_film_laugh_shove |  
+| bip_39_word_underscore_8 | hungry_smoke_where_culture_film_laugh_shove_domain |  
+| bip_39_word_underscore_9 | hungry_smoke_where_culture_film_laugh_shove_domain_gain |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | divide |  
+| bip_39_word_dash_10 | divide-drum-still-tail-vocal-blast-best-couple-gentle-mystery |  
+| bip_39_word_dash_11 | divide-drum-still-tail-vocal-blast-best-couple-gentle-mystery-capable |  
+| bip_39_word_dash_12 | divide-drum-still-tail-vocal-blast-best-couple-gentle-mystery-capable-almost |  
+| bip_39_word_dash_2 | divide-drum |  
+| bip_39_word_dash_3 | divide-drum-still |  
+| bip_39_word_dash_4 | divide-drum-still-tail |  
+| bip_39_word_dash_5 | divide-drum-still-tail-vocal |  
+| bip_39_word_dash_6 | divide-drum-still-tail-vocal-blast |  
+| bip_39_word_dash_7 | divide-drum-still-tail-vocal-blast-best |  
+| bip_39_word_dash_8 | divide-drum-still-tail-vocal-blast-best-couple |  
+| bip_39_word_dash_9 | divide-drum-still-tail-vocal-blast-best-couple-gentle |  
 | bip_39_word_new_br_1 | divide |  
 | bip_39_word_new_br_10 | divide<br>drum<br>still<br>tail<br>vocal<br>blast<br>best<br>couple<br>gentle<br>mystery |  
 | bip_39_word_new_br_11 | divide<br>drum<br>still<br>tail<br>vocal<br>blast<br>best<br>couple<br>gentle<br>mystery<br>capable |  
@@ -147,6 +159,18 @@ gentle |
 | bip_39_word_space_7 | divide drum still tail vocal blast best |  
 | bip_39_word_space_8 | divide drum still tail vocal blast best couple |  
 | bip_39_word_space_9 | divide drum still tail vocal blast best couple gentle |  
+| bip_39_word_underscore_1 | divide |  
+| bip_39_word_underscore_10 | divide_drum_still_tail_vocal_blast_best_couple_gentle_mystery |  
+| bip_39_word_underscore_11 | divide_drum_still_tail_vocal_blast_best_couple_gentle_mystery_capable |  
+| bip_39_word_underscore_12 | divide_drum_still_tail_vocal_blast_best_couple_gentle_mystery_capable_almost |  
+| bip_39_word_underscore_2 | divide_drum |  
+| bip_39_word_underscore_3 | divide_drum_still |  
+| bip_39_word_underscore_4 | divide_drum_still_tail |  
+| bip_39_word_underscore_5 | divide_drum_still_tail_vocal |  
+| bip_39_word_underscore_6 | divide_drum_still_tail_vocal_blast |  
+| bip_39_word_underscore_7 | divide_drum_still_tail_vocal_blast_best |  
+| bip_39_word_underscore_8 | divide_drum_still_tail_vocal_blast_best_couple |  
+| bip_39_word_underscore_9 | divide_drum_still_tail_vocal_blast_best_couple_gentle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

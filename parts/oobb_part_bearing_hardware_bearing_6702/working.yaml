@@ -1,3 +1,15 @@
+bip_39_word_dash_1: engage
+bip_39_word_dash_10: engage-more-dune-riot-empty-panther-march-vessel-boil-roof
+bip_39_word_dash_11: engage-more-dune-riot-empty-panther-march-vessel-boil-roof-case
+bip_39_word_dash_12: engage-more-dune-riot-empty-panther-march-vessel-boil-roof-case-audit
+bip_39_word_dash_2: engage-more
+bip_39_word_dash_3: engage-more-dune
+bip_39_word_dash_4: engage-more-dune-riot
+bip_39_word_dash_5: engage-more-dune-riot-empty
+bip_39_word_dash_6: engage-more-dune-riot-empty-panther
+bip_39_word_dash_7: engage-more-dune-riot-empty-panther-march
+bip_39_word_dash_8: engage-more-dune-riot-empty-panther-march-vessel
+bip_39_word_dash_9: engage-more-dune-riot-empty-panther-march-vessel-boil
 bip_39_word_new_br_1: engage
 bip_39_word_new_br_10: engage<br>more<br>dune<br>riot<br>empty<br>panther<br>march<br>vessel<br>boil<br>roof
 bip_39_word_new_br_11: engage<br>more<br>dune<br>riot<br>empty<br>panther<br>march<br>vessel<br>boil<br>roof<br>case
@@ -192,6 +204,18 @@ bip_39_word_space_6: engage more dune riot empty panther
 bip_39_word_space_7: engage more dune riot empty panther march
 bip_39_word_space_8: engage more dune riot empty panther march vessel
 bip_39_word_space_9: engage more dune riot empty panther march vessel boil
+bip_39_word_underscore_1: engage
+bip_39_word_underscore_10: engage_more_dune_riot_empty_panther_march_vessel_boil_roof
+bip_39_word_underscore_11: engage_more_dune_riot_empty_panther_march_vessel_boil_roof_case
+bip_39_word_underscore_12: engage_more_dune_riot_empty_panther_march_vessel_boil_roof_case_audit
+bip_39_word_underscore_2: engage_more
+bip_39_word_underscore_3: engage_more_dune
+bip_39_word_underscore_4: engage_more_dune_riot
+bip_39_word_underscore_5: engage_more_dune_riot_empty
+bip_39_word_underscore_6: engage_more_dune_riot_empty_panther
+bip_39_word_underscore_7: engage_more_dune_riot_empty_panther_march
+bip_39_word_underscore_8: engage_more_dune_riot_empty_panther_march_vessel
+bip_39_word_underscore_9: engage_more_dune_riot_empty_panther_march_vessel_boil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

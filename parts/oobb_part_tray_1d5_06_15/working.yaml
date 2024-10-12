@@ -1,3 +1,15 @@
+bip_39_word_dash_1: park
+bip_39_word_dash_10: park-garment-word-security-firm-spike-alarm-zero-bag-excuse
+bip_39_word_dash_11: park-garment-word-security-firm-spike-alarm-zero-bag-excuse-eight
+bip_39_word_dash_12: park-garment-word-security-firm-spike-alarm-zero-bag-excuse-eight-aunt
+bip_39_word_dash_2: park-garment
+bip_39_word_dash_3: park-garment-word
+bip_39_word_dash_4: park-garment-word-security
+bip_39_word_dash_5: park-garment-word-security-firm
+bip_39_word_dash_6: park-garment-word-security-firm-spike
+bip_39_word_dash_7: park-garment-word-security-firm-spike-alarm
+bip_39_word_dash_8: park-garment-word-security-firm-spike-alarm-zero
+bip_39_word_dash_9: park-garment-word-security-firm-spike-alarm-zero-bag
 bip_39_word_new_br_1: park
 bip_39_word_new_br_10: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse
 bip_39_word_new_br_11: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse<br>eight
@@ -193,6 +205,18 @@ bip_39_word_space_6: park garment word security firm spike
 bip_39_word_space_7: park garment word security firm spike alarm
 bip_39_word_space_8: park garment word security firm spike alarm zero
 bip_39_word_space_9: park garment word security firm spike alarm zero bag
+bip_39_word_underscore_1: park
+bip_39_word_underscore_10: park_garment_word_security_firm_spike_alarm_zero_bag_excuse
+bip_39_word_underscore_11: park_garment_word_security_firm_spike_alarm_zero_bag_excuse_eight
+bip_39_word_underscore_12: park_garment_word_security_firm_spike_alarm_zero_bag_excuse_eight_aunt
+bip_39_word_underscore_2: park_garment
+bip_39_word_underscore_3: park_garment_word
+bip_39_word_underscore_4: park_garment_word_security
+bip_39_word_underscore_5: park_garment_word_security_firm
+bip_39_word_underscore_6: park_garment_word_security_firm_spike
+bip_39_word_underscore_7: park_garment_word_security_firm_spike_alarm
+bip_39_word_underscore_8: park_garment_word_security_firm_spike_alarm_zero
+bip_39_word_underscore_9: park_garment_word_security_firm_spike_alarm_zero_bag
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

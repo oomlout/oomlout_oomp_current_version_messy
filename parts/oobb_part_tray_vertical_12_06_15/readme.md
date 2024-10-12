@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quick |  
+| bip_39_word_dash_10 | quick-toy-brief-brave-fresh-figure-edge-phone-discover-woman |  
+| bip_39_word_dash_11 | quick-toy-brief-brave-fresh-figure-edge-phone-discover-woman-curve |  
+| bip_39_word_dash_12 | quick-toy-brief-brave-fresh-figure-edge-phone-discover-woman-curve-amused |  
+| bip_39_word_dash_2 | quick-toy |  
+| bip_39_word_dash_3 | quick-toy-brief |  
+| bip_39_word_dash_4 | quick-toy-brief-brave |  
+| bip_39_word_dash_5 | quick-toy-brief-brave-fresh |  
+| bip_39_word_dash_6 | quick-toy-brief-brave-fresh-figure |  
+| bip_39_word_dash_7 | quick-toy-brief-brave-fresh-figure-edge |  
+| bip_39_word_dash_8 | quick-toy-brief-brave-fresh-figure-edge-phone |  
+| bip_39_word_dash_9 | quick-toy-brief-brave-fresh-figure-edge-phone-discover |  
 | bip_39_word_new_br_1 | quick |  
 | bip_39_word_new_br_10 | quick<br>toy<br>brief<br>brave<br>fresh<br>figure<br>edge<br>phone<br>discover<br>woman |  
 | bip_39_word_new_br_11 | quick<br>toy<br>brief<br>brave<br>fresh<br>figure<br>edge<br>phone<br>discover<br>woman<br>curve |  
@@ -147,6 +159,18 @@ discover |
 | bip_39_word_space_7 | quick toy brief brave fresh figure edge |  
 | bip_39_word_space_8 | quick toy brief brave fresh figure edge phone |  
 | bip_39_word_space_9 | quick toy brief brave fresh figure edge phone discover |  
+| bip_39_word_underscore_1 | quick |  
+| bip_39_word_underscore_10 | quick_toy_brief_brave_fresh_figure_edge_phone_discover_woman |  
+| bip_39_word_underscore_11 | quick_toy_brief_brave_fresh_figure_edge_phone_discover_woman_curve |  
+| bip_39_word_underscore_12 | quick_toy_brief_brave_fresh_figure_edge_phone_discover_woman_curve_amused |  
+| bip_39_word_underscore_2 | quick_toy |  
+| bip_39_word_underscore_3 | quick_toy_brief |  
+| bip_39_word_underscore_4 | quick_toy_brief_brave |  
+| bip_39_word_underscore_5 | quick_toy_brief_brave_fresh |  
+| bip_39_word_underscore_6 | quick_toy_brief_brave_fresh_figure |  
+| bip_39_word_underscore_7 | quick_toy_brief_brave_fresh_figure_edge |  
+| bip_39_word_underscore_8 | quick_toy_brief_brave_fresh_figure_edge_phone |  
+| bip_39_word_underscore_9 | quick_toy_brief_brave_fresh_figure_edge_phone_discover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

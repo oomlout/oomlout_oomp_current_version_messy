@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tuna |  
+| bip_39_word_dash_10 | tuna-medal-chuckle-cotton-satoshi-cool-spy-wink-match-win |  
+| bip_39_word_dash_11 | tuna-medal-chuckle-cotton-satoshi-cool-spy-wink-match-win-pony |  
+| bip_39_word_dash_12 | tuna-medal-chuckle-cotton-satoshi-cool-spy-wink-match-win-pony-adapt |  
+| bip_39_word_dash_2 | tuna-medal |  
+| bip_39_word_dash_3 | tuna-medal-chuckle |  
+| bip_39_word_dash_4 | tuna-medal-chuckle-cotton |  
+| bip_39_word_dash_5 | tuna-medal-chuckle-cotton-satoshi |  
+| bip_39_word_dash_6 | tuna-medal-chuckle-cotton-satoshi-cool |  
+| bip_39_word_dash_7 | tuna-medal-chuckle-cotton-satoshi-cool-spy |  
+| bip_39_word_dash_8 | tuna-medal-chuckle-cotton-satoshi-cool-spy-wink |  
+| bip_39_word_dash_9 | tuna-medal-chuckle-cotton-satoshi-cool-spy-wink-match |  
 | bip_39_word_new_br_1 | tuna |  
 | bip_39_word_new_br_10 | tuna<br>medal<br>chuckle<br>cotton<br>satoshi<br>cool<br>spy<br>wink<br>match<br>win |  
 | bip_39_word_new_br_11 | tuna<br>medal<br>chuckle<br>cotton<br>satoshi<br>cool<br>spy<br>wink<br>match<br>win<br>pony |  
@@ -147,6 +159,18 @@ match |
 | bip_39_word_space_7 | tuna medal chuckle cotton satoshi cool spy |  
 | bip_39_word_space_8 | tuna medal chuckle cotton satoshi cool spy wink |  
 | bip_39_word_space_9 | tuna medal chuckle cotton satoshi cool spy wink match |  
+| bip_39_word_underscore_1 | tuna |  
+| bip_39_word_underscore_10 | tuna_medal_chuckle_cotton_satoshi_cool_spy_wink_match_win |  
+| bip_39_word_underscore_11 | tuna_medal_chuckle_cotton_satoshi_cool_spy_wink_match_win_pony |  
+| bip_39_word_underscore_12 | tuna_medal_chuckle_cotton_satoshi_cool_spy_wink_match_win_pony_adapt |  
+| bip_39_word_underscore_2 | tuna_medal |  
+| bip_39_word_underscore_3 | tuna_medal_chuckle |  
+| bip_39_word_underscore_4 | tuna_medal_chuckle_cotton |  
+| bip_39_word_underscore_5 | tuna_medal_chuckle_cotton_satoshi |  
+| bip_39_word_underscore_6 | tuna_medal_chuckle_cotton_satoshi_cool |  
+| bip_39_word_underscore_7 | tuna_medal_chuckle_cotton_satoshi_cool_spy |  
+| bip_39_word_underscore_8 | tuna_medal_chuckle_cotton_satoshi_cool_spy_wink |  
+| bip_39_word_underscore_9 | tuna_medal_chuckle_cotton_satoshi_cool_spy_wink_match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

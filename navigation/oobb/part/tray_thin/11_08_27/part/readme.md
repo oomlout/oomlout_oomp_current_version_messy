@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crouch |  
+| bip_39_word_dash_10 | crouch-clean-shallow-piece-olympic-empower-another-tower-price-salmon |  
+| bip_39_word_dash_11 | crouch-clean-shallow-piece-olympic-empower-another-tower-price-salmon-safe |  
+| bip_39_word_dash_12 | crouch-clean-shallow-piece-olympic-empower-another-tower-price-salmon-safe-amused |  
+| bip_39_word_dash_2 | crouch-clean |  
+| bip_39_word_dash_3 | crouch-clean-shallow |  
+| bip_39_word_dash_4 | crouch-clean-shallow-piece |  
+| bip_39_word_dash_5 | crouch-clean-shallow-piece-olympic |  
+| bip_39_word_dash_6 | crouch-clean-shallow-piece-olympic-empower |  
+| bip_39_word_dash_7 | crouch-clean-shallow-piece-olympic-empower-another |  
+| bip_39_word_dash_8 | crouch-clean-shallow-piece-olympic-empower-another-tower |  
+| bip_39_word_dash_9 | crouch-clean-shallow-piece-olympic-empower-another-tower-price |  
 | bip_39_word_new_br_1 | crouch |  
 | bip_39_word_new_br_10 | crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon |  
 | bip_39_word_new_br_11 | crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon<br>safe |  
@@ -147,6 +159,18 @@ price |
 | bip_39_word_space_7 | crouch clean shallow piece olympic empower another |  
 | bip_39_word_space_8 | crouch clean shallow piece olympic empower another tower |  
 | bip_39_word_space_9 | crouch clean shallow piece olympic empower another tower price |  
+| bip_39_word_underscore_1 | crouch |  
+| bip_39_word_underscore_10 | crouch_clean_shallow_piece_olympic_empower_another_tower_price_salmon |  
+| bip_39_word_underscore_11 | crouch_clean_shallow_piece_olympic_empower_another_tower_price_salmon_safe |  
+| bip_39_word_underscore_12 | crouch_clean_shallow_piece_olympic_empower_another_tower_price_salmon_safe_amused |  
+| bip_39_word_underscore_2 | crouch_clean |  
+| bip_39_word_underscore_3 | crouch_clean_shallow |  
+| bip_39_word_underscore_4 | crouch_clean_shallow_piece |  
+| bip_39_word_underscore_5 | crouch_clean_shallow_piece_olympic |  
+| bip_39_word_underscore_6 | crouch_clean_shallow_piece_olympic_empower |  
+| bip_39_word_underscore_7 | crouch_clean_shallow_piece_olympic_empower_another |  
+| bip_39_word_underscore_8 | crouch_clean_shallow_piece_olympic_empower_another_tower |  
+| bip_39_word_underscore_9 | crouch_clean_shallow_piece_olympic_empower_another_tower_price |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

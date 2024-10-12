@@ -1,3 +1,15 @@
+bip_39_word_dash_1: try
+bip_39_word_dash_10: try-hill-leopard-abstract-knee-rice-process-gift-pair-swift
+bip_39_word_dash_11: try-hill-leopard-abstract-knee-rice-process-gift-pair-swift-dose
+bip_39_word_dash_12: try-hill-leopard-abstract-knee-rice-process-gift-pair-swift-dose-atom
+bip_39_word_dash_2: try-hill
+bip_39_word_dash_3: try-hill-leopard
+bip_39_word_dash_4: try-hill-leopard-abstract
+bip_39_word_dash_5: try-hill-leopard-abstract-knee
+bip_39_word_dash_6: try-hill-leopard-abstract-knee-rice
+bip_39_word_dash_7: try-hill-leopard-abstract-knee-rice-process
+bip_39_word_dash_8: try-hill-leopard-abstract-knee-rice-process-gift
+bip_39_word_dash_9: try-hill-leopard-abstract-knee-rice-process-gift-pair
 bip_39_word_new_br_1: try
 bip_39_word_new_br_10: try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift
 bip_39_word_new_br_11: try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift<br>dose
@@ -193,6 +205,18 @@ bip_39_word_space_6: try hill leopard abstract knee rice
 bip_39_word_space_7: try hill leopard abstract knee rice process
 bip_39_word_space_8: try hill leopard abstract knee rice process gift
 bip_39_word_space_9: try hill leopard abstract knee rice process gift pair
+bip_39_word_underscore_1: try
+bip_39_word_underscore_10: try_hill_leopard_abstract_knee_rice_process_gift_pair_swift
+bip_39_word_underscore_11: try_hill_leopard_abstract_knee_rice_process_gift_pair_swift_dose
+bip_39_word_underscore_12: try_hill_leopard_abstract_knee_rice_process_gift_pair_swift_dose_atom
+bip_39_word_underscore_2: try_hill
+bip_39_word_underscore_3: try_hill_leopard
+bip_39_word_underscore_4: try_hill_leopard_abstract
+bip_39_word_underscore_5: try_hill_leopard_abstract_knee
+bip_39_word_underscore_6: try_hill_leopard_abstract_knee_rice
+bip_39_word_underscore_7: try_hill_leopard_abstract_knee_rice_process
+bip_39_word_underscore_8: try_hill_leopard_abstract_knee_rice_process_gift
+bip_39_word_underscore_9: try_hill_leopard_abstract_knee_rice_process_gift_pair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

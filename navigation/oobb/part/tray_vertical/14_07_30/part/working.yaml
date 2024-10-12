@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stick
+bip_39_word_dash_10: stick-they-oak-road-nose-odor-wedding-state-present-quit
+bip_39_word_dash_11: stick-they-oak-road-nose-odor-wedding-state-present-quit-wisdom
+bip_39_word_dash_12: stick-they-oak-road-nose-odor-wedding-state-present-quit-wisdom-amateur
+bip_39_word_dash_2: stick-they
+bip_39_word_dash_3: stick-they-oak
+bip_39_word_dash_4: stick-they-oak-road
+bip_39_word_dash_5: stick-they-oak-road-nose
+bip_39_word_dash_6: stick-they-oak-road-nose-odor
+bip_39_word_dash_7: stick-they-oak-road-nose-odor-wedding
+bip_39_word_dash_8: stick-they-oak-road-nose-odor-wedding-state
+bip_39_word_dash_9: stick-they-oak-road-nose-odor-wedding-state-present
 bip_39_word_new_br_1: stick
 bip_39_word_new_br_10: stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state<br>present<br>quit
 bip_39_word_new_br_11: stick<br>they<br>oak<br>road<br>nose<br>odor<br>wedding<br>state<br>present<br>quit<br>wisdom
@@ -192,6 +204,18 @@ bip_39_word_space_6: stick they oak road nose odor
 bip_39_word_space_7: stick they oak road nose odor wedding
 bip_39_word_space_8: stick they oak road nose odor wedding state
 bip_39_word_space_9: stick they oak road nose odor wedding state present
+bip_39_word_underscore_1: stick
+bip_39_word_underscore_10: stick_they_oak_road_nose_odor_wedding_state_present_quit
+bip_39_word_underscore_11: stick_they_oak_road_nose_odor_wedding_state_present_quit_wisdom
+bip_39_word_underscore_12: stick_they_oak_road_nose_odor_wedding_state_present_quit_wisdom_amateur
+bip_39_word_underscore_2: stick_they
+bip_39_word_underscore_3: stick_they_oak
+bip_39_word_underscore_4: stick_they_oak_road
+bip_39_word_underscore_5: stick_they_oak_road_nose
+bip_39_word_underscore_6: stick_they_oak_road_nose_odor
+bip_39_word_underscore_7: stick_they_oak_road_nose_odor_wedding
+bip_39_word_underscore_8: stick_they_oak_road_nose_odor_wedding_state
+bip_39_word_underscore_9: stick_they_oak_road_nose_odor_wedding_state_present
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

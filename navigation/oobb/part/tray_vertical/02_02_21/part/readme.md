@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leaf |  
+| bip_39_word_dash_10 | leaf-immense-street-notable-soccer-cycle-pool-acoustic-awake-unlock |  
+| bip_39_word_dash_11 | leaf-immense-street-notable-soccer-cycle-pool-acoustic-awake-unlock-bind |  
+| bip_39_word_dash_12 | leaf-immense-street-notable-soccer-cycle-pool-acoustic-awake-unlock-bind-arrest |  
+| bip_39_word_dash_2 | leaf-immense |  
+| bip_39_word_dash_3 | leaf-immense-street |  
+| bip_39_word_dash_4 | leaf-immense-street-notable |  
+| bip_39_word_dash_5 | leaf-immense-street-notable-soccer |  
+| bip_39_word_dash_6 | leaf-immense-street-notable-soccer-cycle |  
+| bip_39_word_dash_7 | leaf-immense-street-notable-soccer-cycle-pool |  
+| bip_39_word_dash_8 | leaf-immense-street-notable-soccer-cycle-pool-acoustic |  
+| bip_39_word_dash_9 | leaf-immense-street-notable-soccer-cycle-pool-acoustic-awake |  
 | bip_39_word_new_br_1 | leaf |  
 | bip_39_word_new_br_10 | leaf<br>immense<br>street<br>notable<br>soccer<br>cycle<br>pool<br>acoustic<br>awake<br>unlock |  
 | bip_39_word_new_br_11 | leaf<br>immense<br>street<br>notable<br>soccer<br>cycle<br>pool<br>acoustic<br>awake<br>unlock<br>bind |  
@@ -147,6 +159,18 @@ awake |
 | bip_39_word_space_7 | leaf immense street notable soccer cycle pool |  
 | bip_39_word_space_8 | leaf immense street notable soccer cycle pool acoustic |  
 | bip_39_word_space_9 | leaf immense street notable soccer cycle pool acoustic awake |  
+| bip_39_word_underscore_1 | leaf |  
+| bip_39_word_underscore_10 | leaf_immense_street_notable_soccer_cycle_pool_acoustic_awake_unlock |  
+| bip_39_word_underscore_11 | leaf_immense_street_notable_soccer_cycle_pool_acoustic_awake_unlock_bind |  
+| bip_39_word_underscore_12 | leaf_immense_street_notable_soccer_cycle_pool_acoustic_awake_unlock_bind_arrest |  
+| bip_39_word_underscore_2 | leaf_immense |  
+| bip_39_word_underscore_3 | leaf_immense_street |  
+| bip_39_word_underscore_4 | leaf_immense_street_notable |  
+| bip_39_word_underscore_5 | leaf_immense_street_notable_soccer |  
+| bip_39_word_underscore_6 | leaf_immense_street_notable_soccer_cycle |  
+| bip_39_word_underscore_7 | leaf_immense_street_notable_soccer_cycle_pool |  
+| bip_39_word_underscore_8 | leaf_immense_street_notable_soccer_cycle_pool_acoustic |  
+| bip_39_word_underscore_9 | leaf_immense_street_notable_soccer_cycle_pool_acoustic_awake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

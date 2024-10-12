@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pool |  
+| bip_39_word_dash_10 | pool-obey-baby-shaft-release-snack-night-bean-fatal-public |  
+| bip_39_word_dash_11 | pool-obey-baby-shaft-release-snack-night-bean-fatal-public-green |  
+| bip_39_word_dash_12 | pool-obey-baby-shaft-release-snack-night-bean-fatal-public-green-apology |  
+| bip_39_word_dash_2 | pool-obey |  
+| bip_39_word_dash_3 | pool-obey-baby |  
+| bip_39_word_dash_4 | pool-obey-baby-shaft |  
+| bip_39_word_dash_5 | pool-obey-baby-shaft-release |  
+| bip_39_word_dash_6 | pool-obey-baby-shaft-release-snack |  
+| bip_39_word_dash_7 | pool-obey-baby-shaft-release-snack-night |  
+| bip_39_word_dash_8 | pool-obey-baby-shaft-release-snack-night-bean |  
+| bip_39_word_dash_9 | pool-obey-baby-shaft-release-snack-night-bean-fatal |  
 | bip_39_word_new_br_1 | pool |  
 | bip_39_word_new_br_10 | pool<br>obey<br>baby<br>shaft<br>release<br>snack<br>night<br>bean<br>fatal<br>public |  
 | bip_39_word_new_br_11 | pool<br>obey<br>baby<br>shaft<br>release<br>snack<br>night<br>bean<br>fatal<br>public<br>green |  
@@ -147,6 +159,18 @@ fatal |
 | bip_39_word_space_7 | pool obey baby shaft release snack night |  
 | bip_39_word_space_8 | pool obey baby shaft release snack night bean |  
 | bip_39_word_space_9 | pool obey baby shaft release snack night bean fatal |  
+| bip_39_word_underscore_1 | pool |  
+| bip_39_word_underscore_10 | pool_obey_baby_shaft_release_snack_night_bean_fatal_public |  
+| bip_39_word_underscore_11 | pool_obey_baby_shaft_release_snack_night_bean_fatal_public_green |  
+| bip_39_word_underscore_12 | pool_obey_baby_shaft_release_snack_night_bean_fatal_public_green_apology |  
+| bip_39_word_underscore_2 | pool_obey |  
+| bip_39_word_underscore_3 | pool_obey_baby |  
+| bip_39_word_underscore_4 | pool_obey_baby_shaft |  
+| bip_39_word_underscore_5 | pool_obey_baby_shaft_release |  
+| bip_39_word_underscore_6 | pool_obey_baby_shaft_release_snack |  
+| bip_39_word_underscore_7 | pool_obey_baby_shaft_release_snack_night |  
+| bip_39_word_underscore_8 | pool_obey_baby_shaft_release_snack_night_bean |  
+| bip_39_word_underscore_9 | pool_obey_baby_shaft_release_snack_night_bean_fatal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

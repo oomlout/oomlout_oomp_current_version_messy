@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | october |  
+| bip_39_word_dash_10 | october-artist-leaf-swift-regret-guitar-gold-theory-mercy-evolve |  
+| bip_39_word_dash_11 | october-artist-leaf-swift-regret-guitar-gold-theory-mercy-evolve-joy |  
+| bip_39_word_dash_12 | october-artist-leaf-swift-regret-guitar-gold-theory-mercy-evolve-joy-another |  
+| bip_39_word_dash_2 | october-artist |  
+| bip_39_word_dash_3 | october-artist-leaf |  
+| bip_39_word_dash_4 | october-artist-leaf-swift |  
+| bip_39_word_dash_5 | october-artist-leaf-swift-regret |  
+| bip_39_word_dash_6 | october-artist-leaf-swift-regret-guitar |  
+| bip_39_word_dash_7 | october-artist-leaf-swift-regret-guitar-gold |  
+| bip_39_word_dash_8 | october-artist-leaf-swift-regret-guitar-gold-theory |  
+| bip_39_word_dash_9 | october-artist-leaf-swift-regret-guitar-gold-theory-mercy |  
 | bip_39_word_new_br_1 | october |  
 | bip_39_word_new_br_10 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory<br>mercy<br>evolve |  
 | bip_39_word_new_br_11 | october<br>artist<br>leaf<br>swift<br>regret<br>guitar<br>gold<br>theory<br>mercy<br>evolve<br>joy |  
@@ -147,6 +159,18 @@ mercy |
 | bip_39_word_space_7 | october artist leaf swift regret guitar gold |  
 | bip_39_word_space_8 | october artist leaf swift regret guitar gold theory |  
 | bip_39_word_space_9 | october artist leaf swift regret guitar gold theory mercy |  
+| bip_39_word_underscore_1 | october |  
+| bip_39_word_underscore_10 | october_artist_leaf_swift_regret_guitar_gold_theory_mercy_evolve |  
+| bip_39_word_underscore_11 | october_artist_leaf_swift_regret_guitar_gold_theory_mercy_evolve_joy |  
+| bip_39_word_underscore_12 | october_artist_leaf_swift_regret_guitar_gold_theory_mercy_evolve_joy_another |  
+| bip_39_word_underscore_2 | october_artist |  
+| bip_39_word_underscore_3 | october_artist_leaf |  
+| bip_39_word_underscore_4 | october_artist_leaf_swift |  
+| bip_39_word_underscore_5 | october_artist_leaf_swift_regret |  
+| bip_39_word_underscore_6 | october_artist_leaf_swift_regret_guitar |  
+| bip_39_word_underscore_7 | october_artist_leaf_swift_regret_guitar_gold |  
+| bip_39_word_underscore_8 | october_artist_leaf_swift_regret_guitar_gold_theory |  
+| bip_39_word_underscore_9 | october_artist_leaf_swift_regret_guitar_gold_theory_mercy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

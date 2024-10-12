@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | journey |  
+| bip_39_word_dash_10 | journey-dress-hungry-crush-resource-view-cousin-shift-test-donkey |  
+| bip_39_word_dash_11 | journey-dress-hungry-crush-resource-view-cousin-shift-test-donkey-name |  
+| bip_39_word_dash_12 | journey-dress-hungry-crush-resource-view-cousin-shift-test-donkey-name-average |  
+| bip_39_word_dash_2 | journey-dress |  
+| bip_39_word_dash_3 | journey-dress-hungry |  
+| bip_39_word_dash_4 | journey-dress-hungry-crush |  
+| bip_39_word_dash_5 | journey-dress-hungry-crush-resource |  
+| bip_39_word_dash_6 | journey-dress-hungry-crush-resource-view |  
+| bip_39_word_dash_7 | journey-dress-hungry-crush-resource-view-cousin |  
+| bip_39_word_dash_8 | journey-dress-hungry-crush-resource-view-cousin-shift |  
+| bip_39_word_dash_9 | journey-dress-hungry-crush-resource-view-cousin-shift-test |  
 | bip_39_word_new_br_1 | journey |  
 | bip_39_word_new_br_10 | journey<br>dress<br>hungry<br>crush<br>resource<br>view<br>cousin<br>shift<br>test<br>donkey |  
 | bip_39_word_new_br_11 | journey<br>dress<br>hungry<br>crush<br>resource<br>view<br>cousin<br>shift<br>test<br>donkey<br>name |  
@@ -147,6 +159,18 @@ test |
 | bip_39_word_space_7 | journey dress hungry crush resource view cousin |  
 | bip_39_word_space_8 | journey dress hungry crush resource view cousin shift |  
 | bip_39_word_space_9 | journey dress hungry crush resource view cousin shift test |  
+| bip_39_word_underscore_1 | journey |  
+| bip_39_word_underscore_10 | journey_dress_hungry_crush_resource_view_cousin_shift_test_donkey |  
+| bip_39_word_underscore_11 | journey_dress_hungry_crush_resource_view_cousin_shift_test_donkey_name |  
+| bip_39_word_underscore_12 | journey_dress_hungry_crush_resource_view_cousin_shift_test_donkey_name_average |  
+| bip_39_word_underscore_2 | journey_dress |  
+| bip_39_word_underscore_3 | journey_dress_hungry |  
+| bip_39_word_underscore_4 | journey_dress_hungry_crush |  
+| bip_39_word_underscore_5 | journey_dress_hungry_crush_resource |  
+| bip_39_word_underscore_6 | journey_dress_hungry_crush_resource_view |  
+| bip_39_word_underscore_7 | journey_dress_hungry_crush_resource_view_cousin |  
+| bip_39_word_underscore_8 | journey_dress_hungry_crush_resource_view_cousin_shift |  
+| bip_39_word_underscore_9 | journey_dress_hungry_crush_resource_view_cousin_shift_test |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | model |  
+| bip_39_word_dash_10 | model-win-click-rich-survey-oven-step-canoe-flush-major |  
+| bip_39_word_dash_11 | model-win-click-rich-survey-oven-step-canoe-flush-major-feature |  
+| bip_39_word_dash_12 | model-win-click-rich-survey-oven-step-canoe-flush-major-feature-accuse |  
+| bip_39_word_dash_2 | model-win |  
+| bip_39_word_dash_3 | model-win-click |  
+| bip_39_word_dash_4 | model-win-click-rich |  
+| bip_39_word_dash_5 | model-win-click-rich-survey |  
+| bip_39_word_dash_6 | model-win-click-rich-survey-oven |  
+| bip_39_word_dash_7 | model-win-click-rich-survey-oven-step |  
+| bip_39_word_dash_8 | model-win-click-rich-survey-oven-step-canoe |  
+| bip_39_word_dash_9 | model-win-click-rich-survey-oven-step-canoe-flush |  
 | bip_39_word_new_br_1 | model |  
 | bip_39_word_new_br_10 | model<br>win<br>click<br>rich<br>survey<br>oven<br>step<br>canoe<br>flush<br>major |  
 | bip_39_word_new_br_11 | model<br>win<br>click<br>rich<br>survey<br>oven<br>step<br>canoe<br>flush<br>major<br>feature |  
@@ -147,6 +159,18 @@ flush |
 | bip_39_word_space_7 | model win click rich survey oven step |  
 | bip_39_word_space_8 | model win click rich survey oven step canoe |  
 | bip_39_word_space_9 | model win click rich survey oven step canoe flush |  
+| bip_39_word_underscore_1 | model |  
+| bip_39_word_underscore_10 | model_win_click_rich_survey_oven_step_canoe_flush_major |  
+| bip_39_word_underscore_11 | model_win_click_rich_survey_oven_step_canoe_flush_major_feature |  
+| bip_39_word_underscore_12 | model_win_click_rich_survey_oven_step_canoe_flush_major_feature_accuse |  
+| bip_39_word_underscore_2 | model_win |  
+| bip_39_word_underscore_3 | model_win_click |  
+| bip_39_word_underscore_4 | model_win_click_rich |  
+| bip_39_word_underscore_5 | model_win_click_rich_survey |  
+| bip_39_word_underscore_6 | model_win_click_rich_survey_oven |  
+| bip_39_word_underscore_7 | model_win_click_rich_survey_oven_step |  
+| bip_39_word_underscore_8 | model_win_click_rich_survey_oven_step_canoe |  
+| bip_39_word_underscore_9 | model_win_click_rich_survey_oven_step_canoe_flush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

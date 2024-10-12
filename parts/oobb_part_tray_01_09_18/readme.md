@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | allow |  
+| bip_39_word_dash_10 | allow-food-ribbon-mind-tomorrow-symptom-pigeon-fringe-multiply-island |  
+| bip_39_word_dash_11 | allow-food-ribbon-mind-tomorrow-symptom-pigeon-fringe-multiply-island-sleep |  
+| bip_39_word_dash_12 | allow-food-ribbon-mind-tomorrow-symptom-pigeon-fringe-multiply-island-sleep-actress |  
+| bip_39_word_dash_2 | allow-food |  
+| bip_39_word_dash_3 | allow-food-ribbon |  
+| bip_39_word_dash_4 | allow-food-ribbon-mind |  
+| bip_39_word_dash_5 | allow-food-ribbon-mind-tomorrow |  
+| bip_39_word_dash_6 | allow-food-ribbon-mind-tomorrow-symptom |  
+| bip_39_word_dash_7 | allow-food-ribbon-mind-tomorrow-symptom-pigeon |  
+| bip_39_word_dash_8 | allow-food-ribbon-mind-tomorrow-symptom-pigeon-fringe |  
+| bip_39_word_dash_9 | allow-food-ribbon-mind-tomorrow-symptom-pigeon-fringe-multiply |  
 | bip_39_word_new_br_1 | allow |  
 | bip_39_word_new_br_10 | allow<br>food<br>ribbon<br>mind<br>tomorrow<br>symptom<br>pigeon<br>fringe<br>multiply<br>island |  
 | bip_39_word_new_br_11 | allow<br>food<br>ribbon<br>mind<br>tomorrow<br>symptom<br>pigeon<br>fringe<br>multiply<br>island<br>sleep |  
@@ -147,6 +159,18 @@ multiply |
 | bip_39_word_space_7 | allow food ribbon mind tomorrow symptom pigeon |  
 | bip_39_word_space_8 | allow food ribbon mind tomorrow symptom pigeon fringe |  
 | bip_39_word_space_9 | allow food ribbon mind tomorrow symptom pigeon fringe multiply |  
+| bip_39_word_underscore_1 | allow |  
+| bip_39_word_underscore_10 | allow_food_ribbon_mind_tomorrow_symptom_pigeon_fringe_multiply_island |  
+| bip_39_word_underscore_11 | allow_food_ribbon_mind_tomorrow_symptom_pigeon_fringe_multiply_island_sleep |  
+| bip_39_word_underscore_12 | allow_food_ribbon_mind_tomorrow_symptom_pigeon_fringe_multiply_island_sleep_actress |  
+| bip_39_word_underscore_2 | allow_food |  
+| bip_39_word_underscore_3 | allow_food_ribbon |  
+| bip_39_word_underscore_4 | allow_food_ribbon_mind |  
+| bip_39_word_underscore_5 | allow_food_ribbon_mind_tomorrow |  
+| bip_39_word_underscore_6 | allow_food_ribbon_mind_tomorrow_symptom |  
+| bip_39_word_underscore_7 | allow_food_ribbon_mind_tomorrow_symptom_pigeon |  
+| bip_39_word_underscore_8 | allow_food_ribbon_mind_tomorrow_symptom_pigeon_fringe |  
+| bip_39_word_underscore_9 | allow_food_ribbon_mind_tomorrow_symptom_pigeon_fringe_multiply |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

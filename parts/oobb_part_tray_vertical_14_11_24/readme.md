@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arena |  
+| bip_39_word_dash_10 | arena-tape-manage-lesson-dumb-west-glide-rice-talk-cook |  
+| bip_39_word_dash_11 | arena-tape-manage-lesson-dumb-west-glide-rice-talk-cook-pet |  
+| bip_39_word_dash_12 | arena-tape-manage-lesson-dumb-west-glide-rice-talk-cook-pet-add |  
+| bip_39_word_dash_2 | arena-tape |  
+| bip_39_word_dash_3 | arena-tape-manage |  
+| bip_39_word_dash_4 | arena-tape-manage-lesson |  
+| bip_39_word_dash_5 | arena-tape-manage-lesson-dumb |  
+| bip_39_word_dash_6 | arena-tape-manage-lesson-dumb-west |  
+| bip_39_word_dash_7 | arena-tape-manage-lesson-dumb-west-glide |  
+| bip_39_word_dash_8 | arena-tape-manage-lesson-dumb-west-glide-rice |  
+| bip_39_word_dash_9 | arena-tape-manage-lesson-dumb-west-glide-rice-talk |  
 | bip_39_word_new_br_1 | arena |  
 | bip_39_word_new_br_10 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook |  
 | bip_39_word_new_br_11 | arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook<br>pet |  
@@ -147,6 +159,18 @@ talk |
 | bip_39_word_space_7 | arena tape manage lesson dumb west glide |  
 | bip_39_word_space_8 | arena tape manage lesson dumb west glide rice |  
 | bip_39_word_space_9 | arena tape manage lesson dumb west glide rice talk |  
+| bip_39_word_underscore_1 | arena |  
+| bip_39_word_underscore_10 | arena_tape_manage_lesson_dumb_west_glide_rice_talk_cook |  
+| bip_39_word_underscore_11 | arena_tape_manage_lesson_dumb_west_glide_rice_talk_cook_pet |  
+| bip_39_word_underscore_12 | arena_tape_manage_lesson_dumb_west_glide_rice_talk_cook_pet_add |  
+| bip_39_word_underscore_2 | arena_tape |  
+| bip_39_word_underscore_3 | arena_tape_manage |  
+| bip_39_word_underscore_4 | arena_tape_manage_lesson |  
+| bip_39_word_underscore_5 | arena_tape_manage_lesson_dumb |  
+| bip_39_word_underscore_6 | arena_tape_manage_lesson_dumb_west |  
+| bip_39_word_underscore_7 | arena_tape_manage_lesson_dumb_west_glide |  
+| bip_39_word_underscore_8 | arena_tape_manage_lesson_dumb_west_glide_rice |  
+| bip_39_word_underscore_9 | arena_tape_manage_lesson_dumb_west_glide_rice_talk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

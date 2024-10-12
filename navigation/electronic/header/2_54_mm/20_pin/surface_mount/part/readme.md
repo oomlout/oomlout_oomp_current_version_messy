@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | field |  
+| bip_39_word_dash_10 | field-method-unhappy-wrap-retire-fresh-flash-near-twin-heart |  
+| bip_39_word_dash_11 | field-method-unhappy-wrap-retire-fresh-flash-near-twin-heart-hand |  
+| bip_39_word_dash_12 | field-method-unhappy-wrap-retire-fresh-flash-near-twin-heart-hand-already |  
+| bip_39_word_dash_2 | field-method |  
+| bip_39_word_dash_3 | field-method-unhappy |  
+| bip_39_word_dash_4 | field-method-unhappy-wrap |  
+| bip_39_word_dash_5 | field-method-unhappy-wrap-retire |  
+| bip_39_word_dash_6 | field-method-unhappy-wrap-retire-fresh |  
+| bip_39_word_dash_7 | field-method-unhappy-wrap-retire-fresh-flash |  
+| bip_39_word_dash_8 | field-method-unhappy-wrap-retire-fresh-flash-near |  
+| bip_39_word_dash_9 | field-method-unhappy-wrap-retire-fresh-flash-near-twin |  
 | bip_39_word_new_br_1 | field |  
 | bip_39_word_new_br_10 | field<br>method<br>unhappy<br>wrap<br>retire<br>fresh<br>flash<br>near<br>twin<br>heart |  
 | bip_39_word_new_br_11 | field<br>method<br>unhappy<br>wrap<br>retire<br>fresh<br>flash<br>near<br>twin<br>heart<br>hand |  
@@ -147,6 +159,18 @@ twin |
 | bip_39_word_space_7 | field method unhappy wrap retire fresh flash |  
 | bip_39_word_space_8 | field method unhappy wrap retire fresh flash near |  
 | bip_39_word_space_9 | field method unhappy wrap retire fresh flash near twin |  
+| bip_39_word_underscore_1 | field |  
+| bip_39_word_underscore_10 | field_method_unhappy_wrap_retire_fresh_flash_near_twin_heart |  
+| bip_39_word_underscore_11 | field_method_unhappy_wrap_retire_fresh_flash_near_twin_heart_hand |  
+| bip_39_word_underscore_12 | field_method_unhappy_wrap_retire_fresh_flash_near_twin_heart_hand_already |  
+| bip_39_word_underscore_2 | field_method |  
+| bip_39_word_underscore_3 | field_method_unhappy |  
+| bip_39_word_underscore_4 | field_method_unhappy_wrap |  
+| bip_39_word_underscore_5 | field_method_unhappy_wrap_retire |  
+| bip_39_word_underscore_6 | field_method_unhappy_wrap_retire_fresh |  
+| bip_39_word_underscore_7 | field_method_unhappy_wrap_retire_fresh_flash |  
+| bip_39_word_underscore_8 | field_method_unhappy_wrap_retire_fresh_flash_near |  
+| bip_39_word_underscore_9 | field_method_unhappy_wrap_retire_fresh_flash_near_twin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

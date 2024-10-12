@@ -1,3 +1,15 @@
+bip_39_word_dash_1: drift
+bip_39_word_dash_10: drift-huge-price-magnet-galaxy-profit-state-hawk-shoe-olive
+bip_39_word_dash_11: drift-huge-price-magnet-galaxy-profit-state-hawk-shoe-olive-kitchen
+bip_39_word_dash_12: drift-huge-price-magnet-galaxy-profit-state-hawk-shoe-olive-kitchen-alpha
+bip_39_word_dash_2: drift-huge
+bip_39_word_dash_3: drift-huge-price
+bip_39_word_dash_4: drift-huge-price-magnet
+bip_39_word_dash_5: drift-huge-price-magnet-galaxy
+bip_39_word_dash_6: drift-huge-price-magnet-galaxy-profit
+bip_39_word_dash_7: drift-huge-price-magnet-galaxy-profit-state
+bip_39_word_dash_8: drift-huge-price-magnet-galaxy-profit-state-hawk
+bip_39_word_dash_9: drift-huge-price-magnet-galaxy-profit-state-hawk-shoe
 bip_39_word_new_br_1: drift
 bip_39_word_new_br_10: drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive
 bip_39_word_new_br_11: drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive<br>kitchen
@@ -193,6 +205,18 @@ bip_39_word_space_6: drift huge price magnet galaxy profit
 bip_39_word_space_7: drift huge price magnet galaxy profit state
 bip_39_word_space_8: drift huge price magnet galaxy profit state hawk
 bip_39_word_space_9: drift huge price magnet galaxy profit state hawk shoe
+bip_39_word_underscore_1: drift
+bip_39_word_underscore_10: drift_huge_price_magnet_galaxy_profit_state_hawk_shoe_olive
+bip_39_word_underscore_11: drift_huge_price_magnet_galaxy_profit_state_hawk_shoe_olive_kitchen
+bip_39_word_underscore_12: drift_huge_price_magnet_galaxy_profit_state_hawk_shoe_olive_kitchen_alpha
+bip_39_word_underscore_2: drift_huge
+bip_39_word_underscore_3: drift_huge_price
+bip_39_word_underscore_4: drift_huge_price_magnet
+bip_39_word_underscore_5: drift_huge_price_magnet_galaxy
+bip_39_word_underscore_6: drift_huge_price_magnet_galaxy_profit
+bip_39_word_underscore_7: drift_huge_price_magnet_galaxy_profit_state
+bip_39_word_underscore_8: drift_huge_price_magnet_galaxy_profit_state_hawk
+bip_39_word_underscore_9: drift_huge_price_magnet_galaxy_profit_state_hawk_shoe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

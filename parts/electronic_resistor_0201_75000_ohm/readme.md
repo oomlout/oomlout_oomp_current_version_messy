@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vapor |  
+| bip_39_word_dash_10 | vapor-enlist-estate-fold-purse-caution-nice-flame-vendor-glory |  
+| bip_39_word_dash_11 | vapor-enlist-estate-fold-purse-caution-nice-flame-vendor-glory-drill |  
+| bip_39_word_dash_12 | vapor-enlist-estate-fold-purse-caution-nice-flame-vendor-glory-drill-ability |  
+| bip_39_word_dash_2 | vapor-enlist |  
+| bip_39_word_dash_3 | vapor-enlist-estate |  
+| bip_39_word_dash_4 | vapor-enlist-estate-fold |  
+| bip_39_word_dash_5 | vapor-enlist-estate-fold-purse |  
+| bip_39_word_dash_6 | vapor-enlist-estate-fold-purse-caution |  
+| bip_39_word_dash_7 | vapor-enlist-estate-fold-purse-caution-nice |  
+| bip_39_word_dash_8 | vapor-enlist-estate-fold-purse-caution-nice-flame |  
+| bip_39_word_dash_9 | vapor-enlist-estate-fold-purse-caution-nice-flame-vendor |  
 | bip_39_word_new_br_1 | vapor |  
 | bip_39_word_new_br_10 | vapor<br>enlist<br>estate<br>fold<br>purse<br>caution<br>nice<br>flame<br>vendor<br>glory |  
 | bip_39_word_new_br_11 | vapor<br>enlist<br>estate<br>fold<br>purse<br>caution<br>nice<br>flame<br>vendor<br>glory<br>drill |  
@@ -147,6 +159,18 @@ vendor |
 | bip_39_word_space_7 | vapor enlist estate fold purse caution nice |  
 | bip_39_word_space_8 | vapor enlist estate fold purse caution nice flame |  
 | bip_39_word_space_9 | vapor enlist estate fold purse caution nice flame vendor |  
+| bip_39_word_underscore_1 | vapor |  
+| bip_39_word_underscore_10 | vapor_enlist_estate_fold_purse_caution_nice_flame_vendor_glory |  
+| bip_39_word_underscore_11 | vapor_enlist_estate_fold_purse_caution_nice_flame_vendor_glory_drill |  
+| bip_39_word_underscore_12 | vapor_enlist_estate_fold_purse_caution_nice_flame_vendor_glory_drill_ability |  
+| bip_39_word_underscore_2 | vapor_enlist |  
+| bip_39_word_underscore_3 | vapor_enlist_estate |  
+| bip_39_word_underscore_4 | vapor_enlist_estate_fold |  
+| bip_39_word_underscore_5 | vapor_enlist_estate_fold_purse |  
+| bip_39_word_underscore_6 | vapor_enlist_estate_fold_purse_caution |  
+| bip_39_word_underscore_7 | vapor_enlist_estate_fold_purse_caution_nice |  
+| bip_39_word_underscore_8 | vapor_enlist_estate_fold_purse_caution_nice_flame |  
+| bip_39_word_underscore_9 | vapor_enlist_estate_fold_purse_caution_nice_flame_vendor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

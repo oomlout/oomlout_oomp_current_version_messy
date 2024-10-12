@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shock
+bip_39_word_dash_10: shock-spring-loop-energy-capable-voice-pair-quick-baby-soda
+bip_39_word_dash_11: shock-spring-loop-energy-capable-voice-pair-quick-baby-soda-biology
+bip_39_word_dash_12: shock-spring-loop-energy-capable-voice-pair-quick-baby-soda-biology-antique
+bip_39_word_dash_2: shock-spring
+bip_39_word_dash_3: shock-spring-loop
+bip_39_word_dash_4: shock-spring-loop-energy
+bip_39_word_dash_5: shock-spring-loop-energy-capable
+bip_39_word_dash_6: shock-spring-loop-energy-capable-voice
+bip_39_word_dash_7: shock-spring-loop-energy-capable-voice-pair
+bip_39_word_dash_8: shock-spring-loop-energy-capable-voice-pair-quick
+bip_39_word_dash_9: shock-spring-loop-energy-capable-voice-pair-quick-baby
 bip_39_word_new_br_1: shock
 bip_39_word_new_br_10: shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda
 bip_39_word_new_br_11: shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda<br>biology
@@ -193,6 +205,18 @@ bip_39_word_space_6: shock spring loop energy capable voice
 bip_39_word_space_7: shock spring loop energy capable voice pair
 bip_39_word_space_8: shock spring loop energy capable voice pair quick
 bip_39_word_space_9: shock spring loop energy capable voice pair quick baby
+bip_39_word_underscore_1: shock
+bip_39_word_underscore_10: shock_spring_loop_energy_capable_voice_pair_quick_baby_soda
+bip_39_word_underscore_11: shock_spring_loop_energy_capable_voice_pair_quick_baby_soda_biology
+bip_39_word_underscore_12: shock_spring_loop_energy_capable_voice_pair_quick_baby_soda_biology_antique
+bip_39_word_underscore_2: shock_spring
+bip_39_word_underscore_3: shock_spring_loop
+bip_39_word_underscore_4: shock_spring_loop_energy
+bip_39_word_underscore_5: shock_spring_loop_energy_capable
+bip_39_word_underscore_6: shock_spring_loop_energy_capable_voice
+bip_39_word_underscore_7: shock_spring_loop_energy_capable_voice_pair
+bip_39_word_underscore_8: shock_spring_loop_energy_capable_voice_pair_quick
+bip_39_word_underscore_9: shock_spring_loop_energy_capable_voice_pair_quick_baby
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

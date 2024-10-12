@@ -1,3 +1,15 @@
+bip_39_word_dash_1: easy
+bip_39_word_dash_10: easy-frozen-atom-hand-knee-shrimp-upper-loyal-shock-matter
+bip_39_word_dash_11: easy-frozen-atom-hand-knee-shrimp-upper-loyal-shock-matter-describe
+bip_39_word_dash_12: easy-frozen-atom-hand-knee-shrimp-upper-loyal-shock-matter-describe-alone
+bip_39_word_dash_2: easy-frozen
+bip_39_word_dash_3: easy-frozen-atom
+bip_39_word_dash_4: easy-frozen-atom-hand
+bip_39_word_dash_5: easy-frozen-atom-hand-knee
+bip_39_word_dash_6: easy-frozen-atom-hand-knee-shrimp
+bip_39_word_dash_7: easy-frozen-atom-hand-knee-shrimp-upper
+bip_39_word_dash_8: easy-frozen-atom-hand-knee-shrimp-upper-loyal
+bip_39_word_dash_9: easy-frozen-atom-hand-knee-shrimp-upper-loyal-shock
 bip_39_word_new_br_1: easy
 bip_39_word_new_br_10: easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter
 bip_39_word_new_br_11: easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter<br>describe
@@ -192,6 +204,18 @@ bip_39_word_space_6: easy frozen atom hand knee shrimp
 bip_39_word_space_7: easy frozen atom hand knee shrimp upper
 bip_39_word_space_8: easy frozen atom hand knee shrimp upper loyal
 bip_39_word_space_9: easy frozen atom hand knee shrimp upper loyal shock
+bip_39_word_underscore_1: easy
+bip_39_word_underscore_10: easy_frozen_atom_hand_knee_shrimp_upper_loyal_shock_matter
+bip_39_word_underscore_11: easy_frozen_atom_hand_knee_shrimp_upper_loyal_shock_matter_describe
+bip_39_word_underscore_12: easy_frozen_atom_hand_knee_shrimp_upper_loyal_shock_matter_describe_alone
+bip_39_word_underscore_2: easy_frozen
+bip_39_word_underscore_3: easy_frozen_atom
+bip_39_word_underscore_4: easy_frozen_atom_hand
+bip_39_word_underscore_5: easy_frozen_atom_hand_knee
+bip_39_word_underscore_6: easy_frozen_atom_hand_knee_shrimp
+bip_39_word_underscore_7: easy_frozen_atom_hand_knee_shrimp_upper
+bip_39_word_underscore_8: easy_frozen_atom_hand_knee_shrimp_upper_loyal
+bip_39_word_underscore_9: easy_frozen_atom_hand_knee_shrimp_upper_loyal_shock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

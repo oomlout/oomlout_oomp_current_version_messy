@@ -1,3 +1,15 @@
+bip_39_word_dash_1: abstract
+bip_39_word_dash_10: abstract-yard-vehicle-junk-labor-pill-lizard-sea-claw-limit
+bip_39_word_dash_11: abstract-yard-vehicle-junk-labor-pill-lizard-sea-claw-limit-winner
+bip_39_word_dash_12: abstract-yard-vehicle-junk-labor-pill-lizard-sea-claw-limit-winner-act
+bip_39_word_dash_2: abstract-yard
+bip_39_word_dash_3: abstract-yard-vehicle
+bip_39_word_dash_4: abstract-yard-vehicle-junk
+bip_39_word_dash_5: abstract-yard-vehicle-junk-labor
+bip_39_word_dash_6: abstract-yard-vehicle-junk-labor-pill
+bip_39_word_dash_7: abstract-yard-vehicle-junk-labor-pill-lizard
+bip_39_word_dash_8: abstract-yard-vehicle-junk-labor-pill-lizard-sea
+bip_39_word_dash_9: abstract-yard-vehicle-junk-labor-pill-lizard-sea-claw
 bip_39_word_new_br_1: abstract
 bip_39_word_new_br_10: abstract<br>yard<br>vehicle<br>junk<br>labor<br>pill<br>lizard<br>sea<br>claw<br>limit
 bip_39_word_new_br_11: abstract<br>yard<br>vehicle<br>junk<br>labor<br>pill<br>lizard<br>sea<br>claw<br>limit<br>winner
@@ -193,6 +205,18 @@ bip_39_word_space_6: abstract yard vehicle junk labor pill
 bip_39_word_space_7: abstract yard vehicle junk labor pill lizard
 bip_39_word_space_8: abstract yard vehicle junk labor pill lizard sea
 bip_39_word_space_9: abstract yard vehicle junk labor pill lizard sea claw
+bip_39_word_underscore_1: abstract
+bip_39_word_underscore_10: abstract_yard_vehicle_junk_labor_pill_lizard_sea_claw_limit
+bip_39_word_underscore_11: abstract_yard_vehicle_junk_labor_pill_lizard_sea_claw_limit_winner
+bip_39_word_underscore_12: abstract_yard_vehicle_junk_labor_pill_lizard_sea_claw_limit_winner_act
+bip_39_word_underscore_2: abstract_yard
+bip_39_word_underscore_3: abstract_yard_vehicle
+bip_39_word_underscore_4: abstract_yard_vehicle_junk
+bip_39_word_underscore_5: abstract_yard_vehicle_junk_labor
+bip_39_word_underscore_6: abstract_yard_vehicle_junk_labor_pill
+bip_39_word_underscore_7: abstract_yard_vehicle_junk_labor_pill_lizard
+bip_39_word_underscore_8: abstract_yard_vehicle_junk_labor_pill_lizard_sea
+bip_39_word_underscore_9: abstract_yard_vehicle_junk_labor_pill_lizard_sea_claw
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

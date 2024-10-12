@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dance |  
+| bip_39_word_dash_10 | dance-kiss-salmon-fragile-risk-list-moon-sheriff-dose-urge |  
+| bip_39_word_dash_11 | dance-kiss-salmon-fragile-risk-list-moon-sheriff-dose-urge-assume |  
+| bip_39_word_dash_12 | dance-kiss-salmon-fragile-risk-list-moon-sheriff-dose-urge-assume-another |  
+| bip_39_word_dash_2 | dance-kiss |  
+| bip_39_word_dash_3 | dance-kiss-salmon |  
+| bip_39_word_dash_4 | dance-kiss-salmon-fragile |  
+| bip_39_word_dash_5 | dance-kiss-salmon-fragile-risk |  
+| bip_39_word_dash_6 | dance-kiss-salmon-fragile-risk-list |  
+| bip_39_word_dash_7 | dance-kiss-salmon-fragile-risk-list-moon |  
+| bip_39_word_dash_8 | dance-kiss-salmon-fragile-risk-list-moon-sheriff |  
+| bip_39_word_dash_9 | dance-kiss-salmon-fragile-risk-list-moon-sheriff-dose |  
 | bip_39_word_new_br_1 | dance |  
 | bip_39_word_new_br_10 | dance<br>kiss<br>salmon<br>fragile<br>risk<br>list<br>moon<br>sheriff<br>dose<br>urge |  
 | bip_39_word_new_br_11 | dance<br>kiss<br>salmon<br>fragile<br>risk<br>list<br>moon<br>sheriff<br>dose<br>urge<br>assume |  
@@ -147,6 +159,18 @@ dose |
 | bip_39_word_space_7 | dance kiss salmon fragile risk list moon |  
 | bip_39_word_space_8 | dance kiss salmon fragile risk list moon sheriff |  
 | bip_39_word_space_9 | dance kiss salmon fragile risk list moon sheriff dose |  
+| bip_39_word_underscore_1 | dance |  
+| bip_39_word_underscore_10 | dance_kiss_salmon_fragile_risk_list_moon_sheriff_dose_urge |  
+| bip_39_word_underscore_11 | dance_kiss_salmon_fragile_risk_list_moon_sheriff_dose_urge_assume |  
+| bip_39_word_underscore_12 | dance_kiss_salmon_fragile_risk_list_moon_sheriff_dose_urge_assume_another |  
+| bip_39_word_underscore_2 | dance_kiss |  
+| bip_39_word_underscore_3 | dance_kiss_salmon |  
+| bip_39_word_underscore_4 | dance_kiss_salmon_fragile |  
+| bip_39_word_underscore_5 | dance_kiss_salmon_fragile_risk |  
+| bip_39_word_underscore_6 | dance_kiss_salmon_fragile_risk_list |  
+| bip_39_word_underscore_7 | dance_kiss_salmon_fragile_risk_list_moon |  
+| bip_39_word_underscore_8 | dance_kiss_salmon_fragile_risk_list_moon_sheriff |  
+| bip_39_word_underscore_9 | dance_kiss_salmon_fragile_risk_list_moon_sheriff_dose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

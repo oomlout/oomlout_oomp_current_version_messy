@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | equal |  
+| bip_39_word_dash_10 | equal-lend-panther-venue-bulb-captain-movie-cross-budget-claim |  
+| bip_39_word_dash_11 | equal-lend-panther-venue-bulb-captain-movie-cross-budget-claim-key |  
+| bip_39_word_dash_12 | equal-lend-panther-venue-bulb-captain-movie-cross-budget-claim-key-accuse |  
+| bip_39_word_dash_2 | equal-lend |  
+| bip_39_word_dash_3 | equal-lend-panther |  
+| bip_39_word_dash_4 | equal-lend-panther-venue |  
+| bip_39_word_dash_5 | equal-lend-panther-venue-bulb |  
+| bip_39_word_dash_6 | equal-lend-panther-venue-bulb-captain |  
+| bip_39_word_dash_7 | equal-lend-panther-venue-bulb-captain-movie |  
+| bip_39_word_dash_8 | equal-lend-panther-venue-bulb-captain-movie-cross |  
+| bip_39_word_dash_9 | equal-lend-panther-venue-bulb-captain-movie-cross-budget |  
 | bip_39_word_new_br_1 | equal |  
 | bip_39_word_new_br_10 | equal<br>lend<br>panther<br>venue<br>bulb<br>captain<br>movie<br>cross<br>budget<br>claim |  
 | bip_39_word_new_br_11 | equal<br>lend<br>panther<br>venue<br>bulb<br>captain<br>movie<br>cross<br>budget<br>claim<br>key |  
@@ -147,6 +159,18 @@ budget |
 | bip_39_word_space_7 | equal lend panther venue bulb captain movie |  
 | bip_39_word_space_8 | equal lend panther venue bulb captain movie cross |  
 | bip_39_word_space_9 | equal lend panther venue bulb captain movie cross budget |  
+| bip_39_word_underscore_1 | equal |  
+| bip_39_word_underscore_10 | equal_lend_panther_venue_bulb_captain_movie_cross_budget_claim |  
+| bip_39_word_underscore_11 | equal_lend_panther_venue_bulb_captain_movie_cross_budget_claim_key |  
+| bip_39_word_underscore_12 | equal_lend_panther_venue_bulb_captain_movie_cross_budget_claim_key_accuse |  
+| bip_39_word_underscore_2 | equal_lend |  
+| bip_39_word_underscore_3 | equal_lend_panther |  
+| bip_39_word_underscore_4 | equal_lend_panther_venue |  
+| bip_39_word_underscore_5 | equal_lend_panther_venue_bulb |  
+| bip_39_word_underscore_6 | equal_lend_panther_venue_bulb_captain |  
+| bip_39_word_underscore_7 | equal_lend_panther_venue_bulb_captain_movie |  
+| bip_39_word_underscore_8 | equal_lend_panther_venue_bulb_captain_movie_cross |  
+| bip_39_word_underscore_9 | equal_lend_panther_venue_bulb_captain_movie_cross_budget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

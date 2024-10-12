@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arm |  
+| bip_39_word_dash_10 | arm-remind-tuition-false-certain-birth-purse-flush-brain-lift |  
+| bip_39_word_dash_11 | arm-remind-tuition-false-certain-birth-purse-flush-brain-lift-pluck |  
+| bip_39_word_dash_12 | arm-remind-tuition-false-certain-birth-purse-flush-brain-lift-pluck-approve |  
+| bip_39_word_dash_2 | arm-remind |  
+| bip_39_word_dash_3 | arm-remind-tuition |  
+| bip_39_word_dash_4 | arm-remind-tuition-false |  
+| bip_39_word_dash_5 | arm-remind-tuition-false-certain |  
+| bip_39_word_dash_6 | arm-remind-tuition-false-certain-birth |  
+| bip_39_word_dash_7 | arm-remind-tuition-false-certain-birth-purse |  
+| bip_39_word_dash_8 | arm-remind-tuition-false-certain-birth-purse-flush |  
+| bip_39_word_dash_9 | arm-remind-tuition-false-certain-birth-purse-flush-brain |  
 | bip_39_word_new_br_1 | arm |  
 | bip_39_word_new_br_10 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush<br>brain<br>lift |  
 | bip_39_word_new_br_11 | arm<br>remind<br>tuition<br>false<br>certain<br>birth<br>purse<br>flush<br>brain<br>lift<br>pluck |  
@@ -147,6 +159,18 @@ brain |
 | bip_39_word_space_7 | arm remind tuition false certain birth purse |  
 | bip_39_word_space_8 | arm remind tuition false certain birth purse flush |  
 | bip_39_word_space_9 | arm remind tuition false certain birth purse flush brain |  
+| bip_39_word_underscore_1 | arm |  
+| bip_39_word_underscore_10 | arm_remind_tuition_false_certain_birth_purse_flush_brain_lift |  
+| bip_39_word_underscore_11 | arm_remind_tuition_false_certain_birth_purse_flush_brain_lift_pluck |  
+| bip_39_word_underscore_12 | arm_remind_tuition_false_certain_birth_purse_flush_brain_lift_pluck_approve |  
+| bip_39_word_underscore_2 | arm_remind |  
+| bip_39_word_underscore_3 | arm_remind_tuition |  
+| bip_39_word_underscore_4 | arm_remind_tuition_false |  
+| bip_39_word_underscore_5 | arm_remind_tuition_false_certain |  
+| bip_39_word_underscore_6 | arm_remind_tuition_false_certain_birth |  
+| bip_39_word_underscore_7 | arm_remind_tuition_false_certain_birth_purse |  
+| bip_39_word_underscore_8 | arm_remind_tuition_false_certain_birth_purse_flush |  
+| bip_39_word_underscore_9 | arm_remind_tuition_false_certain_birth_purse_flush_brain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

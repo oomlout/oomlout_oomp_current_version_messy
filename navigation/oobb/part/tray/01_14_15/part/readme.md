@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | muscle |  
+| bip_39_word_dash_10 | muscle-struggle-visual-comfort-way-angle-purpose-couch-void-canal |  
+| bip_39_word_dash_11 | muscle-struggle-visual-comfort-way-angle-purpose-couch-void-canal-example |  
+| bip_39_word_dash_12 | muscle-struggle-visual-comfort-way-angle-purpose-couch-void-canal-example-actual |  
+| bip_39_word_dash_2 | muscle-struggle |  
+| bip_39_word_dash_3 | muscle-struggle-visual |  
+| bip_39_word_dash_4 | muscle-struggle-visual-comfort |  
+| bip_39_word_dash_5 | muscle-struggle-visual-comfort-way |  
+| bip_39_word_dash_6 | muscle-struggle-visual-comfort-way-angle |  
+| bip_39_word_dash_7 | muscle-struggle-visual-comfort-way-angle-purpose |  
+| bip_39_word_dash_8 | muscle-struggle-visual-comfort-way-angle-purpose-couch |  
+| bip_39_word_dash_9 | muscle-struggle-visual-comfort-way-angle-purpose-couch-void |  
 | bip_39_word_new_br_1 | muscle |  
 | bip_39_word_new_br_10 | muscle<br>struggle<br>visual<br>comfort<br>way<br>angle<br>purpose<br>couch<br>void<br>canal |  
 | bip_39_word_new_br_11 | muscle<br>struggle<br>visual<br>comfort<br>way<br>angle<br>purpose<br>couch<br>void<br>canal<br>example |  
@@ -147,6 +159,18 @@ void |
 | bip_39_word_space_7 | muscle struggle visual comfort way angle purpose |  
 | bip_39_word_space_8 | muscle struggle visual comfort way angle purpose couch |  
 | bip_39_word_space_9 | muscle struggle visual comfort way angle purpose couch void |  
+| bip_39_word_underscore_1 | muscle |  
+| bip_39_word_underscore_10 | muscle_struggle_visual_comfort_way_angle_purpose_couch_void_canal |  
+| bip_39_word_underscore_11 | muscle_struggle_visual_comfort_way_angle_purpose_couch_void_canal_example |  
+| bip_39_word_underscore_12 | muscle_struggle_visual_comfort_way_angle_purpose_couch_void_canal_example_actual |  
+| bip_39_word_underscore_2 | muscle_struggle |  
+| bip_39_word_underscore_3 | muscle_struggle_visual |  
+| bip_39_word_underscore_4 | muscle_struggle_visual_comfort |  
+| bip_39_word_underscore_5 | muscle_struggle_visual_comfort_way |  
+| bip_39_word_underscore_6 | muscle_struggle_visual_comfort_way_angle |  
+| bip_39_word_underscore_7 | muscle_struggle_visual_comfort_way_angle_purpose |  
+| bip_39_word_underscore_8 | muscle_struggle_visual_comfort_way_angle_purpose_couch |  
+| bip_39_word_underscore_9 | muscle_struggle_visual_comfort_way_angle_purpose_couch_void |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

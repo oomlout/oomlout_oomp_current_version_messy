@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lunch |  
+| bip_39_word_dash_10 | lunch-link-high-viable-fatal-uncover-secret-exist-sunny-drop |  
+| bip_39_word_dash_11 | lunch-link-high-viable-fatal-uncover-secret-exist-sunny-drop-drum |  
+| bip_39_word_dash_12 | lunch-link-high-viable-fatal-uncover-secret-exist-sunny-drop-drum-aisle |  
+| bip_39_word_dash_2 | lunch-link |  
+| bip_39_word_dash_3 | lunch-link-high |  
+| bip_39_word_dash_4 | lunch-link-high-viable |  
+| bip_39_word_dash_5 | lunch-link-high-viable-fatal |  
+| bip_39_word_dash_6 | lunch-link-high-viable-fatal-uncover |  
+| bip_39_word_dash_7 | lunch-link-high-viable-fatal-uncover-secret |  
+| bip_39_word_dash_8 | lunch-link-high-viable-fatal-uncover-secret-exist |  
+| bip_39_word_dash_9 | lunch-link-high-viable-fatal-uncover-secret-exist-sunny |  
 | bip_39_word_new_br_1 | lunch |  
 | bip_39_word_new_br_10 | lunch<br>link<br>high<br>viable<br>fatal<br>uncover<br>secret<br>exist<br>sunny<br>drop |  
 | bip_39_word_new_br_11 | lunch<br>link<br>high<br>viable<br>fatal<br>uncover<br>secret<br>exist<br>sunny<br>drop<br>drum |  
@@ -147,6 +159,18 @@ sunny |
 | bip_39_word_space_7 | lunch link high viable fatal uncover secret |  
 | bip_39_word_space_8 | lunch link high viable fatal uncover secret exist |  
 | bip_39_word_space_9 | lunch link high viable fatal uncover secret exist sunny |  
+| bip_39_word_underscore_1 | lunch |  
+| bip_39_word_underscore_10 | lunch_link_high_viable_fatal_uncover_secret_exist_sunny_drop |  
+| bip_39_word_underscore_11 | lunch_link_high_viable_fatal_uncover_secret_exist_sunny_drop_drum |  
+| bip_39_word_underscore_12 | lunch_link_high_viable_fatal_uncover_secret_exist_sunny_drop_drum_aisle |  
+| bip_39_word_underscore_2 | lunch_link |  
+| bip_39_word_underscore_3 | lunch_link_high |  
+| bip_39_word_underscore_4 | lunch_link_high_viable |  
+| bip_39_word_underscore_5 | lunch_link_high_viable_fatal |  
+| bip_39_word_underscore_6 | lunch_link_high_viable_fatal_uncover |  
+| bip_39_word_underscore_7 | lunch_link_high_viable_fatal_uncover_secret |  
+| bip_39_word_underscore_8 | lunch_link_high_viable_fatal_uncover_secret_exist |  
+| bip_39_word_underscore_9 | lunch_link_high_viable_fatal_uncover_secret_exist_sunny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

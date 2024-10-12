@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | include |  
+| bip_39_word_dash_10 | include-barely-measure-buyer-park-betray-kitchen-track-version-example |  
+| bip_39_word_dash_11 | include-barely-measure-buyer-park-betray-kitchen-track-version-example-wall |  
+| bip_39_word_dash_12 | include-barely-measure-buyer-park-betray-kitchen-track-version-example-wall-adjust |  
+| bip_39_word_dash_2 | include-barely |  
+| bip_39_word_dash_3 | include-barely-measure |  
+| bip_39_word_dash_4 | include-barely-measure-buyer |  
+| bip_39_word_dash_5 | include-barely-measure-buyer-park |  
+| bip_39_word_dash_6 | include-barely-measure-buyer-park-betray |  
+| bip_39_word_dash_7 | include-barely-measure-buyer-park-betray-kitchen |  
+| bip_39_word_dash_8 | include-barely-measure-buyer-park-betray-kitchen-track |  
+| bip_39_word_dash_9 | include-barely-measure-buyer-park-betray-kitchen-track-version |  
 | bip_39_word_new_br_1 | include |  
 | bip_39_word_new_br_10 | include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track<br>version<br>example |  
 | bip_39_word_new_br_11 | include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track<br>version<br>example<br>wall |  
@@ -147,6 +159,18 @@ version |
 | bip_39_word_space_7 | include barely measure buyer park betray kitchen |  
 | bip_39_word_space_8 | include barely measure buyer park betray kitchen track |  
 | bip_39_word_space_9 | include barely measure buyer park betray kitchen track version |  
+| bip_39_word_underscore_1 | include |  
+| bip_39_word_underscore_10 | include_barely_measure_buyer_park_betray_kitchen_track_version_example |  
+| bip_39_word_underscore_11 | include_barely_measure_buyer_park_betray_kitchen_track_version_example_wall |  
+| bip_39_word_underscore_12 | include_barely_measure_buyer_park_betray_kitchen_track_version_example_wall_adjust |  
+| bip_39_word_underscore_2 | include_barely |  
+| bip_39_word_underscore_3 | include_barely_measure |  
+| bip_39_word_underscore_4 | include_barely_measure_buyer |  
+| bip_39_word_underscore_5 | include_barely_measure_buyer_park |  
+| bip_39_word_underscore_6 | include_barely_measure_buyer_park_betray |  
+| bip_39_word_underscore_7 | include_barely_measure_buyer_park_betray_kitchen |  
+| bip_39_word_underscore_8 | include_barely_measure_buyer_park_betray_kitchen_track |  
+| bip_39_word_underscore_9 | include_barely_measure_buyer_park_betray_kitchen_track_version |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

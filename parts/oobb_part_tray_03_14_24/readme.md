@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | that |  
+| bip_39_word_dash_10 | that-two-evoke-tornado-animal-mule-bag-saddle-carbon-include |  
+| bip_39_word_dash_11 | that-two-evoke-tornado-animal-mule-bag-saddle-carbon-include-toast |  
+| bip_39_word_dash_12 | that-two-evoke-tornado-animal-mule-bag-saddle-carbon-include-toast-angry |  
+| bip_39_word_dash_2 | that-two |  
+| bip_39_word_dash_3 | that-two-evoke |  
+| bip_39_word_dash_4 | that-two-evoke-tornado |  
+| bip_39_word_dash_5 | that-two-evoke-tornado-animal |  
+| bip_39_word_dash_6 | that-two-evoke-tornado-animal-mule |  
+| bip_39_word_dash_7 | that-two-evoke-tornado-animal-mule-bag |  
+| bip_39_word_dash_8 | that-two-evoke-tornado-animal-mule-bag-saddle |  
+| bip_39_word_dash_9 | that-two-evoke-tornado-animal-mule-bag-saddle-carbon |  
 | bip_39_word_new_br_1 | that |  
 | bip_39_word_new_br_10 | that<br>two<br>evoke<br>tornado<br>animal<br>mule<br>bag<br>saddle<br>carbon<br>include |  
 | bip_39_word_new_br_11 | that<br>two<br>evoke<br>tornado<br>animal<br>mule<br>bag<br>saddle<br>carbon<br>include<br>toast |  
@@ -147,6 +159,18 @@ carbon |
 | bip_39_word_space_7 | that two evoke tornado animal mule bag |  
 | bip_39_word_space_8 | that two evoke tornado animal mule bag saddle |  
 | bip_39_word_space_9 | that two evoke tornado animal mule bag saddle carbon |  
+| bip_39_word_underscore_1 | that |  
+| bip_39_word_underscore_10 | that_two_evoke_tornado_animal_mule_bag_saddle_carbon_include |  
+| bip_39_word_underscore_11 | that_two_evoke_tornado_animal_mule_bag_saddle_carbon_include_toast |  
+| bip_39_word_underscore_12 | that_two_evoke_tornado_animal_mule_bag_saddle_carbon_include_toast_angry |  
+| bip_39_word_underscore_2 | that_two |  
+| bip_39_word_underscore_3 | that_two_evoke |  
+| bip_39_word_underscore_4 | that_two_evoke_tornado |  
+| bip_39_word_underscore_5 | that_two_evoke_tornado_animal |  
+| bip_39_word_underscore_6 | that_two_evoke_tornado_animal_mule |  
+| bip_39_word_underscore_7 | that_two_evoke_tornado_animal_mule_bag |  
+| bip_39_word_underscore_8 | that_two_evoke_tornado_animal_mule_bag_saddle |  
+| bip_39_word_underscore_9 | that_two_evoke_tornado_animal_mule_bag_saddle_carbon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

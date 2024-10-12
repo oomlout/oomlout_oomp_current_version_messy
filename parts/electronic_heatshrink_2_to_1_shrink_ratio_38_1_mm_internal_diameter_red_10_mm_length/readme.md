@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | echo |  
+| bip_39_word_dash_10 | echo-debris-text-window-fetch-purpose-tattoo-high-coil-army |  
+| bip_39_word_dash_11 | echo-debris-text-window-fetch-purpose-tattoo-high-coil-army-sister |  
+| bip_39_word_dash_12 | echo-debris-text-window-fetch-purpose-tattoo-high-coil-army-sister-arrow |  
+| bip_39_word_dash_2 | echo-debris |  
+| bip_39_word_dash_3 | echo-debris-text |  
+| bip_39_word_dash_4 | echo-debris-text-window |  
+| bip_39_word_dash_5 | echo-debris-text-window-fetch |  
+| bip_39_word_dash_6 | echo-debris-text-window-fetch-purpose |  
+| bip_39_word_dash_7 | echo-debris-text-window-fetch-purpose-tattoo |  
+| bip_39_word_dash_8 | echo-debris-text-window-fetch-purpose-tattoo-high |  
+| bip_39_word_dash_9 | echo-debris-text-window-fetch-purpose-tattoo-high-coil |  
 | bip_39_word_new_br_1 | echo |  
 | bip_39_word_new_br_10 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army |  
 | bip_39_word_new_br_11 | echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army<br>sister |  
@@ -147,6 +159,18 @@ coil |
 | bip_39_word_space_7 | echo debris text window fetch purpose tattoo |  
 | bip_39_word_space_8 | echo debris text window fetch purpose tattoo high |  
 | bip_39_word_space_9 | echo debris text window fetch purpose tattoo high coil |  
+| bip_39_word_underscore_1 | echo |  
+| bip_39_word_underscore_10 | echo_debris_text_window_fetch_purpose_tattoo_high_coil_army |  
+| bip_39_word_underscore_11 | echo_debris_text_window_fetch_purpose_tattoo_high_coil_army_sister |  
+| bip_39_word_underscore_12 | echo_debris_text_window_fetch_purpose_tattoo_high_coil_army_sister_arrow |  
+| bip_39_word_underscore_2 | echo_debris |  
+| bip_39_word_underscore_3 | echo_debris_text |  
+| bip_39_word_underscore_4 | echo_debris_text_window |  
+| bip_39_word_underscore_5 | echo_debris_text_window_fetch |  
+| bip_39_word_underscore_6 | echo_debris_text_window_fetch_purpose |  
+| bip_39_word_underscore_7 | echo_debris_text_window_fetch_purpose_tattoo |  
+| bip_39_word_underscore_8 | echo_debris_text_window_fetch_purpose_tattoo_high |  
+| bip_39_word_underscore_9 | echo_debris_text_window_fetch_purpose_tattoo_high_coil |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

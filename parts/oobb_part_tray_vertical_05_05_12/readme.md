@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frog |  
+| bip_39_word_dash_10 | frog-burden-bulb-thunder-veteran-orphan-share-crouch-group-quarter |  
+| bip_39_word_dash_11 | frog-burden-bulb-thunder-veteran-orphan-share-crouch-group-quarter-cancel |  
+| bip_39_word_dash_12 | frog-burden-bulb-thunder-veteran-orphan-share-crouch-group-quarter-cancel-attitude |  
+| bip_39_word_dash_2 | frog-burden |  
+| bip_39_word_dash_3 | frog-burden-bulb |  
+| bip_39_word_dash_4 | frog-burden-bulb-thunder |  
+| bip_39_word_dash_5 | frog-burden-bulb-thunder-veteran |  
+| bip_39_word_dash_6 | frog-burden-bulb-thunder-veteran-orphan |  
+| bip_39_word_dash_7 | frog-burden-bulb-thunder-veteran-orphan-share |  
+| bip_39_word_dash_8 | frog-burden-bulb-thunder-veteran-orphan-share-crouch |  
+| bip_39_word_dash_9 | frog-burden-bulb-thunder-veteran-orphan-share-crouch-group |  
 | bip_39_word_new_br_1 | frog |  
 | bip_39_word_new_br_10 | frog<br>burden<br>bulb<br>thunder<br>veteran<br>orphan<br>share<br>crouch<br>group<br>quarter |  
 | bip_39_word_new_br_11 | frog<br>burden<br>bulb<br>thunder<br>veteran<br>orphan<br>share<br>crouch<br>group<br>quarter<br>cancel |  
@@ -147,6 +159,18 @@ group |
 | bip_39_word_space_7 | frog burden bulb thunder veteran orphan share |  
 | bip_39_word_space_8 | frog burden bulb thunder veteran orphan share crouch |  
 | bip_39_word_space_9 | frog burden bulb thunder veteran orphan share crouch group |  
+| bip_39_word_underscore_1 | frog |  
+| bip_39_word_underscore_10 | frog_burden_bulb_thunder_veteran_orphan_share_crouch_group_quarter |  
+| bip_39_word_underscore_11 | frog_burden_bulb_thunder_veteran_orphan_share_crouch_group_quarter_cancel |  
+| bip_39_word_underscore_12 | frog_burden_bulb_thunder_veteran_orphan_share_crouch_group_quarter_cancel_attitude |  
+| bip_39_word_underscore_2 | frog_burden |  
+| bip_39_word_underscore_3 | frog_burden_bulb |  
+| bip_39_word_underscore_4 | frog_burden_bulb_thunder |  
+| bip_39_word_underscore_5 | frog_burden_bulb_thunder_veteran |  
+| bip_39_word_underscore_6 | frog_burden_bulb_thunder_veteran_orphan |  
+| bip_39_word_underscore_7 | frog_burden_bulb_thunder_veteran_orphan_share |  
+| bip_39_word_underscore_8 | frog_burden_bulb_thunder_veteran_orphan_share_crouch |  
+| bip_39_word_underscore_9 | frog_burden_bulb_thunder_veteran_orphan_share_crouch_group |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

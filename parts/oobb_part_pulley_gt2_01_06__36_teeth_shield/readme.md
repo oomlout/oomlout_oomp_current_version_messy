@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | over |  
+| bip_39_word_dash_10 | over-taste-damp-lift-draft-great-quality-narrow-alter-knife |  
+| bip_39_word_dash_11 | over-taste-damp-lift-draft-great-quality-narrow-alter-knife-record |  
+| bip_39_word_dash_12 | over-taste-damp-lift-draft-great-quality-narrow-alter-knife-record-absorb |  
+| bip_39_word_dash_2 | over-taste |  
+| bip_39_word_dash_3 | over-taste-damp |  
+| bip_39_word_dash_4 | over-taste-damp-lift |  
+| bip_39_word_dash_5 | over-taste-damp-lift-draft |  
+| bip_39_word_dash_6 | over-taste-damp-lift-draft-great |  
+| bip_39_word_dash_7 | over-taste-damp-lift-draft-great-quality |  
+| bip_39_word_dash_8 | over-taste-damp-lift-draft-great-quality-narrow |  
+| bip_39_word_dash_9 | over-taste-damp-lift-draft-great-quality-narrow-alter |  
 | bip_39_word_new_br_1 | over |  
 | bip_39_word_new_br_10 | over<br>taste<br>damp<br>lift<br>draft<br>great<br>quality<br>narrow<br>alter<br>knife |  
 | bip_39_word_new_br_11 | over<br>taste<br>damp<br>lift<br>draft<br>great<br>quality<br>narrow<br>alter<br>knife<br>record |  
@@ -147,6 +159,18 @@ alter |
 | bip_39_word_space_7 | over taste damp lift draft great quality |  
 | bip_39_word_space_8 | over taste damp lift draft great quality narrow |  
 | bip_39_word_space_9 | over taste damp lift draft great quality narrow alter |  
+| bip_39_word_underscore_1 | over |  
+| bip_39_word_underscore_10 | over_taste_damp_lift_draft_great_quality_narrow_alter_knife |  
+| bip_39_word_underscore_11 | over_taste_damp_lift_draft_great_quality_narrow_alter_knife_record |  
+| bip_39_word_underscore_12 | over_taste_damp_lift_draft_great_quality_narrow_alter_knife_record_absorb |  
+| bip_39_word_underscore_2 | over_taste |  
+| bip_39_word_underscore_3 | over_taste_damp |  
+| bip_39_word_underscore_4 | over_taste_damp_lift |  
+| bip_39_word_underscore_5 | over_taste_damp_lift_draft |  
+| bip_39_word_underscore_6 | over_taste_damp_lift_draft_great |  
+| bip_39_word_underscore_7 | over_taste_damp_lift_draft_great_quality |  
+| bip_39_word_underscore_8 | over_taste_damp_lift_draft_great_quality_narrow |  
+| bip_39_word_underscore_9 | over_taste_damp_lift_draft_great_quality_narrow_alter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

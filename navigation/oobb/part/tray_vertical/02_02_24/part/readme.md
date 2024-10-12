@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | parrot |  
+| bip_39_word_dash_10 | parrot-scatter-penalty-develop-cruel-auction-flavor-thank-require-already |  
+| bip_39_word_dash_11 | parrot-scatter-penalty-develop-cruel-auction-flavor-thank-require-already-matter |  
+| bip_39_word_dash_12 | parrot-scatter-penalty-develop-cruel-auction-flavor-thank-require-already-matter-anxiety |  
+| bip_39_word_dash_2 | parrot-scatter |  
+| bip_39_word_dash_3 | parrot-scatter-penalty |  
+| bip_39_word_dash_4 | parrot-scatter-penalty-develop |  
+| bip_39_word_dash_5 | parrot-scatter-penalty-develop-cruel |  
+| bip_39_word_dash_6 | parrot-scatter-penalty-develop-cruel-auction |  
+| bip_39_word_dash_7 | parrot-scatter-penalty-develop-cruel-auction-flavor |  
+| bip_39_word_dash_8 | parrot-scatter-penalty-develop-cruel-auction-flavor-thank |  
+| bip_39_word_dash_9 | parrot-scatter-penalty-develop-cruel-auction-flavor-thank-require |  
 | bip_39_word_new_br_1 | parrot |  
 | bip_39_word_new_br_10 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank<br>require<br>already |  
 | bip_39_word_new_br_11 | parrot<br>scatter<br>penalty<br>develop<br>cruel<br>auction<br>flavor<br>thank<br>require<br>already<br>matter |  
@@ -147,6 +159,18 @@ require |
 | bip_39_word_space_7 | parrot scatter penalty develop cruel auction flavor |  
 | bip_39_word_space_8 | parrot scatter penalty develop cruel auction flavor thank |  
 | bip_39_word_space_9 | parrot scatter penalty develop cruel auction flavor thank require |  
+| bip_39_word_underscore_1 | parrot |  
+| bip_39_word_underscore_10 | parrot_scatter_penalty_develop_cruel_auction_flavor_thank_require_already |  
+| bip_39_word_underscore_11 | parrot_scatter_penalty_develop_cruel_auction_flavor_thank_require_already_matter |  
+| bip_39_word_underscore_12 | parrot_scatter_penalty_develop_cruel_auction_flavor_thank_require_already_matter_anxiety |  
+| bip_39_word_underscore_2 | parrot_scatter |  
+| bip_39_word_underscore_3 | parrot_scatter_penalty |  
+| bip_39_word_underscore_4 | parrot_scatter_penalty_develop |  
+| bip_39_word_underscore_5 | parrot_scatter_penalty_develop_cruel |  
+| bip_39_word_underscore_6 | parrot_scatter_penalty_develop_cruel_auction |  
+| bip_39_word_underscore_7 | parrot_scatter_penalty_develop_cruel_auction_flavor |  
+| bip_39_word_underscore_8 | parrot_scatter_penalty_develop_cruel_auction_flavor_thank |  
+| bip_39_word_underscore_9 | parrot_scatter_penalty_develop_cruel_auction_flavor_thank_require |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

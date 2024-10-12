@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pipe |  
+| bip_39_word_dash_10 | pipe-sausage-quit-badge-cup-guide-make-fix-absorb-combine |  
+| bip_39_word_dash_11 | pipe-sausage-quit-badge-cup-guide-make-fix-absorb-combine-surge |  
+| bip_39_word_dash_12 | pipe-sausage-quit-badge-cup-guide-make-fix-absorb-combine-surge-animal |  
+| bip_39_word_dash_2 | pipe-sausage |  
+| bip_39_word_dash_3 | pipe-sausage-quit |  
+| bip_39_word_dash_4 | pipe-sausage-quit-badge |  
+| bip_39_word_dash_5 | pipe-sausage-quit-badge-cup |  
+| bip_39_word_dash_6 | pipe-sausage-quit-badge-cup-guide |  
+| bip_39_word_dash_7 | pipe-sausage-quit-badge-cup-guide-make |  
+| bip_39_word_dash_8 | pipe-sausage-quit-badge-cup-guide-make-fix |  
+| bip_39_word_dash_9 | pipe-sausage-quit-badge-cup-guide-make-fix-absorb |  
 | bip_39_word_new_br_1 | pipe |  
 | bip_39_word_new_br_10 | pipe<br>sausage<br>quit<br>badge<br>cup<br>guide<br>make<br>fix<br>absorb<br>combine |  
 | bip_39_word_new_br_11 | pipe<br>sausage<br>quit<br>badge<br>cup<br>guide<br>make<br>fix<br>absorb<br>combine<br>surge |  
@@ -147,6 +159,18 @@ absorb |
 | bip_39_word_space_7 | pipe sausage quit badge cup guide make |  
 | bip_39_word_space_8 | pipe sausage quit badge cup guide make fix |  
 | bip_39_word_space_9 | pipe sausage quit badge cup guide make fix absorb |  
+| bip_39_word_underscore_1 | pipe |  
+| bip_39_word_underscore_10 | pipe_sausage_quit_badge_cup_guide_make_fix_absorb_combine |  
+| bip_39_word_underscore_11 | pipe_sausage_quit_badge_cup_guide_make_fix_absorb_combine_surge |  
+| bip_39_word_underscore_12 | pipe_sausage_quit_badge_cup_guide_make_fix_absorb_combine_surge_animal |  
+| bip_39_word_underscore_2 | pipe_sausage |  
+| bip_39_word_underscore_3 | pipe_sausage_quit |  
+| bip_39_word_underscore_4 | pipe_sausage_quit_badge |  
+| bip_39_word_underscore_5 | pipe_sausage_quit_badge_cup |  
+| bip_39_word_underscore_6 | pipe_sausage_quit_badge_cup_guide |  
+| bip_39_word_underscore_7 | pipe_sausage_quit_badge_cup_guide_make |  
+| bip_39_word_underscore_8 | pipe_sausage_quit_badge_cup_guide_make_fix |  
+| bip_39_word_underscore_9 | pipe_sausage_quit_badge_cup_guide_make_fix_absorb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

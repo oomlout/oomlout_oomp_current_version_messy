@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diamond |  
+| bip_39_word_dash_10 | diamond-suffer-donor-zebra-buyer-abstract-uniform-capital-spatial-bubble |  
+| bip_39_word_dash_11 | diamond-suffer-donor-zebra-buyer-abstract-uniform-capital-spatial-bubble-found |  
+| bip_39_word_dash_12 | diamond-suffer-donor-zebra-buyer-abstract-uniform-capital-spatial-bubble-found-air |  
+| bip_39_word_dash_2 | diamond-suffer |  
+| bip_39_word_dash_3 | diamond-suffer-donor |  
+| bip_39_word_dash_4 | diamond-suffer-donor-zebra |  
+| bip_39_word_dash_5 | diamond-suffer-donor-zebra-buyer |  
+| bip_39_word_dash_6 | diamond-suffer-donor-zebra-buyer-abstract |  
+| bip_39_word_dash_7 | diamond-suffer-donor-zebra-buyer-abstract-uniform |  
+| bip_39_word_dash_8 | diamond-suffer-donor-zebra-buyer-abstract-uniform-capital |  
+| bip_39_word_dash_9 | diamond-suffer-donor-zebra-buyer-abstract-uniform-capital-spatial |  
 | bip_39_word_new_br_1 | diamond |  
 | bip_39_word_new_br_10 | diamond<br>suffer<br>donor<br>zebra<br>buyer<br>abstract<br>uniform<br>capital<br>spatial<br>bubble |  
 | bip_39_word_new_br_11 | diamond<br>suffer<br>donor<br>zebra<br>buyer<br>abstract<br>uniform<br>capital<br>spatial<br>bubble<br>found |  
@@ -147,6 +159,18 @@ spatial |
 | bip_39_word_space_7 | diamond suffer donor zebra buyer abstract uniform |  
 | bip_39_word_space_8 | diamond suffer donor zebra buyer abstract uniform capital |  
 | bip_39_word_space_9 | diamond suffer donor zebra buyer abstract uniform capital spatial |  
+| bip_39_word_underscore_1 | diamond |  
+| bip_39_word_underscore_10 | diamond_suffer_donor_zebra_buyer_abstract_uniform_capital_spatial_bubble |  
+| bip_39_word_underscore_11 | diamond_suffer_donor_zebra_buyer_abstract_uniform_capital_spatial_bubble_found |  
+| bip_39_word_underscore_12 | diamond_suffer_donor_zebra_buyer_abstract_uniform_capital_spatial_bubble_found_air |  
+| bip_39_word_underscore_2 | diamond_suffer |  
+| bip_39_word_underscore_3 | diamond_suffer_donor |  
+| bip_39_word_underscore_4 | diamond_suffer_donor_zebra |  
+| bip_39_word_underscore_5 | diamond_suffer_donor_zebra_buyer |  
+| bip_39_word_underscore_6 | diamond_suffer_donor_zebra_buyer_abstract |  
+| bip_39_word_underscore_7 | diamond_suffer_donor_zebra_buyer_abstract_uniform |  
+| bip_39_word_underscore_8 | diamond_suffer_donor_zebra_buyer_abstract_uniform_capital |  
+| bip_39_word_underscore_9 | diamond_suffer_donor_zebra_buyer_abstract_uniform_capital_spatial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

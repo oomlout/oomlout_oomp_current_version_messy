@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cram |  
+| bip_39_word_dash_10 | cram-net-dress-april-humble-bracket-special-bicycle-round-engage |  
+| bip_39_word_dash_11 | cram-net-dress-april-humble-bracket-special-bicycle-round-engage-add |  
+| bip_39_word_dash_12 | cram-net-dress-april-humble-bracket-special-bicycle-round-engage-add-around |  
+| bip_39_word_dash_2 | cram-net |  
+| bip_39_word_dash_3 | cram-net-dress |  
+| bip_39_word_dash_4 | cram-net-dress-april |  
+| bip_39_word_dash_5 | cram-net-dress-april-humble |  
+| bip_39_word_dash_6 | cram-net-dress-april-humble-bracket |  
+| bip_39_word_dash_7 | cram-net-dress-april-humble-bracket-special |  
+| bip_39_word_dash_8 | cram-net-dress-april-humble-bracket-special-bicycle |  
+| bip_39_word_dash_9 | cram-net-dress-april-humble-bracket-special-bicycle-round |  
 | bip_39_word_new_br_1 | cram |  
 | bip_39_word_new_br_10 | cram<br>net<br>dress<br>april<br>humble<br>bracket<br>special<br>bicycle<br>round<br>engage |  
 | bip_39_word_new_br_11 | cram<br>net<br>dress<br>april<br>humble<br>bracket<br>special<br>bicycle<br>round<br>engage<br>add |  
@@ -147,6 +159,18 @@ round |
 | bip_39_word_space_7 | cram net dress april humble bracket special |  
 | bip_39_word_space_8 | cram net dress april humble bracket special bicycle |  
 | bip_39_word_space_9 | cram net dress april humble bracket special bicycle round |  
+| bip_39_word_underscore_1 | cram |  
+| bip_39_word_underscore_10 | cram_net_dress_april_humble_bracket_special_bicycle_round_engage |  
+| bip_39_word_underscore_11 | cram_net_dress_april_humble_bracket_special_bicycle_round_engage_add |  
+| bip_39_word_underscore_12 | cram_net_dress_april_humble_bracket_special_bicycle_round_engage_add_around |  
+| bip_39_word_underscore_2 | cram_net |  
+| bip_39_word_underscore_3 | cram_net_dress |  
+| bip_39_word_underscore_4 | cram_net_dress_april |  
+| bip_39_word_underscore_5 | cram_net_dress_april_humble |  
+| bip_39_word_underscore_6 | cram_net_dress_april_humble_bracket |  
+| bip_39_word_underscore_7 | cram_net_dress_april_humble_bracket_special |  
+| bip_39_word_underscore_8 | cram_net_dress_april_humble_bracket_special_bicycle |  
+| bip_39_word_underscore_9 | cram_net_dress_april_humble_bracket_special_bicycle_round |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

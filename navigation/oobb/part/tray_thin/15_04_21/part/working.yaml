@@ -1,3 +1,15 @@
+bip_39_word_dash_1: burst
+bip_39_word_dash_10: burst-shine-empower-exist-habit-second-roast-betray-correct-thrive
+bip_39_word_dash_11: burst-shine-empower-exist-habit-second-roast-betray-correct-thrive-jazz
+bip_39_word_dash_12: burst-shine-empower-exist-habit-second-roast-betray-correct-thrive-jazz-annual
+bip_39_word_dash_2: burst-shine
+bip_39_word_dash_3: burst-shine-empower
+bip_39_word_dash_4: burst-shine-empower-exist
+bip_39_word_dash_5: burst-shine-empower-exist-habit
+bip_39_word_dash_6: burst-shine-empower-exist-habit-second
+bip_39_word_dash_7: burst-shine-empower-exist-habit-second-roast
+bip_39_word_dash_8: burst-shine-empower-exist-habit-second-roast-betray
+bip_39_word_dash_9: burst-shine-empower-exist-habit-second-roast-betray-correct
 bip_39_word_new_br_1: burst
 bip_39_word_new_br_10: burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive
 bip_39_word_new_br_11: burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive<br>jazz
@@ -194,6 +206,18 @@ bip_39_word_space_6: burst shine empower exist habit second
 bip_39_word_space_7: burst shine empower exist habit second roast
 bip_39_word_space_8: burst shine empower exist habit second roast betray
 bip_39_word_space_9: burst shine empower exist habit second roast betray correct
+bip_39_word_underscore_1: burst
+bip_39_word_underscore_10: burst_shine_empower_exist_habit_second_roast_betray_correct_thrive
+bip_39_word_underscore_11: burst_shine_empower_exist_habit_second_roast_betray_correct_thrive_jazz
+bip_39_word_underscore_12: burst_shine_empower_exist_habit_second_roast_betray_correct_thrive_jazz_annual
+bip_39_word_underscore_2: burst_shine
+bip_39_word_underscore_3: burst_shine_empower
+bip_39_word_underscore_4: burst_shine_empower_exist
+bip_39_word_underscore_5: burst_shine_empower_exist_habit
+bip_39_word_underscore_6: burst_shine_empower_exist_habit_second
+bip_39_word_underscore_7: burst_shine_empower_exist_habit_second_roast
+bip_39_word_underscore_8: burst_shine_empower_exist_habit_second_roast_betray
+bip_39_word_underscore_9: burst_shine_empower_exist_habit_second_roast_betray_correct
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

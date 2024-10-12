@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bind |  
+| bip_39_word_dash_10 | bind-atom-culture-walk-skin-sister-maze-add-sell-silk |  
+| bip_39_word_dash_11 | bind-atom-culture-walk-skin-sister-maze-add-sell-silk-thrive |  
+| bip_39_word_dash_12 | bind-atom-culture-walk-skin-sister-maze-add-sell-silk-thrive-appear |  
+| bip_39_word_dash_2 | bind-atom |  
+| bip_39_word_dash_3 | bind-atom-culture |  
+| bip_39_word_dash_4 | bind-atom-culture-walk |  
+| bip_39_word_dash_5 | bind-atom-culture-walk-skin |  
+| bip_39_word_dash_6 | bind-atom-culture-walk-skin-sister |  
+| bip_39_word_dash_7 | bind-atom-culture-walk-skin-sister-maze |  
+| bip_39_word_dash_8 | bind-atom-culture-walk-skin-sister-maze-add |  
+| bip_39_word_dash_9 | bind-atom-culture-walk-skin-sister-maze-add-sell |  
 | bip_39_word_new_br_1 | bind |  
 | bip_39_word_new_br_10 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk |  
 | bip_39_word_new_br_11 | bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk<br>thrive |  
@@ -147,6 +159,18 @@ sell |
 | bip_39_word_space_7 | bind atom culture walk skin sister maze |  
 | bip_39_word_space_8 | bind atom culture walk skin sister maze add |  
 | bip_39_word_space_9 | bind atom culture walk skin sister maze add sell |  
+| bip_39_word_underscore_1 | bind |  
+| bip_39_word_underscore_10 | bind_atom_culture_walk_skin_sister_maze_add_sell_silk |  
+| bip_39_word_underscore_11 | bind_atom_culture_walk_skin_sister_maze_add_sell_silk_thrive |  
+| bip_39_word_underscore_12 | bind_atom_culture_walk_skin_sister_maze_add_sell_silk_thrive_appear |  
+| bip_39_word_underscore_2 | bind_atom |  
+| bip_39_word_underscore_3 | bind_atom_culture |  
+| bip_39_word_underscore_4 | bind_atom_culture_walk |  
+| bip_39_word_underscore_5 | bind_atom_culture_walk_skin |  
+| bip_39_word_underscore_6 | bind_atom_culture_walk_skin_sister |  
+| bip_39_word_underscore_7 | bind_atom_culture_walk_skin_sister_maze |  
+| bip_39_word_underscore_8 | bind_atom_culture_walk_skin_sister_maze_add |  
+| bip_39_word_underscore_9 | bind_atom_culture_walk_skin_sister_maze_add_sell |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

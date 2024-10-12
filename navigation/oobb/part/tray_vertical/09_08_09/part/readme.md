@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | impulse |  
+| bip_39_word_dash_10 | impulse-found-fuel-announce-trend-click-fine-illness-say-dune |  
+| bip_39_word_dash_11 | impulse-found-fuel-announce-trend-click-fine-illness-say-dune-horn |  
+| bip_39_word_dash_12 | impulse-found-fuel-announce-trend-click-fine-illness-say-dune-horn-aerobic |  
+| bip_39_word_dash_2 | impulse-found |  
+| bip_39_word_dash_3 | impulse-found-fuel |  
+| bip_39_word_dash_4 | impulse-found-fuel-announce |  
+| bip_39_word_dash_5 | impulse-found-fuel-announce-trend |  
+| bip_39_word_dash_6 | impulse-found-fuel-announce-trend-click |  
+| bip_39_word_dash_7 | impulse-found-fuel-announce-trend-click-fine |  
+| bip_39_word_dash_8 | impulse-found-fuel-announce-trend-click-fine-illness |  
+| bip_39_word_dash_9 | impulse-found-fuel-announce-trend-click-fine-illness-say |  
 | bip_39_word_new_br_1 | impulse |  
 | bip_39_word_new_br_10 | impulse<br>found<br>fuel<br>announce<br>trend<br>click<br>fine<br>illness<br>say<br>dune |  
 | bip_39_word_new_br_11 | impulse<br>found<br>fuel<br>announce<br>trend<br>click<br>fine<br>illness<br>say<br>dune<br>horn |  
@@ -147,6 +159,18 @@ say |
 | bip_39_word_space_7 | impulse found fuel announce trend click fine |  
 | bip_39_word_space_8 | impulse found fuel announce trend click fine illness |  
 | bip_39_word_space_9 | impulse found fuel announce trend click fine illness say |  
+| bip_39_word_underscore_1 | impulse |  
+| bip_39_word_underscore_10 | impulse_found_fuel_announce_trend_click_fine_illness_say_dune |  
+| bip_39_word_underscore_11 | impulse_found_fuel_announce_trend_click_fine_illness_say_dune_horn |  
+| bip_39_word_underscore_12 | impulse_found_fuel_announce_trend_click_fine_illness_say_dune_horn_aerobic |  
+| bip_39_word_underscore_2 | impulse_found |  
+| bip_39_word_underscore_3 | impulse_found_fuel |  
+| bip_39_word_underscore_4 | impulse_found_fuel_announce |  
+| bip_39_word_underscore_5 | impulse_found_fuel_announce_trend |  
+| bip_39_word_underscore_6 | impulse_found_fuel_announce_trend_click |  
+| bip_39_word_underscore_7 | impulse_found_fuel_announce_trend_click_fine |  
+| bip_39_word_underscore_8 | impulse_found_fuel_announce_trend_click_fine_illness |  
+| bip_39_word_underscore_9 | impulse_found_fuel_announce_trend_click_fine_illness_say |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

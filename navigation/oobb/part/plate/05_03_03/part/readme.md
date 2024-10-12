@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ugly |  
+| bip_39_word_dash_10 | ugly-hospital-rug-renew-wheat-stairs-castle-scout-ill-head |  
+| bip_39_word_dash_11 | ugly-hospital-rug-renew-wheat-stairs-castle-scout-ill-head-explain |  
+| bip_39_word_dash_12 | ugly-hospital-rug-renew-wheat-stairs-castle-scout-ill-head-explain-absurd |  
+| bip_39_word_dash_2 | ugly-hospital |  
+| bip_39_word_dash_3 | ugly-hospital-rug |  
+| bip_39_word_dash_4 | ugly-hospital-rug-renew |  
+| bip_39_word_dash_5 | ugly-hospital-rug-renew-wheat |  
+| bip_39_word_dash_6 | ugly-hospital-rug-renew-wheat-stairs |  
+| bip_39_word_dash_7 | ugly-hospital-rug-renew-wheat-stairs-castle |  
+| bip_39_word_dash_8 | ugly-hospital-rug-renew-wheat-stairs-castle-scout |  
+| bip_39_word_dash_9 | ugly-hospital-rug-renew-wheat-stairs-castle-scout-ill |  
 | bip_39_word_new_br_1 | ugly |  
 | bip_39_word_new_br_10 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout<br>ill<br>head |  
 | bip_39_word_new_br_11 | ugly<br>hospital<br>rug<br>renew<br>wheat<br>stairs<br>castle<br>scout<br>ill<br>head<br>explain |  
@@ -147,6 +159,18 @@ ill |
 | bip_39_word_space_7 | ugly hospital rug renew wheat stairs castle |  
 | bip_39_word_space_8 | ugly hospital rug renew wheat stairs castle scout |  
 | bip_39_word_space_9 | ugly hospital rug renew wheat stairs castle scout ill |  
+| bip_39_word_underscore_1 | ugly |  
+| bip_39_word_underscore_10 | ugly_hospital_rug_renew_wheat_stairs_castle_scout_ill_head |  
+| bip_39_word_underscore_11 | ugly_hospital_rug_renew_wheat_stairs_castle_scout_ill_head_explain |  
+| bip_39_word_underscore_12 | ugly_hospital_rug_renew_wheat_stairs_castle_scout_ill_head_explain_absurd |  
+| bip_39_word_underscore_2 | ugly_hospital |  
+| bip_39_word_underscore_3 | ugly_hospital_rug |  
+| bip_39_word_underscore_4 | ugly_hospital_rug_renew |  
+| bip_39_word_underscore_5 | ugly_hospital_rug_renew_wheat |  
+| bip_39_word_underscore_6 | ugly_hospital_rug_renew_wheat_stairs |  
+| bip_39_word_underscore_7 | ugly_hospital_rug_renew_wheat_stairs_castle |  
+| bip_39_word_underscore_8 | ugly_hospital_rug_renew_wheat_stairs_castle_scout |  
+| bip_39_word_underscore_9 | ugly_hospital_rug_renew_wheat_stairs_castle_scout_ill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

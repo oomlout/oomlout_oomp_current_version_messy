@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | setup |  
+| bip_39_word_dash_10 | setup-scale-what-torch-sister-feel-wrap-acid-this-toast |  
+| bip_39_word_dash_11 | setup-scale-what-torch-sister-feel-wrap-acid-this-toast-fold |  
+| bip_39_word_dash_2 | setup-scale |  
+| bip_39_word_dash_3 | setup-scale-what |  
+| bip_39_word_dash_4 | setup-scale-what-torch |  
+| bip_39_word_dash_5 | setup-scale-what-torch-sister |  
+| bip_39_word_dash_6 | setup-scale-what-torch-sister-feel |  
+| bip_39_word_dash_7 | setup-scale-what-torch-sister-feel-wrap |  
+| bip_39_word_dash_8 | setup-scale-what-torch-sister-feel-wrap-acid |  
+| bip_39_word_dash_9 | setup-scale-what-torch-sister-feel-wrap-acid-this |  
 | bip_39_word_new_br_1 | setup |  
 | bip_39_word_new_br_10 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this<br>toast |  
 | bip_39_word_new_br_11 | setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this<br>toast<br>fold |  
@@ -132,6 +143,17 @@ this |
 | bip_39_word_space_7 | setup scale what torch sister feel wrap |  
 | bip_39_word_space_8 | setup scale what torch sister feel wrap acid |  
 | bip_39_word_space_9 | setup scale what torch sister feel wrap acid this |  
+| bip_39_word_underscore_1 | setup |  
+| bip_39_word_underscore_10 | setup_scale_what_torch_sister_feel_wrap_acid_this_toast |  
+| bip_39_word_underscore_11 | setup_scale_what_torch_sister_feel_wrap_acid_this_toast_fold |  
+| bip_39_word_underscore_2 | setup_scale |  
+| bip_39_word_underscore_3 | setup_scale_what |  
+| bip_39_word_underscore_4 | setup_scale_what_torch |  
+| bip_39_word_underscore_5 | setup_scale_what_torch_sister |  
+| bip_39_word_underscore_6 | setup_scale_what_torch_sister_feel |  
+| bip_39_word_underscore_7 | setup_scale_what_torch_sister_feel_wrap |  
+| bip_39_word_underscore_8 | setup_scale_what_torch_sister_feel_wrap_acid |  
+| bip_39_word_underscore_9 | setup_scale_what_torch_sister_feel_wrap_acid_this |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

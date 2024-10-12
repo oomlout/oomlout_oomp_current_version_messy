@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coyote |  
+| bip_39_word_dash_10 | coyote-correct-almost-window-total-almost-tape-frog-crowd-jelly |  
+| bip_39_word_dash_11 | coyote-correct-almost-window-total-almost-tape-frog-crowd-jelly-elbow |  
+| bip_39_word_dash_12 | coyote-correct-almost-window-total-almost-tape-frog-crowd-jelly-elbow-antenna |  
+| bip_39_word_dash_2 | coyote-correct |  
+| bip_39_word_dash_3 | coyote-correct-almost |  
+| bip_39_word_dash_4 | coyote-correct-almost-window |  
+| bip_39_word_dash_5 | coyote-correct-almost-window-total |  
+| bip_39_word_dash_6 | coyote-correct-almost-window-total-almost |  
+| bip_39_word_dash_7 | coyote-correct-almost-window-total-almost-tape |  
+| bip_39_word_dash_8 | coyote-correct-almost-window-total-almost-tape-frog |  
+| bip_39_word_dash_9 | coyote-correct-almost-window-total-almost-tape-frog-crowd |  
 | bip_39_word_new_br_1 | coyote |  
 | bip_39_word_new_br_10 | coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog<br>crowd<br>jelly |  
 | bip_39_word_new_br_11 | coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog<br>crowd<br>jelly<br>elbow |  
@@ -147,6 +159,18 @@ crowd |
 | bip_39_word_space_7 | coyote correct almost window total almost tape |  
 | bip_39_word_space_8 | coyote correct almost window total almost tape frog |  
 | bip_39_word_space_9 | coyote correct almost window total almost tape frog crowd |  
+| bip_39_word_underscore_1 | coyote |  
+| bip_39_word_underscore_10 | coyote_correct_almost_window_total_almost_tape_frog_crowd_jelly |  
+| bip_39_word_underscore_11 | coyote_correct_almost_window_total_almost_tape_frog_crowd_jelly_elbow |  
+| bip_39_word_underscore_12 | coyote_correct_almost_window_total_almost_tape_frog_crowd_jelly_elbow_antenna |  
+| bip_39_word_underscore_2 | coyote_correct |  
+| bip_39_word_underscore_3 | coyote_correct_almost |  
+| bip_39_word_underscore_4 | coyote_correct_almost_window |  
+| bip_39_word_underscore_5 | coyote_correct_almost_window_total |  
+| bip_39_word_underscore_6 | coyote_correct_almost_window_total_almost |  
+| bip_39_word_underscore_7 | coyote_correct_almost_window_total_almost_tape |  
+| bip_39_word_underscore_8 | coyote_correct_almost_window_total_almost_tape_frog |  
+| bip_39_word_underscore_9 | coyote_correct_almost_window_total_almost_tape_frog_crowd |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

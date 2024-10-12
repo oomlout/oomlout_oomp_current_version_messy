@@ -1,3 +1,15 @@
+bip_39_word_dash_1: surge
+bip_39_word_dash_10: surge-cloud-dentist-hollow-endless-wire-bargain-limit-dog-favorite
+bip_39_word_dash_11: surge-cloud-dentist-hollow-endless-wire-bargain-limit-dog-favorite-inch
+bip_39_word_dash_12: surge-cloud-dentist-hollow-endless-wire-bargain-limit-dog-favorite-inch-ankle
+bip_39_word_dash_2: surge-cloud
+bip_39_word_dash_3: surge-cloud-dentist
+bip_39_word_dash_4: surge-cloud-dentist-hollow
+bip_39_word_dash_5: surge-cloud-dentist-hollow-endless
+bip_39_word_dash_6: surge-cloud-dentist-hollow-endless-wire
+bip_39_word_dash_7: surge-cloud-dentist-hollow-endless-wire-bargain
+bip_39_word_dash_8: surge-cloud-dentist-hollow-endless-wire-bargain-limit
+bip_39_word_dash_9: surge-cloud-dentist-hollow-endless-wire-bargain-limit-dog
 bip_39_word_new_br_1: surge
 bip_39_word_new_br_10: surge<br>cloud<br>dentist<br>hollow<br>endless<br>wire<br>bargain<br>limit<br>dog<br>favorite
 bip_39_word_new_br_11: surge<br>cloud<br>dentist<br>hollow<br>endless<br>wire<br>bargain<br>limit<br>dog<br>favorite<br>inch
@@ -193,6 +205,18 @@ bip_39_word_space_6: surge cloud dentist hollow endless wire
 bip_39_word_space_7: surge cloud dentist hollow endless wire bargain
 bip_39_word_space_8: surge cloud dentist hollow endless wire bargain limit
 bip_39_word_space_9: surge cloud dentist hollow endless wire bargain limit dog
+bip_39_word_underscore_1: surge
+bip_39_word_underscore_10: surge_cloud_dentist_hollow_endless_wire_bargain_limit_dog_favorite
+bip_39_word_underscore_11: surge_cloud_dentist_hollow_endless_wire_bargain_limit_dog_favorite_inch
+bip_39_word_underscore_12: surge_cloud_dentist_hollow_endless_wire_bargain_limit_dog_favorite_inch_ankle
+bip_39_word_underscore_2: surge_cloud
+bip_39_word_underscore_3: surge_cloud_dentist
+bip_39_word_underscore_4: surge_cloud_dentist_hollow
+bip_39_word_underscore_5: surge_cloud_dentist_hollow_endless
+bip_39_word_underscore_6: surge_cloud_dentist_hollow_endless_wire
+bip_39_word_underscore_7: surge_cloud_dentist_hollow_endless_wire_bargain
+bip_39_word_underscore_8: surge_cloud_dentist_hollow_endless_wire_bargain_limit
+bip_39_word_underscore_9: surge_cloud_dentist_hollow_endless_wire_bargain_limit_dog
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | word |  
+| bip_39_word_dash_10 | word-ketchup-coast-deer-undo-dice-poverty-number-jaguar-ensure |  
+| bip_39_word_dash_11 | word-ketchup-coast-deer-undo-dice-poverty-number-jaguar-ensure-input |  
+| bip_39_word_dash_12 | word-ketchup-coast-deer-undo-dice-poverty-number-jaguar-ensure-input-angle |  
+| bip_39_word_dash_2 | word-ketchup |  
+| bip_39_word_dash_3 | word-ketchup-coast |  
+| bip_39_word_dash_4 | word-ketchup-coast-deer |  
+| bip_39_word_dash_5 | word-ketchup-coast-deer-undo |  
+| bip_39_word_dash_6 | word-ketchup-coast-deer-undo-dice |  
+| bip_39_word_dash_7 | word-ketchup-coast-deer-undo-dice-poverty |  
+| bip_39_word_dash_8 | word-ketchup-coast-deer-undo-dice-poverty-number |  
+| bip_39_word_dash_9 | word-ketchup-coast-deer-undo-dice-poverty-number-jaguar |  
 | bip_39_word_new_br_1 | word |  
 | bip_39_word_new_br_10 | word<br>ketchup<br>coast<br>deer<br>undo<br>dice<br>poverty<br>number<br>jaguar<br>ensure |  
 | bip_39_word_new_br_11 | word<br>ketchup<br>coast<br>deer<br>undo<br>dice<br>poverty<br>number<br>jaguar<br>ensure<br>input |  
@@ -147,6 +159,18 @@ jaguar |
 | bip_39_word_space_7 | word ketchup coast deer undo dice poverty |  
 | bip_39_word_space_8 | word ketchup coast deer undo dice poverty number |  
 | bip_39_word_space_9 | word ketchup coast deer undo dice poverty number jaguar |  
+| bip_39_word_underscore_1 | word |  
+| bip_39_word_underscore_10 | word_ketchup_coast_deer_undo_dice_poverty_number_jaguar_ensure |  
+| bip_39_word_underscore_11 | word_ketchup_coast_deer_undo_dice_poverty_number_jaguar_ensure_input |  
+| bip_39_word_underscore_12 | word_ketchup_coast_deer_undo_dice_poverty_number_jaguar_ensure_input_angle |  
+| bip_39_word_underscore_2 | word_ketchup |  
+| bip_39_word_underscore_3 | word_ketchup_coast |  
+| bip_39_word_underscore_4 | word_ketchup_coast_deer |  
+| bip_39_word_underscore_5 | word_ketchup_coast_deer_undo |  
+| bip_39_word_underscore_6 | word_ketchup_coast_deer_undo_dice |  
+| bip_39_word_underscore_7 | word_ketchup_coast_deer_undo_dice_poverty |  
+| bip_39_word_underscore_8 | word_ketchup_coast_deer_undo_dice_poverty_number |  
+| bip_39_word_underscore_9 | word_ketchup_coast_deer_undo_dice_poverty_number_jaguar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

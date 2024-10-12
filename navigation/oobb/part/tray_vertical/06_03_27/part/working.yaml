@@ -1,3 +1,15 @@
+bip_39_word_dash_1: result
+bip_39_word_dash_10: result-rescue-alley-true-rose-snow-artist-spread-harvest-travel
+bip_39_word_dash_11: result-rescue-alley-true-rose-snow-artist-spread-harvest-travel-rubber
+bip_39_word_dash_12: result-rescue-alley-true-rose-snow-artist-spread-harvest-travel-rubber-arrive
+bip_39_word_dash_2: result-rescue
+bip_39_word_dash_3: result-rescue-alley
+bip_39_word_dash_4: result-rescue-alley-true
+bip_39_word_dash_5: result-rescue-alley-true-rose
+bip_39_word_dash_6: result-rescue-alley-true-rose-snow
+bip_39_word_dash_7: result-rescue-alley-true-rose-snow-artist
+bip_39_word_dash_8: result-rescue-alley-true-rose-snow-artist-spread
+bip_39_word_dash_9: result-rescue-alley-true-rose-snow-artist-spread-harvest
 bip_39_word_new_br_1: result
 bip_39_word_new_br_10: result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel
 bip_39_word_new_br_11: result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel<br>rubber
@@ -193,6 +205,18 @@ bip_39_word_space_6: result rescue alley true rose snow
 bip_39_word_space_7: result rescue alley true rose snow artist
 bip_39_word_space_8: result rescue alley true rose snow artist spread
 bip_39_word_space_9: result rescue alley true rose snow artist spread harvest
+bip_39_word_underscore_1: result
+bip_39_word_underscore_10: result_rescue_alley_true_rose_snow_artist_spread_harvest_travel
+bip_39_word_underscore_11: result_rescue_alley_true_rose_snow_artist_spread_harvest_travel_rubber
+bip_39_word_underscore_12: result_rescue_alley_true_rose_snow_artist_spread_harvest_travel_rubber_arrive
+bip_39_word_underscore_2: result_rescue
+bip_39_word_underscore_3: result_rescue_alley
+bip_39_word_underscore_4: result_rescue_alley_true
+bip_39_word_underscore_5: result_rescue_alley_true_rose
+bip_39_word_underscore_6: result_rescue_alley_true_rose_snow
+bip_39_word_underscore_7: result_rescue_alley_true_rose_snow_artist
+bip_39_word_underscore_8: result_rescue_alley_true_rose_snow_artist_spread
+bip_39_word_underscore_9: result_rescue_alley_true_rose_snow_artist_spread_harvest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

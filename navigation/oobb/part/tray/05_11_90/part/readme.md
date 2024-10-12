@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | turtle |  
+| bip_39_word_dash_10 | turtle-decrease-option-punch-unfair-invest-caught-hazard-art-equal |  
+| bip_39_word_dash_11 | turtle-decrease-option-punch-unfair-invest-caught-hazard-art-equal-power |  
+| bip_39_word_dash_12 | turtle-decrease-option-punch-unfair-invest-caught-hazard-art-equal-power-acquire |  
+| bip_39_word_dash_2 | turtle-decrease |  
+| bip_39_word_dash_3 | turtle-decrease-option |  
+| bip_39_word_dash_4 | turtle-decrease-option-punch |  
+| bip_39_word_dash_5 | turtle-decrease-option-punch-unfair |  
+| bip_39_word_dash_6 | turtle-decrease-option-punch-unfair-invest |  
+| bip_39_word_dash_7 | turtle-decrease-option-punch-unfair-invest-caught |  
+| bip_39_word_dash_8 | turtle-decrease-option-punch-unfair-invest-caught-hazard |  
+| bip_39_word_dash_9 | turtle-decrease-option-punch-unfair-invest-caught-hazard-art |  
 | bip_39_word_new_br_1 | turtle |  
 | bip_39_word_new_br_10 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal |  
 | bip_39_word_new_br_11 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal<br>power |  
@@ -147,6 +159,18 @@ art |
 | bip_39_word_space_7 | turtle decrease option punch unfair invest caught |  
 | bip_39_word_space_8 | turtle decrease option punch unfair invest caught hazard |  
 | bip_39_word_space_9 | turtle decrease option punch unfair invest caught hazard art |  
+| bip_39_word_underscore_1 | turtle |  
+| bip_39_word_underscore_10 | turtle_decrease_option_punch_unfair_invest_caught_hazard_art_equal |  
+| bip_39_word_underscore_11 | turtle_decrease_option_punch_unfair_invest_caught_hazard_art_equal_power |  
+| bip_39_word_underscore_12 | turtle_decrease_option_punch_unfair_invest_caught_hazard_art_equal_power_acquire |  
+| bip_39_word_underscore_2 | turtle_decrease |  
+| bip_39_word_underscore_3 | turtle_decrease_option |  
+| bip_39_word_underscore_4 | turtle_decrease_option_punch |  
+| bip_39_word_underscore_5 | turtle_decrease_option_punch_unfair |  
+| bip_39_word_underscore_6 | turtle_decrease_option_punch_unfair_invest |  
+| bip_39_word_underscore_7 | turtle_decrease_option_punch_unfair_invest_caught |  
+| bip_39_word_underscore_8 | turtle_decrease_option_punch_unfair_invest_caught_hazard |  
+| bip_39_word_underscore_9 | turtle_decrease_option_punch_unfair_invest_caught_hazard_art |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flame
+bip_39_word_dash_10: flame-athlete-certain-option-arrange-perfect-ignore-warfare-reject-remain
+bip_39_word_dash_11: flame-athlete-certain-option-arrange-perfect-ignore-warfare-reject-remain-wrestle
+bip_39_word_dash_12: flame-athlete-certain-option-arrange-perfect-ignore-warfare-reject-remain-wrestle-avocado
+bip_39_word_dash_2: flame-athlete
+bip_39_word_dash_3: flame-athlete-certain
+bip_39_word_dash_4: flame-athlete-certain-option
+bip_39_word_dash_5: flame-athlete-certain-option-arrange
+bip_39_word_dash_6: flame-athlete-certain-option-arrange-perfect
+bip_39_word_dash_7: flame-athlete-certain-option-arrange-perfect-ignore
+bip_39_word_dash_8: flame-athlete-certain-option-arrange-perfect-ignore-warfare
+bip_39_word_dash_9: flame-athlete-certain-option-arrange-perfect-ignore-warfare-reject
 bip_39_word_new_br_1: flame
 bip_39_word_new_br_10: flame<br>athlete<br>certain<br>option<br>arrange<br>perfect<br>ignore<br>warfare<br>reject<br>remain
 bip_39_word_new_br_11: flame<br>athlete<br>certain<br>option<br>arrange<br>perfect<br>ignore<br>warfare<br>reject<br>remain<br>wrestle
@@ -194,6 +206,18 @@ bip_39_word_space_6: flame athlete certain option arrange perfect
 bip_39_word_space_7: flame athlete certain option arrange perfect ignore
 bip_39_word_space_8: flame athlete certain option arrange perfect ignore warfare
 bip_39_word_space_9: flame athlete certain option arrange perfect ignore warfare reject
+bip_39_word_underscore_1: flame
+bip_39_word_underscore_10: flame_athlete_certain_option_arrange_perfect_ignore_warfare_reject_remain
+bip_39_word_underscore_11: flame_athlete_certain_option_arrange_perfect_ignore_warfare_reject_remain_wrestle
+bip_39_word_underscore_12: flame_athlete_certain_option_arrange_perfect_ignore_warfare_reject_remain_wrestle_avocado
+bip_39_word_underscore_2: flame_athlete
+bip_39_word_underscore_3: flame_athlete_certain
+bip_39_word_underscore_4: flame_athlete_certain_option
+bip_39_word_underscore_5: flame_athlete_certain_option_arrange
+bip_39_word_underscore_6: flame_athlete_certain_option_arrange_perfect
+bip_39_word_underscore_7: flame_athlete_certain_option_arrange_perfect_ignore
+bip_39_word_underscore_8: flame_athlete_certain_option_arrange_perfect_ignore_warfare
+bip_39_word_underscore_9: flame_athlete_certain_option_arrange_perfect_ignore_warfare_reject
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

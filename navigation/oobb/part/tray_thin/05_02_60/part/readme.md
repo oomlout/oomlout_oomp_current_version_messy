@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | snap |  
+| bip_39_word_dash_10 | snap-canyon-indoor-defense-hero-share-effort-budget-together-maximum |  
+| bip_39_word_dash_11 | snap-canyon-indoor-defense-hero-share-effort-budget-together-maximum-flight |  
+| bip_39_word_dash_12 | snap-canyon-indoor-defense-hero-share-effort-budget-together-maximum-flight-aim |  
+| bip_39_word_dash_2 | snap-canyon |  
+| bip_39_word_dash_3 | snap-canyon-indoor |  
+| bip_39_word_dash_4 | snap-canyon-indoor-defense |  
+| bip_39_word_dash_5 | snap-canyon-indoor-defense-hero |  
+| bip_39_word_dash_6 | snap-canyon-indoor-defense-hero-share |  
+| bip_39_word_dash_7 | snap-canyon-indoor-defense-hero-share-effort |  
+| bip_39_word_dash_8 | snap-canyon-indoor-defense-hero-share-effort-budget |  
+| bip_39_word_dash_9 | snap-canyon-indoor-defense-hero-share-effort-budget-together |  
 | bip_39_word_new_br_1 | snap |  
 | bip_39_word_new_br_10 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget<br>together<br>maximum |  
 | bip_39_word_new_br_11 | snap<br>canyon<br>indoor<br>defense<br>hero<br>share<br>effort<br>budget<br>together<br>maximum<br>flight |  
@@ -147,6 +159,18 @@ together |
 | bip_39_word_space_7 | snap canyon indoor defense hero share effort |  
 | bip_39_word_space_8 | snap canyon indoor defense hero share effort budget |  
 | bip_39_word_space_9 | snap canyon indoor defense hero share effort budget together |  
+| bip_39_word_underscore_1 | snap |  
+| bip_39_word_underscore_10 | snap_canyon_indoor_defense_hero_share_effort_budget_together_maximum |  
+| bip_39_word_underscore_11 | snap_canyon_indoor_defense_hero_share_effort_budget_together_maximum_flight |  
+| bip_39_word_underscore_12 | snap_canyon_indoor_defense_hero_share_effort_budget_together_maximum_flight_aim |  
+| bip_39_word_underscore_2 | snap_canyon |  
+| bip_39_word_underscore_3 | snap_canyon_indoor |  
+| bip_39_word_underscore_4 | snap_canyon_indoor_defense |  
+| bip_39_word_underscore_5 | snap_canyon_indoor_defense_hero |  
+| bip_39_word_underscore_6 | snap_canyon_indoor_defense_hero_share |  
+| bip_39_word_underscore_7 | snap_canyon_indoor_defense_hero_share_effort |  
+| bip_39_word_underscore_8 | snap_canyon_indoor_defense_hero_share_effort_budget |  
+| bip_39_word_underscore_9 | snap_canyon_indoor_defense_hero_share_effort_budget_together |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

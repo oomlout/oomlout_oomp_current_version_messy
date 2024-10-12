@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quantum
+bip_39_word_dash_10: quantum-radio-tail-express-chicken-clinic-pride-under-milk-mechanic
+bip_39_word_dash_11: quantum-radio-tail-express-chicken-clinic-pride-under-milk-mechanic-floor
+bip_39_word_dash_12: quantum-radio-tail-express-chicken-clinic-pride-under-milk-mechanic-floor-amazing
+bip_39_word_dash_2: quantum-radio
+bip_39_word_dash_3: quantum-radio-tail
+bip_39_word_dash_4: quantum-radio-tail-express
+bip_39_word_dash_5: quantum-radio-tail-express-chicken
+bip_39_word_dash_6: quantum-radio-tail-express-chicken-clinic
+bip_39_word_dash_7: quantum-radio-tail-express-chicken-clinic-pride
+bip_39_word_dash_8: quantum-radio-tail-express-chicken-clinic-pride-under
+bip_39_word_dash_9: quantum-radio-tail-express-chicken-clinic-pride-under-milk
 bip_39_word_new_br_1: quantum
 bip_39_word_new_br_10: quantum<br>radio<br>tail<br>express<br>chicken<br>clinic<br>pride<br>under<br>milk<br>mechanic
 bip_39_word_new_br_11: quantum<br>radio<br>tail<br>express<br>chicken<br>clinic<br>pride<br>under<br>milk<br>mechanic<br>floor
@@ -193,6 +205,18 @@ bip_39_word_space_6: quantum radio tail express chicken clinic
 bip_39_word_space_7: quantum radio tail express chicken clinic pride
 bip_39_word_space_8: quantum radio tail express chicken clinic pride under
 bip_39_word_space_9: quantum radio tail express chicken clinic pride under milk
+bip_39_word_underscore_1: quantum
+bip_39_word_underscore_10: quantum_radio_tail_express_chicken_clinic_pride_under_milk_mechanic
+bip_39_word_underscore_11: quantum_radio_tail_express_chicken_clinic_pride_under_milk_mechanic_floor
+bip_39_word_underscore_12: quantum_radio_tail_express_chicken_clinic_pride_under_milk_mechanic_floor_amazing
+bip_39_word_underscore_2: quantum_radio
+bip_39_word_underscore_3: quantum_radio_tail
+bip_39_word_underscore_4: quantum_radio_tail_express
+bip_39_word_underscore_5: quantum_radio_tail_express_chicken
+bip_39_word_underscore_6: quantum_radio_tail_express_chicken_clinic
+bip_39_word_underscore_7: quantum_radio_tail_express_chicken_clinic_pride
+bip_39_word_underscore_8: quantum_radio_tail_express_chicken_clinic_pride_under
+bip_39_word_underscore_9: quantum_radio_tail_express_chicken_clinic_pride_under_milk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | able |  
+| bip_39_word_dash_10 | able-voyage-duty-mixture-treat-rose-bulk-reflect-acoustic-mind |  
+| bip_39_word_dash_11 | able-voyage-duty-mixture-treat-rose-bulk-reflect-acoustic-mind-nest |  
+| bip_39_word_dash_12 | able-voyage-duty-mixture-treat-rose-bulk-reflect-acoustic-mind-nest-amused |  
+| bip_39_word_dash_2 | able-voyage |  
+| bip_39_word_dash_3 | able-voyage-duty |  
+| bip_39_word_dash_4 | able-voyage-duty-mixture |  
+| bip_39_word_dash_5 | able-voyage-duty-mixture-treat |  
+| bip_39_word_dash_6 | able-voyage-duty-mixture-treat-rose |  
+| bip_39_word_dash_7 | able-voyage-duty-mixture-treat-rose-bulk |  
+| bip_39_word_dash_8 | able-voyage-duty-mixture-treat-rose-bulk-reflect |  
+| bip_39_word_dash_9 | able-voyage-duty-mixture-treat-rose-bulk-reflect-acoustic |  
 | bip_39_word_new_br_1 | able |  
 | bip_39_word_new_br_10 | able<br>voyage<br>duty<br>mixture<br>treat<br>rose<br>bulk<br>reflect<br>acoustic<br>mind |  
 | bip_39_word_new_br_11 | able<br>voyage<br>duty<br>mixture<br>treat<br>rose<br>bulk<br>reflect<br>acoustic<br>mind<br>nest |  
@@ -147,6 +159,18 @@ acoustic |
 | bip_39_word_space_7 | able voyage duty mixture treat rose bulk |  
 | bip_39_word_space_8 | able voyage duty mixture treat rose bulk reflect |  
 | bip_39_word_space_9 | able voyage duty mixture treat rose bulk reflect acoustic |  
+| bip_39_word_underscore_1 | able |  
+| bip_39_word_underscore_10 | able_voyage_duty_mixture_treat_rose_bulk_reflect_acoustic_mind |  
+| bip_39_word_underscore_11 | able_voyage_duty_mixture_treat_rose_bulk_reflect_acoustic_mind_nest |  
+| bip_39_word_underscore_12 | able_voyage_duty_mixture_treat_rose_bulk_reflect_acoustic_mind_nest_amused |  
+| bip_39_word_underscore_2 | able_voyage |  
+| bip_39_word_underscore_3 | able_voyage_duty |  
+| bip_39_word_underscore_4 | able_voyage_duty_mixture |  
+| bip_39_word_underscore_5 | able_voyage_duty_mixture_treat |  
+| bip_39_word_underscore_6 | able_voyage_duty_mixture_treat_rose |  
+| bip_39_word_underscore_7 | able_voyage_duty_mixture_treat_rose_bulk |  
+| bip_39_word_underscore_8 | able_voyage_duty_mixture_treat_rose_bulk_reflect |  
+| bip_39_word_underscore_9 | able_voyage_duty_mixture_treat_rose_bulk_reflect_acoustic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | away |  
+| bip_39_word_dash_10 | away-now-math-grid-jump-will-couch-water-try-spray |  
+| bip_39_word_dash_11 | away-now-math-grid-jump-will-couch-water-try-spray-marble |  
+| bip_39_word_dash_12 | away-now-math-grid-jump-will-couch-water-try-spray-marble-abuse |  
+| bip_39_word_dash_2 | away-now |  
+| bip_39_word_dash_3 | away-now-math |  
+| bip_39_word_dash_4 | away-now-math-grid |  
+| bip_39_word_dash_5 | away-now-math-grid-jump |  
+| bip_39_word_dash_6 | away-now-math-grid-jump-will |  
+| bip_39_word_dash_7 | away-now-math-grid-jump-will-couch |  
+| bip_39_word_dash_8 | away-now-math-grid-jump-will-couch-water |  
+| bip_39_word_dash_9 | away-now-math-grid-jump-will-couch-water-try |  
 | bip_39_word_new_br_1 | away |  
 | bip_39_word_new_br_10 | away<br>now<br>math<br>grid<br>jump<br>will<br>couch<br>water<br>try<br>spray |  
 | bip_39_word_new_br_11 | away<br>now<br>math<br>grid<br>jump<br>will<br>couch<br>water<br>try<br>spray<br>marble |  
@@ -147,6 +159,18 @@ try |
 | bip_39_word_space_7 | away now math grid jump will couch |  
 | bip_39_word_space_8 | away now math grid jump will couch water |  
 | bip_39_word_space_9 | away now math grid jump will couch water try |  
+| bip_39_word_underscore_1 | away |  
+| bip_39_word_underscore_10 | away_now_math_grid_jump_will_couch_water_try_spray |  
+| bip_39_word_underscore_11 | away_now_math_grid_jump_will_couch_water_try_spray_marble |  
+| bip_39_word_underscore_12 | away_now_math_grid_jump_will_couch_water_try_spray_marble_abuse |  
+| bip_39_word_underscore_2 | away_now |  
+| bip_39_word_underscore_3 | away_now_math |  
+| bip_39_word_underscore_4 | away_now_math_grid |  
+| bip_39_word_underscore_5 | away_now_math_grid_jump |  
+| bip_39_word_underscore_6 | away_now_math_grid_jump_will |  
+| bip_39_word_underscore_7 | away_now_math_grid_jump_will_couch |  
+| bip_39_word_underscore_8 | away_now_math_grid_jump_will_couch_water |  
+| bip_39_word_underscore_9 | away_now_math_grid_jump_will_couch_water_try |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: slice
+bip_39_word_dash_10: slice-divert-school-spoon-blind-tired-multiply-remain-token-budget
+bip_39_word_dash_11: slice-divert-school-spoon-blind-tired-multiply-remain-token-budget-dynamic
+bip_39_word_dash_12: slice-divert-school-spoon-blind-tired-multiply-remain-token-budget-dynamic-armor
+bip_39_word_dash_2: slice-divert
+bip_39_word_dash_3: slice-divert-school
+bip_39_word_dash_4: slice-divert-school-spoon
+bip_39_word_dash_5: slice-divert-school-spoon-blind
+bip_39_word_dash_6: slice-divert-school-spoon-blind-tired
+bip_39_word_dash_7: slice-divert-school-spoon-blind-tired-multiply
+bip_39_word_dash_8: slice-divert-school-spoon-blind-tired-multiply-remain
+bip_39_word_dash_9: slice-divert-school-spoon-blind-tired-multiply-remain-token
 bip_39_word_new_br_1: slice
 bip_39_word_new_br_10: slice<br>divert<br>school<br>spoon<br>blind<br>tired<br>multiply<br>remain<br>token<br>budget
 bip_39_word_new_br_11: slice<br>divert<br>school<br>spoon<br>blind<br>tired<br>multiply<br>remain<br>token<br>budget<br>dynamic
@@ -194,6 +206,18 @@ bip_39_word_space_6: slice divert school spoon blind tired
 bip_39_word_space_7: slice divert school spoon blind tired multiply
 bip_39_word_space_8: slice divert school spoon blind tired multiply remain
 bip_39_word_space_9: slice divert school spoon blind tired multiply remain token
+bip_39_word_underscore_1: slice
+bip_39_word_underscore_10: slice_divert_school_spoon_blind_tired_multiply_remain_token_budget
+bip_39_word_underscore_11: slice_divert_school_spoon_blind_tired_multiply_remain_token_budget_dynamic
+bip_39_word_underscore_12: slice_divert_school_spoon_blind_tired_multiply_remain_token_budget_dynamic_armor
+bip_39_word_underscore_2: slice_divert
+bip_39_word_underscore_3: slice_divert_school
+bip_39_word_underscore_4: slice_divert_school_spoon
+bip_39_word_underscore_5: slice_divert_school_spoon_blind
+bip_39_word_underscore_6: slice_divert_school_spoon_blind_tired
+bip_39_word_underscore_7: slice_divert_school_spoon_blind_tired_multiply
+bip_39_word_underscore_8: slice_divert_school_spoon_blind_tired_multiply_remain
+bip_39_word_underscore_9: slice_divert_school_spoon_blind_tired_multiply_remain_token
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

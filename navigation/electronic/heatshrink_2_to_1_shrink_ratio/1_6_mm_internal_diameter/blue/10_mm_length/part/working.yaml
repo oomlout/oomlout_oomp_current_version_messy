@@ -1,3 +1,15 @@
+bip_39_word_dash_1: charge
+bip_39_word_dash_10: charge-list-economy-cement-weapon-duck-pudding-repeat-erupt-father
+bip_39_word_dash_11: charge-list-economy-cement-weapon-duck-pudding-repeat-erupt-father-naive
+bip_39_word_dash_12: charge-list-economy-cement-weapon-duck-pudding-repeat-erupt-father-naive-arrow
+bip_39_word_dash_2: charge-list
+bip_39_word_dash_3: charge-list-economy
+bip_39_word_dash_4: charge-list-economy-cement
+bip_39_word_dash_5: charge-list-economy-cement-weapon
+bip_39_word_dash_6: charge-list-economy-cement-weapon-duck
+bip_39_word_dash_7: charge-list-economy-cement-weapon-duck-pudding
+bip_39_word_dash_8: charge-list-economy-cement-weapon-duck-pudding-repeat
+bip_39_word_dash_9: charge-list-economy-cement-weapon-duck-pudding-repeat-erupt
 bip_39_word_new_br_1: charge
 bip_39_word_new_br_10: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father
 bip_39_word_new_br_11: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father<br>naive
@@ -194,6 +206,18 @@ bip_39_word_space_6: charge list economy cement weapon duck
 bip_39_word_space_7: charge list economy cement weapon duck pudding
 bip_39_word_space_8: charge list economy cement weapon duck pudding repeat
 bip_39_word_space_9: charge list economy cement weapon duck pudding repeat erupt
+bip_39_word_underscore_1: charge
+bip_39_word_underscore_10: charge_list_economy_cement_weapon_duck_pudding_repeat_erupt_father
+bip_39_word_underscore_11: charge_list_economy_cement_weapon_duck_pudding_repeat_erupt_father_naive
+bip_39_word_underscore_12: charge_list_economy_cement_weapon_duck_pudding_repeat_erupt_father_naive_arrow
+bip_39_word_underscore_2: charge_list
+bip_39_word_underscore_3: charge_list_economy
+bip_39_word_underscore_4: charge_list_economy_cement
+bip_39_word_underscore_5: charge_list_economy_cement_weapon
+bip_39_word_underscore_6: charge_list_economy_cement_weapon_duck
+bip_39_word_underscore_7: charge_list_economy_cement_weapon_duck_pudding
+bip_39_word_underscore_8: charge_list_economy_cement_weapon_duck_pudding_repeat
+bip_39_word_underscore_9: charge_list_economy_cement_weapon_duck_pudding_repeat_erupt
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

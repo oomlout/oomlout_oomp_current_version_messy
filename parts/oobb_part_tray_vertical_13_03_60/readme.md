@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | off |  
+| bip_39_word_dash_10 | off-then-turkey-elephant-crush-need-ring-record-endorse-bind |  
+| bip_39_word_dash_11 | off-then-turkey-elephant-crush-need-ring-record-endorse-bind-rib |  
+| bip_39_word_dash_12 | off-then-turkey-elephant-crush-need-ring-record-endorse-bind-rib-attack |  
+| bip_39_word_dash_2 | off-then |  
+| bip_39_word_dash_3 | off-then-turkey |  
+| bip_39_word_dash_4 | off-then-turkey-elephant |  
+| bip_39_word_dash_5 | off-then-turkey-elephant-crush |  
+| bip_39_word_dash_6 | off-then-turkey-elephant-crush-need |  
+| bip_39_word_dash_7 | off-then-turkey-elephant-crush-need-ring |  
+| bip_39_word_dash_8 | off-then-turkey-elephant-crush-need-ring-record |  
+| bip_39_word_dash_9 | off-then-turkey-elephant-crush-need-ring-record-endorse |  
 | bip_39_word_new_br_1 | off |  
 | bip_39_word_new_br_10 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind |  
 | bip_39_word_new_br_11 | off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind<br>rib |  
@@ -147,6 +159,18 @@ endorse |
 | bip_39_word_space_7 | off then turkey elephant crush need ring |  
 | bip_39_word_space_8 | off then turkey elephant crush need ring record |  
 | bip_39_word_space_9 | off then turkey elephant crush need ring record endorse |  
+| bip_39_word_underscore_1 | off |  
+| bip_39_word_underscore_10 | off_then_turkey_elephant_crush_need_ring_record_endorse_bind |  
+| bip_39_word_underscore_11 | off_then_turkey_elephant_crush_need_ring_record_endorse_bind_rib |  
+| bip_39_word_underscore_12 | off_then_turkey_elephant_crush_need_ring_record_endorse_bind_rib_attack |  
+| bip_39_word_underscore_2 | off_then |  
+| bip_39_word_underscore_3 | off_then_turkey |  
+| bip_39_word_underscore_4 | off_then_turkey_elephant |  
+| bip_39_word_underscore_5 | off_then_turkey_elephant_crush |  
+| bip_39_word_underscore_6 | off_then_turkey_elephant_crush_need |  
+| bip_39_word_underscore_7 | off_then_turkey_elephant_crush_need_ring |  
+| bip_39_word_underscore_8 | off_then_turkey_elephant_crush_need_ring_record |  
+| bip_39_word_underscore_9 | off_then_turkey_elephant_crush_need_ring_record_endorse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

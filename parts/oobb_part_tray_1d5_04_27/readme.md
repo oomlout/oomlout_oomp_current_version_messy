@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | family |  
+| bip_39_word_dash_10 | family-mesh-save-draft-armor-raise-cotton-such-math-small |  
+| bip_39_word_dash_11 | family-mesh-save-draft-armor-raise-cotton-such-math-small-shop |  
+| bip_39_word_dash_12 | family-mesh-save-draft-armor-raise-cotton-such-math-small-shop-arch |  
+| bip_39_word_dash_2 | family-mesh |  
+| bip_39_word_dash_3 | family-mesh-save |  
+| bip_39_word_dash_4 | family-mesh-save-draft |  
+| bip_39_word_dash_5 | family-mesh-save-draft-armor |  
+| bip_39_word_dash_6 | family-mesh-save-draft-armor-raise |  
+| bip_39_word_dash_7 | family-mesh-save-draft-armor-raise-cotton |  
+| bip_39_word_dash_8 | family-mesh-save-draft-armor-raise-cotton-such |  
+| bip_39_word_dash_9 | family-mesh-save-draft-armor-raise-cotton-such-math |  
 | bip_39_word_new_br_1 | family |  
 | bip_39_word_new_br_10 | family<br>mesh<br>save<br>draft<br>armor<br>raise<br>cotton<br>such<br>math<br>small |  
 | bip_39_word_new_br_11 | family<br>mesh<br>save<br>draft<br>armor<br>raise<br>cotton<br>such<br>math<br>small<br>shop |  
@@ -147,6 +159,18 @@ math |
 | bip_39_word_space_7 | family mesh save draft armor raise cotton |  
 | bip_39_word_space_8 | family mesh save draft armor raise cotton such |  
 | bip_39_word_space_9 | family mesh save draft armor raise cotton such math |  
+| bip_39_word_underscore_1 | family |  
+| bip_39_word_underscore_10 | family_mesh_save_draft_armor_raise_cotton_such_math_small |  
+| bip_39_word_underscore_11 | family_mesh_save_draft_armor_raise_cotton_such_math_small_shop |  
+| bip_39_word_underscore_12 | family_mesh_save_draft_armor_raise_cotton_such_math_small_shop_arch |  
+| bip_39_word_underscore_2 | family_mesh |  
+| bip_39_word_underscore_3 | family_mesh_save |  
+| bip_39_word_underscore_4 | family_mesh_save_draft |  
+| bip_39_word_underscore_5 | family_mesh_save_draft_armor |  
+| bip_39_word_underscore_6 | family_mesh_save_draft_armor_raise |  
+| bip_39_word_underscore_7 | family_mesh_save_draft_armor_raise_cotton |  
+| bip_39_word_underscore_8 | family_mesh_save_draft_armor_raise_cotton_such |  
+| bip_39_word_underscore_9 | family_mesh_save_draft_armor_raise_cotton_such_math |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

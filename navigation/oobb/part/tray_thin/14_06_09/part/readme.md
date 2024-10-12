@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | husband |  
+| bip_39_word_dash_10 | husband-sing-sustain-actual-bonus-bargain-rug-approve-beauty-balance |  
+| bip_39_word_dash_11 | husband-sing-sustain-actual-bonus-bargain-rug-approve-beauty-balance-illegal |  
+| bip_39_word_dash_12 | husband-sing-sustain-actual-bonus-bargain-rug-approve-beauty-balance-illegal-access |  
+| bip_39_word_dash_2 | husband-sing |  
+| bip_39_word_dash_3 | husband-sing-sustain |  
+| bip_39_word_dash_4 | husband-sing-sustain-actual |  
+| bip_39_word_dash_5 | husband-sing-sustain-actual-bonus |  
+| bip_39_word_dash_6 | husband-sing-sustain-actual-bonus-bargain |  
+| bip_39_word_dash_7 | husband-sing-sustain-actual-bonus-bargain-rug |  
+| bip_39_word_dash_8 | husband-sing-sustain-actual-bonus-bargain-rug-approve |  
+| bip_39_word_dash_9 | husband-sing-sustain-actual-bonus-bargain-rug-approve-beauty |  
 | bip_39_word_new_br_1 | husband |  
 | bip_39_word_new_br_10 | husband<br>sing<br>sustain<br>actual<br>bonus<br>bargain<br>rug<br>approve<br>beauty<br>balance |  
 | bip_39_word_new_br_11 | husband<br>sing<br>sustain<br>actual<br>bonus<br>bargain<br>rug<br>approve<br>beauty<br>balance<br>illegal |  
@@ -147,6 +159,18 @@ beauty |
 | bip_39_word_space_7 | husband sing sustain actual bonus bargain rug |  
 | bip_39_word_space_8 | husband sing sustain actual bonus bargain rug approve |  
 | bip_39_word_space_9 | husband sing sustain actual bonus bargain rug approve beauty |  
+| bip_39_word_underscore_1 | husband |  
+| bip_39_word_underscore_10 | husband_sing_sustain_actual_bonus_bargain_rug_approve_beauty_balance |  
+| bip_39_word_underscore_11 | husband_sing_sustain_actual_bonus_bargain_rug_approve_beauty_balance_illegal |  
+| bip_39_word_underscore_12 | husband_sing_sustain_actual_bonus_bargain_rug_approve_beauty_balance_illegal_access |  
+| bip_39_word_underscore_2 | husband_sing |  
+| bip_39_word_underscore_3 | husband_sing_sustain |  
+| bip_39_word_underscore_4 | husband_sing_sustain_actual |  
+| bip_39_word_underscore_5 | husband_sing_sustain_actual_bonus |  
+| bip_39_word_underscore_6 | husband_sing_sustain_actual_bonus_bargain |  
+| bip_39_word_underscore_7 | husband_sing_sustain_actual_bonus_bargain_rug |  
+| bip_39_word_underscore_8 | husband_sing_sustain_actual_bonus_bargain_rug_approve |  
+| bip_39_word_underscore_9 | husband_sing_sustain_actual_bonus_bargain_rug_approve_beauty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

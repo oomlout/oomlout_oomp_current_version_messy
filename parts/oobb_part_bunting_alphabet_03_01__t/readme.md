@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drip |  
+| bip_39_word_dash_10 | drip-broom-raise-regular-practice-clown-transfer-ecology-gospel-initial |  
+| bip_39_word_dash_11 | drip-broom-raise-regular-practice-clown-transfer-ecology-gospel-initial-depend |  
+| bip_39_word_dash_12 | drip-broom-raise-regular-practice-clown-transfer-ecology-gospel-initial-depend-affair |  
+| bip_39_word_dash_2 | drip-broom |  
+| bip_39_word_dash_3 | drip-broom-raise |  
+| bip_39_word_dash_4 | drip-broom-raise-regular |  
+| bip_39_word_dash_5 | drip-broom-raise-regular-practice |  
+| bip_39_word_dash_6 | drip-broom-raise-regular-practice-clown |  
+| bip_39_word_dash_7 | drip-broom-raise-regular-practice-clown-transfer |  
+| bip_39_word_dash_8 | drip-broom-raise-regular-practice-clown-transfer-ecology |  
+| bip_39_word_dash_9 | drip-broom-raise-regular-practice-clown-transfer-ecology-gospel |  
 | bip_39_word_new_br_1 | drip |  
 | bip_39_word_new_br_10 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial |  
 | bip_39_word_new_br_11 | drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial<br>depend |  
@@ -147,6 +159,18 @@ gospel |
 | bip_39_word_space_7 | drip broom raise regular practice clown transfer |  
 | bip_39_word_space_8 | drip broom raise regular practice clown transfer ecology |  
 | bip_39_word_space_9 | drip broom raise regular practice clown transfer ecology gospel |  
+| bip_39_word_underscore_1 | drip |  
+| bip_39_word_underscore_10 | drip_broom_raise_regular_practice_clown_transfer_ecology_gospel_initial |  
+| bip_39_word_underscore_11 | drip_broom_raise_regular_practice_clown_transfer_ecology_gospel_initial_depend |  
+| bip_39_word_underscore_12 | drip_broom_raise_regular_practice_clown_transfer_ecology_gospel_initial_depend_affair |  
+| bip_39_word_underscore_2 | drip_broom |  
+| bip_39_word_underscore_3 | drip_broom_raise |  
+| bip_39_word_underscore_4 | drip_broom_raise_regular |  
+| bip_39_word_underscore_5 | drip_broom_raise_regular_practice |  
+| bip_39_word_underscore_6 | drip_broom_raise_regular_practice_clown |  
+| bip_39_word_underscore_7 | drip_broom_raise_regular_practice_clown_transfer |  
+| bip_39_word_underscore_8 | drip_broom_raise_regular_practice_clown_transfer_ecology |  
+| bip_39_word_underscore_9 | drip_broom_raise_regular_practice_clown_transfer_ecology_gospel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

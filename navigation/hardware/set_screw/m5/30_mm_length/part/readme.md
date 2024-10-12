@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | result |  
+| bip_39_word_dash_10 | result-feel-pretty-calm-bamboo-enough-clown-champion-pair-cook |  
+| bip_39_word_dash_11 | result-feel-pretty-calm-bamboo-enough-clown-champion-pair-cook-fly |  
+| bip_39_word_dash_12 | result-feel-pretty-calm-bamboo-enough-clown-champion-pair-cook-fly-all |  
+| bip_39_word_dash_2 | result-feel |  
+| bip_39_word_dash_3 | result-feel-pretty |  
+| bip_39_word_dash_4 | result-feel-pretty-calm |  
+| bip_39_word_dash_5 | result-feel-pretty-calm-bamboo |  
+| bip_39_word_dash_6 | result-feel-pretty-calm-bamboo-enough |  
+| bip_39_word_dash_7 | result-feel-pretty-calm-bamboo-enough-clown |  
+| bip_39_word_dash_8 | result-feel-pretty-calm-bamboo-enough-clown-champion |  
+| bip_39_word_dash_9 | result-feel-pretty-calm-bamboo-enough-clown-champion-pair |  
 | bip_39_word_new_br_1 | result |  
 | bip_39_word_new_br_10 | result<br>feel<br>pretty<br>calm<br>bamboo<br>enough<br>clown<br>champion<br>pair<br>cook |  
 | bip_39_word_new_br_11 | result<br>feel<br>pretty<br>calm<br>bamboo<br>enough<br>clown<br>champion<br>pair<br>cook<br>fly |  
@@ -147,6 +159,18 @@ pair |
 | bip_39_word_space_7 | result feel pretty calm bamboo enough clown |  
 | bip_39_word_space_8 | result feel pretty calm bamboo enough clown champion |  
 | bip_39_word_space_9 | result feel pretty calm bamboo enough clown champion pair |  
+| bip_39_word_underscore_1 | result |  
+| bip_39_word_underscore_10 | result_feel_pretty_calm_bamboo_enough_clown_champion_pair_cook |  
+| bip_39_word_underscore_11 | result_feel_pretty_calm_bamboo_enough_clown_champion_pair_cook_fly |  
+| bip_39_word_underscore_12 | result_feel_pretty_calm_bamboo_enough_clown_champion_pair_cook_fly_all |  
+| bip_39_word_underscore_2 | result_feel |  
+| bip_39_word_underscore_3 | result_feel_pretty |  
+| bip_39_word_underscore_4 | result_feel_pretty_calm |  
+| bip_39_word_underscore_5 | result_feel_pretty_calm_bamboo |  
+| bip_39_word_underscore_6 | result_feel_pretty_calm_bamboo_enough |  
+| bip_39_word_underscore_7 | result_feel_pretty_calm_bamboo_enough_clown |  
+| bip_39_word_underscore_8 | result_feel_pretty_calm_bamboo_enough_clown_champion |  
+| bip_39_word_underscore_9 | result_feel_pretty_calm_bamboo_enough_clown_champion_pair |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

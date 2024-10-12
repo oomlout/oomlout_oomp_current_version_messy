@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soap |  
+| bip_39_word_dash_10 | soap-inspire-egg-double-prosper-tomato-claim-sense-remember-slush |  
+| bip_39_word_dash_11 | soap-inspire-egg-double-prosper-tomato-claim-sense-remember-slush-quiz |  
+| bip_39_word_dash_12 | soap-inspire-egg-double-prosper-tomato-claim-sense-remember-slush-quiz-alley |  
+| bip_39_word_dash_2 | soap-inspire |  
+| bip_39_word_dash_3 | soap-inspire-egg |  
+| bip_39_word_dash_4 | soap-inspire-egg-double |  
+| bip_39_word_dash_5 | soap-inspire-egg-double-prosper |  
+| bip_39_word_dash_6 | soap-inspire-egg-double-prosper-tomato |  
+| bip_39_word_dash_7 | soap-inspire-egg-double-prosper-tomato-claim |  
+| bip_39_word_dash_8 | soap-inspire-egg-double-prosper-tomato-claim-sense |  
+| bip_39_word_dash_9 | soap-inspire-egg-double-prosper-tomato-claim-sense-remember |  
 | bip_39_word_new_br_1 | soap |  
 | bip_39_word_new_br_10 | soap<br>inspire<br>egg<br>double<br>prosper<br>tomato<br>claim<br>sense<br>remember<br>slush |  
 | bip_39_word_new_br_11 | soap<br>inspire<br>egg<br>double<br>prosper<br>tomato<br>claim<br>sense<br>remember<br>slush<br>quiz |  
@@ -147,6 +159,18 @@ remember |
 | bip_39_word_space_7 | soap inspire egg double prosper tomato claim |  
 | bip_39_word_space_8 | soap inspire egg double prosper tomato claim sense |  
 | bip_39_word_space_9 | soap inspire egg double prosper tomato claim sense remember |  
+| bip_39_word_underscore_1 | soap |  
+| bip_39_word_underscore_10 | soap_inspire_egg_double_prosper_tomato_claim_sense_remember_slush |  
+| bip_39_word_underscore_11 | soap_inspire_egg_double_prosper_tomato_claim_sense_remember_slush_quiz |  
+| bip_39_word_underscore_12 | soap_inspire_egg_double_prosper_tomato_claim_sense_remember_slush_quiz_alley |  
+| bip_39_word_underscore_2 | soap_inspire |  
+| bip_39_word_underscore_3 | soap_inspire_egg |  
+| bip_39_word_underscore_4 | soap_inspire_egg_double |  
+| bip_39_word_underscore_5 | soap_inspire_egg_double_prosper |  
+| bip_39_word_underscore_6 | soap_inspire_egg_double_prosper_tomato |  
+| bip_39_word_underscore_7 | soap_inspire_egg_double_prosper_tomato_claim |  
+| bip_39_word_underscore_8 | soap_inspire_egg_double_prosper_tomato_claim_sense |  
+| bip_39_word_underscore_9 | soap_inspire_egg_double_prosper_tomato_claim_sense_remember |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

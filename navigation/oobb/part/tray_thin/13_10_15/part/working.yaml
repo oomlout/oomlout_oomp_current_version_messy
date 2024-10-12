@@ -1,3 +1,15 @@
+bip_39_word_dash_1: remember
+bip_39_word_dash_10: remember-shock-rain-elephant-sock-remind-page-shock-tiger-cheap
+bip_39_word_dash_11: remember-shock-rain-elephant-sock-remind-page-shock-tiger-cheap-scrub
+bip_39_word_dash_12: remember-shock-rain-elephant-sock-remind-page-shock-tiger-cheap-scrub-autumn
+bip_39_word_dash_2: remember-shock
+bip_39_word_dash_3: remember-shock-rain
+bip_39_word_dash_4: remember-shock-rain-elephant
+bip_39_word_dash_5: remember-shock-rain-elephant-sock
+bip_39_word_dash_6: remember-shock-rain-elephant-sock-remind
+bip_39_word_dash_7: remember-shock-rain-elephant-sock-remind-page
+bip_39_word_dash_8: remember-shock-rain-elephant-sock-remind-page-shock
+bip_39_word_dash_9: remember-shock-rain-elephant-sock-remind-page-shock-tiger
 bip_39_word_new_br_1: remember
 bip_39_word_new_br_10: remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock<br>tiger<br>cheap
 bip_39_word_new_br_11: remember<br>shock<br>rain<br>elephant<br>sock<br>remind<br>page<br>shock<br>tiger<br>cheap<br>scrub
@@ -193,6 +205,18 @@ bip_39_word_space_6: remember shock rain elephant sock remind
 bip_39_word_space_7: remember shock rain elephant sock remind page
 bip_39_word_space_8: remember shock rain elephant sock remind page shock
 bip_39_word_space_9: remember shock rain elephant sock remind page shock tiger
+bip_39_word_underscore_1: remember
+bip_39_word_underscore_10: remember_shock_rain_elephant_sock_remind_page_shock_tiger_cheap
+bip_39_word_underscore_11: remember_shock_rain_elephant_sock_remind_page_shock_tiger_cheap_scrub
+bip_39_word_underscore_12: remember_shock_rain_elephant_sock_remind_page_shock_tiger_cheap_scrub_autumn
+bip_39_word_underscore_2: remember_shock
+bip_39_word_underscore_3: remember_shock_rain
+bip_39_word_underscore_4: remember_shock_rain_elephant
+bip_39_word_underscore_5: remember_shock_rain_elephant_sock
+bip_39_word_underscore_6: remember_shock_rain_elephant_sock_remind
+bip_39_word_underscore_7: remember_shock_rain_elephant_sock_remind_page
+bip_39_word_underscore_8: remember_shock_rain_elephant_sock_remind_page_shock
+bip_39_word_underscore_9: remember_shock_rain_elephant_sock_remind_page_shock_tiger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

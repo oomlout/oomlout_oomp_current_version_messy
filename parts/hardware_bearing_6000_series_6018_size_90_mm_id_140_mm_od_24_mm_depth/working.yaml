@@ -1,3 +1,15 @@
+bip_39_word_dash_1: open
+bip_39_word_dash_10: open-clock-steak-shoe-monitor-climb-fix-outdoor-winner-jazz
+bip_39_word_dash_11: open-clock-steak-shoe-monitor-climb-fix-outdoor-winner-jazz-display
+bip_39_word_dash_12: open-clock-steak-shoe-monitor-climb-fix-outdoor-winner-jazz-display-alpha
+bip_39_word_dash_2: open-clock
+bip_39_word_dash_3: open-clock-steak
+bip_39_word_dash_4: open-clock-steak-shoe
+bip_39_word_dash_5: open-clock-steak-shoe-monitor
+bip_39_word_dash_6: open-clock-steak-shoe-monitor-climb
+bip_39_word_dash_7: open-clock-steak-shoe-monitor-climb-fix
+bip_39_word_dash_8: open-clock-steak-shoe-monitor-climb-fix-outdoor
+bip_39_word_dash_9: open-clock-steak-shoe-monitor-climb-fix-outdoor-winner
 bip_39_word_new_br_1: open
 bip_39_word_new_br_10: open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor<br>winner<br>jazz
 bip_39_word_new_br_11: open<br>clock<br>steak<br>shoe<br>monitor<br>climb<br>fix<br>outdoor<br>winner<br>jazz<br>display
@@ -193,6 +205,18 @@ bip_39_word_space_6: open clock steak shoe monitor climb
 bip_39_word_space_7: open clock steak shoe monitor climb fix
 bip_39_word_space_8: open clock steak shoe monitor climb fix outdoor
 bip_39_word_space_9: open clock steak shoe monitor climb fix outdoor winner
+bip_39_word_underscore_1: open
+bip_39_word_underscore_10: open_clock_steak_shoe_monitor_climb_fix_outdoor_winner_jazz
+bip_39_word_underscore_11: open_clock_steak_shoe_monitor_climb_fix_outdoor_winner_jazz_display
+bip_39_word_underscore_12: open_clock_steak_shoe_monitor_climb_fix_outdoor_winner_jazz_display_alpha
+bip_39_word_underscore_2: open_clock
+bip_39_word_underscore_3: open_clock_steak
+bip_39_word_underscore_4: open_clock_steak_shoe
+bip_39_word_underscore_5: open_clock_steak_shoe_monitor
+bip_39_word_underscore_6: open_clock_steak_shoe_monitor_climb
+bip_39_word_underscore_7: open_clock_steak_shoe_monitor_climb_fix
+bip_39_word_underscore_8: open_clock_steak_shoe_monitor_climb_fix_outdoor
+bip_39_word_underscore_9: open_clock_steak_shoe_monitor_climb_fix_outdoor_winner
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

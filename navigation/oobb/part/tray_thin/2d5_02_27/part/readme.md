@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | absent |  
+| bip_39_word_dash_10 | absent-purpose-mix-crack-width-wolf-once-sing-notable-scale |  
+| bip_39_word_dash_11 | absent-purpose-mix-crack-width-wolf-once-sing-notable-scale-evolve |  
+| bip_39_word_dash_12 | absent-purpose-mix-crack-width-wolf-once-sing-notable-scale-evolve-announce |  
+| bip_39_word_dash_2 | absent-purpose |  
+| bip_39_word_dash_3 | absent-purpose-mix |  
+| bip_39_word_dash_4 | absent-purpose-mix-crack |  
+| bip_39_word_dash_5 | absent-purpose-mix-crack-width |  
+| bip_39_word_dash_6 | absent-purpose-mix-crack-width-wolf |  
+| bip_39_word_dash_7 | absent-purpose-mix-crack-width-wolf-once |  
+| bip_39_word_dash_8 | absent-purpose-mix-crack-width-wolf-once-sing |  
+| bip_39_word_dash_9 | absent-purpose-mix-crack-width-wolf-once-sing-notable |  
 | bip_39_word_new_br_1 | absent |  
 | bip_39_word_new_br_10 | absent<br>purpose<br>mix<br>crack<br>width<br>wolf<br>once<br>sing<br>notable<br>scale |  
 | bip_39_word_new_br_11 | absent<br>purpose<br>mix<br>crack<br>width<br>wolf<br>once<br>sing<br>notable<br>scale<br>evolve |  
@@ -147,6 +159,18 @@ notable |
 | bip_39_word_space_7 | absent purpose mix crack width wolf once |  
 | bip_39_word_space_8 | absent purpose mix crack width wolf once sing |  
 | bip_39_word_space_9 | absent purpose mix crack width wolf once sing notable |  
+| bip_39_word_underscore_1 | absent |  
+| bip_39_word_underscore_10 | absent_purpose_mix_crack_width_wolf_once_sing_notable_scale |  
+| bip_39_word_underscore_11 | absent_purpose_mix_crack_width_wolf_once_sing_notable_scale_evolve |  
+| bip_39_word_underscore_12 | absent_purpose_mix_crack_width_wolf_once_sing_notable_scale_evolve_announce |  
+| bip_39_word_underscore_2 | absent_purpose |  
+| bip_39_word_underscore_3 | absent_purpose_mix |  
+| bip_39_word_underscore_4 | absent_purpose_mix_crack |  
+| bip_39_word_underscore_5 | absent_purpose_mix_crack_width |  
+| bip_39_word_underscore_6 | absent_purpose_mix_crack_width_wolf |  
+| bip_39_word_underscore_7 | absent_purpose_mix_crack_width_wolf_once |  
+| bip_39_word_underscore_8 | absent_purpose_mix_crack_width_wolf_once_sing |  
+| bip_39_word_underscore_9 | absent_purpose_mix_crack_width_wolf_once_sing_notable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

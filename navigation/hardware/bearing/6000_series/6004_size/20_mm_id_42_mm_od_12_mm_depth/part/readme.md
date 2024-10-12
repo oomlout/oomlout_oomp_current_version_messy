@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ill |  
+| bip_39_word_dash_10 | ill-weekend-task-left-turtle-solve-direct-eight-pattern-dash |  
+| bip_39_word_dash_11 | ill-weekend-task-left-turtle-solve-direct-eight-pattern-dash-moon |  
+| bip_39_word_dash_12 | ill-weekend-task-left-turtle-solve-direct-eight-pattern-dash-moon-adult |  
+| bip_39_word_dash_2 | ill-weekend |  
+| bip_39_word_dash_3 | ill-weekend-task |  
+| bip_39_word_dash_4 | ill-weekend-task-left |  
+| bip_39_word_dash_5 | ill-weekend-task-left-turtle |  
+| bip_39_word_dash_6 | ill-weekend-task-left-turtle-solve |  
+| bip_39_word_dash_7 | ill-weekend-task-left-turtle-solve-direct |  
+| bip_39_word_dash_8 | ill-weekend-task-left-turtle-solve-direct-eight |  
+| bip_39_word_dash_9 | ill-weekend-task-left-turtle-solve-direct-eight-pattern |  
 | bip_39_word_new_br_1 | ill |  
 | bip_39_word_new_br_10 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight<br>pattern<br>dash |  
 | bip_39_word_new_br_11 | ill<br>weekend<br>task<br>left<br>turtle<br>solve<br>direct<br>eight<br>pattern<br>dash<br>moon |  
@@ -147,6 +159,18 @@ pattern |
 | bip_39_word_space_7 | ill weekend task left turtle solve direct |  
 | bip_39_word_space_8 | ill weekend task left turtle solve direct eight |  
 | bip_39_word_space_9 | ill weekend task left turtle solve direct eight pattern |  
+| bip_39_word_underscore_1 | ill |  
+| bip_39_word_underscore_10 | ill_weekend_task_left_turtle_solve_direct_eight_pattern_dash |  
+| bip_39_word_underscore_11 | ill_weekend_task_left_turtle_solve_direct_eight_pattern_dash_moon |  
+| bip_39_word_underscore_12 | ill_weekend_task_left_turtle_solve_direct_eight_pattern_dash_moon_adult |  
+| bip_39_word_underscore_2 | ill_weekend |  
+| bip_39_word_underscore_3 | ill_weekend_task |  
+| bip_39_word_underscore_4 | ill_weekend_task_left |  
+| bip_39_word_underscore_5 | ill_weekend_task_left_turtle |  
+| bip_39_word_underscore_6 | ill_weekend_task_left_turtle_solve |  
+| bip_39_word_underscore_7 | ill_weekend_task_left_turtle_solve_direct |  
+| bip_39_word_underscore_8 | ill_weekend_task_left_turtle_solve_direct_eight |  
+| bip_39_word_underscore_9 | ill_weekend_task_left_turtle_solve_direct_eight_pattern |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | size |  
+| bip_39_word_dash_10 | size-donate-viable-own-champion-census-child-lucky-bird-keen |  
+| bip_39_word_dash_11 | size-donate-viable-own-champion-census-child-lucky-bird-keen-present |  
+| bip_39_word_dash_12 | size-donate-viable-own-champion-census-child-lucky-bird-keen-present-any |  
+| bip_39_word_dash_2 | size-donate |  
+| bip_39_word_dash_3 | size-donate-viable |  
+| bip_39_word_dash_4 | size-donate-viable-own |  
+| bip_39_word_dash_5 | size-donate-viable-own-champion |  
+| bip_39_word_dash_6 | size-donate-viable-own-champion-census |  
+| bip_39_word_dash_7 | size-donate-viable-own-champion-census-child |  
+| bip_39_word_dash_8 | size-donate-viable-own-champion-census-child-lucky |  
+| bip_39_word_dash_9 | size-donate-viable-own-champion-census-child-lucky-bird |  
 | bip_39_word_new_br_1 | size |  
 | bip_39_word_new_br_10 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen |  
 | bip_39_word_new_br_11 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen<br>present |  
@@ -147,6 +159,18 @@ bird |
 | bip_39_word_space_7 | size donate viable own champion census child |  
 | bip_39_word_space_8 | size donate viable own champion census child lucky |  
 | bip_39_word_space_9 | size donate viable own champion census child lucky bird |  
+| bip_39_word_underscore_1 | size |  
+| bip_39_word_underscore_10 | size_donate_viable_own_champion_census_child_lucky_bird_keen |  
+| bip_39_word_underscore_11 | size_donate_viable_own_champion_census_child_lucky_bird_keen_present |  
+| bip_39_word_underscore_12 | size_donate_viable_own_champion_census_child_lucky_bird_keen_present_any |  
+| bip_39_word_underscore_2 | size_donate |  
+| bip_39_word_underscore_3 | size_donate_viable |  
+| bip_39_word_underscore_4 | size_donate_viable_own |  
+| bip_39_word_underscore_5 | size_donate_viable_own_champion |  
+| bip_39_word_underscore_6 | size_donate_viable_own_champion_census |  
+| bip_39_word_underscore_7 | size_donate_viable_own_champion_census_child |  
+| bip_39_word_underscore_8 | size_donate_viable_own_champion_census_child_lucky |  
+| bip_39_word_underscore_9 | size_donate_viable_own_champion_census_child_lucky_bird |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

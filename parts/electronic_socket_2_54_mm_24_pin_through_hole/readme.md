@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hotel |  
+| bip_39_word_dash_10 | hotel-ice-glow-catch-wheat-poet-dilemma-record-six-rapid |  
+| bip_39_word_dash_11 | hotel-ice-glow-catch-wheat-poet-dilemma-record-six-rapid-clown |  
+| bip_39_word_dash_12 | hotel-ice-glow-catch-wheat-poet-dilemma-record-six-rapid-clown-assault |  
+| bip_39_word_dash_2 | hotel-ice |  
+| bip_39_word_dash_3 | hotel-ice-glow |  
+| bip_39_word_dash_4 | hotel-ice-glow-catch |  
+| bip_39_word_dash_5 | hotel-ice-glow-catch-wheat |  
+| bip_39_word_dash_6 | hotel-ice-glow-catch-wheat-poet |  
+| bip_39_word_dash_7 | hotel-ice-glow-catch-wheat-poet-dilemma |  
+| bip_39_word_dash_8 | hotel-ice-glow-catch-wheat-poet-dilemma-record |  
+| bip_39_word_dash_9 | hotel-ice-glow-catch-wheat-poet-dilemma-record-six |  
 | bip_39_word_new_br_1 | hotel |  
 | bip_39_word_new_br_10 | hotel<br>ice<br>glow<br>catch<br>wheat<br>poet<br>dilemma<br>record<br>six<br>rapid |  
 | bip_39_word_new_br_11 | hotel<br>ice<br>glow<br>catch<br>wheat<br>poet<br>dilemma<br>record<br>six<br>rapid<br>clown |  
@@ -147,6 +159,18 @@ six |
 | bip_39_word_space_7 | hotel ice glow catch wheat poet dilemma |  
 | bip_39_word_space_8 | hotel ice glow catch wheat poet dilemma record |  
 | bip_39_word_space_9 | hotel ice glow catch wheat poet dilemma record six |  
+| bip_39_word_underscore_1 | hotel |  
+| bip_39_word_underscore_10 | hotel_ice_glow_catch_wheat_poet_dilemma_record_six_rapid |  
+| bip_39_word_underscore_11 | hotel_ice_glow_catch_wheat_poet_dilemma_record_six_rapid_clown |  
+| bip_39_word_underscore_12 | hotel_ice_glow_catch_wheat_poet_dilemma_record_six_rapid_clown_assault |  
+| bip_39_word_underscore_2 | hotel_ice |  
+| bip_39_word_underscore_3 | hotel_ice_glow |  
+| bip_39_word_underscore_4 | hotel_ice_glow_catch |  
+| bip_39_word_underscore_5 | hotel_ice_glow_catch_wheat |  
+| bip_39_word_underscore_6 | hotel_ice_glow_catch_wheat_poet |  
+| bip_39_word_underscore_7 | hotel_ice_glow_catch_wheat_poet_dilemma |  
+| bip_39_word_underscore_8 | hotel_ice_glow_catch_wheat_poet_dilemma_record |  
+| bip_39_word_underscore_9 | hotel_ice_glow_catch_wheat_poet_dilemma_record_six |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

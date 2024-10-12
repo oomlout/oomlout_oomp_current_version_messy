@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | habit |  
+| bip_39_word_dash_10 | habit-bitter-salon-boy-face-audit-bomb-sport-tower-okay |  
+| bip_39_word_dash_11 | habit-bitter-salon-boy-face-audit-bomb-sport-tower-okay-armor |  
+| bip_39_word_dash_12 | habit-bitter-salon-boy-face-audit-bomb-sport-tower-okay-armor-asthma |  
+| bip_39_word_dash_2 | habit-bitter |  
+| bip_39_word_dash_3 | habit-bitter-salon |  
+| bip_39_word_dash_4 | habit-bitter-salon-boy |  
+| bip_39_word_dash_5 | habit-bitter-salon-boy-face |  
+| bip_39_word_dash_6 | habit-bitter-salon-boy-face-audit |  
+| bip_39_word_dash_7 | habit-bitter-salon-boy-face-audit-bomb |  
+| bip_39_word_dash_8 | habit-bitter-salon-boy-face-audit-bomb-sport |  
+| bip_39_word_dash_9 | habit-bitter-salon-boy-face-audit-bomb-sport-tower |  
 | bip_39_word_new_br_1 | habit |  
 | bip_39_word_new_br_10 | habit<br>bitter<br>salon<br>boy<br>face<br>audit<br>bomb<br>sport<br>tower<br>okay |  
 | bip_39_word_new_br_11 | habit<br>bitter<br>salon<br>boy<br>face<br>audit<br>bomb<br>sport<br>tower<br>okay<br>armor |  
@@ -147,6 +159,18 @@ tower |
 | bip_39_word_space_7 | habit bitter salon boy face audit bomb |  
 | bip_39_word_space_8 | habit bitter salon boy face audit bomb sport |  
 | bip_39_word_space_9 | habit bitter salon boy face audit bomb sport tower |  
+| bip_39_word_underscore_1 | habit |  
+| bip_39_word_underscore_10 | habit_bitter_salon_boy_face_audit_bomb_sport_tower_okay |  
+| bip_39_word_underscore_11 | habit_bitter_salon_boy_face_audit_bomb_sport_tower_okay_armor |  
+| bip_39_word_underscore_12 | habit_bitter_salon_boy_face_audit_bomb_sport_tower_okay_armor_asthma |  
+| bip_39_word_underscore_2 | habit_bitter |  
+| bip_39_word_underscore_3 | habit_bitter_salon |  
+| bip_39_word_underscore_4 | habit_bitter_salon_boy |  
+| bip_39_word_underscore_5 | habit_bitter_salon_boy_face |  
+| bip_39_word_underscore_6 | habit_bitter_salon_boy_face_audit |  
+| bip_39_word_underscore_7 | habit_bitter_salon_boy_face_audit_bomb |  
+| bip_39_word_underscore_8 | habit_bitter_salon_boy_face_audit_bomb_sport |  
+| bip_39_word_underscore_9 | habit_bitter_salon_boy_face_audit_bomb_sport_tower |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

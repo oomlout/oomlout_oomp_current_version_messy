@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | critic |  
+| bip_39_word_dash_10 | critic-box-arm-seat-wing-race-feature-hospital-between-leg |  
+| bip_39_word_dash_11 | critic-box-arm-seat-wing-race-feature-hospital-between-leg-party |  
+| bip_39_word_dash_12 | critic-box-arm-seat-wing-race-feature-hospital-between-leg-party-arctic |  
+| bip_39_word_dash_2 | critic-box |  
+| bip_39_word_dash_3 | critic-box-arm |  
+| bip_39_word_dash_4 | critic-box-arm-seat |  
+| bip_39_word_dash_5 | critic-box-arm-seat-wing |  
+| bip_39_word_dash_6 | critic-box-arm-seat-wing-race |  
+| bip_39_word_dash_7 | critic-box-arm-seat-wing-race-feature |  
+| bip_39_word_dash_8 | critic-box-arm-seat-wing-race-feature-hospital |  
+| bip_39_word_dash_9 | critic-box-arm-seat-wing-race-feature-hospital-between |  
 | bip_39_word_new_br_1 | critic |  
 | bip_39_word_new_br_10 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital<br>between<br>leg |  
 | bip_39_word_new_br_11 | critic<br>box<br>arm<br>seat<br>wing<br>race<br>feature<br>hospital<br>between<br>leg<br>party |  
@@ -147,6 +159,18 @@ between |
 | bip_39_word_space_7 | critic box arm seat wing race feature |  
 | bip_39_word_space_8 | critic box arm seat wing race feature hospital |  
 | bip_39_word_space_9 | critic box arm seat wing race feature hospital between |  
+| bip_39_word_underscore_1 | critic |  
+| bip_39_word_underscore_10 | critic_box_arm_seat_wing_race_feature_hospital_between_leg |  
+| bip_39_word_underscore_11 | critic_box_arm_seat_wing_race_feature_hospital_between_leg_party |  
+| bip_39_word_underscore_12 | critic_box_arm_seat_wing_race_feature_hospital_between_leg_party_arctic |  
+| bip_39_word_underscore_2 | critic_box |  
+| bip_39_word_underscore_3 | critic_box_arm |  
+| bip_39_word_underscore_4 | critic_box_arm_seat |  
+| bip_39_word_underscore_5 | critic_box_arm_seat_wing |  
+| bip_39_word_underscore_6 | critic_box_arm_seat_wing_race |  
+| bip_39_word_underscore_7 | critic_box_arm_seat_wing_race_feature |  
+| bip_39_word_underscore_8 | critic_box_arm_seat_wing_race_feature_hospital |  
+| bip_39_word_underscore_9 | critic_box_arm_seat_wing_race_feature_hospital_between |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rude |  
+| bip_39_word_dash_10 | rude-shove-advance-script-twin-bundle-bid-fee-true-afford |  
+| bip_39_word_dash_11 | rude-shove-advance-script-twin-bundle-bid-fee-true-afford-volcano |  
+| bip_39_word_dash_12 | rude-shove-advance-script-twin-bundle-bid-fee-true-afford-volcano-attack |  
+| bip_39_word_dash_2 | rude-shove |  
+| bip_39_word_dash_3 | rude-shove-advance |  
+| bip_39_word_dash_4 | rude-shove-advance-script |  
+| bip_39_word_dash_5 | rude-shove-advance-script-twin |  
+| bip_39_word_dash_6 | rude-shove-advance-script-twin-bundle |  
+| bip_39_word_dash_7 | rude-shove-advance-script-twin-bundle-bid |  
+| bip_39_word_dash_8 | rude-shove-advance-script-twin-bundle-bid-fee |  
+| bip_39_word_dash_9 | rude-shove-advance-script-twin-bundle-bid-fee-true |  
 | bip_39_word_new_br_1 | rude |  
 | bip_39_word_new_br_10 | rude<br>shove<br>advance<br>script<br>twin<br>bundle<br>bid<br>fee<br>true<br>afford |  
 | bip_39_word_new_br_11 | rude<br>shove<br>advance<br>script<br>twin<br>bundle<br>bid<br>fee<br>true<br>afford<br>volcano |  
@@ -147,6 +159,18 @@ true |
 | bip_39_word_space_7 | rude shove advance script twin bundle bid |  
 | bip_39_word_space_8 | rude shove advance script twin bundle bid fee |  
 | bip_39_word_space_9 | rude shove advance script twin bundle bid fee true |  
+| bip_39_word_underscore_1 | rude |  
+| bip_39_word_underscore_10 | rude_shove_advance_script_twin_bundle_bid_fee_true_afford |  
+| bip_39_word_underscore_11 | rude_shove_advance_script_twin_bundle_bid_fee_true_afford_volcano |  
+| bip_39_word_underscore_12 | rude_shove_advance_script_twin_bundle_bid_fee_true_afford_volcano_attack |  
+| bip_39_word_underscore_2 | rude_shove |  
+| bip_39_word_underscore_3 | rude_shove_advance |  
+| bip_39_word_underscore_4 | rude_shove_advance_script |  
+| bip_39_word_underscore_5 | rude_shove_advance_script_twin |  
+| bip_39_word_underscore_6 | rude_shove_advance_script_twin_bundle |  
+| bip_39_word_underscore_7 | rude_shove_advance_script_twin_bundle_bid |  
+| bip_39_word_underscore_8 | rude_shove_advance_script_twin_bundle_bid_fee |  
+| bip_39_word_underscore_9 | rude_shove_advance_script_twin_bundle_bid_fee_true |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

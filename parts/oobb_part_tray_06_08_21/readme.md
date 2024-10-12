@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | approve |  
+| bip_39_word_dash_10 | approve-random-ensure-mention-certain-that-adult-example-vendor-thank |  
+| bip_39_word_dash_11 | approve-random-ensure-mention-certain-that-adult-example-vendor-thank-ritual |  
+| bip_39_word_dash_12 | approve-random-ensure-mention-certain-that-adult-example-vendor-thank-ritual-almost |  
+| bip_39_word_dash_2 | approve-random |  
+| bip_39_word_dash_3 | approve-random-ensure |  
+| bip_39_word_dash_4 | approve-random-ensure-mention |  
+| bip_39_word_dash_5 | approve-random-ensure-mention-certain |  
+| bip_39_word_dash_6 | approve-random-ensure-mention-certain-that |  
+| bip_39_word_dash_7 | approve-random-ensure-mention-certain-that-adult |  
+| bip_39_word_dash_8 | approve-random-ensure-mention-certain-that-adult-example |  
+| bip_39_word_dash_9 | approve-random-ensure-mention-certain-that-adult-example-vendor |  
 | bip_39_word_new_br_1 | approve |  
 | bip_39_word_new_br_10 | approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank |  
 | bip_39_word_new_br_11 | approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank<br>ritual |  
@@ -147,6 +159,18 @@ vendor |
 | bip_39_word_space_7 | approve random ensure mention certain that adult |  
 | bip_39_word_space_8 | approve random ensure mention certain that adult example |  
 | bip_39_word_space_9 | approve random ensure mention certain that adult example vendor |  
+| bip_39_word_underscore_1 | approve |  
+| bip_39_word_underscore_10 | approve_random_ensure_mention_certain_that_adult_example_vendor_thank |  
+| bip_39_word_underscore_11 | approve_random_ensure_mention_certain_that_adult_example_vendor_thank_ritual |  
+| bip_39_word_underscore_12 | approve_random_ensure_mention_certain_that_adult_example_vendor_thank_ritual_almost |  
+| bip_39_word_underscore_2 | approve_random |  
+| bip_39_word_underscore_3 | approve_random_ensure |  
+| bip_39_word_underscore_4 | approve_random_ensure_mention |  
+| bip_39_word_underscore_5 | approve_random_ensure_mention_certain |  
+| bip_39_word_underscore_6 | approve_random_ensure_mention_certain_that |  
+| bip_39_word_underscore_7 | approve_random_ensure_mention_certain_that_adult |  
+| bip_39_word_underscore_8 | approve_random_ensure_mention_certain_that_adult_example |  
+| bip_39_word_underscore_9 | approve_random_ensure_mention_certain_that_adult_example_vendor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

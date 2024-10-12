@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wedding |  
+| bip_39_word_dash_10 | wedding-erupt-portion-shine-warrior-turtle-gather-ring-tomato-rifle |  
+| bip_39_word_dash_11 | wedding-erupt-portion-shine-warrior-turtle-gather-ring-tomato-rifle-guard |  
+| bip_39_word_dash_12 | wedding-erupt-portion-shine-warrior-turtle-gather-ring-tomato-rifle-guard-artist |  
+| bip_39_word_dash_2 | wedding-erupt |  
+| bip_39_word_dash_3 | wedding-erupt-portion |  
+| bip_39_word_dash_4 | wedding-erupt-portion-shine |  
+| bip_39_word_dash_5 | wedding-erupt-portion-shine-warrior |  
+| bip_39_word_dash_6 | wedding-erupt-portion-shine-warrior-turtle |  
+| bip_39_word_dash_7 | wedding-erupt-portion-shine-warrior-turtle-gather |  
+| bip_39_word_dash_8 | wedding-erupt-portion-shine-warrior-turtle-gather-ring |  
+| bip_39_word_dash_9 | wedding-erupt-portion-shine-warrior-turtle-gather-ring-tomato |  
 | bip_39_word_new_br_1 | wedding |  
 | bip_39_word_new_br_10 | wedding<br>erupt<br>portion<br>shine<br>warrior<br>turtle<br>gather<br>ring<br>tomato<br>rifle |  
 | bip_39_word_new_br_11 | wedding<br>erupt<br>portion<br>shine<br>warrior<br>turtle<br>gather<br>ring<br>tomato<br>rifle<br>guard |  
@@ -147,6 +159,18 @@ tomato |
 | bip_39_word_space_7 | wedding erupt portion shine warrior turtle gather |  
 | bip_39_word_space_8 | wedding erupt portion shine warrior turtle gather ring |  
 | bip_39_word_space_9 | wedding erupt portion shine warrior turtle gather ring tomato |  
+| bip_39_word_underscore_1 | wedding |  
+| bip_39_word_underscore_10 | wedding_erupt_portion_shine_warrior_turtle_gather_ring_tomato_rifle |  
+| bip_39_word_underscore_11 | wedding_erupt_portion_shine_warrior_turtle_gather_ring_tomato_rifle_guard |  
+| bip_39_word_underscore_12 | wedding_erupt_portion_shine_warrior_turtle_gather_ring_tomato_rifle_guard_artist |  
+| bip_39_word_underscore_2 | wedding_erupt |  
+| bip_39_word_underscore_3 | wedding_erupt_portion |  
+| bip_39_word_underscore_4 | wedding_erupt_portion_shine |  
+| bip_39_word_underscore_5 | wedding_erupt_portion_shine_warrior |  
+| bip_39_word_underscore_6 | wedding_erupt_portion_shine_warrior_turtle |  
+| bip_39_word_underscore_7 | wedding_erupt_portion_shine_warrior_turtle_gather |  
+| bip_39_word_underscore_8 | wedding_erupt_portion_shine_warrior_turtle_gather_ring |  
+| bip_39_word_underscore_9 | wedding_erupt_portion_shine_warrior_turtle_gather_ring_tomato |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

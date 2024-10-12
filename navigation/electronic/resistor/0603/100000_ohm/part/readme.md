@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | remember |  
+| bip_39_word_dash_10 | remember-helmet-mixed-cheap-dwarf-dice-betray-aware-brother-multiply |  
+| bip_39_word_dash_11 | remember-helmet-mixed-cheap-dwarf-dice-betray-aware-brother-multiply-text |  
+| bip_39_word_dash_12 | remember-helmet-mixed-cheap-dwarf-dice-betray-aware-brother-multiply-text-antenna |  
+| bip_39_word_dash_2 | remember-helmet |  
+| bip_39_word_dash_3 | remember-helmet-mixed |  
+| bip_39_word_dash_4 | remember-helmet-mixed-cheap |  
+| bip_39_word_dash_5 | remember-helmet-mixed-cheap-dwarf |  
+| bip_39_word_dash_6 | remember-helmet-mixed-cheap-dwarf-dice |  
+| bip_39_word_dash_7 | remember-helmet-mixed-cheap-dwarf-dice-betray |  
+| bip_39_word_dash_8 | remember-helmet-mixed-cheap-dwarf-dice-betray-aware |  
+| bip_39_word_dash_9 | remember-helmet-mixed-cheap-dwarf-dice-betray-aware-brother |  
 | bip_39_word_new_br_1 | remember |  
 | bip_39_word_new_br_10 | remember<br>helmet<br>mixed<br>cheap<br>dwarf<br>dice<br>betray<br>aware<br>brother<br>multiply |  
 | bip_39_word_new_br_11 | remember<br>helmet<br>mixed<br>cheap<br>dwarf<br>dice<br>betray<br>aware<br>brother<br>multiply<br>text |  
@@ -147,6 +159,18 @@ brother |
 | bip_39_word_space_7 | remember helmet mixed cheap dwarf dice betray |  
 | bip_39_word_space_8 | remember helmet mixed cheap dwarf dice betray aware |  
 | bip_39_word_space_9 | remember helmet mixed cheap dwarf dice betray aware brother |  
+| bip_39_word_underscore_1 | remember |  
+| bip_39_word_underscore_10 | remember_helmet_mixed_cheap_dwarf_dice_betray_aware_brother_multiply |  
+| bip_39_word_underscore_11 | remember_helmet_mixed_cheap_dwarf_dice_betray_aware_brother_multiply_text |  
+| bip_39_word_underscore_12 | remember_helmet_mixed_cheap_dwarf_dice_betray_aware_brother_multiply_text_antenna |  
+| bip_39_word_underscore_2 | remember_helmet |  
+| bip_39_word_underscore_3 | remember_helmet_mixed |  
+| bip_39_word_underscore_4 | remember_helmet_mixed_cheap |  
+| bip_39_word_underscore_5 | remember_helmet_mixed_cheap_dwarf |  
+| bip_39_word_underscore_6 | remember_helmet_mixed_cheap_dwarf_dice |  
+| bip_39_word_underscore_7 | remember_helmet_mixed_cheap_dwarf_dice_betray |  
+| bip_39_word_underscore_8 | remember_helmet_mixed_cheap_dwarf_dice_betray_aware |  
+| bip_39_word_underscore_9 | remember_helmet_mixed_cheap_dwarf_dice_betray_aware_brother |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

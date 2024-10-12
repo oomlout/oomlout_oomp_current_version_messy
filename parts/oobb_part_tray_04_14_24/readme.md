@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exhaust |  
+| bip_39_word_dash_10 | exhaust-frequent-inmate-entire-eager-metal-risk-rescue-sadness-rubber |  
+| bip_39_word_dash_11 | exhaust-frequent-inmate-entire-eager-metal-risk-rescue-sadness-rubber-view |  
+| bip_39_word_dash_12 | exhaust-frequent-inmate-entire-eager-metal-risk-rescue-sadness-rubber-view-alley |  
+| bip_39_word_dash_2 | exhaust-frequent |  
+| bip_39_word_dash_3 | exhaust-frequent-inmate |  
+| bip_39_word_dash_4 | exhaust-frequent-inmate-entire |  
+| bip_39_word_dash_5 | exhaust-frequent-inmate-entire-eager |  
+| bip_39_word_dash_6 | exhaust-frequent-inmate-entire-eager-metal |  
+| bip_39_word_dash_7 | exhaust-frequent-inmate-entire-eager-metal-risk |  
+| bip_39_word_dash_8 | exhaust-frequent-inmate-entire-eager-metal-risk-rescue |  
+| bip_39_word_dash_9 | exhaust-frequent-inmate-entire-eager-metal-risk-rescue-sadness |  
 | bip_39_word_new_br_1 | exhaust |  
 | bip_39_word_new_br_10 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue<br>sadness<br>rubber |  
 | bip_39_word_new_br_11 | exhaust<br>frequent<br>inmate<br>entire<br>eager<br>metal<br>risk<br>rescue<br>sadness<br>rubber<br>view |  
@@ -147,6 +159,18 @@ sadness |
 | bip_39_word_space_7 | exhaust frequent inmate entire eager metal risk |  
 | bip_39_word_space_8 | exhaust frequent inmate entire eager metal risk rescue |  
 | bip_39_word_space_9 | exhaust frequent inmate entire eager metal risk rescue sadness |  
+| bip_39_word_underscore_1 | exhaust |  
+| bip_39_word_underscore_10 | exhaust_frequent_inmate_entire_eager_metal_risk_rescue_sadness_rubber |  
+| bip_39_word_underscore_11 | exhaust_frequent_inmate_entire_eager_metal_risk_rescue_sadness_rubber_view |  
+| bip_39_word_underscore_12 | exhaust_frequent_inmate_entire_eager_metal_risk_rescue_sadness_rubber_view_alley |  
+| bip_39_word_underscore_2 | exhaust_frequent |  
+| bip_39_word_underscore_3 | exhaust_frequent_inmate |  
+| bip_39_word_underscore_4 | exhaust_frequent_inmate_entire |  
+| bip_39_word_underscore_5 | exhaust_frequent_inmate_entire_eager |  
+| bip_39_word_underscore_6 | exhaust_frequent_inmate_entire_eager_metal |  
+| bip_39_word_underscore_7 | exhaust_frequent_inmate_entire_eager_metal_risk |  
+| bip_39_word_underscore_8 | exhaust_frequent_inmate_entire_eager_metal_risk_rescue |  
+| bip_39_word_underscore_9 | exhaust_frequent_inmate_entire_eager_metal_risk_rescue_sadness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

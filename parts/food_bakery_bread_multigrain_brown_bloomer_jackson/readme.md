@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | write |  
+| bip_39_word_dash_10 | write-pink-speak-common-office-step-supreme-maximum-range-clown |  
+| bip_39_word_dash_11 | write-pink-speak-common-office-step-supreme-maximum-range-clown-exist |  
+| bip_39_word_dash_12 | write-pink-speak-common-office-step-supreme-maximum-range-clown-exist-all |  
+| bip_39_word_dash_2 | write-pink |  
+| bip_39_word_dash_3 | write-pink-speak |  
+| bip_39_word_dash_4 | write-pink-speak-common |  
+| bip_39_word_dash_5 | write-pink-speak-common-office |  
+| bip_39_word_dash_6 | write-pink-speak-common-office-step |  
+| bip_39_word_dash_7 | write-pink-speak-common-office-step-supreme |  
+| bip_39_word_dash_8 | write-pink-speak-common-office-step-supreme-maximum |  
+| bip_39_word_dash_9 | write-pink-speak-common-office-step-supreme-maximum-range |  
 | bip_39_word_new_br_1 | write |  
 | bip_39_word_new_br_10 | write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum<br>range<br>clown |  
 | bip_39_word_new_br_11 | write<br>pink<br>speak<br>common<br>office<br>step<br>supreme<br>maximum<br>range<br>clown<br>exist |  
@@ -147,6 +159,18 @@ range |
 | bip_39_word_space_7 | write pink speak common office step supreme |  
 | bip_39_word_space_8 | write pink speak common office step supreme maximum |  
 | bip_39_word_space_9 | write pink speak common office step supreme maximum range |  
+| bip_39_word_underscore_1 | write |  
+| bip_39_word_underscore_10 | write_pink_speak_common_office_step_supreme_maximum_range_clown |  
+| bip_39_word_underscore_11 | write_pink_speak_common_office_step_supreme_maximum_range_clown_exist |  
+| bip_39_word_underscore_12 | write_pink_speak_common_office_step_supreme_maximum_range_clown_exist_all |  
+| bip_39_word_underscore_2 | write_pink |  
+| bip_39_word_underscore_3 | write_pink_speak |  
+| bip_39_word_underscore_4 | write_pink_speak_common |  
+| bip_39_word_underscore_5 | write_pink_speak_common_office |  
+| bip_39_word_underscore_6 | write_pink_speak_common_office_step |  
+| bip_39_word_underscore_7 | write_pink_speak_common_office_step_supreme |  
+| bip_39_word_underscore_8 | write_pink_speak_common_office_step_supreme_maximum |  
+| bip_39_word_underscore_9 | write_pink_speak_common_office_step_supreme_maximum_range |  
 | classification | food |  
 | classification_capital | Food |  
 | classification_first_letter | f |  

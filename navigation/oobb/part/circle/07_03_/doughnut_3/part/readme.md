@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hint |  
+| bip_39_word_dash_10 | hint-trim-believe-enrich-orange-coconut-address-essay-minor-chimney |  
+| bip_39_word_dash_11 | hint-trim-believe-enrich-orange-coconut-address-essay-minor-chimney-blouse |  
+| bip_39_word_dash_12 | hint-trim-believe-enrich-orange-coconut-address-essay-minor-chimney-blouse-arrive |  
+| bip_39_word_dash_2 | hint-trim |  
+| bip_39_word_dash_3 | hint-trim-believe |  
+| bip_39_word_dash_4 | hint-trim-believe-enrich |  
+| bip_39_word_dash_5 | hint-trim-believe-enrich-orange |  
+| bip_39_word_dash_6 | hint-trim-believe-enrich-orange-coconut |  
+| bip_39_word_dash_7 | hint-trim-believe-enrich-orange-coconut-address |  
+| bip_39_word_dash_8 | hint-trim-believe-enrich-orange-coconut-address-essay |  
+| bip_39_word_dash_9 | hint-trim-believe-enrich-orange-coconut-address-essay-minor |  
 | bip_39_word_new_br_1 | hint |  
 | bip_39_word_new_br_10 | hint<br>trim<br>believe<br>enrich<br>orange<br>coconut<br>address<br>essay<br>minor<br>chimney |  
 | bip_39_word_new_br_11 | hint<br>trim<br>believe<br>enrich<br>orange<br>coconut<br>address<br>essay<br>minor<br>chimney<br>blouse |  
@@ -147,6 +159,18 @@ minor |
 | bip_39_word_space_7 | hint trim believe enrich orange coconut address |  
 | bip_39_word_space_8 | hint trim believe enrich orange coconut address essay |  
 | bip_39_word_space_9 | hint trim believe enrich orange coconut address essay minor |  
+| bip_39_word_underscore_1 | hint |  
+| bip_39_word_underscore_10 | hint_trim_believe_enrich_orange_coconut_address_essay_minor_chimney |  
+| bip_39_word_underscore_11 | hint_trim_believe_enrich_orange_coconut_address_essay_minor_chimney_blouse |  
+| bip_39_word_underscore_12 | hint_trim_believe_enrich_orange_coconut_address_essay_minor_chimney_blouse_arrive |  
+| bip_39_word_underscore_2 | hint_trim |  
+| bip_39_word_underscore_3 | hint_trim_believe |  
+| bip_39_word_underscore_4 | hint_trim_believe_enrich |  
+| bip_39_word_underscore_5 | hint_trim_believe_enrich_orange |  
+| bip_39_word_underscore_6 | hint_trim_believe_enrich_orange_coconut |  
+| bip_39_word_underscore_7 | hint_trim_believe_enrich_orange_coconut_address |  
+| bip_39_word_underscore_8 | hint_trim_believe_enrich_orange_coconut_address_essay |  
+| bip_39_word_underscore_9 | hint_trim_believe_enrich_orange_coconut_address_essay_minor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

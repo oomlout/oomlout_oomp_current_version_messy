@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rug
+bip_39_word_dash_10: rug-scissors-replace-famous-glimpse-nerve-treat-adult-enhance-ten
+bip_39_word_dash_11: rug-scissors-replace-famous-glimpse-nerve-treat-adult-enhance-ten-purity
+bip_39_word_dash_12: rug-scissors-replace-famous-glimpse-nerve-treat-adult-enhance-ten-purity-absent
+bip_39_word_dash_2: rug-scissors
+bip_39_word_dash_3: rug-scissors-replace
+bip_39_word_dash_4: rug-scissors-replace-famous
+bip_39_word_dash_5: rug-scissors-replace-famous-glimpse
+bip_39_word_dash_6: rug-scissors-replace-famous-glimpse-nerve
+bip_39_word_dash_7: rug-scissors-replace-famous-glimpse-nerve-treat
+bip_39_word_dash_8: rug-scissors-replace-famous-glimpse-nerve-treat-adult
+bip_39_word_dash_9: rug-scissors-replace-famous-glimpse-nerve-treat-adult-enhance
 bip_39_word_new_br_1: rug
 bip_39_word_new_br_10: rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult<br>enhance<br>ten
 bip_39_word_new_br_11: rug<br>scissors<br>replace<br>famous<br>glimpse<br>nerve<br>treat<br>adult<br>enhance<br>ten<br>purity
@@ -194,6 +206,18 @@ bip_39_word_space_6: rug scissors replace famous glimpse nerve
 bip_39_word_space_7: rug scissors replace famous glimpse nerve treat
 bip_39_word_space_8: rug scissors replace famous glimpse nerve treat adult
 bip_39_word_space_9: rug scissors replace famous glimpse nerve treat adult enhance
+bip_39_word_underscore_1: rug
+bip_39_word_underscore_10: rug_scissors_replace_famous_glimpse_nerve_treat_adult_enhance_ten
+bip_39_word_underscore_11: rug_scissors_replace_famous_glimpse_nerve_treat_adult_enhance_ten_purity
+bip_39_word_underscore_12: rug_scissors_replace_famous_glimpse_nerve_treat_adult_enhance_ten_purity_absent
+bip_39_word_underscore_2: rug_scissors
+bip_39_word_underscore_3: rug_scissors_replace
+bip_39_word_underscore_4: rug_scissors_replace_famous
+bip_39_word_underscore_5: rug_scissors_replace_famous_glimpse
+bip_39_word_underscore_6: rug_scissors_replace_famous_glimpse_nerve
+bip_39_word_underscore_7: rug_scissors_replace_famous_glimpse_nerve_treat
+bip_39_word_underscore_8: rug_scissors_replace_famous_glimpse_nerve_treat_adult
+bip_39_word_underscore_9: rug_scissors_replace_famous_glimpse_nerve_treat_adult_enhance
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

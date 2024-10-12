@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pause |  
+| bip_39_word_dash_10 | pause-quote-treat-wall-blanket-social-trash-zone-room-cry |  
+| bip_39_word_dash_11 | pause-quote-treat-wall-blanket-social-trash-zone-room-cry-april |  
+| bip_39_word_dash_12 | pause-quote-treat-wall-blanket-social-trash-zone-room-cry-april-allow |  
+| bip_39_word_dash_2 | pause-quote |  
+| bip_39_word_dash_3 | pause-quote-treat |  
+| bip_39_word_dash_4 | pause-quote-treat-wall |  
+| bip_39_word_dash_5 | pause-quote-treat-wall-blanket |  
+| bip_39_word_dash_6 | pause-quote-treat-wall-blanket-social |  
+| bip_39_word_dash_7 | pause-quote-treat-wall-blanket-social-trash |  
+| bip_39_word_dash_8 | pause-quote-treat-wall-blanket-social-trash-zone |  
+| bip_39_word_dash_9 | pause-quote-treat-wall-blanket-social-trash-zone-room |  
 | bip_39_word_new_br_1 | pause |  
 | bip_39_word_new_br_10 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone<br>room<br>cry |  
 | bip_39_word_new_br_11 | pause<br>quote<br>treat<br>wall<br>blanket<br>social<br>trash<br>zone<br>room<br>cry<br>april |  
@@ -147,6 +159,18 @@ room |
 | bip_39_word_space_7 | pause quote treat wall blanket social trash |  
 | bip_39_word_space_8 | pause quote treat wall blanket social trash zone |  
 | bip_39_word_space_9 | pause quote treat wall blanket social trash zone room |  
+| bip_39_word_underscore_1 | pause |  
+| bip_39_word_underscore_10 | pause_quote_treat_wall_blanket_social_trash_zone_room_cry |  
+| bip_39_word_underscore_11 | pause_quote_treat_wall_blanket_social_trash_zone_room_cry_april |  
+| bip_39_word_underscore_12 | pause_quote_treat_wall_blanket_social_trash_zone_room_cry_april_allow |  
+| bip_39_word_underscore_2 | pause_quote |  
+| bip_39_word_underscore_3 | pause_quote_treat |  
+| bip_39_word_underscore_4 | pause_quote_treat_wall |  
+| bip_39_word_underscore_5 | pause_quote_treat_wall_blanket |  
+| bip_39_word_underscore_6 | pause_quote_treat_wall_blanket_social |  
+| bip_39_word_underscore_7 | pause_quote_treat_wall_blanket_social_trash |  
+| bip_39_word_underscore_8 | pause_quote_treat_wall_blanket_social_trash_zone |  
+| bip_39_word_underscore_9 | pause_quote_treat_wall_blanket_social_trash_zone_room |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

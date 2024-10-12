@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tumble
+bip_39_word_dash_10: tumble-hill-rich-father-split-smooth-off-key-rude-always
+bip_39_word_dash_11: tumble-hill-rich-father-split-smooth-off-key-rude-always-tennis
+bip_39_word_dash_12: tumble-hill-rich-father-split-smooth-off-key-rude-always-tennis-abuse
+bip_39_word_dash_2: tumble-hill
+bip_39_word_dash_3: tumble-hill-rich
+bip_39_word_dash_4: tumble-hill-rich-father
+bip_39_word_dash_5: tumble-hill-rich-father-split
+bip_39_word_dash_6: tumble-hill-rich-father-split-smooth
+bip_39_word_dash_7: tumble-hill-rich-father-split-smooth-off
+bip_39_word_dash_8: tumble-hill-rich-father-split-smooth-off-key
+bip_39_word_dash_9: tumble-hill-rich-father-split-smooth-off-key-rude
 bip_39_word_new_br_1: tumble
 bip_39_word_new_br_10: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always
 bip_39_word_new_br_11: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always<br>tennis
@@ -192,6 +204,18 @@ bip_39_word_space_6: tumble hill rich father split smooth
 bip_39_word_space_7: tumble hill rich father split smooth off
 bip_39_word_space_8: tumble hill rich father split smooth off key
 bip_39_word_space_9: tumble hill rich father split smooth off key rude
+bip_39_word_underscore_1: tumble
+bip_39_word_underscore_10: tumble_hill_rich_father_split_smooth_off_key_rude_always
+bip_39_word_underscore_11: tumble_hill_rich_father_split_smooth_off_key_rude_always_tennis
+bip_39_word_underscore_12: tumble_hill_rich_father_split_smooth_off_key_rude_always_tennis_abuse
+bip_39_word_underscore_2: tumble_hill
+bip_39_word_underscore_3: tumble_hill_rich
+bip_39_word_underscore_4: tumble_hill_rich_father
+bip_39_word_underscore_5: tumble_hill_rich_father_split
+bip_39_word_underscore_6: tumble_hill_rich_father_split_smooth
+bip_39_word_underscore_7: tumble_hill_rich_father_split_smooth_off
+bip_39_word_underscore_8: tumble_hill_rich_father_split_smooth_off_key
+bip_39_word_underscore_9: tumble_hill_rich_father_split_smooth_off_key_rude
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

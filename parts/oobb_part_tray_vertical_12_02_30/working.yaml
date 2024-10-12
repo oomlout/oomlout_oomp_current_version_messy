@@ -1,3 +1,15 @@
+bip_39_word_dash_1: salute
+bip_39_word_dash_10: salute-iron-height-round-skull-tragic-bar-finger-way-forum
+bip_39_word_dash_11: salute-iron-height-round-skull-tragic-bar-finger-way-forum-cloud
+bip_39_word_dash_12: salute-iron-height-round-skull-tragic-bar-finger-way-forum-cloud-attract
+bip_39_word_dash_2: salute-iron
+bip_39_word_dash_3: salute-iron-height
+bip_39_word_dash_4: salute-iron-height-round
+bip_39_word_dash_5: salute-iron-height-round-skull
+bip_39_word_dash_6: salute-iron-height-round-skull-tragic
+bip_39_word_dash_7: salute-iron-height-round-skull-tragic-bar
+bip_39_word_dash_8: salute-iron-height-round-skull-tragic-bar-finger
+bip_39_word_dash_9: salute-iron-height-round-skull-tragic-bar-finger-way
 bip_39_word_new_br_1: salute
 bip_39_word_new_br_10: salute<br>iron<br>height<br>round<br>skull<br>tragic<br>bar<br>finger<br>way<br>forum
 bip_39_word_new_br_11: salute<br>iron<br>height<br>round<br>skull<br>tragic<br>bar<br>finger<br>way<br>forum<br>cloud
@@ -192,6 +204,18 @@ bip_39_word_space_6: salute iron height round skull tragic
 bip_39_word_space_7: salute iron height round skull tragic bar
 bip_39_word_space_8: salute iron height round skull tragic bar finger
 bip_39_word_space_9: salute iron height round skull tragic bar finger way
+bip_39_word_underscore_1: salute
+bip_39_word_underscore_10: salute_iron_height_round_skull_tragic_bar_finger_way_forum
+bip_39_word_underscore_11: salute_iron_height_round_skull_tragic_bar_finger_way_forum_cloud
+bip_39_word_underscore_12: salute_iron_height_round_skull_tragic_bar_finger_way_forum_cloud_attract
+bip_39_word_underscore_2: salute_iron
+bip_39_word_underscore_3: salute_iron_height
+bip_39_word_underscore_4: salute_iron_height_round
+bip_39_word_underscore_5: salute_iron_height_round_skull
+bip_39_word_underscore_6: salute_iron_height_round_skull_tragic
+bip_39_word_underscore_7: salute_iron_height_round_skull_tragic_bar
+bip_39_word_underscore_8: salute_iron_height_round_skull_tragic_bar_finger
+bip_39_word_underscore_9: salute_iron_height_round_skull_tragic_bar_finger_way
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wheat |  
+| bip_39_word_dash_10 | wheat-lecture-expand-usual-vessel-power-coil-win-pen-panic |  
+| bip_39_word_dash_11 | wheat-lecture-expand-usual-vessel-power-coil-win-pen-panic-blame |  
+| bip_39_word_dash_12 | wheat-lecture-expand-usual-vessel-power-coil-win-pen-panic-blame-alter |  
+| bip_39_word_dash_2 | wheat-lecture |  
+| bip_39_word_dash_3 | wheat-lecture-expand |  
+| bip_39_word_dash_4 | wheat-lecture-expand-usual |  
+| bip_39_word_dash_5 | wheat-lecture-expand-usual-vessel |  
+| bip_39_word_dash_6 | wheat-lecture-expand-usual-vessel-power |  
+| bip_39_word_dash_7 | wheat-lecture-expand-usual-vessel-power-coil |  
+| bip_39_word_dash_8 | wheat-lecture-expand-usual-vessel-power-coil-win |  
+| bip_39_word_dash_9 | wheat-lecture-expand-usual-vessel-power-coil-win-pen |  
 | bip_39_word_new_br_1 | wheat |  
 | bip_39_word_new_br_10 | wheat<br>lecture<br>expand<br>usual<br>vessel<br>power<br>coil<br>win<br>pen<br>panic |  
 | bip_39_word_new_br_11 | wheat<br>lecture<br>expand<br>usual<br>vessel<br>power<br>coil<br>win<br>pen<br>panic<br>blame |  
@@ -147,6 +159,18 @@ pen |
 | bip_39_word_space_7 | wheat lecture expand usual vessel power coil |  
 | bip_39_word_space_8 | wheat lecture expand usual vessel power coil win |  
 | bip_39_word_space_9 | wheat lecture expand usual vessel power coil win pen |  
+| bip_39_word_underscore_1 | wheat |  
+| bip_39_word_underscore_10 | wheat_lecture_expand_usual_vessel_power_coil_win_pen_panic |  
+| bip_39_word_underscore_11 | wheat_lecture_expand_usual_vessel_power_coil_win_pen_panic_blame |  
+| bip_39_word_underscore_12 | wheat_lecture_expand_usual_vessel_power_coil_win_pen_panic_blame_alter |  
+| bip_39_word_underscore_2 | wheat_lecture |  
+| bip_39_word_underscore_3 | wheat_lecture_expand |  
+| bip_39_word_underscore_4 | wheat_lecture_expand_usual |  
+| bip_39_word_underscore_5 | wheat_lecture_expand_usual_vessel |  
+| bip_39_word_underscore_6 | wheat_lecture_expand_usual_vessel_power |  
+| bip_39_word_underscore_7 | wheat_lecture_expand_usual_vessel_power_coil |  
+| bip_39_word_underscore_8 | wheat_lecture_expand_usual_vessel_power_coil_win |  
+| bip_39_word_underscore_9 | wheat_lecture_expand_usual_vessel_power_coil_win_pen |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

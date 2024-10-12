@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mother |  
+| bip_39_word_dash_10 | mother-pear-whale-prefer-amount-vote-now-frog-doctor-web |  
+| bip_39_word_dash_11 | mother-pear-whale-prefer-amount-vote-now-frog-doctor-web-measure |  
+| bip_39_word_dash_12 | mother-pear-whale-prefer-amount-vote-now-frog-doctor-web-measure-among |  
+| bip_39_word_dash_2 | mother-pear |  
+| bip_39_word_dash_3 | mother-pear-whale |  
+| bip_39_word_dash_4 | mother-pear-whale-prefer |  
+| bip_39_word_dash_5 | mother-pear-whale-prefer-amount |  
+| bip_39_word_dash_6 | mother-pear-whale-prefer-amount-vote |  
+| bip_39_word_dash_7 | mother-pear-whale-prefer-amount-vote-now |  
+| bip_39_word_dash_8 | mother-pear-whale-prefer-amount-vote-now-frog |  
+| bip_39_word_dash_9 | mother-pear-whale-prefer-amount-vote-now-frog-doctor |  
 | bip_39_word_new_br_1 | mother |  
 | bip_39_word_new_br_10 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog<br>doctor<br>web |  
 | bip_39_word_new_br_11 | mother<br>pear<br>whale<br>prefer<br>amount<br>vote<br>now<br>frog<br>doctor<br>web<br>measure |  
@@ -147,6 +159,18 @@ doctor |
 | bip_39_word_space_7 | mother pear whale prefer amount vote now |  
 | bip_39_word_space_8 | mother pear whale prefer amount vote now frog |  
 | bip_39_word_space_9 | mother pear whale prefer amount vote now frog doctor |  
+| bip_39_word_underscore_1 | mother |  
+| bip_39_word_underscore_10 | mother_pear_whale_prefer_amount_vote_now_frog_doctor_web |  
+| bip_39_word_underscore_11 | mother_pear_whale_prefer_amount_vote_now_frog_doctor_web_measure |  
+| bip_39_word_underscore_12 | mother_pear_whale_prefer_amount_vote_now_frog_doctor_web_measure_among |  
+| bip_39_word_underscore_2 | mother_pear |  
+| bip_39_word_underscore_3 | mother_pear_whale |  
+| bip_39_word_underscore_4 | mother_pear_whale_prefer |  
+| bip_39_word_underscore_5 | mother_pear_whale_prefer_amount |  
+| bip_39_word_underscore_6 | mother_pear_whale_prefer_amount_vote |  
+| bip_39_word_underscore_7 | mother_pear_whale_prefer_amount_vote_now |  
+| bip_39_word_underscore_8 | mother_pear_whale_prefer_amount_vote_now_frog |  
+| bip_39_word_underscore_9 | mother_pear_whale_prefer_amount_vote_now_frog_doctor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

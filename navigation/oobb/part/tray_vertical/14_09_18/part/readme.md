@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fruit |  
+| bip_39_word_dash_10 | fruit-test-similar-impulse-route-bulb-tired-garlic-vote-among |  
+| bip_39_word_dash_11 | fruit-test-similar-impulse-route-bulb-tired-garlic-vote-among-cement |  
+| bip_39_word_dash_12 | fruit-test-similar-impulse-route-bulb-tired-garlic-vote-among-cement-absorb |  
+| bip_39_word_dash_2 | fruit-test |  
+| bip_39_word_dash_3 | fruit-test-similar |  
+| bip_39_word_dash_4 | fruit-test-similar-impulse |  
+| bip_39_word_dash_5 | fruit-test-similar-impulse-route |  
+| bip_39_word_dash_6 | fruit-test-similar-impulse-route-bulb |  
+| bip_39_word_dash_7 | fruit-test-similar-impulse-route-bulb-tired |  
+| bip_39_word_dash_8 | fruit-test-similar-impulse-route-bulb-tired-garlic |  
+| bip_39_word_dash_9 | fruit-test-similar-impulse-route-bulb-tired-garlic-vote |  
 | bip_39_word_new_br_1 | fruit |  
 | bip_39_word_new_br_10 | fruit<br>test<br>similar<br>impulse<br>route<br>bulb<br>tired<br>garlic<br>vote<br>among |  
 | bip_39_word_new_br_11 | fruit<br>test<br>similar<br>impulse<br>route<br>bulb<br>tired<br>garlic<br>vote<br>among<br>cement |  
@@ -147,6 +159,18 @@ vote |
 | bip_39_word_space_7 | fruit test similar impulse route bulb tired |  
 | bip_39_word_space_8 | fruit test similar impulse route bulb tired garlic |  
 | bip_39_word_space_9 | fruit test similar impulse route bulb tired garlic vote |  
+| bip_39_word_underscore_1 | fruit |  
+| bip_39_word_underscore_10 | fruit_test_similar_impulse_route_bulb_tired_garlic_vote_among |  
+| bip_39_word_underscore_11 | fruit_test_similar_impulse_route_bulb_tired_garlic_vote_among_cement |  
+| bip_39_word_underscore_12 | fruit_test_similar_impulse_route_bulb_tired_garlic_vote_among_cement_absorb |  
+| bip_39_word_underscore_2 | fruit_test |  
+| bip_39_word_underscore_3 | fruit_test_similar |  
+| bip_39_word_underscore_4 | fruit_test_similar_impulse |  
+| bip_39_word_underscore_5 | fruit_test_similar_impulse_route |  
+| bip_39_word_underscore_6 | fruit_test_similar_impulse_route_bulb |  
+| bip_39_word_underscore_7 | fruit_test_similar_impulse_route_bulb_tired |  
+| bip_39_word_underscore_8 | fruit_test_similar_impulse_route_bulb_tired_garlic |  
+| bip_39_word_underscore_9 | fruit_test_similar_impulse_route_bulb_tired_garlic_vote |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

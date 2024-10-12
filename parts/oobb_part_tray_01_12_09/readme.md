@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shoe |  
+| bip_39_word_dash_10 | shoe-bread-rare-misery-work-mouse-nasty-length-hunt-corn |  
+| bip_39_word_dash_11 | shoe-bread-rare-misery-work-mouse-nasty-length-hunt-corn-hawk |  
+| bip_39_word_dash_12 | shoe-bread-rare-misery-work-mouse-nasty-length-hunt-corn-hawk-acid |  
+| bip_39_word_dash_2 | shoe-bread |  
+| bip_39_word_dash_3 | shoe-bread-rare |  
+| bip_39_word_dash_4 | shoe-bread-rare-misery |  
+| bip_39_word_dash_5 | shoe-bread-rare-misery-work |  
+| bip_39_word_dash_6 | shoe-bread-rare-misery-work-mouse |  
+| bip_39_word_dash_7 | shoe-bread-rare-misery-work-mouse-nasty |  
+| bip_39_word_dash_8 | shoe-bread-rare-misery-work-mouse-nasty-length |  
+| bip_39_word_dash_9 | shoe-bread-rare-misery-work-mouse-nasty-length-hunt |  
 | bip_39_word_new_br_1 | shoe |  
 | bip_39_word_new_br_10 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length<br>hunt<br>corn |  
 | bip_39_word_new_br_11 | shoe<br>bread<br>rare<br>misery<br>work<br>mouse<br>nasty<br>length<br>hunt<br>corn<br>hawk |  
@@ -147,6 +159,18 @@ hunt |
 | bip_39_word_space_7 | shoe bread rare misery work mouse nasty |  
 | bip_39_word_space_8 | shoe bread rare misery work mouse nasty length |  
 | bip_39_word_space_9 | shoe bread rare misery work mouse nasty length hunt |  
+| bip_39_word_underscore_1 | shoe |  
+| bip_39_word_underscore_10 | shoe_bread_rare_misery_work_mouse_nasty_length_hunt_corn |  
+| bip_39_word_underscore_11 | shoe_bread_rare_misery_work_mouse_nasty_length_hunt_corn_hawk |  
+| bip_39_word_underscore_12 | shoe_bread_rare_misery_work_mouse_nasty_length_hunt_corn_hawk_acid |  
+| bip_39_word_underscore_2 | shoe_bread |  
+| bip_39_word_underscore_3 | shoe_bread_rare |  
+| bip_39_word_underscore_4 | shoe_bread_rare_misery |  
+| bip_39_word_underscore_5 | shoe_bread_rare_misery_work |  
+| bip_39_word_underscore_6 | shoe_bread_rare_misery_work_mouse |  
+| bip_39_word_underscore_7 | shoe_bread_rare_misery_work_mouse_nasty |  
+| bip_39_word_underscore_8 | shoe_bread_rare_misery_work_mouse_nasty_length |  
+| bip_39_word_underscore_9 | shoe_bread_rare_misery_work_mouse_nasty_length_hunt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

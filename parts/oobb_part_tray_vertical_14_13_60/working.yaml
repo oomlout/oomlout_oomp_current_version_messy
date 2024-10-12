@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hospital
+bip_39_word_dash_10: hospital-grief-basic-night-pattern-primary-square-dumb-dune-biology
+bip_39_word_dash_11: hospital-grief-basic-night-pattern-primary-square-dumb-dune-biology-drum
+bip_39_word_dash_12: hospital-grief-basic-night-pattern-primary-square-dumb-dune-biology-drum-annual
+bip_39_word_dash_2: hospital-grief
+bip_39_word_dash_3: hospital-grief-basic
+bip_39_word_dash_4: hospital-grief-basic-night
+bip_39_word_dash_5: hospital-grief-basic-night-pattern
+bip_39_word_dash_6: hospital-grief-basic-night-pattern-primary
+bip_39_word_dash_7: hospital-grief-basic-night-pattern-primary-square
+bip_39_word_dash_8: hospital-grief-basic-night-pattern-primary-square-dumb
+bip_39_word_dash_9: hospital-grief-basic-night-pattern-primary-square-dumb-dune
 bip_39_word_new_br_1: hospital
 bip_39_word_new_br_10: hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology
 bip_39_word_new_br_11: hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology<br>drum
@@ -194,6 +206,18 @@ bip_39_word_space_6: hospital grief basic night pattern primary
 bip_39_word_space_7: hospital grief basic night pattern primary square
 bip_39_word_space_8: hospital grief basic night pattern primary square dumb
 bip_39_word_space_9: hospital grief basic night pattern primary square dumb dune
+bip_39_word_underscore_1: hospital
+bip_39_word_underscore_10: hospital_grief_basic_night_pattern_primary_square_dumb_dune_biology
+bip_39_word_underscore_11: hospital_grief_basic_night_pattern_primary_square_dumb_dune_biology_drum
+bip_39_word_underscore_12: hospital_grief_basic_night_pattern_primary_square_dumb_dune_biology_drum_annual
+bip_39_word_underscore_2: hospital_grief
+bip_39_word_underscore_3: hospital_grief_basic
+bip_39_word_underscore_4: hospital_grief_basic_night
+bip_39_word_underscore_5: hospital_grief_basic_night_pattern
+bip_39_word_underscore_6: hospital_grief_basic_night_pattern_primary
+bip_39_word_underscore_7: hospital_grief_basic_night_pattern_primary_square
+bip_39_word_underscore_8: hospital_grief_basic_night_pattern_primary_square_dumb
+bip_39_word_underscore_9: hospital_grief_basic_night_pattern_primary_square_dumb_dune
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

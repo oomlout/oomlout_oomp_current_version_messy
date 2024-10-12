@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | door |  
+| bip_39_word_dash_10 | door-behind-silver-bone-scorpion-unfold-opera-claim-barrel-inflict |  
+| bip_39_word_dash_11 | door-behind-silver-bone-scorpion-unfold-opera-claim-barrel-inflict-envelope |  
+| bip_39_word_dash_12 | door-behind-silver-bone-scorpion-unfold-opera-claim-barrel-inflict-envelope-artwork |  
+| bip_39_word_dash_2 | door-behind |  
+| bip_39_word_dash_3 | door-behind-silver |  
+| bip_39_word_dash_4 | door-behind-silver-bone |  
+| bip_39_word_dash_5 | door-behind-silver-bone-scorpion |  
+| bip_39_word_dash_6 | door-behind-silver-bone-scorpion-unfold |  
+| bip_39_word_dash_7 | door-behind-silver-bone-scorpion-unfold-opera |  
+| bip_39_word_dash_8 | door-behind-silver-bone-scorpion-unfold-opera-claim |  
+| bip_39_word_dash_9 | door-behind-silver-bone-scorpion-unfold-opera-claim-barrel |  
 | bip_39_word_new_br_1 | door |  
 | bip_39_word_new_br_10 | door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim<br>barrel<br>inflict |  
 | bip_39_word_new_br_11 | door<br>behind<br>silver<br>bone<br>scorpion<br>unfold<br>opera<br>claim<br>barrel<br>inflict<br>envelope |  
@@ -147,6 +159,18 @@ barrel |
 | bip_39_word_space_7 | door behind silver bone scorpion unfold opera |  
 | bip_39_word_space_8 | door behind silver bone scorpion unfold opera claim |  
 | bip_39_word_space_9 | door behind silver bone scorpion unfold opera claim barrel |  
+| bip_39_word_underscore_1 | door |  
+| bip_39_word_underscore_10 | door_behind_silver_bone_scorpion_unfold_opera_claim_barrel_inflict |  
+| bip_39_word_underscore_11 | door_behind_silver_bone_scorpion_unfold_opera_claim_barrel_inflict_envelope |  
+| bip_39_word_underscore_12 | door_behind_silver_bone_scorpion_unfold_opera_claim_barrel_inflict_envelope_artwork |  
+| bip_39_word_underscore_2 | door_behind |  
+| bip_39_word_underscore_3 | door_behind_silver |  
+| bip_39_word_underscore_4 | door_behind_silver_bone |  
+| bip_39_word_underscore_5 | door_behind_silver_bone_scorpion |  
+| bip_39_word_underscore_6 | door_behind_silver_bone_scorpion_unfold |  
+| bip_39_word_underscore_7 | door_behind_silver_bone_scorpion_unfold_opera |  
+| bip_39_word_underscore_8 | door_behind_silver_bone_scorpion_unfold_opera_claim |  
+| bip_39_word_underscore_9 | door_behind_silver_bone_scorpion_unfold_opera_claim_barrel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

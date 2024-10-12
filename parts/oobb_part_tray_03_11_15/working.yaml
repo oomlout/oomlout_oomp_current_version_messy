@@ -1,3 +1,15 @@
+bip_39_word_dash_1: math
+bip_39_word_dash_10: math-fat-maid-long-feature-citizen-dream-shoe-camera-project
+bip_39_word_dash_11: math-fat-maid-long-feature-citizen-dream-shoe-camera-project-raccoon
+bip_39_word_dash_12: math-fat-maid-long-feature-citizen-dream-shoe-camera-project-raccoon-alpha
+bip_39_word_dash_2: math-fat
+bip_39_word_dash_3: math-fat-maid
+bip_39_word_dash_4: math-fat-maid-long
+bip_39_word_dash_5: math-fat-maid-long-feature
+bip_39_word_dash_6: math-fat-maid-long-feature-citizen
+bip_39_word_dash_7: math-fat-maid-long-feature-citizen-dream
+bip_39_word_dash_8: math-fat-maid-long-feature-citizen-dream-shoe
+bip_39_word_dash_9: math-fat-maid-long-feature-citizen-dream-shoe-camera
 bip_39_word_new_br_1: math
 bip_39_word_new_br_10: math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project
 bip_39_word_new_br_11: math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project<br>raccoon
@@ -193,6 +205,18 @@ bip_39_word_space_6: math fat maid long feature citizen
 bip_39_word_space_7: math fat maid long feature citizen dream
 bip_39_word_space_8: math fat maid long feature citizen dream shoe
 bip_39_word_space_9: math fat maid long feature citizen dream shoe camera
+bip_39_word_underscore_1: math
+bip_39_word_underscore_10: math_fat_maid_long_feature_citizen_dream_shoe_camera_project
+bip_39_word_underscore_11: math_fat_maid_long_feature_citizen_dream_shoe_camera_project_raccoon
+bip_39_word_underscore_12: math_fat_maid_long_feature_citizen_dream_shoe_camera_project_raccoon_alpha
+bip_39_word_underscore_2: math_fat
+bip_39_word_underscore_3: math_fat_maid
+bip_39_word_underscore_4: math_fat_maid_long
+bip_39_word_underscore_5: math_fat_maid_long_feature
+bip_39_word_underscore_6: math_fat_maid_long_feature_citizen
+bip_39_word_underscore_7: math_fat_maid_long_feature_citizen_dream
+bip_39_word_underscore_8: math_fat_maid_long_feature_citizen_dream_shoe
+bip_39_word_underscore_9: math_fat_maid_long_feature_citizen_dream_shoe_camera
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

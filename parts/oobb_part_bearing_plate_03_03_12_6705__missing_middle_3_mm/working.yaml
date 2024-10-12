@@ -1,3 +1,15 @@
+bip_39_word_dash_1: goddess
+bip_39_word_dash_10: goddess-train-palm-nasty-wing-neither-glass-movie-local-lonely
+bip_39_word_dash_11: goddess-train-palm-nasty-wing-neither-glass-movie-local-lonely-differ
+bip_39_word_dash_12: goddess-train-palm-nasty-wing-neither-glass-movie-local-lonely-differ-any
+bip_39_word_dash_2: goddess-train
+bip_39_word_dash_3: goddess-train-palm
+bip_39_word_dash_4: goddess-train-palm-nasty
+bip_39_word_dash_5: goddess-train-palm-nasty-wing
+bip_39_word_dash_6: goddess-train-palm-nasty-wing-neither
+bip_39_word_dash_7: goddess-train-palm-nasty-wing-neither-glass
+bip_39_word_dash_8: goddess-train-palm-nasty-wing-neither-glass-movie
+bip_39_word_dash_9: goddess-train-palm-nasty-wing-neither-glass-movie-local
 bip_39_word_new_br_1: goddess
 bip_39_word_new_br_10: goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie<br>local<br>lonely
 bip_39_word_new_br_11: goddess<br>train<br>palm<br>nasty<br>wing<br>neither<br>glass<br>movie<br>local<br>lonely<br>differ
@@ -193,6 +205,18 @@ bip_39_word_space_6: goddess train palm nasty wing neither
 bip_39_word_space_7: goddess train palm nasty wing neither glass
 bip_39_word_space_8: goddess train palm nasty wing neither glass movie
 bip_39_word_space_9: goddess train palm nasty wing neither glass movie local
+bip_39_word_underscore_1: goddess
+bip_39_word_underscore_10: goddess_train_palm_nasty_wing_neither_glass_movie_local_lonely
+bip_39_word_underscore_11: goddess_train_palm_nasty_wing_neither_glass_movie_local_lonely_differ
+bip_39_word_underscore_12: goddess_train_palm_nasty_wing_neither_glass_movie_local_lonely_differ_any
+bip_39_word_underscore_2: goddess_train
+bip_39_word_underscore_3: goddess_train_palm
+bip_39_word_underscore_4: goddess_train_palm_nasty
+bip_39_word_underscore_5: goddess_train_palm_nasty_wing
+bip_39_word_underscore_6: goddess_train_palm_nasty_wing_neither
+bip_39_word_underscore_7: goddess_train_palm_nasty_wing_neither_glass
+bip_39_word_underscore_8: goddess_train_palm_nasty_wing_neither_glass_movie
+bip_39_word_underscore_9: goddess_train_palm_nasty_wing_neither_glass_movie_local
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

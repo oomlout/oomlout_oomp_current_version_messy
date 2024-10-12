@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tunnel
+bip_39_word_dash_10: tunnel-draw-grace-chat-patch-glue-earn-afraid-wagon-rabbit
+bip_39_word_dash_11: tunnel-draw-grace-chat-patch-glue-earn-afraid-wagon-rabbit-actress
+bip_39_word_dash_12: tunnel-draw-grace-chat-patch-glue-earn-afraid-wagon-rabbit-actress-actual
+bip_39_word_dash_2: tunnel-draw
+bip_39_word_dash_3: tunnel-draw-grace
+bip_39_word_dash_4: tunnel-draw-grace-chat
+bip_39_word_dash_5: tunnel-draw-grace-chat-patch
+bip_39_word_dash_6: tunnel-draw-grace-chat-patch-glue
+bip_39_word_dash_7: tunnel-draw-grace-chat-patch-glue-earn
+bip_39_word_dash_8: tunnel-draw-grace-chat-patch-glue-earn-afraid
+bip_39_word_dash_9: tunnel-draw-grace-chat-patch-glue-earn-afraid-wagon
 bip_39_word_new_br_1: tunnel
 bip_39_word_new_br_10: tunnel<br>draw<br>grace<br>chat<br>patch<br>glue<br>earn<br>afraid<br>wagon<br>rabbit
 bip_39_word_new_br_11: tunnel<br>draw<br>grace<br>chat<br>patch<br>glue<br>earn<br>afraid<br>wagon<br>rabbit<br>actress
@@ -192,6 +204,18 @@ bip_39_word_space_6: tunnel draw grace chat patch glue
 bip_39_word_space_7: tunnel draw grace chat patch glue earn
 bip_39_word_space_8: tunnel draw grace chat patch glue earn afraid
 bip_39_word_space_9: tunnel draw grace chat patch glue earn afraid wagon
+bip_39_word_underscore_1: tunnel
+bip_39_word_underscore_10: tunnel_draw_grace_chat_patch_glue_earn_afraid_wagon_rabbit
+bip_39_word_underscore_11: tunnel_draw_grace_chat_patch_glue_earn_afraid_wagon_rabbit_actress
+bip_39_word_underscore_12: tunnel_draw_grace_chat_patch_glue_earn_afraid_wagon_rabbit_actress_actual
+bip_39_word_underscore_2: tunnel_draw
+bip_39_word_underscore_3: tunnel_draw_grace
+bip_39_word_underscore_4: tunnel_draw_grace_chat
+bip_39_word_underscore_5: tunnel_draw_grace_chat_patch
+bip_39_word_underscore_6: tunnel_draw_grace_chat_patch_glue
+bip_39_word_underscore_7: tunnel_draw_grace_chat_patch_glue_earn
+bip_39_word_underscore_8: tunnel_draw_grace_chat_patch_glue_earn_afraid
+bip_39_word_underscore_9: tunnel_draw_grace_chat_patch_glue_earn_afraid_wagon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

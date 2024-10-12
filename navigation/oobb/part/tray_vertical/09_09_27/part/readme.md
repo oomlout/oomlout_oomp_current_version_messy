@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burden |  
+| bip_39_word_dash_10 | burden-oak-two-industry-waste-flower-ripple-fee-spy-sunny |  
+| bip_39_word_dash_11 | burden-oak-two-industry-waste-flower-ripple-fee-spy-sunny-minor |  
+| bip_39_word_dash_12 | burden-oak-two-industry-waste-flower-ripple-fee-spy-sunny-minor-average |  
+| bip_39_word_dash_2 | burden-oak |  
+| bip_39_word_dash_3 | burden-oak-two |  
+| bip_39_word_dash_4 | burden-oak-two-industry |  
+| bip_39_word_dash_5 | burden-oak-two-industry-waste |  
+| bip_39_word_dash_6 | burden-oak-two-industry-waste-flower |  
+| bip_39_word_dash_7 | burden-oak-two-industry-waste-flower-ripple |  
+| bip_39_word_dash_8 | burden-oak-two-industry-waste-flower-ripple-fee |  
+| bip_39_word_dash_9 | burden-oak-two-industry-waste-flower-ripple-fee-spy |  
 | bip_39_word_new_br_1 | burden |  
 | bip_39_word_new_br_10 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee<br>spy<br>sunny |  
 | bip_39_word_new_br_11 | burden<br>oak<br>two<br>industry<br>waste<br>flower<br>ripple<br>fee<br>spy<br>sunny<br>minor |  
@@ -147,6 +159,18 @@ spy |
 | bip_39_word_space_7 | burden oak two industry waste flower ripple |  
 | bip_39_word_space_8 | burden oak two industry waste flower ripple fee |  
 | bip_39_word_space_9 | burden oak two industry waste flower ripple fee spy |  
+| bip_39_word_underscore_1 | burden |  
+| bip_39_word_underscore_10 | burden_oak_two_industry_waste_flower_ripple_fee_spy_sunny |  
+| bip_39_word_underscore_11 | burden_oak_two_industry_waste_flower_ripple_fee_spy_sunny_minor |  
+| bip_39_word_underscore_12 | burden_oak_two_industry_waste_flower_ripple_fee_spy_sunny_minor_average |  
+| bip_39_word_underscore_2 | burden_oak |  
+| bip_39_word_underscore_3 | burden_oak_two |  
+| bip_39_word_underscore_4 | burden_oak_two_industry |  
+| bip_39_word_underscore_5 | burden_oak_two_industry_waste |  
+| bip_39_word_underscore_6 | burden_oak_two_industry_waste_flower |  
+| bip_39_word_underscore_7 | burden_oak_two_industry_waste_flower_ripple |  
+| bip_39_word_underscore_8 | burden_oak_two_industry_waste_flower_ripple_fee |  
+| bip_39_word_underscore_9 | burden_oak_two_industry_waste_flower_ripple_fee_spy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

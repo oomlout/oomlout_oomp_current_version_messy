@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blossom
+bip_39_word_dash_10: blossom-cute-raise-escape-trial-where-knife-actor-arch-identify
+bip_39_word_dash_11: blossom-cute-raise-escape-trial-where-knife-actor-arch-identify-unique
+bip_39_word_dash_12: blossom-cute-raise-escape-trial-where-knife-actor-arch-identify-unique-atom
+bip_39_word_dash_2: blossom-cute
+bip_39_word_dash_3: blossom-cute-raise
+bip_39_word_dash_4: blossom-cute-raise-escape
+bip_39_word_dash_5: blossom-cute-raise-escape-trial
+bip_39_word_dash_6: blossom-cute-raise-escape-trial-where
+bip_39_word_dash_7: blossom-cute-raise-escape-trial-where-knife
+bip_39_word_dash_8: blossom-cute-raise-escape-trial-where-knife-actor
+bip_39_word_dash_9: blossom-cute-raise-escape-trial-where-knife-actor-arch
 bip_39_word_new_br_1: blossom
 bip_39_word_new_br_10: blossom<br>cute<br>raise<br>escape<br>trial<br>where<br>knife<br>actor<br>arch<br>identify
 bip_39_word_new_br_11: blossom<br>cute<br>raise<br>escape<br>trial<br>where<br>knife<br>actor<br>arch<br>identify<br>unique
@@ -193,6 +205,18 @@ bip_39_word_space_6: blossom cute raise escape trial where
 bip_39_word_space_7: blossom cute raise escape trial where knife
 bip_39_word_space_8: blossom cute raise escape trial where knife actor
 bip_39_word_space_9: blossom cute raise escape trial where knife actor arch
+bip_39_word_underscore_1: blossom
+bip_39_word_underscore_10: blossom_cute_raise_escape_trial_where_knife_actor_arch_identify
+bip_39_word_underscore_11: blossom_cute_raise_escape_trial_where_knife_actor_arch_identify_unique
+bip_39_word_underscore_12: blossom_cute_raise_escape_trial_where_knife_actor_arch_identify_unique_atom
+bip_39_word_underscore_2: blossom_cute
+bip_39_word_underscore_3: blossom_cute_raise
+bip_39_word_underscore_4: blossom_cute_raise_escape
+bip_39_word_underscore_5: blossom_cute_raise_escape_trial
+bip_39_word_underscore_6: blossom_cute_raise_escape_trial_where
+bip_39_word_underscore_7: blossom_cute_raise_escape_trial_where_knife
+bip_39_word_underscore_8: blossom_cute_raise_escape_trial_where_knife_actor
+bip_39_word_underscore_9: blossom_cute_raise_escape_trial_where_knife_actor_arch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

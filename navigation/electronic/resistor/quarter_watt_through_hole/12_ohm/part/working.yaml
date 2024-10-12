@@ -1,3 +1,15 @@
+bip_39_word_dash_1: betray
+bip_39_word_dash_10: betray-pattern-rigid-calm-bomb-language-wet-bullet-health-wrestle
+bip_39_word_dash_11: betray-pattern-rigid-calm-bomb-language-wet-bullet-health-wrestle-carry
+bip_39_word_dash_12: betray-pattern-rigid-calm-bomb-language-wet-bullet-health-wrestle-carry-acid
+bip_39_word_dash_2: betray-pattern
+bip_39_word_dash_3: betray-pattern-rigid
+bip_39_word_dash_4: betray-pattern-rigid-calm
+bip_39_word_dash_5: betray-pattern-rigid-calm-bomb
+bip_39_word_dash_6: betray-pattern-rigid-calm-bomb-language
+bip_39_word_dash_7: betray-pattern-rigid-calm-bomb-language-wet
+bip_39_word_dash_8: betray-pattern-rigid-calm-bomb-language-wet-bullet
+bip_39_word_dash_9: betray-pattern-rigid-calm-bomb-language-wet-bullet-health
 bip_39_word_new_br_1: betray
 bip_39_word_new_br_10: betray<br>pattern<br>rigid<br>calm<br>bomb<br>language<br>wet<br>bullet<br>health<br>wrestle
 bip_39_word_new_br_11: betray<br>pattern<br>rigid<br>calm<br>bomb<br>language<br>wet<br>bullet<br>health<br>wrestle<br>carry
@@ -193,6 +205,18 @@ bip_39_word_space_6: betray pattern rigid calm bomb language
 bip_39_word_space_7: betray pattern rigid calm bomb language wet
 bip_39_word_space_8: betray pattern rigid calm bomb language wet bullet
 bip_39_word_space_9: betray pattern rigid calm bomb language wet bullet health
+bip_39_word_underscore_1: betray
+bip_39_word_underscore_10: betray_pattern_rigid_calm_bomb_language_wet_bullet_health_wrestle
+bip_39_word_underscore_11: betray_pattern_rigid_calm_bomb_language_wet_bullet_health_wrestle_carry
+bip_39_word_underscore_12: betray_pattern_rigid_calm_bomb_language_wet_bullet_health_wrestle_carry_acid
+bip_39_word_underscore_2: betray_pattern
+bip_39_word_underscore_3: betray_pattern_rigid
+bip_39_word_underscore_4: betray_pattern_rigid_calm
+bip_39_word_underscore_5: betray_pattern_rigid_calm_bomb
+bip_39_word_underscore_6: betray_pattern_rigid_calm_bomb_language
+bip_39_word_underscore_7: betray_pattern_rigid_calm_bomb_language_wet
+bip_39_word_underscore_8: betray_pattern_rigid_calm_bomb_language_wet_bullet
+bip_39_word_underscore_9: betray_pattern_rigid_calm_bomb_language_wet_bullet_health
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rule
+bip_39_word_dash_10: rule-early-always-feel-blast-urban-reform-club-sight-repair
+bip_39_word_dash_11: rule-early-always-feel-blast-urban-reform-club-sight-repair-tilt
+bip_39_word_dash_12: rule-early-always-feel-blast-urban-reform-club-sight-repair-tilt-again
+bip_39_word_dash_2: rule-early
+bip_39_word_dash_3: rule-early-always
+bip_39_word_dash_4: rule-early-always-feel
+bip_39_word_dash_5: rule-early-always-feel-blast
+bip_39_word_dash_6: rule-early-always-feel-blast-urban
+bip_39_word_dash_7: rule-early-always-feel-blast-urban-reform
+bip_39_word_dash_8: rule-early-always-feel-blast-urban-reform-club
+bip_39_word_dash_9: rule-early-always-feel-blast-urban-reform-club-sight
 bip_39_word_new_br_1: rule
 bip_39_word_new_br_10: rule<br>early<br>always<br>feel<br>blast<br>urban<br>reform<br>club<br>sight<br>repair
 bip_39_word_new_br_11: rule<br>early<br>always<br>feel<br>blast<br>urban<br>reform<br>club<br>sight<br>repair<br>tilt
@@ -193,6 +205,18 @@ bip_39_word_space_6: rule early always feel blast urban
 bip_39_word_space_7: rule early always feel blast urban reform
 bip_39_word_space_8: rule early always feel blast urban reform club
 bip_39_word_space_9: rule early always feel blast urban reform club sight
+bip_39_word_underscore_1: rule
+bip_39_word_underscore_10: rule_early_always_feel_blast_urban_reform_club_sight_repair
+bip_39_word_underscore_11: rule_early_always_feel_blast_urban_reform_club_sight_repair_tilt
+bip_39_word_underscore_12: rule_early_always_feel_blast_urban_reform_club_sight_repair_tilt_again
+bip_39_word_underscore_2: rule_early
+bip_39_word_underscore_3: rule_early_always
+bip_39_word_underscore_4: rule_early_always_feel
+bip_39_word_underscore_5: rule_early_always_feel_blast
+bip_39_word_underscore_6: rule_early_always_feel_blast_urban
+bip_39_word_underscore_7: rule_early_always_feel_blast_urban_reform
+bip_39_word_underscore_8: rule_early_always_feel_blast_urban_reform_club
+bip_39_word_underscore_9: rule_early_always_feel_blast_urban_reform_club_sight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grief
+bip_39_word_dash_10: grief-guess-narrow-write-welcome-quality-raw-filter-submit-brief
+bip_39_word_dash_11: grief-guess-narrow-write-welcome-quality-raw-filter-submit-brief-phone
+bip_39_word_dash_12: grief-guess-narrow-write-welcome-quality-raw-filter-submit-brief-phone-all
+bip_39_word_dash_2: grief-guess
+bip_39_word_dash_3: grief-guess-narrow
+bip_39_word_dash_4: grief-guess-narrow-write
+bip_39_word_dash_5: grief-guess-narrow-write-welcome
+bip_39_word_dash_6: grief-guess-narrow-write-welcome-quality
+bip_39_word_dash_7: grief-guess-narrow-write-welcome-quality-raw
+bip_39_word_dash_8: grief-guess-narrow-write-welcome-quality-raw-filter
+bip_39_word_dash_9: grief-guess-narrow-write-welcome-quality-raw-filter-submit
 bip_39_word_new_br_1: grief
 bip_39_word_new_br_10: grief<br>guess<br>narrow<br>write<br>welcome<br>quality<br>raw<br>filter<br>submit<br>brief
 bip_39_word_new_br_11: grief<br>guess<br>narrow<br>write<br>welcome<br>quality<br>raw<br>filter<br>submit<br>brief<br>phone
@@ -193,6 +205,18 @@ bip_39_word_space_6: grief guess narrow write welcome quality
 bip_39_word_space_7: grief guess narrow write welcome quality raw
 bip_39_word_space_8: grief guess narrow write welcome quality raw filter
 bip_39_word_space_9: grief guess narrow write welcome quality raw filter submit
+bip_39_word_underscore_1: grief
+bip_39_word_underscore_10: grief_guess_narrow_write_welcome_quality_raw_filter_submit_brief
+bip_39_word_underscore_11: grief_guess_narrow_write_welcome_quality_raw_filter_submit_brief_phone
+bip_39_word_underscore_12: grief_guess_narrow_write_welcome_quality_raw_filter_submit_brief_phone_all
+bip_39_word_underscore_2: grief_guess
+bip_39_word_underscore_3: grief_guess_narrow
+bip_39_word_underscore_4: grief_guess_narrow_write
+bip_39_word_underscore_5: grief_guess_narrow_write_welcome
+bip_39_word_underscore_6: grief_guess_narrow_write_welcome_quality
+bip_39_word_underscore_7: grief_guess_narrow_write_welcome_quality_raw
+bip_39_word_underscore_8: grief_guess_narrow_write_welcome_quality_raw_filter
+bip_39_word_underscore_9: grief_guess_narrow_write_welcome_quality_raw_filter_submit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

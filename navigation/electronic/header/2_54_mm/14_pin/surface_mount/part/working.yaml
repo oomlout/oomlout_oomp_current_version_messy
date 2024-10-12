@@ -1,3 +1,15 @@
+bip_39_word_dash_1: awake
+bip_39_word_dash_10: awake-exact-govern-float-feature-car-pepper-lecture-vanish-captain
+bip_39_word_dash_11: awake-exact-govern-float-feature-car-pepper-lecture-vanish-captain-drip
+bip_39_word_dash_12: awake-exact-govern-float-feature-car-pepper-lecture-vanish-captain-drip-ankle
+bip_39_word_dash_2: awake-exact
+bip_39_word_dash_3: awake-exact-govern
+bip_39_word_dash_4: awake-exact-govern-float
+bip_39_word_dash_5: awake-exact-govern-float-feature
+bip_39_word_dash_6: awake-exact-govern-float-feature-car
+bip_39_word_dash_7: awake-exact-govern-float-feature-car-pepper
+bip_39_word_dash_8: awake-exact-govern-float-feature-car-pepper-lecture
+bip_39_word_dash_9: awake-exact-govern-float-feature-car-pepper-lecture-vanish
 bip_39_word_new_br_1: awake
 bip_39_word_new_br_10: awake<br>exact<br>govern<br>float<br>feature<br>car<br>pepper<br>lecture<br>vanish<br>captain
 bip_39_word_new_br_11: awake<br>exact<br>govern<br>float<br>feature<br>car<br>pepper<br>lecture<br>vanish<br>captain<br>drip
@@ -193,6 +205,18 @@ bip_39_word_space_6: awake exact govern float feature car
 bip_39_word_space_7: awake exact govern float feature car pepper
 bip_39_word_space_8: awake exact govern float feature car pepper lecture
 bip_39_word_space_9: awake exact govern float feature car pepper lecture vanish
+bip_39_word_underscore_1: awake
+bip_39_word_underscore_10: awake_exact_govern_float_feature_car_pepper_lecture_vanish_captain
+bip_39_word_underscore_11: awake_exact_govern_float_feature_car_pepper_lecture_vanish_captain_drip
+bip_39_word_underscore_12: awake_exact_govern_float_feature_car_pepper_lecture_vanish_captain_drip_ankle
+bip_39_word_underscore_2: awake_exact
+bip_39_word_underscore_3: awake_exact_govern
+bip_39_word_underscore_4: awake_exact_govern_float
+bip_39_word_underscore_5: awake_exact_govern_float_feature
+bip_39_word_underscore_6: awake_exact_govern_float_feature_car
+bip_39_word_underscore_7: awake_exact_govern_float_feature_car_pepper
+bip_39_word_underscore_8: awake_exact_govern_float_feature_car_pepper_lecture
+bip_39_word_underscore_9: awake_exact_govern_float_feature_car_pepper_lecture_vanish
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vote
+bip_39_word_dash_10: vote-exotic-tail-good-traffic-satisfy-orphan-space-average-coyote
+bip_39_word_dash_11: vote-exotic-tail-good-traffic-satisfy-orphan-space-average-coyote-refuse
+bip_39_word_dash_12: vote-exotic-tail-good-traffic-satisfy-orphan-space-average-coyote-refuse-always
+bip_39_word_dash_2: vote-exotic
+bip_39_word_dash_3: vote-exotic-tail
+bip_39_word_dash_4: vote-exotic-tail-good
+bip_39_word_dash_5: vote-exotic-tail-good-traffic
+bip_39_word_dash_6: vote-exotic-tail-good-traffic-satisfy
+bip_39_word_dash_7: vote-exotic-tail-good-traffic-satisfy-orphan
+bip_39_word_dash_8: vote-exotic-tail-good-traffic-satisfy-orphan-space
+bip_39_word_dash_9: vote-exotic-tail-good-traffic-satisfy-orphan-space-average
 bip_39_word_new_br_1: vote
 bip_39_word_new_br_10: vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space<br>average<br>coyote
 bip_39_word_new_br_11: vote<br>exotic<br>tail<br>good<br>traffic<br>satisfy<br>orphan<br>space<br>average<br>coyote<br>refuse
@@ -193,6 +205,18 @@ bip_39_word_space_6: vote exotic tail good traffic satisfy
 bip_39_word_space_7: vote exotic tail good traffic satisfy orphan
 bip_39_word_space_8: vote exotic tail good traffic satisfy orphan space
 bip_39_word_space_9: vote exotic tail good traffic satisfy orphan space average
+bip_39_word_underscore_1: vote
+bip_39_word_underscore_10: vote_exotic_tail_good_traffic_satisfy_orphan_space_average_coyote
+bip_39_word_underscore_11: vote_exotic_tail_good_traffic_satisfy_orphan_space_average_coyote_refuse
+bip_39_word_underscore_12: vote_exotic_tail_good_traffic_satisfy_orphan_space_average_coyote_refuse_always
+bip_39_word_underscore_2: vote_exotic
+bip_39_word_underscore_3: vote_exotic_tail
+bip_39_word_underscore_4: vote_exotic_tail_good
+bip_39_word_underscore_5: vote_exotic_tail_good_traffic
+bip_39_word_underscore_6: vote_exotic_tail_good_traffic_satisfy
+bip_39_word_underscore_7: vote_exotic_tail_good_traffic_satisfy_orphan
+bip_39_word_underscore_8: vote_exotic_tail_good_traffic_satisfy_orphan_space
+bip_39_word_underscore_9: vote_exotic_tail_good_traffic_satisfy_orphan_space_average
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | corn |  
+| bip_39_word_dash_10 | corn-brass-artist-fluid-orange-normal-attitude-rebuild-biology-upper |  
+| bip_39_word_dash_11 | corn-brass-artist-fluid-orange-normal-attitude-rebuild-biology-upper-royal |  
+| bip_39_word_dash_12 | corn-brass-artist-fluid-orange-normal-attitude-rebuild-biology-upper-royal-absorb |  
+| bip_39_word_dash_2 | corn-brass |  
+| bip_39_word_dash_3 | corn-brass-artist |  
+| bip_39_word_dash_4 | corn-brass-artist-fluid |  
+| bip_39_word_dash_5 | corn-brass-artist-fluid-orange |  
+| bip_39_word_dash_6 | corn-brass-artist-fluid-orange-normal |  
+| bip_39_word_dash_7 | corn-brass-artist-fluid-orange-normal-attitude |  
+| bip_39_word_dash_8 | corn-brass-artist-fluid-orange-normal-attitude-rebuild |  
+| bip_39_word_dash_9 | corn-brass-artist-fluid-orange-normal-attitude-rebuild-biology |  
 | bip_39_word_new_br_1 | corn |  
 | bip_39_word_new_br_10 | corn<br>brass<br>artist<br>fluid<br>orange<br>normal<br>attitude<br>rebuild<br>biology<br>upper |  
 | bip_39_word_new_br_11 | corn<br>brass<br>artist<br>fluid<br>orange<br>normal<br>attitude<br>rebuild<br>biology<br>upper<br>royal |  
@@ -147,6 +159,18 @@ biology |
 | bip_39_word_space_7 | corn brass artist fluid orange normal attitude |  
 | bip_39_word_space_8 | corn brass artist fluid orange normal attitude rebuild |  
 | bip_39_word_space_9 | corn brass artist fluid orange normal attitude rebuild biology |  
+| bip_39_word_underscore_1 | corn |  
+| bip_39_word_underscore_10 | corn_brass_artist_fluid_orange_normal_attitude_rebuild_biology_upper |  
+| bip_39_word_underscore_11 | corn_brass_artist_fluid_orange_normal_attitude_rebuild_biology_upper_royal |  
+| bip_39_word_underscore_12 | corn_brass_artist_fluid_orange_normal_attitude_rebuild_biology_upper_royal_absorb |  
+| bip_39_word_underscore_2 | corn_brass |  
+| bip_39_word_underscore_3 | corn_brass_artist |  
+| bip_39_word_underscore_4 | corn_brass_artist_fluid |  
+| bip_39_word_underscore_5 | corn_brass_artist_fluid_orange |  
+| bip_39_word_underscore_6 | corn_brass_artist_fluid_orange_normal |  
+| bip_39_word_underscore_7 | corn_brass_artist_fluid_orange_normal_attitude |  
+| bip_39_word_underscore_8 | corn_brass_artist_fluid_orange_normal_attitude_rebuild |  
+| bip_39_word_underscore_9 | corn_brass_artist_fluid_orange_normal_attitude_rebuild_biology |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

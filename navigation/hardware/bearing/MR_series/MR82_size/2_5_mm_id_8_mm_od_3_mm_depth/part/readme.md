@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grain |  
+| bip_39_word_dash_10 | grain-reward-monster-climb-eager-cash-donkey-skin-solar-universe |  
+| bip_39_word_dash_11 | grain-reward-monster-climb-eager-cash-donkey-skin-solar-universe-panda |  
+| bip_39_word_dash_12 | grain-reward-monster-climb-eager-cash-donkey-skin-solar-universe-panda-asset |  
+| bip_39_word_dash_2 | grain-reward |  
+| bip_39_word_dash_3 | grain-reward-monster |  
+| bip_39_word_dash_4 | grain-reward-monster-climb |  
+| bip_39_word_dash_5 | grain-reward-monster-climb-eager |  
+| bip_39_word_dash_6 | grain-reward-monster-climb-eager-cash |  
+| bip_39_word_dash_7 | grain-reward-monster-climb-eager-cash-donkey |  
+| bip_39_word_dash_8 | grain-reward-monster-climb-eager-cash-donkey-skin |  
+| bip_39_word_dash_9 | grain-reward-monster-climb-eager-cash-donkey-skin-solar |  
 | bip_39_word_new_br_1 | grain |  
 | bip_39_word_new_br_10 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe |  
 | bip_39_word_new_br_11 | grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe<br>panda |  
@@ -147,6 +159,18 @@ solar |
 | bip_39_word_space_7 | grain reward monster climb eager cash donkey |  
 | bip_39_word_space_8 | grain reward monster climb eager cash donkey skin |  
 | bip_39_word_space_9 | grain reward monster climb eager cash donkey skin solar |  
+| bip_39_word_underscore_1 | grain |  
+| bip_39_word_underscore_10 | grain_reward_monster_climb_eager_cash_donkey_skin_solar_universe |  
+| bip_39_word_underscore_11 | grain_reward_monster_climb_eager_cash_donkey_skin_solar_universe_panda |  
+| bip_39_word_underscore_12 | grain_reward_monster_climb_eager_cash_donkey_skin_solar_universe_panda_asset |  
+| bip_39_word_underscore_2 | grain_reward |  
+| bip_39_word_underscore_3 | grain_reward_monster |  
+| bip_39_word_underscore_4 | grain_reward_monster_climb |  
+| bip_39_word_underscore_5 | grain_reward_monster_climb_eager |  
+| bip_39_word_underscore_6 | grain_reward_monster_climb_eager_cash |  
+| bip_39_word_underscore_7 | grain_reward_monster_climb_eager_cash_donkey |  
+| bip_39_word_underscore_8 | grain_reward_monster_climb_eager_cash_donkey_skin |  
+| bip_39_word_underscore_9 | grain_reward_monster_climb_eager_cash_donkey_skin_solar |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

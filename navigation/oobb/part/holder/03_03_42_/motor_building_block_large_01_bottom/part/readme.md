@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grace |  
+| bip_39_word_dash_10 | grace-spray-lunar-bind-phone-arrange-section-enjoy-moral-ginger |  
+| bip_39_word_dash_11 | grace-spray-lunar-bind-phone-arrange-section-enjoy-moral-ginger-cream |  
+| bip_39_word_dash_12 | grace-spray-lunar-bind-phone-arrange-section-enjoy-moral-ginger-cream-actual |  
+| bip_39_word_dash_2 | grace-spray |  
+| bip_39_word_dash_3 | grace-spray-lunar |  
+| bip_39_word_dash_4 | grace-spray-lunar-bind |  
+| bip_39_word_dash_5 | grace-spray-lunar-bind-phone |  
+| bip_39_word_dash_6 | grace-spray-lunar-bind-phone-arrange |  
+| bip_39_word_dash_7 | grace-spray-lunar-bind-phone-arrange-section |  
+| bip_39_word_dash_8 | grace-spray-lunar-bind-phone-arrange-section-enjoy |  
+| bip_39_word_dash_9 | grace-spray-lunar-bind-phone-arrange-section-enjoy-moral |  
 | bip_39_word_new_br_1 | grace |  
 | bip_39_word_new_br_10 | grace<br>spray<br>lunar<br>bind<br>phone<br>arrange<br>section<br>enjoy<br>moral<br>ginger |  
 | bip_39_word_new_br_11 | grace<br>spray<br>lunar<br>bind<br>phone<br>arrange<br>section<br>enjoy<br>moral<br>ginger<br>cream |  
@@ -147,6 +159,18 @@ moral |
 | bip_39_word_space_7 | grace spray lunar bind phone arrange section |  
 | bip_39_word_space_8 | grace spray lunar bind phone arrange section enjoy |  
 | bip_39_word_space_9 | grace spray lunar bind phone arrange section enjoy moral |  
+| bip_39_word_underscore_1 | grace |  
+| bip_39_word_underscore_10 | grace_spray_lunar_bind_phone_arrange_section_enjoy_moral_ginger |  
+| bip_39_word_underscore_11 | grace_spray_lunar_bind_phone_arrange_section_enjoy_moral_ginger_cream |  
+| bip_39_word_underscore_12 | grace_spray_lunar_bind_phone_arrange_section_enjoy_moral_ginger_cream_actual |  
+| bip_39_word_underscore_2 | grace_spray |  
+| bip_39_word_underscore_3 | grace_spray_lunar |  
+| bip_39_word_underscore_4 | grace_spray_lunar_bind |  
+| bip_39_word_underscore_5 | grace_spray_lunar_bind_phone |  
+| bip_39_word_underscore_6 | grace_spray_lunar_bind_phone_arrange |  
+| bip_39_word_underscore_7 | grace_spray_lunar_bind_phone_arrange_section |  
+| bip_39_word_underscore_8 | grace_spray_lunar_bind_phone_arrange_section_enjoy |  
+| bip_39_word_underscore_9 | grace_spray_lunar_bind_phone_arrange_section_enjoy_moral |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | when |  
+| bip_39_word_dash_10 | when-crew-cactus-fix-face-unit-patch-banner-roof-chapter |  
+| bip_39_word_dash_11 | when-crew-cactus-fix-face-unit-patch-banner-roof-chapter-render |  
+| bip_39_word_dash_12 | when-crew-cactus-fix-face-unit-patch-banner-roof-chapter-render-all |  
+| bip_39_word_dash_2 | when-crew |  
+| bip_39_word_dash_3 | when-crew-cactus |  
+| bip_39_word_dash_4 | when-crew-cactus-fix |  
+| bip_39_word_dash_5 | when-crew-cactus-fix-face |  
+| bip_39_word_dash_6 | when-crew-cactus-fix-face-unit |  
+| bip_39_word_dash_7 | when-crew-cactus-fix-face-unit-patch |  
+| bip_39_word_dash_8 | when-crew-cactus-fix-face-unit-patch-banner |  
+| bip_39_word_dash_9 | when-crew-cactus-fix-face-unit-patch-banner-roof |  
 | bip_39_word_new_br_1 | when |  
 | bip_39_word_new_br_10 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner<br>roof<br>chapter |  
 | bip_39_word_new_br_11 | when<br>crew<br>cactus<br>fix<br>face<br>unit<br>patch<br>banner<br>roof<br>chapter<br>render |  
@@ -147,6 +159,18 @@ roof |
 | bip_39_word_space_7 | when crew cactus fix face unit patch |  
 | bip_39_word_space_8 | when crew cactus fix face unit patch banner |  
 | bip_39_word_space_9 | when crew cactus fix face unit patch banner roof |  
+| bip_39_word_underscore_1 | when |  
+| bip_39_word_underscore_10 | when_crew_cactus_fix_face_unit_patch_banner_roof_chapter |  
+| bip_39_word_underscore_11 | when_crew_cactus_fix_face_unit_patch_banner_roof_chapter_render |  
+| bip_39_word_underscore_12 | when_crew_cactus_fix_face_unit_patch_banner_roof_chapter_render_all |  
+| bip_39_word_underscore_2 | when_crew |  
+| bip_39_word_underscore_3 | when_crew_cactus |  
+| bip_39_word_underscore_4 | when_crew_cactus_fix |  
+| bip_39_word_underscore_5 | when_crew_cactus_fix_face |  
+| bip_39_word_underscore_6 | when_crew_cactus_fix_face_unit |  
+| bip_39_word_underscore_7 | when_crew_cactus_fix_face_unit_patch |  
+| bip_39_word_underscore_8 | when_crew_cactus_fix_face_unit_patch_banner |  
+| bip_39_word_underscore_9 | when_crew_cactus_fix_face_unit_patch_banner_roof |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

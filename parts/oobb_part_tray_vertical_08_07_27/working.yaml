@@ -1,3 +1,15 @@
+bip_39_word_dash_1: one
+bip_39_word_dash_10: one-lens-aisle-siren-engage-loop-riot-almost-post-cycle
+bip_39_word_dash_11: one-lens-aisle-siren-engage-loop-riot-almost-post-cycle-globe
+bip_39_word_dash_12: one-lens-aisle-siren-engage-loop-riot-almost-post-cycle-globe-armed
+bip_39_word_dash_2: one-lens
+bip_39_word_dash_3: one-lens-aisle
+bip_39_word_dash_4: one-lens-aisle-siren
+bip_39_word_dash_5: one-lens-aisle-siren-engage
+bip_39_word_dash_6: one-lens-aisle-siren-engage-loop
+bip_39_word_dash_7: one-lens-aisle-siren-engage-loop-riot
+bip_39_word_dash_8: one-lens-aisle-siren-engage-loop-riot-almost
+bip_39_word_dash_9: one-lens-aisle-siren-engage-loop-riot-almost-post
 bip_39_word_new_br_1: one
 bip_39_word_new_br_10: one<br>lens<br>aisle<br>siren<br>engage<br>loop<br>riot<br>almost<br>post<br>cycle
 bip_39_word_new_br_11: one<br>lens<br>aisle<br>siren<br>engage<br>loop<br>riot<br>almost<br>post<br>cycle<br>globe
@@ -192,6 +204,18 @@ bip_39_word_space_6: one lens aisle siren engage loop
 bip_39_word_space_7: one lens aisle siren engage loop riot
 bip_39_word_space_8: one lens aisle siren engage loop riot almost
 bip_39_word_space_9: one lens aisle siren engage loop riot almost post
+bip_39_word_underscore_1: one
+bip_39_word_underscore_10: one_lens_aisle_siren_engage_loop_riot_almost_post_cycle
+bip_39_word_underscore_11: one_lens_aisle_siren_engage_loop_riot_almost_post_cycle_globe
+bip_39_word_underscore_12: one_lens_aisle_siren_engage_loop_riot_almost_post_cycle_globe_armed
+bip_39_word_underscore_2: one_lens
+bip_39_word_underscore_3: one_lens_aisle
+bip_39_word_underscore_4: one_lens_aisle_siren
+bip_39_word_underscore_5: one_lens_aisle_siren_engage
+bip_39_word_underscore_6: one_lens_aisle_siren_engage_loop
+bip_39_word_underscore_7: one_lens_aisle_siren_engage_loop_riot
+bip_39_word_underscore_8: one_lens_aisle_siren_engage_loop_riot_almost
+bip_39_word_underscore_9: one_lens_aisle_siren_engage_loop_riot_almost_post
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

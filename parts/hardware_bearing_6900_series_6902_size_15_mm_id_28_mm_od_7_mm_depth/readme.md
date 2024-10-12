@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pole |  
+| bip_39_word_dash_10 | pole-reveal-broccoli-quality-good-patch-tiny-custom-venue-canyon |  
+| bip_39_word_dash_11 | pole-reveal-broccoli-quality-good-patch-tiny-custom-venue-canyon-steak |  
+| bip_39_word_dash_12 | pole-reveal-broccoli-quality-good-patch-tiny-custom-venue-canyon-steak-attack |  
+| bip_39_word_dash_2 | pole-reveal |  
+| bip_39_word_dash_3 | pole-reveal-broccoli |  
+| bip_39_word_dash_4 | pole-reveal-broccoli-quality |  
+| bip_39_word_dash_5 | pole-reveal-broccoli-quality-good |  
+| bip_39_word_dash_6 | pole-reveal-broccoli-quality-good-patch |  
+| bip_39_word_dash_7 | pole-reveal-broccoli-quality-good-patch-tiny |  
+| bip_39_word_dash_8 | pole-reveal-broccoli-quality-good-patch-tiny-custom |  
+| bip_39_word_dash_9 | pole-reveal-broccoli-quality-good-patch-tiny-custom-venue |  
 | bip_39_word_new_br_1 | pole |  
 | bip_39_word_new_br_10 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon |  
 | bip_39_word_new_br_11 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon<br>steak |  
@@ -147,6 +159,18 @@ venue |
 | bip_39_word_space_7 | pole reveal broccoli quality good patch tiny |  
 | bip_39_word_space_8 | pole reveal broccoli quality good patch tiny custom |  
 | bip_39_word_space_9 | pole reveal broccoli quality good patch tiny custom venue |  
+| bip_39_word_underscore_1 | pole |  
+| bip_39_word_underscore_10 | pole_reveal_broccoli_quality_good_patch_tiny_custom_venue_canyon |  
+| bip_39_word_underscore_11 | pole_reveal_broccoli_quality_good_patch_tiny_custom_venue_canyon_steak |  
+| bip_39_word_underscore_12 | pole_reveal_broccoli_quality_good_patch_tiny_custom_venue_canyon_steak_attack |  
+| bip_39_word_underscore_2 | pole_reveal |  
+| bip_39_word_underscore_3 | pole_reveal_broccoli |  
+| bip_39_word_underscore_4 | pole_reveal_broccoli_quality |  
+| bip_39_word_underscore_5 | pole_reveal_broccoli_quality_good |  
+| bip_39_word_underscore_6 | pole_reveal_broccoli_quality_good_patch |  
+| bip_39_word_underscore_7 | pole_reveal_broccoli_quality_good_patch_tiny |  
+| bip_39_word_underscore_8 | pole_reveal_broccoli_quality_good_patch_tiny_custom |  
+| bip_39_word_underscore_9 | pole_reveal_broccoli_quality_good_patch_tiny_custom_venue |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

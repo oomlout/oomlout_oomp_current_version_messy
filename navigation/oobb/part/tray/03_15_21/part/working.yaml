@@ -1,3 +1,15 @@
+bip_39_word_dash_1: motor
+bip_39_word_dash_10: motor-found-ankle-auto-purchase-antenna-apart-process-brief-infant
+bip_39_word_dash_11: motor-found-ankle-auto-purchase-antenna-apart-process-brief-infant-fetch
+bip_39_word_dash_12: motor-found-ankle-auto-purchase-antenna-apart-process-brief-infant-fetch-almost
+bip_39_word_dash_2: motor-found
+bip_39_word_dash_3: motor-found-ankle
+bip_39_word_dash_4: motor-found-ankle-auto
+bip_39_word_dash_5: motor-found-ankle-auto-purchase
+bip_39_word_dash_6: motor-found-ankle-auto-purchase-antenna
+bip_39_word_dash_7: motor-found-ankle-auto-purchase-antenna-apart
+bip_39_word_dash_8: motor-found-ankle-auto-purchase-antenna-apart-process
+bip_39_word_dash_9: motor-found-ankle-auto-purchase-antenna-apart-process-brief
 bip_39_word_new_br_1: motor
 bip_39_word_new_br_10: motor<br>found<br>ankle<br>auto<br>purchase<br>antenna<br>apart<br>process<br>brief<br>infant
 bip_39_word_new_br_11: motor<br>found<br>ankle<br>auto<br>purchase<br>antenna<br>apart<br>process<br>brief<br>infant<br>fetch
@@ -194,6 +206,18 @@ bip_39_word_space_6: motor found ankle auto purchase antenna
 bip_39_word_space_7: motor found ankle auto purchase antenna apart
 bip_39_word_space_8: motor found ankle auto purchase antenna apart process
 bip_39_word_space_9: motor found ankle auto purchase antenna apart process brief
+bip_39_word_underscore_1: motor
+bip_39_word_underscore_10: motor_found_ankle_auto_purchase_antenna_apart_process_brief_infant
+bip_39_word_underscore_11: motor_found_ankle_auto_purchase_antenna_apart_process_brief_infant_fetch
+bip_39_word_underscore_12: motor_found_ankle_auto_purchase_antenna_apart_process_brief_infant_fetch_almost
+bip_39_word_underscore_2: motor_found
+bip_39_word_underscore_3: motor_found_ankle
+bip_39_word_underscore_4: motor_found_ankle_auto
+bip_39_word_underscore_5: motor_found_ankle_auto_purchase
+bip_39_word_underscore_6: motor_found_ankle_auto_purchase_antenna
+bip_39_word_underscore_7: motor_found_ankle_auto_purchase_antenna_apart
+bip_39_word_underscore_8: motor_found_ankle_auto_purchase_antenna_apart_process
+bip_39_word_underscore_9: motor_found_ankle_auto_purchase_antenna_apart_process_brief
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

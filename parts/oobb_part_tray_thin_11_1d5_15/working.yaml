@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fit
+bip_39_word_dash_10: fit-rude-access-brave-skirt-tent-benefit-twenty-cycle-alien
+bip_39_word_dash_11: fit-rude-access-brave-skirt-tent-benefit-twenty-cycle-alien-clown
+bip_39_word_dash_12: fit-rude-access-brave-skirt-tent-benefit-twenty-cycle-alien-clown-apart
+bip_39_word_dash_2: fit-rude
+bip_39_word_dash_3: fit-rude-access
+bip_39_word_dash_4: fit-rude-access-brave
+bip_39_word_dash_5: fit-rude-access-brave-skirt
+bip_39_word_dash_6: fit-rude-access-brave-skirt-tent
+bip_39_word_dash_7: fit-rude-access-brave-skirt-tent-benefit
+bip_39_word_dash_8: fit-rude-access-brave-skirt-tent-benefit-twenty
+bip_39_word_dash_9: fit-rude-access-brave-skirt-tent-benefit-twenty-cycle
 bip_39_word_new_br_1: fit
 bip_39_word_new_br_10: fit<br>rude<br>access<br>brave<br>skirt<br>tent<br>benefit<br>twenty<br>cycle<br>alien
 bip_39_word_new_br_11: fit<br>rude<br>access<br>brave<br>skirt<br>tent<br>benefit<br>twenty<br>cycle<br>alien<br>clown
@@ -193,6 +205,18 @@ bip_39_word_space_6: fit rude access brave skirt tent
 bip_39_word_space_7: fit rude access brave skirt tent benefit
 bip_39_word_space_8: fit rude access brave skirt tent benefit twenty
 bip_39_word_space_9: fit rude access brave skirt tent benefit twenty cycle
+bip_39_word_underscore_1: fit
+bip_39_word_underscore_10: fit_rude_access_brave_skirt_tent_benefit_twenty_cycle_alien
+bip_39_word_underscore_11: fit_rude_access_brave_skirt_tent_benefit_twenty_cycle_alien_clown
+bip_39_word_underscore_12: fit_rude_access_brave_skirt_tent_benefit_twenty_cycle_alien_clown_apart
+bip_39_word_underscore_2: fit_rude
+bip_39_word_underscore_3: fit_rude_access
+bip_39_word_underscore_4: fit_rude_access_brave
+bip_39_word_underscore_5: fit_rude_access_brave_skirt
+bip_39_word_underscore_6: fit_rude_access_brave_skirt_tent
+bip_39_word_underscore_7: fit_rude_access_brave_skirt_tent_benefit
+bip_39_word_underscore_8: fit_rude_access_brave_skirt_tent_benefit_twenty
+bip_39_word_underscore_9: fit_rude_access_brave_skirt_tent_benefit_twenty_cycle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

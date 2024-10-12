@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | volcano |  
+| bip_39_word_dash_10 | volcano-change-hurry-genre-power-dress-gadget-shop-cargo-calm |  
+| bip_39_word_dash_11 | volcano-change-hurry-genre-power-dress-gadget-shop-cargo-calm-forward |  
+| bip_39_word_dash_12 | volcano-change-hurry-genre-power-dress-gadget-shop-cargo-calm-forward-abstract |  
+| bip_39_word_dash_2 | volcano-change |  
+| bip_39_word_dash_3 | volcano-change-hurry |  
+| bip_39_word_dash_4 | volcano-change-hurry-genre |  
+| bip_39_word_dash_5 | volcano-change-hurry-genre-power |  
+| bip_39_word_dash_6 | volcano-change-hurry-genre-power-dress |  
+| bip_39_word_dash_7 | volcano-change-hurry-genre-power-dress-gadget |  
+| bip_39_word_dash_8 | volcano-change-hurry-genre-power-dress-gadget-shop |  
+| bip_39_word_dash_9 | volcano-change-hurry-genre-power-dress-gadget-shop-cargo |  
 | bip_39_word_new_br_1 | volcano |  
 | bip_39_word_new_br_10 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop<br>cargo<br>calm |  
 | bip_39_word_new_br_11 | volcano<br>change<br>hurry<br>genre<br>power<br>dress<br>gadget<br>shop<br>cargo<br>calm<br>forward |  
@@ -147,6 +159,18 @@ cargo |
 | bip_39_word_space_7 | volcano change hurry genre power dress gadget |  
 | bip_39_word_space_8 | volcano change hurry genre power dress gadget shop |  
 | bip_39_word_space_9 | volcano change hurry genre power dress gadget shop cargo |  
+| bip_39_word_underscore_1 | volcano |  
+| bip_39_word_underscore_10 | volcano_change_hurry_genre_power_dress_gadget_shop_cargo_calm |  
+| bip_39_word_underscore_11 | volcano_change_hurry_genre_power_dress_gadget_shop_cargo_calm_forward |  
+| bip_39_word_underscore_12 | volcano_change_hurry_genre_power_dress_gadget_shop_cargo_calm_forward_abstract |  
+| bip_39_word_underscore_2 | volcano_change |  
+| bip_39_word_underscore_3 | volcano_change_hurry |  
+| bip_39_word_underscore_4 | volcano_change_hurry_genre |  
+| bip_39_word_underscore_5 | volcano_change_hurry_genre_power |  
+| bip_39_word_underscore_6 | volcano_change_hurry_genre_power_dress |  
+| bip_39_word_underscore_7 | volcano_change_hurry_genre_power_dress_gadget |  
+| bip_39_word_underscore_8 | volcano_change_hurry_genre_power_dress_gadget_shop |  
+| bip_39_word_underscore_9 | volcano_change_hurry_genre_power_dress_gadget_shop_cargo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

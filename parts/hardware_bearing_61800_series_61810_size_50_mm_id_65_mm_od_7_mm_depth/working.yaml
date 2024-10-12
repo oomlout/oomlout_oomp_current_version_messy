@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pool
+bip_39_word_dash_10: pool-avoid-glow-aerobic-raven-luxury-equip-chicken-supreme-monkey
+bip_39_word_dash_11: pool-avoid-glow-aerobic-raven-luxury-equip-chicken-supreme-monkey-luggage
+bip_39_word_dash_12: pool-avoid-glow-aerobic-raven-luxury-equip-chicken-supreme-monkey-luggage-alert
+bip_39_word_dash_2: pool-avoid
+bip_39_word_dash_3: pool-avoid-glow
+bip_39_word_dash_4: pool-avoid-glow-aerobic
+bip_39_word_dash_5: pool-avoid-glow-aerobic-raven
+bip_39_word_dash_6: pool-avoid-glow-aerobic-raven-luxury
+bip_39_word_dash_7: pool-avoid-glow-aerobic-raven-luxury-equip
+bip_39_word_dash_8: pool-avoid-glow-aerobic-raven-luxury-equip-chicken
+bip_39_word_dash_9: pool-avoid-glow-aerobic-raven-luxury-equip-chicken-supreme
 bip_39_word_new_br_1: pool
 bip_39_word_new_br_10: pool<br>avoid<br>glow<br>aerobic<br>raven<br>luxury<br>equip<br>chicken<br>supreme<br>monkey
 bip_39_word_new_br_11: pool<br>avoid<br>glow<br>aerobic<br>raven<br>luxury<br>equip<br>chicken<br>supreme<br>monkey<br>luggage
@@ -193,6 +205,18 @@ bip_39_word_space_6: pool avoid glow aerobic raven luxury
 bip_39_word_space_7: pool avoid glow aerobic raven luxury equip
 bip_39_word_space_8: pool avoid glow aerobic raven luxury equip chicken
 bip_39_word_space_9: pool avoid glow aerobic raven luxury equip chicken supreme
+bip_39_word_underscore_1: pool
+bip_39_word_underscore_10: pool_avoid_glow_aerobic_raven_luxury_equip_chicken_supreme_monkey
+bip_39_word_underscore_11: pool_avoid_glow_aerobic_raven_luxury_equip_chicken_supreme_monkey_luggage
+bip_39_word_underscore_12: pool_avoid_glow_aerobic_raven_luxury_equip_chicken_supreme_monkey_luggage_alert
+bip_39_word_underscore_2: pool_avoid
+bip_39_word_underscore_3: pool_avoid_glow
+bip_39_word_underscore_4: pool_avoid_glow_aerobic
+bip_39_word_underscore_5: pool_avoid_glow_aerobic_raven
+bip_39_word_underscore_6: pool_avoid_glow_aerobic_raven_luxury
+bip_39_word_underscore_7: pool_avoid_glow_aerobic_raven_luxury_equip
+bip_39_word_underscore_8: pool_avoid_glow_aerobic_raven_luxury_equip_chicken
+bip_39_word_underscore_9: pool_avoid_glow_aerobic_raven_luxury_equip_chicken_supreme
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

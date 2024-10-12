@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | piano |  
+| bip_39_word_dash_10 | piano-turkey-enter-involve-sample-renew-secret-slab-more-run |  
+| bip_39_word_dash_11 | piano-turkey-enter-involve-sample-renew-secret-slab-more-run-duck |  
+| bip_39_word_dash_12 | piano-turkey-enter-involve-sample-renew-secret-slab-more-run-duck-adjust |  
+| bip_39_word_dash_2 | piano-turkey |  
+| bip_39_word_dash_3 | piano-turkey-enter |  
+| bip_39_word_dash_4 | piano-turkey-enter-involve |  
+| bip_39_word_dash_5 | piano-turkey-enter-involve-sample |  
+| bip_39_word_dash_6 | piano-turkey-enter-involve-sample-renew |  
+| bip_39_word_dash_7 | piano-turkey-enter-involve-sample-renew-secret |  
+| bip_39_word_dash_8 | piano-turkey-enter-involve-sample-renew-secret-slab |  
+| bip_39_word_dash_9 | piano-turkey-enter-involve-sample-renew-secret-slab-more |  
 | bip_39_word_new_br_1 | piano |  
 | bip_39_word_new_br_10 | piano<br>turkey<br>enter<br>involve<br>sample<br>renew<br>secret<br>slab<br>more<br>run |  
 | bip_39_word_new_br_11 | piano<br>turkey<br>enter<br>involve<br>sample<br>renew<br>secret<br>slab<br>more<br>run<br>duck |  
@@ -147,6 +159,18 @@ more |
 | bip_39_word_space_7 | piano turkey enter involve sample renew secret |  
 | bip_39_word_space_8 | piano turkey enter involve sample renew secret slab |  
 | bip_39_word_space_9 | piano turkey enter involve sample renew secret slab more |  
+| bip_39_word_underscore_1 | piano |  
+| bip_39_word_underscore_10 | piano_turkey_enter_involve_sample_renew_secret_slab_more_run |  
+| bip_39_word_underscore_11 | piano_turkey_enter_involve_sample_renew_secret_slab_more_run_duck |  
+| bip_39_word_underscore_12 | piano_turkey_enter_involve_sample_renew_secret_slab_more_run_duck_adjust |  
+| bip_39_word_underscore_2 | piano_turkey |  
+| bip_39_word_underscore_3 | piano_turkey_enter |  
+| bip_39_word_underscore_4 | piano_turkey_enter_involve |  
+| bip_39_word_underscore_5 | piano_turkey_enter_involve_sample |  
+| bip_39_word_underscore_6 | piano_turkey_enter_involve_sample_renew |  
+| bip_39_word_underscore_7 | piano_turkey_enter_involve_sample_renew_secret |  
+| bip_39_word_underscore_8 | piano_turkey_enter_involve_sample_renew_secret_slab |  
+| bip_39_word_underscore_9 | piano_turkey_enter_involve_sample_renew_secret_slab_more |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

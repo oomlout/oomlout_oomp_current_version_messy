@@ -1,3 +1,15 @@
+bip_39_word_dash_1: uniform
+bip_39_word_dash_10: uniform-cupboard-state-angle-door-party-message-gain-corn-peanut
+bip_39_word_dash_11: uniform-cupboard-state-angle-door-party-message-gain-corn-peanut-clown
+bip_39_word_dash_12: uniform-cupboard-state-angle-door-party-message-gain-corn-peanut-clown-amused
+bip_39_word_dash_2: uniform-cupboard
+bip_39_word_dash_3: uniform-cupboard-state
+bip_39_word_dash_4: uniform-cupboard-state-angle
+bip_39_word_dash_5: uniform-cupboard-state-angle-door
+bip_39_word_dash_6: uniform-cupboard-state-angle-door-party
+bip_39_word_dash_7: uniform-cupboard-state-angle-door-party-message
+bip_39_word_dash_8: uniform-cupboard-state-angle-door-party-message-gain
+bip_39_word_dash_9: uniform-cupboard-state-angle-door-party-message-gain-corn
 bip_39_word_new_br_1: uniform
 bip_39_word_new_br_10: uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut
 bip_39_word_new_br_11: uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut<br>clown
@@ -193,6 +205,18 @@ bip_39_word_space_6: uniform cupboard state angle door party
 bip_39_word_space_7: uniform cupboard state angle door party message
 bip_39_word_space_8: uniform cupboard state angle door party message gain
 bip_39_word_space_9: uniform cupboard state angle door party message gain corn
+bip_39_word_underscore_1: uniform
+bip_39_word_underscore_10: uniform_cupboard_state_angle_door_party_message_gain_corn_peanut
+bip_39_word_underscore_11: uniform_cupboard_state_angle_door_party_message_gain_corn_peanut_clown
+bip_39_word_underscore_12: uniform_cupboard_state_angle_door_party_message_gain_corn_peanut_clown_amused
+bip_39_word_underscore_2: uniform_cupboard
+bip_39_word_underscore_3: uniform_cupboard_state
+bip_39_word_underscore_4: uniform_cupboard_state_angle
+bip_39_word_underscore_5: uniform_cupboard_state_angle_door
+bip_39_word_underscore_6: uniform_cupboard_state_angle_door_party
+bip_39_word_underscore_7: uniform_cupboard_state_angle_door_party_message
+bip_39_word_underscore_8: uniform_cupboard_state_angle_door_party_message_gain
+bip_39_word_underscore_9: uniform_cupboard_state_angle_door_party_message_gain_corn
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

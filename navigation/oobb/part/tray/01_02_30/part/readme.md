@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kitchen |  
+| bip_39_word_dash_10 | kitchen-easily-usual-elite-again-rotate-soft-whisper-exact-early |  
+| bip_39_word_dash_11 | kitchen-easily-usual-elite-again-rotate-soft-whisper-exact-early-fruit |  
+| bip_39_word_dash_12 | kitchen-easily-usual-elite-again-rotate-soft-whisper-exact-early-fruit-absurd |  
+| bip_39_word_dash_2 | kitchen-easily |  
+| bip_39_word_dash_3 | kitchen-easily-usual |  
+| bip_39_word_dash_4 | kitchen-easily-usual-elite |  
+| bip_39_word_dash_5 | kitchen-easily-usual-elite-again |  
+| bip_39_word_dash_6 | kitchen-easily-usual-elite-again-rotate |  
+| bip_39_word_dash_7 | kitchen-easily-usual-elite-again-rotate-soft |  
+| bip_39_word_dash_8 | kitchen-easily-usual-elite-again-rotate-soft-whisper |  
+| bip_39_word_dash_9 | kitchen-easily-usual-elite-again-rotate-soft-whisper-exact |  
 | bip_39_word_new_br_1 | kitchen |  
 | bip_39_word_new_br_10 | kitchen<br>easily<br>usual<br>elite<br>again<br>rotate<br>soft<br>whisper<br>exact<br>early |  
 | bip_39_word_new_br_11 | kitchen<br>easily<br>usual<br>elite<br>again<br>rotate<br>soft<br>whisper<br>exact<br>early<br>fruit |  
@@ -147,6 +159,18 @@ exact |
 | bip_39_word_space_7 | kitchen easily usual elite again rotate soft |  
 | bip_39_word_space_8 | kitchen easily usual elite again rotate soft whisper |  
 | bip_39_word_space_9 | kitchen easily usual elite again rotate soft whisper exact |  
+| bip_39_word_underscore_1 | kitchen |  
+| bip_39_word_underscore_10 | kitchen_easily_usual_elite_again_rotate_soft_whisper_exact_early |  
+| bip_39_word_underscore_11 | kitchen_easily_usual_elite_again_rotate_soft_whisper_exact_early_fruit |  
+| bip_39_word_underscore_12 | kitchen_easily_usual_elite_again_rotate_soft_whisper_exact_early_fruit_absurd |  
+| bip_39_word_underscore_2 | kitchen_easily |  
+| bip_39_word_underscore_3 | kitchen_easily_usual |  
+| bip_39_word_underscore_4 | kitchen_easily_usual_elite |  
+| bip_39_word_underscore_5 | kitchen_easily_usual_elite_again |  
+| bip_39_word_underscore_6 | kitchen_easily_usual_elite_again_rotate |  
+| bip_39_word_underscore_7 | kitchen_easily_usual_elite_again_rotate_soft |  
+| bip_39_word_underscore_8 | kitchen_easily_usual_elite_again_rotate_soft_whisper |  
+| bip_39_word_underscore_9 | kitchen_easily_usual_elite_again_rotate_soft_whisper_exact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

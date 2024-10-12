@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sausage
+bip_39_word_dash_10: sausage-action-trap-drop-bottom-tonight-prepare-involve-copy-midnight
+bip_39_word_dash_11: sausage-action-trap-drop-bottom-tonight-prepare-involve-copy-midnight-feed
+bip_39_word_dash_12: sausage-action-trap-drop-bottom-tonight-prepare-involve-copy-midnight-feed-attack
+bip_39_word_dash_2: sausage-action
+bip_39_word_dash_3: sausage-action-trap
+bip_39_word_dash_4: sausage-action-trap-drop
+bip_39_word_dash_5: sausage-action-trap-drop-bottom
+bip_39_word_dash_6: sausage-action-trap-drop-bottom-tonight
+bip_39_word_dash_7: sausage-action-trap-drop-bottom-tonight-prepare
+bip_39_word_dash_8: sausage-action-trap-drop-bottom-tonight-prepare-involve
+bip_39_word_dash_9: sausage-action-trap-drop-bottom-tonight-prepare-involve-copy
 bip_39_word_new_br_1: sausage
 bip_39_word_new_br_10: sausage<br>action<br>trap<br>drop<br>bottom<br>tonight<br>prepare<br>involve<br>copy<br>midnight
 bip_39_word_new_br_11: sausage<br>action<br>trap<br>drop<br>bottom<br>tonight<br>prepare<br>involve<br>copy<br>midnight<br>feed
@@ -194,6 +206,18 @@ bip_39_word_space_6: sausage action trap drop bottom tonight
 bip_39_word_space_7: sausage action trap drop bottom tonight prepare
 bip_39_word_space_8: sausage action trap drop bottom tonight prepare involve
 bip_39_word_space_9: sausage action trap drop bottom tonight prepare involve copy
+bip_39_word_underscore_1: sausage
+bip_39_word_underscore_10: sausage_action_trap_drop_bottom_tonight_prepare_involve_copy_midnight
+bip_39_word_underscore_11: sausage_action_trap_drop_bottom_tonight_prepare_involve_copy_midnight_feed
+bip_39_word_underscore_12: sausage_action_trap_drop_bottom_tonight_prepare_involve_copy_midnight_feed_attack
+bip_39_word_underscore_2: sausage_action
+bip_39_word_underscore_3: sausage_action_trap
+bip_39_word_underscore_4: sausage_action_trap_drop
+bip_39_word_underscore_5: sausage_action_trap_drop_bottom
+bip_39_word_underscore_6: sausage_action_trap_drop_bottom_tonight
+bip_39_word_underscore_7: sausage_action_trap_drop_bottom_tonight_prepare
+bip_39_word_underscore_8: sausage_action_trap_drop_bottom_tonight_prepare_involve
+bip_39_word_underscore_9: sausage_action_trap_drop_bottom_tonight_prepare_involve_copy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

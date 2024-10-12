@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | august |  
+| bip_39_word_dash_10 | august-romance-acquire-master-usual-bid-pistol-industry-young-nerve |  
+| bip_39_word_dash_11 | august-romance-acquire-master-usual-bid-pistol-industry-young-nerve-clerk |  
+| bip_39_word_dash_12 | august-romance-acquire-master-usual-bid-pistol-industry-young-nerve-clerk-auction |  
+| bip_39_word_dash_2 | august-romance |  
+| bip_39_word_dash_3 | august-romance-acquire |  
+| bip_39_word_dash_4 | august-romance-acquire-master |  
+| bip_39_word_dash_5 | august-romance-acquire-master-usual |  
+| bip_39_word_dash_6 | august-romance-acquire-master-usual-bid |  
+| bip_39_word_dash_7 | august-romance-acquire-master-usual-bid-pistol |  
+| bip_39_word_dash_8 | august-romance-acquire-master-usual-bid-pistol-industry |  
+| bip_39_word_dash_9 | august-romance-acquire-master-usual-bid-pistol-industry-young |  
 | bip_39_word_new_br_1 | august |  
 | bip_39_word_new_br_10 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry<br>young<br>nerve |  
 | bip_39_word_new_br_11 | august<br>romance<br>acquire<br>master<br>usual<br>bid<br>pistol<br>industry<br>young<br>nerve<br>clerk |  
@@ -147,6 +159,18 @@ young |
 | bip_39_word_space_7 | august romance acquire master usual bid pistol |  
 | bip_39_word_space_8 | august romance acquire master usual bid pistol industry |  
 | bip_39_word_space_9 | august romance acquire master usual bid pistol industry young |  
+| bip_39_word_underscore_1 | august |  
+| bip_39_word_underscore_10 | august_romance_acquire_master_usual_bid_pistol_industry_young_nerve |  
+| bip_39_word_underscore_11 | august_romance_acquire_master_usual_bid_pistol_industry_young_nerve_clerk |  
+| bip_39_word_underscore_12 | august_romance_acquire_master_usual_bid_pistol_industry_young_nerve_clerk_auction |  
+| bip_39_word_underscore_2 | august_romance |  
+| bip_39_word_underscore_3 | august_romance_acquire |  
+| bip_39_word_underscore_4 | august_romance_acquire_master |  
+| bip_39_word_underscore_5 | august_romance_acquire_master_usual |  
+| bip_39_word_underscore_6 | august_romance_acquire_master_usual_bid |  
+| bip_39_word_underscore_7 | august_romance_acquire_master_usual_bid_pistol |  
+| bip_39_word_underscore_8 | august_romance_acquire_master_usual_bid_pistol_industry |  
+| bip_39_word_underscore_9 | august_romance_acquire_master_usual_bid_pistol_industry_young |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

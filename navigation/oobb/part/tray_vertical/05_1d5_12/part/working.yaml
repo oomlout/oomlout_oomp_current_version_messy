@@ -1,3 +1,15 @@
+bip_39_word_dash_1: defense
+bip_39_word_dash_10: defense-maximum-point-pattern-left-identify-uncle-resource-earn-trade
+bip_39_word_dash_11: defense-maximum-point-pattern-left-identify-uncle-resource-earn-trade-barrel
+bip_39_word_dash_12: defense-maximum-point-pattern-left-identify-uncle-resource-earn-trade-barrel-avocado
+bip_39_word_dash_2: defense-maximum
+bip_39_word_dash_3: defense-maximum-point
+bip_39_word_dash_4: defense-maximum-point-pattern
+bip_39_word_dash_5: defense-maximum-point-pattern-left
+bip_39_word_dash_6: defense-maximum-point-pattern-left-identify
+bip_39_word_dash_7: defense-maximum-point-pattern-left-identify-uncle
+bip_39_word_dash_8: defense-maximum-point-pattern-left-identify-uncle-resource
+bip_39_word_dash_9: defense-maximum-point-pattern-left-identify-uncle-resource-earn
 bip_39_word_new_br_1: defense
 bip_39_word_new_br_10: defense<br>maximum<br>point<br>pattern<br>left<br>identify<br>uncle<br>resource<br>earn<br>trade
 bip_39_word_new_br_11: defense<br>maximum<br>point<br>pattern<br>left<br>identify<br>uncle<br>resource<br>earn<br>trade<br>barrel
@@ -194,6 +206,18 @@ bip_39_word_space_6: defense maximum point pattern left identify
 bip_39_word_space_7: defense maximum point pattern left identify uncle
 bip_39_word_space_8: defense maximum point pattern left identify uncle resource
 bip_39_word_space_9: defense maximum point pattern left identify uncle resource earn
+bip_39_word_underscore_1: defense
+bip_39_word_underscore_10: defense_maximum_point_pattern_left_identify_uncle_resource_earn_trade
+bip_39_word_underscore_11: defense_maximum_point_pattern_left_identify_uncle_resource_earn_trade_barrel
+bip_39_word_underscore_12: defense_maximum_point_pattern_left_identify_uncle_resource_earn_trade_barrel_avocado
+bip_39_word_underscore_2: defense_maximum
+bip_39_word_underscore_3: defense_maximum_point
+bip_39_word_underscore_4: defense_maximum_point_pattern
+bip_39_word_underscore_5: defense_maximum_point_pattern_left
+bip_39_word_underscore_6: defense_maximum_point_pattern_left_identify
+bip_39_word_underscore_7: defense_maximum_point_pattern_left_identify_uncle
+bip_39_word_underscore_8: defense_maximum_point_pattern_left_identify_uncle_resource
+bip_39_word_underscore_9: defense_maximum_point_pattern_left_identify_uncle_resource_earn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

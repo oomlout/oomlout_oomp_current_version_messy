@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | local |  
+| bip_39_word_dash_10 | local-diagram-anger-nature-journey-suffer-result-tomorrow-oven-language |  
+| bip_39_word_dash_11 | local-diagram-anger-nature-journey-suffer-result-tomorrow-oven-language-sail |  
+| bip_39_word_dash_12 | local-diagram-anger-nature-journey-suffer-result-tomorrow-oven-language-sail-adult |  
+| bip_39_word_dash_2 | local-diagram |  
+| bip_39_word_dash_3 | local-diagram-anger |  
+| bip_39_word_dash_4 | local-diagram-anger-nature |  
+| bip_39_word_dash_5 | local-diagram-anger-nature-journey |  
+| bip_39_word_dash_6 | local-diagram-anger-nature-journey-suffer |  
+| bip_39_word_dash_7 | local-diagram-anger-nature-journey-suffer-result |  
+| bip_39_word_dash_8 | local-diagram-anger-nature-journey-suffer-result-tomorrow |  
+| bip_39_word_dash_9 | local-diagram-anger-nature-journey-suffer-result-tomorrow-oven |  
 | bip_39_word_new_br_1 | local |  
 | bip_39_word_new_br_10 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language |  
 | bip_39_word_new_br_11 | local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language<br>sail |  
@@ -147,6 +159,18 @@ oven |
 | bip_39_word_space_7 | local diagram anger nature journey suffer result |  
 | bip_39_word_space_8 | local diagram anger nature journey suffer result tomorrow |  
 | bip_39_word_space_9 | local diagram anger nature journey suffer result tomorrow oven |  
+| bip_39_word_underscore_1 | local |  
+| bip_39_word_underscore_10 | local_diagram_anger_nature_journey_suffer_result_tomorrow_oven_language |  
+| bip_39_word_underscore_11 | local_diagram_anger_nature_journey_suffer_result_tomorrow_oven_language_sail |  
+| bip_39_word_underscore_12 | local_diagram_anger_nature_journey_suffer_result_tomorrow_oven_language_sail_adult |  
+| bip_39_word_underscore_2 | local_diagram |  
+| bip_39_word_underscore_3 | local_diagram_anger |  
+| bip_39_word_underscore_4 | local_diagram_anger_nature |  
+| bip_39_word_underscore_5 | local_diagram_anger_nature_journey |  
+| bip_39_word_underscore_6 | local_diagram_anger_nature_journey_suffer |  
+| bip_39_word_underscore_7 | local_diagram_anger_nature_journey_suffer_result |  
+| bip_39_word_underscore_8 | local_diagram_anger_nature_journey_suffer_result_tomorrow |  
+| bip_39_word_underscore_9 | local_diagram_anger_nature_journey_suffer_result_tomorrow_oven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

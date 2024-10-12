@@ -1,3 +1,15 @@
+bip_39_word_dash_1: soldier
+bip_39_word_dash_10: soldier-essay-jump-surprise-wealth-sheriff-lock-draft-moral-property
+bip_39_word_dash_11: soldier-essay-jump-surprise-wealth-sheriff-lock-draft-moral-property-habit
+bip_39_word_dash_12: soldier-essay-jump-surprise-wealth-sheriff-lock-draft-moral-property-habit-art
+bip_39_word_dash_2: soldier-essay
+bip_39_word_dash_3: soldier-essay-jump
+bip_39_word_dash_4: soldier-essay-jump-surprise
+bip_39_word_dash_5: soldier-essay-jump-surprise-wealth
+bip_39_word_dash_6: soldier-essay-jump-surprise-wealth-sheriff
+bip_39_word_dash_7: soldier-essay-jump-surprise-wealth-sheriff-lock
+bip_39_word_dash_8: soldier-essay-jump-surprise-wealth-sheriff-lock-draft
+bip_39_word_dash_9: soldier-essay-jump-surprise-wealth-sheriff-lock-draft-moral
 bip_39_word_new_br_1: soldier
 bip_39_word_new_br_10: soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft<br>moral<br>property
 bip_39_word_new_br_11: soldier<br>essay<br>jump<br>surprise<br>wealth<br>sheriff<br>lock<br>draft<br>moral<br>property<br>habit
@@ -194,6 +206,18 @@ bip_39_word_space_6: soldier essay jump surprise wealth sheriff
 bip_39_word_space_7: soldier essay jump surprise wealth sheriff lock
 bip_39_word_space_8: soldier essay jump surprise wealth sheriff lock draft
 bip_39_word_space_9: soldier essay jump surprise wealth sheriff lock draft moral
+bip_39_word_underscore_1: soldier
+bip_39_word_underscore_10: soldier_essay_jump_surprise_wealth_sheriff_lock_draft_moral_property
+bip_39_word_underscore_11: soldier_essay_jump_surprise_wealth_sheriff_lock_draft_moral_property_habit
+bip_39_word_underscore_12: soldier_essay_jump_surprise_wealth_sheriff_lock_draft_moral_property_habit_art
+bip_39_word_underscore_2: soldier_essay
+bip_39_word_underscore_3: soldier_essay_jump
+bip_39_word_underscore_4: soldier_essay_jump_surprise
+bip_39_word_underscore_5: soldier_essay_jump_surprise_wealth
+bip_39_word_underscore_6: soldier_essay_jump_surprise_wealth_sheriff
+bip_39_word_underscore_7: soldier_essay_jump_surprise_wealth_sheriff_lock
+bip_39_word_underscore_8: soldier_essay_jump_surprise_wealth_sheriff_lock_draft
+bip_39_word_underscore_9: soldier_essay_jump_surprise_wealth_sheriff_lock_draft_moral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

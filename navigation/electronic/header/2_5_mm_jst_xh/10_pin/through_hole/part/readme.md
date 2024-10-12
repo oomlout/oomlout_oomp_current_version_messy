@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vacant |  
+| bip_39_word_dash_10 | vacant-salon-boost-motion-salt-detail-crowd-chest-bitter-sunny |  
+| bip_39_word_dash_11 | vacant-salon-boost-motion-salt-detail-crowd-chest-bitter-sunny-blush |  
+| bip_39_word_dash_12 | vacant-salon-boost-motion-salt-detail-crowd-chest-bitter-sunny-blush-arch |  
+| bip_39_word_dash_2 | vacant-salon |  
+| bip_39_word_dash_3 | vacant-salon-boost |  
+| bip_39_word_dash_4 | vacant-salon-boost-motion |  
+| bip_39_word_dash_5 | vacant-salon-boost-motion-salt |  
+| bip_39_word_dash_6 | vacant-salon-boost-motion-salt-detail |  
+| bip_39_word_dash_7 | vacant-salon-boost-motion-salt-detail-crowd |  
+| bip_39_word_dash_8 | vacant-salon-boost-motion-salt-detail-crowd-chest |  
+| bip_39_word_dash_9 | vacant-salon-boost-motion-salt-detail-crowd-chest-bitter |  
 | bip_39_word_new_br_1 | vacant |  
 | bip_39_word_new_br_10 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny |  
 | bip_39_word_new_br_11 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny<br>blush |  
@@ -147,6 +159,18 @@ bitter |
 | bip_39_word_space_7 | vacant salon boost motion salt detail crowd |  
 | bip_39_word_space_8 | vacant salon boost motion salt detail crowd chest |  
 | bip_39_word_space_9 | vacant salon boost motion salt detail crowd chest bitter |  
+| bip_39_word_underscore_1 | vacant |  
+| bip_39_word_underscore_10 | vacant_salon_boost_motion_salt_detail_crowd_chest_bitter_sunny |  
+| bip_39_word_underscore_11 | vacant_salon_boost_motion_salt_detail_crowd_chest_bitter_sunny_blush |  
+| bip_39_word_underscore_12 | vacant_salon_boost_motion_salt_detail_crowd_chest_bitter_sunny_blush_arch |  
+| bip_39_word_underscore_2 | vacant_salon |  
+| bip_39_word_underscore_3 | vacant_salon_boost |  
+| bip_39_word_underscore_4 | vacant_salon_boost_motion |  
+| bip_39_word_underscore_5 | vacant_salon_boost_motion_salt |  
+| bip_39_word_underscore_6 | vacant_salon_boost_motion_salt_detail |  
+| bip_39_word_underscore_7 | vacant_salon_boost_motion_salt_detail_crowd |  
+| bip_39_word_underscore_8 | vacant_salon_boost_motion_salt_detail_crowd_chest |  
+| bip_39_word_underscore_9 | vacant_salon_boost_motion_salt_detail_crowd_chest_bitter |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

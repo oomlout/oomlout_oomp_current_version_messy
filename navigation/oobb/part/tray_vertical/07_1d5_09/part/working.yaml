@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cost
+bip_39_word_dash_10: cost-vague-update-simple-hurry-name-poet-strong-steel-surround
+bip_39_word_dash_11: cost-vague-update-simple-hurry-name-poet-strong-steel-surround-nest
+bip_39_word_dash_12: cost-vague-update-simple-hurry-name-poet-strong-steel-surround-nest-art
+bip_39_word_dash_2: cost-vague
+bip_39_word_dash_3: cost-vague-update
+bip_39_word_dash_4: cost-vague-update-simple
+bip_39_word_dash_5: cost-vague-update-simple-hurry
+bip_39_word_dash_6: cost-vague-update-simple-hurry-name
+bip_39_word_dash_7: cost-vague-update-simple-hurry-name-poet
+bip_39_word_dash_8: cost-vague-update-simple-hurry-name-poet-strong
+bip_39_word_dash_9: cost-vague-update-simple-hurry-name-poet-strong-steel
 bip_39_word_new_br_1: cost
 bip_39_word_new_br_10: cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong<br>steel<br>surround
 bip_39_word_new_br_11: cost<br>vague<br>update<br>simple<br>hurry<br>name<br>poet<br>strong<br>steel<br>surround<br>nest
@@ -193,6 +205,18 @@ bip_39_word_space_6: cost vague update simple hurry name
 bip_39_word_space_7: cost vague update simple hurry name poet
 bip_39_word_space_8: cost vague update simple hurry name poet strong
 bip_39_word_space_9: cost vague update simple hurry name poet strong steel
+bip_39_word_underscore_1: cost
+bip_39_word_underscore_10: cost_vague_update_simple_hurry_name_poet_strong_steel_surround
+bip_39_word_underscore_11: cost_vague_update_simple_hurry_name_poet_strong_steel_surround_nest
+bip_39_word_underscore_12: cost_vague_update_simple_hurry_name_poet_strong_steel_surround_nest_art
+bip_39_word_underscore_2: cost_vague
+bip_39_word_underscore_3: cost_vague_update
+bip_39_word_underscore_4: cost_vague_update_simple
+bip_39_word_underscore_5: cost_vague_update_simple_hurry
+bip_39_word_underscore_6: cost_vague_update_simple_hurry_name
+bip_39_word_underscore_7: cost_vague_update_simple_hurry_name_poet
+bip_39_word_underscore_8: cost_vague_update_simple_hurry_name_poet_strong
+bip_39_word_underscore_9: cost_vague_update_simple_hurry_name_poet_strong_steel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

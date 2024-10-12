@@ -1,3 +1,15 @@
+bip_39_word_dash_1: devote
+bip_39_word_dash_10: devote-pipe-stock-merge-gold-smart-present-ask-rare-verify
+bip_39_word_dash_11: devote-pipe-stock-merge-gold-smart-present-ask-rare-verify-scout
+bip_39_word_dash_12: devote-pipe-stock-merge-gold-smart-present-ask-rare-verify-scout-abuse
+bip_39_word_dash_2: devote-pipe
+bip_39_word_dash_3: devote-pipe-stock
+bip_39_word_dash_4: devote-pipe-stock-merge
+bip_39_word_dash_5: devote-pipe-stock-merge-gold
+bip_39_word_dash_6: devote-pipe-stock-merge-gold-smart
+bip_39_word_dash_7: devote-pipe-stock-merge-gold-smart-present
+bip_39_word_dash_8: devote-pipe-stock-merge-gold-smart-present-ask
+bip_39_word_dash_9: devote-pipe-stock-merge-gold-smart-present-ask-rare
 bip_39_word_new_br_1: devote
 bip_39_word_new_br_10: devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify
 bip_39_word_new_br_11: devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify<br>scout
@@ -192,6 +204,18 @@ bip_39_word_space_6: devote pipe stock merge gold smart
 bip_39_word_space_7: devote pipe stock merge gold smart present
 bip_39_word_space_8: devote pipe stock merge gold smart present ask
 bip_39_word_space_9: devote pipe stock merge gold smart present ask rare
+bip_39_word_underscore_1: devote
+bip_39_word_underscore_10: devote_pipe_stock_merge_gold_smart_present_ask_rare_verify
+bip_39_word_underscore_11: devote_pipe_stock_merge_gold_smart_present_ask_rare_verify_scout
+bip_39_word_underscore_12: devote_pipe_stock_merge_gold_smart_present_ask_rare_verify_scout_abuse
+bip_39_word_underscore_2: devote_pipe
+bip_39_word_underscore_3: devote_pipe_stock
+bip_39_word_underscore_4: devote_pipe_stock_merge
+bip_39_word_underscore_5: devote_pipe_stock_merge_gold
+bip_39_word_underscore_6: devote_pipe_stock_merge_gold_smart
+bip_39_word_underscore_7: devote_pipe_stock_merge_gold_smart_present
+bip_39_word_underscore_8: devote_pipe_stock_merge_gold_smart_present_ask
+bip_39_word_underscore_9: devote_pipe_stock_merge_gold_smart_present_ask_rare
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

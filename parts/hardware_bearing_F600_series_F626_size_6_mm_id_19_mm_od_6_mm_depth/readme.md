@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | settle |  
+| bip_39_word_dash_10 | settle-direct-laptop-moral-sword-near-roast-breeze-hair-spoil |  
+| bip_39_word_dash_11 | settle-direct-laptop-moral-sword-near-roast-breeze-hair-spoil-check |  
+| bip_39_word_dash_12 | settle-direct-laptop-moral-sword-near-roast-breeze-hair-spoil-check-all |  
+| bip_39_word_dash_2 | settle-direct |  
+| bip_39_word_dash_3 | settle-direct-laptop |  
+| bip_39_word_dash_4 | settle-direct-laptop-moral |  
+| bip_39_word_dash_5 | settle-direct-laptop-moral-sword |  
+| bip_39_word_dash_6 | settle-direct-laptop-moral-sword-near |  
+| bip_39_word_dash_7 | settle-direct-laptop-moral-sword-near-roast |  
+| bip_39_word_dash_8 | settle-direct-laptop-moral-sword-near-roast-breeze |  
+| bip_39_word_dash_9 | settle-direct-laptop-moral-sword-near-roast-breeze-hair |  
 | bip_39_word_new_br_1 | settle |  
 | bip_39_word_new_br_10 | settle<br>direct<br>laptop<br>moral<br>sword<br>near<br>roast<br>breeze<br>hair<br>spoil |  
 | bip_39_word_new_br_11 | settle<br>direct<br>laptop<br>moral<br>sword<br>near<br>roast<br>breeze<br>hair<br>spoil<br>check |  
@@ -147,6 +159,18 @@ hair |
 | bip_39_word_space_7 | settle direct laptop moral sword near roast |  
 | bip_39_word_space_8 | settle direct laptop moral sword near roast breeze |  
 | bip_39_word_space_9 | settle direct laptop moral sword near roast breeze hair |  
+| bip_39_word_underscore_1 | settle |  
+| bip_39_word_underscore_10 | settle_direct_laptop_moral_sword_near_roast_breeze_hair_spoil |  
+| bip_39_word_underscore_11 | settle_direct_laptop_moral_sword_near_roast_breeze_hair_spoil_check |  
+| bip_39_word_underscore_12 | settle_direct_laptop_moral_sword_near_roast_breeze_hair_spoil_check_all |  
+| bip_39_word_underscore_2 | settle_direct |  
+| bip_39_word_underscore_3 | settle_direct_laptop |  
+| bip_39_word_underscore_4 | settle_direct_laptop_moral |  
+| bip_39_word_underscore_5 | settle_direct_laptop_moral_sword |  
+| bip_39_word_underscore_6 | settle_direct_laptop_moral_sword_near |  
+| bip_39_word_underscore_7 | settle_direct_laptop_moral_sword_near_roast |  
+| bip_39_word_underscore_8 | settle_direct_laptop_moral_sword_near_roast_breeze |  
+| bip_39_word_underscore_9 | settle_direct_laptop_moral_sword_near_roast_breeze_hair |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

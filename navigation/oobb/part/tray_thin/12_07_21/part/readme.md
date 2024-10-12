@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | foam |  
+| bip_39_word_dash_10 | foam-toast-lottery-wet-script-jacket-top-erupt-notice-obscure |  
+| bip_39_word_dash_11 | foam-toast-lottery-wet-script-jacket-top-erupt-notice-obscure-topic |  
+| bip_39_word_dash_12 | foam-toast-lottery-wet-script-jacket-top-erupt-notice-obscure-topic-about |  
+| bip_39_word_dash_2 | foam-toast |  
+| bip_39_word_dash_3 | foam-toast-lottery |  
+| bip_39_word_dash_4 | foam-toast-lottery-wet |  
+| bip_39_word_dash_5 | foam-toast-lottery-wet-script |  
+| bip_39_word_dash_6 | foam-toast-lottery-wet-script-jacket |  
+| bip_39_word_dash_7 | foam-toast-lottery-wet-script-jacket-top |  
+| bip_39_word_dash_8 | foam-toast-lottery-wet-script-jacket-top-erupt |  
+| bip_39_word_dash_9 | foam-toast-lottery-wet-script-jacket-top-erupt-notice |  
 | bip_39_word_new_br_1 | foam |  
 | bip_39_word_new_br_10 | foam<br>toast<br>lottery<br>wet<br>script<br>jacket<br>top<br>erupt<br>notice<br>obscure |  
 | bip_39_word_new_br_11 | foam<br>toast<br>lottery<br>wet<br>script<br>jacket<br>top<br>erupt<br>notice<br>obscure<br>topic |  
@@ -147,6 +159,18 @@ notice |
 | bip_39_word_space_7 | foam toast lottery wet script jacket top |  
 | bip_39_word_space_8 | foam toast lottery wet script jacket top erupt |  
 | bip_39_word_space_9 | foam toast lottery wet script jacket top erupt notice |  
+| bip_39_word_underscore_1 | foam |  
+| bip_39_word_underscore_10 | foam_toast_lottery_wet_script_jacket_top_erupt_notice_obscure |  
+| bip_39_word_underscore_11 | foam_toast_lottery_wet_script_jacket_top_erupt_notice_obscure_topic |  
+| bip_39_word_underscore_12 | foam_toast_lottery_wet_script_jacket_top_erupt_notice_obscure_topic_about |  
+| bip_39_word_underscore_2 | foam_toast |  
+| bip_39_word_underscore_3 | foam_toast_lottery |  
+| bip_39_word_underscore_4 | foam_toast_lottery_wet |  
+| bip_39_word_underscore_5 | foam_toast_lottery_wet_script |  
+| bip_39_word_underscore_6 | foam_toast_lottery_wet_script_jacket |  
+| bip_39_word_underscore_7 | foam_toast_lottery_wet_script_jacket_top |  
+| bip_39_word_underscore_8 | foam_toast_lottery_wet_script_jacket_top_erupt |  
+| bip_39_word_underscore_9 | foam_toast_lottery_wet_script_jacket_top_erupt_notice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

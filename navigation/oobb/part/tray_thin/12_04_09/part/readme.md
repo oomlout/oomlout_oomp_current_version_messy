@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | visual |  
+| bip_39_word_dash_10 | visual-hamster-dust-dynamic-same-notice-story-clap-turtle-hold |  
+| bip_39_word_dash_11 | visual-hamster-dust-dynamic-same-notice-story-clap-turtle-hold-always |  
+| bip_39_word_dash_12 | visual-hamster-dust-dynamic-same-notice-story-clap-turtle-hold-always-apart |  
+| bip_39_word_dash_2 | visual-hamster |  
+| bip_39_word_dash_3 | visual-hamster-dust |  
+| bip_39_word_dash_4 | visual-hamster-dust-dynamic |  
+| bip_39_word_dash_5 | visual-hamster-dust-dynamic-same |  
+| bip_39_word_dash_6 | visual-hamster-dust-dynamic-same-notice |  
+| bip_39_word_dash_7 | visual-hamster-dust-dynamic-same-notice-story |  
+| bip_39_word_dash_8 | visual-hamster-dust-dynamic-same-notice-story-clap |  
+| bip_39_word_dash_9 | visual-hamster-dust-dynamic-same-notice-story-clap-turtle |  
 | bip_39_word_new_br_1 | visual |  
 | bip_39_word_new_br_10 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold |  
 | bip_39_word_new_br_11 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold<br>always |  
@@ -147,6 +159,18 @@ turtle |
 | bip_39_word_space_7 | visual hamster dust dynamic same notice story |  
 | bip_39_word_space_8 | visual hamster dust dynamic same notice story clap |  
 | bip_39_word_space_9 | visual hamster dust dynamic same notice story clap turtle |  
+| bip_39_word_underscore_1 | visual |  
+| bip_39_word_underscore_10 | visual_hamster_dust_dynamic_same_notice_story_clap_turtle_hold |  
+| bip_39_word_underscore_11 | visual_hamster_dust_dynamic_same_notice_story_clap_turtle_hold_always |  
+| bip_39_word_underscore_12 | visual_hamster_dust_dynamic_same_notice_story_clap_turtle_hold_always_apart |  
+| bip_39_word_underscore_2 | visual_hamster |  
+| bip_39_word_underscore_3 | visual_hamster_dust |  
+| bip_39_word_underscore_4 | visual_hamster_dust_dynamic |  
+| bip_39_word_underscore_5 | visual_hamster_dust_dynamic_same |  
+| bip_39_word_underscore_6 | visual_hamster_dust_dynamic_same_notice |  
+| bip_39_word_underscore_7 | visual_hamster_dust_dynamic_same_notice_story |  
+| bip_39_word_underscore_8 | visual_hamster_dust_dynamic_same_notice_story_clap |  
+| bip_39_word_underscore_9 | visual_hamster_dust_dynamic_same_notice_story_clap_turtle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

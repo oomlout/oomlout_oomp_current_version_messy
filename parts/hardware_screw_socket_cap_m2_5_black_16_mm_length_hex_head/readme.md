@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | release |  
+| bip_39_word_dash_10 | release-evil-split-clog-lift-sight-earn-main-meat-uniform |  
+| bip_39_word_dash_11 | release-evil-split-clog-lift-sight-earn-main-meat-uniform-cricket |  
+| bip_39_word_dash_12 | release-evil-split-clog-lift-sight-earn-main-meat-uniform-cricket-adult |  
+| bip_39_word_dash_2 | release-evil |  
+| bip_39_word_dash_3 | release-evil-split |  
+| bip_39_word_dash_4 | release-evil-split-clog |  
+| bip_39_word_dash_5 | release-evil-split-clog-lift |  
+| bip_39_word_dash_6 | release-evil-split-clog-lift-sight |  
+| bip_39_word_dash_7 | release-evil-split-clog-lift-sight-earn |  
+| bip_39_word_dash_8 | release-evil-split-clog-lift-sight-earn-main |  
+| bip_39_word_dash_9 | release-evil-split-clog-lift-sight-earn-main-meat |  
 | bip_39_word_new_br_1 | release |  
 | bip_39_word_new_br_10 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform |  
 | bip_39_word_new_br_11 | release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform<br>cricket |  
@@ -147,6 +159,18 @@ meat |
 | bip_39_word_space_7 | release evil split clog lift sight earn |  
 | bip_39_word_space_8 | release evil split clog lift sight earn main |  
 | bip_39_word_space_9 | release evil split clog lift sight earn main meat |  
+| bip_39_word_underscore_1 | release |  
+| bip_39_word_underscore_10 | release_evil_split_clog_lift_sight_earn_main_meat_uniform |  
+| bip_39_word_underscore_11 | release_evil_split_clog_lift_sight_earn_main_meat_uniform_cricket |  
+| bip_39_word_underscore_12 | release_evil_split_clog_lift_sight_earn_main_meat_uniform_cricket_adult |  
+| bip_39_word_underscore_2 | release_evil |  
+| bip_39_word_underscore_3 | release_evil_split |  
+| bip_39_word_underscore_4 | release_evil_split_clog |  
+| bip_39_word_underscore_5 | release_evil_split_clog_lift |  
+| bip_39_word_underscore_6 | release_evil_split_clog_lift_sight |  
+| bip_39_word_underscore_7 | release_evil_split_clog_lift_sight_earn |  
+| bip_39_word_underscore_8 | release_evil_split_clog_lift_sight_earn_main |  
+| bip_39_word_underscore_9 | release_evil_split_clog_lift_sight_earn_main_meat |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

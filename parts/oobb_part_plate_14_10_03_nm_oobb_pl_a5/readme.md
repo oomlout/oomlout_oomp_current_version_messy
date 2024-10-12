@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | photo |  
+| bip_39_word_dash_10 | photo-typical-collect-coil-bulb-toast-shadow-blur-boost-produce |  
+| bip_39_word_dash_11 | photo-typical-collect-coil-bulb-toast-shadow-blur-boost-produce-cherry |  
+| bip_39_word_dash_12 | photo-typical-collect-coil-bulb-toast-shadow-blur-boost-produce-cherry-athlete |  
+| bip_39_word_dash_2 | photo-typical |  
+| bip_39_word_dash_3 | photo-typical-collect |  
+| bip_39_word_dash_4 | photo-typical-collect-coil |  
+| bip_39_word_dash_5 | photo-typical-collect-coil-bulb |  
+| bip_39_word_dash_6 | photo-typical-collect-coil-bulb-toast |  
+| bip_39_word_dash_7 | photo-typical-collect-coil-bulb-toast-shadow |  
+| bip_39_word_dash_8 | photo-typical-collect-coil-bulb-toast-shadow-blur |  
+| bip_39_word_dash_9 | photo-typical-collect-coil-bulb-toast-shadow-blur-boost |  
 | bip_39_word_new_br_1 | photo |  
 | bip_39_word_new_br_10 | photo<br>typical<br>collect<br>coil<br>bulb<br>toast<br>shadow<br>blur<br>boost<br>produce |  
 | bip_39_word_new_br_11 | photo<br>typical<br>collect<br>coil<br>bulb<br>toast<br>shadow<br>blur<br>boost<br>produce<br>cherry |  
@@ -147,6 +159,18 @@ boost |
 | bip_39_word_space_7 | photo typical collect coil bulb toast shadow |  
 | bip_39_word_space_8 | photo typical collect coil bulb toast shadow blur |  
 | bip_39_word_space_9 | photo typical collect coil bulb toast shadow blur boost |  
+| bip_39_word_underscore_1 | photo |  
+| bip_39_word_underscore_10 | photo_typical_collect_coil_bulb_toast_shadow_blur_boost_produce |  
+| bip_39_word_underscore_11 | photo_typical_collect_coil_bulb_toast_shadow_blur_boost_produce_cherry |  
+| bip_39_word_underscore_12 | photo_typical_collect_coil_bulb_toast_shadow_blur_boost_produce_cherry_athlete |  
+| bip_39_word_underscore_2 | photo_typical |  
+| bip_39_word_underscore_3 | photo_typical_collect |  
+| bip_39_word_underscore_4 | photo_typical_collect_coil |  
+| bip_39_word_underscore_5 | photo_typical_collect_coil_bulb |  
+| bip_39_word_underscore_6 | photo_typical_collect_coil_bulb_toast |  
+| bip_39_word_underscore_7 | photo_typical_collect_coil_bulb_toast_shadow |  
+| bip_39_word_underscore_8 | photo_typical_collect_coil_bulb_toast_shadow_blur |  
+| bip_39_word_underscore_9 | photo_typical_collect_coil_bulb_toast_shadow_blur_boost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

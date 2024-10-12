@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bird |  
+| bip_39_word_dash_10 | bird-jaguar-pause-annual-intact-salon-pole-come-garlic-digital |  
+| bip_39_word_dash_11 | bird-jaguar-pause-annual-intact-salon-pole-come-garlic-digital-dog |  
+| bip_39_word_dash_12 | bird-jaguar-pause-annual-intact-salon-pole-come-garlic-digital-dog-always |  
+| bip_39_word_dash_2 | bird-jaguar |  
+| bip_39_word_dash_3 | bird-jaguar-pause |  
+| bip_39_word_dash_4 | bird-jaguar-pause-annual |  
+| bip_39_word_dash_5 | bird-jaguar-pause-annual-intact |  
+| bip_39_word_dash_6 | bird-jaguar-pause-annual-intact-salon |  
+| bip_39_word_dash_7 | bird-jaguar-pause-annual-intact-salon-pole |  
+| bip_39_word_dash_8 | bird-jaguar-pause-annual-intact-salon-pole-come |  
+| bip_39_word_dash_9 | bird-jaguar-pause-annual-intact-salon-pole-come-garlic |  
 | bip_39_word_new_br_1 | bird |  
 | bip_39_word_new_br_10 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital |  
 | bip_39_word_new_br_11 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital<br>dog |  
@@ -147,6 +159,18 @@ garlic |
 | bip_39_word_space_7 | bird jaguar pause annual intact salon pole |  
 | bip_39_word_space_8 | bird jaguar pause annual intact salon pole come |  
 | bip_39_word_space_9 | bird jaguar pause annual intact salon pole come garlic |  
+| bip_39_word_underscore_1 | bird |  
+| bip_39_word_underscore_10 | bird_jaguar_pause_annual_intact_salon_pole_come_garlic_digital |  
+| bip_39_word_underscore_11 | bird_jaguar_pause_annual_intact_salon_pole_come_garlic_digital_dog |  
+| bip_39_word_underscore_12 | bird_jaguar_pause_annual_intact_salon_pole_come_garlic_digital_dog_always |  
+| bip_39_word_underscore_2 | bird_jaguar |  
+| bip_39_word_underscore_3 | bird_jaguar_pause |  
+| bip_39_word_underscore_4 | bird_jaguar_pause_annual |  
+| bip_39_word_underscore_5 | bird_jaguar_pause_annual_intact |  
+| bip_39_word_underscore_6 | bird_jaguar_pause_annual_intact_salon |  
+| bip_39_word_underscore_7 | bird_jaguar_pause_annual_intact_salon_pole |  
+| bip_39_word_underscore_8 | bird_jaguar_pause_annual_intact_salon_pole_come |  
+| bip_39_word_underscore_9 | bird_jaguar_pause_annual_intact_salon_pole_come_garlic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sleep |  
+| bip_39_word_dash_10 | sleep-cool-swarm-again-bundle-pass-title-october-second-fluid |  
+| bip_39_word_dash_11 | sleep-cool-swarm-again-bundle-pass-title-october-second-fluid-office |  
+| bip_39_word_dash_12 | sleep-cool-swarm-again-bundle-pass-title-october-second-fluid-office-around |  
+| bip_39_word_dash_2 | sleep-cool |  
+| bip_39_word_dash_3 | sleep-cool-swarm |  
+| bip_39_word_dash_4 | sleep-cool-swarm-again |  
+| bip_39_word_dash_5 | sleep-cool-swarm-again-bundle |  
+| bip_39_word_dash_6 | sleep-cool-swarm-again-bundle-pass |  
+| bip_39_word_dash_7 | sleep-cool-swarm-again-bundle-pass-title |  
+| bip_39_word_dash_8 | sleep-cool-swarm-again-bundle-pass-title-october |  
+| bip_39_word_dash_9 | sleep-cool-swarm-again-bundle-pass-title-october-second |  
 | bip_39_word_new_br_1 | sleep |  
 | bip_39_word_new_br_10 | sleep<br>cool<br>swarm<br>again<br>bundle<br>pass<br>title<br>october<br>second<br>fluid |  
 | bip_39_word_new_br_11 | sleep<br>cool<br>swarm<br>again<br>bundle<br>pass<br>title<br>october<br>second<br>fluid<br>office |  
@@ -147,6 +159,18 @@ second |
 | bip_39_word_space_7 | sleep cool swarm again bundle pass title |  
 | bip_39_word_space_8 | sleep cool swarm again bundle pass title october |  
 | bip_39_word_space_9 | sleep cool swarm again bundle pass title october second |  
+| bip_39_word_underscore_1 | sleep |  
+| bip_39_word_underscore_10 | sleep_cool_swarm_again_bundle_pass_title_october_second_fluid |  
+| bip_39_word_underscore_11 | sleep_cool_swarm_again_bundle_pass_title_october_second_fluid_office |  
+| bip_39_word_underscore_12 | sleep_cool_swarm_again_bundle_pass_title_october_second_fluid_office_around |  
+| bip_39_word_underscore_2 | sleep_cool |  
+| bip_39_word_underscore_3 | sleep_cool_swarm |  
+| bip_39_word_underscore_4 | sleep_cool_swarm_again |  
+| bip_39_word_underscore_5 | sleep_cool_swarm_again_bundle |  
+| bip_39_word_underscore_6 | sleep_cool_swarm_again_bundle_pass |  
+| bip_39_word_underscore_7 | sleep_cool_swarm_again_bundle_pass_title |  
+| bip_39_word_underscore_8 | sleep_cool_swarm_again_bundle_pass_title_october |  
+| bip_39_word_underscore_9 | sleep_cool_swarm_again_bundle_pass_title_october_second |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

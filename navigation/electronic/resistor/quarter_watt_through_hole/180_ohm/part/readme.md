@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | couple |  
+| bip_39_word_dash_10 | couple-upgrade-trust-paper-potato-trouble-desk-great-morning-brick |  
+| bip_39_word_dash_11 | couple-upgrade-trust-paper-potato-trouble-desk-great-morning-brick-stumble |  
+| bip_39_word_dash_12 | couple-upgrade-trust-paper-potato-trouble-desk-great-morning-brick-stumble-airport |  
+| bip_39_word_dash_2 | couple-upgrade |  
+| bip_39_word_dash_3 | couple-upgrade-trust |  
+| bip_39_word_dash_4 | couple-upgrade-trust-paper |  
+| bip_39_word_dash_5 | couple-upgrade-trust-paper-potato |  
+| bip_39_word_dash_6 | couple-upgrade-trust-paper-potato-trouble |  
+| bip_39_word_dash_7 | couple-upgrade-trust-paper-potato-trouble-desk |  
+| bip_39_word_dash_8 | couple-upgrade-trust-paper-potato-trouble-desk-great |  
+| bip_39_word_dash_9 | couple-upgrade-trust-paper-potato-trouble-desk-great-morning |  
 | bip_39_word_new_br_1 | couple |  
 | bip_39_word_new_br_10 | couple<br>upgrade<br>trust<br>paper<br>potato<br>trouble<br>desk<br>great<br>morning<br>brick |  
 | bip_39_word_new_br_11 | couple<br>upgrade<br>trust<br>paper<br>potato<br>trouble<br>desk<br>great<br>morning<br>brick<br>stumble |  
@@ -147,6 +159,18 @@ morning |
 | bip_39_word_space_7 | couple upgrade trust paper potato trouble desk |  
 | bip_39_word_space_8 | couple upgrade trust paper potato trouble desk great |  
 | bip_39_word_space_9 | couple upgrade trust paper potato trouble desk great morning |  
+| bip_39_word_underscore_1 | couple |  
+| bip_39_word_underscore_10 | couple_upgrade_trust_paper_potato_trouble_desk_great_morning_brick |  
+| bip_39_word_underscore_11 | couple_upgrade_trust_paper_potato_trouble_desk_great_morning_brick_stumble |  
+| bip_39_word_underscore_12 | couple_upgrade_trust_paper_potato_trouble_desk_great_morning_brick_stumble_airport |  
+| bip_39_word_underscore_2 | couple_upgrade |  
+| bip_39_word_underscore_3 | couple_upgrade_trust |  
+| bip_39_word_underscore_4 | couple_upgrade_trust_paper |  
+| bip_39_word_underscore_5 | couple_upgrade_trust_paper_potato |  
+| bip_39_word_underscore_6 | couple_upgrade_trust_paper_potato_trouble |  
+| bip_39_word_underscore_7 | couple_upgrade_trust_paper_potato_trouble_desk |  
+| bip_39_word_underscore_8 | couple_upgrade_trust_paper_potato_trouble_desk_great |  
+| bip_39_word_underscore_9 | couple_upgrade_trust_paper_potato_trouble_desk_great_morning |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

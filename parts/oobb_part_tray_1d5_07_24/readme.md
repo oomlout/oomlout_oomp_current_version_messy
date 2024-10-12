@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | among |  
+| bip_39_word_dash_10 | among-swift-frozen-glue-legend-faculty-case-stick-suffer-country |  
+| bip_39_word_dash_11 | among-swift-frozen-glue-legend-faculty-case-stick-suffer-country-border |  
+| bip_39_word_dash_12 | among-swift-frozen-glue-legend-faculty-case-stick-suffer-country-border-apple |  
+| bip_39_word_dash_2 | among-swift |  
+| bip_39_word_dash_3 | among-swift-frozen |  
+| bip_39_word_dash_4 | among-swift-frozen-glue |  
+| bip_39_word_dash_5 | among-swift-frozen-glue-legend |  
+| bip_39_word_dash_6 | among-swift-frozen-glue-legend-faculty |  
+| bip_39_word_dash_7 | among-swift-frozen-glue-legend-faculty-case |  
+| bip_39_word_dash_8 | among-swift-frozen-glue-legend-faculty-case-stick |  
+| bip_39_word_dash_9 | among-swift-frozen-glue-legend-faculty-case-stick-suffer |  
 | bip_39_word_new_br_1 | among |  
 | bip_39_word_new_br_10 | among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country |  
 | bip_39_word_new_br_11 | among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country<br>border |  
@@ -147,6 +159,18 @@ suffer |
 | bip_39_word_space_7 | among swift frozen glue legend faculty case |  
 | bip_39_word_space_8 | among swift frozen glue legend faculty case stick |  
 | bip_39_word_space_9 | among swift frozen glue legend faculty case stick suffer |  
+| bip_39_word_underscore_1 | among |  
+| bip_39_word_underscore_10 | among_swift_frozen_glue_legend_faculty_case_stick_suffer_country |  
+| bip_39_word_underscore_11 | among_swift_frozen_glue_legend_faculty_case_stick_suffer_country_border |  
+| bip_39_word_underscore_12 | among_swift_frozen_glue_legend_faculty_case_stick_suffer_country_border_apple |  
+| bip_39_word_underscore_2 | among_swift |  
+| bip_39_word_underscore_3 | among_swift_frozen |  
+| bip_39_word_underscore_4 | among_swift_frozen_glue |  
+| bip_39_word_underscore_5 | among_swift_frozen_glue_legend |  
+| bip_39_word_underscore_6 | among_swift_frozen_glue_legend_faculty |  
+| bip_39_word_underscore_7 | among_swift_frozen_glue_legend_faculty_case |  
+| bip_39_word_underscore_8 | among_swift_frozen_glue_legend_faculty_case_stick |  
+| bip_39_word_underscore_9 | among_swift_frozen_glue_legend_faculty_case_stick_suffer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

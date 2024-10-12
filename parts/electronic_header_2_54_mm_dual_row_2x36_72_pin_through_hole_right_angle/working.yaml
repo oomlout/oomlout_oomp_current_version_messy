@@ -1,3 +1,15 @@
+bip_39_word_dash_1: speed
+bip_39_word_dash_10: speed-gasp-dutch-pupil-van-history-puzzle-sunset-wire-awful
+bip_39_word_dash_11: speed-gasp-dutch-pupil-van-history-puzzle-sunset-wire-awful-trash
+bip_39_word_dash_12: speed-gasp-dutch-pupil-van-history-puzzle-sunset-wire-awful-trash-allow
+bip_39_word_dash_2: speed-gasp
+bip_39_word_dash_3: speed-gasp-dutch
+bip_39_word_dash_4: speed-gasp-dutch-pupil
+bip_39_word_dash_5: speed-gasp-dutch-pupil-van
+bip_39_word_dash_6: speed-gasp-dutch-pupil-van-history
+bip_39_word_dash_7: speed-gasp-dutch-pupil-van-history-puzzle
+bip_39_word_dash_8: speed-gasp-dutch-pupil-van-history-puzzle-sunset
+bip_39_word_dash_9: speed-gasp-dutch-pupil-van-history-puzzle-sunset-wire
 bip_39_word_new_br_1: speed
 bip_39_word_new_br_10: speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful
 bip_39_word_new_br_11: speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful<br>trash
@@ -193,6 +205,18 @@ bip_39_word_space_6: speed gasp dutch pupil van history
 bip_39_word_space_7: speed gasp dutch pupil van history puzzle
 bip_39_word_space_8: speed gasp dutch pupil van history puzzle sunset
 bip_39_word_space_9: speed gasp dutch pupil van history puzzle sunset wire
+bip_39_word_underscore_1: speed
+bip_39_word_underscore_10: speed_gasp_dutch_pupil_van_history_puzzle_sunset_wire_awful
+bip_39_word_underscore_11: speed_gasp_dutch_pupil_van_history_puzzle_sunset_wire_awful_trash
+bip_39_word_underscore_12: speed_gasp_dutch_pupil_van_history_puzzle_sunset_wire_awful_trash_allow
+bip_39_word_underscore_2: speed_gasp
+bip_39_word_underscore_3: speed_gasp_dutch
+bip_39_word_underscore_4: speed_gasp_dutch_pupil
+bip_39_word_underscore_5: speed_gasp_dutch_pupil_van
+bip_39_word_underscore_6: speed_gasp_dutch_pupil_van_history
+bip_39_word_underscore_7: speed_gasp_dutch_pupil_van_history_puzzle
+bip_39_word_underscore_8: speed_gasp_dutch_pupil_van_history_puzzle_sunset
+bip_39_word_underscore_9: speed_gasp_dutch_pupil_van_history_puzzle_sunset_wire
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | universe |  
+| bip_39_word_dash_10 | universe-what-crash-design-regret-twenty-food-error-guess-input |  
+| bip_39_word_dash_11 | universe-what-crash-design-regret-twenty-food-error-guess-input-wheel |  
+| bip_39_word_dash_12 | universe-what-crash-design-regret-twenty-food-error-guess-input-wheel-animal |  
+| bip_39_word_dash_2 | universe-what |  
+| bip_39_word_dash_3 | universe-what-crash |  
+| bip_39_word_dash_4 | universe-what-crash-design |  
+| bip_39_word_dash_5 | universe-what-crash-design-regret |  
+| bip_39_word_dash_6 | universe-what-crash-design-regret-twenty |  
+| bip_39_word_dash_7 | universe-what-crash-design-regret-twenty-food |  
+| bip_39_word_dash_8 | universe-what-crash-design-regret-twenty-food-error |  
+| bip_39_word_dash_9 | universe-what-crash-design-regret-twenty-food-error-guess |  
 | bip_39_word_new_br_1 | universe |  
 | bip_39_word_new_br_10 | universe<br>what<br>crash<br>design<br>regret<br>twenty<br>food<br>error<br>guess<br>input |  
 | bip_39_word_new_br_11 | universe<br>what<br>crash<br>design<br>regret<br>twenty<br>food<br>error<br>guess<br>input<br>wheel |  
@@ -147,6 +159,18 @@ guess |
 | bip_39_word_space_7 | universe what crash design regret twenty food |  
 | bip_39_word_space_8 | universe what crash design regret twenty food error |  
 | bip_39_word_space_9 | universe what crash design regret twenty food error guess |  
+| bip_39_word_underscore_1 | universe |  
+| bip_39_word_underscore_10 | universe_what_crash_design_regret_twenty_food_error_guess_input |  
+| bip_39_word_underscore_11 | universe_what_crash_design_regret_twenty_food_error_guess_input_wheel |  
+| bip_39_word_underscore_12 | universe_what_crash_design_regret_twenty_food_error_guess_input_wheel_animal |  
+| bip_39_word_underscore_2 | universe_what |  
+| bip_39_word_underscore_3 | universe_what_crash |  
+| bip_39_word_underscore_4 | universe_what_crash_design |  
+| bip_39_word_underscore_5 | universe_what_crash_design_regret |  
+| bip_39_word_underscore_6 | universe_what_crash_design_regret_twenty |  
+| bip_39_word_underscore_7 | universe_what_crash_design_regret_twenty_food |  
+| bip_39_word_underscore_8 | universe_what_crash_design_regret_twenty_food_error |  
+| bip_39_word_underscore_9 | universe_what_crash_design_regret_twenty_food_error_guess |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

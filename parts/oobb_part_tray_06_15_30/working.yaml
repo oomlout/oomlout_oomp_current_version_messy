@@ -1,3 +1,15 @@
+bip_39_word_dash_1: second
+bip_39_word_dash_10: second-radar-enhance-scout-shrimp-cheese-original-potato-lobster-body
+bip_39_word_dash_11: second-radar-enhance-scout-shrimp-cheese-original-potato-lobster-body-chalk
+bip_39_word_dash_12: second-radar-enhance-scout-shrimp-cheese-original-potato-lobster-body-chalk-arctic
+bip_39_word_dash_2: second-radar
+bip_39_word_dash_3: second-radar-enhance
+bip_39_word_dash_4: second-radar-enhance-scout
+bip_39_word_dash_5: second-radar-enhance-scout-shrimp
+bip_39_word_dash_6: second-radar-enhance-scout-shrimp-cheese
+bip_39_word_dash_7: second-radar-enhance-scout-shrimp-cheese-original
+bip_39_word_dash_8: second-radar-enhance-scout-shrimp-cheese-original-potato
+bip_39_word_dash_9: second-radar-enhance-scout-shrimp-cheese-original-potato-lobster
 bip_39_word_new_br_1: second
 bip_39_word_new_br_10: second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato<br>lobster<br>body
 bip_39_word_new_br_11: second<br>radar<br>enhance<br>scout<br>shrimp<br>cheese<br>original<br>potato<br>lobster<br>body<br>chalk
@@ -194,6 +206,18 @@ bip_39_word_space_6: second radar enhance scout shrimp cheese
 bip_39_word_space_7: second radar enhance scout shrimp cheese original
 bip_39_word_space_8: second radar enhance scout shrimp cheese original potato
 bip_39_word_space_9: second radar enhance scout shrimp cheese original potato lobster
+bip_39_word_underscore_1: second
+bip_39_word_underscore_10: second_radar_enhance_scout_shrimp_cheese_original_potato_lobster_body
+bip_39_word_underscore_11: second_radar_enhance_scout_shrimp_cheese_original_potato_lobster_body_chalk
+bip_39_word_underscore_12: second_radar_enhance_scout_shrimp_cheese_original_potato_lobster_body_chalk_arctic
+bip_39_word_underscore_2: second_radar
+bip_39_word_underscore_3: second_radar_enhance
+bip_39_word_underscore_4: second_radar_enhance_scout
+bip_39_word_underscore_5: second_radar_enhance_scout_shrimp
+bip_39_word_underscore_6: second_radar_enhance_scout_shrimp_cheese
+bip_39_word_underscore_7: second_radar_enhance_scout_shrimp_cheese_original
+bip_39_word_underscore_8: second_radar_enhance_scout_shrimp_cheese_original_potato
+bip_39_word_underscore_9: second_radar_enhance_scout_shrimp_cheese_original_potato_lobster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

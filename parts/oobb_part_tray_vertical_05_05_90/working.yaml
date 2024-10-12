@@ -1,3 +1,15 @@
+bip_39_word_dash_1: right
+bip_39_word_dash_10: right-sadness-select-fluid-donor-occur-number-rare-image-enemy
+bip_39_word_dash_11: right-sadness-select-fluid-donor-occur-number-rare-image-enemy-excess
+bip_39_word_dash_12: right-sadness-select-fluid-donor-occur-number-rare-image-enemy-excess-antique
+bip_39_word_dash_2: right-sadness
+bip_39_word_dash_3: right-sadness-select
+bip_39_word_dash_4: right-sadness-select-fluid
+bip_39_word_dash_5: right-sadness-select-fluid-donor
+bip_39_word_dash_6: right-sadness-select-fluid-donor-occur
+bip_39_word_dash_7: right-sadness-select-fluid-donor-occur-number
+bip_39_word_dash_8: right-sadness-select-fluid-donor-occur-number-rare
+bip_39_word_dash_9: right-sadness-select-fluid-donor-occur-number-rare-image
 bip_39_word_new_br_1: right
 bip_39_word_new_br_10: right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy
 bip_39_word_new_br_11: right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy<br>excess
@@ -193,6 +205,18 @@ bip_39_word_space_6: right sadness select fluid donor occur
 bip_39_word_space_7: right sadness select fluid donor occur number
 bip_39_word_space_8: right sadness select fluid donor occur number rare
 bip_39_word_space_9: right sadness select fluid donor occur number rare image
+bip_39_word_underscore_1: right
+bip_39_word_underscore_10: right_sadness_select_fluid_donor_occur_number_rare_image_enemy
+bip_39_word_underscore_11: right_sadness_select_fluid_donor_occur_number_rare_image_enemy_excess
+bip_39_word_underscore_12: right_sadness_select_fluid_donor_occur_number_rare_image_enemy_excess_antique
+bip_39_word_underscore_2: right_sadness
+bip_39_word_underscore_3: right_sadness_select
+bip_39_word_underscore_4: right_sadness_select_fluid
+bip_39_word_underscore_5: right_sadness_select_fluid_donor
+bip_39_word_underscore_6: right_sadness_select_fluid_donor_occur
+bip_39_word_underscore_7: right_sadness_select_fluid_donor_occur_number
+bip_39_word_underscore_8: right_sadness_select_fluid_donor_occur_number_rare
+bip_39_word_underscore_9: right_sadness_select_fluid_donor_occur_number_rare_image
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

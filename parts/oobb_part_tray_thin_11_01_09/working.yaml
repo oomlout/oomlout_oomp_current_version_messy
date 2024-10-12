@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vintage
+bip_39_word_dash_10: vintage-satisfy-increase-rescue-sign-update-portion-print-situate-inspire
+bip_39_word_dash_11: vintage-satisfy-increase-rescue-sign-update-portion-print-situate-inspire-toilet
+bip_39_word_dash_12: vintage-satisfy-increase-rescue-sign-update-portion-print-situate-inspire-toilet-april
+bip_39_word_dash_2: vintage-satisfy
+bip_39_word_dash_3: vintage-satisfy-increase
+bip_39_word_dash_4: vintage-satisfy-increase-rescue
+bip_39_word_dash_5: vintage-satisfy-increase-rescue-sign
+bip_39_word_dash_6: vintage-satisfy-increase-rescue-sign-update
+bip_39_word_dash_7: vintage-satisfy-increase-rescue-sign-update-portion
+bip_39_word_dash_8: vintage-satisfy-increase-rescue-sign-update-portion-print
+bip_39_word_dash_9: vintage-satisfy-increase-rescue-sign-update-portion-print-situate
 bip_39_word_new_br_1: vintage
 bip_39_word_new_br_10: vintage<br>satisfy<br>increase<br>rescue<br>sign<br>update<br>portion<br>print<br>situate<br>inspire
 bip_39_word_new_br_11: vintage<br>satisfy<br>increase<br>rescue<br>sign<br>update<br>portion<br>print<br>situate<br>inspire<br>toilet
@@ -194,6 +206,18 @@ bip_39_word_space_6: vintage satisfy increase rescue sign update
 bip_39_word_space_7: vintage satisfy increase rescue sign update portion
 bip_39_word_space_8: vintage satisfy increase rescue sign update portion print
 bip_39_word_space_9: vintage satisfy increase rescue sign update portion print situate
+bip_39_word_underscore_1: vintage
+bip_39_word_underscore_10: vintage_satisfy_increase_rescue_sign_update_portion_print_situate_inspire
+bip_39_word_underscore_11: vintage_satisfy_increase_rescue_sign_update_portion_print_situate_inspire_toilet
+bip_39_word_underscore_12: vintage_satisfy_increase_rescue_sign_update_portion_print_situate_inspire_toilet_april
+bip_39_word_underscore_2: vintage_satisfy
+bip_39_word_underscore_3: vintage_satisfy_increase
+bip_39_word_underscore_4: vintage_satisfy_increase_rescue
+bip_39_word_underscore_5: vintage_satisfy_increase_rescue_sign
+bip_39_word_underscore_6: vintage_satisfy_increase_rescue_sign_update
+bip_39_word_underscore_7: vintage_satisfy_increase_rescue_sign_update_portion
+bip_39_word_underscore_8: vintage_satisfy_increase_rescue_sign_update_portion_print
+bip_39_word_underscore_9: vintage_satisfy_increase_rescue_sign_update_portion_print_situate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

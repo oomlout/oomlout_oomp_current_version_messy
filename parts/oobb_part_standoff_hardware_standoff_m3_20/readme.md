@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | divorce |  
+| bip_39_word_dash_10 | divorce-left-truck-ignore-sausage-dry-fan-hobby-flavor-nasty |  
+| bip_39_word_dash_11 | divorce-left-truck-ignore-sausage-dry-fan-hobby-flavor-nasty-increase |  
+| bip_39_word_dash_12 | divorce-left-truck-ignore-sausage-dry-fan-hobby-flavor-nasty-increase-advice |  
+| bip_39_word_dash_2 | divorce-left |  
+| bip_39_word_dash_3 | divorce-left-truck |  
+| bip_39_word_dash_4 | divorce-left-truck-ignore |  
+| bip_39_word_dash_5 | divorce-left-truck-ignore-sausage |  
+| bip_39_word_dash_6 | divorce-left-truck-ignore-sausage-dry |  
+| bip_39_word_dash_7 | divorce-left-truck-ignore-sausage-dry-fan |  
+| bip_39_word_dash_8 | divorce-left-truck-ignore-sausage-dry-fan-hobby |  
+| bip_39_word_dash_9 | divorce-left-truck-ignore-sausage-dry-fan-hobby-flavor |  
 | bip_39_word_new_br_1 | divorce |  
 | bip_39_word_new_br_10 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty |  
 | bip_39_word_new_br_11 | divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty<br>increase |  
@@ -147,6 +159,18 @@ flavor |
 | bip_39_word_space_7 | divorce left truck ignore sausage dry fan |  
 | bip_39_word_space_8 | divorce left truck ignore sausage dry fan hobby |  
 | bip_39_word_space_9 | divorce left truck ignore sausage dry fan hobby flavor |  
+| bip_39_word_underscore_1 | divorce |  
+| bip_39_word_underscore_10 | divorce_left_truck_ignore_sausage_dry_fan_hobby_flavor_nasty |  
+| bip_39_word_underscore_11 | divorce_left_truck_ignore_sausage_dry_fan_hobby_flavor_nasty_increase |  
+| bip_39_word_underscore_12 | divorce_left_truck_ignore_sausage_dry_fan_hobby_flavor_nasty_increase_advice |  
+| bip_39_word_underscore_2 | divorce_left |  
+| bip_39_word_underscore_3 | divorce_left_truck |  
+| bip_39_word_underscore_4 | divorce_left_truck_ignore |  
+| bip_39_word_underscore_5 | divorce_left_truck_ignore_sausage |  
+| bip_39_word_underscore_6 | divorce_left_truck_ignore_sausage_dry |  
+| bip_39_word_underscore_7 | divorce_left_truck_ignore_sausage_dry_fan |  
+| bip_39_word_underscore_8 | divorce_left_truck_ignore_sausage_dry_fan_hobby |  
+| bip_39_word_underscore_9 | divorce_left_truck_ignore_sausage_dry_fan_hobby_flavor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crumble |  
+| bip_39_word_dash_10 | crumble-volcano-tube-camera-olympic-soon-soul-view-sphere-paddle |  
+| bip_39_word_dash_11 | crumble-volcano-tube-camera-olympic-soon-soul-view-sphere-paddle-liberty |  
+| bip_39_word_dash_12 | crumble-volcano-tube-camera-olympic-soon-soul-view-sphere-paddle-liberty-auction |  
+| bip_39_word_dash_2 | crumble-volcano |  
+| bip_39_word_dash_3 | crumble-volcano-tube |  
+| bip_39_word_dash_4 | crumble-volcano-tube-camera |  
+| bip_39_word_dash_5 | crumble-volcano-tube-camera-olympic |  
+| bip_39_word_dash_6 | crumble-volcano-tube-camera-olympic-soon |  
+| bip_39_word_dash_7 | crumble-volcano-tube-camera-olympic-soon-soul |  
+| bip_39_word_dash_8 | crumble-volcano-tube-camera-olympic-soon-soul-view |  
+| bip_39_word_dash_9 | crumble-volcano-tube-camera-olympic-soon-soul-view-sphere |  
 | bip_39_word_new_br_1 | crumble |  
 | bip_39_word_new_br_10 | crumble<br>volcano<br>tube<br>camera<br>olympic<br>soon<br>soul<br>view<br>sphere<br>paddle |  
 | bip_39_word_new_br_11 | crumble<br>volcano<br>tube<br>camera<br>olympic<br>soon<br>soul<br>view<br>sphere<br>paddle<br>liberty |  
@@ -147,6 +159,18 @@ sphere |
 | bip_39_word_space_7 | crumble volcano tube camera olympic soon soul |  
 | bip_39_word_space_8 | crumble volcano tube camera olympic soon soul view |  
 | bip_39_word_space_9 | crumble volcano tube camera olympic soon soul view sphere |  
+| bip_39_word_underscore_1 | crumble |  
+| bip_39_word_underscore_10 | crumble_volcano_tube_camera_olympic_soon_soul_view_sphere_paddle |  
+| bip_39_word_underscore_11 | crumble_volcano_tube_camera_olympic_soon_soul_view_sphere_paddle_liberty |  
+| bip_39_word_underscore_12 | crumble_volcano_tube_camera_olympic_soon_soul_view_sphere_paddle_liberty_auction |  
+| bip_39_word_underscore_2 | crumble_volcano |  
+| bip_39_word_underscore_3 | crumble_volcano_tube |  
+| bip_39_word_underscore_4 | crumble_volcano_tube_camera |  
+| bip_39_word_underscore_5 | crumble_volcano_tube_camera_olympic |  
+| bip_39_word_underscore_6 | crumble_volcano_tube_camera_olympic_soon |  
+| bip_39_word_underscore_7 | crumble_volcano_tube_camera_olympic_soon_soul |  
+| bip_39_word_underscore_8 | crumble_volcano_tube_camera_olympic_soon_soul_view |  
+| bip_39_word_underscore_9 | crumble_volcano_tube_camera_olympic_soon_soul_view_sphere |  
 | classification | dish |  
 | classification_capital | Dish |  
 | classification_first_letter | d |  

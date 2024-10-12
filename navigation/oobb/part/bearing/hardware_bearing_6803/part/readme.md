@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cruise |  
+| bip_39_word_dash_10 | cruise-great-engine-intact-garage-stadium-promote-feed-recall-extend |  
+| bip_39_word_dash_11 | cruise-great-engine-intact-garage-stadium-promote-feed-recall-extend-govern |  
+| bip_39_word_dash_12 | cruise-great-engine-intact-garage-stadium-promote-feed-recall-extend-govern-addict |  
+| bip_39_word_dash_2 | cruise-great |  
+| bip_39_word_dash_3 | cruise-great-engine |  
+| bip_39_word_dash_4 | cruise-great-engine-intact |  
+| bip_39_word_dash_5 | cruise-great-engine-intact-garage |  
+| bip_39_word_dash_6 | cruise-great-engine-intact-garage-stadium |  
+| bip_39_word_dash_7 | cruise-great-engine-intact-garage-stadium-promote |  
+| bip_39_word_dash_8 | cruise-great-engine-intact-garage-stadium-promote-feed |  
+| bip_39_word_dash_9 | cruise-great-engine-intact-garage-stadium-promote-feed-recall |  
 | bip_39_word_new_br_1 | cruise |  
 | bip_39_word_new_br_10 | cruise<br>great<br>engine<br>intact<br>garage<br>stadium<br>promote<br>feed<br>recall<br>extend |  
 | bip_39_word_new_br_11 | cruise<br>great<br>engine<br>intact<br>garage<br>stadium<br>promote<br>feed<br>recall<br>extend<br>govern |  
@@ -147,6 +159,18 @@ recall |
 | bip_39_word_space_7 | cruise great engine intact garage stadium promote |  
 | bip_39_word_space_8 | cruise great engine intact garage stadium promote feed |  
 | bip_39_word_space_9 | cruise great engine intact garage stadium promote feed recall |  
+| bip_39_word_underscore_1 | cruise |  
+| bip_39_word_underscore_10 | cruise_great_engine_intact_garage_stadium_promote_feed_recall_extend |  
+| bip_39_word_underscore_11 | cruise_great_engine_intact_garage_stadium_promote_feed_recall_extend_govern |  
+| bip_39_word_underscore_12 | cruise_great_engine_intact_garage_stadium_promote_feed_recall_extend_govern_addict |  
+| bip_39_word_underscore_2 | cruise_great |  
+| bip_39_word_underscore_3 | cruise_great_engine |  
+| bip_39_word_underscore_4 | cruise_great_engine_intact |  
+| bip_39_word_underscore_5 | cruise_great_engine_intact_garage |  
+| bip_39_word_underscore_6 | cruise_great_engine_intact_garage_stadium |  
+| bip_39_word_underscore_7 | cruise_great_engine_intact_garage_stadium_promote |  
+| bip_39_word_underscore_8 | cruise_great_engine_intact_garage_stadium_promote_feed |  
+| bip_39_word_underscore_9 | cruise_great_engine_intact_garage_stadium_promote_feed_recall |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

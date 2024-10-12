@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pelican |  
+| bip_39_word_dash_10 | pelican-novel-away-rail-round-believe-used-toddler-icon-code |  
+| bip_39_word_dash_11 | pelican-novel-away-rail-round-believe-used-toddler-icon-code-split |  
+| bip_39_word_dash_12 | pelican-novel-away-rail-round-believe-used-toddler-icon-code-split-adult |  
+| bip_39_word_dash_2 | pelican-novel |  
+| bip_39_word_dash_3 | pelican-novel-away |  
+| bip_39_word_dash_4 | pelican-novel-away-rail |  
+| bip_39_word_dash_5 | pelican-novel-away-rail-round |  
+| bip_39_word_dash_6 | pelican-novel-away-rail-round-believe |  
+| bip_39_word_dash_7 | pelican-novel-away-rail-round-believe-used |  
+| bip_39_word_dash_8 | pelican-novel-away-rail-round-believe-used-toddler |  
+| bip_39_word_dash_9 | pelican-novel-away-rail-round-believe-used-toddler-icon |  
 | bip_39_word_new_br_1 | pelican |  
 | bip_39_word_new_br_10 | pelican<br>novel<br>away<br>rail<br>round<br>believe<br>used<br>toddler<br>icon<br>code |  
 | bip_39_word_new_br_11 | pelican<br>novel<br>away<br>rail<br>round<br>believe<br>used<br>toddler<br>icon<br>code<br>split |  
@@ -147,6 +159,18 @@ icon |
 | bip_39_word_space_7 | pelican novel away rail round believe used |  
 | bip_39_word_space_8 | pelican novel away rail round believe used toddler |  
 | bip_39_word_space_9 | pelican novel away rail round believe used toddler icon |  
+| bip_39_word_underscore_1 | pelican |  
+| bip_39_word_underscore_10 | pelican_novel_away_rail_round_believe_used_toddler_icon_code |  
+| bip_39_word_underscore_11 | pelican_novel_away_rail_round_believe_used_toddler_icon_code_split |  
+| bip_39_word_underscore_12 | pelican_novel_away_rail_round_believe_used_toddler_icon_code_split_adult |  
+| bip_39_word_underscore_2 | pelican_novel |  
+| bip_39_word_underscore_3 | pelican_novel_away |  
+| bip_39_word_underscore_4 | pelican_novel_away_rail |  
+| bip_39_word_underscore_5 | pelican_novel_away_rail_round |  
+| bip_39_word_underscore_6 | pelican_novel_away_rail_round_believe |  
+| bip_39_word_underscore_7 | pelican_novel_away_rail_round_believe_used |  
+| bip_39_word_underscore_8 | pelican_novel_away_rail_round_believe_used_toddler |  
+| bip_39_word_underscore_9 | pelican_novel_away_rail_round_believe_used_toddler_icon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

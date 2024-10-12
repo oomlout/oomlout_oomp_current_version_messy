@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | theme |  
+| bip_39_word_dash_10 | theme-decorate-trigger-network-sign-margin-inside-trade-grain-auto |  
+| bip_39_word_dash_11 | theme-decorate-trigger-network-sign-margin-inside-trade-grain-auto-gaze |  
+| bip_39_word_dash_12 | theme-decorate-trigger-network-sign-margin-inside-trade-grain-auto-gaze-arrange |  
+| bip_39_word_dash_2 | theme-decorate |  
+| bip_39_word_dash_3 | theme-decorate-trigger |  
+| bip_39_word_dash_4 | theme-decorate-trigger-network |  
+| bip_39_word_dash_5 | theme-decorate-trigger-network-sign |  
+| bip_39_word_dash_6 | theme-decorate-trigger-network-sign-margin |  
+| bip_39_word_dash_7 | theme-decorate-trigger-network-sign-margin-inside |  
+| bip_39_word_dash_8 | theme-decorate-trigger-network-sign-margin-inside-trade |  
+| bip_39_word_dash_9 | theme-decorate-trigger-network-sign-margin-inside-trade-grain |  
 | bip_39_word_new_br_1 | theme |  
 | bip_39_word_new_br_10 | theme<br>decorate<br>trigger<br>network<br>sign<br>margin<br>inside<br>trade<br>grain<br>auto |  
 | bip_39_word_new_br_11 | theme<br>decorate<br>trigger<br>network<br>sign<br>margin<br>inside<br>trade<br>grain<br>auto<br>gaze |  
@@ -147,6 +159,18 @@ grain |
 | bip_39_word_space_7 | theme decorate trigger network sign margin inside |  
 | bip_39_word_space_8 | theme decorate trigger network sign margin inside trade |  
 | bip_39_word_space_9 | theme decorate trigger network sign margin inside trade grain |  
+| bip_39_word_underscore_1 | theme |  
+| bip_39_word_underscore_10 | theme_decorate_trigger_network_sign_margin_inside_trade_grain_auto |  
+| bip_39_word_underscore_11 | theme_decorate_trigger_network_sign_margin_inside_trade_grain_auto_gaze |  
+| bip_39_word_underscore_12 | theme_decorate_trigger_network_sign_margin_inside_trade_grain_auto_gaze_arrange |  
+| bip_39_word_underscore_2 | theme_decorate |  
+| bip_39_word_underscore_3 | theme_decorate_trigger |  
+| bip_39_word_underscore_4 | theme_decorate_trigger_network |  
+| bip_39_word_underscore_5 | theme_decorate_trigger_network_sign |  
+| bip_39_word_underscore_6 | theme_decorate_trigger_network_sign_margin |  
+| bip_39_word_underscore_7 | theme_decorate_trigger_network_sign_margin_inside |  
+| bip_39_word_underscore_8 | theme_decorate_trigger_network_sign_margin_inside_trade |  
+| bip_39_word_underscore_9 | theme_decorate_trigger_network_sign_margin_inside_trade_grain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

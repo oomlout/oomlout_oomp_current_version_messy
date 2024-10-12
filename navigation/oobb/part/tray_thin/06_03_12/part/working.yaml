@@ -1,3 +1,15 @@
+bip_39_word_dash_1: engage
+bip_39_word_dash_10: engage-law-march-embody-surface-play-shift-suffer-marriage-situate
+bip_39_word_dash_11: engage-law-march-embody-surface-play-shift-suffer-marriage-situate-foster
+bip_39_word_dash_12: engage-law-march-embody-surface-play-shift-suffer-marriage-situate-foster-april
+bip_39_word_dash_2: engage-law
+bip_39_word_dash_3: engage-law-march
+bip_39_word_dash_4: engage-law-march-embody
+bip_39_word_dash_5: engage-law-march-embody-surface
+bip_39_word_dash_6: engage-law-march-embody-surface-play
+bip_39_word_dash_7: engage-law-march-embody-surface-play-shift
+bip_39_word_dash_8: engage-law-march-embody-surface-play-shift-suffer
+bip_39_word_dash_9: engage-law-march-embody-surface-play-shift-suffer-marriage
 bip_39_word_new_br_1: engage
 bip_39_word_new_br_10: engage<br>law<br>march<br>embody<br>surface<br>play<br>shift<br>suffer<br>marriage<br>situate
 bip_39_word_new_br_11: engage<br>law<br>march<br>embody<br>surface<br>play<br>shift<br>suffer<br>marriage<br>situate<br>foster
@@ -193,6 +205,18 @@ bip_39_word_space_6: engage law march embody surface play
 bip_39_word_space_7: engage law march embody surface play shift
 bip_39_word_space_8: engage law march embody surface play shift suffer
 bip_39_word_space_9: engage law march embody surface play shift suffer marriage
+bip_39_word_underscore_1: engage
+bip_39_word_underscore_10: engage_law_march_embody_surface_play_shift_suffer_marriage_situate
+bip_39_word_underscore_11: engage_law_march_embody_surface_play_shift_suffer_marriage_situate_foster
+bip_39_word_underscore_12: engage_law_march_embody_surface_play_shift_suffer_marriage_situate_foster_april
+bip_39_word_underscore_2: engage_law
+bip_39_word_underscore_3: engage_law_march
+bip_39_word_underscore_4: engage_law_march_embody
+bip_39_word_underscore_5: engage_law_march_embody_surface
+bip_39_word_underscore_6: engage_law_march_embody_surface_play
+bip_39_word_underscore_7: engage_law_march_embody_surface_play_shift
+bip_39_word_underscore_8: engage_law_march_embody_surface_play_shift_suffer
+bip_39_word_underscore_9: engage_law_march_embody_surface_play_shift_suffer_marriage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

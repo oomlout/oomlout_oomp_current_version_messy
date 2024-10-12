@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crack
+bip_39_word_dash_10: crack-pistol-engage-height-choose-early-scatter-mirror-spy-tiger
+bip_39_word_dash_11: crack-pistol-engage-height-choose-early-scatter-mirror-spy-tiger-book
+bip_39_word_dash_12: crack-pistol-engage-height-choose-early-scatter-mirror-spy-tiger-book-about
+bip_39_word_dash_2: crack-pistol
+bip_39_word_dash_3: crack-pistol-engage
+bip_39_word_dash_4: crack-pistol-engage-height
+bip_39_word_dash_5: crack-pistol-engage-height-choose
+bip_39_word_dash_6: crack-pistol-engage-height-choose-early
+bip_39_word_dash_7: crack-pistol-engage-height-choose-early-scatter
+bip_39_word_dash_8: crack-pistol-engage-height-choose-early-scatter-mirror
+bip_39_word_dash_9: crack-pistol-engage-height-choose-early-scatter-mirror-spy
 bip_39_word_new_br_1: crack
 bip_39_word_new_br_10: crack<br>pistol<br>engage<br>height<br>choose<br>early<br>scatter<br>mirror<br>spy<br>tiger
 bip_39_word_new_br_11: crack<br>pistol<br>engage<br>height<br>choose<br>early<br>scatter<br>mirror<br>spy<br>tiger<br>book
@@ -193,6 +205,18 @@ bip_39_word_space_6: crack pistol engage height choose early
 bip_39_word_space_7: crack pistol engage height choose early scatter
 bip_39_word_space_8: crack pistol engage height choose early scatter mirror
 bip_39_word_space_9: crack pistol engage height choose early scatter mirror spy
+bip_39_word_underscore_1: crack
+bip_39_word_underscore_10: crack_pistol_engage_height_choose_early_scatter_mirror_spy_tiger
+bip_39_word_underscore_11: crack_pistol_engage_height_choose_early_scatter_mirror_spy_tiger_book
+bip_39_word_underscore_12: crack_pistol_engage_height_choose_early_scatter_mirror_spy_tiger_book_about
+bip_39_word_underscore_2: crack_pistol
+bip_39_word_underscore_3: crack_pistol_engage
+bip_39_word_underscore_4: crack_pistol_engage_height
+bip_39_word_underscore_5: crack_pistol_engage_height_choose
+bip_39_word_underscore_6: crack_pistol_engage_height_choose_early
+bip_39_word_underscore_7: crack_pistol_engage_height_choose_early_scatter
+bip_39_word_underscore_8: crack_pistol_engage_height_choose_early_scatter_mirror
+bip_39_word_underscore_9: crack_pistol_engage_height_choose_early_scatter_mirror_spy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

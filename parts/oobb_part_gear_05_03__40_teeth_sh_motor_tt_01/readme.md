@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wolf |  
+| bip_39_word_dash_10 | wolf-dumb-film-trend-exercise-buffalo-afraid-slight-cargo-drama |  
+| bip_39_word_dash_11 | wolf-dumb-film-trend-exercise-buffalo-afraid-slight-cargo-drama-humor |  
+| bip_39_word_dash_12 | wolf-dumb-film-trend-exercise-buffalo-afraid-slight-cargo-drama-humor-artist |  
+| bip_39_word_dash_2 | wolf-dumb |  
+| bip_39_word_dash_3 | wolf-dumb-film |  
+| bip_39_word_dash_4 | wolf-dumb-film-trend |  
+| bip_39_word_dash_5 | wolf-dumb-film-trend-exercise |  
+| bip_39_word_dash_6 | wolf-dumb-film-trend-exercise-buffalo |  
+| bip_39_word_dash_7 | wolf-dumb-film-trend-exercise-buffalo-afraid |  
+| bip_39_word_dash_8 | wolf-dumb-film-trend-exercise-buffalo-afraid-slight |  
+| bip_39_word_dash_9 | wolf-dumb-film-trend-exercise-buffalo-afraid-slight-cargo |  
 | bip_39_word_new_br_1 | wolf |  
 | bip_39_word_new_br_10 | wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama |  
 | bip_39_word_new_br_11 | wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama<br>humor |  
@@ -147,6 +159,18 @@ cargo |
 | bip_39_word_space_7 | wolf dumb film trend exercise buffalo afraid |  
 | bip_39_word_space_8 | wolf dumb film trend exercise buffalo afraid slight |  
 | bip_39_word_space_9 | wolf dumb film trend exercise buffalo afraid slight cargo |  
+| bip_39_word_underscore_1 | wolf |  
+| bip_39_word_underscore_10 | wolf_dumb_film_trend_exercise_buffalo_afraid_slight_cargo_drama |  
+| bip_39_word_underscore_11 | wolf_dumb_film_trend_exercise_buffalo_afraid_slight_cargo_drama_humor |  
+| bip_39_word_underscore_12 | wolf_dumb_film_trend_exercise_buffalo_afraid_slight_cargo_drama_humor_artist |  
+| bip_39_word_underscore_2 | wolf_dumb |  
+| bip_39_word_underscore_3 | wolf_dumb_film |  
+| bip_39_word_underscore_4 | wolf_dumb_film_trend |  
+| bip_39_word_underscore_5 | wolf_dumb_film_trend_exercise |  
+| bip_39_word_underscore_6 | wolf_dumb_film_trend_exercise_buffalo |  
+| bip_39_word_underscore_7 | wolf_dumb_film_trend_exercise_buffalo_afraid |  
+| bip_39_word_underscore_8 | wolf_dumb_film_trend_exercise_buffalo_afraid_slight |  
+| bip_39_word_underscore_9 | wolf_dumb_film_trend_exercise_buffalo_afraid_slight_cargo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

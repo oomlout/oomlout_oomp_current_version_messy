@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | observe |  
+| bip_39_word_dash_10 | observe-client-immense-toy-again-shoot-treat-easily-squeeze-figure |  
+| bip_39_word_dash_11 | observe-client-immense-toy-again-shoot-treat-easily-squeeze-figure-sweet |  
+| bip_39_word_dash_12 | observe-client-immense-toy-again-shoot-treat-easily-squeeze-figure-sweet-adjust |  
+| bip_39_word_dash_2 | observe-client |  
+| bip_39_word_dash_3 | observe-client-immense |  
+| bip_39_word_dash_4 | observe-client-immense-toy |  
+| bip_39_word_dash_5 | observe-client-immense-toy-again |  
+| bip_39_word_dash_6 | observe-client-immense-toy-again-shoot |  
+| bip_39_word_dash_7 | observe-client-immense-toy-again-shoot-treat |  
+| bip_39_word_dash_8 | observe-client-immense-toy-again-shoot-treat-easily |  
+| bip_39_word_dash_9 | observe-client-immense-toy-again-shoot-treat-easily-squeeze |  
 | bip_39_word_new_br_1 | observe |  
 | bip_39_word_new_br_10 | observe<br>client<br>immense<br>toy<br>again<br>shoot<br>treat<br>easily<br>squeeze<br>figure |  
 | bip_39_word_new_br_11 | observe<br>client<br>immense<br>toy<br>again<br>shoot<br>treat<br>easily<br>squeeze<br>figure<br>sweet |  
@@ -147,6 +159,18 @@ squeeze |
 | bip_39_word_space_7 | observe client immense toy again shoot treat |  
 | bip_39_word_space_8 | observe client immense toy again shoot treat easily |  
 | bip_39_word_space_9 | observe client immense toy again shoot treat easily squeeze |  
+| bip_39_word_underscore_1 | observe |  
+| bip_39_word_underscore_10 | observe_client_immense_toy_again_shoot_treat_easily_squeeze_figure |  
+| bip_39_word_underscore_11 | observe_client_immense_toy_again_shoot_treat_easily_squeeze_figure_sweet |  
+| bip_39_word_underscore_12 | observe_client_immense_toy_again_shoot_treat_easily_squeeze_figure_sweet_adjust |  
+| bip_39_word_underscore_2 | observe_client |  
+| bip_39_word_underscore_3 | observe_client_immense |  
+| bip_39_word_underscore_4 | observe_client_immense_toy |  
+| bip_39_word_underscore_5 | observe_client_immense_toy_again |  
+| bip_39_word_underscore_6 | observe_client_immense_toy_again_shoot |  
+| bip_39_word_underscore_7 | observe_client_immense_toy_again_shoot_treat |  
+| bip_39_word_underscore_8 | observe_client_immense_toy_again_shoot_treat_easily |  
+| bip_39_word_underscore_9 | observe_client_immense_toy_again_shoot_treat_easily_squeeze |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

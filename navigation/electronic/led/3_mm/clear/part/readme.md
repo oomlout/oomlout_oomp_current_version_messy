@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fat |  
+| bip_39_word_dash_10 | fat-electric-laundry-across-attend-cruise-ensure-output-acquire-forum |  
+| bip_39_word_dash_11 | fat-electric-laundry-across-attend-cruise-ensure-output-acquire-forum-invite |  
+| bip_39_word_dash_12 | fat-electric-laundry-across-attend-cruise-ensure-output-acquire-forum-invite-actress |  
+| bip_39_word_dash_2 | fat-electric |  
+| bip_39_word_dash_3 | fat-electric-laundry |  
+| bip_39_word_dash_4 | fat-electric-laundry-across |  
+| bip_39_word_dash_5 | fat-electric-laundry-across-attend |  
+| bip_39_word_dash_6 | fat-electric-laundry-across-attend-cruise |  
+| bip_39_word_dash_7 | fat-electric-laundry-across-attend-cruise-ensure |  
+| bip_39_word_dash_8 | fat-electric-laundry-across-attend-cruise-ensure-output |  
+| bip_39_word_dash_9 | fat-electric-laundry-across-attend-cruise-ensure-output-acquire |  
 | bip_39_word_new_br_1 | fat |  
 | bip_39_word_new_br_10 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output<br>acquire<br>forum |  
 | bip_39_word_new_br_11 | fat<br>electric<br>laundry<br>across<br>attend<br>cruise<br>ensure<br>output<br>acquire<br>forum<br>invite |  
@@ -147,6 +159,18 @@ acquire |
 | bip_39_word_space_7 | fat electric laundry across attend cruise ensure |  
 | bip_39_word_space_8 | fat electric laundry across attend cruise ensure output |  
 | bip_39_word_space_9 | fat electric laundry across attend cruise ensure output acquire |  
+| bip_39_word_underscore_1 | fat |  
+| bip_39_word_underscore_10 | fat_electric_laundry_across_attend_cruise_ensure_output_acquire_forum |  
+| bip_39_word_underscore_11 | fat_electric_laundry_across_attend_cruise_ensure_output_acquire_forum_invite |  
+| bip_39_word_underscore_12 | fat_electric_laundry_across_attend_cruise_ensure_output_acquire_forum_invite_actress |  
+| bip_39_word_underscore_2 | fat_electric |  
+| bip_39_word_underscore_3 | fat_electric_laundry |  
+| bip_39_word_underscore_4 | fat_electric_laundry_across |  
+| bip_39_word_underscore_5 | fat_electric_laundry_across_attend |  
+| bip_39_word_underscore_6 | fat_electric_laundry_across_attend_cruise |  
+| bip_39_word_underscore_7 | fat_electric_laundry_across_attend_cruise_ensure |  
+| bip_39_word_underscore_8 | fat_electric_laundry_across_attend_cruise_ensure_output |  
+| bip_39_word_underscore_9 | fat_electric_laundry_across_attend_cruise_ensure_output_acquire |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

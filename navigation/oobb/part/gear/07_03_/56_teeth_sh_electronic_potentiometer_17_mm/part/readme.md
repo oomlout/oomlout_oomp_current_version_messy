@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | embark |  
+| bip_39_word_dash_10 | embark-great-caught-imitate-manual-model-wrist-lock-lesson-defense |  
+| bip_39_word_dash_11 | embark-great-caught-imitate-manual-model-wrist-lock-lesson-defense-task |  
+| bip_39_word_dash_12 | embark-great-caught-imitate-manual-model-wrist-lock-lesson-defense-task-action |  
+| bip_39_word_dash_2 | embark-great |  
+| bip_39_word_dash_3 | embark-great-caught |  
+| bip_39_word_dash_4 | embark-great-caught-imitate |  
+| bip_39_word_dash_5 | embark-great-caught-imitate-manual |  
+| bip_39_word_dash_6 | embark-great-caught-imitate-manual-model |  
+| bip_39_word_dash_7 | embark-great-caught-imitate-manual-model-wrist |  
+| bip_39_word_dash_8 | embark-great-caught-imitate-manual-model-wrist-lock |  
+| bip_39_word_dash_9 | embark-great-caught-imitate-manual-model-wrist-lock-lesson |  
 | bip_39_word_new_br_1 | embark |  
 | bip_39_word_new_br_10 | embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock<br>lesson<br>defense |  
 | bip_39_word_new_br_11 | embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock<br>lesson<br>defense<br>task |  
@@ -147,6 +159,18 @@ lesson |
 | bip_39_word_space_7 | embark great caught imitate manual model wrist |  
 | bip_39_word_space_8 | embark great caught imitate manual model wrist lock |  
 | bip_39_word_space_9 | embark great caught imitate manual model wrist lock lesson |  
+| bip_39_word_underscore_1 | embark |  
+| bip_39_word_underscore_10 | embark_great_caught_imitate_manual_model_wrist_lock_lesson_defense |  
+| bip_39_word_underscore_11 | embark_great_caught_imitate_manual_model_wrist_lock_lesson_defense_task |  
+| bip_39_word_underscore_12 | embark_great_caught_imitate_manual_model_wrist_lock_lesson_defense_task_action |  
+| bip_39_word_underscore_2 | embark_great |  
+| bip_39_word_underscore_3 | embark_great_caught |  
+| bip_39_word_underscore_4 | embark_great_caught_imitate |  
+| bip_39_word_underscore_5 | embark_great_caught_imitate_manual |  
+| bip_39_word_underscore_6 | embark_great_caught_imitate_manual_model |  
+| bip_39_word_underscore_7 | embark_great_caught_imitate_manual_model_wrist |  
+| bip_39_word_underscore_8 | embark_great_caught_imitate_manual_model_wrist_lock |  
+| bip_39_word_underscore_9 | embark_great_caught_imitate_manual_model_wrist_lock_lesson |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: affair
+bip_39_word_dash_10: affair-cycle-night-canoe-emerge-scheme-vintage-brave-version-course
+bip_39_word_dash_11: affair-cycle-night-canoe-emerge-scheme-vintage-brave-version-course-salmon
+bip_39_word_dash_12: affair-cycle-night-canoe-emerge-scheme-vintage-brave-version-course-salmon-ankle
+bip_39_word_dash_2: affair-cycle
+bip_39_word_dash_3: affair-cycle-night
+bip_39_word_dash_4: affair-cycle-night-canoe
+bip_39_word_dash_5: affair-cycle-night-canoe-emerge
+bip_39_word_dash_6: affair-cycle-night-canoe-emerge-scheme
+bip_39_word_dash_7: affair-cycle-night-canoe-emerge-scheme-vintage
+bip_39_word_dash_8: affair-cycle-night-canoe-emerge-scheme-vintage-brave
+bip_39_word_dash_9: affair-cycle-night-canoe-emerge-scheme-vintage-brave-version
 bip_39_word_new_br_1: affair
 bip_39_word_new_br_10: affair<br>cycle<br>night<br>canoe<br>emerge<br>scheme<br>vintage<br>brave<br>version<br>course
 bip_39_word_new_br_11: affair<br>cycle<br>night<br>canoe<br>emerge<br>scheme<br>vintage<br>brave<br>version<br>course<br>salmon
@@ -194,6 +206,18 @@ bip_39_word_space_6: affair cycle night canoe emerge scheme
 bip_39_word_space_7: affair cycle night canoe emerge scheme vintage
 bip_39_word_space_8: affair cycle night canoe emerge scheme vintage brave
 bip_39_word_space_9: affair cycle night canoe emerge scheme vintage brave version
+bip_39_word_underscore_1: affair
+bip_39_word_underscore_10: affair_cycle_night_canoe_emerge_scheme_vintage_brave_version_course
+bip_39_word_underscore_11: affair_cycle_night_canoe_emerge_scheme_vintage_brave_version_course_salmon
+bip_39_word_underscore_12: affair_cycle_night_canoe_emerge_scheme_vintage_brave_version_course_salmon_ankle
+bip_39_word_underscore_2: affair_cycle
+bip_39_word_underscore_3: affair_cycle_night
+bip_39_word_underscore_4: affair_cycle_night_canoe
+bip_39_word_underscore_5: affair_cycle_night_canoe_emerge
+bip_39_word_underscore_6: affair_cycle_night_canoe_emerge_scheme
+bip_39_word_underscore_7: affair_cycle_night_canoe_emerge_scheme_vintage
+bip_39_word_underscore_8: affair_cycle_night_canoe_emerge_scheme_vintage_brave
+bip_39_word_underscore_9: affair_cycle_night_canoe_emerge_scheme_vintage_brave_version
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

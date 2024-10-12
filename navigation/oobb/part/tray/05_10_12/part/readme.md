@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | filter |  
+| bip_39_word_dash_10 | filter-jungle-tomato-group-safe-exit-basket-observe-harvest-track |  
+| bip_39_word_dash_11 | filter-jungle-tomato-group-safe-exit-basket-observe-harvest-track-modify |  
+| bip_39_word_dash_12 | filter-jungle-tomato-group-safe-exit-basket-observe-harvest-track-modify-arch |  
+| bip_39_word_dash_2 | filter-jungle |  
+| bip_39_word_dash_3 | filter-jungle-tomato |  
+| bip_39_word_dash_4 | filter-jungle-tomato-group |  
+| bip_39_word_dash_5 | filter-jungle-tomato-group-safe |  
+| bip_39_word_dash_6 | filter-jungle-tomato-group-safe-exit |  
+| bip_39_word_dash_7 | filter-jungle-tomato-group-safe-exit-basket |  
+| bip_39_word_dash_8 | filter-jungle-tomato-group-safe-exit-basket-observe |  
+| bip_39_word_dash_9 | filter-jungle-tomato-group-safe-exit-basket-observe-harvest |  
 | bip_39_word_new_br_1 | filter |  
 | bip_39_word_new_br_10 | filter<br>jungle<br>tomato<br>group<br>safe<br>exit<br>basket<br>observe<br>harvest<br>track |  
 | bip_39_word_new_br_11 | filter<br>jungle<br>tomato<br>group<br>safe<br>exit<br>basket<br>observe<br>harvest<br>track<br>modify |  
@@ -147,6 +159,18 @@ harvest |
 | bip_39_word_space_7 | filter jungle tomato group safe exit basket |  
 | bip_39_word_space_8 | filter jungle tomato group safe exit basket observe |  
 | bip_39_word_space_9 | filter jungle tomato group safe exit basket observe harvest |  
+| bip_39_word_underscore_1 | filter |  
+| bip_39_word_underscore_10 | filter_jungle_tomato_group_safe_exit_basket_observe_harvest_track |  
+| bip_39_word_underscore_11 | filter_jungle_tomato_group_safe_exit_basket_observe_harvest_track_modify |  
+| bip_39_word_underscore_12 | filter_jungle_tomato_group_safe_exit_basket_observe_harvest_track_modify_arch |  
+| bip_39_word_underscore_2 | filter_jungle |  
+| bip_39_word_underscore_3 | filter_jungle_tomato |  
+| bip_39_word_underscore_4 | filter_jungle_tomato_group |  
+| bip_39_word_underscore_5 | filter_jungle_tomato_group_safe |  
+| bip_39_word_underscore_6 | filter_jungle_tomato_group_safe_exit |  
+| bip_39_word_underscore_7 | filter_jungle_tomato_group_safe_exit_basket |  
+| bip_39_word_underscore_8 | filter_jungle_tomato_group_safe_exit_basket_observe |  
+| bip_39_word_underscore_9 | filter_jungle_tomato_group_safe_exit_basket_observe_harvest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

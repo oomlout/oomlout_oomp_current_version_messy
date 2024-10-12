@@ -1,3 +1,15 @@
+bip_39_word_dash_1: capable
+bip_39_word_dash_10: capable-balance-advance-allow-very-river-swap-satoshi-wasp-earn
+bip_39_word_dash_11: capable-balance-advance-allow-very-river-swap-satoshi-wasp-earn-road
+bip_39_word_dash_12: capable-balance-advance-allow-very-river-swap-satoshi-wasp-earn-road-alcohol
+bip_39_word_dash_2: capable-balance
+bip_39_word_dash_3: capable-balance-advance
+bip_39_word_dash_4: capable-balance-advance-allow
+bip_39_word_dash_5: capable-balance-advance-allow-very
+bip_39_word_dash_6: capable-balance-advance-allow-very-river
+bip_39_word_dash_7: capable-balance-advance-allow-very-river-swap
+bip_39_word_dash_8: capable-balance-advance-allow-very-river-swap-satoshi
+bip_39_word_dash_9: capable-balance-advance-allow-very-river-swap-satoshi-wasp
 bip_39_word_new_br_1: capable
 bip_39_word_new_br_10: capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn
 bip_39_word_new_br_11: capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn<br>road
@@ -193,6 +205,18 @@ bip_39_word_space_6: capable balance advance allow very river
 bip_39_word_space_7: capable balance advance allow very river swap
 bip_39_word_space_8: capable balance advance allow very river swap satoshi
 bip_39_word_space_9: capable balance advance allow very river swap satoshi wasp
+bip_39_word_underscore_1: capable
+bip_39_word_underscore_10: capable_balance_advance_allow_very_river_swap_satoshi_wasp_earn
+bip_39_word_underscore_11: capable_balance_advance_allow_very_river_swap_satoshi_wasp_earn_road
+bip_39_word_underscore_12: capable_balance_advance_allow_very_river_swap_satoshi_wasp_earn_road_alcohol
+bip_39_word_underscore_2: capable_balance
+bip_39_word_underscore_3: capable_balance_advance
+bip_39_word_underscore_4: capable_balance_advance_allow
+bip_39_word_underscore_5: capable_balance_advance_allow_very
+bip_39_word_underscore_6: capable_balance_advance_allow_very_river
+bip_39_word_underscore_7: capable_balance_advance_allow_very_river_swap
+bip_39_word_underscore_8: capable_balance_advance_allow_very_river_swap_satoshi
+bip_39_word_underscore_9: capable_balance_advance_allow_very_river_swap_satoshi_wasp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

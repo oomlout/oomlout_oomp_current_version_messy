@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grid |  
+| bip_39_word_dash_10 | grid-insane-egg-spend-tired-moment-smooth-soda-orphan-connect |  
+| bip_39_word_dash_11 | grid-insane-egg-spend-tired-moment-smooth-soda-orphan-connect-sustain |  
+| bip_39_word_dash_12 | grid-insane-egg-spend-tired-moment-smooth-soda-orphan-connect-sustain-any |  
+| bip_39_word_dash_2 | grid-insane |  
+| bip_39_word_dash_3 | grid-insane-egg |  
+| bip_39_word_dash_4 | grid-insane-egg-spend |  
+| bip_39_word_dash_5 | grid-insane-egg-spend-tired |  
+| bip_39_word_dash_6 | grid-insane-egg-spend-tired-moment |  
+| bip_39_word_dash_7 | grid-insane-egg-spend-tired-moment-smooth |  
+| bip_39_word_dash_8 | grid-insane-egg-spend-tired-moment-smooth-soda |  
+| bip_39_word_dash_9 | grid-insane-egg-spend-tired-moment-smooth-soda-orphan |  
 | bip_39_word_new_br_1 | grid |  
 | bip_39_word_new_br_10 | grid<br>insane<br>egg<br>spend<br>tired<br>moment<br>smooth<br>soda<br>orphan<br>connect |  
 | bip_39_word_new_br_11 | grid<br>insane<br>egg<br>spend<br>tired<br>moment<br>smooth<br>soda<br>orphan<br>connect<br>sustain |  
@@ -147,6 +159,18 @@ orphan |
 | bip_39_word_space_7 | grid insane egg spend tired moment smooth |  
 | bip_39_word_space_8 | grid insane egg spend tired moment smooth soda |  
 | bip_39_word_space_9 | grid insane egg spend tired moment smooth soda orphan |  
+| bip_39_word_underscore_1 | grid |  
+| bip_39_word_underscore_10 | grid_insane_egg_spend_tired_moment_smooth_soda_orphan_connect |  
+| bip_39_word_underscore_11 | grid_insane_egg_spend_tired_moment_smooth_soda_orphan_connect_sustain |  
+| bip_39_word_underscore_12 | grid_insane_egg_spend_tired_moment_smooth_soda_orphan_connect_sustain_any |  
+| bip_39_word_underscore_2 | grid_insane |  
+| bip_39_word_underscore_3 | grid_insane_egg |  
+| bip_39_word_underscore_4 | grid_insane_egg_spend |  
+| bip_39_word_underscore_5 | grid_insane_egg_spend_tired |  
+| bip_39_word_underscore_6 | grid_insane_egg_spend_tired_moment |  
+| bip_39_word_underscore_7 | grid_insane_egg_spend_tired_moment_smooth |  
+| bip_39_word_underscore_8 | grid_insane_egg_spend_tired_moment_smooth_soda |  
+| bip_39_word_underscore_9 | grid_insane_egg_spend_tired_moment_smooth_soda_orphan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

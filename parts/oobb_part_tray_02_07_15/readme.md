@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | please |  
+| bip_39_word_dash_10 | please-myth-wife-measure-month-govern-subject-theme-aspect-nurse |  
+| bip_39_word_dash_11 | please-myth-wife-measure-month-govern-subject-theme-aspect-nurse-law |  
+| bip_39_word_dash_2 | please-myth |  
+| bip_39_word_dash_3 | please-myth-wife |  
+| bip_39_word_dash_4 | please-myth-wife-measure |  
+| bip_39_word_dash_5 | please-myth-wife-measure-month |  
+| bip_39_word_dash_6 | please-myth-wife-measure-month-govern |  
+| bip_39_word_dash_7 | please-myth-wife-measure-month-govern-subject |  
+| bip_39_word_dash_8 | please-myth-wife-measure-month-govern-subject-theme |  
+| bip_39_word_dash_9 | please-myth-wife-measure-month-govern-subject-theme-aspect |  
 | bip_39_word_new_br_1 | please |  
 | bip_39_word_new_br_10 | please<br>myth<br>wife<br>measure<br>month<br>govern<br>subject<br>theme<br>aspect<br>nurse |  
 | bip_39_word_new_br_11 | please<br>myth<br>wife<br>measure<br>month<br>govern<br>subject<br>theme<br>aspect<br>nurse<br>law |  
@@ -132,6 +143,17 @@ aspect |
 | bip_39_word_space_7 | please myth wife measure month govern subject |  
 | bip_39_word_space_8 | please myth wife measure month govern subject theme |  
 | bip_39_word_space_9 | please myth wife measure month govern subject theme aspect |  
+| bip_39_word_underscore_1 | please |  
+| bip_39_word_underscore_10 | please_myth_wife_measure_month_govern_subject_theme_aspect_nurse |  
+| bip_39_word_underscore_11 | please_myth_wife_measure_month_govern_subject_theme_aspect_nurse_law |  
+| bip_39_word_underscore_2 | please_myth |  
+| bip_39_word_underscore_3 | please_myth_wife |  
+| bip_39_word_underscore_4 | please_myth_wife_measure |  
+| bip_39_word_underscore_5 | please_myth_wife_measure_month |  
+| bip_39_word_underscore_6 | please_myth_wife_measure_month_govern |  
+| bip_39_word_underscore_7 | please_myth_wife_measure_month_govern_subject |  
+| bip_39_word_underscore_8 | please_myth_wife_measure_month_govern_subject_theme |  
+| bip_39_word_underscore_9 | please_myth_wife_measure_month_govern_subject_theme_aspect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: match
+bip_39_word_dash_10: match-remain-flip-like-time-bottom-blossom-oven-celery-story
+bip_39_word_dash_11: match-remain-flip-like-time-bottom-blossom-oven-celery-story-company
+bip_39_word_dash_12: match-remain-flip-like-time-bottom-blossom-oven-celery-story-company-access
+bip_39_word_dash_2: match-remain
+bip_39_word_dash_3: match-remain-flip
+bip_39_word_dash_4: match-remain-flip-like
+bip_39_word_dash_5: match-remain-flip-like-time
+bip_39_word_dash_6: match-remain-flip-like-time-bottom
+bip_39_word_dash_7: match-remain-flip-like-time-bottom-blossom
+bip_39_word_dash_8: match-remain-flip-like-time-bottom-blossom-oven
+bip_39_word_dash_9: match-remain-flip-like-time-bottom-blossom-oven-celery
 bip_39_word_new_br_1: match
 bip_39_word_new_br_10: match<br>remain<br>flip<br>like<br>time<br>bottom<br>blossom<br>oven<br>celery<br>story
 bip_39_word_new_br_11: match<br>remain<br>flip<br>like<br>time<br>bottom<br>blossom<br>oven<br>celery<br>story<br>company
@@ -193,6 +205,18 @@ bip_39_word_space_6: match remain flip like time bottom
 bip_39_word_space_7: match remain flip like time bottom blossom
 bip_39_word_space_8: match remain flip like time bottom blossom oven
 bip_39_word_space_9: match remain flip like time bottom blossom oven celery
+bip_39_word_underscore_1: match
+bip_39_word_underscore_10: match_remain_flip_like_time_bottom_blossom_oven_celery_story
+bip_39_word_underscore_11: match_remain_flip_like_time_bottom_blossom_oven_celery_story_company
+bip_39_word_underscore_12: match_remain_flip_like_time_bottom_blossom_oven_celery_story_company_access
+bip_39_word_underscore_2: match_remain
+bip_39_word_underscore_3: match_remain_flip
+bip_39_word_underscore_4: match_remain_flip_like
+bip_39_word_underscore_5: match_remain_flip_like_time
+bip_39_word_underscore_6: match_remain_flip_like_time_bottom
+bip_39_word_underscore_7: match_remain_flip_like_time_bottom_blossom
+bip_39_word_underscore_8: match_remain_flip_like_time_bottom_blossom_oven
+bip_39_word_underscore_9: match_remain_flip_like_time_bottom_blossom_oven_celery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

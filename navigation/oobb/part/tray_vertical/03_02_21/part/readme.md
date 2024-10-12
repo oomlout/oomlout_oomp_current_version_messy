@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fatigue |  
+| bip_39_word_dash_10 | fatigue-aim-harsh-mixture-talk-arrow-country-bulb-help-foster |  
+| bip_39_word_dash_11 | fatigue-aim-harsh-mixture-talk-arrow-country-bulb-help-foster-dinner |  
+| bip_39_word_dash_12 | fatigue-aim-harsh-mixture-talk-arrow-country-bulb-help-foster-dinner-always |  
+| bip_39_word_dash_2 | fatigue-aim |  
+| bip_39_word_dash_3 | fatigue-aim-harsh |  
+| bip_39_word_dash_4 | fatigue-aim-harsh-mixture |  
+| bip_39_word_dash_5 | fatigue-aim-harsh-mixture-talk |  
+| bip_39_word_dash_6 | fatigue-aim-harsh-mixture-talk-arrow |  
+| bip_39_word_dash_7 | fatigue-aim-harsh-mixture-talk-arrow-country |  
+| bip_39_word_dash_8 | fatigue-aim-harsh-mixture-talk-arrow-country-bulb |  
+| bip_39_word_dash_9 | fatigue-aim-harsh-mixture-talk-arrow-country-bulb-help |  
 | bip_39_word_new_br_1 | fatigue |  
 | bip_39_word_new_br_10 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb<br>help<br>foster |  
 | bip_39_word_new_br_11 | fatigue<br>aim<br>harsh<br>mixture<br>talk<br>arrow<br>country<br>bulb<br>help<br>foster<br>dinner |  
@@ -147,6 +159,18 @@ help |
 | bip_39_word_space_7 | fatigue aim harsh mixture talk arrow country |  
 | bip_39_word_space_8 | fatigue aim harsh mixture talk arrow country bulb |  
 | bip_39_word_space_9 | fatigue aim harsh mixture talk arrow country bulb help |  
+| bip_39_word_underscore_1 | fatigue |  
+| bip_39_word_underscore_10 | fatigue_aim_harsh_mixture_talk_arrow_country_bulb_help_foster |  
+| bip_39_word_underscore_11 | fatigue_aim_harsh_mixture_talk_arrow_country_bulb_help_foster_dinner |  
+| bip_39_word_underscore_12 | fatigue_aim_harsh_mixture_talk_arrow_country_bulb_help_foster_dinner_always |  
+| bip_39_word_underscore_2 | fatigue_aim |  
+| bip_39_word_underscore_3 | fatigue_aim_harsh |  
+| bip_39_word_underscore_4 | fatigue_aim_harsh_mixture |  
+| bip_39_word_underscore_5 | fatigue_aim_harsh_mixture_talk |  
+| bip_39_word_underscore_6 | fatigue_aim_harsh_mixture_talk_arrow |  
+| bip_39_word_underscore_7 | fatigue_aim_harsh_mixture_talk_arrow_country |  
+| bip_39_word_underscore_8 | fatigue_aim_harsh_mixture_talk_arrow_country_bulb |  
+| bip_39_word_underscore_9 | fatigue_aim_harsh_mixture_talk_arrow_country_bulb_help |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

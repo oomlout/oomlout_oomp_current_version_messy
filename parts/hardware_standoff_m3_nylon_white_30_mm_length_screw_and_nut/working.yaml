@@ -1,3 +1,15 @@
+bip_39_word_dash_1: educate
+bip_39_word_dash_10: educate-gloom-entry-tilt-siren-print-embrace-response-gadget-lemon
+bip_39_word_dash_11: educate-gloom-entry-tilt-siren-print-embrace-response-gadget-lemon-peace
+bip_39_word_dash_12: educate-gloom-entry-tilt-siren-print-embrace-response-gadget-lemon-peace-arch
+bip_39_word_dash_2: educate-gloom
+bip_39_word_dash_3: educate-gloom-entry
+bip_39_word_dash_4: educate-gloom-entry-tilt
+bip_39_word_dash_5: educate-gloom-entry-tilt-siren
+bip_39_word_dash_6: educate-gloom-entry-tilt-siren-print
+bip_39_word_dash_7: educate-gloom-entry-tilt-siren-print-embrace
+bip_39_word_dash_8: educate-gloom-entry-tilt-siren-print-embrace-response
+bip_39_word_dash_9: educate-gloom-entry-tilt-siren-print-embrace-response-gadget
 bip_39_word_new_br_1: educate
 bip_39_word_new_br_10: educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon
 bip_39_word_new_br_11: educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon<br>peace
@@ -194,6 +206,18 @@ bip_39_word_space_6: educate gloom entry tilt siren print
 bip_39_word_space_7: educate gloom entry tilt siren print embrace
 bip_39_word_space_8: educate gloom entry tilt siren print embrace response
 bip_39_word_space_9: educate gloom entry tilt siren print embrace response gadget
+bip_39_word_underscore_1: educate
+bip_39_word_underscore_10: educate_gloom_entry_tilt_siren_print_embrace_response_gadget_lemon
+bip_39_word_underscore_11: educate_gloom_entry_tilt_siren_print_embrace_response_gadget_lemon_peace
+bip_39_word_underscore_12: educate_gloom_entry_tilt_siren_print_embrace_response_gadget_lemon_peace_arch
+bip_39_word_underscore_2: educate_gloom
+bip_39_word_underscore_3: educate_gloom_entry
+bip_39_word_underscore_4: educate_gloom_entry_tilt
+bip_39_word_underscore_5: educate_gloom_entry_tilt_siren
+bip_39_word_underscore_6: educate_gloom_entry_tilt_siren_print
+bip_39_word_underscore_7: educate_gloom_entry_tilt_siren_print_embrace
+bip_39_word_underscore_8: educate_gloom_entry_tilt_siren_print_embrace_response
+bip_39_word_underscore_9: educate_gloom_entry_tilt_siren_print_embrace_response_gadget
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

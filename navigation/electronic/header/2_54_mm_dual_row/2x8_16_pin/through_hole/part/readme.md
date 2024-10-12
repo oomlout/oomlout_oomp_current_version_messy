@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | broken |  
+| bip_39_word_dash_10 | broken-venue-tomorrow-put-depend-sun-auto-wisdom-earth-school |  
+| bip_39_word_dash_11 | broken-venue-tomorrow-put-depend-sun-auto-wisdom-earth-school-guess |  
+| bip_39_word_dash_12 | broken-venue-tomorrow-put-depend-sun-auto-wisdom-earth-school-guess-answer |  
+| bip_39_word_dash_2 | broken-venue |  
+| bip_39_word_dash_3 | broken-venue-tomorrow |  
+| bip_39_word_dash_4 | broken-venue-tomorrow-put |  
+| bip_39_word_dash_5 | broken-venue-tomorrow-put-depend |  
+| bip_39_word_dash_6 | broken-venue-tomorrow-put-depend-sun |  
+| bip_39_word_dash_7 | broken-venue-tomorrow-put-depend-sun-auto |  
+| bip_39_word_dash_8 | broken-venue-tomorrow-put-depend-sun-auto-wisdom |  
+| bip_39_word_dash_9 | broken-venue-tomorrow-put-depend-sun-auto-wisdom-earth |  
 | bip_39_word_new_br_1 | broken |  
 | bip_39_word_new_br_10 | broken<br>venue<br>tomorrow<br>put<br>depend<br>sun<br>auto<br>wisdom<br>earth<br>school |  
 | bip_39_word_new_br_11 | broken<br>venue<br>tomorrow<br>put<br>depend<br>sun<br>auto<br>wisdom<br>earth<br>school<br>guess |  
@@ -147,6 +159,18 @@ earth |
 | bip_39_word_space_7 | broken venue tomorrow put depend sun auto |  
 | bip_39_word_space_8 | broken venue tomorrow put depend sun auto wisdom |  
 | bip_39_word_space_9 | broken venue tomorrow put depend sun auto wisdom earth |  
+| bip_39_word_underscore_1 | broken |  
+| bip_39_word_underscore_10 | broken_venue_tomorrow_put_depend_sun_auto_wisdom_earth_school |  
+| bip_39_word_underscore_11 | broken_venue_tomorrow_put_depend_sun_auto_wisdom_earth_school_guess |  
+| bip_39_word_underscore_12 | broken_venue_tomorrow_put_depend_sun_auto_wisdom_earth_school_guess_answer |  
+| bip_39_word_underscore_2 | broken_venue |  
+| bip_39_word_underscore_3 | broken_venue_tomorrow |  
+| bip_39_word_underscore_4 | broken_venue_tomorrow_put |  
+| bip_39_word_underscore_5 | broken_venue_tomorrow_put_depend |  
+| bip_39_word_underscore_6 | broken_venue_tomorrow_put_depend_sun |  
+| bip_39_word_underscore_7 | broken_venue_tomorrow_put_depend_sun_auto |  
+| bip_39_word_underscore_8 | broken_venue_tomorrow_put_depend_sun_auto_wisdom |  
+| bip_39_word_underscore_9 | broken_venue_tomorrow_put_depend_sun_auto_wisdom_earth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

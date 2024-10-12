@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grab
+bip_39_word_dash_10: grab-property-ribbon-photo-matrix-develop-arch-lock-smoke-scorpion
+bip_39_word_dash_11: grab-property-ribbon-photo-matrix-develop-arch-lock-smoke-scorpion-bitter
+bip_39_word_dash_12: grab-property-ribbon-photo-matrix-develop-arch-lock-smoke-scorpion-bitter-among
+bip_39_word_dash_2: grab-property
+bip_39_word_dash_3: grab-property-ribbon
+bip_39_word_dash_4: grab-property-ribbon-photo
+bip_39_word_dash_5: grab-property-ribbon-photo-matrix
+bip_39_word_dash_6: grab-property-ribbon-photo-matrix-develop
+bip_39_word_dash_7: grab-property-ribbon-photo-matrix-develop-arch
+bip_39_word_dash_8: grab-property-ribbon-photo-matrix-develop-arch-lock
+bip_39_word_dash_9: grab-property-ribbon-photo-matrix-develop-arch-lock-smoke
 bip_39_word_new_br_1: grab
 bip_39_word_new_br_10: grab<br>property<br>ribbon<br>photo<br>matrix<br>develop<br>arch<br>lock<br>smoke<br>scorpion
 bip_39_word_new_br_11: grab<br>property<br>ribbon<br>photo<br>matrix<br>develop<br>arch<br>lock<br>smoke<br>scorpion<br>bitter
@@ -193,6 +205,18 @@ bip_39_word_space_6: grab property ribbon photo matrix develop
 bip_39_word_space_7: grab property ribbon photo matrix develop arch
 bip_39_word_space_8: grab property ribbon photo matrix develop arch lock
 bip_39_word_space_9: grab property ribbon photo matrix develop arch lock smoke
+bip_39_word_underscore_1: grab
+bip_39_word_underscore_10: grab_property_ribbon_photo_matrix_develop_arch_lock_smoke_scorpion
+bip_39_word_underscore_11: grab_property_ribbon_photo_matrix_develop_arch_lock_smoke_scorpion_bitter
+bip_39_word_underscore_12: grab_property_ribbon_photo_matrix_develop_arch_lock_smoke_scorpion_bitter_among
+bip_39_word_underscore_2: grab_property
+bip_39_word_underscore_3: grab_property_ribbon
+bip_39_word_underscore_4: grab_property_ribbon_photo
+bip_39_word_underscore_5: grab_property_ribbon_photo_matrix
+bip_39_word_underscore_6: grab_property_ribbon_photo_matrix_develop
+bip_39_word_underscore_7: grab_property_ribbon_photo_matrix_develop_arch
+bip_39_word_underscore_8: grab_property_ribbon_photo_matrix_develop_arch_lock
+bip_39_word_underscore_9: grab_property_ribbon_photo_matrix_develop_arch_lock_smoke
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

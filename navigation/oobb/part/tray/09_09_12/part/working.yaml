@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bread
+bip_39_word_dash_10: bread-brother-burger-winter-recall-obscure-pool-genre-stereo-sausage
+bip_39_word_dash_11: bread-brother-burger-winter-recall-obscure-pool-genre-stereo-sausage-duck
+bip_39_word_dash_12: bread-brother-burger-winter-recall-obscure-pool-genre-stereo-sausage-duck-attend
+bip_39_word_dash_2: bread-brother
+bip_39_word_dash_3: bread-brother-burger
+bip_39_word_dash_4: bread-brother-burger-winter
+bip_39_word_dash_5: bread-brother-burger-winter-recall
+bip_39_word_dash_6: bread-brother-burger-winter-recall-obscure
+bip_39_word_dash_7: bread-brother-burger-winter-recall-obscure-pool
+bip_39_word_dash_8: bread-brother-burger-winter-recall-obscure-pool-genre
+bip_39_word_dash_9: bread-brother-burger-winter-recall-obscure-pool-genre-stereo
 bip_39_word_new_br_1: bread
 bip_39_word_new_br_10: bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre<br>stereo<br>sausage
 bip_39_word_new_br_11: bread<br>brother<br>burger<br>winter<br>recall<br>obscure<br>pool<br>genre<br>stereo<br>sausage<br>duck
@@ -194,6 +206,18 @@ bip_39_word_space_6: bread brother burger winter recall obscure
 bip_39_word_space_7: bread brother burger winter recall obscure pool
 bip_39_word_space_8: bread brother burger winter recall obscure pool genre
 bip_39_word_space_9: bread brother burger winter recall obscure pool genre stereo
+bip_39_word_underscore_1: bread
+bip_39_word_underscore_10: bread_brother_burger_winter_recall_obscure_pool_genre_stereo_sausage
+bip_39_word_underscore_11: bread_brother_burger_winter_recall_obscure_pool_genre_stereo_sausage_duck
+bip_39_word_underscore_12: bread_brother_burger_winter_recall_obscure_pool_genre_stereo_sausage_duck_attend
+bip_39_word_underscore_2: bread_brother
+bip_39_word_underscore_3: bread_brother_burger
+bip_39_word_underscore_4: bread_brother_burger_winter
+bip_39_word_underscore_5: bread_brother_burger_winter_recall
+bip_39_word_underscore_6: bread_brother_burger_winter_recall_obscure
+bip_39_word_underscore_7: bread_brother_burger_winter_recall_obscure_pool
+bip_39_word_underscore_8: bread_brother_burger_winter_recall_obscure_pool_genre
+bip_39_word_underscore_9: bread_brother_burger_winter_recall_obscure_pool_genre_stereo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

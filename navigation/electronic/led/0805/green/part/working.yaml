@@ -1,3 +1,15 @@
+bip_39_word_dash_1: catalog
+bip_39_word_dash_10: catalog-road-captain-tourist-because-dynamic-chuckle-wagon-patrol-fold
+bip_39_word_dash_11: catalog-road-captain-tourist-because-dynamic-chuckle-wagon-patrol-fold-legal
+bip_39_word_dash_12: catalog-road-captain-tourist-because-dynamic-chuckle-wagon-patrol-fold-legal-anchor
+bip_39_word_dash_2: catalog-road
+bip_39_word_dash_3: catalog-road-captain
+bip_39_word_dash_4: catalog-road-captain-tourist
+bip_39_word_dash_5: catalog-road-captain-tourist-because
+bip_39_word_dash_6: catalog-road-captain-tourist-because-dynamic
+bip_39_word_dash_7: catalog-road-captain-tourist-because-dynamic-chuckle
+bip_39_word_dash_8: catalog-road-captain-tourist-because-dynamic-chuckle-wagon
+bip_39_word_dash_9: catalog-road-captain-tourist-because-dynamic-chuckle-wagon-patrol
 bip_39_word_new_br_1: catalog
 bip_39_word_new_br_10: catalog<br>road<br>captain<br>tourist<br>because<br>dynamic<br>chuckle<br>wagon<br>patrol<br>fold
 bip_39_word_new_br_11: catalog<br>road<br>captain<br>tourist<br>because<br>dynamic<br>chuckle<br>wagon<br>patrol<br>fold<br>legal
@@ -194,6 +206,18 @@ bip_39_word_space_6: catalog road captain tourist because dynamic
 bip_39_word_space_7: catalog road captain tourist because dynamic chuckle
 bip_39_word_space_8: catalog road captain tourist because dynamic chuckle wagon
 bip_39_word_space_9: catalog road captain tourist because dynamic chuckle wagon patrol
+bip_39_word_underscore_1: catalog
+bip_39_word_underscore_10: catalog_road_captain_tourist_because_dynamic_chuckle_wagon_patrol_fold
+bip_39_word_underscore_11: catalog_road_captain_tourist_because_dynamic_chuckle_wagon_patrol_fold_legal
+bip_39_word_underscore_12: catalog_road_captain_tourist_because_dynamic_chuckle_wagon_patrol_fold_legal_anchor
+bip_39_word_underscore_2: catalog_road
+bip_39_word_underscore_3: catalog_road_captain
+bip_39_word_underscore_4: catalog_road_captain_tourist
+bip_39_word_underscore_5: catalog_road_captain_tourist_because
+bip_39_word_underscore_6: catalog_road_captain_tourist_because_dynamic
+bip_39_word_underscore_7: catalog_road_captain_tourist_because_dynamic_chuckle
+bip_39_word_underscore_8: catalog_road_captain_tourist_because_dynamic_chuckle_wagon
+bip_39_word_underscore_9: catalog_road_captain_tourist_because_dynamic_chuckle_wagon_patrol
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

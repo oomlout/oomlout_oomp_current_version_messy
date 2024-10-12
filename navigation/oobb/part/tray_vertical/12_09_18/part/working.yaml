@@ -1,3 +1,15 @@
+bip_39_word_dash_1: future
+bip_39_word_dash_10: future-stove-crop-rude-jaguar-magnet-trumpet-rookie-sample-dignity
+bip_39_word_dash_11: future-stove-crop-rude-jaguar-magnet-trumpet-rookie-sample-dignity-cabin
+bip_39_word_dash_12: future-stove-crop-rude-jaguar-magnet-trumpet-rookie-sample-dignity-cabin-arrest
+bip_39_word_dash_2: future-stove
+bip_39_word_dash_3: future-stove-crop
+bip_39_word_dash_4: future-stove-crop-rude
+bip_39_word_dash_5: future-stove-crop-rude-jaguar
+bip_39_word_dash_6: future-stove-crop-rude-jaguar-magnet
+bip_39_word_dash_7: future-stove-crop-rude-jaguar-magnet-trumpet
+bip_39_word_dash_8: future-stove-crop-rude-jaguar-magnet-trumpet-rookie
+bip_39_word_dash_9: future-stove-crop-rude-jaguar-magnet-trumpet-rookie-sample
 bip_39_word_new_br_1: future
 bip_39_word_new_br_10: future<br>stove<br>crop<br>rude<br>jaguar<br>magnet<br>trumpet<br>rookie<br>sample<br>dignity
 bip_39_word_new_br_11: future<br>stove<br>crop<br>rude<br>jaguar<br>magnet<br>trumpet<br>rookie<br>sample<br>dignity<br>cabin
@@ -193,6 +205,18 @@ bip_39_word_space_6: future stove crop rude jaguar magnet
 bip_39_word_space_7: future stove crop rude jaguar magnet trumpet
 bip_39_word_space_8: future stove crop rude jaguar magnet trumpet rookie
 bip_39_word_space_9: future stove crop rude jaguar magnet trumpet rookie sample
+bip_39_word_underscore_1: future
+bip_39_word_underscore_10: future_stove_crop_rude_jaguar_magnet_trumpet_rookie_sample_dignity
+bip_39_word_underscore_11: future_stove_crop_rude_jaguar_magnet_trumpet_rookie_sample_dignity_cabin
+bip_39_word_underscore_12: future_stove_crop_rude_jaguar_magnet_trumpet_rookie_sample_dignity_cabin_arrest
+bip_39_word_underscore_2: future_stove
+bip_39_word_underscore_3: future_stove_crop
+bip_39_word_underscore_4: future_stove_crop_rude
+bip_39_word_underscore_5: future_stove_crop_rude_jaguar
+bip_39_word_underscore_6: future_stove_crop_rude_jaguar_magnet
+bip_39_word_underscore_7: future_stove_crop_rude_jaguar_magnet_trumpet
+bip_39_word_underscore_8: future_stove_crop_rude_jaguar_magnet_trumpet_rookie
+bip_39_word_underscore_9: future_stove_crop_rude_jaguar_magnet_trumpet_rookie_sample
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

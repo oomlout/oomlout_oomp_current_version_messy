@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unique |  
+| bip_39_word_dash_10 | unique-arm-oven-genius-hat-arrange-urge-farm-december-prevent |  
+| bip_39_word_dash_11 | unique-arm-oven-genius-hat-arrange-urge-farm-december-prevent-lemon |  
+| bip_39_word_dash_12 | unique-arm-oven-genius-hat-arrange-urge-farm-december-prevent-lemon-adapt |  
+| bip_39_word_dash_2 | unique-arm |  
+| bip_39_word_dash_3 | unique-arm-oven |  
+| bip_39_word_dash_4 | unique-arm-oven-genius |  
+| bip_39_word_dash_5 | unique-arm-oven-genius-hat |  
+| bip_39_word_dash_6 | unique-arm-oven-genius-hat-arrange |  
+| bip_39_word_dash_7 | unique-arm-oven-genius-hat-arrange-urge |  
+| bip_39_word_dash_8 | unique-arm-oven-genius-hat-arrange-urge-farm |  
+| bip_39_word_dash_9 | unique-arm-oven-genius-hat-arrange-urge-farm-december |  
 | bip_39_word_new_br_1 | unique |  
 | bip_39_word_new_br_10 | unique<br>arm<br>oven<br>genius<br>hat<br>arrange<br>urge<br>farm<br>december<br>prevent |  
 | bip_39_word_new_br_11 | unique<br>arm<br>oven<br>genius<br>hat<br>arrange<br>urge<br>farm<br>december<br>prevent<br>lemon |  
@@ -147,6 +159,18 @@ december |
 | bip_39_word_space_7 | unique arm oven genius hat arrange urge |  
 | bip_39_word_space_8 | unique arm oven genius hat arrange urge farm |  
 | bip_39_word_space_9 | unique arm oven genius hat arrange urge farm december |  
+| bip_39_word_underscore_1 | unique |  
+| bip_39_word_underscore_10 | unique_arm_oven_genius_hat_arrange_urge_farm_december_prevent |  
+| bip_39_word_underscore_11 | unique_arm_oven_genius_hat_arrange_urge_farm_december_prevent_lemon |  
+| bip_39_word_underscore_12 | unique_arm_oven_genius_hat_arrange_urge_farm_december_prevent_lemon_adapt |  
+| bip_39_word_underscore_2 | unique_arm |  
+| bip_39_word_underscore_3 | unique_arm_oven |  
+| bip_39_word_underscore_4 | unique_arm_oven_genius |  
+| bip_39_word_underscore_5 | unique_arm_oven_genius_hat |  
+| bip_39_word_underscore_6 | unique_arm_oven_genius_hat_arrange |  
+| bip_39_word_underscore_7 | unique_arm_oven_genius_hat_arrange_urge |  
+| bip_39_word_underscore_8 | unique_arm_oven_genius_hat_arrange_urge_farm |  
+| bip_39_word_underscore_9 | unique_arm_oven_genius_hat_arrange_urge_farm_december |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: age
+bip_39_word_dash_10: age-picture-scissors-bronze-resemble-baby-trouble-helmet-barrel-pill
+bip_39_word_dash_11: age-picture-scissors-bronze-resemble-baby-trouble-helmet-barrel-pill-board
+bip_39_word_dash_12: age-picture-scissors-bronze-resemble-baby-trouble-helmet-barrel-pill-board-august
+bip_39_word_dash_2: age-picture
+bip_39_word_dash_3: age-picture-scissors
+bip_39_word_dash_4: age-picture-scissors-bronze
+bip_39_word_dash_5: age-picture-scissors-bronze-resemble
+bip_39_word_dash_6: age-picture-scissors-bronze-resemble-baby
+bip_39_word_dash_7: age-picture-scissors-bronze-resemble-baby-trouble
+bip_39_word_dash_8: age-picture-scissors-bronze-resemble-baby-trouble-helmet
+bip_39_word_dash_9: age-picture-scissors-bronze-resemble-baby-trouble-helmet-barrel
 bip_39_word_new_br_1: age
 bip_39_word_new_br_10: age<br>picture<br>scissors<br>bronze<br>resemble<br>baby<br>trouble<br>helmet<br>barrel<br>pill
 bip_39_word_new_br_11: age<br>picture<br>scissors<br>bronze<br>resemble<br>baby<br>trouble<br>helmet<br>barrel<br>pill<br>board
@@ -194,6 +206,18 @@ bip_39_word_space_6: age picture scissors bronze resemble baby
 bip_39_word_space_7: age picture scissors bronze resemble baby trouble
 bip_39_word_space_8: age picture scissors bronze resemble baby trouble helmet
 bip_39_word_space_9: age picture scissors bronze resemble baby trouble helmet barrel
+bip_39_word_underscore_1: age
+bip_39_word_underscore_10: age_picture_scissors_bronze_resemble_baby_trouble_helmet_barrel_pill
+bip_39_word_underscore_11: age_picture_scissors_bronze_resemble_baby_trouble_helmet_barrel_pill_board
+bip_39_word_underscore_12: age_picture_scissors_bronze_resemble_baby_trouble_helmet_barrel_pill_board_august
+bip_39_word_underscore_2: age_picture
+bip_39_word_underscore_3: age_picture_scissors
+bip_39_word_underscore_4: age_picture_scissors_bronze
+bip_39_word_underscore_5: age_picture_scissors_bronze_resemble
+bip_39_word_underscore_6: age_picture_scissors_bronze_resemble_baby
+bip_39_word_underscore_7: age_picture_scissors_bronze_resemble_baby_trouble
+bip_39_word_underscore_8: age_picture_scissors_bronze_resemble_baby_trouble_helmet
+bip_39_word_underscore_9: age_picture_scissors_bronze_resemble_baby_trouble_helmet_barrel
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wild |  
+| bip_39_word_dash_10 | wild-insane-grocery-lesson-sword-hurt-habit-glory-blade-family |  
+| bip_39_word_dash_11 | wild-insane-grocery-lesson-sword-hurt-habit-glory-blade-family-north |  
+| bip_39_word_dash_12 | wild-insane-grocery-lesson-sword-hurt-habit-glory-blade-family-north-amateur |  
+| bip_39_word_dash_2 | wild-insane |  
+| bip_39_word_dash_3 | wild-insane-grocery |  
+| bip_39_word_dash_4 | wild-insane-grocery-lesson |  
+| bip_39_word_dash_5 | wild-insane-grocery-lesson-sword |  
+| bip_39_word_dash_6 | wild-insane-grocery-lesson-sword-hurt |  
+| bip_39_word_dash_7 | wild-insane-grocery-lesson-sword-hurt-habit |  
+| bip_39_word_dash_8 | wild-insane-grocery-lesson-sword-hurt-habit-glory |  
+| bip_39_word_dash_9 | wild-insane-grocery-lesson-sword-hurt-habit-glory-blade |  
 | bip_39_word_new_br_1 | wild |  
 | bip_39_word_new_br_10 | wild<br>insane<br>grocery<br>lesson<br>sword<br>hurt<br>habit<br>glory<br>blade<br>family |  
 | bip_39_word_new_br_11 | wild<br>insane<br>grocery<br>lesson<br>sword<br>hurt<br>habit<br>glory<br>blade<br>family<br>north |  
@@ -147,6 +159,18 @@ blade |
 | bip_39_word_space_7 | wild insane grocery lesson sword hurt habit |  
 | bip_39_word_space_8 | wild insane grocery lesson sword hurt habit glory |  
 | bip_39_word_space_9 | wild insane grocery lesson sword hurt habit glory blade |  
+| bip_39_word_underscore_1 | wild |  
+| bip_39_word_underscore_10 | wild_insane_grocery_lesson_sword_hurt_habit_glory_blade_family |  
+| bip_39_word_underscore_11 | wild_insane_grocery_lesson_sword_hurt_habit_glory_blade_family_north |  
+| bip_39_word_underscore_12 | wild_insane_grocery_lesson_sword_hurt_habit_glory_blade_family_north_amateur |  
+| bip_39_word_underscore_2 | wild_insane |  
+| bip_39_word_underscore_3 | wild_insane_grocery |  
+| bip_39_word_underscore_4 | wild_insane_grocery_lesson |  
+| bip_39_word_underscore_5 | wild_insane_grocery_lesson_sword |  
+| bip_39_word_underscore_6 | wild_insane_grocery_lesson_sword_hurt |  
+| bip_39_word_underscore_7 | wild_insane_grocery_lesson_sword_hurt_habit |  
+| bip_39_word_underscore_8 | wild_insane_grocery_lesson_sword_hurt_habit_glory |  
+| bip_39_word_underscore_9 | wild_insane_grocery_lesson_sword_hurt_habit_glory_blade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

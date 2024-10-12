@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | also |  
+| bip_39_word_dash_10 | also-display-lonely-equip-debate-boss-secret-evoke-oval-parade |  
+| bip_39_word_dash_11 | also-display-lonely-equip-debate-boss-secret-evoke-oval-parade-wife |  
+| bip_39_word_dash_12 | also-display-lonely-equip-debate-boss-secret-evoke-oval-parade-wife-arctic |  
+| bip_39_word_dash_2 | also-display |  
+| bip_39_word_dash_3 | also-display-lonely |  
+| bip_39_word_dash_4 | also-display-lonely-equip |  
+| bip_39_word_dash_5 | also-display-lonely-equip-debate |  
+| bip_39_word_dash_6 | also-display-lonely-equip-debate-boss |  
+| bip_39_word_dash_7 | also-display-lonely-equip-debate-boss-secret |  
+| bip_39_word_dash_8 | also-display-lonely-equip-debate-boss-secret-evoke |  
+| bip_39_word_dash_9 | also-display-lonely-equip-debate-boss-secret-evoke-oval |  
 | bip_39_word_new_br_1 | also |  
 | bip_39_word_new_br_10 | also<br>display<br>lonely<br>equip<br>debate<br>boss<br>secret<br>evoke<br>oval<br>parade |  
 | bip_39_word_new_br_11 | also<br>display<br>lonely<br>equip<br>debate<br>boss<br>secret<br>evoke<br>oval<br>parade<br>wife |  
@@ -147,6 +159,18 @@ oval |
 | bip_39_word_space_7 | also display lonely equip debate boss secret |  
 | bip_39_word_space_8 | also display lonely equip debate boss secret evoke |  
 | bip_39_word_space_9 | also display lonely equip debate boss secret evoke oval |  
+| bip_39_word_underscore_1 | also |  
+| bip_39_word_underscore_10 | also_display_lonely_equip_debate_boss_secret_evoke_oval_parade |  
+| bip_39_word_underscore_11 | also_display_lonely_equip_debate_boss_secret_evoke_oval_parade_wife |  
+| bip_39_word_underscore_12 | also_display_lonely_equip_debate_boss_secret_evoke_oval_parade_wife_arctic |  
+| bip_39_word_underscore_2 | also_display |  
+| bip_39_word_underscore_3 | also_display_lonely |  
+| bip_39_word_underscore_4 | also_display_lonely_equip |  
+| bip_39_word_underscore_5 | also_display_lonely_equip_debate |  
+| bip_39_word_underscore_6 | also_display_lonely_equip_debate_boss |  
+| bip_39_word_underscore_7 | also_display_lonely_equip_debate_boss_secret |  
+| bip_39_word_underscore_8 | also_display_lonely_equip_debate_boss_secret_evoke |  
+| bip_39_word_underscore_9 | also_display_lonely_equip_debate_boss_secret_evoke_oval |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

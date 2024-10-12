@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | argue |  
+| bip_39_word_dash_10 | argue-element-foam-height-key-wasp-fiscal-people-deal-exit |  
+| bip_39_word_dash_11 | argue-element-foam-height-key-wasp-fiscal-people-deal-exit-pig |  
+| bip_39_word_dash_12 | argue-element-foam-height-key-wasp-fiscal-people-deal-exit-pig-average |  
+| bip_39_word_dash_2 | argue-element |  
+| bip_39_word_dash_3 | argue-element-foam |  
+| bip_39_word_dash_4 | argue-element-foam-height |  
+| bip_39_word_dash_5 | argue-element-foam-height-key |  
+| bip_39_word_dash_6 | argue-element-foam-height-key-wasp |  
+| bip_39_word_dash_7 | argue-element-foam-height-key-wasp-fiscal |  
+| bip_39_word_dash_8 | argue-element-foam-height-key-wasp-fiscal-people |  
+| bip_39_word_dash_9 | argue-element-foam-height-key-wasp-fiscal-people-deal |  
 | bip_39_word_new_br_1 | argue |  
 | bip_39_word_new_br_10 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people<br>deal<br>exit |  
 | bip_39_word_new_br_11 | argue<br>element<br>foam<br>height<br>key<br>wasp<br>fiscal<br>people<br>deal<br>exit<br>pig |  
@@ -147,6 +159,18 @@ deal |
 | bip_39_word_space_7 | argue element foam height key wasp fiscal |  
 | bip_39_word_space_8 | argue element foam height key wasp fiscal people |  
 | bip_39_word_space_9 | argue element foam height key wasp fiscal people deal |  
+| bip_39_word_underscore_1 | argue |  
+| bip_39_word_underscore_10 | argue_element_foam_height_key_wasp_fiscal_people_deal_exit |  
+| bip_39_word_underscore_11 | argue_element_foam_height_key_wasp_fiscal_people_deal_exit_pig |  
+| bip_39_word_underscore_12 | argue_element_foam_height_key_wasp_fiscal_people_deal_exit_pig_average |  
+| bip_39_word_underscore_2 | argue_element |  
+| bip_39_word_underscore_3 | argue_element_foam |  
+| bip_39_word_underscore_4 | argue_element_foam_height |  
+| bip_39_word_underscore_5 | argue_element_foam_height_key |  
+| bip_39_word_underscore_6 | argue_element_foam_height_key_wasp |  
+| bip_39_word_underscore_7 | argue_element_foam_height_key_wasp_fiscal |  
+| bip_39_word_underscore_8 | argue_element_foam_height_key_wasp_fiscal_people |  
+| bip_39_word_underscore_9 | argue_element_foam_height_key_wasp_fiscal_people_deal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

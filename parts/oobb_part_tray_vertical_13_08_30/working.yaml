@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cushion
+bip_39_word_dash_10: cushion-become-elevator-evoke-rubber-almost-afraid-normal-odor-satoshi
+bip_39_word_dash_11: cushion-become-elevator-evoke-rubber-almost-afraid-normal-odor-satoshi-point
+bip_39_word_dash_12: cushion-become-elevator-evoke-rubber-almost-afraid-normal-odor-satoshi-point-annual
+bip_39_word_dash_2: cushion-become
+bip_39_word_dash_3: cushion-become-elevator
+bip_39_word_dash_4: cushion-become-elevator-evoke
+bip_39_word_dash_5: cushion-become-elevator-evoke-rubber
+bip_39_word_dash_6: cushion-become-elevator-evoke-rubber-almost
+bip_39_word_dash_7: cushion-become-elevator-evoke-rubber-almost-afraid
+bip_39_word_dash_8: cushion-become-elevator-evoke-rubber-almost-afraid-normal
+bip_39_word_dash_9: cushion-become-elevator-evoke-rubber-almost-afraid-normal-odor
 bip_39_word_new_br_1: cushion
 bip_39_word_new_br_10: cushion<br>become<br>elevator<br>evoke<br>rubber<br>almost<br>afraid<br>normal<br>odor<br>satoshi
 bip_39_word_new_br_11: cushion<br>become<br>elevator<br>evoke<br>rubber<br>almost<br>afraid<br>normal<br>odor<br>satoshi<br>point
@@ -194,6 +206,18 @@ bip_39_word_space_6: cushion become elevator evoke rubber almost
 bip_39_word_space_7: cushion become elevator evoke rubber almost afraid
 bip_39_word_space_8: cushion become elevator evoke rubber almost afraid normal
 bip_39_word_space_9: cushion become elevator evoke rubber almost afraid normal odor
+bip_39_word_underscore_1: cushion
+bip_39_word_underscore_10: cushion_become_elevator_evoke_rubber_almost_afraid_normal_odor_satoshi
+bip_39_word_underscore_11: cushion_become_elevator_evoke_rubber_almost_afraid_normal_odor_satoshi_point
+bip_39_word_underscore_12: cushion_become_elevator_evoke_rubber_almost_afraid_normal_odor_satoshi_point_annual
+bip_39_word_underscore_2: cushion_become
+bip_39_word_underscore_3: cushion_become_elevator
+bip_39_word_underscore_4: cushion_become_elevator_evoke
+bip_39_word_underscore_5: cushion_become_elevator_evoke_rubber
+bip_39_word_underscore_6: cushion_become_elevator_evoke_rubber_almost
+bip_39_word_underscore_7: cushion_become_elevator_evoke_rubber_almost_afraid
+bip_39_word_underscore_8: cushion_become_elevator_evoke_rubber_almost_afraid_normal
+bip_39_word_underscore_9: cushion_become_elevator_evoke_rubber_almost_afraid_normal_odor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | staff |  
+| bip_39_word_dash_10 | staff-security-sight-jazz-seek-man-park-night-rubber-fiber |  
+| bip_39_word_dash_11 | staff-security-sight-jazz-seek-man-park-night-rubber-fiber-wall |  
+| bip_39_word_dash_12 | staff-security-sight-jazz-seek-man-park-night-rubber-fiber-wall-anger |  
+| bip_39_word_dash_2 | staff-security |  
+| bip_39_word_dash_3 | staff-security-sight |  
+| bip_39_word_dash_4 | staff-security-sight-jazz |  
+| bip_39_word_dash_5 | staff-security-sight-jazz-seek |  
+| bip_39_word_dash_6 | staff-security-sight-jazz-seek-man |  
+| bip_39_word_dash_7 | staff-security-sight-jazz-seek-man-park |  
+| bip_39_word_dash_8 | staff-security-sight-jazz-seek-man-park-night |  
+| bip_39_word_dash_9 | staff-security-sight-jazz-seek-man-park-night-rubber |  
 | bip_39_word_new_br_1 | staff |  
 | bip_39_word_new_br_10 | staff<br>security<br>sight<br>jazz<br>seek<br>man<br>park<br>night<br>rubber<br>fiber |  
 | bip_39_word_new_br_11 | staff<br>security<br>sight<br>jazz<br>seek<br>man<br>park<br>night<br>rubber<br>fiber<br>wall |  
@@ -147,6 +159,18 @@ rubber |
 | bip_39_word_space_7 | staff security sight jazz seek man park |  
 | bip_39_word_space_8 | staff security sight jazz seek man park night |  
 | bip_39_word_space_9 | staff security sight jazz seek man park night rubber |  
+| bip_39_word_underscore_1 | staff |  
+| bip_39_word_underscore_10 | staff_security_sight_jazz_seek_man_park_night_rubber_fiber |  
+| bip_39_word_underscore_11 | staff_security_sight_jazz_seek_man_park_night_rubber_fiber_wall |  
+| bip_39_word_underscore_12 | staff_security_sight_jazz_seek_man_park_night_rubber_fiber_wall_anger |  
+| bip_39_word_underscore_2 | staff_security |  
+| bip_39_word_underscore_3 | staff_security_sight |  
+| bip_39_word_underscore_4 | staff_security_sight_jazz |  
+| bip_39_word_underscore_5 | staff_security_sight_jazz_seek |  
+| bip_39_word_underscore_6 | staff_security_sight_jazz_seek_man |  
+| bip_39_word_underscore_7 | staff_security_sight_jazz_seek_man_park |  
+| bip_39_word_underscore_8 | staff_security_sight_jazz_seek_man_park_night |  
+| bip_39_word_underscore_9 | staff_security_sight_jazz_seek_man_park_night_rubber |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

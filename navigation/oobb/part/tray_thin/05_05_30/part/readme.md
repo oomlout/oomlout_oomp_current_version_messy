@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | relief |  
+| bip_39_word_dash_10 | relief-antique-science-group-ready-memory-valid-give-couple-cliff |  
+| bip_39_word_dash_11 | relief-antique-science-group-ready-memory-valid-give-couple-cliff-rebuild |  
+| bip_39_word_dash_12 | relief-antique-science-group-ready-memory-valid-give-couple-cliff-rebuild-age |  
+| bip_39_word_dash_2 | relief-antique |  
+| bip_39_word_dash_3 | relief-antique-science |  
+| bip_39_word_dash_4 | relief-antique-science-group |  
+| bip_39_word_dash_5 | relief-antique-science-group-ready |  
+| bip_39_word_dash_6 | relief-antique-science-group-ready-memory |  
+| bip_39_word_dash_7 | relief-antique-science-group-ready-memory-valid |  
+| bip_39_word_dash_8 | relief-antique-science-group-ready-memory-valid-give |  
+| bip_39_word_dash_9 | relief-antique-science-group-ready-memory-valid-give-couple |  
 | bip_39_word_new_br_1 | relief |  
 | bip_39_word_new_br_10 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give<br>couple<br>cliff |  
 | bip_39_word_new_br_11 | relief<br>antique<br>science<br>group<br>ready<br>memory<br>valid<br>give<br>couple<br>cliff<br>rebuild |  
@@ -147,6 +159,18 @@ couple |
 | bip_39_word_space_7 | relief antique science group ready memory valid |  
 | bip_39_word_space_8 | relief antique science group ready memory valid give |  
 | bip_39_word_space_9 | relief antique science group ready memory valid give couple |  
+| bip_39_word_underscore_1 | relief |  
+| bip_39_word_underscore_10 | relief_antique_science_group_ready_memory_valid_give_couple_cliff |  
+| bip_39_word_underscore_11 | relief_antique_science_group_ready_memory_valid_give_couple_cliff_rebuild |  
+| bip_39_word_underscore_12 | relief_antique_science_group_ready_memory_valid_give_couple_cliff_rebuild_age |  
+| bip_39_word_underscore_2 | relief_antique |  
+| bip_39_word_underscore_3 | relief_antique_science |  
+| bip_39_word_underscore_4 | relief_antique_science_group |  
+| bip_39_word_underscore_5 | relief_antique_science_group_ready |  
+| bip_39_word_underscore_6 | relief_antique_science_group_ready_memory |  
+| bip_39_word_underscore_7 | relief_antique_science_group_ready_memory_valid |  
+| bip_39_word_underscore_8 | relief_antique_science_group_ready_memory_valid_give |  
+| bip_39_word_underscore_9 | relief_antique_science_group_ready_memory_valid_give_couple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chimney |  
+| bip_39_word_dash_10 | chimney-ill-loyal-cause-mango-wage-rack-bridge-force-crouch |  
+| bip_39_word_dash_11 | chimney-ill-loyal-cause-mango-wage-rack-bridge-force-crouch-dynamic |  
+| bip_39_word_dash_12 | chimney-ill-loyal-cause-mango-wage-rack-bridge-force-crouch-dynamic-again |  
+| bip_39_word_dash_2 | chimney-ill |  
+| bip_39_word_dash_3 | chimney-ill-loyal |  
+| bip_39_word_dash_4 | chimney-ill-loyal-cause |  
+| bip_39_word_dash_5 | chimney-ill-loyal-cause-mango |  
+| bip_39_word_dash_6 | chimney-ill-loyal-cause-mango-wage |  
+| bip_39_word_dash_7 | chimney-ill-loyal-cause-mango-wage-rack |  
+| bip_39_word_dash_8 | chimney-ill-loyal-cause-mango-wage-rack-bridge |  
+| bip_39_word_dash_9 | chimney-ill-loyal-cause-mango-wage-rack-bridge-force |  
 | bip_39_word_new_br_1 | chimney |  
 | bip_39_word_new_br_10 | chimney<br>ill<br>loyal<br>cause<br>mango<br>wage<br>rack<br>bridge<br>force<br>crouch |  
 | bip_39_word_new_br_11 | chimney<br>ill<br>loyal<br>cause<br>mango<br>wage<br>rack<br>bridge<br>force<br>crouch<br>dynamic |  
@@ -147,6 +159,18 @@ force |
 | bip_39_word_space_7 | chimney ill loyal cause mango wage rack |  
 | bip_39_word_space_8 | chimney ill loyal cause mango wage rack bridge |  
 | bip_39_word_space_9 | chimney ill loyal cause mango wage rack bridge force |  
+| bip_39_word_underscore_1 | chimney |  
+| bip_39_word_underscore_10 | chimney_ill_loyal_cause_mango_wage_rack_bridge_force_crouch |  
+| bip_39_word_underscore_11 | chimney_ill_loyal_cause_mango_wage_rack_bridge_force_crouch_dynamic |  
+| bip_39_word_underscore_12 | chimney_ill_loyal_cause_mango_wage_rack_bridge_force_crouch_dynamic_again |  
+| bip_39_word_underscore_2 | chimney_ill |  
+| bip_39_word_underscore_3 | chimney_ill_loyal |  
+| bip_39_word_underscore_4 | chimney_ill_loyal_cause |  
+| bip_39_word_underscore_5 | chimney_ill_loyal_cause_mango |  
+| bip_39_word_underscore_6 | chimney_ill_loyal_cause_mango_wage |  
+| bip_39_word_underscore_7 | chimney_ill_loyal_cause_mango_wage_rack |  
+| bip_39_word_underscore_8 | chimney_ill_loyal_cause_mango_wage_rack_bridge |  
+| bip_39_word_underscore_9 | chimney_ill_loyal_cause_mango_wage_rack_bridge_force |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

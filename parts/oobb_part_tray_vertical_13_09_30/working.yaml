@@ -1,3 +1,15 @@
+bip_39_word_dash_1: math
+bip_39_word_dash_10: math-flight-insect-share-slice-angry-damp-carbon-police-hip
+bip_39_word_dash_11: math-flight-insect-share-slice-angry-damp-carbon-police-hip-kit
+bip_39_word_dash_12: math-flight-insect-share-slice-angry-damp-carbon-police-hip-kit-atom
+bip_39_word_dash_2: math-flight
+bip_39_word_dash_3: math-flight-insect
+bip_39_word_dash_4: math-flight-insect-share
+bip_39_word_dash_5: math-flight-insect-share-slice
+bip_39_word_dash_6: math-flight-insect-share-slice-angry
+bip_39_word_dash_7: math-flight-insect-share-slice-angry-damp
+bip_39_word_dash_8: math-flight-insect-share-slice-angry-damp-carbon
+bip_39_word_dash_9: math-flight-insect-share-slice-angry-damp-carbon-police
 bip_39_word_new_br_1: math
 bip_39_word_new_br_10: math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon<br>police<br>hip
 bip_39_word_new_br_11: math<br>flight<br>insect<br>share<br>slice<br>angry<br>damp<br>carbon<br>police<br>hip<br>kit
@@ -193,6 +205,18 @@ bip_39_word_space_6: math flight insect share slice angry
 bip_39_word_space_7: math flight insect share slice angry damp
 bip_39_word_space_8: math flight insect share slice angry damp carbon
 bip_39_word_space_9: math flight insect share slice angry damp carbon police
+bip_39_word_underscore_1: math
+bip_39_word_underscore_10: math_flight_insect_share_slice_angry_damp_carbon_police_hip
+bip_39_word_underscore_11: math_flight_insect_share_slice_angry_damp_carbon_police_hip_kit
+bip_39_word_underscore_12: math_flight_insect_share_slice_angry_damp_carbon_police_hip_kit_atom
+bip_39_word_underscore_2: math_flight
+bip_39_word_underscore_3: math_flight_insect
+bip_39_word_underscore_4: math_flight_insect_share
+bip_39_word_underscore_5: math_flight_insect_share_slice
+bip_39_word_underscore_6: math_flight_insect_share_slice_angry
+bip_39_word_underscore_7: math_flight_insect_share_slice_angry_damp
+bip_39_word_underscore_8: math_flight_insect_share_slice_angry_damp_carbon
+bip_39_word_underscore_9: math_flight_insect_share_slice_angry_damp_carbon_police
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

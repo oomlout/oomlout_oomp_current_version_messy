@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tower
+bip_39_word_dash_10: tower-father-amateur-art-erode-empower-fuel-island-suspect-dance
+bip_39_word_dash_11: tower-father-amateur-art-erode-empower-fuel-island-suspect-dance-traffic
+bip_39_word_dash_12: tower-father-amateur-art-erode-empower-fuel-island-suspect-dance-traffic-absurd
+bip_39_word_dash_2: tower-father
+bip_39_word_dash_3: tower-father-amateur
+bip_39_word_dash_4: tower-father-amateur-art
+bip_39_word_dash_5: tower-father-amateur-art-erode
+bip_39_word_dash_6: tower-father-amateur-art-erode-empower
+bip_39_word_dash_7: tower-father-amateur-art-erode-empower-fuel
+bip_39_word_dash_8: tower-father-amateur-art-erode-empower-fuel-island
+bip_39_word_dash_9: tower-father-amateur-art-erode-empower-fuel-island-suspect
 bip_39_word_new_br_1: tower
 bip_39_word_new_br_10: tower<br>father<br>amateur<br>art<br>erode<br>empower<br>fuel<br>island<br>suspect<br>dance
 bip_39_word_new_br_11: tower<br>father<br>amateur<br>art<br>erode<br>empower<br>fuel<br>island<br>suspect<br>dance<br>traffic
@@ -193,6 +205,18 @@ bip_39_word_space_6: tower father amateur art erode empower
 bip_39_word_space_7: tower father amateur art erode empower fuel
 bip_39_word_space_8: tower father amateur art erode empower fuel island
 bip_39_word_space_9: tower father amateur art erode empower fuel island suspect
+bip_39_word_underscore_1: tower
+bip_39_word_underscore_10: tower_father_amateur_art_erode_empower_fuel_island_suspect_dance
+bip_39_word_underscore_11: tower_father_amateur_art_erode_empower_fuel_island_suspect_dance_traffic
+bip_39_word_underscore_12: tower_father_amateur_art_erode_empower_fuel_island_suspect_dance_traffic_absurd
+bip_39_word_underscore_2: tower_father
+bip_39_word_underscore_3: tower_father_amateur
+bip_39_word_underscore_4: tower_father_amateur_art
+bip_39_word_underscore_5: tower_father_amateur_art_erode
+bip_39_word_underscore_6: tower_father_amateur_art_erode_empower
+bip_39_word_underscore_7: tower_father_amateur_art_erode_empower_fuel
+bip_39_word_underscore_8: tower_father_amateur_art_erode_empower_fuel_island
+bip_39_word_underscore_9: tower_father_amateur_art_erode_empower_fuel_island_suspect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

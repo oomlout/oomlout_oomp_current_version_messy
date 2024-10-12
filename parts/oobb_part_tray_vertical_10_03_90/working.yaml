@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cigar
+bip_39_word_dash_10: cigar-cheap-forget-excess-volcano-cage-sport-kitten-mix-learn
+bip_39_word_dash_11: cigar-cheap-forget-excess-volcano-cage-sport-kitten-mix-learn-hip
+bip_39_word_dash_12: cigar-cheap-forget-excess-volcano-cage-sport-kitten-mix-learn-hip-acid
+bip_39_word_dash_2: cigar-cheap
+bip_39_word_dash_3: cigar-cheap-forget
+bip_39_word_dash_4: cigar-cheap-forget-excess
+bip_39_word_dash_5: cigar-cheap-forget-excess-volcano
+bip_39_word_dash_6: cigar-cheap-forget-excess-volcano-cage
+bip_39_word_dash_7: cigar-cheap-forget-excess-volcano-cage-sport
+bip_39_word_dash_8: cigar-cheap-forget-excess-volcano-cage-sport-kitten
+bip_39_word_dash_9: cigar-cheap-forget-excess-volcano-cage-sport-kitten-mix
 bip_39_word_new_br_1: cigar
 bip_39_word_new_br_10: cigar<br>cheap<br>forget<br>excess<br>volcano<br>cage<br>sport<br>kitten<br>mix<br>learn
 bip_39_word_new_br_11: cigar<br>cheap<br>forget<br>excess<br>volcano<br>cage<br>sport<br>kitten<br>mix<br>learn<br>hip
@@ -193,6 +205,18 @@ bip_39_word_space_6: cigar cheap forget excess volcano cage
 bip_39_word_space_7: cigar cheap forget excess volcano cage sport
 bip_39_word_space_8: cigar cheap forget excess volcano cage sport kitten
 bip_39_word_space_9: cigar cheap forget excess volcano cage sport kitten mix
+bip_39_word_underscore_1: cigar
+bip_39_word_underscore_10: cigar_cheap_forget_excess_volcano_cage_sport_kitten_mix_learn
+bip_39_word_underscore_11: cigar_cheap_forget_excess_volcano_cage_sport_kitten_mix_learn_hip
+bip_39_word_underscore_12: cigar_cheap_forget_excess_volcano_cage_sport_kitten_mix_learn_hip_acid
+bip_39_word_underscore_2: cigar_cheap
+bip_39_word_underscore_3: cigar_cheap_forget
+bip_39_word_underscore_4: cigar_cheap_forget_excess
+bip_39_word_underscore_5: cigar_cheap_forget_excess_volcano
+bip_39_word_underscore_6: cigar_cheap_forget_excess_volcano_cage
+bip_39_word_underscore_7: cigar_cheap_forget_excess_volcano_cage_sport
+bip_39_word_underscore_8: cigar_cheap_forget_excess_volcano_cage_sport_kitten
+bip_39_word_underscore_9: cigar_cheap_forget_excess_volcano_cage_sport_kitten_mix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

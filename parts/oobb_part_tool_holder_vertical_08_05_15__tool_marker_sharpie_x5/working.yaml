@@ -1,3 +1,15 @@
+bip_39_word_dash_1: that
+bip_39_word_dash_10: that-buzz-rotate-magic-blade-absorb-giraffe-later-twelve-account
+bip_39_word_dash_11: that-buzz-rotate-magic-blade-absorb-giraffe-later-twelve-account-cause
+bip_39_word_dash_12: that-buzz-rotate-magic-blade-absorb-giraffe-later-twelve-account-cause-attend
+bip_39_word_dash_2: that-buzz
+bip_39_word_dash_3: that-buzz-rotate
+bip_39_word_dash_4: that-buzz-rotate-magic
+bip_39_word_dash_5: that-buzz-rotate-magic-blade
+bip_39_word_dash_6: that-buzz-rotate-magic-blade-absorb
+bip_39_word_dash_7: that-buzz-rotate-magic-blade-absorb-giraffe
+bip_39_word_dash_8: that-buzz-rotate-magic-blade-absorb-giraffe-later
+bip_39_word_dash_9: that-buzz-rotate-magic-blade-absorb-giraffe-later-twelve
 bip_39_word_new_br_1: that
 bip_39_word_new_br_10: that<br>buzz<br>rotate<br>magic<br>blade<br>absorb<br>giraffe<br>later<br>twelve<br>account
 bip_39_word_new_br_11: that<br>buzz<br>rotate<br>magic<br>blade<br>absorb<br>giraffe<br>later<br>twelve<br>account<br>cause
@@ -193,6 +205,18 @@ bip_39_word_space_6: that buzz rotate magic blade absorb
 bip_39_word_space_7: that buzz rotate magic blade absorb giraffe
 bip_39_word_space_8: that buzz rotate magic blade absorb giraffe later
 bip_39_word_space_9: that buzz rotate magic blade absorb giraffe later twelve
+bip_39_word_underscore_1: that
+bip_39_word_underscore_10: that_buzz_rotate_magic_blade_absorb_giraffe_later_twelve_account
+bip_39_word_underscore_11: that_buzz_rotate_magic_blade_absorb_giraffe_later_twelve_account_cause
+bip_39_word_underscore_12: that_buzz_rotate_magic_blade_absorb_giraffe_later_twelve_account_cause_attend
+bip_39_word_underscore_2: that_buzz
+bip_39_word_underscore_3: that_buzz_rotate
+bip_39_word_underscore_4: that_buzz_rotate_magic
+bip_39_word_underscore_5: that_buzz_rotate_magic_blade
+bip_39_word_underscore_6: that_buzz_rotate_magic_blade_absorb
+bip_39_word_underscore_7: that_buzz_rotate_magic_blade_absorb_giraffe
+bip_39_word_underscore_8: that_buzz_rotate_magic_blade_absorb_giraffe_later
+bip_39_word_underscore_9: that_buzz_rotate_magic_blade_absorb_giraffe_later_twelve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

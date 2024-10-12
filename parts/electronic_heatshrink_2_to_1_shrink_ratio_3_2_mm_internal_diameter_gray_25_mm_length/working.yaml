@@ -1,3 +1,15 @@
+bip_39_word_dash_1: diamond
+bip_39_word_dash_10: diamond-manual-member-search-one-road-mail-cricket-permit-unhappy
+bip_39_word_dash_11: diamond-manual-member-search-one-road-mail-cricket-permit-unhappy-height
+bip_39_word_dash_12: diamond-manual-member-search-one-road-mail-cricket-permit-unhappy-height-allow
+bip_39_word_dash_2: diamond-manual
+bip_39_word_dash_3: diamond-manual-member
+bip_39_word_dash_4: diamond-manual-member-search
+bip_39_word_dash_5: diamond-manual-member-search-one
+bip_39_word_dash_6: diamond-manual-member-search-one-road
+bip_39_word_dash_7: diamond-manual-member-search-one-road-mail
+bip_39_word_dash_8: diamond-manual-member-search-one-road-mail-cricket
+bip_39_word_dash_9: diamond-manual-member-search-one-road-mail-cricket-permit
 bip_39_word_new_br_1: diamond
 bip_39_word_new_br_10: diamond<br>manual<br>member<br>search<br>one<br>road<br>mail<br>cricket<br>permit<br>unhappy
 bip_39_word_new_br_11: diamond<br>manual<br>member<br>search<br>one<br>road<br>mail<br>cricket<br>permit<br>unhappy<br>height
@@ -193,6 +205,18 @@ bip_39_word_space_6: diamond manual member search one road
 bip_39_word_space_7: diamond manual member search one road mail
 bip_39_word_space_8: diamond manual member search one road mail cricket
 bip_39_word_space_9: diamond manual member search one road mail cricket permit
+bip_39_word_underscore_1: diamond
+bip_39_word_underscore_10: diamond_manual_member_search_one_road_mail_cricket_permit_unhappy
+bip_39_word_underscore_11: diamond_manual_member_search_one_road_mail_cricket_permit_unhappy_height
+bip_39_word_underscore_12: diamond_manual_member_search_one_road_mail_cricket_permit_unhappy_height_allow
+bip_39_word_underscore_2: diamond_manual
+bip_39_word_underscore_3: diamond_manual_member
+bip_39_word_underscore_4: diamond_manual_member_search
+bip_39_word_underscore_5: diamond_manual_member_search_one
+bip_39_word_underscore_6: diamond_manual_member_search_one_road
+bip_39_word_underscore_7: diamond_manual_member_search_one_road_mail
+bip_39_word_underscore_8: diamond_manual_member_search_one_road_mail_cricket
+bip_39_word_underscore_9: diamond_manual_member_search_one_road_mail_cricket_permit
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

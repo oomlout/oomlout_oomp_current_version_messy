@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | extra |  
+| bip_39_word_dash_10 | extra-letter-immense-drip-effort-disorder-galaxy-loop-reason-kiss |  
+| bip_39_word_dash_11 | extra-letter-immense-drip-effort-disorder-galaxy-loop-reason-kiss-clog |  
+| bip_39_word_dash_12 | extra-letter-immense-drip-effort-disorder-galaxy-loop-reason-kiss-clog-author |  
+| bip_39_word_dash_2 | extra-letter |  
+| bip_39_word_dash_3 | extra-letter-immense |  
+| bip_39_word_dash_4 | extra-letter-immense-drip |  
+| bip_39_word_dash_5 | extra-letter-immense-drip-effort |  
+| bip_39_word_dash_6 | extra-letter-immense-drip-effort-disorder |  
+| bip_39_word_dash_7 | extra-letter-immense-drip-effort-disorder-galaxy |  
+| bip_39_word_dash_8 | extra-letter-immense-drip-effort-disorder-galaxy-loop |  
+| bip_39_word_dash_9 | extra-letter-immense-drip-effort-disorder-galaxy-loop-reason |  
 | bip_39_word_new_br_1 | extra |  
 | bip_39_word_new_br_10 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop<br>reason<br>kiss |  
 | bip_39_word_new_br_11 | extra<br>letter<br>immense<br>drip<br>effort<br>disorder<br>galaxy<br>loop<br>reason<br>kiss<br>clog |  
@@ -147,6 +159,18 @@ reason |
 | bip_39_word_space_7 | extra letter immense drip effort disorder galaxy |  
 | bip_39_word_space_8 | extra letter immense drip effort disorder galaxy loop |  
 | bip_39_word_space_9 | extra letter immense drip effort disorder galaxy loop reason |  
+| bip_39_word_underscore_1 | extra |  
+| bip_39_word_underscore_10 | extra_letter_immense_drip_effort_disorder_galaxy_loop_reason_kiss |  
+| bip_39_word_underscore_11 | extra_letter_immense_drip_effort_disorder_galaxy_loop_reason_kiss_clog |  
+| bip_39_word_underscore_12 | extra_letter_immense_drip_effort_disorder_galaxy_loop_reason_kiss_clog_author |  
+| bip_39_word_underscore_2 | extra_letter |  
+| bip_39_word_underscore_3 | extra_letter_immense |  
+| bip_39_word_underscore_4 | extra_letter_immense_drip |  
+| bip_39_word_underscore_5 | extra_letter_immense_drip_effort |  
+| bip_39_word_underscore_6 | extra_letter_immense_drip_effort_disorder |  
+| bip_39_word_underscore_7 | extra_letter_immense_drip_effort_disorder_galaxy |  
+| bip_39_word_underscore_8 | extra_letter_immense_drip_effort_disorder_galaxy_loop |  
+| bip_39_word_underscore_9 | extra_letter_immense_drip_effort_disorder_galaxy_loop_reason |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

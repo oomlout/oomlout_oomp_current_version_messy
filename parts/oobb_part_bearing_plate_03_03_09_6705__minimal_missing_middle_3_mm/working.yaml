@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gift
+bip_39_word_dash_10: gift-marble-spend-material-base-arrive-satoshi-floor-disagree-apple
+bip_39_word_dash_11: gift-marble-spend-material-base-arrive-satoshi-floor-disagree-apple-wave
+bip_39_word_dash_12: gift-marble-spend-material-base-arrive-satoshi-floor-disagree-apple-wave-address
+bip_39_word_dash_2: gift-marble
+bip_39_word_dash_3: gift-marble-spend
+bip_39_word_dash_4: gift-marble-spend-material
+bip_39_word_dash_5: gift-marble-spend-material-base
+bip_39_word_dash_6: gift-marble-spend-material-base-arrive
+bip_39_word_dash_7: gift-marble-spend-material-base-arrive-satoshi
+bip_39_word_dash_8: gift-marble-spend-material-base-arrive-satoshi-floor
+bip_39_word_dash_9: gift-marble-spend-material-base-arrive-satoshi-floor-disagree
 bip_39_word_new_br_1: gift
 bip_39_word_new_br_10: gift<br>marble<br>spend<br>material<br>base<br>arrive<br>satoshi<br>floor<br>disagree<br>apple
 bip_39_word_new_br_11: gift<br>marble<br>spend<br>material<br>base<br>arrive<br>satoshi<br>floor<br>disagree<br>apple<br>wave
@@ -194,6 +206,18 @@ bip_39_word_space_6: gift marble spend material base arrive
 bip_39_word_space_7: gift marble spend material base arrive satoshi
 bip_39_word_space_8: gift marble spend material base arrive satoshi floor
 bip_39_word_space_9: gift marble spend material base arrive satoshi floor disagree
+bip_39_word_underscore_1: gift
+bip_39_word_underscore_10: gift_marble_spend_material_base_arrive_satoshi_floor_disagree_apple
+bip_39_word_underscore_11: gift_marble_spend_material_base_arrive_satoshi_floor_disagree_apple_wave
+bip_39_word_underscore_12: gift_marble_spend_material_base_arrive_satoshi_floor_disagree_apple_wave_address
+bip_39_word_underscore_2: gift_marble
+bip_39_word_underscore_3: gift_marble_spend
+bip_39_word_underscore_4: gift_marble_spend_material
+bip_39_word_underscore_5: gift_marble_spend_material_base
+bip_39_word_underscore_6: gift_marble_spend_material_base_arrive
+bip_39_word_underscore_7: gift_marble_spend_material_base_arrive_satoshi
+bip_39_word_underscore_8: gift_marble_spend_material_base_arrive_satoshi_floor
+bip_39_word_underscore_9: gift_marble_spend_material_base_arrive_satoshi_floor_disagree
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

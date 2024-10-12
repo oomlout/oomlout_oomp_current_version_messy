@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shock
+bip_39_word_dash_10: shock-time-joy-raccoon-grain-sister-sick-human-skull-evidence
+bip_39_word_dash_11: shock-time-joy-raccoon-grain-sister-sick-human-skull-evidence-mix
+bip_39_word_dash_12: shock-time-joy-raccoon-grain-sister-sick-human-skull-evidence-mix-any
+bip_39_word_dash_2: shock-time
+bip_39_word_dash_3: shock-time-joy
+bip_39_word_dash_4: shock-time-joy-raccoon
+bip_39_word_dash_5: shock-time-joy-raccoon-grain
+bip_39_word_dash_6: shock-time-joy-raccoon-grain-sister
+bip_39_word_dash_7: shock-time-joy-raccoon-grain-sister-sick
+bip_39_word_dash_8: shock-time-joy-raccoon-grain-sister-sick-human
+bip_39_word_dash_9: shock-time-joy-raccoon-grain-sister-sick-human-skull
 bip_39_word_new_br_1: shock
 bip_39_word_new_br_10: shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human<br>skull<br>evidence
 bip_39_word_new_br_11: shock<br>time<br>joy<br>raccoon<br>grain<br>sister<br>sick<br>human<br>skull<br>evidence<br>mix
@@ -193,6 +205,18 @@ bip_39_word_space_6: shock time joy raccoon grain sister
 bip_39_word_space_7: shock time joy raccoon grain sister sick
 bip_39_word_space_8: shock time joy raccoon grain sister sick human
 bip_39_word_space_9: shock time joy raccoon grain sister sick human skull
+bip_39_word_underscore_1: shock
+bip_39_word_underscore_10: shock_time_joy_raccoon_grain_sister_sick_human_skull_evidence
+bip_39_word_underscore_11: shock_time_joy_raccoon_grain_sister_sick_human_skull_evidence_mix
+bip_39_word_underscore_12: shock_time_joy_raccoon_grain_sister_sick_human_skull_evidence_mix_any
+bip_39_word_underscore_2: shock_time
+bip_39_word_underscore_3: shock_time_joy
+bip_39_word_underscore_4: shock_time_joy_raccoon
+bip_39_word_underscore_5: shock_time_joy_raccoon_grain
+bip_39_word_underscore_6: shock_time_joy_raccoon_grain_sister
+bip_39_word_underscore_7: shock_time_joy_raccoon_grain_sister_sick
+bip_39_word_underscore_8: shock_time_joy_raccoon_grain_sister_sick_human
+bip_39_word_underscore_9: shock_time_joy_raccoon_grain_sister_sick_human_skull
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

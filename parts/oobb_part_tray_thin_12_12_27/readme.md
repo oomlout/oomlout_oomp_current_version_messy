@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prevent |  
+| bip_39_word_dash_10 | prevent-click-fresh-loop-dinosaur-quality-portion-private-target-build |  
+| bip_39_word_dash_11 | prevent-click-fresh-loop-dinosaur-quality-portion-private-target-build-safe |  
+| bip_39_word_dash_12 | prevent-click-fresh-loop-dinosaur-quality-portion-private-target-build-safe-armed |  
+| bip_39_word_dash_2 | prevent-click |  
+| bip_39_word_dash_3 | prevent-click-fresh |  
+| bip_39_word_dash_4 | prevent-click-fresh-loop |  
+| bip_39_word_dash_5 | prevent-click-fresh-loop-dinosaur |  
+| bip_39_word_dash_6 | prevent-click-fresh-loop-dinosaur-quality |  
+| bip_39_word_dash_7 | prevent-click-fresh-loop-dinosaur-quality-portion |  
+| bip_39_word_dash_8 | prevent-click-fresh-loop-dinosaur-quality-portion-private |  
+| bip_39_word_dash_9 | prevent-click-fresh-loop-dinosaur-quality-portion-private-target |  
 | bip_39_word_new_br_1 | prevent |  
 | bip_39_word_new_br_10 | prevent<br>click<br>fresh<br>loop<br>dinosaur<br>quality<br>portion<br>private<br>target<br>build |  
 | bip_39_word_new_br_11 | prevent<br>click<br>fresh<br>loop<br>dinosaur<br>quality<br>portion<br>private<br>target<br>build<br>safe |  
@@ -147,6 +159,18 @@ target |
 | bip_39_word_space_7 | prevent click fresh loop dinosaur quality portion |  
 | bip_39_word_space_8 | prevent click fresh loop dinosaur quality portion private |  
 | bip_39_word_space_9 | prevent click fresh loop dinosaur quality portion private target |  
+| bip_39_word_underscore_1 | prevent |  
+| bip_39_word_underscore_10 | prevent_click_fresh_loop_dinosaur_quality_portion_private_target_build |  
+| bip_39_word_underscore_11 | prevent_click_fresh_loop_dinosaur_quality_portion_private_target_build_safe |  
+| bip_39_word_underscore_12 | prevent_click_fresh_loop_dinosaur_quality_portion_private_target_build_safe_armed |  
+| bip_39_word_underscore_2 | prevent_click |  
+| bip_39_word_underscore_3 | prevent_click_fresh |  
+| bip_39_word_underscore_4 | prevent_click_fresh_loop |  
+| bip_39_word_underscore_5 | prevent_click_fresh_loop_dinosaur |  
+| bip_39_word_underscore_6 | prevent_click_fresh_loop_dinosaur_quality |  
+| bip_39_word_underscore_7 | prevent_click_fresh_loop_dinosaur_quality_portion |  
+| bip_39_word_underscore_8 | prevent_click_fresh_loop_dinosaur_quality_portion_private |  
+| bip_39_word_underscore_9 | prevent_click_fresh_loop_dinosaur_quality_portion_private_target |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

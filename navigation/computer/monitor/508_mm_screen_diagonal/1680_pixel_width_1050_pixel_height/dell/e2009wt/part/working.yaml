@@ -1,3 +1,15 @@
+bip_39_word_dash_1: series
+bip_39_word_dash_10: series-portion-avoid-borrow-breeze-vacant-flock-floor-document-refuse
+bip_39_word_dash_11: series-portion-avoid-borrow-breeze-vacant-flock-floor-document-refuse-photo
+bip_39_word_dash_12: series-portion-avoid-borrow-breeze-vacant-flock-floor-document-refuse-photo-average
+bip_39_word_dash_2: series-portion
+bip_39_word_dash_3: series-portion-avoid
+bip_39_word_dash_4: series-portion-avoid-borrow
+bip_39_word_dash_5: series-portion-avoid-borrow-breeze
+bip_39_word_dash_6: series-portion-avoid-borrow-breeze-vacant
+bip_39_word_dash_7: series-portion-avoid-borrow-breeze-vacant-flock
+bip_39_word_dash_8: series-portion-avoid-borrow-breeze-vacant-flock-floor
+bip_39_word_dash_9: series-portion-avoid-borrow-breeze-vacant-flock-floor-document
 bip_39_word_new_br_1: series
 bip_39_word_new_br_10: series<br>portion<br>avoid<br>borrow<br>breeze<br>vacant<br>flock<br>floor<br>document<br>refuse
 bip_39_word_new_br_11: series<br>portion<br>avoid<br>borrow<br>breeze<br>vacant<br>flock<br>floor<br>document<br>refuse<br>photo
@@ -194,6 +206,18 @@ bip_39_word_space_6: series portion avoid borrow breeze vacant
 bip_39_word_space_7: series portion avoid borrow breeze vacant flock
 bip_39_word_space_8: series portion avoid borrow breeze vacant flock floor
 bip_39_word_space_9: series portion avoid borrow breeze vacant flock floor document
+bip_39_word_underscore_1: series
+bip_39_word_underscore_10: series_portion_avoid_borrow_breeze_vacant_flock_floor_document_refuse
+bip_39_word_underscore_11: series_portion_avoid_borrow_breeze_vacant_flock_floor_document_refuse_photo
+bip_39_word_underscore_12: series_portion_avoid_borrow_breeze_vacant_flock_floor_document_refuse_photo_average
+bip_39_word_underscore_2: series_portion
+bip_39_word_underscore_3: series_portion_avoid
+bip_39_word_underscore_4: series_portion_avoid_borrow
+bip_39_word_underscore_5: series_portion_avoid_borrow_breeze
+bip_39_word_underscore_6: series_portion_avoid_borrow_breeze_vacant
+bip_39_word_underscore_7: series_portion_avoid_borrow_breeze_vacant_flock
+bip_39_word_underscore_8: series_portion_avoid_borrow_breeze_vacant_flock_floor
+bip_39_word_underscore_9: series_portion_avoid_borrow_breeze_vacant_flock_floor_document
 classification: computer
 classification_capital: Computer
 classification_first_letter: c

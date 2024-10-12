@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lounge |  
+| bip_39_word_dash_10 | lounge-soldier-toddler-valley-need-curious-clean-timber-that-cricket |  
+| bip_39_word_dash_11 | lounge-soldier-toddler-valley-need-curious-clean-timber-that-cricket-spring |  
+| bip_39_word_dash_12 | lounge-soldier-toddler-valley-need-curious-clean-timber-that-cricket-spring-arm |  
+| bip_39_word_dash_2 | lounge-soldier |  
+| bip_39_word_dash_3 | lounge-soldier-toddler |  
+| bip_39_word_dash_4 | lounge-soldier-toddler-valley |  
+| bip_39_word_dash_5 | lounge-soldier-toddler-valley-need |  
+| bip_39_word_dash_6 | lounge-soldier-toddler-valley-need-curious |  
+| bip_39_word_dash_7 | lounge-soldier-toddler-valley-need-curious-clean |  
+| bip_39_word_dash_8 | lounge-soldier-toddler-valley-need-curious-clean-timber |  
+| bip_39_word_dash_9 | lounge-soldier-toddler-valley-need-curious-clean-timber-that |  
 | bip_39_word_new_br_1 | lounge |  
 | bip_39_word_new_br_10 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber<br>that<br>cricket |  
 | bip_39_word_new_br_11 | lounge<br>soldier<br>toddler<br>valley<br>need<br>curious<br>clean<br>timber<br>that<br>cricket<br>spring |  
@@ -147,6 +159,18 @@ that |
 | bip_39_word_space_7 | lounge soldier toddler valley need curious clean |  
 | bip_39_word_space_8 | lounge soldier toddler valley need curious clean timber |  
 | bip_39_word_space_9 | lounge soldier toddler valley need curious clean timber that |  
+| bip_39_word_underscore_1 | lounge |  
+| bip_39_word_underscore_10 | lounge_soldier_toddler_valley_need_curious_clean_timber_that_cricket |  
+| bip_39_word_underscore_11 | lounge_soldier_toddler_valley_need_curious_clean_timber_that_cricket_spring |  
+| bip_39_word_underscore_12 | lounge_soldier_toddler_valley_need_curious_clean_timber_that_cricket_spring_arm |  
+| bip_39_word_underscore_2 | lounge_soldier |  
+| bip_39_word_underscore_3 | lounge_soldier_toddler |  
+| bip_39_word_underscore_4 | lounge_soldier_toddler_valley |  
+| bip_39_word_underscore_5 | lounge_soldier_toddler_valley_need |  
+| bip_39_word_underscore_6 | lounge_soldier_toddler_valley_need_curious |  
+| bip_39_word_underscore_7 | lounge_soldier_toddler_valley_need_curious_clean |  
+| bip_39_word_underscore_8 | lounge_soldier_toddler_valley_need_curious_clean_timber |  
+| bip_39_word_underscore_9 | lounge_soldier_toddler_valley_need_curious_clean_timber_that |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

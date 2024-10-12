@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flame |  
+| bip_39_word_dash_10 | flame-ketchup-spell-fence-treat-limit-clinic-client-suspect-nut |  
+| bip_39_word_dash_11 | flame-ketchup-spell-fence-treat-limit-clinic-client-suspect-nut-fox |  
+| bip_39_word_dash_12 | flame-ketchup-spell-fence-treat-limit-clinic-client-suspect-nut-fox-absent |  
+| bip_39_word_dash_2 | flame-ketchup |  
+| bip_39_word_dash_3 | flame-ketchup-spell |  
+| bip_39_word_dash_4 | flame-ketchup-spell-fence |  
+| bip_39_word_dash_5 | flame-ketchup-spell-fence-treat |  
+| bip_39_word_dash_6 | flame-ketchup-spell-fence-treat-limit |  
+| bip_39_word_dash_7 | flame-ketchup-spell-fence-treat-limit-clinic |  
+| bip_39_word_dash_8 | flame-ketchup-spell-fence-treat-limit-clinic-client |  
+| bip_39_word_dash_9 | flame-ketchup-spell-fence-treat-limit-clinic-client-suspect |  
 | bip_39_word_new_br_1 | flame |  
 | bip_39_word_new_br_10 | flame<br>ketchup<br>spell<br>fence<br>treat<br>limit<br>clinic<br>client<br>suspect<br>nut |  
 | bip_39_word_new_br_11 | flame<br>ketchup<br>spell<br>fence<br>treat<br>limit<br>clinic<br>client<br>suspect<br>nut<br>fox |  
@@ -147,6 +159,18 @@ suspect |
 | bip_39_word_space_7 | flame ketchup spell fence treat limit clinic |  
 | bip_39_word_space_8 | flame ketchup spell fence treat limit clinic client |  
 | bip_39_word_space_9 | flame ketchup spell fence treat limit clinic client suspect |  
+| bip_39_word_underscore_1 | flame |  
+| bip_39_word_underscore_10 | flame_ketchup_spell_fence_treat_limit_clinic_client_suspect_nut |  
+| bip_39_word_underscore_11 | flame_ketchup_spell_fence_treat_limit_clinic_client_suspect_nut_fox |  
+| bip_39_word_underscore_12 | flame_ketchup_spell_fence_treat_limit_clinic_client_suspect_nut_fox_absent |  
+| bip_39_word_underscore_2 | flame_ketchup |  
+| bip_39_word_underscore_3 | flame_ketchup_spell |  
+| bip_39_word_underscore_4 | flame_ketchup_spell_fence |  
+| bip_39_word_underscore_5 | flame_ketchup_spell_fence_treat |  
+| bip_39_word_underscore_6 | flame_ketchup_spell_fence_treat_limit |  
+| bip_39_word_underscore_7 | flame_ketchup_spell_fence_treat_limit_clinic |  
+| bip_39_word_underscore_8 | flame_ketchup_spell_fence_treat_limit_clinic_client |  
+| bip_39_word_underscore_9 | flame_ketchup_spell_fence_treat_limit_clinic_client_suspect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

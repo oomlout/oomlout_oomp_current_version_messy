@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | box |  
+| bip_39_word_dash_10 | box-pride-carpet-oil-crumble-front-album-rifle-gospel-wing |  
+| bip_39_word_dash_11 | box-pride-carpet-oil-crumble-front-album-rifle-gospel-wing-toddler |  
+| bip_39_word_dash_12 | box-pride-carpet-oil-crumble-front-album-rifle-gospel-wing-toddler-ability |  
+| bip_39_word_dash_2 | box-pride |  
+| bip_39_word_dash_3 | box-pride-carpet |  
+| bip_39_word_dash_4 | box-pride-carpet-oil |  
+| bip_39_word_dash_5 | box-pride-carpet-oil-crumble |  
+| bip_39_word_dash_6 | box-pride-carpet-oil-crumble-front |  
+| bip_39_word_dash_7 | box-pride-carpet-oil-crumble-front-album |  
+| bip_39_word_dash_8 | box-pride-carpet-oil-crumble-front-album-rifle |  
+| bip_39_word_dash_9 | box-pride-carpet-oil-crumble-front-album-rifle-gospel |  
 | bip_39_word_new_br_1 | box |  
 | bip_39_word_new_br_10 | box<br>pride<br>carpet<br>oil<br>crumble<br>front<br>album<br>rifle<br>gospel<br>wing |  
 | bip_39_word_new_br_11 | box<br>pride<br>carpet<br>oil<br>crumble<br>front<br>album<br>rifle<br>gospel<br>wing<br>toddler |  
@@ -147,6 +159,18 @@ gospel |
 | bip_39_word_space_7 | box pride carpet oil crumble front album |  
 | bip_39_word_space_8 | box pride carpet oil crumble front album rifle |  
 | bip_39_word_space_9 | box pride carpet oil crumble front album rifle gospel |  
+| bip_39_word_underscore_1 | box |  
+| bip_39_word_underscore_10 | box_pride_carpet_oil_crumble_front_album_rifle_gospel_wing |  
+| bip_39_word_underscore_11 | box_pride_carpet_oil_crumble_front_album_rifle_gospel_wing_toddler |  
+| bip_39_word_underscore_12 | box_pride_carpet_oil_crumble_front_album_rifle_gospel_wing_toddler_ability |  
+| bip_39_word_underscore_2 | box_pride |  
+| bip_39_word_underscore_3 | box_pride_carpet |  
+| bip_39_word_underscore_4 | box_pride_carpet_oil |  
+| bip_39_word_underscore_5 | box_pride_carpet_oil_crumble |  
+| bip_39_word_underscore_6 | box_pride_carpet_oil_crumble_front |  
+| bip_39_word_underscore_7 | box_pride_carpet_oil_crumble_front_album |  
+| bip_39_word_underscore_8 | box_pride_carpet_oil_crumble_front_album_rifle |  
+| bip_39_word_underscore_9 | box_pride_carpet_oil_crumble_front_album_rifle_gospel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

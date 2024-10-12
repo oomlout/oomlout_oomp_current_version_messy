@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | payment |  
+| bip_39_word_dash_10 | payment-knife-double-hollow-stumble-what-napkin-swallow-useful-hood |  
+| bip_39_word_dash_11 | payment-knife-double-hollow-stumble-what-napkin-swallow-useful-hood-tilt |  
+| bip_39_word_dash_12 | payment-knife-double-hollow-stumble-what-napkin-swallow-useful-hood-tilt-about |  
+| bip_39_word_dash_2 | payment-knife |  
+| bip_39_word_dash_3 | payment-knife-double |  
+| bip_39_word_dash_4 | payment-knife-double-hollow |  
+| bip_39_word_dash_5 | payment-knife-double-hollow-stumble |  
+| bip_39_word_dash_6 | payment-knife-double-hollow-stumble-what |  
+| bip_39_word_dash_7 | payment-knife-double-hollow-stumble-what-napkin |  
+| bip_39_word_dash_8 | payment-knife-double-hollow-stumble-what-napkin-swallow |  
+| bip_39_word_dash_9 | payment-knife-double-hollow-stumble-what-napkin-swallow-useful |  
 | bip_39_word_new_br_1 | payment |  
 | bip_39_word_new_br_10 | payment<br>knife<br>double<br>hollow<br>stumble<br>what<br>napkin<br>swallow<br>useful<br>hood |  
 | bip_39_word_new_br_11 | payment<br>knife<br>double<br>hollow<br>stumble<br>what<br>napkin<br>swallow<br>useful<br>hood<br>tilt |  
@@ -147,6 +159,18 @@ useful |
 | bip_39_word_space_7 | payment knife double hollow stumble what napkin |  
 | bip_39_word_space_8 | payment knife double hollow stumble what napkin swallow |  
 | bip_39_word_space_9 | payment knife double hollow stumble what napkin swallow useful |  
+| bip_39_word_underscore_1 | payment |  
+| bip_39_word_underscore_10 | payment_knife_double_hollow_stumble_what_napkin_swallow_useful_hood |  
+| bip_39_word_underscore_11 | payment_knife_double_hollow_stumble_what_napkin_swallow_useful_hood_tilt |  
+| bip_39_word_underscore_12 | payment_knife_double_hollow_stumble_what_napkin_swallow_useful_hood_tilt_about |  
+| bip_39_word_underscore_2 | payment_knife |  
+| bip_39_word_underscore_3 | payment_knife_double |  
+| bip_39_word_underscore_4 | payment_knife_double_hollow |  
+| bip_39_word_underscore_5 | payment_knife_double_hollow_stumble |  
+| bip_39_word_underscore_6 | payment_knife_double_hollow_stumble_what |  
+| bip_39_word_underscore_7 | payment_knife_double_hollow_stumble_what_napkin |  
+| bip_39_word_underscore_8 | payment_knife_double_hollow_stumble_what_napkin_swallow |  
+| bip_39_word_underscore_9 | payment_knife_double_hollow_stumble_what_napkin_swallow_useful |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

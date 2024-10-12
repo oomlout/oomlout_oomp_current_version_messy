@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skate |  
+| bip_39_word_dash_10 | skate-galaxy-elephant-wish-trade-album-burger-collect-orbit-two |  
+| bip_39_word_dash_11 | skate-galaxy-elephant-wish-trade-album-burger-collect-orbit-two-fiscal |  
+| bip_39_word_dash_12 | skate-galaxy-elephant-wish-trade-album-burger-collect-orbit-two-fiscal-arrange |  
+| bip_39_word_dash_2 | skate-galaxy |  
+| bip_39_word_dash_3 | skate-galaxy-elephant |  
+| bip_39_word_dash_4 | skate-galaxy-elephant-wish |  
+| bip_39_word_dash_5 | skate-galaxy-elephant-wish-trade |  
+| bip_39_word_dash_6 | skate-galaxy-elephant-wish-trade-album |  
+| bip_39_word_dash_7 | skate-galaxy-elephant-wish-trade-album-burger |  
+| bip_39_word_dash_8 | skate-galaxy-elephant-wish-trade-album-burger-collect |  
+| bip_39_word_dash_9 | skate-galaxy-elephant-wish-trade-album-burger-collect-orbit |  
 | bip_39_word_new_br_1 | skate |  
 | bip_39_word_new_br_10 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect<br>orbit<br>two |  
 | bip_39_word_new_br_11 | skate<br>galaxy<br>elephant<br>wish<br>trade<br>album<br>burger<br>collect<br>orbit<br>two<br>fiscal |  
@@ -147,6 +159,18 @@ orbit |
 | bip_39_word_space_7 | skate galaxy elephant wish trade album burger |  
 | bip_39_word_space_8 | skate galaxy elephant wish trade album burger collect |  
 | bip_39_word_space_9 | skate galaxy elephant wish trade album burger collect orbit |  
+| bip_39_word_underscore_1 | skate |  
+| bip_39_word_underscore_10 | skate_galaxy_elephant_wish_trade_album_burger_collect_orbit_two |  
+| bip_39_word_underscore_11 | skate_galaxy_elephant_wish_trade_album_burger_collect_orbit_two_fiscal |  
+| bip_39_word_underscore_12 | skate_galaxy_elephant_wish_trade_album_burger_collect_orbit_two_fiscal_arrange |  
+| bip_39_word_underscore_2 | skate_galaxy |  
+| bip_39_word_underscore_3 | skate_galaxy_elephant |  
+| bip_39_word_underscore_4 | skate_galaxy_elephant_wish |  
+| bip_39_word_underscore_5 | skate_galaxy_elephant_wish_trade |  
+| bip_39_word_underscore_6 | skate_galaxy_elephant_wish_trade_album |  
+| bip_39_word_underscore_7 | skate_galaxy_elephant_wish_trade_album_burger |  
+| bip_39_word_underscore_8 | skate_galaxy_elephant_wish_trade_album_burger_collect |  
+| bip_39_word_underscore_9 | skate_galaxy_elephant_wish_trade_album_burger_collect_orbit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

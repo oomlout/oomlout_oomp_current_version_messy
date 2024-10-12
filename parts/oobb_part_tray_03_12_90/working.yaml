@@ -1,3 +1,15 @@
+bip_39_word_dash_1: then
+bip_39_word_dash_10: then-betray-dune-hire-disorder-inflict-element-pulp-fat-shield
+bip_39_word_dash_11: then-betray-dune-hire-disorder-inflict-element-pulp-fat-shield-gasp
+bip_39_word_dash_12: then-betray-dune-hire-disorder-inflict-element-pulp-fat-shield-gasp-army
+bip_39_word_dash_2: then-betray
+bip_39_word_dash_3: then-betray-dune
+bip_39_word_dash_4: then-betray-dune-hire
+bip_39_word_dash_5: then-betray-dune-hire-disorder
+bip_39_word_dash_6: then-betray-dune-hire-disorder-inflict
+bip_39_word_dash_7: then-betray-dune-hire-disorder-inflict-element
+bip_39_word_dash_8: then-betray-dune-hire-disorder-inflict-element-pulp
+bip_39_word_dash_9: then-betray-dune-hire-disorder-inflict-element-pulp-fat
 bip_39_word_new_br_1: then
 bip_39_word_new_br_10: then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield
 bip_39_word_new_br_11: then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield<br>gasp
@@ -193,6 +205,18 @@ bip_39_word_space_6: then betray dune hire disorder inflict
 bip_39_word_space_7: then betray dune hire disorder inflict element
 bip_39_word_space_8: then betray dune hire disorder inflict element pulp
 bip_39_word_space_9: then betray dune hire disorder inflict element pulp fat
+bip_39_word_underscore_1: then
+bip_39_word_underscore_10: then_betray_dune_hire_disorder_inflict_element_pulp_fat_shield
+bip_39_word_underscore_11: then_betray_dune_hire_disorder_inflict_element_pulp_fat_shield_gasp
+bip_39_word_underscore_12: then_betray_dune_hire_disorder_inflict_element_pulp_fat_shield_gasp_army
+bip_39_word_underscore_2: then_betray
+bip_39_word_underscore_3: then_betray_dune
+bip_39_word_underscore_4: then_betray_dune_hire
+bip_39_word_underscore_5: then_betray_dune_hire_disorder
+bip_39_word_underscore_6: then_betray_dune_hire_disorder_inflict
+bip_39_word_underscore_7: then_betray_dune_hire_disorder_inflict_element
+bip_39_word_underscore_8: then_betray_dune_hire_disorder_inflict_element_pulp
+bip_39_word_underscore_9: then_betray_dune_hire_disorder_inflict_element_pulp_fat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

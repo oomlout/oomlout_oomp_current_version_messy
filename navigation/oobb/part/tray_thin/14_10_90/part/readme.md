@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrow |  
+| bip_39_word_dash_10 | arrow-promote-heavy-express-high-knife-above-one-cactus-either |  
+| bip_39_word_dash_11 | arrow-promote-heavy-express-high-knife-above-one-cactus-either-transfer |  
+| bip_39_word_dash_12 | arrow-promote-heavy-express-high-knife-above-one-cactus-either-transfer-anchor |  
+| bip_39_word_dash_2 | arrow-promote |  
+| bip_39_word_dash_3 | arrow-promote-heavy |  
+| bip_39_word_dash_4 | arrow-promote-heavy-express |  
+| bip_39_word_dash_5 | arrow-promote-heavy-express-high |  
+| bip_39_word_dash_6 | arrow-promote-heavy-express-high-knife |  
+| bip_39_word_dash_7 | arrow-promote-heavy-express-high-knife-above |  
+| bip_39_word_dash_8 | arrow-promote-heavy-express-high-knife-above-one |  
+| bip_39_word_dash_9 | arrow-promote-heavy-express-high-knife-above-one-cactus |  
 | bip_39_word_new_br_1 | arrow |  
 | bip_39_word_new_br_10 | arrow<br>promote<br>heavy<br>express<br>high<br>knife<br>above<br>one<br>cactus<br>either |  
 | bip_39_word_new_br_11 | arrow<br>promote<br>heavy<br>express<br>high<br>knife<br>above<br>one<br>cactus<br>either<br>transfer |  
@@ -147,6 +159,18 @@ cactus |
 | bip_39_word_space_7 | arrow promote heavy express high knife above |  
 | bip_39_word_space_8 | arrow promote heavy express high knife above one |  
 | bip_39_word_space_9 | arrow promote heavy express high knife above one cactus |  
+| bip_39_word_underscore_1 | arrow |  
+| bip_39_word_underscore_10 | arrow_promote_heavy_express_high_knife_above_one_cactus_either |  
+| bip_39_word_underscore_11 | arrow_promote_heavy_express_high_knife_above_one_cactus_either_transfer |  
+| bip_39_word_underscore_12 | arrow_promote_heavy_express_high_knife_above_one_cactus_either_transfer_anchor |  
+| bip_39_word_underscore_2 | arrow_promote |  
+| bip_39_word_underscore_3 | arrow_promote_heavy |  
+| bip_39_word_underscore_4 | arrow_promote_heavy_express |  
+| bip_39_word_underscore_5 | arrow_promote_heavy_express_high |  
+| bip_39_word_underscore_6 | arrow_promote_heavy_express_high_knife |  
+| bip_39_word_underscore_7 | arrow_promote_heavy_express_high_knife_above |  
+| bip_39_word_underscore_8 | arrow_promote_heavy_express_high_knife_above_one |  
+| bip_39_word_underscore_9 | arrow_promote_heavy_express_high_knife_above_one_cactus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

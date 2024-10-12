@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vocal
+bip_39_word_dash_10: vocal-report-joy-chat-canal-path-aunt-repair-topple-wedding
+bip_39_word_dash_11: vocal-report-joy-chat-canal-path-aunt-repair-topple-wedding-own
+bip_39_word_dash_12: vocal-report-joy-chat-canal-path-aunt-repair-topple-wedding-own-august
+bip_39_word_dash_2: vocal-report
+bip_39_word_dash_3: vocal-report-joy
+bip_39_word_dash_4: vocal-report-joy-chat
+bip_39_word_dash_5: vocal-report-joy-chat-canal
+bip_39_word_dash_6: vocal-report-joy-chat-canal-path
+bip_39_word_dash_7: vocal-report-joy-chat-canal-path-aunt
+bip_39_word_dash_8: vocal-report-joy-chat-canal-path-aunt-repair
+bip_39_word_dash_9: vocal-report-joy-chat-canal-path-aunt-repair-topple
 bip_39_word_new_br_1: vocal
 bip_39_word_new_br_10: vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding
 bip_39_word_new_br_11: vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding<br>own
@@ -193,6 +205,18 @@ bip_39_word_space_6: vocal report joy chat canal path
 bip_39_word_space_7: vocal report joy chat canal path aunt
 bip_39_word_space_8: vocal report joy chat canal path aunt repair
 bip_39_word_space_9: vocal report joy chat canal path aunt repair topple
+bip_39_word_underscore_1: vocal
+bip_39_word_underscore_10: vocal_report_joy_chat_canal_path_aunt_repair_topple_wedding
+bip_39_word_underscore_11: vocal_report_joy_chat_canal_path_aunt_repair_topple_wedding_own
+bip_39_word_underscore_12: vocal_report_joy_chat_canal_path_aunt_repair_topple_wedding_own_august
+bip_39_word_underscore_2: vocal_report
+bip_39_word_underscore_3: vocal_report_joy
+bip_39_word_underscore_4: vocal_report_joy_chat
+bip_39_word_underscore_5: vocal_report_joy_chat_canal
+bip_39_word_underscore_6: vocal_report_joy_chat_canal_path
+bip_39_word_underscore_7: vocal_report_joy_chat_canal_path_aunt
+bip_39_word_underscore_8: vocal_report_joy_chat_canal_path_aunt_repair
+bip_39_word_underscore_9: vocal_report_joy_chat_canal_path_aunt_repair_topple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

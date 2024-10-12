@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pond |  
+| bip_39_word_dash_10 | pond-reform-proof-eager-scatter-consider-under-hold-fork-model |  
+| bip_39_word_dash_11 | pond-reform-proof-eager-scatter-consider-under-hold-fork-model-reopen |  
+| bip_39_word_dash_12 | pond-reform-proof-eager-scatter-consider-under-hold-fork-model-reopen-argue |  
+| bip_39_word_dash_2 | pond-reform |  
+| bip_39_word_dash_3 | pond-reform-proof |  
+| bip_39_word_dash_4 | pond-reform-proof-eager |  
+| bip_39_word_dash_5 | pond-reform-proof-eager-scatter |  
+| bip_39_word_dash_6 | pond-reform-proof-eager-scatter-consider |  
+| bip_39_word_dash_7 | pond-reform-proof-eager-scatter-consider-under |  
+| bip_39_word_dash_8 | pond-reform-proof-eager-scatter-consider-under-hold |  
+| bip_39_word_dash_9 | pond-reform-proof-eager-scatter-consider-under-hold-fork |  
 | bip_39_word_new_br_1 | pond |  
 | bip_39_word_new_br_10 | pond<br>reform<br>proof<br>eager<br>scatter<br>consider<br>under<br>hold<br>fork<br>model |  
 | bip_39_word_new_br_11 | pond<br>reform<br>proof<br>eager<br>scatter<br>consider<br>under<br>hold<br>fork<br>model<br>reopen |  
@@ -147,6 +159,18 @@ fork |
 | bip_39_word_space_7 | pond reform proof eager scatter consider under |  
 | bip_39_word_space_8 | pond reform proof eager scatter consider under hold |  
 | bip_39_word_space_9 | pond reform proof eager scatter consider under hold fork |  
+| bip_39_word_underscore_1 | pond |  
+| bip_39_word_underscore_10 | pond_reform_proof_eager_scatter_consider_under_hold_fork_model |  
+| bip_39_word_underscore_11 | pond_reform_proof_eager_scatter_consider_under_hold_fork_model_reopen |  
+| bip_39_word_underscore_12 | pond_reform_proof_eager_scatter_consider_under_hold_fork_model_reopen_argue |  
+| bip_39_word_underscore_2 | pond_reform |  
+| bip_39_word_underscore_3 | pond_reform_proof |  
+| bip_39_word_underscore_4 | pond_reform_proof_eager |  
+| bip_39_word_underscore_5 | pond_reform_proof_eager_scatter |  
+| bip_39_word_underscore_6 | pond_reform_proof_eager_scatter_consider |  
+| bip_39_word_underscore_7 | pond_reform_proof_eager_scatter_consider_under |  
+| bip_39_word_underscore_8 | pond_reform_proof_eager_scatter_consider_under_hold |  
+| bip_39_word_underscore_9 | pond_reform_proof_eager_scatter_consider_under_hold_fork |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

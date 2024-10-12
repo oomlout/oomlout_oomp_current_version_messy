@@ -1,3 +1,15 @@
+bip_39_word_dash_1: answer
+bip_39_word_dash_10: answer-load-verify-immune-giant-voyage-popular-smoke-bike-mushroom
+bip_39_word_dash_11: answer-load-verify-immune-giant-voyage-popular-smoke-bike-mushroom-replace
+bip_39_word_dash_12: answer-load-verify-immune-giant-voyage-popular-smoke-bike-mushroom-replace-arm
+bip_39_word_dash_2: answer-load
+bip_39_word_dash_3: answer-load-verify
+bip_39_word_dash_4: answer-load-verify-immune
+bip_39_word_dash_5: answer-load-verify-immune-giant
+bip_39_word_dash_6: answer-load-verify-immune-giant-voyage
+bip_39_word_dash_7: answer-load-verify-immune-giant-voyage-popular
+bip_39_word_dash_8: answer-load-verify-immune-giant-voyage-popular-smoke
+bip_39_word_dash_9: answer-load-verify-immune-giant-voyage-popular-smoke-bike
 bip_39_word_new_br_1: answer
 bip_39_word_new_br_10: answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom
 bip_39_word_new_br_11: answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom<br>replace
@@ -193,6 +205,18 @@ bip_39_word_space_6: answer load verify immune giant voyage
 bip_39_word_space_7: answer load verify immune giant voyage popular
 bip_39_word_space_8: answer load verify immune giant voyage popular smoke
 bip_39_word_space_9: answer load verify immune giant voyage popular smoke bike
+bip_39_word_underscore_1: answer
+bip_39_word_underscore_10: answer_load_verify_immune_giant_voyage_popular_smoke_bike_mushroom
+bip_39_word_underscore_11: answer_load_verify_immune_giant_voyage_popular_smoke_bike_mushroom_replace
+bip_39_word_underscore_12: answer_load_verify_immune_giant_voyage_popular_smoke_bike_mushroom_replace_arm
+bip_39_word_underscore_2: answer_load
+bip_39_word_underscore_3: answer_load_verify
+bip_39_word_underscore_4: answer_load_verify_immune
+bip_39_word_underscore_5: answer_load_verify_immune_giant
+bip_39_word_underscore_6: answer_load_verify_immune_giant_voyage
+bip_39_word_underscore_7: answer_load_verify_immune_giant_voyage_popular
+bip_39_word_underscore_8: answer_load_verify_immune_giant_voyage_popular_smoke
+bip_39_word_underscore_9: answer_load_verify_immune_giant_voyage_popular_smoke_bike
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

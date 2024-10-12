@@ -1,3 +1,15 @@
+bip_39_word_dash_1: conduct
+bip_39_word_dash_10: conduct-cage-ritual-able-federal-offer-ramp-female-elite-tank
+bip_39_word_dash_11: conduct-cage-ritual-able-federal-offer-ramp-female-elite-tank-town
+bip_39_word_dash_12: conduct-cage-ritual-able-federal-offer-ramp-female-elite-tank-town-anchor
+bip_39_word_dash_2: conduct-cage
+bip_39_word_dash_3: conduct-cage-ritual
+bip_39_word_dash_4: conduct-cage-ritual-able
+bip_39_word_dash_5: conduct-cage-ritual-able-federal
+bip_39_word_dash_6: conduct-cage-ritual-able-federal-offer
+bip_39_word_dash_7: conduct-cage-ritual-able-federal-offer-ramp
+bip_39_word_dash_8: conduct-cage-ritual-able-federal-offer-ramp-female
+bip_39_word_dash_9: conduct-cage-ritual-able-federal-offer-ramp-female-elite
 bip_39_word_new_br_1: conduct
 bip_39_word_new_br_10: conduct<br>cage<br>ritual<br>able<br>federal<br>offer<br>ramp<br>female<br>elite<br>tank
 bip_39_word_new_br_11: conduct<br>cage<br>ritual<br>able<br>federal<br>offer<br>ramp<br>female<br>elite<br>tank<br>town
@@ -193,6 +205,18 @@ bip_39_word_space_6: conduct cage ritual able federal offer
 bip_39_word_space_7: conduct cage ritual able federal offer ramp
 bip_39_word_space_8: conduct cage ritual able federal offer ramp female
 bip_39_word_space_9: conduct cage ritual able federal offer ramp female elite
+bip_39_word_underscore_1: conduct
+bip_39_word_underscore_10: conduct_cage_ritual_able_federal_offer_ramp_female_elite_tank
+bip_39_word_underscore_11: conduct_cage_ritual_able_federal_offer_ramp_female_elite_tank_town
+bip_39_word_underscore_12: conduct_cage_ritual_able_federal_offer_ramp_female_elite_tank_town_anchor
+bip_39_word_underscore_2: conduct_cage
+bip_39_word_underscore_3: conduct_cage_ritual
+bip_39_word_underscore_4: conduct_cage_ritual_able
+bip_39_word_underscore_5: conduct_cage_ritual_able_federal
+bip_39_word_underscore_6: conduct_cage_ritual_able_federal_offer
+bip_39_word_underscore_7: conduct_cage_ritual_able_federal_offer_ramp
+bip_39_word_underscore_8: conduct_cage_ritual_able_federal_offer_ramp_female
+bip_39_word_underscore_9: conduct_cage_ritual_able_federal_offer_ramp_female_elite
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

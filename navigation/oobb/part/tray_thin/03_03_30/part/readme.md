@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | black |  
+| bip_39_word_dash_10 | black-despair-this-sea-leg-toast-sword-embrace-business-priority |  
+| bip_39_word_dash_11 | black-despair-this-sea-leg-toast-sword-embrace-business-priority-imitate |  
+| bip_39_word_dash_12 | black-despair-this-sea-leg-toast-sword-embrace-business-priority-imitate-aunt |  
+| bip_39_word_dash_2 | black-despair |  
+| bip_39_word_dash_3 | black-despair-this |  
+| bip_39_word_dash_4 | black-despair-this-sea |  
+| bip_39_word_dash_5 | black-despair-this-sea-leg |  
+| bip_39_word_dash_6 | black-despair-this-sea-leg-toast |  
+| bip_39_word_dash_7 | black-despair-this-sea-leg-toast-sword |  
+| bip_39_word_dash_8 | black-despair-this-sea-leg-toast-sword-embrace |  
+| bip_39_word_dash_9 | black-despair-this-sea-leg-toast-sword-embrace-business |  
 | bip_39_word_new_br_1 | black |  
 | bip_39_word_new_br_10 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace<br>business<br>priority |  
 | bip_39_word_new_br_11 | black<br>despair<br>this<br>sea<br>leg<br>toast<br>sword<br>embrace<br>business<br>priority<br>imitate |  
@@ -147,6 +159,18 @@ business |
 | bip_39_word_space_7 | black despair this sea leg toast sword |  
 | bip_39_word_space_8 | black despair this sea leg toast sword embrace |  
 | bip_39_word_space_9 | black despair this sea leg toast sword embrace business |  
+| bip_39_word_underscore_1 | black |  
+| bip_39_word_underscore_10 | black_despair_this_sea_leg_toast_sword_embrace_business_priority |  
+| bip_39_word_underscore_11 | black_despair_this_sea_leg_toast_sword_embrace_business_priority_imitate |  
+| bip_39_word_underscore_12 | black_despair_this_sea_leg_toast_sword_embrace_business_priority_imitate_aunt |  
+| bip_39_word_underscore_2 | black_despair |  
+| bip_39_word_underscore_3 | black_despair_this |  
+| bip_39_word_underscore_4 | black_despair_this_sea |  
+| bip_39_word_underscore_5 | black_despair_this_sea_leg |  
+| bip_39_word_underscore_6 | black_despair_this_sea_leg_toast |  
+| bip_39_word_underscore_7 | black_despair_this_sea_leg_toast_sword |  
+| bip_39_word_underscore_8 | black_despair_this_sea_leg_toast_sword_embrace |  
+| bip_39_word_underscore_9 | black_despair_this_sea_leg_toast_sword_embrace_business |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

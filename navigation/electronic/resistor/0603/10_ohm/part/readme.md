@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fiscal |  
+| bip_39_word_dash_10 | fiscal-food-lazy-rule-just-boil-head-toast-stone-cheap |  
+| bip_39_word_dash_11 | fiscal-food-lazy-rule-just-boil-head-toast-stone-cheap-spoon |  
+| bip_39_word_dash_12 | fiscal-food-lazy-rule-just-boil-head-toast-stone-cheap-spoon-agree |  
+| bip_39_word_dash_2 | fiscal-food |  
+| bip_39_word_dash_3 | fiscal-food-lazy |  
+| bip_39_word_dash_4 | fiscal-food-lazy-rule |  
+| bip_39_word_dash_5 | fiscal-food-lazy-rule-just |  
+| bip_39_word_dash_6 | fiscal-food-lazy-rule-just-boil |  
+| bip_39_word_dash_7 | fiscal-food-lazy-rule-just-boil-head |  
+| bip_39_word_dash_8 | fiscal-food-lazy-rule-just-boil-head-toast |  
+| bip_39_word_dash_9 | fiscal-food-lazy-rule-just-boil-head-toast-stone |  
 | bip_39_word_new_br_1 | fiscal |  
 | bip_39_word_new_br_10 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap |  
 | bip_39_word_new_br_11 | fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap<br>spoon |  
@@ -147,6 +159,18 @@ stone |
 | bip_39_word_space_7 | fiscal food lazy rule just boil head |  
 | bip_39_word_space_8 | fiscal food lazy rule just boil head toast |  
 | bip_39_word_space_9 | fiscal food lazy rule just boil head toast stone |  
+| bip_39_word_underscore_1 | fiscal |  
+| bip_39_word_underscore_10 | fiscal_food_lazy_rule_just_boil_head_toast_stone_cheap |  
+| bip_39_word_underscore_11 | fiscal_food_lazy_rule_just_boil_head_toast_stone_cheap_spoon |  
+| bip_39_word_underscore_12 | fiscal_food_lazy_rule_just_boil_head_toast_stone_cheap_spoon_agree |  
+| bip_39_word_underscore_2 | fiscal_food |  
+| bip_39_word_underscore_3 | fiscal_food_lazy |  
+| bip_39_word_underscore_4 | fiscal_food_lazy_rule |  
+| bip_39_word_underscore_5 | fiscal_food_lazy_rule_just |  
+| bip_39_word_underscore_6 | fiscal_food_lazy_rule_just_boil |  
+| bip_39_word_underscore_7 | fiscal_food_lazy_rule_just_boil_head |  
+| bip_39_word_underscore_8 | fiscal_food_lazy_rule_just_boil_head_toast |  
+| bip_39_word_underscore_9 | fiscal_food_lazy_rule_just_boil_head_toast_stone |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

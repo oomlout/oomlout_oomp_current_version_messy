@@ -1,3 +1,15 @@
+bip_39_word_dash_1: extend
+bip_39_word_dash_10: extend-daring-program-fiction-skull-devote-leg-much-wear-grit
+bip_39_word_dash_11: extend-daring-program-fiction-skull-devote-leg-much-wear-grit-title
+bip_39_word_dash_12: extend-daring-program-fiction-skull-devote-leg-much-wear-grit-title-amazing
+bip_39_word_dash_2: extend-daring
+bip_39_word_dash_3: extend-daring-program
+bip_39_word_dash_4: extend-daring-program-fiction
+bip_39_word_dash_5: extend-daring-program-fiction-skull
+bip_39_word_dash_6: extend-daring-program-fiction-skull-devote
+bip_39_word_dash_7: extend-daring-program-fiction-skull-devote-leg
+bip_39_word_dash_8: extend-daring-program-fiction-skull-devote-leg-much
+bip_39_word_dash_9: extend-daring-program-fiction-skull-devote-leg-much-wear
 bip_39_word_new_br_1: extend
 bip_39_word_new_br_10: extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit
 bip_39_word_new_br_11: extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit<br>title
@@ -193,6 +205,18 @@ bip_39_word_space_6: extend daring program fiction skull devote
 bip_39_word_space_7: extend daring program fiction skull devote leg
 bip_39_word_space_8: extend daring program fiction skull devote leg much
 bip_39_word_space_9: extend daring program fiction skull devote leg much wear
+bip_39_word_underscore_1: extend
+bip_39_word_underscore_10: extend_daring_program_fiction_skull_devote_leg_much_wear_grit
+bip_39_word_underscore_11: extend_daring_program_fiction_skull_devote_leg_much_wear_grit_title
+bip_39_word_underscore_12: extend_daring_program_fiction_skull_devote_leg_much_wear_grit_title_amazing
+bip_39_word_underscore_2: extend_daring
+bip_39_word_underscore_3: extend_daring_program
+bip_39_word_underscore_4: extend_daring_program_fiction
+bip_39_word_underscore_5: extend_daring_program_fiction_skull
+bip_39_word_underscore_6: extend_daring_program_fiction_skull_devote
+bip_39_word_underscore_7: extend_daring_program_fiction_skull_devote_leg
+bip_39_word_underscore_8: extend_daring_program_fiction_skull_devote_leg_much
+bip_39_word_underscore_9: extend_daring_program_fiction_skull_devote_leg_much_wear
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

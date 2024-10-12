@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | okay |  
+| bip_39_word_dash_10 | okay-ozone-skirt-tennis-finish-great-hundred-afraid-gospel-champion |  
+| bip_39_word_dash_11 | okay-ozone-skirt-tennis-finish-great-hundred-afraid-gospel-champion-ugly |  
+| bip_39_word_dash_12 | okay-ozone-skirt-tennis-finish-great-hundred-afraid-gospel-champion-ugly-arm |  
+| bip_39_word_dash_2 | okay-ozone |  
+| bip_39_word_dash_3 | okay-ozone-skirt |  
+| bip_39_word_dash_4 | okay-ozone-skirt-tennis |  
+| bip_39_word_dash_5 | okay-ozone-skirt-tennis-finish |  
+| bip_39_word_dash_6 | okay-ozone-skirt-tennis-finish-great |  
+| bip_39_word_dash_7 | okay-ozone-skirt-tennis-finish-great-hundred |  
+| bip_39_word_dash_8 | okay-ozone-skirt-tennis-finish-great-hundred-afraid |  
+| bip_39_word_dash_9 | okay-ozone-skirt-tennis-finish-great-hundred-afraid-gospel |  
 | bip_39_word_new_br_1 | okay |  
 | bip_39_word_new_br_10 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion |  
 | bip_39_word_new_br_11 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion<br>ugly |  
@@ -147,6 +159,18 @@ gospel |
 | bip_39_word_space_7 | okay ozone skirt tennis finish great hundred |  
 | bip_39_word_space_8 | okay ozone skirt tennis finish great hundred afraid |  
 | bip_39_word_space_9 | okay ozone skirt tennis finish great hundred afraid gospel |  
+| bip_39_word_underscore_1 | okay |  
+| bip_39_word_underscore_10 | okay_ozone_skirt_tennis_finish_great_hundred_afraid_gospel_champion |  
+| bip_39_word_underscore_11 | okay_ozone_skirt_tennis_finish_great_hundred_afraid_gospel_champion_ugly |  
+| bip_39_word_underscore_12 | okay_ozone_skirt_tennis_finish_great_hundred_afraid_gospel_champion_ugly_arm |  
+| bip_39_word_underscore_2 | okay_ozone |  
+| bip_39_word_underscore_3 | okay_ozone_skirt |  
+| bip_39_word_underscore_4 | okay_ozone_skirt_tennis |  
+| bip_39_word_underscore_5 | okay_ozone_skirt_tennis_finish |  
+| bip_39_word_underscore_6 | okay_ozone_skirt_tennis_finish_great |  
+| bip_39_word_underscore_7 | okay_ozone_skirt_tennis_finish_great_hundred |  
+| bip_39_word_underscore_8 | okay_ozone_skirt_tennis_finish_great_hundred_afraid |  
+| bip_39_word_underscore_9 | okay_ozone_skirt_tennis_finish_great_hundred_afraid_gospel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

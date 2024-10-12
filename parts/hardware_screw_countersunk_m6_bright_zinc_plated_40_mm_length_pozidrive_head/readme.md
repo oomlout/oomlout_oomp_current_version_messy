@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | end |  
+| bip_39_word_dash_10 | end-tonight-day-scene-canal-inform-balcony-catalog-remind-grab |  
+| bip_39_word_dash_11 | end-tonight-day-scene-canal-inform-balcony-catalog-remind-grab-poverty |  
+| bip_39_word_dash_12 | end-tonight-day-scene-canal-inform-balcony-catalog-remind-grab-poverty-assault |  
+| bip_39_word_dash_2 | end-tonight |  
+| bip_39_word_dash_3 | end-tonight-day |  
+| bip_39_word_dash_4 | end-tonight-day-scene |  
+| bip_39_word_dash_5 | end-tonight-day-scene-canal |  
+| bip_39_word_dash_6 | end-tonight-day-scene-canal-inform |  
+| bip_39_word_dash_7 | end-tonight-day-scene-canal-inform-balcony |  
+| bip_39_word_dash_8 | end-tonight-day-scene-canal-inform-balcony-catalog |  
+| bip_39_word_dash_9 | end-tonight-day-scene-canal-inform-balcony-catalog-remind |  
 | bip_39_word_new_br_1 | end |  
 | bip_39_word_new_br_10 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab |  
 | bip_39_word_new_br_11 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab<br>poverty |  
@@ -147,6 +159,18 @@ remind |
 | bip_39_word_space_7 | end tonight day scene canal inform balcony |  
 | bip_39_word_space_8 | end tonight day scene canal inform balcony catalog |  
 | bip_39_word_space_9 | end tonight day scene canal inform balcony catalog remind |  
+| bip_39_word_underscore_1 | end |  
+| bip_39_word_underscore_10 | end_tonight_day_scene_canal_inform_balcony_catalog_remind_grab |  
+| bip_39_word_underscore_11 | end_tonight_day_scene_canal_inform_balcony_catalog_remind_grab_poverty |  
+| bip_39_word_underscore_12 | end_tonight_day_scene_canal_inform_balcony_catalog_remind_grab_poverty_assault |  
+| bip_39_word_underscore_2 | end_tonight |  
+| bip_39_word_underscore_3 | end_tonight_day |  
+| bip_39_word_underscore_4 | end_tonight_day_scene |  
+| bip_39_word_underscore_5 | end_tonight_day_scene_canal |  
+| bip_39_word_underscore_6 | end_tonight_day_scene_canal_inform |  
+| bip_39_word_underscore_7 | end_tonight_day_scene_canal_inform_balcony |  
+| bip_39_word_underscore_8 | end_tonight_day_scene_canal_inform_balcony_catalog |  
+| bip_39_word_underscore_9 | end_tonight_day_scene_canal_inform_balcony_catalog_remind |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

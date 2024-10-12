@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bean
+bip_39_word_dash_10: bean-wool-relief-loan-rebel-category-biology-summer-cloud-black
+bip_39_word_dash_11: bean-wool-relief-loan-rebel-category-biology-summer-cloud-black-pigeon
+bip_39_word_dash_12: bean-wool-relief-loan-rebel-category-biology-summer-cloud-black-pigeon-anxiety
+bip_39_word_dash_2: bean-wool
+bip_39_word_dash_3: bean-wool-relief
+bip_39_word_dash_4: bean-wool-relief-loan
+bip_39_word_dash_5: bean-wool-relief-loan-rebel
+bip_39_word_dash_6: bean-wool-relief-loan-rebel-category
+bip_39_word_dash_7: bean-wool-relief-loan-rebel-category-biology
+bip_39_word_dash_8: bean-wool-relief-loan-rebel-category-biology-summer
+bip_39_word_dash_9: bean-wool-relief-loan-rebel-category-biology-summer-cloud
 bip_39_word_new_br_1: bean
 bip_39_word_new_br_10: bean<br>wool<br>relief<br>loan<br>rebel<br>category<br>biology<br>summer<br>cloud<br>black
 bip_39_word_new_br_11: bean<br>wool<br>relief<br>loan<br>rebel<br>category<br>biology<br>summer<br>cloud<br>black<br>pigeon
@@ -193,6 +205,18 @@ bip_39_word_space_6: bean wool relief loan rebel category
 bip_39_word_space_7: bean wool relief loan rebel category biology
 bip_39_word_space_8: bean wool relief loan rebel category biology summer
 bip_39_word_space_9: bean wool relief loan rebel category biology summer cloud
+bip_39_word_underscore_1: bean
+bip_39_word_underscore_10: bean_wool_relief_loan_rebel_category_biology_summer_cloud_black
+bip_39_word_underscore_11: bean_wool_relief_loan_rebel_category_biology_summer_cloud_black_pigeon
+bip_39_word_underscore_12: bean_wool_relief_loan_rebel_category_biology_summer_cloud_black_pigeon_anxiety
+bip_39_word_underscore_2: bean_wool
+bip_39_word_underscore_3: bean_wool_relief
+bip_39_word_underscore_4: bean_wool_relief_loan
+bip_39_word_underscore_5: bean_wool_relief_loan_rebel
+bip_39_word_underscore_6: bean_wool_relief_loan_rebel_category
+bip_39_word_underscore_7: bean_wool_relief_loan_rebel_category_biology
+bip_39_word_underscore_8: bean_wool_relief_loan_rebel_category_biology_summer
+bip_39_word_underscore_9: bean_wool_relief_loan_rebel_category_biology_summer_cloud
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

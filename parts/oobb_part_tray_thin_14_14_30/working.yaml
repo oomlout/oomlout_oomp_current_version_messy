@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leg
+bip_39_word_dash_10: leg-canyon-twice-loop-foil-dog-unveil-seven-school-feed
+bip_39_word_dash_11: leg-canyon-twice-loop-foil-dog-unveil-seven-school-feed-sleep
+bip_39_word_dash_12: leg-canyon-twice-loop-foil-dog-unveil-seven-school-feed-sleep-army
+bip_39_word_dash_2: leg-canyon
+bip_39_word_dash_3: leg-canyon-twice
+bip_39_word_dash_4: leg-canyon-twice-loop
+bip_39_word_dash_5: leg-canyon-twice-loop-foil
+bip_39_word_dash_6: leg-canyon-twice-loop-foil-dog
+bip_39_word_dash_7: leg-canyon-twice-loop-foil-dog-unveil
+bip_39_word_dash_8: leg-canyon-twice-loop-foil-dog-unveil-seven
+bip_39_word_dash_9: leg-canyon-twice-loop-foil-dog-unveil-seven-school
 bip_39_word_new_br_1: leg
 bip_39_word_new_br_10: leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven<br>school<br>feed
 bip_39_word_new_br_11: leg<br>canyon<br>twice<br>loop<br>foil<br>dog<br>unveil<br>seven<br>school<br>feed<br>sleep
@@ -192,6 +204,18 @@ bip_39_word_space_6: leg canyon twice loop foil dog
 bip_39_word_space_7: leg canyon twice loop foil dog unveil
 bip_39_word_space_8: leg canyon twice loop foil dog unveil seven
 bip_39_word_space_9: leg canyon twice loop foil dog unveil seven school
+bip_39_word_underscore_1: leg
+bip_39_word_underscore_10: leg_canyon_twice_loop_foil_dog_unveil_seven_school_feed
+bip_39_word_underscore_11: leg_canyon_twice_loop_foil_dog_unveil_seven_school_feed_sleep
+bip_39_word_underscore_12: leg_canyon_twice_loop_foil_dog_unveil_seven_school_feed_sleep_army
+bip_39_word_underscore_2: leg_canyon
+bip_39_word_underscore_3: leg_canyon_twice
+bip_39_word_underscore_4: leg_canyon_twice_loop
+bip_39_word_underscore_5: leg_canyon_twice_loop_foil
+bip_39_word_underscore_6: leg_canyon_twice_loop_foil_dog
+bip_39_word_underscore_7: leg_canyon_twice_loop_foil_dog_unveil
+bip_39_word_underscore_8: leg_canyon_twice_loop_foil_dog_unveil_seven
+bip_39_word_underscore_9: leg_canyon_twice_loop_foil_dog_unveil_seven_school
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

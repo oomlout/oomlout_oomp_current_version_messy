@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spy
+bip_39_word_dash_10: spy-reduce-reunion-laptop-aware-artist-desert-try-genius-target
+bip_39_word_dash_11: spy-reduce-reunion-laptop-aware-artist-desert-try-genius-target-member
+bip_39_word_dash_12: spy-reduce-reunion-laptop-aware-artist-desert-try-genius-target-member-abuse
+bip_39_word_dash_2: spy-reduce
+bip_39_word_dash_3: spy-reduce-reunion
+bip_39_word_dash_4: spy-reduce-reunion-laptop
+bip_39_word_dash_5: spy-reduce-reunion-laptop-aware
+bip_39_word_dash_6: spy-reduce-reunion-laptop-aware-artist
+bip_39_word_dash_7: spy-reduce-reunion-laptop-aware-artist-desert
+bip_39_word_dash_8: spy-reduce-reunion-laptop-aware-artist-desert-try
+bip_39_word_dash_9: spy-reduce-reunion-laptop-aware-artist-desert-try-genius
 bip_39_word_new_br_1: spy
 bip_39_word_new_br_10: spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target
 bip_39_word_new_br_11: spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target<br>member
@@ -193,6 +205,18 @@ bip_39_word_space_6: spy reduce reunion laptop aware artist
 bip_39_word_space_7: spy reduce reunion laptop aware artist desert
 bip_39_word_space_8: spy reduce reunion laptop aware artist desert try
 bip_39_word_space_9: spy reduce reunion laptop aware artist desert try genius
+bip_39_word_underscore_1: spy
+bip_39_word_underscore_10: spy_reduce_reunion_laptop_aware_artist_desert_try_genius_target
+bip_39_word_underscore_11: spy_reduce_reunion_laptop_aware_artist_desert_try_genius_target_member
+bip_39_word_underscore_12: spy_reduce_reunion_laptop_aware_artist_desert_try_genius_target_member_abuse
+bip_39_word_underscore_2: spy_reduce
+bip_39_word_underscore_3: spy_reduce_reunion
+bip_39_word_underscore_4: spy_reduce_reunion_laptop
+bip_39_word_underscore_5: spy_reduce_reunion_laptop_aware
+bip_39_word_underscore_6: spy_reduce_reunion_laptop_aware_artist
+bip_39_word_underscore_7: spy_reduce_reunion_laptop_aware_artist_desert
+bip_39_word_underscore_8: spy_reduce_reunion_laptop_aware_artist_desert_try
+bip_39_word_underscore_9: spy_reduce_reunion_laptop_aware_artist_desert_try_genius
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brother |  
+| bip_39_word_dash_10 | brother-skin-alpha-scare-swamp-present-silk-damp-floor-skirt |  
+| bip_39_word_dash_11 | brother-skin-alpha-scare-swamp-present-silk-damp-floor-skirt-globe |  
+| bip_39_word_dash_12 | brother-skin-alpha-scare-swamp-present-silk-damp-floor-skirt-globe-addict |  
+| bip_39_word_dash_2 | brother-skin |  
+| bip_39_word_dash_3 | brother-skin-alpha |  
+| bip_39_word_dash_4 | brother-skin-alpha-scare |  
+| bip_39_word_dash_5 | brother-skin-alpha-scare-swamp |  
+| bip_39_word_dash_6 | brother-skin-alpha-scare-swamp-present |  
+| bip_39_word_dash_7 | brother-skin-alpha-scare-swamp-present-silk |  
+| bip_39_word_dash_8 | brother-skin-alpha-scare-swamp-present-silk-damp |  
+| bip_39_word_dash_9 | brother-skin-alpha-scare-swamp-present-silk-damp-floor |  
 | bip_39_word_new_br_1 | brother |  
 | bip_39_word_new_br_10 | brother<br>skin<br>alpha<br>scare<br>swamp<br>present<br>silk<br>damp<br>floor<br>skirt |  
 | bip_39_word_new_br_11 | brother<br>skin<br>alpha<br>scare<br>swamp<br>present<br>silk<br>damp<br>floor<br>skirt<br>globe |  
@@ -147,6 +159,18 @@ floor |
 | bip_39_word_space_7 | brother skin alpha scare swamp present silk |  
 | bip_39_word_space_8 | brother skin alpha scare swamp present silk damp |  
 | bip_39_word_space_9 | brother skin alpha scare swamp present silk damp floor |  
+| bip_39_word_underscore_1 | brother |  
+| bip_39_word_underscore_10 | brother_skin_alpha_scare_swamp_present_silk_damp_floor_skirt |  
+| bip_39_word_underscore_11 | brother_skin_alpha_scare_swamp_present_silk_damp_floor_skirt_globe |  
+| bip_39_word_underscore_12 | brother_skin_alpha_scare_swamp_present_silk_damp_floor_skirt_globe_addict |  
+| bip_39_word_underscore_2 | brother_skin |  
+| bip_39_word_underscore_3 | brother_skin_alpha |  
+| bip_39_word_underscore_4 | brother_skin_alpha_scare |  
+| bip_39_word_underscore_5 | brother_skin_alpha_scare_swamp |  
+| bip_39_word_underscore_6 | brother_skin_alpha_scare_swamp_present |  
+| bip_39_word_underscore_7 | brother_skin_alpha_scare_swamp_present_silk |  
+| bip_39_word_underscore_8 | brother_skin_alpha_scare_swamp_present_silk_damp |  
+| bip_39_word_underscore_9 | brother_skin_alpha_scare_swamp_present_silk_damp_floor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

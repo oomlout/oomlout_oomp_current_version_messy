@@ -1,3 +1,15 @@
+bip_39_word_dash_1: indoor
+bip_39_word_dash_10: indoor-artist-garbage-reunion-stable-boat-sick-series-fuel-unique
+bip_39_word_dash_11: indoor-artist-garbage-reunion-stable-boat-sick-series-fuel-unique-clinic
+bip_39_word_dash_12: indoor-artist-garbage-reunion-stable-boat-sick-series-fuel-unique-clinic-analyst
+bip_39_word_dash_2: indoor-artist
+bip_39_word_dash_3: indoor-artist-garbage
+bip_39_word_dash_4: indoor-artist-garbage-reunion
+bip_39_word_dash_5: indoor-artist-garbage-reunion-stable
+bip_39_word_dash_6: indoor-artist-garbage-reunion-stable-boat
+bip_39_word_dash_7: indoor-artist-garbage-reunion-stable-boat-sick
+bip_39_word_dash_8: indoor-artist-garbage-reunion-stable-boat-sick-series
+bip_39_word_dash_9: indoor-artist-garbage-reunion-stable-boat-sick-series-fuel
 bip_39_word_new_br_1: indoor
 bip_39_word_new_br_10: indoor<br>artist<br>garbage<br>reunion<br>stable<br>boat<br>sick<br>series<br>fuel<br>unique
 bip_39_word_new_br_11: indoor<br>artist<br>garbage<br>reunion<br>stable<br>boat<br>sick<br>series<br>fuel<br>unique<br>clinic
@@ -193,6 +205,18 @@ bip_39_word_space_6: indoor artist garbage reunion stable boat
 bip_39_word_space_7: indoor artist garbage reunion stable boat sick
 bip_39_word_space_8: indoor artist garbage reunion stable boat sick series
 bip_39_word_space_9: indoor artist garbage reunion stable boat sick series fuel
+bip_39_word_underscore_1: indoor
+bip_39_word_underscore_10: indoor_artist_garbage_reunion_stable_boat_sick_series_fuel_unique
+bip_39_word_underscore_11: indoor_artist_garbage_reunion_stable_boat_sick_series_fuel_unique_clinic
+bip_39_word_underscore_12: indoor_artist_garbage_reunion_stable_boat_sick_series_fuel_unique_clinic_analyst
+bip_39_word_underscore_2: indoor_artist
+bip_39_word_underscore_3: indoor_artist_garbage
+bip_39_word_underscore_4: indoor_artist_garbage_reunion
+bip_39_word_underscore_5: indoor_artist_garbage_reunion_stable
+bip_39_word_underscore_6: indoor_artist_garbage_reunion_stable_boat
+bip_39_word_underscore_7: indoor_artist_garbage_reunion_stable_boat_sick
+bip_39_word_underscore_8: indoor_artist_garbage_reunion_stable_boat_sick_series
+bip_39_word_underscore_9: indoor_artist_garbage_reunion_stable_boat_sick_series_fuel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

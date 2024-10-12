@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tuna |  
+| bip_39_word_dash_10 | tuna-cloth-clerk-occur-wrong-keep-riot-salon-post-aerobic |  
+| bip_39_word_dash_11 | tuna-cloth-clerk-occur-wrong-keep-riot-salon-post-aerobic-volume |  
+| bip_39_word_dash_12 | tuna-cloth-clerk-occur-wrong-keep-riot-salon-post-aerobic-volume-alone |  
+| bip_39_word_dash_2 | tuna-cloth |  
+| bip_39_word_dash_3 | tuna-cloth-clerk |  
+| bip_39_word_dash_4 | tuna-cloth-clerk-occur |  
+| bip_39_word_dash_5 | tuna-cloth-clerk-occur-wrong |  
+| bip_39_word_dash_6 | tuna-cloth-clerk-occur-wrong-keep |  
+| bip_39_word_dash_7 | tuna-cloth-clerk-occur-wrong-keep-riot |  
+| bip_39_word_dash_8 | tuna-cloth-clerk-occur-wrong-keep-riot-salon |  
+| bip_39_word_dash_9 | tuna-cloth-clerk-occur-wrong-keep-riot-salon-post |  
 | bip_39_word_new_br_1 | tuna |  
 | bip_39_word_new_br_10 | tuna<br>cloth<br>clerk<br>occur<br>wrong<br>keep<br>riot<br>salon<br>post<br>aerobic |  
 | bip_39_word_new_br_11 | tuna<br>cloth<br>clerk<br>occur<br>wrong<br>keep<br>riot<br>salon<br>post<br>aerobic<br>volume |  
@@ -147,6 +159,18 @@ post |
 | bip_39_word_space_7 | tuna cloth clerk occur wrong keep riot |  
 | bip_39_word_space_8 | tuna cloth clerk occur wrong keep riot salon |  
 | bip_39_word_space_9 | tuna cloth clerk occur wrong keep riot salon post |  
+| bip_39_word_underscore_1 | tuna |  
+| bip_39_word_underscore_10 | tuna_cloth_clerk_occur_wrong_keep_riot_salon_post_aerobic |  
+| bip_39_word_underscore_11 | tuna_cloth_clerk_occur_wrong_keep_riot_salon_post_aerobic_volume |  
+| bip_39_word_underscore_12 | tuna_cloth_clerk_occur_wrong_keep_riot_salon_post_aerobic_volume_alone |  
+| bip_39_word_underscore_2 | tuna_cloth |  
+| bip_39_word_underscore_3 | tuna_cloth_clerk |  
+| bip_39_word_underscore_4 | tuna_cloth_clerk_occur |  
+| bip_39_word_underscore_5 | tuna_cloth_clerk_occur_wrong |  
+| bip_39_word_underscore_6 | tuna_cloth_clerk_occur_wrong_keep |  
+| bip_39_word_underscore_7 | tuna_cloth_clerk_occur_wrong_keep_riot |  
+| bip_39_word_underscore_8 | tuna_cloth_clerk_occur_wrong_keep_riot_salon |  
+| bip_39_word_underscore_9 | tuna_cloth_clerk_occur_wrong_keep_riot_salon_post |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

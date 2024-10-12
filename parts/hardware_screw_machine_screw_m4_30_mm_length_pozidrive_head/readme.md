@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | copy |  
+| bip_39_word_dash_10 | copy-planet-mean-economy-picture-topple-attract-door-talent-upgrade |  
+| bip_39_word_dash_11 | copy-planet-mean-economy-picture-topple-attract-door-talent-upgrade-fee |  
+| bip_39_word_dash_12 | copy-planet-mean-economy-picture-topple-attract-door-talent-upgrade-fee-arrive |  
+| bip_39_word_dash_2 | copy-planet |  
+| bip_39_word_dash_3 | copy-planet-mean |  
+| bip_39_word_dash_4 | copy-planet-mean-economy |  
+| bip_39_word_dash_5 | copy-planet-mean-economy-picture |  
+| bip_39_word_dash_6 | copy-planet-mean-economy-picture-topple |  
+| bip_39_word_dash_7 | copy-planet-mean-economy-picture-topple-attract |  
+| bip_39_word_dash_8 | copy-planet-mean-economy-picture-topple-attract-door |  
+| bip_39_word_dash_9 | copy-planet-mean-economy-picture-topple-attract-door-talent |  
 | bip_39_word_new_br_1 | copy |  
 | bip_39_word_new_br_10 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door<br>talent<br>upgrade |  
 | bip_39_word_new_br_11 | copy<br>planet<br>mean<br>economy<br>picture<br>topple<br>attract<br>door<br>talent<br>upgrade<br>fee |  
@@ -147,6 +159,18 @@ talent |
 | bip_39_word_space_7 | copy planet mean economy picture topple attract |  
 | bip_39_word_space_8 | copy planet mean economy picture topple attract door |  
 | bip_39_word_space_9 | copy planet mean economy picture topple attract door talent |  
+| bip_39_word_underscore_1 | copy |  
+| bip_39_word_underscore_10 | copy_planet_mean_economy_picture_topple_attract_door_talent_upgrade |  
+| bip_39_word_underscore_11 | copy_planet_mean_economy_picture_topple_attract_door_talent_upgrade_fee |  
+| bip_39_word_underscore_12 | copy_planet_mean_economy_picture_topple_attract_door_talent_upgrade_fee_arrive |  
+| bip_39_word_underscore_2 | copy_planet |  
+| bip_39_word_underscore_3 | copy_planet_mean |  
+| bip_39_word_underscore_4 | copy_planet_mean_economy |  
+| bip_39_word_underscore_5 | copy_planet_mean_economy_picture |  
+| bip_39_word_underscore_6 | copy_planet_mean_economy_picture_topple |  
+| bip_39_word_underscore_7 | copy_planet_mean_economy_picture_topple_attract |  
+| bip_39_word_underscore_8 | copy_planet_mean_economy_picture_topple_attract_door |  
+| bip_39_word_underscore_9 | copy_planet_mean_economy_picture_topple_attract_door_talent |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

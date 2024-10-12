@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | direct |  
+| bip_39_word_dash_10 | direct-upper-horse-junk-input-tunnel-balance-theory-bulk-timber |  
+| bip_39_word_dash_11 | direct-upper-horse-junk-input-tunnel-balance-theory-bulk-timber-solar |  
+| bip_39_word_dash_12 | direct-upper-horse-junk-input-tunnel-balance-theory-bulk-timber-solar-anxiety |  
+| bip_39_word_dash_2 | direct-upper |  
+| bip_39_word_dash_3 | direct-upper-horse |  
+| bip_39_word_dash_4 | direct-upper-horse-junk |  
+| bip_39_word_dash_5 | direct-upper-horse-junk-input |  
+| bip_39_word_dash_6 | direct-upper-horse-junk-input-tunnel |  
+| bip_39_word_dash_7 | direct-upper-horse-junk-input-tunnel-balance |  
+| bip_39_word_dash_8 | direct-upper-horse-junk-input-tunnel-balance-theory |  
+| bip_39_word_dash_9 | direct-upper-horse-junk-input-tunnel-balance-theory-bulk |  
 | bip_39_word_new_br_1 | direct |  
 | bip_39_word_new_br_10 | direct<br>upper<br>horse<br>junk<br>input<br>tunnel<br>balance<br>theory<br>bulk<br>timber |  
 | bip_39_word_new_br_11 | direct<br>upper<br>horse<br>junk<br>input<br>tunnel<br>balance<br>theory<br>bulk<br>timber<br>solar |  
@@ -147,6 +159,18 @@ bulk |
 | bip_39_word_space_7 | direct upper horse junk input tunnel balance |  
 | bip_39_word_space_8 | direct upper horse junk input tunnel balance theory |  
 | bip_39_word_space_9 | direct upper horse junk input tunnel balance theory bulk |  
+| bip_39_word_underscore_1 | direct |  
+| bip_39_word_underscore_10 | direct_upper_horse_junk_input_tunnel_balance_theory_bulk_timber |  
+| bip_39_word_underscore_11 | direct_upper_horse_junk_input_tunnel_balance_theory_bulk_timber_solar |  
+| bip_39_word_underscore_12 | direct_upper_horse_junk_input_tunnel_balance_theory_bulk_timber_solar_anxiety |  
+| bip_39_word_underscore_2 | direct_upper |  
+| bip_39_word_underscore_3 | direct_upper_horse |  
+| bip_39_word_underscore_4 | direct_upper_horse_junk |  
+| bip_39_word_underscore_5 | direct_upper_horse_junk_input |  
+| bip_39_word_underscore_6 | direct_upper_horse_junk_input_tunnel |  
+| bip_39_word_underscore_7 | direct_upper_horse_junk_input_tunnel_balance |  
+| bip_39_word_underscore_8 | direct_upper_horse_junk_input_tunnel_balance_theory |  
+| bip_39_word_underscore_9 | direct_upper_horse_junk_input_tunnel_balance_theory_bulk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

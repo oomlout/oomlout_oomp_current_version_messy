@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wish |  
+| bip_39_word_dash_10 | wish-furnace-tiny-deliver-slight-leg-fatal-copper-depth-trend |  
+| bip_39_word_dash_11 | wish-furnace-tiny-deliver-slight-leg-fatal-copper-depth-trend-gaze |  
+| bip_39_word_dash_12 | wish-furnace-tiny-deliver-slight-leg-fatal-copper-depth-trend-gaze-addict |  
+| bip_39_word_dash_2 | wish-furnace |  
+| bip_39_word_dash_3 | wish-furnace-tiny |  
+| bip_39_word_dash_4 | wish-furnace-tiny-deliver |  
+| bip_39_word_dash_5 | wish-furnace-tiny-deliver-slight |  
+| bip_39_word_dash_6 | wish-furnace-tiny-deliver-slight-leg |  
+| bip_39_word_dash_7 | wish-furnace-tiny-deliver-slight-leg-fatal |  
+| bip_39_word_dash_8 | wish-furnace-tiny-deliver-slight-leg-fatal-copper |  
+| bip_39_word_dash_9 | wish-furnace-tiny-deliver-slight-leg-fatal-copper-depth |  
 | bip_39_word_new_br_1 | wish |  
 | bip_39_word_new_br_10 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend |  
 | bip_39_word_new_br_11 | wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend<br>gaze |  
@@ -147,6 +159,18 @@ depth |
 | bip_39_word_space_7 | wish furnace tiny deliver slight leg fatal |  
 | bip_39_word_space_8 | wish furnace tiny deliver slight leg fatal copper |  
 | bip_39_word_space_9 | wish furnace tiny deliver slight leg fatal copper depth |  
+| bip_39_word_underscore_1 | wish |  
+| bip_39_word_underscore_10 | wish_furnace_tiny_deliver_slight_leg_fatal_copper_depth_trend |  
+| bip_39_word_underscore_11 | wish_furnace_tiny_deliver_slight_leg_fatal_copper_depth_trend_gaze |  
+| bip_39_word_underscore_12 | wish_furnace_tiny_deliver_slight_leg_fatal_copper_depth_trend_gaze_addict |  
+| bip_39_word_underscore_2 | wish_furnace |  
+| bip_39_word_underscore_3 | wish_furnace_tiny |  
+| bip_39_word_underscore_4 | wish_furnace_tiny_deliver |  
+| bip_39_word_underscore_5 | wish_furnace_tiny_deliver_slight |  
+| bip_39_word_underscore_6 | wish_furnace_tiny_deliver_slight_leg |  
+| bip_39_word_underscore_7 | wish_furnace_tiny_deliver_slight_leg_fatal |  
+| bip_39_word_underscore_8 | wish_furnace_tiny_deliver_slight_leg_fatal_copper |  
+| bip_39_word_underscore_9 | wish_furnace_tiny_deliver_slight_leg_fatal_copper_depth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

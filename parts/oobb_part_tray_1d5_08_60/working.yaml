@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vacuum
+bip_39_word_dash_10: vacuum-protect-distance-carry-hat-crazy-beauty-paddle-day-doll
+bip_39_word_dash_11: vacuum-protect-distance-carry-hat-crazy-beauty-paddle-day-doll-bean
+bip_39_word_dash_12: vacuum-protect-distance-carry-hat-crazy-beauty-paddle-day-doll-bean-address
+bip_39_word_dash_2: vacuum-protect
+bip_39_word_dash_3: vacuum-protect-distance
+bip_39_word_dash_4: vacuum-protect-distance-carry
+bip_39_word_dash_5: vacuum-protect-distance-carry-hat
+bip_39_word_dash_6: vacuum-protect-distance-carry-hat-crazy
+bip_39_word_dash_7: vacuum-protect-distance-carry-hat-crazy-beauty
+bip_39_word_dash_8: vacuum-protect-distance-carry-hat-crazy-beauty-paddle
+bip_39_word_dash_9: vacuum-protect-distance-carry-hat-crazy-beauty-paddle-day
 bip_39_word_new_br_1: vacuum
 bip_39_word_new_br_10: vacuum<br>protect<br>distance<br>carry<br>hat<br>crazy<br>beauty<br>paddle<br>day<br>doll
 bip_39_word_new_br_11: vacuum<br>protect<br>distance<br>carry<br>hat<br>crazy<br>beauty<br>paddle<br>day<br>doll<br>bean
@@ -193,6 +205,18 @@ bip_39_word_space_6: vacuum protect distance carry hat crazy
 bip_39_word_space_7: vacuum protect distance carry hat crazy beauty
 bip_39_word_space_8: vacuum protect distance carry hat crazy beauty paddle
 bip_39_word_space_9: vacuum protect distance carry hat crazy beauty paddle day
+bip_39_word_underscore_1: vacuum
+bip_39_word_underscore_10: vacuum_protect_distance_carry_hat_crazy_beauty_paddle_day_doll
+bip_39_word_underscore_11: vacuum_protect_distance_carry_hat_crazy_beauty_paddle_day_doll_bean
+bip_39_word_underscore_12: vacuum_protect_distance_carry_hat_crazy_beauty_paddle_day_doll_bean_address
+bip_39_word_underscore_2: vacuum_protect
+bip_39_word_underscore_3: vacuum_protect_distance
+bip_39_word_underscore_4: vacuum_protect_distance_carry
+bip_39_word_underscore_5: vacuum_protect_distance_carry_hat
+bip_39_word_underscore_6: vacuum_protect_distance_carry_hat_crazy
+bip_39_word_underscore_7: vacuum_protect_distance_carry_hat_crazy_beauty
+bip_39_word_underscore_8: vacuum_protect_distance_carry_hat_crazy_beauty_paddle
+bip_39_word_underscore_9: vacuum_protect_distance_carry_hat_crazy_beauty_paddle_day
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

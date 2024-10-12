@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | holiday |  
+| bip_39_word_dash_10 | holiday-lamp-donor-absent-twice-brave-fence-ship-jar-enlist |  
+| bip_39_word_dash_11 | holiday-lamp-donor-absent-twice-brave-fence-ship-jar-enlist-lava |  
+| bip_39_word_dash_12 | holiday-lamp-donor-absent-twice-brave-fence-ship-jar-enlist-lava-agent |  
+| bip_39_word_dash_2 | holiday-lamp |  
+| bip_39_word_dash_3 | holiday-lamp-donor |  
+| bip_39_word_dash_4 | holiday-lamp-donor-absent |  
+| bip_39_word_dash_5 | holiday-lamp-donor-absent-twice |  
+| bip_39_word_dash_6 | holiday-lamp-donor-absent-twice-brave |  
+| bip_39_word_dash_7 | holiday-lamp-donor-absent-twice-brave-fence |  
+| bip_39_word_dash_8 | holiday-lamp-donor-absent-twice-brave-fence-ship |  
+| bip_39_word_dash_9 | holiday-lamp-donor-absent-twice-brave-fence-ship-jar |  
 | bip_39_word_new_br_1 | holiday |  
 | bip_39_word_new_br_10 | holiday<br>lamp<br>donor<br>absent<br>twice<br>brave<br>fence<br>ship<br>jar<br>enlist |  
 | bip_39_word_new_br_11 | holiday<br>lamp<br>donor<br>absent<br>twice<br>brave<br>fence<br>ship<br>jar<br>enlist<br>lava |  
@@ -147,6 +159,18 @@ jar |
 | bip_39_word_space_7 | holiday lamp donor absent twice brave fence |  
 | bip_39_word_space_8 | holiday lamp donor absent twice brave fence ship |  
 | bip_39_word_space_9 | holiday lamp donor absent twice brave fence ship jar |  
+| bip_39_word_underscore_1 | holiday |  
+| bip_39_word_underscore_10 | holiday_lamp_donor_absent_twice_brave_fence_ship_jar_enlist |  
+| bip_39_word_underscore_11 | holiday_lamp_donor_absent_twice_brave_fence_ship_jar_enlist_lava |  
+| bip_39_word_underscore_12 | holiday_lamp_donor_absent_twice_brave_fence_ship_jar_enlist_lava_agent |  
+| bip_39_word_underscore_2 | holiday_lamp |  
+| bip_39_word_underscore_3 | holiday_lamp_donor |  
+| bip_39_word_underscore_4 | holiday_lamp_donor_absent |  
+| bip_39_word_underscore_5 | holiday_lamp_donor_absent_twice |  
+| bip_39_word_underscore_6 | holiday_lamp_donor_absent_twice_brave |  
+| bip_39_word_underscore_7 | holiday_lamp_donor_absent_twice_brave_fence |  
+| bip_39_word_underscore_8 | holiday_lamp_donor_absent_twice_brave_fence_ship |  
+| bip_39_word_underscore_9 | holiday_lamp_donor_absent_twice_brave_fence_ship_jar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

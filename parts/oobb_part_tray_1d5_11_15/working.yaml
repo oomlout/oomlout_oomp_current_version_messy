@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brave
+bip_39_word_dash_10: brave-trust-pilot-student-blossom-elegant-umbrella-develop-rhythm-glad
+bip_39_word_dash_11: brave-trust-pilot-student-blossom-elegant-umbrella-develop-rhythm-glad-luxury
+bip_39_word_dash_12: brave-trust-pilot-student-blossom-elegant-umbrella-develop-rhythm-glad-luxury-afford
+bip_39_word_dash_2: brave-trust
+bip_39_word_dash_3: brave-trust-pilot
+bip_39_word_dash_4: brave-trust-pilot-student
+bip_39_word_dash_5: brave-trust-pilot-student-blossom
+bip_39_word_dash_6: brave-trust-pilot-student-blossom-elegant
+bip_39_word_dash_7: brave-trust-pilot-student-blossom-elegant-umbrella
+bip_39_word_dash_8: brave-trust-pilot-student-blossom-elegant-umbrella-develop
+bip_39_word_dash_9: brave-trust-pilot-student-blossom-elegant-umbrella-develop-rhythm
 bip_39_word_new_br_1: brave
 bip_39_word_new_br_10: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad
 bip_39_word_new_br_11: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad<br>luxury
@@ -194,6 +206,18 @@ bip_39_word_space_6: brave trust pilot student blossom elegant
 bip_39_word_space_7: brave trust pilot student blossom elegant umbrella
 bip_39_word_space_8: brave trust pilot student blossom elegant umbrella develop
 bip_39_word_space_9: brave trust pilot student blossom elegant umbrella develop rhythm
+bip_39_word_underscore_1: brave
+bip_39_word_underscore_10: brave_trust_pilot_student_blossom_elegant_umbrella_develop_rhythm_glad
+bip_39_word_underscore_11: brave_trust_pilot_student_blossom_elegant_umbrella_develop_rhythm_glad_luxury
+bip_39_word_underscore_12: brave_trust_pilot_student_blossom_elegant_umbrella_develop_rhythm_glad_luxury_afford
+bip_39_word_underscore_2: brave_trust
+bip_39_word_underscore_3: brave_trust_pilot
+bip_39_word_underscore_4: brave_trust_pilot_student
+bip_39_word_underscore_5: brave_trust_pilot_student_blossom
+bip_39_word_underscore_6: brave_trust_pilot_student_blossom_elegant
+bip_39_word_underscore_7: brave_trust_pilot_student_blossom_elegant_umbrella
+bip_39_word_underscore_8: brave_trust_pilot_student_blossom_elegant_umbrella_develop
+bip_39_word_underscore_9: brave_trust_pilot_student_blossom_elegant_umbrella_develop_rhythm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

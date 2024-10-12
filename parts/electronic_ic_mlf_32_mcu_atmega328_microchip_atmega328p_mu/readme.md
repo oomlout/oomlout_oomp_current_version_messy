@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | poem |  
+| bip_39_word_dash_10 | poem-mom-spirit-summer-wait-team-library-teach-swear-believe |  
+| bip_39_word_dash_11 | poem-mom-spirit-summer-wait-team-library-teach-swear-believe-fall |  
+| bip_39_word_dash_12 | poem-mom-spirit-summer-wait-team-library-teach-swear-believe-fall-aspect |  
+| bip_39_word_dash_2 | poem-mom |  
+| bip_39_word_dash_3 | poem-mom-spirit |  
+| bip_39_word_dash_4 | poem-mom-spirit-summer |  
+| bip_39_word_dash_5 | poem-mom-spirit-summer-wait |  
+| bip_39_word_dash_6 | poem-mom-spirit-summer-wait-team |  
+| bip_39_word_dash_7 | poem-mom-spirit-summer-wait-team-library |  
+| bip_39_word_dash_8 | poem-mom-spirit-summer-wait-team-library-teach |  
+| bip_39_word_dash_9 | poem-mom-spirit-summer-wait-team-library-teach-swear |  
 | bip_39_word_new_br_1 | poem |  
 | bip_39_word_new_br_10 | poem<br>mom<br>spirit<br>summer<br>wait<br>team<br>library<br>teach<br>swear<br>believe |  
 | bip_39_word_new_br_11 | poem<br>mom<br>spirit<br>summer<br>wait<br>team<br>library<br>teach<br>swear<br>believe<br>fall |  
@@ -147,6 +159,18 @@ swear |
 | bip_39_word_space_7 | poem mom spirit summer wait team library |  
 | bip_39_word_space_8 | poem mom spirit summer wait team library teach |  
 | bip_39_word_space_9 | poem mom spirit summer wait team library teach swear |  
+| bip_39_word_underscore_1 | poem |  
+| bip_39_word_underscore_10 | poem_mom_spirit_summer_wait_team_library_teach_swear_believe |  
+| bip_39_word_underscore_11 | poem_mom_spirit_summer_wait_team_library_teach_swear_believe_fall |  
+| bip_39_word_underscore_12 | poem_mom_spirit_summer_wait_team_library_teach_swear_believe_fall_aspect |  
+| bip_39_word_underscore_2 | poem_mom |  
+| bip_39_word_underscore_3 | poem_mom_spirit |  
+| bip_39_word_underscore_4 | poem_mom_spirit_summer |  
+| bip_39_word_underscore_5 | poem_mom_spirit_summer_wait |  
+| bip_39_word_underscore_6 | poem_mom_spirit_summer_wait_team |  
+| bip_39_word_underscore_7 | poem_mom_spirit_summer_wait_team_library |  
+| bip_39_word_underscore_8 | poem_mom_spirit_summer_wait_team_library_teach |  
+| bip_39_word_underscore_9 | poem_mom_spirit_summer_wait_team_library_teach_swear |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

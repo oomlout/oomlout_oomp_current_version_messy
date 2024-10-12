@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pattern |  
+| bip_39_word_dash_10 | pattern-jump-behave-main-muscle-kite-fever-utility-amazing-cereal |  
+| bip_39_word_dash_11 | pattern-jump-behave-main-muscle-kite-fever-utility-amazing-cereal-april |  
+| bip_39_word_dash_12 | pattern-jump-behave-main-muscle-kite-fever-utility-amazing-cereal-april-apple |  
+| bip_39_word_dash_2 | pattern-jump |  
+| bip_39_word_dash_3 | pattern-jump-behave |  
+| bip_39_word_dash_4 | pattern-jump-behave-main |  
+| bip_39_word_dash_5 | pattern-jump-behave-main-muscle |  
+| bip_39_word_dash_6 | pattern-jump-behave-main-muscle-kite |  
+| bip_39_word_dash_7 | pattern-jump-behave-main-muscle-kite-fever |  
+| bip_39_word_dash_8 | pattern-jump-behave-main-muscle-kite-fever-utility |  
+| bip_39_word_dash_9 | pattern-jump-behave-main-muscle-kite-fever-utility-amazing |  
 | bip_39_word_new_br_1 | pattern |  
 | bip_39_word_new_br_10 | pattern<br>jump<br>behave<br>main<br>muscle<br>kite<br>fever<br>utility<br>amazing<br>cereal |  
 | bip_39_word_new_br_11 | pattern<br>jump<br>behave<br>main<br>muscle<br>kite<br>fever<br>utility<br>amazing<br>cereal<br>april |  
@@ -147,6 +159,18 @@ amazing |
 | bip_39_word_space_7 | pattern jump behave main muscle kite fever |  
 | bip_39_word_space_8 | pattern jump behave main muscle kite fever utility |  
 | bip_39_word_space_9 | pattern jump behave main muscle kite fever utility amazing |  
+| bip_39_word_underscore_1 | pattern |  
+| bip_39_word_underscore_10 | pattern_jump_behave_main_muscle_kite_fever_utility_amazing_cereal |  
+| bip_39_word_underscore_11 | pattern_jump_behave_main_muscle_kite_fever_utility_amazing_cereal_april |  
+| bip_39_word_underscore_12 | pattern_jump_behave_main_muscle_kite_fever_utility_amazing_cereal_april_apple |  
+| bip_39_word_underscore_2 | pattern_jump |  
+| bip_39_word_underscore_3 | pattern_jump_behave |  
+| bip_39_word_underscore_4 | pattern_jump_behave_main |  
+| bip_39_word_underscore_5 | pattern_jump_behave_main_muscle |  
+| bip_39_word_underscore_6 | pattern_jump_behave_main_muscle_kite |  
+| bip_39_word_underscore_7 | pattern_jump_behave_main_muscle_kite_fever |  
+| bip_39_word_underscore_8 | pattern_jump_behave_main_muscle_kite_fever_utility |  
+| bip_39_word_underscore_9 | pattern_jump_behave_main_muscle_kite_fever_utility_amazing |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

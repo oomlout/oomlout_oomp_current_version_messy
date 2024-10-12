@@ -1,3 +1,15 @@
+bip_39_word_dash_1: one
+bip_39_word_dash_10: one-weasel-caution-remove-explain-ancient-chicken-winter-usage-genuine
+bip_39_word_dash_11: one-weasel-caution-remove-explain-ancient-chicken-winter-usage-genuine-situate
+bip_39_word_dash_12: one-weasel-caution-remove-explain-ancient-chicken-winter-usage-genuine-situate-amazing
+bip_39_word_dash_2: one-weasel
+bip_39_word_dash_3: one-weasel-caution
+bip_39_word_dash_4: one-weasel-caution-remove
+bip_39_word_dash_5: one-weasel-caution-remove-explain
+bip_39_word_dash_6: one-weasel-caution-remove-explain-ancient
+bip_39_word_dash_7: one-weasel-caution-remove-explain-ancient-chicken
+bip_39_word_dash_8: one-weasel-caution-remove-explain-ancient-chicken-winter
+bip_39_word_dash_9: one-weasel-caution-remove-explain-ancient-chicken-winter-usage
 bip_39_word_new_br_1: one
 bip_39_word_new_br_10: one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine
 bip_39_word_new_br_11: one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine<br>situate
@@ -194,6 +206,18 @@ bip_39_word_space_6: one weasel caution remove explain ancient
 bip_39_word_space_7: one weasel caution remove explain ancient chicken
 bip_39_word_space_8: one weasel caution remove explain ancient chicken winter
 bip_39_word_space_9: one weasel caution remove explain ancient chicken winter usage
+bip_39_word_underscore_1: one
+bip_39_word_underscore_10: one_weasel_caution_remove_explain_ancient_chicken_winter_usage_genuine
+bip_39_word_underscore_11: one_weasel_caution_remove_explain_ancient_chicken_winter_usage_genuine_situate
+bip_39_word_underscore_12: one_weasel_caution_remove_explain_ancient_chicken_winter_usage_genuine_situate_amazing
+bip_39_word_underscore_2: one_weasel
+bip_39_word_underscore_3: one_weasel_caution
+bip_39_word_underscore_4: one_weasel_caution_remove
+bip_39_word_underscore_5: one_weasel_caution_remove_explain
+bip_39_word_underscore_6: one_weasel_caution_remove_explain_ancient
+bip_39_word_underscore_7: one_weasel_caution_remove_explain_ancient_chicken
+bip_39_word_underscore_8: one_weasel_caution_remove_explain_ancient_chicken_winter
+bip_39_word_underscore_9: one_weasel_caution_remove_explain_ancient_chicken_winter_usage
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

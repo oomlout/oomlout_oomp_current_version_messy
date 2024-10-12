@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sniff |  
+| bip_39_word_dash_10 | sniff-measure-foot-smoke-pledge-lawsuit-area-crunch-burden-sign |  
+| bip_39_word_dash_11 | sniff-measure-foot-smoke-pledge-lawsuit-area-crunch-burden-sign-dress |  
+| bip_39_word_dash_12 | sniff-measure-foot-smoke-pledge-lawsuit-area-crunch-burden-sign-dress-attend |  
+| bip_39_word_dash_2 | sniff-measure |  
+| bip_39_word_dash_3 | sniff-measure-foot |  
+| bip_39_word_dash_4 | sniff-measure-foot-smoke |  
+| bip_39_word_dash_5 | sniff-measure-foot-smoke-pledge |  
+| bip_39_word_dash_6 | sniff-measure-foot-smoke-pledge-lawsuit |  
+| bip_39_word_dash_7 | sniff-measure-foot-smoke-pledge-lawsuit-area |  
+| bip_39_word_dash_8 | sniff-measure-foot-smoke-pledge-lawsuit-area-crunch |  
+| bip_39_word_dash_9 | sniff-measure-foot-smoke-pledge-lawsuit-area-crunch-burden |  
 | bip_39_word_new_br_1 | sniff |  
 | bip_39_word_new_br_10 | sniff<br>measure<br>foot<br>smoke<br>pledge<br>lawsuit<br>area<br>crunch<br>burden<br>sign |  
 | bip_39_word_new_br_11 | sniff<br>measure<br>foot<br>smoke<br>pledge<br>lawsuit<br>area<br>crunch<br>burden<br>sign<br>dress |  
@@ -147,6 +159,18 @@ burden |
 | bip_39_word_space_7 | sniff measure foot smoke pledge lawsuit area |  
 | bip_39_word_space_8 | sniff measure foot smoke pledge lawsuit area crunch |  
 | bip_39_word_space_9 | sniff measure foot smoke pledge lawsuit area crunch burden |  
+| bip_39_word_underscore_1 | sniff |  
+| bip_39_word_underscore_10 | sniff_measure_foot_smoke_pledge_lawsuit_area_crunch_burden_sign |  
+| bip_39_word_underscore_11 | sniff_measure_foot_smoke_pledge_lawsuit_area_crunch_burden_sign_dress |  
+| bip_39_word_underscore_12 | sniff_measure_foot_smoke_pledge_lawsuit_area_crunch_burden_sign_dress_attend |  
+| bip_39_word_underscore_2 | sniff_measure |  
+| bip_39_word_underscore_3 | sniff_measure_foot |  
+| bip_39_word_underscore_4 | sniff_measure_foot_smoke |  
+| bip_39_word_underscore_5 | sniff_measure_foot_smoke_pledge |  
+| bip_39_word_underscore_6 | sniff_measure_foot_smoke_pledge_lawsuit |  
+| bip_39_word_underscore_7 | sniff_measure_foot_smoke_pledge_lawsuit_area |  
+| bip_39_word_underscore_8 | sniff_measure_foot_smoke_pledge_lawsuit_area_crunch |  
+| bip_39_word_underscore_9 | sniff_measure_foot_smoke_pledge_lawsuit_area_crunch_burden |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

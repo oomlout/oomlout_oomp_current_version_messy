@@ -1,3 +1,15 @@
+bip_39_word_dash_1: limit
+bip_39_word_dash_10: limit-judge-exhaust-frog-fabric-satisfy-board-excess-notice-night
+bip_39_word_dash_11: limit-judge-exhaust-frog-fabric-satisfy-board-excess-notice-night-olympic
+bip_39_word_dash_12: limit-judge-exhaust-frog-fabric-satisfy-board-excess-notice-night-olympic-artwork
+bip_39_word_dash_2: limit-judge
+bip_39_word_dash_3: limit-judge-exhaust
+bip_39_word_dash_4: limit-judge-exhaust-frog
+bip_39_word_dash_5: limit-judge-exhaust-frog-fabric
+bip_39_word_dash_6: limit-judge-exhaust-frog-fabric-satisfy
+bip_39_word_dash_7: limit-judge-exhaust-frog-fabric-satisfy-board
+bip_39_word_dash_8: limit-judge-exhaust-frog-fabric-satisfy-board-excess
+bip_39_word_dash_9: limit-judge-exhaust-frog-fabric-satisfy-board-excess-notice
 bip_39_word_new_br_1: limit
 bip_39_word_new_br_10: limit<br>judge<br>exhaust<br>frog<br>fabric<br>satisfy<br>board<br>excess<br>notice<br>night
 bip_39_word_new_br_11: limit<br>judge<br>exhaust<br>frog<br>fabric<br>satisfy<br>board<br>excess<br>notice<br>night<br>olympic
@@ -194,6 +206,18 @@ bip_39_word_space_6: limit judge exhaust frog fabric satisfy
 bip_39_word_space_7: limit judge exhaust frog fabric satisfy board
 bip_39_word_space_8: limit judge exhaust frog fabric satisfy board excess
 bip_39_word_space_9: limit judge exhaust frog fabric satisfy board excess notice
+bip_39_word_underscore_1: limit
+bip_39_word_underscore_10: limit_judge_exhaust_frog_fabric_satisfy_board_excess_notice_night
+bip_39_word_underscore_11: limit_judge_exhaust_frog_fabric_satisfy_board_excess_notice_night_olympic
+bip_39_word_underscore_12: limit_judge_exhaust_frog_fabric_satisfy_board_excess_notice_night_olympic_artwork
+bip_39_word_underscore_2: limit_judge
+bip_39_word_underscore_3: limit_judge_exhaust
+bip_39_word_underscore_4: limit_judge_exhaust_frog
+bip_39_word_underscore_5: limit_judge_exhaust_frog_fabric
+bip_39_word_underscore_6: limit_judge_exhaust_frog_fabric_satisfy
+bip_39_word_underscore_7: limit_judge_exhaust_frog_fabric_satisfy_board
+bip_39_word_underscore_8: limit_judge_exhaust_frog_fabric_satisfy_board_excess
+bip_39_word_underscore_9: limit_judge_exhaust_frog_fabric_satisfy_board_excess_notice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

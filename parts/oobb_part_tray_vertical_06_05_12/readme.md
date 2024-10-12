@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | roof |  
+| bip_39_word_dash_10 | roof-palm-mistake-sell-layer-vivid-august-essay-mimic-sport |  
+| bip_39_word_dash_11 | roof-palm-mistake-sell-layer-vivid-august-essay-mimic-sport-kit |  
+| bip_39_word_dash_12 | roof-palm-mistake-sell-layer-vivid-august-essay-mimic-sport-kit-accuse |  
+| bip_39_word_dash_2 | roof-palm |  
+| bip_39_word_dash_3 | roof-palm-mistake |  
+| bip_39_word_dash_4 | roof-palm-mistake-sell |  
+| bip_39_word_dash_5 | roof-palm-mistake-sell-layer |  
+| bip_39_word_dash_6 | roof-palm-mistake-sell-layer-vivid |  
+| bip_39_word_dash_7 | roof-palm-mistake-sell-layer-vivid-august |  
+| bip_39_word_dash_8 | roof-palm-mistake-sell-layer-vivid-august-essay |  
+| bip_39_word_dash_9 | roof-palm-mistake-sell-layer-vivid-august-essay-mimic |  
 | bip_39_word_new_br_1 | roof |  
 | bip_39_word_new_br_10 | roof<br>palm<br>mistake<br>sell<br>layer<br>vivid<br>august<br>essay<br>mimic<br>sport |  
 | bip_39_word_new_br_11 | roof<br>palm<br>mistake<br>sell<br>layer<br>vivid<br>august<br>essay<br>mimic<br>sport<br>kit |  
@@ -147,6 +159,18 @@ mimic |
 | bip_39_word_space_7 | roof palm mistake sell layer vivid august |  
 | bip_39_word_space_8 | roof palm mistake sell layer vivid august essay |  
 | bip_39_word_space_9 | roof palm mistake sell layer vivid august essay mimic |  
+| bip_39_word_underscore_1 | roof |  
+| bip_39_word_underscore_10 | roof_palm_mistake_sell_layer_vivid_august_essay_mimic_sport |  
+| bip_39_word_underscore_11 | roof_palm_mistake_sell_layer_vivid_august_essay_mimic_sport_kit |  
+| bip_39_word_underscore_12 | roof_palm_mistake_sell_layer_vivid_august_essay_mimic_sport_kit_accuse |  
+| bip_39_word_underscore_2 | roof_palm |  
+| bip_39_word_underscore_3 | roof_palm_mistake |  
+| bip_39_word_underscore_4 | roof_palm_mistake_sell |  
+| bip_39_word_underscore_5 | roof_palm_mistake_sell_layer |  
+| bip_39_word_underscore_6 | roof_palm_mistake_sell_layer_vivid |  
+| bip_39_word_underscore_7 | roof_palm_mistake_sell_layer_vivid_august |  
+| bip_39_word_underscore_8 | roof_palm_mistake_sell_layer_vivid_august_essay |  
+| bip_39_word_underscore_9 | roof_palm_mistake_sell_layer_vivid_august_essay_mimic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

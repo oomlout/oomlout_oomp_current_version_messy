@@ -1,3 +1,15 @@
+bip_39_word_dash_1: couch
+bip_39_word_dash_10: couch-absurd-donate-update-drive-throw-broom-pilot-inhale-keep
+bip_39_word_dash_11: couch-absurd-donate-update-drive-throw-broom-pilot-inhale-keep-family
+bip_39_word_dash_12: couch-absurd-donate-update-drive-throw-broom-pilot-inhale-keep-family-annual
+bip_39_word_dash_2: couch-absurd
+bip_39_word_dash_3: couch-absurd-donate
+bip_39_word_dash_4: couch-absurd-donate-update
+bip_39_word_dash_5: couch-absurd-donate-update-drive
+bip_39_word_dash_6: couch-absurd-donate-update-drive-throw
+bip_39_word_dash_7: couch-absurd-donate-update-drive-throw-broom
+bip_39_word_dash_8: couch-absurd-donate-update-drive-throw-broom-pilot
+bip_39_word_dash_9: couch-absurd-donate-update-drive-throw-broom-pilot-inhale
 bip_39_word_new_br_1: couch
 bip_39_word_new_br_10: couch<br>absurd<br>donate<br>update<br>drive<br>throw<br>broom<br>pilot<br>inhale<br>keep
 bip_39_word_new_br_11: couch<br>absurd<br>donate<br>update<br>drive<br>throw<br>broom<br>pilot<br>inhale<br>keep<br>family
@@ -193,6 +205,18 @@ bip_39_word_space_6: couch absurd donate update drive throw
 bip_39_word_space_7: couch absurd donate update drive throw broom
 bip_39_word_space_8: couch absurd donate update drive throw broom pilot
 bip_39_word_space_9: couch absurd donate update drive throw broom pilot inhale
+bip_39_word_underscore_1: couch
+bip_39_word_underscore_10: couch_absurd_donate_update_drive_throw_broom_pilot_inhale_keep
+bip_39_word_underscore_11: couch_absurd_donate_update_drive_throw_broom_pilot_inhale_keep_family
+bip_39_word_underscore_12: couch_absurd_donate_update_drive_throw_broom_pilot_inhale_keep_family_annual
+bip_39_word_underscore_2: couch_absurd
+bip_39_word_underscore_3: couch_absurd_donate
+bip_39_word_underscore_4: couch_absurd_donate_update
+bip_39_word_underscore_5: couch_absurd_donate_update_drive
+bip_39_word_underscore_6: couch_absurd_donate_update_drive_throw
+bip_39_word_underscore_7: couch_absurd_donate_update_drive_throw_broom
+bip_39_word_underscore_8: couch_absurd_donate_update_drive_throw_broom_pilot
+bip_39_word_underscore_9: couch_absurd_donate_update_drive_throw_broom_pilot_inhale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

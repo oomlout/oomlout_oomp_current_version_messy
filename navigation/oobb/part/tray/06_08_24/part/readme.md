@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | razor |  
+| bip_39_word_dash_10 | razor-state-eye-matter-comic-betray-gentle-nominee-party-elite |  
+| bip_39_word_dash_11 | razor-state-eye-matter-comic-betray-gentle-nominee-party-elite-bulb |  
+| bip_39_word_dash_12 | razor-state-eye-matter-comic-betray-gentle-nominee-party-elite-bulb-acquire |  
+| bip_39_word_dash_2 | razor-state |  
+| bip_39_word_dash_3 | razor-state-eye |  
+| bip_39_word_dash_4 | razor-state-eye-matter |  
+| bip_39_word_dash_5 | razor-state-eye-matter-comic |  
+| bip_39_word_dash_6 | razor-state-eye-matter-comic-betray |  
+| bip_39_word_dash_7 | razor-state-eye-matter-comic-betray-gentle |  
+| bip_39_word_dash_8 | razor-state-eye-matter-comic-betray-gentle-nominee |  
+| bip_39_word_dash_9 | razor-state-eye-matter-comic-betray-gentle-nominee-party |  
 | bip_39_word_new_br_1 | razor |  
 | bip_39_word_new_br_10 | razor<br>state<br>eye<br>matter<br>comic<br>betray<br>gentle<br>nominee<br>party<br>elite |  
 | bip_39_word_new_br_11 | razor<br>state<br>eye<br>matter<br>comic<br>betray<br>gentle<br>nominee<br>party<br>elite<br>bulb |  
@@ -147,6 +159,18 @@ party |
 | bip_39_word_space_7 | razor state eye matter comic betray gentle |  
 | bip_39_word_space_8 | razor state eye matter comic betray gentle nominee |  
 | bip_39_word_space_9 | razor state eye matter comic betray gentle nominee party |  
+| bip_39_word_underscore_1 | razor |  
+| bip_39_word_underscore_10 | razor_state_eye_matter_comic_betray_gentle_nominee_party_elite |  
+| bip_39_word_underscore_11 | razor_state_eye_matter_comic_betray_gentle_nominee_party_elite_bulb |  
+| bip_39_word_underscore_12 | razor_state_eye_matter_comic_betray_gentle_nominee_party_elite_bulb_acquire |  
+| bip_39_word_underscore_2 | razor_state |  
+| bip_39_word_underscore_3 | razor_state_eye |  
+| bip_39_word_underscore_4 | razor_state_eye_matter |  
+| bip_39_word_underscore_5 | razor_state_eye_matter_comic |  
+| bip_39_word_underscore_6 | razor_state_eye_matter_comic_betray |  
+| bip_39_word_underscore_7 | razor_state_eye_matter_comic_betray_gentle |  
+| bip_39_word_underscore_8 | razor_state_eye_matter_comic_betray_gentle_nominee |  
+| bip_39_word_underscore_9 | razor_state_eye_matter_comic_betray_gentle_nominee_party |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | margin |  
+| bip_39_word_dash_10 | margin-exhibit-city-material-economy-used-female-turn-shadow-income |  
+| bip_39_word_dash_11 | margin-exhibit-city-material-economy-used-female-turn-shadow-income-switch |  
+| bip_39_word_dash_12 | margin-exhibit-city-material-economy-used-female-turn-shadow-income-switch-advance |  
+| bip_39_word_dash_2 | margin-exhibit |  
+| bip_39_word_dash_3 | margin-exhibit-city |  
+| bip_39_word_dash_4 | margin-exhibit-city-material |  
+| bip_39_word_dash_5 | margin-exhibit-city-material-economy |  
+| bip_39_word_dash_6 | margin-exhibit-city-material-economy-used |  
+| bip_39_word_dash_7 | margin-exhibit-city-material-economy-used-female |  
+| bip_39_word_dash_8 | margin-exhibit-city-material-economy-used-female-turn |  
+| bip_39_word_dash_9 | margin-exhibit-city-material-economy-used-female-turn-shadow |  
 | bip_39_word_new_br_1 | margin |  
 | bip_39_word_new_br_10 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income |  
 | bip_39_word_new_br_11 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income<br>switch |  
@@ -147,6 +159,18 @@ shadow |
 | bip_39_word_space_7 | margin exhibit city material economy used female |  
 | bip_39_word_space_8 | margin exhibit city material economy used female turn |  
 | bip_39_word_space_9 | margin exhibit city material economy used female turn shadow |  
+| bip_39_word_underscore_1 | margin |  
+| bip_39_word_underscore_10 | margin_exhibit_city_material_economy_used_female_turn_shadow_income |  
+| bip_39_word_underscore_11 | margin_exhibit_city_material_economy_used_female_turn_shadow_income_switch |  
+| bip_39_word_underscore_12 | margin_exhibit_city_material_economy_used_female_turn_shadow_income_switch_advance |  
+| bip_39_word_underscore_2 | margin_exhibit |  
+| bip_39_word_underscore_3 | margin_exhibit_city |  
+| bip_39_word_underscore_4 | margin_exhibit_city_material |  
+| bip_39_word_underscore_5 | margin_exhibit_city_material_economy |  
+| bip_39_word_underscore_6 | margin_exhibit_city_material_economy_used |  
+| bip_39_word_underscore_7 | margin_exhibit_city_material_economy_used_female |  
+| bip_39_word_underscore_8 | margin_exhibit_city_material_economy_used_female_turn |  
+| bip_39_word_underscore_9 | margin_exhibit_city_material_economy_used_female_turn_shadow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

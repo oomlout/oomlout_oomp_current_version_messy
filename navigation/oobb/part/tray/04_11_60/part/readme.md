@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | margin |  
+| bip_39_word_dash_10 | margin-gym-erase-fossil-second-manual-warfare-gorilla-relief-column |  
+| bip_39_word_dash_11 | margin-gym-erase-fossil-second-manual-warfare-gorilla-relief-column-symptom |  
+| bip_39_word_dash_12 | margin-gym-erase-fossil-second-manual-warfare-gorilla-relief-column-symptom-asset |  
+| bip_39_word_dash_2 | margin-gym |  
+| bip_39_word_dash_3 | margin-gym-erase |  
+| bip_39_word_dash_4 | margin-gym-erase-fossil |  
+| bip_39_word_dash_5 | margin-gym-erase-fossil-second |  
+| bip_39_word_dash_6 | margin-gym-erase-fossil-second-manual |  
+| bip_39_word_dash_7 | margin-gym-erase-fossil-second-manual-warfare |  
+| bip_39_word_dash_8 | margin-gym-erase-fossil-second-manual-warfare-gorilla |  
+| bip_39_word_dash_9 | margin-gym-erase-fossil-second-manual-warfare-gorilla-relief |  
 | bip_39_word_new_br_1 | margin |  
 | bip_39_word_new_br_10 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column |  
 | bip_39_word_new_br_11 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column<br>symptom |  
@@ -147,6 +159,18 @@ relief |
 | bip_39_word_space_7 | margin gym erase fossil second manual warfare |  
 | bip_39_word_space_8 | margin gym erase fossil second manual warfare gorilla |  
 | bip_39_word_space_9 | margin gym erase fossil second manual warfare gorilla relief |  
+| bip_39_word_underscore_1 | margin |  
+| bip_39_word_underscore_10 | margin_gym_erase_fossil_second_manual_warfare_gorilla_relief_column |  
+| bip_39_word_underscore_11 | margin_gym_erase_fossil_second_manual_warfare_gorilla_relief_column_symptom |  
+| bip_39_word_underscore_12 | margin_gym_erase_fossil_second_manual_warfare_gorilla_relief_column_symptom_asset |  
+| bip_39_word_underscore_2 | margin_gym |  
+| bip_39_word_underscore_3 | margin_gym_erase |  
+| bip_39_word_underscore_4 | margin_gym_erase_fossil |  
+| bip_39_word_underscore_5 | margin_gym_erase_fossil_second |  
+| bip_39_word_underscore_6 | margin_gym_erase_fossil_second_manual |  
+| bip_39_word_underscore_7 | margin_gym_erase_fossil_second_manual_warfare |  
+| bip_39_word_underscore_8 | margin_gym_erase_fossil_second_manual_warfare_gorilla |  
+| bip_39_word_underscore_9 | margin_gym_erase_fossil_second_manual_warfare_gorilla_relief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

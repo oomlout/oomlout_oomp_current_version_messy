@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | liquid |  
+| bip_39_word_dash_10 | liquid-west-business-size-hub-valid-early-impact-target-recycle |  
+| bip_39_word_dash_11 | liquid-west-business-size-hub-valid-early-impact-target-recycle-cannon |  
+| bip_39_word_dash_12 | liquid-west-business-size-hub-valid-early-impact-target-recycle-cannon-angry |  
+| bip_39_word_dash_2 | liquid-west |  
+| bip_39_word_dash_3 | liquid-west-business |  
+| bip_39_word_dash_4 | liquid-west-business-size |  
+| bip_39_word_dash_5 | liquid-west-business-size-hub |  
+| bip_39_word_dash_6 | liquid-west-business-size-hub-valid |  
+| bip_39_word_dash_7 | liquid-west-business-size-hub-valid-early |  
+| bip_39_word_dash_8 | liquid-west-business-size-hub-valid-early-impact |  
+| bip_39_word_dash_9 | liquid-west-business-size-hub-valid-early-impact-target |  
 | bip_39_word_new_br_1 | liquid |  
 | bip_39_word_new_br_10 | liquid<br>west<br>business<br>size<br>hub<br>valid<br>early<br>impact<br>target<br>recycle |  
 | bip_39_word_new_br_11 | liquid<br>west<br>business<br>size<br>hub<br>valid<br>early<br>impact<br>target<br>recycle<br>cannon |  
@@ -147,6 +159,18 @@ target |
 | bip_39_word_space_7 | liquid west business size hub valid early |  
 | bip_39_word_space_8 | liquid west business size hub valid early impact |  
 | bip_39_word_space_9 | liquid west business size hub valid early impact target |  
+| bip_39_word_underscore_1 | liquid |  
+| bip_39_word_underscore_10 | liquid_west_business_size_hub_valid_early_impact_target_recycle |  
+| bip_39_word_underscore_11 | liquid_west_business_size_hub_valid_early_impact_target_recycle_cannon |  
+| bip_39_word_underscore_12 | liquid_west_business_size_hub_valid_early_impact_target_recycle_cannon_angry |  
+| bip_39_word_underscore_2 | liquid_west |  
+| bip_39_word_underscore_3 | liquid_west_business |  
+| bip_39_word_underscore_4 | liquid_west_business_size |  
+| bip_39_word_underscore_5 | liquid_west_business_size_hub |  
+| bip_39_word_underscore_6 | liquid_west_business_size_hub_valid |  
+| bip_39_word_underscore_7 | liquid_west_business_size_hub_valid_early |  
+| bip_39_word_underscore_8 | liquid_west_business_size_hub_valid_early_impact |  
+| bip_39_word_underscore_9 | liquid_west_business_size_hub_valid_early_impact_target |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

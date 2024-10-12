@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reveal |  
+| bip_39_word_dash_10 | reveal-note-almost-employ-today-web-bicycle-father-alert-develop |  
+| bip_39_word_dash_11 | reveal-note-almost-employ-today-web-bicycle-father-alert-develop-ship |  
+| bip_39_word_dash_12 | reveal-note-almost-employ-today-web-bicycle-father-alert-develop-ship-army |  
+| bip_39_word_dash_2 | reveal-note |  
+| bip_39_word_dash_3 | reveal-note-almost |  
+| bip_39_word_dash_4 | reveal-note-almost-employ |  
+| bip_39_word_dash_5 | reveal-note-almost-employ-today |  
+| bip_39_word_dash_6 | reveal-note-almost-employ-today-web |  
+| bip_39_word_dash_7 | reveal-note-almost-employ-today-web-bicycle |  
+| bip_39_word_dash_8 | reveal-note-almost-employ-today-web-bicycle-father |  
+| bip_39_word_dash_9 | reveal-note-almost-employ-today-web-bicycle-father-alert |  
 | bip_39_word_new_br_1 | reveal |  
 | bip_39_word_new_br_10 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop |  
 | bip_39_word_new_br_11 | reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop<br>ship |  
@@ -147,6 +159,18 @@ alert |
 | bip_39_word_space_7 | reveal note almost employ today web bicycle |  
 | bip_39_word_space_8 | reveal note almost employ today web bicycle father |  
 | bip_39_word_space_9 | reveal note almost employ today web bicycle father alert |  
+| bip_39_word_underscore_1 | reveal |  
+| bip_39_word_underscore_10 | reveal_note_almost_employ_today_web_bicycle_father_alert_develop |  
+| bip_39_word_underscore_11 | reveal_note_almost_employ_today_web_bicycle_father_alert_develop_ship |  
+| bip_39_word_underscore_12 | reveal_note_almost_employ_today_web_bicycle_father_alert_develop_ship_army |  
+| bip_39_word_underscore_2 | reveal_note |  
+| bip_39_word_underscore_3 | reveal_note_almost |  
+| bip_39_word_underscore_4 | reveal_note_almost_employ |  
+| bip_39_word_underscore_5 | reveal_note_almost_employ_today |  
+| bip_39_word_underscore_6 | reveal_note_almost_employ_today_web |  
+| bip_39_word_underscore_7 | reveal_note_almost_employ_today_web_bicycle |  
+| bip_39_word_underscore_8 | reveal_note_almost_employ_today_web_bicycle_father |  
+| bip_39_word_underscore_9 | reveal_note_almost_employ_today_web_bicycle_father_alert |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

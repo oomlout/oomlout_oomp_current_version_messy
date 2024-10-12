@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | anger |  
+| bip_39_word_dash_10 | anger-athlete-space-close-despair-symptom-educate-repair-happy-kingdom |  
+| bip_39_word_dash_11 | anger-athlete-space-close-despair-symptom-educate-repair-happy-kingdom-artwork |  
+| bip_39_word_dash_12 | anger-athlete-space-close-despair-symptom-educate-repair-happy-kingdom-artwork-age |  
+| bip_39_word_dash_2 | anger-athlete |  
+| bip_39_word_dash_3 | anger-athlete-space |  
+| bip_39_word_dash_4 | anger-athlete-space-close |  
+| bip_39_word_dash_5 | anger-athlete-space-close-despair |  
+| bip_39_word_dash_6 | anger-athlete-space-close-despair-symptom |  
+| bip_39_word_dash_7 | anger-athlete-space-close-despair-symptom-educate |  
+| bip_39_word_dash_8 | anger-athlete-space-close-despair-symptom-educate-repair |  
+| bip_39_word_dash_9 | anger-athlete-space-close-despair-symptom-educate-repair-happy |  
 | bip_39_word_new_br_1 | anger |  
 | bip_39_word_new_br_10 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair<br>happy<br>kingdom |  
 | bip_39_word_new_br_11 | anger<br>athlete<br>space<br>close<br>despair<br>symptom<br>educate<br>repair<br>happy<br>kingdom<br>artwork |  
@@ -147,6 +159,18 @@ happy |
 | bip_39_word_space_7 | anger athlete space close despair symptom educate |  
 | bip_39_word_space_8 | anger athlete space close despair symptom educate repair |  
 | bip_39_word_space_9 | anger athlete space close despair symptom educate repair happy |  
+| bip_39_word_underscore_1 | anger |  
+| bip_39_word_underscore_10 | anger_athlete_space_close_despair_symptom_educate_repair_happy_kingdom |  
+| bip_39_word_underscore_11 | anger_athlete_space_close_despair_symptom_educate_repair_happy_kingdom_artwork |  
+| bip_39_word_underscore_12 | anger_athlete_space_close_despair_symptom_educate_repair_happy_kingdom_artwork_age |  
+| bip_39_word_underscore_2 | anger_athlete |  
+| bip_39_word_underscore_3 | anger_athlete_space |  
+| bip_39_word_underscore_4 | anger_athlete_space_close |  
+| bip_39_word_underscore_5 | anger_athlete_space_close_despair |  
+| bip_39_word_underscore_6 | anger_athlete_space_close_despair_symptom |  
+| bip_39_word_underscore_7 | anger_athlete_space_close_despair_symptom_educate |  
+| bip_39_word_underscore_8 | anger_athlete_space_close_despair_symptom_educate_repair |  
+| bip_39_word_underscore_9 | anger_athlete_space_close_despair_symptom_educate_repair_happy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

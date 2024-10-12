@@ -1,3 +1,15 @@
+bip_39_word_dash_1: search
+bip_39_word_dash_10: search-agent-olympic-fog-today-tennis-labor-movie-yellow-noble
+bip_39_word_dash_11: search-agent-olympic-fog-today-tennis-labor-movie-yellow-noble-heavy
+bip_39_word_dash_12: search-agent-olympic-fog-today-tennis-labor-movie-yellow-noble-heavy-absent
+bip_39_word_dash_2: search-agent
+bip_39_word_dash_3: search-agent-olympic
+bip_39_word_dash_4: search-agent-olympic-fog
+bip_39_word_dash_5: search-agent-olympic-fog-today
+bip_39_word_dash_6: search-agent-olympic-fog-today-tennis
+bip_39_word_dash_7: search-agent-olympic-fog-today-tennis-labor
+bip_39_word_dash_8: search-agent-olympic-fog-today-tennis-labor-movie
+bip_39_word_dash_9: search-agent-olympic-fog-today-tennis-labor-movie-yellow
 bip_39_word_new_br_1: search
 bip_39_word_new_br_10: search<br>agent<br>olympic<br>fog<br>today<br>tennis<br>labor<br>movie<br>yellow<br>noble
 bip_39_word_new_br_11: search<br>agent<br>olympic<br>fog<br>today<br>tennis<br>labor<br>movie<br>yellow<br>noble<br>heavy
@@ -193,6 +205,18 @@ bip_39_word_space_6: search agent olympic fog today tennis
 bip_39_word_space_7: search agent olympic fog today tennis labor
 bip_39_word_space_8: search agent olympic fog today tennis labor movie
 bip_39_word_space_9: search agent olympic fog today tennis labor movie yellow
+bip_39_word_underscore_1: search
+bip_39_word_underscore_10: search_agent_olympic_fog_today_tennis_labor_movie_yellow_noble
+bip_39_word_underscore_11: search_agent_olympic_fog_today_tennis_labor_movie_yellow_noble_heavy
+bip_39_word_underscore_12: search_agent_olympic_fog_today_tennis_labor_movie_yellow_noble_heavy_absent
+bip_39_word_underscore_2: search_agent
+bip_39_word_underscore_3: search_agent_olympic
+bip_39_word_underscore_4: search_agent_olympic_fog
+bip_39_word_underscore_5: search_agent_olympic_fog_today
+bip_39_word_underscore_6: search_agent_olympic_fog_today_tennis
+bip_39_word_underscore_7: search_agent_olympic_fog_today_tennis_labor
+bip_39_word_underscore_8: search_agent_olympic_fog_today_tennis_labor_movie
+bip_39_word_underscore_9: search_agent_olympic_fog_today_tennis_labor_movie_yellow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

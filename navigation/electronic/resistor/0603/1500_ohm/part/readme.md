@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glass |  
+| bip_39_word_dash_10 | glass-feature-crisp-market-aisle-uncover-remain-guide-patch-cable |  
+| bip_39_word_dash_11 | glass-feature-crisp-market-aisle-uncover-remain-guide-patch-cable-real |  
+| bip_39_word_dash_12 | glass-feature-crisp-market-aisle-uncover-remain-guide-patch-cable-real-actual |  
+| bip_39_word_dash_2 | glass-feature |  
+| bip_39_word_dash_3 | glass-feature-crisp |  
+| bip_39_word_dash_4 | glass-feature-crisp-market |  
+| bip_39_word_dash_5 | glass-feature-crisp-market-aisle |  
+| bip_39_word_dash_6 | glass-feature-crisp-market-aisle-uncover |  
+| bip_39_word_dash_7 | glass-feature-crisp-market-aisle-uncover-remain |  
+| bip_39_word_dash_8 | glass-feature-crisp-market-aisle-uncover-remain-guide |  
+| bip_39_word_dash_9 | glass-feature-crisp-market-aisle-uncover-remain-guide-patch |  
 | bip_39_word_new_br_1 | glass |  
 | bip_39_word_new_br_10 | glass<br>feature<br>crisp<br>market<br>aisle<br>uncover<br>remain<br>guide<br>patch<br>cable |  
 | bip_39_word_new_br_11 | glass<br>feature<br>crisp<br>market<br>aisle<br>uncover<br>remain<br>guide<br>patch<br>cable<br>real |  
@@ -147,6 +159,18 @@ patch |
 | bip_39_word_space_7 | glass feature crisp market aisle uncover remain |  
 | bip_39_word_space_8 | glass feature crisp market aisle uncover remain guide |  
 | bip_39_word_space_9 | glass feature crisp market aisle uncover remain guide patch |  
+| bip_39_word_underscore_1 | glass |  
+| bip_39_word_underscore_10 | glass_feature_crisp_market_aisle_uncover_remain_guide_patch_cable |  
+| bip_39_word_underscore_11 | glass_feature_crisp_market_aisle_uncover_remain_guide_patch_cable_real |  
+| bip_39_word_underscore_12 | glass_feature_crisp_market_aisle_uncover_remain_guide_patch_cable_real_actual |  
+| bip_39_word_underscore_2 | glass_feature |  
+| bip_39_word_underscore_3 | glass_feature_crisp |  
+| bip_39_word_underscore_4 | glass_feature_crisp_market |  
+| bip_39_word_underscore_5 | glass_feature_crisp_market_aisle |  
+| bip_39_word_underscore_6 | glass_feature_crisp_market_aisle_uncover |  
+| bip_39_word_underscore_7 | glass_feature_crisp_market_aisle_uncover_remain |  
+| bip_39_word_underscore_8 | glass_feature_crisp_market_aisle_uncover_remain_guide |  
+| bip_39_word_underscore_9 | glass_feature_crisp_market_aisle_uncover_remain_guide_patch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

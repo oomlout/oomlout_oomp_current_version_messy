@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bring |  
+| bip_39_word_dash_10 | bring-lunch-into-frown-text-dish-odor-worth-melody-arch |  
+| bip_39_word_dash_11 | bring-lunch-into-frown-text-dish-odor-worth-melody-arch-update |  
+| bip_39_word_dash_12 | bring-lunch-into-frown-text-dish-odor-worth-melody-arch-update-artist |  
+| bip_39_word_dash_2 | bring-lunch |  
+| bip_39_word_dash_3 | bring-lunch-into |  
+| bip_39_word_dash_4 | bring-lunch-into-frown |  
+| bip_39_word_dash_5 | bring-lunch-into-frown-text |  
+| bip_39_word_dash_6 | bring-lunch-into-frown-text-dish |  
+| bip_39_word_dash_7 | bring-lunch-into-frown-text-dish-odor |  
+| bip_39_word_dash_8 | bring-lunch-into-frown-text-dish-odor-worth |  
+| bip_39_word_dash_9 | bring-lunch-into-frown-text-dish-odor-worth-melody |  
 | bip_39_word_new_br_1 | bring |  
 | bip_39_word_new_br_10 | bring<br>lunch<br>into<br>frown<br>text<br>dish<br>odor<br>worth<br>melody<br>arch |  
 | bip_39_word_new_br_11 | bring<br>lunch<br>into<br>frown<br>text<br>dish<br>odor<br>worth<br>melody<br>arch<br>update |  
@@ -147,6 +159,18 @@ melody |
 | bip_39_word_space_7 | bring lunch into frown text dish odor |  
 | bip_39_word_space_8 | bring lunch into frown text dish odor worth |  
 | bip_39_word_space_9 | bring lunch into frown text dish odor worth melody |  
+| bip_39_word_underscore_1 | bring |  
+| bip_39_word_underscore_10 | bring_lunch_into_frown_text_dish_odor_worth_melody_arch |  
+| bip_39_word_underscore_11 | bring_lunch_into_frown_text_dish_odor_worth_melody_arch_update |  
+| bip_39_word_underscore_12 | bring_lunch_into_frown_text_dish_odor_worth_melody_arch_update_artist |  
+| bip_39_word_underscore_2 | bring_lunch |  
+| bip_39_word_underscore_3 | bring_lunch_into |  
+| bip_39_word_underscore_4 | bring_lunch_into_frown |  
+| bip_39_word_underscore_5 | bring_lunch_into_frown_text |  
+| bip_39_word_underscore_6 | bring_lunch_into_frown_text_dish |  
+| bip_39_word_underscore_7 | bring_lunch_into_frown_text_dish_odor |  
+| bip_39_word_underscore_8 | bring_lunch_into_frown_text_dish_odor_worth |  
+| bip_39_word_underscore_9 | bring_lunch_into_frown_text_dish_odor_worth_melody |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

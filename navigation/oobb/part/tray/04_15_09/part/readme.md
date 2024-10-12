@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | adult |  
+| bip_39_word_dash_10 | adult-erupt-gloom-glow-awesome-spell-there-prison-exchange-analyst |  
+| bip_39_word_dash_11 | adult-erupt-gloom-glow-awesome-spell-there-prison-exchange-analyst-crazy |  
+| bip_39_word_dash_12 | adult-erupt-gloom-glow-awesome-spell-there-prison-exchange-analyst-crazy-apart |  
+| bip_39_word_dash_2 | adult-erupt |  
+| bip_39_word_dash_3 | adult-erupt-gloom |  
+| bip_39_word_dash_4 | adult-erupt-gloom-glow |  
+| bip_39_word_dash_5 | adult-erupt-gloom-glow-awesome |  
+| bip_39_word_dash_6 | adult-erupt-gloom-glow-awesome-spell |  
+| bip_39_word_dash_7 | adult-erupt-gloom-glow-awesome-spell-there |  
+| bip_39_word_dash_8 | adult-erupt-gloom-glow-awesome-spell-there-prison |  
+| bip_39_word_dash_9 | adult-erupt-gloom-glow-awesome-spell-there-prison-exchange |  
 | bip_39_word_new_br_1 | adult |  
 | bip_39_word_new_br_10 | adult<br>erupt<br>gloom<br>glow<br>awesome<br>spell<br>there<br>prison<br>exchange<br>analyst |  
 | bip_39_word_new_br_11 | adult<br>erupt<br>gloom<br>glow<br>awesome<br>spell<br>there<br>prison<br>exchange<br>analyst<br>crazy |  
@@ -147,6 +159,18 @@ exchange |
 | bip_39_word_space_7 | adult erupt gloom glow awesome spell there |  
 | bip_39_word_space_8 | adult erupt gloom glow awesome spell there prison |  
 | bip_39_word_space_9 | adult erupt gloom glow awesome spell there prison exchange |  
+| bip_39_word_underscore_1 | adult |  
+| bip_39_word_underscore_10 | adult_erupt_gloom_glow_awesome_spell_there_prison_exchange_analyst |  
+| bip_39_word_underscore_11 | adult_erupt_gloom_glow_awesome_spell_there_prison_exchange_analyst_crazy |  
+| bip_39_word_underscore_12 | adult_erupt_gloom_glow_awesome_spell_there_prison_exchange_analyst_crazy_apart |  
+| bip_39_word_underscore_2 | adult_erupt |  
+| bip_39_word_underscore_3 | adult_erupt_gloom |  
+| bip_39_word_underscore_4 | adult_erupt_gloom_glow |  
+| bip_39_word_underscore_5 | adult_erupt_gloom_glow_awesome |  
+| bip_39_word_underscore_6 | adult_erupt_gloom_glow_awesome_spell |  
+| bip_39_word_underscore_7 | adult_erupt_gloom_glow_awesome_spell_there |  
+| bip_39_word_underscore_8 | adult_erupt_gloom_glow_awesome_spell_there_prison |  
+| bip_39_word_underscore_9 | adult_erupt_gloom_glow_awesome_spell_there_prison_exchange |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

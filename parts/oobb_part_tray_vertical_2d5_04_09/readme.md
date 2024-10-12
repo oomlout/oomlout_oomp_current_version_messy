@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | author |  
+| bip_39_word_dash_10 | author-gloom-sleep-pitch-load-fortune-gospel-fabric-alley-owner |  
+| bip_39_word_dash_11 | author-gloom-sleep-pitch-load-fortune-gospel-fabric-alley-owner-bronze |  
+| bip_39_word_dash_12 | author-gloom-sleep-pitch-load-fortune-gospel-fabric-alley-owner-bronze-anchor |  
+| bip_39_word_dash_2 | author-gloom |  
+| bip_39_word_dash_3 | author-gloom-sleep |  
+| bip_39_word_dash_4 | author-gloom-sleep-pitch |  
+| bip_39_word_dash_5 | author-gloom-sleep-pitch-load |  
+| bip_39_word_dash_6 | author-gloom-sleep-pitch-load-fortune |  
+| bip_39_word_dash_7 | author-gloom-sleep-pitch-load-fortune-gospel |  
+| bip_39_word_dash_8 | author-gloom-sleep-pitch-load-fortune-gospel-fabric |  
+| bip_39_word_dash_9 | author-gloom-sleep-pitch-load-fortune-gospel-fabric-alley |  
 | bip_39_word_new_br_1 | author |  
 | bip_39_word_new_br_10 | author<br>gloom<br>sleep<br>pitch<br>load<br>fortune<br>gospel<br>fabric<br>alley<br>owner |  
 | bip_39_word_new_br_11 | author<br>gloom<br>sleep<br>pitch<br>load<br>fortune<br>gospel<br>fabric<br>alley<br>owner<br>bronze |  
@@ -147,6 +159,18 @@ alley |
 | bip_39_word_space_7 | author gloom sleep pitch load fortune gospel |  
 | bip_39_word_space_8 | author gloom sleep pitch load fortune gospel fabric |  
 | bip_39_word_space_9 | author gloom sleep pitch load fortune gospel fabric alley |  
+| bip_39_word_underscore_1 | author |  
+| bip_39_word_underscore_10 | author_gloom_sleep_pitch_load_fortune_gospel_fabric_alley_owner |  
+| bip_39_word_underscore_11 | author_gloom_sleep_pitch_load_fortune_gospel_fabric_alley_owner_bronze |  
+| bip_39_word_underscore_12 | author_gloom_sleep_pitch_load_fortune_gospel_fabric_alley_owner_bronze_anchor |  
+| bip_39_word_underscore_2 | author_gloom |  
+| bip_39_word_underscore_3 | author_gloom_sleep |  
+| bip_39_word_underscore_4 | author_gloom_sleep_pitch |  
+| bip_39_word_underscore_5 | author_gloom_sleep_pitch_load |  
+| bip_39_word_underscore_6 | author_gloom_sleep_pitch_load_fortune |  
+| bip_39_word_underscore_7 | author_gloom_sleep_pitch_load_fortune_gospel |  
+| bip_39_word_underscore_8 | author_gloom_sleep_pitch_load_fortune_gospel_fabric |  
+| bip_39_word_underscore_9 | author_gloom_sleep_pitch_load_fortune_gospel_fabric_alley |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

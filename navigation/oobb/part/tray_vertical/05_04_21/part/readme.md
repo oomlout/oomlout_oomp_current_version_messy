@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | model |  
+| bip_39_word_dash_10 | model-glance-rug-spy-sauce-license-crawl-indoor-cruise-sick |  
+| bip_39_word_dash_11 | model-glance-rug-spy-sauce-license-crawl-indoor-cruise-sick-enroll |  
+| bip_39_word_dash_12 | model-glance-rug-spy-sauce-license-crawl-indoor-cruise-sick-enroll-analyst |  
+| bip_39_word_dash_2 | model-glance |  
+| bip_39_word_dash_3 | model-glance-rug |  
+| bip_39_word_dash_4 | model-glance-rug-spy |  
+| bip_39_word_dash_5 | model-glance-rug-spy-sauce |  
+| bip_39_word_dash_6 | model-glance-rug-spy-sauce-license |  
+| bip_39_word_dash_7 | model-glance-rug-spy-sauce-license-crawl |  
+| bip_39_word_dash_8 | model-glance-rug-spy-sauce-license-crawl-indoor |  
+| bip_39_word_dash_9 | model-glance-rug-spy-sauce-license-crawl-indoor-cruise |  
 | bip_39_word_new_br_1 | model |  
 | bip_39_word_new_br_10 | model<br>glance<br>rug<br>spy<br>sauce<br>license<br>crawl<br>indoor<br>cruise<br>sick |  
 | bip_39_word_new_br_11 | model<br>glance<br>rug<br>spy<br>sauce<br>license<br>crawl<br>indoor<br>cruise<br>sick<br>enroll |  
@@ -147,6 +159,18 @@ cruise |
 | bip_39_word_space_7 | model glance rug spy sauce license crawl |  
 | bip_39_word_space_8 | model glance rug spy sauce license crawl indoor |  
 | bip_39_word_space_9 | model glance rug spy sauce license crawl indoor cruise |  
+| bip_39_word_underscore_1 | model |  
+| bip_39_word_underscore_10 | model_glance_rug_spy_sauce_license_crawl_indoor_cruise_sick |  
+| bip_39_word_underscore_11 | model_glance_rug_spy_sauce_license_crawl_indoor_cruise_sick_enroll |  
+| bip_39_word_underscore_12 | model_glance_rug_spy_sauce_license_crawl_indoor_cruise_sick_enroll_analyst |  
+| bip_39_word_underscore_2 | model_glance |  
+| bip_39_word_underscore_3 | model_glance_rug |  
+| bip_39_word_underscore_4 | model_glance_rug_spy |  
+| bip_39_word_underscore_5 | model_glance_rug_spy_sauce |  
+| bip_39_word_underscore_6 | model_glance_rug_spy_sauce_license |  
+| bip_39_word_underscore_7 | model_glance_rug_spy_sauce_license_crawl |  
+| bip_39_word_underscore_8 | model_glance_rug_spy_sauce_license_crawl_indoor |  
+| bip_39_word_underscore_9 | model_glance_rug_spy_sauce_license_crawl_indoor_cruise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

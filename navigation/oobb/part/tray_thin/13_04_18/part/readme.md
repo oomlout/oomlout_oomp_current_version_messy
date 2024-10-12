@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alarm |  
+| bip_39_word_dash_10 | alarm-twin-expect-vote-universe-betray-tenant-this-emerge-pottery |  
+| bip_39_word_dash_11 | alarm-twin-expect-vote-universe-betray-tenant-this-emerge-pottery-mixed |  
+| bip_39_word_dash_12 | alarm-twin-expect-vote-universe-betray-tenant-this-emerge-pottery-mixed-almost |  
+| bip_39_word_dash_2 | alarm-twin |  
+| bip_39_word_dash_3 | alarm-twin-expect |  
+| bip_39_word_dash_4 | alarm-twin-expect-vote |  
+| bip_39_word_dash_5 | alarm-twin-expect-vote-universe |  
+| bip_39_word_dash_6 | alarm-twin-expect-vote-universe-betray |  
+| bip_39_word_dash_7 | alarm-twin-expect-vote-universe-betray-tenant |  
+| bip_39_word_dash_8 | alarm-twin-expect-vote-universe-betray-tenant-this |  
+| bip_39_word_dash_9 | alarm-twin-expect-vote-universe-betray-tenant-this-emerge |  
 | bip_39_word_new_br_1 | alarm |  
 | bip_39_word_new_br_10 | alarm<br>twin<br>expect<br>vote<br>universe<br>betray<br>tenant<br>this<br>emerge<br>pottery |  
 | bip_39_word_new_br_11 | alarm<br>twin<br>expect<br>vote<br>universe<br>betray<br>tenant<br>this<br>emerge<br>pottery<br>mixed |  
@@ -147,6 +159,18 @@ emerge |
 | bip_39_word_space_7 | alarm twin expect vote universe betray tenant |  
 | bip_39_word_space_8 | alarm twin expect vote universe betray tenant this |  
 | bip_39_word_space_9 | alarm twin expect vote universe betray tenant this emerge |  
+| bip_39_word_underscore_1 | alarm |  
+| bip_39_word_underscore_10 | alarm_twin_expect_vote_universe_betray_tenant_this_emerge_pottery |  
+| bip_39_word_underscore_11 | alarm_twin_expect_vote_universe_betray_tenant_this_emerge_pottery_mixed |  
+| bip_39_word_underscore_12 | alarm_twin_expect_vote_universe_betray_tenant_this_emerge_pottery_mixed_almost |  
+| bip_39_word_underscore_2 | alarm_twin |  
+| bip_39_word_underscore_3 | alarm_twin_expect |  
+| bip_39_word_underscore_4 | alarm_twin_expect_vote |  
+| bip_39_word_underscore_5 | alarm_twin_expect_vote_universe |  
+| bip_39_word_underscore_6 | alarm_twin_expect_vote_universe_betray |  
+| bip_39_word_underscore_7 | alarm_twin_expect_vote_universe_betray_tenant |  
+| bip_39_word_underscore_8 | alarm_twin_expect_vote_universe_betray_tenant_this |  
+| bip_39_word_underscore_9 | alarm_twin_expect_vote_universe_betray_tenant_this_emerge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

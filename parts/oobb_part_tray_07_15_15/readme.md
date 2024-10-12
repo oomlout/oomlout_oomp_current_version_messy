@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | embark |  
+| bip_39_word_dash_10 | embark-stage-daughter-average-decorate-air-enrich-orphan-ugly-edit |  
+| bip_39_word_dash_11 | embark-stage-daughter-average-decorate-air-enrich-orphan-ugly-edit-hour |  
+| bip_39_word_dash_12 | embark-stage-daughter-average-decorate-air-enrich-orphan-ugly-edit-hour-angle |  
+| bip_39_word_dash_2 | embark-stage |  
+| bip_39_word_dash_3 | embark-stage-daughter |  
+| bip_39_word_dash_4 | embark-stage-daughter-average |  
+| bip_39_word_dash_5 | embark-stage-daughter-average-decorate |  
+| bip_39_word_dash_6 | embark-stage-daughter-average-decorate-air |  
+| bip_39_word_dash_7 | embark-stage-daughter-average-decorate-air-enrich |  
+| bip_39_word_dash_8 | embark-stage-daughter-average-decorate-air-enrich-orphan |  
+| bip_39_word_dash_9 | embark-stage-daughter-average-decorate-air-enrich-orphan-ugly |  
 | bip_39_word_new_br_1 | embark |  
 | bip_39_word_new_br_10 | embark<br>stage<br>daughter<br>average<br>decorate<br>air<br>enrich<br>orphan<br>ugly<br>edit |  
 | bip_39_word_new_br_11 | embark<br>stage<br>daughter<br>average<br>decorate<br>air<br>enrich<br>orphan<br>ugly<br>edit<br>hour |  
@@ -147,6 +159,18 @@ ugly |
 | bip_39_word_space_7 | embark stage daughter average decorate air enrich |  
 | bip_39_word_space_8 | embark stage daughter average decorate air enrich orphan |  
 | bip_39_word_space_9 | embark stage daughter average decorate air enrich orphan ugly |  
+| bip_39_word_underscore_1 | embark |  
+| bip_39_word_underscore_10 | embark_stage_daughter_average_decorate_air_enrich_orphan_ugly_edit |  
+| bip_39_word_underscore_11 | embark_stage_daughter_average_decorate_air_enrich_orphan_ugly_edit_hour |  
+| bip_39_word_underscore_12 | embark_stage_daughter_average_decorate_air_enrich_orphan_ugly_edit_hour_angle |  
+| bip_39_word_underscore_2 | embark_stage |  
+| bip_39_word_underscore_3 | embark_stage_daughter |  
+| bip_39_word_underscore_4 | embark_stage_daughter_average |  
+| bip_39_word_underscore_5 | embark_stage_daughter_average_decorate |  
+| bip_39_word_underscore_6 | embark_stage_daughter_average_decorate_air |  
+| bip_39_word_underscore_7 | embark_stage_daughter_average_decorate_air_enrich |  
+| bip_39_word_underscore_8 | embark_stage_daughter_average_decorate_air_enrich_orphan |  
+| bip_39_word_underscore_9 | embark_stage_daughter_average_decorate_air_enrich_orphan_ugly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

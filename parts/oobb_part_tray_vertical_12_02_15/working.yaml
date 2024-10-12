@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mom
+bip_39_word_dash_10: mom-uniform-acoustic-lawsuit-gate-flee-guide-find-real-laugh
+bip_39_word_dash_11: mom-uniform-acoustic-lawsuit-gate-flee-guide-find-real-laugh-asset
+bip_39_word_dash_12: mom-uniform-acoustic-lawsuit-gate-flee-guide-find-real-laugh-asset-album
+bip_39_word_dash_2: mom-uniform
+bip_39_word_dash_3: mom-uniform-acoustic
+bip_39_word_dash_4: mom-uniform-acoustic-lawsuit
+bip_39_word_dash_5: mom-uniform-acoustic-lawsuit-gate
+bip_39_word_dash_6: mom-uniform-acoustic-lawsuit-gate-flee
+bip_39_word_dash_7: mom-uniform-acoustic-lawsuit-gate-flee-guide
+bip_39_word_dash_8: mom-uniform-acoustic-lawsuit-gate-flee-guide-find
+bip_39_word_dash_9: mom-uniform-acoustic-lawsuit-gate-flee-guide-find-real
 bip_39_word_new_br_1: mom
 bip_39_word_new_br_10: mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh
 bip_39_word_new_br_11: mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh<br>asset
@@ -193,6 +205,18 @@ bip_39_word_space_6: mom uniform acoustic lawsuit gate flee
 bip_39_word_space_7: mom uniform acoustic lawsuit gate flee guide
 bip_39_word_space_8: mom uniform acoustic lawsuit gate flee guide find
 bip_39_word_space_9: mom uniform acoustic lawsuit gate flee guide find real
+bip_39_word_underscore_1: mom
+bip_39_word_underscore_10: mom_uniform_acoustic_lawsuit_gate_flee_guide_find_real_laugh
+bip_39_word_underscore_11: mom_uniform_acoustic_lawsuit_gate_flee_guide_find_real_laugh_asset
+bip_39_word_underscore_12: mom_uniform_acoustic_lawsuit_gate_flee_guide_find_real_laugh_asset_album
+bip_39_word_underscore_2: mom_uniform
+bip_39_word_underscore_3: mom_uniform_acoustic
+bip_39_word_underscore_4: mom_uniform_acoustic_lawsuit
+bip_39_word_underscore_5: mom_uniform_acoustic_lawsuit_gate
+bip_39_word_underscore_6: mom_uniform_acoustic_lawsuit_gate_flee
+bip_39_word_underscore_7: mom_uniform_acoustic_lawsuit_gate_flee_guide
+bip_39_word_underscore_8: mom_uniform_acoustic_lawsuit_gate_flee_guide_find
+bip_39_word_underscore_9: mom_uniform_acoustic_lawsuit_gate_flee_guide_find_real
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

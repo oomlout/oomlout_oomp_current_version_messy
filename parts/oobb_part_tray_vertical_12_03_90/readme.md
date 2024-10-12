@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sibling |  
+| bip_39_word_dash_10 | sibling-find-train-genre-true-tragic-repeat-reward-casino-loop |  
+| bip_39_word_dash_11 | sibling-find-train-genre-true-tragic-repeat-reward-casino-loop-van |  
+| bip_39_word_dash_12 | sibling-find-train-genre-true-tragic-repeat-reward-casino-loop-van-acoustic |  
+| bip_39_word_dash_2 | sibling-find |  
+| bip_39_word_dash_3 | sibling-find-train |  
+| bip_39_word_dash_4 | sibling-find-train-genre |  
+| bip_39_word_dash_5 | sibling-find-train-genre-true |  
+| bip_39_word_dash_6 | sibling-find-train-genre-true-tragic |  
+| bip_39_word_dash_7 | sibling-find-train-genre-true-tragic-repeat |  
+| bip_39_word_dash_8 | sibling-find-train-genre-true-tragic-repeat-reward |  
+| bip_39_word_dash_9 | sibling-find-train-genre-true-tragic-repeat-reward-casino |  
 | bip_39_word_new_br_1 | sibling |  
 | bip_39_word_new_br_10 | sibling<br>find<br>train<br>genre<br>true<br>tragic<br>repeat<br>reward<br>casino<br>loop |  
 | bip_39_word_new_br_11 | sibling<br>find<br>train<br>genre<br>true<br>tragic<br>repeat<br>reward<br>casino<br>loop<br>van |  
@@ -147,6 +159,18 @@ casino |
 | bip_39_word_space_7 | sibling find train genre true tragic repeat |  
 | bip_39_word_space_8 | sibling find train genre true tragic repeat reward |  
 | bip_39_word_space_9 | sibling find train genre true tragic repeat reward casino |  
+| bip_39_word_underscore_1 | sibling |  
+| bip_39_word_underscore_10 | sibling_find_train_genre_true_tragic_repeat_reward_casino_loop |  
+| bip_39_word_underscore_11 | sibling_find_train_genre_true_tragic_repeat_reward_casino_loop_van |  
+| bip_39_word_underscore_12 | sibling_find_train_genre_true_tragic_repeat_reward_casino_loop_van_acoustic |  
+| bip_39_word_underscore_2 | sibling_find |  
+| bip_39_word_underscore_3 | sibling_find_train |  
+| bip_39_word_underscore_4 | sibling_find_train_genre |  
+| bip_39_word_underscore_5 | sibling_find_train_genre_true |  
+| bip_39_word_underscore_6 | sibling_find_train_genre_true_tragic |  
+| bip_39_word_underscore_7 | sibling_find_train_genre_true_tragic_repeat |  
+| bip_39_word_underscore_8 | sibling_find_train_genre_true_tragic_repeat_reward |  
+| bip_39_word_underscore_9 | sibling_find_train_genre_true_tragic_repeat_reward_casino |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

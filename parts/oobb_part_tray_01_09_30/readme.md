@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cliff |  
+| bip_39_word_dash_10 | cliff-music-noodle-shell-oven-banner-guide-say-crazy-shoot |  
+| bip_39_word_dash_11 | cliff-music-noodle-shell-oven-banner-guide-say-crazy-shoot-cigar |  
+| bip_39_word_dash_12 | cliff-music-noodle-shell-oven-banner-guide-say-crazy-shoot-cigar-anger |  
+| bip_39_word_dash_2 | cliff-music |  
+| bip_39_word_dash_3 | cliff-music-noodle |  
+| bip_39_word_dash_4 | cliff-music-noodle-shell |  
+| bip_39_word_dash_5 | cliff-music-noodle-shell-oven |  
+| bip_39_word_dash_6 | cliff-music-noodle-shell-oven-banner |  
+| bip_39_word_dash_7 | cliff-music-noodle-shell-oven-banner-guide |  
+| bip_39_word_dash_8 | cliff-music-noodle-shell-oven-banner-guide-say |  
+| bip_39_word_dash_9 | cliff-music-noodle-shell-oven-banner-guide-say-crazy |  
 | bip_39_word_new_br_1 | cliff |  
 | bip_39_word_new_br_10 | cliff<br>music<br>noodle<br>shell<br>oven<br>banner<br>guide<br>say<br>crazy<br>shoot |  
 | bip_39_word_new_br_11 | cliff<br>music<br>noodle<br>shell<br>oven<br>banner<br>guide<br>say<br>crazy<br>shoot<br>cigar |  
@@ -147,6 +159,18 @@ crazy |
 | bip_39_word_space_7 | cliff music noodle shell oven banner guide |  
 | bip_39_word_space_8 | cliff music noodle shell oven banner guide say |  
 | bip_39_word_space_9 | cliff music noodle shell oven banner guide say crazy |  
+| bip_39_word_underscore_1 | cliff |  
+| bip_39_word_underscore_10 | cliff_music_noodle_shell_oven_banner_guide_say_crazy_shoot |  
+| bip_39_word_underscore_11 | cliff_music_noodle_shell_oven_banner_guide_say_crazy_shoot_cigar |  
+| bip_39_word_underscore_12 | cliff_music_noodle_shell_oven_banner_guide_say_crazy_shoot_cigar_anger |  
+| bip_39_word_underscore_2 | cliff_music |  
+| bip_39_word_underscore_3 | cliff_music_noodle |  
+| bip_39_word_underscore_4 | cliff_music_noodle_shell |  
+| bip_39_word_underscore_5 | cliff_music_noodle_shell_oven |  
+| bip_39_word_underscore_6 | cliff_music_noodle_shell_oven_banner |  
+| bip_39_word_underscore_7 | cliff_music_noodle_shell_oven_banner_guide |  
+| bip_39_word_underscore_8 | cliff_music_noodle_shell_oven_banner_guide_say |  
+| bip_39_word_underscore_9 | cliff_music_noodle_shell_oven_banner_guide_say_crazy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

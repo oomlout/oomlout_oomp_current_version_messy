@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | access |  
+| bip_39_word_dash_10 | access-stamp-license-device-ride-island-spring-student-wife-grain |  
+| bip_39_word_dash_11 | access-stamp-license-device-ride-island-spring-student-wife-grain-deputy |  
+| bip_39_word_dash_12 | access-stamp-license-device-ride-island-spring-student-wife-grain-deputy-abstract |  
+| bip_39_word_dash_2 | access-stamp |  
+| bip_39_word_dash_3 | access-stamp-license |  
+| bip_39_word_dash_4 | access-stamp-license-device |  
+| bip_39_word_dash_5 | access-stamp-license-device-ride |  
+| bip_39_word_dash_6 | access-stamp-license-device-ride-island |  
+| bip_39_word_dash_7 | access-stamp-license-device-ride-island-spring |  
+| bip_39_word_dash_8 | access-stamp-license-device-ride-island-spring-student |  
+| bip_39_word_dash_9 | access-stamp-license-device-ride-island-spring-student-wife |  
 | bip_39_word_new_br_1 | access |  
 | bip_39_word_new_br_10 | access<br>stamp<br>license<br>device<br>ride<br>island<br>spring<br>student<br>wife<br>grain |  
 | bip_39_word_new_br_11 | access<br>stamp<br>license<br>device<br>ride<br>island<br>spring<br>student<br>wife<br>grain<br>deputy |  
@@ -147,6 +159,18 @@ wife |
 | bip_39_word_space_7 | access stamp license device ride island spring |  
 | bip_39_word_space_8 | access stamp license device ride island spring student |  
 | bip_39_word_space_9 | access stamp license device ride island spring student wife |  
+| bip_39_word_underscore_1 | access |  
+| bip_39_word_underscore_10 | access_stamp_license_device_ride_island_spring_student_wife_grain |  
+| bip_39_word_underscore_11 | access_stamp_license_device_ride_island_spring_student_wife_grain_deputy |  
+| bip_39_word_underscore_12 | access_stamp_license_device_ride_island_spring_student_wife_grain_deputy_abstract |  
+| bip_39_word_underscore_2 | access_stamp |  
+| bip_39_word_underscore_3 | access_stamp_license |  
+| bip_39_word_underscore_4 | access_stamp_license_device |  
+| bip_39_word_underscore_5 | access_stamp_license_device_ride |  
+| bip_39_word_underscore_6 | access_stamp_license_device_ride_island |  
+| bip_39_word_underscore_7 | access_stamp_license_device_ride_island_spring |  
+| bip_39_word_underscore_8 | access_stamp_license_device_ride_island_spring_student |  
+| bip_39_word_underscore_9 | access_stamp_license_device_ride_island_spring_student_wife |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

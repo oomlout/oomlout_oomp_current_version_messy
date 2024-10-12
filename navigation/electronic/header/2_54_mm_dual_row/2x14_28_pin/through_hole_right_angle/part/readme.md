@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chapter |  
+| bip_39_word_dash_10 | chapter-sound-coral-album-half-awkward-local-warm-forget-found |  
+| bip_39_word_dash_11 | chapter-sound-coral-album-half-awkward-local-warm-forget-found-when |  
+| bip_39_word_dash_12 | chapter-sound-coral-album-half-awkward-local-warm-forget-found-when-arrange |  
+| bip_39_word_dash_2 | chapter-sound |  
+| bip_39_word_dash_3 | chapter-sound-coral |  
+| bip_39_word_dash_4 | chapter-sound-coral-album |  
+| bip_39_word_dash_5 | chapter-sound-coral-album-half |  
+| bip_39_word_dash_6 | chapter-sound-coral-album-half-awkward |  
+| bip_39_word_dash_7 | chapter-sound-coral-album-half-awkward-local |  
+| bip_39_word_dash_8 | chapter-sound-coral-album-half-awkward-local-warm |  
+| bip_39_word_dash_9 | chapter-sound-coral-album-half-awkward-local-warm-forget |  
 | bip_39_word_new_br_1 | chapter |  
 | bip_39_word_new_br_10 | chapter<br>sound<br>coral<br>album<br>half<br>awkward<br>local<br>warm<br>forget<br>found |  
 | bip_39_word_new_br_11 | chapter<br>sound<br>coral<br>album<br>half<br>awkward<br>local<br>warm<br>forget<br>found<br>when |  
@@ -147,6 +159,18 @@ forget |
 | bip_39_word_space_7 | chapter sound coral album half awkward local |  
 | bip_39_word_space_8 | chapter sound coral album half awkward local warm |  
 | bip_39_word_space_9 | chapter sound coral album half awkward local warm forget |  
+| bip_39_word_underscore_1 | chapter |  
+| bip_39_word_underscore_10 | chapter_sound_coral_album_half_awkward_local_warm_forget_found |  
+| bip_39_word_underscore_11 | chapter_sound_coral_album_half_awkward_local_warm_forget_found_when |  
+| bip_39_word_underscore_12 | chapter_sound_coral_album_half_awkward_local_warm_forget_found_when_arrange |  
+| bip_39_word_underscore_2 | chapter_sound |  
+| bip_39_word_underscore_3 | chapter_sound_coral |  
+| bip_39_word_underscore_4 | chapter_sound_coral_album |  
+| bip_39_word_underscore_5 | chapter_sound_coral_album_half |  
+| bip_39_word_underscore_6 | chapter_sound_coral_album_half_awkward |  
+| bip_39_word_underscore_7 | chapter_sound_coral_album_half_awkward_local |  
+| bip_39_word_underscore_8 | chapter_sound_coral_album_half_awkward_local_warm |  
+| bip_39_word_underscore_9 | chapter_sound_coral_album_half_awkward_local_warm_forget |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

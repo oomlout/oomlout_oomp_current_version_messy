@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | around |  
+| bip_39_word_dash_10 | around-say-return-just-funny-knife-claw-unhappy-citizen-hotel |  
+| bip_39_word_dash_11 | around-say-return-just-funny-knife-claw-unhappy-citizen-hotel-slim |  
+| bip_39_word_dash_12 | around-say-return-just-funny-knife-claw-unhappy-citizen-hotel-slim-adapt |  
+| bip_39_word_dash_2 | around-say |  
+| bip_39_word_dash_3 | around-say-return |  
+| bip_39_word_dash_4 | around-say-return-just |  
+| bip_39_word_dash_5 | around-say-return-just-funny |  
+| bip_39_word_dash_6 | around-say-return-just-funny-knife |  
+| bip_39_word_dash_7 | around-say-return-just-funny-knife-claw |  
+| bip_39_word_dash_8 | around-say-return-just-funny-knife-claw-unhappy |  
+| bip_39_word_dash_9 | around-say-return-just-funny-knife-claw-unhappy-citizen |  
 | bip_39_word_new_br_1 | around |  
 | bip_39_word_new_br_10 | around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel |  
 | bip_39_word_new_br_11 | around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel<br>slim |  
@@ -147,6 +159,18 @@ citizen |
 | bip_39_word_space_7 | around say return just funny knife claw |  
 | bip_39_word_space_8 | around say return just funny knife claw unhappy |  
 | bip_39_word_space_9 | around say return just funny knife claw unhappy citizen |  
+| bip_39_word_underscore_1 | around |  
+| bip_39_word_underscore_10 | around_say_return_just_funny_knife_claw_unhappy_citizen_hotel |  
+| bip_39_word_underscore_11 | around_say_return_just_funny_knife_claw_unhappy_citizen_hotel_slim |  
+| bip_39_word_underscore_12 | around_say_return_just_funny_knife_claw_unhappy_citizen_hotel_slim_adapt |  
+| bip_39_word_underscore_2 | around_say |  
+| bip_39_word_underscore_3 | around_say_return |  
+| bip_39_word_underscore_4 | around_say_return_just |  
+| bip_39_word_underscore_5 | around_say_return_just_funny |  
+| bip_39_word_underscore_6 | around_say_return_just_funny_knife |  
+| bip_39_word_underscore_7 | around_say_return_just_funny_knife_claw |  
+| bip_39_word_underscore_8 | around_say_return_just_funny_knife_claw_unhappy |  
+| bip_39_word_underscore_9 | around_say_return_just_funny_knife_claw_unhappy_citizen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | business |  
+| bip_39_word_dash_10 | business-orange-olympic-table-amused-early-apology-bench-fetch-rely |  
+| bip_39_word_dash_11 | business-orange-olympic-table-amused-early-apology-bench-fetch-rely-cinnamon |  
+| bip_39_word_dash_12 | business-orange-olympic-table-amused-early-apology-bench-fetch-rely-cinnamon-acoustic |  
+| bip_39_word_dash_2 | business-orange |  
+| bip_39_word_dash_3 | business-orange-olympic |  
+| bip_39_word_dash_4 | business-orange-olympic-table |  
+| bip_39_word_dash_5 | business-orange-olympic-table-amused |  
+| bip_39_word_dash_6 | business-orange-olympic-table-amused-early |  
+| bip_39_word_dash_7 | business-orange-olympic-table-amused-early-apology |  
+| bip_39_word_dash_8 | business-orange-olympic-table-amused-early-apology-bench |  
+| bip_39_word_dash_9 | business-orange-olympic-table-amused-early-apology-bench-fetch |  
 | bip_39_word_new_br_1 | business |  
 | bip_39_word_new_br_10 | business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench<br>fetch<br>rely |  
 | bip_39_word_new_br_11 | business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench<br>fetch<br>rely<br>cinnamon |  
@@ -147,6 +159,18 @@ fetch |
 | bip_39_word_space_7 | business orange olympic table amused early apology |  
 | bip_39_word_space_8 | business orange olympic table amused early apology bench |  
 | bip_39_word_space_9 | business orange olympic table amused early apology bench fetch |  
+| bip_39_word_underscore_1 | business |  
+| bip_39_word_underscore_10 | business_orange_olympic_table_amused_early_apology_bench_fetch_rely |  
+| bip_39_word_underscore_11 | business_orange_olympic_table_amused_early_apology_bench_fetch_rely_cinnamon |  
+| bip_39_word_underscore_12 | business_orange_olympic_table_amused_early_apology_bench_fetch_rely_cinnamon_acoustic |  
+| bip_39_word_underscore_2 | business_orange |  
+| bip_39_word_underscore_3 | business_orange_olympic |  
+| bip_39_word_underscore_4 | business_orange_olympic_table |  
+| bip_39_word_underscore_5 | business_orange_olympic_table_amused |  
+| bip_39_word_underscore_6 | business_orange_olympic_table_amused_early |  
+| bip_39_word_underscore_7 | business_orange_olympic_table_amused_early_apology |  
+| bip_39_word_underscore_8 | business_orange_olympic_table_amused_early_apology_bench |  
+| bip_39_word_underscore_9 | business_orange_olympic_table_amused_early_apology_bench_fetch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

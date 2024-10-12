@@ -1,3 +1,15 @@
+bip_39_word_dash_1: kitchen
+bip_39_word_dash_10: kitchen-cruel-below-hello-gospel-powder-undo-fat-general-foot
+bip_39_word_dash_11: kitchen-cruel-below-hello-gospel-powder-undo-fat-general-foot-exact
+bip_39_word_dash_12: kitchen-cruel-below-hello-gospel-powder-undo-fat-general-foot-exact-across
+bip_39_word_dash_2: kitchen-cruel
+bip_39_word_dash_3: kitchen-cruel-below
+bip_39_word_dash_4: kitchen-cruel-below-hello
+bip_39_word_dash_5: kitchen-cruel-below-hello-gospel
+bip_39_word_dash_6: kitchen-cruel-below-hello-gospel-powder
+bip_39_word_dash_7: kitchen-cruel-below-hello-gospel-powder-undo
+bip_39_word_dash_8: kitchen-cruel-below-hello-gospel-powder-undo-fat
+bip_39_word_dash_9: kitchen-cruel-below-hello-gospel-powder-undo-fat-general
 bip_39_word_new_br_1: kitchen
 bip_39_word_new_br_10: kitchen<br>cruel<br>below<br>hello<br>gospel<br>powder<br>undo<br>fat<br>general<br>foot
 bip_39_word_new_br_11: kitchen<br>cruel<br>below<br>hello<br>gospel<br>powder<br>undo<br>fat<br>general<br>foot<br>exact
@@ -193,6 +205,18 @@ bip_39_word_space_6: kitchen cruel below hello gospel powder
 bip_39_word_space_7: kitchen cruel below hello gospel powder undo
 bip_39_word_space_8: kitchen cruel below hello gospel powder undo fat
 bip_39_word_space_9: kitchen cruel below hello gospel powder undo fat general
+bip_39_word_underscore_1: kitchen
+bip_39_word_underscore_10: kitchen_cruel_below_hello_gospel_powder_undo_fat_general_foot
+bip_39_word_underscore_11: kitchen_cruel_below_hello_gospel_powder_undo_fat_general_foot_exact
+bip_39_word_underscore_12: kitchen_cruel_below_hello_gospel_powder_undo_fat_general_foot_exact_across
+bip_39_word_underscore_2: kitchen_cruel
+bip_39_word_underscore_3: kitchen_cruel_below
+bip_39_word_underscore_4: kitchen_cruel_below_hello
+bip_39_word_underscore_5: kitchen_cruel_below_hello_gospel
+bip_39_word_underscore_6: kitchen_cruel_below_hello_gospel_powder
+bip_39_word_underscore_7: kitchen_cruel_below_hello_gospel_powder_undo
+bip_39_word_underscore_8: kitchen_cruel_below_hello_gospel_powder_undo_fat
+bip_39_word_underscore_9: kitchen_cruel_below_hello_gospel_powder_undo_fat_general
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

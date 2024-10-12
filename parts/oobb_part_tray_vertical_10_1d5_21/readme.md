@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hub |  
+| bip_39_word_dash_10 | hub-treat-flat-creek-stadium-basket-student-over-happy-tip |  
+| bip_39_word_dash_11 | hub-treat-flat-creek-stadium-basket-student-over-happy-tip-undo |  
+| bip_39_word_dash_12 | hub-treat-flat-creek-stadium-basket-student-over-happy-tip-undo-adjust |  
+| bip_39_word_dash_2 | hub-treat |  
+| bip_39_word_dash_3 | hub-treat-flat |  
+| bip_39_word_dash_4 | hub-treat-flat-creek |  
+| bip_39_word_dash_5 | hub-treat-flat-creek-stadium |  
+| bip_39_word_dash_6 | hub-treat-flat-creek-stadium-basket |  
+| bip_39_word_dash_7 | hub-treat-flat-creek-stadium-basket-student |  
+| bip_39_word_dash_8 | hub-treat-flat-creek-stadium-basket-student-over |  
+| bip_39_word_dash_9 | hub-treat-flat-creek-stadium-basket-student-over-happy |  
 | bip_39_word_new_br_1 | hub |  
 | bip_39_word_new_br_10 | hub<br>treat<br>flat<br>creek<br>stadium<br>basket<br>student<br>over<br>happy<br>tip |  
 | bip_39_word_new_br_11 | hub<br>treat<br>flat<br>creek<br>stadium<br>basket<br>student<br>over<br>happy<br>tip<br>undo |  
@@ -147,6 +159,18 @@ happy |
 | bip_39_word_space_7 | hub treat flat creek stadium basket student |  
 | bip_39_word_space_8 | hub treat flat creek stadium basket student over |  
 | bip_39_word_space_9 | hub treat flat creek stadium basket student over happy |  
+| bip_39_word_underscore_1 | hub |  
+| bip_39_word_underscore_10 | hub_treat_flat_creek_stadium_basket_student_over_happy_tip |  
+| bip_39_word_underscore_11 | hub_treat_flat_creek_stadium_basket_student_over_happy_tip_undo |  
+| bip_39_word_underscore_12 | hub_treat_flat_creek_stadium_basket_student_over_happy_tip_undo_adjust |  
+| bip_39_word_underscore_2 | hub_treat |  
+| bip_39_word_underscore_3 | hub_treat_flat |  
+| bip_39_word_underscore_4 | hub_treat_flat_creek |  
+| bip_39_word_underscore_5 | hub_treat_flat_creek_stadium |  
+| bip_39_word_underscore_6 | hub_treat_flat_creek_stadium_basket |  
+| bip_39_word_underscore_7 | hub_treat_flat_creek_stadium_basket_student |  
+| bip_39_word_underscore_8 | hub_treat_flat_creek_stadium_basket_student_over |  
+| bip_39_word_underscore_9 | hub_treat_flat_creek_stadium_basket_student_over_happy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

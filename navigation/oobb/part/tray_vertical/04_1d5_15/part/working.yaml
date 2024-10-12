@@ -1,3 +1,15 @@
+bip_39_word_dash_1: circle
+bip_39_word_dash_10: circle-subway-donate-gaze-symptom-dream-attract-gloom-equip-nation
+bip_39_word_dash_11: circle-subway-donate-gaze-symptom-dream-attract-gloom-equip-nation-photo
+bip_39_word_dash_12: circle-subway-donate-gaze-symptom-dream-attract-gloom-equip-nation-photo-aunt
+bip_39_word_dash_2: circle-subway
+bip_39_word_dash_3: circle-subway-donate
+bip_39_word_dash_4: circle-subway-donate-gaze
+bip_39_word_dash_5: circle-subway-donate-gaze-symptom
+bip_39_word_dash_6: circle-subway-donate-gaze-symptom-dream
+bip_39_word_dash_7: circle-subway-donate-gaze-symptom-dream-attract
+bip_39_word_dash_8: circle-subway-donate-gaze-symptom-dream-attract-gloom
+bip_39_word_dash_9: circle-subway-donate-gaze-symptom-dream-attract-gloom-equip
 bip_39_word_new_br_1: circle
 bip_39_word_new_br_10: circle<br>subway<br>donate<br>gaze<br>symptom<br>dream<br>attract<br>gloom<br>equip<br>nation
 bip_39_word_new_br_11: circle<br>subway<br>donate<br>gaze<br>symptom<br>dream<br>attract<br>gloom<br>equip<br>nation<br>photo
@@ -194,6 +206,18 @@ bip_39_word_space_6: circle subway donate gaze symptom dream
 bip_39_word_space_7: circle subway donate gaze symptom dream attract
 bip_39_word_space_8: circle subway donate gaze symptom dream attract gloom
 bip_39_word_space_9: circle subway donate gaze symptom dream attract gloom equip
+bip_39_word_underscore_1: circle
+bip_39_word_underscore_10: circle_subway_donate_gaze_symptom_dream_attract_gloom_equip_nation
+bip_39_word_underscore_11: circle_subway_donate_gaze_symptom_dream_attract_gloom_equip_nation_photo
+bip_39_word_underscore_12: circle_subway_donate_gaze_symptom_dream_attract_gloom_equip_nation_photo_aunt
+bip_39_word_underscore_2: circle_subway
+bip_39_word_underscore_3: circle_subway_donate
+bip_39_word_underscore_4: circle_subway_donate_gaze
+bip_39_word_underscore_5: circle_subway_donate_gaze_symptom
+bip_39_word_underscore_6: circle_subway_donate_gaze_symptom_dream
+bip_39_word_underscore_7: circle_subway_donate_gaze_symptom_dream_attract
+bip_39_word_underscore_8: circle_subway_donate_gaze_symptom_dream_attract_gloom
+bip_39_word_underscore_9: circle_subway_donate_gaze_symptom_dream_attract_gloom_equip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

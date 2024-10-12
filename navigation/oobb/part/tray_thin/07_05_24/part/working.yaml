@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tragic
+bip_39_word_dash_10: tragic-dial-reflect-crop-visit-cash-helmet-autumn-fix-dawn
+bip_39_word_dash_11: tragic-dial-reflect-crop-visit-cash-helmet-autumn-fix-dawn-throw
+bip_39_word_dash_12: tragic-dial-reflect-crop-visit-cash-helmet-autumn-fix-dawn-throw-adapt
+bip_39_word_dash_2: tragic-dial
+bip_39_word_dash_3: tragic-dial-reflect
+bip_39_word_dash_4: tragic-dial-reflect-crop
+bip_39_word_dash_5: tragic-dial-reflect-crop-visit
+bip_39_word_dash_6: tragic-dial-reflect-crop-visit-cash
+bip_39_word_dash_7: tragic-dial-reflect-crop-visit-cash-helmet
+bip_39_word_dash_8: tragic-dial-reflect-crop-visit-cash-helmet-autumn
+bip_39_word_dash_9: tragic-dial-reflect-crop-visit-cash-helmet-autumn-fix
 bip_39_word_new_br_1: tragic
 bip_39_word_new_br_10: tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn<br>fix<br>dawn
 bip_39_word_new_br_11: tragic<br>dial<br>reflect<br>crop<br>visit<br>cash<br>helmet<br>autumn<br>fix<br>dawn<br>throw
@@ -192,6 +204,18 @@ bip_39_word_space_6: tragic dial reflect crop visit cash
 bip_39_word_space_7: tragic dial reflect crop visit cash helmet
 bip_39_word_space_8: tragic dial reflect crop visit cash helmet autumn
 bip_39_word_space_9: tragic dial reflect crop visit cash helmet autumn fix
+bip_39_word_underscore_1: tragic
+bip_39_word_underscore_10: tragic_dial_reflect_crop_visit_cash_helmet_autumn_fix_dawn
+bip_39_word_underscore_11: tragic_dial_reflect_crop_visit_cash_helmet_autumn_fix_dawn_throw
+bip_39_word_underscore_12: tragic_dial_reflect_crop_visit_cash_helmet_autumn_fix_dawn_throw_adapt
+bip_39_word_underscore_2: tragic_dial
+bip_39_word_underscore_3: tragic_dial_reflect
+bip_39_word_underscore_4: tragic_dial_reflect_crop
+bip_39_word_underscore_5: tragic_dial_reflect_crop_visit
+bip_39_word_underscore_6: tragic_dial_reflect_crop_visit_cash
+bip_39_word_underscore_7: tragic_dial_reflect_crop_visit_cash_helmet
+bip_39_word_underscore_8: tragic_dial_reflect_crop_visit_cash_helmet_autumn
+bip_39_word_underscore_9: tragic_dial_reflect_crop_visit_cash_helmet_autumn_fix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

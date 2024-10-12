@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sniff |  
+| bip_39_word_dash_10 | sniff-squeeze-news-nuclear-matter-together-dolphin-number-crisp-damage |  
+| bip_39_word_dash_11 | sniff-squeeze-news-nuclear-matter-together-dolphin-number-crisp-damage-wash |  
+| bip_39_word_dash_12 | sniff-squeeze-news-nuclear-matter-together-dolphin-number-crisp-damage-wash-afraid |  
+| bip_39_word_dash_2 | sniff-squeeze |  
+| bip_39_word_dash_3 | sniff-squeeze-news |  
+| bip_39_word_dash_4 | sniff-squeeze-news-nuclear |  
+| bip_39_word_dash_5 | sniff-squeeze-news-nuclear-matter |  
+| bip_39_word_dash_6 | sniff-squeeze-news-nuclear-matter-together |  
+| bip_39_word_dash_7 | sniff-squeeze-news-nuclear-matter-together-dolphin |  
+| bip_39_word_dash_8 | sniff-squeeze-news-nuclear-matter-together-dolphin-number |  
+| bip_39_word_dash_9 | sniff-squeeze-news-nuclear-matter-together-dolphin-number-crisp |  
 | bip_39_word_new_br_1 | sniff |  
 | bip_39_word_new_br_10 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage |  
 | bip_39_word_new_br_11 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage<br>wash |  
@@ -147,6 +159,18 @@ crisp |
 | bip_39_word_space_7 | sniff squeeze news nuclear matter together dolphin |  
 | bip_39_word_space_8 | sniff squeeze news nuclear matter together dolphin number |  
 | bip_39_word_space_9 | sniff squeeze news nuclear matter together dolphin number crisp |  
+| bip_39_word_underscore_1 | sniff |  
+| bip_39_word_underscore_10 | sniff_squeeze_news_nuclear_matter_together_dolphin_number_crisp_damage |  
+| bip_39_word_underscore_11 | sniff_squeeze_news_nuclear_matter_together_dolphin_number_crisp_damage_wash |  
+| bip_39_word_underscore_12 | sniff_squeeze_news_nuclear_matter_together_dolphin_number_crisp_damage_wash_afraid |  
+| bip_39_word_underscore_2 | sniff_squeeze |  
+| bip_39_word_underscore_3 | sniff_squeeze_news |  
+| bip_39_word_underscore_4 | sniff_squeeze_news_nuclear |  
+| bip_39_word_underscore_5 | sniff_squeeze_news_nuclear_matter |  
+| bip_39_word_underscore_6 | sniff_squeeze_news_nuclear_matter_together |  
+| bip_39_word_underscore_7 | sniff_squeeze_news_nuclear_matter_together_dolphin |  
+| bip_39_word_underscore_8 | sniff_squeeze_news_nuclear_matter_together_dolphin_number |  
+| bip_39_word_underscore_9 | sniff_squeeze_news_nuclear_matter_together_dolphin_number_crisp |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

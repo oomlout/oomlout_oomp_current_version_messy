@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quantum
+bip_39_word_dash_10: quantum-grant-palm-wear-elevator-decade-flower-rely-core-force
+bip_39_word_dash_11: quantum-grant-palm-wear-elevator-decade-flower-rely-core-force-matter
+bip_39_word_dash_12: quantum-grant-palm-wear-elevator-decade-flower-rely-core-force-matter-amazing
+bip_39_word_dash_2: quantum-grant
+bip_39_word_dash_3: quantum-grant-palm
+bip_39_word_dash_4: quantum-grant-palm-wear
+bip_39_word_dash_5: quantum-grant-palm-wear-elevator
+bip_39_word_dash_6: quantum-grant-palm-wear-elevator-decade
+bip_39_word_dash_7: quantum-grant-palm-wear-elevator-decade-flower
+bip_39_word_dash_8: quantum-grant-palm-wear-elevator-decade-flower-rely
+bip_39_word_dash_9: quantum-grant-palm-wear-elevator-decade-flower-rely-core
 bip_39_word_new_br_1: quantum
 bip_39_word_new_br_10: quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely<br>core<br>force
 bip_39_word_new_br_11: quantum<br>grant<br>palm<br>wear<br>elevator<br>decade<br>flower<br>rely<br>core<br>force<br>matter
@@ -193,6 +205,18 @@ bip_39_word_space_6: quantum grant palm wear elevator decade
 bip_39_word_space_7: quantum grant palm wear elevator decade flower
 bip_39_word_space_8: quantum grant palm wear elevator decade flower rely
 bip_39_word_space_9: quantum grant palm wear elevator decade flower rely core
+bip_39_word_underscore_1: quantum
+bip_39_word_underscore_10: quantum_grant_palm_wear_elevator_decade_flower_rely_core_force
+bip_39_word_underscore_11: quantum_grant_palm_wear_elevator_decade_flower_rely_core_force_matter
+bip_39_word_underscore_12: quantum_grant_palm_wear_elevator_decade_flower_rely_core_force_matter_amazing
+bip_39_word_underscore_2: quantum_grant
+bip_39_word_underscore_3: quantum_grant_palm
+bip_39_word_underscore_4: quantum_grant_palm_wear
+bip_39_word_underscore_5: quantum_grant_palm_wear_elevator
+bip_39_word_underscore_6: quantum_grant_palm_wear_elevator_decade
+bip_39_word_underscore_7: quantum_grant_palm_wear_elevator_decade_flower
+bip_39_word_underscore_8: quantum_grant_palm_wear_elevator_decade_flower_rely
+bip_39_word_underscore_9: quantum_grant_palm_wear_elevator_decade_flower_rely_core
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

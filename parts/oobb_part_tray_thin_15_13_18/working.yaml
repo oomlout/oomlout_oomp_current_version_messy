@@ -1,3 +1,15 @@
+bip_39_word_dash_1: comfort
+bip_39_word_dash_10: comfort-visa-approve-payment-liberty-apple-inhale-square-caution-client
+bip_39_word_dash_11: comfort-visa-approve-payment-liberty-apple-inhale-square-caution-client-tiny
+bip_39_word_dash_12: comfort-visa-approve-payment-liberty-apple-inhale-square-caution-client-tiny-ankle
+bip_39_word_dash_2: comfort-visa
+bip_39_word_dash_3: comfort-visa-approve
+bip_39_word_dash_4: comfort-visa-approve-payment
+bip_39_word_dash_5: comfort-visa-approve-payment-liberty
+bip_39_word_dash_6: comfort-visa-approve-payment-liberty-apple
+bip_39_word_dash_7: comfort-visa-approve-payment-liberty-apple-inhale
+bip_39_word_dash_8: comfort-visa-approve-payment-liberty-apple-inhale-square
+bip_39_word_dash_9: comfort-visa-approve-payment-liberty-apple-inhale-square-caution
 bip_39_word_new_br_1: comfort
 bip_39_word_new_br_10: comfort<br>visa<br>approve<br>payment<br>liberty<br>apple<br>inhale<br>square<br>caution<br>client
 bip_39_word_new_br_11: comfort<br>visa<br>approve<br>payment<br>liberty<br>apple<br>inhale<br>square<br>caution<br>client<br>tiny
@@ -194,6 +206,18 @@ bip_39_word_space_6: comfort visa approve payment liberty apple
 bip_39_word_space_7: comfort visa approve payment liberty apple inhale
 bip_39_word_space_8: comfort visa approve payment liberty apple inhale square
 bip_39_word_space_9: comfort visa approve payment liberty apple inhale square caution
+bip_39_word_underscore_1: comfort
+bip_39_word_underscore_10: comfort_visa_approve_payment_liberty_apple_inhale_square_caution_client
+bip_39_word_underscore_11: comfort_visa_approve_payment_liberty_apple_inhale_square_caution_client_tiny
+bip_39_word_underscore_12: comfort_visa_approve_payment_liberty_apple_inhale_square_caution_client_tiny_ankle
+bip_39_word_underscore_2: comfort_visa
+bip_39_word_underscore_3: comfort_visa_approve
+bip_39_word_underscore_4: comfort_visa_approve_payment
+bip_39_word_underscore_5: comfort_visa_approve_payment_liberty
+bip_39_word_underscore_6: comfort_visa_approve_payment_liberty_apple
+bip_39_word_underscore_7: comfort_visa_approve_payment_liberty_apple_inhale
+bip_39_word_underscore_8: comfort_visa_approve_payment_liberty_apple_inhale_square
+bip_39_word_underscore_9: comfort_visa_approve_payment_liberty_apple_inhale_square_caution
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

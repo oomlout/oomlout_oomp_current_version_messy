@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stem |  
+| bip_39_word_dash_10 | stem-card-magic-rebuild-betray-night-car-pony-column-twelve |  
+| bip_39_word_dash_11 | stem-card-magic-rebuild-betray-night-car-pony-column-twelve-material |  
+| bip_39_word_dash_12 | stem-card-magic-rebuild-betray-night-car-pony-column-twelve-material-analyst |  
+| bip_39_word_dash_2 | stem-card |  
+| bip_39_word_dash_3 | stem-card-magic |  
+| bip_39_word_dash_4 | stem-card-magic-rebuild |  
+| bip_39_word_dash_5 | stem-card-magic-rebuild-betray |  
+| bip_39_word_dash_6 | stem-card-magic-rebuild-betray-night |  
+| bip_39_word_dash_7 | stem-card-magic-rebuild-betray-night-car |  
+| bip_39_word_dash_8 | stem-card-magic-rebuild-betray-night-car-pony |  
+| bip_39_word_dash_9 | stem-card-magic-rebuild-betray-night-car-pony-column |  
 | bip_39_word_new_br_1 | stem |  
 | bip_39_word_new_br_10 | stem<br>card<br>magic<br>rebuild<br>betray<br>night<br>car<br>pony<br>column<br>twelve |  
 | bip_39_word_new_br_11 | stem<br>card<br>magic<br>rebuild<br>betray<br>night<br>car<br>pony<br>column<br>twelve<br>material |  
@@ -147,6 +159,18 @@ column |
 | bip_39_word_space_7 | stem card magic rebuild betray night car |  
 | bip_39_word_space_8 | stem card magic rebuild betray night car pony |  
 | bip_39_word_space_9 | stem card magic rebuild betray night car pony column |  
+| bip_39_word_underscore_1 | stem |  
+| bip_39_word_underscore_10 | stem_card_magic_rebuild_betray_night_car_pony_column_twelve |  
+| bip_39_word_underscore_11 | stem_card_magic_rebuild_betray_night_car_pony_column_twelve_material |  
+| bip_39_word_underscore_12 | stem_card_magic_rebuild_betray_night_car_pony_column_twelve_material_analyst |  
+| bip_39_word_underscore_2 | stem_card |  
+| bip_39_word_underscore_3 | stem_card_magic |  
+| bip_39_word_underscore_4 | stem_card_magic_rebuild |  
+| bip_39_word_underscore_5 | stem_card_magic_rebuild_betray |  
+| bip_39_word_underscore_6 | stem_card_magic_rebuild_betray_night |  
+| bip_39_word_underscore_7 | stem_card_magic_rebuild_betray_night_car |  
+| bip_39_word_underscore_8 | stem_card_magic_rebuild_betray_night_car_pony |  
+| bip_39_word_underscore_9 | stem_card_magic_rebuild_betray_night_car_pony_column |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

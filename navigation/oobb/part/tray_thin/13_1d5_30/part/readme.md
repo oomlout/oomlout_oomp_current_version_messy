@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | give |  
+| bip_39_word_dash_10 | give-raise-much-sting-barely-fragile-shop-angry-retreat-online |  
+| bip_39_word_dash_11 | give-raise-much-sting-barely-fragile-shop-angry-retreat-online-bright |  
+| bip_39_word_dash_12 | give-raise-much-sting-barely-fragile-shop-angry-retreat-online-bright-adapt |  
+| bip_39_word_dash_2 | give-raise |  
+| bip_39_word_dash_3 | give-raise-much |  
+| bip_39_word_dash_4 | give-raise-much-sting |  
+| bip_39_word_dash_5 | give-raise-much-sting-barely |  
+| bip_39_word_dash_6 | give-raise-much-sting-barely-fragile |  
+| bip_39_word_dash_7 | give-raise-much-sting-barely-fragile-shop |  
+| bip_39_word_dash_8 | give-raise-much-sting-barely-fragile-shop-angry |  
+| bip_39_word_dash_9 | give-raise-much-sting-barely-fragile-shop-angry-retreat |  
 | bip_39_word_new_br_1 | give |  
 | bip_39_word_new_br_10 | give<br>raise<br>much<br>sting<br>barely<br>fragile<br>shop<br>angry<br>retreat<br>online |  
 | bip_39_word_new_br_11 | give<br>raise<br>much<br>sting<br>barely<br>fragile<br>shop<br>angry<br>retreat<br>online<br>bright |  
@@ -147,6 +159,18 @@ retreat |
 | bip_39_word_space_7 | give raise much sting barely fragile shop |  
 | bip_39_word_space_8 | give raise much sting barely fragile shop angry |  
 | bip_39_word_space_9 | give raise much sting barely fragile shop angry retreat |  
+| bip_39_word_underscore_1 | give |  
+| bip_39_word_underscore_10 | give_raise_much_sting_barely_fragile_shop_angry_retreat_online |  
+| bip_39_word_underscore_11 | give_raise_much_sting_barely_fragile_shop_angry_retreat_online_bright |  
+| bip_39_word_underscore_12 | give_raise_much_sting_barely_fragile_shop_angry_retreat_online_bright_adapt |  
+| bip_39_word_underscore_2 | give_raise |  
+| bip_39_word_underscore_3 | give_raise_much |  
+| bip_39_word_underscore_4 | give_raise_much_sting |  
+| bip_39_word_underscore_5 | give_raise_much_sting_barely |  
+| bip_39_word_underscore_6 | give_raise_much_sting_barely_fragile |  
+| bip_39_word_underscore_7 | give_raise_much_sting_barely_fragile_shop |  
+| bip_39_word_underscore_8 | give_raise_much_sting_barely_fragile_shop_angry |  
+| bip_39_word_underscore_9 | give_raise_much_sting_barely_fragile_shop_angry_retreat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

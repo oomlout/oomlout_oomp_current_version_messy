@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vendor |  
+| bip_39_word_dash_10 | vendor-cost-tackle-calm-squirrel-pink-aim-olive-happy-sustain |  
+| bip_39_word_dash_11 | vendor-cost-tackle-calm-squirrel-pink-aim-olive-happy-sustain-category |  
+| bip_39_word_dash_12 | vendor-cost-tackle-calm-squirrel-pink-aim-olive-happy-sustain-category-arena |  
+| bip_39_word_dash_2 | vendor-cost |  
+| bip_39_word_dash_3 | vendor-cost-tackle |  
+| bip_39_word_dash_4 | vendor-cost-tackle-calm |  
+| bip_39_word_dash_5 | vendor-cost-tackle-calm-squirrel |  
+| bip_39_word_dash_6 | vendor-cost-tackle-calm-squirrel-pink |  
+| bip_39_word_dash_7 | vendor-cost-tackle-calm-squirrel-pink-aim |  
+| bip_39_word_dash_8 | vendor-cost-tackle-calm-squirrel-pink-aim-olive |  
+| bip_39_word_dash_9 | vendor-cost-tackle-calm-squirrel-pink-aim-olive-happy |  
 | bip_39_word_new_br_1 | vendor |  
 | bip_39_word_new_br_10 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive<br>happy<br>sustain |  
 | bip_39_word_new_br_11 | vendor<br>cost<br>tackle<br>calm<br>squirrel<br>pink<br>aim<br>olive<br>happy<br>sustain<br>category |  
@@ -147,6 +159,18 @@ happy |
 | bip_39_word_space_7 | vendor cost tackle calm squirrel pink aim |  
 | bip_39_word_space_8 | vendor cost tackle calm squirrel pink aim olive |  
 | bip_39_word_space_9 | vendor cost tackle calm squirrel pink aim olive happy |  
+| bip_39_word_underscore_1 | vendor |  
+| bip_39_word_underscore_10 | vendor_cost_tackle_calm_squirrel_pink_aim_olive_happy_sustain |  
+| bip_39_word_underscore_11 | vendor_cost_tackle_calm_squirrel_pink_aim_olive_happy_sustain_category |  
+| bip_39_word_underscore_12 | vendor_cost_tackle_calm_squirrel_pink_aim_olive_happy_sustain_category_arena |  
+| bip_39_word_underscore_2 | vendor_cost |  
+| bip_39_word_underscore_3 | vendor_cost_tackle |  
+| bip_39_word_underscore_4 | vendor_cost_tackle_calm |  
+| bip_39_word_underscore_5 | vendor_cost_tackle_calm_squirrel |  
+| bip_39_word_underscore_6 | vendor_cost_tackle_calm_squirrel_pink |  
+| bip_39_word_underscore_7 | vendor_cost_tackle_calm_squirrel_pink_aim |  
+| bip_39_word_underscore_8 | vendor_cost_tackle_calm_squirrel_pink_aim_olive |  
+| bip_39_word_underscore_9 | vendor_cost_tackle_calm_squirrel_pink_aim_olive_happy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

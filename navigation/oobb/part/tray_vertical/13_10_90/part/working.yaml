@@ -1,3 +1,15 @@
+bip_39_word_dash_1: often
+bip_39_word_dash_10: often-romance-device-piano-impulse-song-giant-behave-ramp-expect
+bip_39_word_dash_11: often-romance-device-piano-impulse-song-giant-behave-ramp-expect-grab
+bip_39_word_dash_12: often-romance-device-piano-impulse-song-giant-behave-ramp-expect-grab-arrest
+bip_39_word_dash_2: often-romance
+bip_39_word_dash_3: often-romance-device
+bip_39_word_dash_4: often-romance-device-piano
+bip_39_word_dash_5: often-romance-device-piano-impulse
+bip_39_word_dash_6: often-romance-device-piano-impulse-song
+bip_39_word_dash_7: often-romance-device-piano-impulse-song-giant
+bip_39_word_dash_8: often-romance-device-piano-impulse-song-giant-behave
+bip_39_word_dash_9: often-romance-device-piano-impulse-song-giant-behave-ramp
 bip_39_word_new_br_1: often
 bip_39_word_new_br_10: often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect
 bip_39_word_new_br_11: often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect<br>grab
@@ -193,6 +205,18 @@ bip_39_word_space_6: often romance device piano impulse song
 bip_39_word_space_7: often romance device piano impulse song giant
 bip_39_word_space_8: often romance device piano impulse song giant behave
 bip_39_word_space_9: often romance device piano impulse song giant behave ramp
+bip_39_word_underscore_1: often
+bip_39_word_underscore_10: often_romance_device_piano_impulse_song_giant_behave_ramp_expect
+bip_39_word_underscore_11: often_romance_device_piano_impulse_song_giant_behave_ramp_expect_grab
+bip_39_word_underscore_12: often_romance_device_piano_impulse_song_giant_behave_ramp_expect_grab_arrest
+bip_39_word_underscore_2: often_romance
+bip_39_word_underscore_3: often_romance_device
+bip_39_word_underscore_4: often_romance_device_piano
+bip_39_word_underscore_5: often_romance_device_piano_impulse
+bip_39_word_underscore_6: often_romance_device_piano_impulse_song
+bip_39_word_underscore_7: often_romance_device_piano_impulse_song_giant
+bip_39_word_underscore_8: often_romance_device_piano_impulse_song_giant_behave
+bip_39_word_underscore_9: often_romance_device_piano_impulse_song_giant_behave_ramp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aunt |  
+| bip_39_word_dash_10 | aunt-glare-autumn-all-model-dinner-forum-around-cause-lumber |  
+| bip_39_word_dash_11 | aunt-glare-autumn-all-model-dinner-forum-around-cause-lumber-vote |  
+| bip_39_word_dash_12 | aunt-glare-autumn-all-model-dinner-forum-around-cause-lumber-vote-again |  
+| bip_39_word_dash_2 | aunt-glare |  
+| bip_39_word_dash_3 | aunt-glare-autumn |  
+| bip_39_word_dash_4 | aunt-glare-autumn-all |  
+| bip_39_word_dash_5 | aunt-glare-autumn-all-model |  
+| bip_39_word_dash_6 | aunt-glare-autumn-all-model-dinner |  
+| bip_39_word_dash_7 | aunt-glare-autumn-all-model-dinner-forum |  
+| bip_39_word_dash_8 | aunt-glare-autumn-all-model-dinner-forum-around |  
+| bip_39_word_dash_9 | aunt-glare-autumn-all-model-dinner-forum-around-cause |  
 | bip_39_word_new_br_1 | aunt |  
 | bip_39_word_new_br_10 | aunt<br>glare<br>autumn<br>all<br>model<br>dinner<br>forum<br>around<br>cause<br>lumber |  
 | bip_39_word_new_br_11 | aunt<br>glare<br>autumn<br>all<br>model<br>dinner<br>forum<br>around<br>cause<br>lumber<br>vote |  
@@ -147,6 +159,18 @@ cause |
 | bip_39_word_space_7 | aunt glare autumn all model dinner forum |  
 | bip_39_word_space_8 | aunt glare autumn all model dinner forum around |  
 | bip_39_word_space_9 | aunt glare autumn all model dinner forum around cause |  
+| bip_39_word_underscore_1 | aunt |  
+| bip_39_word_underscore_10 | aunt_glare_autumn_all_model_dinner_forum_around_cause_lumber |  
+| bip_39_word_underscore_11 | aunt_glare_autumn_all_model_dinner_forum_around_cause_lumber_vote |  
+| bip_39_word_underscore_12 | aunt_glare_autumn_all_model_dinner_forum_around_cause_lumber_vote_again |  
+| bip_39_word_underscore_2 | aunt_glare |  
+| bip_39_word_underscore_3 | aunt_glare_autumn |  
+| bip_39_word_underscore_4 | aunt_glare_autumn_all |  
+| bip_39_word_underscore_5 | aunt_glare_autumn_all_model |  
+| bip_39_word_underscore_6 | aunt_glare_autumn_all_model_dinner |  
+| bip_39_word_underscore_7 | aunt_glare_autumn_all_model_dinner_forum |  
+| bip_39_word_underscore_8 | aunt_glare_autumn_all_model_dinner_forum_around |  
+| bip_39_word_underscore_9 | aunt_glare_autumn_all_model_dinner_forum_around_cause |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

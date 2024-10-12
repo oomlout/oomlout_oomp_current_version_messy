@@ -1,3 +1,15 @@
+bip_39_word_dash_1: because
+bip_39_word_dash_10: because-trim-lazy-double-door-begin-theory-install-border-survey
+bip_39_word_dash_11: because-trim-lazy-double-door-begin-theory-install-border-survey-soon
+bip_39_word_dash_12: because-trim-lazy-double-door-begin-theory-install-border-survey-soon-addict
+bip_39_word_dash_2: because-trim
+bip_39_word_dash_3: because-trim-lazy
+bip_39_word_dash_4: because-trim-lazy-double
+bip_39_word_dash_5: because-trim-lazy-double-door
+bip_39_word_dash_6: because-trim-lazy-double-door-begin
+bip_39_word_dash_7: because-trim-lazy-double-door-begin-theory
+bip_39_word_dash_8: because-trim-lazy-double-door-begin-theory-install
+bip_39_word_dash_9: because-trim-lazy-double-door-begin-theory-install-border
 bip_39_word_new_br_1: because
 bip_39_word_new_br_10: because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install<br>border<br>survey
 bip_39_word_new_br_11: because<br>trim<br>lazy<br>double<br>door<br>begin<br>theory<br>install<br>border<br>survey<br>soon
@@ -193,6 +205,18 @@ bip_39_word_space_6: because trim lazy double door begin
 bip_39_word_space_7: because trim lazy double door begin theory
 bip_39_word_space_8: because trim lazy double door begin theory install
 bip_39_word_space_9: because trim lazy double door begin theory install border
+bip_39_word_underscore_1: because
+bip_39_word_underscore_10: because_trim_lazy_double_door_begin_theory_install_border_survey
+bip_39_word_underscore_11: because_trim_lazy_double_door_begin_theory_install_border_survey_soon
+bip_39_word_underscore_12: because_trim_lazy_double_door_begin_theory_install_border_survey_soon_addict
+bip_39_word_underscore_2: because_trim
+bip_39_word_underscore_3: because_trim_lazy
+bip_39_word_underscore_4: because_trim_lazy_double
+bip_39_word_underscore_5: because_trim_lazy_double_door
+bip_39_word_underscore_6: because_trim_lazy_double_door_begin
+bip_39_word_underscore_7: because_trim_lazy_double_door_begin_theory
+bip_39_word_underscore_8: because_trim_lazy_double_door_begin_theory_install
+bip_39_word_underscore_9: because_trim_lazy_double_door_begin_theory_install_border
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

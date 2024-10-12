@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | private |  
+| bip_39_word_dash_10 | private-post-ethics-vicious-bird-federal-shove-convince-spread-fame |  
+| bip_39_word_dash_11 | private-post-ethics-vicious-bird-federal-shove-convince-spread-fame-setup |  
+| bip_39_word_dash_12 | private-post-ethics-vicious-bird-federal-shove-convince-spread-fame-setup-access |  
+| bip_39_word_dash_2 | private-post |  
+| bip_39_word_dash_3 | private-post-ethics |  
+| bip_39_word_dash_4 | private-post-ethics-vicious |  
+| bip_39_word_dash_5 | private-post-ethics-vicious-bird |  
+| bip_39_word_dash_6 | private-post-ethics-vicious-bird-federal |  
+| bip_39_word_dash_7 | private-post-ethics-vicious-bird-federal-shove |  
+| bip_39_word_dash_8 | private-post-ethics-vicious-bird-federal-shove-convince |  
+| bip_39_word_dash_9 | private-post-ethics-vicious-bird-federal-shove-convince-spread |  
 | bip_39_word_new_br_1 | private |  
 | bip_39_word_new_br_10 | private<br>post<br>ethics<br>vicious<br>bird<br>federal<br>shove<br>convince<br>spread<br>fame |  
 | bip_39_word_new_br_11 | private<br>post<br>ethics<br>vicious<br>bird<br>federal<br>shove<br>convince<br>spread<br>fame<br>setup |  
@@ -147,6 +159,18 @@ spread |
 | bip_39_word_space_7 | private post ethics vicious bird federal shove |  
 | bip_39_word_space_8 | private post ethics vicious bird federal shove convince |  
 | bip_39_word_space_9 | private post ethics vicious bird federal shove convince spread |  
+| bip_39_word_underscore_1 | private |  
+| bip_39_word_underscore_10 | private_post_ethics_vicious_bird_federal_shove_convince_spread_fame |  
+| bip_39_word_underscore_11 | private_post_ethics_vicious_bird_federal_shove_convince_spread_fame_setup |  
+| bip_39_word_underscore_12 | private_post_ethics_vicious_bird_federal_shove_convince_spread_fame_setup_access |  
+| bip_39_word_underscore_2 | private_post |  
+| bip_39_word_underscore_3 | private_post_ethics |  
+| bip_39_word_underscore_4 | private_post_ethics_vicious |  
+| bip_39_word_underscore_5 | private_post_ethics_vicious_bird |  
+| bip_39_word_underscore_6 | private_post_ethics_vicious_bird_federal |  
+| bip_39_word_underscore_7 | private_post_ethics_vicious_bird_federal_shove |  
+| bip_39_word_underscore_8 | private_post_ethics_vicious_bird_federal_shove_convince |  
+| bip_39_word_underscore_9 | private_post_ethics_vicious_bird_federal_shove_convince_spread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

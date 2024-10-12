@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | raw |  
+| bip_39_word_dash_10 | raw-frost-front-almost-script-siege-language-olympic-peasant-soccer |  
+| bip_39_word_dash_11 | raw-frost-front-almost-script-siege-language-olympic-peasant-soccer-skill |  
+| bip_39_word_dash_12 | raw-frost-front-almost-script-siege-language-olympic-peasant-soccer-skill-amateur |  
+| bip_39_word_dash_2 | raw-frost |  
+| bip_39_word_dash_3 | raw-frost-front |  
+| bip_39_word_dash_4 | raw-frost-front-almost |  
+| bip_39_word_dash_5 | raw-frost-front-almost-script |  
+| bip_39_word_dash_6 | raw-frost-front-almost-script-siege |  
+| bip_39_word_dash_7 | raw-frost-front-almost-script-siege-language |  
+| bip_39_word_dash_8 | raw-frost-front-almost-script-siege-language-olympic |  
+| bip_39_word_dash_9 | raw-frost-front-almost-script-siege-language-olympic-peasant |  
 | bip_39_word_new_br_1 | raw |  
 | bip_39_word_new_br_10 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic<br>peasant<br>soccer |  
 | bip_39_word_new_br_11 | raw<br>frost<br>front<br>almost<br>script<br>siege<br>language<br>olympic<br>peasant<br>soccer<br>skill |  
@@ -147,6 +159,18 @@ peasant |
 | bip_39_word_space_7 | raw frost front almost script siege language |  
 | bip_39_word_space_8 | raw frost front almost script siege language olympic |  
 | bip_39_word_space_9 | raw frost front almost script siege language olympic peasant |  
+| bip_39_word_underscore_1 | raw |  
+| bip_39_word_underscore_10 | raw_frost_front_almost_script_siege_language_olympic_peasant_soccer |  
+| bip_39_word_underscore_11 | raw_frost_front_almost_script_siege_language_olympic_peasant_soccer_skill |  
+| bip_39_word_underscore_12 | raw_frost_front_almost_script_siege_language_olympic_peasant_soccer_skill_amateur |  
+| bip_39_word_underscore_2 | raw_frost |  
+| bip_39_word_underscore_3 | raw_frost_front |  
+| bip_39_word_underscore_4 | raw_frost_front_almost |  
+| bip_39_word_underscore_5 | raw_frost_front_almost_script |  
+| bip_39_word_underscore_6 | raw_frost_front_almost_script_siege |  
+| bip_39_word_underscore_7 | raw_frost_front_almost_script_siege_language |  
+| bip_39_word_underscore_8 | raw_frost_front_almost_script_siege_language_olympic |  
+| bip_39_word_underscore_9 | raw_frost_front_almost_script_siege_language_olympic_peasant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

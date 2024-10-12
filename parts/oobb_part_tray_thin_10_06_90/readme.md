@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leave |  
+| bip_39_word_dash_10 | leave-eternal-clutch-neck-mercy-hint-there-mesh-mesh-exact |  
+| bip_39_word_dash_11 | leave-eternal-clutch-neck-mercy-hint-there-mesh-mesh-exact-orient |  
+| bip_39_word_dash_12 | leave-eternal-clutch-neck-mercy-hint-there-mesh-mesh-exact-orient-adapt |  
+| bip_39_word_dash_2 | leave-eternal |  
+| bip_39_word_dash_3 | leave-eternal-clutch |  
+| bip_39_word_dash_4 | leave-eternal-clutch-neck |  
+| bip_39_word_dash_5 | leave-eternal-clutch-neck-mercy |  
+| bip_39_word_dash_6 | leave-eternal-clutch-neck-mercy-hint |  
+| bip_39_word_dash_7 | leave-eternal-clutch-neck-mercy-hint-there |  
+| bip_39_word_dash_8 | leave-eternal-clutch-neck-mercy-hint-there-mesh |  
+| bip_39_word_dash_9 | leave-eternal-clutch-neck-mercy-hint-there-mesh-mesh |  
 | bip_39_word_new_br_1 | leave |  
 | bip_39_word_new_br_10 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact |  
 | bip_39_word_new_br_11 | leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact<br>orient |  
@@ -147,6 +159,18 @@ mesh |
 | bip_39_word_space_7 | leave eternal clutch neck mercy hint there |  
 | bip_39_word_space_8 | leave eternal clutch neck mercy hint there mesh |  
 | bip_39_word_space_9 | leave eternal clutch neck mercy hint there mesh mesh |  
+| bip_39_word_underscore_1 | leave |  
+| bip_39_word_underscore_10 | leave_eternal_clutch_neck_mercy_hint_there_mesh_mesh_exact |  
+| bip_39_word_underscore_11 | leave_eternal_clutch_neck_mercy_hint_there_mesh_mesh_exact_orient |  
+| bip_39_word_underscore_12 | leave_eternal_clutch_neck_mercy_hint_there_mesh_mesh_exact_orient_adapt |  
+| bip_39_word_underscore_2 | leave_eternal |  
+| bip_39_word_underscore_3 | leave_eternal_clutch |  
+| bip_39_word_underscore_4 | leave_eternal_clutch_neck |  
+| bip_39_word_underscore_5 | leave_eternal_clutch_neck_mercy |  
+| bip_39_word_underscore_6 | leave_eternal_clutch_neck_mercy_hint |  
+| bip_39_word_underscore_7 | leave_eternal_clutch_neck_mercy_hint_there |  
+| bip_39_word_underscore_8 | leave_eternal_clutch_neck_mercy_hint_there_mesh |  
+| bip_39_word_underscore_9 | leave_eternal_clutch_neck_mercy_hint_there_mesh_mesh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

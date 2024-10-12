@@ -1,3 +1,15 @@
+bip_39_word_dash_1: accuse
+bip_39_word_dash_10: accuse-arena-cinnamon-bamboo-alley-middle-admit-sponsor-first-open
+bip_39_word_dash_11: accuse-arena-cinnamon-bamboo-alley-middle-admit-sponsor-first-open-unhappy
+bip_39_word_dash_12: accuse-arena-cinnamon-bamboo-alley-middle-admit-sponsor-first-open-unhappy-again
+bip_39_word_dash_2: accuse-arena
+bip_39_word_dash_3: accuse-arena-cinnamon
+bip_39_word_dash_4: accuse-arena-cinnamon-bamboo
+bip_39_word_dash_5: accuse-arena-cinnamon-bamboo-alley
+bip_39_word_dash_6: accuse-arena-cinnamon-bamboo-alley-middle
+bip_39_word_dash_7: accuse-arena-cinnamon-bamboo-alley-middle-admit
+bip_39_word_dash_8: accuse-arena-cinnamon-bamboo-alley-middle-admit-sponsor
+bip_39_word_dash_9: accuse-arena-cinnamon-bamboo-alley-middle-admit-sponsor-first
 bip_39_word_new_br_1: accuse
 bip_39_word_new_br_10: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor<br>first<br>open
 bip_39_word_new_br_11: accuse<br>arena<br>cinnamon<br>bamboo<br>alley<br>middle<br>admit<br>sponsor<br>first<br>open<br>unhappy
@@ -194,6 +206,18 @@ bip_39_word_space_6: accuse arena cinnamon bamboo alley middle
 bip_39_word_space_7: accuse arena cinnamon bamboo alley middle admit
 bip_39_word_space_8: accuse arena cinnamon bamboo alley middle admit sponsor
 bip_39_word_space_9: accuse arena cinnamon bamboo alley middle admit sponsor first
+bip_39_word_underscore_1: accuse
+bip_39_word_underscore_10: accuse_arena_cinnamon_bamboo_alley_middle_admit_sponsor_first_open
+bip_39_word_underscore_11: accuse_arena_cinnamon_bamboo_alley_middle_admit_sponsor_first_open_unhappy
+bip_39_word_underscore_12: accuse_arena_cinnamon_bamboo_alley_middle_admit_sponsor_first_open_unhappy_again
+bip_39_word_underscore_2: accuse_arena
+bip_39_word_underscore_3: accuse_arena_cinnamon
+bip_39_word_underscore_4: accuse_arena_cinnamon_bamboo
+bip_39_word_underscore_5: accuse_arena_cinnamon_bamboo_alley
+bip_39_word_underscore_6: accuse_arena_cinnamon_bamboo_alley_middle
+bip_39_word_underscore_7: accuse_arena_cinnamon_bamboo_alley_middle_admit
+bip_39_word_underscore_8: accuse_arena_cinnamon_bamboo_alley_middle_admit_sponsor
+bip_39_word_underscore_9: accuse_arena_cinnamon_bamboo_alley_middle_admit_sponsor_first
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

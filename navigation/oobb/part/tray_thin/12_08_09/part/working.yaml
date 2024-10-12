@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ask
+bip_39_word_dash_10: ask-scout-taxi-include-rhythm-flip-pelican-blouse-size-amount
+bip_39_word_dash_11: ask-scout-taxi-include-rhythm-flip-pelican-blouse-size-amount-invest
+bip_39_word_dash_12: ask-scout-taxi-include-rhythm-flip-pelican-blouse-size-amount-invest-antique
+bip_39_word_dash_2: ask-scout
+bip_39_word_dash_3: ask-scout-taxi
+bip_39_word_dash_4: ask-scout-taxi-include
+bip_39_word_dash_5: ask-scout-taxi-include-rhythm
+bip_39_word_dash_6: ask-scout-taxi-include-rhythm-flip
+bip_39_word_dash_7: ask-scout-taxi-include-rhythm-flip-pelican
+bip_39_word_dash_8: ask-scout-taxi-include-rhythm-flip-pelican-blouse
+bip_39_word_dash_9: ask-scout-taxi-include-rhythm-flip-pelican-blouse-size
 bip_39_word_new_br_1: ask
 bip_39_word_new_br_10: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse<br>size<br>amount
 bip_39_word_new_br_11: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse<br>size<br>amount<br>invest
@@ -193,6 +205,18 @@ bip_39_word_space_6: ask scout taxi include rhythm flip
 bip_39_word_space_7: ask scout taxi include rhythm flip pelican
 bip_39_word_space_8: ask scout taxi include rhythm flip pelican blouse
 bip_39_word_space_9: ask scout taxi include rhythm flip pelican blouse size
+bip_39_word_underscore_1: ask
+bip_39_word_underscore_10: ask_scout_taxi_include_rhythm_flip_pelican_blouse_size_amount
+bip_39_word_underscore_11: ask_scout_taxi_include_rhythm_flip_pelican_blouse_size_amount_invest
+bip_39_word_underscore_12: ask_scout_taxi_include_rhythm_flip_pelican_blouse_size_amount_invest_antique
+bip_39_word_underscore_2: ask_scout
+bip_39_word_underscore_3: ask_scout_taxi
+bip_39_word_underscore_4: ask_scout_taxi_include
+bip_39_word_underscore_5: ask_scout_taxi_include_rhythm
+bip_39_word_underscore_6: ask_scout_taxi_include_rhythm_flip
+bip_39_word_underscore_7: ask_scout_taxi_include_rhythm_flip_pelican
+bip_39_word_underscore_8: ask_scout_taxi_include_rhythm_flip_pelican_blouse
+bip_39_word_underscore_9: ask_scout_taxi_include_rhythm_flip_pelican_blouse_size
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

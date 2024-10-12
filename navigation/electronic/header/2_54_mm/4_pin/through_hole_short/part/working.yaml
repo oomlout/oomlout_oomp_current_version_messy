@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tuition
+bip_39_word_dash_10: tuition-bunker-battle-burger-dish-uphold-bulk-spawn-yard-census
+bip_39_word_dash_11: tuition-bunker-battle-burger-dish-uphold-bulk-spawn-yard-census-afford
+bip_39_word_dash_12: tuition-bunker-battle-burger-dish-uphold-bulk-spawn-yard-census-afford-author
+bip_39_word_dash_2: tuition-bunker
+bip_39_word_dash_3: tuition-bunker-battle
+bip_39_word_dash_4: tuition-bunker-battle-burger
+bip_39_word_dash_5: tuition-bunker-battle-burger-dish
+bip_39_word_dash_6: tuition-bunker-battle-burger-dish-uphold
+bip_39_word_dash_7: tuition-bunker-battle-burger-dish-uphold-bulk
+bip_39_word_dash_8: tuition-bunker-battle-burger-dish-uphold-bulk-spawn
+bip_39_word_dash_9: tuition-bunker-battle-burger-dish-uphold-bulk-spawn-yard
 bip_39_word_new_br_1: tuition
 bip_39_word_new_br_10: tuition<br>bunker<br>battle<br>burger<br>dish<br>uphold<br>bulk<br>spawn<br>yard<br>census
 bip_39_word_new_br_11: tuition<br>bunker<br>battle<br>burger<br>dish<br>uphold<br>bulk<br>spawn<br>yard<br>census<br>afford
@@ -193,6 +205,18 @@ bip_39_word_space_6: tuition bunker battle burger dish uphold
 bip_39_word_space_7: tuition bunker battle burger dish uphold bulk
 bip_39_word_space_8: tuition bunker battle burger dish uphold bulk spawn
 bip_39_word_space_9: tuition bunker battle burger dish uphold bulk spawn yard
+bip_39_word_underscore_1: tuition
+bip_39_word_underscore_10: tuition_bunker_battle_burger_dish_uphold_bulk_spawn_yard_census
+bip_39_word_underscore_11: tuition_bunker_battle_burger_dish_uphold_bulk_spawn_yard_census_afford
+bip_39_word_underscore_12: tuition_bunker_battle_burger_dish_uphold_bulk_spawn_yard_census_afford_author
+bip_39_word_underscore_2: tuition_bunker
+bip_39_word_underscore_3: tuition_bunker_battle
+bip_39_word_underscore_4: tuition_bunker_battle_burger
+bip_39_word_underscore_5: tuition_bunker_battle_burger_dish
+bip_39_word_underscore_6: tuition_bunker_battle_burger_dish_uphold
+bip_39_word_underscore_7: tuition_bunker_battle_burger_dish_uphold_bulk
+bip_39_word_underscore_8: tuition_bunker_battle_burger_dish_uphold_bulk_spawn
+bip_39_word_underscore_9: tuition_bunker_battle_burger_dish_uphold_bulk_spawn_yard
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

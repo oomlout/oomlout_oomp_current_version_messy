@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | palace |  
+| bip_39_word_dash_10 | palace-dog-term-move-muscle-toast-gown-betray-direct-better |  
+| bip_39_word_dash_11 | palace-dog-term-move-muscle-toast-gown-betray-direct-better-hire |  
+| bip_39_word_dash_12 | palace-dog-term-move-muscle-toast-gown-betray-direct-better-hire-almost |  
+| bip_39_word_dash_2 | palace-dog |  
+| bip_39_word_dash_3 | palace-dog-term |  
+| bip_39_word_dash_4 | palace-dog-term-move |  
+| bip_39_word_dash_5 | palace-dog-term-move-muscle |  
+| bip_39_word_dash_6 | palace-dog-term-move-muscle-toast |  
+| bip_39_word_dash_7 | palace-dog-term-move-muscle-toast-gown |  
+| bip_39_word_dash_8 | palace-dog-term-move-muscle-toast-gown-betray |  
+| bip_39_word_dash_9 | palace-dog-term-move-muscle-toast-gown-betray-direct |  
 | bip_39_word_new_br_1 | palace |  
 | bip_39_word_new_br_10 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray<br>direct<br>better |  
 | bip_39_word_new_br_11 | palace<br>dog<br>term<br>move<br>muscle<br>toast<br>gown<br>betray<br>direct<br>better<br>hire |  
@@ -147,6 +159,18 @@ direct |
 | bip_39_word_space_7 | palace dog term move muscle toast gown |  
 | bip_39_word_space_8 | palace dog term move muscle toast gown betray |  
 | bip_39_word_space_9 | palace dog term move muscle toast gown betray direct |  
+| bip_39_word_underscore_1 | palace |  
+| bip_39_word_underscore_10 | palace_dog_term_move_muscle_toast_gown_betray_direct_better |  
+| bip_39_word_underscore_11 | palace_dog_term_move_muscle_toast_gown_betray_direct_better_hire |  
+| bip_39_word_underscore_12 | palace_dog_term_move_muscle_toast_gown_betray_direct_better_hire_almost |  
+| bip_39_word_underscore_2 | palace_dog |  
+| bip_39_word_underscore_3 | palace_dog_term |  
+| bip_39_word_underscore_4 | palace_dog_term_move |  
+| bip_39_word_underscore_5 | palace_dog_term_move_muscle |  
+| bip_39_word_underscore_6 | palace_dog_term_move_muscle_toast |  
+| bip_39_word_underscore_7 | palace_dog_term_move_muscle_toast_gown |  
+| bip_39_word_underscore_8 | palace_dog_term_move_muscle_toast_gown_betray |  
+| bip_39_word_underscore_9 | palace_dog_term_move_muscle_toast_gown_betray_direct |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crane |  
+| bip_39_word_dash_10 | crane-exercise-final-seven-day-grab-code-roof-cheap-position |  
+| bip_39_word_dash_11 | crane-exercise-final-seven-day-grab-code-roof-cheap-position-choose |  
+| bip_39_word_dash_12 | crane-exercise-final-seven-day-grab-code-roof-cheap-position-choose-amazing |  
+| bip_39_word_dash_2 | crane-exercise |  
+| bip_39_word_dash_3 | crane-exercise-final |  
+| bip_39_word_dash_4 | crane-exercise-final-seven |  
+| bip_39_word_dash_5 | crane-exercise-final-seven-day |  
+| bip_39_word_dash_6 | crane-exercise-final-seven-day-grab |  
+| bip_39_word_dash_7 | crane-exercise-final-seven-day-grab-code |  
+| bip_39_word_dash_8 | crane-exercise-final-seven-day-grab-code-roof |  
+| bip_39_word_dash_9 | crane-exercise-final-seven-day-grab-code-roof-cheap |  
 | bip_39_word_new_br_1 | crane |  
 | bip_39_word_new_br_10 | crane<br>exercise<br>final<br>seven<br>day<br>grab<br>code<br>roof<br>cheap<br>position |  
 | bip_39_word_new_br_11 | crane<br>exercise<br>final<br>seven<br>day<br>grab<br>code<br>roof<br>cheap<br>position<br>choose |  
@@ -147,6 +159,18 @@ cheap |
 | bip_39_word_space_7 | crane exercise final seven day grab code |  
 | bip_39_word_space_8 | crane exercise final seven day grab code roof |  
 | bip_39_word_space_9 | crane exercise final seven day grab code roof cheap |  
+| bip_39_word_underscore_1 | crane |  
+| bip_39_word_underscore_10 | crane_exercise_final_seven_day_grab_code_roof_cheap_position |  
+| bip_39_word_underscore_11 | crane_exercise_final_seven_day_grab_code_roof_cheap_position_choose |  
+| bip_39_word_underscore_12 | crane_exercise_final_seven_day_grab_code_roof_cheap_position_choose_amazing |  
+| bip_39_word_underscore_2 | crane_exercise |  
+| bip_39_word_underscore_3 | crane_exercise_final |  
+| bip_39_word_underscore_4 | crane_exercise_final_seven |  
+| bip_39_word_underscore_5 | crane_exercise_final_seven_day |  
+| bip_39_word_underscore_6 | crane_exercise_final_seven_day_grab |  
+| bip_39_word_underscore_7 | crane_exercise_final_seven_day_grab_code |  
+| bip_39_word_underscore_8 | crane_exercise_final_seven_day_grab_code_roof |  
+| bip_39_word_underscore_9 | crane_exercise_final_seven_day_grab_code_roof_cheap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

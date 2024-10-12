@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wall
+bip_39_word_dash_10: wall-quantum-luggage-resist-muffin-decorate-truly-marine-trap-guide
+bip_39_word_dash_11: wall-quantum-luggage-resist-muffin-decorate-truly-marine-trap-guide-curtain
+bip_39_word_dash_12: wall-quantum-luggage-resist-muffin-decorate-truly-marine-trap-guide-curtain-arctic
+bip_39_word_dash_2: wall-quantum
+bip_39_word_dash_3: wall-quantum-luggage
+bip_39_word_dash_4: wall-quantum-luggage-resist
+bip_39_word_dash_5: wall-quantum-luggage-resist-muffin
+bip_39_word_dash_6: wall-quantum-luggage-resist-muffin-decorate
+bip_39_word_dash_7: wall-quantum-luggage-resist-muffin-decorate-truly
+bip_39_word_dash_8: wall-quantum-luggage-resist-muffin-decorate-truly-marine
+bip_39_word_dash_9: wall-quantum-luggage-resist-muffin-decorate-truly-marine-trap
 bip_39_word_new_br_1: wall
 bip_39_word_new_br_10: wall<br>quantum<br>luggage<br>resist<br>muffin<br>decorate<br>truly<br>marine<br>trap<br>guide
 bip_39_word_new_br_11: wall<br>quantum<br>luggage<br>resist<br>muffin<br>decorate<br>truly<br>marine<br>trap<br>guide<br>curtain
@@ -194,6 +206,18 @@ bip_39_word_space_6: wall quantum luggage resist muffin decorate
 bip_39_word_space_7: wall quantum luggage resist muffin decorate truly
 bip_39_word_space_8: wall quantum luggage resist muffin decorate truly marine
 bip_39_word_space_9: wall quantum luggage resist muffin decorate truly marine trap
+bip_39_word_underscore_1: wall
+bip_39_word_underscore_10: wall_quantum_luggage_resist_muffin_decorate_truly_marine_trap_guide
+bip_39_word_underscore_11: wall_quantum_luggage_resist_muffin_decorate_truly_marine_trap_guide_curtain
+bip_39_word_underscore_12: wall_quantum_luggage_resist_muffin_decorate_truly_marine_trap_guide_curtain_arctic
+bip_39_word_underscore_2: wall_quantum
+bip_39_word_underscore_3: wall_quantum_luggage
+bip_39_word_underscore_4: wall_quantum_luggage_resist
+bip_39_word_underscore_5: wall_quantum_luggage_resist_muffin
+bip_39_word_underscore_6: wall_quantum_luggage_resist_muffin_decorate
+bip_39_word_underscore_7: wall_quantum_luggage_resist_muffin_decorate_truly
+bip_39_word_underscore_8: wall_quantum_luggage_resist_muffin_decorate_truly_marine
+bip_39_word_underscore_9: wall_quantum_luggage_resist_muffin_decorate_truly_marine_trap
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

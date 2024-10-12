@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shop
+bip_39_word_dash_10: shop-soon-mom-inquiry-fee-master-giant-scare-vague-eyebrow
+bip_39_word_dash_11: shop-soon-mom-inquiry-fee-master-giant-scare-vague-eyebrow-paddle
+bip_39_word_dash_12: shop-soon-mom-inquiry-fee-master-giant-scare-vague-eyebrow-paddle-address
+bip_39_word_dash_2: shop-soon
+bip_39_word_dash_3: shop-soon-mom
+bip_39_word_dash_4: shop-soon-mom-inquiry
+bip_39_word_dash_5: shop-soon-mom-inquiry-fee
+bip_39_word_dash_6: shop-soon-mom-inquiry-fee-master
+bip_39_word_dash_7: shop-soon-mom-inquiry-fee-master-giant
+bip_39_word_dash_8: shop-soon-mom-inquiry-fee-master-giant-scare
+bip_39_word_dash_9: shop-soon-mom-inquiry-fee-master-giant-scare-vague
 bip_39_word_new_br_1: shop
 bip_39_word_new_br_10: shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow
 bip_39_word_new_br_11: shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow<br>paddle
@@ -192,6 +204,18 @@ bip_39_word_space_6: shop soon mom inquiry fee master
 bip_39_word_space_7: shop soon mom inquiry fee master giant
 bip_39_word_space_8: shop soon mom inquiry fee master giant scare
 bip_39_word_space_9: shop soon mom inquiry fee master giant scare vague
+bip_39_word_underscore_1: shop
+bip_39_word_underscore_10: shop_soon_mom_inquiry_fee_master_giant_scare_vague_eyebrow
+bip_39_word_underscore_11: shop_soon_mom_inquiry_fee_master_giant_scare_vague_eyebrow_paddle
+bip_39_word_underscore_12: shop_soon_mom_inquiry_fee_master_giant_scare_vague_eyebrow_paddle_address
+bip_39_word_underscore_2: shop_soon
+bip_39_word_underscore_3: shop_soon_mom
+bip_39_word_underscore_4: shop_soon_mom_inquiry
+bip_39_word_underscore_5: shop_soon_mom_inquiry_fee
+bip_39_word_underscore_6: shop_soon_mom_inquiry_fee_master
+bip_39_word_underscore_7: shop_soon_mom_inquiry_fee_master_giant
+bip_39_word_underscore_8: shop_soon_mom_inquiry_fee_master_giant_scare
+bip_39_word_underscore_9: shop_soon_mom_inquiry_fee_master_giant_scare_vague
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

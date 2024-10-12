@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rain |  
+| bip_39_word_dash_10 | rain-joke-embody-sand-clip-street-result-fat-until-deputy |  
+| bip_39_word_dash_11 | rain-joke-embody-sand-clip-street-result-fat-until-deputy-bleak |  
+| bip_39_word_dash_12 | rain-joke-embody-sand-clip-street-result-fat-until-deputy-bleak-alpha |  
+| bip_39_word_dash_2 | rain-joke |  
+| bip_39_word_dash_3 | rain-joke-embody |  
+| bip_39_word_dash_4 | rain-joke-embody-sand |  
+| bip_39_word_dash_5 | rain-joke-embody-sand-clip |  
+| bip_39_word_dash_6 | rain-joke-embody-sand-clip-street |  
+| bip_39_word_dash_7 | rain-joke-embody-sand-clip-street-result |  
+| bip_39_word_dash_8 | rain-joke-embody-sand-clip-street-result-fat |  
+| bip_39_word_dash_9 | rain-joke-embody-sand-clip-street-result-fat-until |  
 | bip_39_word_new_br_1 | rain |  
 | bip_39_word_new_br_10 | rain<br>joke<br>embody<br>sand<br>clip<br>street<br>result<br>fat<br>until<br>deputy |  
 | bip_39_word_new_br_11 | rain<br>joke<br>embody<br>sand<br>clip<br>street<br>result<br>fat<br>until<br>deputy<br>bleak |  
@@ -147,6 +159,18 @@ until |
 | bip_39_word_space_7 | rain joke embody sand clip street result |  
 | bip_39_word_space_8 | rain joke embody sand clip street result fat |  
 | bip_39_word_space_9 | rain joke embody sand clip street result fat until |  
+| bip_39_word_underscore_1 | rain |  
+| bip_39_word_underscore_10 | rain_joke_embody_sand_clip_street_result_fat_until_deputy |  
+| bip_39_word_underscore_11 | rain_joke_embody_sand_clip_street_result_fat_until_deputy_bleak |  
+| bip_39_word_underscore_12 | rain_joke_embody_sand_clip_street_result_fat_until_deputy_bleak_alpha |  
+| bip_39_word_underscore_2 | rain_joke |  
+| bip_39_word_underscore_3 | rain_joke_embody |  
+| bip_39_word_underscore_4 | rain_joke_embody_sand |  
+| bip_39_word_underscore_5 | rain_joke_embody_sand_clip |  
+| bip_39_word_underscore_6 | rain_joke_embody_sand_clip_street |  
+| bip_39_word_underscore_7 | rain_joke_embody_sand_clip_street_result |  
+| bip_39_word_underscore_8 | rain_joke_embody_sand_clip_street_result_fat |  
+| bip_39_word_underscore_9 | rain_joke_embody_sand_clip_street_result_fat_until |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

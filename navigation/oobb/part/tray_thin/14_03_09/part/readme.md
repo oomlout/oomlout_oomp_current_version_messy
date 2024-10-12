@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oil |  
+| bip_39_word_dash_10 | oil-measure-deny-alter-fancy-prosper-elbow-wealth-hover-cactus |  
+| bip_39_word_dash_11 | oil-measure-deny-alter-fancy-prosper-elbow-wealth-hover-cactus-dolphin |  
+| bip_39_word_dash_12 | oil-measure-deny-alter-fancy-prosper-elbow-wealth-hover-cactus-dolphin-aspect |  
+| bip_39_word_dash_2 | oil-measure |  
+| bip_39_word_dash_3 | oil-measure-deny |  
+| bip_39_word_dash_4 | oil-measure-deny-alter |  
+| bip_39_word_dash_5 | oil-measure-deny-alter-fancy |  
+| bip_39_word_dash_6 | oil-measure-deny-alter-fancy-prosper |  
+| bip_39_word_dash_7 | oil-measure-deny-alter-fancy-prosper-elbow |  
+| bip_39_word_dash_8 | oil-measure-deny-alter-fancy-prosper-elbow-wealth |  
+| bip_39_word_dash_9 | oil-measure-deny-alter-fancy-prosper-elbow-wealth-hover |  
 | bip_39_word_new_br_1 | oil |  
 | bip_39_word_new_br_10 | oil<br>measure<br>deny<br>alter<br>fancy<br>prosper<br>elbow<br>wealth<br>hover<br>cactus |  
 | bip_39_word_new_br_11 | oil<br>measure<br>deny<br>alter<br>fancy<br>prosper<br>elbow<br>wealth<br>hover<br>cactus<br>dolphin |  
@@ -147,6 +159,18 @@ hover |
 | bip_39_word_space_7 | oil measure deny alter fancy prosper elbow |  
 | bip_39_word_space_8 | oil measure deny alter fancy prosper elbow wealth |  
 | bip_39_word_space_9 | oil measure deny alter fancy prosper elbow wealth hover |  
+| bip_39_word_underscore_1 | oil |  
+| bip_39_word_underscore_10 | oil_measure_deny_alter_fancy_prosper_elbow_wealth_hover_cactus |  
+| bip_39_word_underscore_11 | oil_measure_deny_alter_fancy_prosper_elbow_wealth_hover_cactus_dolphin |  
+| bip_39_word_underscore_12 | oil_measure_deny_alter_fancy_prosper_elbow_wealth_hover_cactus_dolphin_aspect |  
+| bip_39_word_underscore_2 | oil_measure |  
+| bip_39_word_underscore_3 | oil_measure_deny |  
+| bip_39_word_underscore_4 | oil_measure_deny_alter |  
+| bip_39_word_underscore_5 | oil_measure_deny_alter_fancy |  
+| bip_39_word_underscore_6 | oil_measure_deny_alter_fancy_prosper |  
+| bip_39_word_underscore_7 | oil_measure_deny_alter_fancy_prosper_elbow |  
+| bip_39_word_underscore_8 | oil_measure_deny_alter_fancy_prosper_elbow_wealth |  
+| bip_39_word_underscore_9 | oil_measure_deny_alter_fancy_prosper_elbow_wealth_hover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | save |  
+| bip_39_word_dash_10 | save-ability-cheese-again-soul-margin-recipe-fence-repeat-nominee |  
+| bip_39_word_dash_11 | save-ability-cheese-again-soul-margin-recipe-fence-repeat-nominee-series |  
+| bip_39_word_dash_12 | save-ability-cheese-again-soul-margin-recipe-fence-repeat-nominee-series-alone |  
+| bip_39_word_dash_2 | save-ability |  
+| bip_39_word_dash_3 | save-ability-cheese |  
+| bip_39_word_dash_4 | save-ability-cheese-again |  
+| bip_39_word_dash_5 | save-ability-cheese-again-soul |  
+| bip_39_word_dash_6 | save-ability-cheese-again-soul-margin |  
+| bip_39_word_dash_7 | save-ability-cheese-again-soul-margin-recipe |  
+| bip_39_word_dash_8 | save-ability-cheese-again-soul-margin-recipe-fence |  
+| bip_39_word_dash_9 | save-ability-cheese-again-soul-margin-recipe-fence-repeat |  
 | bip_39_word_new_br_1 | save |  
 | bip_39_word_new_br_10 | save<br>ability<br>cheese<br>again<br>soul<br>margin<br>recipe<br>fence<br>repeat<br>nominee |  
 | bip_39_word_new_br_11 | save<br>ability<br>cheese<br>again<br>soul<br>margin<br>recipe<br>fence<br>repeat<br>nominee<br>series |  
@@ -147,6 +159,18 @@ repeat |
 | bip_39_word_space_7 | save ability cheese again soul margin recipe |  
 | bip_39_word_space_8 | save ability cheese again soul margin recipe fence |  
 | bip_39_word_space_9 | save ability cheese again soul margin recipe fence repeat |  
+| bip_39_word_underscore_1 | save |  
+| bip_39_word_underscore_10 | save_ability_cheese_again_soul_margin_recipe_fence_repeat_nominee |  
+| bip_39_word_underscore_11 | save_ability_cheese_again_soul_margin_recipe_fence_repeat_nominee_series |  
+| bip_39_word_underscore_12 | save_ability_cheese_again_soul_margin_recipe_fence_repeat_nominee_series_alone |  
+| bip_39_word_underscore_2 | save_ability |  
+| bip_39_word_underscore_3 | save_ability_cheese |  
+| bip_39_word_underscore_4 | save_ability_cheese_again |  
+| bip_39_word_underscore_5 | save_ability_cheese_again_soul |  
+| bip_39_word_underscore_6 | save_ability_cheese_again_soul_margin |  
+| bip_39_word_underscore_7 | save_ability_cheese_again_soul_margin_recipe |  
+| bip_39_word_underscore_8 | save_ability_cheese_again_soul_margin_recipe_fence |  
+| bip_39_word_underscore_9 | save_ability_cheese_again_soul_margin_recipe_fence_repeat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

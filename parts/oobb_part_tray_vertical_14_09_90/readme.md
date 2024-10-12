@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blade |  
+| bip_39_word_dash_10 | blade-quantum-stock-great-myself-paddle-exchange-author-amount-pigeon |  
+| bip_39_word_dash_11 | blade-quantum-stock-great-myself-paddle-exchange-author-amount-pigeon-oblige |  
+| bip_39_word_dash_12 | blade-quantum-stock-great-myself-paddle-exchange-author-amount-pigeon-oblige-aerobic |  
+| bip_39_word_dash_2 | blade-quantum |  
+| bip_39_word_dash_3 | blade-quantum-stock |  
+| bip_39_word_dash_4 | blade-quantum-stock-great |  
+| bip_39_word_dash_5 | blade-quantum-stock-great-myself |  
+| bip_39_word_dash_6 | blade-quantum-stock-great-myself-paddle |  
+| bip_39_word_dash_7 | blade-quantum-stock-great-myself-paddle-exchange |  
+| bip_39_word_dash_8 | blade-quantum-stock-great-myself-paddle-exchange-author |  
+| bip_39_word_dash_9 | blade-quantum-stock-great-myself-paddle-exchange-author-amount |  
 | bip_39_word_new_br_1 | blade |  
 | bip_39_word_new_br_10 | blade<br>quantum<br>stock<br>great<br>myself<br>paddle<br>exchange<br>author<br>amount<br>pigeon |  
 | bip_39_word_new_br_11 | blade<br>quantum<br>stock<br>great<br>myself<br>paddle<br>exchange<br>author<br>amount<br>pigeon<br>oblige |  
@@ -147,6 +159,18 @@ amount |
 | bip_39_word_space_7 | blade quantum stock great myself paddle exchange |  
 | bip_39_word_space_8 | blade quantum stock great myself paddle exchange author |  
 | bip_39_word_space_9 | blade quantum stock great myself paddle exchange author amount |  
+| bip_39_word_underscore_1 | blade |  
+| bip_39_word_underscore_10 | blade_quantum_stock_great_myself_paddle_exchange_author_amount_pigeon |  
+| bip_39_word_underscore_11 | blade_quantum_stock_great_myself_paddle_exchange_author_amount_pigeon_oblige |  
+| bip_39_word_underscore_12 | blade_quantum_stock_great_myself_paddle_exchange_author_amount_pigeon_oblige_aerobic |  
+| bip_39_word_underscore_2 | blade_quantum |  
+| bip_39_word_underscore_3 | blade_quantum_stock |  
+| bip_39_word_underscore_4 | blade_quantum_stock_great |  
+| bip_39_word_underscore_5 | blade_quantum_stock_great_myself |  
+| bip_39_word_underscore_6 | blade_quantum_stock_great_myself_paddle |  
+| bip_39_word_underscore_7 | blade_quantum_stock_great_myself_paddle_exchange |  
+| bip_39_word_underscore_8 | blade_quantum_stock_great_myself_paddle_exchange_author |  
+| bip_39_word_underscore_9 | blade_quantum_stock_great_myself_paddle_exchange_author_amount |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

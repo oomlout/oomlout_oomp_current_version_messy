@@ -1,3 +1,15 @@
+bip_39_word_dash_1: twice
+bip_39_word_dash_10: twice-daring-step-mimic-science-bench-end-palace-amount-shoot
+bip_39_word_dash_11: twice-daring-step-mimic-science-bench-end-palace-amount-shoot-kid
+bip_39_word_dash_12: twice-daring-step-mimic-science-bench-end-palace-amount-shoot-kid-approve
+bip_39_word_dash_2: twice-daring
+bip_39_word_dash_3: twice-daring-step
+bip_39_word_dash_4: twice-daring-step-mimic
+bip_39_word_dash_5: twice-daring-step-mimic-science
+bip_39_word_dash_6: twice-daring-step-mimic-science-bench
+bip_39_word_dash_7: twice-daring-step-mimic-science-bench-end
+bip_39_word_dash_8: twice-daring-step-mimic-science-bench-end-palace
+bip_39_word_dash_9: twice-daring-step-mimic-science-bench-end-palace-amount
 bip_39_word_new_br_1: twice
 bip_39_word_new_br_10: twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot
 bip_39_word_new_br_11: twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot<br>kid
@@ -193,6 +205,18 @@ bip_39_word_space_6: twice daring step mimic science bench
 bip_39_word_space_7: twice daring step mimic science bench end
 bip_39_word_space_8: twice daring step mimic science bench end palace
 bip_39_word_space_9: twice daring step mimic science bench end palace amount
+bip_39_word_underscore_1: twice
+bip_39_word_underscore_10: twice_daring_step_mimic_science_bench_end_palace_amount_shoot
+bip_39_word_underscore_11: twice_daring_step_mimic_science_bench_end_palace_amount_shoot_kid
+bip_39_word_underscore_12: twice_daring_step_mimic_science_bench_end_palace_amount_shoot_kid_approve
+bip_39_word_underscore_2: twice_daring
+bip_39_word_underscore_3: twice_daring_step
+bip_39_word_underscore_4: twice_daring_step_mimic
+bip_39_word_underscore_5: twice_daring_step_mimic_science
+bip_39_word_underscore_6: twice_daring_step_mimic_science_bench
+bip_39_word_underscore_7: twice_daring_step_mimic_science_bench_end
+bip_39_word_underscore_8: twice_daring_step_mimic_science_bench_end_palace
+bip_39_word_underscore_9: twice_daring_step_mimic_science_bench_end_palace_amount
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

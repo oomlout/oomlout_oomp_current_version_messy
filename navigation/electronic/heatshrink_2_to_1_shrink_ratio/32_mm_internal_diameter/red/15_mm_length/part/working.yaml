@@ -1,3 +1,15 @@
+bip_39_word_dash_1: reward
+bip_39_word_dash_10: reward-uncover-report-fish-address-retire-try-rebel-duty-oyster
+bip_39_word_dash_11: reward-uncover-report-fish-address-retire-try-rebel-duty-oyster-exact
+bip_39_word_dash_12: reward-uncover-report-fish-address-retire-try-rebel-duty-oyster-exact-angry
+bip_39_word_dash_2: reward-uncover
+bip_39_word_dash_3: reward-uncover-report
+bip_39_word_dash_4: reward-uncover-report-fish
+bip_39_word_dash_5: reward-uncover-report-fish-address
+bip_39_word_dash_6: reward-uncover-report-fish-address-retire
+bip_39_word_dash_7: reward-uncover-report-fish-address-retire-try
+bip_39_word_dash_8: reward-uncover-report-fish-address-retire-try-rebel
+bip_39_word_dash_9: reward-uncover-report-fish-address-retire-try-rebel-duty
 bip_39_word_new_br_1: reward
 bip_39_word_new_br_10: reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster
 bip_39_word_new_br_11: reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster<br>exact
@@ -193,6 +205,18 @@ bip_39_word_space_6: reward uncover report fish address retire
 bip_39_word_space_7: reward uncover report fish address retire try
 bip_39_word_space_8: reward uncover report fish address retire try rebel
 bip_39_word_space_9: reward uncover report fish address retire try rebel duty
+bip_39_word_underscore_1: reward
+bip_39_word_underscore_10: reward_uncover_report_fish_address_retire_try_rebel_duty_oyster
+bip_39_word_underscore_11: reward_uncover_report_fish_address_retire_try_rebel_duty_oyster_exact
+bip_39_word_underscore_12: reward_uncover_report_fish_address_retire_try_rebel_duty_oyster_exact_angry
+bip_39_word_underscore_2: reward_uncover
+bip_39_word_underscore_3: reward_uncover_report
+bip_39_word_underscore_4: reward_uncover_report_fish
+bip_39_word_underscore_5: reward_uncover_report_fish_address
+bip_39_word_underscore_6: reward_uncover_report_fish_address_retire
+bip_39_word_underscore_7: reward_uncover_report_fish_address_retire_try
+bip_39_word_underscore_8: reward_uncover_report_fish_address_retire_try_rebel
+bip_39_word_underscore_9: reward_uncover_report_fish_address_retire_try_rebel_duty
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

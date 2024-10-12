@@ -1,3 +1,15 @@
+bip_39_word_dash_1: broccoli
+bip_39_word_dash_10: broccoli-timber-balcony-dad-cruise-cheese-ranch-suggest-often-crush
+bip_39_word_dash_11: broccoli-timber-balcony-dad-cruise-cheese-ranch-suggest-often-crush-tenant
+bip_39_word_dash_12: broccoli-timber-balcony-dad-cruise-cheese-ranch-suggest-often-crush-tenant-armor
+bip_39_word_dash_2: broccoli-timber
+bip_39_word_dash_3: broccoli-timber-balcony
+bip_39_word_dash_4: broccoli-timber-balcony-dad
+bip_39_word_dash_5: broccoli-timber-balcony-dad-cruise
+bip_39_word_dash_6: broccoli-timber-balcony-dad-cruise-cheese
+bip_39_word_dash_7: broccoli-timber-balcony-dad-cruise-cheese-ranch
+bip_39_word_dash_8: broccoli-timber-balcony-dad-cruise-cheese-ranch-suggest
+bip_39_word_dash_9: broccoli-timber-balcony-dad-cruise-cheese-ranch-suggest-often
 bip_39_word_new_br_1: broccoli
 bip_39_word_new_br_10: broccoli<br>timber<br>balcony<br>dad<br>cruise<br>cheese<br>ranch<br>suggest<br>often<br>crush
 bip_39_word_new_br_11: broccoli<br>timber<br>balcony<br>dad<br>cruise<br>cheese<br>ranch<br>suggest<br>often<br>crush<br>tenant
@@ -194,6 +206,18 @@ bip_39_word_space_6: broccoli timber balcony dad cruise cheese
 bip_39_word_space_7: broccoli timber balcony dad cruise cheese ranch
 bip_39_word_space_8: broccoli timber balcony dad cruise cheese ranch suggest
 bip_39_word_space_9: broccoli timber balcony dad cruise cheese ranch suggest often
+bip_39_word_underscore_1: broccoli
+bip_39_word_underscore_10: broccoli_timber_balcony_dad_cruise_cheese_ranch_suggest_often_crush
+bip_39_word_underscore_11: broccoli_timber_balcony_dad_cruise_cheese_ranch_suggest_often_crush_tenant
+bip_39_word_underscore_12: broccoli_timber_balcony_dad_cruise_cheese_ranch_suggest_often_crush_tenant_armor
+bip_39_word_underscore_2: broccoli_timber
+bip_39_word_underscore_3: broccoli_timber_balcony
+bip_39_word_underscore_4: broccoli_timber_balcony_dad
+bip_39_word_underscore_5: broccoli_timber_balcony_dad_cruise
+bip_39_word_underscore_6: broccoli_timber_balcony_dad_cruise_cheese
+bip_39_word_underscore_7: broccoli_timber_balcony_dad_cruise_cheese_ranch
+bip_39_word_underscore_8: broccoli_timber_balcony_dad_cruise_cheese_ranch_suggest
+bip_39_word_underscore_9: broccoli_timber_balcony_dad_cruise_cheese_ranch_suggest_often
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

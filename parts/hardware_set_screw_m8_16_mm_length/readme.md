@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | faith |  
+| bip_39_word_dash_10 | faith-age-valid-ritual-foot-lift-seat-system-paper-strategy |  
+| bip_39_word_dash_11 | faith-age-valid-ritual-foot-lift-seat-system-paper-strategy-ethics |  
+| bip_39_word_dash_12 | faith-age-valid-ritual-foot-lift-seat-system-paper-strategy-ethics-actress |  
+| bip_39_word_dash_2 | faith-age |  
+| bip_39_word_dash_3 | faith-age-valid |  
+| bip_39_word_dash_4 | faith-age-valid-ritual |  
+| bip_39_word_dash_5 | faith-age-valid-ritual-foot |  
+| bip_39_word_dash_6 | faith-age-valid-ritual-foot-lift |  
+| bip_39_word_dash_7 | faith-age-valid-ritual-foot-lift-seat |  
+| bip_39_word_dash_8 | faith-age-valid-ritual-foot-lift-seat-system |  
+| bip_39_word_dash_9 | faith-age-valid-ritual-foot-lift-seat-system-paper |  
 | bip_39_word_new_br_1 | faith |  
 | bip_39_word_new_br_10 | faith<br>age<br>valid<br>ritual<br>foot<br>lift<br>seat<br>system<br>paper<br>strategy |  
 | bip_39_word_new_br_11 | faith<br>age<br>valid<br>ritual<br>foot<br>lift<br>seat<br>system<br>paper<br>strategy<br>ethics |  
@@ -147,6 +159,18 @@ paper |
 | bip_39_word_space_7 | faith age valid ritual foot lift seat |  
 | bip_39_word_space_8 | faith age valid ritual foot lift seat system |  
 | bip_39_word_space_9 | faith age valid ritual foot lift seat system paper |  
+| bip_39_word_underscore_1 | faith |  
+| bip_39_word_underscore_10 | faith_age_valid_ritual_foot_lift_seat_system_paper_strategy |  
+| bip_39_word_underscore_11 | faith_age_valid_ritual_foot_lift_seat_system_paper_strategy_ethics |  
+| bip_39_word_underscore_12 | faith_age_valid_ritual_foot_lift_seat_system_paper_strategy_ethics_actress |  
+| bip_39_word_underscore_2 | faith_age |  
+| bip_39_word_underscore_3 | faith_age_valid |  
+| bip_39_word_underscore_4 | faith_age_valid_ritual |  
+| bip_39_word_underscore_5 | faith_age_valid_ritual_foot |  
+| bip_39_word_underscore_6 | faith_age_valid_ritual_foot_lift |  
+| bip_39_word_underscore_7 | faith_age_valid_ritual_foot_lift_seat |  
+| bip_39_word_underscore_8 | faith_age_valid_ritual_foot_lift_seat_system |  
+| bip_39_word_underscore_9 | faith_age_valid_ritual_foot_lift_seat_system_paper |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

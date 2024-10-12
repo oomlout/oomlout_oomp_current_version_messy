@@ -1,3 +1,15 @@
+bip_39_word_dash_1: saddle
+bip_39_word_dash_10: saddle-kid-birth-tumble-poverty-wall-almost-concert-segment-chunk
+bip_39_word_dash_11: saddle-kid-birth-tumble-poverty-wall-almost-concert-segment-chunk-endorse
+bip_39_word_dash_12: saddle-kid-birth-tumble-poverty-wall-almost-concert-segment-chunk-endorse-able
+bip_39_word_dash_2: saddle-kid
+bip_39_word_dash_3: saddle-kid-birth
+bip_39_word_dash_4: saddle-kid-birth-tumble
+bip_39_word_dash_5: saddle-kid-birth-tumble-poverty
+bip_39_word_dash_6: saddle-kid-birth-tumble-poverty-wall
+bip_39_word_dash_7: saddle-kid-birth-tumble-poverty-wall-almost
+bip_39_word_dash_8: saddle-kid-birth-tumble-poverty-wall-almost-concert
+bip_39_word_dash_9: saddle-kid-birth-tumble-poverty-wall-almost-concert-segment
 bip_39_word_new_br_1: saddle
 bip_39_word_new_br_10: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert<br>segment<br>chunk
 bip_39_word_new_br_11: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert<br>segment<br>chunk<br>endorse
@@ -194,6 +206,18 @@ bip_39_word_space_6: saddle kid birth tumble poverty wall
 bip_39_word_space_7: saddle kid birth tumble poverty wall almost
 bip_39_word_space_8: saddle kid birth tumble poverty wall almost concert
 bip_39_word_space_9: saddle kid birth tumble poverty wall almost concert segment
+bip_39_word_underscore_1: saddle
+bip_39_word_underscore_10: saddle_kid_birth_tumble_poverty_wall_almost_concert_segment_chunk
+bip_39_word_underscore_11: saddle_kid_birth_tumble_poverty_wall_almost_concert_segment_chunk_endorse
+bip_39_word_underscore_12: saddle_kid_birth_tumble_poverty_wall_almost_concert_segment_chunk_endorse_able
+bip_39_word_underscore_2: saddle_kid
+bip_39_word_underscore_3: saddle_kid_birth
+bip_39_word_underscore_4: saddle_kid_birth_tumble
+bip_39_word_underscore_5: saddle_kid_birth_tumble_poverty
+bip_39_word_underscore_6: saddle_kid_birth_tumble_poverty_wall
+bip_39_word_underscore_7: saddle_kid_birth_tumble_poverty_wall_almost
+bip_39_word_underscore_8: saddle_kid_birth_tumble_poverty_wall_almost_concert
+bip_39_word_underscore_9: saddle_kid_birth_tumble_poverty_wall_almost_concert_segment
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

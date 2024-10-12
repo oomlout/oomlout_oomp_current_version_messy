@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flight
+bip_39_word_dash_10: flight-abuse-basic-raven-basket-subject-pudding-system-cover-bullet
+bip_39_word_dash_11: flight-abuse-basic-raven-basket-subject-pudding-system-cover-bullet-draft
+bip_39_word_dash_12: flight-abuse-basic-raven-basket-subject-pudding-system-cover-bullet-draft-auction
+bip_39_word_dash_2: flight-abuse
+bip_39_word_dash_3: flight-abuse-basic
+bip_39_word_dash_4: flight-abuse-basic-raven
+bip_39_word_dash_5: flight-abuse-basic-raven-basket
+bip_39_word_dash_6: flight-abuse-basic-raven-basket-subject
+bip_39_word_dash_7: flight-abuse-basic-raven-basket-subject-pudding
+bip_39_word_dash_8: flight-abuse-basic-raven-basket-subject-pudding-system
+bip_39_word_dash_9: flight-abuse-basic-raven-basket-subject-pudding-system-cover
 bip_39_word_new_br_1: flight
 bip_39_word_new_br_10: flight<br>abuse<br>basic<br>raven<br>basket<br>subject<br>pudding<br>system<br>cover<br>bullet
 bip_39_word_new_br_11: flight<br>abuse<br>basic<br>raven<br>basket<br>subject<br>pudding<br>system<br>cover<br>bullet<br>draft
@@ -194,6 +206,18 @@ bip_39_word_space_6: flight abuse basic raven basket subject
 bip_39_word_space_7: flight abuse basic raven basket subject pudding
 bip_39_word_space_8: flight abuse basic raven basket subject pudding system
 bip_39_word_space_9: flight abuse basic raven basket subject pudding system cover
+bip_39_word_underscore_1: flight
+bip_39_word_underscore_10: flight_abuse_basic_raven_basket_subject_pudding_system_cover_bullet
+bip_39_word_underscore_11: flight_abuse_basic_raven_basket_subject_pudding_system_cover_bullet_draft
+bip_39_word_underscore_12: flight_abuse_basic_raven_basket_subject_pudding_system_cover_bullet_draft_auction
+bip_39_word_underscore_2: flight_abuse
+bip_39_word_underscore_3: flight_abuse_basic
+bip_39_word_underscore_4: flight_abuse_basic_raven
+bip_39_word_underscore_5: flight_abuse_basic_raven_basket
+bip_39_word_underscore_6: flight_abuse_basic_raven_basket_subject
+bip_39_word_underscore_7: flight_abuse_basic_raven_basket_subject_pudding
+bip_39_word_underscore_8: flight_abuse_basic_raven_basket_subject_pudding_system
+bip_39_word_underscore_9: flight_abuse_basic_raven_basket_subject_pudding_system_cover
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

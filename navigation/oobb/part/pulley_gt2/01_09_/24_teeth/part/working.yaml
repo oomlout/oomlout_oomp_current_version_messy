@@ -1,3 +1,15 @@
+bip_39_word_dash_1: century
+bip_39_word_dash_10: century-recipe-aerobic-aunt-boost-quick-pepper-trap-frown-salon
+bip_39_word_dash_11: century-recipe-aerobic-aunt-boost-quick-pepper-trap-frown-salon-dove
+bip_39_word_dash_12: century-recipe-aerobic-aunt-boost-quick-pepper-trap-frown-salon-dove-arrive
+bip_39_word_dash_2: century-recipe
+bip_39_word_dash_3: century-recipe-aerobic
+bip_39_word_dash_4: century-recipe-aerobic-aunt
+bip_39_word_dash_5: century-recipe-aerobic-aunt-boost
+bip_39_word_dash_6: century-recipe-aerobic-aunt-boost-quick
+bip_39_word_dash_7: century-recipe-aerobic-aunt-boost-quick-pepper
+bip_39_word_dash_8: century-recipe-aerobic-aunt-boost-quick-pepper-trap
+bip_39_word_dash_9: century-recipe-aerobic-aunt-boost-quick-pepper-trap-frown
 bip_39_word_new_br_1: century
 bip_39_word_new_br_10: century<br>recipe<br>aerobic<br>aunt<br>boost<br>quick<br>pepper<br>trap<br>frown<br>salon
 bip_39_word_new_br_11: century<br>recipe<br>aerobic<br>aunt<br>boost<br>quick<br>pepper<br>trap<br>frown<br>salon<br>dove
@@ -193,6 +205,18 @@ bip_39_word_space_6: century recipe aerobic aunt boost quick
 bip_39_word_space_7: century recipe aerobic aunt boost quick pepper
 bip_39_word_space_8: century recipe aerobic aunt boost quick pepper trap
 bip_39_word_space_9: century recipe aerobic aunt boost quick pepper trap frown
+bip_39_word_underscore_1: century
+bip_39_word_underscore_10: century_recipe_aerobic_aunt_boost_quick_pepper_trap_frown_salon
+bip_39_word_underscore_11: century_recipe_aerobic_aunt_boost_quick_pepper_trap_frown_salon_dove
+bip_39_word_underscore_12: century_recipe_aerobic_aunt_boost_quick_pepper_trap_frown_salon_dove_arrive
+bip_39_word_underscore_2: century_recipe
+bip_39_word_underscore_3: century_recipe_aerobic
+bip_39_word_underscore_4: century_recipe_aerobic_aunt
+bip_39_word_underscore_5: century_recipe_aerobic_aunt_boost
+bip_39_word_underscore_6: century_recipe_aerobic_aunt_boost_quick
+bip_39_word_underscore_7: century_recipe_aerobic_aunt_boost_quick_pepper
+bip_39_word_underscore_8: century_recipe_aerobic_aunt_boost_quick_pepper_trap
+bip_39_word_underscore_9: century_recipe_aerobic_aunt_boost_quick_pepper_trap_frown
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

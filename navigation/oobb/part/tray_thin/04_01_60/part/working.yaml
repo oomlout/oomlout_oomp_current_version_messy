@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dish
+bip_39_word_dash_10: dish-moon-comfort-betray-payment-light-few-work-pioneer-motion
+bip_39_word_dash_11: dish-moon-comfort-betray-payment-light-few-work-pioneer-motion-sort
+bip_39_word_dash_12: dish-moon-comfort-betray-payment-light-few-work-pioneer-motion-sort-army
+bip_39_word_dash_2: dish-moon
+bip_39_word_dash_3: dish-moon-comfort
+bip_39_word_dash_4: dish-moon-comfort-betray
+bip_39_word_dash_5: dish-moon-comfort-betray-payment
+bip_39_word_dash_6: dish-moon-comfort-betray-payment-light
+bip_39_word_dash_7: dish-moon-comfort-betray-payment-light-few
+bip_39_word_dash_8: dish-moon-comfort-betray-payment-light-few-work
+bip_39_word_dash_9: dish-moon-comfort-betray-payment-light-few-work-pioneer
 bip_39_word_new_br_1: dish
 bip_39_word_new_br_10: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work<br>pioneer<br>motion
 bip_39_word_new_br_11: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work<br>pioneer<br>motion<br>sort
@@ -193,6 +205,18 @@ bip_39_word_space_6: dish moon comfort betray payment light
 bip_39_word_space_7: dish moon comfort betray payment light few
 bip_39_word_space_8: dish moon comfort betray payment light few work
 bip_39_word_space_9: dish moon comfort betray payment light few work pioneer
+bip_39_word_underscore_1: dish
+bip_39_word_underscore_10: dish_moon_comfort_betray_payment_light_few_work_pioneer_motion
+bip_39_word_underscore_11: dish_moon_comfort_betray_payment_light_few_work_pioneer_motion_sort
+bip_39_word_underscore_12: dish_moon_comfort_betray_payment_light_few_work_pioneer_motion_sort_army
+bip_39_word_underscore_2: dish_moon
+bip_39_word_underscore_3: dish_moon_comfort
+bip_39_word_underscore_4: dish_moon_comfort_betray
+bip_39_word_underscore_5: dish_moon_comfort_betray_payment
+bip_39_word_underscore_6: dish_moon_comfort_betray_payment_light
+bip_39_word_underscore_7: dish_moon_comfort_betray_payment_light_few
+bip_39_word_underscore_8: dish_moon_comfort_betray_payment_light_few_work
+bip_39_word_underscore_9: dish_moon_comfort_betray_payment_light_few_work_pioneer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

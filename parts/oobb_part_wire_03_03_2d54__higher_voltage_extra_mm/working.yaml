@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cause
+bip_39_word_dash_10: cause-shrimp-unable-action-slight-undo-hamster-sketch-royal-pride
+bip_39_word_dash_11: cause-shrimp-unable-action-slight-undo-hamster-sketch-royal-pride-pink
+bip_39_word_dash_12: cause-shrimp-unable-action-slight-undo-hamster-sketch-royal-pride-pink-add
+bip_39_word_dash_2: cause-shrimp
+bip_39_word_dash_3: cause-shrimp-unable
+bip_39_word_dash_4: cause-shrimp-unable-action
+bip_39_word_dash_5: cause-shrimp-unable-action-slight
+bip_39_word_dash_6: cause-shrimp-unable-action-slight-undo
+bip_39_word_dash_7: cause-shrimp-unable-action-slight-undo-hamster
+bip_39_word_dash_8: cause-shrimp-unable-action-slight-undo-hamster-sketch
+bip_39_word_dash_9: cause-shrimp-unable-action-slight-undo-hamster-sketch-royal
 bip_39_word_new_br_1: cause
 bip_39_word_new_br_10: cause<br>shrimp<br>unable<br>action<br>slight<br>undo<br>hamster<br>sketch<br>royal<br>pride
 bip_39_word_new_br_11: cause<br>shrimp<br>unable<br>action<br>slight<br>undo<br>hamster<br>sketch<br>royal<br>pride<br>pink
@@ -194,6 +206,18 @@ bip_39_word_space_6: cause shrimp unable action slight undo
 bip_39_word_space_7: cause shrimp unable action slight undo hamster
 bip_39_word_space_8: cause shrimp unable action slight undo hamster sketch
 bip_39_word_space_9: cause shrimp unable action slight undo hamster sketch royal
+bip_39_word_underscore_1: cause
+bip_39_word_underscore_10: cause_shrimp_unable_action_slight_undo_hamster_sketch_royal_pride
+bip_39_word_underscore_11: cause_shrimp_unable_action_slight_undo_hamster_sketch_royal_pride_pink
+bip_39_word_underscore_12: cause_shrimp_unable_action_slight_undo_hamster_sketch_royal_pride_pink_add
+bip_39_word_underscore_2: cause_shrimp
+bip_39_word_underscore_3: cause_shrimp_unable
+bip_39_word_underscore_4: cause_shrimp_unable_action
+bip_39_word_underscore_5: cause_shrimp_unable_action_slight
+bip_39_word_underscore_6: cause_shrimp_unable_action_slight_undo
+bip_39_word_underscore_7: cause_shrimp_unable_action_slight_undo_hamster
+bip_39_word_underscore_8: cause_shrimp_unable_action_slight_undo_hamster_sketch
+bip_39_word_underscore_9: cause_shrimp_unable_action_slight_undo_hamster_sketch_royal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

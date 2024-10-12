@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sword |  
+| bip_39_word_dash_10 | sword-disease-door-door-inhale-thunder-unlock-caution-garment-roof |  
+| bip_39_word_dash_11 | sword-disease-door-door-inhale-thunder-unlock-caution-garment-roof-moral |  
+| bip_39_word_dash_12 | sword-disease-door-door-inhale-thunder-unlock-caution-garment-roof-moral-apology |  
+| bip_39_word_dash_2 | sword-disease |  
+| bip_39_word_dash_3 | sword-disease-door |  
+| bip_39_word_dash_4 | sword-disease-door-door |  
+| bip_39_word_dash_5 | sword-disease-door-door-inhale |  
+| bip_39_word_dash_6 | sword-disease-door-door-inhale-thunder |  
+| bip_39_word_dash_7 | sword-disease-door-door-inhale-thunder-unlock |  
+| bip_39_word_dash_8 | sword-disease-door-door-inhale-thunder-unlock-caution |  
+| bip_39_word_dash_9 | sword-disease-door-door-inhale-thunder-unlock-caution-garment |  
 | bip_39_word_new_br_1 | sword |  
 | bip_39_word_new_br_10 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution<br>garment<br>roof |  
 | bip_39_word_new_br_11 | sword<br>disease<br>door<br>door<br>inhale<br>thunder<br>unlock<br>caution<br>garment<br>roof<br>moral |  
@@ -147,6 +159,18 @@ garment |
 | bip_39_word_space_7 | sword disease door door inhale thunder unlock |  
 | bip_39_word_space_8 | sword disease door door inhale thunder unlock caution |  
 | bip_39_word_space_9 | sword disease door door inhale thunder unlock caution garment |  
+| bip_39_word_underscore_1 | sword |  
+| bip_39_word_underscore_10 | sword_disease_door_door_inhale_thunder_unlock_caution_garment_roof |  
+| bip_39_word_underscore_11 | sword_disease_door_door_inhale_thunder_unlock_caution_garment_roof_moral |  
+| bip_39_word_underscore_12 | sword_disease_door_door_inhale_thunder_unlock_caution_garment_roof_moral_apology |  
+| bip_39_word_underscore_2 | sword_disease |  
+| bip_39_word_underscore_3 | sword_disease_door |  
+| bip_39_word_underscore_4 | sword_disease_door_door |  
+| bip_39_word_underscore_5 | sword_disease_door_door_inhale |  
+| bip_39_word_underscore_6 | sword_disease_door_door_inhale_thunder |  
+| bip_39_word_underscore_7 | sword_disease_door_door_inhale_thunder_unlock |  
+| bip_39_word_underscore_8 | sword_disease_door_door_inhale_thunder_unlock_caution |  
+| bip_39_word_underscore_9 | sword_disease_door_door_inhale_thunder_unlock_caution_garment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

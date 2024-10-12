@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exhibit |  
+| bip_39_word_dash_10 | exhibit-remember-diesel-nuclear-lizard-cement-private-supply-suggest-need |  
+| bip_39_word_dash_11 | exhibit-remember-diesel-nuclear-lizard-cement-private-supply-suggest-need-mutual |  
+| bip_39_word_dash_12 | exhibit-remember-diesel-nuclear-lizard-cement-private-supply-suggest-need-mutual-advice |  
+| bip_39_word_dash_2 | exhibit-remember |  
+| bip_39_word_dash_3 | exhibit-remember-diesel |  
+| bip_39_word_dash_4 | exhibit-remember-diesel-nuclear |  
+| bip_39_word_dash_5 | exhibit-remember-diesel-nuclear-lizard |  
+| bip_39_word_dash_6 | exhibit-remember-diesel-nuclear-lizard-cement |  
+| bip_39_word_dash_7 | exhibit-remember-diesel-nuclear-lizard-cement-private |  
+| bip_39_word_dash_8 | exhibit-remember-diesel-nuclear-lizard-cement-private-supply |  
+| bip_39_word_dash_9 | exhibit-remember-diesel-nuclear-lizard-cement-private-supply-suggest |  
 | bip_39_word_new_br_1 | exhibit |  
 | bip_39_word_new_br_10 | exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply<br>suggest<br>need |  
 | bip_39_word_new_br_11 | exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply<br>suggest<br>need<br>mutual |  
@@ -147,6 +159,18 @@ suggest |
 | bip_39_word_space_7 | exhibit remember diesel nuclear lizard cement private |  
 | bip_39_word_space_8 | exhibit remember diesel nuclear lizard cement private supply |  
 | bip_39_word_space_9 | exhibit remember diesel nuclear lizard cement private supply suggest |  
+| bip_39_word_underscore_1 | exhibit |  
+| bip_39_word_underscore_10 | exhibit_remember_diesel_nuclear_lizard_cement_private_supply_suggest_need |  
+| bip_39_word_underscore_11 | exhibit_remember_diesel_nuclear_lizard_cement_private_supply_suggest_need_mutual |  
+| bip_39_word_underscore_12 | exhibit_remember_diesel_nuclear_lizard_cement_private_supply_suggest_need_mutual_advice |  
+| bip_39_word_underscore_2 | exhibit_remember |  
+| bip_39_word_underscore_3 | exhibit_remember_diesel |  
+| bip_39_word_underscore_4 | exhibit_remember_diesel_nuclear |  
+| bip_39_word_underscore_5 | exhibit_remember_diesel_nuclear_lizard |  
+| bip_39_word_underscore_6 | exhibit_remember_diesel_nuclear_lizard_cement |  
+| bip_39_word_underscore_7 | exhibit_remember_diesel_nuclear_lizard_cement_private |  
+| bip_39_word_underscore_8 | exhibit_remember_diesel_nuclear_lizard_cement_private_supply |  
+| bip_39_word_underscore_9 | exhibit_remember_diesel_nuclear_lizard_cement_private_supply_suggest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: essence
+bip_39_word_dash_10: essence-snap-misery-below-field-trash-suggest-wall-whip-model
+bip_39_word_dash_11: essence-snap-misery-below-field-trash-suggest-wall-whip-model-leave
+bip_39_word_dash_12: essence-snap-misery-below-field-trash-suggest-wall-whip-model-leave-among
+bip_39_word_dash_2: essence-snap
+bip_39_word_dash_3: essence-snap-misery
+bip_39_word_dash_4: essence-snap-misery-below
+bip_39_word_dash_5: essence-snap-misery-below-field
+bip_39_word_dash_6: essence-snap-misery-below-field-trash
+bip_39_word_dash_7: essence-snap-misery-below-field-trash-suggest
+bip_39_word_dash_8: essence-snap-misery-below-field-trash-suggest-wall
+bip_39_word_dash_9: essence-snap-misery-below-field-trash-suggest-wall-whip
 bip_39_word_new_br_1: essence
 bip_39_word_new_br_10: essence<br>snap<br>misery<br>below<br>field<br>trash<br>suggest<br>wall<br>whip<br>model
 bip_39_word_new_br_11: essence<br>snap<br>misery<br>below<br>field<br>trash<br>suggest<br>wall<br>whip<br>model<br>leave
@@ -193,6 +205,18 @@ bip_39_word_space_6: essence snap misery below field trash
 bip_39_word_space_7: essence snap misery below field trash suggest
 bip_39_word_space_8: essence snap misery below field trash suggest wall
 bip_39_word_space_9: essence snap misery below field trash suggest wall whip
+bip_39_word_underscore_1: essence
+bip_39_word_underscore_10: essence_snap_misery_below_field_trash_suggest_wall_whip_model
+bip_39_word_underscore_11: essence_snap_misery_below_field_trash_suggest_wall_whip_model_leave
+bip_39_word_underscore_12: essence_snap_misery_below_field_trash_suggest_wall_whip_model_leave_among
+bip_39_word_underscore_2: essence_snap
+bip_39_word_underscore_3: essence_snap_misery
+bip_39_word_underscore_4: essence_snap_misery_below
+bip_39_word_underscore_5: essence_snap_misery_below_field
+bip_39_word_underscore_6: essence_snap_misery_below_field_trash
+bip_39_word_underscore_7: essence_snap_misery_below_field_trash_suggest
+bip_39_word_underscore_8: essence_snap_misery_below_field_trash_suggest_wall
+bip_39_word_underscore_9: essence_snap_misery_below_field_trash_suggest_wall_whip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

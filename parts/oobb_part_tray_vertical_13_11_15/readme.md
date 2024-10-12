@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | squirrel |  
+| bip_39_word_dash_10 | squirrel-before-alter-process-net-wheel-order-alone-mother-neutral |  
+| bip_39_word_dash_11 | squirrel-before-alter-process-net-wheel-order-alone-mother-neutral-deny |  
+| bip_39_word_dash_12 | squirrel-before-alter-process-net-wheel-order-alone-mother-neutral-deny-august |  
+| bip_39_word_dash_2 | squirrel-before |  
+| bip_39_word_dash_3 | squirrel-before-alter |  
+| bip_39_word_dash_4 | squirrel-before-alter-process |  
+| bip_39_word_dash_5 | squirrel-before-alter-process-net |  
+| bip_39_word_dash_6 | squirrel-before-alter-process-net-wheel |  
+| bip_39_word_dash_7 | squirrel-before-alter-process-net-wheel-order |  
+| bip_39_word_dash_8 | squirrel-before-alter-process-net-wheel-order-alone |  
+| bip_39_word_dash_9 | squirrel-before-alter-process-net-wheel-order-alone-mother |  
 | bip_39_word_new_br_1 | squirrel |  
 | bip_39_word_new_br_10 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral |  
 | bip_39_word_new_br_11 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral<br>deny |  
@@ -147,6 +159,18 @@ mother |
 | bip_39_word_space_7 | squirrel before alter process net wheel order |  
 | bip_39_word_space_8 | squirrel before alter process net wheel order alone |  
 | bip_39_word_space_9 | squirrel before alter process net wheel order alone mother |  
+| bip_39_word_underscore_1 | squirrel |  
+| bip_39_word_underscore_10 | squirrel_before_alter_process_net_wheel_order_alone_mother_neutral |  
+| bip_39_word_underscore_11 | squirrel_before_alter_process_net_wheel_order_alone_mother_neutral_deny |  
+| bip_39_word_underscore_12 | squirrel_before_alter_process_net_wheel_order_alone_mother_neutral_deny_august |  
+| bip_39_word_underscore_2 | squirrel_before |  
+| bip_39_word_underscore_3 | squirrel_before_alter |  
+| bip_39_word_underscore_4 | squirrel_before_alter_process |  
+| bip_39_word_underscore_5 | squirrel_before_alter_process_net |  
+| bip_39_word_underscore_6 | squirrel_before_alter_process_net_wheel |  
+| bip_39_word_underscore_7 | squirrel_before_alter_process_net_wheel_order |  
+| bip_39_word_underscore_8 | squirrel_before_alter_process_net_wheel_order_alone |  
+| bip_39_word_underscore_9 | squirrel_before_alter_process_net_wheel_order_alone_mother |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

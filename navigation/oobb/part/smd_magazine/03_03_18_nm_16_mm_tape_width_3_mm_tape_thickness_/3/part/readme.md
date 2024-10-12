@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | average |  
+| bip_39_word_dash_10 | average-caution-price-moment-return-bullet-reform-pave-meadow-indicate |  
+| bip_39_word_dash_11 | average-caution-price-moment-return-bullet-reform-pave-meadow-indicate-nerve |  
+| bip_39_word_dash_12 | average-caution-price-moment-return-bullet-reform-pave-meadow-indicate-nerve-address |  
+| bip_39_word_dash_2 | average-caution |  
+| bip_39_word_dash_3 | average-caution-price |  
+| bip_39_word_dash_4 | average-caution-price-moment |  
+| bip_39_word_dash_5 | average-caution-price-moment-return |  
+| bip_39_word_dash_6 | average-caution-price-moment-return-bullet |  
+| bip_39_word_dash_7 | average-caution-price-moment-return-bullet-reform |  
+| bip_39_word_dash_8 | average-caution-price-moment-return-bullet-reform-pave |  
+| bip_39_word_dash_9 | average-caution-price-moment-return-bullet-reform-pave-meadow |  
 | bip_39_word_new_br_1 | average |  
 | bip_39_word_new_br_10 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave<br>meadow<br>indicate |  
 | bip_39_word_new_br_11 | average<br>caution<br>price<br>moment<br>return<br>bullet<br>reform<br>pave<br>meadow<br>indicate<br>nerve |  
@@ -147,6 +159,18 @@ meadow |
 | bip_39_word_space_7 | average caution price moment return bullet reform |  
 | bip_39_word_space_8 | average caution price moment return bullet reform pave |  
 | bip_39_word_space_9 | average caution price moment return bullet reform pave meadow |  
+| bip_39_word_underscore_1 | average |  
+| bip_39_word_underscore_10 | average_caution_price_moment_return_bullet_reform_pave_meadow_indicate |  
+| bip_39_word_underscore_11 | average_caution_price_moment_return_bullet_reform_pave_meadow_indicate_nerve |  
+| bip_39_word_underscore_12 | average_caution_price_moment_return_bullet_reform_pave_meadow_indicate_nerve_address |  
+| bip_39_word_underscore_2 | average_caution |  
+| bip_39_word_underscore_3 | average_caution_price |  
+| bip_39_word_underscore_4 | average_caution_price_moment |  
+| bip_39_word_underscore_5 | average_caution_price_moment_return |  
+| bip_39_word_underscore_6 | average_caution_price_moment_return_bullet |  
+| bip_39_word_underscore_7 | average_caution_price_moment_return_bullet_reform |  
+| bip_39_word_underscore_8 | average_caution_price_moment_return_bullet_reform_pave |  
+| bip_39_word_underscore_9 | average_caution_price_moment_return_bullet_reform_pave_meadow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

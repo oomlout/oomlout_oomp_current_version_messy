@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | whip |  
+| bip_39_word_dash_10 | whip-jungle-auction-digital-potato-cost-napkin-monitor-sign-category |  
+| bip_39_word_dash_11 | whip-jungle-auction-digital-potato-cost-napkin-monitor-sign-category-throw |  
+| bip_39_word_dash_12 | whip-jungle-auction-digital-potato-cost-napkin-monitor-sign-category-throw-attack |  
+| bip_39_word_dash_2 | whip-jungle |  
+| bip_39_word_dash_3 | whip-jungle-auction |  
+| bip_39_word_dash_4 | whip-jungle-auction-digital |  
+| bip_39_word_dash_5 | whip-jungle-auction-digital-potato |  
+| bip_39_word_dash_6 | whip-jungle-auction-digital-potato-cost |  
+| bip_39_word_dash_7 | whip-jungle-auction-digital-potato-cost-napkin |  
+| bip_39_word_dash_8 | whip-jungle-auction-digital-potato-cost-napkin-monitor |  
+| bip_39_word_dash_9 | whip-jungle-auction-digital-potato-cost-napkin-monitor-sign |  
 | bip_39_word_new_br_1 | whip |  
 | bip_39_word_new_br_10 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category |  
 | bip_39_word_new_br_11 | whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category<br>throw |  
@@ -147,6 +159,18 @@ sign |
 | bip_39_word_space_7 | whip jungle auction digital potato cost napkin |  
 | bip_39_word_space_8 | whip jungle auction digital potato cost napkin monitor |  
 | bip_39_word_space_9 | whip jungle auction digital potato cost napkin monitor sign |  
+| bip_39_word_underscore_1 | whip |  
+| bip_39_word_underscore_10 | whip_jungle_auction_digital_potato_cost_napkin_monitor_sign_category |  
+| bip_39_word_underscore_11 | whip_jungle_auction_digital_potato_cost_napkin_monitor_sign_category_throw |  
+| bip_39_word_underscore_12 | whip_jungle_auction_digital_potato_cost_napkin_monitor_sign_category_throw_attack |  
+| bip_39_word_underscore_2 | whip_jungle |  
+| bip_39_word_underscore_3 | whip_jungle_auction |  
+| bip_39_word_underscore_4 | whip_jungle_auction_digital |  
+| bip_39_word_underscore_5 | whip_jungle_auction_digital_potato |  
+| bip_39_word_underscore_6 | whip_jungle_auction_digital_potato_cost |  
+| bip_39_word_underscore_7 | whip_jungle_auction_digital_potato_cost_napkin |  
+| bip_39_word_underscore_8 | whip_jungle_auction_digital_potato_cost_napkin_monitor |  
+| bip_39_word_underscore_9 | whip_jungle_auction_digital_potato_cost_napkin_monitor_sign |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

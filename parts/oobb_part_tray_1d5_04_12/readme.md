@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | payment |  
+| bip_39_word_dash_10 | payment-remain-increase-dynamic-gesture-depart-erupt-allow-deny-dance |  
+| bip_39_word_dash_11 | payment-remain-increase-dynamic-gesture-depart-erupt-allow-deny-dance-into |  
+| bip_39_word_dash_12 | payment-remain-increase-dynamic-gesture-depart-erupt-allow-deny-dance-into-audit |  
+| bip_39_word_dash_2 | payment-remain |  
+| bip_39_word_dash_3 | payment-remain-increase |  
+| bip_39_word_dash_4 | payment-remain-increase-dynamic |  
+| bip_39_word_dash_5 | payment-remain-increase-dynamic-gesture |  
+| bip_39_word_dash_6 | payment-remain-increase-dynamic-gesture-depart |  
+| bip_39_word_dash_7 | payment-remain-increase-dynamic-gesture-depart-erupt |  
+| bip_39_word_dash_8 | payment-remain-increase-dynamic-gesture-depart-erupt-allow |  
+| bip_39_word_dash_9 | payment-remain-increase-dynamic-gesture-depart-erupt-allow-deny |  
 | bip_39_word_new_br_1 | payment |  
 | bip_39_word_new_br_10 | payment<br>remain<br>increase<br>dynamic<br>gesture<br>depart<br>erupt<br>allow<br>deny<br>dance |  
 | bip_39_word_new_br_11 | payment<br>remain<br>increase<br>dynamic<br>gesture<br>depart<br>erupt<br>allow<br>deny<br>dance<br>into |  
@@ -147,6 +159,18 @@ deny |
 | bip_39_word_space_7 | payment remain increase dynamic gesture depart erupt |  
 | bip_39_word_space_8 | payment remain increase dynamic gesture depart erupt allow |  
 | bip_39_word_space_9 | payment remain increase dynamic gesture depart erupt allow deny |  
+| bip_39_word_underscore_1 | payment |  
+| bip_39_word_underscore_10 | payment_remain_increase_dynamic_gesture_depart_erupt_allow_deny_dance |  
+| bip_39_word_underscore_11 | payment_remain_increase_dynamic_gesture_depart_erupt_allow_deny_dance_into |  
+| bip_39_word_underscore_12 | payment_remain_increase_dynamic_gesture_depart_erupt_allow_deny_dance_into_audit |  
+| bip_39_word_underscore_2 | payment_remain |  
+| bip_39_word_underscore_3 | payment_remain_increase |  
+| bip_39_word_underscore_4 | payment_remain_increase_dynamic |  
+| bip_39_word_underscore_5 | payment_remain_increase_dynamic_gesture |  
+| bip_39_word_underscore_6 | payment_remain_increase_dynamic_gesture_depart |  
+| bip_39_word_underscore_7 | payment_remain_increase_dynamic_gesture_depart_erupt |  
+| bip_39_word_underscore_8 | payment_remain_increase_dynamic_gesture_depart_erupt_allow |  
+| bip_39_word_underscore_9 | payment_remain_increase_dynamic_gesture_depart_erupt_allow_deny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

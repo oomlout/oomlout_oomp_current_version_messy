@@ -1,3 +1,15 @@
+bip_39_word_dash_1: miss
+bip_39_word_dash_10: miss-use-chat-mass-pyramid-pill-mansion-north-divert-thank
+bip_39_word_dash_11: miss-use-chat-mass-pyramid-pill-mansion-north-divert-thank-latin
+bip_39_word_dash_12: miss-use-chat-mass-pyramid-pill-mansion-north-divert-thank-latin-afford
+bip_39_word_dash_2: miss-use
+bip_39_word_dash_3: miss-use-chat
+bip_39_word_dash_4: miss-use-chat-mass
+bip_39_word_dash_5: miss-use-chat-mass-pyramid
+bip_39_word_dash_6: miss-use-chat-mass-pyramid-pill
+bip_39_word_dash_7: miss-use-chat-mass-pyramid-pill-mansion
+bip_39_word_dash_8: miss-use-chat-mass-pyramid-pill-mansion-north
+bip_39_word_dash_9: miss-use-chat-mass-pyramid-pill-mansion-north-divert
 bip_39_word_new_br_1: miss
 bip_39_word_new_br_10: miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank
 bip_39_word_new_br_11: miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank<br>latin
@@ -192,6 +204,18 @@ bip_39_word_space_6: miss use chat mass pyramid pill
 bip_39_word_space_7: miss use chat mass pyramid pill mansion
 bip_39_word_space_8: miss use chat mass pyramid pill mansion north
 bip_39_word_space_9: miss use chat mass pyramid pill mansion north divert
+bip_39_word_underscore_1: miss
+bip_39_word_underscore_10: miss_use_chat_mass_pyramid_pill_mansion_north_divert_thank
+bip_39_word_underscore_11: miss_use_chat_mass_pyramid_pill_mansion_north_divert_thank_latin
+bip_39_word_underscore_12: miss_use_chat_mass_pyramid_pill_mansion_north_divert_thank_latin_afford
+bip_39_word_underscore_2: miss_use
+bip_39_word_underscore_3: miss_use_chat
+bip_39_word_underscore_4: miss_use_chat_mass
+bip_39_word_underscore_5: miss_use_chat_mass_pyramid
+bip_39_word_underscore_6: miss_use_chat_mass_pyramid_pill
+bip_39_word_underscore_7: miss_use_chat_mass_pyramid_pill_mansion
+bip_39_word_underscore_8: miss_use_chat_mass_pyramid_pill_mansion_north
+bip_39_word_underscore_9: miss_use_chat_mass_pyramid_pill_mansion_north_divert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

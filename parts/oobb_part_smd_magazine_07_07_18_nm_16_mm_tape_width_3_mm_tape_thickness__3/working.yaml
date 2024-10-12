@@ -1,3 +1,15 @@
+bip_39_word_dash_1: receive
+bip_39_word_dash_10: receive-armed-stadium-owner-have-hurdle-modify-decorate-city-mixed
+bip_39_word_dash_11: receive-armed-stadium-owner-have-hurdle-modify-decorate-city-mixed-camp
+bip_39_word_dash_12: receive-armed-stadium-owner-have-hurdle-modify-decorate-city-mixed-camp-attract
+bip_39_word_dash_2: receive-armed
+bip_39_word_dash_3: receive-armed-stadium
+bip_39_word_dash_4: receive-armed-stadium-owner
+bip_39_word_dash_5: receive-armed-stadium-owner-have
+bip_39_word_dash_6: receive-armed-stadium-owner-have-hurdle
+bip_39_word_dash_7: receive-armed-stadium-owner-have-hurdle-modify
+bip_39_word_dash_8: receive-armed-stadium-owner-have-hurdle-modify-decorate
+bip_39_word_dash_9: receive-armed-stadium-owner-have-hurdle-modify-decorate-city
 bip_39_word_new_br_1: receive
 bip_39_word_new_br_10: receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate<br>city<br>mixed
 bip_39_word_new_br_11: receive<br>armed<br>stadium<br>owner<br>have<br>hurdle<br>modify<br>decorate<br>city<br>mixed<br>camp
@@ -194,6 +206,18 @@ bip_39_word_space_6: receive armed stadium owner have hurdle
 bip_39_word_space_7: receive armed stadium owner have hurdle modify
 bip_39_word_space_8: receive armed stadium owner have hurdle modify decorate
 bip_39_word_space_9: receive armed stadium owner have hurdle modify decorate city
+bip_39_word_underscore_1: receive
+bip_39_word_underscore_10: receive_armed_stadium_owner_have_hurdle_modify_decorate_city_mixed
+bip_39_word_underscore_11: receive_armed_stadium_owner_have_hurdle_modify_decorate_city_mixed_camp
+bip_39_word_underscore_12: receive_armed_stadium_owner_have_hurdle_modify_decorate_city_mixed_camp_attract
+bip_39_word_underscore_2: receive_armed
+bip_39_word_underscore_3: receive_armed_stadium
+bip_39_word_underscore_4: receive_armed_stadium_owner
+bip_39_word_underscore_5: receive_armed_stadium_owner_have
+bip_39_word_underscore_6: receive_armed_stadium_owner_have_hurdle
+bip_39_word_underscore_7: receive_armed_stadium_owner_have_hurdle_modify
+bip_39_word_underscore_8: receive_armed_stadium_owner_have_hurdle_modify_decorate
+bip_39_word_underscore_9: receive_armed_stadium_owner_have_hurdle_modify_decorate_city
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

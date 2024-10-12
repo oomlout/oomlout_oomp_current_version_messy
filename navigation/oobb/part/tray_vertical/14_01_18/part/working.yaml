@@ -1,3 +1,15 @@
+bip_39_word_dash_1: smooth
+bip_39_word_dash_10: smooth-erase-feed-wage-power-congress-model-earth-waste-basic
+bip_39_word_dash_11: smooth-erase-feed-wage-power-congress-model-earth-waste-basic-crop
+bip_39_word_dash_12: smooth-erase-feed-wage-power-congress-model-earth-waste-basic-crop-arrow
+bip_39_word_dash_2: smooth-erase
+bip_39_word_dash_3: smooth-erase-feed
+bip_39_word_dash_4: smooth-erase-feed-wage
+bip_39_word_dash_5: smooth-erase-feed-wage-power
+bip_39_word_dash_6: smooth-erase-feed-wage-power-congress
+bip_39_word_dash_7: smooth-erase-feed-wage-power-congress-model
+bip_39_word_dash_8: smooth-erase-feed-wage-power-congress-model-earth
+bip_39_word_dash_9: smooth-erase-feed-wage-power-congress-model-earth-waste
 bip_39_word_new_br_1: smooth
 bip_39_word_new_br_10: smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic
 bip_39_word_new_br_11: smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic<br>crop
@@ -193,6 +205,18 @@ bip_39_word_space_6: smooth erase feed wage power congress
 bip_39_word_space_7: smooth erase feed wage power congress model
 bip_39_word_space_8: smooth erase feed wage power congress model earth
 bip_39_word_space_9: smooth erase feed wage power congress model earth waste
+bip_39_word_underscore_1: smooth
+bip_39_word_underscore_10: smooth_erase_feed_wage_power_congress_model_earth_waste_basic
+bip_39_word_underscore_11: smooth_erase_feed_wage_power_congress_model_earth_waste_basic_crop
+bip_39_word_underscore_12: smooth_erase_feed_wage_power_congress_model_earth_waste_basic_crop_arrow
+bip_39_word_underscore_2: smooth_erase
+bip_39_word_underscore_3: smooth_erase_feed
+bip_39_word_underscore_4: smooth_erase_feed_wage
+bip_39_word_underscore_5: smooth_erase_feed_wage_power
+bip_39_word_underscore_6: smooth_erase_feed_wage_power_congress
+bip_39_word_underscore_7: smooth_erase_feed_wage_power_congress_model
+bip_39_word_underscore_8: smooth_erase_feed_wage_power_congress_model_earth
+bip_39_word_underscore_9: smooth_erase_feed_wage_power_congress_model_earth_waste
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

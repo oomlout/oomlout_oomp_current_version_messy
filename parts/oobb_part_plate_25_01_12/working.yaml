@@ -1,3 +1,15 @@
+bip_39_word_dash_1: limit
+bip_39_word_dash_10: limit-ship-moon-catalog-valid-custom-clock-stable-excite-where
+bip_39_word_dash_11: limit-ship-moon-catalog-valid-custom-clock-stable-excite-where-patrol
+bip_39_word_dash_12: limit-ship-moon-catalog-valid-custom-clock-stable-excite-where-patrol-already
+bip_39_word_dash_2: limit-ship
+bip_39_word_dash_3: limit-ship-moon
+bip_39_word_dash_4: limit-ship-moon-catalog
+bip_39_word_dash_5: limit-ship-moon-catalog-valid
+bip_39_word_dash_6: limit-ship-moon-catalog-valid-custom
+bip_39_word_dash_7: limit-ship-moon-catalog-valid-custom-clock
+bip_39_word_dash_8: limit-ship-moon-catalog-valid-custom-clock-stable
+bip_39_word_dash_9: limit-ship-moon-catalog-valid-custom-clock-stable-excite
 bip_39_word_new_br_1: limit
 bip_39_word_new_br_10: limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable<br>excite<br>where
 bip_39_word_new_br_11: limit<br>ship<br>moon<br>catalog<br>valid<br>custom<br>clock<br>stable<br>excite<br>where<br>patrol
@@ -193,6 +205,18 @@ bip_39_word_space_6: limit ship moon catalog valid custom
 bip_39_word_space_7: limit ship moon catalog valid custom clock
 bip_39_word_space_8: limit ship moon catalog valid custom clock stable
 bip_39_word_space_9: limit ship moon catalog valid custom clock stable excite
+bip_39_word_underscore_1: limit
+bip_39_word_underscore_10: limit_ship_moon_catalog_valid_custom_clock_stable_excite_where
+bip_39_word_underscore_11: limit_ship_moon_catalog_valid_custom_clock_stable_excite_where_patrol
+bip_39_word_underscore_12: limit_ship_moon_catalog_valid_custom_clock_stable_excite_where_patrol_already
+bip_39_word_underscore_2: limit_ship
+bip_39_word_underscore_3: limit_ship_moon
+bip_39_word_underscore_4: limit_ship_moon_catalog
+bip_39_word_underscore_5: limit_ship_moon_catalog_valid
+bip_39_word_underscore_6: limit_ship_moon_catalog_valid_custom
+bip_39_word_underscore_7: limit_ship_moon_catalog_valid_custom_clock
+bip_39_word_underscore_8: limit_ship_moon_catalog_valid_custom_clock_stable
+bip_39_word_underscore_9: limit_ship_moon_catalog_valid_custom_clock_stable_excite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

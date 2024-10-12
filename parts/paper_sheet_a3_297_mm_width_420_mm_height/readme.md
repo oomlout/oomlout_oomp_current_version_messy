@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | excess |  
+| bip_39_word_dash_10 | excess-base-scatter-culture-miracle-chair-maximum-script-canyon-vehicle |  
+| bip_39_word_dash_11 | excess-base-scatter-culture-miracle-chair-maximum-script-canyon-vehicle-fragile |  
+| bip_39_word_dash_12 | excess-base-scatter-culture-miracle-chair-maximum-script-canyon-vehicle-fragile-alone |  
+| bip_39_word_dash_2 | excess-base |  
+| bip_39_word_dash_3 | excess-base-scatter |  
+| bip_39_word_dash_4 | excess-base-scatter-culture |  
+| bip_39_word_dash_5 | excess-base-scatter-culture-miracle |  
+| bip_39_word_dash_6 | excess-base-scatter-culture-miracle-chair |  
+| bip_39_word_dash_7 | excess-base-scatter-culture-miracle-chair-maximum |  
+| bip_39_word_dash_8 | excess-base-scatter-culture-miracle-chair-maximum-script |  
+| bip_39_word_dash_9 | excess-base-scatter-culture-miracle-chair-maximum-script-canyon |  
 | bip_39_word_new_br_1 | excess |  
 | bip_39_word_new_br_10 | excess<br>base<br>scatter<br>culture<br>miracle<br>chair<br>maximum<br>script<br>canyon<br>vehicle |  
 | bip_39_word_new_br_11 | excess<br>base<br>scatter<br>culture<br>miracle<br>chair<br>maximum<br>script<br>canyon<br>vehicle<br>fragile |  
@@ -147,6 +159,18 @@ canyon |
 | bip_39_word_space_7 | excess base scatter culture miracle chair maximum |  
 | bip_39_word_space_8 | excess base scatter culture miracle chair maximum script |  
 | bip_39_word_space_9 | excess base scatter culture miracle chair maximum script canyon |  
+| bip_39_word_underscore_1 | excess |  
+| bip_39_word_underscore_10 | excess_base_scatter_culture_miracle_chair_maximum_script_canyon_vehicle |  
+| bip_39_word_underscore_11 | excess_base_scatter_culture_miracle_chair_maximum_script_canyon_vehicle_fragile |  
+| bip_39_word_underscore_12 | excess_base_scatter_culture_miracle_chair_maximum_script_canyon_vehicle_fragile_alone |  
+| bip_39_word_underscore_2 | excess_base |  
+| bip_39_word_underscore_3 | excess_base_scatter |  
+| bip_39_word_underscore_4 | excess_base_scatter_culture |  
+| bip_39_word_underscore_5 | excess_base_scatter_culture_miracle |  
+| bip_39_word_underscore_6 | excess_base_scatter_culture_miracle_chair |  
+| bip_39_word_underscore_7 | excess_base_scatter_culture_miracle_chair_maximum |  
+| bip_39_word_underscore_8 | excess_base_scatter_culture_miracle_chair_maximum_script |  
+| bip_39_word_underscore_9 | excess_base_scatter_culture_miracle_chair_maximum_script_canyon |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

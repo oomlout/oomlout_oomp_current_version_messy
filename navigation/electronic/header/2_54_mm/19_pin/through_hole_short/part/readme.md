@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enforce |  
+| bip_39_word_dash_10 | enforce-truly-sure-flash-tortoise-pipe-order-absent-ride-decrease |  
+| bip_39_word_dash_11 | enforce-truly-sure-flash-tortoise-pipe-order-absent-ride-decrease-tornado |  
+| bip_39_word_dash_12 | enforce-truly-sure-flash-tortoise-pipe-order-absent-ride-decrease-tornado-antenna |  
+| bip_39_word_dash_2 | enforce-truly |  
+| bip_39_word_dash_3 | enforce-truly-sure |  
+| bip_39_word_dash_4 | enforce-truly-sure-flash |  
+| bip_39_word_dash_5 | enforce-truly-sure-flash-tortoise |  
+| bip_39_word_dash_6 | enforce-truly-sure-flash-tortoise-pipe |  
+| bip_39_word_dash_7 | enforce-truly-sure-flash-tortoise-pipe-order |  
+| bip_39_word_dash_8 | enforce-truly-sure-flash-tortoise-pipe-order-absent |  
+| bip_39_word_dash_9 | enforce-truly-sure-flash-tortoise-pipe-order-absent-ride |  
 | bip_39_word_new_br_1 | enforce |  
 | bip_39_word_new_br_10 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease |  
 | bip_39_word_new_br_11 | enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease<br>tornado |  
@@ -147,6 +159,18 @@ ride |
 | bip_39_word_space_7 | enforce truly sure flash tortoise pipe order |  
 | bip_39_word_space_8 | enforce truly sure flash tortoise pipe order absent |  
 | bip_39_word_space_9 | enforce truly sure flash tortoise pipe order absent ride |  
+| bip_39_word_underscore_1 | enforce |  
+| bip_39_word_underscore_10 | enforce_truly_sure_flash_tortoise_pipe_order_absent_ride_decrease |  
+| bip_39_word_underscore_11 | enforce_truly_sure_flash_tortoise_pipe_order_absent_ride_decrease_tornado |  
+| bip_39_word_underscore_12 | enforce_truly_sure_flash_tortoise_pipe_order_absent_ride_decrease_tornado_antenna |  
+| bip_39_word_underscore_2 | enforce_truly |  
+| bip_39_word_underscore_3 | enforce_truly_sure |  
+| bip_39_word_underscore_4 | enforce_truly_sure_flash |  
+| bip_39_word_underscore_5 | enforce_truly_sure_flash_tortoise |  
+| bip_39_word_underscore_6 | enforce_truly_sure_flash_tortoise_pipe |  
+| bip_39_word_underscore_7 | enforce_truly_sure_flash_tortoise_pipe_order |  
+| bip_39_word_underscore_8 | enforce_truly_sure_flash_tortoise_pipe_order_absent |  
+| bip_39_word_underscore_9 | enforce_truly_sure_flash_tortoise_pipe_order_absent_ride |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

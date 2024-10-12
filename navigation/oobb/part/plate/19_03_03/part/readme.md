@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cheap |  
+| bip_39_word_dash_10 | cheap-foil-frown-sphere-little-park-print-void-shuffle-cotton |  
+| bip_39_word_dash_11 | cheap-foil-frown-sphere-little-park-print-void-shuffle-cotton-special |  
+| bip_39_word_dash_12 | cheap-foil-frown-sphere-little-park-print-void-shuffle-cotton-special-all |  
+| bip_39_word_dash_2 | cheap-foil |  
+| bip_39_word_dash_3 | cheap-foil-frown |  
+| bip_39_word_dash_4 | cheap-foil-frown-sphere |  
+| bip_39_word_dash_5 | cheap-foil-frown-sphere-little |  
+| bip_39_word_dash_6 | cheap-foil-frown-sphere-little-park |  
+| bip_39_word_dash_7 | cheap-foil-frown-sphere-little-park-print |  
+| bip_39_word_dash_8 | cheap-foil-frown-sphere-little-park-print-void |  
+| bip_39_word_dash_9 | cheap-foil-frown-sphere-little-park-print-void-shuffle |  
 | bip_39_word_new_br_1 | cheap |  
 | bip_39_word_new_br_10 | cheap<br>foil<br>frown<br>sphere<br>little<br>park<br>print<br>void<br>shuffle<br>cotton |  
 | bip_39_word_new_br_11 | cheap<br>foil<br>frown<br>sphere<br>little<br>park<br>print<br>void<br>shuffle<br>cotton<br>special |  
@@ -147,6 +159,18 @@ shuffle |
 | bip_39_word_space_7 | cheap foil frown sphere little park print |  
 | bip_39_word_space_8 | cheap foil frown sphere little park print void |  
 | bip_39_word_space_9 | cheap foil frown sphere little park print void shuffle |  
+| bip_39_word_underscore_1 | cheap |  
+| bip_39_word_underscore_10 | cheap_foil_frown_sphere_little_park_print_void_shuffle_cotton |  
+| bip_39_word_underscore_11 | cheap_foil_frown_sphere_little_park_print_void_shuffle_cotton_special |  
+| bip_39_word_underscore_12 | cheap_foil_frown_sphere_little_park_print_void_shuffle_cotton_special_all |  
+| bip_39_word_underscore_2 | cheap_foil |  
+| bip_39_word_underscore_3 | cheap_foil_frown |  
+| bip_39_word_underscore_4 | cheap_foil_frown_sphere |  
+| bip_39_word_underscore_5 | cheap_foil_frown_sphere_little |  
+| bip_39_word_underscore_6 | cheap_foil_frown_sphere_little_park |  
+| bip_39_word_underscore_7 | cheap_foil_frown_sphere_little_park_print |  
+| bip_39_word_underscore_8 | cheap_foil_frown_sphere_little_park_print_void |  
+| bip_39_word_underscore_9 | cheap_foil_frown_sphere_little_park_print_void_shuffle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

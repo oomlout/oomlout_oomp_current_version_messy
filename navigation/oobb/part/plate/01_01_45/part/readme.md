@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | someone |  
+| bip_39_word_dash_10 | someone-journey-dust-lend-throw-keen-brother-among-dress-scene |  
+| bip_39_word_dash_11 | someone-journey-dust-lend-throw-keen-brother-among-dress-scene-walk |  
+| bip_39_word_dash_12 | someone-journey-dust-lend-throw-keen-brother-among-dress-scene-walk-achieve |  
+| bip_39_word_dash_2 | someone-journey |  
+| bip_39_word_dash_3 | someone-journey-dust |  
+| bip_39_word_dash_4 | someone-journey-dust-lend |  
+| bip_39_word_dash_5 | someone-journey-dust-lend-throw |  
+| bip_39_word_dash_6 | someone-journey-dust-lend-throw-keen |  
+| bip_39_word_dash_7 | someone-journey-dust-lend-throw-keen-brother |  
+| bip_39_word_dash_8 | someone-journey-dust-lend-throw-keen-brother-among |  
+| bip_39_word_dash_9 | someone-journey-dust-lend-throw-keen-brother-among-dress |  
 | bip_39_word_new_br_1 | someone |  
 | bip_39_word_new_br_10 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among<br>dress<br>scene |  
 | bip_39_word_new_br_11 | someone<br>journey<br>dust<br>lend<br>throw<br>keen<br>brother<br>among<br>dress<br>scene<br>walk |  
@@ -147,6 +159,18 @@ dress |
 | bip_39_word_space_7 | someone journey dust lend throw keen brother |  
 | bip_39_word_space_8 | someone journey dust lend throw keen brother among |  
 | bip_39_word_space_9 | someone journey dust lend throw keen brother among dress |  
+| bip_39_word_underscore_1 | someone |  
+| bip_39_word_underscore_10 | someone_journey_dust_lend_throw_keen_brother_among_dress_scene |  
+| bip_39_word_underscore_11 | someone_journey_dust_lend_throw_keen_brother_among_dress_scene_walk |  
+| bip_39_word_underscore_12 | someone_journey_dust_lend_throw_keen_brother_among_dress_scene_walk_achieve |  
+| bip_39_word_underscore_2 | someone_journey |  
+| bip_39_word_underscore_3 | someone_journey_dust |  
+| bip_39_word_underscore_4 | someone_journey_dust_lend |  
+| bip_39_word_underscore_5 | someone_journey_dust_lend_throw |  
+| bip_39_word_underscore_6 | someone_journey_dust_lend_throw_keen |  
+| bip_39_word_underscore_7 | someone_journey_dust_lend_throw_keen_brother |  
+| bip_39_word_underscore_8 | someone_journey_dust_lend_throw_keen_brother_among |  
+| bip_39_word_underscore_9 | someone_journey_dust_lend_throw_keen_brother_among_dress |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

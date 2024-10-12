@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | siren |  
+| bip_39_word_dash_10 | siren-gap-aware-occur-kit-bag-river-notable-urge-riot |  
+| bip_39_word_dash_11 | siren-gap-aware-occur-kit-bag-river-notable-urge-riot-rack |  
+| bip_39_word_dash_12 | siren-gap-aware-occur-kit-bag-river-notable-urge-riot-rack-august |  
+| bip_39_word_dash_2 | siren-gap |  
+| bip_39_word_dash_3 | siren-gap-aware |  
+| bip_39_word_dash_4 | siren-gap-aware-occur |  
+| bip_39_word_dash_5 | siren-gap-aware-occur-kit |  
+| bip_39_word_dash_6 | siren-gap-aware-occur-kit-bag |  
+| bip_39_word_dash_7 | siren-gap-aware-occur-kit-bag-river |  
+| bip_39_word_dash_8 | siren-gap-aware-occur-kit-bag-river-notable |  
+| bip_39_word_dash_9 | siren-gap-aware-occur-kit-bag-river-notable-urge |  
 | bip_39_word_new_br_1 | siren |  
 | bip_39_word_new_br_10 | siren<br>gap<br>aware<br>occur<br>kit<br>bag<br>river<br>notable<br>urge<br>riot |  
 | bip_39_word_new_br_11 | siren<br>gap<br>aware<br>occur<br>kit<br>bag<br>river<br>notable<br>urge<br>riot<br>rack |  
@@ -147,6 +159,18 @@ urge |
 | bip_39_word_space_7 | siren gap aware occur kit bag river |  
 | bip_39_word_space_8 | siren gap aware occur kit bag river notable |  
 | bip_39_word_space_9 | siren gap aware occur kit bag river notable urge |  
+| bip_39_word_underscore_1 | siren |  
+| bip_39_word_underscore_10 | siren_gap_aware_occur_kit_bag_river_notable_urge_riot |  
+| bip_39_word_underscore_11 | siren_gap_aware_occur_kit_bag_river_notable_urge_riot_rack |  
+| bip_39_word_underscore_12 | siren_gap_aware_occur_kit_bag_river_notable_urge_riot_rack_august |  
+| bip_39_word_underscore_2 | siren_gap |  
+| bip_39_word_underscore_3 | siren_gap_aware |  
+| bip_39_word_underscore_4 | siren_gap_aware_occur |  
+| bip_39_word_underscore_5 | siren_gap_aware_occur_kit |  
+| bip_39_word_underscore_6 | siren_gap_aware_occur_kit_bag |  
+| bip_39_word_underscore_7 | siren_gap_aware_occur_kit_bag_river |  
+| bip_39_word_underscore_8 | siren_gap_aware_occur_kit_bag_river_notable |  
+| bip_39_word_underscore_9 | siren_gap_aware_occur_kit_bag_river_notable_urge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

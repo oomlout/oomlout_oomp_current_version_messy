@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pool |  
+| bip_39_word_dash_10 | pool-found-flavor-creek-cotton-lady-imitate-alpha-famous-topple |  
+| bip_39_word_dash_11 | pool-found-flavor-creek-cotton-lady-imitate-alpha-famous-topple-lottery |  
+| bip_39_word_dash_12 | pool-found-flavor-creek-cotton-lady-imitate-alpha-famous-topple-lottery-arrow |  
+| bip_39_word_dash_2 | pool-found |  
+| bip_39_word_dash_3 | pool-found-flavor |  
+| bip_39_word_dash_4 | pool-found-flavor-creek |  
+| bip_39_word_dash_5 | pool-found-flavor-creek-cotton |  
+| bip_39_word_dash_6 | pool-found-flavor-creek-cotton-lady |  
+| bip_39_word_dash_7 | pool-found-flavor-creek-cotton-lady-imitate |  
+| bip_39_word_dash_8 | pool-found-flavor-creek-cotton-lady-imitate-alpha |  
+| bip_39_word_dash_9 | pool-found-flavor-creek-cotton-lady-imitate-alpha-famous |  
 | bip_39_word_new_br_1 | pool |  
 | bip_39_word_new_br_10 | pool<br>found<br>flavor<br>creek<br>cotton<br>lady<br>imitate<br>alpha<br>famous<br>topple |  
 | bip_39_word_new_br_11 | pool<br>found<br>flavor<br>creek<br>cotton<br>lady<br>imitate<br>alpha<br>famous<br>topple<br>lottery |  
@@ -147,6 +159,18 @@ famous |
 | bip_39_word_space_7 | pool found flavor creek cotton lady imitate |  
 | bip_39_word_space_8 | pool found flavor creek cotton lady imitate alpha |  
 | bip_39_word_space_9 | pool found flavor creek cotton lady imitate alpha famous |  
+| bip_39_word_underscore_1 | pool |  
+| bip_39_word_underscore_10 | pool_found_flavor_creek_cotton_lady_imitate_alpha_famous_topple |  
+| bip_39_word_underscore_11 | pool_found_flavor_creek_cotton_lady_imitate_alpha_famous_topple_lottery |  
+| bip_39_word_underscore_12 | pool_found_flavor_creek_cotton_lady_imitate_alpha_famous_topple_lottery_arrow |  
+| bip_39_word_underscore_2 | pool_found |  
+| bip_39_word_underscore_3 | pool_found_flavor |  
+| bip_39_word_underscore_4 | pool_found_flavor_creek |  
+| bip_39_word_underscore_5 | pool_found_flavor_creek_cotton |  
+| bip_39_word_underscore_6 | pool_found_flavor_creek_cotton_lady |  
+| bip_39_word_underscore_7 | pool_found_flavor_creek_cotton_lady_imitate |  
+| bip_39_word_underscore_8 | pool_found_flavor_creek_cotton_lady_imitate_alpha |  
+| bip_39_word_underscore_9 | pool_found_flavor_creek_cotton_lady_imitate_alpha_famous |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | marble |  
+| bip_39_word_dash_10 | marble-math-rich-spring-unlock-maid-payment-wool-federal-inherit |  
+| bip_39_word_dash_11 | marble-math-rich-spring-unlock-maid-payment-wool-federal-inherit-gospel |  
+| bip_39_word_dash_12 | marble-math-rich-spring-unlock-maid-payment-wool-federal-inherit-gospel-announce |  
+| bip_39_word_dash_2 | marble-math |  
+| bip_39_word_dash_3 | marble-math-rich |  
+| bip_39_word_dash_4 | marble-math-rich-spring |  
+| bip_39_word_dash_5 | marble-math-rich-spring-unlock |  
+| bip_39_word_dash_6 | marble-math-rich-spring-unlock-maid |  
+| bip_39_word_dash_7 | marble-math-rich-spring-unlock-maid-payment |  
+| bip_39_word_dash_8 | marble-math-rich-spring-unlock-maid-payment-wool |  
+| bip_39_word_dash_9 | marble-math-rich-spring-unlock-maid-payment-wool-federal |  
 | bip_39_word_new_br_1 | marble |  
 | bip_39_word_new_br_10 | marble<br>math<br>rich<br>spring<br>unlock<br>maid<br>payment<br>wool<br>federal<br>inherit |  
 | bip_39_word_new_br_11 | marble<br>math<br>rich<br>spring<br>unlock<br>maid<br>payment<br>wool<br>federal<br>inherit<br>gospel |  
@@ -147,6 +159,18 @@ federal |
 | bip_39_word_space_7 | marble math rich spring unlock maid payment |  
 | bip_39_word_space_8 | marble math rich spring unlock maid payment wool |  
 | bip_39_word_space_9 | marble math rich spring unlock maid payment wool federal |  
+| bip_39_word_underscore_1 | marble |  
+| bip_39_word_underscore_10 | marble_math_rich_spring_unlock_maid_payment_wool_federal_inherit |  
+| bip_39_word_underscore_11 | marble_math_rich_spring_unlock_maid_payment_wool_federal_inherit_gospel |  
+| bip_39_word_underscore_12 | marble_math_rich_spring_unlock_maid_payment_wool_federal_inherit_gospel_announce |  
+| bip_39_word_underscore_2 | marble_math |  
+| bip_39_word_underscore_3 | marble_math_rich |  
+| bip_39_word_underscore_4 | marble_math_rich_spring |  
+| bip_39_word_underscore_5 | marble_math_rich_spring_unlock |  
+| bip_39_word_underscore_6 | marble_math_rich_spring_unlock_maid |  
+| bip_39_word_underscore_7 | marble_math_rich_spring_unlock_maid_payment |  
+| bip_39_word_underscore_8 | marble_math_rich_spring_unlock_maid_payment_wool |  
+| bip_39_word_underscore_9 | marble_math_rich_spring_unlock_maid_payment_wool_federal |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

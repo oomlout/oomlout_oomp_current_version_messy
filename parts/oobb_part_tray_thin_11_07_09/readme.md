@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pencil |  
+| bip_39_word_dash_10 | pencil-profit-enrich-base-already-speak-peanut-best-item-unveil |  
+| bip_39_word_dash_11 | pencil-profit-enrich-base-already-speak-peanut-best-item-unveil-tunnel |  
+| bip_39_word_dash_12 | pencil-profit-enrich-base-already-speak-peanut-best-item-unveil-tunnel-alcohol |  
+| bip_39_word_dash_2 | pencil-profit |  
+| bip_39_word_dash_3 | pencil-profit-enrich |  
+| bip_39_word_dash_4 | pencil-profit-enrich-base |  
+| bip_39_word_dash_5 | pencil-profit-enrich-base-already |  
+| bip_39_word_dash_6 | pencil-profit-enrich-base-already-speak |  
+| bip_39_word_dash_7 | pencil-profit-enrich-base-already-speak-peanut |  
+| bip_39_word_dash_8 | pencil-profit-enrich-base-already-speak-peanut-best |  
+| bip_39_word_dash_9 | pencil-profit-enrich-base-already-speak-peanut-best-item |  
 | bip_39_word_new_br_1 | pencil |  
 | bip_39_word_new_br_10 | pencil<br>profit<br>enrich<br>base<br>already<br>speak<br>peanut<br>best<br>item<br>unveil |  
 | bip_39_word_new_br_11 | pencil<br>profit<br>enrich<br>base<br>already<br>speak<br>peanut<br>best<br>item<br>unveil<br>tunnel |  
@@ -147,6 +159,18 @@ item |
 | bip_39_word_space_7 | pencil profit enrich base already speak peanut |  
 | bip_39_word_space_8 | pencil profit enrich base already speak peanut best |  
 | bip_39_word_space_9 | pencil profit enrich base already speak peanut best item |  
+| bip_39_word_underscore_1 | pencil |  
+| bip_39_word_underscore_10 | pencil_profit_enrich_base_already_speak_peanut_best_item_unveil |  
+| bip_39_word_underscore_11 | pencil_profit_enrich_base_already_speak_peanut_best_item_unveil_tunnel |  
+| bip_39_word_underscore_12 | pencil_profit_enrich_base_already_speak_peanut_best_item_unveil_tunnel_alcohol |  
+| bip_39_word_underscore_2 | pencil_profit |  
+| bip_39_word_underscore_3 | pencil_profit_enrich |  
+| bip_39_word_underscore_4 | pencil_profit_enrich_base |  
+| bip_39_word_underscore_5 | pencil_profit_enrich_base_already |  
+| bip_39_word_underscore_6 | pencil_profit_enrich_base_already_speak |  
+| bip_39_word_underscore_7 | pencil_profit_enrich_base_already_speak_peanut |  
+| bip_39_word_underscore_8 | pencil_profit_enrich_base_already_speak_peanut_best |  
+| bip_39_word_underscore_9 | pencil_profit_enrich_base_already_speak_peanut_best_item |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

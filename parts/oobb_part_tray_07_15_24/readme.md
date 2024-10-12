@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cross |  
+| bip_39_word_dash_10 | cross-fix-trap-task-humble-cup-lobster-impulse-uphold-figure |  
+| bip_39_word_dash_11 | cross-fix-trap-task-humble-cup-lobster-impulse-uphold-figure-half |  
+| bip_39_word_dash_12 | cross-fix-trap-task-humble-cup-lobster-impulse-uphold-figure-half-accident |  
+| bip_39_word_dash_2 | cross-fix |  
+| bip_39_word_dash_3 | cross-fix-trap |  
+| bip_39_word_dash_4 | cross-fix-trap-task |  
+| bip_39_word_dash_5 | cross-fix-trap-task-humble |  
+| bip_39_word_dash_6 | cross-fix-trap-task-humble-cup |  
+| bip_39_word_dash_7 | cross-fix-trap-task-humble-cup-lobster |  
+| bip_39_word_dash_8 | cross-fix-trap-task-humble-cup-lobster-impulse |  
+| bip_39_word_dash_9 | cross-fix-trap-task-humble-cup-lobster-impulse-uphold |  
 | bip_39_word_new_br_1 | cross |  
 | bip_39_word_new_br_10 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse<br>uphold<br>figure |  
 | bip_39_word_new_br_11 | cross<br>fix<br>trap<br>task<br>humble<br>cup<br>lobster<br>impulse<br>uphold<br>figure<br>half |  
@@ -147,6 +159,18 @@ uphold |
 | bip_39_word_space_7 | cross fix trap task humble cup lobster |  
 | bip_39_word_space_8 | cross fix trap task humble cup lobster impulse |  
 | bip_39_word_space_9 | cross fix trap task humble cup lobster impulse uphold |  
+| bip_39_word_underscore_1 | cross |  
+| bip_39_word_underscore_10 | cross_fix_trap_task_humble_cup_lobster_impulse_uphold_figure |  
+| bip_39_word_underscore_11 | cross_fix_trap_task_humble_cup_lobster_impulse_uphold_figure_half |  
+| bip_39_word_underscore_12 | cross_fix_trap_task_humble_cup_lobster_impulse_uphold_figure_half_accident |  
+| bip_39_word_underscore_2 | cross_fix |  
+| bip_39_word_underscore_3 | cross_fix_trap |  
+| bip_39_word_underscore_4 | cross_fix_trap_task |  
+| bip_39_word_underscore_5 | cross_fix_trap_task_humble |  
+| bip_39_word_underscore_6 | cross_fix_trap_task_humble_cup |  
+| bip_39_word_underscore_7 | cross_fix_trap_task_humble_cup_lobster |  
+| bip_39_word_underscore_8 | cross_fix_trap_task_humble_cup_lobster_impulse |  
+| bip_39_word_underscore_9 | cross_fix_trap_task_humble_cup_lobster_impulse_uphold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

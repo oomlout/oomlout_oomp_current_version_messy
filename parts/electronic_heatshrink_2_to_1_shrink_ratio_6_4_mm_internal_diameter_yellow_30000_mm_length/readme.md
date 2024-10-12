@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reason |  
+| bip_39_word_dash_10 | reason-edge-process-talk-modify-monster-valve-bottom-faculty-still |  
+| bip_39_word_dash_11 | reason-edge-process-talk-modify-monster-valve-bottom-faculty-still-jelly |  
+| bip_39_word_dash_12 | reason-edge-process-talk-modify-monster-valve-bottom-faculty-still-jelly-attitude |  
+| bip_39_word_dash_2 | reason-edge |  
+| bip_39_word_dash_3 | reason-edge-process |  
+| bip_39_word_dash_4 | reason-edge-process-talk |  
+| bip_39_word_dash_5 | reason-edge-process-talk-modify |  
+| bip_39_word_dash_6 | reason-edge-process-talk-modify-monster |  
+| bip_39_word_dash_7 | reason-edge-process-talk-modify-monster-valve |  
+| bip_39_word_dash_8 | reason-edge-process-talk-modify-monster-valve-bottom |  
+| bip_39_word_dash_9 | reason-edge-process-talk-modify-monster-valve-bottom-faculty |  
 | bip_39_word_new_br_1 | reason |  
 | bip_39_word_new_br_10 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still |  
 | bip_39_word_new_br_11 | reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still<br>jelly |  
@@ -147,6 +159,18 @@ faculty |
 | bip_39_word_space_7 | reason edge process talk modify monster valve |  
 | bip_39_word_space_8 | reason edge process talk modify monster valve bottom |  
 | bip_39_word_space_9 | reason edge process talk modify monster valve bottom faculty |  
+| bip_39_word_underscore_1 | reason |  
+| bip_39_word_underscore_10 | reason_edge_process_talk_modify_monster_valve_bottom_faculty_still |  
+| bip_39_word_underscore_11 | reason_edge_process_talk_modify_monster_valve_bottom_faculty_still_jelly |  
+| bip_39_word_underscore_12 | reason_edge_process_talk_modify_monster_valve_bottom_faculty_still_jelly_attitude |  
+| bip_39_word_underscore_2 | reason_edge |  
+| bip_39_word_underscore_3 | reason_edge_process |  
+| bip_39_word_underscore_4 | reason_edge_process_talk |  
+| bip_39_word_underscore_5 | reason_edge_process_talk_modify |  
+| bip_39_word_underscore_6 | reason_edge_process_talk_modify_monster |  
+| bip_39_word_underscore_7 | reason_edge_process_talk_modify_monster_valve |  
+| bip_39_word_underscore_8 | reason_edge_process_talk_modify_monster_valve_bottom |  
+| bip_39_word_underscore_9 | reason_edge_process_talk_modify_monster_valve_bottom_faculty |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cattle
+bip_39_word_dash_10: cattle-iron-people-party-memory-tomato-disease-museum-tone-tattoo
+bip_39_word_dash_11: cattle-iron-people-party-memory-tomato-disease-museum-tone-tattoo-benefit
+bip_39_word_dash_12: cattle-iron-people-party-memory-tomato-disease-museum-tone-tattoo-benefit-add
+bip_39_word_dash_2: cattle-iron
+bip_39_word_dash_3: cattle-iron-people
+bip_39_word_dash_4: cattle-iron-people-party
+bip_39_word_dash_5: cattle-iron-people-party-memory
+bip_39_word_dash_6: cattle-iron-people-party-memory-tomato
+bip_39_word_dash_7: cattle-iron-people-party-memory-tomato-disease
+bip_39_word_dash_8: cattle-iron-people-party-memory-tomato-disease-museum
+bip_39_word_dash_9: cattle-iron-people-party-memory-tomato-disease-museum-tone
 bip_39_word_new_br_1: cattle
 bip_39_word_new_br_10: cattle<br>iron<br>people<br>party<br>memory<br>tomato<br>disease<br>museum<br>tone<br>tattoo
 bip_39_word_new_br_11: cattle<br>iron<br>people<br>party<br>memory<br>tomato<br>disease<br>museum<br>tone<br>tattoo<br>benefit
@@ -193,6 +205,18 @@ bip_39_word_space_6: cattle iron people party memory tomato
 bip_39_word_space_7: cattle iron people party memory tomato disease
 bip_39_word_space_8: cattle iron people party memory tomato disease museum
 bip_39_word_space_9: cattle iron people party memory tomato disease museum tone
+bip_39_word_underscore_1: cattle
+bip_39_word_underscore_10: cattle_iron_people_party_memory_tomato_disease_museum_tone_tattoo
+bip_39_word_underscore_11: cattle_iron_people_party_memory_tomato_disease_museum_tone_tattoo_benefit
+bip_39_word_underscore_12: cattle_iron_people_party_memory_tomato_disease_museum_tone_tattoo_benefit_add
+bip_39_word_underscore_2: cattle_iron
+bip_39_word_underscore_3: cattle_iron_people
+bip_39_word_underscore_4: cattle_iron_people_party
+bip_39_word_underscore_5: cattle_iron_people_party_memory
+bip_39_word_underscore_6: cattle_iron_people_party_memory_tomato
+bip_39_word_underscore_7: cattle_iron_people_party_memory_tomato_disease
+bip_39_word_underscore_8: cattle_iron_people_party_memory_tomato_disease_museum
+bip_39_word_underscore_9: cattle_iron_people_party_memory_tomato_disease_museum_tone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

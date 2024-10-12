@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ethics |  
+| bip_39_word_dash_10 | ethics-turn-velvet-quiz-six-raise-diary-ecology-wrong-decrease |  
+| bip_39_word_dash_11 | ethics-turn-velvet-quiz-six-raise-diary-ecology-wrong-decrease-artist |  
+| bip_39_word_dash_12 | ethics-turn-velvet-quiz-six-raise-diary-ecology-wrong-decrease-artist-acid |  
+| bip_39_word_dash_2 | ethics-turn |  
+| bip_39_word_dash_3 | ethics-turn-velvet |  
+| bip_39_word_dash_4 | ethics-turn-velvet-quiz |  
+| bip_39_word_dash_5 | ethics-turn-velvet-quiz-six |  
+| bip_39_word_dash_6 | ethics-turn-velvet-quiz-six-raise |  
+| bip_39_word_dash_7 | ethics-turn-velvet-quiz-six-raise-diary |  
+| bip_39_word_dash_8 | ethics-turn-velvet-quiz-six-raise-diary-ecology |  
+| bip_39_word_dash_9 | ethics-turn-velvet-quiz-six-raise-diary-ecology-wrong |  
 | bip_39_word_new_br_1 | ethics |  
 | bip_39_word_new_br_10 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease |  
 | bip_39_word_new_br_11 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease<br>artist |  
@@ -147,6 +159,18 @@ wrong |
 | bip_39_word_space_7 | ethics turn velvet quiz six raise diary |  
 | bip_39_word_space_8 | ethics turn velvet quiz six raise diary ecology |  
 | bip_39_word_space_9 | ethics turn velvet quiz six raise diary ecology wrong |  
+| bip_39_word_underscore_1 | ethics |  
+| bip_39_word_underscore_10 | ethics_turn_velvet_quiz_six_raise_diary_ecology_wrong_decrease |  
+| bip_39_word_underscore_11 | ethics_turn_velvet_quiz_six_raise_diary_ecology_wrong_decrease_artist |  
+| bip_39_word_underscore_12 | ethics_turn_velvet_quiz_six_raise_diary_ecology_wrong_decrease_artist_acid |  
+| bip_39_word_underscore_2 | ethics_turn |  
+| bip_39_word_underscore_3 | ethics_turn_velvet |  
+| bip_39_word_underscore_4 | ethics_turn_velvet_quiz |  
+| bip_39_word_underscore_5 | ethics_turn_velvet_quiz_six |  
+| bip_39_word_underscore_6 | ethics_turn_velvet_quiz_six_raise |  
+| bip_39_word_underscore_7 | ethics_turn_velvet_quiz_six_raise_diary |  
+| bip_39_word_underscore_8 | ethics_turn_velvet_quiz_six_raise_diary_ecology |  
+| bip_39_word_underscore_9 | ethics_turn_velvet_quiz_six_raise_diary_ecology_wrong |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

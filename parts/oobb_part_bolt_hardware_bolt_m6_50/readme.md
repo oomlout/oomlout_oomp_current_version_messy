@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrest |  
+| bip_39_word_dash_10 | arrest-steel-half-sound-globe-believe-arena-enrich-private-educate |  
+| bip_39_word_dash_11 | arrest-steel-half-sound-globe-believe-arena-enrich-private-educate-panic |  
+| bip_39_word_dash_12 | arrest-steel-half-sound-globe-believe-arena-enrich-private-educate-panic-angry |  
+| bip_39_word_dash_2 | arrest-steel |  
+| bip_39_word_dash_3 | arrest-steel-half |  
+| bip_39_word_dash_4 | arrest-steel-half-sound |  
+| bip_39_word_dash_5 | arrest-steel-half-sound-globe |  
+| bip_39_word_dash_6 | arrest-steel-half-sound-globe-believe |  
+| bip_39_word_dash_7 | arrest-steel-half-sound-globe-believe-arena |  
+| bip_39_word_dash_8 | arrest-steel-half-sound-globe-believe-arena-enrich |  
+| bip_39_word_dash_9 | arrest-steel-half-sound-globe-believe-arena-enrich-private |  
 | bip_39_word_new_br_1 | arrest |  
 | bip_39_word_new_br_10 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate |  
 | bip_39_word_new_br_11 | arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate<br>panic |  
@@ -147,6 +159,18 @@ private |
 | bip_39_word_space_7 | arrest steel half sound globe believe arena |  
 | bip_39_word_space_8 | arrest steel half sound globe believe arena enrich |  
 | bip_39_word_space_9 | arrest steel half sound globe believe arena enrich private |  
+| bip_39_word_underscore_1 | arrest |  
+| bip_39_word_underscore_10 | arrest_steel_half_sound_globe_believe_arena_enrich_private_educate |  
+| bip_39_word_underscore_11 | arrest_steel_half_sound_globe_believe_arena_enrich_private_educate_panic |  
+| bip_39_word_underscore_12 | arrest_steel_half_sound_globe_believe_arena_enrich_private_educate_panic_angry |  
+| bip_39_word_underscore_2 | arrest_steel |  
+| bip_39_word_underscore_3 | arrest_steel_half |  
+| bip_39_word_underscore_4 | arrest_steel_half_sound |  
+| bip_39_word_underscore_5 | arrest_steel_half_sound_globe |  
+| bip_39_word_underscore_6 | arrest_steel_half_sound_globe_believe |  
+| bip_39_word_underscore_7 | arrest_steel_half_sound_globe_believe_arena |  
+| bip_39_word_underscore_8 | arrest_steel_half_sound_globe_believe_arena_enrich |  
+| bip_39_word_underscore_9 | arrest_steel_half_sound_globe_believe_arena_enrich_private |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

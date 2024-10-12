@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coast |  
+| bip_39_word_dash_10 | coast-gas-bid-myth-answer-waste-cheese-tent-drip-ginger |  
+| bip_39_word_dash_11 | coast-gas-bid-myth-answer-waste-cheese-tent-drip-ginger-club |  
+| bip_39_word_dash_12 | coast-gas-bid-myth-answer-waste-cheese-tent-drip-ginger-club-afraid |  
+| bip_39_word_dash_2 | coast-gas |  
+| bip_39_word_dash_3 | coast-gas-bid |  
+| bip_39_word_dash_4 | coast-gas-bid-myth |  
+| bip_39_word_dash_5 | coast-gas-bid-myth-answer |  
+| bip_39_word_dash_6 | coast-gas-bid-myth-answer-waste |  
+| bip_39_word_dash_7 | coast-gas-bid-myth-answer-waste-cheese |  
+| bip_39_word_dash_8 | coast-gas-bid-myth-answer-waste-cheese-tent |  
+| bip_39_word_dash_9 | coast-gas-bid-myth-answer-waste-cheese-tent-drip |  
 | bip_39_word_new_br_1 | coast |  
 | bip_39_word_new_br_10 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger |  
 | bip_39_word_new_br_11 | coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger<br>club |  
@@ -147,6 +159,18 @@ drip |
 | bip_39_word_space_7 | coast gas bid myth answer waste cheese |  
 | bip_39_word_space_8 | coast gas bid myth answer waste cheese tent |  
 | bip_39_word_space_9 | coast gas bid myth answer waste cheese tent drip |  
+| bip_39_word_underscore_1 | coast |  
+| bip_39_word_underscore_10 | coast_gas_bid_myth_answer_waste_cheese_tent_drip_ginger |  
+| bip_39_word_underscore_11 | coast_gas_bid_myth_answer_waste_cheese_tent_drip_ginger_club |  
+| bip_39_word_underscore_12 | coast_gas_bid_myth_answer_waste_cheese_tent_drip_ginger_club_afraid |  
+| bip_39_word_underscore_2 | coast_gas |  
+| bip_39_word_underscore_3 | coast_gas_bid |  
+| bip_39_word_underscore_4 | coast_gas_bid_myth |  
+| bip_39_word_underscore_5 | coast_gas_bid_myth_answer |  
+| bip_39_word_underscore_6 | coast_gas_bid_myth_answer_waste |  
+| bip_39_word_underscore_7 | coast_gas_bid_myth_answer_waste_cheese |  
+| bip_39_word_underscore_8 | coast_gas_bid_myth_answer_waste_cheese_tent |  
+| bip_39_word_underscore_9 | coast_gas_bid_myth_answer_waste_cheese_tent_drip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: color
+bip_39_word_dash_10: color-trash-motor-example-boost-lobster-action-lady-wait-render
+bip_39_word_dash_11: color-trash-motor-example-boost-lobster-action-lady-wait-render-sail
+bip_39_word_dash_12: color-trash-motor-example-boost-lobster-action-lady-wait-render-sail-amount
+bip_39_word_dash_2: color-trash
+bip_39_word_dash_3: color-trash-motor
+bip_39_word_dash_4: color-trash-motor-example
+bip_39_word_dash_5: color-trash-motor-example-boost
+bip_39_word_dash_6: color-trash-motor-example-boost-lobster
+bip_39_word_dash_7: color-trash-motor-example-boost-lobster-action
+bip_39_word_dash_8: color-trash-motor-example-boost-lobster-action-lady
+bip_39_word_dash_9: color-trash-motor-example-boost-lobster-action-lady-wait
 bip_39_word_new_br_1: color
 bip_39_word_new_br_10: color<br>trash<br>motor<br>example<br>boost<br>lobster<br>action<br>lady<br>wait<br>render
 bip_39_word_new_br_11: color<br>trash<br>motor<br>example<br>boost<br>lobster<br>action<br>lady<br>wait<br>render<br>sail
@@ -193,6 +205,18 @@ bip_39_word_space_6: color trash motor example boost lobster
 bip_39_word_space_7: color trash motor example boost lobster action
 bip_39_word_space_8: color trash motor example boost lobster action lady
 bip_39_word_space_9: color trash motor example boost lobster action lady wait
+bip_39_word_underscore_1: color
+bip_39_word_underscore_10: color_trash_motor_example_boost_lobster_action_lady_wait_render
+bip_39_word_underscore_11: color_trash_motor_example_boost_lobster_action_lady_wait_render_sail
+bip_39_word_underscore_12: color_trash_motor_example_boost_lobster_action_lady_wait_render_sail_amount
+bip_39_word_underscore_2: color_trash
+bip_39_word_underscore_3: color_trash_motor
+bip_39_word_underscore_4: color_trash_motor_example
+bip_39_word_underscore_5: color_trash_motor_example_boost
+bip_39_word_underscore_6: color_trash_motor_example_boost_lobster
+bip_39_word_underscore_7: color_trash_motor_example_boost_lobster_action
+bip_39_word_underscore_8: color_trash_motor_example_boost_lobster_action_lady
+bip_39_word_underscore_9: color_trash_motor_example_boost_lobster_action_lady_wait
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

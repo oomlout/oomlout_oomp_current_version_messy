@@ -1,3 +1,15 @@
+bip_39_word_dash_1: giggle
+bip_39_word_dash_10: giggle-ignore-copper-duty-wear-purchase-science-unknown-stuff-happy
+bip_39_word_dash_11: giggle-ignore-copper-duty-wear-purchase-science-unknown-stuff-happy-safe
+bip_39_word_dash_12: giggle-ignore-copper-duty-wear-purchase-science-unknown-stuff-happy-safe-actor
+bip_39_word_dash_2: giggle-ignore
+bip_39_word_dash_3: giggle-ignore-copper
+bip_39_word_dash_4: giggle-ignore-copper-duty
+bip_39_word_dash_5: giggle-ignore-copper-duty-wear
+bip_39_word_dash_6: giggle-ignore-copper-duty-wear-purchase
+bip_39_word_dash_7: giggle-ignore-copper-duty-wear-purchase-science
+bip_39_word_dash_8: giggle-ignore-copper-duty-wear-purchase-science-unknown
+bip_39_word_dash_9: giggle-ignore-copper-duty-wear-purchase-science-unknown-stuff
 bip_39_word_new_br_1: giggle
 bip_39_word_new_br_10: giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown<br>stuff<br>happy
 bip_39_word_new_br_11: giggle<br>ignore<br>copper<br>duty<br>wear<br>purchase<br>science<br>unknown<br>stuff<br>happy<br>safe
@@ -194,6 +206,18 @@ bip_39_word_space_6: giggle ignore copper duty wear purchase
 bip_39_word_space_7: giggle ignore copper duty wear purchase science
 bip_39_word_space_8: giggle ignore copper duty wear purchase science unknown
 bip_39_word_space_9: giggle ignore copper duty wear purchase science unknown stuff
+bip_39_word_underscore_1: giggle
+bip_39_word_underscore_10: giggle_ignore_copper_duty_wear_purchase_science_unknown_stuff_happy
+bip_39_word_underscore_11: giggle_ignore_copper_duty_wear_purchase_science_unknown_stuff_happy_safe
+bip_39_word_underscore_12: giggle_ignore_copper_duty_wear_purchase_science_unknown_stuff_happy_safe_actor
+bip_39_word_underscore_2: giggle_ignore
+bip_39_word_underscore_3: giggle_ignore_copper
+bip_39_word_underscore_4: giggle_ignore_copper_duty
+bip_39_word_underscore_5: giggle_ignore_copper_duty_wear
+bip_39_word_underscore_6: giggle_ignore_copper_duty_wear_purchase
+bip_39_word_underscore_7: giggle_ignore_copper_duty_wear_purchase_science
+bip_39_word_underscore_8: giggle_ignore_copper_duty_wear_purchase_science_unknown
+bip_39_word_underscore_9: giggle_ignore_copper_duty_wear_purchase_science_unknown_stuff
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

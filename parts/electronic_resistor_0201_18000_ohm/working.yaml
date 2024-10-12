@@ -1,3 +1,15 @@
+bip_39_word_dash_1: match
+bip_39_word_dash_10: match-cancel-truck-pony-surround-hybrid-amount-pen-wife-check
+bip_39_word_dash_11: match-cancel-truck-pony-surround-hybrid-amount-pen-wife-check-purpose
+bip_39_word_dash_12: match-cancel-truck-pony-surround-hybrid-amount-pen-wife-check-purpose-aerobic
+bip_39_word_dash_2: match-cancel
+bip_39_word_dash_3: match-cancel-truck
+bip_39_word_dash_4: match-cancel-truck-pony
+bip_39_word_dash_5: match-cancel-truck-pony-surround
+bip_39_word_dash_6: match-cancel-truck-pony-surround-hybrid
+bip_39_word_dash_7: match-cancel-truck-pony-surround-hybrid-amount
+bip_39_word_dash_8: match-cancel-truck-pony-surround-hybrid-amount-pen
+bip_39_word_dash_9: match-cancel-truck-pony-surround-hybrid-amount-pen-wife
 bip_39_word_new_br_1: match
 bip_39_word_new_br_10: match<br>cancel<br>truck<br>pony<br>surround<br>hybrid<br>amount<br>pen<br>wife<br>check
 bip_39_word_new_br_11: match<br>cancel<br>truck<br>pony<br>surround<br>hybrid<br>amount<br>pen<br>wife<br>check<br>purpose
@@ -193,6 +205,18 @@ bip_39_word_space_6: match cancel truck pony surround hybrid
 bip_39_word_space_7: match cancel truck pony surround hybrid amount
 bip_39_word_space_8: match cancel truck pony surround hybrid amount pen
 bip_39_word_space_9: match cancel truck pony surround hybrid amount pen wife
+bip_39_word_underscore_1: match
+bip_39_word_underscore_10: match_cancel_truck_pony_surround_hybrid_amount_pen_wife_check
+bip_39_word_underscore_11: match_cancel_truck_pony_surround_hybrid_amount_pen_wife_check_purpose
+bip_39_word_underscore_12: match_cancel_truck_pony_surround_hybrid_amount_pen_wife_check_purpose_aerobic
+bip_39_word_underscore_2: match_cancel
+bip_39_word_underscore_3: match_cancel_truck
+bip_39_word_underscore_4: match_cancel_truck_pony
+bip_39_word_underscore_5: match_cancel_truck_pony_surround
+bip_39_word_underscore_6: match_cancel_truck_pony_surround_hybrid
+bip_39_word_underscore_7: match_cancel_truck_pony_surround_hybrid_amount
+bip_39_word_underscore_8: match_cancel_truck_pony_surround_hybrid_amount_pen
+bip_39_word_underscore_9: match_cancel_truck_pony_surround_hybrid_amount_pen_wife
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

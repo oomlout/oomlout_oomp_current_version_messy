@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enhance |  
+| bip_39_word_dash_10 | enhance-add-hidden-shield-butter-soldier-lady-panther-heavy-excite |  
+| bip_39_word_dash_11 | enhance-add-hidden-shield-butter-soldier-lady-panther-heavy-excite-gloom |  
+| bip_39_word_dash_12 | enhance-add-hidden-shield-butter-soldier-lady-panther-heavy-excite-gloom-anger |  
+| bip_39_word_dash_2 | enhance-add |  
+| bip_39_word_dash_3 | enhance-add-hidden |  
+| bip_39_word_dash_4 | enhance-add-hidden-shield |  
+| bip_39_word_dash_5 | enhance-add-hidden-shield-butter |  
+| bip_39_word_dash_6 | enhance-add-hidden-shield-butter-soldier |  
+| bip_39_word_dash_7 | enhance-add-hidden-shield-butter-soldier-lady |  
+| bip_39_word_dash_8 | enhance-add-hidden-shield-butter-soldier-lady-panther |  
+| bip_39_word_dash_9 | enhance-add-hidden-shield-butter-soldier-lady-panther-heavy |  
 | bip_39_word_new_br_1 | enhance |  
 | bip_39_word_new_br_10 | enhance<br>add<br>hidden<br>shield<br>butter<br>soldier<br>lady<br>panther<br>heavy<br>excite |  
 | bip_39_word_new_br_11 | enhance<br>add<br>hidden<br>shield<br>butter<br>soldier<br>lady<br>panther<br>heavy<br>excite<br>gloom |  
@@ -147,6 +159,18 @@ heavy |
 | bip_39_word_space_7 | enhance add hidden shield butter soldier lady |  
 | bip_39_word_space_8 | enhance add hidden shield butter soldier lady panther |  
 | bip_39_word_space_9 | enhance add hidden shield butter soldier lady panther heavy |  
+| bip_39_word_underscore_1 | enhance |  
+| bip_39_word_underscore_10 | enhance_add_hidden_shield_butter_soldier_lady_panther_heavy_excite |  
+| bip_39_word_underscore_11 | enhance_add_hidden_shield_butter_soldier_lady_panther_heavy_excite_gloom |  
+| bip_39_word_underscore_12 | enhance_add_hidden_shield_butter_soldier_lady_panther_heavy_excite_gloom_anger |  
+| bip_39_word_underscore_2 | enhance_add |  
+| bip_39_word_underscore_3 | enhance_add_hidden |  
+| bip_39_word_underscore_4 | enhance_add_hidden_shield |  
+| bip_39_word_underscore_5 | enhance_add_hidden_shield_butter |  
+| bip_39_word_underscore_6 | enhance_add_hidden_shield_butter_soldier |  
+| bip_39_word_underscore_7 | enhance_add_hidden_shield_butter_soldier_lady |  
+| bip_39_word_underscore_8 | enhance_add_hidden_shield_butter_soldier_lady_panther |  
+| bip_39_word_underscore_9 | enhance_add_hidden_shield_butter_soldier_lady_panther_heavy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

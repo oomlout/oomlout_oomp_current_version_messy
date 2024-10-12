@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | repeat |  
+| bip_39_word_dash_10 | repeat-news-habit-awkward-digital-cook-clock-rifle-subject-duck |  
+| bip_39_word_dash_11 | repeat-news-habit-awkward-digital-cook-clock-rifle-subject-duck-kitchen |  
+| bip_39_word_dash_12 | repeat-news-habit-awkward-digital-cook-clock-rifle-subject-duck-kitchen-always |  
+| bip_39_word_dash_2 | repeat-news |  
+| bip_39_word_dash_3 | repeat-news-habit |  
+| bip_39_word_dash_4 | repeat-news-habit-awkward |  
+| bip_39_word_dash_5 | repeat-news-habit-awkward-digital |  
+| bip_39_word_dash_6 | repeat-news-habit-awkward-digital-cook |  
+| bip_39_word_dash_7 | repeat-news-habit-awkward-digital-cook-clock |  
+| bip_39_word_dash_8 | repeat-news-habit-awkward-digital-cook-clock-rifle |  
+| bip_39_word_dash_9 | repeat-news-habit-awkward-digital-cook-clock-rifle-subject |  
 | bip_39_word_new_br_1 | repeat |  
 | bip_39_word_new_br_10 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck |  
 | bip_39_word_new_br_11 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck<br>kitchen |  
@@ -147,6 +159,18 @@ subject |
 | bip_39_word_space_7 | repeat news habit awkward digital cook clock |  
 | bip_39_word_space_8 | repeat news habit awkward digital cook clock rifle |  
 | bip_39_word_space_9 | repeat news habit awkward digital cook clock rifle subject |  
+| bip_39_word_underscore_1 | repeat |  
+| bip_39_word_underscore_10 | repeat_news_habit_awkward_digital_cook_clock_rifle_subject_duck |  
+| bip_39_word_underscore_11 | repeat_news_habit_awkward_digital_cook_clock_rifle_subject_duck_kitchen |  
+| bip_39_word_underscore_12 | repeat_news_habit_awkward_digital_cook_clock_rifle_subject_duck_kitchen_always |  
+| bip_39_word_underscore_2 | repeat_news |  
+| bip_39_word_underscore_3 | repeat_news_habit |  
+| bip_39_word_underscore_4 | repeat_news_habit_awkward |  
+| bip_39_word_underscore_5 | repeat_news_habit_awkward_digital |  
+| bip_39_word_underscore_6 | repeat_news_habit_awkward_digital_cook |  
+| bip_39_word_underscore_7 | repeat_news_habit_awkward_digital_cook_clock |  
+| bip_39_word_underscore_8 | repeat_news_habit_awkward_digital_cook_clock_rifle |  
+| bip_39_word_underscore_9 | repeat_news_habit_awkward_digital_cook_clock_rifle_subject |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

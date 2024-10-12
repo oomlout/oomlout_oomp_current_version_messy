@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grit |  
+| bip_39_word_dash_10 | grit-wish-disagree-exhaust-holiday-finger-mail-universe-own-public |  
+| bip_39_word_dash_11 | grit-wish-disagree-exhaust-holiday-finger-mail-universe-own-public-load |  
+| bip_39_word_dash_12 | grit-wish-disagree-exhaust-holiday-finger-mail-universe-own-public-load-adapt |  
+| bip_39_word_dash_2 | grit-wish |  
+| bip_39_word_dash_3 | grit-wish-disagree |  
+| bip_39_word_dash_4 | grit-wish-disagree-exhaust |  
+| bip_39_word_dash_5 | grit-wish-disagree-exhaust-holiday |  
+| bip_39_word_dash_6 | grit-wish-disagree-exhaust-holiday-finger |  
+| bip_39_word_dash_7 | grit-wish-disagree-exhaust-holiday-finger-mail |  
+| bip_39_word_dash_8 | grit-wish-disagree-exhaust-holiday-finger-mail-universe |  
+| bip_39_word_dash_9 | grit-wish-disagree-exhaust-holiday-finger-mail-universe-own |  
 | bip_39_word_new_br_1 | grit |  
 | bip_39_word_new_br_10 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe<br>own<br>public |  
 | bip_39_word_new_br_11 | grit<br>wish<br>disagree<br>exhaust<br>holiday<br>finger<br>mail<br>universe<br>own<br>public<br>load |  
@@ -147,6 +159,18 @@ own |
 | bip_39_word_space_7 | grit wish disagree exhaust holiday finger mail |  
 | bip_39_word_space_8 | grit wish disagree exhaust holiday finger mail universe |  
 | bip_39_word_space_9 | grit wish disagree exhaust holiday finger mail universe own |  
+| bip_39_word_underscore_1 | grit |  
+| bip_39_word_underscore_10 | grit_wish_disagree_exhaust_holiday_finger_mail_universe_own_public |  
+| bip_39_word_underscore_11 | grit_wish_disagree_exhaust_holiday_finger_mail_universe_own_public_load |  
+| bip_39_word_underscore_12 | grit_wish_disagree_exhaust_holiday_finger_mail_universe_own_public_load_adapt |  
+| bip_39_word_underscore_2 | grit_wish |  
+| bip_39_word_underscore_3 | grit_wish_disagree |  
+| bip_39_word_underscore_4 | grit_wish_disagree_exhaust |  
+| bip_39_word_underscore_5 | grit_wish_disagree_exhaust_holiday |  
+| bip_39_word_underscore_6 | grit_wish_disagree_exhaust_holiday_finger |  
+| bip_39_word_underscore_7 | grit_wish_disagree_exhaust_holiday_finger_mail |  
+| bip_39_word_underscore_8 | grit_wish_disagree_exhaust_holiday_finger_mail_universe |  
+| bip_39_word_underscore_9 | grit_wish_disagree_exhaust_holiday_finger_mail_universe_own |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

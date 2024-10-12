@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | measure |  
+| bip_39_word_dash_10 | measure-hedgehog-drum-weather-hover-farm-help-brain-guess-divide |  
+| bip_39_word_dash_11 | measure-hedgehog-drum-weather-hover-farm-help-brain-guess-divide-employ |  
+| bip_39_word_dash_12 | measure-hedgehog-drum-weather-hover-farm-help-brain-guess-divide-employ-adapt |  
+| bip_39_word_dash_2 | measure-hedgehog |  
+| bip_39_word_dash_3 | measure-hedgehog-drum |  
+| bip_39_word_dash_4 | measure-hedgehog-drum-weather |  
+| bip_39_word_dash_5 | measure-hedgehog-drum-weather-hover |  
+| bip_39_word_dash_6 | measure-hedgehog-drum-weather-hover-farm |  
+| bip_39_word_dash_7 | measure-hedgehog-drum-weather-hover-farm-help |  
+| bip_39_word_dash_8 | measure-hedgehog-drum-weather-hover-farm-help-brain |  
+| bip_39_word_dash_9 | measure-hedgehog-drum-weather-hover-farm-help-brain-guess |  
 | bip_39_word_new_br_1 | measure |  
 | bip_39_word_new_br_10 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain<br>guess<br>divide |  
 | bip_39_word_new_br_11 | measure<br>hedgehog<br>drum<br>weather<br>hover<br>farm<br>help<br>brain<br>guess<br>divide<br>employ |  
@@ -147,6 +159,18 @@ guess |
 | bip_39_word_space_7 | measure hedgehog drum weather hover farm help |  
 | bip_39_word_space_8 | measure hedgehog drum weather hover farm help brain |  
 | bip_39_word_space_9 | measure hedgehog drum weather hover farm help brain guess |  
+| bip_39_word_underscore_1 | measure |  
+| bip_39_word_underscore_10 | measure_hedgehog_drum_weather_hover_farm_help_brain_guess_divide |  
+| bip_39_word_underscore_11 | measure_hedgehog_drum_weather_hover_farm_help_brain_guess_divide_employ |  
+| bip_39_word_underscore_12 | measure_hedgehog_drum_weather_hover_farm_help_brain_guess_divide_employ_adapt |  
+| bip_39_word_underscore_2 | measure_hedgehog |  
+| bip_39_word_underscore_3 | measure_hedgehog_drum |  
+| bip_39_word_underscore_4 | measure_hedgehog_drum_weather |  
+| bip_39_word_underscore_5 | measure_hedgehog_drum_weather_hover |  
+| bip_39_word_underscore_6 | measure_hedgehog_drum_weather_hover_farm |  
+| bip_39_word_underscore_7 | measure_hedgehog_drum_weather_hover_farm_help |  
+| bip_39_word_underscore_8 | measure_hedgehog_drum_weather_hover_farm_help_brain |  
+| bip_39_word_underscore_9 | measure_hedgehog_drum_weather_hover_farm_help_brain_guess |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

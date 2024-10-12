@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | material |  
+| bip_39_word_dash_10 | material-miracle-shrimp-help-boil-praise-cause-swallow-way-culture |  
+| bip_39_word_dash_11 | material-miracle-shrimp-help-boil-praise-cause-swallow-way-culture-shoot |  
+| bip_39_word_dash_12 | material-miracle-shrimp-help-boil-praise-cause-swallow-way-culture-shoot-ahead |  
+| bip_39_word_dash_2 | material-miracle |  
+| bip_39_word_dash_3 | material-miracle-shrimp |  
+| bip_39_word_dash_4 | material-miracle-shrimp-help |  
+| bip_39_word_dash_5 | material-miracle-shrimp-help-boil |  
+| bip_39_word_dash_6 | material-miracle-shrimp-help-boil-praise |  
+| bip_39_word_dash_7 | material-miracle-shrimp-help-boil-praise-cause |  
+| bip_39_word_dash_8 | material-miracle-shrimp-help-boil-praise-cause-swallow |  
+| bip_39_word_dash_9 | material-miracle-shrimp-help-boil-praise-cause-swallow-way |  
 | bip_39_word_new_br_1 | material |  
 | bip_39_word_new_br_10 | material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture |  
 | bip_39_word_new_br_11 | material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture<br>shoot |  
@@ -147,6 +159,18 @@ way |
 | bip_39_word_space_7 | material miracle shrimp help boil praise cause |  
 | bip_39_word_space_8 | material miracle shrimp help boil praise cause swallow |  
 | bip_39_word_space_9 | material miracle shrimp help boil praise cause swallow way |  
+| bip_39_word_underscore_1 | material |  
+| bip_39_word_underscore_10 | material_miracle_shrimp_help_boil_praise_cause_swallow_way_culture |  
+| bip_39_word_underscore_11 | material_miracle_shrimp_help_boil_praise_cause_swallow_way_culture_shoot |  
+| bip_39_word_underscore_12 | material_miracle_shrimp_help_boil_praise_cause_swallow_way_culture_shoot_ahead |  
+| bip_39_word_underscore_2 | material_miracle |  
+| bip_39_word_underscore_3 | material_miracle_shrimp |  
+| bip_39_word_underscore_4 | material_miracle_shrimp_help |  
+| bip_39_word_underscore_5 | material_miracle_shrimp_help_boil |  
+| bip_39_word_underscore_6 | material_miracle_shrimp_help_boil_praise |  
+| bip_39_word_underscore_7 | material_miracle_shrimp_help_boil_praise_cause |  
+| bip_39_word_underscore_8 | material_miracle_shrimp_help_boil_praise_cause_swallow |  
+| bip_39_word_underscore_9 | material_miracle_shrimp_help_boil_praise_cause_swallow_way |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

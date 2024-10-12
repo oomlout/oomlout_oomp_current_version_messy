@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reform |  
+| bip_39_word_dash_10 | reform-wish-claw-doctor-feature-result-behind-weasel-season-pause |  
+| bip_39_word_dash_11 | reform-wish-claw-doctor-feature-result-behind-weasel-season-pause-narrow |  
+| bip_39_word_dash_12 | reform-wish-claw-doctor-feature-result-behind-weasel-season-pause-narrow-assault |  
+| bip_39_word_dash_2 | reform-wish |  
+| bip_39_word_dash_3 | reform-wish-claw |  
+| bip_39_word_dash_4 | reform-wish-claw-doctor |  
+| bip_39_word_dash_5 | reform-wish-claw-doctor-feature |  
+| bip_39_word_dash_6 | reform-wish-claw-doctor-feature-result |  
+| bip_39_word_dash_7 | reform-wish-claw-doctor-feature-result-behind |  
+| bip_39_word_dash_8 | reform-wish-claw-doctor-feature-result-behind-weasel |  
+| bip_39_word_dash_9 | reform-wish-claw-doctor-feature-result-behind-weasel-season |  
 | bip_39_word_new_br_1 | reform |  
 | bip_39_word_new_br_10 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel<br>season<br>pause |  
 | bip_39_word_new_br_11 | reform<br>wish<br>claw<br>doctor<br>feature<br>result<br>behind<br>weasel<br>season<br>pause<br>narrow |  
@@ -147,6 +159,18 @@ season |
 | bip_39_word_space_7 | reform wish claw doctor feature result behind |  
 | bip_39_word_space_8 | reform wish claw doctor feature result behind weasel |  
 | bip_39_word_space_9 | reform wish claw doctor feature result behind weasel season |  
+| bip_39_word_underscore_1 | reform |  
+| bip_39_word_underscore_10 | reform_wish_claw_doctor_feature_result_behind_weasel_season_pause |  
+| bip_39_word_underscore_11 | reform_wish_claw_doctor_feature_result_behind_weasel_season_pause_narrow |  
+| bip_39_word_underscore_12 | reform_wish_claw_doctor_feature_result_behind_weasel_season_pause_narrow_assault |  
+| bip_39_word_underscore_2 | reform_wish |  
+| bip_39_word_underscore_3 | reform_wish_claw |  
+| bip_39_word_underscore_4 | reform_wish_claw_doctor |  
+| bip_39_word_underscore_5 | reform_wish_claw_doctor_feature |  
+| bip_39_word_underscore_6 | reform_wish_claw_doctor_feature_result |  
+| bip_39_word_underscore_7 | reform_wish_claw_doctor_feature_result_behind |  
+| bip_39_word_underscore_8 | reform_wish_claw_doctor_feature_result_behind_weasel |  
+| bip_39_word_underscore_9 | reform_wish_claw_doctor_feature_result_behind_weasel_season |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

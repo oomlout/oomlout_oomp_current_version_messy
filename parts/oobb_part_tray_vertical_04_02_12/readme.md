@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | second |  
+| bip_39_word_dash_10 | second-ozone-reform-entire-unveil-bring-rare-gravity-vintage-hammer |  
+| bip_39_word_dash_11 | second-ozone-reform-entire-unveil-bring-rare-gravity-vintage-hammer-degree |  
+| bip_39_word_dash_12 | second-ozone-reform-entire-unveil-bring-rare-gravity-vintage-hammer-degree-alcohol |  
+| bip_39_word_dash_2 | second-ozone |  
+| bip_39_word_dash_3 | second-ozone-reform |  
+| bip_39_word_dash_4 | second-ozone-reform-entire |  
+| bip_39_word_dash_5 | second-ozone-reform-entire-unveil |  
+| bip_39_word_dash_6 | second-ozone-reform-entire-unveil-bring |  
+| bip_39_word_dash_7 | second-ozone-reform-entire-unveil-bring-rare |  
+| bip_39_word_dash_8 | second-ozone-reform-entire-unveil-bring-rare-gravity |  
+| bip_39_word_dash_9 | second-ozone-reform-entire-unveil-bring-rare-gravity-vintage |  
 | bip_39_word_new_br_1 | second |  
 | bip_39_word_new_br_10 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity<br>vintage<br>hammer |  
 | bip_39_word_new_br_11 | second<br>ozone<br>reform<br>entire<br>unveil<br>bring<br>rare<br>gravity<br>vintage<br>hammer<br>degree |  
@@ -147,6 +159,18 @@ vintage |
 | bip_39_word_space_7 | second ozone reform entire unveil bring rare |  
 | bip_39_word_space_8 | second ozone reform entire unveil bring rare gravity |  
 | bip_39_word_space_9 | second ozone reform entire unveil bring rare gravity vintage |  
+| bip_39_word_underscore_1 | second |  
+| bip_39_word_underscore_10 | second_ozone_reform_entire_unveil_bring_rare_gravity_vintage_hammer |  
+| bip_39_word_underscore_11 | second_ozone_reform_entire_unveil_bring_rare_gravity_vintage_hammer_degree |  
+| bip_39_word_underscore_12 | second_ozone_reform_entire_unveil_bring_rare_gravity_vintage_hammer_degree_alcohol |  
+| bip_39_word_underscore_2 | second_ozone |  
+| bip_39_word_underscore_3 | second_ozone_reform |  
+| bip_39_word_underscore_4 | second_ozone_reform_entire |  
+| bip_39_word_underscore_5 | second_ozone_reform_entire_unveil |  
+| bip_39_word_underscore_6 | second_ozone_reform_entire_unveil_bring |  
+| bip_39_word_underscore_7 | second_ozone_reform_entire_unveil_bring_rare |  
+| bip_39_word_underscore_8 | second_ozone_reform_entire_unveil_bring_rare_gravity |  
+| bip_39_word_underscore_9 | second_ozone_reform_entire_unveil_bring_rare_gravity_vintage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

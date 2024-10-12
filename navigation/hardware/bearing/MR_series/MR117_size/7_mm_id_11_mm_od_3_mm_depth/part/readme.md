@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | warm |  
+| bip_39_word_dash_10 | warm-horse-army-park-measure-begin-vital-gesture-left-tourist |  
+| bip_39_word_dash_11 | warm-horse-army-park-measure-begin-vital-gesture-left-tourist-job |  
+| bip_39_word_dash_12 | warm-horse-army-park-measure-begin-vital-gesture-left-tourist-job-amused |  
+| bip_39_word_dash_2 | warm-horse |  
+| bip_39_word_dash_3 | warm-horse-army |  
+| bip_39_word_dash_4 | warm-horse-army-park |  
+| bip_39_word_dash_5 | warm-horse-army-park-measure |  
+| bip_39_word_dash_6 | warm-horse-army-park-measure-begin |  
+| bip_39_word_dash_7 | warm-horse-army-park-measure-begin-vital |  
+| bip_39_word_dash_8 | warm-horse-army-park-measure-begin-vital-gesture |  
+| bip_39_word_dash_9 | warm-horse-army-park-measure-begin-vital-gesture-left |  
 | bip_39_word_new_br_1 | warm |  
 | bip_39_word_new_br_10 | warm<br>horse<br>army<br>park<br>measure<br>begin<br>vital<br>gesture<br>left<br>tourist |  
 | bip_39_word_new_br_11 | warm<br>horse<br>army<br>park<br>measure<br>begin<br>vital<br>gesture<br>left<br>tourist<br>job |  
@@ -147,6 +159,18 @@ left |
 | bip_39_word_space_7 | warm horse army park measure begin vital |  
 | bip_39_word_space_8 | warm horse army park measure begin vital gesture |  
 | bip_39_word_space_9 | warm horse army park measure begin vital gesture left |  
+| bip_39_word_underscore_1 | warm |  
+| bip_39_word_underscore_10 | warm_horse_army_park_measure_begin_vital_gesture_left_tourist |  
+| bip_39_word_underscore_11 | warm_horse_army_park_measure_begin_vital_gesture_left_tourist_job |  
+| bip_39_word_underscore_12 | warm_horse_army_park_measure_begin_vital_gesture_left_tourist_job_amused |  
+| bip_39_word_underscore_2 | warm_horse |  
+| bip_39_word_underscore_3 | warm_horse_army |  
+| bip_39_word_underscore_4 | warm_horse_army_park |  
+| bip_39_word_underscore_5 | warm_horse_army_park_measure |  
+| bip_39_word_underscore_6 | warm_horse_army_park_measure_begin |  
+| bip_39_word_underscore_7 | warm_horse_army_park_measure_begin_vital |  
+| bip_39_word_underscore_8 | warm_horse_army_park_measure_begin_vital_gesture |  
+| bip_39_word_underscore_9 | warm_horse_army_park_measure_begin_vital_gesture_left |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

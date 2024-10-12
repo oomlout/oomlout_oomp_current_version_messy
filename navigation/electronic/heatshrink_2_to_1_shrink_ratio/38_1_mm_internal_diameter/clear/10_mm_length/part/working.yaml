@@ -1,3 +1,15 @@
+bip_39_word_dash_1: drama
+bip_39_word_dash_10: drama-sign-announce-bleak-all-robust-uphold-forget-position-noble
+bip_39_word_dash_11: drama-sign-announce-bleak-all-robust-uphold-forget-position-noble-use
+bip_39_word_dash_12: drama-sign-announce-bleak-all-robust-uphold-forget-position-noble-use-ahead
+bip_39_word_dash_2: drama-sign
+bip_39_word_dash_3: drama-sign-announce
+bip_39_word_dash_4: drama-sign-announce-bleak
+bip_39_word_dash_5: drama-sign-announce-bleak-all
+bip_39_word_dash_6: drama-sign-announce-bleak-all-robust
+bip_39_word_dash_7: drama-sign-announce-bleak-all-robust-uphold
+bip_39_word_dash_8: drama-sign-announce-bleak-all-robust-uphold-forget
+bip_39_word_dash_9: drama-sign-announce-bleak-all-robust-uphold-forget-position
 bip_39_word_new_br_1: drama
 bip_39_word_new_br_10: drama<br>sign<br>announce<br>bleak<br>all<br>robust<br>uphold<br>forget<br>position<br>noble
 bip_39_word_new_br_11: drama<br>sign<br>announce<br>bleak<br>all<br>robust<br>uphold<br>forget<br>position<br>noble<br>use
@@ -194,6 +206,18 @@ bip_39_word_space_6: drama sign announce bleak all robust
 bip_39_word_space_7: drama sign announce bleak all robust uphold
 bip_39_word_space_8: drama sign announce bleak all robust uphold forget
 bip_39_word_space_9: drama sign announce bleak all robust uphold forget position
+bip_39_word_underscore_1: drama
+bip_39_word_underscore_10: drama_sign_announce_bleak_all_robust_uphold_forget_position_noble
+bip_39_word_underscore_11: drama_sign_announce_bleak_all_robust_uphold_forget_position_noble_use
+bip_39_word_underscore_12: drama_sign_announce_bleak_all_robust_uphold_forget_position_noble_use_ahead
+bip_39_word_underscore_2: drama_sign
+bip_39_word_underscore_3: drama_sign_announce
+bip_39_word_underscore_4: drama_sign_announce_bleak
+bip_39_word_underscore_5: drama_sign_announce_bleak_all
+bip_39_word_underscore_6: drama_sign_announce_bleak_all_robust
+bip_39_word_underscore_7: drama_sign_announce_bleak_all_robust_uphold
+bip_39_word_underscore_8: drama_sign_announce_bleak_all_robust_uphold_forget
+bip_39_word_underscore_9: drama_sign_announce_bleak_all_robust_uphold_forget_position
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

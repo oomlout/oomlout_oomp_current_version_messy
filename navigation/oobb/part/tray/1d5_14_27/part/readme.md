@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ghost |  
+| bip_39_word_dash_10 | ghost-decade-torch-spring-toilet-whisper-inside-sentence-apart-second |  
+| bip_39_word_dash_11 | ghost-decade-torch-spring-toilet-whisper-inside-sentence-apart-second-grief |  
+| bip_39_word_dash_12 | ghost-decade-torch-spring-toilet-whisper-inside-sentence-apart-second-grief-assist |  
+| bip_39_word_dash_2 | ghost-decade |  
+| bip_39_word_dash_3 | ghost-decade-torch |  
+| bip_39_word_dash_4 | ghost-decade-torch-spring |  
+| bip_39_word_dash_5 | ghost-decade-torch-spring-toilet |  
+| bip_39_word_dash_6 | ghost-decade-torch-spring-toilet-whisper |  
+| bip_39_word_dash_7 | ghost-decade-torch-spring-toilet-whisper-inside |  
+| bip_39_word_dash_8 | ghost-decade-torch-spring-toilet-whisper-inside-sentence |  
+| bip_39_word_dash_9 | ghost-decade-torch-spring-toilet-whisper-inside-sentence-apart |  
 | bip_39_word_new_br_1 | ghost |  
 | bip_39_word_new_br_10 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second |  
 | bip_39_word_new_br_11 | ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second<br>grief |  
@@ -147,6 +159,18 @@ apart |
 | bip_39_word_space_7 | ghost decade torch spring toilet whisper inside |  
 | bip_39_word_space_8 | ghost decade torch spring toilet whisper inside sentence |  
 | bip_39_word_space_9 | ghost decade torch spring toilet whisper inside sentence apart |  
+| bip_39_word_underscore_1 | ghost |  
+| bip_39_word_underscore_10 | ghost_decade_torch_spring_toilet_whisper_inside_sentence_apart_second |  
+| bip_39_word_underscore_11 | ghost_decade_torch_spring_toilet_whisper_inside_sentence_apart_second_grief |  
+| bip_39_word_underscore_12 | ghost_decade_torch_spring_toilet_whisper_inside_sentence_apart_second_grief_assist |  
+| bip_39_word_underscore_2 | ghost_decade |  
+| bip_39_word_underscore_3 | ghost_decade_torch |  
+| bip_39_word_underscore_4 | ghost_decade_torch_spring |  
+| bip_39_word_underscore_5 | ghost_decade_torch_spring_toilet |  
+| bip_39_word_underscore_6 | ghost_decade_torch_spring_toilet_whisper |  
+| bip_39_word_underscore_7 | ghost_decade_torch_spring_toilet_whisper_inside |  
+| bip_39_word_underscore_8 | ghost_decade_torch_spring_toilet_whisper_inside_sentence |  
+| bip_39_word_underscore_9 | ghost_decade_torch_spring_toilet_whisper_inside_sentence_apart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reduce |  
+| bip_39_word_dash_10 | reduce-move-snap-quick-six-excuse-heavy-chat-label-false |  
+| bip_39_word_dash_11 | reduce-move-snap-quick-six-excuse-heavy-chat-label-false-unit |  
+| bip_39_word_dash_12 | reduce-move-snap-quick-six-excuse-heavy-chat-label-false-unit-all |  
+| bip_39_word_dash_2 | reduce-move |  
+| bip_39_word_dash_3 | reduce-move-snap |  
+| bip_39_word_dash_4 | reduce-move-snap-quick |  
+| bip_39_word_dash_5 | reduce-move-snap-quick-six |  
+| bip_39_word_dash_6 | reduce-move-snap-quick-six-excuse |  
+| bip_39_word_dash_7 | reduce-move-snap-quick-six-excuse-heavy |  
+| bip_39_word_dash_8 | reduce-move-snap-quick-six-excuse-heavy-chat |  
+| bip_39_word_dash_9 | reduce-move-snap-quick-six-excuse-heavy-chat-label |  
 | bip_39_word_new_br_1 | reduce |  
 | bip_39_word_new_br_10 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false |  
 | bip_39_word_new_br_11 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false<br>unit |  
@@ -147,6 +159,18 @@ label |
 | bip_39_word_space_7 | reduce move snap quick six excuse heavy |  
 | bip_39_word_space_8 | reduce move snap quick six excuse heavy chat |  
 | bip_39_word_space_9 | reduce move snap quick six excuse heavy chat label |  
+| bip_39_word_underscore_1 | reduce |  
+| bip_39_word_underscore_10 | reduce_move_snap_quick_six_excuse_heavy_chat_label_false |  
+| bip_39_word_underscore_11 | reduce_move_snap_quick_six_excuse_heavy_chat_label_false_unit |  
+| bip_39_word_underscore_12 | reduce_move_snap_quick_six_excuse_heavy_chat_label_false_unit_all |  
+| bip_39_word_underscore_2 | reduce_move |  
+| bip_39_word_underscore_3 | reduce_move_snap |  
+| bip_39_word_underscore_4 | reduce_move_snap_quick |  
+| bip_39_word_underscore_5 | reduce_move_snap_quick_six |  
+| bip_39_word_underscore_6 | reduce_move_snap_quick_six_excuse |  
+| bip_39_word_underscore_7 | reduce_move_snap_quick_six_excuse_heavy |  
+| bip_39_word_underscore_8 | reduce_move_snap_quick_six_excuse_heavy_chat |  
+| bip_39_word_underscore_9 | reduce_move_snap_quick_six_excuse_heavy_chat_label |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

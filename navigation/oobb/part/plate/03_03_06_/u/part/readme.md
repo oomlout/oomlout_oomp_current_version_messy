@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | garlic |  
+| bip_39_word_dash_10 | garlic-grid-legend-tool-honey-permit-fog-other-palace-devote |  
+| bip_39_word_dash_11 | garlic-grid-legend-tool-honey-permit-fog-other-palace-devote-reason |  
+| bip_39_word_dash_12 | garlic-grid-legend-tool-honey-permit-fog-other-palace-devote-reason-already |  
+| bip_39_word_dash_2 | garlic-grid |  
+| bip_39_word_dash_3 | garlic-grid-legend |  
+| bip_39_word_dash_4 | garlic-grid-legend-tool |  
+| bip_39_word_dash_5 | garlic-grid-legend-tool-honey |  
+| bip_39_word_dash_6 | garlic-grid-legend-tool-honey-permit |  
+| bip_39_word_dash_7 | garlic-grid-legend-tool-honey-permit-fog |  
+| bip_39_word_dash_8 | garlic-grid-legend-tool-honey-permit-fog-other |  
+| bip_39_word_dash_9 | garlic-grid-legend-tool-honey-permit-fog-other-palace |  
 | bip_39_word_new_br_1 | garlic |  
 | bip_39_word_new_br_10 | garlic<br>grid<br>legend<br>tool<br>honey<br>permit<br>fog<br>other<br>palace<br>devote |  
 | bip_39_word_new_br_11 | garlic<br>grid<br>legend<br>tool<br>honey<br>permit<br>fog<br>other<br>palace<br>devote<br>reason |  
@@ -147,6 +159,18 @@ palace |
 | bip_39_word_space_7 | garlic grid legend tool honey permit fog |  
 | bip_39_word_space_8 | garlic grid legend tool honey permit fog other |  
 | bip_39_word_space_9 | garlic grid legend tool honey permit fog other palace |  
+| bip_39_word_underscore_1 | garlic |  
+| bip_39_word_underscore_10 | garlic_grid_legend_tool_honey_permit_fog_other_palace_devote |  
+| bip_39_word_underscore_11 | garlic_grid_legend_tool_honey_permit_fog_other_palace_devote_reason |  
+| bip_39_word_underscore_12 | garlic_grid_legend_tool_honey_permit_fog_other_palace_devote_reason_already |  
+| bip_39_word_underscore_2 | garlic_grid |  
+| bip_39_word_underscore_3 | garlic_grid_legend |  
+| bip_39_word_underscore_4 | garlic_grid_legend_tool |  
+| bip_39_word_underscore_5 | garlic_grid_legend_tool_honey |  
+| bip_39_word_underscore_6 | garlic_grid_legend_tool_honey_permit |  
+| bip_39_word_underscore_7 | garlic_grid_legend_tool_honey_permit_fog |  
+| bip_39_word_underscore_8 | garlic_grid_legend_tool_honey_permit_fog_other |  
+| bip_39_word_underscore_9 | garlic_grid_legend_tool_honey_permit_fog_other_palace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trumpet |  
+| bip_39_word_dash_10 | trumpet-police-laugh-code-another-easily-beef-breeze-annual-zoo |  
+| bip_39_word_dash_11 | trumpet-police-laugh-code-another-easily-beef-breeze-annual-zoo-lobster |  
+| bip_39_word_dash_12 | trumpet-police-laugh-code-another-easily-beef-breeze-annual-zoo-lobster-amateur |  
+| bip_39_word_dash_2 | trumpet-police |  
+| bip_39_word_dash_3 | trumpet-police-laugh |  
+| bip_39_word_dash_4 | trumpet-police-laugh-code |  
+| bip_39_word_dash_5 | trumpet-police-laugh-code-another |  
+| bip_39_word_dash_6 | trumpet-police-laugh-code-another-easily |  
+| bip_39_word_dash_7 | trumpet-police-laugh-code-another-easily-beef |  
+| bip_39_word_dash_8 | trumpet-police-laugh-code-another-easily-beef-breeze |  
+| bip_39_word_dash_9 | trumpet-police-laugh-code-another-easily-beef-breeze-annual |  
 | bip_39_word_new_br_1 | trumpet |  
 | bip_39_word_new_br_10 | trumpet<br>police<br>laugh<br>code<br>another<br>easily<br>beef<br>breeze<br>annual<br>zoo |  
 | bip_39_word_new_br_11 | trumpet<br>police<br>laugh<br>code<br>another<br>easily<br>beef<br>breeze<br>annual<br>zoo<br>lobster |  
@@ -147,6 +159,18 @@ annual |
 | bip_39_word_space_7 | trumpet police laugh code another easily beef |  
 | bip_39_word_space_8 | trumpet police laugh code another easily beef breeze |  
 | bip_39_word_space_9 | trumpet police laugh code another easily beef breeze annual |  
+| bip_39_word_underscore_1 | trumpet |  
+| bip_39_word_underscore_10 | trumpet_police_laugh_code_another_easily_beef_breeze_annual_zoo |  
+| bip_39_word_underscore_11 | trumpet_police_laugh_code_another_easily_beef_breeze_annual_zoo_lobster |  
+| bip_39_word_underscore_12 | trumpet_police_laugh_code_another_easily_beef_breeze_annual_zoo_lobster_amateur |  
+| bip_39_word_underscore_2 | trumpet_police |  
+| bip_39_word_underscore_3 | trumpet_police_laugh |  
+| bip_39_word_underscore_4 | trumpet_police_laugh_code |  
+| bip_39_word_underscore_5 | trumpet_police_laugh_code_another |  
+| bip_39_word_underscore_6 | trumpet_police_laugh_code_another_easily |  
+| bip_39_word_underscore_7 | trumpet_police_laugh_code_another_easily_beef |  
+| bip_39_word_underscore_8 | trumpet_police_laugh_code_another_easily_beef_breeze |  
+| bip_39_word_underscore_9 | trumpet_police_laugh_code_another_easily_beef_breeze_annual |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

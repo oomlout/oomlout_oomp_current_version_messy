@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mule |  
+| bip_39_word_dash_10 | mule-ridge-sadness-later-outer-exact-three-divide-indicate-regular |  
+| bip_39_word_dash_11 | mule-ridge-sadness-later-outer-exact-three-divide-indicate-regular-ten |  
+| bip_39_word_dash_2 | mule-ridge |  
+| bip_39_word_dash_3 | mule-ridge-sadness |  
+| bip_39_word_dash_4 | mule-ridge-sadness-later |  
+| bip_39_word_dash_5 | mule-ridge-sadness-later-outer |  
+| bip_39_word_dash_6 | mule-ridge-sadness-later-outer-exact |  
+| bip_39_word_dash_7 | mule-ridge-sadness-later-outer-exact-three |  
+| bip_39_word_dash_8 | mule-ridge-sadness-later-outer-exact-three-divide |  
+| bip_39_word_dash_9 | mule-ridge-sadness-later-outer-exact-three-divide-indicate |  
 | bip_39_word_new_br_1 | mule |  
 | bip_39_word_new_br_10 | mule<br>ridge<br>sadness<br>later<br>outer<br>exact<br>three<br>divide<br>indicate<br>regular |  
 | bip_39_word_new_br_11 | mule<br>ridge<br>sadness<br>later<br>outer<br>exact<br>three<br>divide<br>indicate<br>regular<br>ten |  
@@ -132,6 +143,17 @@ indicate |
 | bip_39_word_space_7 | mule ridge sadness later outer exact three |  
 | bip_39_word_space_8 | mule ridge sadness later outer exact three divide |  
 | bip_39_word_space_9 | mule ridge sadness later outer exact three divide indicate |  
+| bip_39_word_underscore_1 | mule |  
+| bip_39_word_underscore_10 | mule_ridge_sadness_later_outer_exact_three_divide_indicate_regular |  
+| bip_39_word_underscore_11 | mule_ridge_sadness_later_outer_exact_three_divide_indicate_regular_ten |  
+| bip_39_word_underscore_2 | mule_ridge |  
+| bip_39_word_underscore_3 | mule_ridge_sadness |  
+| bip_39_word_underscore_4 | mule_ridge_sadness_later |  
+| bip_39_word_underscore_5 | mule_ridge_sadness_later_outer |  
+| bip_39_word_underscore_6 | mule_ridge_sadness_later_outer_exact |  
+| bip_39_word_underscore_7 | mule_ridge_sadness_later_outer_exact_three |  
+| bip_39_word_underscore_8 | mule_ridge_sadness_later_outer_exact_three_divide |  
+| bip_39_word_underscore_9 | mule_ridge_sadness_later_outer_exact_three_divide_indicate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

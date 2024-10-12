@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | language |  
+| bip_39_word_dash_10 | language-gloom-educate-pupil-useless-grab-trip-ankle-permit-shop |  
+| bip_39_word_dash_11 | language-gloom-educate-pupil-useless-grab-trip-ankle-permit-shop-ordinary |  
+| bip_39_word_dash_12 | language-gloom-educate-pupil-useless-grab-trip-ankle-permit-shop-ordinary-acid |  
+| bip_39_word_dash_2 | language-gloom |  
+| bip_39_word_dash_3 | language-gloom-educate |  
+| bip_39_word_dash_4 | language-gloom-educate-pupil |  
+| bip_39_word_dash_5 | language-gloom-educate-pupil-useless |  
+| bip_39_word_dash_6 | language-gloom-educate-pupil-useless-grab |  
+| bip_39_word_dash_7 | language-gloom-educate-pupil-useless-grab-trip |  
+| bip_39_word_dash_8 | language-gloom-educate-pupil-useless-grab-trip-ankle |  
+| bip_39_word_dash_9 | language-gloom-educate-pupil-useless-grab-trip-ankle-permit |  
 | bip_39_word_new_br_1 | language |  
 | bip_39_word_new_br_10 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop |  
 | bip_39_word_new_br_11 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop<br>ordinary |  
@@ -147,6 +159,18 @@ permit |
 | bip_39_word_space_7 | language gloom educate pupil useless grab trip |  
 | bip_39_word_space_8 | language gloom educate pupil useless grab trip ankle |  
 | bip_39_word_space_9 | language gloom educate pupil useless grab trip ankle permit |  
+| bip_39_word_underscore_1 | language |  
+| bip_39_word_underscore_10 | language_gloom_educate_pupil_useless_grab_trip_ankle_permit_shop |  
+| bip_39_word_underscore_11 | language_gloom_educate_pupil_useless_grab_trip_ankle_permit_shop_ordinary |  
+| bip_39_word_underscore_12 | language_gloom_educate_pupil_useless_grab_trip_ankle_permit_shop_ordinary_acid |  
+| bip_39_word_underscore_2 | language_gloom |  
+| bip_39_word_underscore_3 | language_gloom_educate |  
+| bip_39_word_underscore_4 | language_gloom_educate_pupil |  
+| bip_39_word_underscore_5 | language_gloom_educate_pupil_useless |  
+| bip_39_word_underscore_6 | language_gloom_educate_pupil_useless_grab |  
+| bip_39_word_underscore_7 | language_gloom_educate_pupil_useless_grab_trip |  
+| bip_39_word_underscore_8 | language_gloom_educate_pupil_useless_grab_trip_ankle |  
+| bip_39_word_underscore_9 | language_gloom_educate_pupil_useless_grab_trip_ankle_permit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

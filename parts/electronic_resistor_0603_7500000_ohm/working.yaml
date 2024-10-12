@@ -1,3 +1,15 @@
+bip_39_word_dash_1: poverty
+bip_39_word_dash_10: poverty-angry-upon-open-later-swap-live-vapor-crop-pulse
+bip_39_word_dash_11: poverty-angry-upon-open-later-swap-live-vapor-crop-pulse-hybrid
+bip_39_word_dash_12: poverty-angry-upon-open-later-swap-live-vapor-crop-pulse-hybrid-account
+bip_39_word_dash_2: poverty-angry
+bip_39_word_dash_3: poverty-angry-upon
+bip_39_word_dash_4: poverty-angry-upon-open
+bip_39_word_dash_5: poverty-angry-upon-open-later
+bip_39_word_dash_6: poverty-angry-upon-open-later-swap
+bip_39_word_dash_7: poverty-angry-upon-open-later-swap-live
+bip_39_word_dash_8: poverty-angry-upon-open-later-swap-live-vapor
+bip_39_word_dash_9: poverty-angry-upon-open-later-swap-live-vapor-crop
 bip_39_word_new_br_1: poverty
 bip_39_word_new_br_10: poverty<br>angry<br>upon<br>open<br>later<br>swap<br>live<br>vapor<br>crop<br>pulse
 bip_39_word_new_br_11: poverty<br>angry<br>upon<br>open<br>later<br>swap<br>live<br>vapor<br>crop<br>pulse<br>hybrid
@@ -192,6 +204,18 @@ bip_39_word_space_6: poverty angry upon open later swap
 bip_39_word_space_7: poverty angry upon open later swap live
 bip_39_word_space_8: poverty angry upon open later swap live vapor
 bip_39_word_space_9: poverty angry upon open later swap live vapor crop
+bip_39_word_underscore_1: poverty
+bip_39_word_underscore_10: poverty_angry_upon_open_later_swap_live_vapor_crop_pulse
+bip_39_word_underscore_11: poverty_angry_upon_open_later_swap_live_vapor_crop_pulse_hybrid
+bip_39_word_underscore_12: poverty_angry_upon_open_later_swap_live_vapor_crop_pulse_hybrid_account
+bip_39_word_underscore_2: poverty_angry
+bip_39_word_underscore_3: poverty_angry_upon
+bip_39_word_underscore_4: poverty_angry_upon_open
+bip_39_word_underscore_5: poverty_angry_upon_open_later
+bip_39_word_underscore_6: poverty_angry_upon_open_later_swap
+bip_39_word_underscore_7: poverty_angry_upon_open_later_swap_live
+bip_39_word_underscore_8: poverty_angry_upon_open_later_swap_live_vapor
+bip_39_word_underscore_9: poverty_angry_upon_open_later_swap_live_vapor_crop
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

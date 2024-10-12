@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | great |  
+| bip_39_word_dash_10 | great-kiss-between-pretty-change-glory-off-demise-emotion-eye |  
+| bip_39_word_dash_11 | great-kiss-between-pretty-change-glory-off-demise-emotion-eye-summer |  
+| bip_39_word_dash_12 | great-kiss-between-pretty-change-glory-off-demise-emotion-eye-summer-animal |  
+| bip_39_word_dash_2 | great-kiss |  
+| bip_39_word_dash_3 | great-kiss-between |  
+| bip_39_word_dash_4 | great-kiss-between-pretty |  
+| bip_39_word_dash_5 | great-kiss-between-pretty-change |  
+| bip_39_word_dash_6 | great-kiss-between-pretty-change-glory |  
+| bip_39_word_dash_7 | great-kiss-between-pretty-change-glory-off |  
+| bip_39_word_dash_8 | great-kiss-between-pretty-change-glory-off-demise |  
+| bip_39_word_dash_9 | great-kiss-between-pretty-change-glory-off-demise-emotion |  
 | bip_39_word_new_br_1 | great |  
 | bip_39_word_new_br_10 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye |  
 | bip_39_word_new_br_11 | great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye<br>summer |  
@@ -147,6 +159,18 @@ emotion |
 | bip_39_word_space_7 | great kiss between pretty change glory off |  
 | bip_39_word_space_8 | great kiss between pretty change glory off demise |  
 | bip_39_word_space_9 | great kiss between pretty change glory off demise emotion |  
+| bip_39_word_underscore_1 | great |  
+| bip_39_word_underscore_10 | great_kiss_between_pretty_change_glory_off_demise_emotion_eye |  
+| bip_39_word_underscore_11 | great_kiss_between_pretty_change_glory_off_demise_emotion_eye_summer |  
+| bip_39_word_underscore_12 | great_kiss_between_pretty_change_glory_off_demise_emotion_eye_summer_animal |  
+| bip_39_word_underscore_2 | great_kiss |  
+| bip_39_word_underscore_3 | great_kiss_between |  
+| bip_39_word_underscore_4 | great_kiss_between_pretty |  
+| bip_39_word_underscore_5 | great_kiss_between_pretty_change |  
+| bip_39_word_underscore_6 | great_kiss_between_pretty_change_glory |  
+| bip_39_word_underscore_7 | great_kiss_between_pretty_change_glory_off |  
+| bip_39_word_underscore_8 | great_kiss_between_pretty_change_glory_off_demise |  
+| bip_39_word_underscore_9 | great_kiss_between_pretty_change_glory_off_demise_emotion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

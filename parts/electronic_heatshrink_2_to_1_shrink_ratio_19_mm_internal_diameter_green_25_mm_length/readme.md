@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dilemma |  
+| bip_39_word_dash_10 | dilemma-hurry-olive-salon-remain-myself-amount-mule-enemy-spy |  
+| bip_39_word_dash_11 | dilemma-hurry-olive-salon-remain-myself-amount-mule-enemy-spy-odor |  
+| bip_39_word_dash_12 | dilemma-hurry-olive-salon-remain-myself-amount-mule-enemy-spy-odor-already |  
+| bip_39_word_dash_2 | dilemma-hurry |  
+| bip_39_word_dash_3 | dilemma-hurry-olive |  
+| bip_39_word_dash_4 | dilemma-hurry-olive-salon |  
+| bip_39_word_dash_5 | dilemma-hurry-olive-salon-remain |  
+| bip_39_word_dash_6 | dilemma-hurry-olive-salon-remain-myself |  
+| bip_39_word_dash_7 | dilemma-hurry-olive-salon-remain-myself-amount |  
+| bip_39_word_dash_8 | dilemma-hurry-olive-salon-remain-myself-amount-mule |  
+| bip_39_word_dash_9 | dilemma-hurry-olive-salon-remain-myself-amount-mule-enemy |  
 | bip_39_word_new_br_1 | dilemma |  
 | bip_39_word_new_br_10 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy |  
 | bip_39_word_new_br_11 | dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy<br>odor |  
@@ -147,6 +159,18 @@ enemy |
 | bip_39_word_space_7 | dilemma hurry olive salon remain myself amount |  
 | bip_39_word_space_8 | dilemma hurry olive salon remain myself amount mule |  
 | bip_39_word_space_9 | dilemma hurry olive salon remain myself amount mule enemy |  
+| bip_39_word_underscore_1 | dilemma |  
+| bip_39_word_underscore_10 | dilemma_hurry_olive_salon_remain_myself_amount_mule_enemy_spy |  
+| bip_39_word_underscore_11 | dilemma_hurry_olive_salon_remain_myself_amount_mule_enemy_spy_odor |  
+| bip_39_word_underscore_12 | dilemma_hurry_olive_salon_remain_myself_amount_mule_enemy_spy_odor_already |  
+| bip_39_word_underscore_2 | dilemma_hurry |  
+| bip_39_word_underscore_3 | dilemma_hurry_olive |  
+| bip_39_word_underscore_4 | dilemma_hurry_olive_salon |  
+| bip_39_word_underscore_5 | dilemma_hurry_olive_salon_remain |  
+| bip_39_word_underscore_6 | dilemma_hurry_olive_salon_remain_myself |  
+| bip_39_word_underscore_7 | dilemma_hurry_olive_salon_remain_myself_amount |  
+| bip_39_word_underscore_8 | dilemma_hurry_olive_salon_remain_myself_amount_mule |  
+| bip_39_word_underscore_9 | dilemma_hurry_olive_salon_remain_myself_amount_mule_enemy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

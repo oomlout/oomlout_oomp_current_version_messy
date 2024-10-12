@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bean |  
+| bip_39_word_dash_10 | bean-country-flee-jewel-helmet-kind-proof-choice-screen-mind |  
+| bip_39_word_dash_11 | bean-country-flee-jewel-helmet-kind-proof-choice-screen-mind-enough |  
+| bip_39_word_dash_12 | bean-country-flee-jewel-helmet-kind-proof-choice-screen-mind-enough-ask |  
+| bip_39_word_dash_2 | bean-country |  
+| bip_39_word_dash_3 | bean-country-flee |  
+| bip_39_word_dash_4 | bean-country-flee-jewel |  
+| bip_39_word_dash_5 | bean-country-flee-jewel-helmet |  
+| bip_39_word_dash_6 | bean-country-flee-jewel-helmet-kind |  
+| bip_39_word_dash_7 | bean-country-flee-jewel-helmet-kind-proof |  
+| bip_39_word_dash_8 | bean-country-flee-jewel-helmet-kind-proof-choice |  
+| bip_39_word_dash_9 | bean-country-flee-jewel-helmet-kind-proof-choice-screen |  
 | bip_39_word_new_br_1 | bean |  
 | bip_39_word_new_br_10 | bean<br>country<br>flee<br>jewel<br>helmet<br>kind<br>proof<br>choice<br>screen<br>mind |  
 | bip_39_word_new_br_11 | bean<br>country<br>flee<br>jewel<br>helmet<br>kind<br>proof<br>choice<br>screen<br>mind<br>enough |  
@@ -147,6 +159,18 @@ screen |
 | bip_39_word_space_7 | bean country flee jewel helmet kind proof |  
 | bip_39_word_space_8 | bean country flee jewel helmet kind proof choice |  
 | bip_39_word_space_9 | bean country flee jewel helmet kind proof choice screen |  
+| bip_39_word_underscore_1 | bean |  
+| bip_39_word_underscore_10 | bean_country_flee_jewel_helmet_kind_proof_choice_screen_mind |  
+| bip_39_word_underscore_11 | bean_country_flee_jewel_helmet_kind_proof_choice_screen_mind_enough |  
+| bip_39_word_underscore_12 | bean_country_flee_jewel_helmet_kind_proof_choice_screen_mind_enough_ask |  
+| bip_39_word_underscore_2 | bean_country |  
+| bip_39_word_underscore_3 | bean_country_flee |  
+| bip_39_word_underscore_4 | bean_country_flee_jewel |  
+| bip_39_word_underscore_5 | bean_country_flee_jewel_helmet |  
+| bip_39_word_underscore_6 | bean_country_flee_jewel_helmet_kind |  
+| bip_39_word_underscore_7 | bean_country_flee_jewel_helmet_kind_proof |  
+| bip_39_word_underscore_8 | bean_country_flee_jewel_helmet_kind_proof_choice |  
+| bip_39_word_underscore_9 | bean_country_flee_jewel_helmet_kind_proof_choice_screen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

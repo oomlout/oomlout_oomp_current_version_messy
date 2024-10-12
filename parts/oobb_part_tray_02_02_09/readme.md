@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | produce |  
+| bip_39_word_dash_10 | produce-ghost-tornado-punch-provide-venture-name-also-old-forget |  
+| bip_39_word_dash_11 | produce-ghost-tornado-punch-provide-venture-name-also-old-forget-skill |  
+| bip_39_word_dash_12 | produce-ghost-tornado-punch-provide-venture-name-also-old-forget-skill-air |  
+| bip_39_word_dash_2 | produce-ghost |  
+| bip_39_word_dash_3 | produce-ghost-tornado |  
+| bip_39_word_dash_4 | produce-ghost-tornado-punch |  
+| bip_39_word_dash_5 | produce-ghost-tornado-punch-provide |  
+| bip_39_word_dash_6 | produce-ghost-tornado-punch-provide-venture |  
+| bip_39_word_dash_7 | produce-ghost-tornado-punch-provide-venture-name |  
+| bip_39_word_dash_8 | produce-ghost-tornado-punch-provide-venture-name-also |  
+| bip_39_word_dash_9 | produce-ghost-tornado-punch-provide-venture-name-also-old |  
 | bip_39_word_new_br_1 | produce |  
 | bip_39_word_new_br_10 | produce<br>ghost<br>tornado<br>punch<br>provide<br>venture<br>name<br>also<br>old<br>forget |  
 | bip_39_word_new_br_11 | produce<br>ghost<br>tornado<br>punch<br>provide<br>venture<br>name<br>also<br>old<br>forget<br>skill |  
@@ -147,6 +159,18 @@ old |
 | bip_39_word_space_7 | produce ghost tornado punch provide venture name |  
 | bip_39_word_space_8 | produce ghost tornado punch provide venture name also |  
 | bip_39_word_space_9 | produce ghost tornado punch provide venture name also old |  
+| bip_39_word_underscore_1 | produce |  
+| bip_39_word_underscore_10 | produce_ghost_tornado_punch_provide_venture_name_also_old_forget |  
+| bip_39_word_underscore_11 | produce_ghost_tornado_punch_provide_venture_name_also_old_forget_skill |  
+| bip_39_word_underscore_12 | produce_ghost_tornado_punch_provide_venture_name_also_old_forget_skill_air |  
+| bip_39_word_underscore_2 | produce_ghost |  
+| bip_39_word_underscore_3 | produce_ghost_tornado |  
+| bip_39_word_underscore_4 | produce_ghost_tornado_punch |  
+| bip_39_word_underscore_5 | produce_ghost_tornado_punch_provide |  
+| bip_39_word_underscore_6 | produce_ghost_tornado_punch_provide_venture |  
+| bip_39_word_underscore_7 | produce_ghost_tornado_punch_provide_venture_name |  
+| bip_39_word_underscore_8 | produce_ghost_tornado_punch_provide_venture_name_also |  
+| bip_39_word_underscore_9 | produce_ghost_tornado_punch_provide_venture_name_also_old |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

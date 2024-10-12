@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | try |  
+| bip_39_word_dash_10 | try-almost-distance-sample-sauce-clay-civil-unhappy-check-account |  
+| bip_39_word_dash_11 | try-almost-distance-sample-sauce-clay-civil-unhappy-check-account-property |  
+| bip_39_word_dash_12 | try-almost-distance-sample-sauce-clay-civil-unhappy-check-account-property-arm |  
+| bip_39_word_dash_2 | try-almost |  
+| bip_39_word_dash_3 | try-almost-distance |  
+| bip_39_word_dash_4 | try-almost-distance-sample |  
+| bip_39_word_dash_5 | try-almost-distance-sample-sauce |  
+| bip_39_word_dash_6 | try-almost-distance-sample-sauce-clay |  
+| bip_39_word_dash_7 | try-almost-distance-sample-sauce-clay-civil |  
+| bip_39_word_dash_8 | try-almost-distance-sample-sauce-clay-civil-unhappy |  
+| bip_39_word_dash_9 | try-almost-distance-sample-sauce-clay-civil-unhappy-check |  
 | bip_39_word_new_br_1 | try |  
 | bip_39_word_new_br_10 | try<br>almost<br>distance<br>sample<br>sauce<br>clay<br>civil<br>unhappy<br>check<br>account |  
 | bip_39_word_new_br_11 | try<br>almost<br>distance<br>sample<br>sauce<br>clay<br>civil<br>unhappy<br>check<br>account<br>property |  
@@ -147,6 +159,18 @@ check |
 | bip_39_word_space_7 | try almost distance sample sauce clay civil |  
 | bip_39_word_space_8 | try almost distance sample sauce clay civil unhappy |  
 | bip_39_word_space_9 | try almost distance sample sauce clay civil unhappy check |  
+| bip_39_word_underscore_1 | try |  
+| bip_39_word_underscore_10 | try_almost_distance_sample_sauce_clay_civil_unhappy_check_account |  
+| bip_39_word_underscore_11 | try_almost_distance_sample_sauce_clay_civil_unhappy_check_account_property |  
+| bip_39_word_underscore_12 | try_almost_distance_sample_sauce_clay_civil_unhappy_check_account_property_arm |  
+| bip_39_word_underscore_2 | try_almost |  
+| bip_39_word_underscore_3 | try_almost_distance |  
+| bip_39_word_underscore_4 | try_almost_distance_sample |  
+| bip_39_word_underscore_5 | try_almost_distance_sample_sauce |  
+| bip_39_word_underscore_6 | try_almost_distance_sample_sauce_clay |  
+| bip_39_word_underscore_7 | try_almost_distance_sample_sauce_clay_civil |  
+| bip_39_word_underscore_8 | try_almost_distance_sample_sauce_clay_civil_unhappy |  
+| bip_39_word_underscore_9 | try_almost_distance_sample_sauce_clay_civil_unhappy_check |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

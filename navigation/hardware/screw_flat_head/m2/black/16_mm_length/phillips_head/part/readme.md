@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | remain |  
+| bip_39_word_dash_10 | remain-behave-tackle-august-worth-genuine-expire-practice-target-always |  
+| bip_39_word_dash_11 | remain-behave-tackle-august-worth-genuine-expire-practice-target-always-expect |  
+| bip_39_word_dash_12 | remain-behave-tackle-august-worth-genuine-expire-practice-target-always-expect-always |  
+| bip_39_word_dash_2 | remain-behave |  
+| bip_39_word_dash_3 | remain-behave-tackle |  
+| bip_39_word_dash_4 | remain-behave-tackle-august |  
+| bip_39_word_dash_5 | remain-behave-tackle-august-worth |  
+| bip_39_word_dash_6 | remain-behave-tackle-august-worth-genuine |  
+| bip_39_word_dash_7 | remain-behave-tackle-august-worth-genuine-expire |  
+| bip_39_word_dash_8 | remain-behave-tackle-august-worth-genuine-expire-practice |  
+| bip_39_word_dash_9 | remain-behave-tackle-august-worth-genuine-expire-practice-target |  
 | bip_39_word_new_br_1 | remain |  
 | bip_39_word_new_br_10 | remain<br>behave<br>tackle<br>august<br>worth<br>genuine<br>expire<br>practice<br>target<br>always |  
 | bip_39_word_new_br_11 | remain<br>behave<br>tackle<br>august<br>worth<br>genuine<br>expire<br>practice<br>target<br>always<br>expect |  
@@ -147,6 +159,18 @@ target |
 | bip_39_word_space_7 | remain behave tackle august worth genuine expire |  
 | bip_39_word_space_8 | remain behave tackle august worth genuine expire practice |  
 | bip_39_word_space_9 | remain behave tackle august worth genuine expire practice target |  
+| bip_39_word_underscore_1 | remain |  
+| bip_39_word_underscore_10 | remain_behave_tackle_august_worth_genuine_expire_practice_target_always |  
+| bip_39_word_underscore_11 | remain_behave_tackle_august_worth_genuine_expire_practice_target_always_expect |  
+| bip_39_word_underscore_12 | remain_behave_tackle_august_worth_genuine_expire_practice_target_always_expect_always |  
+| bip_39_word_underscore_2 | remain_behave |  
+| bip_39_word_underscore_3 | remain_behave_tackle |  
+| bip_39_word_underscore_4 | remain_behave_tackle_august |  
+| bip_39_word_underscore_5 | remain_behave_tackle_august_worth |  
+| bip_39_word_underscore_6 | remain_behave_tackle_august_worth_genuine |  
+| bip_39_word_underscore_7 | remain_behave_tackle_august_worth_genuine_expire |  
+| bip_39_word_underscore_8 | remain_behave_tackle_august_worth_genuine_expire_practice |  
+| bip_39_word_underscore_9 | remain_behave_tackle_august_worth_genuine_expire_practice_target |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

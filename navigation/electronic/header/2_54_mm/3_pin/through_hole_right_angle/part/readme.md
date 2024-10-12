@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hour |  
+| bip_39_word_dash_10 | hour-brass-pool-rebuild-bullet-choose-peasant-kit-moon-forget |  
+| bip_39_word_dash_11 | hour-brass-pool-rebuild-bullet-choose-peasant-kit-moon-forget-cattle |  
+| bip_39_word_dash_12 | hour-brass-pool-rebuild-bullet-choose-peasant-kit-moon-forget-cattle-acquire |  
+| bip_39_word_dash_2 | hour-brass |  
+| bip_39_word_dash_3 | hour-brass-pool |  
+| bip_39_word_dash_4 | hour-brass-pool-rebuild |  
+| bip_39_word_dash_5 | hour-brass-pool-rebuild-bullet |  
+| bip_39_word_dash_6 | hour-brass-pool-rebuild-bullet-choose |  
+| bip_39_word_dash_7 | hour-brass-pool-rebuild-bullet-choose-peasant |  
+| bip_39_word_dash_8 | hour-brass-pool-rebuild-bullet-choose-peasant-kit |  
+| bip_39_word_dash_9 | hour-brass-pool-rebuild-bullet-choose-peasant-kit-moon |  
 | bip_39_word_new_br_1 | hour |  
 | bip_39_word_new_br_10 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget |  
 | bip_39_word_new_br_11 | hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget<br>cattle |  
@@ -147,6 +159,18 @@ moon |
 | bip_39_word_space_7 | hour brass pool rebuild bullet choose peasant |  
 | bip_39_word_space_8 | hour brass pool rebuild bullet choose peasant kit |  
 | bip_39_word_space_9 | hour brass pool rebuild bullet choose peasant kit moon |  
+| bip_39_word_underscore_1 | hour |  
+| bip_39_word_underscore_10 | hour_brass_pool_rebuild_bullet_choose_peasant_kit_moon_forget |  
+| bip_39_word_underscore_11 | hour_brass_pool_rebuild_bullet_choose_peasant_kit_moon_forget_cattle |  
+| bip_39_word_underscore_12 | hour_brass_pool_rebuild_bullet_choose_peasant_kit_moon_forget_cattle_acquire |  
+| bip_39_word_underscore_2 | hour_brass |  
+| bip_39_word_underscore_3 | hour_brass_pool |  
+| bip_39_word_underscore_4 | hour_brass_pool_rebuild |  
+| bip_39_word_underscore_5 | hour_brass_pool_rebuild_bullet |  
+| bip_39_word_underscore_6 | hour_brass_pool_rebuild_bullet_choose |  
+| bip_39_word_underscore_7 | hour_brass_pool_rebuild_bullet_choose_peasant |  
+| bip_39_word_underscore_8 | hour_brass_pool_rebuild_bullet_choose_peasant_kit |  
+| bip_39_word_underscore_9 | hour_brass_pool_rebuild_bullet_choose_peasant_kit_moon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

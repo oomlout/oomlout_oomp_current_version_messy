@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gravity |  
+| bip_39_word_dash_10 | gravity-practice-winter-dolphin-digital-whale-history-insane-measure-salad |  
+| bip_39_word_dash_11 | gravity-practice-winter-dolphin-digital-whale-history-insane-measure-salad-supply |  
+| bip_39_word_dash_12 | gravity-practice-winter-dolphin-digital-whale-history-insane-measure-salad-supply-add |  
+| bip_39_word_dash_2 | gravity-practice |  
+| bip_39_word_dash_3 | gravity-practice-winter |  
+| bip_39_word_dash_4 | gravity-practice-winter-dolphin |  
+| bip_39_word_dash_5 | gravity-practice-winter-dolphin-digital |  
+| bip_39_word_dash_6 | gravity-practice-winter-dolphin-digital-whale |  
+| bip_39_word_dash_7 | gravity-practice-winter-dolphin-digital-whale-history |  
+| bip_39_word_dash_8 | gravity-practice-winter-dolphin-digital-whale-history-insane |  
+| bip_39_word_dash_9 | gravity-practice-winter-dolphin-digital-whale-history-insane-measure |  
 | bip_39_word_new_br_1 | gravity |  
 | bip_39_word_new_br_10 | gravity<br>practice<br>winter<br>dolphin<br>digital<br>whale<br>history<br>insane<br>measure<br>salad |  
 | bip_39_word_new_br_11 | gravity<br>practice<br>winter<br>dolphin<br>digital<br>whale<br>history<br>insane<br>measure<br>salad<br>supply |  
@@ -147,6 +159,18 @@ measure |
 | bip_39_word_space_7 | gravity practice winter dolphin digital whale history |  
 | bip_39_word_space_8 | gravity practice winter dolphin digital whale history insane |  
 | bip_39_word_space_9 | gravity practice winter dolphin digital whale history insane measure |  
+| bip_39_word_underscore_1 | gravity |  
+| bip_39_word_underscore_10 | gravity_practice_winter_dolphin_digital_whale_history_insane_measure_salad |  
+| bip_39_word_underscore_11 | gravity_practice_winter_dolphin_digital_whale_history_insane_measure_salad_supply |  
+| bip_39_word_underscore_12 | gravity_practice_winter_dolphin_digital_whale_history_insane_measure_salad_supply_add |  
+| bip_39_word_underscore_2 | gravity_practice |  
+| bip_39_word_underscore_3 | gravity_practice_winter |  
+| bip_39_word_underscore_4 | gravity_practice_winter_dolphin |  
+| bip_39_word_underscore_5 | gravity_practice_winter_dolphin_digital |  
+| bip_39_word_underscore_6 | gravity_practice_winter_dolphin_digital_whale |  
+| bip_39_word_underscore_7 | gravity_practice_winter_dolphin_digital_whale_history |  
+| bip_39_word_underscore_8 | gravity_practice_winter_dolphin_digital_whale_history_insane |  
+| bip_39_word_underscore_9 | gravity_practice_winter_dolphin_digital_whale_history_insane_measure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

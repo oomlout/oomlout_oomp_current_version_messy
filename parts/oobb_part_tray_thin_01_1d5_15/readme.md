@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crater |  
+| bip_39_word_dash_10 | crater-judge-smoke-nice-convince-identify-tongue-common-cloud-oval |  
+| bip_39_word_dash_11 | crater-judge-smoke-nice-convince-identify-tongue-common-cloud-oval-drastic |  
+| bip_39_word_dash_12 | crater-judge-smoke-nice-convince-identify-tongue-common-cloud-oval-drastic-action |  
+| bip_39_word_dash_2 | crater-judge |  
+| bip_39_word_dash_3 | crater-judge-smoke |  
+| bip_39_word_dash_4 | crater-judge-smoke-nice |  
+| bip_39_word_dash_5 | crater-judge-smoke-nice-convince |  
+| bip_39_word_dash_6 | crater-judge-smoke-nice-convince-identify |  
+| bip_39_word_dash_7 | crater-judge-smoke-nice-convince-identify-tongue |  
+| bip_39_word_dash_8 | crater-judge-smoke-nice-convince-identify-tongue-common |  
+| bip_39_word_dash_9 | crater-judge-smoke-nice-convince-identify-tongue-common-cloud |  
 | bip_39_word_new_br_1 | crater |  
 | bip_39_word_new_br_10 | crater<br>judge<br>smoke<br>nice<br>convince<br>identify<br>tongue<br>common<br>cloud<br>oval |  
 | bip_39_word_new_br_11 | crater<br>judge<br>smoke<br>nice<br>convince<br>identify<br>tongue<br>common<br>cloud<br>oval<br>drastic |  
@@ -147,6 +159,18 @@ cloud |
 | bip_39_word_space_7 | crater judge smoke nice convince identify tongue |  
 | bip_39_word_space_8 | crater judge smoke nice convince identify tongue common |  
 | bip_39_word_space_9 | crater judge smoke nice convince identify tongue common cloud |  
+| bip_39_word_underscore_1 | crater |  
+| bip_39_word_underscore_10 | crater_judge_smoke_nice_convince_identify_tongue_common_cloud_oval |  
+| bip_39_word_underscore_11 | crater_judge_smoke_nice_convince_identify_tongue_common_cloud_oval_drastic |  
+| bip_39_word_underscore_12 | crater_judge_smoke_nice_convince_identify_tongue_common_cloud_oval_drastic_action |  
+| bip_39_word_underscore_2 | crater_judge |  
+| bip_39_word_underscore_3 | crater_judge_smoke |  
+| bip_39_word_underscore_4 | crater_judge_smoke_nice |  
+| bip_39_word_underscore_5 | crater_judge_smoke_nice_convince |  
+| bip_39_word_underscore_6 | crater_judge_smoke_nice_convince_identify |  
+| bip_39_word_underscore_7 | crater_judge_smoke_nice_convince_identify_tongue |  
+| bip_39_word_underscore_8 | crater_judge_smoke_nice_convince_identify_tongue_common |  
+| bip_39_word_underscore_9 | crater_judge_smoke_nice_convince_identify_tongue_common_cloud |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thrive |  
+| bip_39_word_dash_10 | thrive-shine-bar-miracle-snack-clutch-report-master-second-grab |  
+| bip_39_word_dash_11 | thrive-shine-bar-miracle-snack-clutch-report-master-second-grab-slot |  
+| bip_39_word_dash_12 | thrive-shine-bar-miracle-snack-clutch-report-master-second-grab-slot-age |  
+| bip_39_word_dash_2 | thrive-shine |  
+| bip_39_word_dash_3 | thrive-shine-bar |  
+| bip_39_word_dash_4 | thrive-shine-bar-miracle |  
+| bip_39_word_dash_5 | thrive-shine-bar-miracle-snack |  
+| bip_39_word_dash_6 | thrive-shine-bar-miracle-snack-clutch |  
+| bip_39_word_dash_7 | thrive-shine-bar-miracle-snack-clutch-report |  
+| bip_39_word_dash_8 | thrive-shine-bar-miracle-snack-clutch-report-master |  
+| bip_39_word_dash_9 | thrive-shine-bar-miracle-snack-clutch-report-master-second |  
 | bip_39_word_new_br_1 | thrive |  
 | bip_39_word_new_br_10 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab |  
 | bip_39_word_new_br_11 | thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab<br>slot |  
@@ -147,6 +159,18 @@ second |
 | bip_39_word_space_7 | thrive shine bar miracle snack clutch report |  
 | bip_39_word_space_8 | thrive shine bar miracle snack clutch report master |  
 | bip_39_word_space_9 | thrive shine bar miracle snack clutch report master second |  
+| bip_39_word_underscore_1 | thrive |  
+| bip_39_word_underscore_10 | thrive_shine_bar_miracle_snack_clutch_report_master_second_grab |  
+| bip_39_word_underscore_11 | thrive_shine_bar_miracle_snack_clutch_report_master_second_grab_slot |  
+| bip_39_word_underscore_12 | thrive_shine_bar_miracle_snack_clutch_report_master_second_grab_slot_age |  
+| bip_39_word_underscore_2 | thrive_shine |  
+| bip_39_word_underscore_3 | thrive_shine_bar |  
+| bip_39_word_underscore_4 | thrive_shine_bar_miracle |  
+| bip_39_word_underscore_5 | thrive_shine_bar_miracle_snack |  
+| bip_39_word_underscore_6 | thrive_shine_bar_miracle_snack_clutch |  
+| bip_39_word_underscore_7 | thrive_shine_bar_miracle_snack_clutch_report |  
+| bip_39_word_underscore_8 | thrive_shine_bar_miracle_snack_clutch_report_master |  
+| bip_39_word_underscore_9 | thrive_shine_bar_miracle_snack_clutch_report_master_second |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | recall |  
+| bip_39_word_dash_10 | recall-what-dice-setup-sound-liar-inhale-exotic-property-air |  
+| bip_39_word_dash_11 | recall-what-dice-setup-sound-liar-inhale-exotic-property-air-example |  
+| bip_39_word_dash_12 | recall-what-dice-setup-sound-liar-inhale-exotic-property-air-example-argue |  
+| bip_39_word_dash_2 | recall-what |  
+| bip_39_word_dash_3 | recall-what-dice |  
+| bip_39_word_dash_4 | recall-what-dice-setup |  
+| bip_39_word_dash_5 | recall-what-dice-setup-sound |  
+| bip_39_word_dash_6 | recall-what-dice-setup-sound-liar |  
+| bip_39_word_dash_7 | recall-what-dice-setup-sound-liar-inhale |  
+| bip_39_word_dash_8 | recall-what-dice-setup-sound-liar-inhale-exotic |  
+| bip_39_word_dash_9 | recall-what-dice-setup-sound-liar-inhale-exotic-property |  
 | bip_39_word_new_br_1 | recall |  
 | bip_39_word_new_br_10 | recall<br>what<br>dice<br>setup<br>sound<br>liar<br>inhale<br>exotic<br>property<br>air |  
 | bip_39_word_new_br_11 | recall<br>what<br>dice<br>setup<br>sound<br>liar<br>inhale<br>exotic<br>property<br>air<br>example |  
@@ -147,6 +159,18 @@ property |
 | bip_39_word_space_7 | recall what dice setup sound liar inhale |  
 | bip_39_word_space_8 | recall what dice setup sound liar inhale exotic |  
 | bip_39_word_space_9 | recall what dice setup sound liar inhale exotic property |  
+| bip_39_word_underscore_1 | recall |  
+| bip_39_word_underscore_10 | recall_what_dice_setup_sound_liar_inhale_exotic_property_air |  
+| bip_39_word_underscore_11 | recall_what_dice_setup_sound_liar_inhale_exotic_property_air_example |  
+| bip_39_word_underscore_12 | recall_what_dice_setup_sound_liar_inhale_exotic_property_air_example_argue |  
+| bip_39_word_underscore_2 | recall_what |  
+| bip_39_word_underscore_3 | recall_what_dice |  
+| bip_39_word_underscore_4 | recall_what_dice_setup |  
+| bip_39_word_underscore_5 | recall_what_dice_setup_sound |  
+| bip_39_word_underscore_6 | recall_what_dice_setup_sound_liar |  
+| bip_39_word_underscore_7 | recall_what_dice_setup_sound_liar_inhale |  
+| bip_39_word_underscore_8 | recall_what_dice_setup_sound_liar_inhale_exotic |  
+| bip_39_word_underscore_9 | recall_what_dice_setup_sound_liar_inhale_exotic_property |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

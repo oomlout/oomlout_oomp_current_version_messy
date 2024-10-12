@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resemble |  
+| bip_39_word_dash_10 | resemble-fog-rather-cry-clarify-van-orphan-rail-old-hundred |  
+| bip_39_word_dash_11 | resemble-fog-rather-cry-clarify-van-orphan-rail-old-hundred-analyst |  
+| bip_39_word_dash_12 | resemble-fog-rather-cry-clarify-van-orphan-rail-old-hundred-analyst-animal |  
+| bip_39_word_dash_2 | resemble-fog |  
+| bip_39_word_dash_3 | resemble-fog-rather |  
+| bip_39_word_dash_4 | resemble-fog-rather-cry |  
+| bip_39_word_dash_5 | resemble-fog-rather-cry-clarify |  
+| bip_39_word_dash_6 | resemble-fog-rather-cry-clarify-van |  
+| bip_39_word_dash_7 | resemble-fog-rather-cry-clarify-van-orphan |  
+| bip_39_word_dash_8 | resemble-fog-rather-cry-clarify-van-orphan-rail |  
+| bip_39_word_dash_9 | resemble-fog-rather-cry-clarify-van-orphan-rail-old |  
 | bip_39_word_new_br_1 | resemble |  
 | bip_39_word_new_br_10 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred |  
 | bip_39_word_new_br_11 | resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred<br>analyst |  
@@ -147,6 +159,18 @@ old |
 | bip_39_word_space_7 | resemble fog rather cry clarify van orphan |  
 | bip_39_word_space_8 | resemble fog rather cry clarify van orphan rail |  
 | bip_39_word_space_9 | resemble fog rather cry clarify van orphan rail old |  
+| bip_39_word_underscore_1 | resemble |  
+| bip_39_word_underscore_10 | resemble_fog_rather_cry_clarify_van_orphan_rail_old_hundred |  
+| bip_39_word_underscore_11 | resemble_fog_rather_cry_clarify_van_orphan_rail_old_hundred_analyst |  
+| bip_39_word_underscore_12 | resemble_fog_rather_cry_clarify_van_orphan_rail_old_hundred_analyst_animal |  
+| bip_39_word_underscore_2 | resemble_fog |  
+| bip_39_word_underscore_3 | resemble_fog_rather |  
+| bip_39_word_underscore_4 | resemble_fog_rather_cry |  
+| bip_39_word_underscore_5 | resemble_fog_rather_cry_clarify |  
+| bip_39_word_underscore_6 | resemble_fog_rather_cry_clarify_van |  
+| bip_39_word_underscore_7 | resemble_fog_rather_cry_clarify_van_orphan |  
+| bip_39_word_underscore_8 | resemble_fog_rather_cry_clarify_van_orphan_rail |  
+| bip_39_word_underscore_9 | resemble_fog_rather_cry_clarify_van_orphan_rail_old |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

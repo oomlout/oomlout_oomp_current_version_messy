@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | moment |  
+| bip_39_word_dash_10 | moment-saddle-knife-cupboard-barrel-undo-crater-first-talk-exclude |  
+| bip_39_word_dash_11 | moment-saddle-knife-cupboard-barrel-undo-crater-first-talk-exclude-advance |  
+| bip_39_word_dash_12 | moment-saddle-knife-cupboard-barrel-undo-crater-first-talk-exclude-advance-armed |  
+| bip_39_word_dash_2 | moment-saddle |  
+| bip_39_word_dash_3 | moment-saddle-knife |  
+| bip_39_word_dash_4 | moment-saddle-knife-cupboard |  
+| bip_39_word_dash_5 | moment-saddle-knife-cupboard-barrel |  
+| bip_39_word_dash_6 | moment-saddle-knife-cupboard-barrel-undo |  
+| bip_39_word_dash_7 | moment-saddle-knife-cupboard-barrel-undo-crater |  
+| bip_39_word_dash_8 | moment-saddle-knife-cupboard-barrel-undo-crater-first |  
+| bip_39_word_dash_9 | moment-saddle-knife-cupboard-barrel-undo-crater-first-talk |  
 | bip_39_word_new_br_1 | moment |  
 | bip_39_word_new_br_10 | moment<br>saddle<br>knife<br>cupboard<br>barrel<br>undo<br>crater<br>first<br>talk<br>exclude |  
 | bip_39_word_new_br_11 | moment<br>saddle<br>knife<br>cupboard<br>barrel<br>undo<br>crater<br>first<br>talk<br>exclude<br>advance |  
@@ -147,6 +159,18 @@ talk |
 | bip_39_word_space_7 | moment saddle knife cupboard barrel undo crater |  
 | bip_39_word_space_8 | moment saddle knife cupboard barrel undo crater first |  
 | bip_39_word_space_9 | moment saddle knife cupboard barrel undo crater first talk |  
+| bip_39_word_underscore_1 | moment |  
+| bip_39_word_underscore_10 | moment_saddle_knife_cupboard_barrel_undo_crater_first_talk_exclude |  
+| bip_39_word_underscore_11 | moment_saddle_knife_cupboard_barrel_undo_crater_first_talk_exclude_advance |  
+| bip_39_word_underscore_12 | moment_saddle_knife_cupboard_barrel_undo_crater_first_talk_exclude_advance_armed |  
+| bip_39_word_underscore_2 | moment_saddle |  
+| bip_39_word_underscore_3 | moment_saddle_knife |  
+| bip_39_word_underscore_4 | moment_saddle_knife_cupboard |  
+| bip_39_word_underscore_5 | moment_saddle_knife_cupboard_barrel |  
+| bip_39_word_underscore_6 | moment_saddle_knife_cupboard_barrel_undo |  
+| bip_39_word_underscore_7 | moment_saddle_knife_cupboard_barrel_undo_crater |  
+| bip_39_word_underscore_8 | moment_saddle_knife_cupboard_barrel_undo_crater_first |  
+| bip_39_word_underscore_9 | moment_saddle_knife_cupboard_barrel_undo_crater_first_talk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

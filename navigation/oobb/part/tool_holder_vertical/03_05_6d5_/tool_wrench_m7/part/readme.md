@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | item |  
+| bip_39_word_dash_10 | item-menu-dream-visa-amused-rapid-razor-obey-play-meadow |  
+| bip_39_word_dash_11 | item-menu-dream-visa-amused-rapid-razor-obey-play-meadow-equal |  
+| bip_39_word_dash_12 | item-menu-dream-visa-amused-rapid-razor-obey-play-meadow-equal-artist |  
+| bip_39_word_dash_2 | item-menu |  
+| bip_39_word_dash_3 | item-menu-dream |  
+| bip_39_word_dash_4 | item-menu-dream-visa |  
+| bip_39_word_dash_5 | item-menu-dream-visa-amused |  
+| bip_39_word_dash_6 | item-menu-dream-visa-amused-rapid |  
+| bip_39_word_dash_7 | item-menu-dream-visa-amused-rapid-razor |  
+| bip_39_word_dash_8 | item-menu-dream-visa-amused-rapid-razor-obey |  
+| bip_39_word_dash_9 | item-menu-dream-visa-amused-rapid-razor-obey-play |  
 | bip_39_word_new_br_1 | item |  
 | bip_39_word_new_br_10 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey<br>play<br>meadow |  
 | bip_39_word_new_br_11 | item<br>menu<br>dream<br>visa<br>amused<br>rapid<br>razor<br>obey<br>play<br>meadow<br>equal |  
@@ -147,6 +159,18 @@ play |
 | bip_39_word_space_7 | item menu dream visa amused rapid razor |  
 | bip_39_word_space_8 | item menu dream visa amused rapid razor obey |  
 | bip_39_word_space_9 | item menu dream visa amused rapid razor obey play |  
+| bip_39_word_underscore_1 | item |  
+| bip_39_word_underscore_10 | item_menu_dream_visa_amused_rapid_razor_obey_play_meadow |  
+| bip_39_word_underscore_11 | item_menu_dream_visa_amused_rapid_razor_obey_play_meadow_equal |  
+| bip_39_word_underscore_12 | item_menu_dream_visa_amused_rapid_razor_obey_play_meadow_equal_artist |  
+| bip_39_word_underscore_2 | item_menu |  
+| bip_39_word_underscore_3 | item_menu_dream |  
+| bip_39_word_underscore_4 | item_menu_dream_visa |  
+| bip_39_word_underscore_5 | item_menu_dream_visa_amused |  
+| bip_39_word_underscore_6 | item_menu_dream_visa_amused_rapid |  
+| bip_39_word_underscore_7 | item_menu_dream_visa_amused_rapid_razor |  
+| bip_39_word_underscore_8 | item_menu_dream_visa_amused_rapid_razor_obey |  
+| bip_39_word_underscore_9 | item_menu_dream_visa_amused_rapid_razor_obey_play |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

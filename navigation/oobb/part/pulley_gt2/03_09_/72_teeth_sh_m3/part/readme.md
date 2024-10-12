@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mimic |  
+| bip_39_word_dash_10 | mimic-marine-crawl-payment-radar-layer-hub-replace-display-retire |  
+| bip_39_word_dash_11 | mimic-marine-crawl-payment-radar-layer-hub-replace-display-retire-robust |  
+| bip_39_word_dash_12 | mimic-marine-crawl-payment-radar-layer-hub-replace-display-retire-robust-abuse |  
+| bip_39_word_dash_2 | mimic-marine |  
+| bip_39_word_dash_3 | mimic-marine-crawl |  
+| bip_39_word_dash_4 | mimic-marine-crawl-payment |  
+| bip_39_word_dash_5 | mimic-marine-crawl-payment-radar |  
+| bip_39_word_dash_6 | mimic-marine-crawl-payment-radar-layer |  
+| bip_39_word_dash_7 | mimic-marine-crawl-payment-radar-layer-hub |  
+| bip_39_word_dash_8 | mimic-marine-crawl-payment-radar-layer-hub-replace |  
+| bip_39_word_dash_9 | mimic-marine-crawl-payment-radar-layer-hub-replace-display |  
 | bip_39_word_new_br_1 | mimic |  
 | bip_39_word_new_br_10 | mimic<br>marine<br>crawl<br>payment<br>radar<br>layer<br>hub<br>replace<br>display<br>retire |  
 | bip_39_word_new_br_11 | mimic<br>marine<br>crawl<br>payment<br>radar<br>layer<br>hub<br>replace<br>display<br>retire<br>robust |  
@@ -147,6 +159,18 @@ display |
 | bip_39_word_space_7 | mimic marine crawl payment radar layer hub |  
 | bip_39_word_space_8 | mimic marine crawl payment radar layer hub replace |  
 | bip_39_word_space_9 | mimic marine crawl payment radar layer hub replace display |  
+| bip_39_word_underscore_1 | mimic |  
+| bip_39_word_underscore_10 | mimic_marine_crawl_payment_radar_layer_hub_replace_display_retire |  
+| bip_39_word_underscore_11 | mimic_marine_crawl_payment_radar_layer_hub_replace_display_retire_robust |  
+| bip_39_word_underscore_12 | mimic_marine_crawl_payment_radar_layer_hub_replace_display_retire_robust_abuse |  
+| bip_39_word_underscore_2 | mimic_marine |  
+| bip_39_word_underscore_3 | mimic_marine_crawl |  
+| bip_39_word_underscore_4 | mimic_marine_crawl_payment |  
+| bip_39_word_underscore_5 | mimic_marine_crawl_payment_radar |  
+| bip_39_word_underscore_6 | mimic_marine_crawl_payment_radar_layer |  
+| bip_39_word_underscore_7 | mimic_marine_crawl_payment_radar_layer_hub |  
+| bip_39_word_underscore_8 | mimic_marine_crawl_payment_radar_layer_hub_replace |  
+| bip_39_word_underscore_9 | mimic_marine_crawl_payment_radar_layer_hub_replace_display |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

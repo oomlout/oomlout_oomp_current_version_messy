@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nature |  
+| bip_39_word_dash_10 | nature-lumber-outside-innocent-lawsuit-empower-gap-sniff-what-naive |  
+| bip_39_word_dash_11 | nature-lumber-outside-innocent-lawsuit-empower-gap-sniff-what-naive-distance |  
+| bip_39_word_dash_12 | nature-lumber-outside-innocent-lawsuit-empower-gap-sniff-what-naive-distance-argue |  
+| bip_39_word_dash_2 | nature-lumber |  
+| bip_39_word_dash_3 | nature-lumber-outside |  
+| bip_39_word_dash_4 | nature-lumber-outside-innocent |  
+| bip_39_word_dash_5 | nature-lumber-outside-innocent-lawsuit |  
+| bip_39_word_dash_6 | nature-lumber-outside-innocent-lawsuit-empower |  
+| bip_39_word_dash_7 | nature-lumber-outside-innocent-lawsuit-empower-gap |  
+| bip_39_word_dash_8 | nature-lumber-outside-innocent-lawsuit-empower-gap-sniff |  
+| bip_39_word_dash_9 | nature-lumber-outside-innocent-lawsuit-empower-gap-sniff-what |  
 | bip_39_word_new_br_1 | nature |  
 | bip_39_word_new_br_10 | nature<br>lumber<br>outside<br>innocent<br>lawsuit<br>empower<br>gap<br>sniff<br>what<br>naive |  
 | bip_39_word_new_br_11 | nature<br>lumber<br>outside<br>innocent<br>lawsuit<br>empower<br>gap<br>sniff<br>what<br>naive<br>distance |  
@@ -147,6 +159,18 @@ what |
 | bip_39_word_space_7 | nature lumber outside innocent lawsuit empower gap |  
 | bip_39_word_space_8 | nature lumber outside innocent lawsuit empower gap sniff |  
 | bip_39_word_space_9 | nature lumber outside innocent lawsuit empower gap sniff what |  
+| bip_39_word_underscore_1 | nature |  
+| bip_39_word_underscore_10 | nature_lumber_outside_innocent_lawsuit_empower_gap_sniff_what_naive |  
+| bip_39_word_underscore_11 | nature_lumber_outside_innocent_lawsuit_empower_gap_sniff_what_naive_distance |  
+| bip_39_word_underscore_12 | nature_lumber_outside_innocent_lawsuit_empower_gap_sniff_what_naive_distance_argue |  
+| bip_39_word_underscore_2 | nature_lumber |  
+| bip_39_word_underscore_3 | nature_lumber_outside |  
+| bip_39_word_underscore_4 | nature_lumber_outside_innocent |  
+| bip_39_word_underscore_5 | nature_lumber_outside_innocent_lawsuit |  
+| bip_39_word_underscore_6 | nature_lumber_outside_innocent_lawsuit_empower |  
+| bip_39_word_underscore_7 | nature_lumber_outside_innocent_lawsuit_empower_gap |  
+| bip_39_word_underscore_8 | nature_lumber_outside_innocent_lawsuit_empower_gap_sniff |  
+| bip_39_word_underscore_9 | nature_lumber_outside_innocent_lawsuit_empower_gap_sniff_what |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rack |  
+| bip_39_word_dash_10 | rack-float-chief-rigid-crash-dry-robot-tackle-divorce-famous |  
+| bip_39_word_dash_11 | rack-float-chief-rigid-crash-dry-robot-tackle-divorce-famous-sea |  
+| bip_39_word_dash_12 | rack-float-chief-rigid-crash-dry-robot-tackle-divorce-famous-sea-accuse |  
+| bip_39_word_dash_2 | rack-float |  
+| bip_39_word_dash_3 | rack-float-chief |  
+| bip_39_word_dash_4 | rack-float-chief-rigid |  
+| bip_39_word_dash_5 | rack-float-chief-rigid-crash |  
+| bip_39_word_dash_6 | rack-float-chief-rigid-crash-dry |  
+| bip_39_word_dash_7 | rack-float-chief-rigid-crash-dry-robot |  
+| bip_39_word_dash_8 | rack-float-chief-rigid-crash-dry-robot-tackle |  
+| bip_39_word_dash_9 | rack-float-chief-rigid-crash-dry-robot-tackle-divorce |  
 | bip_39_word_new_br_1 | rack |  
 | bip_39_word_new_br_10 | rack<br>float<br>chief<br>rigid<br>crash<br>dry<br>robot<br>tackle<br>divorce<br>famous |  
 | bip_39_word_new_br_11 | rack<br>float<br>chief<br>rigid<br>crash<br>dry<br>robot<br>tackle<br>divorce<br>famous<br>sea |  
@@ -147,6 +159,18 @@ divorce |
 | bip_39_word_space_7 | rack float chief rigid crash dry robot |  
 | bip_39_word_space_8 | rack float chief rigid crash dry robot tackle |  
 | bip_39_word_space_9 | rack float chief rigid crash dry robot tackle divorce |  
+| bip_39_word_underscore_1 | rack |  
+| bip_39_word_underscore_10 | rack_float_chief_rigid_crash_dry_robot_tackle_divorce_famous |  
+| bip_39_word_underscore_11 | rack_float_chief_rigid_crash_dry_robot_tackle_divorce_famous_sea |  
+| bip_39_word_underscore_12 | rack_float_chief_rigid_crash_dry_robot_tackle_divorce_famous_sea_accuse |  
+| bip_39_word_underscore_2 | rack_float |  
+| bip_39_word_underscore_3 | rack_float_chief |  
+| bip_39_word_underscore_4 | rack_float_chief_rigid |  
+| bip_39_word_underscore_5 | rack_float_chief_rigid_crash |  
+| bip_39_word_underscore_6 | rack_float_chief_rigid_crash_dry |  
+| bip_39_word_underscore_7 | rack_float_chief_rigid_crash_dry_robot |  
+| bip_39_word_underscore_8 | rack_float_chief_rigid_crash_dry_robot_tackle |  
+| bip_39_word_underscore_9 | rack_float_chief_rigid_crash_dry_robot_tackle_divorce |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

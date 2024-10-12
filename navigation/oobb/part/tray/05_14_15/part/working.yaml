@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ritual
+bip_39_word_dash_10: ritual-elevator-rent-duty-breeze-mammal-small-actress-west-immune
+bip_39_word_dash_11: ritual-elevator-rent-duty-breeze-mammal-small-actress-west-immune-extend
+bip_39_word_dash_12: ritual-elevator-rent-duty-breeze-mammal-small-actress-west-immune-extend-accident
+bip_39_word_dash_2: ritual-elevator
+bip_39_word_dash_3: ritual-elevator-rent
+bip_39_word_dash_4: ritual-elevator-rent-duty
+bip_39_word_dash_5: ritual-elevator-rent-duty-breeze
+bip_39_word_dash_6: ritual-elevator-rent-duty-breeze-mammal
+bip_39_word_dash_7: ritual-elevator-rent-duty-breeze-mammal-small
+bip_39_word_dash_8: ritual-elevator-rent-duty-breeze-mammal-small-actress
+bip_39_word_dash_9: ritual-elevator-rent-duty-breeze-mammal-small-actress-west
 bip_39_word_new_br_1: ritual
 bip_39_word_new_br_10: ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress<br>west<br>immune
 bip_39_word_new_br_11: ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress<br>west<br>immune<br>extend
@@ -193,6 +205,18 @@ bip_39_word_space_6: ritual elevator rent duty breeze mammal
 bip_39_word_space_7: ritual elevator rent duty breeze mammal small
 bip_39_word_space_8: ritual elevator rent duty breeze mammal small actress
 bip_39_word_space_9: ritual elevator rent duty breeze mammal small actress west
+bip_39_word_underscore_1: ritual
+bip_39_word_underscore_10: ritual_elevator_rent_duty_breeze_mammal_small_actress_west_immune
+bip_39_word_underscore_11: ritual_elevator_rent_duty_breeze_mammal_small_actress_west_immune_extend
+bip_39_word_underscore_12: ritual_elevator_rent_duty_breeze_mammal_small_actress_west_immune_extend_accident
+bip_39_word_underscore_2: ritual_elevator
+bip_39_word_underscore_3: ritual_elevator_rent
+bip_39_word_underscore_4: ritual_elevator_rent_duty
+bip_39_word_underscore_5: ritual_elevator_rent_duty_breeze
+bip_39_word_underscore_6: ritual_elevator_rent_duty_breeze_mammal
+bip_39_word_underscore_7: ritual_elevator_rent_duty_breeze_mammal_small
+bip_39_word_underscore_8: ritual_elevator_rent_duty_breeze_mammal_small_actress
+bip_39_word_underscore_9: ritual_elevator_rent_duty_breeze_mammal_small_actress_west
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

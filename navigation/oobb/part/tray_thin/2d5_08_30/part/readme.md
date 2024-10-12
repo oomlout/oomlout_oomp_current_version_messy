@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | donkey |  
+| bip_39_word_dash_10 | donkey-enemy-whisper-champion-differ-market-wisdom-slim-major-life |  
+| bip_39_word_dash_11 | donkey-enemy-whisper-champion-differ-market-wisdom-slim-major-life-bench |  
+| bip_39_word_dash_12 | donkey-enemy-whisper-champion-differ-market-wisdom-slim-major-life-bench-agent |  
+| bip_39_word_dash_2 | donkey-enemy |  
+| bip_39_word_dash_3 | donkey-enemy-whisper |  
+| bip_39_word_dash_4 | donkey-enemy-whisper-champion |  
+| bip_39_word_dash_5 | donkey-enemy-whisper-champion-differ |  
+| bip_39_word_dash_6 | donkey-enemy-whisper-champion-differ-market |  
+| bip_39_word_dash_7 | donkey-enemy-whisper-champion-differ-market-wisdom |  
+| bip_39_word_dash_8 | donkey-enemy-whisper-champion-differ-market-wisdom-slim |  
+| bip_39_word_dash_9 | donkey-enemy-whisper-champion-differ-market-wisdom-slim-major |  
 | bip_39_word_new_br_1 | donkey |  
 | bip_39_word_new_br_10 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life |  
 | bip_39_word_new_br_11 | donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life<br>bench |  
@@ -147,6 +159,18 @@ major |
 | bip_39_word_space_7 | donkey enemy whisper champion differ market wisdom |  
 | bip_39_word_space_8 | donkey enemy whisper champion differ market wisdom slim |  
 | bip_39_word_space_9 | donkey enemy whisper champion differ market wisdom slim major |  
+| bip_39_word_underscore_1 | donkey |  
+| bip_39_word_underscore_10 | donkey_enemy_whisper_champion_differ_market_wisdom_slim_major_life |  
+| bip_39_word_underscore_11 | donkey_enemy_whisper_champion_differ_market_wisdom_slim_major_life_bench |  
+| bip_39_word_underscore_12 | donkey_enemy_whisper_champion_differ_market_wisdom_slim_major_life_bench_agent |  
+| bip_39_word_underscore_2 | donkey_enemy |  
+| bip_39_word_underscore_3 | donkey_enemy_whisper |  
+| bip_39_word_underscore_4 | donkey_enemy_whisper_champion |  
+| bip_39_word_underscore_5 | donkey_enemy_whisper_champion_differ |  
+| bip_39_word_underscore_6 | donkey_enemy_whisper_champion_differ_market |  
+| bip_39_word_underscore_7 | donkey_enemy_whisper_champion_differ_market_wisdom |  
+| bip_39_word_underscore_8 | donkey_enemy_whisper_champion_differ_market_wisdom_slim |  
+| bip_39_word_underscore_9 | donkey_enemy_whisper_champion_differ_market_wisdom_slim_major |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

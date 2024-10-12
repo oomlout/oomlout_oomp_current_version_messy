@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | doctor |  
+| bip_39_word_dash_10 | doctor-good-later-mimic-upset-soda-kite-swim-expose-peace |  
+| bip_39_word_dash_11 | doctor-good-later-mimic-upset-soda-kite-swim-expose-peace-keen |  
+| bip_39_word_dash_12 | doctor-good-later-mimic-upset-soda-kite-swim-expose-peace-keen-analyst |  
+| bip_39_word_dash_2 | doctor-good |  
+| bip_39_word_dash_3 | doctor-good-later |  
+| bip_39_word_dash_4 | doctor-good-later-mimic |  
+| bip_39_word_dash_5 | doctor-good-later-mimic-upset |  
+| bip_39_word_dash_6 | doctor-good-later-mimic-upset-soda |  
+| bip_39_word_dash_7 | doctor-good-later-mimic-upset-soda-kite |  
+| bip_39_word_dash_8 | doctor-good-later-mimic-upset-soda-kite-swim |  
+| bip_39_word_dash_9 | doctor-good-later-mimic-upset-soda-kite-swim-expose |  
 | bip_39_word_new_br_1 | doctor |  
 | bip_39_word_new_br_10 | doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace |  
 | bip_39_word_new_br_11 | doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace<br>keen |  
@@ -147,6 +159,18 @@ expose |
 | bip_39_word_space_7 | doctor good later mimic upset soda kite |  
 | bip_39_word_space_8 | doctor good later mimic upset soda kite swim |  
 | bip_39_word_space_9 | doctor good later mimic upset soda kite swim expose |  
+| bip_39_word_underscore_1 | doctor |  
+| bip_39_word_underscore_10 | doctor_good_later_mimic_upset_soda_kite_swim_expose_peace |  
+| bip_39_word_underscore_11 | doctor_good_later_mimic_upset_soda_kite_swim_expose_peace_keen |  
+| bip_39_word_underscore_12 | doctor_good_later_mimic_upset_soda_kite_swim_expose_peace_keen_analyst |  
+| bip_39_word_underscore_2 | doctor_good |  
+| bip_39_word_underscore_3 | doctor_good_later |  
+| bip_39_word_underscore_4 | doctor_good_later_mimic |  
+| bip_39_word_underscore_5 | doctor_good_later_mimic_upset |  
+| bip_39_word_underscore_6 | doctor_good_later_mimic_upset_soda |  
+| bip_39_word_underscore_7 | doctor_good_later_mimic_upset_soda_kite |  
+| bip_39_word_underscore_8 | doctor_good_later_mimic_upset_soda_kite_swim |  
+| bip_39_word_underscore_9 | doctor_good_later_mimic_upset_soda_kite_swim_expose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

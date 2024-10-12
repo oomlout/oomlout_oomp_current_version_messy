@@ -1,3 +1,15 @@
+bip_39_word_dash_1: smart
+bip_39_word_dash_10: smart-cost-joke-spike-stem-sustain-wagon-decorate-word-random
+bip_39_word_dash_11: smart-cost-joke-spike-stem-sustain-wagon-decorate-word-random-cause
+bip_39_word_dash_12: smart-cost-joke-spike-stem-sustain-wagon-decorate-word-random-cause-author
+bip_39_word_dash_2: smart-cost
+bip_39_word_dash_3: smart-cost-joke
+bip_39_word_dash_4: smart-cost-joke-spike
+bip_39_word_dash_5: smart-cost-joke-spike-stem
+bip_39_word_dash_6: smart-cost-joke-spike-stem-sustain
+bip_39_word_dash_7: smart-cost-joke-spike-stem-sustain-wagon
+bip_39_word_dash_8: smart-cost-joke-spike-stem-sustain-wagon-decorate
+bip_39_word_dash_9: smart-cost-joke-spike-stem-sustain-wagon-decorate-word
 bip_39_word_new_br_1: smart
 bip_39_word_new_br_10: smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate<br>word<br>random
 bip_39_word_new_br_11: smart<br>cost<br>joke<br>spike<br>stem<br>sustain<br>wagon<br>decorate<br>word<br>random<br>cause
@@ -193,6 +205,18 @@ bip_39_word_space_6: smart cost joke spike stem sustain
 bip_39_word_space_7: smart cost joke spike stem sustain wagon
 bip_39_word_space_8: smart cost joke spike stem sustain wagon decorate
 bip_39_word_space_9: smart cost joke spike stem sustain wagon decorate word
+bip_39_word_underscore_1: smart
+bip_39_word_underscore_10: smart_cost_joke_spike_stem_sustain_wagon_decorate_word_random
+bip_39_word_underscore_11: smart_cost_joke_spike_stem_sustain_wagon_decorate_word_random_cause
+bip_39_word_underscore_12: smart_cost_joke_spike_stem_sustain_wagon_decorate_word_random_cause_author
+bip_39_word_underscore_2: smart_cost
+bip_39_word_underscore_3: smart_cost_joke
+bip_39_word_underscore_4: smart_cost_joke_spike
+bip_39_word_underscore_5: smart_cost_joke_spike_stem
+bip_39_word_underscore_6: smart_cost_joke_spike_stem_sustain
+bip_39_word_underscore_7: smart_cost_joke_spike_stem_sustain_wagon
+bip_39_word_underscore_8: smart_cost_joke_spike_stem_sustain_wagon_decorate
+bip_39_word_underscore_9: smart_cost_joke_spike_stem_sustain_wagon_decorate_word
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

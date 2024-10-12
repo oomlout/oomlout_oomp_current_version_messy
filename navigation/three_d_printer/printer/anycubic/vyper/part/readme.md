@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dish |  
+| bip_39_word_dash_10 | dish-embrace-bachelor-lab-daughter-join-much-slender-pride-little |  
+| bip_39_word_dash_11 | dish-embrace-bachelor-lab-daughter-join-much-slender-pride-little-jazz |  
+| bip_39_word_dash_12 | dish-embrace-bachelor-lab-daughter-join-much-slender-pride-little-jazz-angry |  
+| bip_39_word_dash_2 | dish-embrace |  
+| bip_39_word_dash_3 | dish-embrace-bachelor |  
+| bip_39_word_dash_4 | dish-embrace-bachelor-lab |  
+| bip_39_word_dash_5 | dish-embrace-bachelor-lab-daughter |  
+| bip_39_word_dash_6 | dish-embrace-bachelor-lab-daughter-join |  
+| bip_39_word_dash_7 | dish-embrace-bachelor-lab-daughter-join-much |  
+| bip_39_word_dash_8 | dish-embrace-bachelor-lab-daughter-join-much-slender |  
+| bip_39_word_dash_9 | dish-embrace-bachelor-lab-daughter-join-much-slender-pride |  
 | bip_39_word_new_br_1 | dish |  
 | bip_39_word_new_br_10 | dish<br>embrace<br>bachelor<br>lab<br>daughter<br>join<br>much<br>slender<br>pride<br>little |  
 | bip_39_word_new_br_11 | dish<br>embrace<br>bachelor<br>lab<br>daughter<br>join<br>much<br>slender<br>pride<br>little<br>jazz |  
@@ -147,6 +159,18 @@ pride |
 | bip_39_word_space_7 | dish embrace bachelor lab daughter join much |  
 | bip_39_word_space_8 | dish embrace bachelor lab daughter join much slender |  
 | bip_39_word_space_9 | dish embrace bachelor lab daughter join much slender pride |  
+| bip_39_word_underscore_1 | dish |  
+| bip_39_word_underscore_10 | dish_embrace_bachelor_lab_daughter_join_much_slender_pride_little |  
+| bip_39_word_underscore_11 | dish_embrace_bachelor_lab_daughter_join_much_slender_pride_little_jazz |  
+| bip_39_word_underscore_12 | dish_embrace_bachelor_lab_daughter_join_much_slender_pride_little_jazz_angry |  
+| bip_39_word_underscore_2 | dish_embrace |  
+| bip_39_word_underscore_3 | dish_embrace_bachelor |  
+| bip_39_word_underscore_4 | dish_embrace_bachelor_lab |  
+| bip_39_word_underscore_5 | dish_embrace_bachelor_lab_daughter |  
+| bip_39_word_underscore_6 | dish_embrace_bachelor_lab_daughter_join |  
+| bip_39_word_underscore_7 | dish_embrace_bachelor_lab_daughter_join_much |  
+| bip_39_word_underscore_8 | dish_embrace_bachelor_lab_daughter_join_much_slender |  
+| bip_39_word_underscore_9 | dish_embrace_bachelor_lab_daughter_join_much_slender_pride |  
 | classification | three_d_printer |  
 | classification_capital | Three D Printer |  
 | classification_first_letter | t |  

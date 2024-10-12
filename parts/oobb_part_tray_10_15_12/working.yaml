@@ -1,3 +1,15 @@
+bip_39_word_dash_1: steel
+bip_39_word_dash_10: steel-name-zone-rude-raw-ghost-horn-toddler-error-occur
+bip_39_word_dash_11: steel-name-zone-rude-raw-ghost-horn-toddler-error-occur-depth
+bip_39_word_dash_12: steel-name-zone-rude-raw-ghost-horn-toddler-error-occur-depth-arm
+bip_39_word_dash_2: steel-name
+bip_39_word_dash_3: steel-name-zone
+bip_39_word_dash_4: steel-name-zone-rude
+bip_39_word_dash_5: steel-name-zone-rude-raw
+bip_39_word_dash_6: steel-name-zone-rude-raw-ghost
+bip_39_word_dash_7: steel-name-zone-rude-raw-ghost-horn
+bip_39_word_dash_8: steel-name-zone-rude-raw-ghost-horn-toddler
+bip_39_word_dash_9: steel-name-zone-rude-raw-ghost-horn-toddler-error
 bip_39_word_new_br_1: steel
 bip_39_word_new_br_10: steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur
 bip_39_word_new_br_11: steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur<br>depth
@@ -192,6 +204,18 @@ bip_39_word_space_6: steel name zone rude raw ghost
 bip_39_word_space_7: steel name zone rude raw ghost horn
 bip_39_word_space_8: steel name zone rude raw ghost horn toddler
 bip_39_word_space_9: steel name zone rude raw ghost horn toddler error
+bip_39_word_underscore_1: steel
+bip_39_word_underscore_10: steel_name_zone_rude_raw_ghost_horn_toddler_error_occur
+bip_39_word_underscore_11: steel_name_zone_rude_raw_ghost_horn_toddler_error_occur_depth
+bip_39_word_underscore_12: steel_name_zone_rude_raw_ghost_horn_toddler_error_occur_depth_arm
+bip_39_word_underscore_2: steel_name
+bip_39_word_underscore_3: steel_name_zone
+bip_39_word_underscore_4: steel_name_zone_rude
+bip_39_word_underscore_5: steel_name_zone_rude_raw
+bip_39_word_underscore_6: steel_name_zone_rude_raw_ghost
+bip_39_word_underscore_7: steel_name_zone_rude_raw_ghost_horn
+bip_39_word_underscore_8: steel_name_zone_rude_raw_ghost_horn_toddler
+bip_39_word_underscore_9: steel_name_zone_rude_raw_ghost_horn_toddler_error
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

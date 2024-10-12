@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sort |  
+| bip_39_word_dash_10 | sort-glide-hub-produce-wheat-giraffe-victory-room-approve-key |  
+| bip_39_word_dash_11 | sort-glide-hub-produce-wheat-giraffe-victory-room-approve-key-awake |  
+| bip_39_word_dash_12 | sort-glide-hub-produce-wheat-giraffe-victory-room-approve-key-awake-attend |  
+| bip_39_word_dash_2 | sort-glide |  
+| bip_39_word_dash_3 | sort-glide-hub |  
+| bip_39_word_dash_4 | sort-glide-hub-produce |  
+| bip_39_word_dash_5 | sort-glide-hub-produce-wheat |  
+| bip_39_word_dash_6 | sort-glide-hub-produce-wheat-giraffe |  
+| bip_39_word_dash_7 | sort-glide-hub-produce-wheat-giraffe-victory |  
+| bip_39_word_dash_8 | sort-glide-hub-produce-wheat-giraffe-victory-room |  
+| bip_39_word_dash_9 | sort-glide-hub-produce-wheat-giraffe-victory-room-approve |  
 | bip_39_word_new_br_1 | sort |  
 | bip_39_word_new_br_10 | sort<br>glide<br>hub<br>produce<br>wheat<br>giraffe<br>victory<br>room<br>approve<br>key |  
 | bip_39_word_new_br_11 | sort<br>glide<br>hub<br>produce<br>wheat<br>giraffe<br>victory<br>room<br>approve<br>key<br>awake |  
@@ -147,6 +159,18 @@ approve |
 | bip_39_word_space_7 | sort glide hub produce wheat giraffe victory |  
 | bip_39_word_space_8 | sort glide hub produce wheat giraffe victory room |  
 | bip_39_word_space_9 | sort glide hub produce wheat giraffe victory room approve |  
+| bip_39_word_underscore_1 | sort |  
+| bip_39_word_underscore_10 | sort_glide_hub_produce_wheat_giraffe_victory_room_approve_key |  
+| bip_39_word_underscore_11 | sort_glide_hub_produce_wheat_giraffe_victory_room_approve_key_awake |  
+| bip_39_word_underscore_12 | sort_glide_hub_produce_wheat_giraffe_victory_room_approve_key_awake_attend |  
+| bip_39_word_underscore_2 | sort_glide |  
+| bip_39_word_underscore_3 | sort_glide_hub |  
+| bip_39_word_underscore_4 | sort_glide_hub_produce |  
+| bip_39_word_underscore_5 | sort_glide_hub_produce_wheat |  
+| bip_39_word_underscore_6 | sort_glide_hub_produce_wheat_giraffe |  
+| bip_39_word_underscore_7 | sort_glide_hub_produce_wheat_giraffe_victory |  
+| bip_39_word_underscore_8 | sort_glide_hub_produce_wheat_giraffe_victory_room |  
+| bip_39_word_underscore_9 | sort_glide_hub_produce_wheat_giraffe_victory_room_approve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

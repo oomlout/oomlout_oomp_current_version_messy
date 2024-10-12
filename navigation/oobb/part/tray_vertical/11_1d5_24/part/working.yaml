@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cruise
+bip_39_word_dash_10: cruise-version-scare-hen-glimpse-absorb-chalk-arrive-someone-foster
+bip_39_word_dash_11: cruise-version-scare-hen-glimpse-absorb-chalk-arrive-someone-foster-rather
+bip_39_word_dash_12: cruise-version-scare-hen-glimpse-absorb-chalk-arrive-someone-foster-rather-animal
+bip_39_word_dash_2: cruise-version
+bip_39_word_dash_3: cruise-version-scare
+bip_39_word_dash_4: cruise-version-scare-hen
+bip_39_word_dash_5: cruise-version-scare-hen-glimpse
+bip_39_word_dash_6: cruise-version-scare-hen-glimpse-absorb
+bip_39_word_dash_7: cruise-version-scare-hen-glimpse-absorb-chalk
+bip_39_word_dash_8: cruise-version-scare-hen-glimpse-absorb-chalk-arrive
+bip_39_word_dash_9: cruise-version-scare-hen-glimpse-absorb-chalk-arrive-someone
 bip_39_word_new_br_1: cruise
 bip_39_word_new_br_10: cruise<br>version<br>scare<br>hen<br>glimpse<br>absorb<br>chalk<br>arrive<br>someone<br>foster
 bip_39_word_new_br_11: cruise<br>version<br>scare<br>hen<br>glimpse<br>absorb<br>chalk<br>arrive<br>someone<br>foster<br>rather
@@ -194,6 +206,18 @@ bip_39_word_space_6: cruise version scare hen glimpse absorb
 bip_39_word_space_7: cruise version scare hen glimpse absorb chalk
 bip_39_word_space_8: cruise version scare hen glimpse absorb chalk arrive
 bip_39_word_space_9: cruise version scare hen glimpse absorb chalk arrive someone
+bip_39_word_underscore_1: cruise
+bip_39_word_underscore_10: cruise_version_scare_hen_glimpse_absorb_chalk_arrive_someone_foster
+bip_39_word_underscore_11: cruise_version_scare_hen_glimpse_absorb_chalk_arrive_someone_foster_rather
+bip_39_word_underscore_12: cruise_version_scare_hen_glimpse_absorb_chalk_arrive_someone_foster_rather_animal
+bip_39_word_underscore_2: cruise_version
+bip_39_word_underscore_3: cruise_version_scare
+bip_39_word_underscore_4: cruise_version_scare_hen
+bip_39_word_underscore_5: cruise_version_scare_hen_glimpse
+bip_39_word_underscore_6: cruise_version_scare_hen_glimpse_absorb
+bip_39_word_underscore_7: cruise_version_scare_hen_glimpse_absorb_chalk
+bip_39_word_underscore_8: cruise_version_scare_hen_glimpse_absorb_chalk_arrive
+bip_39_word_underscore_9: cruise_version_scare_hen_glimpse_absorb_chalk_arrive_someone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: goose
+bip_39_word_dash_10: goose-orient-report-blind-claim-copper-similar-betray-color-pair
+bip_39_word_dash_11: goose-orient-report-blind-claim-copper-similar-betray-color-pair-copy
+bip_39_word_dash_12: goose-orient-report-blind-claim-copper-similar-betray-color-pair-copy-analyst
+bip_39_word_dash_2: goose-orient
+bip_39_word_dash_3: goose-orient-report
+bip_39_word_dash_4: goose-orient-report-blind
+bip_39_word_dash_5: goose-orient-report-blind-claim
+bip_39_word_dash_6: goose-orient-report-blind-claim-copper
+bip_39_word_dash_7: goose-orient-report-blind-claim-copper-similar
+bip_39_word_dash_8: goose-orient-report-blind-claim-copper-similar-betray
+bip_39_word_dash_9: goose-orient-report-blind-claim-copper-similar-betray-color
 bip_39_word_new_br_1: goose
 bip_39_word_new_br_10: goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray<br>color<br>pair
 bip_39_word_new_br_11: goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray<br>color<br>pair<br>copy
@@ -194,6 +206,18 @@ bip_39_word_space_6: goose orient report blind claim copper
 bip_39_word_space_7: goose orient report blind claim copper similar
 bip_39_word_space_8: goose orient report blind claim copper similar betray
 bip_39_word_space_9: goose orient report blind claim copper similar betray color
+bip_39_word_underscore_1: goose
+bip_39_word_underscore_10: goose_orient_report_blind_claim_copper_similar_betray_color_pair
+bip_39_word_underscore_11: goose_orient_report_blind_claim_copper_similar_betray_color_pair_copy
+bip_39_word_underscore_12: goose_orient_report_blind_claim_copper_similar_betray_color_pair_copy_analyst
+bip_39_word_underscore_2: goose_orient
+bip_39_word_underscore_3: goose_orient_report
+bip_39_word_underscore_4: goose_orient_report_blind
+bip_39_word_underscore_5: goose_orient_report_blind_claim
+bip_39_word_underscore_6: goose_orient_report_blind_claim_copper
+bip_39_word_underscore_7: goose_orient_report_blind_claim_copper_similar
+bip_39_word_underscore_8: goose_orient_report_blind_claim_copper_similar_betray
+bip_39_word_underscore_9: goose_orient_report_blind_claim_copper_similar_betray_color
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

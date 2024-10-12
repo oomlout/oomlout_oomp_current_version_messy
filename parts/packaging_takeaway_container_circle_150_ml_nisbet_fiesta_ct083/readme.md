@@ -33,6 +33,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | advance |  
+| bip_39_word_dash_10 | advance-cart-relax-inspire-nut-vocal-swing-aware-help-brave |  
+| bip_39_word_dash_11 | advance-cart-relax-inspire-nut-vocal-swing-aware-help-brave-typical |  
+| bip_39_word_dash_12 | advance-cart-relax-inspire-nut-vocal-swing-aware-help-brave-typical-avocado |  
+| bip_39_word_dash_2 | advance-cart |  
+| bip_39_word_dash_3 | advance-cart-relax |  
+| bip_39_word_dash_4 | advance-cart-relax-inspire |  
+| bip_39_word_dash_5 | advance-cart-relax-inspire-nut |  
+| bip_39_word_dash_6 | advance-cart-relax-inspire-nut-vocal |  
+| bip_39_word_dash_7 | advance-cart-relax-inspire-nut-vocal-swing |  
+| bip_39_word_dash_8 | advance-cart-relax-inspire-nut-vocal-swing-aware |  
+| bip_39_word_dash_9 | advance-cart-relax-inspire-nut-vocal-swing-aware-help |  
 | bip_39_word_new_br_1 | advance |  
 | bip_39_word_new_br_10 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave |  
 | bip_39_word_new_br_11 | advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave<br>typical |  
@@ -148,6 +160,18 @@ help |
 | bip_39_word_space_7 | advance cart relax inspire nut vocal swing |  
 | bip_39_word_space_8 | advance cart relax inspire nut vocal swing aware |  
 | bip_39_word_space_9 | advance cart relax inspire nut vocal swing aware help |  
+| bip_39_word_underscore_1 | advance |  
+| bip_39_word_underscore_10 | advance_cart_relax_inspire_nut_vocal_swing_aware_help_brave |  
+| bip_39_word_underscore_11 | advance_cart_relax_inspire_nut_vocal_swing_aware_help_brave_typical |  
+| bip_39_word_underscore_12 | advance_cart_relax_inspire_nut_vocal_swing_aware_help_brave_typical_avocado |  
+| bip_39_word_underscore_2 | advance_cart |  
+| bip_39_word_underscore_3 | advance_cart_relax |  
+| bip_39_word_underscore_4 | advance_cart_relax_inspire |  
+| bip_39_word_underscore_5 | advance_cart_relax_inspire_nut |  
+| bip_39_word_underscore_6 | advance_cart_relax_inspire_nut_vocal |  
+| bip_39_word_underscore_7 | advance_cart_relax_inspire_nut_vocal_swing |  
+| bip_39_word_underscore_8 | advance_cart_relax_inspire_nut_vocal_swing_aware |  
+| bip_39_word_underscore_9 | advance_cart_relax_inspire_nut_vocal_swing_aware_help |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

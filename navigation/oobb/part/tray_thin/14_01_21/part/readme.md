@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | recall |  
+| bip_39_word_dash_10 | recall-alcohol-kingdom-case-pottery-stereo-kiwi-drink-famous-ball |  
+| bip_39_word_dash_11 | recall-alcohol-kingdom-case-pottery-stereo-kiwi-drink-famous-ball-call |  
+| bip_39_word_dash_12 | recall-alcohol-kingdom-case-pottery-stereo-kiwi-drink-famous-ball-call-alcohol |  
+| bip_39_word_dash_2 | recall-alcohol |  
+| bip_39_word_dash_3 | recall-alcohol-kingdom |  
+| bip_39_word_dash_4 | recall-alcohol-kingdom-case |  
+| bip_39_word_dash_5 | recall-alcohol-kingdom-case-pottery |  
+| bip_39_word_dash_6 | recall-alcohol-kingdom-case-pottery-stereo |  
+| bip_39_word_dash_7 | recall-alcohol-kingdom-case-pottery-stereo-kiwi |  
+| bip_39_word_dash_8 | recall-alcohol-kingdom-case-pottery-stereo-kiwi-drink |  
+| bip_39_word_dash_9 | recall-alcohol-kingdom-case-pottery-stereo-kiwi-drink-famous |  
 | bip_39_word_new_br_1 | recall |  
 | bip_39_word_new_br_10 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink<br>famous<br>ball |  
 | bip_39_word_new_br_11 | recall<br>alcohol<br>kingdom<br>case<br>pottery<br>stereo<br>kiwi<br>drink<br>famous<br>ball<br>call |  
@@ -147,6 +159,18 @@ famous |
 | bip_39_word_space_7 | recall alcohol kingdom case pottery stereo kiwi |  
 | bip_39_word_space_8 | recall alcohol kingdom case pottery stereo kiwi drink |  
 | bip_39_word_space_9 | recall alcohol kingdom case pottery stereo kiwi drink famous |  
+| bip_39_word_underscore_1 | recall |  
+| bip_39_word_underscore_10 | recall_alcohol_kingdom_case_pottery_stereo_kiwi_drink_famous_ball |  
+| bip_39_word_underscore_11 | recall_alcohol_kingdom_case_pottery_stereo_kiwi_drink_famous_ball_call |  
+| bip_39_word_underscore_12 | recall_alcohol_kingdom_case_pottery_stereo_kiwi_drink_famous_ball_call_alcohol |  
+| bip_39_word_underscore_2 | recall_alcohol |  
+| bip_39_word_underscore_3 | recall_alcohol_kingdom |  
+| bip_39_word_underscore_4 | recall_alcohol_kingdom_case |  
+| bip_39_word_underscore_5 | recall_alcohol_kingdom_case_pottery |  
+| bip_39_word_underscore_6 | recall_alcohol_kingdom_case_pottery_stereo |  
+| bip_39_word_underscore_7 | recall_alcohol_kingdom_case_pottery_stereo_kiwi |  
+| bip_39_word_underscore_8 | recall_alcohol_kingdom_case_pottery_stereo_kiwi_drink |  
+| bip_39_word_underscore_9 | recall_alcohol_kingdom_case_pottery_stereo_kiwi_drink_famous |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shove |  
+| bip_39_word_dash_10 | shove-carbon-business-comfort-turkey-tool-cabbage-keep-remember-orchard |  
+| bip_39_word_dash_11 | shove-carbon-business-comfort-turkey-tool-cabbage-keep-remember-orchard-hire |  
+| bip_39_word_dash_12 | shove-carbon-business-comfort-turkey-tool-cabbage-keep-remember-orchard-hire-accuse |  
+| bip_39_word_dash_2 | shove-carbon |  
+| bip_39_word_dash_3 | shove-carbon-business |  
+| bip_39_word_dash_4 | shove-carbon-business-comfort |  
+| bip_39_word_dash_5 | shove-carbon-business-comfort-turkey |  
+| bip_39_word_dash_6 | shove-carbon-business-comfort-turkey-tool |  
+| bip_39_word_dash_7 | shove-carbon-business-comfort-turkey-tool-cabbage |  
+| bip_39_word_dash_8 | shove-carbon-business-comfort-turkey-tool-cabbage-keep |  
+| bip_39_word_dash_9 | shove-carbon-business-comfort-turkey-tool-cabbage-keep-remember |  
 | bip_39_word_new_br_1 | shove |  
 | bip_39_word_new_br_10 | shove<br>carbon<br>business<br>comfort<br>turkey<br>tool<br>cabbage<br>keep<br>remember<br>orchard |  
 | bip_39_word_new_br_11 | shove<br>carbon<br>business<br>comfort<br>turkey<br>tool<br>cabbage<br>keep<br>remember<br>orchard<br>hire |  
@@ -147,6 +159,18 @@ remember |
 | bip_39_word_space_7 | shove carbon business comfort turkey tool cabbage |  
 | bip_39_word_space_8 | shove carbon business comfort turkey tool cabbage keep |  
 | bip_39_word_space_9 | shove carbon business comfort turkey tool cabbage keep remember |  
+| bip_39_word_underscore_1 | shove |  
+| bip_39_word_underscore_10 | shove_carbon_business_comfort_turkey_tool_cabbage_keep_remember_orchard |  
+| bip_39_word_underscore_11 | shove_carbon_business_comfort_turkey_tool_cabbage_keep_remember_orchard_hire |  
+| bip_39_word_underscore_12 | shove_carbon_business_comfort_turkey_tool_cabbage_keep_remember_orchard_hire_accuse |  
+| bip_39_word_underscore_2 | shove_carbon |  
+| bip_39_word_underscore_3 | shove_carbon_business |  
+| bip_39_word_underscore_4 | shove_carbon_business_comfort |  
+| bip_39_word_underscore_5 | shove_carbon_business_comfort_turkey |  
+| bip_39_word_underscore_6 | shove_carbon_business_comfort_turkey_tool |  
+| bip_39_word_underscore_7 | shove_carbon_business_comfort_turkey_tool_cabbage |  
+| bip_39_word_underscore_8 | shove_carbon_business_comfort_turkey_tool_cabbage_keep |  
+| bip_39_word_underscore_9 | shove_carbon_business_comfort_turkey_tool_cabbage_keep_remember |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

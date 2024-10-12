@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burden |  
+| bip_39_word_dash_10 | burden-deputy-faith-require-laptop-scrub-grit-extend-again-oven |  
+| bip_39_word_dash_11 | burden-deputy-faith-require-laptop-scrub-grit-extend-again-oven-live |  
+| bip_39_word_dash_12 | burden-deputy-faith-require-laptop-scrub-grit-extend-again-oven-live-average |  
+| bip_39_word_dash_2 | burden-deputy |  
+| bip_39_word_dash_3 | burden-deputy-faith |  
+| bip_39_word_dash_4 | burden-deputy-faith-require |  
+| bip_39_word_dash_5 | burden-deputy-faith-require-laptop |  
+| bip_39_word_dash_6 | burden-deputy-faith-require-laptop-scrub |  
+| bip_39_word_dash_7 | burden-deputy-faith-require-laptop-scrub-grit |  
+| bip_39_word_dash_8 | burden-deputy-faith-require-laptop-scrub-grit-extend |  
+| bip_39_word_dash_9 | burden-deputy-faith-require-laptop-scrub-grit-extend-again |  
 | bip_39_word_new_br_1 | burden |  
 | bip_39_word_new_br_10 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend<br>again<br>oven |  
 | bip_39_word_new_br_11 | burden<br>deputy<br>faith<br>require<br>laptop<br>scrub<br>grit<br>extend<br>again<br>oven<br>live |  
@@ -147,6 +159,18 @@ again |
 | bip_39_word_space_7 | burden deputy faith require laptop scrub grit |  
 | bip_39_word_space_8 | burden deputy faith require laptop scrub grit extend |  
 | bip_39_word_space_9 | burden deputy faith require laptop scrub grit extend again |  
+| bip_39_word_underscore_1 | burden |  
+| bip_39_word_underscore_10 | burden_deputy_faith_require_laptop_scrub_grit_extend_again_oven |  
+| bip_39_word_underscore_11 | burden_deputy_faith_require_laptop_scrub_grit_extend_again_oven_live |  
+| bip_39_word_underscore_12 | burden_deputy_faith_require_laptop_scrub_grit_extend_again_oven_live_average |  
+| bip_39_word_underscore_2 | burden_deputy |  
+| bip_39_word_underscore_3 | burden_deputy_faith |  
+| bip_39_word_underscore_4 | burden_deputy_faith_require |  
+| bip_39_word_underscore_5 | burden_deputy_faith_require_laptop |  
+| bip_39_word_underscore_6 | burden_deputy_faith_require_laptop_scrub |  
+| bip_39_word_underscore_7 | burden_deputy_faith_require_laptop_scrub_grit |  
+| bip_39_word_underscore_8 | burden_deputy_faith_require_laptop_scrub_grit_extend |  
+| bip_39_word_underscore_9 | burden_deputy_faith_require_laptop_scrub_grit_extend_again |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

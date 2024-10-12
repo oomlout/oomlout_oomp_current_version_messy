@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chalk
+bip_39_word_dash_10: chalk-describe-helmet-taste-huge-indicate-nose-code-advice-inflict
+bip_39_word_dash_11: chalk-describe-helmet-taste-huge-indicate-nose-code-advice-inflict-average
+bip_39_word_dash_12: chalk-describe-helmet-taste-huge-indicate-nose-code-advice-inflict-average-amazing
+bip_39_word_dash_2: chalk-describe
+bip_39_word_dash_3: chalk-describe-helmet
+bip_39_word_dash_4: chalk-describe-helmet-taste
+bip_39_word_dash_5: chalk-describe-helmet-taste-huge
+bip_39_word_dash_6: chalk-describe-helmet-taste-huge-indicate
+bip_39_word_dash_7: chalk-describe-helmet-taste-huge-indicate-nose
+bip_39_word_dash_8: chalk-describe-helmet-taste-huge-indicate-nose-code
+bip_39_word_dash_9: chalk-describe-helmet-taste-huge-indicate-nose-code-advice
 bip_39_word_new_br_1: chalk
 bip_39_word_new_br_10: chalk<br>describe<br>helmet<br>taste<br>huge<br>indicate<br>nose<br>code<br>advice<br>inflict
 bip_39_word_new_br_11: chalk<br>describe<br>helmet<br>taste<br>huge<br>indicate<br>nose<br>code<br>advice<br>inflict<br>average
@@ -193,6 +205,18 @@ bip_39_word_space_6: chalk describe helmet taste huge indicate
 bip_39_word_space_7: chalk describe helmet taste huge indicate nose
 bip_39_word_space_8: chalk describe helmet taste huge indicate nose code
 bip_39_word_space_9: chalk describe helmet taste huge indicate nose code advice
+bip_39_word_underscore_1: chalk
+bip_39_word_underscore_10: chalk_describe_helmet_taste_huge_indicate_nose_code_advice_inflict
+bip_39_word_underscore_11: chalk_describe_helmet_taste_huge_indicate_nose_code_advice_inflict_average
+bip_39_word_underscore_12: chalk_describe_helmet_taste_huge_indicate_nose_code_advice_inflict_average_amazing
+bip_39_word_underscore_2: chalk_describe
+bip_39_word_underscore_3: chalk_describe_helmet
+bip_39_word_underscore_4: chalk_describe_helmet_taste
+bip_39_word_underscore_5: chalk_describe_helmet_taste_huge
+bip_39_word_underscore_6: chalk_describe_helmet_taste_huge_indicate
+bip_39_word_underscore_7: chalk_describe_helmet_taste_huge_indicate_nose
+bip_39_word_underscore_8: chalk_describe_helmet_taste_huge_indicate_nose_code
+bip_39_word_underscore_9: chalk_describe_helmet_taste_huge_indicate_nose_code_advice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | faculty |  
+| bip_39_word_dash_10 | faculty-clerk-sun-cube-orbit-artefact-extra-slam-bunker-curtain |  
+| bip_39_word_dash_11 | faculty-clerk-sun-cube-orbit-artefact-extra-slam-bunker-curtain-citizen |  
+| bip_39_word_dash_12 | faculty-clerk-sun-cube-orbit-artefact-extra-slam-bunker-curtain-citizen-addict |  
+| bip_39_word_dash_2 | faculty-clerk |  
+| bip_39_word_dash_3 | faculty-clerk-sun |  
+| bip_39_word_dash_4 | faculty-clerk-sun-cube |  
+| bip_39_word_dash_5 | faculty-clerk-sun-cube-orbit |  
+| bip_39_word_dash_6 | faculty-clerk-sun-cube-orbit-artefact |  
+| bip_39_word_dash_7 | faculty-clerk-sun-cube-orbit-artefact-extra |  
+| bip_39_word_dash_8 | faculty-clerk-sun-cube-orbit-artefact-extra-slam |  
+| bip_39_word_dash_9 | faculty-clerk-sun-cube-orbit-artefact-extra-slam-bunker |  
 | bip_39_word_new_br_1 | faculty |  
 | bip_39_word_new_br_10 | faculty<br>clerk<br>sun<br>cube<br>orbit<br>artefact<br>extra<br>slam<br>bunker<br>curtain |  
 | bip_39_word_new_br_11 | faculty<br>clerk<br>sun<br>cube<br>orbit<br>artefact<br>extra<br>slam<br>bunker<br>curtain<br>citizen |  
@@ -147,6 +159,18 @@ bunker |
 | bip_39_word_space_7 | faculty clerk sun cube orbit artefact extra |  
 | bip_39_word_space_8 | faculty clerk sun cube orbit artefact extra slam |  
 | bip_39_word_space_9 | faculty clerk sun cube orbit artefact extra slam bunker |  
+| bip_39_word_underscore_1 | faculty |  
+| bip_39_word_underscore_10 | faculty_clerk_sun_cube_orbit_artefact_extra_slam_bunker_curtain |  
+| bip_39_word_underscore_11 | faculty_clerk_sun_cube_orbit_artefact_extra_slam_bunker_curtain_citizen |  
+| bip_39_word_underscore_12 | faculty_clerk_sun_cube_orbit_artefact_extra_slam_bunker_curtain_citizen_addict |  
+| bip_39_word_underscore_2 | faculty_clerk |  
+| bip_39_word_underscore_3 | faculty_clerk_sun |  
+| bip_39_word_underscore_4 | faculty_clerk_sun_cube |  
+| bip_39_word_underscore_5 | faculty_clerk_sun_cube_orbit |  
+| bip_39_word_underscore_6 | faculty_clerk_sun_cube_orbit_artefact |  
+| bip_39_word_underscore_7 | faculty_clerk_sun_cube_orbit_artefact_extra |  
+| bip_39_word_underscore_8 | faculty_clerk_sun_cube_orbit_artefact_extra_slam |  
+| bip_39_word_underscore_9 | faculty_clerk_sun_cube_orbit_artefact_extra_slam_bunker |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

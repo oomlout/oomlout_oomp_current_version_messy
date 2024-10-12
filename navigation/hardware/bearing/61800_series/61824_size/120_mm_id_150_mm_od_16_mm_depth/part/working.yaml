@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cage
+bip_39_word_dash_10: cage-uniform-hospital-message-pulp-win-innocent-blind-lecture-discover
+bip_39_word_dash_11: cage-uniform-hospital-message-pulp-win-innocent-blind-lecture-discover-avocado
+bip_39_word_dash_12: cage-uniform-hospital-message-pulp-win-innocent-blind-lecture-discover-avocado-august
+bip_39_word_dash_2: cage-uniform
+bip_39_word_dash_3: cage-uniform-hospital
+bip_39_word_dash_4: cage-uniform-hospital-message
+bip_39_word_dash_5: cage-uniform-hospital-message-pulp
+bip_39_word_dash_6: cage-uniform-hospital-message-pulp-win
+bip_39_word_dash_7: cage-uniform-hospital-message-pulp-win-innocent
+bip_39_word_dash_8: cage-uniform-hospital-message-pulp-win-innocent-blind
+bip_39_word_dash_9: cage-uniform-hospital-message-pulp-win-innocent-blind-lecture
 bip_39_word_new_br_1: cage
 bip_39_word_new_br_10: cage<br>uniform<br>hospital<br>message<br>pulp<br>win<br>innocent<br>blind<br>lecture<br>discover
 bip_39_word_new_br_11: cage<br>uniform<br>hospital<br>message<br>pulp<br>win<br>innocent<br>blind<br>lecture<br>discover<br>avocado
@@ -194,6 +206,18 @@ bip_39_word_space_6: cage uniform hospital message pulp win
 bip_39_word_space_7: cage uniform hospital message pulp win innocent
 bip_39_word_space_8: cage uniform hospital message pulp win innocent blind
 bip_39_word_space_9: cage uniform hospital message pulp win innocent blind lecture
+bip_39_word_underscore_1: cage
+bip_39_word_underscore_10: cage_uniform_hospital_message_pulp_win_innocent_blind_lecture_discover
+bip_39_word_underscore_11: cage_uniform_hospital_message_pulp_win_innocent_blind_lecture_discover_avocado
+bip_39_word_underscore_12: cage_uniform_hospital_message_pulp_win_innocent_blind_lecture_discover_avocado_august
+bip_39_word_underscore_2: cage_uniform
+bip_39_word_underscore_3: cage_uniform_hospital
+bip_39_word_underscore_4: cage_uniform_hospital_message
+bip_39_word_underscore_5: cage_uniform_hospital_message_pulp
+bip_39_word_underscore_6: cage_uniform_hospital_message_pulp_win
+bip_39_word_underscore_7: cage_uniform_hospital_message_pulp_win_innocent
+bip_39_word_underscore_8: cage_uniform_hospital_message_pulp_win_innocent_blind
+bip_39_word_underscore_9: cage_uniform_hospital_message_pulp_win_innocent_blind_lecture
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

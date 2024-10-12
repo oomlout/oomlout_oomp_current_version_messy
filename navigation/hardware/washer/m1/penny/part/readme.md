@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clever |  
+| bip_39_word_dash_10 | clever-drop-announce-allow-maple-recipe-meat-manual-brick-shallow |  
+| bip_39_word_dash_11 | clever-drop-announce-allow-maple-recipe-meat-manual-brick-shallow-reduce |  
+| bip_39_word_dash_12 | clever-drop-announce-allow-maple-recipe-meat-manual-brick-shallow-reduce-always |  
+| bip_39_word_dash_2 | clever-drop |  
+| bip_39_word_dash_3 | clever-drop-announce |  
+| bip_39_word_dash_4 | clever-drop-announce-allow |  
+| bip_39_word_dash_5 | clever-drop-announce-allow-maple |  
+| bip_39_word_dash_6 | clever-drop-announce-allow-maple-recipe |  
+| bip_39_word_dash_7 | clever-drop-announce-allow-maple-recipe-meat |  
+| bip_39_word_dash_8 | clever-drop-announce-allow-maple-recipe-meat-manual |  
+| bip_39_word_dash_9 | clever-drop-announce-allow-maple-recipe-meat-manual-brick |  
 | bip_39_word_new_br_1 | clever |  
 | bip_39_word_new_br_10 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual<br>brick<br>shallow |  
 | bip_39_word_new_br_11 | clever<br>drop<br>announce<br>allow<br>maple<br>recipe<br>meat<br>manual<br>brick<br>shallow<br>reduce |  
@@ -147,6 +159,18 @@ brick |
 | bip_39_word_space_7 | clever drop announce allow maple recipe meat |  
 | bip_39_word_space_8 | clever drop announce allow maple recipe meat manual |  
 | bip_39_word_space_9 | clever drop announce allow maple recipe meat manual brick |  
+| bip_39_word_underscore_1 | clever |  
+| bip_39_word_underscore_10 | clever_drop_announce_allow_maple_recipe_meat_manual_brick_shallow |  
+| bip_39_word_underscore_11 | clever_drop_announce_allow_maple_recipe_meat_manual_brick_shallow_reduce |  
+| bip_39_word_underscore_12 | clever_drop_announce_allow_maple_recipe_meat_manual_brick_shallow_reduce_always |  
+| bip_39_word_underscore_2 | clever_drop |  
+| bip_39_word_underscore_3 | clever_drop_announce |  
+| bip_39_word_underscore_4 | clever_drop_announce_allow |  
+| bip_39_word_underscore_5 | clever_drop_announce_allow_maple |  
+| bip_39_word_underscore_6 | clever_drop_announce_allow_maple_recipe |  
+| bip_39_word_underscore_7 | clever_drop_announce_allow_maple_recipe_meat |  
+| bip_39_word_underscore_8 | clever_drop_announce_allow_maple_recipe_meat_manual |  
+| bip_39_word_underscore_9 | clever_drop_announce_allow_maple_recipe_meat_manual_brick |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

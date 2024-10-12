@@ -1,3 +1,15 @@
+bip_39_word_dash_1: learn
+bip_39_word_dash_10: learn-struggle-waste-gym-curious-bargain-record-device-romance-round
+bip_39_word_dash_11: learn-struggle-waste-gym-curious-bargain-record-device-romance-round-heart
+bip_39_word_dash_12: learn-struggle-waste-gym-curious-bargain-record-device-romance-round-heart-auto
+bip_39_word_dash_2: learn-struggle
+bip_39_word_dash_3: learn-struggle-waste
+bip_39_word_dash_4: learn-struggle-waste-gym
+bip_39_word_dash_5: learn-struggle-waste-gym-curious
+bip_39_word_dash_6: learn-struggle-waste-gym-curious-bargain
+bip_39_word_dash_7: learn-struggle-waste-gym-curious-bargain-record
+bip_39_word_dash_8: learn-struggle-waste-gym-curious-bargain-record-device
+bip_39_word_dash_9: learn-struggle-waste-gym-curious-bargain-record-device-romance
 bip_39_word_new_br_1: learn
 bip_39_word_new_br_10: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device<br>romance<br>round
 bip_39_word_new_br_11: learn<br>struggle<br>waste<br>gym<br>curious<br>bargain<br>record<br>device<br>romance<br>round<br>heart
@@ -194,6 +206,18 @@ bip_39_word_space_6: learn struggle waste gym curious bargain
 bip_39_word_space_7: learn struggle waste gym curious bargain record
 bip_39_word_space_8: learn struggle waste gym curious bargain record device
 bip_39_word_space_9: learn struggle waste gym curious bargain record device romance
+bip_39_word_underscore_1: learn
+bip_39_word_underscore_10: learn_struggle_waste_gym_curious_bargain_record_device_romance_round
+bip_39_word_underscore_11: learn_struggle_waste_gym_curious_bargain_record_device_romance_round_heart
+bip_39_word_underscore_12: learn_struggle_waste_gym_curious_bargain_record_device_romance_round_heart_auto
+bip_39_word_underscore_2: learn_struggle
+bip_39_word_underscore_3: learn_struggle_waste
+bip_39_word_underscore_4: learn_struggle_waste_gym
+bip_39_word_underscore_5: learn_struggle_waste_gym_curious
+bip_39_word_underscore_6: learn_struggle_waste_gym_curious_bargain
+bip_39_word_underscore_7: learn_struggle_waste_gym_curious_bargain_record
+bip_39_word_underscore_8: learn_struggle_waste_gym_curious_bargain_record_device
+bip_39_word_underscore_9: learn_struggle_waste_gym_curious_bargain_record_device_romance
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

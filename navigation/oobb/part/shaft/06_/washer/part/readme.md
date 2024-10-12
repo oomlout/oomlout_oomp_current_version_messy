@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ability |  
+| bip_39_word_dash_10 | ability-night-atom-paddle-inflict-view-cool-venue-eternal-sand |  
+| bip_39_word_dash_11 | ability-night-atom-paddle-inflict-view-cool-venue-eternal-sand-load |  
+| bip_39_word_dash_12 | ability-night-atom-paddle-inflict-view-cool-venue-eternal-sand-load-apple |  
+| bip_39_word_dash_2 | ability-night |  
+| bip_39_word_dash_3 | ability-night-atom |  
+| bip_39_word_dash_4 | ability-night-atom-paddle |  
+| bip_39_word_dash_5 | ability-night-atom-paddle-inflict |  
+| bip_39_word_dash_6 | ability-night-atom-paddle-inflict-view |  
+| bip_39_word_dash_7 | ability-night-atom-paddle-inflict-view-cool |  
+| bip_39_word_dash_8 | ability-night-atom-paddle-inflict-view-cool-venue |  
+| bip_39_word_dash_9 | ability-night-atom-paddle-inflict-view-cool-venue-eternal |  
 | bip_39_word_new_br_1 | ability |  
 | bip_39_word_new_br_10 | ability<br>night<br>atom<br>paddle<br>inflict<br>view<br>cool<br>venue<br>eternal<br>sand |  
 | bip_39_word_new_br_11 | ability<br>night<br>atom<br>paddle<br>inflict<br>view<br>cool<br>venue<br>eternal<br>sand<br>load |  
@@ -147,6 +159,18 @@ eternal |
 | bip_39_word_space_7 | ability night atom paddle inflict view cool |  
 | bip_39_word_space_8 | ability night atom paddle inflict view cool venue |  
 | bip_39_word_space_9 | ability night atom paddle inflict view cool venue eternal |  
+| bip_39_word_underscore_1 | ability |  
+| bip_39_word_underscore_10 | ability_night_atom_paddle_inflict_view_cool_venue_eternal_sand |  
+| bip_39_word_underscore_11 | ability_night_atom_paddle_inflict_view_cool_venue_eternal_sand_load |  
+| bip_39_word_underscore_12 | ability_night_atom_paddle_inflict_view_cool_venue_eternal_sand_load_apple |  
+| bip_39_word_underscore_2 | ability_night |  
+| bip_39_word_underscore_3 | ability_night_atom |  
+| bip_39_word_underscore_4 | ability_night_atom_paddle |  
+| bip_39_word_underscore_5 | ability_night_atom_paddle_inflict |  
+| bip_39_word_underscore_6 | ability_night_atom_paddle_inflict_view |  
+| bip_39_word_underscore_7 | ability_night_atom_paddle_inflict_view_cool |  
+| bip_39_word_underscore_8 | ability_night_atom_paddle_inflict_view_cool_venue |  
+| bip_39_word_underscore_9 | ability_night_atom_paddle_inflict_view_cool_venue_eternal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | name |  
+| bip_39_word_dash_10 | name-track-science-sponsor-swing-cousin-math-pair-seminar-arrest |  
+| bip_39_word_dash_11 | name-track-science-sponsor-swing-cousin-math-pair-seminar-arrest-ready |  
+| bip_39_word_dash_12 | name-track-science-sponsor-swing-cousin-math-pair-seminar-arrest-ready-ask |  
+| bip_39_word_dash_2 | name-track |  
+| bip_39_word_dash_3 | name-track-science |  
+| bip_39_word_dash_4 | name-track-science-sponsor |  
+| bip_39_word_dash_5 | name-track-science-sponsor-swing |  
+| bip_39_word_dash_6 | name-track-science-sponsor-swing-cousin |  
+| bip_39_word_dash_7 | name-track-science-sponsor-swing-cousin-math |  
+| bip_39_word_dash_8 | name-track-science-sponsor-swing-cousin-math-pair |  
+| bip_39_word_dash_9 | name-track-science-sponsor-swing-cousin-math-pair-seminar |  
 | bip_39_word_new_br_1 | name |  
 | bip_39_word_new_br_10 | name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair<br>seminar<br>arrest |  
 | bip_39_word_new_br_11 | name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair<br>seminar<br>arrest<br>ready |  
@@ -147,6 +159,18 @@ seminar |
 | bip_39_word_space_7 | name track science sponsor swing cousin math |  
 | bip_39_word_space_8 | name track science sponsor swing cousin math pair |  
 | bip_39_word_space_9 | name track science sponsor swing cousin math pair seminar |  
+| bip_39_word_underscore_1 | name |  
+| bip_39_word_underscore_10 | name_track_science_sponsor_swing_cousin_math_pair_seminar_arrest |  
+| bip_39_word_underscore_11 | name_track_science_sponsor_swing_cousin_math_pair_seminar_arrest_ready |  
+| bip_39_word_underscore_12 | name_track_science_sponsor_swing_cousin_math_pair_seminar_arrest_ready_ask |  
+| bip_39_word_underscore_2 | name_track |  
+| bip_39_word_underscore_3 | name_track_science |  
+| bip_39_word_underscore_4 | name_track_science_sponsor |  
+| bip_39_word_underscore_5 | name_track_science_sponsor_swing |  
+| bip_39_word_underscore_6 | name_track_science_sponsor_swing_cousin |  
+| bip_39_word_underscore_7 | name_track_science_sponsor_swing_cousin_math |  
+| bip_39_word_underscore_8 | name_track_science_sponsor_swing_cousin_math_pair |  
+| bip_39_word_underscore_9 | name_track_science_sponsor_swing_cousin_math_pair_seminar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

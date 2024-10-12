@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | acquire |  
+| bip_39_word_dash_10 | acquire-dizzy-suspect-plunge-share-human-salon-raw-iron-major |  
+| bip_39_word_dash_11 | acquire-dizzy-suspect-plunge-share-human-salon-raw-iron-major-scrub |  
+| bip_39_word_dash_12 | acquire-dizzy-suspect-plunge-share-human-salon-raw-iron-major-scrub-arrest |  
+| bip_39_word_dash_2 | acquire-dizzy |  
+| bip_39_word_dash_3 | acquire-dizzy-suspect |  
+| bip_39_word_dash_4 | acquire-dizzy-suspect-plunge |  
+| bip_39_word_dash_5 | acquire-dizzy-suspect-plunge-share |  
+| bip_39_word_dash_6 | acquire-dizzy-suspect-plunge-share-human |  
+| bip_39_word_dash_7 | acquire-dizzy-suspect-plunge-share-human-salon |  
+| bip_39_word_dash_8 | acquire-dizzy-suspect-plunge-share-human-salon-raw |  
+| bip_39_word_dash_9 | acquire-dizzy-suspect-plunge-share-human-salon-raw-iron |  
 | bip_39_word_new_br_1 | acquire |  
 | bip_39_word_new_br_10 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major |  
 | bip_39_word_new_br_11 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major<br>scrub |  
@@ -147,6 +159,18 @@ iron |
 | bip_39_word_space_7 | acquire dizzy suspect plunge share human salon |  
 | bip_39_word_space_8 | acquire dizzy suspect plunge share human salon raw |  
 | bip_39_word_space_9 | acquire dizzy suspect plunge share human salon raw iron |  
+| bip_39_word_underscore_1 | acquire |  
+| bip_39_word_underscore_10 | acquire_dizzy_suspect_plunge_share_human_salon_raw_iron_major |  
+| bip_39_word_underscore_11 | acquire_dizzy_suspect_plunge_share_human_salon_raw_iron_major_scrub |  
+| bip_39_word_underscore_12 | acquire_dizzy_suspect_plunge_share_human_salon_raw_iron_major_scrub_arrest |  
+| bip_39_word_underscore_2 | acquire_dizzy |  
+| bip_39_word_underscore_3 | acquire_dizzy_suspect |  
+| bip_39_word_underscore_4 | acquire_dizzy_suspect_plunge |  
+| bip_39_word_underscore_5 | acquire_dizzy_suspect_plunge_share |  
+| bip_39_word_underscore_6 | acquire_dizzy_suspect_plunge_share_human |  
+| bip_39_word_underscore_7 | acquire_dizzy_suspect_plunge_share_human_salon |  
+| bip_39_word_underscore_8 | acquire_dizzy_suspect_plunge_share_human_salon_raw |  
+| bip_39_word_underscore_9 | acquire_dizzy_suspect_plunge_share_human_salon_raw_iron |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mimic
+bip_39_word_dash_10: mimic-amount-point-confirm-decide-cigar-spy-tobacco-sound-solution
+bip_39_word_dash_11: mimic-amount-point-confirm-decide-cigar-spy-tobacco-sound-solution-donor
+bip_39_word_dash_12: mimic-amount-point-confirm-decide-cigar-spy-tobacco-sound-solution-donor-aim
+bip_39_word_dash_2: mimic-amount
+bip_39_word_dash_3: mimic-amount-point
+bip_39_word_dash_4: mimic-amount-point-confirm
+bip_39_word_dash_5: mimic-amount-point-confirm-decide
+bip_39_word_dash_6: mimic-amount-point-confirm-decide-cigar
+bip_39_word_dash_7: mimic-amount-point-confirm-decide-cigar-spy
+bip_39_word_dash_8: mimic-amount-point-confirm-decide-cigar-spy-tobacco
+bip_39_word_dash_9: mimic-amount-point-confirm-decide-cigar-spy-tobacco-sound
 bip_39_word_new_br_1: mimic
 bip_39_word_new_br_10: mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution
 bip_39_word_new_br_11: mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution<br>donor
@@ -193,6 +205,18 @@ bip_39_word_space_6: mimic amount point confirm decide cigar
 bip_39_word_space_7: mimic amount point confirm decide cigar spy
 bip_39_word_space_8: mimic amount point confirm decide cigar spy tobacco
 bip_39_word_space_9: mimic amount point confirm decide cigar spy tobacco sound
+bip_39_word_underscore_1: mimic
+bip_39_word_underscore_10: mimic_amount_point_confirm_decide_cigar_spy_tobacco_sound_solution
+bip_39_word_underscore_11: mimic_amount_point_confirm_decide_cigar_spy_tobacco_sound_solution_donor
+bip_39_word_underscore_12: mimic_amount_point_confirm_decide_cigar_spy_tobacco_sound_solution_donor_aim
+bip_39_word_underscore_2: mimic_amount
+bip_39_word_underscore_3: mimic_amount_point
+bip_39_word_underscore_4: mimic_amount_point_confirm
+bip_39_word_underscore_5: mimic_amount_point_confirm_decide
+bip_39_word_underscore_6: mimic_amount_point_confirm_decide_cigar
+bip_39_word_underscore_7: mimic_amount_point_confirm_decide_cigar_spy
+bip_39_word_underscore_8: mimic_amount_point_confirm_decide_cigar_spy_tobacco
+bip_39_word_underscore_9: mimic_amount_point_confirm_decide_cigar_spy_tobacco_sound
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

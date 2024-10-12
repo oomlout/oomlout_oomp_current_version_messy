@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lemon |  
+| bip_39_word_dash_10 | lemon-father-piano-floor-stage-become-stove-car-phrase-wrestle |  
+| bip_39_word_dash_11 | lemon-father-piano-floor-stage-become-stove-car-phrase-wrestle-fault |  
+| bip_39_word_dash_12 | lemon-father-piano-floor-stage-become-stove-car-phrase-wrestle-fault-access |  
+| bip_39_word_dash_2 | lemon-father |  
+| bip_39_word_dash_3 | lemon-father-piano |  
+| bip_39_word_dash_4 | lemon-father-piano-floor |  
+| bip_39_word_dash_5 | lemon-father-piano-floor-stage |  
+| bip_39_word_dash_6 | lemon-father-piano-floor-stage-become |  
+| bip_39_word_dash_7 | lemon-father-piano-floor-stage-become-stove |  
+| bip_39_word_dash_8 | lemon-father-piano-floor-stage-become-stove-car |  
+| bip_39_word_dash_9 | lemon-father-piano-floor-stage-become-stove-car-phrase |  
 | bip_39_word_new_br_1 | lemon |  
 | bip_39_word_new_br_10 | lemon<br>father<br>piano<br>floor<br>stage<br>become<br>stove<br>car<br>phrase<br>wrestle |  
 | bip_39_word_new_br_11 | lemon<br>father<br>piano<br>floor<br>stage<br>become<br>stove<br>car<br>phrase<br>wrestle<br>fault |  
@@ -147,6 +159,18 @@ phrase |
 | bip_39_word_space_7 | lemon father piano floor stage become stove |  
 | bip_39_word_space_8 | lemon father piano floor stage become stove car |  
 | bip_39_word_space_9 | lemon father piano floor stage become stove car phrase |  
+| bip_39_word_underscore_1 | lemon |  
+| bip_39_word_underscore_10 | lemon_father_piano_floor_stage_become_stove_car_phrase_wrestle |  
+| bip_39_word_underscore_11 | lemon_father_piano_floor_stage_become_stove_car_phrase_wrestle_fault |  
+| bip_39_word_underscore_12 | lemon_father_piano_floor_stage_become_stove_car_phrase_wrestle_fault_access |  
+| bip_39_word_underscore_2 | lemon_father |  
+| bip_39_word_underscore_3 | lemon_father_piano |  
+| bip_39_word_underscore_4 | lemon_father_piano_floor |  
+| bip_39_word_underscore_5 | lemon_father_piano_floor_stage |  
+| bip_39_word_underscore_6 | lemon_father_piano_floor_stage_become |  
+| bip_39_word_underscore_7 | lemon_father_piano_floor_stage_become_stove |  
+| bip_39_word_underscore_8 | lemon_father_piano_floor_stage_become_stove_car |  
+| bip_39_word_underscore_9 | lemon_father_piano_floor_stage_become_stove_car_phrase |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

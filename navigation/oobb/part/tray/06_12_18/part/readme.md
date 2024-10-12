@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swing |  
+| bip_39_word_dash_10 | swing-drill-love-anger-ladder-nation-cloud-hint-glove-reject |  
+| bip_39_word_dash_11 | swing-drill-love-anger-ladder-nation-cloud-hint-glove-reject-desert |  
+| bip_39_word_dash_12 | swing-drill-love-anger-ladder-nation-cloud-hint-glove-reject-desert-alarm |  
+| bip_39_word_dash_2 | swing-drill |  
+| bip_39_word_dash_3 | swing-drill-love |  
+| bip_39_word_dash_4 | swing-drill-love-anger |  
+| bip_39_word_dash_5 | swing-drill-love-anger-ladder |  
+| bip_39_word_dash_6 | swing-drill-love-anger-ladder-nation |  
+| bip_39_word_dash_7 | swing-drill-love-anger-ladder-nation-cloud |  
+| bip_39_word_dash_8 | swing-drill-love-anger-ladder-nation-cloud-hint |  
+| bip_39_word_dash_9 | swing-drill-love-anger-ladder-nation-cloud-hint-glove |  
 | bip_39_word_new_br_1 | swing |  
 | bip_39_word_new_br_10 | swing<br>drill<br>love<br>anger<br>ladder<br>nation<br>cloud<br>hint<br>glove<br>reject |  
 | bip_39_word_new_br_11 | swing<br>drill<br>love<br>anger<br>ladder<br>nation<br>cloud<br>hint<br>glove<br>reject<br>desert |  
@@ -147,6 +159,18 @@ glove |
 | bip_39_word_space_7 | swing drill love anger ladder nation cloud |  
 | bip_39_word_space_8 | swing drill love anger ladder nation cloud hint |  
 | bip_39_word_space_9 | swing drill love anger ladder nation cloud hint glove |  
+| bip_39_word_underscore_1 | swing |  
+| bip_39_word_underscore_10 | swing_drill_love_anger_ladder_nation_cloud_hint_glove_reject |  
+| bip_39_word_underscore_11 | swing_drill_love_anger_ladder_nation_cloud_hint_glove_reject_desert |  
+| bip_39_word_underscore_12 | swing_drill_love_anger_ladder_nation_cloud_hint_glove_reject_desert_alarm |  
+| bip_39_word_underscore_2 | swing_drill |  
+| bip_39_word_underscore_3 | swing_drill_love |  
+| bip_39_word_underscore_4 | swing_drill_love_anger |  
+| bip_39_word_underscore_5 | swing_drill_love_anger_ladder |  
+| bip_39_word_underscore_6 | swing_drill_love_anger_ladder_nation |  
+| bip_39_word_underscore_7 | swing_drill_love_anger_ladder_nation_cloud |  
+| bip_39_word_underscore_8 | swing_drill_love_anger_ladder_nation_cloud_hint |  
+| bip_39_word_underscore_9 | swing_drill_love_anger_ladder_nation_cloud_hint_glove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

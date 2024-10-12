@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grain |  
+| bip_39_word_dash_10 | grain-frozen-onion-abandon-boil-suggest-siege-grant-desk-blade |  
+| bip_39_word_dash_11 | grain-frozen-onion-abandon-boil-suggest-siege-grant-desk-blade-general |  
+| bip_39_word_dash_12 | grain-frozen-onion-abandon-boil-suggest-siege-grant-desk-blade-general-airport |  
+| bip_39_word_dash_2 | grain-frozen |  
+| bip_39_word_dash_3 | grain-frozen-onion |  
+| bip_39_word_dash_4 | grain-frozen-onion-abandon |  
+| bip_39_word_dash_5 | grain-frozen-onion-abandon-boil |  
+| bip_39_word_dash_6 | grain-frozen-onion-abandon-boil-suggest |  
+| bip_39_word_dash_7 | grain-frozen-onion-abandon-boil-suggest-siege |  
+| bip_39_word_dash_8 | grain-frozen-onion-abandon-boil-suggest-siege-grant |  
+| bip_39_word_dash_9 | grain-frozen-onion-abandon-boil-suggest-siege-grant-desk |  
 | bip_39_word_new_br_1 | grain |  
 | bip_39_word_new_br_10 | grain<br>frozen<br>onion<br>abandon<br>boil<br>suggest<br>siege<br>grant<br>desk<br>blade |  
 | bip_39_word_new_br_11 | grain<br>frozen<br>onion<br>abandon<br>boil<br>suggest<br>siege<br>grant<br>desk<br>blade<br>general |  
@@ -147,6 +159,18 @@ desk |
 | bip_39_word_space_7 | grain frozen onion abandon boil suggest siege |  
 | bip_39_word_space_8 | grain frozen onion abandon boil suggest siege grant |  
 | bip_39_word_space_9 | grain frozen onion abandon boil suggest siege grant desk |  
+| bip_39_word_underscore_1 | grain |  
+| bip_39_word_underscore_10 | grain_frozen_onion_abandon_boil_suggest_siege_grant_desk_blade |  
+| bip_39_word_underscore_11 | grain_frozen_onion_abandon_boil_suggest_siege_grant_desk_blade_general |  
+| bip_39_word_underscore_12 | grain_frozen_onion_abandon_boil_suggest_siege_grant_desk_blade_general_airport |  
+| bip_39_word_underscore_2 | grain_frozen |  
+| bip_39_word_underscore_3 | grain_frozen_onion |  
+| bip_39_word_underscore_4 | grain_frozen_onion_abandon |  
+| bip_39_word_underscore_5 | grain_frozen_onion_abandon_boil |  
+| bip_39_word_underscore_6 | grain_frozen_onion_abandon_boil_suggest |  
+| bip_39_word_underscore_7 | grain_frozen_onion_abandon_boil_suggest_siege |  
+| bip_39_word_underscore_8 | grain_frozen_onion_abandon_boil_suggest_siege_grant |  
+| bip_39_word_underscore_9 | grain_frozen_onion_abandon_boil_suggest_siege_grant_desk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

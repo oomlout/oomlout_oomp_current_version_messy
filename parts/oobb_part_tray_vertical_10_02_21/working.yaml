@@ -1,3 +1,15 @@
+bip_39_word_dash_1: frog
+bip_39_word_dash_10: frog-valley-aerobic-aspect-narrow-sadness-fame-crouch-drip-episode
+bip_39_word_dash_11: frog-valley-aerobic-aspect-narrow-sadness-fame-crouch-drip-episode-talent
+bip_39_word_dash_12: frog-valley-aerobic-aspect-narrow-sadness-fame-crouch-drip-episode-talent-artist
+bip_39_word_dash_2: frog-valley
+bip_39_word_dash_3: frog-valley-aerobic
+bip_39_word_dash_4: frog-valley-aerobic-aspect
+bip_39_word_dash_5: frog-valley-aerobic-aspect-narrow
+bip_39_word_dash_6: frog-valley-aerobic-aspect-narrow-sadness
+bip_39_word_dash_7: frog-valley-aerobic-aspect-narrow-sadness-fame
+bip_39_word_dash_8: frog-valley-aerobic-aspect-narrow-sadness-fame-crouch
+bip_39_word_dash_9: frog-valley-aerobic-aspect-narrow-sadness-fame-crouch-drip
 bip_39_word_new_br_1: frog
 bip_39_word_new_br_10: frog<br>valley<br>aerobic<br>aspect<br>narrow<br>sadness<br>fame<br>crouch<br>drip<br>episode
 bip_39_word_new_br_11: frog<br>valley<br>aerobic<br>aspect<br>narrow<br>sadness<br>fame<br>crouch<br>drip<br>episode<br>talent
@@ -193,6 +205,18 @@ bip_39_word_space_6: frog valley aerobic aspect narrow sadness
 bip_39_word_space_7: frog valley aerobic aspect narrow sadness fame
 bip_39_word_space_8: frog valley aerobic aspect narrow sadness fame crouch
 bip_39_word_space_9: frog valley aerobic aspect narrow sadness fame crouch drip
+bip_39_word_underscore_1: frog
+bip_39_word_underscore_10: frog_valley_aerobic_aspect_narrow_sadness_fame_crouch_drip_episode
+bip_39_word_underscore_11: frog_valley_aerobic_aspect_narrow_sadness_fame_crouch_drip_episode_talent
+bip_39_word_underscore_12: frog_valley_aerobic_aspect_narrow_sadness_fame_crouch_drip_episode_talent_artist
+bip_39_word_underscore_2: frog_valley
+bip_39_word_underscore_3: frog_valley_aerobic
+bip_39_word_underscore_4: frog_valley_aerobic_aspect
+bip_39_word_underscore_5: frog_valley_aerobic_aspect_narrow
+bip_39_word_underscore_6: frog_valley_aerobic_aspect_narrow_sadness
+bip_39_word_underscore_7: frog_valley_aerobic_aspect_narrow_sadness_fame
+bip_39_word_underscore_8: frog_valley_aerobic_aspect_narrow_sadness_fame_crouch
+bip_39_word_underscore_9: frog_valley_aerobic_aspect_narrow_sadness_fame_crouch_drip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

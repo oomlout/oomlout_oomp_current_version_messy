@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rebuild
+bip_39_word_dash_10: rebuild-clerk-easily-frown-tiger-bulb-negative-illness-choose-pig
+bip_39_word_dash_11: rebuild-clerk-easily-frown-tiger-bulb-negative-illness-choose-pig-clock
+bip_39_word_dash_12: rebuild-clerk-easily-frown-tiger-bulb-negative-illness-choose-pig-clock-anchor
+bip_39_word_dash_2: rebuild-clerk
+bip_39_word_dash_3: rebuild-clerk-easily
+bip_39_word_dash_4: rebuild-clerk-easily-frown
+bip_39_word_dash_5: rebuild-clerk-easily-frown-tiger
+bip_39_word_dash_6: rebuild-clerk-easily-frown-tiger-bulb
+bip_39_word_dash_7: rebuild-clerk-easily-frown-tiger-bulb-negative
+bip_39_word_dash_8: rebuild-clerk-easily-frown-tiger-bulb-negative-illness
+bip_39_word_dash_9: rebuild-clerk-easily-frown-tiger-bulb-negative-illness-choose
 bip_39_word_new_br_1: rebuild
 bip_39_word_new_br_10: rebuild<br>clerk<br>easily<br>frown<br>tiger<br>bulb<br>negative<br>illness<br>choose<br>pig
 bip_39_word_new_br_11: rebuild<br>clerk<br>easily<br>frown<br>tiger<br>bulb<br>negative<br>illness<br>choose<br>pig<br>clock
@@ -194,6 +206,18 @@ bip_39_word_space_6: rebuild clerk easily frown tiger bulb
 bip_39_word_space_7: rebuild clerk easily frown tiger bulb negative
 bip_39_word_space_8: rebuild clerk easily frown tiger bulb negative illness
 bip_39_word_space_9: rebuild clerk easily frown tiger bulb negative illness choose
+bip_39_word_underscore_1: rebuild
+bip_39_word_underscore_10: rebuild_clerk_easily_frown_tiger_bulb_negative_illness_choose_pig
+bip_39_word_underscore_11: rebuild_clerk_easily_frown_tiger_bulb_negative_illness_choose_pig_clock
+bip_39_word_underscore_12: rebuild_clerk_easily_frown_tiger_bulb_negative_illness_choose_pig_clock_anchor
+bip_39_word_underscore_2: rebuild_clerk
+bip_39_word_underscore_3: rebuild_clerk_easily
+bip_39_word_underscore_4: rebuild_clerk_easily_frown
+bip_39_word_underscore_5: rebuild_clerk_easily_frown_tiger
+bip_39_word_underscore_6: rebuild_clerk_easily_frown_tiger_bulb
+bip_39_word_underscore_7: rebuild_clerk_easily_frown_tiger_bulb_negative
+bip_39_word_underscore_8: rebuild_clerk_easily_frown_tiger_bulb_negative_illness
+bip_39_word_underscore_9: rebuild_clerk_easily_frown_tiger_bulb_negative_illness_choose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

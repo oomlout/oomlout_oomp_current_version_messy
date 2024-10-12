@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clown
+bip_39_word_dash_10: clown-record-example-unusual-lyrics-letter-can-tower-water-negative
+bip_39_word_dash_11: clown-record-example-unusual-lyrics-letter-can-tower-water-negative-basket
+bip_39_word_dash_12: clown-record-example-unusual-lyrics-letter-can-tower-water-negative-basket-any
+bip_39_word_dash_2: clown-record
+bip_39_word_dash_3: clown-record-example
+bip_39_word_dash_4: clown-record-example-unusual
+bip_39_word_dash_5: clown-record-example-unusual-lyrics
+bip_39_word_dash_6: clown-record-example-unusual-lyrics-letter
+bip_39_word_dash_7: clown-record-example-unusual-lyrics-letter-can
+bip_39_word_dash_8: clown-record-example-unusual-lyrics-letter-can-tower
+bip_39_word_dash_9: clown-record-example-unusual-lyrics-letter-can-tower-water
 bip_39_word_new_br_1: clown
 bip_39_word_new_br_10: clown<br>record<br>example<br>unusual<br>lyrics<br>letter<br>can<br>tower<br>water<br>negative
 bip_39_word_new_br_11: clown<br>record<br>example<br>unusual<br>lyrics<br>letter<br>can<br>tower<br>water<br>negative<br>basket
@@ -193,6 +205,18 @@ bip_39_word_space_6: clown record example unusual lyrics letter
 bip_39_word_space_7: clown record example unusual lyrics letter can
 bip_39_word_space_8: clown record example unusual lyrics letter can tower
 bip_39_word_space_9: clown record example unusual lyrics letter can tower water
+bip_39_word_underscore_1: clown
+bip_39_word_underscore_10: clown_record_example_unusual_lyrics_letter_can_tower_water_negative
+bip_39_word_underscore_11: clown_record_example_unusual_lyrics_letter_can_tower_water_negative_basket
+bip_39_word_underscore_12: clown_record_example_unusual_lyrics_letter_can_tower_water_negative_basket_any
+bip_39_word_underscore_2: clown_record
+bip_39_word_underscore_3: clown_record_example
+bip_39_word_underscore_4: clown_record_example_unusual
+bip_39_word_underscore_5: clown_record_example_unusual_lyrics
+bip_39_word_underscore_6: clown_record_example_unusual_lyrics_letter
+bip_39_word_underscore_7: clown_record_example_unusual_lyrics_letter_can
+bip_39_word_underscore_8: clown_record_example_unusual_lyrics_letter_can_tower
+bip_39_word_underscore_9: clown_record_example_unusual_lyrics_letter_can_tower_water
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

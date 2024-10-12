@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tongue |  
+| bip_39_word_dash_10 | tongue-curve-truck-spot-add-receive-love-aerobic-social-copy |  
+| bip_39_word_dash_11 | tongue-curve-truck-spot-add-receive-love-aerobic-social-copy-insect |  
+| bip_39_word_dash_12 | tongue-curve-truck-spot-add-receive-love-aerobic-social-copy-insect-actress |  
+| bip_39_word_dash_2 | tongue-curve |  
+| bip_39_word_dash_3 | tongue-curve-truck |  
+| bip_39_word_dash_4 | tongue-curve-truck-spot |  
+| bip_39_word_dash_5 | tongue-curve-truck-spot-add |  
+| bip_39_word_dash_6 | tongue-curve-truck-spot-add-receive |  
+| bip_39_word_dash_7 | tongue-curve-truck-spot-add-receive-love |  
+| bip_39_word_dash_8 | tongue-curve-truck-spot-add-receive-love-aerobic |  
+| bip_39_word_dash_9 | tongue-curve-truck-spot-add-receive-love-aerobic-social |  
 | bip_39_word_new_br_1 | tongue |  
 | bip_39_word_new_br_10 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic<br>social<br>copy |  
 | bip_39_word_new_br_11 | tongue<br>curve<br>truck<br>spot<br>add<br>receive<br>love<br>aerobic<br>social<br>copy<br>insect |  
@@ -147,6 +159,18 @@ social |
 | bip_39_word_space_7 | tongue curve truck spot add receive love |  
 | bip_39_word_space_8 | tongue curve truck spot add receive love aerobic |  
 | bip_39_word_space_9 | tongue curve truck spot add receive love aerobic social |  
+| bip_39_word_underscore_1 | tongue |  
+| bip_39_word_underscore_10 | tongue_curve_truck_spot_add_receive_love_aerobic_social_copy |  
+| bip_39_word_underscore_11 | tongue_curve_truck_spot_add_receive_love_aerobic_social_copy_insect |  
+| bip_39_word_underscore_12 | tongue_curve_truck_spot_add_receive_love_aerobic_social_copy_insect_actress |  
+| bip_39_word_underscore_2 | tongue_curve |  
+| bip_39_word_underscore_3 | tongue_curve_truck |  
+| bip_39_word_underscore_4 | tongue_curve_truck_spot |  
+| bip_39_word_underscore_5 | tongue_curve_truck_spot_add |  
+| bip_39_word_underscore_6 | tongue_curve_truck_spot_add_receive |  
+| bip_39_word_underscore_7 | tongue_curve_truck_spot_add_receive_love |  
+| bip_39_word_underscore_8 | tongue_curve_truck_spot_add_receive_love_aerobic |  
+| bip_39_word_underscore_9 | tongue_curve_truck_spot_add_receive_love_aerobic_social |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

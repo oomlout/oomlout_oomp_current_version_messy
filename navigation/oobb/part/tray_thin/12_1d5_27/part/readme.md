@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | beauty |  
+| bip_39_word_dash_10 | beauty-correct-horror-damp-kitchen-fabric-sense-blur-loop-ramp |  
+| bip_39_word_dash_11 | beauty-correct-horror-damp-kitchen-fabric-sense-blur-loop-ramp-copy |  
+| bip_39_word_dash_12 | beauty-correct-horror-damp-kitchen-fabric-sense-blur-loop-ramp-copy-arrive |  
+| bip_39_word_dash_2 | beauty-correct |  
+| bip_39_word_dash_3 | beauty-correct-horror |  
+| bip_39_word_dash_4 | beauty-correct-horror-damp |  
+| bip_39_word_dash_5 | beauty-correct-horror-damp-kitchen |  
+| bip_39_word_dash_6 | beauty-correct-horror-damp-kitchen-fabric |  
+| bip_39_word_dash_7 | beauty-correct-horror-damp-kitchen-fabric-sense |  
+| bip_39_word_dash_8 | beauty-correct-horror-damp-kitchen-fabric-sense-blur |  
+| bip_39_word_dash_9 | beauty-correct-horror-damp-kitchen-fabric-sense-blur-loop |  
 | bip_39_word_new_br_1 | beauty |  
 | bip_39_word_new_br_10 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp |  
 | bip_39_word_new_br_11 | beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp<br>copy |  
@@ -147,6 +159,18 @@ loop |
 | bip_39_word_space_7 | beauty correct horror damp kitchen fabric sense |  
 | bip_39_word_space_8 | beauty correct horror damp kitchen fabric sense blur |  
 | bip_39_word_space_9 | beauty correct horror damp kitchen fabric sense blur loop |  
+| bip_39_word_underscore_1 | beauty |  
+| bip_39_word_underscore_10 | beauty_correct_horror_damp_kitchen_fabric_sense_blur_loop_ramp |  
+| bip_39_word_underscore_11 | beauty_correct_horror_damp_kitchen_fabric_sense_blur_loop_ramp_copy |  
+| bip_39_word_underscore_12 | beauty_correct_horror_damp_kitchen_fabric_sense_blur_loop_ramp_copy_arrive |  
+| bip_39_word_underscore_2 | beauty_correct |  
+| bip_39_word_underscore_3 | beauty_correct_horror |  
+| bip_39_word_underscore_4 | beauty_correct_horror_damp |  
+| bip_39_word_underscore_5 | beauty_correct_horror_damp_kitchen |  
+| bip_39_word_underscore_6 | beauty_correct_horror_damp_kitchen_fabric |  
+| bip_39_word_underscore_7 | beauty_correct_horror_damp_kitchen_fabric_sense |  
+| bip_39_word_underscore_8 | beauty_correct_horror_damp_kitchen_fabric_sense_blur |  
+| bip_39_word_underscore_9 | beauty_correct_horror_damp_kitchen_fabric_sense_blur_loop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

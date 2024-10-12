@@ -1,3 +1,15 @@
+bip_39_word_dash_1: assault
+bip_39_word_dash_10: assault-term-course-project-umbrella-divorce-vintage-phone-cancel-alter
+bip_39_word_dash_11: assault-term-course-project-umbrella-divorce-vintage-phone-cancel-alter-topic
+bip_39_word_dash_12: assault-term-course-project-umbrella-divorce-vintage-phone-cancel-alter-topic-arrange
+bip_39_word_dash_2: assault-term
+bip_39_word_dash_3: assault-term-course
+bip_39_word_dash_4: assault-term-course-project
+bip_39_word_dash_5: assault-term-course-project-umbrella
+bip_39_word_dash_6: assault-term-course-project-umbrella-divorce
+bip_39_word_dash_7: assault-term-course-project-umbrella-divorce-vintage
+bip_39_word_dash_8: assault-term-course-project-umbrella-divorce-vintage-phone
+bip_39_word_dash_9: assault-term-course-project-umbrella-divorce-vintage-phone-cancel
 bip_39_word_new_br_1: assault
 bip_39_word_new_br_10: assault<br>term<br>course<br>project<br>umbrella<br>divorce<br>vintage<br>phone<br>cancel<br>alter
 bip_39_word_new_br_11: assault<br>term<br>course<br>project<br>umbrella<br>divorce<br>vintage<br>phone<br>cancel<br>alter<br>topic
@@ -194,6 +206,18 @@ bip_39_word_space_6: assault term course project umbrella divorce
 bip_39_word_space_7: assault term course project umbrella divorce vintage
 bip_39_word_space_8: assault term course project umbrella divorce vintage phone
 bip_39_word_space_9: assault term course project umbrella divorce vintage phone cancel
+bip_39_word_underscore_1: assault
+bip_39_word_underscore_10: assault_term_course_project_umbrella_divorce_vintage_phone_cancel_alter
+bip_39_word_underscore_11: assault_term_course_project_umbrella_divorce_vintage_phone_cancel_alter_topic
+bip_39_word_underscore_12: assault_term_course_project_umbrella_divorce_vintage_phone_cancel_alter_topic_arrange
+bip_39_word_underscore_2: assault_term
+bip_39_word_underscore_3: assault_term_course
+bip_39_word_underscore_4: assault_term_course_project
+bip_39_word_underscore_5: assault_term_course_project_umbrella
+bip_39_word_underscore_6: assault_term_course_project_umbrella_divorce
+bip_39_word_underscore_7: assault_term_course_project_umbrella_divorce_vintage
+bip_39_word_underscore_8: assault_term_course_project_umbrella_divorce_vintage_phone
+bip_39_word_underscore_9: assault_term_course_project_umbrella_divorce_vintage_phone_cancel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

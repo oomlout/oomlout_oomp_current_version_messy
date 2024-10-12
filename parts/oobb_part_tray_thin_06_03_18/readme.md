@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cute |  
+| bip_39_word_dash_10 | cute-tool-ancient-certain-color-eye-people-soccer-crucial-flower |  
+| bip_39_word_dash_11 | cute-tool-ancient-certain-color-eye-people-soccer-crucial-flower-among |  
+| bip_39_word_dash_12 | cute-tool-ancient-certain-color-eye-people-soccer-crucial-flower-among-act |  
+| bip_39_word_dash_2 | cute-tool |  
+| bip_39_word_dash_3 | cute-tool-ancient |  
+| bip_39_word_dash_4 | cute-tool-ancient-certain |  
+| bip_39_word_dash_5 | cute-tool-ancient-certain-color |  
+| bip_39_word_dash_6 | cute-tool-ancient-certain-color-eye |  
+| bip_39_word_dash_7 | cute-tool-ancient-certain-color-eye-people |  
+| bip_39_word_dash_8 | cute-tool-ancient-certain-color-eye-people-soccer |  
+| bip_39_word_dash_9 | cute-tool-ancient-certain-color-eye-people-soccer-crucial |  
 | bip_39_word_new_br_1 | cute |  
 | bip_39_word_new_br_10 | cute<br>tool<br>ancient<br>certain<br>color<br>eye<br>people<br>soccer<br>crucial<br>flower |  
 | bip_39_word_new_br_11 | cute<br>tool<br>ancient<br>certain<br>color<br>eye<br>people<br>soccer<br>crucial<br>flower<br>among |  
@@ -147,6 +159,18 @@ crucial |
 | bip_39_word_space_7 | cute tool ancient certain color eye people |  
 | bip_39_word_space_8 | cute tool ancient certain color eye people soccer |  
 | bip_39_word_space_9 | cute tool ancient certain color eye people soccer crucial |  
+| bip_39_word_underscore_1 | cute |  
+| bip_39_word_underscore_10 | cute_tool_ancient_certain_color_eye_people_soccer_crucial_flower |  
+| bip_39_word_underscore_11 | cute_tool_ancient_certain_color_eye_people_soccer_crucial_flower_among |  
+| bip_39_word_underscore_12 | cute_tool_ancient_certain_color_eye_people_soccer_crucial_flower_among_act |  
+| bip_39_word_underscore_2 | cute_tool |  
+| bip_39_word_underscore_3 | cute_tool_ancient |  
+| bip_39_word_underscore_4 | cute_tool_ancient_certain |  
+| bip_39_word_underscore_5 | cute_tool_ancient_certain_color |  
+| bip_39_word_underscore_6 | cute_tool_ancient_certain_color_eye |  
+| bip_39_word_underscore_7 | cute_tool_ancient_certain_color_eye_people |  
+| bip_39_word_underscore_8 | cute_tool_ancient_certain_color_eye_people_soccer |  
+| bip_39_word_underscore_9 | cute_tool_ancient_certain_color_eye_people_soccer_crucial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

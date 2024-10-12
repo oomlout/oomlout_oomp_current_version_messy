@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cactus |  
+| bip_39_word_dash_10 | cactus-jazz-alter-aware-vivid-chase-monster-symptom-horse-garden |  
+| bip_39_word_dash_11 | cactus-jazz-alter-aware-vivid-chase-monster-symptom-horse-garden-carry |  
+| bip_39_word_dash_2 | cactus-jazz |  
+| bip_39_word_dash_3 | cactus-jazz-alter |  
+| bip_39_word_dash_4 | cactus-jazz-alter-aware |  
+| bip_39_word_dash_5 | cactus-jazz-alter-aware-vivid |  
+| bip_39_word_dash_6 | cactus-jazz-alter-aware-vivid-chase |  
+| bip_39_word_dash_7 | cactus-jazz-alter-aware-vivid-chase-monster |  
+| bip_39_word_dash_8 | cactus-jazz-alter-aware-vivid-chase-monster-symptom |  
+| bip_39_word_dash_9 | cactus-jazz-alter-aware-vivid-chase-monster-symptom-horse |  
 | bip_39_word_new_br_1 | cactus |  
 | bip_39_word_new_br_10 | cactus<br>jazz<br>alter<br>aware<br>vivid<br>chase<br>monster<br>symptom<br>horse<br>garden |  
 | bip_39_word_new_br_11 | cactus<br>jazz<br>alter<br>aware<br>vivid<br>chase<br>monster<br>symptom<br>horse<br>garden<br>carry |  
@@ -132,6 +143,17 @@ horse |
 | bip_39_word_space_7 | cactus jazz alter aware vivid chase monster |  
 | bip_39_word_space_8 | cactus jazz alter aware vivid chase monster symptom |  
 | bip_39_word_space_9 | cactus jazz alter aware vivid chase monster symptom horse |  
+| bip_39_word_underscore_1 | cactus |  
+| bip_39_word_underscore_10 | cactus_jazz_alter_aware_vivid_chase_monster_symptom_horse_garden |  
+| bip_39_word_underscore_11 | cactus_jazz_alter_aware_vivid_chase_monster_symptom_horse_garden_carry |  
+| bip_39_word_underscore_2 | cactus_jazz |  
+| bip_39_word_underscore_3 | cactus_jazz_alter |  
+| bip_39_word_underscore_4 | cactus_jazz_alter_aware |  
+| bip_39_word_underscore_5 | cactus_jazz_alter_aware_vivid |  
+| bip_39_word_underscore_6 | cactus_jazz_alter_aware_vivid_chase |  
+| bip_39_word_underscore_7 | cactus_jazz_alter_aware_vivid_chase_monster |  
+| bip_39_word_underscore_8 | cactus_jazz_alter_aware_vivid_chase_monster_symptom |  
+| bip_39_word_underscore_9 | cactus_jazz_alter_aware_vivid_chase_monster_symptom_horse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | language |  
+| bip_39_word_dash_10 | language-input-trim-angry-hood-great-hard-hat-since-alone |  
+| bip_39_word_dash_11 | language-input-trim-angry-hood-great-hard-hat-since-alone-world |  
+| bip_39_word_dash_12 | language-input-trim-angry-hood-great-hard-hat-since-alone-world-analyst |  
+| bip_39_word_dash_2 | language-input |  
+| bip_39_word_dash_3 | language-input-trim |  
+| bip_39_word_dash_4 | language-input-trim-angry |  
+| bip_39_word_dash_5 | language-input-trim-angry-hood |  
+| bip_39_word_dash_6 | language-input-trim-angry-hood-great |  
+| bip_39_word_dash_7 | language-input-trim-angry-hood-great-hard |  
+| bip_39_word_dash_8 | language-input-trim-angry-hood-great-hard-hat |  
+| bip_39_word_dash_9 | language-input-trim-angry-hood-great-hard-hat-since |  
 | bip_39_word_new_br_1 | language |  
 | bip_39_word_new_br_10 | language<br>input<br>trim<br>angry<br>hood<br>great<br>hard<br>hat<br>since<br>alone |  
 | bip_39_word_new_br_11 | language<br>input<br>trim<br>angry<br>hood<br>great<br>hard<br>hat<br>since<br>alone<br>world |  
@@ -147,6 +159,18 @@ since |
 | bip_39_word_space_7 | language input trim angry hood great hard |  
 | bip_39_word_space_8 | language input trim angry hood great hard hat |  
 | bip_39_word_space_9 | language input trim angry hood great hard hat since |  
+| bip_39_word_underscore_1 | language |  
+| bip_39_word_underscore_10 | language_input_trim_angry_hood_great_hard_hat_since_alone |  
+| bip_39_word_underscore_11 | language_input_trim_angry_hood_great_hard_hat_since_alone_world |  
+| bip_39_word_underscore_12 | language_input_trim_angry_hood_great_hard_hat_since_alone_world_analyst |  
+| bip_39_word_underscore_2 | language_input |  
+| bip_39_word_underscore_3 | language_input_trim |  
+| bip_39_word_underscore_4 | language_input_trim_angry |  
+| bip_39_word_underscore_5 | language_input_trim_angry_hood |  
+| bip_39_word_underscore_6 | language_input_trim_angry_hood_great |  
+| bip_39_word_underscore_7 | language_input_trim_angry_hood_great_hard |  
+| bip_39_word_underscore_8 | language_input_trim_angry_hood_great_hard_hat |  
+| bip_39_word_underscore_9 | language_input_trim_angry_hood_great_hard_hat_since |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

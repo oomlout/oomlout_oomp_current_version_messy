@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wire |  
+| bip_39_word_dash_10 | wire-bean-action-donate-short-upset-fame-youth-girl-female |  
+| bip_39_word_dash_11 | wire-bean-action-donate-short-upset-fame-youth-girl-female-flame |  
+| bip_39_word_dash_12 | wire-bean-action-donate-short-upset-fame-youth-girl-female-flame-acid |  
+| bip_39_word_dash_2 | wire-bean |  
+| bip_39_word_dash_3 | wire-bean-action |  
+| bip_39_word_dash_4 | wire-bean-action-donate |  
+| bip_39_word_dash_5 | wire-bean-action-donate-short |  
+| bip_39_word_dash_6 | wire-bean-action-donate-short-upset |  
+| bip_39_word_dash_7 | wire-bean-action-donate-short-upset-fame |  
+| bip_39_word_dash_8 | wire-bean-action-donate-short-upset-fame-youth |  
+| bip_39_word_dash_9 | wire-bean-action-donate-short-upset-fame-youth-girl |  
 | bip_39_word_new_br_1 | wire |  
 | bip_39_word_new_br_10 | wire<br>bean<br>action<br>donate<br>short<br>upset<br>fame<br>youth<br>girl<br>female |  
 | bip_39_word_new_br_11 | wire<br>bean<br>action<br>donate<br>short<br>upset<br>fame<br>youth<br>girl<br>female<br>flame |  
@@ -147,6 +159,18 @@ girl |
 | bip_39_word_space_7 | wire bean action donate short upset fame |  
 | bip_39_word_space_8 | wire bean action donate short upset fame youth |  
 | bip_39_word_space_9 | wire bean action donate short upset fame youth girl |  
+| bip_39_word_underscore_1 | wire |  
+| bip_39_word_underscore_10 | wire_bean_action_donate_short_upset_fame_youth_girl_female |  
+| bip_39_word_underscore_11 | wire_bean_action_donate_short_upset_fame_youth_girl_female_flame |  
+| bip_39_word_underscore_12 | wire_bean_action_donate_short_upset_fame_youth_girl_female_flame_acid |  
+| bip_39_word_underscore_2 | wire_bean |  
+| bip_39_word_underscore_3 | wire_bean_action |  
+| bip_39_word_underscore_4 | wire_bean_action_donate |  
+| bip_39_word_underscore_5 | wire_bean_action_donate_short |  
+| bip_39_word_underscore_6 | wire_bean_action_donate_short_upset |  
+| bip_39_word_underscore_7 | wire_bean_action_donate_short_upset_fame |  
+| bip_39_word_underscore_8 | wire_bean_action_donate_short_upset_fame_youth |  
+| bip_39_word_underscore_9 | wire_bean_action_donate_short_upset_fame_youth_girl |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | expect |  
+| bip_39_word_dash_10 | expect-tomato-owner-finger-more-pill-honey-town-loan-visual |  
+| bip_39_word_dash_11 | expect-tomato-owner-finger-more-pill-honey-town-loan-visual-raccoon |  
+| bip_39_word_dash_12 | expect-tomato-owner-finger-more-pill-honey-town-loan-visual-raccoon-allow |  
+| bip_39_word_dash_2 | expect-tomato |  
+| bip_39_word_dash_3 | expect-tomato-owner |  
+| bip_39_word_dash_4 | expect-tomato-owner-finger |  
+| bip_39_word_dash_5 | expect-tomato-owner-finger-more |  
+| bip_39_word_dash_6 | expect-tomato-owner-finger-more-pill |  
+| bip_39_word_dash_7 | expect-tomato-owner-finger-more-pill-honey |  
+| bip_39_word_dash_8 | expect-tomato-owner-finger-more-pill-honey-town |  
+| bip_39_word_dash_9 | expect-tomato-owner-finger-more-pill-honey-town-loan |  
 | bip_39_word_new_br_1 | expect |  
 | bip_39_word_new_br_10 | expect<br>tomato<br>owner<br>finger<br>more<br>pill<br>honey<br>town<br>loan<br>visual |  
 | bip_39_word_new_br_11 | expect<br>tomato<br>owner<br>finger<br>more<br>pill<br>honey<br>town<br>loan<br>visual<br>raccoon |  
@@ -147,6 +159,18 @@ loan |
 | bip_39_word_space_7 | expect tomato owner finger more pill honey |  
 | bip_39_word_space_8 | expect tomato owner finger more pill honey town |  
 | bip_39_word_space_9 | expect tomato owner finger more pill honey town loan |  
+| bip_39_word_underscore_1 | expect |  
+| bip_39_word_underscore_10 | expect_tomato_owner_finger_more_pill_honey_town_loan_visual |  
+| bip_39_word_underscore_11 | expect_tomato_owner_finger_more_pill_honey_town_loan_visual_raccoon |  
+| bip_39_word_underscore_12 | expect_tomato_owner_finger_more_pill_honey_town_loan_visual_raccoon_allow |  
+| bip_39_word_underscore_2 | expect_tomato |  
+| bip_39_word_underscore_3 | expect_tomato_owner |  
+| bip_39_word_underscore_4 | expect_tomato_owner_finger |  
+| bip_39_word_underscore_5 | expect_tomato_owner_finger_more |  
+| bip_39_word_underscore_6 | expect_tomato_owner_finger_more_pill |  
+| bip_39_word_underscore_7 | expect_tomato_owner_finger_more_pill_honey |  
+| bip_39_word_underscore_8 | expect_tomato_owner_finger_more_pill_honey_town |  
+| bip_39_word_underscore_9 | expect_tomato_owner_finger_more_pill_honey_town_loan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

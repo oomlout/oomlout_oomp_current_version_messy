@@ -1,3 +1,15 @@
+bip_39_word_dash_1: search
+bip_39_word_dash_10: search-pretty-pond-ahead-there-ready-bread-rural-minute-cushion
+bip_39_word_dash_11: search-pretty-pond-ahead-there-ready-bread-rural-minute-cushion-candy
+bip_39_word_dash_12: search-pretty-pond-ahead-there-ready-bread-rural-minute-cushion-candy-author
+bip_39_word_dash_2: search-pretty
+bip_39_word_dash_3: search-pretty-pond
+bip_39_word_dash_4: search-pretty-pond-ahead
+bip_39_word_dash_5: search-pretty-pond-ahead-there
+bip_39_word_dash_6: search-pretty-pond-ahead-there-ready
+bip_39_word_dash_7: search-pretty-pond-ahead-there-ready-bread
+bip_39_word_dash_8: search-pretty-pond-ahead-there-ready-bread-rural
+bip_39_word_dash_9: search-pretty-pond-ahead-there-ready-bread-rural-minute
 bip_39_word_new_br_1: search
 bip_39_word_new_br_10: search<br>pretty<br>pond<br>ahead<br>there<br>ready<br>bread<br>rural<br>minute<br>cushion
 bip_39_word_new_br_11: search<br>pretty<br>pond<br>ahead<br>there<br>ready<br>bread<br>rural<br>minute<br>cushion<br>candy
@@ -193,6 +205,18 @@ bip_39_word_space_6: search pretty pond ahead there ready
 bip_39_word_space_7: search pretty pond ahead there ready bread
 bip_39_word_space_8: search pretty pond ahead there ready bread rural
 bip_39_word_space_9: search pretty pond ahead there ready bread rural minute
+bip_39_word_underscore_1: search
+bip_39_word_underscore_10: search_pretty_pond_ahead_there_ready_bread_rural_minute_cushion
+bip_39_word_underscore_11: search_pretty_pond_ahead_there_ready_bread_rural_minute_cushion_candy
+bip_39_word_underscore_12: search_pretty_pond_ahead_there_ready_bread_rural_minute_cushion_candy_author
+bip_39_word_underscore_2: search_pretty
+bip_39_word_underscore_3: search_pretty_pond
+bip_39_word_underscore_4: search_pretty_pond_ahead
+bip_39_word_underscore_5: search_pretty_pond_ahead_there
+bip_39_word_underscore_6: search_pretty_pond_ahead_there_ready
+bip_39_word_underscore_7: search_pretty_pond_ahead_there_ready_bread
+bip_39_word_underscore_8: search_pretty_pond_ahead_there_ready_bread_rural
+bip_39_word_underscore_9: search_pretty_pond_ahead_there_ready_bread_rural_minute
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

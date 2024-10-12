@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | above |  
+| bip_39_word_dash_10 | above-code-alter-horn-swing-steel-toddler-prepare-pizza-blast |  
+| bip_39_word_dash_11 | above-code-alter-horn-swing-steel-toddler-prepare-pizza-blast-essence |  
+| bip_39_word_dash_12 | above-code-alter-horn-swing-steel-toddler-prepare-pizza-blast-essence-always |  
+| bip_39_word_dash_2 | above-code |  
+| bip_39_word_dash_3 | above-code-alter |  
+| bip_39_word_dash_4 | above-code-alter-horn |  
+| bip_39_word_dash_5 | above-code-alter-horn-swing |  
+| bip_39_word_dash_6 | above-code-alter-horn-swing-steel |  
+| bip_39_word_dash_7 | above-code-alter-horn-swing-steel-toddler |  
+| bip_39_word_dash_8 | above-code-alter-horn-swing-steel-toddler-prepare |  
+| bip_39_word_dash_9 | above-code-alter-horn-swing-steel-toddler-prepare-pizza |  
 | bip_39_word_new_br_1 | above |  
 | bip_39_word_new_br_10 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast |  
 | bip_39_word_new_br_11 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast<br>essence |  
@@ -147,6 +159,18 @@ pizza |
 | bip_39_word_space_7 | above code alter horn swing steel toddler |  
 | bip_39_word_space_8 | above code alter horn swing steel toddler prepare |  
 | bip_39_word_space_9 | above code alter horn swing steel toddler prepare pizza |  
+| bip_39_word_underscore_1 | above |  
+| bip_39_word_underscore_10 | above_code_alter_horn_swing_steel_toddler_prepare_pizza_blast |  
+| bip_39_word_underscore_11 | above_code_alter_horn_swing_steel_toddler_prepare_pizza_blast_essence |  
+| bip_39_word_underscore_12 | above_code_alter_horn_swing_steel_toddler_prepare_pizza_blast_essence_always |  
+| bip_39_word_underscore_2 | above_code |  
+| bip_39_word_underscore_3 | above_code_alter |  
+| bip_39_word_underscore_4 | above_code_alter_horn |  
+| bip_39_word_underscore_5 | above_code_alter_horn_swing |  
+| bip_39_word_underscore_6 | above_code_alter_horn_swing_steel |  
+| bip_39_word_underscore_7 | above_code_alter_horn_swing_steel_toddler |  
+| bip_39_word_underscore_8 | above_code_alter_horn_swing_steel_toddler_prepare |  
+| bip_39_word_underscore_9 | above_code_alter_horn_swing_steel_toddler_prepare_pizza |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

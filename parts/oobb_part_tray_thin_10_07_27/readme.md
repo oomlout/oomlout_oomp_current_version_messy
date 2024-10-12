@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boat |  
+| bip_39_word_dash_10 | boat-high-country-glory-predict-pledge-horror-mail-army-moment |  
+| bip_39_word_dash_11 | boat-high-country-glory-predict-pledge-horror-mail-army-moment-game |  
+| bip_39_word_dash_12 | boat-high-country-glory-predict-pledge-horror-mail-army-moment-game-april |  
+| bip_39_word_dash_2 | boat-high |  
+| bip_39_word_dash_3 | boat-high-country |  
+| bip_39_word_dash_4 | boat-high-country-glory |  
+| bip_39_word_dash_5 | boat-high-country-glory-predict |  
+| bip_39_word_dash_6 | boat-high-country-glory-predict-pledge |  
+| bip_39_word_dash_7 | boat-high-country-glory-predict-pledge-horror |  
+| bip_39_word_dash_8 | boat-high-country-glory-predict-pledge-horror-mail |  
+| bip_39_word_dash_9 | boat-high-country-glory-predict-pledge-horror-mail-army |  
 | bip_39_word_new_br_1 | boat |  
 | bip_39_word_new_br_10 | boat<br>high<br>country<br>glory<br>predict<br>pledge<br>horror<br>mail<br>army<br>moment |  
 | bip_39_word_new_br_11 | boat<br>high<br>country<br>glory<br>predict<br>pledge<br>horror<br>mail<br>army<br>moment<br>game |  
@@ -147,6 +159,18 @@ army |
 | bip_39_word_space_7 | boat high country glory predict pledge horror |  
 | bip_39_word_space_8 | boat high country glory predict pledge horror mail |  
 | bip_39_word_space_9 | boat high country glory predict pledge horror mail army |  
+| bip_39_word_underscore_1 | boat |  
+| bip_39_word_underscore_10 | boat_high_country_glory_predict_pledge_horror_mail_army_moment |  
+| bip_39_word_underscore_11 | boat_high_country_glory_predict_pledge_horror_mail_army_moment_game |  
+| bip_39_word_underscore_12 | boat_high_country_glory_predict_pledge_horror_mail_army_moment_game_april |  
+| bip_39_word_underscore_2 | boat_high |  
+| bip_39_word_underscore_3 | boat_high_country |  
+| bip_39_word_underscore_4 | boat_high_country_glory |  
+| bip_39_word_underscore_5 | boat_high_country_glory_predict |  
+| bip_39_word_underscore_6 | boat_high_country_glory_predict_pledge |  
+| bip_39_word_underscore_7 | boat_high_country_glory_predict_pledge_horror |  
+| bip_39_word_underscore_8 | boat_high_country_glory_predict_pledge_horror_mail |  
+| bip_39_word_underscore_9 | boat_high_country_glory_predict_pledge_horror_mail_army |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

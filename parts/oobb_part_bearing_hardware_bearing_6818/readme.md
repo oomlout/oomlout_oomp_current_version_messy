@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | world |  
+| bip_39_word_dash_10 | world-include-require-survey-radar-deal-decrease-cinnamon-brass-scene |  
+| bip_39_word_dash_11 | world-include-require-survey-radar-deal-decrease-cinnamon-brass-scene-stomach |  
+| bip_39_word_dash_12 | world-include-require-survey-radar-deal-decrease-cinnamon-brass-scene-stomach-alley |  
+| bip_39_word_dash_2 | world-include |  
+| bip_39_word_dash_3 | world-include-require |  
+| bip_39_word_dash_4 | world-include-require-survey |  
+| bip_39_word_dash_5 | world-include-require-survey-radar |  
+| bip_39_word_dash_6 | world-include-require-survey-radar-deal |  
+| bip_39_word_dash_7 | world-include-require-survey-radar-deal-decrease |  
+| bip_39_word_dash_8 | world-include-require-survey-radar-deal-decrease-cinnamon |  
+| bip_39_word_dash_9 | world-include-require-survey-radar-deal-decrease-cinnamon-brass |  
 | bip_39_word_new_br_1 | world |  
 | bip_39_word_new_br_10 | world<br>include<br>require<br>survey<br>radar<br>deal<br>decrease<br>cinnamon<br>brass<br>scene |  
 | bip_39_word_new_br_11 | world<br>include<br>require<br>survey<br>radar<br>deal<br>decrease<br>cinnamon<br>brass<br>scene<br>stomach |  
@@ -147,6 +159,18 @@ brass |
 | bip_39_word_space_7 | world include require survey radar deal decrease |  
 | bip_39_word_space_8 | world include require survey radar deal decrease cinnamon |  
 | bip_39_word_space_9 | world include require survey radar deal decrease cinnamon brass |  
+| bip_39_word_underscore_1 | world |  
+| bip_39_word_underscore_10 | world_include_require_survey_radar_deal_decrease_cinnamon_brass_scene |  
+| bip_39_word_underscore_11 | world_include_require_survey_radar_deal_decrease_cinnamon_brass_scene_stomach |  
+| bip_39_word_underscore_12 | world_include_require_survey_radar_deal_decrease_cinnamon_brass_scene_stomach_alley |  
+| bip_39_word_underscore_2 | world_include |  
+| bip_39_word_underscore_3 | world_include_require |  
+| bip_39_word_underscore_4 | world_include_require_survey |  
+| bip_39_word_underscore_5 | world_include_require_survey_radar |  
+| bip_39_word_underscore_6 | world_include_require_survey_radar_deal |  
+| bip_39_word_underscore_7 | world_include_require_survey_radar_deal_decrease |  
+| bip_39_word_underscore_8 | world_include_require_survey_radar_deal_decrease_cinnamon |  
+| bip_39_word_underscore_9 | world_include_require_survey_radar_deal_decrease_cinnamon_brass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

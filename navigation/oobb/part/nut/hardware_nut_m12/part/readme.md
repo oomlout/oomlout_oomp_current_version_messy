@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deer |  
+| bip_39_word_dash_10 | deer-regular-rival-black-income-ivory-smoke-hero-juice-cash |  
+| bip_39_word_dash_11 | deer-regular-rival-black-income-ivory-smoke-hero-juice-cash-order |  
+| bip_39_word_dash_12 | deer-regular-rival-black-income-ivory-smoke-hero-juice-cash-order-avocado |  
+| bip_39_word_dash_2 | deer-regular |  
+| bip_39_word_dash_3 | deer-regular-rival |  
+| bip_39_word_dash_4 | deer-regular-rival-black |  
+| bip_39_word_dash_5 | deer-regular-rival-black-income |  
+| bip_39_word_dash_6 | deer-regular-rival-black-income-ivory |  
+| bip_39_word_dash_7 | deer-regular-rival-black-income-ivory-smoke |  
+| bip_39_word_dash_8 | deer-regular-rival-black-income-ivory-smoke-hero |  
+| bip_39_word_dash_9 | deer-regular-rival-black-income-ivory-smoke-hero-juice |  
 | bip_39_word_new_br_1 | deer |  
 | bip_39_word_new_br_10 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero<br>juice<br>cash |  
 | bip_39_word_new_br_11 | deer<br>regular<br>rival<br>black<br>income<br>ivory<br>smoke<br>hero<br>juice<br>cash<br>order |  
@@ -147,6 +159,18 @@ juice |
 | bip_39_word_space_7 | deer regular rival black income ivory smoke |  
 | bip_39_word_space_8 | deer regular rival black income ivory smoke hero |  
 | bip_39_word_space_9 | deer regular rival black income ivory smoke hero juice |  
+| bip_39_word_underscore_1 | deer |  
+| bip_39_word_underscore_10 | deer_regular_rival_black_income_ivory_smoke_hero_juice_cash |  
+| bip_39_word_underscore_11 | deer_regular_rival_black_income_ivory_smoke_hero_juice_cash_order |  
+| bip_39_word_underscore_12 | deer_regular_rival_black_income_ivory_smoke_hero_juice_cash_order_avocado |  
+| bip_39_word_underscore_2 | deer_regular |  
+| bip_39_word_underscore_3 | deer_regular_rival |  
+| bip_39_word_underscore_4 | deer_regular_rival_black |  
+| bip_39_word_underscore_5 | deer_regular_rival_black_income |  
+| bip_39_word_underscore_6 | deer_regular_rival_black_income_ivory |  
+| bip_39_word_underscore_7 | deer_regular_rival_black_income_ivory_smoke |  
+| bip_39_word_underscore_8 | deer_regular_rival_black_income_ivory_smoke_hero |  
+| bip_39_word_underscore_9 | deer_regular_rival_black_income_ivory_smoke_hero_juice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

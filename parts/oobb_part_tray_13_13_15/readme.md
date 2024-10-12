@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | salt |  
+| bip_39_word_dash_10 | salt-noise-theory-agree-stumble-service-detect-current-stadium-squeeze |  
+| bip_39_word_dash_11 | salt-noise-theory-agree-stumble-service-detect-current-stadium-squeeze-emerge |  
+| bip_39_word_dash_12 | salt-noise-theory-agree-stumble-service-detect-current-stadium-squeeze-emerge-antenna |  
+| bip_39_word_dash_2 | salt-noise |  
+| bip_39_word_dash_3 | salt-noise-theory |  
+| bip_39_word_dash_4 | salt-noise-theory-agree |  
+| bip_39_word_dash_5 | salt-noise-theory-agree-stumble |  
+| bip_39_word_dash_6 | salt-noise-theory-agree-stumble-service |  
+| bip_39_word_dash_7 | salt-noise-theory-agree-stumble-service-detect |  
+| bip_39_word_dash_8 | salt-noise-theory-agree-stumble-service-detect-current |  
+| bip_39_word_dash_9 | salt-noise-theory-agree-stumble-service-detect-current-stadium |  
 | bip_39_word_new_br_1 | salt |  
 | bip_39_word_new_br_10 | salt<br>noise<br>theory<br>agree<br>stumble<br>service<br>detect<br>current<br>stadium<br>squeeze |  
 | bip_39_word_new_br_11 | salt<br>noise<br>theory<br>agree<br>stumble<br>service<br>detect<br>current<br>stadium<br>squeeze<br>emerge |  
@@ -147,6 +159,18 @@ stadium |
 | bip_39_word_space_7 | salt noise theory agree stumble service detect |  
 | bip_39_word_space_8 | salt noise theory agree stumble service detect current |  
 | bip_39_word_space_9 | salt noise theory agree stumble service detect current stadium |  
+| bip_39_word_underscore_1 | salt |  
+| bip_39_word_underscore_10 | salt_noise_theory_agree_stumble_service_detect_current_stadium_squeeze |  
+| bip_39_word_underscore_11 | salt_noise_theory_agree_stumble_service_detect_current_stadium_squeeze_emerge |  
+| bip_39_word_underscore_12 | salt_noise_theory_agree_stumble_service_detect_current_stadium_squeeze_emerge_antenna |  
+| bip_39_word_underscore_2 | salt_noise |  
+| bip_39_word_underscore_3 | salt_noise_theory |  
+| bip_39_word_underscore_4 | salt_noise_theory_agree |  
+| bip_39_word_underscore_5 | salt_noise_theory_agree_stumble |  
+| bip_39_word_underscore_6 | salt_noise_theory_agree_stumble_service |  
+| bip_39_word_underscore_7 | salt_noise_theory_agree_stumble_service_detect |  
+| bip_39_word_underscore_8 | salt_noise_theory_agree_stumble_service_detect_current |  
+| bip_39_word_underscore_9 | salt_noise_theory_agree_stumble_service_detect_current_stadium |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

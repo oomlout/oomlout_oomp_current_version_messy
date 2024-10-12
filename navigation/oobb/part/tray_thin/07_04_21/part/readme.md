@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | faith |  
+| bip_39_word_dash_10 | faith-resource-neither-torch-nerve-collect-wonder-argue-system-silly |  
+| bip_39_word_dash_11 | faith-resource-neither-torch-nerve-collect-wonder-argue-system-silly-artefact |  
+| bip_39_word_dash_12 | faith-resource-neither-torch-nerve-collect-wonder-argue-system-silly-artefact-alpha |  
+| bip_39_word_dash_2 | faith-resource |  
+| bip_39_word_dash_3 | faith-resource-neither |  
+| bip_39_word_dash_4 | faith-resource-neither-torch |  
+| bip_39_word_dash_5 | faith-resource-neither-torch-nerve |  
+| bip_39_word_dash_6 | faith-resource-neither-torch-nerve-collect |  
+| bip_39_word_dash_7 | faith-resource-neither-torch-nerve-collect-wonder |  
+| bip_39_word_dash_8 | faith-resource-neither-torch-nerve-collect-wonder-argue |  
+| bip_39_word_dash_9 | faith-resource-neither-torch-nerve-collect-wonder-argue-system |  
 | bip_39_word_new_br_1 | faith |  
 | bip_39_word_new_br_10 | faith<br>resource<br>neither<br>torch<br>nerve<br>collect<br>wonder<br>argue<br>system<br>silly |  
 | bip_39_word_new_br_11 | faith<br>resource<br>neither<br>torch<br>nerve<br>collect<br>wonder<br>argue<br>system<br>silly<br>artefact |  
@@ -147,6 +159,18 @@ system |
 | bip_39_word_space_7 | faith resource neither torch nerve collect wonder |  
 | bip_39_word_space_8 | faith resource neither torch nerve collect wonder argue |  
 | bip_39_word_space_9 | faith resource neither torch nerve collect wonder argue system |  
+| bip_39_word_underscore_1 | faith |  
+| bip_39_word_underscore_10 | faith_resource_neither_torch_nerve_collect_wonder_argue_system_silly |  
+| bip_39_word_underscore_11 | faith_resource_neither_torch_nerve_collect_wonder_argue_system_silly_artefact |  
+| bip_39_word_underscore_12 | faith_resource_neither_torch_nerve_collect_wonder_argue_system_silly_artefact_alpha |  
+| bip_39_word_underscore_2 | faith_resource |  
+| bip_39_word_underscore_3 | faith_resource_neither |  
+| bip_39_word_underscore_4 | faith_resource_neither_torch |  
+| bip_39_word_underscore_5 | faith_resource_neither_torch_nerve |  
+| bip_39_word_underscore_6 | faith_resource_neither_torch_nerve_collect |  
+| bip_39_word_underscore_7 | faith_resource_neither_torch_nerve_collect_wonder |  
+| bip_39_word_underscore_8 | faith_resource_neither_torch_nerve_collect_wonder_argue |  
+| bip_39_word_underscore_9 | faith_resource_neither_torch_nerve_collect_wonder_argue_system |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unhappy |  
+| bip_39_word_dash_10 | unhappy-visit-define-humble-dismiss-random-path-cactus-other-luggage |  
+| bip_39_word_dash_11 | unhappy-visit-define-humble-dismiss-random-path-cactus-other-luggage-ocean |  
+| bip_39_word_dash_12 | unhappy-visit-define-humble-dismiss-random-path-cactus-other-luggage-ocean-arena |  
+| bip_39_word_dash_2 | unhappy-visit |  
+| bip_39_word_dash_3 | unhappy-visit-define |  
+| bip_39_word_dash_4 | unhappy-visit-define-humble |  
+| bip_39_word_dash_5 | unhappy-visit-define-humble-dismiss |  
+| bip_39_word_dash_6 | unhappy-visit-define-humble-dismiss-random |  
+| bip_39_word_dash_7 | unhappy-visit-define-humble-dismiss-random-path |  
+| bip_39_word_dash_8 | unhappy-visit-define-humble-dismiss-random-path-cactus |  
+| bip_39_word_dash_9 | unhappy-visit-define-humble-dismiss-random-path-cactus-other |  
 | bip_39_word_new_br_1 | unhappy |  
 | bip_39_word_new_br_10 | unhappy<br>visit<br>define<br>humble<br>dismiss<br>random<br>path<br>cactus<br>other<br>luggage |  
 | bip_39_word_new_br_11 | unhappy<br>visit<br>define<br>humble<br>dismiss<br>random<br>path<br>cactus<br>other<br>luggage<br>ocean |  
@@ -147,6 +159,18 @@ other |
 | bip_39_word_space_7 | unhappy visit define humble dismiss random path |  
 | bip_39_word_space_8 | unhappy visit define humble dismiss random path cactus |  
 | bip_39_word_space_9 | unhappy visit define humble dismiss random path cactus other |  
+| bip_39_word_underscore_1 | unhappy |  
+| bip_39_word_underscore_10 | unhappy_visit_define_humble_dismiss_random_path_cactus_other_luggage |  
+| bip_39_word_underscore_11 | unhappy_visit_define_humble_dismiss_random_path_cactus_other_luggage_ocean |  
+| bip_39_word_underscore_12 | unhappy_visit_define_humble_dismiss_random_path_cactus_other_luggage_ocean_arena |  
+| bip_39_word_underscore_2 | unhappy_visit |  
+| bip_39_word_underscore_3 | unhappy_visit_define |  
+| bip_39_word_underscore_4 | unhappy_visit_define_humble |  
+| bip_39_word_underscore_5 | unhappy_visit_define_humble_dismiss |  
+| bip_39_word_underscore_6 | unhappy_visit_define_humble_dismiss_random |  
+| bip_39_word_underscore_7 | unhappy_visit_define_humble_dismiss_random_path |  
+| bip_39_word_underscore_8 | unhappy_visit_define_humble_dismiss_random_path_cactus |  
+| bip_39_word_underscore_9 | unhappy_visit_define_humble_dismiss_random_path_cactus_other |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

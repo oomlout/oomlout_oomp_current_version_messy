@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | question |  
+| bip_39_word_dash_10 | question-roof-coach-myth-strategy-donkey-width-bleak-bag-machine |  
+| bip_39_word_dash_11 | question-roof-coach-myth-strategy-donkey-width-bleak-bag-machine-skull |  
+| bip_39_word_dash_12 | question-roof-coach-myth-strategy-donkey-width-bleak-bag-machine-skull-apology |  
+| bip_39_word_dash_2 | question-roof |  
+| bip_39_word_dash_3 | question-roof-coach |  
+| bip_39_word_dash_4 | question-roof-coach-myth |  
+| bip_39_word_dash_5 | question-roof-coach-myth-strategy |  
+| bip_39_word_dash_6 | question-roof-coach-myth-strategy-donkey |  
+| bip_39_word_dash_7 | question-roof-coach-myth-strategy-donkey-width |  
+| bip_39_word_dash_8 | question-roof-coach-myth-strategy-donkey-width-bleak |  
+| bip_39_word_dash_9 | question-roof-coach-myth-strategy-donkey-width-bleak-bag |  
 | bip_39_word_new_br_1 | question |  
 | bip_39_word_new_br_10 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine |  
 | bip_39_word_new_br_11 | question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine<br>skull |  
@@ -147,6 +159,18 @@ bag |
 | bip_39_word_space_7 | question roof coach myth strategy donkey width |  
 | bip_39_word_space_8 | question roof coach myth strategy donkey width bleak |  
 | bip_39_word_space_9 | question roof coach myth strategy donkey width bleak bag |  
+| bip_39_word_underscore_1 | question |  
+| bip_39_word_underscore_10 | question_roof_coach_myth_strategy_donkey_width_bleak_bag_machine |  
+| bip_39_word_underscore_11 | question_roof_coach_myth_strategy_donkey_width_bleak_bag_machine_skull |  
+| bip_39_word_underscore_12 | question_roof_coach_myth_strategy_donkey_width_bleak_bag_machine_skull_apology |  
+| bip_39_word_underscore_2 | question_roof |  
+| bip_39_word_underscore_3 | question_roof_coach |  
+| bip_39_word_underscore_4 | question_roof_coach_myth |  
+| bip_39_word_underscore_5 | question_roof_coach_myth_strategy |  
+| bip_39_word_underscore_6 | question_roof_coach_myth_strategy_donkey |  
+| bip_39_word_underscore_7 | question_roof_coach_myth_strategy_donkey_width |  
+| bip_39_word_underscore_8 | question_roof_coach_myth_strategy_donkey_width_bleak |  
+| bip_39_word_underscore_9 | question_roof_coach_myth_strategy_donkey_width_bleak_bag |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

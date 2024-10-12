@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | magic |  
+| bip_39_word_dash_10 | magic-sentence-trouble-just-march-diesel-rug-pig-fortune-twin |  
+| bip_39_word_dash_11 | magic-sentence-trouble-just-march-diesel-rug-pig-fortune-twin-great |  
+| bip_39_word_dash_12 | magic-sentence-trouble-just-march-diesel-rug-pig-fortune-twin-great-annual |  
+| bip_39_word_dash_2 | magic-sentence |  
+| bip_39_word_dash_3 | magic-sentence-trouble |  
+| bip_39_word_dash_4 | magic-sentence-trouble-just |  
+| bip_39_word_dash_5 | magic-sentence-trouble-just-march |  
+| bip_39_word_dash_6 | magic-sentence-trouble-just-march-diesel |  
+| bip_39_word_dash_7 | magic-sentence-trouble-just-march-diesel-rug |  
+| bip_39_word_dash_8 | magic-sentence-trouble-just-march-diesel-rug-pig |  
+| bip_39_word_dash_9 | magic-sentence-trouble-just-march-diesel-rug-pig-fortune |  
 | bip_39_word_new_br_1 | magic |  
 | bip_39_word_new_br_10 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig<br>fortune<br>twin |  
 | bip_39_word_new_br_11 | magic<br>sentence<br>trouble<br>just<br>march<br>diesel<br>rug<br>pig<br>fortune<br>twin<br>great |  
@@ -147,6 +159,18 @@ fortune |
 | bip_39_word_space_7 | magic sentence trouble just march diesel rug |  
 | bip_39_word_space_8 | magic sentence trouble just march diesel rug pig |  
 | bip_39_word_space_9 | magic sentence trouble just march diesel rug pig fortune |  
+| bip_39_word_underscore_1 | magic |  
+| bip_39_word_underscore_10 | magic_sentence_trouble_just_march_diesel_rug_pig_fortune_twin |  
+| bip_39_word_underscore_11 | magic_sentence_trouble_just_march_diesel_rug_pig_fortune_twin_great |  
+| bip_39_word_underscore_12 | magic_sentence_trouble_just_march_diesel_rug_pig_fortune_twin_great_annual |  
+| bip_39_word_underscore_2 | magic_sentence |  
+| bip_39_word_underscore_3 | magic_sentence_trouble |  
+| bip_39_word_underscore_4 | magic_sentence_trouble_just |  
+| bip_39_word_underscore_5 | magic_sentence_trouble_just_march |  
+| bip_39_word_underscore_6 | magic_sentence_trouble_just_march_diesel |  
+| bip_39_word_underscore_7 | magic_sentence_trouble_just_march_diesel_rug |  
+| bip_39_word_underscore_8 | magic_sentence_trouble_just_march_diesel_rug_pig |  
+| bip_39_word_underscore_9 | magic_sentence_trouble_just_march_diesel_rug_pig_fortune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

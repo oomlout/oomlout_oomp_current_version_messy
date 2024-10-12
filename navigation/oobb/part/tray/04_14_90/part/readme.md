@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bind |  
+| bip_39_word_dash_10 | bind-unhappy-mountain-bulb-misery-enjoy-daring-dawn-shallow-decline |  
+| bip_39_word_dash_11 | bind-unhappy-mountain-bulb-misery-enjoy-daring-dawn-shallow-decline-velvet |  
+| bip_39_word_dash_12 | bind-unhappy-mountain-bulb-misery-enjoy-daring-dawn-shallow-decline-velvet-affair |  
+| bip_39_word_dash_2 | bind-unhappy |  
+| bip_39_word_dash_3 | bind-unhappy-mountain |  
+| bip_39_word_dash_4 | bind-unhappy-mountain-bulb |  
+| bip_39_word_dash_5 | bind-unhappy-mountain-bulb-misery |  
+| bip_39_word_dash_6 | bind-unhappy-mountain-bulb-misery-enjoy |  
+| bip_39_word_dash_7 | bind-unhappy-mountain-bulb-misery-enjoy-daring |  
+| bip_39_word_dash_8 | bind-unhappy-mountain-bulb-misery-enjoy-daring-dawn |  
+| bip_39_word_dash_9 | bind-unhappy-mountain-bulb-misery-enjoy-daring-dawn-shallow |  
 | bip_39_word_new_br_1 | bind |  
 | bip_39_word_new_br_10 | bind<br>unhappy<br>mountain<br>bulb<br>misery<br>enjoy<br>daring<br>dawn<br>shallow<br>decline |  
 | bip_39_word_new_br_11 | bind<br>unhappy<br>mountain<br>bulb<br>misery<br>enjoy<br>daring<br>dawn<br>shallow<br>decline<br>velvet |  
@@ -147,6 +159,18 @@ shallow |
 | bip_39_word_space_7 | bind unhappy mountain bulb misery enjoy daring |  
 | bip_39_word_space_8 | bind unhappy mountain bulb misery enjoy daring dawn |  
 | bip_39_word_space_9 | bind unhappy mountain bulb misery enjoy daring dawn shallow |  
+| bip_39_word_underscore_1 | bind |  
+| bip_39_word_underscore_10 | bind_unhappy_mountain_bulb_misery_enjoy_daring_dawn_shallow_decline |  
+| bip_39_word_underscore_11 | bind_unhappy_mountain_bulb_misery_enjoy_daring_dawn_shallow_decline_velvet |  
+| bip_39_word_underscore_12 | bind_unhappy_mountain_bulb_misery_enjoy_daring_dawn_shallow_decline_velvet_affair |  
+| bip_39_word_underscore_2 | bind_unhappy |  
+| bip_39_word_underscore_3 | bind_unhappy_mountain |  
+| bip_39_word_underscore_4 | bind_unhappy_mountain_bulb |  
+| bip_39_word_underscore_5 | bind_unhappy_mountain_bulb_misery |  
+| bip_39_word_underscore_6 | bind_unhappy_mountain_bulb_misery_enjoy |  
+| bip_39_word_underscore_7 | bind_unhappy_mountain_bulb_misery_enjoy_daring |  
+| bip_39_word_underscore_8 | bind_unhappy_mountain_bulb_misery_enjoy_daring_dawn |  
+| bip_39_word_underscore_9 | bind_unhappy_mountain_bulb_misery_enjoy_daring_dawn_shallow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

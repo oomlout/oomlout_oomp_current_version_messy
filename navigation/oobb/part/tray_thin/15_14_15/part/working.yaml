@@ -1,3 +1,15 @@
+bip_39_word_dash_1: code
+bip_39_word_dash_10: code-border-arrest-short-barrel-slim-morning-raise-maple-gospel
+bip_39_word_dash_11: code-border-arrest-short-barrel-slim-morning-raise-maple-gospel-hole
+bip_39_word_dash_12: code-border-arrest-short-barrel-slim-morning-raise-maple-gospel-hole-arctic
+bip_39_word_dash_2: code-border
+bip_39_word_dash_3: code-border-arrest
+bip_39_word_dash_4: code-border-arrest-short
+bip_39_word_dash_5: code-border-arrest-short-barrel
+bip_39_word_dash_6: code-border-arrest-short-barrel-slim
+bip_39_word_dash_7: code-border-arrest-short-barrel-slim-morning
+bip_39_word_dash_8: code-border-arrest-short-barrel-slim-morning-raise
+bip_39_word_dash_9: code-border-arrest-short-barrel-slim-morning-raise-maple
 bip_39_word_new_br_1: code
 bip_39_word_new_br_10: code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel
 bip_39_word_new_br_11: code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel<br>hole
@@ -193,6 +205,18 @@ bip_39_word_space_6: code border arrest short barrel slim
 bip_39_word_space_7: code border arrest short barrel slim morning
 bip_39_word_space_8: code border arrest short barrel slim morning raise
 bip_39_word_space_9: code border arrest short barrel slim morning raise maple
+bip_39_word_underscore_1: code
+bip_39_word_underscore_10: code_border_arrest_short_barrel_slim_morning_raise_maple_gospel
+bip_39_word_underscore_11: code_border_arrest_short_barrel_slim_morning_raise_maple_gospel_hole
+bip_39_word_underscore_12: code_border_arrest_short_barrel_slim_morning_raise_maple_gospel_hole_arctic
+bip_39_word_underscore_2: code_border
+bip_39_word_underscore_3: code_border_arrest
+bip_39_word_underscore_4: code_border_arrest_short
+bip_39_word_underscore_5: code_border_arrest_short_barrel
+bip_39_word_underscore_6: code_border_arrest_short_barrel_slim
+bip_39_word_underscore_7: code_border_arrest_short_barrel_slim_morning
+bip_39_word_underscore_8: code_border_arrest_short_barrel_slim_morning_raise
+bip_39_word_underscore_9: code_border_arrest_short_barrel_slim_morning_raise_maple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hand |  
+| bip_39_word_dash_10 | hand-water-casino-tired-almost-square-uncle-swamp-few-apart |  
+| bip_39_word_dash_11 | hand-water-casino-tired-almost-square-uncle-swamp-few-apart-embark |  
+| bip_39_word_dash_12 | hand-water-casino-tired-almost-square-uncle-swamp-few-apart-embark-absurd |  
+| bip_39_word_dash_2 | hand-water |  
+| bip_39_word_dash_3 | hand-water-casino |  
+| bip_39_word_dash_4 | hand-water-casino-tired |  
+| bip_39_word_dash_5 | hand-water-casino-tired-almost |  
+| bip_39_word_dash_6 | hand-water-casino-tired-almost-square |  
+| bip_39_word_dash_7 | hand-water-casino-tired-almost-square-uncle |  
+| bip_39_word_dash_8 | hand-water-casino-tired-almost-square-uncle-swamp |  
+| bip_39_word_dash_9 | hand-water-casino-tired-almost-square-uncle-swamp-few |  
 | bip_39_word_new_br_1 | hand |  
 | bip_39_word_new_br_10 | hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp<br>few<br>apart |  
 | bip_39_word_new_br_11 | hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp<br>few<br>apart<br>embark |  
@@ -147,6 +159,18 @@ few |
 | bip_39_word_space_7 | hand water casino tired almost square uncle |  
 | bip_39_word_space_8 | hand water casino tired almost square uncle swamp |  
 | bip_39_word_space_9 | hand water casino tired almost square uncle swamp few |  
+| bip_39_word_underscore_1 | hand |  
+| bip_39_word_underscore_10 | hand_water_casino_tired_almost_square_uncle_swamp_few_apart |  
+| bip_39_word_underscore_11 | hand_water_casino_tired_almost_square_uncle_swamp_few_apart_embark |  
+| bip_39_word_underscore_12 | hand_water_casino_tired_almost_square_uncle_swamp_few_apart_embark_absurd |  
+| bip_39_word_underscore_2 | hand_water |  
+| bip_39_word_underscore_3 | hand_water_casino |  
+| bip_39_word_underscore_4 | hand_water_casino_tired |  
+| bip_39_word_underscore_5 | hand_water_casino_tired_almost |  
+| bip_39_word_underscore_6 | hand_water_casino_tired_almost_square |  
+| bip_39_word_underscore_7 | hand_water_casino_tired_almost_square_uncle |  
+| bip_39_word_underscore_8 | hand_water_casino_tired_almost_square_uncle_swamp |  
+| bip_39_word_underscore_9 | hand_water_casino_tired_almost_square_uncle_swamp_few |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

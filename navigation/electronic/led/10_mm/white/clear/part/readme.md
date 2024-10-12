@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ocean |  
+| bip_39_word_dash_10 | ocean-mad-pride-avoid-symbol-fashion-area-smoke-vessel-tuition |  
+| bip_39_word_dash_11 | ocean-mad-pride-avoid-symbol-fashion-area-smoke-vessel-tuition-leader |  
+| bip_39_word_dash_12 | ocean-mad-pride-avoid-symbol-fashion-area-smoke-vessel-tuition-leader-add |  
+| bip_39_word_dash_2 | ocean-mad |  
+| bip_39_word_dash_3 | ocean-mad-pride |  
+| bip_39_word_dash_4 | ocean-mad-pride-avoid |  
+| bip_39_word_dash_5 | ocean-mad-pride-avoid-symbol |  
+| bip_39_word_dash_6 | ocean-mad-pride-avoid-symbol-fashion |  
+| bip_39_word_dash_7 | ocean-mad-pride-avoid-symbol-fashion-area |  
+| bip_39_word_dash_8 | ocean-mad-pride-avoid-symbol-fashion-area-smoke |  
+| bip_39_word_dash_9 | ocean-mad-pride-avoid-symbol-fashion-area-smoke-vessel |  
 | bip_39_word_new_br_1 | ocean |  
 | bip_39_word_new_br_10 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke<br>vessel<br>tuition |  
 | bip_39_word_new_br_11 | ocean<br>mad<br>pride<br>avoid<br>symbol<br>fashion<br>area<br>smoke<br>vessel<br>tuition<br>leader |  
@@ -147,6 +159,18 @@ vessel |
 | bip_39_word_space_7 | ocean mad pride avoid symbol fashion area |  
 | bip_39_word_space_8 | ocean mad pride avoid symbol fashion area smoke |  
 | bip_39_word_space_9 | ocean mad pride avoid symbol fashion area smoke vessel |  
+| bip_39_word_underscore_1 | ocean |  
+| bip_39_word_underscore_10 | ocean_mad_pride_avoid_symbol_fashion_area_smoke_vessel_tuition |  
+| bip_39_word_underscore_11 | ocean_mad_pride_avoid_symbol_fashion_area_smoke_vessel_tuition_leader |  
+| bip_39_word_underscore_12 | ocean_mad_pride_avoid_symbol_fashion_area_smoke_vessel_tuition_leader_add |  
+| bip_39_word_underscore_2 | ocean_mad |  
+| bip_39_word_underscore_3 | ocean_mad_pride |  
+| bip_39_word_underscore_4 | ocean_mad_pride_avoid |  
+| bip_39_word_underscore_5 | ocean_mad_pride_avoid_symbol |  
+| bip_39_word_underscore_6 | ocean_mad_pride_avoid_symbol_fashion |  
+| bip_39_word_underscore_7 | ocean_mad_pride_avoid_symbol_fashion_area |  
+| bip_39_word_underscore_8 | ocean_mad_pride_avoid_symbol_fashion_area_smoke |  
+| bip_39_word_underscore_9 | ocean_mad_pride_avoid_symbol_fashion_area_smoke_vessel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

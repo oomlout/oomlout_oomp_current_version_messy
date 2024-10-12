@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chef |  
+| bip_39_word_dash_10 | chef-novel-ticket-sunny-bridge-early-satisfy-diesel-climb-train |  
+| bip_39_word_dash_11 | chef-novel-ticket-sunny-bridge-early-satisfy-diesel-climb-train-session |  
+| bip_39_word_dash_12 | chef-novel-ticket-sunny-bridge-early-satisfy-diesel-climb-train-session-appear |  
+| bip_39_word_dash_2 | chef-novel |  
+| bip_39_word_dash_3 | chef-novel-ticket |  
+| bip_39_word_dash_4 | chef-novel-ticket-sunny |  
+| bip_39_word_dash_5 | chef-novel-ticket-sunny-bridge |  
+| bip_39_word_dash_6 | chef-novel-ticket-sunny-bridge-early |  
+| bip_39_word_dash_7 | chef-novel-ticket-sunny-bridge-early-satisfy |  
+| bip_39_word_dash_8 | chef-novel-ticket-sunny-bridge-early-satisfy-diesel |  
+| bip_39_word_dash_9 | chef-novel-ticket-sunny-bridge-early-satisfy-diesel-climb |  
 | bip_39_word_new_br_1 | chef |  
 | bip_39_word_new_br_10 | chef<br>novel<br>ticket<br>sunny<br>bridge<br>early<br>satisfy<br>diesel<br>climb<br>train |  
 | bip_39_word_new_br_11 | chef<br>novel<br>ticket<br>sunny<br>bridge<br>early<br>satisfy<br>diesel<br>climb<br>train<br>session |  
@@ -147,6 +159,18 @@ climb |
 | bip_39_word_space_7 | chef novel ticket sunny bridge early satisfy |  
 | bip_39_word_space_8 | chef novel ticket sunny bridge early satisfy diesel |  
 | bip_39_word_space_9 | chef novel ticket sunny bridge early satisfy diesel climb |  
+| bip_39_word_underscore_1 | chef |  
+| bip_39_word_underscore_10 | chef_novel_ticket_sunny_bridge_early_satisfy_diesel_climb_train |  
+| bip_39_word_underscore_11 | chef_novel_ticket_sunny_bridge_early_satisfy_diesel_climb_train_session |  
+| bip_39_word_underscore_12 | chef_novel_ticket_sunny_bridge_early_satisfy_diesel_climb_train_session_appear |  
+| bip_39_word_underscore_2 | chef_novel |  
+| bip_39_word_underscore_3 | chef_novel_ticket |  
+| bip_39_word_underscore_4 | chef_novel_ticket_sunny |  
+| bip_39_word_underscore_5 | chef_novel_ticket_sunny_bridge |  
+| bip_39_word_underscore_6 | chef_novel_ticket_sunny_bridge_early |  
+| bip_39_word_underscore_7 | chef_novel_ticket_sunny_bridge_early_satisfy |  
+| bip_39_word_underscore_8 | chef_novel_ticket_sunny_bridge_early_satisfy_diesel |  
+| bip_39_word_underscore_9 | chef_novel_ticket_sunny_bridge_early_satisfy_diesel_climb |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

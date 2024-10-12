@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skin |  
+| bip_39_word_dash_10 | skin-tent-valid-dinosaur-wonder-chunk-soon-street-swing-stairs |  
+| bip_39_word_dash_11 | skin-tent-valid-dinosaur-wonder-chunk-soon-street-swing-stairs-antenna |  
+| bip_39_word_dash_12 | skin-tent-valid-dinosaur-wonder-chunk-soon-street-swing-stairs-antenna-approve |  
+| bip_39_word_dash_2 | skin-tent |  
+| bip_39_word_dash_3 | skin-tent-valid |  
+| bip_39_word_dash_4 | skin-tent-valid-dinosaur |  
+| bip_39_word_dash_5 | skin-tent-valid-dinosaur-wonder |  
+| bip_39_word_dash_6 | skin-tent-valid-dinosaur-wonder-chunk |  
+| bip_39_word_dash_7 | skin-tent-valid-dinosaur-wonder-chunk-soon |  
+| bip_39_word_dash_8 | skin-tent-valid-dinosaur-wonder-chunk-soon-street |  
+| bip_39_word_dash_9 | skin-tent-valid-dinosaur-wonder-chunk-soon-street-swing |  
 | bip_39_word_new_br_1 | skin |  
 | bip_39_word_new_br_10 | skin<br>tent<br>valid<br>dinosaur<br>wonder<br>chunk<br>soon<br>street<br>swing<br>stairs |  
 | bip_39_word_new_br_11 | skin<br>tent<br>valid<br>dinosaur<br>wonder<br>chunk<br>soon<br>street<br>swing<br>stairs<br>antenna |  
@@ -147,6 +159,18 @@ swing |
 | bip_39_word_space_7 | skin tent valid dinosaur wonder chunk soon |  
 | bip_39_word_space_8 | skin tent valid dinosaur wonder chunk soon street |  
 | bip_39_word_space_9 | skin tent valid dinosaur wonder chunk soon street swing |  
+| bip_39_word_underscore_1 | skin |  
+| bip_39_word_underscore_10 | skin_tent_valid_dinosaur_wonder_chunk_soon_street_swing_stairs |  
+| bip_39_word_underscore_11 | skin_tent_valid_dinosaur_wonder_chunk_soon_street_swing_stairs_antenna |  
+| bip_39_word_underscore_12 | skin_tent_valid_dinosaur_wonder_chunk_soon_street_swing_stairs_antenna_approve |  
+| bip_39_word_underscore_2 | skin_tent |  
+| bip_39_word_underscore_3 | skin_tent_valid |  
+| bip_39_word_underscore_4 | skin_tent_valid_dinosaur |  
+| bip_39_word_underscore_5 | skin_tent_valid_dinosaur_wonder |  
+| bip_39_word_underscore_6 | skin_tent_valid_dinosaur_wonder_chunk |  
+| bip_39_word_underscore_7 | skin_tent_valid_dinosaur_wonder_chunk_soon |  
+| bip_39_word_underscore_8 | skin_tent_valid_dinosaur_wonder_chunk_soon_street |  
+| bip_39_word_underscore_9 | skin_tent_valid_dinosaur_wonder_chunk_soon_street_swing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

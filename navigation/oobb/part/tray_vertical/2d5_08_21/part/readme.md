@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | book |  
+| bip_39_word_dash_10 | book-tackle-month-pattern-coin-pretty-impact-afford-someone-once |  
+| bip_39_word_dash_11 | book-tackle-month-pattern-coin-pretty-impact-afford-someone-once-account |  
+| bip_39_word_dash_12 | book-tackle-month-pattern-coin-pretty-impact-afford-someone-once-account-annual |  
+| bip_39_word_dash_2 | book-tackle |  
+| bip_39_word_dash_3 | book-tackle-month |  
+| bip_39_word_dash_4 | book-tackle-month-pattern |  
+| bip_39_word_dash_5 | book-tackle-month-pattern-coin |  
+| bip_39_word_dash_6 | book-tackle-month-pattern-coin-pretty |  
+| bip_39_word_dash_7 | book-tackle-month-pattern-coin-pretty-impact |  
+| bip_39_word_dash_8 | book-tackle-month-pattern-coin-pretty-impact-afford |  
+| bip_39_word_dash_9 | book-tackle-month-pattern-coin-pretty-impact-afford-someone |  
 | bip_39_word_new_br_1 | book |  
 | bip_39_word_new_br_10 | book<br>tackle<br>month<br>pattern<br>coin<br>pretty<br>impact<br>afford<br>someone<br>once |  
 | bip_39_word_new_br_11 | book<br>tackle<br>month<br>pattern<br>coin<br>pretty<br>impact<br>afford<br>someone<br>once<br>account |  
@@ -147,6 +159,18 @@ someone |
 | bip_39_word_space_7 | book tackle month pattern coin pretty impact |  
 | bip_39_word_space_8 | book tackle month pattern coin pretty impact afford |  
 | bip_39_word_space_9 | book tackle month pattern coin pretty impact afford someone |  
+| bip_39_word_underscore_1 | book |  
+| bip_39_word_underscore_10 | book_tackle_month_pattern_coin_pretty_impact_afford_someone_once |  
+| bip_39_word_underscore_11 | book_tackle_month_pattern_coin_pretty_impact_afford_someone_once_account |  
+| bip_39_word_underscore_12 | book_tackle_month_pattern_coin_pretty_impact_afford_someone_once_account_annual |  
+| bip_39_word_underscore_2 | book_tackle |  
+| bip_39_word_underscore_3 | book_tackle_month |  
+| bip_39_word_underscore_4 | book_tackle_month_pattern |  
+| bip_39_word_underscore_5 | book_tackle_month_pattern_coin |  
+| bip_39_word_underscore_6 | book_tackle_month_pattern_coin_pretty |  
+| bip_39_word_underscore_7 | book_tackle_month_pattern_coin_pretty_impact |  
+| bip_39_word_underscore_8 | book_tackle_month_pattern_coin_pretty_impact_afford |  
+| bip_39_word_underscore_9 | book_tackle_month_pattern_coin_pretty_impact_afford_someone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

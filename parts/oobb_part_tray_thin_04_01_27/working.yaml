@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hotel
+bip_39_word_dash_10: hotel-topple-person-dog-deliver-van-smoke-differ-ring-wood
+bip_39_word_dash_11: hotel-topple-person-dog-deliver-van-smoke-differ-ring-wood-address
+bip_39_word_dash_12: hotel-topple-person-dog-deliver-van-smoke-differ-ring-wood-address-attract
+bip_39_word_dash_2: hotel-topple
+bip_39_word_dash_3: hotel-topple-person
+bip_39_word_dash_4: hotel-topple-person-dog
+bip_39_word_dash_5: hotel-topple-person-dog-deliver
+bip_39_word_dash_6: hotel-topple-person-dog-deliver-van
+bip_39_word_dash_7: hotel-topple-person-dog-deliver-van-smoke
+bip_39_word_dash_8: hotel-topple-person-dog-deliver-van-smoke-differ
+bip_39_word_dash_9: hotel-topple-person-dog-deliver-van-smoke-differ-ring
 bip_39_word_new_br_1: hotel
 bip_39_word_new_br_10: hotel<br>topple<br>person<br>dog<br>deliver<br>van<br>smoke<br>differ<br>ring<br>wood
 bip_39_word_new_br_11: hotel<br>topple<br>person<br>dog<br>deliver<br>van<br>smoke<br>differ<br>ring<br>wood<br>address
@@ -192,6 +204,18 @@ bip_39_word_space_6: hotel topple person dog deliver van
 bip_39_word_space_7: hotel topple person dog deliver van smoke
 bip_39_word_space_8: hotel topple person dog deliver van smoke differ
 bip_39_word_space_9: hotel topple person dog deliver van smoke differ ring
+bip_39_word_underscore_1: hotel
+bip_39_word_underscore_10: hotel_topple_person_dog_deliver_van_smoke_differ_ring_wood
+bip_39_word_underscore_11: hotel_topple_person_dog_deliver_van_smoke_differ_ring_wood_address
+bip_39_word_underscore_12: hotel_topple_person_dog_deliver_van_smoke_differ_ring_wood_address_attract
+bip_39_word_underscore_2: hotel_topple
+bip_39_word_underscore_3: hotel_topple_person
+bip_39_word_underscore_4: hotel_topple_person_dog
+bip_39_word_underscore_5: hotel_topple_person_dog_deliver
+bip_39_word_underscore_6: hotel_topple_person_dog_deliver_van
+bip_39_word_underscore_7: hotel_topple_person_dog_deliver_van_smoke
+bip_39_word_underscore_8: hotel_topple_person_dog_deliver_van_smoke_differ
+bip_39_word_underscore_9: hotel_topple_person_dog_deliver_van_smoke_differ_ring
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

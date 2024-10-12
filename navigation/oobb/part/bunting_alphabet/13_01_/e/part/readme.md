@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | devote |  
+| bip_39_word_dash_10 | devote-labor-excuse-legend-slogan-reason-message-lawsuit-exile-game |  
+| bip_39_word_dash_11 | devote-labor-excuse-legend-slogan-reason-message-lawsuit-exile-game-slogan |  
+| bip_39_word_dash_12 | devote-labor-excuse-legend-slogan-reason-message-lawsuit-exile-game-slogan-add |  
+| bip_39_word_dash_2 | devote-labor |  
+| bip_39_word_dash_3 | devote-labor-excuse |  
+| bip_39_word_dash_4 | devote-labor-excuse-legend |  
+| bip_39_word_dash_5 | devote-labor-excuse-legend-slogan |  
+| bip_39_word_dash_6 | devote-labor-excuse-legend-slogan-reason |  
+| bip_39_word_dash_7 | devote-labor-excuse-legend-slogan-reason-message |  
+| bip_39_word_dash_8 | devote-labor-excuse-legend-slogan-reason-message-lawsuit |  
+| bip_39_word_dash_9 | devote-labor-excuse-legend-slogan-reason-message-lawsuit-exile |  
 | bip_39_word_new_br_1 | devote |  
 | bip_39_word_new_br_10 | devote<br>labor<br>excuse<br>legend<br>slogan<br>reason<br>message<br>lawsuit<br>exile<br>game |  
 | bip_39_word_new_br_11 | devote<br>labor<br>excuse<br>legend<br>slogan<br>reason<br>message<br>lawsuit<br>exile<br>game<br>slogan |  
@@ -147,6 +159,18 @@ exile |
 | bip_39_word_space_7 | devote labor excuse legend slogan reason message |  
 | bip_39_word_space_8 | devote labor excuse legend slogan reason message lawsuit |  
 | bip_39_word_space_9 | devote labor excuse legend slogan reason message lawsuit exile |  
+| bip_39_word_underscore_1 | devote |  
+| bip_39_word_underscore_10 | devote_labor_excuse_legend_slogan_reason_message_lawsuit_exile_game |  
+| bip_39_word_underscore_11 | devote_labor_excuse_legend_slogan_reason_message_lawsuit_exile_game_slogan |  
+| bip_39_word_underscore_12 | devote_labor_excuse_legend_slogan_reason_message_lawsuit_exile_game_slogan_add |  
+| bip_39_word_underscore_2 | devote_labor |  
+| bip_39_word_underscore_3 | devote_labor_excuse |  
+| bip_39_word_underscore_4 | devote_labor_excuse_legend |  
+| bip_39_word_underscore_5 | devote_labor_excuse_legend_slogan |  
+| bip_39_word_underscore_6 | devote_labor_excuse_legend_slogan_reason |  
+| bip_39_word_underscore_7 | devote_labor_excuse_legend_slogan_reason_message |  
+| bip_39_word_underscore_8 | devote_labor_excuse_legend_slogan_reason_message_lawsuit |  
+| bip_39_word_underscore_9 | devote_labor_excuse_legend_slogan_reason_message_lawsuit_exile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

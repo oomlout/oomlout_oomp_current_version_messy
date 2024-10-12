@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grain |  
+| bip_39_word_dash_10 | grain-digital-disorder-expand-hamster-make-hand-dream-sibling-oxygen |  
+| bip_39_word_dash_11 | grain-digital-disorder-expand-hamster-make-hand-dream-sibling-oxygen-rubber |  
+| bip_39_word_dash_12 | grain-digital-disorder-expand-hamster-make-hand-dream-sibling-oxygen-rubber-arch |  
+| bip_39_word_dash_2 | grain-digital |  
+| bip_39_word_dash_3 | grain-digital-disorder |  
+| bip_39_word_dash_4 | grain-digital-disorder-expand |  
+| bip_39_word_dash_5 | grain-digital-disorder-expand-hamster |  
+| bip_39_word_dash_6 | grain-digital-disorder-expand-hamster-make |  
+| bip_39_word_dash_7 | grain-digital-disorder-expand-hamster-make-hand |  
+| bip_39_word_dash_8 | grain-digital-disorder-expand-hamster-make-hand-dream |  
+| bip_39_word_dash_9 | grain-digital-disorder-expand-hamster-make-hand-dream-sibling |  
 | bip_39_word_new_br_1 | grain |  
 | bip_39_word_new_br_10 | grain<br>digital<br>disorder<br>expand<br>hamster<br>make<br>hand<br>dream<br>sibling<br>oxygen |  
 | bip_39_word_new_br_11 | grain<br>digital<br>disorder<br>expand<br>hamster<br>make<br>hand<br>dream<br>sibling<br>oxygen<br>rubber |  
@@ -147,6 +159,18 @@ sibling |
 | bip_39_word_space_7 | grain digital disorder expand hamster make hand |  
 | bip_39_word_space_8 | grain digital disorder expand hamster make hand dream |  
 | bip_39_word_space_9 | grain digital disorder expand hamster make hand dream sibling |  
+| bip_39_word_underscore_1 | grain |  
+| bip_39_word_underscore_10 | grain_digital_disorder_expand_hamster_make_hand_dream_sibling_oxygen |  
+| bip_39_word_underscore_11 | grain_digital_disorder_expand_hamster_make_hand_dream_sibling_oxygen_rubber |  
+| bip_39_word_underscore_12 | grain_digital_disorder_expand_hamster_make_hand_dream_sibling_oxygen_rubber_arch |  
+| bip_39_word_underscore_2 | grain_digital |  
+| bip_39_word_underscore_3 | grain_digital_disorder |  
+| bip_39_word_underscore_4 | grain_digital_disorder_expand |  
+| bip_39_word_underscore_5 | grain_digital_disorder_expand_hamster |  
+| bip_39_word_underscore_6 | grain_digital_disorder_expand_hamster_make |  
+| bip_39_word_underscore_7 | grain_digital_disorder_expand_hamster_make_hand |  
+| bip_39_word_underscore_8 | grain_digital_disorder_expand_hamster_make_hand_dream |  
+| bip_39_word_underscore_9 | grain_digital_disorder_expand_hamster_make_hand_dream_sibling |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

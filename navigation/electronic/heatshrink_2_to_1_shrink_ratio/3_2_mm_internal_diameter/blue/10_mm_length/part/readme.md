@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crucial |  
+| bip_39_word_dash_10 | crucial-flight-street-rebel-twin-black-raise-action-quick-avocado |  
+| bip_39_word_dash_11 | crucial-flight-street-rebel-twin-black-raise-action-quick-avocado-city |  
+| bip_39_word_dash_12 | crucial-flight-street-rebel-twin-black-raise-action-quick-avocado-city-apart |  
+| bip_39_word_dash_2 | crucial-flight |  
+| bip_39_word_dash_3 | crucial-flight-street |  
+| bip_39_word_dash_4 | crucial-flight-street-rebel |  
+| bip_39_word_dash_5 | crucial-flight-street-rebel-twin |  
+| bip_39_word_dash_6 | crucial-flight-street-rebel-twin-black |  
+| bip_39_word_dash_7 | crucial-flight-street-rebel-twin-black-raise |  
+| bip_39_word_dash_8 | crucial-flight-street-rebel-twin-black-raise-action |  
+| bip_39_word_dash_9 | crucial-flight-street-rebel-twin-black-raise-action-quick |  
 | bip_39_word_new_br_1 | crucial |  
 | bip_39_word_new_br_10 | crucial<br>flight<br>street<br>rebel<br>twin<br>black<br>raise<br>action<br>quick<br>avocado |  
 | bip_39_word_new_br_11 | crucial<br>flight<br>street<br>rebel<br>twin<br>black<br>raise<br>action<br>quick<br>avocado<br>city |  
@@ -147,6 +159,18 @@ quick |
 | bip_39_word_space_7 | crucial flight street rebel twin black raise |  
 | bip_39_word_space_8 | crucial flight street rebel twin black raise action |  
 | bip_39_word_space_9 | crucial flight street rebel twin black raise action quick |  
+| bip_39_word_underscore_1 | crucial |  
+| bip_39_word_underscore_10 | crucial_flight_street_rebel_twin_black_raise_action_quick_avocado |  
+| bip_39_word_underscore_11 | crucial_flight_street_rebel_twin_black_raise_action_quick_avocado_city |  
+| bip_39_word_underscore_12 | crucial_flight_street_rebel_twin_black_raise_action_quick_avocado_city_apart |  
+| bip_39_word_underscore_2 | crucial_flight |  
+| bip_39_word_underscore_3 | crucial_flight_street |  
+| bip_39_word_underscore_4 | crucial_flight_street_rebel |  
+| bip_39_word_underscore_5 | crucial_flight_street_rebel_twin |  
+| bip_39_word_underscore_6 | crucial_flight_street_rebel_twin_black |  
+| bip_39_word_underscore_7 | crucial_flight_street_rebel_twin_black_raise |  
+| bip_39_word_underscore_8 | crucial_flight_street_rebel_twin_black_raise_action |  
+| bip_39_word_underscore_9 | crucial_flight_street_rebel_twin_black_raise_action_quick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

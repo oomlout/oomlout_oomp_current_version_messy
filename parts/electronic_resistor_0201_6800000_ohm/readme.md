@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | material |  
+| bip_39_word_dash_10 | material-power-equal-pigeon-good-office-voyage-can-birth-town |  
+| bip_39_word_dash_11 | material-power-equal-pigeon-good-office-voyage-can-birth-town-fetch |  
+| bip_39_word_dash_12 | material-power-equal-pigeon-good-office-voyage-can-birth-town-fetch-artist |  
+| bip_39_word_dash_2 | material-power |  
+| bip_39_word_dash_3 | material-power-equal |  
+| bip_39_word_dash_4 | material-power-equal-pigeon |  
+| bip_39_word_dash_5 | material-power-equal-pigeon-good |  
+| bip_39_word_dash_6 | material-power-equal-pigeon-good-office |  
+| bip_39_word_dash_7 | material-power-equal-pigeon-good-office-voyage |  
+| bip_39_word_dash_8 | material-power-equal-pigeon-good-office-voyage-can |  
+| bip_39_word_dash_9 | material-power-equal-pigeon-good-office-voyage-can-birth |  
 | bip_39_word_new_br_1 | material |  
 | bip_39_word_new_br_10 | material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town |  
 | bip_39_word_new_br_11 | material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town<br>fetch |  
@@ -147,6 +159,18 @@ birth |
 | bip_39_word_space_7 | material power equal pigeon good office voyage |  
 | bip_39_word_space_8 | material power equal pigeon good office voyage can |  
 | bip_39_word_space_9 | material power equal pigeon good office voyage can birth |  
+| bip_39_word_underscore_1 | material |  
+| bip_39_word_underscore_10 | material_power_equal_pigeon_good_office_voyage_can_birth_town |  
+| bip_39_word_underscore_11 | material_power_equal_pigeon_good_office_voyage_can_birth_town_fetch |  
+| bip_39_word_underscore_12 | material_power_equal_pigeon_good_office_voyage_can_birth_town_fetch_artist |  
+| bip_39_word_underscore_2 | material_power |  
+| bip_39_word_underscore_3 | material_power_equal |  
+| bip_39_word_underscore_4 | material_power_equal_pigeon |  
+| bip_39_word_underscore_5 | material_power_equal_pigeon_good |  
+| bip_39_word_underscore_6 | material_power_equal_pigeon_good_office |  
+| bip_39_word_underscore_7 | material_power_equal_pigeon_good_office_voyage |  
+| bip_39_word_underscore_8 | material_power_equal_pigeon_good_office_voyage_can |  
+| bip_39_word_underscore_9 | material_power_equal_pigeon_good_office_voyage_can_birth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: horse
+bip_39_word_dash_10: horse-major-clarify-lend-battle-prosper-sleep-rotate-present-volume
+bip_39_word_dash_11: horse-major-clarify-lend-battle-prosper-sleep-rotate-present-volume-describe
+bip_39_word_dash_12: horse-major-clarify-lend-battle-prosper-sleep-rotate-present-volume-describe-artist
+bip_39_word_dash_2: horse-major
+bip_39_word_dash_3: horse-major-clarify
+bip_39_word_dash_4: horse-major-clarify-lend
+bip_39_word_dash_5: horse-major-clarify-lend-battle
+bip_39_word_dash_6: horse-major-clarify-lend-battle-prosper
+bip_39_word_dash_7: horse-major-clarify-lend-battle-prosper-sleep
+bip_39_word_dash_8: horse-major-clarify-lend-battle-prosper-sleep-rotate
+bip_39_word_dash_9: horse-major-clarify-lend-battle-prosper-sleep-rotate-present
 bip_39_word_new_br_1: horse
 bip_39_word_new_br_10: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate<br>present<br>volume
 bip_39_word_new_br_11: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate<br>present<br>volume<br>describe
@@ -194,6 +206,18 @@ bip_39_word_space_6: horse major clarify lend battle prosper
 bip_39_word_space_7: horse major clarify lend battle prosper sleep
 bip_39_word_space_8: horse major clarify lend battle prosper sleep rotate
 bip_39_word_space_9: horse major clarify lend battle prosper sleep rotate present
+bip_39_word_underscore_1: horse
+bip_39_word_underscore_10: horse_major_clarify_lend_battle_prosper_sleep_rotate_present_volume
+bip_39_word_underscore_11: horse_major_clarify_lend_battle_prosper_sleep_rotate_present_volume_describe
+bip_39_word_underscore_12: horse_major_clarify_lend_battle_prosper_sleep_rotate_present_volume_describe_artist
+bip_39_word_underscore_2: horse_major
+bip_39_word_underscore_3: horse_major_clarify
+bip_39_word_underscore_4: horse_major_clarify_lend
+bip_39_word_underscore_5: horse_major_clarify_lend_battle
+bip_39_word_underscore_6: horse_major_clarify_lend_battle_prosper
+bip_39_word_underscore_7: horse_major_clarify_lend_battle_prosper_sleep
+bip_39_word_underscore_8: horse_major_clarify_lend_battle_prosper_sleep_rotate
+bip_39_word_underscore_9: horse_major_clarify_lend_battle_prosper_sleep_rotate_present
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

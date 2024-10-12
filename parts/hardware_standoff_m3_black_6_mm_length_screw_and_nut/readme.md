@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bunker |  
+| bip_39_word_dash_10 | bunker-lounge-sort-gasp-caught-blind-cheese-flat-armed-hole |  
+| bip_39_word_dash_11 | bunker-lounge-sort-gasp-caught-blind-cheese-flat-armed-hole-can |  
+| bip_39_word_dash_12 | bunker-lounge-sort-gasp-caught-blind-cheese-flat-armed-hole-can-animal |  
+| bip_39_word_dash_2 | bunker-lounge |  
+| bip_39_word_dash_3 | bunker-lounge-sort |  
+| bip_39_word_dash_4 | bunker-lounge-sort-gasp |  
+| bip_39_word_dash_5 | bunker-lounge-sort-gasp-caught |  
+| bip_39_word_dash_6 | bunker-lounge-sort-gasp-caught-blind |  
+| bip_39_word_dash_7 | bunker-lounge-sort-gasp-caught-blind-cheese |  
+| bip_39_word_dash_8 | bunker-lounge-sort-gasp-caught-blind-cheese-flat |  
+| bip_39_word_dash_9 | bunker-lounge-sort-gasp-caught-blind-cheese-flat-armed |  
 | bip_39_word_new_br_1 | bunker |  
 | bip_39_word_new_br_10 | bunker<br>lounge<br>sort<br>gasp<br>caught<br>blind<br>cheese<br>flat<br>armed<br>hole |  
 | bip_39_word_new_br_11 | bunker<br>lounge<br>sort<br>gasp<br>caught<br>blind<br>cheese<br>flat<br>armed<br>hole<br>can |  
@@ -147,6 +159,18 @@ armed |
 | bip_39_word_space_7 | bunker lounge sort gasp caught blind cheese |  
 | bip_39_word_space_8 | bunker lounge sort gasp caught blind cheese flat |  
 | bip_39_word_space_9 | bunker lounge sort gasp caught blind cheese flat armed |  
+| bip_39_word_underscore_1 | bunker |  
+| bip_39_word_underscore_10 | bunker_lounge_sort_gasp_caught_blind_cheese_flat_armed_hole |  
+| bip_39_word_underscore_11 | bunker_lounge_sort_gasp_caught_blind_cheese_flat_armed_hole_can |  
+| bip_39_word_underscore_12 | bunker_lounge_sort_gasp_caught_blind_cheese_flat_armed_hole_can_animal |  
+| bip_39_word_underscore_2 | bunker_lounge |  
+| bip_39_word_underscore_3 | bunker_lounge_sort |  
+| bip_39_word_underscore_4 | bunker_lounge_sort_gasp |  
+| bip_39_word_underscore_5 | bunker_lounge_sort_gasp_caught |  
+| bip_39_word_underscore_6 | bunker_lounge_sort_gasp_caught_blind |  
+| bip_39_word_underscore_7 | bunker_lounge_sort_gasp_caught_blind_cheese |  
+| bip_39_word_underscore_8 | bunker_lounge_sort_gasp_caught_blind_cheese_flat |  
+| bip_39_word_underscore_9 | bunker_lounge_sort_gasp_caught_blind_cheese_flat_armed |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

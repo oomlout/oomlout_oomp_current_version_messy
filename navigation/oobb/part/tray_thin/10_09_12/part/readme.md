@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slim |  
+| bip_39_word_dash_10 | slim-just-evil-sketch-title-junior-rabbit-text-candy-exchange |  
+| bip_39_word_dash_11 | slim-just-evil-sketch-title-junior-rabbit-text-candy-exchange-priority |  
+| bip_39_word_dash_12 | slim-just-evil-sketch-title-junior-rabbit-text-candy-exchange-priority-attract |  
+| bip_39_word_dash_2 | slim-just |  
+| bip_39_word_dash_3 | slim-just-evil |  
+| bip_39_word_dash_4 | slim-just-evil-sketch |  
+| bip_39_word_dash_5 | slim-just-evil-sketch-title |  
+| bip_39_word_dash_6 | slim-just-evil-sketch-title-junior |  
+| bip_39_word_dash_7 | slim-just-evil-sketch-title-junior-rabbit |  
+| bip_39_word_dash_8 | slim-just-evil-sketch-title-junior-rabbit-text |  
+| bip_39_word_dash_9 | slim-just-evil-sketch-title-junior-rabbit-text-candy |  
 | bip_39_word_new_br_1 | slim |  
 | bip_39_word_new_br_10 | slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text<br>candy<br>exchange |  
 | bip_39_word_new_br_11 | slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text<br>candy<br>exchange<br>priority |  
@@ -147,6 +159,18 @@ candy |
 | bip_39_word_space_7 | slim just evil sketch title junior rabbit |  
 | bip_39_word_space_8 | slim just evil sketch title junior rabbit text |  
 | bip_39_word_space_9 | slim just evil sketch title junior rabbit text candy |  
+| bip_39_word_underscore_1 | slim |  
+| bip_39_word_underscore_10 | slim_just_evil_sketch_title_junior_rabbit_text_candy_exchange |  
+| bip_39_word_underscore_11 | slim_just_evil_sketch_title_junior_rabbit_text_candy_exchange_priority |  
+| bip_39_word_underscore_12 | slim_just_evil_sketch_title_junior_rabbit_text_candy_exchange_priority_attract |  
+| bip_39_word_underscore_2 | slim_just |  
+| bip_39_word_underscore_3 | slim_just_evil |  
+| bip_39_word_underscore_4 | slim_just_evil_sketch |  
+| bip_39_word_underscore_5 | slim_just_evil_sketch_title |  
+| bip_39_word_underscore_6 | slim_just_evil_sketch_title_junior |  
+| bip_39_word_underscore_7 | slim_just_evil_sketch_title_junior_rabbit |  
+| bip_39_word_underscore_8 | slim_just_evil_sketch_title_junior_rabbit_text |  
+| bip_39_word_underscore_9 | slim_just_evil_sketch_title_junior_rabbit_text_candy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

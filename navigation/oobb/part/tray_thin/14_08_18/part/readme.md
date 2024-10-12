@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tortoise |  
+| bip_39_word_dash_10 | tortoise-april-win-season-sweet-casual-amount-element-ostrich-helmet |  
+| bip_39_word_dash_11 | tortoise-april-win-season-sweet-casual-amount-element-ostrich-helmet-assume |  
+| bip_39_word_dash_12 | tortoise-april-win-season-sweet-casual-amount-element-ostrich-helmet-assume-advice |  
+| bip_39_word_dash_2 | tortoise-april |  
+| bip_39_word_dash_3 | tortoise-april-win |  
+| bip_39_word_dash_4 | tortoise-april-win-season |  
+| bip_39_word_dash_5 | tortoise-april-win-season-sweet |  
+| bip_39_word_dash_6 | tortoise-april-win-season-sweet-casual |  
+| bip_39_word_dash_7 | tortoise-april-win-season-sweet-casual-amount |  
+| bip_39_word_dash_8 | tortoise-april-win-season-sweet-casual-amount-element |  
+| bip_39_word_dash_9 | tortoise-april-win-season-sweet-casual-amount-element-ostrich |  
 | bip_39_word_new_br_1 | tortoise |  
 | bip_39_word_new_br_10 | tortoise<br>april<br>win<br>season<br>sweet<br>casual<br>amount<br>element<br>ostrich<br>helmet |  
 | bip_39_word_new_br_11 | tortoise<br>april<br>win<br>season<br>sweet<br>casual<br>amount<br>element<br>ostrich<br>helmet<br>assume |  
@@ -147,6 +159,18 @@ ostrich |
 | bip_39_word_space_7 | tortoise april win season sweet casual amount |  
 | bip_39_word_space_8 | tortoise april win season sweet casual amount element |  
 | bip_39_word_space_9 | tortoise april win season sweet casual amount element ostrich |  
+| bip_39_word_underscore_1 | tortoise |  
+| bip_39_word_underscore_10 | tortoise_april_win_season_sweet_casual_amount_element_ostrich_helmet |  
+| bip_39_word_underscore_11 | tortoise_april_win_season_sweet_casual_amount_element_ostrich_helmet_assume |  
+| bip_39_word_underscore_12 | tortoise_april_win_season_sweet_casual_amount_element_ostrich_helmet_assume_advice |  
+| bip_39_word_underscore_2 | tortoise_april |  
+| bip_39_word_underscore_3 | tortoise_april_win |  
+| bip_39_word_underscore_4 | tortoise_april_win_season |  
+| bip_39_word_underscore_5 | tortoise_april_win_season_sweet |  
+| bip_39_word_underscore_6 | tortoise_april_win_season_sweet_casual |  
+| bip_39_word_underscore_7 | tortoise_april_win_season_sweet_casual_amount |  
+| bip_39_word_underscore_8 | tortoise_april_win_season_sweet_casual_amount_element |  
+| bip_39_word_underscore_9 | tortoise_april_win_season_sweet_casual_amount_element_ostrich |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

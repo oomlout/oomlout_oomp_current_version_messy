@@ -1,3 +1,15 @@
+bip_39_word_dash_1: silent
+bip_39_word_dash_10: silent-waste-patrol-oxygen-eager-verify-retreat-february-badge-public
+bip_39_word_dash_11: silent-waste-patrol-oxygen-eager-verify-retreat-february-badge-public-volume
+bip_39_word_dash_12: silent-waste-patrol-oxygen-eager-verify-retreat-february-badge-public-volume-arch
+bip_39_word_dash_2: silent-waste
+bip_39_word_dash_3: silent-waste-patrol
+bip_39_word_dash_4: silent-waste-patrol-oxygen
+bip_39_word_dash_5: silent-waste-patrol-oxygen-eager
+bip_39_word_dash_6: silent-waste-patrol-oxygen-eager-verify
+bip_39_word_dash_7: silent-waste-patrol-oxygen-eager-verify-retreat
+bip_39_word_dash_8: silent-waste-patrol-oxygen-eager-verify-retreat-february
+bip_39_word_dash_9: silent-waste-patrol-oxygen-eager-verify-retreat-february-badge
 bip_39_word_new_br_1: silent
 bip_39_word_new_br_10: silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public
 bip_39_word_new_br_11: silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public<br>volume
@@ -194,6 +206,18 @@ bip_39_word_space_6: silent waste patrol oxygen eager verify
 bip_39_word_space_7: silent waste patrol oxygen eager verify retreat
 bip_39_word_space_8: silent waste patrol oxygen eager verify retreat february
 bip_39_word_space_9: silent waste patrol oxygen eager verify retreat february badge
+bip_39_word_underscore_1: silent
+bip_39_word_underscore_10: silent_waste_patrol_oxygen_eager_verify_retreat_february_badge_public
+bip_39_word_underscore_11: silent_waste_patrol_oxygen_eager_verify_retreat_february_badge_public_volume
+bip_39_word_underscore_12: silent_waste_patrol_oxygen_eager_verify_retreat_february_badge_public_volume_arch
+bip_39_word_underscore_2: silent_waste
+bip_39_word_underscore_3: silent_waste_patrol
+bip_39_word_underscore_4: silent_waste_patrol_oxygen
+bip_39_word_underscore_5: silent_waste_patrol_oxygen_eager
+bip_39_word_underscore_6: silent_waste_patrol_oxygen_eager_verify
+bip_39_word_underscore_7: silent_waste_patrol_oxygen_eager_verify_retreat
+bip_39_word_underscore_8: silent_waste_patrol_oxygen_eager_verify_retreat_february
+bip_39_word_underscore_9: silent_waste_patrol_oxygen_eager_verify_retreat_february_badge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

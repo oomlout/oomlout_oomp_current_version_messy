@@ -1,3 +1,15 @@
+bip_39_word_dash_1: myself
+bip_39_word_dash_10: myself-grocery-follow-skin-taste-juice-december-celery-tiny-little
+bip_39_word_dash_11: myself-grocery-follow-skin-taste-juice-december-celery-tiny-little-soup
+bip_39_word_dash_12: myself-grocery-follow-skin-taste-juice-december-celery-tiny-little-soup-alpha
+bip_39_word_dash_2: myself-grocery
+bip_39_word_dash_3: myself-grocery-follow
+bip_39_word_dash_4: myself-grocery-follow-skin
+bip_39_word_dash_5: myself-grocery-follow-skin-taste
+bip_39_word_dash_6: myself-grocery-follow-skin-taste-juice
+bip_39_word_dash_7: myself-grocery-follow-skin-taste-juice-december
+bip_39_word_dash_8: myself-grocery-follow-skin-taste-juice-december-celery
+bip_39_word_dash_9: myself-grocery-follow-skin-taste-juice-december-celery-tiny
 bip_39_word_new_br_1: myself
 bip_39_word_new_br_10: myself<br>grocery<br>follow<br>skin<br>taste<br>juice<br>december<br>celery<br>tiny<br>little
 bip_39_word_new_br_11: myself<br>grocery<br>follow<br>skin<br>taste<br>juice<br>december<br>celery<br>tiny<br>little<br>soup
@@ -194,6 +206,18 @@ bip_39_word_space_6: myself grocery follow skin taste juice
 bip_39_word_space_7: myself grocery follow skin taste juice december
 bip_39_word_space_8: myself grocery follow skin taste juice december celery
 bip_39_word_space_9: myself grocery follow skin taste juice december celery tiny
+bip_39_word_underscore_1: myself
+bip_39_word_underscore_10: myself_grocery_follow_skin_taste_juice_december_celery_tiny_little
+bip_39_word_underscore_11: myself_grocery_follow_skin_taste_juice_december_celery_tiny_little_soup
+bip_39_word_underscore_12: myself_grocery_follow_skin_taste_juice_december_celery_tiny_little_soup_alpha
+bip_39_word_underscore_2: myself_grocery
+bip_39_word_underscore_3: myself_grocery_follow
+bip_39_word_underscore_4: myself_grocery_follow_skin
+bip_39_word_underscore_5: myself_grocery_follow_skin_taste
+bip_39_word_underscore_6: myself_grocery_follow_skin_taste_juice
+bip_39_word_underscore_7: myself_grocery_follow_skin_taste_juice_december
+bip_39_word_underscore_8: myself_grocery_follow_skin_taste_juice_december_celery
+bip_39_word_underscore_9: myself_grocery_follow_skin_taste_juice_december_celery_tiny
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

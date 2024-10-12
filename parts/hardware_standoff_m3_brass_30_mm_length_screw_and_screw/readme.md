@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | devote |  
+| bip_39_word_dash_10 | devote-other-once-cry-tiny-easy-wait-lottery-demise-neither |  
+| bip_39_word_dash_11 | devote-other-once-cry-tiny-easy-wait-lottery-demise-neither-truck |  
+| bip_39_word_dash_12 | devote-other-once-cry-tiny-easy-wait-lottery-demise-neither-truck-all |  
+| bip_39_word_dash_2 | devote-other |  
+| bip_39_word_dash_3 | devote-other-once |  
+| bip_39_word_dash_4 | devote-other-once-cry |  
+| bip_39_word_dash_5 | devote-other-once-cry-tiny |  
+| bip_39_word_dash_6 | devote-other-once-cry-tiny-easy |  
+| bip_39_word_dash_7 | devote-other-once-cry-tiny-easy-wait |  
+| bip_39_word_dash_8 | devote-other-once-cry-tiny-easy-wait-lottery |  
+| bip_39_word_dash_9 | devote-other-once-cry-tiny-easy-wait-lottery-demise |  
 | bip_39_word_new_br_1 | devote |  
 | bip_39_word_new_br_10 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither |  
 | bip_39_word_new_br_11 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither<br>truck |  
@@ -147,6 +159,18 @@ demise |
 | bip_39_word_space_7 | devote other once cry tiny easy wait |  
 | bip_39_word_space_8 | devote other once cry tiny easy wait lottery |  
 | bip_39_word_space_9 | devote other once cry tiny easy wait lottery demise |  
+| bip_39_word_underscore_1 | devote |  
+| bip_39_word_underscore_10 | devote_other_once_cry_tiny_easy_wait_lottery_demise_neither |  
+| bip_39_word_underscore_11 | devote_other_once_cry_tiny_easy_wait_lottery_demise_neither_truck |  
+| bip_39_word_underscore_12 | devote_other_once_cry_tiny_easy_wait_lottery_demise_neither_truck_all |  
+| bip_39_word_underscore_2 | devote_other |  
+| bip_39_word_underscore_3 | devote_other_once |  
+| bip_39_word_underscore_4 | devote_other_once_cry |  
+| bip_39_word_underscore_5 | devote_other_once_cry_tiny |  
+| bip_39_word_underscore_6 | devote_other_once_cry_tiny_easy |  
+| bip_39_word_underscore_7 | devote_other_once_cry_tiny_easy_wait |  
+| bip_39_word_underscore_8 | devote_other_once_cry_tiny_easy_wait_lottery |  
+| bip_39_word_underscore_9 | devote_other_once_cry_tiny_easy_wait_lottery_demise |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

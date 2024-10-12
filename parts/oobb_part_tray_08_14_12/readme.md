@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | area |  
+| bip_39_word_dash_10 | area-seat-second-kit-win-favorite-try-finger-candy-essence |  
+| bip_39_word_dash_11 | area-seat-second-kit-win-favorite-try-finger-candy-essence-armed |  
+| bip_39_word_dash_12 | area-seat-second-kit-win-favorite-try-finger-candy-essence-armed-author |  
+| bip_39_word_dash_2 | area-seat |  
+| bip_39_word_dash_3 | area-seat-second |  
+| bip_39_word_dash_4 | area-seat-second-kit |  
+| bip_39_word_dash_5 | area-seat-second-kit-win |  
+| bip_39_word_dash_6 | area-seat-second-kit-win-favorite |  
+| bip_39_word_dash_7 | area-seat-second-kit-win-favorite-try |  
+| bip_39_word_dash_8 | area-seat-second-kit-win-favorite-try-finger |  
+| bip_39_word_dash_9 | area-seat-second-kit-win-favorite-try-finger-candy |  
 | bip_39_word_new_br_1 | area |  
 | bip_39_word_new_br_10 | area<br>seat<br>second<br>kit<br>win<br>favorite<br>try<br>finger<br>candy<br>essence |  
 | bip_39_word_new_br_11 | area<br>seat<br>second<br>kit<br>win<br>favorite<br>try<br>finger<br>candy<br>essence<br>armed |  
@@ -147,6 +159,18 @@ candy |
 | bip_39_word_space_7 | area seat second kit win favorite try |  
 | bip_39_word_space_8 | area seat second kit win favorite try finger |  
 | bip_39_word_space_9 | area seat second kit win favorite try finger candy |  
+| bip_39_word_underscore_1 | area |  
+| bip_39_word_underscore_10 | area_seat_second_kit_win_favorite_try_finger_candy_essence |  
+| bip_39_word_underscore_11 | area_seat_second_kit_win_favorite_try_finger_candy_essence_armed |  
+| bip_39_word_underscore_12 | area_seat_second_kit_win_favorite_try_finger_candy_essence_armed_author |  
+| bip_39_word_underscore_2 | area_seat |  
+| bip_39_word_underscore_3 | area_seat_second |  
+| bip_39_word_underscore_4 | area_seat_second_kit |  
+| bip_39_word_underscore_5 | area_seat_second_kit_win |  
+| bip_39_word_underscore_6 | area_seat_second_kit_win_favorite |  
+| bip_39_word_underscore_7 | area_seat_second_kit_win_favorite_try |  
+| bip_39_word_underscore_8 | area_seat_second_kit_win_favorite_try_finger |  
+| bip_39_word_underscore_9 | area_seat_second_kit_win_favorite_try_finger_candy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: alpha
+bip_39_word_dash_10: alpha-twice-arrange-device-cushion-change-mimic-survey-blue-notable
+bip_39_word_dash_11: alpha-twice-arrange-device-cushion-change-mimic-survey-blue-notable-disorder
+bip_39_word_dash_12: alpha-twice-arrange-device-cushion-change-mimic-survey-blue-notable-disorder-anchor
+bip_39_word_dash_2: alpha-twice
+bip_39_word_dash_3: alpha-twice-arrange
+bip_39_word_dash_4: alpha-twice-arrange-device
+bip_39_word_dash_5: alpha-twice-arrange-device-cushion
+bip_39_word_dash_6: alpha-twice-arrange-device-cushion-change
+bip_39_word_dash_7: alpha-twice-arrange-device-cushion-change-mimic
+bip_39_word_dash_8: alpha-twice-arrange-device-cushion-change-mimic-survey
+bip_39_word_dash_9: alpha-twice-arrange-device-cushion-change-mimic-survey-blue
 bip_39_word_new_br_1: alpha
 bip_39_word_new_br_10: alpha<br>twice<br>arrange<br>device<br>cushion<br>change<br>mimic<br>survey<br>blue<br>notable
 bip_39_word_new_br_11: alpha<br>twice<br>arrange<br>device<br>cushion<br>change<br>mimic<br>survey<br>blue<br>notable<br>disorder
@@ -194,6 +206,18 @@ bip_39_word_space_6: alpha twice arrange device cushion change
 bip_39_word_space_7: alpha twice arrange device cushion change mimic
 bip_39_word_space_8: alpha twice arrange device cushion change mimic survey
 bip_39_word_space_9: alpha twice arrange device cushion change mimic survey blue
+bip_39_word_underscore_1: alpha
+bip_39_word_underscore_10: alpha_twice_arrange_device_cushion_change_mimic_survey_blue_notable
+bip_39_word_underscore_11: alpha_twice_arrange_device_cushion_change_mimic_survey_blue_notable_disorder
+bip_39_word_underscore_12: alpha_twice_arrange_device_cushion_change_mimic_survey_blue_notable_disorder_anchor
+bip_39_word_underscore_2: alpha_twice
+bip_39_word_underscore_3: alpha_twice_arrange
+bip_39_word_underscore_4: alpha_twice_arrange_device
+bip_39_word_underscore_5: alpha_twice_arrange_device_cushion
+bip_39_word_underscore_6: alpha_twice_arrange_device_cushion_change
+bip_39_word_underscore_7: alpha_twice_arrange_device_cushion_change_mimic
+bip_39_word_underscore_8: alpha_twice_arrange_device_cushion_change_mimic_survey
+bip_39_word_underscore_9: alpha_twice_arrange_device_cushion_change_mimic_survey_blue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

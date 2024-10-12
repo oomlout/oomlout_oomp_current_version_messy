@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | naive |  
+| bip_39_word_dash_10 | naive-inspire-disagree-banner-animal-secret-aerobic-cream-indoor-ocean |  
+| bip_39_word_dash_11 | naive-inspire-disagree-banner-animal-secret-aerobic-cream-indoor-ocean-please |  
+| bip_39_word_dash_12 | naive-inspire-disagree-banner-animal-secret-aerobic-cream-indoor-ocean-please-across |  
+| bip_39_word_dash_2 | naive-inspire |  
+| bip_39_word_dash_3 | naive-inspire-disagree |  
+| bip_39_word_dash_4 | naive-inspire-disagree-banner |  
+| bip_39_word_dash_5 | naive-inspire-disagree-banner-animal |  
+| bip_39_word_dash_6 | naive-inspire-disagree-banner-animal-secret |  
+| bip_39_word_dash_7 | naive-inspire-disagree-banner-animal-secret-aerobic |  
+| bip_39_word_dash_8 | naive-inspire-disagree-banner-animal-secret-aerobic-cream |  
+| bip_39_word_dash_9 | naive-inspire-disagree-banner-animal-secret-aerobic-cream-indoor |  
 | bip_39_word_new_br_1 | naive |  
 | bip_39_word_new_br_10 | naive<br>inspire<br>disagree<br>banner<br>animal<br>secret<br>aerobic<br>cream<br>indoor<br>ocean |  
 | bip_39_word_new_br_11 | naive<br>inspire<br>disagree<br>banner<br>animal<br>secret<br>aerobic<br>cream<br>indoor<br>ocean<br>please |  
@@ -147,6 +159,18 @@ indoor |
 | bip_39_word_space_7 | naive inspire disagree banner animal secret aerobic |  
 | bip_39_word_space_8 | naive inspire disagree banner animal secret aerobic cream |  
 | bip_39_word_space_9 | naive inspire disagree banner animal secret aerobic cream indoor |  
+| bip_39_word_underscore_1 | naive |  
+| bip_39_word_underscore_10 | naive_inspire_disagree_banner_animal_secret_aerobic_cream_indoor_ocean |  
+| bip_39_word_underscore_11 | naive_inspire_disagree_banner_animal_secret_aerobic_cream_indoor_ocean_please |  
+| bip_39_word_underscore_12 | naive_inspire_disagree_banner_animal_secret_aerobic_cream_indoor_ocean_please_across |  
+| bip_39_word_underscore_2 | naive_inspire |  
+| bip_39_word_underscore_3 | naive_inspire_disagree |  
+| bip_39_word_underscore_4 | naive_inspire_disagree_banner |  
+| bip_39_word_underscore_5 | naive_inspire_disagree_banner_animal |  
+| bip_39_word_underscore_6 | naive_inspire_disagree_banner_animal_secret |  
+| bip_39_word_underscore_7 | naive_inspire_disagree_banner_animal_secret_aerobic |  
+| bip_39_word_underscore_8 | naive_inspire_disagree_banner_animal_secret_aerobic_cream |  
+| bip_39_word_underscore_9 | naive_inspire_disagree_banner_animal_secret_aerobic_cream_indoor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

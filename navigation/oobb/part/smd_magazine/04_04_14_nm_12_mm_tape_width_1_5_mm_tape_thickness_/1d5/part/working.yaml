@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mad
+bip_39_word_dash_10: mad-animal-poem-rug-lab-sponsor-inhale-wisdom-urge-obey
+bip_39_word_dash_11: mad-animal-poem-rug-lab-sponsor-inhale-wisdom-urge-obey-route
+bip_39_word_dash_12: mad-animal-poem-rug-lab-sponsor-inhale-wisdom-urge-obey-route-also
+bip_39_word_dash_2: mad-animal
+bip_39_word_dash_3: mad-animal-poem
+bip_39_word_dash_4: mad-animal-poem-rug
+bip_39_word_dash_5: mad-animal-poem-rug-lab
+bip_39_word_dash_6: mad-animal-poem-rug-lab-sponsor
+bip_39_word_dash_7: mad-animal-poem-rug-lab-sponsor-inhale
+bip_39_word_dash_8: mad-animal-poem-rug-lab-sponsor-inhale-wisdom
+bip_39_word_dash_9: mad-animal-poem-rug-lab-sponsor-inhale-wisdom-urge
 bip_39_word_new_br_1: mad
 bip_39_word_new_br_10: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey
 bip_39_word_new_br_11: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey<br>route
@@ -192,6 +204,18 @@ bip_39_word_space_6: mad animal poem rug lab sponsor
 bip_39_word_space_7: mad animal poem rug lab sponsor inhale
 bip_39_word_space_8: mad animal poem rug lab sponsor inhale wisdom
 bip_39_word_space_9: mad animal poem rug lab sponsor inhale wisdom urge
+bip_39_word_underscore_1: mad
+bip_39_word_underscore_10: mad_animal_poem_rug_lab_sponsor_inhale_wisdom_urge_obey
+bip_39_word_underscore_11: mad_animal_poem_rug_lab_sponsor_inhale_wisdom_urge_obey_route
+bip_39_word_underscore_12: mad_animal_poem_rug_lab_sponsor_inhale_wisdom_urge_obey_route_also
+bip_39_word_underscore_2: mad_animal
+bip_39_word_underscore_3: mad_animal_poem
+bip_39_word_underscore_4: mad_animal_poem_rug
+bip_39_word_underscore_5: mad_animal_poem_rug_lab
+bip_39_word_underscore_6: mad_animal_poem_rug_lab_sponsor
+bip_39_word_underscore_7: mad_animal_poem_rug_lab_sponsor_inhale
+bip_39_word_underscore_8: mad_animal_poem_rug_lab_sponsor_inhale_wisdom
+bip_39_word_underscore_9: mad_animal_poem_rug_lab_sponsor_inhale_wisdom_urge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

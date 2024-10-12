@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | beauty |  
+| bip_39_word_dash_10 | beauty-choose-ill-embrace-garment-dial-version-cube-sorry-neglect |  
+| bip_39_word_dash_11 | beauty-choose-ill-embrace-garment-dial-version-cube-sorry-neglect-impulse |  
+| bip_39_word_dash_12 | beauty-choose-ill-embrace-garment-dial-version-cube-sorry-neglect-impulse-advice |  
+| bip_39_word_dash_2 | beauty-choose |  
+| bip_39_word_dash_3 | beauty-choose-ill |  
+| bip_39_word_dash_4 | beauty-choose-ill-embrace |  
+| bip_39_word_dash_5 | beauty-choose-ill-embrace-garment |  
+| bip_39_word_dash_6 | beauty-choose-ill-embrace-garment-dial |  
+| bip_39_word_dash_7 | beauty-choose-ill-embrace-garment-dial-version |  
+| bip_39_word_dash_8 | beauty-choose-ill-embrace-garment-dial-version-cube |  
+| bip_39_word_dash_9 | beauty-choose-ill-embrace-garment-dial-version-cube-sorry |  
 | bip_39_word_new_br_1 | beauty |  
 | bip_39_word_new_br_10 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect |  
 | bip_39_word_new_br_11 | beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect<br>impulse |  
@@ -147,6 +159,18 @@ sorry |
 | bip_39_word_space_7 | beauty choose ill embrace garment dial version |  
 | bip_39_word_space_8 | beauty choose ill embrace garment dial version cube |  
 | bip_39_word_space_9 | beauty choose ill embrace garment dial version cube sorry |  
+| bip_39_word_underscore_1 | beauty |  
+| bip_39_word_underscore_10 | beauty_choose_ill_embrace_garment_dial_version_cube_sorry_neglect |  
+| bip_39_word_underscore_11 | beauty_choose_ill_embrace_garment_dial_version_cube_sorry_neglect_impulse |  
+| bip_39_word_underscore_12 | beauty_choose_ill_embrace_garment_dial_version_cube_sorry_neglect_impulse_advice |  
+| bip_39_word_underscore_2 | beauty_choose |  
+| bip_39_word_underscore_3 | beauty_choose_ill |  
+| bip_39_word_underscore_4 | beauty_choose_ill_embrace |  
+| bip_39_word_underscore_5 | beauty_choose_ill_embrace_garment |  
+| bip_39_word_underscore_6 | beauty_choose_ill_embrace_garment_dial |  
+| bip_39_word_underscore_7 | beauty_choose_ill_embrace_garment_dial_version |  
+| bip_39_word_underscore_8 | beauty_choose_ill_embrace_garment_dial_version_cube |  
+| bip_39_word_underscore_9 | beauty_choose_ill_embrace_garment_dial_version_cube_sorry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

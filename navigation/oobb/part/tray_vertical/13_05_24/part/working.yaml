@@ -1,3 +1,15 @@
+bip_39_word_dash_1: junk
+bip_39_word_dash_10: junk-tribe-finger-raccoon-fashion-wing-snow-law-trick-top
+bip_39_word_dash_11: junk-tribe-finger-raccoon-fashion-wing-snow-law-trick-top-erase
+bip_39_word_dash_12: junk-tribe-finger-raccoon-fashion-wing-snow-law-trick-top-erase-artwork
+bip_39_word_dash_2: junk-tribe
+bip_39_word_dash_3: junk-tribe-finger
+bip_39_word_dash_4: junk-tribe-finger-raccoon
+bip_39_word_dash_5: junk-tribe-finger-raccoon-fashion
+bip_39_word_dash_6: junk-tribe-finger-raccoon-fashion-wing
+bip_39_word_dash_7: junk-tribe-finger-raccoon-fashion-wing-snow
+bip_39_word_dash_8: junk-tribe-finger-raccoon-fashion-wing-snow-law
+bip_39_word_dash_9: junk-tribe-finger-raccoon-fashion-wing-snow-law-trick
 bip_39_word_new_br_1: junk
 bip_39_word_new_br_10: junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law<br>trick<br>top
 bip_39_word_new_br_11: junk<br>tribe<br>finger<br>raccoon<br>fashion<br>wing<br>snow<br>law<br>trick<br>top<br>erase
@@ -192,6 +204,18 @@ bip_39_word_space_6: junk tribe finger raccoon fashion wing
 bip_39_word_space_7: junk tribe finger raccoon fashion wing snow
 bip_39_word_space_8: junk tribe finger raccoon fashion wing snow law
 bip_39_word_space_9: junk tribe finger raccoon fashion wing snow law trick
+bip_39_word_underscore_1: junk
+bip_39_word_underscore_10: junk_tribe_finger_raccoon_fashion_wing_snow_law_trick_top
+bip_39_word_underscore_11: junk_tribe_finger_raccoon_fashion_wing_snow_law_trick_top_erase
+bip_39_word_underscore_12: junk_tribe_finger_raccoon_fashion_wing_snow_law_trick_top_erase_artwork
+bip_39_word_underscore_2: junk_tribe
+bip_39_word_underscore_3: junk_tribe_finger
+bip_39_word_underscore_4: junk_tribe_finger_raccoon
+bip_39_word_underscore_5: junk_tribe_finger_raccoon_fashion
+bip_39_word_underscore_6: junk_tribe_finger_raccoon_fashion_wing
+bip_39_word_underscore_7: junk_tribe_finger_raccoon_fashion_wing_snow
+bip_39_word_underscore_8: junk_tribe_finger_raccoon_fashion_wing_snow_law
+bip_39_word_underscore_9: junk_tribe_finger_raccoon_fashion_wing_snow_law_trick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

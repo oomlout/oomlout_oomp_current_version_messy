@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | floor |  
+| bip_39_word_dash_10 | floor-spawn-turn-inject-move-resemble-stone-recycle-trigger-pudding |  
+| bip_39_word_dash_11 | floor-spawn-turn-inject-move-resemble-stone-recycle-trigger-pudding-vacant |  
+| bip_39_word_dash_12 | floor-spawn-turn-inject-move-resemble-stone-recycle-trigger-pudding-vacant-again |  
+| bip_39_word_dash_2 | floor-spawn |  
+| bip_39_word_dash_3 | floor-spawn-turn |  
+| bip_39_word_dash_4 | floor-spawn-turn-inject |  
+| bip_39_word_dash_5 | floor-spawn-turn-inject-move |  
+| bip_39_word_dash_6 | floor-spawn-turn-inject-move-resemble |  
+| bip_39_word_dash_7 | floor-spawn-turn-inject-move-resemble-stone |  
+| bip_39_word_dash_8 | floor-spawn-turn-inject-move-resemble-stone-recycle |  
+| bip_39_word_dash_9 | floor-spawn-turn-inject-move-resemble-stone-recycle-trigger |  
 | bip_39_word_new_br_1 | floor |  
 | bip_39_word_new_br_10 | floor<br>spawn<br>turn<br>inject<br>move<br>resemble<br>stone<br>recycle<br>trigger<br>pudding |  
 | bip_39_word_new_br_11 | floor<br>spawn<br>turn<br>inject<br>move<br>resemble<br>stone<br>recycle<br>trigger<br>pudding<br>vacant |  
@@ -147,6 +159,18 @@ trigger |
 | bip_39_word_space_7 | floor spawn turn inject move resemble stone |  
 | bip_39_word_space_8 | floor spawn turn inject move resemble stone recycle |  
 | bip_39_word_space_9 | floor spawn turn inject move resemble stone recycle trigger |  
+| bip_39_word_underscore_1 | floor |  
+| bip_39_word_underscore_10 | floor_spawn_turn_inject_move_resemble_stone_recycle_trigger_pudding |  
+| bip_39_word_underscore_11 | floor_spawn_turn_inject_move_resemble_stone_recycle_trigger_pudding_vacant |  
+| bip_39_word_underscore_12 | floor_spawn_turn_inject_move_resemble_stone_recycle_trigger_pudding_vacant_again |  
+| bip_39_word_underscore_2 | floor_spawn |  
+| bip_39_word_underscore_3 | floor_spawn_turn |  
+| bip_39_word_underscore_4 | floor_spawn_turn_inject |  
+| bip_39_word_underscore_5 | floor_spawn_turn_inject_move |  
+| bip_39_word_underscore_6 | floor_spawn_turn_inject_move_resemble |  
+| bip_39_word_underscore_7 | floor_spawn_turn_inject_move_resemble_stone |  
+| bip_39_word_underscore_8 | floor_spawn_turn_inject_move_resemble_stone_recycle |  
+| bip_39_word_underscore_9 | floor_spawn_turn_inject_move_resemble_stone_recycle_trigger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trash |  
+| bip_39_word_dash_10 | trash-motion-accuse-sport-flag-wing-resemble-quarter-despair-muffin |  
+| bip_39_word_dash_11 | trash-motion-accuse-sport-flag-wing-resemble-quarter-despair-muffin-wear |  
+| bip_39_word_dash_12 | trash-motion-accuse-sport-flag-wing-resemble-quarter-despair-muffin-wear-athlete |  
+| bip_39_word_dash_2 | trash-motion |  
+| bip_39_word_dash_3 | trash-motion-accuse |  
+| bip_39_word_dash_4 | trash-motion-accuse-sport |  
+| bip_39_word_dash_5 | trash-motion-accuse-sport-flag |  
+| bip_39_word_dash_6 | trash-motion-accuse-sport-flag-wing |  
+| bip_39_word_dash_7 | trash-motion-accuse-sport-flag-wing-resemble |  
+| bip_39_word_dash_8 | trash-motion-accuse-sport-flag-wing-resemble-quarter |  
+| bip_39_word_dash_9 | trash-motion-accuse-sport-flag-wing-resemble-quarter-despair |  
 | bip_39_word_new_br_1 | trash |  
 | bip_39_word_new_br_10 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin |  
 | bip_39_word_new_br_11 | trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin<br>wear |  
@@ -147,6 +159,18 @@ despair |
 | bip_39_word_space_7 | trash motion accuse sport flag wing resemble |  
 | bip_39_word_space_8 | trash motion accuse sport flag wing resemble quarter |  
 | bip_39_word_space_9 | trash motion accuse sport flag wing resemble quarter despair |  
+| bip_39_word_underscore_1 | trash |  
+| bip_39_word_underscore_10 | trash_motion_accuse_sport_flag_wing_resemble_quarter_despair_muffin |  
+| bip_39_word_underscore_11 | trash_motion_accuse_sport_flag_wing_resemble_quarter_despair_muffin_wear |  
+| bip_39_word_underscore_12 | trash_motion_accuse_sport_flag_wing_resemble_quarter_despair_muffin_wear_athlete |  
+| bip_39_word_underscore_2 | trash_motion |  
+| bip_39_word_underscore_3 | trash_motion_accuse |  
+| bip_39_word_underscore_4 | trash_motion_accuse_sport |  
+| bip_39_word_underscore_5 | trash_motion_accuse_sport_flag |  
+| bip_39_word_underscore_6 | trash_motion_accuse_sport_flag_wing |  
+| bip_39_word_underscore_7 | trash_motion_accuse_sport_flag_wing_resemble |  
+| bip_39_word_underscore_8 | trash_motion_accuse_sport_flag_wing_resemble_quarter |  
+| bip_39_word_underscore_9 | trash_motion_accuse_sport_flag_wing_resemble_quarter_despair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

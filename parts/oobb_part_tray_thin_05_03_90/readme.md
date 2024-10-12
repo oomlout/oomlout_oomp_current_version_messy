@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | egg |  
+| bip_39_word_dash_10 | egg-arrive-mask-prosper-garlic-lottery-idea-group-torch-live |  
+| bip_39_word_dash_11 | egg-arrive-mask-prosper-garlic-lottery-idea-group-torch-live-brown |  
+| bip_39_word_dash_12 | egg-arrive-mask-prosper-garlic-lottery-idea-group-torch-live-brown-accident |  
+| bip_39_word_dash_2 | egg-arrive |  
+| bip_39_word_dash_3 | egg-arrive-mask |  
+| bip_39_word_dash_4 | egg-arrive-mask-prosper |  
+| bip_39_word_dash_5 | egg-arrive-mask-prosper-garlic |  
+| bip_39_word_dash_6 | egg-arrive-mask-prosper-garlic-lottery |  
+| bip_39_word_dash_7 | egg-arrive-mask-prosper-garlic-lottery-idea |  
+| bip_39_word_dash_8 | egg-arrive-mask-prosper-garlic-lottery-idea-group |  
+| bip_39_word_dash_9 | egg-arrive-mask-prosper-garlic-lottery-idea-group-torch |  
 | bip_39_word_new_br_1 | egg |  
 | bip_39_word_new_br_10 | egg<br>arrive<br>mask<br>prosper<br>garlic<br>lottery<br>idea<br>group<br>torch<br>live |  
 | bip_39_word_new_br_11 | egg<br>arrive<br>mask<br>prosper<br>garlic<br>lottery<br>idea<br>group<br>torch<br>live<br>brown |  
@@ -147,6 +159,18 @@ torch |
 | bip_39_word_space_7 | egg arrive mask prosper garlic lottery idea |  
 | bip_39_word_space_8 | egg arrive mask prosper garlic lottery idea group |  
 | bip_39_word_space_9 | egg arrive mask prosper garlic lottery idea group torch |  
+| bip_39_word_underscore_1 | egg |  
+| bip_39_word_underscore_10 | egg_arrive_mask_prosper_garlic_lottery_idea_group_torch_live |  
+| bip_39_word_underscore_11 | egg_arrive_mask_prosper_garlic_lottery_idea_group_torch_live_brown |  
+| bip_39_word_underscore_12 | egg_arrive_mask_prosper_garlic_lottery_idea_group_torch_live_brown_accident |  
+| bip_39_word_underscore_2 | egg_arrive |  
+| bip_39_word_underscore_3 | egg_arrive_mask |  
+| bip_39_word_underscore_4 | egg_arrive_mask_prosper |  
+| bip_39_word_underscore_5 | egg_arrive_mask_prosper_garlic |  
+| bip_39_word_underscore_6 | egg_arrive_mask_prosper_garlic_lottery |  
+| bip_39_word_underscore_7 | egg_arrive_mask_prosper_garlic_lottery_idea |  
+| bip_39_word_underscore_8 | egg_arrive_mask_prosper_garlic_lottery_idea_group |  
+| bip_39_word_underscore_9 | egg_arrive_mask_prosper_garlic_lottery_idea_group_torch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

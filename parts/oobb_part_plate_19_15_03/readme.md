@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | travel |  
+| bip_39_word_dash_10 | travel-high-guess-garden-live-canvas-abandon-garlic-immune-ketchup |  
+| bip_39_word_dash_11 | travel-high-guess-garden-live-canvas-abandon-garlic-immune-ketchup-term |  
+| bip_39_word_dash_12 | travel-high-guess-garden-live-canvas-abandon-garlic-immune-ketchup-term-attract |  
+| bip_39_word_dash_2 | travel-high |  
+| bip_39_word_dash_3 | travel-high-guess |  
+| bip_39_word_dash_4 | travel-high-guess-garden |  
+| bip_39_word_dash_5 | travel-high-guess-garden-live |  
+| bip_39_word_dash_6 | travel-high-guess-garden-live-canvas |  
+| bip_39_word_dash_7 | travel-high-guess-garden-live-canvas-abandon |  
+| bip_39_word_dash_8 | travel-high-guess-garden-live-canvas-abandon-garlic |  
+| bip_39_word_dash_9 | travel-high-guess-garden-live-canvas-abandon-garlic-immune |  
 | bip_39_word_new_br_1 | travel |  
 | bip_39_word_new_br_10 | travel<br>high<br>guess<br>garden<br>live<br>canvas<br>abandon<br>garlic<br>immune<br>ketchup |  
 | bip_39_word_new_br_11 | travel<br>high<br>guess<br>garden<br>live<br>canvas<br>abandon<br>garlic<br>immune<br>ketchup<br>term |  
@@ -147,6 +159,18 @@ immune |
 | bip_39_word_space_7 | travel high guess garden live canvas abandon |  
 | bip_39_word_space_8 | travel high guess garden live canvas abandon garlic |  
 | bip_39_word_space_9 | travel high guess garden live canvas abandon garlic immune |  
+| bip_39_word_underscore_1 | travel |  
+| bip_39_word_underscore_10 | travel_high_guess_garden_live_canvas_abandon_garlic_immune_ketchup |  
+| bip_39_word_underscore_11 | travel_high_guess_garden_live_canvas_abandon_garlic_immune_ketchup_term |  
+| bip_39_word_underscore_12 | travel_high_guess_garden_live_canvas_abandon_garlic_immune_ketchup_term_attract |  
+| bip_39_word_underscore_2 | travel_high |  
+| bip_39_word_underscore_3 | travel_high_guess |  
+| bip_39_word_underscore_4 | travel_high_guess_garden |  
+| bip_39_word_underscore_5 | travel_high_guess_garden_live |  
+| bip_39_word_underscore_6 | travel_high_guess_garden_live_canvas |  
+| bip_39_word_underscore_7 | travel_high_guess_garden_live_canvas_abandon |  
+| bip_39_word_underscore_8 | travel_high_guess_garden_live_canvas_abandon_garlic |  
+| bip_39_word_underscore_9 | travel_high_guess_garden_live_canvas_abandon_garlic_immune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

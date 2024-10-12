@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quantum
+bip_39_word_dash_10: quantum-spoon-brother-fade-pitch-deer-belt-eyebrow-need-balcony
+bip_39_word_dash_11: quantum-spoon-brother-fade-pitch-deer-belt-eyebrow-need-balcony-normal
+bip_39_word_dash_12: quantum-spoon-brother-fade-pitch-deer-belt-eyebrow-need-balcony-normal-adapt
+bip_39_word_dash_2: quantum-spoon
+bip_39_word_dash_3: quantum-spoon-brother
+bip_39_word_dash_4: quantum-spoon-brother-fade
+bip_39_word_dash_5: quantum-spoon-brother-fade-pitch
+bip_39_word_dash_6: quantum-spoon-brother-fade-pitch-deer
+bip_39_word_dash_7: quantum-spoon-brother-fade-pitch-deer-belt
+bip_39_word_dash_8: quantum-spoon-brother-fade-pitch-deer-belt-eyebrow
+bip_39_word_dash_9: quantum-spoon-brother-fade-pitch-deer-belt-eyebrow-need
 bip_39_word_new_br_1: quantum
 bip_39_word_new_br_10: quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony
 bip_39_word_new_br_11: quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony<br>normal
@@ -193,6 +205,18 @@ bip_39_word_space_6: quantum spoon brother fade pitch deer
 bip_39_word_space_7: quantum spoon brother fade pitch deer belt
 bip_39_word_space_8: quantum spoon brother fade pitch deer belt eyebrow
 bip_39_word_space_9: quantum spoon brother fade pitch deer belt eyebrow need
+bip_39_word_underscore_1: quantum
+bip_39_word_underscore_10: quantum_spoon_brother_fade_pitch_deer_belt_eyebrow_need_balcony
+bip_39_word_underscore_11: quantum_spoon_brother_fade_pitch_deer_belt_eyebrow_need_balcony_normal
+bip_39_word_underscore_12: quantum_spoon_brother_fade_pitch_deer_belt_eyebrow_need_balcony_normal_adapt
+bip_39_word_underscore_2: quantum_spoon
+bip_39_word_underscore_3: quantum_spoon_brother
+bip_39_word_underscore_4: quantum_spoon_brother_fade
+bip_39_word_underscore_5: quantum_spoon_brother_fade_pitch
+bip_39_word_underscore_6: quantum_spoon_brother_fade_pitch_deer
+bip_39_word_underscore_7: quantum_spoon_brother_fade_pitch_deer_belt
+bip_39_word_underscore_8: quantum_spoon_brother_fade_pitch_deer_belt_eyebrow
+bip_39_word_underscore_9: quantum_spoon_brother_fade_pitch_deer_belt_eyebrow_need
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

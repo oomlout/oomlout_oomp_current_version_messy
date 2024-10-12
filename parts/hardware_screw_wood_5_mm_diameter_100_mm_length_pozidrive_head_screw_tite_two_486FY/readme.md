@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toss |  
+| bip_39_word_dash_10 | toss-mom-thumb-moment-carpet-grief-beach-vocal-current-horror |  
+| bip_39_word_dash_11 | toss-mom-thumb-moment-carpet-grief-beach-vocal-current-horror-ship |  
+| bip_39_word_dash_12 | toss-mom-thumb-moment-carpet-grief-beach-vocal-current-horror-ship-armor |  
+| bip_39_word_dash_2 | toss-mom |  
+| bip_39_word_dash_3 | toss-mom-thumb |  
+| bip_39_word_dash_4 | toss-mom-thumb-moment |  
+| bip_39_word_dash_5 | toss-mom-thumb-moment-carpet |  
+| bip_39_word_dash_6 | toss-mom-thumb-moment-carpet-grief |  
+| bip_39_word_dash_7 | toss-mom-thumb-moment-carpet-grief-beach |  
+| bip_39_word_dash_8 | toss-mom-thumb-moment-carpet-grief-beach-vocal |  
+| bip_39_word_dash_9 | toss-mom-thumb-moment-carpet-grief-beach-vocal-current |  
 | bip_39_word_new_br_1 | toss |  
 | bip_39_word_new_br_10 | toss<br>mom<br>thumb<br>moment<br>carpet<br>grief<br>beach<br>vocal<br>current<br>horror |  
 | bip_39_word_new_br_11 | toss<br>mom<br>thumb<br>moment<br>carpet<br>grief<br>beach<br>vocal<br>current<br>horror<br>ship |  
@@ -147,6 +159,18 @@ current |
 | bip_39_word_space_7 | toss mom thumb moment carpet grief beach |  
 | bip_39_word_space_8 | toss mom thumb moment carpet grief beach vocal |  
 | bip_39_word_space_9 | toss mom thumb moment carpet grief beach vocal current |  
+| bip_39_word_underscore_1 | toss |  
+| bip_39_word_underscore_10 | toss_mom_thumb_moment_carpet_grief_beach_vocal_current_horror |  
+| bip_39_word_underscore_11 | toss_mom_thumb_moment_carpet_grief_beach_vocal_current_horror_ship |  
+| bip_39_word_underscore_12 | toss_mom_thumb_moment_carpet_grief_beach_vocal_current_horror_ship_armor |  
+| bip_39_word_underscore_2 | toss_mom |  
+| bip_39_word_underscore_3 | toss_mom_thumb |  
+| bip_39_word_underscore_4 | toss_mom_thumb_moment |  
+| bip_39_word_underscore_5 | toss_mom_thumb_moment_carpet |  
+| bip_39_word_underscore_6 | toss_mom_thumb_moment_carpet_grief |  
+| bip_39_word_underscore_7 | toss_mom_thumb_moment_carpet_grief_beach |  
+| bip_39_word_underscore_8 | toss_mom_thumb_moment_carpet_grief_beach_vocal |  
+| bip_39_word_underscore_9 | toss_mom_thumb_moment_carpet_grief_beach_vocal_current |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

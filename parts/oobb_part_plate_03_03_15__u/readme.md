@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | march |  
+| bip_39_word_dash_10 | march-mimic-there-apology-leader-cotton-caution-sea-loan-forward |  
+| bip_39_word_dash_11 | march-mimic-there-apology-leader-cotton-caution-sea-loan-forward-canoe |  
+| bip_39_word_dash_12 | march-mimic-there-apology-leader-cotton-caution-sea-loan-forward-canoe-anxiety |  
+| bip_39_word_dash_2 | march-mimic |  
+| bip_39_word_dash_3 | march-mimic-there |  
+| bip_39_word_dash_4 | march-mimic-there-apology |  
+| bip_39_word_dash_5 | march-mimic-there-apology-leader |  
+| bip_39_word_dash_6 | march-mimic-there-apology-leader-cotton |  
+| bip_39_word_dash_7 | march-mimic-there-apology-leader-cotton-caution |  
+| bip_39_word_dash_8 | march-mimic-there-apology-leader-cotton-caution-sea |  
+| bip_39_word_dash_9 | march-mimic-there-apology-leader-cotton-caution-sea-loan |  
 | bip_39_word_new_br_1 | march |  
 | bip_39_word_new_br_10 | march<br>mimic<br>there<br>apology<br>leader<br>cotton<br>caution<br>sea<br>loan<br>forward |  
 | bip_39_word_new_br_11 | march<br>mimic<br>there<br>apology<br>leader<br>cotton<br>caution<br>sea<br>loan<br>forward<br>canoe |  
@@ -147,6 +159,18 @@ loan |
 | bip_39_word_space_7 | march mimic there apology leader cotton caution |  
 | bip_39_word_space_8 | march mimic there apology leader cotton caution sea |  
 | bip_39_word_space_9 | march mimic there apology leader cotton caution sea loan |  
+| bip_39_word_underscore_1 | march |  
+| bip_39_word_underscore_10 | march_mimic_there_apology_leader_cotton_caution_sea_loan_forward |  
+| bip_39_word_underscore_11 | march_mimic_there_apology_leader_cotton_caution_sea_loan_forward_canoe |  
+| bip_39_word_underscore_12 | march_mimic_there_apology_leader_cotton_caution_sea_loan_forward_canoe_anxiety |  
+| bip_39_word_underscore_2 | march_mimic |  
+| bip_39_word_underscore_3 | march_mimic_there |  
+| bip_39_word_underscore_4 | march_mimic_there_apology |  
+| bip_39_word_underscore_5 | march_mimic_there_apology_leader |  
+| bip_39_word_underscore_6 | march_mimic_there_apology_leader_cotton |  
+| bip_39_word_underscore_7 | march_mimic_there_apology_leader_cotton_caution |  
+| bip_39_word_underscore_8 | march_mimic_there_apology_leader_cotton_caution_sea |  
+| bip_39_word_underscore_9 | march_mimic_there_apology_leader_cotton_caution_sea_loan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

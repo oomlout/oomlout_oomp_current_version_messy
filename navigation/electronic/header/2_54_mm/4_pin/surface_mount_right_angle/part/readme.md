@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | load |  
+| bip_39_word_dash_10 | load-ostrich-rain-october-typical-avoid-energy-opera-pet-firm |  
+| bip_39_word_dash_11 | load-ostrich-rain-october-typical-avoid-energy-opera-pet-firm-off |  
+| bip_39_word_dash_12 | load-ostrich-rain-october-typical-avoid-energy-opera-pet-firm-off-audit |  
+| bip_39_word_dash_2 | load-ostrich |  
+| bip_39_word_dash_3 | load-ostrich-rain |  
+| bip_39_word_dash_4 | load-ostrich-rain-october |  
+| bip_39_word_dash_5 | load-ostrich-rain-october-typical |  
+| bip_39_word_dash_6 | load-ostrich-rain-october-typical-avoid |  
+| bip_39_word_dash_7 | load-ostrich-rain-october-typical-avoid-energy |  
+| bip_39_word_dash_8 | load-ostrich-rain-october-typical-avoid-energy-opera |  
+| bip_39_word_dash_9 | load-ostrich-rain-october-typical-avoid-energy-opera-pet |  
 | bip_39_word_new_br_1 | load |  
 | bip_39_word_new_br_10 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera<br>pet<br>firm |  
 | bip_39_word_new_br_11 | load<br>ostrich<br>rain<br>october<br>typical<br>avoid<br>energy<br>opera<br>pet<br>firm<br>off |  
@@ -147,6 +159,18 @@ pet |
 | bip_39_word_space_7 | load ostrich rain october typical avoid energy |  
 | bip_39_word_space_8 | load ostrich rain october typical avoid energy opera |  
 | bip_39_word_space_9 | load ostrich rain october typical avoid energy opera pet |  
+| bip_39_word_underscore_1 | load |  
+| bip_39_word_underscore_10 | load_ostrich_rain_october_typical_avoid_energy_opera_pet_firm |  
+| bip_39_word_underscore_11 | load_ostrich_rain_october_typical_avoid_energy_opera_pet_firm_off |  
+| bip_39_word_underscore_12 | load_ostrich_rain_october_typical_avoid_energy_opera_pet_firm_off_audit |  
+| bip_39_word_underscore_2 | load_ostrich |  
+| bip_39_word_underscore_3 | load_ostrich_rain |  
+| bip_39_word_underscore_4 | load_ostrich_rain_october |  
+| bip_39_word_underscore_5 | load_ostrich_rain_october_typical |  
+| bip_39_word_underscore_6 | load_ostrich_rain_october_typical_avoid |  
+| bip_39_word_underscore_7 | load_ostrich_rain_october_typical_avoid_energy |  
+| bip_39_word_underscore_8 | load_ostrich_rain_october_typical_avoid_energy_opera |  
+| bip_39_word_underscore_9 | load_ostrich_rain_october_typical_avoid_energy_opera_pet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

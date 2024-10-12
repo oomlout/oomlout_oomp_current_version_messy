@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | market |  
+| bip_39_word_dash_10 | market-task-process-initial-degree-album-private-side-gaze-truth |  
+| bip_39_word_dash_11 | market-task-process-initial-degree-album-private-side-gaze-truth-mixture |  
+| bip_39_word_dash_12 | market-task-process-initial-degree-album-private-side-gaze-truth-mixture-anger |  
+| bip_39_word_dash_2 | market-task |  
+| bip_39_word_dash_3 | market-task-process |  
+| bip_39_word_dash_4 | market-task-process-initial |  
+| bip_39_word_dash_5 | market-task-process-initial-degree |  
+| bip_39_word_dash_6 | market-task-process-initial-degree-album |  
+| bip_39_word_dash_7 | market-task-process-initial-degree-album-private |  
+| bip_39_word_dash_8 | market-task-process-initial-degree-album-private-side |  
+| bip_39_word_dash_9 | market-task-process-initial-degree-album-private-side-gaze |  
 | bip_39_word_new_br_1 | market |  
 | bip_39_word_new_br_10 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side<br>gaze<br>truth |  
 | bip_39_word_new_br_11 | market<br>task<br>process<br>initial<br>degree<br>album<br>private<br>side<br>gaze<br>truth<br>mixture |  
@@ -147,6 +159,18 @@ gaze |
 | bip_39_word_space_7 | market task process initial degree album private |  
 | bip_39_word_space_8 | market task process initial degree album private side |  
 | bip_39_word_space_9 | market task process initial degree album private side gaze |  
+| bip_39_word_underscore_1 | market |  
+| bip_39_word_underscore_10 | market_task_process_initial_degree_album_private_side_gaze_truth |  
+| bip_39_word_underscore_11 | market_task_process_initial_degree_album_private_side_gaze_truth_mixture |  
+| bip_39_word_underscore_12 | market_task_process_initial_degree_album_private_side_gaze_truth_mixture_anger |  
+| bip_39_word_underscore_2 | market_task |  
+| bip_39_word_underscore_3 | market_task_process |  
+| bip_39_word_underscore_4 | market_task_process_initial |  
+| bip_39_word_underscore_5 | market_task_process_initial_degree |  
+| bip_39_word_underscore_6 | market_task_process_initial_degree_album |  
+| bip_39_word_underscore_7 | market_task_process_initial_degree_album_private |  
+| bip_39_word_underscore_8 | market_task_process_initial_degree_album_private_side |  
+| bip_39_word_underscore_9 | market_task_process_initial_degree_album_private_side_gaze |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

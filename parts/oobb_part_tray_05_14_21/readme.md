@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cook |  
+| bip_39_word_dash_10 | cook-search-ice-wise-kingdom-turkey-wheel-oven-symptom-milk |  
+| bip_39_word_dash_11 | cook-search-ice-wise-kingdom-turkey-wheel-oven-symptom-milk-athlete |  
+| bip_39_word_dash_12 | cook-search-ice-wise-kingdom-turkey-wheel-oven-symptom-milk-athlete-afraid |  
+| bip_39_word_dash_2 | cook-search |  
+| bip_39_word_dash_3 | cook-search-ice |  
+| bip_39_word_dash_4 | cook-search-ice-wise |  
+| bip_39_word_dash_5 | cook-search-ice-wise-kingdom |  
+| bip_39_word_dash_6 | cook-search-ice-wise-kingdom-turkey |  
+| bip_39_word_dash_7 | cook-search-ice-wise-kingdom-turkey-wheel |  
+| bip_39_word_dash_8 | cook-search-ice-wise-kingdom-turkey-wheel-oven |  
+| bip_39_word_dash_9 | cook-search-ice-wise-kingdom-turkey-wheel-oven-symptom |  
 | bip_39_word_new_br_1 | cook |  
 | bip_39_word_new_br_10 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven<br>symptom<br>milk |  
 | bip_39_word_new_br_11 | cook<br>search<br>ice<br>wise<br>kingdom<br>turkey<br>wheel<br>oven<br>symptom<br>milk<br>athlete |  
@@ -147,6 +159,18 @@ symptom |
 | bip_39_word_space_7 | cook search ice wise kingdom turkey wheel |  
 | bip_39_word_space_8 | cook search ice wise kingdom turkey wheel oven |  
 | bip_39_word_space_9 | cook search ice wise kingdom turkey wheel oven symptom |  
+| bip_39_word_underscore_1 | cook |  
+| bip_39_word_underscore_10 | cook_search_ice_wise_kingdom_turkey_wheel_oven_symptom_milk |  
+| bip_39_word_underscore_11 | cook_search_ice_wise_kingdom_turkey_wheel_oven_symptom_milk_athlete |  
+| bip_39_word_underscore_12 | cook_search_ice_wise_kingdom_turkey_wheel_oven_symptom_milk_athlete_afraid |  
+| bip_39_word_underscore_2 | cook_search |  
+| bip_39_word_underscore_3 | cook_search_ice |  
+| bip_39_word_underscore_4 | cook_search_ice_wise |  
+| bip_39_word_underscore_5 | cook_search_ice_wise_kingdom |  
+| bip_39_word_underscore_6 | cook_search_ice_wise_kingdom_turkey |  
+| bip_39_word_underscore_7 | cook_search_ice_wise_kingdom_turkey_wheel |  
+| bip_39_word_underscore_8 | cook_search_ice_wise_kingdom_turkey_wheel_oven |  
+| bip_39_word_underscore_9 | cook_search_ice_wise_kingdom_turkey_wheel_oven_symptom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

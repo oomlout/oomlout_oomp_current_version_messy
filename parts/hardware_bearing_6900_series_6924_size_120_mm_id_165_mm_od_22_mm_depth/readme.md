@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lend |  
+| bip_39_word_dash_10 | lend-group-speed-blush-taste-island-exhaust-cliff-mobile-ahead |  
+| bip_39_word_dash_11 | lend-group-speed-blush-taste-island-exhaust-cliff-mobile-ahead-draft |  
+| bip_39_word_dash_12 | lend-group-speed-blush-taste-island-exhaust-cliff-mobile-ahead-draft-appear |  
+| bip_39_word_dash_2 | lend-group |  
+| bip_39_word_dash_3 | lend-group-speed |  
+| bip_39_word_dash_4 | lend-group-speed-blush |  
+| bip_39_word_dash_5 | lend-group-speed-blush-taste |  
+| bip_39_word_dash_6 | lend-group-speed-blush-taste-island |  
+| bip_39_word_dash_7 | lend-group-speed-blush-taste-island-exhaust |  
+| bip_39_word_dash_8 | lend-group-speed-blush-taste-island-exhaust-cliff |  
+| bip_39_word_dash_9 | lend-group-speed-blush-taste-island-exhaust-cliff-mobile |  
 | bip_39_word_new_br_1 | lend |  
 | bip_39_word_new_br_10 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead |  
 | bip_39_word_new_br_11 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead<br>draft |  
@@ -147,6 +159,18 @@ mobile |
 | bip_39_word_space_7 | lend group speed blush taste island exhaust |  
 | bip_39_word_space_8 | lend group speed blush taste island exhaust cliff |  
 | bip_39_word_space_9 | lend group speed blush taste island exhaust cliff mobile |  
+| bip_39_word_underscore_1 | lend |  
+| bip_39_word_underscore_10 | lend_group_speed_blush_taste_island_exhaust_cliff_mobile_ahead |  
+| bip_39_word_underscore_11 | lend_group_speed_blush_taste_island_exhaust_cliff_mobile_ahead_draft |  
+| bip_39_word_underscore_12 | lend_group_speed_blush_taste_island_exhaust_cliff_mobile_ahead_draft_appear |  
+| bip_39_word_underscore_2 | lend_group |  
+| bip_39_word_underscore_3 | lend_group_speed |  
+| bip_39_word_underscore_4 | lend_group_speed_blush |  
+| bip_39_word_underscore_5 | lend_group_speed_blush_taste |  
+| bip_39_word_underscore_6 | lend_group_speed_blush_taste_island |  
+| bip_39_word_underscore_7 | lend_group_speed_blush_taste_island_exhaust |  
+| bip_39_word_underscore_8 | lend_group_speed_blush_taste_island_exhaust_cliff |  
+| bip_39_word_underscore_9 | lend_group_speed_blush_taste_island_exhaust_cliff_mobile |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

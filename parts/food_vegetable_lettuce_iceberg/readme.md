@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brisk |  
+| bip_39_word_dash_10 | brisk-drift-extra-velvet-valid-ghost-lottery-pole-believe-piece |  
+| bip_39_word_dash_11 | brisk-drift-extra-velvet-valid-ghost-lottery-pole-believe-piece-jazz |  
+| bip_39_word_dash_12 | brisk-drift-extra-velvet-valid-ghost-lottery-pole-believe-piece-jazz-assist |  
+| bip_39_word_dash_2 | brisk-drift |  
+| bip_39_word_dash_3 | brisk-drift-extra |  
+| bip_39_word_dash_4 | brisk-drift-extra-velvet |  
+| bip_39_word_dash_5 | brisk-drift-extra-velvet-valid |  
+| bip_39_word_dash_6 | brisk-drift-extra-velvet-valid-ghost |  
+| bip_39_word_dash_7 | brisk-drift-extra-velvet-valid-ghost-lottery |  
+| bip_39_word_dash_8 | brisk-drift-extra-velvet-valid-ghost-lottery-pole |  
+| bip_39_word_dash_9 | brisk-drift-extra-velvet-valid-ghost-lottery-pole-believe |  
 | bip_39_word_new_br_1 | brisk |  
 | bip_39_word_new_br_10 | brisk<br>drift<br>extra<br>velvet<br>valid<br>ghost<br>lottery<br>pole<br>believe<br>piece |  
 | bip_39_word_new_br_11 | brisk<br>drift<br>extra<br>velvet<br>valid<br>ghost<br>lottery<br>pole<br>believe<br>piece<br>jazz |  
@@ -147,6 +159,18 @@ believe |
 | bip_39_word_space_7 | brisk drift extra velvet valid ghost lottery |  
 | bip_39_word_space_8 | brisk drift extra velvet valid ghost lottery pole |  
 | bip_39_word_space_9 | brisk drift extra velvet valid ghost lottery pole believe |  
+| bip_39_word_underscore_1 | brisk |  
+| bip_39_word_underscore_10 | brisk_drift_extra_velvet_valid_ghost_lottery_pole_believe_piece |  
+| bip_39_word_underscore_11 | brisk_drift_extra_velvet_valid_ghost_lottery_pole_believe_piece_jazz |  
+| bip_39_word_underscore_12 | brisk_drift_extra_velvet_valid_ghost_lottery_pole_believe_piece_jazz_assist |  
+| bip_39_word_underscore_2 | brisk_drift |  
+| bip_39_word_underscore_3 | brisk_drift_extra |  
+| bip_39_word_underscore_4 | brisk_drift_extra_velvet |  
+| bip_39_word_underscore_5 | brisk_drift_extra_velvet_valid |  
+| bip_39_word_underscore_6 | brisk_drift_extra_velvet_valid_ghost |  
+| bip_39_word_underscore_7 | brisk_drift_extra_velvet_valid_ghost_lottery |  
+| bip_39_word_underscore_8 | brisk_drift_extra_velvet_valid_ghost_lottery_pole |  
+| bip_39_word_underscore_9 | brisk_drift_extra_velvet_valid_ghost_lottery_pole_believe |  
 | classification | food |  
 | classification_capital | Food |  
 | classification_first_letter | f |  

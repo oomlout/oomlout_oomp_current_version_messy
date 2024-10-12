@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | recipe |  
+| bip_39_word_dash_10 | recipe-crime-source-dirt-picnic-people-couple-great-bid-citizen |  
+| bip_39_word_dash_11 | recipe-crime-source-dirt-picnic-people-couple-great-bid-citizen-analyst |  
+| bip_39_word_dash_12 | recipe-crime-source-dirt-picnic-people-couple-great-bid-citizen-analyst-alien |  
+| bip_39_word_dash_2 | recipe-crime |  
+| bip_39_word_dash_3 | recipe-crime-source |  
+| bip_39_word_dash_4 | recipe-crime-source-dirt |  
+| bip_39_word_dash_5 | recipe-crime-source-dirt-picnic |  
+| bip_39_word_dash_6 | recipe-crime-source-dirt-picnic-people |  
+| bip_39_word_dash_7 | recipe-crime-source-dirt-picnic-people-couple |  
+| bip_39_word_dash_8 | recipe-crime-source-dirt-picnic-people-couple-great |  
+| bip_39_word_dash_9 | recipe-crime-source-dirt-picnic-people-couple-great-bid |  
 | bip_39_word_new_br_1 | recipe |  
 | bip_39_word_new_br_10 | recipe<br>crime<br>source<br>dirt<br>picnic<br>people<br>couple<br>great<br>bid<br>citizen |  
 | bip_39_word_new_br_11 | recipe<br>crime<br>source<br>dirt<br>picnic<br>people<br>couple<br>great<br>bid<br>citizen<br>analyst |  
@@ -147,6 +159,18 @@ bid |
 | bip_39_word_space_7 | recipe crime source dirt picnic people couple |  
 | bip_39_word_space_8 | recipe crime source dirt picnic people couple great |  
 | bip_39_word_space_9 | recipe crime source dirt picnic people couple great bid |  
+| bip_39_word_underscore_1 | recipe |  
+| bip_39_word_underscore_10 | recipe_crime_source_dirt_picnic_people_couple_great_bid_citizen |  
+| bip_39_word_underscore_11 | recipe_crime_source_dirt_picnic_people_couple_great_bid_citizen_analyst |  
+| bip_39_word_underscore_12 | recipe_crime_source_dirt_picnic_people_couple_great_bid_citizen_analyst_alien |  
+| bip_39_word_underscore_2 | recipe_crime |  
+| bip_39_word_underscore_3 | recipe_crime_source |  
+| bip_39_word_underscore_4 | recipe_crime_source_dirt |  
+| bip_39_word_underscore_5 | recipe_crime_source_dirt_picnic |  
+| bip_39_word_underscore_6 | recipe_crime_source_dirt_picnic_people |  
+| bip_39_word_underscore_7 | recipe_crime_source_dirt_picnic_people_couple |  
+| bip_39_word_underscore_8 | recipe_crime_source_dirt_picnic_people_couple_great |  
+| bip_39_word_underscore_9 | recipe_crime_source_dirt_picnic_people_couple_great_bid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

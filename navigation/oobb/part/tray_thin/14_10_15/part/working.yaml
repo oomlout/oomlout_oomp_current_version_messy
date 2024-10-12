@@ -1,3 +1,15 @@
+bip_39_word_dash_1: convince
+bip_39_word_dash_10: convince-notice-please-pulp-pepper-sudden-require-rubber-square-master
+bip_39_word_dash_11: convince-notice-please-pulp-pepper-sudden-require-rubber-square-master-normal
+bip_39_word_dash_12: convince-notice-please-pulp-pepper-sudden-require-rubber-square-master-normal-agent
+bip_39_word_dash_2: convince-notice
+bip_39_word_dash_3: convince-notice-please
+bip_39_word_dash_4: convince-notice-please-pulp
+bip_39_word_dash_5: convince-notice-please-pulp-pepper
+bip_39_word_dash_6: convince-notice-please-pulp-pepper-sudden
+bip_39_word_dash_7: convince-notice-please-pulp-pepper-sudden-require
+bip_39_word_dash_8: convince-notice-please-pulp-pepper-sudden-require-rubber
+bip_39_word_dash_9: convince-notice-please-pulp-pepper-sudden-require-rubber-square
 bip_39_word_new_br_1: convince
 bip_39_word_new_br_10: convince<br>notice<br>please<br>pulp<br>pepper<br>sudden<br>require<br>rubber<br>square<br>master
 bip_39_word_new_br_11: convince<br>notice<br>please<br>pulp<br>pepper<br>sudden<br>require<br>rubber<br>square<br>master<br>normal
@@ -194,6 +206,18 @@ bip_39_word_space_6: convince notice please pulp pepper sudden
 bip_39_word_space_7: convince notice please pulp pepper sudden require
 bip_39_word_space_8: convince notice please pulp pepper sudden require rubber
 bip_39_word_space_9: convince notice please pulp pepper sudden require rubber square
+bip_39_word_underscore_1: convince
+bip_39_word_underscore_10: convince_notice_please_pulp_pepper_sudden_require_rubber_square_master
+bip_39_word_underscore_11: convince_notice_please_pulp_pepper_sudden_require_rubber_square_master_normal
+bip_39_word_underscore_12: convince_notice_please_pulp_pepper_sudden_require_rubber_square_master_normal_agent
+bip_39_word_underscore_2: convince_notice
+bip_39_word_underscore_3: convince_notice_please
+bip_39_word_underscore_4: convince_notice_please_pulp
+bip_39_word_underscore_5: convince_notice_please_pulp_pepper
+bip_39_word_underscore_6: convince_notice_please_pulp_pepper_sudden
+bip_39_word_underscore_7: convince_notice_please_pulp_pepper_sudden_require
+bip_39_word_underscore_8: convince_notice_please_pulp_pepper_sudden_require_rubber
+bip_39_word_underscore_9: convince_notice_please_pulp_pepper_sudden_require_rubber_square
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

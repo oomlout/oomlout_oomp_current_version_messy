@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sick |  
+| bip_39_word_dash_10 | sick-machine-position-report-run-transfer-guitar-aunt-together-pig |  
+| bip_39_word_dash_11 | sick-machine-position-report-run-transfer-guitar-aunt-together-pig-random |  
+| bip_39_word_dash_12 | sick-machine-position-report-run-transfer-guitar-aunt-together-pig-random-actor |  
+| bip_39_word_dash_2 | sick-machine |  
+| bip_39_word_dash_3 | sick-machine-position |  
+| bip_39_word_dash_4 | sick-machine-position-report |  
+| bip_39_word_dash_5 | sick-machine-position-report-run |  
+| bip_39_word_dash_6 | sick-machine-position-report-run-transfer |  
+| bip_39_word_dash_7 | sick-machine-position-report-run-transfer-guitar |  
+| bip_39_word_dash_8 | sick-machine-position-report-run-transfer-guitar-aunt |  
+| bip_39_word_dash_9 | sick-machine-position-report-run-transfer-guitar-aunt-together |  
 | bip_39_word_new_br_1 | sick |  
 | bip_39_word_new_br_10 | sick<br>machine<br>position<br>report<br>run<br>transfer<br>guitar<br>aunt<br>together<br>pig |  
 | bip_39_word_new_br_11 | sick<br>machine<br>position<br>report<br>run<br>transfer<br>guitar<br>aunt<br>together<br>pig<br>random |  
@@ -147,6 +159,18 @@ together |
 | bip_39_word_space_7 | sick machine position report run transfer guitar |  
 | bip_39_word_space_8 | sick machine position report run transfer guitar aunt |  
 | bip_39_word_space_9 | sick machine position report run transfer guitar aunt together |  
+| bip_39_word_underscore_1 | sick |  
+| bip_39_word_underscore_10 | sick_machine_position_report_run_transfer_guitar_aunt_together_pig |  
+| bip_39_word_underscore_11 | sick_machine_position_report_run_transfer_guitar_aunt_together_pig_random |  
+| bip_39_word_underscore_12 | sick_machine_position_report_run_transfer_guitar_aunt_together_pig_random_actor |  
+| bip_39_word_underscore_2 | sick_machine |  
+| bip_39_word_underscore_3 | sick_machine_position |  
+| bip_39_word_underscore_4 | sick_machine_position_report |  
+| bip_39_word_underscore_5 | sick_machine_position_report_run |  
+| bip_39_word_underscore_6 | sick_machine_position_report_run_transfer |  
+| bip_39_word_underscore_7 | sick_machine_position_report_run_transfer_guitar |  
+| bip_39_word_underscore_8 | sick_machine_position_report_run_transfer_guitar_aunt |  
+| bip_39_word_underscore_9 | sick_machine_position_report_run_transfer_guitar_aunt_together |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

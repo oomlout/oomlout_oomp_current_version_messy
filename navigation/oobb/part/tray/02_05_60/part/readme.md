@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | use |  
+| bip_39_word_dash_10 | use-swamp-diesel-social-rent-lift-hood-add-vote-brave |  
+| bip_39_word_dash_11 | use-swamp-diesel-social-rent-lift-hood-add-vote-brave-split |  
+| bip_39_word_dash_12 | use-swamp-diesel-social-rent-lift-hood-add-vote-brave-split-attend |  
+| bip_39_word_dash_2 | use-swamp |  
+| bip_39_word_dash_3 | use-swamp-diesel |  
+| bip_39_word_dash_4 | use-swamp-diesel-social |  
+| bip_39_word_dash_5 | use-swamp-diesel-social-rent |  
+| bip_39_word_dash_6 | use-swamp-diesel-social-rent-lift |  
+| bip_39_word_dash_7 | use-swamp-diesel-social-rent-lift-hood |  
+| bip_39_word_dash_8 | use-swamp-diesel-social-rent-lift-hood-add |  
+| bip_39_word_dash_9 | use-swamp-diesel-social-rent-lift-hood-add-vote |  
 | bip_39_word_new_br_1 | use |  
 | bip_39_word_new_br_10 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add<br>vote<br>brave |  
 | bip_39_word_new_br_11 | use<br>swamp<br>diesel<br>social<br>rent<br>lift<br>hood<br>add<br>vote<br>brave<br>split |  
@@ -147,6 +159,18 @@ vote |
 | bip_39_word_space_7 | use swamp diesel social rent lift hood |  
 | bip_39_word_space_8 | use swamp diesel social rent lift hood add |  
 | bip_39_word_space_9 | use swamp diesel social rent lift hood add vote |  
+| bip_39_word_underscore_1 | use |  
+| bip_39_word_underscore_10 | use_swamp_diesel_social_rent_lift_hood_add_vote_brave |  
+| bip_39_word_underscore_11 | use_swamp_diesel_social_rent_lift_hood_add_vote_brave_split |  
+| bip_39_word_underscore_12 | use_swamp_diesel_social_rent_lift_hood_add_vote_brave_split_attend |  
+| bip_39_word_underscore_2 | use_swamp |  
+| bip_39_word_underscore_3 | use_swamp_diesel |  
+| bip_39_word_underscore_4 | use_swamp_diesel_social |  
+| bip_39_word_underscore_5 | use_swamp_diesel_social_rent |  
+| bip_39_word_underscore_6 | use_swamp_diesel_social_rent_lift |  
+| bip_39_word_underscore_7 | use_swamp_diesel_social_rent_lift_hood |  
+| bip_39_word_underscore_8 | use_swamp_diesel_social_rent_lift_hood_add |  
+| bip_39_word_underscore_9 | use_swamp_diesel_social_rent_lift_hood_add_vote |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

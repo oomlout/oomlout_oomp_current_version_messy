@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | label |  
+| bip_39_word_dash_10 | label-super-buzz-boost-urban-choose-decrease-diamond-calm-luggage |  
+| bip_39_word_dash_11 | label-super-buzz-boost-urban-choose-decrease-diamond-calm-luggage-someone |  
+| bip_39_word_dash_12 | label-super-buzz-boost-urban-choose-decrease-diamond-calm-luggage-someone-arrive |  
+| bip_39_word_dash_2 | label-super |  
+| bip_39_word_dash_3 | label-super-buzz |  
+| bip_39_word_dash_4 | label-super-buzz-boost |  
+| bip_39_word_dash_5 | label-super-buzz-boost-urban |  
+| bip_39_word_dash_6 | label-super-buzz-boost-urban-choose |  
+| bip_39_word_dash_7 | label-super-buzz-boost-urban-choose-decrease |  
+| bip_39_word_dash_8 | label-super-buzz-boost-urban-choose-decrease-diamond |  
+| bip_39_word_dash_9 | label-super-buzz-boost-urban-choose-decrease-diamond-calm |  
 | bip_39_word_new_br_1 | label |  
 | bip_39_word_new_br_10 | label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond<br>calm<br>luggage |  
 | bip_39_word_new_br_11 | label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond<br>calm<br>luggage<br>someone |  
@@ -147,6 +159,18 @@ calm |
 | bip_39_word_space_7 | label super buzz boost urban choose decrease |  
 | bip_39_word_space_8 | label super buzz boost urban choose decrease diamond |  
 | bip_39_word_space_9 | label super buzz boost urban choose decrease diamond calm |  
+| bip_39_word_underscore_1 | label |  
+| bip_39_word_underscore_10 | label_super_buzz_boost_urban_choose_decrease_diamond_calm_luggage |  
+| bip_39_word_underscore_11 | label_super_buzz_boost_urban_choose_decrease_diamond_calm_luggage_someone |  
+| bip_39_word_underscore_12 | label_super_buzz_boost_urban_choose_decrease_diamond_calm_luggage_someone_arrive |  
+| bip_39_word_underscore_2 | label_super |  
+| bip_39_word_underscore_3 | label_super_buzz |  
+| bip_39_word_underscore_4 | label_super_buzz_boost |  
+| bip_39_word_underscore_5 | label_super_buzz_boost_urban |  
+| bip_39_word_underscore_6 | label_super_buzz_boost_urban_choose |  
+| bip_39_word_underscore_7 | label_super_buzz_boost_urban_choose_decrease |  
+| bip_39_word_underscore_8 | label_super_buzz_boost_urban_choose_decrease_diamond |  
+| bip_39_word_underscore_9 | label_super_buzz_boost_urban_choose_decrease_diamond_calm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

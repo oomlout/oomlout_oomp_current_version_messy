@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | small |  
+| bip_39_word_dash_10 | small-peace-chef-force-atom-right-winner-assume-sample-vanish |  
+| bip_39_word_dash_11 | small-peace-chef-force-atom-right-winner-assume-sample-vanish-stable |  
+| bip_39_word_dash_12 | small-peace-chef-force-atom-right-winner-assume-sample-vanish-stable-accident |  
+| bip_39_word_dash_2 | small-peace |  
+| bip_39_word_dash_3 | small-peace-chef |  
+| bip_39_word_dash_4 | small-peace-chef-force |  
+| bip_39_word_dash_5 | small-peace-chef-force-atom |  
+| bip_39_word_dash_6 | small-peace-chef-force-atom-right |  
+| bip_39_word_dash_7 | small-peace-chef-force-atom-right-winner |  
+| bip_39_word_dash_8 | small-peace-chef-force-atom-right-winner-assume |  
+| bip_39_word_dash_9 | small-peace-chef-force-atom-right-winner-assume-sample |  
 | bip_39_word_new_br_1 | small |  
 | bip_39_word_new_br_10 | small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume<br>sample<br>vanish |  
 | bip_39_word_new_br_11 | small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume<br>sample<br>vanish<br>stable |  
@@ -147,6 +159,18 @@ sample |
 | bip_39_word_space_7 | small peace chef force atom right winner |  
 | bip_39_word_space_8 | small peace chef force atom right winner assume |  
 | bip_39_word_space_9 | small peace chef force atom right winner assume sample |  
+| bip_39_word_underscore_1 | small |  
+| bip_39_word_underscore_10 | small_peace_chef_force_atom_right_winner_assume_sample_vanish |  
+| bip_39_word_underscore_11 | small_peace_chef_force_atom_right_winner_assume_sample_vanish_stable |  
+| bip_39_word_underscore_12 | small_peace_chef_force_atom_right_winner_assume_sample_vanish_stable_accident |  
+| bip_39_word_underscore_2 | small_peace |  
+| bip_39_word_underscore_3 | small_peace_chef |  
+| bip_39_word_underscore_4 | small_peace_chef_force |  
+| bip_39_word_underscore_5 | small_peace_chef_force_atom |  
+| bip_39_word_underscore_6 | small_peace_chef_force_atom_right |  
+| bip_39_word_underscore_7 | small_peace_chef_force_atom_right_winner |  
+| bip_39_word_underscore_8 | small_peace_chef_force_atom_right_winner_assume |  
+| bip_39_word_underscore_9 | small_peace_chef_force_atom_right_winner_assume_sample |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

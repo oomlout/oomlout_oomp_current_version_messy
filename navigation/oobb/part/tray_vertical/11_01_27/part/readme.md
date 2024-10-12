@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | allow |  
+| bip_39_word_dash_10 | allow-armor-stadium-mask-inflict-ranch-position-either-wrist-tilt |  
+| bip_39_word_dash_11 | allow-armor-stadium-mask-inflict-ranch-position-either-wrist-tilt-spot |  
+| bip_39_word_dash_12 | allow-armor-stadium-mask-inflict-ranch-position-either-wrist-tilt-spot-athlete |  
+| bip_39_word_dash_2 | allow-armor |  
+| bip_39_word_dash_3 | allow-armor-stadium |  
+| bip_39_word_dash_4 | allow-armor-stadium-mask |  
+| bip_39_word_dash_5 | allow-armor-stadium-mask-inflict |  
+| bip_39_word_dash_6 | allow-armor-stadium-mask-inflict-ranch |  
+| bip_39_word_dash_7 | allow-armor-stadium-mask-inflict-ranch-position |  
+| bip_39_word_dash_8 | allow-armor-stadium-mask-inflict-ranch-position-either |  
+| bip_39_word_dash_9 | allow-armor-stadium-mask-inflict-ranch-position-either-wrist |  
 | bip_39_word_new_br_1 | allow |  
 | bip_39_word_new_br_10 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either<br>wrist<br>tilt |  
 | bip_39_word_new_br_11 | allow<br>armor<br>stadium<br>mask<br>inflict<br>ranch<br>position<br>either<br>wrist<br>tilt<br>spot |  
@@ -147,6 +159,18 @@ wrist |
 | bip_39_word_space_7 | allow armor stadium mask inflict ranch position |  
 | bip_39_word_space_8 | allow armor stadium mask inflict ranch position either |  
 | bip_39_word_space_9 | allow armor stadium mask inflict ranch position either wrist |  
+| bip_39_word_underscore_1 | allow |  
+| bip_39_word_underscore_10 | allow_armor_stadium_mask_inflict_ranch_position_either_wrist_tilt |  
+| bip_39_word_underscore_11 | allow_armor_stadium_mask_inflict_ranch_position_either_wrist_tilt_spot |  
+| bip_39_word_underscore_12 | allow_armor_stadium_mask_inflict_ranch_position_either_wrist_tilt_spot_athlete |  
+| bip_39_word_underscore_2 | allow_armor |  
+| bip_39_word_underscore_3 | allow_armor_stadium |  
+| bip_39_word_underscore_4 | allow_armor_stadium_mask |  
+| bip_39_word_underscore_5 | allow_armor_stadium_mask_inflict |  
+| bip_39_word_underscore_6 | allow_armor_stadium_mask_inflict_ranch |  
+| bip_39_word_underscore_7 | allow_armor_stadium_mask_inflict_ranch_position |  
+| bip_39_word_underscore_8 | allow_armor_stadium_mask_inflict_ranch_position_either |  
+| bip_39_word_underscore_9 | allow_armor_stadium_mask_inflict_ranch_position_either_wrist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

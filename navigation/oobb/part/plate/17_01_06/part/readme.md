@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | worry |  
+| bip_39_word_dash_10 | worry-clever-rather-goddess-tree-olive-tackle-drill-beauty-arctic |  
+| bip_39_word_dash_11 | worry-clever-rather-goddess-tree-olive-tackle-drill-beauty-arctic-fetch |  
+| bip_39_word_dash_12 | worry-clever-rather-goddess-tree-olive-tackle-drill-beauty-arctic-fetch-again |  
+| bip_39_word_dash_2 | worry-clever |  
+| bip_39_word_dash_3 | worry-clever-rather |  
+| bip_39_word_dash_4 | worry-clever-rather-goddess |  
+| bip_39_word_dash_5 | worry-clever-rather-goddess-tree |  
+| bip_39_word_dash_6 | worry-clever-rather-goddess-tree-olive |  
+| bip_39_word_dash_7 | worry-clever-rather-goddess-tree-olive-tackle |  
+| bip_39_word_dash_8 | worry-clever-rather-goddess-tree-olive-tackle-drill |  
+| bip_39_word_dash_9 | worry-clever-rather-goddess-tree-olive-tackle-drill-beauty |  
 | bip_39_word_new_br_1 | worry |  
 | bip_39_word_new_br_10 | worry<br>clever<br>rather<br>goddess<br>tree<br>olive<br>tackle<br>drill<br>beauty<br>arctic |  
 | bip_39_word_new_br_11 | worry<br>clever<br>rather<br>goddess<br>tree<br>olive<br>tackle<br>drill<br>beauty<br>arctic<br>fetch |  
@@ -147,6 +159,18 @@ beauty |
 | bip_39_word_space_7 | worry clever rather goddess tree olive tackle |  
 | bip_39_word_space_8 | worry clever rather goddess tree olive tackle drill |  
 | bip_39_word_space_9 | worry clever rather goddess tree olive tackle drill beauty |  
+| bip_39_word_underscore_1 | worry |  
+| bip_39_word_underscore_10 | worry_clever_rather_goddess_tree_olive_tackle_drill_beauty_arctic |  
+| bip_39_word_underscore_11 | worry_clever_rather_goddess_tree_olive_tackle_drill_beauty_arctic_fetch |  
+| bip_39_word_underscore_12 | worry_clever_rather_goddess_tree_olive_tackle_drill_beauty_arctic_fetch_again |  
+| bip_39_word_underscore_2 | worry_clever |  
+| bip_39_word_underscore_3 | worry_clever_rather |  
+| bip_39_word_underscore_4 | worry_clever_rather_goddess |  
+| bip_39_word_underscore_5 | worry_clever_rather_goddess_tree |  
+| bip_39_word_underscore_6 | worry_clever_rather_goddess_tree_olive |  
+| bip_39_word_underscore_7 | worry_clever_rather_goddess_tree_olive_tackle |  
+| bip_39_word_underscore_8 | worry_clever_rather_goddess_tree_olive_tackle_drill |  
+| bip_39_word_underscore_9 | worry_clever_rather_goddess_tree_olive_tackle_drill_beauty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: develop
+bip_39_word_dash_10: develop-toy-possible-detect-roast-swift-spell-diet-hen-swap
+bip_39_word_dash_11: develop-toy-possible-detect-roast-swift-spell-diet-hen-swap-thank
+bip_39_word_dash_12: develop-toy-possible-detect-roast-swift-spell-diet-hen-swap-thank-again
+bip_39_word_dash_2: develop-toy
+bip_39_word_dash_3: develop-toy-possible
+bip_39_word_dash_4: develop-toy-possible-detect
+bip_39_word_dash_5: develop-toy-possible-detect-roast
+bip_39_word_dash_6: develop-toy-possible-detect-roast-swift
+bip_39_word_dash_7: develop-toy-possible-detect-roast-swift-spell
+bip_39_word_dash_8: develop-toy-possible-detect-roast-swift-spell-diet
+bip_39_word_dash_9: develop-toy-possible-detect-roast-swift-spell-diet-hen
 bip_39_word_new_br_1: develop
 bip_39_word_new_br_10: develop<br>toy<br>possible<br>detect<br>roast<br>swift<br>spell<br>diet<br>hen<br>swap
 bip_39_word_new_br_11: develop<br>toy<br>possible<br>detect<br>roast<br>swift<br>spell<br>diet<br>hen<br>swap<br>thank
@@ -193,6 +205,18 @@ bip_39_word_space_6: develop toy possible detect roast swift
 bip_39_word_space_7: develop toy possible detect roast swift spell
 bip_39_word_space_8: develop toy possible detect roast swift spell diet
 bip_39_word_space_9: develop toy possible detect roast swift spell diet hen
+bip_39_word_underscore_1: develop
+bip_39_word_underscore_10: develop_toy_possible_detect_roast_swift_spell_diet_hen_swap
+bip_39_word_underscore_11: develop_toy_possible_detect_roast_swift_spell_diet_hen_swap_thank
+bip_39_word_underscore_12: develop_toy_possible_detect_roast_swift_spell_diet_hen_swap_thank_again
+bip_39_word_underscore_2: develop_toy
+bip_39_word_underscore_3: develop_toy_possible
+bip_39_word_underscore_4: develop_toy_possible_detect
+bip_39_word_underscore_5: develop_toy_possible_detect_roast
+bip_39_word_underscore_6: develop_toy_possible_detect_roast_swift
+bip_39_word_underscore_7: develop_toy_possible_detect_roast_swift_spell
+bip_39_word_underscore_8: develop_toy_possible_detect_roast_swift_spell_diet
+bip_39_word_underscore_9: develop_toy_possible_detect_roast_swift_spell_diet_hen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

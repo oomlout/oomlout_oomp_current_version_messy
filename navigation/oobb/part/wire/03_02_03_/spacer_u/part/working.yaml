@@ -1,3 +1,15 @@
+bip_39_word_dash_1: useless
+bip_39_word_dash_10: useless-drive-silver-relief-govern-pole-leopard-sense-survey-provide
+bip_39_word_dash_11: useless-drive-silver-relief-govern-pole-leopard-sense-survey-provide-clinic
+bip_39_word_dash_12: useless-drive-silver-relief-govern-pole-leopard-sense-survey-provide-clinic-aerobic
+bip_39_word_dash_2: useless-drive
+bip_39_word_dash_3: useless-drive-silver
+bip_39_word_dash_4: useless-drive-silver-relief
+bip_39_word_dash_5: useless-drive-silver-relief-govern
+bip_39_word_dash_6: useless-drive-silver-relief-govern-pole
+bip_39_word_dash_7: useless-drive-silver-relief-govern-pole-leopard
+bip_39_word_dash_8: useless-drive-silver-relief-govern-pole-leopard-sense
+bip_39_word_dash_9: useless-drive-silver-relief-govern-pole-leopard-sense-survey
 bip_39_word_new_br_1: useless
 bip_39_word_new_br_10: useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense<br>survey<br>provide
 bip_39_word_new_br_11: useless<br>drive<br>silver<br>relief<br>govern<br>pole<br>leopard<br>sense<br>survey<br>provide<br>clinic
@@ -194,6 +206,18 @@ bip_39_word_space_6: useless drive silver relief govern pole
 bip_39_word_space_7: useless drive silver relief govern pole leopard
 bip_39_word_space_8: useless drive silver relief govern pole leopard sense
 bip_39_word_space_9: useless drive silver relief govern pole leopard sense survey
+bip_39_word_underscore_1: useless
+bip_39_word_underscore_10: useless_drive_silver_relief_govern_pole_leopard_sense_survey_provide
+bip_39_word_underscore_11: useless_drive_silver_relief_govern_pole_leopard_sense_survey_provide_clinic
+bip_39_word_underscore_12: useless_drive_silver_relief_govern_pole_leopard_sense_survey_provide_clinic_aerobic
+bip_39_word_underscore_2: useless_drive
+bip_39_word_underscore_3: useless_drive_silver
+bip_39_word_underscore_4: useless_drive_silver_relief
+bip_39_word_underscore_5: useless_drive_silver_relief_govern
+bip_39_word_underscore_6: useless_drive_silver_relief_govern_pole
+bip_39_word_underscore_7: useless_drive_silver_relief_govern_pole_leopard
+bip_39_word_underscore_8: useless_drive_silver_relief_govern_pole_leopard_sense
+bip_39_word_underscore_9: useless_drive_silver_relief_govern_pole_leopard_sense_survey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

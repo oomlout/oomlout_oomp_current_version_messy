@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spin |  
+| bip_39_word_dash_10 | spin-wagon-live-tube-frame-inmate-second-matter-flag-picnic |  
+| bip_39_word_dash_11 | spin-wagon-live-tube-frame-inmate-second-matter-flag-picnic-sell |  
+| bip_39_word_dash_12 | spin-wagon-live-tube-frame-inmate-second-matter-flag-picnic-sell-arrange |  
+| bip_39_word_dash_2 | spin-wagon |  
+| bip_39_word_dash_3 | spin-wagon-live |  
+| bip_39_word_dash_4 | spin-wagon-live-tube |  
+| bip_39_word_dash_5 | spin-wagon-live-tube-frame |  
+| bip_39_word_dash_6 | spin-wagon-live-tube-frame-inmate |  
+| bip_39_word_dash_7 | spin-wagon-live-tube-frame-inmate-second |  
+| bip_39_word_dash_8 | spin-wagon-live-tube-frame-inmate-second-matter |  
+| bip_39_word_dash_9 | spin-wagon-live-tube-frame-inmate-second-matter-flag |  
 | bip_39_word_new_br_1 | spin |  
 | bip_39_word_new_br_10 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter<br>flag<br>picnic |  
 | bip_39_word_new_br_11 | spin<br>wagon<br>live<br>tube<br>frame<br>inmate<br>second<br>matter<br>flag<br>picnic<br>sell |  
@@ -147,6 +159,18 @@ flag |
 | bip_39_word_space_7 | spin wagon live tube frame inmate second |  
 | bip_39_word_space_8 | spin wagon live tube frame inmate second matter |  
 | bip_39_word_space_9 | spin wagon live tube frame inmate second matter flag |  
+| bip_39_word_underscore_1 | spin |  
+| bip_39_word_underscore_10 | spin_wagon_live_tube_frame_inmate_second_matter_flag_picnic |  
+| bip_39_word_underscore_11 | spin_wagon_live_tube_frame_inmate_second_matter_flag_picnic_sell |  
+| bip_39_word_underscore_12 | spin_wagon_live_tube_frame_inmate_second_matter_flag_picnic_sell_arrange |  
+| bip_39_word_underscore_2 | spin_wagon |  
+| bip_39_word_underscore_3 | spin_wagon_live |  
+| bip_39_word_underscore_4 | spin_wagon_live_tube |  
+| bip_39_word_underscore_5 | spin_wagon_live_tube_frame |  
+| bip_39_word_underscore_6 | spin_wagon_live_tube_frame_inmate |  
+| bip_39_word_underscore_7 | spin_wagon_live_tube_frame_inmate_second |  
+| bip_39_word_underscore_8 | spin_wagon_live_tube_frame_inmate_second_matter |  
+| bip_39_word_underscore_9 | spin_wagon_live_tube_frame_inmate_second_matter_flag |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

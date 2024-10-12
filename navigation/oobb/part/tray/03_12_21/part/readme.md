@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cement |  
+| bip_39_word_dash_10 | cement-cousin-thumb-food-identify-leopard-spring-release-goddess-exchange |  
+| bip_39_word_dash_11 | cement-cousin-thumb-food-identify-leopard-spring-release-goddess-exchange-mandate |  
+| bip_39_word_dash_12 | cement-cousin-thumb-food-identify-leopard-spring-release-goddess-exchange-mandate-auction |  
+| bip_39_word_dash_2 | cement-cousin |  
+| bip_39_word_dash_3 | cement-cousin-thumb |  
+| bip_39_word_dash_4 | cement-cousin-thumb-food |  
+| bip_39_word_dash_5 | cement-cousin-thumb-food-identify |  
+| bip_39_word_dash_6 | cement-cousin-thumb-food-identify-leopard |  
+| bip_39_word_dash_7 | cement-cousin-thumb-food-identify-leopard-spring |  
+| bip_39_word_dash_8 | cement-cousin-thumb-food-identify-leopard-spring-release |  
+| bip_39_word_dash_9 | cement-cousin-thumb-food-identify-leopard-spring-release-goddess |  
 | bip_39_word_new_br_1 | cement |  
 | bip_39_word_new_br_10 | cement<br>cousin<br>thumb<br>food<br>identify<br>leopard<br>spring<br>release<br>goddess<br>exchange |  
 | bip_39_word_new_br_11 | cement<br>cousin<br>thumb<br>food<br>identify<br>leopard<br>spring<br>release<br>goddess<br>exchange<br>mandate |  
@@ -147,6 +159,18 @@ goddess |
 | bip_39_word_space_7 | cement cousin thumb food identify leopard spring |  
 | bip_39_word_space_8 | cement cousin thumb food identify leopard spring release |  
 | bip_39_word_space_9 | cement cousin thumb food identify leopard spring release goddess |  
+| bip_39_word_underscore_1 | cement |  
+| bip_39_word_underscore_10 | cement_cousin_thumb_food_identify_leopard_spring_release_goddess_exchange |  
+| bip_39_word_underscore_11 | cement_cousin_thumb_food_identify_leopard_spring_release_goddess_exchange_mandate |  
+| bip_39_word_underscore_12 | cement_cousin_thumb_food_identify_leopard_spring_release_goddess_exchange_mandate_auction |  
+| bip_39_word_underscore_2 | cement_cousin |  
+| bip_39_word_underscore_3 | cement_cousin_thumb |  
+| bip_39_word_underscore_4 | cement_cousin_thumb_food |  
+| bip_39_word_underscore_5 | cement_cousin_thumb_food_identify |  
+| bip_39_word_underscore_6 | cement_cousin_thumb_food_identify_leopard |  
+| bip_39_word_underscore_7 | cement_cousin_thumb_food_identify_leopard_spring |  
+| bip_39_word_underscore_8 | cement_cousin_thumb_food_identify_leopard_spring_release |  
+| bip_39_word_underscore_9 | cement_cousin_thumb_food_identify_leopard_spring_release_goddess |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

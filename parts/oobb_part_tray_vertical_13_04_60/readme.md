@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spice |  
+| bip_39_word_dash_10 | spice-nothing-bonus-sail-shrimp-buddy-weird-north-ocean-photo |  
+| bip_39_word_dash_11 | spice-nothing-bonus-sail-shrimp-buddy-weird-north-ocean-photo-equal |  
+| bip_39_word_dash_12 | spice-nothing-bonus-sail-shrimp-buddy-weird-north-ocean-photo-equal-angry |  
+| bip_39_word_dash_2 | spice-nothing |  
+| bip_39_word_dash_3 | spice-nothing-bonus |  
+| bip_39_word_dash_4 | spice-nothing-bonus-sail |  
+| bip_39_word_dash_5 | spice-nothing-bonus-sail-shrimp |  
+| bip_39_word_dash_6 | spice-nothing-bonus-sail-shrimp-buddy |  
+| bip_39_word_dash_7 | spice-nothing-bonus-sail-shrimp-buddy-weird |  
+| bip_39_word_dash_8 | spice-nothing-bonus-sail-shrimp-buddy-weird-north |  
+| bip_39_word_dash_9 | spice-nothing-bonus-sail-shrimp-buddy-weird-north-ocean |  
 | bip_39_word_new_br_1 | spice |  
 | bip_39_word_new_br_10 | spice<br>nothing<br>bonus<br>sail<br>shrimp<br>buddy<br>weird<br>north<br>ocean<br>photo |  
 | bip_39_word_new_br_11 | spice<br>nothing<br>bonus<br>sail<br>shrimp<br>buddy<br>weird<br>north<br>ocean<br>photo<br>equal |  
@@ -147,6 +159,18 @@ ocean |
 | bip_39_word_space_7 | spice nothing bonus sail shrimp buddy weird |  
 | bip_39_word_space_8 | spice nothing bonus sail shrimp buddy weird north |  
 | bip_39_word_space_9 | spice nothing bonus sail shrimp buddy weird north ocean |  
+| bip_39_word_underscore_1 | spice |  
+| bip_39_word_underscore_10 | spice_nothing_bonus_sail_shrimp_buddy_weird_north_ocean_photo |  
+| bip_39_word_underscore_11 | spice_nothing_bonus_sail_shrimp_buddy_weird_north_ocean_photo_equal |  
+| bip_39_word_underscore_12 | spice_nothing_bonus_sail_shrimp_buddy_weird_north_ocean_photo_equal_angry |  
+| bip_39_word_underscore_2 | spice_nothing |  
+| bip_39_word_underscore_3 | spice_nothing_bonus |  
+| bip_39_word_underscore_4 | spice_nothing_bonus_sail |  
+| bip_39_word_underscore_5 | spice_nothing_bonus_sail_shrimp |  
+| bip_39_word_underscore_6 | spice_nothing_bonus_sail_shrimp_buddy |  
+| bip_39_word_underscore_7 | spice_nothing_bonus_sail_shrimp_buddy_weird |  
+| bip_39_word_underscore_8 | spice_nothing_bonus_sail_shrimp_buddy_weird_north |  
+| bip_39_word_underscore_9 | spice_nothing_bonus_sail_shrimp_buddy_weird_north_ocean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

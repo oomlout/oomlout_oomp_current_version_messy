@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | junior |  
+| bip_39_word_dash_10 | junior-useless-film-result-narrow-near-lonely-wine-police-prize |  
+| bip_39_word_dash_11 | junior-useless-film-result-narrow-near-lonely-wine-police-prize-impulse |  
+| bip_39_word_dash_12 | junior-useless-film-result-narrow-near-lonely-wine-police-prize-impulse-any |  
+| bip_39_word_dash_2 | junior-useless |  
+| bip_39_word_dash_3 | junior-useless-film |  
+| bip_39_word_dash_4 | junior-useless-film-result |  
+| bip_39_word_dash_5 | junior-useless-film-result-narrow |  
+| bip_39_word_dash_6 | junior-useless-film-result-narrow-near |  
+| bip_39_word_dash_7 | junior-useless-film-result-narrow-near-lonely |  
+| bip_39_word_dash_8 | junior-useless-film-result-narrow-near-lonely-wine |  
+| bip_39_word_dash_9 | junior-useless-film-result-narrow-near-lonely-wine-police |  
 | bip_39_word_new_br_1 | junior |  
 | bip_39_word_new_br_10 | junior<br>useless<br>film<br>result<br>narrow<br>near<br>lonely<br>wine<br>police<br>prize |  
 | bip_39_word_new_br_11 | junior<br>useless<br>film<br>result<br>narrow<br>near<br>lonely<br>wine<br>police<br>prize<br>impulse |  
@@ -147,6 +159,18 @@ police |
 | bip_39_word_space_7 | junior useless film result narrow near lonely |  
 | bip_39_word_space_8 | junior useless film result narrow near lonely wine |  
 | bip_39_word_space_9 | junior useless film result narrow near lonely wine police |  
+| bip_39_word_underscore_1 | junior |  
+| bip_39_word_underscore_10 | junior_useless_film_result_narrow_near_lonely_wine_police_prize |  
+| bip_39_word_underscore_11 | junior_useless_film_result_narrow_near_lonely_wine_police_prize_impulse |  
+| bip_39_word_underscore_12 | junior_useless_film_result_narrow_near_lonely_wine_police_prize_impulse_any |  
+| bip_39_word_underscore_2 | junior_useless |  
+| bip_39_word_underscore_3 | junior_useless_film |  
+| bip_39_word_underscore_4 | junior_useless_film_result |  
+| bip_39_word_underscore_5 | junior_useless_film_result_narrow |  
+| bip_39_word_underscore_6 | junior_useless_film_result_narrow_near |  
+| bip_39_word_underscore_7 | junior_useless_film_result_narrow_near_lonely |  
+| bip_39_word_underscore_8 | junior_useless_film_result_narrow_near_lonely_wine |  
+| bip_39_word_underscore_9 | junior_useless_film_result_narrow_near_lonely_wine_police |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

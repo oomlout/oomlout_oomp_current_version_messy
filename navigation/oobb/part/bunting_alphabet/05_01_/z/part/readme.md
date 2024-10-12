@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | size |  
+| bip_39_word_dash_10 | size-state-beach-better-fork-head-pudding-wolf-spirit-reason |  
+| bip_39_word_dash_11 | size-state-beach-better-fork-head-pudding-wolf-spirit-reason-control |  
+| bip_39_word_dash_12 | size-state-beach-better-fork-head-pudding-wolf-spirit-reason-control-allow |  
+| bip_39_word_dash_2 | size-state |  
+| bip_39_word_dash_3 | size-state-beach |  
+| bip_39_word_dash_4 | size-state-beach-better |  
+| bip_39_word_dash_5 | size-state-beach-better-fork |  
+| bip_39_word_dash_6 | size-state-beach-better-fork-head |  
+| bip_39_word_dash_7 | size-state-beach-better-fork-head-pudding |  
+| bip_39_word_dash_8 | size-state-beach-better-fork-head-pudding-wolf |  
+| bip_39_word_dash_9 | size-state-beach-better-fork-head-pudding-wolf-spirit |  
 | bip_39_word_new_br_1 | size |  
 | bip_39_word_new_br_10 | size<br>state<br>beach<br>better<br>fork<br>head<br>pudding<br>wolf<br>spirit<br>reason |  
 | bip_39_word_new_br_11 | size<br>state<br>beach<br>better<br>fork<br>head<br>pudding<br>wolf<br>spirit<br>reason<br>control |  
@@ -147,6 +159,18 @@ spirit |
 | bip_39_word_space_7 | size state beach better fork head pudding |  
 | bip_39_word_space_8 | size state beach better fork head pudding wolf |  
 | bip_39_word_space_9 | size state beach better fork head pudding wolf spirit |  
+| bip_39_word_underscore_1 | size |  
+| bip_39_word_underscore_10 | size_state_beach_better_fork_head_pudding_wolf_spirit_reason |  
+| bip_39_word_underscore_11 | size_state_beach_better_fork_head_pudding_wolf_spirit_reason_control |  
+| bip_39_word_underscore_12 | size_state_beach_better_fork_head_pudding_wolf_spirit_reason_control_allow |  
+| bip_39_word_underscore_2 | size_state |  
+| bip_39_word_underscore_3 | size_state_beach |  
+| bip_39_word_underscore_4 | size_state_beach_better |  
+| bip_39_word_underscore_5 | size_state_beach_better_fork |  
+| bip_39_word_underscore_6 | size_state_beach_better_fork_head |  
+| bip_39_word_underscore_7 | size_state_beach_better_fork_head_pudding |  
+| bip_39_word_underscore_8 | size_state_beach_better_fork_head_pudding_wolf |  
+| bip_39_word_underscore_9 | size_state_beach_better_fork_head_pudding_wolf_spirit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

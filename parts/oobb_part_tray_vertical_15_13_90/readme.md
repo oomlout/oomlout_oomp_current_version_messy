@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swift |  
+| bip_39_word_dash_10 | swift-uniform-outer-exotic-key-group-river-advance-print-crime |  
+| bip_39_word_dash_11 | swift-uniform-outer-exotic-key-group-river-advance-print-crime-wear |  
+| bip_39_word_dash_12 | swift-uniform-outer-exotic-key-group-river-advance-print-crime-wear-actor |  
+| bip_39_word_dash_2 | swift-uniform |  
+| bip_39_word_dash_3 | swift-uniform-outer |  
+| bip_39_word_dash_4 | swift-uniform-outer-exotic |  
+| bip_39_word_dash_5 | swift-uniform-outer-exotic-key |  
+| bip_39_word_dash_6 | swift-uniform-outer-exotic-key-group |  
+| bip_39_word_dash_7 | swift-uniform-outer-exotic-key-group-river |  
+| bip_39_word_dash_8 | swift-uniform-outer-exotic-key-group-river-advance |  
+| bip_39_word_dash_9 | swift-uniform-outer-exotic-key-group-river-advance-print |  
 | bip_39_word_new_br_1 | swift |  
 | bip_39_word_new_br_10 | swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime |  
 | bip_39_word_new_br_11 | swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime<br>wear |  
@@ -147,6 +159,18 @@ print |
 | bip_39_word_space_7 | swift uniform outer exotic key group river |  
 | bip_39_word_space_8 | swift uniform outer exotic key group river advance |  
 | bip_39_word_space_9 | swift uniform outer exotic key group river advance print |  
+| bip_39_word_underscore_1 | swift |  
+| bip_39_word_underscore_10 | swift_uniform_outer_exotic_key_group_river_advance_print_crime |  
+| bip_39_word_underscore_11 | swift_uniform_outer_exotic_key_group_river_advance_print_crime_wear |  
+| bip_39_word_underscore_12 | swift_uniform_outer_exotic_key_group_river_advance_print_crime_wear_actor |  
+| bip_39_word_underscore_2 | swift_uniform |  
+| bip_39_word_underscore_3 | swift_uniform_outer |  
+| bip_39_word_underscore_4 | swift_uniform_outer_exotic |  
+| bip_39_word_underscore_5 | swift_uniform_outer_exotic_key |  
+| bip_39_word_underscore_6 | swift_uniform_outer_exotic_key_group |  
+| bip_39_word_underscore_7 | swift_uniform_outer_exotic_key_group_river |  
+| bip_39_word_underscore_8 | swift_uniform_outer_exotic_key_group_river_advance |  
+| bip_39_word_underscore_9 | swift_uniform_outer_exotic_key_group_river_advance_print |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

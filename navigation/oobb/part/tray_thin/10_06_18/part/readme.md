@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | high |  
+| bip_39_word_dash_10 | high-general-kick-roof-scheme-six-north-license-tragic-prosper |  
+| bip_39_word_dash_11 | high-general-kick-roof-scheme-six-north-license-tragic-prosper-owner |  
+| bip_39_word_dash_12 | high-general-kick-roof-scheme-six-north-license-tragic-prosper-owner-arch |  
+| bip_39_word_dash_2 | high-general |  
+| bip_39_word_dash_3 | high-general-kick |  
+| bip_39_word_dash_4 | high-general-kick-roof |  
+| bip_39_word_dash_5 | high-general-kick-roof-scheme |  
+| bip_39_word_dash_6 | high-general-kick-roof-scheme-six |  
+| bip_39_word_dash_7 | high-general-kick-roof-scheme-six-north |  
+| bip_39_word_dash_8 | high-general-kick-roof-scheme-six-north-license |  
+| bip_39_word_dash_9 | high-general-kick-roof-scheme-six-north-license-tragic |  
 | bip_39_word_new_br_1 | high |  
 | bip_39_word_new_br_10 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper |  
 | bip_39_word_new_br_11 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper<br>owner |  
@@ -147,6 +159,18 @@ tragic |
 | bip_39_word_space_7 | high general kick roof scheme six north |  
 | bip_39_word_space_8 | high general kick roof scheme six north license |  
 | bip_39_word_space_9 | high general kick roof scheme six north license tragic |  
+| bip_39_word_underscore_1 | high |  
+| bip_39_word_underscore_10 | high_general_kick_roof_scheme_six_north_license_tragic_prosper |  
+| bip_39_word_underscore_11 | high_general_kick_roof_scheme_six_north_license_tragic_prosper_owner |  
+| bip_39_word_underscore_12 | high_general_kick_roof_scheme_six_north_license_tragic_prosper_owner_arch |  
+| bip_39_word_underscore_2 | high_general |  
+| bip_39_word_underscore_3 | high_general_kick |  
+| bip_39_word_underscore_4 | high_general_kick_roof |  
+| bip_39_word_underscore_5 | high_general_kick_roof_scheme |  
+| bip_39_word_underscore_6 | high_general_kick_roof_scheme_six |  
+| bip_39_word_underscore_7 | high_general_kick_roof_scheme_six_north |  
+| bip_39_word_underscore_8 | high_general_kick_roof_scheme_six_north_license |  
+| bip_39_word_underscore_9 | high_general_kick_roof_scheme_six_north_license_tragic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | live |  
+| bip_39_word_dash_10 | live-swamp-boost-intact-curious-identify-relax-feature-island-elite |  
+| bip_39_word_dash_11 | live-swamp-boost-intact-curious-identify-relax-feature-island-elite-ridge |  
+| bip_39_word_dash_12 | live-swamp-boost-intact-curious-identify-relax-feature-island-elite-ridge-aim |  
+| bip_39_word_dash_2 | live-swamp |  
+| bip_39_word_dash_3 | live-swamp-boost |  
+| bip_39_word_dash_4 | live-swamp-boost-intact |  
+| bip_39_word_dash_5 | live-swamp-boost-intact-curious |  
+| bip_39_word_dash_6 | live-swamp-boost-intact-curious-identify |  
+| bip_39_word_dash_7 | live-swamp-boost-intact-curious-identify-relax |  
+| bip_39_word_dash_8 | live-swamp-boost-intact-curious-identify-relax-feature |  
+| bip_39_word_dash_9 | live-swamp-boost-intact-curious-identify-relax-feature-island |  
 | bip_39_word_new_br_1 | live |  
 | bip_39_word_new_br_10 | live<br>swamp<br>boost<br>intact<br>curious<br>identify<br>relax<br>feature<br>island<br>elite |  
 | bip_39_word_new_br_11 | live<br>swamp<br>boost<br>intact<br>curious<br>identify<br>relax<br>feature<br>island<br>elite<br>ridge |  
@@ -147,6 +159,18 @@ island |
 | bip_39_word_space_7 | live swamp boost intact curious identify relax |  
 | bip_39_word_space_8 | live swamp boost intact curious identify relax feature |  
 | bip_39_word_space_9 | live swamp boost intact curious identify relax feature island |  
+| bip_39_word_underscore_1 | live |  
+| bip_39_word_underscore_10 | live_swamp_boost_intact_curious_identify_relax_feature_island_elite |  
+| bip_39_word_underscore_11 | live_swamp_boost_intact_curious_identify_relax_feature_island_elite_ridge |  
+| bip_39_word_underscore_12 | live_swamp_boost_intact_curious_identify_relax_feature_island_elite_ridge_aim |  
+| bip_39_word_underscore_2 | live_swamp |  
+| bip_39_word_underscore_3 | live_swamp_boost |  
+| bip_39_word_underscore_4 | live_swamp_boost_intact |  
+| bip_39_word_underscore_5 | live_swamp_boost_intact_curious |  
+| bip_39_word_underscore_6 | live_swamp_boost_intact_curious_identify |  
+| bip_39_word_underscore_7 | live_swamp_boost_intact_curious_identify_relax |  
+| bip_39_word_underscore_8 | live_swamp_boost_intact_curious_identify_relax_feature |  
+| bip_39_word_underscore_9 | live_swamp_boost_intact_curious_identify_relax_feature_island |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

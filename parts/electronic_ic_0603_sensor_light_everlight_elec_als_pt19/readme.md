@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | board |  
+| bip_39_word_dash_10 | board-senior-often-food-drill-dice-ugly-empty-brown-trumpet |  
+| bip_39_word_dash_11 | board-senior-often-food-drill-dice-ugly-empty-brown-trumpet-erupt |  
+| bip_39_word_dash_12 | board-senior-often-food-drill-dice-ugly-empty-brown-trumpet-erupt-appear |  
+| bip_39_word_dash_2 | board-senior |  
+| bip_39_word_dash_3 | board-senior-often |  
+| bip_39_word_dash_4 | board-senior-often-food |  
+| bip_39_word_dash_5 | board-senior-often-food-drill |  
+| bip_39_word_dash_6 | board-senior-often-food-drill-dice |  
+| bip_39_word_dash_7 | board-senior-often-food-drill-dice-ugly |  
+| bip_39_word_dash_8 | board-senior-often-food-drill-dice-ugly-empty |  
+| bip_39_word_dash_9 | board-senior-often-food-drill-dice-ugly-empty-brown |  
 | bip_39_word_new_br_1 | board |  
 | bip_39_word_new_br_10 | board<br>senior<br>often<br>food<br>drill<br>dice<br>ugly<br>empty<br>brown<br>trumpet |  
 | bip_39_word_new_br_11 | board<br>senior<br>often<br>food<br>drill<br>dice<br>ugly<br>empty<br>brown<br>trumpet<br>erupt |  
@@ -147,6 +159,18 @@ brown |
 | bip_39_word_space_7 | board senior often food drill dice ugly |  
 | bip_39_word_space_8 | board senior often food drill dice ugly empty |  
 | bip_39_word_space_9 | board senior often food drill dice ugly empty brown |  
+| bip_39_word_underscore_1 | board |  
+| bip_39_word_underscore_10 | board_senior_often_food_drill_dice_ugly_empty_brown_trumpet |  
+| bip_39_word_underscore_11 | board_senior_often_food_drill_dice_ugly_empty_brown_trumpet_erupt |  
+| bip_39_word_underscore_12 | board_senior_often_food_drill_dice_ugly_empty_brown_trumpet_erupt_appear |  
+| bip_39_word_underscore_2 | board_senior |  
+| bip_39_word_underscore_3 | board_senior_often |  
+| bip_39_word_underscore_4 | board_senior_often_food |  
+| bip_39_word_underscore_5 | board_senior_often_food_drill |  
+| bip_39_word_underscore_6 | board_senior_often_food_drill_dice |  
+| bip_39_word_underscore_7 | board_senior_often_food_drill_dice_ugly |  
+| bip_39_word_underscore_8 | board_senior_often_food_drill_dice_ugly_empty |  
+| bip_39_word_underscore_9 | board_senior_often_food_drill_dice_ugly_empty_brown |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | service |  
+| bip_39_word_dash_10 | service-brown-cute-bulb-rug-wood-awake-flush-ignore-column |  
+| bip_39_word_dash_11 | service-brown-cute-bulb-rug-wood-awake-flush-ignore-column-tomato |  
+| bip_39_word_dash_12 | service-brown-cute-bulb-rug-wood-awake-flush-ignore-column-tomato-add |  
+| bip_39_word_dash_2 | service-brown |  
+| bip_39_word_dash_3 | service-brown-cute |  
+| bip_39_word_dash_4 | service-brown-cute-bulb |  
+| bip_39_word_dash_5 | service-brown-cute-bulb-rug |  
+| bip_39_word_dash_6 | service-brown-cute-bulb-rug-wood |  
+| bip_39_word_dash_7 | service-brown-cute-bulb-rug-wood-awake |  
+| bip_39_word_dash_8 | service-brown-cute-bulb-rug-wood-awake-flush |  
+| bip_39_word_dash_9 | service-brown-cute-bulb-rug-wood-awake-flush-ignore |  
 | bip_39_word_new_br_1 | service |  
 | bip_39_word_new_br_10 | service<br>brown<br>cute<br>bulb<br>rug<br>wood<br>awake<br>flush<br>ignore<br>column |  
 | bip_39_word_new_br_11 | service<br>brown<br>cute<br>bulb<br>rug<br>wood<br>awake<br>flush<br>ignore<br>column<br>tomato |  
@@ -147,6 +159,18 @@ ignore |
 | bip_39_word_space_7 | service brown cute bulb rug wood awake |  
 | bip_39_word_space_8 | service brown cute bulb rug wood awake flush |  
 | bip_39_word_space_9 | service brown cute bulb rug wood awake flush ignore |  
+| bip_39_word_underscore_1 | service |  
+| bip_39_word_underscore_10 | service_brown_cute_bulb_rug_wood_awake_flush_ignore_column |  
+| bip_39_word_underscore_11 | service_brown_cute_bulb_rug_wood_awake_flush_ignore_column_tomato |  
+| bip_39_word_underscore_12 | service_brown_cute_bulb_rug_wood_awake_flush_ignore_column_tomato_add |  
+| bip_39_word_underscore_2 | service_brown |  
+| bip_39_word_underscore_3 | service_brown_cute |  
+| bip_39_word_underscore_4 | service_brown_cute_bulb |  
+| bip_39_word_underscore_5 | service_brown_cute_bulb_rug |  
+| bip_39_word_underscore_6 | service_brown_cute_bulb_rug_wood |  
+| bip_39_word_underscore_7 | service_brown_cute_bulb_rug_wood_awake |  
+| bip_39_word_underscore_8 | service_brown_cute_bulb_rug_wood_awake_flush |  
+| bip_39_word_underscore_9 | service_brown_cute_bulb_rug_wood_awake_flush_ignore |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

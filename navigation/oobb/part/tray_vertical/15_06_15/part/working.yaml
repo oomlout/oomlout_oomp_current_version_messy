@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chapter
+bip_39_word_dash_10: chapter-entire-unlock-hello-spray-power-tide-diamond-chaos-bike
+bip_39_word_dash_11: chapter-entire-unlock-hello-spray-power-tide-diamond-chaos-bike-useless
+bip_39_word_dash_12: chapter-entire-unlock-hello-spray-power-tide-diamond-chaos-bike-useless-alarm
+bip_39_word_dash_2: chapter-entire
+bip_39_word_dash_3: chapter-entire-unlock
+bip_39_word_dash_4: chapter-entire-unlock-hello
+bip_39_word_dash_5: chapter-entire-unlock-hello-spray
+bip_39_word_dash_6: chapter-entire-unlock-hello-spray-power
+bip_39_word_dash_7: chapter-entire-unlock-hello-spray-power-tide
+bip_39_word_dash_8: chapter-entire-unlock-hello-spray-power-tide-diamond
+bip_39_word_dash_9: chapter-entire-unlock-hello-spray-power-tide-diamond-chaos
 bip_39_word_new_br_1: chapter
 bip_39_word_new_br_10: chapter<br>entire<br>unlock<br>hello<br>spray<br>power<br>tide<br>diamond<br>chaos<br>bike
 bip_39_word_new_br_11: chapter<br>entire<br>unlock<br>hello<br>spray<br>power<br>tide<br>diamond<br>chaos<br>bike<br>useless
@@ -193,6 +205,18 @@ bip_39_word_space_6: chapter entire unlock hello spray power
 bip_39_word_space_7: chapter entire unlock hello spray power tide
 bip_39_word_space_8: chapter entire unlock hello spray power tide diamond
 bip_39_word_space_9: chapter entire unlock hello spray power tide diamond chaos
+bip_39_word_underscore_1: chapter
+bip_39_word_underscore_10: chapter_entire_unlock_hello_spray_power_tide_diamond_chaos_bike
+bip_39_word_underscore_11: chapter_entire_unlock_hello_spray_power_tide_diamond_chaos_bike_useless
+bip_39_word_underscore_12: chapter_entire_unlock_hello_spray_power_tide_diamond_chaos_bike_useless_alarm
+bip_39_word_underscore_2: chapter_entire
+bip_39_word_underscore_3: chapter_entire_unlock
+bip_39_word_underscore_4: chapter_entire_unlock_hello
+bip_39_word_underscore_5: chapter_entire_unlock_hello_spray
+bip_39_word_underscore_6: chapter_entire_unlock_hello_spray_power
+bip_39_word_underscore_7: chapter_entire_unlock_hello_spray_power_tide
+bip_39_word_underscore_8: chapter_entire_unlock_hello_spray_power_tide_diamond
+bip_39_word_underscore_9: chapter_entire_unlock_hello_spray_power_tide_diamond_chaos
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | copper |  
+| bip_39_word_dash_10 | copper-emotion-approve-pottery-spring-total-absurd-segment-mesh-cactus |  
+| bip_39_word_dash_11 | copper-emotion-approve-pottery-spring-total-absurd-segment-mesh-cactus-popular |  
+| bip_39_word_dash_12 | copper-emotion-approve-pottery-spring-total-absurd-segment-mesh-cactus-popular-arrow |  
+| bip_39_word_dash_2 | copper-emotion |  
+| bip_39_word_dash_3 | copper-emotion-approve |  
+| bip_39_word_dash_4 | copper-emotion-approve-pottery |  
+| bip_39_word_dash_5 | copper-emotion-approve-pottery-spring |  
+| bip_39_word_dash_6 | copper-emotion-approve-pottery-spring-total |  
+| bip_39_word_dash_7 | copper-emotion-approve-pottery-spring-total-absurd |  
+| bip_39_word_dash_8 | copper-emotion-approve-pottery-spring-total-absurd-segment |  
+| bip_39_word_dash_9 | copper-emotion-approve-pottery-spring-total-absurd-segment-mesh |  
 | bip_39_word_new_br_1 | copper |  
 | bip_39_word_new_br_10 | copper<br>emotion<br>approve<br>pottery<br>spring<br>total<br>absurd<br>segment<br>mesh<br>cactus |  
 | bip_39_word_new_br_11 | copper<br>emotion<br>approve<br>pottery<br>spring<br>total<br>absurd<br>segment<br>mesh<br>cactus<br>popular |  
@@ -147,6 +159,18 @@ mesh |
 | bip_39_word_space_7 | copper emotion approve pottery spring total absurd |  
 | bip_39_word_space_8 | copper emotion approve pottery spring total absurd segment |  
 | bip_39_word_space_9 | copper emotion approve pottery spring total absurd segment mesh |  
+| bip_39_word_underscore_1 | copper |  
+| bip_39_word_underscore_10 | copper_emotion_approve_pottery_spring_total_absurd_segment_mesh_cactus |  
+| bip_39_word_underscore_11 | copper_emotion_approve_pottery_spring_total_absurd_segment_mesh_cactus_popular |  
+| bip_39_word_underscore_12 | copper_emotion_approve_pottery_spring_total_absurd_segment_mesh_cactus_popular_arrow |  
+| bip_39_word_underscore_2 | copper_emotion |  
+| bip_39_word_underscore_3 | copper_emotion_approve |  
+| bip_39_word_underscore_4 | copper_emotion_approve_pottery |  
+| bip_39_word_underscore_5 | copper_emotion_approve_pottery_spring |  
+| bip_39_word_underscore_6 | copper_emotion_approve_pottery_spring_total |  
+| bip_39_word_underscore_7 | copper_emotion_approve_pottery_spring_total_absurd |  
+| bip_39_word_underscore_8 | copper_emotion_approve_pottery_spring_total_absurd_segment |  
+| bip_39_word_underscore_9 | copper_emotion_approve_pottery_spring_total_absurd_segment_mesh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

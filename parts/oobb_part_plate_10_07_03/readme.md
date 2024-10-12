@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rough |  
+| bip_39_word_dash_10 | rough-year-monster-brand-million-work-rack-analyst-thank-hamster |  
+| bip_39_word_dash_11 | rough-year-monster-brand-million-work-rack-analyst-thank-hamster-humble |  
+| bip_39_word_dash_12 | rough-year-monster-brand-million-work-rack-analyst-thank-hamster-humble-avocado |  
+| bip_39_word_dash_2 | rough-year |  
+| bip_39_word_dash_3 | rough-year-monster |  
+| bip_39_word_dash_4 | rough-year-monster-brand |  
+| bip_39_word_dash_5 | rough-year-monster-brand-million |  
+| bip_39_word_dash_6 | rough-year-monster-brand-million-work |  
+| bip_39_word_dash_7 | rough-year-monster-brand-million-work-rack |  
+| bip_39_word_dash_8 | rough-year-monster-brand-million-work-rack-analyst |  
+| bip_39_word_dash_9 | rough-year-monster-brand-million-work-rack-analyst-thank |  
 | bip_39_word_new_br_1 | rough |  
 | bip_39_word_new_br_10 | rough<br>year<br>monster<br>brand<br>million<br>work<br>rack<br>analyst<br>thank<br>hamster |  
 | bip_39_word_new_br_11 | rough<br>year<br>monster<br>brand<br>million<br>work<br>rack<br>analyst<br>thank<br>hamster<br>humble |  
@@ -147,6 +159,18 @@ thank |
 | bip_39_word_space_7 | rough year monster brand million work rack |  
 | bip_39_word_space_8 | rough year monster brand million work rack analyst |  
 | bip_39_word_space_9 | rough year monster brand million work rack analyst thank |  
+| bip_39_word_underscore_1 | rough |  
+| bip_39_word_underscore_10 | rough_year_monster_brand_million_work_rack_analyst_thank_hamster |  
+| bip_39_word_underscore_11 | rough_year_monster_brand_million_work_rack_analyst_thank_hamster_humble |  
+| bip_39_word_underscore_12 | rough_year_monster_brand_million_work_rack_analyst_thank_hamster_humble_avocado |  
+| bip_39_word_underscore_2 | rough_year |  
+| bip_39_word_underscore_3 | rough_year_monster |  
+| bip_39_word_underscore_4 | rough_year_monster_brand |  
+| bip_39_word_underscore_5 | rough_year_monster_brand_million |  
+| bip_39_word_underscore_6 | rough_year_monster_brand_million_work |  
+| bip_39_word_underscore_7 | rough_year_monster_brand_million_work_rack |  
+| bip_39_word_underscore_8 | rough_year_monster_brand_million_work_rack_analyst |  
+| bip_39_word_underscore_9 | rough_year_monster_brand_million_work_rack_analyst_thank |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

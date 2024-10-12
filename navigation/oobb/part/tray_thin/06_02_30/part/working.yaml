@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dilemma
+bip_39_word_dash_10: dilemma-capital-canvas-enable-liquid-seat-alpha-nice-soft-flavor
+bip_39_word_dash_11: dilemma-capital-canvas-enable-liquid-seat-alpha-nice-soft-flavor-hen
+bip_39_word_dash_12: dilemma-capital-canvas-enable-liquid-seat-alpha-nice-soft-flavor-hen-arena
+bip_39_word_dash_2: dilemma-capital
+bip_39_word_dash_3: dilemma-capital-canvas
+bip_39_word_dash_4: dilemma-capital-canvas-enable
+bip_39_word_dash_5: dilemma-capital-canvas-enable-liquid
+bip_39_word_dash_6: dilemma-capital-canvas-enable-liquid-seat
+bip_39_word_dash_7: dilemma-capital-canvas-enable-liquid-seat-alpha
+bip_39_word_dash_8: dilemma-capital-canvas-enable-liquid-seat-alpha-nice
+bip_39_word_dash_9: dilemma-capital-canvas-enable-liquid-seat-alpha-nice-soft
 bip_39_word_new_br_1: dilemma
 bip_39_word_new_br_10: dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor
 bip_39_word_new_br_11: dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor<br>hen
@@ -193,6 +205,18 @@ bip_39_word_space_6: dilemma capital canvas enable liquid seat
 bip_39_word_space_7: dilemma capital canvas enable liquid seat alpha
 bip_39_word_space_8: dilemma capital canvas enable liquid seat alpha nice
 bip_39_word_space_9: dilemma capital canvas enable liquid seat alpha nice soft
+bip_39_word_underscore_1: dilemma
+bip_39_word_underscore_10: dilemma_capital_canvas_enable_liquid_seat_alpha_nice_soft_flavor
+bip_39_word_underscore_11: dilemma_capital_canvas_enable_liquid_seat_alpha_nice_soft_flavor_hen
+bip_39_word_underscore_12: dilemma_capital_canvas_enable_liquid_seat_alpha_nice_soft_flavor_hen_arena
+bip_39_word_underscore_2: dilemma_capital
+bip_39_word_underscore_3: dilemma_capital_canvas
+bip_39_word_underscore_4: dilemma_capital_canvas_enable
+bip_39_word_underscore_5: dilemma_capital_canvas_enable_liquid
+bip_39_word_underscore_6: dilemma_capital_canvas_enable_liquid_seat
+bip_39_word_underscore_7: dilemma_capital_canvas_enable_liquid_seat_alpha
+bip_39_word_underscore_8: dilemma_capital_canvas_enable_liquid_seat_alpha_nice
+bip_39_word_underscore_9: dilemma_capital_canvas_enable_liquid_seat_alpha_nice_soft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

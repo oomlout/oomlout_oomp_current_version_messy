@@ -1,3 +1,15 @@
+bip_39_word_dash_1: plate
+bip_39_word_dash_10: plate-glare-annual-chef-vivid-spatial-rotate-rail-enlist-tail
+bip_39_word_dash_11: plate-glare-annual-chef-vivid-spatial-rotate-rail-enlist-tail-weird
+bip_39_word_dash_12: plate-glare-annual-chef-vivid-spatial-rotate-rail-enlist-tail-weird-always
+bip_39_word_dash_2: plate-glare
+bip_39_word_dash_3: plate-glare-annual
+bip_39_word_dash_4: plate-glare-annual-chef
+bip_39_word_dash_5: plate-glare-annual-chef-vivid
+bip_39_word_dash_6: plate-glare-annual-chef-vivid-spatial
+bip_39_word_dash_7: plate-glare-annual-chef-vivid-spatial-rotate
+bip_39_word_dash_8: plate-glare-annual-chef-vivid-spatial-rotate-rail
+bip_39_word_dash_9: plate-glare-annual-chef-vivid-spatial-rotate-rail-enlist
 bip_39_word_new_br_1: plate
 bip_39_word_new_br_10: plate<br>glare<br>annual<br>chef<br>vivid<br>spatial<br>rotate<br>rail<br>enlist<br>tail
 bip_39_word_new_br_11: plate<br>glare<br>annual<br>chef<br>vivid<br>spatial<br>rotate<br>rail<br>enlist<br>tail<br>weird
@@ -193,6 +205,18 @@ bip_39_word_space_6: plate glare annual chef vivid spatial
 bip_39_word_space_7: plate glare annual chef vivid spatial rotate
 bip_39_word_space_8: plate glare annual chef vivid spatial rotate rail
 bip_39_word_space_9: plate glare annual chef vivid spatial rotate rail enlist
+bip_39_word_underscore_1: plate
+bip_39_word_underscore_10: plate_glare_annual_chef_vivid_spatial_rotate_rail_enlist_tail
+bip_39_word_underscore_11: plate_glare_annual_chef_vivid_spatial_rotate_rail_enlist_tail_weird
+bip_39_word_underscore_12: plate_glare_annual_chef_vivid_spatial_rotate_rail_enlist_tail_weird_always
+bip_39_word_underscore_2: plate_glare
+bip_39_word_underscore_3: plate_glare_annual
+bip_39_word_underscore_4: plate_glare_annual_chef
+bip_39_word_underscore_5: plate_glare_annual_chef_vivid
+bip_39_word_underscore_6: plate_glare_annual_chef_vivid_spatial
+bip_39_word_underscore_7: plate_glare_annual_chef_vivid_spatial_rotate
+bip_39_word_underscore_8: plate_glare_annual_chef_vivid_spatial_rotate_rail
+bip_39_word_underscore_9: plate_glare_annual_chef_vivid_spatial_rotate_rail_enlist
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

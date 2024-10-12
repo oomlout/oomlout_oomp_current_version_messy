@@ -1,3 +1,15 @@
+bip_39_word_dash_1: seed
+bip_39_word_dash_10: seed-miss-mountain-fiscal-knee-sponsor-elite-cheap-term-congress
+bip_39_word_dash_11: seed-miss-mountain-fiscal-knee-sponsor-elite-cheap-term-congress-wife
+bip_39_word_dash_12: seed-miss-mountain-fiscal-knee-sponsor-elite-cheap-term-congress-wife-artist
+bip_39_word_dash_2: seed-miss
+bip_39_word_dash_3: seed-miss-mountain
+bip_39_word_dash_4: seed-miss-mountain-fiscal
+bip_39_word_dash_5: seed-miss-mountain-fiscal-knee
+bip_39_word_dash_6: seed-miss-mountain-fiscal-knee-sponsor
+bip_39_word_dash_7: seed-miss-mountain-fiscal-knee-sponsor-elite
+bip_39_word_dash_8: seed-miss-mountain-fiscal-knee-sponsor-elite-cheap
+bip_39_word_dash_9: seed-miss-mountain-fiscal-knee-sponsor-elite-cheap-term
 bip_39_word_new_br_1: seed
 bip_39_word_new_br_10: seed<br>miss<br>mountain<br>fiscal<br>knee<br>sponsor<br>elite<br>cheap<br>term<br>congress
 bip_39_word_new_br_11: seed<br>miss<br>mountain<br>fiscal<br>knee<br>sponsor<br>elite<br>cheap<br>term<br>congress<br>wife
@@ -193,6 +205,18 @@ bip_39_word_space_6: seed miss mountain fiscal knee sponsor
 bip_39_word_space_7: seed miss mountain fiscal knee sponsor elite
 bip_39_word_space_8: seed miss mountain fiscal knee sponsor elite cheap
 bip_39_word_space_9: seed miss mountain fiscal knee sponsor elite cheap term
+bip_39_word_underscore_1: seed
+bip_39_word_underscore_10: seed_miss_mountain_fiscal_knee_sponsor_elite_cheap_term_congress
+bip_39_word_underscore_11: seed_miss_mountain_fiscal_knee_sponsor_elite_cheap_term_congress_wife
+bip_39_word_underscore_12: seed_miss_mountain_fiscal_knee_sponsor_elite_cheap_term_congress_wife_artist
+bip_39_word_underscore_2: seed_miss
+bip_39_word_underscore_3: seed_miss_mountain
+bip_39_word_underscore_4: seed_miss_mountain_fiscal
+bip_39_word_underscore_5: seed_miss_mountain_fiscal_knee
+bip_39_word_underscore_6: seed_miss_mountain_fiscal_knee_sponsor
+bip_39_word_underscore_7: seed_miss_mountain_fiscal_knee_sponsor_elite
+bip_39_word_underscore_8: seed_miss_mountain_fiscal_knee_sponsor_elite_cheap
+bip_39_word_underscore_9: seed_miss_mountain_fiscal_knee_sponsor_elite_cheap_term
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

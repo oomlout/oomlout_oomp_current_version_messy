@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tower
+bip_39_word_dash_10: tower-better-sheriff-blue-mesh-ecology-review-possible-creek-high
+bip_39_word_dash_11: tower-better-sheriff-blue-mesh-ecology-review-possible-creek-high-scout
+bip_39_word_dash_12: tower-better-sheriff-blue-mesh-ecology-review-possible-creek-high-scout-again
+bip_39_word_dash_2: tower-better
+bip_39_word_dash_3: tower-better-sheriff
+bip_39_word_dash_4: tower-better-sheriff-blue
+bip_39_word_dash_5: tower-better-sheriff-blue-mesh
+bip_39_word_dash_6: tower-better-sheriff-blue-mesh-ecology
+bip_39_word_dash_7: tower-better-sheriff-blue-mesh-ecology-review
+bip_39_word_dash_8: tower-better-sheriff-blue-mesh-ecology-review-possible
+bip_39_word_dash_9: tower-better-sheriff-blue-mesh-ecology-review-possible-creek
 bip_39_word_new_br_1: tower
 bip_39_word_new_br_10: tower<br>better<br>sheriff<br>blue<br>mesh<br>ecology<br>review<br>possible<br>creek<br>high
 bip_39_word_new_br_11: tower<br>better<br>sheriff<br>blue<br>mesh<br>ecology<br>review<br>possible<br>creek<br>high<br>scout
@@ -194,6 +206,18 @@ bip_39_word_space_6: tower better sheriff blue mesh ecology
 bip_39_word_space_7: tower better sheriff blue mesh ecology review
 bip_39_word_space_8: tower better sheriff blue mesh ecology review possible
 bip_39_word_space_9: tower better sheriff blue mesh ecology review possible creek
+bip_39_word_underscore_1: tower
+bip_39_word_underscore_10: tower_better_sheriff_blue_mesh_ecology_review_possible_creek_high
+bip_39_word_underscore_11: tower_better_sheriff_blue_mesh_ecology_review_possible_creek_high_scout
+bip_39_word_underscore_12: tower_better_sheriff_blue_mesh_ecology_review_possible_creek_high_scout_again
+bip_39_word_underscore_2: tower_better
+bip_39_word_underscore_3: tower_better_sheriff
+bip_39_word_underscore_4: tower_better_sheriff_blue
+bip_39_word_underscore_5: tower_better_sheriff_blue_mesh
+bip_39_word_underscore_6: tower_better_sheriff_blue_mesh_ecology
+bip_39_word_underscore_7: tower_better_sheriff_blue_mesh_ecology_review
+bip_39_word_underscore_8: tower_better_sheriff_blue_mesh_ecology_review_possible
+bip_39_word_underscore_9: tower_better_sheriff_blue_mesh_ecology_review_possible_creek
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

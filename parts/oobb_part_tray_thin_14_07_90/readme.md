@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | add |  
+| bip_39_word_dash_10 | add-fossil-aerobic-wait-talk-pull-purity-gift-pumpkin-try |  
+| bip_39_word_dash_11 | add-fossil-aerobic-wait-talk-pull-purity-gift-pumpkin-try-bulk |  
+| bip_39_word_dash_12 | add-fossil-aerobic-wait-talk-pull-purity-gift-pumpkin-try-bulk-asthma |  
+| bip_39_word_dash_2 | add-fossil |  
+| bip_39_word_dash_3 | add-fossil-aerobic |  
+| bip_39_word_dash_4 | add-fossil-aerobic-wait |  
+| bip_39_word_dash_5 | add-fossil-aerobic-wait-talk |  
+| bip_39_word_dash_6 | add-fossil-aerobic-wait-talk-pull |  
+| bip_39_word_dash_7 | add-fossil-aerobic-wait-talk-pull-purity |  
+| bip_39_word_dash_8 | add-fossil-aerobic-wait-talk-pull-purity-gift |  
+| bip_39_word_dash_9 | add-fossil-aerobic-wait-talk-pull-purity-gift-pumpkin |  
 | bip_39_word_new_br_1 | add |  
 | bip_39_word_new_br_10 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try |  
 | bip_39_word_new_br_11 | add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try<br>bulk |  
@@ -147,6 +159,18 @@ pumpkin |
 | bip_39_word_space_7 | add fossil aerobic wait talk pull purity |  
 | bip_39_word_space_8 | add fossil aerobic wait talk pull purity gift |  
 | bip_39_word_space_9 | add fossil aerobic wait talk pull purity gift pumpkin |  
+| bip_39_word_underscore_1 | add |  
+| bip_39_word_underscore_10 | add_fossil_aerobic_wait_talk_pull_purity_gift_pumpkin_try |  
+| bip_39_word_underscore_11 | add_fossil_aerobic_wait_talk_pull_purity_gift_pumpkin_try_bulk |  
+| bip_39_word_underscore_12 | add_fossil_aerobic_wait_talk_pull_purity_gift_pumpkin_try_bulk_asthma |  
+| bip_39_word_underscore_2 | add_fossil |  
+| bip_39_word_underscore_3 | add_fossil_aerobic |  
+| bip_39_word_underscore_4 | add_fossil_aerobic_wait |  
+| bip_39_word_underscore_5 | add_fossil_aerobic_wait_talk |  
+| bip_39_word_underscore_6 | add_fossil_aerobic_wait_talk_pull |  
+| bip_39_word_underscore_7 | add_fossil_aerobic_wait_talk_pull_purity |  
+| bip_39_word_underscore_8 | add_fossil_aerobic_wait_talk_pull_purity_gift |  
+| bip_39_word_underscore_9 | add_fossil_aerobic_wait_talk_pull_purity_gift_pumpkin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

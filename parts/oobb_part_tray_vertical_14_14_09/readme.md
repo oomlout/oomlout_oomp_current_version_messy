@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | three |  
+| bip_39_word_dash_10 | three-upon-label-nurse-laundry-load-any-culture-panic-sting |  
+| bip_39_word_dash_11 | three-upon-label-nurse-laundry-load-any-culture-panic-sting-earth |  
+| bip_39_word_dash_12 | three-upon-label-nurse-laundry-load-any-culture-panic-sting-earth-arrange |  
+| bip_39_word_dash_2 | three-upon |  
+| bip_39_word_dash_3 | three-upon-label |  
+| bip_39_word_dash_4 | three-upon-label-nurse |  
+| bip_39_word_dash_5 | three-upon-label-nurse-laundry |  
+| bip_39_word_dash_6 | three-upon-label-nurse-laundry-load |  
+| bip_39_word_dash_7 | three-upon-label-nurse-laundry-load-any |  
+| bip_39_word_dash_8 | three-upon-label-nurse-laundry-load-any-culture |  
+| bip_39_word_dash_9 | three-upon-label-nurse-laundry-load-any-culture-panic |  
 | bip_39_word_new_br_1 | three |  
 | bip_39_word_new_br_10 | three<br>upon<br>label<br>nurse<br>laundry<br>load<br>any<br>culture<br>panic<br>sting |  
 | bip_39_word_new_br_11 | three<br>upon<br>label<br>nurse<br>laundry<br>load<br>any<br>culture<br>panic<br>sting<br>earth |  
@@ -147,6 +159,18 @@ panic |
 | bip_39_word_space_7 | three upon label nurse laundry load any |  
 | bip_39_word_space_8 | three upon label nurse laundry load any culture |  
 | bip_39_word_space_9 | three upon label nurse laundry load any culture panic |  
+| bip_39_word_underscore_1 | three |  
+| bip_39_word_underscore_10 | three_upon_label_nurse_laundry_load_any_culture_panic_sting |  
+| bip_39_word_underscore_11 | three_upon_label_nurse_laundry_load_any_culture_panic_sting_earth |  
+| bip_39_word_underscore_12 | three_upon_label_nurse_laundry_load_any_culture_panic_sting_earth_arrange |  
+| bip_39_word_underscore_2 | three_upon |  
+| bip_39_word_underscore_3 | three_upon_label |  
+| bip_39_word_underscore_4 | three_upon_label_nurse |  
+| bip_39_word_underscore_5 | three_upon_label_nurse_laundry |  
+| bip_39_word_underscore_6 | three_upon_label_nurse_laundry_load |  
+| bip_39_word_underscore_7 | three_upon_label_nurse_laundry_load_any |  
+| bip_39_word_underscore_8 | three_upon_label_nurse_laundry_load_any_culture |  
+| bip_39_word_underscore_9 | three_upon_label_nurse_laundry_load_any_culture_panic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

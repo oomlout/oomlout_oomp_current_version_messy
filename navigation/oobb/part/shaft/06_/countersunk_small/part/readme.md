@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | join |  
+| bip_39_word_dash_10 | join-cactus-level-flip-mouse-observe-atom-box-giraffe-zoo |  
+| bip_39_word_dash_11 | join-cactus-level-flip-mouse-observe-atom-box-giraffe-zoo-wagon |  
+| bip_39_word_dash_12 | join-cactus-level-flip-mouse-observe-atom-box-giraffe-zoo-wagon-accuse |  
+| bip_39_word_dash_2 | join-cactus |  
+| bip_39_word_dash_3 | join-cactus-level |  
+| bip_39_word_dash_4 | join-cactus-level-flip |  
+| bip_39_word_dash_5 | join-cactus-level-flip-mouse |  
+| bip_39_word_dash_6 | join-cactus-level-flip-mouse-observe |  
+| bip_39_word_dash_7 | join-cactus-level-flip-mouse-observe-atom |  
+| bip_39_word_dash_8 | join-cactus-level-flip-mouse-observe-atom-box |  
+| bip_39_word_dash_9 | join-cactus-level-flip-mouse-observe-atom-box-giraffe |  
 | bip_39_word_new_br_1 | join |  
 | bip_39_word_new_br_10 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box<br>giraffe<br>zoo |  
 | bip_39_word_new_br_11 | join<br>cactus<br>level<br>flip<br>mouse<br>observe<br>atom<br>box<br>giraffe<br>zoo<br>wagon |  
@@ -147,6 +159,18 @@ giraffe |
 | bip_39_word_space_7 | join cactus level flip mouse observe atom |  
 | bip_39_word_space_8 | join cactus level flip mouse observe atom box |  
 | bip_39_word_space_9 | join cactus level flip mouse observe atom box giraffe |  
+| bip_39_word_underscore_1 | join |  
+| bip_39_word_underscore_10 | join_cactus_level_flip_mouse_observe_atom_box_giraffe_zoo |  
+| bip_39_word_underscore_11 | join_cactus_level_flip_mouse_observe_atom_box_giraffe_zoo_wagon |  
+| bip_39_word_underscore_12 | join_cactus_level_flip_mouse_observe_atom_box_giraffe_zoo_wagon_accuse |  
+| bip_39_word_underscore_2 | join_cactus |  
+| bip_39_word_underscore_3 | join_cactus_level |  
+| bip_39_word_underscore_4 | join_cactus_level_flip |  
+| bip_39_word_underscore_5 | join_cactus_level_flip_mouse |  
+| bip_39_word_underscore_6 | join_cactus_level_flip_mouse_observe |  
+| bip_39_word_underscore_7 | join_cactus_level_flip_mouse_observe_atom |  
+| bip_39_word_underscore_8 | join_cactus_level_flip_mouse_observe_atom_box |  
+| bip_39_word_underscore_9 | join_cactus_level_flip_mouse_observe_atom_box_giraffe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

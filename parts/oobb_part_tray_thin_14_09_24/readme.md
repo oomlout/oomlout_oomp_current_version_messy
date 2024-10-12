@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrest |  
+| bip_39_word_dash_10 | arrest-orchard-legend-absurd-soda-husband-hurt-message-nuclear-alert |  
+| bip_39_word_dash_11 | arrest-orchard-legend-absurd-soda-husband-hurt-message-nuclear-alert-north |  
+| bip_39_word_dash_12 | arrest-orchard-legend-absurd-soda-husband-hurt-message-nuclear-alert-north-appear |  
+| bip_39_word_dash_2 | arrest-orchard |  
+| bip_39_word_dash_3 | arrest-orchard-legend |  
+| bip_39_word_dash_4 | arrest-orchard-legend-absurd |  
+| bip_39_word_dash_5 | arrest-orchard-legend-absurd-soda |  
+| bip_39_word_dash_6 | arrest-orchard-legend-absurd-soda-husband |  
+| bip_39_word_dash_7 | arrest-orchard-legend-absurd-soda-husband-hurt |  
+| bip_39_word_dash_8 | arrest-orchard-legend-absurd-soda-husband-hurt-message |  
+| bip_39_word_dash_9 | arrest-orchard-legend-absurd-soda-husband-hurt-message-nuclear |  
 | bip_39_word_new_br_1 | arrest |  
 | bip_39_word_new_br_10 | arrest<br>orchard<br>legend<br>absurd<br>soda<br>husband<br>hurt<br>message<br>nuclear<br>alert |  
 | bip_39_word_new_br_11 | arrest<br>orchard<br>legend<br>absurd<br>soda<br>husband<br>hurt<br>message<br>nuclear<br>alert<br>north |  
@@ -147,6 +159,18 @@ nuclear |
 | bip_39_word_space_7 | arrest orchard legend absurd soda husband hurt |  
 | bip_39_word_space_8 | arrest orchard legend absurd soda husband hurt message |  
 | bip_39_word_space_9 | arrest orchard legend absurd soda husband hurt message nuclear |  
+| bip_39_word_underscore_1 | arrest |  
+| bip_39_word_underscore_10 | arrest_orchard_legend_absurd_soda_husband_hurt_message_nuclear_alert |  
+| bip_39_word_underscore_11 | arrest_orchard_legend_absurd_soda_husband_hurt_message_nuclear_alert_north |  
+| bip_39_word_underscore_12 | arrest_orchard_legend_absurd_soda_husband_hurt_message_nuclear_alert_north_appear |  
+| bip_39_word_underscore_2 | arrest_orchard |  
+| bip_39_word_underscore_3 | arrest_orchard_legend |  
+| bip_39_word_underscore_4 | arrest_orchard_legend_absurd |  
+| bip_39_word_underscore_5 | arrest_orchard_legend_absurd_soda |  
+| bip_39_word_underscore_6 | arrest_orchard_legend_absurd_soda_husband |  
+| bip_39_word_underscore_7 | arrest_orchard_legend_absurd_soda_husband_hurt |  
+| bip_39_word_underscore_8 | arrest_orchard_legend_absurd_soda_husband_hurt_message |  
+| bip_39_word_underscore_9 | arrest_orchard_legend_absurd_soda_husband_hurt_message_nuclear |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

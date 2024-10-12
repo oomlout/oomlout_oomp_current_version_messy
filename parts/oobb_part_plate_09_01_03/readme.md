@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mirror |  
+| bip_39_word_dash_10 | mirror-window-bright-work-chest-friend-fold-stomach-palace-cloth |  
+| bip_39_word_dash_11 | mirror-window-bright-work-chest-friend-fold-stomach-palace-cloth-ethics |  
+| bip_39_word_dash_12 | mirror-window-bright-work-chest-friend-fold-stomach-palace-cloth-ethics-admit |  
+| bip_39_word_dash_2 | mirror-window |  
+| bip_39_word_dash_3 | mirror-window-bright |  
+| bip_39_word_dash_4 | mirror-window-bright-work |  
+| bip_39_word_dash_5 | mirror-window-bright-work-chest |  
+| bip_39_word_dash_6 | mirror-window-bright-work-chest-friend |  
+| bip_39_word_dash_7 | mirror-window-bright-work-chest-friend-fold |  
+| bip_39_word_dash_8 | mirror-window-bright-work-chest-friend-fold-stomach |  
+| bip_39_word_dash_9 | mirror-window-bright-work-chest-friend-fold-stomach-palace |  
 | bip_39_word_new_br_1 | mirror |  
 | bip_39_word_new_br_10 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth |  
 | bip_39_word_new_br_11 | mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth<br>ethics |  
@@ -147,6 +159,18 @@ palace |
 | bip_39_word_space_7 | mirror window bright work chest friend fold |  
 | bip_39_word_space_8 | mirror window bright work chest friend fold stomach |  
 | bip_39_word_space_9 | mirror window bright work chest friend fold stomach palace |  
+| bip_39_word_underscore_1 | mirror |  
+| bip_39_word_underscore_10 | mirror_window_bright_work_chest_friend_fold_stomach_palace_cloth |  
+| bip_39_word_underscore_11 | mirror_window_bright_work_chest_friend_fold_stomach_palace_cloth_ethics |  
+| bip_39_word_underscore_12 | mirror_window_bright_work_chest_friend_fold_stomach_palace_cloth_ethics_admit |  
+| bip_39_word_underscore_2 | mirror_window |  
+| bip_39_word_underscore_3 | mirror_window_bright |  
+| bip_39_word_underscore_4 | mirror_window_bright_work |  
+| bip_39_word_underscore_5 | mirror_window_bright_work_chest |  
+| bip_39_word_underscore_6 | mirror_window_bright_work_chest_friend |  
+| bip_39_word_underscore_7 | mirror_window_bright_work_chest_friend_fold |  
+| bip_39_word_underscore_8 | mirror_window_bright_work_chest_friend_fold_stomach |  
+| bip_39_word_underscore_9 | mirror_window_bright_work_chest_friend_fold_stomach_palace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

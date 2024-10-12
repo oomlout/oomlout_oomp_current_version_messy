@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stem |  
+| bip_39_word_dash_10 | stem-pudding-topple-village-tank-tuna-width-brave-eight-alter |  
+| bip_39_word_dash_11 | stem-pudding-topple-village-tank-tuna-width-brave-eight-alter-apple |  
+| bip_39_word_dash_12 | stem-pudding-topple-village-tank-tuna-width-brave-eight-alter-apple-atom |  
+| bip_39_word_dash_2 | stem-pudding |  
+| bip_39_word_dash_3 | stem-pudding-topple |  
+| bip_39_word_dash_4 | stem-pudding-topple-village |  
+| bip_39_word_dash_5 | stem-pudding-topple-village-tank |  
+| bip_39_word_dash_6 | stem-pudding-topple-village-tank-tuna |  
+| bip_39_word_dash_7 | stem-pudding-topple-village-tank-tuna-width |  
+| bip_39_word_dash_8 | stem-pudding-topple-village-tank-tuna-width-brave |  
+| bip_39_word_dash_9 | stem-pudding-topple-village-tank-tuna-width-brave-eight |  
 | bip_39_word_new_br_1 | stem |  
 | bip_39_word_new_br_10 | stem<br>pudding<br>topple<br>village<br>tank<br>tuna<br>width<br>brave<br>eight<br>alter |  
 | bip_39_word_new_br_11 | stem<br>pudding<br>topple<br>village<br>tank<br>tuna<br>width<br>brave<br>eight<br>alter<br>apple |  
@@ -147,6 +159,18 @@ eight |
 | bip_39_word_space_7 | stem pudding topple village tank tuna width |  
 | bip_39_word_space_8 | stem pudding topple village tank tuna width brave |  
 | bip_39_word_space_9 | stem pudding topple village tank tuna width brave eight |  
+| bip_39_word_underscore_1 | stem |  
+| bip_39_word_underscore_10 | stem_pudding_topple_village_tank_tuna_width_brave_eight_alter |  
+| bip_39_word_underscore_11 | stem_pudding_topple_village_tank_tuna_width_brave_eight_alter_apple |  
+| bip_39_word_underscore_12 | stem_pudding_topple_village_tank_tuna_width_brave_eight_alter_apple_atom |  
+| bip_39_word_underscore_2 | stem_pudding |  
+| bip_39_word_underscore_3 | stem_pudding_topple |  
+| bip_39_word_underscore_4 | stem_pudding_topple_village |  
+| bip_39_word_underscore_5 | stem_pudding_topple_village_tank |  
+| bip_39_word_underscore_6 | stem_pudding_topple_village_tank_tuna |  
+| bip_39_word_underscore_7 | stem_pudding_topple_village_tank_tuna_width |  
+| bip_39_word_underscore_8 | stem_pudding_topple_village_tank_tuna_width_brave |  
+| bip_39_word_underscore_9 | stem_pudding_topple_village_tank_tuna_width_brave_eight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

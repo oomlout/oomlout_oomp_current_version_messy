@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | marriage |  
+| bip_39_word_dash_10 | marriage-nephew-enrich-rival-economy-police-fantasy-custom-woman-garbage |  
+| bip_39_word_dash_11 | marriage-nephew-enrich-rival-economy-police-fantasy-custom-woman-garbage-tip |  
+| bip_39_word_dash_12 | marriage-nephew-enrich-rival-economy-police-fantasy-custom-woman-garbage-tip-army |  
+| bip_39_word_dash_2 | marriage-nephew |  
+| bip_39_word_dash_3 | marriage-nephew-enrich |  
+| bip_39_word_dash_4 | marriage-nephew-enrich-rival |  
+| bip_39_word_dash_5 | marriage-nephew-enrich-rival-economy |  
+| bip_39_word_dash_6 | marriage-nephew-enrich-rival-economy-police |  
+| bip_39_word_dash_7 | marriage-nephew-enrich-rival-economy-police-fantasy |  
+| bip_39_word_dash_8 | marriage-nephew-enrich-rival-economy-police-fantasy-custom |  
+| bip_39_word_dash_9 | marriage-nephew-enrich-rival-economy-police-fantasy-custom-woman |  
 | bip_39_word_new_br_1 | marriage |  
 | bip_39_word_new_br_10 | marriage<br>nephew<br>enrich<br>rival<br>economy<br>police<br>fantasy<br>custom<br>woman<br>garbage |  
 | bip_39_word_new_br_11 | marriage<br>nephew<br>enrich<br>rival<br>economy<br>police<br>fantasy<br>custom<br>woman<br>garbage<br>tip |  
@@ -147,6 +159,18 @@ woman |
 | bip_39_word_space_7 | marriage nephew enrich rival economy police fantasy |  
 | bip_39_word_space_8 | marriage nephew enrich rival economy police fantasy custom |  
 | bip_39_word_space_9 | marriage nephew enrich rival economy police fantasy custom woman |  
+| bip_39_word_underscore_1 | marriage |  
+| bip_39_word_underscore_10 | marriage_nephew_enrich_rival_economy_police_fantasy_custom_woman_garbage |  
+| bip_39_word_underscore_11 | marriage_nephew_enrich_rival_economy_police_fantasy_custom_woman_garbage_tip |  
+| bip_39_word_underscore_12 | marriage_nephew_enrich_rival_economy_police_fantasy_custom_woman_garbage_tip_army |  
+| bip_39_word_underscore_2 | marriage_nephew |  
+| bip_39_word_underscore_3 | marriage_nephew_enrich |  
+| bip_39_word_underscore_4 | marriage_nephew_enrich_rival |  
+| bip_39_word_underscore_5 | marriage_nephew_enrich_rival_economy |  
+| bip_39_word_underscore_6 | marriage_nephew_enrich_rival_economy_police |  
+| bip_39_word_underscore_7 | marriage_nephew_enrich_rival_economy_police_fantasy |  
+| bip_39_word_underscore_8 | marriage_nephew_enrich_rival_economy_police_fantasy_custom |  
+| bip_39_word_underscore_9 | marriage_nephew_enrich_rival_economy_police_fantasy_custom_woman |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

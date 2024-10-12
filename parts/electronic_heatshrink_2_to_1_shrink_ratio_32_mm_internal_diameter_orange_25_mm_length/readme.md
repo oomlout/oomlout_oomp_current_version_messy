@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arctic |  
+| bip_39_word_dash_10 | arctic-quit-grit-between-put-curious-patrol-search-core-matrix |  
+| bip_39_word_dash_11 | arctic-quit-grit-between-put-curious-patrol-search-core-matrix-bike |  
+| bip_39_word_dash_12 | arctic-quit-grit-between-put-curious-patrol-search-core-matrix-bike-aunt |  
+| bip_39_word_dash_2 | arctic-quit |  
+| bip_39_word_dash_3 | arctic-quit-grit |  
+| bip_39_word_dash_4 | arctic-quit-grit-between |  
+| bip_39_word_dash_5 | arctic-quit-grit-between-put |  
+| bip_39_word_dash_6 | arctic-quit-grit-between-put-curious |  
+| bip_39_word_dash_7 | arctic-quit-grit-between-put-curious-patrol |  
+| bip_39_word_dash_8 | arctic-quit-grit-between-put-curious-patrol-search |  
+| bip_39_word_dash_9 | arctic-quit-grit-between-put-curious-patrol-search-core |  
 | bip_39_word_new_br_1 | arctic |  
 | bip_39_word_new_br_10 | arctic<br>quit<br>grit<br>between<br>put<br>curious<br>patrol<br>search<br>core<br>matrix |  
 | bip_39_word_new_br_11 | arctic<br>quit<br>grit<br>between<br>put<br>curious<br>patrol<br>search<br>core<br>matrix<br>bike |  
@@ -147,6 +159,18 @@ core |
 | bip_39_word_space_7 | arctic quit grit between put curious patrol |  
 | bip_39_word_space_8 | arctic quit grit between put curious patrol search |  
 | bip_39_word_space_9 | arctic quit grit between put curious patrol search core |  
+| bip_39_word_underscore_1 | arctic |  
+| bip_39_word_underscore_10 | arctic_quit_grit_between_put_curious_patrol_search_core_matrix |  
+| bip_39_word_underscore_11 | arctic_quit_grit_between_put_curious_patrol_search_core_matrix_bike |  
+| bip_39_word_underscore_12 | arctic_quit_grit_between_put_curious_patrol_search_core_matrix_bike_aunt |  
+| bip_39_word_underscore_2 | arctic_quit |  
+| bip_39_word_underscore_3 | arctic_quit_grit |  
+| bip_39_word_underscore_4 | arctic_quit_grit_between |  
+| bip_39_word_underscore_5 | arctic_quit_grit_between_put |  
+| bip_39_word_underscore_6 | arctic_quit_grit_between_put_curious |  
+| bip_39_word_underscore_7 | arctic_quit_grit_between_put_curious_patrol |  
+| bip_39_word_underscore_8 | arctic_quit_grit_between_put_curious_patrol_search |  
+| bip_39_word_underscore_9 | arctic_quit_grit_between_put_curious_patrol_search_core |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

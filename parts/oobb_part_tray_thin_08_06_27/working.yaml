@@ -1,3 +1,15 @@
+bip_39_word_dash_1: concert
+bip_39_word_dash_10: concert-ocean-loan-illness-miss-lens-lumber-casino-drink-infant
+bip_39_word_dash_11: concert-ocean-loan-illness-miss-lens-lumber-casino-drink-infant-frame
+bip_39_word_dash_12: concert-ocean-loan-illness-miss-lens-lumber-casino-drink-infant-frame-accident
+bip_39_word_dash_2: concert-ocean
+bip_39_word_dash_3: concert-ocean-loan
+bip_39_word_dash_4: concert-ocean-loan-illness
+bip_39_word_dash_5: concert-ocean-loan-illness-miss
+bip_39_word_dash_6: concert-ocean-loan-illness-miss-lens
+bip_39_word_dash_7: concert-ocean-loan-illness-miss-lens-lumber
+bip_39_word_dash_8: concert-ocean-loan-illness-miss-lens-lumber-casino
+bip_39_word_dash_9: concert-ocean-loan-illness-miss-lens-lumber-casino-drink
 bip_39_word_new_br_1: concert
 bip_39_word_new_br_10: concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino<br>drink<br>infant
 bip_39_word_new_br_11: concert<br>ocean<br>loan<br>illness<br>miss<br>lens<br>lumber<br>casino<br>drink<br>infant<br>frame
@@ -193,6 +205,18 @@ bip_39_word_space_6: concert ocean loan illness miss lens
 bip_39_word_space_7: concert ocean loan illness miss lens lumber
 bip_39_word_space_8: concert ocean loan illness miss lens lumber casino
 bip_39_word_space_9: concert ocean loan illness miss lens lumber casino drink
+bip_39_word_underscore_1: concert
+bip_39_word_underscore_10: concert_ocean_loan_illness_miss_lens_lumber_casino_drink_infant
+bip_39_word_underscore_11: concert_ocean_loan_illness_miss_lens_lumber_casino_drink_infant_frame
+bip_39_word_underscore_12: concert_ocean_loan_illness_miss_lens_lumber_casino_drink_infant_frame_accident
+bip_39_word_underscore_2: concert_ocean
+bip_39_word_underscore_3: concert_ocean_loan
+bip_39_word_underscore_4: concert_ocean_loan_illness
+bip_39_word_underscore_5: concert_ocean_loan_illness_miss
+bip_39_word_underscore_6: concert_ocean_loan_illness_miss_lens
+bip_39_word_underscore_7: concert_ocean_loan_illness_miss_lens_lumber
+bip_39_word_underscore_8: concert_ocean_loan_illness_miss_lens_lumber_casino
+bip_39_word_underscore_9: concert_ocean_loan_illness_miss_lens_lumber_casino_drink
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

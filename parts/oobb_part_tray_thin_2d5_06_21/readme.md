@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jeans |  
+| bip_39_word_dash_10 | jeans-cactus-under-gaze-pupil-relax-jealous-song-learn-legal |  
+| bip_39_word_dash_11 | jeans-cactus-under-gaze-pupil-relax-jealous-song-learn-legal-muscle |  
+| bip_39_word_dash_12 | jeans-cactus-under-gaze-pupil-relax-jealous-song-learn-legal-muscle-auto |  
+| bip_39_word_dash_2 | jeans-cactus |  
+| bip_39_word_dash_3 | jeans-cactus-under |  
+| bip_39_word_dash_4 | jeans-cactus-under-gaze |  
+| bip_39_word_dash_5 | jeans-cactus-under-gaze-pupil |  
+| bip_39_word_dash_6 | jeans-cactus-under-gaze-pupil-relax |  
+| bip_39_word_dash_7 | jeans-cactus-under-gaze-pupil-relax-jealous |  
+| bip_39_word_dash_8 | jeans-cactus-under-gaze-pupil-relax-jealous-song |  
+| bip_39_word_dash_9 | jeans-cactus-under-gaze-pupil-relax-jealous-song-learn |  
 | bip_39_word_new_br_1 | jeans |  
 | bip_39_word_new_br_10 | jeans<br>cactus<br>under<br>gaze<br>pupil<br>relax<br>jealous<br>song<br>learn<br>legal |  
 | bip_39_word_new_br_11 | jeans<br>cactus<br>under<br>gaze<br>pupil<br>relax<br>jealous<br>song<br>learn<br>legal<br>muscle |  
@@ -147,6 +159,18 @@ learn |
 | bip_39_word_space_7 | jeans cactus under gaze pupil relax jealous |  
 | bip_39_word_space_8 | jeans cactus under gaze pupil relax jealous song |  
 | bip_39_word_space_9 | jeans cactus under gaze pupil relax jealous song learn |  
+| bip_39_word_underscore_1 | jeans |  
+| bip_39_word_underscore_10 | jeans_cactus_under_gaze_pupil_relax_jealous_song_learn_legal |  
+| bip_39_word_underscore_11 | jeans_cactus_under_gaze_pupil_relax_jealous_song_learn_legal_muscle |  
+| bip_39_word_underscore_12 | jeans_cactus_under_gaze_pupil_relax_jealous_song_learn_legal_muscle_auto |  
+| bip_39_word_underscore_2 | jeans_cactus |  
+| bip_39_word_underscore_3 | jeans_cactus_under |  
+| bip_39_word_underscore_4 | jeans_cactus_under_gaze |  
+| bip_39_word_underscore_5 | jeans_cactus_under_gaze_pupil |  
+| bip_39_word_underscore_6 | jeans_cactus_under_gaze_pupil_relax |  
+| bip_39_word_underscore_7 | jeans_cactus_under_gaze_pupil_relax_jealous |  
+| bip_39_word_underscore_8 | jeans_cactus_under_gaze_pupil_relax_jealous_song |  
+| bip_39_word_underscore_9 | jeans_cactus_under_gaze_pupil_relax_jealous_song_learn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brass
+bip_39_word_dash_10: brass-snack-online-accuse-lava-dry-basket-left-spend-convince
+bip_39_word_dash_11: brass-snack-online-accuse-lava-dry-basket-left-spend-convince-detail
+bip_39_word_dash_12: brass-snack-online-accuse-lava-dry-basket-left-spend-convince-detail-adjust
+bip_39_word_dash_2: brass-snack
+bip_39_word_dash_3: brass-snack-online
+bip_39_word_dash_4: brass-snack-online-accuse
+bip_39_word_dash_5: brass-snack-online-accuse-lava
+bip_39_word_dash_6: brass-snack-online-accuse-lava-dry
+bip_39_word_dash_7: brass-snack-online-accuse-lava-dry-basket
+bip_39_word_dash_8: brass-snack-online-accuse-lava-dry-basket-left
+bip_39_word_dash_9: brass-snack-online-accuse-lava-dry-basket-left-spend
 bip_39_word_new_br_1: brass
 bip_39_word_new_br_10: brass<br>snack<br>online<br>accuse<br>lava<br>dry<br>basket<br>left<br>spend<br>convince
 bip_39_word_new_br_11: brass<br>snack<br>online<br>accuse<br>lava<br>dry<br>basket<br>left<br>spend<br>convince<br>detail
@@ -193,6 +205,18 @@ bip_39_word_space_6: brass snack online accuse lava dry
 bip_39_word_space_7: brass snack online accuse lava dry basket
 bip_39_word_space_8: brass snack online accuse lava dry basket left
 bip_39_word_space_9: brass snack online accuse lava dry basket left spend
+bip_39_word_underscore_1: brass
+bip_39_word_underscore_10: brass_snack_online_accuse_lava_dry_basket_left_spend_convince
+bip_39_word_underscore_11: brass_snack_online_accuse_lava_dry_basket_left_spend_convince_detail
+bip_39_word_underscore_12: brass_snack_online_accuse_lava_dry_basket_left_spend_convince_detail_adjust
+bip_39_word_underscore_2: brass_snack
+bip_39_word_underscore_3: brass_snack_online
+bip_39_word_underscore_4: brass_snack_online_accuse
+bip_39_word_underscore_5: brass_snack_online_accuse_lava
+bip_39_word_underscore_6: brass_snack_online_accuse_lava_dry
+bip_39_word_underscore_7: brass_snack_online_accuse_lava_dry_basket
+bip_39_word_underscore_8: brass_snack_online_accuse_lava_dry_basket_left
+bip_39_word_underscore_9: brass_snack_online_accuse_lava_dry_basket_left_spend
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

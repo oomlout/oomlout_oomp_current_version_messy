@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | question |  
+| bip_39_word_dash_10 | question-pitch-fork-magnet-abuse-outdoor-close-crystal-road-october |  
+| bip_39_word_dash_11 | question-pitch-fork-magnet-abuse-outdoor-close-crystal-road-october-orphan |  
+| bip_39_word_dash_12 | question-pitch-fork-magnet-abuse-outdoor-close-crystal-road-october-orphan-alpha |  
+| bip_39_word_dash_2 | question-pitch |  
+| bip_39_word_dash_3 | question-pitch-fork |  
+| bip_39_word_dash_4 | question-pitch-fork-magnet |  
+| bip_39_word_dash_5 | question-pitch-fork-magnet-abuse |  
+| bip_39_word_dash_6 | question-pitch-fork-magnet-abuse-outdoor |  
+| bip_39_word_dash_7 | question-pitch-fork-magnet-abuse-outdoor-close |  
+| bip_39_word_dash_8 | question-pitch-fork-magnet-abuse-outdoor-close-crystal |  
+| bip_39_word_dash_9 | question-pitch-fork-magnet-abuse-outdoor-close-crystal-road |  
 | bip_39_word_new_br_1 | question |  
 | bip_39_word_new_br_10 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal<br>road<br>october |  
 | bip_39_word_new_br_11 | question<br>pitch<br>fork<br>magnet<br>abuse<br>outdoor<br>close<br>crystal<br>road<br>october<br>orphan |  
@@ -147,6 +159,18 @@ road |
 | bip_39_word_space_7 | question pitch fork magnet abuse outdoor close |  
 | bip_39_word_space_8 | question pitch fork magnet abuse outdoor close crystal |  
 | bip_39_word_space_9 | question pitch fork magnet abuse outdoor close crystal road |  
+| bip_39_word_underscore_1 | question |  
+| bip_39_word_underscore_10 | question_pitch_fork_magnet_abuse_outdoor_close_crystal_road_october |  
+| bip_39_word_underscore_11 | question_pitch_fork_magnet_abuse_outdoor_close_crystal_road_october_orphan |  
+| bip_39_word_underscore_12 | question_pitch_fork_magnet_abuse_outdoor_close_crystal_road_october_orphan_alpha |  
+| bip_39_word_underscore_2 | question_pitch |  
+| bip_39_word_underscore_3 | question_pitch_fork |  
+| bip_39_word_underscore_4 | question_pitch_fork_magnet |  
+| bip_39_word_underscore_5 | question_pitch_fork_magnet_abuse |  
+| bip_39_word_underscore_6 | question_pitch_fork_magnet_abuse_outdoor |  
+| bip_39_word_underscore_7 | question_pitch_fork_magnet_abuse_outdoor_close |  
+| bip_39_word_underscore_8 | question_pitch_fork_magnet_abuse_outdoor_close_crystal |  
+| bip_39_word_underscore_9 | question_pitch_fork_magnet_abuse_outdoor_close_crystal_road |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

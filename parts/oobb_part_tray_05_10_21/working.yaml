@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enrich
+bip_39_word_dash_10: enrich-scout-spare-carry-chat-alert-wedding-photo-senior-brisk
+bip_39_word_dash_11: enrich-scout-spare-carry-chat-alert-wedding-photo-senior-brisk-acoustic
+bip_39_word_dash_12: enrich-scout-spare-carry-chat-alert-wedding-photo-senior-brisk-acoustic-arm
+bip_39_word_dash_2: enrich-scout
+bip_39_word_dash_3: enrich-scout-spare
+bip_39_word_dash_4: enrich-scout-spare-carry
+bip_39_word_dash_5: enrich-scout-spare-carry-chat
+bip_39_word_dash_6: enrich-scout-spare-carry-chat-alert
+bip_39_word_dash_7: enrich-scout-spare-carry-chat-alert-wedding
+bip_39_word_dash_8: enrich-scout-spare-carry-chat-alert-wedding-photo
+bip_39_word_dash_9: enrich-scout-spare-carry-chat-alert-wedding-photo-senior
 bip_39_word_new_br_1: enrich
 bip_39_word_new_br_10: enrich<br>scout<br>spare<br>carry<br>chat<br>alert<br>wedding<br>photo<br>senior<br>brisk
 bip_39_word_new_br_11: enrich<br>scout<br>spare<br>carry<br>chat<br>alert<br>wedding<br>photo<br>senior<br>brisk<br>acoustic
@@ -193,6 +205,18 @@ bip_39_word_space_6: enrich scout spare carry chat alert
 bip_39_word_space_7: enrich scout spare carry chat alert wedding
 bip_39_word_space_8: enrich scout spare carry chat alert wedding photo
 bip_39_word_space_9: enrich scout spare carry chat alert wedding photo senior
+bip_39_word_underscore_1: enrich
+bip_39_word_underscore_10: enrich_scout_spare_carry_chat_alert_wedding_photo_senior_brisk
+bip_39_word_underscore_11: enrich_scout_spare_carry_chat_alert_wedding_photo_senior_brisk_acoustic
+bip_39_word_underscore_12: enrich_scout_spare_carry_chat_alert_wedding_photo_senior_brisk_acoustic_arm
+bip_39_word_underscore_2: enrich_scout
+bip_39_word_underscore_3: enrich_scout_spare
+bip_39_word_underscore_4: enrich_scout_spare_carry
+bip_39_word_underscore_5: enrich_scout_spare_carry_chat
+bip_39_word_underscore_6: enrich_scout_spare_carry_chat_alert
+bip_39_word_underscore_7: enrich_scout_spare_carry_chat_alert_wedding
+bip_39_word_underscore_8: enrich_scout_spare_carry_chat_alert_wedding_photo
+bip_39_word_underscore_9: enrich_scout_spare_carry_chat_alert_wedding_photo_senior
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

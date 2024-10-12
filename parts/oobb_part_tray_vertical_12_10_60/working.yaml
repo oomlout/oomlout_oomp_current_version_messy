@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wash
+bip_39_word_dash_10: wash-denial-heart-unaware-alley-swift-call-update-churn-ranch
+bip_39_word_dash_11: wash-denial-heart-unaware-alley-swift-call-update-churn-ranch-pelican
+bip_39_word_dash_12: wash-denial-heart-unaware-alley-swift-call-update-churn-ranch-pelican-arm
+bip_39_word_dash_2: wash-denial
+bip_39_word_dash_3: wash-denial-heart
+bip_39_word_dash_4: wash-denial-heart-unaware
+bip_39_word_dash_5: wash-denial-heart-unaware-alley
+bip_39_word_dash_6: wash-denial-heart-unaware-alley-swift
+bip_39_word_dash_7: wash-denial-heart-unaware-alley-swift-call
+bip_39_word_dash_8: wash-denial-heart-unaware-alley-swift-call-update
+bip_39_word_dash_9: wash-denial-heart-unaware-alley-swift-call-update-churn
 bip_39_word_new_br_1: wash
 bip_39_word_new_br_10: wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update<br>churn<br>ranch
 bip_39_word_new_br_11: wash<br>denial<br>heart<br>unaware<br>alley<br>swift<br>call<br>update<br>churn<br>ranch<br>pelican
@@ -193,6 +205,18 @@ bip_39_word_space_6: wash denial heart unaware alley swift
 bip_39_word_space_7: wash denial heart unaware alley swift call
 bip_39_word_space_8: wash denial heart unaware alley swift call update
 bip_39_word_space_9: wash denial heart unaware alley swift call update churn
+bip_39_word_underscore_1: wash
+bip_39_word_underscore_10: wash_denial_heart_unaware_alley_swift_call_update_churn_ranch
+bip_39_word_underscore_11: wash_denial_heart_unaware_alley_swift_call_update_churn_ranch_pelican
+bip_39_word_underscore_12: wash_denial_heart_unaware_alley_swift_call_update_churn_ranch_pelican_arm
+bip_39_word_underscore_2: wash_denial
+bip_39_word_underscore_3: wash_denial_heart
+bip_39_word_underscore_4: wash_denial_heart_unaware
+bip_39_word_underscore_5: wash_denial_heart_unaware_alley
+bip_39_word_underscore_6: wash_denial_heart_unaware_alley_swift
+bip_39_word_underscore_7: wash_denial_heart_unaware_alley_swift_call
+bip_39_word_underscore_8: wash_denial_heart_unaware_alley_swift_call_update
+bip_39_word_underscore_9: wash_denial_heart_unaware_alley_swift_call_update_churn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

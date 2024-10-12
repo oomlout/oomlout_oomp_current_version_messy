@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | venue |  
+| bip_39_word_dash_10 | venue-corn-exhaust-direct-detail-economy-owner-valid-flower-high |  
+| bip_39_word_dash_11 | venue-corn-exhaust-direct-detail-economy-owner-valid-flower-high-vital |  
+| bip_39_word_dash_12 | venue-corn-exhaust-direct-detail-economy-owner-valid-flower-high-vital-amused |  
+| bip_39_word_dash_2 | venue-corn |  
+| bip_39_word_dash_3 | venue-corn-exhaust |  
+| bip_39_word_dash_4 | venue-corn-exhaust-direct |  
+| bip_39_word_dash_5 | venue-corn-exhaust-direct-detail |  
+| bip_39_word_dash_6 | venue-corn-exhaust-direct-detail-economy |  
+| bip_39_word_dash_7 | venue-corn-exhaust-direct-detail-economy-owner |  
+| bip_39_word_dash_8 | venue-corn-exhaust-direct-detail-economy-owner-valid |  
+| bip_39_word_dash_9 | venue-corn-exhaust-direct-detail-economy-owner-valid-flower |  
 | bip_39_word_new_br_1 | venue |  
 | bip_39_word_new_br_10 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid<br>flower<br>high |  
 | bip_39_word_new_br_11 | venue<br>corn<br>exhaust<br>direct<br>detail<br>economy<br>owner<br>valid<br>flower<br>high<br>vital |  
@@ -147,6 +159,18 @@ flower |
 | bip_39_word_space_7 | venue corn exhaust direct detail economy owner |  
 | bip_39_word_space_8 | venue corn exhaust direct detail economy owner valid |  
 | bip_39_word_space_9 | venue corn exhaust direct detail economy owner valid flower |  
+| bip_39_word_underscore_1 | venue |  
+| bip_39_word_underscore_10 | venue_corn_exhaust_direct_detail_economy_owner_valid_flower_high |  
+| bip_39_word_underscore_11 | venue_corn_exhaust_direct_detail_economy_owner_valid_flower_high_vital |  
+| bip_39_word_underscore_12 | venue_corn_exhaust_direct_detail_economy_owner_valid_flower_high_vital_amused |  
+| bip_39_word_underscore_2 | venue_corn |  
+| bip_39_word_underscore_3 | venue_corn_exhaust |  
+| bip_39_word_underscore_4 | venue_corn_exhaust_direct |  
+| bip_39_word_underscore_5 | venue_corn_exhaust_direct_detail |  
+| bip_39_word_underscore_6 | venue_corn_exhaust_direct_detail_economy |  
+| bip_39_word_underscore_7 | venue_corn_exhaust_direct_detail_economy_owner |  
+| bip_39_word_underscore_8 | venue_corn_exhaust_direct_detail_economy_owner_valid |  
+| bip_39_word_underscore_9 | venue_corn_exhaust_direct_detail_economy_owner_valid_flower |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

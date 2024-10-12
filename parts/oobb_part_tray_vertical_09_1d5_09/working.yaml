@@ -1,3 +1,15 @@
+bip_39_word_dash_1: erosion
+bip_39_word_dash_10: erosion-toe-match-flip-basic-visit-figure-destroy-list-crawl
+bip_39_word_dash_11: erosion-toe-match-flip-basic-visit-figure-destroy-list-crawl-sight
+bip_39_word_dash_12: erosion-toe-match-flip-basic-visit-figure-destroy-list-crawl-sight-argue
+bip_39_word_dash_2: erosion-toe
+bip_39_word_dash_3: erosion-toe-match
+bip_39_word_dash_4: erosion-toe-match-flip
+bip_39_word_dash_5: erosion-toe-match-flip-basic
+bip_39_word_dash_6: erosion-toe-match-flip-basic-visit
+bip_39_word_dash_7: erosion-toe-match-flip-basic-visit-figure
+bip_39_word_dash_8: erosion-toe-match-flip-basic-visit-figure-destroy
+bip_39_word_dash_9: erosion-toe-match-flip-basic-visit-figure-destroy-list
 bip_39_word_new_br_1: erosion
 bip_39_word_new_br_10: erosion<br>toe<br>match<br>flip<br>basic<br>visit<br>figure<br>destroy<br>list<br>crawl
 bip_39_word_new_br_11: erosion<br>toe<br>match<br>flip<br>basic<br>visit<br>figure<br>destroy<br>list<br>crawl<br>sight
@@ -193,6 +205,18 @@ bip_39_word_space_6: erosion toe match flip basic visit
 bip_39_word_space_7: erosion toe match flip basic visit figure
 bip_39_word_space_8: erosion toe match flip basic visit figure destroy
 bip_39_word_space_9: erosion toe match flip basic visit figure destroy list
+bip_39_word_underscore_1: erosion
+bip_39_word_underscore_10: erosion_toe_match_flip_basic_visit_figure_destroy_list_crawl
+bip_39_word_underscore_11: erosion_toe_match_flip_basic_visit_figure_destroy_list_crawl_sight
+bip_39_word_underscore_12: erosion_toe_match_flip_basic_visit_figure_destroy_list_crawl_sight_argue
+bip_39_word_underscore_2: erosion_toe
+bip_39_word_underscore_3: erosion_toe_match
+bip_39_word_underscore_4: erosion_toe_match_flip
+bip_39_word_underscore_5: erosion_toe_match_flip_basic
+bip_39_word_underscore_6: erosion_toe_match_flip_basic_visit
+bip_39_word_underscore_7: erosion_toe_match_flip_basic_visit_figure
+bip_39_word_underscore_8: erosion_toe_match_flip_basic_visit_figure_destroy
+bip_39_word_underscore_9: erosion_toe_match_flip_basic_visit_figure_destroy_list
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

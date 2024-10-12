@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | social |  
+| bip_39_word_dash_10 | social-sword-audit-exclude-faculty-mean-wood-sunset-weather-swallow |  
+| bip_39_word_dash_11 | social-sword-audit-exclude-faculty-mean-wood-sunset-weather-swallow-home |  
+| bip_39_word_dash_12 | social-sword-audit-exclude-faculty-mean-wood-sunset-weather-swallow-home-ancient |  
+| bip_39_word_dash_2 | social-sword |  
+| bip_39_word_dash_3 | social-sword-audit |  
+| bip_39_word_dash_4 | social-sword-audit-exclude |  
+| bip_39_word_dash_5 | social-sword-audit-exclude-faculty |  
+| bip_39_word_dash_6 | social-sword-audit-exclude-faculty-mean |  
+| bip_39_word_dash_7 | social-sword-audit-exclude-faculty-mean-wood |  
+| bip_39_word_dash_8 | social-sword-audit-exclude-faculty-mean-wood-sunset |  
+| bip_39_word_dash_9 | social-sword-audit-exclude-faculty-mean-wood-sunset-weather |  
 | bip_39_word_new_br_1 | social |  
 | bip_39_word_new_br_10 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset<br>weather<br>swallow |  
 | bip_39_word_new_br_11 | social<br>sword<br>audit<br>exclude<br>faculty<br>mean<br>wood<br>sunset<br>weather<br>swallow<br>home |  
@@ -147,6 +159,18 @@ weather |
 | bip_39_word_space_7 | social sword audit exclude faculty mean wood |  
 | bip_39_word_space_8 | social sword audit exclude faculty mean wood sunset |  
 | bip_39_word_space_9 | social sword audit exclude faculty mean wood sunset weather |  
+| bip_39_word_underscore_1 | social |  
+| bip_39_word_underscore_10 | social_sword_audit_exclude_faculty_mean_wood_sunset_weather_swallow |  
+| bip_39_word_underscore_11 | social_sword_audit_exclude_faculty_mean_wood_sunset_weather_swallow_home |  
+| bip_39_word_underscore_12 | social_sword_audit_exclude_faculty_mean_wood_sunset_weather_swallow_home_ancient |  
+| bip_39_word_underscore_2 | social_sword |  
+| bip_39_word_underscore_3 | social_sword_audit |  
+| bip_39_word_underscore_4 | social_sword_audit_exclude |  
+| bip_39_word_underscore_5 | social_sword_audit_exclude_faculty |  
+| bip_39_word_underscore_6 | social_sword_audit_exclude_faculty_mean |  
+| bip_39_word_underscore_7 | social_sword_audit_exclude_faculty_mean_wood |  
+| bip_39_word_underscore_8 | social_sword_audit_exclude_faculty_mean_wood_sunset |  
+| bip_39_word_underscore_9 | social_sword_audit_exclude_faculty_mean_wood_sunset_weather |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

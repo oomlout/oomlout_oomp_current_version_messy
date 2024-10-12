@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | biology |  
+| bip_39_word_dash_10 | biology-patch-future-flavor-protect-doctor-pact-amused-feature-skill |  
+| bip_39_word_dash_11 | biology-patch-future-flavor-protect-doctor-pact-amused-feature-skill-explain |  
+| bip_39_word_dash_12 | biology-patch-future-flavor-protect-doctor-pact-amused-feature-skill-explain-action |  
+| bip_39_word_dash_2 | biology-patch |  
+| bip_39_word_dash_3 | biology-patch-future |  
+| bip_39_word_dash_4 | biology-patch-future-flavor |  
+| bip_39_word_dash_5 | biology-patch-future-flavor-protect |  
+| bip_39_word_dash_6 | biology-patch-future-flavor-protect-doctor |  
+| bip_39_word_dash_7 | biology-patch-future-flavor-protect-doctor-pact |  
+| bip_39_word_dash_8 | biology-patch-future-flavor-protect-doctor-pact-amused |  
+| bip_39_word_dash_9 | biology-patch-future-flavor-protect-doctor-pact-amused-feature |  
 | bip_39_word_new_br_1 | biology |  
 | bip_39_word_new_br_10 | biology<br>patch<br>future<br>flavor<br>protect<br>doctor<br>pact<br>amused<br>feature<br>skill |  
 | bip_39_word_new_br_11 | biology<br>patch<br>future<br>flavor<br>protect<br>doctor<br>pact<br>amused<br>feature<br>skill<br>explain |  
@@ -147,6 +159,18 @@ feature |
 | bip_39_word_space_7 | biology patch future flavor protect doctor pact |  
 | bip_39_word_space_8 | biology patch future flavor protect doctor pact amused |  
 | bip_39_word_space_9 | biology patch future flavor protect doctor pact amused feature |  
+| bip_39_word_underscore_1 | biology |  
+| bip_39_word_underscore_10 | biology_patch_future_flavor_protect_doctor_pact_amused_feature_skill |  
+| bip_39_word_underscore_11 | biology_patch_future_flavor_protect_doctor_pact_amused_feature_skill_explain |  
+| bip_39_word_underscore_12 | biology_patch_future_flavor_protect_doctor_pact_amused_feature_skill_explain_action |  
+| bip_39_word_underscore_2 | biology_patch |  
+| bip_39_word_underscore_3 | biology_patch_future |  
+| bip_39_word_underscore_4 | biology_patch_future_flavor |  
+| bip_39_word_underscore_5 | biology_patch_future_flavor_protect |  
+| bip_39_word_underscore_6 | biology_patch_future_flavor_protect_doctor |  
+| bip_39_word_underscore_7 | biology_patch_future_flavor_protect_doctor_pact |  
+| bip_39_word_underscore_8 | biology_patch_future_flavor_protect_doctor_pact_amused |  
+| bip_39_word_underscore_9 | biology_patch_future_flavor_protect_doctor_pact_amused_feature |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

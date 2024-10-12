@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dolphin |  
+| bip_39_word_dash_10 | dolphin-rice-horn-scatter-girl-region-trade-hazard-doll-midnight |  
+| bip_39_word_dash_11 | dolphin-rice-horn-scatter-girl-region-trade-hazard-doll-midnight-leaf |  
+| bip_39_word_dash_12 | dolphin-rice-horn-scatter-girl-region-trade-hazard-doll-midnight-leaf-add |  
+| bip_39_word_dash_2 | dolphin-rice |  
+| bip_39_word_dash_3 | dolphin-rice-horn |  
+| bip_39_word_dash_4 | dolphin-rice-horn-scatter |  
+| bip_39_word_dash_5 | dolphin-rice-horn-scatter-girl |  
+| bip_39_word_dash_6 | dolphin-rice-horn-scatter-girl-region |  
+| bip_39_word_dash_7 | dolphin-rice-horn-scatter-girl-region-trade |  
+| bip_39_word_dash_8 | dolphin-rice-horn-scatter-girl-region-trade-hazard |  
+| bip_39_word_dash_9 | dolphin-rice-horn-scatter-girl-region-trade-hazard-doll |  
 | bip_39_word_new_br_1 | dolphin |  
 | bip_39_word_new_br_10 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard<br>doll<br>midnight |  
 | bip_39_word_new_br_11 | dolphin<br>rice<br>horn<br>scatter<br>girl<br>region<br>trade<br>hazard<br>doll<br>midnight<br>leaf |  
@@ -147,6 +159,18 @@ doll |
 | bip_39_word_space_7 | dolphin rice horn scatter girl region trade |  
 | bip_39_word_space_8 | dolphin rice horn scatter girl region trade hazard |  
 | bip_39_word_space_9 | dolphin rice horn scatter girl region trade hazard doll |  
+| bip_39_word_underscore_1 | dolphin |  
+| bip_39_word_underscore_10 | dolphin_rice_horn_scatter_girl_region_trade_hazard_doll_midnight |  
+| bip_39_word_underscore_11 | dolphin_rice_horn_scatter_girl_region_trade_hazard_doll_midnight_leaf |  
+| bip_39_word_underscore_12 | dolphin_rice_horn_scatter_girl_region_trade_hazard_doll_midnight_leaf_add |  
+| bip_39_word_underscore_2 | dolphin_rice |  
+| bip_39_word_underscore_3 | dolphin_rice_horn |  
+| bip_39_word_underscore_4 | dolphin_rice_horn_scatter |  
+| bip_39_word_underscore_5 | dolphin_rice_horn_scatter_girl |  
+| bip_39_word_underscore_6 | dolphin_rice_horn_scatter_girl_region |  
+| bip_39_word_underscore_7 | dolphin_rice_horn_scatter_girl_region_trade |  
+| bip_39_word_underscore_8 | dolphin_rice_horn_scatter_girl_region_trade_hazard |  
+| bip_39_word_underscore_9 | dolphin_rice_horn_scatter_girl_region_trade_hazard_doll |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

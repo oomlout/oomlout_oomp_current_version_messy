@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | seat |  
+| bip_39_word_dash_10 | seat-teach-vague-vibrant-slush-day-praise-act-two-utility |  
+| bip_39_word_dash_11 | seat-teach-vague-vibrant-slush-day-praise-act-two-utility-quote |  
+| bip_39_word_dash_12 | seat-teach-vague-vibrant-slush-day-praise-act-two-utility-quote-april |  
+| bip_39_word_dash_2 | seat-teach |  
+| bip_39_word_dash_3 | seat-teach-vague |  
+| bip_39_word_dash_4 | seat-teach-vague-vibrant |  
+| bip_39_word_dash_5 | seat-teach-vague-vibrant-slush |  
+| bip_39_word_dash_6 | seat-teach-vague-vibrant-slush-day |  
+| bip_39_word_dash_7 | seat-teach-vague-vibrant-slush-day-praise |  
+| bip_39_word_dash_8 | seat-teach-vague-vibrant-slush-day-praise-act |  
+| bip_39_word_dash_9 | seat-teach-vague-vibrant-slush-day-praise-act-two |  
 | bip_39_word_new_br_1 | seat |  
 | bip_39_word_new_br_10 | seat<br>teach<br>vague<br>vibrant<br>slush<br>day<br>praise<br>act<br>two<br>utility |  
 | bip_39_word_new_br_11 | seat<br>teach<br>vague<br>vibrant<br>slush<br>day<br>praise<br>act<br>two<br>utility<br>quote |  
@@ -147,6 +159,18 @@ two |
 | bip_39_word_space_7 | seat teach vague vibrant slush day praise |  
 | bip_39_word_space_8 | seat teach vague vibrant slush day praise act |  
 | bip_39_word_space_9 | seat teach vague vibrant slush day praise act two |  
+| bip_39_word_underscore_1 | seat |  
+| bip_39_word_underscore_10 | seat_teach_vague_vibrant_slush_day_praise_act_two_utility |  
+| bip_39_word_underscore_11 | seat_teach_vague_vibrant_slush_day_praise_act_two_utility_quote |  
+| bip_39_word_underscore_12 | seat_teach_vague_vibrant_slush_day_praise_act_two_utility_quote_april |  
+| bip_39_word_underscore_2 | seat_teach |  
+| bip_39_word_underscore_3 | seat_teach_vague |  
+| bip_39_word_underscore_4 | seat_teach_vague_vibrant |  
+| bip_39_word_underscore_5 | seat_teach_vague_vibrant_slush |  
+| bip_39_word_underscore_6 | seat_teach_vague_vibrant_slush_day |  
+| bip_39_word_underscore_7 | seat_teach_vague_vibrant_slush_day_praise |  
+| bip_39_word_underscore_8 | seat_teach_vague_vibrant_slush_day_praise_act |  
+| bip_39_word_underscore_9 | seat_teach_vague_vibrant_slush_day_praise_act_two |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frost |  
+| bip_39_word_dash_10 | frost-inflict-stomach-citizen-orchard-timber-tumble-cycle-rapid-pave |  
+| bip_39_word_dash_11 | frost-inflict-stomach-citizen-orchard-timber-tumble-cycle-rapid-pave-fever |  
+| bip_39_word_dash_12 | frost-inflict-stomach-citizen-orchard-timber-tumble-cycle-rapid-pave-fever-autumn |  
+| bip_39_word_dash_2 | frost-inflict |  
+| bip_39_word_dash_3 | frost-inflict-stomach |  
+| bip_39_word_dash_4 | frost-inflict-stomach-citizen |  
+| bip_39_word_dash_5 | frost-inflict-stomach-citizen-orchard |  
+| bip_39_word_dash_6 | frost-inflict-stomach-citizen-orchard-timber |  
+| bip_39_word_dash_7 | frost-inflict-stomach-citizen-orchard-timber-tumble |  
+| bip_39_word_dash_8 | frost-inflict-stomach-citizen-orchard-timber-tumble-cycle |  
+| bip_39_word_dash_9 | frost-inflict-stomach-citizen-orchard-timber-tumble-cycle-rapid |  
 | bip_39_word_new_br_1 | frost |  
 | bip_39_word_new_br_10 | frost<br>inflict<br>stomach<br>citizen<br>orchard<br>timber<br>tumble<br>cycle<br>rapid<br>pave |  
 | bip_39_word_new_br_11 | frost<br>inflict<br>stomach<br>citizen<br>orchard<br>timber<br>tumble<br>cycle<br>rapid<br>pave<br>fever |  
@@ -147,6 +159,18 @@ rapid |
 | bip_39_word_space_7 | frost inflict stomach citizen orchard timber tumble |  
 | bip_39_word_space_8 | frost inflict stomach citizen orchard timber tumble cycle |  
 | bip_39_word_space_9 | frost inflict stomach citizen orchard timber tumble cycle rapid |  
+| bip_39_word_underscore_1 | frost |  
+| bip_39_word_underscore_10 | frost_inflict_stomach_citizen_orchard_timber_tumble_cycle_rapid_pave |  
+| bip_39_word_underscore_11 | frost_inflict_stomach_citizen_orchard_timber_tumble_cycle_rapid_pave_fever |  
+| bip_39_word_underscore_12 | frost_inflict_stomach_citizen_orchard_timber_tumble_cycle_rapid_pave_fever_autumn |  
+| bip_39_word_underscore_2 | frost_inflict |  
+| bip_39_word_underscore_3 | frost_inflict_stomach |  
+| bip_39_word_underscore_4 | frost_inflict_stomach_citizen |  
+| bip_39_word_underscore_5 | frost_inflict_stomach_citizen_orchard |  
+| bip_39_word_underscore_6 | frost_inflict_stomach_citizen_orchard_timber |  
+| bip_39_word_underscore_7 | frost_inflict_stomach_citizen_orchard_timber_tumble |  
+| bip_39_word_underscore_8 | frost_inflict_stomach_citizen_orchard_timber_tumble_cycle |  
+| bip_39_word_underscore_9 | frost_inflict_stomach_citizen_orchard_timber_tumble_cycle_rapid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

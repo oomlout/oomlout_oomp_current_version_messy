@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | airport |  
+| bip_39_word_dash_10 | airport-model-unknown-sadness-advance-tower-satisfy-person-super-abuse |  
+| bip_39_word_dash_11 | airport-model-unknown-sadness-advance-tower-satisfy-person-super-abuse-long |  
+| bip_39_word_dash_12 | airport-model-unknown-sadness-advance-tower-satisfy-person-super-abuse-long-athlete |  
+| bip_39_word_dash_2 | airport-model |  
+| bip_39_word_dash_3 | airport-model-unknown |  
+| bip_39_word_dash_4 | airport-model-unknown-sadness |  
+| bip_39_word_dash_5 | airport-model-unknown-sadness-advance |  
+| bip_39_word_dash_6 | airport-model-unknown-sadness-advance-tower |  
+| bip_39_word_dash_7 | airport-model-unknown-sadness-advance-tower-satisfy |  
+| bip_39_word_dash_8 | airport-model-unknown-sadness-advance-tower-satisfy-person |  
+| bip_39_word_dash_9 | airport-model-unknown-sadness-advance-tower-satisfy-person-super |  
 | bip_39_word_new_br_1 | airport |  
 | bip_39_word_new_br_10 | airport<br>model<br>unknown<br>sadness<br>advance<br>tower<br>satisfy<br>person<br>super<br>abuse |  
 | bip_39_word_new_br_11 | airport<br>model<br>unknown<br>sadness<br>advance<br>tower<br>satisfy<br>person<br>super<br>abuse<br>long |  
@@ -147,6 +159,18 @@ super |
 | bip_39_word_space_7 | airport model unknown sadness advance tower satisfy |  
 | bip_39_word_space_8 | airport model unknown sadness advance tower satisfy person |  
 | bip_39_word_space_9 | airport model unknown sadness advance tower satisfy person super |  
+| bip_39_word_underscore_1 | airport |  
+| bip_39_word_underscore_10 | airport_model_unknown_sadness_advance_tower_satisfy_person_super_abuse |  
+| bip_39_word_underscore_11 | airport_model_unknown_sadness_advance_tower_satisfy_person_super_abuse_long |  
+| bip_39_word_underscore_12 | airport_model_unknown_sadness_advance_tower_satisfy_person_super_abuse_long_athlete |  
+| bip_39_word_underscore_2 | airport_model |  
+| bip_39_word_underscore_3 | airport_model_unknown |  
+| bip_39_word_underscore_4 | airport_model_unknown_sadness |  
+| bip_39_word_underscore_5 | airport_model_unknown_sadness_advance |  
+| bip_39_word_underscore_6 | airport_model_unknown_sadness_advance_tower |  
+| bip_39_word_underscore_7 | airport_model_unknown_sadness_advance_tower_satisfy |  
+| bip_39_word_underscore_8 | airport_model_unknown_sadness_advance_tower_satisfy_person |  
+| bip_39_word_underscore_9 | airport_model_unknown_sadness_advance_tower_satisfy_person_super |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

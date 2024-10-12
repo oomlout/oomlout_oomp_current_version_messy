@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | satoshi |  
+| bip_39_word_dash_10 | satoshi-gorilla-eight-melt-parrot-rapid-train-round-major-twelve |  
+| bip_39_word_dash_11 | satoshi-gorilla-eight-melt-parrot-rapid-train-round-major-twelve-shoe |  
+| bip_39_word_dash_12 | satoshi-gorilla-eight-melt-parrot-rapid-train-round-major-twelve-shoe-arrest |  
+| bip_39_word_dash_2 | satoshi-gorilla |  
+| bip_39_word_dash_3 | satoshi-gorilla-eight |  
+| bip_39_word_dash_4 | satoshi-gorilla-eight-melt |  
+| bip_39_word_dash_5 | satoshi-gorilla-eight-melt-parrot |  
+| bip_39_word_dash_6 | satoshi-gorilla-eight-melt-parrot-rapid |  
+| bip_39_word_dash_7 | satoshi-gorilla-eight-melt-parrot-rapid-train |  
+| bip_39_word_dash_8 | satoshi-gorilla-eight-melt-parrot-rapid-train-round |  
+| bip_39_word_dash_9 | satoshi-gorilla-eight-melt-parrot-rapid-train-round-major |  
 | bip_39_word_new_br_1 | satoshi |  
 | bip_39_word_new_br_10 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round<br>major<br>twelve |  
 | bip_39_word_new_br_11 | satoshi<br>gorilla<br>eight<br>melt<br>parrot<br>rapid<br>train<br>round<br>major<br>twelve<br>shoe |  
@@ -147,6 +159,18 @@ major |
 | bip_39_word_space_7 | satoshi gorilla eight melt parrot rapid train |  
 | bip_39_word_space_8 | satoshi gorilla eight melt parrot rapid train round |  
 | bip_39_word_space_9 | satoshi gorilla eight melt parrot rapid train round major |  
+| bip_39_word_underscore_1 | satoshi |  
+| bip_39_word_underscore_10 | satoshi_gorilla_eight_melt_parrot_rapid_train_round_major_twelve |  
+| bip_39_word_underscore_11 | satoshi_gorilla_eight_melt_parrot_rapid_train_round_major_twelve_shoe |  
+| bip_39_word_underscore_12 | satoshi_gorilla_eight_melt_parrot_rapid_train_round_major_twelve_shoe_arrest |  
+| bip_39_word_underscore_2 | satoshi_gorilla |  
+| bip_39_word_underscore_3 | satoshi_gorilla_eight |  
+| bip_39_word_underscore_4 | satoshi_gorilla_eight_melt |  
+| bip_39_word_underscore_5 | satoshi_gorilla_eight_melt_parrot |  
+| bip_39_word_underscore_6 | satoshi_gorilla_eight_melt_parrot_rapid |  
+| bip_39_word_underscore_7 | satoshi_gorilla_eight_melt_parrot_rapid_train |  
+| bip_39_word_underscore_8 | satoshi_gorilla_eight_melt_parrot_rapid_train_round |  
+| bip_39_word_underscore_9 | satoshi_gorilla_eight_melt_parrot_rapid_train_round_major |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

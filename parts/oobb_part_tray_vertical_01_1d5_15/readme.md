@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assume |  
+| bip_39_word_dash_10 | assume-card-fetch-craft-stairs-latin-knock-cricket-improve-world |  
+| bip_39_word_dash_11 | assume-card-fetch-craft-stairs-latin-knock-cricket-improve-world-prison |  
+| bip_39_word_dash_12 | assume-card-fetch-craft-stairs-latin-knock-cricket-improve-world-prison-acoustic |  
+| bip_39_word_dash_2 | assume-card |  
+| bip_39_word_dash_3 | assume-card-fetch |  
+| bip_39_word_dash_4 | assume-card-fetch-craft |  
+| bip_39_word_dash_5 | assume-card-fetch-craft-stairs |  
+| bip_39_word_dash_6 | assume-card-fetch-craft-stairs-latin |  
+| bip_39_word_dash_7 | assume-card-fetch-craft-stairs-latin-knock |  
+| bip_39_word_dash_8 | assume-card-fetch-craft-stairs-latin-knock-cricket |  
+| bip_39_word_dash_9 | assume-card-fetch-craft-stairs-latin-knock-cricket-improve |  
 | bip_39_word_new_br_1 | assume |  
 | bip_39_word_new_br_10 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket<br>improve<br>world |  
 | bip_39_word_new_br_11 | assume<br>card<br>fetch<br>craft<br>stairs<br>latin<br>knock<br>cricket<br>improve<br>world<br>prison |  
@@ -147,6 +159,18 @@ improve |
 | bip_39_word_space_7 | assume card fetch craft stairs latin knock |  
 | bip_39_word_space_8 | assume card fetch craft stairs latin knock cricket |  
 | bip_39_word_space_9 | assume card fetch craft stairs latin knock cricket improve |  
+| bip_39_word_underscore_1 | assume |  
+| bip_39_word_underscore_10 | assume_card_fetch_craft_stairs_latin_knock_cricket_improve_world |  
+| bip_39_word_underscore_11 | assume_card_fetch_craft_stairs_latin_knock_cricket_improve_world_prison |  
+| bip_39_word_underscore_12 | assume_card_fetch_craft_stairs_latin_knock_cricket_improve_world_prison_acoustic |  
+| bip_39_word_underscore_2 | assume_card |  
+| bip_39_word_underscore_3 | assume_card_fetch |  
+| bip_39_word_underscore_4 | assume_card_fetch_craft |  
+| bip_39_word_underscore_5 | assume_card_fetch_craft_stairs |  
+| bip_39_word_underscore_6 | assume_card_fetch_craft_stairs_latin |  
+| bip_39_word_underscore_7 | assume_card_fetch_craft_stairs_latin_knock |  
+| bip_39_word_underscore_8 | assume_card_fetch_craft_stairs_latin_knock_cricket |  
+| bip_39_word_underscore_9 | assume_card_fetch_craft_stairs_latin_knock_cricket_improve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

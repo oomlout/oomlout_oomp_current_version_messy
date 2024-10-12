@@ -1,3 +1,15 @@
+bip_39_word_dash_1: phone
+bip_39_word_dash_10: phone-cabin-anchor-inquiry-grief-pumpkin-jelly-tongue-because-void
+bip_39_word_dash_11: phone-cabin-anchor-inquiry-grief-pumpkin-jelly-tongue-because-void-address
+bip_39_word_dash_12: phone-cabin-anchor-inquiry-grief-pumpkin-jelly-tongue-because-void-address-ahead
+bip_39_word_dash_2: phone-cabin
+bip_39_word_dash_3: phone-cabin-anchor
+bip_39_word_dash_4: phone-cabin-anchor-inquiry
+bip_39_word_dash_5: phone-cabin-anchor-inquiry-grief
+bip_39_word_dash_6: phone-cabin-anchor-inquiry-grief-pumpkin
+bip_39_word_dash_7: phone-cabin-anchor-inquiry-grief-pumpkin-jelly
+bip_39_word_dash_8: phone-cabin-anchor-inquiry-grief-pumpkin-jelly-tongue
+bip_39_word_dash_9: phone-cabin-anchor-inquiry-grief-pumpkin-jelly-tongue-because
 bip_39_word_new_br_1: phone
 bip_39_word_new_br_10: phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue<br>because<br>void
 bip_39_word_new_br_11: phone<br>cabin<br>anchor<br>inquiry<br>grief<br>pumpkin<br>jelly<br>tongue<br>because<br>void<br>address
@@ -194,6 +206,18 @@ bip_39_word_space_6: phone cabin anchor inquiry grief pumpkin
 bip_39_word_space_7: phone cabin anchor inquiry grief pumpkin jelly
 bip_39_word_space_8: phone cabin anchor inquiry grief pumpkin jelly tongue
 bip_39_word_space_9: phone cabin anchor inquiry grief pumpkin jelly tongue because
+bip_39_word_underscore_1: phone
+bip_39_word_underscore_10: phone_cabin_anchor_inquiry_grief_pumpkin_jelly_tongue_because_void
+bip_39_word_underscore_11: phone_cabin_anchor_inquiry_grief_pumpkin_jelly_tongue_because_void_address
+bip_39_word_underscore_12: phone_cabin_anchor_inquiry_grief_pumpkin_jelly_tongue_because_void_address_ahead
+bip_39_word_underscore_2: phone_cabin
+bip_39_word_underscore_3: phone_cabin_anchor
+bip_39_word_underscore_4: phone_cabin_anchor_inquiry
+bip_39_word_underscore_5: phone_cabin_anchor_inquiry_grief
+bip_39_word_underscore_6: phone_cabin_anchor_inquiry_grief_pumpkin
+bip_39_word_underscore_7: phone_cabin_anchor_inquiry_grief_pumpkin_jelly
+bip_39_word_underscore_8: phone_cabin_anchor_inquiry_grief_pumpkin_jelly_tongue
+bip_39_word_underscore_9: phone_cabin_anchor_inquiry_grief_pumpkin_jelly_tongue_because
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

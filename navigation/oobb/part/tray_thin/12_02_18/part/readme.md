@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blame |  
+| bip_39_word_dash_10 | blame-track-liar-faith-fly-base-now-advance-hamster-prize |  
+| bip_39_word_dash_11 | blame-track-liar-faith-fly-base-now-advance-hamster-prize-cattle |  
+| bip_39_word_dash_12 | blame-track-liar-faith-fly-base-now-advance-hamster-prize-cattle-alone |  
+| bip_39_word_dash_2 | blame-track |  
+| bip_39_word_dash_3 | blame-track-liar |  
+| bip_39_word_dash_4 | blame-track-liar-faith |  
+| bip_39_word_dash_5 | blame-track-liar-faith-fly |  
+| bip_39_word_dash_6 | blame-track-liar-faith-fly-base |  
+| bip_39_word_dash_7 | blame-track-liar-faith-fly-base-now |  
+| bip_39_word_dash_8 | blame-track-liar-faith-fly-base-now-advance |  
+| bip_39_word_dash_9 | blame-track-liar-faith-fly-base-now-advance-hamster |  
 | bip_39_word_new_br_1 | blame |  
 | bip_39_word_new_br_10 | blame<br>track<br>liar<br>faith<br>fly<br>base<br>now<br>advance<br>hamster<br>prize |  
 | bip_39_word_new_br_11 | blame<br>track<br>liar<br>faith<br>fly<br>base<br>now<br>advance<br>hamster<br>prize<br>cattle |  
@@ -147,6 +159,18 @@ hamster |
 | bip_39_word_space_7 | blame track liar faith fly base now |  
 | bip_39_word_space_8 | blame track liar faith fly base now advance |  
 | bip_39_word_space_9 | blame track liar faith fly base now advance hamster |  
+| bip_39_word_underscore_1 | blame |  
+| bip_39_word_underscore_10 | blame_track_liar_faith_fly_base_now_advance_hamster_prize |  
+| bip_39_word_underscore_11 | blame_track_liar_faith_fly_base_now_advance_hamster_prize_cattle |  
+| bip_39_word_underscore_12 | blame_track_liar_faith_fly_base_now_advance_hamster_prize_cattle_alone |  
+| bip_39_word_underscore_2 | blame_track |  
+| bip_39_word_underscore_3 | blame_track_liar |  
+| bip_39_word_underscore_4 | blame_track_liar_faith |  
+| bip_39_word_underscore_5 | blame_track_liar_faith_fly |  
+| bip_39_word_underscore_6 | blame_track_liar_faith_fly_base |  
+| bip_39_word_underscore_7 | blame_track_liar_faith_fly_base_now |  
+| bip_39_word_underscore_8 | blame_track_liar_faith_fly_base_now_advance |  
+| bip_39_word_underscore_9 | blame_track_liar_faith_fly_base_now_advance_hamster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

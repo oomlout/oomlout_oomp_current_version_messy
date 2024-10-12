@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | task |  
+| bip_39_word_dash_10 | task-embrace-pepper-tonight-edge-cushion-draw-camera-dry-quit |  
+| bip_39_word_dash_11 | task-embrace-pepper-tonight-edge-cushion-draw-camera-dry-quit-elevator |  
+| bip_39_word_dash_12 | task-embrace-pepper-tonight-edge-cushion-draw-camera-dry-quit-elevator-aunt |  
+| bip_39_word_dash_2 | task-embrace |  
+| bip_39_word_dash_3 | task-embrace-pepper |  
+| bip_39_word_dash_4 | task-embrace-pepper-tonight |  
+| bip_39_word_dash_5 | task-embrace-pepper-tonight-edge |  
+| bip_39_word_dash_6 | task-embrace-pepper-tonight-edge-cushion |  
+| bip_39_word_dash_7 | task-embrace-pepper-tonight-edge-cushion-draw |  
+| bip_39_word_dash_8 | task-embrace-pepper-tonight-edge-cushion-draw-camera |  
+| bip_39_word_dash_9 | task-embrace-pepper-tonight-edge-cushion-draw-camera-dry |  
 | bip_39_word_new_br_1 | task |  
 | bip_39_word_new_br_10 | task<br>embrace<br>pepper<br>tonight<br>edge<br>cushion<br>draw<br>camera<br>dry<br>quit |  
 | bip_39_word_new_br_11 | task<br>embrace<br>pepper<br>tonight<br>edge<br>cushion<br>draw<br>camera<br>dry<br>quit<br>elevator |  
@@ -147,6 +159,18 @@ dry |
 | bip_39_word_space_7 | task embrace pepper tonight edge cushion draw |  
 | bip_39_word_space_8 | task embrace pepper tonight edge cushion draw camera |  
 | bip_39_word_space_9 | task embrace pepper tonight edge cushion draw camera dry |  
+| bip_39_word_underscore_1 | task |  
+| bip_39_word_underscore_10 | task_embrace_pepper_tonight_edge_cushion_draw_camera_dry_quit |  
+| bip_39_word_underscore_11 | task_embrace_pepper_tonight_edge_cushion_draw_camera_dry_quit_elevator |  
+| bip_39_word_underscore_12 | task_embrace_pepper_tonight_edge_cushion_draw_camera_dry_quit_elevator_aunt |  
+| bip_39_word_underscore_2 | task_embrace |  
+| bip_39_word_underscore_3 | task_embrace_pepper |  
+| bip_39_word_underscore_4 | task_embrace_pepper_tonight |  
+| bip_39_word_underscore_5 | task_embrace_pepper_tonight_edge |  
+| bip_39_word_underscore_6 | task_embrace_pepper_tonight_edge_cushion |  
+| bip_39_word_underscore_7 | task_embrace_pepper_tonight_edge_cushion_draw |  
+| bip_39_word_underscore_8 | task_embrace_pepper_tonight_edge_cushion_draw_camera |  
+| bip_39_word_underscore_9 | task_embrace_pepper_tonight_edge_cushion_draw_camera_dry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

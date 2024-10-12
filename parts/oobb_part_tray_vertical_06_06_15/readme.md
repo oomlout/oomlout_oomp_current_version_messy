@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | accident |  
+| bip_39_word_dash_10 | accident-this-quit-roof-child-arena-youth-nothing-shallow-butter |  
+| bip_39_word_dash_11 | accident-this-quit-roof-child-arena-youth-nothing-shallow-butter-wait |  
+| bip_39_word_dash_12 | accident-this-quit-roof-child-arena-youth-nothing-shallow-butter-wait-agree |  
+| bip_39_word_dash_2 | accident-this |  
+| bip_39_word_dash_3 | accident-this-quit |  
+| bip_39_word_dash_4 | accident-this-quit-roof |  
+| bip_39_word_dash_5 | accident-this-quit-roof-child |  
+| bip_39_word_dash_6 | accident-this-quit-roof-child-arena |  
+| bip_39_word_dash_7 | accident-this-quit-roof-child-arena-youth |  
+| bip_39_word_dash_8 | accident-this-quit-roof-child-arena-youth-nothing |  
+| bip_39_word_dash_9 | accident-this-quit-roof-child-arena-youth-nothing-shallow |  
 | bip_39_word_new_br_1 | accident |  
 | bip_39_word_new_br_10 | accident<br>this<br>quit<br>roof<br>child<br>arena<br>youth<br>nothing<br>shallow<br>butter |  
 | bip_39_word_new_br_11 | accident<br>this<br>quit<br>roof<br>child<br>arena<br>youth<br>nothing<br>shallow<br>butter<br>wait |  
@@ -147,6 +159,18 @@ shallow |
 | bip_39_word_space_7 | accident this quit roof child arena youth |  
 | bip_39_word_space_8 | accident this quit roof child arena youth nothing |  
 | bip_39_word_space_9 | accident this quit roof child arena youth nothing shallow |  
+| bip_39_word_underscore_1 | accident |  
+| bip_39_word_underscore_10 | accident_this_quit_roof_child_arena_youth_nothing_shallow_butter |  
+| bip_39_word_underscore_11 | accident_this_quit_roof_child_arena_youth_nothing_shallow_butter_wait |  
+| bip_39_word_underscore_12 | accident_this_quit_roof_child_arena_youth_nothing_shallow_butter_wait_agree |  
+| bip_39_word_underscore_2 | accident_this |  
+| bip_39_word_underscore_3 | accident_this_quit |  
+| bip_39_word_underscore_4 | accident_this_quit_roof |  
+| bip_39_word_underscore_5 | accident_this_quit_roof_child |  
+| bip_39_word_underscore_6 | accident_this_quit_roof_child_arena |  
+| bip_39_word_underscore_7 | accident_this_quit_roof_child_arena_youth |  
+| bip_39_word_underscore_8 | accident_this_quit_roof_child_arena_youth_nothing |  
+| bip_39_word_underscore_9 | accident_this_quit_roof_child_arena_youth_nothing_shallow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

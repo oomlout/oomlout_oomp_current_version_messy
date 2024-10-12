@@ -1,3 +1,15 @@
+bip_39_word_dash_1: capital
+bip_39_word_dash_10: capital-uphold-impulse-head-goat-neglect-behind-surge-deliver-model
+bip_39_word_dash_11: capital-uphold-impulse-head-goat-neglect-behind-surge-deliver-model-rally
+bip_39_word_dash_12: capital-uphold-impulse-head-goat-neglect-behind-surge-deliver-model-rally-arena
+bip_39_word_dash_2: capital-uphold
+bip_39_word_dash_3: capital-uphold-impulse
+bip_39_word_dash_4: capital-uphold-impulse-head
+bip_39_word_dash_5: capital-uphold-impulse-head-goat
+bip_39_word_dash_6: capital-uphold-impulse-head-goat-neglect
+bip_39_word_dash_7: capital-uphold-impulse-head-goat-neglect-behind
+bip_39_word_dash_8: capital-uphold-impulse-head-goat-neglect-behind-surge
+bip_39_word_dash_9: capital-uphold-impulse-head-goat-neglect-behind-surge-deliver
 bip_39_word_new_br_1: capital
 bip_39_word_new_br_10: capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model
 bip_39_word_new_br_11: capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model<br>rally
@@ -194,6 +206,18 @@ bip_39_word_space_6: capital uphold impulse head goat neglect
 bip_39_word_space_7: capital uphold impulse head goat neglect behind
 bip_39_word_space_8: capital uphold impulse head goat neglect behind surge
 bip_39_word_space_9: capital uphold impulse head goat neglect behind surge deliver
+bip_39_word_underscore_1: capital
+bip_39_word_underscore_10: capital_uphold_impulse_head_goat_neglect_behind_surge_deliver_model
+bip_39_word_underscore_11: capital_uphold_impulse_head_goat_neglect_behind_surge_deliver_model_rally
+bip_39_word_underscore_12: capital_uphold_impulse_head_goat_neglect_behind_surge_deliver_model_rally_arena
+bip_39_word_underscore_2: capital_uphold
+bip_39_word_underscore_3: capital_uphold_impulse
+bip_39_word_underscore_4: capital_uphold_impulse_head
+bip_39_word_underscore_5: capital_uphold_impulse_head_goat
+bip_39_word_underscore_6: capital_uphold_impulse_head_goat_neglect
+bip_39_word_underscore_7: capital_uphold_impulse_head_goat_neglect_behind
+bip_39_word_underscore_8: capital_uphold_impulse_head_goat_neglect_behind_surge
+bip_39_word_underscore_9: capital_uphold_impulse_head_goat_neglect_behind_surge_deliver
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

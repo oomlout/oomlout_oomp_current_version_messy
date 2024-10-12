@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | owner |  
+| bip_39_word_dash_10 | owner-midnight-napkin-humble-sport-wheel-good-sweet-bind-copper |  
+| bip_39_word_dash_11 | owner-midnight-napkin-humble-sport-wheel-good-sweet-bind-copper-person |  
+| bip_39_word_dash_12 | owner-midnight-napkin-humble-sport-wheel-good-sweet-bind-copper-person-antenna |  
+| bip_39_word_dash_2 | owner-midnight |  
+| bip_39_word_dash_3 | owner-midnight-napkin |  
+| bip_39_word_dash_4 | owner-midnight-napkin-humble |  
+| bip_39_word_dash_5 | owner-midnight-napkin-humble-sport |  
+| bip_39_word_dash_6 | owner-midnight-napkin-humble-sport-wheel |  
+| bip_39_word_dash_7 | owner-midnight-napkin-humble-sport-wheel-good |  
+| bip_39_word_dash_8 | owner-midnight-napkin-humble-sport-wheel-good-sweet |  
+| bip_39_word_dash_9 | owner-midnight-napkin-humble-sport-wheel-good-sweet-bind |  
 | bip_39_word_new_br_1 | owner |  
 | bip_39_word_new_br_10 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet<br>bind<br>copper |  
 | bip_39_word_new_br_11 | owner<br>midnight<br>napkin<br>humble<br>sport<br>wheel<br>good<br>sweet<br>bind<br>copper<br>person |  
@@ -147,6 +159,18 @@ bind |
 | bip_39_word_space_7 | owner midnight napkin humble sport wheel good |  
 | bip_39_word_space_8 | owner midnight napkin humble sport wheel good sweet |  
 | bip_39_word_space_9 | owner midnight napkin humble sport wheel good sweet bind |  
+| bip_39_word_underscore_1 | owner |  
+| bip_39_word_underscore_10 | owner_midnight_napkin_humble_sport_wheel_good_sweet_bind_copper |  
+| bip_39_word_underscore_11 | owner_midnight_napkin_humble_sport_wheel_good_sweet_bind_copper_person |  
+| bip_39_word_underscore_12 | owner_midnight_napkin_humble_sport_wheel_good_sweet_bind_copper_person_antenna |  
+| bip_39_word_underscore_2 | owner_midnight |  
+| bip_39_word_underscore_3 | owner_midnight_napkin |  
+| bip_39_word_underscore_4 | owner_midnight_napkin_humble |  
+| bip_39_word_underscore_5 | owner_midnight_napkin_humble_sport |  
+| bip_39_word_underscore_6 | owner_midnight_napkin_humble_sport_wheel |  
+| bip_39_word_underscore_7 | owner_midnight_napkin_humble_sport_wheel_good |  
+| bip_39_word_underscore_8 | owner_midnight_napkin_humble_sport_wheel_good_sweet |  
+| bip_39_word_underscore_9 | owner_midnight_napkin_humble_sport_wheel_good_sweet_bind |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

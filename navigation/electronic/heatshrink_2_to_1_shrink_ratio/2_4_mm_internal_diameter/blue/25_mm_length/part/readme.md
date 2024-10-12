@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | used |  
+| bip_39_word_dash_10 | used-exist-sudden-joy-endless-strike-cupboard-artist-confirm-logic |  
+| bip_39_word_dash_11 | used-exist-sudden-joy-endless-strike-cupboard-artist-confirm-logic-absurd |  
+| bip_39_word_dash_12 | used-exist-sudden-joy-endless-strike-cupboard-artist-confirm-logic-absurd-action |  
+| bip_39_word_dash_2 | used-exist |  
+| bip_39_word_dash_3 | used-exist-sudden |  
+| bip_39_word_dash_4 | used-exist-sudden-joy |  
+| bip_39_word_dash_5 | used-exist-sudden-joy-endless |  
+| bip_39_word_dash_6 | used-exist-sudden-joy-endless-strike |  
+| bip_39_word_dash_7 | used-exist-sudden-joy-endless-strike-cupboard |  
+| bip_39_word_dash_8 | used-exist-sudden-joy-endless-strike-cupboard-artist |  
+| bip_39_word_dash_9 | used-exist-sudden-joy-endless-strike-cupboard-artist-confirm |  
 | bip_39_word_new_br_1 | used |  
 | bip_39_word_new_br_10 | used<br>exist<br>sudden<br>joy<br>endless<br>strike<br>cupboard<br>artist<br>confirm<br>logic |  
 | bip_39_word_new_br_11 | used<br>exist<br>sudden<br>joy<br>endless<br>strike<br>cupboard<br>artist<br>confirm<br>logic<br>absurd |  
@@ -147,6 +159,18 @@ confirm |
 | bip_39_word_space_7 | used exist sudden joy endless strike cupboard |  
 | bip_39_word_space_8 | used exist sudden joy endless strike cupboard artist |  
 | bip_39_word_space_9 | used exist sudden joy endless strike cupboard artist confirm |  
+| bip_39_word_underscore_1 | used |  
+| bip_39_word_underscore_10 | used_exist_sudden_joy_endless_strike_cupboard_artist_confirm_logic |  
+| bip_39_word_underscore_11 | used_exist_sudden_joy_endless_strike_cupboard_artist_confirm_logic_absurd |  
+| bip_39_word_underscore_12 | used_exist_sudden_joy_endless_strike_cupboard_artist_confirm_logic_absurd_action |  
+| bip_39_word_underscore_2 | used_exist |  
+| bip_39_word_underscore_3 | used_exist_sudden |  
+| bip_39_word_underscore_4 | used_exist_sudden_joy |  
+| bip_39_word_underscore_5 | used_exist_sudden_joy_endless |  
+| bip_39_word_underscore_6 | used_exist_sudden_joy_endless_strike |  
+| bip_39_word_underscore_7 | used_exist_sudden_joy_endless_strike_cupboard |  
+| bip_39_word_underscore_8 | used_exist_sudden_joy_endless_strike_cupboard_artist |  
+| bip_39_word_underscore_9 | used_exist_sudden_joy_endless_strike_cupboard_artist_confirm |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

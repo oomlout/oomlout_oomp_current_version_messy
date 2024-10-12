@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | similar |  
+| bip_39_word_dash_10 | similar-spike-safe-industry-approve-tuna-elder-fall-truly-timber |  
+| bip_39_word_dash_11 | similar-spike-safe-industry-approve-tuna-elder-fall-truly-timber-title |  
+| bip_39_word_dash_12 | similar-spike-safe-industry-approve-tuna-elder-fall-truly-timber-title-antique |  
+| bip_39_word_dash_2 | similar-spike |  
+| bip_39_word_dash_3 | similar-spike-safe |  
+| bip_39_word_dash_4 | similar-spike-safe-industry |  
+| bip_39_word_dash_5 | similar-spike-safe-industry-approve |  
+| bip_39_word_dash_6 | similar-spike-safe-industry-approve-tuna |  
+| bip_39_word_dash_7 | similar-spike-safe-industry-approve-tuna-elder |  
+| bip_39_word_dash_8 | similar-spike-safe-industry-approve-tuna-elder-fall |  
+| bip_39_word_dash_9 | similar-spike-safe-industry-approve-tuna-elder-fall-truly |  
 | bip_39_word_new_br_1 | similar |  
 | bip_39_word_new_br_10 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber |  
 | bip_39_word_new_br_11 | similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber<br>title |  
@@ -147,6 +159,18 @@ truly |
 | bip_39_word_space_7 | similar spike safe industry approve tuna elder |  
 | bip_39_word_space_8 | similar spike safe industry approve tuna elder fall |  
 | bip_39_word_space_9 | similar spike safe industry approve tuna elder fall truly |  
+| bip_39_word_underscore_1 | similar |  
+| bip_39_word_underscore_10 | similar_spike_safe_industry_approve_tuna_elder_fall_truly_timber |  
+| bip_39_word_underscore_11 | similar_spike_safe_industry_approve_tuna_elder_fall_truly_timber_title |  
+| bip_39_word_underscore_12 | similar_spike_safe_industry_approve_tuna_elder_fall_truly_timber_title_antique |  
+| bip_39_word_underscore_2 | similar_spike |  
+| bip_39_word_underscore_3 | similar_spike_safe |  
+| bip_39_word_underscore_4 | similar_spike_safe_industry |  
+| bip_39_word_underscore_5 | similar_spike_safe_industry_approve |  
+| bip_39_word_underscore_6 | similar_spike_safe_industry_approve_tuna |  
+| bip_39_word_underscore_7 | similar_spike_safe_industry_approve_tuna_elder |  
+| bip_39_word_underscore_8 | similar_spike_safe_industry_approve_tuna_elder_fall |  
+| bip_39_word_underscore_9 | similar_spike_safe_industry_approve_tuna_elder_fall_truly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glory |  
+| bip_39_word_dash_10 | glory-toward-stock-engine-muscle-canyon-tilt-title-walk-comic |  
+| bip_39_word_dash_11 | glory-toward-stock-engine-muscle-canyon-tilt-title-walk-comic-original |  
+| bip_39_word_dash_12 | glory-toward-stock-engine-muscle-canyon-tilt-title-walk-comic-original-address |  
+| bip_39_word_dash_2 | glory-toward |  
+| bip_39_word_dash_3 | glory-toward-stock |  
+| bip_39_word_dash_4 | glory-toward-stock-engine |  
+| bip_39_word_dash_5 | glory-toward-stock-engine-muscle |  
+| bip_39_word_dash_6 | glory-toward-stock-engine-muscle-canyon |  
+| bip_39_word_dash_7 | glory-toward-stock-engine-muscle-canyon-tilt |  
+| bip_39_word_dash_8 | glory-toward-stock-engine-muscle-canyon-tilt-title |  
+| bip_39_word_dash_9 | glory-toward-stock-engine-muscle-canyon-tilt-title-walk |  
 | bip_39_word_new_br_1 | glory |  
 | bip_39_word_new_br_10 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title<br>walk<br>comic |  
 | bip_39_word_new_br_11 | glory<br>toward<br>stock<br>engine<br>muscle<br>canyon<br>tilt<br>title<br>walk<br>comic<br>original |  
@@ -147,6 +159,18 @@ walk |
 | bip_39_word_space_7 | glory toward stock engine muscle canyon tilt |  
 | bip_39_word_space_8 | glory toward stock engine muscle canyon tilt title |  
 | bip_39_word_space_9 | glory toward stock engine muscle canyon tilt title walk |  
+| bip_39_word_underscore_1 | glory |  
+| bip_39_word_underscore_10 | glory_toward_stock_engine_muscle_canyon_tilt_title_walk_comic |  
+| bip_39_word_underscore_11 | glory_toward_stock_engine_muscle_canyon_tilt_title_walk_comic_original |  
+| bip_39_word_underscore_12 | glory_toward_stock_engine_muscle_canyon_tilt_title_walk_comic_original_address |  
+| bip_39_word_underscore_2 | glory_toward |  
+| bip_39_word_underscore_3 | glory_toward_stock |  
+| bip_39_word_underscore_4 | glory_toward_stock_engine |  
+| bip_39_word_underscore_5 | glory_toward_stock_engine_muscle |  
+| bip_39_word_underscore_6 | glory_toward_stock_engine_muscle_canyon |  
+| bip_39_word_underscore_7 | glory_toward_stock_engine_muscle_canyon_tilt |  
+| bip_39_word_underscore_8 | glory_toward_stock_engine_muscle_canyon_tilt_title |  
+| bip_39_word_underscore_9 | glory_toward_stock_engine_muscle_canyon_tilt_title_walk |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

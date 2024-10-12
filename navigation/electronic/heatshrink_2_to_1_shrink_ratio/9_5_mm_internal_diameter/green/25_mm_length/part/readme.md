@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trial |  
+| bip_39_word_dash_10 | trial-visual-immense-dry-dad-dish-lock-garlic-capital-bubble |  
+| bip_39_word_dash_11 | trial-visual-immense-dry-dad-dish-lock-garlic-capital-bubble-bonus |  
+| bip_39_word_dash_12 | trial-visual-immense-dry-dad-dish-lock-garlic-capital-bubble-bonus-alcohol |  
+| bip_39_word_dash_2 | trial-visual |  
+| bip_39_word_dash_3 | trial-visual-immense |  
+| bip_39_word_dash_4 | trial-visual-immense-dry |  
+| bip_39_word_dash_5 | trial-visual-immense-dry-dad |  
+| bip_39_word_dash_6 | trial-visual-immense-dry-dad-dish |  
+| bip_39_word_dash_7 | trial-visual-immense-dry-dad-dish-lock |  
+| bip_39_word_dash_8 | trial-visual-immense-dry-dad-dish-lock-garlic |  
+| bip_39_word_dash_9 | trial-visual-immense-dry-dad-dish-lock-garlic-capital |  
 | bip_39_word_new_br_1 | trial |  
 | bip_39_word_new_br_10 | trial<br>visual<br>immense<br>dry<br>dad<br>dish<br>lock<br>garlic<br>capital<br>bubble |  
 | bip_39_word_new_br_11 | trial<br>visual<br>immense<br>dry<br>dad<br>dish<br>lock<br>garlic<br>capital<br>bubble<br>bonus |  
@@ -147,6 +159,18 @@ capital |
 | bip_39_word_space_7 | trial visual immense dry dad dish lock |  
 | bip_39_word_space_8 | trial visual immense dry dad dish lock garlic |  
 | bip_39_word_space_9 | trial visual immense dry dad dish lock garlic capital |  
+| bip_39_word_underscore_1 | trial |  
+| bip_39_word_underscore_10 | trial_visual_immense_dry_dad_dish_lock_garlic_capital_bubble |  
+| bip_39_word_underscore_11 | trial_visual_immense_dry_dad_dish_lock_garlic_capital_bubble_bonus |  
+| bip_39_word_underscore_12 | trial_visual_immense_dry_dad_dish_lock_garlic_capital_bubble_bonus_alcohol |  
+| bip_39_word_underscore_2 | trial_visual |  
+| bip_39_word_underscore_3 | trial_visual_immense |  
+| bip_39_word_underscore_4 | trial_visual_immense_dry |  
+| bip_39_word_underscore_5 | trial_visual_immense_dry_dad |  
+| bip_39_word_underscore_6 | trial_visual_immense_dry_dad_dish |  
+| bip_39_word_underscore_7 | trial_visual_immense_dry_dad_dish_lock |  
+| bip_39_word_underscore_8 | trial_visual_immense_dry_dad_dish_lock_garlic |  
+| bip_39_word_underscore_9 | trial_visual_immense_dry_dad_dish_lock_garlic_capital |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

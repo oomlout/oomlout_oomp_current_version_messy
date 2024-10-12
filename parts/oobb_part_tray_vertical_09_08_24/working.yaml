@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gadget
+bip_39_word_dash_10: gadget-fox-annual-chapter-rabbit-camp-host-faculty-mechanic-opera
+bip_39_word_dash_11: gadget-fox-annual-chapter-rabbit-camp-host-faculty-mechanic-opera-fault
+bip_39_word_dash_12: gadget-fox-annual-chapter-rabbit-camp-host-faculty-mechanic-opera-fault-area
+bip_39_word_dash_2: gadget-fox
+bip_39_word_dash_3: gadget-fox-annual
+bip_39_word_dash_4: gadget-fox-annual-chapter
+bip_39_word_dash_5: gadget-fox-annual-chapter-rabbit
+bip_39_word_dash_6: gadget-fox-annual-chapter-rabbit-camp
+bip_39_word_dash_7: gadget-fox-annual-chapter-rabbit-camp-host
+bip_39_word_dash_8: gadget-fox-annual-chapter-rabbit-camp-host-faculty
+bip_39_word_dash_9: gadget-fox-annual-chapter-rabbit-camp-host-faculty-mechanic
 bip_39_word_new_br_1: gadget
 bip_39_word_new_br_10: gadget<br>fox<br>annual<br>chapter<br>rabbit<br>camp<br>host<br>faculty<br>mechanic<br>opera
 bip_39_word_new_br_11: gadget<br>fox<br>annual<br>chapter<br>rabbit<br>camp<br>host<br>faculty<br>mechanic<br>opera<br>fault
@@ -194,6 +206,18 @@ bip_39_word_space_6: gadget fox annual chapter rabbit camp
 bip_39_word_space_7: gadget fox annual chapter rabbit camp host
 bip_39_word_space_8: gadget fox annual chapter rabbit camp host faculty
 bip_39_word_space_9: gadget fox annual chapter rabbit camp host faculty mechanic
+bip_39_word_underscore_1: gadget
+bip_39_word_underscore_10: gadget_fox_annual_chapter_rabbit_camp_host_faculty_mechanic_opera
+bip_39_word_underscore_11: gadget_fox_annual_chapter_rabbit_camp_host_faculty_mechanic_opera_fault
+bip_39_word_underscore_12: gadget_fox_annual_chapter_rabbit_camp_host_faculty_mechanic_opera_fault_area
+bip_39_word_underscore_2: gadget_fox
+bip_39_word_underscore_3: gadget_fox_annual
+bip_39_word_underscore_4: gadget_fox_annual_chapter
+bip_39_word_underscore_5: gadget_fox_annual_chapter_rabbit
+bip_39_word_underscore_6: gadget_fox_annual_chapter_rabbit_camp
+bip_39_word_underscore_7: gadget_fox_annual_chapter_rabbit_camp_host
+bip_39_word_underscore_8: gadget_fox_annual_chapter_rabbit_camp_host_faculty
+bip_39_word_underscore_9: gadget_fox_annual_chapter_rabbit_camp_host_faculty_mechanic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

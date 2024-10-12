@@ -1,3 +1,15 @@
+bip_39_word_dash_1: doctor
+bip_39_word_dash_10: doctor-much-buyer-easily-call-turn-use-call-meat-earn
+bip_39_word_dash_11: doctor-much-buyer-easily-call-turn-use-call-meat-earn-heavy
+bip_39_word_dash_12: doctor-much-buyer-easily-call-turn-use-call-meat-earn-heavy-animal
+bip_39_word_dash_2: doctor-much
+bip_39_word_dash_3: doctor-much-buyer
+bip_39_word_dash_4: doctor-much-buyer-easily
+bip_39_word_dash_5: doctor-much-buyer-easily-call
+bip_39_word_dash_6: doctor-much-buyer-easily-call-turn
+bip_39_word_dash_7: doctor-much-buyer-easily-call-turn-use
+bip_39_word_dash_8: doctor-much-buyer-easily-call-turn-use-call
+bip_39_word_dash_9: doctor-much-buyer-easily-call-turn-use-call-meat
 bip_39_word_new_br_1: doctor
 bip_39_word_new_br_10: doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call<br>meat<br>earn
 bip_39_word_new_br_11: doctor<br>much<br>buyer<br>easily<br>call<br>turn<br>use<br>call<br>meat<br>earn<br>heavy
@@ -192,6 +204,18 @@ bip_39_word_space_6: doctor much buyer easily call turn
 bip_39_word_space_7: doctor much buyer easily call turn use
 bip_39_word_space_8: doctor much buyer easily call turn use call
 bip_39_word_space_9: doctor much buyer easily call turn use call meat
+bip_39_word_underscore_1: doctor
+bip_39_word_underscore_10: doctor_much_buyer_easily_call_turn_use_call_meat_earn
+bip_39_word_underscore_11: doctor_much_buyer_easily_call_turn_use_call_meat_earn_heavy
+bip_39_word_underscore_12: doctor_much_buyer_easily_call_turn_use_call_meat_earn_heavy_animal
+bip_39_word_underscore_2: doctor_much
+bip_39_word_underscore_3: doctor_much_buyer
+bip_39_word_underscore_4: doctor_much_buyer_easily
+bip_39_word_underscore_5: doctor_much_buyer_easily_call
+bip_39_word_underscore_6: doctor_much_buyer_easily_call_turn
+bip_39_word_underscore_7: doctor_much_buyer_easily_call_turn_use
+bip_39_word_underscore_8: doctor_much_buyer_easily_call_turn_use_call
+bip_39_word_underscore_9: doctor_much_buyer_easily_call_turn_use_call_meat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

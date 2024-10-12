@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spatial |  
+| bip_39_word_dash_10 | spatial-chaos-wish-solution-argue-debate-pumpkin-bone-act-pen |  
+| bip_39_word_dash_11 | spatial-chaos-wish-solution-argue-debate-pumpkin-bone-act-pen-force |  
+| bip_39_word_dash_12 | spatial-chaos-wish-solution-argue-debate-pumpkin-bone-act-pen-force-assume |  
+| bip_39_word_dash_2 | spatial-chaos |  
+| bip_39_word_dash_3 | spatial-chaos-wish |  
+| bip_39_word_dash_4 | spatial-chaos-wish-solution |  
+| bip_39_word_dash_5 | spatial-chaos-wish-solution-argue |  
+| bip_39_word_dash_6 | spatial-chaos-wish-solution-argue-debate |  
+| bip_39_word_dash_7 | spatial-chaos-wish-solution-argue-debate-pumpkin |  
+| bip_39_word_dash_8 | spatial-chaos-wish-solution-argue-debate-pumpkin-bone |  
+| bip_39_word_dash_9 | spatial-chaos-wish-solution-argue-debate-pumpkin-bone-act |  
 | bip_39_word_new_br_1 | spatial |  
 | bip_39_word_new_br_10 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen |  
 | bip_39_word_new_br_11 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen<br>force |  
@@ -147,6 +159,18 @@ act |
 | bip_39_word_space_7 | spatial chaos wish solution argue debate pumpkin |  
 | bip_39_word_space_8 | spatial chaos wish solution argue debate pumpkin bone |  
 | bip_39_word_space_9 | spatial chaos wish solution argue debate pumpkin bone act |  
+| bip_39_word_underscore_1 | spatial |  
+| bip_39_word_underscore_10 | spatial_chaos_wish_solution_argue_debate_pumpkin_bone_act_pen |  
+| bip_39_word_underscore_11 | spatial_chaos_wish_solution_argue_debate_pumpkin_bone_act_pen_force |  
+| bip_39_word_underscore_12 | spatial_chaos_wish_solution_argue_debate_pumpkin_bone_act_pen_force_assume |  
+| bip_39_word_underscore_2 | spatial_chaos |  
+| bip_39_word_underscore_3 | spatial_chaos_wish |  
+| bip_39_word_underscore_4 | spatial_chaos_wish_solution |  
+| bip_39_word_underscore_5 | spatial_chaos_wish_solution_argue |  
+| bip_39_word_underscore_6 | spatial_chaos_wish_solution_argue_debate |  
+| bip_39_word_underscore_7 | spatial_chaos_wish_solution_argue_debate_pumpkin |  
+| bip_39_word_underscore_8 | spatial_chaos_wish_solution_argue_debate_pumpkin_bone |  
+| bip_39_word_underscore_9 | spatial_chaos_wish_solution_argue_debate_pumpkin_bone_act |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

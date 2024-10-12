@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | man |  
+| bip_39_word_dash_10 | man-else-display-tiger-topic-rather-protect-promote-inquiry-gather |  
+| bip_39_word_dash_11 | man-else-display-tiger-topic-rather-protect-promote-inquiry-gather-ripple |  
+| bip_39_word_dash_12 | man-else-display-tiger-topic-rather-protect-promote-inquiry-gather-ripple-anxiety |  
+| bip_39_word_dash_2 | man-else |  
+| bip_39_word_dash_3 | man-else-display |  
+| bip_39_word_dash_4 | man-else-display-tiger |  
+| bip_39_word_dash_5 | man-else-display-tiger-topic |  
+| bip_39_word_dash_6 | man-else-display-tiger-topic-rather |  
+| bip_39_word_dash_7 | man-else-display-tiger-topic-rather-protect |  
+| bip_39_word_dash_8 | man-else-display-tiger-topic-rather-protect-promote |  
+| bip_39_word_dash_9 | man-else-display-tiger-topic-rather-protect-promote-inquiry |  
 | bip_39_word_new_br_1 | man |  
 | bip_39_word_new_br_10 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote<br>inquiry<br>gather |  
 | bip_39_word_new_br_11 | man<br>else<br>display<br>tiger<br>topic<br>rather<br>protect<br>promote<br>inquiry<br>gather<br>ripple |  
@@ -147,6 +159,18 @@ inquiry |
 | bip_39_word_space_7 | man else display tiger topic rather protect |  
 | bip_39_word_space_8 | man else display tiger topic rather protect promote |  
 | bip_39_word_space_9 | man else display tiger topic rather protect promote inquiry |  
+| bip_39_word_underscore_1 | man |  
+| bip_39_word_underscore_10 | man_else_display_tiger_topic_rather_protect_promote_inquiry_gather |  
+| bip_39_word_underscore_11 | man_else_display_tiger_topic_rather_protect_promote_inquiry_gather_ripple |  
+| bip_39_word_underscore_12 | man_else_display_tiger_topic_rather_protect_promote_inquiry_gather_ripple_anxiety |  
+| bip_39_word_underscore_2 | man_else |  
+| bip_39_word_underscore_3 | man_else_display |  
+| bip_39_word_underscore_4 | man_else_display_tiger |  
+| bip_39_word_underscore_5 | man_else_display_tiger_topic |  
+| bip_39_word_underscore_6 | man_else_display_tiger_topic_rather |  
+| bip_39_word_underscore_7 | man_else_display_tiger_topic_rather_protect |  
+| bip_39_word_underscore_8 | man_else_display_tiger_topic_rather_protect_promote |  
+| bip_39_word_underscore_9 | man_else_display_tiger_topic_rather_protect_promote_inquiry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

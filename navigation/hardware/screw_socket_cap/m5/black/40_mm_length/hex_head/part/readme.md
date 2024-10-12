@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | camp |  
+| bip_39_word_dash_10 | camp-carry-code-chuckle-myself-feature-wonder-animal-pulp-badge |  
+| bip_39_word_dash_11 | camp-carry-code-chuckle-myself-feature-wonder-animal-pulp-badge-palace |  
+| bip_39_word_dash_12 | camp-carry-code-chuckle-myself-feature-wonder-animal-pulp-badge-palace-aisle |  
+| bip_39_word_dash_2 | camp-carry |  
+| bip_39_word_dash_3 | camp-carry-code |  
+| bip_39_word_dash_4 | camp-carry-code-chuckle |  
+| bip_39_word_dash_5 | camp-carry-code-chuckle-myself |  
+| bip_39_word_dash_6 | camp-carry-code-chuckle-myself-feature |  
+| bip_39_word_dash_7 | camp-carry-code-chuckle-myself-feature-wonder |  
+| bip_39_word_dash_8 | camp-carry-code-chuckle-myself-feature-wonder-animal |  
+| bip_39_word_dash_9 | camp-carry-code-chuckle-myself-feature-wonder-animal-pulp |  
 | bip_39_word_new_br_1 | camp |  
 | bip_39_word_new_br_10 | camp<br>carry<br>code<br>chuckle<br>myself<br>feature<br>wonder<br>animal<br>pulp<br>badge |  
 | bip_39_word_new_br_11 | camp<br>carry<br>code<br>chuckle<br>myself<br>feature<br>wonder<br>animal<br>pulp<br>badge<br>palace |  
@@ -147,6 +159,18 @@ pulp |
 | bip_39_word_space_7 | camp carry code chuckle myself feature wonder |  
 | bip_39_word_space_8 | camp carry code chuckle myself feature wonder animal |  
 | bip_39_word_space_9 | camp carry code chuckle myself feature wonder animal pulp |  
+| bip_39_word_underscore_1 | camp |  
+| bip_39_word_underscore_10 | camp_carry_code_chuckle_myself_feature_wonder_animal_pulp_badge |  
+| bip_39_word_underscore_11 | camp_carry_code_chuckle_myself_feature_wonder_animal_pulp_badge_palace |  
+| bip_39_word_underscore_12 | camp_carry_code_chuckle_myself_feature_wonder_animal_pulp_badge_palace_aisle |  
+| bip_39_word_underscore_2 | camp_carry |  
+| bip_39_word_underscore_3 | camp_carry_code |  
+| bip_39_word_underscore_4 | camp_carry_code_chuckle |  
+| bip_39_word_underscore_5 | camp_carry_code_chuckle_myself |  
+| bip_39_word_underscore_6 | camp_carry_code_chuckle_myself_feature |  
+| bip_39_word_underscore_7 | camp_carry_code_chuckle_myself_feature_wonder |  
+| bip_39_word_underscore_8 | camp_carry_code_chuckle_myself_feature_wonder_animal |  
+| bip_39_word_underscore_9 | camp_carry_code_chuckle_myself_feature_wonder_animal_pulp |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

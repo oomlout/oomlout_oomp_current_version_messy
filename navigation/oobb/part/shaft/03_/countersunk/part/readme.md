@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | notable |  
+| bip_39_word_dash_10 | notable-fame-brain-orbit-wisdom-photo-guilt-catalog-squeeze-lunch |  
+| bip_39_word_dash_11 | notable-fame-brain-orbit-wisdom-photo-guilt-catalog-squeeze-lunch-kitten |  
+| bip_39_word_dash_12 | notable-fame-brain-orbit-wisdom-photo-guilt-catalog-squeeze-lunch-kitten-autumn |  
+| bip_39_word_dash_2 | notable-fame |  
+| bip_39_word_dash_3 | notable-fame-brain |  
+| bip_39_word_dash_4 | notable-fame-brain-orbit |  
+| bip_39_word_dash_5 | notable-fame-brain-orbit-wisdom |  
+| bip_39_word_dash_6 | notable-fame-brain-orbit-wisdom-photo |  
+| bip_39_word_dash_7 | notable-fame-brain-orbit-wisdom-photo-guilt |  
+| bip_39_word_dash_8 | notable-fame-brain-orbit-wisdom-photo-guilt-catalog |  
+| bip_39_word_dash_9 | notable-fame-brain-orbit-wisdom-photo-guilt-catalog-squeeze |  
 | bip_39_word_new_br_1 | notable |  
 | bip_39_word_new_br_10 | notable<br>fame<br>brain<br>orbit<br>wisdom<br>photo<br>guilt<br>catalog<br>squeeze<br>lunch |  
 | bip_39_word_new_br_11 | notable<br>fame<br>brain<br>orbit<br>wisdom<br>photo<br>guilt<br>catalog<br>squeeze<br>lunch<br>kitten |  
@@ -147,6 +159,18 @@ squeeze |
 | bip_39_word_space_7 | notable fame brain orbit wisdom photo guilt |  
 | bip_39_word_space_8 | notable fame brain orbit wisdom photo guilt catalog |  
 | bip_39_word_space_9 | notable fame brain orbit wisdom photo guilt catalog squeeze |  
+| bip_39_word_underscore_1 | notable |  
+| bip_39_word_underscore_10 | notable_fame_brain_orbit_wisdom_photo_guilt_catalog_squeeze_lunch |  
+| bip_39_word_underscore_11 | notable_fame_brain_orbit_wisdom_photo_guilt_catalog_squeeze_lunch_kitten |  
+| bip_39_word_underscore_12 | notable_fame_brain_orbit_wisdom_photo_guilt_catalog_squeeze_lunch_kitten_autumn |  
+| bip_39_word_underscore_2 | notable_fame |  
+| bip_39_word_underscore_3 | notable_fame_brain |  
+| bip_39_word_underscore_4 | notable_fame_brain_orbit |  
+| bip_39_word_underscore_5 | notable_fame_brain_orbit_wisdom |  
+| bip_39_word_underscore_6 | notable_fame_brain_orbit_wisdom_photo |  
+| bip_39_word_underscore_7 | notable_fame_brain_orbit_wisdom_photo_guilt |  
+| bip_39_word_underscore_8 | notable_fame_brain_orbit_wisdom_photo_guilt_catalog |  
+| bip_39_word_underscore_9 | notable_fame_brain_orbit_wisdom_photo_guilt_catalog_squeeze |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

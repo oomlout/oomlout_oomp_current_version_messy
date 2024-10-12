@@ -1,3 +1,15 @@
+bip_39_word_dash_1: harbor
+bip_39_word_dash_10: harbor-write-hybrid-goat-shoot-frame-begin-collect-attend-ecology
+bip_39_word_dash_11: harbor-write-hybrid-goat-shoot-frame-begin-collect-attend-ecology-road
+bip_39_word_dash_12: harbor-write-hybrid-goat-shoot-frame-begin-collect-attend-ecology-road-alter
+bip_39_word_dash_2: harbor-write
+bip_39_word_dash_3: harbor-write-hybrid
+bip_39_word_dash_4: harbor-write-hybrid-goat
+bip_39_word_dash_5: harbor-write-hybrid-goat-shoot
+bip_39_word_dash_6: harbor-write-hybrid-goat-shoot-frame
+bip_39_word_dash_7: harbor-write-hybrid-goat-shoot-frame-begin
+bip_39_word_dash_8: harbor-write-hybrid-goat-shoot-frame-begin-collect
+bip_39_word_dash_9: harbor-write-hybrid-goat-shoot-frame-begin-collect-attend
 bip_39_word_new_br_1: harbor
 bip_39_word_new_br_10: harbor<br>write<br>hybrid<br>goat<br>shoot<br>frame<br>begin<br>collect<br>attend<br>ecology
 bip_39_word_new_br_11: harbor<br>write<br>hybrid<br>goat<br>shoot<br>frame<br>begin<br>collect<br>attend<br>ecology<br>road
@@ -193,6 +205,18 @@ bip_39_word_space_6: harbor write hybrid goat shoot frame
 bip_39_word_space_7: harbor write hybrid goat shoot frame begin
 bip_39_word_space_8: harbor write hybrid goat shoot frame begin collect
 bip_39_word_space_9: harbor write hybrid goat shoot frame begin collect attend
+bip_39_word_underscore_1: harbor
+bip_39_word_underscore_10: harbor_write_hybrid_goat_shoot_frame_begin_collect_attend_ecology
+bip_39_word_underscore_11: harbor_write_hybrid_goat_shoot_frame_begin_collect_attend_ecology_road
+bip_39_word_underscore_12: harbor_write_hybrid_goat_shoot_frame_begin_collect_attend_ecology_road_alter
+bip_39_word_underscore_2: harbor_write
+bip_39_word_underscore_3: harbor_write_hybrid
+bip_39_word_underscore_4: harbor_write_hybrid_goat
+bip_39_word_underscore_5: harbor_write_hybrid_goat_shoot
+bip_39_word_underscore_6: harbor_write_hybrid_goat_shoot_frame
+bip_39_word_underscore_7: harbor_write_hybrid_goat_shoot_frame_begin
+bip_39_word_underscore_8: harbor_write_hybrid_goat_shoot_frame_begin_collect
+bip_39_word_underscore_9: harbor_write_hybrid_goat_shoot_frame_begin_collect_attend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

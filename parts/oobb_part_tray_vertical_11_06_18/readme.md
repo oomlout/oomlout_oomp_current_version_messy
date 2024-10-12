@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ship |  
+| bip_39_word_dash_10 | ship-outdoor-hundred-fury-come-siege-submit-stage-fence-potato |  
+| bip_39_word_dash_11 | ship-outdoor-hundred-fury-come-siege-submit-stage-fence-potato-magnet |  
+| bip_39_word_dash_12 | ship-outdoor-hundred-fury-come-siege-submit-stage-fence-potato-magnet-assume |  
+| bip_39_word_dash_2 | ship-outdoor |  
+| bip_39_word_dash_3 | ship-outdoor-hundred |  
+| bip_39_word_dash_4 | ship-outdoor-hundred-fury |  
+| bip_39_word_dash_5 | ship-outdoor-hundred-fury-come |  
+| bip_39_word_dash_6 | ship-outdoor-hundred-fury-come-siege |  
+| bip_39_word_dash_7 | ship-outdoor-hundred-fury-come-siege-submit |  
+| bip_39_word_dash_8 | ship-outdoor-hundred-fury-come-siege-submit-stage |  
+| bip_39_word_dash_9 | ship-outdoor-hundred-fury-come-siege-submit-stage-fence |  
 | bip_39_word_new_br_1 | ship |  
 | bip_39_word_new_br_10 | ship<br>outdoor<br>hundred<br>fury<br>come<br>siege<br>submit<br>stage<br>fence<br>potato |  
 | bip_39_word_new_br_11 | ship<br>outdoor<br>hundred<br>fury<br>come<br>siege<br>submit<br>stage<br>fence<br>potato<br>magnet |  
@@ -147,6 +159,18 @@ fence |
 | bip_39_word_space_7 | ship outdoor hundred fury come siege submit |  
 | bip_39_word_space_8 | ship outdoor hundred fury come siege submit stage |  
 | bip_39_word_space_9 | ship outdoor hundred fury come siege submit stage fence |  
+| bip_39_word_underscore_1 | ship |  
+| bip_39_word_underscore_10 | ship_outdoor_hundred_fury_come_siege_submit_stage_fence_potato |  
+| bip_39_word_underscore_11 | ship_outdoor_hundred_fury_come_siege_submit_stage_fence_potato_magnet |  
+| bip_39_word_underscore_12 | ship_outdoor_hundred_fury_come_siege_submit_stage_fence_potato_magnet_assume |  
+| bip_39_word_underscore_2 | ship_outdoor |  
+| bip_39_word_underscore_3 | ship_outdoor_hundred |  
+| bip_39_word_underscore_4 | ship_outdoor_hundred_fury |  
+| bip_39_word_underscore_5 | ship_outdoor_hundred_fury_come |  
+| bip_39_word_underscore_6 | ship_outdoor_hundred_fury_come_siege |  
+| bip_39_word_underscore_7 | ship_outdoor_hundred_fury_come_siege_submit |  
+| bip_39_word_underscore_8 | ship_outdoor_hundred_fury_come_siege_submit_stage |  
+| bip_39_word_underscore_9 | ship_outdoor_hundred_fury_come_siege_submit_stage_fence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

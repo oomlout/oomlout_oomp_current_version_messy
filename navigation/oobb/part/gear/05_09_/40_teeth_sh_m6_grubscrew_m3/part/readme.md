@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sibling |  
+| bip_39_word_dash_10 | sibling-choice-junior-carbon-client-scan-lava-soap-east-science |  
+| bip_39_word_dash_11 | sibling-choice-junior-carbon-client-scan-lava-soap-east-science-veteran |  
+| bip_39_word_dash_12 | sibling-choice-junior-carbon-client-scan-lava-soap-east-science-veteran-ask |  
+| bip_39_word_dash_2 | sibling-choice |  
+| bip_39_word_dash_3 | sibling-choice-junior |  
+| bip_39_word_dash_4 | sibling-choice-junior-carbon |  
+| bip_39_word_dash_5 | sibling-choice-junior-carbon-client |  
+| bip_39_word_dash_6 | sibling-choice-junior-carbon-client-scan |  
+| bip_39_word_dash_7 | sibling-choice-junior-carbon-client-scan-lava |  
+| bip_39_word_dash_8 | sibling-choice-junior-carbon-client-scan-lava-soap |  
+| bip_39_word_dash_9 | sibling-choice-junior-carbon-client-scan-lava-soap-east |  
 | bip_39_word_new_br_1 | sibling |  
 | bip_39_word_new_br_10 | sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap<br>east<br>science |  
 | bip_39_word_new_br_11 | sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap<br>east<br>science<br>veteran |  
@@ -147,6 +159,18 @@ east |
 | bip_39_word_space_7 | sibling choice junior carbon client scan lava |  
 | bip_39_word_space_8 | sibling choice junior carbon client scan lava soap |  
 | bip_39_word_space_9 | sibling choice junior carbon client scan lava soap east |  
+| bip_39_word_underscore_1 | sibling |  
+| bip_39_word_underscore_10 | sibling_choice_junior_carbon_client_scan_lava_soap_east_science |  
+| bip_39_word_underscore_11 | sibling_choice_junior_carbon_client_scan_lava_soap_east_science_veteran |  
+| bip_39_word_underscore_12 | sibling_choice_junior_carbon_client_scan_lava_soap_east_science_veteran_ask |  
+| bip_39_word_underscore_2 | sibling_choice |  
+| bip_39_word_underscore_3 | sibling_choice_junior |  
+| bip_39_word_underscore_4 | sibling_choice_junior_carbon |  
+| bip_39_word_underscore_5 | sibling_choice_junior_carbon_client |  
+| bip_39_word_underscore_6 | sibling_choice_junior_carbon_client_scan |  
+| bip_39_word_underscore_7 | sibling_choice_junior_carbon_client_scan_lava |  
+| bip_39_word_underscore_8 | sibling_choice_junior_carbon_client_scan_lava_soap |  
+| bip_39_word_underscore_9 | sibling_choice_junior_carbon_client_scan_lava_soap_east |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

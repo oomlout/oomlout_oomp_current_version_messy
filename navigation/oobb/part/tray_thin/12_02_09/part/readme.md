@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | method |  
+| bip_39_word_dash_10 | method-entire-require-team-hip-robot-indoor-oppose-siren-kidney |  
+| bip_39_word_dash_11 | method-entire-require-team-hip-robot-indoor-oppose-siren-kidney-ivory |  
+| bip_39_word_dash_12 | method-entire-require-team-hip-robot-indoor-oppose-siren-kidney-ivory-all |  
+| bip_39_word_dash_2 | method-entire |  
+| bip_39_word_dash_3 | method-entire-require |  
+| bip_39_word_dash_4 | method-entire-require-team |  
+| bip_39_word_dash_5 | method-entire-require-team-hip |  
+| bip_39_word_dash_6 | method-entire-require-team-hip-robot |  
+| bip_39_word_dash_7 | method-entire-require-team-hip-robot-indoor |  
+| bip_39_word_dash_8 | method-entire-require-team-hip-robot-indoor-oppose |  
+| bip_39_word_dash_9 | method-entire-require-team-hip-robot-indoor-oppose-siren |  
 | bip_39_word_new_br_1 | method |  
 | bip_39_word_new_br_10 | method<br>entire<br>require<br>team<br>hip<br>robot<br>indoor<br>oppose<br>siren<br>kidney |  
 | bip_39_word_new_br_11 | method<br>entire<br>require<br>team<br>hip<br>robot<br>indoor<br>oppose<br>siren<br>kidney<br>ivory |  
@@ -147,6 +159,18 @@ siren |
 | bip_39_word_space_7 | method entire require team hip robot indoor |  
 | bip_39_word_space_8 | method entire require team hip robot indoor oppose |  
 | bip_39_word_space_9 | method entire require team hip robot indoor oppose siren |  
+| bip_39_word_underscore_1 | method |  
+| bip_39_word_underscore_10 | method_entire_require_team_hip_robot_indoor_oppose_siren_kidney |  
+| bip_39_word_underscore_11 | method_entire_require_team_hip_robot_indoor_oppose_siren_kidney_ivory |  
+| bip_39_word_underscore_12 | method_entire_require_team_hip_robot_indoor_oppose_siren_kidney_ivory_all |  
+| bip_39_word_underscore_2 | method_entire |  
+| bip_39_word_underscore_3 | method_entire_require |  
+| bip_39_word_underscore_4 | method_entire_require_team |  
+| bip_39_word_underscore_5 | method_entire_require_team_hip |  
+| bip_39_word_underscore_6 | method_entire_require_team_hip_robot |  
+| bip_39_word_underscore_7 | method_entire_require_team_hip_robot_indoor |  
+| bip_39_word_underscore_8 | method_entire_require_team_hip_robot_indoor_oppose |  
+| bip_39_word_underscore_9 | method_entire_require_team_hip_robot_indoor_oppose_siren |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

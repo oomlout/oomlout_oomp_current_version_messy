@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hammer |  
+| bip_39_word_dash_10 | hammer-pond-film-biology-coconut-tonight-detect-never-fish-fault |  
+| bip_39_word_dash_11 | hammer-pond-film-biology-coconut-tonight-detect-never-fish-fault-group |  
+| bip_39_word_dash_12 | hammer-pond-film-biology-coconut-tonight-detect-never-fish-fault-group-attitude |  
+| bip_39_word_dash_2 | hammer-pond |  
+| bip_39_word_dash_3 | hammer-pond-film |  
+| bip_39_word_dash_4 | hammer-pond-film-biology |  
+| bip_39_word_dash_5 | hammer-pond-film-biology-coconut |  
+| bip_39_word_dash_6 | hammer-pond-film-biology-coconut-tonight |  
+| bip_39_word_dash_7 | hammer-pond-film-biology-coconut-tonight-detect |  
+| bip_39_word_dash_8 | hammer-pond-film-biology-coconut-tonight-detect-never |  
+| bip_39_word_dash_9 | hammer-pond-film-biology-coconut-tonight-detect-never-fish |  
 | bip_39_word_new_br_1 | hammer |  
 | bip_39_word_new_br_10 | hammer<br>pond<br>film<br>biology<br>coconut<br>tonight<br>detect<br>never<br>fish<br>fault |  
 | bip_39_word_new_br_11 | hammer<br>pond<br>film<br>biology<br>coconut<br>tonight<br>detect<br>never<br>fish<br>fault<br>group |  
@@ -147,6 +159,18 @@ fish |
 | bip_39_word_space_7 | hammer pond film biology coconut tonight detect |  
 | bip_39_word_space_8 | hammer pond film biology coconut tonight detect never |  
 | bip_39_word_space_9 | hammer pond film biology coconut tonight detect never fish |  
+| bip_39_word_underscore_1 | hammer |  
+| bip_39_word_underscore_10 | hammer_pond_film_biology_coconut_tonight_detect_never_fish_fault |  
+| bip_39_word_underscore_11 | hammer_pond_film_biology_coconut_tonight_detect_never_fish_fault_group |  
+| bip_39_word_underscore_12 | hammer_pond_film_biology_coconut_tonight_detect_never_fish_fault_group_attitude |  
+| bip_39_word_underscore_2 | hammer_pond |  
+| bip_39_word_underscore_3 | hammer_pond_film |  
+| bip_39_word_underscore_4 | hammer_pond_film_biology |  
+| bip_39_word_underscore_5 | hammer_pond_film_biology_coconut |  
+| bip_39_word_underscore_6 | hammer_pond_film_biology_coconut_tonight |  
+| bip_39_word_underscore_7 | hammer_pond_film_biology_coconut_tonight_detect |  
+| bip_39_word_underscore_8 | hammer_pond_film_biology_coconut_tonight_detect_never |  
+| bip_39_word_underscore_9 | hammer_pond_film_biology_coconut_tonight_detect_never_fish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

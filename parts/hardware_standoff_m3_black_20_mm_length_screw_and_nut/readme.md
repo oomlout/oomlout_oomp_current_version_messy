@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | finish |  
+| bip_39_word_dash_10 | finish-buffalo-jacket-broom-omit-tool-grace-hip-magnet-salad |  
+| bip_39_word_dash_11 | finish-buffalo-jacket-broom-omit-tool-grace-hip-magnet-salad-weapon |  
+| bip_39_word_dash_12 | finish-buffalo-jacket-broom-omit-tool-grace-hip-magnet-salad-weapon-ankle |  
+| bip_39_word_dash_2 | finish-buffalo |  
+| bip_39_word_dash_3 | finish-buffalo-jacket |  
+| bip_39_word_dash_4 | finish-buffalo-jacket-broom |  
+| bip_39_word_dash_5 | finish-buffalo-jacket-broom-omit |  
+| bip_39_word_dash_6 | finish-buffalo-jacket-broom-omit-tool |  
+| bip_39_word_dash_7 | finish-buffalo-jacket-broom-omit-tool-grace |  
+| bip_39_word_dash_8 | finish-buffalo-jacket-broom-omit-tool-grace-hip |  
+| bip_39_word_dash_9 | finish-buffalo-jacket-broom-omit-tool-grace-hip-magnet |  
 | bip_39_word_new_br_1 | finish |  
 | bip_39_word_new_br_10 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip<br>magnet<br>salad |  
 | bip_39_word_new_br_11 | finish<br>buffalo<br>jacket<br>broom<br>omit<br>tool<br>grace<br>hip<br>magnet<br>salad<br>weapon |  
@@ -147,6 +159,18 @@ magnet |
 | bip_39_word_space_7 | finish buffalo jacket broom omit tool grace |  
 | bip_39_word_space_8 | finish buffalo jacket broom omit tool grace hip |  
 | bip_39_word_space_9 | finish buffalo jacket broom omit tool grace hip magnet |  
+| bip_39_word_underscore_1 | finish |  
+| bip_39_word_underscore_10 | finish_buffalo_jacket_broom_omit_tool_grace_hip_magnet_salad |  
+| bip_39_word_underscore_11 | finish_buffalo_jacket_broom_omit_tool_grace_hip_magnet_salad_weapon |  
+| bip_39_word_underscore_12 | finish_buffalo_jacket_broom_omit_tool_grace_hip_magnet_salad_weapon_ankle |  
+| bip_39_word_underscore_2 | finish_buffalo |  
+| bip_39_word_underscore_3 | finish_buffalo_jacket |  
+| bip_39_word_underscore_4 | finish_buffalo_jacket_broom |  
+| bip_39_word_underscore_5 | finish_buffalo_jacket_broom_omit |  
+| bip_39_word_underscore_6 | finish_buffalo_jacket_broom_omit_tool |  
+| bip_39_word_underscore_7 | finish_buffalo_jacket_broom_omit_tool_grace |  
+| bip_39_word_underscore_8 | finish_buffalo_jacket_broom_omit_tool_grace_hip |  
+| bip_39_word_underscore_9 | finish_buffalo_jacket_broom_omit_tool_grace_hip_magnet |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

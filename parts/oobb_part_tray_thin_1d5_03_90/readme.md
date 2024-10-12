@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jazz |  
+| bip_39_word_dash_10 | jazz-movie-despair-include-blast-raccoon-guard-keep-find-frown |  
+| bip_39_word_dash_11 | jazz-movie-despair-include-blast-raccoon-guard-keep-find-frown-smoke |  
+| bip_39_word_dash_12 | jazz-movie-despair-include-blast-raccoon-guard-keep-find-frown-smoke-about |  
+| bip_39_word_dash_2 | jazz-movie |  
+| bip_39_word_dash_3 | jazz-movie-despair |  
+| bip_39_word_dash_4 | jazz-movie-despair-include |  
+| bip_39_word_dash_5 | jazz-movie-despair-include-blast |  
+| bip_39_word_dash_6 | jazz-movie-despair-include-blast-raccoon |  
+| bip_39_word_dash_7 | jazz-movie-despair-include-blast-raccoon-guard |  
+| bip_39_word_dash_8 | jazz-movie-despair-include-blast-raccoon-guard-keep |  
+| bip_39_word_dash_9 | jazz-movie-despair-include-blast-raccoon-guard-keep-find |  
 | bip_39_word_new_br_1 | jazz |  
 | bip_39_word_new_br_10 | jazz<br>movie<br>despair<br>include<br>blast<br>raccoon<br>guard<br>keep<br>find<br>frown |  
 | bip_39_word_new_br_11 | jazz<br>movie<br>despair<br>include<br>blast<br>raccoon<br>guard<br>keep<br>find<br>frown<br>smoke |  
@@ -147,6 +159,18 @@ find |
 | bip_39_word_space_7 | jazz movie despair include blast raccoon guard |  
 | bip_39_word_space_8 | jazz movie despair include blast raccoon guard keep |  
 | bip_39_word_space_9 | jazz movie despair include blast raccoon guard keep find |  
+| bip_39_word_underscore_1 | jazz |  
+| bip_39_word_underscore_10 | jazz_movie_despair_include_blast_raccoon_guard_keep_find_frown |  
+| bip_39_word_underscore_11 | jazz_movie_despair_include_blast_raccoon_guard_keep_find_frown_smoke |  
+| bip_39_word_underscore_12 | jazz_movie_despair_include_blast_raccoon_guard_keep_find_frown_smoke_about |  
+| bip_39_word_underscore_2 | jazz_movie |  
+| bip_39_word_underscore_3 | jazz_movie_despair |  
+| bip_39_word_underscore_4 | jazz_movie_despair_include |  
+| bip_39_word_underscore_5 | jazz_movie_despair_include_blast |  
+| bip_39_word_underscore_6 | jazz_movie_despair_include_blast_raccoon |  
+| bip_39_word_underscore_7 | jazz_movie_despair_include_blast_raccoon_guard |  
+| bip_39_word_underscore_8 | jazz_movie_despair_include_blast_raccoon_guard_keep |  
+| bip_39_word_underscore_9 | jazz_movie_despair_include_blast_raccoon_guard_keep_find |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

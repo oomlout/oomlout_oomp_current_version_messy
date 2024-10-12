@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boil |  
+| bip_39_word_dash_10 | boil-great-satisfy-estate-author-defense-turtle-shine-exact-kitten |  
+| bip_39_word_dash_11 | boil-great-satisfy-estate-author-defense-turtle-shine-exact-kitten-silly |  
+| bip_39_word_dash_12 | boil-great-satisfy-estate-author-defense-turtle-shine-exact-kitten-silly-assume |  
+| bip_39_word_dash_2 | boil-great |  
+| bip_39_word_dash_3 | boil-great-satisfy |  
+| bip_39_word_dash_4 | boil-great-satisfy-estate |  
+| bip_39_word_dash_5 | boil-great-satisfy-estate-author |  
+| bip_39_word_dash_6 | boil-great-satisfy-estate-author-defense |  
+| bip_39_word_dash_7 | boil-great-satisfy-estate-author-defense-turtle |  
+| bip_39_word_dash_8 | boil-great-satisfy-estate-author-defense-turtle-shine |  
+| bip_39_word_dash_9 | boil-great-satisfy-estate-author-defense-turtle-shine-exact |  
 | bip_39_word_new_br_1 | boil |  
 | bip_39_word_new_br_10 | boil<br>great<br>satisfy<br>estate<br>author<br>defense<br>turtle<br>shine<br>exact<br>kitten |  
 | bip_39_word_new_br_11 | boil<br>great<br>satisfy<br>estate<br>author<br>defense<br>turtle<br>shine<br>exact<br>kitten<br>silly |  
@@ -147,6 +159,18 @@ exact |
 | bip_39_word_space_7 | boil great satisfy estate author defense turtle |  
 | bip_39_word_space_8 | boil great satisfy estate author defense turtle shine |  
 | bip_39_word_space_9 | boil great satisfy estate author defense turtle shine exact |  
+| bip_39_word_underscore_1 | boil |  
+| bip_39_word_underscore_10 | boil_great_satisfy_estate_author_defense_turtle_shine_exact_kitten |  
+| bip_39_word_underscore_11 | boil_great_satisfy_estate_author_defense_turtle_shine_exact_kitten_silly |  
+| bip_39_word_underscore_12 | boil_great_satisfy_estate_author_defense_turtle_shine_exact_kitten_silly_assume |  
+| bip_39_word_underscore_2 | boil_great |  
+| bip_39_word_underscore_3 | boil_great_satisfy |  
+| bip_39_word_underscore_4 | boil_great_satisfy_estate |  
+| bip_39_word_underscore_5 | boil_great_satisfy_estate_author |  
+| bip_39_word_underscore_6 | boil_great_satisfy_estate_author_defense |  
+| bip_39_word_underscore_7 | boil_great_satisfy_estate_author_defense_turtle |  
+| bip_39_word_underscore_8 | boil_great_satisfy_estate_author_defense_turtle_shine |  
+| bip_39_word_underscore_9 | boil_great_satisfy_estate_author_defense_turtle_shine_exact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

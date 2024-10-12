@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flash |  
+| bip_39_word_dash_10 | flash-sun-theory-genuine-use-aerobic-swear-frequent-cash-section |  
+| bip_39_word_dash_11 | flash-sun-theory-genuine-use-aerobic-swear-frequent-cash-section-carbon |  
+| bip_39_word_dash_12 | flash-sun-theory-genuine-use-aerobic-swear-frequent-cash-section-carbon-allow |  
+| bip_39_word_dash_2 | flash-sun |  
+| bip_39_word_dash_3 | flash-sun-theory |  
+| bip_39_word_dash_4 | flash-sun-theory-genuine |  
+| bip_39_word_dash_5 | flash-sun-theory-genuine-use |  
+| bip_39_word_dash_6 | flash-sun-theory-genuine-use-aerobic |  
+| bip_39_word_dash_7 | flash-sun-theory-genuine-use-aerobic-swear |  
+| bip_39_word_dash_8 | flash-sun-theory-genuine-use-aerobic-swear-frequent |  
+| bip_39_word_dash_9 | flash-sun-theory-genuine-use-aerobic-swear-frequent-cash |  
 | bip_39_word_new_br_1 | flash |  
 | bip_39_word_new_br_10 | flash<br>sun<br>theory<br>genuine<br>use<br>aerobic<br>swear<br>frequent<br>cash<br>section |  
 | bip_39_word_new_br_11 | flash<br>sun<br>theory<br>genuine<br>use<br>aerobic<br>swear<br>frequent<br>cash<br>section<br>carbon |  
@@ -147,6 +159,18 @@ cash |
 | bip_39_word_space_7 | flash sun theory genuine use aerobic swear |  
 | bip_39_word_space_8 | flash sun theory genuine use aerobic swear frequent |  
 | bip_39_word_space_9 | flash sun theory genuine use aerobic swear frequent cash |  
+| bip_39_word_underscore_1 | flash |  
+| bip_39_word_underscore_10 | flash_sun_theory_genuine_use_aerobic_swear_frequent_cash_section |  
+| bip_39_word_underscore_11 | flash_sun_theory_genuine_use_aerobic_swear_frequent_cash_section_carbon |  
+| bip_39_word_underscore_12 | flash_sun_theory_genuine_use_aerobic_swear_frequent_cash_section_carbon_allow |  
+| bip_39_word_underscore_2 | flash_sun |  
+| bip_39_word_underscore_3 | flash_sun_theory |  
+| bip_39_word_underscore_4 | flash_sun_theory_genuine |  
+| bip_39_word_underscore_5 | flash_sun_theory_genuine_use |  
+| bip_39_word_underscore_6 | flash_sun_theory_genuine_use_aerobic |  
+| bip_39_word_underscore_7 | flash_sun_theory_genuine_use_aerobic_swear |  
+| bip_39_word_underscore_8 | flash_sun_theory_genuine_use_aerobic_swear_frequent |  
+| bip_39_word_underscore_9 | flash_sun_theory_genuine_use_aerobic_swear_frequent_cash |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

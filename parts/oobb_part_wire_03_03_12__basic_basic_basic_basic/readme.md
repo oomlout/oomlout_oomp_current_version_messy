@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swallow |  
+| bip_39_word_dash_10 | swallow-inch-company-enforce-okay-helmet-daughter-chalk-solar-gold |  
+| bip_39_word_dash_11 | swallow-inch-company-enforce-okay-helmet-daughter-chalk-solar-gold-unlock |  
+| bip_39_word_dash_12 | swallow-inch-company-enforce-okay-helmet-daughter-chalk-solar-gold-unlock-apple |  
+| bip_39_word_dash_2 | swallow-inch |  
+| bip_39_word_dash_3 | swallow-inch-company |  
+| bip_39_word_dash_4 | swallow-inch-company-enforce |  
+| bip_39_word_dash_5 | swallow-inch-company-enforce-okay |  
+| bip_39_word_dash_6 | swallow-inch-company-enforce-okay-helmet |  
+| bip_39_word_dash_7 | swallow-inch-company-enforce-okay-helmet-daughter |  
+| bip_39_word_dash_8 | swallow-inch-company-enforce-okay-helmet-daughter-chalk |  
+| bip_39_word_dash_9 | swallow-inch-company-enforce-okay-helmet-daughter-chalk-solar |  
 | bip_39_word_new_br_1 | swallow |  
 | bip_39_word_new_br_10 | swallow<br>inch<br>company<br>enforce<br>okay<br>helmet<br>daughter<br>chalk<br>solar<br>gold |  
 | bip_39_word_new_br_11 | swallow<br>inch<br>company<br>enforce<br>okay<br>helmet<br>daughter<br>chalk<br>solar<br>gold<br>unlock |  
@@ -147,6 +159,18 @@ solar |
 | bip_39_word_space_7 | swallow inch company enforce okay helmet daughter |  
 | bip_39_word_space_8 | swallow inch company enforce okay helmet daughter chalk |  
 | bip_39_word_space_9 | swallow inch company enforce okay helmet daughter chalk solar |  
+| bip_39_word_underscore_1 | swallow |  
+| bip_39_word_underscore_10 | swallow_inch_company_enforce_okay_helmet_daughter_chalk_solar_gold |  
+| bip_39_word_underscore_11 | swallow_inch_company_enforce_okay_helmet_daughter_chalk_solar_gold_unlock |  
+| bip_39_word_underscore_12 | swallow_inch_company_enforce_okay_helmet_daughter_chalk_solar_gold_unlock_apple |  
+| bip_39_word_underscore_2 | swallow_inch |  
+| bip_39_word_underscore_3 | swallow_inch_company |  
+| bip_39_word_underscore_4 | swallow_inch_company_enforce |  
+| bip_39_word_underscore_5 | swallow_inch_company_enforce_okay |  
+| bip_39_word_underscore_6 | swallow_inch_company_enforce_okay_helmet |  
+| bip_39_word_underscore_7 | swallow_inch_company_enforce_okay_helmet_daughter |  
+| bip_39_word_underscore_8 | swallow_inch_company_enforce_okay_helmet_daughter_chalk |  
+| bip_39_word_underscore_9 | swallow_inch_company_enforce_okay_helmet_daughter_chalk_solar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

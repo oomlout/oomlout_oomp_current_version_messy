@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | front |  
+| bip_39_word_dash_10 | front-shock-duty-capital-nerve-situate-price-involve-raven-coin |  
+| bip_39_word_dash_11 | front-shock-duty-capital-nerve-situate-price-involve-raven-coin-diary |  
+| bip_39_word_dash_12 | front-shock-duty-capital-nerve-situate-price-involve-raven-coin-diary-art |  
+| bip_39_word_dash_2 | front-shock |  
+| bip_39_word_dash_3 | front-shock-duty |  
+| bip_39_word_dash_4 | front-shock-duty-capital |  
+| bip_39_word_dash_5 | front-shock-duty-capital-nerve |  
+| bip_39_word_dash_6 | front-shock-duty-capital-nerve-situate |  
+| bip_39_word_dash_7 | front-shock-duty-capital-nerve-situate-price |  
+| bip_39_word_dash_8 | front-shock-duty-capital-nerve-situate-price-involve |  
+| bip_39_word_dash_9 | front-shock-duty-capital-nerve-situate-price-involve-raven |  
 | bip_39_word_new_br_1 | front |  
 | bip_39_word_new_br_10 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin |  
 | bip_39_word_new_br_11 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin<br>diary |  
@@ -147,6 +159,18 @@ raven |
 | bip_39_word_space_7 | front shock duty capital nerve situate price |  
 | bip_39_word_space_8 | front shock duty capital nerve situate price involve |  
 | bip_39_word_space_9 | front shock duty capital nerve situate price involve raven |  
+| bip_39_word_underscore_1 | front |  
+| bip_39_word_underscore_10 | front_shock_duty_capital_nerve_situate_price_involve_raven_coin |  
+| bip_39_word_underscore_11 | front_shock_duty_capital_nerve_situate_price_involve_raven_coin_diary |  
+| bip_39_word_underscore_12 | front_shock_duty_capital_nerve_situate_price_involve_raven_coin_diary_art |  
+| bip_39_word_underscore_2 | front_shock |  
+| bip_39_word_underscore_3 | front_shock_duty |  
+| bip_39_word_underscore_4 | front_shock_duty_capital |  
+| bip_39_word_underscore_5 | front_shock_duty_capital_nerve |  
+| bip_39_word_underscore_6 | front_shock_duty_capital_nerve_situate |  
+| bip_39_word_underscore_7 | front_shock_duty_capital_nerve_situate_price |  
+| bip_39_word_underscore_8 | front_shock_duty_capital_nerve_situate_price_involve |  
+| bip_39_word_underscore_9 | front_shock_duty_capital_nerve_situate_price_involve_raven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

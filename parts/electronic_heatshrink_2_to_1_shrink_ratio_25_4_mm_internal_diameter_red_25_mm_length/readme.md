@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | race |  
+| bip_39_word_dash_10 | race-toilet-gate-empty-blade-carbon-broom-heavy-cave-chronic |  
+| bip_39_word_dash_11 | race-toilet-gate-empty-blade-carbon-broom-heavy-cave-chronic-kitchen |  
+| bip_39_word_dash_12 | race-toilet-gate-empty-blade-carbon-broom-heavy-cave-chronic-kitchen-absorb |  
+| bip_39_word_dash_2 | race-toilet |  
+| bip_39_word_dash_3 | race-toilet-gate |  
+| bip_39_word_dash_4 | race-toilet-gate-empty |  
+| bip_39_word_dash_5 | race-toilet-gate-empty-blade |  
+| bip_39_word_dash_6 | race-toilet-gate-empty-blade-carbon |  
+| bip_39_word_dash_7 | race-toilet-gate-empty-blade-carbon-broom |  
+| bip_39_word_dash_8 | race-toilet-gate-empty-blade-carbon-broom-heavy |  
+| bip_39_word_dash_9 | race-toilet-gate-empty-blade-carbon-broom-heavy-cave |  
 | bip_39_word_new_br_1 | race |  
 | bip_39_word_new_br_10 | race<br>toilet<br>gate<br>empty<br>blade<br>carbon<br>broom<br>heavy<br>cave<br>chronic |  
 | bip_39_word_new_br_11 | race<br>toilet<br>gate<br>empty<br>blade<br>carbon<br>broom<br>heavy<br>cave<br>chronic<br>kitchen |  
@@ -147,6 +159,18 @@ cave |
 | bip_39_word_space_7 | race toilet gate empty blade carbon broom |  
 | bip_39_word_space_8 | race toilet gate empty blade carbon broom heavy |  
 | bip_39_word_space_9 | race toilet gate empty blade carbon broom heavy cave |  
+| bip_39_word_underscore_1 | race |  
+| bip_39_word_underscore_10 | race_toilet_gate_empty_blade_carbon_broom_heavy_cave_chronic |  
+| bip_39_word_underscore_11 | race_toilet_gate_empty_blade_carbon_broom_heavy_cave_chronic_kitchen |  
+| bip_39_word_underscore_12 | race_toilet_gate_empty_blade_carbon_broom_heavy_cave_chronic_kitchen_absorb |  
+| bip_39_word_underscore_2 | race_toilet |  
+| bip_39_word_underscore_3 | race_toilet_gate |  
+| bip_39_word_underscore_4 | race_toilet_gate_empty |  
+| bip_39_word_underscore_5 | race_toilet_gate_empty_blade |  
+| bip_39_word_underscore_6 | race_toilet_gate_empty_blade_carbon |  
+| bip_39_word_underscore_7 | race_toilet_gate_empty_blade_carbon_broom |  
+| bip_39_word_underscore_8 | race_toilet_gate_empty_blade_carbon_broom_heavy |  
+| bip_39_word_underscore_9 | race_toilet_gate_empty_blade_carbon_broom_heavy_cave |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

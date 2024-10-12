@@ -1,3 +1,15 @@
+bip_39_word_dash_1: safe
+bip_39_word_dash_10: safe-absent-chat-exile-submit-fever-extend-stairs-predict-ball
+bip_39_word_dash_11: safe-absent-chat-exile-submit-fever-extend-stairs-predict-ball-excuse
+bip_39_word_dash_12: safe-absent-chat-exile-submit-fever-extend-stairs-predict-ball-excuse-anger
+bip_39_word_dash_2: safe-absent
+bip_39_word_dash_3: safe-absent-chat
+bip_39_word_dash_4: safe-absent-chat-exile
+bip_39_word_dash_5: safe-absent-chat-exile-submit
+bip_39_word_dash_6: safe-absent-chat-exile-submit-fever
+bip_39_word_dash_7: safe-absent-chat-exile-submit-fever-extend
+bip_39_word_dash_8: safe-absent-chat-exile-submit-fever-extend-stairs
+bip_39_word_dash_9: safe-absent-chat-exile-submit-fever-extend-stairs-predict
 bip_39_word_new_br_1: safe
 bip_39_word_new_br_10: safe<br>absent<br>chat<br>exile<br>submit<br>fever<br>extend<br>stairs<br>predict<br>ball
 bip_39_word_new_br_11: safe<br>absent<br>chat<br>exile<br>submit<br>fever<br>extend<br>stairs<br>predict<br>ball<br>excuse
@@ -193,6 +205,18 @@ bip_39_word_space_6: safe absent chat exile submit fever
 bip_39_word_space_7: safe absent chat exile submit fever extend
 bip_39_word_space_8: safe absent chat exile submit fever extend stairs
 bip_39_word_space_9: safe absent chat exile submit fever extend stairs predict
+bip_39_word_underscore_1: safe
+bip_39_word_underscore_10: safe_absent_chat_exile_submit_fever_extend_stairs_predict_ball
+bip_39_word_underscore_11: safe_absent_chat_exile_submit_fever_extend_stairs_predict_ball_excuse
+bip_39_word_underscore_12: safe_absent_chat_exile_submit_fever_extend_stairs_predict_ball_excuse_anger
+bip_39_word_underscore_2: safe_absent
+bip_39_word_underscore_3: safe_absent_chat
+bip_39_word_underscore_4: safe_absent_chat_exile
+bip_39_word_underscore_5: safe_absent_chat_exile_submit
+bip_39_word_underscore_6: safe_absent_chat_exile_submit_fever
+bip_39_word_underscore_7: safe_absent_chat_exile_submit_fever_extend
+bip_39_word_underscore_8: safe_absent_chat_exile_submit_fever_extend_stairs
+bip_39_word_underscore_9: safe_absent_chat_exile_submit_fever_extend_stairs_predict
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

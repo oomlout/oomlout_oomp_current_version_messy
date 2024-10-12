@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | expire |  
+| bip_39_word_dash_10 | expire-swear-detail-only-unique-dream-scrub-jazz-jeans-cage |  
+| bip_39_word_dash_11 | expire-swear-detail-only-unique-dream-scrub-jazz-jeans-cage-famous |  
+| bip_39_word_dash_12 | expire-swear-detail-only-unique-dream-scrub-jazz-jeans-cage-famous-addict |  
+| bip_39_word_dash_2 | expire-swear |  
+| bip_39_word_dash_3 | expire-swear-detail |  
+| bip_39_word_dash_4 | expire-swear-detail-only |  
+| bip_39_word_dash_5 | expire-swear-detail-only-unique |  
+| bip_39_word_dash_6 | expire-swear-detail-only-unique-dream |  
+| bip_39_word_dash_7 | expire-swear-detail-only-unique-dream-scrub |  
+| bip_39_word_dash_8 | expire-swear-detail-only-unique-dream-scrub-jazz |  
+| bip_39_word_dash_9 | expire-swear-detail-only-unique-dream-scrub-jazz-jeans |  
 | bip_39_word_new_br_1 | expire |  
 | bip_39_word_new_br_10 | expire<br>swear<br>detail<br>only<br>unique<br>dream<br>scrub<br>jazz<br>jeans<br>cage |  
 | bip_39_word_new_br_11 | expire<br>swear<br>detail<br>only<br>unique<br>dream<br>scrub<br>jazz<br>jeans<br>cage<br>famous |  
@@ -147,6 +159,18 @@ jeans |
 | bip_39_word_space_7 | expire swear detail only unique dream scrub |  
 | bip_39_word_space_8 | expire swear detail only unique dream scrub jazz |  
 | bip_39_word_space_9 | expire swear detail only unique dream scrub jazz jeans |  
+| bip_39_word_underscore_1 | expire |  
+| bip_39_word_underscore_10 | expire_swear_detail_only_unique_dream_scrub_jazz_jeans_cage |  
+| bip_39_word_underscore_11 | expire_swear_detail_only_unique_dream_scrub_jazz_jeans_cage_famous |  
+| bip_39_word_underscore_12 | expire_swear_detail_only_unique_dream_scrub_jazz_jeans_cage_famous_addict |  
+| bip_39_word_underscore_2 | expire_swear |  
+| bip_39_word_underscore_3 | expire_swear_detail |  
+| bip_39_word_underscore_4 | expire_swear_detail_only |  
+| bip_39_word_underscore_5 | expire_swear_detail_only_unique |  
+| bip_39_word_underscore_6 | expire_swear_detail_only_unique_dream |  
+| bip_39_word_underscore_7 | expire_swear_detail_only_unique_dream_scrub |  
+| bip_39_word_underscore_8 | expire_swear_detail_only_unique_dream_scrub_jazz |  
+| bip_39_word_underscore_9 | expire_swear_detail_only_unique_dream_scrub_jazz_jeans |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

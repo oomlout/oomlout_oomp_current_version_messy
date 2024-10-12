@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sense
+bip_39_word_dash_10: sense-bleak-wise-isolate-power-fashion-track-syrup-rapid-anxiety
+bip_39_word_dash_11: sense-bleak-wise-isolate-power-fashion-track-syrup-rapid-anxiety-squeeze
+bip_39_word_dash_12: sense-bleak-wise-isolate-power-fashion-track-syrup-rapid-anxiety-squeeze-aim
+bip_39_word_dash_2: sense-bleak
+bip_39_word_dash_3: sense-bleak-wise
+bip_39_word_dash_4: sense-bleak-wise-isolate
+bip_39_word_dash_5: sense-bleak-wise-isolate-power
+bip_39_word_dash_6: sense-bleak-wise-isolate-power-fashion
+bip_39_word_dash_7: sense-bleak-wise-isolate-power-fashion-track
+bip_39_word_dash_8: sense-bleak-wise-isolate-power-fashion-track-syrup
+bip_39_word_dash_9: sense-bleak-wise-isolate-power-fashion-track-syrup-rapid
 bip_39_word_new_br_1: sense
 bip_39_word_new_br_10: sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup<br>rapid<br>anxiety
 bip_39_word_new_br_11: sense<br>bleak<br>wise<br>isolate<br>power<br>fashion<br>track<br>syrup<br>rapid<br>anxiety<br>squeeze
@@ -193,6 +205,18 @@ bip_39_word_space_6: sense bleak wise isolate power fashion
 bip_39_word_space_7: sense bleak wise isolate power fashion track
 bip_39_word_space_8: sense bleak wise isolate power fashion track syrup
 bip_39_word_space_9: sense bleak wise isolate power fashion track syrup rapid
+bip_39_word_underscore_1: sense
+bip_39_word_underscore_10: sense_bleak_wise_isolate_power_fashion_track_syrup_rapid_anxiety
+bip_39_word_underscore_11: sense_bleak_wise_isolate_power_fashion_track_syrup_rapid_anxiety_squeeze
+bip_39_word_underscore_12: sense_bleak_wise_isolate_power_fashion_track_syrup_rapid_anxiety_squeeze_aim
+bip_39_word_underscore_2: sense_bleak
+bip_39_word_underscore_3: sense_bleak_wise
+bip_39_word_underscore_4: sense_bleak_wise_isolate
+bip_39_word_underscore_5: sense_bleak_wise_isolate_power
+bip_39_word_underscore_6: sense_bleak_wise_isolate_power_fashion
+bip_39_word_underscore_7: sense_bleak_wise_isolate_power_fashion_track
+bip_39_word_underscore_8: sense_bleak_wise_isolate_power_fashion_track_syrup
+bip_39_word_underscore_9: sense_bleak_wise_isolate_power_fashion_track_syrup_rapid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

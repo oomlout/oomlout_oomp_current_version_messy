@@ -1,3 +1,15 @@
+bip_39_word_dash_1: voice
+bip_39_word_dash_10: voice-error-pool-faculty-inherit-blade-dragon-paddle-decide-sport
+bip_39_word_dash_11: voice-error-pool-faculty-inherit-blade-dragon-paddle-decide-sport-under
+bip_39_word_dash_12: voice-error-pool-faculty-inherit-blade-dragon-paddle-decide-sport-under-alien
+bip_39_word_dash_2: voice-error
+bip_39_word_dash_3: voice-error-pool
+bip_39_word_dash_4: voice-error-pool-faculty
+bip_39_word_dash_5: voice-error-pool-faculty-inherit
+bip_39_word_dash_6: voice-error-pool-faculty-inherit-blade
+bip_39_word_dash_7: voice-error-pool-faculty-inherit-blade-dragon
+bip_39_word_dash_8: voice-error-pool-faculty-inherit-blade-dragon-paddle
+bip_39_word_dash_9: voice-error-pool-faculty-inherit-blade-dragon-paddle-decide
 bip_39_word_new_br_1: voice
 bip_39_word_new_br_10: voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle<br>decide<br>sport
 bip_39_word_new_br_11: voice<br>error<br>pool<br>faculty<br>inherit<br>blade<br>dragon<br>paddle<br>decide<br>sport<br>under
@@ -194,6 +206,18 @@ bip_39_word_space_6: voice error pool faculty inherit blade
 bip_39_word_space_7: voice error pool faculty inherit blade dragon
 bip_39_word_space_8: voice error pool faculty inherit blade dragon paddle
 bip_39_word_space_9: voice error pool faculty inherit blade dragon paddle decide
+bip_39_word_underscore_1: voice
+bip_39_word_underscore_10: voice_error_pool_faculty_inherit_blade_dragon_paddle_decide_sport
+bip_39_word_underscore_11: voice_error_pool_faculty_inherit_blade_dragon_paddle_decide_sport_under
+bip_39_word_underscore_12: voice_error_pool_faculty_inherit_blade_dragon_paddle_decide_sport_under_alien
+bip_39_word_underscore_2: voice_error
+bip_39_word_underscore_3: voice_error_pool
+bip_39_word_underscore_4: voice_error_pool_faculty
+bip_39_word_underscore_5: voice_error_pool_faculty_inherit
+bip_39_word_underscore_6: voice_error_pool_faculty_inherit_blade
+bip_39_word_underscore_7: voice_error_pool_faculty_inherit_blade_dragon
+bip_39_word_underscore_8: voice_error_pool_faculty_inherit_blade_dragon_paddle
+bip_39_word_underscore_9: voice_error_pool_faculty_inherit_blade_dragon_paddle_decide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

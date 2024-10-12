@@ -1,3 +1,14 @@
+bip_39_word_dash_1: 'false'
+bip_39_word_dash_10: false-wise-cattle-over-industry-item-throw-scout-banner-true
+bip_39_word_dash_11: false-wise-cattle-over-industry-item-throw-scout-banner-true-purpose
+bip_39_word_dash_2: false-wise
+bip_39_word_dash_3: false-wise-cattle
+bip_39_word_dash_4: false-wise-cattle-over
+bip_39_word_dash_5: false-wise-cattle-over-industry
+bip_39_word_dash_6: false-wise-cattle-over-industry-item
+bip_39_word_dash_7: false-wise-cattle-over-industry-item-throw
+bip_39_word_dash_8: false-wise-cattle-over-industry-item-throw-scout
+bip_39_word_dash_9: false-wise-cattle-over-industry-item-throw-scout-banner
 bip_39_word_new_br_1: 'false'
 bip_39_word_new_br_10: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner<br>true
 bip_39_word_new_br_11: false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner<br>true<br>purpose
@@ -165,6 +176,17 @@ bip_39_word_space_6: false wise cattle over industry item
 bip_39_word_space_7: false wise cattle over industry item throw
 bip_39_word_space_8: false wise cattle over industry item throw scout
 bip_39_word_space_9: false wise cattle over industry item throw scout banner
+bip_39_word_underscore_1: 'false'
+bip_39_word_underscore_10: false_wise_cattle_over_industry_item_throw_scout_banner_true
+bip_39_word_underscore_11: false_wise_cattle_over_industry_item_throw_scout_banner_true_purpose
+bip_39_word_underscore_2: false_wise
+bip_39_word_underscore_3: false_wise_cattle
+bip_39_word_underscore_4: false_wise_cattle_over
+bip_39_word_underscore_5: false_wise_cattle_over_industry
+bip_39_word_underscore_6: false_wise_cattle_over_industry_item
+bip_39_word_underscore_7: false_wise_cattle_over_industry_item_throw
+bip_39_word_underscore_8: false_wise_cattle_over_industry_item_throw_scout
+bip_39_word_underscore_9: false_wise_cattle_over_industry_item_throw_scout_banner
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

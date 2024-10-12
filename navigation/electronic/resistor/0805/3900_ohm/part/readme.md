@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rookie |  
+| bip_39_word_dash_10 | rookie-lesson-pitch-exist-lottery-tag-dog-cabin-myself-twenty |  
+| bip_39_word_dash_11 | rookie-lesson-pitch-exist-lottery-tag-dog-cabin-myself-twenty-monkey |  
+| bip_39_word_dash_12 | rookie-lesson-pitch-exist-lottery-tag-dog-cabin-myself-twenty-monkey-absurd |  
+| bip_39_word_dash_2 | rookie-lesson |  
+| bip_39_word_dash_3 | rookie-lesson-pitch |  
+| bip_39_word_dash_4 | rookie-lesson-pitch-exist |  
+| bip_39_word_dash_5 | rookie-lesson-pitch-exist-lottery |  
+| bip_39_word_dash_6 | rookie-lesson-pitch-exist-lottery-tag |  
+| bip_39_word_dash_7 | rookie-lesson-pitch-exist-lottery-tag-dog |  
+| bip_39_word_dash_8 | rookie-lesson-pitch-exist-lottery-tag-dog-cabin |  
+| bip_39_word_dash_9 | rookie-lesson-pitch-exist-lottery-tag-dog-cabin-myself |  
 | bip_39_word_new_br_1 | rookie |  
 | bip_39_word_new_br_10 | rookie<br>lesson<br>pitch<br>exist<br>lottery<br>tag<br>dog<br>cabin<br>myself<br>twenty |  
 | bip_39_word_new_br_11 | rookie<br>lesson<br>pitch<br>exist<br>lottery<br>tag<br>dog<br>cabin<br>myself<br>twenty<br>monkey |  
@@ -147,6 +159,18 @@ myself |
 | bip_39_word_space_7 | rookie lesson pitch exist lottery tag dog |  
 | bip_39_word_space_8 | rookie lesson pitch exist lottery tag dog cabin |  
 | bip_39_word_space_9 | rookie lesson pitch exist lottery tag dog cabin myself |  
+| bip_39_word_underscore_1 | rookie |  
+| bip_39_word_underscore_10 | rookie_lesson_pitch_exist_lottery_tag_dog_cabin_myself_twenty |  
+| bip_39_word_underscore_11 | rookie_lesson_pitch_exist_lottery_tag_dog_cabin_myself_twenty_monkey |  
+| bip_39_word_underscore_12 | rookie_lesson_pitch_exist_lottery_tag_dog_cabin_myself_twenty_monkey_absurd |  
+| bip_39_word_underscore_2 | rookie_lesson |  
+| bip_39_word_underscore_3 | rookie_lesson_pitch |  
+| bip_39_word_underscore_4 | rookie_lesson_pitch_exist |  
+| bip_39_word_underscore_5 | rookie_lesson_pitch_exist_lottery |  
+| bip_39_word_underscore_6 | rookie_lesson_pitch_exist_lottery_tag |  
+| bip_39_word_underscore_7 | rookie_lesson_pitch_exist_lottery_tag_dog |  
+| bip_39_word_underscore_8 | rookie_lesson_pitch_exist_lottery_tag_dog_cabin |  
+| bip_39_word_underscore_9 | rookie_lesson_pitch_exist_lottery_tag_dog_cabin_myself |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

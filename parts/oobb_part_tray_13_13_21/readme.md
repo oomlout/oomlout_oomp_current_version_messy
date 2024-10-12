@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scrub |  
+| bip_39_word_dash_10 | scrub-craft-speak-dizzy-garden-swear-boat-matter-transfer-entry |  
+| bip_39_word_dash_11 | scrub-craft-speak-dizzy-garden-swear-boat-matter-transfer-entry-catalog |  
+| bip_39_word_dash_12 | scrub-craft-speak-dizzy-garden-swear-boat-matter-transfer-entry-catalog-arm |  
+| bip_39_word_dash_2 | scrub-craft |  
+| bip_39_word_dash_3 | scrub-craft-speak |  
+| bip_39_word_dash_4 | scrub-craft-speak-dizzy |  
+| bip_39_word_dash_5 | scrub-craft-speak-dizzy-garden |  
+| bip_39_word_dash_6 | scrub-craft-speak-dizzy-garden-swear |  
+| bip_39_word_dash_7 | scrub-craft-speak-dizzy-garden-swear-boat |  
+| bip_39_word_dash_8 | scrub-craft-speak-dizzy-garden-swear-boat-matter |  
+| bip_39_word_dash_9 | scrub-craft-speak-dizzy-garden-swear-boat-matter-transfer |  
 | bip_39_word_new_br_1 | scrub |  
 | bip_39_word_new_br_10 | scrub<br>craft<br>speak<br>dizzy<br>garden<br>swear<br>boat<br>matter<br>transfer<br>entry |  
 | bip_39_word_new_br_11 | scrub<br>craft<br>speak<br>dizzy<br>garden<br>swear<br>boat<br>matter<br>transfer<br>entry<br>catalog |  
@@ -147,6 +159,18 @@ transfer |
 | bip_39_word_space_7 | scrub craft speak dizzy garden swear boat |  
 | bip_39_word_space_8 | scrub craft speak dizzy garden swear boat matter |  
 | bip_39_word_space_9 | scrub craft speak dizzy garden swear boat matter transfer |  
+| bip_39_word_underscore_1 | scrub |  
+| bip_39_word_underscore_10 | scrub_craft_speak_dizzy_garden_swear_boat_matter_transfer_entry |  
+| bip_39_word_underscore_11 | scrub_craft_speak_dizzy_garden_swear_boat_matter_transfer_entry_catalog |  
+| bip_39_word_underscore_12 | scrub_craft_speak_dizzy_garden_swear_boat_matter_transfer_entry_catalog_arm |  
+| bip_39_word_underscore_2 | scrub_craft |  
+| bip_39_word_underscore_3 | scrub_craft_speak |  
+| bip_39_word_underscore_4 | scrub_craft_speak_dizzy |  
+| bip_39_word_underscore_5 | scrub_craft_speak_dizzy_garden |  
+| bip_39_word_underscore_6 | scrub_craft_speak_dizzy_garden_swear |  
+| bip_39_word_underscore_7 | scrub_craft_speak_dizzy_garden_swear_boat |  
+| bip_39_word_underscore_8 | scrub_craft_speak_dizzy_garden_swear_boat_matter |  
+| bip_39_word_underscore_9 | scrub_craft_speak_dizzy_garden_swear_boat_matter_transfer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

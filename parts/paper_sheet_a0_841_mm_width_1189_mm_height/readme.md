@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clap |  
+| bip_39_word_dash_10 | clap-beach-entire-kiwi-peanut-speed-emerge-edge-lift-usual |  
+| bip_39_word_dash_11 | clap-beach-entire-kiwi-peanut-speed-emerge-edge-lift-usual-glow |  
+| bip_39_word_dash_12 | clap-beach-entire-kiwi-peanut-speed-emerge-edge-lift-usual-glow-absorb |  
+| bip_39_word_dash_2 | clap-beach |  
+| bip_39_word_dash_3 | clap-beach-entire |  
+| bip_39_word_dash_4 | clap-beach-entire-kiwi |  
+| bip_39_word_dash_5 | clap-beach-entire-kiwi-peanut |  
+| bip_39_word_dash_6 | clap-beach-entire-kiwi-peanut-speed |  
+| bip_39_word_dash_7 | clap-beach-entire-kiwi-peanut-speed-emerge |  
+| bip_39_word_dash_8 | clap-beach-entire-kiwi-peanut-speed-emerge-edge |  
+| bip_39_word_dash_9 | clap-beach-entire-kiwi-peanut-speed-emerge-edge-lift |  
 | bip_39_word_new_br_1 | clap |  
 | bip_39_word_new_br_10 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge<br>lift<br>usual |  
 | bip_39_word_new_br_11 | clap<br>beach<br>entire<br>kiwi<br>peanut<br>speed<br>emerge<br>edge<br>lift<br>usual<br>glow |  
@@ -147,6 +159,18 @@ lift |
 | bip_39_word_space_7 | clap beach entire kiwi peanut speed emerge |  
 | bip_39_word_space_8 | clap beach entire kiwi peanut speed emerge edge |  
 | bip_39_word_space_9 | clap beach entire kiwi peanut speed emerge edge lift |  
+| bip_39_word_underscore_1 | clap |  
+| bip_39_word_underscore_10 | clap_beach_entire_kiwi_peanut_speed_emerge_edge_lift_usual |  
+| bip_39_word_underscore_11 | clap_beach_entire_kiwi_peanut_speed_emerge_edge_lift_usual_glow |  
+| bip_39_word_underscore_12 | clap_beach_entire_kiwi_peanut_speed_emerge_edge_lift_usual_glow_absorb |  
+| bip_39_word_underscore_2 | clap_beach |  
+| bip_39_word_underscore_3 | clap_beach_entire |  
+| bip_39_word_underscore_4 | clap_beach_entire_kiwi |  
+| bip_39_word_underscore_5 | clap_beach_entire_kiwi_peanut |  
+| bip_39_word_underscore_6 | clap_beach_entire_kiwi_peanut_speed |  
+| bip_39_word_underscore_7 | clap_beach_entire_kiwi_peanut_speed_emerge |  
+| bip_39_word_underscore_8 | clap_beach_entire_kiwi_peanut_speed_emerge_edge |  
+| bip_39_word_underscore_9 | clap_beach_entire_kiwi_peanut_speed_emerge_edge_lift |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: logic
+bip_39_word_dash_10: logic-earth-butter-alpha-proof-swear-relax-club-marriage-outdoor
+bip_39_word_dash_11: logic-earth-butter-alpha-proof-swear-relax-club-marriage-outdoor-escape
+bip_39_word_dash_12: logic-earth-butter-alpha-proof-swear-relax-club-marriage-outdoor-escape-announce
+bip_39_word_dash_2: logic-earth
+bip_39_word_dash_3: logic-earth-butter
+bip_39_word_dash_4: logic-earth-butter-alpha
+bip_39_word_dash_5: logic-earth-butter-alpha-proof
+bip_39_word_dash_6: logic-earth-butter-alpha-proof-swear
+bip_39_word_dash_7: logic-earth-butter-alpha-proof-swear-relax
+bip_39_word_dash_8: logic-earth-butter-alpha-proof-swear-relax-club
+bip_39_word_dash_9: logic-earth-butter-alpha-proof-swear-relax-club-marriage
 bip_39_word_new_br_1: logic
 bip_39_word_new_br_10: logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor
 bip_39_word_new_br_11: logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor<br>escape
@@ -193,6 +205,18 @@ bip_39_word_space_6: logic earth butter alpha proof swear
 bip_39_word_space_7: logic earth butter alpha proof swear relax
 bip_39_word_space_8: logic earth butter alpha proof swear relax club
 bip_39_word_space_9: logic earth butter alpha proof swear relax club marriage
+bip_39_word_underscore_1: logic
+bip_39_word_underscore_10: logic_earth_butter_alpha_proof_swear_relax_club_marriage_outdoor
+bip_39_word_underscore_11: logic_earth_butter_alpha_proof_swear_relax_club_marriage_outdoor_escape
+bip_39_word_underscore_12: logic_earth_butter_alpha_proof_swear_relax_club_marriage_outdoor_escape_announce
+bip_39_word_underscore_2: logic_earth
+bip_39_word_underscore_3: logic_earth_butter
+bip_39_word_underscore_4: logic_earth_butter_alpha
+bip_39_word_underscore_5: logic_earth_butter_alpha_proof
+bip_39_word_underscore_6: logic_earth_butter_alpha_proof_swear
+bip_39_word_underscore_7: logic_earth_butter_alpha_proof_swear_relax
+bip_39_word_underscore_8: logic_earth_butter_alpha_proof_swear_relax_club
+bip_39_word_underscore_9: logic_earth_butter_alpha_proof_swear_relax_club_marriage
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t

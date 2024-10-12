@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | veteran |  
+| bip_39_word_dash_10 | veteran-apology-velvet-clinic-once-thrive-tray-impact-deposit-sell |  
+| bip_39_word_dash_11 | veteran-apology-velvet-clinic-once-thrive-tray-impact-deposit-sell-hollow |  
+| bip_39_word_dash_12 | veteran-apology-velvet-clinic-once-thrive-tray-impact-deposit-sell-hollow-arena |  
+| bip_39_word_dash_2 | veteran-apology |  
+| bip_39_word_dash_3 | veteran-apology-velvet |  
+| bip_39_word_dash_4 | veteran-apology-velvet-clinic |  
+| bip_39_word_dash_5 | veteran-apology-velvet-clinic-once |  
+| bip_39_word_dash_6 | veteran-apology-velvet-clinic-once-thrive |  
+| bip_39_word_dash_7 | veteran-apology-velvet-clinic-once-thrive-tray |  
+| bip_39_word_dash_8 | veteran-apology-velvet-clinic-once-thrive-tray-impact |  
+| bip_39_word_dash_9 | veteran-apology-velvet-clinic-once-thrive-tray-impact-deposit |  
 | bip_39_word_new_br_1 | veteran |  
 | bip_39_word_new_br_10 | veteran<br>apology<br>velvet<br>clinic<br>once<br>thrive<br>tray<br>impact<br>deposit<br>sell |  
 | bip_39_word_new_br_11 | veteran<br>apology<br>velvet<br>clinic<br>once<br>thrive<br>tray<br>impact<br>deposit<br>sell<br>hollow |  
@@ -147,6 +159,18 @@ deposit |
 | bip_39_word_space_7 | veteran apology velvet clinic once thrive tray |  
 | bip_39_word_space_8 | veteran apology velvet clinic once thrive tray impact |  
 | bip_39_word_space_9 | veteran apology velvet clinic once thrive tray impact deposit |  
+| bip_39_word_underscore_1 | veteran |  
+| bip_39_word_underscore_10 | veteran_apology_velvet_clinic_once_thrive_tray_impact_deposit_sell |  
+| bip_39_word_underscore_11 | veteran_apology_velvet_clinic_once_thrive_tray_impact_deposit_sell_hollow |  
+| bip_39_word_underscore_12 | veteran_apology_velvet_clinic_once_thrive_tray_impact_deposit_sell_hollow_arena |  
+| bip_39_word_underscore_2 | veteran_apology |  
+| bip_39_word_underscore_3 | veteran_apology_velvet |  
+| bip_39_word_underscore_4 | veteran_apology_velvet_clinic |  
+| bip_39_word_underscore_5 | veteran_apology_velvet_clinic_once |  
+| bip_39_word_underscore_6 | veteran_apology_velvet_clinic_once_thrive |  
+| bip_39_word_underscore_7 | veteran_apology_velvet_clinic_once_thrive_tray |  
+| bip_39_word_underscore_8 | veteran_apology_velvet_clinic_once_thrive_tray_impact |  
+| bip_39_word_underscore_9 | veteran_apology_velvet_clinic_once_thrive_tray_impact_deposit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

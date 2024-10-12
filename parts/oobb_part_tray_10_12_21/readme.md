@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | iron |  
+| bip_39_word_dash_10 | iron-lion-impulse-giggle-hat-save-menu-bird-volume-shop |  
+| bip_39_word_dash_11 | iron-lion-impulse-giggle-hat-save-menu-bird-volume-shop-save |  
+| bip_39_word_dash_12 | iron-lion-impulse-giggle-hat-save-menu-bird-volume-shop-save-alpha |  
+| bip_39_word_dash_2 | iron-lion |  
+| bip_39_word_dash_3 | iron-lion-impulse |  
+| bip_39_word_dash_4 | iron-lion-impulse-giggle |  
+| bip_39_word_dash_5 | iron-lion-impulse-giggle-hat |  
+| bip_39_word_dash_6 | iron-lion-impulse-giggle-hat-save |  
+| bip_39_word_dash_7 | iron-lion-impulse-giggle-hat-save-menu |  
+| bip_39_word_dash_8 | iron-lion-impulse-giggle-hat-save-menu-bird |  
+| bip_39_word_dash_9 | iron-lion-impulse-giggle-hat-save-menu-bird-volume |  
 | bip_39_word_new_br_1 | iron |  
 | bip_39_word_new_br_10 | iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird<br>volume<br>shop |  
 | bip_39_word_new_br_11 | iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird<br>volume<br>shop<br>save |  
@@ -147,6 +159,18 @@ volume |
 | bip_39_word_space_7 | iron lion impulse giggle hat save menu |  
 | bip_39_word_space_8 | iron lion impulse giggle hat save menu bird |  
 | bip_39_word_space_9 | iron lion impulse giggle hat save menu bird volume |  
+| bip_39_word_underscore_1 | iron |  
+| bip_39_word_underscore_10 | iron_lion_impulse_giggle_hat_save_menu_bird_volume_shop |  
+| bip_39_word_underscore_11 | iron_lion_impulse_giggle_hat_save_menu_bird_volume_shop_save |  
+| bip_39_word_underscore_12 | iron_lion_impulse_giggle_hat_save_menu_bird_volume_shop_save_alpha |  
+| bip_39_word_underscore_2 | iron_lion |  
+| bip_39_word_underscore_3 | iron_lion_impulse |  
+| bip_39_word_underscore_4 | iron_lion_impulse_giggle |  
+| bip_39_word_underscore_5 | iron_lion_impulse_giggle_hat |  
+| bip_39_word_underscore_6 | iron_lion_impulse_giggle_hat_save |  
+| bip_39_word_underscore_7 | iron_lion_impulse_giggle_hat_save_menu |  
+| bip_39_word_underscore_8 | iron_lion_impulse_giggle_hat_save_menu_bird |  
+| bip_39_word_underscore_9 | iron_lion_impulse_giggle_hat_save_menu_bird_volume |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

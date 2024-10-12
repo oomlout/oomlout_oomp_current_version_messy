@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | infant |  
+| bip_39_word_dash_10 | infant-usual-unfold-stable-fluid-argue-ordinary-spice-elbow-frequent |  
+| bip_39_word_dash_11 | infant-usual-unfold-stable-fluid-argue-ordinary-spice-elbow-frequent-heavy |  
+| bip_39_word_dash_12 | infant-usual-unfold-stable-fluid-argue-ordinary-spice-elbow-frequent-heavy-always |  
+| bip_39_word_dash_2 | infant-usual |  
+| bip_39_word_dash_3 | infant-usual-unfold |  
+| bip_39_word_dash_4 | infant-usual-unfold-stable |  
+| bip_39_word_dash_5 | infant-usual-unfold-stable-fluid |  
+| bip_39_word_dash_6 | infant-usual-unfold-stable-fluid-argue |  
+| bip_39_word_dash_7 | infant-usual-unfold-stable-fluid-argue-ordinary |  
+| bip_39_word_dash_8 | infant-usual-unfold-stable-fluid-argue-ordinary-spice |  
+| bip_39_word_dash_9 | infant-usual-unfold-stable-fluid-argue-ordinary-spice-elbow |  
 | bip_39_word_new_br_1 | infant |  
 | bip_39_word_new_br_10 | infant<br>usual<br>unfold<br>stable<br>fluid<br>argue<br>ordinary<br>spice<br>elbow<br>frequent |  
 | bip_39_word_new_br_11 | infant<br>usual<br>unfold<br>stable<br>fluid<br>argue<br>ordinary<br>spice<br>elbow<br>frequent<br>heavy |  
@@ -147,6 +159,18 @@ elbow |
 | bip_39_word_space_7 | infant usual unfold stable fluid argue ordinary |  
 | bip_39_word_space_8 | infant usual unfold stable fluid argue ordinary spice |  
 | bip_39_word_space_9 | infant usual unfold stable fluid argue ordinary spice elbow |  
+| bip_39_word_underscore_1 | infant |  
+| bip_39_word_underscore_10 | infant_usual_unfold_stable_fluid_argue_ordinary_spice_elbow_frequent |  
+| bip_39_word_underscore_11 | infant_usual_unfold_stable_fluid_argue_ordinary_spice_elbow_frequent_heavy |  
+| bip_39_word_underscore_12 | infant_usual_unfold_stable_fluid_argue_ordinary_spice_elbow_frequent_heavy_always |  
+| bip_39_word_underscore_2 | infant_usual |  
+| bip_39_word_underscore_3 | infant_usual_unfold |  
+| bip_39_word_underscore_4 | infant_usual_unfold_stable |  
+| bip_39_word_underscore_5 | infant_usual_unfold_stable_fluid |  
+| bip_39_word_underscore_6 | infant_usual_unfold_stable_fluid_argue |  
+| bip_39_word_underscore_7 | infant_usual_unfold_stable_fluid_argue_ordinary |  
+| bip_39_word_underscore_8 | infant_usual_unfold_stable_fluid_argue_ordinary_spice |  
+| bip_39_word_underscore_9 | infant_usual_unfold_stable_fluid_argue_ordinary_spice_elbow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

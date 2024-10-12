@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hood |  
+| bip_39_word_dash_10 | hood-wine-impact-eager-silk-fatal-mind-script-front-rule |  
+| bip_39_word_dash_11 | hood-wine-impact-eager-silk-fatal-mind-script-front-rule-survey |  
+| bip_39_word_dash_12 | hood-wine-impact-eager-silk-fatal-mind-script-front-rule-survey-april |  
+| bip_39_word_dash_2 | hood-wine |  
+| bip_39_word_dash_3 | hood-wine-impact |  
+| bip_39_word_dash_4 | hood-wine-impact-eager |  
+| bip_39_word_dash_5 | hood-wine-impact-eager-silk |  
+| bip_39_word_dash_6 | hood-wine-impact-eager-silk-fatal |  
+| bip_39_word_dash_7 | hood-wine-impact-eager-silk-fatal-mind |  
+| bip_39_word_dash_8 | hood-wine-impact-eager-silk-fatal-mind-script |  
+| bip_39_word_dash_9 | hood-wine-impact-eager-silk-fatal-mind-script-front |  
 | bip_39_word_new_br_1 | hood |  
 | bip_39_word_new_br_10 | hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule |  
 | bip_39_word_new_br_11 | hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule<br>survey |  
@@ -147,6 +159,18 @@ front |
 | bip_39_word_space_7 | hood wine impact eager silk fatal mind |  
 | bip_39_word_space_8 | hood wine impact eager silk fatal mind script |  
 | bip_39_word_space_9 | hood wine impact eager silk fatal mind script front |  
+| bip_39_word_underscore_1 | hood |  
+| bip_39_word_underscore_10 | hood_wine_impact_eager_silk_fatal_mind_script_front_rule |  
+| bip_39_word_underscore_11 | hood_wine_impact_eager_silk_fatal_mind_script_front_rule_survey |  
+| bip_39_word_underscore_12 | hood_wine_impact_eager_silk_fatal_mind_script_front_rule_survey_april |  
+| bip_39_word_underscore_2 | hood_wine |  
+| bip_39_word_underscore_3 | hood_wine_impact |  
+| bip_39_word_underscore_4 | hood_wine_impact_eager |  
+| bip_39_word_underscore_5 | hood_wine_impact_eager_silk |  
+| bip_39_word_underscore_6 | hood_wine_impact_eager_silk_fatal |  
+| bip_39_word_underscore_7 | hood_wine_impact_eager_silk_fatal_mind |  
+| bip_39_word_underscore_8 | hood_wine_impact_eager_silk_fatal_mind_script |  
+| bip_39_word_underscore_9 | hood_wine_impact_eager_silk_fatal_mind_script_front |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

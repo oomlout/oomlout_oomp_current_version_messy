@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vicious |  
+| bip_39_word_dash_10 | vicious-angry-spoon-proud-horn-cliff-gospel-sign-manage-patient |  
+| bip_39_word_dash_11 | vicious-angry-spoon-proud-horn-cliff-gospel-sign-manage-patient-name |  
+| bip_39_word_dash_12 | vicious-angry-spoon-proud-horn-cliff-gospel-sign-manage-patient-name-alpha |  
+| bip_39_word_dash_2 | vicious-angry |  
+| bip_39_word_dash_3 | vicious-angry-spoon |  
+| bip_39_word_dash_4 | vicious-angry-spoon-proud |  
+| bip_39_word_dash_5 | vicious-angry-spoon-proud-horn |  
+| bip_39_word_dash_6 | vicious-angry-spoon-proud-horn-cliff |  
+| bip_39_word_dash_7 | vicious-angry-spoon-proud-horn-cliff-gospel |  
+| bip_39_word_dash_8 | vicious-angry-spoon-proud-horn-cliff-gospel-sign |  
+| bip_39_word_dash_9 | vicious-angry-spoon-proud-horn-cliff-gospel-sign-manage |  
 | bip_39_word_new_br_1 | vicious |  
 | bip_39_word_new_br_10 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign<br>manage<br>patient |  
 | bip_39_word_new_br_11 | vicious<br>angry<br>spoon<br>proud<br>horn<br>cliff<br>gospel<br>sign<br>manage<br>patient<br>name |  
@@ -147,6 +159,18 @@ manage |
 | bip_39_word_space_7 | vicious angry spoon proud horn cliff gospel |  
 | bip_39_word_space_8 | vicious angry spoon proud horn cliff gospel sign |  
 | bip_39_word_space_9 | vicious angry spoon proud horn cliff gospel sign manage |  
+| bip_39_word_underscore_1 | vicious |  
+| bip_39_word_underscore_10 | vicious_angry_spoon_proud_horn_cliff_gospel_sign_manage_patient |  
+| bip_39_word_underscore_11 | vicious_angry_spoon_proud_horn_cliff_gospel_sign_manage_patient_name |  
+| bip_39_word_underscore_12 | vicious_angry_spoon_proud_horn_cliff_gospel_sign_manage_patient_name_alpha |  
+| bip_39_word_underscore_2 | vicious_angry |  
+| bip_39_word_underscore_3 | vicious_angry_spoon |  
+| bip_39_word_underscore_4 | vicious_angry_spoon_proud |  
+| bip_39_word_underscore_5 | vicious_angry_spoon_proud_horn |  
+| bip_39_word_underscore_6 | vicious_angry_spoon_proud_horn_cliff |  
+| bip_39_word_underscore_7 | vicious_angry_spoon_proud_horn_cliff_gospel |  
+| bip_39_word_underscore_8 | vicious_angry_spoon_proud_horn_cliff_gospel_sign |  
+| bip_39_word_underscore_9 | vicious_angry_spoon_proud_horn_cliff_gospel_sign_manage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

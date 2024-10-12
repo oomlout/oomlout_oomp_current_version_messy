@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | setup |  
+| bip_39_word_dash_10 | setup-symbol-reflect-impose-gap-rookie-goddess-logic-head-shed |  
+| bip_39_word_dash_11 | setup-symbol-reflect-impose-gap-rookie-goddess-logic-head-shed-north |  
+| bip_39_word_dash_12 | setup-symbol-reflect-impose-gap-rookie-goddess-logic-head-shed-north-aspect |  
+| bip_39_word_dash_2 | setup-symbol |  
+| bip_39_word_dash_3 | setup-symbol-reflect |  
+| bip_39_word_dash_4 | setup-symbol-reflect-impose |  
+| bip_39_word_dash_5 | setup-symbol-reflect-impose-gap |  
+| bip_39_word_dash_6 | setup-symbol-reflect-impose-gap-rookie |  
+| bip_39_word_dash_7 | setup-symbol-reflect-impose-gap-rookie-goddess |  
+| bip_39_word_dash_8 | setup-symbol-reflect-impose-gap-rookie-goddess-logic |  
+| bip_39_word_dash_9 | setup-symbol-reflect-impose-gap-rookie-goddess-logic-head |  
 | bip_39_word_new_br_1 | setup |  
 | bip_39_word_new_br_10 | setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic<br>head<br>shed |  
 | bip_39_word_new_br_11 | setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic<br>head<br>shed<br>north |  
@@ -147,6 +159,18 @@ head |
 | bip_39_word_space_7 | setup symbol reflect impose gap rookie goddess |  
 | bip_39_word_space_8 | setup symbol reflect impose gap rookie goddess logic |  
 | bip_39_word_space_9 | setup symbol reflect impose gap rookie goddess logic head |  
+| bip_39_word_underscore_1 | setup |  
+| bip_39_word_underscore_10 | setup_symbol_reflect_impose_gap_rookie_goddess_logic_head_shed |  
+| bip_39_word_underscore_11 | setup_symbol_reflect_impose_gap_rookie_goddess_logic_head_shed_north |  
+| bip_39_word_underscore_12 | setup_symbol_reflect_impose_gap_rookie_goddess_logic_head_shed_north_aspect |  
+| bip_39_word_underscore_2 | setup_symbol |  
+| bip_39_word_underscore_3 | setup_symbol_reflect |  
+| bip_39_word_underscore_4 | setup_symbol_reflect_impose |  
+| bip_39_word_underscore_5 | setup_symbol_reflect_impose_gap |  
+| bip_39_word_underscore_6 | setup_symbol_reflect_impose_gap_rookie |  
+| bip_39_word_underscore_7 | setup_symbol_reflect_impose_gap_rookie_goddess |  
+| bip_39_word_underscore_8 | setup_symbol_reflect_impose_gap_rookie_goddess_logic |  
+| bip_39_word_underscore_9 | setup_symbol_reflect_impose_gap_rookie_goddess_logic_head |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | suspect |  
+| bip_39_word_dash_10 | suspect-jeans-crazy-april-nut-indicate-van-flash-muffin-lobster |  
+| bip_39_word_dash_11 | suspect-jeans-crazy-april-nut-indicate-van-flash-muffin-lobster-tower |  
+| bip_39_word_dash_12 | suspect-jeans-crazy-april-nut-indicate-van-flash-muffin-lobster-tower-across |  
+| bip_39_word_dash_2 | suspect-jeans |  
+| bip_39_word_dash_3 | suspect-jeans-crazy |  
+| bip_39_word_dash_4 | suspect-jeans-crazy-april |  
+| bip_39_word_dash_5 | suspect-jeans-crazy-april-nut |  
+| bip_39_word_dash_6 | suspect-jeans-crazy-april-nut-indicate |  
+| bip_39_word_dash_7 | suspect-jeans-crazy-april-nut-indicate-van |  
+| bip_39_word_dash_8 | suspect-jeans-crazy-april-nut-indicate-van-flash |  
+| bip_39_word_dash_9 | suspect-jeans-crazy-april-nut-indicate-van-flash-muffin |  
 | bip_39_word_new_br_1 | suspect |  
 | bip_39_word_new_br_10 | suspect<br>jeans<br>crazy<br>april<br>nut<br>indicate<br>van<br>flash<br>muffin<br>lobster |  
 | bip_39_word_new_br_11 | suspect<br>jeans<br>crazy<br>april<br>nut<br>indicate<br>van<br>flash<br>muffin<br>lobster<br>tower |  
@@ -147,6 +159,18 @@ muffin |
 | bip_39_word_space_7 | suspect jeans crazy april nut indicate van |  
 | bip_39_word_space_8 | suspect jeans crazy april nut indicate van flash |  
 | bip_39_word_space_9 | suspect jeans crazy april nut indicate van flash muffin |  
+| bip_39_word_underscore_1 | suspect |  
+| bip_39_word_underscore_10 | suspect_jeans_crazy_april_nut_indicate_van_flash_muffin_lobster |  
+| bip_39_word_underscore_11 | suspect_jeans_crazy_april_nut_indicate_van_flash_muffin_lobster_tower |  
+| bip_39_word_underscore_12 | suspect_jeans_crazy_april_nut_indicate_van_flash_muffin_lobster_tower_across |  
+| bip_39_word_underscore_2 | suspect_jeans |  
+| bip_39_word_underscore_3 | suspect_jeans_crazy |  
+| bip_39_word_underscore_4 | suspect_jeans_crazy_april |  
+| bip_39_word_underscore_5 | suspect_jeans_crazy_april_nut |  
+| bip_39_word_underscore_6 | suspect_jeans_crazy_april_nut_indicate |  
+| bip_39_word_underscore_7 | suspect_jeans_crazy_april_nut_indicate_van |  
+| bip_39_word_underscore_8 | suspect_jeans_crazy_april_nut_indicate_van_flash |  
+| bip_39_word_underscore_9 | suspect_jeans_crazy_april_nut_indicate_van_flash_muffin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

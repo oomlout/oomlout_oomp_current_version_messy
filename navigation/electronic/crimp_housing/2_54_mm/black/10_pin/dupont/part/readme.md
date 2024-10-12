@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glare |  
+| bip_39_word_dash_10 | glare-advice-police-resource-other-warfare-faith-burden-silly-dynamic |  
+| bip_39_word_dash_11 | glare-advice-police-resource-other-warfare-faith-burden-silly-dynamic-present |  
+| bip_39_word_dash_12 | glare-advice-police-resource-other-warfare-faith-burden-silly-dynamic-present-aisle |  
+| bip_39_word_dash_2 | glare-advice |  
+| bip_39_word_dash_3 | glare-advice-police |  
+| bip_39_word_dash_4 | glare-advice-police-resource |  
+| bip_39_word_dash_5 | glare-advice-police-resource-other |  
+| bip_39_word_dash_6 | glare-advice-police-resource-other-warfare |  
+| bip_39_word_dash_7 | glare-advice-police-resource-other-warfare-faith |  
+| bip_39_word_dash_8 | glare-advice-police-resource-other-warfare-faith-burden |  
+| bip_39_word_dash_9 | glare-advice-police-resource-other-warfare-faith-burden-silly |  
 | bip_39_word_new_br_1 | glare |  
 | bip_39_word_new_br_10 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden<br>silly<br>dynamic |  
 | bip_39_word_new_br_11 | glare<br>advice<br>police<br>resource<br>other<br>warfare<br>faith<br>burden<br>silly<br>dynamic<br>present |  
@@ -147,6 +159,18 @@ silly |
 | bip_39_word_space_7 | glare advice police resource other warfare faith |  
 | bip_39_word_space_8 | glare advice police resource other warfare faith burden |  
 | bip_39_word_space_9 | glare advice police resource other warfare faith burden silly |  
+| bip_39_word_underscore_1 | glare |  
+| bip_39_word_underscore_10 | glare_advice_police_resource_other_warfare_faith_burden_silly_dynamic |  
+| bip_39_word_underscore_11 | glare_advice_police_resource_other_warfare_faith_burden_silly_dynamic_present |  
+| bip_39_word_underscore_12 | glare_advice_police_resource_other_warfare_faith_burden_silly_dynamic_present_aisle |  
+| bip_39_word_underscore_2 | glare_advice |  
+| bip_39_word_underscore_3 | glare_advice_police |  
+| bip_39_word_underscore_4 | glare_advice_police_resource |  
+| bip_39_word_underscore_5 | glare_advice_police_resource_other |  
+| bip_39_word_underscore_6 | glare_advice_police_resource_other_warfare |  
+| bip_39_word_underscore_7 | glare_advice_police_resource_other_warfare_faith |  
+| bip_39_word_underscore_8 | glare_advice_police_resource_other_warfare_faith_burden |  
+| bip_39_word_underscore_9 | glare_advice_police_resource_other_warfare_faith_burden_silly |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soon |  
+| bip_39_word_dash_10 | soon-industry-rely-forget-sword-fatigue-ketchup-wink-art-focus |  
+| bip_39_word_dash_11 | soon-industry-rely-forget-sword-fatigue-ketchup-wink-art-focus-evoke |  
+| bip_39_word_dash_12 | soon-industry-rely-forget-sword-fatigue-ketchup-wink-art-focus-evoke-allow |  
+| bip_39_word_dash_2 | soon-industry |  
+| bip_39_word_dash_3 | soon-industry-rely |  
+| bip_39_word_dash_4 | soon-industry-rely-forget |  
+| bip_39_word_dash_5 | soon-industry-rely-forget-sword |  
+| bip_39_word_dash_6 | soon-industry-rely-forget-sword-fatigue |  
+| bip_39_word_dash_7 | soon-industry-rely-forget-sword-fatigue-ketchup |  
+| bip_39_word_dash_8 | soon-industry-rely-forget-sword-fatigue-ketchup-wink |  
+| bip_39_word_dash_9 | soon-industry-rely-forget-sword-fatigue-ketchup-wink-art |  
 | bip_39_word_new_br_1 | soon |  
 | bip_39_word_new_br_10 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus |  
 | bip_39_word_new_br_11 | soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus<br>evoke |  
@@ -147,6 +159,18 @@ art |
 | bip_39_word_space_7 | soon industry rely forget sword fatigue ketchup |  
 | bip_39_word_space_8 | soon industry rely forget sword fatigue ketchup wink |  
 | bip_39_word_space_9 | soon industry rely forget sword fatigue ketchup wink art |  
+| bip_39_word_underscore_1 | soon |  
+| bip_39_word_underscore_10 | soon_industry_rely_forget_sword_fatigue_ketchup_wink_art_focus |  
+| bip_39_word_underscore_11 | soon_industry_rely_forget_sword_fatigue_ketchup_wink_art_focus_evoke |  
+| bip_39_word_underscore_12 | soon_industry_rely_forget_sword_fatigue_ketchup_wink_art_focus_evoke_allow |  
+| bip_39_word_underscore_2 | soon_industry |  
+| bip_39_word_underscore_3 | soon_industry_rely |  
+| bip_39_word_underscore_4 | soon_industry_rely_forget |  
+| bip_39_word_underscore_5 | soon_industry_rely_forget_sword |  
+| bip_39_word_underscore_6 | soon_industry_rely_forget_sword_fatigue |  
+| bip_39_word_underscore_7 | soon_industry_rely_forget_sword_fatigue_ketchup |  
+| bip_39_word_underscore_8 | soon_industry_rely_forget_sword_fatigue_ketchup_wink |  
+| bip_39_word_underscore_9 | soon_industry_rely_forget_sword_fatigue_ketchup_wink_art |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

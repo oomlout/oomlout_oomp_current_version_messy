@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spike |  
+| bip_39_word_dash_10 | spike-teach-cupboard-hire-retire-hard-repair-frequent-scan-culture |  
+| bip_39_word_dash_11 | spike-teach-cupboard-hire-retire-hard-repair-frequent-scan-culture-fat |  
+| bip_39_word_dash_12 | spike-teach-cupboard-hire-retire-hard-repair-frequent-scan-culture-fat-ankle |  
+| bip_39_word_dash_2 | spike-teach |  
+| bip_39_word_dash_3 | spike-teach-cupboard |  
+| bip_39_word_dash_4 | spike-teach-cupboard-hire |  
+| bip_39_word_dash_5 | spike-teach-cupboard-hire-retire |  
+| bip_39_word_dash_6 | spike-teach-cupboard-hire-retire-hard |  
+| bip_39_word_dash_7 | spike-teach-cupboard-hire-retire-hard-repair |  
+| bip_39_word_dash_8 | spike-teach-cupboard-hire-retire-hard-repair-frequent |  
+| bip_39_word_dash_9 | spike-teach-cupboard-hire-retire-hard-repair-frequent-scan |  
 | bip_39_word_new_br_1 | spike |  
 | bip_39_word_new_br_10 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent<br>scan<br>culture |  
 | bip_39_word_new_br_11 | spike<br>teach<br>cupboard<br>hire<br>retire<br>hard<br>repair<br>frequent<br>scan<br>culture<br>fat |  
@@ -147,6 +159,18 @@ scan |
 | bip_39_word_space_7 | spike teach cupboard hire retire hard repair |  
 | bip_39_word_space_8 | spike teach cupboard hire retire hard repair frequent |  
 | bip_39_word_space_9 | spike teach cupboard hire retire hard repair frequent scan |  
+| bip_39_word_underscore_1 | spike |  
+| bip_39_word_underscore_10 | spike_teach_cupboard_hire_retire_hard_repair_frequent_scan_culture |  
+| bip_39_word_underscore_11 | spike_teach_cupboard_hire_retire_hard_repair_frequent_scan_culture_fat |  
+| bip_39_word_underscore_12 | spike_teach_cupboard_hire_retire_hard_repair_frequent_scan_culture_fat_ankle |  
+| bip_39_word_underscore_2 | spike_teach |  
+| bip_39_word_underscore_3 | spike_teach_cupboard |  
+| bip_39_word_underscore_4 | spike_teach_cupboard_hire |  
+| bip_39_word_underscore_5 | spike_teach_cupboard_hire_retire |  
+| bip_39_word_underscore_6 | spike_teach_cupboard_hire_retire_hard |  
+| bip_39_word_underscore_7 | spike_teach_cupboard_hire_retire_hard_repair |  
+| bip_39_word_underscore_8 | spike_teach_cupboard_hire_retire_hard_repair_frequent |  
+| bip_39_word_underscore_9 | spike_teach_cupboard_hire_retire_hard_repair_frequent_scan |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

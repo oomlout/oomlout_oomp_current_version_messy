@@ -1,3 +1,15 @@
+bip_39_word_dash_1: until
+bip_39_word_dash_10: until-build-purse-choose-ridge-truly-pink-daring-pull-cinnamon
+bip_39_word_dash_11: until-build-purse-choose-ridge-truly-pink-daring-pull-cinnamon-much
+bip_39_word_dash_12: until-build-purse-choose-ridge-truly-pink-daring-pull-cinnamon-much-alarm
+bip_39_word_dash_2: until-build
+bip_39_word_dash_3: until-build-purse
+bip_39_word_dash_4: until-build-purse-choose
+bip_39_word_dash_5: until-build-purse-choose-ridge
+bip_39_word_dash_6: until-build-purse-choose-ridge-truly
+bip_39_word_dash_7: until-build-purse-choose-ridge-truly-pink
+bip_39_word_dash_8: until-build-purse-choose-ridge-truly-pink-daring
+bip_39_word_dash_9: until-build-purse-choose-ridge-truly-pink-daring-pull
 bip_39_word_new_br_1: until
 bip_39_word_new_br_10: until<br>build<br>purse<br>choose<br>ridge<br>truly<br>pink<br>daring<br>pull<br>cinnamon
 bip_39_word_new_br_11: until<br>build<br>purse<br>choose<br>ridge<br>truly<br>pink<br>daring<br>pull<br>cinnamon<br>much
@@ -193,6 +205,18 @@ bip_39_word_space_6: until build purse choose ridge truly
 bip_39_word_space_7: until build purse choose ridge truly pink
 bip_39_word_space_8: until build purse choose ridge truly pink daring
 bip_39_word_space_9: until build purse choose ridge truly pink daring pull
+bip_39_word_underscore_1: until
+bip_39_word_underscore_10: until_build_purse_choose_ridge_truly_pink_daring_pull_cinnamon
+bip_39_word_underscore_11: until_build_purse_choose_ridge_truly_pink_daring_pull_cinnamon_much
+bip_39_word_underscore_12: until_build_purse_choose_ridge_truly_pink_daring_pull_cinnamon_much_alarm
+bip_39_word_underscore_2: until_build
+bip_39_word_underscore_3: until_build_purse
+bip_39_word_underscore_4: until_build_purse_choose
+bip_39_word_underscore_5: until_build_purse_choose_ridge
+bip_39_word_underscore_6: until_build_purse_choose_ridge_truly
+bip_39_word_underscore_7: until_build_purse_choose_ridge_truly_pink
+bip_39_word_underscore_8: until_build_purse_choose_ridge_truly_pink_daring
+bip_39_word_underscore_9: until_build_purse_choose_ridge_truly_pink_daring_pull
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

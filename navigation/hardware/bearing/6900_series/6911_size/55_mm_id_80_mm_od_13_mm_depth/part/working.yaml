@@ -1,3 +1,15 @@
+bip_39_word_dash_1: donkey
+bip_39_word_dash_10: donkey-fine-gasp-crawl-chimney-gorilla-click-pony-strong-awesome
+bip_39_word_dash_11: donkey-fine-gasp-crawl-chimney-gorilla-click-pony-strong-awesome-nose
+bip_39_word_dash_12: donkey-fine-gasp-crawl-chimney-gorilla-click-pony-strong-awesome-nose-audit
+bip_39_word_dash_2: donkey-fine
+bip_39_word_dash_3: donkey-fine-gasp
+bip_39_word_dash_4: donkey-fine-gasp-crawl
+bip_39_word_dash_5: donkey-fine-gasp-crawl-chimney
+bip_39_word_dash_6: donkey-fine-gasp-crawl-chimney-gorilla
+bip_39_word_dash_7: donkey-fine-gasp-crawl-chimney-gorilla-click
+bip_39_word_dash_8: donkey-fine-gasp-crawl-chimney-gorilla-click-pony
+bip_39_word_dash_9: donkey-fine-gasp-crawl-chimney-gorilla-click-pony-strong
 bip_39_word_new_br_1: donkey
 bip_39_word_new_br_10: donkey<br>fine<br>gasp<br>crawl<br>chimney<br>gorilla<br>click<br>pony<br>strong<br>awesome
 bip_39_word_new_br_11: donkey<br>fine<br>gasp<br>crawl<br>chimney<br>gorilla<br>click<br>pony<br>strong<br>awesome<br>nose
@@ -193,6 +205,18 @@ bip_39_word_space_6: donkey fine gasp crawl chimney gorilla
 bip_39_word_space_7: donkey fine gasp crawl chimney gorilla click
 bip_39_word_space_8: donkey fine gasp crawl chimney gorilla click pony
 bip_39_word_space_9: donkey fine gasp crawl chimney gorilla click pony strong
+bip_39_word_underscore_1: donkey
+bip_39_word_underscore_10: donkey_fine_gasp_crawl_chimney_gorilla_click_pony_strong_awesome
+bip_39_word_underscore_11: donkey_fine_gasp_crawl_chimney_gorilla_click_pony_strong_awesome_nose
+bip_39_word_underscore_12: donkey_fine_gasp_crawl_chimney_gorilla_click_pony_strong_awesome_nose_audit
+bip_39_word_underscore_2: donkey_fine
+bip_39_word_underscore_3: donkey_fine_gasp
+bip_39_word_underscore_4: donkey_fine_gasp_crawl
+bip_39_word_underscore_5: donkey_fine_gasp_crawl_chimney
+bip_39_word_underscore_6: donkey_fine_gasp_crawl_chimney_gorilla
+bip_39_word_underscore_7: donkey_fine_gasp_crawl_chimney_gorilla_click
+bip_39_word_underscore_8: donkey_fine_gasp_crawl_chimney_gorilla_click_pony
+bip_39_word_underscore_9: donkey_fine_gasp_crawl_chimney_gorilla_click_pony_strong
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

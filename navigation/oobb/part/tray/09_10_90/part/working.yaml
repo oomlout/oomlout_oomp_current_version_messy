@@ -1,3 +1,15 @@
+bip_39_word_dash_1: speak
+bip_39_word_dash_10: speak-school-time-economy-punch-faculty-elephant-west-media-observe
+bip_39_word_dash_11: speak-school-time-economy-punch-faculty-elephant-west-media-observe-sample
+bip_39_word_dash_12: speak-school-time-economy-punch-faculty-elephant-west-media-observe-sample-advice
+bip_39_word_dash_2: speak-school
+bip_39_word_dash_3: speak-school-time
+bip_39_word_dash_4: speak-school-time-economy
+bip_39_word_dash_5: speak-school-time-economy-punch
+bip_39_word_dash_6: speak-school-time-economy-punch-faculty
+bip_39_word_dash_7: speak-school-time-economy-punch-faculty-elephant
+bip_39_word_dash_8: speak-school-time-economy-punch-faculty-elephant-west
+bip_39_word_dash_9: speak-school-time-economy-punch-faculty-elephant-west-media
 bip_39_word_new_br_1: speak
 bip_39_word_new_br_10: speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west<br>media<br>observe
 bip_39_word_new_br_11: speak<br>school<br>time<br>economy<br>punch<br>faculty<br>elephant<br>west<br>media<br>observe<br>sample
@@ -194,6 +206,18 @@ bip_39_word_space_6: speak school time economy punch faculty
 bip_39_word_space_7: speak school time economy punch faculty elephant
 bip_39_word_space_8: speak school time economy punch faculty elephant west
 bip_39_word_space_9: speak school time economy punch faculty elephant west media
+bip_39_word_underscore_1: speak
+bip_39_word_underscore_10: speak_school_time_economy_punch_faculty_elephant_west_media_observe
+bip_39_word_underscore_11: speak_school_time_economy_punch_faculty_elephant_west_media_observe_sample
+bip_39_word_underscore_12: speak_school_time_economy_punch_faculty_elephant_west_media_observe_sample_advice
+bip_39_word_underscore_2: speak_school
+bip_39_word_underscore_3: speak_school_time
+bip_39_word_underscore_4: speak_school_time_economy
+bip_39_word_underscore_5: speak_school_time_economy_punch
+bip_39_word_underscore_6: speak_school_time_economy_punch_faculty
+bip_39_word_underscore_7: speak_school_time_economy_punch_faculty_elephant
+bip_39_word_underscore_8: speak_school_time_economy_punch_faculty_elephant_west
+bip_39_word_underscore_9: speak_school_time_economy_punch_faculty_elephant_west_media
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

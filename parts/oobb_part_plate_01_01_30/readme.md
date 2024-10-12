@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | track |  
+| bip_39_word_dash_10 | track-end-raise-region-flip-clog-general-quality-outer-junk |  
+| bip_39_word_dash_11 | track-end-raise-region-flip-clog-general-quality-outer-junk-buyer |  
+| bip_39_word_dash_12 | track-end-raise-region-flip-clog-general-quality-outer-junk-buyer-amused |  
+| bip_39_word_dash_2 | track-end |  
+| bip_39_word_dash_3 | track-end-raise |  
+| bip_39_word_dash_4 | track-end-raise-region |  
+| bip_39_word_dash_5 | track-end-raise-region-flip |  
+| bip_39_word_dash_6 | track-end-raise-region-flip-clog |  
+| bip_39_word_dash_7 | track-end-raise-region-flip-clog-general |  
+| bip_39_word_dash_8 | track-end-raise-region-flip-clog-general-quality |  
+| bip_39_word_dash_9 | track-end-raise-region-flip-clog-general-quality-outer |  
 | bip_39_word_new_br_1 | track |  
 | bip_39_word_new_br_10 | track<br>end<br>raise<br>region<br>flip<br>clog<br>general<br>quality<br>outer<br>junk |  
 | bip_39_word_new_br_11 | track<br>end<br>raise<br>region<br>flip<br>clog<br>general<br>quality<br>outer<br>junk<br>buyer |  
@@ -147,6 +159,18 @@ outer |
 | bip_39_word_space_7 | track end raise region flip clog general |  
 | bip_39_word_space_8 | track end raise region flip clog general quality |  
 | bip_39_word_space_9 | track end raise region flip clog general quality outer |  
+| bip_39_word_underscore_1 | track |  
+| bip_39_word_underscore_10 | track_end_raise_region_flip_clog_general_quality_outer_junk |  
+| bip_39_word_underscore_11 | track_end_raise_region_flip_clog_general_quality_outer_junk_buyer |  
+| bip_39_word_underscore_12 | track_end_raise_region_flip_clog_general_quality_outer_junk_buyer_amused |  
+| bip_39_word_underscore_2 | track_end |  
+| bip_39_word_underscore_3 | track_end_raise |  
+| bip_39_word_underscore_4 | track_end_raise_region |  
+| bip_39_word_underscore_5 | track_end_raise_region_flip |  
+| bip_39_word_underscore_6 | track_end_raise_region_flip_clog |  
+| bip_39_word_underscore_7 | track_end_raise_region_flip_clog_general |  
+| bip_39_word_underscore_8 | track_end_raise_region_flip_clog_general_quality |  
+| bip_39_word_underscore_9 | track_end_raise_region_flip_clog_general_quality_outer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

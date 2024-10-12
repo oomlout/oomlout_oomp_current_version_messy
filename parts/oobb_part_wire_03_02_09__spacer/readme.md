@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spring |  
+| bip_39_word_dash_10 | spring-inmate-wrap-annual-elbow-figure-fiber-amount-hard-chuckle |  
+| bip_39_word_dash_11 | spring-inmate-wrap-annual-elbow-figure-fiber-amount-hard-chuckle-mask |  
+| bip_39_word_dash_12 | spring-inmate-wrap-annual-elbow-figure-fiber-amount-hard-chuckle-mask-attack |  
+| bip_39_word_dash_2 | spring-inmate |  
+| bip_39_word_dash_3 | spring-inmate-wrap |  
+| bip_39_word_dash_4 | spring-inmate-wrap-annual |  
+| bip_39_word_dash_5 | spring-inmate-wrap-annual-elbow |  
+| bip_39_word_dash_6 | spring-inmate-wrap-annual-elbow-figure |  
+| bip_39_word_dash_7 | spring-inmate-wrap-annual-elbow-figure-fiber |  
+| bip_39_word_dash_8 | spring-inmate-wrap-annual-elbow-figure-fiber-amount |  
+| bip_39_word_dash_9 | spring-inmate-wrap-annual-elbow-figure-fiber-amount-hard |  
 | bip_39_word_new_br_1 | spring |  
 | bip_39_word_new_br_10 | spring<br>inmate<br>wrap<br>annual<br>elbow<br>figure<br>fiber<br>amount<br>hard<br>chuckle |  
 | bip_39_word_new_br_11 | spring<br>inmate<br>wrap<br>annual<br>elbow<br>figure<br>fiber<br>amount<br>hard<br>chuckle<br>mask |  
@@ -147,6 +159,18 @@ hard |
 | bip_39_word_space_7 | spring inmate wrap annual elbow figure fiber |  
 | bip_39_word_space_8 | spring inmate wrap annual elbow figure fiber amount |  
 | bip_39_word_space_9 | spring inmate wrap annual elbow figure fiber amount hard |  
+| bip_39_word_underscore_1 | spring |  
+| bip_39_word_underscore_10 | spring_inmate_wrap_annual_elbow_figure_fiber_amount_hard_chuckle |  
+| bip_39_word_underscore_11 | spring_inmate_wrap_annual_elbow_figure_fiber_amount_hard_chuckle_mask |  
+| bip_39_word_underscore_12 | spring_inmate_wrap_annual_elbow_figure_fiber_amount_hard_chuckle_mask_attack |  
+| bip_39_word_underscore_2 | spring_inmate |  
+| bip_39_word_underscore_3 | spring_inmate_wrap |  
+| bip_39_word_underscore_4 | spring_inmate_wrap_annual |  
+| bip_39_word_underscore_5 | spring_inmate_wrap_annual_elbow |  
+| bip_39_word_underscore_6 | spring_inmate_wrap_annual_elbow_figure |  
+| bip_39_word_underscore_7 | spring_inmate_wrap_annual_elbow_figure_fiber |  
+| bip_39_word_underscore_8 | spring_inmate_wrap_annual_elbow_figure_fiber_amount |  
+| bip_39_word_underscore_9 | spring_inmate_wrap_annual_elbow_figure_fiber_amount_hard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

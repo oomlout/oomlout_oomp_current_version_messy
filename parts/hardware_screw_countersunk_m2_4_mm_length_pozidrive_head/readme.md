@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | moral |  
+| bip_39_word_dash_10 | moral-cotton-discover-half-sea-employ-notice-that-spy-light |  
+| bip_39_word_dash_11 | moral-cotton-discover-half-sea-employ-notice-that-spy-light-illegal |  
+| bip_39_word_dash_12 | moral-cotton-discover-half-sea-employ-notice-that-spy-light-illegal-alarm |  
+| bip_39_word_dash_2 | moral-cotton |  
+| bip_39_word_dash_3 | moral-cotton-discover |  
+| bip_39_word_dash_4 | moral-cotton-discover-half |  
+| bip_39_word_dash_5 | moral-cotton-discover-half-sea |  
+| bip_39_word_dash_6 | moral-cotton-discover-half-sea-employ |  
+| bip_39_word_dash_7 | moral-cotton-discover-half-sea-employ-notice |  
+| bip_39_word_dash_8 | moral-cotton-discover-half-sea-employ-notice-that |  
+| bip_39_word_dash_9 | moral-cotton-discover-half-sea-employ-notice-that-spy |  
 | bip_39_word_new_br_1 | moral |  
 | bip_39_word_new_br_10 | moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that<br>spy<br>light |  
 | bip_39_word_new_br_11 | moral<br>cotton<br>discover<br>half<br>sea<br>employ<br>notice<br>that<br>spy<br>light<br>illegal |  
@@ -147,6 +159,18 @@ spy |
 | bip_39_word_space_7 | moral cotton discover half sea employ notice |  
 | bip_39_word_space_8 | moral cotton discover half sea employ notice that |  
 | bip_39_word_space_9 | moral cotton discover half sea employ notice that spy |  
+| bip_39_word_underscore_1 | moral |  
+| bip_39_word_underscore_10 | moral_cotton_discover_half_sea_employ_notice_that_spy_light |  
+| bip_39_word_underscore_11 | moral_cotton_discover_half_sea_employ_notice_that_spy_light_illegal |  
+| bip_39_word_underscore_12 | moral_cotton_discover_half_sea_employ_notice_that_spy_light_illegal_alarm |  
+| bip_39_word_underscore_2 | moral_cotton |  
+| bip_39_word_underscore_3 | moral_cotton_discover |  
+| bip_39_word_underscore_4 | moral_cotton_discover_half |  
+| bip_39_word_underscore_5 | moral_cotton_discover_half_sea |  
+| bip_39_word_underscore_6 | moral_cotton_discover_half_sea_employ |  
+| bip_39_word_underscore_7 | moral_cotton_discover_half_sea_employ_notice |  
+| bip_39_word_underscore_8 | moral_cotton_discover_half_sea_employ_notice_that |  
+| bip_39_word_underscore_9 | moral_cotton_discover_half_sea_employ_notice_that_spy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

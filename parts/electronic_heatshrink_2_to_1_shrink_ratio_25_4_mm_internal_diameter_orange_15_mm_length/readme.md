@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | famous |  
+| bip_39_word_dash_10 | famous-logic-summer-inherit-narrow-tell-picnic-oven-junior-better |  
+| bip_39_word_dash_11 | famous-logic-summer-inherit-narrow-tell-picnic-oven-junior-better-chair |  
+| bip_39_word_dash_12 | famous-logic-summer-inherit-narrow-tell-picnic-oven-junior-better-chair-approve |  
+| bip_39_word_dash_2 | famous-logic |  
+| bip_39_word_dash_3 | famous-logic-summer |  
+| bip_39_word_dash_4 | famous-logic-summer-inherit |  
+| bip_39_word_dash_5 | famous-logic-summer-inherit-narrow |  
+| bip_39_word_dash_6 | famous-logic-summer-inherit-narrow-tell |  
+| bip_39_word_dash_7 | famous-logic-summer-inherit-narrow-tell-picnic |  
+| bip_39_word_dash_8 | famous-logic-summer-inherit-narrow-tell-picnic-oven |  
+| bip_39_word_dash_9 | famous-logic-summer-inherit-narrow-tell-picnic-oven-junior |  
 | bip_39_word_new_br_1 | famous |  
 | bip_39_word_new_br_10 | famous<br>logic<br>summer<br>inherit<br>narrow<br>tell<br>picnic<br>oven<br>junior<br>better |  
 | bip_39_word_new_br_11 | famous<br>logic<br>summer<br>inherit<br>narrow<br>tell<br>picnic<br>oven<br>junior<br>better<br>chair |  
@@ -147,6 +159,18 @@ junior |
 | bip_39_word_space_7 | famous logic summer inherit narrow tell picnic |  
 | bip_39_word_space_8 | famous logic summer inherit narrow tell picnic oven |  
 | bip_39_word_space_9 | famous logic summer inherit narrow tell picnic oven junior |  
+| bip_39_word_underscore_1 | famous |  
+| bip_39_word_underscore_10 | famous_logic_summer_inherit_narrow_tell_picnic_oven_junior_better |  
+| bip_39_word_underscore_11 | famous_logic_summer_inherit_narrow_tell_picnic_oven_junior_better_chair |  
+| bip_39_word_underscore_12 | famous_logic_summer_inherit_narrow_tell_picnic_oven_junior_better_chair_approve |  
+| bip_39_word_underscore_2 | famous_logic |  
+| bip_39_word_underscore_3 | famous_logic_summer |  
+| bip_39_word_underscore_4 | famous_logic_summer_inherit |  
+| bip_39_word_underscore_5 | famous_logic_summer_inherit_narrow |  
+| bip_39_word_underscore_6 | famous_logic_summer_inherit_narrow_tell |  
+| bip_39_word_underscore_7 | famous_logic_summer_inherit_narrow_tell_picnic |  
+| bip_39_word_underscore_8 | famous_logic_summer_inherit_narrow_tell_picnic_oven |  
+| bip_39_word_underscore_9 | famous_logic_summer_inherit_narrow_tell_picnic_oven_junior |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

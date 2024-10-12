@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | engine |  
+| bip_39_word_dash_10 | engine-toy-lyrics-urge-onion-bus-wedding-great-panda-useless |  
+| bip_39_word_dash_11 | engine-toy-lyrics-urge-onion-bus-wedding-great-panda-useless-work |  
+| bip_39_word_dash_12 | engine-toy-lyrics-urge-onion-bus-wedding-great-panda-useless-work-actual |  
+| bip_39_word_dash_2 | engine-toy |  
+| bip_39_word_dash_3 | engine-toy-lyrics |  
+| bip_39_word_dash_4 | engine-toy-lyrics-urge |  
+| bip_39_word_dash_5 | engine-toy-lyrics-urge-onion |  
+| bip_39_word_dash_6 | engine-toy-lyrics-urge-onion-bus |  
+| bip_39_word_dash_7 | engine-toy-lyrics-urge-onion-bus-wedding |  
+| bip_39_word_dash_8 | engine-toy-lyrics-urge-onion-bus-wedding-great |  
+| bip_39_word_dash_9 | engine-toy-lyrics-urge-onion-bus-wedding-great-panda |  
 | bip_39_word_new_br_1 | engine |  
 | bip_39_word_new_br_10 | engine<br>toy<br>lyrics<br>urge<br>onion<br>bus<br>wedding<br>great<br>panda<br>useless |  
 | bip_39_word_new_br_11 | engine<br>toy<br>lyrics<br>urge<br>onion<br>bus<br>wedding<br>great<br>panda<br>useless<br>work |  
@@ -147,6 +159,18 @@ panda |
 | bip_39_word_space_7 | engine toy lyrics urge onion bus wedding |  
 | bip_39_word_space_8 | engine toy lyrics urge onion bus wedding great |  
 | bip_39_word_space_9 | engine toy lyrics urge onion bus wedding great panda |  
+| bip_39_word_underscore_1 | engine |  
+| bip_39_word_underscore_10 | engine_toy_lyrics_urge_onion_bus_wedding_great_panda_useless |  
+| bip_39_word_underscore_11 | engine_toy_lyrics_urge_onion_bus_wedding_great_panda_useless_work |  
+| bip_39_word_underscore_12 | engine_toy_lyrics_urge_onion_bus_wedding_great_panda_useless_work_actual |  
+| bip_39_word_underscore_2 | engine_toy |  
+| bip_39_word_underscore_3 | engine_toy_lyrics |  
+| bip_39_word_underscore_4 | engine_toy_lyrics_urge |  
+| bip_39_word_underscore_5 | engine_toy_lyrics_urge_onion |  
+| bip_39_word_underscore_6 | engine_toy_lyrics_urge_onion_bus |  
+| bip_39_word_underscore_7 | engine_toy_lyrics_urge_onion_bus_wedding |  
+| bip_39_word_underscore_8 | engine_toy_lyrics_urge_onion_bus_wedding_great |  
+| bip_39_word_underscore_9 | engine_toy_lyrics_urge_onion_bus_wedding_great_panda |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

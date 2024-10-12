@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dove |  
+| bip_39_word_dash_10 | dove-rib-blast-park-ice-rate-lecture-keep-resource-crowd |  
+| bip_39_word_dash_11 | dove-rib-blast-park-ice-rate-lecture-keep-resource-crowd-convince |  
+| bip_39_word_dash_12 | dove-rib-blast-park-ice-rate-lecture-keep-resource-crowd-convince-adapt |  
+| bip_39_word_dash_2 | dove-rib |  
+| bip_39_word_dash_3 | dove-rib-blast |  
+| bip_39_word_dash_4 | dove-rib-blast-park |  
+| bip_39_word_dash_5 | dove-rib-blast-park-ice |  
+| bip_39_word_dash_6 | dove-rib-blast-park-ice-rate |  
+| bip_39_word_dash_7 | dove-rib-blast-park-ice-rate-lecture |  
+| bip_39_word_dash_8 | dove-rib-blast-park-ice-rate-lecture-keep |  
+| bip_39_word_dash_9 | dove-rib-blast-park-ice-rate-lecture-keep-resource |  
 | bip_39_word_new_br_1 | dove |  
 | bip_39_word_new_br_10 | dove<br>rib<br>blast<br>park<br>ice<br>rate<br>lecture<br>keep<br>resource<br>crowd |  
 | bip_39_word_new_br_11 | dove<br>rib<br>blast<br>park<br>ice<br>rate<br>lecture<br>keep<br>resource<br>crowd<br>convince |  
@@ -147,6 +159,18 @@ resource |
 | bip_39_word_space_7 | dove rib blast park ice rate lecture |  
 | bip_39_word_space_8 | dove rib blast park ice rate lecture keep |  
 | bip_39_word_space_9 | dove rib blast park ice rate lecture keep resource |  
+| bip_39_word_underscore_1 | dove |  
+| bip_39_word_underscore_10 | dove_rib_blast_park_ice_rate_lecture_keep_resource_crowd |  
+| bip_39_word_underscore_11 | dove_rib_blast_park_ice_rate_lecture_keep_resource_crowd_convince |  
+| bip_39_word_underscore_12 | dove_rib_blast_park_ice_rate_lecture_keep_resource_crowd_convince_adapt |  
+| bip_39_word_underscore_2 | dove_rib |  
+| bip_39_word_underscore_3 | dove_rib_blast |  
+| bip_39_word_underscore_4 | dove_rib_blast_park |  
+| bip_39_word_underscore_5 | dove_rib_blast_park_ice |  
+| bip_39_word_underscore_6 | dove_rib_blast_park_ice_rate |  
+| bip_39_word_underscore_7 | dove_rib_blast_park_ice_rate_lecture |  
+| bip_39_word_underscore_8 | dove_rib_blast_park_ice_rate_lecture_keep |  
+| bip_39_word_underscore_9 | dove_rib_blast_park_ice_rate_lecture_keep_resource |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

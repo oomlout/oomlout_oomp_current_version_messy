@@ -1,3 +1,15 @@
+bip_39_word_dash_1: young
+bip_39_word_dash_10: young-gap-emotion-dignity-nuclear-business-grit-actual-pond-creek
+bip_39_word_dash_11: young-gap-emotion-dignity-nuclear-business-grit-actual-pond-creek-brief
+bip_39_word_dash_12: young-gap-emotion-dignity-nuclear-business-grit-actual-pond-creek-brief-april
+bip_39_word_dash_2: young-gap
+bip_39_word_dash_3: young-gap-emotion
+bip_39_word_dash_4: young-gap-emotion-dignity
+bip_39_word_dash_5: young-gap-emotion-dignity-nuclear
+bip_39_word_dash_6: young-gap-emotion-dignity-nuclear-business
+bip_39_word_dash_7: young-gap-emotion-dignity-nuclear-business-grit
+bip_39_word_dash_8: young-gap-emotion-dignity-nuclear-business-grit-actual
+bip_39_word_dash_9: young-gap-emotion-dignity-nuclear-business-grit-actual-pond
 bip_39_word_new_br_1: young
 bip_39_word_new_br_10: young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual<br>pond<br>creek
 bip_39_word_new_br_11: young<br>gap<br>emotion<br>dignity<br>nuclear<br>business<br>grit<br>actual<br>pond<br>creek<br>brief
@@ -194,6 +206,18 @@ bip_39_word_space_6: young gap emotion dignity nuclear business
 bip_39_word_space_7: young gap emotion dignity nuclear business grit
 bip_39_word_space_8: young gap emotion dignity nuclear business grit actual
 bip_39_word_space_9: young gap emotion dignity nuclear business grit actual pond
+bip_39_word_underscore_1: young
+bip_39_word_underscore_10: young_gap_emotion_dignity_nuclear_business_grit_actual_pond_creek
+bip_39_word_underscore_11: young_gap_emotion_dignity_nuclear_business_grit_actual_pond_creek_brief
+bip_39_word_underscore_12: young_gap_emotion_dignity_nuclear_business_grit_actual_pond_creek_brief_april
+bip_39_word_underscore_2: young_gap
+bip_39_word_underscore_3: young_gap_emotion
+bip_39_word_underscore_4: young_gap_emotion_dignity
+bip_39_word_underscore_5: young_gap_emotion_dignity_nuclear
+bip_39_word_underscore_6: young_gap_emotion_dignity_nuclear_business
+bip_39_word_underscore_7: young_gap_emotion_dignity_nuclear_business_grit
+bip_39_word_underscore_8: young_gap_emotion_dignity_nuclear_business_grit_actual
+bip_39_word_underscore_9: young_gap_emotion_dignity_nuclear_business_grit_actual_pond
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

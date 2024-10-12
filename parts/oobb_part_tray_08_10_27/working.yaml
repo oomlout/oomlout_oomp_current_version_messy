@@ -1,3 +1,15 @@
+bip_39_word_dash_1: once
+bip_39_word_dash_10: once-chapter-wing-casino-debate-casual-focus-name-atom-milk
+bip_39_word_dash_11: once-chapter-wing-casino-debate-casual-focus-name-atom-milk-auction
+bip_39_word_dash_12: once-chapter-wing-casino-debate-casual-focus-name-atom-milk-auction-any
+bip_39_word_dash_2: once-chapter
+bip_39_word_dash_3: once-chapter-wing
+bip_39_word_dash_4: once-chapter-wing-casino
+bip_39_word_dash_5: once-chapter-wing-casino-debate
+bip_39_word_dash_6: once-chapter-wing-casino-debate-casual
+bip_39_word_dash_7: once-chapter-wing-casino-debate-casual-focus
+bip_39_word_dash_8: once-chapter-wing-casino-debate-casual-focus-name
+bip_39_word_dash_9: once-chapter-wing-casino-debate-casual-focus-name-atom
 bip_39_word_new_br_1: once
 bip_39_word_new_br_10: once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name<br>atom<br>milk
 bip_39_word_new_br_11: once<br>chapter<br>wing<br>casino<br>debate<br>casual<br>focus<br>name<br>atom<br>milk<br>auction
@@ -193,6 +205,18 @@ bip_39_word_space_6: once chapter wing casino debate casual
 bip_39_word_space_7: once chapter wing casino debate casual focus
 bip_39_word_space_8: once chapter wing casino debate casual focus name
 bip_39_word_space_9: once chapter wing casino debate casual focus name atom
+bip_39_word_underscore_1: once
+bip_39_word_underscore_10: once_chapter_wing_casino_debate_casual_focus_name_atom_milk
+bip_39_word_underscore_11: once_chapter_wing_casino_debate_casual_focus_name_atom_milk_auction
+bip_39_word_underscore_12: once_chapter_wing_casino_debate_casual_focus_name_atom_milk_auction_any
+bip_39_word_underscore_2: once_chapter
+bip_39_word_underscore_3: once_chapter_wing
+bip_39_word_underscore_4: once_chapter_wing_casino
+bip_39_word_underscore_5: once_chapter_wing_casino_debate
+bip_39_word_underscore_6: once_chapter_wing_casino_debate_casual
+bip_39_word_underscore_7: once_chapter_wing_casino_debate_casual_focus
+bip_39_word_underscore_8: once_chapter_wing_casino_debate_casual_focus_name
+bip_39_word_underscore_9: once_chapter_wing_casino_debate_casual_focus_name_atom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pluck |  
+| bip_39_word_dash_10 | pluck-nuclear-stereo-moral-announce-abuse-gym-arrest-shove-correct |  
+| bip_39_word_dash_11 | pluck-nuclear-stereo-moral-announce-abuse-gym-arrest-shove-correct-choice |  
+| bip_39_word_dash_12 | pluck-nuclear-stereo-moral-announce-abuse-gym-arrest-shove-correct-choice-antenna |  
+| bip_39_word_dash_2 | pluck-nuclear |  
+| bip_39_word_dash_3 | pluck-nuclear-stereo |  
+| bip_39_word_dash_4 | pluck-nuclear-stereo-moral |  
+| bip_39_word_dash_5 | pluck-nuclear-stereo-moral-announce |  
+| bip_39_word_dash_6 | pluck-nuclear-stereo-moral-announce-abuse |  
+| bip_39_word_dash_7 | pluck-nuclear-stereo-moral-announce-abuse-gym |  
+| bip_39_word_dash_8 | pluck-nuclear-stereo-moral-announce-abuse-gym-arrest |  
+| bip_39_word_dash_9 | pluck-nuclear-stereo-moral-announce-abuse-gym-arrest-shove |  
 | bip_39_word_new_br_1 | pluck |  
 | bip_39_word_new_br_10 | pluck<br>nuclear<br>stereo<br>moral<br>announce<br>abuse<br>gym<br>arrest<br>shove<br>correct |  
 | bip_39_word_new_br_11 | pluck<br>nuclear<br>stereo<br>moral<br>announce<br>abuse<br>gym<br>arrest<br>shove<br>correct<br>choice |  
@@ -147,6 +159,18 @@ shove |
 | bip_39_word_space_7 | pluck nuclear stereo moral announce abuse gym |  
 | bip_39_word_space_8 | pluck nuclear stereo moral announce abuse gym arrest |  
 | bip_39_word_space_9 | pluck nuclear stereo moral announce abuse gym arrest shove |  
+| bip_39_word_underscore_1 | pluck |  
+| bip_39_word_underscore_10 | pluck_nuclear_stereo_moral_announce_abuse_gym_arrest_shove_correct |  
+| bip_39_word_underscore_11 | pluck_nuclear_stereo_moral_announce_abuse_gym_arrest_shove_correct_choice |  
+| bip_39_word_underscore_12 | pluck_nuclear_stereo_moral_announce_abuse_gym_arrest_shove_correct_choice_antenna |  
+| bip_39_word_underscore_2 | pluck_nuclear |  
+| bip_39_word_underscore_3 | pluck_nuclear_stereo |  
+| bip_39_word_underscore_4 | pluck_nuclear_stereo_moral |  
+| bip_39_word_underscore_5 | pluck_nuclear_stereo_moral_announce |  
+| bip_39_word_underscore_6 | pluck_nuclear_stereo_moral_announce_abuse |  
+| bip_39_word_underscore_7 | pluck_nuclear_stereo_moral_announce_abuse_gym |  
+| bip_39_word_underscore_8 | pluck_nuclear_stereo_moral_announce_abuse_gym_arrest |  
+| bip_39_word_underscore_9 | pluck_nuclear_stereo_moral_announce_abuse_gym_arrest_shove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

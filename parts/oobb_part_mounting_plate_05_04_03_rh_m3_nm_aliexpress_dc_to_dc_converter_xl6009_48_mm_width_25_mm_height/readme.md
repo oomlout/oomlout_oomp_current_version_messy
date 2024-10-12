@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebuild |  
+| bip_39_word_dash_10 | rebuild-jeans-find-crawl-patrol-replace-leisure-embody-security-open |  
+| bip_39_word_dash_11 | rebuild-jeans-find-crawl-patrol-replace-leisure-embody-security-open-income |  
+| bip_39_word_dash_12 | rebuild-jeans-find-crawl-patrol-replace-leisure-embody-security-open-income-around |  
+| bip_39_word_dash_2 | rebuild-jeans |  
+| bip_39_word_dash_3 | rebuild-jeans-find |  
+| bip_39_word_dash_4 | rebuild-jeans-find-crawl |  
+| bip_39_word_dash_5 | rebuild-jeans-find-crawl-patrol |  
+| bip_39_word_dash_6 | rebuild-jeans-find-crawl-patrol-replace |  
+| bip_39_word_dash_7 | rebuild-jeans-find-crawl-patrol-replace-leisure |  
+| bip_39_word_dash_8 | rebuild-jeans-find-crawl-patrol-replace-leisure-embody |  
+| bip_39_word_dash_9 | rebuild-jeans-find-crawl-patrol-replace-leisure-embody-security |  
 | bip_39_word_new_br_1 | rebuild |  
 | bip_39_word_new_br_10 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody<br>security<br>open |  
 | bip_39_word_new_br_11 | rebuild<br>jeans<br>find<br>crawl<br>patrol<br>replace<br>leisure<br>embody<br>security<br>open<br>income |  
@@ -147,6 +159,18 @@ security |
 | bip_39_word_space_7 | rebuild jeans find crawl patrol replace leisure |  
 | bip_39_word_space_8 | rebuild jeans find crawl patrol replace leisure embody |  
 | bip_39_word_space_9 | rebuild jeans find crawl patrol replace leisure embody security |  
+| bip_39_word_underscore_1 | rebuild |  
+| bip_39_word_underscore_10 | rebuild_jeans_find_crawl_patrol_replace_leisure_embody_security_open |  
+| bip_39_word_underscore_11 | rebuild_jeans_find_crawl_patrol_replace_leisure_embody_security_open_income |  
+| bip_39_word_underscore_12 | rebuild_jeans_find_crawl_patrol_replace_leisure_embody_security_open_income_around |  
+| bip_39_word_underscore_2 | rebuild_jeans |  
+| bip_39_word_underscore_3 | rebuild_jeans_find |  
+| bip_39_word_underscore_4 | rebuild_jeans_find_crawl |  
+| bip_39_word_underscore_5 | rebuild_jeans_find_crawl_patrol |  
+| bip_39_word_underscore_6 | rebuild_jeans_find_crawl_patrol_replace |  
+| bip_39_word_underscore_7 | rebuild_jeans_find_crawl_patrol_replace_leisure |  
+| bip_39_word_underscore_8 | rebuild_jeans_find_crawl_patrol_replace_leisure_embody |  
+| bip_39_word_underscore_9 | rebuild_jeans_find_crawl_patrol_replace_leisure_embody_security |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | photo |  
+| bip_39_word_dash_10 | photo-kitchen-play-trigger-muscle-fever-boss-dirt-swing-cousin |  
+| bip_39_word_dash_11 | photo-kitchen-play-trigger-muscle-fever-boss-dirt-swing-cousin-humble |  
+| bip_39_word_dash_12 | photo-kitchen-play-trigger-muscle-fever-boss-dirt-swing-cousin-humble-airport |  
+| bip_39_word_dash_2 | photo-kitchen |  
+| bip_39_word_dash_3 | photo-kitchen-play |  
+| bip_39_word_dash_4 | photo-kitchen-play-trigger |  
+| bip_39_word_dash_5 | photo-kitchen-play-trigger-muscle |  
+| bip_39_word_dash_6 | photo-kitchen-play-trigger-muscle-fever |  
+| bip_39_word_dash_7 | photo-kitchen-play-trigger-muscle-fever-boss |  
+| bip_39_word_dash_8 | photo-kitchen-play-trigger-muscle-fever-boss-dirt |  
+| bip_39_word_dash_9 | photo-kitchen-play-trigger-muscle-fever-boss-dirt-swing |  
 | bip_39_word_new_br_1 | photo |  
 | bip_39_word_new_br_10 | photo<br>kitchen<br>play<br>trigger<br>muscle<br>fever<br>boss<br>dirt<br>swing<br>cousin |  
 | bip_39_word_new_br_11 | photo<br>kitchen<br>play<br>trigger<br>muscle<br>fever<br>boss<br>dirt<br>swing<br>cousin<br>humble |  
@@ -147,6 +159,18 @@ swing |
 | bip_39_word_space_7 | photo kitchen play trigger muscle fever boss |  
 | bip_39_word_space_8 | photo kitchen play trigger muscle fever boss dirt |  
 | bip_39_word_space_9 | photo kitchen play trigger muscle fever boss dirt swing |  
+| bip_39_word_underscore_1 | photo |  
+| bip_39_word_underscore_10 | photo_kitchen_play_trigger_muscle_fever_boss_dirt_swing_cousin |  
+| bip_39_word_underscore_11 | photo_kitchen_play_trigger_muscle_fever_boss_dirt_swing_cousin_humble |  
+| bip_39_word_underscore_12 | photo_kitchen_play_trigger_muscle_fever_boss_dirt_swing_cousin_humble_airport |  
+| bip_39_word_underscore_2 | photo_kitchen |  
+| bip_39_word_underscore_3 | photo_kitchen_play |  
+| bip_39_word_underscore_4 | photo_kitchen_play_trigger |  
+| bip_39_word_underscore_5 | photo_kitchen_play_trigger_muscle |  
+| bip_39_word_underscore_6 | photo_kitchen_play_trigger_muscle_fever |  
+| bip_39_word_underscore_7 | photo_kitchen_play_trigger_muscle_fever_boss |  
+| bip_39_word_underscore_8 | photo_kitchen_play_trigger_muscle_fever_boss_dirt |  
+| bip_39_word_underscore_9 | photo_kitchen_play_trigger_muscle_fever_boss_dirt_swing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

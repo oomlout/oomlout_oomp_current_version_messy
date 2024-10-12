@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jaguar |  
+| bip_39_word_dash_10 | jaguar-judge-slice-keep-web-nose-jump-lab-barrel-ethics |  
+| bip_39_word_dash_11 | jaguar-judge-slice-keep-web-nose-jump-lab-barrel-ethics-gather |  
+| bip_39_word_dash_12 | jaguar-judge-slice-keep-web-nose-jump-lab-barrel-ethics-gather-announce |  
+| bip_39_word_dash_2 | jaguar-judge |  
+| bip_39_word_dash_3 | jaguar-judge-slice |  
+| bip_39_word_dash_4 | jaguar-judge-slice-keep |  
+| bip_39_word_dash_5 | jaguar-judge-slice-keep-web |  
+| bip_39_word_dash_6 | jaguar-judge-slice-keep-web-nose |  
+| bip_39_word_dash_7 | jaguar-judge-slice-keep-web-nose-jump |  
+| bip_39_word_dash_8 | jaguar-judge-slice-keep-web-nose-jump-lab |  
+| bip_39_word_dash_9 | jaguar-judge-slice-keep-web-nose-jump-lab-barrel |  
 | bip_39_word_new_br_1 | jaguar |  
 | bip_39_word_new_br_10 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab<br>barrel<br>ethics |  
 | bip_39_word_new_br_11 | jaguar<br>judge<br>slice<br>keep<br>web<br>nose<br>jump<br>lab<br>barrel<br>ethics<br>gather |  
@@ -147,6 +159,18 @@ barrel |
 | bip_39_word_space_7 | jaguar judge slice keep web nose jump |  
 | bip_39_word_space_8 | jaguar judge slice keep web nose jump lab |  
 | bip_39_word_space_9 | jaguar judge slice keep web nose jump lab barrel |  
+| bip_39_word_underscore_1 | jaguar |  
+| bip_39_word_underscore_10 | jaguar_judge_slice_keep_web_nose_jump_lab_barrel_ethics |  
+| bip_39_word_underscore_11 | jaguar_judge_slice_keep_web_nose_jump_lab_barrel_ethics_gather |  
+| bip_39_word_underscore_12 | jaguar_judge_slice_keep_web_nose_jump_lab_barrel_ethics_gather_announce |  
+| bip_39_word_underscore_2 | jaguar_judge |  
+| bip_39_word_underscore_3 | jaguar_judge_slice |  
+| bip_39_word_underscore_4 | jaguar_judge_slice_keep |  
+| bip_39_word_underscore_5 | jaguar_judge_slice_keep_web |  
+| bip_39_word_underscore_6 | jaguar_judge_slice_keep_web_nose |  
+| bip_39_word_underscore_7 | jaguar_judge_slice_keep_web_nose_jump |  
+| bip_39_word_underscore_8 | jaguar_judge_slice_keep_web_nose_jump_lab |  
+| bip_39_word_underscore_9 | jaguar_judge_slice_keep_web_nose_jump_lab_barrel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

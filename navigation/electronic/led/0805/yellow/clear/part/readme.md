@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alien |  
+| bip_39_word_dash_10 | alien-maid-crunch-logic-crop-ivory-merge-ancient-attend-dice |  
+| bip_39_word_dash_11 | alien-maid-crunch-logic-crop-ivory-merge-ancient-attend-dice-gasp |  
+| bip_39_word_dash_12 | alien-maid-crunch-logic-crop-ivory-merge-ancient-attend-dice-gasp-attack |  
+| bip_39_word_dash_2 | alien-maid |  
+| bip_39_word_dash_3 | alien-maid-crunch |  
+| bip_39_word_dash_4 | alien-maid-crunch-logic |  
+| bip_39_word_dash_5 | alien-maid-crunch-logic-crop |  
+| bip_39_word_dash_6 | alien-maid-crunch-logic-crop-ivory |  
+| bip_39_word_dash_7 | alien-maid-crunch-logic-crop-ivory-merge |  
+| bip_39_word_dash_8 | alien-maid-crunch-logic-crop-ivory-merge-ancient |  
+| bip_39_word_dash_9 | alien-maid-crunch-logic-crop-ivory-merge-ancient-attend |  
 | bip_39_word_new_br_1 | alien |  
 | bip_39_word_new_br_10 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice |  
 | bip_39_word_new_br_11 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice<br>gasp |  
@@ -147,6 +159,18 @@ attend |
 | bip_39_word_space_7 | alien maid crunch logic crop ivory merge |  
 | bip_39_word_space_8 | alien maid crunch logic crop ivory merge ancient |  
 | bip_39_word_space_9 | alien maid crunch logic crop ivory merge ancient attend |  
+| bip_39_word_underscore_1 | alien |  
+| bip_39_word_underscore_10 | alien_maid_crunch_logic_crop_ivory_merge_ancient_attend_dice |  
+| bip_39_word_underscore_11 | alien_maid_crunch_logic_crop_ivory_merge_ancient_attend_dice_gasp |  
+| bip_39_word_underscore_12 | alien_maid_crunch_logic_crop_ivory_merge_ancient_attend_dice_gasp_attack |  
+| bip_39_word_underscore_2 | alien_maid |  
+| bip_39_word_underscore_3 | alien_maid_crunch |  
+| bip_39_word_underscore_4 | alien_maid_crunch_logic |  
+| bip_39_word_underscore_5 | alien_maid_crunch_logic_crop |  
+| bip_39_word_underscore_6 | alien_maid_crunch_logic_crop_ivory |  
+| bip_39_word_underscore_7 | alien_maid_crunch_logic_crop_ivory_merge |  
+| bip_39_word_underscore_8 | alien_maid_crunch_logic_crop_ivory_merge_ancient |  
+| bip_39_word_underscore_9 | alien_maid_crunch_logic_crop_ivory_merge_ancient_attend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

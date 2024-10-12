@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | south |  
+| bip_39_word_dash_10 | south-modify-focus-decrease-guess-plug-also-blade-lyrics-cash |  
+| bip_39_word_dash_11 | south-modify-focus-decrease-guess-plug-also-blade-lyrics-cash-feature |  
+| bip_39_word_dash_12 | south-modify-focus-decrease-guess-plug-also-blade-lyrics-cash-feature-ancient |  
+| bip_39_word_dash_2 | south-modify |  
+| bip_39_word_dash_3 | south-modify-focus |  
+| bip_39_word_dash_4 | south-modify-focus-decrease |  
+| bip_39_word_dash_5 | south-modify-focus-decrease-guess |  
+| bip_39_word_dash_6 | south-modify-focus-decrease-guess-plug |  
+| bip_39_word_dash_7 | south-modify-focus-decrease-guess-plug-also |  
+| bip_39_word_dash_8 | south-modify-focus-decrease-guess-plug-also-blade |  
+| bip_39_word_dash_9 | south-modify-focus-decrease-guess-plug-also-blade-lyrics |  
 | bip_39_word_new_br_1 | south |  
 | bip_39_word_new_br_10 | south<br>modify<br>focus<br>decrease<br>guess<br>plug<br>also<br>blade<br>lyrics<br>cash |  
 | bip_39_word_new_br_11 | south<br>modify<br>focus<br>decrease<br>guess<br>plug<br>also<br>blade<br>lyrics<br>cash<br>feature |  
@@ -147,6 +159,18 @@ lyrics |
 | bip_39_word_space_7 | south modify focus decrease guess plug also |  
 | bip_39_word_space_8 | south modify focus decrease guess plug also blade |  
 | bip_39_word_space_9 | south modify focus decrease guess plug also blade lyrics |  
+| bip_39_word_underscore_1 | south |  
+| bip_39_word_underscore_10 | south_modify_focus_decrease_guess_plug_also_blade_lyrics_cash |  
+| bip_39_word_underscore_11 | south_modify_focus_decrease_guess_plug_also_blade_lyrics_cash_feature |  
+| bip_39_word_underscore_12 | south_modify_focus_decrease_guess_plug_also_blade_lyrics_cash_feature_ancient |  
+| bip_39_word_underscore_2 | south_modify |  
+| bip_39_word_underscore_3 | south_modify_focus |  
+| bip_39_word_underscore_4 | south_modify_focus_decrease |  
+| bip_39_word_underscore_5 | south_modify_focus_decrease_guess |  
+| bip_39_word_underscore_6 | south_modify_focus_decrease_guess_plug |  
+| bip_39_word_underscore_7 | south_modify_focus_decrease_guess_plug_also |  
+| bip_39_word_underscore_8 | south_modify_focus_decrease_guess_plug_also_blade |  
+| bip_39_word_underscore_9 | south_modify_focus_decrease_guess_plug_also_blade_lyrics |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: joke
+bip_39_word_dash_10: joke-random-fatigue-hedgehog-shoulder-praise-patch-reform-inflict-alert
+bip_39_word_dash_11: joke-random-fatigue-hedgehog-shoulder-praise-patch-reform-inflict-alert-torch
+bip_39_word_dash_12: joke-random-fatigue-hedgehog-shoulder-praise-patch-reform-inflict-alert-torch-able
+bip_39_word_dash_2: joke-random
+bip_39_word_dash_3: joke-random-fatigue
+bip_39_word_dash_4: joke-random-fatigue-hedgehog
+bip_39_word_dash_5: joke-random-fatigue-hedgehog-shoulder
+bip_39_word_dash_6: joke-random-fatigue-hedgehog-shoulder-praise
+bip_39_word_dash_7: joke-random-fatigue-hedgehog-shoulder-praise-patch
+bip_39_word_dash_8: joke-random-fatigue-hedgehog-shoulder-praise-patch-reform
+bip_39_word_dash_9: joke-random-fatigue-hedgehog-shoulder-praise-patch-reform-inflict
 bip_39_word_new_br_1: joke
 bip_39_word_new_br_10: joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform<br>inflict<br>alert
 bip_39_word_new_br_11: joke<br>random<br>fatigue<br>hedgehog<br>shoulder<br>praise<br>patch<br>reform<br>inflict<br>alert<br>torch
@@ -194,6 +206,18 @@ bip_39_word_space_6: joke random fatigue hedgehog shoulder praise
 bip_39_word_space_7: joke random fatigue hedgehog shoulder praise patch
 bip_39_word_space_8: joke random fatigue hedgehog shoulder praise patch reform
 bip_39_word_space_9: joke random fatigue hedgehog shoulder praise patch reform inflict
+bip_39_word_underscore_1: joke
+bip_39_word_underscore_10: joke_random_fatigue_hedgehog_shoulder_praise_patch_reform_inflict_alert
+bip_39_word_underscore_11: joke_random_fatigue_hedgehog_shoulder_praise_patch_reform_inflict_alert_torch
+bip_39_word_underscore_12: joke_random_fatigue_hedgehog_shoulder_praise_patch_reform_inflict_alert_torch_able
+bip_39_word_underscore_2: joke_random
+bip_39_word_underscore_3: joke_random_fatigue
+bip_39_word_underscore_4: joke_random_fatigue_hedgehog
+bip_39_word_underscore_5: joke_random_fatigue_hedgehog_shoulder
+bip_39_word_underscore_6: joke_random_fatigue_hedgehog_shoulder_praise
+bip_39_word_underscore_7: joke_random_fatigue_hedgehog_shoulder_praise_patch
+bip_39_word_underscore_8: joke_random_fatigue_hedgehog_shoulder_praise_patch_reform
+bip_39_word_underscore_9: joke_random_fatigue_hedgehog_shoulder_praise_patch_reform_inflict
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

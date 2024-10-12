@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tonight |  
+| bip_39_word_dash_10 | tonight-gauge-behave-tumble-inform-run-fruit-used-copy-meadow |  
+| bip_39_word_dash_11 | tonight-gauge-behave-tumble-inform-run-fruit-used-copy-meadow-analyst |  
+| bip_39_word_dash_12 | tonight-gauge-behave-tumble-inform-run-fruit-used-copy-meadow-analyst-agent |  
+| bip_39_word_dash_2 | tonight-gauge |  
+| bip_39_word_dash_3 | tonight-gauge-behave |  
+| bip_39_word_dash_4 | tonight-gauge-behave-tumble |  
+| bip_39_word_dash_5 | tonight-gauge-behave-tumble-inform |  
+| bip_39_word_dash_6 | tonight-gauge-behave-tumble-inform-run |  
+| bip_39_word_dash_7 | tonight-gauge-behave-tumble-inform-run-fruit |  
+| bip_39_word_dash_8 | tonight-gauge-behave-tumble-inform-run-fruit-used |  
+| bip_39_word_dash_9 | tonight-gauge-behave-tumble-inform-run-fruit-used-copy |  
 | bip_39_word_new_br_1 | tonight |  
 | bip_39_word_new_br_10 | tonight<br>gauge<br>behave<br>tumble<br>inform<br>run<br>fruit<br>used<br>copy<br>meadow |  
 | bip_39_word_new_br_11 | tonight<br>gauge<br>behave<br>tumble<br>inform<br>run<br>fruit<br>used<br>copy<br>meadow<br>analyst |  
@@ -147,6 +159,18 @@ copy |
 | bip_39_word_space_7 | tonight gauge behave tumble inform run fruit |  
 | bip_39_word_space_8 | tonight gauge behave tumble inform run fruit used |  
 | bip_39_word_space_9 | tonight gauge behave tumble inform run fruit used copy |  
+| bip_39_word_underscore_1 | tonight |  
+| bip_39_word_underscore_10 | tonight_gauge_behave_tumble_inform_run_fruit_used_copy_meadow |  
+| bip_39_word_underscore_11 | tonight_gauge_behave_tumble_inform_run_fruit_used_copy_meadow_analyst |  
+| bip_39_word_underscore_12 | tonight_gauge_behave_tumble_inform_run_fruit_used_copy_meadow_analyst_agent |  
+| bip_39_word_underscore_2 | tonight_gauge |  
+| bip_39_word_underscore_3 | tonight_gauge_behave |  
+| bip_39_word_underscore_4 | tonight_gauge_behave_tumble |  
+| bip_39_word_underscore_5 | tonight_gauge_behave_tumble_inform |  
+| bip_39_word_underscore_6 | tonight_gauge_behave_tumble_inform_run |  
+| bip_39_word_underscore_7 | tonight_gauge_behave_tumble_inform_run_fruit |  
+| bip_39_word_underscore_8 | tonight_gauge_behave_tumble_inform_run_fruit_used |  
+| bip_39_word_underscore_9 | tonight_gauge_behave_tumble_inform_run_fruit_used_copy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

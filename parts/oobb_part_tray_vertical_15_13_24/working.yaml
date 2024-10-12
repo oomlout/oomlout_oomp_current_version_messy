@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crater
+bip_39_word_dash_10: crater-festival-gospel-man-swallow-column-rotate-identify-bean-summer
+bip_39_word_dash_11: crater-festival-gospel-man-swallow-column-rotate-identify-bean-summer-print
+bip_39_word_dash_12: crater-festival-gospel-man-swallow-column-rotate-identify-bean-summer-print-apology
+bip_39_word_dash_2: crater-festival
+bip_39_word_dash_3: crater-festival-gospel
+bip_39_word_dash_4: crater-festival-gospel-man
+bip_39_word_dash_5: crater-festival-gospel-man-swallow
+bip_39_word_dash_6: crater-festival-gospel-man-swallow-column
+bip_39_word_dash_7: crater-festival-gospel-man-swallow-column-rotate
+bip_39_word_dash_8: crater-festival-gospel-man-swallow-column-rotate-identify
+bip_39_word_dash_9: crater-festival-gospel-man-swallow-column-rotate-identify-bean
 bip_39_word_new_br_1: crater
 bip_39_word_new_br_10: crater<br>festival<br>gospel<br>man<br>swallow<br>column<br>rotate<br>identify<br>bean<br>summer
 bip_39_word_new_br_11: crater<br>festival<br>gospel<br>man<br>swallow<br>column<br>rotate<br>identify<br>bean<br>summer<br>print
@@ -194,6 +206,18 @@ bip_39_word_space_6: crater festival gospel man swallow column
 bip_39_word_space_7: crater festival gospel man swallow column rotate
 bip_39_word_space_8: crater festival gospel man swallow column rotate identify
 bip_39_word_space_9: crater festival gospel man swallow column rotate identify bean
+bip_39_word_underscore_1: crater
+bip_39_word_underscore_10: crater_festival_gospel_man_swallow_column_rotate_identify_bean_summer
+bip_39_word_underscore_11: crater_festival_gospel_man_swallow_column_rotate_identify_bean_summer_print
+bip_39_word_underscore_12: crater_festival_gospel_man_swallow_column_rotate_identify_bean_summer_print_apology
+bip_39_word_underscore_2: crater_festival
+bip_39_word_underscore_3: crater_festival_gospel
+bip_39_word_underscore_4: crater_festival_gospel_man
+bip_39_word_underscore_5: crater_festival_gospel_man_swallow
+bip_39_word_underscore_6: crater_festival_gospel_man_swallow_column
+bip_39_word_underscore_7: crater_festival_gospel_man_swallow_column_rotate
+bip_39_word_underscore_8: crater_festival_gospel_man_swallow_column_rotate_identify
+bip_39_word_underscore_9: crater_festival_gospel_man_swallow_column_rotate_identify_bean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: until
+bip_39_word_dash_10: until-title-common-dirt-repeat-toilet-anchor-chuckle-castle-brown
+bip_39_word_dash_11: until-title-common-dirt-repeat-toilet-anchor-chuckle-castle-brown-enrich
+bip_39_word_dash_12: until-title-common-dirt-repeat-toilet-anchor-chuckle-castle-brown-enrich-around
+bip_39_word_dash_2: until-title
+bip_39_word_dash_3: until-title-common
+bip_39_word_dash_4: until-title-common-dirt
+bip_39_word_dash_5: until-title-common-dirt-repeat
+bip_39_word_dash_6: until-title-common-dirt-repeat-toilet
+bip_39_word_dash_7: until-title-common-dirt-repeat-toilet-anchor
+bip_39_word_dash_8: until-title-common-dirt-repeat-toilet-anchor-chuckle
+bip_39_word_dash_9: until-title-common-dirt-repeat-toilet-anchor-chuckle-castle
 bip_39_word_new_br_1: until
 bip_39_word_new_br_10: until<br>title<br>common<br>dirt<br>repeat<br>toilet<br>anchor<br>chuckle<br>castle<br>brown
 bip_39_word_new_br_11: until<br>title<br>common<br>dirt<br>repeat<br>toilet<br>anchor<br>chuckle<br>castle<br>brown<br>enrich
@@ -194,6 +206,18 @@ bip_39_word_space_6: until title common dirt repeat toilet
 bip_39_word_space_7: until title common dirt repeat toilet anchor
 bip_39_word_space_8: until title common dirt repeat toilet anchor chuckle
 bip_39_word_space_9: until title common dirt repeat toilet anchor chuckle castle
+bip_39_word_underscore_1: until
+bip_39_word_underscore_10: until_title_common_dirt_repeat_toilet_anchor_chuckle_castle_brown
+bip_39_word_underscore_11: until_title_common_dirt_repeat_toilet_anchor_chuckle_castle_brown_enrich
+bip_39_word_underscore_12: until_title_common_dirt_repeat_toilet_anchor_chuckle_castle_brown_enrich_around
+bip_39_word_underscore_2: until_title
+bip_39_word_underscore_3: until_title_common
+bip_39_word_underscore_4: until_title_common_dirt
+bip_39_word_underscore_5: until_title_common_dirt_repeat
+bip_39_word_underscore_6: until_title_common_dirt_repeat_toilet
+bip_39_word_underscore_7: until_title_common_dirt_repeat_toilet_anchor
+bip_39_word_underscore_8: until_title_common_dirt_repeat_toilet_anchor_chuckle
+bip_39_word_underscore_9: until_title_common_dirt_repeat_toilet_anchor_chuckle_castle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: patch
+bip_39_word_dash_10: patch-spike-share-ordinary-oxygen-kid-swarm-behave-fortune-home
+bip_39_word_dash_11: patch-spike-share-ordinary-oxygen-kid-swarm-behave-fortune-home-one
+bip_39_word_dash_12: patch-spike-share-ordinary-oxygen-kid-swarm-behave-fortune-home-one-album
+bip_39_word_dash_2: patch-spike
+bip_39_word_dash_3: patch-spike-share
+bip_39_word_dash_4: patch-spike-share-ordinary
+bip_39_word_dash_5: patch-spike-share-ordinary-oxygen
+bip_39_word_dash_6: patch-spike-share-ordinary-oxygen-kid
+bip_39_word_dash_7: patch-spike-share-ordinary-oxygen-kid-swarm
+bip_39_word_dash_8: patch-spike-share-ordinary-oxygen-kid-swarm-behave
+bip_39_word_dash_9: patch-spike-share-ordinary-oxygen-kid-swarm-behave-fortune
 bip_39_word_new_br_1: patch
 bip_39_word_new_br_10: patch<br>spike<br>share<br>ordinary<br>oxygen<br>kid<br>swarm<br>behave<br>fortune<br>home
 bip_39_word_new_br_11: patch<br>spike<br>share<br>ordinary<br>oxygen<br>kid<br>swarm<br>behave<br>fortune<br>home<br>one
@@ -193,6 +205,18 @@ bip_39_word_space_6: patch spike share ordinary oxygen kid
 bip_39_word_space_7: patch spike share ordinary oxygen kid swarm
 bip_39_word_space_8: patch spike share ordinary oxygen kid swarm behave
 bip_39_word_space_9: patch spike share ordinary oxygen kid swarm behave fortune
+bip_39_word_underscore_1: patch
+bip_39_word_underscore_10: patch_spike_share_ordinary_oxygen_kid_swarm_behave_fortune_home
+bip_39_word_underscore_11: patch_spike_share_ordinary_oxygen_kid_swarm_behave_fortune_home_one
+bip_39_word_underscore_12: patch_spike_share_ordinary_oxygen_kid_swarm_behave_fortune_home_one_album
+bip_39_word_underscore_2: patch_spike
+bip_39_word_underscore_3: patch_spike_share
+bip_39_word_underscore_4: patch_spike_share_ordinary
+bip_39_word_underscore_5: patch_spike_share_ordinary_oxygen
+bip_39_word_underscore_6: patch_spike_share_ordinary_oxygen_kid
+bip_39_word_underscore_7: patch_spike_share_ordinary_oxygen_kid_swarm
+bip_39_word_underscore_8: patch_spike_share_ordinary_oxygen_kid_swarm_behave
+bip_39_word_underscore_9: patch_spike_share_ordinary_oxygen_kid_swarm_behave_fortune
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

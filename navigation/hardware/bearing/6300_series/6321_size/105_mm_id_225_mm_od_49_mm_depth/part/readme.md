@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | broom |  
+| bip_39_word_dash_10 | broom-photo-essay-inmate-video-access-thought-general-tide-never |  
+| bip_39_word_dash_11 | broom-photo-essay-inmate-video-access-thought-general-tide-never-secret |  
+| bip_39_word_dash_12 | broom-photo-essay-inmate-video-access-thought-general-tide-never-secret-aim |  
+| bip_39_word_dash_2 | broom-photo |  
+| bip_39_word_dash_3 | broom-photo-essay |  
+| bip_39_word_dash_4 | broom-photo-essay-inmate |  
+| bip_39_word_dash_5 | broom-photo-essay-inmate-video |  
+| bip_39_word_dash_6 | broom-photo-essay-inmate-video-access |  
+| bip_39_word_dash_7 | broom-photo-essay-inmate-video-access-thought |  
+| bip_39_word_dash_8 | broom-photo-essay-inmate-video-access-thought-general |  
+| bip_39_word_dash_9 | broom-photo-essay-inmate-video-access-thought-general-tide |  
 | bip_39_word_new_br_1 | broom |  
 | bip_39_word_new_br_10 | broom<br>photo<br>essay<br>inmate<br>video<br>access<br>thought<br>general<br>tide<br>never |  
 | bip_39_word_new_br_11 | broom<br>photo<br>essay<br>inmate<br>video<br>access<br>thought<br>general<br>tide<br>never<br>secret |  
@@ -147,6 +159,18 @@ tide |
 | bip_39_word_space_7 | broom photo essay inmate video access thought |  
 | bip_39_word_space_8 | broom photo essay inmate video access thought general |  
 | bip_39_word_space_9 | broom photo essay inmate video access thought general tide |  
+| bip_39_word_underscore_1 | broom |  
+| bip_39_word_underscore_10 | broom_photo_essay_inmate_video_access_thought_general_tide_never |  
+| bip_39_word_underscore_11 | broom_photo_essay_inmate_video_access_thought_general_tide_never_secret |  
+| bip_39_word_underscore_12 | broom_photo_essay_inmate_video_access_thought_general_tide_never_secret_aim |  
+| bip_39_word_underscore_2 | broom_photo |  
+| bip_39_word_underscore_3 | broom_photo_essay |  
+| bip_39_word_underscore_4 | broom_photo_essay_inmate |  
+| bip_39_word_underscore_5 | broom_photo_essay_inmate_video |  
+| bip_39_word_underscore_6 | broom_photo_essay_inmate_video_access |  
+| bip_39_word_underscore_7 | broom_photo_essay_inmate_video_access_thought |  
+| bip_39_word_underscore_8 | broom_photo_essay_inmate_video_access_thought_general |  
+| bip_39_word_underscore_9 | broom_photo_essay_inmate_video_access_thought_general_tide |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

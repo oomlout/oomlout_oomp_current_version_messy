@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | notice |  
+| bip_39_word_dash_10 | notice-myself-ignore-hand-assault-clinic-ordinary-humor-special-daring |  
+| bip_39_word_dash_11 | notice-myself-ignore-hand-assault-clinic-ordinary-humor-special-daring-devote |  
+| bip_39_word_dash_12 | notice-myself-ignore-hand-assault-clinic-ordinary-humor-special-daring-devote-abuse |  
+| bip_39_word_dash_2 | notice-myself |  
+| bip_39_word_dash_3 | notice-myself-ignore |  
+| bip_39_word_dash_4 | notice-myself-ignore-hand |  
+| bip_39_word_dash_5 | notice-myself-ignore-hand-assault |  
+| bip_39_word_dash_6 | notice-myself-ignore-hand-assault-clinic |  
+| bip_39_word_dash_7 | notice-myself-ignore-hand-assault-clinic-ordinary |  
+| bip_39_word_dash_8 | notice-myself-ignore-hand-assault-clinic-ordinary-humor |  
+| bip_39_word_dash_9 | notice-myself-ignore-hand-assault-clinic-ordinary-humor-special |  
 | bip_39_word_new_br_1 | notice |  
 | bip_39_word_new_br_10 | notice<br>myself<br>ignore<br>hand<br>assault<br>clinic<br>ordinary<br>humor<br>special<br>daring |  
 | bip_39_word_new_br_11 | notice<br>myself<br>ignore<br>hand<br>assault<br>clinic<br>ordinary<br>humor<br>special<br>daring<br>devote |  
@@ -147,6 +159,18 @@ special |
 | bip_39_word_space_7 | notice myself ignore hand assault clinic ordinary |  
 | bip_39_word_space_8 | notice myself ignore hand assault clinic ordinary humor |  
 | bip_39_word_space_9 | notice myself ignore hand assault clinic ordinary humor special |  
+| bip_39_word_underscore_1 | notice |  
+| bip_39_word_underscore_10 | notice_myself_ignore_hand_assault_clinic_ordinary_humor_special_daring |  
+| bip_39_word_underscore_11 | notice_myself_ignore_hand_assault_clinic_ordinary_humor_special_daring_devote |  
+| bip_39_word_underscore_12 | notice_myself_ignore_hand_assault_clinic_ordinary_humor_special_daring_devote_abuse |  
+| bip_39_word_underscore_2 | notice_myself |  
+| bip_39_word_underscore_3 | notice_myself_ignore |  
+| bip_39_word_underscore_4 | notice_myself_ignore_hand |  
+| bip_39_word_underscore_5 | notice_myself_ignore_hand_assault |  
+| bip_39_word_underscore_6 | notice_myself_ignore_hand_assault_clinic |  
+| bip_39_word_underscore_7 | notice_myself_ignore_hand_assault_clinic_ordinary |  
+| bip_39_word_underscore_8 | notice_myself_ignore_hand_assault_clinic_ordinary_humor |  
+| bip_39_word_underscore_9 | notice_myself_ignore_hand_assault_clinic_ordinary_humor_special |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

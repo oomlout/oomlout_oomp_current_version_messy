@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | husband |  
+| bip_39_word_dash_10 | husband-quick-piano-chair-auction-fuel-jump-giggle-diet-hawk |  
+| bip_39_word_dash_11 | husband-quick-piano-chair-auction-fuel-jump-giggle-diet-hawk-keen |  
+| bip_39_word_dash_12 | husband-quick-piano-chair-auction-fuel-jump-giggle-diet-hawk-keen-access |  
+| bip_39_word_dash_2 | husband-quick |  
+| bip_39_word_dash_3 | husband-quick-piano |  
+| bip_39_word_dash_4 | husband-quick-piano-chair |  
+| bip_39_word_dash_5 | husband-quick-piano-chair-auction |  
+| bip_39_word_dash_6 | husband-quick-piano-chair-auction-fuel |  
+| bip_39_word_dash_7 | husband-quick-piano-chair-auction-fuel-jump |  
+| bip_39_word_dash_8 | husband-quick-piano-chair-auction-fuel-jump-giggle |  
+| bip_39_word_dash_9 | husband-quick-piano-chair-auction-fuel-jump-giggle-diet |  
 | bip_39_word_new_br_1 | husband |  
 | bip_39_word_new_br_10 | husband<br>quick<br>piano<br>chair<br>auction<br>fuel<br>jump<br>giggle<br>diet<br>hawk |  
 | bip_39_word_new_br_11 | husband<br>quick<br>piano<br>chair<br>auction<br>fuel<br>jump<br>giggle<br>diet<br>hawk<br>keen |  
@@ -147,6 +159,18 @@ diet |
 | bip_39_word_space_7 | husband quick piano chair auction fuel jump |  
 | bip_39_word_space_8 | husband quick piano chair auction fuel jump giggle |  
 | bip_39_word_space_9 | husband quick piano chair auction fuel jump giggle diet |  
+| bip_39_word_underscore_1 | husband |  
+| bip_39_word_underscore_10 | husband_quick_piano_chair_auction_fuel_jump_giggle_diet_hawk |  
+| bip_39_word_underscore_11 | husband_quick_piano_chair_auction_fuel_jump_giggle_diet_hawk_keen |  
+| bip_39_word_underscore_12 | husband_quick_piano_chair_auction_fuel_jump_giggle_diet_hawk_keen_access |  
+| bip_39_word_underscore_2 | husband_quick |  
+| bip_39_word_underscore_3 | husband_quick_piano |  
+| bip_39_word_underscore_4 | husband_quick_piano_chair |  
+| bip_39_word_underscore_5 | husband_quick_piano_chair_auction |  
+| bip_39_word_underscore_6 | husband_quick_piano_chair_auction_fuel |  
+| bip_39_word_underscore_7 | husband_quick_piano_chair_auction_fuel_jump |  
+| bip_39_word_underscore_8 | husband_quick_piano_chair_auction_fuel_jump_giggle |  
+| bip_39_word_underscore_9 | husband_quick_piano_chair_auction_fuel_jump_giggle_diet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

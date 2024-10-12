@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | office |  
+| bip_39_word_dash_10 | office-elite-off-erupt-retreat-brother-turkey-goose-rail-settle |  
+| bip_39_word_dash_11 | office-elite-off-erupt-retreat-brother-turkey-goose-rail-settle-supreme |  
+| bip_39_word_dash_12 | office-elite-off-erupt-retreat-brother-turkey-goose-rail-settle-supreme-alpha |  
+| bip_39_word_dash_2 | office-elite |  
+| bip_39_word_dash_3 | office-elite-off |  
+| bip_39_word_dash_4 | office-elite-off-erupt |  
+| bip_39_word_dash_5 | office-elite-off-erupt-retreat |  
+| bip_39_word_dash_6 | office-elite-off-erupt-retreat-brother |  
+| bip_39_word_dash_7 | office-elite-off-erupt-retreat-brother-turkey |  
+| bip_39_word_dash_8 | office-elite-off-erupt-retreat-brother-turkey-goose |  
+| bip_39_word_dash_9 | office-elite-off-erupt-retreat-brother-turkey-goose-rail |  
 | bip_39_word_new_br_1 | office |  
 | bip_39_word_new_br_10 | office<br>elite<br>off<br>erupt<br>retreat<br>brother<br>turkey<br>goose<br>rail<br>settle |  
 | bip_39_word_new_br_11 | office<br>elite<br>off<br>erupt<br>retreat<br>brother<br>turkey<br>goose<br>rail<br>settle<br>supreme |  
@@ -147,6 +159,18 @@ rail |
 | bip_39_word_space_7 | office elite off erupt retreat brother turkey |  
 | bip_39_word_space_8 | office elite off erupt retreat brother turkey goose |  
 | bip_39_word_space_9 | office elite off erupt retreat brother turkey goose rail |  
+| bip_39_word_underscore_1 | office |  
+| bip_39_word_underscore_10 | office_elite_off_erupt_retreat_brother_turkey_goose_rail_settle |  
+| bip_39_word_underscore_11 | office_elite_off_erupt_retreat_brother_turkey_goose_rail_settle_supreme |  
+| bip_39_word_underscore_12 | office_elite_off_erupt_retreat_brother_turkey_goose_rail_settle_supreme_alpha |  
+| bip_39_word_underscore_2 | office_elite |  
+| bip_39_word_underscore_3 | office_elite_off |  
+| bip_39_word_underscore_4 | office_elite_off_erupt |  
+| bip_39_word_underscore_5 | office_elite_off_erupt_retreat |  
+| bip_39_word_underscore_6 | office_elite_off_erupt_retreat_brother |  
+| bip_39_word_underscore_7 | office_elite_off_erupt_retreat_brother_turkey |  
+| bip_39_word_underscore_8 | office_elite_off_erupt_retreat_brother_turkey_goose |  
+| bip_39_word_underscore_9 | office_elite_off_erupt_retreat_brother_turkey_goose_rail |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

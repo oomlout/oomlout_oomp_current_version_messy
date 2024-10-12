@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vehicle
+bip_39_word_dash_10: vehicle-pear-satisfy-grid-quantum-switch-buyer-trophy-load-kitten
+bip_39_word_dash_11: vehicle-pear-satisfy-grid-quantum-switch-buyer-trophy-load-kitten-mirror
+bip_39_word_dash_12: vehicle-pear-satisfy-grid-quantum-switch-buyer-trophy-load-kitten-mirror-arrow
+bip_39_word_dash_2: vehicle-pear
+bip_39_word_dash_3: vehicle-pear-satisfy
+bip_39_word_dash_4: vehicle-pear-satisfy-grid
+bip_39_word_dash_5: vehicle-pear-satisfy-grid-quantum
+bip_39_word_dash_6: vehicle-pear-satisfy-grid-quantum-switch
+bip_39_word_dash_7: vehicle-pear-satisfy-grid-quantum-switch-buyer
+bip_39_word_dash_8: vehicle-pear-satisfy-grid-quantum-switch-buyer-trophy
+bip_39_word_dash_9: vehicle-pear-satisfy-grid-quantum-switch-buyer-trophy-load
 bip_39_word_new_br_1: vehicle
 bip_39_word_new_br_10: vehicle<br>pear<br>satisfy<br>grid<br>quantum<br>switch<br>buyer<br>trophy<br>load<br>kitten
 bip_39_word_new_br_11: vehicle<br>pear<br>satisfy<br>grid<br>quantum<br>switch<br>buyer<br>trophy<br>load<br>kitten<br>mirror
@@ -193,6 +205,18 @@ bip_39_word_space_6: vehicle pear satisfy grid quantum switch
 bip_39_word_space_7: vehicle pear satisfy grid quantum switch buyer
 bip_39_word_space_8: vehicle pear satisfy grid quantum switch buyer trophy
 bip_39_word_space_9: vehicle pear satisfy grid quantum switch buyer trophy load
+bip_39_word_underscore_1: vehicle
+bip_39_word_underscore_10: vehicle_pear_satisfy_grid_quantum_switch_buyer_trophy_load_kitten
+bip_39_word_underscore_11: vehicle_pear_satisfy_grid_quantum_switch_buyer_trophy_load_kitten_mirror
+bip_39_word_underscore_12: vehicle_pear_satisfy_grid_quantum_switch_buyer_trophy_load_kitten_mirror_arrow
+bip_39_word_underscore_2: vehicle_pear
+bip_39_word_underscore_3: vehicle_pear_satisfy
+bip_39_word_underscore_4: vehicle_pear_satisfy_grid
+bip_39_word_underscore_5: vehicle_pear_satisfy_grid_quantum
+bip_39_word_underscore_6: vehicle_pear_satisfy_grid_quantum_switch
+bip_39_word_underscore_7: vehicle_pear_satisfy_grid_quantum_switch_buyer
+bip_39_word_underscore_8: vehicle_pear_satisfy_grid_quantum_switch_buyer_trophy
+bip_39_word_underscore_9: vehicle_pear_satisfy_grid_quantum_switch_buyer_trophy_load
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

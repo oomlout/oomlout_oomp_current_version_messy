@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | misery |  
+| bip_39_word_dash_10 | misery-seven-chest-text-soul-bullet-ethics-capable-polar-hill |  
+| bip_39_word_dash_11 | misery-seven-chest-text-soul-bullet-ethics-capable-polar-hill-you |  
+| bip_39_word_dash_12 | misery-seven-chest-text-soul-bullet-ethics-capable-polar-hill-you-alone |  
+| bip_39_word_dash_2 | misery-seven |  
+| bip_39_word_dash_3 | misery-seven-chest |  
+| bip_39_word_dash_4 | misery-seven-chest-text |  
+| bip_39_word_dash_5 | misery-seven-chest-text-soul |  
+| bip_39_word_dash_6 | misery-seven-chest-text-soul-bullet |  
+| bip_39_word_dash_7 | misery-seven-chest-text-soul-bullet-ethics |  
+| bip_39_word_dash_8 | misery-seven-chest-text-soul-bullet-ethics-capable |  
+| bip_39_word_dash_9 | misery-seven-chest-text-soul-bullet-ethics-capable-polar |  
 | bip_39_word_new_br_1 | misery |  
 | bip_39_word_new_br_10 | misery<br>seven<br>chest<br>text<br>soul<br>bullet<br>ethics<br>capable<br>polar<br>hill |  
 | bip_39_word_new_br_11 | misery<br>seven<br>chest<br>text<br>soul<br>bullet<br>ethics<br>capable<br>polar<br>hill<br>you |  
@@ -147,6 +159,18 @@ polar |
 | bip_39_word_space_7 | misery seven chest text soul bullet ethics |  
 | bip_39_word_space_8 | misery seven chest text soul bullet ethics capable |  
 | bip_39_word_space_9 | misery seven chest text soul bullet ethics capable polar |  
+| bip_39_word_underscore_1 | misery |  
+| bip_39_word_underscore_10 | misery_seven_chest_text_soul_bullet_ethics_capable_polar_hill |  
+| bip_39_word_underscore_11 | misery_seven_chest_text_soul_bullet_ethics_capable_polar_hill_you |  
+| bip_39_word_underscore_12 | misery_seven_chest_text_soul_bullet_ethics_capable_polar_hill_you_alone |  
+| bip_39_word_underscore_2 | misery_seven |  
+| bip_39_word_underscore_3 | misery_seven_chest |  
+| bip_39_word_underscore_4 | misery_seven_chest_text |  
+| bip_39_word_underscore_5 | misery_seven_chest_text_soul |  
+| bip_39_word_underscore_6 | misery_seven_chest_text_soul_bullet |  
+| bip_39_word_underscore_7 | misery_seven_chest_text_soul_bullet_ethics |  
+| bip_39_word_underscore_8 | misery_seven_chest_text_soul_bullet_ethics_capable |  
+| bip_39_word_underscore_9 | misery_seven_chest_text_soul_bullet_ethics_capable_polar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

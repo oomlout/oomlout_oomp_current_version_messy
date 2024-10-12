@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enact
+bip_39_word_dash_10: enact-goddess-match-twelve-match-surround-symbol-hello-chaos-opera
+bip_39_word_dash_11: enact-goddess-match-twelve-match-surround-symbol-hello-chaos-opera-output
+bip_39_word_dash_12: enact-goddess-match-twelve-match-surround-symbol-hello-chaos-opera-output-air
+bip_39_word_dash_2: enact-goddess
+bip_39_word_dash_3: enact-goddess-match
+bip_39_word_dash_4: enact-goddess-match-twelve
+bip_39_word_dash_5: enact-goddess-match-twelve-match
+bip_39_word_dash_6: enact-goddess-match-twelve-match-surround
+bip_39_word_dash_7: enact-goddess-match-twelve-match-surround-symbol
+bip_39_word_dash_8: enact-goddess-match-twelve-match-surround-symbol-hello
+bip_39_word_dash_9: enact-goddess-match-twelve-match-surround-symbol-hello-chaos
 bip_39_word_new_br_1: enact
 bip_39_word_new_br_10: enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello<br>chaos<br>opera
 bip_39_word_new_br_11: enact<br>goddess<br>match<br>twelve<br>match<br>surround<br>symbol<br>hello<br>chaos<br>opera<br>output
@@ -194,6 +206,18 @@ bip_39_word_space_6: enact goddess match twelve match surround
 bip_39_word_space_7: enact goddess match twelve match surround symbol
 bip_39_word_space_8: enact goddess match twelve match surround symbol hello
 bip_39_word_space_9: enact goddess match twelve match surround symbol hello chaos
+bip_39_word_underscore_1: enact
+bip_39_word_underscore_10: enact_goddess_match_twelve_match_surround_symbol_hello_chaos_opera
+bip_39_word_underscore_11: enact_goddess_match_twelve_match_surround_symbol_hello_chaos_opera_output
+bip_39_word_underscore_12: enact_goddess_match_twelve_match_surround_symbol_hello_chaos_opera_output_air
+bip_39_word_underscore_2: enact_goddess
+bip_39_word_underscore_3: enact_goddess_match
+bip_39_word_underscore_4: enact_goddess_match_twelve
+bip_39_word_underscore_5: enact_goddess_match_twelve_match
+bip_39_word_underscore_6: enact_goddess_match_twelve_match_surround
+bip_39_word_underscore_7: enact_goddess_match_twelve_match_surround_symbol
+bip_39_word_underscore_8: enact_goddess_match_twelve_match_surround_symbol_hello
+bip_39_word_underscore_9: enact_goddess_match_twelve_match_surround_symbol_hello_chaos
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

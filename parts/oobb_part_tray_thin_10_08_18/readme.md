@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | success |  
+| bip_39_word_dash_10 | success-fun-imitate-chat-finish-black-album-march-pave-inmate |  
+| bip_39_word_dash_11 | success-fun-imitate-chat-finish-black-album-march-pave-inmate-term |  
+| bip_39_word_dash_12 | success-fun-imitate-chat-finish-black-album-march-pave-inmate-term-april |  
+| bip_39_word_dash_2 | success-fun |  
+| bip_39_word_dash_3 | success-fun-imitate |  
+| bip_39_word_dash_4 | success-fun-imitate-chat |  
+| bip_39_word_dash_5 | success-fun-imitate-chat-finish |  
+| bip_39_word_dash_6 | success-fun-imitate-chat-finish-black |  
+| bip_39_word_dash_7 | success-fun-imitate-chat-finish-black-album |  
+| bip_39_word_dash_8 | success-fun-imitate-chat-finish-black-album-march |  
+| bip_39_word_dash_9 | success-fun-imitate-chat-finish-black-album-march-pave |  
 | bip_39_word_new_br_1 | success |  
 | bip_39_word_new_br_10 | success<br>fun<br>imitate<br>chat<br>finish<br>black<br>album<br>march<br>pave<br>inmate |  
 | bip_39_word_new_br_11 | success<br>fun<br>imitate<br>chat<br>finish<br>black<br>album<br>march<br>pave<br>inmate<br>term |  
@@ -147,6 +159,18 @@ pave |
 | bip_39_word_space_7 | success fun imitate chat finish black album |  
 | bip_39_word_space_8 | success fun imitate chat finish black album march |  
 | bip_39_word_space_9 | success fun imitate chat finish black album march pave |  
+| bip_39_word_underscore_1 | success |  
+| bip_39_word_underscore_10 | success_fun_imitate_chat_finish_black_album_march_pave_inmate |  
+| bip_39_word_underscore_11 | success_fun_imitate_chat_finish_black_album_march_pave_inmate_term |  
+| bip_39_word_underscore_12 | success_fun_imitate_chat_finish_black_album_march_pave_inmate_term_april |  
+| bip_39_word_underscore_2 | success_fun |  
+| bip_39_word_underscore_3 | success_fun_imitate |  
+| bip_39_word_underscore_4 | success_fun_imitate_chat |  
+| bip_39_word_underscore_5 | success_fun_imitate_chat_finish |  
+| bip_39_word_underscore_6 | success_fun_imitate_chat_finish_black |  
+| bip_39_word_underscore_7 | success_fun_imitate_chat_finish_black_album |  
+| bip_39_word_underscore_8 | success_fun_imitate_chat_finish_black_album_march |  
+| bip_39_word_underscore_9 | success_fun_imitate_chat_finish_black_album_march_pave |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

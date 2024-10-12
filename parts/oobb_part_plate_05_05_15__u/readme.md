@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bronze |  
+| bip_39_word_dash_10 | bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos-dose |  
+| bip_39_word_dash_11 | bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos-dose-december |  
+| bip_39_word_dash_12 | bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos-dose-december-anxiety |  
+| bip_39_word_dash_2 | bronze-destroy |  
+| bip_39_word_dash_3 | bronze-destroy-initial |  
+| bip_39_word_dash_4 | bronze-destroy-initial-special |  
+| bip_39_word_dash_5 | bronze-destroy-initial-special-repeat |  
+| bip_39_word_dash_6 | bronze-destroy-initial-special-repeat-soda |  
+| bip_39_word_dash_7 | bronze-destroy-initial-special-repeat-soda-relax |  
+| bip_39_word_dash_8 | bronze-destroy-initial-special-repeat-soda-relax-bicycle |  
+| bip_39_word_dash_9 | bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos |  
 | bip_39_word_new_br_1 | bronze |  
 | bip_39_word_new_br_10 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose |  
 | bip_39_word_new_br_11 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose<br>december |  
@@ -147,6 +159,18 @@ chaos |
 | bip_39_word_space_7 | bronze destroy initial special repeat soda relax |  
 | bip_39_word_space_8 | bronze destroy initial special repeat soda relax bicycle |  
 | bip_39_word_space_9 | bronze destroy initial special repeat soda relax bicycle chaos |  
+| bip_39_word_underscore_1 | bronze |  
+| bip_39_word_underscore_10 | bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos_dose |  
+| bip_39_word_underscore_11 | bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos_dose_december |  
+| bip_39_word_underscore_12 | bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos_dose_december_anxiety |  
+| bip_39_word_underscore_2 | bronze_destroy |  
+| bip_39_word_underscore_3 | bronze_destroy_initial |  
+| bip_39_word_underscore_4 | bronze_destroy_initial_special |  
+| bip_39_word_underscore_5 | bronze_destroy_initial_special_repeat |  
+| bip_39_word_underscore_6 | bronze_destroy_initial_special_repeat_soda |  
+| bip_39_word_underscore_7 | bronze_destroy_initial_special_repeat_soda_relax |  
+| bip_39_word_underscore_8 | bronze_destroy_initial_special_repeat_soda_relax_bicycle |  
+| bip_39_word_underscore_9 | bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

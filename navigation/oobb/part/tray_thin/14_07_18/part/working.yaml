@@ -1,3 +1,15 @@
+bip_39_word_dash_1: curtain
+bip_39_word_dash_10: curtain-table-room-live-noodle-crew-mass-seminar-message-monitor
+bip_39_word_dash_11: curtain-table-room-live-noodle-crew-mass-seminar-message-monitor-exhibit
+bip_39_word_dash_12: curtain-table-room-live-noodle-crew-mass-seminar-message-monitor-exhibit-athlete
+bip_39_word_dash_2: curtain-table
+bip_39_word_dash_3: curtain-table-room
+bip_39_word_dash_4: curtain-table-room-live
+bip_39_word_dash_5: curtain-table-room-live-noodle
+bip_39_word_dash_6: curtain-table-room-live-noodle-crew
+bip_39_word_dash_7: curtain-table-room-live-noodle-crew-mass
+bip_39_word_dash_8: curtain-table-room-live-noodle-crew-mass-seminar
+bip_39_word_dash_9: curtain-table-room-live-noodle-crew-mass-seminar-message
 bip_39_word_new_br_1: curtain
 bip_39_word_new_br_10: curtain<br>table<br>room<br>live<br>noodle<br>crew<br>mass<br>seminar<br>message<br>monitor
 bip_39_word_new_br_11: curtain<br>table<br>room<br>live<br>noodle<br>crew<br>mass<br>seminar<br>message<br>monitor<br>exhibit
@@ -193,6 +205,18 @@ bip_39_word_space_6: curtain table room live noodle crew
 bip_39_word_space_7: curtain table room live noodle crew mass
 bip_39_word_space_8: curtain table room live noodle crew mass seminar
 bip_39_word_space_9: curtain table room live noodle crew mass seminar message
+bip_39_word_underscore_1: curtain
+bip_39_word_underscore_10: curtain_table_room_live_noodle_crew_mass_seminar_message_monitor
+bip_39_word_underscore_11: curtain_table_room_live_noodle_crew_mass_seminar_message_monitor_exhibit
+bip_39_word_underscore_12: curtain_table_room_live_noodle_crew_mass_seminar_message_monitor_exhibit_athlete
+bip_39_word_underscore_2: curtain_table
+bip_39_word_underscore_3: curtain_table_room
+bip_39_word_underscore_4: curtain_table_room_live
+bip_39_word_underscore_5: curtain_table_room_live_noodle
+bip_39_word_underscore_6: curtain_table_room_live_noodle_crew
+bip_39_word_underscore_7: curtain_table_room_live_noodle_crew_mass
+bip_39_word_underscore_8: curtain_table_room_live_noodle_crew_mass_seminar
+bip_39_word_underscore_9: curtain_table_room_live_noodle_crew_mass_seminar_message
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

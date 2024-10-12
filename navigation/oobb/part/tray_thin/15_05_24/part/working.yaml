@@ -1,3 +1,15 @@
+bip_39_word_dash_1: image
+bip_39_word_dash_10: image-floor-march-mule-wrist-orbit-assault-dune-helmet-foil
+bip_39_word_dash_11: image-floor-march-mule-wrist-orbit-assault-dune-helmet-foil-wasp
+bip_39_word_dash_12: image-floor-march-mule-wrist-orbit-assault-dune-helmet-foil-wasp-around
+bip_39_word_dash_2: image-floor
+bip_39_word_dash_3: image-floor-march
+bip_39_word_dash_4: image-floor-march-mule
+bip_39_word_dash_5: image-floor-march-mule-wrist
+bip_39_word_dash_6: image-floor-march-mule-wrist-orbit
+bip_39_word_dash_7: image-floor-march-mule-wrist-orbit-assault
+bip_39_word_dash_8: image-floor-march-mule-wrist-orbit-assault-dune
+bip_39_word_dash_9: image-floor-march-mule-wrist-orbit-assault-dune-helmet
 bip_39_word_new_br_1: image
 bip_39_word_new_br_10: image<br>floor<br>march<br>mule<br>wrist<br>orbit<br>assault<br>dune<br>helmet<br>foil
 bip_39_word_new_br_11: image<br>floor<br>march<br>mule<br>wrist<br>orbit<br>assault<br>dune<br>helmet<br>foil<br>wasp
@@ -193,6 +205,18 @@ bip_39_word_space_6: image floor march mule wrist orbit
 bip_39_word_space_7: image floor march mule wrist orbit assault
 bip_39_word_space_8: image floor march mule wrist orbit assault dune
 bip_39_word_space_9: image floor march mule wrist orbit assault dune helmet
+bip_39_word_underscore_1: image
+bip_39_word_underscore_10: image_floor_march_mule_wrist_orbit_assault_dune_helmet_foil
+bip_39_word_underscore_11: image_floor_march_mule_wrist_orbit_assault_dune_helmet_foil_wasp
+bip_39_word_underscore_12: image_floor_march_mule_wrist_orbit_assault_dune_helmet_foil_wasp_around
+bip_39_word_underscore_2: image_floor
+bip_39_word_underscore_3: image_floor_march
+bip_39_word_underscore_4: image_floor_march_mule
+bip_39_word_underscore_5: image_floor_march_mule_wrist
+bip_39_word_underscore_6: image_floor_march_mule_wrist_orbit
+bip_39_word_underscore_7: image_floor_march_mule_wrist_orbit_assault
+bip_39_word_underscore_8: image_floor_march_mule_wrist_orbit_assault_dune
+bip_39_word_underscore_9: image_floor_march_mule_wrist_orbit_assault_dune_helmet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

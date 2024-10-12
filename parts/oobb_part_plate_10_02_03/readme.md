@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pet |  
+| bip_39_word_dash_10 | pet-tip-brief-host-hammer-sun-junk-squirrel-vehicle-develop |  
+| bip_39_word_dash_11 | pet-tip-brief-host-hammer-sun-junk-squirrel-vehicle-develop-run |  
+| bip_39_word_dash_12 | pet-tip-brief-host-hammer-sun-junk-squirrel-vehicle-develop-run-author |  
+| bip_39_word_dash_2 | pet-tip |  
+| bip_39_word_dash_3 | pet-tip-brief |  
+| bip_39_word_dash_4 | pet-tip-brief-host |  
+| bip_39_word_dash_5 | pet-tip-brief-host-hammer |  
+| bip_39_word_dash_6 | pet-tip-brief-host-hammer-sun |  
+| bip_39_word_dash_7 | pet-tip-brief-host-hammer-sun-junk |  
+| bip_39_word_dash_8 | pet-tip-brief-host-hammer-sun-junk-squirrel |  
+| bip_39_word_dash_9 | pet-tip-brief-host-hammer-sun-junk-squirrel-vehicle |  
 | bip_39_word_new_br_1 | pet |  
 | bip_39_word_new_br_10 | pet<br>tip<br>brief<br>host<br>hammer<br>sun<br>junk<br>squirrel<br>vehicle<br>develop |  
 | bip_39_word_new_br_11 | pet<br>tip<br>brief<br>host<br>hammer<br>sun<br>junk<br>squirrel<br>vehicle<br>develop<br>run |  
@@ -147,6 +159,18 @@ vehicle |
 | bip_39_word_space_7 | pet tip brief host hammer sun junk |  
 | bip_39_word_space_8 | pet tip brief host hammer sun junk squirrel |  
 | bip_39_word_space_9 | pet tip brief host hammer sun junk squirrel vehicle |  
+| bip_39_word_underscore_1 | pet |  
+| bip_39_word_underscore_10 | pet_tip_brief_host_hammer_sun_junk_squirrel_vehicle_develop |  
+| bip_39_word_underscore_11 | pet_tip_brief_host_hammer_sun_junk_squirrel_vehicle_develop_run |  
+| bip_39_word_underscore_12 | pet_tip_brief_host_hammer_sun_junk_squirrel_vehicle_develop_run_author |  
+| bip_39_word_underscore_2 | pet_tip |  
+| bip_39_word_underscore_3 | pet_tip_brief |  
+| bip_39_word_underscore_4 | pet_tip_brief_host |  
+| bip_39_word_underscore_5 | pet_tip_brief_host_hammer |  
+| bip_39_word_underscore_6 | pet_tip_brief_host_hammer_sun |  
+| bip_39_word_underscore_7 | pet_tip_brief_host_hammer_sun_junk |  
+| bip_39_word_underscore_8 | pet_tip_brief_host_hammer_sun_junk_squirrel |  
+| bip_39_word_underscore_9 | pet_tip_brief_host_hammer_sun_junk_squirrel_vehicle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

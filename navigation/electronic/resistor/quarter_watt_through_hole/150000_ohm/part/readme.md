@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cost |  
+| bip_39_word_dash_10 | cost-impact-wrap-gesture-federal-forward-remind-exist-beef-steel |  
+| bip_39_word_dash_11 | cost-impact-wrap-gesture-federal-forward-remind-exist-beef-steel-glimpse |  
+| bip_39_word_dash_12 | cost-impact-wrap-gesture-federal-forward-remind-exist-beef-steel-glimpse-author |  
+| bip_39_word_dash_2 | cost-impact |  
+| bip_39_word_dash_3 | cost-impact-wrap |  
+| bip_39_word_dash_4 | cost-impact-wrap-gesture |  
+| bip_39_word_dash_5 | cost-impact-wrap-gesture-federal |  
+| bip_39_word_dash_6 | cost-impact-wrap-gesture-federal-forward |  
+| bip_39_word_dash_7 | cost-impact-wrap-gesture-federal-forward-remind |  
+| bip_39_word_dash_8 | cost-impact-wrap-gesture-federal-forward-remind-exist |  
+| bip_39_word_dash_9 | cost-impact-wrap-gesture-federal-forward-remind-exist-beef |  
 | bip_39_word_new_br_1 | cost |  
 | bip_39_word_new_br_10 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist<br>beef<br>steel |  
 | bip_39_word_new_br_11 | cost<br>impact<br>wrap<br>gesture<br>federal<br>forward<br>remind<br>exist<br>beef<br>steel<br>glimpse |  
@@ -147,6 +159,18 @@ beef |
 | bip_39_word_space_7 | cost impact wrap gesture federal forward remind |  
 | bip_39_word_space_8 | cost impact wrap gesture federal forward remind exist |  
 | bip_39_word_space_9 | cost impact wrap gesture federal forward remind exist beef |  
+| bip_39_word_underscore_1 | cost |  
+| bip_39_word_underscore_10 | cost_impact_wrap_gesture_federal_forward_remind_exist_beef_steel |  
+| bip_39_word_underscore_11 | cost_impact_wrap_gesture_federal_forward_remind_exist_beef_steel_glimpse |  
+| bip_39_word_underscore_12 | cost_impact_wrap_gesture_federal_forward_remind_exist_beef_steel_glimpse_author |  
+| bip_39_word_underscore_2 | cost_impact |  
+| bip_39_word_underscore_3 | cost_impact_wrap |  
+| bip_39_word_underscore_4 | cost_impact_wrap_gesture |  
+| bip_39_word_underscore_5 | cost_impact_wrap_gesture_federal |  
+| bip_39_word_underscore_6 | cost_impact_wrap_gesture_federal_forward |  
+| bip_39_word_underscore_7 | cost_impact_wrap_gesture_federal_forward_remind |  
+| bip_39_word_underscore_8 | cost_impact_wrap_gesture_federal_forward_remind_exist |  
+| bip_39_word_underscore_9 | cost_impact_wrap_gesture_federal_forward_remind_exist_beef |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

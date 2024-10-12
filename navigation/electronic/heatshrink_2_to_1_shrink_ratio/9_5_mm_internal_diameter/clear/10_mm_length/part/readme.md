@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | act |  
+| bip_39_word_dash_10 | act-health-mule-jelly-pony-donor-notice-endless-case-stadium |  
+| bip_39_word_dash_11 | act-health-mule-jelly-pony-donor-notice-endless-case-stadium-primary |  
+| bip_39_word_dash_12 | act-health-mule-jelly-pony-donor-notice-endless-case-stadium-primary-agent |  
+| bip_39_word_dash_2 | act-health |  
+| bip_39_word_dash_3 | act-health-mule |  
+| bip_39_word_dash_4 | act-health-mule-jelly |  
+| bip_39_word_dash_5 | act-health-mule-jelly-pony |  
+| bip_39_word_dash_6 | act-health-mule-jelly-pony-donor |  
+| bip_39_word_dash_7 | act-health-mule-jelly-pony-donor-notice |  
+| bip_39_word_dash_8 | act-health-mule-jelly-pony-donor-notice-endless |  
+| bip_39_word_dash_9 | act-health-mule-jelly-pony-donor-notice-endless-case |  
 | bip_39_word_new_br_1 | act |  
 | bip_39_word_new_br_10 | act<br>health<br>mule<br>jelly<br>pony<br>donor<br>notice<br>endless<br>case<br>stadium |  
 | bip_39_word_new_br_11 | act<br>health<br>mule<br>jelly<br>pony<br>donor<br>notice<br>endless<br>case<br>stadium<br>primary |  
@@ -147,6 +159,18 @@ case |
 | bip_39_word_space_7 | act health mule jelly pony donor notice |  
 | bip_39_word_space_8 | act health mule jelly pony donor notice endless |  
 | bip_39_word_space_9 | act health mule jelly pony donor notice endless case |  
+| bip_39_word_underscore_1 | act |  
+| bip_39_word_underscore_10 | act_health_mule_jelly_pony_donor_notice_endless_case_stadium |  
+| bip_39_word_underscore_11 | act_health_mule_jelly_pony_donor_notice_endless_case_stadium_primary |  
+| bip_39_word_underscore_12 | act_health_mule_jelly_pony_donor_notice_endless_case_stadium_primary_agent |  
+| bip_39_word_underscore_2 | act_health |  
+| bip_39_word_underscore_3 | act_health_mule |  
+| bip_39_word_underscore_4 | act_health_mule_jelly |  
+| bip_39_word_underscore_5 | act_health_mule_jelly_pony |  
+| bip_39_word_underscore_6 | act_health_mule_jelly_pony_donor |  
+| bip_39_word_underscore_7 | act_health_mule_jelly_pony_donor_notice |  
+| bip_39_word_underscore_8 | act_health_mule_jelly_pony_donor_notice_endless |  
+| bip_39_word_underscore_9 | act_health_mule_jelly_pony_donor_notice_endless_case |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

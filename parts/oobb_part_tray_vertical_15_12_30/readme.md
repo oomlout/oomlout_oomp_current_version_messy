@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | old |  
+| bip_39_word_dash_10 | old-thrive-wave-track-regret-hundred-crawl-minute-advice-aim |  
+| bip_39_word_dash_11 | old-thrive-wave-track-regret-hundred-crawl-minute-advice-aim-gasp |  
+| bip_39_word_dash_12 | old-thrive-wave-track-regret-hundred-crawl-minute-advice-aim-gasp-arrange |  
+| bip_39_word_dash_2 | old-thrive |  
+| bip_39_word_dash_3 | old-thrive-wave |  
+| bip_39_word_dash_4 | old-thrive-wave-track |  
+| bip_39_word_dash_5 | old-thrive-wave-track-regret |  
+| bip_39_word_dash_6 | old-thrive-wave-track-regret-hundred |  
+| bip_39_word_dash_7 | old-thrive-wave-track-regret-hundred-crawl |  
+| bip_39_word_dash_8 | old-thrive-wave-track-regret-hundred-crawl-minute |  
+| bip_39_word_dash_9 | old-thrive-wave-track-regret-hundred-crawl-minute-advice |  
 | bip_39_word_new_br_1 | old |  
 | bip_39_word_new_br_10 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim |  
 | bip_39_word_new_br_11 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim<br>gasp |  
@@ -147,6 +159,18 @@ advice |
 | bip_39_word_space_7 | old thrive wave track regret hundred crawl |  
 | bip_39_word_space_8 | old thrive wave track regret hundred crawl minute |  
 | bip_39_word_space_9 | old thrive wave track regret hundred crawl minute advice |  
+| bip_39_word_underscore_1 | old |  
+| bip_39_word_underscore_10 | old_thrive_wave_track_regret_hundred_crawl_minute_advice_aim |  
+| bip_39_word_underscore_11 | old_thrive_wave_track_regret_hundred_crawl_minute_advice_aim_gasp |  
+| bip_39_word_underscore_12 | old_thrive_wave_track_regret_hundred_crawl_minute_advice_aim_gasp_arrange |  
+| bip_39_word_underscore_2 | old_thrive |  
+| bip_39_word_underscore_3 | old_thrive_wave |  
+| bip_39_word_underscore_4 | old_thrive_wave_track |  
+| bip_39_word_underscore_5 | old_thrive_wave_track_regret |  
+| bip_39_word_underscore_6 | old_thrive_wave_track_regret_hundred |  
+| bip_39_word_underscore_7 | old_thrive_wave_track_regret_hundred_crawl |  
+| bip_39_word_underscore_8 | old_thrive_wave_track_regret_hundred_crawl_minute |  
+| bip_39_word_underscore_9 | old_thrive_wave_track_regret_hundred_crawl_minute_advice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

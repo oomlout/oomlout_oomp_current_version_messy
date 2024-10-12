@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | marble |  
+| bip_39_word_dash_10 | marble-fever-ceiling-illegal-gate-review-moon-infant-love-medal |  
+| bip_39_word_dash_11 | marble-fever-ceiling-illegal-gate-review-moon-infant-love-medal-find |  
+| bip_39_word_dash_12 | marble-fever-ceiling-illegal-gate-review-moon-infant-love-medal-find-aim |  
+| bip_39_word_dash_2 | marble-fever |  
+| bip_39_word_dash_3 | marble-fever-ceiling |  
+| bip_39_word_dash_4 | marble-fever-ceiling-illegal |  
+| bip_39_word_dash_5 | marble-fever-ceiling-illegal-gate |  
+| bip_39_word_dash_6 | marble-fever-ceiling-illegal-gate-review |  
+| bip_39_word_dash_7 | marble-fever-ceiling-illegal-gate-review-moon |  
+| bip_39_word_dash_8 | marble-fever-ceiling-illegal-gate-review-moon-infant |  
+| bip_39_word_dash_9 | marble-fever-ceiling-illegal-gate-review-moon-infant-love |  
 | bip_39_word_new_br_1 | marble |  
 | bip_39_word_new_br_10 | marble<br>fever<br>ceiling<br>illegal<br>gate<br>review<br>moon<br>infant<br>love<br>medal |  
 | bip_39_word_new_br_11 | marble<br>fever<br>ceiling<br>illegal<br>gate<br>review<br>moon<br>infant<br>love<br>medal<br>find |  
@@ -147,6 +159,18 @@ love |
 | bip_39_word_space_7 | marble fever ceiling illegal gate review moon |  
 | bip_39_word_space_8 | marble fever ceiling illegal gate review moon infant |  
 | bip_39_word_space_9 | marble fever ceiling illegal gate review moon infant love |  
+| bip_39_word_underscore_1 | marble |  
+| bip_39_word_underscore_10 | marble_fever_ceiling_illegal_gate_review_moon_infant_love_medal |  
+| bip_39_word_underscore_11 | marble_fever_ceiling_illegal_gate_review_moon_infant_love_medal_find |  
+| bip_39_word_underscore_12 | marble_fever_ceiling_illegal_gate_review_moon_infant_love_medal_find_aim |  
+| bip_39_word_underscore_2 | marble_fever |  
+| bip_39_word_underscore_3 | marble_fever_ceiling |  
+| bip_39_word_underscore_4 | marble_fever_ceiling_illegal |  
+| bip_39_word_underscore_5 | marble_fever_ceiling_illegal_gate |  
+| bip_39_word_underscore_6 | marble_fever_ceiling_illegal_gate_review |  
+| bip_39_word_underscore_7 | marble_fever_ceiling_illegal_gate_review_moon |  
+| bip_39_word_underscore_8 | marble_fever_ceiling_illegal_gate_review_moon_infant |  
+| bip_39_word_underscore_9 | marble_fever_ceiling_illegal_gate_review_moon_infant_love |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

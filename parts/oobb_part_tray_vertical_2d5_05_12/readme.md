@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trumpet |  
+| bip_39_word_dash_10 | trumpet-tribe-sibling-letter-wire-toward-display-slab-decide-fix |  
+| bip_39_word_dash_11 | trumpet-tribe-sibling-letter-wire-toward-display-slab-decide-fix-session |  
+| bip_39_word_dash_12 | trumpet-tribe-sibling-letter-wire-toward-display-slab-decide-fix-session-advance |  
+| bip_39_word_dash_2 | trumpet-tribe |  
+| bip_39_word_dash_3 | trumpet-tribe-sibling |  
+| bip_39_word_dash_4 | trumpet-tribe-sibling-letter |  
+| bip_39_word_dash_5 | trumpet-tribe-sibling-letter-wire |  
+| bip_39_word_dash_6 | trumpet-tribe-sibling-letter-wire-toward |  
+| bip_39_word_dash_7 | trumpet-tribe-sibling-letter-wire-toward-display |  
+| bip_39_word_dash_8 | trumpet-tribe-sibling-letter-wire-toward-display-slab |  
+| bip_39_word_dash_9 | trumpet-tribe-sibling-letter-wire-toward-display-slab-decide |  
 | bip_39_word_new_br_1 | trumpet |  
 | bip_39_word_new_br_10 | trumpet<br>tribe<br>sibling<br>letter<br>wire<br>toward<br>display<br>slab<br>decide<br>fix |  
 | bip_39_word_new_br_11 | trumpet<br>tribe<br>sibling<br>letter<br>wire<br>toward<br>display<br>slab<br>decide<br>fix<br>session |  
@@ -147,6 +159,18 @@ decide |
 | bip_39_word_space_7 | trumpet tribe sibling letter wire toward display |  
 | bip_39_word_space_8 | trumpet tribe sibling letter wire toward display slab |  
 | bip_39_word_space_9 | trumpet tribe sibling letter wire toward display slab decide |  
+| bip_39_word_underscore_1 | trumpet |  
+| bip_39_word_underscore_10 | trumpet_tribe_sibling_letter_wire_toward_display_slab_decide_fix |  
+| bip_39_word_underscore_11 | trumpet_tribe_sibling_letter_wire_toward_display_slab_decide_fix_session |  
+| bip_39_word_underscore_12 | trumpet_tribe_sibling_letter_wire_toward_display_slab_decide_fix_session_advance |  
+| bip_39_word_underscore_2 | trumpet_tribe |  
+| bip_39_word_underscore_3 | trumpet_tribe_sibling |  
+| bip_39_word_underscore_4 | trumpet_tribe_sibling_letter |  
+| bip_39_word_underscore_5 | trumpet_tribe_sibling_letter_wire |  
+| bip_39_word_underscore_6 | trumpet_tribe_sibling_letter_wire_toward |  
+| bip_39_word_underscore_7 | trumpet_tribe_sibling_letter_wire_toward_display |  
+| bip_39_word_underscore_8 | trumpet_tribe_sibling_letter_wire_toward_display_slab |  
+| bip_39_word_underscore_9 | trumpet_tribe_sibling_letter_wire_toward_display_slab_decide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

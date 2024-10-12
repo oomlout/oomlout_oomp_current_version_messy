@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | affair |  
+| bip_39_word_dash_10 | affair-arrive-never-advice-detect-unknown-plate-battle-crime-capable |  
+| bip_39_word_dash_11 | affair-arrive-never-advice-detect-unknown-plate-battle-crime-capable-include |  
+| bip_39_word_dash_12 | affair-arrive-never-advice-detect-unknown-plate-battle-crime-capable-include-announce |  
+| bip_39_word_dash_2 | affair-arrive |  
+| bip_39_word_dash_3 | affair-arrive-never |  
+| bip_39_word_dash_4 | affair-arrive-never-advice |  
+| bip_39_word_dash_5 | affair-arrive-never-advice-detect |  
+| bip_39_word_dash_6 | affair-arrive-never-advice-detect-unknown |  
+| bip_39_word_dash_7 | affair-arrive-never-advice-detect-unknown-plate |  
+| bip_39_word_dash_8 | affair-arrive-never-advice-detect-unknown-plate-battle |  
+| bip_39_word_dash_9 | affair-arrive-never-advice-detect-unknown-plate-battle-crime |  
 | bip_39_word_new_br_1 | affair |  
 | bip_39_word_new_br_10 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable |  
 | bip_39_word_new_br_11 | affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable<br>include |  
@@ -147,6 +159,18 @@ crime |
 | bip_39_word_space_7 | affair arrive never advice detect unknown plate |  
 | bip_39_word_space_8 | affair arrive never advice detect unknown plate battle |  
 | bip_39_word_space_9 | affair arrive never advice detect unknown plate battle crime |  
+| bip_39_word_underscore_1 | affair |  
+| bip_39_word_underscore_10 | affair_arrive_never_advice_detect_unknown_plate_battle_crime_capable |  
+| bip_39_word_underscore_11 | affair_arrive_never_advice_detect_unknown_plate_battle_crime_capable_include |  
+| bip_39_word_underscore_12 | affair_arrive_never_advice_detect_unknown_plate_battle_crime_capable_include_announce |  
+| bip_39_word_underscore_2 | affair_arrive |  
+| bip_39_word_underscore_3 | affair_arrive_never |  
+| bip_39_word_underscore_4 | affair_arrive_never_advice |  
+| bip_39_word_underscore_5 | affair_arrive_never_advice_detect |  
+| bip_39_word_underscore_6 | affair_arrive_never_advice_detect_unknown |  
+| bip_39_word_underscore_7 | affair_arrive_never_advice_detect_unknown_plate |  
+| bip_39_word_underscore_8 | affair_arrive_never_advice_detect_unknown_plate_battle |  
+| bip_39_word_underscore_9 | affair_arrive_never_advice_detect_unknown_plate_battle_crime |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

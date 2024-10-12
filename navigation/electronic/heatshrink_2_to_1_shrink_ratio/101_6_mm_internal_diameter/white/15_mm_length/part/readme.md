@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scale |  
+| bip_39_word_dash_10 | scale-assume-benefit-olive-hidden-ahead-remain-bullet-shaft-enter |  
+| bip_39_word_dash_11 | scale-assume-benefit-olive-hidden-ahead-remain-bullet-shaft-enter-thought |  
+| bip_39_word_dash_12 | scale-assume-benefit-olive-hidden-ahead-remain-bullet-shaft-enter-thought-arm |  
+| bip_39_word_dash_2 | scale-assume |  
+| bip_39_word_dash_3 | scale-assume-benefit |  
+| bip_39_word_dash_4 | scale-assume-benefit-olive |  
+| bip_39_word_dash_5 | scale-assume-benefit-olive-hidden |  
+| bip_39_word_dash_6 | scale-assume-benefit-olive-hidden-ahead |  
+| bip_39_word_dash_7 | scale-assume-benefit-olive-hidden-ahead-remain |  
+| bip_39_word_dash_8 | scale-assume-benefit-olive-hidden-ahead-remain-bullet |  
+| bip_39_word_dash_9 | scale-assume-benefit-olive-hidden-ahead-remain-bullet-shaft |  
 | bip_39_word_new_br_1 | scale |  
 | bip_39_word_new_br_10 | scale<br>assume<br>benefit<br>olive<br>hidden<br>ahead<br>remain<br>bullet<br>shaft<br>enter |  
 | bip_39_word_new_br_11 | scale<br>assume<br>benefit<br>olive<br>hidden<br>ahead<br>remain<br>bullet<br>shaft<br>enter<br>thought |  
@@ -147,6 +159,18 @@ shaft |
 | bip_39_word_space_7 | scale assume benefit olive hidden ahead remain |  
 | bip_39_word_space_8 | scale assume benefit olive hidden ahead remain bullet |  
 | bip_39_word_space_9 | scale assume benefit olive hidden ahead remain bullet shaft |  
+| bip_39_word_underscore_1 | scale |  
+| bip_39_word_underscore_10 | scale_assume_benefit_olive_hidden_ahead_remain_bullet_shaft_enter |  
+| bip_39_word_underscore_11 | scale_assume_benefit_olive_hidden_ahead_remain_bullet_shaft_enter_thought |  
+| bip_39_word_underscore_12 | scale_assume_benefit_olive_hidden_ahead_remain_bullet_shaft_enter_thought_arm |  
+| bip_39_word_underscore_2 | scale_assume |  
+| bip_39_word_underscore_3 | scale_assume_benefit |  
+| bip_39_word_underscore_4 | scale_assume_benefit_olive |  
+| bip_39_word_underscore_5 | scale_assume_benefit_olive_hidden |  
+| bip_39_word_underscore_6 | scale_assume_benefit_olive_hidden_ahead |  
+| bip_39_word_underscore_7 | scale_assume_benefit_olive_hidden_ahead_remain |  
+| bip_39_word_underscore_8 | scale_assume_benefit_olive_hidden_ahead_remain_bullet |  
+| bip_39_word_underscore_9 | scale_assume_benefit_olive_hidden_ahead_remain_bullet_shaft |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

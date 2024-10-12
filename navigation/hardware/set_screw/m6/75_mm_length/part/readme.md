@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bullet |  
+| bip_39_word_dash_10 | bullet-leave-midnight-toddler-clean-depart-original-calm-mistake-endless |  
+| bip_39_word_dash_11 | bullet-leave-midnight-toddler-clean-depart-original-calm-mistake-endless-penalty |  
+| bip_39_word_dash_12 | bullet-leave-midnight-toddler-clean-depart-original-calm-mistake-endless-penalty-alone |  
+| bip_39_word_dash_2 | bullet-leave |  
+| bip_39_word_dash_3 | bullet-leave-midnight |  
+| bip_39_word_dash_4 | bullet-leave-midnight-toddler |  
+| bip_39_word_dash_5 | bullet-leave-midnight-toddler-clean |  
+| bip_39_word_dash_6 | bullet-leave-midnight-toddler-clean-depart |  
+| bip_39_word_dash_7 | bullet-leave-midnight-toddler-clean-depart-original |  
+| bip_39_word_dash_8 | bullet-leave-midnight-toddler-clean-depart-original-calm |  
+| bip_39_word_dash_9 | bullet-leave-midnight-toddler-clean-depart-original-calm-mistake |  
 | bip_39_word_new_br_1 | bullet |  
 | bip_39_word_new_br_10 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless |  
 | bip_39_word_new_br_11 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless<br>penalty |  
@@ -147,6 +159,18 @@ mistake |
 | bip_39_word_space_7 | bullet leave midnight toddler clean depart original |  
 | bip_39_word_space_8 | bullet leave midnight toddler clean depart original calm |  
 | bip_39_word_space_9 | bullet leave midnight toddler clean depart original calm mistake |  
+| bip_39_word_underscore_1 | bullet |  
+| bip_39_word_underscore_10 | bullet_leave_midnight_toddler_clean_depart_original_calm_mistake_endless |  
+| bip_39_word_underscore_11 | bullet_leave_midnight_toddler_clean_depart_original_calm_mistake_endless_penalty |  
+| bip_39_word_underscore_12 | bullet_leave_midnight_toddler_clean_depart_original_calm_mistake_endless_penalty_alone |  
+| bip_39_word_underscore_2 | bullet_leave |  
+| bip_39_word_underscore_3 | bullet_leave_midnight |  
+| bip_39_word_underscore_4 | bullet_leave_midnight_toddler |  
+| bip_39_word_underscore_5 | bullet_leave_midnight_toddler_clean |  
+| bip_39_word_underscore_6 | bullet_leave_midnight_toddler_clean_depart |  
+| bip_39_word_underscore_7 | bullet_leave_midnight_toddler_clean_depart_original |  
+| bip_39_word_underscore_8 | bullet_leave_midnight_toddler_clean_depart_original_calm |  
+| bip_39_word_underscore_9 | bullet_leave_midnight_toddler_clean_depart_original_calm_mistake |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

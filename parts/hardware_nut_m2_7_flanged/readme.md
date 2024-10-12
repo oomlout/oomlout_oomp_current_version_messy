@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | embrace |  
+| bip_39_word_dash_10 | embrace-alien-gossip-pattern-infant-fitness-version-liar-sort-long |  
+| bip_39_word_dash_11 | embrace-alien-gossip-pattern-infant-fitness-version-liar-sort-long-accuse |  
+| bip_39_word_dash_12 | embrace-alien-gossip-pattern-infant-fitness-version-liar-sort-long-accuse-alarm |  
+| bip_39_word_dash_2 | embrace-alien |  
+| bip_39_word_dash_3 | embrace-alien-gossip |  
+| bip_39_word_dash_4 | embrace-alien-gossip-pattern |  
+| bip_39_word_dash_5 | embrace-alien-gossip-pattern-infant |  
+| bip_39_word_dash_6 | embrace-alien-gossip-pattern-infant-fitness |  
+| bip_39_word_dash_7 | embrace-alien-gossip-pattern-infant-fitness-version |  
+| bip_39_word_dash_8 | embrace-alien-gossip-pattern-infant-fitness-version-liar |  
+| bip_39_word_dash_9 | embrace-alien-gossip-pattern-infant-fitness-version-liar-sort |  
 | bip_39_word_new_br_1 | embrace |  
 | bip_39_word_new_br_10 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long |  
 | bip_39_word_new_br_11 | embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long<br>accuse |  
@@ -147,6 +159,18 @@ sort |
 | bip_39_word_space_7 | embrace alien gossip pattern infant fitness version |  
 | bip_39_word_space_8 | embrace alien gossip pattern infant fitness version liar |  
 | bip_39_word_space_9 | embrace alien gossip pattern infant fitness version liar sort |  
+| bip_39_word_underscore_1 | embrace |  
+| bip_39_word_underscore_10 | embrace_alien_gossip_pattern_infant_fitness_version_liar_sort_long |  
+| bip_39_word_underscore_11 | embrace_alien_gossip_pattern_infant_fitness_version_liar_sort_long_accuse |  
+| bip_39_word_underscore_12 | embrace_alien_gossip_pattern_infant_fitness_version_liar_sort_long_accuse_alarm |  
+| bip_39_word_underscore_2 | embrace_alien |  
+| bip_39_word_underscore_3 | embrace_alien_gossip |  
+| bip_39_word_underscore_4 | embrace_alien_gossip_pattern |  
+| bip_39_word_underscore_5 | embrace_alien_gossip_pattern_infant |  
+| bip_39_word_underscore_6 | embrace_alien_gossip_pattern_infant_fitness |  
+| bip_39_word_underscore_7 | embrace_alien_gossip_pattern_infant_fitness_version |  
+| bip_39_word_underscore_8 | embrace_alien_gossip_pattern_infant_fitness_version_liar |  
+| bip_39_word_underscore_9 | embrace_alien_gossip_pattern_infant_fitness_version_liar_sort |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

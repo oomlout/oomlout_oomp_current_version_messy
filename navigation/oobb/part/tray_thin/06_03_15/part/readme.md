@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rough |  
+| bip_39_word_dash_10 | rough-inform-apology-speak-enter-nest-move-bird-citizen-unique |  
+| bip_39_word_dash_11 | rough-inform-apology-speak-enter-nest-move-bird-citizen-unique-treat |  
+| bip_39_word_dash_12 | rough-inform-apology-speak-enter-nest-move-bird-citizen-unique-treat-ability |  
+| bip_39_word_dash_2 | rough-inform |  
+| bip_39_word_dash_3 | rough-inform-apology |  
+| bip_39_word_dash_4 | rough-inform-apology-speak |  
+| bip_39_word_dash_5 | rough-inform-apology-speak-enter |  
+| bip_39_word_dash_6 | rough-inform-apology-speak-enter-nest |  
+| bip_39_word_dash_7 | rough-inform-apology-speak-enter-nest-move |  
+| bip_39_word_dash_8 | rough-inform-apology-speak-enter-nest-move-bird |  
+| bip_39_word_dash_9 | rough-inform-apology-speak-enter-nest-move-bird-citizen |  
 | bip_39_word_new_br_1 | rough |  
 | bip_39_word_new_br_10 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird<br>citizen<br>unique |  
 | bip_39_word_new_br_11 | rough<br>inform<br>apology<br>speak<br>enter<br>nest<br>move<br>bird<br>citizen<br>unique<br>treat |  
@@ -147,6 +159,18 @@ citizen |
 | bip_39_word_space_7 | rough inform apology speak enter nest move |  
 | bip_39_word_space_8 | rough inform apology speak enter nest move bird |  
 | bip_39_word_space_9 | rough inform apology speak enter nest move bird citizen |  
+| bip_39_word_underscore_1 | rough |  
+| bip_39_word_underscore_10 | rough_inform_apology_speak_enter_nest_move_bird_citizen_unique |  
+| bip_39_word_underscore_11 | rough_inform_apology_speak_enter_nest_move_bird_citizen_unique_treat |  
+| bip_39_word_underscore_12 | rough_inform_apology_speak_enter_nest_move_bird_citizen_unique_treat_ability |  
+| bip_39_word_underscore_2 | rough_inform |  
+| bip_39_word_underscore_3 | rough_inform_apology |  
+| bip_39_word_underscore_4 | rough_inform_apology_speak |  
+| bip_39_word_underscore_5 | rough_inform_apology_speak_enter |  
+| bip_39_word_underscore_6 | rough_inform_apology_speak_enter_nest |  
+| bip_39_word_underscore_7 | rough_inform_apology_speak_enter_nest_move |  
+| bip_39_word_underscore_8 | rough_inform_apology_speak_enter_nest_move_bird |  
+| bip_39_word_underscore_9 | rough_inform_apology_speak_enter_nest_move_bird_citizen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

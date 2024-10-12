@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | another |  
+| bip_39_word_dash_10 | another-combine-marble-obtain-marble-drink-cry-order-dwarf-fashion |  
+| bip_39_word_dash_11 | another-combine-marble-obtain-marble-drink-cry-order-dwarf-fashion-release |  
+| bip_39_word_dash_12 | another-combine-marble-obtain-marble-drink-cry-order-dwarf-fashion-release-artwork |  
+| bip_39_word_dash_2 | another-combine |  
+| bip_39_word_dash_3 | another-combine-marble |  
+| bip_39_word_dash_4 | another-combine-marble-obtain |  
+| bip_39_word_dash_5 | another-combine-marble-obtain-marble |  
+| bip_39_word_dash_6 | another-combine-marble-obtain-marble-drink |  
+| bip_39_word_dash_7 | another-combine-marble-obtain-marble-drink-cry |  
+| bip_39_word_dash_8 | another-combine-marble-obtain-marble-drink-cry-order |  
+| bip_39_word_dash_9 | another-combine-marble-obtain-marble-drink-cry-order-dwarf |  
 | bip_39_word_new_br_1 | another |  
 | bip_39_word_new_br_10 | another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion |  
 | bip_39_word_new_br_11 | another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion<br>release |  
@@ -147,6 +159,18 @@ dwarf |
 | bip_39_word_space_7 | another combine marble obtain marble drink cry |  
 | bip_39_word_space_8 | another combine marble obtain marble drink cry order |  
 | bip_39_word_space_9 | another combine marble obtain marble drink cry order dwarf |  
+| bip_39_word_underscore_1 | another |  
+| bip_39_word_underscore_10 | another_combine_marble_obtain_marble_drink_cry_order_dwarf_fashion |  
+| bip_39_word_underscore_11 | another_combine_marble_obtain_marble_drink_cry_order_dwarf_fashion_release |  
+| bip_39_word_underscore_12 | another_combine_marble_obtain_marble_drink_cry_order_dwarf_fashion_release_artwork |  
+| bip_39_word_underscore_2 | another_combine |  
+| bip_39_word_underscore_3 | another_combine_marble |  
+| bip_39_word_underscore_4 | another_combine_marble_obtain |  
+| bip_39_word_underscore_5 | another_combine_marble_obtain_marble |  
+| bip_39_word_underscore_6 | another_combine_marble_obtain_marble_drink |  
+| bip_39_word_underscore_7 | another_combine_marble_obtain_marble_drink_cry |  
+| bip_39_word_underscore_8 | another_combine_marble_obtain_marble_drink_cry_order |  
+| bip_39_word_underscore_9 | another_combine_marble_obtain_marble_drink_cry_order_dwarf |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

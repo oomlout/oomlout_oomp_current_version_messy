@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blur |  
+| bip_39_word_dash_10 | blur-exclude-keen-betray-nasty-pumpkin-neither-mention-helmet-cross |  
+| bip_39_word_dash_11 | blur-exclude-keen-betray-nasty-pumpkin-neither-mention-helmet-cross-action |  
+| bip_39_word_dash_12 | blur-exclude-keen-betray-nasty-pumpkin-neither-mention-helmet-cross-action-amateur |  
+| bip_39_word_dash_2 | blur-exclude |  
+| bip_39_word_dash_3 | blur-exclude-keen |  
+| bip_39_word_dash_4 | blur-exclude-keen-betray |  
+| bip_39_word_dash_5 | blur-exclude-keen-betray-nasty |  
+| bip_39_word_dash_6 | blur-exclude-keen-betray-nasty-pumpkin |  
+| bip_39_word_dash_7 | blur-exclude-keen-betray-nasty-pumpkin-neither |  
+| bip_39_word_dash_8 | blur-exclude-keen-betray-nasty-pumpkin-neither-mention |  
+| bip_39_word_dash_9 | blur-exclude-keen-betray-nasty-pumpkin-neither-mention-helmet |  
 | bip_39_word_new_br_1 | blur |  
 | bip_39_word_new_br_10 | blur<br>exclude<br>keen<br>betray<br>nasty<br>pumpkin<br>neither<br>mention<br>helmet<br>cross |  
 | bip_39_word_new_br_11 | blur<br>exclude<br>keen<br>betray<br>nasty<br>pumpkin<br>neither<br>mention<br>helmet<br>cross<br>action |  
@@ -147,6 +159,18 @@ helmet |
 | bip_39_word_space_7 | blur exclude keen betray nasty pumpkin neither |  
 | bip_39_word_space_8 | blur exclude keen betray nasty pumpkin neither mention |  
 | bip_39_word_space_9 | blur exclude keen betray nasty pumpkin neither mention helmet |  
+| bip_39_word_underscore_1 | blur |  
+| bip_39_word_underscore_10 | blur_exclude_keen_betray_nasty_pumpkin_neither_mention_helmet_cross |  
+| bip_39_word_underscore_11 | blur_exclude_keen_betray_nasty_pumpkin_neither_mention_helmet_cross_action |  
+| bip_39_word_underscore_12 | blur_exclude_keen_betray_nasty_pumpkin_neither_mention_helmet_cross_action_amateur |  
+| bip_39_word_underscore_2 | blur_exclude |  
+| bip_39_word_underscore_3 | blur_exclude_keen |  
+| bip_39_word_underscore_4 | blur_exclude_keen_betray |  
+| bip_39_word_underscore_5 | blur_exclude_keen_betray_nasty |  
+| bip_39_word_underscore_6 | blur_exclude_keen_betray_nasty_pumpkin |  
+| bip_39_word_underscore_7 | blur_exclude_keen_betray_nasty_pumpkin_neither |  
+| bip_39_word_underscore_8 | blur_exclude_keen_betray_nasty_pumpkin_neither_mention |  
+| bip_39_word_underscore_9 | blur_exclude_keen_betray_nasty_pumpkin_neither_mention_helmet |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

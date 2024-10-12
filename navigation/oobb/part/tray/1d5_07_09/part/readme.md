@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blade |  
+| bip_39_word_dash_10 | blade-please-drink-rabbit-prison-harsh-oppose-speak-shop-start |  
+| bip_39_word_dash_11 | blade-please-drink-rabbit-prison-harsh-oppose-speak-shop-start-gallery |  
+| bip_39_word_dash_12 | blade-please-drink-rabbit-prison-harsh-oppose-speak-shop-start-gallery-arrange |  
+| bip_39_word_dash_2 | blade-please |  
+| bip_39_word_dash_3 | blade-please-drink |  
+| bip_39_word_dash_4 | blade-please-drink-rabbit |  
+| bip_39_word_dash_5 | blade-please-drink-rabbit-prison |  
+| bip_39_word_dash_6 | blade-please-drink-rabbit-prison-harsh |  
+| bip_39_word_dash_7 | blade-please-drink-rabbit-prison-harsh-oppose |  
+| bip_39_word_dash_8 | blade-please-drink-rabbit-prison-harsh-oppose-speak |  
+| bip_39_word_dash_9 | blade-please-drink-rabbit-prison-harsh-oppose-speak-shop |  
 | bip_39_word_new_br_1 | blade |  
 | bip_39_word_new_br_10 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start |  
 | bip_39_word_new_br_11 | blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start<br>gallery |  
@@ -147,6 +159,18 @@ shop |
 | bip_39_word_space_7 | blade please drink rabbit prison harsh oppose |  
 | bip_39_word_space_8 | blade please drink rabbit prison harsh oppose speak |  
 | bip_39_word_space_9 | blade please drink rabbit prison harsh oppose speak shop |  
+| bip_39_word_underscore_1 | blade |  
+| bip_39_word_underscore_10 | blade_please_drink_rabbit_prison_harsh_oppose_speak_shop_start |  
+| bip_39_word_underscore_11 | blade_please_drink_rabbit_prison_harsh_oppose_speak_shop_start_gallery |  
+| bip_39_word_underscore_12 | blade_please_drink_rabbit_prison_harsh_oppose_speak_shop_start_gallery_arrange |  
+| bip_39_word_underscore_2 | blade_please |  
+| bip_39_word_underscore_3 | blade_please_drink |  
+| bip_39_word_underscore_4 | blade_please_drink_rabbit |  
+| bip_39_word_underscore_5 | blade_please_drink_rabbit_prison |  
+| bip_39_word_underscore_6 | blade_please_drink_rabbit_prison_harsh |  
+| bip_39_word_underscore_7 | blade_please_drink_rabbit_prison_harsh_oppose |  
+| bip_39_word_underscore_8 | blade_please_drink_rabbit_prison_harsh_oppose_speak |  
+| bip_39_word_underscore_9 | blade_please_drink_rabbit_prison_harsh_oppose_speak_shop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

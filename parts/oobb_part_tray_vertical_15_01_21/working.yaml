@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lazy
+bip_39_word_dash_10: lazy-intact-shield-stomach-feature-skate-flight-winter-mean-seat
+bip_39_word_dash_11: lazy-intact-shield-stomach-feature-skate-flight-winter-mean-seat-team
+bip_39_word_dash_12: lazy-intact-shield-stomach-feature-skate-flight-winter-mean-seat-team-artist
+bip_39_word_dash_2: lazy-intact
+bip_39_word_dash_3: lazy-intact-shield
+bip_39_word_dash_4: lazy-intact-shield-stomach
+bip_39_word_dash_5: lazy-intact-shield-stomach-feature
+bip_39_word_dash_6: lazy-intact-shield-stomach-feature-skate
+bip_39_word_dash_7: lazy-intact-shield-stomach-feature-skate-flight
+bip_39_word_dash_8: lazy-intact-shield-stomach-feature-skate-flight-winter
+bip_39_word_dash_9: lazy-intact-shield-stomach-feature-skate-flight-winter-mean
 bip_39_word_new_br_1: lazy
 bip_39_word_new_br_10: lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter<br>mean<br>seat
 bip_39_word_new_br_11: lazy<br>intact<br>shield<br>stomach<br>feature<br>skate<br>flight<br>winter<br>mean<br>seat<br>team
@@ -194,6 +206,18 @@ bip_39_word_space_6: lazy intact shield stomach feature skate
 bip_39_word_space_7: lazy intact shield stomach feature skate flight
 bip_39_word_space_8: lazy intact shield stomach feature skate flight winter
 bip_39_word_space_9: lazy intact shield stomach feature skate flight winter mean
+bip_39_word_underscore_1: lazy
+bip_39_word_underscore_10: lazy_intact_shield_stomach_feature_skate_flight_winter_mean_seat
+bip_39_word_underscore_11: lazy_intact_shield_stomach_feature_skate_flight_winter_mean_seat_team
+bip_39_word_underscore_12: lazy_intact_shield_stomach_feature_skate_flight_winter_mean_seat_team_artist
+bip_39_word_underscore_2: lazy_intact
+bip_39_word_underscore_3: lazy_intact_shield
+bip_39_word_underscore_4: lazy_intact_shield_stomach
+bip_39_word_underscore_5: lazy_intact_shield_stomach_feature
+bip_39_word_underscore_6: lazy_intact_shield_stomach_feature_skate
+bip_39_word_underscore_7: lazy_intact_shield_stomach_feature_skate_flight
+bip_39_word_underscore_8: lazy_intact_shield_stomach_feature_skate_flight_winter
+bip_39_word_underscore_9: lazy_intact_shield_stomach_feature_skate_flight_winter_mean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

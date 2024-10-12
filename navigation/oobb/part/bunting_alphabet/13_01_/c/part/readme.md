@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scatter |  
+| bip_39_word_dash_10 | scatter-expire-false-maid-notice-fiber-access-vote-sketch-good |  
+| bip_39_word_dash_11 | scatter-expire-false-maid-notice-fiber-access-vote-sketch-good-nation |  
+| bip_39_word_dash_12 | scatter-expire-false-maid-notice-fiber-access-vote-sketch-good-nation-avocado |  
+| bip_39_word_dash_2 | scatter-expire |  
+| bip_39_word_dash_3 | scatter-expire-false |  
+| bip_39_word_dash_4 | scatter-expire-false-maid |  
+| bip_39_word_dash_5 | scatter-expire-false-maid-notice |  
+| bip_39_word_dash_6 | scatter-expire-false-maid-notice-fiber |  
+| bip_39_word_dash_7 | scatter-expire-false-maid-notice-fiber-access |  
+| bip_39_word_dash_8 | scatter-expire-false-maid-notice-fiber-access-vote |  
+| bip_39_word_dash_9 | scatter-expire-false-maid-notice-fiber-access-vote-sketch |  
 | bip_39_word_new_br_1 | scatter |  
 | bip_39_word_new_br_10 | scatter<br>expire<br>false<br>maid<br>notice<br>fiber<br>access<br>vote<br>sketch<br>good |  
 | bip_39_word_new_br_11 | scatter<br>expire<br>false<br>maid<br>notice<br>fiber<br>access<br>vote<br>sketch<br>good<br>nation |  
@@ -147,6 +159,18 @@ sketch |
 | bip_39_word_space_7 | scatter expire false maid notice fiber access |  
 | bip_39_word_space_8 | scatter expire false maid notice fiber access vote |  
 | bip_39_word_space_9 | scatter expire false maid notice fiber access vote sketch |  
+| bip_39_word_underscore_1 | scatter |  
+| bip_39_word_underscore_10 | scatter_expire_false_maid_notice_fiber_access_vote_sketch_good |  
+| bip_39_word_underscore_11 | scatter_expire_false_maid_notice_fiber_access_vote_sketch_good_nation |  
+| bip_39_word_underscore_12 | scatter_expire_false_maid_notice_fiber_access_vote_sketch_good_nation_avocado |  
+| bip_39_word_underscore_2 | scatter_expire |  
+| bip_39_word_underscore_3 | scatter_expire_false |  
+| bip_39_word_underscore_4 | scatter_expire_false_maid |  
+| bip_39_word_underscore_5 | scatter_expire_false_maid_notice |  
+| bip_39_word_underscore_6 | scatter_expire_false_maid_notice_fiber |  
+| bip_39_word_underscore_7 | scatter_expire_false_maid_notice_fiber_access |  
+| bip_39_word_underscore_8 | scatter_expire_false_maid_notice_fiber_access_vote |  
+| bip_39_word_underscore_9 | scatter_expire_false_maid_notice_fiber_access_vote_sketch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

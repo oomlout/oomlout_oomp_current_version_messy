@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | van |  
+| bip_39_word_dash_10 | van-latin-seminar-orient-engage-can-thunder-entry-girl-inhale |  
+| bip_39_word_dash_11 | van-latin-seminar-orient-engage-can-thunder-entry-girl-inhale-purity |  
+| bip_39_word_dash_12 | van-latin-seminar-orient-engage-can-thunder-entry-girl-inhale-purity-absurd |  
+| bip_39_word_dash_2 | van-latin |  
+| bip_39_word_dash_3 | van-latin-seminar |  
+| bip_39_word_dash_4 | van-latin-seminar-orient |  
+| bip_39_word_dash_5 | van-latin-seminar-orient-engage |  
+| bip_39_word_dash_6 | van-latin-seminar-orient-engage-can |  
+| bip_39_word_dash_7 | van-latin-seminar-orient-engage-can-thunder |  
+| bip_39_word_dash_8 | van-latin-seminar-orient-engage-can-thunder-entry |  
+| bip_39_word_dash_9 | van-latin-seminar-orient-engage-can-thunder-entry-girl |  
 | bip_39_word_new_br_1 | van |  
 | bip_39_word_new_br_10 | van<br>latin<br>seminar<br>orient<br>engage<br>can<br>thunder<br>entry<br>girl<br>inhale |  
 | bip_39_word_new_br_11 | van<br>latin<br>seminar<br>orient<br>engage<br>can<br>thunder<br>entry<br>girl<br>inhale<br>purity |  
@@ -147,6 +159,18 @@ girl |
 | bip_39_word_space_7 | van latin seminar orient engage can thunder |  
 | bip_39_word_space_8 | van latin seminar orient engage can thunder entry |  
 | bip_39_word_space_9 | van latin seminar orient engage can thunder entry girl |  
+| bip_39_word_underscore_1 | van |  
+| bip_39_word_underscore_10 | van_latin_seminar_orient_engage_can_thunder_entry_girl_inhale |  
+| bip_39_word_underscore_11 | van_latin_seminar_orient_engage_can_thunder_entry_girl_inhale_purity |  
+| bip_39_word_underscore_12 | van_latin_seminar_orient_engage_can_thunder_entry_girl_inhale_purity_absurd |  
+| bip_39_word_underscore_2 | van_latin |  
+| bip_39_word_underscore_3 | van_latin_seminar |  
+| bip_39_word_underscore_4 | van_latin_seminar_orient |  
+| bip_39_word_underscore_5 | van_latin_seminar_orient_engage |  
+| bip_39_word_underscore_6 | van_latin_seminar_orient_engage_can |  
+| bip_39_word_underscore_7 | van_latin_seminar_orient_engage_can_thunder |  
+| bip_39_word_underscore_8 | van_latin_seminar_orient_engage_can_thunder_entry |  
+| bip_39_word_underscore_9 | van_latin_seminar_orient_engage_can_thunder_entry_girl |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | early |  
+| bip_39_word_dash_10 | early-flip-soap-capable-reveal-volcano-mango-end-stadium-topple |  
+| bip_39_word_dash_11 | early-flip-soap-capable-reveal-volcano-mango-end-stadium-topple-ostrich |  
+| bip_39_word_dash_12 | early-flip-soap-capable-reveal-volcano-mango-end-stadium-topple-ostrich-actress |  
+| bip_39_word_dash_2 | early-flip |  
+| bip_39_word_dash_3 | early-flip-soap |  
+| bip_39_word_dash_4 | early-flip-soap-capable |  
+| bip_39_word_dash_5 | early-flip-soap-capable-reveal |  
+| bip_39_word_dash_6 | early-flip-soap-capable-reveal-volcano |  
+| bip_39_word_dash_7 | early-flip-soap-capable-reveal-volcano-mango |  
+| bip_39_word_dash_8 | early-flip-soap-capable-reveal-volcano-mango-end |  
+| bip_39_word_dash_9 | early-flip-soap-capable-reveal-volcano-mango-end-stadium |  
 | bip_39_word_new_br_1 | early |  
 | bip_39_word_new_br_10 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end<br>stadium<br>topple |  
 | bip_39_word_new_br_11 | early<br>flip<br>soap<br>capable<br>reveal<br>volcano<br>mango<br>end<br>stadium<br>topple<br>ostrich |  
@@ -147,6 +159,18 @@ stadium |
 | bip_39_word_space_7 | early flip soap capable reveal volcano mango |  
 | bip_39_word_space_8 | early flip soap capable reveal volcano mango end |  
 | bip_39_word_space_9 | early flip soap capable reveal volcano mango end stadium |  
+| bip_39_word_underscore_1 | early |  
+| bip_39_word_underscore_10 | early_flip_soap_capable_reveal_volcano_mango_end_stadium_topple |  
+| bip_39_word_underscore_11 | early_flip_soap_capable_reveal_volcano_mango_end_stadium_topple_ostrich |  
+| bip_39_word_underscore_12 | early_flip_soap_capable_reveal_volcano_mango_end_stadium_topple_ostrich_actress |  
+| bip_39_word_underscore_2 | early_flip |  
+| bip_39_word_underscore_3 | early_flip_soap |  
+| bip_39_word_underscore_4 | early_flip_soap_capable |  
+| bip_39_word_underscore_5 | early_flip_soap_capable_reveal |  
+| bip_39_word_underscore_6 | early_flip_soap_capable_reveal_volcano |  
+| bip_39_word_underscore_7 | early_flip_soap_capable_reveal_volcano_mango |  
+| bip_39_word_underscore_8 | early_flip_soap_capable_reveal_volcano_mango_end |  
+| bip_39_word_underscore_9 | early_flip_soap_capable_reveal_volcano_mango_end_stadium |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

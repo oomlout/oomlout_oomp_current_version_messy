@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lonely
+bip_39_word_dash_10: lonely-pledge-electric-clinic-silent-plate-drink-junior-girl-pistol
+bip_39_word_dash_11: lonely-pledge-electric-clinic-silent-plate-drink-junior-girl-pistol-warfare
+bip_39_word_dash_12: lonely-pledge-electric-clinic-silent-plate-drink-junior-girl-pistol-warfare-aim
+bip_39_word_dash_2: lonely-pledge
+bip_39_word_dash_3: lonely-pledge-electric
+bip_39_word_dash_4: lonely-pledge-electric-clinic
+bip_39_word_dash_5: lonely-pledge-electric-clinic-silent
+bip_39_word_dash_6: lonely-pledge-electric-clinic-silent-plate
+bip_39_word_dash_7: lonely-pledge-electric-clinic-silent-plate-drink
+bip_39_word_dash_8: lonely-pledge-electric-clinic-silent-plate-drink-junior
+bip_39_word_dash_9: lonely-pledge-electric-clinic-silent-plate-drink-junior-girl
 bip_39_word_new_br_1: lonely
 bip_39_word_new_br_10: lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior<br>girl<br>pistol
 bip_39_word_new_br_11: lonely<br>pledge<br>electric<br>clinic<br>silent<br>plate<br>drink<br>junior<br>girl<br>pistol<br>warfare
@@ -194,6 +206,18 @@ bip_39_word_space_6: lonely pledge electric clinic silent plate
 bip_39_word_space_7: lonely pledge electric clinic silent plate drink
 bip_39_word_space_8: lonely pledge electric clinic silent plate drink junior
 bip_39_word_space_9: lonely pledge electric clinic silent plate drink junior girl
+bip_39_word_underscore_1: lonely
+bip_39_word_underscore_10: lonely_pledge_electric_clinic_silent_plate_drink_junior_girl_pistol
+bip_39_word_underscore_11: lonely_pledge_electric_clinic_silent_plate_drink_junior_girl_pistol_warfare
+bip_39_word_underscore_12: lonely_pledge_electric_clinic_silent_plate_drink_junior_girl_pistol_warfare_aim
+bip_39_word_underscore_2: lonely_pledge
+bip_39_word_underscore_3: lonely_pledge_electric
+bip_39_word_underscore_4: lonely_pledge_electric_clinic
+bip_39_word_underscore_5: lonely_pledge_electric_clinic_silent
+bip_39_word_underscore_6: lonely_pledge_electric_clinic_silent_plate
+bip_39_word_underscore_7: lonely_pledge_electric_clinic_silent_plate_drink
+bip_39_word_underscore_8: lonely_pledge_electric_clinic_silent_plate_drink_junior
+bip_39_word_underscore_9: lonely_pledge_electric_clinic_silent_plate_drink_junior_girl
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

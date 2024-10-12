@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chimney |  
+| bip_39_word_dash_10 | chimney-ski-whale-giraffe-oblige-crash-angle-clap-account-chat |  
+| bip_39_word_dash_11 | chimney-ski-whale-giraffe-oblige-crash-angle-clap-account-chat-black |  
+| bip_39_word_dash_12 | chimney-ski-whale-giraffe-oblige-crash-angle-clap-account-chat-black-asset |  
+| bip_39_word_dash_2 | chimney-ski |  
+| bip_39_word_dash_3 | chimney-ski-whale |  
+| bip_39_word_dash_4 | chimney-ski-whale-giraffe |  
+| bip_39_word_dash_5 | chimney-ski-whale-giraffe-oblige |  
+| bip_39_word_dash_6 | chimney-ski-whale-giraffe-oblige-crash |  
+| bip_39_word_dash_7 | chimney-ski-whale-giraffe-oblige-crash-angle |  
+| bip_39_word_dash_8 | chimney-ski-whale-giraffe-oblige-crash-angle-clap |  
+| bip_39_word_dash_9 | chimney-ski-whale-giraffe-oblige-crash-angle-clap-account |  
 | bip_39_word_new_br_1 | chimney |  
 | bip_39_word_new_br_10 | chimney<br>ski<br>whale<br>giraffe<br>oblige<br>crash<br>angle<br>clap<br>account<br>chat |  
 | bip_39_word_new_br_11 | chimney<br>ski<br>whale<br>giraffe<br>oblige<br>crash<br>angle<br>clap<br>account<br>chat<br>black |  
@@ -147,6 +159,18 @@ account |
 | bip_39_word_space_7 | chimney ski whale giraffe oblige crash angle |  
 | bip_39_word_space_8 | chimney ski whale giraffe oblige crash angle clap |  
 | bip_39_word_space_9 | chimney ski whale giraffe oblige crash angle clap account |  
+| bip_39_word_underscore_1 | chimney |  
+| bip_39_word_underscore_10 | chimney_ski_whale_giraffe_oblige_crash_angle_clap_account_chat |  
+| bip_39_word_underscore_11 | chimney_ski_whale_giraffe_oblige_crash_angle_clap_account_chat_black |  
+| bip_39_word_underscore_12 | chimney_ski_whale_giraffe_oblige_crash_angle_clap_account_chat_black_asset |  
+| bip_39_word_underscore_2 | chimney_ski |  
+| bip_39_word_underscore_3 | chimney_ski_whale |  
+| bip_39_word_underscore_4 | chimney_ski_whale_giraffe |  
+| bip_39_word_underscore_5 | chimney_ski_whale_giraffe_oblige |  
+| bip_39_word_underscore_6 | chimney_ski_whale_giraffe_oblige_crash |  
+| bip_39_word_underscore_7 | chimney_ski_whale_giraffe_oblige_crash_angle |  
+| bip_39_word_underscore_8 | chimney_ski_whale_giraffe_oblige_crash_angle_clap |  
+| bip_39_word_underscore_9 | chimney_ski_whale_giraffe_oblige_crash_angle_clap_account |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

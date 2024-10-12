@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | creek |  
+| bip_39_word_dash_10 | creek-west-grab-outside-able-cable-arctic-lemon-laugh-output |  
+| bip_39_word_dash_11 | creek-west-grab-outside-able-cable-arctic-lemon-laugh-output-exhibit |  
+| bip_39_word_dash_12 | creek-west-grab-outside-able-cable-arctic-lemon-laugh-output-exhibit-arrange |  
+| bip_39_word_dash_2 | creek-west |  
+| bip_39_word_dash_3 | creek-west-grab |  
+| bip_39_word_dash_4 | creek-west-grab-outside |  
+| bip_39_word_dash_5 | creek-west-grab-outside-able |  
+| bip_39_word_dash_6 | creek-west-grab-outside-able-cable |  
+| bip_39_word_dash_7 | creek-west-grab-outside-able-cable-arctic |  
+| bip_39_word_dash_8 | creek-west-grab-outside-able-cable-arctic-lemon |  
+| bip_39_word_dash_9 | creek-west-grab-outside-able-cable-arctic-lemon-laugh |  
 | bip_39_word_new_br_1 | creek |  
 | bip_39_word_new_br_10 | creek<br>west<br>grab<br>outside<br>able<br>cable<br>arctic<br>lemon<br>laugh<br>output |  
 | bip_39_word_new_br_11 | creek<br>west<br>grab<br>outside<br>able<br>cable<br>arctic<br>lemon<br>laugh<br>output<br>exhibit |  
@@ -147,6 +159,18 @@ laugh |
 | bip_39_word_space_7 | creek west grab outside able cable arctic |  
 | bip_39_word_space_8 | creek west grab outside able cable arctic lemon |  
 | bip_39_word_space_9 | creek west grab outside able cable arctic lemon laugh |  
+| bip_39_word_underscore_1 | creek |  
+| bip_39_word_underscore_10 | creek_west_grab_outside_able_cable_arctic_lemon_laugh_output |  
+| bip_39_word_underscore_11 | creek_west_grab_outside_able_cable_arctic_lemon_laugh_output_exhibit |  
+| bip_39_word_underscore_12 | creek_west_grab_outside_able_cable_arctic_lemon_laugh_output_exhibit_arrange |  
+| bip_39_word_underscore_2 | creek_west |  
+| bip_39_word_underscore_3 | creek_west_grab |  
+| bip_39_word_underscore_4 | creek_west_grab_outside |  
+| bip_39_word_underscore_5 | creek_west_grab_outside_able |  
+| bip_39_word_underscore_6 | creek_west_grab_outside_able_cable |  
+| bip_39_word_underscore_7 | creek_west_grab_outside_able_cable_arctic |  
+| bip_39_word_underscore_8 | creek_west_grab_outside_able_cable_arctic_lemon |  
+| bip_39_word_underscore_9 | creek_west_grab_outside_able_cable_arctic_lemon_laugh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

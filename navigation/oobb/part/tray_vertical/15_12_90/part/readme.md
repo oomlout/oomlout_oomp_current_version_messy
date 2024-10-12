@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | width |  
+| bip_39_word_dash_10 | width-predict-sound-quote-debris-pink-rent-round-fitness-chase |  
+| bip_39_word_dash_11 | width-predict-sound-quote-debris-pink-rent-round-fitness-chase-oyster |  
+| bip_39_word_dash_12 | width-predict-sound-quote-debris-pink-rent-round-fitness-chase-oyster-approve |  
+| bip_39_word_dash_2 | width-predict |  
+| bip_39_word_dash_3 | width-predict-sound |  
+| bip_39_word_dash_4 | width-predict-sound-quote |  
+| bip_39_word_dash_5 | width-predict-sound-quote-debris |  
+| bip_39_word_dash_6 | width-predict-sound-quote-debris-pink |  
+| bip_39_word_dash_7 | width-predict-sound-quote-debris-pink-rent |  
+| bip_39_word_dash_8 | width-predict-sound-quote-debris-pink-rent-round |  
+| bip_39_word_dash_9 | width-predict-sound-quote-debris-pink-rent-round-fitness |  
 | bip_39_word_new_br_1 | width |  
 | bip_39_word_new_br_10 | width<br>predict<br>sound<br>quote<br>debris<br>pink<br>rent<br>round<br>fitness<br>chase |  
 | bip_39_word_new_br_11 | width<br>predict<br>sound<br>quote<br>debris<br>pink<br>rent<br>round<br>fitness<br>chase<br>oyster |  
@@ -147,6 +159,18 @@ fitness |
 | bip_39_word_space_7 | width predict sound quote debris pink rent |  
 | bip_39_word_space_8 | width predict sound quote debris pink rent round |  
 | bip_39_word_space_9 | width predict sound quote debris pink rent round fitness |  
+| bip_39_word_underscore_1 | width |  
+| bip_39_word_underscore_10 | width_predict_sound_quote_debris_pink_rent_round_fitness_chase |  
+| bip_39_word_underscore_11 | width_predict_sound_quote_debris_pink_rent_round_fitness_chase_oyster |  
+| bip_39_word_underscore_12 | width_predict_sound_quote_debris_pink_rent_round_fitness_chase_oyster_approve |  
+| bip_39_word_underscore_2 | width_predict |  
+| bip_39_word_underscore_3 | width_predict_sound |  
+| bip_39_word_underscore_4 | width_predict_sound_quote |  
+| bip_39_word_underscore_5 | width_predict_sound_quote_debris |  
+| bip_39_word_underscore_6 | width_predict_sound_quote_debris_pink |  
+| bip_39_word_underscore_7 | width_predict_sound_quote_debris_pink_rent |  
+| bip_39_word_underscore_8 | width_predict_sound_quote_debris_pink_rent_round |  
+| bip_39_word_underscore_9 | width_predict_sound_quote_debris_pink_rent_round_fitness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: panther
+bip_39_word_dash_10: panther-across-priority-popular-inspire-original-pioneer-key-dry-lonely
+bip_39_word_dash_11: panther-across-priority-popular-inspire-original-pioneer-key-dry-lonely-ostrich
+bip_39_word_dash_12: panther-across-priority-popular-inspire-original-pioneer-key-dry-lonely-ostrich-asset
+bip_39_word_dash_2: panther-across
+bip_39_word_dash_3: panther-across-priority
+bip_39_word_dash_4: panther-across-priority-popular
+bip_39_word_dash_5: panther-across-priority-popular-inspire
+bip_39_word_dash_6: panther-across-priority-popular-inspire-original
+bip_39_word_dash_7: panther-across-priority-popular-inspire-original-pioneer
+bip_39_word_dash_8: panther-across-priority-popular-inspire-original-pioneer-key
+bip_39_word_dash_9: panther-across-priority-popular-inspire-original-pioneer-key-dry
 bip_39_word_new_br_1: panther
 bip_39_word_new_br_10: panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely
 bip_39_word_new_br_11: panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely<br>ostrich
@@ -195,6 +207,18 @@ bip_39_word_space_7: panther across priority popular inspire original pioneer
 bip_39_word_space_8: panther across priority popular inspire original pioneer key
 bip_39_word_space_9: panther across priority popular inspire original pioneer key
   dry
+bip_39_word_underscore_1: panther
+bip_39_word_underscore_10: panther_across_priority_popular_inspire_original_pioneer_key_dry_lonely
+bip_39_word_underscore_11: panther_across_priority_popular_inspire_original_pioneer_key_dry_lonely_ostrich
+bip_39_word_underscore_12: panther_across_priority_popular_inspire_original_pioneer_key_dry_lonely_ostrich_asset
+bip_39_word_underscore_2: panther_across
+bip_39_word_underscore_3: panther_across_priority
+bip_39_word_underscore_4: panther_across_priority_popular
+bip_39_word_underscore_5: panther_across_priority_popular_inspire
+bip_39_word_underscore_6: panther_across_priority_popular_inspire_original
+bip_39_word_underscore_7: panther_across_priority_popular_inspire_original_pioneer
+bip_39_word_underscore_8: panther_across_priority_popular_inspire_original_pioneer_key
+bip_39_word_underscore_9: panther_across_priority_popular_inspire_original_pioneer_key_dry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

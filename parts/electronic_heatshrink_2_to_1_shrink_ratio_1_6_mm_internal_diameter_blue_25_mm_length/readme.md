@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blossom |  
+| bip_39_word_dash_10 | blossom-gold-absent-limit-split-enact-cash-stuff-verb-ecology |  
+| bip_39_word_dash_11 | blossom-gold-absent-limit-split-enact-cash-stuff-verb-ecology-banana |  
+| bip_39_word_dash_12 | blossom-gold-absent-limit-split-enact-cash-stuff-verb-ecology-banana-across |  
+| bip_39_word_dash_2 | blossom-gold |  
+| bip_39_word_dash_3 | blossom-gold-absent |  
+| bip_39_word_dash_4 | blossom-gold-absent-limit |  
+| bip_39_word_dash_5 | blossom-gold-absent-limit-split |  
+| bip_39_word_dash_6 | blossom-gold-absent-limit-split-enact |  
+| bip_39_word_dash_7 | blossom-gold-absent-limit-split-enact-cash |  
+| bip_39_word_dash_8 | blossom-gold-absent-limit-split-enact-cash-stuff |  
+| bip_39_word_dash_9 | blossom-gold-absent-limit-split-enact-cash-stuff-verb |  
 | bip_39_word_new_br_1 | blossom |  
 | bip_39_word_new_br_10 | blossom<br>gold<br>absent<br>limit<br>split<br>enact<br>cash<br>stuff<br>verb<br>ecology |  
 | bip_39_word_new_br_11 | blossom<br>gold<br>absent<br>limit<br>split<br>enact<br>cash<br>stuff<br>verb<br>ecology<br>banana |  
@@ -147,6 +159,18 @@ verb |
 | bip_39_word_space_7 | blossom gold absent limit split enact cash |  
 | bip_39_word_space_8 | blossom gold absent limit split enact cash stuff |  
 | bip_39_word_space_9 | blossom gold absent limit split enact cash stuff verb |  
+| bip_39_word_underscore_1 | blossom |  
+| bip_39_word_underscore_10 | blossom_gold_absent_limit_split_enact_cash_stuff_verb_ecology |  
+| bip_39_word_underscore_11 | blossom_gold_absent_limit_split_enact_cash_stuff_verb_ecology_banana |  
+| bip_39_word_underscore_12 | blossom_gold_absent_limit_split_enact_cash_stuff_verb_ecology_banana_across |  
+| bip_39_word_underscore_2 | blossom_gold |  
+| bip_39_word_underscore_3 | blossom_gold_absent |  
+| bip_39_word_underscore_4 | blossom_gold_absent_limit |  
+| bip_39_word_underscore_5 | blossom_gold_absent_limit_split |  
+| bip_39_word_underscore_6 | blossom_gold_absent_limit_split_enact |  
+| bip_39_word_underscore_7 | blossom_gold_absent_limit_split_enact_cash |  
+| bip_39_word_underscore_8 | blossom_gold_absent_limit_split_enact_cash_stuff |  
+| bip_39_word_underscore_9 | blossom_gold_absent_limit_split_enact_cash_stuff_verb |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

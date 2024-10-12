@@ -1,3 +1,15 @@
+bip_39_word_dash_1: saddle
+bip_39_word_dash_10: saddle-hurry-modify-slab-pistol-blade-recall-live-neither-today
+bip_39_word_dash_11: saddle-hurry-modify-slab-pistol-blade-recall-live-neither-today-kitten
+bip_39_word_dash_12: saddle-hurry-modify-slab-pistol-blade-recall-live-neither-today-kitten-all
+bip_39_word_dash_2: saddle-hurry
+bip_39_word_dash_3: saddle-hurry-modify
+bip_39_word_dash_4: saddle-hurry-modify-slab
+bip_39_word_dash_5: saddle-hurry-modify-slab-pistol
+bip_39_word_dash_6: saddle-hurry-modify-slab-pistol-blade
+bip_39_word_dash_7: saddle-hurry-modify-slab-pistol-blade-recall
+bip_39_word_dash_8: saddle-hurry-modify-slab-pistol-blade-recall-live
+bip_39_word_dash_9: saddle-hurry-modify-slab-pistol-blade-recall-live-neither
 bip_39_word_new_br_1: saddle
 bip_39_word_new_br_10: saddle<br>hurry<br>modify<br>slab<br>pistol<br>blade<br>recall<br>live<br>neither<br>today
 bip_39_word_new_br_11: saddle<br>hurry<br>modify<br>slab<br>pistol<br>blade<br>recall<br>live<br>neither<br>today<br>kitten
@@ -193,6 +205,18 @@ bip_39_word_space_6: saddle hurry modify slab pistol blade
 bip_39_word_space_7: saddle hurry modify slab pistol blade recall
 bip_39_word_space_8: saddle hurry modify slab pistol blade recall live
 bip_39_word_space_9: saddle hurry modify slab pistol blade recall live neither
+bip_39_word_underscore_1: saddle
+bip_39_word_underscore_10: saddle_hurry_modify_slab_pistol_blade_recall_live_neither_today
+bip_39_word_underscore_11: saddle_hurry_modify_slab_pistol_blade_recall_live_neither_today_kitten
+bip_39_word_underscore_12: saddle_hurry_modify_slab_pistol_blade_recall_live_neither_today_kitten_all
+bip_39_word_underscore_2: saddle_hurry
+bip_39_word_underscore_3: saddle_hurry_modify
+bip_39_word_underscore_4: saddle_hurry_modify_slab
+bip_39_word_underscore_5: saddle_hurry_modify_slab_pistol
+bip_39_word_underscore_6: saddle_hurry_modify_slab_pistol_blade
+bip_39_word_underscore_7: saddle_hurry_modify_slab_pistol_blade_recall
+bip_39_word_underscore_8: saddle_hurry_modify_slab_pistol_blade_recall_live
+bip_39_word_underscore_9: saddle_hurry_modify_slab_pistol_blade_recall_live_neither
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

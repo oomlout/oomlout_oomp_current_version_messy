@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | turtle |  
+| bip_39_word_dash_10 | turtle-voyage-comic-peanut-arm-health-usual-rib-emotion-giant |  
+| bip_39_word_dash_11 | turtle-voyage-comic-peanut-arm-health-usual-rib-emotion-giant-allow |  
+| bip_39_word_dash_12 | turtle-voyage-comic-peanut-arm-health-usual-rib-emotion-giant-allow-aisle |  
+| bip_39_word_dash_2 | turtle-voyage |  
+| bip_39_word_dash_3 | turtle-voyage-comic |  
+| bip_39_word_dash_4 | turtle-voyage-comic-peanut |  
+| bip_39_word_dash_5 | turtle-voyage-comic-peanut-arm |  
+| bip_39_word_dash_6 | turtle-voyage-comic-peanut-arm-health |  
+| bip_39_word_dash_7 | turtle-voyage-comic-peanut-arm-health-usual |  
+| bip_39_word_dash_8 | turtle-voyage-comic-peanut-arm-health-usual-rib |  
+| bip_39_word_dash_9 | turtle-voyage-comic-peanut-arm-health-usual-rib-emotion |  
 | bip_39_word_new_br_1 | turtle |  
 | bip_39_word_new_br_10 | turtle<br>voyage<br>comic<br>peanut<br>arm<br>health<br>usual<br>rib<br>emotion<br>giant |  
 | bip_39_word_new_br_11 | turtle<br>voyage<br>comic<br>peanut<br>arm<br>health<br>usual<br>rib<br>emotion<br>giant<br>allow |  
@@ -147,6 +159,18 @@ emotion |
 | bip_39_word_space_7 | turtle voyage comic peanut arm health usual |  
 | bip_39_word_space_8 | turtle voyage comic peanut arm health usual rib |  
 | bip_39_word_space_9 | turtle voyage comic peanut arm health usual rib emotion |  
+| bip_39_word_underscore_1 | turtle |  
+| bip_39_word_underscore_10 | turtle_voyage_comic_peanut_arm_health_usual_rib_emotion_giant |  
+| bip_39_word_underscore_11 | turtle_voyage_comic_peanut_arm_health_usual_rib_emotion_giant_allow |  
+| bip_39_word_underscore_12 | turtle_voyage_comic_peanut_arm_health_usual_rib_emotion_giant_allow_aisle |  
+| bip_39_word_underscore_2 | turtle_voyage |  
+| bip_39_word_underscore_3 | turtle_voyage_comic |  
+| bip_39_word_underscore_4 | turtle_voyage_comic_peanut |  
+| bip_39_word_underscore_5 | turtle_voyage_comic_peanut_arm |  
+| bip_39_word_underscore_6 | turtle_voyage_comic_peanut_arm_health |  
+| bip_39_word_underscore_7 | turtle_voyage_comic_peanut_arm_health_usual |  
+| bip_39_word_underscore_8 | turtle_voyage_comic_peanut_arm_health_usual_rib |  
+| bip_39_word_underscore_9 | turtle_voyage_comic_peanut_arm_health_usual_rib_emotion |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

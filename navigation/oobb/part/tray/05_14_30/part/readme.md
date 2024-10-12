@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ramp |  
+| bip_39_word_dash_10 | ramp-uncover-divert-phone-feature-call-couch-list-olympic-motion |  
+| bip_39_word_dash_11 | ramp-uncover-divert-phone-feature-call-couch-list-olympic-motion-another |  
+| bip_39_word_dash_12 | ramp-uncover-divert-phone-feature-call-couch-list-olympic-motion-another-arm |  
+| bip_39_word_dash_2 | ramp-uncover |  
+| bip_39_word_dash_3 | ramp-uncover-divert |  
+| bip_39_word_dash_4 | ramp-uncover-divert-phone |  
+| bip_39_word_dash_5 | ramp-uncover-divert-phone-feature |  
+| bip_39_word_dash_6 | ramp-uncover-divert-phone-feature-call |  
+| bip_39_word_dash_7 | ramp-uncover-divert-phone-feature-call-couch |  
+| bip_39_word_dash_8 | ramp-uncover-divert-phone-feature-call-couch-list |  
+| bip_39_word_dash_9 | ramp-uncover-divert-phone-feature-call-couch-list-olympic |  
 | bip_39_word_new_br_1 | ramp |  
 | bip_39_word_new_br_10 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion |  
 | bip_39_word_new_br_11 | ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion<br>another |  
@@ -147,6 +159,18 @@ olympic |
 | bip_39_word_space_7 | ramp uncover divert phone feature call couch |  
 | bip_39_word_space_8 | ramp uncover divert phone feature call couch list |  
 | bip_39_word_space_9 | ramp uncover divert phone feature call couch list olympic |  
+| bip_39_word_underscore_1 | ramp |  
+| bip_39_word_underscore_10 | ramp_uncover_divert_phone_feature_call_couch_list_olympic_motion |  
+| bip_39_word_underscore_11 | ramp_uncover_divert_phone_feature_call_couch_list_olympic_motion_another |  
+| bip_39_word_underscore_12 | ramp_uncover_divert_phone_feature_call_couch_list_olympic_motion_another_arm |  
+| bip_39_word_underscore_2 | ramp_uncover |  
+| bip_39_word_underscore_3 | ramp_uncover_divert |  
+| bip_39_word_underscore_4 | ramp_uncover_divert_phone |  
+| bip_39_word_underscore_5 | ramp_uncover_divert_phone_feature |  
+| bip_39_word_underscore_6 | ramp_uncover_divert_phone_feature_call |  
+| bip_39_word_underscore_7 | ramp_uncover_divert_phone_feature_call_couch |  
+| bip_39_word_underscore_8 | ramp_uncover_divert_phone_feature_call_couch_list |  
+| bip_39_word_underscore_9 | ramp_uncover_divert_phone_feature_call_couch_list_olympic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

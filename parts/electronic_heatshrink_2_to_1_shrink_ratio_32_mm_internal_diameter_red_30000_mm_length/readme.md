@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | emerge |  
+| bip_39_word_dash_10 | emerge-total-beef-clinic-arrow-blame-olive-speak-clay-mean |  
+| bip_39_word_dash_11 | emerge-total-beef-clinic-arrow-blame-olive-speak-clay-mean-uphold |  
+| bip_39_word_dash_12 | emerge-total-beef-clinic-arrow-blame-olive-speak-clay-mean-uphold-attend |  
+| bip_39_word_dash_2 | emerge-total |  
+| bip_39_word_dash_3 | emerge-total-beef |  
+| bip_39_word_dash_4 | emerge-total-beef-clinic |  
+| bip_39_word_dash_5 | emerge-total-beef-clinic-arrow |  
+| bip_39_word_dash_6 | emerge-total-beef-clinic-arrow-blame |  
+| bip_39_word_dash_7 | emerge-total-beef-clinic-arrow-blame-olive |  
+| bip_39_word_dash_8 | emerge-total-beef-clinic-arrow-blame-olive-speak |  
+| bip_39_word_dash_9 | emerge-total-beef-clinic-arrow-blame-olive-speak-clay |  
 | bip_39_word_new_br_1 | emerge |  
 | bip_39_word_new_br_10 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak<br>clay<br>mean |  
 | bip_39_word_new_br_11 | emerge<br>total<br>beef<br>clinic<br>arrow<br>blame<br>olive<br>speak<br>clay<br>mean<br>uphold |  
@@ -147,6 +159,18 @@ clay |
 | bip_39_word_space_7 | emerge total beef clinic arrow blame olive |  
 | bip_39_word_space_8 | emerge total beef clinic arrow blame olive speak |  
 | bip_39_word_space_9 | emerge total beef clinic arrow blame olive speak clay |  
+| bip_39_word_underscore_1 | emerge |  
+| bip_39_word_underscore_10 | emerge_total_beef_clinic_arrow_blame_olive_speak_clay_mean |  
+| bip_39_word_underscore_11 | emerge_total_beef_clinic_arrow_blame_olive_speak_clay_mean_uphold |  
+| bip_39_word_underscore_12 | emerge_total_beef_clinic_arrow_blame_olive_speak_clay_mean_uphold_attend |  
+| bip_39_word_underscore_2 | emerge_total |  
+| bip_39_word_underscore_3 | emerge_total_beef |  
+| bip_39_word_underscore_4 | emerge_total_beef_clinic |  
+| bip_39_word_underscore_5 | emerge_total_beef_clinic_arrow |  
+| bip_39_word_underscore_6 | emerge_total_beef_clinic_arrow_blame |  
+| bip_39_word_underscore_7 | emerge_total_beef_clinic_arrow_blame_olive |  
+| bip_39_word_underscore_8 | emerge_total_beef_clinic_arrow_blame_olive_speak |  
+| bip_39_word_underscore_9 | emerge_total_beef_clinic_arrow_blame_olive_speak_clay |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arch |  
+| bip_39_word_dash_10 | arch-dolphin-predict-develop-shaft-indoor-calm-myth-crawl-cement |  
+| bip_39_word_dash_11 | arch-dolphin-predict-develop-shaft-indoor-calm-myth-crawl-cement-search |  
+| bip_39_word_dash_12 | arch-dolphin-predict-develop-shaft-indoor-calm-myth-crawl-cement-search-analyst |  
+| bip_39_word_dash_2 | arch-dolphin |  
+| bip_39_word_dash_3 | arch-dolphin-predict |  
+| bip_39_word_dash_4 | arch-dolphin-predict-develop |  
+| bip_39_word_dash_5 | arch-dolphin-predict-develop-shaft |  
+| bip_39_word_dash_6 | arch-dolphin-predict-develop-shaft-indoor |  
+| bip_39_word_dash_7 | arch-dolphin-predict-develop-shaft-indoor-calm |  
+| bip_39_word_dash_8 | arch-dolphin-predict-develop-shaft-indoor-calm-myth |  
+| bip_39_word_dash_9 | arch-dolphin-predict-develop-shaft-indoor-calm-myth-crawl |  
 | bip_39_word_new_br_1 | arch |  
 | bip_39_word_new_br_10 | arch<br>dolphin<br>predict<br>develop<br>shaft<br>indoor<br>calm<br>myth<br>crawl<br>cement |  
 | bip_39_word_new_br_11 | arch<br>dolphin<br>predict<br>develop<br>shaft<br>indoor<br>calm<br>myth<br>crawl<br>cement<br>search |  
@@ -147,6 +159,18 @@ crawl |
 | bip_39_word_space_7 | arch dolphin predict develop shaft indoor calm |  
 | bip_39_word_space_8 | arch dolphin predict develop shaft indoor calm myth |  
 | bip_39_word_space_9 | arch dolphin predict develop shaft indoor calm myth crawl |  
+| bip_39_word_underscore_1 | arch |  
+| bip_39_word_underscore_10 | arch_dolphin_predict_develop_shaft_indoor_calm_myth_crawl_cement |  
+| bip_39_word_underscore_11 | arch_dolphin_predict_develop_shaft_indoor_calm_myth_crawl_cement_search |  
+| bip_39_word_underscore_12 | arch_dolphin_predict_develop_shaft_indoor_calm_myth_crawl_cement_search_analyst |  
+| bip_39_word_underscore_2 | arch_dolphin |  
+| bip_39_word_underscore_3 | arch_dolphin_predict |  
+| bip_39_word_underscore_4 | arch_dolphin_predict_develop |  
+| bip_39_word_underscore_5 | arch_dolphin_predict_develop_shaft |  
+| bip_39_word_underscore_6 | arch_dolphin_predict_develop_shaft_indoor |  
+| bip_39_word_underscore_7 | arch_dolphin_predict_develop_shaft_indoor_calm |  
+| bip_39_word_underscore_8 | arch_dolphin_predict_develop_shaft_indoor_calm_myth |  
+| bip_39_word_underscore_9 | arch_dolphin_predict_develop_shaft_indoor_calm_myth_crawl |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

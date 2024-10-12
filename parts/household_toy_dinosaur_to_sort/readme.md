@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | finger |  
+| bip_39_word_dash_10 | finger-puppy-sample-utility-oxygen-scene-attack-slice-oyster-flat |  
+| bip_39_word_dash_11 | finger-puppy-sample-utility-oxygen-scene-attack-slice-oyster-flat-conduct |  
+| bip_39_word_dash_12 | finger-puppy-sample-utility-oxygen-scene-attack-slice-oyster-flat-conduct-advice |  
+| bip_39_word_dash_2 | finger-puppy |  
+| bip_39_word_dash_3 | finger-puppy-sample |  
+| bip_39_word_dash_4 | finger-puppy-sample-utility |  
+| bip_39_word_dash_5 | finger-puppy-sample-utility-oxygen |  
+| bip_39_word_dash_6 | finger-puppy-sample-utility-oxygen-scene |  
+| bip_39_word_dash_7 | finger-puppy-sample-utility-oxygen-scene-attack |  
+| bip_39_word_dash_8 | finger-puppy-sample-utility-oxygen-scene-attack-slice |  
+| bip_39_word_dash_9 | finger-puppy-sample-utility-oxygen-scene-attack-slice-oyster |  
 | bip_39_word_new_br_1 | finger |  
 | bip_39_word_new_br_10 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice<br>oyster<br>flat |  
 | bip_39_word_new_br_11 | finger<br>puppy<br>sample<br>utility<br>oxygen<br>scene<br>attack<br>slice<br>oyster<br>flat<br>conduct |  
@@ -147,6 +159,18 @@ oyster |
 | bip_39_word_space_7 | finger puppy sample utility oxygen scene attack |  
 | bip_39_word_space_8 | finger puppy sample utility oxygen scene attack slice |  
 | bip_39_word_space_9 | finger puppy sample utility oxygen scene attack slice oyster |  
+| bip_39_word_underscore_1 | finger |  
+| bip_39_word_underscore_10 | finger_puppy_sample_utility_oxygen_scene_attack_slice_oyster_flat |  
+| bip_39_word_underscore_11 | finger_puppy_sample_utility_oxygen_scene_attack_slice_oyster_flat_conduct |  
+| bip_39_word_underscore_12 | finger_puppy_sample_utility_oxygen_scene_attack_slice_oyster_flat_conduct_advice |  
+| bip_39_word_underscore_2 | finger_puppy |  
+| bip_39_word_underscore_3 | finger_puppy_sample |  
+| bip_39_word_underscore_4 | finger_puppy_sample_utility |  
+| bip_39_word_underscore_5 | finger_puppy_sample_utility_oxygen |  
+| bip_39_word_underscore_6 | finger_puppy_sample_utility_oxygen_scene |  
+| bip_39_word_underscore_7 | finger_puppy_sample_utility_oxygen_scene_attack |  
+| bip_39_word_underscore_8 | finger_puppy_sample_utility_oxygen_scene_attack_slice |  
+| bip_39_word_underscore_9 | finger_puppy_sample_utility_oxygen_scene_attack_slice_oyster |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

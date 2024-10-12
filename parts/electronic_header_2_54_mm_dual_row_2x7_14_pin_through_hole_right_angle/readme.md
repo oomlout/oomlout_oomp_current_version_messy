@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | federal |  
+| bip_39_word_dash_10 | federal-salad-income-path-alarm-bird-bright-later-attack-bubble |  
+| bip_39_word_dash_11 | federal-salad-income-path-alarm-bird-bright-later-attack-bubble-seven |  
+| bip_39_word_dash_12 | federal-salad-income-path-alarm-bird-bright-later-attack-bubble-seven-aspect |  
+| bip_39_word_dash_2 | federal-salad |  
+| bip_39_word_dash_3 | federal-salad-income |  
+| bip_39_word_dash_4 | federal-salad-income-path |  
+| bip_39_word_dash_5 | federal-salad-income-path-alarm |  
+| bip_39_word_dash_6 | federal-salad-income-path-alarm-bird |  
+| bip_39_word_dash_7 | federal-salad-income-path-alarm-bird-bright |  
+| bip_39_word_dash_8 | federal-salad-income-path-alarm-bird-bright-later |  
+| bip_39_word_dash_9 | federal-salad-income-path-alarm-bird-bright-later-attack |  
 | bip_39_word_new_br_1 | federal |  
 | bip_39_word_new_br_10 | federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble |  
 | bip_39_word_new_br_11 | federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble<br>seven |  
@@ -147,6 +159,18 @@ attack |
 | bip_39_word_space_7 | federal salad income path alarm bird bright |  
 | bip_39_word_space_8 | federal salad income path alarm bird bright later |  
 | bip_39_word_space_9 | federal salad income path alarm bird bright later attack |  
+| bip_39_word_underscore_1 | federal |  
+| bip_39_word_underscore_10 | federal_salad_income_path_alarm_bird_bright_later_attack_bubble |  
+| bip_39_word_underscore_11 | federal_salad_income_path_alarm_bird_bright_later_attack_bubble_seven |  
+| bip_39_word_underscore_12 | federal_salad_income_path_alarm_bird_bright_later_attack_bubble_seven_aspect |  
+| bip_39_word_underscore_2 | federal_salad |  
+| bip_39_word_underscore_3 | federal_salad_income |  
+| bip_39_word_underscore_4 | federal_salad_income_path |  
+| bip_39_word_underscore_5 | federal_salad_income_path_alarm |  
+| bip_39_word_underscore_6 | federal_salad_income_path_alarm_bird |  
+| bip_39_word_underscore_7 | federal_salad_income_path_alarm_bird_bright |  
+| bip_39_word_underscore_8 | federal_salad_income_path_alarm_bird_bright_later |  
+| bip_39_word_underscore_9 | federal_salad_income_path_alarm_bird_bright_later_attack |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

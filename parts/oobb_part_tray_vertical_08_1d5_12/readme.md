@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ability |  
+| bip_39_word_dash_10 | ability-grocery-license-few-patrol-vessel-grace-dentist-pass-pride |  
+| bip_39_word_dash_11 | ability-grocery-license-few-patrol-vessel-grace-dentist-pass-pride-scrub |  
+| bip_39_word_dash_12 | ability-grocery-license-few-patrol-vessel-grace-dentist-pass-pride-scrub-achieve |  
+| bip_39_word_dash_2 | ability-grocery |  
+| bip_39_word_dash_3 | ability-grocery-license |  
+| bip_39_word_dash_4 | ability-grocery-license-few |  
+| bip_39_word_dash_5 | ability-grocery-license-few-patrol |  
+| bip_39_word_dash_6 | ability-grocery-license-few-patrol-vessel |  
+| bip_39_word_dash_7 | ability-grocery-license-few-patrol-vessel-grace |  
+| bip_39_word_dash_8 | ability-grocery-license-few-patrol-vessel-grace-dentist |  
+| bip_39_word_dash_9 | ability-grocery-license-few-patrol-vessel-grace-dentist-pass |  
 | bip_39_word_new_br_1 | ability |  
 | bip_39_word_new_br_10 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist<br>pass<br>pride |  
 | bip_39_word_new_br_11 | ability<br>grocery<br>license<br>few<br>patrol<br>vessel<br>grace<br>dentist<br>pass<br>pride<br>scrub |  
@@ -147,6 +159,18 @@ pass |
 | bip_39_word_space_7 | ability grocery license few patrol vessel grace |  
 | bip_39_word_space_8 | ability grocery license few patrol vessel grace dentist |  
 | bip_39_word_space_9 | ability grocery license few patrol vessel grace dentist pass |  
+| bip_39_word_underscore_1 | ability |  
+| bip_39_word_underscore_10 | ability_grocery_license_few_patrol_vessel_grace_dentist_pass_pride |  
+| bip_39_word_underscore_11 | ability_grocery_license_few_patrol_vessel_grace_dentist_pass_pride_scrub |  
+| bip_39_word_underscore_12 | ability_grocery_license_few_patrol_vessel_grace_dentist_pass_pride_scrub_achieve |  
+| bip_39_word_underscore_2 | ability_grocery |  
+| bip_39_word_underscore_3 | ability_grocery_license |  
+| bip_39_word_underscore_4 | ability_grocery_license_few |  
+| bip_39_word_underscore_5 | ability_grocery_license_few_patrol |  
+| bip_39_word_underscore_6 | ability_grocery_license_few_patrol_vessel |  
+| bip_39_word_underscore_7 | ability_grocery_license_few_patrol_vessel_grace |  
+| bip_39_word_underscore_8 | ability_grocery_license_few_patrol_vessel_grace_dentist |  
+| bip_39_word_underscore_9 | ability_grocery_license_few_patrol_vessel_grace_dentist_pass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

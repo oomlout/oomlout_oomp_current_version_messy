@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | will |  
+| bip_39_word_dash_10 | will-plate-evolve-body-harbor-balance-weird-flavor-wagon-history |  
+| bip_39_word_dash_11 | will-plate-evolve-body-harbor-balance-weird-flavor-wagon-history-gather |  
+| bip_39_word_dash_12 | will-plate-evolve-body-harbor-balance-weird-flavor-wagon-history-gather-advance |  
+| bip_39_word_dash_2 | will-plate |  
+| bip_39_word_dash_3 | will-plate-evolve |  
+| bip_39_word_dash_4 | will-plate-evolve-body |  
+| bip_39_word_dash_5 | will-plate-evolve-body-harbor |  
+| bip_39_word_dash_6 | will-plate-evolve-body-harbor-balance |  
+| bip_39_word_dash_7 | will-plate-evolve-body-harbor-balance-weird |  
+| bip_39_word_dash_8 | will-plate-evolve-body-harbor-balance-weird-flavor |  
+| bip_39_word_dash_9 | will-plate-evolve-body-harbor-balance-weird-flavor-wagon |  
 | bip_39_word_new_br_1 | will |  
 | bip_39_word_new_br_10 | will<br>plate<br>evolve<br>body<br>harbor<br>balance<br>weird<br>flavor<br>wagon<br>history |  
 | bip_39_word_new_br_11 | will<br>plate<br>evolve<br>body<br>harbor<br>balance<br>weird<br>flavor<br>wagon<br>history<br>gather |  
@@ -147,6 +159,18 @@ wagon |
 | bip_39_word_space_7 | will plate evolve body harbor balance weird |  
 | bip_39_word_space_8 | will plate evolve body harbor balance weird flavor |  
 | bip_39_word_space_9 | will plate evolve body harbor balance weird flavor wagon |  
+| bip_39_word_underscore_1 | will |  
+| bip_39_word_underscore_10 | will_plate_evolve_body_harbor_balance_weird_flavor_wagon_history |  
+| bip_39_word_underscore_11 | will_plate_evolve_body_harbor_balance_weird_flavor_wagon_history_gather |  
+| bip_39_word_underscore_12 | will_plate_evolve_body_harbor_balance_weird_flavor_wagon_history_gather_advance |  
+| bip_39_word_underscore_2 | will_plate |  
+| bip_39_word_underscore_3 | will_plate_evolve |  
+| bip_39_word_underscore_4 | will_plate_evolve_body |  
+| bip_39_word_underscore_5 | will_plate_evolve_body_harbor |  
+| bip_39_word_underscore_6 | will_plate_evolve_body_harbor_balance |  
+| bip_39_word_underscore_7 | will_plate_evolve_body_harbor_balance_weird |  
+| bip_39_word_underscore_8 | will_plate_evolve_body_harbor_balance_weird_flavor |  
+| bip_39_word_underscore_9 | will_plate_evolve_body_harbor_balance_weird_flavor_wagon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

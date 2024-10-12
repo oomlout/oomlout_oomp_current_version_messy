@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | solve |  
+| bip_39_word_dash_10 | solve-pond-eager-worry-normal-swarm-account-insect-chat-culture |  
+| bip_39_word_dash_11 | solve-pond-eager-worry-normal-swarm-account-insect-chat-culture-repair |  
+| bip_39_word_dash_12 | solve-pond-eager-worry-normal-swarm-account-insect-chat-culture-repair-aspect |  
+| bip_39_word_dash_2 | solve-pond |  
+| bip_39_word_dash_3 | solve-pond-eager |  
+| bip_39_word_dash_4 | solve-pond-eager-worry |  
+| bip_39_word_dash_5 | solve-pond-eager-worry-normal |  
+| bip_39_word_dash_6 | solve-pond-eager-worry-normal-swarm |  
+| bip_39_word_dash_7 | solve-pond-eager-worry-normal-swarm-account |  
+| bip_39_word_dash_8 | solve-pond-eager-worry-normal-swarm-account-insect |  
+| bip_39_word_dash_9 | solve-pond-eager-worry-normal-swarm-account-insect-chat |  
 | bip_39_word_new_br_1 | solve |  
 | bip_39_word_new_br_10 | solve<br>pond<br>eager<br>worry<br>normal<br>swarm<br>account<br>insect<br>chat<br>culture |  
 | bip_39_word_new_br_11 | solve<br>pond<br>eager<br>worry<br>normal<br>swarm<br>account<br>insect<br>chat<br>culture<br>repair |  
@@ -147,6 +159,18 @@ chat |
 | bip_39_word_space_7 | solve pond eager worry normal swarm account |  
 | bip_39_word_space_8 | solve pond eager worry normal swarm account insect |  
 | bip_39_word_space_9 | solve pond eager worry normal swarm account insect chat |  
+| bip_39_word_underscore_1 | solve |  
+| bip_39_word_underscore_10 | solve_pond_eager_worry_normal_swarm_account_insect_chat_culture |  
+| bip_39_word_underscore_11 | solve_pond_eager_worry_normal_swarm_account_insect_chat_culture_repair |  
+| bip_39_word_underscore_12 | solve_pond_eager_worry_normal_swarm_account_insect_chat_culture_repair_aspect |  
+| bip_39_word_underscore_2 | solve_pond |  
+| bip_39_word_underscore_3 | solve_pond_eager |  
+| bip_39_word_underscore_4 | solve_pond_eager_worry |  
+| bip_39_word_underscore_5 | solve_pond_eager_worry_normal |  
+| bip_39_word_underscore_6 | solve_pond_eager_worry_normal_swarm |  
+| bip_39_word_underscore_7 | solve_pond_eager_worry_normal_swarm_account |  
+| bip_39_word_underscore_8 | solve_pond_eager_worry_normal_swarm_account_insect |  
+| bip_39_word_underscore_9 | solve_pond_eager_worry_normal_swarm_account_insect_chat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

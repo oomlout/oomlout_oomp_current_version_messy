@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hero |  
+| bip_39_word_dash_10 | hero-wife-sorry-usage-suit-sea-system-retire-lamp-afraid |  
+| bip_39_word_dash_11 | hero-wife-sorry-usage-suit-sea-system-retire-lamp-afraid-stable |  
+| bip_39_word_dash_12 | hero-wife-sorry-usage-suit-sea-system-retire-lamp-afraid-stable-amazing |  
+| bip_39_word_dash_2 | hero-wife |  
+| bip_39_word_dash_3 | hero-wife-sorry |  
+| bip_39_word_dash_4 | hero-wife-sorry-usage |  
+| bip_39_word_dash_5 | hero-wife-sorry-usage-suit |  
+| bip_39_word_dash_6 | hero-wife-sorry-usage-suit-sea |  
+| bip_39_word_dash_7 | hero-wife-sorry-usage-suit-sea-system |  
+| bip_39_word_dash_8 | hero-wife-sorry-usage-suit-sea-system-retire |  
+| bip_39_word_dash_9 | hero-wife-sorry-usage-suit-sea-system-retire-lamp |  
 | bip_39_word_new_br_1 | hero |  
 | bip_39_word_new_br_10 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire<br>lamp<br>afraid |  
 | bip_39_word_new_br_11 | hero<br>wife<br>sorry<br>usage<br>suit<br>sea<br>system<br>retire<br>lamp<br>afraid<br>stable |  
@@ -147,6 +159,18 @@ lamp |
 | bip_39_word_space_7 | hero wife sorry usage suit sea system |  
 | bip_39_word_space_8 | hero wife sorry usage suit sea system retire |  
 | bip_39_word_space_9 | hero wife sorry usage suit sea system retire lamp |  
+| bip_39_word_underscore_1 | hero |  
+| bip_39_word_underscore_10 | hero_wife_sorry_usage_suit_sea_system_retire_lamp_afraid |  
+| bip_39_word_underscore_11 | hero_wife_sorry_usage_suit_sea_system_retire_lamp_afraid_stable |  
+| bip_39_word_underscore_12 | hero_wife_sorry_usage_suit_sea_system_retire_lamp_afraid_stable_amazing |  
+| bip_39_word_underscore_2 | hero_wife |  
+| bip_39_word_underscore_3 | hero_wife_sorry |  
+| bip_39_word_underscore_4 | hero_wife_sorry_usage |  
+| bip_39_word_underscore_5 | hero_wife_sorry_usage_suit |  
+| bip_39_word_underscore_6 | hero_wife_sorry_usage_suit_sea |  
+| bip_39_word_underscore_7 | hero_wife_sorry_usage_suit_sea_system |  
+| bip_39_word_underscore_8 | hero_wife_sorry_usage_suit_sea_system_retire |  
+| bip_39_word_underscore_9 | hero_wife_sorry_usage_suit_sea_system_retire_lamp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

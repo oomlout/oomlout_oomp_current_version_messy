@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | worry |  
+| bip_39_word_dash_10 | worry-ignore-huge-agree-broccoli-latin-voice-orange-flavor-siren |  
+| bip_39_word_dash_11 | worry-ignore-huge-agree-broccoli-latin-voice-orange-flavor-siren-kid |  
+| bip_39_word_dash_12 | worry-ignore-huge-agree-broccoli-latin-voice-orange-flavor-siren-kid-annual |  
+| bip_39_word_dash_2 | worry-ignore |  
+| bip_39_word_dash_3 | worry-ignore-huge |  
+| bip_39_word_dash_4 | worry-ignore-huge-agree |  
+| bip_39_word_dash_5 | worry-ignore-huge-agree-broccoli |  
+| bip_39_word_dash_6 | worry-ignore-huge-agree-broccoli-latin |  
+| bip_39_word_dash_7 | worry-ignore-huge-agree-broccoli-latin-voice |  
+| bip_39_word_dash_8 | worry-ignore-huge-agree-broccoli-latin-voice-orange |  
+| bip_39_word_dash_9 | worry-ignore-huge-agree-broccoli-latin-voice-orange-flavor |  
 | bip_39_word_new_br_1 | worry |  
 | bip_39_word_new_br_10 | worry<br>ignore<br>huge<br>agree<br>broccoli<br>latin<br>voice<br>orange<br>flavor<br>siren |  
 | bip_39_word_new_br_11 | worry<br>ignore<br>huge<br>agree<br>broccoli<br>latin<br>voice<br>orange<br>flavor<br>siren<br>kid |  
@@ -147,6 +159,18 @@ flavor |
 | bip_39_word_space_7 | worry ignore huge agree broccoli latin voice |  
 | bip_39_word_space_8 | worry ignore huge agree broccoli latin voice orange |  
 | bip_39_word_space_9 | worry ignore huge agree broccoli latin voice orange flavor |  
+| bip_39_word_underscore_1 | worry |  
+| bip_39_word_underscore_10 | worry_ignore_huge_agree_broccoli_latin_voice_orange_flavor_siren |  
+| bip_39_word_underscore_11 | worry_ignore_huge_agree_broccoli_latin_voice_orange_flavor_siren_kid |  
+| bip_39_word_underscore_12 | worry_ignore_huge_agree_broccoli_latin_voice_orange_flavor_siren_kid_annual |  
+| bip_39_word_underscore_2 | worry_ignore |  
+| bip_39_word_underscore_3 | worry_ignore_huge |  
+| bip_39_word_underscore_4 | worry_ignore_huge_agree |  
+| bip_39_word_underscore_5 | worry_ignore_huge_agree_broccoli |  
+| bip_39_word_underscore_6 | worry_ignore_huge_agree_broccoli_latin |  
+| bip_39_word_underscore_7 | worry_ignore_huge_agree_broccoli_latin_voice |  
+| bip_39_word_underscore_8 | worry_ignore_huge_agree_broccoli_latin_voice_orange |  
+| bip_39_word_underscore_9 | worry_ignore_huge_agree_broccoli_latin_voice_orange_flavor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

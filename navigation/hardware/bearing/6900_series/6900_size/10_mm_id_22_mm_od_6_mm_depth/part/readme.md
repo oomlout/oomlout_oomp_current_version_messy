@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stool |  
+| bip_39_word_dash_10 | stool-increase-smart-insane-great-ready-pulse-drink-skirt-resist |  
+| bip_39_word_dash_11 | stool-increase-smart-insane-great-ready-pulse-drink-skirt-resist-cheap |  
+| bip_39_word_dash_12 | stool-increase-smart-insane-great-ready-pulse-drink-skirt-resist-cheap-above |  
+| bip_39_word_dash_2 | stool-increase |  
+| bip_39_word_dash_3 | stool-increase-smart |  
+| bip_39_word_dash_4 | stool-increase-smart-insane |  
+| bip_39_word_dash_5 | stool-increase-smart-insane-great |  
+| bip_39_word_dash_6 | stool-increase-smart-insane-great-ready |  
+| bip_39_word_dash_7 | stool-increase-smart-insane-great-ready-pulse |  
+| bip_39_word_dash_8 | stool-increase-smart-insane-great-ready-pulse-drink |  
+| bip_39_word_dash_9 | stool-increase-smart-insane-great-ready-pulse-drink-skirt |  
 | bip_39_word_new_br_1 | stool |  
 | bip_39_word_new_br_10 | stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink<br>skirt<br>resist |  
 | bip_39_word_new_br_11 | stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink<br>skirt<br>resist<br>cheap |  
@@ -147,6 +159,18 @@ skirt |
 | bip_39_word_space_7 | stool increase smart insane great ready pulse |  
 | bip_39_word_space_8 | stool increase smart insane great ready pulse drink |  
 | bip_39_word_space_9 | stool increase smart insane great ready pulse drink skirt |  
+| bip_39_word_underscore_1 | stool |  
+| bip_39_word_underscore_10 | stool_increase_smart_insane_great_ready_pulse_drink_skirt_resist |  
+| bip_39_word_underscore_11 | stool_increase_smart_insane_great_ready_pulse_drink_skirt_resist_cheap |  
+| bip_39_word_underscore_12 | stool_increase_smart_insane_great_ready_pulse_drink_skirt_resist_cheap_above |  
+| bip_39_word_underscore_2 | stool_increase |  
+| bip_39_word_underscore_3 | stool_increase_smart |  
+| bip_39_word_underscore_4 | stool_increase_smart_insane |  
+| bip_39_word_underscore_5 | stool_increase_smart_insane_great |  
+| bip_39_word_underscore_6 | stool_increase_smart_insane_great_ready |  
+| bip_39_word_underscore_7 | stool_increase_smart_insane_great_ready_pulse |  
+| bip_39_word_underscore_8 | stool_increase_smart_insane_great_ready_pulse_drink |  
+| bip_39_word_underscore_9 | stool_increase_smart_insane_great_ready_pulse_drink_skirt |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

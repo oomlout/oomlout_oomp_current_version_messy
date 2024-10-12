@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | protect |  
+| bip_39_word_dash_10 | protect-more-subject-point-genuine-review-public-urban-panther-goddess |  
+| bip_39_word_dash_11 | protect-more-subject-point-genuine-review-public-urban-panther-goddess-unaware |  
+| bip_39_word_dash_12 | protect-more-subject-point-genuine-review-public-urban-panther-goddess-unaware-attend |  
+| bip_39_word_dash_2 | protect-more |  
+| bip_39_word_dash_3 | protect-more-subject |  
+| bip_39_word_dash_4 | protect-more-subject-point |  
+| bip_39_word_dash_5 | protect-more-subject-point-genuine |  
+| bip_39_word_dash_6 | protect-more-subject-point-genuine-review |  
+| bip_39_word_dash_7 | protect-more-subject-point-genuine-review-public |  
+| bip_39_word_dash_8 | protect-more-subject-point-genuine-review-public-urban |  
+| bip_39_word_dash_9 | protect-more-subject-point-genuine-review-public-urban-panther |  
 | bip_39_word_new_br_1 | protect |  
 | bip_39_word_new_br_10 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban<br>panther<br>goddess |  
 | bip_39_word_new_br_11 | protect<br>more<br>subject<br>point<br>genuine<br>review<br>public<br>urban<br>panther<br>goddess<br>unaware |  
@@ -147,6 +159,18 @@ panther |
 | bip_39_word_space_7 | protect more subject point genuine review public |  
 | bip_39_word_space_8 | protect more subject point genuine review public urban |  
 | bip_39_word_space_9 | protect more subject point genuine review public urban panther |  
+| bip_39_word_underscore_1 | protect |  
+| bip_39_word_underscore_10 | protect_more_subject_point_genuine_review_public_urban_panther_goddess |  
+| bip_39_word_underscore_11 | protect_more_subject_point_genuine_review_public_urban_panther_goddess_unaware |  
+| bip_39_word_underscore_12 | protect_more_subject_point_genuine_review_public_urban_panther_goddess_unaware_attend |  
+| bip_39_word_underscore_2 | protect_more |  
+| bip_39_word_underscore_3 | protect_more_subject |  
+| bip_39_word_underscore_4 | protect_more_subject_point |  
+| bip_39_word_underscore_5 | protect_more_subject_point_genuine |  
+| bip_39_word_underscore_6 | protect_more_subject_point_genuine_review |  
+| bip_39_word_underscore_7 | protect_more_subject_point_genuine_review_public |  
+| bip_39_word_underscore_8 | protect_more_subject_point_genuine_review_public_urban |  
+| bip_39_word_underscore_9 | protect_more_subject_point_genuine_review_public_urban_panther |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

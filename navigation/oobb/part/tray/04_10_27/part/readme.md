@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swamp |  
+| bip_39_word_dash_10 | swamp-split-elder-help-warfare-worry-whale-educate-mutual-muffin |  
+| bip_39_word_dash_11 | swamp-split-elder-help-warfare-worry-whale-educate-mutual-muffin-inject |  
+| bip_39_word_dash_12 | swamp-split-elder-help-warfare-worry-whale-educate-mutual-muffin-inject-afraid |  
+| bip_39_word_dash_2 | swamp-split |  
+| bip_39_word_dash_3 | swamp-split-elder |  
+| bip_39_word_dash_4 | swamp-split-elder-help |  
+| bip_39_word_dash_5 | swamp-split-elder-help-warfare |  
+| bip_39_word_dash_6 | swamp-split-elder-help-warfare-worry |  
+| bip_39_word_dash_7 | swamp-split-elder-help-warfare-worry-whale |  
+| bip_39_word_dash_8 | swamp-split-elder-help-warfare-worry-whale-educate |  
+| bip_39_word_dash_9 | swamp-split-elder-help-warfare-worry-whale-educate-mutual |  
 | bip_39_word_new_br_1 | swamp |  
 | bip_39_word_new_br_10 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate<br>mutual<br>muffin |  
 | bip_39_word_new_br_11 | swamp<br>split<br>elder<br>help<br>warfare<br>worry<br>whale<br>educate<br>mutual<br>muffin<br>inject |  
@@ -147,6 +159,18 @@ mutual |
 | bip_39_word_space_7 | swamp split elder help warfare worry whale |  
 | bip_39_word_space_8 | swamp split elder help warfare worry whale educate |  
 | bip_39_word_space_9 | swamp split elder help warfare worry whale educate mutual |  
+| bip_39_word_underscore_1 | swamp |  
+| bip_39_word_underscore_10 | swamp_split_elder_help_warfare_worry_whale_educate_mutual_muffin |  
+| bip_39_word_underscore_11 | swamp_split_elder_help_warfare_worry_whale_educate_mutual_muffin_inject |  
+| bip_39_word_underscore_12 | swamp_split_elder_help_warfare_worry_whale_educate_mutual_muffin_inject_afraid |  
+| bip_39_word_underscore_2 | swamp_split |  
+| bip_39_word_underscore_3 | swamp_split_elder |  
+| bip_39_word_underscore_4 | swamp_split_elder_help |  
+| bip_39_word_underscore_5 | swamp_split_elder_help_warfare |  
+| bip_39_word_underscore_6 | swamp_split_elder_help_warfare_worry |  
+| bip_39_word_underscore_7 | swamp_split_elder_help_warfare_worry_whale |  
+| bip_39_word_underscore_8 | swamp_split_elder_help_warfare_worry_whale_educate |  
+| bip_39_word_underscore_9 | swamp_split_elder_help_warfare_worry_whale_educate_mutual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

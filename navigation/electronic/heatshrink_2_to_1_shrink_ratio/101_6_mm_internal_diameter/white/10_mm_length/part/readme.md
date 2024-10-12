@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rough |  
+| bip_39_word_dash_10 | rough-venture-bundle-accident-bunker-ceiling-ignore-farm-faint-flame |  
+| bip_39_word_dash_11 | rough-venture-bundle-accident-bunker-ceiling-ignore-farm-faint-flame-correct |  
+| bip_39_word_dash_12 | rough-venture-bundle-accident-bunker-ceiling-ignore-farm-faint-flame-correct-advice |  
+| bip_39_word_dash_2 | rough-venture |  
+| bip_39_word_dash_3 | rough-venture-bundle |  
+| bip_39_word_dash_4 | rough-venture-bundle-accident |  
+| bip_39_word_dash_5 | rough-venture-bundle-accident-bunker |  
+| bip_39_word_dash_6 | rough-venture-bundle-accident-bunker-ceiling |  
+| bip_39_word_dash_7 | rough-venture-bundle-accident-bunker-ceiling-ignore |  
+| bip_39_word_dash_8 | rough-venture-bundle-accident-bunker-ceiling-ignore-farm |  
+| bip_39_word_dash_9 | rough-venture-bundle-accident-bunker-ceiling-ignore-farm-faint |  
 | bip_39_word_new_br_1 | rough |  
 | bip_39_word_new_br_10 | rough<br>venture<br>bundle<br>accident<br>bunker<br>ceiling<br>ignore<br>farm<br>faint<br>flame |  
 | bip_39_word_new_br_11 | rough<br>venture<br>bundle<br>accident<br>bunker<br>ceiling<br>ignore<br>farm<br>faint<br>flame<br>correct |  
@@ -147,6 +159,18 @@ faint |
 | bip_39_word_space_7 | rough venture bundle accident bunker ceiling ignore |  
 | bip_39_word_space_8 | rough venture bundle accident bunker ceiling ignore farm |  
 | bip_39_word_space_9 | rough venture bundle accident bunker ceiling ignore farm faint |  
+| bip_39_word_underscore_1 | rough |  
+| bip_39_word_underscore_10 | rough_venture_bundle_accident_bunker_ceiling_ignore_farm_faint_flame |  
+| bip_39_word_underscore_11 | rough_venture_bundle_accident_bunker_ceiling_ignore_farm_faint_flame_correct |  
+| bip_39_word_underscore_12 | rough_venture_bundle_accident_bunker_ceiling_ignore_farm_faint_flame_correct_advice |  
+| bip_39_word_underscore_2 | rough_venture |  
+| bip_39_word_underscore_3 | rough_venture_bundle |  
+| bip_39_word_underscore_4 | rough_venture_bundle_accident |  
+| bip_39_word_underscore_5 | rough_venture_bundle_accident_bunker |  
+| bip_39_word_underscore_6 | rough_venture_bundle_accident_bunker_ceiling |  
+| bip_39_word_underscore_7 | rough_venture_bundle_accident_bunker_ceiling_ignore |  
+| bip_39_word_underscore_8 | rough_venture_bundle_accident_bunker_ceiling_ignore_farm |  
+| bip_39_word_underscore_9 | rough_venture_bundle_accident_bunker_ceiling_ignore_farm_faint |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

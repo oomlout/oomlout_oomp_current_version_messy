@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | track |  
+| bip_39_word_dash_10 | track-believe-also-science-ranch-govern-uncover-happy-find-biology |  
+| bip_39_word_dash_11 | track-believe-also-science-ranch-govern-uncover-happy-find-biology-conduct |  
+| bip_39_word_dash_12 | track-believe-also-science-ranch-govern-uncover-happy-find-biology-conduct-add |  
+| bip_39_word_dash_2 | track-believe |  
+| bip_39_word_dash_3 | track-believe-also |  
+| bip_39_word_dash_4 | track-believe-also-science |  
+| bip_39_word_dash_5 | track-believe-also-science-ranch |  
+| bip_39_word_dash_6 | track-believe-also-science-ranch-govern |  
+| bip_39_word_dash_7 | track-believe-also-science-ranch-govern-uncover |  
+| bip_39_word_dash_8 | track-believe-also-science-ranch-govern-uncover-happy |  
+| bip_39_word_dash_9 | track-believe-also-science-ranch-govern-uncover-happy-find |  
 | bip_39_word_new_br_1 | track |  
 | bip_39_word_new_br_10 | track<br>believe<br>also<br>science<br>ranch<br>govern<br>uncover<br>happy<br>find<br>biology |  
 | bip_39_word_new_br_11 | track<br>believe<br>also<br>science<br>ranch<br>govern<br>uncover<br>happy<br>find<br>biology<br>conduct |  
@@ -147,6 +159,18 @@ find |
 | bip_39_word_space_7 | track believe also science ranch govern uncover |  
 | bip_39_word_space_8 | track believe also science ranch govern uncover happy |  
 | bip_39_word_space_9 | track believe also science ranch govern uncover happy find |  
+| bip_39_word_underscore_1 | track |  
+| bip_39_word_underscore_10 | track_believe_also_science_ranch_govern_uncover_happy_find_biology |  
+| bip_39_word_underscore_11 | track_believe_also_science_ranch_govern_uncover_happy_find_biology_conduct |  
+| bip_39_word_underscore_12 | track_believe_also_science_ranch_govern_uncover_happy_find_biology_conduct_add |  
+| bip_39_word_underscore_2 | track_believe |  
+| bip_39_word_underscore_3 | track_believe_also |  
+| bip_39_word_underscore_4 | track_believe_also_science |  
+| bip_39_word_underscore_5 | track_believe_also_science_ranch |  
+| bip_39_word_underscore_6 | track_believe_also_science_ranch_govern |  
+| bip_39_word_underscore_7 | track_believe_also_science_ranch_govern_uncover |  
+| bip_39_word_underscore_8 | track_believe_also_science_ranch_govern_uncover_happy |  
+| bip_39_word_underscore_9 | track_believe_also_science_ranch_govern_uncover_happy_find |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

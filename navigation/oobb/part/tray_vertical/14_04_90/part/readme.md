@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | issue |  
+| bip_39_word_dash_10 | issue-air-exclude-tuna-tackle-gospel-unfair-option-draft-quit |  
+| bip_39_word_dash_11 | issue-air-exclude-tuna-tackle-gospel-unfair-option-draft-quit-luggage |  
+| bip_39_word_dash_12 | issue-air-exclude-tuna-tackle-gospel-unfair-option-draft-quit-luggage-act |  
+| bip_39_word_dash_2 | issue-air |  
+| bip_39_word_dash_3 | issue-air-exclude |  
+| bip_39_word_dash_4 | issue-air-exclude-tuna |  
+| bip_39_word_dash_5 | issue-air-exclude-tuna-tackle |  
+| bip_39_word_dash_6 | issue-air-exclude-tuna-tackle-gospel |  
+| bip_39_word_dash_7 | issue-air-exclude-tuna-tackle-gospel-unfair |  
+| bip_39_word_dash_8 | issue-air-exclude-tuna-tackle-gospel-unfair-option |  
+| bip_39_word_dash_9 | issue-air-exclude-tuna-tackle-gospel-unfair-option-draft |  
 | bip_39_word_new_br_1 | issue |  
 | bip_39_word_new_br_10 | issue<br>air<br>exclude<br>tuna<br>tackle<br>gospel<br>unfair<br>option<br>draft<br>quit |  
 | bip_39_word_new_br_11 | issue<br>air<br>exclude<br>tuna<br>tackle<br>gospel<br>unfair<br>option<br>draft<br>quit<br>luggage |  
@@ -147,6 +159,18 @@ draft |
 | bip_39_word_space_7 | issue air exclude tuna tackle gospel unfair |  
 | bip_39_word_space_8 | issue air exclude tuna tackle gospel unfair option |  
 | bip_39_word_space_9 | issue air exclude tuna tackle gospel unfair option draft |  
+| bip_39_word_underscore_1 | issue |  
+| bip_39_word_underscore_10 | issue_air_exclude_tuna_tackle_gospel_unfair_option_draft_quit |  
+| bip_39_word_underscore_11 | issue_air_exclude_tuna_tackle_gospel_unfair_option_draft_quit_luggage |  
+| bip_39_word_underscore_12 | issue_air_exclude_tuna_tackle_gospel_unfair_option_draft_quit_luggage_act |  
+| bip_39_word_underscore_2 | issue_air |  
+| bip_39_word_underscore_3 | issue_air_exclude |  
+| bip_39_word_underscore_4 | issue_air_exclude_tuna |  
+| bip_39_word_underscore_5 | issue_air_exclude_tuna_tackle |  
+| bip_39_word_underscore_6 | issue_air_exclude_tuna_tackle_gospel |  
+| bip_39_word_underscore_7 | issue_air_exclude_tuna_tackle_gospel_unfair |  
+| bip_39_word_underscore_8 | issue_air_exclude_tuna_tackle_gospel_unfair_option |  
+| bip_39_word_underscore_9 | issue_air_exclude_tuna_tackle_gospel_unfair_option_draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

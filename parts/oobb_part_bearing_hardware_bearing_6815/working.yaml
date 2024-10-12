@@ -1,3 +1,15 @@
+bip_39_word_dash_1: earth
+bip_39_word_dash_10: earth-cloud-loud-blossom-that-situate-belt-remember-enable-subway
+bip_39_word_dash_11: earth-cloud-loud-blossom-that-situate-belt-remember-enable-subway-smooth
+bip_39_word_dash_12: earth-cloud-loud-blossom-that-situate-belt-remember-enable-subway-smooth-angry
+bip_39_word_dash_2: earth-cloud
+bip_39_word_dash_3: earth-cloud-loud
+bip_39_word_dash_4: earth-cloud-loud-blossom
+bip_39_word_dash_5: earth-cloud-loud-blossom-that
+bip_39_word_dash_6: earth-cloud-loud-blossom-that-situate
+bip_39_word_dash_7: earth-cloud-loud-blossom-that-situate-belt
+bip_39_word_dash_8: earth-cloud-loud-blossom-that-situate-belt-remember
+bip_39_word_dash_9: earth-cloud-loud-blossom-that-situate-belt-remember-enable
 bip_39_word_new_br_1: earth
 bip_39_word_new_br_10: earth<br>cloud<br>loud<br>blossom<br>that<br>situate<br>belt<br>remember<br>enable<br>subway
 bip_39_word_new_br_11: earth<br>cloud<br>loud<br>blossom<br>that<br>situate<br>belt<br>remember<br>enable<br>subway<br>smooth
@@ -193,6 +205,18 @@ bip_39_word_space_6: earth cloud loud blossom that situate
 bip_39_word_space_7: earth cloud loud blossom that situate belt
 bip_39_word_space_8: earth cloud loud blossom that situate belt remember
 bip_39_word_space_9: earth cloud loud blossom that situate belt remember enable
+bip_39_word_underscore_1: earth
+bip_39_word_underscore_10: earth_cloud_loud_blossom_that_situate_belt_remember_enable_subway
+bip_39_word_underscore_11: earth_cloud_loud_blossom_that_situate_belt_remember_enable_subway_smooth
+bip_39_word_underscore_12: earth_cloud_loud_blossom_that_situate_belt_remember_enable_subway_smooth_angry
+bip_39_word_underscore_2: earth_cloud
+bip_39_word_underscore_3: earth_cloud_loud
+bip_39_word_underscore_4: earth_cloud_loud_blossom
+bip_39_word_underscore_5: earth_cloud_loud_blossom_that
+bip_39_word_underscore_6: earth_cloud_loud_blossom_that_situate
+bip_39_word_underscore_7: earth_cloud_loud_blossom_that_situate_belt
+bip_39_word_underscore_8: earth_cloud_loud_blossom_that_situate_belt_remember
+bip_39_word_underscore_9: earth_cloud_loud_blossom_that_situate_belt_remember_enable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

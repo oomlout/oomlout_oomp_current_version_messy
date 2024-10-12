@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | keen |  
+| bip_39_word_dash_10 | keen-swamp-empower-require-when-hint-thunder-seat-glare-design |  
+| bip_39_word_dash_11 | keen-swamp-empower-require-when-hint-thunder-seat-glare-design-obtain |  
+| bip_39_word_dash_12 | keen-swamp-empower-require-when-hint-thunder-seat-glare-design-obtain-armed |  
+| bip_39_word_dash_2 | keen-swamp |  
+| bip_39_word_dash_3 | keen-swamp-empower |  
+| bip_39_word_dash_4 | keen-swamp-empower-require |  
+| bip_39_word_dash_5 | keen-swamp-empower-require-when |  
+| bip_39_word_dash_6 | keen-swamp-empower-require-when-hint |  
+| bip_39_word_dash_7 | keen-swamp-empower-require-when-hint-thunder |  
+| bip_39_word_dash_8 | keen-swamp-empower-require-when-hint-thunder-seat |  
+| bip_39_word_dash_9 | keen-swamp-empower-require-when-hint-thunder-seat-glare |  
 | bip_39_word_new_br_1 | keen |  
 | bip_39_word_new_br_10 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat<br>glare<br>design |  
 | bip_39_word_new_br_11 | keen<br>swamp<br>empower<br>require<br>when<br>hint<br>thunder<br>seat<br>glare<br>design<br>obtain |  
@@ -147,6 +159,18 @@ glare |
 | bip_39_word_space_7 | keen swamp empower require when hint thunder |  
 | bip_39_word_space_8 | keen swamp empower require when hint thunder seat |  
 | bip_39_word_space_9 | keen swamp empower require when hint thunder seat glare |  
+| bip_39_word_underscore_1 | keen |  
+| bip_39_word_underscore_10 | keen_swamp_empower_require_when_hint_thunder_seat_glare_design |  
+| bip_39_word_underscore_11 | keen_swamp_empower_require_when_hint_thunder_seat_glare_design_obtain |  
+| bip_39_word_underscore_12 | keen_swamp_empower_require_when_hint_thunder_seat_glare_design_obtain_armed |  
+| bip_39_word_underscore_2 | keen_swamp |  
+| bip_39_word_underscore_3 | keen_swamp_empower |  
+| bip_39_word_underscore_4 | keen_swamp_empower_require |  
+| bip_39_word_underscore_5 | keen_swamp_empower_require_when |  
+| bip_39_word_underscore_6 | keen_swamp_empower_require_when_hint |  
+| bip_39_word_underscore_7 | keen_swamp_empower_require_when_hint_thunder |  
+| bip_39_word_underscore_8 | keen_swamp_empower_require_when_hint_thunder_seat |  
+| bip_39_word_underscore_9 | keen_swamp_empower_require_when_hint_thunder_seat_glare |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

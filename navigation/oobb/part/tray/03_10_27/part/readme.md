@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gorilla |  
+| bip_39_word_dash_10 | gorilla-sad-elegant-choice-leg-winter-frog-approve-edit-fine |  
+| bip_39_word_dash_11 | gorilla-sad-elegant-choice-leg-winter-frog-approve-edit-fine-decade |  
+| bip_39_word_dash_12 | gorilla-sad-elegant-choice-leg-winter-frog-approve-edit-fine-decade-almost |  
+| bip_39_word_dash_2 | gorilla-sad |  
+| bip_39_word_dash_3 | gorilla-sad-elegant |  
+| bip_39_word_dash_4 | gorilla-sad-elegant-choice |  
+| bip_39_word_dash_5 | gorilla-sad-elegant-choice-leg |  
+| bip_39_word_dash_6 | gorilla-sad-elegant-choice-leg-winter |  
+| bip_39_word_dash_7 | gorilla-sad-elegant-choice-leg-winter-frog |  
+| bip_39_word_dash_8 | gorilla-sad-elegant-choice-leg-winter-frog-approve |  
+| bip_39_word_dash_9 | gorilla-sad-elegant-choice-leg-winter-frog-approve-edit |  
 | bip_39_word_new_br_1 | gorilla |  
 | bip_39_word_new_br_10 | gorilla<br>sad<br>elegant<br>choice<br>leg<br>winter<br>frog<br>approve<br>edit<br>fine |  
 | bip_39_word_new_br_11 | gorilla<br>sad<br>elegant<br>choice<br>leg<br>winter<br>frog<br>approve<br>edit<br>fine<br>decade |  
@@ -147,6 +159,18 @@ edit |
 | bip_39_word_space_7 | gorilla sad elegant choice leg winter frog |  
 | bip_39_word_space_8 | gorilla sad elegant choice leg winter frog approve |  
 | bip_39_word_space_9 | gorilla sad elegant choice leg winter frog approve edit |  
+| bip_39_word_underscore_1 | gorilla |  
+| bip_39_word_underscore_10 | gorilla_sad_elegant_choice_leg_winter_frog_approve_edit_fine |  
+| bip_39_word_underscore_11 | gorilla_sad_elegant_choice_leg_winter_frog_approve_edit_fine_decade |  
+| bip_39_word_underscore_12 | gorilla_sad_elegant_choice_leg_winter_frog_approve_edit_fine_decade_almost |  
+| bip_39_word_underscore_2 | gorilla_sad |  
+| bip_39_word_underscore_3 | gorilla_sad_elegant |  
+| bip_39_word_underscore_4 | gorilla_sad_elegant_choice |  
+| bip_39_word_underscore_5 | gorilla_sad_elegant_choice_leg |  
+| bip_39_word_underscore_6 | gorilla_sad_elegant_choice_leg_winter |  
+| bip_39_word_underscore_7 | gorilla_sad_elegant_choice_leg_winter_frog |  
+| bip_39_word_underscore_8 | gorilla_sad_elegant_choice_leg_winter_frog_approve |  
+| bip_39_word_underscore_9 | gorilla_sad_elegant_choice_leg_winter_frog_approve_edit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

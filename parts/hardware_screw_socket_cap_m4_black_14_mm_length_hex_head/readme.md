@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | divert |  
+| bip_39_word_dash_10 | divert-addict-choose-country-orchard-butter-force-shoe-list-owner |  
+| bip_39_word_dash_11 | divert-addict-choose-country-orchard-butter-force-shoe-list-owner-differ |  
+| bip_39_word_dash_12 | divert-addict-choose-country-orchard-butter-force-shoe-list-owner-differ-above |  
+| bip_39_word_dash_2 | divert-addict |  
+| bip_39_word_dash_3 | divert-addict-choose |  
+| bip_39_word_dash_4 | divert-addict-choose-country |  
+| bip_39_word_dash_5 | divert-addict-choose-country-orchard |  
+| bip_39_word_dash_6 | divert-addict-choose-country-orchard-butter |  
+| bip_39_word_dash_7 | divert-addict-choose-country-orchard-butter-force |  
+| bip_39_word_dash_8 | divert-addict-choose-country-orchard-butter-force-shoe |  
+| bip_39_word_dash_9 | divert-addict-choose-country-orchard-butter-force-shoe-list |  
 | bip_39_word_new_br_1 | divert |  
 | bip_39_word_new_br_10 | divert<br>addict<br>choose<br>country<br>orchard<br>butter<br>force<br>shoe<br>list<br>owner |  
 | bip_39_word_new_br_11 | divert<br>addict<br>choose<br>country<br>orchard<br>butter<br>force<br>shoe<br>list<br>owner<br>differ |  
@@ -147,6 +159,18 @@ list |
 | bip_39_word_space_7 | divert addict choose country orchard butter force |  
 | bip_39_word_space_8 | divert addict choose country orchard butter force shoe |  
 | bip_39_word_space_9 | divert addict choose country orchard butter force shoe list |  
+| bip_39_word_underscore_1 | divert |  
+| bip_39_word_underscore_10 | divert_addict_choose_country_orchard_butter_force_shoe_list_owner |  
+| bip_39_word_underscore_11 | divert_addict_choose_country_orchard_butter_force_shoe_list_owner_differ |  
+| bip_39_word_underscore_12 | divert_addict_choose_country_orchard_butter_force_shoe_list_owner_differ_above |  
+| bip_39_word_underscore_2 | divert_addict |  
+| bip_39_word_underscore_3 | divert_addict_choose |  
+| bip_39_word_underscore_4 | divert_addict_choose_country |  
+| bip_39_word_underscore_5 | divert_addict_choose_country_orchard |  
+| bip_39_word_underscore_6 | divert_addict_choose_country_orchard_butter |  
+| bip_39_word_underscore_7 | divert_addict_choose_country_orchard_butter_force |  
+| bip_39_word_underscore_8 | divert_addict_choose_country_orchard_butter_force_shoe |  
+| bip_39_word_underscore_9 | divert_addict_choose_country_orchard_butter_force_shoe_list |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

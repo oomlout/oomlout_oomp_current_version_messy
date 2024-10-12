@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | barrel |  
+| bip_39_word_dash_10 | barrel-social-insane-strong-lesson-abuse-dove-advance-fragile-ecology |  
+| bip_39_word_dash_11 | barrel-social-insane-strong-lesson-abuse-dove-advance-fragile-ecology-imitate |  
+| bip_39_word_dash_12 | barrel-social-insane-strong-lesson-abuse-dove-advance-fragile-ecology-imitate-adult |  
+| bip_39_word_dash_2 | barrel-social |  
+| bip_39_word_dash_3 | barrel-social-insane |  
+| bip_39_word_dash_4 | barrel-social-insane-strong |  
+| bip_39_word_dash_5 | barrel-social-insane-strong-lesson |  
+| bip_39_word_dash_6 | barrel-social-insane-strong-lesson-abuse |  
+| bip_39_word_dash_7 | barrel-social-insane-strong-lesson-abuse-dove |  
+| bip_39_word_dash_8 | barrel-social-insane-strong-lesson-abuse-dove-advance |  
+| bip_39_word_dash_9 | barrel-social-insane-strong-lesson-abuse-dove-advance-fragile |  
 | bip_39_word_new_br_1 | barrel |  
 | bip_39_word_new_br_10 | barrel<br>social<br>insane<br>strong<br>lesson<br>abuse<br>dove<br>advance<br>fragile<br>ecology |  
 | bip_39_word_new_br_11 | barrel<br>social<br>insane<br>strong<br>lesson<br>abuse<br>dove<br>advance<br>fragile<br>ecology<br>imitate |  
@@ -147,6 +159,18 @@ fragile |
 | bip_39_word_space_7 | barrel social insane strong lesson abuse dove |  
 | bip_39_word_space_8 | barrel social insane strong lesson abuse dove advance |  
 | bip_39_word_space_9 | barrel social insane strong lesson abuse dove advance fragile |  
+| bip_39_word_underscore_1 | barrel |  
+| bip_39_word_underscore_10 | barrel_social_insane_strong_lesson_abuse_dove_advance_fragile_ecology |  
+| bip_39_word_underscore_11 | barrel_social_insane_strong_lesson_abuse_dove_advance_fragile_ecology_imitate |  
+| bip_39_word_underscore_12 | barrel_social_insane_strong_lesson_abuse_dove_advance_fragile_ecology_imitate_adult |  
+| bip_39_word_underscore_2 | barrel_social |  
+| bip_39_word_underscore_3 | barrel_social_insane |  
+| bip_39_word_underscore_4 | barrel_social_insane_strong |  
+| bip_39_word_underscore_5 | barrel_social_insane_strong_lesson |  
+| bip_39_word_underscore_6 | barrel_social_insane_strong_lesson_abuse |  
+| bip_39_word_underscore_7 | barrel_social_insane_strong_lesson_abuse_dove |  
+| bip_39_word_underscore_8 | barrel_social_insane_strong_lesson_abuse_dove_advance |  
+| bip_39_word_underscore_9 | barrel_social_insane_strong_lesson_abuse_dove_advance_fragile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

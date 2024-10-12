@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nature |  
+| bip_39_word_dash_10 | nature-stairs-enable-educate-rescue-caution-immense-thrive-vast-stadium |  
+| bip_39_word_dash_11 | nature-stairs-enable-educate-rescue-caution-immense-thrive-vast-stadium-force |  
+| bip_39_word_dash_12 | nature-stairs-enable-educate-rescue-caution-immense-thrive-vast-stadium-force-actress |  
+| bip_39_word_dash_2 | nature-stairs |  
+| bip_39_word_dash_3 | nature-stairs-enable |  
+| bip_39_word_dash_4 | nature-stairs-enable-educate |  
+| bip_39_word_dash_5 | nature-stairs-enable-educate-rescue |  
+| bip_39_word_dash_6 | nature-stairs-enable-educate-rescue-caution |  
+| bip_39_word_dash_7 | nature-stairs-enable-educate-rescue-caution-immense |  
+| bip_39_word_dash_8 | nature-stairs-enable-educate-rescue-caution-immense-thrive |  
+| bip_39_word_dash_9 | nature-stairs-enable-educate-rescue-caution-immense-thrive-vast |  
 | bip_39_word_new_br_1 | nature |  
 | bip_39_word_new_br_10 | nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive<br>vast<br>stadium |  
 | bip_39_word_new_br_11 | nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive<br>vast<br>stadium<br>force |  
@@ -147,6 +159,18 @@ vast |
 | bip_39_word_space_7 | nature stairs enable educate rescue caution immense |  
 | bip_39_word_space_8 | nature stairs enable educate rescue caution immense thrive |  
 | bip_39_word_space_9 | nature stairs enable educate rescue caution immense thrive vast |  
+| bip_39_word_underscore_1 | nature |  
+| bip_39_word_underscore_10 | nature_stairs_enable_educate_rescue_caution_immense_thrive_vast_stadium |  
+| bip_39_word_underscore_11 | nature_stairs_enable_educate_rescue_caution_immense_thrive_vast_stadium_force |  
+| bip_39_word_underscore_12 | nature_stairs_enable_educate_rescue_caution_immense_thrive_vast_stadium_force_actress |  
+| bip_39_word_underscore_2 | nature_stairs |  
+| bip_39_word_underscore_3 | nature_stairs_enable |  
+| bip_39_word_underscore_4 | nature_stairs_enable_educate |  
+| bip_39_word_underscore_5 | nature_stairs_enable_educate_rescue |  
+| bip_39_word_underscore_6 | nature_stairs_enable_educate_rescue_caution |  
+| bip_39_word_underscore_7 | nature_stairs_enable_educate_rescue_caution_immense |  
+| bip_39_word_underscore_8 | nature_stairs_enable_educate_rescue_caution_immense_thrive |  
+| bip_39_word_underscore_9 | nature_stairs_enable_educate_rescue_caution_immense_thrive_vast |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

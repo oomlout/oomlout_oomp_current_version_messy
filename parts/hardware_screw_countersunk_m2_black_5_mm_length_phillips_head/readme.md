@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | desk |  
+| bip_39_word_dash_10 | desk-clock-derive-ship-ignore-sport-squeeze-mechanic-secret-sing |  
+| bip_39_word_dash_11 | desk-clock-derive-ship-ignore-sport-squeeze-mechanic-secret-sing-aware |  
+| bip_39_word_dash_12 | desk-clock-derive-ship-ignore-sport-squeeze-mechanic-secret-sing-aware-abstract |  
+| bip_39_word_dash_2 | desk-clock |  
+| bip_39_word_dash_3 | desk-clock-derive |  
+| bip_39_word_dash_4 | desk-clock-derive-ship |  
+| bip_39_word_dash_5 | desk-clock-derive-ship-ignore |  
+| bip_39_word_dash_6 | desk-clock-derive-ship-ignore-sport |  
+| bip_39_word_dash_7 | desk-clock-derive-ship-ignore-sport-squeeze |  
+| bip_39_word_dash_8 | desk-clock-derive-ship-ignore-sport-squeeze-mechanic |  
+| bip_39_word_dash_9 | desk-clock-derive-ship-ignore-sport-squeeze-mechanic-secret |  
 | bip_39_word_new_br_1 | desk |  
 | bip_39_word_new_br_10 | desk<br>clock<br>derive<br>ship<br>ignore<br>sport<br>squeeze<br>mechanic<br>secret<br>sing |  
 | bip_39_word_new_br_11 | desk<br>clock<br>derive<br>ship<br>ignore<br>sport<br>squeeze<br>mechanic<br>secret<br>sing<br>aware |  
@@ -147,6 +159,18 @@ secret |
 | bip_39_word_space_7 | desk clock derive ship ignore sport squeeze |  
 | bip_39_word_space_8 | desk clock derive ship ignore sport squeeze mechanic |  
 | bip_39_word_space_9 | desk clock derive ship ignore sport squeeze mechanic secret |  
+| bip_39_word_underscore_1 | desk |  
+| bip_39_word_underscore_10 | desk_clock_derive_ship_ignore_sport_squeeze_mechanic_secret_sing |  
+| bip_39_word_underscore_11 | desk_clock_derive_ship_ignore_sport_squeeze_mechanic_secret_sing_aware |  
+| bip_39_word_underscore_12 | desk_clock_derive_ship_ignore_sport_squeeze_mechanic_secret_sing_aware_abstract |  
+| bip_39_word_underscore_2 | desk_clock |  
+| bip_39_word_underscore_3 | desk_clock_derive |  
+| bip_39_word_underscore_4 | desk_clock_derive_ship |  
+| bip_39_word_underscore_5 | desk_clock_derive_ship_ignore |  
+| bip_39_word_underscore_6 | desk_clock_derive_ship_ignore_sport |  
+| bip_39_word_underscore_7 | desk_clock_derive_ship_ignore_sport_squeeze |  
+| bip_39_word_underscore_8 | desk_clock_derive_ship_ignore_sport_squeeze_mechanic |  
+| bip_39_word_underscore_9 | desk_clock_derive_ship_ignore_sport_squeeze_mechanic_secret |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

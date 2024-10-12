@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | peasant |  
+| bip_39_word_dash_10 | peasant-delay-brother-voyage-venture-eight-accident-fix-century-tomorrow |  
+| bip_39_word_dash_11 | peasant-delay-brother-voyage-venture-eight-accident-fix-century-tomorrow-virtual |  
+| bip_39_word_dash_12 | peasant-delay-brother-voyage-venture-eight-accident-fix-century-tomorrow-virtual-alter |  
+| bip_39_word_dash_2 | peasant-delay |  
+| bip_39_word_dash_3 | peasant-delay-brother |  
+| bip_39_word_dash_4 | peasant-delay-brother-voyage |  
+| bip_39_word_dash_5 | peasant-delay-brother-voyage-venture |  
+| bip_39_word_dash_6 | peasant-delay-brother-voyage-venture-eight |  
+| bip_39_word_dash_7 | peasant-delay-brother-voyage-venture-eight-accident |  
+| bip_39_word_dash_8 | peasant-delay-brother-voyage-venture-eight-accident-fix |  
+| bip_39_word_dash_9 | peasant-delay-brother-voyage-venture-eight-accident-fix-century |  
 | bip_39_word_new_br_1 | peasant |  
 | bip_39_word_new_br_10 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix<br>century<br>tomorrow |  
 | bip_39_word_new_br_11 | peasant<br>delay<br>brother<br>voyage<br>venture<br>eight<br>accident<br>fix<br>century<br>tomorrow<br>virtual |  
@@ -147,6 +159,18 @@ century |
 | bip_39_word_space_7 | peasant delay brother voyage venture eight accident |  
 | bip_39_word_space_8 | peasant delay brother voyage venture eight accident fix |  
 | bip_39_word_space_9 | peasant delay brother voyage venture eight accident fix century |  
+| bip_39_word_underscore_1 | peasant |  
+| bip_39_word_underscore_10 | peasant_delay_brother_voyage_venture_eight_accident_fix_century_tomorrow |  
+| bip_39_word_underscore_11 | peasant_delay_brother_voyage_venture_eight_accident_fix_century_tomorrow_virtual |  
+| bip_39_word_underscore_12 | peasant_delay_brother_voyage_venture_eight_accident_fix_century_tomorrow_virtual_alter |  
+| bip_39_word_underscore_2 | peasant_delay |  
+| bip_39_word_underscore_3 | peasant_delay_brother |  
+| bip_39_word_underscore_4 | peasant_delay_brother_voyage |  
+| bip_39_word_underscore_5 | peasant_delay_brother_voyage_venture |  
+| bip_39_word_underscore_6 | peasant_delay_brother_voyage_venture_eight |  
+| bip_39_word_underscore_7 | peasant_delay_brother_voyage_venture_eight_accident |  
+| bip_39_word_underscore_8 | peasant_delay_brother_voyage_venture_eight_accident_fix |  
+| bip_39_word_underscore_9 | peasant_delay_brother_voyage_venture_eight_accident_fix_century |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

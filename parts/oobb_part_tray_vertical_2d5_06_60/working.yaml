@@ -1,3 +1,15 @@
+bip_39_word_dash_1: game
+bip_39_word_dash_10: game-warfare-relief-couple-shaft-rare-vivid-coral-axis-little
+bip_39_word_dash_11: game-warfare-relief-couple-shaft-rare-vivid-coral-axis-little-space
+bip_39_word_dash_12: game-warfare-relief-couple-shaft-rare-vivid-coral-axis-little-space-ability
+bip_39_word_dash_2: game-warfare
+bip_39_word_dash_3: game-warfare-relief
+bip_39_word_dash_4: game-warfare-relief-couple
+bip_39_word_dash_5: game-warfare-relief-couple-shaft
+bip_39_word_dash_6: game-warfare-relief-couple-shaft-rare
+bip_39_word_dash_7: game-warfare-relief-couple-shaft-rare-vivid
+bip_39_word_dash_8: game-warfare-relief-couple-shaft-rare-vivid-coral
+bip_39_word_dash_9: game-warfare-relief-couple-shaft-rare-vivid-coral-axis
 bip_39_word_new_br_1: game
 bip_39_word_new_br_10: game<br>warfare<br>relief<br>couple<br>shaft<br>rare<br>vivid<br>coral<br>axis<br>little
 bip_39_word_new_br_11: game<br>warfare<br>relief<br>couple<br>shaft<br>rare<br>vivid<br>coral<br>axis<br>little<br>space
@@ -193,6 +205,18 @@ bip_39_word_space_6: game warfare relief couple shaft rare
 bip_39_word_space_7: game warfare relief couple shaft rare vivid
 bip_39_word_space_8: game warfare relief couple shaft rare vivid coral
 bip_39_word_space_9: game warfare relief couple shaft rare vivid coral axis
+bip_39_word_underscore_1: game
+bip_39_word_underscore_10: game_warfare_relief_couple_shaft_rare_vivid_coral_axis_little
+bip_39_word_underscore_11: game_warfare_relief_couple_shaft_rare_vivid_coral_axis_little_space
+bip_39_word_underscore_12: game_warfare_relief_couple_shaft_rare_vivid_coral_axis_little_space_ability
+bip_39_word_underscore_2: game_warfare
+bip_39_word_underscore_3: game_warfare_relief
+bip_39_word_underscore_4: game_warfare_relief_couple
+bip_39_word_underscore_5: game_warfare_relief_couple_shaft
+bip_39_word_underscore_6: game_warfare_relief_couple_shaft_rare
+bip_39_word_underscore_7: game_warfare_relief_couple_shaft_rare_vivid
+bip_39_word_underscore_8: game_warfare_relief_couple_shaft_rare_vivid_coral
+bip_39_word_underscore_9: game_warfare_relief_couple_shaft_rare_vivid_coral_axis
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

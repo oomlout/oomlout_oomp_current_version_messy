@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cheap |  
+| bip_39_word_dash_10 | cheap-negative-stem-enter-stage-choice-divide-insane-elevator-dry |  
+| bip_39_word_dash_11 | cheap-negative-stem-enter-stage-choice-divide-insane-elevator-dry-pave |  
+| bip_39_word_dash_12 | cheap-negative-stem-enter-stage-choice-divide-insane-elevator-dry-pave-apple |  
+| bip_39_word_dash_2 | cheap-negative |  
+| bip_39_word_dash_3 | cheap-negative-stem |  
+| bip_39_word_dash_4 | cheap-negative-stem-enter |  
+| bip_39_word_dash_5 | cheap-negative-stem-enter-stage |  
+| bip_39_word_dash_6 | cheap-negative-stem-enter-stage-choice |  
+| bip_39_word_dash_7 | cheap-negative-stem-enter-stage-choice-divide |  
+| bip_39_word_dash_8 | cheap-negative-stem-enter-stage-choice-divide-insane |  
+| bip_39_word_dash_9 | cheap-negative-stem-enter-stage-choice-divide-insane-elevator |  
 | bip_39_word_new_br_1 | cheap |  
 | bip_39_word_new_br_10 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry |  
 | bip_39_word_new_br_11 | cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry<br>pave |  
@@ -147,6 +159,18 @@ elevator |
 | bip_39_word_space_7 | cheap negative stem enter stage choice divide |  
 | bip_39_word_space_8 | cheap negative stem enter stage choice divide insane |  
 | bip_39_word_space_9 | cheap negative stem enter stage choice divide insane elevator |  
+| bip_39_word_underscore_1 | cheap |  
+| bip_39_word_underscore_10 | cheap_negative_stem_enter_stage_choice_divide_insane_elevator_dry |  
+| bip_39_word_underscore_11 | cheap_negative_stem_enter_stage_choice_divide_insane_elevator_dry_pave |  
+| bip_39_word_underscore_12 | cheap_negative_stem_enter_stage_choice_divide_insane_elevator_dry_pave_apple |  
+| bip_39_word_underscore_2 | cheap_negative |  
+| bip_39_word_underscore_3 | cheap_negative_stem |  
+| bip_39_word_underscore_4 | cheap_negative_stem_enter |  
+| bip_39_word_underscore_5 | cheap_negative_stem_enter_stage |  
+| bip_39_word_underscore_6 | cheap_negative_stem_enter_stage_choice |  
+| bip_39_word_underscore_7 | cheap_negative_stem_enter_stage_choice_divide |  
+| bip_39_word_underscore_8 | cheap_negative_stem_enter_stage_choice_divide_insane |  
+| bip_39_word_underscore_9 | cheap_negative_stem_enter_stage_choice_divide_insane_elevator |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

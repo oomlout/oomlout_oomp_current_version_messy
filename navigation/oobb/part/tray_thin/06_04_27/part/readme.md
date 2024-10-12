@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | perfect |  
+| bip_39_word_dash_10 | perfect-fiber-fade-hub-silent-wing-accuse-illness-file-odor |  
+| bip_39_word_dash_11 | perfect-fiber-fade-hub-silent-wing-accuse-illness-file-odor-stick |  
+| bip_39_word_dash_12 | perfect-fiber-fade-hub-silent-wing-accuse-illness-file-odor-stick-attend |  
+| bip_39_word_dash_2 | perfect-fiber |  
+| bip_39_word_dash_3 | perfect-fiber-fade |  
+| bip_39_word_dash_4 | perfect-fiber-fade-hub |  
+| bip_39_word_dash_5 | perfect-fiber-fade-hub-silent |  
+| bip_39_word_dash_6 | perfect-fiber-fade-hub-silent-wing |  
+| bip_39_word_dash_7 | perfect-fiber-fade-hub-silent-wing-accuse |  
+| bip_39_word_dash_8 | perfect-fiber-fade-hub-silent-wing-accuse-illness |  
+| bip_39_word_dash_9 | perfect-fiber-fade-hub-silent-wing-accuse-illness-file |  
 | bip_39_word_new_br_1 | perfect |  
 | bip_39_word_new_br_10 | perfect<br>fiber<br>fade<br>hub<br>silent<br>wing<br>accuse<br>illness<br>file<br>odor |  
 | bip_39_word_new_br_11 | perfect<br>fiber<br>fade<br>hub<br>silent<br>wing<br>accuse<br>illness<br>file<br>odor<br>stick |  
@@ -147,6 +159,18 @@ file |
 | bip_39_word_space_7 | perfect fiber fade hub silent wing accuse |  
 | bip_39_word_space_8 | perfect fiber fade hub silent wing accuse illness |  
 | bip_39_word_space_9 | perfect fiber fade hub silent wing accuse illness file |  
+| bip_39_word_underscore_1 | perfect |  
+| bip_39_word_underscore_10 | perfect_fiber_fade_hub_silent_wing_accuse_illness_file_odor |  
+| bip_39_word_underscore_11 | perfect_fiber_fade_hub_silent_wing_accuse_illness_file_odor_stick |  
+| bip_39_word_underscore_12 | perfect_fiber_fade_hub_silent_wing_accuse_illness_file_odor_stick_attend |  
+| bip_39_word_underscore_2 | perfect_fiber |  
+| bip_39_word_underscore_3 | perfect_fiber_fade |  
+| bip_39_word_underscore_4 | perfect_fiber_fade_hub |  
+| bip_39_word_underscore_5 | perfect_fiber_fade_hub_silent |  
+| bip_39_word_underscore_6 | perfect_fiber_fade_hub_silent_wing |  
+| bip_39_word_underscore_7 | perfect_fiber_fade_hub_silent_wing_accuse |  
+| bip_39_word_underscore_8 | perfect_fiber_fade_hub_silent_wing_accuse_illness |  
+| bip_39_word_underscore_9 | perfect_fiber_fade_hub_silent_wing_accuse_illness_file |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

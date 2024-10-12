@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rhythm |  
+| bip_39_word_dash_10 | rhythm-tornado-worth-behind-dose-acquire-regret-winner-witness-million |  
+| bip_39_word_dash_11 | rhythm-tornado-worth-behind-dose-acquire-regret-winner-witness-million-tiny |  
+| bip_39_word_dash_12 | rhythm-tornado-worth-behind-dose-acquire-regret-winner-witness-million-tiny-accuse |  
+| bip_39_word_dash_2 | rhythm-tornado |  
+| bip_39_word_dash_3 | rhythm-tornado-worth |  
+| bip_39_word_dash_4 | rhythm-tornado-worth-behind |  
+| bip_39_word_dash_5 | rhythm-tornado-worth-behind-dose |  
+| bip_39_word_dash_6 | rhythm-tornado-worth-behind-dose-acquire |  
+| bip_39_word_dash_7 | rhythm-tornado-worth-behind-dose-acquire-regret |  
+| bip_39_word_dash_8 | rhythm-tornado-worth-behind-dose-acquire-regret-winner |  
+| bip_39_word_dash_9 | rhythm-tornado-worth-behind-dose-acquire-regret-winner-witness |  
 | bip_39_word_new_br_1 | rhythm |  
 | bip_39_word_new_br_10 | rhythm<br>tornado<br>worth<br>behind<br>dose<br>acquire<br>regret<br>winner<br>witness<br>million |  
 | bip_39_word_new_br_11 | rhythm<br>tornado<br>worth<br>behind<br>dose<br>acquire<br>regret<br>winner<br>witness<br>million<br>tiny |  
@@ -147,6 +159,18 @@ witness |
 | bip_39_word_space_7 | rhythm tornado worth behind dose acquire regret |  
 | bip_39_word_space_8 | rhythm tornado worth behind dose acquire regret winner |  
 | bip_39_word_space_9 | rhythm tornado worth behind dose acquire regret winner witness |  
+| bip_39_word_underscore_1 | rhythm |  
+| bip_39_word_underscore_10 | rhythm_tornado_worth_behind_dose_acquire_regret_winner_witness_million |  
+| bip_39_word_underscore_11 | rhythm_tornado_worth_behind_dose_acquire_regret_winner_witness_million_tiny |  
+| bip_39_word_underscore_12 | rhythm_tornado_worth_behind_dose_acquire_regret_winner_witness_million_tiny_accuse |  
+| bip_39_word_underscore_2 | rhythm_tornado |  
+| bip_39_word_underscore_3 | rhythm_tornado_worth |  
+| bip_39_word_underscore_4 | rhythm_tornado_worth_behind |  
+| bip_39_word_underscore_5 | rhythm_tornado_worth_behind_dose |  
+| bip_39_word_underscore_6 | rhythm_tornado_worth_behind_dose_acquire |  
+| bip_39_word_underscore_7 | rhythm_tornado_worth_behind_dose_acquire_regret |  
+| bip_39_word_underscore_8 | rhythm_tornado_worth_behind_dose_acquire_regret_winner |  
+| bip_39_word_underscore_9 | rhythm_tornado_worth_behind_dose_acquire_regret_winner_witness |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

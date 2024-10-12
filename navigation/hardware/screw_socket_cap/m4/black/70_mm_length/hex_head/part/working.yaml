@@ -1,3 +1,15 @@
+bip_39_word_dash_1: donate
+bip_39_word_dash_10: donate-repeat-palm-grit-noise-sing-keen-surprise-shed-because
+bip_39_word_dash_11: donate-repeat-palm-grit-noise-sing-keen-surprise-shed-because-route
+bip_39_word_dash_12: donate-repeat-palm-grit-noise-sing-keen-surprise-shed-because-route-abstract
+bip_39_word_dash_2: donate-repeat
+bip_39_word_dash_3: donate-repeat-palm
+bip_39_word_dash_4: donate-repeat-palm-grit
+bip_39_word_dash_5: donate-repeat-palm-grit-noise
+bip_39_word_dash_6: donate-repeat-palm-grit-noise-sing
+bip_39_word_dash_7: donate-repeat-palm-grit-noise-sing-keen
+bip_39_word_dash_8: donate-repeat-palm-grit-noise-sing-keen-surprise
+bip_39_word_dash_9: donate-repeat-palm-grit-noise-sing-keen-surprise-shed
 bip_39_word_new_br_1: donate
 bip_39_word_new_br_10: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because
 bip_39_word_new_br_11: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because<br>route
@@ -193,6 +205,18 @@ bip_39_word_space_6: donate repeat palm grit noise sing
 bip_39_word_space_7: donate repeat palm grit noise sing keen
 bip_39_word_space_8: donate repeat palm grit noise sing keen surprise
 bip_39_word_space_9: donate repeat palm grit noise sing keen surprise shed
+bip_39_word_underscore_1: donate
+bip_39_word_underscore_10: donate_repeat_palm_grit_noise_sing_keen_surprise_shed_because
+bip_39_word_underscore_11: donate_repeat_palm_grit_noise_sing_keen_surprise_shed_because_route
+bip_39_word_underscore_12: donate_repeat_palm_grit_noise_sing_keen_surprise_shed_because_route_abstract
+bip_39_word_underscore_2: donate_repeat
+bip_39_word_underscore_3: donate_repeat_palm
+bip_39_word_underscore_4: donate_repeat_palm_grit
+bip_39_word_underscore_5: donate_repeat_palm_grit_noise
+bip_39_word_underscore_6: donate_repeat_palm_grit_noise_sing
+bip_39_word_underscore_7: donate_repeat_palm_grit_noise_sing_keen
+bip_39_word_underscore_8: donate_repeat_palm_grit_noise_sing_keen_surprise
+bip_39_word_underscore_9: donate_repeat_palm_grit_noise_sing_keen_surprise_shed
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

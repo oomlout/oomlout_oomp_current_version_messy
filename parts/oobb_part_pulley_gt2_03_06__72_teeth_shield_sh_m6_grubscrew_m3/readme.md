@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | maid |  
+| bip_39_word_dash_10 | maid-ability-oyster-glue-lemon-short-submit-buddy-ordinary-improve |  
+| bip_39_word_dash_11 | maid-ability-oyster-glue-lemon-short-submit-buddy-ordinary-improve-wise |  
+| bip_39_word_dash_12 | maid-ability-oyster-glue-lemon-short-submit-buddy-ordinary-improve-wise-assist |  
+| bip_39_word_dash_2 | maid-ability |  
+| bip_39_word_dash_3 | maid-ability-oyster |  
+| bip_39_word_dash_4 | maid-ability-oyster-glue |  
+| bip_39_word_dash_5 | maid-ability-oyster-glue-lemon |  
+| bip_39_word_dash_6 | maid-ability-oyster-glue-lemon-short |  
+| bip_39_word_dash_7 | maid-ability-oyster-glue-lemon-short-submit |  
+| bip_39_word_dash_8 | maid-ability-oyster-glue-lemon-short-submit-buddy |  
+| bip_39_word_dash_9 | maid-ability-oyster-glue-lemon-short-submit-buddy-ordinary |  
 | bip_39_word_new_br_1 | maid |  
 | bip_39_word_new_br_10 | maid<br>ability<br>oyster<br>glue<br>lemon<br>short<br>submit<br>buddy<br>ordinary<br>improve |  
 | bip_39_word_new_br_11 | maid<br>ability<br>oyster<br>glue<br>lemon<br>short<br>submit<br>buddy<br>ordinary<br>improve<br>wise |  
@@ -147,6 +159,18 @@ ordinary |
 | bip_39_word_space_7 | maid ability oyster glue lemon short submit |  
 | bip_39_word_space_8 | maid ability oyster glue lemon short submit buddy |  
 | bip_39_word_space_9 | maid ability oyster glue lemon short submit buddy ordinary |  
+| bip_39_word_underscore_1 | maid |  
+| bip_39_word_underscore_10 | maid_ability_oyster_glue_lemon_short_submit_buddy_ordinary_improve |  
+| bip_39_word_underscore_11 | maid_ability_oyster_glue_lemon_short_submit_buddy_ordinary_improve_wise |  
+| bip_39_word_underscore_12 | maid_ability_oyster_glue_lemon_short_submit_buddy_ordinary_improve_wise_assist |  
+| bip_39_word_underscore_2 | maid_ability |  
+| bip_39_word_underscore_3 | maid_ability_oyster |  
+| bip_39_word_underscore_4 | maid_ability_oyster_glue |  
+| bip_39_word_underscore_5 | maid_ability_oyster_glue_lemon |  
+| bip_39_word_underscore_6 | maid_ability_oyster_glue_lemon_short |  
+| bip_39_word_underscore_7 | maid_ability_oyster_glue_lemon_short_submit |  
+| bip_39_word_underscore_8 | maid_ability_oyster_glue_lemon_short_submit_buddy |  
+| bip_39_word_underscore_9 | maid_ability_oyster_glue_lemon_short_submit_buddy_ordinary |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

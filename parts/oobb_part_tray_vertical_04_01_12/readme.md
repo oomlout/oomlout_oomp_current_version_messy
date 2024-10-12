@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slogan |  
+| bip_39_word_dash_10 | slogan-clog-south-pink-better-river-salad-reunion-observe-real |  
+| bip_39_word_dash_11 | slogan-clog-south-pink-better-river-salad-reunion-observe-real-wise |  
+| bip_39_word_dash_12 | slogan-clog-south-pink-better-river-salad-reunion-observe-real-wise-accuse |  
+| bip_39_word_dash_2 | slogan-clog |  
+| bip_39_word_dash_3 | slogan-clog-south |  
+| bip_39_word_dash_4 | slogan-clog-south-pink |  
+| bip_39_word_dash_5 | slogan-clog-south-pink-better |  
+| bip_39_word_dash_6 | slogan-clog-south-pink-better-river |  
+| bip_39_word_dash_7 | slogan-clog-south-pink-better-river-salad |  
+| bip_39_word_dash_8 | slogan-clog-south-pink-better-river-salad-reunion |  
+| bip_39_word_dash_9 | slogan-clog-south-pink-better-river-salad-reunion-observe |  
 | bip_39_word_new_br_1 | slogan |  
 | bip_39_word_new_br_10 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real |  
 | bip_39_word_new_br_11 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real<br>wise |  
@@ -147,6 +159,18 @@ observe |
 | bip_39_word_space_7 | slogan clog south pink better river salad |  
 | bip_39_word_space_8 | slogan clog south pink better river salad reunion |  
 | bip_39_word_space_9 | slogan clog south pink better river salad reunion observe |  
+| bip_39_word_underscore_1 | slogan |  
+| bip_39_word_underscore_10 | slogan_clog_south_pink_better_river_salad_reunion_observe_real |  
+| bip_39_word_underscore_11 | slogan_clog_south_pink_better_river_salad_reunion_observe_real_wise |  
+| bip_39_word_underscore_12 | slogan_clog_south_pink_better_river_salad_reunion_observe_real_wise_accuse |  
+| bip_39_word_underscore_2 | slogan_clog |  
+| bip_39_word_underscore_3 | slogan_clog_south |  
+| bip_39_word_underscore_4 | slogan_clog_south_pink |  
+| bip_39_word_underscore_5 | slogan_clog_south_pink_better |  
+| bip_39_word_underscore_6 | slogan_clog_south_pink_better_river |  
+| bip_39_word_underscore_7 | slogan_clog_south_pink_better_river_salad |  
+| bip_39_word_underscore_8 | slogan_clog_south_pink_better_river_salad_reunion |  
+| bip_39_word_underscore_9 | slogan_clog_south_pink_better_river_salad_reunion_observe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

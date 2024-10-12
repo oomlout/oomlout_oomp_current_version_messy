@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | motion |  
+| bip_39_word_dash_10 | motion-brick-island-spray-quantum-people-comic-collect-pizza-decline |  
+| bip_39_word_dash_11 | motion-brick-island-spray-quantum-people-comic-collect-pizza-decline-asset |  
+| bip_39_word_dash_12 | motion-brick-island-spray-quantum-people-comic-collect-pizza-decline-asset-asset |  
+| bip_39_word_dash_2 | motion-brick |  
+| bip_39_word_dash_3 | motion-brick-island |  
+| bip_39_word_dash_4 | motion-brick-island-spray |  
+| bip_39_word_dash_5 | motion-brick-island-spray-quantum |  
+| bip_39_word_dash_6 | motion-brick-island-spray-quantum-people |  
+| bip_39_word_dash_7 | motion-brick-island-spray-quantum-people-comic |  
+| bip_39_word_dash_8 | motion-brick-island-spray-quantum-people-comic-collect |  
+| bip_39_word_dash_9 | motion-brick-island-spray-quantum-people-comic-collect-pizza |  
 | bip_39_word_new_br_1 | motion |  
 | bip_39_word_new_br_10 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline |  
 | bip_39_word_new_br_11 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline<br>asset |  
@@ -147,6 +159,18 @@ pizza |
 | bip_39_word_space_7 | motion brick island spray quantum people comic |  
 | bip_39_word_space_8 | motion brick island spray quantum people comic collect |  
 | bip_39_word_space_9 | motion brick island spray quantum people comic collect pizza |  
+| bip_39_word_underscore_1 | motion |  
+| bip_39_word_underscore_10 | motion_brick_island_spray_quantum_people_comic_collect_pizza_decline |  
+| bip_39_word_underscore_11 | motion_brick_island_spray_quantum_people_comic_collect_pizza_decline_asset |  
+| bip_39_word_underscore_12 | motion_brick_island_spray_quantum_people_comic_collect_pizza_decline_asset_asset |  
+| bip_39_word_underscore_2 | motion_brick |  
+| bip_39_word_underscore_3 | motion_brick_island |  
+| bip_39_word_underscore_4 | motion_brick_island_spray |  
+| bip_39_word_underscore_5 | motion_brick_island_spray_quantum |  
+| bip_39_word_underscore_6 | motion_brick_island_spray_quantum_people |  
+| bip_39_word_underscore_7 | motion_brick_island_spray_quantum_people_comic |  
+| bip_39_word_underscore_8 | motion_brick_island_spray_quantum_people_comic_collect |  
+| bip_39_word_underscore_9 | motion_brick_island_spray_quantum_people_comic_collect_pizza |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: elbow
+bip_39_word_dash_10: elbow-potato-impose-diary-top-slow-ten-clump-ride-plug
+bip_39_word_dash_11: elbow-potato-impose-diary-top-slow-ten-clump-ride-plug-dwarf
+bip_39_word_dash_12: elbow-potato-impose-diary-top-slow-ten-clump-ride-plug-dwarf-appear
+bip_39_word_dash_2: elbow-potato
+bip_39_word_dash_3: elbow-potato-impose
+bip_39_word_dash_4: elbow-potato-impose-diary
+bip_39_word_dash_5: elbow-potato-impose-diary-top
+bip_39_word_dash_6: elbow-potato-impose-diary-top-slow
+bip_39_word_dash_7: elbow-potato-impose-diary-top-slow-ten
+bip_39_word_dash_8: elbow-potato-impose-diary-top-slow-ten-clump
+bip_39_word_dash_9: elbow-potato-impose-diary-top-slow-ten-clump-ride
 bip_39_word_new_br_1: elbow
 bip_39_word_new_br_10: elbow<br>potato<br>impose<br>diary<br>top<br>slow<br>ten<br>clump<br>ride<br>plug
 bip_39_word_new_br_11: elbow<br>potato<br>impose<br>diary<br>top<br>slow<br>ten<br>clump<br>ride<br>plug<br>dwarf
@@ -192,6 +204,18 @@ bip_39_word_space_6: elbow potato impose diary top slow
 bip_39_word_space_7: elbow potato impose diary top slow ten
 bip_39_word_space_8: elbow potato impose diary top slow ten clump
 bip_39_word_space_9: elbow potato impose diary top slow ten clump ride
+bip_39_word_underscore_1: elbow
+bip_39_word_underscore_10: elbow_potato_impose_diary_top_slow_ten_clump_ride_plug
+bip_39_word_underscore_11: elbow_potato_impose_diary_top_slow_ten_clump_ride_plug_dwarf
+bip_39_word_underscore_12: elbow_potato_impose_diary_top_slow_ten_clump_ride_plug_dwarf_appear
+bip_39_word_underscore_2: elbow_potato
+bip_39_word_underscore_3: elbow_potato_impose
+bip_39_word_underscore_4: elbow_potato_impose_diary
+bip_39_word_underscore_5: elbow_potato_impose_diary_top
+bip_39_word_underscore_6: elbow_potato_impose_diary_top_slow
+bip_39_word_underscore_7: elbow_potato_impose_diary_top_slow_ten
+bip_39_word_underscore_8: elbow_potato_impose_diary_top_slow_ten_clump
+bip_39_word_underscore_9: elbow_potato_impose_diary_top_slow_ten_clump_ride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

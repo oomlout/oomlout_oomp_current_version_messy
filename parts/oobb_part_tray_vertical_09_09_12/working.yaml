@@ -1,3 +1,15 @@
+bip_39_word_dash_1: midnight
+bip_39_word_dash_10: midnight-hungry-under-trap-join-open-spirit-doll-naive-enhance
+bip_39_word_dash_11: midnight-hungry-under-trap-join-open-spirit-doll-naive-enhance-hunt
+bip_39_word_dash_12: midnight-hungry-under-trap-join-open-spirit-doll-naive-enhance-hunt-alone
+bip_39_word_dash_2: midnight-hungry
+bip_39_word_dash_3: midnight-hungry-under
+bip_39_word_dash_4: midnight-hungry-under-trap
+bip_39_word_dash_5: midnight-hungry-under-trap-join
+bip_39_word_dash_6: midnight-hungry-under-trap-join-open
+bip_39_word_dash_7: midnight-hungry-under-trap-join-open-spirit
+bip_39_word_dash_8: midnight-hungry-under-trap-join-open-spirit-doll
+bip_39_word_dash_9: midnight-hungry-under-trap-join-open-spirit-doll-naive
 bip_39_word_new_br_1: midnight
 bip_39_word_new_br_10: midnight<br>hungry<br>under<br>trap<br>join<br>open<br>spirit<br>doll<br>naive<br>enhance
 bip_39_word_new_br_11: midnight<br>hungry<br>under<br>trap<br>join<br>open<br>spirit<br>doll<br>naive<br>enhance<br>hunt
@@ -193,6 +205,18 @@ bip_39_word_space_6: midnight hungry under trap join open
 bip_39_word_space_7: midnight hungry under trap join open spirit
 bip_39_word_space_8: midnight hungry under trap join open spirit doll
 bip_39_word_space_9: midnight hungry under trap join open spirit doll naive
+bip_39_word_underscore_1: midnight
+bip_39_word_underscore_10: midnight_hungry_under_trap_join_open_spirit_doll_naive_enhance
+bip_39_word_underscore_11: midnight_hungry_under_trap_join_open_spirit_doll_naive_enhance_hunt
+bip_39_word_underscore_12: midnight_hungry_under_trap_join_open_spirit_doll_naive_enhance_hunt_alone
+bip_39_word_underscore_2: midnight_hungry
+bip_39_word_underscore_3: midnight_hungry_under
+bip_39_word_underscore_4: midnight_hungry_under_trap
+bip_39_word_underscore_5: midnight_hungry_under_trap_join
+bip_39_word_underscore_6: midnight_hungry_under_trap_join_open
+bip_39_word_underscore_7: midnight_hungry_under_trap_join_open_spirit
+bip_39_word_underscore_8: midnight_hungry_under_trap_join_open_spirit_doll
+bip_39_word_underscore_9: midnight_hungry_under_trap_join_open_spirit_doll_naive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

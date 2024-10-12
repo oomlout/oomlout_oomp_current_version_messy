@@ -1,3 +1,15 @@
+bip_39_word_dash_1: situate
+bip_39_word_dash_10: situate-era-penalty-garlic-ostrich-vote-tribe-chief-mom-coyote
+bip_39_word_dash_11: situate-era-penalty-garlic-ostrich-vote-tribe-chief-mom-coyote-quantum
+bip_39_word_dash_12: situate-era-penalty-garlic-ostrich-vote-tribe-chief-mom-coyote-quantum-alert
+bip_39_word_dash_2: situate-era
+bip_39_word_dash_3: situate-era-penalty
+bip_39_word_dash_4: situate-era-penalty-garlic
+bip_39_word_dash_5: situate-era-penalty-garlic-ostrich
+bip_39_word_dash_6: situate-era-penalty-garlic-ostrich-vote
+bip_39_word_dash_7: situate-era-penalty-garlic-ostrich-vote-tribe
+bip_39_word_dash_8: situate-era-penalty-garlic-ostrich-vote-tribe-chief
+bip_39_word_dash_9: situate-era-penalty-garlic-ostrich-vote-tribe-chief-mom
 bip_39_word_new_br_1: situate
 bip_39_word_new_br_10: situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief<br>mom<br>coyote
 bip_39_word_new_br_11: situate<br>era<br>penalty<br>garlic<br>ostrich<br>vote<br>tribe<br>chief<br>mom<br>coyote<br>quantum
@@ -193,6 +205,18 @@ bip_39_word_space_6: situate era penalty garlic ostrich vote
 bip_39_word_space_7: situate era penalty garlic ostrich vote tribe
 bip_39_word_space_8: situate era penalty garlic ostrich vote tribe chief
 bip_39_word_space_9: situate era penalty garlic ostrich vote tribe chief mom
+bip_39_word_underscore_1: situate
+bip_39_word_underscore_10: situate_era_penalty_garlic_ostrich_vote_tribe_chief_mom_coyote
+bip_39_word_underscore_11: situate_era_penalty_garlic_ostrich_vote_tribe_chief_mom_coyote_quantum
+bip_39_word_underscore_12: situate_era_penalty_garlic_ostrich_vote_tribe_chief_mom_coyote_quantum_alert
+bip_39_word_underscore_2: situate_era
+bip_39_word_underscore_3: situate_era_penalty
+bip_39_word_underscore_4: situate_era_penalty_garlic
+bip_39_word_underscore_5: situate_era_penalty_garlic_ostrich
+bip_39_word_underscore_6: situate_era_penalty_garlic_ostrich_vote
+bip_39_word_underscore_7: situate_era_penalty_garlic_ostrich_vote_tribe
+bip_39_word_underscore_8: situate_era_penalty_garlic_ostrich_vote_tribe_chief
+bip_39_word_underscore_9: situate_era_penalty_garlic_ostrich_vote_tribe_chief_mom
 classification: storage
 classification_capital: Storage
 classification_first_letter: s

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wet |  
+| bip_39_word_dash_10 | wet-steak-physical-other-canvas-lemon-hunt-orchard-chief-muscle |  
+| bip_39_word_dash_11 | wet-steak-physical-other-canvas-lemon-hunt-orchard-chief-muscle-hair |  
+| bip_39_word_dash_12 | wet-steak-physical-other-canvas-lemon-hunt-orchard-chief-muscle-hair-angle |  
+| bip_39_word_dash_2 | wet-steak |  
+| bip_39_word_dash_3 | wet-steak-physical |  
+| bip_39_word_dash_4 | wet-steak-physical-other |  
+| bip_39_word_dash_5 | wet-steak-physical-other-canvas |  
+| bip_39_word_dash_6 | wet-steak-physical-other-canvas-lemon |  
+| bip_39_word_dash_7 | wet-steak-physical-other-canvas-lemon-hunt |  
+| bip_39_word_dash_8 | wet-steak-physical-other-canvas-lemon-hunt-orchard |  
+| bip_39_word_dash_9 | wet-steak-physical-other-canvas-lemon-hunt-orchard-chief |  
 | bip_39_word_new_br_1 | wet |  
 | bip_39_word_new_br_10 | wet<br>steak<br>physical<br>other<br>canvas<br>lemon<br>hunt<br>orchard<br>chief<br>muscle |  
 | bip_39_word_new_br_11 | wet<br>steak<br>physical<br>other<br>canvas<br>lemon<br>hunt<br>orchard<br>chief<br>muscle<br>hair |  
@@ -147,6 +159,18 @@ chief |
 | bip_39_word_space_7 | wet steak physical other canvas lemon hunt |  
 | bip_39_word_space_8 | wet steak physical other canvas lemon hunt orchard |  
 | bip_39_word_space_9 | wet steak physical other canvas lemon hunt orchard chief |  
+| bip_39_word_underscore_1 | wet |  
+| bip_39_word_underscore_10 | wet_steak_physical_other_canvas_lemon_hunt_orchard_chief_muscle |  
+| bip_39_word_underscore_11 | wet_steak_physical_other_canvas_lemon_hunt_orchard_chief_muscle_hair |  
+| bip_39_word_underscore_12 | wet_steak_physical_other_canvas_lemon_hunt_orchard_chief_muscle_hair_angle |  
+| bip_39_word_underscore_2 | wet_steak |  
+| bip_39_word_underscore_3 | wet_steak_physical |  
+| bip_39_word_underscore_4 | wet_steak_physical_other |  
+| bip_39_word_underscore_5 | wet_steak_physical_other_canvas |  
+| bip_39_word_underscore_6 | wet_steak_physical_other_canvas_lemon |  
+| bip_39_word_underscore_7 | wet_steak_physical_other_canvas_lemon_hunt |  
+| bip_39_word_underscore_8 | wet_steak_physical_other_canvas_lemon_hunt_orchard |  
+| bip_39_word_underscore_9 | wet_steak_physical_other_canvas_lemon_hunt_orchard_chief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

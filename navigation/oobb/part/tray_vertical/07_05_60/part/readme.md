@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rescue |  
+| bip_39_word_dash_10 | rescue-nut-pride-neutral-match-draw-guilt-access-occur-accuse |  
+| bip_39_word_dash_11 | rescue-nut-pride-neutral-match-draw-guilt-access-occur-accuse-token |  
+| bip_39_word_dash_12 | rescue-nut-pride-neutral-match-draw-guilt-access-occur-accuse-token-acid |  
+| bip_39_word_dash_2 | rescue-nut |  
+| bip_39_word_dash_3 | rescue-nut-pride |  
+| bip_39_word_dash_4 | rescue-nut-pride-neutral |  
+| bip_39_word_dash_5 | rescue-nut-pride-neutral-match |  
+| bip_39_word_dash_6 | rescue-nut-pride-neutral-match-draw |  
+| bip_39_word_dash_7 | rescue-nut-pride-neutral-match-draw-guilt |  
+| bip_39_word_dash_8 | rescue-nut-pride-neutral-match-draw-guilt-access |  
+| bip_39_word_dash_9 | rescue-nut-pride-neutral-match-draw-guilt-access-occur |  
 | bip_39_word_new_br_1 | rescue |  
 | bip_39_word_new_br_10 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse |  
 | bip_39_word_new_br_11 | rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse<br>token |  
@@ -147,6 +159,18 @@ occur |
 | bip_39_word_space_7 | rescue nut pride neutral match draw guilt |  
 | bip_39_word_space_8 | rescue nut pride neutral match draw guilt access |  
 | bip_39_word_space_9 | rescue nut pride neutral match draw guilt access occur |  
+| bip_39_word_underscore_1 | rescue |  
+| bip_39_word_underscore_10 | rescue_nut_pride_neutral_match_draw_guilt_access_occur_accuse |  
+| bip_39_word_underscore_11 | rescue_nut_pride_neutral_match_draw_guilt_access_occur_accuse_token |  
+| bip_39_word_underscore_12 | rescue_nut_pride_neutral_match_draw_guilt_access_occur_accuse_token_acid |  
+| bip_39_word_underscore_2 | rescue_nut |  
+| bip_39_word_underscore_3 | rescue_nut_pride |  
+| bip_39_word_underscore_4 | rescue_nut_pride_neutral |  
+| bip_39_word_underscore_5 | rescue_nut_pride_neutral_match |  
+| bip_39_word_underscore_6 | rescue_nut_pride_neutral_match_draw |  
+| bip_39_word_underscore_7 | rescue_nut_pride_neutral_match_draw_guilt |  
+| bip_39_word_underscore_8 | rescue_nut_pride_neutral_match_draw_guilt_access |  
+| bip_39_word_underscore_9 | rescue_nut_pride_neutral_match_draw_guilt_access_occur |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

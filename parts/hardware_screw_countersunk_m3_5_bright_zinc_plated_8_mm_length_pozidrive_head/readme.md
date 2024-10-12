@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | comic |  
+| bip_39_word_dash_10 | comic-arrange-room-flee-ancient-member-virus-peanut-faculty-trumpet |  
+| bip_39_word_dash_11 | comic-arrange-room-flee-ancient-member-virus-peanut-faculty-trumpet-index |  
+| bip_39_word_dash_12 | comic-arrange-room-flee-ancient-member-virus-peanut-faculty-trumpet-index-autumn |  
+| bip_39_word_dash_2 | comic-arrange |  
+| bip_39_word_dash_3 | comic-arrange-room |  
+| bip_39_word_dash_4 | comic-arrange-room-flee |  
+| bip_39_word_dash_5 | comic-arrange-room-flee-ancient |  
+| bip_39_word_dash_6 | comic-arrange-room-flee-ancient-member |  
+| bip_39_word_dash_7 | comic-arrange-room-flee-ancient-member-virus |  
+| bip_39_word_dash_8 | comic-arrange-room-flee-ancient-member-virus-peanut |  
+| bip_39_word_dash_9 | comic-arrange-room-flee-ancient-member-virus-peanut-faculty |  
 | bip_39_word_new_br_1 | comic |  
 | bip_39_word_new_br_10 | comic<br>arrange<br>room<br>flee<br>ancient<br>member<br>virus<br>peanut<br>faculty<br>trumpet |  
 | bip_39_word_new_br_11 | comic<br>arrange<br>room<br>flee<br>ancient<br>member<br>virus<br>peanut<br>faculty<br>trumpet<br>index |  
@@ -147,6 +159,18 @@ faculty |
 | bip_39_word_space_7 | comic arrange room flee ancient member virus |  
 | bip_39_word_space_8 | comic arrange room flee ancient member virus peanut |  
 | bip_39_word_space_9 | comic arrange room flee ancient member virus peanut faculty |  
+| bip_39_word_underscore_1 | comic |  
+| bip_39_word_underscore_10 | comic_arrange_room_flee_ancient_member_virus_peanut_faculty_trumpet |  
+| bip_39_word_underscore_11 | comic_arrange_room_flee_ancient_member_virus_peanut_faculty_trumpet_index |  
+| bip_39_word_underscore_12 | comic_arrange_room_flee_ancient_member_virus_peanut_faculty_trumpet_index_autumn |  
+| bip_39_word_underscore_2 | comic_arrange |  
+| bip_39_word_underscore_3 | comic_arrange_room |  
+| bip_39_word_underscore_4 | comic_arrange_room_flee |  
+| bip_39_word_underscore_5 | comic_arrange_room_flee_ancient |  
+| bip_39_word_underscore_6 | comic_arrange_room_flee_ancient_member |  
+| bip_39_word_underscore_7 | comic_arrange_room_flee_ancient_member_virus |  
+| bip_39_word_underscore_8 | comic_arrange_room_flee_ancient_member_virus_peanut |  
+| bip_39_word_underscore_9 | comic_arrange_room_flee_ancient_member_virus_peanut_faculty |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

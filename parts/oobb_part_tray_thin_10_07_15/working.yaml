@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dizzy
+bip_39_word_dash_10: dizzy-pizza-peasant-empower-veteran-birth-insect-arrow-solve-explain
+bip_39_word_dash_11: dizzy-pizza-peasant-empower-veteran-birth-insect-arrow-solve-explain-speak
+bip_39_word_dash_12: dizzy-pizza-peasant-empower-veteran-birth-insect-arrow-solve-explain-speak-abuse
+bip_39_word_dash_2: dizzy-pizza
+bip_39_word_dash_3: dizzy-pizza-peasant
+bip_39_word_dash_4: dizzy-pizza-peasant-empower
+bip_39_word_dash_5: dizzy-pizza-peasant-empower-veteran
+bip_39_word_dash_6: dizzy-pizza-peasant-empower-veteran-birth
+bip_39_word_dash_7: dizzy-pizza-peasant-empower-veteran-birth-insect
+bip_39_word_dash_8: dizzy-pizza-peasant-empower-veteran-birth-insect-arrow
+bip_39_word_dash_9: dizzy-pizza-peasant-empower-veteran-birth-insect-arrow-solve
 bip_39_word_new_br_1: dizzy
 bip_39_word_new_br_10: dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow<br>solve<br>explain
 bip_39_word_new_br_11: dizzy<br>pizza<br>peasant<br>empower<br>veteran<br>birth<br>insect<br>arrow<br>solve<br>explain<br>speak
@@ -194,6 +206,18 @@ bip_39_word_space_6: dizzy pizza peasant empower veteran birth
 bip_39_word_space_7: dizzy pizza peasant empower veteran birth insect
 bip_39_word_space_8: dizzy pizza peasant empower veteran birth insect arrow
 bip_39_word_space_9: dizzy pizza peasant empower veteran birth insect arrow solve
+bip_39_word_underscore_1: dizzy
+bip_39_word_underscore_10: dizzy_pizza_peasant_empower_veteran_birth_insect_arrow_solve_explain
+bip_39_word_underscore_11: dizzy_pizza_peasant_empower_veteran_birth_insect_arrow_solve_explain_speak
+bip_39_word_underscore_12: dizzy_pizza_peasant_empower_veteran_birth_insect_arrow_solve_explain_speak_abuse
+bip_39_word_underscore_2: dizzy_pizza
+bip_39_word_underscore_3: dizzy_pizza_peasant
+bip_39_word_underscore_4: dizzy_pizza_peasant_empower
+bip_39_word_underscore_5: dizzy_pizza_peasant_empower_veteran
+bip_39_word_underscore_6: dizzy_pizza_peasant_empower_veteran_birth
+bip_39_word_underscore_7: dizzy_pizza_peasant_empower_veteran_birth_insect
+bip_39_word_underscore_8: dizzy_pizza_peasant_empower_veteran_birth_insect_arrow
+bip_39_word_underscore_9: dizzy_pizza_peasant_empower_veteran_birth_insect_arrow_solve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

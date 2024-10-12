@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tortoise |  
+| bip_39_word_dash_10 | tortoise-breeze-thrive-iron-loud-chaos-start-note-ceiling-comfort |  
+| bip_39_word_dash_11 | tortoise-breeze-thrive-iron-loud-chaos-start-note-ceiling-comfort-enact |  
+| bip_39_word_dash_12 | tortoise-breeze-thrive-iron-loud-chaos-start-note-ceiling-comfort-enact-anger |  
+| bip_39_word_dash_2 | tortoise-breeze |  
+| bip_39_word_dash_3 | tortoise-breeze-thrive |  
+| bip_39_word_dash_4 | tortoise-breeze-thrive-iron |  
+| bip_39_word_dash_5 | tortoise-breeze-thrive-iron-loud |  
+| bip_39_word_dash_6 | tortoise-breeze-thrive-iron-loud-chaos |  
+| bip_39_word_dash_7 | tortoise-breeze-thrive-iron-loud-chaos-start |  
+| bip_39_word_dash_8 | tortoise-breeze-thrive-iron-loud-chaos-start-note |  
+| bip_39_word_dash_9 | tortoise-breeze-thrive-iron-loud-chaos-start-note-ceiling |  
 | bip_39_word_new_br_1 | tortoise |  
 | bip_39_word_new_br_10 | tortoise<br>breeze<br>thrive<br>iron<br>loud<br>chaos<br>start<br>note<br>ceiling<br>comfort |  
 | bip_39_word_new_br_11 | tortoise<br>breeze<br>thrive<br>iron<br>loud<br>chaos<br>start<br>note<br>ceiling<br>comfort<br>enact |  
@@ -147,6 +159,18 @@ ceiling |
 | bip_39_word_space_7 | tortoise breeze thrive iron loud chaos start |  
 | bip_39_word_space_8 | tortoise breeze thrive iron loud chaos start note |  
 | bip_39_word_space_9 | tortoise breeze thrive iron loud chaos start note ceiling |  
+| bip_39_word_underscore_1 | tortoise |  
+| bip_39_word_underscore_10 | tortoise_breeze_thrive_iron_loud_chaos_start_note_ceiling_comfort |  
+| bip_39_word_underscore_11 | tortoise_breeze_thrive_iron_loud_chaos_start_note_ceiling_comfort_enact |  
+| bip_39_word_underscore_12 | tortoise_breeze_thrive_iron_loud_chaos_start_note_ceiling_comfort_enact_anger |  
+| bip_39_word_underscore_2 | tortoise_breeze |  
+| bip_39_word_underscore_3 | tortoise_breeze_thrive |  
+| bip_39_word_underscore_4 | tortoise_breeze_thrive_iron |  
+| bip_39_word_underscore_5 | tortoise_breeze_thrive_iron_loud |  
+| bip_39_word_underscore_6 | tortoise_breeze_thrive_iron_loud_chaos |  
+| bip_39_word_underscore_7 | tortoise_breeze_thrive_iron_loud_chaos_start |  
+| bip_39_word_underscore_8 | tortoise_breeze_thrive_iron_loud_chaos_start_note |  
+| bip_39_word_underscore_9 | tortoise_breeze_thrive_iron_loud_chaos_start_note_ceiling |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wonder |  
+| bip_39_word_dash_10 | wonder-innocent-midnight-blast-rich-accident-client-omit-wire-wire |  
+| bip_39_word_dash_11 | wonder-innocent-midnight-blast-rich-accident-client-omit-wire-wire-ginger |  
+| bip_39_word_dash_12 | wonder-innocent-midnight-blast-rich-accident-client-omit-wire-wire-ginger-absent |  
+| bip_39_word_dash_2 | wonder-innocent |  
+| bip_39_word_dash_3 | wonder-innocent-midnight |  
+| bip_39_word_dash_4 | wonder-innocent-midnight-blast |  
+| bip_39_word_dash_5 | wonder-innocent-midnight-blast-rich |  
+| bip_39_word_dash_6 | wonder-innocent-midnight-blast-rich-accident |  
+| bip_39_word_dash_7 | wonder-innocent-midnight-blast-rich-accident-client |  
+| bip_39_word_dash_8 | wonder-innocent-midnight-blast-rich-accident-client-omit |  
+| bip_39_word_dash_9 | wonder-innocent-midnight-blast-rich-accident-client-omit-wire |  
 | bip_39_word_new_br_1 | wonder |  
 | bip_39_word_new_br_10 | wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit<br>wire<br>wire |  
 | bip_39_word_new_br_11 | wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit<br>wire<br>wire<br>ginger |  
@@ -147,6 +159,18 @@ wire |
 | bip_39_word_space_7 | wonder innocent midnight blast rich accident client |  
 | bip_39_word_space_8 | wonder innocent midnight blast rich accident client omit |  
 | bip_39_word_space_9 | wonder innocent midnight blast rich accident client omit wire |  
+| bip_39_word_underscore_1 | wonder |  
+| bip_39_word_underscore_10 | wonder_innocent_midnight_blast_rich_accident_client_omit_wire_wire |  
+| bip_39_word_underscore_11 | wonder_innocent_midnight_blast_rich_accident_client_omit_wire_wire_ginger |  
+| bip_39_word_underscore_12 | wonder_innocent_midnight_blast_rich_accident_client_omit_wire_wire_ginger_absent |  
+| bip_39_word_underscore_2 | wonder_innocent |  
+| bip_39_word_underscore_3 | wonder_innocent_midnight |  
+| bip_39_word_underscore_4 | wonder_innocent_midnight_blast |  
+| bip_39_word_underscore_5 | wonder_innocent_midnight_blast_rich |  
+| bip_39_word_underscore_6 | wonder_innocent_midnight_blast_rich_accident |  
+| bip_39_word_underscore_7 | wonder_innocent_midnight_blast_rich_accident_client |  
+| bip_39_word_underscore_8 | wonder_innocent_midnight_blast_rich_accident_client_omit |  
+| bip_39_word_underscore_9 | wonder_innocent_midnight_blast_rich_accident_client_omit_wire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

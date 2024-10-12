@@ -1,3 +1,15 @@
+bip_39_word_dash_1: west
+bip_39_word_dash_10: west-exclude-rescue-edge-wet-injury-march-brother-remind-actor
+bip_39_word_dash_11: west-exclude-rescue-edge-wet-injury-march-brother-remind-actor-beauty
+bip_39_word_dash_12: west-exclude-rescue-edge-wet-injury-march-brother-remind-actor-beauty-angry
+bip_39_word_dash_2: west-exclude
+bip_39_word_dash_3: west-exclude-rescue
+bip_39_word_dash_4: west-exclude-rescue-edge
+bip_39_word_dash_5: west-exclude-rescue-edge-wet
+bip_39_word_dash_6: west-exclude-rescue-edge-wet-injury
+bip_39_word_dash_7: west-exclude-rescue-edge-wet-injury-march
+bip_39_word_dash_8: west-exclude-rescue-edge-wet-injury-march-brother
+bip_39_word_dash_9: west-exclude-rescue-edge-wet-injury-march-brother-remind
 bip_39_word_new_br_1: west
 bip_39_word_new_br_10: west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother<br>remind<br>actor
 bip_39_word_new_br_11: west<br>exclude<br>rescue<br>edge<br>wet<br>injury<br>march<br>brother<br>remind<br>actor<br>beauty
@@ -193,6 +205,18 @@ bip_39_word_space_6: west exclude rescue edge wet injury
 bip_39_word_space_7: west exclude rescue edge wet injury march
 bip_39_word_space_8: west exclude rescue edge wet injury march brother
 bip_39_word_space_9: west exclude rescue edge wet injury march brother remind
+bip_39_word_underscore_1: west
+bip_39_word_underscore_10: west_exclude_rescue_edge_wet_injury_march_brother_remind_actor
+bip_39_word_underscore_11: west_exclude_rescue_edge_wet_injury_march_brother_remind_actor_beauty
+bip_39_word_underscore_12: west_exclude_rescue_edge_wet_injury_march_brother_remind_actor_beauty_angry
+bip_39_word_underscore_2: west_exclude
+bip_39_word_underscore_3: west_exclude_rescue
+bip_39_word_underscore_4: west_exclude_rescue_edge
+bip_39_word_underscore_5: west_exclude_rescue_edge_wet
+bip_39_word_underscore_6: west_exclude_rescue_edge_wet_injury
+bip_39_word_underscore_7: west_exclude_rescue_edge_wet_injury_march
+bip_39_word_underscore_8: west_exclude_rescue_edge_wet_injury_march_brother
+bip_39_word_underscore_9: west_exclude_rescue_edge_wet_injury_march_brother_remind
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

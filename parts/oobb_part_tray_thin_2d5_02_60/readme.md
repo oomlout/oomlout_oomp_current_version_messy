@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aisle |  
+| bip_39_word_dash_10 | aisle-lawn-burst-portion-cart-aisle-angle-soup-corn-reduce |  
+| bip_39_word_dash_11 | aisle-lawn-burst-portion-cart-aisle-angle-soup-corn-reduce-best |  
+| bip_39_word_dash_12 | aisle-lawn-burst-portion-cart-aisle-angle-soup-corn-reduce-best-alpha |  
+| bip_39_word_dash_2 | aisle-lawn |  
+| bip_39_word_dash_3 | aisle-lawn-burst |  
+| bip_39_word_dash_4 | aisle-lawn-burst-portion |  
+| bip_39_word_dash_5 | aisle-lawn-burst-portion-cart |  
+| bip_39_word_dash_6 | aisle-lawn-burst-portion-cart-aisle |  
+| bip_39_word_dash_7 | aisle-lawn-burst-portion-cart-aisle-angle |  
+| bip_39_word_dash_8 | aisle-lawn-burst-portion-cart-aisle-angle-soup |  
+| bip_39_word_dash_9 | aisle-lawn-burst-portion-cart-aisle-angle-soup-corn |  
 | bip_39_word_new_br_1 | aisle |  
 | bip_39_word_new_br_10 | aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup<br>corn<br>reduce |  
 | bip_39_word_new_br_11 | aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup<br>corn<br>reduce<br>best |  
@@ -147,6 +159,18 @@ corn |
 | bip_39_word_space_7 | aisle lawn burst portion cart aisle angle |  
 | bip_39_word_space_8 | aisle lawn burst portion cart aisle angle soup |  
 | bip_39_word_space_9 | aisle lawn burst portion cart aisle angle soup corn |  
+| bip_39_word_underscore_1 | aisle |  
+| bip_39_word_underscore_10 | aisle_lawn_burst_portion_cart_aisle_angle_soup_corn_reduce |  
+| bip_39_word_underscore_11 | aisle_lawn_burst_portion_cart_aisle_angle_soup_corn_reduce_best |  
+| bip_39_word_underscore_12 | aisle_lawn_burst_portion_cart_aisle_angle_soup_corn_reduce_best_alpha |  
+| bip_39_word_underscore_2 | aisle_lawn |  
+| bip_39_word_underscore_3 | aisle_lawn_burst |  
+| bip_39_word_underscore_4 | aisle_lawn_burst_portion |  
+| bip_39_word_underscore_5 | aisle_lawn_burst_portion_cart |  
+| bip_39_word_underscore_6 | aisle_lawn_burst_portion_cart_aisle |  
+| bip_39_word_underscore_7 | aisle_lawn_burst_portion_cart_aisle_angle |  
+| bip_39_word_underscore_8 | aisle_lawn_burst_portion_cart_aisle_angle_soup |  
+| bip_39_word_underscore_9 | aisle_lawn_burst_portion_cart_aisle_angle_soup_corn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

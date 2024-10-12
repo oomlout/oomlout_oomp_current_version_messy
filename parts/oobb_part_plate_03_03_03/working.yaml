@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tennis
+bip_39_word_dash_10: tennis-flush-lucky-empty-upon-mean-wisdom-clock-direct-fossil
+bip_39_word_dash_11: tennis-flush-lucky-empty-upon-mean-wisdom-clock-direct-fossil-balcony
+bip_39_word_dash_12: tennis-flush-lucky-empty-upon-mean-wisdom-clock-direct-fossil-balcony-arch
+bip_39_word_dash_2: tennis-flush
+bip_39_word_dash_3: tennis-flush-lucky
+bip_39_word_dash_4: tennis-flush-lucky-empty
+bip_39_word_dash_5: tennis-flush-lucky-empty-upon
+bip_39_word_dash_6: tennis-flush-lucky-empty-upon-mean
+bip_39_word_dash_7: tennis-flush-lucky-empty-upon-mean-wisdom
+bip_39_word_dash_8: tennis-flush-lucky-empty-upon-mean-wisdom-clock
+bip_39_word_dash_9: tennis-flush-lucky-empty-upon-mean-wisdom-clock-direct
 bip_39_word_new_br_1: tennis
 bip_39_word_new_br_10: tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock<br>direct<br>fossil
 bip_39_word_new_br_11: tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock<br>direct<br>fossil<br>balcony
@@ -193,6 +205,18 @@ bip_39_word_space_6: tennis flush lucky empty upon mean
 bip_39_word_space_7: tennis flush lucky empty upon mean wisdom
 bip_39_word_space_8: tennis flush lucky empty upon mean wisdom clock
 bip_39_word_space_9: tennis flush lucky empty upon mean wisdom clock direct
+bip_39_word_underscore_1: tennis
+bip_39_word_underscore_10: tennis_flush_lucky_empty_upon_mean_wisdom_clock_direct_fossil
+bip_39_word_underscore_11: tennis_flush_lucky_empty_upon_mean_wisdom_clock_direct_fossil_balcony
+bip_39_word_underscore_12: tennis_flush_lucky_empty_upon_mean_wisdom_clock_direct_fossil_balcony_arch
+bip_39_word_underscore_2: tennis_flush
+bip_39_word_underscore_3: tennis_flush_lucky
+bip_39_word_underscore_4: tennis_flush_lucky_empty
+bip_39_word_underscore_5: tennis_flush_lucky_empty_upon
+bip_39_word_underscore_6: tennis_flush_lucky_empty_upon_mean
+bip_39_word_underscore_7: tennis_flush_lucky_empty_upon_mean_wisdom
+bip_39_word_underscore_8: tennis_flush_lucky_empty_upon_mean_wisdom_clock
+bip_39_word_underscore_9: tennis_flush_lucky_empty_upon_mean_wisdom_clock_direct
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

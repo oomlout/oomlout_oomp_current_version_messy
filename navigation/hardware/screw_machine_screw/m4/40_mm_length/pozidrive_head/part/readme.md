@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slender |  
+| bip_39_word_dash_10 | slender-smart-reflect-lizard-bless-effort-fall-addict-mean-flee |  
+| bip_39_word_dash_11 | slender-smart-reflect-lizard-bless-effort-fall-addict-mean-flee-runway |  
+| bip_39_word_dash_2 | slender-smart |  
+| bip_39_word_dash_3 | slender-smart-reflect |  
+| bip_39_word_dash_4 | slender-smart-reflect-lizard |  
+| bip_39_word_dash_5 | slender-smart-reflect-lizard-bless |  
+| bip_39_word_dash_6 | slender-smart-reflect-lizard-bless-effort |  
+| bip_39_word_dash_7 | slender-smart-reflect-lizard-bless-effort-fall |  
+| bip_39_word_dash_8 | slender-smart-reflect-lizard-bless-effort-fall-addict |  
+| bip_39_word_dash_9 | slender-smart-reflect-lizard-bless-effort-fall-addict-mean |  
 | bip_39_word_new_br_1 | slender |  
 | bip_39_word_new_br_10 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean<br>flee |  
 | bip_39_word_new_br_11 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean<br>flee<br>runway |  
@@ -132,6 +143,17 @@ mean |
 | bip_39_word_space_7 | slender smart reflect lizard bless effort fall |  
 | bip_39_word_space_8 | slender smart reflect lizard bless effort fall addict |  
 | bip_39_word_space_9 | slender smart reflect lizard bless effort fall addict mean |  
+| bip_39_word_underscore_1 | slender |  
+| bip_39_word_underscore_10 | slender_smart_reflect_lizard_bless_effort_fall_addict_mean_flee |  
+| bip_39_word_underscore_11 | slender_smart_reflect_lizard_bless_effort_fall_addict_mean_flee_runway |  
+| bip_39_word_underscore_2 | slender_smart |  
+| bip_39_word_underscore_3 | slender_smart_reflect |  
+| bip_39_word_underscore_4 | slender_smart_reflect_lizard |  
+| bip_39_word_underscore_5 | slender_smart_reflect_lizard_bless |  
+| bip_39_word_underscore_6 | slender_smart_reflect_lizard_bless_effort |  
+| bip_39_word_underscore_7 | slender_smart_reflect_lizard_bless_effort_fall |  
+| bip_39_word_underscore_8 | slender_smart_reflect_lizard_bless_effort_fall_addict |  
+| bip_39_word_underscore_9 | slender_smart_reflect_lizard_bless_effort_fall_addict_mean |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

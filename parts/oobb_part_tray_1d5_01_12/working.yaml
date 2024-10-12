@@ -1,3 +1,15 @@
+bip_39_word_dash_1: target
+bip_39_word_dash_10: target-right-sphere-street-sick-humor-sting-sunny-cruise-frame
+bip_39_word_dash_11: target-right-sphere-street-sick-humor-sting-sunny-cruise-frame-romance
+bip_39_word_dash_12: target-right-sphere-street-sick-humor-sting-sunny-cruise-frame-romance-anxiety
+bip_39_word_dash_2: target-right
+bip_39_word_dash_3: target-right-sphere
+bip_39_word_dash_4: target-right-sphere-street
+bip_39_word_dash_5: target-right-sphere-street-sick
+bip_39_word_dash_6: target-right-sphere-street-sick-humor
+bip_39_word_dash_7: target-right-sphere-street-sick-humor-sting
+bip_39_word_dash_8: target-right-sphere-street-sick-humor-sting-sunny
+bip_39_word_dash_9: target-right-sphere-street-sick-humor-sting-sunny-cruise
 bip_39_word_new_br_1: target
 bip_39_word_new_br_10: target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny<br>cruise<br>frame
 bip_39_word_new_br_11: target<br>right<br>sphere<br>street<br>sick<br>humor<br>sting<br>sunny<br>cruise<br>frame<br>romance
@@ -193,6 +205,18 @@ bip_39_word_space_6: target right sphere street sick humor
 bip_39_word_space_7: target right sphere street sick humor sting
 bip_39_word_space_8: target right sphere street sick humor sting sunny
 bip_39_word_space_9: target right sphere street sick humor sting sunny cruise
+bip_39_word_underscore_1: target
+bip_39_word_underscore_10: target_right_sphere_street_sick_humor_sting_sunny_cruise_frame
+bip_39_word_underscore_11: target_right_sphere_street_sick_humor_sting_sunny_cruise_frame_romance
+bip_39_word_underscore_12: target_right_sphere_street_sick_humor_sting_sunny_cruise_frame_romance_anxiety
+bip_39_word_underscore_2: target_right
+bip_39_word_underscore_3: target_right_sphere
+bip_39_word_underscore_4: target_right_sphere_street
+bip_39_word_underscore_5: target_right_sphere_street_sick
+bip_39_word_underscore_6: target_right_sphere_street_sick_humor
+bip_39_word_underscore_7: target_right_sphere_street_sick_humor_sting
+bip_39_word_underscore_8: target_right_sphere_street_sick_humor_sting_sunny
+bip_39_word_underscore_9: target_right_sphere_street_sick_humor_sting_sunny_cruise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

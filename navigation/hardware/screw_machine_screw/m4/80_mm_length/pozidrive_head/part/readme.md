@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | violin |  
+| bip_39_word_dash_10 | violin-penalty-call-end-disagree-kiss-ordinary-release-fly-junk |  
+| bip_39_word_dash_11 | violin-penalty-call-end-disagree-kiss-ordinary-release-fly-junk-sign |  
+| bip_39_word_dash_12 | violin-penalty-call-end-disagree-kiss-ordinary-release-fly-junk-sign-acquire |  
+| bip_39_word_dash_2 | violin-penalty |  
+| bip_39_word_dash_3 | violin-penalty-call |  
+| bip_39_word_dash_4 | violin-penalty-call-end |  
+| bip_39_word_dash_5 | violin-penalty-call-end-disagree |  
+| bip_39_word_dash_6 | violin-penalty-call-end-disagree-kiss |  
+| bip_39_word_dash_7 | violin-penalty-call-end-disagree-kiss-ordinary |  
+| bip_39_word_dash_8 | violin-penalty-call-end-disagree-kiss-ordinary-release |  
+| bip_39_word_dash_9 | violin-penalty-call-end-disagree-kiss-ordinary-release-fly |  
 | bip_39_word_new_br_1 | violin |  
 | bip_39_word_new_br_10 | violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release<br>fly<br>junk |  
 | bip_39_word_new_br_11 | violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release<br>fly<br>junk<br>sign |  
@@ -147,6 +159,18 @@ fly |
 | bip_39_word_space_7 | violin penalty call end disagree kiss ordinary |  
 | bip_39_word_space_8 | violin penalty call end disagree kiss ordinary release |  
 | bip_39_word_space_9 | violin penalty call end disagree kiss ordinary release fly |  
+| bip_39_word_underscore_1 | violin |  
+| bip_39_word_underscore_10 | violin_penalty_call_end_disagree_kiss_ordinary_release_fly_junk |  
+| bip_39_word_underscore_11 | violin_penalty_call_end_disagree_kiss_ordinary_release_fly_junk_sign |  
+| bip_39_word_underscore_12 | violin_penalty_call_end_disagree_kiss_ordinary_release_fly_junk_sign_acquire |  
+| bip_39_word_underscore_2 | violin_penalty |  
+| bip_39_word_underscore_3 | violin_penalty_call |  
+| bip_39_word_underscore_4 | violin_penalty_call_end |  
+| bip_39_word_underscore_5 | violin_penalty_call_end_disagree |  
+| bip_39_word_underscore_6 | violin_penalty_call_end_disagree_kiss |  
+| bip_39_word_underscore_7 | violin_penalty_call_end_disagree_kiss_ordinary |  
+| bip_39_word_underscore_8 | violin_penalty_call_end_disagree_kiss_ordinary_release |  
+| bip_39_word_underscore_9 | violin_penalty_call_end_disagree_kiss_ordinary_release_fly |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

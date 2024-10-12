@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chef
+bip_39_word_dash_10: chef-seek-road-economy-slow-unknown-valve-insane-light-whale
+bip_39_word_dash_11: chef-seek-road-economy-slow-unknown-valve-insane-light-whale-same
+bip_39_word_dash_12: chef-seek-road-economy-slow-unknown-valve-insane-light-whale-same-any
+bip_39_word_dash_2: chef-seek
+bip_39_word_dash_3: chef-seek-road
+bip_39_word_dash_4: chef-seek-road-economy
+bip_39_word_dash_5: chef-seek-road-economy-slow
+bip_39_word_dash_6: chef-seek-road-economy-slow-unknown
+bip_39_word_dash_7: chef-seek-road-economy-slow-unknown-valve
+bip_39_word_dash_8: chef-seek-road-economy-slow-unknown-valve-insane
+bip_39_word_dash_9: chef-seek-road-economy-slow-unknown-valve-insane-light
 bip_39_word_new_br_1: chef
 bip_39_word_new_br_10: chef<br>seek<br>road<br>economy<br>slow<br>unknown<br>valve<br>insane<br>light<br>whale
 bip_39_word_new_br_11: chef<br>seek<br>road<br>economy<br>slow<br>unknown<br>valve<br>insane<br>light<br>whale<br>same
@@ -193,6 +205,18 @@ bip_39_word_space_6: chef seek road economy slow unknown
 bip_39_word_space_7: chef seek road economy slow unknown valve
 bip_39_word_space_8: chef seek road economy slow unknown valve insane
 bip_39_word_space_9: chef seek road economy slow unknown valve insane light
+bip_39_word_underscore_1: chef
+bip_39_word_underscore_10: chef_seek_road_economy_slow_unknown_valve_insane_light_whale
+bip_39_word_underscore_11: chef_seek_road_economy_slow_unknown_valve_insane_light_whale_same
+bip_39_word_underscore_12: chef_seek_road_economy_slow_unknown_valve_insane_light_whale_same_any
+bip_39_word_underscore_2: chef_seek
+bip_39_word_underscore_3: chef_seek_road
+bip_39_word_underscore_4: chef_seek_road_economy
+bip_39_word_underscore_5: chef_seek_road_economy_slow
+bip_39_word_underscore_6: chef_seek_road_economy_slow_unknown
+bip_39_word_underscore_7: chef_seek_road_economy_slow_unknown_valve
+bip_39_word_underscore_8: chef_seek_road_economy_slow_unknown_valve_insane
+bip_39_word_underscore_9: chef_seek_road_economy_slow_unknown_valve_insane_light
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

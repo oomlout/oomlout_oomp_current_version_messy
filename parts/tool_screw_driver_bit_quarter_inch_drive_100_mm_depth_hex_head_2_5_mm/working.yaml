@@ -1,3 +1,15 @@
+bip_39_word_dash_1: marble
+bip_39_word_dash_10: marble-corn-black-tiger-cube-dress-grass-young-filter-high
+bip_39_word_dash_11: marble-corn-black-tiger-cube-dress-grass-young-filter-high-more
+bip_39_word_dash_12: marble-corn-black-tiger-cube-dress-grass-young-filter-high-more-angle
+bip_39_word_dash_2: marble-corn
+bip_39_word_dash_3: marble-corn-black
+bip_39_word_dash_4: marble-corn-black-tiger
+bip_39_word_dash_5: marble-corn-black-tiger-cube
+bip_39_word_dash_6: marble-corn-black-tiger-cube-dress
+bip_39_word_dash_7: marble-corn-black-tiger-cube-dress-grass
+bip_39_word_dash_8: marble-corn-black-tiger-cube-dress-grass-young
+bip_39_word_dash_9: marble-corn-black-tiger-cube-dress-grass-young-filter
 bip_39_word_new_br_1: marble
 bip_39_word_new_br_10: marble<br>corn<br>black<br>tiger<br>cube<br>dress<br>grass<br>young<br>filter<br>high
 bip_39_word_new_br_11: marble<br>corn<br>black<br>tiger<br>cube<br>dress<br>grass<br>young<br>filter<br>high<br>more
@@ -192,6 +204,18 @@ bip_39_word_space_6: marble corn black tiger cube dress
 bip_39_word_space_7: marble corn black tiger cube dress grass
 bip_39_word_space_8: marble corn black tiger cube dress grass young
 bip_39_word_space_9: marble corn black tiger cube dress grass young filter
+bip_39_word_underscore_1: marble
+bip_39_word_underscore_10: marble_corn_black_tiger_cube_dress_grass_young_filter_high
+bip_39_word_underscore_11: marble_corn_black_tiger_cube_dress_grass_young_filter_high_more
+bip_39_word_underscore_12: marble_corn_black_tiger_cube_dress_grass_young_filter_high_more_angle
+bip_39_word_underscore_2: marble_corn
+bip_39_word_underscore_3: marble_corn_black
+bip_39_word_underscore_4: marble_corn_black_tiger
+bip_39_word_underscore_5: marble_corn_black_tiger_cube
+bip_39_word_underscore_6: marble_corn_black_tiger_cube_dress
+bip_39_word_underscore_7: marble_corn_black_tiger_cube_dress_grass
+bip_39_word_underscore_8: marble_corn_black_tiger_cube_dress_grass_young
+bip_39_word_underscore_9: marble_corn_black_tiger_cube_dress_grass_young_filter
 classification: tool
 classification_capital: Tool
 classification_first_letter: t

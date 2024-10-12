@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sad
+bip_39_word_dash_10: sad-fancy-antenna-margin-craft-mechanic-faculty-certain-mother-field
+bip_39_word_dash_11: sad-fancy-antenna-margin-craft-mechanic-faculty-certain-mother-field-label
+bip_39_word_dash_12: sad-fancy-antenna-margin-craft-mechanic-faculty-certain-mother-field-label-approve
+bip_39_word_dash_2: sad-fancy
+bip_39_word_dash_3: sad-fancy-antenna
+bip_39_word_dash_4: sad-fancy-antenna-margin
+bip_39_word_dash_5: sad-fancy-antenna-margin-craft
+bip_39_word_dash_6: sad-fancy-antenna-margin-craft-mechanic
+bip_39_word_dash_7: sad-fancy-antenna-margin-craft-mechanic-faculty
+bip_39_word_dash_8: sad-fancy-antenna-margin-craft-mechanic-faculty-certain
+bip_39_word_dash_9: sad-fancy-antenna-margin-craft-mechanic-faculty-certain-mother
 bip_39_word_new_br_1: sad
 bip_39_word_new_br_10: sad<br>fancy<br>antenna<br>margin<br>craft<br>mechanic<br>faculty<br>certain<br>mother<br>field
 bip_39_word_new_br_11: sad<br>fancy<br>antenna<br>margin<br>craft<br>mechanic<br>faculty<br>certain<br>mother<br>field<br>label
@@ -194,6 +206,18 @@ bip_39_word_space_6: sad fancy antenna margin craft mechanic
 bip_39_word_space_7: sad fancy antenna margin craft mechanic faculty
 bip_39_word_space_8: sad fancy antenna margin craft mechanic faculty certain
 bip_39_word_space_9: sad fancy antenna margin craft mechanic faculty certain mother
+bip_39_word_underscore_1: sad
+bip_39_word_underscore_10: sad_fancy_antenna_margin_craft_mechanic_faculty_certain_mother_field
+bip_39_word_underscore_11: sad_fancy_antenna_margin_craft_mechanic_faculty_certain_mother_field_label
+bip_39_word_underscore_12: sad_fancy_antenna_margin_craft_mechanic_faculty_certain_mother_field_label_approve
+bip_39_word_underscore_2: sad_fancy
+bip_39_word_underscore_3: sad_fancy_antenna
+bip_39_word_underscore_4: sad_fancy_antenna_margin
+bip_39_word_underscore_5: sad_fancy_antenna_margin_craft
+bip_39_word_underscore_6: sad_fancy_antenna_margin_craft_mechanic
+bip_39_word_underscore_7: sad_fancy_antenna_margin_craft_mechanic_faculty
+bip_39_word_underscore_8: sad_fancy_antenna_margin_craft_mechanic_faculty_certain
+bip_39_word_underscore_9: sad_fancy_antenna_margin_craft_mechanic_faculty_certain_mother
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

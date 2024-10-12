@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silver |  
+| bip_39_word_dash_10 | silver-tornado-illness-age-prison-settle-expose-stereo-baby-assault |  
+| bip_39_word_dash_11 | silver-tornado-illness-age-prison-settle-expose-stereo-baby-assault-midnight |  
+| bip_39_word_dash_12 | silver-tornado-illness-age-prison-settle-expose-stereo-baby-assault-midnight-absent |  
+| bip_39_word_dash_2 | silver-tornado |  
+| bip_39_word_dash_3 | silver-tornado-illness |  
+| bip_39_word_dash_4 | silver-tornado-illness-age |  
+| bip_39_word_dash_5 | silver-tornado-illness-age-prison |  
+| bip_39_word_dash_6 | silver-tornado-illness-age-prison-settle |  
+| bip_39_word_dash_7 | silver-tornado-illness-age-prison-settle-expose |  
+| bip_39_word_dash_8 | silver-tornado-illness-age-prison-settle-expose-stereo |  
+| bip_39_word_dash_9 | silver-tornado-illness-age-prison-settle-expose-stereo-baby |  
 | bip_39_word_new_br_1 | silver |  
 | bip_39_word_new_br_10 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo<br>baby<br>assault |  
 | bip_39_word_new_br_11 | silver<br>tornado<br>illness<br>age<br>prison<br>settle<br>expose<br>stereo<br>baby<br>assault<br>midnight |  
@@ -147,6 +159,18 @@ baby |
 | bip_39_word_space_7 | silver tornado illness age prison settle expose |  
 | bip_39_word_space_8 | silver tornado illness age prison settle expose stereo |  
 | bip_39_word_space_9 | silver tornado illness age prison settle expose stereo baby |  
+| bip_39_word_underscore_1 | silver |  
+| bip_39_word_underscore_10 | silver_tornado_illness_age_prison_settle_expose_stereo_baby_assault |  
+| bip_39_word_underscore_11 | silver_tornado_illness_age_prison_settle_expose_stereo_baby_assault_midnight |  
+| bip_39_word_underscore_12 | silver_tornado_illness_age_prison_settle_expose_stereo_baby_assault_midnight_absent |  
+| bip_39_word_underscore_2 | silver_tornado |  
+| bip_39_word_underscore_3 | silver_tornado_illness |  
+| bip_39_word_underscore_4 | silver_tornado_illness_age |  
+| bip_39_word_underscore_5 | silver_tornado_illness_age_prison |  
+| bip_39_word_underscore_6 | silver_tornado_illness_age_prison_settle |  
+| bip_39_word_underscore_7 | silver_tornado_illness_age_prison_settle_expose |  
+| bip_39_word_underscore_8 | silver_tornado_illness_age_prison_settle_expose_stereo |  
+| bip_39_word_underscore_9 | silver_tornado_illness_age_prison_settle_expose_stereo_baby |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

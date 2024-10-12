@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mobile |  
+| bip_39_word_dash_10 | mobile-autumn-various-trigger-resource-lawsuit-sphere-lottery-gas-limb |  
+| bip_39_word_dash_11 | mobile-autumn-various-trigger-resource-lawsuit-sphere-lottery-gas-limb-place |  
+| bip_39_word_dash_12 | mobile-autumn-various-trigger-resource-lawsuit-sphere-lottery-gas-limb-place-acid |  
+| bip_39_word_dash_2 | mobile-autumn |  
+| bip_39_word_dash_3 | mobile-autumn-various |  
+| bip_39_word_dash_4 | mobile-autumn-various-trigger |  
+| bip_39_word_dash_5 | mobile-autumn-various-trigger-resource |  
+| bip_39_word_dash_6 | mobile-autumn-various-trigger-resource-lawsuit |  
+| bip_39_word_dash_7 | mobile-autumn-various-trigger-resource-lawsuit-sphere |  
+| bip_39_word_dash_8 | mobile-autumn-various-trigger-resource-lawsuit-sphere-lottery |  
+| bip_39_word_dash_9 | mobile-autumn-various-trigger-resource-lawsuit-sphere-lottery-gas |  
 | bip_39_word_new_br_1 | mobile |  
 | bip_39_word_new_br_10 | mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb |  
 | bip_39_word_new_br_11 | mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb<br>place |  
@@ -147,6 +159,18 @@ gas |
 | bip_39_word_space_7 | mobile autumn various trigger resource lawsuit sphere |  
 | bip_39_word_space_8 | mobile autumn various trigger resource lawsuit sphere lottery |  
 | bip_39_word_space_9 | mobile autumn various trigger resource lawsuit sphere lottery gas |  
+| bip_39_word_underscore_1 | mobile |  
+| bip_39_word_underscore_10 | mobile_autumn_various_trigger_resource_lawsuit_sphere_lottery_gas_limb |  
+| bip_39_word_underscore_11 | mobile_autumn_various_trigger_resource_lawsuit_sphere_lottery_gas_limb_place |  
+| bip_39_word_underscore_12 | mobile_autumn_various_trigger_resource_lawsuit_sphere_lottery_gas_limb_place_acid |  
+| bip_39_word_underscore_2 | mobile_autumn |  
+| bip_39_word_underscore_3 | mobile_autumn_various |  
+| bip_39_word_underscore_4 | mobile_autumn_various_trigger |  
+| bip_39_word_underscore_5 | mobile_autumn_various_trigger_resource |  
+| bip_39_word_underscore_6 | mobile_autumn_various_trigger_resource_lawsuit |  
+| bip_39_word_underscore_7 | mobile_autumn_various_trigger_resource_lawsuit_sphere |  
+| bip_39_word_underscore_8 | mobile_autumn_various_trigger_resource_lawsuit_sphere_lottery |  
+| bip_39_word_underscore_9 | mobile_autumn_various_trigger_resource_lawsuit_sphere_lottery_gas |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

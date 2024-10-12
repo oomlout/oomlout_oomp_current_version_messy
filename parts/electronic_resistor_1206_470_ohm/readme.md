@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brass |  
+| bip_39_word_dash_10 | brass-relief-cannon-farm-gather-wedding-basic-grocery-sick-energy |  
+| bip_39_word_dash_11 | brass-relief-cannon-farm-gather-wedding-basic-grocery-sick-energy-tumble |  
+| bip_39_word_dash_12 | brass-relief-cannon-farm-gather-wedding-basic-grocery-sick-energy-tumble-artefact |  
+| bip_39_word_dash_2 | brass-relief |  
+| bip_39_word_dash_3 | brass-relief-cannon |  
+| bip_39_word_dash_4 | brass-relief-cannon-farm |  
+| bip_39_word_dash_5 | brass-relief-cannon-farm-gather |  
+| bip_39_word_dash_6 | brass-relief-cannon-farm-gather-wedding |  
+| bip_39_word_dash_7 | brass-relief-cannon-farm-gather-wedding-basic |  
+| bip_39_word_dash_8 | brass-relief-cannon-farm-gather-wedding-basic-grocery |  
+| bip_39_word_dash_9 | brass-relief-cannon-farm-gather-wedding-basic-grocery-sick |  
 | bip_39_word_new_br_1 | brass |  
 | bip_39_word_new_br_10 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy |  
 | bip_39_word_new_br_11 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy<br>tumble |  
@@ -147,6 +159,18 @@ sick |
 | bip_39_word_space_7 | brass relief cannon farm gather wedding basic |  
 | bip_39_word_space_8 | brass relief cannon farm gather wedding basic grocery |  
 | bip_39_word_space_9 | brass relief cannon farm gather wedding basic grocery sick |  
+| bip_39_word_underscore_1 | brass |  
+| bip_39_word_underscore_10 | brass_relief_cannon_farm_gather_wedding_basic_grocery_sick_energy |  
+| bip_39_word_underscore_11 | brass_relief_cannon_farm_gather_wedding_basic_grocery_sick_energy_tumble |  
+| bip_39_word_underscore_12 | brass_relief_cannon_farm_gather_wedding_basic_grocery_sick_energy_tumble_artefact |  
+| bip_39_word_underscore_2 | brass_relief |  
+| bip_39_word_underscore_3 | brass_relief_cannon |  
+| bip_39_word_underscore_4 | brass_relief_cannon_farm |  
+| bip_39_word_underscore_5 | brass_relief_cannon_farm_gather |  
+| bip_39_word_underscore_6 | brass_relief_cannon_farm_gather_wedding |  
+| bip_39_word_underscore_7 | brass_relief_cannon_farm_gather_wedding_basic |  
+| bip_39_word_underscore_8 | brass_relief_cannon_farm_gather_wedding_basic_grocery |  
+| bip_39_word_underscore_9 | brass_relief_cannon_farm_gather_wedding_basic_grocery_sick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | essence |  
+| bip_39_word_dash_10 | essence-insane-sustain-truly-defy-various-blame-ecology-annual-parent |  
+| bip_39_word_dash_11 | essence-insane-sustain-truly-defy-various-blame-ecology-annual-parent-weird |  
+| bip_39_word_dash_12 | essence-insane-sustain-truly-defy-various-blame-ecology-annual-parent-weird-aunt |  
+| bip_39_word_dash_2 | essence-insane |  
+| bip_39_word_dash_3 | essence-insane-sustain |  
+| bip_39_word_dash_4 | essence-insane-sustain-truly |  
+| bip_39_word_dash_5 | essence-insane-sustain-truly-defy |  
+| bip_39_word_dash_6 | essence-insane-sustain-truly-defy-various |  
+| bip_39_word_dash_7 | essence-insane-sustain-truly-defy-various-blame |  
+| bip_39_word_dash_8 | essence-insane-sustain-truly-defy-various-blame-ecology |  
+| bip_39_word_dash_9 | essence-insane-sustain-truly-defy-various-blame-ecology-annual |  
 | bip_39_word_new_br_1 | essence |  
 | bip_39_word_new_br_10 | essence<br>insane<br>sustain<br>truly<br>defy<br>various<br>blame<br>ecology<br>annual<br>parent |  
 | bip_39_word_new_br_11 | essence<br>insane<br>sustain<br>truly<br>defy<br>various<br>blame<br>ecology<br>annual<br>parent<br>weird |  
@@ -147,6 +159,18 @@ annual |
 | bip_39_word_space_7 | essence insane sustain truly defy various blame |  
 | bip_39_word_space_8 | essence insane sustain truly defy various blame ecology |  
 | bip_39_word_space_9 | essence insane sustain truly defy various blame ecology annual |  
+| bip_39_word_underscore_1 | essence |  
+| bip_39_word_underscore_10 | essence_insane_sustain_truly_defy_various_blame_ecology_annual_parent |  
+| bip_39_word_underscore_11 | essence_insane_sustain_truly_defy_various_blame_ecology_annual_parent_weird |  
+| bip_39_word_underscore_12 | essence_insane_sustain_truly_defy_various_blame_ecology_annual_parent_weird_aunt |  
+| bip_39_word_underscore_2 | essence_insane |  
+| bip_39_word_underscore_3 | essence_insane_sustain |  
+| bip_39_word_underscore_4 | essence_insane_sustain_truly |  
+| bip_39_word_underscore_5 | essence_insane_sustain_truly_defy |  
+| bip_39_word_underscore_6 | essence_insane_sustain_truly_defy_various |  
+| bip_39_word_underscore_7 | essence_insane_sustain_truly_defy_various_blame |  
+| bip_39_word_underscore_8 | essence_insane_sustain_truly_defy_various_blame_ecology |  
+| bip_39_word_underscore_9 | essence_insane_sustain_truly_defy_various_blame_ecology_annual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

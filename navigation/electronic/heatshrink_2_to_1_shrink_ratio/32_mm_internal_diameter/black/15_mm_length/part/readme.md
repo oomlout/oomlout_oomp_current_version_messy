@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gentle |  
+| bip_39_word_dash_10 | gentle-step-glimpse-cage-destroy-segment-skirt-cargo-argue-beyond |  
+| bip_39_word_dash_11 | gentle-step-glimpse-cage-destroy-segment-skirt-cargo-argue-beyond-twist |  
+| bip_39_word_dash_12 | gentle-step-glimpse-cage-destroy-segment-skirt-cargo-argue-beyond-twist-another |  
+| bip_39_word_dash_2 | gentle-step |  
+| bip_39_word_dash_3 | gentle-step-glimpse |  
+| bip_39_word_dash_4 | gentle-step-glimpse-cage |  
+| bip_39_word_dash_5 | gentle-step-glimpse-cage-destroy |  
+| bip_39_word_dash_6 | gentle-step-glimpse-cage-destroy-segment |  
+| bip_39_word_dash_7 | gentle-step-glimpse-cage-destroy-segment-skirt |  
+| bip_39_word_dash_8 | gentle-step-glimpse-cage-destroy-segment-skirt-cargo |  
+| bip_39_word_dash_9 | gentle-step-glimpse-cage-destroy-segment-skirt-cargo-argue |  
 | bip_39_word_new_br_1 | gentle |  
 | bip_39_word_new_br_10 | gentle<br>step<br>glimpse<br>cage<br>destroy<br>segment<br>skirt<br>cargo<br>argue<br>beyond |  
 | bip_39_word_new_br_11 | gentle<br>step<br>glimpse<br>cage<br>destroy<br>segment<br>skirt<br>cargo<br>argue<br>beyond<br>twist |  
@@ -147,6 +159,18 @@ argue |
 | bip_39_word_space_7 | gentle step glimpse cage destroy segment skirt |  
 | bip_39_word_space_8 | gentle step glimpse cage destroy segment skirt cargo |  
 | bip_39_word_space_9 | gentle step glimpse cage destroy segment skirt cargo argue |  
+| bip_39_word_underscore_1 | gentle |  
+| bip_39_word_underscore_10 | gentle_step_glimpse_cage_destroy_segment_skirt_cargo_argue_beyond |  
+| bip_39_word_underscore_11 | gentle_step_glimpse_cage_destroy_segment_skirt_cargo_argue_beyond_twist |  
+| bip_39_word_underscore_12 | gentle_step_glimpse_cage_destroy_segment_skirt_cargo_argue_beyond_twist_another |  
+| bip_39_word_underscore_2 | gentle_step |  
+| bip_39_word_underscore_3 | gentle_step_glimpse |  
+| bip_39_word_underscore_4 | gentle_step_glimpse_cage |  
+| bip_39_word_underscore_5 | gentle_step_glimpse_cage_destroy |  
+| bip_39_word_underscore_6 | gentle_step_glimpse_cage_destroy_segment |  
+| bip_39_word_underscore_7 | gentle_step_glimpse_cage_destroy_segment_skirt |  
+| bip_39_word_underscore_8 | gentle_step_glimpse_cage_destroy_segment_skirt_cargo |  
+| bip_39_word_underscore_9 | gentle_step_glimpse_cage_destroy_segment_skirt_cargo_argue |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | neglect |  
+| bip_39_word_dash_10 | neglect-library-burden-turkey-gold-subway-twelve-toward-runway-cricket |  
+| bip_39_word_dash_11 | neglect-library-burden-turkey-gold-subway-twelve-toward-runway-cricket-remind |  
+| bip_39_word_dash_12 | neglect-library-burden-turkey-gold-subway-twelve-toward-runway-cricket-remind-among |  
+| bip_39_word_dash_2 | neglect-library |  
+| bip_39_word_dash_3 | neglect-library-burden |  
+| bip_39_word_dash_4 | neglect-library-burden-turkey |  
+| bip_39_word_dash_5 | neglect-library-burden-turkey-gold |  
+| bip_39_word_dash_6 | neglect-library-burden-turkey-gold-subway |  
+| bip_39_word_dash_7 | neglect-library-burden-turkey-gold-subway-twelve |  
+| bip_39_word_dash_8 | neglect-library-burden-turkey-gold-subway-twelve-toward |  
+| bip_39_word_dash_9 | neglect-library-burden-turkey-gold-subway-twelve-toward-runway |  
 | bip_39_word_new_br_1 | neglect |  
 | bip_39_word_new_br_10 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket |  
 | bip_39_word_new_br_11 | neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket<br>remind |  
@@ -147,6 +159,18 @@ runway |
 | bip_39_word_space_7 | neglect library burden turkey gold subway twelve |  
 | bip_39_word_space_8 | neglect library burden turkey gold subway twelve toward |  
 | bip_39_word_space_9 | neglect library burden turkey gold subway twelve toward runway |  
+| bip_39_word_underscore_1 | neglect |  
+| bip_39_word_underscore_10 | neglect_library_burden_turkey_gold_subway_twelve_toward_runway_cricket |  
+| bip_39_word_underscore_11 | neglect_library_burden_turkey_gold_subway_twelve_toward_runway_cricket_remind |  
+| bip_39_word_underscore_12 | neglect_library_burden_turkey_gold_subway_twelve_toward_runway_cricket_remind_among |  
+| bip_39_word_underscore_2 | neglect_library |  
+| bip_39_word_underscore_3 | neglect_library_burden |  
+| bip_39_word_underscore_4 | neglect_library_burden_turkey |  
+| bip_39_word_underscore_5 | neglect_library_burden_turkey_gold |  
+| bip_39_word_underscore_6 | neglect_library_burden_turkey_gold_subway |  
+| bip_39_word_underscore_7 | neglect_library_burden_turkey_gold_subway_twelve |  
+| bip_39_word_underscore_8 | neglect_library_burden_turkey_gold_subway_twelve_toward |  
+| bip_39_word_underscore_9 | neglect_library_burden_turkey_gold_subway_twelve_toward_runway |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

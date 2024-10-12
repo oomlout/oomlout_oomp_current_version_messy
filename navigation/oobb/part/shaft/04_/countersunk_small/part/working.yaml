@@ -1,3 +1,15 @@
+bip_39_word_dash_1: youth
+bip_39_word_dash_10: youth-crop-youth-omit-quote-depart-hill-soul-slush-bulk
+bip_39_word_dash_11: youth-crop-youth-omit-quote-depart-hill-soul-slush-bulk-seminar
+bip_39_word_dash_12: youth-crop-youth-omit-quote-depart-hill-soul-slush-bulk-seminar-accuse
+bip_39_word_dash_2: youth-crop
+bip_39_word_dash_3: youth-crop-youth
+bip_39_word_dash_4: youth-crop-youth-omit
+bip_39_word_dash_5: youth-crop-youth-omit-quote
+bip_39_word_dash_6: youth-crop-youth-omit-quote-depart
+bip_39_word_dash_7: youth-crop-youth-omit-quote-depart-hill
+bip_39_word_dash_8: youth-crop-youth-omit-quote-depart-hill-soul
+bip_39_word_dash_9: youth-crop-youth-omit-quote-depart-hill-soul-slush
 bip_39_word_new_br_1: youth
 bip_39_word_new_br_10: youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul<br>slush<br>bulk
 bip_39_word_new_br_11: youth<br>crop<br>youth<br>omit<br>quote<br>depart<br>hill<br>soul<br>slush<br>bulk<br>seminar
@@ -192,6 +204,18 @@ bip_39_word_space_6: youth crop youth omit quote depart
 bip_39_word_space_7: youth crop youth omit quote depart hill
 bip_39_word_space_8: youth crop youth omit quote depart hill soul
 bip_39_word_space_9: youth crop youth omit quote depart hill soul slush
+bip_39_word_underscore_1: youth
+bip_39_word_underscore_10: youth_crop_youth_omit_quote_depart_hill_soul_slush_bulk
+bip_39_word_underscore_11: youth_crop_youth_omit_quote_depart_hill_soul_slush_bulk_seminar
+bip_39_word_underscore_12: youth_crop_youth_omit_quote_depart_hill_soul_slush_bulk_seminar_accuse
+bip_39_word_underscore_2: youth_crop
+bip_39_word_underscore_3: youth_crop_youth
+bip_39_word_underscore_4: youth_crop_youth_omit
+bip_39_word_underscore_5: youth_crop_youth_omit_quote
+bip_39_word_underscore_6: youth_crop_youth_omit_quote_depart
+bip_39_word_underscore_7: youth_crop_youth_omit_quote_depart_hill
+bip_39_word_underscore_8: youth_crop_youth_omit_quote_depart_hill_soul
+bip_39_word_underscore_9: youth_crop_youth_omit_quote_depart_hill_soul_slush
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

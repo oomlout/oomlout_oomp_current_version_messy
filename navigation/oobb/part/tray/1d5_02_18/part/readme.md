@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glory |  
+| bip_39_word_dash_10 | glory-title-youth-elder-van-auto-brown-wrap-dinner-eyebrow |  
+| bip_39_word_dash_11 | glory-title-youth-elder-van-auto-brown-wrap-dinner-eyebrow-pig |  
+| bip_39_word_dash_12 | glory-title-youth-elder-van-auto-brown-wrap-dinner-eyebrow-pig-amount |  
+| bip_39_word_dash_2 | glory-title |  
+| bip_39_word_dash_3 | glory-title-youth |  
+| bip_39_word_dash_4 | glory-title-youth-elder |  
+| bip_39_word_dash_5 | glory-title-youth-elder-van |  
+| bip_39_word_dash_6 | glory-title-youth-elder-van-auto |  
+| bip_39_word_dash_7 | glory-title-youth-elder-van-auto-brown |  
+| bip_39_word_dash_8 | glory-title-youth-elder-van-auto-brown-wrap |  
+| bip_39_word_dash_9 | glory-title-youth-elder-van-auto-brown-wrap-dinner |  
 | bip_39_word_new_br_1 | glory |  
 | bip_39_word_new_br_10 | glory<br>title<br>youth<br>elder<br>van<br>auto<br>brown<br>wrap<br>dinner<br>eyebrow |  
 | bip_39_word_new_br_11 | glory<br>title<br>youth<br>elder<br>van<br>auto<br>brown<br>wrap<br>dinner<br>eyebrow<br>pig |  
@@ -147,6 +159,18 @@ dinner |
 | bip_39_word_space_7 | glory title youth elder van auto brown |  
 | bip_39_word_space_8 | glory title youth elder van auto brown wrap |  
 | bip_39_word_space_9 | glory title youth elder van auto brown wrap dinner |  
+| bip_39_word_underscore_1 | glory |  
+| bip_39_word_underscore_10 | glory_title_youth_elder_van_auto_brown_wrap_dinner_eyebrow |  
+| bip_39_word_underscore_11 | glory_title_youth_elder_van_auto_brown_wrap_dinner_eyebrow_pig |  
+| bip_39_word_underscore_12 | glory_title_youth_elder_van_auto_brown_wrap_dinner_eyebrow_pig_amount |  
+| bip_39_word_underscore_2 | glory_title |  
+| bip_39_word_underscore_3 | glory_title_youth |  
+| bip_39_word_underscore_4 | glory_title_youth_elder |  
+| bip_39_word_underscore_5 | glory_title_youth_elder_van |  
+| bip_39_word_underscore_6 | glory_title_youth_elder_van_auto |  
+| bip_39_word_underscore_7 | glory_title_youth_elder_van_auto_brown |  
+| bip_39_word_underscore_8 | glory_title_youth_elder_van_auto_brown_wrap |  
+| bip_39_word_underscore_9 | glory_title_youth_elder_van_auto_brown_wrap_dinner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

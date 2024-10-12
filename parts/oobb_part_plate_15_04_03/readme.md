@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | advice |  
+| bip_39_word_dash_10 | advice-tail-enforce-gospel-cost-noble-car-arrange-gossip-uncle |  
+| bip_39_word_dash_11 | advice-tail-enforce-gospel-cost-noble-car-arrange-gossip-uncle-dish |  
+| bip_39_word_dash_12 | advice-tail-enforce-gospel-cost-noble-car-arrange-gossip-uncle-dish-avocado |  
+| bip_39_word_dash_2 | advice-tail |  
+| bip_39_word_dash_3 | advice-tail-enforce |  
+| bip_39_word_dash_4 | advice-tail-enforce-gospel |  
+| bip_39_word_dash_5 | advice-tail-enforce-gospel-cost |  
+| bip_39_word_dash_6 | advice-tail-enforce-gospel-cost-noble |  
+| bip_39_word_dash_7 | advice-tail-enforce-gospel-cost-noble-car |  
+| bip_39_word_dash_8 | advice-tail-enforce-gospel-cost-noble-car-arrange |  
+| bip_39_word_dash_9 | advice-tail-enforce-gospel-cost-noble-car-arrange-gossip |  
 | bip_39_word_new_br_1 | advice |  
 | bip_39_word_new_br_10 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle |  
 | bip_39_word_new_br_11 | advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle<br>dish |  
@@ -147,6 +159,18 @@ gossip |
 | bip_39_word_space_7 | advice tail enforce gospel cost noble car |  
 | bip_39_word_space_8 | advice tail enforce gospel cost noble car arrange |  
 | bip_39_word_space_9 | advice tail enforce gospel cost noble car arrange gossip |  
+| bip_39_word_underscore_1 | advice |  
+| bip_39_word_underscore_10 | advice_tail_enforce_gospel_cost_noble_car_arrange_gossip_uncle |  
+| bip_39_word_underscore_11 | advice_tail_enforce_gospel_cost_noble_car_arrange_gossip_uncle_dish |  
+| bip_39_word_underscore_12 | advice_tail_enforce_gospel_cost_noble_car_arrange_gossip_uncle_dish_avocado |  
+| bip_39_word_underscore_2 | advice_tail |  
+| bip_39_word_underscore_3 | advice_tail_enforce |  
+| bip_39_word_underscore_4 | advice_tail_enforce_gospel |  
+| bip_39_word_underscore_5 | advice_tail_enforce_gospel_cost |  
+| bip_39_word_underscore_6 | advice_tail_enforce_gospel_cost_noble |  
+| bip_39_word_underscore_7 | advice_tail_enforce_gospel_cost_noble_car |  
+| bip_39_word_underscore_8 | advice_tail_enforce_gospel_cost_noble_car_arrange |  
+| bip_39_word_underscore_9 | advice_tail_enforce_gospel_cost_noble_car_arrange_gossip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

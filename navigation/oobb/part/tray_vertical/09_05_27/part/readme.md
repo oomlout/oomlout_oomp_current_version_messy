@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | adjust |  
+| bip_39_word_dash_10 | adjust-beach-trumpet-setup-sock-around-fiction-pyramid-erode-leisure |  
+| bip_39_word_dash_11 | adjust-beach-trumpet-setup-sock-around-fiction-pyramid-erode-leisure-inhale |  
+| bip_39_word_dash_12 | adjust-beach-trumpet-setup-sock-around-fiction-pyramid-erode-leisure-inhale-alien |  
+| bip_39_word_dash_2 | adjust-beach |  
+| bip_39_word_dash_3 | adjust-beach-trumpet |  
+| bip_39_word_dash_4 | adjust-beach-trumpet-setup |  
+| bip_39_word_dash_5 | adjust-beach-trumpet-setup-sock |  
+| bip_39_word_dash_6 | adjust-beach-trumpet-setup-sock-around |  
+| bip_39_word_dash_7 | adjust-beach-trumpet-setup-sock-around-fiction |  
+| bip_39_word_dash_8 | adjust-beach-trumpet-setup-sock-around-fiction-pyramid |  
+| bip_39_word_dash_9 | adjust-beach-trumpet-setup-sock-around-fiction-pyramid-erode |  
 | bip_39_word_new_br_1 | adjust |  
 | bip_39_word_new_br_10 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure |  
 | bip_39_word_new_br_11 | adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure<br>inhale |  
@@ -147,6 +159,18 @@ erode |
 | bip_39_word_space_7 | adjust beach trumpet setup sock around fiction |  
 | bip_39_word_space_8 | adjust beach trumpet setup sock around fiction pyramid |  
 | bip_39_word_space_9 | adjust beach trumpet setup sock around fiction pyramid erode |  
+| bip_39_word_underscore_1 | adjust |  
+| bip_39_word_underscore_10 | adjust_beach_trumpet_setup_sock_around_fiction_pyramid_erode_leisure |  
+| bip_39_word_underscore_11 | adjust_beach_trumpet_setup_sock_around_fiction_pyramid_erode_leisure_inhale |  
+| bip_39_word_underscore_12 | adjust_beach_trumpet_setup_sock_around_fiction_pyramid_erode_leisure_inhale_alien |  
+| bip_39_word_underscore_2 | adjust_beach |  
+| bip_39_word_underscore_3 | adjust_beach_trumpet |  
+| bip_39_word_underscore_4 | adjust_beach_trumpet_setup |  
+| bip_39_word_underscore_5 | adjust_beach_trumpet_setup_sock |  
+| bip_39_word_underscore_6 | adjust_beach_trumpet_setup_sock_around |  
+| bip_39_word_underscore_7 | adjust_beach_trumpet_setup_sock_around_fiction |  
+| bip_39_word_underscore_8 | adjust_beach_trumpet_setup_sock_around_fiction_pyramid |  
+| bip_39_word_underscore_9 | adjust_beach_trumpet_setup_sock_around_fiction_pyramid_erode |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

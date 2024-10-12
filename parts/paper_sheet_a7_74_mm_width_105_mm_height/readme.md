@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nuclear |  
+| bip_39_word_dash_10 | nuclear-slam-brick-coil-mistake-near-noise-feed-return-mandate |  
+| bip_39_word_dash_11 | nuclear-slam-brick-coil-mistake-near-noise-feed-return-mandate-negative |  
+| bip_39_word_dash_12 | nuclear-slam-brick-coil-mistake-near-noise-feed-return-mandate-negative-average |  
+| bip_39_word_dash_2 | nuclear-slam |  
+| bip_39_word_dash_3 | nuclear-slam-brick |  
+| bip_39_word_dash_4 | nuclear-slam-brick-coil |  
+| bip_39_word_dash_5 | nuclear-slam-brick-coil-mistake |  
+| bip_39_word_dash_6 | nuclear-slam-brick-coil-mistake-near |  
+| bip_39_word_dash_7 | nuclear-slam-brick-coil-mistake-near-noise |  
+| bip_39_word_dash_8 | nuclear-slam-brick-coil-mistake-near-noise-feed |  
+| bip_39_word_dash_9 | nuclear-slam-brick-coil-mistake-near-noise-feed-return |  
 | bip_39_word_new_br_1 | nuclear |  
 | bip_39_word_new_br_10 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed<br>return<br>mandate |  
 | bip_39_word_new_br_11 | nuclear<br>slam<br>brick<br>coil<br>mistake<br>near<br>noise<br>feed<br>return<br>mandate<br>negative |  
@@ -147,6 +159,18 @@ return |
 | bip_39_word_space_7 | nuclear slam brick coil mistake near noise |  
 | bip_39_word_space_8 | nuclear slam brick coil mistake near noise feed |  
 | bip_39_word_space_9 | nuclear slam brick coil mistake near noise feed return |  
+| bip_39_word_underscore_1 | nuclear |  
+| bip_39_word_underscore_10 | nuclear_slam_brick_coil_mistake_near_noise_feed_return_mandate |  
+| bip_39_word_underscore_11 | nuclear_slam_brick_coil_mistake_near_noise_feed_return_mandate_negative |  
+| bip_39_word_underscore_12 | nuclear_slam_brick_coil_mistake_near_noise_feed_return_mandate_negative_average |  
+| bip_39_word_underscore_2 | nuclear_slam |  
+| bip_39_word_underscore_3 | nuclear_slam_brick |  
+| bip_39_word_underscore_4 | nuclear_slam_brick_coil |  
+| bip_39_word_underscore_5 | nuclear_slam_brick_coil_mistake |  
+| bip_39_word_underscore_6 | nuclear_slam_brick_coil_mistake_near |  
+| bip_39_word_underscore_7 | nuclear_slam_brick_coil_mistake_near_noise |  
+| bip_39_word_underscore_8 | nuclear_slam_brick_coil_mistake_near_noise_feed |  
+| bip_39_word_underscore_9 | nuclear_slam_brick_coil_mistake_near_noise_feed_return |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

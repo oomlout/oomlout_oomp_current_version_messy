@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cube |  
+| bip_39_word_dash_10 | cube-agent-detail-already-wise-bamboo-wagon-nerve-tired-anchor |  
+| bip_39_word_dash_11 | cube-agent-detail-already-wise-bamboo-wagon-nerve-tired-anchor-project |  
+| bip_39_word_dash_12 | cube-agent-detail-already-wise-bamboo-wagon-nerve-tired-anchor-project-access |  
+| bip_39_word_dash_2 | cube-agent |  
+| bip_39_word_dash_3 | cube-agent-detail |  
+| bip_39_word_dash_4 | cube-agent-detail-already |  
+| bip_39_word_dash_5 | cube-agent-detail-already-wise |  
+| bip_39_word_dash_6 | cube-agent-detail-already-wise-bamboo |  
+| bip_39_word_dash_7 | cube-agent-detail-already-wise-bamboo-wagon |  
+| bip_39_word_dash_8 | cube-agent-detail-already-wise-bamboo-wagon-nerve |  
+| bip_39_word_dash_9 | cube-agent-detail-already-wise-bamboo-wagon-nerve-tired |  
 | bip_39_word_new_br_1 | cube |  
 | bip_39_word_new_br_10 | cube<br>agent<br>detail<br>already<br>wise<br>bamboo<br>wagon<br>nerve<br>tired<br>anchor |  
 | bip_39_word_new_br_11 | cube<br>agent<br>detail<br>already<br>wise<br>bamboo<br>wagon<br>nerve<br>tired<br>anchor<br>project |  
@@ -147,6 +159,18 @@ tired |
 | bip_39_word_space_7 | cube agent detail already wise bamboo wagon |  
 | bip_39_word_space_8 | cube agent detail already wise bamboo wagon nerve |  
 | bip_39_word_space_9 | cube agent detail already wise bamboo wagon nerve tired |  
+| bip_39_word_underscore_1 | cube |  
+| bip_39_word_underscore_10 | cube_agent_detail_already_wise_bamboo_wagon_nerve_tired_anchor |  
+| bip_39_word_underscore_11 | cube_agent_detail_already_wise_bamboo_wagon_nerve_tired_anchor_project |  
+| bip_39_word_underscore_12 | cube_agent_detail_already_wise_bamboo_wagon_nerve_tired_anchor_project_access |  
+| bip_39_word_underscore_2 | cube_agent |  
+| bip_39_word_underscore_3 | cube_agent_detail |  
+| bip_39_word_underscore_4 | cube_agent_detail_already |  
+| bip_39_word_underscore_5 | cube_agent_detail_already_wise |  
+| bip_39_word_underscore_6 | cube_agent_detail_already_wise_bamboo |  
+| bip_39_word_underscore_7 | cube_agent_detail_already_wise_bamboo_wagon |  
+| bip_39_word_underscore_8 | cube_agent_detail_already_wise_bamboo_wagon_nerve |  
+| bip_39_word_underscore_9 | cube_agent_detail_already_wise_bamboo_wagon_nerve_tired |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

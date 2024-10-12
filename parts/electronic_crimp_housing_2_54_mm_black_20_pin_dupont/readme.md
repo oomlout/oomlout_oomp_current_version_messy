@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | direct |  
+| bip_39_word_dash_10 | direct-grit-tuition-family-game-task-drill-coil-bunker-cinnamon |  
+| bip_39_word_dash_11 | direct-grit-tuition-family-game-task-drill-coil-bunker-cinnamon-average |  
+| bip_39_word_dash_12 | direct-grit-tuition-family-game-task-drill-coil-bunker-cinnamon-average-afraid |  
+| bip_39_word_dash_2 | direct-grit |  
+| bip_39_word_dash_3 | direct-grit-tuition |  
+| bip_39_word_dash_4 | direct-grit-tuition-family |  
+| bip_39_word_dash_5 | direct-grit-tuition-family-game |  
+| bip_39_word_dash_6 | direct-grit-tuition-family-game-task |  
+| bip_39_word_dash_7 | direct-grit-tuition-family-game-task-drill |  
+| bip_39_word_dash_8 | direct-grit-tuition-family-game-task-drill-coil |  
+| bip_39_word_dash_9 | direct-grit-tuition-family-game-task-drill-coil-bunker |  
 | bip_39_word_new_br_1 | direct |  
 | bip_39_word_new_br_10 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil<br>bunker<br>cinnamon |  
 | bip_39_word_new_br_11 | direct<br>grit<br>tuition<br>family<br>game<br>task<br>drill<br>coil<br>bunker<br>cinnamon<br>average |  
@@ -147,6 +159,18 @@ bunker |
 | bip_39_word_space_7 | direct grit tuition family game task drill |  
 | bip_39_word_space_8 | direct grit tuition family game task drill coil |  
 | bip_39_word_space_9 | direct grit tuition family game task drill coil bunker |  
+| bip_39_word_underscore_1 | direct |  
+| bip_39_word_underscore_10 | direct_grit_tuition_family_game_task_drill_coil_bunker_cinnamon |  
+| bip_39_word_underscore_11 | direct_grit_tuition_family_game_task_drill_coil_bunker_cinnamon_average |  
+| bip_39_word_underscore_12 | direct_grit_tuition_family_game_task_drill_coil_bunker_cinnamon_average_afraid |  
+| bip_39_word_underscore_2 | direct_grit |  
+| bip_39_word_underscore_3 | direct_grit_tuition |  
+| bip_39_word_underscore_4 | direct_grit_tuition_family |  
+| bip_39_word_underscore_5 | direct_grit_tuition_family_game |  
+| bip_39_word_underscore_6 | direct_grit_tuition_family_game_task |  
+| bip_39_word_underscore_7 | direct_grit_tuition_family_game_task_drill |  
+| bip_39_word_underscore_8 | direct_grit_tuition_family_game_task_drill_coil |  
+| bip_39_word_underscore_9 | direct_grit_tuition_family_game_task_drill_coil_bunker |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

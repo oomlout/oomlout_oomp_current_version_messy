@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | acid |  
+| bip_39_word_dash_10 | acid-blast-father-prevent-parade-bike-advice-rubber-toward-reject |  
+| bip_39_word_dash_11 | acid-blast-father-prevent-parade-bike-advice-rubber-toward-reject-agent |  
+| bip_39_word_dash_12 | acid-blast-father-prevent-parade-bike-advice-rubber-toward-reject-agent-apple |  
+| bip_39_word_dash_2 | acid-blast |  
+| bip_39_word_dash_3 | acid-blast-father |  
+| bip_39_word_dash_4 | acid-blast-father-prevent |  
+| bip_39_word_dash_5 | acid-blast-father-prevent-parade |  
+| bip_39_word_dash_6 | acid-blast-father-prevent-parade-bike |  
+| bip_39_word_dash_7 | acid-blast-father-prevent-parade-bike-advice |  
+| bip_39_word_dash_8 | acid-blast-father-prevent-parade-bike-advice-rubber |  
+| bip_39_word_dash_9 | acid-blast-father-prevent-parade-bike-advice-rubber-toward |  
 | bip_39_word_new_br_1 | acid |  
 | bip_39_word_new_br_10 | acid<br>blast<br>father<br>prevent<br>parade<br>bike<br>advice<br>rubber<br>toward<br>reject |  
 | bip_39_word_new_br_11 | acid<br>blast<br>father<br>prevent<br>parade<br>bike<br>advice<br>rubber<br>toward<br>reject<br>agent |  
@@ -147,6 +159,18 @@ toward |
 | bip_39_word_space_7 | acid blast father prevent parade bike advice |  
 | bip_39_word_space_8 | acid blast father prevent parade bike advice rubber |  
 | bip_39_word_space_9 | acid blast father prevent parade bike advice rubber toward |  
+| bip_39_word_underscore_1 | acid |  
+| bip_39_word_underscore_10 | acid_blast_father_prevent_parade_bike_advice_rubber_toward_reject |  
+| bip_39_word_underscore_11 | acid_blast_father_prevent_parade_bike_advice_rubber_toward_reject_agent |  
+| bip_39_word_underscore_12 | acid_blast_father_prevent_parade_bike_advice_rubber_toward_reject_agent_apple |  
+| bip_39_word_underscore_2 | acid_blast |  
+| bip_39_word_underscore_3 | acid_blast_father |  
+| bip_39_word_underscore_4 | acid_blast_father_prevent |  
+| bip_39_word_underscore_5 | acid_blast_father_prevent_parade |  
+| bip_39_word_underscore_6 | acid_blast_father_prevent_parade_bike |  
+| bip_39_word_underscore_7 | acid_blast_father_prevent_parade_bike_advice |  
+| bip_39_word_underscore_8 | acid_blast_father_prevent_parade_bike_advice_rubber |  
+| bip_39_word_underscore_9 | acid_blast_father_prevent_parade_bike_advice_rubber_toward |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

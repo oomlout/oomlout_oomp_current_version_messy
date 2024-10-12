@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | endorse |  
+| bip_39_word_dash_10 | endorse-budget-rifle-lunar-balcony-fiction-sauce-foil-world-auto |  
+| bip_39_word_dash_11 | endorse-budget-rifle-lunar-balcony-fiction-sauce-foil-world-auto-horse |  
+| bip_39_word_dash_12 | endorse-budget-rifle-lunar-balcony-fiction-sauce-foil-world-auto-horse-august |  
+| bip_39_word_dash_2 | endorse-budget |  
+| bip_39_word_dash_3 | endorse-budget-rifle |  
+| bip_39_word_dash_4 | endorse-budget-rifle-lunar |  
+| bip_39_word_dash_5 | endorse-budget-rifle-lunar-balcony |  
+| bip_39_word_dash_6 | endorse-budget-rifle-lunar-balcony-fiction |  
+| bip_39_word_dash_7 | endorse-budget-rifle-lunar-balcony-fiction-sauce |  
+| bip_39_word_dash_8 | endorse-budget-rifle-lunar-balcony-fiction-sauce-foil |  
+| bip_39_word_dash_9 | endorse-budget-rifle-lunar-balcony-fiction-sauce-foil-world |  
 | bip_39_word_new_br_1 | endorse |  
 | bip_39_word_new_br_10 | endorse<br>budget<br>rifle<br>lunar<br>balcony<br>fiction<br>sauce<br>foil<br>world<br>auto |  
 | bip_39_word_new_br_11 | endorse<br>budget<br>rifle<br>lunar<br>balcony<br>fiction<br>sauce<br>foil<br>world<br>auto<br>horse |  
@@ -147,6 +159,18 @@ world |
 | bip_39_word_space_7 | endorse budget rifle lunar balcony fiction sauce |  
 | bip_39_word_space_8 | endorse budget rifle lunar balcony fiction sauce foil |  
 | bip_39_word_space_9 | endorse budget rifle lunar balcony fiction sauce foil world |  
+| bip_39_word_underscore_1 | endorse |  
+| bip_39_word_underscore_10 | endorse_budget_rifle_lunar_balcony_fiction_sauce_foil_world_auto |  
+| bip_39_word_underscore_11 | endorse_budget_rifle_lunar_balcony_fiction_sauce_foil_world_auto_horse |  
+| bip_39_word_underscore_12 | endorse_budget_rifle_lunar_balcony_fiction_sauce_foil_world_auto_horse_august |  
+| bip_39_word_underscore_2 | endorse_budget |  
+| bip_39_word_underscore_3 | endorse_budget_rifle |  
+| bip_39_word_underscore_4 | endorse_budget_rifle_lunar |  
+| bip_39_word_underscore_5 | endorse_budget_rifle_lunar_balcony |  
+| bip_39_word_underscore_6 | endorse_budget_rifle_lunar_balcony_fiction |  
+| bip_39_word_underscore_7 | endorse_budget_rifle_lunar_balcony_fiction_sauce |  
+| bip_39_word_underscore_8 | endorse_budget_rifle_lunar_balcony_fiction_sauce_foil |  
+| bip_39_word_underscore_9 | endorse_budget_rifle_lunar_balcony_fiction_sauce_foil_world |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

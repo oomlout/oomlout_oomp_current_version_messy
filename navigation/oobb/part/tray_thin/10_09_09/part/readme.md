@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tent |  
+| bip_39_word_dash_10 | tent-sleep-dice-predict-honey-muffin-again-castle-follow-day |  
+| bip_39_word_dash_11 | tent-sleep-dice-predict-honey-muffin-again-castle-follow-day-slam |  
+| bip_39_word_dash_12 | tent-sleep-dice-predict-honey-muffin-again-castle-follow-day-slam-attract |  
+| bip_39_word_dash_2 | tent-sleep |  
+| bip_39_word_dash_3 | tent-sleep-dice |  
+| bip_39_word_dash_4 | tent-sleep-dice-predict |  
+| bip_39_word_dash_5 | tent-sleep-dice-predict-honey |  
+| bip_39_word_dash_6 | tent-sleep-dice-predict-honey-muffin |  
+| bip_39_word_dash_7 | tent-sleep-dice-predict-honey-muffin-again |  
+| bip_39_word_dash_8 | tent-sleep-dice-predict-honey-muffin-again-castle |  
+| bip_39_word_dash_9 | tent-sleep-dice-predict-honey-muffin-again-castle-follow |  
 | bip_39_word_new_br_1 | tent |  
 | bip_39_word_new_br_10 | tent<br>sleep<br>dice<br>predict<br>honey<br>muffin<br>again<br>castle<br>follow<br>day |  
 | bip_39_word_new_br_11 | tent<br>sleep<br>dice<br>predict<br>honey<br>muffin<br>again<br>castle<br>follow<br>day<br>slam |  
@@ -147,6 +159,18 @@ follow |
 | bip_39_word_space_7 | tent sleep dice predict honey muffin again |  
 | bip_39_word_space_8 | tent sleep dice predict honey muffin again castle |  
 | bip_39_word_space_9 | tent sleep dice predict honey muffin again castle follow |  
+| bip_39_word_underscore_1 | tent |  
+| bip_39_word_underscore_10 | tent_sleep_dice_predict_honey_muffin_again_castle_follow_day |  
+| bip_39_word_underscore_11 | tent_sleep_dice_predict_honey_muffin_again_castle_follow_day_slam |  
+| bip_39_word_underscore_12 | tent_sleep_dice_predict_honey_muffin_again_castle_follow_day_slam_attract |  
+| bip_39_word_underscore_2 | tent_sleep |  
+| bip_39_word_underscore_3 | tent_sleep_dice |  
+| bip_39_word_underscore_4 | tent_sleep_dice_predict |  
+| bip_39_word_underscore_5 | tent_sleep_dice_predict_honey |  
+| bip_39_word_underscore_6 | tent_sleep_dice_predict_honey_muffin |  
+| bip_39_word_underscore_7 | tent_sleep_dice_predict_honey_muffin_again |  
+| bip_39_word_underscore_8 | tent_sleep_dice_predict_honey_muffin_again_castle |  
+| bip_39_word_underscore_9 | tent_sleep_dice_predict_honey_muffin_again_castle_follow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

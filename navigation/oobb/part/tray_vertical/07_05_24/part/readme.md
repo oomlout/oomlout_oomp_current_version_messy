@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | absorb |  
+| bip_39_word_dash_10 | absorb-original-soda-glide-labor-annual-dish-funny-crazy-second |  
+| bip_39_word_dash_11 | absorb-original-soda-glide-labor-annual-dish-funny-crazy-second-top |  
+| bip_39_word_dash_12 | absorb-original-soda-glide-labor-annual-dish-funny-crazy-second-top-absurd |  
+| bip_39_word_dash_2 | absorb-original |  
+| bip_39_word_dash_3 | absorb-original-soda |  
+| bip_39_word_dash_4 | absorb-original-soda-glide |  
+| bip_39_word_dash_5 | absorb-original-soda-glide-labor |  
+| bip_39_word_dash_6 | absorb-original-soda-glide-labor-annual |  
+| bip_39_word_dash_7 | absorb-original-soda-glide-labor-annual-dish |  
+| bip_39_word_dash_8 | absorb-original-soda-glide-labor-annual-dish-funny |  
+| bip_39_word_dash_9 | absorb-original-soda-glide-labor-annual-dish-funny-crazy |  
 | bip_39_word_new_br_1 | absorb |  
 | bip_39_word_new_br_10 | absorb<br>original<br>soda<br>glide<br>labor<br>annual<br>dish<br>funny<br>crazy<br>second |  
 | bip_39_word_new_br_11 | absorb<br>original<br>soda<br>glide<br>labor<br>annual<br>dish<br>funny<br>crazy<br>second<br>top |  
@@ -147,6 +159,18 @@ crazy |
 | bip_39_word_space_7 | absorb original soda glide labor annual dish |  
 | bip_39_word_space_8 | absorb original soda glide labor annual dish funny |  
 | bip_39_word_space_9 | absorb original soda glide labor annual dish funny crazy |  
+| bip_39_word_underscore_1 | absorb |  
+| bip_39_word_underscore_10 | absorb_original_soda_glide_labor_annual_dish_funny_crazy_second |  
+| bip_39_word_underscore_11 | absorb_original_soda_glide_labor_annual_dish_funny_crazy_second_top |  
+| bip_39_word_underscore_12 | absorb_original_soda_glide_labor_annual_dish_funny_crazy_second_top_absurd |  
+| bip_39_word_underscore_2 | absorb_original |  
+| bip_39_word_underscore_3 | absorb_original_soda |  
+| bip_39_word_underscore_4 | absorb_original_soda_glide |  
+| bip_39_word_underscore_5 | absorb_original_soda_glide_labor |  
+| bip_39_word_underscore_6 | absorb_original_soda_glide_labor_annual |  
+| bip_39_word_underscore_7 | absorb_original_soda_glide_labor_annual_dish |  
+| bip_39_word_underscore_8 | absorb_original_soda_glide_labor_annual_dish_funny |  
+| bip_39_word_underscore_9 | absorb_original_soda_glide_labor_annual_dish_funny_crazy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

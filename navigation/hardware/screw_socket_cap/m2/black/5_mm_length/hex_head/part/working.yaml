@@ -1,3 +1,15 @@
+bip_39_word_dash_1: giggle
+bip_39_word_dash_10: giggle-truck-potato-scrap-satisfy-property-victory-decade-retire-silk
+bip_39_word_dash_11: giggle-truck-potato-scrap-satisfy-property-victory-decade-retire-silk-fault
+bip_39_word_dash_12: giggle-truck-potato-scrap-satisfy-property-victory-decade-retire-silk-fault-aim
+bip_39_word_dash_2: giggle-truck
+bip_39_word_dash_3: giggle-truck-potato
+bip_39_word_dash_4: giggle-truck-potato-scrap
+bip_39_word_dash_5: giggle-truck-potato-scrap-satisfy
+bip_39_word_dash_6: giggle-truck-potato-scrap-satisfy-property
+bip_39_word_dash_7: giggle-truck-potato-scrap-satisfy-property-victory
+bip_39_word_dash_8: giggle-truck-potato-scrap-satisfy-property-victory-decade
+bip_39_word_dash_9: giggle-truck-potato-scrap-satisfy-property-victory-decade-retire
 bip_39_word_new_br_1: giggle
 bip_39_word_new_br_10: giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk
 bip_39_word_new_br_11: giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk<br>fault
@@ -194,6 +206,18 @@ bip_39_word_space_6: giggle truck potato scrap satisfy property
 bip_39_word_space_7: giggle truck potato scrap satisfy property victory
 bip_39_word_space_8: giggle truck potato scrap satisfy property victory decade
 bip_39_word_space_9: giggle truck potato scrap satisfy property victory decade retire
+bip_39_word_underscore_1: giggle
+bip_39_word_underscore_10: giggle_truck_potato_scrap_satisfy_property_victory_decade_retire_silk
+bip_39_word_underscore_11: giggle_truck_potato_scrap_satisfy_property_victory_decade_retire_silk_fault
+bip_39_word_underscore_12: giggle_truck_potato_scrap_satisfy_property_victory_decade_retire_silk_fault_aim
+bip_39_word_underscore_2: giggle_truck
+bip_39_word_underscore_3: giggle_truck_potato
+bip_39_word_underscore_4: giggle_truck_potato_scrap
+bip_39_word_underscore_5: giggle_truck_potato_scrap_satisfy
+bip_39_word_underscore_6: giggle_truck_potato_scrap_satisfy_property
+bip_39_word_underscore_7: giggle_truck_potato_scrap_satisfy_property_victory
+bip_39_word_underscore_8: giggle_truck_potato_scrap_satisfy_property_victory_decade
+bip_39_word_underscore_9: giggle_truck_potato_scrap_satisfy_property_victory_decade_retire
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

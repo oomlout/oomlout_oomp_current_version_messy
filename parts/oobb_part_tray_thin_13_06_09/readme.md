@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | profit |  
+| bip_39_word_dash_10 | profit-palm-hunt-verify-unusual-vintage-rich-capable-thunder-record |  
+| bip_39_word_dash_11 | profit-palm-hunt-verify-unusual-vintage-rich-capable-thunder-record-warm |  
+| bip_39_word_dash_12 | profit-palm-hunt-verify-unusual-vintage-rich-capable-thunder-record-warm-album |  
+| bip_39_word_dash_2 | profit-palm |  
+| bip_39_word_dash_3 | profit-palm-hunt |  
+| bip_39_word_dash_4 | profit-palm-hunt-verify |  
+| bip_39_word_dash_5 | profit-palm-hunt-verify-unusual |  
+| bip_39_word_dash_6 | profit-palm-hunt-verify-unusual-vintage |  
+| bip_39_word_dash_7 | profit-palm-hunt-verify-unusual-vintage-rich |  
+| bip_39_word_dash_8 | profit-palm-hunt-verify-unusual-vintage-rich-capable |  
+| bip_39_word_dash_9 | profit-palm-hunt-verify-unusual-vintage-rich-capable-thunder |  
 | bip_39_word_new_br_1 | profit |  
 | bip_39_word_new_br_10 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record |  
 | bip_39_word_new_br_11 | profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record<br>warm |  
@@ -147,6 +159,18 @@ thunder |
 | bip_39_word_space_7 | profit palm hunt verify unusual vintage rich |  
 | bip_39_word_space_8 | profit palm hunt verify unusual vintage rich capable |  
 | bip_39_word_space_9 | profit palm hunt verify unusual vintage rich capable thunder |  
+| bip_39_word_underscore_1 | profit |  
+| bip_39_word_underscore_10 | profit_palm_hunt_verify_unusual_vintage_rich_capable_thunder_record |  
+| bip_39_word_underscore_11 | profit_palm_hunt_verify_unusual_vintage_rich_capable_thunder_record_warm |  
+| bip_39_word_underscore_12 | profit_palm_hunt_verify_unusual_vintage_rich_capable_thunder_record_warm_album |  
+| bip_39_word_underscore_2 | profit_palm |  
+| bip_39_word_underscore_3 | profit_palm_hunt |  
+| bip_39_word_underscore_4 | profit_palm_hunt_verify |  
+| bip_39_word_underscore_5 | profit_palm_hunt_verify_unusual |  
+| bip_39_word_underscore_6 | profit_palm_hunt_verify_unusual_vintage |  
+| bip_39_word_underscore_7 | profit_palm_hunt_verify_unusual_vintage_rich |  
+| bip_39_word_underscore_8 | profit_palm_hunt_verify_unusual_vintage_rich_capable |  
+| bip_39_word_underscore_9 | profit_palm_hunt_verify_unusual_vintage_rich_capable_thunder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

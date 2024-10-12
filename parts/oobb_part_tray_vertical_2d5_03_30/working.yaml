@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trash
+bip_39_word_dash_10: trash-style-mandate-coconut-opinion-almost-daughter-spoon-hint-unfold
+bip_39_word_dash_11: trash-style-mandate-coconut-opinion-almost-daughter-spoon-hint-unfold-private
+bip_39_word_dash_12: trash-style-mandate-coconut-opinion-almost-daughter-spoon-hint-unfold-private-alone
+bip_39_word_dash_2: trash-style
+bip_39_word_dash_3: trash-style-mandate
+bip_39_word_dash_4: trash-style-mandate-coconut
+bip_39_word_dash_5: trash-style-mandate-coconut-opinion
+bip_39_word_dash_6: trash-style-mandate-coconut-opinion-almost
+bip_39_word_dash_7: trash-style-mandate-coconut-opinion-almost-daughter
+bip_39_word_dash_8: trash-style-mandate-coconut-opinion-almost-daughter-spoon
+bip_39_word_dash_9: trash-style-mandate-coconut-opinion-almost-daughter-spoon-hint
 bip_39_word_new_br_1: trash
 bip_39_word_new_br_10: trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon<br>hint<br>unfold
 bip_39_word_new_br_11: trash<br>style<br>mandate<br>coconut<br>opinion<br>almost<br>daughter<br>spoon<br>hint<br>unfold<br>private
@@ -194,6 +206,18 @@ bip_39_word_space_6: trash style mandate coconut opinion almost
 bip_39_word_space_7: trash style mandate coconut opinion almost daughter
 bip_39_word_space_8: trash style mandate coconut opinion almost daughter spoon
 bip_39_word_space_9: trash style mandate coconut opinion almost daughter spoon hint
+bip_39_word_underscore_1: trash
+bip_39_word_underscore_10: trash_style_mandate_coconut_opinion_almost_daughter_spoon_hint_unfold
+bip_39_word_underscore_11: trash_style_mandate_coconut_opinion_almost_daughter_spoon_hint_unfold_private
+bip_39_word_underscore_12: trash_style_mandate_coconut_opinion_almost_daughter_spoon_hint_unfold_private_alone
+bip_39_word_underscore_2: trash_style
+bip_39_word_underscore_3: trash_style_mandate
+bip_39_word_underscore_4: trash_style_mandate_coconut
+bip_39_word_underscore_5: trash_style_mandate_coconut_opinion
+bip_39_word_underscore_6: trash_style_mandate_coconut_opinion_almost
+bip_39_word_underscore_7: trash_style_mandate_coconut_opinion_almost_daughter
+bip_39_word_underscore_8: trash_style_mandate_coconut_opinion_almost_daughter_spoon
+bip_39_word_underscore_9: trash_style_mandate_coconut_opinion_almost_daughter_spoon_hint
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

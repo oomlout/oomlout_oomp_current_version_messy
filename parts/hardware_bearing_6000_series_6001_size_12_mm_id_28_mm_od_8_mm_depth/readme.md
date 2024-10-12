@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | poet |  
+| bip_39_word_dash_10 | poet-orange-jungle-nation-sword-unhappy-merry-style-raw-remain |  
+| bip_39_word_dash_11 | poet-orange-jungle-nation-sword-unhappy-merry-style-raw-remain-various |  
+| bip_39_word_dash_12 | poet-orange-jungle-nation-sword-unhappy-merry-style-raw-remain-various-attack |  
+| bip_39_word_dash_2 | poet-orange |  
+| bip_39_word_dash_3 | poet-orange-jungle |  
+| bip_39_word_dash_4 | poet-orange-jungle-nation |  
+| bip_39_word_dash_5 | poet-orange-jungle-nation-sword |  
+| bip_39_word_dash_6 | poet-orange-jungle-nation-sword-unhappy |  
+| bip_39_word_dash_7 | poet-orange-jungle-nation-sword-unhappy-merry |  
+| bip_39_word_dash_8 | poet-orange-jungle-nation-sword-unhappy-merry-style |  
+| bip_39_word_dash_9 | poet-orange-jungle-nation-sword-unhappy-merry-style-raw |  
 | bip_39_word_new_br_1 | poet |  
 | bip_39_word_new_br_10 | poet<br>orange<br>jungle<br>nation<br>sword<br>unhappy<br>merry<br>style<br>raw<br>remain |  
 | bip_39_word_new_br_11 | poet<br>orange<br>jungle<br>nation<br>sword<br>unhappy<br>merry<br>style<br>raw<br>remain<br>various |  
@@ -147,6 +159,18 @@ raw |
 | bip_39_word_space_7 | poet orange jungle nation sword unhappy merry |  
 | bip_39_word_space_8 | poet orange jungle nation sword unhappy merry style |  
 | bip_39_word_space_9 | poet orange jungle nation sword unhappy merry style raw |  
+| bip_39_word_underscore_1 | poet |  
+| bip_39_word_underscore_10 | poet_orange_jungle_nation_sword_unhappy_merry_style_raw_remain |  
+| bip_39_word_underscore_11 | poet_orange_jungle_nation_sword_unhappy_merry_style_raw_remain_various |  
+| bip_39_word_underscore_12 | poet_orange_jungle_nation_sword_unhappy_merry_style_raw_remain_various_attack |  
+| bip_39_word_underscore_2 | poet_orange |  
+| bip_39_word_underscore_3 | poet_orange_jungle |  
+| bip_39_word_underscore_4 | poet_orange_jungle_nation |  
+| bip_39_word_underscore_5 | poet_orange_jungle_nation_sword |  
+| bip_39_word_underscore_6 | poet_orange_jungle_nation_sword_unhappy |  
+| bip_39_word_underscore_7 | poet_orange_jungle_nation_sword_unhappy_merry |  
+| bip_39_word_underscore_8 | poet_orange_jungle_nation_sword_unhappy_merry_style |  
+| bip_39_word_underscore_9 | poet_orange_jungle_nation_sword_unhappy_merry_style_raw |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

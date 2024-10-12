@@ -1,3 +1,15 @@
+bip_39_word_dash_1: claim
+bip_39_word_dash_10: claim-motor-bike-anger-much-fiber-grocery-turn-carbon-zone
+bip_39_word_dash_11: claim-motor-bike-anger-much-fiber-grocery-turn-carbon-zone-business
+bip_39_word_dash_12: claim-motor-bike-anger-much-fiber-grocery-turn-carbon-zone-business-argue
+bip_39_word_dash_2: claim-motor
+bip_39_word_dash_3: claim-motor-bike
+bip_39_word_dash_4: claim-motor-bike-anger
+bip_39_word_dash_5: claim-motor-bike-anger-much
+bip_39_word_dash_6: claim-motor-bike-anger-much-fiber
+bip_39_word_dash_7: claim-motor-bike-anger-much-fiber-grocery
+bip_39_word_dash_8: claim-motor-bike-anger-much-fiber-grocery-turn
+bip_39_word_dash_9: claim-motor-bike-anger-much-fiber-grocery-turn-carbon
 bip_39_word_new_br_1: claim
 bip_39_word_new_br_10: claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone
 bip_39_word_new_br_11: claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone<br>business
@@ -192,6 +204,18 @@ bip_39_word_space_6: claim motor bike anger much fiber
 bip_39_word_space_7: claim motor bike anger much fiber grocery
 bip_39_word_space_8: claim motor bike anger much fiber grocery turn
 bip_39_word_space_9: claim motor bike anger much fiber grocery turn carbon
+bip_39_word_underscore_1: claim
+bip_39_word_underscore_10: claim_motor_bike_anger_much_fiber_grocery_turn_carbon_zone
+bip_39_word_underscore_11: claim_motor_bike_anger_much_fiber_grocery_turn_carbon_zone_business
+bip_39_word_underscore_12: claim_motor_bike_anger_much_fiber_grocery_turn_carbon_zone_business_argue
+bip_39_word_underscore_2: claim_motor
+bip_39_word_underscore_3: claim_motor_bike
+bip_39_word_underscore_4: claim_motor_bike_anger
+bip_39_word_underscore_5: claim_motor_bike_anger_much
+bip_39_word_underscore_6: claim_motor_bike_anger_much_fiber
+bip_39_word_underscore_7: claim_motor_bike_anger_much_fiber_grocery
+bip_39_word_underscore_8: claim_motor_bike_anger_much_fiber_grocery_turn
+bip_39_word_underscore_9: claim_motor_bike_anger_much_fiber_grocery_turn_carbon
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

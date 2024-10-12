@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scrub |  
+| bip_39_word_dash_10 | scrub-cube-height-grace-picnic-nothing-mystery-tiger-plate-eagle |  
+| bip_39_word_dash_11 | scrub-cube-height-grace-picnic-nothing-mystery-tiger-plate-eagle-senior |  
+| bip_39_word_dash_12 | scrub-cube-height-grace-picnic-nothing-mystery-tiger-plate-eagle-senior-act |  
+| bip_39_word_dash_2 | scrub-cube |  
+| bip_39_word_dash_3 | scrub-cube-height |  
+| bip_39_word_dash_4 | scrub-cube-height-grace |  
+| bip_39_word_dash_5 | scrub-cube-height-grace-picnic |  
+| bip_39_word_dash_6 | scrub-cube-height-grace-picnic-nothing |  
+| bip_39_word_dash_7 | scrub-cube-height-grace-picnic-nothing-mystery |  
+| bip_39_word_dash_8 | scrub-cube-height-grace-picnic-nothing-mystery-tiger |  
+| bip_39_word_dash_9 | scrub-cube-height-grace-picnic-nothing-mystery-tiger-plate |  
 | bip_39_word_new_br_1 | scrub |  
 | bip_39_word_new_br_10 | scrub<br>cube<br>height<br>grace<br>picnic<br>nothing<br>mystery<br>tiger<br>plate<br>eagle |  
 | bip_39_word_new_br_11 | scrub<br>cube<br>height<br>grace<br>picnic<br>nothing<br>mystery<br>tiger<br>plate<br>eagle<br>senior |  
@@ -147,6 +159,18 @@ plate |
 | bip_39_word_space_7 | scrub cube height grace picnic nothing mystery |  
 | bip_39_word_space_8 | scrub cube height grace picnic nothing mystery tiger |  
 | bip_39_word_space_9 | scrub cube height grace picnic nothing mystery tiger plate |  
+| bip_39_word_underscore_1 | scrub |  
+| bip_39_word_underscore_10 | scrub_cube_height_grace_picnic_nothing_mystery_tiger_plate_eagle |  
+| bip_39_word_underscore_11 | scrub_cube_height_grace_picnic_nothing_mystery_tiger_plate_eagle_senior |  
+| bip_39_word_underscore_12 | scrub_cube_height_grace_picnic_nothing_mystery_tiger_plate_eagle_senior_act |  
+| bip_39_word_underscore_2 | scrub_cube |  
+| bip_39_word_underscore_3 | scrub_cube_height |  
+| bip_39_word_underscore_4 | scrub_cube_height_grace |  
+| bip_39_word_underscore_5 | scrub_cube_height_grace_picnic |  
+| bip_39_word_underscore_6 | scrub_cube_height_grace_picnic_nothing |  
+| bip_39_word_underscore_7 | scrub_cube_height_grace_picnic_nothing_mystery |  
+| bip_39_word_underscore_8 | scrub_cube_height_grace_picnic_nothing_mystery_tiger |  
+| bip_39_word_underscore_9 | scrub_cube_height_grace_picnic_nothing_mystery_tiger_plate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

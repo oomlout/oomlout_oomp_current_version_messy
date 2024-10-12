@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wall |  
+| bip_39_word_dash_10 | wall-sphere-thing-casual-leader-soda-empower-lawn-salute-auto |  
+| bip_39_word_dash_11 | wall-sphere-thing-casual-leader-soda-empower-lawn-salute-auto-tornado |  
+| bip_39_word_dash_12 | wall-sphere-thing-casual-leader-soda-empower-lawn-salute-auto-tornado-arch |  
+| bip_39_word_dash_2 | wall-sphere |  
+| bip_39_word_dash_3 | wall-sphere-thing |  
+| bip_39_word_dash_4 | wall-sphere-thing-casual |  
+| bip_39_word_dash_5 | wall-sphere-thing-casual-leader |  
+| bip_39_word_dash_6 | wall-sphere-thing-casual-leader-soda |  
+| bip_39_word_dash_7 | wall-sphere-thing-casual-leader-soda-empower |  
+| bip_39_word_dash_8 | wall-sphere-thing-casual-leader-soda-empower-lawn |  
+| bip_39_word_dash_9 | wall-sphere-thing-casual-leader-soda-empower-lawn-salute |  
 | bip_39_word_new_br_1 | wall |  
 | bip_39_word_new_br_10 | wall<br>sphere<br>thing<br>casual<br>leader<br>soda<br>empower<br>lawn<br>salute<br>auto |  
 | bip_39_word_new_br_11 | wall<br>sphere<br>thing<br>casual<br>leader<br>soda<br>empower<br>lawn<br>salute<br>auto<br>tornado |  
@@ -147,6 +159,18 @@ salute |
 | bip_39_word_space_7 | wall sphere thing casual leader soda empower |  
 | bip_39_word_space_8 | wall sphere thing casual leader soda empower lawn |  
 | bip_39_word_space_9 | wall sphere thing casual leader soda empower lawn salute |  
+| bip_39_word_underscore_1 | wall |  
+| bip_39_word_underscore_10 | wall_sphere_thing_casual_leader_soda_empower_lawn_salute_auto |  
+| bip_39_word_underscore_11 | wall_sphere_thing_casual_leader_soda_empower_lawn_salute_auto_tornado |  
+| bip_39_word_underscore_12 | wall_sphere_thing_casual_leader_soda_empower_lawn_salute_auto_tornado_arch |  
+| bip_39_word_underscore_2 | wall_sphere |  
+| bip_39_word_underscore_3 | wall_sphere_thing |  
+| bip_39_word_underscore_4 | wall_sphere_thing_casual |  
+| bip_39_word_underscore_5 | wall_sphere_thing_casual_leader |  
+| bip_39_word_underscore_6 | wall_sphere_thing_casual_leader_soda |  
+| bip_39_word_underscore_7 | wall_sphere_thing_casual_leader_soda_empower |  
+| bip_39_word_underscore_8 | wall_sphere_thing_casual_leader_soda_empower_lawn |  
+| bip_39_word_underscore_9 | wall_sphere_thing_casual_leader_soda_empower_lawn_salute |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: reflect
+bip_39_word_dash_10: reflect-kind-pulp-arena-bronze-kitchen-initial-hard-inspire-hotel
+bip_39_word_dash_11: reflect-kind-pulp-arena-bronze-kitchen-initial-hard-inspire-hotel-attack
+bip_39_word_dash_12: reflect-kind-pulp-arena-bronze-kitchen-initial-hard-inspire-hotel-attack-advice
+bip_39_word_dash_2: reflect-kind
+bip_39_word_dash_3: reflect-kind-pulp
+bip_39_word_dash_4: reflect-kind-pulp-arena
+bip_39_word_dash_5: reflect-kind-pulp-arena-bronze
+bip_39_word_dash_6: reflect-kind-pulp-arena-bronze-kitchen
+bip_39_word_dash_7: reflect-kind-pulp-arena-bronze-kitchen-initial
+bip_39_word_dash_8: reflect-kind-pulp-arena-bronze-kitchen-initial-hard
+bip_39_word_dash_9: reflect-kind-pulp-arena-bronze-kitchen-initial-hard-inspire
 bip_39_word_new_br_1: reflect
 bip_39_word_new_br_10: reflect<br>kind<br>pulp<br>arena<br>bronze<br>kitchen<br>initial<br>hard<br>inspire<br>hotel
 bip_39_word_new_br_11: reflect<br>kind<br>pulp<br>arena<br>bronze<br>kitchen<br>initial<br>hard<br>inspire<br>hotel<br>attack
@@ -194,6 +206,18 @@ bip_39_word_space_6: reflect kind pulp arena bronze kitchen
 bip_39_word_space_7: reflect kind pulp arena bronze kitchen initial
 bip_39_word_space_8: reflect kind pulp arena bronze kitchen initial hard
 bip_39_word_space_9: reflect kind pulp arena bronze kitchen initial hard inspire
+bip_39_word_underscore_1: reflect
+bip_39_word_underscore_10: reflect_kind_pulp_arena_bronze_kitchen_initial_hard_inspire_hotel
+bip_39_word_underscore_11: reflect_kind_pulp_arena_bronze_kitchen_initial_hard_inspire_hotel_attack
+bip_39_word_underscore_12: reflect_kind_pulp_arena_bronze_kitchen_initial_hard_inspire_hotel_attack_advice
+bip_39_word_underscore_2: reflect_kind
+bip_39_word_underscore_3: reflect_kind_pulp
+bip_39_word_underscore_4: reflect_kind_pulp_arena
+bip_39_word_underscore_5: reflect_kind_pulp_arena_bronze
+bip_39_word_underscore_6: reflect_kind_pulp_arena_bronze_kitchen
+bip_39_word_underscore_7: reflect_kind_pulp_arena_bronze_kitchen_initial
+bip_39_word_underscore_8: reflect_kind_pulp_arena_bronze_kitchen_initial_hard
+bip_39_word_underscore_9: reflect_kind_pulp_arena_bronze_kitchen_initial_hard_inspire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

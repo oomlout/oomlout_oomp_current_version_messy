@@ -1,3 +1,15 @@
+bip_39_word_dash_1: merge
+bip_39_word_dash_10: merge-response-shallow-camp-inquiry-release-science-abstract-enforce-kid
+bip_39_word_dash_11: merge-response-shallow-camp-inquiry-release-science-abstract-enforce-kid-soldier
+bip_39_word_dash_12: merge-response-shallow-camp-inquiry-release-science-abstract-enforce-kid-soldier-aerobic
+bip_39_word_dash_2: merge-response
+bip_39_word_dash_3: merge-response-shallow
+bip_39_word_dash_4: merge-response-shallow-camp
+bip_39_word_dash_5: merge-response-shallow-camp-inquiry
+bip_39_word_dash_6: merge-response-shallow-camp-inquiry-release
+bip_39_word_dash_7: merge-response-shallow-camp-inquiry-release-science
+bip_39_word_dash_8: merge-response-shallow-camp-inquiry-release-science-abstract
+bip_39_word_dash_9: merge-response-shallow-camp-inquiry-release-science-abstract-enforce
 bip_39_word_new_br_1: merge
 bip_39_word_new_br_10: merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract<br>enforce<br>kid
 bip_39_word_new_br_11: merge<br>response<br>shallow<br>camp<br>inquiry<br>release<br>science<br>abstract<br>enforce<br>kid<br>soldier
@@ -195,6 +207,18 @@ bip_39_word_space_7: merge response shallow camp inquiry release science
 bip_39_word_space_8: merge response shallow camp inquiry release science abstract
 bip_39_word_space_9: merge response shallow camp inquiry release science abstract
   enforce
+bip_39_word_underscore_1: merge
+bip_39_word_underscore_10: merge_response_shallow_camp_inquiry_release_science_abstract_enforce_kid
+bip_39_word_underscore_11: merge_response_shallow_camp_inquiry_release_science_abstract_enforce_kid_soldier
+bip_39_word_underscore_12: merge_response_shallow_camp_inquiry_release_science_abstract_enforce_kid_soldier_aerobic
+bip_39_word_underscore_2: merge_response
+bip_39_word_underscore_3: merge_response_shallow
+bip_39_word_underscore_4: merge_response_shallow_camp
+bip_39_word_underscore_5: merge_response_shallow_camp_inquiry
+bip_39_word_underscore_6: merge_response_shallow_camp_inquiry_release
+bip_39_word_underscore_7: merge_response_shallow_camp_inquiry_release_science
+bip_39_word_underscore_8: merge_response_shallow_camp_inquiry_release_science_abstract
+bip_39_word_underscore_9: merge_response_shallow_camp_inquiry_release_science_abstract_enforce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hen
+bip_39_word_dash_10: hen-cash-local-save-pass-agent-worth-arm-erosion-cause
+bip_39_word_dash_11: hen-cash-local-save-pass-agent-worth-arm-erosion-cause-sail
+bip_39_word_dash_12: hen-cash-local-save-pass-agent-worth-arm-erosion-cause-sail-arrange
+bip_39_word_dash_2: hen-cash
+bip_39_word_dash_3: hen-cash-local
+bip_39_word_dash_4: hen-cash-local-save
+bip_39_word_dash_5: hen-cash-local-save-pass
+bip_39_word_dash_6: hen-cash-local-save-pass-agent
+bip_39_word_dash_7: hen-cash-local-save-pass-agent-worth
+bip_39_word_dash_8: hen-cash-local-save-pass-agent-worth-arm
+bip_39_word_dash_9: hen-cash-local-save-pass-agent-worth-arm-erosion
 bip_39_word_new_br_1: hen
 bip_39_word_new_br_10: hen<br>cash<br>local<br>save<br>pass<br>agent<br>worth<br>arm<br>erosion<br>cause
 bip_39_word_new_br_11: hen<br>cash<br>local<br>save<br>pass<br>agent<br>worth<br>arm<br>erosion<br>cause<br>sail
@@ -192,6 +204,18 @@ bip_39_word_space_6: hen cash local save pass agent
 bip_39_word_space_7: hen cash local save pass agent worth
 bip_39_word_space_8: hen cash local save pass agent worth arm
 bip_39_word_space_9: hen cash local save pass agent worth arm erosion
+bip_39_word_underscore_1: hen
+bip_39_word_underscore_10: hen_cash_local_save_pass_agent_worth_arm_erosion_cause
+bip_39_word_underscore_11: hen_cash_local_save_pass_agent_worth_arm_erosion_cause_sail
+bip_39_word_underscore_12: hen_cash_local_save_pass_agent_worth_arm_erosion_cause_sail_arrange
+bip_39_word_underscore_2: hen_cash
+bip_39_word_underscore_3: hen_cash_local
+bip_39_word_underscore_4: hen_cash_local_save
+bip_39_word_underscore_5: hen_cash_local_save_pass
+bip_39_word_underscore_6: hen_cash_local_save_pass_agent
+bip_39_word_underscore_7: hen_cash_local_save_pass_agent_worth
+bip_39_word_underscore_8: hen_cash_local_save_pass_agent_worth_arm
+bip_39_word_underscore_9: hen_cash_local_save_pass_agent_worth_arm_erosion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

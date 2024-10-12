@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | return |  
+| bip_39_word_dash_10 | return-hand-indicate-mind-enact-tenant-gym-report-simple-party |  
+| bip_39_word_dash_11 | return-hand-indicate-mind-enact-tenant-gym-report-simple-party-present |  
+| bip_39_word_dash_2 | return-hand |  
+| bip_39_word_dash_3 | return-hand-indicate |  
+| bip_39_word_dash_4 | return-hand-indicate-mind |  
+| bip_39_word_dash_5 | return-hand-indicate-mind-enact |  
+| bip_39_word_dash_6 | return-hand-indicate-mind-enact-tenant |  
+| bip_39_word_dash_7 | return-hand-indicate-mind-enact-tenant-gym |  
+| bip_39_word_dash_8 | return-hand-indicate-mind-enact-tenant-gym-report |  
+| bip_39_word_dash_9 | return-hand-indicate-mind-enact-tenant-gym-report-simple |  
 | bip_39_word_new_br_1 | return |  
 | bip_39_word_new_br_10 | return<br>hand<br>indicate<br>mind<br>enact<br>tenant<br>gym<br>report<br>simple<br>party |  
 | bip_39_word_new_br_11 | return<br>hand<br>indicate<br>mind<br>enact<br>tenant<br>gym<br>report<br>simple<br>party<br>present |  
@@ -132,6 +143,17 @@ simple |
 | bip_39_word_space_7 | return hand indicate mind enact tenant gym |  
 | bip_39_word_space_8 | return hand indicate mind enact tenant gym report |  
 | bip_39_word_space_9 | return hand indicate mind enact tenant gym report simple |  
+| bip_39_word_underscore_1 | return |  
+| bip_39_word_underscore_10 | return_hand_indicate_mind_enact_tenant_gym_report_simple_party |  
+| bip_39_word_underscore_11 | return_hand_indicate_mind_enact_tenant_gym_report_simple_party_present |  
+| bip_39_word_underscore_2 | return_hand |  
+| bip_39_word_underscore_3 | return_hand_indicate |  
+| bip_39_word_underscore_4 | return_hand_indicate_mind |  
+| bip_39_word_underscore_5 | return_hand_indicate_mind_enact |  
+| bip_39_word_underscore_6 | return_hand_indicate_mind_enact_tenant |  
+| bip_39_word_underscore_7 | return_hand_indicate_mind_enact_tenant_gym |  
+| bip_39_word_underscore_8 | return_hand_indicate_mind_enact_tenant_gym_report |  
+| bip_39_word_underscore_9 | return_hand_indicate_mind_enact_tenant_gym_report_simple |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

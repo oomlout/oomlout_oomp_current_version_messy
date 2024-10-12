@@ -1,3 +1,15 @@
+bip_39_word_dash_1: airport
+bip_39_word_dash_10: airport-until-cabin-rather-grace-right-shove-surge-once-odor
+bip_39_word_dash_11: airport-until-cabin-rather-grace-right-shove-surge-once-odor-neglect
+bip_39_word_dash_12: airport-until-cabin-rather-grace-right-shove-surge-once-odor-neglect-attract
+bip_39_word_dash_2: airport-until
+bip_39_word_dash_3: airport-until-cabin
+bip_39_word_dash_4: airport-until-cabin-rather
+bip_39_word_dash_5: airport-until-cabin-rather-grace
+bip_39_word_dash_6: airport-until-cabin-rather-grace-right
+bip_39_word_dash_7: airport-until-cabin-rather-grace-right-shove
+bip_39_word_dash_8: airport-until-cabin-rather-grace-right-shove-surge
+bip_39_word_dash_9: airport-until-cabin-rather-grace-right-shove-surge-once
 bip_39_word_new_br_1: airport
 bip_39_word_new_br_10: airport<br>until<br>cabin<br>rather<br>grace<br>right<br>shove<br>surge<br>once<br>odor
 bip_39_word_new_br_11: airport<br>until<br>cabin<br>rather<br>grace<br>right<br>shove<br>surge<br>once<br>odor<br>neglect
@@ -193,6 +205,18 @@ bip_39_word_space_6: airport until cabin rather grace right
 bip_39_word_space_7: airport until cabin rather grace right shove
 bip_39_word_space_8: airport until cabin rather grace right shove surge
 bip_39_word_space_9: airport until cabin rather grace right shove surge once
+bip_39_word_underscore_1: airport
+bip_39_word_underscore_10: airport_until_cabin_rather_grace_right_shove_surge_once_odor
+bip_39_word_underscore_11: airport_until_cabin_rather_grace_right_shove_surge_once_odor_neglect
+bip_39_word_underscore_12: airport_until_cabin_rather_grace_right_shove_surge_once_odor_neglect_attract
+bip_39_word_underscore_2: airport_until
+bip_39_word_underscore_3: airport_until_cabin
+bip_39_word_underscore_4: airport_until_cabin_rather
+bip_39_word_underscore_5: airport_until_cabin_rather_grace
+bip_39_word_underscore_6: airport_until_cabin_rather_grace_right
+bip_39_word_underscore_7: airport_until_cabin_rather_grace_right_shove
+bip_39_word_underscore_8: airport_until_cabin_rather_grace_right_shove_surge
+bip_39_word_underscore_9: airport_until_cabin_rather_grace_right_shove_surge_once
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

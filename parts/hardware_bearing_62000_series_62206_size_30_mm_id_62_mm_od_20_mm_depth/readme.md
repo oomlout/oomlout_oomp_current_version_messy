@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | poet |  
+| bip_39_word_dash_10 | poet-advance-steel-toddler-addict-twice-mountain-catalog-legend-civil |  
+| bip_39_word_dash_11 | poet-advance-steel-toddler-addict-twice-mountain-catalog-legend-civil-scout |  
+| bip_39_word_dash_12 | poet-advance-steel-toddler-addict-twice-mountain-catalog-legend-civil-scout-achieve |  
+| bip_39_word_dash_2 | poet-advance |  
+| bip_39_word_dash_3 | poet-advance-steel |  
+| bip_39_word_dash_4 | poet-advance-steel-toddler |  
+| bip_39_word_dash_5 | poet-advance-steel-toddler-addict |  
+| bip_39_word_dash_6 | poet-advance-steel-toddler-addict-twice |  
+| bip_39_word_dash_7 | poet-advance-steel-toddler-addict-twice-mountain |  
+| bip_39_word_dash_8 | poet-advance-steel-toddler-addict-twice-mountain-catalog |  
+| bip_39_word_dash_9 | poet-advance-steel-toddler-addict-twice-mountain-catalog-legend |  
 | bip_39_word_new_br_1 | poet |  
 | bip_39_word_new_br_10 | poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog<br>legend<br>civil |  
 | bip_39_word_new_br_11 | poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog<br>legend<br>civil<br>scout |  
@@ -147,6 +159,18 @@ legend |
 | bip_39_word_space_7 | poet advance steel toddler addict twice mountain |  
 | bip_39_word_space_8 | poet advance steel toddler addict twice mountain catalog |  
 | bip_39_word_space_9 | poet advance steel toddler addict twice mountain catalog legend |  
+| bip_39_word_underscore_1 | poet |  
+| bip_39_word_underscore_10 | poet_advance_steel_toddler_addict_twice_mountain_catalog_legend_civil |  
+| bip_39_word_underscore_11 | poet_advance_steel_toddler_addict_twice_mountain_catalog_legend_civil_scout |  
+| bip_39_word_underscore_12 | poet_advance_steel_toddler_addict_twice_mountain_catalog_legend_civil_scout_achieve |  
+| bip_39_word_underscore_2 | poet_advance |  
+| bip_39_word_underscore_3 | poet_advance_steel |  
+| bip_39_word_underscore_4 | poet_advance_steel_toddler |  
+| bip_39_word_underscore_5 | poet_advance_steel_toddler_addict |  
+| bip_39_word_underscore_6 | poet_advance_steel_toddler_addict_twice |  
+| bip_39_word_underscore_7 | poet_advance_steel_toddler_addict_twice_mountain |  
+| bip_39_word_underscore_8 | poet_advance_steel_toddler_addict_twice_mountain_catalog |  
+| bip_39_word_underscore_9 | poet_advance_steel_toddler_addict_twice_mountain_catalog_legend |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

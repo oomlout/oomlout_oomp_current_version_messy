@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chalk |  
+| bip_39_word_dash_10 | chalk-success-chat-canvas-piece-mesh-annual-fame-quarter-figure |  
+| bip_39_word_dash_11 | chalk-success-chat-canvas-piece-mesh-annual-fame-quarter-figure-sunset |  
+| bip_39_word_dash_12 | chalk-success-chat-canvas-piece-mesh-annual-fame-quarter-figure-sunset-august |  
+| bip_39_word_dash_2 | chalk-success |  
+| bip_39_word_dash_3 | chalk-success-chat |  
+| bip_39_word_dash_4 | chalk-success-chat-canvas |  
+| bip_39_word_dash_5 | chalk-success-chat-canvas-piece |  
+| bip_39_word_dash_6 | chalk-success-chat-canvas-piece-mesh |  
+| bip_39_word_dash_7 | chalk-success-chat-canvas-piece-mesh-annual |  
+| bip_39_word_dash_8 | chalk-success-chat-canvas-piece-mesh-annual-fame |  
+| bip_39_word_dash_9 | chalk-success-chat-canvas-piece-mesh-annual-fame-quarter |  
 | bip_39_word_new_br_1 | chalk |  
 | bip_39_word_new_br_10 | chalk<br>success<br>chat<br>canvas<br>piece<br>mesh<br>annual<br>fame<br>quarter<br>figure |  
 | bip_39_word_new_br_11 | chalk<br>success<br>chat<br>canvas<br>piece<br>mesh<br>annual<br>fame<br>quarter<br>figure<br>sunset |  
@@ -147,6 +159,18 @@ quarter |
 | bip_39_word_space_7 | chalk success chat canvas piece mesh annual |  
 | bip_39_word_space_8 | chalk success chat canvas piece mesh annual fame |  
 | bip_39_word_space_9 | chalk success chat canvas piece mesh annual fame quarter |  
+| bip_39_word_underscore_1 | chalk |  
+| bip_39_word_underscore_10 | chalk_success_chat_canvas_piece_mesh_annual_fame_quarter_figure |  
+| bip_39_word_underscore_11 | chalk_success_chat_canvas_piece_mesh_annual_fame_quarter_figure_sunset |  
+| bip_39_word_underscore_12 | chalk_success_chat_canvas_piece_mesh_annual_fame_quarter_figure_sunset_august |  
+| bip_39_word_underscore_2 | chalk_success |  
+| bip_39_word_underscore_3 | chalk_success_chat |  
+| bip_39_word_underscore_4 | chalk_success_chat_canvas |  
+| bip_39_word_underscore_5 | chalk_success_chat_canvas_piece |  
+| bip_39_word_underscore_6 | chalk_success_chat_canvas_piece_mesh |  
+| bip_39_word_underscore_7 | chalk_success_chat_canvas_piece_mesh_annual |  
+| bip_39_word_underscore_8 | chalk_success_chat_canvas_piece_mesh_annual_fame |  
+| bip_39_word_underscore_9 | chalk_success_chat_canvas_piece_mesh_annual_fame_quarter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | extend |  
+| bip_39_word_dash_10 | extend-memory-spawn-trade-stadium-thunder-glove-apple-best-enjoy |  
+| bip_39_word_dash_11 | extend-memory-spawn-trade-stadium-thunder-glove-apple-best-enjoy-addict |  
+| bip_39_word_dash_12 | extend-memory-spawn-trade-stadium-thunder-glove-apple-best-enjoy-addict-access |  
+| bip_39_word_dash_2 | extend-memory |  
+| bip_39_word_dash_3 | extend-memory-spawn |  
+| bip_39_word_dash_4 | extend-memory-spawn-trade |  
+| bip_39_word_dash_5 | extend-memory-spawn-trade-stadium |  
+| bip_39_word_dash_6 | extend-memory-spawn-trade-stadium-thunder |  
+| bip_39_word_dash_7 | extend-memory-spawn-trade-stadium-thunder-glove |  
+| bip_39_word_dash_8 | extend-memory-spawn-trade-stadium-thunder-glove-apple |  
+| bip_39_word_dash_9 | extend-memory-spawn-trade-stadium-thunder-glove-apple-best |  
 | bip_39_word_new_br_1 | extend |  
 | bip_39_word_new_br_10 | extend<br>memory<br>spawn<br>trade<br>stadium<br>thunder<br>glove<br>apple<br>best<br>enjoy |  
 | bip_39_word_new_br_11 | extend<br>memory<br>spawn<br>trade<br>stadium<br>thunder<br>glove<br>apple<br>best<br>enjoy<br>addict |  
@@ -147,6 +159,18 @@ best |
 | bip_39_word_space_7 | extend memory spawn trade stadium thunder glove |  
 | bip_39_word_space_8 | extend memory spawn trade stadium thunder glove apple |  
 | bip_39_word_space_9 | extend memory spawn trade stadium thunder glove apple best |  
+| bip_39_word_underscore_1 | extend |  
+| bip_39_word_underscore_10 | extend_memory_spawn_trade_stadium_thunder_glove_apple_best_enjoy |  
+| bip_39_word_underscore_11 | extend_memory_spawn_trade_stadium_thunder_glove_apple_best_enjoy_addict |  
+| bip_39_word_underscore_12 | extend_memory_spawn_trade_stadium_thunder_glove_apple_best_enjoy_addict_access |  
+| bip_39_word_underscore_2 | extend_memory |  
+| bip_39_word_underscore_3 | extend_memory_spawn |  
+| bip_39_word_underscore_4 | extend_memory_spawn_trade |  
+| bip_39_word_underscore_5 | extend_memory_spawn_trade_stadium |  
+| bip_39_word_underscore_6 | extend_memory_spawn_trade_stadium_thunder |  
+| bip_39_word_underscore_7 | extend_memory_spawn_trade_stadium_thunder_glove |  
+| bip_39_word_underscore_8 | extend_memory_spawn_trade_stadium_thunder_glove_apple |  
+| bip_39_word_underscore_9 | extend_memory_spawn_trade_stadium_thunder_glove_apple_best |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

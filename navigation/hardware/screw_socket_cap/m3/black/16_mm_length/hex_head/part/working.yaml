@@ -1,3 +1,15 @@
+bip_39_word_dash_1: humor
+bip_39_word_dash_10: humor-kind-long-picnic-same-tiger-bargain-tortoise-relax-spatial
+bip_39_word_dash_11: humor-kind-long-picnic-same-tiger-bargain-tortoise-relax-spatial-knife
+bip_39_word_dash_12: humor-kind-long-picnic-same-tiger-bargain-tortoise-relax-spatial-knife-alpha
+bip_39_word_dash_2: humor-kind
+bip_39_word_dash_3: humor-kind-long
+bip_39_word_dash_4: humor-kind-long-picnic
+bip_39_word_dash_5: humor-kind-long-picnic-same
+bip_39_word_dash_6: humor-kind-long-picnic-same-tiger
+bip_39_word_dash_7: humor-kind-long-picnic-same-tiger-bargain
+bip_39_word_dash_8: humor-kind-long-picnic-same-tiger-bargain-tortoise
+bip_39_word_dash_9: humor-kind-long-picnic-same-tiger-bargain-tortoise-relax
 bip_39_word_new_br_1: humor
 bip_39_word_new_br_10: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial
 bip_39_word_new_br_11: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial<br>knife
@@ -193,6 +205,18 @@ bip_39_word_space_6: humor kind long picnic same tiger
 bip_39_word_space_7: humor kind long picnic same tiger bargain
 bip_39_word_space_8: humor kind long picnic same tiger bargain tortoise
 bip_39_word_space_9: humor kind long picnic same tiger bargain tortoise relax
+bip_39_word_underscore_1: humor
+bip_39_word_underscore_10: humor_kind_long_picnic_same_tiger_bargain_tortoise_relax_spatial
+bip_39_word_underscore_11: humor_kind_long_picnic_same_tiger_bargain_tortoise_relax_spatial_knife
+bip_39_word_underscore_12: humor_kind_long_picnic_same_tiger_bargain_tortoise_relax_spatial_knife_alpha
+bip_39_word_underscore_2: humor_kind
+bip_39_word_underscore_3: humor_kind_long
+bip_39_word_underscore_4: humor_kind_long_picnic
+bip_39_word_underscore_5: humor_kind_long_picnic_same
+bip_39_word_underscore_6: humor_kind_long_picnic_same_tiger
+bip_39_word_underscore_7: humor_kind_long_picnic_same_tiger_bargain
+bip_39_word_underscore_8: humor_kind_long_picnic_same_tiger_bargain_tortoise
+bip_39_word_underscore_9: humor_kind_long_picnic_same_tiger_bargain_tortoise_relax
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

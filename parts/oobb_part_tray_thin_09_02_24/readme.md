@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loud |  
+| bip_39_word_dash_10 | loud-abstract-film-basket-couple-marriage-daring-sick-gospel-theme |  
+| bip_39_word_dash_11 | loud-abstract-film-basket-couple-marriage-daring-sick-gospel-theme-chicken |  
+| bip_39_word_dash_12 | loud-abstract-film-basket-couple-marriage-daring-sick-gospel-theme-chicken-act |  
+| bip_39_word_dash_2 | loud-abstract |  
+| bip_39_word_dash_3 | loud-abstract-film |  
+| bip_39_word_dash_4 | loud-abstract-film-basket |  
+| bip_39_word_dash_5 | loud-abstract-film-basket-couple |  
+| bip_39_word_dash_6 | loud-abstract-film-basket-couple-marriage |  
+| bip_39_word_dash_7 | loud-abstract-film-basket-couple-marriage-daring |  
+| bip_39_word_dash_8 | loud-abstract-film-basket-couple-marriage-daring-sick |  
+| bip_39_word_dash_9 | loud-abstract-film-basket-couple-marriage-daring-sick-gospel |  
 | bip_39_word_new_br_1 | loud |  
 | bip_39_word_new_br_10 | loud<br>abstract<br>film<br>basket<br>couple<br>marriage<br>daring<br>sick<br>gospel<br>theme |  
 | bip_39_word_new_br_11 | loud<br>abstract<br>film<br>basket<br>couple<br>marriage<br>daring<br>sick<br>gospel<br>theme<br>chicken |  
@@ -147,6 +159,18 @@ gospel |
 | bip_39_word_space_7 | loud abstract film basket couple marriage daring |  
 | bip_39_word_space_8 | loud abstract film basket couple marriage daring sick |  
 | bip_39_word_space_9 | loud abstract film basket couple marriage daring sick gospel |  
+| bip_39_word_underscore_1 | loud |  
+| bip_39_word_underscore_10 | loud_abstract_film_basket_couple_marriage_daring_sick_gospel_theme |  
+| bip_39_word_underscore_11 | loud_abstract_film_basket_couple_marriage_daring_sick_gospel_theme_chicken |  
+| bip_39_word_underscore_12 | loud_abstract_film_basket_couple_marriage_daring_sick_gospel_theme_chicken_act |  
+| bip_39_word_underscore_2 | loud_abstract |  
+| bip_39_word_underscore_3 | loud_abstract_film |  
+| bip_39_word_underscore_4 | loud_abstract_film_basket |  
+| bip_39_word_underscore_5 | loud_abstract_film_basket_couple |  
+| bip_39_word_underscore_6 | loud_abstract_film_basket_couple_marriage |  
+| bip_39_word_underscore_7 | loud_abstract_film_basket_couple_marriage_daring |  
+| bip_39_word_underscore_8 | loud_abstract_film_basket_couple_marriage_daring_sick |  
+| bip_39_word_underscore_9 | loud_abstract_film_basket_couple_marriage_daring_sick_gospel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

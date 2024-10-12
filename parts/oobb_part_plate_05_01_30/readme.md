@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rival |  
+| bip_39_word_dash_10 | rival-cabbage-slow-rare-food-barely-daughter-glove-open-mad |  
+| bip_39_word_dash_11 | rival-cabbage-slow-rare-food-barely-daughter-glove-open-mad-identify |  
+| bip_39_word_dash_12 | rival-cabbage-slow-rare-food-barely-daughter-glove-open-mad-identify-apart |  
+| bip_39_word_dash_2 | rival-cabbage |  
+| bip_39_word_dash_3 | rival-cabbage-slow |  
+| bip_39_word_dash_4 | rival-cabbage-slow-rare |  
+| bip_39_word_dash_5 | rival-cabbage-slow-rare-food |  
+| bip_39_word_dash_6 | rival-cabbage-slow-rare-food-barely |  
+| bip_39_word_dash_7 | rival-cabbage-slow-rare-food-barely-daughter |  
+| bip_39_word_dash_8 | rival-cabbage-slow-rare-food-barely-daughter-glove |  
+| bip_39_word_dash_9 | rival-cabbage-slow-rare-food-barely-daughter-glove-open |  
 | bip_39_word_new_br_1 | rival |  
 | bip_39_word_new_br_10 | rival<br>cabbage<br>slow<br>rare<br>food<br>barely<br>daughter<br>glove<br>open<br>mad |  
 | bip_39_word_new_br_11 | rival<br>cabbage<br>slow<br>rare<br>food<br>barely<br>daughter<br>glove<br>open<br>mad<br>identify |  
@@ -147,6 +159,18 @@ open |
 | bip_39_word_space_7 | rival cabbage slow rare food barely daughter |  
 | bip_39_word_space_8 | rival cabbage slow rare food barely daughter glove |  
 | bip_39_word_space_9 | rival cabbage slow rare food barely daughter glove open |  
+| bip_39_word_underscore_1 | rival |  
+| bip_39_word_underscore_10 | rival_cabbage_slow_rare_food_barely_daughter_glove_open_mad |  
+| bip_39_word_underscore_11 | rival_cabbage_slow_rare_food_barely_daughter_glove_open_mad_identify |  
+| bip_39_word_underscore_12 | rival_cabbage_slow_rare_food_barely_daughter_glove_open_mad_identify_apart |  
+| bip_39_word_underscore_2 | rival_cabbage |  
+| bip_39_word_underscore_3 | rival_cabbage_slow |  
+| bip_39_word_underscore_4 | rival_cabbage_slow_rare |  
+| bip_39_word_underscore_5 | rival_cabbage_slow_rare_food |  
+| bip_39_word_underscore_6 | rival_cabbage_slow_rare_food_barely |  
+| bip_39_word_underscore_7 | rival_cabbage_slow_rare_food_barely_daughter |  
+| bip_39_word_underscore_8 | rival_cabbage_slow_rare_food_barely_daughter_glove |  
+| bip_39_word_underscore_9 | rival_cabbage_slow_rare_food_barely_daughter_glove_open |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

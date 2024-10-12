@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flee |  
+| bip_39_word_dash_10 | flee-process-source-sock-recipe-lizard-father-student-ivory-devote |  
+| bip_39_word_dash_11 | flee-process-source-sock-recipe-lizard-father-student-ivory-devote-medal |  
+| bip_39_word_dash_12 | flee-process-source-sock-recipe-lizard-father-student-ivory-devote-medal-arena |  
+| bip_39_word_dash_2 | flee-process |  
+| bip_39_word_dash_3 | flee-process-source |  
+| bip_39_word_dash_4 | flee-process-source-sock |  
+| bip_39_word_dash_5 | flee-process-source-sock-recipe |  
+| bip_39_word_dash_6 | flee-process-source-sock-recipe-lizard |  
+| bip_39_word_dash_7 | flee-process-source-sock-recipe-lizard-father |  
+| bip_39_word_dash_8 | flee-process-source-sock-recipe-lizard-father-student |  
+| bip_39_word_dash_9 | flee-process-source-sock-recipe-lizard-father-student-ivory |  
 | bip_39_word_new_br_1 | flee |  
 | bip_39_word_new_br_10 | flee<br>process<br>source<br>sock<br>recipe<br>lizard<br>father<br>student<br>ivory<br>devote |  
 | bip_39_word_new_br_11 | flee<br>process<br>source<br>sock<br>recipe<br>lizard<br>father<br>student<br>ivory<br>devote<br>medal |  
@@ -147,6 +159,18 @@ ivory |
 | bip_39_word_space_7 | flee process source sock recipe lizard father |  
 | bip_39_word_space_8 | flee process source sock recipe lizard father student |  
 | bip_39_word_space_9 | flee process source sock recipe lizard father student ivory |  
+| bip_39_word_underscore_1 | flee |  
+| bip_39_word_underscore_10 | flee_process_source_sock_recipe_lizard_father_student_ivory_devote |  
+| bip_39_word_underscore_11 | flee_process_source_sock_recipe_lizard_father_student_ivory_devote_medal |  
+| bip_39_word_underscore_12 | flee_process_source_sock_recipe_lizard_father_student_ivory_devote_medal_arena |  
+| bip_39_word_underscore_2 | flee_process |  
+| bip_39_word_underscore_3 | flee_process_source |  
+| bip_39_word_underscore_4 | flee_process_source_sock |  
+| bip_39_word_underscore_5 | flee_process_source_sock_recipe |  
+| bip_39_word_underscore_6 | flee_process_source_sock_recipe_lizard |  
+| bip_39_word_underscore_7 | flee_process_source_sock_recipe_lizard_father |  
+| bip_39_word_underscore_8 | flee_process_source_sock_recipe_lizard_father_student |  
+| bip_39_word_underscore_9 | flee_process_source_sock_recipe_lizard_father_student_ivory |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

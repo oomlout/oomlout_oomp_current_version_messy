@@ -1,3 +1,15 @@
+bip_39_word_dash_1: approve
+bip_39_word_dash_10: approve-around-charge-agent-drama-educate-hollow-century-float-wife
+bip_39_word_dash_11: approve-around-charge-agent-drama-educate-hollow-century-float-wife-dirt
+bip_39_word_dash_12: approve-around-charge-agent-drama-educate-hollow-century-float-wife-dirt-artist
+bip_39_word_dash_2: approve-around
+bip_39_word_dash_3: approve-around-charge
+bip_39_word_dash_4: approve-around-charge-agent
+bip_39_word_dash_5: approve-around-charge-agent-drama
+bip_39_word_dash_6: approve-around-charge-agent-drama-educate
+bip_39_word_dash_7: approve-around-charge-agent-drama-educate-hollow
+bip_39_word_dash_8: approve-around-charge-agent-drama-educate-hollow-century
+bip_39_word_dash_9: approve-around-charge-agent-drama-educate-hollow-century-float
 bip_39_word_new_br_1: approve
 bip_39_word_new_br_10: approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century<br>float<br>wife
 bip_39_word_new_br_11: approve<br>around<br>charge<br>agent<br>drama<br>educate<br>hollow<br>century<br>float<br>wife<br>dirt
@@ -194,6 +206,18 @@ bip_39_word_space_6: approve around charge agent drama educate
 bip_39_word_space_7: approve around charge agent drama educate hollow
 bip_39_word_space_8: approve around charge agent drama educate hollow century
 bip_39_word_space_9: approve around charge agent drama educate hollow century float
+bip_39_word_underscore_1: approve
+bip_39_word_underscore_10: approve_around_charge_agent_drama_educate_hollow_century_float_wife
+bip_39_word_underscore_11: approve_around_charge_agent_drama_educate_hollow_century_float_wife_dirt
+bip_39_word_underscore_12: approve_around_charge_agent_drama_educate_hollow_century_float_wife_dirt_artist
+bip_39_word_underscore_2: approve_around
+bip_39_word_underscore_3: approve_around_charge
+bip_39_word_underscore_4: approve_around_charge_agent
+bip_39_word_underscore_5: approve_around_charge_agent_drama
+bip_39_word_underscore_6: approve_around_charge_agent_drama_educate
+bip_39_word_underscore_7: approve_around_charge_agent_drama_educate_hollow
+bip_39_word_underscore_8: approve_around_charge_agent_drama_educate_hollow_century
+bip_39_word_underscore_9: approve_around_charge_agent_drama_educate_hollow_century_float
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

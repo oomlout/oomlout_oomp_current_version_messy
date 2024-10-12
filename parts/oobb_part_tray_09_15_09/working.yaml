@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toilet
+bip_39_word_dash_10: toilet-horror-tongue-shell-brick-force-fence-black-inherit-exist
+bip_39_word_dash_11: toilet-horror-tongue-shell-brick-force-fence-black-inherit-exist-stage
+bip_39_word_dash_12: toilet-horror-tongue-shell-brick-force-fence-black-inherit-exist-stage-adjust
+bip_39_word_dash_2: toilet-horror
+bip_39_word_dash_3: toilet-horror-tongue
+bip_39_word_dash_4: toilet-horror-tongue-shell
+bip_39_word_dash_5: toilet-horror-tongue-shell-brick
+bip_39_word_dash_6: toilet-horror-tongue-shell-brick-force
+bip_39_word_dash_7: toilet-horror-tongue-shell-brick-force-fence
+bip_39_word_dash_8: toilet-horror-tongue-shell-brick-force-fence-black
+bip_39_word_dash_9: toilet-horror-tongue-shell-brick-force-fence-black-inherit
 bip_39_word_new_br_1: toilet
 bip_39_word_new_br_10: toilet<br>horror<br>tongue<br>shell<br>brick<br>force<br>fence<br>black<br>inherit<br>exist
 bip_39_word_new_br_11: toilet<br>horror<br>tongue<br>shell<br>brick<br>force<br>fence<br>black<br>inherit<br>exist<br>stage
@@ -193,6 +205,18 @@ bip_39_word_space_6: toilet horror tongue shell brick force
 bip_39_word_space_7: toilet horror tongue shell brick force fence
 bip_39_word_space_8: toilet horror tongue shell brick force fence black
 bip_39_word_space_9: toilet horror tongue shell brick force fence black inherit
+bip_39_word_underscore_1: toilet
+bip_39_word_underscore_10: toilet_horror_tongue_shell_brick_force_fence_black_inherit_exist
+bip_39_word_underscore_11: toilet_horror_tongue_shell_brick_force_fence_black_inherit_exist_stage
+bip_39_word_underscore_12: toilet_horror_tongue_shell_brick_force_fence_black_inherit_exist_stage_adjust
+bip_39_word_underscore_2: toilet_horror
+bip_39_word_underscore_3: toilet_horror_tongue
+bip_39_word_underscore_4: toilet_horror_tongue_shell
+bip_39_word_underscore_5: toilet_horror_tongue_shell_brick
+bip_39_word_underscore_6: toilet_horror_tongue_shell_brick_force
+bip_39_word_underscore_7: toilet_horror_tongue_shell_brick_force_fence
+bip_39_word_underscore_8: toilet_horror_tongue_shell_brick_force_fence_black
+bip_39_word_underscore_9: toilet_horror_tongue_shell_brick_force_fence_black_inherit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

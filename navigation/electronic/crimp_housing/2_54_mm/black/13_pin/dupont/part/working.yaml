@@ -1,3 +1,15 @@
+bip_39_word_dash_1: predict
+bip_39_word_dash_10: predict-solid-modify-bike-autumn-latin-citizen-bind-phrase-useful
+bip_39_word_dash_11: predict-solid-modify-bike-autumn-latin-citizen-bind-phrase-useful-rhythm
+bip_39_word_dash_12: predict-solid-modify-bike-autumn-latin-citizen-bind-phrase-useful-rhythm-action
+bip_39_word_dash_2: predict-solid
+bip_39_word_dash_3: predict-solid-modify
+bip_39_word_dash_4: predict-solid-modify-bike
+bip_39_word_dash_5: predict-solid-modify-bike-autumn
+bip_39_word_dash_6: predict-solid-modify-bike-autumn-latin
+bip_39_word_dash_7: predict-solid-modify-bike-autumn-latin-citizen
+bip_39_word_dash_8: predict-solid-modify-bike-autumn-latin-citizen-bind
+bip_39_word_dash_9: predict-solid-modify-bike-autumn-latin-citizen-bind-phrase
 bip_39_word_new_br_1: predict
 bip_39_word_new_br_10: predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind<br>phrase<br>useful
 bip_39_word_new_br_11: predict<br>solid<br>modify<br>bike<br>autumn<br>latin<br>citizen<br>bind<br>phrase<br>useful<br>rhythm
@@ -193,6 +205,18 @@ bip_39_word_space_6: predict solid modify bike autumn latin
 bip_39_word_space_7: predict solid modify bike autumn latin citizen
 bip_39_word_space_8: predict solid modify bike autumn latin citizen bind
 bip_39_word_space_9: predict solid modify bike autumn latin citizen bind phrase
+bip_39_word_underscore_1: predict
+bip_39_word_underscore_10: predict_solid_modify_bike_autumn_latin_citizen_bind_phrase_useful
+bip_39_word_underscore_11: predict_solid_modify_bike_autumn_latin_citizen_bind_phrase_useful_rhythm
+bip_39_word_underscore_12: predict_solid_modify_bike_autumn_latin_citizen_bind_phrase_useful_rhythm_action
+bip_39_word_underscore_2: predict_solid
+bip_39_word_underscore_3: predict_solid_modify
+bip_39_word_underscore_4: predict_solid_modify_bike
+bip_39_word_underscore_5: predict_solid_modify_bike_autumn
+bip_39_word_underscore_6: predict_solid_modify_bike_autumn_latin
+bip_39_word_underscore_7: predict_solid_modify_bike_autumn_latin_citizen
+bip_39_word_underscore_8: predict_solid_modify_bike_autumn_latin_citizen_bind
+bip_39_word_underscore_9: predict_solid_modify_bike_autumn_latin_citizen_bind_phrase
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

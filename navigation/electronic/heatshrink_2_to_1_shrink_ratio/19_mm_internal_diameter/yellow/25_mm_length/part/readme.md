@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | middle |  
+| bip_39_word_dash_10 | middle-ceiling-vanish-off-vague-warm-mail-evoke-claim-range |  
+| bip_39_word_dash_11 | middle-ceiling-vanish-off-vague-warm-mail-evoke-claim-range-grunt |  
+| bip_39_word_dash_12 | middle-ceiling-vanish-off-vague-warm-mail-evoke-claim-range-grunt-attract |  
+| bip_39_word_dash_2 | middle-ceiling |  
+| bip_39_word_dash_3 | middle-ceiling-vanish |  
+| bip_39_word_dash_4 | middle-ceiling-vanish-off |  
+| bip_39_word_dash_5 | middle-ceiling-vanish-off-vague |  
+| bip_39_word_dash_6 | middle-ceiling-vanish-off-vague-warm |  
+| bip_39_word_dash_7 | middle-ceiling-vanish-off-vague-warm-mail |  
+| bip_39_word_dash_8 | middle-ceiling-vanish-off-vague-warm-mail-evoke |  
+| bip_39_word_dash_9 | middle-ceiling-vanish-off-vague-warm-mail-evoke-claim |  
 | bip_39_word_new_br_1 | middle |  
 | bip_39_word_new_br_10 | middle<br>ceiling<br>vanish<br>off<br>vague<br>warm<br>mail<br>evoke<br>claim<br>range |  
 | bip_39_word_new_br_11 | middle<br>ceiling<br>vanish<br>off<br>vague<br>warm<br>mail<br>evoke<br>claim<br>range<br>grunt |  
@@ -147,6 +159,18 @@ claim |
 | bip_39_word_space_7 | middle ceiling vanish off vague warm mail |  
 | bip_39_word_space_8 | middle ceiling vanish off vague warm mail evoke |  
 | bip_39_word_space_9 | middle ceiling vanish off vague warm mail evoke claim |  
+| bip_39_word_underscore_1 | middle |  
+| bip_39_word_underscore_10 | middle_ceiling_vanish_off_vague_warm_mail_evoke_claim_range |  
+| bip_39_word_underscore_11 | middle_ceiling_vanish_off_vague_warm_mail_evoke_claim_range_grunt |  
+| bip_39_word_underscore_12 | middle_ceiling_vanish_off_vague_warm_mail_evoke_claim_range_grunt_attract |  
+| bip_39_word_underscore_2 | middle_ceiling |  
+| bip_39_word_underscore_3 | middle_ceiling_vanish |  
+| bip_39_word_underscore_4 | middle_ceiling_vanish_off |  
+| bip_39_word_underscore_5 | middle_ceiling_vanish_off_vague |  
+| bip_39_word_underscore_6 | middle_ceiling_vanish_off_vague_warm |  
+| bip_39_word_underscore_7 | middle_ceiling_vanish_off_vague_warm_mail |  
+| bip_39_word_underscore_8 | middle_ceiling_vanish_off_vague_warm_mail_evoke |  
+| bip_39_word_underscore_9 | middle_ceiling_vanish_off_vague_warm_mail_evoke_claim |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

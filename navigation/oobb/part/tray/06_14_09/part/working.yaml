@@ -1,3 +1,15 @@
+bip_39_word_dash_1: state
+bip_39_word_dash_10: state-twin-ostrich-fix-thumb-oven-divorce-clip-casino-north
+bip_39_word_dash_11: state-twin-ostrich-fix-thumb-oven-divorce-clip-casino-north-orient
+bip_39_word_dash_12: state-twin-ostrich-fix-thumb-oven-divorce-clip-casino-north-orient-armed
+bip_39_word_dash_2: state-twin
+bip_39_word_dash_3: state-twin-ostrich
+bip_39_word_dash_4: state-twin-ostrich-fix
+bip_39_word_dash_5: state-twin-ostrich-fix-thumb
+bip_39_word_dash_6: state-twin-ostrich-fix-thumb-oven
+bip_39_word_dash_7: state-twin-ostrich-fix-thumb-oven-divorce
+bip_39_word_dash_8: state-twin-ostrich-fix-thumb-oven-divorce-clip
+bip_39_word_dash_9: state-twin-ostrich-fix-thumb-oven-divorce-clip-casino
 bip_39_word_new_br_1: state
 bip_39_word_new_br_10: state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north
 bip_39_word_new_br_11: state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north<br>orient
@@ -193,6 +205,18 @@ bip_39_word_space_6: state twin ostrich fix thumb oven
 bip_39_word_space_7: state twin ostrich fix thumb oven divorce
 bip_39_word_space_8: state twin ostrich fix thumb oven divorce clip
 bip_39_word_space_9: state twin ostrich fix thumb oven divorce clip casino
+bip_39_word_underscore_1: state
+bip_39_word_underscore_10: state_twin_ostrich_fix_thumb_oven_divorce_clip_casino_north
+bip_39_word_underscore_11: state_twin_ostrich_fix_thumb_oven_divorce_clip_casino_north_orient
+bip_39_word_underscore_12: state_twin_ostrich_fix_thumb_oven_divorce_clip_casino_north_orient_armed
+bip_39_word_underscore_2: state_twin
+bip_39_word_underscore_3: state_twin_ostrich
+bip_39_word_underscore_4: state_twin_ostrich_fix
+bip_39_word_underscore_5: state_twin_ostrich_fix_thumb
+bip_39_word_underscore_6: state_twin_ostrich_fix_thumb_oven
+bip_39_word_underscore_7: state_twin_ostrich_fix_thumb_oven_divorce
+bip_39_word_underscore_8: state_twin_ostrich_fix_thumb_oven_divorce_clip
+bip_39_word_underscore_9: state_twin_ostrich_fix_thumb_oven_divorce_clip_casino
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

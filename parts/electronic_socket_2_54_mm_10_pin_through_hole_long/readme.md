@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | correct |  
+| bip_39_word_dash_10 | correct-north-rare-success-pride-bulb-patrol-pond-pen-kid |  
+| bip_39_word_dash_11 | correct-north-rare-success-pride-bulb-patrol-pond-pen-kid-zoo |  
+| bip_39_word_dash_12 | correct-north-rare-success-pride-bulb-patrol-pond-pen-kid-zoo-arena |  
+| bip_39_word_dash_2 | correct-north |  
+| bip_39_word_dash_3 | correct-north-rare |  
+| bip_39_word_dash_4 | correct-north-rare-success |  
+| bip_39_word_dash_5 | correct-north-rare-success-pride |  
+| bip_39_word_dash_6 | correct-north-rare-success-pride-bulb |  
+| bip_39_word_dash_7 | correct-north-rare-success-pride-bulb-patrol |  
+| bip_39_word_dash_8 | correct-north-rare-success-pride-bulb-patrol-pond |  
+| bip_39_word_dash_9 | correct-north-rare-success-pride-bulb-patrol-pond-pen |  
 | bip_39_word_new_br_1 | correct |  
 | bip_39_word_new_br_10 | correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond<br>pen<br>kid |  
 | bip_39_word_new_br_11 | correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond<br>pen<br>kid<br>zoo |  
@@ -147,6 +159,18 @@ pen |
 | bip_39_word_space_7 | correct north rare success pride bulb patrol |  
 | bip_39_word_space_8 | correct north rare success pride bulb patrol pond |  
 | bip_39_word_space_9 | correct north rare success pride bulb patrol pond pen |  
+| bip_39_word_underscore_1 | correct |  
+| bip_39_word_underscore_10 | correct_north_rare_success_pride_bulb_patrol_pond_pen_kid |  
+| bip_39_word_underscore_11 | correct_north_rare_success_pride_bulb_patrol_pond_pen_kid_zoo |  
+| bip_39_word_underscore_12 | correct_north_rare_success_pride_bulb_patrol_pond_pen_kid_zoo_arena |  
+| bip_39_word_underscore_2 | correct_north |  
+| bip_39_word_underscore_3 | correct_north_rare |  
+| bip_39_word_underscore_4 | correct_north_rare_success |  
+| bip_39_word_underscore_5 | correct_north_rare_success_pride |  
+| bip_39_word_underscore_6 | correct_north_rare_success_pride_bulb |  
+| bip_39_word_underscore_7 | correct_north_rare_success_pride_bulb_patrol |  
+| bip_39_word_underscore_8 | correct_north_rare_success_pride_bulb_patrol_pond |  
+| bip_39_word_underscore_9 | correct_north_rare_success_pride_bulb_patrol_pond_pen |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

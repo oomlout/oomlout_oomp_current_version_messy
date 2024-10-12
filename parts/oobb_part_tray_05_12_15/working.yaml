@@ -1,3 +1,15 @@
+bip_39_word_dash_1: charge
+bip_39_word_dash_10: charge-upgrade-neck-file-oblige-lucky-advice-grocery-unit-bargain
+bip_39_word_dash_11: charge-upgrade-neck-file-oblige-lucky-advice-grocery-unit-bargain-such
+bip_39_word_dash_12: charge-upgrade-neck-file-oblige-lucky-advice-grocery-unit-bargain-such-admit
+bip_39_word_dash_2: charge-upgrade
+bip_39_word_dash_3: charge-upgrade-neck
+bip_39_word_dash_4: charge-upgrade-neck-file
+bip_39_word_dash_5: charge-upgrade-neck-file-oblige
+bip_39_word_dash_6: charge-upgrade-neck-file-oblige-lucky
+bip_39_word_dash_7: charge-upgrade-neck-file-oblige-lucky-advice
+bip_39_word_dash_8: charge-upgrade-neck-file-oblige-lucky-advice-grocery
+bip_39_word_dash_9: charge-upgrade-neck-file-oblige-lucky-advice-grocery-unit
 bip_39_word_new_br_1: charge
 bip_39_word_new_br_10: charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain
 bip_39_word_new_br_11: charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain<br>such
@@ -193,6 +205,18 @@ bip_39_word_space_6: charge upgrade neck file oblige lucky
 bip_39_word_space_7: charge upgrade neck file oblige lucky advice
 bip_39_word_space_8: charge upgrade neck file oblige lucky advice grocery
 bip_39_word_space_9: charge upgrade neck file oblige lucky advice grocery unit
+bip_39_word_underscore_1: charge
+bip_39_word_underscore_10: charge_upgrade_neck_file_oblige_lucky_advice_grocery_unit_bargain
+bip_39_word_underscore_11: charge_upgrade_neck_file_oblige_lucky_advice_grocery_unit_bargain_such
+bip_39_word_underscore_12: charge_upgrade_neck_file_oblige_lucky_advice_grocery_unit_bargain_such_admit
+bip_39_word_underscore_2: charge_upgrade
+bip_39_word_underscore_3: charge_upgrade_neck
+bip_39_word_underscore_4: charge_upgrade_neck_file
+bip_39_word_underscore_5: charge_upgrade_neck_file_oblige
+bip_39_word_underscore_6: charge_upgrade_neck_file_oblige_lucky
+bip_39_word_underscore_7: charge_upgrade_neck_file_oblige_lucky_advice
+bip_39_word_underscore_8: charge_upgrade_neck_file_oblige_lucky_advice_grocery
+bip_39_word_underscore_9: charge_upgrade_neck_file_oblige_lucky_advice_grocery_unit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

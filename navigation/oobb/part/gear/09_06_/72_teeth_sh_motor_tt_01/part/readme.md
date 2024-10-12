@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | can |  
+| bip_39_word_dash_10 | can-cluster-benefit-soft-arena-ignore-slow-wine-carry-inherit |  
+| bip_39_word_dash_11 | can-cluster-benefit-soft-arena-ignore-slow-wine-carry-inherit-dad |  
+| bip_39_word_dash_12 | can-cluster-benefit-soft-arena-ignore-slow-wine-carry-inherit-dad-artwork |  
+| bip_39_word_dash_2 | can-cluster |  
+| bip_39_word_dash_3 | can-cluster-benefit |  
+| bip_39_word_dash_4 | can-cluster-benefit-soft |  
+| bip_39_word_dash_5 | can-cluster-benefit-soft-arena |  
+| bip_39_word_dash_6 | can-cluster-benefit-soft-arena-ignore |  
+| bip_39_word_dash_7 | can-cluster-benefit-soft-arena-ignore-slow |  
+| bip_39_word_dash_8 | can-cluster-benefit-soft-arena-ignore-slow-wine |  
+| bip_39_word_dash_9 | can-cluster-benefit-soft-arena-ignore-slow-wine-carry |  
 | bip_39_word_new_br_1 | can |  
 | bip_39_word_new_br_10 | can<br>cluster<br>benefit<br>soft<br>arena<br>ignore<br>slow<br>wine<br>carry<br>inherit |  
 | bip_39_word_new_br_11 | can<br>cluster<br>benefit<br>soft<br>arena<br>ignore<br>slow<br>wine<br>carry<br>inherit<br>dad |  
@@ -147,6 +159,18 @@ carry |
 | bip_39_word_space_7 | can cluster benefit soft arena ignore slow |  
 | bip_39_word_space_8 | can cluster benefit soft arena ignore slow wine |  
 | bip_39_word_space_9 | can cluster benefit soft arena ignore slow wine carry |  
+| bip_39_word_underscore_1 | can |  
+| bip_39_word_underscore_10 | can_cluster_benefit_soft_arena_ignore_slow_wine_carry_inherit |  
+| bip_39_word_underscore_11 | can_cluster_benefit_soft_arena_ignore_slow_wine_carry_inherit_dad |  
+| bip_39_word_underscore_12 | can_cluster_benefit_soft_arena_ignore_slow_wine_carry_inherit_dad_artwork |  
+| bip_39_word_underscore_2 | can_cluster |  
+| bip_39_word_underscore_3 | can_cluster_benefit |  
+| bip_39_word_underscore_4 | can_cluster_benefit_soft |  
+| bip_39_word_underscore_5 | can_cluster_benefit_soft_arena |  
+| bip_39_word_underscore_6 | can_cluster_benefit_soft_arena_ignore |  
+| bip_39_word_underscore_7 | can_cluster_benefit_soft_arena_ignore_slow |  
+| bip_39_word_underscore_8 | can_cluster_benefit_soft_arena_ignore_slow_wine |  
+| bip_39_word_underscore_9 | can_cluster_benefit_soft_arena_ignore_slow_wine_carry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

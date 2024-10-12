@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | maximum |  
+| bip_39_word_dash_10 | maximum-cricket-impulse-trade-casino-patch-buffalo-left-calm-theory |  
+| bip_39_word_dash_11 | maximum-cricket-impulse-trade-casino-patch-buffalo-left-calm-theory-fire |  
+| bip_39_word_dash_12 | maximum-cricket-impulse-trade-casino-patch-buffalo-left-calm-theory-fire-asset |  
+| bip_39_word_dash_2 | maximum-cricket |  
+| bip_39_word_dash_3 | maximum-cricket-impulse |  
+| bip_39_word_dash_4 | maximum-cricket-impulse-trade |  
+| bip_39_word_dash_5 | maximum-cricket-impulse-trade-casino |  
+| bip_39_word_dash_6 | maximum-cricket-impulse-trade-casino-patch |  
+| bip_39_word_dash_7 | maximum-cricket-impulse-trade-casino-patch-buffalo |  
+| bip_39_word_dash_8 | maximum-cricket-impulse-trade-casino-patch-buffalo-left |  
+| bip_39_word_dash_9 | maximum-cricket-impulse-trade-casino-patch-buffalo-left-calm |  
 | bip_39_word_new_br_1 | maximum |  
 | bip_39_word_new_br_10 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory |  
 | bip_39_word_new_br_11 | maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory<br>fire |  
@@ -147,6 +159,18 @@ calm |
 | bip_39_word_space_7 | maximum cricket impulse trade casino patch buffalo |  
 | bip_39_word_space_8 | maximum cricket impulse trade casino patch buffalo left |  
 | bip_39_word_space_9 | maximum cricket impulse trade casino patch buffalo left calm |  
+| bip_39_word_underscore_1 | maximum |  
+| bip_39_word_underscore_10 | maximum_cricket_impulse_trade_casino_patch_buffalo_left_calm_theory |  
+| bip_39_word_underscore_11 | maximum_cricket_impulse_trade_casino_patch_buffalo_left_calm_theory_fire |  
+| bip_39_word_underscore_12 | maximum_cricket_impulse_trade_casino_patch_buffalo_left_calm_theory_fire_asset |  
+| bip_39_word_underscore_2 | maximum_cricket |  
+| bip_39_word_underscore_3 | maximum_cricket_impulse |  
+| bip_39_word_underscore_4 | maximum_cricket_impulse_trade |  
+| bip_39_word_underscore_5 | maximum_cricket_impulse_trade_casino |  
+| bip_39_word_underscore_6 | maximum_cricket_impulse_trade_casino_patch |  
+| bip_39_word_underscore_7 | maximum_cricket_impulse_trade_casino_patch_buffalo |  
+| bip_39_word_underscore_8 | maximum_cricket_impulse_trade_casino_patch_buffalo_left |  
+| bip_39_word_underscore_9 | maximum_cricket_impulse_trade_casino_patch_buffalo_left_calm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

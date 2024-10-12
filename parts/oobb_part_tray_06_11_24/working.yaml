@@ -1,3 +1,15 @@
+bip_39_word_dash_1: miss
+bip_39_word_dash_10: miss-push-affair-certain-solution-siege-meat-scan-sail-tilt
+bip_39_word_dash_11: miss-push-affair-certain-solution-siege-meat-scan-sail-tilt-kitchen
+bip_39_word_dash_12: miss-push-affair-certain-solution-siege-meat-scan-sail-tilt-kitchen-ahead
+bip_39_word_dash_2: miss-push
+bip_39_word_dash_3: miss-push-affair
+bip_39_word_dash_4: miss-push-affair-certain
+bip_39_word_dash_5: miss-push-affair-certain-solution
+bip_39_word_dash_6: miss-push-affair-certain-solution-siege
+bip_39_word_dash_7: miss-push-affair-certain-solution-siege-meat
+bip_39_word_dash_8: miss-push-affair-certain-solution-siege-meat-scan
+bip_39_word_dash_9: miss-push-affair-certain-solution-siege-meat-scan-sail
 bip_39_word_new_br_1: miss
 bip_39_word_new_br_10: miss<br>push<br>affair<br>certain<br>solution<br>siege<br>meat<br>scan<br>sail<br>tilt
 bip_39_word_new_br_11: miss<br>push<br>affair<br>certain<br>solution<br>siege<br>meat<br>scan<br>sail<br>tilt<br>kitchen
@@ -193,6 +205,18 @@ bip_39_word_space_6: miss push affair certain solution siege
 bip_39_word_space_7: miss push affair certain solution siege meat
 bip_39_word_space_8: miss push affair certain solution siege meat scan
 bip_39_word_space_9: miss push affair certain solution siege meat scan sail
+bip_39_word_underscore_1: miss
+bip_39_word_underscore_10: miss_push_affair_certain_solution_siege_meat_scan_sail_tilt
+bip_39_word_underscore_11: miss_push_affair_certain_solution_siege_meat_scan_sail_tilt_kitchen
+bip_39_word_underscore_12: miss_push_affair_certain_solution_siege_meat_scan_sail_tilt_kitchen_ahead
+bip_39_word_underscore_2: miss_push
+bip_39_word_underscore_3: miss_push_affair
+bip_39_word_underscore_4: miss_push_affair_certain
+bip_39_word_underscore_5: miss_push_affair_certain_solution
+bip_39_word_underscore_6: miss_push_affair_certain_solution_siege
+bip_39_word_underscore_7: miss_push_affair_certain_solution_siege_meat
+bip_39_word_underscore_8: miss_push_affair_certain_solution_siege_meat_scan
+bip_39_word_underscore_9: miss_push_affair_certain_solution_siege_meat_scan_sail
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

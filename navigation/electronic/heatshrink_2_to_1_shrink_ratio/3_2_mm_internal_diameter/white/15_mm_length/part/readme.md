@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inflict |  
+| bip_39_word_dash_10 | inflict-region-crime-plug-air-genuine-zero-comfort-excuse-acid |  
+| bip_39_word_dash_11 | inflict-region-crime-plug-air-genuine-zero-comfort-excuse-acid-science |  
+| bip_39_word_dash_12 | inflict-region-crime-plug-air-genuine-zero-comfort-excuse-acid-science-appear |  
+| bip_39_word_dash_2 | inflict-region |  
+| bip_39_word_dash_3 | inflict-region-crime |  
+| bip_39_word_dash_4 | inflict-region-crime-plug |  
+| bip_39_word_dash_5 | inflict-region-crime-plug-air |  
+| bip_39_word_dash_6 | inflict-region-crime-plug-air-genuine |  
+| bip_39_word_dash_7 | inflict-region-crime-plug-air-genuine-zero |  
+| bip_39_word_dash_8 | inflict-region-crime-plug-air-genuine-zero-comfort |  
+| bip_39_word_dash_9 | inflict-region-crime-plug-air-genuine-zero-comfort-excuse |  
 | bip_39_word_new_br_1 | inflict |  
 | bip_39_word_new_br_10 | inflict<br>region<br>crime<br>plug<br>air<br>genuine<br>zero<br>comfort<br>excuse<br>acid |  
 | bip_39_word_new_br_11 | inflict<br>region<br>crime<br>plug<br>air<br>genuine<br>zero<br>comfort<br>excuse<br>acid<br>science |  
@@ -147,6 +159,18 @@ excuse |
 | bip_39_word_space_7 | inflict region crime plug air genuine zero |  
 | bip_39_word_space_8 | inflict region crime plug air genuine zero comfort |  
 | bip_39_word_space_9 | inflict region crime plug air genuine zero comfort excuse |  
+| bip_39_word_underscore_1 | inflict |  
+| bip_39_word_underscore_10 | inflict_region_crime_plug_air_genuine_zero_comfort_excuse_acid |  
+| bip_39_word_underscore_11 | inflict_region_crime_plug_air_genuine_zero_comfort_excuse_acid_science |  
+| bip_39_word_underscore_12 | inflict_region_crime_plug_air_genuine_zero_comfort_excuse_acid_science_appear |  
+| bip_39_word_underscore_2 | inflict_region |  
+| bip_39_word_underscore_3 | inflict_region_crime |  
+| bip_39_word_underscore_4 | inflict_region_crime_plug |  
+| bip_39_word_underscore_5 | inflict_region_crime_plug_air |  
+| bip_39_word_underscore_6 | inflict_region_crime_plug_air_genuine |  
+| bip_39_word_underscore_7 | inflict_region_crime_plug_air_genuine_zero |  
+| bip_39_word_underscore_8 | inflict_region_crime_plug_air_genuine_zero_comfort |  
+| bip_39_word_underscore_9 | inflict_region_crime_plug_air_genuine_zero_comfort_excuse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

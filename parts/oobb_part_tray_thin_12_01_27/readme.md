@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fan |  
+| bip_39_word_dash_10 | fan-armor-success-man-fame-know-gather-ten-horror-mind |  
+| bip_39_word_dash_11 | fan-armor-success-man-fame-know-gather-ten-horror-mind-bind |  
+| bip_39_word_dash_12 | fan-armor-success-man-fame-know-gather-ten-horror-mind-bind-alpha |  
+| bip_39_word_dash_2 | fan-armor |  
+| bip_39_word_dash_3 | fan-armor-success |  
+| bip_39_word_dash_4 | fan-armor-success-man |  
+| bip_39_word_dash_5 | fan-armor-success-man-fame |  
+| bip_39_word_dash_6 | fan-armor-success-man-fame-know |  
+| bip_39_word_dash_7 | fan-armor-success-man-fame-know-gather |  
+| bip_39_word_dash_8 | fan-armor-success-man-fame-know-gather-ten |  
+| bip_39_word_dash_9 | fan-armor-success-man-fame-know-gather-ten-horror |  
 | bip_39_word_new_br_1 | fan |  
 | bip_39_word_new_br_10 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind |  
 | bip_39_word_new_br_11 | fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind<br>bind |  
@@ -147,6 +159,18 @@ horror |
 | bip_39_word_space_7 | fan armor success man fame know gather |  
 | bip_39_word_space_8 | fan armor success man fame know gather ten |  
 | bip_39_word_space_9 | fan armor success man fame know gather ten horror |  
+| bip_39_word_underscore_1 | fan |  
+| bip_39_word_underscore_10 | fan_armor_success_man_fame_know_gather_ten_horror_mind |  
+| bip_39_word_underscore_11 | fan_armor_success_man_fame_know_gather_ten_horror_mind_bind |  
+| bip_39_word_underscore_12 | fan_armor_success_man_fame_know_gather_ten_horror_mind_bind_alpha |  
+| bip_39_word_underscore_2 | fan_armor |  
+| bip_39_word_underscore_3 | fan_armor_success |  
+| bip_39_word_underscore_4 | fan_armor_success_man |  
+| bip_39_word_underscore_5 | fan_armor_success_man_fame |  
+| bip_39_word_underscore_6 | fan_armor_success_man_fame_know |  
+| bip_39_word_underscore_7 | fan_armor_success_man_fame_know_gather |  
+| bip_39_word_underscore_8 | fan_armor_success_man_fame_know_gather_ten |  
+| bip_39_word_underscore_9 | fan_armor_success_man_fame_know_gather_ten_horror |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

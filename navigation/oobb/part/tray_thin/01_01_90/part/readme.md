@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erupt |  
+| bip_39_word_dash_10 | erupt-divorce-burger-tuition-observe-torch-school-high-able-spider |  
+| bip_39_word_dash_11 | erupt-divorce-burger-tuition-observe-torch-school-high-able-spider-brave |  
+| bip_39_word_dash_12 | erupt-divorce-burger-tuition-observe-torch-school-high-able-spider-brave-always |  
+| bip_39_word_dash_2 | erupt-divorce |  
+| bip_39_word_dash_3 | erupt-divorce-burger |  
+| bip_39_word_dash_4 | erupt-divorce-burger-tuition |  
+| bip_39_word_dash_5 | erupt-divorce-burger-tuition-observe |  
+| bip_39_word_dash_6 | erupt-divorce-burger-tuition-observe-torch |  
+| bip_39_word_dash_7 | erupt-divorce-burger-tuition-observe-torch-school |  
+| bip_39_word_dash_8 | erupt-divorce-burger-tuition-observe-torch-school-high |  
+| bip_39_word_dash_9 | erupt-divorce-burger-tuition-observe-torch-school-high-able |  
 | bip_39_word_new_br_1 | erupt |  
 | bip_39_word_new_br_10 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider |  
 | bip_39_word_new_br_11 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider<br>brave |  
@@ -147,6 +159,18 @@ able |
 | bip_39_word_space_7 | erupt divorce burger tuition observe torch school |  
 | bip_39_word_space_8 | erupt divorce burger tuition observe torch school high |  
 | bip_39_word_space_9 | erupt divorce burger tuition observe torch school high able |  
+| bip_39_word_underscore_1 | erupt |  
+| bip_39_word_underscore_10 | erupt_divorce_burger_tuition_observe_torch_school_high_able_spider |  
+| bip_39_word_underscore_11 | erupt_divorce_burger_tuition_observe_torch_school_high_able_spider_brave |  
+| bip_39_word_underscore_12 | erupt_divorce_burger_tuition_observe_torch_school_high_able_spider_brave_always |  
+| bip_39_word_underscore_2 | erupt_divorce |  
+| bip_39_word_underscore_3 | erupt_divorce_burger |  
+| bip_39_word_underscore_4 | erupt_divorce_burger_tuition |  
+| bip_39_word_underscore_5 | erupt_divorce_burger_tuition_observe |  
+| bip_39_word_underscore_6 | erupt_divorce_burger_tuition_observe_torch |  
+| bip_39_word_underscore_7 | erupt_divorce_burger_tuition_observe_torch_school |  
+| bip_39_word_underscore_8 | erupt_divorce_burger_tuition_observe_torch_school_high |  
+| bip_39_word_underscore_9 | erupt_divorce_burger_tuition_observe_torch_school_high_able |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

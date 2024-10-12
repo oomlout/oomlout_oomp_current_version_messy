@@ -1,3 +1,15 @@
+bip_39_word_dash_1: panther
+bip_39_word_dash_10: panther-around-oval-affair-sock-salad-pride-begin-lounge-lunch
+bip_39_word_dash_11: panther-around-oval-affair-sock-salad-pride-begin-lounge-lunch-present
+bip_39_word_dash_12: panther-around-oval-affair-sock-salad-pride-begin-lounge-lunch-present-adapt
+bip_39_word_dash_2: panther-around
+bip_39_word_dash_3: panther-around-oval
+bip_39_word_dash_4: panther-around-oval-affair
+bip_39_word_dash_5: panther-around-oval-affair-sock
+bip_39_word_dash_6: panther-around-oval-affair-sock-salad
+bip_39_word_dash_7: panther-around-oval-affair-sock-salad-pride
+bip_39_word_dash_8: panther-around-oval-affair-sock-salad-pride-begin
+bip_39_word_dash_9: panther-around-oval-affair-sock-salad-pride-begin-lounge
 bip_39_word_new_br_1: panther
 bip_39_word_new_br_10: panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin<br>lounge<br>lunch
 bip_39_word_new_br_11: panther<br>around<br>oval<br>affair<br>sock<br>salad<br>pride<br>begin<br>lounge<br>lunch<br>present
@@ -193,6 +205,18 @@ bip_39_word_space_6: panther around oval affair sock salad
 bip_39_word_space_7: panther around oval affair sock salad pride
 bip_39_word_space_8: panther around oval affair sock salad pride begin
 bip_39_word_space_9: panther around oval affair sock salad pride begin lounge
+bip_39_word_underscore_1: panther
+bip_39_word_underscore_10: panther_around_oval_affair_sock_salad_pride_begin_lounge_lunch
+bip_39_word_underscore_11: panther_around_oval_affair_sock_salad_pride_begin_lounge_lunch_present
+bip_39_word_underscore_12: panther_around_oval_affair_sock_salad_pride_begin_lounge_lunch_present_adapt
+bip_39_word_underscore_2: panther_around
+bip_39_word_underscore_3: panther_around_oval
+bip_39_word_underscore_4: panther_around_oval_affair
+bip_39_word_underscore_5: panther_around_oval_affair_sock
+bip_39_word_underscore_6: panther_around_oval_affair_sock_salad
+bip_39_word_underscore_7: panther_around_oval_affair_sock_salad_pride
+bip_39_word_underscore_8: panther_around_oval_affair_sock_salad_pride_begin
+bip_39_word_underscore_9: panther_around_oval_affair_sock_salad_pride_begin_lounge
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fitness |  
+| bip_39_word_dash_10 | fitness-vicious-lumber-vacuum-produce-garbage-young-fire-donate-rally |  
+| bip_39_word_dash_11 | fitness-vicious-lumber-vacuum-produce-garbage-young-fire-donate-rally-mind |  
+| bip_39_word_dash_12 | fitness-vicious-lumber-vacuum-produce-garbage-young-fire-donate-rally-mind-abstract |  
+| bip_39_word_dash_2 | fitness-vicious |  
+| bip_39_word_dash_3 | fitness-vicious-lumber |  
+| bip_39_word_dash_4 | fitness-vicious-lumber-vacuum |  
+| bip_39_word_dash_5 | fitness-vicious-lumber-vacuum-produce |  
+| bip_39_word_dash_6 | fitness-vicious-lumber-vacuum-produce-garbage |  
+| bip_39_word_dash_7 | fitness-vicious-lumber-vacuum-produce-garbage-young |  
+| bip_39_word_dash_8 | fitness-vicious-lumber-vacuum-produce-garbage-young-fire |  
+| bip_39_word_dash_9 | fitness-vicious-lumber-vacuum-produce-garbage-young-fire-donate |  
 | bip_39_word_new_br_1 | fitness |  
 | bip_39_word_new_br_10 | fitness<br>vicious<br>lumber<br>vacuum<br>produce<br>garbage<br>young<br>fire<br>donate<br>rally |  
 | bip_39_word_new_br_11 | fitness<br>vicious<br>lumber<br>vacuum<br>produce<br>garbage<br>young<br>fire<br>donate<br>rally<br>mind |  
@@ -147,6 +159,18 @@ donate |
 | bip_39_word_space_7 | fitness vicious lumber vacuum produce garbage young |  
 | bip_39_word_space_8 | fitness vicious lumber vacuum produce garbage young fire |  
 | bip_39_word_space_9 | fitness vicious lumber vacuum produce garbage young fire donate |  
+| bip_39_word_underscore_1 | fitness |  
+| bip_39_word_underscore_10 | fitness_vicious_lumber_vacuum_produce_garbage_young_fire_donate_rally |  
+| bip_39_word_underscore_11 | fitness_vicious_lumber_vacuum_produce_garbage_young_fire_donate_rally_mind |  
+| bip_39_word_underscore_12 | fitness_vicious_lumber_vacuum_produce_garbage_young_fire_donate_rally_mind_abstract |  
+| bip_39_word_underscore_2 | fitness_vicious |  
+| bip_39_word_underscore_3 | fitness_vicious_lumber |  
+| bip_39_word_underscore_4 | fitness_vicious_lumber_vacuum |  
+| bip_39_word_underscore_5 | fitness_vicious_lumber_vacuum_produce |  
+| bip_39_word_underscore_6 | fitness_vicious_lumber_vacuum_produce_garbage |  
+| bip_39_word_underscore_7 | fitness_vicious_lumber_vacuum_produce_garbage_young |  
+| bip_39_word_underscore_8 | fitness_vicious_lumber_vacuum_produce_garbage_young_fire |  
+| bip_39_word_underscore_9 | fitness_vicious_lumber_vacuum_produce_garbage_young_fire_donate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

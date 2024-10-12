@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | twin |  
+| bip_39_word_dash_10 | twin-panther-mixture-apology-bench-share-action-cloth-woman-spawn |  
+| bip_39_word_dash_11 | twin-panther-mixture-apology-bench-share-action-cloth-woman-spawn-course |  
+| bip_39_word_dash_12 | twin-panther-mixture-apology-bench-share-action-cloth-woman-spawn-course-arrow |  
+| bip_39_word_dash_2 | twin-panther |  
+| bip_39_word_dash_3 | twin-panther-mixture |  
+| bip_39_word_dash_4 | twin-panther-mixture-apology |  
+| bip_39_word_dash_5 | twin-panther-mixture-apology-bench |  
+| bip_39_word_dash_6 | twin-panther-mixture-apology-bench-share |  
+| bip_39_word_dash_7 | twin-panther-mixture-apology-bench-share-action |  
+| bip_39_word_dash_8 | twin-panther-mixture-apology-bench-share-action-cloth |  
+| bip_39_word_dash_9 | twin-panther-mixture-apology-bench-share-action-cloth-woman |  
 | bip_39_word_new_br_1 | twin |  
 | bip_39_word_new_br_10 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth<br>woman<br>spawn |  
 | bip_39_word_new_br_11 | twin<br>panther<br>mixture<br>apology<br>bench<br>share<br>action<br>cloth<br>woman<br>spawn<br>course |  
@@ -147,6 +159,18 @@ woman |
 | bip_39_word_space_7 | twin panther mixture apology bench share action |  
 | bip_39_word_space_8 | twin panther mixture apology bench share action cloth |  
 | bip_39_word_space_9 | twin panther mixture apology bench share action cloth woman |  
+| bip_39_word_underscore_1 | twin |  
+| bip_39_word_underscore_10 | twin_panther_mixture_apology_bench_share_action_cloth_woman_spawn |  
+| bip_39_word_underscore_11 | twin_panther_mixture_apology_bench_share_action_cloth_woman_spawn_course |  
+| bip_39_word_underscore_12 | twin_panther_mixture_apology_bench_share_action_cloth_woman_spawn_course_arrow |  
+| bip_39_word_underscore_2 | twin_panther |  
+| bip_39_word_underscore_3 | twin_panther_mixture |  
+| bip_39_word_underscore_4 | twin_panther_mixture_apology |  
+| bip_39_word_underscore_5 | twin_panther_mixture_apology_bench |  
+| bip_39_word_underscore_6 | twin_panther_mixture_apology_bench_share |  
+| bip_39_word_underscore_7 | twin_panther_mixture_apology_bench_share_action |  
+| bip_39_word_underscore_8 | twin_panther_mixture_apology_bench_share_action_cloth |  
+| bip_39_word_underscore_9 | twin_panther_mixture_apology_bench_share_action_cloth_woman |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

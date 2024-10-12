@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gasp |  
+| bip_39_word_dash_10 | gasp-note-suffer-swap-deliver-thought-oyster-lake-myself-fluid |  
+| bip_39_word_dash_11 | gasp-note-suffer-swap-deliver-thought-oyster-lake-myself-fluid-tuna |  
+| bip_39_word_dash_12 | gasp-note-suffer-swap-deliver-thought-oyster-lake-myself-fluid-tuna-agent |  
+| bip_39_word_dash_2 | gasp-note |  
+| bip_39_word_dash_3 | gasp-note-suffer |  
+| bip_39_word_dash_4 | gasp-note-suffer-swap |  
+| bip_39_word_dash_5 | gasp-note-suffer-swap-deliver |  
+| bip_39_word_dash_6 | gasp-note-suffer-swap-deliver-thought |  
+| bip_39_word_dash_7 | gasp-note-suffer-swap-deliver-thought-oyster |  
+| bip_39_word_dash_8 | gasp-note-suffer-swap-deliver-thought-oyster-lake |  
+| bip_39_word_dash_9 | gasp-note-suffer-swap-deliver-thought-oyster-lake-myself |  
 | bip_39_word_new_br_1 | gasp |  
 | bip_39_word_new_br_10 | gasp<br>note<br>suffer<br>swap<br>deliver<br>thought<br>oyster<br>lake<br>myself<br>fluid |  
 | bip_39_word_new_br_11 | gasp<br>note<br>suffer<br>swap<br>deliver<br>thought<br>oyster<br>lake<br>myself<br>fluid<br>tuna |  
@@ -147,6 +159,18 @@ myself |
 | bip_39_word_space_7 | gasp note suffer swap deliver thought oyster |  
 | bip_39_word_space_8 | gasp note suffer swap deliver thought oyster lake |  
 | bip_39_word_space_9 | gasp note suffer swap deliver thought oyster lake myself |  
+| bip_39_word_underscore_1 | gasp |  
+| bip_39_word_underscore_10 | gasp_note_suffer_swap_deliver_thought_oyster_lake_myself_fluid |  
+| bip_39_word_underscore_11 | gasp_note_suffer_swap_deliver_thought_oyster_lake_myself_fluid_tuna |  
+| bip_39_word_underscore_12 | gasp_note_suffer_swap_deliver_thought_oyster_lake_myself_fluid_tuna_agent |  
+| bip_39_word_underscore_2 | gasp_note |  
+| bip_39_word_underscore_3 | gasp_note_suffer |  
+| bip_39_word_underscore_4 | gasp_note_suffer_swap |  
+| bip_39_word_underscore_5 | gasp_note_suffer_swap_deliver |  
+| bip_39_word_underscore_6 | gasp_note_suffer_swap_deliver_thought |  
+| bip_39_word_underscore_7 | gasp_note_suffer_swap_deliver_thought_oyster |  
+| bip_39_word_underscore_8 | gasp_note_suffer_swap_deliver_thought_oyster_lake |  
+| bip_39_word_underscore_9 | gasp_note_suffer_swap_deliver_thought_oyster_lake_myself |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

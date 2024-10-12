@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chair |  
+| bip_39_word_dash_10 | chair-ski-admit-light-unhappy-siege-play-happy-open-crush |  
+| bip_39_word_dash_11 | chair-ski-admit-light-unhappy-siege-play-happy-open-crush-excess |  
+| bip_39_word_dash_12 | chair-ski-admit-light-unhappy-siege-play-happy-open-crush-excess-artefact |  
+| bip_39_word_dash_2 | chair-ski |  
+| bip_39_word_dash_3 | chair-ski-admit |  
+| bip_39_word_dash_4 | chair-ski-admit-light |  
+| bip_39_word_dash_5 | chair-ski-admit-light-unhappy |  
+| bip_39_word_dash_6 | chair-ski-admit-light-unhappy-siege |  
+| bip_39_word_dash_7 | chair-ski-admit-light-unhappy-siege-play |  
+| bip_39_word_dash_8 | chair-ski-admit-light-unhappy-siege-play-happy |  
+| bip_39_word_dash_9 | chair-ski-admit-light-unhappy-siege-play-happy-open |  
 | bip_39_word_new_br_1 | chair |  
 | bip_39_word_new_br_10 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush |  
 | bip_39_word_new_br_11 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush<br>excess |  
@@ -147,6 +159,18 @@ open |
 | bip_39_word_space_7 | chair ski admit light unhappy siege play |  
 | bip_39_word_space_8 | chair ski admit light unhappy siege play happy |  
 | bip_39_word_space_9 | chair ski admit light unhappy siege play happy open |  
+| bip_39_word_underscore_1 | chair |  
+| bip_39_word_underscore_10 | chair_ski_admit_light_unhappy_siege_play_happy_open_crush |  
+| bip_39_word_underscore_11 | chair_ski_admit_light_unhappy_siege_play_happy_open_crush_excess |  
+| bip_39_word_underscore_12 | chair_ski_admit_light_unhappy_siege_play_happy_open_crush_excess_artefact |  
+| bip_39_word_underscore_2 | chair_ski |  
+| bip_39_word_underscore_3 | chair_ski_admit |  
+| bip_39_word_underscore_4 | chair_ski_admit_light |  
+| bip_39_word_underscore_5 | chair_ski_admit_light_unhappy |  
+| bip_39_word_underscore_6 | chair_ski_admit_light_unhappy_siege |  
+| bip_39_word_underscore_7 | chair_ski_admit_light_unhappy_siege_play |  
+| bip_39_word_underscore_8 | chair_ski_admit_light_unhappy_siege_play_happy |  
+| bip_39_word_underscore_9 | chair_ski_admit_light_unhappy_siege_play_happy_open |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

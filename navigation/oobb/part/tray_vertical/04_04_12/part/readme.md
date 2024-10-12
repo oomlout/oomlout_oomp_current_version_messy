@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | green |  
+| bip_39_word_dash_10 | green-easy-solution-confirm-any-regret-buffalo-hole-evoke-peanut |  
+| bip_39_word_dash_11 | green-easy-solution-confirm-any-regret-buffalo-hole-evoke-peanut-when |  
+| bip_39_word_dash_12 | green-easy-solution-confirm-any-regret-buffalo-hole-evoke-peanut-when-arch |  
+| bip_39_word_dash_2 | green-easy |  
+| bip_39_word_dash_3 | green-easy-solution |  
+| bip_39_word_dash_4 | green-easy-solution-confirm |  
+| bip_39_word_dash_5 | green-easy-solution-confirm-any |  
+| bip_39_word_dash_6 | green-easy-solution-confirm-any-regret |  
+| bip_39_word_dash_7 | green-easy-solution-confirm-any-regret-buffalo |  
+| bip_39_word_dash_8 | green-easy-solution-confirm-any-regret-buffalo-hole |  
+| bip_39_word_dash_9 | green-easy-solution-confirm-any-regret-buffalo-hole-evoke |  
 | bip_39_word_new_br_1 | green |  
 | bip_39_word_new_br_10 | green<br>easy<br>solution<br>confirm<br>any<br>regret<br>buffalo<br>hole<br>evoke<br>peanut |  
 | bip_39_word_new_br_11 | green<br>easy<br>solution<br>confirm<br>any<br>regret<br>buffalo<br>hole<br>evoke<br>peanut<br>when |  
@@ -147,6 +159,18 @@ evoke |
 | bip_39_word_space_7 | green easy solution confirm any regret buffalo |  
 | bip_39_word_space_8 | green easy solution confirm any regret buffalo hole |  
 | bip_39_word_space_9 | green easy solution confirm any regret buffalo hole evoke |  
+| bip_39_word_underscore_1 | green |  
+| bip_39_word_underscore_10 | green_easy_solution_confirm_any_regret_buffalo_hole_evoke_peanut |  
+| bip_39_word_underscore_11 | green_easy_solution_confirm_any_regret_buffalo_hole_evoke_peanut_when |  
+| bip_39_word_underscore_12 | green_easy_solution_confirm_any_regret_buffalo_hole_evoke_peanut_when_arch |  
+| bip_39_word_underscore_2 | green_easy |  
+| bip_39_word_underscore_3 | green_easy_solution |  
+| bip_39_word_underscore_4 | green_easy_solution_confirm |  
+| bip_39_word_underscore_5 | green_easy_solution_confirm_any |  
+| bip_39_word_underscore_6 | green_easy_solution_confirm_any_regret |  
+| bip_39_word_underscore_7 | green_easy_solution_confirm_any_regret_buffalo |  
+| bip_39_word_underscore_8 | green_easy_solution_confirm_any_regret_buffalo_hole |  
+| bip_39_word_underscore_9 | green_easy_solution_confirm_any_regret_buffalo_hole_evoke |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

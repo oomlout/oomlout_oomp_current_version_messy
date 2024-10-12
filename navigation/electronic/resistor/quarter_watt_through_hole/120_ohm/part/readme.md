@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | april |  
+| bip_39_word_dash_10 | april-scout-income-general-shoe-laugh-crawl-replace-lyrics-cactus |  
+| bip_39_word_dash_11 | april-scout-income-general-shoe-laugh-crawl-replace-lyrics-cactus-leave |  
+| bip_39_word_dash_12 | april-scout-income-general-shoe-laugh-crawl-replace-lyrics-cactus-leave-apple |  
+| bip_39_word_dash_2 | april-scout |  
+| bip_39_word_dash_3 | april-scout-income |  
+| bip_39_word_dash_4 | april-scout-income-general |  
+| bip_39_word_dash_5 | april-scout-income-general-shoe |  
+| bip_39_word_dash_6 | april-scout-income-general-shoe-laugh |  
+| bip_39_word_dash_7 | april-scout-income-general-shoe-laugh-crawl |  
+| bip_39_word_dash_8 | april-scout-income-general-shoe-laugh-crawl-replace |  
+| bip_39_word_dash_9 | april-scout-income-general-shoe-laugh-crawl-replace-lyrics |  
 | bip_39_word_new_br_1 | april |  
 | bip_39_word_new_br_10 | april<br>scout<br>income<br>general<br>shoe<br>laugh<br>crawl<br>replace<br>lyrics<br>cactus |  
 | bip_39_word_new_br_11 | april<br>scout<br>income<br>general<br>shoe<br>laugh<br>crawl<br>replace<br>lyrics<br>cactus<br>leave |  
@@ -147,6 +159,18 @@ lyrics |
 | bip_39_word_space_7 | april scout income general shoe laugh crawl |  
 | bip_39_word_space_8 | april scout income general shoe laugh crawl replace |  
 | bip_39_word_space_9 | april scout income general shoe laugh crawl replace lyrics |  
+| bip_39_word_underscore_1 | april |  
+| bip_39_word_underscore_10 | april_scout_income_general_shoe_laugh_crawl_replace_lyrics_cactus |  
+| bip_39_word_underscore_11 | april_scout_income_general_shoe_laugh_crawl_replace_lyrics_cactus_leave |  
+| bip_39_word_underscore_12 | april_scout_income_general_shoe_laugh_crawl_replace_lyrics_cactus_leave_apple |  
+| bip_39_word_underscore_2 | april_scout |  
+| bip_39_word_underscore_3 | april_scout_income |  
+| bip_39_word_underscore_4 | april_scout_income_general |  
+| bip_39_word_underscore_5 | april_scout_income_general_shoe |  
+| bip_39_word_underscore_6 | april_scout_income_general_shoe_laugh |  
+| bip_39_word_underscore_7 | april_scout_income_general_shoe_laugh_crawl |  
+| bip_39_word_underscore_8 | april_scout_income_general_shoe_laugh_crawl_replace |  
+| bip_39_word_underscore_9 | april_scout_income_general_shoe_laugh_crawl_replace_lyrics |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

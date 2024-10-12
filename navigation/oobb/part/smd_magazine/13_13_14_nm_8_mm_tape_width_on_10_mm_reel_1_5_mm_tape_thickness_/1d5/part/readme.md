@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fox |  
+| bip_39_word_dash_10 | fox-degree-oxygen-culture-vital-fresh-basket-vault-athlete-panda |  
+| bip_39_word_dash_11 | fox-degree-oxygen-culture-vital-fresh-basket-vault-athlete-panda-popular |  
+| bip_39_word_dash_12 | fox-degree-oxygen-culture-vital-fresh-basket-vault-athlete-panda-popular-another |  
+| bip_39_word_dash_2 | fox-degree |  
+| bip_39_word_dash_3 | fox-degree-oxygen |  
+| bip_39_word_dash_4 | fox-degree-oxygen-culture |  
+| bip_39_word_dash_5 | fox-degree-oxygen-culture-vital |  
+| bip_39_word_dash_6 | fox-degree-oxygen-culture-vital-fresh |  
+| bip_39_word_dash_7 | fox-degree-oxygen-culture-vital-fresh-basket |  
+| bip_39_word_dash_8 | fox-degree-oxygen-culture-vital-fresh-basket-vault |  
+| bip_39_word_dash_9 | fox-degree-oxygen-culture-vital-fresh-basket-vault-athlete |  
 | bip_39_word_new_br_1 | fox |  
 | bip_39_word_new_br_10 | fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault<br>athlete<br>panda |  
 | bip_39_word_new_br_11 | fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault<br>athlete<br>panda<br>popular |  
@@ -147,6 +159,18 @@ athlete |
 | bip_39_word_space_7 | fox degree oxygen culture vital fresh basket |  
 | bip_39_word_space_8 | fox degree oxygen culture vital fresh basket vault |  
 | bip_39_word_space_9 | fox degree oxygen culture vital fresh basket vault athlete |  
+| bip_39_word_underscore_1 | fox |  
+| bip_39_word_underscore_10 | fox_degree_oxygen_culture_vital_fresh_basket_vault_athlete_panda |  
+| bip_39_word_underscore_11 | fox_degree_oxygen_culture_vital_fresh_basket_vault_athlete_panda_popular |  
+| bip_39_word_underscore_12 | fox_degree_oxygen_culture_vital_fresh_basket_vault_athlete_panda_popular_another |  
+| bip_39_word_underscore_2 | fox_degree |  
+| bip_39_word_underscore_3 | fox_degree_oxygen |  
+| bip_39_word_underscore_4 | fox_degree_oxygen_culture |  
+| bip_39_word_underscore_5 | fox_degree_oxygen_culture_vital |  
+| bip_39_word_underscore_6 | fox_degree_oxygen_culture_vital_fresh |  
+| bip_39_word_underscore_7 | fox_degree_oxygen_culture_vital_fresh_basket |  
+| bip_39_word_underscore_8 | fox_degree_oxygen_culture_vital_fresh_basket_vault |  
+| bip_39_word_underscore_9 | fox_degree_oxygen_culture_vital_fresh_basket_vault_athlete |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

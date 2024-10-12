@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | service |  
+| bip_39_word_dash_10 | service-ask-sting-throw-curious-carpet-panther-order-flight-depend |  
+| bip_39_word_dash_11 | service-ask-sting-throw-curious-carpet-panther-order-flight-depend-liberty |  
+| bip_39_word_dash_12 | service-ask-sting-throw-curious-carpet-panther-order-flight-depend-liberty-artist |  
+| bip_39_word_dash_2 | service-ask |  
+| bip_39_word_dash_3 | service-ask-sting |  
+| bip_39_word_dash_4 | service-ask-sting-throw |  
+| bip_39_word_dash_5 | service-ask-sting-throw-curious |  
+| bip_39_word_dash_6 | service-ask-sting-throw-curious-carpet |  
+| bip_39_word_dash_7 | service-ask-sting-throw-curious-carpet-panther |  
+| bip_39_word_dash_8 | service-ask-sting-throw-curious-carpet-panther-order |  
+| bip_39_word_dash_9 | service-ask-sting-throw-curious-carpet-panther-order-flight |  
 | bip_39_word_new_br_1 | service |  
 | bip_39_word_new_br_10 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend |  
 | bip_39_word_new_br_11 | service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend<br>liberty |  
@@ -147,6 +159,18 @@ flight |
 | bip_39_word_space_7 | service ask sting throw curious carpet panther |  
 | bip_39_word_space_8 | service ask sting throw curious carpet panther order |  
 | bip_39_word_space_9 | service ask sting throw curious carpet panther order flight |  
+| bip_39_word_underscore_1 | service |  
+| bip_39_word_underscore_10 | service_ask_sting_throw_curious_carpet_panther_order_flight_depend |  
+| bip_39_word_underscore_11 | service_ask_sting_throw_curious_carpet_panther_order_flight_depend_liberty |  
+| bip_39_word_underscore_12 | service_ask_sting_throw_curious_carpet_panther_order_flight_depend_liberty_artist |  
+| bip_39_word_underscore_2 | service_ask |  
+| bip_39_word_underscore_3 | service_ask_sting |  
+| bip_39_word_underscore_4 | service_ask_sting_throw |  
+| bip_39_word_underscore_5 | service_ask_sting_throw_curious |  
+| bip_39_word_underscore_6 | service_ask_sting_throw_curious_carpet |  
+| bip_39_word_underscore_7 | service_ask_sting_throw_curious_carpet_panther |  
+| bip_39_word_underscore_8 | service_ask_sting_throw_curious_carpet_panther_order |  
+| bip_39_word_underscore_9 | service_ask_sting_throw_curious_carpet_panther_order_flight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

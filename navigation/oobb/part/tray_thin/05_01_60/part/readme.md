@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eyebrow |  
+| bip_39_word_dash_10 | eyebrow-submit-quarter-emerge-agent-pave-below-slice-swift-slush |  
+| bip_39_word_dash_11 | eyebrow-submit-quarter-emerge-agent-pave-below-slice-swift-slush-air |  
+| bip_39_word_dash_12 | eyebrow-submit-quarter-emerge-agent-pave-below-slice-swift-slush-air-aunt |  
+| bip_39_word_dash_2 | eyebrow-submit |  
+| bip_39_word_dash_3 | eyebrow-submit-quarter |  
+| bip_39_word_dash_4 | eyebrow-submit-quarter-emerge |  
+| bip_39_word_dash_5 | eyebrow-submit-quarter-emerge-agent |  
+| bip_39_word_dash_6 | eyebrow-submit-quarter-emerge-agent-pave |  
+| bip_39_word_dash_7 | eyebrow-submit-quarter-emerge-agent-pave-below |  
+| bip_39_word_dash_8 | eyebrow-submit-quarter-emerge-agent-pave-below-slice |  
+| bip_39_word_dash_9 | eyebrow-submit-quarter-emerge-agent-pave-below-slice-swift |  
 | bip_39_word_new_br_1 | eyebrow |  
 | bip_39_word_new_br_10 | eyebrow<br>submit<br>quarter<br>emerge<br>agent<br>pave<br>below<br>slice<br>swift<br>slush |  
 | bip_39_word_new_br_11 | eyebrow<br>submit<br>quarter<br>emerge<br>agent<br>pave<br>below<br>slice<br>swift<br>slush<br>air |  
@@ -147,6 +159,18 @@ swift |
 | bip_39_word_space_7 | eyebrow submit quarter emerge agent pave below |  
 | bip_39_word_space_8 | eyebrow submit quarter emerge agent pave below slice |  
 | bip_39_word_space_9 | eyebrow submit quarter emerge agent pave below slice swift |  
+| bip_39_word_underscore_1 | eyebrow |  
+| bip_39_word_underscore_10 | eyebrow_submit_quarter_emerge_agent_pave_below_slice_swift_slush |  
+| bip_39_word_underscore_11 | eyebrow_submit_quarter_emerge_agent_pave_below_slice_swift_slush_air |  
+| bip_39_word_underscore_12 | eyebrow_submit_quarter_emerge_agent_pave_below_slice_swift_slush_air_aunt |  
+| bip_39_word_underscore_2 | eyebrow_submit |  
+| bip_39_word_underscore_3 | eyebrow_submit_quarter |  
+| bip_39_word_underscore_4 | eyebrow_submit_quarter_emerge |  
+| bip_39_word_underscore_5 | eyebrow_submit_quarter_emerge_agent |  
+| bip_39_word_underscore_6 | eyebrow_submit_quarter_emerge_agent_pave |  
+| bip_39_word_underscore_7 | eyebrow_submit_quarter_emerge_agent_pave_below |  
+| bip_39_word_underscore_8 | eyebrow_submit_quarter_emerge_agent_pave_below_slice |  
+| bip_39_word_underscore_9 | eyebrow_submit_quarter_emerge_agent_pave_below_slice_swift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

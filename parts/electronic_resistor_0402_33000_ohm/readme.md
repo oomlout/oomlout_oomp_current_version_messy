@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shaft |  
+| bip_39_word_dash_10 | shaft-hollow-win-ivory-bench-rhythm-item-actor-dynamic-device |  
+| bip_39_word_dash_11 | shaft-hollow-win-ivory-bench-rhythm-item-actor-dynamic-device-appear |  
+| bip_39_word_dash_12 | shaft-hollow-win-ivory-bench-rhythm-item-actor-dynamic-device-appear-atom |  
+| bip_39_word_dash_2 | shaft-hollow |  
+| bip_39_word_dash_3 | shaft-hollow-win |  
+| bip_39_word_dash_4 | shaft-hollow-win-ivory |  
+| bip_39_word_dash_5 | shaft-hollow-win-ivory-bench |  
+| bip_39_word_dash_6 | shaft-hollow-win-ivory-bench-rhythm |  
+| bip_39_word_dash_7 | shaft-hollow-win-ivory-bench-rhythm-item |  
+| bip_39_word_dash_8 | shaft-hollow-win-ivory-bench-rhythm-item-actor |  
+| bip_39_word_dash_9 | shaft-hollow-win-ivory-bench-rhythm-item-actor-dynamic |  
 | bip_39_word_new_br_1 | shaft |  
 | bip_39_word_new_br_10 | shaft<br>hollow<br>win<br>ivory<br>bench<br>rhythm<br>item<br>actor<br>dynamic<br>device |  
 | bip_39_word_new_br_11 | shaft<br>hollow<br>win<br>ivory<br>bench<br>rhythm<br>item<br>actor<br>dynamic<br>device<br>appear |  
@@ -147,6 +159,18 @@ dynamic |
 | bip_39_word_space_7 | shaft hollow win ivory bench rhythm item |  
 | bip_39_word_space_8 | shaft hollow win ivory bench rhythm item actor |  
 | bip_39_word_space_9 | shaft hollow win ivory bench rhythm item actor dynamic |  
+| bip_39_word_underscore_1 | shaft |  
+| bip_39_word_underscore_10 | shaft_hollow_win_ivory_bench_rhythm_item_actor_dynamic_device |  
+| bip_39_word_underscore_11 | shaft_hollow_win_ivory_bench_rhythm_item_actor_dynamic_device_appear |  
+| bip_39_word_underscore_12 | shaft_hollow_win_ivory_bench_rhythm_item_actor_dynamic_device_appear_atom |  
+| bip_39_word_underscore_2 | shaft_hollow |  
+| bip_39_word_underscore_3 | shaft_hollow_win |  
+| bip_39_word_underscore_4 | shaft_hollow_win_ivory |  
+| bip_39_word_underscore_5 | shaft_hollow_win_ivory_bench |  
+| bip_39_word_underscore_6 | shaft_hollow_win_ivory_bench_rhythm |  
+| bip_39_word_underscore_7 | shaft_hollow_win_ivory_bench_rhythm_item |  
+| bip_39_word_underscore_8 | shaft_hollow_win_ivory_bench_rhythm_item_actor |  
+| bip_39_word_underscore_9 | shaft_hollow_win_ivory_bench_rhythm_item_actor_dynamic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

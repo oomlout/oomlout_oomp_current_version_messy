@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rent |  
+| bip_39_word_dash_10 | rent-cheese-shuffle-fox-damage-debate-december-impact-voyage-crop |  
+| bip_39_word_dash_11 | rent-cheese-shuffle-fox-damage-debate-december-impact-voyage-crop-alcohol |  
+| bip_39_word_dash_12 | rent-cheese-shuffle-fox-damage-debate-december-impact-voyage-crop-alcohol-attack |  
+| bip_39_word_dash_2 | rent-cheese |  
+| bip_39_word_dash_3 | rent-cheese-shuffle |  
+| bip_39_word_dash_4 | rent-cheese-shuffle-fox |  
+| bip_39_word_dash_5 | rent-cheese-shuffle-fox-damage |  
+| bip_39_word_dash_6 | rent-cheese-shuffle-fox-damage-debate |  
+| bip_39_word_dash_7 | rent-cheese-shuffle-fox-damage-debate-december |  
+| bip_39_word_dash_8 | rent-cheese-shuffle-fox-damage-debate-december-impact |  
+| bip_39_word_dash_9 | rent-cheese-shuffle-fox-damage-debate-december-impact-voyage |  
 | bip_39_word_new_br_1 | rent |  
 | bip_39_word_new_br_10 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact<br>voyage<br>crop |  
 | bip_39_word_new_br_11 | rent<br>cheese<br>shuffle<br>fox<br>damage<br>debate<br>december<br>impact<br>voyage<br>crop<br>alcohol |  
@@ -147,6 +159,18 @@ voyage |
 | bip_39_word_space_7 | rent cheese shuffle fox damage debate december |  
 | bip_39_word_space_8 | rent cheese shuffle fox damage debate december impact |  
 | bip_39_word_space_9 | rent cheese shuffle fox damage debate december impact voyage |  
+| bip_39_word_underscore_1 | rent |  
+| bip_39_word_underscore_10 | rent_cheese_shuffle_fox_damage_debate_december_impact_voyage_crop |  
+| bip_39_word_underscore_11 | rent_cheese_shuffle_fox_damage_debate_december_impact_voyage_crop_alcohol |  
+| bip_39_word_underscore_12 | rent_cheese_shuffle_fox_damage_debate_december_impact_voyage_crop_alcohol_attack |  
+| bip_39_word_underscore_2 | rent_cheese |  
+| bip_39_word_underscore_3 | rent_cheese_shuffle |  
+| bip_39_word_underscore_4 | rent_cheese_shuffle_fox |  
+| bip_39_word_underscore_5 | rent_cheese_shuffle_fox_damage |  
+| bip_39_word_underscore_6 | rent_cheese_shuffle_fox_damage_debate |  
+| bip_39_word_underscore_7 | rent_cheese_shuffle_fox_damage_debate_december |  
+| bip_39_word_underscore_8 | rent_cheese_shuffle_fox_damage_debate_december_impact |  
+| bip_39_word_underscore_9 | rent_cheese_shuffle_fox_damage_debate_december_impact_voyage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

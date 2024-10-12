@@ -1,3 +1,15 @@
+bip_39_word_dash_1: salt
+bip_39_word_dash_10: salt-evidence-margin-canvas-slender-release-kitten-resource-salute-sunset
+bip_39_word_dash_11: salt-evidence-margin-canvas-slender-release-kitten-resource-salute-sunset-jazz
+bip_39_word_dash_12: salt-evidence-margin-canvas-slender-release-kitten-resource-salute-sunset-jazz-add
+bip_39_word_dash_2: salt-evidence
+bip_39_word_dash_3: salt-evidence-margin
+bip_39_word_dash_4: salt-evidence-margin-canvas
+bip_39_word_dash_5: salt-evidence-margin-canvas-slender
+bip_39_word_dash_6: salt-evidence-margin-canvas-slender-release
+bip_39_word_dash_7: salt-evidence-margin-canvas-slender-release-kitten
+bip_39_word_dash_8: salt-evidence-margin-canvas-slender-release-kitten-resource
+bip_39_word_dash_9: salt-evidence-margin-canvas-slender-release-kitten-resource-salute
 bip_39_word_new_br_1: salt
 bip_39_word_new_br_10: salt<br>evidence<br>margin<br>canvas<br>slender<br>release<br>kitten<br>resource<br>salute<br>sunset
 bip_39_word_new_br_11: salt<br>evidence<br>margin<br>canvas<br>slender<br>release<br>kitten<br>resource<br>salute<br>sunset<br>jazz
@@ -194,6 +206,18 @@ bip_39_word_space_6: salt evidence margin canvas slender release
 bip_39_word_space_7: salt evidence margin canvas slender release kitten
 bip_39_word_space_8: salt evidence margin canvas slender release kitten resource
 bip_39_word_space_9: salt evidence margin canvas slender release kitten resource salute
+bip_39_word_underscore_1: salt
+bip_39_word_underscore_10: salt_evidence_margin_canvas_slender_release_kitten_resource_salute_sunset
+bip_39_word_underscore_11: salt_evidence_margin_canvas_slender_release_kitten_resource_salute_sunset_jazz
+bip_39_word_underscore_12: salt_evidence_margin_canvas_slender_release_kitten_resource_salute_sunset_jazz_add
+bip_39_word_underscore_2: salt_evidence
+bip_39_word_underscore_3: salt_evidence_margin
+bip_39_word_underscore_4: salt_evidence_margin_canvas
+bip_39_word_underscore_5: salt_evidence_margin_canvas_slender
+bip_39_word_underscore_6: salt_evidence_margin_canvas_slender_release
+bip_39_word_underscore_7: salt_evidence_margin_canvas_slender_release_kitten
+bip_39_word_underscore_8: salt_evidence_margin_canvas_slender_release_kitten_resource
+bip_39_word_underscore_9: salt_evidence_margin_canvas_slender_release_kitten_resource_salute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | during |  
+| bip_39_word_dash_10 | during-law-champion-oblige-topic-faculty-seat-gossip-crumble-chest |  
+| bip_39_word_dash_11 | during-law-champion-oblige-topic-faculty-seat-gossip-crumble-chest-still |  
+| bip_39_word_dash_12 | during-law-champion-oblige-topic-faculty-seat-gossip-crumble-chest-still-achieve |  
+| bip_39_word_dash_2 | during-law |  
+| bip_39_word_dash_3 | during-law-champion |  
+| bip_39_word_dash_4 | during-law-champion-oblige |  
+| bip_39_word_dash_5 | during-law-champion-oblige-topic |  
+| bip_39_word_dash_6 | during-law-champion-oblige-topic-faculty |  
+| bip_39_word_dash_7 | during-law-champion-oblige-topic-faculty-seat |  
+| bip_39_word_dash_8 | during-law-champion-oblige-topic-faculty-seat-gossip |  
+| bip_39_word_dash_9 | during-law-champion-oblige-topic-faculty-seat-gossip-crumble |  
 | bip_39_word_new_br_1 | during |  
 | bip_39_word_new_br_10 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip<br>crumble<br>chest |  
 | bip_39_word_new_br_11 | during<br>law<br>champion<br>oblige<br>topic<br>faculty<br>seat<br>gossip<br>crumble<br>chest<br>still |  
@@ -147,6 +159,18 @@ crumble |
 | bip_39_word_space_7 | during law champion oblige topic faculty seat |  
 | bip_39_word_space_8 | during law champion oblige topic faculty seat gossip |  
 | bip_39_word_space_9 | during law champion oblige topic faculty seat gossip crumble |  
+| bip_39_word_underscore_1 | during |  
+| bip_39_word_underscore_10 | during_law_champion_oblige_topic_faculty_seat_gossip_crumble_chest |  
+| bip_39_word_underscore_11 | during_law_champion_oblige_topic_faculty_seat_gossip_crumble_chest_still |  
+| bip_39_word_underscore_12 | during_law_champion_oblige_topic_faculty_seat_gossip_crumble_chest_still_achieve |  
+| bip_39_word_underscore_2 | during_law |  
+| bip_39_word_underscore_3 | during_law_champion |  
+| bip_39_word_underscore_4 | during_law_champion_oblige |  
+| bip_39_word_underscore_5 | during_law_champion_oblige_topic |  
+| bip_39_word_underscore_6 | during_law_champion_oblige_topic_faculty |  
+| bip_39_word_underscore_7 | during_law_champion_oblige_topic_faculty_seat |  
+| bip_39_word_underscore_8 | during_law_champion_oblige_topic_faculty_seat_gossip |  
+| bip_39_word_underscore_9 | during_law_champion_oblige_topic_faculty_seat_gossip_crumble |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

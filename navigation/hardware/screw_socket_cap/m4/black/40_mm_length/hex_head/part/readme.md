@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | protect |  
+| bip_39_word_dash_10 | protect-edit-soap-moral-other-struggle-bean-soda-vintage-enter |  
+| bip_39_word_dash_11 | protect-edit-soap-moral-other-struggle-bean-soda-vintage-enter-mass |  
+| bip_39_word_dash_12 | protect-edit-soap-moral-other-struggle-bean-soda-vintage-enter-mass-advice |  
+| bip_39_word_dash_2 | protect-edit |  
+| bip_39_word_dash_3 | protect-edit-soap |  
+| bip_39_word_dash_4 | protect-edit-soap-moral |  
+| bip_39_word_dash_5 | protect-edit-soap-moral-other |  
+| bip_39_word_dash_6 | protect-edit-soap-moral-other-struggle |  
+| bip_39_word_dash_7 | protect-edit-soap-moral-other-struggle-bean |  
+| bip_39_word_dash_8 | protect-edit-soap-moral-other-struggle-bean-soda |  
+| bip_39_word_dash_9 | protect-edit-soap-moral-other-struggle-bean-soda-vintage |  
 | bip_39_word_new_br_1 | protect |  
 | bip_39_word_new_br_10 | protect<br>edit<br>soap<br>moral<br>other<br>struggle<br>bean<br>soda<br>vintage<br>enter |  
 | bip_39_word_new_br_11 | protect<br>edit<br>soap<br>moral<br>other<br>struggle<br>bean<br>soda<br>vintage<br>enter<br>mass |  
@@ -147,6 +159,18 @@ vintage |
 | bip_39_word_space_7 | protect edit soap moral other struggle bean |  
 | bip_39_word_space_8 | protect edit soap moral other struggle bean soda |  
 | bip_39_word_space_9 | protect edit soap moral other struggle bean soda vintage |  
+| bip_39_word_underscore_1 | protect |  
+| bip_39_word_underscore_10 | protect_edit_soap_moral_other_struggle_bean_soda_vintage_enter |  
+| bip_39_word_underscore_11 | protect_edit_soap_moral_other_struggle_bean_soda_vintage_enter_mass |  
+| bip_39_word_underscore_12 | protect_edit_soap_moral_other_struggle_bean_soda_vintage_enter_mass_advice |  
+| bip_39_word_underscore_2 | protect_edit |  
+| bip_39_word_underscore_3 | protect_edit_soap |  
+| bip_39_word_underscore_4 | protect_edit_soap_moral |  
+| bip_39_word_underscore_5 | protect_edit_soap_moral_other |  
+| bip_39_word_underscore_6 | protect_edit_soap_moral_other_struggle |  
+| bip_39_word_underscore_7 | protect_edit_soap_moral_other_struggle_bean |  
+| bip_39_word_underscore_8 | protect_edit_soap_moral_other_struggle_bean_soda |  
+| bip_39_word_underscore_9 | protect_edit_soap_moral_other_struggle_bean_soda_vintage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

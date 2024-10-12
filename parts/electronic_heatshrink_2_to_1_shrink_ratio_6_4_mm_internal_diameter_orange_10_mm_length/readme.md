@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nominee |  
+| bip_39_word_dash_10 | nominee-stay-amazing-rule-hat-fix-client-stick-save-today |  
+| bip_39_word_dash_11 | nominee-stay-amazing-rule-hat-fix-client-stick-save-today-second |  
+| bip_39_word_dash_12 | nominee-stay-amazing-rule-hat-fix-client-stick-save-today-second-assault |  
+| bip_39_word_dash_2 | nominee-stay |  
+| bip_39_word_dash_3 | nominee-stay-amazing |  
+| bip_39_word_dash_4 | nominee-stay-amazing-rule |  
+| bip_39_word_dash_5 | nominee-stay-amazing-rule-hat |  
+| bip_39_word_dash_6 | nominee-stay-amazing-rule-hat-fix |  
+| bip_39_word_dash_7 | nominee-stay-amazing-rule-hat-fix-client |  
+| bip_39_word_dash_8 | nominee-stay-amazing-rule-hat-fix-client-stick |  
+| bip_39_word_dash_9 | nominee-stay-amazing-rule-hat-fix-client-stick-save |  
 | bip_39_word_new_br_1 | nominee |  
 | bip_39_word_new_br_10 | nominee<br>stay<br>amazing<br>rule<br>hat<br>fix<br>client<br>stick<br>save<br>today |  
 | bip_39_word_new_br_11 | nominee<br>stay<br>amazing<br>rule<br>hat<br>fix<br>client<br>stick<br>save<br>today<br>second |  
@@ -147,6 +159,18 @@ save |
 | bip_39_word_space_7 | nominee stay amazing rule hat fix client |  
 | bip_39_word_space_8 | nominee stay amazing rule hat fix client stick |  
 | bip_39_word_space_9 | nominee stay amazing rule hat fix client stick save |  
+| bip_39_word_underscore_1 | nominee |  
+| bip_39_word_underscore_10 | nominee_stay_amazing_rule_hat_fix_client_stick_save_today |  
+| bip_39_word_underscore_11 | nominee_stay_amazing_rule_hat_fix_client_stick_save_today_second |  
+| bip_39_word_underscore_12 | nominee_stay_amazing_rule_hat_fix_client_stick_save_today_second_assault |  
+| bip_39_word_underscore_2 | nominee_stay |  
+| bip_39_word_underscore_3 | nominee_stay_amazing |  
+| bip_39_word_underscore_4 | nominee_stay_amazing_rule |  
+| bip_39_word_underscore_5 | nominee_stay_amazing_rule_hat |  
+| bip_39_word_underscore_6 | nominee_stay_amazing_rule_hat_fix |  
+| bip_39_word_underscore_7 | nominee_stay_amazing_rule_hat_fix_client |  
+| bip_39_word_underscore_8 | nominee_stay_amazing_rule_hat_fix_client_stick |  
+| bip_39_word_underscore_9 | nominee_stay_amazing_rule_hat_fix_client_stick_save |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

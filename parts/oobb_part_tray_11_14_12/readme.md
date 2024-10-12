@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | call |  
+| bip_39_word_dash_10 | call-term-army-clerk-sphere-oak-fork-old-laugh-ripple |  
+| bip_39_word_dash_11 | call-term-army-clerk-sphere-oak-fork-old-laugh-ripple-farm |  
+| bip_39_word_dash_12 | call-term-army-clerk-sphere-oak-fork-old-laugh-ripple-farm-abuse |  
+| bip_39_word_dash_2 | call-term |  
+| bip_39_word_dash_3 | call-term-army |  
+| bip_39_word_dash_4 | call-term-army-clerk |  
+| bip_39_word_dash_5 | call-term-army-clerk-sphere |  
+| bip_39_word_dash_6 | call-term-army-clerk-sphere-oak |  
+| bip_39_word_dash_7 | call-term-army-clerk-sphere-oak-fork |  
+| bip_39_word_dash_8 | call-term-army-clerk-sphere-oak-fork-old |  
+| bip_39_word_dash_9 | call-term-army-clerk-sphere-oak-fork-old-laugh |  
 | bip_39_word_new_br_1 | call |  
 | bip_39_word_new_br_10 | call<br>term<br>army<br>clerk<br>sphere<br>oak<br>fork<br>old<br>laugh<br>ripple |  
 | bip_39_word_new_br_11 | call<br>term<br>army<br>clerk<br>sphere<br>oak<br>fork<br>old<br>laugh<br>ripple<br>farm |  
@@ -147,6 +159,18 @@ laugh |
 | bip_39_word_space_7 | call term army clerk sphere oak fork |  
 | bip_39_word_space_8 | call term army clerk sphere oak fork old |  
 | bip_39_word_space_9 | call term army clerk sphere oak fork old laugh |  
+| bip_39_word_underscore_1 | call |  
+| bip_39_word_underscore_10 | call_term_army_clerk_sphere_oak_fork_old_laugh_ripple |  
+| bip_39_word_underscore_11 | call_term_army_clerk_sphere_oak_fork_old_laugh_ripple_farm |  
+| bip_39_word_underscore_12 | call_term_army_clerk_sphere_oak_fork_old_laugh_ripple_farm_abuse |  
+| bip_39_word_underscore_2 | call_term |  
+| bip_39_word_underscore_3 | call_term_army |  
+| bip_39_word_underscore_4 | call_term_army_clerk |  
+| bip_39_word_underscore_5 | call_term_army_clerk_sphere |  
+| bip_39_word_underscore_6 | call_term_army_clerk_sphere_oak |  
+| bip_39_word_underscore_7 | call_term_army_clerk_sphere_oak_fork |  
+| bip_39_word_underscore_8 | call_term_army_clerk_sphere_oak_fork_old |  
+| bip_39_word_underscore_9 | call_term_army_clerk_sphere_oak_fork_old_laugh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

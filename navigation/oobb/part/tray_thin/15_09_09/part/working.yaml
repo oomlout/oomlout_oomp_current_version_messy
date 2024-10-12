@@ -1,3 +1,15 @@
+bip_39_word_dash_1: symbol
+bip_39_word_dash_10: symbol-basket-memory-machine-oak-inherit-wreck-connect-bike-primary
+bip_39_word_dash_11: symbol-basket-memory-machine-oak-inherit-wreck-connect-bike-primary-dutch
+bip_39_word_dash_12: symbol-basket-memory-machine-oak-inherit-wreck-connect-bike-primary-dutch-ancient
+bip_39_word_dash_2: symbol-basket
+bip_39_word_dash_3: symbol-basket-memory
+bip_39_word_dash_4: symbol-basket-memory-machine
+bip_39_word_dash_5: symbol-basket-memory-machine-oak
+bip_39_word_dash_6: symbol-basket-memory-machine-oak-inherit
+bip_39_word_dash_7: symbol-basket-memory-machine-oak-inherit-wreck
+bip_39_word_dash_8: symbol-basket-memory-machine-oak-inherit-wreck-connect
+bip_39_word_dash_9: symbol-basket-memory-machine-oak-inherit-wreck-connect-bike
 bip_39_word_new_br_1: symbol
 bip_39_word_new_br_10: symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect<br>bike<br>primary
 bip_39_word_new_br_11: symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect<br>bike<br>primary<br>dutch
@@ -194,6 +206,18 @@ bip_39_word_space_6: symbol basket memory machine oak inherit
 bip_39_word_space_7: symbol basket memory machine oak inherit wreck
 bip_39_word_space_8: symbol basket memory machine oak inherit wreck connect
 bip_39_word_space_9: symbol basket memory machine oak inherit wreck connect bike
+bip_39_word_underscore_1: symbol
+bip_39_word_underscore_10: symbol_basket_memory_machine_oak_inherit_wreck_connect_bike_primary
+bip_39_word_underscore_11: symbol_basket_memory_machine_oak_inherit_wreck_connect_bike_primary_dutch
+bip_39_word_underscore_12: symbol_basket_memory_machine_oak_inherit_wreck_connect_bike_primary_dutch_ancient
+bip_39_word_underscore_2: symbol_basket
+bip_39_word_underscore_3: symbol_basket_memory
+bip_39_word_underscore_4: symbol_basket_memory_machine
+bip_39_word_underscore_5: symbol_basket_memory_machine_oak
+bip_39_word_underscore_6: symbol_basket_memory_machine_oak_inherit
+bip_39_word_underscore_7: symbol_basket_memory_machine_oak_inherit_wreck
+bip_39_word_underscore_8: symbol_basket_memory_machine_oak_inherit_wreck_connect
+bip_39_word_underscore_9: symbol_basket_memory_machine_oak_inherit_wreck_connect_bike
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

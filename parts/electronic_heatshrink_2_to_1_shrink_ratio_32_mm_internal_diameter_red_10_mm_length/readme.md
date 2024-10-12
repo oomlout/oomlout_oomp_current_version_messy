@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mix |  
+| bip_39_word_dash_10 | mix-endorse-witness-raccoon-close-drastic-muffin-step-stumble-nest |  
+| bip_39_word_dash_11 | mix-endorse-witness-raccoon-close-drastic-muffin-step-stumble-nest-robust |  
+| bip_39_word_dash_12 | mix-endorse-witness-raccoon-close-drastic-muffin-step-stumble-nest-robust-annual |  
+| bip_39_word_dash_2 | mix-endorse |  
+| bip_39_word_dash_3 | mix-endorse-witness |  
+| bip_39_word_dash_4 | mix-endorse-witness-raccoon |  
+| bip_39_word_dash_5 | mix-endorse-witness-raccoon-close |  
+| bip_39_word_dash_6 | mix-endorse-witness-raccoon-close-drastic |  
+| bip_39_word_dash_7 | mix-endorse-witness-raccoon-close-drastic-muffin |  
+| bip_39_word_dash_8 | mix-endorse-witness-raccoon-close-drastic-muffin-step |  
+| bip_39_word_dash_9 | mix-endorse-witness-raccoon-close-drastic-muffin-step-stumble |  
 | bip_39_word_new_br_1 | mix |  
 | bip_39_word_new_br_10 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest |  
 | bip_39_word_new_br_11 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest<br>robust |  
@@ -147,6 +159,18 @@ stumble |
 | bip_39_word_space_7 | mix endorse witness raccoon close drastic muffin |  
 | bip_39_word_space_8 | mix endorse witness raccoon close drastic muffin step |  
 | bip_39_word_space_9 | mix endorse witness raccoon close drastic muffin step stumble |  
+| bip_39_word_underscore_1 | mix |  
+| bip_39_word_underscore_10 | mix_endorse_witness_raccoon_close_drastic_muffin_step_stumble_nest |  
+| bip_39_word_underscore_11 | mix_endorse_witness_raccoon_close_drastic_muffin_step_stumble_nest_robust |  
+| bip_39_word_underscore_12 | mix_endorse_witness_raccoon_close_drastic_muffin_step_stumble_nest_robust_annual |  
+| bip_39_word_underscore_2 | mix_endorse |  
+| bip_39_word_underscore_3 | mix_endorse_witness |  
+| bip_39_word_underscore_4 | mix_endorse_witness_raccoon |  
+| bip_39_word_underscore_5 | mix_endorse_witness_raccoon_close |  
+| bip_39_word_underscore_6 | mix_endorse_witness_raccoon_close_drastic |  
+| bip_39_word_underscore_7 | mix_endorse_witness_raccoon_close_drastic_muffin |  
+| bip_39_word_underscore_8 | mix_endorse_witness_raccoon_close_drastic_muffin_step |  
+| bip_39_word_underscore_9 | mix_endorse_witness_raccoon_close_drastic_muffin_step_stumble |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stamp |  
+| bip_39_word_dash_10 | stamp-leave-blouse-throw-coast-yellow-rail-tiny-supreme-lecture |  
+| bip_39_word_dash_11 | stamp-leave-blouse-throw-coast-yellow-rail-tiny-supreme-lecture-damp |  
+| bip_39_word_dash_12 | stamp-leave-blouse-throw-coast-yellow-rail-tiny-supreme-lecture-damp-amused |  
+| bip_39_word_dash_2 | stamp-leave |  
+| bip_39_word_dash_3 | stamp-leave-blouse |  
+| bip_39_word_dash_4 | stamp-leave-blouse-throw |  
+| bip_39_word_dash_5 | stamp-leave-blouse-throw-coast |  
+| bip_39_word_dash_6 | stamp-leave-blouse-throw-coast-yellow |  
+| bip_39_word_dash_7 | stamp-leave-blouse-throw-coast-yellow-rail |  
+| bip_39_word_dash_8 | stamp-leave-blouse-throw-coast-yellow-rail-tiny |  
+| bip_39_word_dash_9 | stamp-leave-blouse-throw-coast-yellow-rail-tiny-supreme |  
 | bip_39_word_new_br_1 | stamp |  
 | bip_39_word_new_br_10 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny<br>supreme<br>lecture |  
 | bip_39_word_new_br_11 | stamp<br>leave<br>blouse<br>throw<br>coast<br>yellow<br>rail<br>tiny<br>supreme<br>lecture<br>damp |  
@@ -147,6 +159,18 @@ supreme |
 | bip_39_word_space_7 | stamp leave blouse throw coast yellow rail |  
 | bip_39_word_space_8 | stamp leave blouse throw coast yellow rail tiny |  
 | bip_39_word_space_9 | stamp leave blouse throw coast yellow rail tiny supreme |  
+| bip_39_word_underscore_1 | stamp |  
+| bip_39_word_underscore_10 | stamp_leave_blouse_throw_coast_yellow_rail_tiny_supreme_lecture |  
+| bip_39_word_underscore_11 | stamp_leave_blouse_throw_coast_yellow_rail_tiny_supreme_lecture_damp |  
+| bip_39_word_underscore_12 | stamp_leave_blouse_throw_coast_yellow_rail_tiny_supreme_lecture_damp_amused |  
+| bip_39_word_underscore_2 | stamp_leave |  
+| bip_39_word_underscore_3 | stamp_leave_blouse |  
+| bip_39_word_underscore_4 | stamp_leave_blouse_throw |  
+| bip_39_word_underscore_5 | stamp_leave_blouse_throw_coast |  
+| bip_39_word_underscore_6 | stamp_leave_blouse_throw_coast_yellow |  
+| bip_39_word_underscore_7 | stamp_leave_blouse_throw_coast_yellow_rail |  
+| bip_39_word_underscore_8 | stamp_leave_blouse_throw_coast_yellow_rail_tiny |  
+| bip_39_word_underscore_9 | stamp_leave_blouse_throw_coast_yellow_rail_tiny_supreme |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

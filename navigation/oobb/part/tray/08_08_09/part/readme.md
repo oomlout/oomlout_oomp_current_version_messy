@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | zero |  
+| bip_39_word_dash_10 | zero-spot-cinnamon-round-captain-inspire-spot-reject-behave-razor |  
+| bip_39_word_dash_11 | zero-spot-cinnamon-round-captain-inspire-spot-reject-behave-razor-amused |  
+| bip_39_word_dash_12 | zero-spot-cinnamon-round-captain-inspire-spot-reject-behave-razor-amused-acid |  
+| bip_39_word_dash_2 | zero-spot |  
+| bip_39_word_dash_3 | zero-spot-cinnamon |  
+| bip_39_word_dash_4 | zero-spot-cinnamon-round |  
+| bip_39_word_dash_5 | zero-spot-cinnamon-round-captain |  
+| bip_39_word_dash_6 | zero-spot-cinnamon-round-captain-inspire |  
+| bip_39_word_dash_7 | zero-spot-cinnamon-round-captain-inspire-spot |  
+| bip_39_word_dash_8 | zero-spot-cinnamon-round-captain-inspire-spot-reject |  
+| bip_39_word_dash_9 | zero-spot-cinnamon-round-captain-inspire-spot-reject-behave |  
 | bip_39_word_new_br_1 | zero |  
 | bip_39_word_new_br_10 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor |  
 | bip_39_word_new_br_11 | zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor<br>amused |  
@@ -147,6 +159,18 @@ behave |
 | bip_39_word_space_7 | zero spot cinnamon round captain inspire spot |  
 | bip_39_word_space_8 | zero spot cinnamon round captain inspire spot reject |  
 | bip_39_word_space_9 | zero spot cinnamon round captain inspire spot reject behave |  
+| bip_39_word_underscore_1 | zero |  
+| bip_39_word_underscore_10 | zero_spot_cinnamon_round_captain_inspire_spot_reject_behave_razor |  
+| bip_39_word_underscore_11 | zero_spot_cinnamon_round_captain_inspire_spot_reject_behave_razor_amused |  
+| bip_39_word_underscore_12 | zero_spot_cinnamon_round_captain_inspire_spot_reject_behave_razor_amused_acid |  
+| bip_39_word_underscore_2 | zero_spot |  
+| bip_39_word_underscore_3 | zero_spot_cinnamon |  
+| bip_39_word_underscore_4 | zero_spot_cinnamon_round |  
+| bip_39_word_underscore_5 | zero_spot_cinnamon_round_captain |  
+| bip_39_word_underscore_6 | zero_spot_cinnamon_round_captain_inspire |  
+| bip_39_word_underscore_7 | zero_spot_cinnamon_round_captain_inspire_spot |  
+| bip_39_word_underscore_8 | zero_spot_cinnamon_round_captain_inspire_spot_reject |  
+| bip_39_word_underscore_9 | zero_spot_cinnamon_round_captain_inspire_spot_reject_behave |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

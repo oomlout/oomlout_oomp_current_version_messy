@@ -1,3 +1,15 @@
+bip_39_word_dash_1: window
+bip_39_word_dash_10: window-champion-bitter-pottery-shadow-orchard-coast-multiply-reveal-artwork
+bip_39_word_dash_11: window-champion-bitter-pottery-shadow-orchard-coast-multiply-reveal-artwork-wine
+bip_39_word_dash_12: window-champion-bitter-pottery-shadow-orchard-coast-multiply-reveal-artwork-wine-average
+bip_39_word_dash_2: window-champion
+bip_39_word_dash_3: window-champion-bitter
+bip_39_word_dash_4: window-champion-bitter-pottery
+bip_39_word_dash_5: window-champion-bitter-pottery-shadow
+bip_39_word_dash_6: window-champion-bitter-pottery-shadow-orchard
+bip_39_word_dash_7: window-champion-bitter-pottery-shadow-orchard-coast
+bip_39_word_dash_8: window-champion-bitter-pottery-shadow-orchard-coast-multiply
+bip_39_word_dash_9: window-champion-bitter-pottery-shadow-orchard-coast-multiply-reveal
 bip_39_word_new_br_1: window
 bip_39_word_new_br_10: window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply<br>reveal<br>artwork
 bip_39_word_new_br_11: window<br>champion<br>bitter<br>pottery<br>shadow<br>orchard<br>coast<br>multiply<br>reveal<br>artwork<br>wine
@@ -195,6 +207,18 @@ bip_39_word_space_7: window champion bitter pottery shadow orchard coast
 bip_39_word_space_8: window champion bitter pottery shadow orchard coast multiply
 bip_39_word_space_9: window champion bitter pottery shadow orchard coast multiply
   reveal
+bip_39_word_underscore_1: window
+bip_39_word_underscore_10: window_champion_bitter_pottery_shadow_orchard_coast_multiply_reveal_artwork
+bip_39_word_underscore_11: window_champion_bitter_pottery_shadow_orchard_coast_multiply_reveal_artwork_wine
+bip_39_word_underscore_12: window_champion_bitter_pottery_shadow_orchard_coast_multiply_reveal_artwork_wine_average
+bip_39_word_underscore_2: window_champion
+bip_39_word_underscore_3: window_champion_bitter
+bip_39_word_underscore_4: window_champion_bitter_pottery
+bip_39_word_underscore_5: window_champion_bitter_pottery_shadow
+bip_39_word_underscore_6: window_champion_bitter_pottery_shadow_orchard
+bip_39_word_underscore_7: window_champion_bitter_pottery_shadow_orchard_coast
+bip_39_word_underscore_8: window_champion_bitter_pottery_shadow_orchard_coast_multiply
+bip_39_word_underscore_9: window_champion_bitter_pottery_shadow_orchard_coast_multiply_reveal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

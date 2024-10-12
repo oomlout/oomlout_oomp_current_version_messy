@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chimney |  
+| bip_39_word_dash_10 | chimney-label-special-art-position-daring-pony-echo-hurt-luxury |  
+| bip_39_word_dash_11 | chimney-label-special-art-position-daring-pony-echo-hurt-luxury-purse |  
+| bip_39_word_dash_12 | chimney-label-special-art-position-daring-pony-echo-hurt-luxury-purse-absent |  
+| bip_39_word_dash_2 | chimney-label |  
+| bip_39_word_dash_3 | chimney-label-special |  
+| bip_39_word_dash_4 | chimney-label-special-art |  
+| bip_39_word_dash_5 | chimney-label-special-art-position |  
+| bip_39_word_dash_6 | chimney-label-special-art-position-daring |  
+| bip_39_word_dash_7 | chimney-label-special-art-position-daring-pony |  
+| bip_39_word_dash_8 | chimney-label-special-art-position-daring-pony-echo |  
+| bip_39_word_dash_9 | chimney-label-special-art-position-daring-pony-echo-hurt |  
 | bip_39_word_new_br_1 | chimney |  
 | bip_39_word_new_br_10 | chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo<br>hurt<br>luxury |  
 | bip_39_word_new_br_11 | chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo<br>hurt<br>luxury<br>purse |  
@@ -147,6 +159,18 @@ hurt |
 | bip_39_word_space_7 | chimney label special art position daring pony |  
 | bip_39_word_space_8 | chimney label special art position daring pony echo |  
 | bip_39_word_space_9 | chimney label special art position daring pony echo hurt |  
+| bip_39_word_underscore_1 | chimney |  
+| bip_39_word_underscore_10 | chimney_label_special_art_position_daring_pony_echo_hurt_luxury |  
+| bip_39_word_underscore_11 | chimney_label_special_art_position_daring_pony_echo_hurt_luxury_purse |  
+| bip_39_word_underscore_12 | chimney_label_special_art_position_daring_pony_echo_hurt_luxury_purse_absent |  
+| bip_39_word_underscore_2 | chimney_label |  
+| bip_39_word_underscore_3 | chimney_label_special |  
+| bip_39_word_underscore_4 | chimney_label_special_art |  
+| bip_39_word_underscore_5 | chimney_label_special_art_position |  
+| bip_39_word_underscore_6 | chimney_label_special_art_position_daring |  
+| bip_39_word_underscore_7 | chimney_label_special_art_position_daring_pony |  
+| bip_39_word_underscore_8 | chimney_label_special_art_position_daring_pony_echo |  
+| bip_39_word_underscore_9 | chimney_label_special_art_position_daring_pony_echo_hurt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

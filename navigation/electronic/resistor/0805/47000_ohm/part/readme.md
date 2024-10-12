@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | option |  
+| bip_39_word_dash_10 | option-error-sleep-normal-icon-today-rabbit-ride-error-about |  
+| bip_39_word_dash_11 | option-error-sleep-normal-icon-today-rabbit-ride-error-about-together |  
+| bip_39_word_dash_12 | option-error-sleep-normal-icon-today-rabbit-ride-error-about-together-amount |  
+| bip_39_word_dash_2 | option-error |  
+| bip_39_word_dash_3 | option-error-sleep |  
+| bip_39_word_dash_4 | option-error-sleep-normal |  
+| bip_39_word_dash_5 | option-error-sleep-normal-icon |  
+| bip_39_word_dash_6 | option-error-sleep-normal-icon-today |  
+| bip_39_word_dash_7 | option-error-sleep-normal-icon-today-rabbit |  
+| bip_39_word_dash_8 | option-error-sleep-normal-icon-today-rabbit-ride |  
+| bip_39_word_dash_9 | option-error-sleep-normal-icon-today-rabbit-ride-error |  
 | bip_39_word_new_br_1 | option |  
 | bip_39_word_new_br_10 | option<br>error<br>sleep<br>normal<br>icon<br>today<br>rabbit<br>ride<br>error<br>about |  
 | bip_39_word_new_br_11 | option<br>error<br>sleep<br>normal<br>icon<br>today<br>rabbit<br>ride<br>error<br>about<br>together |  
@@ -147,6 +159,18 @@ error |
 | bip_39_word_space_7 | option error sleep normal icon today rabbit |  
 | bip_39_word_space_8 | option error sleep normal icon today rabbit ride |  
 | bip_39_word_space_9 | option error sleep normal icon today rabbit ride error |  
+| bip_39_word_underscore_1 | option |  
+| bip_39_word_underscore_10 | option_error_sleep_normal_icon_today_rabbit_ride_error_about |  
+| bip_39_word_underscore_11 | option_error_sleep_normal_icon_today_rabbit_ride_error_about_together |  
+| bip_39_word_underscore_12 | option_error_sleep_normal_icon_today_rabbit_ride_error_about_together_amount |  
+| bip_39_word_underscore_2 | option_error |  
+| bip_39_word_underscore_3 | option_error_sleep |  
+| bip_39_word_underscore_4 | option_error_sleep_normal |  
+| bip_39_word_underscore_5 | option_error_sleep_normal_icon |  
+| bip_39_word_underscore_6 | option_error_sleep_normal_icon_today |  
+| bip_39_word_underscore_7 | option_error_sleep_normal_icon_today_rabbit |  
+| bip_39_word_underscore_8 | option_error_sleep_normal_icon_today_rabbit_ride |  
+| bip_39_word_underscore_9 | option_error_sleep_normal_icon_today_rabbit_ride_error |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: play
+bip_39_word_dash_10: play-try-shaft-math-they-venue-try-agent-federal-village
+bip_39_word_dash_11: play-try-shaft-math-they-venue-try-agent-federal-village-embark
+bip_39_word_dash_12: play-try-shaft-math-they-venue-try-agent-federal-village-embark-annual
+bip_39_word_dash_2: play-try
+bip_39_word_dash_3: play-try-shaft
+bip_39_word_dash_4: play-try-shaft-math
+bip_39_word_dash_5: play-try-shaft-math-they
+bip_39_word_dash_6: play-try-shaft-math-they-venue
+bip_39_word_dash_7: play-try-shaft-math-they-venue-try
+bip_39_word_dash_8: play-try-shaft-math-they-venue-try-agent
+bip_39_word_dash_9: play-try-shaft-math-they-venue-try-agent-federal
 bip_39_word_new_br_1: play
 bip_39_word_new_br_10: play<br>try<br>shaft<br>math<br>they<br>venue<br>try<br>agent<br>federal<br>village
 bip_39_word_new_br_11: play<br>try<br>shaft<br>math<br>they<br>venue<br>try<br>agent<br>federal<br>village<br>embark
@@ -192,6 +204,18 @@ bip_39_word_space_6: play try shaft math they venue
 bip_39_word_space_7: play try shaft math they venue try
 bip_39_word_space_8: play try shaft math they venue try agent
 bip_39_word_space_9: play try shaft math they venue try agent federal
+bip_39_word_underscore_1: play
+bip_39_word_underscore_10: play_try_shaft_math_they_venue_try_agent_federal_village
+bip_39_word_underscore_11: play_try_shaft_math_they_venue_try_agent_federal_village_embark
+bip_39_word_underscore_12: play_try_shaft_math_they_venue_try_agent_federal_village_embark_annual
+bip_39_word_underscore_2: play_try
+bip_39_word_underscore_3: play_try_shaft
+bip_39_word_underscore_4: play_try_shaft_math
+bip_39_word_underscore_5: play_try_shaft_math_they
+bip_39_word_underscore_6: play_try_shaft_math_they_venue
+bip_39_word_underscore_7: play_try_shaft_math_they_venue_try
+bip_39_word_underscore_8: play_try_shaft_math_they_venue_try_agent
+bip_39_word_underscore_9: play_try_shaft_math_they_venue_try_agent_federal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

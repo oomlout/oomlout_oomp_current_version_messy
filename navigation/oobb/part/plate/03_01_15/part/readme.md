@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boil |  
+| bip_39_word_dash_10 | boil-mean-afford-mule-remember-interest-afford-duck-benefit-empower |  
+| bip_39_word_dash_11 | boil-mean-afford-mule-remember-interest-afford-duck-benefit-empower-reject |  
+| bip_39_word_dash_12 | boil-mean-afford-mule-remember-interest-afford-duck-benefit-empower-reject-arch |  
+| bip_39_word_dash_2 | boil-mean |  
+| bip_39_word_dash_3 | boil-mean-afford |  
+| bip_39_word_dash_4 | boil-mean-afford-mule |  
+| bip_39_word_dash_5 | boil-mean-afford-mule-remember |  
+| bip_39_word_dash_6 | boil-mean-afford-mule-remember-interest |  
+| bip_39_word_dash_7 | boil-mean-afford-mule-remember-interest-afford |  
+| bip_39_word_dash_8 | boil-mean-afford-mule-remember-interest-afford-duck |  
+| bip_39_word_dash_9 | boil-mean-afford-mule-remember-interest-afford-duck-benefit |  
 | bip_39_word_new_br_1 | boil |  
 | bip_39_word_new_br_10 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower |  
 | bip_39_word_new_br_11 | boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower<br>reject |  
@@ -147,6 +159,18 @@ benefit |
 | bip_39_word_space_7 | boil mean afford mule remember interest afford |  
 | bip_39_word_space_8 | boil mean afford mule remember interest afford duck |  
 | bip_39_word_space_9 | boil mean afford mule remember interest afford duck benefit |  
+| bip_39_word_underscore_1 | boil |  
+| bip_39_word_underscore_10 | boil_mean_afford_mule_remember_interest_afford_duck_benefit_empower |  
+| bip_39_word_underscore_11 | boil_mean_afford_mule_remember_interest_afford_duck_benefit_empower_reject |  
+| bip_39_word_underscore_12 | boil_mean_afford_mule_remember_interest_afford_duck_benefit_empower_reject_arch |  
+| bip_39_word_underscore_2 | boil_mean |  
+| bip_39_word_underscore_3 | boil_mean_afford |  
+| bip_39_word_underscore_4 | boil_mean_afford_mule |  
+| bip_39_word_underscore_5 | boil_mean_afford_mule_remember |  
+| bip_39_word_underscore_6 | boil_mean_afford_mule_remember_interest |  
+| bip_39_word_underscore_7 | boil_mean_afford_mule_remember_interest_afford |  
+| bip_39_word_underscore_8 | boil_mean_afford_mule_remember_interest_afford_duck |  
+| bip_39_word_underscore_9 | boil_mean_afford_mule_remember_interest_afford_duck_benefit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

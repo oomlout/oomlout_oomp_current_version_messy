@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lab
+bip_39_word_dash_10: lab-agent-energy-unknown-coyote-text-layer-suffer-angle-stick
+bip_39_word_dash_11: lab-agent-energy-unknown-coyote-text-layer-suffer-angle-stick-april
+bip_39_word_dash_12: lab-agent-energy-unknown-coyote-text-layer-suffer-angle-stick-april-among
+bip_39_word_dash_2: lab-agent
+bip_39_word_dash_3: lab-agent-energy
+bip_39_word_dash_4: lab-agent-energy-unknown
+bip_39_word_dash_5: lab-agent-energy-unknown-coyote
+bip_39_word_dash_6: lab-agent-energy-unknown-coyote-text
+bip_39_word_dash_7: lab-agent-energy-unknown-coyote-text-layer
+bip_39_word_dash_8: lab-agent-energy-unknown-coyote-text-layer-suffer
+bip_39_word_dash_9: lab-agent-energy-unknown-coyote-text-layer-suffer-angle
 bip_39_word_new_br_1: lab
 bip_39_word_new_br_10: lab<br>agent<br>energy<br>unknown<br>coyote<br>text<br>layer<br>suffer<br>angle<br>stick
 bip_39_word_new_br_11: lab<br>agent<br>energy<br>unknown<br>coyote<br>text<br>layer<br>suffer<br>angle<br>stick<br>april
@@ -193,6 +205,18 @@ bip_39_word_space_6: lab agent energy unknown coyote text
 bip_39_word_space_7: lab agent energy unknown coyote text layer
 bip_39_word_space_8: lab agent energy unknown coyote text layer suffer
 bip_39_word_space_9: lab agent energy unknown coyote text layer suffer angle
+bip_39_word_underscore_1: lab
+bip_39_word_underscore_10: lab_agent_energy_unknown_coyote_text_layer_suffer_angle_stick
+bip_39_word_underscore_11: lab_agent_energy_unknown_coyote_text_layer_suffer_angle_stick_april
+bip_39_word_underscore_12: lab_agent_energy_unknown_coyote_text_layer_suffer_angle_stick_april_among
+bip_39_word_underscore_2: lab_agent
+bip_39_word_underscore_3: lab_agent_energy
+bip_39_word_underscore_4: lab_agent_energy_unknown
+bip_39_word_underscore_5: lab_agent_energy_unknown_coyote
+bip_39_word_underscore_6: lab_agent_energy_unknown_coyote_text
+bip_39_word_underscore_7: lab_agent_energy_unknown_coyote_text_layer
+bip_39_word_underscore_8: lab_agent_energy_unknown_coyote_text_layer_suffer
+bip_39_word_underscore_9: lab_agent_energy_unknown_coyote_text_layer_suffer_angle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

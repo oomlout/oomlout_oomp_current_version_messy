@@ -1,3 +1,15 @@
+bip_39_word_dash_1: duty
+bip_39_word_dash_10: duty-lend-find-raccoon-exhibit-tragic-garlic-salt-leisure-car
+bip_39_word_dash_11: duty-lend-find-raccoon-exhibit-tragic-garlic-salt-leisure-car-place
+bip_39_word_dash_12: duty-lend-find-raccoon-exhibit-tragic-garlic-salt-leisure-car-place-add
+bip_39_word_dash_2: duty-lend
+bip_39_word_dash_3: duty-lend-find
+bip_39_word_dash_4: duty-lend-find-raccoon
+bip_39_word_dash_5: duty-lend-find-raccoon-exhibit
+bip_39_word_dash_6: duty-lend-find-raccoon-exhibit-tragic
+bip_39_word_dash_7: duty-lend-find-raccoon-exhibit-tragic-garlic
+bip_39_word_dash_8: duty-lend-find-raccoon-exhibit-tragic-garlic-salt
+bip_39_word_dash_9: duty-lend-find-raccoon-exhibit-tragic-garlic-salt-leisure
 bip_39_word_new_br_1: duty
 bip_39_word_new_br_10: duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt<br>leisure<br>car
 bip_39_word_new_br_11: duty<br>lend<br>find<br>raccoon<br>exhibit<br>tragic<br>garlic<br>salt<br>leisure<br>car<br>place
@@ -193,6 +205,18 @@ bip_39_word_space_6: duty lend find raccoon exhibit tragic
 bip_39_word_space_7: duty lend find raccoon exhibit tragic garlic
 bip_39_word_space_8: duty lend find raccoon exhibit tragic garlic salt
 bip_39_word_space_9: duty lend find raccoon exhibit tragic garlic salt leisure
+bip_39_word_underscore_1: duty
+bip_39_word_underscore_10: duty_lend_find_raccoon_exhibit_tragic_garlic_salt_leisure_car
+bip_39_word_underscore_11: duty_lend_find_raccoon_exhibit_tragic_garlic_salt_leisure_car_place
+bip_39_word_underscore_12: duty_lend_find_raccoon_exhibit_tragic_garlic_salt_leisure_car_place_add
+bip_39_word_underscore_2: duty_lend
+bip_39_word_underscore_3: duty_lend_find
+bip_39_word_underscore_4: duty_lend_find_raccoon
+bip_39_word_underscore_5: duty_lend_find_raccoon_exhibit
+bip_39_word_underscore_6: duty_lend_find_raccoon_exhibit_tragic
+bip_39_word_underscore_7: duty_lend_find_raccoon_exhibit_tragic_garlic
+bip_39_word_underscore_8: duty_lend_find_raccoon_exhibit_tragic_garlic_salt
+bip_39_word_underscore_9: duty_lend_find_raccoon_exhibit_tragic_garlic_salt_leisure
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

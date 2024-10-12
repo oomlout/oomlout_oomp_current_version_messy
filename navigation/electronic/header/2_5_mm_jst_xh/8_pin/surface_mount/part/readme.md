@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quit |  
+| bip_39_word_dash_10 | quit-juice-split-artwork-add-bullet-twelve-coach-bargain-soccer |  
+| bip_39_word_dash_11 | quit-juice-split-artwork-add-bullet-twelve-coach-bargain-soccer-word |  
+| bip_39_word_dash_12 | quit-juice-split-artwork-add-bullet-twelve-coach-bargain-soccer-word-alone |  
+| bip_39_word_dash_2 | quit-juice |  
+| bip_39_word_dash_3 | quit-juice-split |  
+| bip_39_word_dash_4 | quit-juice-split-artwork |  
+| bip_39_word_dash_5 | quit-juice-split-artwork-add |  
+| bip_39_word_dash_6 | quit-juice-split-artwork-add-bullet |  
+| bip_39_word_dash_7 | quit-juice-split-artwork-add-bullet-twelve |  
+| bip_39_word_dash_8 | quit-juice-split-artwork-add-bullet-twelve-coach |  
+| bip_39_word_dash_9 | quit-juice-split-artwork-add-bullet-twelve-coach-bargain |  
 | bip_39_word_new_br_1 | quit |  
 | bip_39_word_new_br_10 | quit<br>juice<br>split<br>artwork<br>add<br>bullet<br>twelve<br>coach<br>bargain<br>soccer |  
 | bip_39_word_new_br_11 | quit<br>juice<br>split<br>artwork<br>add<br>bullet<br>twelve<br>coach<br>bargain<br>soccer<br>word |  
@@ -147,6 +159,18 @@ bargain |
 | bip_39_word_space_7 | quit juice split artwork add bullet twelve |  
 | bip_39_word_space_8 | quit juice split artwork add bullet twelve coach |  
 | bip_39_word_space_9 | quit juice split artwork add bullet twelve coach bargain |  
+| bip_39_word_underscore_1 | quit |  
+| bip_39_word_underscore_10 | quit_juice_split_artwork_add_bullet_twelve_coach_bargain_soccer |  
+| bip_39_word_underscore_11 | quit_juice_split_artwork_add_bullet_twelve_coach_bargain_soccer_word |  
+| bip_39_word_underscore_12 | quit_juice_split_artwork_add_bullet_twelve_coach_bargain_soccer_word_alone |  
+| bip_39_word_underscore_2 | quit_juice |  
+| bip_39_word_underscore_3 | quit_juice_split |  
+| bip_39_word_underscore_4 | quit_juice_split_artwork |  
+| bip_39_word_underscore_5 | quit_juice_split_artwork_add |  
+| bip_39_word_underscore_6 | quit_juice_split_artwork_add_bullet |  
+| bip_39_word_underscore_7 | quit_juice_split_artwork_add_bullet_twelve |  
+| bip_39_word_underscore_8 | quit_juice_split_artwork_add_bullet_twelve_coach |  
+| bip_39_word_underscore_9 | quit_juice_split_artwork_add_bullet_twelve_coach_bargain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

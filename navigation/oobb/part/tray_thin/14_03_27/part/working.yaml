@@ -1,3 +1,15 @@
+bip_39_word_dash_1: milk
+bip_39_word_dash_10: milk-relax-badge-wedding-utility-auto-crime-add-vintage-course
+bip_39_word_dash_11: milk-relax-badge-wedding-utility-auto-crime-add-vintage-course-calm
+bip_39_word_dash_12: milk-relax-badge-wedding-utility-auto-crime-add-vintage-course-calm-april
+bip_39_word_dash_2: milk-relax
+bip_39_word_dash_3: milk-relax-badge
+bip_39_word_dash_4: milk-relax-badge-wedding
+bip_39_word_dash_5: milk-relax-badge-wedding-utility
+bip_39_word_dash_6: milk-relax-badge-wedding-utility-auto
+bip_39_word_dash_7: milk-relax-badge-wedding-utility-auto-crime
+bip_39_word_dash_8: milk-relax-badge-wedding-utility-auto-crime-add
+bip_39_word_dash_9: milk-relax-badge-wedding-utility-auto-crime-add-vintage
 bip_39_word_new_br_1: milk
 bip_39_word_new_br_10: milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add<br>vintage<br>course
 bip_39_word_new_br_11: milk<br>relax<br>badge<br>wedding<br>utility<br>auto<br>crime<br>add<br>vintage<br>course<br>calm
@@ -193,6 +205,18 @@ bip_39_word_space_6: milk relax badge wedding utility auto
 bip_39_word_space_7: milk relax badge wedding utility auto crime
 bip_39_word_space_8: milk relax badge wedding utility auto crime add
 bip_39_word_space_9: milk relax badge wedding utility auto crime add vintage
+bip_39_word_underscore_1: milk
+bip_39_word_underscore_10: milk_relax_badge_wedding_utility_auto_crime_add_vintage_course
+bip_39_word_underscore_11: milk_relax_badge_wedding_utility_auto_crime_add_vintage_course_calm
+bip_39_word_underscore_12: milk_relax_badge_wedding_utility_auto_crime_add_vintage_course_calm_april
+bip_39_word_underscore_2: milk_relax
+bip_39_word_underscore_3: milk_relax_badge
+bip_39_word_underscore_4: milk_relax_badge_wedding
+bip_39_word_underscore_5: milk_relax_badge_wedding_utility
+bip_39_word_underscore_6: milk_relax_badge_wedding_utility_auto
+bip_39_word_underscore_7: milk_relax_badge_wedding_utility_auto_crime
+bip_39_word_underscore_8: milk_relax_badge_wedding_utility_auto_crime_add
+bip_39_word_underscore_9: milk_relax_badge_wedding_utility_auto_crime_add_vintage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

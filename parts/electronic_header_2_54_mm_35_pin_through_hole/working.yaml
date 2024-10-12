@@ -1,3 +1,15 @@
+bip_39_word_dash_1: market
+bip_39_word_dash_10: market-track-live-spot-sphere-bridge-fine-rookie-own-hungry
+bip_39_word_dash_11: market-track-live-spot-sphere-bridge-fine-rookie-own-hungry-chimney
+bip_39_word_dash_12: market-track-live-spot-sphere-bridge-fine-rookie-own-hungry-chimney-ahead
+bip_39_word_dash_2: market-track
+bip_39_word_dash_3: market-track-live
+bip_39_word_dash_4: market-track-live-spot
+bip_39_word_dash_5: market-track-live-spot-sphere
+bip_39_word_dash_6: market-track-live-spot-sphere-bridge
+bip_39_word_dash_7: market-track-live-spot-sphere-bridge-fine
+bip_39_word_dash_8: market-track-live-spot-sphere-bridge-fine-rookie
+bip_39_word_dash_9: market-track-live-spot-sphere-bridge-fine-rookie-own
 bip_39_word_new_br_1: market
 bip_39_word_new_br_10: market<br>track<br>live<br>spot<br>sphere<br>bridge<br>fine<br>rookie<br>own<br>hungry
 bip_39_word_new_br_11: market<br>track<br>live<br>spot<br>sphere<br>bridge<br>fine<br>rookie<br>own<br>hungry<br>chimney
@@ -193,6 +205,18 @@ bip_39_word_space_6: market track live spot sphere bridge
 bip_39_word_space_7: market track live spot sphere bridge fine
 bip_39_word_space_8: market track live spot sphere bridge fine rookie
 bip_39_word_space_9: market track live spot sphere bridge fine rookie own
+bip_39_word_underscore_1: market
+bip_39_word_underscore_10: market_track_live_spot_sphere_bridge_fine_rookie_own_hungry
+bip_39_word_underscore_11: market_track_live_spot_sphere_bridge_fine_rookie_own_hungry_chimney
+bip_39_word_underscore_12: market_track_live_spot_sphere_bridge_fine_rookie_own_hungry_chimney_ahead
+bip_39_word_underscore_2: market_track
+bip_39_word_underscore_3: market_track_live
+bip_39_word_underscore_4: market_track_live_spot
+bip_39_word_underscore_5: market_track_live_spot_sphere
+bip_39_word_underscore_6: market_track_live_spot_sphere_bridge
+bip_39_word_underscore_7: market_track_live_spot_sphere_bridge_fine
+bip_39_word_underscore_8: market_track_live_spot_sphere_bridge_fine_rookie
+bip_39_word_underscore_9: market_track_live_spot_sphere_bridge_fine_rookie_own
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

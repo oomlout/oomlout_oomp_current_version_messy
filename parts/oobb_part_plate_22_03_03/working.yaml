@@ -1,3 +1,15 @@
+bip_39_word_dash_1: guess
+bip_39_word_dash_10: guess-crew-town-deny-suspect-near-inquiry-grain-join-front
+bip_39_word_dash_11: guess-crew-town-deny-suspect-near-inquiry-grain-join-front-image
+bip_39_word_dash_12: guess-crew-town-deny-suspect-near-inquiry-grain-join-front-image-affair
+bip_39_word_dash_2: guess-crew
+bip_39_word_dash_3: guess-crew-town
+bip_39_word_dash_4: guess-crew-town-deny
+bip_39_word_dash_5: guess-crew-town-deny-suspect
+bip_39_word_dash_6: guess-crew-town-deny-suspect-near
+bip_39_word_dash_7: guess-crew-town-deny-suspect-near-inquiry
+bip_39_word_dash_8: guess-crew-town-deny-suspect-near-inquiry-grain
+bip_39_word_dash_9: guess-crew-town-deny-suspect-near-inquiry-grain-join
 bip_39_word_new_br_1: guess
 bip_39_word_new_br_10: guess<br>crew<br>town<br>deny<br>suspect<br>near<br>inquiry<br>grain<br>join<br>front
 bip_39_word_new_br_11: guess<br>crew<br>town<br>deny<br>suspect<br>near<br>inquiry<br>grain<br>join<br>front<br>image
@@ -192,6 +204,18 @@ bip_39_word_space_6: guess crew town deny suspect near
 bip_39_word_space_7: guess crew town deny suspect near inquiry
 bip_39_word_space_8: guess crew town deny suspect near inquiry grain
 bip_39_word_space_9: guess crew town deny suspect near inquiry grain join
+bip_39_word_underscore_1: guess
+bip_39_word_underscore_10: guess_crew_town_deny_suspect_near_inquiry_grain_join_front
+bip_39_word_underscore_11: guess_crew_town_deny_suspect_near_inquiry_grain_join_front_image
+bip_39_word_underscore_12: guess_crew_town_deny_suspect_near_inquiry_grain_join_front_image_affair
+bip_39_word_underscore_2: guess_crew
+bip_39_word_underscore_3: guess_crew_town
+bip_39_word_underscore_4: guess_crew_town_deny
+bip_39_word_underscore_5: guess_crew_town_deny_suspect
+bip_39_word_underscore_6: guess_crew_town_deny_suspect_near
+bip_39_word_underscore_7: guess_crew_town_deny_suspect_near_inquiry
+bip_39_word_underscore_8: guess_crew_town_deny_suspect_near_inquiry_grain
+bip_39_word_underscore_9: guess_crew_town_deny_suspect_near_inquiry_grain_join
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

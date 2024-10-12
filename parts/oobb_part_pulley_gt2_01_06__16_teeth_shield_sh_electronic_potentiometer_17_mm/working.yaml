@@ -1,3 +1,15 @@
+bip_39_word_dash_1: guide
+bip_39_word_dash_10: guide-make-false-equal-absurd-together-swim-bubble-donkey-light
+bip_39_word_dash_11: guide-make-false-equal-absurd-together-swim-bubble-donkey-light-echo
+bip_39_word_dash_12: guide-make-false-equal-absurd-together-swim-bubble-donkey-light-echo-atom
+bip_39_word_dash_2: guide-make
+bip_39_word_dash_3: guide-make-false
+bip_39_word_dash_4: guide-make-false-equal
+bip_39_word_dash_5: guide-make-false-equal-absurd
+bip_39_word_dash_6: guide-make-false-equal-absurd-together
+bip_39_word_dash_7: guide-make-false-equal-absurd-together-swim
+bip_39_word_dash_8: guide-make-false-equal-absurd-together-swim-bubble
+bip_39_word_dash_9: guide-make-false-equal-absurd-together-swim-bubble-donkey
 bip_39_word_new_br_1: guide
 bip_39_word_new_br_10: guide<br>make<br>false<br>equal<br>absurd<br>together<br>swim<br>bubble<br>donkey<br>light
 bip_39_word_new_br_11: guide<br>make<br>false<br>equal<br>absurd<br>together<br>swim<br>bubble<br>donkey<br>light<br>echo
@@ -193,6 +205,18 @@ bip_39_word_space_6: guide make false equal absurd together
 bip_39_word_space_7: guide make false equal absurd together swim
 bip_39_word_space_8: guide make false equal absurd together swim bubble
 bip_39_word_space_9: guide make false equal absurd together swim bubble donkey
+bip_39_word_underscore_1: guide
+bip_39_word_underscore_10: guide_make_false_equal_absurd_together_swim_bubble_donkey_light
+bip_39_word_underscore_11: guide_make_false_equal_absurd_together_swim_bubble_donkey_light_echo
+bip_39_word_underscore_12: guide_make_false_equal_absurd_together_swim_bubble_donkey_light_echo_atom
+bip_39_word_underscore_2: guide_make
+bip_39_word_underscore_3: guide_make_false
+bip_39_word_underscore_4: guide_make_false_equal
+bip_39_word_underscore_5: guide_make_false_equal_absurd
+bip_39_word_underscore_6: guide_make_false_equal_absurd_together
+bip_39_word_underscore_7: guide_make_false_equal_absurd_together_swim
+bip_39_word_underscore_8: guide_make_false_equal_absurd_together_swim_bubble
+bip_39_word_underscore_9: guide_make_false_equal_absurd_together_swim_bubble_donkey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

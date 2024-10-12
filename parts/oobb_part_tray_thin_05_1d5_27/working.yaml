@@ -1,3 +1,15 @@
+bip_39_word_dash_1: attack
+bip_39_word_dash_10: attack-mosquito-hint-early-arrow-bridge-travel-change-hotel-garment
+bip_39_word_dash_11: attack-mosquito-hint-early-arrow-bridge-travel-change-hotel-garment-follow
+bip_39_word_dash_12: attack-mosquito-hint-early-arrow-bridge-travel-change-hotel-garment-follow-afford
+bip_39_word_dash_2: attack-mosquito
+bip_39_word_dash_3: attack-mosquito-hint
+bip_39_word_dash_4: attack-mosquito-hint-early
+bip_39_word_dash_5: attack-mosquito-hint-early-arrow
+bip_39_word_dash_6: attack-mosquito-hint-early-arrow-bridge
+bip_39_word_dash_7: attack-mosquito-hint-early-arrow-bridge-travel
+bip_39_word_dash_8: attack-mosquito-hint-early-arrow-bridge-travel-change
+bip_39_word_dash_9: attack-mosquito-hint-early-arrow-bridge-travel-change-hotel
 bip_39_word_new_br_1: attack
 bip_39_word_new_br_10: attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment
 bip_39_word_new_br_11: attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment<br>follow
@@ -194,6 +206,18 @@ bip_39_word_space_6: attack mosquito hint early arrow bridge
 bip_39_word_space_7: attack mosquito hint early arrow bridge travel
 bip_39_word_space_8: attack mosquito hint early arrow bridge travel change
 bip_39_word_space_9: attack mosquito hint early arrow bridge travel change hotel
+bip_39_word_underscore_1: attack
+bip_39_word_underscore_10: attack_mosquito_hint_early_arrow_bridge_travel_change_hotel_garment
+bip_39_word_underscore_11: attack_mosquito_hint_early_arrow_bridge_travel_change_hotel_garment_follow
+bip_39_word_underscore_12: attack_mosquito_hint_early_arrow_bridge_travel_change_hotel_garment_follow_afford
+bip_39_word_underscore_2: attack_mosquito
+bip_39_word_underscore_3: attack_mosquito_hint
+bip_39_word_underscore_4: attack_mosquito_hint_early
+bip_39_word_underscore_5: attack_mosquito_hint_early_arrow
+bip_39_word_underscore_6: attack_mosquito_hint_early_arrow_bridge
+bip_39_word_underscore_7: attack_mosquito_hint_early_arrow_bridge_travel
+bip_39_word_underscore_8: attack_mosquito_hint_early_arrow_bridge_travel_change
+bip_39_word_underscore_9: attack_mosquito_hint_early_arrow_bridge_travel_change_hotel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

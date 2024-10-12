@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cushion |  
+| bip_39_word_dash_10 | cushion-wrong-yellow-sleep-grunt-agree-verb-lottery-long-response |  
+| bip_39_word_dash_11 | cushion-wrong-yellow-sleep-grunt-agree-verb-lottery-long-response-milk |  
+| bip_39_word_dash_12 | cushion-wrong-yellow-sleep-grunt-agree-verb-lottery-long-response-milk-arch |  
+| bip_39_word_dash_2 | cushion-wrong |  
+| bip_39_word_dash_3 | cushion-wrong-yellow |  
+| bip_39_word_dash_4 | cushion-wrong-yellow-sleep |  
+| bip_39_word_dash_5 | cushion-wrong-yellow-sleep-grunt |  
+| bip_39_word_dash_6 | cushion-wrong-yellow-sleep-grunt-agree |  
+| bip_39_word_dash_7 | cushion-wrong-yellow-sleep-grunt-agree-verb |  
+| bip_39_word_dash_8 | cushion-wrong-yellow-sleep-grunt-agree-verb-lottery |  
+| bip_39_word_dash_9 | cushion-wrong-yellow-sleep-grunt-agree-verb-lottery-long |  
 | bip_39_word_new_br_1 | cushion |  
 | bip_39_word_new_br_10 | cushion<br>wrong<br>yellow<br>sleep<br>grunt<br>agree<br>verb<br>lottery<br>long<br>response |  
 | bip_39_word_new_br_11 | cushion<br>wrong<br>yellow<br>sleep<br>grunt<br>agree<br>verb<br>lottery<br>long<br>response<br>milk |  
@@ -147,6 +159,18 @@ long |
 | bip_39_word_space_7 | cushion wrong yellow sleep grunt agree verb |  
 | bip_39_word_space_8 | cushion wrong yellow sleep grunt agree verb lottery |  
 | bip_39_word_space_9 | cushion wrong yellow sleep grunt agree verb lottery long |  
+| bip_39_word_underscore_1 | cushion |  
+| bip_39_word_underscore_10 | cushion_wrong_yellow_sleep_grunt_agree_verb_lottery_long_response |  
+| bip_39_word_underscore_11 | cushion_wrong_yellow_sleep_grunt_agree_verb_lottery_long_response_milk |  
+| bip_39_word_underscore_12 | cushion_wrong_yellow_sleep_grunt_agree_verb_lottery_long_response_milk_arch |  
+| bip_39_word_underscore_2 | cushion_wrong |  
+| bip_39_word_underscore_3 | cushion_wrong_yellow |  
+| bip_39_word_underscore_4 | cushion_wrong_yellow_sleep |  
+| bip_39_word_underscore_5 | cushion_wrong_yellow_sleep_grunt |  
+| bip_39_word_underscore_6 | cushion_wrong_yellow_sleep_grunt_agree |  
+| bip_39_word_underscore_7 | cushion_wrong_yellow_sleep_grunt_agree_verb |  
+| bip_39_word_underscore_8 | cushion_wrong_yellow_sleep_grunt_agree_verb_lottery |  
+| bip_39_word_underscore_9 | cushion_wrong_yellow_sleep_grunt_agree_verb_lottery_long |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

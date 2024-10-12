@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dose
+bip_39_word_dash_10: dose-master-fatigue-input-actor-category-edit-fuel-loan-uncle
+bip_39_word_dash_11: dose-master-fatigue-input-actor-category-edit-fuel-loan-uncle-auto
+bip_39_word_dash_12: dose-master-fatigue-input-actor-category-edit-fuel-loan-uncle-auto-attitude
+bip_39_word_dash_2: dose-master
+bip_39_word_dash_3: dose-master-fatigue
+bip_39_word_dash_4: dose-master-fatigue-input
+bip_39_word_dash_5: dose-master-fatigue-input-actor
+bip_39_word_dash_6: dose-master-fatigue-input-actor-category
+bip_39_word_dash_7: dose-master-fatigue-input-actor-category-edit
+bip_39_word_dash_8: dose-master-fatigue-input-actor-category-edit-fuel
+bip_39_word_dash_9: dose-master-fatigue-input-actor-category-edit-fuel-loan
 bip_39_word_new_br_1: dose
 bip_39_word_new_br_10: dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel<br>loan<br>uncle
 bip_39_word_new_br_11: dose<br>master<br>fatigue<br>input<br>actor<br>category<br>edit<br>fuel<br>loan<br>uncle<br>auto
@@ -193,6 +205,18 @@ bip_39_word_space_6: dose master fatigue input actor category
 bip_39_word_space_7: dose master fatigue input actor category edit
 bip_39_word_space_8: dose master fatigue input actor category edit fuel
 bip_39_word_space_9: dose master fatigue input actor category edit fuel loan
+bip_39_word_underscore_1: dose
+bip_39_word_underscore_10: dose_master_fatigue_input_actor_category_edit_fuel_loan_uncle
+bip_39_word_underscore_11: dose_master_fatigue_input_actor_category_edit_fuel_loan_uncle_auto
+bip_39_word_underscore_12: dose_master_fatigue_input_actor_category_edit_fuel_loan_uncle_auto_attitude
+bip_39_word_underscore_2: dose_master
+bip_39_word_underscore_3: dose_master_fatigue
+bip_39_word_underscore_4: dose_master_fatigue_input
+bip_39_word_underscore_5: dose_master_fatigue_input_actor
+bip_39_word_underscore_6: dose_master_fatigue_input_actor_category
+bip_39_word_underscore_7: dose_master_fatigue_input_actor_category_edit
+bip_39_word_underscore_8: dose_master_fatigue_input_actor_category_edit_fuel
+bip_39_word_underscore_9: dose_master_fatigue_input_actor_category_edit_fuel_loan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

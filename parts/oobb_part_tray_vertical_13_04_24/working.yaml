@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hat
+bip_39_word_dash_10: hat-foam-permit-hurt-armor-federal-refuse-style-acid-spoil
+bip_39_word_dash_11: hat-foam-permit-hurt-armor-federal-refuse-style-acid-spoil-banana
+bip_39_word_dash_12: hat-foam-permit-hurt-armor-federal-refuse-style-acid-spoil-banana-anchor
+bip_39_word_dash_2: hat-foam
+bip_39_word_dash_3: hat-foam-permit
+bip_39_word_dash_4: hat-foam-permit-hurt
+bip_39_word_dash_5: hat-foam-permit-hurt-armor
+bip_39_word_dash_6: hat-foam-permit-hurt-armor-federal
+bip_39_word_dash_7: hat-foam-permit-hurt-armor-federal-refuse
+bip_39_word_dash_8: hat-foam-permit-hurt-armor-federal-refuse-style
+bip_39_word_dash_9: hat-foam-permit-hurt-armor-federal-refuse-style-acid
 bip_39_word_new_br_1: hat
 bip_39_word_new_br_10: hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style<br>acid<br>spoil
 bip_39_word_new_br_11: hat<br>foam<br>permit<br>hurt<br>armor<br>federal<br>refuse<br>style<br>acid<br>spoil<br>banana
@@ -192,6 +204,18 @@ bip_39_word_space_6: hat foam permit hurt armor federal
 bip_39_word_space_7: hat foam permit hurt armor federal refuse
 bip_39_word_space_8: hat foam permit hurt armor federal refuse style
 bip_39_word_space_9: hat foam permit hurt armor federal refuse style acid
+bip_39_word_underscore_1: hat
+bip_39_word_underscore_10: hat_foam_permit_hurt_armor_federal_refuse_style_acid_spoil
+bip_39_word_underscore_11: hat_foam_permit_hurt_armor_federal_refuse_style_acid_spoil_banana
+bip_39_word_underscore_12: hat_foam_permit_hurt_armor_federal_refuse_style_acid_spoil_banana_anchor
+bip_39_word_underscore_2: hat_foam
+bip_39_word_underscore_3: hat_foam_permit
+bip_39_word_underscore_4: hat_foam_permit_hurt
+bip_39_word_underscore_5: hat_foam_permit_hurt_armor
+bip_39_word_underscore_6: hat_foam_permit_hurt_armor_federal
+bip_39_word_underscore_7: hat_foam_permit_hurt_armor_federal_refuse
+bip_39_word_underscore_8: hat_foam_permit_hurt_armor_federal_refuse_style
+bip_39_word_underscore_9: hat_foam_permit_hurt_armor_federal_refuse_style_acid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enough |  
+| bip_39_word_dash_10 | enough-turn-sting-noble-rally-spirit-brief-pizza-hen-ghost |  
+| bip_39_word_dash_11 | enough-turn-sting-noble-rally-spirit-brief-pizza-hen-ghost-unlock |  
+| bip_39_word_dash_12 | enough-turn-sting-noble-rally-spirit-brief-pizza-hen-ghost-unlock-always |  
+| bip_39_word_dash_2 | enough-turn |  
+| bip_39_word_dash_3 | enough-turn-sting |  
+| bip_39_word_dash_4 | enough-turn-sting-noble |  
+| bip_39_word_dash_5 | enough-turn-sting-noble-rally |  
+| bip_39_word_dash_6 | enough-turn-sting-noble-rally-spirit |  
+| bip_39_word_dash_7 | enough-turn-sting-noble-rally-spirit-brief |  
+| bip_39_word_dash_8 | enough-turn-sting-noble-rally-spirit-brief-pizza |  
+| bip_39_word_dash_9 | enough-turn-sting-noble-rally-spirit-brief-pizza-hen |  
 | bip_39_word_new_br_1 | enough |  
 | bip_39_word_new_br_10 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost |  
 | bip_39_word_new_br_11 | enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost<br>unlock |  
@@ -147,6 +159,18 @@ hen |
 | bip_39_word_space_7 | enough turn sting noble rally spirit brief |  
 | bip_39_word_space_8 | enough turn sting noble rally spirit brief pizza |  
 | bip_39_word_space_9 | enough turn sting noble rally spirit brief pizza hen |  
+| bip_39_word_underscore_1 | enough |  
+| bip_39_word_underscore_10 | enough_turn_sting_noble_rally_spirit_brief_pizza_hen_ghost |  
+| bip_39_word_underscore_11 | enough_turn_sting_noble_rally_spirit_brief_pizza_hen_ghost_unlock |  
+| bip_39_word_underscore_12 | enough_turn_sting_noble_rally_spirit_brief_pizza_hen_ghost_unlock_always |  
+| bip_39_word_underscore_2 | enough_turn |  
+| bip_39_word_underscore_3 | enough_turn_sting |  
+| bip_39_word_underscore_4 | enough_turn_sting_noble |  
+| bip_39_word_underscore_5 | enough_turn_sting_noble_rally |  
+| bip_39_word_underscore_6 | enough_turn_sting_noble_rally_spirit |  
+| bip_39_word_underscore_7 | enough_turn_sting_noble_rally_spirit_brief |  
+| bip_39_word_underscore_8 | enough_turn_sting_noble_rally_spirit_brief_pizza |  
+| bip_39_word_underscore_9 | enough_turn_sting_noble_rally_spirit_brief_pizza_hen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

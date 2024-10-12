@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cigar |  
+| bip_39_word_dash_10 | cigar-fox-wall-quit-zebra-humble-extend-mansion-mystery-evoke |  
+| bip_39_word_dash_11 | cigar-fox-wall-quit-zebra-humble-extend-mansion-mystery-evoke-segment |  
+| bip_39_word_dash_12 | cigar-fox-wall-quit-zebra-humble-extend-mansion-mystery-evoke-segment-atom |  
+| bip_39_word_dash_2 | cigar-fox |  
+| bip_39_word_dash_3 | cigar-fox-wall |  
+| bip_39_word_dash_4 | cigar-fox-wall-quit |  
+| bip_39_word_dash_5 | cigar-fox-wall-quit-zebra |  
+| bip_39_word_dash_6 | cigar-fox-wall-quit-zebra-humble |  
+| bip_39_word_dash_7 | cigar-fox-wall-quit-zebra-humble-extend |  
+| bip_39_word_dash_8 | cigar-fox-wall-quit-zebra-humble-extend-mansion |  
+| bip_39_word_dash_9 | cigar-fox-wall-quit-zebra-humble-extend-mansion-mystery |  
 | bip_39_word_new_br_1 | cigar |  
 | bip_39_word_new_br_10 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion<br>mystery<br>evoke |  
 | bip_39_word_new_br_11 | cigar<br>fox<br>wall<br>quit<br>zebra<br>humble<br>extend<br>mansion<br>mystery<br>evoke<br>segment |  
@@ -147,6 +159,18 @@ mystery |
 | bip_39_word_space_7 | cigar fox wall quit zebra humble extend |  
 | bip_39_word_space_8 | cigar fox wall quit zebra humble extend mansion |  
 | bip_39_word_space_9 | cigar fox wall quit zebra humble extend mansion mystery |  
+| bip_39_word_underscore_1 | cigar |  
+| bip_39_word_underscore_10 | cigar_fox_wall_quit_zebra_humble_extend_mansion_mystery_evoke |  
+| bip_39_word_underscore_11 | cigar_fox_wall_quit_zebra_humble_extend_mansion_mystery_evoke_segment |  
+| bip_39_word_underscore_12 | cigar_fox_wall_quit_zebra_humble_extend_mansion_mystery_evoke_segment_atom |  
+| bip_39_word_underscore_2 | cigar_fox |  
+| bip_39_word_underscore_3 | cigar_fox_wall |  
+| bip_39_word_underscore_4 | cigar_fox_wall_quit |  
+| bip_39_word_underscore_5 | cigar_fox_wall_quit_zebra |  
+| bip_39_word_underscore_6 | cigar_fox_wall_quit_zebra_humble |  
+| bip_39_word_underscore_7 | cigar_fox_wall_quit_zebra_humble_extend |  
+| bip_39_word_underscore_8 | cigar_fox_wall_quit_zebra_humble_extend_mansion |  
+| bip_39_word_underscore_9 | cigar_fox_wall_quit_zebra_humble_extend_mansion_mystery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

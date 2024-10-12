@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | phrase |  
+| bip_39_word_dash_10 | phrase-movie-nephew-live-liberty-knife-chair-trim-airport-guess |  
+| bip_39_word_dash_11 | phrase-movie-nephew-live-liberty-knife-chair-trim-airport-guess-drill |  
+| bip_39_word_dash_12 | phrase-movie-nephew-live-liberty-knife-chair-trim-airport-guess-drill-analyst |  
+| bip_39_word_dash_2 | phrase-movie |  
+| bip_39_word_dash_3 | phrase-movie-nephew |  
+| bip_39_word_dash_4 | phrase-movie-nephew-live |  
+| bip_39_word_dash_5 | phrase-movie-nephew-live-liberty |  
+| bip_39_word_dash_6 | phrase-movie-nephew-live-liberty-knife |  
+| bip_39_word_dash_7 | phrase-movie-nephew-live-liberty-knife-chair |  
+| bip_39_word_dash_8 | phrase-movie-nephew-live-liberty-knife-chair-trim |  
+| bip_39_word_dash_9 | phrase-movie-nephew-live-liberty-knife-chair-trim-airport |  
 | bip_39_word_new_br_1 | phrase |  
 | bip_39_word_new_br_10 | phrase<br>movie<br>nephew<br>live<br>liberty<br>knife<br>chair<br>trim<br>airport<br>guess |  
 | bip_39_word_new_br_11 | phrase<br>movie<br>nephew<br>live<br>liberty<br>knife<br>chair<br>trim<br>airport<br>guess<br>drill |  
@@ -147,6 +159,18 @@ airport |
 | bip_39_word_space_7 | phrase movie nephew live liberty knife chair |  
 | bip_39_word_space_8 | phrase movie nephew live liberty knife chair trim |  
 | bip_39_word_space_9 | phrase movie nephew live liberty knife chair trim airport |  
+| bip_39_word_underscore_1 | phrase |  
+| bip_39_word_underscore_10 | phrase_movie_nephew_live_liberty_knife_chair_trim_airport_guess |  
+| bip_39_word_underscore_11 | phrase_movie_nephew_live_liberty_knife_chair_trim_airport_guess_drill |  
+| bip_39_word_underscore_12 | phrase_movie_nephew_live_liberty_knife_chair_trim_airport_guess_drill_analyst |  
+| bip_39_word_underscore_2 | phrase_movie |  
+| bip_39_word_underscore_3 | phrase_movie_nephew |  
+| bip_39_word_underscore_4 | phrase_movie_nephew_live |  
+| bip_39_word_underscore_5 | phrase_movie_nephew_live_liberty |  
+| bip_39_word_underscore_6 | phrase_movie_nephew_live_liberty_knife |  
+| bip_39_word_underscore_7 | phrase_movie_nephew_live_liberty_knife_chair |  
+| bip_39_word_underscore_8 | phrase_movie_nephew_live_liberty_knife_chair_trim |  
+| bip_39_word_underscore_9 | phrase_movie_nephew_live_liberty_knife_chair_trim_airport |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

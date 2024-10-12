@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mosquito |  
+| bip_39_word_dash_10 | mosquito-old-minor-butter-inherit-super-host-decrease-stay-prefer |  
+| bip_39_word_dash_11 | mosquito-old-minor-butter-inherit-super-host-decrease-stay-prefer-immune |  
+| bip_39_word_dash_12 | mosquito-old-minor-butter-inherit-super-host-decrease-stay-prefer-immune-assist |  
+| bip_39_word_dash_2 | mosquito-old |  
+| bip_39_word_dash_3 | mosquito-old-minor |  
+| bip_39_word_dash_4 | mosquito-old-minor-butter |  
+| bip_39_word_dash_5 | mosquito-old-minor-butter-inherit |  
+| bip_39_word_dash_6 | mosquito-old-minor-butter-inherit-super |  
+| bip_39_word_dash_7 | mosquito-old-minor-butter-inherit-super-host |  
+| bip_39_word_dash_8 | mosquito-old-minor-butter-inherit-super-host-decrease |  
+| bip_39_word_dash_9 | mosquito-old-minor-butter-inherit-super-host-decrease-stay |  
 | bip_39_word_new_br_1 | mosquito |  
 | bip_39_word_new_br_10 | mosquito<br>old<br>minor<br>butter<br>inherit<br>super<br>host<br>decrease<br>stay<br>prefer |  
 | bip_39_word_new_br_11 | mosquito<br>old<br>minor<br>butter<br>inherit<br>super<br>host<br>decrease<br>stay<br>prefer<br>immune |  
@@ -147,6 +159,18 @@ stay |
 | bip_39_word_space_7 | mosquito old minor butter inherit super host |  
 | bip_39_word_space_8 | mosquito old minor butter inherit super host decrease |  
 | bip_39_word_space_9 | mosquito old minor butter inherit super host decrease stay |  
+| bip_39_word_underscore_1 | mosquito |  
+| bip_39_word_underscore_10 | mosquito_old_minor_butter_inherit_super_host_decrease_stay_prefer |  
+| bip_39_word_underscore_11 | mosquito_old_minor_butter_inherit_super_host_decrease_stay_prefer_immune |  
+| bip_39_word_underscore_12 | mosquito_old_minor_butter_inherit_super_host_decrease_stay_prefer_immune_assist |  
+| bip_39_word_underscore_2 | mosquito_old |  
+| bip_39_word_underscore_3 | mosquito_old_minor |  
+| bip_39_word_underscore_4 | mosquito_old_minor_butter |  
+| bip_39_word_underscore_5 | mosquito_old_minor_butter_inherit |  
+| bip_39_word_underscore_6 | mosquito_old_minor_butter_inherit_super |  
+| bip_39_word_underscore_7 | mosquito_old_minor_butter_inherit_super_host |  
+| bip_39_word_underscore_8 | mosquito_old_minor_butter_inherit_super_host_decrease |  
+| bip_39_word_underscore_9 | mosquito_old_minor_butter_inherit_super_host_decrease_stay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

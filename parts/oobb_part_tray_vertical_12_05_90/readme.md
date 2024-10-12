@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shine |  
+| bip_39_word_dash_10 | shine-make-ostrich-family-sock-crew-note-muffin-worry-trap |  
+| bip_39_word_dash_11 | shine-make-ostrich-family-sock-crew-note-muffin-worry-trap-grant |  
+| bip_39_word_dash_12 | shine-make-ostrich-family-sock-crew-note-muffin-worry-trap-grant-arrange |  
+| bip_39_word_dash_2 | shine-make |  
+| bip_39_word_dash_3 | shine-make-ostrich |  
+| bip_39_word_dash_4 | shine-make-ostrich-family |  
+| bip_39_word_dash_5 | shine-make-ostrich-family-sock |  
+| bip_39_word_dash_6 | shine-make-ostrich-family-sock-crew |  
+| bip_39_word_dash_7 | shine-make-ostrich-family-sock-crew-note |  
+| bip_39_word_dash_8 | shine-make-ostrich-family-sock-crew-note-muffin |  
+| bip_39_word_dash_9 | shine-make-ostrich-family-sock-crew-note-muffin-worry |  
 | bip_39_word_new_br_1 | shine |  
 | bip_39_word_new_br_10 | shine<br>make<br>ostrich<br>family<br>sock<br>crew<br>note<br>muffin<br>worry<br>trap |  
 | bip_39_word_new_br_11 | shine<br>make<br>ostrich<br>family<br>sock<br>crew<br>note<br>muffin<br>worry<br>trap<br>grant |  
@@ -147,6 +159,18 @@ worry |
 | bip_39_word_space_7 | shine make ostrich family sock crew note |  
 | bip_39_word_space_8 | shine make ostrich family sock crew note muffin |  
 | bip_39_word_space_9 | shine make ostrich family sock crew note muffin worry |  
+| bip_39_word_underscore_1 | shine |  
+| bip_39_word_underscore_10 | shine_make_ostrich_family_sock_crew_note_muffin_worry_trap |  
+| bip_39_word_underscore_11 | shine_make_ostrich_family_sock_crew_note_muffin_worry_trap_grant |  
+| bip_39_word_underscore_12 | shine_make_ostrich_family_sock_crew_note_muffin_worry_trap_grant_arrange |  
+| bip_39_word_underscore_2 | shine_make |  
+| bip_39_word_underscore_3 | shine_make_ostrich |  
+| bip_39_word_underscore_4 | shine_make_ostrich_family |  
+| bip_39_word_underscore_5 | shine_make_ostrich_family_sock |  
+| bip_39_word_underscore_6 | shine_make_ostrich_family_sock_crew |  
+| bip_39_word_underscore_7 | shine_make_ostrich_family_sock_crew_note |  
+| bip_39_word_underscore_8 | shine_make_ostrich_family_sock_crew_note_muffin |  
+| bip_39_word_underscore_9 | shine_make_ostrich_family_sock_crew_note_muffin_worry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

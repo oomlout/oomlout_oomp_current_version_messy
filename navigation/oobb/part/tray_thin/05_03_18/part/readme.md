@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | regular |  
+| bip_39_word_dash_10 | regular-census-feel-stadium-spawn-error-judge-turkey-sport-night |  
+| bip_39_word_dash_11 | regular-census-feel-stadium-spawn-error-judge-turkey-sport-night-swarm |  
+| bip_39_word_dash_12 | regular-census-feel-stadium-spawn-error-judge-turkey-sport-night-swarm-amused |  
+| bip_39_word_dash_2 | regular-census |  
+| bip_39_word_dash_3 | regular-census-feel |  
+| bip_39_word_dash_4 | regular-census-feel-stadium |  
+| bip_39_word_dash_5 | regular-census-feel-stadium-spawn |  
+| bip_39_word_dash_6 | regular-census-feel-stadium-spawn-error |  
+| bip_39_word_dash_7 | regular-census-feel-stadium-spawn-error-judge |  
+| bip_39_word_dash_8 | regular-census-feel-stadium-spawn-error-judge-turkey |  
+| bip_39_word_dash_9 | regular-census-feel-stadium-spawn-error-judge-turkey-sport |  
 | bip_39_word_new_br_1 | regular |  
 | bip_39_word_new_br_10 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night |  
 | bip_39_word_new_br_11 | regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night<br>swarm |  
@@ -147,6 +159,18 @@ sport |
 | bip_39_word_space_7 | regular census feel stadium spawn error judge |  
 | bip_39_word_space_8 | regular census feel stadium spawn error judge turkey |  
 | bip_39_word_space_9 | regular census feel stadium spawn error judge turkey sport |  
+| bip_39_word_underscore_1 | regular |  
+| bip_39_word_underscore_10 | regular_census_feel_stadium_spawn_error_judge_turkey_sport_night |  
+| bip_39_word_underscore_11 | regular_census_feel_stadium_spawn_error_judge_turkey_sport_night_swarm |  
+| bip_39_word_underscore_12 | regular_census_feel_stadium_spawn_error_judge_turkey_sport_night_swarm_amused |  
+| bip_39_word_underscore_2 | regular_census |  
+| bip_39_word_underscore_3 | regular_census_feel |  
+| bip_39_word_underscore_4 | regular_census_feel_stadium |  
+| bip_39_word_underscore_5 | regular_census_feel_stadium_spawn |  
+| bip_39_word_underscore_6 | regular_census_feel_stadium_spawn_error |  
+| bip_39_word_underscore_7 | regular_census_feel_stadium_spawn_error_judge |  
+| bip_39_word_underscore_8 | regular_census_feel_stadium_spawn_error_judge_turkey |  
+| bip_39_word_underscore_9 | regular_census_feel_stadium_spawn_error_judge_turkey_sport |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

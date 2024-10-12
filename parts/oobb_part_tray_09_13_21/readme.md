@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | detect |  
+| bip_39_word_dash_10 | detect-muscle-young-enforce-hospital-visit-twice-rival-float-elegant |  
+| bip_39_word_dash_11 | detect-muscle-young-enforce-hospital-visit-twice-rival-float-elegant-bonus |  
+| bip_39_word_dash_12 | detect-muscle-young-enforce-hospital-visit-twice-rival-float-elegant-bonus-afraid |  
+| bip_39_word_dash_2 | detect-muscle |  
+| bip_39_word_dash_3 | detect-muscle-young |  
+| bip_39_word_dash_4 | detect-muscle-young-enforce |  
+| bip_39_word_dash_5 | detect-muscle-young-enforce-hospital |  
+| bip_39_word_dash_6 | detect-muscle-young-enforce-hospital-visit |  
+| bip_39_word_dash_7 | detect-muscle-young-enforce-hospital-visit-twice |  
+| bip_39_word_dash_8 | detect-muscle-young-enforce-hospital-visit-twice-rival |  
+| bip_39_word_dash_9 | detect-muscle-young-enforce-hospital-visit-twice-rival-float |  
 | bip_39_word_new_br_1 | detect |  
 | bip_39_word_new_br_10 | detect<br>muscle<br>young<br>enforce<br>hospital<br>visit<br>twice<br>rival<br>float<br>elegant |  
 | bip_39_word_new_br_11 | detect<br>muscle<br>young<br>enforce<br>hospital<br>visit<br>twice<br>rival<br>float<br>elegant<br>bonus |  
@@ -147,6 +159,18 @@ float |
 | bip_39_word_space_7 | detect muscle young enforce hospital visit twice |  
 | bip_39_word_space_8 | detect muscle young enforce hospital visit twice rival |  
 | bip_39_word_space_9 | detect muscle young enforce hospital visit twice rival float |  
+| bip_39_word_underscore_1 | detect |  
+| bip_39_word_underscore_10 | detect_muscle_young_enforce_hospital_visit_twice_rival_float_elegant |  
+| bip_39_word_underscore_11 | detect_muscle_young_enforce_hospital_visit_twice_rival_float_elegant_bonus |  
+| bip_39_word_underscore_12 | detect_muscle_young_enforce_hospital_visit_twice_rival_float_elegant_bonus_afraid |  
+| bip_39_word_underscore_2 | detect_muscle |  
+| bip_39_word_underscore_3 | detect_muscle_young |  
+| bip_39_word_underscore_4 | detect_muscle_young_enforce |  
+| bip_39_word_underscore_5 | detect_muscle_young_enforce_hospital |  
+| bip_39_word_underscore_6 | detect_muscle_young_enforce_hospital_visit |  
+| bip_39_word_underscore_7 | detect_muscle_young_enforce_hospital_visit_twice |  
+| bip_39_word_underscore_8 | detect_muscle_young_enforce_hospital_visit_twice_rival |  
+| bip_39_word_underscore_9 | detect_muscle_young_enforce_hospital_visit_twice_rival_float |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

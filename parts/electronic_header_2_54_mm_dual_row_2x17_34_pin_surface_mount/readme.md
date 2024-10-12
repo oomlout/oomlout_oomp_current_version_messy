@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resource |  
+| bip_39_word_dash_10 | resource-gadget-popular-unveil-tissue-burst-mirror-area-pitch-electric |  
+| bip_39_word_dash_11 | resource-gadget-popular-unveil-tissue-burst-mirror-area-pitch-electric-portion |  
+| bip_39_word_dash_12 | resource-gadget-popular-unveil-tissue-burst-mirror-area-pitch-electric-portion-acid |  
+| bip_39_word_dash_2 | resource-gadget |  
+| bip_39_word_dash_3 | resource-gadget-popular |  
+| bip_39_word_dash_4 | resource-gadget-popular-unveil |  
+| bip_39_word_dash_5 | resource-gadget-popular-unveil-tissue |  
+| bip_39_word_dash_6 | resource-gadget-popular-unveil-tissue-burst |  
+| bip_39_word_dash_7 | resource-gadget-popular-unveil-tissue-burst-mirror |  
+| bip_39_word_dash_8 | resource-gadget-popular-unveil-tissue-burst-mirror-area |  
+| bip_39_word_dash_9 | resource-gadget-popular-unveil-tissue-burst-mirror-area-pitch |  
 | bip_39_word_new_br_1 | resource |  
 | bip_39_word_new_br_10 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric |  
 | bip_39_word_new_br_11 | resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric<br>portion |  
@@ -147,6 +159,18 @@ pitch |
 | bip_39_word_space_7 | resource gadget popular unveil tissue burst mirror |  
 | bip_39_word_space_8 | resource gadget popular unveil tissue burst mirror area |  
 | bip_39_word_space_9 | resource gadget popular unveil tissue burst mirror area pitch |  
+| bip_39_word_underscore_1 | resource |  
+| bip_39_word_underscore_10 | resource_gadget_popular_unveil_tissue_burst_mirror_area_pitch_electric |  
+| bip_39_word_underscore_11 | resource_gadget_popular_unveil_tissue_burst_mirror_area_pitch_electric_portion |  
+| bip_39_word_underscore_12 | resource_gadget_popular_unveil_tissue_burst_mirror_area_pitch_electric_portion_acid |  
+| bip_39_word_underscore_2 | resource_gadget |  
+| bip_39_word_underscore_3 | resource_gadget_popular |  
+| bip_39_word_underscore_4 | resource_gadget_popular_unveil |  
+| bip_39_word_underscore_5 | resource_gadget_popular_unveil_tissue |  
+| bip_39_word_underscore_6 | resource_gadget_popular_unveil_tissue_burst |  
+| bip_39_word_underscore_7 | resource_gadget_popular_unveil_tissue_burst_mirror |  
+| bip_39_word_underscore_8 | resource_gadget_popular_unveil_tissue_burst_mirror_area |  
+| bip_39_word_underscore_9 | resource_gadget_popular_unveil_tissue_burst_mirror_area_pitch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

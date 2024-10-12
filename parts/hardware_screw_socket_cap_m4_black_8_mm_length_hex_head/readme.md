@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vapor |  
+| bip_39_word_dash_10 | vapor-custom-book-fold-swallow-cigar-employ-candy-fringe-valve |  
+| bip_39_word_dash_11 | vapor-custom-book-fold-swallow-cigar-employ-candy-fringe-valve-elite |  
+| bip_39_word_dash_12 | vapor-custom-book-fold-swallow-cigar-employ-candy-fringe-valve-elite-anxiety |  
+| bip_39_word_dash_2 | vapor-custom |  
+| bip_39_word_dash_3 | vapor-custom-book |  
+| bip_39_word_dash_4 | vapor-custom-book-fold |  
+| bip_39_word_dash_5 | vapor-custom-book-fold-swallow |  
+| bip_39_word_dash_6 | vapor-custom-book-fold-swallow-cigar |  
+| bip_39_word_dash_7 | vapor-custom-book-fold-swallow-cigar-employ |  
+| bip_39_word_dash_8 | vapor-custom-book-fold-swallow-cigar-employ-candy |  
+| bip_39_word_dash_9 | vapor-custom-book-fold-swallow-cigar-employ-candy-fringe |  
 | bip_39_word_new_br_1 | vapor |  
 | bip_39_word_new_br_10 | vapor<br>custom<br>book<br>fold<br>swallow<br>cigar<br>employ<br>candy<br>fringe<br>valve |  
 | bip_39_word_new_br_11 | vapor<br>custom<br>book<br>fold<br>swallow<br>cigar<br>employ<br>candy<br>fringe<br>valve<br>elite |  
@@ -147,6 +159,18 @@ fringe |
 | bip_39_word_space_7 | vapor custom book fold swallow cigar employ |  
 | bip_39_word_space_8 | vapor custom book fold swallow cigar employ candy |  
 | bip_39_word_space_9 | vapor custom book fold swallow cigar employ candy fringe |  
+| bip_39_word_underscore_1 | vapor |  
+| bip_39_word_underscore_10 | vapor_custom_book_fold_swallow_cigar_employ_candy_fringe_valve |  
+| bip_39_word_underscore_11 | vapor_custom_book_fold_swallow_cigar_employ_candy_fringe_valve_elite |  
+| bip_39_word_underscore_12 | vapor_custom_book_fold_swallow_cigar_employ_candy_fringe_valve_elite_anxiety |  
+| bip_39_word_underscore_2 | vapor_custom |  
+| bip_39_word_underscore_3 | vapor_custom_book |  
+| bip_39_word_underscore_4 | vapor_custom_book_fold |  
+| bip_39_word_underscore_5 | vapor_custom_book_fold_swallow |  
+| bip_39_word_underscore_6 | vapor_custom_book_fold_swallow_cigar |  
+| bip_39_word_underscore_7 | vapor_custom_book_fold_swallow_cigar_employ |  
+| bip_39_word_underscore_8 | vapor_custom_book_fold_swallow_cigar_employ_candy |  
+| bip_39_word_underscore_9 | vapor_custom_book_fold_swallow_cigar_employ_candy_fringe |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

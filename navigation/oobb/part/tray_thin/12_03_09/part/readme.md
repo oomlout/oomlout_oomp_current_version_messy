@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | element |  
+| bip_39_word_dash_10 | element-trip-seed-monkey-pluck-palm-awesome-excess-board-duck |  
+| bip_39_word_dash_11 | element-trip-seed-monkey-pluck-palm-awesome-excess-board-duck-danger |  
+| bip_39_word_dash_12 | element-trip-seed-monkey-pluck-palm-awesome-excess-board-duck-danger-afraid |  
+| bip_39_word_dash_2 | element-trip |  
+| bip_39_word_dash_3 | element-trip-seed |  
+| bip_39_word_dash_4 | element-trip-seed-monkey |  
+| bip_39_word_dash_5 | element-trip-seed-monkey-pluck |  
+| bip_39_word_dash_6 | element-trip-seed-monkey-pluck-palm |  
+| bip_39_word_dash_7 | element-trip-seed-monkey-pluck-palm-awesome |  
+| bip_39_word_dash_8 | element-trip-seed-monkey-pluck-palm-awesome-excess |  
+| bip_39_word_dash_9 | element-trip-seed-monkey-pluck-palm-awesome-excess-board |  
 | bip_39_word_new_br_1 | element |  
 | bip_39_word_new_br_10 | element<br>trip<br>seed<br>monkey<br>pluck<br>palm<br>awesome<br>excess<br>board<br>duck |  
 | bip_39_word_new_br_11 | element<br>trip<br>seed<br>monkey<br>pluck<br>palm<br>awesome<br>excess<br>board<br>duck<br>danger |  
@@ -147,6 +159,18 @@ board |
 | bip_39_word_space_7 | element trip seed monkey pluck palm awesome |  
 | bip_39_word_space_8 | element trip seed monkey pluck palm awesome excess |  
 | bip_39_word_space_9 | element trip seed monkey pluck palm awesome excess board |  
+| bip_39_word_underscore_1 | element |  
+| bip_39_word_underscore_10 | element_trip_seed_monkey_pluck_palm_awesome_excess_board_duck |  
+| bip_39_word_underscore_11 | element_trip_seed_monkey_pluck_palm_awesome_excess_board_duck_danger |  
+| bip_39_word_underscore_12 | element_trip_seed_monkey_pluck_palm_awesome_excess_board_duck_danger_afraid |  
+| bip_39_word_underscore_2 | element_trip |  
+| bip_39_word_underscore_3 | element_trip_seed |  
+| bip_39_word_underscore_4 | element_trip_seed_monkey |  
+| bip_39_word_underscore_5 | element_trip_seed_monkey_pluck |  
+| bip_39_word_underscore_6 | element_trip_seed_monkey_pluck_palm |  
+| bip_39_word_underscore_7 | element_trip_seed_monkey_pluck_palm_awesome |  
+| bip_39_word_underscore_8 | element_trip_seed_monkey_pluck_palm_awesome_excess |  
+| bip_39_word_underscore_9 | element_trip_seed_monkey_pluck_palm_awesome_excess_board |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

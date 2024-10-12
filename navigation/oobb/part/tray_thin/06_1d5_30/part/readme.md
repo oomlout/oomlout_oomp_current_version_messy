@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | runway |  
+| bip_39_word_dash_10 | runway-catalog-exist-obey-enforce-energy-mistake-wage-frame-egg |  
+| bip_39_word_dash_11 | runway-catalog-exist-obey-enforce-energy-mistake-wage-frame-egg-awake |  
+| bip_39_word_dash_12 | runway-catalog-exist-obey-enforce-energy-mistake-wage-frame-egg-awake-actual |  
+| bip_39_word_dash_2 | runway-catalog |  
+| bip_39_word_dash_3 | runway-catalog-exist |  
+| bip_39_word_dash_4 | runway-catalog-exist-obey |  
+| bip_39_word_dash_5 | runway-catalog-exist-obey-enforce |  
+| bip_39_word_dash_6 | runway-catalog-exist-obey-enforce-energy |  
+| bip_39_word_dash_7 | runway-catalog-exist-obey-enforce-energy-mistake |  
+| bip_39_word_dash_8 | runway-catalog-exist-obey-enforce-energy-mistake-wage |  
+| bip_39_word_dash_9 | runway-catalog-exist-obey-enforce-energy-mistake-wage-frame |  
 | bip_39_word_new_br_1 | runway |  
 | bip_39_word_new_br_10 | runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg |  
 | bip_39_word_new_br_11 | runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg<br>awake |  
@@ -147,6 +159,18 @@ frame |
 | bip_39_word_space_7 | runway catalog exist obey enforce energy mistake |  
 | bip_39_word_space_8 | runway catalog exist obey enforce energy mistake wage |  
 | bip_39_word_space_9 | runway catalog exist obey enforce energy mistake wage frame |  
+| bip_39_word_underscore_1 | runway |  
+| bip_39_word_underscore_10 | runway_catalog_exist_obey_enforce_energy_mistake_wage_frame_egg |  
+| bip_39_word_underscore_11 | runway_catalog_exist_obey_enforce_energy_mistake_wage_frame_egg_awake |  
+| bip_39_word_underscore_12 | runway_catalog_exist_obey_enforce_energy_mistake_wage_frame_egg_awake_actual |  
+| bip_39_word_underscore_2 | runway_catalog |  
+| bip_39_word_underscore_3 | runway_catalog_exist |  
+| bip_39_word_underscore_4 | runway_catalog_exist_obey |  
+| bip_39_word_underscore_5 | runway_catalog_exist_obey_enforce |  
+| bip_39_word_underscore_6 | runway_catalog_exist_obey_enforce_energy |  
+| bip_39_word_underscore_7 | runway_catalog_exist_obey_enforce_energy_mistake |  
+| bip_39_word_underscore_8 | runway_catalog_exist_obey_enforce_energy_mistake_wage |  
+| bip_39_word_underscore_9 | runway_catalog_exist_obey_enforce_energy_mistake_wage_frame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

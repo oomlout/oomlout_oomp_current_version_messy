@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | miracle |  
+| bip_39_word_dash_10 | miracle-tourist-raw-mad-soon-fork-rent-cupboard-small-shed |  
+| bip_39_word_dash_11 | miracle-tourist-raw-mad-soon-fork-rent-cupboard-small-shed-agent |  
+| bip_39_word_dash_12 | miracle-tourist-raw-mad-soon-fork-rent-cupboard-small-shed-agent-armed |  
+| bip_39_word_dash_2 | miracle-tourist |  
+| bip_39_word_dash_3 | miracle-tourist-raw |  
+| bip_39_word_dash_4 | miracle-tourist-raw-mad |  
+| bip_39_word_dash_5 | miracle-tourist-raw-mad-soon |  
+| bip_39_word_dash_6 | miracle-tourist-raw-mad-soon-fork |  
+| bip_39_word_dash_7 | miracle-tourist-raw-mad-soon-fork-rent |  
+| bip_39_word_dash_8 | miracle-tourist-raw-mad-soon-fork-rent-cupboard |  
+| bip_39_word_dash_9 | miracle-tourist-raw-mad-soon-fork-rent-cupboard-small |  
 | bip_39_word_new_br_1 | miracle |  
 | bip_39_word_new_br_10 | miracle<br>tourist<br>raw<br>mad<br>soon<br>fork<br>rent<br>cupboard<br>small<br>shed |  
 | bip_39_word_new_br_11 | miracle<br>tourist<br>raw<br>mad<br>soon<br>fork<br>rent<br>cupboard<br>small<br>shed<br>agent |  
@@ -147,6 +159,18 @@ small |
 | bip_39_word_space_7 | miracle tourist raw mad soon fork rent |  
 | bip_39_word_space_8 | miracle tourist raw mad soon fork rent cupboard |  
 | bip_39_word_space_9 | miracle tourist raw mad soon fork rent cupboard small |  
+| bip_39_word_underscore_1 | miracle |  
+| bip_39_word_underscore_10 | miracle_tourist_raw_mad_soon_fork_rent_cupboard_small_shed |  
+| bip_39_word_underscore_11 | miracle_tourist_raw_mad_soon_fork_rent_cupboard_small_shed_agent |  
+| bip_39_word_underscore_12 | miracle_tourist_raw_mad_soon_fork_rent_cupboard_small_shed_agent_armed |  
+| bip_39_word_underscore_2 | miracle_tourist |  
+| bip_39_word_underscore_3 | miracle_tourist_raw |  
+| bip_39_word_underscore_4 | miracle_tourist_raw_mad |  
+| bip_39_word_underscore_5 | miracle_tourist_raw_mad_soon |  
+| bip_39_word_underscore_6 | miracle_tourist_raw_mad_soon_fork |  
+| bip_39_word_underscore_7 | miracle_tourist_raw_mad_soon_fork_rent |  
+| bip_39_word_underscore_8 | miracle_tourist_raw_mad_soon_fork_rent_cupboard |  
+| bip_39_word_underscore_9 | miracle_tourist_raw_mad_soon_fork_rent_cupboard_small |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

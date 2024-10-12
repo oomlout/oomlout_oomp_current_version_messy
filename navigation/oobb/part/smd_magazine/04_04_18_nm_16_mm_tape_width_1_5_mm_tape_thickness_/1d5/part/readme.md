@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stand |  
+| bip_39_word_dash_10 | stand-output-burst-cloud-erupt-horse-happy-increase-monitor-chicken |  
+| bip_39_word_dash_11 | stand-output-burst-cloud-erupt-horse-happy-increase-monitor-chicken-grain |  
+| bip_39_word_dash_12 | stand-output-burst-cloud-erupt-horse-happy-increase-monitor-chicken-grain-alert |  
+| bip_39_word_dash_2 | stand-output |  
+| bip_39_word_dash_3 | stand-output-burst |  
+| bip_39_word_dash_4 | stand-output-burst-cloud |  
+| bip_39_word_dash_5 | stand-output-burst-cloud-erupt |  
+| bip_39_word_dash_6 | stand-output-burst-cloud-erupt-horse |  
+| bip_39_word_dash_7 | stand-output-burst-cloud-erupt-horse-happy |  
+| bip_39_word_dash_8 | stand-output-burst-cloud-erupt-horse-happy-increase |  
+| bip_39_word_dash_9 | stand-output-burst-cloud-erupt-horse-happy-increase-monitor |  
 | bip_39_word_new_br_1 | stand |  
 | bip_39_word_new_br_10 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase<br>monitor<br>chicken |  
 | bip_39_word_new_br_11 | stand<br>output<br>burst<br>cloud<br>erupt<br>horse<br>happy<br>increase<br>monitor<br>chicken<br>grain |  
@@ -147,6 +159,18 @@ monitor |
 | bip_39_word_space_7 | stand output burst cloud erupt horse happy |  
 | bip_39_word_space_8 | stand output burst cloud erupt horse happy increase |  
 | bip_39_word_space_9 | stand output burst cloud erupt horse happy increase monitor |  
+| bip_39_word_underscore_1 | stand |  
+| bip_39_word_underscore_10 | stand_output_burst_cloud_erupt_horse_happy_increase_monitor_chicken |  
+| bip_39_word_underscore_11 | stand_output_burst_cloud_erupt_horse_happy_increase_monitor_chicken_grain |  
+| bip_39_word_underscore_12 | stand_output_burst_cloud_erupt_horse_happy_increase_monitor_chicken_grain_alert |  
+| bip_39_word_underscore_2 | stand_output |  
+| bip_39_word_underscore_3 | stand_output_burst |  
+| bip_39_word_underscore_4 | stand_output_burst_cloud |  
+| bip_39_word_underscore_5 | stand_output_burst_cloud_erupt |  
+| bip_39_word_underscore_6 | stand_output_burst_cloud_erupt_horse |  
+| bip_39_word_underscore_7 | stand_output_burst_cloud_erupt_horse_happy |  
+| bip_39_word_underscore_8 | stand_output_burst_cloud_erupt_horse_happy_increase |  
+| bip_39_word_underscore_9 | stand_output_burst_cloud_erupt_horse_happy_increase_monitor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

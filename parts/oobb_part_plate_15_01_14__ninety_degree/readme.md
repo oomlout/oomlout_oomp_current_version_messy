@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | female |  
+| bip_39_word_dash_10 | female-install-apart-sunset-foam-brown-pudding-pause-home-first |  
+| bip_39_word_dash_11 | female-install-apart-sunset-foam-brown-pudding-pause-home-first-obey |  
+| bip_39_word_dash_12 | female-install-apart-sunset-foam-brown-pudding-pause-home-first-obey-arch |  
+| bip_39_word_dash_2 | female-install |  
+| bip_39_word_dash_3 | female-install-apart |  
+| bip_39_word_dash_4 | female-install-apart-sunset |  
+| bip_39_word_dash_5 | female-install-apart-sunset-foam |  
+| bip_39_word_dash_6 | female-install-apart-sunset-foam-brown |  
+| bip_39_word_dash_7 | female-install-apart-sunset-foam-brown-pudding |  
+| bip_39_word_dash_8 | female-install-apart-sunset-foam-brown-pudding-pause |  
+| bip_39_word_dash_9 | female-install-apart-sunset-foam-brown-pudding-pause-home |  
 | bip_39_word_new_br_1 | female |  
 | bip_39_word_new_br_10 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause<br>home<br>first |  
 | bip_39_word_new_br_11 | female<br>install<br>apart<br>sunset<br>foam<br>brown<br>pudding<br>pause<br>home<br>first<br>obey |  
@@ -147,6 +159,18 @@ home |
 | bip_39_word_space_7 | female install apart sunset foam brown pudding |  
 | bip_39_word_space_8 | female install apart sunset foam brown pudding pause |  
 | bip_39_word_space_9 | female install apart sunset foam brown pudding pause home |  
+| bip_39_word_underscore_1 | female |  
+| bip_39_word_underscore_10 | female_install_apart_sunset_foam_brown_pudding_pause_home_first |  
+| bip_39_word_underscore_11 | female_install_apart_sunset_foam_brown_pudding_pause_home_first_obey |  
+| bip_39_word_underscore_12 | female_install_apart_sunset_foam_brown_pudding_pause_home_first_obey_arch |  
+| bip_39_word_underscore_2 | female_install |  
+| bip_39_word_underscore_3 | female_install_apart |  
+| bip_39_word_underscore_4 | female_install_apart_sunset |  
+| bip_39_word_underscore_5 | female_install_apart_sunset_foam |  
+| bip_39_word_underscore_6 | female_install_apart_sunset_foam_brown |  
+| bip_39_word_underscore_7 | female_install_apart_sunset_foam_brown_pudding |  
+| bip_39_word_underscore_8 | female_install_apart_sunset_foam_brown_pudding_pause |  
+| bip_39_word_underscore_9 | female_install_apart_sunset_foam_brown_pudding_pause_home |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jump |  
+| bip_39_word_dash_10 | jump-fashion-weekend-trip-maid-pair-pull-onion-plug-borrow |  
+| bip_39_word_dash_11 | jump-fashion-weekend-trip-maid-pair-pull-onion-plug-borrow-spoon |  
+| bip_39_word_dash_12 | jump-fashion-weekend-trip-maid-pair-pull-onion-plug-borrow-spoon-ahead |  
+| bip_39_word_dash_2 | jump-fashion |  
+| bip_39_word_dash_3 | jump-fashion-weekend |  
+| bip_39_word_dash_4 | jump-fashion-weekend-trip |  
+| bip_39_word_dash_5 | jump-fashion-weekend-trip-maid |  
+| bip_39_word_dash_6 | jump-fashion-weekend-trip-maid-pair |  
+| bip_39_word_dash_7 | jump-fashion-weekend-trip-maid-pair-pull |  
+| bip_39_word_dash_8 | jump-fashion-weekend-trip-maid-pair-pull-onion |  
+| bip_39_word_dash_9 | jump-fashion-weekend-trip-maid-pair-pull-onion-plug |  
 | bip_39_word_new_br_1 | jump |  
 | bip_39_word_new_br_10 | jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion<br>plug<br>borrow |  
 | bip_39_word_new_br_11 | jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion<br>plug<br>borrow<br>spoon |  
@@ -147,6 +159,18 @@ plug |
 | bip_39_word_space_7 | jump fashion weekend trip maid pair pull |  
 | bip_39_word_space_8 | jump fashion weekend trip maid pair pull onion |  
 | bip_39_word_space_9 | jump fashion weekend trip maid pair pull onion plug |  
+| bip_39_word_underscore_1 | jump |  
+| bip_39_word_underscore_10 | jump_fashion_weekend_trip_maid_pair_pull_onion_plug_borrow |  
+| bip_39_word_underscore_11 | jump_fashion_weekend_trip_maid_pair_pull_onion_plug_borrow_spoon |  
+| bip_39_word_underscore_12 | jump_fashion_weekend_trip_maid_pair_pull_onion_plug_borrow_spoon_ahead |  
+| bip_39_word_underscore_2 | jump_fashion |  
+| bip_39_word_underscore_3 | jump_fashion_weekend |  
+| bip_39_word_underscore_4 | jump_fashion_weekend_trip |  
+| bip_39_word_underscore_5 | jump_fashion_weekend_trip_maid |  
+| bip_39_word_underscore_6 | jump_fashion_weekend_trip_maid_pair |  
+| bip_39_word_underscore_7 | jump_fashion_weekend_trip_maid_pair_pull |  
+| bip_39_word_underscore_8 | jump_fashion_weekend_trip_maid_pair_pull_onion |  
+| bip_39_word_underscore_9 | jump_fashion_weekend_trip_maid_pair_pull_onion_plug |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

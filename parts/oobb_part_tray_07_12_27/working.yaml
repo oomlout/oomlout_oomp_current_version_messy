@@ -1,3 +1,15 @@
+bip_39_word_dash_1: kiss
+bip_39_word_dash_10: kiss-empty-fine-upset-other-minor-rule-unit-science-vocal
+bip_39_word_dash_11: kiss-empty-fine-upset-other-minor-rule-unit-science-vocal-resist
+bip_39_word_dash_12: kiss-empty-fine-upset-other-minor-rule-unit-science-vocal-resist-about
+bip_39_word_dash_2: kiss-empty
+bip_39_word_dash_3: kiss-empty-fine
+bip_39_word_dash_4: kiss-empty-fine-upset
+bip_39_word_dash_5: kiss-empty-fine-upset-other
+bip_39_word_dash_6: kiss-empty-fine-upset-other-minor
+bip_39_word_dash_7: kiss-empty-fine-upset-other-minor-rule
+bip_39_word_dash_8: kiss-empty-fine-upset-other-minor-rule-unit
+bip_39_word_dash_9: kiss-empty-fine-upset-other-minor-rule-unit-science
 bip_39_word_new_br_1: kiss
 bip_39_word_new_br_10: kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit<br>science<br>vocal
 bip_39_word_new_br_11: kiss<br>empty<br>fine<br>upset<br>other<br>minor<br>rule<br>unit<br>science<br>vocal<br>resist
@@ -192,6 +204,18 @@ bip_39_word_space_6: kiss empty fine upset other minor
 bip_39_word_space_7: kiss empty fine upset other minor rule
 bip_39_word_space_8: kiss empty fine upset other minor rule unit
 bip_39_word_space_9: kiss empty fine upset other minor rule unit science
+bip_39_word_underscore_1: kiss
+bip_39_word_underscore_10: kiss_empty_fine_upset_other_minor_rule_unit_science_vocal
+bip_39_word_underscore_11: kiss_empty_fine_upset_other_minor_rule_unit_science_vocal_resist
+bip_39_word_underscore_12: kiss_empty_fine_upset_other_minor_rule_unit_science_vocal_resist_about
+bip_39_word_underscore_2: kiss_empty
+bip_39_word_underscore_3: kiss_empty_fine
+bip_39_word_underscore_4: kiss_empty_fine_upset
+bip_39_word_underscore_5: kiss_empty_fine_upset_other
+bip_39_word_underscore_6: kiss_empty_fine_upset_other_minor
+bip_39_word_underscore_7: kiss_empty_fine_upset_other_minor_rule
+bip_39_word_underscore_8: kiss_empty_fine_upset_other_minor_rule_unit
+bip_39_word_underscore_9: kiss_empty_fine_upset_other_minor_rule_unit_science
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

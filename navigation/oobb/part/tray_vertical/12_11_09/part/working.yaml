@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ship
+bip_39_word_dash_10: ship-husband-response-question-speed-engine-width-absurd-swamp-among
+bip_39_word_dash_11: ship-husband-response-question-speed-engine-width-absurd-swamp-among-foot
+bip_39_word_dash_12: ship-husband-response-question-speed-engine-width-absurd-swamp-among-foot-accuse
+bip_39_word_dash_2: ship-husband
+bip_39_word_dash_3: ship-husband-response
+bip_39_word_dash_4: ship-husband-response-question
+bip_39_word_dash_5: ship-husband-response-question-speed
+bip_39_word_dash_6: ship-husband-response-question-speed-engine
+bip_39_word_dash_7: ship-husband-response-question-speed-engine-width
+bip_39_word_dash_8: ship-husband-response-question-speed-engine-width-absurd
+bip_39_word_dash_9: ship-husband-response-question-speed-engine-width-absurd-swamp
 bip_39_word_new_br_1: ship
 bip_39_word_new_br_10: ship<br>husband<br>response<br>question<br>speed<br>engine<br>width<br>absurd<br>swamp<br>among
 bip_39_word_new_br_11: ship<br>husband<br>response<br>question<br>speed<br>engine<br>width<br>absurd<br>swamp<br>among<br>foot
@@ -194,6 +206,18 @@ bip_39_word_space_6: ship husband response question speed engine
 bip_39_word_space_7: ship husband response question speed engine width
 bip_39_word_space_8: ship husband response question speed engine width absurd
 bip_39_word_space_9: ship husband response question speed engine width absurd swamp
+bip_39_word_underscore_1: ship
+bip_39_word_underscore_10: ship_husband_response_question_speed_engine_width_absurd_swamp_among
+bip_39_word_underscore_11: ship_husband_response_question_speed_engine_width_absurd_swamp_among_foot
+bip_39_word_underscore_12: ship_husband_response_question_speed_engine_width_absurd_swamp_among_foot_accuse
+bip_39_word_underscore_2: ship_husband
+bip_39_word_underscore_3: ship_husband_response
+bip_39_word_underscore_4: ship_husband_response_question
+bip_39_word_underscore_5: ship_husband_response_question_speed
+bip_39_word_underscore_6: ship_husband_response_question_speed_engine
+bip_39_word_underscore_7: ship_husband_response_question_speed_engine_width
+bip_39_word_underscore_8: ship_husband_response_question_speed_engine_width_absurd
+bip_39_word_underscore_9: ship_husband_response_question_speed_engine_width_absurd_swamp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

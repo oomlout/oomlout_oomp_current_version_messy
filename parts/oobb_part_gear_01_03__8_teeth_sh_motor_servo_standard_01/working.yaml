@@ -1,3 +1,15 @@
+bip_39_word_dash_1: size
+bip_39_word_dash_10: size-brisk-inject-volcano-grocery-pony-hawk-possible-tower-organ
+bip_39_word_dash_11: size-brisk-inject-volcano-grocery-pony-hawk-possible-tower-organ-swarm
+bip_39_word_dash_12: size-brisk-inject-volcano-grocery-pony-hawk-possible-tower-organ-swarm-always
+bip_39_word_dash_2: size-brisk
+bip_39_word_dash_3: size-brisk-inject
+bip_39_word_dash_4: size-brisk-inject-volcano
+bip_39_word_dash_5: size-brisk-inject-volcano-grocery
+bip_39_word_dash_6: size-brisk-inject-volcano-grocery-pony
+bip_39_word_dash_7: size-brisk-inject-volcano-grocery-pony-hawk
+bip_39_word_dash_8: size-brisk-inject-volcano-grocery-pony-hawk-possible
+bip_39_word_dash_9: size-brisk-inject-volcano-grocery-pony-hawk-possible-tower
 bip_39_word_new_br_1: size
 bip_39_word_new_br_10: size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ
 bip_39_word_new_br_11: size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ<br>swarm
@@ -193,6 +205,18 @@ bip_39_word_space_6: size brisk inject volcano grocery pony
 bip_39_word_space_7: size brisk inject volcano grocery pony hawk
 bip_39_word_space_8: size brisk inject volcano grocery pony hawk possible
 bip_39_word_space_9: size brisk inject volcano grocery pony hawk possible tower
+bip_39_word_underscore_1: size
+bip_39_word_underscore_10: size_brisk_inject_volcano_grocery_pony_hawk_possible_tower_organ
+bip_39_word_underscore_11: size_brisk_inject_volcano_grocery_pony_hawk_possible_tower_organ_swarm
+bip_39_word_underscore_12: size_brisk_inject_volcano_grocery_pony_hawk_possible_tower_organ_swarm_always
+bip_39_word_underscore_2: size_brisk
+bip_39_word_underscore_3: size_brisk_inject
+bip_39_word_underscore_4: size_brisk_inject_volcano
+bip_39_word_underscore_5: size_brisk_inject_volcano_grocery
+bip_39_word_underscore_6: size_brisk_inject_volcano_grocery_pony
+bip_39_word_underscore_7: size_brisk_inject_volcano_grocery_pony_hawk
+bip_39_word_underscore_8: size_brisk_inject_volcano_grocery_pony_hawk_possible
+bip_39_word_underscore_9: size_brisk_inject_volcano_grocery_pony_hawk_possible_tower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

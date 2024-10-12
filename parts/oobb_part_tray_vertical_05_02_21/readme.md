@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | helmet |  
+| bip_39_word_dash_10 | helmet-update-wrong-spoil-smooth-foster-knee-top-neutral-panda |  
+| bip_39_word_dash_11 | helmet-update-wrong-spoil-smooth-foster-knee-top-neutral-panda-finish |  
+| bip_39_word_dash_12 | helmet-update-wrong-spoil-smooth-foster-knee-top-neutral-panda-finish-advice |  
+| bip_39_word_dash_2 | helmet-update |  
+| bip_39_word_dash_3 | helmet-update-wrong |  
+| bip_39_word_dash_4 | helmet-update-wrong-spoil |  
+| bip_39_word_dash_5 | helmet-update-wrong-spoil-smooth |  
+| bip_39_word_dash_6 | helmet-update-wrong-spoil-smooth-foster |  
+| bip_39_word_dash_7 | helmet-update-wrong-spoil-smooth-foster-knee |  
+| bip_39_word_dash_8 | helmet-update-wrong-spoil-smooth-foster-knee-top |  
+| bip_39_word_dash_9 | helmet-update-wrong-spoil-smooth-foster-knee-top-neutral |  
 | bip_39_word_new_br_1 | helmet |  
 | bip_39_word_new_br_10 | helmet<br>update<br>wrong<br>spoil<br>smooth<br>foster<br>knee<br>top<br>neutral<br>panda |  
 | bip_39_word_new_br_11 | helmet<br>update<br>wrong<br>spoil<br>smooth<br>foster<br>knee<br>top<br>neutral<br>panda<br>finish |  
@@ -147,6 +159,18 @@ neutral |
 | bip_39_word_space_7 | helmet update wrong spoil smooth foster knee |  
 | bip_39_word_space_8 | helmet update wrong spoil smooth foster knee top |  
 | bip_39_word_space_9 | helmet update wrong spoil smooth foster knee top neutral |  
+| bip_39_word_underscore_1 | helmet |  
+| bip_39_word_underscore_10 | helmet_update_wrong_spoil_smooth_foster_knee_top_neutral_panda |  
+| bip_39_word_underscore_11 | helmet_update_wrong_spoil_smooth_foster_knee_top_neutral_panda_finish |  
+| bip_39_word_underscore_12 | helmet_update_wrong_spoil_smooth_foster_knee_top_neutral_panda_finish_advice |  
+| bip_39_word_underscore_2 | helmet_update |  
+| bip_39_word_underscore_3 | helmet_update_wrong |  
+| bip_39_word_underscore_4 | helmet_update_wrong_spoil |  
+| bip_39_word_underscore_5 | helmet_update_wrong_spoil_smooth |  
+| bip_39_word_underscore_6 | helmet_update_wrong_spoil_smooth_foster |  
+| bip_39_word_underscore_7 | helmet_update_wrong_spoil_smooth_foster_knee |  
+| bip_39_word_underscore_8 | helmet_update_wrong_spoil_smooth_foster_knee_top |  
+| bip_39_word_underscore_9 | helmet_update_wrong_spoil_smooth_foster_knee_top_neutral |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

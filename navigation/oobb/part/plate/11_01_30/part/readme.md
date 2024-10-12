@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chalk |  
+| bip_39_word_dash_10 | chalk-opera-used-sort-visit-hard-silk-hurry-photo-fire |  
+| bip_39_word_dash_11 | chalk-opera-used-sort-visit-hard-silk-hurry-photo-fire-sure |  
+| bip_39_word_dash_12 | chalk-opera-used-sort-visit-hard-silk-hurry-photo-fire-sure-another |  
+| bip_39_word_dash_2 | chalk-opera |  
+| bip_39_word_dash_3 | chalk-opera-used |  
+| bip_39_word_dash_4 | chalk-opera-used-sort |  
+| bip_39_word_dash_5 | chalk-opera-used-sort-visit |  
+| bip_39_word_dash_6 | chalk-opera-used-sort-visit-hard |  
+| bip_39_word_dash_7 | chalk-opera-used-sort-visit-hard-silk |  
+| bip_39_word_dash_8 | chalk-opera-used-sort-visit-hard-silk-hurry |  
+| bip_39_word_dash_9 | chalk-opera-used-sort-visit-hard-silk-hurry-photo |  
 | bip_39_word_new_br_1 | chalk |  
 | bip_39_word_new_br_10 | chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry<br>photo<br>fire |  
 | bip_39_word_new_br_11 | chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry<br>photo<br>fire<br>sure |  
@@ -147,6 +159,18 @@ photo |
 | bip_39_word_space_7 | chalk opera used sort visit hard silk |  
 | bip_39_word_space_8 | chalk opera used sort visit hard silk hurry |  
 | bip_39_word_space_9 | chalk opera used sort visit hard silk hurry photo |  
+| bip_39_word_underscore_1 | chalk |  
+| bip_39_word_underscore_10 | chalk_opera_used_sort_visit_hard_silk_hurry_photo_fire |  
+| bip_39_word_underscore_11 | chalk_opera_used_sort_visit_hard_silk_hurry_photo_fire_sure |  
+| bip_39_word_underscore_12 | chalk_opera_used_sort_visit_hard_silk_hurry_photo_fire_sure_another |  
+| bip_39_word_underscore_2 | chalk_opera |  
+| bip_39_word_underscore_3 | chalk_opera_used |  
+| bip_39_word_underscore_4 | chalk_opera_used_sort |  
+| bip_39_word_underscore_5 | chalk_opera_used_sort_visit |  
+| bip_39_word_underscore_6 | chalk_opera_used_sort_visit_hard |  
+| bip_39_word_underscore_7 | chalk_opera_used_sort_visit_hard_silk |  
+| bip_39_word_underscore_8 | chalk_opera_used_sort_visit_hard_silk_hurry |  
+| bip_39_word_underscore_9 | chalk_opera_used_sort_visit_hard_silk_hurry_photo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

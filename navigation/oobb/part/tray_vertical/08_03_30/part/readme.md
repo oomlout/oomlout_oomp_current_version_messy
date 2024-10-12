@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wet |  
+| bip_39_word_dash_10 | wet-sausage-affair-funny-question-vote-squeeze-cheap-meat-silver |  
+| bip_39_word_dash_11 | wet-sausage-affair-funny-question-vote-squeeze-cheap-meat-silver-brass |  
+| bip_39_word_dash_12 | wet-sausage-affair-funny-question-vote-squeeze-cheap-meat-silver-brass-aim |  
+| bip_39_word_dash_2 | wet-sausage |  
+| bip_39_word_dash_3 | wet-sausage-affair |  
+| bip_39_word_dash_4 | wet-sausage-affair-funny |  
+| bip_39_word_dash_5 | wet-sausage-affair-funny-question |  
+| bip_39_word_dash_6 | wet-sausage-affair-funny-question-vote |  
+| bip_39_word_dash_7 | wet-sausage-affair-funny-question-vote-squeeze |  
+| bip_39_word_dash_8 | wet-sausage-affair-funny-question-vote-squeeze-cheap |  
+| bip_39_word_dash_9 | wet-sausage-affair-funny-question-vote-squeeze-cheap-meat |  
 | bip_39_word_new_br_1 | wet |  
 | bip_39_word_new_br_10 | wet<br>sausage<br>affair<br>funny<br>question<br>vote<br>squeeze<br>cheap<br>meat<br>silver |  
 | bip_39_word_new_br_11 | wet<br>sausage<br>affair<br>funny<br>question<br>vote<br>squeeze<br>cheap<br>meat<br>silver<br>brass |  
@@ -147,6 +159,18 @@ meat |
 | bip_39_word_space_7 | wet sausage affair funny question vote squeeze |  
 | bip_39_word_space_8 | wet sausage affair funny question vote squeeze cheap |  
 | bip_39_word_space_9 | wet sausage affair funny question vote squeeze cheap meat |  
+| bip_39_word_underscore_1 | wet |  
+| bip_39_word_underscore_10 | wet_sausage_affair_funny_question_vote_squeeze_cheap_meat_silver |  
+| bip_39_word_underscore_11 | wet_sausage_affair_funny_question_vote_squeeze_cheap_meat_silver_brass |  
+| bip_39_word_underscore_12 | wet_sausage_affair_funny_question_vote_squeeze_cheap_meat_silver_brass_aim |  
+| bip_39_word_underscore_2 | wet_sausage |  
+| bip_39_word_underscore_3 | wet_sausage_affair |  
+| bip_39_word_underscore_4 | wet_sausage_affair_funny |  
+| bip_39_word_underscore_5 | wet_sausage_affair_funny_question |  
+| bip_39_word_underscore_6 | wet_sausage_affair_funny_question_vote |  
+| bip_39_word_underscore_7 | wet_sausage_affair_funny_question_vote_squeeze |  
+| bip_39_word_underscore_8 | wet_sausage_affair_funny_question_vote_squeeze_cheap |  
+| bip_39_word_underscore_9 | wet_sausage_affair_funny_question_vote_squeeze_cheap_meat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

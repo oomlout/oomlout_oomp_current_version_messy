@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swear |  
+| bip_39_word_dash_10 | swear-panel-amateur-immense-smoke-hard-desert-between-blame-rough |  
+| bip_39_word_dash_11 | swear-panel-amateur-immense-smoke-hard-desert-between-blame-rough-hazard |  
+| bip_39_word_dash_12 | swear-panel-amateur-immense-smoke-hard-desert-between-blame-rough-hazard-above |  
+| bip_39_word_dash_2 | swear-panel |  
+| bip_39_word_dash_3 | swear-panel-amateur |  
+| bip_39_word_dash_4 | swear-panel-amateur-immense |  
+| bip_39_word_dash_5 | swear-panel-amateur-immense-smoke |  
+| bip_39_word_dash_6 | swear-panel-amateur-immense-smoke-hard |  
+| bip_39_word_dash_7 | swear-panel-amateur-immense-smoke-hard-desert |  
+| bip_39_word_dash_8 | swear-panel-amateur-immense-smoke-hard-desert-between |  
+| bip_39_word_dash_9 | swear-panel-amateur-immense-smoke-hard-desert-between-blame |  
 | bip_39_word_new_br_1 | swear |  
 | bip_39_word_new_br_10 | swear<br>panel<br>amateur<br>immense<br>smoke<br>hard<br>desert<br>between<br>blame<br>rough |  
 | bip_39_word_new_br_11 | swear<br>panel<br>amateur<br>immense<br>smoke<br>hard<br>desert<br>between<br>blame<br>rough<br>hazard |  
@@ -147,6 +159,18 @@ blame |
 | bip_39_word_space_7 | swear panel amateur immense smoke hard desert |  
 | bip_39_word_space_8 | swear panel amateur immense smoke hard desert between |  
 | bip_39_word_space_9 | swear panel amateur immense smoke hard desert between blame |  
+| bip_39_word_underscore_1 | swear |  
+| bip_39_word_underscore_10 | swear_panel_amateur_immense_smoke_hard_desert_between_blame_rough |  
+| bip_39_word_underscore_11 | swear_panel_amateur_immense_smoke_hard_desert_between_blame_rough_hazard |  
+| bip_39_word_underscore_12 | swear_panel_amateur_immense_smoke_hard_desert_between_blame_rough_hazard_above |  
+| bip_39_word_underscore_2 | swear_panel |  
+| bip_39_word_underscore_3 | swear_panel_amateur |  
+| bip_39_word_underscore_4 | swear_panel_amateur_immense |  
+| bip_39_word_underscore_5 | swear_panel_amateur_immense_smoke |  
+| bip_39_word_underscore_6 | swear_panel_amateur_immense_smoke_hard |  
+| bip_39_word_underscore_7 | swear_panel_amateur_immense_smoke_hard_desert |  
+| bip_39_word_underscore_8 | swear_panel_amateur_immense_smoke_hard_desert_between |  
+| bip_39_word_underscore_9 | swear_panel_amateur_immense_smoke_hard_desert_between_blame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

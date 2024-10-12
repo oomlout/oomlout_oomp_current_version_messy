@@ -1,3 +1,15 @@
+bip_39_word_dash_1: eye
+bip_39_word_dash_10: eye-admit-awkward-penalty-sail-circle-rule-ice-pulp-there
+bip_39_word_dash_11: eye-admit-awkward-penalty-sail-circle-rule-ice-pulp-there-myself
+bip_39_word_dash_12: eye-admit-awkward-penalty-sail-circle-rule-ice-pulp-there-myself-act
+bip_39_word_dash_2: eye-admit
+bip_39_word_dash_3: eye-admit-awkward
+bip_39_word_dash_4: eye-admit-awkward-penalty
+bip_39_word_dash_5: eye-admit-awkward-penalty-sail
+bip_39_word_dash_6: eye-admit-awkward-penalty-sail-circle
+bip_39_word_dash_7: eye-admit-awkward-penalty-sail-circle-rule
+bip_39_word_dash_8: eye-admit-awkward-penalty-sail-circle-rule-ice
+bip_39_word_dash_9: eye-admit-awkward-penalty-sail-circle-rule-ice-pulp
 bip_39_word_new_br_1: eye
 bip_39_word_new_br_10: eye<br>admit<br>awkward<br>penalty<br>sail<br>circle<br>rule<br>ice<br>pulp<br>there
 bip_39_word_new_br_11: eye<br>admit<br>awkward<br>penalty<br>sail<br>circle<br>rule<br>ice<br>pulp<br>there<br>myself
@@ -192,6 +204,18 @@ bip_39_word_space_6: eye admit awkward penalty sail circle
 bip_39_word_space_7: eye admit awkward penalty sail circle rule
 bip_39_word_space_8: eye admit awkward penalty sail circle rule ice
 bip_39_word_space_9: eye admit awkward penalty sail circle rule ice pulp
+bip_39_word_underscore_1: eye
+bip_39_word_underscore_10: eye_admit_awkward_penalty_sail_circle_rule_ice_pulp_there
+bip_39_word_underscore_11: eye_admit_awkward_penalty_sail_circle_rule_ice_pulp_there_myself
+bip_39_word_underscore_12: eye_admit_awkward_penalty_sail_circle_rule_ice_pulp_there_myself_act
+bip_39_word_underscore_2: eye_admit
+bip_39_word_underscore_3: eye_admit_awkward
+bip_39_word_underscore_4: eye_admit_awkward_penalty
+bip_39_word_underscore_5: eye_admit_awkward_penalty_sail
+bip_39_word_underscore_6: eye_admit_awkward_penalty_sail_circle
+bip_39_word_underscore_7: eye_admit_awkward_penalty_sail_circle_rule
+bip_39_word_underscore_8: eye_admit_awkward_penalty_sail_circle_rule_ice
+bip_39_word_underscore_9: eye_admit_awkward_penalty_sail_circle_rule_ice_pulp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

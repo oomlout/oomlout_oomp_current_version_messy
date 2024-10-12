@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ceiling
+bip_39_word_dash_10: ceiling-torch-cram-absurd-spirit-jeans-mercy-whisper-unfair-dream
+bip_39_word_dash_11: ceiling-torch-cram-absurd-spirit-jeans-mercy-whisper-unfair-dream-grid
+bip_39_word_dash_12: ceiling-torch-cram-absurd-spirit-jeans-mercy-whisper-unfair-dream-grid-anger
+bip_39_word_dash_2: ceiling-torch
+bip_39_word_dash_3: ceiling-torch-cram
+bip_39_word_dash_4: ceiling-torch-cram-absurd
+bip_39_word_dash_5: ceiling-torch-cram-absurd-spirit
+bip_39_word_dash_6: ceiling-torch-cram-absurd-spirit-jeans
+bip_39_word_dash_7: ceiling-torch-cram-absurd-spirit-jeans-mercy
+bip_39_word_dash_8: ceiling-torch-cram-absurd-spirit-jeans-mercy-whisper
+bip_39_word_dash_9: ceiling-torch-cram-absurd-spirit-jeans-mercy-whisper-unfair
 bip_39_word_new_br_1: ceiling
 bip_39_word_new_br_10: ceiling<br>torch<br>cram<br>absurd<br>spirit<br>jeans<br>mercy<br>whisper<br>unfair<br>dream
 bip_39_word_new_br_11: ceiling<br>torch<br>cram<br>absurd<br>spirit<br>jeans<br>mercy<br>whisper<br>unfair<br>dream<br>grid
@@ -194,6 +206,18 @@ bip_39_word_space_6: ceiling torch cram absurd spirit jeans
 bip_39_word_space_7: ceiling torch cram absurd spirit jeans mercy
 bip_39_word_space_8: ceiling torch cram absurd spirit jeans mercy whisper
 bip_39_word_space_9: ceiling torch cram absurd spirit jeans mercy whisper unfair
+bip_39_word_underscore_1: ceiling
+bip_39_word_underscore_10: ceiling_torch_cram_absurd_spirit_jeans_mercy_whisper_unfair_dream
+bip_39_word_underscore_11: ceiling_torch_cram_absurd_spirit_jeans_mercy_whisper_unfair_dream_grid
+bip_39_word_underscore_12: ceiling_torch_cram_absurd_spirit_jeans_mercy_whisper_unfair_dream_grid_anger
+bip_39_word_underscore_2: ceiling_torch
+bip_39_word_underscore_3: ceiling_torch_cram
+bip_39_word_underscore_4: ceiling_torch_cram_absurd
+bip_39_word_underscore_5: ceiling_torch_cram_absurd_spirit
+bip_39_word_underscore_6: ceiling_torch_cram_absurd_spirit_jeans
+bip_39_word_underscore_7: ceiling_torch_cram_absurd_spirit_jeans_mercy
+bip_39_word_underscore_8: ceiling_torch_cram_absurd_spirit_jeans_mercy_whisper
+bip_39_word_underscore_9: ceiling_torch_cram_absurd_spirit_jeans_mercy_whisper_unfair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

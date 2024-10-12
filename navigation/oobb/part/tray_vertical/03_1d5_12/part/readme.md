@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kiss |  
+| bip_39_word_dash_10 | kiss-weasel-crowd-act-possible-parade-mixture-wrong-age-shrug |  
+| bip_39_word_dash_11 | kiss-weasel-crowd-act-possible-parade-mixture-wrong-age-shrug-reduce |  
+| bip_39_word_dash_12 | kiss-weasel-crowd-act-possible-parade-mixture-wrong-age-shrug-reduce-aim |  
+| bip_39_word_dash_2 | kiss-weasel |  
+| bip_39_word_dash_3 | kiss-weasel-crowd |  
+| bip_39_word_dash_4 | kiss-weasel-crowd-act |  
+| bip_39_word_dash_5 | kiss-weasel-crowd-act-possible |  
+| bip_39_word_dash_6 | kiss-weasel-crowd-act-possible-parade |  
+| bip_39_word_dash_7 | kiss-weasel-crowd-act-possible-parade-mixture |  
+| bip_39_word_dash_8 | kiss-weasel-crowd-act-possible-parade-mixture-wrong |  
+| bip_39_word_dash_9 | kiss-weasel-crowd-act-possible-parade-mixture-wrong-age |  
 | bip_39_word_new_br_1 | kiss |  
 | bip_39_word_new_br_10 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong<br>age<br>shrug |  
 | bip_39_word_new_br_11 | kiss<br>weasel<br>crowd<br>act<br>possible<br>parade<br>mixture<br>wrong<br>age<br>shrug<br>reduce |  
@@ -147,6 +159,18 @@ age |
 | bip_39_word_space_7 | kiss weasel crowd act possible parade mixture |  
 | bip_39_word_space_8 | kiss weasel crowd act possible parade mixture wrong |  
 | bip_39_word_space_9 | kiss weasel crowd act possible parade mixture wrong age |  
+| bip_39_word_underscore_1 | kiss |  
+| bip_39_word_underscore_10 | kiss_weasel_crowd_act_possible_parade_mixture_wrong_age_shrug |  
+| bip_39_word_underscore_11 | kiss_weasel_crowd_act_possible_parade_mixture_wrong_age_shrug_reduce |  
+| bip_39_word_underscore_12 | kiss_weasel_crowd_act_possible_parade_mixture_wrong_age_shrug_reduce_aim |  
+| bip_39_word_underscore_2 | kiss_weasel |  
+| bip_39_word_underscore_3 | kiss_weasel_crowd |  
+| bip_39_word_underscore_4 | kiss_weasel_crowd_act |  
+| bip_39_word_underscore_5 | kiss_weasel_crowd_act_possible |  
+| bip_39_word_underscore_6 | kiss_weasel_crowd_act_possible_parade |  
+| bip_39_word_underscore_7 | kiss_weasel_crowd_act_possible_parade_mixture |  
+| bip_39_word_underscore_8 | kiss_weasel_crowd_act_possible_parade_mixture_wrong |  
+| bip_39_word_underscore_9 | kiss_weasel_crowd_act_possible_parade_mixture_wrong_age |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grief |  
+| bip_39_word_dash_10 | grief-display-wait-nasty-boss-lizard-dwarf-fire-warm-salute |  
+| bip_39_word_dash_11 | grief-display-wait-nasty-boss-lizard-dwarf-fire-warm-salute-draft |  
+| bip_39_word_dash_12 | grief-display-wait-nasty-boss-lizard-dwarf-fire-warm-salute-draft-advice |  
+| bip_39_word_dash_2 | grief-display |  
+| bip_39_word_dash_3 | grief-display-wait |  
+| bip_39_word_dash_4 | grief-display-wait-nasty |  
+| bip_39_word_dash_5 | grief-display-wait-nasty-boss |  
+| bip_39_word_dash_6 | grief-display-wait-nasty-boss-lizard |  
+| bip_39_word_dash_7 | grief-display-wait-nasty-boss-lizard-dwarf |  
+| bip_39_word_dash_8 | grief-display-wait-nasty-boss-lizard-dwarf-fire |  
+| bip_39_word_dash_9 | grief-display-wait-nasty-boss-lizard-dwarf-fire-warm |  
 | bip_39_word_new_br_1 | grief |  
 | bip_39_word_new_br_10 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire<br>warm<br>salute |  
 | bip_39_word_new_br_11 | grief<br>display<br>wait<br>nasty<br>boss<br>lizard<br>dwarf<br>fire<br>warm<br>salute<br>draft |  
@@ -147,6 +159,18 @@ warm |
 | bip_39_word_space_7 | grief display wait nasty boss lizard dwarf |  
 | bip_39_word_space_8 | grief display wait nasty boss lizard dwarf fire |  
 | bip_39_word_space_9 | grief display wait nasty boss lizard dwarf fire warm |  
+| bip_39_word_underscore_1 | grief |  
+| bip_39_word_underscore_10 | grief_display_wait_nasty_boss_lizard_dwarf_fire_warm_salute |  
+| bip_39_word_underscore_11 | grief_display_wait_nasty_boss_lizard_dwarf_fire_warm_salute_draft |  
+| bip_39_word_underscore_12 | grief_display_wait_nasty_boss_lizard_dwarf_fire_warm_salute_draft_advice |  
+| bip_39_word_underscore_2 | grief_display |  
+| bip_39_word_underscore_3 | grief_display_wait |  
+| bip_39_word_underscore_4 | grief_display_wait_nasty |  
+| bip_39_word_underscore_5 | grief_display_wait_nasty_boss |  
+| bip_39_word_underscore_6 | grief_display_wait_nasty_boss_lizard |  
+| bip_39_word_underscore_7 | grief_display_wait_nasty_boss_lizard_dwarf |  
+| bip_39_word_underscore_8 | grief_display_wait_nasty_boss_lizard_dwarf_fire |  
+| bip_39_word_underscore_9 | grief_display_wait_nasty_boss_lizard_dwarf_fire_warm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

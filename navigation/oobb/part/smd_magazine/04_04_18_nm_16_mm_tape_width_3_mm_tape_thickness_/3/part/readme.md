@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mask |  
+| bip_39_word_dash_10 | mask-glass-goose-adjust-fire-collect-virus-satoshi-scare-tackle |  
+| bip_39_word_dash_11 | mask-glass-goose-adjust-fire-collect-virus-satoshi-scare-tackle-ozone |  
+| bip_39_word_dash_12 | mask-glass-goose-adjust-fire-collect-virus-satoshi-scare-tackle-ozone-afford |  
+| bip_39_word_dash_2 | mask-glass |  
+| bip_39_word_dash_3 | mask-glass-goose |  
+| bip_39_word_dash_4 | mask-glass-goose-adjust |  
+| bip_39_word_dash_5 | mask-glass-goose-adjust-fire |  
+| bip_39_word_dash_6 | mask-glass-goose-adjust-fire-collect |  
+| bip_39_word_dash_7 | mask-glass-goose-adjust-fire-collect-virus |  
+| bip_39_word_dash_8 | mask-glass-goose-adjust-fire-collect-virus-satoshi |  
+| bip_39_word_dash_9 | mask-glass-goose-adjust-fire-collect-virus-satoshi-scare |  
 | bip_39_word_new_br_1 | mask |  
 | bip_39_word_new_br_10 | mask<br>glass<br>goose<br>adjust<br>fire<br>collect<br>virus<br>satoshi<br>scare<br>tackle |  
 | bip_39_word_new_br_11 | mask<br>glass<br>goose<br>adjust<br>fire<br>collect<br>virus<br>satoshi<br>scare<br>tackle<br>ozone |  
@@ -147,6 +159,18 @@ scare |
 | bip_39_word_space_7 | mask glass goose adjust fire collect virus |  
 | bip_39_word_space_8 | mask glass goose adjust fire collect virus satoshi |  
 | bip_39_word_space_9 | mask glass goose adjust fire collect virus satoshi scare |  
+| bip_39_word_underscore_1 | mask |  
+| bip_39_word_underscore_10 | mask_glass_goose_adjust_fire_collect_virus_satoshi_scare_tackle |  
+| bip_39_word_underscore_11 | mask_glass_goose_adjust_fire_collect_virus_satoshi_scare_tackle_ozone |  
+| bip_39_word_underscore_12 | mask_glass_goose_adjust_fire_collect_virus_satoshi_scare_tackle_ozone_afford |  
+| bip_39_word_underscore_2 | mask_glass |  
+| bip_39_word_underscore_3 | mask_glass_goose |  
+| bip_39_word_underscore_4 | mask_glass_goose_adjust |  
+| bip_39_word_underscore_5 | mask_glass_goose_adjust_fire |  
+| bip_39_word_underscore_6 | mask_glass_goose_adjust_fire_collect |  
+| bip_39_word_underscore_7 | mask_glass_goose_adjust_fire_collect_virus |  
+| bip_39_word_underscore_8 | mask_glass_goose_adjust_fire_collect_virus_satoshi |  
+| bip_39_word_underscore_9 | mask_glass_goose_adjust_fire_collect_virus_satoshi_scare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

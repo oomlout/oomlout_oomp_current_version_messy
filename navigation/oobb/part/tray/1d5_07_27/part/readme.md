@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | try |  
+| bip_39_word_dash_10 | try-dress-vintage-swarm-maid-dish-source-unhappy-fold-merit |  
+| bip_39_word_dash_11 | try-dress-vintage-swarm-maid-dish-source-unhappy-fold-merit-apple |  
+| bip_39_word_dash_12 | try-dress-vintage-swarm-maid-dish-source-unhappy-fold-merit-apple-army |  
+| bip_39_word_dash_2 | try-dress |  
+| bip_39_word_dash_3 | try-dress-vintage |  
+| bip_39_word_dash_4 | try-dress-vintage-swarm |  
+| bip_39_word_dash_5 | try-dress-vintage-swarm-maid |  
+| bip_39_word_dash_6 | try-dress-vintage-swarm-maid-dish |  
+| bip_39_word_dash_7 | try-dress-vintage-swarm-maid-dish-source |  
+| bip_39_word_dash_8 | try-dress-vintage-swarm-maid-dish-source-unhappy |  
+| bip_39_word_dash_9 | try-dress-vintage-swarm-maid-dish-source-unhappy-fold |  
 | bip_39_word_new_br_1 | try |  
 | bip_39_word_new_br_10 | try<br>dress<br>vintage<br>swarm<br>maid<br>dish<br>source<br>unhappy<br>fold<br>merit |  
 | bip_39_word_new_br_11 | try<br>dress<br>vintage<br>swarm<br>maid<br>dish<br>source<br>unhappy<br>fold<br>merit<br>apple |  
@@ -147,6 +159,18 @@ fold |
 | bip_39_word_space_7 | try dress vintage swarm maid dish source |  
 | bip_39_word_space_8 | try dress vintage swarm maid dish source unhappy |  
 | bip_39_word_space_9 | try dress vintage swarm maid dish source unhappy fold |  
+| bip_39_word_underscore_1 | try |  
+| bip_39_word_underscore_10 | try_dress_vintage_swarm_maid_dish_source_unhappy_fold_merit |  
+| bip_39_word_underscore_11 | try_dress_vintage_swarm_maid_dish_source_unhappy_fold_merit_apple |  
+| bip_39_word_underscore_12 | try_dress_vintage_swarm_maid_dish_source_unhappy_fold_merit_apple_army |  
+| bip_39_word_underscore_2 | try_dress |  
+| bip_39_word_underscore_3 | try_dress_vintage |  
+| bip_39_word_underscore_4 | try_dress_vintage_swarm |  
+| bip_39_word_underscore_5 | try_dress_vintage_swarm_maid |  
+| bip_39_word_underscore_6 | try_dress_vintage_swarm_maid_dish |  
+| bip_39_word_underscore_7 | try_dress_vintage_swarm_maid_dish_source |  
+| bip_39_word_underscore_8 | try_dress_vintage_swarm_maid_dish_source_unhappy |  
+| bip_39_word_underscore_9 | try_dress_vintage_swarm_maid_dish_source_unhappy_fold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

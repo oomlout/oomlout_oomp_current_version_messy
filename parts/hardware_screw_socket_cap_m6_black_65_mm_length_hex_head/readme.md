@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bid |  
+| bip_39_word_dash_10 | bid-buffalo-expand-rotate-ridge-remain-cactus-crater-cushion-tattoo |  
+| bip_39_word_dash_11 | bid-buffalo-expand-rotate-ridge-remain-cactus-crater-cushion-tattoo-conduct |  
+| bip_39_word_dash_12 | bid-buffalo-expand-rotate-ridge-remain-cactus-crater-cushion-tattoo-conduct-antenna |  
+| bip_39_word_dash_2 | bid-buffalo |  
+| bip_39_word_dash_3 | bid-buffalo-expand |  
+| bip_39_word_dash_4 | bid-buffalo-expand-rotate |  
+| bip_39_word_dash_5 | bid-buffalo-expand-rotate-ridge |  
+| bip_39_word_dash_6 | bid-buffalo-expand-rotate-ridge-remain |  
+| bip_39_word_dash_7 | bid-buffalo-expand-rotate-ridge-remain-cactus |  
+| bip_39_word_dash_8 | bid-buffalo-expand-rotate-ridge-remain-cactus-crater |  
+| bip_39_word_dash_9 | bid-buffalo-expand-rotate-ridge-remain-cactus-crater-cushion |  
 | bip_39_word_new_br_1 | bid |  
 | bip_39_word_new_br_10 | bid<br>buffalo<br>expand<br>rotate<br>ridge<br>remain<br>cactus<br>crater<br>cushion<br>tattoo |  
 | bip_39_word_new_br_11 | bid<br>buffalo<br>expand<br>rotate<br>ridge<br>remain<br>cactus<br>crater<br>cushion<br>tattoo<br>conduct |  
@@ -147,6 +159,18 @@ cushion |
 | bip_39_word_space_7 | bid buffalo expand rotate ridge remain cactus |  
 | bip_39_word_space_8 | bid buffalo expand rotate ridge remain cactus crater |  
 | bip_39_word_space_9 | bid buffalo expand rotate ridge remain cactus crater cushion |  
+| bip_39_word_underscore_1 | bid |  
+| bip_39_word_underscore_10 | bid_buffalo_expand_rotate_ridge_remain_cactus_crater_cushion_tattoo |  
+| bip_39_word_underscore_11 | bid_buffalo_expand_rotate_ridge_remain_cactus_crater_cushion_tattoo_conduct |  
+| bip_39_word_underscore_12 | bid_buffalo_expand_rotate_ridge_remain_cactus_crater_cushion_tattoo_conduct_antenna |  
+| bip_39_word_underscore_2 | bid_buffalo |  
+| bip_39_word_underscore_3 | bid_buffalo_expand |  
+| bip_39_word_underscore_4 | bid_buffalo_expand_rotate |  
+| bip_39_word_underscore_5 | bid_buffalo_expand_rotate_ridge |  
+| bip_39_word_underscore_6 | bid_buffalo_expand_rotate_ridge_remain |  
+| bip_39_word_underscore_7 | bid_buffalo_expand_rotate_ridge_remain_cactus |  
+| bip_39_word_underscore_8 | bid_buffalo_expand_rotate_ridge_remain_cactus_crater |  
+| bip_39_word_underscore_9 | bid_buffalo_expand_rotate_ridge_remain_cactus_crater_cushion |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: carry
+bip_39_word_dash_10: carry-wasp-execute-message-oval-vault-treat-digital-remind-ridge
+bip_39_word_dash_11: carry-wasp-execute-message-oval-vault-treat-digital-remind-ridge-divide
+bip_39_word_dash_12: carry-wasp-execute-message-oval-vault-treat-digital-remind-ridge-divide-animal
+bip_39_word_dash_2: carry-wasp
+bip_39_word_dash_3: carry-wasp-execute
+bip_39_word_dash_4: carry-wasp-execute-message
+bip_39_word_dash_5: carry-wasp-execute-message-oval
+bip_39_word_dash_6: carry-wasp-execute-message-oval-vault
+bip_39_word_dash_7: carry-wasp-execute-message-oval-vault-treat
+bip_39_word_dash_8: carry-wasp-execute-message-oval-vault-treat-digital
+bip_39_word_dash_9: carry-wasp-execute-message-oval-vault-treat-digital-remind
 bip_39_word_new_br_1: carry
 bip_39_word_new_br_10: carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital<br>remind<br>ridge
 bip_39_word_new_br_11: carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital<br>remind<br>ridge<br>divide
@@ -193,6 +205,18 @@ bip_39_word_space_6: carry wasp execute message oval vault
 bip_39_word_space_7: carry wasp execute message oval vault treat
 bip_39_word_space_8: carry wasp execute message oval vault treat digital
 bip_39_word_space_9: carry wasp execute message oval vault treat digital remind
+bip_39_word_underscore_1: carry
+bip_39_word_underscore_10: carry_wasp_execute_message_oval_vault_treat_digital_remind_ridge
+bip_39_word_underscore_11: carry_wasp_execute_message_oval_vault_treat_digital_remind_ridge_divide
+bip_39_word_underscore_12: carry_wasp_execute_message_oval_vault_treat_digital_remind_ridge_divide_animal
+bip_39_word_underscore_2: carry_wasp
+bip_39_word_underscore_3: carry_wasp_execute
+bip_39_word_underscore_4: carry_wasp_execute_message
+bip_39_word_underscore_5: carry_wasp_execute_message_oval
+bip_39_word_underscore_6: carry_wasp_execute_message_oval_vault
+bip_39_word_underscore_7: carry_wasp_execute_message_oval_vault_treat
+bip_39_word_underscore_8: carry_wasp_execute_message_oval_vault_treat_digital
+bip_39_word_underscore_9: carry_wasp_execute_message_oval_vault_treat_digital_remind
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

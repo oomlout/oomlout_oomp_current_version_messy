@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sunny |  
+| bip_39_word_dash_10 | sunny-rely-wood-cancel-smoke-phone-awkward-paddle-dynamic-twist |  
+| bip_39_word_dash_11 | sunny-rely-wood-cancel-smoke-phone-awkward-paddle-dynamic-twist-small |  
+| bip_39_word_dash_12 | sunny-rely-wood-cancel-smoke-phone-awkward-paddle-dynamic-twist-small-amount |  
+| bip_39_word_dash_2 | sunny-rely |  
+| bip_39_word_dash_3 | sunny-rely-wood |  
+| bip_39_word_dash_4 | sunny-rely-wood-cancel |  
+| bip_39_word_dash_5 | sunny-rely-wood-cancel-smoke |  
+| bip_39_word_dash_6 | sunny-rely-wood-cancel-smoke-phone |  
+| bip_39_word_dash_7 | sunny-rely-wood-cancel-smoke-phone-awkward |  
+| bip_39_word_dash_8 | sunny-rely-wood-cancel-smoke-phone-awkward-paddle |  
+| bip_39_word_dash_9 | sunny-rely-wood-cancel-smoke-phone-awkward-paddle-dynamic |  
 | bip_39_word_new_br_1 | sunny |  
 | bip_39_word_new_br_10 | sunny<br>rely<br>wood<br>cancel<br>smoke<br>phone<br>awkward<br>paddle<br>dynamic<br>twist |  
 | bip_39_word_new_br_11 | sunny<br>rely<br>wood<br>cancel<br>smoke<br>phone<br>awkward<br>paddle<br>dynamic<br>twist<br>small |  
@@ -147,6 +159,18 @@ dynamic |
 | bip_39_word_space_7 | sunny rely wood cancel smoke phone awkward |  
 | bip_39_word_space_8 | sunny rely wood cancel smoke phone awkward paddle |  
 | bip_39_word_space_9 | sunny rely wood cancel smoke phone awkward paddle dynamic |  
+| bip_39_word_underscore_1 | sunny |  
+| bip_39_word_underscore_10 | sunny_rely_wood_cancel_smoke_phone_awkward_paddle_dynamic_twist |  
+| bip_39_word_underscore_11 | sunny_rely_wood_cancel_smoke_phone_awkward_paddle_dynamic_twist_small |  
+| bip_39_word_underscore_12 | sunny_rely_wood_cancel_smoke_phone_awkward_paddle_dynamic_twist_small_amount |  
+| bip_39_word_underscore_2 | sunny_rely |  
+| bip_39_word_underscore_3 | sunny_rely_wood |  
+| bip_39_word_underscore_4 | sunny_rely_wood_cancel |  
+| bip_39_word_underscore_5 | sunny_rely_wood_cancel_smoke |  
+| bip_39_word_underscore_6 | sunny_rely_wood_cancel_smoke_phone |  
+| bip_39_word_underscore_7 | sunny_rely_wood_cancel_smoke_phone_awkward |  
+| bip_39_word_underscore_8 | sunny_rely_wood_cancel_smoke_phone_awkward_paddle |  
+| bip_39_word_underscore_9 | sunny_rely_wood_cancel_smoke_phone_awkward_paddle_dynamic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

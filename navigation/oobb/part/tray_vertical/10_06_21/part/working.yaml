@@ -1,3 +1,15 @@
+bip_39_word_dash_1: choice
+bip_39_word_dash_10: choice-fragile-mass-friend-mail-august-girl-banana-churn-pause
+bip_39_word_dash_11: choice-fragile-mass-friend-mail-august-girl-banana-churn-pause-pause
+bip_39_word_dash_12: choice-fragile-mass-friend-mail-august-girl-banana-churn-pause-pause-arctic
+bip_39_word_dash_2: choice-fragile
+bip_39_word_dash_3: choice-fragile-mass
+bip_39_word_dash_4: choice-fragile-mass-friend
+bip_39_word_dash_5: choice-fragile-mass-friend-mail
+bip_39_word_dash_6: choice-fragile-mass-friend-mail-august
+bip_39_word_dash_7: choice-fragile-mass-friend-mail-august-girl
+bip_39_word_dash_8: choice-fragile-mass-friend-mail-august-girl-banana
+bip_39_word_dash_9: choice-fragile-mass-friend-mail-august-girl-banana-churn
 bip_39_word_new_br_1: choice
 bip_39_word_new_br_10: choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana<br>churn<br>pause
 bip_39_word_new_br_11: choice<br>fragile<br>mass<br>friend<br>mail<br>august<br>girl<br>banana<br>churn<br>pause<br>pause
@@ -193,6 +205,18 @@ bip_39_word_space_6: choice fragile mass friend mail august
 bip_39_word_space_7: choice fragile mass friend mail august girl
 bip_39_word_space_8: choice fragile mass friend mail august girl banana
 bip_39_word_space_9: choice fragile mass friend mail august girl banana churn
+bip_39_word_underscore_1: choice
+bip_39_word_underscore_10: choice_fragile_mass_friend_mail_august_girl_banana_churn_pause
+bip_39_word_underscore_11: choice_fragile_mass_friend_mail_august_girl_banana_churn_pause_pause
+bip_39_word_underscore_12: choice_fragile_mass_friend_mail_august_girl_banana_churn_pause_pause_arctic
+bip_39_word_underscore_2: choice_fragile
+bip_39_word_underscore_3: choice_fragile_mass
+bip_39_word_underscore_4: choice_fragile_mass_friend
+bip_39_word_underscore_5: choice_fragile_mass_friend_mail
+bip_39_word_underscore_6: choice_fragile_mass_friend_mail_august
+bip_39_word_underscore_7: choice_fragile_mass_friend_mail_august_girl
+bip_39_word_underscore_8: choice_fragile_mass_friend_mail_august_girl_banana
+bip_39_word_underscore_9: choice_fragile_mass_friend_mail_august_girl_banana_churn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

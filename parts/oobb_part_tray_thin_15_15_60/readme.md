@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | path |  
+| bip_39_word_dash_10 | path-lesson-record-good-robust-orient-assist-unlock-fee-good |  
+| bip_39_word_dash_11 | path-lesson-record-good-robust-orient-assist-unlock-fee-good-memory |  
+| bip_39_word_dash_12 | path-lesson-record-good-robust-orient-assist-unlock-fee-good-memory-aspect |  
+| bip_39_word_dash_2 | path-lesson |  
+| bip_39_word_dash_3 | path-lesson-record |  
+| bip_39_word_dash_4 | path-lesson-record-good |  
+| bip_39_word_dash_5 | path-lesson-record-good-robust |  
+| bip_39_word_dash_6 | path-lesson-record-good-robust-orient |  
+| bip_39_word_dash_7 | path-lesson-record-good-robust-orient-assist |  
+| bip_39_word_dash_8 | path-lesson-record-good-robust-orient-assist-unlock |  
+| bip_39_word_dash_9 | path-lesson-record-good-robust-orient-assist-unlock-fee |  
 | bip_39_word_new_br_1 | path |  
 | bip_39_word_new_br_10 | path<br>lesson<br>record<br>good<br>robust<br>orient<br>assist<br>unlock<br>fee<br>good |  
 | bip_39_word_new_br_11 | path<br>lesson<br>record<br>good<br>robust<br>orient<br>assist<br>unlock<br>fee<br>good<br>memory |  
@@ -147,6 +159,18 @@ fee |
 | bip_39_word_space_7 | path lesson record good robust orient assist |  
 | bip_39_word_space_8 | path lesson record good robust orient assist unlock |  
 | bip_39_word_space_9 | path lesson record good robust orient assist unlock fee |  
+| bip_39_word_underscore_1 | path |  
+| bip_39_word_underscore_10 | path_lesson_record_good_robust_orient_assist_unlock_fee_good |  
+| bip_39_word_underscore_11 | path_lesson_record_good_robust_orient_assist_unlock_fee_good_memory |  
+| bip_39_word_underscore_12 | path_lesson_record_good_robust_orient_assist_unlock_fee_good_memory_aspect |  
+| bip_39_word_underscore_2 | path_lesson |  
+| bip_39_word_underscore_3 | path_lesson_record |  
+| bip_39_word_underscore_4 | path_lesson_record_good |  
+| bip_39_word_underscore_5 | path_lesson_record_good_robust |  
+| bip_39_word_underscore_6 | path_lesson_record_good_robust_orient |  
+| bip_39_word_underscore_7 | path_lesson_record_good_robust_orient_assist |  
+| bip_39_word_underscore_8 | path_lesson_record_good_robust_orient_assist_unlock |  
+| bip_39_word_underscore_9 | path_lesson_record_good_robust_orient_assist_unlock_fee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

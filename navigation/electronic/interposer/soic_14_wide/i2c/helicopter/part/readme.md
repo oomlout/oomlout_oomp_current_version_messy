@@ -32,6 +32,18 @@ An interposer between an i2c chip and a soic_14_wide package, The pins are numbe
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | strong |  
+| bip_39_word_dash_10 | strong-seminar-peasant-planet-afraid-eager-solve-dish-debris-piece |  
+| bip_39_word_dash_11 | strong-seminar-peasant-planet-afraid-eager-solve-dish-debris-piece-pencil |  
+| bip_39_word_dash_12 | strong-seminar-peasant-planet-afraid-eager-solve-dish-debris-piece-pencil-all |  
+| bip_39_word_dash_2 | strong-seminar |  
+| bip_39_word_dash_3 | strong-seminar-peasant |  
+| bip_39_word_dash_4 | strong-seminar-peasant-planet |  
+| bip_39_word_dash_5 | strong-seminar-peasant-planet-afraid |  
+| bip_39_word_dash_6 | strong-seminar-peasant-planet-afraid-eager |  
+| bip_39_word_dash_7 | strong-seminar-peasant-planet-afraid-eager-solve |  
+| bip_39_word_dash_8 | strong-seminar-peasant-planet-afraid-eager-solve-dish |  
+| bip_39_word_dash_9 | strong-seminar-peasant-planet-afraid-eager-solve-dish-debris |  
 | bip_39_word_new_br_1 | strong |  
 | bip_39_word_new_br_10 | strong<br>seminar<br>peasant<br>planet<br>afraid<br>eager<br>solve<br>dish<br>debris<br>piece |  
 | bip_39_word_new_br_11 | strong<br>seminar<br>peasant<br>planet<br>afraid<br>eager<br>solve<br>dish<br>debris<br>piece<br>pencil |  
@@ -147,6 +159,18 @@ debris |
 | bip_39_word_space_7 | strong seminar peasant planet afraid eager solve |  
 | bip_39_word_space_8 | strong seminar peasant planet afraid eager solve dish |  
 | bip_39_word_space_9 | strong seminar peasant planet afraid eager solve dish debris |  
+| bip_39_word_underscore_1 | strong |  
+| bip_39_word_underscore_10 | strong_seminar_peasant_planet_afraid_eager_solve_dish_debris_piece |  
+| bip_39_word_underscore_11 | strong_seminar_peasant_planet_afraid_eager_solve_dish_debris_piece_pencil |  
+| bip_39_word_underscore_12 | strong_seminar_peasant_planet_afraid_eager_solve_dish_debris_piece_pencil_all |  
+| bip_39_word_underscore_2 | strong_seminar |  
+| bip_39_word_underscore_3 | strong_seminar_peasant |  
+| bip_39_word_underscore_4 | strong_seminar_peasant_planet |  
+| bip_39_word_underscore_5 | strong_seminar_peasant_planet_afraid |  
+| bip_39_word_underscore_6 | strong_seminar_peasant_planet_afraid_eager |  
+| bip_39_word_underscore_7 | strong_seminar_peasant_planet_afraid_eager_solve |  
+| bip_39_word_underscore_8 | strong_seminar_peasant_planet_afraid_eager_solve_dish |  
+| bip_39_word_underscore_9 | strong_seminar_peasant_planet_afraid_eager_solve_dish_debris |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

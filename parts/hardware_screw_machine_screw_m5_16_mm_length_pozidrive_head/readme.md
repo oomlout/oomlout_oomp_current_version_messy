@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reunion |  
+| bip_39_word_dash_10 | reunion-art-fee-caught-sadness-lazy-early-dutch-swallow-dignity |  
+| bip_39_word_dash_11 | reunion-art-fee-caught-sadness-lazy-early-dutch-swallow-dignity-people |  
+| bip_39_word_dash_12 | reunion-art-fee-caught-sadness-lazy-early-dutch-swallow-dignity-people-actor |  
+| bip_39_word_dash_2 | reunion-art |  
+| bip_39_word_dash_3 | reunion-art-fee |  
+| bip_39_word_dash_4 | reunion-art-fee-caught |  
+| bip_39_word_dash_5 | reunion-art-fee-caught-sadness |  
+| bip_39_word_dash_6 | reunion-art-fee-caught-sadness-lazy |  
+| bip_39_word_dash_7 | reunion-art-fee-caught-sadness-lazy-early |  
+| bip_39_word_dash_8 | reunion-art-fee-caught-sadness-lazy-early-dutch |  
+| bip_39_word_dash_9 | reunion-art-fee-caught-sadness-lazy-early-dutch-swallow |  
 | bip_39_word_new_br_1 | reunion |  
 | bip_39_word_new_br_10 | reunion<br>art<br>fee<br>caught<br>sadness<br>lazy<br>early<br>dutch<br>swallow<br>dignity |  
 | bip_39_word_new_br_11 | reunion<br>art<br>fee<br>caught<br>sadness<br>lazy<br>early<br>dutch<br>swallow<br>dignity<br>people |  
@@ -147,6 +159,18 @@ swallow |
 | bip_39_word_space_7 | reunion art fee caught sadness lazy early |  
 | bip_39_word_space_8 | reunion art fee caught sadness lazy early dutch |  
 | bip_39_word_space_9 | reunion art fee caught sadness lazy early dutch swallow |  
+| bip_39_word_underscore_1 | reunion |  
+| bip_39_word_underscore_10 | reunion_art_fee_caught_sadness_lazy_early_dutch_swallow_dignity |  
+| bip_39_word_underscore_11 | reunion_art_fee_caught_sadness_lazy_early_dutch_swallow_dignity_people |  
+| bip_39_word_underscore_12 | reunion_art_fee_caught_sadness_lazy_early_dutch_swallow_dignity_people_actor |  
+| bip_39_word_underscore_2 | reunion_art |  
+| bip_39_word_underscore_3 | reunion_art_fee |  
+| bip_39_word_underscore_4 | reunion_art_fee_caught |  
+| bip_39_word_underscore_5 | reunion_art_fee_caught_sadness |  
+| bip_39_word_underscore_6 | reunion_art_fee_caught_sadness_lazy |  
+| bip_39_word_underscore_7 | reunion_art_fee_caught_sadness_lazy_early |  
+| bip_39_word_underscore_8 | reunion_art_fee_caught_sadness_lazy_early_dutch |  
+| bip_39_word_underscore_9 | reunion_art_fee_caught_sadness_lazy_early_dutch_swallow |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

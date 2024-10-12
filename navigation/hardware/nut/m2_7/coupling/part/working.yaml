@@ -1,3 +1,15 @@
+bip_39_word_dash_1: valid
+bip_39_word_dash_10: valid-frozen-hospital-task-horn-sudden-law-mirror-hello-boost
+bip_39_word_dash_11: valid-frozen-hospital-task-horn-sudden-law-mirror-hello-boost-suggest
+bip_39_word_dash_12: valid-frozen-hospital-task-horn-sudden-law-mirror-hello-boost-suggest-admit
+bip_39_word_dash_2: valid-frozen
+bip_39_word_dash_3: valid-frozen-hospital
+bip_39_word_dash_4: valid-frozen-hospital-task
+bip_39_word_dash_5: valid-frozen-hospital-task-horn
+bip_39_word_dash_6: valid-frozen-hospital-task-horn-sudden
+bip_39_word_dash_7: valid-frozen-hospital-task-horn-sudden-law
+bip_39_word_dash_8: valid-frozen-hospital-task-horn-sudden-law-mirror
+bip_39_word_dash_9: valid-frozen-hospital-task-horn-sudden-law-mirror-hello
 bip_39_word_new_br_1: valid
 bip_39_word_new_br_10: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost
 bip_39_word_new_br_11: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost<br>suggest
@@ -193,6 +205,18 @@ bip_39_word_space_6: valid frozen hospital task horn sudden
 bip_39_word_space_7: valid frozen hospital task horn sudden law
 bip_39_word_space_8: valid frozen hospital task horn sudden law mirror
 bip_39_word_space_9: valid frozen hospital task horn sudden law mirror hello
+bip_39_word_underscore_1: valid
+bip_39_word_underscore_10: valid_frozen_hospital_task_horn_sudden_law_mirror_hello_boost
+bip_39_word_underscore_11: valid_frozen_hospital_task_horn_sudden_law_mirror_hello_boost_suggest
+bip_39_word_underscore_12: valid_frozen_hospital_task_horn_sudden_law_mirror_hello_boost_suggest_admit
+bip_39_word_underscore_2: valid_frozen
+bip_39_word_underscore_3: valid_frozen_hospital
+bip_39_word_underscore_4: valid_frozen_hospital_task
+bip_39_word_underscore_5: valid_frozen_hospital_task_horn
+bip_39_word_underscore_6: valid_frozen_hospital_task_horn_sudden
+bip_39_word_underscore_7: valid_frozen_hospital_task_horn_sudden_law
+bip_39_word_underscore_8: valid_frozen_hospital_task_horn_sudden_law_mirror
+bip_39_word_underscore_9: valid_frozen_hospital_task_horn_sudden_law_mirror_hello
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

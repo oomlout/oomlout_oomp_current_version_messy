@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soft |  
+| bip_39_word_dash_10 | soft-verb-swap-monkey-sea-bounce-moon-oxygen-motion-drink |  
+| bip_39_word_dash_11 | soft-verb-swap-monkey-sea-bounce-moon-oxygen-motion-drink-road |  
+| bip_39_word_dash_2 | soft-verb |  
+| bip_39_word_dash_3 | soft-verb-swap |  
+| bip_39_word_dash_4 | soft-verb-swap-monkey |  
+| bip_39_word_dash_5 | soft-verb-swap-monkey-sea |  
+| bip_39_word_dash_6 | soft-verb-swap-monkey-sea-bounce |  
+| bip_39_word_dash_7 | soft-verb-swap-monkey-sea-bounce-moon |  
+| bip_39_word_dash_8 | soft-verb-swap-monkey-sea-bounce-moon-oxygen |  
+| bip_39_word_dash_9 | soft-verb-swap-monkey-sea-bounce-moon-oxygen-motion |  
 | bip_39_word_new_br_1 | soft |  
 | bip_39_word_new_br_10 | soft<br>verb<br>swap<br>monkey<br>sea<br>bounce<br>moon<br>oxygen<br>motion<br>drink |  
 | bip_39_word_new_br_11 | soft<br>verb<br>swap<br>monkey<br>sea<br>bounce<br>moon<br>oxygen<br>motion<br>drink<br>road |  
@@ -132,6 +143,17 @@ motion |
 | bip_39_word_space_7 | soft verb swap monkey sea bounce moon |  
 | bip_39_word_space_8 | soft verb swap monkey sea bounce moon oxygen |  
 | bip_39_word_space_9 | soft verb swap monkey sea bounce moon oxygen motion |  
+| bip_39_word_underscore_1 | soft |  
+| bip_39_word_underscore_10 | soft_verb_swap_monkey_sea_bounce_moon_oxygen_motion_drink |  
+| bip_39_word_underscore_11 | soft_verb_swap_monkey_sea_bounce_moon_oxygen_motion_drink_road |  
+| bip_39_word_underscore_2 | soft_verb |  
+| bip_39_word_underscore_3 | soft_verb_swap |  
+| bip_39_word_underscore_4 | soft_verb_swap_monkey |  
+| bip_39_word_underscore_5 | soft_verb_swap_monkey_sea |  
+| bip_39_word_underscore_6 | soft_verb_swap_monkey_sea_bounce |  
+| bip_39_word_underscore_7 | soft_verb_swap_monkey_sea_bounce_moon |  
+| bip_39_word_underscore_8 | soft_verb_swap_monkey_sea_bounce_moon_oxygen |  
+| bip_39_word_underscore_9 | soft_verb_swap_monkey_sea_bounce_moon_oxygen_motion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

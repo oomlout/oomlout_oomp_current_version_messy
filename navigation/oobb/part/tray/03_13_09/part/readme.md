@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fiscal |  
+| bip_39_word_dash_10 | fiscal-distance-odor-silver-inspire-giggle-bracket-decade-engage-absent |  
+| bip_39_word_dash_11 | fiscal-distance-odor-silver-inspire-giggle-bracket-decade-engage-absent-thing |  
+| bip_39_word_dash_12 | fiscal-distance-odor-silver-inspire-giggle-bracket-decade-engage-absent-thing-act |  
+| bip_39_word_dash_2 | fiscal-distance |  
+| bip_39_word_dash_3 | fiscal-distance-odor |  
+| bip_39_word_dash_4 | fiscal-distance-odor-silver |  
+| bip_39_word_dash_5 | fiscal-distance-odor-silver-inspire |  
+| bip_39_word_dash_6 | fiscal-distance-odor-silver-inspire-giggle |  
+| bip_39_word_dash_7 | fiscal-distance-odor-silver-inspire-giggle-bracket |  
+| bip_39_word_dash_8 | fiscal-distance-odor-silver-inspire-giggle-bracket-decade |  
+| bip_39_word_dash_9 | fiscal-distance-odor-silver-inspire-giggle-bracket-decade-engage |  
 | bip_39_word_new_br_1 | fiscal |  
 | bip_39_word_new_br_10 | fiscal<br>distance<br>odor<br>silver<br>inspire<br>giggle<br>bracket<br>decade<br>engage<br>absent |  
 | bip_39_word_new_br_11 | fiscal<br>distance<br>odor<br>silver<br>inspire<br>giggle<br>bracket<br>decade<br>engage<br>absent<br>thing |  
@@ -147,6 +159,18 @@ engage |
 | bip_39_word_space_7 | fiscal distance odor silver inspire giggle bracket |  
 | bip_39_word_space_8 | fiscal distance odor silver inspire giggle bracket decade |  
 | bip_39_word_space_9 | fiscal distance odor silver inspire giggle bracket decade engage |  
+| bip_39_word_underscore_1 | fiscal |  
+| bip_39_word_underscore_10 | fiscal_distance_odor_silver_inspire_giggle_bracket_decade_engage_absent |  
+| bip_39_word_underscore_11 | fiscal_distance_odor_silver_inspire_giggle_bracket_decade_engage_absent_thing |  
+| bip_39_word_underscore_12 | fiscal_distance_odor_silver_inspire_giggle_bracket_decade_engage_absent_thing_act |  
+| bip_39_word_underscore_2 | fiscal_distance |  
+| bip_39_word_underscore_3 | fiscal_distance_odor |  
+| bip_39_word_underscore_4 | fiscal_distance_odor_silver |  
+| bip_39_word_underscore_5 | fiscal_distance_odor_silver_inspire |  
+| bip_39_word_underscore_6 | fiscal_distance_odor_silver_inspire_giggle |  
+| bip_39_word_underscore_7 | fiscal_distance_odor_silver_inspire_giggle_bracket |  
+| bip_39_word_underscore_8 | fiscal_distance_odor_silver_inspire_giggle_bracket_decade |  
+| bip_39_word_underscore_9 | fiscal_distance_odor_silver_inspire_giggle_bracket_decade_engage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

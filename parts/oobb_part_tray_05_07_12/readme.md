@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebuild |  
+| bip_39_word_dash_10 | rebuild-dove-more-dove-enrich-addict-minimum-asset-swear-fatal |  
+| bip_39_word_dash_11 | rebuild-dove-more-dove-enrich-addict-minimum-asset-swear-fatal-perfect |  
+| bip_39_word_dash_12 | rebuild-dove-more-dove-enrich-addict-minimum-asset-swear-fatal-perfect-any |  
+| bip_39_word_dash_2 | rebuild-dove |  
+| bip_39_word_dash_3 | rebuild-dove-more |  
+| bip_39_word_dash_4 | rebuild-dove-more-dove |  
+| bip_39_word_dash_5 | rebuild-dove-more-dove-enrich |  
+| bip_39_word_dash_6 | rebuild-dove-more-dove-enrich-addict |  
+| bip_39_word_dash_7 | rebuild-dove-more-dove-enrich-addict-minimum |  
+| bip_39_word_dash_8 | rebuild-dove-more-dove-enrich-addict-minimum-asset |  
+| bip_39_word_dash_9 | rebuild-dove-more-dove-enrich-addict-minimum-asset-swear |  
 | bip_39_word_new_br_1 | rebuild |  
 | bip_39_word_new_br_10 | rebuild<br>dove<br>more<br>dove<br>enrich<br>addict<br>minimum<br>asset<br>swear<br>fatal |  
 | bip_39_word_new_br_11 | rebuild<br>dove<br>more<br>dove<br>enrich<br>addict<br>minimum<br>asset<br>swear<br>fatal<br>perfect |  
@@ -147,6 +159,18 @@ swear |
 | bip_39_word_space_7 | rebuild dove more dove enrich addict minimum |  
 | bip_39_word_space_8 | rebuild dove more dove enrich addict minimum asset |  
 | bip_39_word_space_9 | rebuild dove more dove enrich addict minimum asset swear |  
+| bip_39_word_underscore_1 | rebuild |  
+| bip_39_word_underscore_10 | rebuild_dove_more_dove_enrich_addict_minimum_asset_swear_fatal |  
+| bip_39_word_underscore_11 | rebuild_dove_more_dove_enrich_addict_minimum_asset_swear_fatal_perfect |  
+| bip_39_word_underscore_12 | rebuild_dove_more_dove_enrich_addict_minimum_asset_swear_fatal_perfect_any |  
+| bip_39_word_underscore_2 | rebuild_dove |  
+| bip_39_word_underscore_3 | rebuild_dove_more |  
+| bip_39_word_underscore_4 | rebuild_dove_more_dove |  
+| bip_39_word_underscore_5 | rebuild_dove_more_dove_enrich |  
+| bip_39_word_underscore_6 | rebuild_dove_more_dove_enrich_addict |  
+| bip_39_word_underscore_7 | rebuild_dove_more_dove_enrich_addict_minimum |  
+| bip_39_word_underscore_8 | rebuild_dove_more_dove_enrich_addict_minimum_asset |  
+| bip_39_word_underscore_9 | rebuild_dove_more_dove_enrich_addict_minimum_asset_swear |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

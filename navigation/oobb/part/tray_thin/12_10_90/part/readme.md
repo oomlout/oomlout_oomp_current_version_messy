@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | punch |  
+| bip_39_word_dash_10 | punch-forest-witness-topic-perfect-average-impact-aware-under-tonight |  
+| bip_39_word_dash_11 | punch-forest-witness-topic-perfect-average-impact-aware-under-tonight-token |  
+| bip_39_word_dash_12 | punch-forest-witness-topic-perfect-average-impact-aware-under-tonight-token-argue |  
+| bip_39_word_dash_2 | punch-forest |  
+| bip_39_word_dash_3 | punch-forest-witness |  
+| bip_39_word_dash_4 | punch-forest-witness-topic |  
+| bip_39_word_dash_5 | punch-forest-witness-topic-perfect |  
+| bip_39_word_dash_6 | punch-forest-witness-topic-perfect-average |  
+| bip_39_word_dash_7 | punch-forest-witness-topic-perfect-average-impact |  
+| bip_39_word_dash_8 | punch-forest-witness-topic-perfect-average-impact-aware |  
+| bip_39_word_dash_9 | punch-forest-witness-topic-perfect-average-impact-aware-under |  
 | bip_39_word_new_br_1 | punch |  
 | bip_39_word_new_br_10 | punch<br>forest<br>witness<br>topic<br>perfect<br>average<br>impact<br>aware<br>under<br>tonight |  
 | bip_39_word_new_br_11 | punch<br>forest<br>witness<br>topic<br>perfect<br>average<br>impact<br>aware<br>under<br>tonight<br>token |  
@@ -147,6 +159,18 @@ under |
 | bip_39_word_space_7 | punch forest witness topic perfect average impact |  
 | bip_39_word_space_8 | punch forest witness topic perfect average impact aware |  
 | bip_39_word_space_9 | punch forest witness topic perfect average impact aware under |  
+| bip_39_word_underscore_1 | punch |  
+| bip_39_word_underscore_10 | punch_forest_witness_topic_perfect_average_impact_aware_under_tonight |  
+| bip_39_word_underscore_11 | punch_forest_witness_topic_perfect_average_impact_aware_under_tonight_token |  
+| bip_39_word_underscore_12 | punch_forest_witness_topic_perfect_average_impact_aware_under_tonight_token_argue |  
+| bip_39_word_underscore_2 | punch_forest |  
+| bip_39_word_underscore_3 | punch_forest_witness |  
+| bip_39_word_underscore_4 | punch_forest_witness_topic |  
+| bip_39_word_underscore_5 | punch_forest_witness_topic_perfect |  
+| bip_39_word_underscore_6 | punch_forest_witness_topic_perfect_average |  
+| bip_39_word_underscore_7 | punch_forest_witness_topic_perfect_average_impact |  
+| bip_39_word_underscore_8 | punch_forest_witness_topic_perfect_average_impact_aware |  
+| bip_39_word_underscore_9 | punch_forest_witness_topic_perfect_average_impact_aware_under |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

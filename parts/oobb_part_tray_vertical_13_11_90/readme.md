@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sight |  
+| bip_39_word_dash_10 | sight-spend-dust-pretty-that-damage-juice-note-wet-luxury |  
+| bip_39_word_dash_11 | sight-spend-dust-pretty-that-damage-juice-note-wet-luxury-amused |  
+| bip_39_word_dash_12 | sight-spend-dust-pretty-that-damage-juice-note-wet-luxury-amused-acquire |  
+| bip_39_word_dash_2 | sight-spend |  
+| bip_39_word_dash_3 | sight-spend-dust |  
+| bip_39_word_dash_4 | sight-spend-dust-pretty |  
+| bip_39_word_dash_5 | sight-spend-dust-pretty-that |  
+| bip_39_word_dash_6 | sight-spend-dust-pretty-that-damage |  
+| bip_39_word_dash_7 | sight-spend-dust-pretty-that-damage-juice |  
+| bip_39_word_dash_8 | sight-spend-dust-pretty-that-damage-juice-note |  
+| bip_39_word_dash_9 | sight-spend-dust-pretty-that-damage-juice-note-wet |  
 | bip_39_word_new_br_1 | sight |  
 | bip_39_word_new_br_10 | sight<br>spend<br>dust<br>pretty<br>that<br>damage<br>juice<br>note<br>wet<br>luxury |  
 | bip_39_word_new_br_11 | sight<br>spend<br>dust<br>pretty<br>that<br>damage<br>juice<br>note<br>wet<br>luxury<br>amused |  
@@ -147,6 +159,18 @@ wet |
 | bip_39_word_space_7 | sight spend dust pretty that damage juice |  
 | bip_39_word_space_8 | sight spend dust pretty that damage juice note |  
 | bip_39_word_space_9 | sight spend dust pretty that damage juice note wet |  
+| bip_39_word_underscore_1 | sight |  
+| bip_39_word_underscore_10 | sight_spend_dust_pretty_that_damage_juice_note_wet_luxury |  
+| bip_39_word_underscore_11 | sight_spend_dust_pretty_that_damage_juice_note_wet_luxury_amused |  
+| bip_39_word_underscore_12 | sight_spend_dust_pretty_that_damage_juice_note_wet_luxury_amused_acquire |  
+| bip_39_word_underscore_2 | sight_spend |  
+| bip_39_word_underscore_3 | sight_spend_dust |  
+| bip_39_word_underscore_4 | sight_spend_dust_pretty |  
+| bip_39_word_underscore_5 | sight_spend_dust_pretty_that |  
+| bip_39_word_underscore_6 | sight_spend_dust_pretty_that_damage |  
+| bip_39_word_underscore_7 | sight_spend_dust_pretty_that_damage_juice |  
+| bip_39_word_underscore_8 | sight_spend_dust_pretty_that_damage_juice_note |  
+| bip_39_word_underscore_9 | sight_spend_dust_pretty_that_damage_juice_note_wet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

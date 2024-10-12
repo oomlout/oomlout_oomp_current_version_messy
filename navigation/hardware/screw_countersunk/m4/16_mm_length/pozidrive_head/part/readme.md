@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | armed |  
+| bip_39_word_dash_10 | armed-office-special-torch-razor-guitar-broken-scatter-sentence-amused |  
+| bip_39_word_dash_11 | armed-office-special-torch-razor-guitar-broken-scatter-sentence-amused-uncle |  
+| bip_39_word_dash_12 | armed-office-special-torch-razor-guitar-broken-scatter-sentence-amused-uncle-already |  
+| bip_39_word_dash_2 | armed-office |  
+| bip_39_word_dash_3 | armed-office-special |  
+| bip_39_word_dash_4 | armed-office-special-torch |  
+| bip_39_word_dash_5 | armed-office-special-torch-razor |  
+| bip_39_word_dash_6 | armed-office-special-torch-razor-guitar |  
+| bip_39_word_dash_7 | armed-office-special-torch-razor-guitar-broken |  
+| bip_39_word_dash_8 | armed-office-special-torch-razor-guitar-broken-scatter |  
+| bip_39_word_dash_9 | armed-office-special-torch-razor-guitar-broken-scatter-sentence |  
 | bip_39_word_new_br_1 | armed |  
 | bip_39_word_new_br_10 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused |  
 | bip_39_word_new_br_11 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused<br>uncle |  
@@ -147,6 +159,18 @@ sentence |
 | bip_39_word_space_7 | armed office special torch razor guitar broken |  
 | bip_39_word_space_8 | armed office special torch razor guitar broken scatter |  
 | bip_39_word_space_9 | armed office special torch razor guitar broken scatter sentence |  
+| bip_39_word_underscore_1 | armed |  
+| bip_39_word_underscore_10 | armed_office_special_torch_razor_guitar_broken_scatter_sentence_amused |  
+| bip_39_word_underscore_11 | armed_office_special_torch_razor_guitar_broken_scatter_sentence_amused_uncle |  
+| bip_39_word_underscore_12 | armed_office_special_torch_razor_guitar_broken_scatter_sentence_amused_uncle_already |  
+| bip_39_word_underscore_2 | armed_office |  
+| bip_39_word_underscore_3 | armed_office_special |  
+| bip_39_word_underscore_4 | armed_office_special_torch |  
+| bip_39_word_underscore_5 | armed_office_special_torch_razor |  
+| bip_39_word_underscore_6 | armed_office_special_torch_razor_guitar |  
+| bip_39_word_underscore_7 | armed_office_special_torch_razor_guitar_broken |  
+| bip_39_word_underscore_8 | armed_office_special_torch_razor_guitar_broken_scatter |  
+| bip_39_word_underscore_9 | armed_office_special_torch_razor_guitar_broken_scatter_sentence |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

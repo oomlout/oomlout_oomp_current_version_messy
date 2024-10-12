@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | town |  
+| bip_39_word_dash_10 | town-trick-evolve-amused-opinion-canoe-holiday-gravity-brass-stairs |  
+| bip_39_word_dash_11 | town-trick-evolve-amused-opinion-canoe-holiday-gravity-brass-stairs-girl |  
+| bip_39_word_dash_12 | town-trick-evolve-amused-opinion-canoe-holiday-gravity-brass-stairs-girl-answer |  
+| bip_39_word_dash_2 | town-trick |  
+| bip_39_word_dash_3 | town-trick-evolve |  
+| bip_39_word_dash_4 | town-trick-evolve-amused |  
+| bip_39_word_dash_5 | town-trick-evolve-amused-opinion |  
+| bip_39_word_dash_6 | town-trick-evolve-amused-opinion-canoe |  
+| bip_39_word_dash_7 | town-trick-evolve-amused-opinion-canoe-holiday |  
+| bip_39_word_dash_8 | town-trick-evolve-amused-opinion-canoe-holiday-gravity |  
+| bip_39_word_dash_9 | town-trick-evolve-amused-opinion-canoe-holiday-gravity-brass |  
 | bip_39_word_new_br_1 | town |  
 | bip_39_word_new_br_10 | town<br>trick<br>evolve<br>amused<br>opinion<br>canoe<br>holiday<br>gravity<br>brass<br>stairs |  
 | bip_39_word_new_br_11 | town<br>trick<br>evolve<br>amused<br>opinion<br>canoe<br>holiday<br>gravity<br>brass<br>stairs<br>girl |  
@@ -147,6 +159,18 @@ brass |
 | bip_39_word_space_7 | town trick evolve amused opinion canoe holiday |  
 | bip_39_word_space_8 | town trick evolve amused opinion canoe holiday gravity |  
 | bip_39_word_space_9 | town trick evolve amused opinion canoe holiday gravity brass |  
+| bip_39_word_underscore_1 | town |  
+| bip_39_word_underscore_10 | town_trick_evolve_amused_opinion_canoe_holiday_gravity_brass_stairs |  
+| bip_39_word_underscore_11 | town_trick_evolve_amused_opinion_canoe_holiday_gravity_brass_stairs_girl |  
+| bip_39_word_underscore_12 | town_trick_evolve_amused_opinion_canoe_holiday_gravity_brass_stairs_girl_answer |  
+| bip_39_word_underscore_2 | town_trick |  
+| bip_39_word_underscore_3 | town_trick_evolve |  
+| bip_39_word_underscore_4 | town_trick_evolve_amused |  
+| bip_39_word_underscore_5 | town_trick_evolve_amused_opinion |  
+| bip_39_word_underscore_6 | town_trick_evolve_amused_opinion_canoe |  
+| bip_39_word_underscore_7 | town_trick_evolve_amused_opinion_canoe_holiday |  
+| bip_39_word_underscore_8 | town_trick_evolve_amused_opinion_canoe_holiday_gravity |  
+| bip_39_word_underscore_9 | town_trick_evolve_amused_opinion_canoe_holiday_gravity_brass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

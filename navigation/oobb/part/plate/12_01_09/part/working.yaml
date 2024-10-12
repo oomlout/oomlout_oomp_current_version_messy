@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spin
+bip_39_word_dash_10: spin-dawn-staff-save-letter-scene-umbrella-siren-another-bunker
+bip_39_word_dash_11: spin-dawn-staff-save-letter-scene-umbrella-siren-another-bunker-health
+bip_39_word_dash_12: spin-dawn-staff-save-letter-scene-umbrella-siren-another-bunker-health-anchor
+bip_39_word_dash_2: spin-dawn
+bip_39_word_dash_3: spin-dawn-staff
+bip_39_word_dash_4: spin-dawn-staff-save
+bip_39_word_dash_5: spin-dawn-staff-save-letter
+bip_39_word_dash_6: spin-dawn-staff-save-letter-scene
+bip_39_word_dash_7: spin-dawn-staff-save-letter-scene-umbrella
+bip_39_word_dash_8: spin-dawn-staff-save-letter-scene-umbrella-siren
+bip_39_word_dash_9: spin-dawn-staff-save-letter-scene-umbrella-siren-another
 bip_39_word_new_br_1: spin
 bip_39_word_new_br_10: spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker
 bip_39_word_new_br_11: spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker<br>health
@@ -193,6 +205,18 @@ bip_39_word_space_6: spin dawn staff save letter scene
 bip_39_word_space_7: spin dawn staff save letter scene umbrella
 bip_39_word_space_8: spin dawn staff save letter scene umbrella siren
 bip_39_word_space_9: spin dawn staff save letter scene umbrella siren another
+bip_39_word_underscore_1: spin
+bip_39_word_underscore_10: spin_dawn_staff_save_letter_scene_umbrella_siren_another_bunker
+bip_39_word_underscore_11: spin_dawn_staff_save_letter_scene_umbrella_siren_another_bunker_health
+bip_39_word_underscore_12: spin_dawn_staff_save_letter_scene_umbrella_siren_another_bunker_health_anchor
+bip_39_word_underscore_2: spin_dawn
+bip_39_word_underscore_3: spin_dawn_staff
+bip_39_word_underscore_4: spin_dawn_staff_save
+bip_39_word_underscore_5: spin_dawn_staff_save_letter
+bip_39_word_underscore_6: spin_dawn_staff_save_letter_scene
+bip_39_word_underscore_7: spin_dawn_staff_save_letter_scene_umbrella
+bip_39_word_underscore_8: spin_dawn_staff_save_letter_scene_umbrella_siren
+bip_39_word_underscore_9: spin_dawn_staff_save_letter_scene_umbrella_siren_another
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

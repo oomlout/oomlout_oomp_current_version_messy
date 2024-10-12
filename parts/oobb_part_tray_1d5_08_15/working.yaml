@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shy
+bip_39_word_dash_10: shy-priority-main-load-seed-floor-live-rice-device-frame
+bip_39_word_dash_11: shy-priority-main-load-seed-floor-live-rice-device-frame-ensure
+bip_39_word_dash_12: shy-priority-main-load-seed-floor-live-rice-device-frame-ensure-actress
+bip_39_word_dash_2: shy-priority
+bip_39_word_dash_3: shy-priority-main
+bip_39_word_dash_4: shy-priority-main-load
+bip_39_word_dash_5: shy-priority-main-load-seed
+bip_39_word_dash_6: shy-priority-main-load-seed-floor
+bip_39_word_dash_7: shy-priority-main-load-seed-floor-live
+bip_39_word_dash_8: shy-priority-main-load-seed-floor-live-rice
+bip_39_word_dash_9: shy-priority-main-load-seed-floor-live-rice-device
 bip_39_word_new_br_1: shy
 bip_39_word_new_br_10: shy<br>priority<br>main<br>load<br>seed<br>floor<br>live<br>rice<br>device<br>frame
 bip_39_word_new_br_11: shy<br>priority<br>main<br>load<br>seed<br>floor<br>live<br>rice<br>device<br>frame<br>ensure
@@ -192,6 +204,18 @@ bip_39_word_space_6: shy priority main load seed floor
 bip_39_word_space_7: shy priority main load seed floor live
 bip_39_word_space_8: shy priority main load seed floor live rice
 bip_39_word_space_9: shy priority main load seed floor live rice device
+bip_39_word_underscore_1: shy
+bip_39_word_underscore_10: shy_priority_main_load_seed_floor_live_rice_device_frame
+bip_39_word_underscore_11: shy_priority_main_load_seed_floor_live_rice_device_frame_ensure
+bip_39_word_underscore_12: shy_priority_main_load_seed_floor_live_rice_device_frame_ensure_actress
+bip_39_word_underscore_2: shy_priority
+bip_39_word_underscore_3: shy_priority_main
+bip_39_word_underscore_4: shy_priority_main_load
+bip_39_word_underscore_5: shy_priority_main_load_seed
+bip_39_word_underscore_6: shy_priority_main_load_seed_floor
+bip_39_word_underscore_7: shy_priority_main_load_seed_floor_live
+bip_39_word_underscore_8: shy_priority_main_load_seed_floor_live_rice
+bip_39_word_underscore_9: shy_priority_main_load_seed_floor_live_rice_device
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

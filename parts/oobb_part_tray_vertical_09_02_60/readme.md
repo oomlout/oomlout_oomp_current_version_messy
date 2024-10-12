@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | solution |  
+| bip_39_word_dash_10 | solution-setup-achieve-blame-crazy-major-blame-copper-search-mind |  
+| bip_39_word_dash_11 | solution-setup-achieve-blame-crazy-major-blame-copper-search-mind-destroy |  
+| bip_39_word_dash_12 | solution-setup-achieve-blame-crazy-major-blame-copper-search-mind-destroy-atom |  
+| bip_39_word_dash_2 | solution-setup |  
+| bip_39_word_dash_3 | solution-setup-achieve |  
+| bip_39_word_dash_4 | solution-setup-achieve-blame |  
+| bip_39_word_dash_5 | solution-setup-achieve-blame-crazy |  
+| bip_39_word_dash_6 | solution-setup-achieve-blame-crazy-major |  
+| bip_39_word_dash_7 | solution-setup-achieve-blame-crazy-major-blame |  
+| bip_39_word_dash_8 | solution-setup-achieve-blame-crazy-major-blame-copper |  
+| bip_39_word_dash_9 | solution-setup-achieve-blame-crazy-major-blame-copper-search |  
 | bip_39_word_new_br_1 | solution |  
 | bip_39_word_new_br_10 | solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind |  
 | bip_39_word_new_br_11 | solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind<br>destroy |  
@@ -147,6 +159,18 @@ search |
 | bip_39_word_space_7 | solution setup achieve blame crazy major blame |  
 | bip_39_word_space_8 | solution setup achieve blame crazy major blame copper |  
 | bip_39_word_space_9 | solution setup achieve blame crazy major blame copper search |  
+| bip_39_word_underscore_1 | solution |  
+| bip_39_word_underscore_10 | solution_setup_achieve_blame_crazy_major_blame_copper_search_mind |  
+| bip_39_word_underscore_11 | solution_setup_achieve_blame_crazy_major_blame_copper_search_mind_destroy |  
+| bip_39_word_underscore_12 | solution_setup_achieve_blame_crazy_major_blame_copper_search_mind_destroy_atom |  
+| bip_39_word_underscore_2 | solution_setup |  
+| bip_39_word_underscore_3 | solution_setup_achieve |  
+| bip_39_word_underscore_4 | solution_setup_achieve_blame |  
+| bip_39_word_underscore_5 | solution_setup_achieve_blame_crazy |  
+| bip_39_word_underscore_6 | solution_setup_achieve_blame_crazy_major |  
+| bip_39_word_underscore_7 | solution_setup_achieve_blame_crazy_major_blame |  
+| bip_39_word_underscore_8 | solution_setup_achieve_blame_crazy_major_blame_copper |  
+| bip_39_word_underscore_9 | solution_setup_achieve_blame_crazy_major_blame_copper_search |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

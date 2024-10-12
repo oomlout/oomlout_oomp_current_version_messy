@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vacant |  
+| bip_39_word_dash_10 | vacant-select-destroy-diet-myth-boil-lecture-wish-forget-person |  
+| bip_39_word_dash_11 | vacant-select-destroy-diet-myth-boil-lecture-wish-forget-person-direct |  
+| bip_39_word_dash_12 | vacant-select-destroy-diet-myth-boil-lecture-wish-forget-person-direct-almost |  
+| bip_39_word_dash_2 | vacant-select |  
+| bip_39_word_dash_3 | vacant-select-destroy |  
+| bip_39_word_dash_4 | vacant-select-destroy-diet |  
+| bip_39_word_dash_5 | vacant-select-destroy-diet-myth |  
+| bip_39_word_dash_6 | vacant-select-destroy-diet-myth-boil |  
+| bip_39_word_dash_7 | vacant-select-destroy-diet-myth-boil-lecture |  
+| bip_39_word_dash_8 | vacant-select-destroy-diet-myth-boil-lecture-wish |  
+| bip_39_word_dash_9 | vacant-select-destroy-diet-myth-boil-lecture-wish-forget |  
 | bip_39_word_new_br_1 | vacant |  
 | bip_39_word_new_br_10 | vacant<br>select<br>destroy<br>diet<br>myth<br>boil<br>lecture<br>wish<br>forget<br>person |  
 | bip_39_word_new_br_11 | vacant<br>select<br>destroy<br>diet<br>myth<br>boil<br>lecture<br>wish<br>forget<br>person<br>direct |  
@@ -147,6 +159,18 @@ forget |
 | bip_39_word_space_7 | vacant select destroy diet myth boil lecture |  
 | bip_39_word_space_8 | vacant select destroy diet myth boil lecture wish |  
 | bip_39_word_space_9 | vacant select destroy diet myth boil lecture wish forget |  
+| bip_39_word_underscore_1 | vacant |  
+| bip_39_word_underscore_10 | vacant_select_destroy_diet_myth_boil_lecture_wish_forget_person |  
+| bip_39_word_underscore_11 | vacant_select_destroy_diet_myth_boil_lecture_wish_forget_person_direct |  
+| bip_39_word_underscore_12 | vacant_select_destroy_diet_myth_boil_lecture_wish_forget_person_direct_almost |  
+| bip_39_word_underscore_2 | vacant_select |  
+| bip_39_word_underscore_3 | vacant_select_destroy |  
+| bip_39_word_underscore_4 | vacant_select_destroy_diet |  
+| bip_39_word_underscore_5 | vacant_select_destroy_diet_myth |  
+| bip_39_word_underscore_6 | vacant_select_destroy_diet_myth_boil |  
+| bip_39_word_underscore_7 | vacant_select_destroy_diet_myth_boil_lecture |  
+| bip_39_word_underscore_8 | vacant_select_destroy_diet_myth_boil_lecture_wish |  
+| bip_39_word_underscore_9 | vacant_select_destroy_diet_myth_boil_lecture_wish_forget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

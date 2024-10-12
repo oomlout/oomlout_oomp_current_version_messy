@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stable |  
+| bip_39_word_dash_10 | stable-chicken-extra-require-animal-busy-couple-yellow-catch-subject |  
+| bip_39_word_dash_11 | stable-chicken-extra-require-animal-busy-couple-yellow-catch-subject-loan |  
+| bip_39_word_dash_12 | stable-chicken-extra-require-animal-busy-couple-yellow-catch-subject-loan-ankle |  
+| bip_39_word_dash_2 | stable-chicken |  
+| bip_39_word_dash_3 | stable-chicken-extra |  
+| bip_39_word_dash_4 | stable-chicken-extra-require |  
+| bip_39_word_dash_5 | stable-chicken-extra-require-animal |  
+| bip_39_word_dash_6 | stable-chicken-extra-require-animal-busy |  
+| bip_39_word_dash_7 | stable-chicken-extra-require-animal-busy-couple |  
+| bip_39_word_dash_8 | stable-chicken-extra-require-animal-busy-couple-yellow |  
+| bip_39_word_dash_9 | stable-chicken-extra-require-animal-busy-couple-yellow-catch |  
 | bip_39_word_new_br_1 | stable |  
 | bip_39_word_new_br_10 | stable<br>chicken<br>extra<br>require<br>animal<br>busy<br>couple<br>yellow<br>catch<br>subject |  
 | bip_39_word_new_br_11 | stable<br>chicken<br>extra<br>require<br>animal<br>busy<br>couple<br>yellow<br>catch<br>subject<br>loan |  
@@ -147,6 +159,18 @@ catch |
 | bip_39_word_space_7 | stable chicken extra require animal busy couple |  
 | bip_39_word_space_8 | stable chicken extra require animal busy couple yellow |  
 | bip_39_word_space_9 | stable chicken extra require animal busy couple yellow catch |  
+| bip_39_word_underscore_1 | stable |  
+| bip_39_word_underscore_10 | stable_chicken_extra_require_animal_busy_couple_yellow_catch_subject |  
+| bip_39_word_underscore_11 | stable_chicken_extra_require_animal_busy_couple_yellow_catch_subject_loan |  
+| bip_39_word_underscore_12 | stable_chicken_extra_require_animal_busy_couple_yellow_catch_subject_loan_ankle |  
+| bip_39_word_underscore_2 | stable_chicken |  
+| bip_39_word_underscore_3 | stable_chicken_extra |  
+| bip_39_word_underscore_4 | stable_chicken_extra_require |  
+| bip_39_word_underscore_5 | stable_chicken_extra_require_animal |  
+| bip_39_word_underscore_6 | stable_chicken_extra_require_animal_busy |  
+| bip_39_word_underscore_7 | stable_chicken_extra_require_animal_busy_couple |  
+| bip_39_word_underscore_8 | stable_chicken_extra_require_animal_busy_couple_yellow |  
+| bip_39_word_underscore_9 | stable_chicken_extra_require_animal_busy_couple_yellow_catch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

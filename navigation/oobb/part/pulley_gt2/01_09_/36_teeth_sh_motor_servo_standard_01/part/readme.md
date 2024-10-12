@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | famous |  
+| bip_39_word_dash_10 | famous-rhythm-shed-throw-require-mandate-typical-monitor-bubble-useless |  
+| bip_39_word_dash_11 | famous-rhythm-shed-throw-require-mandate-typical-monitor-bubble-useless-festival |  
+| bip_39_word_dash_12 | famous-rhythm-shed-throw-require-mandate-typical-monitor-bubble-useless-festival-across |  
+| bip_39_word_dash_2 | famous-rhythm |  
+| bip_39_word_dash_3 | famous-rhythm-shed |  
+| bip_39_word_dash_4 | famous-rhythm-shed-throw |  
+| bip_39_word_dash_5 | famous-rhythm-shed-throw-require |  
+| bip_39_word_dash_6 | famous-rhythm-shed-throw-require-mandate |  
+| bip_39_word_dash_7 | famous-rhythm-shed-throw-require-mandate-typical |  
+| bip_39_word_dash_8 | famous-rhythm-shed-throw-require-mandate-typical-monitor |  
+| bip_39_word_dash_9 | famous-rhythm-shed-throw-require-mandate-typical-monitor-bubble |  
 | bip_39_word_new_br_1 | famous |  
 | bip_39_word_new_br_10 | famous<br>rhythm<br>shed<br>throw<br>require<br>mandate<br>typical<br>monitor<br>bubble<br>useless |  
 | bip_39_word_new_br_11 | famous<br>rhythm<br>shed<br>throw<br>require<br>mandate<br>typical<br>monitor<br>bubble<br>useless<br>festival |  
@@ -147,6 +159,18 @@ bubble |
 | bip_39_word_space_7 | famous rhythm shed throw require mandate typical |  
 | bip_39_word_space_8 | famous rhythm shed throw require mandate typical monitor |  
 | bip_39_word_space_9 | famous rhythm shed throw require mandate typical monitor bubble |  
+| bip_39_word_underscore_1 | famous |  
+| bip_39_word_underscore_10 | famous_rhythm_shed_throw_require_mandate_typical_monitor_bubble_useless |  
+| bip_39_word_underscore_11 | famous_rhythm_shed_throw_require_mandate_typical_monitor_bubble_useless_festival |  
+| bip_39_word_underscore_12 | famous_rhythm_shed_throw_require_mandate_typical_monitor_bubble_useless_festival_across |  
+| bip_39_word_underscore_2 | famous_rhythm |  
+| bip_39_word_underscore_3 | famous_rhythm_shed |  
+| bip_39_word_underscore_4 | famous_rhythm_shed_throw |  
+| bip_39_word_underscore_5 | famous_rhythm_shed_throw_require |  
+| bip_39_word_underscore_6 | famous_rhythm_shed_throw_require_mandate |  
+| bip_39_word_underscore_7 | famous_rhythm_shed_throw_require_mandate_typical |  
+| bip_39_word_underscore_8 | famous_rhythm_shed_throw_require_mandate_typical_monitor |  
+| bip_39_word_underscore_9 | famous_rhythm_shed_throw_require_mandate_typical_monitor_bubble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

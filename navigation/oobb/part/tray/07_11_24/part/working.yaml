@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ethics
+bip_39_word_dash_10: ethics-report-museum-egg-run-famous-pole-push-knee-inmate
+bip_39_word_dash_11: ethics-report-museum-egg-run-famous-pole-push-knee-inmate-gentle
+bip_39_word_dash_12: ethics-report-museum-egg-run-famous-pole-push-knee-inmate-gentle-ancient
+bip_39_word_dash_2: ethics-report
+bip_39_word_dash_3: ethics-report-museum
+bip_39_word_dash_4: ethics-report-museum-egg
+bip_39_word_dash_5: ethics-report-museum-egg-run
+bip_39_word_dash_6: ethics-report-museum-egg-run-famous
+bip_39_word_dash_7: ethics-report-museum-egg-run-famous-pole
+bip_39_word_dash_8: ethics-report-museum-egg-run-famous-pole-push
+bip_39_word_dash_9: ethics-report-museum-egg-run-famous-pole-push-knee
 bip_39_word_new_br_1: ethics
 bip_39_word_new_br_10: ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate
 bip_39_word_new_br_11: ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate<br>gentle
@@ -192,6 +204,18 @@ bip_39_word_space_6: ethics report museum egg run famous
 bip_39_word_space_7: ethics report museum egg run famous pole
 bip_39_word_space_8: ethics report museum egg run famous pole push
 bip_39_word_space_9: ethics report museum egg run famous pole push knee
+bip_39_word_underscore_1: ethics
+bip_39_word_underscore_10: ethics_report_museum_egg_run_famous_pole_push_knee_inmate
+bip_39_word_underscore_11: ethics_report_museum_egg_run_famous_pole_push_knee_inmate_gentle
+bip_39_word_underscore_12: ethics_report_museum_egg_run_famous_pole_push_knee_inmate_gentle_ancient
+bip_39_word_underscore_2: ethics_report
+bip_39_word_underscore_3: ethics_report_museum
+bip_39_word_underscore_4: ethics_report_museum_egg
+bip_39_word_underscore_5: ethics_report_museum_egg_run
+bip_39_word_underscore_6: ethics_report_museum_egg_run_famous
+bip_39_word_underscore_7: ethics_report_museum_egg_run_famous_pole
+bip_39_word_underscore_8: ethics_report_museum_egg_run_famous_pole_push
+bip_39_word_underscore_9: ethics_report_museum_egg_run_famous_pole_push_knee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

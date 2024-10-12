@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tank
+bip_39_word_dash_10: tank-setup-energy-virtual-feed-grain-wolf-robot-romance-concert
+bip_39_word_dash_11: tank-setup-energy-virtual-feed-grain-wolf-robot-romance-concert-exchange
+bip_39_word_dash_12: tank-setup-energy-virtual-feed-grain-wolf-robot-romance-concert-exchange-act
+bip_39_word_dash_2: tank-setup
+bip_39_word_dash_3: tank-setup-energy
+bip_39_word_dash_4: tank-setup-energy-virtual
+bip_39_word_dash_5: tank-setup-energy-virtual-feed
+bip_39_word_dash_6: tank-setup-energy-virtual-feed-grain
+bip_39_word_dash_7: tank-setup-energy-virtual-feed-grain-wolf
+bip_39_word_dash_8: tank-setup-energy-virtual-feed-grain-wolf-robot
+bip_39_word_dash_9: tank-setup-energy-virtual-feed-grain-wolf-robot-romance
 bip_39_word_new_br_1: tank
 bip_39_word_new_br_10: tank<br>setup<br>energy<br>virtual<br>feed<br>grain<br>wolf<br>robot<br>romance<br>concert
 bip_39_word_new_br_11: tank<br>setup<br>energy<br>virtual<br>feed<br>grain<br>wolf<br>robot<br>romance<br>concert<br>exchange
@@ -193,6 +205,18 @@ bip_39_word_space_6: tank setup energy virtual feed grain
 bip_39_word_space_7: tank setup energy virtual feed grain wolf
 bip_39_word_space_8: tank setup energy virtual feed grain wolf robot
 bip_39_word_space_9: tank setup energy virtual feed grain wolf robot romance
+bip_39_word_underscore_1: tank
+bip_39_word_underscore_10: tank_setup_energy_virtual_feed_grain_wolf_robot_romance_concert
+bip_39_word_underscore_11: tank_setup_energy_virtual_feed_grain_wolf_robot_romance_concert_exchange
+bip_39_word_underscore_12: tank_setup_energy_virtual_feed_grain_wolf_robot_romance_concert_exchange_act
+bip_39_word_underscore_2: tank_setup
+bip_39_word_underscore_3: tank_setup_energy
+bip_39_word_underscore_4: tank_setup_energy_virtual
+bip_39_word_underscore_5: tank_setup_energy_virtual_feed
+bip_39_word_underscore_6: tank_setup_energy_virtual_feed_grain
+bip_39_word_underscore_7: tank_setup_energy_virtual_feed_grain_wolf
+bip_39_word_underscore_8: tank_setup_energy_virtual_feed_grain_wolf_robot
+bip_39_word_underscore_9: tank_setup_energy_virtual_feed_grain_wolf_robot_romance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

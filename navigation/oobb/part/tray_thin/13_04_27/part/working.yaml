@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exhaust
+bip_39_word_dash_10: exhaust-repeat-volume-make-device-gadget-cruel-bronze-october-maze
+bip_39_word_dash_11: exhaust-repeat-volume-make-device-gadget-cruel-bronze-october-maze-foot
+bip_39_word_dash_12: exhaust-repeat-volume-make-device-gadget-cruel-bronze-october-maze-foot-attack
+bip_39_word_dash_2: exhaust-repeat
+bip_39_word_dash_3: exhaust-repeat-volume
+bip_39_word_dash_4: exhaust-repeat-volume-make
+bip_39_word_dash_5: exhaust-repeat-volume-make-device
+bip_39_word_dash_6: exhaust-repeat-volume-make-device-gadget
+bip_39_word_dash_7: exhaust-repeat-volume-make-device-gadget-cruel
+bip_39_word_dash_8: exhaust-repeat-volume-make-device-gadget-cruel-bronze
+bip_39_word_dash_9: exhaust-repeat-volume-make-device-gadget-cruel-bronze-october
 bip_39_word_new_br_1: exhaust
 bip_39_word_new_br_10: exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze<br>october<br>maze
 bip_39_word_new_br_11: exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze<br>october<br>maze<br>foot
@@ -194,6 +206,18 @@ bip_39_word_space_6: exhaust repeat volume make device gadget
 bip_39_word_space_7: exhaust repeat volume make device gadget cruel
 bip_39_word_space_8: exhaust repeat volume make device gadget cruel bronze
 bip_39_word_space_9: exhaust repeat volume make device gadget cruel bronze october
+bip_39_word_underscore_1: exhaust
+bip_39_word_underscore_10: exhaust_repeat_volume_make_device_gadget_cruel_bronze_october_maze
+bip_39_word_underscore_11: exhaust_repeat_volume_make_device_gadget_cruel_bronze_october_maze_foot
+bip_39_word_underscore_12: exhaust_repeat_volume_make_device_gadget_cruel_bronze_october_maze_foot_attack
+bip_39_word_underscore_2: exhaust_repeat
+bip_39_word_underscore_3: exhaust_repeat_volume
+bip_39_word_underscore_4: exhaust_repeat_volume_make
+bip_39_word_underscore_5: exhaust_repeat_volume_make_device
+bip_39_word_underscore_6: exhaust_repeat_volume_make_device_gadget
+bip_39_word_underscore_7: exhaust_repeat_volume_make_device_gadget_cruel
+bip_39_word_underscore_8: exhaust_repeat_volume_make_device_gadget_cruel_bronze
+bip_39_word_underscore_9: exhaust_repeat_volume_make_device_gadget_cruel_bronze_october
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

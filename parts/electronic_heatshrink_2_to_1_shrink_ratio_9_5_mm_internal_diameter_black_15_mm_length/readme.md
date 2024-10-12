@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | barely |  
+| bip_39_word_dash_10 | barely-pistol-empty-ticket-equal-crystal-wait-cash-shoot-member |  
+| bip_39_word_dash_11 | barely-pistol-empty-ticket-equal-crystal-wait-cash-shoot-member-rent |  
+| bip_39_word_dash_12 | barely-pistol-empty-ticket-equal-crystal-wait-cash-shoot-member-rent-arch |  
+| bip_39_word_dash_2 | barely-pistol |  
+| bip_39_word_dash_3 | barely-pistol-empty |  
+| bip_39_word_dash_4 | barely-pistol-empty-ticket |  
+| bip_39_word_dash_5 | barely-pistol-empty-ticket-equal |  
+| bip_39_word_dash_6 | barely-pistol-empty-ticket-equal-crystal |  
+| bip_39_word_dash_7 | barely-pistol-empty-ticket-equal-crystal-wait |  
+| bip_39_word_dash_8 | barely-pistol-empty-ticket-equal-crystal-wait-cash |  
+| bip_39_word_dash_9 | barely-pistol-empty-ticket-equal-crystal-wait-cash-shoot |  
 | bip_39_word_new_br_1 | barely |  
 | bip_39_word_new_br_10 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member |  
 | bip_39_word_new_br_11 | barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member<br>rent |  
@@ -147,6 +159,18 @@ shoot |
 | bip_39_word_space_7 | barely pistol empty ticket equal crystal wait |  
 | bip_39_word_space_8 | barely pistol empty ticket equal crystal wait cash |  
 | bip_39_word_space_9 | barely pistol empty ticket equal crystal wait cash shoot |  
+| bip_39_word_underscore_1 | barely |  
+| bip_39_word_underscore_10 | barely_pistol_empty_ticket_equal_crystal_wait_cash_shoot_member |  
+| bip_39_word_underscore_11 | barely_pistol_empty_ticket_equal_crystal_wait_cash_shoot_member_rent |  
+| bip_39_word_underscore_12 | barely_pistol_empty_ticket_equal_crystal_wait_cash_shoot_member_rent_arch |  
+| bip_39_word_underscore_2 | barely_pistol |  
+| bip_39_word_underscore_3 | barely_pistol_empty |  
+| bip_39_word_underscore_4 | barely_pistol_empty_ticket |  
+| bip_39_word_underscore_5 | barely_pistol_empty_ticket_equal |  
+| bip_39_word_underscore_6 | barely_pistol_empty_ticket_equal_crystal |  
+| bip_39_word_underscore_7 | barely_pistol_empty_ticket_equal_crystal_wait |  
+| bip_39_word_underscore_8 | barely_pistol_empty_ticket_equal_crystal_wait_cash |  
+| bip_39_word_underscore_9 | barely_pistol_empty_ticket_equal_crystal_wait_cash_shoot |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

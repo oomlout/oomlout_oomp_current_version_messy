@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grid
+bip_39_word_dash_10: grid-luxury-neglect-alcohol-pumpkin-anger-nature-artefact-similar-renew
+bip_39_word_dash_11: grid-luxury-neglect-alcohol-pumpkin-anger-nature-artefact-similar-renew-ordinary
+bip_39_word_dash_12: grid-luxury-neglect-alcohol-pumpkin-anger-nature-artefact-similar-renew-ordinary-alter
+bip_39_word_dash_2: grid-luxury
+bip_39_word_dash_3: grid-luxury-neglect
+bip_39_word_dash_4: grid-luxury-neglect-alcohol
+bip_39_word_dash_5: grid-luxury-neglect-alcohol-pumpkin
+bip_39_word_dash_6: grid-luxury-neglect-alcohol-pumpkin-anger
+bip_39_word_dash_7: grid-luxury-neglect-alcohol-pumpkin-anger-nature
+bip_39_word_dash_8: grid-luxury-neglect-alcohol-pumpkin-anger-nature-artefact
+bip_39_word_dash_9: grid-luxury-neglect-alcohol-pumpkin-anger-nature-artefact-similar
 bip_39_word_new_br_1: grid
 bip_39_word_new_br_10: grid<br>luxury<br>neglect<br>alcohol<br>pumpkin<br>anger<br>nature<br>artefact<br>similar<br>renew
 bip_39_word_new_br_11: grid<br>luxury<br>neglect<br>alcohol<br>pumpkin<br>anger<br>nature<br>artefact<br>similar<br>renew<br>ordinary
@@ -194,6 +206,18 @@ bip_39_word_space_6: grid luxury neglect alcohol pumpkin anger
 bip_39_word_space_7: grid luxury neglect alcohol pumpkin anger nature
 bip_39_word_space_8: grid luxury neglect alcohol pumpkin anger nature artefact
 bip_39_word_space_9: grid luxury neglect alcohol pumpkin anger nature artefact similar
+bip_39_word_underscore_1: grid
+bip_39_word_underscore_10: grid_luxury_neglect_alcohol_pumpkin_anger_nature_artefact_similar_renew
+bip_39_word_underscore_11: grid_luxury_neglect_alcohol_pumpkin_anger_nature_artefact_similar_renew_ordinary
+bip_39_word_underscore_12: grid_luxury_neglect_alcohol_pumpkin_anger_nature_artefact_similar_renew_ordinary_alter
+bip_39_word_underscore_2: grid_luxury
+bip_39_word_underscore_3: grid_luxury_neglect
+bip_39_word_underscore_4: grid_luxury_neglect_alcohol
+bip_39_word_underscore_5: grid_luxury_neglect_alcohol_pumpkin
+bip_39_word_underscore_6: grid_luxury_neglect_alcohol_pumpkin_anger
+bip_39_word_underscore_7: grid_luxury_neglect_alcohol_pumpkin_anger_nature
+bip_39_word_underscore_8: grid_luxury_neglect_alcohol_pumpkin_anger_nature_artefact
+bip_39_word_underscore_9: grid_luxury_neglect_alcohol_pumpkin_anger_nature_artefact_similar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fit |  
+| bip_39_word_dash_10 | fit-raw-myself-shrug-snap-blur-brass-enough-magnet-hurry |  
+| bip_39_word_dash_11 | fit-raw-myself-shrug-snap-blur-brass-enough-magnet-hurry-wash |  
+| bip_39_word_dash_12 | fit-raw-myself-shrug-snap-blur-brass-enough-magnet-hurry-wash-asset |  
+| bip_39_word_dash_2 | fit-raw |  
+| bip_39_word_dash_3 | fit-raw-myself |  
+| bip_39_word_dash_4 | fit-raw-myself-shrug |  
+| bip_39_word_dash_5 | fit-raw-myself-shrug-snap |  
+| bip_39_word_dash_6 | fit-raw-myself-shrug-snap-blur |  
+| bip_39_word_dash_7 | fit-raw-myself-shrug-snap-blur-brass |  
+| bip_39_word_dash_8 | fit-raw-myself-shrug-snap-blur-brass-enough |  
+| bip_39_word_dash_9 | fit-raw-myself-shrug-snap-blur-brass-enough-magnet |  
 | bip_39_word_new_br_1 | fit |  
 | bip_39_word_new_br_10 | fit<br>raw<br>myself<br>shrug<br>snap<br>blur<br>brass<br>enough<br>magnet<br>hurry |  
 | bip_39_word_new_br_11 | fit<br>raw<br>myself<br>shrug<br>snap<br>blur<br>brass<br>enough<br>magnet<br>hurry<br>wash |  
@@ -147,6 +159,18 @@ magnet |
 | bip_39_word_space_7 | fit raw myself shrug snap blur brass |  
 | bip_39_word_space_8 | fit raw myself shrug snap blur brass enough |  
 | bip_39_word_space_9 | fit raw myself shrug snap blur brass enough magnet |  
+| bip_39_word_underscore_1 | fit |  
+| bip_39_word_underscore_10 | fit_raw_myself_shrug_snap_blur_brass_enough_magnet_hurry |  
+| bip_39_word_underscore_11 | fit_raw_myself_shrug_snap_blur_brass_enough_magnet_hurry_wash |  
+| bip_39_word_underscore_12 | fit_raw_myself_shrug_snap_blur_brass_enough_magnet_hurry_wash_asset |  
+| bip_39_word_underscore_2 | fit_raw |  
+| bip_39_word_underscore_3 | fit_raw_myself |  
+| bip_39_word_underscore_4 | fit_raw_myself_shrug |  
+| bip_39_word_underscore_5 | fit_raw_myself_shrug_snap |  
+| bip_39_word_underscore_6 | fit_raw_myself_shrug_snap_blur |  
+| bip_39_word_underscore_7 | fit_raw_myself_shrug_snap_blur_brass |  
+| bip_39_word_underscore_8 | fit_raw_myself_shrug_snap_blur_brass_enough |  
+| bip_39_word_underscore_9 | fit_raw_myself_shrug_snap_blur_brass_enough_magnet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

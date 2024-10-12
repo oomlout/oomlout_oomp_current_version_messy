@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cluster
+bip_39_word_dash_10: cluster-luggage-dirt-fee-upon-alcohol-verb-drill-surround-hospital
+bip_39_word_dash_11: cluster-luggage-dirt-fee-upon-alcohol-verb-drill-surround-hospital-agent
+bip_39_word_dash_12: cluster-luggage-dirt-fee-upon-alcohol-verb-drill-surround-hospital-agent-album
+bip_39_word_dash_2: cluster-luggage
+bip_39_word_dash_3: cluster-luggage-dirt
+bip_39_word_dash_4: cluster-luggage-dirt-fee
+bip_39_word_dash_5: cluster-luggage-dirt-fee-upon
+bip_39_word_dash_6: cluster-luggage-dirt-fee-upon-alcohol
+bip_39_word_dash_7: cluster-luggage-dirt-fee-upon-alcohol-verb
+bip_39_word_dash_8: cluster-luggage-dirt-fee-upon-alcohol-verb-drill
+bip_39_word_dash_9: cluster-luggage-dirt-fee-upon-alcohol-verb-drill-surround
 bip_39_word_new_br_1: cluster
 bip_39_word_new_br_10: cluster<br>luggage<br>dirt<br>fee<br>upon<br>alcohol<br>verb<br>drill<br>surround<br>hospital
 bip_39_word_new_br_11: cluster<br>luggage<br>dirt<br>fee<br>upon<br>alcohol<br>verb<br>drill<br>surround<br>hospital<br>agent
@@ -193,6 +205,18 @@ bip_39_word_space_6: cluster luggage dirt fee upon alcohol
 bip_39_word_space_7: cluster luggage dirt fee upon alcohol verb
 bip_39_word_space_8: cluster luggage dirt fee upon alcohol verb drill
 bip_39_word_space_9: cluster luggage dirt fee upon alcohol verb drill surround
+bip_39_word_underscore_1: cluster
+bip_39_word_underscore_10: cluster_luggage_dirt_fee_upon_alcohol_verb_drill_surround_hospital
+bip_39_word_underscore_11: cluster_luggage_dirt_fee_upon_alcohol_verb_drill_surround_hospital_agent
+bip_39_word_underscore_12: cluster_luggage_dirt_fee_upon_alcohol_verb_drill_surround_hospital_agent_album
+bip_39_word_underscore_2: cluster_luggage
+bip_39_word_underscore_3: cluster_luggage_dirt
+bip_39_word_underscore_4: cluster_luggage_dirt_fee
+bip_39_word_underscore_5: cluster_luggage_dirt_fee_upon
+bip_39_word_underscore_6: cluster_luggage_dirt_fee_upon_alcohol
+bip_39_word_underscore_7: cluster_luggage_dirt_fee_upon_alcohol_verb
+bip_39_word_underscore_8: cluster_luggage_dirt_fee_upon_alcohol_verb_drill
+bip_39_word_underscore_9: cluster_luggage_dirt_fee_upon_alcohol_verb_drill_surround
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

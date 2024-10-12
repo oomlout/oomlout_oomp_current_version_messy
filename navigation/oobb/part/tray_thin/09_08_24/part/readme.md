@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | play |  
+| bip_39_word_dash_10 | play-hero-sand-demand-fee-mass-trade-flush-leisure-nest |  
+| bip_39_word_dash_11 | play-hero-sand-demand-fee-mass-trade-flush-leisure-nest-stumble |  
+| bip_39_word_dash_12 | play-hero-sand-demand-fee-mass-trade-flush-leisure-nest-stumble-ancient |  
+| bip_39_word_dash_2 | play-hero |  
+| bip_39_word_dash_3 | play-hero-sand |  
+| bip_39_word_dash_4 | play-hero-sand-demand |  
+| bip_39_word_dash_5 | play-hero-sand-demand-fee |  
+| bip_39_word_dash_6 | play-hero-sand-demand-fee-mass |  
+| bip_39_word_dash_7 | play-hero-sand-demand-fee-mass-trade |  
+| bip_39_word_dash_8 | play-hero-sand-demand-fee-mass-trade-flush |  
+| bip_39_word_dash_9 | play-hero-sand-demand-fee-mass-trade-flush-leisure |  
 | bip_39_word_new_br_1 | play |  
 | bip_39_word_new_br_10 | play<br>hero<br>sand<br>demand<br>fee<br>mass<br>trade<br>flush<br>leisure<br>nest |  
 | bip_39_word_new_br_11 | play<br>hero<br>sand<br>demand<br>fee<br>mass<br>trade<br>flush<br>leisure<br>nest<br>stumble |  
@@ -147,6 +159,18 @@ leisure |
 | bip_39_word_space_7 | play hero sand demand fee mass trade |  
 | bip_39_word_space_8 | play hero sand demand fee mass trade flush |  
 | bip_39_word_space_9 | play hero sand demand fee mass trade flush leisure |  
+| bip_39_word_underscore_1 | play |  
+| bip_39_word_underscore_10 | play_hero_sand_demand_fee_mass_trade_flush_leisure_nest |  
+| bip_39_word_underscore_11 | play_hero_sand_demand_fee_mass_trade_flush_leisure_nest_stumble |  
+| bip_39_word_underscore_12 | play_hero_sand_demand_fee_mass_trade_flush_leisure_nest_stumble_ancient |  
+| bip_39_word_underscore_2 | play_hero |  
+| bip_39_word_underscore_3 | play_hero_sand |  
+| bip_39_word_underscore_4 | play_hero_sand_demand |  
+| bip_39_word_underscore_5 | play_hero_sand_demand_fee |  
+| bip_39_word_underscore_6 | play_hero_sand_demand_fee_mass |  
+| bip_39_word_underscore_7 | play_hero_sand_demand_fee_mass_trade |  
+| bip_39_word_underscore_8 | play_hero_sand_demand_fee_mass_trade_flush |  
+| bip_39_word_underscore_9 | play_hero_sand_demand_fee_mass_trade_flush_leisure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

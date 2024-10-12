@@ -1,3 +1,15 @@
+bip_39_word_dash_1: business
+bip_39_word_dash_10: business-medal-curtain-shrug-catch-air-sleep-nephew-marine-awful
+bip_39_word_dash_11: business-medal-curtain-shrug-catch-air-sleep-nephew-marine-awful-gospel
+bip_39_word_dash_12: business-medal-curtain-shrug-catch-air-sleep-nephew-marine-awful-gospel-august
+bip_39_word_dash_2: business-medal
+bip_39_word_dash_3: business-medal-curtain
+bip_39_word_dash_4: business-medal-curtain-shrug
+bip_39_word_dash_5: business-medal-curtain-shrug-catch
+bip_39_word_dash_6: business-medal-curtain-shrug-catch-air
+bip_39_word_dash_7: business-medal-curtain-shrug-catch-air-sleep
+bip_39_word_dash_8: business-medal-curtain-shrug-catch-air-sleep-nephew
+bip_39_word_dash_9: business-medal-curtain-shrug-catch-air-sleep-nephew-marine
 bip_39_word_new_br_1: business
 bip_39_word_new_br_10: business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful
 bip_39_word_new_br_11: business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful<br>gospel
@@ -193,6 +205,18 @@ bip_39_word_space_6: business medal curtain shrug catch air
 bip_39_word_space_7: business medal curtain shrug catch air sleep
 bip_39_word_space_8: business medal curtain shrug catch air sleep nephew
 bip_39_word_space_9: business medal curtain shrug catch air sleep nephew marine
+bip_39_word_underscore_1: business
+bip_39_word_underscore_10: business_medal_curtain_shrug_catch_air_sleep_nephew_marine_awful
+bip_39_word_underscore_11: business_medal_curtain_shrug_catch_air_sleep_nephew_marine_awful_gospel
+bip_39_word_underscore_12: business_medal_curtain_shrug_catch_air_sleep_nephew_marine_awful_gospel_august
+bip_39_word_underscore_2: business_medal
+bip_39_word_underscore_3: business_medal_curtain
+bip_39_word_underscore_4: business_medal_curtain_shrug
+bip_39_word_underscore_5: business_medal_curtain_shrug_catch
+bip_39_word_underscore_6: business_medal_curtain_shrug_catch_air
+bip_39_word_underscore_7: business_medal_curtain_shrug_catch_air_sleep
+bip_39_word_underscore_8: business_medal_curtain_shrug_catch_air_sleep_nephew
+bip_39_word_underscore_9: business_medal_curtain_shrug_catch_air_sleep_nephew_marine
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shadow |  
+| bip_39_word_dash_10 | shadow-lobster-include-public-shield-jealous-vessel-capital-parade-cook |  
+| bip_39_word_dash_11 | shadow-lobster-include-public-shield-jealous-vessel-capital-parade-cook-suffer |  
+| bip_39_word_dash_12 | shadow-lobster-include-public-shield-jealous-vessel-capital-parade-cook-suffer-amazing |  
+| bip_39_word_dash_2 | shadow-lobster |  
+| bip_39_word_dash_3 | shadow-lobster-include |  
+| bip_39_word_dash_4 | shadow-lobster-include-public |  
+| bip_39_word_dash_5 | shadow-lobster-include-public-shield |  
+| bip_39_word_dash_6 | shadow-lobster-include-public-shield-jealous |  
+| bip_39_word_dash_7 | shadow-lobster-include-public-shield-jealous-vessel |  
+| bip_39_word_dash_8 | shadow-lobster-include-public-shield-jealous-vessel-capital |  
+| bip_39_word_dash_9 | shadow-lobster-include-public-shield-jealous-vessel-capital-parade |  
 | bip_39_word_new_br_1 | shadow |  
 | bip_39_word_new_br_10 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital<br>parade<br>cook |  
 | bip_39_word_new_br_11 | shadow<br>lobster<br>include<br>public<br>shield<br>jealous<br>vessel<br>capital<br>parade<br>cook<br>suffer |  
@@ -147,6 +159,18 @@ parade |
 | bip_39_word_space_7 | shadow lobster include public shield jealous vessel |  
 | bip_39_word_space_8 | shadow lobster include public shield jealous vessel capital |  
 | bip_39_word_space_9 | shadow lobster include public shield jealous vessel capital parade |  
+| bip_39_word_underscore_1 | shadow |  
+| bip_39_word_underscore_10 | shadow_lobster_include_public_shield_jealous_vessel_capital_parade_cook |  
+| bip_39_word_underscore_11 | shadow_lobster_include_public_shield_jealous_vessel_capital_parade_cook_suffer |  
+| bip_39_word_underscore_12 | shadow_lobster_include_public_shield_jealous_vessel_capital_parade_cook_suffer_amazing |  
+| bip_39_word_underscore_2 | shadow_lobster |  
+| bip_39_word_underscore_3 | shadow_lobster_include |  
+| bip_39_word_underscore_4 | shadow_lobster_include_public |  
+| bip_39_word_underscore_5 | shadow_lobster_include_public_shield |  
+| bip_39_word_underscore_6 | shadow_lobster_include_public_shield_jealous |  
+| bip_39_word_underscore_7 | shadow_lobster_include_public_shield_jealous_vessel |  
+| bip_39_word_underscore_8 | shadow_lobster_include_public_shield_jealous_vessel_capital |  
+| bip_39_word_underscore_9 | shadow_lobster_include_public_shield_jealous_vessel_capital_parade |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

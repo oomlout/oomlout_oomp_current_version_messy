@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wreck |  
+| bip_39_word_dash_10 | wreck-immense-bronze-inspire-penalty-consider-trap-jar-ethics-crater |  
+| bip_39_word_dash_11 | wreck-immense-bronze-inspire-penalty-consider-trap-jar-ethics-crater-sure |  
+| bip_39_word_dash_12 | wreck-immense-bronze-inspire-penalty-consider-trap-jar-ethics-crater-sure-anchor |  
+| bip_39_word_dash_2 | wreck-immense |  
+| bip_39_word_dash_3 | wreck-immense-bronze |  
+| bip_39_word_dash_4 | wreck-immense-bronze-inspire |  
+| bip_39_word_dash_5 | wreck-immense-bronze-inspire-penalty |  
+| bip_39_word_dash_6 | wreck-immense-bronze-inspire-penalty-consider |  
+| bip_39_word_dash_7 | wreck-immense-bronze-inspire-penalty-consider-trap |  
+| bip_39_word_dash_8 | wreck-immense-bronze-inspire-penalty-consider-trap-jar |  
+| bip_39_word_dash_9 | wreck-immense-bronze-inspire-penalty-consider-trap-jar-ethics |  
 | bip_39_word_new_br_1 | wreck |  
 | bip_39_word_new_br_10 | wreck<br>immense<br>bronze<br>inspire<br>penalty<br>consider<br>trap<br>jar<br>ethics<br>crater |  
 | bip_39_word_new_br_11 | wreck<br>immense<br>bronze<br>inspire<br>penalty<br>consider<br>trap<br>jar<br>ethics<br>crater<br>sure |  
@@ -147,6 +159,18 @@ ethics |
 | bip_39_word_space_7 | wreck immense bronze inspire penalty consider trap |  
 | bip_39_word_space_8 | wreck immense bronze inspire penalty consider trap jar |  
 | bip_39_word_space_9 | wreck immense bronze inspire penalty consider trap jar ethics |  
+| bip_39_word_underscore_1 | wreck |  
+| bip_39_word_underscore_10 | wreck_immense_bronze_inspire_penalty_consider_trap_jar_ethics_crater |  
+| bip_39_word_underscore_11 | wreck_immense_bronze_inspire_penalty_consider_trap_jar_ethics_crater_sure |  
+| bip_39_word_underscore_12 | wreck_immense_bronze_inspire_penalty_consider_trap_jar_ethics_crater_sure_anchor |  
+| bip_39_word_underscore_2 | wreck_immense |  
+| bip_39_word_underscore_3 | wreck_immense_bronze |  
+| bip_39_word_underscore_4 | wreck_immense_bronze_inspire |  
+| bip_39_word_underscore_5 | wreck_immense_bronze_inspire_penalty |  
+| bip_39_word_underscore_6 | wreck_immense_bronze_inspire_penalty_consider |  
+| bip_39_word_underscore_7 | wreck_immense_bronze_inspire_penalty_consider_trap |  
+| bip_39_word_underscore_8 | wreck_immense_bronze_inspire_penalty_consider_trap_jar |  
+| bip_39_word_underscore_9 | wreck_immense_bronze_inspire_penalty_consider_trap_jar_ethics |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

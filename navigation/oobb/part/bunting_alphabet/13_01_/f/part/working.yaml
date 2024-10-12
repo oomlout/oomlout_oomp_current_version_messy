@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bullet
+bip_39_word_dash_10: bullet-primary-squeeze-oil-jeans-walk-pipe-six-leave-agree
+bip_39_word_dash_11: bullet-primary-squeeze-oil-jeans-walk-pipe-six-leave-agree-whale
+bip_39_word_dash_12: bullet-primary-squeeze-oil-jeans-walk-pipe-six-leave-agree-whale-avocado
+bip_39_word_dash_2: bullet-primary
+bip_39_word_dash_3: bullet-primary-squeeze
+bip_39_word_dash_4: bullet-primary-squeeze-oil
+bip_39_word_dash_5: bullet-primary-squeeze-oil-jeans
+bip_39_word_dash_6: bullet-primary-squeeze-oil-jeans-walk
+bip_39_word_dash_7: bullet-primary-squeeze-oil-jeans-walk-pipe
+bip_39_word_dash_8: bullet-primary-squeeze-oil-jeans-walk-pipe-six
+bip_39_word_dash_9: bullet-primary-squeeze-oil-jeans-walk-pipe-six-leave
 bip_39_word_new_br_1: bullet
 bip_39_word_new_br_10: bullet<br>primary<br>squeeze<br>oil<br>jeans<br>walk<br>pipe<br>six<br>leave<br>agree
 bip_39_word_new_br_11: bullet<br>primary<br>squeeze<br>oil<br>jeans<br>walk<br>pipe<br>six<br>leave<br>agree<br>whale
@@ -192,6 +204,18 @@ bip_39_word_space_6: bullet primary squeeze oil jeans walk
 bip_39_word_space_7: bullet primary squeeze oil jeans walk pipe
 bip_39_word_space_8: bullet primary squeeze oil jeans walk pipe six
 bip_39_word_space_9: bullet primary squeeze oil jeans walk pipe six leave
+bip_39_word_underscore_1: bullet
+bip_39_word_underscore_10: bullet_primary_squeeze_oil_jeans_walk_pipe_six_leave_agree
+bip_39_word_underscore_11: bullet_primary_squeeze_oil_jeans_walk_pipe_six_leave_agree_whale
+bip_39_word_underscore_12: bullet_primary_squeeze_oil_jeans_walk_pipe_six_leave_agree_whale_avocado
+bip_39_word_underscore_2: bullet_primary
+bip_39_word_underscore_3: bullet_primary_squeeze
+bip_39_word_underscore_4: bullet_primary_squeeze_oil
+bip_39_word_underscore_5: bullet_primary_squeeze_oil_jeans
+bip_39_word_underscore_6: bullet_primary_squeeze_oil_jeans_walk
+bip_39_word_underscore_7: bullet_primary_squeeze_oil_jeans_walk_pipe
+bip_39_word_underscore_8: bullet_primary_squeeze_oil_jeans_walk_pipe_six
+bip_39_word_underscore_9: bullet_primary_squeeze_oil_jeans_walk_pipe_six_leave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

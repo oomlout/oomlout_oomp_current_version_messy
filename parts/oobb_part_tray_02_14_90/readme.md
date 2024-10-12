@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pull |  
+| bip_39_word_dash_10 | pull-nominee-gesture-spot-impose-city-sentence-sausage-rally-ask |  
+| bip_39_word_dash_11 | pull-nominee-gesture-spot-impose-city-sentence-sausage-rally-ask-hobby |  
+| bip_39_word_dash_12 | pull-nominee-gesture-spot-impose-city-sentence-sausage-rally-ask-hobby-animal |  
+| bip_39_word_dash_2 | pull-nominee |  
+| bip_39_word_dash_3 | pull-nominee-gesture |  
+| bip_39_word_dash_4 | pull-nominee-gesture-spot |  
+| bip_39_word_dash_5 | pull-nominee-gesture-spot-impose |  
+| bip_39_word_dash_6 | pull-nominee-gesture-spot-impose-city |  
+| bip_39_word_dash_7 | pull-nominee-gesture-spot-impose-city-sentence |  
+| bip_39_word_dash_8 | pull-nominee-gesture-spot-impose-city-sentence-sausage |  
+| bip_39_word_dash_9 | pull-nominee-gesture-spot-impose-city-sentence-sausage-rally |  
 | bip_39_word_new_br_1 | pull |  
 | bip_39_word_new_br_10 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask |  
 | bip_39_word_new_br_11 | pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask<br>hobby |  
@@ -147,6 +159,18 @@ rally |
 | bip_39_word_space_7 | pull nominee gesture spot impose city sentence |  
 | bip_39_word_space_8 | pull nominee gesture spot impose city sentence sausage |  
 | bip_39_word_space_9 | pull nominee gesture spot impose city sentence sausage rally |  
+| bip_39_word_underscore_1 | pull |  
+| bip_39_word_underscore_10 | pull_nominee_gesture_spot_impose_city_sentence_sausage_rally_ask |  
+| bip_39_word_underscore_11 | pull_nominee_gesture_spot_impose_city_sentence_sausage_rally_ask_hobby |  
+| bip_39_word_underscore_12 | pull_nominee_gesture_spot_impose_city_sentence_sausage_rally_ask_hobby_animal |  
+| bip_39_word_underscore_2 | pull_nominee |  
+| bip_39_word_underscore_3 | pull_nominee_gesture |  
+| bip_39_word_underscore_4 | pull_nominee_gesture_spot |  
+| bip_39_word_underscore_5 | pull_nominee_gesture_spot_impose |  
+| bip_39_word_underscore_6 | pull_nominee_gesture_spot_impose_city |  
+| bip_39_word_underscore_7 | pull_nominee_gesture_spot_impose_city_sentence |  
+| bip_39_word_underscore_8 | pull_nominee_gesture_spot_impose_city_sentence_sausage |  
+| bip_39_word_underscore_9 | pull_nominee_gesture_spot_impose_city_sentence_sausage_rally |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

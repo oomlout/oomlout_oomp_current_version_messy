@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ribbon
+bip_39_word_dash_10: ribbon-style-apart-void-side-thrive-visual-insect-raw-develop
+bip_39_word_dash_11: ribbon-style-apart-void-side-thrive-visual-insect-raw-develop-pottery
+bip_39_word_dash_12: ribbon-style-apart-void-side-thrive-visual-insect-raw-develop-pottery-among
+bip_39_word_dash_2: ribbon-style
+bip_39_word_dash_3: ribbon-style-apart
+bip_39_word_dash_4: ribbon-style-apart-void
+bip_39_word_dash_5: ribbon-style-apart-void-side
+bip_39_word_dash_6: ribbon-style-apart-void-side-thrive
+bip_39_word_dash_7: ribbon-style-apart-void-side-thrive-visual
+bip_39_word_dash_8: ribbon-style-apart-void-side-thrive-visual-insect
+bip_39_word_dash_9: ribbon-style-apart-void-side-thrive-visual-insect-raw
 bip_39_word_new_br_1: ribbon
 bip_39_word_new_br_10: ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop
 bip_39_word_new_br_11: ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop<br>pottery
@@ -193,6 +205,18 @@ bip_39_word_space_6: ribbon style apart void side thrive
 bip_39_word_space_7: ribbon style apart void side thrive visual
 bip_39_word_space_8: ribbon style apart void side thrive visual insect
 bip_39_word_space_9: ribbon style apart void side thrive visual insect raw
+bip_39_word_underscore_1: ribbon
+bip_39_word_underscore_10: ribbon_style_apart_void_side_thrive_visual_insect_raw_develop
+bip_39_word_underscore_11: ribbon_style_apart_void_side_thrive_visual_insect_raw_develop_pottery
+bip_39_word_underscore_12: ribbon_style_apart_void_side_thrive_visual_insect_raw_develop_pottery_among
+bip_39_word_underscore_2: ribbon_style
+bip_39_word_underscore_3: ribbon_style_apart
+bip_39_word_underscore_4: ribbon_style_apart_void
+bip_39_word_underscore_5: ribbon_style_apart_void_side
+bip_39_word_underscore_6: ribbon_style_apart_void_side_thrive
+bip_39_word_underscore_7: ribbon_style_apart_void_side_thrive_visual
+bip_39_word_underscore_8: ribbon_style_apart_void_side_thrive_visual_insect
+bip_39_word_underscore_9: ribbon_style_apart_void_side_thrive_visual_insect_raw
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

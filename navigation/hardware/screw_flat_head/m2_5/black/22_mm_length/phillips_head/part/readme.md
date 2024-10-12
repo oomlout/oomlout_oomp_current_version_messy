@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diet |  
+| bip_39_word_dash_10 | diet-sun-clown-vanish-rail-tip-crawl-barely-huge-oval |  
+| bip_39_word_dash_11 | diet-sun-clown-vanish-rail-tip-crawl-barely-huge-oval-steel |  
+| bip_39_word_dash_12 | diet-sun-clown-vanish-rail-tip-crawl-barely-huge-oval-steel-assist |  
+| bip_39_word_dash_2 | diet-sun |  
+| bip_39_word_dash_3 | diet-sun-clown |  
+| bip_39_word_dash_4 | diet-sun-clown-vanish |  
+| bip_39_word_dash_5 | diet-sun-clown-vanish-rail |  
+| bip_39_word_dash_6 | diet-sun-clown-vanish-rail-tip |  
+| bip_39_word_dash_7 | diet-sun-clown-vanish-rail-tip-crawl |  
+| bip_39_word_dash_8 | diet-sun-clown-vanish-rail-tip-crawl-barely |  
+| bip_39_word_dash_9 | diet-sun-clown-vanish-rail-tip-crawl-barely-huge |  
 | bip_39_word_new_br_1 | diet |  
 | bip_39_word_new_br_10 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval |  
 | bip_39_word_new_br_11 | diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval<br>steel |  
@@ -147,6 +159,18 @@ huge |
 | bip_39_word_space_7 | diet sun clown vanish rail tip crawl |  
 | bip_39_word_space_8 | diet sun clown vanish rail tip crawl barely |  
 | bip_39_word_space_9 | diet sun clown vanish rail tip crawl barely huge |  
+| bip_39_word_underscore_1 | diet |  
+| bip_39_word_underscore_10 | diet_sun_clown_vanish_rail_tip_crawl_barely_huge_oval |  
+| bip_39_word_underscore_11 | diet_sun_clown_vanish_rail_tip_crawl_barely_huge_oval_steel |  
+| bip_39_word_underscore_12 | diet_sun_clown_vanish_rail_tip_crawl_barely_huge_oval_steel_assist |  
+| bip_39_word_underscore_2 | diet_sun |  
+| bip_39_word_underscore_3 | diet_sun_clown |  
+| bip_39_word_underscore_4 | diet_sun_clown_vanish |  
+| bip_39_word_underscore_5 | diet_sun_clown_vanish_rail |  
+| bip_39_word_underscore_6 | diet_sun_clown_vanish_rail_tip |  
+| bip_39_word_underscore_7 | diet_sun_clown_vanish_rail_tip_crawl |  
+| bip_39_word_underscore_8 | diet_sun_clown_vanish_rail_tip_crawl_barely |  
+| bip_39_word_underscore_9 | diet_sun_clown_vanish_rail_tip_crawl_barely_huge |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

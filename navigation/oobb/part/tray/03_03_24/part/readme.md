@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | caution |  
+| bip_39_word_dash_10 | caution-trash-fog-lady-together-salad-odor-hire-equip-era |  
+| bip_39_word_dash_11 | caution-trash-fog-lady-together-salad-odor-hire-equip-era-dish |  
+| bip_39_word_dash_12 | caution-trash-fog-lady-together-salad-odor-hire-equip-era-dish-ankle |  
+| bip_39_word_dash_2 | caution-trash |  
+| bip_39_word_dash_3 | caution-trash-fog |  
+| bip_39_word_dash_4 | caution-trash-fog-lady |  
+| bip_39_word_dash_5 | caution-trash-fog-lady-together |  
+| bip_39_word_dash_6 | caution-trash-fog-lady-together-salad |  
+| bip_39_word_dash_7 | caution-trash-fog-lady-together-salad-odor |  
+| bip_39_word_dash_8 | caution-trash-fog-lady-together-salad-odor-hire |  
+| bip_39_word_dash_9 | caution-trash-fog-lady-together-salad-odor-hire-equip |  
 | bip_39_word_new_br_1 | caution |  
 | bip_39_word_new_br_10 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era |  
 | bip_39_word_new_br_11 | caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era<br>dish |  
@@ -147,6 +159,18 @@ equip |
 | bip_39_word_space_7 | caution trash fog lady together salad odor |  
 | bip_39_word_space_8 | caution trash fog lady together salad odor hire |  
 | bip_39_word_space_9 | caution trash fog lady together salad odor hire equip |  
+| bip_39_word_underscore_1 | caution |  
+| bip_39_word_underscore_10 | caution_trash_fog_lady_together_salad_odor_hire_equip_era |  
+| bip_39_word_underscore_11 | caution_trash_fog_lady_together_salad_odor_hire_equip_era_dish |  
+| bip_39_word_underscore_12 | caution_trash_fog_lady_together_salad_odor_hire_equip_era_dish_ankle |  
+| bip_39_word_underscore_2 | caution_trash |  
+| bip_39_word_underscore_3 | caution_trash_fog |  
+| bip_39_word_underscore_4 | caution_trash_fog_lady |  
+| bip_39_word_underscore_5 | caution_trash_fog_lady_together |  
+| bip_39_word_underscore_6 | caution_trash_fog_lady_together_salad |  
+| bip_39_word_underscore_7 | caution_trash_fog_lady_together_salad_odor |  
+| bip_39_word_underscore_8 | caution_trash_fog_lady_together_salad_odor_hire |  
+| bip_39_word_underscore_9 | caution_trash_fog_lady_together_salad_odor_hire_equip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

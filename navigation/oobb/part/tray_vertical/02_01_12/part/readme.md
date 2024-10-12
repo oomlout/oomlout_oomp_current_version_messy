@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lamp |  
+| bip_39_word_dash_10 | lamp-breeze-plastic-maze-spatial-shield-crash-ripple-exchange-tissue |  
+| bip_39_word_dash_11 | lamp-breeze-plastic-maze-spatial-shield-crash-ripple-exchange-tissue-cupboard |  
+| bip_39_word_dash_12 | lamp-breeze-plastic-maze-spatial-shield-crash-ripple-exchange-tissue-cupboard-asset |  
+| bip_39_word_dash_2 | lamp-breeze |  
+| bip_39_word_dash_3 | lamp-breeze-plastic |  
+| bip_39_word_dash_4 | lamp-breeze-plastic-maze |  
+| bip_39_word_dash_5 | lamp-breeze-plastic-maze-spatial |  
+| bip_39_word_dash_6 | lamp-breeze-plastic-maze-spatial-shield |  
+| bip_39_word_dash_7 | lamp-breeze-plastic-maze-spatial-shield-crash |  
+| bip_39_word_dash_8 | lamp-breeze-plastic-maze-spatial-shield-crash-ripple |  
+| bip_39_word_dash_9 | lamp-breeze-plastic-maze-spatial-shield-crash-ripple-exchange |  
 | bip_39_word_new_br_1 | lamp |  
 | bip_39_word_new_br_10 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple<br>exchange<br>tissue |  
 | bip_39_word_new_br_11 | lamp<br>breeze<br>plastic<br>maze<br>spatial<br>shield<br>crash<br>ripple<br>exchange<br>tissue<br>cupboard |  
@@ -147,6 +159,18 @@ exchange |
 | bip_39_word_space_7 | lamp breeze plastic maze spatial shield crash |  
 | bip_39_word_space_8 | lamp breeze plastic maze spatial shield crash ripple |  
 | bip_39_word_space_9 | lamp breeze plastic maze spatial shield crash ripple exchange |  
+| bip_39_word_underscore_1 | lamp |  
+| bip_39_word_underscore_10 | lamp_breeze_plastic_maze_spatial_shield_crash_ripple_exchange_tissue |  
+| bip_39_word_underscore_11 | lamp_breeze_plastic_maze_spatial_shield_crash_ripple_exchange_tissue_cupboard |  
+| bip_39_word_underscore_12 | lamp_breeze_plastic_maze_spatial_shield_crash_ripple_exchange_tissue_cupboard_asset |  
+| bip_39_word_underscore_2 | lamp_breeze |  
+| bip_39_word_underscore_3 | lamp_breeze_plastic |  
+| bip_39_word_underscore_4 | lamp_breeze_plastic_maze |  
+| bip_39_word_underscore_5 | lamp_breeze_plastic_maze_spatial |  
+| bip_39_word_underscore_6 | lamp_breeze_plastic_maze_spatial_shield |  
+| bip_39_word_underscore_7 | lamp_breeze_plastic_maze_spatial_shield_crash |  
+| bip_39_word_underscore_8 | lamp_breeze_plastic_maze_spatial_shield_crash_ripple |  
+| bip_39_word_underscore_9 | lamp_breeze_plastic_maze_spatial_shield_crash_ripple_exchange |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

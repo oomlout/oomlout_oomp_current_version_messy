@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rice |  
+| bip_39_word_dash_10 | rice-peasant-account-wire-shock-actual-resist-daring-enrich-someone |  
+| bip_39_word_dash_11 | rice-peasant-account-wire-shock-actual-resist-daring-enrich-someone-mountain |  
+| bip_39_word_dash_12 | rice-peasant-account-wire-shock-actual-resist-daring-enrich-someone-mountain-above |  
+| bip_39_word_dash_2 | rice-peasant |  
+| bip_39_word_dash_3 | rice-peasant-account |  
+| bip_39_word_dash_4 | rice-peasant-account-wire |  
+| bip_39_word_dash_5 | rice-peasant-account-wire-shock |  
+| bip_39_word_dash_6 | rice-peasant-account-wire-shock-actual |  
+| bip_39_word_dash_7 | rice-peasant-account-wire-shock-actual-resist |  
+| bip_39_word_dash_8 | rice-peasant-account-wire-shock-actual-resist-daring |  
+| bip_39_word_dash_9 | rice-peasant-account-wire-shock-actual-resist-daring-enrich |  
 | bip_39_word_new_br_1 | rice |  
 | bip_39_word_new_br_10 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring<br>enrich<br>someone |  
 | bip_39_word_new_br_11 | rice<br>peasant<br>account<br>wire<br>shock<br>actual<br>resist<br>daring<br>enrich<br>someone<br>mountain |  
@@ -147,6 +159,18 @@ enrich |
 | bip_39_word_space_7 | rice peasant account wire shock actual resist |  
 | bip_39_word_space_8 | rice peasant account wire shock actual resist daring |  
 | bip_39_word_space_9 | rice peasant account wire shock actual resist daring enrich |  
+| bip_39_word_underscore_1 | rice |  
+| bip_39_word_underscore_10 | rice_peasant_account_wire_shock_actual_resist_daring_enrich_someone |  
+| bip_39_word_underscore_11 | rice_peasant_account_wire_shock_actual_resist_daring_enrich_someone_mountain |  
+| bip_39_word_underscore_12 | rice_peasant_account_wire_shock_actual_resist_daring_enrich_someone_mountain_above |  
+| bip_39_word_underscore_2 | rice_peasant |  
+| bip_39_word_underscore_3 | rice_peasant_account |  
+| bip_39_word_underscore_4 | rice_peasant_account_wire |  
+| bip_39_word_underscore_5 | rice_peasant_account_wire_shock |  
+| bip_39_word_underscore_6 | rice_peasant_account_wire_shock_actual |  
+| bip_39_word_underscore_7 | rice_peasant_account_wire_shock_actual_resist |  
+| bip_39_word_underscore_8 | rice_peasant_account_wire_shock_actual_resist_daring |  
+| bip_39_word_underscore_9 | rice_peasant_account_wire_shock_actual_resist_daring_enrich |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

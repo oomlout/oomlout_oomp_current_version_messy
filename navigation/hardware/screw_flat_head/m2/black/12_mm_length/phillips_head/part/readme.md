@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reunion |  
+| bip_39_word_dash_10 | reunion-economy-cousin-used-baby-muscle-write-undo-pyramid-mutual |  
+| bip_39_word_dash_11 | reunion-economy-cousin-used-baby-muscle-write-undo-pyramid-mutual-inquiry |  
+| bip_39_word_dash_12 | reunion-economy-cousin-used-baby-muscle-write-undo-pyramid-mutual-inquiry-admit |  
+| bip_39_word_dash_2 | reunion-economy |  
+| bip_39_word_dash_3 | reunion-economy-cousin |  
+| bip_39_word_dash_4 | reunion-economy-cousin-used |  
+| bip_39_word_dash_5 | reunion-economy-cousin-used-baby |  
+| bip_39_word_dash_6 | reunion-economy-cousin-used-baby-muscle |  
+| bip_39_word_dash_7 | reunion-economy-cousin-used-baby-muscle-write |  
+| bip_39_word_dash_8 | reunion-economy-cousin-used-baby-muscle-write-undo |  
+| bip_39_word_dash_9 | reunion-economy-cousin-used-baby-muscle-write-undo-pyramid |  
 | bip_39_word_new_br_1 | reunion |  
 | bip_39_word_new_br_10 | reunion<br>economy<br>cousin<br>used<br>baby<br>muscle<br>write<br>undo<br>pyramid<br>mutual |  
 | bip_39_word_new_br_11 | reunion<br>economy<br>cousin<br>used<br>baby<br>muscle<br>write<br>undo<br>pyramid<br>mutual<br>inquiry |  
@@ -147,6 +159,18 @@ pyramid |
 | bip_39_word_space_7 | reunion economy cousin used baby muscle write |  
 | bip_39_word_space_8 | reunion economy cousin used baby muscle write undo |  
 | bip_39_word_space_9 | reunion economy cousin used baby muscle write undo pyramid |  
+| bip_39_word_underscore_1 | reunion |  
+| bip_39_word_underscore_10 | reunion_economy_cousin_used_baby_muscle_write_undo_pyramid_mutual |  
+| bip_39_word_underscore_11 | reunion_economy_cousin_used_baby_muscle_write_undo_pyramid_mutual_inquiry |  
+| bip_39_word_underscore_12 | reunion_economy_cousin_used_baby_muscle_write_undo_pyramid_mutual_inquiry_admit |  
+| bip_39_word_underscore_2 | reunion_economy |  
+| bip_39_word_underscore_3 | reunion_economy_cousin |  
+| bip_39_word_underscore_4 | reunion_economy_cousin_used |  
+| bip_39_word_underscore_5 | reunion_economy_cousin_used_baby |  
+| bip_39_word_underscore_6 | reunion_economy_cousin_used_baby_muscle |  
+| bip_39_word_underscore_7 | reunion_economy_cousin_used_baby_muscle_write |  
+| bip_39_word_underscore_8 | reunion_economy_cousin_used_baby_muscle_write_undo |  
+| bip_39_word_underscore_9 | reunion_economy_cousin_used_baby_muscle_write_undo_pyramid |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

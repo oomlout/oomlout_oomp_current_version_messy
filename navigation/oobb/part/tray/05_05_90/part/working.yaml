@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spider
+bip_39_word_dash_10: spider-eternal-believe-undo-crime-cabbage-belt-stick-note-glue
+bip_39_word_dash_11: spider-eternal-believe-undo-crime-cabbage-belt-stick-note-glue-middle
+bip_39_word_dash_12: spider-eternal-believe-undo-crime-cabbage-belt-stick-note-glue-middle-attack
+bip_39_word_dash_2: spider-eternal
+bip_39_word_dash_3: spider-eternal-believe
+bip_39_word_dash_4: spider-eternal-believe-undo
+bip_39_word_dash_5: spider-eternal-believe-undo-crime
+bip_39_word_dash_6: spider-eternal-believe-undo-crime-cabbage
+bip_39_word_dash_7: spider-eternal-believe-undo-crime-cabbage-belt
+bip_39_word_dash_8: spider-eternal-believe-undo-crime-cabbage-belt-stick
+bip_39_word_dash_9: spider-eternal-believe-undo-crime-cabbage-belt-stick-note
 bip_39_word_new_br_1: spider
 bip_39_word_new_br_10: spider<br>eternal<br>believe<br>undo<br>crime<br>cabbage<br>belt<br>stick<br>note<br>glue
 bip_39_word_new_br_11: spider<br>eternal<br>believe<br>undo<br>crime<br>cabbage<br>belt<br>stick<br>note<br>glue<br>middle
@@ -193,6 +205,18 @@ bip_39_word_space_6: spider eternal believe undo crime cabbage
 bip_39_word_space_7: spider eternal believe undo crime cabbage belt
 bip_39_word_space_8: spider eternal believe undo crime cabbage belt stick
 bip_39_word_space_9: spider eternal believe undo crime cabbage belt stick note
+bip_39_word_underscore_1: spider
+bip_39_word_underscore_10: spider_eternal_believe_undo_crime_cabbage_belt_stick_note_glue
+bip_39_word_underscore_11: spider_eternal_believe_undo_crime_cabbage_belt_stick_note_glue_middle
+bip_39_word_underscore_12: spider_eternal_believe_undo_crime_cabbage_belt_stick_note_glue_middle_attack
+bip_39_word_underscore_2: spider_eternal
+bip_39_word_underscore_3: spider_eternal_believe
+bip_39_word_underscore_4: spider_eternal_believe_undo
+bip_39_word_underscore_5: spider_eternal_believe_undo_crime
+bip_39_word_underscore_6: spider_eternal_believe_undo_crime_cabbage
+bip_39_word_underscore_7: spider_eternal_believe_undo_crime_cabbage_belt
+bip_39_word_underscore_8: spider_eternal_believe_undo_crime_cabbage_belt_stick
+bip_39_word_underscore_9: spider_eternal_believe_undo_crime_cabbage_belt_stick_note
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

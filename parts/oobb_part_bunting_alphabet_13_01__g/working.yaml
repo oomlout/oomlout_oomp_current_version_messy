@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nice
+bip_39_word_dash_10: nice-popular-agent-must-cause-cage-client-air-method-syrup
+bip_39_word_dash_11: nice-popular-agent-must-cause-cage-client-air-method-syrup-super
+bip_39_word_dash_12: nice-popular-agent-must-cause-cage-client-air-method-syrup-super-august
+bip_39_word_dash_2: nice-popular
+bip_39_word_dash_3: nice-popular-agent
+bip_39_word_dash_4: nice-popular-agent-must
+bip_39_word_dash_5: nice-popular-agent-must-cause
+bip_39_word_dash_6: nice-popular-agent-must-cause-cage
+bip_39_word_dash_7: nice-popular-agent-must-cause-cage-client
+bip_39_word_dash_8: nice-popular-agent-must-cause-cage-client-air
+bip_39_word_dash_9: nice-popular-agent-must-cause-cage-client-air-method
 bip_39_word_new_br_1: nice
 bip_39_word_new_br_10: nice<br>popular<br>agent<br>must<br>cause<br>cage<br>client<br>air<br>method<br>syrup
 bip_39_word_new_br_11: nice<br>popular<br>agent<br>must<br>cause<br>cage<br>client<br>air<br>method<br>syrup<br>super
@@ -192,6 +204,18 @@ bip_39_word_space_6: nice popular agent must cause cage
 bip_39_word_space_7: nice popular agent must cause cage client
 bip_39_word_space_8: nice popular agent must cause cage client air
 bip_39_word_space_9: nice popular agent must cause cage client air method
+bip_39_word_underscore_1: nice
+bip_39_word_underscore_10: nice_popular_agent_must_cause_cage_client_air_method_syrup
+bip_39_word_underscore_11: nice_popular_agent_must_cause_cage_client_air_method_syrup_super
+bip_39_word_underscore_12: nice_popular_agent_must_cause_cage_client_air_method_syrup_super_august
+bip_39_word_underscore_2: nice_popular
+bip_39_word_underscore_3: nice_popular_agent
+bip_39_word_underscore_4: nice_popular_agent_must
+bip_39_word_underscore_5: nice_popular_agent_must_cause
+bip_39_word_underscore_6: nice_popular_agent_must_cause_cage
+bip_39_word_underscore_7: nice_popular_agent_must_cause_cage_client
+bip_39_word_underscore_8: nice_popular_agent_must_cause_cage_client_air
+bip_39_word_underscore_9: nice_popular_agent_must_cause_cage_client_air_method
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

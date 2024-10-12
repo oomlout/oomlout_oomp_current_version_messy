@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | until |  
+| bip_39_word_dash_10 | until-such-belt-leaf-enact-curtain-must-cup-riot-tumble |  
+| bip_39_word_dash_11 | until-such-belt-leaf-enact-curtain-must-cup-riot-tumble-stem |  
+| bip_39_word_dash_12 | until-such-belt-leaf-enact-curtain-must-cup-riot-tumble-stem-animal |  
+| bip_39_word_dash_2 | until-such |  
+| bip_39_word_dash_3 | until-such-belt |  
+| bip_39_word_dash_4 | until-such-belt-leaf |  
+| bip_39_word_dash_5 | until-such-belt-leaf-enact |  
+| bip_39_word_dash_6 | until-such-belt-leaf-enact-curtain |  
+| bip_39_word_dash_7 | until-such-belt-leaf-enact-curtain-must |  
+| bip_39_word_dash_8 | until-such-belt-leaf-enact-curtain-must-cup |  
+| bip_39_word_dash_9 | until-such-belt-leaf-enact-curtain-must-cup-riot |  
 | bip_39_word_new_br_1 | until |  
 | bip_39_word_new_br_10 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble |  
 | bip_39_word_new_br_11 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble<br>stem |  
@@ -147,6 +159,18 @@ riot |
 | bip_39_word_space_7 | until such belt leaf enact curtain must |  
 | bip_39_word_space_8 | until such belt leaf enact curtain must cup |  
 | bip_39_word_space_9 | until such belt leaf enact curtain must cup riot |  
+| bip_39_word_underscore_1 | until |  
+| bip_39_word_underscore_10 | until_such_belt_leaf_enact_curtain_must_cup_riot_tumble |  
+| bip_39_word_underscore_11 | until_such_belt_leaf_enact_curtain_must_cup_riot_tumble_stem |  
+| bip_39_word_underscore_12 | until_such_belt_leaf_enact_curtain_must_cup_riot_tumble_stem_animal |  
+| bip_39_word_underscore_2 | until_such |  
+| bip_39_word_underscore_3 | until_such_belt |  
+| bip_39_word_underscore_4 | until_such_belt_leaf |  
+| bip_39_word_underscore_5 | until_such_belt_leaf_enact |  
+| bip_39_word_underscore_6 | until_such_belt_leaf_enact_curtain |  
+| bip_39_word_underscore_7 | until_such_belt_leaf_enact_curtain_must |  
+| bip_39_word_underscore_8 | until_such_belt_leaf_enact_curtain_must_cup |  
+| bip_39_word_underscore_9 | until_such_belt_leaf_enact_curtain_must_cup_riot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

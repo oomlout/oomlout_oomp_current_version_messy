@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vintage |  
+| bip_39_word_dash_10 | vintage-mother-friend-advance-idle-leg-grocery-drift-elephant-climb |  
+| bip_39_word_dash_11 | vintage-mother-friend-advance-idle-leg-grocery-drift-elephant-climb-unaware |  
+| bip_39_word_dash_12 | vintage-mother-friend-advance-idle-leg-grocery-drift-elephant-climb-unaware-arctic |  
+| bip_39_word_dash_2 | vintage-mother |  
+| bip_39_word_dash_3 | vintage-mother-friend |  
+| bip_39_word_dash_4 | vintage-mother-friend-advance |  
+| bip_39_word_dash_5 | vintage-mother-friend-advance-idle |  
+| bip_39_word_dash_6 | vintage-mother-friend-advance-idle-leg |  
+| bip_39_word_dash_7 | vintage-mother-friend-advance-idle-leg-grocery |  
+| bip_39_word_dash_8 | vintage-mother-friend-advance-idle-leg-grocery-drift |  
+| bip_39_word_dash_9 | vintage-mother-friend-advance-idle-leg-grocery-drift-elephant |  
 | bip_39_word_new_br_1 | vintage |  
 | bip_39_word_new_br_10 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb |  
 | bip_39_word_new_br_11 | vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb<br>unaware |  
@@ -147,6 +159,18 @@ elephant |
 | bip_39_word_space_7 | vintage mother friend advance idle leg grocery |  
 | bip_39_word_space_8 | vintage mother friend advance idle leg grocery drift |  
 | bip_39_word_space_9 | vintage mother friend advance idle leg grocery drift elephant |  
+| bip_39_word_underscore_1 | vintage |  
+| bip_39_word_underscore_10 | vintage_mother_friend_advance_idle_leg_grocery_drift_elephant_climb |  
+| bip_39_word_underscore_11 | vintage_mother_friend_advance_idle_leg_grocery_drift_elephant_climb_unaware |  
+| bip_39_word_underscore_12 | vintage_mother_friend_advance_idle_leg_grocery_drift_elephant_climb_unaware_arctic |  
+| bip_39_word_underscore_2 | vintage_mother |  
+| bip_39_word_underscore_3 | vintage_mother_friend |  
+| bip_39_word_underscore_4 | vintage_mother_friend_advance |  
+| bip_39_word_underscore_5 | vintage_mother_friend_advance_idle |  
+| bip_39_word_underscore_6 | vintage_mother_friend_advance_idle_leg |  
+| bip_39_word_underscore_7 | vintage_mother_friend_advance_idle_leg_grocery |  
+| bip_39_word_underscore_8 | vintage_mother_friend_advance_idle_leg_grocery_drift |  
+| bip_39_word_underscore_9 | vintage_mother_friend_advance_idle_leg_grocery_drift_elephant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

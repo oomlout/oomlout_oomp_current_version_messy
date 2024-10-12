@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tomorrow |  
+| bip_39_word_dash_10 | tomorrow-boy-whip-merit-unhappy-volcano-sadness-problem-right-crane |  
+| bip_39_word_dash_11 | tomorrow-boy-whip-merit-unhappy-volcano-sadness-problem-right-crane-lake |  
+| bip_39_word_dash_12 | tomorrow-boy-whip-merit-unhappy-volcano-sadness-problem-right-crane-lake-assault |  
+| bip_39_word_dash_2 | tomorrow-boy |  
+| bip_39_word_dash_3 | tomorrow-boy-whip |  
+| bip_39_word_dash_4 | tomorrow-boy-whip-merit |  
+| bip_39_word_dash_5 | tomorrow-boy-whip-merit-unhappy |  
+| bip_39_word_dash_6 | tomorrow-boy-whip-merit-unhappy-volcano |  
+| bip_39_word_dash_7 | tomorrow-boy-whip-merit-unhappy-volcano-sadness |  
+| bip_39_word_dash_8 | tomorrow-boy-whip-merit-unhappy-volcano-sadness-problem |  
+| bip_39_word_dash_9 | tomorrow-boy-whip-merit-unhappy-volcano-sadness-problem-right |  
 | bip_39_word_new_br_1 | tomorrow |  
 | bip_39_word_new_br_10 | tomorrow<br>boy<br>whip<br>merit<br>unhappy<br>volcano<br>sadness<br>problem<br>right<br>crane |  
 | bip_39_word_new_br_11 | tomorrow<br>boy<br>whip<br>merit<br>unhappy<br>volcano<br>sadness<br>problem<br>right<br>crane<br>lake |  
@@ -147,6 +159,18 @@ right |
 | bip_39_word_space_7 | tomorrow boy whip merit unhappy volcano sadness |  
 | bip_39_word_space_8 | tomorrow boy whip merit unhappy volcano sadness problem |  
 | bip_39_word_space_9 | tomorrow boy whip merit unhappy volcano sadness problem right |  
+| bip_39_word_underscore_1 | tomorrow |  
+| bip_39_word_underscore_10 | tomorrow_boy_whip_merit_unhappy_volcano_sadness_problem_right_crane |  
+| bip_39_word_underscore_11 | tomorrow_boy_whip_merit_unhappy_volcano_sadness_problem_right_crane_lake |  
+| bip_39_word_underscore_12 | tomorrow_boy_whip_merit_unhappy_volcano_sadness_problem_right_crane_lake_assault |  
+| bip_39_word_underscore_2 | tomorrow_boy |  
+| bip_39_word_underscore_3 | tomorrow_boy_whip |  
+| bip_39_word_underscore_4 | tomorrow_boy_whip_merit |  
+| bip_39_word_underscore_5 | tomorrow_boy_whip_merit_unhappy |  
+| bip_39_word_underscore_6 | tomorrow_boy_whip_merit_unhappy_volcano |  
+| bip_39_word_underscore_7 | tomorrow_boy_whip_merit_unhappy_volcano_sadness |  
+| bip_39_word_underscore_8 | tomorrow_boy_whip_merit_unhappy_volcano_sadness_problem |  
+| bip_39_word_underscore_9 | tomorrow_boy_whip_merit_unhappy_volcano_sadness_problem_right |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

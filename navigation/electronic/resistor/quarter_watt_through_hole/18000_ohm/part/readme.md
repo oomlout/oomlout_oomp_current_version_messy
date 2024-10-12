@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unable |  
+| bip_39_word_dash_10 | unable-vessel-tomato-action-woman-breeze-upgrade-tissue-lumber-say |  
+| bip_39_word_dash_11 | unable-vessel-tomato-action-woman-breeze-upgrade-tissue-lumber-say-worry |  
+| bip_39_word_dash_12 | unable-vessel-tomato-action-woman-breeze-upgrade-tissue-lumber-say-worry-affair |  
+| bip_39_word_dash_2 | unable-vessel |  
+| bip_39_word_dash_3 | unable-vessel-tomato |  
+| bip_39_word_dash_4 | unable-vessel-tomato-action |  
+| bip_39_word_dash_5 | unable-vessel-tomato-action-woman |  
+| bip_39_word_dash_6 | unable-vessel-tomato-action-woman-breeze |  
+| bip_39_word_dash_7 | unable-vessel-tomato-action-woman-breeze-upgrade |  
+| bip_39_word_dash_8 | unable-vessel-tomato-action-woman-breeze-upgrade-tissue |  
+| bip_39_word_dash_9 | unable-vessel-tomato-action-woman-breeze-upgrade-tissue-lumber |  
 | bip_39_word_new_br_1 | unable |  
 | bip_39_word_new_br_10 | unable<br>vessel<br>tomato<br>action<br>woman<br>breeze<br>upgrade<br>tissue<br>lumber<br>say |  
 | bip_39_word_new_br_11 | unable<br>vessel<br>tomato<br>action<br>woman<br>breeze<br>upgrade<br>tissue<br>lumber<br>say<br>worry |  
@@ -147,6 +159,18 @@ lumber |
 | bip_39_word_space_7 | unable vessel tomato action woman breeze upgrade |  
 | bip_39_word_space_8 | unable vessel tomato action woman breeze upgrade tissue |  
 | bip_39_word_space_9 | unable vessel tomato action woman breeze upgrade tissue lumber |  
+| bip_39_word_underscore_1 | unable |  
+| bip_39_word_underscore_10 | unable_vessel_tomato_action_woman_breeze_upgrade_tissue_lumber_say |  
+| bip_39_word_underscore_11 | unable_vessel_tomato_action_woman_breeze_upgrade_tissue_lumber_say_worry |  
+| bip_39_word_underscore_12 | unable_vessel_tomato_action_woman_breeze_upgrade_tissue_lumber_say_worry_affair |  
+| bip_39_word_underscore_2 | unable_vessel |  
+| bip_39_word_underscore_3 | unable_vessel_tomato |  
+| bip_39_word_underscore_4 | unable_vessel_tomato_action |  
+| bip_39_word_underscore_5 | unable_vessel_tomato_action_woman |  
+| bip_39_word_underscore_6 | unable_vessel_tomato_action_woman_breeze |  
+| bip_39_word_underscore_7 | unable_vessel_tomato_action_woman_breeze_upgrade |  
+| bip_39_word_underscore_8 | unable_vessel_tomato_action_woman_breeze_upgrade_tissue |  
+| bip_39_word_underscore_9 | unable_vessel_tomato_action_woman_breeze_upgrade_tissue_lumber |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

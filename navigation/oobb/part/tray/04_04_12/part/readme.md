@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | van |  
+| bip_39_word_dash_10 | van-dice-nothing-design-road-buyer-alley-lemon-chief-amazing |  
+| bip_39_word_dash_11 | van-dice-nothing-design-road-buyer-alley-lemon-chief-amazing-such |  
+| bip_39_word_dash_12 | van-dice-nothing-design-road-buyer-alley-lemon-chief-amazing-such-alter |  
+| bip_39_word_dash_2 | van-dice |  
+| bip_39_word_dash_3 | van-dice-nothing |  
+| bip_39_word_dash_4 | van-dice-nothing-design |  
+| bip_39_word_dash_5 | van-dice-nothing-design-road |  
+| bip_39_word_dash_6 | van-dice-nothing-design-road-buyer |  
+| bip_39_word_dash_7 | van-dice-nothing-design-road-buyer-alley |  
+| bip_39_word_dash_8 | van-dice-nothing-design-road-buyer-alley-lemon |  
+| bip_39_word_dash_9 | van-dice-nothing-design-road-buyer-alley-lemon-chief |  
 | bip_39_word_new_br_1 | van |  
 | bip_39_word_new_br_10 | van<br>dice<br>nothing<br>design<br>road<br>buyer<br>alley<br>lemon<br>chief<br>amazing |  
 | bip_39_word_new_br_11 | van<br>dice<br>nothing<br>design<br>road<br>buyer<br>alley<br>lemon<br>chief<br>amazing<br>such |  
@@ -147,6 +159,18 @@ chief |
 | bip_39_word_space_7 | van dice nothing design road buyer alley |  
 | bip_39_word_space_8 | van dice nothing design road buyer alley lemon |  
 | bip_39_word_space_9 | van dice nothing design road buyer alley lemon chief |  
+| bip_39_word_underscore_1 | van |  
+| bip_39_word_underscore_10 | van_dice_nothing_design_road_buyer_alley_lemon_chief_amazing |  
+| bip_39_word_underscore_11 | van_dice_nothing_design_road_buyer_alley_lemon_chief_amazing_such |  
+| bip_39_word_underscore_12 | van_dice_nothing_design_road_buyer_alley_lemon_chief_amazing_such_alter |  
+| bip_39_word_underscore_2 | van_dice |  
+| bip_39_word_underscore_3 | van_dice_nothing |  
+| bip_39_word_underscore_4 | van_dice_nothing_design |  
+| bip_39_word_underscore_5 | van_dice_nothing_design_road |  
+| bip_39_word_underscore_6 | van_dice_nothing_design_road_buyer |  
+| bip_39_word_underscore_7 | van_dice_nothing_design_road_buyer_alley |  
+| bip_39_word_underscore_8 | van_dice_nothing_design_road_buyer_alley_lemon |  
+| bip_39_word_underscore_9 | van_dice_nothing_design_road_buyer_alley_lemon_chief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

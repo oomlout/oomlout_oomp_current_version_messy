@@ -1,3 +1,15 @@
+bip_39_word_dash_1: upon
+bip_39_word_dash_10: upon-bottom-icon-flip-skate-double-mansion-flag-animal-icon
+bip_39_word_dash_11: upon-bottom-icon-flip-skate-double-mansion-flag-animal-icon-deputy
+bip_39_word_dash_12: upon-bottom-icon-flip-skate-double-mansion-flag-animal-icon-deputy-announce
+bip_39_word_dash_2: upon-bottom
+bip_39_word_dash_3: upon-bottom-icon
+bip_39_word_dash_4: upon-bottom-icon-flip
+bip_39_word_dash_5: upon-bottom-icon-flip-skate
+bip_39_word_dash_6: upon-bottom-icon-flip-skate-double
+bip_39_word_dash_7: upon-bottom-icon-flip-skate-double-mansion
+bip_39_word_dash_8: upon-bottom-icon-flip-skate-double-mansion-flag
+bip_39_word_dash_9: upon-bottom-icon-flip-skate-double-mansion-flag-animal
 bip_39_word_new_br_1: upon
 bip_39_word_new_br_10: upon<br>bottom<br>icon<br>flip<br>skate<br>double<br>mansion<br>flag<br>animal<br>icon
 bip_39_word_new_br_11: upon<br>bottom<br>icon<br>flip<br>skate<br>double<br>mansion<br>flag<br>animal<br>icon<br>deputy
@@ -193,6 +205,18 @@ bip_39_word_space_6: upon bottom icon flip skate double
 bip_39_word_space_7: upon bottom icon flip skate double mansion
 bip_39_word_space_8: upon bottom icon flip skate double mansion flag
 bip_39_word_space_9: upon bottom icon flip skate double mansion flag animal
+bip_39_word_underscore_1: upon
+bip_39_word_underscore_10: upon_bottom_icon_flip_skate_double_mansion_flag_animal_icon
+bip_39_word_underscore_11: upon_bottom_icon_flip_skate_double_mansion_flag_animal_icon_deputy
+bip_39_word_underscore_12: upon_bottom_icon_flip_skate_double_mansion_flag_animal_icon_deputy_announce
+bip_39_word_underscore_2: upon_bottom
+bip_39_word_underscore_3: upon_bottom_icon
+bip_39_word_underscore_4: upon_bottom_icon_flip
+bip_39_word_underscore_5: upon_bottom_icon_flip_skate
+bip_39_word_underscore_6: upon_bottom_icon_flip_skate_double
+bip_39_word_underscore_7: upon_bottom_icon_flip_skate_double_mansion
+bip_39_word_underscore_8: upon_bottom_icon_flip_skate_double_mansion_flag
+bip_39_word_underscore_9: upon_bottom_icon_flip_skate_double_mansion_flag_animal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

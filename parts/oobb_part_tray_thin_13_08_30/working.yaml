@@ -1,3 +1,15 @@
+bip_39_word_dash_1: twice
+bip_39_word_dash_10: twice-trash-oval-orbit-scissors-room-evolve-body-axis-hour
+bip_39_word_dash_11: twice-trash-oval-orbit-scissors-room-evolve-body-axis-hour-cost
+bip_39_word_dash_12: twice-trash-oval-orbit-scissors-room-evolve-body-axis-hour-cost-alley
+bip_39_word_dash_2: twice-trash
+bip_39_word_dash_3: twice-trash-oval
+bip_39_word_dash_4: twice-trash-oval-orbit
+bip_39_word_dash_5: twice-trash-oval-orbit-scissors
+bip_39_word_dash_6: twice-trash-oval-orbit-scissors-room
+bip_39_word_dash_7: twice-trash-oval-orbit-scissors-room-evolve
+bip_39_word_dash_8: twice-trash-oval-orbit-scissors-room-evolve-body
+bip_39_word_dash_9: twice-trash-oval-orbit-scissors-room-evolve-body-axis
 bip_39_word_new_br_1: twice
 bip_39_word_new_br_10: twice<br>trash<br>oval<br>orbit<br>scissors<br>room<br>evolve<br>body<br>axis<br>hour
 bip_39_word_new_br_11: twice<br>trash<br>oval<br>orbit<br>scissors<br>room<br>evolve<br>body<br>axis<br>hour<br>cost
@@ -192,6 +204,18 @@ bip_39_word_space_6: twice trash oval orbit scissors room
 bip_39_word_space_7: twice trash oval orbit scissors room evolve
 bip_39_word_space_8: twice trash oval orbit scissors room evolve body
 bip_39_word_space_9: twice trash oval orbit scissors room evolve body axis
+bip_39_word_underscore_1: twice
+bip_39_word_underscore_10: twice_trash_oval_orbit_scissors_room_evolve_body_axis_hour
+bip_39_word_underscore_11: twice_trash_oval_orbit_scissors_room_evolve_body_axis_hour_cost
+bip_39_word_underscore_12: twice_trash_oval_orbit_scissors_room_evolve_body_axis_hour_cost_alley
+bip_39_word_underscore_2: twice_trash
+bip_39_word_underscore_3: twice_trash_oval
+bip_39_word_underscore_4: twice_trash_oval_orbit
+bip_39_word_underscore_5: twice_trash_oval_orbit_scissors
+bip_39_word_underscore_6: twice_trash_oval_orbit_scissors_room
+bip_39_word_underscore_7: twice_trash_oval_orbit_scissors_room_evolve
+bip_39_word_underscore_8: twice_trash_oval_orbit_scissors_room_evolve_body
+bip_39_word_underscore_9: twice_trash_oval_orbit_scissors_room_evolve_body_axis
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

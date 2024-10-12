@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | real |  
+| bip_39_word_dash_10 | real-energy-glad-large-never-prevent-february-elephant-turkey-street |  
+| bip_39_word_dash_11 | real-energy-glad-large-never-prevent-february-elephant-turkey-street-kid |  
+| bip_39_word_dash_12 | real-energy-glad-large-never-prevent-february-elephant-turkey-street-kid-auto |  
+| bip_39_word_dash_2 | real-energy |  
+| bip_39_word_dash_3 | real-energy-glad |  
+| bip_39_word_dash_4 | real-energy-glad-large |  
+| bip_39_word_dash_5 | real-energy-glad-large-never |  
+| bip_39_word_dash_6 | real-energy-glad-large-never-prevent |  
+| bip_39_word_dash_7 | real-energy-glad-large-never-prevent-february |  
+| bip_39_word_dash_8 | real-energy-glad-large-never-prevent-february-elephant |  
+| bip_39_word_dash_9 | real-energy-glad-large-never-prevent-february-elephant-turkey |  
 | bip_39_word_new_br_1 | real |  
 | bip_39_word_new_br_10 | real<br>energy<br>glad<br>large<br>never<br>prevent<br>february<br>elephant<br>turkey<br>street |  
 | bip_39_word_new_br_11 | real<br>energy<br>glad<br>large<br>never<br>prevent<br>february<br>elephant<br>turkey<br>street<br>kid |  
@@ -147,6 +159,18 @@ turkey |
 | bip_39_word_space_7 | real energy glad large never prevent february |  
 | bip_39_word_space_8 | real energy glad large never prevent february elephant |  
 | bip_39_word_space_9 | real energy glad large never prevent february elephant turkey |  
+| bip_39_word_underscore_1 | real |  
+| bip_39_word_underscore_10 | real_energy_glad_large_never_prevent_february_elephant_turkey_street |  
+| bip_39_word_underscore_11 | real_energy_glad_large_never_prevent_february_elephant_turkey_street_kid |  
+| bip_39_word_underscore_12 | real_energy_glad_large_never_prevent_february_elephant_turkey_street_kid_auto |  
+| bip_39_word_underscore_2 | real_energy |  
+| bip_39_word_underscore_3 | real_energy_glad |  
+| bip_39_word_underscore_4 | real_energy_glad_large |  
+| bip_39_word_underscore_5 | real_energy_glad_large_never |  
+| bip_39_word_underscore_6 | real_energy_glad_large_never_prevent |  
+| bip_39_word_underscore_7 | real_energy_glad_large_never_prevent_february |  
+| bip_39_word_underscore_8 | real_energy_glad_large_never_prevent_february_elephant |  
+| bip_39_word_underscore_9 | real_energy_glad_large_never_prevent_february_elephant_turkey |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

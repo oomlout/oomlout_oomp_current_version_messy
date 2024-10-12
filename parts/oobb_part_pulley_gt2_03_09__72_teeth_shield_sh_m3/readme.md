@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shell |  
+| bip_39_word_dash_10 | shell-cheap-hunt-economy-kitchen-hungry-script-palace-pig-post |  
+| bip_39_word_dash_11 | shell-cheap-hunt-economy-kitchen-hungry-script-palace-pig-post-impose |  
+| bip_39_word_dash_12 | shell-cheap-hunt-economy-kitchen-hungry-script-palace-pig-post-impose-attract |  
+| bip_39_word_dash_2 | shell-cheap |  
+| bip_39_word_dash_3 | shell-cheap-hunt |  
+| bip_39_word_dash_4 | shell-cheap-hunt-economy |  
+| bip_39_word_dash_5 | shell-cheap-hunt-economy-kitchen |  
+| bip_39_word_dash_6 | shell-cheap-hunt-economy-kitchen-hungry |  
+| bip_39_word_dash_7 | shell-cheap-hunt-economy-kitchen-hungry-script |  
+| bip_39_word_dash_8 | shell-cheap-hunt-economy-kitchen-hungry-script-palace |  
+| bip_39_word_dash_9 | shell-cheap-hunt-economy-kitchen-hungry-script-palace-pig |  
 | bip_39_word_new_br_1 | shell |  
 | bip_39_word_new_br_10 | shell<br>cheap<br>hunt<br>economy<br>kitchen<br>hungry<br>script<br>palace<br>pig<br>post |  
 | bip_39_word_new_br_11 | shell<br>cheap<br>hunt<br>economy<br>kitchen<br>hungry<br>script<br>palace<br>pig<br>post<br>impose |  
@@ -147,6 +159,18 @@ pig |
 | bip_39_word_space_7 | shell cheap hunt economy kitchen hungry script |  
 | bip_39_word_space_8 | shell cheap hunt economy kitchen hungry script palace |  
 | bip_39_word_space_9 | shell cheap hunt economy kitchen hungry script palace pig |  
+| bip_39_word_underscore_1 | shell |  
+| bip_39_word_underscore_10 | shell_cheap_hunt_economy_kitchen_hungry_script_palace_pig_post |  
+| bip_39_word_underscore_11 | shell_cheap_hunt_economy_kitchen_hungry_script_palace_pig_post_impose |  
+| bip_39_word_underscore_12 | shell_cheap_hunt_economy_kitchen_hungry_script_palace_pig_post_impose_attract |  
+| bip_39_word_underscore_2 | shell_cheap |  
+| bip_39_word_underscore_3 | shell_cheap_hunt |  
+| bip_39_word_underscore_4 | shell_cheap_hunt_economy |  
+| bip_39_word_underscore_5 | shell_cheap_hunt_economy_kitchen |  
+| bip_39_word_underscore_6 | shell_cheap_hunt_economy_kitchen_hungry |  
+| bip_39_word_underscore_7 | shell_cheap_hunt_economy_kitchen_hungry_script |  
+| bip_39_word_underscore_8 | shell_cheap_hunt_economy_kitchen_hungry_script_palace |  
+| bip_39_word_underscore_9 | shell_cheap_hunt_economy_kitchen_hungry_script_palace_pig |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

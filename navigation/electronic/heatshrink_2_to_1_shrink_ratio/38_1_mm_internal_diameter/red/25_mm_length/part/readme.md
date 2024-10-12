@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cloth |  
+| bip_39_word_dash_10 | cloth-tunnel-lion-plastic-pen-champion-laundry-dune-subway-degree |  
+| bip_39_word_dash_11 | cloth-tunnel-lion-plastic-pen-champion-laundry-dune-subway-degree-kid |  
+| bip_39_word_dash_12 | cloth-tunnel-lion-plastic-pen-champion-laundry-dune-subway-degree-kid-among |  
+| bip_39_word_dash_2 | cloth-tunnel |  
+| bip_39_word_dash_3 | cloth-tunnel-lion |  
+| bip_39_word_dash_4 | cloth-tunnel-lion-plastic |  
+| bip_39_word_dash_5 | cloth-tunnel-lion-plastic-pen |  
+| bip_39_word_dash_6 | cloth-tunnel-lion-plastic-pen-champion |  
+| bip_39_word_dash_7 | cloth-tunnel-lion-plastic-pen-champion-laundry |  
+| bip_39_word_dash_8 | cloth-tunnel-lion-plastic-pen-champion-laundry-dune |  
+| bip_39_word_dash_9 | cloth-tunnel-lion-plastic-pen-champion-laundry-dune-subway |  
 | bip_39_word_new_br_1 | cloth |  
 | bip_39_word_new_br_10 | cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree |  
 | bip_39_word_new_br_11 | cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree<br>kid |  
@@ -147,6 +159,18 @@ subway |
 | bip_39_word_space_7 | cloth tunnel lion plastic pen champion laundry |  
 | bip_39_word_space_8 | cloth tunnel lion plastic pen champion laundry dune |  
 | bip_39_word_space_9 | cloth tunnel lion plastic pen champion laundry dune subway |  
+| bip_39_word_underscore_1 | cloth |  
+| bip_39_word_underscore_10 | cloth_tunnel_lion_plastic_pen_champion_laundry_dune_subway_degree |  
+| bip_39_word_underscore_11 | cloth_tunnel_lion_plastic_pen_champion_laundry_dune_subway_degree_kid |  
+| bip_39_word_underscore_12 | cloth_tunnel_lion_plastic_pen_champion_laundry_dune_subway_degree_kid_among |  
+| bip_39_word_underscore_2 | cloth_tunnel |  
+| bip_39_word_underscore_3 | cloth_tunnel_lion |  
+| bip_39_word_underscore_4 | cloth_tunnel_lion_plastic |  
+| bip_39_word_underscore_5 | cloth_tunnel_lion_plastic_pen |  
+| bip_39_word_underscore_6 | cloth_tunnel_lion_plastic_pen_champion |  
+| bip_39_word_underscore_7 | cloth_tunnel_lion_plastic_pen_champion_laundry |  
+| bip_39_word_underscore_8 | cloth_tunnel_lion_plastic_pen_champion_laundry_dune |  
+| bip_39_word_underscore_9 | cloth_tunnel_lion_plastic_pen_champion_laundry_dune_subway |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

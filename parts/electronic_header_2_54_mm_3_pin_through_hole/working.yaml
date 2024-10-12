@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vicious
+bip_39_word_dash_10: vicious-field-drink-hint-achieve-lawsuit-fiscal-solution-wonder-diesel
+bip_39_word_dash_11: vicious-field-drink-hint-achieve-lawsuit-fiscal-solution-wonder-diesel-repeat
+bip_39_word_dash_12: vicious-field-drink-hint-achieve-lawsuit-fiscal-solution-wonder-diesel-repeat-annual
+bip_39_word_dash_2: vicious-field
+bip_39_word_dash_3: vicious-field-drink
+bip_39_word_dash_4: vicious-field-drink-hint
+bip_39_word_dash_5: vicious-field-drink-hint-achieve
+bip_39_word_dash_6: vicious-field-drink-hint-achieve-lawsuit
+bip_39_word_dash_7: vicious-field-drink-hint-achieve-lawsuit-fiscal
+bip_39_word_dash_8: vicious-field-drink-hint-achieve-lawsuit-fiscal-solution
+bip_39_word_dash_9: vicious-field-drink-hint-achieve-lawsuit-fiscal-solution-wonder
 bip_39_word_new_br_1: vicious
 bip_39_word_new_br_10: vicious<br>field<br>drink<br>hint<br>achieve<br>lawsuit<br>fiscal<br>solution<br>wonder<br>diesel
 bip_39_word_new_br_11: vicious<br>field<br>drink<br>hint<br>achieve<br>lawsuit<br>fiscal<br>solution<br>wonder<br>diesel<br>repeat
@@ -194,6 +206,18 @@ bip_39_word_space_6: vicious field drink hint achieve lawsuit
 bip_39_word_space_7: vicious field drink hint achieve lawsuit fiscal
 bip_39_word_space_8: vicious field drink hint achieve lawsuit fiscal solution
 bip_39_word_space_9: vicious field drink hint achieve lawsuit fiscal solution wonder
+bip_39_word_underscore_1: vicious
+bip_39_word_underscore_10: vicious_field_drink_hint_achieve_lawsuit_fiscal_solution_wonder_diesel
+bip_39_word_underscore_11: vicious_field_drink_hint_achieve_lawsuit_fiscal_solution_wonder_diesel_repeat
+bip_39_word_underscore_12: vicious_field_drink_hint_achieve_lawsuit_fiscal_solution_wonder_diesel_repeat_annual
+bip_39_word_underscore_2: vicious_field
+bip_39_word_underscore_3: vicious_field_drink
+bip_39_word_underscore_4: vicious_field_drink_hint
+bip_39_word_underscore_5: vicious_field_drink_hint_achieve
+bip_39_word_underscore_6: vicious_field_drink_hint_achieve_lawsuit
+bip_39_word_underscore_7: vicious_field_drink_hint_achieve_lawsuit_fiscal
+bip_39_word_underscore_8: vicious_field_drink_hint_achieve_lawsuit_fiscal_solution
+bip_39_word_underscore_9: vicious_field_drink_hint_achieve_lawsuit_fiscal_solution_wonder
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | term |  
+| bip_39_word_dash_10 | term-behind-marriage-identify-velvet-clean-still-merge-pledge-vibrant |  
+| bip_39_word_dash_11 | term-behind-marriage-identify-velvet-clean-still-merge-pledge-vibrant-chef |  
+| bip_39_word_dash_12 | term-behind-marriage-identify-velvet-clean-still-merge-pledge-vibrant-chef-air |  
+| bip_39_word_dash_2 | term-behind |  
+| bip_39_word_dash_3 | term-behind-marriage |  
+| bip_39_word_dash_4 | term-behind-marriage-identify |  
+| bip_39_word_dash_5 | term-behind-marriage-identify-velvet |  
+| bip_39_word_dash_6 | term-behind-marriage-identify-velvet-clean |  
+| bip_39_word_dash_7 | term-behind-marriage-identify-velvet-clean-still |  
+| bip_39_word_dash_8 | term-behind-marriage-identify-velvet-clean-still-merge |  
+| bip_39_word_dash_9 | term-behind-marriage-identify-velvet-clean-still-merge-pledge |  
 | bip_39_word_new_br_1 | term |  
 | bip_39_word_new_br_10 | term<br>behind<br>marriage<br>identify<br>velvet<br>clean<br>still<br>merge<br>pledge<br>vibrant |  
 | bip_39_word_new_br_11 | term<br>behind<br>marriage<br>identify<br>velvet<br>clean<br>still<br>merge<br>pledge<br>vibrant<br>chef |  
@@ -147,6 +159,18 @@ pledge |
 | bip_39_word_space_7 | term behind marriage identify velvet clean still |  
 | bip_39_word_space_8 | term behind marriage identify velvet clean still merge |  
 | bip_39_word_space_9 | term behind marriage identify velvet clean still merge pledge |  
+| bip_39_word_underscore_1 | term |  
+| bip_39_word_underscore_10 | term_behind_marriage_identify_velvet_clean_still_merge_pledge_vibrant |  
+| bip_39_word_underscore_11 | term_behind_marriage_identify_velvet_clean_still_merge_pledge_vibrant_chef |  
+| bip_39_word_underscore_12 | term_behind_marriage_identify_velvet_clean_still_merge_pledge_vibrant_chef_air |  
+| bip_39_word_underscore_2 | term_behind |  
+| bip_39_word_underscore_3 | term_behind_marriage |  
+| bip_39_word_underscore_4 | term_behind_marriage_identify |  
+| bip_39_word_underscore_5 | term_behind_marriage_identify_velvet |  
+| bip_39_word_underscore_6 | term_behind_marriage_identify_velvet_clean |  
+| bip_39_word_underscore_7 | term_behind_marriage_identify_velvet_clean_still |  
+| bip_39_word_underscore_8 | term_behind_marriage_identify_velvet_clean_still_merge |  
+| bip_39_word_underscore_9 | term_behind_marriage_identify_velvet_clean_still_merge_pledge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

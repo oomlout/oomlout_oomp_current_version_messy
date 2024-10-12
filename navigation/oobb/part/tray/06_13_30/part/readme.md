@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | above |  
+| bip_39_word_dash_10 | above-relief-motion-across-tortoise-blue-among-oxygen-escape-symbol |  
+| bip_39_word_dash_11 | above-relief-motion-across-tortoise-blue-among-oxygen-escape-symbol-brother |  
+| bip_39_word_dash_12 | above-relief-motion-across-tortoise-blue-among-oxygen-escape-symbol-brother-acoustic |  
+| bip_39_word_dash_2 | above-relief |  
+| bip_39_word_dash_3 | above-relief-motion |  
+| bip_39_word_dash_4 | above-relief-motion-across |  
+| bip_39_word_dash_5 | above-relief-motion-across-tortoise |  
+| bip_39_word_dash_6 | above-relief-motion-across-tortoise-blue |  
+| bip_39_word_dash_7 | above-relief-motion-across-tortoise-blue-among |  
+| bip_39_word_dash_8 | above-relief-motion-across-tortoise-blue-among-oxygen |  
+| bip_39_word_dash_9 | above-relief-motion-across-tortoise-blue-among-oxygen-escape |  
 | bip_39_word_new_br_1 | above |  
 | bip_39_word_new_br_10 | above<br>relief<br>motion<br>across<br>tortoise<br>blue<br>among<br>oxygen<br>escape<br>symbol |  
 | bip_39_word_new_br_11 | above<br>relief<br>motion<br>across<br>tortoise<br>blue<br>among<br>oxygen<br>escape<br>symbol<br>brother |  
@@ -147,6 +159,18 @@ escape |
 | bip_39_word_space_7 | above relief motion across tortoise blue among |  
 | bip_39_word_space_8 | above relief motion across tortoise blue among oxygen |  
 | bip_39_word_space_9 | above relief motion across tortoise blue among oxygen escape |  
+| bip_39_word_underscore_1 | above |  
+| bip_39_word_underscore_10 | above_relief_motion_across_tortoise_blue_among_oxygen_escape_symbol |  
+| bip_39_word_underscore_11 | above_relief_motion_across_tortoise_blue_among_oxygen_escape_symbol_brother |  
+| bip_39_word_underscore_12 | above_relief_motion_across_tortoise_blue_among_oxygen_escape_symbol_brother_acoustic |  
+| bip_39_word_underscore_2 | above_relief |  
+| bip_39_word_underscore_3 | above_relief_motion |  
+| bip_39_word_underscore_4 | above_relief_motion_across |  
+| bip_39_word_underscore_5 | above_relief_motion_across_tortoise |  
+| bip_39_word_underscore_6 | above_relief_motion_across_tortoise_blue |  
+| bip_39_word_underscore_7 | above_relief_motion_across_tortoise_blue_among |  
+| bip_39_word_underscore_8 | above_relief_motion_across_tortoise_blue_among_oxygen |  
+| bip_39_word_underscore_9 | above_relief_motion_across_tortoise_blue_among_oxygen_escape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: payment
+bip_39_word_dash_10: payment-bacon-verify-clarify-pig-donkey-brass-bubble-hen-convince
+bip_39_word_dash_11: payment-bacon-verify-clarify-pig-donkey-brass-bubble-hen-convince-vibrant
+bip_39_word_dash_12: payment-bacon-verify-clarify-pig-donkey-brass-bubble-hen-convince-vibrant-afraid
+bip_39_word_dash_2: payment-bacon
+bip_39_word_dash_3: payment-bacon-verify
+bip_39_word_dash_4: payment-bacon-verify-clarify
+bip_39_word_dash_5: payment-bacon-verify-clarify-pig
+bip_39_word_dash_6: payment-bacon-verify-clarify-pig-donkey
+bip_39_word_dash_7: payment-bacon-verify-clarify-pig-donkey-brass
+bip_39_word_dash_8: payment-bacon-verify-clarify-pig-donkey-brass-bubble
+bip_39_word_dash_9: payment-bacon-verify-clarify-pig-donkey-brass-bubble-hen
 bip_39_word_new_br_1: payment
 bip_39_word_new_br_10: payment<br>bacon<br>verify<br>clarify<br>pig<br>donkey<br>brass<br>bubble<br>hen<br>convince
 bip_39_word_new_br_11: payment<br>bacon<br>verify<br>clarify<br>pig<br>donkey<br>brass<br>bubble<br>hen<br>convince<br>vibrant
@@ -193,6 +205,18 @@ bip_39_word_space_6: payment bacon verify clarify pig donkey
 bip_39_word_space_7: payment bacon verify clarify pig donkey brass
 bip_39_word_space_8: payment bacon verify clarify pig donkey brass bubble
 bip_39_word_space_9: payment bacon verify clarify pig donkey brass bubble hen
+bip_39_word_underscore_1: payment
+bip_39_word_underscore_10: payment_bacon_verify_clarify_pig_donkey_brass_bubble_hen_convince
+bip_39_word_underscore_11: payment_bacon_verify_clarify_pig_donkey_brass_bubble_hen_convince_vibrant
+bip_39_word_underscore_12: payment_bacon_verify_clarify_pig_donkey_brass_bubble_hen_convince_vibrant_afraid
+bip_39_word_underscore_2: payment_bacon
+bip_39_word_underscore_3: payment_bacon_verify
+bip_39_word_underscore_4: payment_bacon_verify_clarify
+bip_39_word_underscore_5: payment_bacon_verify_clarify_pig
+bip_39_word_underscore_6: payment_bacon_verify_clarify_pig_donkey
+bip_39_word_underscore_7: payment_bacon_verify_clarify_pig_donkey_brass
+bip_39_word_underscore_8: payment_bacon_verify_clarify_pig_donkey_brass_bubble
+bip_39_word_underscore_9: payment_bacon_verify_clarify_pig_donkey_brass_bubble_hen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

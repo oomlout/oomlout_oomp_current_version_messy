@@ -1,3 +1,15 @@
+bip_39_word_dash_1: diet
+bip_39_word_dash_10: diet-clutch-enable-patrol-among-film-order-ensure-accident-behave
+bip_39_word_dash_11: diet-clutch-enable-patrol-among-film-order-ensure-accident-behave-tenant
+bip_39_word_dash_12: diet-clutch-enable-patrol-among-film-order-ensure-accident-behave-tenant-ancient
+bip_39_word_dash_2: diet-clutch
+bip_39_word_dash_3: diet-clutch-enable
+bip_39_word_dash_4: diet-clutch-enable-patrol
+bip_39_word_dash_5: diet-clutch-enable-patrol-among
+bip_39_word_dash_6: diet-clutch-enable-patrol-among-film
+bip_39_word_dash_7: diet-clutch-enable-patrol-among-film-order
+bip_39_word_dash_8: diet-clutch-enable-patrol-among-film-order-ensure
+bip_39_word_dash_9: diet-clutch-enable-patrol-among-film-order-ensure-accident
 bip_39_word_new_br_1: diet
 bip_39_word_new_br_10: diet<br>clutch<br>enable<br>patrol<br>among<br>film<br>order<br>ensure<br>accident<br>behave
 bip_39_word_new_br_11: diet<br>clutch<br>enable<br>patrol<br>among<br>film<br>order<br>ensure<br>accident<br>behave<br>tenant
@@ -193,6 +205,18 @@ bip_39_word_space_6: diet clutch enable patrol among film
 bip_39_word_space_7: diet clutch enable patrol among film order
 bip_39_word_space_8: diet clutch enable patrol among film order ensure
 bip_39_word_space_9: diet clutch enable patrol among film order ensure accident
+bip_39_word_underscore_1: diet
+bip_39_word_underscore_10: diet_clutch_enable_patrol_among_film_order_ensure_accident_behave
+bip_39_word_underscore_11: diet_clutch_enable_patrol_among_film_order_ensure_accident_behave_tenant
+bip_39_word_underscore_12: diet_clutch_enable_patrol_among_film_order_ensure_accident_behave_tenant_ancient
+bip_39_word_underscore_2: diet_clutch
+bip_39_word_underscore_3: diet_clutch_enable
+bip_39_word_underscore_4: diet_clutch_enable_patrol
+bip_39_word_underscore_5: diet_clutch_enable_patrol_among
+bip_39_word_underscore_6: diet_clutch_enable_patrol_among_film
+bip_39_word_underscore_7: diet_clutch_enable_patrol_among_film_order
+bip_39_word_underscore_8: diet_clutch_enable_patrol_among_film_order_ensure
+bip_39_word_underscore_9: diet_clutch_enable_patrol_among_film_order_ensure_accident
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

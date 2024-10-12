@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shed
+bip_39_word_dash_10: shed-toilet-ridge-blossom-burger-manage-breeze-record-plug-pitch
+bip_39_word_dash_11: shed-toilet-ridge-blossom-burger-manage-breeze-record-plug-pitch-cargo
+bip_39_word_dash_12: shed-toilet-ridge-blossom-burger-manage-breeze-record-plug-pitch-cargo-animal
+bip_39_word_dash_2: shed-toilet
+bip_39_word_dash_3: shed-toilet-ridge
+bip_39_word_dash_4: shed-toilet-ridge-blossom
+bip_39_word_dash_5: shed-toilet-ridge-blossom-burger
+bip_39_word_dash_6: shed-toilet-ridge-blossom-burger-manage
+bip_39_word_dash_7: shed-toilet-ridge-blossom-burger-manage-breeze
+bip_39_word_dash_8: shed-toilet-ridge-blossom-burger-manage-breeze-record
+bip_39_word_dash_9: shed-toilet-ridge-blossom-burger-manage-breeze-record-plug
 bip_39_word_new_br_1: shed
 bip_39_word_new_br_10: shed<br>toilet<br>ridge<br>blossom<br>burger<br>manage<br>breeze<br>record<br>plug<br>pitch
 bip_39_word_new_br_11: shed<br>toilet<br>ridge<br>blossom<br>burger<br>manage<br>breeze<br>record<br>plug<br>pitch<br>cargo
@@ -193,6 +205,18 @@ bip_39_word_space_6: shed toilet ridge blossom burger manage
 bip_39_word_space_7: shed toilet ridge blossom burger manage breeze
 bip_39_word_space_8: shed toilet ridge blossom burger manage breeze record
 bip_39_word_space_9: shed toilet ridge blossom burger manage breeze record plug
+bip_39_word_underscore_1: shed
+bip_39_word_underscore_10: shed_toilet_ridge_blossom_burger_manage_breeze_record_plug_pitch
+bip_39_word_underscore_11: shed_toilet_ridge_blossom_burger_manage_breeze_record_plug_pitch_cargo
+bip_39_word_underscore_12: shed_toilet_ridge_blossom_burger_manage_breeze_record_plug_pitch_cargo_animal
+bip_39_word_underscore_2: shed_toilet
+bip_39_word_underscore_3: shed_toilet_ridge
+bip_39_word_underscore_4: shed_toilet_ridge_blossom
+bip_39_word_underscore_5: shed_toilet_ridge_blossom_burger
+bip_39_word_underscore_6: shed_toilet_ridge_blossom_burger_manage
+bip_39_word_underscore_7: shed_toilet_ridge_blossom_burger_manage_breeze
+bip_39_word_underscore_8: shed_toilet_ridge_blossom_burger_manage_breeze_record
+bip_39_word_underscore_9: shed_toilet_ridge_blossom_burger_manage_breeze_record_plug
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

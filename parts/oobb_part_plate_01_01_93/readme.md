@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nerve |  
+| bip_39_word_dash_10 | nerve-match-regular-code-idea-mask-eternal-slide-erode-salt |  
+| bip_39_word_dash_11 | nerve-match-regular-code-idea-mask-eternal-slide-erode-salt-need |  
+| bip_39_word_dash_12 | nerve-match-regular-code-idea-mask-eternal-slide-erode-salt-need-almost |  
+| bip_39_word_dash_2 | nerve-match |  
+| bip_39_word_dash_3 | nerve-match-regular |  
+| bip_39_word_dash_4 | nerve-match-regular-code |  
+| bip_39_word_dash_5 | nerve-match-regular-code-idea |  
+| bip_39_word_dash_6 | nerve-match-regular-code-idea-mask |  
+| bip_39_word_dash_7 | nerve-match-regular-code-idea-mask-eternal |  
+| bip_39_word_dash_8 | nerve-match-regular-code-idea-mask-eternal-slide |  
+| bip_39_word_dash_9 | nerve-match-regular-code-idea-mask-eternal-slide-erode |  
 | bip_39_word_new_br_1 | nerve |  
 | bip_39_word_new_br_10 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide<br>erode<br>salt |  
 | bip_39_word_new_br_11 | nerve<br>match<br>regular<br>code<br>idea<br>mask<br>eternal<br>slide<br>erode<br>salt<br>need |  
@@ -147,6 +159,18 @@ erode |
 | bip_39_word_space_7 | nerve match regular code idea mask eternal |  
 | bip_39_word_space_8 | nerve match regular code idea mask eternal slide |  
 | bip_39_word_space_9 | nerve match regular code idea mask eternal slide erode |  
+| bip_39_word_underscore_1 | nerve |  
+| bip_39_word_underscore_10 | nerve_match_regular_code_idea_mask_eternal_slide_erode_salt |  
+| bip_39_word_underscore_11 | nerve_match_regular_code_idea_mask_eternal_slide_erode_salt_need |  
+| bip_39_word_underscore_12 | nerve_match_regular_code_idea_mask_eternal_slide_erode_salt_need_almost |  
+| bip_39_word_underscore_2 | nerve_match |  
+| bip_39_word_underscore_3 | nerve_match_regular |  
+| bip_39_word_underscore_4 | nerve_match_regular_code |  
+| bip_39_word_underscore_5 | nerve_match_regular_code_idea |  
+| bip_39_word_underscore_6 | nerve_match_regular_code_idea_mask |  
+| bip_39_word_underscore_7 | nerve_match_regular_code_idea_mask_eternal |  
+| bip_39_word_underscore_8 | nerve_match_regular_code_idea_mask_eternal_slide |  
+| bip_39_word_underscore_9 | nerve_match_regular_code_idea_mask_eternal_slide_erode |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

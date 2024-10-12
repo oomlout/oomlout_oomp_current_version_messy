@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | camp |  
+| bip_39_word_dash_10 | camp-wise-best-shadow-surprise-since-differ-aspect-fire-hobby |  
+| bip_39_word_dash_11 | camp-wise-best-shadow-surprise-since-differ-aspect-fire-hobby-salon |  
+| bip_39_word_dash_12 | camp-wise-best-shadow-surprise-since-differ-aspect-fire-hobby-salon-already |  
+| bip_39_word_dash_2 | camp-wise |  
+| bip_39_word_dash_3 | camp-wise-best |  
+| bip_39_word_dash_4 | camp-wise-best-shadow |  
+| bip_39_word_dash_5 | camp-wise-best-shadow-surprise |  
+| bip_39_word_dash_6 | camp-wise-best-shadow-surprise-since |  
+| bip_39_word_dash_7 | camp-wise-best-shadow-surprise-since-differ |  
+| bip_39_word_dash_8 | camp-wise-best-shadow-surprise-since-differ-aspect |  
+| bip_39_word_dash_9 | camp-wise-best-shadow-surprise-since-differ-aspect-fire |  
 | bip_39_word_new_br_1 | camp |  
 | bip_39_word_new_br_10 | camp<br>wise<br>best<br>shadow<br>surprise<br>since<br>differ<br>aspect<br>fire<br>hobby |  
 | bip_39_word_new_br_11 | camp<br>wise<br>best<br>shadow<br>surprise<br>since<br>differ<br>aspect<br>fire<br>hobby<br>salon |  
@@ -147,6 +159,18 @@ fire |
 | bip_39_word_space_7 | camp wise best shadow surprise since differ |  
 | bip_39_word_space_8 | camp wise best shadow surprise since differ aspect |  
 | bip_39_word_space_9 | camp wise best shadow surprise since differ aspect fire |  
+| bip_39_word_underscore_1 | camp |  
+| bip_39_word_underscore_10 | camp_wise_best_shadow_surprise_since_differ_aspect_fire_hobby |  
+| bip_39_word_underscore_11 | camp_wise_best_shadow_surprise_since_differ_aspect_fire_hobby_salon |  
+| bip_39_word_underscore_12 | camp_wise_best_shadow_surprise_since_differ_aspect_fire_hobby_salon_already |  
+| bip_39_word_underscore_2 | camp_wise |  
+| bip_39_word_underscore_3 | camp_wise_best |  
+| bip_39_word_underscore_4 | camp_wise_best_shadow |  
+| bip_39_word_underscore_5 | camp_wise_best_shadow_surprise |  
+| bip_39_word_underscore_6 | camp_wise_best_shadow_surprise_since |  
+| bip_39_word_underscore_7 | camp_wise_best_shadow_surprise_since_differ |  
+| bip_39_word_underscore_8 | camp_wise_best_shadow_surprise_since_differ_aspect |  
+| bip_39_word_underscore_9 | camp_wise_best_shadow_surprise_since_differ_aspect_fire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

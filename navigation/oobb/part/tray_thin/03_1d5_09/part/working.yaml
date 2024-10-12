@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lamp
+bip_39_word_dash_10: lamp-silk-hand-coil-banana-lawn-cute-tomorrow-enough-midnight
+bip_39_word_dash_11: lamp-silk-hand-coil-banana-lawn-cute-tomorrow-enough-midnight-square
+bip_39_word_dash_12: lamp-silk-hand-coil-banana-lawn-cute-tomorrow-enough-midnight-square-any
+bip_39_word_dash_2: lamp-silk
+bip_39_word_dash_3: lamp-silk-hand
+bip_39_word_dash_4: lamp-silk-hand-coil
+bip_39_word_dash_5: lamp-silk-hand-coil-banana
+bip_39_word_dash_6: lamp-silk-hand-coil-banana-lawn
+bip_39_word_dash_7: lamp-silk-hand-coil-banana-lawn-cute
+bip_39_word_dash_8: lamp-silk-hand-coil-banana-lawn-cute-tomorrow
+bip_39_word_dash_9: lamp-silk-hand-coil-banana-lawn-cute-tomorrow-enough
 bip_39_word_new_br_1: lamp
 bip_39_word_new_br_10: lamp<br>silk<br>hand<br>coil<br>banana<br>lawn<br>cute<br>tomorrow<br>enough<br>midnight
 bip_39_word_new_br_11: lamp<br>silk<br>hand<br>coil<br>banana<br>lawn<br>cute<br>tomorrow<br>enough<br>midnight<br>square
@@ -193,6 +205,18 @@ bip_39_word_space_6: lamp silk hand coil banana lawn
 bip_39_word_space_7: lamp silk hand coil banana lawn cute
 bip_39_word_space_8: lamp silk hand coil banana lawn cute tomorrow
 bip_39_word_space_9: lamp silk hand coil banana lawn cute tomorrow enough
+bip_39_word_underscore_1: lamp
+bip_39_word_underscore_10: lamp_silk_hand_coil_banana_lawn_cute_tomorrow_enough_midnight
+bip_39_word_underscore_11: lamp_silk_hand_coil_banana_lawn_cute_tomorrow_enough_midnight_square
+bip_39_word_underscore_12: lamp_silk_hand_coil_banana_lawn_cute_tomorrow_enough_midnight_square_any
+bip_39_word_underscore_2: lamp_silk
+bip_39_word_underscore_3: lamp_silk_hand
+bip_39_word_underscore_4: lamp_silk_hand_coil
+bip_39_word_underscore_5: lamp_silk_hand_coil_banana
+bip_39_word_underscore_6: lamp_silk_hand_coil_banana_lawn
+bip_39_word_underscore_7: lamp_silk_hand_coil_banana_lawn_cute
+bip_39_word_underscore_8: lamp_silk_hand_coil_banana_lawn_cute_tomorrow
+bip_39_word_underscore_9: lamp_silk_hand_coil_banana_lawn_cute_tomorrow_enough
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

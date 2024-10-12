@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | taste |  
+| bip_39_word_dash_10 | taste-diagram-guide-cube-panic-magic-walk-pottery-pumpkin-thumb |  
+| bip_39_word_dash_11 | taste-diagram-guide-cube-panic-magic-walk-pottery-pumpkin-thumb-put |  
+| bip_39_word_dash_12 | taste-diagram-guide-cube-panic-magic-walk-pottery-pumpkin-thumb-put-artist |  
+| bip_39_word_dash_2 | taste-diagram |  
+| bip_39_word_dash_3 | taste-diagram-guide |  
+| bip_39_word_dash_4 | taste-diagram-guide-cube |  
+| bip_39_word_dash_5 | taste-diagram-guide-cube-panic |  
+| bip_39_word_dash_6 | taste-diagram-guide-cube-panic-magic |  
+| bip_39_word_dash_7 | taste-diagram-guide-cube-panic-magic-walk |  
+| bip_39_word_dash_8 | taste-diagram-guide-cube-panic-magic-walk-pottery |  
+| bip_39_word_dash_9 | taste-diagram-guide-cube-panic-magic-walk-pottery-pumpkin |  
 | bip_39_word_new_br_1 | taste |  
 | bip_39_word_new_br_10 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery<br>pumpkin<br>thumb |  
 | bip_39_word_new_br_11 | taste<br>diagram<br>guide<br>cube<br>panic<br>magic<br>walk<br>pottery<br>pumpkin<br>thumb<br>put |  
@@ -147,6 +159,18 @@ pumpkin |
 | bip_39_word_space_7 | taste diagram guide cube panic magic walk |  
 | bip_39_word_space_8 | taste diagram guide cube panic magic walk pottery |  
 | bip_39_word_space_9 | taste diagram guide cube panic magic walk pottery pumpkin |  
+| bip_39_word_underscore_1 | taste |  
+| bip_39_word_underscore_10 | taste_diagram_guide_cube_panic_magic_walk_pottery_pumpkin_thumb |  
+| bip_39_word_underscore_11 | taste_diagram_guide_cube_panic_magic_walk_pottery_pumpkin_thumb_put |  
+| bip_39_word_underscore_12 | taste_diagram_guide_cube_panic_magic_walk_pottery_pumpkin_thumb_put_artist |  
+| bip_39_word_underscore_2 | taste_diagram |  
+| bip_39_word_underscore_3 | taste_diagram_guide |  
+| bip_39_word_underscore_4 | taste_diagram_guide_cube |  
+| bip_39_word_underscore_5 | taste_diagram_guide_cube_panic |  
+| bip_39_word_underscore_6 | taste_diagram_guide_cube_panic_magic |  
+| bip_39_word_underscore_7 | taste_diagram_guide_cube_panic_magic_walk |  
+| bip_39_word_underscore_8 | taste_diagram_guide_cube_panic_magic_walk_pottery |  
+| bip_39_word_underscore_9 | taste_diagram_guide_cube_panic_magic_walk_pottery_pumpkin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

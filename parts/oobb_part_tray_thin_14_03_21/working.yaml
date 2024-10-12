@@ -1,3 +1,15 @@
+bip_39_word_dash_1: print
+bip_39_word_dash_10: print-come-unfair-adapt-present-bulb-inquiry-trip-school-mango
+bip_39_word_dash_11: print-come-unfair-adapt-present-bulb-inquiry-trip-school-mango-lens
+bip_39_word_dash_12: print-come-unfair-adapt-present-bulb-inquiry-trip-school-mango-lens-ask
+bip_39_word_dash_2: print-come
+bip_39_word_dash_3: print-come-unfair
+bip_39_word_dash_4: print-come-unfair-adapt
+bip_39_word_dash_5: print-come-unfair-adapt-present
+bip_39_word_dash_6: print-come-unfair-adapt-present-bulb
+bip_39_word_dash_7: print-come-unfair-adapt-present-bulb-inquiry
+bip_39_word_dash_8: print-come-unfair-adapt-present-bulb-inquiry-trip
+bip_39_word_dash_9: print-come-unfair-adapt-present-bulb-inquiry-trip-school
 bip_39_word_new_br_1: print
 bip_39_word_new_br_10: print<br>come<br>unfair<br>adapt<br>present<br>bulb<br>inquiry<br>trip<br>school<br>mango
 bip_39_word_new_br_11: print<br>come<br>unfair<br>adapt<br>present<br>bulb<br>inquiry<br>trip<br>school<br>mango<br>lens
@@ -193,6 +205,18 @@ bip_39_word_space_6: print come unfair adapt present bulb
 bip_39_word_space_7: print come unfair adapt present bulb inquiry
 bip_39_word_space_8: print come unfair adapt present bulb inquiry trip
 bip_39_word_space_9: print come unfair adapt present bulb inquiry trip school
+bip_39_word_underscore_1: print
+bip_39_word_underscore_10: print_come_unfair_adapt_present_bulb_inquiry_trip_school_mango
+bip_39_word_underscore_11: print_come_unfair_adapt_present_bulb_inquiry_trip_school_mango_lens
+bip_39_word_underscore_12: print_come_unfair_adapt_present_bulb_inquiry_trip_school_mango_lens_ask
+bip_39_word_underscore_2: print_come
+bip_39_word_underscore_3: print_come_unfair
+bip_39_word_underscore_4: print_come_unfair_adapt
+bip_39_word_underscore_5: print_come_unfair_adapt_present
+bip_39_word_underscore_6: print_come_unfair_adapt_present_bulb
+bip_39_word_underscore_7: print_come_unfair_adapt_present_bulb_inquiry
+bip_39_word_underscore_8: print_come_unfair_adapt_present_bulb_inquiry_trip
+bip_39_word_underscore_9: print_come_unfair_adapt_present_bulb_inquiry_trip_school
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cage
+bip_39_word_dash_10: cage-satoshi-future-column-audit-siren-fever-game-dynamic-manage
+bip_39_word_dash_11: cage-satoshi-future-column-audit-siren-fever-game-dynamic-manage-run
+bip_39_word_dash_12: cage-satoshi-future-column-audit-siren-fever-game-dynamic-manage-run-april
+bip_39_word_dash_2: cage-satoshi
+bip_39_word_dash_3: cage-satoshi-future
+bip_39_word_dash_4: cage-satoshi-future-column
+bip_39_word_dash_5: cage-satoshi-future-column-audit
+bip_39_word_dash_6: cage-satoshi-future-column-audit-siren
+bip_39_word_dash_7: cage-satoshi-future-column-audit-siren-fever
+bip_39_word_dash_8: cage-satoshi-future-column-audit-siren-fever-game
+bip_39_word_dash_9: cage-satoshi-future-column-audit-siren-fever-game-dynamic
 bip_39_word_new_br_1: cage
 bip_39_word_new_br_10: cage<br>satoshi<br>future<br>column<br>audit<br>siren<br>fever<br>game<br>dynamic<br>manage
 bip_39_word_new_br_11: cage<br>satoshi<br>future<br>column<br>audit<br>siren<br>fever<br>game<br>dynamic<br>manage<br>run
@@ -193,6 +205,18 @@ bip_39_word_space_6: cage satoshi future column audit siren
 bip_39_word_space_7: cage satoshi future column audit siren fever
 bip_39_word_space_8: cage satoshi future column audit siren fever game
 bip_39_word_space_9: cage satoshi future column audit siren fever game dynamic
+bip_39_word_underscore_1: cage
+bip_39_word_underscore_10: cage_satoshi_future_column_audit_siren_fever_game_dynamic_manage
+bip_39_word_underscore_11: cage_satoshi_future_column_audit_siren_fever_game_dynamic_manage_run
+bip_39_word_underscore_12: cage_satoshi_future_column_audit_siren_fever_game_dynamic_manage_run_april
+bip_39_word_underscore_2: cage_satoshi
+bip_39_word_underscore_3: cage_satoshi_future
+bip_39_word_underscore_4: cage_satoshi_future_column
+bip_39_word_underscore_5: cage_satoshi_future_column_audit
+bip_39_word_underscore_6: cage_satoshi_future_column_audit_siren
+bip_39_word_underscore_7: cage_satoshi_future_column_audit_siren_fever
+bip_39_word_underscore_8: cage_satoshi_future_column_audit_siren_fever_game
+bip_39_word_underscore_9: cage_satoshi_future_column_audit_siren_fever_game_dynamic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

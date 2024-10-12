@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | valid |  
+| bip_39_word_dash_10 | valid-rapid-crowd-hazard-update-champion-armor-tone-winner-gallery |  
+| bip_39_word_dash_11 | valid-rapid-crowd-hazard-update-champion-armor-tone-winner-gallery-trigger |  
+| bip_39_word_dash_12 | valid-rapid-crowd-hazard-update-champion-armor-tone-winner-gallery-trigger-assist |  
+| bip_39_word_dash_2 | valid-rapid |  
+| bip_39_word_dash_3 | valid-rapid-crowd |  
+| bip_39_word_dash_4 | valid-rapid-crowd-hazard |  
+| bip_39_word_dash_5 | valid-rapid-crowd-hazard-update |  
+| bip_39_word_dash_6 | valid-rapid-crowd-hazard-update-champion |  
+| bip_39_word_dash_7 | valid-rapid-crowd-hazard-update-champion-armor |  
+| bip_39_word_dash_8 | valid-rapid-crowd-hazard-update-champion-armor-tone |  
+| bip_39_word_dash_9 | valid-rapid-crowd-hazard-update-champion-armor-tone-winner |  
 | bip_39_word_new_br_1 | valid |  
 | bip_39_word_new_br_10 | valid<br>rapid<br>crowd<br>hazard<br>update<br>champion<br>armor<br>tone<br>winner<br>gallery |  
 | bip_39_word_new_br_11 | valid<br>rapid<br>crowd<br>hazard<br>update<br>champion<br>armor<br>tone<br>winner<br>gallery<br>trigger |  
@@ -147,6 +159,18 @@ winner |
 | bip_39_word_space_7 | valid rapid crowd hazard update champion armor |  
 | bip_39_word_space_8 | valid rapid crowd hazard update champion armor tone |  
 | bip_39_word_space_9 | valid rapid crowd hazard update champion armor tone winner |  
+| bip_39_word_underscore_1 | valid |  
+| bip_39_word_underscore_10 | valid_rapid_crowd_hazard_update_champion_armor_tone_winner_gallery |  
+| bip_39_word_underscore_11 | valid_rapid_crowd_hazard_update_champion_armor_tone_winner_gallery_trigger |  
+| bip_39_word_underscore_12 | valid_rapid_crowd_hazard_update_champion_armor_tone_winner_gallery_trigger_assist |  
+| bip_39_word_underscore_2 | valid_rapid |  
+| bip_39_word_underscore_3 | valid_rapid_crowd |  
+| bip_39_word_underscore_4 | valid_rapid_crowd_hazard |  
+| bip_39_word_underscore_5 | valid_rapid_crowd_hazard_update |  
+| bip_39_word_underscore_6 | valid_rapid_crowd_hazard_update_champion |  
+| bip_39_word_underscore_7 | valid_rapid_crowd_hazard_update_champion_armor |  
+| bip_39_word_underscore_8 | valid_rapid_crowd_hazard_update_champion_armor_tone |  
+| bip_39_word_underscore_9 | valid_rapid_crowd_hazard_update_champion_armor_tone_winner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wink |  
+| bip_39_word_dash_10 | wink-physical-empty-pond-physical-bundle-indoor-velvet-walk-violin |  
+| bip_39_word_dash_11 | wink-physical-empty-pond-physical-bundle-indoor-velvet-walk-violin-trust |  
+| bip_39_word_dash_12 | wink-physical-empty-pond-physical-bundle-indoor-velvet-walk-violin-trust-army |  
+| bip_39_word_dash_2 | wink-physical |  
+| bip_39_word_dash_3 | wink-physical-empty |  
+| bip_39_word_dash_4 | wink-physical-empty-pond |  
+| bip_39_word_dash_5 | wink-physical-empty-pond-physical |  
+| bip_39_word_dash_6 | wink-physical-empty-pond-physical-bundle |  
+| bip_39_word_dash_7 | wink-physical-empty-pond-physical-bundle-indoor |  
+| bip_39_word_dash_8 | wink-physical-empty-pond-physical-bundle-indoor-velvet |  
+| bip_39_word_dash_9 | wink-physical-empty-pond-physical-bundle-indoor-velvet-walk |  
 | bip_39_word_new_br_1 | wink |  
 | bip_39_word_new_br_10 | wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet<br>walk<br>violin |  
 | bip_39_word_new_br_11 | wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet<br>walk<br>violin<br>trust |  
@@ -147,6 +159,18 @@ walk |
 | bip_39_word_space_7 | wink physical empty pond physical bundle indoor |  
 | bip_39_word_space_8 | wink physical empty pond physical bundle indoor velvet |  
 | bip_39_word_space_9 | wink physical empty pond physical bundle indoor velvet walk |  
+| bip_39_word_underscore_1 | wink |  
+| bip_39_word_underscore_10 | wink_physical_empty_pond_physical_bundle_indoor_velvet_walk_violin |  
+| bip_39_word_underscore_11 | wink_physical_empty_pond_physical_bundle_indoor_velvet_walk_violin_trust |  
+| bip_39_word_underscore_12 | wink_physical_empty_pond_physical_bundle_indoor_velvet_walk_violin_trust_army |  
+| bip_39_word_underscore_2 | wink_physical |  
+| bip_39_word_underscore_3 | wink_physical_empty |  
+| bip_39_word_underscore_4 | wink_physical_empty_pond |  
+| bip_39_word_underscore_5 | wink_physical_empty_pond_physical |  
+| bip_39_word_underscore_6 | wink_physical_empty_pond_physical_bundle |  
+| bip_39_word_underscore_7 | wink_physical_empty_pond_physical_bundle_indoor |  
+| bip_39_word_underscore_8 | wink_physical_empty_pond_physical_bundle_indoor_velvet |  
+| bip_39_word_underscore_9 | wink_physical_empty_pond_physical_bundle_indoor_velvet_walk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

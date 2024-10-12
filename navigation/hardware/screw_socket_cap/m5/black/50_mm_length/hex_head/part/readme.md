@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | miss |  
+| bip_39_word_dash_10 | miss-hawk-husband-barely-icon-rapid-nephew-trend-pottery-athlete |  
+| bip_39_word_dash_11 | miss-hawk-husband-barely-icon-rapid-nephew-trend-pottery-athlete-amount |  
+| bip_39_word_dash_12 | miss-hawk-husband-barely-icon-rapid-nephew-trend-pottery-athlete-amount-arm |  
+| bip_39_word_dash_2 | miss-hawk |  
+| bip_39_word_dash_3 | miss-hawk-husband |  
+| bip_39_word_dash_4 | miss-hawk-husband-barely |  
+| bip_39_word_dash_5 | miss-hawk-husband-barely-icon |  
+| bip_39_word_dash_6 | miss-hawk-husband-barely-icon-rapid |  
+| bip_39_word_dash_7 | miss-hawk-husband-barely-icon-rapid-nephew |  
+| bip_39_word_dash_8 | miss-hawk-husband-barely-icon-rapid-nephew-trend |  
+| bip_39_word_dash_9 | miss-hawk-husband-barely-icon-rapid-nephew-trend-pottery |  
 | bip_39_word_new_br_1 | miss |  
 | bip_39_word_new_br_10 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend<br>pottery<br>athlete |  
 | bip_39_word_new_br_11 | miss<br>hawk<br>husband<br>barely<br>icon<br>rapid<br>nephew<br>trend<br>pottery<br>athlete<br>amount |  
@@ -147,6 +159,18 @@ pottery |
 | bip_39_word_space_7 | miss hawk husband barely icon rapid nephew |  
 | bip_39_word_space_8 | miss hawk husband barely icon rapid nephew trend |  
 | bip_39_word_space_9 | miss hawk husband barely icon rapid nephew trend pottery |  
+| bip_39_word_underscore_1 | miss |  
+| bip_39_word_underscore_10 | miss_hawk_husband_barely_icon_rapid_nephew_trend_pottery_athlete |  
+| bip_39_word_underscore_11 | miss_hawk_husband_barely_icon_rapid_nephew_trend_pottery_athlete_amount |  
+| bip_39_word_underscore_12 | miss_hawk_husband_barely_icon_rapid_nephew_trend_pottery_athlete_amount_arm |  
+| bip_39_word_underscore_2 | miss_hawk |  
+| bip_39_word_underscore_3 | miss_hawk_husband |  
+| bip_39_word_underscore_4 | miss_hawk_husband_barely |  
+| bip_39_word_underscore_5 | miss_hawk_husband_barely_icon |  
+| bip_39_word_underscore_6 | miss_hawk_husband_barely_icon_rapid |  
+| bip_39_word_underscore_7 | miss_hawk_husband_barely_icon_rapid_nephew |  
+| bip_39_word_underscore_8 | miss_hawk_husband_barely_icon_rapid_nephew_trend |  
+| bip_39_word_underscore_9 | miss_hawk_husband_barely_icon_rapid_nephew_trend_pottery |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

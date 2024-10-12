@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | story |  
+| bip_39_word_dash_10 | story-possible-fix-lumber-antenna-advice-wonder-index-obey-wet |  
+| bip_39_word_dash_11 | story-possible-fix-lumber-antenna-advice-wonder-index-obey-wet-fee |  
+| bip_39_word_dash_12 | story-possible-fix-lumber-antenna-advice-wonder-index-obey-wet-fee-artwork |  
+| bip_39_word_dash_2 | story-possible |  
+| bip_39_word_dash_3 | story-possible-fix |  
+| bip_39_word_dash_4 | story-possible-fix-lumber |  
+| bip_39_word_dash_5 | story-possible-fix-lumber-antenna |  
+| bip_39_word_dash_6 | story-possible-fix-lumber-antenna-advice |  
+| bip_39_word_dash_7 | story-possible-fix-lumber-antenna-advice-wonder |  
+| bip_39_word_dash_8 | story-possible-fix-lumber-antenna-advice-wonder-index |  
+| bip_39_word_dash_9 | story-possible-fix-lumber-antenna-advice-wonder-index-obey |  
 | bip_39_word_new_br_1 | story |  
 | bip_39_word_new_br_10 | story<br>possible<br>fix<br>lumber<br>antenna<br>advice<br>wonder<br>index<br>obey<br>wet |  
 | bip_39_word_new_br_11 | story<br>possible<br>fix<br>lumber<br>antenna<br>advice<br>wonder<br>index<br>obey<br>wet<br>fee |  
@@ -147,6 +159,18 @@ obey |
 | bip_39_word_space_7 | story possible fix lumber antenna advice wonder |  
 | bip_39_word_space_8 | story possible fix lumber antenna advice wonder index |  
 | bip_39_word_space_9 | story possible fix lumber antenna advice wonder index obey |  
+| bip_39_word_underscore_1 | story |  
+| bip_39_word_underscore_10 | story_possible_fix_lumber_antenna_advice_wonder_index_obey_wet |  
+| bip_39_word_underscore_11 | story_possible_fix_lumber_antenna_advice_wonder_index_obey_wet_fee |  
+| bip_39_word_underscore_12 | story_possible_fix_lumber_antenna_advice_wonder_index_obey_wet_fee_artwork |  
+| bip_39_word_underscore_2 | story_possible |  
+| bip_39_word_underscore_3 | story_possible_fix |  
+| bip_39_word_underscore_4 | story_possible_fix_lumber |  
+| bip_39_word_underscore_5 | story_possible_fix_lumber_antenna |  
+| bip_39_word_underscore_6 | story_possible_fix_lumber_antenna_advice |  
+| bip_39_word_underscore_7 | story_possible_fix_lumber_antenna_advice_wonder |  
+| bip_39_word_underscore_8 | story_possible_fix_lumber_antenna_advice_wonder_index |  
+| bip_39_word_underscore_9 | story_possible_fix_lumber_antenna_advice_wonder_index_obey |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

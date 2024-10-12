@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leaf
+bip_39_word_dash_10: leaf-leisure-vanish-gloom-donkey-faint-image-quantum-depend-adult
+bip_39_word_dash_11: leaf-leisure-vanish-gloom-donkey-faint-image-quantum-depend-adult-tomorrow
+bip_39_word_dash_12: leaf-leisure-vanish-gloom-donkey-faint-image-quantum-depend-adult-tomorrow-angle
+bip_39_word_dash_2: leaf-leisure
+bip_39_word_dash_3: leaf-leisure-vanish
+bip_39_word_dash_4: leaf-leisure-vanish-gloom
+bip_39_word_dash_5: leaf-leisure-vanish-gloom-donkey
+bip_39_word_dash_6: leaf-leisure-vanish-gloom-donkey-faint
+bip_39_word_dash_7: leaf-leisure-vanish-gloom-donkey-faint-image
+bip_39_word_dash_8: leaf-leisure-vanish-gloom-donkey-faint-image-quantum
+bip_39_word_dash_9: leaf-leisure-vanish-gloom-donkey-faint-image-quantum-depend
 bip_39_word_new_br_1: leaf
 bip_39_word_new_br_10: leaf<br>leisure<br>vanish<br>gloom<br>donkey<br>faint<br>image<br>quantum<br>depend<br>adult
 bip_39_word_new_br_11: leaf<br>leisure<br>vanish<br>gloom<br>donkey<br>faint<br>image<br>quantum<br>depend<br>adult<br>tomorrow
@@ -194,6 +206,18 @@ bip_39_word_space_6: leaf leisure vanish gloom donkey faint
 bip_39_word_space_7: leaf leisure vanish gloom donkey faint image
 bip_39_word_space_8: leaf leisure vanish gloom donkey faint image quantum
 bip_39_word_space_9: leaf leisure vanish gloom donkey faint image quantum depend
+bip_39_word_underscore_1: leaf
+bip_39_word_underscore_10: leaf_leisure_vanish_gloom_donkey_faint_image_quantum_depend_adult
+bip_39_word_underscore_11: leaf_leisure_vanish_gloom_donkey_faint_image_quantum_depend_adult_tomorrow
+bip_39_word_underscore_12: leaf_leisure_vanish_gloom_donkey_faint_image_quantum_depend_adult_tomorrow_angle
+bip_39_word_underscore_2: leaf_leisure
+bip_39_word_underscore_3: leaf_leisure_vanish
+bip_39_word_underscore_4: leaf_leisure_vanish_gloom
+bip_39_word_underscore_5: leaf_leisure_vanish_gloom_donkey
+bip_39_word_underscore_6: leaf_leisure_vanish_gloom_donkey_faint
+bip_39_word_underscore_7: leaf_leisure_vanish_gloom_donkey_faint_image
+bip_39_word_underscore_8: leaf_leisure_vanish_gloom_donkey_faint_image_quantum
+bip_39_word_underscore_9: leaf_leisure_vanish_gloom_donkey_faint_image_quantum_depend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

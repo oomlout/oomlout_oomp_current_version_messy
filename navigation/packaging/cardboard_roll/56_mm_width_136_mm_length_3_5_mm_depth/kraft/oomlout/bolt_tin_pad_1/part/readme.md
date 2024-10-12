@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sign |  
+| bip_39_word_dash_10 | sign-hundred-trim-nest-arch-sense-upon-voice-elder-enact |  
+| bip_39_word_dash_11 | sign-hundred-trim-nest-arch-sense-upon-voice-elder-enact-boil |  
+| bip_39_word_dash_12 | sign-hundred-trim-nest-arch-sense-upon-voice-elder-enact-boil-another |  
+| bip_39_word_dash_2 | sign-hundred |  
+| bip_39_word_dash_3 | sign-hundred-trim |  
+| bip_39_word_dash_4 | sign-hundred-trim-nest |  
+| bip_39_word_dash_5 | sign-hundred-trim-nest-arch |  
+| bip_39_word_dash_6 | sign-hundred-trim-nest-arch-sense |  
+| bip_39_word_dash_7 | sign-hundred-trim-nest-arch-sense-upon |  
+| bip_39_word_dash_8 | sign-hundred-trim-nest-arch-sense-upon-voice |  
+| bip_39_word_dash_9 | sign-hundred-trim-nest-arch-sense-upon-voice-elder |  
 | bip_39_word_new_br_1 | sign |  
 | bip_39_word_new_br_10 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice<br>elder<br>enact |  
 | bip_39_word_new_br_11 | sign<br>hundred<br>trim<br>nest<br>arch<br>sense<br>upon<br>voice<br>elder<br>enact<br>boil |  
@@ -147,6 +159,18 @@ elder |
 | bip_39_word_space_7 | sign hundred trim nest arch sense upon |  
 | bip_39_word_space_8 | sign hundred trim nest arch sense upon voice |  
 | bip_39_word_space_9 | sign hundred trim nest arch sense upon voice elder |  
+| bip_39_word_underscore_1 | sign |  
+| bip_39_word_underscore_10 | sign_hundred_trim_nest_arch_sense_upon_voice_elder_enact |  
+| bip_39_word_underscore_11 | sign_hundred_trim_nest_arch_sense_upon_voice_elder_enact_boil |  
+| bip_39_word_underscore_12 | sign_hundred_trim_nest_arch_sense_upon_voice_elder_enact_boil_another |  
+| bip_39_word_underscore_2 | sign_hundred |  
+| bip_39_word_underscore_3 | sign_hundred_trim |  
+| bip_39_word_underscore_4 | sign_hundred_trim_nest |  
+| bip_39_word_underscore_5 | sign_hundred_trim_nest_arch |  
+| bip_39_word_underscore_6 | sign_hundred_trim_nest_arch_sense |  
+| bip_39_word_underscore_7 | sign_hundred_trim_nest_arch_sense_upon |  
+| bip_39_word_underscore_8 | sign_hundred_trim_nest_arch_sense_upon_voice |  
+| bip_39_word_underscore_9 | sign_hundred_trim_nest_arch_sense_upon_voice_elder |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

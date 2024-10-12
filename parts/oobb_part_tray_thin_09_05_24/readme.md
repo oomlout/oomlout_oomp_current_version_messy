@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | urge |  
+| bip_39_word_dash_10 | urge-gallery-devote-hello-solution-music-great-exchange-soldier-hybrid |  
+| bip_39_word_dash_11 | urge-gallery-devote-hello-solution-music-great-exchange-soldier-hybrid-pole |  
+| bip_39_word_dash_12 | urge-gallery-devote-hello-solution-music-great-exchange-soldier-hybrid-pole-animal |  
+| bip_39_word_dash_2 | urge-gallery |  
+| bip_39_word_dash_3 | urge-gallery-devote |  
+| bip_39_word_dash_4 | urge-gallery-devote-hello |  
+| bip_39_word_dash_5 | urge-gallery-devote-hello-solution |  
+| bip_39_word_dash_6 | urge-gallery-devote-hello-solution-music |  
+| bip_39_word_dash_7 | urge-gallery-devote-hello-solution-music-great |  
+| bip_39_word_dash_8 | urge-gallery-devote-hello-solution-music-great-exchange |  
+| bip_39_word_dash_9 | urge-gallery-devote-hello-solution-music-great-exchange-soldier |  
 | bip_39_word_new_br_1 | urge |  
 | bip_39_word_new_br_10 | urge<br>gallery<br>devote<br>hello<br>solution<br>music<br>great<br>exchange<br>soldier<br>hybrid |  
 | bip_39_word_new_br_11 | urge<br>gallery<br>devote<br>hello<br>solution<br>music<br>great<br>exchange<br>soldier<br>hybrid<br>pole |  
@@ -147,6 +159,18 @@ soldier |
 | bip_39_word_space_7 | urge gallery devote hello solution music great |  
 | bip_39_word_space_8 | urge gallery devote hello solution music great exchange |  
 | bip_39_word_space_9 | urge gallery devote hello solution music great exchange soldier |  
+| bip_39_word_underscore_1 | urge |  
+| bip_39_word_underscore_10 | urge_gallery_devote_hello_solution_music_great_exchange_soldier_hybrid |  
+| bip_39_word_underscore_11 | urge_gallery_devote_hello_solution_music_great_exchange_soldier_hybrid_pole |  
+| bip_39_word_underscore_12 | urge_gallery_devote_hello_solution_music_great_exchange_soldier_hybrid_pole_animal |  
+| bip_39_word_underscore_2 | urge_gallery |  
+| bip_39_word_underscore_3 | urge_gallery_devote |  
+| bip_39_word_underscore_4 | urge_gallery_devote_hello |  
+| bip_39_word_underscore_5 | urge_gallery_devote_hello_solution |  
+| bip_39_word_underscore_6 | urge_gallery_devote_hello_solution_music |  
+| bip_39_word_underscore_7 | urge_gallery_devote_hello_solution_music_great |  
+| bip_39_word_underscore_8 | urge_gallery_devote_hello_solution_music_great_exchange |  
+| bip_39_word_underscore_9 | urge_gallery_devote_hello_solution_music_great_exchange_soldier |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

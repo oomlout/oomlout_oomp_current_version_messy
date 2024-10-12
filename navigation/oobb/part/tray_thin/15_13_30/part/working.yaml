@@ -1,3 +1,15 @@
+bip_39_word_dash_1: snake
+bip_39_word_dash_10: snake-member-plug-during-garage-dad-anchor-family-wall-palm
+bip_39_word_dash_11: snake-member-plug-during-garage-dad-anchor-family-wall-palm-short
+bip_39_word_dash_12: snake-member-plug-during-garage-dad-anchor-family-wall-palm-short-average
+bip_39_word_dash_2: snake-member
+bip_39_word_dash_3: snake-member-plug
+bip_39_word_dash_4: snake-member-plug-during
+bip_39_word_dash_5: snake-member-plug-during-garage
+bip_39_word_dash_6: snake-member-plug-during-garage-dad
+bip_39_word_dash_7: snake-member-plug-during-garage-dad-anchor
+bip_39_word_dash_8: snake-member-plug-during-garage-dad-anchor-family
+bip_39_word_dash_9: snake-member-plug-during-garage-dad-anchor-family-wall
 bip_39_word_new_br_1: snake
 bip_39_word_new_br_10: snake<br>member<br>plug<br>during<br>garage<br>dad<br>anchor<br>family<br>wall<br>palm
 bip_39_word_new_br_11: snake<br>member<br>plug<br>during<br>garage<br>dad<br>anchor<br>family<br>wall<br>palm<br>short
@@ -193,6 +205,18 @@ bip_39_word_space_6: snake member plug during garage dad
 bip_39_word_space_7: snake member plug during garage dad anchor
 bip_39_word_space_8: snake member plug during garage dad anchor family
 bip_39_word_space_9: snake member plug during garage dad anchor family wall
+bip_39_word_underscore_1: snake
+bip_39_word_underscore_10: snake_member_plug_during_garage_dad_anchor_family_wall_palm
+bip_39_word_underscore_11: snake_member_plug_during_garage_dad_anchor_family_wall_palm_short
+bip_39_word_underscore_12: snake_member_plug_during_garage_dad_anchor_family_wall_palm_short_average
+bip_39_word_underscore_2: snake_member
+bip_39_word_underscore_3: snake_member_plug
+bip_39_word_underscore_4: snake_member_plug_during
+bip_39_word_underscore_5: snake_member_plug_during_garage
+bip_39_word_underscore_6: snake_member_plug_during_garage_dad
+bip_39_word_underscore_7: snake_member_plug_during_garage_dad_anchor
+bip_39_word_underscore_8: snake_member_plug_during_garage_dad_anchor_family
+bip_39_word_underscore_9: snake_member_plug_during_garage_dad_anchor_family_wall
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

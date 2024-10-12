@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exclude |  
+| bip_39_word_dash_10 | exclude-purpose-start-seven-oppose-debate-praise-wasp-helmet-scheme |  
+| bip_39_word_dash_11 | exclude-purpose-start-seven-oppose-debate-praise-wasp-helmet-scheme-pizza |  
+| bip_39_word_dash_12 | exclude-purpose-start-seven-oppose-debate-praise-wasp-helmet-scheme-pizza-appear |  
+| bip_39_word_dash_2 | exclude-purpose |  
+| bip_39_word_dash_3 | exclude-purpose-start |  
+| bip_39_word_dash_4 | exclude-purpose-start-seven |  
+| bip_39_word_dash_5 | exclude-purpose-start-seven-oppose |  
+| bip_39_word_dash_6 | exclude-purpose-start-seven-oppose-debate |  
+| bip_39_word_dash_7 | exclude-purpose-start-seven-oppose-debate-praise |  
+| bip_39_word_dash_8 | exclude-purpose-start-seven-oppose-debate-praise-wasp |  
+| bip_39_word_dash_9 | exclude-purpose-start-seven-oppose-debate-praise-wasp-helmet |  
 | bip_39_word_new_br_1 | exclude |  
 | bip_39_word_new_br_10 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme |  
 | bip_39_word_new_br_11 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme<br>pizza |  
@@ -147,6 +159,18 @@ helmet |
 | bip_39_word_space_7 | exclude purpose start seven oppose debate praise |  
 | bip_39_word_space_8 | exclude purpose start seven oppose debate praise wasp |  
 | bip_39_word_space_9 | exclude purpose start seven oppose debate praise wasp helmet |  
+| bip_39_word_underscore_1 | exclude |  
+| bip_39_word_underscore_10 | exclude_purpose_start_seven_oppose_debate_praise_wasp_helmet_scheme |  
+| bip_39_word_underscore_11 | exclude_purpose_start_seven_oppose_debate_praise_wasp_helmet_scheme_pizza |  
+| bip_39_word_underscore_12 | exclude_purpose_start_seven_oppose_debate_praise_wasp_helmet_scheme_pizza_appear |  
+| bip_39_word_underscore_2 | exclude_purpose |  
+| bip_39_word_underscore_3 | exclude_purpose_start |  
+| bip_39_word_underscore_4 | exclude_purpose_start_seven |  
+| bip_39_word_underscore_5 | exclude_purpose_start_seven_oppose |  
+| bip_39_word_underscore_6 | exclude_purpose_start_seven_oppose_debate |  
+| bip_39_word_underscore_7 | exclude_purpose_start_seven_oppose_debate_praise |  
+| bip_39_word_underscore_8 | exclude_purpose_start_seven_oppose_debate_praise_wasp |  
+| bip_39_word_underscore_9 | exclude_purpose_start_seven_oppose_debate_praise_wasp_helmet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

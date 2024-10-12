@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cool
+bip_39_word_dash_10: cool-liar-resemble-snack-real-valley-wild-electric-animal-concert
+bip_39_word_dash_11: cool-liar-resemble-snack-real-valley-wild-electric-animal-concert-write
+bip_39_word_dash_12: cool-liar-resemble-snack-real-valley-wild-electric-animal-concert-write-amount
+bip_39_word_dash_2: cool-liar
+bip_39_word_dash_3: cool-liar-resemble
+bip_39_word_dash_4: cool-liar-resemble-snack
+bip_39_word_dash_5: cool-liar-resemble-snack-real
+bip_39_word_dash_6: cool-liar-resemble-snack-real-valley
+bip_39_word_dash_7: cool-liar-resemble-snack-real-valley-wild
+bip_39_word_dash_8: cool-liar-resemble-snack-real-valley-wild-electric
+bip_39_word_dash_9: cool-liar-resemble-snack-real-valley-wild-electric-animal
 bip_39_word_new_br_1: cool
 bip_39_word_new_br_10: cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert
 bip_39_word_new_br_11: cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert<br>write
@@ -193,6 +205,18 @@ bip_39_word_space_6: cool liar resemble snack real valley
 bip_39_word_space_7: cool liar resemble snack real valley wild
 bip_39_word_space_8: cool liar resemble snack real valley wild electric
 bip_39_word_space_9: cool liar resemble snack real valley wild electric animal
+bip_39_word_underscore_1: cool
+bip_39_word_underscore_10: cool_liar_resemble_snack_real_valley_wild_electric_animal_concert
+bip_39_word_underscore_11: cool_liar_resemble_snack_real_valley_wild_electric_animal_concert_write
+bip_39_word_underscore_12: cool_liar_resemble_snack_real_valley_wild_electric_animal_concert_write_amount
+bip_39_word_underscore_2: cool_liar
+bip_39_word_underscore_3: cool_liar_resemble
+bip_39_word_underscore_4: cool_liar_resemble_snack
+bip_39_word_underscore_5: cool_liar_resemble_snack_real
+bip_39_word_underscore_6: cool_liar_resemble_snack_real_valley
+bip_39_word_underscore_7: cool_liar_resemble_snack_real_valley_wild
+bip_39_word_underscore_8: cool_liar_resemble_snack_real_valley_wild_electric
+bip_39_word_underscore_9: cool_liar_resemble_snack_real_valley_wild_electric_animal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rule |  
+| bip_39_word_dash_10 | rule-sun-bamboo-prison-gain-shove-hazard-choice-tip-seven |  
+| bip_39_word_dash_11 | rule-sun-bamboo-prison-gain-shove-hazard-choice-tip-seven-merge |  
+| bip_39_word_dash_12 | rule-sun-bamboo-prison-gain-shove-hazard-choice-tip-seven-merge-amateur |  
+| bip_39_word_dash_2 | rule-sun |  
+| bip_39_word_dash_3 | rule-sun-bamboo |  
+| bip_39_word_dash_4 | rule-sun-bamboo-prison |  
+| bip_39_word_dash_5 | rule-sun-bamboo-prison-gain |  
+| bip_39_word_dash_6 | rule-sun-bamboo-prison-gain-shove |  
+| bip_39_word_dash_7 | rule-sun-bamboo-prison-gain-shove-hazard |  
+| bip_39_word_dash_8 | rule-sun-bamboo-prison-gain-shove-hazard-choice |  
+| bip_39_word_dash_9 | rule-sun-bamboo-prison-gain-shove-hazard-choice-tip |  
 | bip_39_word_new_br_1 | rule |  
 | bip_39_word_new_br_10 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice<br>tip<br>seven |  
 | bip_39_word_new_br_11 | rule<br>sun<br>bamboo<br>prison<br>gain<br>shove<br>hazard<br>choice<br>tip<br>seven<br>merge |  
@@ -147,6 +159,18 @@ tip |
 | bip_39_word_space_7 | rule sun bamboo prison gain shove hazard |  
 | bip_39_word_space_8 | rule sun bamboo prison gain shove hazard choice |  
 | bip_39_word_space_9 | rule sun bamboo prison gain shove hazard choice tip |  
+| bip_39_word_underscore_1 | rule |  
+| bip_39_word_underscore_10 | rule_sun_bamboo_prison_gain_shove_hazard_choice_tip_seven |  
+| bip_39_word_underscore_11 | rule_sun_bamboo_prison_gain_shove_hazard_choice_tip_seven_merge |  
+| bip_39_word_underscore_12 | rule_sun_bamboo_prison_gain_shove_hazard_choice_tip_seven_merge_amateur |  
+| bip_39_word_underscore_2 | rule_sun |  
+| bip_39_word_underscore_3 | rule_sun_bamboo |  
+| bip_39_word_underscore_4 | rule_sun_bamboo_prison |  
+| bip_39_word_underscore_5 | rule_sun_bamboo_prison_gain |  
+| bip_39_word_underscore_6 | rule_sun_bamboo_prison_gain_shove |  
+| bip_39_word_underscore_7 | rule_sun_bamboo_prison_gain_shove_hazard |  
+| bip_39_word_underscore_8 | rule_sun_bamboo_prison_gain_shove_hazard_choice |  
+| bip_39_word_underscore_9 | rule_sun_bamboo_prison_gain_shove_hazard_choice_tip |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

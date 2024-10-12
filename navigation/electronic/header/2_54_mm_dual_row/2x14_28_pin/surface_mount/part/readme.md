@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | utility |  
+| bip_39_word_dash_10 | utility-normal-day-shadow-point-ball-pact-laptop-short-bottom |  
+| bip_39_word_dash_11 | utility-normal-day-shadow-point-ball-pact-laptop-short-bottom-spatial |  
+| bip_39_word_dash_12 | utility-normal-day-shadow-point-ball-pact-laptop-short-bottom-spatial-alarm |  
+| bip_39_word_dash_2 | utility-normal |  
+| bip_39_word_dash_3 | utility-normal-day |  
+| bip_39_word_dash_4 | utility-normal-day-shadow |  
+| bip_39_word_dash_5 | utility-normal-day-shadow-point |  
+| bip_39_word_dash_6 | utility-normal-day-shadow-point-ball |  
+| bip_39_word_dash_7 | utility-normal-day-shadow-point-ball-pact |  
+| bip_39_word_dash_8 | utility-normal-day-shadow-point-ball-pact-laptop |  
+| bip_39_word_dash_9 | utility-normal-day-shadow-point-ball-pact-laptop-short |  
 | bip_39_word_new_br_1 | utility |  
 | bip_39_word_new_br_10 | utility<br>normal<br>day<br>shadow<br>point<br>ball<br>pact<br>laptop<br>short<br>bottom |  
 | bip_39_word_new_br_11 | utility<br>normal<br>day<br>shadow<br>point<br>ball<br>pact<br>laptop<br>short<br>bottom<br>spatial |  
@@ -147,6 +159,18 @@ short |
 | bip_39_word_space_7 | utility normal day shadow point ball pact |  
 | bip_39_word_space_8 | utility normal day shadow point ball pact laptop |  
 | bip_39_word_space_9 | utility normal day shadow point ball pact laptop short |  
+| bip_39_word_underscore_1 | utility |  
+| bip_39_word_underscore_10 | utility_normal_day_shadow_point_ball_pact_laptop_short_bottom |  
+| bip_39_word_underscore_11 | utility_normal_day_shadow_point_ball_pact_laptop_short_bottom_spatial |  
+| bip_39_word_underscore_12 | utility_normal_day_shadow_point_ball_pact_laptop_short_bottom_spatial_alarm |  
+| bip_39_word_underscore_2 | utility_normal |  
+| bip_39_word_underscore_3 | utility_normal_day |  
+| bip_39_word_underscore_4 | utility_normal_day_shadow |  
+| bip_39_word_underscore_5 | utility_normal_day_shadow_point |  
+| bip_39_word_underscore_6 | utility_normal_day_shadow_point_ball |  
+| bip_39_word_underscore_7 | utility_normal_day_shadow_point_ball_pact |  
+| bip_39_word_underscore_8 | utility_normal_day_shadow_point_ball_pact_laptop |  
+| bip_39_word_underscore_9 | utility_normal_day_shadow_point_ball_pact_laptop_short |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

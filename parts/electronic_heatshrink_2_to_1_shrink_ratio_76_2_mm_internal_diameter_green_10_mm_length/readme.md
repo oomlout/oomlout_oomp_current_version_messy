@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | awkward |  
+| bip_39_word_dash_10 | awkward-dash-power-staff-immune-evil-metal-empty-fury-quality |  
+| bip_39_word_dash_11 | awkward-dash-power-staff-immune-evil-metal-empty-fury-quality-brain |  
+| bip_39_word_dash_12 | awkward-dash-power-staff-immune-evil-metal-empty-fury-quality-brain-athlete |  
+| bip_39_word_dash_2 | awkward-dash |  
+| bip_39_word_dash_3 | awkward-dash-power |  
+| bip_39_word_dash_4 | awkward-dash-power-staff |  
+| bip_39_word_dash_5 | awkward-dash-power-staff-immune |  
+| bip_39_word_dash_6 | awkward-dash-power-staff-immune-evil |  
+| bip_39_word_dash_7 | awkward-dash-power-staff-immune-evil-metal |  
+| bip_39_word_dash_8 | awkward-dash-power-staff-immune-evil-metal-empty |  
+| bip_39_word_dash_9 | awkward-dash-power-staff-immune-evil-metal-empty-fury |  
 | bip_39_word_new_br_1 | awkward |  
 | bip_39_word_new_br_10 | awkward<br>dash<br>power<br>staff<br>immune<br>evil<br>metal<br>empty<br>fury<br>quality |  
 | bip_39_word_new_br_11 | awkward<br>dash<br>power<br>staff<br>immune<br>evil<br>metal<br>empty<br>fury<br>quality<br>brain |  
@@ -147,6 +159,18 @@ fury |
 | bip_39_word_space_7 | awkward dash power staff immune evil metal |  
 | bip_39_word_space_8 | awkward dash power staff immune evil metal empty |  
 | bip_39_word_space_9 | awkward dash power staff immune evil metal empty fury |  
+| bip_39_word_underscore_1 | awkward |  
+| bip_39_word_underscore_10 | awkward_dash_power_staff_immune_evil_metal_empty_fury_quality |  
+| bip_39_word_underscore_11 | awkward_dash_power_staff_immune_evil_metal_empty_fury_quality_brain |  
+| bip_39_word_underscore_12 | awkward_dash_power_staff_immune_evil_metal_empty_fury_quality_brain_athlete |  
+| bip_39_word_underscore_2 | awkward_dash |  
+| bip_39_word_underscore_3 | awkward_dash_power |  
+| bip_39_word_underscore_4 | awkward_dash_power_staff |  
+| bip_39_word_underscore_5 | awkward_dash_power_staff_immune |  
+| bip_39_word_underscore_6 | awkward_dash_power_staff_immune_evil |  
+| bip_39_word_underscore_7 | awkward_dash_power_staff_immune_evil_metal |  
+| bip_39_word_underscore_8 | awkward_dash_power_staff_immune_evil_metal_empty |  
+| bip_39_word_underscore_9 | awkward_dash_power_staff_immune_evil_metal_empty_fury |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

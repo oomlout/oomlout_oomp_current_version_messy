@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inquiry
+bip_39_word_dash_10: inquiry-tortoise-clinic-plate-gun-fiction-news-erosion-write-benefit
+bip_39_word_dash_11: inquiry-tortoise-clinic-plate-gun-fiction-news-erosion-write-benefit-club
+bip_39_word_dash_12: inquiry-tortoise-clinic-plate-gun-fiction-news-erosion-write-benefit-club-alley
+bip_39_word_dash_2: inquiry-tortoise
+bip_39_word_dash_3: inquiry-tortoise-clinic
+bip_39_word_dash_4: inquiry-tortoise-clinic-plate
+bip_39_word_dash_5: inquiry-tortoise-clinic-plate-gun
+bip_39_word_dash_6: inquiry-tortoise-clinic-plate-gun-fiction
+bip_39_word_dash_7: inquiry-tortoise-clinic-plate-gun-fiction-news
+bip_39_word_dash_8: inquiry-tortoise-clinic-plate-gun-fiction-news-erosion
+bip_39_word_dash_9: inquiry-tortoise-clinic-plate-gun-fiction-news-erosion-write
 bip_39_word_new_br_1: inquiry
 bip_39_word_new_br_10: inquiry<br>tortoise<br>clinic<br>plate<br>gun<br>fiction<br>news<br>erosion<br>write<br>benefit
 bip_39_word_new_br_11: inquiry<br>tortoise<br>clinic<br>plate<br>gun<br>fiction<br>news<br>erosion<br>write<br>benefit<br>club
@@ -194,6 +206,18 @@ bip_39_word_space_6: inquiry tortoise clinic plate gun fiction
 bip_39_word_space_7: inquiry tortoise clinic plate gun fiction news
 bip_39_word_space_8: inquiry tortoise clinic plate gun fiction news erosion
 bip_39_word_space_9: inquiry tortoise clinic plate gun fiction news erosion write
+bip_39_word_underscore_1: inquiry
+bip_39_word_underscore_10: inquiry_tortoise_clinic_plate_gun_fiction_news_erosion_write_benefit
+bip_39_word_underscore_11: inquiry_tortoise_clinic_plate_gun_fiction_news_erosion_write_benefit_club
+bip_39_word_underscore_12: inquiry_tortoise_clinic_plate_gun_fiction_news_erosion_write_benefit_club_alley
+bip_39_word_underscore_2: inquiry_tortoise
+bip_39_word_underscore_3: inquiry_tortoise_clinic
+bip_39_word_underscore_4: inquiry_tortoise_clinic_plate
+bip_39_word_underscore_5: inquiry_tortoise_clinic_plate_gun
+bip_39_word_underscore_6: inquiry_tortoise_clinic_plate_gun_fiction
+bip_39_word_underscore_7: inquiry_tortoise_clinic_plate_gun_fiction_news
+bip_39_word_underscore_8: inquiry_tortoise_clinic_plate_gun_fiction_news_erosion
+bip_39_word_underscore_9: inquiry_tortoise_clinic_plate_gun_fiction_news_erosion_write
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

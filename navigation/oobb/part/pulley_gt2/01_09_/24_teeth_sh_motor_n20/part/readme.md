@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | luggage |  
+| bip_39_word_dash_10 | luggage-spray-duty-pottery-culture-turn-crush-talk-talent-dad |  
+| bip_39_word_dash_11 | luggage-spray-duty-pottery-culture-turn-crush-talk-talent-dad-dolphin |  
+| bip_39_word_dash_12 | luggage-spray-duty-pottery-culture-turn-crush-talk-talent-dad-dolphin-aisle |  
+| bip_39_word_dash_2 | luggage-spray |  
+| bip_39_word_dash_3 | luggage-spray-duty |  
+| bip_39_word_dash_4 | luggage-spray-duty-pottery |  
+| bip_39_word_dash_5 | luggage-spray-duty-pottery-culture |  
+| bip_39_word_dash_6 | luggage-spray-duty-pottery-culture-turn |  
+| bip_39_word_dash_7 | luggage-spray-duty-pottery-culture-turn-crush |  
+| bip_39_word_dash_8 | luggage-spray-duty-pottery-culture-turn-crush-talk |  
+| bip_39_word_dash_9 | luggage-spray-duty-pottery-culture-turn-crush-talk-talent |  
 | bip_39_word_new_br_1 | luggage |  
 | bip_39_word_new_br_10 | luggage<br>spray<br>duty<br>pottery<br>culture<br>turn<br>crush<br>talk<br>talent<br>dad |  
 | bip_39_word_new_br_11 | luggage<br>spray<br>duty<br>pottery<br>culture<br>turn<br>crush<br>talk<br>talent<br>dad<br>dolphin |  
@@ -147,6 +159,18 @@ talent |
 | bip_39_word_space_7 | luggage spray duty pottery culture turn crush |  
 | bip_39_word_space_8 | luggage spray duty pottery culture turn crush talk |  
 | bip_39_word_space_9 | luggage spray duty pottery culture turn crush talk talent |  
+| bip_39_word_underscore_1 | luggage |  
+| bip_39_word_underscore_10 | luggage_spray_duty_pottery_culture_turn_crush_talk_talent_dad |  
+| bip_39_word_underscore_11 | luggage_spray_duty_pottery_culture_turn_crush_talk_talent_dad_dolphin |  
+| bip_39_word_underscore_12 | luggage_spray_duty_pottery_culture_turn_crush_talk_talent_dad_dolphin_aisle |  
+| bip_39_word_underscore_2 | luggage_spray |  
+| bip_39_word_underscore_3 | luggage_spray_duty |  
+| bip_39_word_underscore_4 | luggage_spray_duty_pottery |  
+| bip_39_word_underscore_5 | luggage_spray_duty_pottery_culture |  
+| bip_39_word_underscore_6 | luggage_spray_duty_pottery_culture_turn |  
+| bip_39_word_underscore_7 | luggage_spray_duty_pottery_culture_turn_crush |  
+| bip_39_word_underscore_8 | luggage_spray_duty_pottery_culture_turn_crush_talk |  
+| bip_39_word_underscore_9 | luggage_spray_duty_pottery_culture_turn_crush_talk_talent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

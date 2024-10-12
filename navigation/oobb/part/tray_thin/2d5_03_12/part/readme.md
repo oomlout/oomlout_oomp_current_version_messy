@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fragile |  
+| bip_39_word_dash_10 | fragile-side-copper-believe-black-curious-pupil-fury-quick-capable |  
+| bip_39_word_dash_11 | fragile-side-copper-believe-black-curious-pupil-fury-quick-capable-great |  
+| bip_39_word_dash_12 | fragile-side-copper-believe-black-curious-pupil-fury-quick-capable-great-angry |  
+| bip_39_word_dash_2 | fragile-side |  
+| bip_39_word_dash_3 | fragile-side-copper |  
+| bip_39_word_dash_4 | fragile-side-copper-believe |  
+| bip_39_word_dash_5 | fragile-side-copper-believe-black |  
+| bip_39_word_dash_6 | fragile-side-copper-believe-black-curious |  
+| bip_39_word_dash_7 | fragile-side-copper-believe-black-curious-pupil |  
+| bip_39_word_dash_8 | fragile-side-copper-believe-black-curious-pupil-fury |  
+| bip_39_word_dash_9 | fragile-side-copper-believe-black-curious-pupil-fury-quick |  
 | bip_39_word_new_br_1 | fragile |  
 | bip_39_word_new_br_10 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury<br>quick<br>capable |  
 | bip_39_word_new_br_11 | fragile<br>side<br>copper<br>believe<br>black<br>curious<br>pupil<br>fury<br>quick<br>capable<br>great |  
@@ -147,6 +159,18 @@ quick |
 | bip_39_word_space_7 | fragile side copper believe black curious pupil |  
 | bip_39_word_space_8 | fragile side copper believe black curious pupil fury |  
 | bip_39_word_space_9 | fragile side copper believe black curious pupil fury quick |  
+| bip_39_word_underscore_1 | fragile |  
+| bip_39_word_underscore_10 | fragile_side_copper_believe_black_curious_pupil_fury_quick_capable |  
+| bip_39_word_underscore_11 | fragile_side_copper_believe_black_curious_pupil_fury_quick_capable_great |  
+| bip_39_word_underscore_12 | fragile_side_copper_believe_black_curious_pupil_fury_quick_capable_great_angry |  
+| bip_39_word_underscore_2 | fragile_side |  
+| bip_39_word_underscore_3 | fragile_side_copper |  
+| bip_39_word_underscore_4 | fragile_side_copper_believe |  
+| bip_39_word_underscore_5 | fragile_side_copper_believe_black |  
+| bip_39_word_underscore_6 | fragile_side_copper_believe_black_curious |  
+| bip_39_word_underscore_7 | fragile_side_copper_believe_black_curious_pupil |  
+| bip_39_word_underscore_8 | fragile_side_copper_believe_black_curious_pupil_fury |  
+| bip_39_word_underscore_9 | fragile_side_copper_believe_black_curious_pupil_fury_quick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

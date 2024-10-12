@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inspire |  
+| bip_39_word_dash_10 | inspire-remember-ride-couple-sting-solar-punch-arrange-rebuild-unlock |  
+| bip_39_word_dash_11 | inspire-remember-ride-couple-sting-solar-punch-arrange-rebuild-unlock-fetch |  
+| bip_39_word_dash_12 | inspire-remember-ride-couple-sting-solar-punch-arrange-rebuild-unlock-fetch-angry |  
+| bip_39_word_dash_2 | inspire-remember |  
+| bip_39_word_dash_3 | inspire-remember-ride |  
+| bip_39_word_dash_4 | inspire-remember-ride-couple |  
+| bip_39_word_dash_5 | inspire-remember-ride-couple-sting |  
+| bip_39_word_dash_6 | inspire-remember-ride-couple-sting-solar |  
+| bip_39_word_dash_7 | inspire-remember-ride-couple-sting-solar-punch |  
+| bip_39_word_dash_8 | inspire-remember-ride-couple-sting-solar-punch-arrange |  
+| bip_39_word_dash_9 | inspire-remember-ride-couple-sting-solar-punch-arrange-rebuild |  
 | bip_39_word_new_br_1 | inspire |  
 | bip_39_word_new_br_10 | inspire<br>remember<br>ride<br>couple<br>sting<br>solar<br>punch<br>arrange<br>rebuild<br>unlock |  
 | bip_39_word_new_br_11 | inspire<br>remember<br>ride<br>couple<br>sting<br>solar<br>punch<br>arrange<br>rebuild<br>unlock<br>fetch |  
@@ -147,6 +159,18 @@ rebuild |
 | bip_39_word_space_7 | inspire remember ride couple sting solar punch |  
 | bip_39_word_space_8 | inspire remember ride couple sting solar punch arrange |  
 | bip_39_word_space_9 | inspire remember ride couple sting solar punch arrange rebuild |  
+| bip_39_word_underscore_1 | inspire |  
+| bip_39_word_underscore_10 | inspire_remember_ride_couple_sting_solar_punch_arrange_rebuild_unlock |  
+| bip_39_word_underscore_11 | inspire_remember_ride_couple_sting_solar_punch_arrange_rebuild_unlock_fetch |  
+| bip_39_word_underscore_12 | inspire_remember_ride_couple_sting_solar_punch_arrange_rebuild_unlock_fetch_angry |  
+| bip_39_word_underscore_2 | inspire_remember |  
+| bip_39_word_underscore_3 | inspire_remember_ride |  
+| bip_39_word_underscore_4 | inspire_remember_ride_couple |  
+| bip_39_word_underscore_5 | inspire_remember_ride_couple_sting |  
+| bip_39_word_underscore_6 | inspire_remember_ride_couple_sting_solar |  
+| bip_39_word_underscore_7 | inspire_remember_ride_couple_sting_solar_punch |  
+| bip_39_word_underscore_8 | inspire_remember_ride_couple_sting_solar_punch_arrange |  
+| bip_39_word_underscore_9 | inspire_remember_ride_couple_sting_solar_punch_arrange_rebuild |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

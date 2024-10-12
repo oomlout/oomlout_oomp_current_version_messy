@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inch |  
+| bip_39_word_dash_10 | inch-together-dinosaur-festival-return-dragon-lounge-chalk-novel-soup |  
+| bip_39_word_dash_11 | inch-together-dinosaur-festival-return-dragon-lounge-chalk-novel-soup-client |  
+| bip_39_word_dash_12 | inch-together-dinosaur-festival-return-dragon-lounge-chalk-novel-soup-client-author |  
+| bip_39_word_dash_2 | inch-together |  
+| bip_39_word_dash_3 | inch-together-dinosaur |  
+| bip_39_word_dash_4 | inch-together-dinosaur-festival |  
+| bip_39_word_dash_5 | inch-together-dinosaur-festival-return |  
+| bip_39_word_dash_6 | inch-together-dinosaur-festival-return-dragon |  
+| bip_39_word_dash_7 | inch-together-dinosaur-festival-return-dragon-lounge |  
+| bip_39_word_dash_8 | inch-together-dinosaur-festival-return-dragon-lounge-chalk |  
+| bip_39_word_dash_9 | inch-together-dinosaur-festival-return-dragon-lounge-chalk-novel |  
 | bip_39_word_new_br_1 | inch |  
 | bip_39_word_new_br_10 | inch<br>together<br>dinosaur<br>festival<br>return<br>dragon<br>lounge<br>chalk<br>novel<br>soup |  
 | bip_39_word_new_br_11 | inch<br>together<br>dinosaur<br>festival<br>return<br>dragon<br>lounge<br>chalk<br>novel<br>soup<br>client |  
@@ -147,6 +159,18 @@ novel |
 | bip_39_word_space_7 | inch together dinosaur festival return dragon lounge |  
 | bip_39_word_space_8 | inch together dinosaur festival return dragon lounge chalk |  
 | bip_39_word_space_9 | inch together dinosaur festival return dragon lounge chalk novel |  
+| bip_39_word_underscore_1 | inch |  
+| bip_39_word_underscore_10 | inch_together_dinosaur_festival_return_dragon_lounge_chalk_novel_soup |  
+| bip_39_word_underscore_11 | inch_together_dinosaur_festival_return_dragon_lounge_chalk_novel_soup_client |  
+| bip_39_word_underscore_12 | inch_together_dinosaur_festival_return_dragon_lounge_chalk_novel_soup_client_author |  
+| bip_39_word_underscore_2 | inch_together |  
+| bip_39_word_underscore_3 | inch_together_dinosaur |  
+| bip_39_word_underscore_4 | inch_together_dinosaur_festival |  
+| bip_39_word_underscore_5 | inch_together_dinosaur_festival_return |  
+| bip_39_word_underscore_6 | inch_together_dinosaur_festival_return_dragon |  
+| bip_39_word_underscore_7 | inch_together_dinosaur_festival_return_dragon_lounge |  
+| bip_39_word_underscore_8 | inch_together_dinosaur_festival_return_dragon_lounge_chalk |  
+| bip_39_word_underscore_9 | inch_together_dinosaur_festival_return_dragon_lounge_chalk_novel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

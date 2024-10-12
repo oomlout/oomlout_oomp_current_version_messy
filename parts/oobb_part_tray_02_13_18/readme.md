@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nurse |  
+| bip_39_word_dash_10 | nurse-pattern-boat-sweet-cash-knee-wife-road-spare-cute |  
+| bip_39_word_dash_11 | nurse-pattern-boat-sweet-cash-knee-wife-road-spare-cute-figure |  
+| bip_39_word_dash_12 | nurse-pattern-boat-sweet-cash-knee-wife-road-spare-cute-figure-absurd |  
+| bip_39_word_dash_2 | nurse-pattern |  
+| bip_39_word_dash_3 | nurse-pattern-boat |  
+| bip_39_word_dash_4 | nurse-pattern-boat-sweet |  
+| bip_39_word_dash_5 | nurse-pattern-boat-sweet-cash |  
+| bip_39_word_dash_6 | nurse-pattern-boat-sweet-cash-knee |  
+| bip_39_word_dash_7 | nurse-pattern-boat-sweet-cash-knee-wife |  
+| bip_39_word_dash_8 | nurse-pattern-boat-sweet-cash-knee-wife-road |  
+| bip_39_word_dash_9 | nurse-pattern-boat-sweet-cash-knee-wife-road-spare |  
 | bip_39_word_new_br_1 | nurse |  
 | bip_39_word_new_br_10 | nurse<br>pattern<br>boat<br>sweet<br>cash<br>knee<br>wife<br>road<br>spare<br>cute |  
 | bip_39_word_new_br_11 | nurse<br>pattern<br>boat<br>sweet<br>cash<br>knee<br>wife<br>road<br>spare<br>cute<br>figure |  
@@ -147,6 +159,18 @@ spare |
 | bip_39_word_space_7 | nurse pattern boat sweet cash knee wife |  
 | bip_39_word_space_8 | nurse pattern boat sweet cash knee wife road |  
 | bip_39_word_space_9 | nurse pattern boat sweet cash knee wife road spare |  
+| bip_39_word_underscore_1 | nurse |  
+| bip_39_word_underscore_10 | nurse_pattern_boat_sweet_cash_knee_wife_road_spare_cute |  
+| bip_39_word_underscore_11 | nurse_pattern_boat_sweet_cash_knee_wife_road_spare_cute_figure |  
+| bip_39_word_underscore_12 | nurse_pattern_boat_sweet_cash_knee_wife_road_spare_cute_figure_absurd |  
+| bip_39_word_underscore_2 | nurse_pattern |  
+| bip_39_word_underscore_3 | nurse_pattern_boat |  
+| bip_39_word_underscore_4 | nurse_pattern_boat_sweet |  
+| bip_39_word_underscore_5 | nurse_pattern_boat_sweet_cash |  
+| bip_39_word_underscore_6 | nurse_pattern_boat_sweet_cash_knee |  
+| bip_39_word_underscore_7 | nurse_pattern_boat_sweet_cash_knee_wife |  
+| bip_39_word_underscore_8 | nurse_pattern_boat_sweet_cash_knee_wife_road |  
+| bip_39_word_underscore_9 | nurse_pattern_boat_sweet_cash_knee_wife_road_spare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

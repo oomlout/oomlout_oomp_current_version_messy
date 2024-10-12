@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dirt |  
+| bip_39_word_dash_10 | dirt-lamp-second-dish-analyst-urge-hill-photo-faith-gown |  
+| bip_39_word_dash_11 | dirt-lamp-second-dish-analyst-urge-hill-photo-faith-gown-junk |  
+| bip_39_word_dash_12 | dirt-lamp-second-dish-analyst-urge-hill-photo-faith-gown-junk-apart |  
+| bip_39_word_dash_2 | dirt-lamp |  
+| bip_39_word_dash_3 | dirt-lamp-second |  
+| bip_39_word_dash_4 | dirt-lamp-second-dish |  
+| bip_39_word_dash_5 | dirt-lamp-second-dish-analyst |  
+| bip_39_word_dash_6 | dirt-lamp-second-dish-analyst-urge |  
+| bip_39_word_dash_7 | dirt-lamp-second-dish-analyst-urge-hill |  
+| bip_39_word_dash_8 | dirt-lamp-second-dish-analyst-urge-hill-photo |  
+| bip_39_word_dash_9 | dirt-lamp-second-dish-analyst-urge-hill-photo-faith |  
 | bip_39_word_new_br_1 | dirt |  
 | bip_39_word_new_br_10 | dirt<br>lamp<br>second<br>dish<br>analyst<br>urge<br>hill<br>photo<br>faith<br>gown |  
 | bip_39_word_new_br_11 | dirt<br>lamp<br>second<br>dish<br>analyst<br>urge<br>hill<br>photo<br>faith<br>gown<br>junk |  
@@ -147,6 +159,18 @@ faith |
 | bip_39_word_space_7 | dirt lamp second dish analyst urge hill |  
 | bip_39_word_space_8 | dirt lamp second dish analyst urge hill photo |  
 | bip_39_word_space_9 | dirt lamp second dish analyst urge hill photo faith |  
+| bip_39_word_underscore_1 | dirt |  
+| bip_39_word_underscore_10 | dirt_lamp_second_dish_analyst_urge_hill_photo_faith_gown |  
+| bip_39_word_underscore_11 | dirt_lamp_second_dish_analyst_urge_hill_photo_faith_gown_junk |  
+| bip_39_word_underscore_12 | dirt_lamp_second_dish_analyst_urge_hill_photo_faith_gown_junk_apart |  
+| bip_39_word_underscore_2 | dirt_lamp |  
+| bip_39_word_underscore_3 | dirt_lamp_second |  
+| bip_39_word_underscore_4 | dirt_lamp_second_dish |  
+| bip_39_word_underscore_5 | dirt_lamp_second_dish_analyst |  
+| bip_39_word_underscore_6 | dirt_lamp_second_dish_analyst_urge |  
+| bip_39_word_underscore_7 | dirt_lamp_second_dish_analyst_urge_hill |  
+| bip_39_word_underscore_8 | dirt_lamp_second_dish_analyst_urge_hill_photo |  
+| bip_39_word_underscore_9 | dirt_lamp_second_dish_analyst_urge_hill_photo_faith |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

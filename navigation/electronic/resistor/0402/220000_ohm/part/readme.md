@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crisp |  
+| bip_39_word_dash_10 | crisp-nose-pen-suffer-envelope-glance-receive-space-rival-picture |  
+| bip_39_word_dash_11 | crisp-nose-pen-suffer-envelope-glance-receive-space-rival-picture-sand |  
+| bip_39_word_dash_12 | crisp-nose-pen-suffer-envelope-glance-receive-space-rival-picture-sand-aerobic |  
+| bip_39_word_dash_2 | crisp-nose |  
+| bip_39_word_dash_3 | crisp-nose-pen |  
+| bip_39_word_dash_4 | crisp-nose-pen-suffer |  
+| bip_39_word_dash_5 | crisp-nose-pen-suffer-envelope |  
+| bip_39_word_dash_6 | crisp-nose-pen-suffer-envelope-glance |  
+| bip_39_word_dash_7 | crisp-nose-pen-suffer-envelope-glance-receive |  
+| bip_39_word_dash_8 | crisp-nose-pen-suffer-envelope-glance-receive-space |  
+| bip_39_word_dash_9 | crisp-nose-pen-suffer-envelope-glance-receive-space-rival |  
 | bip_39_word_new_br_1 | crisp |  
 | bip_39_word_new_br_10 | crisp<br>nose<br>pen<br>suffer<br>envelope<br>glance<br>receive<br>space<br>rival<br>picture |  
 | bip_39_word_new_br_11 | crisp<br>nose<br>pen<br>suffer<br>envelope<br>glance<br>receive<br>space<br>rival<br>picture<br>sand |  
@@ -147,6 +159,18 @@ rival |
 | bip_39_word_space_7 | crisp nose pen suffer envelope glance receive |  
 | bip_39_word_space_8 | crisp nose pen suffer envelope glance receive space |  
 | bip_39_word_space_9 | crisp nose pen suffer envelope glance receive space rival |  
+| bip_39_word_underscore_1 | crisp |  
+| bip_39_word_underscore_10 | crisp_nose_pen_suffer_envelope_glance_receive_space_rival_picture |  
+| bip_39_word_underscore_11 | crisp_nose_pen_suffer_envelope_glance_receive_space_rival_picture_sand |  
+| bip_39_word_underscore_12 | crisp_nose_pen_suffer_envelope_glance_receive_space_rival_picture_sand_aerobic |  
+| bip_39_word_underscore_2 | crisp_nose |  
+| bip_39_word_underscore_3 | crisp_nose_pen |  
+| bip_39_word_underscore_4 | crisp_nose_pen_suffer |  
+| bip_39_word_underscore_5 | crisp_nose_pen_suffer_envelope |  
+| bip_39_word_underscore_6 | crisp_nose_pen_suffer_envelope_glance |  
+| bip_39_word_underscore_7 | crisp_nose_pen_suffer_envelope_glance_receive |  
+| bip_39_word_underscore_8 | crisp_nose_pen_suffer_envelope_glance_receive_space |  
+| bip_39_word_underscore_9 | crisp_nose_pen_suffer_envelope_glance_receive_space_rival |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

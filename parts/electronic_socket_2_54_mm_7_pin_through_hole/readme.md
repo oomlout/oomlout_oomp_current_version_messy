@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | civil |  
+| bip_39_word_dash_10 | civil-rapid-number-silk-coast-hope-news-corn-opera-best |  
+| bip_39_word_dash_11 | civil-rapid-number-silk-coast-hope-news-corn-opera-best-organ |  
+| bip_39_word_dash_12 | civil-rapid-number-silk-coast-hope-news-corn-opera-best-organ-alpha |  
+| bip_39_word_dash_2 | civil-rapid |  
+| bip_39_word_dash_3 | civil-rapid-number |  
+| bip_39_word_dash_4 | civil-rapid-number-silk |  
+| bip_39_word_dash_5 | civil-rapid-number-silk-coast |  
+| bip_39_word_dash_6 | civil-rapid-number-silk-coast-hope |  
+| bip_39_word_dash_7 | civil-rapid-number-silk-coast-hope-news |  
+| bip_39_word_dash_8 | civil-rapid-number-silk-coast-hope-news-corn |  
+| bip_39_word_dash_9 | civil-rapid-number-silk-coast-hope-news-corn-opera |  
 | bip_39_word_new_br_1 | civil |  
 | bip_39_word_new_br_10 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn<br>opera<br>best |  
 | bip_39_word_new_br_11 | civil<br>rapid<br>number<br>silk<br>coast<br>hope<br>news<br>corn<br>opera<br>best<br>organ |  
@@ -147,6 +159,18 @@ opera |
 | bip_39_word_space_7 | civil rapid number silk coast hope news |  
 | bip_39_word_space_8 | civil rapid number silk coast hope news corn |  
 | bip_39_word_space_9 | civil rapid number silk coast hope news corn opera |  
+| bip_39_word_underscore_1 | civil |  
+| bip_39_word_underscore_10 | civil_rapid_number_silk_coast_hope_news_corn_opera_best |  
+| bip_39_word_underscore_11 | civil_rapid_number_silk_coast_hope_news_corn_opera_best_organ |  
+| bip_39_word_underscore_12 | civil_rapid_number_silk_coast_hope_news_corn_opera_best_organ_alpha |  
+| bip_39_word_underscore_2 | civil_rapid |  
+| bip_39_word_underscore_3 | civil_rapid_number |  
+| bip_39_word_underscore_4 | civil_rapid_number_silk |  
+| bip_39_word_underscore_5 | civil_rapid_number_silk_coast |  
+| bip_39_word_underscore_6 | civil_rapid_number_silk_coast_hope |  
+| bip_39_word_underscore_7 | civil_rapid_number_silk_coast_hope_news |  
+| bip_39_word_underscore_8 | civil_rapid_number_silk_coast_hope_news_corn |  
+| bip_39_word_underscore_9 | civil_rapid_number_silk_coast_hope_news_corn_opera |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

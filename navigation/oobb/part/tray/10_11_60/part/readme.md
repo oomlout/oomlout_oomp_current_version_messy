@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cloud |  
+| bip_39_word_dash_10 | cloud-basic-taste-ignore-imitate-vital-bid-print-change-earth |  
+| bip_39_word_dash_11 | cloud-basic-taste-ignore-imitate-vital-bid-print-change-earth-pause |  
+| bip_39_word_dash_12 | cloud-basic-taste-ignore-imitate-vital-bid-print-change-earth-pause-aim |  
+| bip_39_word_dash_2 | cloud-basic |  
+| bip_39_word_dash_3 | cloud-basic-taste |  
+| bip_39_word_dash_4 | cloud-basic-taste-ignore |  
+| bip_39_word_dash_5 | cloud-basic-taste-ignore-imitate |  
+| bip_39_word_dash_6 | cloud-basic-taste-ignore-imitate-vital |  
+| bip_39_word_dash_7 | cloud-basic-taste-ignore-imitate-vital-bid |  
+| bip_39_word_dash_8 | cloud-basic-taste-ignore-imitate-vital-bid-print |  
+| bip_39_word_dash_9 | cloud-basic-taste-ignore-imitate-vital-bid-print-change |  
 | bip_39_word_new_br_1 | cloud |  
 | bip_39_word_new_br_10 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth |  
 | bip_39_word_new_br_11 | cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth<br>pause |  
@@ -147,6 +159,18 @@ change |
 | bip_39_word_space_7 | cloud basic taste ignore imitate vital bid |  
 | bip_39_word_space_8 | cloud basic taste ignore imitate vital bid print |  
 | bip_39_word_space_9 | cloud basic taste ignore imitate vital bid print change |  
+| bip_39_word_underscore_1 | cloud |  
+| bip_39_word_underscore_10 | cloud_basic_taste_ignore_imitate_vital_bid_print_change_earth |  
+| bip_39_word_underscore_11 | cloud_basic_taste_ignore_imitate_vital_bid_print_change_earth_pause |  
+| bip_39_word_underscore_12 | cloud_basic_taste_ignore_imitate_vital_bid_print_change_earth_pause_aim |  
+| bip_39_word_underscore_2 | cloud_basic |  
+| bip_39_word_underscore_3 | cloud_basic_taste |  
+| bip_39_word_underscore_4 | cloud_basic_taste_ignore |  
+| bip_39_word_underscore_5 | cloud_basic_taste_ignore_imitate |  
+| bip_39_word_underscore_6 | cloud_basic_taste_ignore_imitate_vital |  
+| bip_39_word_underscore_7 | cloud_basic_taste_ignore_imitate_vital_bid |  
+| bip_39_word_underscore_8 | cloud_basic_taste_ignore_imitate_vital_bid_print |  
+| bip_39_word_underscore_9 | cloud_basic_taste_ignore_imitate_vital_bid_print_change |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | menu |  
+| bip_39_word_dash_10 | menu-flag-ginger-lyrics-leave-letter-harbor-toddler-size-artwork |  
+| bip_39_word_dash_11 | menu-flag-ginger-lyrics-leave-letter-harbor-toddler-size-artwork-field |  
+| bip_39_word_dash_12 | menu-flag-ginger-lyrics-leave-letter-harbor-toddler-size-artwork-field-among |  
+| bip_39_word_dash_2 | menu-flag |  
+| bip_39_word_dash_3 | menu-flag-ginger |  
+| bip_39_word_dash_4 | menu-flag-ginger-lyrics |  
+| bip_39_word_dash_5 | menu-flag-ginger-lyrics-leave |  
+| bip_39_word_dash_6 | menu-flag-ginger-lyrics-leave-letter |  
+| bip_39_word_dash_7 | menu-flag-ginger-lyrics-leave-letter-harbor |  
+| bip_39_word_dash_8 | menu-flag-ginger-lyrics-leave-letter-harbor-toddler |  
+| bip_39_word_dash_9 | menu-flag-ginger-lyrics-leave-letter-harbor-toddler-size |  
 | bip_39_word_new_br_1 | menu |  
 | bip_39_word_new_br_10 | menu<br>flag<br>ginger<br>lyrics<br>leave<br>letter<br>harbor<br>toddler<br>size<br>artwork |  
 | bip_39_word_new_br_11 | menu<br>flag<br>ginger<br>lyrics<br>leave<br>letter<br>harbor<br>toddler<br>size<br>artwork<br>field |  
@@ -147,6 +159,18 @@ size |
 | bip_39_word_space_7 | menu flag ginger lyrics leave letter harbor |  
 | bip_39_word_space_8 | menu flag ginger lyrics leave letter harbor toddler |  
 | bip_39_word_space_9 | menu flag ginger lyrics leave letter harbor toddler size |  
+| bip_39_word_underscore_1 | menu |  
+| bip_39_word_underscore_10 | menu_flag_ginger_lyrics_leave_letter_harbor_toddler_size_artwork |  
+| bip_39_word_underscore_11 | menu_flag_ginger_lyrics_leave_letter_harbor_toddler_size_artwork_field |  
+| bip_39_word_underscore_12 | menu_flag_ginger_lyrics_leave_letter_harbor_toddler_size_artwork_field_among |  
+| bip_39_word_underscore_2 | menu_flag |  
+| bip_39_word_underscore_3 | menu_flag_ginger |  
+| bip_39_word_underscore_4 | menu_flag_ginger_lyrics |  
+| bip_39_word_underscore_5 | menu_flag_ginger_lyrics_leave |  
+| bip_39_word_underscore_6 | menu_flag_ginger_lyrics_leave_letter |  
+| bip_39_word_underscore_7 | menu_flag_ginger_lyrics_leave_letter_harbor |  
+| bip_39_word_underscore_8 | menu_flag_ginger_lyrics_leave_letter_harbor_toddler |  
+| bip_39_word_underscore_9 | menu_flag_ginger_lyrics_leave_letter_harbor_toddler_size |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

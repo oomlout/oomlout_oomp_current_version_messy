@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | body |  
+| bip_39_word_dash_10 | body-scheme-slab-jeans-inquiry-cream-garden-spice-churn-audit |  
+| bip_39_word_dash_11 | body-scheme-slab-jeans-inquiry-cream-garden-spice-churn-audit-drift |  
+| bip_39_word_dash_12 | body-scheme-slab-jeans-inquiry-cream-garden-spice-churn-audit-drift-aim |  
+| bip_39_word_dash_2 | body-scheme |  
+| bip_39_word_dash_3 | body-scheme-slab |  
+| bip_39_word_dash_4 | body-scheme-slab-jeans |  
+| bip_39_word_dash_5 | body-scheme-slab-jeans-inquiry |  
+| bip_39_word_dash_6 | body-scheme-slab-jeans-inquiry-cream |  
+| bip_39_word_dash_7 | body-scheme-slab-jeans-inquiry-cream-garden |  
+| bip_39_word_dash_8 | body-scheme-slab-jeans-inquiry-cream-garden-spice |  
+| bip_39_word_dash_9 | body-scheme-slab-jeans-inquiry-cream-garden-spice-churn |  
 | bip_39_word_new_br_1 | body |  
 | bip_39_word_new_br_10 | body<br>scheme<br>slab<br>jeans<br>inquiry<br>cream<br>garden<br>spice<br>churn<br>audit |  
 | bip_39_word_new_br_11 | body<br>scheme<br>slab<br>jeans<br>inquiry<br>cream<br>garden<br>spice<br>churn<br>audit<br>drift |  
@@ -147,6 +159,18 @@ churn |
 | bip_39_word_space_7 | body scheme slab jeans inquiry cream garden |  
 | bip_39_word_space_8 | body scheme slab jeans inquiry cream garden spice |  
 | bip_39_word_space_9 | body scheme slab jeans inquiry cream garden spice churn |  
+| bip_39_word_underscore_1 | body |  
+| bip_39_word_underscore_10 | body_scheme_slab_jeans_inquiry_cream_garden_spice_churn_audit |  
+| bip_39_word_underscore_11 | body_scheme_slab_jeans_inquiry_cream_garden_spice_churn_audit_drift |  
+| bip_39_word_underscore_12 | body_scheme_slab_jeans_inquiry_cream_garden_spice_churn_audit_drift_aim |  
+| bip_39_word_underscore_2 | body_scheme |  
+| bip_39_word_underscore_3 | body_scheme_slab |  
+| bip_39_word_underscore_4 | body_scheme_slab_jeans |  
+| bip_39_word_underscore_5 | body_scheme_slab_jeans_inquiry |  
+| bip_39_word_underscore_6 | body_scheme_slab_jeans_inquiry_cream |  
+| bip_39_word_underscore_7 | body_scheme_slab_jeans_inquiry_cream_garden |  
+| bip_39_word_underscore_8 | body_scheme_slab_jeans_inquiry_cream_garden_spice |  
+| bip_39_word_underscore_9 | body_scheme_slab_jeans_inquiry_cream_garden_spice_churn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

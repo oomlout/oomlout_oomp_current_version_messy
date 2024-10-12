@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | seminar |  
+| bip_39_word_dash_10 | seminar-snow-wait-powder-aim-code-curtain-chair-dolphin-kit |  
+| bip_39_word_dash_11 | seminar-snow-wait-powder-aim-code-curtain-chair-dolphin-kit-flip |  
+| bip_39_word_dash_12 | seminar-snow-wait-powder-aim-code-curtain-chair-dolphin-kit-flip-adjust |  
+| bip_39_word_dash_2 | seminar-snow |  
+| bip_39_word_dash_3 | seminar-snow-wait |  
+| bip_39_word_dash_4 | seminar-snow-wait-powder |  
+| bip_39_word_dash_5 | seminar-snow-wait-powder-aim |  
+| bip_39_word_dash_6 | seminar-snow-wait-powder-aim-code |  
+| bip_39_word_dash_7 | seminar-snow-wait-powder-aim-code-curtain |  
+| bip_39_word_dash_8 | seminar-snow-wait-powder-aim-code-curtain-chair |  
+| bip_39_word_dash_9 | seminar-snow-wait-powder-aim-code-curtain-chair-dolphin |  
 | bip_39_word_new_br_1 | seminar |  
 | bip_39_word_new_br_10 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair<br>dolphin<br>kit |  
 | bip_39_word_new_br_11 | seminar<br>snow<br>wait<br>powder<br>aim<br>code<br>curtain<br>chair<br>dolphin<br>kit<br>flip |  
@@ -147,6 +159,18 @@ dolphin |
 | bip_39_word_space_7 | seminar snow wait powder aim code curtain |  
 | bip_39_word_space_8 | seminar snow wait powder aim code curtain chair |  
 | bip_39_word_space_9 | seminar snow wait powder aim code curtain chair dolphin |  
+| bip_39_word_underscore_1 | seminar |  
+| bip_39_word_underscore_10 | seminar_snow_wait_powder_aim_code_curtain_chair_dolphin_kit |  
+| bip_39_word_underscore_11 | seminar_snow_wait_powder_aim_code_curtain_chair_dolphin_kit_flip |  
+| bip_39_word_underscore_12 | seminar_snow_wait_powder_aim_code_curtain_chair_dolphin_kit_flip_adjust |  
+| bip_39_word_underscore_2 | seminar_snow |  
+| bip_39_word_underscore_3 | seminar_snow_wait |  
+| bip_39_word_underscore_4 | seminar_snow_wait_powder |  
+| bip_39_word_underscore_5 | seminar_snow_wait_powder_aim |  
+| bip_39_word_underscore_6 | seminar_snow_wait_powder_aim_code |  
+| bip_39_word_underscore_7 | seminar_snow_wait_powder_aim_code_curtain |  
+| bip_39_word_underscore_8 | seminar_snow_wait_powder_aim_code_curtain_chair |  
+| bip_39_word_underscore_9 | seminar_snow_wait_powder_aim_code_curtain_chair_dolphin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

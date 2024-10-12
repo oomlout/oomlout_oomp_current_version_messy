@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | great |  
+| bip_39_word_dash_10 | great-art-since-brass-grape-crystal-cram-first-sense-beef |  
+| bip_39_word_dash_11 | great-art-since-brass-grape-crystal-cram-first-sense-beef-patient |  
+| bip_39_word_dash_12 | great-art-since-brass-grape-crystal-cram-first-sense-beef-patient-air |  
+| bip_39_word_dash_2 | great-art |  
+| bip_39_word_dash_3 | great-art-since |  
+| bip_39_word_dash_4 | great-art-since-brass |  
+| bip_39_word_dash_5 | great-art-since-brass-grape |  
+| bip_39_word_dash_6 | great-art-since-brass-grape-crystal |  
+| bip_39_word_dash_7 | great-art-since-brass-grape-crystal-cram |  
+| bip_39_word_dash_8 | great-art-since-brass-grape-crystal-cram-first |  
+| bip_39_word_dash_9 | great-art-since-brass-grape-crystal-cram-first-sense |  
 | bip_39_word_new_br_1 | great |  
 | bip_39_word_new_br_10 | great<br>art<br>since<br>brass<br>grape<br>crystal<br>cram<br>first<br>sense<br>beef |  
 | bip_39_word_new_br_11 | great<br>art<br>since<br>brass<br>grape<br>crystal<br>cram<br>first<br>sense<br>beef<br>patient |  
@@ -147,6 +159,18 @@ sense |
 | bip_39_word_space_7 | great art since brass grape crystal cram |  
 | bip_39_word_space_8 | great art since brass grape crystal cram first |  
 | bip_39_word_space_9 | great art since brass grape crystal cram first sense |  
+| bip_39_word_underscore_1 | great |  
+| bip_39_word_underscore_10 | great_art_since_brass_grape_crystal_cram_first_sense_beef |  
+| bip_39_word_underscore_11 | great_art_since_brass_grape_crystal_cram_first_sense_beef_patient |  
+| bip_39_word_underscore_12 | great_art_since_brass_grape_crystal_cram_first_sense_beef_patient_air |  
+| bip_39_word_underscore_2 | great_art |  
+| bip_39_word_underscore_3 | great_art_since |  
+| bip_39_word_underscore_4 | great_art_since_brass |  
+| bip_39_word_underscore_5 | great_art_since_brass_grape |  
+| bip_39_word_underscore_6 | great_art_since_brass_grape_crystal |  
+| bip_39_word_underscore_7 | great_art_since_brass_grape_crystal_cram |  
+| bip_39_word_underscore_8 | great_art_since_brass_grape_crystal_cram_first |  
+| bip_39_word_underscore_9 | great_art_since_brass_grape_crystal_cram_first_sense |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

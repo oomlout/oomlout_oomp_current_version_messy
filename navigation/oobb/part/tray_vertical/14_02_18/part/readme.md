@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | duty |  
+| bip_39_word_dash_10 | duty-dash-vacuum-submit-style-donkey-assist-morning-urban-cute |  
+| bip_39_word_dash_11 | duty-dash-vacuum-submit-style-donkey-assist-morning-urban-cute-witness |  
+| bip_39_word_dash_12 | duty-dash-vacuum-submit-style-donkey-assist-morning-urban-cute-witness-allow |  
+| bip_39_word_dash_2 | duty-dash |  
+| bip_39_word_dash_3 | duty-dash-vacuum |  
+| bip_39_word_dash_4 | duty-dash-vacuum-submit |  
+| bip_39_word_dash_5 | duty-dash-vacuum-submit-style |  
+| bip_39_word_dash_6 | duty-dash-vacuum-submit-style-donkey |  
+| bip_39_word_dash_7 | duty-dash-vacuum-submit-style-donkey-assist |  
+| bip_39_word_dash_8 | duty-dash-vacuum-submit-style-donkey-assist-morning |  
+| bip_39_word_dash_9 | duty-dash-vacuum-submit-style-donkey-assist-morning-urban |  
 | bip_39_word_new_br_1 | duty |  
 | bip_39_word_new_br_10 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute |  
 | bip_39_word_new_br_11 | duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute<br>witness |  
@@ -147,6 +159,18 @@ urban |
 | bip_39_word_space_7 | duty dash vacuum submit style donkey assist |  
 | bip_39_word_space_8 | duty dash vacuum submit style donkey assist morning |  
 | bip_39_word_space_9 | duty dash vacuum submit style donkey assist morning urban |  
+| bip_39_word_underscore_1 | duty |  
+| bip_39_word_underscore_10 | duty_dash_vacuum_submit_style_donkey_assist_morning_urban_cute |  
+| bip_39_word_underscore_11 | duty_dash_vacuum_submit_style_donkey_assist_morning_urban_cute_witness |  
+| bip_39_word_underscore_12 | duty_dash_vacuum_submit_style_donkey_assist_morning_urban_cute_witness_allow |  
+| bip_39_word_underscore_2 | duty_dash |  
+| bip_39_word_underscore_3 | duty_dash_vacuum |  
+| bip_39_word_underscore_4 | duty_dash_vacuum_submit |  
+| bip_39_word_underscore_5 | duty_dash_vacuum_submit_style |  
+| bip_39_word_underscore_6 | duty_dash_vacuum_submit_style_donkey |  
+| bip_39_word_underscore_7 | duty_dash_vacuum_submit_style_donkey_assist |  
+| bip_39_word_underscore_8 | duty_dash_vacuum_submit_style_donkey_assist_morning |  
+| bip_39_word_underscore_9 | duty_dash_vacuum_submit_style_donkey_assist_morning_urban |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | off |  
+| bip_39_word_dash_10 | off-auto-sad-bleak-inspire-leg-cheese-cave-roof-charge |  
+| bip_39_word_dash_11 | off-auto-sad-bleak-inspire-leg-cheese-cave-roof-charge-embark |  
+| bip_39_word_dash_12 | off-auto-sad-bleak-inspire-leg-cheese-cave-roof-charge-embark-apart |  
+| bip_39_word_dash_2 | off-auto |  
+| bip_39_word_dash_3 | off-auto-sad |  
+| bip_39_word_dash_4 | off-auto-sad-bleak |  
+| bip_39_word_dash_5 | off-auto-sad-bleak-inspire |  
+| bip_39_word_dash_6 | off-auto-sad-bleak-inspire-leg |  
+| bip_39_word_dash_7 | off-auto-sad-bleak-inspire-leg-cheese |  
+| bip_39_word_dash_8 | off-auto-sad-bleak-inspire-leg-cheese-cave |  
+| bip_39_word_dash_9 | off-auto-sad-bleak-inspire-leg-cheese-cave-roof |  
 | bip_39_word_new_br_1 | off |  
 | bip_39_word_new_br_10 | off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave<br>roof<br>charge |  
 | bip_39_word_new_br_11 | off<br>auto<br>sad<br>bleak<br>inspire<br>leg<br>cheese<br>cave<br>roof<br>charge<br>embark |  
@@ -147,6 +159,18 @@ roof |
 | bip_39_word_space_7 | off auto sad bleak inspire leg cheese |  
 | bip_39_word_space_8 | off auto sad bleak inspire leg cheese cave |  
 | bip_39_word_space_9 | off auto sad bleak inspire leg cheese cave roof |  
+| bip_39_word_underscore_1 | off |  
+| bip_39_word_underscore_10 | off_auto_sad_bleak_inspire_leg_cheese_cave_roof_charge |  
+| bip_39_word_underscore_11 | off_auto_sad_bleak_inspire_leg_cheese_cave_roof_charge_embark |  
+| bip_39_word_underscore_12 | off_auto_sad_bleak_inspire_leg_cheese_cave_roof_charge_embark_apart |  
+| bip_39_word_underscore_2 | off_auto |  
+| bip_39_word_underscore_3 | off_auto_sad |  
+| bip_39_word_underscore_4 | off_auto_sad_bleak |  
+| bip_39_word_underscore_5 | off_auto_sad_bleak_inspire |  
+| bip_39_word_underscore_6 | off_auto_sad_bleak_inspire_leg |  
+| bip_39_word_underscore_7 | off_auto_sad_bleak_inspire_leg_cheese |  
+| bip_39_word_underscore_8 | off_auto_sad_bleak_inspire_leg_cheese_cave |  
+| bip_39_word_underscore_9 | off_auto_sad_bleak_inspire_leg_cheese_cave_roof |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

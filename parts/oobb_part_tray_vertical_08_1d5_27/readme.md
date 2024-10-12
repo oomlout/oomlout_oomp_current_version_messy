@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | box |  
+| bip_39_word_dash_10 | box-puzzle-clown-daring-fossil-march-stereo-purpose-face-glove |  
+| bip_39_word_dash_11 | box-puzzle-clown-daring-fossil-march-stereo-purpose-face-glove-round |  
+| bip_39_word_dash_12 | box-puzzle-clown-daring-fossil-march-stereo-purpose-face-glove-round-actor |  
+| bip_39_word_dash_2 | box-puzzle |  
+| bip_39_word_dash_3 | box-puzzle-clown |  
+| bip_39_word_dash_4 | box-puzzle-clown-daring |  
+| bip_39_word_dash_5 | box-puzzle-clown-daring-fossil |  
+| bip_39_word_dash_6 | box-puzzle-clown-daring-fossil-march |  
+| bip_39_word_dash_7 | box-puzzle-clown-daring-fossil-march-stereo |  
+| bip_39_word_dash_8 | box-puzzle-clown-daring-fossil-march-stereo-purpose |  
+| bip_39_word_dash_9 | box-puzzle-clown-daring-fossil-march-stereo-purpose-face |  
 | bip_39_word_new_br_1 | box |  
 | bip_39_word_new_br_10 | box<br>puzzle<br>clown<br>daring<br>fossil<br>march<br>stereo<br>purpose<br>face<br>glove |  
 | bip_39_word_new_br_11 | box<br>puzzle<br>clown<br>daring<br>fossil<br>march<br>stereo<br>purpose<br>face<br>glove<br>round |  
@@ -147,6 +159,18 @@ face |
 | bip_39_word_space_7 | box puzzle clown daring fossil march stereo |  
 | bip_39_word_space_8 | box puzzle clown daring fossil march stereo purpose |  
 | bip_39_word_space_9 | box puzzle clown daring fossil march stereo purpose face |  
+| bip_39_word_underscore_1 | box |  
+| bip_39_word_underscore_10 | box_puzzle_clown_daring_fossil_march_stereo_purpose_face_glove |  
+| bip_39_word_underscore_11 | box_puzzle_clown_daring_fossil_march_stereo_purpose_face_glove_round |  
+| bip_39_word_underscore_12 | box_puzzle_clown_daring_fossil_march_stereo_purpose_face_glove_round_actor |  
+| bip_39_word_underscore_2 | box_puzzle |  
+| bip_39_word_underscore_3 | box_puzzle_clown |  
+| bip_39_word_underscore_4 | box_puzzle_clown_daring |  
+| bip_39_word_underscore_5 | box_puzzle_clown_daring_fossil |  
+| bip_39_word_underscore_6 | box_puzzle_clown_daring_fossil_march |  
+| bip_39_word_underscore_7 | box_puzzle_clown_daring_fossil_march_stereo |  
+| bip_39_word_underscore_8 | box_puzzle_clown_daring_fossil_march_stereo_purpose |  
+| bip_39_word_underscore_9 | box_puzzle_clown_daring_fossil_march_stereo_purpose_face |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

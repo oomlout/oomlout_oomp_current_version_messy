@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | actor |  
+| bip_39_word_dash_10 | actor-best-dolphin-wear-melt-render-come-swift-pumpkin-banner |  
+| bip_39_word_dash_11 | actor-best-dolphin-wear-melt-render-come-swift-pumpkin-banner-multiply |  
+| bip_39_word_dash_12 | actor-best-dolphin-wear-melt-render-come-swift-pumpkin-banner-multiply-any |  
+| bip_39_word_dash_2 | actor-best |  
+| bip_39_word_dash_3 | actor-best-dolphin |  
+| bip_39_word_dash_4 | actor-best-dolphin-wear |  
+| bip_39_word_dash_5 | actor-best-dolphin-wear-melt |  
+| bip_39_word_dash_6 | actor-best-dolphin-wear-melt-render |  
+| bip_39_word_dash_7 | actor-best-dolphin-wear-melt-render-come |  
+| bip_39_word_dash_8 | actor-best-dolphin-wear-melt-render-come-swift |  
+| bip_39_word_dash_9 | actor-best-dolphin-wear-melt-render-come-swift-pumpkin |  
 | bip_39_word_new_br_1 | actor |  
 | bip_39_word_new_br_10 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner |  
 | bip_39_word_new_br_11 | actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner<br>multiply |  
@@ -147,6 +159,18 @@ pumpkin |
 | bip_39_word_space_7 | actor best dolphin wear melt render come |  
 | bip_39_word_space_8 | actor best dolphin wear melt render come swift |  
 | bip_39_word_space_9 | actor best dolphin wear melt render come swift pumpkin |  
+| bip_39_word_underscore_1 | actor |  
+| bip_39_word_underscore_10 | actor_best_dolphin_wear_melt_render_come_swift_pumpkin_banner |  
+| bip_39_word_underscore_11 | actor_best_dolphin_wear_melt_render_come_swift_pumpkin_banner_multiply |  
+| bip_39_word_underscore_12 | actor_best_dolphin_wear_melt_render_come_swift_pumpkin_banner_multiply_any |  
+| bip_39_word_underscore_2 | actor_best |  
+| bip_39_word_underscore_3 | actor_best_dolphin |  
+| bip_39_word_underscore_4 | actor_best_dolphin_wear |  
+| bip_39_word_underscore_5 | actor_best_dolphin_wear_melt |  
+| bip_39_word_underscore_6 | actor_best_dolphin_wear_melt_render |  
+| bip_39_word_underscore_7 | actor_best_dolphin_wear_melt_render_come |  
+| bip_39_word_underscore_8 | actor_best_dolphin_wear_melt_render_come_swift |  
+| bip_39_word_underscore_9 | actor_best_dolphin_wear_melt_render_come_swift_pumpkin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

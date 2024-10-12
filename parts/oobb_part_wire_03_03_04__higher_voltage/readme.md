@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pretty |  
+| bip_39_word_dash_10 | pretty-elevator-cruise-clean-bid-jacket-million-dish-link-street |  
+| bip_39_word_dash_11 | pretty-elevator-cruise-clean-bid-jacket-million-dish-link-street-license |  
+| bip_39_word_dash_12 | pretty-elevator-cruise-clean-bid-jacket-million-dish-link-street-license-apple |  
+| bip_39_word_dash_2 | pretty-elevator |  
+| bip_39_word_dash_3 | pretty-elevator-cruise |  
+| bip_39_word_dash_4 | pretty-elevator-cruise-clean |  
+| bip_39_word_dash_5 | pretty-elevator-cruise-clean-bid |  
+| bip_39_word_dash_6 | pretty-elevator-cruise-clean-bid-jacket |  
+| bip_39_word_dash_7 | pretty-elevator-cruise-clean-bid-jacket-million |  
+| bip_39_word_dash_8 | pretty-elevator-cruise-clean-bid-jacket-million-dish |  
+| bip_39_word_dash_9 | pretty-elevator-cruise-clean-bid-jacket-million-dish-link |  
 | bip_39_word_new_br_1 | pretty |  
 | bip_39_word_new_br_10 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish<br>link<br>street |  
 | bip_39_word_new_br_11 | pretty<br>elevator<br>cruise<br>clean<br>bid<br>jacket<br>million<br>dish<br>link<br>street<br>license |  
@@ -147,6 +159,18 @@ link |
 | bip_39_word_space_7 | pretty elevator cruise clean bid jacket million |  
 | bip_39_word_space_8 | pretty elevator cruise clean bid jacket million dish |  
 | bip_39_word_space_9 | pretty elevator cruise clean bid jacket million dish link |  
+| bip_39_word_underscore_1 | pretty |  
+| bip_39_word_underscore_10 | pretty_elevator_cruise_clean_bid_jacket_million_dish_link_street |  
+| bip_39_word_underscore_11 | pretty_elevator_cruise_clean_bid_jacket_million_dish_link_street_license |  
+| bip_39_word_underscore_12 | pretty_elevator_cruise_clean_bid_jacket_million_dish_link_street_license_apple |  
+| bip_39_word_underscore_2 | pretty_elevator |  
+| bip_39_word_underscore_3 | pretty_elevator_cruise |  
+| bip_39_word_underscore_4 | pretty_elevator_cruise_clean |  
+| bip_39_word_underscore_5 | pretty_elevator_cruise_clean_bid |  
+| bip_39_word_underscore_6 | pretty_elevator_cruise_clean_bid_jacket |  
+| bip_39_word_underscore_7 | pretty_elevator_cruise_clean_bid_jacket_million |  
+| bip_39_word_underscore_8 | pretty_elevator_cruise_clean_bid_jacket_million_dish |  
+| bip_39_word_underscore_9 | pretty_elevator_cruise_clean_bid_jacket_million_dish_link |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

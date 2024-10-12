@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | defense |  
+| bip_39_word_dash_10 | defense-reduce-maximum-doll-gorilla-library-pudding-anxiety-around-code |  
+| bip_39_word_dash_11 | defense-reduce-maximum-doll-gorilla-library-pudding-anxiety-around-code-obvious |  
+| bip_39_word_dash_12 | defense-reduce-maximum-doll-gorilla-library-pudding-anxiety-around-code-obvious-adapt |  
+| bip_39_word_dash_2 | defense-reduce |  
+| bip_39_word_dash_3 | defense-reduce-maximum |  
+| bip_39_word_dash_4 | defense-reduce-maximum-doll |  
+| bip_39_word_dash_5 | defense-reduce-maximum-doll-gorilla |  
+| bip_39_word_dash_6 | defense-reduce-maximum-doll-gorilla-library |  
+| bip_39_word_dash_7 | defense-reduce-maximum-doll-gorilla-library-pudding |  
+| bip_39_word_dash_8 | defense-reduce-maximum-doll-gorilla-library-pudding-anxiety |  
+| bip_39_word_dash_9 | defense-reduce-maximum-doll-gorilla-library-pudding-anxiety-around |  
 | bip_39_word_new_br_1 | defense |  
 | bip_39_word_new_br_10 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code |  
 | bip_39_word_new_br_11 | defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code<br>obvious |  
@@ -147,6 +159,18 @@ around |
 | bip_39_word_space_7 | defense reduce maximum doll gorilla library pudding |  
 | bip_39_word_space_8 | defense reduce maximum doll gorilla library pudding anxiety |  
 | bip_39_word_space_9 | defense reduce maximum doll gorilla library pudding anxiety around |  
+| bip_39_word_underscore_1 | defense |  
+| bip_39_word_underscore_10 | defense_reduce_maximum_doll_gorilla_library_pudding_anxiety_around_code |  
+| bip_39_word_underscore_11 | defense_reduce_maximum_doll_gorilla_library_pudding_anxiety_around_code_obvious |  
+| bip_39_word_underscore_12 | defense_reduce_maximum_doll_gorilla_library_pudding_anxiety_around_code_obvious_adapt |  
+| bip_39_word_underscore_2 | defense_reduce |  
+| bip_39_word_underscore_3 | defense_reduce_maximum |  
+| bip_39_word_underscore_4 | defense_reduce_maximum_doll |  
+| bip_39_word_underscore_5 | defense_reduce_maximum_doll_gorilla |  
+| bip_39_word_underscore_6 | defense_reduce_maximum_doll_gorilla_library |  
+| bip_39_word_underscore_7 | defense_reduce_maximum_doll_gorilla_library_pudding |  
+| bip_39_word_underscore_8 | defense_reduce_maximum_doll_gorilla_library_pudding_anxiety |  
+| bip_39_word_underscore_9 | defense_reduce_maximum_doll_gorilla_library_pudding_anxiety_around |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

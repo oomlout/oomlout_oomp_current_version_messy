@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bronze |  
+| bip_39_word_dash_10 | bronze-shoe-reward-they-race-grace-transfer-forum-scrap-canal |  
+| bip_39_word_dash_11 | bronze-shoe-reward-they-race-grace-transfer-forum-scrap-canal-cage |  
+| bip_39_word_dash_12 | bronze-shoe-reward-they-race-grace-transfer-forum-scrap-canal-cage-audit |  
+| bip_39_word_dash_2 | bronze-shoe |  
+| bip_39_word_dash_3 | bronze-shoe-reward |  
+| bip_39_word_dash_4 | bronze-shoe-reward-they |  
+| bip_39_word_dash_5 | bronze-shoe-reward-they-race |  
+| bip_39_word_dash_6 | bronze-shoe-reward-they-race-grace |  
+| bip_39_word_dash_7 | bronze-shoe-reward-they-race-grace-transfer |  
+| bip_39_word_dash_8 | bronze-shoe-reward-they-race-grace-transfer-forum |  
+| bip_39_word_dash_9 | bronze-shoe-reward-they-race-grace-transfer-forum-scrap |  
 | bip_39_word_new_br_1 | bronze |  
 | bip_39_word_new_br_10 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum<br>scrap<br>canal |  
 | bip_39_word_new_br_11 | bronze<br>shoe<br>reward<br>they<br>race<br>grace<br>transfer<br>forum<br>scrap<br>canal<br>cage |  
@@ -147,6 +159,18 @@ scrap |
 | bip_39_word_space_7 | bronze shoe reward they race grace transfer |  
 | bip_39_word_space_8 | bronze shoe reward they race grace transfer forum |  
 | bip_39_word_space_9 | bronze shoe reward they race grace transfer forum scrap |  
+| bip_39_word_underscore_1 | bronze |  
+| bip_39_word_underscore_10 | bronze_shoe_reward_they_race_grace_transfer_forum_scrap_canal |  
+| bip_39_word_underscore_11 | bronze_shoe_reward_they_race_grace_transfer_forum_scrap_canal_cage |  
+| bip_39_word_underscore_12 | bronze_shoe_reward_they_race_grace_transfer_forum_scrap_canal_cage_audit |  
+| bip_39_word_underscore_2 | bronze_shoe |  
+| bip_39_word_underscore_3 | bronze_shoe_reward |  
+| bip_39_word_underscore_4 | bronze_shoe_reward_they |  
+| bip_39_word_underscore_5 | bronze_shoe_reward_they_race |  
+| bip_39_word_underscore_6 | bronze_shoe_reward_they_race_grace |  
+| bip_39_word_underscore_7 | bronze_shoe_reward_they_race_grace_transfer |  
+| bip_39_word_underscore_8 | bronze_shoe_reward_they_race_grace_transfer_forum |  
+| bip_39_word_underscore_9 | bronze_shoe_reward_they_race_grace_transfer_forum_scrap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

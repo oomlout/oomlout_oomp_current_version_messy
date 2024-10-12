@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crew
+bip_39_word_dash_10: crew-coral-cream-agent-reflect-exist-buddy-glare-civil-episode
+bip_39_word_dash_11: crew-coral-cream-agent-reflect-exist-buddy-glare-civil-episode-axis
+bip_39_word_dash_12: crew-coral-cream-agent-reflect-exist-buddy-glare-civil-episode-axis-aunt
+bip_39_word_dash_2: crew-coral
+bip_39_word_dash_3: crew-coral-cream
+bip_39_word_dash_4: crew-coral-cream-agent
+bip_39_word_dash_5: crew-coral-cream-agent-reflect
+bip_39_word_dash_6: crew-coral-cream-agent-reflect-exist
+bip_39_word_dash_7: crew-coral-cream-agent-reflect-exist-buddy
+bip_39_word_dash_8: crew-coral-cream-agent-reflect-exist-buddy-glare
+bip_39_word_dash_9: crew-coral-cream-agent-reflect-exist-buddy-glare-civil
 bip_39_word_new_br_1: crew
 bip_39_word_new_br_10: crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare<br>civil<br>episode
 bip_39_word_new_br_11: crew<br>coral<br>cream<br>agent<br>reflect<br>exist<br>buddy<br>glare<br>civil<br>episode<br>axis
@@ -193,6 +205,18 @@ bip_39_word_space_6: crew coral cream agent reflect exist
 bip_39_word_space_7: crew coral cream agent reflect exist buddy
 bip_39_word_space_8: crew coral cream agent reflect exist buddy glare
 bip_39_word_space_9: crew coral cream agent reflect exist buddy glare civil
+bip_39_word_underscore_1: crew
+bip_39_word_underscore_10: crew_coral_cream_agent_reflect_exist_buddy_glare_civil_episode
+bip_39_word_underscore_11: crew_coral_cream_agent_reflect_exist_buddy_glare_civil_episode_axis
+bip_39_word_underscore_12: crew_coral_cream_agent_reflect_exist_buddy_glare_civil_episode_axis_aunt
+bip_39_word_underscore_2: crew_coral
+bip_39_word_underscore_3: crew_coral_cream
+bip_39_word_underscore_4: crew_coral_cream_agent
+bip_39_word_underscore_5: crew_coral_cream_agent_reflect
+bip_39_word_underscore_6: crew_coral_cream_agent_reflect_exist
+bip_39_word_underscore_7: crew_coral_cream_agent_reflect_exist_buddy
+bip_39_word_underscore_8: crew_coral_cream_agent_reflect_exist_buddy_glare
+bip_39_word_underscore_9: crew_coral_cream_agent_reflect_exist_buddy_glare_civil
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

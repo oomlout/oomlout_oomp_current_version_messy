@@ -1,3 +1,15 @@
+bip_39_word_dash_1: provide
+bip_39_word_dash_10: provide-hold-tank-cradle-topic-special-love-craft-pottery-inspire
+bip_39_word_dash_11: provide-hold-tank-cradle-topic-special-love-craft-pottery-inspire-economy
+bip_39_word_dash_12: provide-hold-tank-cradle-topic-special-love-craft-pottery-inspire-economy-area
+bip_39_word_dash_2: provide-hold
+bip_39_word_dash_3: provide-hold-tank
+bip_39_word_dash_4: provide-hold-tank-cradle
+bip_39_word_dash_5: provide-hold-tank-cradle-topic
+bip_39_word_dash_6: provide-hold-tank-cradle-topic-special
+bip_39_word_dash_7: provide-hold-tank-cradle-topic-special-love
+bip_39_word_dash_8: provide-hold-tank-cradle-topic-special-love-craft
+bip_39_word_dash_9: provide-hold-tank-cradle-topic-special-love-craft-pottery
 bip_39_word_new_br_1: provide
 bip_39_word_new_br_10: provide<br>hold<br>tank<br>cradle<br>topic<br>special<br>love<br>craft<br>pottery<br>inspire
 bip_39_word_new_br_11: provide<br>hold<br>tank<br>cradle<br>topic<br>special<br>love<br>craft<br>pottery<br>inspire<br>economy
@@ -193,6 +205,18 @@ bip_39_word_space_6: provide hold tank cradle topic special
 bip_39_word_space_7: provide hold tank cradle topic special love
 bip_39_word_space_8: provide hold tank cradle topic special love craft
 bip_39_word_space_9: provide hold tank cradle topic special love craft pottery
+bip_39_word_underscore_1: provide
+bip_39_word_underscore_10: provide_hold_tank_cradle_topic_special_love_craft_pottery_inspire
+bip_39_word_underscore_11: provide_hold_tank_cradle_topic_special_love_craft_pottery_inspire_economy
+bip_39_word_underscore_12: provide_hold_tank_cradle_topic_special_love_craft_pottery_inspire_economy_area
+bip_39_word_underscore_2: provide_hold
+bip_39_word_underscore_3: provide_hold_tank
+bip_39_word_underscore_4: provide_hold_tank_cradle
+bip_39_word_underscore_5: provide_hold_tank_cradle_topic
+bip_39_word_underscore_6: provide_hold_tank_cradle_topic_special
+bip_39_word_underscore_7: provide_hold_tank_cradle_topic_special_love
+bip_39_word_underscore_8: provide_hold_tank_cradle_topic_special_love_craft
+bip_39_word_underscore_9: provide_hold_tank_cradle_topic_special_love_craft_pottery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

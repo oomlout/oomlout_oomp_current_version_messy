@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | share |  
+| bip_39_word_dash_10 | share-sound-fiber-path-shine-wave-alley-avocado-retreat-glory |  
+| bip_39_word_dash_11 | share-sound-fiber-path-shine-wave-alley-avocado-retreat-glory-satoshi |  
+| bip_39_word_dash_12 | share-sound-fiber-path-shine-wave-alley-avocado-retreat-glory-satoshi-arm |  
+| bip_39_word_dash_2 | share-sound |  
+| bip_39_word_dash_3 | share-sound-fiber |  
+| bip_39_word_dash_4 | share-sound-fiber-path |  
+| bip_39_word_dash_5 | share-sound-fiber-path-shine |  
+| bip_39_word_dash_6 | share-sound-fiber-path-shine-wave |  
+| bip_39_word_dash_7 | share-sound-fiber-path-shine-wave-alley |  
+| bip_39_word_dash_8 | share-sound-fiber-path-shine-wave-alley-avocado |  
+| bip_39_word_dash_9 | share-sound-fiber-path-shine-wave-alley-avocado-retreat |  
 | bip_39_word_new_br_1 | share |  
 | bip_39_word_new_br_10 | share<br>sound<br>fiber<br>path<br>shine<br>wave<br>alley<br>avocado<br>retreat<br>glory |  
 | bip_39_word_new_br_11 | share<br>sound<br>fiber<br>path<br>shine<br>wave<br>alley<br>avocado<br>retreat<br>glory<br>satoshi |  
@@ -147,6 +159,18 @@ retreat |
 | bip_39_word_space_7 | share sound fiber path shine wave alley |  
 | bip_39_word_space_8 | share sound fiber path shine wave alley avocado |  
 | bip_39_word_space_9 | share sound fiber path shine wave alley avocado retreat |  
+| bip_39_word_underscore_1 | share |  
+| bip_39_word_underscore_10 | share_sound_fiber_path_shine_wave_alley_avocado_retreat_glory |  
+| bip_39_word_underscore_11 | share_sound_fiber_path_shine_wave_alley_avocado_retreat_glory_satoshi |  
+| bip_39_word_underscore_12 | share_sound_fiber_path_shine_wave_alley_avocado_retreat_glory_satoshi_arm |  
+| bip_39_word_underscore_2 | share_sound |  
+| bip_39_word_underscore_3 | share_sound_fiber |  
+| bip_39_word_underscore_4 | share_sound_fiber_path |  
+| bip_39_word_underscore_5 | share_sound_fiber_path_shine |  
+| bip_39_word_underscore_6 | share_sound_fiber_path_shine_wave |  
+| bip_39_word_underscore_7 | share_sound_fiber_path_shine_wave_alley |  
+| bip_39_word_underscore_8 | share_sound_fiber_path_shine_wave_alley_avocado |  
+| bip_39_word_underscore_9 | share_sound_fiber_path_shine_wave_alley_avocado_retreat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

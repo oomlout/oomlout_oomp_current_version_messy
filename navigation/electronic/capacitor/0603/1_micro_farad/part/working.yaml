@@ -1,3 +1,15 @@
+bip_39_word_dash_1: radar
+bip_39_word_dash_10: radar-cycle-wear-off-parade-excite-mule-document-ozone-wait
+bip_39_word_dash_11: radar-cycle-wear-off-parade-excite-mule-document-ozone-wait-speed
+bip_39_word_dash_12: radar-cycle-wear-off-parade-excite-mule-document-ozone-wait-speed-attack
+bip_39_word_dash_2: radar-cycle
+bip_39_word_dash_3: radar-cycle-wear
+bip_39_word_dash_4: radar-cycle-wear-off
+bip_39_word_dash_5: radar-cycle-wear-off-parade
+bip_39_word_dash_6: radar-cycle-wear-off-parade-excite
+bip_39_word_dash_7: radar-cycle-wear-off-parade-excite-mule
+bip_39_word_dash_8: radar-cycle-wear-off-parade-excite-mule-document
+bip_39_word_dash_9: radar-cycle-wear-off-parade-excite-mule-document-ozone
 bip_39_word_new_br_1: radar
 bip_39_word_new_br_10: radar<br>cycle<br>wear<br>off<br>parade<br>excite<br>mule<br>document<br>ozone<br>wait
 bip_39_word_new_br_11: radar<br>cycle<br>wear<br>off<br>parade<br>excite<br>mule<br>document<br>ozone<br>wait<br>speed
@@ -193,6 +205,18 @@ bip_39_word_space_6: radar cycle wear off parade excite
 bip_39_word_space_7: radar cycle wear off parade excite mule
 bip_39_word_space_8: radar cycle wear off parade excite mule document
 bip_39_word_space_9: radar cycle wear off parade excite mule document ozone
+bip_39_word_underscore_1: radar
+bip_39_word_underscore_10: radar_cycle_wear_off_parade_excite_mule_document_ozone_wait
+bip_39_word_underscore_11: radar_cycle_wear_off_parade_excite_mule_document_ozone_wait_speed
+bip_39_word_underscore_12: radar_cycle_wear_off_parade_excite_mule_document_ozone_wait_speed_attack
+bip_39_word_underscore_2: radar_cycle
+bip_39_word_underscore_3: radar_cycle_wear
+bip_39_word_underscore_4: radar_cycle_wear_off
+bip_39_word_underscore_5: radar_cycle_wear_off_parade
+bip_39_word_underscore_6: radar_cycle_wear_off_parade_excite
+bip_39_word_underscore_7: radar_cycle_wear_off_parade_excite_mule
+bip_39_word_underscore_8: radar_cycle_wear_off_parade_excite_mule_document
+bip_39_word_underscore_9: radar_cycle_wear_off_parade_excite_mule_document_ozone
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

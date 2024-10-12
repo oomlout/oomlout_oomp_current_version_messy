@@ -1,3 +1,15 @@
+bip_39_word_dash_1: police
+bip_39_word_dash_10: police-path-blast-brass-state-tree-kangaroo-guitar-intact-company
+bip_39_word_dash_11: police-path-blast-brass-state-tree-kangaroo-guitar-intact-company-ladder
+bip_39_word_dash_12: police-path-blast-brass-state-tree-kangaroo-guitar-intact-company-ladder-artwork
+bip_39_word_dash_2: police-path
+bip_39_word_dash_3: police-path-blast
+bip_39_word_dash_4: police-path-blast-brass
+bip_39_word_dash_5: police-path-blast-brass-state
+bip_39_word_dash_6: police-path-blast-brass-state-tree
+bip_39_word_dash_7: police-path-blast-brass-state-tree-kangaroo
+bip_39_word_dash_8: police-path-blast-brass-state-tree-kangaroo-guitar
+bip_39_word_dash_9: police-path-blast-brass-state-tree-kangaroo-guitar-intact
 bip_39_word_new_br_1: police
 bip_39_word_new_br_10: police<br>path<br>blast<br>brass<br>state<br>tree<br>kangaroo<br>guitar<br>intact<br>company
 bip_39_word_new_br_11: police<br>path<br>blast<br>brass<br>state<br>tree<br>kangaroo<br>guitar<br>intact<br>company<br>ladder
@@ -193,6 +205,18 @@ bip_39_word_space_6: police path blast brass state tree
 bip_39_word_space_7: police path blast brass state tree kangaroo
 bip_39_word_space_8: police path blast brass state tree kangaroo guitar
 bip_39_word_space_9: police path blast brass state tree kangaroo guitar intact
+bip_39_word_underscore_1: police
+bip_39_word_underscore_10: police_path_blast_brass_state_tree_kangaroo_guitar_intact_company
+bip_39_word_underscore_11: police_path_blast_brass_state_tree_kangaroo_guitar_intact_company_ladder
+bip_39_word_underscore_12: police_path_blast_brass_state_tree_kangaroo_guitar_intact_company_ladder_artwork
+bip_39_word_underscore_2: police_path
+bip_39_word_underscore_3: police_path_blast
+bip_39_word_underscore_4: police_path_blast_brass
+bip_39_word_underscore_5: police_path_blast_brass_state
+bip_39_word_underscore_6: police_path_blast_brass_state_tree
+bip_39_word_underscore_7: police_path_blast_brass_state_tree_kangaroo
+bip_39_word_underscore_8: police_path_blast_brass_state_tree_kangaroo_guitar
+bip_39_word_underscore_9: police_path_blast_brass_state_tree_kangaroo_guitar_intact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

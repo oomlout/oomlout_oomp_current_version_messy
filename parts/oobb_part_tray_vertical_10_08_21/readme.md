@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fitness |  
+| bip_39_word_dash_10 | fitness-arrow-brief-master-clerk-client-fame-cat-indoor-merge |  
+| bip_39_word_dash_11 | fitness-arrow-brief-master-clerk-client-fame-cat-indoor-merge-soda |  
+| bip_39_word_dash_12 | fitness-arrow-brief-master-clerk-client-fame-cat-indoor-merge-soda-arrow |  
+| bip_39_word_dash_2 | fitness-arrow |  
+| bip_39_word_dash_3 | fitness-arrow-brief |  
+| bip_39_word_dash_4 | fitness-arrow-brief-master |  
+| bip_39_word_dash_5 | fitness-arrow-brief-master-clerk |  
+| bip_39_word_dash_6 | fitness-arrow-brief-master-clerk-client |  
+| bip_39_word_dash_7 | fitness-arrow-brief-master-clerk-client-fame |  
+| bip_39_word_dash_8 | fitness-arrow-brief-master-clerk-client-fame-cat |  
+| bip_39_word_dash_9 | fitness-arrow-brief-master-clerk-client-fame-cat-indoor |  
 | bip_39_word_new_br_1 | fitness |  
 | bip_39_word_new_br_10 | fitness<br>arrow<br>brief<br>master<br>clerk<br>client<br>fame<br>cat<br>indoor<br>merge |  
 | bip_39_word_new_br_11 | fitness<br>arrow<br>brief<br>master<br>clerk<br>client<br>fame<br>cat<br>indoor<br>merge<br>soda |  
@@ -147,6 +159,18 @@ indoor |
 | bip_39_word_space_7 | fitness arrow brief master clerk client fame |  
 | bip_39_word_space_8 | fitness arrow brief master clerk client fame cat |  
 | bip_39_word_space_9 | fitness arrow brief master clerk client fame cat indoor |  
+| bip_39_word_underscore_1 | fitness |  
+| bip_39_word_underscore_10 | fitness_arrow_brief_master_clerk_client_fame_cat_indoor_merge |  
+| bip_39_word_underscore_11 | fitness_arrow_brief_master_clerk_client_fame_cat_indoor_merge_soda |  
+| bip_39_word_underscore_12 | fitness_arrow_brief_master_clerk_client_fame_cat_indoor_merge_soda_arrow |  
+| bip_39_word_underscore_2 | fitness_arrow |  
+| bip_39_word_underscore_3 | fitness_arrow_brief |  
+| bip_39_word_underscore_4 | fitness_arrow_brief_master |  
+| bip_39_word_underscore_5 | fitness_arrow_brief_master_clerk |  
+| bip_39_word_underscore_6 | fitness_arrow_brief_master_clerk_client |  
+| bip_39_word_underscore_7 | fitness_arrow_brief_master_clerk_client_fame |  
+| bip_39_word_underscore_8 | fitness_arrow_brief_master_clerk_client_fame_cat |  
+| bip_39_word_underscore_9 | fitness_arrow_brief_master_clerk_client_fame_cat_indoor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

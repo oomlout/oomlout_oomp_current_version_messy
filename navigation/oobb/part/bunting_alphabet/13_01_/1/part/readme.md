@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gaze |  
+| bip_39_word_dash_10 | gaze-fabric-hope-soon-castle-you-hybrid-romance-region-man |  
+| bip_39_word_dash_11 | gaze-fabric-hope-soon-castle-you-hybrid-romance-region-man-popular |  
+| bip_39_word_dash_12 | gaze-fabric-hope-soon-castle-you-hybrid-romance-region-man-popular-assist |  
+| bip_39_word_dash_2 | gaze-fabric |  
+| bip_39_word_dash_3 | gaze-fabric-hope |  
+| bip_39_word_dash_4 | gaze-fabric-hope-soon |  
+| bip_39_word_dash_5 | gaze-fabric-hope-soon-castle |  
+| bip_39_word_dash_6 | gaze-fabric-hope-soon-castle-you |  
+| bip_39_word_dash_7 | gaze-fabric-hope-soon-castle-you-hybrid |  
+| bip_39_word_dash_8 | gaze-fabric-hope-soon-castle-you-hybrid-romance |  
+| bip_39_word_dash_9 | gaze-fabric-hope-soon-castle-you-hybrid-romance-region |  
 | bip_39_word_new_br_1 | gaze |  
 | bip_39_word_new_br_10 | gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance<br>region<br>man |  
 | bip_39_word_new_br_11 | gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance<br>region<br>man<br>popular |  
@@ -147,6 +159,18 @@ region |
 | bip_39_word_space_7 | gaze fabric hope soon castle you hybrid |  
 | bip_39_word_space_8 | gaze fabric hope soon castle you hybrid romance |  
 | bip_39_word_space_9 | gaze fabric hope soon castle you hybrid romance region |  
+| bip_39_word_underscore_1 | gaze |  
+| bip_39_word_underscore_10 | gaze_fabric_hope_soon_castle_you_hybrid_romance_region_man |  
+| bip_39_word_underscore_11 | gaze_fabric_hope_soon_castle_you_hybrid_romance_region_man_popular |  
+| bip_39_word_underscore_12 | gaze_fabric_hope_soon_castle_you_hybrid_romance_region_man_popular_assist |  
+| bip_39_word_underscore_2 | gaze_fabric |  
+| bip_39_word_underscore_3 | gaze_fabric_hope |  
+| bip_39_word_underscore_4 | gaze_fabric_hope_soon |  
+| bip_39_word_underscore_5 | gaze_fabric_hope_soon_castle |  
+| bip_39_word_underscore_6 | gaze_fabric_hope_soon_castle_you |  
+| bip_39_word_underscore_7 | gaze_fabric_hope_soon_castle_you_hybrid |  
+| bip_39_word_underscore_8 | gaze_fabric_hope_soon_castle_you_hybrid_romance |  
+| bip_39_word_underscore_9 | gaze_fabric_hope_soon_castle_you_hybrid_romance_region |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

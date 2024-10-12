@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chat
+bip_39_word_dash_10: chat-search-delay-sad-town-zero-glance-sunset-response-glory
+bip_39_word_dash_11: chat-search-delay-sad-town-zero-glance-sunset-response-glory-link
+bip_39_word_dash_12: chat-search-delay-sad-town-zero-glance-sunset-response-glory-link-acquire
+bip_39_word_dash_2: chat-search
+bip_39_word_dash_3: chat-search-delay
+bip_39_word_dash_4: chat-search-delay-sad
+bip_39_word_dash_5: chat-search-delay-sad-town
+bip_39_word_dash_6: chat-search-delay-sad-town-zero
+bip_39_word_dash_7: chat-search-delay-sad-town-zero-glance
+bip_39_word_dash_8: chat-search-delay-sad-town-zero-glance-sunset
+bip_39_word_dash_9: chat-search-delay-sad-town-zero-glance-sunset-response
 bip_39_word_new_br_1: chat
 bip_39_word_new_br_10: chat<br>search<br>delay<br>sad<br>town<br>zero<br>glance<br>sunset<br>response<br>glory
 bip_39_word_new_br_11: chat<br>search<br>delay<br>sad<br>town<br>zero<br>glance<br>sunset<br>response<br>glory<br>link
@@ -193,6 +205,18 @@ bip_39_word_space_6: chat search delay sad town zero
 bip_39_word_space_7: chat search delay sad town zero glance
 bip_39_word_space_8: chat search delay sad town zero glance sunset
 bip_39_word_space_9: chat search delay sad town zero glance sunset response
+bip_39_word_underscore_1: chat
+bip_39_word_underscore_10: chat_search_delay_sad_town_zero_glance_sunset_response_glory
+bip_39_word_underscore_11: chat_search_delay_sad_town_zero_glance_sunset_response_glory_link
+bip_39_word_underscore_12: chat_search_delay_sad_town_zero_glance_sunset_response_glory_link_acquire
+bip_39_word_underscore_2: chat_search
+bip_39_word_underscore_3: chat_search_delay
+bip_39_word_underscore_4: chat_search_delay_sad
+bip_39_word_underscore_5: chat_search_delay_sad_town
+bip_39_word_underscore_6: chat_search_delay_sad_town_zero
+bip_39_word_underscore_7: chat_search_delay_sad_town_zero_glance
+bip_39_word_underscore_8: chat_search_delay_sad_town_zero_glance_sunset
+bip_39_word_underscore_9: chat_search_delay_sad_town_zero_glance_sunset_response
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | index |  
+| bip_39_word_dash_10 | index-veteran-idle-craft-inherit-glance-enjoy-injury-year-copy |  
+| bip_39_word_dash_11 | index-veteran-idle-craft-inherit-glance-enjoy-injury-year-copy-stove |  
+| bip_39_word_dash_12 | index-veteran-idle-craft-inherit-glance-enjoy-injury-year-copy-stove-ability |  
+| bip_39_word_dash_2 | index-veteran |  
+| bip_39_word_dash_3 | index-veteran-idle |  
+| bip_39_word_dash_4 | index-veteran-idle-craft |  
+| bip_39_word_dash_5 | index-veteran-idle-craft-inherit |  
+| bip_39_word_dash_6 | index-veteran-idle-craft-inherit-glance |  
+| bip_39_word_dash_7 | index-veteran-idle-craft-inherit-glance-enjoy |  
+| bip_39_word_dash_8 | index-veteran-idle-craft-inherit-glance-enjoy-injury |  
+| bip_39_word_dash_9 | index-veteran-idle-craft-inherit-glance-enjoy-injury-year |  
 | bip_39_word_new_br_1 | index |  
 | bip_39_word_new_br_10 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy |  
 | bip_39_word_new_br_11 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy<br>stove |  
@@ -147,6 +159,18 @@ year |
 | bip_39_word_space_7 | index veteran idle craft inherit glance enjoy |  
 | bip_39_word_space_8 | index veteran idle craft inherit glance enjoy injury |  
 | bip_39_word_space_9 | index veteran idle craft inherit glance enjoy injury year |  
+| bip_39_word_underscore_1 | index |  
+| bip_39_word_underscore_10 | index_veteran_idle_craft_inherit_glance_enjoy_injury_year_copy |  
+| bip_39_word_underscore_11 | index_veteran_idle_craft_inherit_glance_enjoy_injury_year_copy_stove |  
+| bip_39_word_underscore_12 | index_veteran_idle_craft_inherit_glance_enjoy_injury_year_copy_stove_ability |  
+| bip_39_word_underscore_2 | index_veteran |  
+| bip_39_word_underscore_3 | index_veteran_idle |  
+| bip_39_word_underscore_4 | index_veteran_idle_craft |  
+| bip_39_word_underscore_5 | index_veteran_idle_craft_inherit |  
+| bip_39_word_underscore_6 | index_veteran_idle_craft_inherit_glance |  
+| bip_39_word_underscore_7 | index_veteran_idle_craft_inherit_glance_enjoy |  
+| bip_39_word_underscore_8 | index_veteran_idle_craft_inherit_glance_enjoy_injury |  
+| bip_39_word_underscore_9 | index_veteran_idle_craft_inherit_glance_enjoy_injury_year |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

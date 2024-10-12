@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bar |  
+| bip_39_word_dash_10 | bar-sunset-infant-civil-ring-fat-memory-orchard-rival-satisfy |  
+| bip_39_word_dash_11 | bar-sunset-infant-civil-ring-fat-memory-orchard-rival-satisfy-make |  
+| bip_39_word_dash_12 | bar-sunset-infant-civil-ring-fat-memory-orchard-rival-satisfy-make-arrange |  
+| bip_39_word_dash_2 | bar-sunset |  
+| bip_39_word_dash_3 | bar-sunset-infant |  
+| bip_39_word_dash_4 | bar-sunset-infant-civil |  
+| bip_39_word_dash_5 | bar-sunset-infant-civil-ring |  
+| bip_39_word_dash_6 | bar-sunset-infant-civil-ring-fat |  
+| bip_39_word_dash_7 | bar-sunset-infant-civil-ring-fat-memory |  
+| bip_39_word_dash_8 | bar-sunset-infant-civil-ring-fat-memory-orchard |  
+| bip_39_word_dash_9 | bar-sunset-infant-civil-ring-fat-memory-orchard-rival |  
 | bip_39_word_new_br_1 | bar |  
 | bip_39_word_new_br_10 | bar<br>sunset<br>infant<br>civil<br>ring<br>fat<br>memory<br>orchard<br>rival<br>satisfy |  
 | bip_39_word_new_br_11 | bar<br>sunset<br>infant<br>civil<br>ring<br>fat<br>memory<br>orchard<br>rival<br>satisfy<br>make |  
@@ -147,6 +159,18 @@ rival |
 | bip_39_word_space_7 | bar sunset infant civil ring fat memory |  
 | bip_39_word_space_8 | bar sunset infant civil ring fat memory orchard |  
 | bip_39_word_space_9 | bar sunset infant civil ring fat memory orchard rival |  
+| bip_39_word_underscore_1 | bar |  
+| bip_39_word_underscore_10 | bar_sunset_infant_civil_ring_fat_memory_orchard_rival_satisfy |  
+| bip_39_word_underscore_11 | bar_sunset_infant_civil_ring_fat_memory_orchard_rival_satisfy_make |  
+| bip_39_word_underscore_12 | bar_sunset_infant_civil_ring_fat_memory_orchard_rival_satisfy_make_arrange |  
+| bip_39_word_underscore_2 | bar_sunset |  
+| bip_39_word_underscore_3 | bar_sunset_infant |  
+| bip_39_word_underscore_4 | bar_sunset_infant_civil |  
+| bip_39_word_underscore_5 | bar_sunset_infant_civil_ring |  
+| bip_39_word_underscore_6 | bar_sunset_infant_civil_ring_fat |  
+| bip_39_word_underscore_7 | bar_sunset_infant_civil_ring_fat_memory |  
+| bip_39_word_underscore_8 | bar_sunset_infant_civil_ring_fat_memory_orchard |  
+| bip_39_word_underscore_9 | bar_sunset_infant_civil_ring_fat_memory_orchard_rival |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

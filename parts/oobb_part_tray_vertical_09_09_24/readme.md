@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | debris |  
+| bip_39_word_dash_10 | debris-clap-cage-remind-fish-foster-remove-curious-icon-stock |  
+| bip_39_word_dash_11 | debris-clap-cage-remind-fish-foster-remove-curious-icon-stock-stamp |  
+| bip_39_word_dash_12 | debris-clap-cage-remind-fish-foster-remove-curious-icon-stock-stamp-above |  
+| bip_39_word_dash_2 | debris-clap |  
+| bip_39_word_dash_3 | debris-clap-cage |  
+| bip_39_word_dash_4 | debris-clap-cage-remind |  
+| bip_39_word_dash_5 | debris-clap-cage-remind-fish |  
+| bip_39_word_dash_6 | debris-clap-cage-remind-fish-foster |  
+| bip_39_word_dash_7 | debris-clap-cage-remind-fish-foster-remove |  
+| bip_39_word_dash_8 | debris-clap-cage-remind-fish-foster-remove-curious |  
+| bip_39_word_dash_9 | debris-clap-cage-remind-fish-foster-remove-curious-icon |  
 | bip_39_word_new_br_1 | debris |  
 | bip_39_word_new_br_10 | debris<br>clap<br>cage<br>remind<br>fish<br>foster<br>remove<br>curious<br>icon<br>stock |  
 | bip_39_word_new_br_11 | debris<br>clap<br>cage<br>remind<br>fish<br>foster<br>remove<br>curious<br>icon<br>stock<br>stamp |  
@@ -147,6 +159,18 @@ icon |
 | bip_39_word_space_7 | debris clap cage remind fish foster remove |  
 | bip_39_word_space_8 | debris clap cage remind fish foster remove curious |  
 | bip_39_word_space_9 | debris clap cage remind fish foster remove curious icon |  
+| bip_39_word_underscore_1 | debris |  
+| bip_39_word_underscore_10 | debris_clap_cage_remind_fish_foster_remove_curious_icon_stock |  
+| bip_39_word_underscore_11 | debris_clap_cage_remind_fish_foster_remove_curious_icon_stock_stamp |  
+| bip_39_word_underscore_12 | debris_clap_cage_remind_fish_foster_remove_curious_icon_stock_stamp_above |  
+| bip_39_word_underscore_2 | debris_clap |  
+| bip_39_word_underscore_3 | debris_clap_cage |  
+| bip_39_word_underscore_4 | debris_clap_cage_remind |  
+| bip_39_word_underscore_5 | debris_clap_cage_remind_fish |  
+| bip_39_word_underscore_6 | debris_clap_cage_remind_fish_foster |  
+| bip_39_word_underscore_7 | debris_clap_cage_remind_fish_foster_remove |  
+| bip_39_word_underscore_8 | debris_clap_cage_remind_fish_foster_remove_curious |  
+| bip_39_word_underscore_9 | debris_clap_cage_remind_fish_foster_remove_curious_icon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

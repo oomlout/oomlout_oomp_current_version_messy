@@ -1,3 +1,15 @@
+bip_39_word_dash_1: issue
+bip_39_word_dash_10: issue-uphold-siren-auto-clever-hurt-dignity-cricket-traffic-stem
+bip_39_word_dash_11: issue-uphold-siren-auto-clever-hurt-dignity-cricket-traffic-stem-shoot
+bip_39_word_dash_12: issue-uphold-siren-auto-clever-hurt-dignity-cricket-traffic-stem-shoot-all
+bip_39_word_dash_2: issue-uphold
+bip_39_word_dash_3: issue-uphold-siren
+bip_39_word_dash_4: issue-uphold-siren-auto
+bip_39_word_dash_5: issue-uphold-siren-auto-clever
+bip_39_word_dash_6: issue-uphold-siren-auto-clever-hurt
+bip_39_word_dash_7: issue-uphold-siren-auto-clever-hurt-dignity
+bip_39_word_dash_8: issue-uphold-siren-auto-clever-hurt-dignity-cricket
+bip_39_word_dash_9: issue-uphold-siren-auto-clever-hurt-dignity-cricket-traffic
 bip_39_word_new_br_1: issue
 bip_39_word_new_br_10: issue<br>uphold<br>siren<br>auto<br>clever<br>hurt<br>dignity<br>cricket<br>traffic<br>stem
 bip_39_word_new_br_11: issue<br>uphold<br>siren<br>auto<br>clever<br>hurt<br>dignity<br>cricket<br>traffic<br>stem<br>shoot
@@ -194,6 +206,18 @@ bip_39_word_space_6: issue uphold siren auto clever hurt
 bip_39_word_space_7: issue uphold siren auto clever hurt dignity
 bip_39_word_space_8: issue uphold siren auto clever hurt dignity cricket
 bip_39_word_space_9: issue uphold siren auto clever hurt dignity cricket traffic
+bip_39_word_underscore_1: issue
+bip_39_word_underscore_10: issue_uphold_siren_auto_clever_hurt_dignity_cricket_traffic_stem
+bip_39_word_underscore_11: issue_uphold_siren_auto_clever_hurt_dignity_cricket_traffic_stem_shoot
+bip_39_word_underscore_12: issue_uphold_siren_auto_clever_hurt_dignity_cricket_traffic_stem_shoot_all
+bip_39_word_underscore_2: issue_uphold
+bip_39_word_underscore_3: issue_uphold_siren
+bip_39_word_underscore_4: issue_uphold_siren_auto
+bip_39_word_underscore_5: issue_uphold_siren_auto_clever
+bip_39_word_underscore_6: issue_uphold_siren_auto_clever_hurt
+bip_39_word_underscore_7: issue_uphold_siren_auto_clever_hurt_dignity
+bip_39_word_underscore_8: issue_uphold_siren_auto_clever_hurt_dignity_cricket
+bip_39_word_underscore_9: issue_uphold_siren_auto_clever_hurt_dignity_cricket_traffic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

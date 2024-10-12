@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | install |  
+| bip_39_word_dash_10 | install-limit-inspire-explain-lobster-dinosaur-document-upset-tiny-hurry |  
+| bip_39_word_dash_11 | install-limit-inspire-explain-lobster-dinosaur-document-upset-tiny-hurry-open |  
+| bip_39_word_dash_12 | install-limit-inspire-explain-lobster-dinosaur-document-upset-tiny-hurry-open-arctic |  
+| bip_39_word_dash_2 | install-limit |  
+| bip_39_word_dash_3 | install-limit-inspire |  
+| bip_39_word_dash_4 | install-limit-inspire-explain |  
+| bip_39_word_dash_5 | install-limit-inspire-explain-lobster |  
+| bip_39_word_dash_6 | install-limit-inspire-explain-lobster-dinosaur |  
+| bip_39_word_dash_7 | install-limit-inspire-explain-lobster-dinosaur-document |  
+| bip_39_word_dash_8 | install-limit-inspire-explain-lobster-dinosaur-document-upset |  
+| bip_39_word_dash_9 | install-limit-inspire-explain-lobster-dinosaur-document-upset-tiny |  
 | bip_39_word_new_br_1 | install |  
 | bip_39_word_new_br_10 | install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry |  
 | bip_39_word_new_br_11 | install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry<br>open |  
@@ -147,6 +159,18 @@ tiny |
 | bip_39_word_space_7 | install limit inspire explain lobster dinosaur document |  
 | bip_39_word_space_8 | install limit inspire explain lobster dinosaur document upset |  
 | bip_39_word_space_9 | install limit inspire explain lobster dinosaur document upset tiny |  
+| bip_39_word_underscore_1 | install |  
+| bip_39_word_underscore_10 | install_limit_inspire_explain_lobster_dinosaur_document_upset_tiny_hurry |  
+| bip_39_word_underscore_11 | install_limit_inspire_explain_lobster_dinosaur_document_upset_tiny_hurry_open |  
+| bip_39_word_underscore_12 | install_limit_inspire_explain_lobster_dinosaur_document_upset_tiny_hurry_open_arctic |  
+| bip_39_word_underscore_2 | install_limit |  
+| bip_39_word_underscore_3 | install_limit_inspire |  
+| bip_39_word_underscore_4 | install_limit_inspire_explain |  
+| bip_39_word_underscore_5 | install_limit_inspire_explain_lobster |  
+| bip_39_word_underscore_6 | install_limit_inspire_explain_lobster_dinosaur |  
+| bip_39_word_underscore_7 | install_limit_inspire_explain_lobster_dinosaur_document |  
+| bip_39_word_underscore_8 | install_limit_inspire_explain_lobster_dinosaur_document_upset |  
+| bip_39_word_underscore_9 | install_limit_inspire_explain_lobster_dinosaur_document_upset_tiny |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

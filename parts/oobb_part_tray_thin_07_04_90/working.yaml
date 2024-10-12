@@ -1,3 +1,15 @@
+bip_39_word_dash_1: suggest
+bip_39_word_dash_10: suggest-rail-joke-wrong-guitar-noodle-bring-flame-approve-bracket
+bip_39_word_dash_11: suggest-rail-joke-wrong-guitar-noodle-bring-flame-approve-bracket-tent
+bip_39_word_dash_12: suggest-rail-joke-wrong-guitar-noodle-bring-flame-approve-bracket-tent-again
+bip_39_word_dash_2: suggest-rail
+bip_39_word_dash_3: suggest-rail-joke
+bip_39_word_dash_4: suggest-rail-joke-wrong
+bip_39_word_dash_5: suggest-rail-joke-wrong-guitar
+bip_39_word_dash_6: suggest-rail-joke-wrong-guitar-noodle
+bip_39_word_dash_7: suggest-rail-joke-wrong-guitar-noodle-bring
+bip_39_word_dash_8: suggest-rail-joke-wrong-guitar-noodle-bring-flame
+bip_39_word_dash_9: suggest-rail-joke-wrong-guitar-noodle-bring-flame-approve
 bip_39_word_new_br_1: suggest
 bip_39_word_new_br_10: suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket
 bip_39_word_new_br_11: suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket<br>tent
@@ -193,6 +205,18 @@ bip_39_word_space_6: suggest rail joke wrong guitar noodle
 bip_39_word_space_7: suggest rail joke wrong guitar noodle bring
 bip_39_word_space_8: suggest rail joke wrong guitar noodle bring flame
 bip_39_word_space_9: suggest rail joke wrong guitar noodle bring flame approve
+bip_39_word_underscore_1: suggest
+bip_39_word_underscore_10: suggest_rail_joke_wrong_guitar_noodle_bring_flame_approve_bracket
+bip_39_word_underscore_11: suggest_rail_joke_wrong_guitar_noodle_bring_flame_approve_bracket_tent
+bip_39_word_underscore_12: suggest_rail_joke_wrong_guitar_noodle_bring_flame_approve_bracket_tent_again
+bip_39_word_underscore_2: suggest_rail
+bip_39_word_underscore_3: suggest_rail_joke
+bip_39_word_underscore_4: suggest_rail_joke_wrong
+bip_39_word_underscore_5: suggest_rail_joke_wrong_guitar
+bip_39_word_underscore_6: suggest_rail_joke_wrong_guitar_noodle
+bip_39_word_underscore_7: suggest_rail_joke_wrong_guitar_noodle_bring
+bip_39_word_underscore_8: suggest_rail_joke_wrong_guitar_noodle_bring_flame
+bip_39_word_underscore_9: suggest_rail_joke_wrong_guitar_noodle_bring_flame_approve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

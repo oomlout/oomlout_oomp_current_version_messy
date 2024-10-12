@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | evoke |  
+| bip_39_word_dash_10 | evoke-couple-rare-face-awesome-click-thought-mosquito-cloth-gun |  
+| bip_39_word_dash_11 | evoke-couple-rare-face-awesome-click-thought-mosquito-cloth-gun-neither |  
+| bip_39_word_dash_12 | evoke-couple-rare-face-awesome-click-thought-mosquito-cloth-gun-neither-artefact |  
+| bip_39_word_dash_2 | evoke-couple |  
+| bip_39_word_dash_3 | evoke-couple-rare |  
+| bip_39_word_dash_4 | evoke-couple-rare-face |  
+| bip_39_word_dash_5 | evoke-couple-rare-face-awesome |  
+| bip_39_word_dash_6 | evoke-couple-rare-face-awesome-click |  
+| bip_39_word_dash_7 | evoke-couple-rare-face-awesome-click-thought |  
+| bip_39_word_dash_8 | evoke-couple-rare-face-awesome-click-thought-mosquito |  
+| bip_39_word_dash_9 | evoke-couple-rare-face-awesome-click-thought-mosquito-cloth |  
 | bip_39_word_new_br_1 | evoke |  
 | bip_39_word_new_br_10 | evoke<br>couple<br>rare<br>face<br>awesome<br>click<br>thought<br>mosquito<br>cloth<br>gun |  
 | bip_39_word_new_br_11 | evoke<br>couple<br>rare<br>face<br>awesome<br>click<br>thought<br>mosquito<br>cloth<br>gun<br>neither |  
@@ -147,6 +159,18 @@ cloth |
 | bip_39_word_space_7 | evoke couple rare face awesome click thought |  
 | bip_39_word_space_8 | evoke couple rare face awesome click thought mosquito |  
 | bip_39_word_space_9 | evoke couple rare face awesome click thought mosquito cloth |  
+| bip_39_word_underscore_1 | evoke |  
+| bip_39_word_underscore_10 | evoke_couple_rare_face_awesome_click_thought_mosquito_cloth_gun |  
+| bip_39_word_underscore_11 | evoke_couple_rare_face_awesome_click_thought_mosquito_cloth_gun_neither |  
+| bip_39_word_underscore_12 | evoke_couple_rare_face_awesome_click_thought_mosquito_cloth_gun_neither_artefact |  
+| bip_39_word_underscore_2 | evoke_couple |  
+| bip_39_word_underscore_3 | evoke_couple_rare |  
+| bip_39_word_underscore_4 | evoke_couple_rare_face |  
+| bip_39_word_underscore_5 | evoke_couple_rare_face_awesome |  
+| bip_39_word_underscore_6 | evoke_couple_rare_face_awesome_click |  
+| bip_39_word_underscore_7 | evoke_couple_rare_face_awesome_click_thought |  
+| bip_39_word_underscore_8 | evoke_couple_rare_face_awesome_click_thought_mosquito |  
+| bip_39_word_underscore_9 | evoke_couple_rare_face_awesome_click_thought_mosquito_cloth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

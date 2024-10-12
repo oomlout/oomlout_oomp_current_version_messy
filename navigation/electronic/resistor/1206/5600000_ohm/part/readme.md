@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | daring |  
+| bip_39_word_dash_10 | daring-visit-session-bar-chief-tomorrow-mom-program-tail-jeans |  
+| bip_39_word_dash_11 | daring-visit-session-bar-chief-tomorrow-mom-program-tail-jeans-fish |  
+| bip_39_word_dash_12 | daring-visit-session-bar-chief-tomorrow-mom-program-tail-jeans-fish-advance |  
+| bip_39_word_dash_2 | daring-visit |  
+| bip_39_word_dash_3 | daring-visit-session |  
+| bip_39_word_dash_4 | daring-visit-session-bar |  
+| bip_39_word_dash_5 | daring-visit-session-bar-chief |  
+| bip_39_word_dash_6 | daring-visit-session-bar-chief-tomorrow |  
+| bip_39_word_dash_7 | daring-visit-session-bar-chief-tomorrow-mom |  
+| bip_39_word_dash_8 | daring-visit-session-bar-chief-tomorrow-mom-program |  
+| bip_39_word_dash_9 | daring-visit-session-bar-chief-tomorrow-mom-program-tail |  
 | bip_39_word_new_br_1 | daring |  
 | bip_39_word_new_br_10 | daring<br>visit<br>session<br>bar<br>chief<br>tomorrow<br>mom<br>program<br>tail<br>jeans |  
 | bip_39_word_new_br_11 | daring<br>visit<br>session<br>bar<br>chief<br>tomorrow<br>mom<br>program<br>tail<br>jeans<br>fish |  
@@ -147,6 +159,18 @@ tail |
 | bip_39_word_space_7 | daring visit session bar chief tomorrow mom |  
 | bip_39_word_space_8 | daring visit session bar chief tomorrow mom program |  
 | bip_39_word_space_9 | daring visit session bar chief tomorrow mom program tail |  
+| bip_39_word_underscore_1 | daring |  
+| bip_39_word_underscore_10 | daring_visit_session_bar_chief_tomorrow_mom_program_tail_jeans |  
+| bip_39_word_underscore_11 | daring_visit_session_bar_chief_tomorrow_mom_program_tail_jeans_fish |  
+| bip_39_word_underscore_12 | daring_visit_session_bar_chief_tomorrow_mom_program_tail_jeans_fish_advance |  
+| bip_39_word_underscore_2 | daring_visit |  
+| bip_39_word_underscore_3 | daring_visit_session |  
+| bip_39_word_underscore_4 | daring_visit_session_bar |  
+| bip_39_word_underscore_5 | daring_visit_session_bar_chief |  
+| bip_39_word_underscore_6 | daring_visit_session_bar_chief_tomorrow |  
+| bip_39_word_underscore_7 | daring_visit_session_bar_chief_tomorrow_mom |  
+| bip_39_word_underscore_8 | daring_visit_session_bar_chief_tomorrow_mom_program |  
+| bip_39_word_underscore_9 | daring_visit_session_bar_chief_tomorrow_mom_program_tail |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

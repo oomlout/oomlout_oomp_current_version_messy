@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | misery |  
+| bip_39_word_dash_10 | misery-choice-govern-model-cost-crush-spend-fire-twist-estate |  
+| bip_39_word_dash_11 | misery-choice-govern-model-cost-crush-spend-fire-twist-estate-ability |  
+| bip_39_word_dash_12 | misery-choice-govern-model-cost-crush-spend-fire-twist-estate-ability-aspect |  
+| bip_39_word_dash_2 | misery-choice |  
+| bip_39_word_dash_3 | misery-choice-govern |  
+| bip_39_word_dash_4 | misery-choice-govern-model |  
+| bip_39_word_dash_5 | misery-choice-govern-model-cost |  
+| bip_39_word_dash_6 | misery-choice-govern-model-cost-crush |  
+| bip_39_word_dash_7 | misery-choice-govern-model-cost-crush-spend |  
+| bip_39_word_dash_8 | misery-choice-govern-model-cost-crush-spend-fire |  
+| bip_39_word_dash_9 | misery-choice-govern-model-cost-crush-spend-fire-twist |  
 | bip_39_word_new_br_1 | misery |  
 | bip_39_word_new_br_10 | misery<br>choice<br>govern<br>model<br>cost<br>crush<br>spend<br>fire<br>twist<br>estate |  
 | bip_39_word_new_br_11 | misery<br>choice<br>govern<br>model<br>cost<br>crush<br>spend<br>fire<br>twist<br>estate<br>ability |  
@@ -147,6 +159,18 @@ twist |
 | bip_39_word_space_7 | misery choice govern model cost crush spend |  
 | bip_39_word_space_8 | misery choice govern model cost crush spend fire |  
 | bip_39_word_space_9 | misery choice govern model cost crush spend fire twist |  
+| bip_39_word_underscore_1 | misery |  
+| bip_39_word_underscore_10 | misery_choice_govern_model_cost_crush_spend_fire_twist_estate |  
+| bip_39_word_underscore_11 | misery_choice_govern_model_cost_crush_spend_fire_twist_estate_ability |  
+| bip_39_word_underscore_12 | misery_choice_govern_model_cost_crush_spend_fire_twist_estate_ability_aspect |  
+| bip_39_word_underscore_2 | misery_choice |  
+| bip_39_word_underscore_3 | misery_choice_govern |  
+| bip_39_word_underscore_4 | misery_choice_govern_model |  
+| bip_39_word_underscore_5 | misery_choice_govern_model_cost |  
+| bip_39_word_underscore_6 | misery_choice_govern_model_cost_crush |  
+| bip_39_word_underscore_7 | misery_choice_govern_model_cost_crush_spend |  
+| bip_39_word_underscore_8 | misery_choice_govern_model_cost_crush_spend_fire |  
+| bip_39_word_underscore_9 | misery_choice_govern_model_cost_crush_spend_fire_twist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

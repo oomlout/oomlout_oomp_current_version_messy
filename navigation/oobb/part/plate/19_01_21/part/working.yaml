@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fall
+bip_39_word_dash_10: fall-wall-weekend-forget-execute-wait-session-pigeon-chapter-genius
+bip_39_word_dash_11: fall-wall-weekend-forget-execute-wait-session-pigeon-chapter-genius-position
+bip_39_word_dash_12: fall-wall-weekend-forget-execute-wait-session-pigeon-chapter-genius-position-arrange
+bip_39_word_dash_2: fall-wall
+bip_39_word_dash_3: fall-wall-weekend
+bip_39_word_dash_4: fall-wall-weekend-forget
+bip_39_word_dash_5: fall-wall-weekend-forget-execute
+bip_39_word_dash_6: fall-wall-weekend-forget-execute-wait
+bip_39_word_dash_7: fall-wall-weekend-forget-execute-wait-session
+bip_39_word_dash_8: fall-wall-weekend-forget-execute-wait-session-pigeon
+bip_39_word_dash_9: fall-wall-weekend-forget-execute-wait-session-pigeon-chapter
 bip_39_word_new_br_1: fall
 bip_39_word_new_br_10: fall<br>wall<br>weekend<br>forget<br>execute<br>wait<br>session<br>pigeon<br>chapter<br>genius
 bip_39_word_new_br_11: fall<br>wall<br>weekend<br>forget<br>execute<br>wait<br>session<br>pigeon<br>chapter<br>genius<br>position
@@ -194,6 +206,18 @@ bip_39_word_space_6: fall wall weekend forget execute wait
 bip_39_word_space_7: fall wall weekend forget execute wait session
 bip_39_word_space_8: fall wall weekend forget execute wait session pigeon
 bip_39_word_space_9: fall wall weekend forget execute wait session pigeon chapter
+bip_39_word_underscore_1: fall
+bip_39_word_underscore_10: fall_wall_weekend_forget_execute_wait_session_pigeon_chapter_genius
+bip_39_word_underscore_11: fall_wall_weekend_forget_execute_wait_session_pigeon_chapter_genius_position
+bip_39_word_underscore_12: fall_wall_weekend_forget_execute_wait_session_pigeon_chapter_genius_position_arrange
+bip_39_word_underscore_2: fall_wall
+bip_39_word_underscore_3: fall_wall_weekend
+bip_39_word_underscore_4: fall_wall_weekend_forget
+bip_39_word_underscore_5: fall_wall_weekend_forget_execute
+bip_39_word_underscore_6: fall_wall_weekend_forget_execute_wait
+bip_39_word_underscore_7: fall_wall_weekend_forget_execute_wait_session
+bip_39_word_underscore_8: fall_wall_weekend_forget_execute_wait_session_pigeon
+bip_39_word_underscore_9: fall_wall_weekend_forget_execute_wait_session_pigeon_chapter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

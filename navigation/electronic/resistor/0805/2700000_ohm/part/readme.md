@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | giant |  
+| bip_39_word_dash_10 | giant-two-alert-second-match-height-slab-assault-foot-tattoo |  
+| bip_39_word_dash_11 | giant-two-alert-second-match-height-slab-assault-foot-tattoo-relief |  
+| bip_39_word_dash_12 | giant-two-alert-second-match-height-slab-assault-foot-tattoo-relief-afraid |  
+| bip_39_word_dash_2 | giant-two |  
+| bip_39_word_dash_3 | giant-two-alert |  
+| bip_39_word_dash_4 | giant-two-alert-second |  
+| bip_39_word_dash_5 | giant-two-alert-second-match |  
+| bip_39_word_dash_6 | giant-two-alert-second-match-height |  
+| bip_39_word_dash_7 | giant-two-alert-second-match-height-slab |  
+| bip_39_word_dash_8 | giant-two-alert-second-match-height-slab-assault |  
+| bip_39_word_dash_9 | giant-two-alert-second-match-height-slab-assault-foot |  
 | bip_39_word_new_br_1 | giant |  
 | bip_39_word_new_br_10 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault<br>foot<br>tattoo |  
 | bip_39_word_new_br_11 | giant<br>two<br>alert<br>second<br>match<br>height<br>slab<br>assault<br>foot<br>tattoo<br>relief |  
@@ -147,6 +159,18 @@ foot |
 | bip_39_word_space_7 | giant two alert second match height slab |  
 | bip_39_word_space_8 | giant two alert second match height slab assault |  
 | bip_39_word_space_9 | giant two alert second match height slab assault foot |  
+| bip_39_word_underscore_1 | giant |  
+| bip_39_word_underscore_10 | giant_two_alert_second_match_height_slab_assault_foot_tattoo |  
+| bip_39_word_underscore_11 | giant_two_alert_second_match_height_slab_assault_foot_tattoo_relief |  
+| bip_39_word_underscore_12 | giant_two_alert_second_match_height_slab_assault_foot_tattoo_relief_afraid |  
+| bip_39_word_underscore_2 | giant_two |  
+| bip_39_word_underscore_3 | giant_two_alert |  
+| bip_39_word_underscore_4 | giant_two_alert_second |  
+| bip_39_word_underscore_5 | giant_two_alert_second_match |  
+| bip_39_word_underscore_6 | giant_two_alert_second_match_height |  
+| bip_39_word_underscore_7 | giant_two_alert_second_match_height_slab |  
+| bip_39_word_underscore_8 | giant_two_alert_second_match_height_slab_assault |  
+| bip_39_word_underscore_9 | giant_two_alert_second_match_height_slab_assault_foot |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

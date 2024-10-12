@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hour
+bip_39_word_dash_10: hour-fiscal-adapt-vast-risk-fit-opera-saddle-resist-this
+bip_39_word_dash_11: hour-fiscal-adapt-vast-risk-fit-opera-saddle-resist-this-group
+bip_39_word_dash_12: hour-fiscal-adapt-vast-risk-fit-opera-saddle-resist-this-group-arena
+bip_39_word_dash_2: hour-fiscal
+bip_39_word_dash_3: hour-fiscal-adapt
+bip_39_word_dash_4: hour-fiscal-adapt-vast
+bip_39_word_dash_5: hour-fiscal-adapt-vast-risk
+bip_39_word_dash_6: hour-fiscal-adapt-vast-risk-fit
+bip_39_word_dash_7: hour-fiscal-adapt-vast-risk-fit-opera
+bip_39_word_dash_8: hour-fiscal-adapt-vast-risk-fit-opera-saddle
+bip_39_word_dash_9: hour-fiscal-adapt-vast-risk-fit-opera-saddle-resist
 bip_39_word_new_br_1: hour
 bip_39_word_new_br_10: hour<br>fiscal<br>adapt<br>vast<br>risk<br>fit<br>opera<br>saddle<br>resist<br>this
 bip_39_word_new_br_11: hour<br>fiscal<br>adapt<br>vast<br>risk<br>fit<br>opera<br>saddle<br>resist<br>this<br>group
@@ -192,6 +204,18 @@ bip_39_word_space_6: hour fiscal adapt vast risk fit
 bip_39_word_space_7: hour fiscal adapt vast risk fit opera
 bip_39_word_space_8: hour fiscal adapt vast risk fit opera saddle
 bip_39_word_space_9: hour fiscal adapt vast risk fit opera saddle resist
+bip_39_word_underscore_1: hour
+bip_39_word_underscore_10: hour_fiscal_adapt_vast_risk_fit_opera_saddle_resist_this
+bip_39_word_underscore_11: hour_fiscal_adapt_vast_risk_fit_opera_saddle_resist_this_group
+bip_39_word_underscore_12: hour_fiscal_adapt_vast_risk_fit_opera_saddle_resist_this_group_arena
+bip_39_word_underscore_2: hour_fiscal
+bip_39_word_underscore_3: hour_fiscal_adapt
+bip_39_word_underscore_4: hour_fiscal_adapt_vast
+bip_39_word_underscore_5: hour_fiscal_adapt_vast_risk
+bip_39_word_underscore_6: hour_fiscal_adapt_vast_risk_fit
+bip_39_word_underscore_7: hour_fiscal_adapt_vast_risk_fit_opera
+bip_39_word_underscore_8: hour_fiscal_adapt_vast_risk_fit_opera_saddle
+bip_39_word_underscore_9: hour_fiscal_adapt_vast_risk_fit_opera_saddle_resist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

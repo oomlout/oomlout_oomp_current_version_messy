@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crumble |  
+| bip_39_word_dash_10 | crumble-better-rib-figure-toy-kitchen-service-extend-merit-tongue |  
+| bip_39_word_dash_11 | crumble-better-rib-figure-toy-kitchen-service-extend-merit-tongue-knee |  
+| bip_39_word_dash_12 | crumble-better-rib-figure-toy-kitchen-service-extend-merit-tongue-knee-alley |  
+| bip_39_word_dash_2 | crumble-better |  
+| bip_39_word_dash_3 | crumble-better-rib |  
+| bip_39_word_dash_4 | crumble-better-rib-figure |  
+| bip_39_word_dash_5 | crumble-better-rib-figure-toy |  
+| bip_39_word_dash_6 | crumble-better-rib-figure-toy-kitchen |  
+| bip_39_word_dash_7 | crumble-better-rib-figure-toy-kitchen-service |  
+| bip_39_word_dash_8 | crumble-better-rib-figure-toy-kitchen-service-extend |  
+| bip_39_word_dash_9 | crumble-better-rib-figure-toy-kitchen-service-extend-merit |  
 | bip_39_word_new_br_1 | crumble |  
 | bip_39_word_new_br_10 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend<br>merit<br>tongue |  
 | bip_39_word_new_br_11 | crumble<br>better<br>rib<br>figure<br>toy<br>kitchen<br>service<br>extend<br>merit<br>tongue<br>knee |  
@@ -147,6 +159,18 @@ merit |
 | bip_39_word_space_7 | crumble better rib figure toy kitchen service |  
 | bip_39_word_space_8 | crumble better rib figure toy kitchen service extend |  
 | bip_39_word_space_9 | crumble better rib figure toy kitchen service extend merit |  
+| bip_39_word_underscore_1 | crumble |  
+| bip_39_word_underscore_10 | crumble_better_rib_figure_toy_kitchen_service_extend_merit_tongue |  
+| bip_39_word_underscore_11 | crumble_better_rib_figure_toy_kitchen_service_extend_merit_tongue_knee |  
+| bip_39_word_underscore_12 | crumble_better_rib_figure_toy_kitchen_service_extend_merit_tongue_knee_alley |  
+| bip_39_word_underscore_2 | crumble_better |  
+| bip_39_word_underscore_3 | crumble_better_rib |  
+| bip_39_word_underscore_4 | crumble_better_rib_figure |  
+| bip_39_word_underscore_5 | crumble_better_rib_figure_toy |  
+| bip_39_word_underscore_6 | crumble_better_rib_figure_toy_kitchen |  
+| bip_39_word_underscore_7 | crumble_better_rib_figure_toy_kitchen_service |  
+| bip_39_word_underscore_8 | crumble_better_rib_figure_toy_kitchen_service_extend |  
+| bip_39_word_underscore_9 | crumble_better_rib_figure_toy_kitchen_service_extend_merit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

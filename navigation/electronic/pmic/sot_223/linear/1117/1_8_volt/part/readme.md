@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blind |  
+| bip_39_word_dash_10 | blind-grace-dirt-duty-bullet-rib-umbrella-skin-juice-raven |  
+| bip_39_word_dash_11 | blind-grace-dirt-duty-bullet-rib-umbrella-skin-juice-raven-imitate |  
+| bip_39_word_dash_12 | blind-grace-dirt-duty-bullet-rib-umbrella-skin-juice-raven-imitate-accuse |  
+| bip_39_word_dash_2 | blind-grace |  
+| bip_39_word_dash_3 | blind-grace-dirt |  
+| bip_39_word_dash_4 | blind-grace-dirt-duty |  
+| bip_39_word_dash_5 | blind-grace-dirt-duty-bullet |  
+| bip_39_word_dash_6 | blind-grace-dirt-duty-bullet-rib |  
+| bip_39_word_dash_7 | blind-grace-dirt-duty-bullet-rib-umbrella |  
+| bip_39_word_dash_8 | blind-grace-dirt-duty-bullet-rib-umbrella-skin |  
+| bip_39_word_dash_9 | blind-grace-dirt-duty-bullet-rib-umbrella-skin-juice |  
 | bip_39_word_new_br_1 | blind |  
 | bip_39_word_new_br_10 | blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin<br>juice<br>raven |  
 | bip_39_word_new_br_11 | blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin<br>juice<br>raven<br>imitate |  
@@ -147,6 +159,18 @@ juice |
 | bip_39_word_space_7 | blind grace dirt duty bullet rib umbrella |  
 | bip_39_word_space_8 | blind grace dirt duty bullet rib umbrella skin |  
 | bip_39_word_space_9 | blind grace dirt duty bullet rib umbrella skin juice |  
+| bip_39_word_underscore_1 | blind |  
+| bip_39_word_underscore_10 | blind_grace_dirt_duty_bullet_rib_umbrella_skin_juice_raven |  
+| bip_39_word_underscore_11 | blind_grace_dirt_duty_bullet_rib_umbrella_skin_juice_raven_imitate |  
+| bip_39_word_underscore_12 | blind_grace_dirt_duty_bullet_rib_umbrella_skin_juice_raven_imitate_accuse |  
+| bip_39_word_underscore_2 | blind_grace |  
+| bip_39_word_underscore_3 | blind_grace_dirt |  
+| bip_39_word_underscore_4 | blind_grace_dirt_duty |  
+| bip_39_word_underscore_5 | blind_grace_dirt_duty_bullet |  
+| bip_39_word_underscore_6 | blind_grace_dirt_duty_bullet_rib |  
+| bip_39_word_underscore_7 | blind_grace_dirt_duty_bullet_rib_umbrella |  
+| bip_39_word_underscore_8 | blind_grace_dirt_duty_bullet_rib_umbrella_skin |  
+| bip_39_word_underscore_9 | blind_grace_dirt_duty_bullet_rib_umbrella_skin_juice |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

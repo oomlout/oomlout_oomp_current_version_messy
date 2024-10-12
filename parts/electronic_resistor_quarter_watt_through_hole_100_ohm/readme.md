@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | annual |  
+| bip_39_word_dash_10 | annual-flavor-dove-burst-erosion-ordinary-card-check-zoo-train |  
+| bip_39_word_dash_11 | annual-flavor-dove-burst-erosion-ordinary-card-check-zoo-train-skirt |  
+| bip_39_word_dash_12 | annual-flavor-dove-burst-erosion-ordinary-card-check-zoo-train-skirt-angry |  
+| bip_39_word_dash_2 | annual-flavor |  
+| bip_39_word_dash_3 | annual-flavor-dove |  
+| bip_39_word_dash_4 | annual-flavor-dove-burst |  
+| bip_39_word_dash_5 | annual-flavor-dove-burst-erosion |  
+| bip_39_word_dash_6 | annual-flavor-dove-burst-erosion-ordinary |  
+| bip_39_word_dash_7 | annual-flavor-dove-burst-erosion-ordinary-card |  
+| bip_39_word_dash_8 | annual-flavor-dove-burst-erosion-ordinary-card-check |  
+| bip_39_word_dash_9 | annual-flavor-dove-burst-erosion-ordinary-card-check-zoo |  
 | bip_39_word_new_br_1 | annual |  
 | bip_39_word_new_br_10 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train |  
 | bip_39_word_new_br_11 | annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train<br>skirt |  
@@ -147,6 +159,18 @@ zoo |
 | bip_39_word_space_7 | annual flavor dove burst erosion ordinary card |  
 | bip_39_word_space_8 | annual flavor dove burst erosion ordinary card check |  
 | bip_39_word_space_9 | annual flavor dove burst erosion ordinary card check zoo |  
+| bip_39_word_underscore_1 | annual |  
+| bip_39_word_underscore_10 | annual_flavor_dove_burst_erosion_ordinary_card_check_zoo_train |  
+| bip_39_word_underscore_11 | annual_flavor_dove_burst_erosion_ordinary_card_check_zoo_train_skirt |  
+| bip_39_word_underscore_12 | annual_flavor_dove_burst_erosion_ordinary_card_check_zoo_train_skirt_angry |  
+| bip_39_word_underscore_2 | annual_flavor |  
+| bip_39_word_underscore_3 | annual_flavor_dove |  
+| bip_39_word_underscore_4 | annual_flavor_dove_burst |  
+| bip_39_word_underscore_5 | annual_flavor_dove_burst_erosion |  
+| bip_39_word_underscore_6 | annual_flavor_dove_burst_erosion_ordinary |  
+| bip_39_word_underscore_7 | annual_flavor_dove_burst_erosion_ordinary_card |  
+| bip_39_word_underscore_8 | annual_flavor_dove_burst_erosion_ordinary_card_check |  
+| bip_39_word_underscore_9 | annual_flavor_dove_burst_erosion_ordinary_card_check_zoo |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sun |  
+| bip_39_word_dash_10 | sun-add-indicate-stove-luggage-other-humor-prosper-sort-fix |  
+| bip_39_word_dash_11 | sun-add-indicate-stove-luggage-other-humor-prosper-sort-fix-program |  
+| bip_39_word_dash_12 | sun-add-indicate-stove-luggage-other-humor-prosper-sort-fix-program-asthma |  
+| bip_39_word_dash_2 | sun-add |  
+| bip_39_word_dash_3 | sun-add-indicate |  
+| bip_39_word_dash_4 | sun-add-indicate-stove |  
+| bip_39_word_dash_5 | sun-add-indicate-stove-luggage |  
+| bip_39_word_dash_6 | sun-add-indicate-stove-luggage-other |  
+| bip_39_word_dash_7 | sun-add-indicate-stove-luggage-other-humor |  
+| bip_39_word_dash_8 | sun-add-indicate-stove-luggage-other-humor-prosper |  
+| bip_39_word_dash_9 | sun-add-indicate-stove-luggage-other-humor-prosper-sort |  
 | bip_39_word_new_br_1 | sun |  
 | bip_39_word_new_br_10 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix |  
 | bip_39_word_new_br_11 | sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix<br>program |  
@@ -147,6 +159,18 @@ sort |
 | bip_39_word_space_7 | sun add indicate stove luggage other humor |  
 | bip_39_word_space_8 | sun add indicate stove luggage other humor prosper |  
 | bip_39_word_space_9 | sun add indicate stove luggage other humor prosper sort |  
+| bip_39_word_underscore_1 | sun |  
+| bip_39_word_underscore_10 | sun_add_indicate_stove_luggage_other_humor_prosper_sort_fix |  
+| bip_39_word_underscore_11 | sun_add_indicate_stove_luggage_other_humor_prosper_sort_fix_program |  
+| bip_39_word_underscore_12 | sun_add_indicate_stove_luggage_other_humor_prosper_sort_fix_program_asthma |  
+| bip_39_word_underscore_2 | sun_add |  
+| bip_39_word_underscore_3 | sun_add_indicate |  
+| bip_39_word_underscore_4 | sun_add_indicate_stove |  
+| bip_39_word_underscore_5 | sun_add_indicate_stove_luggage |  
+| bip_39_word_underscore_6 | sun_add_indicate_stove_luggage_other |  
+| bip_39_word_underscore_7 | sun_add_indicate_stove_luggage_other_humor |  
+| bip_39_word_underscore_8 | sun_add_indicate_stove_luggage_other_humor_prosper |  
+| bip_39_word_underscore_9 | sun_add_indicate_stove_luggage_other_humor_prosper_sort |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

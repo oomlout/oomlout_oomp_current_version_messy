@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | celery |  
+| bip_39_word_dash_10 | celery-clog-avocado-picture-ritual-amused-chunk-security-case-stage |  
+| bip_39_word_dash_11 | celery-clog-avocado-picture-ritual-amused-chunk-security-case-stage-stairs |  
+| bip_39_word_dash_12 | celery-clog-avocado-picture-ritual-amused-chunk-security-case-stage-stairs-attract |  
+| bip_39_word_dash_2 | celery-clog |  
+| bip_39_word_dash_3 | celery-clog-avocado |  
+| bip_39_word_dash_4 | celery-clog-avocado-picture |  
+| bip_39_word_dash_5 | celery-clog-avocado-picture-ritual |  
+| bip_39_word_dash_6 | celery-clog-avocado-picture-ritual-amused |  
+| bip_39_word_dash_7 | celery-clog-avocado-picture-ritual-amused-chunk |  
+| bip_39_word_dash_8 | celery-clog-avocado-picture-ritual-amused-chunk-security |  
+| bip_39_word_dash_9 | celery-clog-avocado-picture-ritual-amused-chunk-security-case |  
 | bip_39_word_new_br_1 | celery |  
 | bip_39_word_new_br_10 | celery<br>clog<br>avocado<br>picture<br>ritual<br>amused<br>chunk<br>security<br>case<br>stage |  
 | bip_39_word_new_br_11 | celery<br>clog<br>avocado<br>picture<br>ritual<br>amused<br>chunk<br>security<br>case<br>stage<br>stairs |  
@@ -147,6 +159,18 @@ case |
 | bip_39_word_space_7 | celery clog avocado picture ritual amused chunk |  
 | bip_39_word_space_8 | celery clog avocado picture ritual amused chunk security |  
 | bip_39_word_space_9 | celery clog avocado picture ritual amused chunk security case |  
+| bip_39_word_underscore_1 | celery |  
+| bip_39_word_underscore_10 | celery_clog_avocado_picture_ritual_amused_chunk_security_case_stage |  
+| bip_39_word_underscore_11 | celery_clog_avocado_picture_ritual_amused_chunk_security_case_stage_stairs |  
+| bip_39_word_underscore_12 | celery_clog_avocado_picture_ritual_amused_chunk_security_case_stage_stairs_attract |  
+| bip_39_word_underscore_2 | celery_clog |  
+| bip_39_word_underscore_3 | celery_clog_avocado |  
+| bip_39_word_underscore_4 | celery_clog_avocado_picture |  
+| bip_39_word_underscore_5 | celery_clog_avocado_picture_ritual |  
+| bip_39_word_underscore_6 | celery_clog_avocado_picture_ritual_amused |  
+| bip_39_word_underscore_7 | celery_clog_avocado_picture_ritual_amused_chunk |  
+| bip_39_word_underscore_8 | celery_clog_avocado_picture_ritual_amused_chunk_security |  
+| bip_39_word_underscore_9 | celery_clog_avocado_picture_ritual_amused_chunk_security_case |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

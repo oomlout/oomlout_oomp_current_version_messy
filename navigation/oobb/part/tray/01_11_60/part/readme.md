@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kiwi |  
+| bip_39_word_dash_10 | kiwi-castle-ugly-evidence-learn-merry-cloth-usual-forest-sick |  
+| bip_39_word_dash_11 | kiwi-castle-ugly-evidence-learn-merry-cloth-usual-forest-sick-erupt |  
+| bip_39_word_dash_12 | kiwi-castle-ugly-evidence-learn-merry-cloth-usual-forest-sick-erupt-actor |  
+| bip_39_word_dash_2 | kiwi-castle |  
+| bip_39_word_dash_3 | kiwi-castle-ugly |  
+| bip_39_word_dash_4 | kiwi-castle-ugly-evidence |  
+| bip_39_word_dash_5 | kiwi-castle-ugly-evidence-learn |  
+| bip_39_word_dash_6 | kiwi-castle-ugly-evidence-learn-merry |  
+| bip_39_word_dash_7 | kiwi-castle-ugly-evidence-learn-merry-cloth |  
+| bip_39_word_dash_8 | kiwi-castle-ugly-evidence-learn-merry-cloth-usual |  
+| bip_39_word_dash_9 | kiwi-castle-ugly-evidence-learn-merry-cloth-usual-forest |  
 | bip_39_word_new_br_1 | kiwi |  
 | bip_39_word_new_br_10 | kiwi<br>castle<br>ugly<br>evidence<br>learn<br>merry<br>cloth<br>usual<br>forest<br>sick |  
 | bip_39_word_new_br_11 | kiwi<br>castle<br>ugly<br>evidence<br>learn<br>merry<br>cloth<br>usual<br>forest<br>sick<br>erupt |  
@@ -147,6 +159,18 @@ forest |
 | bip_39_word_space_7 | kiwi castle ugly evidence learn merry cloth |  
 | bip_39_word_space_8 | kiwi castle ugly evidence learn merry cloth usual |  
 | bip_39_word_space_9 | kiwi castle ugly evidence learn merry cloth usual forest |  
+| bip_39_word_underscore_1 | kiwi |  
+| bip_39_word_underscore_10 | kiwi_castle_ugly_evidence_learn_merry_cloth_usual_forest_sick |  
+| bip_39_word_underscore_11 | kiwi_castle_ugly_evidence_learn_merry_cloth_usual_forest_sick_erupt |  
+| bip_39_word_underscore_12 | kiwi_castle_ugly_evidence_learn_merry_cloth_usual_forest_sick_erupt_actor |  
+| bip_39_word_underscore_2 | kiwi_castle |  
+| bip_39_word_underscore_3 | kiwi_castle_ugly |  
+| bip_39_word_underscore_4 | kiwi_castle_ugly_evidence |  
+| bip_39_word_underscore_5 | kiwi_castle_ugly_evidence_learn |  
+| bip_39_word_underscore_6 | kiwi_castle_ugly_evidence_learn_merry |  
+| bip_39_word_underscore_7 | kiwi_castle_ugly_evidence_learn_merry_cloth |  
+| bip_39_word_underscore_8 | kiwi_castle_ugly_evidence_learn_merry_cloth_usual |  
+| bip_39_word_underscore_9 | kiwi_castle_ugly_evidence_learn_merry_cloth_usual_forest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

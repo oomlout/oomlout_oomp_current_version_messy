@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | phrase |  
+| bip_39_word_dash_10 | phrase-ensure-spread-panic-voice-clarify-woman-pause-affair-cake |  
+| bip_39_word_dash_11 | phrase-ensure-spread-panic-voice-clarify-woman-pause-affair-cake-hold |  
+| bip_39_word_dash_12 | phrase-ensure-spread-panic-voice-clarify-woman-pause-affair-cake-hold-among |  
+| bip_39_word_dash_2 | phrase-ensure |  
+| bip_39_word_dash_3 | phrase-ensure-spread |  
+| bip_39_word_dash_4 | phrase-ensure-spread-panic |  
+| bip_39_word_dash_5 | phrase-ensure-spread-panic-voice |  
+| bip_39_word_dash_6 | phrase-ensure-spread-panic-voice-clarify |  
+| bip_39_word_dash_7 | phrase-ensure-spread-panic-voice-clarify-woman |  
+| bip_39_word_dash_8 | phrase-ensure-spread-panic-voice-clarify-woman-pause |  
+| bip_39_word_dash_9 | phrase-ensure-spread-panic-voice-clarify-woman-pause-affair |  
 | bip_39_word_new_br_1 | phrase |  
 | bip_39_word_new_br_10 | phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause<br>affair<br>cake |  
 | bip_39_word_new_br_11 | phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause<br>affair<br>cake<br>hold |  
@@ -147,6 +159,18 @@ affair |
 | bip_39_word_space_7 | phrase ensure spread panic voice clarify woman |  
 | bip_39_word_space_8 | phrase ensure spread panic voice clarify woman pause |  
 | bip_39_word_space_9 | phrase ensure spread panic voice clarify woman pause affair |  
+| bip_39_word_underscore_1 | phrase |  
+| bip_39_word_underscore_10 | phrase_ensure_spread_panic_voice_clarify_woman_pause_affair_cake |  
+| bip_39_word_underscore_11 | phrase_ensure_spread_panic_voice_clarify_woman_pause_affair_cake_hold |  
+| bip_39_word_underscore_12 | phrase_ensure_spread_panic_voice_clarify_woman_pause_affair_cake_hold_among |  
+| bip_39_word_underscore_2 | phrase_ensure |  
+| bip_39_word_underscore_3 | phrase_ensure_spread |  
+| bip_39_word_underscore_4 | phrase_ensure_spread_panic |  
+| bip_39_word_underscore_5 | phrase_ensure_spread_panic_voice |  
+| bip_39_word_underscore_6 | phrase_ensure_spread_panic_voice_clarify |  
+| bip_39_word_underscore_7 | phrase_ensure_spread_panic_voice_clarify_woman |  
+| bip_39_word_underscore_8 | phrase_ensure_spread_panic_voice_clarify_woman_pause |  
+| bip_39_word_underscore_9 | phrase_ensure_spread_panic_voice_clarify_woman_pause_affair |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

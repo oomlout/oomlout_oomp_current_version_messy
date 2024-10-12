@@ -1,3 +1,15 @@
+bip_39_word_dash_1: air
+bip_39_word_dash_10: air-setup-apart-culture-problem-dad-empty-filter-canoe-spray
+bip_39_word_dash_11: air-setup-apart-culture-problem-dad-empty-filter-canoe-spray-explain
+bip_39_word_dash_12: air-setup-apart-culture-problem-dad-empty-filter-canoe-spray-explain-appear
+bip_39_word_dash_2: air-setup
+bip_39_word_dash_3: air-setup-apart
+bip_39_word_dash_4: air-setup-apart-culture
+bip_39_word_dash_5: air-setup-apart-culture-problem
+bip_39_word_dash_6: air-setup-apart-culture-problem-dad
+bip_39_word_dash_7: air-setup-apart-culture-problem-dad-empty
+bip_39_word_dash_8: air-setup-apart-culture-problem-dad-empty-filter
+bip_39_word_dash_9: air-setup-apart-culture-problem-dad-empty-filter-canoe
 bip_39_word_new_br_1: air
 bip_39_word_new_br_10: air<br>setup<br>apart<br>culture<br>problem<br>dad<br>empty<br>filter<br>canoe<br>spray
 bip_39_word_new_br_11: air<br>setup<br>apart<br>culture<br>problem<br>dad<br>empty<br>filter<br>canoe<br>spray<br>explain
@@ -193,6 +205,18 @@ bip_39_word_space_6: air setup apart culture problem dad
 bip_39_word_space_7: air setup apart culture problem dad empty
 bip_39_word_space_8: air setup apart culture problem dad empty filter
 bip_39_word_space_9: air setup apart culture problem dad empty filter canoe
+bip_39_word_underscore_1: air
+bip_39_word_underscore_10: air_setup_apart_culture_problem_dad_empty_filter_canoe_spray
+bip_39_word_underscore_11: air_setup_apart_culture_problem_dad_empty_filter_canoe_spray_explain
+bip_39_word_underscore_12: air_setup_apart_culture_problem_dad_empty_filter_canoe_spray_explain_appear
+bip_39_word_underscore_2: air_setup
+bip_39_word_underscore_3: air_setup_apart
+bip_39_word_underscore_4: air_setup_apart_culture
+bip_39_word_underscore_5: air_setup_apart_culture_problem
+bip_39_word_underscore_6: air_setup_apart_culture_problem_dad
+bip_39_word_underscore_7: air_setup_apart_culture_problem_dad_empty
+bip_39_word_underscore_8: air_setup_apart_culture_problem_dad_empty_filter
+bip_39_word_underscore_9: air_setup_apart_culture_problem_dad_empty_filter_canoe
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

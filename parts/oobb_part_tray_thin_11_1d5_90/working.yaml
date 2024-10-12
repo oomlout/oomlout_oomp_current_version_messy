@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scrub
+bip_39_word_dash_10: scrub-toss-copy-can-aunt-stand-plug-inquiry-vote-furnace
+bip_39_word_dash_11: scrub-toss-copy-can-aunt-stand-plug-inquiry-vote-furnace-amount
+bip_39_word_dash_12: scrub-toss-copy-can-aunt-stand-plug-inquiry-vote-furnace-amount-asset
+bip_39_word_dash_2: scrub-toss
+bip_39_word_dash_3: scrub-toss-copy
+bip_39_word_dash_4: scrub-toss-copy-can
+bip_39_word_dash_5: scrub-toss-copy-can-aunt
+bip_39_word_dash_6: scrub-toss-copy-can-aunt-stand
+bip_39_word_dash_7: scrub-toss-copy-can-aunt-stand-plug
+bip_39_word_dash_8: scrub-toss-copy-can-aunt-stand-plug-inquiry
+bip_39_word_dash_9: scrub-toss-copy-can-aunt-stand-plug-inquiry-vote
 bip_39_word_new_br_1: scrub
 bip_39_word_new_br_10: scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry<br>vote<br>furnace
 bip_39_word_new_br_11: scrub<br>toss<br>copy<br>can<br>aunt<br>stand<br>plug<br>inquiry<br>vote<br>furnace<br>amount
@@ -192,6 +204,18 @@ bip_39_word_space_6: scrub toss copy can aunt stand
 bip_39_word_space_7: scrub toss copy can aunt stand plug
 bip_39_word_space_8: scrub toss copy can aunt stand plug inquiry
 bip_39_word_space_9: scrub toss copy can aunt stand plug inquiry vote
+bip_39_word_underscore_1: scrub
+bip_39_word_underscore_10: scrub_toss_copy_can_aunt_stand_plug_inquiry_vote_furnace
+bip_39_word_underscore_11: scrub_toss_copy_can_aunt_stand_plug_inquiry_vote_furnace_amount
+bip_39_word_underscore_12: scrub_toss_copy_can_aunt_stand_plug_inquiry_vote_furnace_amount_asset
+bip_39_word_underscore_2: scrub_toss
+bip_39_word_underscore_3: scrub_toss_copy
+bip_39_word_underscore_4: scrub_toss_copy_can
+bip_39_word_underscore_5: scrub_toss_copy_can_aunt
+bip_39_word_underscore_6: scrub_toss_copy_can_aunt_stand
+bip_39_word_underscore_7: scrub_toss_copy_can_aunt_stand_plug
+bip_39_word_underscore_8: scrub_toss_copy_can_aunt_stand_plug_inquiry
+bip_39_word_underscore_9: scrub_toss_copy_can_aunt_stand_plug_inquiry_vote
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

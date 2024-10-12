@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | depth |  
+| bip_39_word_dash_10 | depth-ice-confirm-note-afford-dizzy-wire-clerk-can-angry |  
+| bip_39_word_dash_11 | depth-ice-confirm-note-afford-dizzy-wire-clerk-can-angry-nose |  
+| bip_39_word_dash_12 | depth-ice-confirm-note-afford-dizzy-wire-clerk-can-angry-nose-argue |  
+| bip_39_word_dash_2 | depth-ice |  
+| bip_39_word_dash_3 | depth-ice-confirm |  
+| bip_39_word_dash_4 | depth-ice-confirm-note |  
+| bip_39_word_dash_5 | depth-ice-confirm-note-afford |  
+| bip_39_word_dash_6 | depth-ice-confirm-note-afford-dizzy |  
+| bip_39_word_dash_7 | depth-ice-confirm-note-afford-dizzy-wire |  
+| bip_39_word_dash_8 | depth-ice-confirm-note-afford-dizzy-wire-clerk |  
+| bip_39_word_dash_9 | depth-ice-confirm-note-afford-dizzy-wire-clerk-can |  
 | bip_39_word_new_br_1 | depth |  
 | bip_39_word_new_br_10 | depth<br>ice<br>confirm<br>note<br>afford<br>dizzy<br>wire<br>clerk<br>can<br>angry |  
 | bip_39_word_new_br_11 | depth<br>ice<br>confirm<br>note<br>afford<br>dizzy<br>wire<br>clerk<br>can<br>angry<br>nose |  
@@ -147,6 +159,18 @@ can |
 | bip_39_word_space_7 | depth ice confirm note afford dizzy wire |  
 | bip_39_word_space_8 | depth ice confirm note afford dizzy wire clerk |  
 | bip_39_word_space_9 | depth ice confirm note afford dizzy wire clerk can |  
+| bip_39_word_underscore_1 | depth |  
+| bip_39_word_underscore_10 | depth_ice_confirm_note_afford_dizzy_wire_clerk_can_angry |  
+| bip_39_word_underscore_11 | depth_ice_confirm_note_afford_dizzy_wire_clerk_can_angry_nose |  
+| bip_39_word_underscore_12 | depth_ice_confirm_note_afford_dizzy_wire_clerk_can_angry_nose_argue |  
+| bip_39_word_underscore_2 | depth_ice |  
+| bip_39_word_underscore_3 | depth_ice_confirm |  
+| bip_39_word_underscore_4 | depth_ice_confirm_note |  
+| bip_39_word_underscore_5 | depth_ice_confirm_note_afford |  
+| bip_39_word_underscore_6 | depth_ice_confirm_note_afford_dizzy |  
+| bip_39_word_underscore_7 | depth_ice_confirm_note_afford_dizzy_wire |  
+| bip_39_word_underscore_8 | depth_ice_confirm_note_afford_dizzy_wire_clerk |  
+| bip_39_word_underscore_9 | depth_ice_confirm_note_afford_dizzy_wire_clerk_can |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ship |  
+| bip_39_word_dash_10 | ship-donor-hamster-gather-drop-design-nature-congress-parade-oxygen |  
+| bip_39_word_dash_11 | ship-donor-hamster-gather-drop-design-nature-congress-parade-oxygen-analyst |  
+| bip_39_word_dash_12 | ship-donor-hamster-gather-drop-design-nature-congress-parade-oxygen-analyst-aspect |  
+| bip_39_word_dash_2 | ship-donor |  
+| bip_39_word_dash_3 | ship-donor-hamster |  
+| bip_39_word_dash_4 | ship-donor-hamster-gather |  
+| bip_39_word_dash_5 | ship-donor-hamster-gather-drop |  
+| bip_39_word_dash_6 | ship-donor-hamster-gather-drop-design |  
+| bip_39_word_dash_7 | ship-donor-hamster-gather-drop-design-nature |  
+| bip_39_word_dash_8 | ship-donor-hamster-gather-drop-design-nature-congress |  
+| bip_39_word_dash_9 | ship-donor-hamster-gather-drop-design-nature-congress-parade |  
 | bip_39_word_new_br_1 | ship |  
 | bip_39_word_new_br_10 | ship<br>donor<br>hamster<br>gather<br>drop<br>design<br>nature<br>congress<br>parade<br>oxygen |  
 | bip_39_word_new_br_11 | ship<br>donor<br>hamster<br>gather<br>drop<br>design<br>nature<br>congress<br>parade<br>oxygen<br>analyst |  
@@ -147,6 +159,18 @@ parade |
 | bip_39_word_space_7 | ship donor hamster gather drop design nature |  
 | bip_39_word_space_8 | ship donor hamster gather drop design nature congress |  
 | bip_39_word_space_9 | ship donor hamster gather drop design nature congress parade |  
+| bip_39_word_underscore_1 | ship |  
+| bip_39_word_underscore_10 | ship_donor_hamster_gather_drop_design_nature_congress_parade_oxygen |  
+| bip_39_word_underscore_11 | ship_donor_hamster_gather_drop_design_nature_congress_parade_oxygen_analyst |  
+| bip_39_word_underscore_12 | ship_donor_hamster_gather_drop_design_nature_congress_parade_oxygen_analyst_aspect |  
+| bip_39_word_underscore_2 | ship_donor |  
+| bip_39_word_underscore_3 | ship_donor_hamster |  
+| bip_39_word_underscore_4 | ship_donor_hamster_gather |  
+| bip_39_word_underscore_5 | ship_donor_hamster_gather_drop |  
+| bip_39_word_underscore_6 | ship_donor_hamster_gather_drop_design |  
+| bip_39_word_underscore_7 | ship_donor_hamster_gather_drop_design_nature |  
+| bip_39_word_underscore_8 | ship_donor_hamster_gather_drop_design_nature_congress |  
+| bip_39_word_underscore_9 | ship_donor_hamster_gather_drop_design_nature_congress_parade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

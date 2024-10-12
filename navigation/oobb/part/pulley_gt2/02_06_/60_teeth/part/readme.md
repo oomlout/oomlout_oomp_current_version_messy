@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | want |  
+| bip_39_word_dash_10 | want-swap-key-kitten-include-swear-drink-seek-cabbage-benefit |  
+| bip_39_word_dash_11 | want-swap-key-kitten-include-swear-drink-seek-cabbage-benefit-knee |  
+| bip_39_word_dash_12 | want-swap-key-kitten-include-swear-drink-seek-cabbage-benefit-knee-agent |  
+| bip_39_word_dash_2 | want-swap |  
+| bip_39_word_dash_3 | want-swap-key |  
+| bip_39_word_dash_4 | want-swap-key-kitten |  
+| bip_39_word_dash_5 | want-swap-key-kitten-include |  
+| bip_39_word_dash_6 | want-swap-key-kitten-include-swear |  
+| bip_39_word_dash_7 | want-swap-key-kitten-include-swear-drink |  
+| bip_39_word_dash_8 | want-swap-key-kitten-include-swear-drink-seek |  
+| bip_39_word_dash_9 | want-swap-key-kitten-include-swear-drink-seek-cabbage |  
 | bip_39_word_new_br_1 | want |  
 | bip_39_word_new_br_10 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit |  
 | bip_39_word_new_br_11 | want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit<br>knee |  
@@ -147,6 +159,18 @@ cabbage |
 | bip_39_word_space_7 | want swap key kitten include swear drink |  
 | bip_39_word_space_8 | want swap key kitten include swear drink seek |  
 | bip_39_word_space_9 | want swap key kitten include swear drink seek cabbage |  
+| bip_39_word_underscore_1 | want |  
+| bip_39_word_underscore_10 | want_swap_key_kitten_include_swear_drink_seek_cabbage_benefit |  
+| bip_39_word_underscore_11 | want_swap_key_kitten_include_swear_drink_seek_cabbage_benefit_knee |  
+| bip_39_word_underscore_12 | want_swap_key_kitten_include_swear_drink_seek_cabbage_benefit_knee_agent |  
+| bip_39_word_underscore_2 | want_swap |  
+| bip_39_word_underscore_3 | want_swap_key |  
+| bip_39_word_underscore_4 | want_swap_key_kitten |  
+| bip_39_word_underscore_5 | want_swap_key_kitten_include |  
+| bip_39_word_underscore_6 | want_swap_key_kitten_include_swear |  
+| bip_39_word_underscore_7 | want_swap_key_kitten_include_swear_drink |  
+| bip_39_word_underscore_8 | want_swap_key_kitten_include_swear_drink_seek |  
+| bip_39_word_underscore_9 | want_swap_key_kitten_include_swear_drink_seek_cabbage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

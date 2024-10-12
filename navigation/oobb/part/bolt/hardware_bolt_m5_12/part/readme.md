@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | consider |  
+| bip_39_word_dash_10 | consider-cool-cabin-okay-nose-fresh-talent-smoke-grape-few |  
+| bip_39_word_dash_11 | consider-cool-cabin-okay-nose-fresh-talent-smoke-grape-few-spirit |  
+| bip_39_word_dash_12 | consider-cool-cabin-okay-nose-fresh-talent-smoke-grape-few-spirit-anxiety |  
+| bip_39_word_dash_2 | consider-cool |  
+| bip_39_word_dash_3 | consider-cool-cabin |  
+| bip_39_word_dash_4 | consider-cool-cabin-okay |  
+| bip_39_word_dash_5 | consider-cool-cabin-okay-nose |  
+| bip_39_word_dash_6 | consider-cool-cabin-okay-nose-fresh |  
+| bip_39_word_dash_7 | consider-cool-cabin-okay-nose-fresh-talent |  
+| bip_39_word_dash_8 | consider-cool-cabin-okay-nose-fresh-talent-smoke |  
+| bip_39_word_dash_9 | consider-cool-cabin-okay-nose-fresh-talent-smoke-grape |  
 | bip_39_word_new_br_1 | consider |  
 | bip_39_word_new_br_10 | consider<br>cool<br>cabin<br>okay<br>nose<br>fresh<br>talent<br>smoke<br>grape<br>few |  
 | bip_39_word_new_br_11 | consider<br>cool<br>cabin<br>okay<br>nose<br>fresh<br>talent<br>smoke<br>grape<br>few<br>spirit |  
@@ -147,6 +159,18 @@ grape |
 | bip_39_word_space_7 | consider cool cabin okay nose fresh talent |  
 | bip_39_word_space_8 | consider cool cabin okay nose fresh talent smoke |  
 | bip_39_word_space_9 | consider cool cabin okay nose fresh talent smoke grape |  
+| bip_39_word_underscore_1 | consider |  
+| bip_39_word_underscore_10 | consider_cool_cabin_okay_nose_fresh_talent_smoke_grape_few |  
+| bip_39_word_underscore_11 | consider_cool_cabin_okay_nose_fresh_talent_smoke_grape_few_spirit |  
+| bip_39_word_underscore_12 | consider_cool_cabin_okay_nose_fresh_talent_smoke_grape_few_spirit_anxiety |  
+| bip_39_word_underscore_2 | consider_cool |  
+| bip_39_word_underscore_3 | consider_cool_cabin |  
+| bip_39_word_underscore_4 | consider_cool_cabin_okay |  
+| bip_39_word_underscore_5 | consider_cool_cabin_okay_nose |  
+| bip_39_word_underscore_6 | consider_cool_cabin_okay_nose_fresh |  
+| bip_39_word_underscore_7 | consider_cool_cabin_okay_nose_fresh_talent |  
+| bip_39_word_underscore_8 | consider_cool_cabin_okay_nose_fresh_talent_smoke |  
+| bip_39_word_underscore_9 | consider_cool_cabin_okay_nose_fresh_talent_smoke_grape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

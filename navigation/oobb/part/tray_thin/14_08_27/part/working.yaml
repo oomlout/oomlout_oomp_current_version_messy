@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bus
+bip_39_word_dash_10: bus-stock-square-walk-elbow-soup-river-tired-salute-post
+bip_39_word_dash_11: bus-stock-square-walk-elbow-soup-river-tired-salute-post-nose
+bip_39_word_dash_12: bus-stock-square-walk-elbow-soup-river-tired-salute-post-nose-announce
+bip_39_word_dash_2: bus-stock
+bip_39_word_dash_3: bus-stock-square
+bip_39_word_dash_4: bus-stock-square-walk
+bip_39_word_dash_5: bus-stock-square-walk-elbow
+bip_39_word_dash_6: bus-stock-square-walk-elbow-soup
+bip_39_word_dash_7: bus-stock-square-walk-elbow-soup-river
+bip_39_word_dash_8: bus-stock-square-walk-elbow-soup-river-tired
+bip_39_word_dash_9: bus-stock-square-walk-elbow-soup-river-tired-salute
 bip_39_word_new_br_1: bus
 bip_39_word_new_br_10: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post
 bip_39_word_new_br_11: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post<br>nose
@@ -192,6 +204,18 @@ bip_39_word_space_6: bus stock square walk elbow soup
 bip_39_word_space_7: bus stock square walk elbow soup river
 bip_39_word_space_8: bus stock square walk elbow soup river tired
 bip_39_word_space_9: bus stock square walk elbow soup river tired salute
+bip_39_word_underscore_1: bus
+bip_39_word_underscore_10: bus_stock_square_walk_elbow_soup_river_tired_salute_post
+bip_39_word_underscore_11: bus_stock_square_walk_elbow_soup_river_tired_salute_post_nose
+bip_39_word_underscore_12: bus_stock_square_walk_elbow_soup_river_tired_salute_post_nose_announce
+bip_39_word_underscore_2: bus_stock
+bip_39_word_underscore_3: bus_stock_square
+bip_39_word_underscore_4: bus_stock_square_walk
+bip_39_word_underscore_5: bus_stock_square_walk_elbow
+bip_39_word_underscore_6: bus_stock_square_walk_elbow_soup
+bip_39_word_underscore_7: bus_stock_square_walk_elbow_soup_river
+bip_39_word_underscore_8: bus_stock_square_walk_elbow_soup_river_tired
+bip_39_word_underscore_9: bus_stock_square_walk_elbow_soup_river_tired_salute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

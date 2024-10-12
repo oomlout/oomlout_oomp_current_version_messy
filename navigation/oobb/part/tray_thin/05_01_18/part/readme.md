@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pioneer |  
+| bip_39_word_dash_10 | pioneer-noble-capital-used-inch-metal-evidence-live-garage-fatigue |  
+| bip_39_word_dash_11 | pioneer-noble-capital-used-inch-metal-evidence-live-garage-fatigue-awful |  
+| bip_39_word_dash_12 | pioneer-noble-capital-used-inch-metal-evidence-live-garage-fatigue-awful-always |  
+| bip_39_word_dash_2 | pioneer-noble |  
+| bip_39_word_dash_3 | pioneer-noble-capital |  
+| bip_39_word_dash_4 | pioneer-noble-capital-used |  
+| bip_39_word_dash_5 | pioneer-noble-capital-used-inch |  
+| bip_39_word_dash_6 | pioneer-noble-capital-used-inch-metal |  
+| bip_39_word_dash_7 | pioneer-noble-capital-used-inch-metal-evidence |  
+| bip_39_word_dash_8 | pioneer-noble-capital-used-inch-metal-evidence-live |  
+| bip_39_word_dash_9 | pioneer-noble-capital-used-inch-metal-evidence-live-garage |  
 | bip_39_word_new_br_1 | pioneer |  
 | bip_39_word_new_br_10 | pioneer<br>noble<br>capital<br>used<br>inch<br>metal<br>evidence<br>live<br>garage<br>fatigue |  
 | bip_39_word_new_br_11 | pioneer<br>noble<br>capital<br>used<br>inch<br>metal<br>evidence<br>live<br>garage<br>fatigue<br>awful |  
@@ -147,6 +159,18 @@ garage |
 | bip_39_word_space_7 | pioneer noble capital used inch metal evidence |  
 | bip_39_word_space_8 | pioneer noble capital used inch metal evidence live |  
 | bip_39_word_space_9 | pioneer noble capital used inch metal evidence live garage |  
+| bip_39_word_underscore_1 | pioneer |  
+| bip_39_word_underscore_10 | pioneer_noble_capital_used_inch_metal_evidence_live_garage_fatigue |  
+| bip_39_word_underscore_11 | pioneer_noble_capital_used_inch_metal_evidence_live_garage_fatigue_awful |  
+| bip_39_word_underscore_12 | pioneer_noble_capital_used_inch_metal_evidence_live_garage_fatigue_awful_always |  
+| bip_39_word_underscore_2 | pioneer_noble |  
+| bip_39_word_underscore_3 | pioneer_noble_capital |  
+| bip_39_word_underscore_4 | pioneer_noble_capital_used |  
+| bip_39_word_underscore_5 | pioneer_noble_capital_used_inch |  
+| bip_39_word_underscore_6 | pioneer_noble_capital_used_inch_metal |  
+| bip_39_word_underscore_7 | pioneer_noble_capital_used_inch_metal_evidence |  
+| bip_39_word_underscore_8 | pioneer_noble_capital_used_inch_metal_evidence_live |  
+| bip_39_word_underscore_9 | pioneer_noble_capital_used_inch_metal_evidence_live_garage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

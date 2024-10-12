@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oak |  
+| bip_39_word_dash_10 | oak-paddle-pitch-hungry-visa-you-arctic-junk-snake-grit |  
+| bip_39_word_dash_11 | oak-paddle-pitch-hungry-visa-you-arctic-junk-snake-grit-fox |  
+| bip_39_word_dash_12 | oak-paddle-pitch-hungry-visa-you-arctic-junk-snake-grit-fox-attitude |  
+| bip_39_word_dash_2 | oak-paddle |  
+| bip_39_word_dash_3 | oak-paddle-pitch |  
+| bip_39_word_dash_4 | oak-paddle-pitch-hungry |  
+| bip_39_word_dash_5 | oak-paddle-pitch-hungry-visa |  
+| bip_39_word_dash_6 | oak-paddle-pitch-hungry-visa-you |  
+| bip_39_word_dash_7 | oak-paddle-pitch-hungry-visa-you-arctic |  
+| bip_39_word_dash_8 | oak-paddle-pitch-hungry-visa-you-arctic-junk |  
+| bip_39_word_dash_9 | oak-paddle-pitch-hungry-visa-you-arctic-junk-snake |  
 | bip_39_word_new_br_1 | oak |  
 | bip_39_word_new_br_10 | oak<br>paddle<br>pitch<br>hungry<br>visa<br>you<br>arctic<br>junk<br>snake<br>grit |  
 | bip_39_word_new_br_11 | oak<br>paddle<br>pitch<br>hungry<br>visa<br>you<br>arctic<br>junk<br>snake<br>grit<br>fox |  
@@ -147,6 +159,18 @@ snake |
 | bip_39_word_space_7 | oak paddle pitch hungry visa you arctic |  
 | bip_39_word_space_8 | oak paddle pitch hungry visa you arctic junk |  
 | bip_39_word_space_9 | oak paddle pitch hungry visa you arctic junk snake |  
+| bip_39_word_underscore_1 | oak |  
+| bip_39_word_underscore_10 | oak_paddle_pitch_hungry_visa_you_arctic_junk_snake_grit |  
+| bip_39_word_underscore_11 | oak_paddle_pitch_hungry_visa_you_arctic_junk_snake_grit_fox |  
+| bip_39_word_underscore_12 | oak_paddle_pitch_hungry_visa_you_arctic_junk_snake_grit_fox_attitude |  
+| bip_39_word_underscore_2 | oak_paddle |  
+| bip_39_word_underscore_3 | oak_paddle_pitch |  
+| bip_39_word_underscore_4 | oak_paddle_pitch_hungry |  
+| bip_39_word_underscore_5 | oak_paddle_pitch_hungry_visa |  
+| bip_39_word_underscore_6 | oak_paddle_pitch_hungry_visa_you |  
+| bip_39_word_underscore_7 | oak_paddle_pitch_hungry_visa_you_arctic |  
+| bip_39_word_underscore_8 | oak_paddle_pitch_hungry_visa_you_arctic_junk |  
+| bip_39_word_underscore_9 | oak_paddle_pitch_hungry_visa_you_arctic_junk_snake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

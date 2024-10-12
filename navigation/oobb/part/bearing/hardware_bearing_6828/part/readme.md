@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aunt |  
+| bip_39_word_dash_10 | aunt-toddler-artwork-limit-morning-normal-length-orange-loan-kick |  
+| bip_39_word_dash_11 | aunt-toddler-artwork-limit-morning-normal-length-orange-loan-kick-yard |  
+| bip_39_word_dash_12 | aunt-toddler-artwork-limit-morning-normal-length-orange-loan-kick-yard-afford |  
+| bip_39_word_dash_2 | aunt-toddler |  
+| bip_39_word_dash_3 | aunt-toddler-artwork |  
+| bip_39_word_dash_4 | aunt-toddler-artwork-limit |  
+| bip_39_word_dash_5 | aunt-toddler-artwork-limit-morning |  
+| bip_39_word_dash_6 | aunt-toddler-artwork-limit-morning-normal |  
+| bip_39_word_dash_7 | aunt-toddler-artwork-limit-morning-normal-length |  
+| bip_39_word_dash_8 | aunt-toddler-artwork-limit-morning-normal-length-orange |  
+| bip_39_word_dash_9 | aunt-toddler-artwork-limit-morning-normal-length-orange-loan |  
 | bip_39_word_new_br_1 | aunt |  
 | bip_39_word_new_br_10 | aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange<br>loan<br>kick |  
 | bip_39_word_new_br_11 | aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange<br>loan<br>kick<br>yard |  
@@ -147,6 +159,18 @@ loan |
 | bip_39_word_space_7 | aunt toddler artwork limit morning normal length |  
 | bip_39_word_space_8 | aunt toddler artwork limit morning normal length orange |  
 | bip_39_word_space_9 | aunt toddler artwork limit morning normal length orange loan |  
+| bip_39_word_underscore_1 | aunt |  
+| bip_39_word_underscore_10 | aunt_toddler_artwork_limit_morning_normal_length_orange_loan_kick |  
+| bip_39_word_underscore_11 | aunt_toddler_artwork_limit_morning_normal_length_orange_loan_kick_yard |  
+| bip_39_word_underscore_12 | aunt_toddler_artwork_limit_morning_normal_length_orange_loan_kick_yard_afford |  
+| bip_39_word_underscore_2 | aunt_toddler |  
+| bip_39_word_underscore_3 | aunt_toddler_artwork |  
+| bip_39_word_underscore_4 | aunt_toddler_artwork_limit |  
+| bip_39_word_underscore_5 | aunt_toddler_artwork_limit_morning |  
+| bip_39_word_underscore_6 | aunt_toddler_artwork_limit_morning_normal |  
+| bip_39_word_underscore_7 | aunt_toddler_artwork_limit_morning_normal_length |  
+| bip_39_word_underscore_8 | aunt_toddler_artwork_limit_morning_normal_length_orange |  
+| bip_39_word_underscore_9 | aunt_toddler_artwork_limit_morning_normal_length_orange_loan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebuild |  
+| bip_39_word_dash_10 | rebuild-mosquito-stock-shed-swim-arrange-near-invite-defense-fit |  
+| bip_39_word_dash_11 | rebuild-mosquito-stock-shed-swim-arrange-near-invite-defense-fit-industry |  
+| bip_39_word_dash_12 | rebuild-mosquito-stock-shed-swim-arrange-near-invite-defense-fit-industry-alcohol |  
+| bip_39_word_dash_2 | rebuild-mosquito |  
+| bip_39_word_dash_3 | rebuild-mosquito-stock |  
+| bip_39_word_dash_4 | rebuild-mosquito-stock-shed |  
+| bip_39_word_dash_5 | rebuild-mosquito-stock-shed-swim |  
+| bip_39_word_dash_6 | rebuild-mosquito-stock-shed-swim-arrange |  
+| bip_39_word_dash_7 | rebuild-mosquito-stock-shed-swim-arrange-near |  
+| bip_39_word_dash_8 | rebuild-mosquito-stock-shed-swim-arrange-near-invite |  
+| bip_39_word_dash_9 | rebuild-mosquito-stock-shed-swim-arrange-near-invite-defense |  
 | bip_39_word_new_br_1 | rebuild |  
 | bip_39_word_new_br_10 | rebuild<br>mosquito<br>stock<br>shed<br>swim<br>arrange<br>near<br>invite<br>defense<br>fit |  
 | bip_39_word_new_br_11 | rebuild<br>mosquito<br>stock<br>shed<br>swim<br>arrange<br>near<br>invite<br>defense<br>fit<br>industry |  
@@ -147,6 +159,18 @@ defense |
 | bip_39_word_space_7 | rebuild mosquito stock shed swim arrange near |  
 | bip_39_word_space_8 | rebuild mosquito stock shed swim arrange near invite |  
 | bip_39_word_space_9 | rebuild mosquito stock shed swim arrange near invite defense |  
+| bip_39_word_underscore_1 | rebuild |  
+| bip_39_word_underscore_10 | rebuild_mosquito_stock_shed_swim_arrange_near_invite_defense_fit |  
+| bip_39_word_underscore_11 | rebuild_mosquito_stock_shed_swim_arrange_near_invite_defense_fit_industry |  
+| bip_39_word_underscore_12 | rebuild_mosquito_stock_shed_swim_arrange_near_invite_defense_fit_industry_alcohol |  
+| bip_39_word_underscore_2 | rebuild_mosquito |  
+| bip_39_word_underscore_3 | rebuild_mosquito_stock |  
+| bip_39_word_underscore_4 | rebuild_mosquito_stock_shed |  
+| bip_39_word_underscore_5 | rebuild_mosquito_stock_shed_swim |  
+| bip_39_word_underscore_6 | rebuild_mosquito_stock_shed_swim_arrange |  
+| bip_39_word_underscore_7 | rebuild_mosquito_stock_shed_swim_arrange_near |  
+| bip_39_word_underscore_8 | rebuild_mosquito_stock_shed_swim_arrange_near_invite |  
+| bip_39_word_underscore_9 | rebuild_mosquito_stock_shed_swim_arrange_near_invite_defense |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

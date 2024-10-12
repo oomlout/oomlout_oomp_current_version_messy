@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wage |  
+| bip_39_word_dash_10 | wage-retreat-banana-chest-bounce-average-custom-labor-sick-dentist |  
+| bip_39_word_dash_11 | wage-retreat-banana-chest-bounce-average-custom-labor-sick-dentist-cook |  
+| bip_39_word_dash_12 | wage-retreat-banana-chest-bounce-average-custom-labor-sick-dentist-cook-airport |  
+| bip_39_word_dash_2 | wage-retreat |  
+| bip_39_word_dash_3 | wage-retreat-banana |  
+| bip_39_word_dash_4 | wage-retreat-banana-chest |  
+| bip_39_word_dash_5 | wage-retreat-banana-chest-bounce |  
+| bip_39_word_dash_6 | wage-retreat-banana-chest-bounce-average |  
+| bip_39_word_dash_7 | wage-retreat-banana-chest-bounce-average-custom |  
+| bip_39_word_dash_8 | wage-retreat-banana-chest-bounce-average-custom-labor |  
+| bip_39_word_dash_9 | wage-retreat-banana-chest-bounce-average-custom-labor-sick |  
 | bip_39_word_new_br_1 | wage |  
 | bip_39_word_new_br_10 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor<br>sick<br>dentist |  
 | bip_39_word_new_br_11 | wage<br>retreat<br>banana<br>chest<br>bounce<br>average<br>custom<br>labor<br>sick<br>dentist<br>cook |  
@@ -147,6 +159,18 @@ sick |
 | bip_39_word_space_7 | wage retreat banana chest bounce average custom |  
 | bip_39_word_space_8 | wage retreat banana chest bounce average custom labor |  
 | bip_39_word_space_9 | wage retreat banana chest bounce average custom labor sick |  
+| bip_39_word_underscore_1 | wage |  
+| bip_39_word_underscore_10 | wage_retreat_banana_chest_bounce_average_custom_labor_sick_dentist |  
+| bip_39_word_underscore_11 | wage_retreat_banana_chest_bounce_average_custom_labor_sick_dentist_cook |  
+| bip_39_word_underscore_12 | wage_retreat_banana_chest_bounce_average_custom_labor_sick_dentist_cook_airport |  
+| bip_39_word_underscore_2 | wage_retreat |  
+| bip_39_word_underscore_3 | wage_retreat_banana |  
+| bip_39_word_underscore_4 | wage_retreat_banana_chest |  
+| bip_39_word_underscore_5 | wage_retreat_banana_chest_bounce |  
+| bip_39_word_underscore_6 | wage_retreat_banana_chest_bounce_average |  
+| bip_39_word_underscore_7 | wage_retreat_banana_chest_bounce_average_custom |  
+| bip_39_word_underscore_8 | wage_retreat_banana_chest_bounce_average_custom_labor |  
+| bip_39_word_underscore_9 | wage_retreat_banana_chest_bounce_average_custom_labor_sick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

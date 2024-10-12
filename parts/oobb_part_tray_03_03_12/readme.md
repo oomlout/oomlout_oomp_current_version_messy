@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | proud |  
+| bip_39_word_dash_10 | proud-invite-axis-admit-supreme-chef-fence-fancy-strong-people |  
+| bip_39_word_dash_11 | proud-invite-axis-admit-supreme-chef-fence-fancy-strong-people-finish |  
+| bip_39_word_dash_12 | proud-invite-axis-admit-supreme-chef-fence-fancy-strong-people-finish-action |  
+| bip_39_word_dash_2 | proud-invite |  
+| bip_39_word_dash_3 | proud-invite-axis |  
+| bip_39_word_dash_4 | proud-invite-axis-admit |  
+| bip_39_word_dash_5 | proud-invite-axis-admit-supreme |  
+| bip_39_word_dash_6 | proud-invite-axis-admit-supreme-chef |  
+| bip_39_word_dash_7 | proud-invite-axis-admit-supreme-chef-fence |  
+| bip_39_word_dash_8 | proud-invite-axis-admit-supreme-chef-fence-fancy |  
+| bip_39_word_dash_9 | proud-invite-axis-admit-supreme-chef-fence-fancy-strong |  
 | bip_39_word_new_br_1 | proud |  
 | bip_39_word_new_br_10 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy<br>strong<br>people |  
 | bip_39_word_new_br_11 | proud<br>invite<br>axis<br>admit<br>supreme<br>chef<br>fence<br>fancy<br>strong<br>people<br>finish |  
@@ -147,6 +159,18 @@ strong |
 | bip_39_word_space_7 | proud invite axis admit supreme chef fence |  
 | bip_39_word_space_8 | proud invite axis admit supreme chef fence fancy |  
 | bip_39_word_space_9 | proud invite axis admit supreme chef fence fancy strong |  
+| bip_39_word_underscore_1 | proud |  
+| bip_39_word_underscore_10 | proud_invite_axis_admit_supreme_chef_fence_fancy_strong_people |  
+| bip_39_word_underscore_11 | proud_invite_axis_admit_supreme_chef_fence_fancy_strong_people_finish |  
+| bip_39_word_underscore_12 | proud_invite_axis_admit_supreme_chef_fence_fancy_strong_people_finish_action |  
+| bip_39_word_underscore_2 | proud_invite |  
+| bip_39_word_underscore_3 | proud_invite_axis |  
+| bip_39_word_underscore_4 | proud_invite_axis_admit |  
+| bip_39_word_underscore_5 | proud_invite_axis_admit_supreme |  
+| bip_39_word_underscore_6 | proud_invite_axis_admit_supreme_chef |  
+| bip_39_word_underscore_7 | proud_invite_axis_admit_supreme_chef_fence |  
+| bip_39_word_underscore_8 | proud_invite_axis_admit_supreme_chef_fence_fancy |  
+| bip_39_word_underscore_9 | proud_invite_axis_admit_supreme_chef_fence_fancy_strong |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

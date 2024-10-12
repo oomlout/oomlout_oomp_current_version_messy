@@ -1,3 +1,15 @@
+bip_39_word_dash_1: idea
+bip_39_word_dash_10: idea-weird-pink-blame-ghost-trip-salt-next-aisle-case
+bip_39_word_dash_11: idea-weird-pink-blame-ghost-trip-salt-next-aisle-case-ramp
+bip_39_word_dash_12: idea-weird-pink-blame-ghost-trip-salt-next-aisle-case-ramp-about
+bip_39_word_dash_2: idea-weird
+bip_39_word_dash_3: idea-weird-pink
+bip_39_word_dash_4: idea-weird-pink-blame
+bip_39_word_dash_5: idea-weird-pink-blame-ghost
+bip_39_word_dash_6: idea-weird-pink-blame-ghost-trip
+bip_39_word_dash_7: idea-weird-pink-blame-ghost-trip-salt
+bip_39_word_dash_8: idea-weird-pink-blame-ghost-trip-salt-next
+bip_39_word_dash_9: idea-weird-pink-blame-ghost-trip-salt-next-aisle
 bip_39_word_new_br_1: idea
 bip_39_word_new_br_10: idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case
 bip_39_word_new_br_11: idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case<br>ramp
@@ -191,6 +203,18 @@ bip_39_word_space_6: idea weird pink blame ghost trip
 bip_39_word_space_7: idea weird pink blame ghost trip salt
 bip_39_word_space_8: idea weird pink blame ghost trip salt next
 bip_39_word_space_9: idea weird pink blame ghost trip salt next aisle
+bip_39_word_underscore_1: idea
+bip_39_word_underscore_10: idea_weird_pink_blame_ghost_trip_salt_next_aisle_case
+bip_39_word_underscore_11: idea_weird_pink_blame_ghost_trip_salt_next_aisle_case_ramp
+bip_39_word_underscore_12: idea_weird_pink_blame_ghost_trip_salt_next_aisle_case_ramp_about
+bip_39_word_underscore_2: idea_weird
+bip_39_word_underscore_3: idea_weird_pink
+bip_39_word_underscore_4: idea_weird_pink_blame
+bip_39_word_underscore_5: idea_weird_pink_blame_ghost
+bip_39_word_underscore_6: idea_weird_pink_blame_ghost_trip
+bip_39_word_underscore_7: idea_weird_pink_blame_ghost_trip_salt
+bip_39_word_underscore_8: idea_weird_pink_blame_ghost_trip_salt_next
+bip_39_word_underscore_9: idea_weird_pink_blame_ghost_trip_salt_next_aisle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

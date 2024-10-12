@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diary |  
+| bip_39_word_dash_10 | diary-example-artefact-prevent-denial-resource-victory-cupboard-mirror-access |  
+| bip_39_word_dash_11 | diary-example-artefact-prevent-denial-resource-victory-cupboard-mirror-access-bench |  
+| bip_39_word_dash_12 | diary-example-artefact-prevent-denial-resource-victory-cupboard-mirror-access-bench-alter |  
+| bip_39_word_dash_2 | diary-example |  
+| bip_39_word_dash_3 | diary-example-artefact |  
+| bip_39_word_dash_4 | diary-example-artefact-prevent |  
+| bip_39_word_dash_5 | diary-example-artefact-prevent-denial |  
+| bip_39_word_dash_6 | diary-example-artefact-prevent-denial-resource |  
+| bip_39_word_dash_7 | diary-example-artefact-prevent-denial-resource-victory |  
+| bip_39_word_dash_8 | diary-example-artefact-prevent-denial-resource-victory-cupboard |  
+| bip_39_word_dash_9 | diary-example-artefact-prevent-denial-resource-victory-cupboard-mirror |  
 | bip_39_word_new_br_1 | diary |  
 | bip_39_word_new_br_10 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard<br>mirror<br>access |  
 | bip_39_word_new_br_11 | diary<br>example<br>artefact<br>prevent<br>denial<br>resource<br>victory<br>cupboard<br>mirror<br>access<br>bench |  
@@ -147,6 +159,18 @@ mirror |
 | bip_39_word_space_7 | diary example artefact prevent denial resource victory |  
 | bip_39_word_space_8 | diary example artefact prevent denial resource victory cupboard |  
 | bip_39_word_space_9 | diary example artefact prevent denial resource victory cupboard mirror |  
+| bip_39_word_underscore_1 | diary |  
+| bip_39_word_underscore_10 | diary_example_artefact_prevent_denial_resource_victory_cupboard_mirror_access |  
+| bip_39_word_underscore_11 | diary_example_artefact_prevent_denial_resource_victory_cupboard_mirror_access_bench |  
+| bip_39_word_underscore_12 | diary_example_artefact_prevent_denial_resource_victory_cupboard_mirror_access_bench_alter |  
+| bip_39_word_underscore_2 | diary_example |  
+| bip_39_word_underscore_3 | diary_example_artefact |  
+| bip_39_word_underscore_4 | diary_example_artefact_prevent |  
+| bip_39_word_underscore_5 | diary_example_artefact_prevent_denial |  
+| bip_39_word_underscore_6 | diary_example_artefact_prevent_denial_resource |  
+| bip_39_word_underscore_7 | diary_example_artefact_prevent_denial_resource_victory |  
+| bip_39_word_underscore_8 | diary_example_artefact_prevent_denial_resource_victory_cupboard |  
+| bip_39_word_underscore_9 | diary_example_artefact_prevent_denial_resource_victory_cupboard_mirror |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

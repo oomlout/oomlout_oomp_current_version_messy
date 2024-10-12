@@ -1,3 +1,15 @@
+bip_39_word_dash_1: north
+bip_39_word_dash_10: north-scrub-ramp-polar-issue-neither-riot-lion-jar-drive
+bip_39_word_dash_11: north-scrub-ramp-polar-issue-neither-riot-lion-jar-drive-exhaust
+bip_39_word_dash_12: north-scrub-ramp-polar-issue-neither-riot-lion-jar-drive-exhaust-almost
+bip_39_word_dash_2: north-scrub
+bip_39_word_dash_3: north-scrub-ramp
+bip_39_word_dash_4: north-scrub-ramp-polar
+bip_39_word_dash_5: north-scrub-ramp-polar-issue
+bip_39_word_dash_6: north-scrub-ramp-polar-issue-neither
+bip_39_word_dash_7: north-scrub-ramp-polar-issue-neither-riot
+bip_39_word_dash_8: north-scrub-ramp-polar-issue-neither-riot-lion
+bip_39_word_dash_9: north-scrub-ramp-polar-issue-neither-riot-lion-jar
 bip_39_word_new_br_1: north
 bip_39_word_new_br_10: north<br>scrub<br>ramp<br>polar<br>issue<br>neither<br>riot<br>lion<br>jar<br>drive
 bip_39_word_new_br_11: north<br>scrub<br>ramp<br>polar<br>issue<br>neither<br>riot<br>lion<br>jar<br>drive<br>exhaust
@@ -192,6 +204,18 @@ bip_39_word_space_6: north scrub ramp polar issue neither
 bip_39_word_space_7: north scrub ramp polar issue neither riot
 bip_39_word_space_8: north scrub ramp polar issue neither riot lion
 bip_39_word_space_9: north scrub ramp polar issue neither riot lion jar
+bip_39_word_underscore_1: north
+bip_39_word_underscore_10: north_scrub_ramp_polar_issue_neither_riot_lion_jar_drive
+bip_39_word_underscore_11: north_scrub_ramp_polar_issue_neither_riot_lion_jar_drive_exhaust
+bip_39_word_underscore_12: north_scrub_ramp_polar_issue_neither_riot_lion_jar_drive_exhaust_almost
+bip_39_word_underscore_2: north_scrub
+bip_39_word_underscore_3: north_scrub_ramp
+bip_39_word_underscore_4: north_scrub_ramp_polar
+bip_39_word_underscore_5: north_scrub_ramp_polar_issue
+bip_39_word_underscore_6: north_scrub_ramp_polar_issue_neither
+bip_39_word_underscore_7: north_scrub_ramp_polar_issue_neither_riot
+bip_39_word_underscore_8: north_scrub_ramp_polar_issue_neither_riot_lion
+bip_39_word_underscore_9: north_scrub_ramp_polar_issue_neither_riot_lion_jar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

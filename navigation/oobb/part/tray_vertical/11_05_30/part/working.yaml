@@ -1,3 +1,15 @@
+bip_39_word_dash_1: diet
+bip_39_word_dash_10: diet-science-session-violin-broccoli-lottery-enact-rabbit-peanut-purity
+bip_39_word_dash_11: diet-science-session-violin-broccoli-lottery-enact-rabbit-peanut-purity-section
+bip_39_word_dash_12: diet-science-session-violin-broccoli-lottery-enact-rabbit-peanut-purity-section-assume
+bip_39_word_dash_2: diet-science
+bip_39_word_dash_3: diet-science-session
+bip_39_word_dash_4: diet-science-session-violin
+bip_39_word_dash_5: diet-science-session-violin-broccoli
+bip_39_word_dash_6: diet-science-session-violin-broccoli-lottery
+bip_39_word_dash_7: diet-science-session-violin-broccoli-lottery-enact
+bip_39_word_dash_8: diet-science-session-violin-broccoli-lottery-enact-rabbit
+bip_39_word_dash_9: diet-science-session-violin-broccoli-lottery-enact-rabbit-peanut
 bip_39_word_new_br_1: diet
 bip_39_word_new_br_10: diet<br>science<br>session<br>violin<br>broccoli<br>lottery<br>enact<br>rabbit<br>peanut<br>purity
 bip_39_word_new_br_11: diet<br>science<br>session<br>violin<br>broccoli<br>lottery<br>enact<br>rabbit<br>peanut<br>purity<br>section
@@ -194,6 +206,18 @@ bip_39_word_space_6: diet science session violin broccoli lottery
 bip_39_word_space_7: diet science session violin broccoli lottery enact
 bip_39_word_space_8: diet science session violin broccoli lottery enact rabbit
 bip_39_word_space_9: diet science session violin broccoli lottery enact rabbit peanut
+bip_39_word_underscore_1: diet
+bip_39_word_underscore_10: diet_science_session_violin_broccoli_lottery_enact_rabbit_peanut_purity
+bip_39_word_underscore_11: diet_science_session_violin_broccoli_lottery_enact_rabbit_peanut_purity_section
+bip_39_word_underscore_12: diet_science_session_violin_broccoli_lottery_enact_rabbit_peanut_purity_section_assume
+bip_39_word_underscore_2: diet_science
+bip_39_word_underscore_3: diet_science_session
+bip_39_word_underscore_4: diet_science_session_violin
+bip_39_word_underscore_5: diet_science_session_violin_broccoli
+bip_39_word_underscore_6: diet_science_session_violin_broccoli_lottery
+bip_39_word_underscore_7: diet_science_session_violin_broccoli_lottery_enact
+bip_39_word_underscore_8: diet_science_session_violin_broccoli_lottery_enact_rabbit
+bip_39_word_underscore_9: diet_science_session_violin_broccoli_lottery_enact_rabbit_peanut
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

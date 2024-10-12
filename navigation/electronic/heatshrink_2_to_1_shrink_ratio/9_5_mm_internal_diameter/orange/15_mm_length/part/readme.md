@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | symptom |  
+| bip_39_word_dash_10 | symptom-trick-depend-aspect-rug-cave-claim-donor-silly-finger |  
+| bip_39_word_dash_11 | symptom-trick-depend-aspect-rug-cave-claim-donor-silly-finger-sad |  
+| bip_39_word_dash_12 | symptom-trick-depend-aspect-rug-cave-claim-donor-silly-finger-sad-among |  
+| bip_39_word_dash_2 | symptom-trick |  
+| bip_39_word_dash_3 | symptom-trick-depend |  
+| bip_39_word_dash_4 | symptom-trick-depend-aspect |  
+| bip_39_word_dash_5 | symptom-trick-depend-aspect-rug |  
+| bip_39_word_dash_6 | symptom-trick-depend-aspect-rug-cave |  
+| bip_39_word_dash_7 | symptom-trick-depend-aspect-rug-cave-claim |  
+| bip_39_word_dash_8 | symptom-trick-depend-aspect-rug-cave-claim-donor |  
+| bip_39_word_dash_9 | symptom-trick-depend-aspect-rug-cave-claim-donor-silly |  
 | bip_39_word_new_br_1 | symptom |  
 | bip_39_word_new_br_10 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor<br>silly<br>finger |  
 | bip_39_word_new_br_11 | symptom<br>trick<br>depend<br>aspect<br>rug<br>cave<br>claim<br>donor<br>silly<br>finger<br>sad |  
@@ -147,6 +159,18 @@ silly |
 | bip_39_word_space_7 | symptom trick depend aspect rug cave claim |  
 | bip_39_word_space_8 | symptom trick depend aspect rug cave claim donor |  
 | bip_39_word_space_9 | symptom trick depend aspect rug cave claim donor silly |  
+| bip_39_word_underscore_1 | symptom |  
+| bip_39_word_underscore_10 | symptom_trick_depend_aspect_rug_cave_claim_donor_silly_finger |  
+| bip_39_word_underscore_11 | symptom_trick_depend_aspect_rug_cave_claim_donor_silly_finger_sad |  
+| bip_39_word_underscore_12 | symptom_trick_depend_aspect_rug_cave_claim_donor_silly_finger_sad_among |  
+| bip_39_word_underscore_2 | symptom_trick |  
+| bip_39_word_underscore_3 | symptom_trick_depend |  
+| bip_39_word_underscore_4 | symptom_trick_depend_aspect |  
+| bip_39_word_underscore_5 | symptom_trick_depend_aspect_rug |  
+| bip_39_word_underscore_6 | symptom_trick_depend_aspect_rug_cave |  
+| bip_39_word_underscore_7 | symptom_trick_depend_aspect_rug_cave_claim |  
+| bip_39_word_underscore_8 | symptom_trick_depend_aspect_rug_cave_claim_donor |  
+| bip_39_word_underscore_9 | symptom_trick_depend_aspect_rug_cave_claim_donor_silly |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

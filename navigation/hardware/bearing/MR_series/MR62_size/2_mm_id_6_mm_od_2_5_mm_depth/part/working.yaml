@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cup
+bip_39_word_dash_10: cup-elbow-neglect-tower-rail-crumble-someone-general-zone-east
+bip_39_word_dash_11: cup-elbow-neglect-tower-rail-crumble-someone-general-zone-east-picture
+bip_39_word_dash_12: cup-elbow-neglect-tower-rail-crumble-someone-general-zone-east-picture-across
+bip_39_word_dash_2: cup-elbow
+bip_39_word_dash_3: cup-elbow-neglect
+bip_39_word_dash_4: cup-elbow-neglect-tower
+bip_39_word_dash_5: cup-elbow-neglect-tower-rail
+bip_39_word_dash_6: cup-elbow-neglect-tower-rail-crumble
+bip_39_word_dash_7: cup-elbow-neglect-tower-rail-crumble-someone
+bip_39_word_dash_8: cup-elbow-neglect-tower-rail-crumble-someone-general
+bip_39_word_dash_9: cup-elbow-neglect-tower-rail-crumble-someone-general-zone
 bip_39_word_new_br_1: cup
 bip_39_word_new_br_10: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general<br>zone<br>east
 bip_39_word_new_br_11: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general<br>zone<br>east<br>picture
@@ -193,6 +205,18 @@ bip_39_word_space_6: cup elbow neglect tower rail crumble
 bip_39_word_space_7: cup elbow neglect tower rail crumble someone
 bip_39_word_space_8: cup elbow neglect tower rail crumble someone general
 bip_39_word_space_9: cup elbow neglect tower rail crumble someone general zone
+bip_39_word_underscore_1: cup
+bip_39_word_underscore_10: cup_elbow_neglect_tower_rail_crumble_someone_general_zone_east
+bip_39_word_underscore_11: cup_elbow_neglect_tower_rail_crumble_someone_general_zone_east_picture
+bip_39_word_underscore_12: cup_elbow_neglect_tower_rail_crumble_someone_general_zone_east_picture_across
+bip_39_word_underscore_2: cup_elbow
+bip_39_word_underscore_3: cup_elbow_neglect
+bip_39_word_underscore_4: cup_elbow_neglect_tower
+bip_39_word_underscore_5: cup_elbow_neglect_tower_rail
+bip_39_word_underscore_6: cup_elbow_neglect_tower_rail_crumble
+bip_39_word_underscore_7: cup_elbow_neglect_tower_rail_crumble_someone
+bip_39_word_underscore_8: cup_elbow_neglect_tower_rail_crumble_someone_general
+bip_39_word_underscore_9: cup_elbow_neglect_tower_rail_crumble_someone_general_zone
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

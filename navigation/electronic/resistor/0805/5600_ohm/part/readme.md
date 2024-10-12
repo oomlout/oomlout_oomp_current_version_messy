@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sugar |  
+| bip_39_word_dash_10 | sugar-juice-stumble-february-poem-destroy-camera-series-category-bunker |  
+| bip_39_word_dash_11 | sugar-juice-stumble-february-poem-destroy-camera-series-category-bunker-minimum |  
+| bip_39_word_dash_12 | sugar-juice-stumble-february-poem-destroy-camera-series-category-bunker-minimum-acid |  
+| bip_39_word_dash_2 | sugar-juice |  
+| bip_39_word_dash_3 | sugar-juice-stumble |  
+| bip_39_word_dash_4 | sugar-juice-stumble-february |  
+| bip_39_word_dash_5 | sugar-juice-stumble-february-poem |  
+| bip_39_word_dash_6 | sugar-juice-stumble-february-poem-destroy |  
+| bip_39_word_dash_7 | sugar-juice-stumble-february-poem-destroy-camera |  
+| bip_39_word_dash_8 | sugar-juice-stumble-february-poem-destroy-camera-series |  
+| bip_39_word_dash_9 | sugar-juice-stumble-february-poem-destroy-camera-series-category |  
 | bip_39_word_new_br_1 | sugar |  
 | bip_39_word_new_br_10 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker |  
 | bip_39_word_new_br_11 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker<br>minimum |  
@@ -147,6 +159,18 @@ category |
 | bip_39_word_space_7 | sugar juice stumble february poem destroy camera |  
 | bip_39_word_space_8 | sugar juice stumble february poem destroy camera series |  
 | bip_39_word_space_9 | sugar juice stumble february poem destroy camera series category |  
+| bip_39_word_underscore_1 | sugar |  
+| bip_39_word_underscore_10 | sugar_juice_stumble_february_poem_destroy_camera_series_category_bunker |  
+| bip_39_word_underscore_11 | sugar_juice_stumble_february_poem_destroy_camera_series_category_bunker_minimum |  
+| bip_39_word_underscore_12 | sugar_juice_stumble_february_poem_destroy_camera_series_category_bunker_minimum_acid |  
+| bip_39_word_underscore_2 | sugar_juice |  
+| bip_39_word_underscore_3 | sugar_juice_stumble |  
+| bip_39_word_underscore_4 | sugar_juice_stumble_february |  
+| bip_39_word_underscore_5 | sugar_juice_stumble_february_poem |  
+| bip_39_word_underscore_6 | sugar_juice_stumble_february_poem_destroy |  
+| bip_39_word_underscore_7 | sugar_juice_stumble_february_poem_destroy_camera |  
+| bip_39_word_underscore_8 | sugar_juice_stumble_february_poem_destroy_camera_series |  
+| bip_39_word_underscore_9 | sugar_juice_stumble_february_poem_destroy_camera_series_category |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

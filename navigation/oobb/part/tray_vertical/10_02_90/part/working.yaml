@@ -1,3 +1,15 @@
+bip_39_word_dash_1: helmet
+bip_39_word_dash_10: helmet-thank-vague-tip-mouse-quality-quantum-arrow-panel-game
+bip_39_word_dash_11: helmet-thank-vague-tip-mouse-quality-quantum-arrow-panel-game-orient
+bip_39_word_dash_12: helmet-thank-vague-tip-mouse-quality-quantum-arrow-panel-game-orient-across
+bip_39_word_dash_2: helmet-thank
+bip_39_word_dash_3: helmet-thank-vague
+bip_39_word_dash_4: helmet-thank-vague-tip
+bip_39_word_dash_5: helmet-thank-vague-tip-mouse
+bip_39_word_dash_6: helmet-thank-vague-tip-mouse-quality
+bip_39_word_dash_7: helmet-thank-vague-tip-mouse-quality-quantum
+bip_39_word_dash_8: helmet-thank-vague-tip-mouse-quality-quantum-arrow
+bip_39_word_dash_9: helmet-thank-vague-tip-mouse-quality-quantum-arrow-panel
 bip_39_word_new_br_1: helmet
 bip_39_word_new_br_10: helmet<br>thank<br>vague<br>tip<br>mouse<br>quality<br>quantum<br>arrow<br>panel<br>game
 bip_39_word_new_br_11: helmet<br>thank<br>vague<br>tip<br>mouse<br>quality<br>quantum<br>arrow<br>panel<br>game<br>orient
@@ -193,6 +205,18 @@ bip_39_word_space_6: helmet thank vague tip mouse quality
 bip_39_word_space_7: helmet thank vague tip mouse quality quantum
 bip_39_word_space_8: helmet thank vague tip mouse quality quantum arrow
 bip_39_word_space_9: helmet thank vague tip mouse quality quantum arrow panel
+bip_39_word_underscore_1: helmet
+bip_39_word_underscore_10: helmet_thank_vague_tip_mouse_quality_quantum_arrow_panel_game
+bip_39_word_underscore_11: helmet_thank_vague_tip_mouse_quality_quantum_arrow_panel_game_orient
+bip_39_word_underscore_12: helmet_thank_vague_tip_mouse_quality_quantum_arrow_panel_game_orient_across
+bip_39_word_underscore_2: helmet_thank
+bip_39_word_underscore_3: helmet_thank_vague
+bip_39_word_underscore_4: helmet_thank_vague_tip
+bip_39_word_underscore_5: helmet_thank_vague_tip_mouse
+bip_39_word_underscore_6: helmet_thank_vague_tip_mouse_quality
+bip_39_word_underscore_7: helmet_thank_vague_tip_mouse_quality_quantum
+bip_39_word_underscore_8: helmet_thank_vague_tip_mouse_quality_quantum_arrow
+bip_39_word_underscore_9: helmet_thank_vague_tip_mouse_quality_quantum_arrow_panel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

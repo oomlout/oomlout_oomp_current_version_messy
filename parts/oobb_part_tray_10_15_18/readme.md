@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | echo |  
+| bip_39_word_dash_10 | echo-found-salt-bridge-word-swamp-wire-churn-rug-dawn |  
+| bip_39_word_dash_11 | echo-found-salt-bridge-word-swamp-wire-churn-rug-dawn-limit |  
+| bip_39_word_dash_12 | echo-found-salt-bridge-word-swamp-wire-churn-rug-dawn-limit-athlete |  
+| bip_39_word_dash_2 | echo-found |  
+| bip_39_word_dash_3 | echo-found-salt |  
+| bip_39_word_dash_4 | echo-found-salt-bridge |  
+| bip_39_word_dash_5 | echo-found-salt-bridge-word |  
+| bip_39_word_dash_6 | echo-found-salt-bridge-word-swamp |  
+| bip_39_word_dash_7 | echo-found-salt-bridge-word-swamp-wire |  
+| bip_39_word_dash_8 | echo-found-salt-bridge-word-swamp-wire-churn |  
+| bip_39_word_dash_9 | echo-found-salt-bridge-word-swamp-wire-churn-rug |  
 | bip_39_word_new_br_1 | echo |  
 | bip_39_word_new_br_10 | echo<br>found<br>salt<br>bridge<br>word<br>swamp<br>wire<br>churn<br>rug<br>dawn |  
 | bip_39_word_new_br_11 | echo<br>found<br>salt<br>bridge<br>word<br>swamp<br>wire<br>churn<br>rug<br>dawn<br>limit |  
@@ -147,6 +159,18 @@ rug |
 | bip_39_word_space_7 | echo found salt bridge word swamp wire |  
 | bip_39_word_space_8 | echo found salt bridge word swamp wire churn |  
 | bip_39_word_space_9 | echo found salt bridge word swamp wire churn rug |  
+| bip_39_word_underscore_1 | echo |  
+| bip_39_word_underscore_10 | echo_found_salt_bridge_word_swamp_wire_churn_rug_dawn |  
+| bip_39_word_underscore_11 | echo_found_salt_bridge_word_swamp_wire_churn_rug_dawn_limit |  
+| bip_39_word_underscore_12 | echo_found_salt_bridge_word_swamp_wire_churn_rug_dawn_limit_athlete |  
+| bip_39_word_underscore_2 | echo_found |  
+| bip_39_word_underscore_3 | echo_found_salt |  
+| bip_39_word_underscore_4 | echo_found_salt_bridge |  
+| bip_39_word_underscore_5 | echo_found_salt_bridge_word |  
+| bip_39_word_underscore_6 | echo_found_salt_bridge_word_swamp |  
+| bip_39_word_underscore_7 | echo_found_salt_bridge_word_swamp_wire |  
+| bip_39_word_underscore_8 | echo_found_salt_bridge_word_swamp_wire_churn |  
+| bip_39_word_underscore_9 | echo_found_salt_bridge_word_swamp_wire_churn_rug |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

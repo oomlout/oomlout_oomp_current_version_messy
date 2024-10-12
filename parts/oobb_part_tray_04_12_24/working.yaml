@@ -1,3 +1,15 @@
+bip_39_word_dash_1: keep
+bip_39_word_dash_10: keep-carpet-clean-action-joy-behave-length-jungle-worth-quantum
+bip_39_word_dash_11: keep-carpet-clean-action-joy-behave-length-jungle-worth-quantum-crew
+bip_39_word_dash_12: keep-carpet-clean-action-joy-behave-length-jungle-worth-quantum-crew-achieve
+bip_39_word_dash_2: keep-carpet
+bip_39_word_dash_3: keep-carpet-clean
+bip_39_word_dash_4: keep-carpet-clean-action
+bip_39_word_dash_5: keep-carpet-clean-action-joy
+bip_39_word_dash_6: keep-carpet-clean-action-joy-behave
+bip_39_word_dash_7: keep-carpet-clean-action-joy-behave-length
+bip_39_word_dash_8: keep-carpet-clean-action-joy-behave-length-jungle
+bip_39_word_dash_9: keep-carpet-clean-action-joy-behave-length-jungle-worth
 bip_39_word_new_br_1: keep
 bip_39_word_new_br_10: keep<br>carpet<br>clean<br>action<br>joy<br>behave<br>length<br>jungle<br>worth<br>quantum
 bip_39_word_new_br_11: keep<br>carpet<br>clean<br>action<br>joy<br>behave<br>length<br>jungle<br>worth<br>quantum<br>crew
@@ -193,6 +205,18 @@ bip_39_word_space_6: keep carpet clean action joy behave
 bip_39_word_space_7: keep carpet clean action joy behave length
 bip_39_word_space_8: keep carpet clean action joy behave length jungle
 bip_39_word_space_9: keep carpet clean action joy behave length jungle worth
+bip_39_word_underscore_1: keep
+bip_39_word_underscore_10: keep_carpet_clean_action_joy_behave_length_jungle_worth_quantum
+bip_39_word_underscore_11: keep_carpet_clean_action_joy_behave_length_jungle_worth_quantum_crew
+bip_39_word_underscore_12: keep_carpet_clean_action_joy_behave_length_jungle_worth_quantum_crew_achieve
+bip_39_word_underscore_2: keep_carpet
+bip_39_word_underscore_3: keep_carpet_clean
+bip_39_word_underscore_4: keep_carpet_clean_action
+bip_39_word_underscore_5: keep_carpet_clean_action_joy
+bip_39_word_underscore_6: keep_carpet_clean_action_joy_behave
+bip_39_word_underscore_7: keep_carpet_clean_action_joy_behave_length
+bip_39_word_underscore_8: keep_carpet_clean_action_joy_behave_length_jungle
+bip_39_word_underscore_9: keep_carpet_clean_action_joy_behave_length_jungle_worth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

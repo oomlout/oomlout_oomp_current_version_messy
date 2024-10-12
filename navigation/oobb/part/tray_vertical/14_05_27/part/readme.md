@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pyramid |  
+| bip_39_word_dash_10 | pyramid-urban-evidence-wrap-source-trust-broken-much-face-alone |  
+| bip_39_word_dash_11 | pyramid-urban-evidence-wrap-source-trust-broken-much-face-alone-dance |  
+| bip_39_word_dash_12 | pyramid-urban-evidence-wrap-source-trust-broken-much-face-alone-dance-abstract |  
+| bip_39_word_dash_2 | pyramid-urban |  
+| bip_39_word_dash_3 | pyramid-urban-evidence |  
+| bip_39_word_dash_4 | pyramid-urban-evidence-wrap |  
+| bip_39_word_dash_5 | pyramid-urban-evidence-wrap-source |  
+| bip_39_word_dash_6 | pyramid-urban-evidence-wrap-source-trust |  
+| bip_39_word_dash_7 | pyramid-urban-evidence-wrap-source-trust-broken |  
+| bip_39_word_dash_8 | pyramid-urban-evidence-wrap-source-trust-broken-much |  
+| bip_39_word_dash_9 | pyramid-urban-evidence-wrap-source-trust-broken-much-face |  
 | bip_39_word_new_br_1 | pyramid |  
 | bip_39_word_new_br_10 | pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone |  
 | bip_39_word_new_br_11 | pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone<br>dance |  
@@ -147,6 +159,18 @@ face |
 | bip_39_word_space_7 | pyramid urban evidence wrap source trust broken |  
 | bip_39_word_space_8 | pyramid urban evidence wrap source trust broken much |  
 | bip_39_word_space_9 | pyramid urban evidence wrap source trust broken much face |  
+| bip_39_word_underscore_1 | pyramid |  
+| bip_39_word_underscore_10 | pyramid_urban_evidence_wrap_source_trust_broken_much_face_alone |  
+| bip_39_word_underscore_11 | pyramid_urban_evidence_wrap_source_trust_broken_much_face_alone_dance |  
+| bip_39_word_underscore_12 | pyramid_urban_evidence_wrap_source_trust_broken_much_face_alone_dance_abstract |  
+| bip_39_word_underscore_2 | pyramid_urban |  
+| bip_39_word_underscore_3 | pyramid_urban_evidence |  
+| bip_39_word_underscore_4 | pyramid_urban_evidence_wrap |  
+| bip_39_word_underscore_5 | pyramid_urban_evidence_wrap_source |  
+| bip_39_word_underscore_6 | pyramid_urban_evidence_wrap_source_trust |  
+| bip_39_word_underscore_7 | pyramid_urban_evidence_wrap_source_trust_broken |  
+| bip_39_word_underscore_8 | pyramid_urban_evidence_wrap_source_trust_broken_much |  
+| bip_39_word_underscore_9 | pyramid_urban_evidence_wrap_source_trust_broken_much_face |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

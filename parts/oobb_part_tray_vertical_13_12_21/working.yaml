@@ -1,3 +1,15 @@
+bip_39_word_dash_1: evidence
+bip_39_word_dash_10: evidence-ability-seminar-artwork-canoe-insane-sock-enjoy-access-kit
+bip_39_word_dash_11: evidence-ability-seminar-artwork-canoe-insane-sock-enjoy-access-kit-again
+bip_39_word_dash_12: evidence-ability-seminar-artwork-canoe-insane-sock-enjoy-access-kit-again-add
+bip_39_word_dash_2: evidence-ability
+bip_39_word_dash_3: evidence-ability-seminar
+bip_39_word_dash_4: evidence-ability-seminar-artwork
+bip_39_word_dash_5: evidence-ability-seminar-artwork-canoe
+bip_39_word_dash_6: evidence-ability-seminar-artwork-canoe-insane
+bip_39_word_dash_7: evidence-ability-seminar-artwork-canoe-insane-sock
+bip_39_word_dash_8: evidence-ability-seminar-artwork-canoe-insane-sock-enjoy
+bip_39_word_dash_9: evidence-ability-seminar-artwork-canoe-insane-sock-enjoy-access
 bip_39_word_new_br_1: evidence
 bip_39_word_new_br_10: evidence<br>ability<br>seminar<br>artwork<br>canoe<br>insane<br>sock<br>enjoy<br>access<br>kit
 bip_39_word_new_br_11: evidence<br>ability<br>seminar<br>artwork<br>canoe<br>insane<br>sock<br>enjoy<br>access<br>kit<br>again
@@ -194,6 +206,18 @@ bip_39_word_space_6: evidence ability seminar artwork canoe insane
 bip_39_word_space_7: evidence ability seminar artwork canoe insane sock
 bip_39_word_space_8: evidence ability seminar artwork canoe insane sock enjoy
 bip_39_word_space_9: evidence ability seminar artwork canoe insane sock enjoy access
+bip_39_word_underscore_1: evidence
+bip_39_word_underscore_10: evidence_ability_seminar_artwork_canoe_insane_sock_enjoy_access_kit
+bip_39_word_underscore_11: evidence_ability_seminar_artwork_canoe_insane_sock_enjoy_access_kit_again
+bip_39_word_underscore_12: evidence_ability_seminar_artwork_canoe_insane_sock_enjoy_access_kit_again_add
+bip_39_word_underscore_2: evidence_ability
+bip_39_word_underscore_3: evidence_ability_seminar
+bip_39_word_underscore_4: evidence_ability_seminar_artwork
+bip_39_word_underscore_5: evidence_ability_seminar_artwork_canoe
+bip_39_word_underscore_6: evidence_ability_seminar_artwork_canoe_insane
+bip_39_word_underscore_7: evidence_ability_seminar_artwork_canoe_insane_sock
+bip_39_word_underscore_8: evidence_ability_seminar_artwork_canoe_insane_sock_enjoy
+bip_39_word_underscore_9: evidence_ability_seminar_artwork_canoe_insane_sock_enjoy_access
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

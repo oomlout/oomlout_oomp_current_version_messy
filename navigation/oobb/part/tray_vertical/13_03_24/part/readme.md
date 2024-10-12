@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | output |  
+| bip_39_word_dash_10 | output-physical-bar-dinosaur-refuse-cycle-version-shoot-pyramid-hundred |  
+| bip_39_word_dash_11 | output-physical-bar-dinosaur-refuse-cycle-version-shoot-pyramid-hundred-combine |  
+| bip_39_word_dash_12 | output-physical-bar-dinosaur-refuse-cycle-version-shoot-pyramid-hundred-combine-april |  
+| bip_39_word_dash_2 | output-physical |  
+| bip_39_word_dash_3 | output-physical-bar |  
+| bip_39_word_dash_4 | output-physical-bar-dinosaur |  
+| bip_39_word_dash_5 | output-physical-bar-dinosaur-refuse |  
+| bip_39_word_dash_6 | output-physical-bar-dinosaur-refuse-cycle |  
+| bip_39_word_dash_7 | output-physical-bar-dinosaur-refuse-cycle-version |  
+| bip_39_word_dash_8 | output-physical-bar-dinosaur-refuse-cycle-version-shoot |  
+| bip_39_word_dash_9 | output-physical-bar-dinosaur-refuse-cycle-version-shoot-pyramid |  
 | bip_39_word_new_br_1 | output |  
 | bip_39_word_new_br_10 | output<br>physical<br>bar<br>dinosaur<br>refuse<br>cycle<br>version<br>shoot<br>pyramid<br>hundred |  
 | bip_39_word_new_br_11 | output<br>physical<br>bar<br>dinosaur<br>refuse<br>cycle<br>version<br>shoot<br>pyramid<br>hundred<br>combine |  
@@ -147,6 +159,18 @@ pyramid |
 | bip_39_word_space_7 | output physical bar dinosaur refuse cycle version |  
 | bip_39_word_space_8 | output physical bar dinosaur refuse cycle version shoot |  
 | bip_39_word_space_9 | output physical bar dinosaur refuse cycle version shoot pyramid |  
+| bip_39_word_underscore_1 | output |  
+| bip_39_word_underscore_10 | output_physical_bar_dinosaur_refuse_cycle_version_shoot_pyramid_hundred |  
+| bip_39_word_underscore_11 | output_physical_bar_dinosaur_refuse_cycle_version_shoot_pyramid_hundred_combine |  
+| bip_39_word_underscore_12 | output_physical_bar_dinosaur_refuse_cycle_version_shoot_pyramid_hundred_combine_april |  
+| bip_39_word_underscore_2 | output_physical |  
+| bip_39_word_underscore_3 | output_physical_bar |  
+| bip_39_word_underscore_4 | output_physical_bar_dinosaur |  
+| bip_39_word_underscore_5 | output_physical_bar_dinosaur_refuse |  
+| bip_39_word_underscore_6 | output_physical_bar_dinosaur_refuse_cycle |  
+| bip_39_word_underscore_7 | output_physical_bar_dinosaur_refuse_cycle_version |  
+| bip_39_word_underscore_8 | output_physical_bar_dinosaur_refuse_cycle_version_shoot |  
+| bip_39_word_underscore_9 | output_physical_bar_dinosaur_refuse_cycle_version_shoot_pyramid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hover |  
+| bip_39_word_dash_10 | hover-pencil-roast-merry-long-neck-ride-stumble-fiction-curious |  
+| bip_39_word_dash_11 | hover-pencil-roast-merry-long-neck-ride-stumble-fiction-curious-close |  
+| bip_39_word_dash_12 | hover-pencil-roast-merry-long-neck-ride-stumble-fiction-curious-close-author |  
+| bip_39_word_dash_2 | hover-pencil |  
+| bip_39_word_dash_3 | hover-pencil-roast |  
+| bip_39_word_dash_4 | hover-pencil-roast-merry |  
+| bip_39_word_dash_5 | hover-pencil-roast-merry-long |  
+| bip_39_word_dash_6 | hover-pencil-roast-merry-long-neck |  
+| bip_39_word_dash_7 | hover-pencil-roast-merry-long-neck-ride |  
+| bip_39_word_dash_8 | hover-pencil-roast-merry-long-neck-ride-stumble |  
+| bip_39_word_dash_9 | hover-pencil-roast-merry-long-neck-ride-stumble-fiction |  
 | bip_39_word_new_br_1 | hover |  
 | bip_39_word_new_br_10 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble<br>fiction<br>curious |  
 | bip_39_word_new_br_11 | hover<br>pencil<br>roast<br>merry<br>long<br>neck<br>ride<br>stumble<br>fiction<br>curious<br>close |  
@@ -147,6 +159,18 @@ fiction |
 | bip_39_word_space_7 | hover pencil roast merry long neck ride |  
 | bip_39_word_space_8 | hover pencil roast merry long neck ride stumble |  
 | bip_39_word_space_9 | hover pencil roast merry long neck ride stumble fiction |  
+| bip_39_word_underscore_1 | hover |  
+| bip_39_word_underscore_10 | hover_pencil_roast_merry_long_neck_ride_stumble_fiction_curious |  
+| bip_39_word_underscore_11 | hover_pencil_roast_merry_long_neck_ride_stumble_fiction_curious_close |  
+| bip_39_word_underscore_12 | hover_pencil_roast_merry_long_neck_ride_stumble_fiction_curious_close_author |  
+| bip_39_word_underscore_2 | hover_pencil |  
+| bip_39_word_underscore_3 | hover_pencil_roast |  
+| bip_39_word_underscore_4 | hover_pencil_roast_merry |  
+| bip_39_word_underscore_5 | hover_pencil_roast_merry_long |  
+| bip_39_word_underscore_6 | hover_pencil_roast_merry_long_neck |  
+| bip_39_word_underscore_7 | hover_pencil_roast_merry_long_neck_ride |  
+| bip_39_word_underscore_8 | hover_pencil_roast_merry_long_neck_ride_stumble |  
+| bip_39_word_underscore_9 | hover_pencil_roast_merry_long_neck_ride_stumble_fiction |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

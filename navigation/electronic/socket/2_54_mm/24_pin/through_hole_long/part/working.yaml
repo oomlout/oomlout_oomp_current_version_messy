@@ -1,3 +1,15 @@
+bip_39_word_dash_1: citizen
+bip_39_word_dash_10: citizen-top-aware-trumpet-box-pupil-brother-tent-gather-forest
+bip_39_word_dash_11: citizen-top-aware-trumpet-box-pupil-brother-tent-gather-forest-during
+bip_39_word_dash_12: citizen-top-aware-trumpet-box-pupil-brother-tent-gather-forest-during-across
+bip_39_word_dash_2: citizen-top
+bip_39_word_dash_3: citizen-top-aware
+bip_39_word_dash_4: citizen-top-aware-trumpet
+bip_39_word_dash_5: citizen-top-aware-trumpet-box
+bip_39_word_dash_6: citizen-top-aware-trumpet-box-pupil
+bip_39_word_dash_7: citizen-top-aware-trumpet-box-pupil-brother
+bip_39_word_dash_8: citizen-top-aware-trumpet-box-pupil-brother-tent
+bip_39_word_dash_9: citizen-top-aware-trumpet-box-pupil-brother-tent-gather
 bip_39_word_new_br_1: citizen
 bip_39_word_new_br_10: citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest
 bip_39_word_new_br_11: citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest<br>during
@@ -193,6 +205,18 @@ bip_39_word_space_6: citizen top aware trumpet box pupil
 bip_39_word_space_7: citizen top aware trumpet box pupil brother
 bip_39_word_space_8: citizen top aware trumpet box pupil brother tent
 bip_39_word_space_9: citizen top aware trumpet box pupil brother tent gather
+bip_39_word_underscore_1: citizen
+bip_39_word_underscore_10: citizen_top_aware_trumpet_box_pupil_brother_tent_gather_forest
+bip_39_word_underscore_11: citizen_top_aware_trumpet_box_pupil_brother_tent_gather_forest_during
+bip_39_word_underscore_12: citizen_top_aware_trumpet_box_pupil_brother_tent_gather_forest_during_across
+bip_39_word_underscore_2: citizen_top
+bip_39_word_underscore_3: citizen_top_aware
+bip_39_word_underscore_4: citizen_top_aware_trumpet
+bip_39_word_underscore_5: citizen_top_aware_trumpet_box
+bip_39_word_underscore_6: citizen_top_aware_trumpet_box_pupil
+bip_39_word_underscore_7: citizen_top_aware_trumpet_box_pupil_brother
+bip_39_word_underscore_8: citizen_top_aware_trumpet_box_pupil_brother_tent
+bip_39_word_underscore_9: citizen_top_aware_trumpet_box_pupil_brother_tent_gather
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

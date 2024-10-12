@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sting |  
+| bip_39_word_dash_10 | sting-shaft-wedding-useless-topple-dawn-attend-hood-proud-diary |  
+| bip_39_word_dash_11 | sting-shaft-wedding-useless-topple-dawn-attend-hood-proud-diary-maid |  
+| bip_39_word_dash_12 | sting-shaft-wedding-useless-topple-dawn-attend-hood-proud-diary-maid-advance |  
+| bip_39_word_dash_2 | sting-shaft |  
+| bip_39_word_dash_3 | sting-shaft-wedding |  
+| bip_39_word_dash_4 | sting-shaft-wedding-useless |  
+| bip_39_word_dash_5 | sting-shaft-wedding-useless-topple |  
+| bip_39_word_dash_6 | sting-shaft-wedding-useless-topple-dawn |  
+| bip_39_word_dash_7 | sting-shaft-wedding-useless-topple-dawn-attend |  
+| bip_39_word_dash_8 | sting-shaft-wedding-useless-topple-dawn-attend-hood |  
+| bip_39_word_dash_9 | sting-shaft-wedding-useless-topple-dawn-attend-hood-proud |  
 | bip_39_word_new_br_1 | sting |  
 | bip_39_word_new_br_10 | sting<br>shaft<br>wedding<br>useless<br>topple<br>dawn<br>attend<br>hood<br>proud<br>diary |  
 | bip_39_word_new_br_11 | sting<br>shaft<br>wedding<br>useless<br>topple<br>dawn<br>attend<br>hood<br>proud<br>diary<br>maid |  
@@ -147,6 +159,18 @@ proud |
 | bip_39_word_space_7 | sting shaft wedding useless topple dawn attend |  
 | bip_39_word_space_8 | sting shaft wedding useless topple dawn attend hood |  
 | bip_39_word_space_9 | sting shaft wedding useless topple dawn attend hood proud |  
+| bip_39_word_underscore_1 | sting |  
+| bip_39_word_underscore_10 | sting_shaft_wedding_useless_topple_dawn_attend_hood_proud_diary |  
+| bip_39_word_underscore_11 | sting_shaft_wedding_useless_topple_dawn_attend_hood_proud_diary_maid |  
+| bip_39_word_underscore_12 | sting_shaft_wedding_useless_topple_dawn_attend_hood_proud_diary_maid_advance |  
+| bip_39_word_underscore_2 | sting_shaft |  
+| bip_39_word_underscore_3 | sting_shaft_wedding |  
+| bip_39_word_underscore_4 | sting_shaft_wedding_useless |  
+| bip_39_word_underscore_5 | sting_shaft_wedding_useless_topple |  
+| bip_39_word_underscore_6 | sting_shaft_wedding_useless_topple_dawn |  
+| bip_39_word_underscore_7 | sting_shaft_wedding_useless_topple_dawn_attend |  
+| bip_39_word_underscore_8 | sting_shaft_wedding_useless_topple_dawn_attend_hood |  
+| bip_39_word_underscore_9 | sting_shaft_wedding_useless_topple_dawn_attend_hood_proud |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

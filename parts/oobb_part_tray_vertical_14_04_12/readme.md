@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | author |  
+| bip_39_word_dash_10 | author-wink-surface-inject-snake-course-book-mushroom-alcohol-salmon |  
+| bip_39_word_dash_11 | author-wink-surface-inject-snake-course-book-mushroom-alcohol-salmon-sort |  
+| bip_39_word_dash_12 | author-wink-surface-inject-snake-course-book-mushroom-alcohol-salmon-sort-approve |  
+| bip_39_word_dash_2 | author-wink |  
+| bip_39_word_dash_3 | author-wink-surface |  
+| bip_39_word_dash_4 | author-wink-surface-inject |  
+| bip_39_word_dash_5 | author-wink-surface-inject-snake |  
+| bip_39_word_dash_6 | author-wink-surface-inject-snake-course |  
+| bip_39_word_dash_7 | author-wink-surface-inject-snake-course-book |  
+| bip_39_word_dash_8 | author-wink-surface-inject-snake-course-book-mushroom |  
+| bip_39_word_dash_9 | author-wink-surface-inject-snake-course-book-mushroom-alcohol |  
 | bip_39_word_new_br_1 | author |  
 | bip_39_word_new_br_10 | author<br>wink<br>surface<br>inject<br>snake<br>course<br>book<br>mushroom<br>alcohol<br>salmon |  
 | bip_39_word_new_br_11 | author<br>wink<br>surface<br>inject<br>snake<br>course<br>book<br>mushroom<br>alcohol<br>salmon<br>sort |  
@@ -147,6 +159,18 @@ alcohol |
 | bip_39_word_space_7 | author wink surface inject snake course book |  
 | bip_39_word_space_8 | author wink surface inject snake course book mushroom |  
 | bip_39_word_space_9 | author wink surface inject snake course book mushroom alcohol |  
+| bip_39_word_underscore_1 | author |  
+| bip_39_word_underscore_10 | author_wink_surface_inject_snake_course_book_mushroom_alcohol_salmon |  
+| bip_39_word_underscore_11 | author_wink_surface_inject_snake_course_book_mushroom_alcohol_salmon_sort |  
+| bip_39_word_underscore_12 | author_wink_surface_inject_snake_course_book_mushroom_alcohol_salmon_sort_approve |  
+| bip_39_word_underscore_2 | author_wink |  
+| bip_39_word_underscore_3 | author_wink_surface |  
+| bip_39_word_underscore_4 | author_wink_surface_inject |  
+| bip_39_word_underscore_5 | author_wink_surface_inject_snake |  
+| bip_39_word_underscore_6 | author_wink_surface_inject_snake_course |  
+| bip_39_word_underscore_7 | author_wink_surface_inject_snake_course_book |  
+| bip_39_word_underscore_8 | author_wink_surface_inject_snake_course_book_mushroom |  
+| bip_39_word_underscore_9 | author_wink_surface_inject_snake_course_book_mushroom_alcohol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

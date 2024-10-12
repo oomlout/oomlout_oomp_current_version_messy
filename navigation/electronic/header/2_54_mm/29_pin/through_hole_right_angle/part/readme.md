@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mind |  
+| bip_39_word_dash_10 | mind-rain-voice-stage-base-answer-call-crane-moon-illness |  
+| bip_39_word_dash_11 | mind-rain-voice-stage-base-answer-call-crane-moon-illness-hurt |  
+| bip_39_word_dash_12 | mind-rain-voice-stage-base-answer-call-crane-moon-illness-hurt-again |  
+| bip_39_word_dash_2 | mind-rain |  
+| bip_39_word_dash_3 | mind-rain-voice |  
+| bip_39_word_dash_4 | mind-rain-voice-stage |  
+| bip_39_word_dash_5 | mind-rain-voice-stage-base |  
+| bip_39_word_dash_6 | mind-rain-voice-stage-base-answer |  
+| bip_39_word_dash_7 | mind-rain-voice-stage-base-answer-call |  
+| bip_39_word_dash_8 | mind-rain-voice-stage-base-answer-call-crane |  
+| bip_39_word_dash_9 | mind-rain-voice-stage-base-answer-call-crane-moon |  
 | bip_39_word_new_br_1 | mind |  
 | bip_39_word_new_br_10 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness |  
 | bip_39_word_new_br_11 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness<br>hurt |  
@@ -147,6 +159,18 @@ moon |
 | bip_39_word_space_7 | mind rain voice stage base answer call |  
 | bip_39_word_space_8 | mind rain voice stage base answer call crane |  
 | bip_39_word_space_9 | mind rain voice stage base answer call crane moon |  
+| bip_39_word_underscore_1 | mind |  
+| bip_39_word_underscore_10 | mind_rain_voice_stage_base_answer_call_crane_moon_illness |  
+| bip_39_word_underscore_11 | mind_rain_voice_stage_base_answer_call_crane_moon_illness_hurt |  
+| bip_39_word_underscore_12 | mind_rain_voice_stage_base_answer_call_crane_moon_illness_hurt_again |  
+| bip_39_word_underscore_2 | mind_rain |  
+| bip_39_word_underscore_3 | mind_rain_voice |  
+| bip_39_word_underscore_4 | mind_rain_voice_stage |  
+| bip_39_word_underscore_5 | mind_rain_voice_stage_base |  
+| bip_39_word_underscore_6 | mind_rain_voice_stage_base_answer |  
+| bip_39_word_underscore_7 | mind_rain_voice_stage_base_answer_call |  
+| bip_39_word_underscore_8 | mind_rain_voice_stage_base_answer_call_crane |  
+| bip_39_word_underscore_9 | mind_rain_voice_stage_base_answer_call_crane_moon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

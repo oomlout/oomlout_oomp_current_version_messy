@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | later |  
+| bip_39_word_dash_10 | later-ecology-trouble-pelican-include-gaze-trick-view-lunch-turtle |  
+| bip_39_word_dash_11 | later-ecology-trouble-pelican-include-gaze-trick-view-lunch-turtle-jacket |  
+| bip_39_word_dash_12 | later-ecology-trouble-pelican-include-gaze-trick-view-lunch-turtle-jacket-armor |  
+| bip_39_word_dash_2 | later-ecology |  
+| bip_39_word_dash_3 | later-ecology-trouble |  
+| bip_39_word_dash_4 | later-ecology-trouble-pelican |  
+| bip_39_word_dash_5 | later-ecology-trouble-pelican-include |  
+| bip_39_word_dash_6 | later-ecology-trouble-pelican-include-gaze |  
+| bip_39_word_dash_7 | later-ecology-trouble-pelican-include-gaze-trick |  
+| bip_39_word_dash_8 | later-ecology-trouble-pelican-include-gaze-trick-view |  
+| bip_39_word_dash_9 | later-ecology-trouble-pelican-include-gaze-trick-view-lunch |  
 | bip_39_word_new_br_1 | later |  
 | bip_39_word_new_br_10 | later<br>ecology<br>trouble<br>pelican<br>include<br>gaze<br>trick<br>view<br>lunch<br>turtle |  
 | bip_39_word_new_br_11 | later<br>ecology<br>trouble<br>pelican<br>include<br>gaze<br>trick<br>view<br>lunch<br>turtle<br>jacket |  
@@ -147,6 +159,18 @@ lunch |
 | bip_39_word_space_7 | later ecology trouble pelican include gaze trick |  
 | bip_39_word_space_8 | later ecology trouble pelican include gaze trick view |  
 | bip_39_word_space_9 | later ecology trouble pelican include gaze trick view lunch |  
+| bip_39_word_underscore_1 | later |  
+| bip_39_word_underscore_10 | later_ecology_trouble_pelican_include_gaze_trick_view_lunch_turtle |  
+| bip_39_word_underscore_11 | later_ecology_trouble_pelican_include_gaze_trick_view_lunch_turtle_jacket |  
+| bip_39_word_underscore_12 | later_ecology_trouble_pelican_include_gaze_trick_view_lunch_turtle_jacket_armor |  
+| bip_39_word_underscore_2 | later_ecology |  
+| bip_39_word_underscore_3 | later_ecology_trouble |  
+| bip_39_word_underscore_4 | later_ecology_trouble_pelican |  
+| bip_39_word_underscore_5 | later_ecology_trouble_pelican_include |  
+| bip_39_word_underscore_6 | later_ecology_trouble_pelican_include_gaze |  
+| bip_39_word_underscore_7 | later_ecology_trouble_pelican_include_gaze_trick |  
+| bip_39_word_underscore_8 | later_ecology_trouble_pelican_include_gaze_trick_view |  
+| bip_39_word_underscore_9 | later_ecology_trouble_pelican_include_gaze_trick_view_lunch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

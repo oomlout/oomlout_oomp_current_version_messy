@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | maid |  
+| bip_39_word_dash_10 | maid-talk-plate-river-consider-student-practice-reduce-harvest-asthma |  
+| bip_39_word_dash_11 | maid-talk-plate-river-consider-student-practice-reduce-harvest-asthma-impulse |  
+| bip_39_word_dash_12 | maid-talk-plate-river-consider-student-practice-reduce-harvest-asthma-impulse-area |  
+| bip_39_word_dash_2 | maid-talk |  
+| bip_39_word_dash_3 | maid-talk-plate |  
+| bip_39_word_dash_4 | maid-talk-plate-river |  
+| bip_39_word_dash_5 | maid-talk-plate-river-consider |  
+| bip_39_word_dash_6 | maid-talk-plate-river-consider-student |  
+| bip_39_word_dash_7 | maid-talk-plate-river-consider-student-practice |  
+| bip_39_word_dash_8 | maid-talk-plate-river-consider-student-practice-reduce |  
+| bip_39_word_dash_9 | maid-talk-plate-river-consider-student-practice-reduce-harvest |  
 | bip_39_word_new_br_1 | maid |  
 | bip_39_word_new_br_10 | maid<br>talk<br>plate<br>river<br>consider<br>student<br>practice<br>reduce<br>harvest<br>asthma |  
 | bip_39_word_new_br_11 | maid<br>talk<br>plate<br>river<br>consider<br>student<br>practice<br>reduce<br>harvest<br>asthma<br>impulse |  
@@ -147,6 +159,18 @@ harvest |
 | bip_39_word_space_7 | maid talk plate river consider student practice |  
 | bip_39_word_space_8 | maid talk plate river consider student practice reduce |  
 | bip_39_word_space_9 | maid talk plate river consider student practice reduce harvest |  
+| bip_39_word_underscore_1 | maid |  
+| bip_39_word_underscore_10 | maid_talk_plate_river_consider_student_practice_reduce_harvest_asthma |  
+| bip_39_word_underscore_11 | maid_talk_plate_river_consider_student_practice_reduce_harvest_asthma_impulse |  
+| bip_39_word_underscore_12 | maid_talk_plate_river_consider_student_practice_reduce_harvest_asthma_impulse_area |  
+| bip_39_word_underscore_2 | maid_talk |  
+| bip_39_word_underscore_3 | maid_talk_plate |  
+| bip_39_word_underscore_4 | maid_talk_plate_river |  
+| bip_39_word_underscore_5 | maid_talk_plate_river_consider |  
+| bip_39_word_underscore_6 | maid_talk_plate_river_consider_student |  
+| bip_39_word_underscore_7 | maid_talk_plate_river_consider_student_practice |  
+| bip_39_word_underscore_8 | maid_talk_plate_river_consider_student_practice_reduce |  
+| bip_39_word_underscore_9 | maid_talk_plate_river_consider_student_practice_reduce_harvest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

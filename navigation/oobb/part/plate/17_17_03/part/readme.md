@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | employ |  
+| bip_39_word_dash_10 | employ-grace-easy-onion-picnic-antique-forget-green-author-beef |  
+| bip_39_word_dash_11 | employ-grace-easy-onion-picnic-antique-forget-green-author-beef-deposit |  
+| bip_39_word_dash_12 | employ-grace-easy-onion-picnic-antique-forget-green-author-beef-deposit-aisle |  
+| bip_39_word_dash_2 | employ-grace |  
+| bip_39_word_dash_3 | employ-grace-easy |  
+| bip_39_word_dash_4 | employ-grace-easy-onion |  
+| bip_39_word_dash_5 | employ-grace-easy-onion-picnic |  
+| bip_39_word_dash_6 | employ-grace-easy-onion-picnic-antique |  
+| bip_39_word_dash_7 | employ-grace-easy-onion-picnic-antique-forget |  
+| bip_39_word_dash_8 | employ-grace-easy-onion-picnic-antique-forget-green |  
+| bip_39_word_dash_9 | employ-grace-easy-onion-picnic-antique-forget-green-author |  
 | bip_39_word_new_br_1 | employ |  
 | bip_39_word_new_br_10 | employ<br>grace<br>easy<br>onion<br>picnic<br>antique<br>forget<br>green<br>author<br>beef |  
 | bip_39_word_new_br_11 | employ<br>grace<br>easy<br>onion<br>picnic<br>antique<br>forget<br>green<br>author<br>beef<br>deposit |  
@@ -147,6 +159,18 @@ author |
 | bip_39_word_space_7 | employ grace easy onion picnic antique forget |  
 | bip_39_word_space_8 | employ grace easy onion picnic antique forget green |  
 | bip_39_word_space_9 | employ grace easy onion picnic antique forget green author |  
+| bip_39_word_underscore_1 | employ |  
+| bip_39_word_underscore_10 | employ_grace_easy_onion_picnic_antique_forget_green_author_beef |  
+| bip_39_word_underscore_11 | employ_grace_easy_onion_picnic_antique_forget_green_author_beef_deposit |  
+| bip_39_word_underscore_12 | employ_grace_easy_onion_picnic_antique_forget_green_author_beef_deposit_aisle |  
+| bip_39_word_underscore_2 | employ_grace |  
+| bip_39_word_underscore_3 | employ_grace_easy |  
+| bip_39_word_underscore_4 | employ_grace_easy_onion |  
+| bip_39_word_underscore_5 | employ_grace_easy_onion_picnic |  
+| bip_39_word_underscore_6 | employ_grace_easy_onion_picnic_antique |  
+| bip_39_word_underscore_7 | employ_grace_easy_onion_picnic_antique_forget |  
+| bip_39_word_underscore_8 | employ_grace_easy_onion_picnic_antique_forget_green |  
+| bip_39_word_underscore_9 | employ_grace_easy_onion_picnic_antique_forget_green_author |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | zebra |  
+| bip_39_word_dash_10 | zebra-galaxy-music-skate-valve-twist-rabbit-sniff-rival-ride |  
+| bip_39_word_dash_11 | zebra-galaxy-music-skate-valve-twist-rabbit-sniff-rival-ride-guitar |  
+| bip_39_word_dash_12 | zebra-galaxy-music-skate-valve-twist-rabbit-sniff-rival-ride-guitar-action |  
+| bip_39_word_dash_2 | zebra-galaxy |  
+| bip_39_word_dash_3 | zebra-galaxy-music |  
+| bip_39_word_dash_4 | zebra-galaxy-music-skate |  
+| bip_39_word_dash_5 | zebra-galaxy-music-skate-valve |  
+| bip_39_word_dash_6 | zebra-galaxy-music-skate-valve-twist |  
+| bip_39_word_dash_7 | zebra-galaxy-music-skate-valve-twist-rabbit |  
+| bip_39_word_dash_8 | zebra-galaxy-music-skate-valve-twist-rabbit-sniff |  
+| bip_39_word_dash_9 | zebra-galaxy-music-skate-valve-twist-rabbit-sniff-rival |  
 | bip_39_word_new_br_1 | zebra |  
 | bip_39_word_new_br_10 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff<br>rival<br>ride |  
 | bip_39_word_new_br_11 | zebra<br>galaxy<br>music<br>skate<br>valve<br>twist<br>rabbit<br>sniff<br>rival<br>ride<br>guitar |  
@@ -147,6 +159,18 @@ rival |
 | bip_39_word_space_7 | zebra galaxy music skate valve twist rabbit |  
 | bip_39_word_space_8 | zebra galaxy music skate valve twist rabbit sniff |  
 | bip_39_word_space_9 | zebra galaxy music skate valve twist rabbit sniff rival |  
+| bip_39_word_underscore_1 | zebra |  
+| bip_39_word_underscore_10 | zebra_galaxy_music_skate_valve_twist_rabbit_sniff_rival_ride |  
+| bip_39_word_underscore_11 | zebra_galaxy_music_skate_valve_twist_rabbit_sniff_rival_ride_guitar |  
+| bip_39_word_underscore_12 | zebra_galaxy_music_skate_valve_twist_rabbit_sniff_rival_ride_guitar_action |  
+| bip_39_word_underscore_2 | zebra_galaxy |  
+| bip_39_word_underscore_3 | zebra_galaxy_music |  
+| bip_39_word_underscore_4 | zebra_galaxy_music_skate |  
+| bip_39_word_underscore_5 | zebra_galaxy_music_skate_valve |  
+| bip_39_word_underscore_6 | zebra_galaxy_music_skate_valve_twist |  
+| bip_39_word_underscore_7 | zebra_galaxy_music_skate_valve_twist_rabbit |  
+| bip_39_word_underscore_8 | zebra_galaxy_music_skate_valve_twist_rabbit_sniff |  
+| bip_39_word_underscore_9 | zebra_galaxy_music_skate_valve_twist_rabbit_sniff_rival |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

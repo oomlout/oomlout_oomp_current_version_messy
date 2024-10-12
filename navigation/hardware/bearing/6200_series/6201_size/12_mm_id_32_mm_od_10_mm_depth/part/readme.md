@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slam |  
+| bip_39_word_dash_10 | slam-nothing-tube-expect-notable-rack-resemble-banana-crunch-century |  
+| bip_39_word_dash_11 | slam-nothing-tube-expect-notable-rack-resemble-banana-crunch-century-fury |  
+| bip_39_word_dash_12 | slam-nothing-tube-expect-notable-rack-resemble-banana-crunch-century-fury-adapt |  
+| bip_39_word_dash_2 | slam-nothing |  
+| bip_39_word_dash_3 | slam-nothing-tube |  
+| bip_39_word_dash_4 | slam-nothing-tube-expect |  
+| bip_39_word_dash_5 | slam-nothing-tube-expect-notable |  
+| bip_39_word_dash_6 | slam-nothing-tube-expect-notable-rack |  
+| bip_39_word_dash_7 | slam-nothing-tube-expect-notable-rack-resemble |  
+| bip_39_word_dash_8 | slam-nothing-tube-expect-notable-rack-resemble-banana |  
+| bip_39_word_dash_9 | slam-nothing-tube-expect-notable-rack-resemble-banana-crunch |  
 | bip_39_word_new_br_1 | slam |  
 | bip_39_word_new_br_10 | slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana<br>crunch<br>century |  
 | bip_39_word_new_br_11 | slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana<br>crunch<br>century<br>fury |  
@@ -147,6 +159,18 @@ crunch |
 | bip_39_word_space_7 | slam nothing tube expect notable rack resemble |  
 | bip_39_word_space_8 | slam nothing tube expect notable rack resemble banana |  
 | bip_39_word_space_9 | slam nothing tube expect notable rack resemble banana crunch |  
+| bip_39_word_underscore_1 | slam |  
+| bip_39_word_underscore_10 | slam_nothing_tube_expect_notable_rack_resemble_banana_crunch_century |  
+| bip_39_word_underscore_11 | slam_nothing_tube_expect_notable_rack_resemble_banana_crunch_century_fury |  
+| bip_39_word_underscore_12 | slam_nothing_tube_expect_notable_rack_resemble_banana_crunch_century_fury_adapt |  
+| bip_39_word_underscore_2 | slam_nothing |  
+| bip_39_word_underscore_3 | slam_nothing_tube |  
+| bip_39_word_underscore_4 | slam_nothing_tube_expect |  
+| bip_39_word_underscore_5 | slam_nothing_tube_expect_notable |  
+| bip_39_word_underscore_6 | slam_nothing_tube_expect_notable_rack |  
+| bip_39_word_underscore_7 | slam_nothing_tube_expect_notable_rack_resemble |  
+| bip_39_word_underscore_8 | slam_nothing_tube_expect_notable_rack_resemble_banana |  
+| bip_39_word_underscore_9 | slam_nothing_tube_expect_notable_rack_resemble_banana_crunch |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

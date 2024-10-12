@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | birth |  
+| bip_39_word_dash_10 | birth-element-ahead-laptop-modify-palace-thunder-intact-remain-nerve |  
+| bip_39_word_dash_11 | birth-element-ahead-laptop-modify-palace-thunder-intact-remain-nerve-lunch |  
+| bip_39_word_dash_12 | birth-element-ahead-laptop-modify-palace-thunder-intact-remain-nerve-lunch-ability |  
+| bip_39_word_dash_2 | birth-element |  
+| bip_39_word_dash_3 | birth-element-ahead |  
+| bip_39_word_dash_4 | birth-element-ahead-laptop |  
+| bip_39_word_dash_5 | birth-element-ahead-laptop-modify |  
+| bip_39_word_dash_6 | birth-element-ahead-laptop-modify-palace |  
+| bip_39_word_dash_7 | birth-element-ahead-laptop-modify-palace-thunder |  
+| bip_39_word_dash_8 | birth-element-ahead-laptop-modify-palace-thunder-intact |  
+| bip_39_word_dash_9 | birth-element-ahead-laptop-modify-palace-thunder-intact-remain |  
 | bip_39_word_new_br_1 | birth |  
 | bip_39_word_new_br_10 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact<br>remain<br>nerve |  
 | bip_39_word_new_br_11 | birth<br>element<br>ahead<br>laptop<br>modify<br>palace<br>thunder<br>intact<br>remain<br>nerve<br>lunch |  
@@ -147,6 +159,18 @@ remain |
 | bip_39_word_space_7 | birth element ahead laptop modify palace thunder |  
 | bip_39_word_space_8 | birth element ahead laptop modify palace thunder intact |  
 | bip_39_word_space_9 | birth element ahead laptop modify palace thunder intact remain |  
+| bip_39_word_underscore_1 | birth |  
+| bip_39_word_underscore_10 | birth_element_ahead_laptop_modify_palace_thunder_intact_remain_nerve |  
+| bip_39_word_underscore_11 | birth_element_ahead_laptop_modify_palace_thunder_intact_remain_nerve_lunch |  
+| bip_39_word_underscore_12 | birth_element_ahead_laptop_modify_palace_thunder_intact_remain_nerve_lunch_ability |  
+| bip_39_word_underscore_2 | birth_element |  
+| bip_39_word_underscore_3 | birth_element_ahead |  
+| bip_39_word_underscore_4 | birth_element_ahead_laptop |  
+| bip_39_word_underscore_5 | birth_element_ahead_laptop_modify |  
+| bip_39_word_underscore_6 | birth_element_ahead_laptop_modify_palace |  
+| bip_39_word_underscore_7 | birth_element_ahead_laptop_modify_palace_thunder |  
+| bip_39_word_underscore_8 | birth_element_ahead_laptop_modify_palace_thunder_intact |  
+| bip_39_word_underscore_9 | birth_element_ahead_laptop_modify_palace_thunder_intact_remain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

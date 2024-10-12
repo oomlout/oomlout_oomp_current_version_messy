@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | history |  
+| bip_39_word_dash_10 | history-marine-build-next-milk-scene-bracket-captain-outside-yellow |  
+| bip_39_word_dash_11 | history-marine-build-next-milk-scene-bracket-captain-outside-yellow-evil |  
+| bip_39_word_dash_12 | history-marine-build-next-milk-scene-bracket-captain-outside-yellow-evil-attend |  
+| bip_39_word_dash_2 | history-marine |  
+| bip_39_word_dash_3 | history-marine-build |  
+| bip_39_word_dash_4 | history-marine-build-next |  
+| bip_39_word_dash_5 | history-marine-build-next-milk |  
+| bip_39_word_dash_6 | history-marine-build-next-milk-scene |  
+| bip_39_word_dash_7 | history-marine-build-next-milk-scene-bracket |  
+| bip_39_word_dash_8 | history-marine-build-next-milk-scene-bracket-captain |  
+| bip_39_word_dash_9 | history-marine-build-next-milk-scene-bracket-captain-outside |  
 | bip_39_word_new_br_1 | history |  
 | bip_39_word_new_br_10 | history<br>marine<br>build<br>next<br>milk<br>scene<br>bracket<br>captain<br>outside<br>yellow |  
 | bip_39_word_new_br_11 | history<br>marine<br>build<br>next<br>milk<br>scene<br>bracket<br>captain<br>outside<br>yellow<br>evil |  
@@ -147,6 +159,18 @@ outside |
 | bip_39_word_space_7 | history marine build next milk scene bracket |  
 | bip_39_word_space_8 | history marine build next milk scene bracket captain |  
 | bip_39_word_space_9 | history marine build next milk scene bracket captain outside |  
+| bip_39_word_underscore_1 | history |  
+| bip_39_word_underscore_10 | history_marine_build_next_milk_scene_bracket_captain_outside_yellow |  
+| bip_39_word_underscore_11 | history_marine_build_next_milk_scene_bracket_captain_outside_yellow_evil |  
+| bip_39_word_underscore_12 | history_marine_build_next_milk_scene_bracket_captain_outside_yellow_evil_attend |  
+| bip_39_word_underscore_2 | history_marine |  
+| bip_39_word_underscore_3 | history_marine_build |  
+| bip_39_word_underscore_4 | history_marine_build_next |  
+| bip_39_word_underscore_5 | history_marine_build_next_milk |  
+| bip_39_word_underscore_6 | history_marine_build_next_milk_scene |  
+| bip_39_word_underscore_7 | history_marine_build_next_milk_scene_bracket |  
+| bip_39_word_underscore_8 | history_marine_build_next_milk_scene_bracket_captain |  
+| bip_39_word_underscore_9 | history_marine_build_next_milk_scene_bracket_captain_outside |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

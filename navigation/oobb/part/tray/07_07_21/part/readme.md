@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | during |  
+| bip_39_word_dash_10 | during-magnet-click-nominee-era-clutch-faint-insect-oak-candy |  
+| bip_39_word_dash_11 | during-magnet-click-nominee-era-clutch-faint-insect-oak-candy-age |  
+| bip_39_word_dash_12 | during-magnet-click-nominee-era-clutch-faint-insect-oak-candy-age-approve |  
+| bip_39_word_dash_2 | during-magnet |  
+| bip_39_word_dash_3 | during-magnet-click |  
+| bip_39_word_dash_4 | during-magnet-click-nominee |  
+| bip_39_word_dash_5 | during-magnet-click-nominee-era |  
+| bip_39_word_dash_6 | during-magnet-click-nominee-era-clutch |  
+| bip_39_word_dash_7 | during-magnet-click-nominee-era-clutch-faint |  
+| bip_39_word_dash_8 | during-magnet-click-nominee-era-clutch-faint-insect |  
+| bip_39_word_dash_9 | during-magnet-click-nominee-era-clutch-faint-insect-oak |  
 | bip_39_word_new_br_1 | during |  
 | bip_39_word_new_br_10 | during<br>magnet<br>click<br>nominee<br>era<br>clutch<br>faint<br>insect<br>oak<br>candy |  
 | bip_39_word_new_br_11 | during<br>magnet<br>click<br>nominee<br>era<br>clutch<br>faint<br>insect<br>oak<br>candy<br>age |  
@@ -147,6 +159,18 @@ oak |
 | bip_39_word_space_7 | during magnet click nominee era clutch faint |  
 | bip_39_word_space_8 | during magnet click nominee era clutch faint insect |  
 | bip_39_word_space_9 | during magnet click nominee era clutch faint insect oak |  
+| bip_39_word_underscore_1 | during |  
+| bip_39_word_underscore_10 | during_magnet_click_nominee_era_clutch_faint_insect_oak_candy |  
+| bip_39_word_underscore_11 | during_magnet_click_nominee_era_clutch_faint_insect_oak_candy_age |  
+| bip_39_word_underscore_12 | during_magnet_click_nominee_era_clutch_faint_insect_oak_candy_age_approve |  
+| bip_39_word_underscore_2 | during_magnet |  
+| bip_39_word_underscore_3 | during_magnet_click |  
+| bip_39_word_underscore_4 | during_magnet_click_nominee |  
+| bip_39_word_underscore_5 | during_magnet_click_nominee_era |  
+| bip_39_word_underscore_6 | during_magnet_click_nominee_era_clutch |  
+| bip_39_word_underscore_7 | during_magnet_click_nominee_era_clutch_faint |  
+| bip_39_word_underscore_8 | during_magnet_click_nominee_era_clutch_faint_insect |  
+| bip_39_word_underscore_9 | during_magnet_click_nominee_era_clutch_faint_insect_oak |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

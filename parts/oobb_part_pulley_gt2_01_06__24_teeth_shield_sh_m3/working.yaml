@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blast
+bip_39_word_dash_10: blast-oblige-pitch-vintage-spike-luggage-animal-fancy-swift-deliver
+bip_39_word_dash_11: blast-oblige-pitch-vintage-spike-luggage-animal-fancy-swift-deliver-when
+bip_39_word_dash_12: blast-oblige-pitch-vintage-spike-luggage-animal-fancy-swift-deliver-when-again
+bip_39_word_dash_2: blast-oblige
+bip_39_word_dash_3: blast-oblige-pitch
+bip_39_word_dash_4: blast-oblige-pitch-vintage
+bip_39_word_dash_5: blast-oblige-pitch-vintage-spike
+bip_39_word_dash_6: blast-oblige-pitch-vintage-spike-luggage
+bip_39_word_dash_7: blast-oblige-pitch-vintage-spike-luggage-animal
+bip_39_word_dash_8: blast-oblige-pitch-vintage-spike-luggage-animal-fancy
+bip_39_word_dash_9: blast-oblige-pitch-vintage-spike-luggage-animal-fancy-swift
 bip_39_word_new_br_1: blast
 bip_39_word_new_br_10: blast<br>oblige<br>pitch<br>vintage<br>spike<br>luggage<br>animal<br>fancy<br>swift<br>deliver
 bip_39_word_new_br_11: blast<br>oblige<br>pitch<br>vintage<br>spike<br>luggage<br>animal<br>fancy<br>swift<br>deliver<br>when
@@ -194,6 +206,18 @@ bip_39_word_space_6: blast oblige pitch vintage spike luggage
 bip_39_word_space_7: blast oblige pitch vintage spike luggage animal
 bip_39_word_space_8: blast oblige pitch vintage spike luggage animal fancy
 bip_39_word_space_9: blast oblige pitch vintage spike luggage animal fancy swift
+bip_39_word_underscore_1: blast
+bip_39_word_underscore_10: blast_oblige_pitch_vintage_spike_luggage_animal_fancy_swift_deliver
+bip_39_word_underscore_11: blast_oblige_pitch_vintage_spike_luggage_animal_fancy_swift_deliver_when
+bip_39_word_underscore_12: blast_oblige_pitch_vintage_spike_luggage_animal_fancy_swift_deliver_when_again
+bip_39_word_underscore_2: blast_oblige
+bip_39_word_underscore_3: blast_oblige_pitch
+bip_39_word_underscore_4: blast_oblige_pitch_vintage
+bip_39_word_underscore_5: blast_oblige_pitch_vintage_spike
+bip_39_word_underscore_6: blast_oblige_pitch_vintage_spike_luggage
+bip_39_word_underscore_7: blast_oblige_pitch_vintage_spike_luggage_animal
+bip_39_word_underscore_8: blast_oblige_pitch_vintage_spike_luggage_animal_fancy
+bip_39_word_underscore_9: blast_oblige_pitch_vintage_spike_luggage_animal_fancy_swift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

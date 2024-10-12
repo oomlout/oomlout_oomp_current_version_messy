@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sure |  
+| bip_39_word_dash_10 | sure-trust-indoor-omit-trend-peanut-humor-toe-drip-major |  
+| bip_39_word_dash_11 | sure-trust-indoor-omit-trend-peanut-humor-toe-drip-major-alone |  
+| bip_39_word_dash_12 | sure-trust-indoor-omit-trend-peanut-humor-toe-drip-major-alone-arrive |  
+| bip_39_word_dash_2 | sure-trust |  
+| bip_39_word_dash_3 | sure-trust-indoor |  
+| bip_39_word_dash_4 | sure-trust-indoor-omit |  
+| bip_39_word_dash_5 | sure-trust-indoor-omit-trend |  
+| bip_39_word_dash_6 | sure-trust-indoor-omit-trend-peanut |  
+| bip_39_word_dash_7 | sure-trust-indoor-omit-trend-peanut-humor |  
+| bip_39_word_dash_8 | sure-trust-indoor-omit-trend-peanut-humor-toe |  
+| bip_39_word_dash_9 | sure-trust-indoor-omit-trend-peanut-humor-toe-drip |  
 | bip_39_word_new_br_1 | sure |  
 | bip_39_word_new_br_10 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe<br>drip<br>major |  
 | bip_39_word_new_br_11 | sure<br>trust<br>indoor<br>omit<br>trend<br>peanut<br>humor<br>toe<br>drip<br>major<br>alone |  
@@ -147,6 +159,18 @@ drip |
 | bip_39_word_space_7 | sure trust indoor omit trend peanut humor |  
 | bip_39_word_space_8 | sure trust indoor omit trend peanut humor toe |  
 | bip_39_word_space_9 | sure trust indoor omit trend peanut humor toe drip |  
+| bip_39_word_underscore_1 | sure |  
+| bip_39_word_underscore_10 | sure_trust_indoor_omit_trend_peanut_humor_toe_drip_major |  
+| bip_39_word_underscore_11 | sure_trust_indoor_omit_trend_peanut_humor_toe_drip_major_alone |  
+| bip_39_word_underscore_12 | sure_trust_indoor_omit_trend_peanut_humor_toe_drip_major_alone_arrive |  
+| bip_39_word_underscore_2 | sure_trust |  
+| bip_39_word_underscore_3 | sure_trust_indoor |  
+| bip_39_word_underscore_4 | sure_trust_indoor_omit |  
+| bip_39_word_underscore_5 | sure_trust_indoor_omit_trend |  
+| bip_39_word_underscore_6 | sure_trust_indoor_omit_trend_peanut |  
+| bip_39_word_underscore_7 | sure_trust_indoor_omit_trend_peanut_humor |  
+| bip_39_word_underscore_8 | sure_trust_indoor_omit_trend_peanut_humor_toe |  
+| bip_39_word_underscore_9 | sure_trust_indoor_omit_trend_peanut_humor_toe_drip |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

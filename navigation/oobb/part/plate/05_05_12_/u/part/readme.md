@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chapter |  
+| bip_39_word_dash_10 | chapter-interest-medal-earn-poem-indicate-exclude-window-tongue-punch |  
+| bip_39_word_dash_11 | chapter-interest-medal-earn-poem-indicate-exclude-window-tongue-punch-glare |  
+| bip_39_word_dash_12 | chapter-interest-medal-earn-poem-indicate-exclude-window-tongue-punch-glare-ask |  
+| bip_39_word_dash_2 | chapter-interest |  
+| bip_39_word_dash_3 | chapter-interest-medal |  
+| bip_39_word_dash_4 | chapter-interest-medal-earn |  
+| bip_39_word_dash_5 | chapter-interest-medal-earn-poem |  
+| bip_39_word_dash_6 | chapter-interest-medal-earn-poem-indicate |  
+| bip_39_word_dash_7 | chapter-interest-medal-earn-poem-indicate-exclude |  
+| bip_39_word_dash_8 | chapter-interest-medal-earn-poem-indicate-exclude-window |  
+| bip_39_word_dash_9 | chapter-interest-medal-earn-poem-indicate-exclude-window-tongue |  
 | bip_39_word_new_br_1 | chapter |  
 | bip_39_word_new_br_10 | chapter<br>interest<br>medal<br>earn<br>poem<br>indicate<br>exclude<br>window<br>tongue<br>punch |  
 | bip_39_word_new_br_11 | chapter<br>interest<br>medal<br>earn<br>poem<br>indicate<br>exclude<br>window<br>tongue<br>punch<br>glare |  
@@ -147,6 +159,18 @@ tongue |
 | bip_39_word_space_7 | chapter interest medal earn poem indicate exclude |  
 | bip_39_word_space_8 | chapter interest medal earn poem indicate exclude window |  
 | bip_39_word_space_9 | chapter interest medal earn poem indicate exclude window tongue |  
+| bip_39_word_underscore_1 | chapter |  
+| bip_39_word_underscore_10 | chapter_interest_medal_earn_poem_indicate_exclude_window_tongue_punch |  
+| bip_39_word_underscore_11 | chapter_interest_medal_earn_poem_indicate_exclude_window_tongue_punch_glare |  
+| bip_39_word_underscore_12 | chapter_interest_medal_earn_poem_indicate_exclude_window_tongue_punch_glare_ask |  
+| bip_39_word_underscore_2 | chapter_interest |  
+| bip_39_word_underscore_3 | chapter_interest_medal |  
+| bip_39_word_underscore_4 | chapter_interest_medal_earn |  
+| bip_39_word_underscore_5 | chapter_interest_medal_earn_poem |  
+| bip_39_word_underscore_6 | chapter_interest_medal_earn_poem_indicate |  
+| bip_39_word_underscore_7 | chapter_interest_medal_earn_poem_indicate_exclude |  
+| bip_39_word_underscore_8 | chapter_interest_medal_earn_poem_indicate_exclude_window |  
+| bip_39_word_underscore_9 | chapter_interest_medal_earn_poem_indicate_exclude_window_tongue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

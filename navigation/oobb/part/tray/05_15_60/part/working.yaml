@@ -1,3 +1,15 @@
+bip_39_word_dash_1: faint
+bip_39_word_dash_10: faint-roast-disorder-betray-coral-hobby-spawn-laptop-model-control
+bip_39_word_dash_11: faint-roast-disorder-betray-coral-hobby-spawn-laptop-model-control-strong
+bip_39_word_dash_12: faint-roast-disorder-betray-coral-hobby-spawn-laptop-model-control-strong-afraid
+bip_39_word_dash_2: faint-roast
+bip_39_word_dash_3: faint-roast-disorder
+bip_39_word_dash_4: faint-roast-disorder-betray
+bip_39_word_dash_5: faint-roast-disorder-betray-coral
+bip_39_word_dash_6: faint-roast-disorder-betray-coral-hobby
+bip_39_word_dash_7: faint-roast-disorder-betray-coral-hobby-spawn
+bip_39_word_dash_8: faint-roast-disorder-betray-coral-hobby-spawn-laptop
+bip_39_word_dash_9: faint-roast-disorder-betray-coral-hobby-spawn-laptop-model
 bip_39_word_new_br_1: faint
 bip_39_word_new_br_10: faint<br>roast<br>disorder<br>betray<br>coral<br>hobby<br>spawn<br>laptop<br>model<br>control
 bip_39_word_new_br_11: faint<br>roast<br>disorder<br>betray<br>coral<br>hobby<br>spawn<br>laptop<br>model<br>control<br>strong
@@ -193,6 +205,18 @@ bip_39_word_space_6: faint roast disorder betray coral hobby
 bip_39_word_space_7: faint roast disorder betray coral hobby spawn
 bip_39_word_space_8: faint roast disorder betray coral hobby spawn laptop
 bip_39_word_space_9: faint roast disorder betray coral hobby spawn laptop model
+bip_39_word_underscore_1: faint
+bip_39_word_underscore_10: faint_roast_disorder_betray_coral_hobby_spawn_laptop_model_control
+bip_39_word_underscore_11: faint_roast_disorder_betray_coral_hobby_spawn_laptop_model_control_strong
+bip_39_word_underscore_12: faint_roast_disorder_betray_coral_hobby_spawn_laptop_model_control_strong_afraid
+bip_39_word_underscore_2: faint_roast
+bip_39_word_underscore_3: faint_roast_disorder
+bip_39_word_underscore_4: faint_roast_disorder_betray
+bip_39_word_underscore_5: faint_roast_disorder_betray_coral
+bip_39_word_underscore_6: faint_roast_disorder_betray_coral_hobby
+bip_39_word_underscore_7: faint_roast_disorder_betray_coral_hobby_spawn
+bip_39_word_underscore_8: faint_roast_disorder_betray_coral_hobby_spawn_laptop
+bip_39_word_underscore_9: faint_roast_disorder_betray_coral_hobby_spawn_laptop_model
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

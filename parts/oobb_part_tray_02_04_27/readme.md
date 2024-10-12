@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rare |  
+| bip_39_word_dash_10 | rare-song-stuff-casual-season-supreme-copy-disease-base-price |  
+| bip_39_word_dash_11 | rare-song-stuff-casual-season-supreme-copy-disease-base-price-throw |  
+| bip_39_word_dash_12 | rare-song-stuff-casual-season-supreme-copy-disease-base-price-throw-access |  
+| bip_39_word_dash_2 | rare-song |  
+| bip_39_word_dash_3 | rare-song-stuff |  
+| bip_39_word_dash_4 | rare-song-stuff-casual |  
+| bip_39_word_dash_5 | rare-song-stuff-casual-season |  
+| bip_39_word_dash_6 | rare-song-stuff-casual-season-supreme |  
+| bip_39_word_dash_7 | rare-song-stuff-casual-season-supreme-copy |  
+| bip_39_word_dash_8 | rare-song-stuff-casual-season-supreme-copy-disease |  
+| bip_39_word_dash_9 | rare-song-stuff-casual-season-supreme-copy-disease-base |  
 | bip_39_word_new_br_1 | rare |  
 | bip_39_word_new_br_10 | rare<br>song<br>stuff<br>casual<br>season<br>supreme<br>copy<br>disease<br>base<br>price |  
 | bip_39_word_new_br_11 | rare<br>song<br>stuff<br>casual<br>season<br>supreme<br>copy<br>disease<br>base<br>price<br>throw |  
@@ -147,6 +159,18 @@ base |
 | bip_39_word_space_7 | rare song stuff casual season supreme copy |  
 | bip_39_word_space_8 | rare song stuff casual season supreme copy disease |  
 | bip_39_word_space_9 | rare song stuff casual season supreme copy disease base |  
+| bip_39_word_underscore_1 | rare |  
+| bip_39_word_underscore_10 | rare_song_stuff_casual_season_supreme_copy_disease_base_price |  
+| bip_39_word_underscore_11 | rare_song_stuff_casual_season_supreme_copy_disease_base_price_throw |  
+| bip_39_word_underscore_12 | rare_song_stuff_casual_season_supreme_copy_disease_base_price_throw_access |  
+| bip_39_word_underscore_2 | rare_song |  
+| bip_39_word_underscore_3 | rare_song_stuff |  
+| bip_39_word_underscore_4 | rare_song_stuff_casual |  
+| bip_39_word_underscore_5 | rare_song_stuff_casual_season |  
+| bip_39_word_underscore_6 | rare_song_stuff_casual_season_supreme |  
+| bip_39_word_underscore_7 | rare_song_stuff_casual_season_supreme_copy |  
+| bip_39_word_underscore_8 | rare_song_stuff_casual_season_supreme_copy_disease |  
+| bip_39_word_underscore_9 | rare_song_stuff_casual_season_supreme_copy_disease_base |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

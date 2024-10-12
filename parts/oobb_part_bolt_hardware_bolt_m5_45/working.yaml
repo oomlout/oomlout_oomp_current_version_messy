@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dust
+bip_39_word_dash_10: dust-rude-honey-utility-brave-club-make-silver-general-duty
+bip_39_word_dash_11: dust-rude-honey-utility-brave-club-make-silver-general-duty-setup
+bip_39_word_dash_12: dust-rude-honey-utility-brave-club-make-silver-general-duty-setup-acid
+bip_39_word_dash_2: dust-rude
+bip_39_word_dash_3: dust-rude-honey
+bip_39_word_dash_4: dust-rude-honey-utility
+bip_39_word_dash_5: dust-rude-honey-utility-brave
+bip_39_word_dash_6: dust-rude-honey-utility-brave-club
+bip_39_word_dash_7: dust-rude-honey-utility-brave-club-make
+bip_39_word_dash_8: dust-rude-honey-utility-brave-club-make-silver
+bip_39_word_dash_9: dust-rude-honey-utility-brave-club-make-silver-general
 bip_39_word_new_br_1: dust
 bip_39_word_new_br_10: dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver<br>general<br>duty
 bip_39_word_new_br_11: dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver<br>general<br>duty<br>setup
@@ -193,6 +205,18 @@ bip_39_word_space_6: dust rude honey utility brave club
 bip_39_word_space_7: dust rude honey utility brave club make
 bip_39_word_space_8: dust rude honey utility brave club make silver
 bip_39_word_space_9: dust rude honey utility brave club make silver general
+bip_39_word_underscore_1: dust
+bip_39_word_underscore_10: dust_rude_honey_utility_brave_club_make_silver_general_duty
+bip_39_word_underscore_11: dust_rude_honey_utility_brave_club_make_silver_general_duty_setup
+bip_39_word_underscore_12: dust_rude_honey_utility_brave_club_make_silver_general_duty_setup_acid
+bip_39_word_underscore_2: dust_rude
+bip_39_word_underscore_3: dust_rude_honey
+bip_39_word_underscore_4: dust_rude_honey_utility
+bip_39_word_underscore_5: dust_rude_honey_utility_brave
+bip_39_word_underscore_6: dust_rude_honey_utility_brave_club
+bip_39_word_underscore_7: dust_rude_honey_utility_brave_club_make
+bip_39_word_underscore_8: dust_rude_honey_utility_brave_club_make_silver
+bip_39_word_underscore_9: dust_rude_honey_utility_brave_club_make_silver_general
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | calm |  
+| bip_39_word_dash_10 | calm-vessel-later-play-wrestle-simple-buzz-market-siege-mercy |  
+| bip_39_word_dash_11 | calm-vessel-later-play-wrestle-simple-buzz-market-siege-mercy-move |  
+| bip_39_word_dash_12 | calm-vessel-later-play-wrestle-simple-buzz-market-siege-mercy-move-able |  
+| bip_39_word_dash_2 | calm-vessel |  
+| bip_39_word_dash_3 | calm-vessel-later |  
+| bip_39_word_dash_4 | calm-vessel-later-play |  
+| bip_39_word_dash_5 | calm-vessel-later-play-wrestle |  
+| bip_39_word_dash_6 | calm-vessel-later-play-wrestle-simple |  
+| bip_39_word_dash_7 | calm-vessel-later-play-wrestle-simple-buzz |  
+| bip_39_word_dash_8 | calm-vessel-later-play-wrestle-simple-buzz-market |  
+| bip_39_word_dash_9 | calm-vessel-later-play-wrestle-simple-buzz-market-siege |  
 | bip_39_word_new_br_1 | calm |  
 | bip_39_word_new_br_10 | calm<br>vessel<br>later<br>play<br>wrestle<br>simple<br>buzz<br>market<br>siege<br>mercy |  
 | bip_39_word_new_br_11 | calm<br>vessel<br>later<br>play<br>wrestle<br>simple<br>buzz<br>market<br>siege<br>mercy<br>move |  
@@ -147,6 +159,18 @@ siege |
 | bip_39_word_space_7 | calm vessel later play wrestle simple buzz |  
 | bip_39_word_space_8 | calm vessel later play wrestle simple buzz market |  
 | bip_39_word_space_9 | calm vessel later play wrestle simple buzz market siege |  
+| bip_39_word_underscore_1 | calm |  
+| bip_39_word_underscore_10 | calm_vessel_later_play_wrestle_simple_buzz_market_siege_mercy |  
+| bip_39_word_underscore_11 | calm_vessel_later_play_wrestle_simple_buzz_market_siege_mercy_move |  
+| bip_39_word_underscore_12 | calm_vessel_later_play_wrestle_simple_buzz_market_siege_mercy_move_able |  
+| bip_39_word_underscore_2 | calm_vessel |  
+| bip_39_word_underscore_3 | calm_vessel_later |  
+| bip_39_word_underscore_4 | calm_vessel_later_play |  
+| bip_39_word_underscore_5 | calm_vessel_later_play_wrestle |  
+| bip_39_word_underscore_6 | calm_vessel_later_play_wrestle_simple |  
+| bip_39_word_underscore_7 | calm_vessel_later_play_wrestle_simple_buzz |  
+| bip_39_word_underscore_8 | calm_vessel_later_play_wrestle_simple_buzz_market |  
+| bip_39_word_underscore_9 | calm_vessel_later_play_wrestle_simple_buzz_market_siege |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

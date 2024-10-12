@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elder |  
+| bip_39_word_dash_10 | elder-size-just-expose-position-erase-welcome-soon-horn-label |  
+| bip_39_word_dash_11 | elder-size-just-expose-position-erase-welcome-soon-horn-label-ride |  
+| bip_39_word_dash_12 | elder-size-just-expose-position-erase-welcome-soon-horn-label-ride-album |  
+| bip_39_word_dash_2 | elder-size |  
+| bip_39_word_dash_3 | elder-size-just |  
+| bip_39_word_dash_4 | elder-size-just-expose |  
+| bip_39_word_dash_5 | elder-size-just-expose-position |  
+| bip_39_word_dash_6 | elder-size-just-expose-position-erase |  
+| bip_39_word_dash_7 | elder-size-just-expose-position-erase-welcome |  
+| bip_39_word_dash_8 | elder-size-just-expose-position-erase-welcome-soon |  
+| bip_39_word_dash_9 | elder-size-just-expose-position-erase-welcome-soon-horn |  
 | bip_39_word_new_br_1 | elder |  
 | bip_39_word_new_br_10 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label |  
 | bip_39_word_new_br_11 | elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label<br>ride |  
@@ -147,6 +159,18 @@ horn |
 | bip_39_word_space_7 | elder size just expose position erase welcome |  
 | bip_39_word_space_8 | elder size just expose position erase welcome soon |  
 | bip_39_word_space_9 | elder size just expose position erase welcome soon horn |  
+| bip_39_word_underscore_1 | elder |  
+| bip_39_word_underscore_10 | elder_size_just_expose_position_erase_welcome_soon_horn_label |  
+| bip_39_word_underscore_11 | elder_size_just_expose_position_erase_welcome_soon_horn_label_ride |  
+| bip_39_word_underscore_12 | elder_size_just_expose_position_erase_welcome_soon_horn_label_ride_album |  
+| bip_39_word_underscore_2 | elder_size |  
+| bip_39_word_underscore_3 | elder_size_just |  
+| bip_39_word_underscore_4 | elder_size_just_expose |  
+| bip_39_word_underscore_5 | elder_size_just_expose_position |  
+| bip_39_word_underscore_6 | elder_size_just_expose_position_erase |  
+| bip_39_word_underscore_7 | elder_size_just_expose_position_erase_welcome |  
+| bip_39_word_underscore_8 | elder_size_just_expose_position_erase_welcome_soon |  
+| bip_39_word_underscore_9 | elder_size_just_expose_position_erase_welcome_soon_horn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | forward |  
+| bip_39_word_dash_10 | forward-green-robot-tent-february-minute-govern-guilt-symbol-finish |  
+| bip_39_word_dash_11 | forward-green-robot-tent-february-minute-govern-guilt-symbol-finish-foam |  
+| bip_39_word_dash_12 | forward-green-robot-tent-february-minute-govern-guilt-symbol-finish-foam-agent |  
+| bip_39_word_dash_2 | forward-green |  
+| bip_39_word_dash_3 | forward-green-robot |  
+| bip_39_word_dash_4 | forward-green-robot-tent |  
+| bip_39_word_dash_5 | forward-green-robot-tent-february |  
+| bip_39_word_dash_6 | forward-green-robot-tent-february-minute |  
+| bip_39_word_dash_7 | forward-green-robot-tent-february-minute-govern |  
+| bip_39_word_dash_8 | forward-green-robot-tent-february-minute-govern-guilt |  
+| bip_39_word_dash_9 | forward-green-robot-tent-february-minute-govern-guilt-symbol |  
 | bip_39_word_new_br_1 | forward |  
 | bip_39_word_new_br_10 | forward<br>green<br>robot<br>tent<br>february<br>minute<br>govern<br>guilt<br>symbol<br>finish |  
 | bip_39_word_new_br_11 | forward<br>green<br>robot<br>tent<br>february<br>minute<br>govern<br>guilt<br>symbol<br>finish<br>foam |  
@@ -147,6 +159,18 @@ symbol |
 | bip_39_word_space_7 | forward green robot tent february minute govern |  
 | bip_39_word_space_8 | forward green robot tent february minute govern guilt |  
 | bip_39_word_space_9 | forward green robot tent february minute govern guilt symbol |  
+| bip_39_word_underscore_1 | forward |  
+| bip_39_word_underscore_10 | forward_green_robot_tent_february_minute_govern_guilt_symbol_finish |  
+| bip_39_word_underscore_11 | forward_green_robot_tent_february_minute_govern_guilt_symbol_finish_foam |  
+| bip_39_word_underscore_12 | forward_green_robot_tent_february_minute_govern_guilt_symbol_finish_foam_agent |  
+| bip_39_word_underscore_2 | forward_green |  
+| bip_39_word_underscore_3 | forward_green_robot |  
+| bip_39_word_underscore_4 | forward_green_robot_tent |  
+| bip_39_word_underscore_5 | forward_green_robot_tent_february |  
+| bip_39_word_underscore_6 | forward_green_robot_tent_february_minute |  
+| bip_39_word_underscore_7 | forward_green_robot_tent_february_minute_govern |  
+| bip_39_word_underscore_8 | forward_green_robot_tent_february_minute_govern_guilt |  
+| bip_39_word_underscore_9 | forward_green_robot_tent_february_minute_govern_guilt_symbol |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

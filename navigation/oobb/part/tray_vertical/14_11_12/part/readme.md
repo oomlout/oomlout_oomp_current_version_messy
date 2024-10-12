@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skill |  
+| bip_39_word_dash_10 | skill-arrow-donate-mail-owner-brown-unable-boring-punch-toward |  
+| bip_39_word_dash_11 | skill-arrow-donate-mail-owner-brown-unable-boring-punch-toward-color |  
+| bip_39_word_dash_12 | skill-arrow-donate-mail-owner-brown-unable-boring-punch-toward-color-address |  
+| bip_39_word_dash_2 | skill-arrow |  
+| bip_39_word_dash_3 | skill-arrow-donate |  
+| bip_39_word_dash_4 | skill-arrow-donate-mail |  
+| bip_39_word_dash_5 | skill-arrow-donate-mail-owner |  
+| bip_39_word_dash_6 | skill-arrow-donate-mail-owner-brown |  
+| bip_39_word_dash_7 | skill-arrow-donate-mail-owner-brown-unable |  
+| bip_39_word_dash_8 | skill-arrow-donate-mail-owner-brown-unable-boring |  
+| bip_39_word_dash_9 | skill-arrow-donate-mail-owner-brown-unable-boring-punch |  
 | bip_39_word_new_br_1 | skill |  
 | bip_39_word_new_br_10 | skill<br>arrow<br>donate<br>mail<br>owner<br>brown<br>unable<br>boring<br>punch<br>toward |  
 | bip_39_word_new_br_11 | skill<br>arrow<br>donate<br>mail<br>owner<br>brown<br>unable<br>boring<br>punch<br>toward<br>color |  
@@ -147,6 +159,18 @@ punch |
 | bip_39_word_space_7 | skill arrow donate mail owner brown unable |  
 | bip_39_word_space_8 | skill arrow donate mail owner brown unable boring |  
 | bip_39_word_space_9 | skill arrow donate mail owner brown unable boring punch |  
+| bip_39_word_underscore_1 | skill |  
+| bip_39_word_underscore_10 | skill_arrow_donate_mail_owner_brown_unable_boring_punch_toward |  
+| bip_39_word_underscore_11 | skill_arrow_donate_mail_owner_brown_unable_boring_punch_toward_color |  
+| bip_39_word_underscore_12 | skill_arrow_donate_mail_owner_brown_unable_boring_punch_toward_color_address |  
+| bip_39_word_underscore_2 | skill_arrow |  
+| bip_39_word_underscore_3 | skill_arrow_donate |  
+| bip_39_word_underscore_4 | skill_arrow_donate_mail |  
+| bip_39_word_underscore_5 | skill_arrow_donate_mail_owner |  
+| bip_39_word_underscore_6 | skill_arrow_donate_mail_owner_brown |  
+| bip_39_word_underscore_7 | skill_arrow_donate_mail_owner_brown_unable |  
+| bip_39_word_underscore_8 | skill_arrow_donate_mail_owner_brown_unable_boring |  
+| bip_39_word_underscore_9 | skill_arrow_donate_mail_owner_brown_unable_boring_punch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

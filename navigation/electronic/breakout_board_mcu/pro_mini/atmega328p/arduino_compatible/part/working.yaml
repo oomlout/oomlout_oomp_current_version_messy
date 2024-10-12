@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spirit
+bip_39_word_dash_10: spirit-diet-nerve-fix-bird-lend-large-rent-build-hurry
+bip_39_word_dash_11: spirit-diet-nerve-fix-bird-lend-large-rent-build-hurry-normal
+bip_39_word_dash_12: spirit-diet-nerve-fix-bird-lend-large-rent-build-hurry-normal-asthma
+bip_39_word_dash_2: spirit-diet
+bip_39_word_dash_3: spirit-diet-nerve
+bip_39_word_dash_4: spirit-diet-nerve-fix
+bip_39_word_dash_5: spirit-diet-nerve-fix-bird
+bip_39_word_dash_6: spirit-diet-nerve-fix-bird-lend
+bip_39_word_dash_7: spirit-diet-nerve-fix-bird-lend-large
+bip_39_word_dash_8: spirit-diet-nerve-fix-bird-lend-large-rent
+bip_39_word_dash_9: spirit-diet-nerve-fix-bird-lend-large-rent-build
 bip_39_word_new_br_1: spirit
 bip_39_word_new_br_10: spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry
 bip_39_word_new_br_11: spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry<br>normal
@@ -192,6 +204,18 @@ bip_39_word_space_6: spirit diet nerve fix bird lend
 bip_39_word_space_7: spirit diet nerve fix bird lend large
 bip_39_word_space_8: spirit diet nerve fix bird lend large rent
 bip_39_word_space_9: spirit diet nerve fix bird lend large rent build
+bip_39_word_underscore_1: spirit
+bip_39_word_underscore_10: spirit_diet_nerve_fix_bird_lend_large_rent_build_hurry
+bip_39_word_underscore_11: spirit_diet_nerve_fix_bird_lend_large_rent_build_hurry_normal
+bip_39_word_underscore_12: spirit_diet_nerve_fix_bird_lend_large_rent_build_hurry_normal_asthma
+bip_39_word_underscore_2: spirit_diet
+bip_39_word_underscore_3: spirit_diet_nerve
+bip_39_word_underscore_4: spirit_diet_nerve_fix
+bip_39_word_underscore_5: spirit_diet_nerve_fix_bird
+bip_39_word_underscore_6: spirit_diet_nerve_fix_bird_lend
+bip_39_word_underscore_7: spirit_diet_nerve_fix_bird_lend_large
+bip_39_word_underscore_8: spirit_diet_nerve_fix_bird_lend_large_rent
+bip_39_word_underscore_9: spirit_diet_nerve_fix_bird_lend_large_rent_build
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

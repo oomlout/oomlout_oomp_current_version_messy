@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ice
+bip_39_word_dash_10: ice-pig-plunge-ship-armed-weasel-grace-curious-lobster-tissue
+bip_39_word_dash_11: ice-pig-plunge-ship-armed-weasel-grace-curious-lobster-tissue-normal
+bip_39_word_dash_12: ice-pig-plunge-ship-armed-weasel-grace-curious-lobster-tissue-normal-artist
+bip_39_word_dash_2: ice-pig
+bip_39_word_dash_3: ice-pig-plunge
+bip_39_word_dash_4: ice-pig-plunge-ship
+bip_39_word_dash_5: ice-pig-plunge-ship-armed
+bip_39_word_dash_6: ice-pig-plunge-ship-armed-weasel
+bip_39_word_dash_7: ice-pig-plunge-ship-armed-weasel-grace
+bip_39_word_dash_8: ice-pig-plunge-ship-armed-weasel-grace-curious
+bip_39_word_dash_9: ice-pig-plunge-ship-armed-weasel-grace-curious-lobster
 bip_39_word_new_br_1: ice
 bip_39_word_new_br_10: ice<br>pig<br>plunge<br>ship<br>armed<br>weasel<br>grace<br>curious<br>lobster<br>tissue
 bip_39_word_new_br_11: ice<br>pig<br>plunge<br>ship<br>armed<br>weasel<br>grace<br>curious<br>lobster<br>tissue<br>normal
@@ -193,6 +205,18 @@ bip_39_word_space_6: ice pig plunge ship armed weasel
 bip_39_word_space_7: ice pig plunge ship armed weasel grace
 bip_39_word_space_8: ice pig plunge ship armed weasel grace curious
 bip_39_word_space_9: ice pig plunge ship armed weasel grace curious lobster
+bip_39_word_underscore_1: ice
+bip_39_word_underscore_10: ice_pig_plunge_ship_armed_weasel_grace_curious_lobster_tissue
+bip_39_word_underscore_11: ice_pig_plunge_ship_armed_weasel_grace_curious_lobster_tissue_normal
+bip_39_word_underscore_12: ice_pig_plunge_ship_armed_weasel_grace_curious_lobster_tissue_normal_artist
+bip_39_word_underscore_2: ice_pig
+bip_39_word_underscore_3: ice_pig_plunge
+bip_39_word_underscore_4: ice_pig_plunge_ship
+bip_39_word_underscore_5: ice_pig_plunge_ship_armed
+bip_39_word_underscore_6: ice_pig_plunge_ship_armed_weasel
+bip_39_word_underscore_7: ice_pig_plunge_ship_armed_weasel_grace
+bip_39_word_underscore_8: ice_pig_plunge_ship_armed_weasel_grace_curious
+bip_39_word_underscore_9: ice_pig_plunge_ship_armed_weasel_grace_curious_lobster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

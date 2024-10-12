@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | able |  
+| bip_39_word_dash_10 | able-lizard-dragon-glue-moral-giggle-mansion-army-slide-this |  
+| bip_39_word_dash_11 | able-lizard-dragon-glue-moral-giggle-mansion-army-slide-this-carbon |  
+| bip_39_word_dash_12 | able-lizard-dragon-glue-moral-giggle-mansion-army-slide-this-carbon-account |  
+| bip_39_word_dash_2 | able-lizard |  
+| bip_39_word_dash_3 | able-lizard-dragon |  
+| bip_39_word_dash_4 | able-lizard-dragon-glue |  
+| bip_39_word_dash_5 | able-lizard-dragon-glue-moral |  
+| bip_39_word_dash_6 | able-lizard-dragon-glue-moral-giggle |  
+| bip_39_word_dash_7 | able-lizard-dragon-glue-moral-giggle-mansion |  
+| bip_39_word_dash_8 | able-lizard-dragon-glue-moral-giggle-mansion-army |  
+| bip_39_word_dash_9 | able-lizard-dragon-glue-moral-giggle-mansion-army-slide |  
 | bip_39_word_new_br_1 | able |  
 | bip_39_word_new_br_10 | able<br>lizard<br>dragon<br>glue<br>moral<br>giggle<br>mansion<br>army<br>slide<br>this |  
 | bip_39_word_new_br_11 | able<br>lizard<br>dragon<br>glue<br>moral<br>giggle<br>mansion<br>army<br>slide<br>this<br>carbon |  
@@ -147,6 +159,18 @@ slide |
 | bip_39_word_space_7 | able lizard dragon glue moral giggle mansion |  
 | bip_39_word_space_8 | able lizard dragon glue moral giggle mansion army |  
 | bip_39_word_space_9 | able lizard dragon glue moral giggle mansion army slide |  
+| bip_39_word_underscore_1 | able |  
+| bip_39_word_underscore_10 | able_lizard_dragon_glue_moral_giggle_mansion_army_slide_this |  
+| bip_39_word_underscore_11 | able_lizard_dragon_glue_moral_giggle_mansion_army_slide_this_carbon |  
+| bip_39_word_underscore_12 | able_lizard_dragon_glue_moral_giggle_mansion_army_slide_this_carbon_account |  
+| bip_39_word_underscore_2 | able_lizard |  
+| bip_39_word_underscore_3 | able_lizard_dragon |  
+| bip_39_word_underscore_4 | able_lizard_dragon_glue |  
+| bip_39_word_underscore_5 | able_lizard_dragon_glue_moral |  
+| bip_39_word_underscore_6 | able_lizard_dragon_glue_moral_giggle |  
+| bip_39_word_underscore_7 | able_lizard_dragon_glue_moral_giggle_mansion |  
+| bip_39_word_underscore_8 | able_lizard_dragon_glue_moral_giggle_mansion_army |  
+| bip_39_word_underscore_9 | able_lizard_dragon_glue_moral_giggle_mansion_army_slide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

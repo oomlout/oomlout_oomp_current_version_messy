@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | forum |  
+| bip_39_word_dash_10 | forum-dignity-wash-feel-foot-accident-exotic-attitude-trash-valid |  
+| bip_39_word_dash_11 | forum-dignity-wash-feel-foot-accident-exotic-attitude-trash-valid-name |  
+| bip_39_word_dash_12 | forum-dignity-wash-feel-foot-accident-exotic-attitude-trash-valid-name-access |  
+| bip_39_word_dash_2 | forum-dignity |  
+| bip_39_word_dash_3 | forum-dignity-wash |  
+| bip_39_word_dash_4 | forum-dignity-wash-feel |  
+| bip_39_word_dash_5 | forum-dignity-wash-feel-foot |  
+| bip_39_word_dash_6 | forum-dignity-wash-feel-foot-accident |  
+| bip_39_word_dash_7 | forum-dignity-wash-feel-foot-accident-exotic |  
+| bip_39_word_dash_8 | forum-dignity-wash-feel-foot-accident-exotic-attitude |  
+| bip_39_word_dash_9 | forum-dignity-wash-feel-foot-accident-exotic-attitude-trash |  
 | bip_39_word_new_br_1 | forum |  
 | bip_39_word_new_br_10 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude<br>trash<br>valid |  
 | bip_39_word_new_br_11 | forum<br>dignity<br>wash<br>feel<br>foot<br>accident<br>exotic<br>attitude<br>trash<br>valid<br>name |  
@@ -147,6 +159,18 @@ trash |
 | bip_39_word_space_7 | forum dignity wash feel foot accident exotic |  
 | bip_39_word_space_8 | forum dignity wash feel foot accident exotic attitude |  
 | bip_39_word_space_9 | forum dignity wash feel foot accident exotic attitude trash |  
+| bip_39_word_underscore_1 | forum |  
+| bip_39_word_underscore_10 | forum_dignity_wash_feel_foot_accident_exotic_attitude_trash_valid |  
+| bip_39_word_underscore_11 | forum_dignity_wash_feel_foot_accident_exotic_attitude_trash_valid_name |  
+| bip_39_word_underscore_12 | forum_dignity_wash_feel_foot_accident_exotic_attitude_trash_valid_name_access |  
+| bip_39_word_underscore_2 | forum_dignity |  
+| bip_39_word_underscore_3 | forum_dignity_wash |  
+| bip_39_word_underscore_4 | forum_dignity_wash_feel |  
+| bip_39_word_underscore_5 | forum_dignity_wash_feel_foot |  
+| bip_39_word_underscore_6 | forum_dignity_wash_feel_foot_accident |  
+| bip_39_word_underscore_7 | forum_dignity_wash_feel_foot_accident_exotic |  
+| bip_39_word_underscore_8 | forum_dignity_wash_feel_foot_accident_exotic_attitude |  
+| bip_39_word_underscore_9 | forum_dignity_wash_feel_foot_accident_exotic_attitude_trash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | myth |  
+| bip_39_word_dash_10 | myth-cry-purity-space-rude-output-faculty-moon-word-piano |  
+| bip_39_word_dash_11 | myth-cry-purity-space-rude-output-faculty-moon-word-piano-dial |  
+| bip_39_word_dash_12 | myth-cry-purity-space-rude-output-faculty-moon-word-piano-dial-acid |  
+| bip_39_word_dash_2 | myth-cry |  
+| bip_39_word_dash_3 | myth-cry-purity |  
+| bip_39_word_dash_4 | myth-cry-purity-space |  
+| bip_39_word_dash_5 | myth-cry-purity-space-rude |  
+| bip_39_word_dash_6 | myth-cry-purity-space-rude-output |  
+| bip_39_word_dash_7 | myth-cry-purity-space-rude-output-faculty |  
+| bip_39_word_dash_8 | myth-cry-purity-space-rude-output-faculty-moon |  
+| bip_39_word_dash_9 | myth-cry-purity-space-rude-output-faculty-moon-word |  
 | bip_39_word_new_br_1 | myth |  
 | bip_39_word_new_br_10 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon<br>word<br>piano |  
 | bip_39_word_new_br_11 | myth<br>cry<br>purity<br>space<br>rude<br>output<br>faculty<br>moon<br>word<br>piano<br>dial |  
@@ -147,6 +159,18 @@ word |
 | bip_39_word_space_7 | myth cry purity space rude output faculty |  
 | bip_39_word_space_8 | myth cry purity space rude output faculty moon |  
 | bip_39_word_space_9 | myth cry purity space rude output faculty moon word |  
+| bip_39_word_underscore_1 | myth |  
+| bip_39_word_underscore_10 | myth_cry_purity_space_rude_output_faculty_moon_word_piano |  
+| bip_39_word_underscore_11 | myth_cry_purity_space_rude_output_faculty_moon_word_piano_dial |  
+| bip_39_word_underscore_12 | myth_cry_purity_space_rude_output_faculty_moon_word_piano_dial_acid |  
+| bip_39_word_underscore_2 | myth_cry |  
+| bip_39_word_underscore_3 | myth_cry_purity |  
+| bip_39_word_underscore_4 | myth_cry_purity_space |  
+| bip_39_word_underscore_5 | myth_cry_purity_space_rude |  
+| bip_39_word_underscore_6 | myth_cry_purity_space_rude_output |  
+| bip_39_word_underscore_7 | myth_cry_purity_space_rude_output_faculty |  
+| bip_39_word_underscore_8 | myth_cry_purity_space_rude_output_faculty_moon |  
+| bip_39_word_underscore_9 | myth_cry_purity_space_rude_output_faculty_moon_word |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

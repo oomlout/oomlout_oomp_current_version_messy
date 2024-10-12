@@ -1,3 +1,15 @@
+bip_39_word_dash_1: season
+bip_39_word_dash_10: season-cash-seat-earn-sunny-leisure-champion-scorpion-insect-fluid
+bip_39_word_dash_11: season-cash-seat-earn-sunny-leisure-champion-scorpion-insect-fluid-slab
+bip_39_word_dash_12: season-cash-seat-earn-sunny-leisure-champion-scorpion-insect-fluid-slab-absorb
+bip_39_word_dash_2: season-cash
+bip_39_word_dash_3: season-cash-seat
+bip_39_word_dash_4: season-cash-seat-earn
+bip_39_word_dash_5: season-cash-seat-earn-sunny
+bip_39_word_dash_6: season-cash-seat-earn-sunny-leisure
+bip_39_word_dash_7: season-cash-seat-earn-sunny-leisure-champion
+bip_39_word_dash_8: season-cash-seat-earn-sunny-leisure-champion-scorpion
+bip_39_word_dash_9: season-cash-seat-earn-sunny-leisure-champion-scorpion-insect
 bip_39_word_new_br_1: season
 bip_39_word_new_br_10: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid
 bip_39_word_new_br_11: season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid<br>slab
@@ -194,6 +206,18 @@ bip_39_word_space_6: season cash seat earn sunny leisure
 bip_39_word_space_7: season cash seat earn sunny leisure champion
 bip_39_word_space_8: season cash seat earn sunny leisure champion scorpion
 bip_39_word_space_9: season cash seat earn sunny leisure champion scorpion insect
+bip_39_word_underscore_1: season
+bip_39_word_underscore_10: season_cash_seat_earn_sunny_leisure_champion_scorpion_insect_fluid
+bip_39_word_underscore_11: season_cash_seat_earn_sunny_leisure_champion_scorpion_insect_fluid_slab
+bip_39_word_underscore_12: season_cash_seat_earn_sunny_leisure_champion_scorpion_insect_fluid_slab_absorb
+bip_39_word_underscore_2: season_cash
+bip_39_word_underscore_3: season_cash_seat
+bip_39_word_underscore_4: season_cash_seat_earn
+bip_39_word_underscore_5: season_cash_seat_earn_sunny
+bip_39_word_underscore_6: season_cash_seat_earn_sunny_leisure
+bip_39_word_underscore_7: season_cash_seat_earn_sunny_leisure_champion
+bip_39_word_underscore_8: season_cash_seat_earn_sunny_leisure_champion_scorpion
+bip_39_word_underscore_9: season_cash_seat_earn_sunny_leisure_champion_scorpion_insect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

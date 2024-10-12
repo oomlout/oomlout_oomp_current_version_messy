@@ -1,3 +1,15 @@
+bip_39_word_dash_1: light
+bip_39_word_dash_10: light-guard-predict-depart-soft-crop-put-project-slim-coral
+bip_39_word_dash_11: light-guard-predict-depart-soft-crop-put-project-slim-coral-elegant
+bip_39_word_dash_12: light-guard-predict-depart-soft-crop-put-project-slim-coral-elegant-add
+bip_39_word_dash_2: light-guard
+bip_39_word_dash_3: light-guard-predict
+bip_39_word_dash_4: light-guard-predict-depart
+bip_39_word_dash_5: light-guard-predict-depart-soft
+bip_39_word_dash_6: light-guard-predict-depart-soft-crop
+bip_39_word_dash_7: light-guard-predict-depart-soft-crop-put
+bip_39_word_dash_8: light-guard-predict-depart-soft-crop-put-project
+bip_39_word_dash_9: light-guard-predict-depart-soft-crop-put-project-slim
 bip_39_word_new_br_1: light
 bip_39_word_new_br_10: light<br>guard<br>predict<br>depart<br>soft<br>crop<br>put<br>project<br>slim<br>coral
 bip_39_word_new_br_11: light<br>guard<br>predict<br>depart<br>soft<br>crop<br>put<br>project<br>slim<br>coral<br>elegant
@@ -193,6 +205,18 @@ bip_39_word_space_6: light guard predict depart soft crop
 bip_39_word_space_7: light guard predict depart soft crop put
 bip_39_word_space_8: light guard predict depart soft crop put project
 bip_39_word_space_9: light guard predict depart soft crop put project slim
+bip_39_word_underscore_1: light
+bip_39_word_underscore_10: light_guard_predict_depart_soft_crop_put_project_slim_coral
+bip_39_word_underscore_11: light_guard_predict_depart_soft_crop_put_project_slim_coral_elegant
+bip_39_word_underscore_12: light_guard_predict_depart_soft_crop_put_project_slim_coral_elegant_add
+bip_39_word_underscore_2: light_guard
+bip_39_word_underscore_3: light_guard_predict
+bip_39_word_underscore_4: light_guard_predict_depart
+bip_39_word_underscore_5: light_guard_predict_depart_soft
+bip_39_word_underscore_6: light_guard_predict_depart_soft_crop
+bip_39_word_underscore_7: light_guard_predict_depart_soft_crop_put
+bip_39_word_underscore_8: light_guard_predict_depart_soft_crop_put_project
+bip_39_word_underscore_9: light_guard_predict_depart_soft_crop_put_project_slim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

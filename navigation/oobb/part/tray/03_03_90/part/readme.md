@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | charge |  
+| bip_39_word_dash_10 | charge-link-often-dry-analyst-grape-wedding-gauge-surge-giant |  
+| bip_39_word_dash_11 | charge-link-often-dry-analyst-grape-wedding-gauge-surge-giant-garlic |  
+| bip_39_word_dash_12 | charge-link-often-dry-analyst-grape-wedding-gauge-surge-giant-garlic-already |  
+| bip_39_word_dash_2 | charge-link |  
+| bip_39_word_dash_3 | charge-link-often |  
+| bip_39_word_dash_4 | charge-link-often-dry |  
+| bip_39_word_dash_5 | charge-link-often-dry-analyst |  
+| bip_39_word_dash_6 | charge-link-often-dry-analyst-grape |  
+| bip_39_word_dash_7 | charge-link-often-dry-analyst-grape-wedding |  
+| bip_39_word_dash_8 | charge-link-often-dry-analyst-grape-wedding-gauge |  
+| bip_39_word_dash_9 | charge-link-often-dry-analyst-grape-wedding-gauge-surge |  
 | bip_39_word_new_br_1 | charge |  
 | bip_39_word_new_br_10 | charge<br>link<br>often<br>dry<br>analyst<br>grape<br>wedding<br>gauge<br>surge<br>giant |  
 | bip_39_word_new_br_11 | charge<br>link<br>often<br>dry<br>analyst<br>grape<br>wedding<br>gauge<br>surge<br>giant<br>garlic |  
@@ -147,6 +159,18 @@ surge |
 | bip_39_word_space_7 | charge link often dry analyst grape wedding |  
 | bip_39_word_space_8 | charge link often dry analyst grape wedding gauge |  
 | bip_39_word_space_9 | charge link often dry analyst grape wedding gauge surge |  
+| bip_39_word_underscore_1 | charge |  
+| bip_39_word_underscore_10 | charge_link_often_dry_analyst_grape_wedding_gauge_surge_giant |  
+| bip_39_word_underscore_11 | charge_link_often_dry_analyst_grape_wedding_gauge_surge_giant_garlic |  
+| bip_39_word_underscore_12 | charge_link_often_dry_analyst_grape_wedding_gauge_surge_giant_garlic_already |  
+| bip_39_word_underscore_2 | charge_link |  
+| bip_39_word_underscore_3 | charge_link_often |  
+| bip_39_word_underscore_4 | charge_link_often_dry |  
+| bip_39_word_underscore_5 | charge_link_often_dry_analyst |  
+| bip_39_word_underscore_6 | charge_link_often_dry_analyst_grape |  
+| bip_39_word_underscore_7 | charge_link_often_dry_analyst_grape_wedding |  
+| bip_39_word_underscore_8 | charge_link_often_dry_analyst_grape_wedding_gauge |  
+| bip_39_word_underscore_9 | charge_link_often_dry_analyst_grape_wedding_gauge_surge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

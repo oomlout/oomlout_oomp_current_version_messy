@@ -1,3 +1,15 @@
+bip_39_word_dash_1: omit
+bip_39_word_dash_10: omit-sport-chapter-dad-account-myself-chicken-unfair-avoid-frown
+bip_39_word_dash_11: omit-sport-chapter-dad-account-myself-chicken-unfair-avoid-frown-slab
+bip_39_word_dash_12: omit-sport-chapter-dad-account-myself-chicken-unfair-avoid-frown-slab-address
+bip_39_word_dash_2: omit-sport
+bip_39_word_dash_3: omit-sport-chapter
+bip_39_word_dash_4: omit-sport-chapter-dad
+bip_39_word_dash_5: omit-sport-chapter-dad-account
+bip_39_word_dash_6: omit-sport-chapter-dad-account-myself
+bip_39_word_dash_7: omit-sport-chapter-dad-account-myself-chicken
+bip_39_word_dash_8: omit-sport-chapter-dad-account-myself-chicken-unfair
+bip_39_word_dash_9: omit-sport-chapter-dad-account-myself-chicken-unfair-avoid
 bip_39_word_new_br_1: omit
 bip_39_word_new_br_10: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown
 bip_39_word_new_br_11: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown<br>slab
@@ -193,6 +205,18 @@ bip_39_word_space_6: omit sport chapter dad account myself
 bip_39_word_space_7: omit sport chapter dad account myself chicken
 bip_39_word_space_8: omit sport chapter dad account myself chicken unfair
 bip_39_word_space_9: omit sport chapter dad account myself chicken unfair avoid
+bip_39_word_underscore_1: omit
+bip_39_word_underscore_10: omit_sport_chapter_dad_account_myself_chicken_unfair_avoid_frown
+bip_39_word_underscore_11: omit_sport_chapter_dad_account_myself_chicken_unfair_avoid_frown_slab
+bip_39_word_underscore_12: omit_sport_chapter_dad_account_myself_chicken_unfair_avoid_frown_slab_address
+bip_39_word_underscore_2: omit_sport
+bip_39_word_underscore_3: omit_sport_chapter
+bip_39_word_underscore_4: omit_sport_chapter_dad
+bip_39_word_underscore_5: omit_sport_chapter_dad_account
+bip_39_word_underscore_6: omit_sport_chapter_dad_account_myself
+bip_39_word_underscore_7: omit_sport_chapter_dad_account_myself_chicken
+bip_39_word_underscore_8: omit_sport_chapter_dad_account_myself_chicken_unfair
+bip_39_word_underscore_9: omit_sport_chapter_dad_account_myself_chicken_unfair_avoid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

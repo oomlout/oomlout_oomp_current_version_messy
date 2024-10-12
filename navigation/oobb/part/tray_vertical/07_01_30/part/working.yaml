@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leave
+bip_39_word_dash_10: leave-vague-modify-physical-fetch-trend-short-thing-debris-over
+bip_39_word_dash_11: leave-vague-modify-physical-fetch-trend-short-thing-debris-over-vote
+bip_39_word_dash_12: leave-vague-modify-physical-fetch-trend-short-thing-debris-over-vote-alien
+bip_39_word_dash_2: leave-vague
+bip_39_word_dash_3: leave-vague-modify
+bip_39_word_dash_4: leave-vague-modify-physical
+bip_39_word_dash_5: leave-vague-modify-physical-fetch
+bip_39_word_dash_6: leave-vague-modify-physical-fetch-trend
+bip_39_word_dash_7: leave-vague-modify-physical-fetch-trend-short
+bip_39_word_dash_8: leave-vague-modify-physical-fetch-trend-short-thing
+bip_39_word_dash_9: leave-vague-modify-physical-fetch-trend-short-thing-debris
 bip_39_word_new_br_1: leave
 bip_39_word_new_br_10: leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing<br>debris<br>over
 bip_39_word_new_br_11: leave<br>vague<br>modify<br>physical<br>fetch<br>trend<br>short<br>thing<br>debris<br>over<br>vote
@@ -193,6 +205,18 @@ bip_39_word_space_6: leave vague modify physical fetch trend
 bip_39_word_space_7: leave vague modify physical fetch trend short
 bip_39_word_space_8: leave vague modify physical fetch trend short thing
 bip_39_word_space_9: leave vague modify physical fetch trend short thing debris
+bip_39_word_underscore_1: leave
+bip_39_word_underscore_10: leave_vague_modify_physical_fetch_trend_short_thing_debris_over
+bip_39_word_underscore_11: leave_vague_modify_physical_fetch_trend_short_thing_debris_over_vote
+bip_39_word_underscore_12: leave_vague_modify_physical_fetch_trend_short_thing_debris_over_vote_alien
+bip_39_word_underscore_2: leave_vague
+bip_39_word_underscore_3: leave_vague_modify
+bip_39_word_underscore_4: leave_vague_modify_physical
+bip_39_word_underscore_5: leave_vague_modify_physical_fetch
+bip_39_word_underscore_6: leave_vague_modify_physical_fetch_trend
+bip_39_word_underscore_7: leave_vague_modify_physical_fetch_trend_short
+bip_39_word_underscore_8: leave_vague_modify_physical_fetch_trend_short_thing
+bip_39_word_underscore_9: leave_vague_modify_physical_fetch_trend_short_thing_debris
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

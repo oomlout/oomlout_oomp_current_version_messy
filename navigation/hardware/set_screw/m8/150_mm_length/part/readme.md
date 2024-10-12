@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coach |  
+| bip_39_word_dash_10 | coach-gospel-false-cave-inner-weasel-kiwi-join-they-captain |  
+| bip_39_word_dash_11 | coach-gospel-false-cave-inner-weasel-kiwi-join-they-captain-suggest |  
+| bip_39_word_dash_12 | coach-gospel-false-cave-inner-weasel-kiwi-join-they-captain-suggest-alley |  
+| bip_39_word_dash_2 | coach-gospel |  
+| bip_39_word_dash_3 | coach-gospel-false |  
+| bip_39_word_dash_4 | coach-gospel-false-cave |  
+| bip_39_word_dash_5 | coach-gospel-false-cave-inner |  
+| bip_39_word_dash_6 | coach-gospel-false-cave-inner-weasel |  
+| bip_39_word_dash_7 | coach-gospel-false-cave-inner-weasel-kiwi |  
+| bip_39_word_dash_8 | coach-gospel-false-cave-inner-weasel-kiwi-join |  
+| bip_39_word_dash_9 | coach-gospel-false-cave-inner-weasel-kiwi-join-they |  
 | bip_39_word_new_br_1 | coach |  
 | bip_39_word_new_br_10 | coach<br>gospel<br>false<br>cave<br>inner<br>weasel<br>kiwi<br>join<br>they<br>captain |  
 | bip_39_word_new_br_11 | coach<br>gospel<br>false<br>cave<br>inner<br>weasel<br>kiwi<br>join<br>they<br>captain<br>suggest |  
@@ -147,6 +159,18 @@ they |
 | bip_39_word_space_7 | coach gospel false cave inner weasel kiwi |  
 | bip_39_word_space_8 | coach gospel false cave inner weasel kiwi join |  
 | bip_39_word_space_9 | coach gospel false cave inner weasel kiwi join they |  
+| bip_39_word_underscore_1 | coach |  
+| bip_39_word_underscore_10 | coach_gospel_false_cave_inner_weasel_kiwi_join_they_captain |  
+| bip_39_word_underscore_11 | coach_gospel_false_cave_inner_weasel_kiwi_join_they_captain_suggest |  
+| bip_39_word_underscore_12 | coach_gospel_false_cave_inner_weasel_kiwi_join_they_captain_suggest_alley |  
+| bip_39_word_underscore_2 | coach_gospel |  
+| bip_39_word_underscore_3 | coach_gospel_false |  
+| bip_39_word_underscore_4 | coach_gospel_false_cave |  
+| bip_39_word_underscore_5 | coach_gospel_false_cave_inner |  
+| bip_39_word_underscore_6 | coach_gospel_false_cave_inner_weasel |  
+| bip_39_word_underscore_7 | coach_gospel_false_cave_inner_weasel_kiwi |  
+| bip_39_word_underscore_8 | coach_gospel_false_cave_inner_weasel_kiwi_join |  
+| bip_39_word_underscore_9 | coach_gospel_false_cave_inner_weasel_kiwi_join_they |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

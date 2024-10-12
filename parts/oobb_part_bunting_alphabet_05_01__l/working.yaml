@@ -1,3 +1,15 @@
+bip_39_word_dash_1: accuse
+bip_39_word_dash_10: accuse-open-suggest-nose-stable-melt-medal-fever-easy-indicate
+bip_39_word_dash_11: accuse-open-suggest-nose-stable-melt-medal-fever-easy-indicate-glance
+bip_39_word_dash_12: accuse-open-suggest-nose-stable-melt-medal-fever-easy-indicate-glance-announce
+bip_39_word_dash_2: accuse-open
+bip_39_word_dash_3: accuse-open-suggest
+bip_39_word_dash_4: accuse-open-suggest-nose
+bip_39_word_dash_5: accuse-open-suggest-nose-stable
+bip_39_word_dash_6: accuse-open-suggest-nose-stable-melt
+bip_39_word_dash_7: accuse-open-suggest-nose-stable-melt-medal
+bip_39_word_dash_8: accuse-open-suggest-nose-stable-melt-medal-fever
+bip_39_word_dash_9: accuse-open-suggest-nose-stable-melt-medal-fever-easy
 bip_39_word_new_br_1: accuse
 bip_39_word_new_br_10: accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever<br>easy<br>indicate
 bip_39_word_new_br_11: accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever<br>easy<br>indicate<br>glance
@@ -193,6 +205,18 @@ bip_39_word_space_6: accuse open suggest nose stable melt
 bip_39_word_space_7: accuse open suggest nose stable melt medal
 bip_39_word_space_8: accuse open suggest nose stable melt medal fever
 bip_39_word_space_9: accuse open suggest nose stable melt medal fever easy
+bip_39_word_underscore_1: accuse
+bip_39_word_underscore_10: accuse_open_suggest_nose_stable_melt_medal_fever_easy_indicate
+bip_39_word_underscore_11: accuse_open_suggest_nose_stable_melt_medal_fever_easy_indicate_glance
+bip_39_word_underscore_12: accuse_open_suggest_nose_stable_melt_medal_fever_easy_indicate_glance_announce
+bip_39_word_underscore_2: accuse_open
+bip_39_word_underscore_3: accuse_open_suggest
+bip_39_word_underscore_4: accuse_open_suggest_nose
+bip_39_word_underscore_5: accuse_open_suggest_nose_stable
+bip_39_word_underscore_6: accuse_open_suggest_nose_stable_melt
+bip_39_word_underscore_7: accuse_open_suggest_nose_stable_melt_medal
+bip_39_word_underscore_8: accuse_open_suggest_nose_stable_melt_medal_fever
+bip_39_word_underscore_9: accuse_open_suggest_nose_stable_melt_medal_fever_easy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fetch |  
+| bip_39_word_dash_10 | fetch-hazard-system-suit-gain-october-glory-chef-tragic-much |  
+| bip_39_word_dash_11 | fetch-hazard-system-suit-gain-october-glory-chef-tragic-much-tired |  
+| bip_39_word_dash_12 | fetch-hazard-system-suit-gain-october-glory-chef-tragic-much-tired-art |  
+| bip_39_word_dash_2 | fetch-hazard |  
+| bip_39_word_dash_3 | fetch-hazard-system |  
+| bip_39_word_dash_4 | fetch-hazard-system-suit |  
+| bip_39_word_dash_5 | fetch-hazard-system-suit-gain |  
+| bip_39_word_dash_6 | fetch-hazard-system-suit-gain-october |  
+| bip_39_word_dash_7 | fetch-hazard-system-suit-gain-october-glory |  
+| bip_39_word_dash_8 | fetch-hazard-system-suit-gain-october-glory-chef |  
+| bip_39_word_dash_9 | fetch-hazard-system-suit-gain-october-glory-chef-tragic |  
 | bip_39_word_new_br_1 | fetch |  
 | bip_39_word_new_br_10 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much |  
 | bip_39_word_new_br_11 | fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much<br>tired |  
@@ -147,6 +159,18 @@ tragic |
 | bip_39_word_space_7 | fetch hazard system suit gain october glory |  
 | bip_39_word_space_8 | fetch hazard system suit gain october glory chef |  
 | bip_39_word_space_9 | fetch hazard system suit gain october glory chef tragic |  
+| bip_39_word_underscore_1 | fetch |  
+| bip_39_word_underscore_10 | fetch_hazard_system_suit_gain_october_glory_chef_tragic_much |  
+| bip_39_word_underscore_11 | fetch_hazard_system_suit_gain_october_glory_chef_tragic_much_tired |  
+| bip_39_word_underscore_12 | fetch_hazard_system_suit_gain_october_glory_chef_tragic_much_tired_art |  
+| bip_39_word_underscore_2 | fetch_hazard |  
+| bip_39_word_underscore_3 | fetch_hazard_system |  
+| bip_39_word_underscore_4 | fetch_hazard_system_suit |  
+| bip_39_word_underscore_5 | fetch_hazard_system_suit_gain |  
+| bip_39_word_underscore_6 | fetch_hazard_system_suit_gain_october |  
+| bip_39_word_underscore_7 | fetch_hazard_system_suit_gain_october_glory |  
+| bip_39_word_underscore_8 | fetch_hazard_system_suit_gain_october_glory_chef |  
+| bip_39_word_underscore_9 | fetch_hazard_system_suit_gain_october_glory_chef_tragic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

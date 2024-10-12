@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | random |  
+| bip_39_word_dash_10 | random-position-injury-library-awesome-drift-update-elephant-exit-street |  
+| bip_39_word_dash_11 | random-position-injury-library-awesome-drift-update-elephant-exit-street-middle |  
+| bip_39_word_dash_12 | random-position-injury-library-awesome-drift-update-elephant-exit-street-middle-attack |  
+| bip_39_word_dash_2 | random-position |  
+| bip_39_word_dash_3 | random-position-injury |  
+| bip_39_word_dash_4 | random-position-injury-library |  
+| bip_39_word_dash_5 | random-position-injury-library-awesome |  
+| bip_39_word_dash_6 | random-position-injury-library-awesome-drift |  
+| bip_39_word_dash_7 | random-position-injury-library-awesome-drift-update |  
+| bip_39_word_dash_8 | random-position-injury-library-awesome-drift-update-elephant |  
+| bip_39_word_dash_9 | random-position-injury-library-awesome-drift-update-elephant-exit |  
 | bip_39_word_new_br_1 | random |  
 | bip_39_word_new_br_10 | random<br>position<br>injury<br>library<br>awesome<br>drift<br>update<br>elephant<br>exit<br>street |  
 | bip_39_word_new_br_11 | random<br>position<br>injury<br>library<br>awesome<br>drift<br>update<br>elephant<br>exit<br>street<br>middle |  
@@ -147,6 +159,18 @@ exit |
 | bip_39_word_space_7 | random position injury library awesome drift update |  
 | bip_39_word_space_8 | random position injury library awesome drift update elephant |  
 | bip_39_word_space_9 | random position injury library awesome drift update elephant exit |  
+| bip_39_word_underscore_1 | random |  
+| bip_39_word_underscore_10 | random_position_injury_library_awesome_drift_update_elephant_exit_street |  
+| bip_39_word_underscore_11 | random_position_injury_library_awesome_drift_update_elephant_exit_street_middle |  
+| bip_39_word_underscore_12 | random_position_injury_library_awesome_drift_update_elephant_exit_street_middle_attack |  
+| bip_39_word_underscore_2 | random_position |  
+| bip_39_word_underscore_3 | random_position_injury |  
+| bip_39_word_underscore_4 | random_position_injury_library |  
+| bip_39_word_underscore_5 | random_position_injury_library_awesome |  
+| bip_39_word_underscore_6 | random_position_injury_library_awesome_drift |  
+| bip_39_word_underscore_7 | random_position_injury_library_awesome_drift_update |  
+| bip_39_word_underscore_8 | random_position_injury_library_awesome_drift_update_elephant |  
+| bip_39_word_underscore_9 | random_position_injury_library_awesome_drift_update_elephant_exit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crawl |  
+| bip_39_word_dash_10 | crawl-corn-require-float-tail-achieve-crouch-have-bitter-transfer |  
+| bip_39_word_dash_11 | crawl-corn-require-float-tail-achieve-crouch-have-bitter-transfer-sustain |  
+| bip_39_word_dash_12 | crawl-corn-require-float-tail-achieve-crouch-have-bitter-transfer-sustain-anchor |  
+| bip_39_word_dash_2 | crawl-corn |  
+| bip_39_word_dash_3 | crawl-corn-require |  
+| bip_39_word_dash_4 | crawl-corn-require-float |  
+| bip_39_word_dash_5 | crawl-corn-require-float-tail |  
+| bip_39_word_dash_6 | crawl-corn-require-float-tail-achieve |  
+| bip_39_word_dash_7 | crawl-corn-require-float-tail-achieve-crouch |  
+| bip_39_word_dash_8 | crawl-corn-require-float-tail-achieve-crouch-have |  
+| bip_39_word_dash_9 | crawl-corn-require-float-tail-achieve-crouch-have-bitter |  
 | bip_39_word_new_br_1 | crawl |  
 | bip_39_word_new_br_10 | crawl<br>corn<br>require<br>float<br>tail<br>achieve<br>crouch<br>have<br>bitter<br>transfer |  
 | bip_39_word_new_br_11 | crawl<br>corn<br>require<br>float<br>tail<br>achieve<br>crouch<br>have<br>bitter<br>transfer<br>sustain |  
@@ -147,6 +159,18 @@ bitter |
 | bip_39_word_space_7 | crawl corn require float tail achieve crouch |  
 | bip_39_word_space_8 | crawl corn require float tail achieve crouch have |  
 | bip_39_word_space_9 | crawl corn require float tail achieve crouch have bitter |  
+| bip_39_word_underscore_1 | crawl |  
+| bip_39_word_underscore_10 | crawl_corn_require_float_tail_achieve_crouch_have_bitter_transfer |  
+| bip_39_word_underscore_11 | crawl_corn_require_float_tail_achieve_crouch_have_bitter_transfer_sustain |  
+| bip_39_word_underscore_12 | crawl_corn_require_float_tail_achieve_crouch_have_bitter_transfer_sustain_anchor |  
+| bip_39_word_underscore_2 | crawl_corn |  
+| bip_39_word_underscore_3 | crawl_corn_require |  
+| bip_39_word_underscore_4 | crawl_corn_require_float |  
+| bip_39_word_underscore_5 | crawl_corn_require_float_tail |  
+| bip_39_word_underscore_6 | crawl_corn_require_float_tail_achieve |  
+| bip_39_word_underscore_7 | crawl_corn_require_float_tail_achieve_crouch |  
+| bip_39_word_underscore_8 | crawl_corn_require_float_tail_achieve_crouch_have |  
+| bip_39_word_underscore_9 | crawl_corn_require_float_tail_achieve_crouch_have_bitter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

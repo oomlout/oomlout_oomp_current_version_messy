@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mirror |  
+| bip_39_word_dash_10 | mirror-follow-chronic-orbit-yellow-mixture-eight-mirror-fruit-inhale |  
+| bip_39_word_dash_11 | mirror-follow-chronic-orbit-yellow-mixture-eight-mirror-fruit-inhale-idea |  
+| bip_39_word_dash_12 | mirror-follow-chronic-orbit-yellow-mixture-eight-mirror-fruit-inhale-idea-artwork |  
+| bip_39_word_dash_2 | mirror-follow |  
+| bip_39_word_dash_3 | mirror-follow-chronic |  
+| bip_39_word_dash_4 | mirror-follow-chronic-orbit |  
+| bip_39_word_dash_5 | mirror-follow-chronic-orbit-yellow |  
+| bip_39_word_dash_6 | mirror-follow-chronic-orbit-yellow-mixture |  
+| bip_39_word_dash_7 | mirror-follow-chronic-orbit-yellow-mixture-eight |  
+| bip_39_word_dash_8 | mirror-follow-chronic-orbit-yellow-mixture-eight-mirror |  
+| bip_39_word_dash_9 | mirror-follow-chronic-orbit-yellow-mixture-eight-mirror-fruit |  
 | bip_39_word_new_br_1 | mirror |  
 | bip_39_word_new_br_10 | mirror<br>follow<br>chronic<br>orbit<br>yellow<br>mixture<br>eight<br>mirror<br>fruit<br>inhale |  
 | bip_39_word_new_br_11 | mirror<br>follow<br>chronic<br>orbit<br>yellow<br>mixture<br>eight<br>mirror<br>fruit<br>inhale<br>idea |  
@@ -147,6 +159,18 @@ fruit |
 | bip_39_word_space_7 | mirror follow chronic orbit yellow mixture eight |  
 | bip_39_word_space_8 | mirror follow chronic orbit yellow mixture eight mirror |  
 | bip_39_word_space_9 | mirror follow chronic orbit yellow mixture eight mirror fruit |  
+| bip_39_word_underscore_1 | mirror |  
+| bip_39_word_underscore_10 | mirror_follow_chronic_orbit_yellow_mixture_eight_mirror_fruit_inhale |  
+| bip_39_word_underscore_11 | mirror_follow_chronic_orbit_yellow_mixture_eight_mirror_fruit_inhale_idea |  
+| bip_39_word_underscore_12 | mirror_follow_chronic_orbit_yellow_mixture_eight_mirror_fruit_inhale_idea_artwork |  
+| bip_39_word_underscore_2 | mirror_follow |  
+| bip_39_word_underscore_3 | mirror_follow_chronic |  
+| bip_39_word_underscore_4 | mirror_follow_chronic_orbit |  
+| bip_39_word_underscore_5 | mirror_follow_chronic_orbit_yellow |  
+| bip_39_word_underscore_6 | mirror_follow_chronic_orbit_yellow_mixture |  
+| bip_39_word_underscore_7 | mirror_follow_chronic_orbit_yellow_mixture_eight |  
+| bip_39_word_underscore_8 | mirror_follow_chronic_orbit_yellow_mixture_eight_mirror |  
+| bip_39_word_underscore_9 | mirror_follow_chronic_orbit_yellow_mixture_eight_mirror_fruit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

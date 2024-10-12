@@ -1,3 +1,15 @@
+bip_39_word_dash_1: accident
+bip_39_word_dash_10: accident-glide-omit-raw-oyster-spray-wing-army-jar-decline
+bip_39_word_dash_11: accident-glide-omit-raw-oyster-spray-wing-army-jar-decline-bamboo
+bip_39_word_dash_12: accident-glide-omit-raw-oyster-spray-wing-army-jar-decline-bamboo-already
+bip_39_word_dash_2: accident-glide
+bip_39_word_dash_3: accident-glide-omit
+bip_39_word_dash_4: accident-glide-omit-raw
+bip_39_word_dash_5: accident-glide-omit-raw-oyster
+bip_39_word_dash_6: accident-glide-omit-raw-oyster-spray
+bip_39_word_dash_7: accident-glide-omit-raw-oyster-spray-wing
+bip_39_word_dash_8: accident-glide-omit-raw-oyster-spray-wing-army
+bip_39_word_dash_9: accident-glide-omit-raw-oyster-spray-wing-army-jar
 bip_39_word_new_br_1: accident
 bip_39_word_new_br_10: accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army<br>jar<br>decline
 bip_39_word_new_br_11: accident<br>glide<br>omit<br>raw<br>oyster<br>spray<br>wing<br>army<br>jar<br>decline<br>bamboo
@@ -192,6 +204,18 @@ bip_39_word_space_6: accident glide omit raw oyster spray
 bip_39_word_space_7: accident glide omit raw oyster spray wing
 bip_39_word_space_8: accident glide omit raw oyster spray wing army
 bip_39_word_space_9: accident glide omit raw oyster spray wing army jar
+bip_39_word_underscore_1: accident
+bip_39_word_underscore_10: accident_glide_omit_raw_oyster_spray_wing_army_jar_decline
+bip_39_word_underscore_11: accident_glide_omit_raw_oyster_spray_wing_army_jar_decline_bamboo
+bip_39_word_underscore_12: accident_glide_omit_raw_oyster_spray_wing_army_jar_decline_bamboo_already
+bip_39_word_underscore_2: accident_glide
+bip_39_word_underscore_3: accident_glide_omit
+bip_39_word_underscore_4: accident_glide_omit_raw
+bip_39_word_underscore_5: accident_glide_omit_raw_oyster
+bip_39_word_underscore_6: accident_glide_omit_raw_oyster_spray
+bip_39_word_underscore_7: accident_glide_omit_raw_oyster_spray_wing
+bip_39_word_underscore_8: accident_glide_omit_raw_oyster_spray_wing_army
+bip_39_word_underscore_9: accident_glide_omit_raw_oyster_spray_wing_army_jar
 classification: tool
 classification_capital: Tool
 classification_first_letter: t

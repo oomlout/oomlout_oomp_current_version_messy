@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | novel |  
+| bip_39_word_dash_10 | novel-apple-exchange-photo-twin-holiday-oven-million-physical-entire |  
+| bip_39_word_dash_11 | novel-apple-exchange-photo-twin-holiday-oven-million-physical-entire-distance |  
+| bip_39_word_dash_12 | novel-apple-exchange-photo-twin-holiday-oven-million-physical-entire-distance-afraid |  
+| bip_39_word_dash_2 | novel-apple |  
+| bip_39_word_dash_3 | novel-apple-exchange |  
+| bip_39_word_dash_4 | novel-apple-exchange-photo |  
+| bip_39_word_dash_5 | novel-apple-exchange-photo-twin |  
+| bip_39_word_dash_6 | novel-apple-exchange-photo-twin-holiday |  
+| bip_39_word_dash_7 | novel-apple-exchange-photo-twin-holiday-oven |  
+| bip_39_word_dash_8 | novel-apple-exchange-photo-twin-holiday-oven-million |  
+| bip_39_word_dash_9 | novel-apple-exchange-photo-twin-holiday-oven-million-physical |  
 | bip_39_word_new_br_1 | novel |  
 | bip_39_word_new_br_10 | novel<br>apple<br>exchange<br>photo<br>twin<br>holiday<br>oven<br>million<br>physical<br>entire |  
 | bip_39_word_new_br_11 | novel<br>apple<br>exchange<br>photo<br>twin<br>holiday<br>oven<br>million<br>physical<br>entire<br>distance |  
@@ -147,6 +159,18 @@ physical |
 | bip_39_word_space_7 | novel apple exchange photo twin holiday oven |  
 | bip_39_word_space_8 | novel apple exchange photo twin holiday oven million |  
 | bip_39_word_space_9 | novel apple exchange photo twin holiday oven million physical |  
+| bip_39_word_underscore_1 | novel |  
+| bip_39_word_underscore_10 | novel_apple_exchange_photo_twin_holiday_oven_million_physical_entire |  
+| bip_39_word_underscore_11 | novel_apple_exchange_photo_twin_holiday_oven_million_physical_entire_distance |  
+| bip_39_word_underscore_12 | novel_apple_exchange_photo_twin_holiday_oven_million_physical_entire_distance_afraid |  
+| bip_39_word_underscore_2 | novel_apple |  
+| bip_39_word_underscore_3 | novel_apple_exchange |  
+| bip_39_word_underscore_4 | novel_apple_exchange_photo |  
+| bip_39_word_underscore_5 | novel_apple_exchange_photo_twin |  
+| bip_39_word_underscore_6 | novel_apple_exchange_photo_twin_holiday |  
+| bip_39_word_underscore_7 | novel_apple_exchange_photo_twin_holiday_oven |  
+| bip_39_word_underscore_8 | novel_apple_exchange_photo_twin_holiday_oven_million |  
+| bip_39_word_underscore_9 | novel_apple_exchange_photo_twin_holiday_oven_million_physical |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

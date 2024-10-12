@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | betray |  
+| bip_39_word_dash_10 | betray-produce-squirrel-sail-bronze-will-emerge-quiz-under-addict |  
+| bip_39_word_dash_11 | betray-produce-squirrel-sail-bronze-will-emerge-quiz-under-addict-poem |  
+| bip_39_word_dash_12 | betray-produce-squirrel-sail-bronze-will-emerge-quiz-under-addict-poem-answer |  
+| bip_39_word_dash_2 | betray-produce |  
+| bip_39_word_dash_3 | betray-produce-squirrel |  
+| bip_39_word_dash_4 | betray-produce-squirrel-sail |  
+| bip_39_word_dash_5 | betray-produce-squirrel-sail-bronze |  
+| bip_39_word_dash_6 | betray-produce-squirrel-sail-bronze-will |  
+| bip_39_word_dash_7 | betray-produce-squirrel-sail-bronze-will-emerge |  
+| bip_39_word_dash_8 | betray-produce-squirrel-sail-bronze-will-emerge-quiz |  
+| bip_39_word_dash_9 | betray-produce-squirrel-sail-bronze-will-emerge-quiz-under |  
 | bip_39_word_new_br_1 | betray |  
 | bip_39_word_new_br_10 | betray<br>produce<br>squirrel<br>sail<br>bronze<br>will<br>emerge<br>quiz<br>under<br>addict |  
 | bip_39_word_new_br_11 | betray<br>produce<br>squirrel<br>sail<br>bronze<br>will<br>emerge<br>quiz<br>under<br>addict<br>poem |  
@@ -147,6 +159,18 @@ under |
 | bip_39_word_space_7 | betray produce squirrel sail bronze will emerge |  
 | bip_39_word_space_8 | betray produce squirrel sail bronze will emerge quiz |  
 | bip_39_word_space_9 | betray produce squirrel sail bronze will emerge quiz under |  
+| bip_39_word_underscore_1 | betray |  
+| bip_39_word_underscore_10 | betray_produce_squirrel_sail_bronze_will_emerge_quiz_under_addict |  
+| bip_39_word_underscore_11 | betray_produce_squirrel_sail_bronze_will_emerge_quiz_under_addict_poem |  
+| bip_39_word_underscore_12 | betray_produce_squirrel_sail_bronze_will_emerge_quiz_under_addict_poem_answer |  
+| bip_39_word_underscore_2 | betray_produce |  
+| bip_39_word_underscore_3 | betray_produce_squirrel |  
+| bip_39_word_underscore_4 | betray_produce_squirrel_sail |  
+| bip_39_word_underscore_5 | betray_produce_squirrel_sail_bronze |  
+| bip_39_word_underscore_6 | betray_produce_squirrel_sail_bronze_will |  
+| bip_39_word_underscore_7 | betray_produce_squirrel_sail_bronze_will_emerge |  
+| bip_39_word_underscore_8 | betray_produce_squirrel_sail_bronze_will_emerge_quiz |  
+| bip_39_word_underscore_9 | betray_produce_squirrel_sail_bronze_will_emerge_quiz_under |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bleak
+bip_39_word_dash_10: bleak-awkward-cluster-battle-actor-stable-fire-lounge-plastic-walnut
+bip_39_word_dash_11: bleak-awkward-cluster-battle-actor-stable-fire-lounge-plastic-walnut-hover
+bip_39_word_dash_12: bleak-awkward-cluster-battle-actor-stable-fire-lounge-plastic-walnut-hover-anchor
+bip_39_word_dash_2: bleak-awkward
+bip_39_word_dash_3: bleak-awkward-cluster
+bip_39_word_dash_4: bleak-awkward-cluster-battle
+bip_39_word_dash_5: bleak-awkward-cluster-battle-actor
+bip_39_word_dash_6: bleak-awkward-cluster-battle-actor-stable
+bip_39_word_dash_7: bleak-awkward-cluster-battle-actor-stable-fire
+bip_39_word_dash_8: bleak-awkward-cluster-battle-actor-stable-fire-lounge
+bip_39_word_dash_9: bleak-awkward-cluster-battle-actor-stable-fire-lounge-plastic
 bip_39_word_new_br_1: bleak
 bip_39_word_new_br_10: bleak<br>awkward<br>cluster<br>battle<br>actor<br>stable<br>fire<br>lounge<br>plastic<br>walnut
 bip_39_word_new_br_11: bleak<br>awkward<br>cluster<br>battle<br>actor<br>stable<br>fire<br>lounge<br>plastic<br>walnut<br>hover
@@ -194,6 +206,18 @@ bip_39_word_space_6: bleak awkward cluster battle actor stable
 bip_39_word_space_7: bleak awkward cluster battle actor stable fire
 bip_39_word_space_8: bleak awkward cluster battle actor stable fire lounge
 bip_39_word_space_9: bleak awkward cluster battle actor stable fire lounge plastic
+bip_39_word_underscore_1: bleak
+bip_39_word_underscore_10: bleak_awkward_cluster_battle_actor_stable_fire_lounge_plastic_walnut
+bip_39_word_underscore_11: bleak_awkward_cluster_battle_actor_stable_fire_lounge_plastic_walnut_hover
+bip_39_word_underscore_12: bleak_awkward_cluster_battle_actor_stable_fire_lounge_plastic_walnut_hover_anchor
+bip_39_word_underscore_2: bleak_awkward
+bip_39_word_underscore_3: bleak_awkward_cluster
+bip_39_word_underscore_4: bleak_awkward_cluster_battle
+bip_39_word_underscore_5: bleak_awkward_cluster_battle_actor
+bip_39_word_underscore_6: bleak_awkward_cluster_battle_actor_stable
+bip_39_word_underscore_7: bleak_awkward_cluster_battle_actor_stable_fire
+bip_39_word_underscore_8: bleak_awkward_cluster_battle_actor_stable_fire_lounge
+bip_39_word_underscore_9: bleak_awkward_cluster_battle_actor_stable_fire_lounge_plastic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

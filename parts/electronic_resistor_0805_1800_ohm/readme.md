@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rich |  
+| bip_39_word_dash_10 | rich-arrange-feature-luxury-brown-planet-great-april-say-lecture |  
+| bip_39_word_dash_11 | rich-arrange-feature-luxury-brown-planet-great-april-say-lecture-install |  
+| bip_39_word_dash_12 | rich-arrange-feature-luxury-brown-planet-great-april-say-lecture-install-alpha |  
+| bip_39_word_dash_2 | rich-arrange |  
+| bip_39_word_dash_3 | rich-arrange-feature |  
+| bip_39_word_dash_4 | rich-arrange-feature-luxury |  
+| bip_39_word_dash_5 | rich-arrange-feature-luxury-brown |  
+| bip_39_word_dash_6 | rich-arrange-feature-luxury-brown-planet |  
+| bip_39_word_dash_7 | rich-arrange-feature-luxury-brown-planet-great |  
+| bip_39_word_dash_8 | rich-arrange-feature-luxury-brown-planet-great-april |  
+| bip_39_word_dash_9 | rich-arrange-feature-luxury-brown-planet-great-april-say |  
 | bip_39_word_new_br_1 | rich |  
 | bip_39_word_new_br_10 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture |  
 | bip_39_word_new_br_11 | rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture<br>install |  
@@ -147,6 +159,18 @@ say |
 | bip_39_word_space_7 | rich arrange feature luxury brown planet great |  
 | bip_39_word_space_8 | rich arrange feature luxury brown planet great april |  
 | bip_39_word_space_9 | rich arrange feature luxury brown planet great april say |  
+| bip_39_word_underscore_1 | rich |  
+| bip_39_word_underscore_10 | rich_arrange_feature_luxury_brown_planet_great_april_say_lecture |  
+| bip_39_word_underscore_11 | rich_arrange_feature_luxury_brown_planet_great_april_say_lecture_install |  
+| bip_39_word_underscore_12 | rich_arrange_feature_luxury_brown_planet_great_april_say_lecture_install_alpha |  
+| bip_39_word_underscore_2 | rich_arrange |  
+| bip_39_word_underscore_3 | rich_arrange_feature |  
+| bip_39_word_underscore_4 | rich_arrange_feature_luxury |  
+| bip_39_word_underscore_5 | rich_arrange_feature_luxury_brown |  
+| bip_39_word_underscore_6 | rich_arrange_feature_luxury_brown_planet |  
+| bip_39_word_underscore_7 | rich_arrange_feature_luxury_brown_planet_great |  
+| bip_39_word_underscore_8 | rich_arrange_feature_luxury_brown_planet_great_april |  
+| bip_39_word_underscore_9 | rich_arrange_feature_luxury_brown_planet_great_april_say |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

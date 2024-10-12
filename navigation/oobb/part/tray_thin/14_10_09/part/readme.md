@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | effort |  
+| bip_39_word_dash_10 | effort-deputy-casino-visa-device-symbol-census-bright-hotel-surge |  
+| bip_39_word_dash_11 | effort-deputy-casino-visa-device-symbol-census-bright-hotel-surge-nasty |  
+| bip_39_word_dash_12 | effort-deputy-casino-visa-device-symbol-census-bright-hotel-surge-nasty-artefact |  
+| bip_39_word_dash_2 | effort-deputy |  
+| bip_39_word_dash_3 | effort-deputy-casino |  
+| bip_39_word_dash_4 | effort-deputy-casino-visa |  
+| bip_39_word_dash_5 | effort-deputy-casino-visa-device |  
+| bip_39_word_dash_6 | effort-deputy-casino-visa-device-symbol |  
+| bip_39_word_dash_7 | effort-deputy-casino-visa-device-symbol-census |  
+| bip_39_word_dash_8 | effort-deputy-casino-visa-device-symbol-census-bright |  
+| bip_39_word_dash_9 | effort-deputy-casino-visa-device-symbol-census-bright-hotel |  
 | bip_39_word_new_br_1 | effort |  
 | bip_39_word_new_br_10 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright<br>hotel<br>surge |  
 | bip_39_word_new_br_11 | effort<br>deputy<br>casino<br>visa<br>device<br>symbol<br>census<br>bright<br>hotel<br>surge<br>nasty |  
@@ -147,6 +159,18 @@ hotel |
 | bip_39_word_space_7 | effort deputy casino visa device symbol census |  
 | bip_39_word_space_8 | effort deputy casino visa device symbol census bright |  
 | bip_39_word_space_9 | effort deputy casino visa device symbol census bright hotel |  
+| bip_39_word_underscore_1 | effort |  
+| bip_39_word_underscore_10 | effort_deputy_casino_visa_device_symbol_census_bright_hotel_surge |  
+| bip_39_word_underscore_11 | effort_deputy_casino_visa_device_symbol_census_bright_hotel_surge_nasty |  
+| bip_39_word_underscore_12 | effort_deputy_casino_visa_device_symbol_census_bright_hotel_surge_nasty_artefact |  
+| bip_39_word_underscore_2 | effort_deputy |  
+| bip_39_word_underscore_3 | effort_deputy_casino |  
+| bip_39_word_underscore_4 | effort_deputy_casino_visa |  
+| bip_39_word_underscore_5 | effort_deputy_casino_visa_device |  
+| bip_39_word_underscore_6 | effort_deputy_casino_visa_device_symbol |  
+| bip_39_word_underscore_7 | effort_deputy_casino_visa_device_symbol_census |  
+| bip_39_word_underscore_8 | effort_deputy_casino_visa_device_symbol_census_bright |  
+| bip_39_word_underscore_9 | effort_deputy_casino_visa_device_symbol_census_bright_hotel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

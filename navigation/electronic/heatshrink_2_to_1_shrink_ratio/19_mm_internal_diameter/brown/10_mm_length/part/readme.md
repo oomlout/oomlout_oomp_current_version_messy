@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | strike |  
+| bip_39_word_dash_10 | strike-pear-unaware-valid-inform-violin-quit-gather-crucial-correct |  
+| bip_39_word_dash_11 | strike-pear-unaware-valid-inform-violin-quit-gather-crucial-correct-cool |  
+| bip_39_word_dash_12 | strike-pear-unaware-valid-inform-violin-quit-gather-crucial-correct-cool-attract |  
+| bip_39_word_dash_2 | strike-pear |  
+| bip_39_word_dash_3 | strike-pear-unaware |  
+| bip_39_word_dash_4 | strike-pear-unaware-valid |  
+| bip_39_word_dash_5 | strike-pear-unaware-valid-inform |  
+| bip_39_word_dash_6 | strike-pear-unaware-valid-inform-violin |  
+| bip_39_word_dash_7 | strike-pear-unaware-valid-inform-violin-quit |  
+| bip_39_word_dash_8 | strike-pear-unaware-valid-inform-violin-quit-gather |  
+| bip_39_word_dash_9 | strike-pear-unaware-valid-inform-violin-quit-gather-crucial |  
 | bip_39_word_new_br_1 | strike |  
 | bip_39_word_new_br_10 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct |  
 | bip_39_word_new_br_11 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct<br>cool |  
@@ -147,6 +159,18 @@ crucial |
 | bip_39_word_space_7 | strike pear unaware valid inform violin quit |  
 | bip_39_word_space_8 | strike pear unaware valid inform violin quit gather |  
 | bip_39_word_space_9 | strike pear unaware valid inform violin quit gather crucial |  
+| bip_39_word_underscore_1 | strike |  
+| bip_39_word_underscore_10 | strike_pear_unaware_valid_inform_violin_quit_gather_crucial_correct |  
+| bip_39_word_underscore_11 | strike_pear_unaware_valid_inform_violin_quit_gather_crucial_correct_cool |  
+| bip_39_word_underscore_12 | strike_pear_unaware_valid_inform_violin_quit_gather_crucial_correct_cool_attract |  
+| bip_39_word_underscore_2 | strike_pear |  
+| bip_39_word_underscore_3 | strike_pear_unaware |  
+| bip_39_word_underscore_4 | strike_pear_unaware_valid |  
+| bip_39_word_underscore_5 | strike_pear_unaware_valid_inform |  
+| bip_39_word_underscore_6 | strike_pear_unaware_valid_inform_violin |  
+| bip_39_word_underscore_7 | strike_pear_unaware_valid_inform_violin_quit |  
+| bip_39_word_underscore_8 | strike_pear_unaware_valid_inform_violin_quit_gather |  
+| bip_39_word_underscore_9 | strike_pear_unaware_valid_inform_violin_quit_gather_crucial |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

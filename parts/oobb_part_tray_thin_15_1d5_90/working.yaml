@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jump
+bip_39_word_dash_10: jump-ceiling-rookie-weather-thank-possible-ritual-merry-panther-beef
+bip_39_word_dash_11: jump-ceiling-rookie-weather-thank-possible-ritual-merry-panther-beef-unlock
+bip_39_word_dash_12: jump-ceiling-rookie-weather-thank-possible-ritual-merry-panther-beef-unlock-animal
+bip_39_word_dash_2: jump-ceiling
+bip_39_word_dash_3: jump-ceiling-rookie
+bip_39_word_dash_4: jump-ceiling-rookie-weather
+bip_39_word_dash_5: jump-ceiling-rookie-weather-thank
+bip_39_word_dash_6: jump-ceiling-rookie-weather-thank-possible
+bip_39_word_dash_7: jump-ceiling-rookie-weather-thank-possible-ritual
+bip_39_word_dash_8: jump-ceiling-rookie-weather-thank-possible-ritual-merry
+bip_39_word_dash_9: jump-ceiling-rookie-weather-thank-possible-ritual-merry-panther
 bip_39_word_new_br_1: jump
 bip_39_word_new_br_10: jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry<br>panther<br>beef
 bip_39_word_new_br_11: jump<br>ceiling<br>rookie<br>weather<br>thank<br>possible<br>ritual<br>merry<br>panther<br>beef<br>unlock
@@ -194,6 +206,18 @@ bip_39_word_space_6: jump ceiling rookie weather thank possible
 bip_39_word_space_7: jump ceiling rookie weather thank possible ritual
 bip_39_word_space_8: jump ceiling rookie weather thank possible ritual merry
 bip_39_word_space_9: jump ceiling rookie weather thank possible ritual merry panther
+bip_39_word_underscore_1: jump
+bip_39_word_underscore_10: jump_ceiling_rookie_weather_thank_possible_ritual_merry_panther_beef
+bip_39_word_underscore_11: jump_ceiling_rookie_weather_thank_possible_ritual_merry_panther_beef_unlock
+bip_39_word_underscore_12: jump_ceiling_rookie_weather_thank_possible_ritual_merry_panther_beef_unlock_animal
+bip_39_word_underscore_2: jump_ceiling
+bip_39_word_underscore_3: jump_ceiling_rookie
+bip_39_word_underscore_4: jump_ceiling_rookie_weather
+bip_39_word_underscore_5: jump_ceiling_rookie_weather_thank
+bip_39_word_underscore_6: jump_ceiling_rookie_weather_thank_possible
+bip_39_word_underscore_7: jump_ceiling_rookie_weather_thank_possible_ritual
+bip_39_word_underscore_8: jump_ceiling_rookie_weather_thank_possible_ritual_merry
+bip_39_word_underscore_9: jump_ceiling_rookie_weather_thank_possible_ritual_merry_panther
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

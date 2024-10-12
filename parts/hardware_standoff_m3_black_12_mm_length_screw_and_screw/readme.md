@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | future |  
+| bip_39_word_dash_10 | future-rack-tilt-pair-song-left-tape-home-sphere-benefit |  
+| bip_39_word_dash_11 | future-rack-tilt-pair-song-left-tape-home-sphere-benefit-column |  
+| bip_39_word_dash_12 | future-rack-tilt-pair-song-left-tape-home-sphere-benefit-column-able |  
+| bip_39_word_dash_2 | future-rack |  
+| bip_39_word_dash_3 | future-rack-tilt |  
+| bip_39_word_dash_4 | future-rack-tilt-pair |  
+| bip_39_word_dash_5 | future-rack-tilt-pair-song |  
+| bip_39_word_dash_6 | future-rack-tilt-pair-song-left |  
+| bip_39_word_dash_7 | future-rack-tilt-pair-song-left-tape |  
+| bip_39_word_dash_8 | future-rack-tilt-pair-song-left-tape-home |  
+| bip_39_word_dash_9 | future-rack-tilt-pair-song-left-tape-home-sphere |  
 | bip_39_word_new_br_1 | future |  
 | bip_39_word_new_br_10 | future<br>rack<br>tilt<br>pair<br>song<br>left<br>tape<br>home<br>sphere<br>benefit |  
 | bip_39_word_new_br_11 | future<br>rack<br>tilt<br>pair<br>song<br>left<br>tape<br>home<br>sphere<br>benefit<br>column |  
@@ -147,6 +159,18 @@ sphere |
 | bip_39_word_space_7 | future rack tilt pair song left tape |  
 | bip_39_word_space_8 | future rack tilt pair song left tape home |  
 | bip_39_word_space_9 | future rack tilt pair song left tape home sphere |  
+| bip_39_word_underscore_1 | future |  
+| bip_39_word_underscore_10 | future_rack_tilt_pair_song_left_tape_home_sphere_benefit |  
+| bip_39_word_underscore_11 | future_rack_tilt_pair_song_left_tape_home_sphere_benefit_column |  
+| bip_39_word_underscore_12 | future_rack_tilt_pair_song_left_tape_home_sphere_benefit_column_able |  
+| bip_39_word_underscore_2 | future_rack |  
+| bip_39_word_underscore_3 | future_rack_tilt |  
+| bip_39_word_underscore_4 | future_rack_tilt_pair |  
+| bip_39_word_underscore_5 | future_rack_tilt_pair_song |  
+| bip_39_word_underscore_6 | future_rack_tilt_pair_song_left |  
+| bip_39_word_underscore_7 | future_rack_tilt_pair_song_left_tape |  
+| bip_39_word_underscore_8 | future_rack_tilt_pair_song_left_tape_home |  
+| bip_39_word_underscore_9 | future_rack_tilt_pair_song_left_tape_home_sphere |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

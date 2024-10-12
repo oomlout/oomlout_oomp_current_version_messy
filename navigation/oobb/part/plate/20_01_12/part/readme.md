@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trim |  
+| bip_39_word_dash_10 | trim-oak-they-hire-ozone-move-swing-second-video-afford |  
+| bip_39_word_dash_11 | trim-oak-they-hire-ozone-move-swing-second-video-afford-layer |  
+| bip_39_word_dash_12 | trim-oak-they-hire-ozone-move-swing-second-video-afford-layer-alpha |  
+| bip_39_word_dash_2 | trim-oak |  
+| bip_39_word_dash_3 | trim-oak-they |  
+| bip_39_word_dash_4 | trim-oak-they-hire |  
+| bip_39_word_dash_5 | trim-oak-they-hire-ozone |  
+| bip_39_word_dash_6 | trim-oak-they-hire-ozone-move |  
+| bip_39_word_dash_7 | trim-oak-they-hire-ozone-move-swing |  
+| bip_39_word_dash_8 | trim-oak-they-hire-ozone-move-swing-second |  
+| bip_39_word_dash_9 | trim-oak-they-hire-ozone-move-swing-second-video |  
 | bip_39_word_new_br_1 | trim |  
 | bip_39_word_new_br_10 | trim<br>oak<br>they<br>hire<br>ozone<br>move<br>swing<br>second<br>video<br>afford |  
 | bip_39_word_new_br_11 | trim<br>oak<br>they<br>hire<br>ozone<br>move<br>swing<br>second<br>video<br>afford<br>layer |  
@@ -147,6 +159,18 @@ video |
 | bip_39_word_space_7 | trim oak they hire ozone move swing |  
 | bip_39_word_space_8 | trim oak they hire ozone move swing second |  
 | bip_39_word_space_9 | trim oak they hire ozone move swing second video |  
+| bip_39_word_underscore_1 | trim |  
+| bip_39_word_underscore_10 | trim_oak_they_hire_ozone_move_swing_second_video_afford |  
+| bip_39_word_underscore_11 | trim_oak_they_hire_ozone_move_swing_second_video_afford_layer |  
+| bip_39_word_underscore_12 | trim_oak_they_hire_ozone_move_swing_second_video_afford_layer_alpha |  
+| bip_39_word_underscore_2 | trim_oak |  
+| bip_39_word_underscore_3 | trim_oak_they |  
+| bip_39_word_underscore_4 | trim_oak_they_hire |  
+| bip_39_word_underscore_5 | trim_oak_they_hire_ozone |  
+| bip_39_word_underscore_6 | trim_oak_they_hire_ozone_move |  
+| bip_39_word_underscore_7 | trim_oak_they_hire_ozone_move_swing |  
+| bip_39_word_underscore_8 | trim_oak_they_hire_ozone_move_swing_second |  
+| bip_39_word_underscore_9 | trim_oak_they_hire_ozone_move_swing_second_video |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

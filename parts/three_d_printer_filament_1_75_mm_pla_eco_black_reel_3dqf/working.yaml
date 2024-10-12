@@ -1,3 +1,15 @@
+bip_39_word_dash_1: disease
+bip_39_word_dash_10: disease-apology-rail-code-just-plug-science-rebuild-coyote-frost
+bip_39_word_dash_11: disease-apology-rail-code-just-plug-science-rebuild-coyote-frost-heavy
+bip_39_word_dash_12: disease-apology-rail-code-just-plug-science-rebuild-coyote-frost-heavy-armor
+bip_39_word_dash_2: disease-apology
+bip_39_word_dash_3: disease-apology-rail
+bip_39_word_dash_4: disease-apology-rail-code
+bip_39_word_dash_5: disease-apology-rail-code-just
+bip_39_word_dash_6: disease-apology-rail-code-just-plug
+bip_39_word_dash_7: disease-apology-rail-code-just-plug-science
+bip_39_word_dash_8: disease-apology-rail-code-just-plug-science-rebuild
+bip_39_word_dash_9: disease-apology-rail-code-just-plug-science-rebuild-coyote
 bip_39_word_new_br_1: disease
 bip_39_word_new_br_10: disease<br>apology<br>rail<br>code<br>just<br>plug<br>science<br>rebuild<br>coyote<br>frost
 bip_39_word_new_br_11: disease<br>apology<br>rail<br>code<br>just<br>plug<br>science<br>rebuild<br>coyote<br>frost<br>heavy
@@ -193,6 +205,18 @@ bip_39_word_space_6: disease apology rail code just plug
 bip_39_word_space_7: disease apology rail code just plug science
 bip_39_word_space_8: disease apology rail code just plug science rebuild
 bip_39_word_space_9: disease apology rail code just plug science rebuild coyote
+bip_39_word_underscore_1: disease
+bip_39_word_underscore_10: disease_apology_rail_code_just_plug_science_rebuild_coyote_frost
+bip_39_word_underscore_11: disease_apology_rail_code_just_plug_science_rebuild_coyote_frost_heavy
+bip_39_word_underscore_12: disease_apology_rail_code_just_plug_science_rebuild_coyote_frost_heavy_armor
+bip_39_word_underscore_2: disease_apology
+bip_39_word_underscore_3: disease_apology_rail
+bip_39_word_underscore_4: disease_apology_rail_code
+bip_39_word_underscore_5: disease_apology_rail_code_just
+bip_39_word_underscore_6: disease_apology_rail_code_just_plug
+bip_39_word_underscore_7: disease_apology_rail_code_just_plug_science
+bip_39_word_underscore_8: disease_apology_rail_code_just_plug_science_rebuild
+bip_39_word_underscore_9: disease_apology_rail_code_just_plug_science_rebuild_coyote
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t

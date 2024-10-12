@@ -1,3 +1,14 @@
+bip_39_word_dash_1: genuine
+bip_39_word_dash_10: genuine-helmet-season-fold-shop-bottom-master-parrot-chimney-paddle
+bip_39_word_dash_11: genuine-helmet-season-fold-shop-bottom-master-parrot-chimney-paddle-aware
+bip_39_word_dash_2: genuine-helmet
+bip_39_word_dash_3: genuine-helmet-season
+bip_39_word_dash_4: genuine-helmet-season-fold
+bip_39_word_dash_5: genuine-helmet-season-fold-shop
+bip_39_word_dash_6: genuine-helmet-season-fold-shop-bottom
+bip_39_word_dash_7: genuine-helmet-season-fold-shop-bottom-master
+bip_39_word_dash_8: genuine-helmet-season-fold-shop-bottom-master-parrot
+bip_39_word_dash_9: genuine-helmet-season-fold-shop-bottom-master-parrot-chimney
 bip_39_word_new_br_1: genuine
 bip_39_word_new_br_10: genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master<br>parrot<br>chimney<br>paddle
 bip_39_word_new_br_11: genuine<br>helmet<br>season<br>fold<br>shop<br>bottom<br>master<br>parrot<br>chimney<br>paddle<br>aware
@@ -166,6 +177,17 @@ bip_39_word_space_6: genuine helmet season fold shop bottom
 bip_39_word_space_7: genuine helmet season fold shop bottom master
 bip_39_word_space_8: genuine helmet season fold shop bottom master parrot
 bip_39_word_space_9: genuine helmet season fold shop bottom master parrot chimney
+bip_39_word_underscore_1: genuine
+bip_39_word_underscore_10: genuine_helmet_season_fold_shop_bottom_master_parrot_chimney_paddle
+bip_39_word_underscore_11: genuine_helmet_season_fold_shop_bottom_master_parrot_chimney_paddle_aware
+bip_39_word_underscore_2: genuine_helmet
+bip_39_word_underscore_3: genuine_helmet_season
+bip_39_word_underscore_4: genuine_helmet_season_fold
+bip_39_word_underscore_5: genuine_helmet_season_fold_shop
+bip_39_word_underscore_6: genuine_helmet_season_fold_shop_bottom
+bip_39_word_underscore_7: genuine_helmet_season_fold_shop_bottom_master
+bip_39_word_underscore_8: genuine_helmet_season_fold_shop_bottom_master_parrot
+bip_39_word_underscore_9: genuine_helmet_season_fold_shop_bottom_master_parrot_chimney
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

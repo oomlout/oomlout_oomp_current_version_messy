@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fringe |  
+| bip_39_word_dash_10 | fringe-bulb-light-frost-margin-affair-thank-fancy-laundry-dynamic |  
+| bip_39_word_dash_11 | fringe-bulb-light-frost-margin-affair-thank-fancy-laundry-dynamic-menu |  
+| bip_39_word_dash_12 | fringe-bulb-light-frost-margin-affair-thank-fancy-laundry-dynamic-menu-achieve |  
+| bip_39_word_dash_2 | fringe-bulb |  
+| bip_39_word_dash_3 | fringe-bulb-light |  
+| bip_39_word_dash_4 | fringe-bulb-light-frost |  
+| bip_39_word_dash_5 | fringe-bulb-light-frost-margin |  
+| bip_39_word_dash_6 | fringe-bulb-light-frost-margin-affair |  
+| bip_39_word_dash_7 | fringe-bulb-light-frost-margin-affair-thank |  
+| bip_39_word_dash_8 | fringe-bulb-light-frost-margin-affair-thank-fancy |  
+| bip_39_word_dash_9 | fringe-bulb-light-frost-margin-affair-thank-fancy-laundry |  
 | bip_39_word_new_br_1 | fringe |  
 | bip_39_word_new_br_10 | fringe<br>bulb<br>light<br>frost<br>margin<br>affair<br>thank<br>fancy<br>laundry<br>dynamic |  
 | bip_39_word_new_br_11 | fringe<br>bulb<br>light<br>frost<br>margin<br>affair<br>thank<br>fancy<br>laundry<br>dynamic<br>menu |  
@@ -147,6 +159,18 @@ laundry |
 | bip_39_word_space_7 | fringe bulb light frost margin affair thank |  
 | bip_39_word_space_8 | fringe bulb light frost margin affair thank fancy |  
 | bip_39_word_space_9 | fringe bulb light frost margin affair thank fancy laundry |  
+| bip_39_word_underscore_1 | fringe |  
+| bip_39_word_underscore_10 | fringe_bulb_light_frost_margin_affair_thank_fancy_laundry_dynamic |  
+| bip_39_word_underscore_11 | fringe_bulb_light_frost_margin_affair_thank_fancy_laundry_dynamic_menu |  
+| bip_39_word_underscore_12 | fringe_bulb_light_frost_margin_affair_thank_fancy_laundry_dynamic_menu_achieve |  
+| bip_39_word_underscore_2 | fringe_bulb |  
+| bip_39_word_underscore_3 | fringe_bulb_light |  
+| bip_39_word_underscore_4 | fringe_bulb_light_frost |  
+| bip_39_word_underscore_5 | fringe_bulb_light_frost_margin |  
+| bip_39_word_underscore_6 | fringe_bulb_light_frost_margin_affair |  
+| bip_39_word_underscore_7 | fringe_bulb_light_frost_margin_affair_thank |  
+| bip_39_word_underscore_8 | fringe_bulb_light_frost_margin_affair_thank_fancy |  
+| bip_39_word_underscore_9 | fringe_bulb_light_frost_margin_affair_thank_fancy_laundry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

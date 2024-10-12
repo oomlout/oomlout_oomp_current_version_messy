@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | warfare |  
+| bip_39_word_dash_10 | warfare-script-baby-negative-cancel-supply-giraffe-file-plunge-avocado |  
+| bip_39_word_dash_11 | warfare-script-baby-negative-cancel-supply-giraffe-file-plunge-avocado-throw |  
+| bip_39_word_dash_12 | warfare-script-baby-negative-cancel-supply-giraffe-file-plunge-avocado-throw-any |  
+| bip_39_word_dash_2 | warfare-script |  
+| bip_39_word_dash_3 | warfare-script-baby |  
+| bip_39_word_dash_4 | warfare-script-baby-negative |  
+| bip_39_word_dash_5 | warfare-script-baby-negative-cancel |  
+| bip_39_word_dash_6 | warfare-script-baby-negative-cancel-supply |  
+| bip_39_word_dash_7 | warfare-script-baby-negative-cancel-supply-giraffe |  
+| bip_39_word_dash_8 | warfare-script-baby-negative-cancel-supply-giraffe-file |  
+| bip_39_word_dash_9 | warfare-script-baby-negative-cancel-supply-giraffe-file-plunge |  
 | bip_39_word_new_br_1 | warfare |  
 | bip_39_word_new_br_10 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file<br>plunge<br>avocado |  
 | bip_39_word_new_br_11 | warfare<br>script<br>baby<br>negative<br>cancel<br>supply<br>giraffe<br>file<br>plunge<br>avocado<br>throw |  
@@ -147,6 +159,18 @@ plunge |
 | bip_39_word_space_7 | warfare script baby negative cancel supply giraffe |  
 | bip_39_word_space_8 | warfare script baby negative cancel supply giraffe file |  
 | bip_39_word_space_9 | warfare script baby negative cancel supply giraffe file plunge |  
+| bip_39_word_underscore_1 | warfare |  
+| bip_39_word_underscore_10 | warfare_script_baby_negative_cancel_supply_giraffe_file_plunge_avocado |  
+| bip_39_word_underscore_11 | warfare_script_baby_negative_cancel_supply_giraffe_file_plunge_avocado_throw |  
+| bip_39_word_underscore_12 | warfare_script_baby_negative_cancel_supply_giraffe_file_plunge_avocado_throw_any |  
+| bip_39_word_underscore_2 | warfare_script |  
+| bip_39_word_underscore_3 | warfare_script_baby |  
+| bip_39_word_underscore_4 | warfare_script_baby_negative |  
+| bip_39_word_underscore_5 | warfare_script_baby_negative_cancel |  
+| bip_39_word_underscore_6 | warfare_script_baby_negative_cancel_supply |  
+| bip_39_word_underscore_7 | warfare_script_baby_negative_cancel_supply_giraffe |  
+| bip_39_word_underscore_8 | warfare_script_baby_negative_cancel_supply_giraffe_file |  
+| bip_39_word_underscore_9 | warfare_script_baby_negative_cancel_supply_giraffe_file_plunge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

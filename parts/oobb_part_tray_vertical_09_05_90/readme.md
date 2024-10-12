@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tobacco |  
+| bip_39_word_dash_10 | tobacco-orchard-charge-surge-churn-liar-skirt-transfer-glass-mom |  
+| bip_39_word_dash_11 | tobacco-orchard-charge-surge-churn-liar-skirt-transfer-glass-mom-fashion |  
+| bip_39_word_dash_12 | tobacco-orchard-charge-surge-churn-liar-skirt-transfer-glass-mom-fashion-attend |  
+| bip_39_word_dash_2 | tobacco-orchard |  
+| bip_39_word_dash_3 | tobacco-orchard-charge |  
+| bip_39_word_dash_4 | tobacco-orchard-charge-surge |  
+| bip_39_word_dash_5 | tobacco-orchard-charge-surge-churn |  
+| bip_39_word_dash_6 | tobacco-orchard-charge-surge-churn-liar |  
+| bip_39_word_dash_7 | tobacco-orchard-charge-surge-churn-liar-skirt |  
+| bip_39_word_dash_8 | tobacco-orchard-charge-surge-churn-liar-skirt-transfer |  
+| bip_39_word_dash_9 | tobacco-orchard-charge-surge-churn-liar-skirt-transfer-glass |  
 | bip_39_word_new_br_1 | tobacco |  
 | bip_39_word_new_br_10 | tobacco<br>orchard<br>charge<br>surge<br>churn<br>liar<br>skirt<br>transfer<br>glass<br>mom |  
 | bip_39_word_new_br_11 | tobacco<br>orchard<br>charge<br>surge<br>churn<br>liar<br>skirt<br>transfer<br>glass<br>mom<br>fashion |  
@@ -147,6 +159,18 @@ glass |
 | bip_39_word_space_7 | tobacco orchard charge surge churn liar skirt |  
 | bip_39_word_space_8 | tobacco orchard charge surge churn liar skirt transfer |  
 | bip_39_word_space_9 | tobacco orchard charge surge churn liar skirt transfer glass |  
+| bip_39_word_underscore_1 | tobacco |  
+| bip_39_word_underscore_10 | tobacco_orchard_charge_surge_churn_liar_skirt_transfer_glass_mom |  
+| bip_39_word_underscore_11 | tobacco_orchard_charge_surge_churn_liar_skirt_transfer_glass_mom_fashion |  
+| bip_39_word_underscore_12 | tobacco_orchard_charge_surge_churn_liar_skirt_transfer_glass_mom_fashion_attend |  
+| bip_39_word_underscore_2 | tobacco_orchard |  
+| bip_39_word_underscore_3 | tobacco_orchard_charge |  
+| bip_39_word_underscore_4 | tobacco_orchard_charge_surge |  
+| bip_39_word_underscore_5 | tobacco_orchard_charge_surge_churn |  
+| bip_39_word_underscore_6 | tobacco_orchard_charge_surge_churn_liar |  
+| bip_39_word_underscore_7 | tobacco_orchard_charge_surge_churn_liar_skirt |  
+| bip_39_word_underscore_8 | tobacco_orchard_charge_surge_churn_liar_skirt_transfer |  
+| bip_39_word_underscore_9 | tobacco_orchard_charge_surge_churn_liar_skirt_transfer_glass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

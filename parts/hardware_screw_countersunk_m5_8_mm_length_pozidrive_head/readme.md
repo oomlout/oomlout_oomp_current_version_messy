@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lady |  
+| bip_39_word_dash_10 | lady-away-three-mirror-miss-sell-flash-seek-heavy-subject |  
+| bip_39_word_dash_11 | lady-away-three-mirror-miss-sell-flash-seek-heavy-subject-voyage |  
+| bip_39_word_dash_12 | lady-away-three-mirror-miss-sell-flash-seek-heavy-subject-voyage-amazing |  
+| bip_39_word_dash_2 | lady-away |  
+| bip_39_word_dash_3 | lady-away-three |  
+| bip_39_word_dash_4 | lady-away-three-mirror |  
+| bip_39_word_dash_5 | lady-away-three-mirror-miss |  
+| bip_39_word_dash_6 | lady-away-three-mirror-miss-sell |  
+| bip_39_word_dash_7 | lady-away-three-mirror-miss-sell-flash |  
+| bip_39_word_dash_8 | lady-away-three-mirror-miss-sell-flash-seek |  
+| bip_39_word_dash_9 | lady-away-three-mirror-miss-sell-flash-seek-heavy |  
 | bip_39_word_new_br_1 | lady |  
 | bip_39_word_new_br_10 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject |  
 | bip_39_word_new_br_11 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject<br>voyage |  
@@ -147,6 +159,18 @@ heavy |
 | bip_39_word_space_7 | lady away three mirror miss sell flash |  
 | bip_39_word_space_8 | lady away three mirror miss sell flash seek |  
 | bip_39_word_space_9 | lady away three mirror miss sell flash seek heavy |  
+| bip_39_word_underscore_1 | lady |  
+| bip_39_word_underscore_10 | lady_away_three_mirror_miss_sell_flash_seek_heavy_subject |  
+| bip_39_word_underscore_11 | lady_away_three_mirror_miss_sell_flash_seek_heavy_subject_voyage |  
+| bip_39_word_underscore_12 | lady_away_three_mirror_miss_sell_flash_seek_heavy_subject_voyage_amazing |  
+| bip_39_word_underscore_2 | lady_away |  
+| bip_39_word_underscore_3 | lady_away_three |  
+| bip_39_word_underscore_4 | lady_away_three_mirror |  
+| bip_39_word_underscore_5 | lady_away_three_mirror_miss |  
+| bip_39_word_underscore_6 | lady_away_three_mirror_miss_sell |  
+| bip_39_word_underscore_7 | lady_away_three_mirror_miss_sell_flash |  
+| bip_39_word_underscore_8 | lady_away_three_mirror_miss_sell_flash_seek |  
+| bip_39_word_underscore_9 | lady_away_three_mirror_miss_sell_flash_seek_heavy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: file
+bip_39_word_dash_10: file-zero-label-blast-rain-mail-picture-distance-midnight-outer
+bip_39_word_dash_11: file-zero-label-blast-rain-mail-picture-distance-midnight-outer-engage
+bip_39_word_dash_12: file-zero-label-blast-rain-mail-picture-distance-midnight-outer-engage-arrive
+bip_39_word_dash_2: file-zero
+bip_39_word_dash_3: file-zero-label
+bip_39_word_dash_4: file-zero-label-blast
+bip_39_word_dash_5: file-zero-label-blast-rain
+bip_39_word_dash_6: file-zero-label-blast-rain-mail
+bip_39_word_dash_7: file-zero-label-blast-rain-mail-picture
+bip_39_word_dash_8: file-zero-label-blast-rain-mail-picture-distance
+bip_39_word_dash_9: file-zero-label-blast-rain-mail-picture-distance-midnight
 bip_39_word_new_br_1: file
 bip_39_word_new_br_10: file<br>zero<br>label<br>blast<br>rain<br>mail<br>picture<br>distance<br>midnight<br>outer
 bip_39_word_new_br_11: file<br>zero<br>label<br>blast<br>rain<br>mail<br>picture<br>distance<br>midnight<br>outer<br>engage
@@ -193,6 +205,18 @@ bip_39_word_space_6: file zero label blast rain mail
 bip_39_word_space_7: file zero label blast rain mail picture
 bip_39_word_space_8: file zero label blast rain mail picture distance
 bip_39_word_space_9: file zero label blast rain mail picture distance midnight
+bip_39_word_underscore_1: file
+bip_39_word_underscore_10: file_zero_label_blast_rain_mail_picture_distance_midnight_outer
+bip_39_word_underscore_11: file_zero_label_blast_rain_mail_picture_distance_midnight_outer_engage
+bip_39_word_underscore_12: file_zero_label_blast_rain_mail_picture_distance_midnight_outer_engage_arrive
+bip_39_word_underscore_2: file_zero
+bip_39_word_underscore_3: file_zero_label
+bip_39_word_underscore_4: file_zero_label_blast
+bip_39_word_underscore_5: file_zero_label_blast_rain
+bip_39_word_underscore_6: file_zero_label_blast_rain_mail
+bip_39_word_underscore_7: file_zero_label_blast_rain_mail_picture
+bip_39_word_underscore_8: file_zero_label_blast_rain_mail_picture_distance
+bip_39_word_underscore_9: file_zero_label_blast_rain_mail_picture_distance_midnight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

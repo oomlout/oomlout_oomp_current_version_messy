@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ski
+bip_39_word_dash_10: ski-swim-license-lock-region-digital-very-riot-surround-unable
+bip_39_word_dash_11: ski-swim-license-lock-region-digital-very-riot-surround-unable-fly
+bip_39_word_dash_12: ski-swim-license-lock-region-digital-very-riot-surround-unable-fly-aunt
+bip_39_word_dash_2: ski-swim
+bip_39_word_dash_3: ski-swim-license
+bip_39_word_dash_4: ski-swim-license-lock
+bip_39_word_dash_5: ski-swim-license-lock-region
+bip_39_word_dash_6: ski-swim-license-lock-region-digital
+bip_39_word_dash_7: ski-swim-license-lock-region-digital-very
+bip_39_word_dash_8: ski-swim-license-lock-region-digital-very-riot
+bip_39_word_dash_9: ski-swim-license-lock-region-digital-very-riot-surround
 bip_39_word_new_br_1: ski
 bip_39_word_new_br_10: ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable
 bip_39_word_new_br_11: ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable<br>fly
@@ -193,6 +205,18 @@ bip_39_word_space_6: ski swim license lock region digital
 bip_39_word_space_7: ski swim license lock region digital very
 bip_39_word_space_8: ski swim license lock region digital very riot
 bip_39_word_space_9: ski swim license lock region digital very riot surround
+bip_39_word_underscore_1: ski
+bip_39_word_underscore_10: ski_swim_license_lock_region_digital_very_riot_surround_unable
+bip_39_word_underscore_11: ski_swim_license_lock_region_digital_very_riot_surround_unable_fly
+bip_39_word_underscore_12: ski_swim_license_lock_region_digital_very_riot_surround_unable_fly_aunt
+bip_39_word_underscore_2: ski_swim
+bip_39_word_underscore_3: ski_swim_license
+bip_39_word_underscore_4: ski_swim_license_lock
+bip_39_word_underscore_5: ski_swim_license_lock_region
+bip_39_word_underscore_6: ski_swim_license_lock_region_digital
+bip_39_word_underscore_7: ski_swim_license_lock_region_digital_very
+bip_39_word_underscore_8: ski_swim_license_lock_region_digital_very_riot
+bip_39_word_underscore_9: ski_swim_license_lock_region_digital_very_riot_surround
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

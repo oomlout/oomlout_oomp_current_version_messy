@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crime |  
+| bip_39_word_dash_10 | crime-wedding-satisfy-wisdom-fatigue-injury-twice-number-shoe-tired |  
+| bip_39_word_dash_11 | crime-wedding-satisfy-wisdom-fatigue-injury-twice-number-shoe-tired-know |  
+| bip_39_word_dash_12 | crime-wedding-satisfy-wisdom-fatigue-injury-twice-number-shoe-tired-know-armor |  
+| bip_39_word_dash_2 | crime-wedding |  
+| bip_39_word_dash_3 | crime-wedding-satisfy |  
+| bip_39_word_dash_4 | crime-wedding-satisfy-wisdom |  
+| bip_39_word_dash_5 | crime-wedding-satisfy-wisdom-fatigue |  
+| bip_39_word_dash_6 | crime-wedding-satisfy-wisdom-fatigue-injury |  
+| bip_39_word_dash_7 | crime-wedding-satisfy-wisdom-fatigue-injury-twice |  
+| bip_39_word_dash_8 | crime-wedding-satisfy-wisdom-fatigue-injury-twice-number |  
+| bip_39_word_dash_9 | crime-wedding-satisfy-wisdom-fatigue-injury-twice-number-shoe |  
 | bip_39_word_new_br_1 | crime |  
 | bip_39_word_new_br_10 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number<br>shoe<br>tired |  
 | bip_39_word_new_br_11 | crime<br>wedding<br>satisfy<br>wisdom<br>fatigue<br>injury<br>twice<br>number<br>shoe<br>tired<br>know |  
@@ -147,6 +159,18 @@ shoe |
 | bip_39_word_space_7 | crime wedding satisfy wisdom fatigue injury twice |  
 | bip_39_word_space_8 | crime wedding satisfy wisdom fatigue injury twice number |  
 | bip_39_word_space_9 | crime wedding satisfy wisdom fatigue injury twice number shoe |  
+| bip_39_word_underscore_1 | crime |  
+| bip_39_word_underscore_10 | crime_wedding_satisfy_wisdom_fatigue_injury_twice_number_shoe_tired |  
+| bip_39_word_underscore_11 | crime_wedding_satisfy_wisdom_fatigue_injury_twice_number_shoe_tired_know |  
+| bip_39_word_underscore_12 | crime_wedding_satisfy_wisdom_fatigue_injury_twice_number_shoe_tired_know_armor |  
+| bip_39_word_underscore_2 | crime_wedding |  
+| bip_39_word_underscore_3 | crime_wedding_satisfy |  
+| bip_39_word_underscore_4 | crime_wedding_satisfy_wisdom |  
+| bip_39_word_underscore_5 | crime_wedding_satisfy_wisdom_fatigue |  
+| bip_39_word_underscore_6 | crime_wedding_satisfy_wisdom_fatigue_injury |  
+| bip_39_word_underscore_7 | crime_wedding_satisfy_wisdom_fatigue_injury_twice |  
+| bip_39_word_underscore_8 | crime_wedding_satisfy_wisdom_fatigue_injury_twice_number |  
+| bip_39_word_underscore_9 | crime_wedding_satisfy_wisdom_fatigue_injury_twice_number_shoe |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

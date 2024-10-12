@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wasp |  
+| bip_39_word_dash_10 | wasp-frequent-idle-diet-sea-wait-ring-swamp-size-hint |  
+| bip_39_word_dash_11 | wasp-frequent-idle-diet-sea-wait-ring-swamp-size-hint-pole |  
+| bip_39_word_dash_12 | wasp-frequent-idle-diet-sea-wait-ring-swamp-size-hint-pole-army |  
+| bip_39_word_dash_2 | wasp-frequent |  
+| bip_39_word_dash_3 | wasp-frequent-idle |  
+| bip_39_word_dash_4 | wasp-frequent-idle-diet |  
+| bip_39_word_dash_5 | wasp-frequent-idle-diet-sea |  
+| bip_39_word_dash_6 | wasp-frequent-idle-diet-sea-wait |  
+| bip_39_word_dash_7 | wasp-frequent-idle-diet-sea-wait-ring |  
+| bip_39_word_dash_8 | wasp-frequent-idle-diet-sea-wait-ring-swamp |  
+| bip_39_word_dash_9 | wasp-frequent-idle-diet-sea-wait-ring-swamp-size |  
 | bip_39_word_new_br_1 | wasp |  
 | bip_39_word_new_br_10 | wasp<br>frequent<br>idle<br>diet<br>sea<br>wait<br>ring<br>swamp<br>size<br>hint |  
 | bip_39_word_new_br_11 | wasp<br>frequent<br>idle<br>diet<br>sea<br>wait<br>ring<br>swamp<br>size<br>hint<br>pole |  
@@ -147,6 +159,18 @@ size |
 | bip_39_word_space_7 | wasp frequent idle diet sea wait ring |  
 | bip_39_word_space_8 | wasp frequent idle diet sea wait ring swamp |  
 | bip_39_word_space_9 | wasp frequent idle diet sea wait ring swamp size |  
+| bip_39_word_underscore_1 | wasp |  
+| bip_39_word_underscore_10 | wasp_frequent_idle_diet_sea_wait_ring_swamp_size_hint |  
+| bip_39_word_underscore_11 | wasp_frequent_idle_diet_sea_wait_ring_swamp_size_hint_pole |  
+| bip_39_word_underscore_12 | wasp_frequent_idle_diet_sea_wait_ring_swamp_size_hint_pole_army |  
+| bip_39_word_underscore_2 | wasp_frequent |  
+| bip_39_word_underscore_3 | wasp_frequent_idle |  
+| bip_39_word_underscore_4 | wasp_frequent_idle_diet |  
+| bip_39_word_underscore_5 | wasp_frequent_idle_diet_sea |  
+| bip_39_word_underscore_6 | wasp_frequent_idle_diet_sea_wait |  
+| bip_39_word_underscore_7 | wasp_frequent_idle_diet_sea_wait_ring |  
+| bip_39_word_underscore_8 | wasp_frequent_idle_diet_sea_wait_ring_swamp |  
+| bip_39_word_underscore_9 | wasp_frequent_idle_diet_sea_wait_ring_swamp_size |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

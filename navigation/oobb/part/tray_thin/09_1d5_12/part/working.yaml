@@ -1,3 +1,15 @@
+bip_39_word_dash_1: version
+bip_39_word_dash_10: version-unlock-early-service-wheat-rice-proof-humble-disease-monkey
+bip_39_word_dash_11: version-unlock-early-service-wheat-rice-proof-humble-disease-monkey-cry
+bip_39_word_dash_12: version-unlock-early-service-wheat-rice-proof-humble-disease-monkey-cry-attract
+bip_39_word_dash_2: version-unlock
+bip_39_word_dash_3: version-unlock-early
+bip_39_word_dash_4: version-unlock-early-service
+bip_39_word_dash_5: version-unlock-early-service-wheat
+bip_39_word_dash_6: version-unlock-early-service-wheat-rice
+bip_39_word_dash_7: version-unlock-early-service-wheat-rice-proof
+bip_39_word_dash_8: version-unlock-early-service-wheat-rice-proof-humble
+bip_39_word_dash_9: version-unlock-early-service-wheat-rice-proof-humble-disease
 bip_39_word_new_br_1: version
 bip_39_word_new_br_10: version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble<br>disease<br>monkey
 bip_39_word_new_br_11: version<br>unlock<br>early<br>service<br>wheat<br>rice<br>proof<br>humble<br>disease<br>monkey<br>cry
@@ -194,6 +206,18 @@ bip_39_word_space_6: version unlock early service wheat rice
 bip_39_word_space_7: version unlock early service wheat rice proof
 bip_39_word_space_8: version unlock early service wheat rice proof humble
 bip_39_word_space_9: version unlock early service wheat rice proof humble disease
+bip_39_word_underscore_1: version
+bip_39_word_underscore_10: version_unlock_early_service_wheat_rice_proof_humble_disease_monkey
+bip_39_word_underscore_11: version_unlock_early_service_wheat_rice_proof_humble_disease_monkey_cry
+bip_39_word_underscore_12: version_unlock_early_service_wheat_rice_proof_humble_disease_monkey_cry_attract
+bip_39_word_underscore_2: version_unlock
+bip_39_word_underscore_3: version_unlock_early
+bip_39_word_underscore_4: version_unlock_early_service
+bip_39_word_underscore_5: version_unlock_early_service_wheat
+bip_39_word_underscore_6: version_unlock_early_service_wheat_rice
+bip_39_word_underscore_7: version_unlock_early_service_wheat_rice_proof
+bip_39_word_underscore_8: version_unlock_early_service_wheat_rice_proof_humble
+bip_39_word_underscore_9: version_unlock_early_service_wheat_rice_proof_humble_disease
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

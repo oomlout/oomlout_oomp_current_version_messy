@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decrease |  
+| bip_39_word_dash_10 | decrease-shrug-tourist-party-rain-poverty-unhappy-parade-link-afraid |  
+| bip_39_word_dash_11 | decrease-shrug-tourist-party-rain-poverty-unhappy-parade-link-afraid-clock |  
+| bip_39_word_dash_12 | decrease-shrug-tourist-party-rain-poverty-unhappy-parade-link-afraid-clock-arena |  
+| bip_39_word_dash_2 | decrease-shrug |  
+| bip_39_word_dash_3 | decrease-shrug-tourist |  
+| bip_39_word_dash_4 | decrease-shrug-tourist-party |  
+| bip_39_word_dash_5 | decrease-shrug-tourist-party-rain |  
+| bip_39_word_dash_6 | decrease-shrug-tourist-party-rain-poverty |  
+| bip_39_word_dash_7 | decrease-shrug-tourist-party-rain-poverty-unhappy |  
+| bip_39_word_dash_8 | decrease-shrug-tourist-party-rain-poverty-unhappy-parade |  
+| bip_39_word_dash_9 | decrease-shrug-tourist-party-rain-poverty-unhappy-parade-link |  
 | bip_39_word_new_br_1 | decrease |  
 | bip_39_word_new_br_10 | decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade<br>link<br>afraid |  
 | bip_39_word_new_br_11 | decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade<br>link<br>afraid<br>clock |  
@@ -147,6 +159,18 @@ link |
 | bip_39_word_space_7 | decrease shrug tourist party rain poverty unhappy |  
 | bip_39_word_space_8 | decrease shrug tourist party rain poverty unhappy parade |  
 | bip_39_word_space_9 | decrease shrug tourist party rain poverty unhappy parade link |  
+| bip_39_word_underscore_1 | decrease |  
+| bip_39_word_underscore_10 | decrease_shrug_tourist_party_rain_poverty_unhappy_parade_link_afraid |  
+| bip_39_word_underscore_11 | decrease_shrug_tourist_party_rain_poverty_unhappy_parade_link_afraid_clock |  
+| bip_39_word_underscore_12 | decrease_shrug_tourist_party_rain_poverty_unhappy_parade_link_afraid_clock_arena |  
+| bip_39_word_underscore_2 | decrease_shrug |  
+| bip_39_word_underscore_3 | decrease_shrug_tourist |  
+| bip_39_word_underscore_4 | decrease_shrug_tourist_party |  
+| bip_39_word_underscore_5 | decrease_shrug_tourist_party_rain |  
+| bip_39_word_underscore_6 | decrease_shrug_tourist_party_rain_poverty |  
+| bip_39_word_underscore_7 | decrease_shrug_tourist_party_rain_poverty_unhappy |  
+| bip_39_word_underscore_8 | decrease_shrug_tourist_party_rain_poverty_unhappy_parade |  
+| bip_39_word_underscore_9 | decrease_shrug_tourist_party_rain_poverty_unhappy_parade_link |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

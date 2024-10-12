@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | action |  
+| bip_39_word_dash_10 | action-face-toward-soft-scissors-company-upgrade-trend-outer-sight |  
+| bip_39_word_dash_11 | action-face-toward-soft-scissors-company-upgrade-trend-outer-sight-wonder |  
+| bip_39_word_dash_12 | action-face-toward-soft-scissors-company-upgrade-trend-outer-sight-wonder-ask |  
+| bip_39_word_dash_2 | action-face |  
+| bip_39_word_dash_3 | action-face-toward |  
+| bip_39_word_dash_4 | action-face-toward-soft |  
+| bip_39_word_dash_5 | action-face-toward-soft-scissors |  
+| bip_39_word_dash_6 | action-face-toward-soft-scissors-company |  
+| bip_39_word_dash_7 | action-face-toward-soft-scissors-company-upgrade |  
+| bip_39_word_dash_8 | action-face-toward-soft-scissors-company-upgrade-trend |  
+| bip_39_word_dash_9 | action-face-toward-soft-scissors-company-upgrade-trend-outer |  
 | bip_39_word_new_br_1 | action |  
 | bip_39_word_new_br_10 | action<br>face<br>toward<br>soft<br>scissors<br>company<br>upgrade<br>trend<br>outer<br>sight |  
 | bip_39_word_new_br_11 | action<br>face<br>toward<br>soft<br>scissors<br>company<br>upgrade<br>trend<br>outer<br>sight<br>wonder |  
@@ -147,6 +159,18 @@ outer |
 | bip_39_word_space_7 | action face toward soft scissors company upgrade |  
 | bip_39_word_space_8 | action face toward soft scissors company upgrade trend |  
 | bip_39_word_space_9 | action face toward soft scissors company upgrade trend outer |  
+| bip_39_word_underscore_1 | action |  
+| bip_39_word_underscore_10 | action_face_toward_soft_scissors_company_upgrade_trend_outer_sight |  
+| bip_39_word_underscore_11 | action_face_toward_soft_scissors_company_upgrade_trend_outer_sight_wonder |  
+| bip_39_word_underscore_12 | action_face_toward_soft_scissors_company_upgrade_trend_outer_sight_wonder_ask |  
+| bip_39_word_underscore_2 | action_face |  
+| bip_39_word_underscore_3 | action_face_toward |  
+| bip_39_word_underscore_4 | action_face_toward_soft |  
+| bip_39_word_underscore_5 | action_face_toward_soft_scissors |  
+| bip_39_word_underscore_6 | action_face_toward_soft_scissors_company |  
+| bip_39_word_underscore_7 | action_face_toward_soft_scissors_company_upgrade |  
+| bip_39_word_underscore_8 | action_face_toward_soft_scissors_company_upgrade_trend |  
+| bip_39_word_underscore_9 | action_face_toward_soft_scissors_company_upgrade_trend_outer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

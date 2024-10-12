@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bachelor
+bip_39_word_dash_10: bachelor-tennis-lounge-eyebrow-sad-rabbit-vacuum-pull-fun-key
+bip_39_word_dash_11: bachelor-tennis-lounge-eyebrow-sad-rabbit-vacuum-pull-fun-key-chase
+bip_39_word_dash_12: bachelor-tennis-lounge-eyebrow-sad-rabbit-vacuum-pull-fun-key-chase-aisle
+bip_39_word_dash_2: bachelor-tennis
+bip_39_word_dash_3: bachelor-tennis-lounge
+bip_39_word_dash_4: bachelor-tennis-lounge-eyebrow
+bip_39_word_dash_5: bachelor-tennis-lounge-eyebrow-sad
+bip_39_word_dash_6: bachelor-tennis-lounge-eyebrow-sad-rabbit
+bip_39_word_dash_7: bachelor-tennis-lounge-eyebrow-sad-rabbit-vacuum
+bip_39_word_dash_8: bachelor-tennis-lounge-eyebrow-sad-rabbit-vacuum-pull
+bip_39_word_dash_9: bachelor-tennis-lounge-eyebrow-sad-rabbit-vacuum-pull-fun
 bip_39_word_new_br_1: bachelor
 bip_39_word_new_br_10: bachelor<br>tennis<br>lounge<br>eyebrow<br>sad<br>rabbit<br>vacuum<br>pull<br>fun<br>key
 bip_39_word_new_br_11: bachelor<br>tennis<br>lounge<br>eyebrow<br>sad<br>rabbit<br>vacuum<br>pull<br>fun<br>key<br>chase
@@ -193,6 +205,18 @@ bip_39_word_space_6: bachelor tennis lounge eyebrow sad rabbit
 bip_39_word_space_7: bachelor tennis lounge eyebrow sad rabbit vacuum
 bip_39_word_space_8: bachelor tennis lounge eyebrow sad rabbit vacuum pull
 bip_39_word_space_9: bachelor tennis lounge eyebrow sad rabbit vacuum pull fun
+bip_39_word_underscore_1: bachelor
+bip_39_word_underscore_10: bachelor_tennis_lounge_eyebrow_sad_rabbit_vacuum_pull_fun_key
+bip_39_word_underscore_11: bachelor_tennis_lounge_eyebrow_sad_rabbit_vacuum_pull_fun_key_chase
+bip_39_word_underscore_12: bachelor_tennis_lounge_eyebrow_sad_rabbit_vacuum_pull_fun_key_chase_aisle
+bip_39_word_underscore_2: bachelor_tennis
+bip_39_word_underscore_3: bachelor_tennis_lounge
+bip_39_word_underscore_4: bachelor_tennis_lounge_eyebrow
+bip_39_word_underscore_5: bachelor_tennis_lounge_eyebrow_sad
+bip_39_word_underscore_6: bachelor_tennis_lounge_eyebrow_sad_rabbit
+bip_39_word_underscore_7: bachelor_tennis_lounge_eyebrow_sad_rabbit_vacuum
+bip_39_word_underscore_8: bachelor_tennis_lounge_eyebrow_sad_rabbit_vacuum_pull
+bip_39_word_underscore_9: bachelor_tennis_lounge_eyebrow_sad_rabbit_vacuum_pull_fun
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

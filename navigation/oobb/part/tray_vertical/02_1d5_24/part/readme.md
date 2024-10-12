@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boss |  
+| bip_39_word_dash_10 | boss-question-pride-crush-swamp-tribe-certain-sausage-theme-edit |  
+| bip_39_word_dash_11 | boss-question-pride-crush-swamp-tribe-certain-sausage-theme-edit-involve |  
+| bip_39_word_dash_12 | boss-question-pride-crush-swamp-tribe-certain-sausage-theme-edit-involve-aisle |  
+| bip_39_word_dash_2 | boss-question |  
+| bip_39_word_dash_3 | boss-question-pride |  
+| bip_39_word_dash_4 | boss-question-pride-crush |  
+| bip_39_word_dash_5 | boss-question-pride-crush-swamp |  
+| bip_39_word_dash_6 | boss-question-pride-crush-swamp-tribe |  
+| bip_39_word_dash_7 | boss-question-pride-crush-swamp-tribe-certain |  
+| bip_39_word_dash_8 | boss-question-pride-crush-swamp-tribe-certain-sausage |  
+| bip_39_word_dash_9 | boss-question-pride-crush-swamp-tribe-certain-sausage-theme |  
 | bip_39_word_new_br_1 | boss |  
 | bip_39_word_new_br_10 | boss<br>question<br>pride<br>crush<br>swamp<br>tribe<br>certain<br>sausage<br>theme<br>edit |  
 | bip_39_word_new_br_11 | boss<br>question<br>pride<br>crush<br>swamp<br>tribe<br>certain<br>sausage<br>theme<br>edit<br>involve |  
@@ -147,6 +159,18 @@ theme |
 | bip_39_word_space_7 | boss question pride crush swamp tribe certain |  
 | bip_39_word_space_8 | boss question pride crush swamp tribe certain sausage |  
 | bip_39_word_space_9 | boss question pride crush swamp tribe certain sausage theme |  
+| bip_39_word_underscore_1 | boss |  
+| bip_39_word_underscore_10 | boss_question_pride_crush_swamp_tribe_certain_sausage_theme_edit |  
+| bip_39_word_underscore_11 | boss_question_pride_crush_swamp_tribe_certain_sausage_theme_edit_involve |  
+| bip_39_word_underscore_12 | boss_question_pride_crush_swamp_tribe_certain_sausage_theme_edit_involve_aisle |  
+| bip_39_word_underscore_2 | boss_question |  
+| bip_39_word_underscore_3 | boss_question_pride |  
+| bip_39_word_underscore_4 | boss_question_pride_crush |  
+| bip_39_word_underscore_5 | boss_question_pride_crush_swamp |  
+| bip_39_word_underscore_6 | boss_question_pride_crush_swamp_tribe |  
+| bip_39_word_underscore_7 | boss_question_pride_crush_swamp_tribe_certain |  
+| bip_39_word_underscore_8 | boss_question_pride_crush_swamp_tribe_certain_sausage |  
+| bip_39_word_underscore_9 | boss_question_pride_crush_swamp_tribe_certain_sausage_theme |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

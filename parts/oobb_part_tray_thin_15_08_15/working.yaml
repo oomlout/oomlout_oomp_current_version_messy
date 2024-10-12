@@ -1,3 +1,15 @@
+bip_39_word_dash_1: people
+bip_39_word_dash_10: people-fitness-snow-light-ginger-dinosaur-section-memory-kid-blue
+bip_39_word_dash_11: people-fitness-snow-light-ginger-dinosaur-section-memory-kid-blue-shrug
+bip_39_word_dash_12: people-fitness-snow-light-ginger-dinosaur-section-memory-kid-blue-shrug-antenna
+bip_39_word_dash_2: people-fitness
+bip_39_word_dash_3: people-fitness-snow
+bip_39_word_dash_4: people-fitness-snow-light
+bip_39_word_dash_5: people-fitness-snow-light-ginger
+bip_39_word_dash_6: people-fitness-snow-light-ginger-dinosaur
+bip_39_word_dash_7: people-fitness-snow-light-ginger-dinosaur-section
+bip_39_word_dash_8: people-fitness-snow-light-ginger-dinosaur-section-memory
+bip_39_word_dash_9: people-fitness-snow-light-ginger-dinosaur-section-memory-kid
 bip_39_word_new_br_1: people
 bip_39_word_new_br_10: people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory<br>kid<br>blue
 bip_39_word_new_br_11: people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory<br>kid<br>blue<br>shrug
@@ -194,6 +206,18 @@ bip_39_word_space_6: people fitness snow light ginger dinosaur
 bip_39_word_space_7: people fitness snow light ginger dinosaur section
 bip_39_word_space_8: people fitness snow light ginger dinosaur section memory
 bip_39_word_space_9: people fitness snow light ginger dinosaur section memory kid
+bip_39_word_underscore_1: people
+bip_39_word_underscore_10: people_fitness_snow_light_ginger_dinosaur_section_memory_kid_blue
+bip_39_word_underscore_11: people_fitness_snow_light_ginger_dinosaur_section_memory_kid_blue_shrug
+bip_39_word_underscore_12: people_fitness_snow_light_ginger_dinosaur_section_memory_kid_blue_shrug_antenna
+bip_39_word_underscore_2: people_fitness
+bip_39_word_underscore_3: people_fitness_snow
+bip_39_word_underscore_4: people_fitness_snow_light
+bip_39_word_underscore_5: people_fitness_snow_light_ginger
+bip_39_word_underscore_6: people_fitness_snow_light_ginger_dinosaur
+bip_39_word_underscore_7: people_fitness_snow_light_ginger_dinosaur_section
+bip_39_word_underscore_8: people_fitness_snow_light_ginger_dinosaur_section_memory
+bip_39_word_underscore_9: people_fitness_snow_light_ginger_dinosaur_section_memory_kid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

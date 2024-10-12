@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | depart |  
+| bip_39_word_dash_10 | depart-ghost-velvet-hawk-pulp-toddler-bottom-cycle-crumble-voice |  
+| bip_39_word_dash_11 | depart-ghost-velvet-hawk-pulp-toddler-bottom-cycle-crumble-voice-slim |  
+| bip_39_word_dash_12 | depart-ghost-velvet-hawk-pulp-toddler-bottom-cycle-crumble-voice-slim-analyst |  
+| bip_39_word_dash_2 | depart-ghost |  
+| bip_39_word_dash_3 | depart-ghost-velvet |  
+| bip_39_word_dash_4 | depart-ghost-velvet-hawk |  
+| bip_39_word_dash_5 | depart-ghost-velvet-hawk-pulp |  
+| bip_39_word_dash_6 | depart-ghost-velvet-hawk-pulp-toddler |  
+| bip_39_word_dash_7 | depart-ghost-velvet-hawk-pulp-toddler-bottom |  
+| bip_39_word_dash_8 | depart-ghost-velvet-hawk-pulp-toddler-bottom-cycle |  
+| bip_39_word_dash_9 | depart-ghost-velvet-hawk-pulp-toddler-bottom-cycle-crumble |  
 | bip_39_word_new_br_1 | depart |  
 | bip_39_word_new_br_10 | depart<br>ghost<br>velvet<br>hawk<br>pulp<br>toddler<br>bottom<br>cycle<br>crumble<br>voice |  
 | bip_39_word_new_br_11 | depart<br>ghost<br>velvet<br>hawk<br>pulp<br>toddler<br>bottom<br>cycle<br>crumble<br>voice<br>slim |  
@@ -147,6 +159,18 @@ crumble |
 | bip_39_word_space_7 | depart ghost velvet hawk pulp toddler bottom |  
 | bip_39_word_space_8 | depart ghost velvet hawk pulp toddler bottom cycle |  
 | bip_39_word_space_9 | depart ghost velvet hawk pulp toddler bottom cycle crumble |  
+| bip_39_word_underscore_1 | depart |  
+| bip_39_word_underscore_10 | depart_ghost_velvet_hawk_pulp_toddler_bottom_cycle_crumble_voice |  
+| bip_39_word_underscore_11 | depart_ghost_velvet_hawk_pulp_toddler_bottom_cycle_crumble_voice_slim |  
+| bip_39_word_underscore_12 | depart_ghost_velvet_hawk_pulp_toddler_bottom_cycle_crumble_voice_slim_analyst |  
+| bip_39_word_underscore_2 | depart_ghost |  
+| bip_39_word_underscore_3 | depart_ghost_velvet |  
+| bip_39_word_underscore_4 | depart_ghost_velvet_hawk |  
+| bip_39_word_underscore_5 | depart_ghost_velvet_hawk_pulp |  
+| bip_39_word_underscore_6 | depart_ghost_velvet_hawk_pulp_toddler |  
+| bip_39_word_underscore_7 | depart_ghost_velvet_hawk_pulp_toddler_bottom |  
+| bip_39_word_underscore_8 | depart_ghost_velvet_hawk_pulp_toddler_bottom_cycle |  
+| bip_39_word_underscore_9 | depart_ghost_velvet_hawk_pulp_toddler_bottom_cycle_crumble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

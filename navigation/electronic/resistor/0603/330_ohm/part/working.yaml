@@ -1,3 +1,15 @@
+bip_39_word_dash_1: apart
+bip_39_word_dash_10: apart-ridge-melt-boost-pet-one-sing-faculty-clinic-exercise
+bip_39_word_dash_11: apart-ridge-melt-boost-pet-one-sing-faculty-clinic-exercise-fan
+bip_39_word_dash_12: apart-ridge-melt-boost-pet-one-sing-faculty-clinic-exercise-fan-alarm
+bip_39_word_dash_2: apart-ridge
+bip_39_word_dash_3: apart-ridge-melt
+bip_39_word_dash_4: apart-ridge-melt-boost
+bip_39_word_dash_5: apart-ridge-melt-boost-pet
+bip_39_word_dash_6: apart-ridge-melt-boost-pet-one
+bip_39_word_dash_7: apart-ridge-melt-boost-pet-one-sing
+bip_39_word_dash_8: apart-ridge-melt-boost-pet-one-sing-faculty
+bip_39_word_dash_9: apart-ridge-melt-boost-pet-one-sing-faculty-clinic
 bip_39_word_new_br_1: apart
 bip_39_word_new_br_10: apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty<br>clinic<br>exercise
 bip_39_word_new_br_11: apart<br>ridge<br>melt<br>boost<br>pet<br>one<br>sing<br>faculty<br>clinic<br>exercise<br>fan
@@ -193,6 +205,18 @@ bip_39_word_space_6: apart ridge melt boost pet one
 bip_39_word_space_7: apart ridge melt boost pet one sing
 bip_39_word_space_8: apart ridge melt boost pet one sing faculty
 bip_39_word_space_9: apart ridge melt boost pet one sing faculty clinic
+bip_39_word_underscore_1: apart
+bip_39_word_underscore_10: apart_ridge_melt_boost_pet_one_sing_faculty_clinic_exercise
+bip_39_word_underscore_11: apart_ridge_melt_boost_pet_one_sing_faculty_clinic_exercise_fan
+bip_39_word_underscore_12: apart_ridge_melt_boost_pet_one_sing_faculty_clinic_exercise_fan_alarm
+bip_39_word_underscore_2: apart_ridge
+bip_39_word_underscore_3: apart_ridge_melt
+bip_39_word_underscore_4: apart_ridge_melt_boost
+bip_39_word_underscore_5: apart_ridge_melt_boost_pet
+bip_39_word_underscore_6: apart_ridge_melt_boost_pet_one
+bip_39_word_underscore_7: apart_ridge_melt_boost_pet_one_sing
+bip_39_word_underscore_8: apart_ridge_melt_boost_pet_one_sing_faculty
+bip_39_word_underscore_9: apart_ridge_melt_boost_pet_one_sing_faculty_clinic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

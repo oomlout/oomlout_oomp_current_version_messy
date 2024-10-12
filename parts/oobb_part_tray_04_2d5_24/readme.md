@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | monster |  
+| bip_39_word_dash_10 | monster-bracket-oven-truth-faint-injury-festival-dolphin-private-plate |  
+| bip_39_word_dash_11 | monster-bracket-oven-truth-faint-injury-festival-dolphin-private-plate-vague |  
+| bip_39_word_dash_12 | monster-bracket-oven-truth-faint-injury-festival-dolphin-private-plate-vague-armor |  
+| bip_39_word_dash_2 | monster-bracket |  
+| bip_39_word_dash_3 | monster-bracket-oven |  
+| bip_39_word_dash_4 | monster-bracket-oven-truth |  
+| bip_39_word_dash_5 | monster-bracket-oven-truth-faint |  
+| bip_39_word_dash_6 | monster-bracket-oven-truth-faint-injury |  
+| bip_39_word_dash_7 | monster-bracket-oven-truth-faint-injury-festival |  
+| bip_39_word_dash_8 | monster-bracket-oven-truth-faint-injury-festival-dolphin |  
+| bip_39_word_dash_9 | monster-bracket-oven-truth-faint-injury-festival-dolphin-private |  
 | bip_39_word_new_br_1 | monster |  
 | bip_39_word_new_br_10 | monster<br>bracket<br>oven<br>truth<br>faint<br>injury<br>festival<br>dolphin<br>private<br>plate |  
 | bip_39_word_new_br_11 | monster<br>bracket<br>oven<br>truth<br>faint<br>injury<br>festival<br>dolphin<br>private<br>plate<br>vague |  
@@ -147,6 +159,18 @@ private |
 | bip_39_word_space_7 | monster bracket oven truth faint injury festival |  
 | bip_39_word_space_8 | monster bracket oven truth faint injury festival dolphin |  
 | bip_39_word_space_9 | monster bracket oven truth faint injury festival dolphin private |  
+| bip_39_word_underscore_1 | monster |  
+| bip_39_word_underscore_10 | monster_bracket_oven_truth_faint_injury_festival_dolphin_private_plate |  
+| bip_39_word_underscore_11 | monster_bracket_oven_truth_faint_injury_festival_dolphin_private_plate_vague |  
+| bip_39_word_underscore_12 | monster_bracket_oven_truth_faint_injury_festival_dolphin_private_plate_vague_armor |  
+| bip_39_word_underscore_2 | monster_bracket |  
+| bip_39_word_underscore_3 | monster_bracket_oven |  
+| bip_39_word_underscore_4 | monster_bracket_oven_truth |  
+| bip_39_word_underscore_5 | monster_bracket_oven_truth_faint |  
+| bip_39_word_underscore_6 | monster_bracket_oven_truth_faint_injury |  
+| bip_39_word_underscore_7 | monster_bracket_oven_truth_faint_injury_festival |  
+| bip_39_word_underscore_8 | monster_bracket_oven_truth_faint_injury_festival_dolphin |  
+| bip_39_word_underscore_9 | monster_bracket_oven_truth_faint_injury_festival_dolphin_private |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

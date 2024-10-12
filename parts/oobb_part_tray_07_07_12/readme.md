@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | truth |  
+| bip_39_word_dash_10 | truth-hotel-frog-box-soon-umbrella-swift-wonder-shadow-claim |  
+| bip_39_word_dash_11 | truth-hotel-frog-box-soon-umbrella-swift-wonder-shadow-claim-peace |  
+| bip_39_word_dash_12 | truth-hotel-frog-box-soon-umbrella-swift-wonder-shadow-claim-peace-admit |  
+| bip_39_word_dash_2 | truth-hotel |  
+| bip_39_word_dash_3 | truth-hotel-frog |  
+| bip_39_word_dash_4 | truth-hotel-frog-box |  
+| bip_39_word_dash_5 | truth-hotel-frog-box-soon |  
+| bip_39_word_dash_6 | truth-hotel-frog-box-soon-umbrella |  
+| bip_39_word_dash_7 | truth-hotel-frog-box-soon-umbrella-swift |  
+| bip_39_word_dash_8 | truth-hotel-frog-box-soon-umbrella-swift-wonder |  
+| bip_39_word_dash_9 | truth-hotel-frog-box-soon-umbrella-swift-wonder-shadow |  
 | bip_39_word_new_br_1 | truth |  
 | bip_39_word_new_br_10 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim |  
 | bip_39_word_new_br_11 | truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim<br>peace |  
@@ -147,6 +159,18 @@ shadow |
 | bip_39_word_space_7 | truth hotel frog box soon umbrella swift |  
 | bip_39_word_space_8 | truth hotel frog box soon umbrella swift wonder |  
 | bip_39_word_space_9 | truth hotel frog box soon umbrella swift wonder shadow |  
+| bip_39_word_underscore_1 | truth |  
+| bip_39_word_underscore_10 | truth_hotel_frog_box_soon_umbrella_swift_wonder_shadow_claim |  
+| bip_39_word_underscore_11 | truth_hotel_frog_box_soon_umbrella_swift_wonder_shadow_claim_peace |  
+| bip_39_word_underscore_12 | truth_hotel_frog_box_soon_umbrella_swift_wonder_shadow_claim_peace_admit |  
+| bip_39_word_underscore_2 | truth_hotel |  
+| bip_39_word_underscore_3 | truth_hotel_frog |  
+| bip_39_word_underscore_4 | truth_hotel_frog_box |  
+| bip_39_word_underscore_5 | truth_hotel_frog_box_soon |  
+| bip_39_word_underscore_6 | truth_hotel_frog_box_soon_umbrella |  
+| bip_39_word_underscore_7 | truth_hotel_frog_box_soon_umbrella_swift |  
+| bip_39_word_underscore_8 | truth_hotel_frog_box_soon_umbrella_swift_wonder |  
+| bip_39_word_underscore_9 | truth_hotel_frog_box_soon_umbrella_swift_wonder_shadow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | way |  
+| bip_39_word_dash_10 | way-carpet-fun-stage-rebel-believe-fix-virus-amazing-dynamic |  
+| bip_39_word_dash_11 | way-carpet-fun-stage-rebel-believe-fix-virus-amazing-dynamic-media |  
+| bip_39_word_dash_12 | way-carpet-fun-stage-rebel-believe-fix-virus-amazing-dynamic-media-assault |  
+| bip_39_word_dash_2 | way-carpet |  
+| bip_39_word_dash_3 | way-carpet-fun |  
+| bip_39_word_dash_4 | way-carpet-fun-stage |  
+| bip_39_word_dash_5 | way-carpet-fun-stage-rebel |  
+| bip_39_word_dash_6 | way-carpet-fun-stage-rebel-believe |  
+| bip_39_word_dash_7 | way-carpet-fun-stage-rebel-believe-fix |  
+| bip_39_word_dash_8 | way-carpet-fun-stage-rebel-believe-fix-virus |  
+| bip_39_word_dash_9 | way-carpet-fun-stage-rebel-believe-fix-virus-amazing |  
 | bip_39_word_new_br_1 | way |  
 | bip_39_word_new_br_10 | way<br>carpet<br>fun<br>stage<br>rebel<br>believe<br>fix<br>virus<br>amazing<br>dynamic |  
 | bip_39_word_new_br_11 | way<br>carpet<br>fun<br>stage<br>rebel<br>believe<br>fix<br>virus<br>amazing<br>dynamic<br>media |  
@@ -147,6 +159,18 @@ amazing |
 | bip_39_word_space_7 | way carpet fun stage rebel believe fix |  
 | bip_39_word_space_8 | way carpet fun stage rebel believe fix virus |  
 | bip_39_word_space_9 | way carpet fun stage rebel believe fix virus amazing |  
+| bip_39_word_underscore_1 | way |  
+| bip_39_word_underscore_10 | way_carpet_fun_stage_rebel_believe_fix_virus_amazing_dynamic |  
+| bip_39_word_underscore_11 | way_carpet_fun_stage_rebel_believe_fix_virus_amazing_dynamic_media |  
+| bip_39_word_underscore_12 | way_carpet_fun_stage_rebel_believe_fix_virus_amazing_dynamic_media_assault |  
+| bip_39_word_underscore_2 | way_carpet |  
+| bip_39_word_underscore_3 | way_carpet_fun |  
+| bip_39_word_underscore_4 | way_carpet_fun_stage |  
+| bip_39_word_underscore_5 | way_carpet_fun_stage_rebel |  
+| bip_39_word_underscore_6 | way_carpet_fun_stage_rebel_believe |  
+| bip_39_word_underscore_7 | way_carpet_fun_stage_rebel_believe_fix |  
+| bip_39_word_underscore_8 | way_carpet_fun_stage_rebel_believe_fix_virus |  
+| bip_39_word_underscore_9 | way_carpet_fun_stage_rebel_believe_fix_virus_amazing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

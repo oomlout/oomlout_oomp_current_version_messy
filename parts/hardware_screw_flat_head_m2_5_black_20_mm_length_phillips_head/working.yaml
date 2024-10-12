@@ -1,3 +1,15 @@
+bip_39_word_dash_1: betray
+bip_39_word_dash_10: betray-unfair-worry-present-glimpse-hard-occur-task-yard-engine
+bip_39_word_dash_11: betray-unfair-worry-present-glimpse-hard-occur-task-yard-engine-duck
+bip_39_word_dash_12: betray-unfair-worry-present-glimpse-hard-occur-task-yard-engine-duck-air
+bip_39_word_dash_2: betray-unfair
+bip_39_word_dash_3: betray-unfair-worry
+bip_39_word_dash_4: betray-unfair-worry-present
+bip_39_word_dash_5: betray-unfair-worry-present-glimpse
+bip_39_word_dash_6: betray-unfair-worry-present-glimpse-hard
+bip_39_word_dash_7: betray-unfair-worry-present-glimpse-hard-occur
+bip_39_word_dash_8: betray-unfair-worry-present-glimpse-hard-occur-task
+bip_39_word_dash_9: betray-unfair-worry-present-glimpse-hard-occur-task-yard
 bip_39_word_new_br_1: betray
 bip_39_word_new_br_10: betray<br>unfair<br>worry<br>present<br>glimpse<br>hard<br>occur<br>task<br>yard<br>engine
 bip_39_word_new_br_11: betray<br>unfair<br>worry<br>present<br>glimpse<br>hard<br>occur<br>task<br>yard<br>engine<br>duck
@@ -193,6 +205,18 @@ bip_39_word_space_6: betray unfair worry present glimpse hard
 bip_39_word_space_7: betray unfair worry present glimpse hard occur
 bip_39_word_space_8: betray unfair worry present glimpse hard occur task
 bip_39_word_space_9: betray unfair worry present glimpse hard occur task yard
+bip_39_word_underscore_1: betray
+bip_39_word_underscore_10: betray_unfair_worry_present_glimpse_hard_occur_task_yard_engine
+bip_39_word_underscore_11: betray_unfair_worry_present_glimpse_hard_occur_task_yard_engine_duck
+bip_39_word_underscore_12: betray_unfair_worry_present_glimpse_hard_occur_task_yard_engine_duck_air
+bip_39_word_underscore_2: betray_unfair
+bip_39_word_underscore_3: betray_unfair_worry
+bip_39_word_underscore_4: betray_unfair_worry_present
+bip_39_word_underscore_5: betray_unfair_worry_present_glimpse
+bip_39_word_underscore_6: betray_unfair_worry_present_glimpse_hard
+bip_39_word_underscore_7: betray_unfair_worry_present_glimpse_hard_occur
+bip_39_word_underscore_8: betray_unfair_worry_present_glimpse_hard_occur_task
+bip_39_word_underscore_9: betray_unfair_worry_present_glimpse_hard_occur_task_yard
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

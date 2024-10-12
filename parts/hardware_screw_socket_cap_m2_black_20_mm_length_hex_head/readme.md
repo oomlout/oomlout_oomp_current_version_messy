@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | else |  
+| bip_39_word_dash_10 | else-sad-antique-exhaust-shine-life-water-shine-trick-group |  
+| bip_39_word_dash_11 | else-sad-antique-exhaust-shine-life-water-shine-trick-group-obscure |  
+| bip_39_word_dash_12 | else-sad-antique-exhaust-shine-life-water-shine-trick-group-obscure-atom |  
+| bip_39_word_dash_2 | else-sad |  
+| bip_39_word_dash_3 | else-sad-antique |  
+| bip_39_word_dash_4 | else-sad-antique-exhaust |  
+| bip_39_word_dash_5 | else-sad-antique-exhaust-shine |  
+| bip_39_word_dash_6 | else-sad-antique-exhaust-shine-life |  
+| bip_39_word_dash_7 | else-sad-antique-exhaust-shine-life-water |  
+| bip_39_word_dash_8 | else-sad-antique-exhaust-shine-life-water-shine |  
+| bip_39_word_dash_9 | else-sad-antique-exhaust-shine-life-water-shine-trick |  
 | bip_39_word_new_br_1 | else |  
 | bip_39_word_new_br_10 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group |  
 | bip_39_word_new_br_11 | else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group<br>obscure |  
@@ -147,6 +159,18 @@ trick |
 | bip_39_word_space_7 | else sad antique exhaust shine life water |  
 | bip_39_word_space_8 | else sad antique exhaust shine life water shine |  
 | bip_39_word_space_9 | else sad antique exhaust shine life water shine trick |  
+| bip_39_word_underscore_1 | else |  
+| bip_39_word_underscore_10 | else_sad_antique_exhaust_shine_life_water_shine_trick_group |  
+| bip_39_word_underscore_11 | else_sad_antique_exhaust_shine_life_water_shine_trick_group_obscure |  
+| bip_39_word_underscore_12 | else_sad_antique_exhaust_shine_life_water_shine_trick_group_obscure_atom |  
+| bip_39_word_underscore_2 | else_sad |  
+| bip_39_word_underscore_3 | else_sad_antique |  
+| bip_39_word_underscore_4 | else_sad_antique_exhaust |  
+| bip_39_word_underscore_5 | else_sad_antique_exhaust_shine |  
+| bip_39_word_underscore_6 | else_sad_antique_exhaust_shine_life |  
+| bip_39_word_underscore_7 | else_sad_antique_exhaust_shine_life_water |  
+| bip_39_word_underscore_8 | else_sad_antique_exhaust_shine_life_water_shine |  
+| bip_39_word_underscore_9 | else_sad_antique_exhaust_shine_life_water_shine_trick |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

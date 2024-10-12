@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flip
+bip_39_word_dash_10: flip-one-alcohol-bring-best-warfare-inhale-excuse-say-tuna
+bip_39_word_dash_11: flip-one-alcohol-bring-best-warfare-inhale-excuse-say-tuna-improve
+bip_39_word_dash_12: flip-one-alcohol-bring-best-warfare-inhale-excuse-say-tuna-improve-athlete
+bip_39_word_dash_2: flip-one
+bip_39_word_dash_3: flip-one-alcohol
+bip_39_word_dash_4: flip-one-alcohol-bring
+bip_39_word_dash_5: flip-one-alcohol-bring-best
+bip_39_word_dash_6: flip-one-alcohol-bring-best-warfare
+bip_39_word_dash_7: flip-one-alcohol-bring-best-warfare-inhale
+bip_39_word_dash_8: flip-one-alcohol-bring-best-warfare-inhale-excuse
+bip_39_word_dash_9: flip-one-alcohol-bring-best-warfare-inhale-excuse-say
 bip_39_word_new_br_1: flip
 bip_39_word_new_br_10: flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse<br>say<br>tuna
 bip_39_word_new_br_11: flip<br>one<br>alcohol<br>bring<br>best<br>warfare<br>inhale<br>excuse<br>say<br>tuna<br>improve
@@ -192,6 +204,18 @@ bip_39_word_space_6: flip one alcohol bring best warfare
 bip_39_word_space_7: flip one alcohol bring best warfare inhale
 bip_39_word_space_8: flip one alcohol bring best warfare inhale excuse
 bip_39_word_space_9: flip one alcohol bring best warfare inhale excuse say
+bip_39_word_underscore_1: flip
+bip_39_word_underscore_10: flip_one_alcohol_bring_best_warfare_inhale_excuse_say_tuna
+bip_39_word_underscore_11: flip_one_alcohol_bring_best_warfare_inhale_excuse_say_tuna_improve
+bip_39_word_underscore_12: flip_one_alcohol_bring_best_warfare_inhale_excuse_say_tuna_improve_athlete
+bip_39_word_underscore_2: flip_one
+bip_39_word_underscore_3: flip_one_alcohol
+bip_39_word_underscore_4: flip_one_alcohol_bring
+bip_39_word_underscore_5: flip_one_alcohol_bring_best
+bip_39_word_underscore_6: flip_one_alcohol_bring_best_warfare
+bip_39_word_underscore_7: flip_one_alcohol_bring_best_warfare_inhale
+bip_39_word_underscore_8: flip_one_alcohol_bring_best_warfare_inhale_excuse
+bip_39_word_underscore_9: flip_one_alcohol_bring_best_warfare_inhale_excuse_say
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

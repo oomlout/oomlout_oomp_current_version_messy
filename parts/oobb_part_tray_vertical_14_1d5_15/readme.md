@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | buyer |  
+| bip_39_word_dash_10 | buyer-solid-loyal-average-seek-anger-dutch-math-accident-stuff |  
+| bip_39_word_dash_11 | buyer-solid-loyal-average-seek-anger-dutch-math-accident-stuff-diet |  
+| bip_39_word_dash_12 | buyer-solid-loyal-average-seek-anger-dutch-math-accident-stuff-diet-aerobic |  
+| bip_39_word_dash_2 | buyer-solid |  
+| bip_39_word_dash_3 | buyer-solid-loyal |  
+| bip_39_word_dash_4 | buyer-solid-loyal-average |  
+| bip_39_word_dash_5 | buyer-solid-loyal-average-seek |  
+| bip_39_word_dash_6 | buyer-solid-loyal-average-seek-anger |  
+| bip_39_word_dash_7 | buyer-solid-loyal-average-seek-anger-dutch |  
+| bip_39_word_dash_8 | buyer-solid-loyal-average-seek-anger-dutch-math |  
+| bip_39_word_dash_9 | buyer-solid-loyal-average-seek-anger-dutch-math-accident |  
 | bip_39_word_new_br_1 | buyer |  
 | bip_39_word_new_br_10 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math<br>accident<br>stuff |  
 | bip_39_word_new_br_11 | buyer<br>solid<br>loyal<br>average<br>seek<br>anger<br>dutch<br>math<br>accident<br>stuff<br>diet |  
@@ -147,6 +159,18 @@ accident |
 | bip_39_word_space_7 | buyer solid loyal average seek anger dutch |  
 | bip_39_word_space_8 | buyer solid loyal average seek anger dutch math |  
 | bip_39_word_space_9 | buyer solid loyal average seek anger dutch math accident |  
+| bip_39_word_underscore_1 | buyer |  
+| bip_39_word_underscore_10 | buyer_solid_loyal_average_seek_anger_dutch_math_accident_stuff |  
+| bip_39_word_underscore_11 | buyer_solid_loyal_average_seek_anger_dutch_math_accident_stuff_diet |  
+| bip_39_word_underscore_12 | buyer_solid_loyal_average_seek_anger_dutch_math_accident_stuff_diet_aerobic |  
+| bip_39_word_underscore_2 | buyer_solid |  
+| bip_39_word_underscore_3 | buyer_solid_loyal |  
+| bip_39_word_underscore_4 | buyer_solid_loyal_average |  
+| bip_39_word_underscore_5 | buyer_solid_loyal_average_seek |  
+| bip_39_word_underscore_6 | buyer_solid_loyal_average_seek_anger |  
+| bip_39_word_underscore_7 | buyer_solid_loyal_average_seek_anger_dutch |  
+| bip_39_word_underscore_8 | buyer_solid_loyal_average_seek_anger_dutch_math |  
+| bip_39_word_underscore_9 | buyer_solid_loyal_average_seek_anger_dutch_math_accident |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

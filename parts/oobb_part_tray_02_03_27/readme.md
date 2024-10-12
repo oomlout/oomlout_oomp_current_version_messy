@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | job |  
+| bip_39_word_dash_10 | job-burden-parrot-salmon-skate-scrub-nice-dawn-puzzle-exhaust |  
+| bip_39_word_dash_11 | job-burden-parrot-salmon-skate-scrub-nice-dawn-puzzle-exhaust-disease |  
+| bip_39_word_dash_12 | job-burden-parrot-salmon-skate-scrub-nice-dawn-puzzle-exhaust-disease-arrow |  
+| bip_39_word_dash_2 | job-burden |  
+| bip_39_word_dash_3 | job-burden-parrot |  
+| bip_39_word_dash_4 | job-burden-parrot-salmon |  
+| bip_39_word_dash_5 | job-burden-parrot-salmon-skate |  
+| bip_39_word_dash_6 | job-burden-parrot-salmon-skate-scrub |  
+| bip_39_word_dash_7 | job-burden-parrot-salmon-skate-scrub-nice |  
+| bip_39_word_dash_8 | job-burden-parrot-salmon-skate-scrub-nice-dawn |  
+| bip_39_word_dash_9 | job-burden-parrot-salmon-skate-scrub-nice-dawn-puzzle |  
 | bip_39_word_new_br_1 | job |  
 | bip_39_word_new_br_10 | job<br>burden<br>parrot<br>salmon<br>skate<br>scrub<br>nice<br>dawn<br>puzzle<br>exhaust |  
 | bip_39_word_new_br_11 | job<br>burden<br>parrot<br>salmon<br>skate<br>scrub<br>nice<br>dawn<br>puzzle<br>exhaust<br>disease |  
@@ -147,6 +159,18 @@ puzzle |
 | bip_39_word_space_7 | job burden parrot salmon skate scrub nice |  
 | bip_39_word_space_8 | job burden parrot salmon skate scrub nice dawn |  
 | bip_39_word_space_9 | job burden parrot salmon skate scrub nice dawn puzzle |  
+| bip_39_word_underscore_1 | job |  
+| bip_39_word_underscore_10 | job_burden_parrot_salmon_skate_scrub_nice_dawn_puzzle_exhaust |  
+| bip_39_word_underscore_11 | job_burden_parrot_salmon_skate_scrub_nice_dawn_puzzle_exhaust_disease |  
+| bip_39_word_underscore_12 | job_burden_parrot_salmon_skate_scrub_nice_dawn_puzzle_exhaust_disease_arrow |  
+| bip_39_word_underscore_2 | job_burden |  
+| bip_39_word_underscore_3 | job_burden_parrot |  
+| bip_39_word_underscore_4 | job_burden_parrot_salmon |  
+| bip_39_word_underscore_5 | job_burden_parrot_salmon_skate |  
+| bip_39_word_underscore_6 | job_burden_parrot_salmon_skate_scrub |  
+| bip_39_word_underscore_7 | job_burden_parrot_salmon_skate_scrub_nice |  
+| bip_39_word_underscore_8 | job_burden_parrot_salmon_skate_scrub_nice_dawn |  
+| bip_39_word_underscore_9 | job_burden_parrot_salmon_skate_scrub_nice_dawn_puzzle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

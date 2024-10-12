@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frost |  
+| bip_39_word_dash_10 | frost-sister-puppy-conduct-able-cattle-hollow-hire-used-deliver |  
+| bip_39_word_dash_11 | frost-sister-puppy-conduct-able-cattle-hollow-hire-used-deliver-sniff |  
+| bip_39_word_dash_12 | frost-sister-puppy-conduct-able-cattle-hollow-hire-used-deliver-sniff-allow |  
+| bip_39_word_dash_2 | frost-sister |  
+| bip_39_word_dash_3 | frost-sister-puppy |  
+| bip_39_word_dash_4 | frost-sister-puppy-conduct |  
+| bip_39_word_dash_5 | frost-sister-puppy-conduct-able |  
+| bip_39_word_dash_6 | frost-sister-puppy-conduct-able-cattle |  
+| bip_39_word_dash_7 | frost-sister-puppy-conduct-able-cattle-hollow |  
+| bip_39_word_dash_8 | frost-sister-puppy-conduct-able-cattle-hollow-hire |  
+| bip_39_word_dash_9 | frost-sister-puppy-conduct-able-cattle-hollow-hire-used |  
 | bip_39_word_new_br_1 | frost |  
 | bip_39_word_new_br_10 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire<br>used<br>deliver |  
 | bip_39_word_new_br_11 | frost<br>sister<br>puppy<br>conduct<br>able<br>cattle<br>hollow<br>hire<br>used<br>deliver<br>sniff |  
@@ -147,6 +159,18 @@ used |
 | bip_39_word_space_7 | frost sister puppy conduct able cattle hollow |  
 | bip_39_word_space_8 | frost sister puppy conduct able cattle hollow hire |  
 | bip_39_word_space_9 | frost sister puppy conduct able cattle hollow hire used |  
+| bip_39_word_underscore_1 | frost |  
+| bip_39_word_underscore_10 | frost_sister_puppy_conduct_able_cattle_hollow_hire_used_deliver |  
+| bip_39_word_underscore_11 | frost_sister_puppy_conduct_able_cattle_hollow_hire_used_deliver_sniff |  
+| bip_39_word_underscore_12 | frost_sister_puppy_conduct_able_cattle_hollow_hire_used_deliver_sniff_allow |  
+| bip_39_word_underscore_2 | frost_sister |  
+| bip_39_word_underscore_3 | frost_sister_puppy |  
+| bip_39_word_underscore_4 | frost_sister_puppy_conduct |  
+| bip_39_word_underscore_5 | frost_sister_puppy_conduct_able |  
+| bip_39_word_underscore_6 | frost_sister_puppy_conduct_able_cattle |  
+| bip_39_word_underscore_7 | frost_sister_puppy_conduct_able_cattle_hollow |  
+| bip_39_word_underscore_8 | frost_sister_puppy_conduct_able_cattle_hollow_hire |  
+| bip_39_word_underscore_9 | frost_sister_puppy_conduct_able_cattle_hollow_hire_used |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

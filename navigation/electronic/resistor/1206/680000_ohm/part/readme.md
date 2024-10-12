@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | season |  
+| bip_39_word_dash_10 | season-fancy-settle-giggle-junior-safe-misery-company-fade-spider |  
+| bip_39_word_dash_11 | season-fancy-settle-giggle-junior-safe-misery-company-fade-spider-bridge |  
+| bip_39_word_dash_12 | season-fancy-settle-giggle-junior-safe-misery-company-fade-spider-bridge-absurd |  
+| bip_39_word_dash_2 | season-fancy |  
+| bip_39_word_dash_3 | season-fancy-settle |  
+| bip_39_word_dash_4 | season-fancy-settle-giggle |  
+| bip_39_word_dash_5 | season-fancy-settle-giggle-junior |  
+| bip_39_word_dash_6 | season-fancy-settle-giggle-junior-safe |  
+| bip_39_word_dash_7 | season-fancy-settle-giggle-junior-safe-misery |  
+| bip_39_word_dash_8 | season-fancy-settle-giggle-junior-safe-misery-company |  
+| bip_39_word_dash_9 | season-fancy-settle-giggle-junior-safe-misery-company-fade |  
 | bip_39_word_new_br_1 | season |  
 | bip_39_word_new_br_10 | season<br>fancy<br>settle<br>giggle<br>junior<br>safe<br>misery<br>company<br>fade<br>spider |  
 | bip_39_word_new_br_11 | season<br>fancy<br>settle<br>giggle<br>junior<br>safe<br>misery<br>company<br>fade<br>spider<br>bridge |  
@@ -147,6 +159,18 @@ fade |
 | bip_39_word_space_7 | season fancy settle giggle junior safe misery |  
 | bip_39_word_space_8 | season fancy settle giggle junior safe misery company |  
 | bip_39_word_space_9 | season fancy settle giggle junior safe misery company fade |  
+| bip_39_word_underscore_1 | season |  
+| bip_39_word_underscore_10 | season_fancy_settle_giggle_junior_safe_misery_company_fade_spider |  
+| bip_39_word_underscore_11 | season_fancy_settle_giggle_junior_safe_misery_company_fade_spider_bridge |  
+| bip_39_word_underscore_12 | season_fancy_settle_giggle_junior_safe_misery_company_fade_spider_bridge_absurd |  
+| bip_39_word_underscore_2 | season_fancy |  
+| bip_39_word_underscore_3 | season_fancy_settle |  
+| bip_39_word_underscore_4 | season_fancy_settle_giggle |  
+| bip_39_word_underscore_5 | season_fancy_settle_giggle_junior |  
+| bip_39_word_underscore_6 | season_fancy_settle_giggle_junior_safe |  
+| bip_39_word_underscore_7 | season_fancy_settle_giggle_junior_safe_misery |  
+| bip_39_word_underscore_8 | season_fancy_settle_giggle_junior_safe_misery_company |  
+| bip_39_word_underscore_9 | season_fancy_settle_giggle_junior_safe_misery_company_fade |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

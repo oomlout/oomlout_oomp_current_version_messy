@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | school |  
+| bip_39_word_dash_10 | school-popular-draft-cry-humble-item-valley-plug-oven-oval |  
+| bip_39_word_dash_11 | school-popular-draft-cry-humble-item-valley-plug-oven-oval-twelve |  
+| bip_39_word_dash_12 | school-popular-draft-cry-humble-item-valley-plug-oven-oval-twelve-air |  
+| bip_39_word_dash_2 | school-popular |  
+| bip_39_word_dash_3 | school-popular-draft |  
+| bip_39_word_dash_4 | school-popular-draft-cry |  
+| bip_39_word_dash_5 | school-popular-draft-cry-humble |  
+| bip_39_word_dash_6 | school-popular-draft-cry-humble-item |  
+| bip_39_word_dash_7 | school-popular-draft-cry-humble-item-valley |  
+| bip_39_word_dash_8 | school-popular-draft-cry-humble-item-valley-plug |  
+| bip_39_word_dash_9 | school-popular-draft-cry-humble-item-valley-plug-oven |  
 | bip_39_word_new_br_1 | school |  
 | bip_39_word_new_br_10 | school<br>popular<br>draft<br>cry<br>humble<br>item<br>valley<br>plug<br>oven<br>oval |  
 | bip_39_word_new_br_11 | school<br>popular<br>draft<br>cry<br>humble<br>item<br>valley<br>plug<br>oven<br>oval<br>twelve |  
@@ -147,6 +159,18 @@ oven |
 | bip_39_word_space_7 | school popular draft cry humble item valley |  
 | bip_39_word_space_8 | school popular draft cry humble item valley plug |  
 | bip_39_word_space_9 | school popular draft cry humble item valley plug oven |  
+| bip_39_word_underscore_1 | school |  
+| bip_39_word_underscore_10 | school_popular_draft_cry_humble_item_valley_plug_oven_oval |  
+| bip_39_word_underscore_11 | school_popular_draft_cry_humble_item_valley_plug_oven_oval_twelve |  
+| bip_39_word_underscore_12 | school_popular_draft_cry_humble_item_valley_plug_oven_oval_twelve_air |  
+| bip_39_word_underscore_2 | school_popular |  
+| bip_39_word_underscore_3 | school_popular_draft |  
+| bip_39_word_underscore_4 | school_popular_draft_cry |  
+| bip_39_word_underscore_5 | school_popular_draft_cry_humble |  
+| bip_39_word_underscore_6 | school_popular_draft_cry_humble_item |  
+| bip_39_word_underscore_7 | school_popular_draft_cry_humble_item_valley |  
+| bip_39_word_underscore_8 | school_popular_draft_cry_humble_item_valley_plug |  
+| bip_39_word_underscore_9 | school_popular_draft_cry_humble_item_valley_plug_oven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

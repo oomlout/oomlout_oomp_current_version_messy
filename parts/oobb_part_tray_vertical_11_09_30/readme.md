@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | catch |  
+| bip_39_word_dash_10 | catch-shaft-soft-same-soap-genre-popular-long-nose-mosquito |  
+| bip_39_word_dash_11 | catch-shaft-soft-same-soap-genre-popular-long-nose-mosquito-any |  
+| bip_39_word_dash_12 | catch-shaft-soft-same-soap-genre-popular-long-nose-mosquito-any-action |  
+| bip_39_word_dash_2 | catch-shaft |  
+| bip_39_word_dash_3 | catch-shaft-soft |  
+| bip_39_word_dash_4 | catch-shaft-soft-same |  
+| bip_39_word_dash_5 | catch-shaft-soft-same-soap |  
+| bip_39_word_dash_6 | catch-shaft-soft-same-soap-genre |  
+| bip_39_word_dash_7 | catch-shaft-soft-same-soap-genre-popular |  
+| bip_39_word_dash_8 | catch-shaft-soft-same-soap-genre-popular-long |  
+| bip_39_word_dash_9 | catch-shaft-soft-same-soap-genre-popular-long-nose |  
 | bip_39_word_new_br_1 | catch |  
 | bip_39_word_new_br_10 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long<br>nose<br>mosquito |  
 | bip_39_word_new_br_11 | catch<br>shaft<br>soft<br>same<br>soap<br>genre<br>popular<br>long<br>nose<br>mosquito<br>any |  
@@ -147,6 +159,18 @@ nose |
 | bip_39_word_space_7 | catch shaft soft same soap genre popular |  
 | bip_39_word_space_8 | catch shaft soft same soap genre popular long |  
 | bip_39_word_space_9 | catch shaft soft same soap genre popular long nose |  
+| bip_39_word_underscore_1 | catch |  
+| bip_39_word_underscore_10 | catch_shaft_soft_same_soap_genre_popular_long_nose_mosquito |  
+| bip_39_word_underscore_11 | catch_shaft_soft_same_soap_genre_popular_long_nose_mosquito_any |  
+| bip_39_word_underscore_12 | catch_shaft_soft_same_soap_genre_popular_long_nose_mosquito_any_action |  
+| bip_39_word_underscore_2 | catch_shaft |  
+| bip_39_word_underscore_3 | catch_shaft_soft |  
+| bip_39_word_underscore_4 | catch_shaft_soft_same |  
+| bip_39_word_underscore_5 | catch_shaft_soft_same_soap |  
+| bip_39_word_underscore_6 | catch_shaft_soft_same_soap_genre |  
+| bip_39_word_underscore_7 | catch_shaft_soft_same_soap_genre_popular |  
+| bip_39_word_underscore_8 | catch_shaft_soft_same_soap_genre_popular_long |  
+| bip_39_word_underscore_9 | catch_shaft_soft_same_soap_genre_popular_long_nose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: universe
+bip_39_word_dash_10: universe-faith-spatial-coconut-call-exchange-throw-ahead-surge-matter
+bip_39_word_dash_11: universe-faith-spatial-coconut-call-exchange-throw-ahead-surge-matter-middle
+bip_39_word_dash_12: universe-faith-spatial-coconut-call-exchange-throw-ahead-surge-matter-middle-ancient
+bip_39_word_dash_2: universe-faith
+bip_39_word_dash_3: universe-faith-spatial
+bip_39_word_dash_4: universe-faith-spatial-coconut
+bip_39_word_dash_5: universe-faith-spatial-coconut-call
+bip_39_word_dash_6: universe-faith-spatial-coconut-call-exchange
+bip_39_word_dash_7: universe-faith-spatial-coconut-call-exchange-throw
+bip_39_word_dash_8: universe-faith-spatial-coconut-call-exchange-throw-ahead
+bip_39_word_dash_9: universe-faith-spatial-coconut-call-exchange-throw-ahead-surge
 bip_39_word_new_br_1: universe
 bip_39_word_new_br_10: universe<br>faith<br>spatial<br>coconut<br>call<br>exchange<br>throw<br>ahead<br>surge<br>matter
 bip_39_word_new_br_11: universe<br>faith<br>spatial<br>coconut<br>call<br>exchange<br>throw<br>ahead<br>surge<br>matter<br>middle
@@ -194,6 +206,18 @@ bip_39_word_space_6: universe faith spatial coconut call exchange
 bip_39_word_space_7: universe faith spatial coconut call exchange throw
 bip_39_word_space_8: universe faith spatial coconut call exchange throw ahead
 bip_39_word_space_9: universe faith spatial coconut call exchange throw ahead surge
+bip_39_word_underscore_1: universe
+bip_39_word_underscore_10: universe_faith_spatial_coconut_call_exchange_throw_ahead_surge_matter
+bip_39_word_underscore_11: universe_faith_spatial_coconut_call_exchange_throw_ahead_surge_matter_middle
+bip_39_word_underscore_12: universe_faith_spatial_coconut_call_exchange_throw_ahead_surge_matter_middle_ancient
+bip_39_word_underscore_2: universe_faith
+bip_39_word_underscore_3: universe_faith_spatial
+bip_39_word_underscore_4: universe_faith_spatial_coconut
+bip_39_word_underscore_5: universe_faith_spatial_coconut_call
+bip_39_word_underscore_6: universe_faith_spatial_coconut_call_exchange
+bip_39_word_underscore_7: universe_faith_spatial_coconut_call_exchange_throw
+bip_39_word_underscore_8: universe_faith_spatial_coconut_call_exchange_throw_ahead
+bip_39_word_underscore_9: universe_faith_spatial_coconut_call_exchange_throw_ahead_surge
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

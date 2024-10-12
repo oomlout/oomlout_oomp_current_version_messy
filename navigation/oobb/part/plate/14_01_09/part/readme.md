@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mosquito |  
+| bip_39_word_dash_10 | mosquito-bargain-child-issue-cloth-casino-aunt-myth-sibling-betray |  
+| bip_39_word_dash_11 | mosquito-bargain-child-issue-cloth-casino-aunt-myth-sibling-betray-manage |  
+| bip_39_word_dash_12 | mosquito-bargain-child-issue-cloth-casino-aunt-myth-sibling-betray-manage-alien |  
+| bip_39_word_dash_2 | mosquito-bargain |  
+| bip_39_word_dash_3 | mosquito-bargain-child |  
+| bip_39_word_dash_4 | mosquito-bargain-child-issue |  
+| bip_39_word_dash_5 | mosquito-bargain-child-issue-cloth |  
+| bip_39_word_dash_6 | mosquito-bargain-child-issue-cloth-casino |  
+| bip_39_word_dash_7 | mosquito-bargain-child-issue-cloth-casino-aunt |  
+| bip_39_word_dash_8 | mosquito-bargain-child-issue-cloth-casino-aunt-myth |  
+| bip_39_word_dash_9 | mosquito-bargain-child-issue-cloth-casino-aunt-myth-sibling |  
 | bip_39_word_new_br_1 | mosquito |  
 | bip_39_word_new_br_10 | mosquito<br>bargain<br>child<br>issue<br>cloth<br>casino<br>aunt<br>myth<br>sibling<br>betray |  
 | bip_39_word_new_br_11 | mosquito<br>bargain<br>child<br>issue<br>cloth<br>casino<br>aunt<br>myth<br>sibling<br>betray<br>manage |  
@@ -147,6 +159,18 @@ sibling |
 | bip_39_word_space_7 | mosquito bargain child issue cloth casino aunt |  
 | bip_39_word_space_8 | mosquito bargain child issue cloth casino aunt myth |  
 | bip_39_word_space_9 | mosquito bargain child issue cloth casino aunt myth sibling |  
+| bip_39_word_underscore_1 | mosquito |  
+| bip_39_word_underscore_10 | mosquito_bargain_child_issue_cloth_casino_aunt_myth_sibling_betray |  
+| bip_39_word_underscore_11 | mosquito_bargain_child_issue_cloth_casino_aunt_myth_sibling_betray_manage |  
+| bip_39_word_underscore_12 | mosquito_bargain_child_issue_cloth_casino_aunt_myth_sibling_betray_manage_alien |  
+| bip_39_word_underscore_2 | mosquito_bargain |  
+| bip_39_word_underscore_3 | mosquito_bargain_child |  
+| bip_39_word_underscore_4 | mosquito_bargain_child_issue |  
+| bip_39_word_underscore_5 | mosquito_bargain_child_issue_cloth |  
+| bip_39_word_underscore_6 | mosquito_bargain_child_issue_cloth_casino |  
+| bip_39_word_underscore_7 | mosquito_bargain_child_issue_cloth_casino_aunt |  
+| bip_39_word_underscore_8 | mosquito_bargain_child_issue_cloth_casino_aunt_myth |  
+| bip_39_word_underscore_9 | mosquito_bargain_child_issue_cloth_casino_aunt_myth_sibling |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gift
+bip_39_word_dash_10: gift-pulp-fabric-liquid-junior-one-nurse-canal-baby-fabric
+bip_39_word_dash_11: gift-pulp-fabric-liquid-junior-one-nurse-canal-baby-fabric-host
+bip_39_word_dash_12: gift-pulp-fabric-liquid-junior-one-nurse-canal-baby-fabric-host-athlete
+bip_39_word_dash_2: gift-pulp
+bip_39_word_dash_3: gift-pulp-fabric
+bip_39_word_dash_4: gift-pulp-fabric-liquid
+bip_39_word_dash_5: gift-pulp-fabric-liquid-junior
+bip_39_word_dash_6: gift-pulp-fabric-liquid-junior-one
+bip_39_word_dash_7: gift-pulp-fabric-liquid-junior-one-nurse
+bip_39_word_dash_8: gift-pulp-fabric-liquid-junior-one-nurse-canal
+bip_39_word_dash_9: gift-pulp-fabric-liquid-junior-one-nurse-canal-baby
 bip_39_word_new_br_1: gift
 bip_39_word_new_br_10: gift<br>pulp<br>fabric<br>liquid<br>junior<br>one<br>nurse<br>canal<br>baby<br>fabric
 bip_39_word_new_br_11: gift<br>pulp<br>fabric<br>liquid<br>junior<br>one<br>nurse<br>canal<br>baby<br>fabric<br>host
@@ -192,6 +204,18 @@ bip_39_word_space_6: gift pulp fabric liquid junior one
 bip_39_word_space_7: gift pulp fabric liquid junior one nurse
 bip_39_word_space_8: gift pulp fabric liquid junior one nurse canal
 bip_39_word_space_9: gift pulp fabric liquid junior one nurse canal baby
+bip_39_word_underscore_1: gift
+bip_39_word_underscore_10: gift_pulp_fabric_liquid_junior_one_nurse_canal_baby_fabric
+bip_39_word_underscore_11: gift_pulp_fabric_liquid_junior_one_nurse_canal_baby_fabric_host
+bip_39_word_underscore_12: gift_pulp_fabric_liquid_junior_one_nurse_canal_baby_fabric_host_athlete
+bip_39_word_underscore_2: gift_pulp
+bip_39_word_underscore_3: gift_pulp_fabric
+bip_39_word_underscore_4: gift_pulp_fabric_liquid
+bip_39_word_underscore_5: gift_pulp_fabric_liquid_junior
+bip_39_word_underscore_6: gift_pulp_fabric_liquid_junior_one
+bip_39_word_underscore_7: gift_pulp_fabric_liquid_junior_one_nurse
+bip_39_word_underscore_8: gift_pulp_fabric_liquid_junior_one_nurse_canal
+bip_39_word_underscore_9: gift_pulp_fabric_liquid_junior_one_nurse_canal_baby
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

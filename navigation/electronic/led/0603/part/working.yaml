@@ -1,3 +1,15 @@
+bip_39_word_dash_1: then
+bip_39_word_dash_10: then-taste-puppy-ahead-turkey-west-fall-riot-capital-pizza
+bip_39_word_dash_11: then-taste-puppy-ahead-turkey-west-fall-riot-capital-pizza-marble
+bip_39_word_dash_12: then-taste-puppy-ahead-turkey-west-fall-riot-capital-pizza-marble-advice
+bip_39_word_dash_2: then-taste
+bip_39_word_dash_3: then-taste-puppy
+bip_39_word_dash_4: then-taste-puppy-ahead
+bip_39_word_dash_5: then-taste-puppy-ahead-turkey
+bip_39_word_dash_6: then-taste-puppy-ahead-turkey-west
+bip_39_word_dash_7: then-taste-puppy-ahead-turkey-west-fall
+bip_39_word_dash_8: then-taste-puppy-ahead-turkey-west-fall-riot
+bip_39_word_dash_9: then-taste-puppy-ahead-turkey-west-fall-riot-capital
 bip_39_word_new_br_1: then
 bip_39_word_new_br_10: then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot<br>capital<br>pizza
 bip_39_word_new_br_11: then<br>taste<br>puppy<br>ahead<br>turkey<br>west<br>fall<br>riot<br>capital<br>pizza<br>marble
@@ -192,6 +204,18 @@ bip_39_word_space_6: then taste puppy ahead turkey west
 bip_39_word_space_7: then taste puppy ahead turkey west fall
 bip_39_word_space_8: then taste puppy ahead turkey west fall riot
 bip_39_word_space_9: then taste puppy ahead turkey west fall riot capital
+bip_39_word_underscore_1: then
+bip_39_word_underscore_10: then_taste_puppy_ahead_turkey_west_fall_riot_capital_pizza
+bip_39_word_underscore_11: then_taste_puppy_ahead_turkey_west_fall_riot_capital_pizza_marble
+bip_39_word_underscore_12: then_taste_puppy_ahead_turkey_west_fall_riot_capital_pizza_marble_advice
+bip_39_word_underscore_2: then_taste
+bip_39_word_underscore_3: then_taste_puppy
+bip_39_word_underscore_4: then_taste_puppy_ahead
+bip_39_word_underscore_5: then_taste_puppy_ahead_turkey
+bip_39_word_underscore_6: then_taste_puppy_ahead_turkey_west
+bip_39_word_underscore_7: then_taste_puppy_ahead_turkey_west_fall
+bip_39_word_underscore_8: then_taste_puppy_ahead_turkey_west_fall_riot
+bip_39_word_underscore_9: then_taste_puppy_ahead_turkey_west_fall_riot_capital
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

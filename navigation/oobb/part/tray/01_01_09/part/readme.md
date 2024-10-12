@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | force |  
+| bip_39_word_dash_10 | force-east-radio-end-garlic-decade-mention-mandate-bomb-cabin |  
+| bip_39_word_dash_11 | force-east-radio-end-garlic-decade-mention-mandate-bomb-cabin-false |  
+| bip_39_word_dash_12 | force-east-radio-end-garlic-decade-mention-mandate-bomb-cabin-false-artist |  
+| bip_39_word_dash_2 | force-east |  
+| bip_39_word_dash_3 | force-east-radio |  
+| bip_39_word_dash_4 | force-east-radio-end |  
+| bip_39_word_dash_5 | force-east-radio-end-garlic |  
+| bip_39_word_dash_6 | force-east-radio-end-garlic-decade |  
+| bip_39_word_dash_7 | force-east-radio-end-garlic-decade-mention |  
+| bip_39_word_dash_8 | force-east-radio-end-garlic-decade-mention-mandate |  
+| bip_39_word_dash_9 | force-east-radio-end-garlic-decade-mention-mandate-bomb |  
 | bip_39_word_new_br_1 | force |  
 | bip_39_word_new_br_10 | force<br>east<br>radio<br>end<br>garlic<br>decade<br>mention<br>mandate<br>bomb<br>cabin |  
 | bip_39_word_new_br_11 | force<br>east<br>radio<br>end<br>garlic<br>decade<br>mention<br>mandate<br>bomb<br>cabin<br>false |  
@@ -147,6 +159,18 @@ bomb |
 | bip_39_word_space_7 | force east radio end garlic decade mention |  
 | bip_39_word_space_8 | force east radio end garlic decade mention mandate |  
 | bip_39_word_space_9 | force east radio end garlic decade mention mandate bomb |  
+| bip_39_word_underscore_1 | force |  
+| bip_39_word_underscore_10 | force_east_radio_end_garlic_decade_mention_mandate_bomb_cabin |  
+| bip_39_word_underscore_11 | force_east_radio_end_garlic_decade_mention_mandate_bomb_cabin_false |  
+| bip_39_word_underscore_12 | force_east_radio_end_garlic_decade_mention_mandate_bomb_cabin_false_artist |  
+| bip_39_word_underscore_2 | force_east |  
+| bip_39_word_underscore_3 | force_east_radio |  
+| bip_39_word_underscore_4 | force_east_radio_end |  
+| bip_39_word_underscore_5 | force_east_radio_end_garlic |  
+| bip_39_word_underscore_6 | force_east_radio_end_garlic_decade |  
+| bip_39_word_underscore_7 | force_east_radio_end_garlic_decade_mention |  
+| bip_39_word_underscore_8 | force_east_radio_end_garlic_decade_mention_mandate |  
+| bip_39_word_underscore_9 | force_east_radio_end_garlic_decade_mention_mandate_bomb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

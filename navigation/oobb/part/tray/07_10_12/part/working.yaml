@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wisdom
+bip_39_word_dash_10: wisdom-team-loop-confirm-drum-affair-analyst-stomach-aunt-ticket
+bip_39_word_dash_11: wisdom-team-loop-confirm-drum-affair-analyst-stomach-aunt-ticket-badge
+bip_39_word_dash_12: wisdom-team-loop-confirm-drum-affair-analyst-stomach-aunt-ticket-badge-author
+bip_39_word_dash_2: wisdom-team
+bip_39_word_dash_3: wisdom-team-loop
+bip_39_word_dash_4: wisdom-team-loop-confirm
+bip_39_word_dash_5: wisdom-team-loop-confirm-drum
+bip_39_word_dash_6: wisdom-team-loop-confirm-drum-affair
+bip_39_word_dash_7: wisdom-team-loop-confirm-drum-affair-analyst
+bip_39_word_dash_8: wisdom-team-loop-confirm-drum-affair-analyst-stomach
+bip_39_word_dash_9: wisdom-team-loop-confirm-drum-affair-analyst-stomach-aunt
 bip_39_word_new_br_1: wisdom
 bip_39_word_new_br_10: wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket
 bip_39_word_new_br_11: wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket<br>badge
@@ -193,6 +205,18 @@ bip_39_word_space_6: wisdom team loop confirm drum affair
 bip_39_word_space_7: wisdom team loop confirm drum affair analyst
 bip_39_word_space_8: wisdom team loop confirm drum affair analyst stomach
 bip_39_word_space_9: wisdom team loop confirm drum affair analyst stomach aunt
+bip_39_word_underscore_1: wisdom
+bip_39_word_underscore_10: wisdom_team_loop_confirm_drum_affair_analyst_stomach_aunt_ticket
+bip_39_word_underscore_11: wisdom_team_loop_confirm_drum_affair_analyst_stomach_aunt_ticket_badge
+bip_39_word_underscore_12: wisdom_team_loop_confirm_drum_affair_analyst_stomach_aunt_ticket_badge_author
+bip_39_word_underscore_2: wisdom_team
+bip_39_word_underscore_3: wisdom_team_loop
+bip_39_word_underscore_4: wisdom_team_loop_confirm
+bip_39_word_underscore_5: wisdom_team_loop_confirm_drum
+bip_39_word_underscore_6: wisdom_team_loop_confirm_drum_affair
+bip_39_word_underscore_7: wisdom_team_loop_confirm_drum_affair_analyst
+bip_39_word_underscore_8: wisdom_team_loop_confirm_drum_affair_analyst_stomach
+bip_39_word_underscore_9: wisdom_team_loop_confirm_drum_affair_analyst_stomach_aunt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

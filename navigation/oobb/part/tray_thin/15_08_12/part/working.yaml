@@ -1,3 +1,15 @@
+bip_39_word_dash_1: manual
+bip_39_word_dash_10: manual-mail-situate-bleak-rose-tower-hospital-lawn-field-notice
+bip_39_word_dash_11: manual-mail-situate-bleak-rose-tower-hospital-lawn-field-notice-extend
+bip_39_word_dash_12: manual-mail-situate-bleak-rose-tower-hospital-lawn-field-notice-extend-attack
+bip_39_word_dash_2: manual-mail
+bip_39_word_dash_3: manual-mail-situate
+bip_39_word_dash_4: manual-mail-situate-bleak
+bip_39_word_dash_5: manual-mail-situate-bleak-rose
+bip_39_word_dash_6: manual-mail-situate-bleak-rose-tower
+bip_39_word_dash_7: manual-mail-situate-bleak-rose-tower-hospital
+bip_39_word_dash_8: manual-mail-situate-bleak-rose-tower-hospital-lawn
+bip_39_word_dash_9: manual-mail-situate-bleak-rose-tower-hospital-lawn-field
 bip_39_word_new_br_1: manual
 bip_39_word_new_br_10: manual<br>mail<br>situate<br>bleak<br>rose<br>tower<br>hospital<br>lawn<br>field<br>notice
 bip_39_word_new_br_11: manual<br>mail<br>situate<br>bleak<br>rose<br>tower<br>hospital<br>lawn<br>field<br>notice<br>extend
@@ -193,6 +205,18 @@ bip_39_word_space_6: manual mail situate bleak rose tower
 bip_39_word_space_7: manual mail situate bleak rose tower hospital
 bip_39_word_space_8: manual mail situate bleak rose tower hospital lawn
 bip_39_word_space_9: manual mail situate bleak rose tower hospital lawn field
+bip_39_word_underscore_1: manual
+bip_39_word_underscore_10: manual_mail_situate_bleak_rose_tower_hospital_lawn_field_notice
+bip_39_word_underscore_11: manual_mail_situate_bleak_rose_tower_hospital_lawn_field_notice_extend
+bip_39_word_underscore_12: manual_mail_situate_bleak_rose_tower_hospital_lawn_field_notice_extend_attack
+bip_39_word_underscore_2: manual_mail
+bip_39_word_underscore_3: manual_mail_situate
+bip_39_word_underscore_4: manual_mail_situate_bleak
+bip_39_word_underscore_5: manual_mail_situate_bleak_rose
+bip_39_word_underscore_6: manual_mail_situate_bleak_rose_tower
+bip_39_word_underscore_7: manual_mail_situate_bleak_rose_tower_hospital
+bip_39_word_underscore_8: manual_mail_situate_bleak_rose_tower_hospital_lawn
+bip_39_word_underscore_9: manual_mail_situate_bleak_rose_tower_hospital_lawn_field
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

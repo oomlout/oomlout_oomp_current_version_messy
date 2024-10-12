@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | festival |  
+| bip_39_word_dash_10 | festival-erase-maple-liquid-spray-minor-era-kangaroo-tower-end |  
+| bip_39_word_dash_11 | festival-erase-maple-liquid-spray-minor-era-kangaroo-tower-end-hire |  
+| bip_39_word_dash_12 | festival-erase-maple-liquid-spray-minor-era-kangaroo-tower-end-hire-alter |  
+| bip_39_word_dash_2 | festival-erase |  
+| bip_39_word_dash_3 | festival-erase-maple |  
+| bip_39_word_dash_4 | festival-erase-maple-liquid |  
+| bip_39_word_dash_5 | festival-erase-maple-liquid-spray |  
+| bip_39_word_dash_6 | festival-erase-maple-liquid-spray-minor |  
+| bip_39_word_dash_7 | festival-erase-maple-liquid-spray-minor-era |  
+| bip_39_word_dash_8 | festival-erase-maple-liquid-spray-minor-era-kangaroo |  
+| bip_39_word_dash_9 | festival-erase-maple-liquid-spray-minor-era-kangaroo-tower |  
 | bip_39_word_new_br_1 | festival |  
 | bip_39_word_new_br_10 | festival<br>erase<br>maple<br>liquid<br>spray<br>minor<br>era<br>kangaroo<br>tower<br>end |  
 | bip_39_word_new_br_11 | festival<br>erase<br>maple<br>liquid<br>spray<br>minor<br>era<br>kangaroo<br>tower<br>end<br>hire |  
@@ -147,6 +159,18 @@ tower |
 | bip_39_word_space_7 | festival erase maple liquid spray minor era |  
 | bip_39_word_space_8 | festival erase maple liquid spray minor era kangaroo |  
 | bip_39_word_space_9 | festival erase maple liquid spray minor era kangaroo tower |  
+| bip_39_word_underscore_1 | festival |  
+| bip_39_word_underscore_10 | festival_erase_maple_liquid_spray_minor_era_kangaroo_tower_end |  
+| bip_39_word_underscore_11 | festival_erase_maple_liquid_spray_minor_era_kangaroo_tower_end_hire |  
+| bip_39_word_underscore_12 | festival_erase_maple_liquid_spray_minor_era_kangaroo_tower_end_hire_alter |  
+| bip_39_word_underscore_2 | festival_erase |  
+| bip_39_word_underscore_3 | festival_erase_maple |  
+| bip_39_word_underscore_4 | festival_erase_maple_liquid |  
+| bip_39_word_underscore_5 | festival_erase_maple_liquid_spray |  
+| bip_39_word_underscore_6 | festival_erase_maple_liquid_spray_minor |  
+| bip_39_word_underscore_7 | festival_erase_maple_liquid_spray_minor_era |  
+| bip_39_word_underscore_8 | festival_erase_maple_liquid_spray_minor_era_kangaroo |  
+| bip_39_word_underscore_9 | festival_erase_maple_liquid_spray_minor_era_kangaroo_tower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

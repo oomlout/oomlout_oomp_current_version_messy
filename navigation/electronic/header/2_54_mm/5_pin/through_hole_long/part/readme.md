@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | foam |  
+| bip_39_word_dash_10 | foam-opera-twelve-push-sunny-network-grow-clap-topple-canyon |  
+| bip_39_word_dash_11 | foam-opera-twelve-push-sunny-network-grow-clap-topple-canyon-broccoli |  
+| bip_39_word_dash_12 | foam-opera-twelve-push-sunny-network-grow-clap-topple-canyon-broccoli-apart |  
+| bip_39_word_dash_2 | foam-opera |  
+| bip_39_word_dash_3 | foam-opera-twelve |  
+| bip_39_word_dash_4 | foam-opera-twelve-push |  
+| bip_39_word_dash_5 | foam-opera-twelve-push-sunny |  
+| bip_39_word_dash_6 | foam-opera-twelve-push-sunny-network |  
+| bip_39_word_dash_7 | foam-opera-twelve-push-sunny-network-grow |  
+| bip_39_word_dash_8 | foam-opera-twelve-push-sunny-network-grow-clap |  
+| bip_39_word_dash_9 | foam-opera-twelve-push-sunny-network-grow-clap-topple |  
 | bip_39_word_new_br_1 | foam |  
 | bip_39_word_new_br_10 | foam<br>opera<br>twelve<br>push<br>sunny<br>network<br>grow<br>clap<br>topple<br>canyon |  
 | bip_39_word_new_br_11 | foam<br>opera<br>twelve<br>push<br>sunny<br>network<br>grow<br>clap<br>topple<br>canyon<br>broccoli |  
@@ -147,6 +159,18 @@ topple |
 | bip_39_word_space_7 | foam opera twelve push sunny network grow |  
 | bip_39_word_space_8 | foam opera twelve push sunny network grow clap |  
 | bip_39_word_space_9 | foam opera twelve push sunny network grow clap topple |  
+| bip_39_word_underscore_1 | foam |  
+| bip_39_word_underscore_10 | foam_opera_twelve_push_sunny_network_grow_clap_topple_canyon |  
+| bip_39_word_underscore_11 | foam_opera_twelve_push_sunny_network_grow_clap_topple_canyon_broccoli |  
+| bip_39_word_underscore_12 | foam_opera_twelve_push_sunny_network_grow_clap_topple_canyon_broccoli_apart |  
+| bip_39_word_underscore_2 | foam_opera |  
+| bip_39_word_underscore_3 | foam_opera_twelve |  
+| bip_39_word_underscore_4 | foam_opera_twelve_push |  
+| bip_39_word_underscore_5 | foam_opera_twelve_push_sunny |  
+| bip_39_word_underscore_6 | foam_opera_twelve_push_sunny_network |  
+| bip_39_word_underscore_7 | foam_opera_twelve_push_sunny_network_grow |  
+| bip_39_word_underscore_8 | foam_opera_twelve_push_sunny_network_grow_clap |  
+| bip_39_word_underscore_9 | foam_opera_twelve_push_sunny_network_grow_clap_topple |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

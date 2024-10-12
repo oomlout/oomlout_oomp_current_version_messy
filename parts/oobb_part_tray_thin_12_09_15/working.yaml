@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vintage
+bip_39_word_dash_10: vintage-warrior-weasel-fancy-whale-teach-about-envelope-urban-enhance
+bip_39_word_dash_11: vintage-warrior-weasel-fancy-whale-teach-about-envelope-urban-enhance-reveal
+bip_39_word_dash_12: vintage-warrior-weasel-fancy-whale-teach-about-envelope-urban-enhance-reveal-appear
+bip_39_word_dash_2: vintage-warrior
+bip_39_word_dash_3: vintage-warrior-weasel
+bip_39_word_dash_4: vintage-warrior-weasel-fancy
+bip_39_word_dash_5: vintage-warrior-weasel-fancy-whale
+bip_39_word_dash_6: vintage-warrior-weasel-fancy-whale-teach
+bip_39_word_dash_7: vintage-warrior-weasel-fancy-whale-teach-about
+bip_39_word_dash_8: vintage-warrior-weasel-fancy-whale-teach-about-envelope
+bip_39_word_dash_9: vintage-warrior-weasel-fancy-whale-teach-about-envelope-urban
 bip_39_word_new_br_1: vintage
 bip_39_word_new_br_10: vintage<br>warrior<br>weasel<br>fancy<br>whale<br>teach<br>about<br>envelope<br>urban<br>enhance
 bip_39_word_new_br_11: vintage<br>warrior<br>weasel<br>fancy<br>whale<br>teach<br>about<br>envelope<br>urban<br>enhance<br>reveal
@@ -194,6 +206,18 @@ bip_39_word_space_6: vintage warrior weasel fancy whale teach
 bip_39_word_space_7: vintage warrior weasel fancy whale teach about
 bip_39_word_space_8: vintage warrior weasel fancy whale teach about envelope
 bip_39_word_space_9: vintage warrior weasel fancy whale teach about envelope urban
+bip_39_word_underscore_1: vintage
+bip_39_word_underscore_10: vintage_warrior_weasel_fancy_whale_teach_about_envelope_urban_enhance
+bip_39_word_underscore_11: vintage_warrior_weasel_fancy_whale_teach_about_envelope_urban_enhance_reveal
+bip_39_word_underscore_12: vintage_warrior_weasel_fancy_whale_teach_about_envelope_urban_enhance_reveal_appear
+bip_39_word_underscore_2: vintage_warrior
+bip_39_word_underscore_3: vintage_warrior_weasel
+bip_39_word_underscore_4: vintage_warrior_weasel_fancy
+bip_39_word_underscore_5: vintage_warrior_weasel_fancy_whale
+bip_39_word_underscore_6: vintage_warrior_weasel_fancy_whale_teach
+bip_39_word_underscore_7: vintage_warrior_weasel_fancy_whale_teach_about
+bip_39_word_underscore_8: vintage_warrior_weasel_fancy_whale_teach_about_envelope
+bip_39_word_underscore_9: vintage_warrior_weasel_fancy_whale_teach_about_envelope_urban
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

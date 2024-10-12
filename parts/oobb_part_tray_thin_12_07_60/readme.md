@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pyramid |  
+| bip_39_word_dash_10 | pyramid-mystery-march-brass-canoe-nasty-mind-egg-ignore-story |  
+| bip_39_word_dash_11 | pyramid-mystery-march-brass-canoe-nasty-mind-egg-ignore-story-iron |  
+| bip_39_word_dash_12 | pyramid-mystery-march-brass-canoe-nasty-mind-egg-ignore-story-iron-alcohol |  
+| bip_39_word_dash_2 | pyramid-mystery |  
+| bip_39_word_dash_3 | pyramid-mystery-march |  
+| bip_39_word_dash_4 | pyramid-mystery-march-brass |  
+| bip_39_word_dash_5 | pyramid-mystery-march-brass-canoe |  
+| bip_39_word_dash_6 | pyramid-mystery-march-brass-canoe-nasty |  
+| bip_39_word_dash_7 | pyramid-mystery-march-brass-canoe-nasty-mind |  
+| bip_39_word_dash_8 | pyramid-mystery-march-brass-canoe-nasty-mind-egg |  
+| bip_39_word_dash_9 | pyramid-mystery-march-brass-canoe-nasty-mind-egg-ignore |  
 | bip_39_word_new_br_1 | pyramid |  
 | bip_39_word_new_br_10 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg<br>ignore<br>story |  
 | bip_39_word_new_br_11 | pyramid<br>mystery<br>march<br>brass<br>canoe<br>nasty<br>mind<br>egg<br>ignore<br>story<br>iron |  
@@ -147,6 +159,18 @@ ignore |
 | bip_39_word_space_7 | pyramid mystery march brass canoe nasty mind |  
 | bip_39_word_space_8 | pyramid mystery march brass canoe nasty mind egg |  
 | bip_39_word_space_9 | pyramid mystery march brass canoe nasty mind egg ignore |  
+| bip_39_word_underscore_1 | pyramid |  
+| bip_39_word_underscore_10 | pyramid_mystery_march_brass_canoe_nasty_mind_egg_ignore_story |  
+| bip_39_word_underscore_11 | pyramid_mystery_march_brass_canoe_nasty_mind_egg_ignore_story_iron |  
+| bip_39_word_underscore_12 | pyramid_mystery_march_brass_canoe_nasty_mind_egg_ignore_story_iron_alcohol |  
+| bip_39_word_underscore_2 | pyramid_mystery |  
+| bip_39_word_underscore_3 | pyramid_mystery_march |  
+| bip_39_word_underscore_4 | pyramid_mystery_march_brass |  
+| bip_39_word_underscore_5 | pyramid_mystery_march_brass_canoe |  
+| bip_39_word_underscore_6 | pyramid_mystery_march_brass_canoe_nasty |  
+| bip_39_word_underscore_7 | pyramid_mystery_march_brass_canoe_nasty_mind |  
+| bip_39_word_underscore_8 | pyramid_mystery_march_brass_canoe_nasty_mind_egg |  
+| bip_39_word_underscore_9 | pyramid_mystery_march_brass_canoe_nasty_mind_egg_ignore |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

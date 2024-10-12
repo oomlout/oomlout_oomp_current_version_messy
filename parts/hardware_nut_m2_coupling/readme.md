@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | turkey |  
+| bip_39_word_dash_10 | turkey-roof-pole-wife-differ-father-arch-letter-quit-enhance |  
+| bip_39_word_dash_11 | turkey-roof-pole-wife-differ-father-arch-letter-quit-enhance-inspire |  
+| bip_39_word_dash_12 | turkey-roof-pole-wife-differ-father-arch-letter-quit-enhance-inspire-actual |  
+| bip_39_word_dash_2 | turkey-roof |  
+| bip_39_word_dash_3 | turkey-roof-pole |  
+| bip_39_word_dash_4 | turkey-roof-pole-wife |  
+| bip_39_word_dash_5 | turkey-roof-pole-wife-differ |  
+| bip_39_word_dash_6 | turkey-roof-pole-wife-differ-father |  
+| bip_39_word_dash_7 | turkey-roof-pole-wife-differ-father-arch |  
+| bip_39_word_dash_8 | turkey-roof-pole-wife-differ-father-arch-letter |  
+| bip_39_word_dash_9 | turkey-roof-pole-wife-differ-father-arch-letter-quit |  
 | bip_39_word_new_br_1 | turkey |  
 | bip_39_word_new_br_10 | turkey<br>roof<br>pole<br>wife<br>differ<br>father<br>arch<br>letter<br>quit<br>enhance |  
 | bip_39_word_new_br_11 | turkey<br>roof<br>pole<br>wife<br>differ<br>father<br>arch<br>letter<br>quit<br>enhance<br>inspire |  
@@ -147,6 +159,18 @@ quit |
 | bip_39_word_space_7 | turkey roof pole wife differ father arch |  
 | bip_39_word_space_8 | turkey roof pole wife differ father arch letter |  
 | bip_39_word_space_9 | turkey roof pole wife differ father arch letter quit |  
+| bip_39_word_underscore_1 | turkey |  
+| bip_39_word_underscore_10 | turkey_roof_pole_wife_differ_father_arch_letter_quit_enhance |  
+| bip_39_word_underscore_11 | turkey_roof_pole_wife_differ_father_arch_letter_quit_enhance_inspire |  
+| bip_39_word_underscore_12 | turkey_roof_pole_wife_differ_father_arch_letter_quit_enhance_inspire_actual |  
+| bip_39_word_underscore_2 | turkey_roof |  
+| bip_39_word_underscore_3 | turkey_roof_pole |  
+| bip_39_word_underscore_4 | turkey_roof_pole_wife |  
+| bip_39_word_underscore_5 | turkey_roof_pole_wife_differ |  
+| bip_39_word_underscore_6 | turkey_roof_pole_wife_differ_father |  
+| bip_39_word_underscore_7 | turkey_roof_pole_wife_differ_father_arch |  
+| bip_39_word_underscore_8 | turkey_roof_pole_wife_differ_father_arch_letter |  
+| bip_39_word_underscore_9 | turkey_roof_pole_wife_differ_father_arch_letter_quit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: feel
+bip_39_word_dash_10: feel-strong-scheme-drink-useless-volcano-boil-breeze-found-pact
+bip_39_word_dash_11: feel-strong-scheme-drink-useless-volcano-boil-breeze-found-pact-quick
+bip_39_word_dash_12: feel-strong-scheme-drink-useless-volcano-boil-breeze-found-pact-quick-avocado
+bip_39_word_dash_2: feel-strong
+bip_39_word_dash_3: feel-strong-scheme
+bip_39_word_dash_4: feel-strong-scheme-drink
+bip_39_word_dash_5: feel-strong-scheme-drink-useless
+bip_39_word_dash_6: feel-strong-scheme-drink-useless-volcano
+bip_39_word_dash_7: feel-strong-scheme-drink-useless-volcano-boil
+bip_39_word_dash_8: feel-strong-scheme-drink-useless-volcano-boil-breeze
+bip_39_word_dash_9: feel-strong-scheme-drink-useless-volcano-boil-breeze-found
 bip_39_word_new_br_1: feel
 bip_39_word_new_br_10: feel<br>strong<br>scheme<br>drink<br>useless<br>volcano<br>boil<br>breeze<br>found<br>pact
 bip_39_word_new_br_11: feel<br>strong<br>scheme<br>drink<br>useless<br>volcano<br>boil<br>breeze<br>found<br>pact<br>quick
@@ -193,6 +205,18 @@ bip_39_word_space_6: feel strong scheme drink useless volcano
 bip_39_word_space_7: feel strong scheme drink useless volcano boil
 bip_39_word_space_8: feel strong scheme drink useless volcano boil breeze
 bip_39_word_space_9: feel strong scheme drink useless volcano boil breeze found
+bip_39_word_underscore_1: feel
+bip_39_word_underscore_10: feel_strong_scheme_drink_useless_volcano_boil_breeze_found_pact
+bip_39_word_underscore_11: feel_strong_scheme_drink_useless_volcano_boil_breeze_found_pact_quick
+bip_39_word_underscore_12: feel_strong_scheme_drink_useless_volcano_boil_breeze_found_pact_quick_avocado
+bip_39_word_underscore_2: feel_strong
+bip_39_word_underscore_3: feel_strong_scheme
+bip_39_word_underscore_4: feel_strong_scheme_drink
+bip_39_word_underscore_5: feel_strong_scheme_drink_useless
+bip_39_word_underscore_6: feel_strong_scheme_drink_useless_volcano
+bip_39_word_underscore_7: feel_strong_scheme_drink_useless_volcano_boil
+bip_39_word_underscore_8: feel_strong_scheme_drink_useless_volcano_boil_breeze
+bip_39_word_underscore_9: feel_strong_scheme_drink_useless_volcano_boil_breeze_found
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

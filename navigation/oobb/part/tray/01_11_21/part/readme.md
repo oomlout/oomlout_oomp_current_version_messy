@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | budget |  
+| bip_39_word_dash_10 | budget-world-daring-depart-gaze-ketchup-remember-error-idea-demand |  
+| bip_39_word_dash_11 | budget-world-daring-depart-gaze-ketchup-remember-error-idea-demand-invite |  
+| bip_39_word_dash_12 | budget-world-daring-depart-gaze-ketchup-remember-error-idea-demand-invite-absent |  
+| bip_39_word_dash_2 | budget-world |  
+| bip_39_word_dash_3 | budget-world-daring |  
+| bip_39_word_dash_4 | budget-world-daring-depart |  
+| bip_39_word_dash_5 | budget-world-daring-depart-gaze |  
+| bip_39_word_dash_6 | budget-world-daring-depart-gaze-ketchup |  
+| bip_39_word_dash_7 | budget-world-daring-depart-gaze-ketchup-remember |  
+| bip_39_word_dash_8 | budget-world-daring-depart-gaze-ketchup-remember-error |  
+| bip_39_word_dash_9 | budget-world-daring-depart-gaze-ketchup-remember-error-idea |  
 | bip_39_word_new_br_1 | budget |  
 | bip_39_word_new_br_10 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error<br>idea<br>demand |  
 | bip_39_word_new_br_11 | budget<br>world<br>daring<br>depart<br>gaze<br>ketchup<br>remember<br>error<br>idea<br>demand<br>invite |  
@@ -147,6 +159,18 @@ idea |
 | bip_39_word_space_7 | budget world daring depart gaze ketchup remember |  
 | bip_39_word_space_8 | budget world daring depart gaze ketchup remember error |  
 | bip_39_word_space_9 | budget world daring depart gaze ketchup remember error idea |  
+| bip_39_word_underscore_1 | budget |  
+| bip_39_word_underscore_10 | budget_world_daring_depart_gaze_ketchup_remember_error_idea_demand |  
+| bip_39_word_underscore_11 | budget_world_daring_depart_gaze_ketchup_remember_error_idea_demand_invite |  
+| bip_39_word_underscore_12 | budget_world_daring_depart_gaze_ketchup_remember_error_idea_demand_invite_absent |  
+| bip_39_word_underscore_2 | budget_world |  
+| bip_39_word_underscore_3 | budget_world_daring |  
+| bip_39_word_underscore_4 | budget_world_daring_depart |  
+| bip_39_word_underscore_5 | budget_world_daring_depart_gaze |  
+| bip_39_word_underscore_6 | budget_world_daring_depart_gaze_ketchup |  
+| bip_39_word_underscore_7 | budget_world_daring_depart_gaze_ketchup_remember |  
+| bip_39_word_underscore_8 | budget_world_daring_depart_gaze_ketchup_remember_error |  
+| bip_39_word_underscore_9 | budget_world_daring_depart_gaze_ketchup_remember_error_idea |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dumb
+bip_39_word_dash_10: dumb-utility-shell-marble-assault-amateur-rubber-wrist-trumpet-cover
+bip_39_word_dash_11: dumb-utility-shell-marble-assault-amateur-rubber-wrist-trumpet-cover-boat
+bip_39_word_dash_12: dumb-utility-shell-marble-assault-amateur-rubber-wrist-trumpet-cover-boat-affair
+bip_39_word_dash_2: dumb-utility
+bip_39_word_dash_3: dumb-utility-shell
+bip_39_word_dash_4: dumb-utility-shell-marble
+bip_39_word_dash_5: dumb-utility-shell-marble-assault
+bip_39_word_dash_6: dumb-utility-shell-marble-assault-amateur
+bip_39_word_dash_7: dumb-utility-shell-marble-assault-amateur-rubber
+bip_39_word_dash_8: dumb-utility-shell-marble-assault-amateur-rubber-wrist
+bip_39_word_dash_9: dumb-utility-shell-marble-assault-amateur-rubber-wrist-trumpet
 bip_39_word_new_br_1: dumb
 bip_39_word_new_br_10: dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist<br>trumpet<br>cover
 bip_39_word_new_br_11: dumb<br>utility<br>shell<br>marble<br>assault<br>amateur<br>rubber<br>wrist<br>trumpet<br>cover<br>boat
@@ -194,6 +206,18 @@ bip_39_word_space_6: dumb utility shell marble assault amateur
 bip_39_word_space_7: dumb utility shell marble assault amateur rubber
 bip_39_word_space_8: dumb utility shell marble assault amateur rubber wrist
 bip_39_word_space_9: dumb utility shell marble assault amateur rubber wrist trumpet
+bip_39_word_underscore_1: dumb
+bip_39_word_underscore_10: dumb_utility_shell_marble_assault_amateur_rubber_wrist_trumpet_cover
+bip_39_word_underscore_11: dumb_utility_shell_marble_assault_amateur_rubber_wrist_trumpet_cover_boat
+bip_39_word_underscore_12: dumb_utility_shell_marble_assault_amateur_rubber_wrist_trumpet_cover_boat_affair
+bip_39_word_underscore_2: dumb_utility
+bip_39_word_underscore_3: dumb_utility_shell
+bip_39_word_underscore_4: dumb_utility_shell_marble
+bip_39_word_underscore_5: dumb_utility_shell_marble_assault
+bip_39_word_underscore_6: dumb_utility_shell_marble_assault_amateur
+bip_39_word_underscore_7: dumb_utility_shell_marble_assault_amateur_rubber
+bip_39_word_underscore_8: dumb_utility_shell_marble_assault_amateur_rubber_wrist
+bip_39_word_underscore_9: dumb_utility_shell_marble_assault_amateur_rubber_wrist_trumpet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

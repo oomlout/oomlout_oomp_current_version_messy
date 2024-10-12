@@ -1,3 +1,15 @@
+bip_39_word_dash_1: axis
+bip_39_word_dash_10: axis-right-garment-allow-valve-foam-gauge-seed-worth-hard
+bip_39_word_dash_11: axis-right-garment-allow-valve-foam-gauge-seed-worth-hard-front
+bip_39_word_dash_12: axis-right-garment-allow-valve-foam-gauge-seed-worth-hard-front-average
+bip_39_word_dash_2: axis-right
+bip_39_word_dash_3: axis-right-garment
+bip_39_word_dash_4: axis-right-garment-allow
+bip_39_word_dash_5: axis-right-garment-allow-valve
+bip_39_word_dash_6: axis-right-garment-allow-valve-foam
+bip_39_word_dash_7: axis-right-garment-allow-valve-foam-gauge
+bip_39_word_dash_8: axis-right-garment-allow-valve-foam-gauge-seed
+bip_39_word_dash_9: axis-right-garment-allow-valve-foam-gauge-seed-worth
 bip_39_word_new_br_1: axis
 bip_39_word_new_br_10: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed<br>worth<br>hard
 bip_39_word_new_br_11: axis<br>right<br>garment<br>allow<br>valve<br>foam<br>gauge<br>seed<br>worth<br>hard<br>front
@@ -192,6 +204,18 @@ bip_39_word_space_6: axis right garment allow valve foam
 bip_39_word_space_7: axis right garment allow valve foam gauge
 bip_39_word_space_8: axis right garment allow valve foam gauge seed
 bip_39_word_space_9: axis right garment allow valve foam gauge seed worth
+bip_39_word_underscore_1: axis
+bip_39_word_underscore_10: axis_right_garment_allow_valve_foam_gauge_seed_worth_hard
+bip_39_word_underscore_11: axis_right_garment_allow_valve_foam_gauge_seed_worth_hard_front
+bip_39_word_underscore_12: axis_right_garment_allow_valve_foam_gauge_seed_worth_hard_front_average
+bip_39_word_underscore_2: axis_right
+bip_39_word_underscore_3: axis_right_garment
+bip_39_word_underscore_4: axis_right_garment_allow
+bip_39_word_underscore_5: axis_right_garment_allow_valve
+bip_39_word_underscore_6: axis_right_garment_allow_valve_foam
+bip_39_word_underscore_7: axis_right_garment_allow_valve_foam_gauge
+bip_39_word_underscore_8: axis_right_garment_allow_valve_foam_gauge_seed
+bip_39_word_underscore_9: axis_right_garment_allow_valve_foam_gauge_seed_worth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

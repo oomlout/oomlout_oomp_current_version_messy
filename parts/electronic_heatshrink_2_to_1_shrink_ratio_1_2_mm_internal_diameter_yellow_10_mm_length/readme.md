@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | misery |  
+| bip_39_word_dash_10 | misery-short-trophy-connect-stock-jealous-remove-organ-cloud-side |  
+| bip_39_word_dash_11 | misery-short-trophy-connect-stock-jealous-remove-organ-cloud-side-fire |  
+| bip_39_word_dash_12 | misery-short-trophy-connect-stock-jealous-remove-organ-cloud-side-fire-apology |  
+| bip_39_word_dash_2 | misery-short |  
+| bip_39_word_dash_3 | misery-short-trophy |  
+| bip_39_word_dash_4 | misery-short-trophy-connect |  
+| bip_39_word_dash_5 | misery-short-trophy-connect-stock |  
+| bip_39_word_dash_6 | misery-short-trophy-connect-stock-jealous |  
+| bip_39_word_dash_7 | misery-short-trophy-connect-stock-jealous-remove |  
+| bip_39_word_dash_8 | misery-short-trophy-connect-stock-jealous-remove-organ |  
+| bip_39_word_dash_9 | misery-short-trophy-connect-stock-jealous-remove-organ-cloud |  
 | bip_39_word_new_br_1 | misery |  
 | bip_39_word_new_br_10 | misery<br>short<br>trophy<br>connect<br>stock<br>jealous<br>remove<br>organ<br>cloud<br>side |  
 | bip_39_word_new_br_11 | misery<br>short<br>trophy<br>connect<br>stock<br>jealous<br>remove<br>organ<br>cloud<br>side<br>fire |  
@@ -147,6 +159,18 @@ cloud |
 | bip_39_word_space_7 | misery short trophy connect stock jealous remove |  
 | bip_39_word_space_8 | misery short trophy connect stock jealous remove organ |  
 | bip_39_word_space_9 | misery short trophy connect stock jealous remove organ cloud |  
+| bip_39_word_underscore_1 | misery |  
+| bip_39_word_underscore_10 | misery_short_trophy_connect_stock_jealous_remove_organ_cloud_side |  
+| bip_39_word_underscore_11 | misery_short_trophy_connect_stock_jealous_remove_organ_cloud_side_fire |  
+| bip_39_word_underscore_12 | misery_short_trophy_connect_stock_jealous_remove_organ_cloud_side_fire_apology |  
+| bip_39_word_underscore_2 | misery_short |  
+| bip_39_word_underscore_3 | misery_short_trophy |  
+| bip_39_word_underscore_4 | misery_short_trophy_connect |  
+| bip_39_word_underscore_5 | misery_short_trophy_connect_stock |  
+| bip_39_word_underscore_6 | misery_short_trophy_connect_stock_jealous |  
+| bip_39_word_underscore_7 | misery_short_trophy_connect_stock_jealous_remove |  
+| bip_39_word_underscore_8 | misery_short_trophy_connect_stock_jealous_remove_organ |  
+| bip_39_word_underscore_9 | misery_short_trophy_connect_stock_jealous_remove_organ_cloud |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

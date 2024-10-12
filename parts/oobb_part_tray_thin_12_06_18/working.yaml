@@ -1,3 +1,15 @@
+bip_39_word_dash_1: boy
+bip_39_word_dash_10: boy-penalty-never-move-quick-reason-begin-case-fat-number
+bip_39_word_dash_11: boy-penalty-never-move-quick-reason-begin-case-fat-number-innocent
+bip_39_word_dash_12: boy-penalty-never-move-quick-reason-begin-case-fat-number-innocent-arm
+bip_39_word_dash_2: boy-penalty
+bip_39_word_dash_3: boy-penalty-never
+bip_39_word_dash_4: boy-penalty-never-move
+bip_39_word_dash_5: boy-penalty-never-move-quick
+bip_39_word_dash_6: boy-penalty-never-move-quick-reason
+bip_39_word_dash_7: boy-penalty-never-move-quick-reason-begin
+bip_39_word_dash_8: boy-penalty-never-move-quick-reason-begin-case
+bip_39_word_dash_9: boy-penalty-never-move-quick-reason-begin-case-fat
 bip_39_word_new_br_1: boy
 bip_39_word_new_br_10: boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case<br>fat<br>number
 bip_39_word_new_br_11: boy<br>penalty<br>never<br>move<br>quick<br>reason<br>begin<br>case<br>fat<br>number<br>innocent
@@ -192,6 +204,18 @@ bip_39_word_space_6: boy penalty never move quick reason
 bip_39_word_space_7: boy penalty never move quick reason begin
 bip_39_word_space_8: boy penalty never move quick reason begin case
 bip_39_word_space_9: boy penalty never move quick reason begin case fat
+bip_39_word_underscore_1: boy
+bip_39_word_underscore_10: boy_penalty_never_move_quick_reason_begin_case_fat_number
+bip_39_word_underscore_11: boy_penalty_never_move_quick_reason_begin_case_fat_number_innocent
+bip_39_word_underscore_12: boy_penalty_never_move_quick_reason_begin_case_fat_number_innocent_arm
+bip_39_word_underscore_2: boy_penalty
+bip_39_word_underscore_3: boy_penalty_never
+bip_39_word_underscore_4: boy_penalty_never_move
+bip_39_word_underscore_5: boy_penalty_never_move_quick
+bip_39_word_underscore_6: boy_penalty_never_move_quick_reason
+bip_39_word_underscore_7: boy_penalty_never_move_quick_reason_begin
+bip_39_word_underscore_8: boy_penalty_never_move_quick_reason_begin_case
+bip_39_word_underscore_9: boy_penalty_never_move_quick_reason_begin_case_fat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

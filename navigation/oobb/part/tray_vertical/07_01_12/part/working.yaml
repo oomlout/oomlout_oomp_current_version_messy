@@ -1,3 +1,15 @@
+bip_39_word_dash_1: reduce
+bip_39_word_dash_10: reduce-glove-board-fetch-cook-congress-ankle-polar-endorse-member
+bip_39_word_dash_11: reduce-glove-board-fetch-cook-congress-ankle-polar-endorse-member-error
+bip_39_word_dash_12: reduce-glove-board-fetch-cook-congress-ankle-polar-endorse-member-error-advice
+bip_39_word_dash_2: reduce-glove
+bip_39_word_dash_3: reduce-glove-board
+bip_39_word_dash_4: reduce-glove-board-fetch
+bip_39_word_dash_5: reduce-glove-board-fetch-cook
+bip_39_word_dash_6: reduce-glove-board-fetch-cook-congress
+bip_39_word_dash_7: reduce-glove-board-fetch-cook-congress-ankle
+bip_39_word_dash_8: reduce-glove-board-fetch-cook-congress-ankle-polar
+bip_39_word_dash_9: reduce-glove-board-fetch-cook-congress-ankle-polar-endorse
 bip_39_word_new_br_1: reduce
 bip_39_word_new_br_10: reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member
 bip_39_word_new_br_11: reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member<br>error
@@ -193,6 +205,18 @@ bip_39_word_space_6: reduce glove board fetch cook congress
 bip_39_word_space_7: reduce glove board fetch cook congress ankle
 bip_39_word_space_8: reduce glove board fetch cook congress ankle polar
 bip_39_word_space_9: reduce glove board fetch cook congress ankle polar endorse
+bip_39_word_underscore_1: reduce
+bip_39_word_underscore_10: reduce_glove_board_fetch_cook_congress_ankle_polar_endorse_member
+bip_39_word_underscore_11: reduce_glove_board_fetch_cook_congress_ankle_polar_endorse_member_error
+bip_39_word_underscore_12: reduce_glove_board_fetch_cook_congress_ankle_polar_endorse_member_error_advice
+bip_39_word_underscore_2: reduce_glove
+bip_39_word_underscore_3: reduce_glove_board
+bip_39_word_underscore_4: reduce_glove_board_fetch
+bip_39_word_underscore_5: reduce_glove_board_fetch_cook
+bip_39_word_underscore_6: reduce_glove_board_fetch_cook_congress
+bip_39_word_underscore_7: reduce_glove_board_fetch_cook_congress_ankle
+bip_39_word_underscore_8: reduce_glove_board_fetch_cook_congress_ankle_polar
+bip_39_word_underscore_9: reduce_glove_board_fetch_cook_congress_ankle_polar_endorse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

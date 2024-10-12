@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | advice |  
+| bip_39_word_dash_10 | advice-snake-prevent-weather-gown-exchange-govern-seminar-ball-climb |  
+| bip_39_word_dash_11 | advice-snake-prevent-weather-gown-exchange-govern-seminar-ball-climb-despair |  
+| bip_39_word_dash_12 | advice-snake-prevent-weather-gown-exchange-govern-seminar-ball-climb-despair-abstract |  
+| bip_39_word_dash_2 | advice-snake |  
+| bip_39_word_dash_3 | advice-snake-prevent |  
+| bip_39_word_dash_4 | advice-snake-prevent-weather |  
+| bip_39_word_dash_5 | advice-snake-prevent-weather-gown |  
+| bip_39_word_dash_6 | advice-snake-prevent-weather-gown-exchange |  
+| bip_39_word_dash_7 | advice-snake-prevent-weather-gown-exchange-govern |  
+| bip_39_word_dash_8 | advice-snake-prevent-weather-gown-exchange-govern-seminar |  
+| bip_39_word_dash_9 | advice-snake-prevent-weather-gown-exchange-govern-seminar-ball |  
 | bip_39_word_new_br_1 | advice |  
 | bip_39_word_new_br_10 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar<br>ball<br>climb |  
 | bip_39_word_new_br_11 | advice<br>snake<br>prevent<br>weather<br>gown<br>exchange<br>govern<br>seminar<br>ball<br>climb<br>despair |  
@@ -147,6 +159,18 @@ ball |
 | bip_39_word_space_7 | advice snake prevent weather gown exchange govern |  
 | bip_39_word_space_8 | advice snake prevent weather gown exchange govern seminar |  
 | bip_39_word_space_9 | advice snake prevent weather gown exchange govern seminar ball |  
+| bip_39_word_underscore_1 | advice |  
+| bip_39_word_underscore_10 | advice_snake_prevent_weather_gown_exchange_govern_seminar_ball_climb |  
+| bip_39_word_underscore_11 | advice_snake_prevent_weather_gown_exchange_govern_seminar_ball_climb_despair |  
+| bip_39_word_underscore_12 | advice_snake_prevent_weather_gown_exchange_govern_seminar_ball_climb_despair_abstract |  
+| bip_39_word_underscore_2 | advice_snake |  
+| bip_39_word_underscore_3 | advice_snake_prevent |  
+| bip_39_word_underscore_4 | advice_snake_prevent_weather |  
+| bip_39_word_underscore_5 | advice_snake_prevent_weather_gown |  
+| bip_39_word_underscore_6 | advice_snake_prevent_weather_gown_exchange |  
+| bip_39_word_underscore_7 | advice_snake_prevent_weather_gown_exchange_govern |  
+| bip_39_word_underscore_8 | advice_snake_prevent_weather_gown_exchange_govern_seminar |  
+| bip_39_word_underscore_9 | advice_snake_prevent_weather_gown_exchange_govern_seminar_ball |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

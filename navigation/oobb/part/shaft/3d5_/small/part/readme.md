@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | patrol |  
+| bip_39_word_dash_10 | patrol-alpha-real-defy-brother-chat-aunt-turn-question-main |  
+| bip_39_word_dash_11 | patrol-alpha-real-defy-brother-chat-aunt-turn-question-main-inspire |  
+| bip_39_word_dash_12 | patrol-alpha-real-defy-brother-chat-aunt-turn-question-main-inspire-actress |  
+| bip_39_word_dash_2 | patrol-alpha |  
+| bip_39_word_dash_3 | patrol-alpha-real |  
+| bip_39_word_dash_4 | patrol-alpha-real-defy |  
+| bip_39_word_dash_5 | patrol-alpha-real-defy-brother |  
+| bip_39_word_dash_6 | patrol-alpha-real-defy-brother-chat |  
+| bip_39_word_dash_7 | patrol-alpha-real-defy-brother-chat-aunt |  
+| bip_39_word_dash_8 | patrol-alpha-real-defy-brother-chat-aunt-turn |  
+| bip_39_word_dash_9 | patrol-alpha-real-defy-brother-chat-aunt-turn-question |  
 | bip_39_word_new_br_1 | patrol |  
 | bip_39_word_new_br_10 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main |  
 | bip_39_word_new_br_11 | patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main<br>inspire |  
@@ -147,6 +159,18 @@ question |
 | bip_39_word_space_7 | patrol alpha real defy brother chat aunt |  
 | bip_39_word_space_8 | patrol alpha real defy brother chat aunt turn |  
 | bip_39_word_space_9 | patrol alpha real defy brother chat aunt turn question |  
+| bip_39_word_underscore_1 | patrol |  
+| bip_39_word_underscore_10 | patrol_alpha_real_defy_brother_chat_aunt_turn_question_main |  
+| bip_39_word_underscore_11 | patrol_alpha_real_defy_brother_chat_aunt_turn_question_main_inspire |  
+| bip_39_word_underscore_12 | patrol_alpha_real_defy_brother_chat_aunt_turn_question_main_inspire_actress |  
+| bip_39_word_underscore_2 | patrol_alpha |  
+| bip_39_word_underscore_3 | patrol_alpha_real |  
+| bip_39_word_underscore_4 | patrol_alpha_real_defy |  
+| bip_39_word_underscore_5 | patrol_alpha_real_defy_brother |  
+| bip_39_word_underscore_6 | patrol_alpha_real_defy_brother_chat |  
+| bip_39_word_underscore_7 | patrol_alpha_real_defy_brother_chat_aunt |  
+| bip_39_word_underscore_8 | patrol_alpha_real_defy_brother_chat_aunt_turn |  
+| bip_39_word_underscore_9 | patrol_alpha_real_defy_brother_chat_aunt_turn_question |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

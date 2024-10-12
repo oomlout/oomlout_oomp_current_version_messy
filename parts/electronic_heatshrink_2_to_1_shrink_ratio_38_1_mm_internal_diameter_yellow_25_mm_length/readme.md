@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lawsuit |  
+| bip_39_word_dash_10 | lawsuit-monkey-bulk-olympic-sausage-melt-ill-cool-warm-list |  
+| bip_39_word_dash_11 | lawsuit-monkey-bulk-olympic-sausage-melt-ill-cool-warm-list-brave |  
+| bip_39_word_dash_12 | lawsuit-monkey-bulk-olympic-sausage-melt-ill-cool-warm-list-brave-across |  
+| bip_39_word_dash_2 | lawsuit-monkey |  
+| bip_39_word_dash_3 | lawsuit-monkey-bulk |  
+| bip_39_word_dash_4 | lawsuit-monkey-bulk-olympic |  
+| bip_39_word_dash_5 | lawsuit-monkey-bulk-olympic-sausage |  
+| bip_39_word_dash_6 | lawsuit-monkey-bulk-olympic-sausage-melt |  
+| bip_39_word_dash_7 | lawsuit-monkey-bulk-olympic-sausage-melt-ill |  
+| bip_39_word_dash_8 | lawsuit-monkey-bulk-olympic-sausage-melt-ill-cool |  
+| bip_39_word_dash_9 | lawsuit-monkey-bulk-olympic-sausage-melt-ill-cool-warm |  
 | bip_39_word_new_br_1 | lawsuit |  
 | bip_39_word_new_br_10 | lawsuit<br>monkey<br>bulk<br>olympic<br>sausage<br>melt<br>ill<br>cool<br>warm<br>list |  
 | bip_39_word_new_br_11 | lawsuit<br>monkey<br>bulk<br>olympic<br>sausage<br>melt<br>ill<br>cool<br>warm<br>list<br>brave |  
@@ -147,6 +159,18 @@ warm |
 | bip_39_word_space_7 | lawsuit monkey bulk olympic sausage melt ill |  
 | bip_39_word_space_8 | lawsuit monkey bulk olympic sausage melt ill cool |  
 | bip_39_word_space_9 | lawsuit monkey bulk olympic sausage melt ill cool warm |  
+| bip_39_word_underscore_1 | lawsuit |  
+| bip_39_word_underscore_10 | lawsuit_monkey_bulk_olympic_sausage_melt_ill_cool_warm_list |  
+| bip_39_word_underscore_11 | lawsuit_monkey_bulk_olympic_sausage_melt_ill_cool_warm_list_brave |  
+| bip_39_word_underscore_12 | lawsuit_monkey_bulk_olympic_sausage_melt_ill_cool_warm_list_brave_across |  
+| bip_39_word_underscore_2 | lawsuit_monkey |  
+| bip_39_word_underscore_3 | lawsuit_monkey_bulk |  
+| bip_39_word_underscore_4 | lawsuit_monkey_bulk_olympic |  
+| bip_39_word_underscore_5 | lawsuit_monkey_bulk_olympic_sausage |  
+| bip_39_word_underscore_6 | lawsuit_monkey_bulk_olympic_sausage_melt |  
+| bip_39_word_underscore_7 | lawsuit_monkey_bulk_olympic_sausage_melt_ill |  
+| bip_39_word_underscore_8 | lawsuit_monkey_bulk_olympic_sausage_melt_ill_cool |  
+| bip_39_word_underscore_9 | lawsuit_monkey_bulk_olympic_sausage_melt_ill_cool_warm |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: access
+bip_39_word_dash_10: access-food-digital-carry-recycle-horn-enter-super-invest-model
+bip_39_word_dash_11: access-food-digital-carry-recycle-horn-enter-super-invest-model-dumb
+bip_39_word_dash_12: access-food-digital-carry-recycle-horn-enter-super-invest-model-dumb-armed
+bip_39_word_dash_2: access-food
+bip_39_word_dash_3: access-food-digital
+bip_39_word_dash_4: access-food-digital-carry
+bip_39_word_dash_5: access-food-digital-carry-recycle
+bip_39_word_dash_6: access-food-digital-carry-recycle-horn
+bip_39_word_dash_7: access-food-digital-carry-recycle-horn-enter
+bip_39_word_dash_8: access-food-digital-carry-recycle-horn-enter-super
+bip_39_word_dash_9: access-food-digital-carry-recycle-horn-enter-super-invest
 bip_39_word_new_br_1: access
 bip_39_word_new_br_10: access<br>food<br>digital<br>carry<br>recycle<br>horn<br>enter<br>super<br>invest<br>model
 bip_39_word_new_br_11: access<br>food<br>digital<br>carry<br>recycle<br>horn<br>enter<br>super<br>invest<br>model<br>dumb
@@ -193,6 +205,18 @@ bip_39_word_space_6: access food digital carry recycle horn
 bip_39_word_space_7: access food digital carry recycle horn enter
 bip_39_word_space_8: access food digital carry recycle horn enter super
 bip_39_word_space_9: access food digital carry recycle horn enter super invest
+bip_39_word_underscore_1: access
+bip_39_word_underscore_10: access_food_digital_carry_recycle_horn_enter_super_invest_model
+bip_39_word_underscore_11: access_food_digital_carry_recycle_horn_enter_super_invest_model_dumb
+bip_39_word_underscore_12: access_food_digital_carry_recycle_horn_enter_super_invest_model_dumb_armed
+bip_39_word_underscore_2: access_food
+bip_39_word_underscore_3: access_food_digital
+bip_39_word_underscore_4: access_food_digital_carry
+bip_39_word_underscore_5: access_food_digital_carry_recycle
+bip_39_word_underscore_6: access_food_digital_carry_recycle_horn
+bip_39_word_underscore_7: access_food_digital_carry_recycle_horn_enter
+bip_39_word_underscore_8: access_food_digital_carry_recycle_horn_enter_super
+bip_39_word_underscore_9: access_food_digital_carry_recycle_horn_enter_super_invest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lumber |  
+| bip_39_word_dash_10 | lumber-ride-whale-phrase-permit-grain-know-point-image-daughter |  
+| bip_39_word_dash_11 | lumber-ride-whale-phrase-permit-grain-know-point-image-daughter-wool |  
+| bip_39_word_dash_12 | lumber-ride-whale-phrase-permit-grain-know-point-image-daughter-wool-agent |  
+| bip_39_word_dash_2 | lumber-ride |  
+| bip_39_word_dash_3 | lumber-ride-whale |  
+| bip_39_word_dash_4 | lumber-ride-whale-phrase |  
+| bip_39_word_dash_5 | lumber-ride-whale-phrase-permit |  
+| bip_39_word_dash_6 | lumber-ride-whale-phrase-permit-grain |  
+| bip_39_word_dash_7 | lumber-ride-whale-phrase-permit-grain-know |  
+| bip_39_word_dash_8 | lumber-ride-whale-phrase-permit-grain-know-point |  
+| bip_39_word_dash_9 | lumber-ride-whale-phrase-permit-grain-know-point-image |  
 | bip_39_word_new_br_1 | lumber |  
 | bip_39_word_new_br_10 | lumber<br>ride<br>whale<br>phrase<br>permit<br>grain<br>know<br>point<br>image<br>daughter |  
 | bip_39_word_new_br_11 | lumber<br>ride<br>whale<br>phrase<br>permit<br>grain<br>know<br>point<br>image<br>daughter<br>wool |  
@@ -147,6 +159,18 @@ image |
 | bip_39_word_space_7 | lumber ride whale phrase permit grain know |  
 | bip_39_word_space_8 | lumber ride whale phrase permit grain know point |  
 | bip_39_word_space_9 | lumber ride whale phrase permit grain know point image |  
+| bip_39_word_underscore_1 | lumber |  
+| bip_39_word_underscore_10 | lumber_ride_whale_phrase_permit_grain_know_point_image_daughter |  
+| bip_39_word_underscore_11 | lumber_ride_whale_phrase_permit_grain_know_point_image_daughter_wool |  
+| bip_39_word_underscore_12 | lumber_ride_whale_phrase_permit_grain_know_point_image_daughter_wool_agent |  
+| bip_39_word_underscore_2 | lumber_ride |  
+| bip_39_word_underscore_3 | lumber_ride_whale |  
+| bip_39_word_underscore_4 | lumber_ride_whale_phrase |  
+| bip_39_word_underscore_5 | lumber_ride_whale_phrase_permit |  
+| bip_39_word_underscore_6 | lumber_ride_whale_phrase_permit_grain |  
+| bip_39_word_underscore_7 | lumber_ride_whale_phrase_permit_grain_know |  
+| bip_39_word_underscore_8 | lumber_ride_whale_phrase_permit_grain_know_point |  
+| bip_39_word_underscore_9 | lumber_ride_whale_phrase_permit_grain_know_point_image |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

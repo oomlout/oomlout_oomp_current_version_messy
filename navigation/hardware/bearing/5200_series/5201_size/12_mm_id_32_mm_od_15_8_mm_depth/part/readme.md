@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decrease |  
+| bip_39_word_dash_10 | decrease-tragic-sauce-crush-juice-future-drive-skin-promote-monkey |  
+| bip_39_word_dash_11 | decrease-tragic-sauce-crush-juice-future-drive-skin-promote-monkey-main |  
+| bip_39_word_dash_12 | decrease-tragic-sauce-crush-juice-future-drive-skin-promote-monkey-main-analyst |  
+| bip_39_word_dash_2 | decrease-tragic |  
+| bip_39_word_dash_3 | decrease-tragic-sauce |  
+| bip_39_word_dash_4 | decrease-tragic-sauce-crush |  
+| bip_39_word_dash_5 | decrease-tragic-sauce-crush-juice |  
+| bip_39_word_dash_6 | decrease-tragic-sauce-crush-juice-future |  
+| bip_39_word_dash_7 | decrease-tragic-sauce-crush-juice-future-drive |  
+| bip_39_word_dash_8 | decrease-tragic-sauce-crush-juice-future-drive-skin |  
+| bip_39_word_dash_9 | decrease-tragic-sauce-crush-juice-future-drive-skin-promote |  
 | bip_39_word_new_br_1 | decrease |  
 | bip_39_word_new_br_10 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin<br>promote<br>monkey |  
 | bip_39_word_new_br_11 | decrease<br>tragic<br>sauce<br>crush<br>juice<br>future<br>drive<br>skin<br>promote<br>monkey<br>main |  
@@ -147,6 +159,18 @@ promote |
 | bip_39_word_space_7 | decrease tragic sauce crush juice future drive |  
 | bip_39_word_space_8 | decrease tragic sauce crush juice future drive skin |  
 | bip_39_word_space_9 | decrease tragic sauce crush juice future drive skin promote |  
+| bip_39_word_underscore_1 | decrease |  
+| bip_39_word_underscore_10 | decrease_tragic_sauce_crush_juice_future_drive_skin_promote_monkey |  
+| bip_39_word_underscore_11 | decrease_tragic_sauce_crush_juice_future_drive_skin_promote_monkey_main |  
+| bip_39_word_underscore_12 | decrease_tragic_sauce_crush_juice_future_drive_skin_promote_monkey_main_analyst |  
+| bip_39_word_underscore_2 | decrease_tragic |  
+| bip_39_word_underscore_3 | decrease_tragic_sauce |  
+| bip_39_word_underscore_4 | decrease_tragic_sauce_crush |  
+| bip_39_word_underscore_5 | decrease_tragic_sauce_crush_juice |  
+| bip_39_word_underscore_6 | decrease_tragic_sauce_crush_juice_future |  
+| bip_39_word_underscore_7 | decrease_tragic_sauce_crush_juice_future_drive |  
+| bip_39_word_underscore_8 | decrease_tragic_sauce_crush_juice_future_drive_skin |  
+| bip_39_word_underscore_9 | decrease_tragic_sauce_crush_juice_future_drive_skin_promote |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

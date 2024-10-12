@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | broccoli |  
+| bip_39_word_dash_10 | broccoli-around-search-menu-manage-clerk-work-match-account-congress |  
+| bip_39_word_dash_11 | broccoli-around-search-menu-manage-clerk-work-match-account-congress-attitude |  
+| bip_39_word_dash_12 | broccoli-around-search-menu-manage-clerk-work-match-account-congress-attitude-ahead |  
+| bip_39_word_dash_2 | broccoli-around |  
+| bip_39_word_dash_3 | broccoli-around-search |  
+| bip_39_word_dash_4 | broccoli-around-search-menu |  
+| bip_39_word_dash_5 | broccoli-around-search-menu-manage |  
+| bip_39_word_dash_6 | broccoli-around-search-menu-manage-clerk |  
+| bip_39_word_dash_7 | broccoli-around-search-menu-manage-clerk-work |  
+| bip_39_word_dash_8 | broccoli-around-search-menu-manage-clerk-work-match |  
+| bip_39_word_dash_9 | broccoli-around-search-menu-manage-clerk-work-match-account |  
 | bip_39_word_new_br_1 | broccoli |  
 | bip_39_word_new_br_10 | broccoli<br>around<br>search<br>menu<br>manage<br>clerk<br>work<br>match<br>account<br>congress |  
 | bip_39_word_new_br_11 | broccoli<br>around<br>search<br>menu<br>manage<br>clerk<br>work<br>match<br>account<br>congress<br>attitude |  
@@ -147,6 +159,18 @@ account |
 | bip_39_word_space_7 | broccoli around search menu manage clerk work |  
 | bip_39_word_space_8 | broccoli around search menu manage clerk work match |  
 | bip_39_word_space_9 | broccoli around search menu manage clerk work match account |  
+| bip_39_word_underscore_1 | broccoli |  
+| bip_39_word_underscore_10 | broccoli_around_search_menu_manage_clerk_work_match_account_congress |  
+| bip_39_word_underscore_11 | broccoli_around_search_menu_manage_clerk_work_match_account_congress_attitude |  
+| bip_39_word_underscore_12 | broccoli_around_search_menu_manage_clerk_work_match_account_congress_attitude_ahead |  
+| bip_39_word_underscore_2 | broccoli_around |  
+| bip_39_word_underscore_3 | broccoli_around_search |  
+| bip_39_word_underscore_4 | broccoli_around_search_menu |  
+| bip_39_word_underscore_5 | broccoli_around_search_menu_manage |  
+| bip_39_word_underscore_6 | broccoli_around_search_menu_manage_clerk |  
+| bip_39_word_underscore_7 | broccoli_around_search_menu_manage_clerk_work |  
+| bip_39_word_underscore_8 | broccoli_around_search_menu_manage_clerk_work_match |  
+| bip_39_word_underscore_9 | broccoli_around_search_menu_manage_clerk_work_match_account |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

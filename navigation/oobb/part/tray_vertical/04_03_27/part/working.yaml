@@ -1,3 +1,15 @@
+bip_39_word_dash_1: burden
+bip_39_word_dash_10: burden-flag-differ-music-outer-salute-mention-disagree-shrimp-fantasy
+bip_39_word_dash_11: burden-flag-differ-music-outer-salute-mention-disagree-shrimp-fantasy-december
+bip_39_word_dash_12: burden-flag-differ-music-outer-salute-mention-disagree-shrimp-fantasy-december-acoustic
+bip_39_word_dash_2: burden-flag
+bip_39_word_dash_3: burden-flag-differ
+bip_39_word_dash_4: burden-flag-differ-music
+bip_39_word_dash_5: burden-flag-differ-music-outer
+bip_39_word_dash_6: burden-flag-differ-music-outer-salute
+bip_39_word_dash_7: burden-flag-differ-music-outer-salute-mention
+bip_39_word_dash_8: burden-flag-differ-music-outer-salute-mention-disagree
+bip_39_word_dash_9: burden-flag-differ-music-outer-salute-mention-disagree-shrimp
 bip_39_word_new_br_1: burden
 bip_39_word_new_br_10: burden<br>flag<br>differ<br>music<br>outer<br>salute<br>mention<br>disagree<br>shrimp<br>fantasy
 bip_39_word_new_br_11: burden<br>flag<br>differ<br>music<br>outer<br>salute<br>mention<br>disagree<br>shrimp<br>fantasy<br>december
@@ -194,6 +206,18 @@ bip_39_word_space_6: burden flag differ music outer salute
 bip_39_word_space_7: burden flag differ music outer salute mention
 bip_39_word_space_8: burden flag differ music outer salute mention disagree
 bip_39_word_space_9: burden flag differ music outer salute mention disagree shrimp
+bip_39_word_underscore_1: burden
+bip_39_word_underscore_10: burden_flag_differ_music_outer_salute_mention_disagree_shrimp_fantasy
+bip_39_word_underscore_11: burden_flag_differ_music_outer_salute_mention_disagree_shrimp_fantasy_december
+bip_39_word_underscore_12: burden_flag_differ_music_outer_salute_mention_disagree_shrimp_fantasy_december_acoustic
+bip_39_word_underscore_2: burden_flag
+bip_39_word_underscore_3: burden_flag_differ
+bip_39_word_underscore_4: burden_flag_differ_music
+bip_39_word_underscore_5: burden_flag_differ_music_outer
+bip_39_word_underscore_6: burden_flag_differ_music_outer_salute
+bip_39_word_underscore_7: burden_flag_differ_music_outer_salute_mention
+bip_39_word_underscore_8: burden_flag_differ_music_outer_salute_mention_disagree
+bip_39_word_underscore_9: burden_flag_differ_music_outer_salute_mention_disagree_shrimp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

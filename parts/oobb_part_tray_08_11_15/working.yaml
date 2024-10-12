@@ -1,3 +1,15 @@
+bip_39_word_dash_1: diesel
+bip_39_word_dash_10: diesel-candy-skill-situate-produce-shock-hamster-peace-educate-grit
+bip_39_word_dash_11: diesel-candy-skill-situate-produce-shock-hamster-peace-educate-grit-step
+bip_39_word_dash_12: diesel-candy-skill-situate-produce-shock-hamster-peace-educate-grit-step-aisle
+bip_39_word_dash_2: diesel-candy
+bip_39_word_dash_3: diesel-candy-skill
+bip_39_word_dash_4: diesel-candy-skill-situate
+bip_39_word_dash_5: diesel-candy-skill-situate-produce
+bip_39_word_dash_6: diesel-candy-skill-situate-produce-shock
+bip_39_word_dash_7: diesel-candy-skill-situate-produce-shock-hamster
+bip_39_word_dash_8: diesel-candy-skill-situate-produce-shock-hamster-peace
+bip_39_word_dash_9: diesel-candy-skill-situate-produce-shock-hamster-peace-educate
 bip_39_word_new_br_1: diesel
 bip_39_word_new_br_10: diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace<br>educate<br>grit
 bip_39_word_new_br_11: diesel<br>candy<br>skill<br>situate<br>produce<br>shock<br>hamster<br>peace<br>educate<br>grit<br>step
@@ -194,6 +206,18 @@ bip_39_word_space_6: diesel candy skill situate produce shock
 bip_39_word_space_7: diesel candy skill situate produce shock hamster
 bip_39_word_space_8: diesel candy skill situate produce shock hamster peace
 bip_39_word_space_9: diesel candy skill situate produce shock hamster peace educate
+bip_39_word_underscore_1: diesel
+bip_39_word_underscore_10: diesel_candy_skill_situate_produce_shock_hamster_peace_educate_grit
+bip_39_word_underscore_11: diesel_candy_skill_situate_produce_shock_hamster_peace_educate_grit_step
+bip_39_word_underscore_12: diesel_candy_skill_situate_produce_shock_hamster_peace_educate_grit_step_aisle
+bip_39_word_underscore_2: diesel_candy
+bip_39_word_underscore_3: diesel_candy_skill
+bip_39_word_underscore_4: diesel_candy_skill_situate
+bip_39_word_underscore_5: diesel_candy_skill_situate_produce
+bip_39_word_underscore_6: diesel_candy_skill_situate_produce_shock
+bip_39_word_underscore_7: diesel_candy_skill_situate_produce_shock_hamster
+bip_39_word_underscore_8: diesel_candy_skill_situate_produce_shock_hamster_peace
+bip_39_word_underscore_9: diesel_candy_skill_situate_produce_shock_hamster_peace_educate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

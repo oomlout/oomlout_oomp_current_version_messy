@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silly |  
+| bip_39_word_dash_10 | silly-subway-network-essence-weasel-brisk-judge-shallow-tone-what |  
+| bip_39_word_dash_11 | silly-subway-network-essence-weasel-brisk-judge-shallow-tone-what-still |  
+| bip_39_word_dash_12 | silly-subway-network-essence-weasel-brisk-judge-shallow-tone-what-still-about |  
+| bip_39_word_dash_2 | silly-subway |  
+| bip_39_word_dash_3 | silly-subway-network |  
+| bip_39_word_dash_4 | silly-subway-network-essence |  
+| bip_39_word_dash_5 | silly-subway-network-essence-weasel |  
+| bip_39_word_dash_6 | silly-subway-network-essence-weasel-brisk |  
+| bip_39_word_dash_7 | silly-subway-network-essence-weasel-brisk-judge |  
+| bip_39_word_dash_8 | silly-subway-network-essence-weasel-brisk-judge-shallow |  
+| bip_39_word_dash_9 | silly-subway-network-essence-weasel-brisk-judge-shallow-tone |  
 | bip_39_word_new_br_1 | silly |  
 | bip_39_word_new_br_10 | silly<br>subway<br>network<br>essence<br>weasel<br>brisk<br>judge<br>shallow<br>tone<br>what |  
 | bip_39_word_new_br_11 | silly<br>subway<br>network<br>essence<br>weasel<br>brisk<br>judge<br>shallow<br>tone<br>what<br>still |  
@@ -147,6 +159,18 @@ tone |
 | bip_39_word_space_7 | silly subway network essence weasel brisk judge |  
 | bip_39_word_space_8 | silly subway network essence weasel brisk judge shallow |  
 | bip_39_word_space_9 | silly subway network essence weasel brisk judge shallow tone |  
+| bip_39_word_underscore_1 | silly |  
+| bip_39_word_underscore_10 | silly_subway_network_essence_weasel_brisk_judge_shallow_tone_what |  
+| bip_39_word_underscore_11 | silly_subway_network_essence_weasel_brisk_judge_shallow_tone_what_still |  
+| bip_39_word_underscore_12 | silly_subway_network_essence_weasel_brisk_judge_shallow_tone_what_still_about |  
+| bip_39_word_underscore_2 | silly_subway |  
+| bip_39_word_underscore_3 | silly_subway_network |  
+| bip_39_word_underscore_4 | silly_subway_network_essence |  
+| bip_39_word_underscore_5 | silly_subway_network_essence_weasel |  
+| bip_39_word_underscore_6 | silly_subway_network_essence_weasel_brisk |  
+| bip_39_word_underscore_7 | silly_subway_network_essence_weasel_brisk_judge |  
+| bip_39_word_underscore_8 | silly_subway_network_essence_weasel_brisk_judge_shallow |  
+| bip_39_word_underscore_9 | silly_subway_network_essence_weasel_brisk_judge_shallow_tone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

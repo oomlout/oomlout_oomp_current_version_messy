@@ -1,3 +1,15 @@
+bip_39_word_dash_1: city
+bip_39_word_dash_10: city-teach-forget-large-intact-stadium-melt-mammal-model-update
+bip_39_word_dash_11: city-teach-forget-large-intact-stadium-melt-mammal-model-update-sorry
+bip_39_word_dash_12: city-teach-forget-large-intact-stadium-melt-mammal-model-update-sorry-accuse
+bip_39_word_dash_2: city-teach
+bip_39_word_dash_3: city-teach-forget
+bip_39_word_dash_4: city-teach-forget-large
+bip_39_word_dash_5: city-teach-forget-large-intact
+bip_39_word_dash_6: city-teach-forget-large-intact-stadium
+bip_39_word_dash_7: city-teach-forget-large-intact-stadium-melt
+bip_39_word_dash_8: city-teach-forget-large-intact-stadium-melt-mammal
+bip_39_word_dash_9: city-teach-forget-large-intact-stadium-melt-mammal-model
 bip_39_word_new_br_1: city
 bip_39_word_new_br_10: city<br>teach<br>forget<br>large<br>intact<br>stadium<br>melt<br>mammal<br>model<br>update
 bip_39_word_new_br_11: city<br>teach<br>forget<br>large<br>intact<br>stadium<br>melt<br>mammal<br>model<br>update<br>sorry
@@ -193,6 +205,18 @@ bip_39_word_space_6: city teach forget large intact stadium
 bip_39_word_space_7: city teach forget large intact stadium melt
 bip_39_word_space_8: city teach forget large intact stadium melt mammal
 bip_39_word_space_9: city teach forget large intact stadium melt mammal model
+bip_39_word_underscore_1: city
+bip_39_word_underscore_10: city_teach_forget_large_intact_stadium_melt_mammal_model_update
+bip_39_word_underscore_11: city_teach_forget_large_intact_stadium_melt_mammal_model_update_sorry
+bip_39_word_underscore_12: city_teach_forget_large_intact_stadium_melt_mammal_model_update_sorry_accuse
+bip_39_word_underscore_2: city_teach
+bip_39_word_underscore_3: city_teach_forget
+bip_39_word_underscore_4: city_teach_forget_large
+bip_39_word_underscore_5: city_teach_forget_large_intact
+bip_39_word_underscore_6: city_teach_forget_large_intact_stadium
+bip_39_word_underscore_7: city_teach_forget_large_intact_stadium_melt
+bip_39_word_underscore_8: city_teach_forget_large_intact_stadium_melt_mammal
+bip_39_word_underscore_9: city_teach_forget_large_intact_stadium_melt_mammal_model
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

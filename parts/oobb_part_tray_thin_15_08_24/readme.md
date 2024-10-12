@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | come |  
+| bip_39_word_dash_10 | come-lab-bullet-husband-reform-retreat-job-narrow-peanut-rent |  
+| bip_39_word_dash_11 | come-lab-bullet-husband-reform-retreat-job-narrow-peanut-rent-range |  
+| bip_39_word_dash_12 | come-lab-bullet-husband-reform-retreat-job-narrow-peanut-rent-range-average |  
+| bip_39_word_dash_2 | come-lab |  
+| bip_39_word_dash_3 | come-lab-bullet |  
+| bip_39_word_dash_4 | come-lab-bullet-husband |  
+| bip_39_word_dash_5 | come-lab-bullet-husband-reform |  
+| bip_39_word_dash_6 | come-lab-bullet-husband-reform-retreat |  
+| bip_39_word_dash_7 | come-lab-bullet-husband-reform-retreat-job |  
+| bip_39_word_dash_8 | come-lab-bullet-husband-reform-retreat-job-narrow |  
+| bip_39_word_dash_9 | come-lab-bullet-husband-reform-retreat-job-narrow-peanut |  
 | bip_39_word_new_br_1 | come |  
 | bip_39_word_new_br_10 | come<br>lab<br>bullet<br>husband<br>reform<br>retreat<br>job<br>narrow<br>peanut<br>rent |  
 | bip_39_word_new_br_11 | come<br>lab<br>bullet<br>husband<br>reform<br>retreat<br>job<br>narrow<br>peanut<br>rent<br>range |  
@@ -147,6 +159,18 @@ peanut |
 | bip_39_word_space_7 | come lab bullet husband reform retreat job |  
 | bip_39_word_space_8 | come lab bullet husband reform retreat job narrow |  
 | bip_39_word_space_9 | come lab bullet husband reform retreat job narrow peanut |  
+| bip_39_word_underscore_1 | come |  
+| bip_39_word_underscore_10 | come_lab_bullet_husband_reform_retreat_job_narrow_peanut_rent |  
+| bip_39_word_underscore_11 | come_lab_bullet_husband_reform_retreat_job_narrow_peanut_rent_range |  
+| bip_39_word_underscore_12 | come_lab_bullet_husband_reform_retreat_job_narrow_peanut_rent_range_average |  
+| bip_39_word_underscore_2 | come_lab |  
+| bip_39_word_underscore_3 | come_lab_bullet |  
+| bip_39_word_underscore_4 | come_lab_bullet_husband |  
+| bip_39_word_underscore_5 | come_lab_bullet_husband_reform |  
+| bip_39_word_underscore_6 | come_lab_bullet_husband_reform_retreat |  
+| bip_39_word_underscore_7 | come_lab_bullet_husband_reform_retreat_job |  
+| bip_39_word_underscore_8 | come_lab_bullet_husband_reform_retreat_job_narrow |  
+| bip_39_word_underscore_9 | come_lab_bullet_husband_reform_retreat_job_narrow_peanut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rigid |  
+| bip_39_word_dash_10 | rigid-between-sunset-gym-crime-spatial-scare-labor-knee-girl |  
+| bip_39_word_dash_11 | rigid-between-sunset-gym-crime-spatial-scare-labor-knee-girl-tobacco |  
+| bip_39_word_dash_12 | rigid-between-sunset-gym-crime-spatial-scare-labor-knee-girl-tobacco-allow |  
+| bip_39_word_dash_2 | rigid-between |  
+| bip_39_word_dash_3 | rigid-between-sunset |  
+| bip_39_word_dash_4 | rigid-between-sunset-gym |  
+| bip_39_word_dash_5 | rigid-between-sunset-gym-crime |  
+| bip_39_word_dash_6 | rigid-between-sunset-gym-crime-spatial |  
+| bip_39_word_dash_7 | rigid-between-sunset-gym-crime-spatial-scare |  
+| bip_39_word_dash_8 | rigid-between-sunset-gym-crime-spatial-scare-labor |  
+| bip_39_word_dash_9 | rigid-between-sunset-gym-crime-spatial-scare-labor-knee |  
 | bip_39_word_new_br_1 | rigid |  
 | bip_39_word_new_br_10 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor<br>knee<br>girl |  
 | bip_39_word_new_br_11 | rigid<br>between<br>sunset<br>gym<br>crime<br>spatial<br>scare<br>labor<br>knee<br>girl<br>tobacco |  
@@ -147,6 +159,18 @@ knee |
 | bip_39_word_space_7 | rigid between sunset gym crime spatial scare |  
 | bip_39_word_space_8 | rigid between sunset gym crime spatial scare labor |  
 | bip_39_word_space_9 | rigid between sunset gym crime spatial scare labor knee |  
+| bip_39_word_underscore_1 | rigid |  
+| bip_39_word_underscore_10 | rigid_between_sunset_gym_crime_spatial_scare_labor_knee_girl |  
+| bip_39_word_underscore_11 | rigid_between_sunset_gym_crime_spatial_scare_labor_knee_girl_tobacco |  
+| bip_39_word_underscore_12 | rigid_between_sunset_gym_crime_spatial_scare_labor_knee_girl_tobacco_allow |  
+| bip_39_word_underscore_2 | rigid_between |  
+| bip_39_word_underscore_3 | rigid_between_sunset |  
+| bip_39_word_underscore_4 | rigid_between_sunset_gym |  
+| bip_39_word_underscore_5 | rigid_between_sunset_gym_crime |  
+| bip_39_word_underscore_6 | rigid_between_sunset_gym_crime_spatial |  
+| bip_39_word_underscore_7 | rigid_between_sunset_gym_crime_spatial_scare |  
+| bip_39_word_underscore_8 | rigid_between_sunset_gym_crime_spatial_scare_labor |  
+| bip_39_word_underscore_9 | rigid_between_sunset_gym_crime_spatial_scare_labor_knee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

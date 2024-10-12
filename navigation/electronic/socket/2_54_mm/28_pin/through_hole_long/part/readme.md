@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | calm |  
+| bip_39_word_dash_10 | calm-box-arm-parent-legal-plunge-tiger-innocent-frost-mule |  
+| bip_39_word_dash_11 | calm-box-arm-parent-legal-plunge-tiger-innocent-frost-mule-tenant |  
+| bip_39_word_dash_12 | calm-box-arm-parent-legal-plunge-tiger-innocent-frost-mule-tenant-advance |  
+| bip_39_word_dash_2 | calm-box |  
+| bip_39_word_dash_3 | calm-box-arm |  
+| bip_39_word_dash_4 | calm-box-arm-parent |  
+| bip_39_word_dash_5 | calm-box-arm-parent-legal |  
+| bip_39_word_dash_6 | calm-box-arm-parent-legal-plunge |  
+| bip_39_word_dash_7 | calm-box-arm-parent-legal-plunge-tiger |  
+| bip_39_word_dash_8 | calm-box-arm-parent-legal-plunge-tiger-innocent |  
+| bip_39_word_dash_9 | calm-box-arm-parent-legal-plunge-tiger-innocent-frost |  
 | bip_39_word_new_br_1 | calm |  
 | bip_39_word_new_br_10 | calm<br>box<br>arm<br>parent<br>legal<br>plunge<br>tiger<br>innocent<br>frost<br>mule |  
 | bip_39_word_new_br_11 | calm<br>box<br>arm<br>parent<br>legal<br>plunge<br>tiger<br>innocent<br>frost<br>mule<br>tenant |  
@@ -147,6 +159,18 @@ frost |
 | bip_39_word_space_7 | calm box arm parent legal plunge tiger |  
 | bip_39_word_space_8 | calm box arm parent legal plunge tiger innocent |  
 | bip_39_word_space_9 | calm box arm parent legal plunge tiger innocent frost |  
+| bip_39_word_underscore_1 | calm |  
+| bip_39_word_underscore_10 | calm_box_arm_parent_legal_plunge_tiger_innocent_frost_mule |  
+| bip_39_word_underscore_11 | calm_box_arm_parent_legal_plunge_tiger_innocent_frost_mule_tenant |  
+| bip_39_word_underscore_12 | calm_box_arm_parent_legal_plunge_tiger_innocent_frost_mule_tenant_advance |  
+| bip_39_word_underscore_2 | calm_box |  
+| bip_39_word_underscore_3 | calm_box_arm |  
+| bip_39_word_underscore_4 | calm_box_arm_parent |  
+| bip_39_word_underscore_5 | calm_box_arm_parent_legal |  
+| bip_39_word_underscore_6 | calm_box_arm_parent_legal_plunge |  
+| bip_39_word_underscore_7 | calm_box_arm_parent_legal_plunge_tiger |  
+| bip_39_word_underscore_8 | calm_box_arm_parent_legal_plunge_tiger_innocent |  
+| bip_39_word_underscore_9 | calm_box_arm_parent_legal_plunge_tiger_innocent_frost |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

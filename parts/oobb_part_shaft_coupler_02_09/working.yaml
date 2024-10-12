@@ -1,3 +1,15 @@
+bip_39_word_dash_1: angle
+bip_39_word_dash_10: angle-few-believe-knee-cancel-travel-scheme-grape-balcony-lake
+bip_39_word_dash_11: angle-few-believe-knee-cancel-travel-scheme-grape-balcony-lake-text
+bip_39_word_dash_12: angle-few-believe-knee-cancel-travel-scheme-grape-balcony-lake-text-auction
+bip_39_word_dash_2: angle-few
+bip_39_word_dash_3: angle-few-believe
+bip_39_word_dash_4: angle-few-believe-knee
+bip_39_word_dash_5: angle-few-believe-knee-cancel
+bip_39_word_dash_6: angle-few-believe-knee-cancel-travel
+bip_39_word_dash_7: angle-few-believe-knee-cancel-travel-scheme
+bip_39_word_dash_8: angle-few-believe-knee-cancel-travel-scheme-grape
+bip_39_word_dash_9: angle-few-believe-knee-cancel-travel-scheme-grape-balcony
 bip_39_word_new_br_1: angle
 bip_39_word_new_br_10: angle<br>few<br>believe<br>knee<br>cancel<br>travel<br>scheme<br>grape<br>balcony<br>lake
 bip_39_word_new_br_11: angle<br>few<br>believe<br>knee<br>cancel<br>travel<br>scheme<br>grape<br>balcony<br>lake<br>text
@@ -193,6 +205,18 @@ bip_39_word_space_6: angle few believe knee cancel travel
 bip_39_word_space_7: angle few believe knee cancel travel scheme
 bip_39_word_space_8: angle few believe knee cancel travel scheme grape
 bip_39_word_space_9: angle few believe knee cancel travel scheme grape balcony
+bip_39_word_underscore_1: angle
+bip_39_word_underscore_10: angle_few_believe_knee_cancel_travel_scheme_grape_balcony_lake
+bip_39_word_underscore_11: angle_few_believe_knee_cancel_travel_scheme_grape_balcony_lake_text
+bip_39_word_underscore_12: angle_few_believe_knee_cancel_travel_scheme_grape_balcony_lake_text_auction
+bip_39_word_underscore_2: angle_few
+bip_39_word_underscore_3: angle_few_believe
+bip_39_word_underscore_4: angle_few_believe_knee
+bip_39_word_underscore_5: angle_few_believe_knee_cancel
+bip_39_word_underscore_6: angle_few_believe_knee_cancel_travel
+bip_39_word_underscore_7: angle_few_believe_knee_cancel_travel_scheme
+bip_39_word_underscore_8: angle_few_believe_knee_cancel_travel_scheme_grape
+bip_39_word_underscore_9: angle_few_believe_knee_cancel_travel_scheme_grape_balcony
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

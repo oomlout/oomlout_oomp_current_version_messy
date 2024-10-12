@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | parade |  
+| bip_39_word_dash_10 | parade-tail-another-pioneer-army-mixture-eyebrow-country-discover-holiday |  
+| bip_39_word_dash_11 | parade-tail-another-pioneer-army-mixture-eyebrow-country-discover-holiday-alpha |  
+| bip_39_word_dash_12 | parade-tail-another-pioneer-army-mixture-eyebrow-country-discover-holiday-alpha-arctic |  
+| bip_39_word_dash_2 | parade-tail |  
+| bip_39_word_dash_3 | parade-tail-another |  
+| bip_39_word_dash_4 | parade-tail-another-pioneer |  
+| bip_39_word_dash_5 | parade-tail-another-pioneer-army |  
+| bip_39_word_dash_6 | parade-tail-another-pioneer-army-mixture |  
+| bip_39_word_dash_7 | parade-tail-another-pioneer-army-mixture-eyebrow |  
+| bip_39_word_dash_8 | parade-tail-another-pioneer-army-mixture-eyebrow-country |  
+| bip_39_word_dash_9 | parade-tail-another-pioneer-army-mixture-eyebrow-country-discover |  
 | bip_39_word_new_br_1 | parade |  
 | bip_39_word_new_br_10 | parade<br>tail<br>another<br>pioneer<br>army<br>mixture<br>eyebrow<br>country<br>discover<br>holiday |  
 | bip_39_word_new_br_11 | parade<br>tail<br>another<br>pioneer<br>army<br>mixture<br>eyebrow<br>country<br>discover<br>holiday<br>alpha |  
@@ -147,6 +159,18 @@ discover |
 | bip_39_word_space_7 | parade tail another pioneer army mixture eyebrow |  
 | bip_39_word_space_8 | parade tail another pioneer army mixture eyebrow country |  
 | bip_39_word_space_9 | parade tail another pioneer army mixture eyebrow country discover |  
+| bip_39_word_underscore_1 | parade |  
+| bip_39_word_underscore_10 | parade_tail_another_pioneer_army_mixture_eyebrow_country_discover_holiday |  
+| bip_39_word_underscore_11 | parade_tail_another_pioneer_army_mixture_eyebrow_country_discover_holiday_alpha |  
+| bip_39_word_underscore_12 | parade_tail_another_pioneer_army_mixture_eyebrow_country_discover_holiday_alpha_arctic |  
+| bip_39_word_underscore_2 | parade_tail |  
+| bip_39_word_underscore_3 | parade_tail_another |  
+| bip_39_word_underscore_4 | parade_tail_another_pioneer |  
+| bip_39_word_underscore_5 | parade_tail_another_pioneer_army |  
+| bip_39_word_underscore_6 | parade_tail_another_pioneer_army_mixture |  
+| bip_39_word_underscore_7 | parade_tail_another_pioneer_army_mixture_eyebrow |  
+| bip_39_word_underscore_8 | parade_tail_another_pioneer_army_mixture_eyebrow_country |  
+| bip_39_word_underscore_9 | parade_tail_another_pioneer_army_mixture_eyebrow_country_discover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | april |  
+| bip_39_word_dash_10 | april-proof-often-boat-father-coach-riot-differ-trend-sadness |  
+| bip_39_word_dash_11 | april-proof-often-boat-father-coach-riot-differ-trend-sadness-echo |  
+| bip_39_word_dash_12 | april-proof-often-boat-father-coach-riot-differ-trend-sadness-echo-alcohol |  
+| bip_39_word_dash_2 | april-proof |  
+| bip_39_word_dash_3 | april-proof-often |  
+| bip_39_word_dash_4 | april-proof-often-boat |  
+| bip_39_word_dash_5 | april-proof-often-boat-father |  
+| bip_39_word_dash_6 | april-proof-often-boat-father-coach |  
+| bip_39_word_dash_7 | april-proof-often-boat-father-coach-riot |  
+| bip_39_word_dash_8 | april-proof-often-boat-father-coach-riot-differ |  
+| bip_39_word_dash_9 | april-proof-often-boat-father-coach-riot-differ-trend |  
 | bip_39_word_new_br_1 | april |  
 | bip_39_word_new_br_10 | april<br>proof<br>often<br>boat<br>father<br>coach<br>riot<br>differ<br>trend<br>sadness |  
 | bip_39_word_new_br_11 | april<br>proof<br>often<br>boat<br>father<br>coach<br>riot<br>differ<br>trend<br>sadness<br>echo |  
@@ -147,6 +159,18 @@ trend |
 | bip_39_word_space_7 | april proof often boat father coach riot |  
 | bip_39_word_space_8 | april proof often boat father coach riot differ |  
 | bip_39_word_space_9 | april proof often boat father coach riot differ trend |  
+| bip_39_word_underscore_1 | april |  
+| bip_39_word_underscore_10 | april_proof_often_boat_father_coach_riot_differ_trend_sadness |  
+| bip_39_word_underscore_11 | april_proof_often_boat_father_coach_riot_differ_trend_sadness_echo |  
+| bip_39_word_underscore_12 | april_proof_often_boat_father_coach_riot_differ_trend_sadness_echo_alcohol |  
+| bip_39_word_underscore_2 | april_proof |  
+| bip_39_word_underscore_3 | april_proof_often |  
+| bip_39_word_underscore_4 | april_proof_often_boat |  
+| bip_39_word_underscore_5 | april_proof_often_boat_father |  
+| bip_39_word_underscore_6 | april_proof_often_boat_father_coach |  
+| bip_39_word_underscore_7 | april_proof_often_boat_father_coach_riot |  
+| bip_39_word_underscore_8 | april_proof_often_boat_father_coach_riot_differ |  
+| bip_39_word_underscore_9 | april_proof_often_boat_father_coach_riot_differ_trend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cactus |  
+| bip_39_word_dash_10 | cactus-parade-hub-infant-pull-web-flat-expire-carpet-bind |  
+| bip_39_word_dash_11 | cactus-parade-hub-infant-pull-web-flat-expire-carpet-bind-syrup |  
+| bip_39_word_dash_12 | cactus-parade-hub-infant-pull-web-flat-expire-carpet-bind-syrup-airport |  
+| bip_39_word_dash_2 | cactus-parade |  
+| bip_39_word_dash_3 | cactus-parade-hub |  
+| bip_39_word_dash_4 | cactus-parade-hub-infant |  
+| bip_39_word_dash_5 | cactus-parade-hub-infant-pull |  
+| bip_39_word_dash_6 | cactus-parade-hub-infant-pull-web |  
+| bip_39_word_dash_7 | cactus-parade-hub-infant-pull-web-flat |  
+| bip_39_word_dash_8 | cactus-parade-hub-infant-pull-web-flat-expire |  
+| bip_39_word_dash_9 | cactus-parade-hub-infant-pull-web-flat-expire-carpet |  
 | bip_39_word_new_br_1 | cactus |  
 | bip_39_word_new_br_10 | cactus<br>parade<br>hub<br>infant<br>pull<br>web<br>flat<br>expire<br>carpet<br>bind |  
 | bip_39_word_new_br_11 | cactus<br>parade<br>hub<br>infant<br>pull<br>web<br>flat<br>expire<br>carpet<br>bind<br>syrup |  
@@ -147,6 +159,18 @@ carpet |
 | bip_39_word_space_7 | cactus parade hub infant pull web flat |  
 | bip_39_word_space_8 | cactus parade hub infant pull web flat expire |  
 | bip_39_word_space_9 | cactus parade hub infant pull web flat expire carpet |  
+| bip_39_word_underscore_1 | cactus |  
+| bip_39_word_underscore_10 | cactus_parade_hub_infant_pull_web_flat_expire_carpet_bind |  
+| bip_39_word_underscore_11 | cactus_parade_hub_infant_pull_web_flat_expire_carpet_bind_syrup |  
+| bip_39_word_underscore_12 | cactus_parade_hub_infant_pull_web_flat_expire_carpet_bind_syrup_airport |  
+| bip_39_word_underscore_2 | cactus_parade |  
+| bip_39_word_underscore_3 | cactus_parade_hub |  
+| bip_39_word_underscore_4 | cactus_parade_hub_infant |  
+| bip_39_word_underscore_5 | cactus_parade_hub_infant_pull |  
+| bip_39_word_underscore_6 | cactus_parade_hub_infant_pull_web |  
+| bip_39_word_underscore_7 | cactus_parade_hub_infant_pull_web_flat |  
+| bip_39_word_underscore_8 | cactus_parade_hub_infant_pull_web_flat_expire |  
+| bip_39_word_underscore_9 | cactus_parade_hub_infant_pull_web_flat_expire_carpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

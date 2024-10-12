@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | risk |  
+| bip_39_word_dash_10 | risk-empty-mail-tonight-siege-next-load-profit-toddler-drastic |  
+| bip_39_word_dash_11 | risk-empty-mail-tonight-siege-next-load-profit-toddler-drastic-lesson |  
+| bip_39_word_dash_12 | risk-empty-mail-tonight-siege-next-load-profit-toddler-drastic-lesson-annual |  
+| bip_39_word_dash_2 | risk-empty |  
+| bip_39_word_dash_3 | risk-empty-mail |  
+| bip_39_word_dash_4 | risk-empty-mail-tonight |  
+| bip_39_word_dash_5 | risk-empty-mail-tonight-siege |  
+| bip_39_word_dash_6 | risk-empty-mail-tonight-siege-next |  
+| bip_39_word_dash_7 | risk-empty-mail-tonight-siege-next-load |  
+| bip_39_word_dash_8 | risk-empty-mail-tonight-siege-next-load-profit |  
+| bip_39_word_dash_9 | risk-empty-mail-tonight-siege-next-load-profit-toddler |  
 | bip_39_word_new_br_1 | risk |  
 | bip_39_word_new_br_10 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic |  
 | bip_39_word_new_br_11 | risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic<br>lesson |  
@@ -147,6 +159,18 @@ toddler |
 | bip_39_word_space_7 | risk empty mail tonight siege next load |  
 | bip_39_word_space_8 | risk empty mail tonight siege next load profit |  
 | bip_39_word_space_9 | risk empty mail tonight siege next load profit toddler |  
+| bip_39_word_underscore_1 | risk |  
+| bip_39_word_underscore_10 | risk_empty_mail_tonight_siege_next_load_profit_toddler_drastic |  
+| bip_39_word_underscore_11 | risk_empty_mail_tonight_siege_next_load_profit_toddler_drastic_lesson |  
+| bip_39_word_underscore_12 | risk_empty_mail_tonight_siege_next_load_profit_toddler_drastic_lesson_annual |  
+| bip_39_word_underscore_2 | risk_empty |  
+| bip_39_word_underscore_3 | risk_empty_mail |  
+| bip_39_word_underscore_4 | risk_empty_mail_tonight |  
+| bip_39_word_underscore_5 | risk_empty_mail_tonight_siege |  
+| bip_39_word_underscore_6 | risk_empty_mail_tonight_siege_next |  
+| bip_39_word_underscore_7 | risk_empty_mail_tonight_siege_next_load |  
+| bip_39_word_underscore_8 | risk_empty_mail_tonight_siege_next_load_profit |  
+| bip_39_word_underscore_9 | risk_empty_mail_tonight_siege_next_load_profit_toddler |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

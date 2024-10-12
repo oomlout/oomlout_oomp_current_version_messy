@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | speed |  
+| bip_39_word_dash_10 | speed-flee-uncle-forget-umbrella-forest-impulse-phrase-cluster-cost |  
+| bip_39_word_dash_11 | speed-flee-uncle-forget-umbrella-forest-impulse-phrase-cluster-cost-crew |  
+| bip_39_word_dash_12 | speed-flee-uncle-forget-umbrella-forest-impulse-phrase-cluster-cost-crew-address |  
+| bip_39_word_dash_2 | speed-flee |  
+| bip_39_word_dash_3 | speed-flee-uncle |  
+| bip_39_word_dash_4 | speed-flee-uncle-forget |  
+| bip_39_word_dash_5 | speed-flee-uncle-forget-umbrella |  
+| bip_39_word_dash_6 | speed-flee-uncle-forget-umbrella-forest |  
+| bip_39_word_dash_7 | speed-flee-uncle-forget-umbrella-forest-impulse |  
+| bip_39_word_dash_8 | speed-flee-uncle-forget-umbrella-forest-impulse-phrase |  
+| bip_39_word_dash_9 | speed-flee-uncle-forget-umbrella-forest-impulse-phrase-cluster |  
 | bip_39_word_new_br_1 | speed |  
 | bip_39_word_new_br_10 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost |  
 | bip_39_word_new_br_11 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost<br>crew |  
@@ -147,6 +159,18 @@ cluster |
 | bip_39_word_space_7 | speed flee uncle forget umbrella forest impulse |  
 | bip_39_word_space_8 | speed flee uncle forget umbrella forest impulse phrase |  
 | bip_39_word_space_9 | speed flee uncle forget umbrella forest impulse phrase cluster |  
+| bip_39_word_underscore_1 | speed |  
+| bip_39_word_underscore_10 | speed_flee_uncle_forget_umbrella_forest_impulse_phrase_cluster_cost |  
+| bip_39_word_underscore_11 | speed_flee_uncle_forget_umbrella_forest_impulse_phrase_cluster_cost_crew |  
+| bip_39_word_underscore_12 | speed_flee_uncle_forget_umbrella_forest_impulse_phrase_cluster_cost_crew_address |  
+| bip_39_word_underscore_2 | speed_flee |  
+| bip_39_word_underscore_3 | speed_flee_uncle |  
+| bip_39_word_underscore_4 | speed_flee_uncle_forget |  
+| bip_39_word_underscore_5 | speed_flee_uncle_forget_umbrella |  
+| bip_39_word_underscore_6 | speed_flee_uncle_forget_umbrella_forest |  
+| bip_39_word_underscore_7 | speed_flee_uncle_forget_umbrella_forest_impulse |  
+| bip_39_word_underscore_8 | speed_flee_uncle_forget_umbrella_forest_impulse_phrase |  
+| bip_39_word_underscore_9 | speed_flee_uncle_forget_umbrella_forest_impulse_phrase_cluster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

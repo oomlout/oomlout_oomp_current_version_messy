@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | supply |  
+| bip_39_word_dash_10 | supply-cactus-off-across-game-dune-kangaroo-ensure-elite-guitar |  
+| bip_39_word_dash_11 | supply-cactus-off-across-game-dune-kangaroo-ensure-elite-guitar-elephant |  
+| bip_39_word_dash_12 | supply-cactus-off-across-game-dune-kangaroo-ensure-elite-guitar-elephant-adapt |  
+| bip_39_word_dash_2 | supply-cactus |  
+| bip_39_word_dash_3 | supply-cactus-off |  
+| bip_39_word_dash_4 | supply-cactus-off-across |  
+| bip_39_word_dash_5 | supply-cactus-off-across-game |  
+| bip_39_word_dash_6 | supply-cactus-off-across-game-dune |  
+| bip_39_word_dash_7 | supply-cactus-off-across-game-dune-kangaroo |  
+| bip_39_word_dash_8 | supply-cactus-off-across-game-dune-kangaroo-ensure |  
+| bip_39_word_dash_9 | supply-cactus-off-across-game-dune-kangaroo-ensure-elite |  
 | bip_39_word_new_br_1 | supply |  
 | bip_39_word_new_br_10 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar |  
 | bip_39_word_new_br_11 | supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar<br>elephant |  
@@ -147,6 +159,18 @@ elite |
 | bip_39_word_space_7 | supply cactus off across game dune kangaroo |  
 | bip_39_word_space_8 | supply cactus off across game dune kangaroo ensure |  
 | bip_39_word_space_9 | supply cactus off across game dune kangaroo ensure elite |  
+| bip_39_word_underscore_1 | supply |  
+| bip_39_word_underscore_10 | supply_cactus_off_across_game_dune_kangaroo_ensure_elite_guitar |  
+| bip_39_word_underscore_11 | supply_cactus_off_across_game_dune_kangaroo_ensure_elite_guitar_elephant |  
+| bip_39_word_underscore_12 | supply_cactus_off_across_game_dune_kangaroo_ensure_elite_guitar_elephant_adapt |  
+| bip_39_word_underscore_2 | supply_cactus |  
+| bip_39_word_underscore_3 | supply_cactus_off |  
+| bip_39_word_underscore_4 | supply_cactus_off_across |  
+| bip_39_word_underscore_5 | supply_cactus_off_across_game |  
+| bip_39_word_underscore_6 | supply_cactus_off_across_game_dune |  
+| bip_39_word_underscore_7 | supply_cactus_off_across_game_dune_kangaroo |  
+| bip_39_word_underscore_8 | supply_cactus_off_across_game_dune_kangaroo_ensure |  
+| bip_39_word_underscore_9 | supply_cactus_off_across_game_dune_kangaroo_ensure_elite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

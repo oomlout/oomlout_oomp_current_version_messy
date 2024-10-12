@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sleep |  
+| bip_39_word_dash_10 | sleep-mango-crunch-fine-fade-feature-tower-vacant-panic-narrow |  
+| bip_39_word_dash_11 | sleep-mango-crunch-fine-fade-feature-tower-vacant-panic-narrow-betray |  
+| bip_39_word_dash_12 | sleep-mango-crunch-fine-fade-feature-tower-vacant-panic-narrow-betray-add |  
+| bip_39_word_dash_2 | sleep-mango |  
+| bip_39_word_dash_3 | sleep-mango-crunch |  
+| bip_39_word_dash_4 | sleep-mango-crunch-fine |  
+| bip_39_word_dash_5 | sleep-mango-crunch-fine-fade |  
+| bip_39_word_dash_6 | sleep-mango-crunch-fine-fade-feature |  
+| bip_39_word_dash_7 | sleep-mango-crunch-fine-fade-feature-tower |  
+| bip_39_word_dash_8 | sleep-mango-crunch-fine-fade-feature-tower-vacant |  
+| bip_39_word_dash_9 | sleep-mango-crunch-fine-fade-feature-tower-vacant-panic |  
 | bip_39_word_new_br_1 | sleep |  
 | bip_39_word_new_br_10 | sleep<br>mango<br>crunch<br>fine<br>fade<br>feature<br>tower<br>vacant<br>panic<br>narrow |  
 | bip_39_word_new_br_11 | sleep<br>mango<br>crunch<br>fine<br>fade<br>feature<br>tower<br>vacant<br>panic<br>narrow<br>betray |  
@@ -147,6 +159,18 @@ panic |
 | bip_39_word_space_7 | sleep mango crunch fine fade feature tower |  
 | bip_39_word_space_8 | sleep mango crunch fine fade feature tower vacant |  
 | bip_39_word_space_9 | sleep mango crunch fine fade feature tower vacant panic |  
+| bip_39_word_underscore_1 | sleep |  
+| bip_39_word_underscore_10 | sleep_mango_crunch_fine_fade_feature_tower_vacant_panic_narrow |  
+| bip_39_word_underscore_11 | sleep_mango_crunch_fine_fade_feature_tower_vacant_panic_narrow_betray |  
+| bip_39_word_underscore_12 | sleep_mango_crunch_fine_fade_feature_tower_vacant_panic_narrow_betray_add |  
+| bip_39_word_underscore_2 | sleep_mango |  
+| bip_39_word_underscore_3 | sleep_mango_crunch |  
+| bip_39_word_underscore_4 | sleep_mango_crunch_fine |  
+| bip_39_word_underscore_5 | sleep_mango_crunch_fine_fade |  
+| bip_39_word_underscore_6 | sleep_mango_crunch_fine_fade_feature |  
+| bip_39_word_underscore_7 | sleep_mango_crunch_fine_fade_feature_tower |  
+| bip_39_word_underscore_8 | sleep_mango_crunch_fine_fade_feature_tower_vacant |  
+| bip_39_word_underscore_9 | sleep_mango_crunch_fine_fade_feature_tower_vacant_panic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

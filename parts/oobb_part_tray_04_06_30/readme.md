@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | there |  
+| bip_39_word_dash_10 | there-utility-pig-profit-crystal-recipe-path-aim-goose-lock |  
+| bip_39_word_dash_11 | there-utility-pig-profit-crystal-recipe-path-aim-goose-lock-burger |  
+| bip_39_word_dash_12 | there-utility-pig-profit-crystal-recipe-path-aim-goose-lock-burger-afford |  
+| bip_39_word_dash_2 | there-utility |  
+| bip_39_word_dash_3 | there-utility-pig |  
+| bip_39_word_dash_4 | there-utility-pig-profit |  
+| bip_39_word_dash_5 | there-utility-pig-profit-crystal |  
+| bip_39_word_dash_6 | there-utility-pig-profit-crystal-recipe |  
+| bip_39_word_dash_7 | there-utility-pig-profit-crystal-recipe-path |  
+| bip_39_word_dash_8 | there-utility-pig-profit-crystal-recipe-path-aim |  
+| bip_39_word_dash_9 | there-utility-pig-profit-crystal-recipe-path-aim-goose |  
 | bip_39_word_new_br_1 | there |  
 | bip_39_word_new_br_10 | there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim<br>goose<br>lock |  
 | bip_39_word_new_br_11 | there<br>utility<br>pig<br>profit<br>crystal<br>recipe<br>path<br>aim<br>goose<br>lock<br>burger |  
@@ -147,6 +159,18 @@ goose |
 | bip_39_word_space_7 | there utility pig profit crystal recipe path |  
 | bip_39_word_space_8 | there utility pig profit crystal recipe path aim |  
 | bip_39_word_space_9 | there utility pig profit crystal recipe path aim goose |  
+| bip_39_word_underscore_1 | there |  
+| bip_39_word_underscore_10 | there_utility_pig_profit_crystal_recipe_path_aim_goose_lock |  
+| bip_39_word_underscore_11 | there_utility_pig_profit_crystal_recipe_path_aim_goose_lock_burger |  
+| bip_39_word_underscore_12 | there_utility_pig_profit_crystal_recipe_path_aim_goose_lock_burger_afford |  
+| bip_39_word_underscore_2 | there_utility |  
+| bip_39_word_underscore_3 | there_utility_pig |  
+| bip_39_word_underscore_4 | there_utility_pig_profit |  
+| bip_39_word_underscore_5 | there_utility_pig_profit_crystal |  
+| bip_39_word_underscore_6 | there_utility_pig_profit_crystal_recipe |  
+| bip_39_word_underscore_7 | there_utility_pig_profit_crystal_recipe_path |  
+| bip_39_word_underscore_8 | there_utility_pig_profit_crystal_recipe_path_aim |  
+| bip_39_word_underscore_9 | there_utility_pig_profit_crystal_recipe_path_aim_goose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

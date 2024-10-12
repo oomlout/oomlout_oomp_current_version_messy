@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alarm |  
+| bip_39_word_dash_10 | alarm-meadow-endless-pact-fox-wolf-evidence-three-scrap-breeze |  
+| bip_39_word_dash_11 | alarm-meadow-endless-pact-fox-wolf-evidence-three-scrap-breeze-symptom |  
+| bip_39_word_dash_12 | alarm-meadow-endless-pact-fox-wolf-evidence-three-scrap-breeze-symptom-answer |  
+| bip_39_word_dash_2 | alarm-meadow |  
+| bip_39_word_dash_3 | alarm-meadow-endless |  
+| bip_39_word_dash_4 | alarm-meadow-endless-pact |  
+| bip_39_word_dash_5 | alarm-meadow-endless-pact-fox |  
+| bip_39_word_dash_6 | alarm-meadow-endless-pact-fox-wolf |  
+| bip_39_word_dash_7 | alarm-meadow-endless-pact-fox-wolf-evidence |  
+| bip_39_word_dash_8 | alarm-meadow-endless-pact-fox-wolf-evidence-three |  
+| bip_39_word_dash_9 | alarm-meadow-endless-pact-fox-wolf-evidence-three-scrap |  
 | bip_39_word_new_br_1 | alarm |  
 | bip_39_word_new_br_10 | alarm<br>meadow<br>endless<br>pact<br>fox<br>wolf<br>evidence<br>three<br>scrap<br>breeze |  
 | bip_39_word_new_br_11 | alarm<br>meadow<br>endless<br>pact<br>fox<br>wolf<br>evidence<br>three<br>scrap<br>breeze<br>symptom |  
@@ -147,6 +159,18 @@ scrap |
 | bip_39_word_space_7 | alarm meadow endless pact fox wolf evidence |  
 | bip_39_word_space_8 | alarm meadow endless pact fox wolf evidence three |  
 | bip_39_word_space_9 | alarm meadow endless pact fox wolf evidence three scrap |  
+| bip_39_word_underscore_1 | alarm |  
+| bip_39_word_underscore_10 | alarm_meadow_endless_pact_fox_wolf_evidence_three_scrap_breeze |  
+| bip_39_word_underscore_11 | alarm_meadow_endless_pact_fox_wolf_evidence_three_scrap_breeze_symptom |  
+| bip_39_word_underscore_12 | alarm_meadow_endless_pact_fox_wolf_evidence_three_scrap_breeze_symptom_answer |  
+| bip_39_word_underscore_2 | alarm_meadow |  
+| bip_39_word_underscore_3 | alarm_meadow_endless |  
+| bip_39_word_underscore_4 | alarm_meadow_endless_pact |  
+| bip_39_word_underscore_5 | alarm_meadow_endless_pact_fox |  
+| bip_39_word_underscore_6 | alarm_meadow_endless_pact_fox_wolf |  
+| bip_39_word_underscore_7 | alarm_meadow_endless_pact_fox_wolf_evidence |  
+| bip_39_word_underscore_8 | alarm_meadow_endless_pact_fox_wolf_evidence_three |  
+| bip_39_word_underscore_9 | alarm_meadow_endless_pact_fox_wolf_evidence_three_scrap |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fluid |  
+| bip_39_word_dash_10 | fluid-tribe-prize-joke-soft-mosquito-solar-install-kitchen-upgrade |  
+| bip_39_word_dash_11 | fluid-tribe-prize-joke-soft-mosquito-solar-install-kitchen-upgrade-fetch |  
+| bip_39_word_dash_12 | fluid-tribe-prize-joke-soft-mosquito-solar-install-kitchen-upgrade-fetch-apple |  
+| bip_39_word_dash_2 | fluid-tribe |  
+| bip_39_word_dash_3 | fluid-tribe-prize |  
+| bip_39_word_dash_4 | fluid-tribe-prize-joke |  
+| bip_39_word_dash_5 | fluid-tribe-prize-joke-soft |  
+| bip_39_word_dash_6 | fluid-tribe-prize-joke-soft-mosquito |  
+| bip_39_word_dash_7 | fluid-tribe-prize-joke-soft-mosquito-solar |  
+| bip_39_word_dash_8 | fluid-tribe-prize-joke-soft-mosquito-solar-install |  
+| bip_39_word_dash_9 | fluid-tribe-prize-joke-soft-mosquito-solar-install-kitchen |  
 | bip_39_word_new_br_1 | fluid |  
 | bip_39_word_new_br_10 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade |  
 | bip_39_word_new_br_11 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade<br>fetch |  
@@ -147,6 +159,18 @@ kitchen |
 | bip_39_word_space_7 | fluid tribe prize joke soft mosquito solar |  
 | bip_39_word_space_8 | fluid tribe prize joke soft mosquito solar install |  
 | bip_39_word_space_9 | fluid tribe prize joke soft mosquito solar install kitchen |  
+| bip_39_word_underscore_1 | fluid |  
+| bip_39_word_underscore_10 | fluid_tribe_prize_joke_soft_mosquito_solar_install_kitchen_upgrade |  
+| bip_39_word_underscore_11 | fluid_tribe_prize_joke_soft_mosquito_solar_install_kitchen_upgrade_fetch |  
+| bip_39_word_underscore_12 | fluid_tribe_prize_joke_soft_mosquito_solar_install_kitchen_upgrade_fetch_apple |  
+| bip_39_word_underscore_2 | fluid_tribe |  
+| bip_39_word_underscore_3 | fluid_tribe_prize |  
+| bip_39_word_underscore_4 | fluid_tribe_prize_joke |  
+| bip_39_word_underscore_5 | fluid_tribe_prize_joke_soft |  
+| bip_39_word_underscore_6 | fluid_tribe_prize_joke_soft_mosquito |  
+| bip_39_word_underscore_7 | fluid_tribe_prize_joke_soft_mosquito_solar |  
+| bip_39_word_underscore_8 | fluid_tribe_prize_joke_soft_mosquito_solar_install |  
+| bip_39_word_underscore_9 | fluid_tribe_prize_joke_soft_mosquito_solar_install_kitchen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

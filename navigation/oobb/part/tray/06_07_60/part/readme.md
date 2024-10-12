@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clever |  
+| bip_39_word_dash_10 | clever-network-ring-chair-survey-finish-erupt-dad-first-cloud |  
+| bip_39_word_dash_11 | clever-network-ring-chair-survey-finish-erupt-dad-first-cloud-track |  
+| bip_39_word_dash_12 | clever-network-ring-chair-survey-finish-erupt-dad-first-cloud-track-approve |  
+| bip_39_word_dash_2 | clever-network |  
+| bip_39_word_dash_3 | clever-network-ring |  
+| bip_39_word_dash_4 | clever-network-ring-chair |  
+| bip_39_word_dash_5 | clever-network-ring-chair-survey |  
+| bip_39_word_dash_6 | clever-network-ring-chair-survey-finish |  
+| bip_39_word_dash_7 | clever-network-ring-chair-survey-finish-erupt |  
+| bip_39_word_dash_8 | clever-network-ring-chair-survey-finish-erupt-dad |  
+| bip_39_word_dash_9 | clever-network-ring-chair-survey-finish-erupt-dad-first |  
 | bip_39_word_new_br_1 | clever |  
 | bip_39_word_new_br_10 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad<br>first<br>cloud |  
 | bip_39_word_new_br_11 | clever<br>network<br>ring<br>chair<br>survey<br>finish<br>erupt<br>dad<br>first<br>cloud<br>track |  
@@ -147,6 +159,18 @@ first |
 | bip_39_word_space_7 | clever network ring chair survey finish erupt |  
 | bip_39_word_space_8 | clever network ring chair survey finish erupt dad |  
 | bip_39_word_space_9 | clever network ring chair survey finish erupt dad first |  
+| bip_39_word_underscore_1 | clever |  
+| bip_39_word_underscore_10 | clever_network_ring_chair_survey_finish_erupt_dad_first_cloud |  
+| bip_39_word_underscore_11 | clever_network_ring_chair_survey_finish_erupt_dad_first_cloud_track |  
+| bip_39_word_underscore_12 | clever_network_ring_chair_survey_finish_erupt_dad_first_cloud_track_approve |  
+| bip_39_word_underscore_2 | clever_network |  
+| bip_39_word_underscore_3 | clever_network_ring |  
+| bip_39_word_underscore_4 | clever_network_ring_chair |  
+| bip_39_word_underscore_5 | clever_network_ring_chair_survey |  
+| bip_39_word_underscore_6 | clever_network_ring_chair_survey_finish |  
+| bip_39_word_underscore_7 | clever_network_ring_chair_survey_finish_erupt |  
+| bip_39_word_underscore_8 | clever_network_ring_chair_survey_finish_erupt_dad |  
+| bip_39_word_underscore_9 | clever_network_ring_chair_survey_finish_erupt_dad_first |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

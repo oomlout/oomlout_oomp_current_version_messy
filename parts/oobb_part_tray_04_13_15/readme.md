@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brief |  
+| bip_39_word_dash_10 | brief-cancel-violin-follow-exhaust-team-melt-arch-donor-athlete |  
+| bip_39_word_dash_11 | brief-cancel-violin-follow-exhaust-team-melt-arch-donor-athlete-round |  
+| bip_39_word_dash_12 | brief-cancel-violin-follow-exhaust-team-melt-arch-donor-athlete-round-arrange |  
+| bip_39_word_dash_2 | brief-cancel |  
+| bip_39_word_dash_3 | brief-cancel-violin |  
+| bip_39_word_dash_4 | brief-cancel-violin-follow |  
+| bip_39_word_dash_5 | brief-cancel-violin-follow-exhaust |  
+| bip_39_word_dash_6 | brief-cancel-violin-follow-exhaust-team |  
+| bip_39_word_dash_7 | brief-cancel-violin-follow-exhaust-team-melt |  
+| bip_39_word_dash_8 | brief-cancel-violin-follow-exhaust-team-melt-arch |  
+| bip_39_word_dash_9 | brief-cancel-violin-follow-exhaust-team-melt-arch-donor |  
 | bip_39_word_new_br_1 | brief |  
 | bip_39_word_new_br_10 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete |  
 | bip_39_word_new_br_11 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete<br>round |  
@@ -147,6 +159,18 @@ donor |
 | bip_39_word_space_7 | brief cancel violin follow exhaust team melt |  
 | bip_39_word_space_8 | brief cancel violin follow exhaust team melt arch |  
 | bip_39_word_space_9 | brief cancel violin follow exhaust team melt arch donor |  
+| bip_39_word_underscore_1 | brief |  
+| bip_39_word_underscore_10 | brief_cancel_violin_follow_exhaust_team_melt_arch_donor_athlete |  
+| bip_39_word_underscore_11 | brief_cancel_violin_follow_exhaust_team_melt_arch_donor_athlete_round |  
+| bip_39_word_underscore_12 | brief_cancel_violin_follow_exhaust_team_melt_arch_donor_athlete_round_arrange |  
+| bip_39_word_underscore_2 | brief_cancel |  
+| bip_39_word_underscore_3 | brief_cancel_violin |  
+| bip_39_word_underscore_4 | brief_cancel_violin_follow |  
+| bip_39_word_underscore_5 | brief_cancel_violin_follow_exhaust |  
+| bip_39_word_underscore_6 | brief_cancel_violin_follow_exhaust_team |  
+| bip_39_word_underscore_7 | brief_cancel_violin_follow_exhaust_team_melt |  
+| bip_39_word_underscore_8 | brief_cancel_violin_follow_exhaust_team_melt_arch |  
+| bip_39_word_underscore_9 | brief_cancel_violin_follow_exhaust_team_melt_arch_donor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decrease |  
+| bip_39_word_dash_10 | decrease-regular-excess-radio-lens-youth-dry-million-rhythm-cream |  
+| bip_39_word_dash_11 | decrease-regular-excess-radio-lens-youth-dry-million-rhythm-cream-carry |  
+| bip_39_word_dash_12 | decrease-regular-excess-radio-lens-youth-dry-million-rhythm-cream-carry-absent |  
+| bip_39_word_dash_2 | decrease-regular |  
+| bip_39_word_dash_3 | decrease-regular-excess |  
+| bip_39_word_dash_4 | decrease-regular-excess-radio |  
+| bip_39_word_dash_5 | decrease-regular-excess-radio-lens |  
+| bip_39_word_dash_6 | decrease-regular-excess-radio-lens-youth |  
+| bip_39_word_dash_7 | decrease-regular-excess-radio-lens-youth-dry |  
+| bip_39_word_dash_8 | decrease-regular-excess-radio-lens-youth-dry-million |  
+| bip_39_word_dash_9 | decrease-regular-excess-radio-lens-youth-dry-million-rhythm |  
 | bip_39_word_new_br_1 | decrease |  
 | bip_39_word_new_br_10 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream |  
 | bip_39_word_new_br_11 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream<br>carry |  
@@ -147,6 +159,18 @@ rhythm |
 | bip_39_word_space_7 | decrease regular excess radio lens youth dry |  
 | bip_39_word_space_8 | decrease regular excess radio lens youth dry million |  
 | bip_39_word_space_9 | decrease regular excess radio lens youth dry million rhythm |  
+| bip_39_word_underscore_1 | decrease |  
+| bip_39_word_underscore_10 | decrease_regular_excess_radio_lens_youth_dry_million_rhythm_cream |  
+| bip_39_word_underscore_11 | decrease_regular_excess_radio_lens_youth_dry_million_rhythm_cream_carry |  
+| bip_39_word_underscore_12 | decrease_regular_excess_radio_lens_youth_dry_million_rhythm_cream_carry_absent |  
+| bip_39_word_underscore_2 | decrease_regular |  
+| bip_39_word_underscore_3 | decrease_regular_excess |  
+| bip_39_word_underscore_4 | decrease_regular_excess_radio |  
+| bip_39_word_underscore_5 | decrease_regular_excess_radio_lens |  
+| bip_39_word_underscore_6 | decrease_regular_excess_radio_lens_youth |  
+| bip_39_word_underscore_7 | decrease_regular_excess_radio_lens_youth_dry |  
+| bip_39_word_underscore_8 | decrease_regular_excess_radio_lens_youth_dry_million |  
+| bip_39_word_underscore_9 | decrease_regular_excess_radio_lens_youth_dry_million_rhythm |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

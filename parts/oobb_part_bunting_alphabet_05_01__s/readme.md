@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trap |  
+| bip_39_word_dash_10 | trap-bleak-bomb-orient-warm-satoshi-pigeon-attitude-remain-sword |  
+| bip_39_word_dash_11 | trap-bleak-bomb-orient-warm-satoshi-pigeon-attitude-remain-sword-energy |  
+| bip_39_word_dash_12 | trap-bleak-bomb-orient-warm-satoshi-pigeon-attitude-remain-sword-energy-alone |  
+| bip_39_word_dash_2 | trap-bleak |  
+| bip_39_word_dash_3 | trap-bleak-bomb |  
+| bip_39_word_dash_4 | trap-bleak-bomb-orient |  
+| bip_39_word_dash_5 | trap-bleak-bomb-orient-warm |  
+| bip_39_word_dash_6 | trap-bleak-bomb-orient-warm-satoshi |  
+| bip_39_word_dash_7 | trap-bleak-bomb-orient-warm-satoshi-pigeon |  
+| bip_39_word_dash_8 | trap-bleak-bomb-orient-warm-satoshi-pigeon-attitude |  
+| bip_39_word_dash_9 | trap-bleak-bomb-orient-warm-satoshi-pigeon-attitude-remain |  
 | bip_39_word_new_br_1 | trap |  
 | bip_39_word_new_br_10 | trap<br>bleak<br>bomb<br>orient<br>warm<br>satoshi<br>pigeon<br>attitude<br>remain<br>sword |  
 | bip_39_word_new_br_11 | trap<br>bleak<br>bomb<br>orient<br>warm<br>satoshi<br>pigeon<br>attitude<br>remain<br>sword<br>energy |  
@@ -147,6 +159,18 @@ remain |
 | bip_39_word_space_7 | trap bleak bomb orient warm satoshi pigeon |  
 | bip_39_word_space_8 | trap bleak bomb orient warm satoshi pigeon attitude |  
 | bip_39_word_space_9 | trap bleak bomb orient warm satoshi pigeon attitude remain |  
+| bip_39_word_underscore_1 | trap |  
+| bip_39_word_underscore_10 | trap_bleak_bomb_orient_warm_satoshi_pigeon_attitude_remain_sword |  
+| bip_39_word_underscore_11 | trap_bleak_bomb_orient_warm_satoshi_pigeon_attitude_remain_sword_energy |  
+| bip_39_word_underscore_12 | trap_bleak_bomb_orient_warm_satoshi_pigeon_attitude_remain_sword_energy_alone |  
+| bip_39_word_underscore_2 | trap_bleak |  
+| bip_39_word_underscore_3 | trap_bleak_bomb |  
+| bip_39_word_underscore_4 | trap_bleak_bomb_orient |  
+| bip_39_word_underscore_5 | trap_bleak_bomb_orient_warm |  
+| bip_39_word_underscore_6 | trap_bleak_bomb_orient_warm_satoshi |  
+| bip_39_word_underscore_7 | trap_bleak_bomb_orient_warm_satoshi_pigeon |  
+| bip_39_word_underscore_8 | trap_bleak_bomb_orient_warm_satoshi_pigeon_attitude |  
+| bip_39_word_underscore_9 | trap_bleak_bomb_orient_warm_satoshi_pigeon_attitude_remain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

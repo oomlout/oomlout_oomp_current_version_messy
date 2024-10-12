@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | team |  
+| bip_39_word_dash_10 | team-couple-galaxy-wave-squeeze-bitter-below-rain-carry-any |  
+| bip_39_word_dash_11 | team-couple-galaxy-wave-squeeze-bitter-below-rain-carry-any-category |  
+| bip_39_word_dash_12 | team-couple-galaxy-wave-squeeze-bitter-below-rain-carry-any-category-account |  
+| bip_39_word_dash_2 | team-couple |  
+| bip_39_word_dash_3 | team-couple-galaxy |  
+| bip_39_word_dash_4 | team-couple-galaxy-wave |  
+| bip_39_word_dash_5 | team-couple-galaxy-wave-squeeze |  
+| bip_39_word_dash_6 | team-couple-galaxy-wave-squeeze-bitter |  
+| bip_39_word_dash_7 | team-couple-galaxy-wave-squeeze-bitter-below |  
+| bip_39_word_dash_8 | team-couple-galaxy-wave-squeeze-bitter-below-rain |  
+| bip_39_word_dash_9 | team-couple-galaxy-wave-squeeze-bitter-below-rain-carry |  
 | bip_39_word_new_br_1 | team |  
 | bip_39_word_new_br_10 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain<br>carry<br>any |  
 | bip_39_word_new_br_11 | team<br>couple<br>galaxy<br>wave<br>squeeze<br>bitter<br>below<br>rain<br>carry<br>any<br>category |  
@@ -147,6 +159,18 @@ carry |
 | bip_39_word_space_7 | team couple galaxy wave squeeze bitter below |  
 | bip_39_word_space_8 | team couple galaxy wave squeeze bitter below rain |  
 | bip_39_word_space_9 | team couple galaxy wave squeeze bitter below rain carry |  
+| bip_39_word_underscore_1 | team |  
+| bip_39_word_underscore_10 | team_couple_galaxy_wave_squeeze_bitter_below_rain_carry_any |  
+| bip_39_word_underscore_11 | team_couple_galaxy_wave_squeeze_bitter_below_rain_carry_any_category |  
+| bip_39_word_underscore_12 | team_couple_galaxy_wave_squeeze_bitter_below_rain_carry_any_category_account |  
+| bip_39_word_underscore_2 | team_couple |  
+| bip_39_word_underscore_3 | team_couple_galaxy |  
+| bip_39_word_underscore_4 | team_couple_galaxy_wave |  
+| bip_39_word_underscore_5 | team_couple_galaxy_wave_squeeze |  
+| bip_39_word_underscore_6 | team_couple_galaxy_wave_squeeze_bitter |  
+| bip_39_word_underscore_7 | team_couple_galaxy_wave_squeeze_bitter_below |  
+| bip_39_word_underscore_8 | team_couple_galaxy_wave_squeeze_bitter_below_rain |  
+| bip_39_word_underscore_9 | team_couple_galaxy_wave_squeeze_bitter_below_rain_carry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | useless |  
+| bip_39_word_dash_10 | useless-come-tooth-radio-ghost-path-absent-level-infant-shallow |  
+| bip_39_word_dash_11 | useless-come-tooth-radio-ghost-path-absent-level-infant-shallow-helmet |  
+| bip_39_word_dash_12 | useless-come-tooth-radio-ghost-path-absent-level-infant-shallow-helmet-admit |  
+| bip_39_word_dash_2 | useless-come |  
+| bip_39_word_dash_3 | useless-come-tooth |  
+| bip_39_word_dash_4 | useless-come-tooth-radio |  
+| bip_39_word_dash_5 | useless-come-tooth-radio-ghost |  
+| bip_39_word_dash_6 | useless-come-tooth-radio-ghost-path |  
+| bip_39_word_dash_7 | useless-come-tooth-radio-ghost-path-absent |  
+| bip_39_word_dash_8 | useless-come-tooth-radio-ghost-path-absent-level |  
+| bip_39_word_dash_9 | useless-come-tooth-radio-ghost-path-absent-level-infant |  
 | bip_39_word_new_br_1 | useless |  
 | bip_39_word_new_br_10 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow |  
 | bip_39_word_new_br_11 | useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow<br>helmet |  
@@ -147,6 +159,18 @@ infant |
 | bip_39_word_space_7 | useless come tooth radio ghost path absent |  
 | bip_39_word_space_8 | useless come tooth radio ghost path absent level |  
 | bip_39_word_space_9 | useless come tooth radio ghost path absent level infant |  
+| bip_39_word_underscore_1 | useless |  
+| bip_39_word_underscore_10 | useless_come_tooth_radio_ghost_path_absent_level_infant_shallow |  
+| bip_39_word_underscore_11 | useless_come_tooth_radio_ghost_path_absent_level_infant_shallow_helmet |  
+| bip_39_word_underscore_12 | useless_come_tooth_radio_ghost_path_absent_level_infant_shallow_helmet_admit |  
+| bip_39_word_underscore_2 | useless_come |  
+| bip_39_word_underscore_3 | useless_come_tooth |  
+| bip_39_word_underscore_4 | useless_come_tooth_radio |  
+| bip_39_word_underscore_5 | useless_come_tooth_radio_ghost |  
+| bip_39_word_underscore_6 | useless_come_tooth_radio_ghost_path |  
+| bip_39_word_underscore_7 | useless_come_tooth_radio_ghost_path_absent |  
+| bip_39_word_underscore_8 | useless_come_tooth_radio_ghost_path_absent_level |  
+| bip_39_word_underscore_9 | useless_come_tooth_radio_ghost_path_absent_level_infant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

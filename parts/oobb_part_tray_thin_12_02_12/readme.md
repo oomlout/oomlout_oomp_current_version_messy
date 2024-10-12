@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coyote |  
+| bip_39_word_dash_10 | coyote-desk-vault-lunch-reopen-theme-fashion-habit-inch-bounce |  
+| bip_39_word_dash_11 | coyote-desk-vault-lunch-reopen-theme-fashion-habit-inch-bounce-brief |  
+| bip_39_word_dash_12 | coyote-desk-vault-lunch-reopen-theme-fashion-habit-inch-bounce-brief-absurd |  
+| bip_39_word_dash_2 | coyote-desk |  
+| bip_39_word_dash_3 | coyote-desk-vault |  
+| bip_39_word_dash_4 | coyote-desk-vault-lunch |  
+| bip_39_word_dash_5 | coyote-desk-vault-lunch-reopen |  
+| bip_39_word_dash_6 | coyote-desk-vault-lunch-reopen-theme |  
+| bip_39_word_dash_7 | coyote-desk-vault-lunch-reopen-theme-fashion |  
+| bip_39_word_dash_8 | coyote-desk-vault-lunch-reopen-theme-fashion-habit |  
+| bip_39_word_dash_9 | coyote-desk-vault-lunch-reopen-theme-fashion-habit-inch |  
 | bip_39_word_new_br_1 | coyote |  
 | bip_39_word_new_br_10 | coyote<br>desk<br>vault<br>lunch<br>reopen<br>theme<br>fashion<br>habit<br>inch<br>bounce |  
 | bip_39_word_new_br_11 | coyote<br>desk<br>vault<br>lunch<br>reopen<br>theme<br>fashion<br>habit<br>inch<br>bounce<br>brief |  
@@ -147,6 +159,18 @@ inch |
 | bip_39_word_space_7 | coyote desk vault lunch reopen theme fashion |  
 | bip_39_word_space_8 | coyote desk vault lunch reopen theme fashion habit |  
 | bip_39_word_space_9 | coyote desk vault lunch reopen theme fashion habit inch |  
+| bip_39_word_underscore_1 | coyote |  
+| bip_39_word_underscore_10 | coyote_desk_vault_lunch_reopen_theme_fashion_habit_inch_bounce |  
+| bip_39_word_underscore_11 | coyote_desk_vault_lunch_reopen_theme_fashion_habit_inch_bounce_brief |  
+| bip_39_word_underscore_12 | coyote_desk_vault_lunch_reopen_theme_fashion_habit_inch_bounce_brief_absurd |  
+| bip_39_word_underscore_2 | coyote_desk |  
+| bip_39_word_underscore_3 | coyote_desk_vault |  
+| bip_39_word_underscore_4 | coyote_desk_vault_lunch |  
+| bip_39_word_underscore_5 | coyote_desk_vault_lunch_reopen |  
+| bip_39_word_underscore_6 | coyote_desk_vault_lunch_reopen_theme |  
+| bip_39_word_underscore_7 | coyote_desk_vault_lunch_reopen_theme_fashion |  
+| bip_39_word_underscore_8 | coyote_desk_vault_lunch_reopen_theme_fashion_habit |  
+| bip_39_word_underscore_9 | coyote_desk_vault_lunch_reopen_theme_fashion_habit_inch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

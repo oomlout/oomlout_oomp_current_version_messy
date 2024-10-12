@@ -1,3 +1,15 @@
+bip_39_word_dash_1: outside
+bip_39_word_dash_10: outside-push-lazy-submit-fiction-victory-chest-hint-absorb-number
+bip_39_word_dash_11: outside-push-lazy-submit-fiction-victory-chest-hint-absorb-number-horror
+bip_39_word_dash_12: outside-push-lazy-submit-fiction-victory-chest-hint-absorb-number-horror-alert
+bip_39_word_dash_2: outside-push
+bip_39_word_dash_3: outside-push-lazy
+bip_39_word_dash_4: outside-push-lazy-submit
+bip_39_word_dash_5: outside-push-lazy-submit-fiction
+bip_39_word_dash_6: outside-push-lazy-submit-fiction-victory
+bip_39_word_dash_7: outside-push-lazy-submit-fiction-victory-chest
+bip_39_word_dash_8: outside-push-lazy-submit-fiction-victory-chest-hint
+bip_39_word_dash_9: outside-push-lazy-submit-fiction-victory-chest-hint-absorb
 bip_39_word_new_br_1: outside
 bip_39_word_new_br_10: outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint<br>absorb<br>number
 bip_39_word_new_br_11: outside<br>push<br>lazy<br>submit<br>fiction<br>victory<br>chest<br>hint<br>absorb<br>number<br>horror
@@ -193,6 +205,18 @@ bip_39_word_space_6: outside push lazy submit fiction victory
 bip_39_word_space_7: outside push lazy submit fiction victory chest
 bip_39_word_space_8: outside push lazy submit fiction victory chest hint
 bip_39_word_space_9: outside push lazy submit fiction victory chest hint absorb
+bip_39_word_underscore_1: outside
+bip_39_word_underscore_10: outside_push_lazy_submit_fiction_victory_chest_hint_absorb_number
+bip_39_word_underscore_11: outside_push_lazy_submit_fiction_victory_chest_hint_absorb_number_horror
+bip_39_word_underscore_12: outside_push_lazy_submit_fiction_victory_chest_hint_absorb_number_horror_alert
+bip_39_word_underscore_2: outside_push
+bip_39_word_underscore_3: outside_push_lazy
+bip_39_word_underscore_4: outside_push_lazy_submit
+bip_39_word_underscore_5: outside_push_lazy_submit_fiction
+bip_39_word_underscore_6: outside_push_lazy_submit_fiction_victory
+bip_39_word_underscore_7: outside_push_lazy_submit_fiction_victory_chest
+bip_39_word_underscore_8: outside_push_lazy_submit_fiction_victory_chest_hint
+bip_39_word_underscore_9: outside_push_lazy_submit_fiction_victory_chest_hint_absorb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

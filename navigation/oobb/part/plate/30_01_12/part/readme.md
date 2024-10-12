@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ring |  
+| bip_39_word_dash_10 | ring-jealous-improve-flame-forward-donkey-girl-act-question-teach |  
+| bip_39_word_dash_11 | ring-jealous-improve-flame-forward-donkey-girl-act-question-teach-close |  
+| bip_39_word_dash_12 | ring-jealous-improve-flame-forward-donkey-girl-act-question-teach-close-adult |  
+| bip_39_word_dash_2 | ring-jealous |  
+| bip_39_word_dash_3 | ring-jealous-improve |  
+| bip_39_word_dash_4 | ring-jealous-improve-flame |  
+| bip_39_word_dash_5 | ring-jealous-improve-flame-forward |  
+| bip_39_word_dash_6 | ring-jealous-improve-flame-forward-donkey |  
+| bip_39_word_dash_7 | ring-jealous-improve-flame-forward-donkey-girl |  
+| bip_39_word_dash_8 | ring-jealous-improve-flame-forward-donkey-girl-act |  
+| bip_39_word_dash_9 | ring-jealous-improve-flame-forward-donkey-girl-act-question |  
 | bip_39_word_new_br_1 | ring |  
 | bip_39_word_new_br_10 | ring<br>jealous<br>improve<br>flame<br>forward<br>donkey<br>girl<br>act<br>question<br>teach |  
 | bip_39_word_new_br_11 | ring<br>jealous<br>improve<br>flame<br>forward<br>donkey<br>girl<br>act<br>question<br>teach<br>close |  
@@ -147,6 +159,18 @@ question |
 | bip_39_word_space_7 | ring jealous improve flame forward donkey girl |  
 | bip_39_word_space_8 | ring jealous improve flame forward donkey girl act |  
 | bip_39_word_space_9 | ring jealous improve flame forward donkey girl act question |  
+| bip_39_word_underscore_1 | ring |  
+| bip_39_word_underscore_10 | ring_jealous_improve_flame_forward_donkey_girl_act_question_teach |  
+| bip_39_word_underscore_11 | ring_jealous_improve_flame_forward_donkey_girl_act_question_teach_close |  
+| bip_39_word_underscore_12 | ring_jealous_improve_flame_forward_donkey_girl_act_question_teach_close_adult |  
+| bip_39_word_underscore_2 | ring_jealous |  
+| bip_39_word_underscore_3 | ring_jealous_improve |  
+| bip_39_word_underscore_4 | ring_jealous_improve_flame |  
+| bip_39_word_underscore_5 | ring_jealous_improve_flame_forward |  
+| bip_39_word_underscore_6 | ring_jealous_improve_flame_forward_donkey |  
+| bip_39_word_underscore_7 | ring_jealous_improve_flame_forward_donkey_girl |  
+| bip_39_word_underscore_8 | ring_jealous_improve_flame_forward_donkey_girl_act |  
+| bip_39_word_underscore_9 | ring_jealous_improve_flame_forward_donkey_girl_act_question |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

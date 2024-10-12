@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rhythm |  
+| bip_39_word_dash_10 | rhythm-error-assume-blossom-recycle-wheel-hip-comic-nominee-always |  
+| bip_39_word_dash_11 | rhythm-error-assume-blossom-recycle-wheel-hip-comic-nominee-always-journey |  
+| bip_39_word_dash_12 | rhythm-error-assume-blossom-recycle-wheel-hip-comic-nominee-always-journey-around |  
+| bip_39_word_dash_2 | rhythm-error |  
+| bip_39_word_dash_3 | rhythm-error-assume |  
+| bip_39_word_dash_4 | rhythm-error-assume-blossom |  
+| bip_39_word_dash_5 | rhythm-error-assume-blossom-recycle |  
+| bip_39_word_dash_6 | rhythm-error-assume-blossom-recycle-wheel |  
+| bip_39_word_dash_7 | rhythm-error-assume-blossom-recycle-wheel-hip |  
+| bip_39_word_dash_8 | rhythm-error-assume-blossom-recycle-wheel-hip-comic |  
+| bip_39_word_dash_9 | rhythm-error-assume-blossom-recycle-wheel-hip-comic-nominee |  
 | bip_39_word_new_br_1 | rhythm |  
 | bip_39_word_new_br_10 | rhythm<br>error<br>assume<br>blossom<br>recycle<br>wheel<br>hip<br>comic<br>nominee<br>always |  
 | bip_39_word_new_br_11 | rhythm<br>error<br>assume<br>blossom<br>recycle<br>wheel<br>hip<br>comic<br>nominee<br>always<br>journey |  
@@ -147,6 +159,18 @@ nominee |
 | bip_39_word_space_7 | rhythm error assume blossom recycle wheel hip |  
 | bip_39_word_space_8 | rhythm error assume blossom recycle wheel hip comic |  
 | bip_39_word_space_9 | rhythm error assume blossom recycle wheel hip comic nominee |  
+| bip_39_word_underscore_1 | rhythm |  
+| bip_39_word_underscore_10 | rhythm_error_assume_blossom_recycle_wheel_hip_comic_nominee_always |  
+| bip_39_word_underscore_11 | rhythm_error_assume_blossom_recycle_wheel_hip_comic_nominee_always_journey |  
+| bip_39_word_underscore_12 | rhythm_error_assume_blossom_recycle_wheel_hip_comic_nominee_always_journey_around |  
+| bip_39_word_underscore_2 | rhythm_error |  
+| bip_39_word_underscore_3 | rhythm_error_assume |  
+| bip_39_word_underscore_4 | rhythm_error_assume_blossom |  
+| bip_39_word_underscore_5 | rhythm_error_assume_blossom_recycle |  
+| bip_39_word_underscore_6 | rhythm_error_assume_blossom_recycle_wheel |  
+| bip_39_word_underscore_7 | rhythm_error_assume_blossom_recycle_wheel_hip |  
+| bip_39_word_underscore_8 | rhythm_error_assume_blossom_recycle_wheel_hip_comic |  
+| bip_39_word_underscore_9 | rhythm_error_assume_blossom_recycle_wheel_hip_comic_nominee |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

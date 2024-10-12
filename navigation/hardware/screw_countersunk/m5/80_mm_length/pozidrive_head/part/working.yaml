@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tomato
+bip_39_word_dash_10: tomato-submit-awake-suit-ridge-fancy-shrug-spawn-human-library
+bip_39_word_dash_11: tomato-submit-awake-suit-ridge-fancy-shrug-spawn-human-library-lobster
+bip_39_word_dash_12: tomato-submit-awake-suit-ridge-fancy-shrug-spawn-human-library-lobster-arrange
+bip_39_word_dash_2: tomato-submit
+bip_39_word_dash_3: tomato-submit-awake
+bip_39_word_dash_4: tomato-submit-awake-suit
+bip_39_word_dash_5: tomato-submit-awake-suit-ridge
+bip_39_word_dash_6: tomato-submit-awake-suit-ridge-fancy
+bip_39_word_dash_7: tomato-submit-awake-suit-ridge-fancy-shrug
+bip_39_word_dash_8: tomato-submit-awake-suit-ridge-fancy-shrug-spawn
+bip_39_word_dash_9: tomato-submit-awake-suit-ridge-fancy-shrug-spawn-human
 bip_39_word_new_br_1: tomato
 bip_39_word_new_br_10: tomato<br>submit<br>awake<br>suit<br>ridge<br>fancy<br>shrug<br>spawn<br>human<br>library
 bip_39_word_new_br_11: tomato<br>submit<br>awake<br>suit<br>ridge<br>fancy<br>shrug<br>spawn<br>human<br>library<br>lobster
@@ -193,6 +205,18 @@ bip_39_word_space_6: tomato submit awake suit ridge fancy
 bip_39_word_space_7: tomato submit awake suit ridge fancy shrug
 bip_39_word_space_8: tomato submit awake suit ridge fancy shrug spawn
 bip_39_word_space_9: tomato submit awake suit ridge fancy shrug spawn human
+bip_39_word_underscore_1: tomato
+bip_39_word_underscore_10: tomato_submit_awake_suit_ridge_fancy_shrug_spawn_human_library
+bip_39_word_underscore_11: tomato_submit_awake_suit_ridge_fancy_shrug_spawn_human_library_lobster
+bip_39_word_underscore_12: tomato_submit_awake_suit_ridge_fancy_shrug_spawn_human_library_lobster_arrange
+bip_39_word_underscore_2: tomato_submit
+bip_39_word_underscore_3: tomato_submit_awake
+bip_39_word_underscore_4: tomato_submit_awake_suit
+bip_39_word_underscore_5: tomato_submit_awake_suit_ridge
+bip_39_word_underscore_6: tomato_submit_awake_suit_ridge_fancy
+bip_39_word_underscore_7: tomato_submit_awake_suit_ridge_fancy_shrug
+bip_39_word_underscore_8: tomato_submit_awake_suit_ridge_fancy_shrug_spawn
+bip_39_word_underscore_9: tomato_submit_awake_suit_ridge_fancy_shrug_spawn_human
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

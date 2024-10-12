@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chair |  
+| bip_39_word_dash_10 | chair-mountain-west-pilot-certain-sustain-decline-ecology-play-draw |  
+| bip_39_word_dash_11 | chair-mountain-west-pilot-certain-sustain-decline-ecology-play-draw-warrior |  
+| bip_39_word_dash_12 | chair-mountain-west-pilot-certain-sustain-decline-ecology-play-draw-warrior-able |  
+| bip_39_word_dash_2 | chair-mountain |  
+| bip_39_word_dash_3 | chair-mountain-west |  
+| bip_39_word_dash_4 | chair-mountain-west-pilot |  
+| bip_39_word_dash_5 | chair-mountain-west-pilot-certain |  
+| bip_39_word_dash_6 | chair-mountain-west-pilot-certain-sustain |  
+| bip_39_word_dash_7 | chair-mountain-west-pilot-certain-sustain-decline |  
+| bip_39_word_dash_8 | chair-mountain-west-pilot-certain-sustain-decline-ecology |  
+| bip_39_word_dash_9 | chair-mountain-west-pilot-certain-sustain-decline-ecology-play |  
 | bip_39_word_new_br_1 | chair |  
 | bip_39_word_new_br_10 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw |  
 | bip_39_word_new_br_11 | chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw<br>warrior |  
@@ -147,6 +159,18 @@ play |
 | bip_39_word_space_7 | chair mountain west pilot certain sustain decline |  
 | bip_39_word_space_8 | chair mountain west pilot certain sustain decline ecology |  
 | bip_39_word_space_9 | chair mountain west pilot certain sustain decline ecology play |  
+| bip_39_word_underscore_1 | chair |  
+| bip_39_word_underscore_10 | chair_mountain_west_pilot_certain_sustain_decline_ecology_play_draw |  
+| bip_39_word_underscore_11 | chair_mountain_west_pilot_certain_sustain_decline_ecology_play_draw_warrior |  
+| bip_39_word_underscore_12 | chair_mountain_west_pilot_certain_sustain_decline_ecology_play_draw_warrior_able |  
+| bip_39_word_underscore_2 | chair_mountain |  
+| bip_39_word_underscore_3 | chair_mountain_west |  
+| bip_39_word_underscore_4 | chair_mountain_west_pilot |  
+| bip_39_word_underscore_5 | chair_mountain_west_pilot_certain |  
+| bip_39_word_underscore_6 | chair_mountain_west_pilot_certain_sustain |  
+| bip_39_word_underscore_7 | chair_mountain_west_pilot_certain_sustain_decline |  
+| bip_39_word_underscore_8 | chair_mountain_west_pilot_certain_sustain_decline_ecology |  
+| bip_39_word_underscore_9 | chair_mountain_west_pilot_certain_sustain_decline_ecology_play |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

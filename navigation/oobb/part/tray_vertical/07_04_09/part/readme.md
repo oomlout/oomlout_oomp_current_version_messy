@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coin |  
+| bip_39_word_dash_10 | coin-juice-dolphin-cry-cart-hood-emotion-curious-decline-recall |  
+| bip_39_word_dash_11 | coin-juice-dolphin-cry-cart-hood-emotion-curious-decline-recall-winner |  
+| bip_39_word_dash_12 | coin-juice-dolphin-cry-cart-hood-emotion-curious-decline-recall-winner-another |  
+| bip_39_word_dash_2 | coin-juice |  
+| bip_39_word_dash_3 | coin-juice-dolphin |  
+| bip_39_word_dash_4 | coin-juice-dolphin-cry |  
+| bip_39_word_dash_5 | coin-juice-dolphin-cry-cart |  
+| bip_39_word_dash_6 | coin-juice-dolphin-cry-cart-hood |  
+| bip_39_word_dash_7 | coin-juice-dolphin-cry-cart-hood-emotion |  
+| bip_39_word_dash_8 | coin-juice-dolphin-cry-cart-hood-emotion-curious |  
+| bip_39_word_dash_9 | coin-juice-dolphin-cry-cart-hood-emotion-curious-decline |  
 | bip_39_word_new_br_1 | coin |  
 | bip_39_word_new_br_10 | coin<br>juice<br>dolphin<br>cry<br>cart<br>hood<br>emotion<br>curious<br>decline<br>recall |  
 | bip_39_word_new_br_11 | coin<br>juice<br>dolphin<br>cry<br>cart<br>hood<br>emotion<br>curious<br>decline<br>recall<br>winner |  
@@ -147,6 +159,18 @@ decline |
 | bip_39_word_space_7 | coin juice dolphin cry cart hood emotion |  
 | bip_39_word_space_8 | coin juice dolphin cry cart hood emotion curious |  
 | bip_39_word_space_9 | coin juice dolphin cry cart hood emotion curious decline |  
+| bip_39_word_underscore_1 | coin |  
+| bip_39_word_underscore_10 | coin_juice_dolphin_cry_cart_hood_emotion_curious_decline_recall |  
+| bip_39_word_underscore_11 | coin_juice_dolphin_cry_cart_hood_emotion_curious_decline_recall_winner |  
+| bip_39_word_underscore_12 | coin_juice_dolphin_cry_cart_hood_emotion_curious_decline_recall_winner_another |  
+| bip_39_word_underscore_2 | coin_juice |  
+| bip_39_word_underscore_3 | coin_juice_dolphin |  
+| bip_39_word_underscore_4 | coin_juice_dolphin_cry |  
+| bip_39_word_underscore_5 | coin_juice_dolphin_cry_cart |  
+| bip_39_word_underscore_6 | coin_juice_dolphin_cry_cart_hood |  
+| bip_39_word_underscore_7 | coin_juice_dolphin_cry_cart_hood_emotion |  
+| bip_39_word_underscore_8 | coin_juice_dolphin_cry_cart_hood_emotion_curious |  
+| bip_39_word_underscore_9 | coin_juice_dolphin_cry_cart_hood_emotion_curious_decline |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

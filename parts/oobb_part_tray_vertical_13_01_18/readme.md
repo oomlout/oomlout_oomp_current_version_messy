@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | puzzle |  
+| bip_39_word_dash_10 | puzzle-sword-mechanic-giant-dignity-attend-split-defy-vivid-north |  
+| bip_39_word_dash_11 | puzzle-sword-mechanic-giant-dignity-attend-split-defy-vivid-north-obvious |  
+| bip_39_word_dash_12 | puzzle-sword-mechanic-giant-dignity-attend-split-defy-vivid-north-obvious-acoustic |  
+| bip_39_word_dash_2 | puzzle-sword |  
+| bip_39_word_dash_3 | puzzle-sword-mechanic |  
+| bip_39_word_dash_4 | puzzle-sword-mechanic-giant |  
+| bip_39_word_dash_5 | puzzle-sword-mechanic-giant-dignity |  
+| bip_39_word_dash_6 | puzzle-sword-mechanic-giant-dignity-attend |  
+| bip_39_word_dash_7 | puzzle-sword-mechanic-giant-dignity-attend-split |  
+| bip_39_word_dash_8 | puzzle-sword-mechanic-giant-dignity-attend-split-defy |  
+| bip_39_word_dash_9 | puzzle-sword-mechanic-giant-dignity-attend-split-defy-vivid |  
 | bip_39_word_new_br_1 | puzzle |  
 | bip_39_word_new_br_10 | puzzle<br>sword<br>mechanic<br>giant<br>dignity<br>attend<br>split<br>defy<br>vivid<br>north |  
 | bip_39_word_new_br_11 | puzzle<br>sword<br>mechanic<br>giant<br>dignity<br>attend<br>split<br>defy<br>vivid<br>north<br>obvious |  
@@ -147,6 +159,18 @@ vivid |
 | bip_39_word_space_7 | puzzle sword mechanic giant dignity attend split |  
 | bip_39_word_space_8 | puzzle sword mechanic giant dignity attend split defy |  
 | bip_39_word_space_9 | puzzle sword mechanic giant dignity attend split defy vivid |  
+| bip_39_word_underscore_1 | puzzle |  
+| bip_39_word_underscore_10 | puzzle_sword_mechanic_giant_dignity_attend_split_defy_vivid_north |  
+| bip_39_word_underscore_11 | puzzle_sword_mechanic_giant_dignity_attend_split_defy_vivid_north_obvious |  
+| bip_39_word_underscore_12 | puzzle_sword_mechanic_giant_dignity_attend_split_defy_vivid_north_obvious_acoustic |  
+| bip_39_word_underscore_2 | puzzle_sword |  
+| bip_39_word_underscore_3 | puzzle_sword_mechanic |  
+| bip_39_word_underscore_4 | puzzle_sword_mechanic_giant |  
+| bip_39_word_underscore_5 | puzzle_sword_mechanic_giant_dignity |  
+| bip_39_word_underscore_6 | puzzle_sword_mechanic_giant_dignity_attend |  
+| bip_39_word_underscore_7 | puzzle_sword_mechanic_giant_dignity_attend_split |  
+| bip_39_word_underscore_8 | puzzle_sword_mechanic_giant_dignity_attend_split_defy |  
+| bip_39_word_underscore_9 | puzzle_sword_mechanic_giant_dignity_attend_split_defy_vivid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hole
+bip_39_word_dash_10: hole-cruise-cram-galaxy-cable-ready-toddler-cinnamon-enemy-glimpse
+bip_39_word_dash_11: hole-cruise-cram-galaxy-cable-ready-toddler-cinnamon-enemy-glimpse-usual
+bip_39_word_dash_12: hole-cruise-cram-galaxy-cable-ready-toddler-cinnamon-enemy-glimpse-usual-avocado
+bip_39_word_dash_2: hole-cruise
+bip_39_word_dash_3: hole-cruise-cram
+bip_39_word_dash_4: hole-cruise-cram-galaxy
+bip_39_word_dash_5: hole-cruise-cram-galaxy-cable
+bip_39_word_dash_6: hole-cruise-cram-galaxy-cable-ready
+bip_39_word_dash_7: hole-cruise-cram-galaxy-cable-ready-toddler
+bip_39_word_dash_8: hole-cruise-cram-galaxy-cable-ready-toddler-cinnamon
+bip_39_word_dash_9: hole-cruise-cram-galaxy-cable-ready-toddler-cinnamon-enemy
 bip_39_word_new_br_1: hole
 bip_39_word_new_br_10: hole<br>cruise<br>cram<br>galaxy<br>cable<br>ready<br>toddler<br>cinnamon<br>enemy<br>glimpse
 bip_39_word_new_br_11: hole<br>cruise<br>cram<br>galaxy<br>cable<br>ready<br>toddler<br>cinnamon<br>enemy<br>glimpse<br>usual
@@ -193,6 +205,18 @@ bip_39_word_space_6: hole cruise cram galaxy cable ready
 bip_39_word_space_7: hole cruise cram galaxy cable ready toddler
 bip_39_word_space_8: hole cruise cram galaxy cable ready toddler cinnamon
 bip_39_word_space_9: hole cruise cram galaxy cable ready toddler cinnamon enemy
+bip_39_word_underscore_1: hole
+bip_39_word_underscore_10: hole_cruise_cram_galaxy_cable_ready_toddler_cinnamon_enemy_glimpse
+bip_39_word_underscore_11: hole_cruise_cram_galaxy_cable_ready_toddler_cinnamon_enemy_glimpse_usual
+bip_39_word_underscore_12: hole_cruise_cram_galaxy_cable_ready_toddler_cinnamon_enemy_glimpse_usual_avocado
+bip_39_word_underscore_2: hole_cruise
+bip_39_word_underscore_3: hole_cruise_cram
+bip_39_word_underscore_4: hole_cruise_cram_galaxy
+bip_39_word_underscore_5: hole_cruise_cram_galaxy_cable
+bip_39_word_underscore_6: hole_cruise_cram_galaxy_cable_ready
+bip_39_word_underscore_7: hole_cruise_cram_galaxy_cable_ready_toddler
+bip_39_word_underscore_8: hole_cruise_cram_galaxy_cable_ready_toddler_cinnamon
+bip_39_word_underscore_9: hole_cruise_cram_galaxy_cable_ready_toddler_cinnamon_enemy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

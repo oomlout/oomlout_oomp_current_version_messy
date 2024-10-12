@@ -1,3 +1,15 @@
+bip_39_word_dash_1: super
+bip_39_word_dash_10: super-symptom-clog-keen-slide-kitten-return-fun-shrimp-lizard
+bip_39_word_dash_11: super-symptom-clog-keen-slide-kitten-return-fun-shrimp-lizard-polar
+bip_39_word_dash_12: super-symptom-clog-keen-slide-kitten-return-fun-shrimp-lizard-polar-aerobic
+bip_39_word_dash_2: super-symptom
+bip_39_word_dash_3: super-symptom-clog
+bip_39_word_dash_4: super-symptom-clog-keen
+bip_39_word_dash_5: super-symptom-clog-keen-slide
+bip_39_word_dash_6: super-symptom-clog-keen-slide-kitten
+bip_39_word_dash_7: super-symptom-clog-keen-slide-kitten-return
+bip_39_word_dash_8: super-symptom-clog-keen-slide-kitten-return-fun
+bip_39_word_dash_9: super-symptom-clog-keen-slide-kitten-return-fun-shrimp
 bip_39_word_new_br_1: super
 bip_39_word_new_br_10: super<br>symptom<br>clog<br>keen<br>slide<br>kitten<br>return<br>fun<br>shrimp<br>lizard
 bip_39_word_new_br_11: super<br>symptom<br>clog<br>keen<br>slide<br>kitten<br>return<br>fun<br>shrimp<br>lizard<br>polar
@@ -193,6 +205,18 @@ bip_39_word_space_6: super symptom clog keen slide kitten
 bip_39_word_space_7: super symptom clog keen slide kitten return
 bip_39_word_space_8: super symptom clog keen slide kitten return fun
 bip_39_word_space_9: super symptom clog keen slide kitten return fun shrimp
+bip_39_word_underscore_1: super
+bip_39_word_underscore_10: super_symptom_clog_keen_slide_kitten_return_fun_shrimp_lizard
+bip_39_word_underscore_11: super_symptom_clog_keen_slide_kitten_return_fun_shrimp_lizard_polar
+bip_39_word_underscore_12: super_symptom_clog_keen_slide_kitten_return_fun_shrimp_lizard_polar_aerobic
+bip_39_word_underscore_2: super_symptom
+bip_39_word_underscore_3: super_symptom_clog
+bip_39_word_underscore_4: super_symptom_clog_keen
+bip_39_word_underscore_5: super_symptom_clog_keen_slide
+bip_39_word_underscore_6: super_symptom_clog_keen_slide_kitten
+bip_39_word_underscore_7: super_symptom_clog_keen_slide_kitten_return
+bip_39_word_underscore_8: super_symptom_clog_keen_slide_kitten_return_fun
+bip_39_word_underscore_9: super_symptom_clog_keen_slide_kitten_return_fun_shrimp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

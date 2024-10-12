@@ -1,3 +1,15 @@
+bip_39_word_dash_1: country
+bip_39_word_dash_10: country-treat-carry-warrior-address-hire-illegal-wait-rather-method
+bip_39_word_dash_11: country-treat-carry-warrior-address-hire-illegal-wait-rather-method-mask
+bip_39_word_dash_12: country-treat-carry-warrior-address-hire-illegal-wait-rather-method-mask-artist
+bip_39_word_dash_2: country-treat
+bip_39_word_dash_3: country-treat-carry
+bip_39_word_dash_4: country-treat-carry-warrior
+bip_39_word_dash_5: country-treat-carry-warrior-address
+bip_39_word_dash_6: country-treat-carry-warrior-address-hire
+bip_39_word_dash_7: country-treat-carry-warrior-address-hire-illegal
+bip_39_word_dash_8: country-treat-carry-warrior-address-hire-illegal-wait
+bip_39_word_dash_9: country-treat-carry-warrior-address-hire-illegal-wait-rather
 bip_39_word_new_br_1: country
 bip_39_word_new_br_10: country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method
 bip_39_word_new_br_11: country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method<br>mask
@@ -194,6 +206,18 @@ bip_39_word_space_6: country treat carry warrior address hire
 bip_39_word_space_7: country treat carry warrior address hire illegal
 bip_39_word_space_8: country treat carry warrior address hire illegal wait
 bip_39_word_space_9: country treat carry warrior address hire illegal wait rather
+bip_39_word_underscore_1: country
+bip_39_word_underscore_10: country_treat_carry_warrior_address_hire_illegal_wait_rather_method
+bip_39_word_underscore_11: country_treat_carry_warrior_address_hire_illegal_wait_rather_method_mask
+bip_39_word_underscore_12: country_treat_carry_warrior_address_hire_illegal_wait_rather_method_mask_artist
+bip_39_word_underscore_2: country_treat
+bip_39_word_underscore_3: country_treat_carry
+bip_39_word_underscore_4: country_treat_carry_warrior
+bip_39_word_underscore_5: country_treat_carry_warrior_address
+bip_39_word_underscore_6: country_treat_carry_warrior_address_hire
+bip_39_word_underscore_7: country_treat_carry_warrior_address_hire_illegal
+bip_39_word_underscore_8: country_treat_carry_warrior_address_hire_illegal_wait
+bip_39_word_underscore_9: country_treat_carry_warrior_address_hire_illegal_wait_rather
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

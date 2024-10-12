@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | property |  
+| bip_39_word_dash_10 | property-roast-donate-apple-food-economy-chapter-connect-hybrid-silent |  
+| bip_39_word_dash_11 | property-roast-donate-apple-food-economy-chapter-connect-hybrid-silent-add |  
+| bip_39_word_dash_12 | property-roast-donate-apple-food-economy-chapter-connect-hybrid-silent-add-actor |  
+| bip_39_word_dash_2 | property-roast |  
+| bip_39_word_dash_3 | property-roast-donate |  
+| bip_39_word_dash_4 | property-roast-donate-apple |  
+| bip_39_word_dash_5 | property-roast-donate-apple-food |  
+| bip_39_word_dash_6 | property-roast-donate-apple-food-economy |  
+| bip_39_word_dash_7 | property-roast-donate-apple-food-economy-chapter |  
+| bip_39_word_dash_8 | property-roast-donate-apple-food-economy-chapter-connect |  
+| bip_39_word_dash_9 | property-roast-donate-apple-food-economy-chapter-connect-hybrid |  
 | bip_39_word_new_br_1 | property |  
 | bip_39_word_new_br_10 | property<br>roast<br>donate<br>apple<br>food<br>economy<br>chapter<br>connect<br>hybrid<br>silent |  
 | bip_39_word_new_br_11 | property<br>roast<br>donate<br>apple<br>food<br>economy<br>chapter<br>connect<br>hybrid<br>silent<br>add |  
@@ -147,6 +159,18 @@ hybrid |
 | bip_39_word_space_7 | property roast donate apple food economy chapter |  
 | bip_39_word_space_8 | property roast donate apple food economy chapter connect |  
 | bip_39_word_space_9 | property roast donate apple food economy chapter connect hybrid |  
+| bip_39_word_underscore_1 | property |  
+| bip_39_word_underscore_10 | property_roast_donate_apple_food_economy_chapter_connect_hybrid_silent |  
+| bip_39_word_underscore_11 | property_roast_donate_apple_food_economy_chapter_connect_hybrid_silent_add |  
+| bip_39_word_underscore_12 | property_roast_donate_apple_food_economy_chapter_connect_hybrid_silent_add_actor |  
+| bip_39_word_underscore_2 | property_roast |  
+| bip_39_word_underscore_3 | property_roast_donate |  
+| bip_39_word_underscore_4 | property_roast_donate_apple |  
+| bip_39_word_underscore_5 | property_roast_donate_apple_food |  
+| bip_39_word_underscore_6 | property_roast_donate_apple_food_economy |  
+| bip_39_word_underscore_7 | property_roast_donate_apple_food_economy_chapter |  
+| bip_39_word_underscore_8 | property_roast_donate_apple_food_economy_chapter_connect |  
+| bip_39_word_underscore_9 | property_roast_donate_apple_food_economy_chapter_connect_hybrid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

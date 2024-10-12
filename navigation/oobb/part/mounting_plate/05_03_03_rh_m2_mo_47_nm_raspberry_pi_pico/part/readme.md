@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shift |  
+| bip_39_word_dash_10 | shift-behave-enroll-image-path-inside-purse-bottom-woman-brother |  
+| bip_39_word_dash_11 | shift-behave-enroll-image-path-inside-purse-bottom-woman-brother-word |  
+| bip_39_word_dash_12 | shift-behave-enroll-image-path-inside-purse-bottom-woman-brother-word-arm |  
+| bip_39_word_dash_2 | shift-behave |  
+| bip_39_word_dash_3 | shift-behave-enroll |  
+| bip_39_word_dash_4 | shift-behave-enroll-image |  
+| bip_39_word_dash_5 | shift-behave-enroll-image-path |  
+| bip_39_word_dash_6 | shift-behave-enroll-image-path-inside |  
+| bip_39_word_dash_7 | shift-behave-enroll-image-path-inside-purse |  
+| bip_39_word_dash_8 | shift-behave-enroll-image-path-inside-purse-bottom |  
+| bip_39_word_dash_9 | shift-behave-enroll-image-path-inside-purse-bottom-woman |  
 | bip_39_word_new_br_1 | shift |  
 | bip_39_word_new_br_10 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom<br>woman<br>brother |  
 | bip_39_word_new_br_11 | shift<br>behave<br>enroll<br>image<br>path<br>inside<br>purse<br>bottom<br>woman<br>brother<br>word |  
@@ -147,6 +159,18 @@ woman |
 | bip_39_word_space_7 | shift behave enroll image path inside purse |  
 | bip_39_word_space_8 | shift behave enroll image path inside purse bottom |  
 | bip_39_word_space_9 | shift behave enroll image path inside purse bottom woman |  
+| bip_39_word_underscore_1 | shift |  
+| bip_39_word_underscore_10 | shift_behave_enroll_image_path_inside_purse_bottom_woman_brother |  
+| bip_39_word_underscore_11 | shift_behave_enroll_image_path_inside_purse_bottom_woman_brother_word |  
+| bip_39_word_underscore_12 | shift_behave_enroll_image_path_inside_purse_bottom_woman_brother_word_arm |  
+| bip_39_word_underscore_2 | shift_behave |  
+| bip_39_word_underscore_3 | shift_behave_enroll |  
+| bip_39_word_underscore_4 | shift_behave_enroll_image |  
+| bip_39_word_underscore_5 | shift_behave_enroll_image_path |  
+| bip_39_word_underscore_6 | shift_behave_enroll_image_path_inside |  
+| bip_39_word_underscore_7 | shift_behave_enroll_image_path_inside_purse |  
+| bip_39_word_underscore_8 | shift_behave_enroll_image_path_inside_purse_bottom |  
+| bip_39_word_underscore_9 | shift_behave_enroll_image_path_inside_purse_bottom_woman |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

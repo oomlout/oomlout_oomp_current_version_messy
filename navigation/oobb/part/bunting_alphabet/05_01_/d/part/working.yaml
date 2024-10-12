@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pass
+bip_39_word_dash_10: pass-file-rabbit-garage-sleep-divorce-hire-enforce-worry-pudding
+bip_39_word_dash_11: pass-file-rabbit-garage-sleep-divorce-hire-enforce-worry-pudding-jewel
+bip_39_word_dash_12: pass-file-rabbit-garage-sleep-divorce-hire-enforce-worry-pudding-jewel-annual
+bip_39_word_dash_2: pass-file
+bip_39_word_dash_3: pass-file-rabbit
+bip_39_word_dash_4: pass-file-rabbit-garage
+bip_39_word_dash_5: pass-file-rabbit-garage-sleep
+bip_39_word_dash_6: pass-file-rabbit-garage-sleep-divorce
+bip_39_word_dash_7: pass-file-rabbit-garage-sleep-divorce-hire
+bip_39_word_dash_8: pass-file-rabbit-garage-sleep-divorce-hire-enforce
+bip_39_word_dash_9: pass-file-rabbit-garage-sleep-divorce-hire-enforce-worry
 bip_39_word_new_br_1: pass
 bip_39_word_new_br_10: pass<br>file<br>rabbit<br>garage<br>sleep<br>divorce<br>hire<br>enforce<br>worry<br>pudding
 bip_39_word_new_br_11: pass<br>file<br>rabbit<br>garage<br>sleep<br>divorce<br>hire<br>enforce<br>worry<br>pudding<br>jewel
@@ -193,6 +205,18 @@ bip_39_word_space_6: pass file rabbit garage sleep divorce
 bip_39_word_space_7: pass file rabbit garage sleep divorce hire
 bip_39_word_space_8: pass file rabbit garage sleep divorce hire enforce
 bip_39_word_space_9: pass file rabbit garage sleep divorce hire enforce worry
+bip_39_word_underscore_1: pass
+bip_39_word_underscore_10: pass_file_rabbit_garage_sleep_divorce_hire_enforce_worry_pudding
+bip_39_word_underscore_11: pass_file_rabbit_garage_sleep_divorce_hire_enforce_worry_pudding_jewel
+bip_39_word_underscore_12: pass_file_rabbit_garage_sleep_divorce_hire_enforce_worry_pudding_jewel_annual
+bip_39_word_underscore_2: pass_file
+bip_39_word_underscore_3: pass_file_rabbit
+bip_39_word_underscore_4: pass_file_rabbit_garage
+bip_39_word_underscore_5: pass_file_rabbit_garage_sleep
+bip_39_word_underscore_6: pass_file_rabbit_garage_sleep_divorce
+bip_39_word_underscore_7: pass_file_rabbit_garage_sleep_divorce_hire
+bip_39_word_underscore_8: pass_file_rabbit_garage_sleep_divorce_hire_enforce
+bip_39_word_underscore_9: pass_file_rabbit_garage_sleep_divorce_hire_enforce_worry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

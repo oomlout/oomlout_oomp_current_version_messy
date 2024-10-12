@@ -1,3 +1,15 @@
+bip_39_word_dash_1: morning
+bip_39_word_dash_10: morning-sun-settle-magic-armed-black-quiz-narrow-edge-unit
+bip_39_word_dash_11: morning-sun-settle-magic-armed-black-quiz-narrow-edge-unit-loop
+bip_39_word_dash_12: morning-sun-settle-magic-armed-black-quiz-narrow-edge-unit-loop-above
+bip_39_word_dash_2: morning-sun
+bip_39_word_dash_3: morning-sun-settle
+bip_39_word_dash_4: morning-sun-settle-magic
+bip_39_word_dash_5: morning-sun-settle-magic-armed
+bip_39_word_dash_6: morning-sun-settle-magic-armed-black
+bip_39_word_dash_7: morning-sun-settle-magic-armed-black-quiz
+bip_39_word_dash_8: morning-sun-settle-magic-armed-black-quiz-narrow
+bip_39_word_dash_9: morning-sun-settle-magic-armed-black-quiz-narrow-edge
 bip_39_word_new_br_1: morning
 bip_39_word_new_br_10: morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow<br>edge<br>unit
 bip_39_word_new_br_11: morning<br>sun<br>settle<br>magic<br>armed<br>black<br>quiz<br>narrow<br>edge<br>unit<br>loop
@@ -192,6 +204,18 @@ bip_39_word_space_6: morning sun settle magic armed black
 bip_39_word_space_7: morning sun settle magic armed black quiz
 bip_39_word_space_8: morning sun settle magic armed black quiz narrow
 bip_39_word_space_9: morning sun settle magic armed black quiz narrow edge
+bip_39_word_underscore_1: morning
+bip_39_word_underscore_10: morning_sun_settle_magic_armed_black_quiz_narrow_edge_unit
+bip_39_word_underscore_11: morning_sun_settle_magic_armed_black_quiz_narrow_edge_unit_loop
+bip_39_word_underscore_12: morning_sun_settle_magic_armed_black_quiz_narrow_edge_unit_loop_above
+bip_39_word_underscore_2: morning_sun
+bip_39_word_underscore_3: morning_sun_settle
+bip_39_word_underscore_4: morning_sun_settle_magic
+bip_39_word_underscore_5: morning_sun_settle_magic_armed
+bip_39_word_underscore_6: morning_sun_settle_magic_armed_black
+bip_39_word_underscore_7: morning_sun_settle_magic_armed_black_quiz
+bip_39_word_underscore_8: morning_sun_settle_magic_armed_black_quiz_narrow
+bip_39_word_underscore_9: morning_sun_settle_magic_armed_black_quiz_narrow_edge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

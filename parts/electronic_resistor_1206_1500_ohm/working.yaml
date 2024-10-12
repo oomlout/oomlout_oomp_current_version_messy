@@ -1,3 +1,15 @@
+bip_39_word_dash_1: riot
+bip_39_word_dash_10: riot-boy-lake-rare-flock-future-fruit-sunset-sample-liquid
+bip_39_word_dash_11: riot-boy-lake-rare-flock-future-fruit-sunset-sample-liquid-bone
+bip_39_word_dash_12: riot-boy-lake-rare-flock-future-fruit-sunset-sample-liquid-bone-absorb
+bip_39_word_dash_2: riot-boy
+bip_39_word_dash_3: riot-boy-lake
+bip_39_word_dash_4: riot-boy-lake-rare
+bip_39_word_dash_5: riot-boy-lake-rare-flock
+bip_39_word_dash_6: riot-boy-lake-rare-flock-future
+bip_39_word_dash_7: riot-boy-lake-rare-flock-future-fruit
+bip_39_word_dash_8: riot-boy-lake-rare-flock-future-fruit-sunset
+bip_39_word_dash_9: riot-boy-lake-rare-flock-future-fruit-sunset-sample
 bip_39_word_new_br_1: riot
 bip_39_word_new_br_10: riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset<br>sample<br>liquid
 bip_39_word_new_br_11: riot<br>boy<br>lake<br>rare<br>flock<br>future<br>fruit<br>sunset<br>sample<br>liquid<br>bone
@@ -192,6 +204,18 @@ bip_39_word_space_6: riot boy lake rare flock future
 bip_39_word_space_7: riot boy lake rare flock future fruit
 bip_39_word_space_8: riot boy lake rare flock future fruit sunset
 bip_39_word_space_9: riot boy lake rare flock future fruit sunset sample
+bip_39_word_underscore_1: riot
+bip_39_word_underscore_10: riot_boy_lake_rare_flock_future_fruit_sunset_sample_liquid
+bip_39_word_underscore_11: riot_boy_lake_rare_flock_future_fruit_sunset_sample_liquid_bone
+bip_39_word_underscore_12: riot_boy_lake_rare_flock_future_fruit_sunset_sample_liquid_bone_absorb
+bip_39_word_underscore_2: riot_boy
+bip_39_word_underscore_3: riot_boy_lake
+bip_39_word_underscore_4: riot_boy_lake_rare
+bip_39_word_underscore_5: riot_boy_lake_rare_flock
+bip_39_word_underscore_6: riot_boy_lake_rare_flock_future
+bip_39_word_underscore_7: riot_boy_lake_rare_flock_future_fruit
+bip_39_word_underscore_8: riot_boy_lake_rare_flock_future_fruit_sunset
+bip_39_word_underscore_9: riot_boy_lake_rare_flock_future_fruit_sunset_sample
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ritual |  
+| bip_39_word_dash_10 | ritual-penalty-wear-fork-coin-crazy-ivory-security-cattle-where |  
+| bip_39_word_dash_11 | ritual-penalty-wear-fork-coin-crazy-ivory-security-cattle-where-lottery |  
+| bip_39_word_dash_12 | ritual-penalty-wear-fork-coin-crazy-ivory-security-cattle-where-lottery-alert |  
+| bip_39_word_dash_2 | ritual-penalty |  
+| bip_39_word_dash_3 | ritual-penalty-wear |  
+| bip_39_word_dash_4 | ritual-penalty-wear-fork |  
+| bip_39_word_dash_5 | ritual-penalty-wear-fork-coin |  
+| bip_39_word_dash_6 | ritual-penalty-wear-fork-coin-crazy |  
+| bip_39_word_dash_7 | ritual-penalty-wear-fork-coin-crazy-ivory |  
+| bip_39_word_dash_8 | ritual-penalty-wear-fork-coin-crazy-ivory-security |  
+| bip_39_word_dash_9 | ritual-penalty-wear-fork-coin-crazy-ivory-security-cattle |  
 | bip_39_word_new_br_1 | ritual |  
 | bip_39_word_new_br_10 | ritual<br>penalty<br>wear<br>fork<br>coin<br>crazy<br>ivory<br>security<br>cattle<br>where |  
 | bip_39_word_new_br_11 | ritual<br>penalty<br>wear<br>fork<br>coin<br>crazy<br>ivory<br>security<br>cattle<br>where<br>lottery |  
@@ -147,6 +159,18 @@ cattle |
 | bip_39_word_space_7 | ritual penalty wear fork coin crazy ivory |  
 | bip_39_word_space_8 | ritual penalty wear fork coin crazy ivory security |  
 | bip_39_word_space_9 | ritual penalty wear fork coin crazy ivory security cattle |  
+| bip_39_word_underscore_1 | ritual |  
+| bip_39_word_underscore_10 | ritual_penalty_wear_fork_coin_crazy_ivory_security_cattle_where |  
+| bip_39_word_underscore_11 | ritual_penalty_wear_fork_coin_crazy_ivory_security_cattle_where_lottery |  
+| bip_39_word_underscore_12 | ritual_penalty_wear_fork_coin_crazy_ivory_security_cattle_where_lottery_alert |  
+| bip_39_word_underscore_2 | ritual_penalty |  
+| bip_39_word_underscore_3 | ritual_penalty_wear |  
+| bip_39_word_underscore_4 | ritual_penalty_wear_fork |  
+| bip_39_word_underscore_5 | ritual_penalty_wear_fork_coin |  
+| bip_39_word_underscore_6 | ritual_penalty_wear_fork_coin_crazy |  
+| bip_39_word_underscore_7 | ritual_penalty_wear_fork_coin_crazy_ivory |  
+| bip_39_word_underscore_8 | ritual_penalty_wear_fork_coin_crazy_ivory_security |  
+| bip_39_word_underscore_9 | ritual_penalty_wear_fork_coin_crazy_ivory_security_cattle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

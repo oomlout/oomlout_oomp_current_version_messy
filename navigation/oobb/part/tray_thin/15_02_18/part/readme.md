@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fork |  
+| bip_39_word_dash_10 | fork-net-true-attack-ozone-device-conduct-true-keen-expand |  
+| bip_39_word_dash_11 | fork-net-true-attack-ozone-device-conduct-true-keen-expand-useless |  
+| bip_39_word_dash_12 | fork-net-true-attack-ozone-device-conduct-true-keen-expand-useless-approve |  
+| bip_39_word_dash_2 | fork-net |  
+| bip_39_word_dash_3 | fork-net-true |  
+| bip_39_word_dash_4 | fork-net-true-attack |  
+| bip_39_word_dash_5 | fork-net-true-attack-ozone |  
+| bip_39_word_dash_6 | fork-net-true-attack-ozone-device |  
+| bip_39_word_dash_7 | fork-net-true-attack-ozone-device-conduct |  
+| bip_39_word_dash_8 | fork-net-true-attack-ozone-device-conduct-true |  
+| bip_39_word_dash_9 | fork-net-true-attack-ozone-device-conduct-true-keen |  
 | bip_39_word_new_br_1 | fork |  
 | bip_39_word_new_br_10 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true<br>keen<br>expand |  
 | bip_39_word_new_br_11 | fork<br>net<br>true<br>attack<br>ozone<br>device<br>conduct<br>true<br>keen<br>expand<br>useless |  
@@ -147,6 +159,18 @@ keen |
 | bip_39_word_space_7 | fork net true attack ozone device conduct |  
 | bip_39_word_space_8 | fork net true attack ozone device conduct true |  
 | bip_39_word_space_9 | fork net true attack ozone device conduct true keen |  
+| bip_39_word_underscore_1 | fork |  
+| bip_39_word_underscore_10 | fork_net_true_attack_ozone_device_conduct_true_keen_expand |  
+| bip_39_word_underscore_11 | fork_net_true_attack_ozone_device_conduct_true_keen_expand_useless |  
+| bip_39_word_underscore_12 | fork_net_true_attack_ozone_device_conduct_true_keen_expand_useless_approve |  
+| bip_39_word_underscore_2 | fork_net |  
+| bip_39_word_underscore_3 | fork_net_true |  
+| bip_39_word_underscore_4 | fork_net_true_attack |  
+| bip_39_word_underscore_5 | fork_net_true_attack_ozone |  
+| bip_39_word_underscore_6 | fork_net_true_attack_ozone_device |  
+| bip_39_word_underscore_7 | fork_net_true_attack_ozone_device_conduct |  
+| bip_39_word_underscore_8 | fork_net_true_attack_ozone_device_conduct_true |  
+| bip_39_word_underscore_9 | fork_net_true_attack_ozone_device_conduct_true_keen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

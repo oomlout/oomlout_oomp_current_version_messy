@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | item |  
+| bip_39_word_dash_10 | item-search-bridge-aspect-motor-caution-rib-venue-forward-sort |  
+| bip_39_word_dash_11 | item-search-bridge-aspect-motor-caution-rib-venue-forward-sort-gospel |  
+| bip_39_word_dash_12 | item-search-bridge-aspect-motor-caution-rib-venue-forward-sort-gospel-abstract |  
+| bip_39_word_dash_2 | item-search |  
+| bip_39_word_dash_3 | item-search-bridge |  
+| bip_39_word_dash_4 | item-search-bridge-aspect |  
+| bip_39_word_dash_5 | item-search-bridge-aspect-motor |  
+| bip_39_word_dash_6 | item-search-bridge-aspect-motor-caution |  
+| bip_39_word_dash_7 | item-search-bridge-aspect-motor-caution-rib |  
+| bip_39_word_dash_8 | item-search-bridge-aspect-motor-caution-rib-venue |  
+| bip_39_word_dash_9 | item-search-bridge-aspect-motor-caution-rib-venue-forward |  
 | bip_39_word_new_br_1 | item |  
 | bip_39_word_new_br_10 | item<br>search<br>bridge<br>aspect<br>motor<br>caution<br>rib<br>venue<br>forward<br>sort |  
 | bip_39_word_new_br_11 | item<br>search<br>bridge<br>aspect<br>motor<br>caution<br>rib<br>venue<br>forward<br>sort<br>gospel |  
@@ -147,6 +159,18 @@ forward |
 | bip_39_word_space_7 | item search bridge aspect motor caution rib |  
 | bip_39_word_space_8 | item search bridge aspect motor caution rib venue |  
 | bip_39_word_space_9 | item search bridge aspect motor caution rib venue forward |  
+| bip_39_word_underscore_1 | item |  
+| bip_39_word_underscore_10 | item_search_bridge_aspect_motor_caution_rib_venue_forward_sort |  
+| bip_39_word_underscore_11 | item_search_bridge_aspect_motor_caution_rib_venue_forward_sort_gospel |  
+| bip_39_word_underscore_12 | item_search_bridge_aspect_motor_caution_rib_venue_forward_sort_gospel_abstract |  
+| bip_39_word_underscore_2 | item_search |  
+| bip_39_word_underscore_3 | item_search_bridge |  
+| bip_39_word_underscore_4 | item_search_bridge_aspect |  
+| bip_39_word_underscore_5 | item_search_bridge_aspect_motor |  
+| bip_39_word_underscore_6 | item_search_bridge_aspect_motor_caution |  
+| bip_39_word_underscore_7 | item_search_bridge_aspect_motor_caution_rib |  
+| bip_39_word_underscore_8 | item_search_bridge_aspect_motor_caution_rib_venue |  
+| bip_39_word_underscore_9 | item_search_bridge_aspect_motor_caution_rib_venue_forward |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

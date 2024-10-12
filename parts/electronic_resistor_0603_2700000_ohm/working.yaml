@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clap
+bip_39_word_dash_10: clap-tell-absent-skull-daring-family-about-cabbage-weekend-vague
+bip_39_word_dash_11: clap-tell-absent-skull-daring-family-about-cabbage-weekend-vague-festival
+bip_39_word_dash_12: clap-tell-absent-skull-daring-family-about-cabbage-weekend-vague-festival-approve
+bip_39_word_dash_2: clap-tell
+bip_39_word_dash_3: clap-tell-absent
+bip_39_word_dash_4: clap-tell-absent-skull
+bip_39_word_dash_5: clap-tell-absent-skull-daring
+bip_39_word_dash_6: clap-tell-absent-skull-daring-family
+bip_39_word_dash_7: clap-tell-absent-skull-daring-family-about
+bip_39_word_dash_8: clap-tell-absent-skull-daring-family-about-cabbage
+bip_39_word_dash_9: clap-tell-absent-skull-daring-family-about-cabbage-weekend
 bip_39_word_new_br_1: clap
 bip_39_word_new_br_10: clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage<br>weekend<br>vague
 bip_39_word_new_br_11: clap<br>tell<br>absent<br>skull<br>daring<br>family<br>about<br>cabbage<br>weekend<br>vague<br>festival
@@ -193,6 +205,18 @@ bip_39_word_space_6: clap tell absent skull daring family
 bip_39_word_space_7: clap tell absent skull daring family about
 bip_39_word_space_8: clap tell absent skull daring family about cabbage
 bip_39_word_space_9: clap tell absent skull daring family about cabbage weekend
+bip_39_word_underscore_1: clap
+bip_39_word_underscore_10: clap_tell_absent_skull_daring_family_about_cabbage_weekend_vague
+bip_39_word_underscore_11: clap_tell_absent_skull_daring_family_about_cabbage_weekend_vague_festival
+bip_39_word_underscore_12: clap_tell_absent_skull_daring_family_about_cabbage_weekend_vague_festival_approve
+bip_39_word_underscore_2: clap_tell
+bip_39_word_underscore_3: clap_tell_absent
+bip_39_word_underscore_4: clap_tell_absent_skull
+bip_39_word_underscore_5: clap_tell_absent_skull_daring
+bip_39_word_underscore_6: clap_tell_absent_skull_daring_family
+bip_39_word_underscore_7: clap_tell_absent_skull_daring_family_about
+bip_39_word_underscore_8: clap_tell_absent_skull_daring_family_about_cabbage
+bip_39_word_underscore_9: clap_tell_absent_skull_daring_family_about_cabbage_weekend
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

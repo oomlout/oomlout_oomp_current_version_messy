@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flame |  
+| bip_39_word_dash_10 | flame-simple-luxury-humor-process-salute-patch-bubble-dynamic-soda |  
+| bip_39_word_dash_11 | flame-simple-luxury-humor-process-salute-patch-bubble-dynamic-soda-better |  
+| bip_39_word_dash_12 | flame-simple-luxury-humor-process-salute-patch-bubble-dynamic-soda-better-absorb |  
+| bip_39_word_dash_2 | flame-simple |  
+| bip_39_word_dash_3 | flame-simple-luxury |  
+| bip_39_word_dash_4 | flame-simple-luxury-humor |  
+| bip_39_word_dash_5 | flame-simple-luxury-humor-process |  
+| bip_39_word_dash_6 | flame-simple-luxury-humor-process-salute |  
+| bip_39_word_dash_7 | flame-simple-luxury-humor-process-salute-patch |  
+| bip_39_word_dash_8 | flame-simple-luxury-humor-process-salute-patch-bubble |  
+| bip_39_word_dash_9 | flame-simple-luxury-humor-process-salute-patch-bubble-dynamic |  
 | bip_39_word_new_br_1 | flame |  
 | bip_39_word_new_br_10 | flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble<br>dynamic<br>soda |  
 | bip_39_word_new_br_11 | flame<br>simple<br>luxury<br>humor<br>process<br>salute<br>patch<br>bubble<br>dynamic<br>soda<br>better |  
@@ -147,6 +159,18 @@ dynamic |
 | bip_39_word_space_7 | flame simple luxury humor process salute patch |  
 | bip_39_word_space_8 | flame simple luxury humor process salute patch bubble |  
 | bip_39_word_space_9 | flame simple luxury humor process salute patch bubble dynamic |  
+| bip_39_word_underscore_1 | flame |  
+| bip_39_word_underscore_10 | flame_simple_luxury_humor_process_salute_patch_bubble_dynamic_soda |  
+| bip_39_word_underscore_11 | flame_simple_luxury_humor_process_salute_patch_bubble_dynamic_soda_better |  
+| bip_39_word_underscore_12 | flame_simple_luxury_humor_process_salute_patch_bubble_dynamic_soda_better_absorb |  
+| bip_39_word_underscore_2 | flame_simple |  
+| bip_39_word_underscore_3 | flame_simple_luxury |  
+| bip_39_word_underscore_4 | flame_simple_luxury_humor |  
+| bip_39_word_underscore_5 | flame_simple_luxury_humor_process |  
+| bip_39_word_underscore_6 | flame_simple_luxury_humor_process_salute |  
+| bip_39_word_underscore_7 | flame_simple_luxury_humor_process_salute_patch |  
+| bip_39_word_underscore_8 | flame_simple_luxury_humor_process_salute_patch_bubble |  
+| bip_39_word_underscore_9 | flame_simple_luxury_humor_process_salute_patch_bubble_dynamic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

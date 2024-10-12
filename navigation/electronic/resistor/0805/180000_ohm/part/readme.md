@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | donate |  
+| bip_39_word_dash_10 | donate-fortune-sorry-history-scrap-loan-regret-helmet-tuition-female |  
+| bip_39_word_dash_11 | donate-fortune-sorry-history-scrap-loan-regret-helmet-tuition-female-there |  
+| bip_39_word_dash_12 | donate-fortune-sorry-history-scrap-loan-regret-helmet-tuition-female-there-access |  
+| bip_39_word_dash_2 | donate-fortune |  
+| bip_39_word_dash_3 | donate-fortune-sorry |  
+| bip_39_word_dash_4 | donate-fortune-sorry-history |  
+| bip_39_word_dash_5 | donate-fortune-sorry-history-scrap |  
+| bip_39_word_dash_6 | donate-fortune-sorry-history-scrap-loan |  
+| bip_39_word_dash_7 | donate-fortune-sorry-history-scrap-loan-regret |  
+| bip_39_word_dash_8 | donate-fortune-sorry-history-scrap-loan-regret-helmet |  
+| bip_39_word_dash_9 | donate-fortune-sorry-history-scrap-loan-regret-helmet-tuition |  
 | bip_39_word_new_br_1 | donate |  
 | bip_39_word_new_br_10 | donate<br>fortune<br>sorry<br>history<br>scrap<br>loan<br>regret<br>helmet<br>tuition<br>female |  
 | bip_39_word_new_br_11 | donate<br>fortune<br>sorry<br>history<br>scrap<br>loan<br>regret<br>helmet<br>tuition<br>female<br>there |  
@@ -147,6 +159,18 @@ tuition |
 | bip_39_word_space_7 | donate fortune sorry history scrap loan regret |  
 | bip_39_word_space_8 | donate fortune sorry history scrap loan regret helmet |  
 | bip_39_word_space_9 | donate fortune sorry history scrap loan regret helmet tuition |  
+| bip_39_word_underscore_1 | donate |  
+| bip_39_word_underscore_10 | donate_fortune_sorry_history_scrap_loan_regret_helmet_tuition_female |  
+| bip_39_word_underscore_11 | donate_fortune_sorry_history_scrap_loan_regret_helmet_tuition_female_there |  
+| bip_39_word_underscore_12 | donate_fortune_sorry_history_scrap_loan_regret_helmet_tuition_female_there_access |  
+| bip_39_word_underscore_2 | donate_fortune |  
+| bip_39_word_underscore_3 | donate_fortune_sorry |  
+| bip_39_word_underscore_4 | donate_fortune_sorry_history |  
+| bip_39_word_underscore_5 | donate_fortune_sorry_history_scrap |  
+| bip_39_word_underscore_6 | donate_fortune_sorry_history_scrap_loan |  
+| bip_39_word_underscore_7 | donate_fortune_sorry_history_scrap_loan_regret |  
+| bip_39_word_underscore_8 | donate_fortune_sorry_history_scrap_loan_regret_helmet |  
+| bip_39_word_underscore_9 | donate_fortune_sorry_history_scrap_loan_regret_helmet_tuition |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

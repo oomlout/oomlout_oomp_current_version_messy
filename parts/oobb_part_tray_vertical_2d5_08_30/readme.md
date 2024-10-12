@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | office |  
+| bip_39_word_dash_10 | office-flash-mask-pioneer-belt-route-corn-squirrel-dune-trade |  
+| bip_39_word_dash_11 | office-flash-mask-pioneer-belt-route-corn-squirrel-dune-trade-finish |  
+| bip_39_word_dash_12 | office-flash-mask-pioneer-belt-route-corn-squirrel-dune-trade-finish-adult |  
+| bip_39_word_dash_2 | office-flash |  
+| bip_39_word_dash_3 | office-flash-mask |  
+| bip_39_word_dash_4 | office-flash-mask-pioneer |  
+| bip_39_word_dash_5 | office-flash-mask-pioneer-belt |  
+| bip_39_word_dash_6 | office-flash-mask-pioneer-belt-route |  
+| bip_39_word_dash_7 | office-flash-mask-pioneer-belt-route-corn |  
+| bip_39_word_dash_8 | office-flash-mask-pioneer-belt-route-corn-squirrel |  
+| bip_39_word_dash_9 | office-flash-mask-pioneer-belt-route-corn-squirrel-dune |  
 | bip_39_word_new_br_1 | office |  
 | bip_39_word_new_br_10 | office<br>flash<br>mask<br>pioneer<br>belt<br>route<br>corn<br>squirrel<br>dune<br>trade |  
 | bip_39_word_new_br_11 | office<br>flash<br>mask<br>pioneer<br>belt<br>route<br>corn<br>squirrel<br>dune<br>trade<br>finish |  
@@ -147,6 +159,18 @@ dune |
 | bip_39_word_space_7 | office flash mask pioneer belt route corn |  
 | bip_39_word_space_8 | office flash mask pioneer belt route corn squirrel |  
 | bip_39_word_space_9 | office flash mask pioneer belt route corn squirrel dune |  
+| bip_39_word_underscore_1 | office |  
+| bip_39_word_underscore_10 | office_flash_mask_pioneer_belt_route_corn_squirrel_dune_trade |  
+| bip_39_word_underscore_11 | office_flash_mask_pioneer_belt_route_corn_squirrel_dune_trade_finish |  
+| bip_39_word_underscore_12 | office_flash_mask_pioneer_belt_route_corn_squirrel_dune_trade_finish_adult |  
+| bip_39_word_underscore_2 | office_flash |  
+| bip_39_word_underscore_3 | office_flash_mask |  
+| bip_39_word_underscore_4 | office_flash_mask_pioneer |  
+| bip_39_word_underscore_5 | office_flash_mask_pioneer_belt |  
+| bip_39_word_underscore_6 | office_flash_mask_pioneer_belt_route |  
+| bip_39_word_underscore_7 | office_flash_mask_pioneer_belt_route_corn |  
+| bip_39_word_underscore_8 | office_flash_mask_pioneer_belt_route_corn_squirrel |  
+| bip_39_word_underscore_9 | office_flash_mask_pioneer_belt_route_corn_squirrel_dune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fan |  
+| bip_39_word_dash_10 | fan-ticket-enhance-message-rose-switch-rely-easily-hover-coyote |  
+| bip_39_word_dash_11 | fan-ticket-enhance-message-rose-switch-rely-easily-hover-coyote-obscure |  
+| bip_39_word_dash_12 | fan-ticket-enhance-message-rose-switch-rely-easily-hover-coyote-obscure-autumn |  
+| bip_39_word_dash_2 | fan-ticket |  
+| bip_39_word_dash_3 | fan-ticket-enhance |  
+| bip_39_word_dash_4 | fan-ticket-enhance-message |  
+| bip_39_word_dash_5 | fan-ticket-enhance-message-rose |  
+| bip_39_word_dash_6 | fan-ticket-enhance-message-rose-switch |  
+| bip_39_word_dash_7 | fan-ticket-enhance-message-rose-switch-rely |  
+| bip_39_word_dash_8 | fan-ticket-enhance-message-rose-switch-rely-easily |  
+| bip_39_word_dash_9 | fan-ticket-enhance-message-rose-switch-rely-easily-hover |  
 | bip_39_word_new_br_1 | fan |  
 | bip_39_word_new_br_10 | fan<br>ticket<br>enhance<br>message<br>rose<br>switch<br>rely<br>easily<br>hover<br>coyote |  
 | bip_39_word_new_br_11 | fan<br>ticket<br>enhance<br>message<br>rose<br>switch<br>rely<br>easily<br>hover<br>coyote<br>obscure |  
@@ -147,6 +159,18 @@ hover |
 | bip_39_word_space_7 | fan ticket enhance message rose switch rely |  
 | bip_39_word_space_8 | fan ticket enhance message rose switch rely easily |  
 | bip_39_word_space_9 | fan ticket enhance message rose switch rely easily hover |  
+| bip_39_word_underscore_1 | fan |  
+| bip_39_word_underscore_10 | fan_ticket_enhance_message_rose_switch_rely_easily_hover_coyote |  
+| bip_39_word_underscore_11 | fan_ticket_enhance_message_rose_switch_rely_easily_hover_coyote_obscure |  
+| bip_39_word_underscore_12 | fan_ticket_enhance_message_rose_switch_rely_easily_hover_coyote_obscure_autumn |  
+| bip_39_word_underscore_2 | fan_ticket |  
+| bip_39_word_underscore_3 | fan_ticket_enhance |  
+| bip_39_word_underscore_4 | fan_ticket_enhance_message |  
+| bip_39_word_underscore_5 | fan_ticket_enhance_message_rose |  
+| bip_39_word_underscore_6 | fan_ticket_enhance_message_rose_switch |  
+| bip_39_word_underscore_7 | fan_ticket_enhance_message_rose_switch_rely |  
+| bip_39_word_underscore_8 | fan_ticket_enhance_message_rose_switch_rely_easily |  
+| bip_39_word_underscore_9 | fan_ticket_enhance_message_rose_switch_rely_easily_hover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

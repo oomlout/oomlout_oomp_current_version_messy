@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vast |  
+| bip_39_word_dash_10 | vast-valve-rival-mammal-immense-rescue-deal-fabric-isolate-mention |  
+| bip_39_word_dash_11 | vast-valve-rival-mammal-immense-rescue-deal-fabric-isolate-mention-priority |  
+| bip_39_word_dash_12 | vast-valve-rival-mammal-immense-rescue-deal-fabric-isolate-mention-priority-arm |  
+| bip_39_word_dash_2 | vast-valve |  
+| bip_39_word_dash_3 | vast-valve-rival |  
+| bip_39_word_dash_4 | vast-valve-rival-mammal |  
+| bip_39_word_dash_5 | vast-valve-rival-mammal-immense |  
+| bip_39_word_dash_6 | vast-valve-rival-mammal-immense-rescue |  
+| bip_39_word_dash_7 | vast-valve-rival-mammal-immense-rescue-deal |  
+| bip_39_word_dash_8 | vast-valve-rival-mammal-immense-rescue-deal-fabric |  
+| bip_39_word_dash_9 | vast-valve-rival-mammal-immense-rescue-deal-fabric-isolate |  
 | bip_39_word_new_br_1 | vast |  
 | bip_39_word_new_br_10 | vast<br>valve<br>rival<br>mammal<br>immense<br>rescue<br>deal<br>fabric<br>isolate<br>mention |  
 | bip_39_word_new_br_11 | vast<br>valve<br>rival<br>mammal<br>immense<br>rescue<br>deal<br>fabric<br>isolate<br>mention<br>priority |  
@@ -147,6 +159,18 @@ isolate |
 | bip_39_word_space_7 | vast valve rival mammal immense rescue deal |  
 | bip_39_word_space_8 | vast valve rival mammal immense rescue deal fabric |  
 | bip_39_word_space_9 | vast valve rival mammal immense rescue deal fabric isolate |  
+| bip_39_word_underscore_1 | vast |  
+| bip_39_word_underscore_10 | vast_valve_rival_mammal_immense_rescue_deal_fabric_isolate_mention |  
+| bip_39_word_underscore_11 | vast_valve_rival_mammal_immense_rescue_deal_fabric_isolate_mention_priority |  
+| bip_39_word_underscore_12 | vast_valve_rival_mammal_immense_rescue_deal_fabric_isolate_mention_priority_arm |  
+| bip_39_word_underscore_2 | vast_valve |  
+| bip_39_word_underscore_3 | vast_valve_rival |  
+| bip_39_word_underscore_4 | vast_valve_rival_mammal |  
+| bip_39_word_underscore_5 | vast_valve_rival_mammal_immense |  
+| bip_39_word_underscore_6 | vast_valve_rival_mammal_immense_rescue |  
+| bip_39_word_underscore_7 | vast_valve_rival_mammal_immense_rescue_deal |  
+| bip_39_word_underscore_8 | vast_valve_rival_mammal_immense_rescue_deal_fabric |  
+| bip_39_word_underscore_9 | vast_valve_rival_mammal_immense_rescue_deal_fabric_isolate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

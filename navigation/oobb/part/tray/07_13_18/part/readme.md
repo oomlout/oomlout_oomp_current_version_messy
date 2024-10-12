@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | report |  
+| bip_39_word_dash_10 | report-spice-price-smart-main-champion-index-happy-will-general |  
+| bip_39_word_dash_11 | report-spice-price-smart-main-champion-index-happy-will-general-soap |  
+| bip_39_word_dash_12 | report-spice-price-smart-main-champion-index-happy-will-general-soap-aspect |  
+| bip_39_word_dash_2 | report-spice |  
+| bip_39_word_dash_3 | report-spice-price |  
+| bip_39_word_dash_4 | report-spice-price-smart |  
+| bip_39_word_dash_5 | report-spice-price-smart-main |  
+| bip_39_word_dash_6 | report-spice-price-smart-main-champion |  
+| bip_39_word_dash_7 | report-spice-price-smart-main-champion-index |  
+| bip_39_word_dash_8 | report-spice-price-smart-main-champion-index-happy |  
+| bip_39_word_dash_9 | report-spice-price-smart-main-champion-index-happy-will |  
 | bip_39_word_new_br_1 | report |  
 | bip_39_word_new_br_10 | report<br>spice<br>price<br>smart<br>main<br>champion<br>index<br>happy<br>will<br>general |  
 | bip_39_word_new_br_11 | report<br>spice<br>price<br>smart<br>main<br>champion<br>index<br>happy<br>will<br>general<br>soap |  
@@ -147,6 +159,18 @@ will |
 | bip_39_word_space_7 | report spice price smart main champion index |  
 | bip_39_word_space_8 | report spice price smart main champion index happy |  
 | bip_39_word_space_9 | report spice price smart main champion index happy will |  
+| bip_39_word_underscore_1 | report |  
+| bip_39_word_underscore_10 | report_spice_price_smart_main_champion_index_happy_will_general |  
+| bip_39_word_underscore_11 | report_spice_price_smart_main_champion_index_happy_will_general_soap |  
+| bip_39_word_underscore_12 | report_spice_price_smart_main_champion_index_happy_will_general_soap_aspect |  
+| bip_39_word_underscore_2 | report_spice |  
+| bip_39_word_underscore_3 | report_spice_price |  
+| bip_39_word_underscore_4 | report_spice_price_smart |  
+| bip_39_word_underscore_5 | report_spice_price_smart_main |  
+| bip_39_word_underscore_6 | report_spice_price_smart_main_champion |  
+| bip_39_word_underscore_7 | report_spice_price_smart_main_champion_index |  
+| bip_39_word_underscore_8 | report_spice_price_smart_main_champion_index_happy |  
+| bip_39_word_underscore_9 | report_spice_price_smart_main_champion_index_happy_will |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

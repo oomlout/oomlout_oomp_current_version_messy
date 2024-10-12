@@ -1,3 +1,15 @@
+bip_39_word_dash_1: umbrella
+bip_39_word_dash_10: umbrella-runway-impose-feature-spice-copper-decline-unaware-noodle-human
+bip_39_word_dash_11: umbrella-runway-impose-feature-spice-copper-decline-unaware-noodle-human-rare
+bip_39_word_dash_12: umbrella-runway-impose-feature-spice-copper-decline-unaware-noodle-human-rare-alien
+bip_39_word_dash_2: umbrella-runway
+bip_39_word_dash_3: umbrella-runway-impose
+bip_39_word_dash_4: umbrella-runway-impose-feature
+bip_39_word_dash_5: umbrella-runway-impose-feature-spice
+bip_39_word_dash_6: umbrella-runway-impose-feature-spice-copper
+bip_39_word_dash_7: umbrella-runway-impose-feature-spice-copper-decline
+bip_39_word_dash_8: umbrella-runway-impose-feature-spice-copper-decline-unaware
+bip_39_word_dash_9: umbrella-runway-impose-feature-spice-copper-decline-unaware-noodle
 bip_39_word_new_br_1: umbrella
 bip_39_word_new_br_10: umbrella<br>runway<br>impose<br>feature<br>spice<br>copper<br>decline<br>unaware<br>noodle<br>human
 bip_39_word_new_br_11: umbrella<br>runway<br>impose<br>feature<br>spice<br>copper<br>decline<br>unaware<br>noodle<br>human<br>rare
@@ -194,6 +206,18 @@ bip_39_word_space_6: umbrella runway impose feature spice copper
 bip_39_word_space_7: umbrella runway impose feature spice copper decline
 bip_39_word_space_8: umbrella runway impose feature spice copper decline unaware
 bip_39_word_space_9: umbrella runway impose feature spice copper decline unaware noodle
+bip_39_word_underscore_1: umbrella
+bip_39_word_underscore_10: umbrella_runway_impose_feature_spice_copper_decline_unaware_noodle_human
+bip_39_word_underscore_11: umbrella_runway_impose_feature_spice_copper_decline_unaware_noodle_human_rare
+bip_39_word_underscore_12: umbrella_runway_impose_feature_spice_copper_decline_unaware_noodle_human_rare_alien
+bip_39_word_underscore_2: umbrella_runway
+bip_39_word_underscore_3: umbrella_runway_impose
+bip_39_word_underscore_4: umbrella_runway_impose_feature
+bip_39_word_underscore_5: umbrella_runway_impose_feature_spice
+bip_39_word_underscore_6: umbrella_runway_impose_feature_spice_copper
+bip_39_word_underscore_7: umbrella_runway_impose_feature_spice_copper_decline
+bip_39_word_underscore_8: umbrella_runway_impose_feature_spice_copper_decline_unaware
+bip_39_word_underscore_9: umbrella_runway_impose_feature_spice_copper_decline_unaware_noodle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

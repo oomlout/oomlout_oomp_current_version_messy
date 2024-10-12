@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | civil |  
+| bip_39_word_dash_10 | civil-income-ranch-sunset-supreme-happy-bike-film-tilt-wolf |  
+| bip_39_word_dash_11 | civil-income-ranch-sunset-supreme-happy-bike-film-tilt-wolf-sad |  
+| bip_39_word_dash_12 | civil-income-ranch-sunset-supreme-happy-bike-film-tilt-wolf-sad-athlete |  
+| bip_39_word_dash_2 | civil-income |  
+| bip_39_word_dash_3 | civil-income-ranch |  
+| bip_39_word_dash_4 | civil-income-ranch-sunset |  
+| bip_39_word_dash_5 | civil-income-ranch-sunset-supreme |  
+| bip_39_word_dash_6 | civil-income-ranch-sunset-supreme-happy |  
+| bip_39_word_dash_7 | civil-income-ranch-sunset-supreme-happy-bike |  
+| bip_39_word_dash_8 | civil-income-ranch-sunset-supreme-happy-bike-film |  
+| bip_39_word_dash_9 | civil-income-ranch-sunset-supreme-happy-bike-film-tilt |  
 | bip_39_word_new_br_1 | civil |  
 | bip_39_word_new_br_10 | civil<br>income<br>ranch<br>sunset<br>supreme<br>happy<br>bike<br>film<br>tilt<br>wolf |  
 | bip_39_word_new_br_11 | civil<br>income<br>ranch<br>sunset<br>supreme<br>happy<br>bike<br>film<br>tilt<br>wolf<br>sad |  
@@ -147,6 +159,18 @@ tilt |
 | bip_39_word_space_7 | civil income ranch sunset supreme happy bike |  
 | bip_39_word_space_8 | civil income ranch sunset supreme happy bike film |  
 | bip_39_word_space_9 | civil income ranch sunset supreme happy bike film tilt |  
+| bip_39_word_underscore_1 | civil |  
+| bip_39_word_underscore_10 | civil_income_ranch_sunset_supreme_happy_bike_film_tilt_wolf |  
+| bip_39_word_underscore_11 | civil_income_ranch_sunset_supreme_happy_bike_film_tilt_wolf_sad |  
+| bip_39_word_underscore_12 | civil_income_ranch_sunset_supreme_happy_bike_film_tilt_wolf_sad_athlete |  
+| bip_39_word_underscore_2 | civil_income |  
+| bip_39_word_underscore_3 | civil_income_ranch |  
+| bip_39_word_underscore_4 | civil_income_ranch_sunset |  
+| bip_39_word_underscore_5 | civil_income_ranch_sunset_supreme |  
+| bip_39_word_underscore_6 | civil_income_ranch_sunset_supreme_happy |  
+| bip_39_word_underscore_7 | civil_income_ranch_sunset_supreme_happy_bike |  
+| bip_39_word_underscore_8 | civil_income_ranch_sunset_supreme_happy_bike_film |  
+| bip_39_word_underscore_9 | civil_income_ranch_sunset_supreme_happy_bike_film_tilt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

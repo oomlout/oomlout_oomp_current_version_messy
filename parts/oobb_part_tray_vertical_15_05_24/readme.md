@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toe |  
+| bip_39_word_dash_10 | toe-fit-tobacco-size-black-rookie-shallow-neutral-joy-aware |  
+| bip_39_word_dash_11 | toe-fit-tobacco-size-black-rookie-shallow-neutral-joy-aware-rice |  
+| bip_39_word_dash_12 | toe-fit-tobacco-size-black-rookie-shallow-neutral-joy-aware-rice-also |  
+| bip_39_word_dash_2 | toe-fit |  
+| bip_39_word_dash_3 | toe-fit-tobacco |  
+| bip_39_word_dash_4 | toe-fit-tobacco-size |  
+| bip_39_word_dash_5 | toe-fit-tobacco-size-black |  
+| bip_39_word_dash_6 | toe-fit-tobacco-size-black-rookie |  
+| bip_39_word_dash_7 | toe-fit-tobacco-size-black-rookie-shallow |  
+| bip_39_word_dash_8 | toe-fit-tobacco-size-black-rookie-shallow-neutral |  
+| bip_39_word_dash_9 | toe-fit-tobacco-size-black-rookie-shallow-neutral-joy |  
 | bip_39_word_new_br_1 | toe |  
 | bip_39_word_new_br_10 | toe<br>fit<br>tobacco<br>size<br>black<br>rookie<br>shallow<br>neutral<br>joy<br>aware |  
 | bip_39_word_new_br_11 | toe<br>fit<br>tobacco<br>size<br>black<br>rookie<br>shallow<br>neutral<br>joy<br>aware<br>rice |  
@@ -147,6 +159,18 @@ joy |
 | bip_39_word_space_7 | toe fit tobacco size black rookie shallow |  
 | bip_39_word_space_8 | toe fit tobacco size black rookie shallow neutral |  
 | bip_39_word_space_9 | toe fit tobacco size black rookie shallow neutral joy |  
+| bip_39_word_underscore_1 | toe |  
+| bip_39_word_underscore_10 | toe_fit_tobacco_size_black_rookie_shallow_neutral_joy_aware |  
+| bip_39_word_underscore_11 | toe_fit_tobacco_size_black_rookie_shallow_neutral_joy_aware_rice |  
+| bip_39_word_underscore_12 | toe_fit_tobacco_size_black_rookie_shallow_neutral_joy_aware_rice_also |  
+| bip_39_word_underscore_2 | toe_fit |  
+| bip_39_word_underscore_3 | toe_fit_tobacco |  
+| bip_39_word_underscore_4 | toe_fit_tobacco_size |  
+| bip_39_word_underscore_5 | toe_fit_tobacco_size_black |  
+| bip_39_word_underscore_6 | toe_fit_tobacco_size_black_rookie |  
+| bip_39_word_underscore_7 | toe_fit_tobacco_size_black_rookie_shallow |  
+| bip_39_word_underscore_8 | toe_fit_tobacco_size_black_rookie_shallow_neutral |  
+| bip_39_word_underscore_9 | toe_fit_tobacco_size_black_rookie_shallow_neutral_joy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

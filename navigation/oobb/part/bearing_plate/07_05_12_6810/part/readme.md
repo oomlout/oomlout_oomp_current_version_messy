@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | logic |  
+| bip_39_word_dash_10 | logic-reject-rate-suggest-vessel-good-stereo-someone-room-speed |  
+| bip_39_word_dash_11 | logic-reject-rate-suggest-vessel-good-stereo-someone-room-speed-sort |  
+| bip_39_word_dash_12 | logic-reject-rate-suggest-vessel-good-stereo-someone-room-speed-sort-aerobic |  
+| bip_39_word_dash_2 | logic-reject |  
+| bip_39_word_dash_3 | logic-reject-rate |  
+| bip_39_word_dash_4 | logic-reject-rate-suggest |  
+| bip_39_word_dash_5 | logic-reject-rate-suggest-vessel |  
+| bip_39_word_dash_6 | logic-reject-rate-suggest-vessel-good |  
+| bip_39_word_dash_7 | logic-reject-rate-suggest-vessel-good-stereo |  
+| bip_39_word_dash_8 | logic-reject-rate-suggest-vessel-good-stereo-someone |  
+| bip_39_word_dash_9 | logic-reject-rate-suggest-vessel-good-stereo-someone-room |  
 | bip_39_word_new_br_1 | logic |  
 | bip_39_word_new_br_10 | logic<br>reject<br>rate<br>suggest<br>vessel<br>good<br>stereo<br>someone<br>room<br>speed |  
 | bip_39_word_new_br_11 | logic<br>reject<br>rate<br>suggest<br>vessel<br>good<br>stereo<br>someone<br>room<br>speed<br>sort |  
@@ -147,6 +159,18 @@ room |
 | bip_39_word_space_7 | logic reject rate suggest vessel good stereo |  
 | bip_39_word_space_8 | logic reject rate suggest vessel good stereo someone |  
 | bip_39_word_space_9 | logic reject rate suggest vessel good stereo someone room |  
+| bip_39_word_underscore_1 | logic |  
+| bip_39_word_underscore_10 | logic_reject_rate_suggest_vessel_good_stereo_someone_room_speed |  
+| bip_39_word_underscore_11 | logic_reject_rate_suggest_vessel_good_stereo_someone_room_speed_sort |  
+| bip_39_word_underscore_12 | logic_reject_rate_suggest_vessel_good_stereo_someone_room_speed_sort_aerobic |  
+| bip_39_word_underscore_2 | logic_reject |  
+| bip_39_word_underscore_3 | logic_reject_rate |  
+| bip_39_word_underscore_4 | logic_reject_rate_suggest |  
+| bip_39_word_underscore_5 | logic_reject_rate_suggest_vessel |  
+| bip_39_word_underscore_6 | logic_reject_rate_suggest_vessel_good |  
+| bip_39_word_underscore_7 | logic_reject_rate_suggest_vessel_good_stereo |  
+| bip_39_word_underscore_8 | logic_reject_rate_suggest_vessel_good_stereo_someone |  
+| bip_39_word_underscore_9 | logic_reject_rate_suggest_vessel_good_stereo_someone_room |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

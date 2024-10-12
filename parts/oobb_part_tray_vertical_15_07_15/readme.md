@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nurse |  
+| bip_39_word_dash_10 | nurse-gap-crack-load-true-pepper-work-since-attract-check |  
+| bip_39_word_dash_11 | nurse-gap-crack-load-true-pepper-work-since-attract-check-turn |  
+| bip_39_word_dash_12 | nurse-gap-crack-load-true-pepper-work-since-attract-check-turn-another |  
+| bip_39_word_dash_2 | nurse-gap |  
+| bip_39_word_dash_3 | nurse-gap-crack |  
+| bip_39_word_dash_4 | nurse-gap-crack-load |  
+| bip_39_word_dash_5 | nurse-gap-crack-load-true |  
+| bip_39_word_dash_6 | nurse-gap-crack-load-true-pepper |  
+| bip_39_word_dash_7 | nurse-gap-crack-load-true-pepper-work |  
+| bip_39_word_dash_8 | nurse-gap-crack-load-true-pepper-work-since |  
+| bip_39_word_dash_9 | nurse-gap-crack-load-true-pepper-work-since-attract |  
 | bip_39_word_new_br_1 | nurse |  
 | bip_39_word_new_br_10 | nurse<br>gap<br>crack<br>load<br>true<br>pepper<br>work<br>since<br>attract<br>check |  
 | bip_39_word_new_br_11 | nurse<br>gap<br>crack<br>load<br>true<br>pepper<br>work<br>since<br>attract<br>check<br>turn |  
@@ -147,6 +159,18 @@ attract |
 | bip_39_word_space_7 | nurse gap crack load true pepper work |  
 | bip_39_word_space_8 | nurse gap crack load true pepper work since |  
 | bip_39_word_space_9 | nurse gap crack load true pepper work since attract |  
+| bip_39_word_underscore_1 | nurse |  
+| bip_39_word_underscore_10 | nurse_gap_crack_load_true_pepper_work_since_attract_check |  
+| bip_39_word_underscore_11 | nurse_gap_crack_load_true_pepper_work_since_attract_check_turn |  
+| bip_39_word_underscore_12 | nurse_gap_crack_load_true_pepper_work_since_attract_check_turn_another |  
+| bip_39_word_underscore_2 | nurse_gap |  
+| bip_39_word_underscore_3 | nurse_gap_crack |  
+| bip_39_word_underscore_4 | nurse_gap_crack_load |  
+| bip_39_word_underscore_5 | nurse_gap_crack_load_true |  
+| bip_39_word_underscore_6 | nurse_gap_crack_load_true_pepper |  
+| bip_39_word_underscore_7 | nurse_gap_crack_load_true_pepper_work |  
+| bip_39_word_underscore_8 | nurse_gap_crack_load_true_pepper_work_since |  
+| bip_39_word_underscore_9 | nurse_gap_crack_load_true_pepper_work_since_attract |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

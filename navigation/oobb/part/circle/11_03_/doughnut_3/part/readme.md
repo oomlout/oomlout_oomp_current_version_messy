@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | energy |  
+| bip_39_word_dash_10 | energy-wall-harsh-valve-upset-biology-office-celery-end-swing |  
+| bip_39_word_dash_11 | energy-wall-harsh-valve-upset-biology-office-celery-end-swing-thought |  
+| bip_39_word_dash_12 | energy-wall-harsh-valve-upset-biology-office-celery-end-swing-thought-aerobic |  
+| bip_39_word_dash_2 | energy-wall |  
+| bip_39_word_dash_3 | energy-wall-harsh |  
+| bip_39_word_dash_4 | energy-wall-harsh-valve |  
+| bip_39_word_dash_5 | energy-wall-harsh-valve-upset |  
+| bip_39_word_dash_6 | energy-wall-harsh-valve-upset-biology |  
+| bip_39_word_dash_7 | energy-wall-harsh-valve-upset-biology-office |  
+| bip_39_word_dash_8 | energy-wall-harsh-valve-upset-biology-office-celery |  
+| bip_39_word_dash_9 | energy-wall-harsh-valve-upset-biology-office-celery-end |  
 | bip_39_word_new_br_1 | energy |  
 | bip_39_word_new_br_10 | energy<br>wall<br>harsh<br>valve<br>upset<br>biology<br>office<br>celery<br>end<br>swing |  
 | bip_39_word_new_br_11 | energy<br>wall<br>harsh<br>valve<br>upset<br>biology<br>office<br>celery<br>end<br>swing<br>thought |  
@@ -147,6 +159,18 @@ end |
 | bip_39_word_space_7 | energy wall harsh valve upset biology office |  
 | bip_39_word_space_8 | energy wall harsh valve upset biology office celery |  
 | bip_39_word_space_9 | energy wall harsh valve upset biology office celery end |  
+| bip_39_word_underscore_1 | energy |  
+| bip_39_word_underscore_10 | energy_wall_harsh_valve_upset_biology_office_celery_end_swing |  
+| bip_39_word_underscore_11 | energy_wall_harsh_valve_upset_biology_office_celery_end_swing_thought |  
+| bip_39_word_underscore_12 | energy_wall_harsh_valve_upset_biology_office_celery_end_swing_thought_aerobic |  
+| bip_39_word_underscore_2 | energy_wall |  
+| bip_39_word_underscore_3 | energy_wall_harsh |  
+| bip_39_word_underscore_4 | energy_wall_harsh_valve |  
+| bip_39_word_underscore_5 | energy_wall_harsh_valve_upset |  
+| bip_39_word_underscore_6 | energy_wall_harsh_valve_upset_biology |  
+| bip_39_word_underscore_7 | energy_wall_harsh_valve_upset_biology_office |  
+| bip_39_word_underscore_8 | energy_wall_harsh_valve_upset_biology_office_celery |  
+| bip_39_word_underscore_9 | energy_wall_harsh_valve_upset_biology_office_celery_end |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

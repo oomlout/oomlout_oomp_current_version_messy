@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glimpse |  
+| bip_39_word_dash_10 | glimpse-range-piece-clap-trouble-almost-budget-fly-course-stock |  
+| bip_39_word_dash_11 | glimpse-range-piece-clap-trouble-almost-budget-fly-course-stock-foot |  
+| bip_39_word_dash_12 | glimpse-range-piece-clap-trouble-almost-budget-fly-course-stock-foot-agent |  
+| bip_39_word_dash_2 | glimpse-range |  
+| bip_39_word_dash_3 | glimpse-range-piece |  
+| bip_39_word_dash_4 | glimpse-range-piece-clap |  
+| bip_39_word_dash_5 | glimpse-range-piece-clap-trouble |  
+| bip_39_word_dash_6 | glimpse-range-piece-clap-trouble-almost |  
+| bip_39_word_dash_7 | glimpse-range-piece-clap-trouble-almost-budget |  
+| bip_39_word_dash_8 | glimpse-range-piece-clap-trouble-almost-budget-fly |  
+| bip_39_word_dash_9 | glimpse-range-piece-clap-trouble-almost-budget-fly-course |  
 | bip_39_word_new_br_1 | glimpse |  
 | bip_39_word_new_br_10 | glimpse<br>range<br>piece<br>clap<br>trouble<br>almost<br>budget<br>fly<br>course<br>stock |  
 | bip_39_word_new_br_11 | glimpse<br>range<br>piece<br>clap<br>trouble<br>almost<br>budget<br>fly<br>course<br>stock<br>foot |  
@@ -147,6 +159,18 @@ course |
 | bip_39_word_space_7 | glimpse range piece clap trouble almost budget |  
 | bip_39_word_space_8 | glimpse range piece clap trouble almost budget fly |  
 | bip_39_word_space_9 | glimpse range piece clap trouble almost budget fly course |  
+| bip_39_word_underscore_1 | glimpse |  
+| bip_39_word_underscore_10 | glimpse_range_piece_clap_trouble_almost_budget_fly_course_stock |  
+| bip_39_word_underscore_11 | glimpse_range_piece_clap_trouble_almost_budget_fly_course_stock_foot |  
+| bip_39_word_underscore_12 | glimpse_range_piece_clap_trouble_almost_budget_fly_course_stock_foot_agent |  
+| bip_39_word_underscore_2 | glimpse_range |  
+| bip_39_word_underscore_3 | glimpse_range_piece |  
+| bip_39_word_underscore_4 | glimpse_range_piece_clap |  
+| bip_39_word_underscore_5 | glimpse_range_piece_clap_trouble |  
+| bip_39_word_underscore_6 | glimpse_range_piece_clap_trouble_almost |  
+| bip_39_word_underscore_7 | glimpse_range_piece_clap_trouble_almost_budget |  
+| bip_39_word_underscore_8 | glimpse_range_piece_clap_trouble_almost_budget_fly |  
+| bip_39_word_underscore_9 | glimpse_range_piece_clap_trouble_almost_budget_fly_course |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

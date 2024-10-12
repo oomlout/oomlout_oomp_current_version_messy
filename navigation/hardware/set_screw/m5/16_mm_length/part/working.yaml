@@ -1,3 +1,15 @@
+bip_39_word_dash_1: second
+bip_39_word_dash_10: second-school-trip-fun-zebra-actor-amateur-analyst-basic-area
+bip_39_word_dash_11: second-school-trip-fun-zebra-actor-amateur-analyst-basic-area-menu
+bip_39_word_dash_12: second-school-trip-fun-zebra-actor-amateur-analyst-basic-area-menu-assault
+bip_39_word_dash_2: second-school
+bip_39_word_dash_3: second-school-trip
+bip_39_word_dash_4: second-school-trip-fun
+bip_39_word_dash_5: second-school-trip-fun-zebra
+bip_39_word_dash_6: second-school-trip-fun-zebra-actor
+bip_39_word_dash_7: second-school-trip-fun-zebra-actor-amateur
+bip_39_word_dash_8: second-school-trip-fun-zebra-actor-amateur-analyst
+bip_39_word_dash_9: second-school-trip-fun-zebra-actor-amateur-analyst-basic
 bip_39_word_new_br_1: second
 bip_39_word_new_br_10: second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst<br>basic<br>area
 bip_39_word_new_br_11: second<br>school<br>trip<br>fun<br>zebra<br>actor<br>amateur<br>analyst<br>basic<br>area<br>menu
@@ -193,6 +205,18 @@ bip_39_word_space_6: second school trip fun zebra actor
 bip_39_word_space_7: second school trip fun zebra actor amateur
 bip_39_word_space_8: second school trip fun zebra actor amateur analyst
 bip_39_word_space_9: second school trip fun zebra actor amateur analyst basic
+bip_39_word_underscore_1: second
+bip_39_word_underscore_10: second_school_trip_fun_zebra_actor_amateur_analyst_basic_area
+bip_39_word_underscore_11: second_school_trip_fun_zebra_actor_amateur_analyst_basic_area_menu
+bip_39_word_underscore_12: second_school_trip_fun_zebra_actor_amateur_analyst_basic_area_menu_assault
+bip_39_word_underscore_2: second_school
+bip_39_word_underscore_3: second_school_trip
+bip_39_word_underscore_4: second_school_trip_fun
+bip_39_word_underscore_5: second_school_trip_fun_zebra
+bip_39_word_underscore_6: second_school_trip_fun_zebra_actor
+bip_39_word_underscore_7: second_school_trip_fun_zebra_actor_amateur
+bip_39_word_underscore_8: second_school_trip_fun_zebra_actor_amateur_analyst
+bip_39_word_underscore_9: second_school_trip_fun_zebra_actor_amateur_analyst_basic
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

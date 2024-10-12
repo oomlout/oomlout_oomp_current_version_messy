@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | poverty |  
+| bip_39_word_dash_10 | poverty-tell-rail-industry-purchase-reform-actress-hedgehog-front-river |  
+| bip_39_word_dash_11 | poverty-tell-rail-industry-purchase-reform-actress-hedgehog-front-river-already |  
+| bip_39_word_dash_12 | poverty-tell-rail-industry-purchase-reform-actress-hedgehog-front-river-already-apple |  
+| bip_39_word_dash_2 | poverty-tell |  
+| bip_39_word_dash_3 | poverty-tell-rail |  
+| bip_39_word_dash_4 | poverty-tell-rail-industry |  
+| bip_39_word_dash_5 | poverty-tell-rail-industry-purchase |  
+| bip_39_word_dash_6 | poverty-tell-rail-industry-purchase-reform |  
+| bip_39_word_dash_7 | poverty-tell-rail-industry-purchase-reform-actress |  
+| bip_39_word_dash_8 | poverty-tell-rail-industry-purchase-reform-actress-hedgehog |  
+| bip_39_word_dash_9 | poverty-tell-rail-industry-purchase-reform-actress-hedgehog-front |  
 | bip_39_word_new_br_1 | poverty |  
 | bip_39_word_new_br_10 | poverty<br>tell<br>rail<br>industry<br>purchase<br>reform<br>actress<br>hedgehog<br>front<br>river |  
 | bip_39_word_new_br_11 | poverty<br>tell<br>rail<br>industry<br>purchase<br>reform<br>actress<br>hedgehog<br>front<br>river<br>already |  
@@ -147,6 +159,18 @@ front |
 | bip_39_word_space_7 | poverty tell rail industry purchase reform actress |  
 | bip_39_word_space_8 | poverty tell rail industry purchase reform actress hedgehog |  
 | bip_39_word_space_9 | poverty tell rail industry purchase reform actress hedgehog front |  
+| bip_39_word_underscore_1 | poverty |  
+| bip_39_word_underscore_10 | poverty_tell_rail_industry_purchase_reform_actress_hedgehog_front_river |  
+| bip_39_word_underscore_11 | poverty_tell_rail_industry_purchase_reform_actress_hedgehog_front_river_already |  
+| bip_39_word_underscore_12 | poverty_tell_rail_industry_purchase_reform_actress_hedgehog_front_river_already_apple |  
+| bip_39_word_underscore_2 | poverty_tell |  
+| bip_39_word_underscore_3 | poverty_tell_rail |  
+| bip_39_word_underscore_4 | poverty_tell_rail_industry |  
+| bip_39_word_underscore_5 | poverty_tell_rail_industry_purchase |  
+| bip_39_word_underscore_6 | poverty_tell_rail_industry_purchase_reform |  
+| bip_39_word_underscore_7 | poverty_tell_rail_industry_purchase_reform_actress |  
+| bip_39_word_underscore_8 | poverty_tell_rail_industry_purchase_reform_actress_hedgehog |  
+| bip_39_word_underscore_9 | poverty_tell_rail_industry_purchase_reform_actress_hedgehog_front |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

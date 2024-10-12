@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | result |  
+| bip_39_word_dash_10 | result-scale-popular-pistol-decade-finish-arctic-joke-spawn-abuse |  
+| bip_39_word_dash_11 | result-scale-popular-pistol-decade-finish-arctic-joke-spawn-abuse-voice |  
+| bip_39_word_dash_12 | result-scale-popular-pistol-decade-finish-arctic-joke-spawn-abuse-voice-alcohol |  
+| bip_39_word_dash_2 | result-scale |  
+| bip_39_word_dash_3 | result-scale-popular |  
+| bip_39_word_dash_4 | result-scale-popular-pistol |  
+| bip_39_word_dash_5 | result-scale-popular-pistol-decade |  
+| bip_39_word_dash_6 | result-scale-popular-pistol-decade-finish |  
+| bip_39_word_dash_7 | result-scale-popular-pistol-decade-finish-arctic |  
+| bip_39_word_dash_8 | result-scale-popular-pistol-decade-finish-arctic-joke |  
+| bip_39_word_dash_9 | result-scale-popular-pistol-decade-finish-arctic-joke-spawn |  
 | bip_39_word_new_br_1 | result |  
 | bip_39_word_new_br_10 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke<br>spawn<br>abuse |  
 | bip_39_word_new_br_11 | result<br>scale<br>popular<br>pistol<br>decade<br>finish<br>arctic<br>joke<br>spawn<br>abuse<br>voice |  
@@ -147,6 +159,18 @@ spawn |
 | bip_39_word_space_7 | result scale popular pistol decade finish arctic |  
 | bip_39_word_space_8 | result scale popular pistol decade finish arctic joke |  
 | bip_39_word_space_9 | result scale popular pistol decade finish arctic joke spawn |  
+| bip_39_word_underscore_1 | result |  
+| bip_39_word_underscore_10 | result_scale_popular_pistol_decade_finish_arctic_joke_spawn_abuse |  
+| bip_39_word_underscore_11 | result_scale_popular_pistol_decade_finish_arctic_joke_spawn_abuse_voice |  
+| bip_39_word_underscore_12 | result_scale_popular_pistol_decade_finish_arctic_joke_spawn_abuse_voice_alcohol |  
+| bip_39_word_underscore_2 | result_scale |  
+| bip_39_word_underscore_3 | result_scale_popular |  
+| bip_39_word_underscore_4 | result_scale_popular_pistol |  
+| bip_39_word_underscore_5 | result_scale_popular_pistol_decade |  
+| bip_39_word_underscore_6 | result_scale_popular_pistol_decade_finish |  
+| bip_39_word_underscore_7 | result_scale_popular_pistol_decade_finish_arctic |  
+| bip_39_word_underscore_8 | result_scale_popular_pistol_decade_finish_arctic_joke |  
+| bip_39_word_underscore_9 | result_scale_popular_pistol_decade_finish_arctic_joke_spawn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

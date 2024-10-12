@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brown
+bip_39_word_dash_10: brown-theme-slab-spot-frog-double-chase-horn-until-injury
+bip_39_word_dash_11: brown-theme-slab-spot-frog-double-chase-horn-until-injury-long
+bip_39_word_dash_12: brown-theme-slab-spot-frog-double-chase-horn-until-injury-long-atom
+bip_39_word_dash_2: brown-theme
+bip_39_word_dash_3: brown-theme-slab
+bip_39_word_dash_4: brown-theme-slab-spot
+bip_39_word_dash_5: brown-theme-slab-spot-frog
+bip_39_word_dash_6: brown-theme-slab-spot-frog-double
+bip_39_word_dash_7: brown-theme-slab-spot-frog-double-chase
+bip_39_word_dash_8: brown-theme-slab-spot-frog-double-chase-horn
+bip_39_word_dash_9: brown-theme-slab-spot-frog-double-chase-horn-until
 bip_39_word_new_br_1: brown
 bip_39_word_new_br_10: brown<br>theme<br>slab<br>spot<br>frog<br>double<br>chase<br>horn<br>until<br>injury
 bip_39_word_new_br_11: brown<br>theme<br>slab<br>spot<br>frog<br>double<br>chase<br>horn<br>until<br>injury<br>long
@@ -192,6 +204,18 @@ bip_39_word_space_6: brown theme slab spot frog double
 bip_39_word_space_7: brown theme slab spot frog double chase
 bip_39_word_space_8: brown theme slab spot frog double chase horn
 bip_39_word_space_9: brown theme slab spot frog double chase horn until
+bip_39_word_underscore_1: brown
+bip_39_word_underscore_10: brown_theme_slab_spot_frog_double_chase_horn_until_injury
+bip_39_word_underscore_11: brown_theme_slab_spot_frog_double_chase_horn_until_injury_long
+bip_39_word_underscore_12: brown_theme_slab_spot_frog_double_chase_horn_until_injury_long_atom
+bip_39_word_underscore_2: brown_theme
+bip_39_word_underscore_3: brown_theme_slab
+bip_39_word_underscore_4: brown_theme_slab_spot
+bip_39_word_underscore_5: brown_theme_slab_spot_frog
+bip_39_word_underscore_6: brown_theme_slab_spot_frog_double
+bip_39_word_underscore_7: brown_theme_slab_spot_frog_double_chase
+bip_39_word_underscore_8: brown_theme_slab_spot_frog_double_chase_horn
+bip_39_word_underscore_9: brown_theme_slab_spot_frog_double_chase_horn_until
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

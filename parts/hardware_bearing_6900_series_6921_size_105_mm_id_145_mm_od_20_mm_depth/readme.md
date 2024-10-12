@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nuclear |  
+| bip_39_word_dash_10 | nuclear-improve-zone-treat-else-trouble-know-keep-vacant-disorder |  
+| bip_39_word_dash_11 | nuclear-improve-zone-treat-else-trouble-know-keep-vacant-disorder-math |  
+| bip_39_word_dash_12 | nuclear-improve-zone-treat-else-trouble-know-keep-vacant-disorder-math-arrive |  
+| bip_39_word_dash_2 | nuclear-improve |  
+| bip_39_word_dash_3 | nuclear-improve-zone |  
+| bip_39_word_dash_4 | nuclear-improve-zone-treat |  
+| bip_39_word_dash_5 | nuclear-improve-zone-treat-else |  
+| bip_39_word_dash_6 | nuclear-improve-zone-treat-else-trouble |  
+| bip_39_word_dash_7 | nuclear-improve-zone-treat-else-trouble-know |  
+| bip_39_word_dash_8 | nuclear-improve-zone-treat-else-trouble-know-keep |  
+| bip_39_word_dash_9 | nuclear-improve-zone-treat-else-trouble-know-keep-vacant |  
 | bip_39_word_new_br_1 | nuclear |  
 | bip_39_word_new_br_10 | nuclear<br>improve<br>zone<br>treat<br>else<br>trouble<br>know<br>keep<br>vacant<br>disorder |  
 | bip_39_word_new_br_11 | nuclear<br>improve<br>zone<br>treat<br>else<br>trouble<br>know<br>keep<br>vacant<br>disorder<br>math |  
@@ -147,6 +159,18 @@ vacant |
 | bip_39_word_space_7 | nuclear improve zone treat else trouble know |  
 | bip_39_word_space_8 | nuclear improve zone treat else trouble know keep |  
 | bip_39_word_space_9 | nuclear improve zone treat else trouble know keep vacant |  
+| bip_39_word_underscore_1 | nuclear |  
+| bip_39_word_underscore_10 | nuclear_improve_zone_treat_else_trouble_know_keep_vacant_disorder |  
+| bip_39_word_underscore_11 | nuclear_improve_zone_treat_else_trouble_know_keep_vacant_disorder_math |  
+| bip_39_word_underscore_12 | nuclear_improve_zone_treat_else_trouble_know_keep_vacant_disorder_math_arrive |  
+| bip_39_word_underscore_2 | nuclear_improve |  
+| bip_39_word_underscore_3 | nuclear_improve_zone |  
+| bip_39_word_underscore_4 | nuclear_improve_zone_treat |  
+| bip_39_word_underscore_5 | nuclear_improve_zone_treat_else |  
+| bip_39_word_underscore_6 | nuclear_improve_zone_treat_else_trouble |  
+| bip_39_word_underscore_7 | nuclear_improve_zone_treat_else_trouble_know |  
+| bip_39_word_underscore_8 | nuclear_improve_zone_treat_else_trouble_know_keep |  
+| bip_39_word_underscore_9 | nuclear_improve_zone_treat_else_trouble_know_keep_vacant |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

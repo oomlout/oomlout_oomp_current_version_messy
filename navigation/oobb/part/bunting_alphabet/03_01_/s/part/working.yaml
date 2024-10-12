@@ -1,3 +1,15 @@
+bip_39_word_dash_1: black
+bip_39_word_dash_10: black-valve-brave-cousin-fire-finger-fiction-bind-retire-venue
+bip_39_word_dash_11: black-valve-brave-cousin-fire-finger-fiction-bind-retire-venue-confirm
+bip_39_word_dash_12: black-valve-brave-cousin-fire-finger-fiction-bind-retire-venue-confirm-above
+bip_39_word_dash_2: black-valve
+bip_39_word_dash_3: black-valve-brave
+bip_39_word_dash_4: black-valve-brave-cousin
+bip_39_word_dash_5: black-valve-brave-cousin-fire
+bip_39_word_dash_6: black-valve-brave-cousin-fire-finger
+bip_39_word_dash_7: black-valve-brave-cousin-fire-finger-fiction
+bip_39_word_dash_8: black-valve-brave-cousin-fire-finger-fiction-bind
+bip_39_word_dash_9: black-valve-brave-cousin-fire-finger-fiction-bind-retire
 bip_39_word_new_br_1: black
 bip_39_word_new_br_10: black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind<br>retire<br>venue
 bip_39_word_new_br_11: black<br>valve<br>brave<br>cousin<br>fire<br>finger<br>fiction<br>bind<br>retire<br>venue<br>confirm
@@ -193,6 +205,18 @@ bip_39_word_space_6: black valve brave cousin fire finger
 bip_39_word_space_7: black valve brave cousin fire finger fiction
 bip_39_word_space_8: black valve brave cousin fire finger fiction bind
 bip_39_word_space_9: black valve brave cousin fire finger fiction bind retire
+bip_39_word_underscore_1: black
+bip_39_word_underscore_10: black_valve_brave_cousin_fire_finger_fiction_bind_retire_venue
+bip_39_word_underscore_11: black_valve_brave_cousin_fire_finger_fiction_bind_retire_venue_confirm
+bip_39_word_underscore_12: black_valve_brave_cousin_fire_finger_fiction_bind_retire_venue_confirm_above
+bip_39_word_underscore_2: black_valve
+bip_39_word_underscore_3: black_valve_brave
+bip_39_word_underscore_4: black_valve_brave_cousin
+bip_39_word_underscore_5: black_valve_brave_cousin_fire
+bip_39_word_underscore_6: black_valve_brave_cousin_fire_finger
+bip_39_word_underscore_7: black_valve_brave_cousin_fire_finger_fiction
+bip_39_word_underscore_8: black_valve_brave_cousin_fire_finger_fiction_bind
+bip_39_word_underscore_9: black_valve_brave_cousin_fire_finger_fiction_bind_retire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | defy |  
+| bip_39_word_dash_10 | defy-kitchen-panic-seminar-slice-hospital-obtain-oak-nasty-sunny |  
+| bip_39_word_dash_11 | defy-kitchen-panic-seminar-slice-hospital-obtain-oak-nasty-sunny-shoot |  
+| bip_39_word_dash_12 | defy-kitchen-panic-seminar-slice-hospital-obtain-oak-nasty-sunny-shoot-above |  
+| bip_39_word_dash_2 | defy-kitchen |  
+| bip_39_word_dash_3 | defy-kitchen-panic |  
+| bip_39_word_dash_4 | defy-kitchen-panic-seminar |  
+| bip_39_word_dash_5 | defy-kitchen-panic-seminar-slice |  
+| bip_39_word_dash_6 | defy-kitchen-panic-seminar-slice-hospital |  
+| bip_39_word_dash_7 | defy-kitchen-panic-seminar-slice-hospital-obtain |  
+| bip_39_word_dash_8 | defy-kitchen-panic-seminar-slice-hospital-obtain-oak |  
+| bip_39_word_dash_9 | defy-kitchen-panic-seminar-slice-hospital-obtain-oak-nasty |  
 | bip_39_word_new_br_1 | defy |  
 | bip_39_word_new_br_10 | defy<br>kitchen<br>panic<br>seminar<br>slice<br>hospital<br>obtain<br>oak<br>nasty<br>sunny |  
 | bip_39_word_new_br_11 | defy<br>kitchen<br>panic<br>seminar<br>slice<br>hospital<br>obtain<br>oak<br>nasty<br>sunny<br>shoot |  
@@ -147,6 +159,18 @@ nasty |
 | bip_39_word_space_7 | defy kitchen panic seminar slice hospital obtain |  
 | bip_39_word_space_8 | defy kitchen panic seminar slice hospital obtain oak |  
 | bip_39_word_space_9 | defy kitchen panic seminar slice hospital obtain oak nasty |  
+| bip_39_word_underscore_1 | defy |  
+| bip_39_word_underscore_10 | defy_kitchen_panic_seminar_slice_hospital_obtain_oak_nasty_sunny |  
+| bip_39_word_underscore_11 | defy_kitchen_panic_seminar_slice_hospital_obtain_oak_nasty_sunny_shoot |  
+| bip_39_word_underscore_12 | defy_kitchen_panic_seminar_slice_hospital_obtain_oak_nasty_sunny_shoot_above |  
+| bip_39_word_underscore_2 | defy_kitchen |  
+| bip_39_word_underscore_3 | defy_kitchen_panic |  
+| bip_39_word_underscore_4 | defy_kitchen_panic_seminar |  
+| bip_39_word_underscore_5 | defy_kitchen_panic_seminar_slice |  
+| bip_39_word_underscore_6 | defy_kitchen_panic_seminar_slice_hospital |  
+| bip_39_word_underscore_7 | defy_kitchen_panic_seminar_slice_hospital_obtain |  
+| bip_39_word_underscore_8 | defy_kitchen_panic_seminar_slice_hospital_obtain_oak |  
+| bip_39_word_underscore_9 | defy_kitchen_panic_seminar_slice_hospital_obtain_oak_nasty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

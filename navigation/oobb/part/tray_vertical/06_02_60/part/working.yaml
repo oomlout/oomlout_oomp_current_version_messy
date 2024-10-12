@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wide
+bip_39_word_dash_10: wide-script-axis-reveal-portion-vacuum-leave-mail-exercise-provide
+bip_39_word_dash_11: wide-script-axis-reveal-portion-vacuum-leave-mail-exercise-provide-wrestle
+bip_39_word_dash_12: wide-script-axis-reveal-portion-vacuum-leave-mail-exercise-provide-wrestle-all
+bip_39_word_dash_2: wide-script
+bip_39_word_dash_3: wide-script-axis
+bip_39_word_dash_4: wide-script-axis-reveal
+bip_39_word_dash_5: wide-script-axis-reveal-portion
+bip_39_word_dash_6: wide-script-axis-reveal-portion-vacuum
+bip_39_word_dash_7: wide-script-axis-reveal-portion-vacuum-leave
+bip_39_word_dash_8: wide-script-axis-reveal-portion-vacuum-leave-mail
+bip_39_word_dash_9: wide-script-axis-reveal-portion-vacuum-leave-mail-exercise
 bip_39_word_new_br_1: wide
 bip_39_word_new_br_10: wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide
 bip_39_word_new_br_11: wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide<br>wrestle
@@ -193,6 +205,18 @@ bip_39_word_space_6: wide script axis reveal portion vacuum
 bip_39_word_space_7: wide script axis reveal portion vacuum leave
 bip_39_word_space_8: wide script axis reveal portion vacuum leave mail
 bip_39_word_space_9: wide script axis reveal portion vacuum leave mail exercise
+bip_39_word_underscore_1: wide
+bip_39_word_underscore_10: wide_script_axis_reveal_portion_vacuum_leave_mail_exercise_provide
+bip_39_word_underscore_11: wide_script_axis_reveal_portion_vacuum_leave_mail_exercise_provide_wrestle
+bip_39_word_underscore_12: wide_script_axis_reveal_portion_vacuum_leave_mail_exercise_provide_wrestle_all
+bip_39_word_underscore_2: wide_script
+bip_39_word_underscore_3: wide_script_axis
+bip_39_word_underscore_4: wide_script_axis_reveal
+bip_39_word_underscore_5: wide_script_axis_reveal_portion
+bip_39_word_underscore_6: wide_script_axis_reveal_portion_vacuum
+bip_39_word_underscore_7: wide_script_axis_reveal_portion_vacuum_leave
+bip_39_word_underscore_8: wide_script_axis_reveal_portion_vacuum_leave_mail
+bip_39_word_underscore_9: wide_script_axis_reveal_portion_vacuum_leave_mail_exercise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

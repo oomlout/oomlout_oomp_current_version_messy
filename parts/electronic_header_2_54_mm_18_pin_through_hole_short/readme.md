@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | endorse |  
+| bip_39_word_dash_10 | endorse-seven-moon-wild-legend-aerobic-sense-trade-solution-coil |  
+| bip_39_word_dash_11 | endorse-seven-moon-wild-legend-aerobic-sense-trade-solution-coil-session |  
+| bip_39_word_dash_12 | endorse-seven-moon-wild-legend-aerobic-sense-trade-solution-coil-session-aspect |  
+| bip_39_word_dash_2 | endorse-seven |  
+| bip_39_word_dash_3 | endorse-seven-moon |  
+| bip_39_word_dash_4 | endorse-seven-moon-wild |  
+| bip_39_word_dash_5 | endorse-seven-moon-wild-legend |  
+| bip_39_word_dash_6 | endorse-seven-moon-wild-legend-aerobic |  
+| bip_39_word_dash_7 | endorse-seven-moon-wild-legend-aerobic-sense |  
+| bip_39_word_dash_8 | endorse-seven-moon-wild-legend-aerobic-sense-trade |  
+| bip_39_word_dash_9 | endorse-seven-moon-wild-legend-aerobic-sense-trade-solution |  
 | bip_39_word_new_br_1 | endorse |  
 | bip_39_word_new_br_10 | endorse<br>seven<br>moon<br>wild<br>legend<br>aerobic<br>sense<br>trade<br>solution<br>coil |  
 | bip_39_word_new_br_11 | endorse<br>seven<br>moon<br>wild<br>legend<br>aerobic<br>sense<br>trade<br>solution<br>coil<br>session |  
@@ -147,6 +159,18 @@ solution |
 | bip_39_word_space_7 | endorse seven moon wild legend aerobic sense |  
 | bip_39_word_space_8 | endorse seven moon wild legend aerobic sense trade |  
 | bip_39_word_space_9 | endorse seven moon wild legend aerobic sense trade solution |  
+| bip_39_word_underscore_1 | endorse |  
+| bip_39_word_underscore_10 | endorse_seven_moon_wild_legend_aerobic_sense_trade_solution_coil |  
+| bip_39_word_underscore_11 | endorse_seven_moon_wild_legend_aerobic_sense_trade_solution_coil_session |  
+| bip_39_word_underscore_12 | endorse_seven_moon_wild_legend_aerobic_sense_trade_solution_coil_session_aspect |  
+| bip_39_word_underscore_2 | endorse_seven |  
+| bip_39_word_underscore_3 | endorse_seven_moon |  
+| bip_39_word_underscore_4 | endorse_seven_moon_wild |  
+| bip_39_word_underscore_5 | endorse_seven_moon_wild_legend |  
+| bip_39_word_underscore_6 | endorse_seven_moon_wild_legend_aerobic |  
+| bip_39_word_underscore_7 | endorse_seven_moon_wild_legend_aerobic_sense |  
+| bip_39_word_underscore_8 | endorse_seven_moon_wild_legend_aerobic_sense_trade |  
+| bip_39_word_underscore_9 | endorse_seven_moon_wild_legend_aerobic_sense_trade_solution |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | legend |  
+| bip_39_word_dash_10 | legend-million-brain-liquid-general-slogan-over-pass-step-panda |  
+| bip_39_word_dash_11 | legend-million-brain-liquid-general-slogan-over-pass-step-panda-shrug |  
+| bip_39_word_dash_12 | legend-million-brain-liquid-general-slogan-over-pass-step-panda-shrug-age |  
+| bip_39_word_dash_2 | legend-million |  
+| bip_39_word_dash_3 | legend-million-brain |  
+| bip_39_word_dash_4 | legend-million-brain-liquid |  
+| bip_39_word_dash_5 | legend-million-brain-liquid-general |  
+| bip_39_word_dash_6 | legend-million-brain-liquid-general-slogan |  
+| bip_39_word_dash_7 | legend-million-brain-liquid-general-slogan-over |  
+| bip_39_word_dash_8 | legend-million-brain-liquid-general-slogan-over-pass |  
+| bip_39_word_dash_9 | legend-million-brain-liquid-general-slogan-over-pass-step |  
 | bip_39_word_new_br_1 | legend |  
 | bip_39_word_new_br_10 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda |  
 | bip_39_word_new_br_11 | legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda<br>shrug |  
@@ -147,6 +159,18 @@ step |
 | bip_39_word_space_7 | legend million brain liquid general slogan over |  
 | bip_39_word_space_8 | legend million brain liquid general slogan over pass |  
 | bip_39_word_space_9 | legend million brain liquid general slogan over pass step |  
+| bip_39_word_underscore_1 | legend |  
+| bip_39_word_underscore_10 | legend_million_brain_liquid_general_slogan_over_pass_step_panda |  
+| bip_39_word_underscore_11 | legend_million_brain_liquid_general_slogan_over_pass_step_panda_shrug |  
+| bip_39_word_underscore_12 | legend_million_brain_liquid_general_slogan_over_pass_step_panda_shrug_age |  
+| bip_39_word_underscore_2 | legend_million |  
+| bip_39_word_underscore_3 | legend_million_brain |  
+| bip_39_word_underscore_4 | legend_million_brain_liquid |  
+| bip_39_word_underscore_5 | legend_million_brain_liquid_general |  
+| bip_39_word_underscore_6 | legend_million_brain_liquid_general_slogan |  
+| bip_39_word_underscore_7 | legend_million_brain_liquid_general_slogan_over |  
+| bip_39_word_underscore_8 | legend_million_brain_liquid_general_slogan_over_pass |  
+| bip_39_word_underscore_9 | legend_million_brain_liquid_general_slogan_over_pass_step |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

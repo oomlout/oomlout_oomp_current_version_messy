@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cabin |  
+| bip_39_word_dash_10 | cabin-pony-total-engine-absent-three-episode-suggest-flame-depth |  
+| bip_39_word_dash_11 | cabin-pony-total-engine-absent-three-episode-suggest-flame-depth-useless |  
+| bip_39_word_dash_12 | cabin-pony-total-engine-absent-three-episode-suggest-flame-depth-useless-about |  
+| bip_39_word_dash_2 | cabin-pony |  
+| bip_39_word_dash_3 | cabin-pony-total |  
+| bip_39_word_dash_4 | cabin-pony-total-engine |  
+| bip_39_word_dash_5 | cabin-pony-total-engine-absent |  
+| bip_39_word_dash_6 | cabin-pony-total-engine-absent-three |  
+| bip_39_word_dash_7 | cabin-pony-total-engine-absent-three-episode |  
+| bip_39_word_dash_8 | cabin-pony-total-engine-absent-three-episode-suggest |  
+| bip_39_word_dash_9 | cabin-pony-total-engine-absent-three-episode-suggest-flame |  
 | bip_39_word_new_br_1 | cabin |  
 | bip_39_word_new_br_10 | cabin<br>pony<br>total<br>engine<br>absent<br>three<br>episode<br>suggest<br>flame<br>depth |  
 | bip_39_word_new_br_11 | cabin<br>pony<br>total<br>engine<br>absent<br>three<br>episode<br>suggest<br>flame<br>depth<br>useless |  
@@ -147,6 +159,18 @@ flame |
 | bip_39_word_space_7 | cabin pony total engine absent three episode |  
 | bip_39_word_space_8 | cabin pony total engine absent three episode suggest |  
 | bip_39_word_space_9 | cabin pony total engine absent three episode suggest flame |  
+| bip_39_word_underscore_1 | cabin |  
+| bip_39_word_underscore_10 | cabin_pony_total_engine_absent_three_episode_suggest_flame_depth |  
+| bip_39_word_underscore_11 | cabin_pony_total_engine_absent_three_episode_suggest_flame_depth_useless |  
+| bip_39_word_underscore_12 | cabin_pony_total_engine_absent_three_episode_suggest_flame_depth_useless_about |  
+| bip_39_word_underscore_2 | cabin_pony |  
+| bip_39_word_underscore_3 | cabin_pony_total |  
+| bip_39_word_underscore_4 | cabin_pony_total_engine |  
+| bip_39_word_underscore_5 | cabin_pony_total_engine_absent |  
+| bip_39_word_underscore_6 | cabin_pony_total_engine_absent_three |  
+| bip_39_word_underscore_7 | cabin_pony_total_engine_absent_three_episode |  
+| bip_39_word_underscore_8 | cabin_pony_total_engine_absent_three_episode_suggest |  
+| bip_39_word_underscore_9 | cabin_pony_total_engine_absent_three_episode_suggest_flame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

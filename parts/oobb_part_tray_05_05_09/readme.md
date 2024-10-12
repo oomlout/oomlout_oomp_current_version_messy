@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | check |  
+| bip_39_word_dash_10 | check-math-bargain-giraffe-pull-pigeon-sentence-critic-science-lucky |  
+| bip_39_word_dash_11 | check-math-bargain-giraffe-pull-pigeon-sentence-critic-science-lucky-detect |  
+| bip_39_word_dash_12 | check-math-bargain-giraffe-pull-pigeon-sentence-critic-science-lucky-detect-announce |  
+| bip_39_word_dash_2 | check-math |  
+| bip_39_word_dash_3 | check-math-bargain |  
+| bip_39_word_dash_4 | check-math-bargain-giraffe |  
+| bip_39_word_dash_5 | check-math-bargain-giraffe-pull |  
+| bip_39_word_dash_6 | check-math-bargain-giraffe-pull-pigeon |  
+| bip_39_word_dash_7 | check-math-bargain-giraffe-pull-pigeon-sentence |  
+| bip_39_word_dash_8 | check-math-bargain-giraffe-pull-pigeon-sentence-critic |  
+| bip_39_word_dash_9 | check-math-bargain-giraffe-pull-pigeon-sentence-critic-science |  
 | bip_39_word_new_br_1 | check |  
 | bip_39_word_new_br_10 | check<br>math<br>bargain<br>giraffe<br>pull<br>pigeon<br>sentence<br>critic<br>science<br>lucky |  
 | bip_39_word_new_br_11 | check<br>math<br>bargain<br>giraffe<br>pull<br>pigeon<br>sentence<br>critic<br>science<br>lucky<br>detect |  
@@ -147,6 +159,18 @@ science |
 | bip_39_word_space_7 | check math bargain giraffe pull pigeon sentence |  
 | bip_39_word_space_8 | check math bargain giraffe pull pigeon sentence critic |  
 | bip_39_word_space_9 | check math bargain giraffe pull pigeon sentence critic science |  
+| bip_39_word_underscore_1 | check |  
+| bip_39_word_underscore_10 | check_math_bargain_giraffe_pull_pigeon_sentence_critic_science_lucky |  
+| bip_39_word_underscore_11 | check_math_bargain_giraffe_pull_pigeon_sentence_critic_science_lucky_detect |  
+| bip_39_word_underscore_12 | check_math_bargain_giraffe_pull_pigeon_sentence_critic_science_lucky_detect_announce |  
+| bip_39_word_underscore_2 | check_math |  
+| bip_39_word_underscore_3 | check_math_bargain |  
+| bip_39_word_underscore_4 | check_math_bargain_giraffe |  
+| bip_39_word_underscore_5 | check_math_bargain_giraffe_pull |  
+| bip_39_word_underscore_6 | check_math_bargain_giraffe_pull_pigeon |  
+| bip_39_word_underscore_7 | check_math_bargain_giraffe_pull_pigeon_sentence |  
+| bip_39_word_underscore_8 | check_math_bargain_giraffe_pull_pigeon_sentence_critic |  
+| bip_39_word_underscore_9 | check_math_bargain_giraffe_pull_pigeon_sentence_critic_science |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

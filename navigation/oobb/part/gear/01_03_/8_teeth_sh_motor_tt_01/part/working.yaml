@@ -1,3 +1,15 @@
+bip_39_word_dash_1: entire
+bip_39_word_dash_10: entire-dizzy-best-error-horn-mistake-umbrella-long-switch-jelly
+bip_39_word_dash_11: entire-dizzy-best-error-horn-mistake-umbrella-long-switch-jelly-smooth
+bip_39_word_dash_12: entire-dizzy-best-error-horn-mistake-umbrella-long-switch-jelly-smooth-argue
+bip_39_word_dash_2: entire-dizzy
+bip_39_word_dash_3: entire-dizzy-best
+bip_39_word_dash_4: entire-dizzy-best-error
+bip_39_word_dash_5: entire-dizzy-best-error-horn
+bip_39_word_dash_6: entire-dizzy-best-error-horn-mistake
+bip_39_word_dash_7: entire-dizzy-best-error-horn-mistake-umbrella
+bip_39_word_dash_8: entire-dizzy-best-error-horn-mistake-umbrella-long
+bip_39_word_dash_9: entire-dizzy-best-error-horn-mistake-umbrella-long-switch
 bip_39_word_new_br_1: entire
 bip_39_word_new_br_10: entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly
 bip_39_word_new_br_11: entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly<br>smooth
@@ -193,6 +205,18 @@ bip_39_word_space_6: entire dizzy best error horn mistake
 bip_39_word_space_7: entire dizzy best error horn mistake umbrella
 bip_39_word_space_8: entire dizzy best error horn mistake umbrella long
 bip_39_word_space_9: entire dizzy best error horn mistake umbrella long switch
+bip_39_word_underscore_1: entire
+bip_39_word_underscore_10: entire_dizzy_best_error_horn_mistake_umbrella_long_switch_jelly
+bip_39_word_underscore_11: entire_dizzy_best_error_horn_mistake_umbrella_long_switch_jelly_smooth
+bip_39_word_underscore_12: entire_dizzy_best_error_horn_mistake_umbrella_long_switch_jelly_smooth_argue
+bip_39_word_underscore_2: entire_dizzy
+bip_39_word_underscore_3: entire_dizzy_best
+bip_39_word_underscore_4: entire_dizzy_best_error
+bip_39_word_underscore_5: entire_dizzy_best_error_horn
+bip_39_word_underscore_6: entire_dizzy_best_error_horn_mistake
+bip_39_word_underscore_7: entire_dizzy_best_error_horn_mistake_umbrella
+bip_39_word_underscore_8: entire_dizzy_best_error_horn_mistake_umbrella_long
+bip_39_word_underscore_9: entire_dizzy_best_error_horn_mistake_umbrella_long_switch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

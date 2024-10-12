@@ -1,3 +1,15 @@
+bip_39_word_dash_1: online
+bip_39_word_dash_10: online-sail-own-dad-close-pill-crunch-dynamic-stereo-soul
+bip_39_word_dash_11: online-sail-own-dad-close-pill-crunch-dynamic-stereo-soul-cotton
+bip_39_word_dash_12: online-sail-own-dad-close-pill-crunch-dynamic-stereo-soul-cotton-art
+bip_39_word_dash_2: online-sail
+bip_39_word_dash_3: online-sail-own
+bip_39_word_dash_4: online-sail-own-dad
+bip_39_word_dash_5: online-sail-own-dad-close
+bip_39_word_dash_6: online-sail-own-dad-close-pill
+bip_39_word_dash_7: online-sail-own-dad-close-pill-crunch
+bip_39_word_dash_8: online-sail-own-dad-close-pill-crunch-dynamic
+bip_39_word_dash_9: online-sail-own-dad-close-pill-crunch-dynamic-stereo
 bip_39_word_new_br_1: online
 bip_39_word_new_br_10: online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic<br>stereo<br>soul
 bip_39_word_new_br_11: online<br>sail<br>own<br>dad<br>close<br>pill<br>crunch<br>dynamic<br>stereo<br>soul<br>cotton
@@ -192,6 +204,18 @@ bip_39_word_space_6: online sail own dad close pill
 bip_39_word_space_7: online sail own dad close pill crunch
 bip_39_word_space_8: online sail own dad close pill crunch dynamic
 bip_39_word_space_9: online sail own dad close pill crunch dynamic stereo
+bip_39_word_underscore_1: online
+bip_39_word_underscore_10: online_sail_own_dad_close_pill_crunch_dynamic_stereo_soul
+bip_39_word_underscore_11: online_sail_own_dad_close_pill_crunch_dynamic_stereo_soul_cotton
+bip_39_word_underscore_12: online_sail_own_dad_close_pill_crunch_dynamic_stereo_soul_cotton_art
+bip_39_word_underscore_2: online_sail
+bip_39_word_underscore_3: online_sail_own
+bip_39_word_underscore_4: online_sail_own_dad
+bip_39_word_underscore_5: online_sail_own_dad_close
+bip_39_word_underscore_6: online_sail_own_dad_close_pill
+bip_39_word_underscore_7: online_sail_own_dad_close_pill_crunch
+bip_39_word_underscore_8: online_sail_own_dad_close_pill_crunch_dynamic
+bip_39_word_underscore_9: online_sail_own_dad_close_pill_crunch_dynamic_stereo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rent
+bip_39_word_dash_10: rent-left-street-crucial-clown-wave-puzzle-engage-join-law
+bip_39_word_dash_11: rent-left-street-crucial-clown-wave-puzzle-engage-join-law-dune
+bip_39_word_dash_12: rent-left-street-crucial-clown-wave-puzzle-engage-join-law-dune-arctic
+bip_39_word_dash_2: rent-left
+bip_39_word_dash_3: rent-left-street
+bip_39_word_dash_4: rent-left-street-crucial
+bip_39_word_dash_5: rent-left-street-crucial-clown
+bip_39_word_dash_6: rent-left-street-crucial-clown-wave
+bip_39_word_dash_7: rent-left-street-crucial-clown-wave-puzzle
+bip_39_word_dash_8: rent-left-street-crucial-clown-wave-puzzle-engage
+bip_39_word_dash_9: rent-left-street-crucial-clown-wave-puzzle-engage-join
 bip_39_word_new_br_1: rent
 bip_39_word_new_br_10: rent<br>left<br>street<br>crucial<br>clown<br>wave<br>puzzle<br>engage<br>join<br>law
 bip_39_word_new_br_11: rent<br>left<br>street<br>crucial<br>clown<br>wave<br>puzzle<br>engage<br>join<br>law<br>dune
@@ -192,6 +204,18 @@ bip_39_word_space_6: rent left street crucial clown wave
 bip_39_word_space_7: rent left street crucial clown wave puzzle
 bip_39_word_space_8: rent left street crucial clown wave puzzle engage
 bip_39_word_space_9: rent left street crucial clown wave puzzle engage join
+bip_39_word_underscore_1: rent
+bip_39_word_underscore_10: rent_left_street_crucial_clown_wave_puzzle_engage_join_law
+bip_39_word_underscore_11: rent_left_street_crucial_clown_wave_puzzle_engage_join_law_dune
+bip_39_word_underscore_12: rent_left_street_crucial_clown_wave_puzzle_engage_join_law_dune_arctic
+bip_39_word_underscore_2: rent_left
+bip_39_word_underscore_3: rent_left_street
+bip_39_word_underscore_4: rent_left_street_crucial
+bip_39_word_underscore_5: rent_left_street_crucial_clown
+bip_39_word_underscore_6: rent_left_street_crucial_clown_wave
+bip_39_word_underscore_7: rent_left_street_crucial_clown_wave_puzzle
+bip_39_word_underscore_8: rent_left_street_crucial_clown_wave_puzzle_engage
+bip_39_word_underscore_9: rent_left_street_crucial_clown_wave_puzzle_engage_join
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

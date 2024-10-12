@@ -1,3 +1,15 @@
+bip_39_word_dash_1: absent
+bip_39_word_dash_10: absent-exit-puppy-point-boat-sail-iron-decide-ring-protect
+bip_39_word_dash_11: absent-exit-puppy-point-boat-sail-iron-decide-ring-protect-nut
+bip_39_word_dash_12: absent-exit-puppy-point-boat-sail-iron-decide-ring-protect-nut-auto
+bip_39_word_dash_2: absent-exit
+bip_39_word_dash_3: absent-exit-puppy
+bip_39_word_dash_4: absent-exit-puppy-point
+bip_39_word_dash_5: absent-exit-puppy-point-boat
+bip_39_word_dash_6: absent-exit-puppy-point-boat-sail
+bip_39_word_dash_7: absent-exit-puppy-point-boat-sail-iron
+bip_39_word_dash_8: absent-exit-puppy-point-boat-sail-iron-decide
+bip_39_word_dash_9: absent-exit-puppy-point-boat-sail-iron-decide-ring
 bip_39_word_new_br_1: absent
 bip_39_word_new_br_10: absent<br>exit<br>puppy<br>point<br>boat<br>sail<br>iron<br>decide<br>ring<br>protect
 bip_39_word_new_br_11: absent<br>exit<br>puppy<br>point<br>boat<br>sail<br>iron<br>decide<br>ring<br>protect<br>nut
@@ -192,6 +204,18 @@ bip_39_word_space_6: absent exit puppy point boat sail
 bip_39_word_space_7: absent exit puppy point boat sail iron
 bip_39_word_space_8: absent exit puppy point boat sail iron decide
 bip_39_word_space_9: absent exit puppy point boat sail iron decide ring
+bip_39_word_underscore_1: absent
+bip_39_word_underscore_10: absent_exit_puppy_point_boat_sail_iron_decide_ring_protect
+bip_39_word_underscore_11: absent_exit_puppy_point_boat_sail_iron_decide_ring_protect_nut
+bip_39_word_underscore_12: absent_exit_puppy_point_boat_sail_iron_decide_ring_protect_nut_auto
+bip_39_word_underscore_2: absent_exit
+bip_39_word_underscore_3: absent_exit_puppy
+bip_39_word_underscore_4: absent_exit_puppy_point
+bip_39_word_underscore_5: absent_exit_puppy_point_boat
+bip_39_word_underscore_6: absent_exit_puppy_point_boat_sail
+bip_39_word_underscore_7: absent_exit_puppy_point_boat_sail_iron
+bip_39_word_underscore_8: absent_exit_puppy_point_boat_sail_iron_decide
+bip_39_word_underscore_9: absent_exit_puppy_point_boat_sail_iron_decide_ring
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

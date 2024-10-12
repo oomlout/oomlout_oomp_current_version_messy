@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tail |  
+| bip_39_word_dash_10 | tail-educate-rack-draw-loyal-clay-stone-vehicle-sphere-escape |  
+| bip_39_word_dash_11 | tail-educate-rack-draw-loyal-clay-stone-vehicle-sphere-escape-office |  
+| bip_39_word_dash_12 | tail-educate-rack-draw-loyal-clay-stone-vehicle-sphere-escape-office-aisle |  
+| bip_39_word_dash_2 | tail-educate |  
+| bip_39_word_dash_3 | tail-educate-rack |  
+| bip_39_word_dash_4 | tail-educate-rack-draw |  
+| bip_39_word_dash_5 | tail-educate-rack-draw-loyal |  
+| bip_39_word_dash_6 | tail-educate-rack-draw-loyal-clay |  
+| bip_39_word_dash_7 | tail-educate-rack-draw-loyal-clay-stone |  
+| bip_39_word_dash_8 | tail-educate-rack-draw-loyal-clay-stone-vehicle |  
+| bip_39_word_dash_9 | tail-educate-rack-draw-loyal-clay-stone-vehicle-sphere |  
 | bip_39_word_new_br_1 | tail |  
 | bip_39_word_new_br_10 | tail<br>educate<br>rack<br>draw<br>loyal<br>clay<br>stone<br>vehicle<br>sphere<br>escape |  
 | bip_39_word_new_br_11 | tail<br>educate<br>rack<br>draw<br>loyal<br>clay<br>stone<br>vehicle<br>sphere<br>escape<br>office |  
@@ -147,6 +159,18 @@ sphere |
 | bip_39_word_space_7 | tail educate rack draw loyal clay stone |  
 | bip_39_word_space_8 | tail educate rack draw loyal clay stone vehicle |  
 | bip_39_word_space_9 | tail educate rack draw loyal clay stone vehicle sphere |  
+| bip_39_word_underscore_1 | tail |  
+| bip_39_word_underscore_10 | tail_educate_rack_draw_loyal_clay_stone_vehicle_sphere_escape |  
+| bip_39_word_underscore_11 | tail_educate_rack_draw_loyal_clay_stone_vehicle_sphere_escape_office |  
+| bip_39_word_underscore_12 | tail_educate_rack_draw_loyal_clay_stone_vehicle_sphere_escape_office_aisle |  
+| bip_39_word_underscore_2 | tail_educate |  
+| bip_39_word_underscore_3 | tail_educate_rack |  
+| bip_39_word_underscore_4 | tail_educate_rack_draw |  
+| bip_39_word_underscore_5 | tail_educate_rack_draw_loyal |  
+| bip_39_word_underscore_6 | tail_educate_rack_draw_loyal_clay |  
+| bip_39_word_underscore_7 | tail_educate_rack_draw_loyal_clay_stone |  
+| bip_39_word_underscore_8 | tail_educate_rack_draw_loyal_clay_stone_vehicle |  
+| bip_39_word_underscore_9 | tail_educate_rack_draw_loyal_clay_stone_vehicle_sphere |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

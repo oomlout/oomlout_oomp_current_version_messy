@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | have |  
+| bip_39_word_dash_10 | have-reward-acquire-snack-pulse-rapid-cinnamon-verb-element-luggage |  
+| bip_39_word_dash_11 | have-reward-acquire-snack-pulse-rapid-cinnamon-verb-element-luggage-poverty |  
+| bip_39_word_dash_12 | have-reward-acquire-snack-pulse-rapid-cinnamon-verb-element-luggage-poverty-action |  
+| bip_39_word_dash_2 | have-reward |  
+| bip_39_word_dash_3 | have-reward-acquire |  
+| bip_39_word_dash_4 | have-reward-acquire-snack |  
+| bip_39_word_dash_5 | have-reward-acquire-snack-pulse |  
+| bip_39_word_dash_6 | have-reward-acquire-snack-pulse-rapid |  
+| bip_39_word_dash_7 | have-reward-acquire-snack-pulse-rapid-cinnamon |  
+| bip_39_word_dash_8 | have-reward-acquire-snack-pulse-rapid-cinnamon-verb |  
+| bip_39_word_dash_9 | have-reward-acquire-snack-pulse-rapid-cinnamon-verb-element |  
 | bip_39_word_new_br_1 | have |  
 | bip_39_word_new_br_10 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb<br>element<br>luggage |  
 | bip_39_word_new_br_11 | have<br>reward<br>acquire<br>snack<br>pulse<br>rapid<br>cinnamon<br>verb<br>element<br>luggage<br>poverty |  
@@ -147,6 +159,18 @@ element |
 | bip_39_word_space_7 | have reward acquire snack pulse rapid cinnamon |  
 | bip_39_word_space_8 | have reward acquire snack pulse rapid cinnamon verb |  
 | bip_39_word_space_9 | have reward acquire snack pulse rapid cinnamon verb element |  
+| bip_39_word_underscore_1 | have |  
+| bip_39_word_underscore_10 | have_reward_acquire_snack_pulse_rapid_cinnamon_verb_element_luggage |  
+| bip_39_word_underscore_11 | have_reward_acquire_snack_pulse_rapid_cinnamon_verb_element_luggage_poverty |  
+| bip_39_word_underscore_12 | have_reward_acquire_snack_pulse_rapid_cinnamon_verb_element_luggage_poverty_action |  
+| bip_39_word_underscore_2 | have_reward |  
+| bip_39_word_underscore_3 | have_reward_acquire |  
+| bip_39_word_underscore_4 | have_reward_acquire_snack |  
+| bip_39_word_underscore_5 | have_reward_acquire_snack_pulse |  
+| bip_39_word_underscore_6 | have_reward_acquire_snack_pulse_rapid |  
+| bip_39_word_underscore_7 | have_reward_acquire_snack_pulse_rapid_cinnamon |  
+| bip_39_word_underscore_8 | have_reward_acquire_snack_pulse_rapid_cinnamon_verb |  
+| bip_39_word_underscore_9 | have_reward_acquire_snack_pulse_rapid_cinnamon_verb_element |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

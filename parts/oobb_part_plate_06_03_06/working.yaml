@@ -1,3 +1,15 @@
+bip_39_word_dash_1: village
+bip_39_word_dash_10: village-pluck-such-cook-width-winner-mimic-make-seat-lawsuit
+bip_39_word_dash_11: village-pluck-such-cook-width-winner-mimic-make-seat-lawsuit-blast
+bip_39_word_dash_12: village-pluck-such-cook-width-winner-mimic-make-seat-lawsuit-blast-admit
+bip_39_word_dash_2: village-pluck
+bip_39_word_dash_3: village-pluck-such
+bip_39_word_dash_4: village-pluck-such-cook
+bip_39_word_dash_5: village-pluck-such-cook-width
+bip_39_word_dash_6: village-pluck-such-cook-width-winner
+bip_39_word_dash_7: village-pluck-such-cook-width-winner-mimic
+bip_39_word_dash_8: village-pluck-such-cook-width-winner-mimic-make
+bip_39_word_dash_9: village-pluck-such-cook-width-winner-mimic-make-seat
 bip_39_word_new_br_1: village
 bip_39_word_new_br_10: village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit
 bip_39_word_new_br_11: village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit<br>blast
@@ -193,6 +205,18 @@ bip_39_word_space_6: village pluck such cook width winner
 bip_39_word_space_7: village pluck such cook width winner mimic
 bip_39_word_space_8: village pluck such cook width winner mimic make
 bip_39_word_space_9: village pluck such cook width winner mimic make seat
+bip_39_word_underscore_1: village
+bip_39_word_underscore_10: village_pluck_such_cook_width_winner_mimic_make_seat_lawsuit
+bip_39_word_underscore_11: village_pluck_such_cook_width_winner_mimic_make_seat_lawsuit_blast
+bip_39_word_underscore_12: village_pluck_such_cook_width_winner_mimic_make_seat_lawsuit_blast_admit
+bip_39_word_underscore_2: village_pluck
+bip_39_word_underscore_3: village_pluck_such
+bip_39_word_underscore_4: village_pluck_such_cook
+bip_39_word_underscore_5: village_pluck_such_cook_width
+bip_39_word_underscore_6: village_pluck_such_cook_width_winner
+bip_39_word_underscore_7: village_pluck_such_cook_width_winner_mimic
+bip_39_word_underscore_8: village_pluck_such_cook_width_winner_mimic_make
+bip_39_word_underscore_9: village_pluck_such_cook_width_winner_mimic_make_seat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shallow |  
+| bip_39_word_dash_10 | shallow-moon-reject-cattle-unaware-glad-fitness-spice-trap-day |  
+| bip_39_word_dash_11 | shallow-moon-reject-cattle-unaware-glad-fitness-spice-trap-day-tent |  
+| bip_39_word_dash_12 | shallow-moon-reject-cattle-unaware-glad-fitness-spice-trap-day-tent-advance |  
+| bip_39_word_dash_2 | shallow-moon |  
+| bip_39_word_dash_3 | shallow-moon-reject |  
+| bip_39_word_dash_4 | shallow-moon-reject-cattle |  
+| bip_39_word_dash_5 | shallow-moon-reject-cattle-unaware |  
+| bip_39_word_dash_6 | shallow-moon-reject-cattle-unaware-glad |  
+| bip_39_word_dash_7 | shallow-moon-reject-cattle-unaware-glad-fitness |  
+| bip_39_word_dash_8 | shallow-moon-reject-cattle-unaware-glad-fitness-spice |  
+| bip_39_word_dash_9 | shallow-moon-reject-cattle-unaware-glad-fitness-spice-trap |  
 | bip_39_word_new_br_1 | shallow |  
 | bip_39_word_new_br_10 | shallow<br>moon<br>reject<br>cattle<br>unaware<br>glad<br>fitness<br>spice<br>trap<br>day |  
 | bip_39_word_new_br_11 | shallow<br>moon<br>reject<br>cattle<br>unaware<br>glad<br>fitness<br>spice<br>trap<br>day<br>tent |  
@@ -147,6 +159,18 @@ trap |
 | bip_39_word_space_7 | shallow moon reject cattle unaware glad fitness |  
 | bip_39_word_space_8 | shallow moon reject cattle unaware glad fitness spice |  
 | bip_39_word_space_9 | shallow moon reject cattle unaware glad fitness spice trap |  
+| bip_39_word_underscore_1 | shallow |  
+| bip_39_word_underscore_10 | shallow_moon_reject_cattle_unaware_glad_fitness_spice_trap_day |  
+| bip_39_word_underscore_11 | shallow_moon_reject_cattle_unaware_glad_fitness_spice_trap_day_tent |  
+| bip_39_word_underscore_12 | shallow_moon_reject_cattle_unaware_glad_fitness_spice_trap_day_tent_advance |  
+| bip_39_word_underscore_2 | shallow_moon |  
+| bip_39_word_underscore_3 | shallow_moon_reject |  
+| bip_39_word_underscore_4 | shallow_moon_reject_cattle |  
+| bip_39_word_underscore_5 | shallow_moon_reject_cattle_unaware |  
+| bip_39_word_underscore_6 | shallow_moon_reject_cattle_unaware_glad |  
+| bip_39_word_underscore_7 | shallow_moon_reject_cattle_unaware_glad_fitness |  
+| bip_39_word_underscore_8 | shallow_moon_reject_cattle_unaware_glad_fitness_spice |  
+| bip_39_word_underscore_9 | shallow_moon_reject_cattle_unaware_glad_fitness_spice_trap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chef |  
+| bip_39_word_dash_10 | chef-sphere-pupil-mandate-math-pluck-flat-craft-blade-glide |  
+| bip_39_word_dash_11 | chef-sphere-pupil-mandate-math-pluck-flat-craft-blade-glide-uncle |  
+| bip_39_word_dash_12 | chef-sphere-pupil-mandate-math-pluck-flat-craft-blade-glide-uncle-apart |  
+| bip_39_word_dash_2 | chef-sphere |  
+| bip_39_word_dash_3 | chef-sphere-pupil |  
+| bip_39_word_dash_4 | chef-sphere-pupil-mandate |  
+| bip_39_word_dash_5 | chef-sphere-pupil-mandate-math |  
+| bip_39_word_dash_6 | chef-sphere-pupil-mandate-math-pluck |  
+| bip_39_word_dash_7 | chef-sphere-pupil-mandate-math-pluck-flat |  
+| bip_39_word_dash_8 | chef-sphere-pupil-mandate-math-pluck-flat-craft |  
+| bip_39_word_dash_9 | chef-sphere-pupil-mandate-math-pluck-flat-craft-blade |  
 | bip_39_word_new_br_1 | chef |  
 | bip_39_word_new_br_10 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide |  
 | bip_39_word_new_br_11 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide<br>uncle |  
@@ -147,6 +159,18 @@ blade |
 | bip_39_word_space_7 | chef sphere pupil mandate math pluck flat |  
 | bip_39_word_space_8 | chef sphere pupil mandate math pluck flat craft |  
 | bip_39_word_space_9 | chef sphere pupil mandate math pluck flat craft blade |  
+| bip_39_word_underscore_1 | chef |  
+| bip_39_word_underscore_10 | chef_sphere_pupil_mandate_math_pluck_flat_craft_blade_glide |  
+| bip_39_word_underscore_11 | chef_sphere_pupil_mandate_math_pluck_flat_craft_blade_glide_uncle |  
+| bip_39_word_underscore_12 | chef_sphere_pupil_mandate_math_pluck_flat_craft_blade_glide_uncle_apart |  
+| bip_39_word_underscore_2 | chef_sphere |  
+| bip_39_word_underscore_3 | chef_sphere_pupil |  
+| bip_39_word_underscore_4 | chef_sphere_pupil_mandate |  
+| bip_39_word_underscore_5 | chef_sphere_pupil_mandate_math |  
+| bip_39_word_underscore_6 | chef_sphere_pupil_mandate_math_pluck |  
+| bip_39_word_underscore_7 | chef_sphere_pupil_mandate_math_pluck_flat |  
+| bip_39_word_underscore_8 | chef_sphere_pupil_mandate_math_pluck_flat_craft |  
+| bip_39_word_underscore_9 | chef_sphere_pupil_mandate_math_pluck_flat_craft_blade |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

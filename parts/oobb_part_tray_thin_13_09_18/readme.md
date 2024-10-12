@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orange |  
+| bip_39_word_dash_10 | orange-mosquito-panic-vast-puzzle-mechanic-reveal-corn-humble-heavy |  
+| bip_39_word_dash_11 | orange-mosquito-panic-vast-puzzle-mechanic-reveal-corn-humble-heavy-snow |  
+| bip_39_word_dash_12 | orange-mosquito-panic-vast-puzzle-mechanic-reveal-corn-humble-heavy-snow-amused |  
+| bip_39_word_dash_2 | orange-mosquito |  
+| bip_39_word_dash_3 | orange-mosquito-panic |  
+| bip_39_word_dash_4 | orange-mosquito-panic-vast |  
+| bip_39_word_dash_5 | orange-mosquito-panic-vast-puzzle |  
+| bip_39_word_dash_6 | orange-mosquito-panic-vast-puzzle-mechanic |  
+| bip_39_word_dash_7 | orange-mosquito-panic-vast-puzzle-mechanic-reveal |  
+| bip_39_word_dash_8 | orange-mosquito-panic-vast-puzzle-mechanic-reveal-corn |  
+| bip_39_word_dash_9 | orange-mosquito-panic-vast-puzzle-mechanic-reveal-corn-humble |  
 | bip_39_word_new_br_1 | orange |  
 | bip_39_word_new_br_10 | orange<br>mosquito<br>panic<br>vast<br>puzzle<br>mechanic<br>reveal<br>corn<br>humble<br>heavy |  
 | bip_39_word_new_br_11 | orange<br>mosquito<br>panic<br>vast<br>puzzle<br>mechanic<br>reveal<br>corn<br>humble<br>heavy<br>snow |  
@@ -147,6 +159,18 @@ humble |
 | bip_39_word_space_7 | orange mosquito panic vast puzzle mechanic reveal |  
 | bip_39_word_space_8 | orange mosquito panic vast puzzle mechanic reveal corn |  
 | bip_39_word_space_9 | orange mosquito panic vast puzzle mechanic reveal corn humble |  
+| bip_39_word_underscore_1 | orange |  
+| bip_39_word_underscore_10 | orange_mosquito_panic_vast_puzzle_mechanic_reveal_corn_humble_heavy |  
+| bip_39_word_underscore_11 | orange_mosquito_panic_vast_puzzle_mechanic_reveal_corn_humble_heavy_snow |  
+| bip_39_word_underscore_12 | orange_mosquito_panic_vast_puzzle_mechanic_reveal_corn_humble_heavy_snow_amused |  
+| bip_39_word_underscore_2 | orange_mosquito |  
+| bip_39_word_underscore_3 | orange_mosquito_panic |  
+| bip_39_word_underscore_4 | orange_mosquito_panic_vast |  
+| bip_39_word_underscore_5 | orange_mosquito_panic_vast_puzzle |  
+| bip_39_word_underscore_6 | orange_mosquito_panic_vast_puzzle_mechanic |  
+| bip_39_word_underscore_7 | orange_mosquito_panic_vast_puzzle_mechanic_reveal |  
+| bip_39_word_underscore_8 | orange_mosquito_panic_vast_puzzle_mechanic_reveal_corn |  
+| bip_39_word_underscore_9 | orange_mosquito_panic_vast_puzzle_mechanic_reveal_corn_humble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

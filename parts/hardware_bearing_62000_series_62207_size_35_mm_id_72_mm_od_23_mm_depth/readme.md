@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | artist |  
+| bip_39_word_dash_10 | artist-cross-lamp-borrow-few-dance-position-balance-onion-once |  
+| bip_39_word_dash_11 | artist-cross-lamp-borrow-few-dance-position-balance-onion-once-choose |  
+| bip_39_word_dash_12 | artist-cross-lamp-borrow-few-dance-position-balance-onion-once-choose-alien |  
+| bip_39_word_dash_2 | artist-cross |  
+| bip_39_word_dash_3 | artist-cross-lamp |  
+| bip_39_word_dash_4 | artist-cross-lamp-borrow |  
+| bip_39_word_dash_5 | artist-cross-lamp-borrow-few |  
+| bip_39_word_dash_6 | artist-cross-lamp-borrow-few-dance |  
+| bip_39_word_dash_7 | artist-cross-lamp-borrow-few-dance-position |  
+| bip_39_word_dash_8 | artist-cross-lamp-borrow-few-dance-position-balance |  
+| bip_39_word_dash_9 | artist-cross-lamp-borrow-few-dance-position-balance-onion |  
 | bip_39_word_new_br_1 | artist |  
 | bip_39_word_new_br_10 | artist<br>cross<br>lamp<br>borrow<br>few<br>dance<br>position<br>balance<br>onion<br>once |  
 | bip_39_word_new_br_11 | artist<br>cross<br>lamp<br>borrow<br>few<br>dance<br>position<br>balance<br>onion<br>once<br>choose |  
@@ -147,6 +159,18 @@ onion |
 | bip_39_word_space_7 | artist cross lamp borrow few dance position |  
 | bip_39_word_space_8 | artist cross lamp borrow few dance position balance |  
 | bip_39_word_space_9 | artist cross lamp borrow few dance position balance onion |  
+| bip_39_word_underscore_1 | artist |  
+| bip_39_word_underscore_10 | artist_cross_lamp_borrow_few_dance_position_balance_onion_once |  
+| bip_39_word_underscore_11 | artist_cross_lamp_borrow_few_dance_position_balance_onion_once_choose |  
+| bip_39_word_underscore_12 | artist_cross_lamp_borrow_few_dance_position_balance_onion_once_choose_alien |  
+| bip_39_word_underscore_2 | artist_cross |  
+| bip_39_word_underscore_3 | artist_cross_lamp |  
+| bip_39_word_underscore_4 | artist_cross_lamp_borrow |  
+| bip_39_word_underscore_5 | artist_cross_lamp_borrow_few |  
+| bip_39_word_underscore_6 | artist_cross_lamp_borrow_few_dance |  
+| bip_39_word_underscore_7 | artist_cross_lamp_borrow_few_dance_position |  
+| bip_39_word_underscore_8 | artist_cross_lamp_borrow_few_dance_position_balance |  
+| bip_39_word_underscore_9 | artist_cross_lamp_borrow_few_dance_position_balance_onion |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

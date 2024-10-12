@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | release |  
+| bip_39_word_dash_10 | release-record-install-kit-act-nurse-upset-exact-rather-curve |  
+| bip_39_word_dash_11 | release-record-install-kit-act-nurse-upset-exact-rather-curve-document |  
+| bip_39_word_dash_12 | release-record-install-kit-act-nurse-upset-exact-rather-curve-document-attend |  
+| bip_39_word_dash_2 | release-record |  
+| bip_39_word_dash_3 | release-record-install |  
+| bip_39_word_dash_4 | release-record-install-kit |  
+| bip_39_word_dash_5 | release-record-install-kit-act |  
+| bip_39_word_dash_6 | release-record-install-kit-act-nurse |  
+| bip_39_word_dash_7 | release-record-install-kit-act-nurse-upset |  
+| bip_39_word_dash_8 | release-record-install-kit-act-nurse-upset-exact |  
+| bip_39_word_dash_9 | release-record-install-kit-act-nurse-upset-exact-rather |  
 | bip_39_word_new_br_1 | release |  
 | bip_39_word_new_br_10 | release<br>record<br>install<br>kit<br>act<br>nurse<br>upset<br>exact<br>rather<br>curve |  
 | bip_39_word_new_br_11 | release<br>record<br>install<br>kit<br>act<br>nurse<br>upset<br>exact<br>rather<br>curve<br>document |  
@@ -147,6 +159,18 @@ rather |
 | bip_39_word_space_7 | release record install kit act nurse upset |  
 | bip_39_word_space_8 | release record install kit act nurse upset exact |  
 | bip_39_word_space_9 | release record install kit act nurse upset exact rather |  
+| bip_39_word_underscore_1 | release |  
+| bip_39_word_underscore_10 | release_record_install_kit_act_nurse_upset_exact_rather_curve |  
+| bip_39_word_underscore_11 | release_record_install_kit_act_nurse_upset_exact_rather_curve_document |  
+| bip_39_word_underscore_12 | release_record_install_kit_act_nurse_upset_exact_rather_curve_document_attend |  
+| bip_39_word_underscore_2 | release_record |  
+| bip_39_word_underscore_3 | release_record_install |  
+| bip_39_word_underscore_4 | release_record_install_kit |  
+| bip_39_word_underscore_5 | release_record_install_kit_act |  
+| bip_39_word_underscore_6 | release_record_install_kit_act_nurse |  
+| bip_39_word_underscore_7 | release_record_install_kit_act_nurse_upset |  
+| bip_39_word_underscore_8 | release_record_install_kit_act_nurse_upset_exact |  
+| bip_39_word_underscore_9 | release_record_install_kit_act_nurse_upset_exact_rather |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

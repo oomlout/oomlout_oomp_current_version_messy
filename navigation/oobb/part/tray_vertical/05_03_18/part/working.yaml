@@ -1,3 +1,15 @@
+bip_39_word_dash_1: situate
+bip_39_word_dash_10: situate-distance-broken-offer-pattern-choice-blouse-lesson-faith-despair
+bip_39_word_dash_11: situate-distance-broken-offer-pattern-choice-blouse-lesson-faith-despair-system
+bip_39_word_dash_12: situate-distance-broken-offer-pattern-choice-blouse-lesson-faith-despair-system-attract
+bip_39_word_dash_2: situate-distance
+bip_39_word_dash_3: situate-distance-broken
+bip_39_word_dash_4: situate-distance-broken-offer
+bip_39_word_dash_5: situate-distance-broken-offer-pattern
+bip_39_word_dash_6: situate-distance-broken-offer-pattern-choice
+bip_39_word_dash_7: situate-distance-broken-offer-pattern-choice-blouse
+bip_39_word_dash_8: situate-distance-broken-offer-pattern-choice-blouse-lesson
+bip_39_word_dash_9: situate-distance-broken-offer-pattern-choice-blouse-lesson-faith
 bip_39_word_new_br_1: situate
 bip_39_word_new_br_10: situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson<br>faith<br>despair
 bip_39_word_new_br_11: situate<br>distance<br>broken<br>offer<br>pattern<br>choice<br>blouse<br>lesson<br>faith<br>despair<br>system
@@ -194,6 +206,18 @@ bip_39_word_space_6: situate distance broken offer pattern choice
 bip_39_word_space_7: situate distance broken offer pattern choice blouse
 bip_39_word_space_8: situate distance broken offer pattern choice blouse lesson
 bip_39_word_space_9: situate distance broken offer pattern choice blouse lesson faith
+bip_39_word_underscore_1: situate
+bip_39_word_underscore_10: situate_distance_broken_offer_pattern_choice_blouse_lesson_faith_despair
+bip_39_word_underscore_11: situate_distance_broken_offer_pattern_choice_blouse_lesson_faith_despair_system
+bip_39_word_underscore_12: situate_distance_broken_offer_pattern_choice_blouse_lesson_faith_despair_system_attract
+bip_39_word_underscore_2: situate_distance
+bip_39_word_underscore_3: situate_distance_broken
+bip_39_word_underscore_4: situate_distance_broken_offer
+bip_39_word_underscore_5: situate_distance_broken_offer_pattern
+bip_39_word_underscore_6: situate_distance_broken_offer_pattern_choice
+bip_39_word_underscore_7: situate_distance_broken_offer_pattern_choice_blouse
+bip_39_word_underscore_8: situate_distance_broken_offer_pattern_choice_blouse_lesson
+bip_39_word_underscore_9: situate_distance_broken_offer_pattern_choice_blouse_lesson_faith
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

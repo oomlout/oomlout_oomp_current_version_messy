@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fatal
+bip_39_word_dash_10: fatal-six-matter-lock-grid-later-purpose-urge-before-treat
+bip_39_word_dash_11: fatal-six-matter-lock-grid-later-purpose-urge-before-treat-weekend
+bip_39_word_dash_12: fatal-six-matter-lock-grid-later-purpose-urge-before-treat-weekend-artefact
+bip_39_word_dash_2: fatal-six
+bip_39_word_dash_3: fatal-six-matter
+bip_39_word_dash_4: fatal-six-matter-lock
+bip_39_word_dash_5: fatal-six-matter-lock-grid
+bip_39_word_dash_6: fatal-six-matter-lock-grid-later
+bip_39_word_dash_7: fatal-six-matter-lock-grid-later-purpose
+bip_39_word_dash_8: fatal-six-matter-lock-grid-later-purpose-urge
+bip_39_word_dash_9: fatal-six-matter-lock-grid-later-purpose-urge-before
 bip_39_word_new_br_1: fatal
 bip_39_word_new_br_10: fatal<br>six<br>matter<br>lock<br>grid<br>later<br>purpose<br>urge<br>before<br>treat
 bip_39_word_new_br_11: fatal<br>six<br>matter<br>lock<br>grid<br>later<br>purpose<br>urge<br>before<br>treat<br>weekend
@@ -192,6 +204,18 @@ bip_39_word_space_6: fatal six matter lock grid later
 bip_39_word_space_7: fatal six matter lock grid later purpose
 bip_39_word_space_8: fatal six matter lock grid later purpose urge
 bip_39_word_space_9: fatal six matter lock grid later purpose urge before
+bip_39_word_underscore_1: fatal
+bip_39_word_underscore_10: fatal_six_matter_lock_grid_later_purpose_urge_before_treat
+bip_39_word_underscore_11: fatal_six_matter_lock_grid_later_purpose_urge_before_treat_weekend
+bip_39_word_underscore_12: fatal_six_matter_lock_grid_later_purpose_urge_before_treat_weekend_artefact
+bip_39_word_underscore_2: fatal_six
+bip_39_word_underscore_3: fatal_six_matter
+bip_39_word_underscore_4: fatal_six_matter_lock
+bip_39_word_underscore_5: fatal_six_matter_lock_grid
+bip_39_word_underscore_6: fatal_six_matter_lock_grid_later
+bip_39_word_underscore_7: fatal_six_matter_lock_grid_later_purpose
+bip_39_word_underscore_8: fatal_six_matter_lock_grid_later_purpose_urge
+bip_39_word_underscore_9: fatal_six_matter_lock_grid_later_purpose_urge_before
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

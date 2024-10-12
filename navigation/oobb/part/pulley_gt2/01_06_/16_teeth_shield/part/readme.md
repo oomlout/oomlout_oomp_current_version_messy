@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | section |  
+| bip_39_word_dash_10 | section-robot-staff-dinner-depart-salon-unlock-betray-liberty-lucky |  
+| bip_39_word_dash_11 | section-robot-staff-dinner-depart-salon-unlock-betray-liberty-lucky-absent |  
+| bip_39_word_dash_12 | section-robot-staff-dinner-depart-salon-unlock-betray-liberty-lucky-absent-audit |  
+| bip_39_word_dash_2 | section-robot |  
+| bip_39_word_dash_3 | section-robot-staff |  
+| bip_39_word_dash_4 | section-robot-staff-dinner |  
+| bip_39_word_dash_5 | section-robot-staff-dinner-depart |  
+| bip_39_word_dash_6 | section-robot-staff-dinner-depart-salon |  
+| bip_39_word_dash_7 | section-robot-staff-dinner-depart-salon-unlock |  
+| bip_39_word_dash_8 | section-robot-staff-dinner-depart-salon-unlock-betray |  
+| bip_39_word_dash_9 | section-robot-staff-dinner-depart-salon-unlock-betray-liberty |  
 | bip_39_word_new_br_1 | section |  
 | bip_39_word_new_br_10 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky |  
 | bip_39_word_new_br_11 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky<br>absent |  
@@ -147,6 +159,18 @@ liberty |
 | bip_39_word_space_7 | section robot staff dinner depart salon unlock |  
 | bip_39_word_space_8 | section robot staff dinner depart salon unlock betray |  
 | bip_39_word_space_9 | section robot staff dinner depart salon unlock betray liberty |  
+| bip_39_word_underscore_1 | section |  
+| bip_39_word_underscore_10 | section_robot_staff_dinner_depart_salon_unlock_betray_liberty_lucky |  
+| bip_39_word_underscore_11 | section_robot_staff_dinner_depart_salon_unlock_betray_liberty_lucky_absent |  
+| bip_39_word_underscore_12 | section_robot_staff_dinner_depart_salon_unlock_betray_liberty_lucky_absent_audit |  
+| bip_39_word_underscore_2 | section_robot |  
+| bip_39_word_underscore_3 | section_robot_staff |  
+| bip_39_word_underscore_4 | section_robot_staff_dinner |  
+| bip_39_word_underscore_5 | section_robot_staff_dinner_depart |  
+| bip_39_word_underscore_6 | section_robot_staff_dinner_depart_salon |  
+| bip_39_word_underscore_7 | section_robot_staff_dinner_depart_salon_unlock |  
+| bip_39_word_underscore_8 | section_robot_staff_dinner_depart_salon_unlock_betray |  
+| bip_39_word_underscore_9 | section_robot_staff_dinner_depart_salon_unlock_betray_liberty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

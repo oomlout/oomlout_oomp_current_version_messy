@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rib |  
+| bip_39_word_dash_10 | rib-coyote-acquire-purpose-try-spider-glare-flee-october-shaft |  
+| bip_39_word_dash_11 | rib-coyote-acquire-purpose-try-spider-glare-flee-october-shaft-craft |  
+| bip_39_word_dash_12 | rib-coyote-acquire-purpose-try-spider-glare-flee-october-shaft-craft-angle |  
+| bip_39_word_dash_2 | rib-coyote |  
+| bip_39_word_dash_3 | rib-coyote-acquire |  
+| bip_39_word_dash_4 | rib-coyote-acquire-purpose |  
+| bip_39_word_dash_5 | rib-coyote-acquire-purpose-try |  
+| bip_39_word_dash_6 | rib-coyote-acquire-purpose-try-spider |  
+| bip_39_word_dash_7 | rib-coyote-acquire-purpose-try-spider-glare |  
+| bip_39_word_dash_8 | rib-coyote-acquire-purpose-try-spider-glare-flee |  
+| bip_39_word_dash_9 | rib-coyote-acquire-purpose-try-spider-glare-flee-october |  
 | bip_39_word_new_br_1 | rib |  
 | bip_39_word_new_br_10 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee<br>october<br>shaft |  
 | bip_39_word_new_br_11 | rib<br>coyote<br>acquire<br>purpose<br>try<br>spider<br>glare<br>flee<br>october<br>shaft<br>craft |  
@@ -147,6 +159,18 @@ october |
 | bip_39_word_space_7 | rib coyote acquire purpose try spider glare |  
 | bip_39_word_space_8 | rib coyote acquire purpose try spider glare flee |  
 | bip_39_word_space_9 | rib coyote acquire purpose try spider glare flee october |  
+| bip_39_word_underscore_1 | rib |  
+| bip_39_word_underscore_10 | rib_coyote_acquire_purpose_try_spider_glare_flee_october_shaft |  
+| bip_39_word_underscore_11 | rib_coyote_acquire_purpose_try_spider_glare_flee_october_shaft_craft |  
+| bip_39_word_underscore_12 | rib_coyote_acquire_purpose_try_spider_glare_flee_october_shaft_craft_angle |  
+| bip_39_word_underscore_2 | rib_coyote |  
+| bip_39_word_underscore_3 | rib_coyote_acquire |  
+| bip_39_word_underscore_4 | rib_coyote_acquire_purpose |  
+| bip_39_word_underscore_5 | rib_coyote_acquire_purpose_try |  
+| bip_39_word_underscore_6 | rib_coyote_acquire_purpose_try_spider |  
+| bip_39_word_underscore_7 | rib_coyote_acquire_purpose_try_spider_glare |  
+| bip_39_word_underscore_8 | rib_coyote_acquire_purpose_try_spider_glare_flee |  
+| bip_39_word_underscore_9 | rib_coyote_acquire_purpose_try_spider_glare_flee_october |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

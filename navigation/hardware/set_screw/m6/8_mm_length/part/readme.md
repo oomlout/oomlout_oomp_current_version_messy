@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | print |  
+| bip_39_word_dash_10 | print-scissors-enlist-artwork-move-trophy-roof-top-guard-gospel |  
+| bip_39_word_dash_11 | print-scissors-enlist-artwork-move-trophy-roof-top-guard-gospel-west |  
+| bip_39_word_dash_12 | print-scissors-enlist-artwork-move-trophy-roof-top-guard-gospel-west-act |  
+| bip_39_word_dash_2 | print-scissors |  
+| bip_39_word_dash_3 | print-scissors-enlist |  
+| bip_39_word_dash_4 | print-scissors-enlist-artwork |  
+| bip_39_word_dash_5 | print-scissors-enlist-artwork-move |  
+| bip_39_word_dash_6 | print-scissors-enlist-artwork-move-trophy |  
+| bip_39_word_dash_7 | print-scissors-enlist-artwork-move-trophy-roof |  
+| bip_39_word_dash_8 | print-scissors-enlist-artwork-move-trophy-roof-top |  
+| bip_39_word_dash_9 | print-scissors-enlist-artwork-move-trophy-roof-top-guard |  
 | bip_39_word_new_br_1 | print |  
 | bip_39_word_new_br_10 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel |  
 | bip_39_word_new_br_11 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel<br>west |  
@@ -147,6 +159,18 @@ guard |
 | bip_39_word_space_7 | print scissors enlist artwork move trophy roof |  
 | bip_39_word_space_8 | print scissors enlist artwork move trophy roof top |  
 | bip_39_word_space_9 | print scissors enlist artwork move trophy roof top guard |  
+| bip_39_word_underscore_1 | print |  
+| bip_39_word_underscore_10 | print_scissors_enlist_artwork_move_trophy_roof_top_guard_gospel |  
+| bip_39_word_underscore_11 | print_scissors_enlist_artwork_move_trophy_roof_top_guard_gospel_west |  
+| bip_39_word_underscore_12 | print_scissors_enlist_artwork_move_trophy_roof_top_guard_gospel_west_act |  
+| bip_39_word_underscore_2 | print_scissors |  
+| bip_39_word_underscore_3 | print_scissors_enlist |  
+| bip_39_word_underscore_4 | print_scissors_enlist_artwork |  
+| bip_39_word_underscore_5 | print_scissors_enlist_artwork_move |  
+| bip_39_word_underscore_6 | print_scissors_enlist_artwork_move_trophy |  
+| bip_39_word_underscore_7 | print_scissors_enlist_artwork_move_trophy_roof |  
+| bip_39_word_underscore_8 | print_scissors_enlist_artwork_move_trophy_roof_top |  
+| bip_39_word_underscore_9 | print_scissors_enlist_artwork_move_trophy_roof_top_guard |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

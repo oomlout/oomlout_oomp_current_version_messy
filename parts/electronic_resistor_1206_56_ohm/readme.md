@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inform |  
+| bip_39_word_dash_10 | inform-lawsuit-cost-parade-law-female-pudding-anchor-dutch-sell |  
+| bip_39_word_dash_11 | inform-lawsuit-cost-parade-law-female-pudding-anchor-dutch-sell-pink |  
+| bip_39_word_dash_12 | inform-lawsuit-cost-parade-law-female-pudding-anchor-dutch-sell-pink-appear |  
+| bip_39_word_dash_2 | inform-lawsuit |  
+| bip_39_word_dash_3 | inform-lawsuit-cost |  
+| bip_39_word_dash_4 | inform-lawsuit-cost-parade |  
+| bip_39_word_dash_5 | inform-lawsuit-cost-parade-law |  
+| bip_39_word_dash_6 | inform-lawsuit-cost-parade-law-female |  
+| bip_39_word_dash_7 | inform-lawsuit-cost-parade-law-female-pudding |  
+| bip_39_word_dash_8 | inform-lawsuit-cost-parade-law-female-pudding-anchor |  
+| bip_39_word_dash_9 | inform-lawsuit-cost-parade-law-female-pudding-anchor-dutch |  
 | bip_39_word_new_br_1 | inform |  
 | bip_39_word_new_br_10 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell |  
 | bip_39_word_new_br_11 | inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell<br>pink |  
@@ -147,6 +159,18 @@ dutch |
 | bip_39_word_space_7 | inform lawsuit cost parade law female pudding |  
 | bip_39_word_space_8 | inform lawsuit cost parade law female pudding anchor |  
 | bip_39_word_space_9 | inform lawsuit cost parade law female pudding anchor dutch |  
+| bip_39_word_underscore_1 | inform |  
+| bip_39_word_underscore_10 | inform_lawsuit_cost_parade_law_female_pudding_anchor_dutch_sell |  
+| bip_39_word_underscore_11 | inform_lawsuit_cost_parade_law_female_pudding_anchor_dutch_sell_pink |  
+| bip_39_word_underscore_12 | inform_lawsuit_cost_parade_law_female_pudding_anchor_dutch_sell_pink_appear |  
+| bip_39_word_underscore_2 | inform_lawsuit |  
+| bip_39_word_underscore_3 | inform_lawsuit_cost |  
+| bip_39_word_underscore_4 | inform_lawsuit_cost_parade |  
+| bip_39_word_underscore_5 | inform_lawsuit_cost_parade_law |  
+| bip_39_word_underscore_6 | inform_lawsuit_cost_parade_law_female |  
+| bip_39_word_underscore_7 | inform_lawsuit_cost_parade_law_female_pudding |  
+| bip_39_word_underscore_8 | inform_lawsuit_cost_parade_law_female_pudding_anchor |  
+| bip_39_word_underscore_9 | inform_lawsuit_cost_parade_law_female_pudding_anchor_dutch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

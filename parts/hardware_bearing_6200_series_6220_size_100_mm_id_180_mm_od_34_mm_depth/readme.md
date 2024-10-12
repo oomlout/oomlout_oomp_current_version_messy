@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | truly |  
+| bip_39_word_dash_10 | truly-claw-boy-search-domain-amazing-spirit-claim-receive-hub |  
+| bip_39_word_dash_11 | truly-claw-boy-search-domain-amazing-spirit-claim-receive-hub-field |  
+| bip_39_word_dash_12 | truly-claw-boy-search-domain-amazing-spirit-claim-receive-hub-field-assault |  
+| bip_39_word_dash_2 | truly-claw |  
+| bip_39_word_dash_3 | truly-claw-boy |  
+| bip_39_word_dash_4 | truly-claw-boy-search |  
+| bip_39_word_dash_5 | truly-claw-boy-search-domain |  
+| bip_39_word_dash_6 | truly-claw-boy-search-domain-amazing |  
+| bip_39_word_dash_7 | truly-claw-boy-search-domain-amazing-spirit |  
+| bip_39_word_dash_8 | truly-claw-boy-search-domain-amazing-spirit-claim |  
+| bip_39_word_dash_9 | truly-claw-boy-search-domain-amazing-spirit-claim-receive |  
 | bip_39_word_new_br_1 | truly |  
 | bip_39_word_new_br_10 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim<br>receive<br>hub |  
 | bip_39_word_new_br_11 | truly<br>claw<br>boy<br>search<br>domain<br>amazing<br>spirit<br>claim<br>receive<br>hub<br>field |  
@@ -147,6 +159,18 @@ receive |
 | bip_39_word_space_7 | truly claw boy search domain amazing spirit |  
 | bip_39_word_space_8 | truly claw boy search domain amazing spirit claim |  
 | bip_39_word_space_9 | truly claw boy search domain amazing spirit claim receive |  
+| bip_39_word_underscore_1 | truly |  
+| bip_39_word_underscore_10 | truly_claw_boy_search_domain_amazing_spirit_claim_receive_hub |  
+| bip_39_word_underscore_11 | truly_claw_boy_search_domain_amazing_spirit_claim_receive_hub_field |  
+| bip_39_word_underscore_12 | truly_claw_boy_search_domain_amazing_spirit_claim_receive_hub_field_assault |  
+| bip_39_word_underscore_2 | truly_claw |  
+| bip_39_word_underscore_3 | truly_claw_boy |  
+| bip_39_word_underscore_4 | truly_claw_boy_search |  
+| bip_39_word_underscore_5 | truly_claw_boy_search_domain |  
+| bip_39_word_underscore_6 | truly_claw_boy_search_domain_amazing |  
+| bip_39_word_underscore_7 | truly_claw_boy_search_domain_amazing_spirit |  
+| bip_39_word_underscore_8 | truly_claw_boy_search_domain_amazing_spirit_claim |  
+| bip_39_word_underscore_9 | truly_claw_boy_search_domain_amazing_spirit_claim_receive |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

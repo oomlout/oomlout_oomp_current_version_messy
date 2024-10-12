@@ -1,3 +1,15 @@
+bip_39_word_dash_1: armed
+bip_39_word_dash_10: armed-pair-venue-document-sentence-often-umbrella-lady-index-pool
+bip_39_word_dash_11: armed-pair-venue-document-sentence-often-umbrella-lady-index-pool-snack
+bip_39_word_dash_12: armed-pair-venue-document-sentence-often-umbrella-lady-index-pool-snack-anger
+bip_39_word_dash_2: armed-pair
+bip_39_word_dash_3: armed-pair-venue
+bip_39_word_dash_4: armed-pair-venue-document
+bip_39_word_dash_5: armed-pair-venue-document-sentence
+bip_39_word_dash_6: armed-pair-venue-document-sentence-often
+bip_39_word_dash_7: armed-pair-venue-document-sentence-often-umbrella
+bip_39_word_dash_8: armed-pair-venue-document-sentence-often-umbrella-lady
+bip_39_word_dash_9: armed-pair-venue-document-sentence-often-umbrella-lady-index
 bip_39_word_new_br_1: armed
 bip_39_word_new_br_10: armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady<br>index<br>pool
 bip_39_word_new_br_11: armed<br>pair<br>venue<br>document<br>sentence<br>often<br>umbrella<br>lady<br>index<br>pool<br>snack
@@ -194,6 +206,18 @@ bip_39_word_space_6: armed pair venue document sentence often
 bip_39_word_space_7: armed pair venue document sentence often umbrella
 bip_39_word_space_8: armed pair venue document sentence often umbrella lady
 bip_39_word_space_9: armed pair venue document sentence often umbrella lady index
+bip_39_word_underscore_1: armed
+bip_39_word_underscore_10: armed_pair_venue_document_sentence_often_umbrella_lady_index_pool
+bip_39_word_underscore_11: armed_pair_venue_document_sentence_often_umbrella_lady_index_pool_snack
+bip_39_word_underscore_12: armed_pair_venue_document_sentence_often_umbrella_lady_index_pool_snack_anger
+bip_39_word_underscore_2: armed_pair
+bip_39_word_underscore_3: armed_pair_venue
+bip_39_word_underscore_4: armed_pair_venue_document
+bip_39_word_underscore_5: armed_pair_venue_document_sentence
+bip_39_word_underscore_6: armed_pair_venue_document_sentence_often
+bip_39_word_underscore_7: armed_pair_venue_document_sentence_often_umbrella
+bip_39_word_underscore_8: armed_pair_venue_document_sentence_often_umbrella_lady
+bip_39_word_underscore_9: armed_pair_venue_document_sentence_often_umbrella_lady_index
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cage
+bip_39_word_dash_10: cage-concert-layer-wrap-stand-bind-extra-obtain-slogan-boil
+bip_39_word_dash_11: cage-concert-layer-wrap-stand-bind-extra-obtain-slogan-boil-law
+bip_39_word_dash_12: cage-concert-layer-wrap-stand-bind-extra-obtain-slogan-boil-law-argue
+bip_39_word_dash_2: cage-concert
+bip_39_word_dash_3: cage-concert-layer
+bip_39_word_dash_4: cage-concert-layer-wrap
+bip_39_word_dash_5: cage-concert-layer-wrap-stand
+bip_39_word_dash_6: cage-concert-layer-wrap-stand-bind
+bip_39_word_dash_7: cage-concert-layer-wrap-stand-bind-extra
+bip_39_word_dash_8: cage-concert-layer-wrap-stand-bind-extra-obtain
+bip_39_word_dash_9: cage-concert-layer-wrap-stand-bind-extra-obtain-slogan
 bip_39_word_new_br_1: cage
 bip_39_word_new_br_10: cage<br>concert<br>layer<br>wrap<br>stand<br>bind<br>extra<br>obtain<br>slogan<br>boil
 bip_39_word_new_br_11: cage<br>concert<br>layer<br>wrap<br>stand<br>bind<br>extra<br>obtain<br>slogan<br>boil<br>law
@@ -193,6 +205,18 @@ bip_39_word_space_6: cage concert layer wrap stand bind
 bip_39_word_space_7: cage concert layer wrap stand bind extra
 bip_39_word_space_8: cage concert layer wrap stand bind extra obtain
 bip_39_word_space_9: cage concert layer wrap stand bind extra obtain slogan
+bip_39_word_underscore_1: cage
+bip_39_word_underscore_10: cage_concert_layer_wrap_stand_bind_extra_obtain_slogan_boil
+bip_39_word_underscore_11: cage_concert_layer_wrap_stand_bind_extra_obtain_slogan_boil_law
+bip_39_word_underscore_12: cage_concert_layer_wrap_stand_bind_extra_obtain_slogan_boil_law_argue
+bip_39_word_underscore_2: cage_concert
+bip_39_word_underscore_3: cage_concert_layer
+bip_39_word_underscore_4: cage_concert_layer_wrap
+bip_39_word_underscore_5: cage_concert_layer_wrap_stand
+bip_39_word_underscore_6: cage_concert_layer_wrap_stand_bind
+bip_39_word_underscore_7: cage_concert_layer_wrap_stand_bind_extra
+bip_39_word_underscore_8: cage_concert_layer_wrap_stand_bind_extra_obtain
+bip_39_word_underscore_9: cage_concert_layer_wrap_stand_bind_extra_obtain_slogan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

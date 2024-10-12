@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sword
+bip_39_word_dash_10: sword-able-ketchup-parrot-slender-more-safe-defense-slim-blood
+bip_39_word_dash_11: sword-able-ketchup-parrot-slender-more-safe-defense-slim-blood-payment
+bip_39_word_dash_12: sword-able-ketchup-parrot-slender-more-safe-defense-slim-blood-payment-alert
+bip_39_word_dash_2: sword-able
+bip_39_word_dash_3: sword-able-ketchup
+bip_39_word_dash_4: sword-able-ketchup-parrot
+bip_39_word_dash_5: sword-able-ketchup-parrot-slender
+bip_39_word_dash_6: sword-able-ketchup-parrot-slender-more
+bip_39_word_dash_7: sword-able-ketchup-parrot-slender-more-safe
+bip_39_word_dash_8: sword-able-ketchup-parrot-slender-more-safe-defense
+bip_39_word_dash_9: sword-able-ketchup-parrot-slender-more-safe-defense-slim
 bip_39_word_new_br_1: sword
 bip_39_word_new_br_10: sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense<br>slim<br>blood
 bip_39_word_new_br_11: sword<br>able<br>ketchup<br>parrot<br>slender<br>more<br>safe<br>defense<br>slim<br>blood<br>payment
@@ -193,6 +205,18 @@ bip_39_word_space_6: sword able ketchup parrot slender more
 bip_39_word_space_7: sword able ketchup parrot slender more safe
 bip_39_word_space_8: sword able ketchup parrot slender more safe defense
 bip_39_word_space_9: sword able ketchup parrot slender more safe defense slim
+bip_39_word_underscore_1: sword
+bip_39_word_underscore_10: sword_able_ketchup_parrot_slender_more_safe_defense_slim_blood
+bip_39_word_underscore_11: sword_able_ketchup_parrot_slender_more_safe_defense_slim_blood_payment
+bip_39_word_underscore_12: sword_able_ketchup_parrot_slender_more_safe_defense_slim_blood_payment_alert
+bip_39_word_underscore_2: sword_able
+bip_39_word_underscore_3: sword_able_ketchup
+bip_39_word_underscore_4: sword_able_ketchup_parrot
+bip_39_word_underscore_5: sword_able_ketchup_parrot_slender
+bip_39_word_underscore_6: sword_able_ketchup_parrot_slender_more
+bip_39_word_underscore_7: sword_able_ketchup_parrot_slender_more_safe
+bip_39_word_underscore_8: sword_able_ketchup_parrot_slender_more_safe_defense
+bip_39_word_underscore_9: sword_able_ketchup_parrot_slender_more_safe_defense_slim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

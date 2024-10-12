@@ -1,3 +1,15 @@
+bip_39_word_dash_1: merry
+bip_39_word_dash_10: merry-topic-sick-monster-dress-heavy-grab-hurdle-wing-coffee
+bip_39_word_dash_11: merry-topic-sick-monster-dress-heavy-grab-hurdle-wing-coffee-number
+bip_39_word_dash_12: merry-topic-sick-monster-dress-heavy-grab-hurdle-wing-coffee-number-affair
+bip_39_word_dash_2: merry-topic
+bip_39_word_dash_3: merry-topic-sick
+bip_39_word_dash_4: merry-topic-sick-monster
+bip_39_word_dash_5: merry-topic-sick-monster-dress
+bip_39_word_dash_6: merry-topic-sick-monster-dress-heavy
+bip_39_word_dash_7: merry-topic-sick-monster-dress-heavy-grab
+bip_39_word_dash_8: merry-topic-sick-monster-dress-heavy-grab-hurdle
+bip_39_word_dash_9: merry-topic-sick-monster-dress-heavy-grab-hurdle-wing
 bip_39_word_new_br_1: merry
 bip_39_word_new_br_10: merry<br>topic<br>sick<br>monster<br>dress<br>heavy<br>grab<br>hurdle<br>wing<br>coffee
 bip_39_word_new_br_11: merry<br>topic<br>sick<br>monster<br>dress<br>heavy<br>grab<br>hurdle<br>wing<br>coffee<br>number
@@ -193,6 +205,18 @@ bip_39_word_space_6: merry topic sick monster dress heavy
 bip_39_word_space_7: merry topic sick monster dress heavy grab
 bip_39_word_space_8: merry topic sick monster dress heavy grab hurdle
 bip_39_word_space_9: merry topic sick monster dress heavy grab hurdle wing
+bip_39_word_underscore_1: merry
+bip_39_word_underscore_10: merry_topic_sick_monster_dress_heavy_grab_hurdle_wing_coffee
+bip_39_word_underscore_11: merry_topic_sick_monster_dress_heavy_grab_hurdle_wing_coffee_number
+bip_39_word_underscore_12: merry_topic_sick_monster_dress_heavy_grab_hurdle_wing_coffee_number_affair
+bip_39_word_underscore_2: merry_topic
+bip_39_word_underscore_3: merry_topic_sick
+bip_39_word_underscore_4: merry_topic_sick_monster
+bip_39_word_underscore_5: merry_topic_sick_monster_dress
+bip_39_word_underscore_6: merry_topic_sick_monster_dress_heavy
+bip_39_word_underscore_7: merry_topic_sick_monster_dress_heavy_grab
+bip_39_word_underscore_8: merry_topic_sick_monster_dress_heavy_grab_hurdle
+bip_39_word_underscore_9: merry_topic_sick_monster_dress_heavy_grab_hurdle_wing
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

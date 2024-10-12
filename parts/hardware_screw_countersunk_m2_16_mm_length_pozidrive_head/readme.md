@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | list |  
+| bip_39_word_dash_10 | list-match-squirrel-cannon-ocean-skin-expect-gossip-text-idle |  
+| bip_39_word_dash_11 | list-match-squirrel-cannon-ocean-skin-expect-gossip-text-idle-buzz |  
+| bip_39_word_dash_12 | list-match-squirrel-cannon-ocean-skin-expect-gossip-text-idle-buzz-absurd |  
+| bip_39_word_dash_2 | list-match |  
+| bip_39_word_dash_3 | list-match-squirrel |  
+| bip_39_word_dash_4 | list-match-squirrel-cannon |  
+| bip_39_word_dash_5 | list-match-squirrel-cannon-ocean |  
+| bip_39_word_dash_6 | list-match-squirrel-cannon-ocean-skin |  
+| bip_39_word_dash_7 | list-match-squirrel-cannon-ocean-skin-expect |  
+| bip_39_word_dash_8 | list-match-squirrel-cannon-ocean-skin-expect-gossip |  
+| bip_39_word_dash_9 | list-match-squirrel-cannon-ocean-skin-expect-gossip-text |  
 | bip_39_word_new_br_1 | list |  
 | bip_39_word_new_br_10 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle |  
 | bip_39_word_new_br_11 | list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle<br>buzz |  
@@ -147,6 +159,18 @@ text |
 | bip_39_word_space_7 | list match squirrel cannon ocean skin expect |  
 | bip_39_word_space_8 | list match squirrel cannon ocean skin expect gossip |  
 | bip_39_word_space_9 | list match squirrel cannon ocean skin expect gossip text |  
+| bip_39_word_underscore_1 | list |  
+| bip_39_word_underscore_10 | list_match_squirrel_cannon_ocean_skin_expect_gossip_text_idle |  
+| bip_39_word_underscore_11 | list_match_squirrel_cannon_ocean_skin_expect_gossip_text_idle_buzz |  
+| bip_39_word_underscore_12 | list_match_squirrel_cannon_ocean_skin_expect_gossip_text_idle_buzz_absurd |  
+| bip_39_word_underscore_2 | list_match |  
+| bip_39_word_underscore_3 | list_match_squirrel |  
+| bip_39_word_underscore_4 | list_match_squirrel_cannon |  
+| bip_39_word_underscore_5 | list_match_squirrel_cannon_ocean |  
+| bip_39_word_underscore_6 | list_match_squirrel_cannon_ocean_skin |  
+| bip_39_word_underscore_7 | list_match_squirrel_cannon_ocean_skin_expect |  
+| bip_39_word_underscore_8 | list_match_squirrel_cannon_ocean_skin_expect_gossip |  
+| bip_39_word_underscore_9 | list_match_squirrel_cannon_ocean_skin_expect_gossip_text |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

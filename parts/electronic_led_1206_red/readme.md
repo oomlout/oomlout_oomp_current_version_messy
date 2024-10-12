@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fame |  
+| bip_39_word_dash_10 | fame-achieve-rescue-nothing-they-cradle-father-unit-almost-immune |  
+| bip_39_word_dash_11 | fame-achieve-rescue-nothing-they-cradle-father-unit-almost-immune-quarter |  
+| bip_39_word_dash_12 | fame-achieve-rescue-nothing-they-cradle-father-unit-almost-immune-quarter-area |  
+| bip_39_word_dash_2 | fame-achieve |  
+| bip_39_word_dash_3 | fame-achieve-rescue |  
+| bip_39_word_dash_4 | fame-achieve-rescue-nothing |  
+| bip_39_word_dash_5 | fame-achieve-rescue-nothing-they |  
+| bip_39_word_dash_6 | fame-achieve-rescue-nothing-they-cradle |  
+| bip_39_word_dash_7 | fame-achieve-rescue-nothing-they-cradle-father |  
+| bip_39_word_dash_8 | fame-achieve-rescue-nothing-they-cradle-father-unit |  
+| bip_39_word_dash_9 | fame-achieve-rescue-nothing-they-cradle-father-unit-almost |  
 | bip_39_word_new_br_1 | fame |  
 | bip_39_word_new_br_10 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit<br>almost<br>immune |  
 | bip_39_word_new_br_11 | fame<br>achieve<br>rescue<br>nothing<br>they<br>cradle<br>father<br>unit<br>almost<br>immune<br>quarter |  
@@ -147,6 +159,18 @@ almost |
 | bip_39_word_space_7 | fame achieve rescue nothing they cradle father |  
 | bip_39_word_space_8 | fame achieve rescue nothing they cradle father unit |  
 | bip_39_word_space_9 | fame achieve rescue nothing they cradle father unit almost |  
+| bip_39_word_underscore_1 | fame |  
+| bip_39_word_underscore_10 | fame_achieve_rescue_nothing_they_cradle_father_unit_almost_immune |  
+| bip_39_word_underscore_11 | fame_achieve_rescue_nothing_they_cradle_father_unit_almost_immune_quarter |  
+| bip_39_word_underscore_12 | fame_achieve_rescue_nothing_they_cradle_father_unit_almost_immune_quarter_area |  
+| bip_39_word_underscore_2 | fame_achieve |  
+| bip_39_word_underscore_3 | fame_achieve_rescue |  
+| bip_39_word_underscore_4 | fame_achieve_rescue_nothing |  
+| bip_39_word_underscore_5 | fame_achieve_rescue_nothing_they |  
+| bip_39_word_underscore_6 | fame_achieve_rescue_nothing_they_cradle |  
+| bip_39_word_underscore_7 | fame_achieve_rescue_nothing_they_cradle_father |  
+| bip_39_word_underscore_8 | fame_achieve_rescue_nothing_they_cradle_father_unit |  
+| bip_39_word_underscore_9 | fame_achieve_rescue_nothing_they_cradle_father_unit_almost |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

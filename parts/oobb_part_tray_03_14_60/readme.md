@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | feel |  
+| bip_39_word_dash_10 | feel-kingdom-rebel-whale-fitness-edit-armor-maid-witness-candy |  
+| bip_39_word_dash_11 | feel-kingdom-rebel-whale-fitness-edit-armor-maid-witness-candy-junk |  
+| bip_39_word_dash_12 | feel-kingdom-rebel-whale-fitness-edit-armor-maid-witness-candy-junk-acid |  
+| bip_39_word_dash_2 | feel-kingdom |  
+| bip_39_word_dash_3 | feel-kingdom-rebel |  
+| bip_39_word_dash_4 | feel-kingdom-rebel-whale |  
+| bip_39_word_dash_5 | feel-kingdom-rebel-whale-fitness |  
+| bip_39_word_dash_6 | feel-kingdom-rebel-whale-fitness-edit |  
+| bip_39_word_dash_7 | feel-kingdom-rebel-whale-fitness-edit-armor |  
+| bip_39_word_dash_8 | feel-kingdom-rebel-whale-fitness-edit-armor-maid |  
+| bip_39_word_dash_9 | feel-kingdom-rebel-whale-fitness-edit-armor-maid-witness |  
 | bip_39_word_new_br_1 | feel |  
 | bip_39_word_new_br_10 | feel<br>kingdom<br>rebel<br>whale<br>fitness<br>edit<br>armor<br>maid<br>witness<br>candy |  
 | bip_39_word_new_br_11 | feel<br>kingdom<br>rebel<br>whale<br>fitness<br>edit<br>armor<br>maid<br>witness<br>candy<br>junk |  
@@ -147,6 +159,18 @@ witness |
 | bip_39_word_space_7 | feel kingdom rebel whale fitness edit armor |  
 | bip_39_word_space_8 | feel kingdom rebel whale fitness edit armor maid |  
 | bip_39_word_space_9 | feel kingdom rebel whale fitness edit armor maid witness |  
+| bip_39_word_underscore_1 | feel |  
+| bip_39_word_underscore_10 | feel_kingdom_rebel_whale_fitness_edit_armor_maid_witness_candy |  
+| bip_39_word_underscore_11 | feel_kingdom_rebel_whale_fitness_edit_armor_maid_witness_candy_junk |  
+| bip_39_word_underscore_12 | feel_kingdom_rebel_whale_fitness_edit_armor_maid_witness_candy_junk_acid |  
+| bip_39_word_underscore_2 | feel_kingdom |  
+| bip_39_word_underscore_3 | feel_kingdom_rebel |  
+| bip_39_word_underscore_4 | feel_kingdom_rebel_whale |  
+| bip_39_word_underscore_5 | feel_kingdom_rebel_whale_fitness |  
+| bip_39_word_underscore_6 | feel_kingdom_rebel_whale_fitness_edit |  
+| bip_39_word_underscore_7 | feel_kingdom_rebel_whale_fitness_edit_armor |  
+| bip_39_word_underscore_8 | feel_kingdom_rebel_whale_fitness_edit_armor_maid |  
+| bip_39_word_underscore_9 | feel_kingdom_rebel_whale_fitness_edit_armor_maid_witness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

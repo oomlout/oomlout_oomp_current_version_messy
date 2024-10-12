@@ -1,3 +1,15 @@
+bip_39_word_dash_1: okay
+bip_39_word_dash_10: okay-rabbit-help-differ-goose-burger-wall-tag-era-planet
+bip_39_word_dash_11: okay-rabbit-help-differ-goose-burger-wall-tag-era-planet-dog
+bip_39_word_dash_12: okay-rabbit-help-differ-goose-burger-wall-tag-era-planet-dog-august
+bip_39_word_dash_2: okay-rabbit
+bip_39_word_dash_3: okay-rabbit-help
+bip_39_word_dash_4: okay-rabbit-help-differ
+bip_39_word_dash_5: okay-rabbit-help-differ-goose
+bip_39_word_dash_6: okay-rabbit-help-differ-goose-burger
+bip_39_word_dash_7: okay-rabbit-help-differ-goose-burger-wall
+bip_39_word_dash_8: okay-rabbit-help-differ-goose-burger-wall-tag
+bip_39_word_dash_9: okay-rabbit-help-differ-goose-burger-wall-tag-era
 bip_39_word_new_br_1: okay
 bip_39_word_new_br_10: okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag<br>era<br>planet
 bip_39_word_new_br_11: okay<br>rabbit<br>help<br>differ<br>goose<br>burger<br>wall<br>tag<br>era<br>planet<br>dog
@@ -192,6 +204,18 @@ bip_39_word_space_6: okay rabbit help differ goose burger
 bip_39_word_space_7: okay rabbit help differ goose burger wall
 bip_39_word_space_8: okay rabbit help differ goose burger wall tag
 bip_39_word_space_9: okay rabbit help differ goose burger wall tag era
+bip_39_word_underscore_1: okay
+bip_39_word_underscore_10: okay_rabbit_help_differ_goose_burger_wall_tag_era_planet
+bip_39_word_underscore_11: okay_rabbit_help_differ_goose_burger_wall_tag_era_planet_dog
+bip_39_word_underscore_12: okay_rabbit_help_differ_goose_burger_wall_tag_era_planet_dog_august
+bip_39_word_underscore_2: okay_rabbit
+bip_39_word_underscore_3: okay_rabbit_help
+bip_39_word_underscore_4: okay_rabbit_help_differ
+bip_39_word_underscore_5: okay_rabbit_help_differ_goose
+bip_39_word_underscore_6: okay_rabbit_help_differ_goose_burger
+bip_39_word_underscore_7: okay_rabbit_help_differ_goose_burger_wall
+bip_39_word_underscore_8: okay_rabbit_help_differ_goose_burger_wall_tag
+bip_39_word_underscore_9: okay_rabbit_help_differ_goose_burger_wall_tag_era
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

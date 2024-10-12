@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | over |  
+| bip_39_word_dash_10 | over-myth-size-burden-blade-brand-pencil-style-outside-basket |  
+| bip_39_word_dash_11 | over-myth-size-burden-blade-brand-pencil-style-outside-basket-february |  
+| bip_39_word_dash_12 | over-myth-size-burden-blade-brand-pencil-style-outside-basket-february-advice |  
+| bip_39_word_dash_2 | over-myth |  
+| bip_39_word_dash_3 | over-myth-size |  
+| bip_39_word_dash_4 | over-myth-size-burden |  
+| bip_39_word_dash_5 | over-myth-size-burden-blade |  
+| bip_39_word_dash_6 | over-myth-size-burden-blade-brand |  
+| bip_39_word_dash_7 | over-myth-size-burden-blade-brand-pencil |  
+| bip_39_word_dash_8 | over-myth-size-burden-blade-brand-pencil-style |  
+| bip_39_word_dash_9 | over-myth-size-burden-blade-brand-pencil-style-outside |  
 | bip_39_word_new_br_1 | over |  
 | bip_39_word_new_br_10 | over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket |  
 | bip_39_word_new_br_11 | over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket<br>february |  
@@ -147,6 +159,18 @@ outside |
 | bip_39_word_space_7 | over myth size burden blade brand pencil |  
 | bip_39_word_space_8 | over myth size burden blade brand pencil style |  
 | bip_39_word_space_9 | over myth size burden blade brand pencil style outside |  
+| bip_39_word_underscore_1 | over |  
+| bip_39_word_underscore_10 | over_myth_size_burden_blade_brand_pencil_style_outside_basket |  
+| bip_39_word_underscore_11 | over_myth_size_burden_blade_brand_pencil_style_outside_basket_february |  
+| bip_39_word_underscore_12 | over_myth_size_burden_blade_brand_pencil_style_outside_basket_february_advice |  
+| bip_39_word_underscore_2 | over_myth |  
+| bip_39_word_underscore_3 | over_myth_size |  
+| bip_39_word_underscore_4 | over_myth_size_burden |  
+| bip_39_word_underscore_5 | over_myth_size_burden_blade |  
+| bip_39_word_underscore_6 | over_myth_size_burden_blade_brand |  
+| bip_39_word_underscore_7 | over_myth_size_burden_blade_brand_pencil |  
+| bip_39_word_underscore_8 | over_myth_size_burden_blade_brand_pencil_style |  
+| bip_39_word_underscore_9 | over_myth_size_burden_blade_brand_pencil_style_outside |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

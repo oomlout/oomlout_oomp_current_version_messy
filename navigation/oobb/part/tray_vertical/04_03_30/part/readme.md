@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | child |  
+| bip_39_word_dash_10 | child-ready-state-furnace-tail-hundred-artwork-tiny-hover-stage |  
+| bip_39_word_dash_11 | child-ready-state-furnace-tail-hundred-artwork-tiny-hover-stage-airport |  
+| bip_39_word_dash_12 | child-ready-state-furnace-tail-hundred-artwork-tiny-hover-stage-airport-antenna |  
+| bip_39_word_dash_2 | child-ready |  
+| bip_39_word_dash_3 | child-ready-state |  
+| bip_39_word_dash_4 | child-ready-state-furnace |  
+| bip_39_word_dash_5 | child-ready-state-furnace-tail |  
+| bip_39_word_dash_6 | child-ready-state-furnace-tail-hundred |  
+| bip_39_word_dash_7 | child-ready-state-furnace-tail-hundred-artwork |  
+| bip_39_word_dash_8 | child-ready-state-furnace-tail-hundred-artwork-tiny |  
+| bip_39_word_dash_9 | child-ready-state-furnace-tail-hundred-artwork-tiny-hover |  
 | bip_39_word_new_br_1 | child |  
 | bip_39_word_new_br_10 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage |  
 | bip_39_word_new_br_11 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage<br>airport |  
@@ -147,6 +159,18 @@ hover |
 | bip_39_word_space_7 | child ready state furnace tail hundred artwork |  
 | bip_39_word_space_8 | child ready state furnace tail hundred artwork tiny |  
 | bip_39_word_space_9 | child ready state furnace tail hundred artwork tiny hover |  
+| bip_39_word_underscore_1 | child |  
+| bip_39_word_underscore_10 | child_ready_state_furnace_tail_hundred_artwork_tiny_hover_stage |  
+| bip_39_word_underscore_11 | child_ready_state_furnace_tail_hundred_artwork_tiny_hover_stage_airport |  
+| bip_39_word_underscore_12 | child_ready_state_furnace_tail_hundred_artwork_tiny_hover_stage_airport_antenna |  
+| bip_39_word_underscore_2 | child_ready |  
+| bip_39_word_underscore_3 | child_ready_state |  
+| bip_39_word_underscore_4 | child_ready_state_furnace |  
+| bip_39_word_underscore_5 | child_ready_state_furnace_tail |  
+| bip_39_word_underscore_6 | child_ready_state_furnace_tail_hundred |  
+| bip_39_word_underscore_7 | child_ready_state_furnace_tail_hundred_artwork |  
+| bip_39_word_underscore_8 | child_ready_state_furnace_tail_hundred_artwork_tiny |  
+| bip_39_word_underscore_9 | child_ready_state_furnace_tail_hundred_artwork_tiny_hover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

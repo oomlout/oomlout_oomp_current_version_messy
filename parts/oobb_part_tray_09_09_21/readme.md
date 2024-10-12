@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | universe |  
+| bip_39_word_dash_10 | universe-sugar-woman-fatal-off-cram-spy-require-swing-maximum |  
+| bip_39_word_dash_11 | universe-sugar-woman-fatal-off-cram-spy-require-swing-maximum-inch |  
+| bip_39_word_dash_12 | universe-sugar-woman-fatal-off-cram-spy-require-swing-maximum-inch-april |  
+| bip_39_word_dash_2 | universe-sugar |  
+| bip_39_word_dash_3 | universe-sugar-woman |  
+| bip_39_word_dash_4 | universe-sugar-woman-fatal |  
+| bip_39_word_dash_5 | universe-sugar-woman-fatal-off |  
+| bip_39_word_dash_6 | universe-sugar-woman-fatal-off-cram |  
+| bip_39_word_dash_7 | universe-sugar-woman-fatal-off-cram-spy |  
+| bip_39_word_dash_8 | universe-sugar-woman-fatal-off-cram-spy-require |  
+| bip_39_word_dash_9 | universe-sugar-woman-fatal-off-cram-spy-require-swing |  
 | bip_39_word_new_br_1 | universe |  
 | bip_39_word_new_br_10 | universe<br>sugar<br>woman<br>fatal<br>off<br>cram<br>spy<br>require<br>swing<br>maximum |  
 | bip_39_word_new_br_11 | universe<br>sugar<br>woman<br>fatal<br>off<br>cram<br>spy<br>require<br>swing<br>maximum<br>inch |  
@@ -147,6 +159,18 @@ swing |
 | bip_39_word_space_7 | universe sugar woman fatal off cram spy |  
 | bip_39_word_space_8 | universe sugar woman fatal off cram spy require |  
 | bip_39_word_space_9 | universe sugar woman fatal off cram spy require swing |  
+| bip_39_word_underscore_1 | universe |  
+| bip_39_word_underscore_10 | universe_sugar_woman_fatal_off_cram_spy_require_swing_maximum |  
+| bip_39_word_underscore_11 | universe_sugar_woman_fatal_off_cram_spy_require_swing_maximum_inch |  
+| bip_39_word_underscore_12 | universe_sugar_woman_fatal_off_cram_spy_require_swing_maximum_inch_april |  
+| bip_39_word_underscore_2 | universe_sugar |  
+| bip_39_word_underscore_3 | universe_sugar_woman |  
+| bip_39_word_underscore_4 | universe_sugar_woman_fatal |  
+| bip_39_word_underscore_5 | universe_sugar_woman_fatal_off |  
+| bip_39_word_underscore_6 | universe_sugar_woman_fatal_off_cram |  
+| bip_39_word_underscore_7 | universe_sugar_woman_fatal_off_cram_spy |  
+| bip_39_word_underscore_8 | universe_sugar_woman_fatal_off_cram_spy_require |  
+| bip_39_word_underscore_9 | universe_sugar_woman_fatal_off_cram_spy_require_swing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

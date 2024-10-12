@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | adapt |  
+| bip_39_word_dash_10 | adapt-air-wrong-dismiss-mandate-excite-salt-order-gorilla-grow |  
+| bip_39_word_dash_11 | adapt-air-wrong-dismiss-mandate-excite-salt-order-gorilla-grow-cart |  
+| bip_39_word_dash_12 | adapt-air-wrong-dismiss-mandate-excite-salt-order-gorilla-grow-cart-alter |  
+| bip_39_word_dash_2 | adapt-air |  
+| bip_39_word_dash_3 | adapt-air-wrong |  
+| bip_39_word_dash_4 | adapt-air-wrong-dismiss |  
+| bip_39_word_dash_5 | adapt-air-wrong-dismiss-mandate |  
+| bip_39_word_dash_6 | adapt-air-wrong-dismiss-mandate-excite |  
+| bip_39_word_dash_7 | adapt-air-wrong-dismiss-mandate-excite-salt |  
+| bip_39_word_dash_8 | adapt-air-wrong-dismiss-mandate-excite-salt-order |  
+| bip_39_word_dash_9 | adapt-air-wrong-dismiss-mandate-excite-salt-order-gorilla |  
 | bip_39_word_new_br_1 | adapt |  
 | bip_39_word_new_br_10 | adapt<br>air<br>wrong<br>dismiss<br>mandate<br>excite<br>salt<br>order<br>gorilla<br>grow |  
 | bip_39_word_new_br_11 | adapt<br>air<br>wrong<br>dismiss<br>mandate<br>excite<br>salt<br>order<br>gorilla<br>grow<br>cart |  
@@ -147,6 +159,18 @@ gorilla |
 | bip_39_word_space_7 | adapt air wrong dismiss mandate excite salt |  
 | bip_39_word_space_8 | adapt air wrong dismiss mandate excite salt order |  
 | bip_39_word_space_9 | adapt air wrong dismiss mandate excite salt order gorilla |  
+| bip_39_word_underscore_1 | adapt |  
+| bip_39_word_underscore_10 | adapt_air_wrong_dismiss_mandate_excite_salt_order_gorilla_grow |  
+| bip_39_word_underscore_11 | adapt_air_wrong_dismiss_mandate_excite_salt_order_gorilla_grow_cart |  
+| bip_39_word_underscore_12 | adapt_air_wrong_dismiss_mandate_excite_salt_order_gorilla_grow_cart_alter |  
+| bip_39_word_underscore_2 | adapt_air |  
+| bip_39_word_underscore_3 | adapt_air_wrong |  
+| bip_39_word_underscore_4 | adapt_air_wrong_dismiss |  
+| bip_39_word_underscore_5 | adapt_air_wrong_dismiss_mandate |  
+| bip_39_word_underscore_6 | adapt_air_wrong_dismiss_mandate_excite |  
+| bip_39_word_underscore_7 | adapt_air_wrong_dismiss_mandate_excite_salt |  
+| bip_39_word_underscore_8 | adapt_air_wrong_dismiss_mandate_excite_salt_order |  
+| bip_39_word_underscore_9 | adapt_air_wrong_dismiss_mandate_excite_salt_order_gorilla |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

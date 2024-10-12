@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trigger
+bip_39_word_dash_10: trigger-screen-sudden-load-half-dose-vague-just-protect-dash
+bip_39_word_dash_11: trigger-screen-sudden-load-half-dose-vague-just-protect-dash-velvet
+bip_39_word_dash_12: trigger-screen-sudden-load-half-dose-vague-just-protect-dash-velvet-august
+bip_39_word_dash_2: trigger-screen
+bip_39_word_dash_3: trigger-screen-sudden
+bip_39_word_dash_4: trigger-screen-sudden-load
+bip_39_word_dash_5: trigger-screen-sudden-load-half
+bip_39_word_dash_6: trigger-screen-sudden-load-half-dose
+bip_39_word_dash_7: trigger-screen-sudden-load-half-dose-vague
+bip_39_word_dash_8: trigger-screen-sudden-load-half-dose-vague-just
+bip_39_word_dash_9: trigger-screen-sudden-load-half-dose-vague-just-protect
 bip_39_word_new_br_1: trigger
 bip_39_word_new_br_10: trigger<br>screen<br>sudden<br>load<br>half<br>dose<br>vague<br>just<br>protect<br>dash
 bip_39_word_new_br_11: trigger<br>screen<br>sudden<br>load<br>half<br>dose<br>vague<br>just<br>protect<br>dash<br>velvet
@@ -193,6 +205,18 @@ bip_39_word_space_6: trigger screen sudden load half dose
 bip_39_word_space_7: trigger screen sudden load half dose vague
 bip_39_word_space_8: trigger screen sudden load half dose vague just
 bip_39_word_space_9: trigger screen sudden load half dose vague just protect
+bip_39_word_underscore_1: trigger
+bip_39_word_underscore_10: trigger_screen_sudden_load_half_dose_vague_just_protect_dash
+bip_39_word_underscore_11: trigger_screen_sudden_load_half_dose_vague_just_protect_dash_velvet
+bip_39_word_underscore_12: trigger_screen_sudden_load_half_dose_vague_just_protect_dash_velvet_august
+bip_39_word_underscore_2: trigger_screen
+bip_39_word_underscore_3: trigger_screen_sudden
+bip_39_word_underscore_4: trigger_screen_sudden_load
+bip_39_word_underscore_5: trigger_screen_sudden_load_half
+bip_39_word_underscore_6: trigger_screen_sudden_load_half_dose
+bip_39_word_underscore_7: trigger_screen_sudden_load_half_dose_vague
+bip_39_word_underscore_8: trigger_screen_sudden_load_half_dose_vague_just
+bip_39_word_underscore_9: trigger_screen_sudden_load_half_dose_vague_just_protect
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

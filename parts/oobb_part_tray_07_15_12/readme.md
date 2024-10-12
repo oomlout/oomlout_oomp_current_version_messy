@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | huge |  
+| bip_39_word_dash_10 | huge-infant-shove-pole-illness-tube-sketch-escape-same-target |  
+| bip_39_word_dash_11 | huge-infant-shove-pole-illness-tube-sketch-escape-same-target-share |  
+| bip_39_word_dash_12 | huge-infant-shove-pole-illness-tube-sketch-escape-same-target-share-ability |  
+| bip_39_word_dash_2 | huge-infant |  
+| bip_39_word_dash_3 | huge-infant-shove |  
+| bip_39_word_dash_4 | huge-infant-shove-pole |  
+| bip_39_word_dash_5 | huge-infant-shove-pole-illness |  
+| bip_39_word_dash_6 | huge-infant-shove-pole-illness-tube |  
+| bip_39_word_dash_7 | huge-infant-shove-pole-illness-tube-sketch |  
+| bip_39_word_dash_8 | huge-infant-shove-pole-illness-tube-sketch-escape |  
+| bip_39_word_dash_9 | huge-infant-shove-pole-illness-tube-sketch-escape-same |  
 | bip_39_word_new_br_1 | huge |  
 | bip_39_word_new_br_10 | huge<br>infant<br>shove<br>pole<br>illness<br>tube<br>sketch<br>escape<br>same<br>target |  
 | bip_39_word_new_br_11 | huge<br>infant<br>shove<br>pole<br>illness<br>tube<br>sketch<br>escape<br>same<br>target<br>share |  
@@ -147,6 +159,18 @@ same |
 | bip_39_word_space_7 | huge infant shove pole illness tube sketch |  
 | bip_39_word_space_8 | huge infant shove pole illness tube sketch escape |  
 | bip_39_word_space_9 | huge infant shove pole illness tube sketch escape same |  
+| bip_39_word_underscore_1 | huge |  
+| bip_39_word_underscore_10 | huge_infant_shove_pole_illness_tube_sketch_escape_same_target |  
+| bip_39_word_underscore_11 | huge_infant_shove_pole_illness_tube_sketch_escape_same_target_share |  
+| bip_39_word_underscore_12 | huge_infant_shove_pole_illness_tube_sketch_escape_same_target_share_ability |  
+| bip_39_word_underscore_2 | huge_infant |  
+| bip_39_word_underscore_3 | huge_infant_shove |  
+| bip_39_word_underscore_4 | huge_infant_shove_pole |  
+| bip_39_word_underscore_5 | huge_infant_shove_pole_illness |  
+| bip_39_word_underscore_6 | huge_infant_shove_pole_illness_tube |  
+| bip_39_word_underscore_7 | huge_infant_shove_pole_illness_tube_sketch |  
+| bip_39_word_underscore_8 | huge_infant_shove_pole_illness_tube_sketch_escape |  
+| bip_39_word_underscore_9 | huge_infant_shove_pole_illness_tube_sketch_escape_same |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

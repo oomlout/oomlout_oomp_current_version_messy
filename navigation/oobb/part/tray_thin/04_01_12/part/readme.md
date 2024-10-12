@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | habit |  
+| bip_39_word_dash_10 | habit-glove-core-aerobic-video-curious-brave-concert-gospel-unable |  
+| bip_39_word_dash_11 | habit-glove-core-aerobic-video-curious-brave-concert-gospel-unable-head |  
+| bip_39_word_dash_12 | habit-glove-core-aerobic-video-curious-brave-concert-gospel-unable-head-amazing |  
+| bip_39_word_dash_2 | habit-glove |  
+| bip_39_word_dash_3 | habit-glove-core |  
+| bip_39_word_dash_4 | habit-glove-core-aerobic |  
+| bip_39_word_dash_5 | habit-glove-core-aerobic-video |  
+| bip_39_word_dash_6 | habit-glove-core-aerobic-video-curious |  
+| bip_39_word_dash_7 | habit-glove-core-aerobic-video-curious-brave |  
+| bip_39_word_dash_8 | habit-glove-core-aerobic-video-curious-brave-concert |  
+| bip_39_word_dash_9 | habit-glove-core-aerobic-video-curious-brave-concert-gospel |  
 | bip_39_word_new_br_1 | habit |  
 | bip_39_word_new_br_10 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable |  
 | bip_39_word_new_br_11 | habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable<br>head |  
@@ -147,6 +159,18 @@ gospel |
 | bip_39_word_space_7 | habit glove core aerobic video curious brave |  
 | bip_39_word_space_8 | habit glove core aerobic video curious brave concert |  
 | bip_39_word_space_9 | habit glove core aerobic video curious brave concert gospel |  
+| bip_39_word_underscore_1 | habit |  
+| bip_39_word_underscore_10 | habit_glove_core_aerobic_video_curious_brave_concert_gospel_unable |  
+| bip_39_word_underscore_11 | habit_glove_core_aerobic_video_curious_brave_concert_gospel_unable_head |  
+| bip_39_word_underscore_12 | habit_glove_core_aerobic_video_curious_brave_concert_gospel_unable_head_amazing |  
+| bip_39_word_underscore_2 | habit_glove |  
+| bip_39_word_underscore_3 | habit_glove_core |  
+| bip_39_word_underscore_4 | habit_glove_core_aerobic |  
+| bip_39_word_underscore_5 | habit_glove_core_aerobic_video |  
+| bip_39_word_underscore_6 | habit_glove_core_aerobic_video_curious |  
+| bip_39_word_underscore_7 | habit_glove_core_aerobic_video_curious_brave |  
+| bip_39_word_underscore_8 | habit_glove_core_aerobic_video_curious_brave_concert |  
+| bip_39_word_underscore_9 | habit_glove_core_aerobic_video_curious_brave_concert_gospel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

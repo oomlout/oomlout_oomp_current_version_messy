@@ -1,3 +1,15 @@
+bip_39_word_dash_1: upon
+bip_39_word_dash_10: upon-magic-front-hunt-advice-dad-hospital-fetch-bounce-exile
+bip_39_word_dash_11: upon-magic-front-hunt-advice-dad-hospital-fetch-bounce-exile-position
+bip_39_word_dash_12: upon-magic-front-hunt-advice-dad-hospital-fetch-bounce-exile-position-alien
+bip_39_word_dash_2: upon-magic
+bip_39_word_dash_3: upon-magic-front
+bip_39_word_dash_4: upon-magic-front-hunt
+bip_39_word_dash_5: upon-magic-front-hunt-advice
+bip_39_word_dash_6: upon-magic-front-hunt-advice-dad
+bip_39_word_dash_7: upon-magic-front-hunt-advice-dad-hospital
+bip_39_word_dash_8: upon-magic-front-hunt-advice-dad-hospital-fetch
+bip_39_word_dash_9: upon-magic-front-hunt-advice-dad-hospital-fetch-bounce
 bip_39_word_new_br_1: upon
 bip_39_word_new_br_10: upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile
 bip_39_word_new_br_11: upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile<br>position
@@ -193,6 +205,18 @@ bip_39_word_space_6: upon magic front hunt advice dad
 bip_39_word_space_7: upon magic front hunt advice dad hospital
 bip_39_word_space_8: upon magic front hunt advice dad hospital fetch
 bip_39_word_space_9: upon magic front hunt advice dad hospital fetch bounce
+bip_39_word_underscore_1: upon
+bip_39_word_underscore_10: upon_magic_front_hunt_advice_dad_hospital_fetch_bounce_exile
+bip_39_word_underscore_11: upon_magic_front_hunt_advice_dad_hospital_fetch_bounce_exile_position
+bip_39_word_underscore_12: upon_magic_front_hunt_advice_dad_hospital_fetch_bounce_exile_position_alien
+bip_39_word_underscore_2: upon_magic
+bip_39_word_underscore_3: upon_magic_front
+bip_39_word_underscore_4: upon_magic_front_hunt
+bip_39_word_underscore_5: upon_magic_front_hunt_advice
+bip_39_word_underscore_6: upon_magic_front_hunt_advice_dad
+bip_39_word_underscore_7: upon_magic_front_hunt_advice_dad_hospital
+bip_39_word_underscore_8: upon_magic_front_hunt_advice_dad_hospital_fetch
+bip_39_word_underscore_9: upon_magic_front_hunt_advice_dad_hospital_fetch_bounce
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

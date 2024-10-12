@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mind |  
+| bip_39_word_dash_10 | mind-cart-viable-element-material-once-erupt-you-narrow-burger |  
+| bip_39_word_dash_11 | mind-cart-viable-element-material-once-erupt-you-narrow-burger-fiber |  
+| bip_39_word_dash_12 | mind-cart-viable-element-material-once-erupt-you-narrow-burger-fiber-audit |  
+| bip_39_word_dash_2 | mind-cart |  
+| bip_39_word_dash_3 | mind-cart-viable |  
+| bip_39_word_dash_4 | mind-cart-viable-element |  
+| bip_39_word_dash_5 | mind-cart-viable-element-material |  
+| bip_39_word_dash_6 | mind-cart-viable-element-material-once |  
+| bip_39_word_dash_7 | mind-cart-viable-element-material-once-erupt |  
+| bip_39_word_dash_8 | mind-cart-viable-element-material-once-erupt-you |  
+| bip_39_word_dash_9 | mind-cart-viable-element-material-once-erupt-you-narrow |  
 | bip_39_word_new_br_1 | mind |  
 | bip_39_word_new_br_10 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger |  
 | bip_39_word_new_br_11 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger<br>fiber |  
@@ -147,6 +159,18 @@ narrow |
 | bip_39_word_space_7 | mind cart viable element material once erupt |  
 | bip_39_word_space_8 | mind cart viable element material once erupt you |  
 | bip_39_word_space_9 | mind cart viable element material once erupt you narrow |  
+| bip_39_word_underscore_1 | mind |  
+| bip_39_word_underscore_10 | mind_cart_viable_element_material_once_erupt_you_narrow_burger |  
+| bip_39_word_underscore_11 | mind_cart_viable_element_material_once_erupt_you_narrow_burger_fiber |  
+| bip_39_word_underscore_12 | mind_cart_viable_element_material_once_erupt_you_narrow_burger_fiber_audit |  
+| bip_39_word_underscore_2 | mind_cart |  
+| bip_39_word_underscore_3 | mind_cart_viable |  
+| bip_39_word_underscore_4 | mind_cart_viable_element |  
+| bip_39_word_underscore_5 | mind_cart_viable_element_material |  
+| bip_39_word_underscore_6 | mind_cart_viable_element_material_once |  
+| bip_39_word_underscore_7 | mind_cart_viable_element_material_once_erupt |  
+| bip_39_word_underscore_8 | mind_cart_viable_element_material_once_erupt_you |  
+| bip_39_word_underscore_9 | mind_cart_viable_element_material_once_erupt_you_narrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

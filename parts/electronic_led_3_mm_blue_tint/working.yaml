@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nature
+bip_39_word_dash_10: nature-curious-cycle-kitchen-foster-elbow-pact-dress-trade-sustain
+bip_39_word_dash_11: nature-curious-cycle-kitchen-foster-elbow-pact-dress-trade-sustain-weekend
+bip_39_word_dash_12: nature-curious-cycle-kitchen-foster-elbow-pact-dress-trade-sustain-weekend-ancient
+bip_39_word_dash_2: nature-curious
+bip_39_word_dash_3: nature-curious-cycle
+bip_39_word_dash_4: nature-curious-cycle-kitchen
+bip_39_word_dash_5: nature-curious-cycle-kitchen-foster
+bip_39_word_dash_6: nature-curious-cycle-kitchen-foster-elbow
+bip_39_word_dash_7: nature-curious-cycle-kitchen-foster-elbow-pact
+bip_39_word_dash_8: nature-curious-cycle-kitchen-foster-elbow-pact-dress
+bip_39_word_dash_9: nature-curious-cycle-kitchen-foster-elbow-pact-dress-trade
 bip_39_word_new_br_1: nature
 bip_39_word_new_br_10: nature<br>curious<br>cycle<br>kitchen<br>foster<br>elbow<br>pact<br>dress<br>trade<br>sustain
 bip_39_word_new_br_11: nature<br>curious<br>cycle<br>kitchen<br>foster<br>elbow<br>pact<br>dress<br>trade<br>sustain<br>weekend
@@ -193,6 +205,18 @@ bip_39_word_space_6: nature curious cycle kitchen foster elbow
 bip_39_word_space_7: nature curious cycle kitchen foster elbow pact
 bip_39_word_space_8: nature curious cycle kitchen foster elbow pact dress
 bip_39_word_space_9: nature curious cycle kitchen foster elbow pact dress trade
+bip_39_word_underscore_1: nature
+bip_39_word_underscore_10: nature_curious_cycle_kitchen_foster_elbow_pact_dress_trade_sustain
+bip_39_word_underscore_11: nature_curious_cycle_kitchen_foster_elbow_pact_dress_trade_sustain_weekend
+bip_39_word_underscore_12: nature_curious_cycle_kitchen_foster_elbow_pact_dress_trade_sustain_weekend_ancient
+bip_39_word_underscore_2: nature_curious
+bip_39_word_underscore_3: nature_curious_cycle
+bip_39_word_underscore_4: nature_curious_cycle_kitchen
+bip_39_word_underscore_5: nature_curious_cycle_kitchen_foster
+bip_39_word_underscore_6: nature_curious_cycle_kitchen_foster_elbow
+bip_39_word_underscore_7: nature_curious_cycle_kitchen_foster_elbow_pact
+bip_39_word_underscore_8: nature_curious_cycle_kitchen_foster_elbow_pact_dress
+bip_39_word_underscore_9: nature_curious_cycle_kitchen_foster_elbow_pact_dress_trade
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

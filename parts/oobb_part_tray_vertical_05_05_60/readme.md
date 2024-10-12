@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | congress |  
+| bip_39_word_dash_10 | congress-photo-burst-music-subway-right-wage-cream-prevent-number |  
+| bip_39_word_dash_11 | congress-photo-burst-music-subway-right-wage-cream-prevent-number-fire |  
+| bip_39_word_dash_12 | congress-photo-burst-music-subway-right-wage-cream-prevent-number-fire-amateur |  
+| bip_39_word_dash_2 | congress-photo |  
+| bip_39_word_dash_3 | congress-photo-burst |  
+| bip_39_word_dash_4 | congress-photo-burst-music |  
+| bip_39_word_dash_5 | congress-photo-burst-music-subway |  
+| bip_39_word_dash_6 | congress-photo-burst-music-subway-right |  
+| bip_39_word_dash_7 | congress-photo-burst-music-subway-right-wage |  
+| bip_39_word_dash_8 | congress-photo-burst-music-subway-right-wage-cream |  
+| bip_39_word_dash_9 | congress-photo-burst-music-subway-right-wage-cream-prevent |  
 | bip_39_word_new_br_1 | congress |  
 | bip_39_word_new_br_10 | congress<br>photo<br>burst<br>music<br>subway<br>right<br>wage<br>cream<br>prevent<br>number |  
 | bip_39_word_new_br_11 | congress<br>photo<br>burst<br>music<br>subway<br>right<br>wage<br>cream<br>prevent<br>number<br>fire |  
@@ -147,6 +159,18 @@ prevent |
 | bip_39_word_space_7 | congress photo burst music subway right wage |  
 | bip_39_word_space_8 | congress photo burst music subway right wage cream |  
 | bip_39_word_space_9 | congress photo burst music subway right wage cream prevent |  
+| bip_39_word_underscore_1 | congress |  
+| bip_39_word_underscore_10 | congress_photo_burst_music_subway_right_wage_cream_prevent_number |  
+| bip_39_word_underscore_11 | congress_photo_burst_music_subway_right_wage_cream_prevent_number_fire |  
+| bip_39_word_underscore_12 | congress_photo_burst_music_subway_right_wage_cream_prevent_number_fire_amateur |  
+| bip_39_word_underscore_2 | congress_photo |  
+| bip_39_word_underscore_3 | congress_photo_burst |  
+| bip_39_word_underscore_4 | congress_photo_burst_music |  
+| bip_39_word_underscore_5 | congress_photo_burst_music_subway |  
+| bip_39_word_underscore_6 | congress_photo_burst_music_subway_right |  
+| bip_39_word_underscore_7 | congress_photo_burst_music_subway_right_wage |  
+| bip_39_word_underscore_8 | congress_photo_burst_music_subway_right_wage_cream |  
+| bip_39_word_underscore_9 | congress_photo_burst_music_subway_right_wage_cream_prevent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

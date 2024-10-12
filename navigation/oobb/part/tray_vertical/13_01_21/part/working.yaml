@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vault
+bip_39_word_dash_10: vault-general-quantum-rather-short-unique-bean-federal-elite-crucial
+bip_39_word_dash_11: vault-general-quantum-rather-short-unique-bean-federal-elite-crucial-robot
+bip_39_word_dash_12: vault-general-quantum-rather-short-unique-bean-federal-elite-crucial-robot-amateur
+bip_39_word_dash_2: vault-general
+bip_39_word_dash_3: vault-general-quantum
+bip_39_word_dash_4: vault-general-quantum-rather
+bip_39_word_dash_5: vault-general-quantum-rather-short
+bip_39_word_dash_6: vault-general-quantum-rather-short-unique
+bip_39_word_dash_7: vault-general-quantum-rather-short-unique-bean
+bip_39_word_dash_8: vault-general-quantum-rather-short-unique-bean-federal
+bip_39_word_dash_9: vault-general-quantum-rather-short-unique-bean-federal-elite
 bip_39_word_new_br_1: vault
 bip_39_word_new_br_10: vault<br>general<br>quantum<br>rather<br>short<br>unique<br>bean<br>federal<br>elite<br>crucial
 bip_39_word_new_br_11: vault<br>general<br>quantum<br>rather<br>short<br>unique<br>bean<br>federal<br>elite<br>crucial<br>robot
@@ -194,6 +206,18 @@ bip_39_word_space_6: vault general quantum rather short unique
 bip_39_word_space_7: vault general quantum rather short unique bean
 bip_39_word_space_8: vault general quantum rather short unique bean federal
 bip_39_word_space_9: vault general quantum rather short unique bean federal elite
+bip_39_word_underscore_1: vault
+bip_39_word_underscore_10: vault_general_quantum_rather_short_unique_bean_federal_elite_crucial
+bip_39_word_underscore_11: vault_general_quantum_rather_short_unique_bean_federal_elite_crucial_robot
+bip_39_word_underscore_12: vault_general_quantum_rather_short_unique_bean_federal_elite_crucial_robot_amateur
+bip_39_word_underscore_2: vault_general
+bip_39_word_underscore_3: vault_general_quantum
+bip_39_word_underscore_4: vault_general_quantum_rather
+bip_39_word_underscore_5: vault_general_quantum_rather_short
+bip_39_word_underscore_6: vault_general_quantum_rather_short_unique
+bip_39_word_underscore_7: vault_general_quantum_rather_short_unique_bean
+bip_39_word_underscore_8: vault_general_quantum_rather_short_unique_bean_federal
+bip_39_word_underscore_9: vault_general_quantum_rather_short_unique_bean_federal_elite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

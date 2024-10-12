@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mean |  
+| bip_39_word_dash_10 | mean-elevator-sunny-predict-smooth-thumb-destroy-romance-polar-device |  
+| bip_39_word_dash_11 | mean-elevator-sunny-predict-smooth-thumb-destroy-romance-polar-device-path |  
+| bip_39_word_dash_12 | mean-elevator-sunny-predict-smooth-thumb-destroy-romance-polar-device-path-agent |  
+| bip_39_word_dash_2 | mean-elevator |  
+| bip_39_word_dash_3 | mean-elevator-sunny |  
+| bip_39_word_dash_4 | mean-elevator-sunny-predict |  
+| bip_39_word_dash_5 | mean-elevator-sunny-predict-smooth |  
+| bip_39_word_dash_6 | mean-elevator-sunny-predict-smooth-thumb |  
+| bip_39_word_dash_7 | mean-elevator-sunny-predict-smooth-thumb-destroy |  
+| bip_39_word_dash_8 | mean-elevator-sunny-predict-smooth-thumb-destroy-romance |  
+| bip_39_word_dash_9 | mean-elevator-sunny-predict-smooth-thumb-destroy-romance-polar |  
 | bip_39_word_new_br_1 | mean |  
 | bip_39_word_new_br_10 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance<br>polar<br>device |  
 | bip_39_word_new_br_11 | mean<br>elevator<br>sunny<br>predict<br>smooth<br>thumb<br>destroy<br>romance<br>polar<br>device<br>path |  
@@ -147,6 +159,18 @@ polar |
 | bip_39_word_space_7 | mean elevator sunny predict smooth thumb destroy |  
 | bip_39_word_space_8 | mean elevator sunny predict smooth thumb destroy romance |  
 | bip_39_word_space_9 | mean elevator sunny predict smooth thumb destroy romance polar |  
+| bip_39_word_underscore_1 | mean |  
+| bip_39_word_underscore_10 | mean_elevator_sunny_predict_smooth_thumb_destroy_romance_polar_device |  
+| bip_39_word_underscore_11 | mean_elevator_sunny_predict_smooth_thumb_destroy_romance_polar_device_path |  
+| bip_39_word_underscore_12 | mean_elevator_sunny_predict_smooth_thumb_destroy_romance_polar_device_path_agent |  
+| bip_39_word_underscore_2 | mean_elevator |  
+| bip_39_word_underscore_3 | mean_elevator_sunny |  
+| bip_39_word_underscore_4 | mean_elevator_sunny_predict |  
+| bip_39_word_underscore_5 | mean_elevator_sunny_predict_smooth |  
+| bip_39_word_underscore_6 | mean_elevator_sunny_predict_smooth_thumb |  
+| bip_39_word_underscore_7 | mean_elevator_sunny_predict_smooth_thumb_destroy |  
+| bip_39_word_underscore_8 | mean_elevator_sunny_predict_smooth_thumb_destroy_romance |  
+| bip_39_word_underscore_9 | mean_elevator_sunny_predict_smooth_thumb_destroy_romance_polar |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

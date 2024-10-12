@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shine |  
+| bip_39_word_dash_10 | shine-client-bacon-lawn-degree-diamond-taxi-derive-chief-loyal |  
+| bip_39_word_dash_11 | shine-client-bacon-lawn-degree-diamond-taxi-derive-chief-loyal-thunder |  
+| bip_39_word_dash_12 | shine-client-bacon-lawn-degree-diamond-taxi-derive-chief-loyal-thunder-absorb |  
+| bip_39_word_dash_2 | shine-client |  
+| bip_39_word_dash_3 | shine-client-bacon |  
+| bip_39_word_dash_4 | shine-client-bacon-lawn |  
+| bip_39_word_dash_5 | shine-client-bacon-lawn-degree |  
+| bip_39_word_dash_6 | shine-client-bacon-lawn-degree-diamond |  
+| bip_39_word_dash_7 | shine-client-bacon-lawn-degree-diamond-taxi |  
+| bip_39_word_dash_8 | shine-client-bacon-lawn-degree-diamond-taxi-derive |  
+| bip_39_word_dash_9 | shine-client-bacon-lawn-degree-diamond-taxi-derive-chief |  
 | bip_39_word_new_br_1 | shine |  
 | bip_39_word_new_br_10 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal |  
 | bip_39_word_new_br_11 | shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal<br>thunder |  
@@ -147,6 +159,18 @@ chief |
 | bip_39_word_space_7 | shine client bacon lawn degree diamond taxi |  
 | bip_39_word_space_8 | shine client bacon lawn degree diamond taxi derive |  
 | bip_39_word_space_9 | shine client bacon lawn degree diamond taxi derive chief |  
+| bip_39_word_underscore_1 | shine |  
+| bip_39_word_underscore_10 | shine_client_bacon_lawn_degree_diamond_taxi_derive_chief_loyal |  
+| bip_39_word_underscore_11 | shine_client_bacon_lawn_degree_diamond_taxi_derive_chief_loyal_thunder |  
+| bip_39_word_underscore_12 | shine_client_bacon_lawn_degree_diamond_taxi_derive_chief_loyal_thunder_absorb |  
+| bip_39_word_underscore_2 | shine_client |  
+| bip_39_word_underscore_3 | shine_client_bacon |  
+| bip_39_word_underscore_4 | shine_client_bacon_lawn |  
+| bip_39_word_underscore_5 | shine_client_bacon_lawn_degree |  
+| bip_39_word_underscore_6 | shine_client_bacon_lawn_degree_diamond |  
+| bip_39_word_underscore_7 | shine_client_bacon_lawn_degree_diamond_taxi |  
+| bip_39_word_underscore_8 | shine_client_bacon_lawn_degree_diamond_taxi_derive |  
+| bip_39_word_underscore_9 | shine_client_bacon_lawn_degree_diamond_taxi_derive_chief |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

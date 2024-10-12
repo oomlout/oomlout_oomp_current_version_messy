@@ -1,3 +1,15 @@
+bip_39_word_dash_1: monitor
+bip_39_word_dash_10: monitor-quote-cabin-robust-fence-paddle-kite-bread-lemon-goddess
+bip_39_word_dash_11: monitor-quote-cabin-robust-fence-paddle-kite-bread-lemon-goddess-bless
+bip_39_word_dash_12: monitor-quote-cabin-robust-fence-paddle-kite-bread-lemon-goddess-bless-apple
+bip_39_word_dash_2: monitor-quote
+bip_39_word_dash_3: monitor-quote-cabin
+bip_39_word_dash_4: monitor-quote-cabin-robust
+bip_39_word_dash_5: monitor-quote-cabin-robust-fence
+bip_39_word_dash_6: monitor-quote-cabin-robust-fence-paddle
+bip_39_word_dash_7: monitor-quote-cabin-robust-fence-paddle-kite
+bip_39_word_dash_8: monitor-quote-cabin-robust-fence-paddle-kite-bread
+bip_39_word_dash_9: monitor-quote-cabin-robust-fence-paddle-kite-bread-lemon
 bip_39_word_new_br_1: monitor
 bip_39_word_new_br_10: monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread<br>lemon<br>goddess
 bip_39_word_new_br_11: monitor<br>quote<br>cabin<br>robust<br>fence<br>paddle<br>kite<br>bread<br>lemon<br>goddess<br>bless
@@ -193,6 +205,18 @@ bip_39_word_space_6: monitor quote cabin robust fence paddle
 bip_39_word_space_7: monitor quote cabin robust fence paddle kite
 bip_39_word_space_8: monitor quote cabin robust fence paddle kite bread
 bip_39_word_space_9: monitor quote cabin robust fence paddle kite bread lemon
+bip_39_word_underscore_1: monitor
+bip_39_word_underscore_10: monitor_quote_cabin_robust_fence_paddle_kite_bread_lemon_goddess
+bip_39_word_underscore_11: monitor_quote_cabin_robust_fence_paddle_kite_bread_lemon_goddess_bless
+bip_39_word_underscore_12: monitor_quote_cabin_robust_fence_paddle_kite_bread_lemon_goddess_bless_apple
+bip_39_word_underscore_2: monitor_quote
+bip_39_word_underscore_3: monitor_quote_cabin
+bip_39_word_underscore_4: monitor_quote_cabin_robust
+bip_39_word_underscore_5: monitor_quote_cabin_robust_fence
+bip_39_word_underscore_6: monitor_quote_cabin_robust_fence_paddle
+bip_39_word_underscore_7: monitor_quote_cabin_robust_fence_paddle_kite
+bip_39_word_underscore_8: monitor_quote_cabin_robust_fence_paddle_kite_bread
+bip_39_word_underscore_9: monitor_quote_cabin_robust_fence_paddle_kite_bread_lemon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

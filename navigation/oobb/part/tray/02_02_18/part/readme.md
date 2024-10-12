@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sister |  
+| bip_39_word_dash_10 | sister-seek-collect-love-advance-raise-immense-panel-language-veteran |  
+| bip_39_word_dash_11 | sister-seek-collect-love-advance-raise-immense-panel-language-veteran-swarm |  
+| bip_39_word_dash_12 | sister-seek-collect-love-advance-raise-immense-panel-language-veteran-swarm-april |  
+| bip_39_word_dash_2 | sister-seek |  
+| bip_39_word_dash_3 | sister-seek-collect |  
+| bip_39_word_dash_4 | sister-seek-collect-love |  
+| bip_39_word_dash_5 | sister-seek-collect-love-advance |  
+| bip_39_word_dash_6 | sister-seek-collect-love-advance-raise |  
+| bip_39_word_dash_7 | sister-seek-collect-love-advance-raise-immense |  
+| bip_39_word_dash_8 | sister-seek-collect-love-advance-raise-immense-panel |  
+| bip_39_word_dash_9 | sister-seek-collect-love-advance-raise-immense-panel-language |  
 | bip_39_word_new_br_1 | sister |  
 | bip_39_word_new_br_10 | sister<br>seek<br>collect<br>love<br>advance<br>raise<br>immense<br>panel<br>language<br>veteran |  
 | bip_39_word_new_br_11 | sister<br>seek<br>collect<br>love<br>advance<br>raise<br>immense<br>panel<br>language<br>veteran<br>swarm |  
@@ -147,6 +159,18 @@ language |
 | bip_39_word_space_7 | sister seek collect love advance raise immense |  
 | bip_39_word_space_8 | sister seek collect love advance raise immense panel |  
 | bip_39_word_space_9 | sister seek collect love advance raise immense panel language |  
+| bip_39_word_underscore_1 | sister |  
+| bip_39_word_underscore_10 | sister_seek_collect_love_advance_raise_immense_panel_language_veteran |  
+| bip_39_word_underscore_11 | sister_seek_collect_love_advance_raise_immense_panel_language_veteran_swarm |  
+| bip_39_word_underscore_12 | sister_seek_collect_love_advance_raise_immense_panel_language_veteran_swarm_april |  
+| bip_39_word_underscore_2 | sister_seek |  
+| bip_39_word_underscore_3 | sister_seek_collect |  
+| bip_39_word_underscore_4 | sister_seek_collect_love |  
+| bip_39_word_underscore_5 | sister_seek_collect_love_advance |  
+| bip_39_word_underscore_6 | sister_seek_collect_love_advance_raise |  
+| bip_39_word_underscore_7 | sister_seek_collect_love_advance_raise_immense |  
+| bip_39_word_underscore_8 | sister_seek_collect_love_advance_raise_immense_panel |  
+| bip_39_word_underscore_9 | sister_seek_collect_love_advance_raise_immense_panel_language |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

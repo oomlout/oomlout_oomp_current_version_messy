@@ -1,3 +1,15 @@
+bip_39_word_dash_1: small
+bip_39_word_dash_10: small-fabric-maple-present-oyster-smart-dinner-actor-table-neglect
+bip_39_word_dash_11: small-fabric-maple-present-oyster-smart-dinner-actor-table-neglect-design
+bip_39_word_dash_12: small-fabric-maple-present-oyster-smart-dinner-actor-table-neglect-design-arrest
+bip_39_word_dash_2: small-fabric
+bip_39_word_dash_3: small-fabric-maple
+bip_39_word_dash_4: small-fabric-maple-present
+bip_39_word_dash_5: small-fabric-maple-present-oyster
+bip_39_word_dash_6: small-fabric-maple-present-oyster-smart
+bip_39_word_dash_7: small-fabric-maple-present-oyster-smart-dinner
+bip_39_word_dash_8: small-fabric-maple-present-oyster-smart-dinner-actor
+bip_39_word_dash_9: small-fabric-maple-present-oyster-smart-dinner-actor-table
 bip_39_word_new_br_1: small
 bip_39_word_new_br_10: small<br>fabric<br>maple<br>present<br>oyster<br>smart<br>dinner<br>actor<br>table<br>neglect
 bip_39_word_new_br_11: small<br>fabric<br>maple<br>present<br>oyster<br>smart<br>dinner<br>actor<br>table<br>neglect<br>design
@@ -193,6 +205,18 @@ bip_39_word_space_6: small fabric maple present oyster smart
 bip_39_word_space_7: small fabric maple present oyster smart dinner
 bip_39_word_space_8: small fabric maple present oyster smart dinner actor
 bip_39_word_space_9: small fabric maple present oyster smart dinner actor table
+bip_39_word_underscore_1: small
+bip_39_word_underscore_10: small_fabric_maple_present_oyster_smart_dinner_actor_table_neglect
+bip_39_word_underscore_11: small_fabric_maple_present_oyster_smart_dinner_actor_table_neglect_design
+bip_39_word_underscore_12: small_fabric_maple_present_oyster_smart_dinner_actor_table_neglect_design_arrest
+bip_39_word_underscore_2: small_fabric
+bip_39_word_underscore_3: small_fabric_maple
+bip_39_word_underscore_4: small_fabric_maple_present
+bip_39_word_underscore_5: small_fabric_maple_present_oyster
+bip_39_word_underscore_6: small_fabric_maple_present_oyster_smart
+bip_39_word_underscore_7: small_fabric_maple_present_oyster_smart_dinner
+bip_39_word_underscore_8: small_fabric_maple_present_oyster_smart_dinner_actor
+bip_39_word_underscore_9: small_fabric_maple_present_oyster_smart_dinner_actor_table
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

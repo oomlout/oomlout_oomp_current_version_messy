@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trouble |  
+| bip_39_word_dash_10 | trouble-chicken-issue-mirror-language-winter-depend-stove-scare-bid |  
+| bip_39_word_dash_11 | trouble-chicken-issue-mirror-language-winter-depend-stove-scare-bid-fruit |  
+| bip_39_word_dash_12 | trouble-chicken-issue-mirror-language-winter-depend-stove-scare-bid-fruit-amount |  
+| bip_39_word_dash_2 | trouble-chicken |  
+| bip_39_word_dash_3 | trouble-chicken-issue |  
+| bip_39_word_dash_4 | trouble-chicken-issue-mirror |  
+| bip_39_word_dash_5 | trouble-chicken-issue-mirror-language |  
+| bip_39_word_dash_6 | trouble-chicken-issue-mirror-language-winter |  
+| bip_39_word_dash_7 | trouble-chicken-issue-mirror-language-winter-depend |  
+| bip_39_word_dash_8 | trouble-chicken-issue-mirror-language-winter-depend-stove |  
+| bip_39_word_dash_9 | trouble-chicken-issue-mirror-language-winter-depend-stove-scare |  
 | bip_39_word_new_br_1 | trouble |  
 | bip_39_word_new_br_10 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid |  
 | bip_39_word_new_br_11 | trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid<br>fruit |  
@@ -147,6 +159,18 @@ scare |
 | bip_39_word_space_7 | trouble chicken issue mirror language winter depend |  
 | bip_39_word_space_8 | trouble chicken issue mirror language winter depend stove |  
 | bip_39_word_space_9 | trouble chicken issue mirror language winter depend stove scare |  
+| bip_39_word_underscore_1 | trouble |  
+| bip_39_word_underscore_10 | trouble_chicken_issue_mirror_language_winter_depend_stove_scare_bid |  
+| bip_39_word_underscore_11 | trouble_chicken_issue_mirror_language_winter_depend_stove_scare_bid_fruit |  
+| bip_39_word_underscore_12 | trouble_chicken_issue_mirror_language_winter_depend_stove_scare_bid_fruit_amount |  
+| bip_39_word_underscore_2 | trouble_chicken |  
+| bip_39_word_underscore_3 | trouble_chicken_issue |  
+| bip_39_word_underscore_4 | trouble_chicken_issue_mirror |  
+| bip_39_word_underscore_5 | trouble_chicken_issue_mirror_language |  
+| bip_39_word_underscore_6 | trouble_chicken_issue_mirror_language_winter |  
+| bip_39_word_underscore_7 | trouble_chicken_issue_mirror_language_winter_depend |  
+| bip_39_word_underscore_8 | trouble_chicken_issue_mirror_language_winter_depend_stove |  
+| bip_39_word_underscore_9 | trouble_chicken_issue_mirror_language_winter_depend_stove_scare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

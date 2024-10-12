@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | beef |  
+| bip_39_word_dash_10 | beef-screen-nurse-travel-diesel-office-oppose-tongue-weird-mobile |  
+| bip_39_word_dash_11 | beef-screen-nurse-travel-diesel-office-oppose-tongue-weird-mobile-visa |  
+| bip_39_word_dash_12 | beef-screen-nurse-travel-diesel-office-oppose-tongue-weird-mobile-visa-asset |  
+| bip_39_word_dash_2 | beef-screen |  
+| bip_39_word_dash_3 | beef-screen-nurse |  
+| bip_39_word_dash_4 | beef-screen-nurse-travel |  
+| bip_39_word_dash_5 | beef-screen-nurse-travel-diesel |  
+| bip_39_word_dash_6 | beef-screen-nurse-travel-diesel-office |  
+| bip_39_word_dash_7 | beef-screen-nurse-travel-diesel-office-oppose |  
+| bip_39_word_dash_8 | beef-screen-nurse-travel-diesel-office-oppose-tongue |  
+| bip_39_word_dash_9 | beef-screen-nurse-travel-diesel-office-oppose-tongue-weird |  
 | bip_39_word_new_br_1 | beef |  
 | bip_39_word_new_br_10 | beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue<br>weird<br>mobile |  
 | bip_39_word_new_br_11 | beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue<br>weird<br>mobile<br>visa |  
@@ -147,6 +159,18 @@ weird |
 | bip_39_word_space_7 | beef screen nurse travel diesel office oppose |  
 | bip_39_word_space_8 | beef screen nurse travel diesel office oppose tongue |  
 | bip_39_word_space_9 | beef screen nurse travel diesel office oppose tongue weird |  
+| bip_39_word_underscore_1 | beef |  
+| bip_39_word_underscore_10 | beef_screen_nurse_travel_diesel_office_oppose_tongue_weird_mobile |  
+| bip_39_word_underscore_11 | beef_screen_nurse_travel_diesel_office_oppose_tongue_weird_mobile_visa |  
+| bip_39_word_underscore_12 | beef_screen_nurse_travel_diesel_office_oppose_tongue_weird_mobile_visa_asset |  
+| bip_39_word_underscore_2 | beef_screen |  
+| bip_39_word_underscore_3 | beef_screen_nurse |  
+| bip_39_word_underscore_4 | beef_screen_nurse_travel |  
+| bip_39_word_underscore_5 | beef_screen_nurse_travel_diesel |  
+| bip_39_word_underscore_6 | beef_screen_nurse_travel_diesel_office |  
+| bip_39_word_underscore_7 | beef_screen_nurse_travel_diesel_office_oppose |  
+| bip_39_word_underscore_8 | beef_screen_nurse_travel_diesel_office_oppose_tongue |  
+| bip_39_word_underscore_9 | beef_screen_nurse_travel_diesel_office_oppose_tongue_weird |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sell |  
+| bip_39_word_dash_10 | sell-limit-diesel-depend-faint-chat-donor-turtle-good-galaxy |  
+| bip_39_word_dash_11 | sell-limit-diesel-depend-faint-chat-donor-turtle-good-galaxy-fine |  
+| bip_39_word_dash_12 | sell-limit-diesel-depend-faint-chat-donor-turtle-good-galaxy-fine-alley |  
+| bip_39_word_dash_2 | sell-limit |  
+| bip_39_word_dash_3 | sell-limit-diesel |  
+| bip_39_word_dash_4 | sell-limit-diesel-depend |  
+| bip_39_word_dash_5 | sell-limit-diesel-depend-faint |  
+| bip_39_word_dash_6 | sell-limit-diesel-depend-faint-chat |  
+| bip_39_word_dash_7 | sell-limit-diesel-depend-faint-chat-donor |  
+| bip_39_word_dash_8 | sell-limit-diesel-depend-faint-chat-donor-turtle |  
+| bip_39_word_dash_9 | sell-limit-diesel-depend-faint-chat-donor-turtle-good |  
 | bip_39_word_new_br_1 | sell |  
 | bip_39_word_new_br_10 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy |  
 | bip_39_word_new_br_11 | sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy<br>fine |  
@@ -147,6 +159,18 @@ good |
 | bip_39_word_space_7 | sell limit diesel depend faint chat donor |  
 | bip_39_word_space_8 | sell limit diesel depend faint chat donor turtle |  
 | bip_39_word_space_9 | sell limit diesel depend faint chat donor turtle good |  
+| bip_39_word_underscore_1 | sell |  
+| bip_39_word_underscore_10 | sell_limit_diesel_depend_faint_chat_donor_turtle_good_galaxy |  
+| bip_39_word_underscore_11 | sell_limit_diesel_depend_faint_chat_donor_turtle_good_galaxy_fine |  
+| bip_39_word_underscore_12 | sell_limit_diesel_depend_faint_chat_donor_turtle_good_galaxy_fine_alley |  
+| bip_39_word_underscore_2 | sell_limit |  
+| bip_39_word_underscore_3 | sell_limit_diesel |  
+| bip_39_word_underscore_4 | sell_limit_diesel_depend |  
+| bip_39_word_underscore_5 | sell_limit_diesel_depend_faint |  
+| bip_39_word_underscore_6 | sell_limit_diesel_depend_faint_chat |  
+| bip_39_word_underscore_7 | sell_limit_diesel_depend_faint_chat_donor |  
+| bip_39_word_underscore_8 | sell_limit_diesel_depend_faint_chat_donor_turtle |  
+| bip_39_word_underscore_9 | sell_limit_diesel_depend_faint_chat_donor_turtle_good |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

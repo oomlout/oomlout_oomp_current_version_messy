@@ -1,3 +1,15 @@
+bip_39_word_dash_1: broken
+bip_39_word_dash_10: broken-stove-market-tackle-there-kingdom-sort-sail-skill-hundred
+bip_39_word_dash_11: broken-stove-market-tackle-there-kingdom-sort-sail-skill-hundred-member
+bip_39_word_dash_12: broken-stove-market-tackle-there-kingdom-sort-sail-skill-hundred-member-add
+bip_39_word_dash_2: broken-stove
+bip_39_word_dash_3: broken-stove-market
+bip_39_word_dash_4: broken-stove-market-tackle
+bip_39_word_dash_5: broken-stove-market-tackle-there
+bip_39_word_dash_6: broken-stove-market-tackle-there-kingdom
+bip_39_word_dash_7: broken-stove-market-tackle-there-kingdom-sort
+bip_39_word_dash_8: broken-stove-market-tackle-there-kingdom-sort-sail
+bip_39_word_dash_9: broken-stove-market-tackle-there-kingdom-sort-sail-skill
 bip_39_word_new_br_1: broken
 bip_39_word_new_br_10: broken<br>stove<br>market<br>tackle<br>there<br>kingdom<br>sort<br>sail<br>skill<br>hundred
 bip_39_word_new_br_11: broken<br>stove<br>market<br>tackle<br>there<br>kingdom<br>sort<br>sail<br>skill<br>hundred<br>member
@@ -193,6 +205,18 @@ bip_39_word_space_6: broken stove market tackle there kingdom
 bip_39_word_space_7: broken stove market tackle there kingdom sort
 bip_39_word_space_8: broken stove market tackle there kingdom sort sail
 bip_39_word_space_9: broken stove market tackle there kingdom sort sail skill
+bip_39_word_underscore_1: broken
+bip_39_word_underscore_10: broken_stove_market_tackle_there_kingdom_sort_sail_skill_hundred
+bip_39_word_underscore_11: broken_stove_market_tackle_there_kingdom_sort_sail_skill_hundred_member
+bip_39_word_underscore_12: broken_stove_market_tackle_there_kingdom_sort_sail_skill_hundred_member_add
+bip_39_word_underscore_2: broken_stove
+bip_39_word_underscore_3: broken_stove_market
+bip_39_word_underscore_4: broken_stove_market_tackle
+bip_39_word_underscore_5: broken_stove_market_tackle_there
+bip_39_word_underscore_6: broken_stove_market_tackle_there_kingdom
+bip_39_word_underscore_7: broken_stove_market_tackle_there_kingdom_sort
+bip_39_word_underscore_8: broken_stove_market_tackle_there_kingdom_sort_sail
+bip_39_word_underscore_9: broken_stove_market_tackle_there_kingdom_sort_sail_skill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crush |  
+| bip_39_word_dash_10 | crush-wheat-amateur-normal-decorate-dolphin-elder-today-tourist-scout |  
+| bip_39_word_dash_11 | crush-wheat-amateur-normal-decorate-dolphin-elder-today-tourist-scout-sting |  
+| bip_39_word_dash_12 | crush-wheat-amateur-normal-decorate-dolphin-elder-today-tourist-scout-sting-amazing |  
+| bip_39_word_dash_2 | crush-wheat |  
+| bip_39_word_dash_3 | crush-wheat-amateur |  
+| bip_39_word_dash_4 | crush-wheat-amateur-normal |  
+| bip_39_word_dash_5 | crush-wheat-amateur-normal-decorate |  
+| bip_39_word_dash_6 | crush-wheat-amateur-normal-decorate-dolphin |  
+| bip_39_word_dash_7 | crush-wheat-amateur-normal-decorate-dolphin-elder |  
+| bip_39_word_dash_8 | crush-wheat-amateur-normal-decorate-dolphin-elder-today |  
+| bip_39_word_dash_9 | crush-wheat-amateur-normal-decorate-dolphin-elder-today-tourist |  
 | bip_39_word_new_br_1 | crush |  
 | bip_39_word_new_br_10 | crush<br>wheat<br>amateur<br>normal<br>decorate<br>dolphin<br>elder<br>today<br>tourist<br>scout |  
 | bip_39_word_new_br_11 | crush<br>wheat<br>amateur<br>normal<br>decorate<br>dolphin<br>elder<br>today<br>tourist<br>scout<br>sting |  
@@ -147,6 +159,18 @@ tourist |
 | bip_39_word_space_7 | crush wheat amateur normal decorate dolphin elder |  
 | bip_39_word_space_8 | crush wheat amateur normal decorate dolphin elder today |  
 | bip_39_word_space_9 | crush wheat amateur normal decorate dolphin elder today tourist |  
+| bip_39_word_underscore_1 | crush |  
+| bip_39_word_underscore_10 | crush_wheat_amateur_normal_decorate_dolphin_elder_today_tourist_scout |  
+| bip_39_word_underscore_11 | crush_wheat_amateur_normal_decorate_dolphin_elder_today_tourist_scout_sting |  
+| bip_39_word_underscore_12 | crush_wheat_amateur_normal_decorate_dolphin_elder_today_tourist_scout_sting_amazing |  
+| bip_39_word_underscore_2 | crush_wheat |  
+| bip_39_word_underscore_3 | crush_wheat_amateur |  
+| bip_39_word_underscore_4 | crush_wheat_amateur_normal |  
+| bip_39_word_underscore_5 | crush_wheat_amateur_normal_decorate |  
+| bip_39_word_underscore_6 | crush_wheat_amateur_normal_decorate_dolphin |  
+| bip_39_word_underscore_7 | crush_wheat_amateur_normal_decorate_dolphin_elder |  
+| bip_39_word_underscore_8 | crush_wheat_amateur_normal_decorate_dolphin_elder_today |  
+| bip_39_word_underscore_9 | crush_wheat_amateur_normal_decorate_dolphin_elder_today_tourist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

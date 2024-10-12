@@ -1,3 +1,15 @@
+bip_39_word_dash_1: feel
+bip_39_word_dash_10: feel-bomb-novel-broccoli-monkey-market-scan-scene-husband-art
+bip_39_word_dash_11: feel-bomb-novel-broccoli-monkey-market-scan-scene-husband-art-term
+bip_39_word_dash_12: feel-bomb-novel-broccoli-monkey-market-scan-scene-husband-art-term-antenna
+bip_39_word_dash_2: feel-bomb
+bip_39_word_dash_3: feel-bomb-novel
+bip_39_word_dash_4: feel-bomb-novel-broccoli
+bip_39_word_dash_5: feel-bomb-novel-broccoli-monkey
+bip_39_word_dash_6: feel-bomb-novel-broccoli-monkey-market
+bip_39_word_dash_7: feel-bomb-novel-broccoli-monkey-market-scan
+bip_39_word_dash_8: feel-bomb-novel-broccoli-monkey-market-scan-scene
+bip_39_word_dash_9: feel-bomb-novel-broccoli-monkey-market-scan-scene-husband
 bip_39_word_new_br_1: feel
 bip_39_word_new_br_10: feel<br>bomb<br>novel<br>broccoli<br>monkey<br>market<br>scan<br>scene<br>husband<br>art
 bip_39_word_new_br_11: feel<br>bomb<br>novel<br>broccoli<br>monkey<br>market<br>scan<br>scene<br>husband<br>art<br>term
@@ -193,6 +205,18 @@ bip_39_word_space_6: feel bomb novel broccoli monkey market
 bip_39_word_space_7: feel bomb novel broccoli monkey market scan
 bip_39_word_space_8: feel bomb novel broccoli monkey market scan scene
 bip_39_word_space_9: feel bomb novel broccoli monkey market scan scene husband
+bip_39_word_underscore_1: feel
+bip_39_word_underscore_10: feel_bomb_novel_broccoli_monkey_market_scan_scene_husband_art
+bip_39_word_underscore_11: feel_bomb_novel_broccoli_monkey_market_scan_scene_husband_art_term
+bip_39_word_underscore_12: feel_bomb_novel_broccoli_monkey_market_scan_scene_husband_art_term_antenna
+bip_39_word_underscore_2: feel_bomb
+bip_39_word_underscore_3: feel_bomb_novel
+bip_39_word_underscore_4: feel_bomb_novel_broccoli
+bip_39_word_underscore_5: feel_bomb_novel_broccoli_monkey
+bip_39_word_underscore_6: feel_bomb_novel_broccoli_monkey_market
+bip_39_word_underscore_7: feel_bomb_novel_broccoli_monkey_market_scan
+bip_39_word_underscore_8: feel_bomb_novel_broccoli_monkey_market_scan_scene
+bip_39_word_underscore_9: feel_bomb_novel_broccoli_monkey_market_scan_scene_husband
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

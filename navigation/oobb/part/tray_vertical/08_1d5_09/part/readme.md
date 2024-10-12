@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spoil |  
+| bip_39_word_dash_10 | spoil-hurt-left-raccoon-flower-portion-employ-curve-safe-ticket |  
+| bip_39_word_dash_11 | spoil-hurt-left-raccoon-flower-portion-employ-curve-safe-ticket-reveal |  
+| bip_39_word_dash_12 | spoil-hurt-left-raccoon-flower-portion-employ-curve-safe-ticket-reveal-alley |  
+| bip_39_word_dash_2 | spoil-hurt |  
+| bip_39_word_dash_3 | spoil-hurt-left |  
+| bip_39_word_dash_4 | spoil-hurt-left-raccoon |  
+| bip_39_word_dash_5 | spoil-hurt-left-raccoon-flower |  
+| bip_39_word_dash_6 | spoil-hurt-left-raccoon-flower-portion |  
+| bip_39_word_dash_7 | spoil-hurt-left-raccoon-flower-portion-employ |  
+| bip_39_word_dash_8 | spoil-hurt-left-raccoon-flower-portion-employ-curve |  
+| bip_39_word_dash_9 | spoil-hurt-left-raccoon-flower-portion-employ-curve-safe |  
 | bip_39_word_new_br_1 | spoil |  
 | bip_39_word_new_br_10 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve<br>safe<br>ticket |  
 | bip_39_word_new_br_11 | spoil<br>hurt<br>left<br>raccoon<br>flower<br>portion<br>employ<br>curve<br>safe<br>ticket<br>reveal |  
@@ -147,6 +159,18 @@ safe |
 | bip_39_word_space_7 | spoil hurt left raccoon flower portion employ |  
 | bip_39_word_space_8 | spoil hurt left raccoon flower portion employ curve |  
 | bip_39_word_space_9 | spoil hurt left raccoon flower portion employ curve safe |  
+| bip_39_word_underscore_1 | spoil |  
+| bip_39_word_underscore_10 | spoil_hurt_left_raccoon_flower_portion_employ_curve_safe_ticket |  
+| bip_39_word_underscore_11 | spoil_hurt_left_raccoon_flower_portion_employ_curve_safe_ticket_reveal |  
+| bip_39_word_underscore_12 | spoil_hurt_left_raccoon_flower_portion_employ_curve_safe_ticket_reveal_alley |  
+| bip_39_word_underscore_2 | spoil_hurt |  
+| bip_39_word_underscore_3 | spoil_hurt_left |  
+| bip_39_word_underscore_4 | spoil_hurt_left_raccoon |  
+| bip_39_word_underscore_5 | spoil_hurt_left_raccoon_flower |  
+| bip_39_word_underscore_6 | spoil_hurt_left_raccoon_flower_portion |  
+| bip_39_word_underscore_7 | spoil_hurt_left_raccoon_flower_portion_employ |  
+| bip_39_word_underscore_8 | spoil_hurt_left_raccoon_flower_portion_employ_curve |  
+| bip_39_word_underscore_9 | spoil_hurt_left_raccoon_flower_portion_employ_curve_safe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

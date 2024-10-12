@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | monster |  
+| bip_39_word_dash_10 | monster-omit-model-toy-advance-episode-noodle-panther-float-behave |  
+| bip_39_word_dash_11 | monster-omit-model-toy-advance-episode-noodle-panther-float-behave-silly |  
+| bip_39_word_dash_12 | monster-omit-model-toy-advance-episode-noodle-panther-float-behave-silly-area |  
+| bip_39_word_dash_2 | monster-omit |  
+| bip_39_word_dash_3 | monster-omit-model |  
+| bip_39_word_dash_4 | monster-omit-model-toy |  
+| bip_39_word_dash_5 | monster-omit-model-toy-advance |  
+| bip_39_word_dash_6 | monster-omit-model-toy-advance-episode |  
+| bip_39_word_dash_7 | monster-omit-model-toy-advance-episode-noodle |  
+| bip_39_word_dash_8 | monster-omit-model-toy-advance-episode-noodle-panther |  
+| bip_39_word_dash_9 | monster-omit-model-toy-advance-episode-noodle-panther-float |  
 | bip_39_word_new_br_1 | monster |  
 | bip_39_word_new_br_10 | monster<br>omit<br>model<br>toy<br>advance<br>episode<br>noodle<br>panther<br>float<br>behave |  
 | bip_39_word_new_br_11 | monster<br>omit<br>model<br>toy<br>advance<br>episode<br>noodle<br>panther<br>float<br>behave<br>silly |  
@@ -147,6 +159,18 @@ float |
 | bip_39_word_space_7 | monster omit model toy advance episode noodle |  
 | bip_39_word_space_8 | monster omit model toy advance episode noodle panther |  
 | bip_39_word_space_9 | monster omit model toy advance episode noodle panther float |  
+| bip_39_word_underscore_1 | monster |  
+| bip_39_word_underscore_10 | monster_omit_model_toy_advance_episode_noodle_panther_float_behave |  
+| bip_39_word_underscore_11 | monster_omit_model_toy_advance_episode_noodle_panther_float_behave_silly |  
+| bip_39_word_underscore_12 | monster_omit_model_toy_advance_episode_noodle_panther_float_behave_silly_area |  
+| bip_39_word_underscore_2 | monster_omit |  
+| bip_39_word_underscore_3 | monster_omit_model |  
+| bip_39_word_underscore_4 | monster_omit_model_toy |  
+| bip_39_word_underscore_5 | monster_omit_model_toy_advance |  
+| bip_39_word_underscore_6 | monster_omit_model_toy_advance_episode |  
+| bip_39_word_underscore_7 | monster_omit_model_toy_advance_episode_noodle |  
+| bip_39_word_underscore_8 | monster_omit_model_toy_advance_episode_noodle_panther |  
+| bip_39_word_underscore_9 | monster_omit_model_toy_advance_episode_noodle_panther_float |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

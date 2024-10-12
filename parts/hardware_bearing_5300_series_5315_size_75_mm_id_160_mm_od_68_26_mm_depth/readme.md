@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fly |  
+| bip_39_word_dash_10 | fly-fortune-skate-same-chuckle-corn-cotton-machine-prosper-supply |  
+| bip_39_word_dash_11 | fly-fortune-skate-same-chuckle-corn-cotton-machine-prosper-supply-slot |  
+| bip_39_word_dash_12 | fly-fortune-skate-same-chuckle-corn-cotton-machine-prosper-supply-slot-antique |  
+| bip_39_word_dash_2 | fly-fortune |  
+| bip_39_word_dash_3 | fly-fortune-skate |  
+| bip_39_word_dash_4 | fly-fortune-skate-same |  
+| bip_39_word_dash_5 | fly-fortune-skate-same-chuckle |  
+| bip_39_word_dash_6 | fly-fortune-skate-same-chuckle-corn |  
+| bip_39_word_dash_7 | fly-fortune-skate-same-chuckle-corn-cotton |  
+| bip_39_word_dash_8 | fly-fortune-skate-same-chuckle-corn-cotton-machine |  
+| bip_39_word_dash_9 | fly-fortune-skate-same-chuckle-corn-cotton-machine-prosper |  
 | bip_39_word_new_br_1 | fly |  
 | bip_39_word_new_br_10 | fly<br>fortune<br>skate<br>same<br>chuckle<br>corn<br>cotton<br>machine<br>prosper<br>supply |  
 | bip_39_word_new_br_11 | fly<br>fortune<br>skate<br>same<br>chuckle<br>corn<br>cotton<br>machine<br>prosper<br>supply<br>slot |  
@@ -147,6 +159,18 @@ prosper |
 | bip_39_word_space_7 | fly fortune skate same chuckle corn cotton |  
 | bip_39_word_space_8 | fly fortune skate same chuckle corn cotton machine |  
 | bip_39_word_space_9 | fly fortune skate same chuckle corn cotton machine prosper |  
+| bip_39_word_underscore_1 | fly |  
+| bip_39_word_underscore_10 | fly_fortune_skate_same_chuckle_corn_cotton_machine_prosper_supply |  
+| bip_39_word_underscore_11 | fly_fortune_skate_same_chuckle_corn_cotton_machine_prosper_supply_slot |  
+| bip_39_word_underscore_12 | fly_fortune_skate_same_chuckle_corn_cotton_machine_prosper_supply_slot_antique |  
+| bip_39_word_underscore_2 | fly_fortune |  
+| bip_39_word_underscore_3 | fly_fortune_skate |  
+| bip_39_word_underscore_4 | fly_fortune_skate_same |  
+| bip_39_word_underscore_5 | fly_fortune_skate_same_chuckle |  
+| bip_39_word_underscore_6 | fly_fortune_skate_same_chuckle_corn |  
+| bip_39_word_underscore_7 | fly_fortune_skate_same_chuckle_corn_cotton |  
+| bip_39_word_underscore_8 | fly_fortune_skate_same_chuckle_corn_cotton_machine |  
+| bip_39_word_underscore_9 | fly_fortune_skate_same_chuckle_corn_cotton_machine_prosper |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

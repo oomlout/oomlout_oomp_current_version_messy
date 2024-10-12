@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | match |  
+| bip_39_word_dash_10 | match-panda-lobster-public-quote-pact-birth-price-loyal-belt |  
+| bip_39_word_dash_11 | match-panda-lobster-public-quote-pact-birth-price-loyal-belt-dirt |  
+| bip_39_word_dash_12 | match-panda-lobster-public-quote-pact-birth-price-loyal-belt-dirt-account |  
+| bip_39_word_dash_2 | match-panda |  
+| bip_39_word_dash_3 | match-panda-lobster |  
+| bip_39_word_dash_4 | match-panda-lobster-public |  
+| bip_39_word_dash_5 | match-panda-lobster-public-quote |  
+| bip_39_word_dash_6 | match-panda-lobster-public-quote-pact |  
+| bip_39_word_dash_7 | match-panda-lobster-public-quote-pact-birth |  
+| bip_39_word_dash_8 | match-panda-lobster-public-quote-pact-birth-price |  
+| bip_39_word_dash_9 | match-panda-lobster-public-quote-pact-birth-price-loyal |  
 | bip_39_word_new_br_1 | match |  
 | bip_39_word_new_br_10 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price<br>loyal<br>belt |  
 | bip_39_word_new_br_11 | match<br>panda<br>lobster<br>public<br>quote<br>pact<br>birth<br>price<br>loyal<br>belt<br>dirt |  
@@ -147,6 +159,18 @@ loyal |
 | bip_39_word_space_7 | match panda lobster public quote pact birth |  
 | bip_39_word_space_8 | match panda lobster public quote pact birth price |  
 | bip_39_word_space_9 | match panda lobster public quote pact birth price loyal |  
+| bip_39_word_underscore_1 | match |  
+| bip_39_word_underscore_10 | match_panda_lobster_public_quote_pact_birth_price_loyal_belt |  
+| bip_39_word_underscore_11 | match_panda_lobster_public_quote_pact_birth_price_loyal_belt_dirt |  
+| bip_39_word_underscore_12 | match_panda_lobster_public_quote_pact_birth_price_loyal_belt_dirt_account |  
+| bip_39_word_underscore_2 | match_panda |  
+| bip_39_word_underscore_3 | match_panda_lobster |  
+| bip_39_word_underscore_4 | match_panda_lobster_public |  
+| bip_39_word_underscore_5 | match_panda_lobster_public_quote |  
+| bip_39_word_underscore_6 | match_panda_lobster_public_quote_pact |  
+| bip_39_word_underscore_7 | match_panda_lobster_public_quote_pact_birth |  
+| bip_39_word_underscore_8 | match_panda_lobster_public_quote_pact_birth_price |  
+| bip_39_word_underscore_9 | match_panda_lobster_public_quote_pact_birth_price_loyal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | magic |  
+| bip_39_word_dash_10 | magic-omit-rebel-fringe-trophy-barrel-august-sniff-home-punch |  
+| bip_39_word_dash_11 | magic-omit-rebel-fringe-trophy-barrel-august-sniff-home-punch-flash |  
+| bip_39_word_dash_12 | magic-omit-rebel-fringe-trophy-barrel-august-sniff-home-punch-flash-aspect |  
+| bip_39_word_dash_2 | magic-omit |  
+| bip_39_word_dash_3 | magic-omit-rebel |  
+| bip_39_word_dash_4 | magic-omit-rebel-fringe |  
+| bip_39_word_dash_5 | magic-omit-rebel-fringe-trophy |  
+| bip_39_word_dash_6 | magic-omit-rebel-fringe-trophy-barrel |  
+| bip_39_word_dash_7 | magic-omit-rebel-fringe-trophy-barrel-august |  
+| bip_39_word_dash_8 | magic-omit-rebel-fringe-trophy-barrel-august-sniff |  
+| bip_39_word_dash_9 | magic-omit-rebel-fringe-trophy-barrel-august-sniff-home |  
 | bip_39_word_new_br_1 | magic |  
 | bip_39_word_new_br_10 | magic<br>omit<br>rebel<br>fringe<br>trophy<br>barrel<br>august<br>sniff<br>home<br>punch |  
 | bip_39_word_new_br_11 | magic<br>omit<br>rebel<br>fringe<br>trophy<br>barrel<br>august<br>sniff<br>home<br>punch<br>flash |  
@@ -147,6 +159,18 @@ home |
 | bip_39_word_space_7 | magic omit rebel fringe trophy barrel august |  
 | bip_39_word_space_8 | magic omit rebel fringe trophy barrel august sniff |  
 | bip_39_word_space_9 | magic omit rebel fringe trophy barrel august sniff home |  
+| bip_39_word_underscore_1 | magic |  
+| bip_39_word_underscore_10 | magic_omit_rebel_fringe_trophy_barrel_august_sniff_home_punch |  
+| bip_39_word_underscore_11 | magic_omit_rebel_fringe_trophy_barrel_august_sniff_home_punch_flash |  
+| bip_39_word_underscore_12 | magic_omit_rebel_fringe_trophy_barrel_august_sniff_home_punch_flash_aspect |  
+| bip_39_word_underscore_2 | magic_omit |  
+| bip_39_word_underscore_3 | magic_omit_rebel |  
+| bip_39_word_underscore_4 | magic_omit_rebel_fringe |  
+| bip_39_word_underscore_5 | magic_omit_rebel_fringe_trophy |  
+| bip_39_word_underscore_6 | magic_omit_rebel_fringe_trophy_barrel |  
+| bip_39_word_underscore_7 | magic_omit_rebel_fringe_trophy_barrel_august |  
+| bip_39_word_underscore_8 | magic_omit_rebel_fringe_trophy_barrel_august_sniff |  
+| bip_39_word_underscore_9 | magic_omit_rebel_fringe_trophy_barrel_august_sniff_home |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

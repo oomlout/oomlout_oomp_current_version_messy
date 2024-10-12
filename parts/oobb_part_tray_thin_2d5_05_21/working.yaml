@@ -1,3 +1,15 @@
+bip_39_word_dash_1: program
+bip_39_word_dash_10: program-bachelor-movie-action-endless-resist-flat-estate-dizzy-high
+bip_39_word_dash_11: program-bachelor-movie-action-endless-resist-flat-estate-dizzy-high-volume
+bip_39_word_dash_12: program-bachelor-movie-action-endless-resist-flat-estate-dizzy-high-volume-admit
+bip_39_word_dash_2: program-bachelor
+bip_39_word_dash_3: program-bachelor-movie
+bip_39_word_dash_4: program-bachelor-movie-action
+bip_39_word_dash_5: program-bachelor-movie-action-endless
+bip_39_word_dash_6: program-bachelor-movie-action-endless-resist
+bip_39_word_dash_7: program-bachelor-movie-action-endless-resist-flat
+bip_39_word_dash_8: program-bachelor-movie-action-endless-resist-flat-estate
+bip_39_word_dash_9: program-bachelor-movie-action-endless-resist-flat-estate-dizzy
 bip_39_word_new_br_1: program
 bip_39_word_new_br_10: program<br>bachelor<br>movie<br>action<br>endless<br>resist<br>flat<br>estate<br>dizzy<br>high
 bip_39_word_new_br_11: program<br>bachelor<br>movie<br>action<br>endless<br>resist<br>flat<br>estate<br>dizzy<br>high<br>volume
@@ -194,6 +206,18 @@ bip_39_word_space_6: program bachelor movie action endless resist
 bip_39_word_space_7: program bachelor movie action endless resist flat
 bip_39_word_space_8: program bachelor movie action endless resist flat estate
 bip_39_word_space_9: program bachelor movie action endless resist flat estate dizzy
+bip_39_word_underscore_1: program
+bip_39_word_underscore_10: program_bachelor_movie_action_endless_resist_flat_estate_dizzy_high
+bip_39_word_underscore_11: program_bachelor_movie_action_endless_resist_flat_estate_dizzy_high_volume
+bip_39_word_underscore_12: program_bachelor_movie_action_endless_resist_flat_estate_dizzy_high_volume_admit
+bip_39_word_underscore_2: program_bachelor
+bip_39_word_underscore_3: program_bachelor_movie
+bip_39_word_underscore_4: program_bachelor_movie_action
+bip_39_word_underscore_5: program_bachelor_movie_action_endless
+bip_39_word_underscore_6: program_bachelor_movie_action_endless_resist
+bip_39_word_underscore_7: program_bachelor_movie_action_endless_resist_flat
+bip_39_word_underscore_8: program_bachelor_movie_action_endless_resist_flat_estate
+bip_39_word_underscore_9: program_bachelor_movie_action_endless_resist_flat_estate_dizzy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

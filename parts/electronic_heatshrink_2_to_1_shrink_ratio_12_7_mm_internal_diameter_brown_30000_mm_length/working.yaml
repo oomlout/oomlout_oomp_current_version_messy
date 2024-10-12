@@ -1,3 +1,15 @@
+bip_39_word_dash_1: remember
+bip_39_word_dash_10: remember-hello-wonder-tree-garlic-staff-member-hint-panel-scatter
+bip_39_word_dash_11: remember-hello-wonder-tree-garlic-staff-member-hint-panel-scatter-initial
+bip_39_word_dash_12: remember-hello-wonder-tree-garlic-staff-member-hint-panel-scatter-initial-addict
+bip_39_word_dash_2: remember-hello
+bip_39_word_dash_3: remember-hello-wonder
+bip_39_word_dash_4: remember-hello-wonder-tree
+bip_39_word_dash_5: remember-hello-wonder-tree-garlic
+bip_39_word_dash_6: remember-hello-wonder-tree-garlic-staff
+bip_39_word_dash_7: remember-hello-wonder-tree-garlic-staff-member
+bip_39_word_dash_8: remember-hello-wonder-tree-garlic-staff-member-hint
+bip_39_word_dash_9: remember-hello-wonder-tree-garlic-staff-member-hint-panel
 bip_39_word_new_br_1: remember
 bip_39_word_new_br_10: remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint<br>panel<br>scatter
 bip_39_word_new_br_11: remember<br>hello<br>wonder<br>tree<br>garlic<br>staff<br>member<br>hint<br>panel<br>scatter<br>initial
@@ -193,6 +205,18 @@ bip_39_word_space_6: remember hello wonder tree garlic staff
 bip_39_word_space_7: remember hello wonder tree garlic staff member
 bip_39_word_space_8: remember hello wonder tree garlic staff member hint
 bip_39_word_space_9: remember hello wonder tree garlic staff member hint panel
+bip_39_word_underscore_1: remember
+bip_39_word_underscore_10: remember_hello_wonder_tree_garlic_staff_member_hint_panel_scatter
+bip_39_word_underscore_11: remember_hello_wonder_tree_garlic_staff_member_hint_panel_scatter_initial
+bip_39_word_underscore_12: remember_hello_wonder_tree_garlic_staff_member_hint_panel_scatter_initial_addict
+bip_39_word_underscore_2: remember_hello
+bip_39_word_underscore_3: remember_hello_wonder
+bip_39_word_underscore_4: remember_hello_wonder_tree
+bip_39_word_underscore_5: remember_hello_wonder_tree_garlic
+bip_39_word_underscore_6: remember_hello_wonder_tree_garlic_staff
+bip_39_word_underscore_7: remember_hello_wonder_tree_garlic_staff_member
+bip_39_word_underscore_8: remember_hello_wonder_tree_garlic_staff_member_hint
+bip_39_word_underscore_9: remember_hello_wonder_tree_garlic_staff_member_hint_panel
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | better |  
+| bip_39_word_dash_10 | better-dry-fiscal-anchor-tail-skull-tuition-grocery-lesson-usual |  
+| bip_39_word_dash_11 | better-dry-fiscal-anchor-tail-skull-tuition-grocery-lesson-usual-recall |  
+| bip_39_word_dash_12 | better-dry-fiscal-anchor-tail-skull-tuition-grocery-lesson-usual-recall-asthma |  
+| bip_39_word_dash_2 | better-dry |  
+| bip_39_word_dash_3 | better-dry-fiscal |  
+| bip_39_word_dash_4 | better-dry-fiscal-anchor |  
+| bip_39_word_dash_5 | better-dry-fiscal-anchor-tail |  
+| bip_39_word_dash_6 | better-dry-fiscal-anchor-tail-skull |  
+| bip_39_word_dash_7 | better-dry-fiscal-anchor-tail-skull-tuition |  
+| bip_39_word_dash_8 | better-dry-fiscal-anchor-tail-skull-tuition-grocery |  
+| bip_39_word_dash_9 | better-dry-fiscal-anchor-tail-skull-tuition-grocery-lesson |  
 | bip_39_word_new_br_1 | better |  
 | bip_39_word_new_br_10 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual |  
 | bip_39_word_new_br_11 | better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual<br>recall |  
@@ -147,6 +159,18 @@ lesson |
 | bip_39_word_space_7 | better dry fiscal anchor tail skull tuition |  
 | bip_39_word_space_8 | better dry fiscal anchor tail skull tuition grocery |  
 | bip_39_word_space_9 | better dry fiscal anchor tail skull tuition grocery lesson |  
+| bip_39_word_underscore_1 | better |  
+| bip_39_word_underscore_10 | better_dry_fiscal_anchor_tail_skull_tuition_grocery_lesson_usual |  
+| bip_39_word_underscore_11 | better_dry_fiscal_anchor_tail_skull_tuition_grocery_lesson_usual_recall |  
+| bip_39_word_underscore_12 | better_dry_fiscal_anchor_tail_skull_tuition_grocery_lesson_usual_recall_asthma |  
+| bip_39_word_underscore_2 | better_dry |  
+| bip_39_word_underscore_3 | better_dry_fiscal |  
+| bip_39_word_underscore_4 | better_dry_fiscal_anchor |  
+| bip_39_word_underscore_5 | better_dry_fiscal_anchor_tail |  
+| bip_39_word_underscore_6 | better_dry_fiscal_anchor_tail_skull |  
+| bip_39_word_underscore_7 | better_dry_fiscal_anchor_tail_skull_tuition |  
+| bip_39_word_underscore_8 | better_dry_fiscal_anchor_tail_skull_tuition_grocery |  
+| bip_39_word_underscore_9 | better_dry_fiscal_anchor_tail_skull_tuition_grocery_lesson |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

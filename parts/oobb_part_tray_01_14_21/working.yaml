@@ -1,3 +1,15 @@
+bip_39_word_dash_1: midnight
+bip_39_word_dash_10: midnight-square-arm-square-cousin-guard-act-mention-someone-speed
+bip_39_word_dash_11: midnight-square-arm-square-cousin-guard-act-mention-someone-speed-zoo
+bip_39_word_dash_12: midnight-square-arm-square-cousin-guard-act-mention-someone-speed-zoo-attract
+bip_39_word_dash_2: midnight-square
+bip_39_word_dash_3: midnight-square-arm
+bip_39_word_dash_4: midnight-square-arm-square
+bip_39_word_dash_5: midnight-square-arm-square-cousin
+bip_39_word_dash_6: midnight-square-arm-square-cousin-guard
+bip_39_word_dash_7: midnight-square-arm-square-cousin-guard-act
+bip_39_word_dash_8: midnight-square-arm-square-cousin-guard-act-mention
+bip_39_word_dash_9: midnight-square-arm-square-cousin-guard-act-mention-someone
 bip_39_word_new_br_1: midnight
 bip_39_word_new_br_10: midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention<br>someone<br>speed
 bip_39_word_new_br_11: midnight<br>square<br>arm<br>square<br>cousin<br>guard<br>act<br>mention<br>someone<br>speed<br>zoo
@@ -194,6 +206,18 @@ bip_39_word_space_6: midnight square arm square cousin guard
 bip_39_word_space_7: midnight square arm square cousin guard act
 bip_39_word_space_8: midnight square arm square cousin guard act mention
 bip_39_word_space_9: midnight square arm square cousin guard act mention someone
+bip_39_word_underscore_1: midnight
+bip_39_word_underscore_10: midnight_square_arm_square_cousin_guard_act_mention_someone_speed
+bip_39_word_underscore_11: midnight_square_arm_square_cousin_guard_act_mention_someone_speed_zoo
+bip_39_word_underscore_12: midnight_square_arm_square_cousin_guard_act_mention_someone_speed_zoo_attract
+bip_39_word_underscore_2: midnight_square
+bip_39_word_underscore_3: midnight_square_arm
+bip_39_word_underscore_4: midnight_square_arm_square
+bip_39_word_underscore_5: midnight_square_arm_square_cousin
+bip_39_word_underscore_6: midnight_square_arm_square_cousin_guard
+bip_39_word_underscore_7: midnight_square_arm_square_cousin_guard_act
+bip_39_word_underscore_8: midnight_square_arm_square_cousin_guard_act_mention
+bip_39_word_underscore_9: midnight_square_arm_square_cousin_guard_act_mention_someone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

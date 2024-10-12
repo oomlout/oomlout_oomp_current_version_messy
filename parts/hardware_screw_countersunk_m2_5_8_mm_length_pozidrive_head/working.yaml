@@ -1,3 +1,15 @@
+bip_39_word_dash_1: absorb
+bip_39_word_dash_10: absorb-century-reduce-review-avoid-frame-embody-rough-chief-over
+bip_39_word_dash_11: absorb-century-reduce-review-avoid-frame-embody-rough-chief-over-emerge
+bip_39_word_dash_12: absorb-century-reduce-review-avoid-frame-embody-rough-chief-over-emerge-action
+bip_39_word_dash_2: absorb-century
+bip_39_word_dash_3: absorb-century-reduce
+bip_39_word_dash_4: absorb-century-reduce-review
+bip_39_word_dash_5: absorb-century-reduce-review-avoid
+bip_39_word_dash_6: absorb-century-reduce-review-avoid-frame
+bip_39_word_dash_7: absorb-century-reduce-review-avoid-frame-embody
+bip_39_word_dash_8: absorb-century-reduce-review-avoid-frame-embody-rough
+bip_39_word_dash_9: absorb-century-reduce-review-avoid-frame-embody-rough-chief
 bip_39_word_new_br_1: absorb
 bip_39_word_new_br_10: absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough<br>chief<br>over
 bip_39_word_new_br_11: absorb<br>century<br>reduce<br>review<br>avoid<br>frame<br>embody<br>rough<br>chief<br>over<br>emerge
@@ -194,6 +206,18 @@ bip_39_word_space_6: absorb century reduce review avoid frame
 bip_39_word_space_7: absorb century reduce review avoid frame embody
 bip_39_word_space_8: absorb century reduce review avoid frame embody rough
 bip_39_word_space_9: absorb century reduce review avoid frame embody rough chief
+bip_39_word_underscore_1: absorb
+bip_39_word_underscore_10: absorb_century_reduce_review_avoid_frame_embody_rough_chief_over
+bip_39_word_underscore_11: absorb_century_reduce_review_avoid_frame_embody_rough_chief_over_emerge
+bip_39_word_underscore_12: absorb_century_reduce_review_avoid_frame_embody_rough_chief_over_emerge_action
+bip_39_word_underscore_2: absorb_century
+bip_39_word_underscore_3: absorb_century_reduce
+bip_39_word_underscore_4: absorb_century_reduce_review
+bip_39_word_underscore_5: absorb_century_reduce_review_avoid
+bip_39_word_underscore_6: absorb_century_reduce_review_avoid_frame
+bip_39_word_underscore_7: absorb_century_reduce_review_avoid_frame_embody
+bip_39_word_underscore_8: absorb_century_reduce_review_avoid_frame_embody_rough
+bip_39_word_underscore_9: absorb_century_reduce_review_avoid_frame_embody_rough_chief
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

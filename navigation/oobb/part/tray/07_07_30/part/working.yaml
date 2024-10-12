@@ -1,3 +1,15 @@
+bip_39_word_dash_1: have
+bip_39_word_dash_10: have-curtain-glow-sheriff-frequent-scene-achieve-pepper-undo-gate
+bip_39_word_dash_11: have-curtain-glow-sheriff-frequent-scene-achieve-pepper-undo-gate-purpose
+bip_39_word_dash_12: have-curtain-glow-sheriff-frequent-scene-achieve-pepper-undo-gate-purpose-apart
+bip_39_word_dash_2: have-curtain
+bip_39_word_dash_3: have-curtain-glow
+bip_39_word_dash_4: have-curtain-glow-sheriff
+bip_39_word_dash_5: have-curtain-glow-sheriff-frequent
+bip_39_word_dash_6: have-curtain-glow-sheriff-frequent-scene
+bip_39_word_dash_7: have-curtain-glow-sheriff-frequent-scene-achieve
+bip_39_word_dash_8: have-curtain-glow-sheriff-frequent-scene-achieve-pepper
+bip_39_word_dash_9: have-curtain-glow-sheriff-frequent-scene-achieve-pepper-undo
 bip_39_word_new_br_1: have
 bip_39_word_new_br_10: have<br>curtain<br>glow<br>sheriff<br>frequent<br>scene<br>achieve<br>pepper<br>undo<br>gate
 bip_39_word_new_br_11: have<br>curtain<br>glow<br>sheriff<br>frequent<br>scene<br>achieve<br>pepper<br>undo<br>gate<br>purpose
@@ -194,6 +206,18 @@ bip_39_word_space_6: have curtain glow sheriff frequent scene
 bip_39_word_space_7: have curtain glow sheriff frequent scene achieve
 bip_39_word_space_8: have curtain glow sheriff frequent scene achieve pepper
 bip_39_word_space_9: have curtain glow sheriff frequent scene achieve pepper undo
+bip_39_word_underscore_1: have
+bip_39_word_underscore_10: have_curtain_glow_sheriff_frequent_scene_achieve_pepper_undo_gate
+bip_39_word_underscore_11: have_curtain_glow_sheriff_frequent_scene_achieve_pepper_undo_gate_purpose
+bip_39_word_underscore_12: have_curtain_glow_sheriff_frequent_scene_achieve_pepper_undo_gate_purpose_apart
+bip_39_word_underscore_2: have_curtain
+bip_39_word_underscore_3: have_curtain_glow
+bip_39_word_underscore_4: have_curtain_glow_sheriff
+bip_39_word_underscore_5: have_curtain_glow_sheriff_frequent
+bip_39_word_underscore_6: have_curtain_glow_sheriff_frequent_scene
+bip_39_word_underscore_7: have_curtain_glow_sheriff_frequent_scene_achieve
+bip_39_word_underscore_8: have_curtain_glow_sheriff_frequent_scene_achieve_pepper
+bip_39_word_underscore_9: have_curtain_glow_sheriff_frequent_scene_achieve_pepper_undo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

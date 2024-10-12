@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | net |  
+| bip_39_word_dash_10 | net-dust-source-twist-supreme-wave-fault-quiz-fall-canyon |  
+| bip_39_word_dash_11 | net-dust-source-twist-supreme-wave-fault-quiz-fall-canyon-shoulder |  
+| bip_39_word_dash_12 | net-dust-source-twist-supreme-wave-fault-quiz-fall-canyon-shoulder-atom |  
+| bip_39_word_dash_2 | net-dust |  
+| bip_39_word_dash_3 | net-dust-source |  
+| bip_39_word_dash_4 | net-dust-source-twist |  
+| bip_39_word_dash_5 | net-dust-source-twist-supreme |  
+| bip_39_word_dash_6 | net-dust-source-twist-supreme-wave |  
+| bip_39_word_dash_7 | net-dust-source-twist-supreme-wave-fault |  
+| bip_39_word_dash_8 | net-dust-source-twist-supreme-wave-fault-quiz |  
+| bip_39_word_dash_9 | net-dust-source-twist-supreme-wave-fault-quiz-fall |  
 | bip_39_word_new_br_1 | net |  
 | bip_39_word_new_br_10 | net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz<br>fall<br>canyon |  
 | bip_39_word_new_br_11 | net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz<br>fall<br>canyon<br>shoulder |  
@@ -147,6 +159,18 @@ fall |
 | bip_39_word_space_7 | net dust source twist supreme wave fault |  
 | bip_39_word_space_8 | net dust source twist supreme wave fault quiz |  
 | bip_39_word_space_9 | net dust source twist supreme wave fault quiz fall |  
+| bip_39_word_underscore_1 | net |  
+| bip_39_word_underscore_10 | net_dust_source_twist_supreme_wave_fault_quiz_fall_canyon |  
+| bip_39_word_underscore_11 | net_dust_source_twist_supreme_wave_fault_quiz_fall_canyon_shoulder |  
+| bip_39_word_underscore_12 | net_dust_source_twist_supreme_wave_fault_quiz_fall_canyon_shoulder_atom |  
+| bip_39_word_underscore_2 | net_dust |  
+| bip_39_word_underscore_3 | net_dust_source |  
+| bip_39_word_underscore_4 | net_dust_source_twist |  
+| bip_39_word_underscore_5 | net_dust_source_twist_supreme |  
+| bip_39_word_underscore_6 | net_dust_source_twist_supreme_wave |  
+| bip_39_word_underscore_7 | net_dust_source_twist_supreme_wave_fault |  
+| bip_39_word_underscore_8 | net_dust_source_twist_supreme_wave_fault_quiz |  
+| bip_39_word_underscore_9 | net_dust_source_twist_supreme_wave_fault_quiz_fall |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

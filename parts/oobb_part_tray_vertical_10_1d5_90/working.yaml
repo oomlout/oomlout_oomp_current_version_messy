@@ -1,3 +1,15 @@
+bip_39_word_dash_1: priority
+bip_39_word_dash_10: priority-album-sail-agree-below-sunset-vague-era-visual-eyebrow
+bip_39_word_dash_11: priority-album-sail-agree-below-sunset-vague-era-visual-eyebrow-stove
+bip_39_word_dash_12: priority-album-sail-agree-below-sunset-vague-era-visual-eyebrow-stove-artefact
+bip_39_word_dash_2: priority-album
+bip_39_word_dash_3: priority-album-sail
+bip_39_word_dash_4: priority-album-sail-agree
+bip_39_word_dash_5: priority-album-sail-agree-below
+bip_39_word_dash_6: priority-album-sail-agree-below-sunset
+bip_39_word_dash_7: priority-album-sail-agree-below-sunset-vague
+bip_39_word_dash_8: priority-album-sail-agree-below-sunset-vague-era
+bip_39_word_dash_9: priority-album-sail-agree-below-sunset-vague-era-visual
 bip_39_word_new_br_1: priority
 bip_39_word_new_br_10: priority<br>album<br>sail<br>agree<br>below<br>sunset<br>vague<br>era<br>visual<br>eyebrow
 bip_39_word_new_br_11: priority<br>album<br>sail<br>agree<br>below<br>sunset<br>vague<br>era<br>visual<br>eyebrow<br>stove
@@ -193,6 +205,18 @@ bip_39_word_space_6: priority album sail agree below sunset
 bip_39_word_space_7: priority album sail agree below sunset vague
 bip_39_word_space_8: priority album sail agree below sunset vague era
 bip_39_word_space_9: priority album sail agree below sunset vague era visual
+bip_39_word_underscore_1: priority
+bip_39_word_underscore_10: priority_album_sail_agree_below_sunset_vague_era_visual_eyebrow
+bip_39_word_underscore_11: priority_album_sail_agree_below_sunset_vague_era_visual_eyebrow_stove
+bip_39_word_underscore_12: priority_album_sail_agree_below_sunset_vague_era_visual_eyebrow_stove_artefact
+bip_39_word_underscore_2: priority_album
+bip_39_word_underscore_3: priority_album_sail
+bip_39_word_underscore_4: priority_album_sail_agree
+bip_39_word_underscore_5: priority_album_sail_agree_below
+bip_39_word_underscore_6: priority_album_sail_agree_below_sunset
+bip_39_word_underscore_7: priority_album_sail_agree_below_sunset_vague
+bip_39_word_underscore_8: priority_album_sail_agree_below_sunset_vague_era
+bip_39_word_underscore_9: priority_album_sail_agree_below_sunset_vague_era_visual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

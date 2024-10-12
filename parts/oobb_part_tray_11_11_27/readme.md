@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | setup |  
+| bip_39_word_dash_10 | setup-book-omit-simple-common-picnic-orange-oval-ugly-assault |  
+| bip_39_word_dash_11 | setup-book-omit-simple-common-picnic-orange-oval-ugly-assault-table |  
+| bip_39_word_dash_12 | setup-book-omit-simple-common-picnic-orange-oval-ugly-assault-table-again |  
+| bip_39_word_dash_2 | setup-book |  
+| bip_39_word_dash_3 | setup-book-omit |  
+| bip_39_word_dash_4 | setup-book-omit-simple |  
+| bip_39_word_dash_5 | setup-book-omit-simple-common |  
+| bip_39_word_dash_6 | setup-book-omit-simple-common-picnic |  
+| bip_39_word_dash_7 | setup-book-omit-simple-common-picnic-orange |  
+| bip_39_word_dash_8 | setup-book-omit-simple-common-picnic-orange-oval |  
+| bip_39_word_dash_9 | setup-book-omit-simple-common-picnic-orange-oval-ugly |  
 | bip_39_word_new_br_1 | setup |  
 | bip_39_word_new_br_10 | setup<br>book<br>omit<br>simple<br>common<br>picnic<br>orange<br>oval<br>ugly<br>assault |  
 | bip_39_word_new_br_11 | setup<br>book<br>omit<br>simple<br>common<br>picnic<br>orange<br>oval<br>ugly<br>assault<br>table |  
@@ -147,6 +159,18 @@ ugly |
 | bip_39_word_space_7 | setup book omit simple common picnic orange |  
 | bip_39_word_space_8 | setup book omit simple common picnic orange oval |  
 | bip_39_word_space_9 | setup book omit simple common picnic orange oval ugly |  
+| bip_39_word_underscore_1 | setup |  
+| bip_39_word_underscore_10 | setup_book_omit_simple_common_picnic_orange_oval_ugly_assault |  
+| bip_39_word_underscore_11 | setup_book_omit_simple_common_picnic_orange_oval_ugly_assault_table |  
+| bip_39_word_underscore_12 | setup_book_omit_simple_common_picnic_orange_oval_ugly_assault_table_again |  
+| bip_39_word_underscore_2 | setup_book |  
+| bip_39_word_underscore_3 | setup_book_omit |  
+| bip_39_word_underscore_4 | setup_book_omit_simple |  
+| bip_39_word_underscore_5 | setup_book_omit_simple_common |  
+| bip_39_word_underscore_6 | setup_book_omit_simple_common_picnic |  
+| bip_39_word_underscore_7 | setup_book_omit_simple_common_picnic_orange |  
+| bip_39_word_underscore_8 | setup_book_omit_simple_common_picnic_orange_oval |  
+| bip_39_word_underscore_9 | setup_book_omit_simple_common_picnic_orange_oval_ugly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

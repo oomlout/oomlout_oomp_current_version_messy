@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | abandon |  
+| bip_39_word_dash_10 | abandon-trip-caution-skill-fiber-chimney-board-cross-little-oyster |  
+| bip_39_word_dash_11 | abandon-trip-caution-skill-fiber-chimney-board-cross-little-oyster-lounge |  
+| bip_39_word_dash_12 | abandon-trip-caution-skill-fiber-chimney-board-cross-little-oyster-lounge-aim |  
+| bip_39_word_dash_2 | abandon-trip |  
+| bip_39_word_dash_3 | abandon-trip-caution |  
+| bip_39_word_dash_4 | abandon-trip-caution-skill |  
+| bip_39_word_dash_5 | abandon-trip-caution-skill-fiber |  
+| bip_39_word_dash_6 | abandon-trip-caution-skill-fiber-chimney |  
+| bip_39_word_dash_7 | abandon-trip-caution-skill-fiber-chimney-board |  
+| bip_39_word_dash_8 | abandon-trip-caution-skill-fiber-chimney-board-cross |  
+| bip_39_word_dash_9 | abandon-trip-caution-skill-fiber-chimney-board-cross-little |  
 | bip_39_word_new_br_1 | abandon |  
 | bip_39_word_new_br_10 | abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross<br>little<br>oyster |  
 | bip_39_word_new_br_11 | abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross<br>little<br>oyster<br>lounge |  
@@ -147,6 +159,18 @@ little |
 | bip_39_word_space_7 | abandon trip caution skill fiber chimney board |  
 | bip_39_word_space_8 | abandon trip caution skill fiber chimney board cross |  
 | bip_39_word_space_9 | abandon trip caution skill fiber chimney board cross little |  
+| bip_39_word_underscore_1 | abandon |  
+| bip_39_word_underscore_10 | abandon_trip_caution_skill_fiber_chimney_board_cross_little_oyster |  
+| bip_39_word_underscore_11 | abandon_trip_caution_skill_fiber_chimney_board_cross_little_oyster_lounge |  
+| bip_39_word_underscore_12 | abandon_trip_caution_skill_fiber_chimney_board_cross_little_oyster_lounge_aim |  
+| bip_39_word_underscore_2 | abandon_trip |  
+| bip_39_word_underscore_3 | abandon_trip_caution |  
+| bip_39_word_underscore_4 | abandon_trip_caution_skill |  
+| bip_39_word_underscore_5 | abandon_trip_caution_skill_fiber |  
+| bip_39_word_underscore_6 | abandon_trip_caution_skill_fiber_chimney |  
+| bip_39_word_underscore_7 | abandon_trip_caution_skill_fiber_chimney_board |  
+| bip_39_word_underscore_8 | abandon_trip_caution_skill_fiber_chimney_board_cross |  
+| bip_39_word_underscore_9 | abandon_trip_caution_skill_fiber_chimney_board_cross_little |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | beach |  
+| bip_39_word_dash_10 | beach-hen-trick-vessel-cactus-lava-mad-stay-tragic-clutch |  
+| bip_39_word_dash_11 | beach-hen-trick-vessel-cactus-lava-mad-stay-tragic-clutch-hamster |  
+| bip_39_word_dash_12 | beach-hen-trick-vessel-cactus-lava-mad-stay-tragic-clutch-hamster-any |  
+| bip_39_word_dash_2 | beach-hen |  
+| bip_39_word_dash_3 | beach-hen-trick |  
+| bip_39_word_dash_4 | beach-hen-trick-vessel |  
+| bip_39_word_dash_5 | beach-hen-trick-vessel-cactus |  
+| bip_39_word_dash_6 | beach-hen-trick-vessel-cactus-lava |  
+| bip_39_word_dash_7 | beach-hen-trick-vessel-cactus-lava-mad |  
+| bip_39_word_dash_8 | beach-hen-trick-vessel-cactus-lava-mad-stay |  
+| bip_39_word_dash_9 | beach-hen-trick-vessel-cactus-lava-mad-stay-tragic |  
 | bip_39_word_new_br_1 | beach |  
 | bip_39_word_new_br_10 | beach<br>hen<br>trick<br>vessel<br>cactus<br>lava<br>mad<br>stay<br>tragic<br>clutch |  
 | bip_39_word_new_br_11 | beach<br>hen<br>trick<br>vessel<br>cactus<br>lava<br>mad<br>stay<br>tragic<br>clutch<br>hamster |  
@@ -147,6 +159,18 @@ tragic |
 | bip_39_word_space_7 | beach hen trick vessel cactus lava mad |  
 | bip_39_word_space_8 | beach hen trick vessel cactus lava mad stay |  
 | bip_39_word_space_9 | beach hen trick vessel cactus lava mad stay tragic |  
+| bip_39_word_underscore_1 | beach |  
+| bip_39_word_underscore_10 | beach_hen_trick_vessel_cactus_lava_mad_stay_tragic_clutch |  
+| bip_39_word_underscore_11 | beach_hen_trick_vessel_cactus_lava_mad_stay_tragic_clutch_hamster |  
+| bip_39_word_underscore_12 | beach_hen_trick_vessel_cactus_lava_mad_stay_tragic_clutch_hamster_any |  
+| bip_39_word_underscore_2 | beach_hen |  
+| bip_39_word_underscore_3 | beach_hen_trick |  
+| bip_39_word_underscore_4 | beach_hen_trick_vessel |  
+| bip_39_word_underscore_5 | beach_hen_trick_vessel_cactus |  
+| bip_39_word_underscore_6 | beach_hen_trick_vessel_cactus_lava |  
+| bip_39_word_underscore_7 | beach_hen_trick_vessel_cactus_lava_mad |  
+| bip_39_word_underscore_8 | beach_hen_trick_vessel_cactus_lava_mad_stay |  
+| bip_39_word_underscore_9 | beach_hen_trick_vessel_cactus_lava_mad_stay_tragic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

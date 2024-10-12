@@ -1,3 +1,15 @@
+bip_39_word_dash_1: defense
+bip_39_word_dash_10: defense-orbit-offer-tail-science-kitten-indicate-season-cluster-group
+bip_39_word_dash_11: defense-orbit-offer-tail-science-kitten-indicate-season-cluster-group-palace
+bip_39_word_dash_12: defense-orbit-offer-tail-science-kitten-indicate-season-cluster-group-palace-autumn
+bip_39_word_dash_2: defense-orbit
+bip_39_word_dash_3: defense-orbit-offer
+bip_39_word_dash_4: defense-orbit-offer-tail
+bip_39_word_dash_5: defense-orbit-offer-tail-science
+bip_39_word_dash_6: defense-orbit-offer-tail-science-kitten
+bip_39_word_dash_7: defense-orbit-offer-tail-science-kitten-indicate
+bip_39_word_dash_8: defense-orbit-offer-tail-science-kitten-indicate-season
+bip_39_word_dash_9: defense-orbit-offer-tail-science-kitten-indicate-season-cluster
 bip_39_word_new_br_1: defense
 bip_39_word_new_br_10: defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season<br>cluster<br>group
 bip_39_word_new_br_11: defense<br>orbit<br>offer<br>tail<br>science<br>kitten<br>indicate<br>season<br>cluster<br>group<br>palace
@@ -194,6 +206,18 @@ bip_39_word_space_6: defense orbit offer tail science kitten
 bip_39_word_space_7: defense orbit offer tail science kitten indicate
 bip_39_word_space_8: defense orbit offer tail science kitten indicate season
 bip_39_word_space_9: defense orbit offer tail science kitten indicate season cluster
+bip_39_word_underscore_1: defense
+bip_39_word_underscore_10: defense_orbit_offer_tail_science_kitten_indicate_season_cluster_group
+bip_39_word_underscore_11: defense_orbit_offer_tail_science_kitten_indicate_season_cluster_group_palace
+bip_39_word_underscore_12: defense_orbit_offer_tail_science_kitten_indicate_season_cluster_group_palace_autumn
+bip_39_word_underscore_2: defense_orbit
+bip_39_word_underscore_3: defense_orbit_offer
+bip_39_word_underscore_4: defense_orbit_offer_tail
+bip_39_word_underscore_5: defense_orbit_offer_tail_science
+bip_39_word_underscore_6: defense_orbit_offer_tail_science_kitten
+bip_39_word_underscore_7: defense_orbit_offer_tail_science_kitten_indicate
+bip_39_word_underscore_8: defense_orbit_offer_tail_science_kitten_indicate_season
+bip_39_word_underscore_9: defense_orbit_offer_tail_science_kitten_indicate_season_cluster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

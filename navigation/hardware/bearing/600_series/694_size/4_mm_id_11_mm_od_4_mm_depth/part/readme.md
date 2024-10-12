@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sustain |  
+| bip_39_word_dash_10 | sustain-setup-artist-essence-rose-plunge-card-shaft-hedgehog-mention |  
+| bip_39_word_dash_11 | sustain-setup-artist-essence-rose-plunge-card-shaft-hedgehog-mention-lesson |  
+| bip_39_word_dash_12 | sustain-setup-artist-essence-rose-plunge-card-shaft-hedgehog-mention-lesson-aisle |  
+| bip_39_word_dash_2 | sustain-setup |  
+| bip_39_word_dash_3 | sustain-setup-artist |  
+| bip_39_word_dash_4 | sustain-setup-artist-essence |  
+| bip_39_word_dash_5 | sustain-setup-artist-essence-rose |  
+| bip_39_word_dash_6 | sustain-setup-artist-essence-rose-plunge |  
+| bip_39_word_dash_7 | sustain-setup-artist-essence-rose-plunge-card |  
+| bip_39_word_dash_8 | sustain-setup-artist-essence-rose-plunge-card-shaft |  
+| bip_39_word_dash_9 | sustain-setup-artist-essence-rose-plunge-card-shaft-hedgehog |  
 | bip_39_word_new_br_1 | sustain |  
 | bip_39_word_new_br_10 | sustain<br>setup<br>artist<br>essence<br>rose<br>plunge<br>card<br>shaft<br>hedgehog<br>mention |  
 | bip_39_word_new_br_11 | sustain<br>setup<br>artist<br>essence<br>rose<br>plunge<br>card<br>shaft<br>hedgehog<br>mention<br>lesson |  
@@ -147,6 +159,18 @@ hedgehog |
 | bip_39_word_space_7 | sustain setup artist essence rose plunge card |  
 | bip_39_word_space_8 | sustain setup artist essence rose plunge card shaft |  
 | bip_39_word_space_9 | sustain setup artist essence rose plunge card shaft hedgehog |  
+| bip_39_word_underscore_1 | sustain |  
+| bip_39_word_underscore_10 | sustain_setup_artist_essence_rose_plunge_card_shaft_hedgehog_mention |  
+| bip_39_word_underscore_11 | sustain_setup_artist_essence_rose_plunge_card_shaft_hedgehog_mention_lesson |  
+| bip_39_word_underscore_12 | sustain_setup_artist_essence_rose_plunge_card_shaft_hedgehog_mention_lesson_aisle |  
+| bip_39_word_underscore_2 | sustain_setup |  
+| bip_39_word_underscore_3 | sustain_setup_artist |  
+| bip_39_word_underscore_4 | sustain_setup_artist_essence |  
+| bip_39_word_underscore_5 | sustain_setup_artist_essence_rose |  
+| bip_39_word_underscore_6 | sustain_setup_artist_essence_rose_plunge |  
+| bip_39_word_underscore_7 | sustain_setup_artist_essence_rose_plunge_card |  
+| bip_39_word_underscore_8 | sustain_setup_artist_essence_rose_plunge_card_shaft |  
+| bip_39_word_underscore_9 | sustain_setup_artist_essence_rose_plunge_card_shaft_hedgehog |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

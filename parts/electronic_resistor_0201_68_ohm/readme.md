@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | owner |  
+| bip_39_word_dash_10 | owner-float-wrap-split-marine-choice-belt-price-suit-oval |  
+| bip_39_word_dash_11 | owner-float-wrap-split-marine-choice-belt-price-suit-oval-provide |  
+| bip_39_word_dash_12 | owner-float-wrap-split-marine-choice-belt-price-suit-oval-provide-annual |  
+| bip_39_word_dash_2 | owner-float |  
+| bip_39_word_dash_3 | owner-float-wrap |  
+| bip_39_word_dash_4 | owner-float-wrap-split |  
+| bip_39_word_dash_5 | owner-float-wrap-split-marine |  
+| bip_39_word_dash_6 | owner-float-wrap-split-marine-choice |  
+| bip_39_word_dash_7 | owner-float-wrap-split-marine-choice-belt |  
+| bip_39_word_dash_8 | owner-float-wrap-split-marine-choice-belt-price |  
+| bip_39_word_dash_9 | owner-float-wrap-split-marine-choice-belt-price-suit |  
 | bip_39_word_new_br_1 | owner |  
 | bip_39_word_new_br_10 | owner<br>float<br>wrap<br>split<br>marine<br>choice<br>belt<br>price<br>suit<br>oval |  
 | bip_39_word_new_br_11 | owner<br>float<br>wrap<br>split<br>marine<br>choice<br>belt<br>price<br>suit<br>oval<br>provide |  
@@ -147,6 +159,18 @@ suit |
 | bip_39_word_space_7 | owner float wrap split marine choice belt |  
 | bip_39_word_space_8 | owner float wrap split marine choice belt price |  
 | bip_39_word_space_9 | owner float wrap split marine choice belt price suit |  
+| bip_39_word_underscore_1 | owner |  
+| bip_39_word_underscore_10 | owner_float_wrap_split_marine_choice_belt_price_suit_oval |  
+| bip_39_word_underscore_11 | owner_float_wrap_split_marine_choice_belt_price_suit_oval_provide |  
+| bip_39_word_underscore_12 | owner_float_wrap_split_marine_choice_belt_price_suit_oval_provide_annual |  
+| bip_39_word_underscore_2 | owner_float |  
+| bip_39_word_underscore_3 | owner_float_wrap |  
+| bip_39_word_underscore_4 | owner_float_wrap_split |  
+| bip_39_word_underscore_5 | owner_float_wrap_split_marine |  
+| bip_39_word_underscore_6 | owner_float_wrap_split_marine_choice |  
+| bip_39_word_underscore_7 | owner_float_wrap_split_marine_choice_belt |  
+| bip_39_word_underscore_8 | owner_float_wrap_split_marine_choice_belt_price |  
+| bip_39_word_underscore_9 | owner_float_wrap_split_marine_choice_belt_price_suit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coast |  
+| bip_39_word_dash_10 | coast-beach-gap-lunch-smooth-suit-eyebrow-put-neither-hawk |  
+| bip_39_word_dash_11 | coast-beach-gap-lunch-smooth-suit-eyebrow-put-neither-hawk-reason |  
+| bip_39_word_dash_12 | coast-beach-gap-lunch-smooth-suit-eyebrow-put-neither-hawk-reason-athlete |  
+| bip_39_word_dash_2 | coast-beach |  
+| bip_39_word_dash_3 | coast-beach-gap |  
+| bip_39_word_dash_4 | coast-beach-gap-lunch |  
+| bip_39_word_dash_5 | coast-beach-gap-lunch-smooth |  
+| bip_39_word_dash_6 | coast-beach-gap-lunch-smooth-suit |  
+| bip_39_word_dash_7 | coast-beach-gap-lunch-smooth-suit-eyebrow |  
+| bip_39_word_dash_8 | coast-beach-gap-lunch-smooth-suit-eyebrow-put |  
+| bip_39_word_dash_9 | coast-beach-gap-lunch-smooth-suit-eyebrow-put-neither |  
 | bip_39_word_new_br_1 | coast |  
 | bip_39_word_new_br_10 | coast<br>beach<br>gap<br>lunch<br>smooth<br>suit<br>eyebrow<br>put<br>neither<br>hawk |  
 | bip_39_word_new_br_11 | coast<br>beach<br>gap<br>lunch<br>smooth<br>suit<br>eyebrow<br>put<br>neither<br>hawk<br>reason |  
@@ -147,6 +159,18 @@ neither |
 | bip_39_word_space_7 | coast beach gap lunch smooth suit eyebrow |  
 | bip_39_word_space_8 | coast beach gap lunch smooth suit eyebrow put |  
 | bip_39_word_space_9 | coast beach gap lunch smooth suit eyebrow put neither |  
+| bip_39_word_underscore_1 | coast |  
+| bip_39_word_underscore_10 | coast_beach_gap_lunch_smooth_suit_eyebrow_put_neither_hawk |  
+| bip_39_word_underscore_11 | coast_beach_gap_lunch_smooth_suit_eyebrow_put_neither_hawk_reason |  
+| bip_39_word_underscore_12 | coast_beach_gap_lunch_smooth_suit_eyebrow_put_neither_hawk_reason_athlete |  
+| bip_39_word_underscore_2 | coast_beach |  
+| bip_39_word_underscore_3 | coast_beach_gap |  
+| bip_39_word_underscore_4 | coast_beach_gap_lunch |  
+| bip_39_word_underscore_5 | coast_beach_gap_lunch_smooth |  
+| bip_39_word_underscore_6 | coast_beach_gap_lunch_smooth_suit |  
+| bip_39_word_underscore_7 | coast_beach_gap_lunch_smooth_suit_eyebrow |  
+| bip_39_word_underscore_8 | coast_beach_gap_lunch_smooth_suit_eyebrow_put |  
+| bip_39_word_underscore_9 | coast_beach_gap_lunch_smooth_suit_eyebrow_put_neither |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

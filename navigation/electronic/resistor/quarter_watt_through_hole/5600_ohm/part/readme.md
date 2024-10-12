@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fruit |  
+| bip_39_word_dash_10 | fruit-horror-federal-warm-faint-when-wrong-beef-mirror-shop |  
+| bip_39_word_dash_11 | fruit-horror-federal-warm-faint-when-wrong-beef-mirror-shop-cry |  
+| bip_39_word_dash_12 | fruit-horror-federal-warm-faint-when-wrong-beef-mirror-shop-cry-acid |  
+| bip_39_word_dash_2 | fruit-horror |  
+| bip_39_word_dash_3 | fruit-horror-federal |  
+| bip_39_word_dash_4 | fruit-horror-federal-warm |  
+| bip_39_word_dash_5 | fruit-horror-federal-warm-faint |  
+| bip_39_word_dash_6 | fruit-horror-federal-warm-faint-when |  
+| bip_39_word_dash_7 | fruit-horror-federal-warm-faint-when-wrong |  
+| bip_39_word_dash_8 | fruit-horror-federal-warm-faint-when-wrong-beef |  
+| bip_39_word_dash_9 | fruit-horror-federal-warm-faint-when-wrong-beef-mirror |  
 | bip_39_word_new_br_1 | fruit |  
 | bip_39_word_new_br_10 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop |  
 | bip_39_word_new_br_11 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop<br>cry |  
@@ -147,6 +159,18 @@ mirror |
 | bip_39_word_space_7 | fruit horror federal warm faint when wrong |  
 | bip_39_word_space_8 | fruit horror federal warm faint when wrong beef |  
 | bip_39_word_space_9 | fruit horror federal warm faint when wrong beef mirror |  
+| bip_39_word_underscore_1 | fruit |  
+| bip_39_word_underscore_10 | fruit_horror_federal_warm_faint_when_wrong_beef_mirror_shop |  
+| bip_39_word_underscore_11 | fruit_horror_federal_warm_faint_when_wrong_beef_mirror_shop_cry |  
+| bip_39_word_underscore_12 | fruit_horror_federal_warm_faint_when_wrong_beef_mirror_shop_cry_acid |  
+| bip_39_word_underscore_2 | fruit_horror |  
+| bip_39_word_underscore_3 | fruit_horror_federal |  
+| bip_39_word_underscore_4 | fruit_horror_federal_warm |  
+| bip_39_word_underscore_5 | fruit_horror_federal_warm_faint |  
+| bip_39_word_underscore_6 | fruit_horror_federal_warm_faint_when |  
+| bip_39_word_underscore_7 | fruit_horror_federal_warm_faint_when_wrong |  
+| bip_39_word_underscore_8 | fruit_horror_federal_warm_faint_when_wrong_beef |  
+| bip_39_word_underscore_9 | fruit_horror_federal_warm_faint_when_wrong_beef_mirror |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

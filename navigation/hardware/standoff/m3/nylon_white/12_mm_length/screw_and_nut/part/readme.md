@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | library |  
+| bip_39_word_dash_10 | library-project-cattle-patient-video-manual-apple-hospital-senior-total |  
+| bip_39_word_dash_11 | library-project-cattle-patient-video-manual-apple-hospital-senior-total-later |  
+| bip_39_word_dash_12 | library-project-cattle-patient-video-manual-apple-hospital-senior-total-later-another |  
+| bip_39_word_dash_2 | library-project |  
+| bip_39_word_dash_3 | library-project-cattle |  
+| bip_39_word_dash_4 | library-project-cattle-patient |  
+| bip_39_word_dash_5 | library-project-cattle-patient-video |  
+| bip_39_word_dash_6 | library-project-cattle-patient-video-manual |  
+| bip_39_word_dash_7 | library-project-cattle-patient-video-manual-apple |  
+| bip_39_word_dash_8 | library-project-cattle-patient-video-manual-apple-hospital |  
+| bip_39_word_dash_9 | library-project-cattle-patient-video-manual-apple-hospital-senior |  
 | bip_39_word_new_br_1 | library |  
 | bip_39_word_new_br_10 | library<br>project<br>cattle<br>patient<br>video<br>manual<br>apple<br>hospital<br>senior<br>total |  
 | bip_39_word_new_br_11 | library<br>project<br>cattle<br>patient<br>video<br>manual<br>apple<br>hospital<br>senior<br>total<br>later |  
@@ -147,6 +159,18 @@ senior |
 | bip_39_word_space_7 | library project cattle patient video manual apple |  
 | bip_39_word_space_8 | library project cattle patient video manual apple hospital |  
 | bip_39_word_space_9 | library project cattle patient video manual apple hospital senior |  
+| bip_39_word_underscore_1 | library |  
+| bip_39_word_underscore_10 | library_project_cattle_patient_video_manual_apple_hospital_senior_total |  
+| bip_39_word_underscore_11 | library_project_cattle_patient_video_manual_apple_hospital_senior_total_later |  
+| bip_39_word_underscore_12 | library_project_cattle_patient_video_manual_apple_hospital_senior_total_later_another |  
+| bip_39_word_underscore_2 | library_project |  
+| bip_39_word_underscore_3 | library_project_cattle |  
+| bip_39_word_underscore_4 | library_project_cattle_patient |  
+| bip_39_word_underscore_5 | library_project_cattle_patient_video |  
+| bip_39_word_underscore_6 | library_project_cattle_patient_video_manual |  
+| bip_39_word_underscore_7 | library_project_cattle_patient_video_manual_apple |  
+| bip_39_word_underscore_8 | library_project_cattle_patient_video_manual_apple_hospital |  
+| bip_39_word_underscore_9 | library_project_cattle_patient_video_manual_apple_hospital_senior |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | animal |  
+| bip_39_word_dash_10 | animal-draft-warrior-grape-luxury-carry-business-great-valid-scorpion |  
+| bip_39_word_dash_11 | animal-draft-warrior-grape-luxury-carry-business-great-valid-scorpion-dad |  
+| bip_39_word_dash_12 | animal-draft-warrior-grape-luxury-carry-business-great-valid-scorpion-dad-annual |  
+| bip_39_word_dash_2 | animal-draft |  
+| bip_39_word_dash_3 | animal-draft-warrior |  
+| bip_39_word_dash_4 | animal-draft-warrior-grape |  
+| bip_39_word_dash_5 | animal-draft-warrior-grape-luxury |  
+| bip_39_word_dash_6 | animal-draft-warrior-grape-luxury-carry |  
+| bip_39_word_dash_7 | animal-draft-warrior-grape-luxury-carry-business |  
+| bip_39_word_dash_8 | animal-draft-warrior-grape-luxury-carry-business-great |  
+| bip_39_word_dash_9 | animal-draft-warrior-grape-luxury-carry-business-great-valid |  
 | bip_39_word_new_br_1 | animal |  
 | bip_39_word_new_br_10 | animal<br>draft<br>warrior<br>grape<br>luxury<br>carry<br>business<br>great<br>valid<br>scorpion |  
 | bip_39_word_new_br_11 | animal<br>draft<br>warrior<br>grape<br>luxury<br>carry<br>business<br>great<br>valid<br>scorpion<br>dad |  
@@ -147,6 +159,18 @@ valid |
 | bip_39_word_space_7 | animal draft warrior grape luxury carry business |  
 | bip_39_word_space_8 | animal draft warrior grape luxury carry business great |  
 | bip_39_word_space_9 | animal draft warrior grape luxury carry business great valid |  
+| bip_39_word_underscore_1 | animal |  
+| bip_39_word_underscore_10 | animal_draft_warrior_grape_luxury_carry_business_great_valid_scorpion |  
+| bip_39_word_underscore_11 | animal_draft_warrior_grape_luxury_carry_business_great_valid_scorpion_dad |  
+| bip_39_word_underscore_12 | animal_draft_warrior_grape_luxury_carry_business_great_valid_scorpion_dad_annual |  
+| bip_39_word_underscore_2 | animal_draft |  
+| bip_39_word_underscore_3 | animal_draft_warrior |  
+| bip_39_word_underscore_4 | animal_draft_warrior_grape |  
+| bip_39_word_underscore_5 | animal_draft_warrior_grape_luxury |  
+| bip_39_word_underscore_6 | animal_draft_warrior_grape_luxury_carry |  
+| bip_39_word_underscore_7 | animal_draft_warrior_grape_luxury_carry_business |  
+| bip_39_word_underscore_8 | animal_draft_warrior_grape_luxury_carry_business_great |  
+| bip_39_word_underscore_9 | animal_draft_warrior_grape_luxury_carry_business_great_valid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

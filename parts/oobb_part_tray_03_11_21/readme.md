@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hello |  
+| bip_39_word_dash_10 | hello-vote-employ-impulse-category-situate-maple-helmet-sausage-syrup |  
+| bip_39_word_dash_11 | hello-vote-employ-impulse-category-situate-maple-helmet-sausage-syrup-capable |  
+| bip_39_word_dash_12 | hello-vote-employ-impulse-category-situate-maple-helmet-sausage-syrup-capable-ahead |  
+| bip_39_word_dash_2 | hello-vote |  
+| bip_39_word_dash_3 | hello-vote-employ |  
+| bip_39_word_dash_4 | hello-vote-employ-impulse |  
+| bip_39_word_dash_5 | hello-vote-employ-impulse-category |  
+| bip_39_word_dash_6 | hello-vote-employ-impulse-category-situate |  
+| bip_39_word_dash_7 | hello-vote-employ-impulse-category-situate-maple |  
+| bip_39_word_dash_8 | hello-vote-employ-impulse-category-situate-maple-helmet |  
+| bip_39_word_dash_9 | hello-vote-employ-impulse-category-situate-maple-helmet-sausage |  
 | bip_39_word_new_br_1 | hello |  
 | bip_39_word_new_br_10 | hello<br>vote<br>employ<br>impulse<br>category<br>situate<br>maple<br>helmet<br>sausage<br>syrup |  
 | bip_39_word_new_br_11 | hello<br>vote<br>employ<br>impulse<br>category<br>situate<br>maple<br>helmet<br>sausage<br>syrup<br>capable |  
@@ -147,6 +159,18 @@ sausage |
 | bip_39_word_space_7 | hello vote employ impulse category situate maple |  
 | bip_39_word_space_8 | hello vote employ impulse category situate maple helmet |  
 | bip_39_word_space_9 | hello vote employ impulse category situate maple helmet sausage |  
+| bip_39_word_underscore_1 | hello |  
+| bip_39_word_underscore_10 | hello_vote_employ_impulse_category_situate_maple_helmet_sausage_syrup |  
+| bip_39_word_underscore_11 | hello_vote_employ_impulse_category_situate_maple_helmet_sausage_syrup_capable |  
+| bip_39_word_underscore_12 | hello_vote_employ_impulse_category_situate_maple_helmet_sausage_syrup_capable_ahead |  
+| bip_39_word_underscore_2 | hello_vote |  
+| bip_39_word_underscore_3 | hello_vote_employ |  
+| bip_39_word_underscore_4 | hello_vote_employ_impulse |  
+| bip_39_word_underscore_5 | hello_vote_employ_impulse_category |  
+| bip_39_word_underscore_6 | hello_vote_employ_impulse_category_situate |  
+| bip_39_word_underscore_7 | hello_vote_employ_impulse_category_situate_maple |  
+| bip_39_word_underscore_8 | hello_vote_employ_impulse_category_situate_maple_helmet |  
+| bip_39_word_underscore_9 | hello_vote_employ_impulse_category_situate_maple_helmet_sausage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

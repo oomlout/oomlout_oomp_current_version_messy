@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grocery |  
+| bip_39_word_dash_10 | grocery-source-ahead-drum-there-soft-mansion-session-cram-coil |  
+| bip_39_word_dash_11 | grocery-source-ahead-drum-there-soft-mansion-session-cram-coil-thrive |  
+| bip_39_word_dash_12 | grocery-source-ahead-drum-there-soft-mansion-session-cram-coil-thrive-arrange |  
+| bip_39_word_dash_2 | grocery-source |  
+| bip_39_word_dash_3 | grocery-source-ahead |  
+| bip_39_word_dash_4 | grocery-source-ahead-drum |  
+| bip_39_word_dash_5 | grocery-source-ahead-drum-there |  
+| bip_39_word_dash_6 | grocery-source-ahead-drum-there-soft |  
+| bip_39_word_dash_7 | grocery-source-ahead-drum-there-soft-mansion |  
+| bip_39_word_dash_8 | grocery-source-ahead-drum-there-soft-mansion-session |  
+| bip_39_word_dash_9 | grocery-source-ahead-drum-there-soft-mansion-session-cram |  
 | bip_39_word_new_br_1 | grocery |  
 | bip_39_word_new_br_10 | grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session<br>cram<br>coil |  
 | bip_39_word_new_br_11 | grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session<br>cram<br>coil<br>thrive |  
@@ -147,6 +159,18 @@ cram |
 | bip_39_word_space_7 | grocery source ahead drum there soft mansion |  
 | bip_39_word_space_8 | grocery source ahead drum there soft mansion session |  
 | bip_39_word_space_9 | grocery source ahead drum there soft mansion session cram |  
+| bip_39_word_underscore_1 | grocery |  
+| bip_39_word_underscore_10 | grocery_source_ahead_drum_there_soft_mansion_session_cram_coil |  
+| bip_39_word_underscore_11 | grocery_source_ahead_drum_there_soft_mansion_session_cram_coil_thrive |  
+| bip_39_word_underscore_12 | grocery_source_ahead_drum_there_soft_mansion_session_cram_coil_thrive_arrange |  
+| bip_39_word_underscore_2 | grocery_source |  
+| bip_39_word_underscore_3 | grocery_source_ahead |  
+| bip_39_word_underscore_4 | grocery_source_ahead_drum |  
+| bip_39_word_underscore_5 | grocery_source_ahead_drum_there |  
+| bip_39_word_underscore_6 | grocery_source_ahead_drum_there_soft |  
+| bip_39_word_underscore_7 | grocery_source_ahead_drum_there_soft_mansion |  
+| bip_39_word_underscore_8 | grocery_source_ahead_drum_there_soft_mansion_session |  
+| bip_39_word_underscore_9 | grocery_source_ahead_drum_there_soft_mansion_session_cram |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

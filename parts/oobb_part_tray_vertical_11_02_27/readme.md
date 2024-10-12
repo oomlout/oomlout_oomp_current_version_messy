@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nature |  
+| bip_39_word_dash_10 | nature-priority-multiply-wide-creek-acoustic-dream-frame-cable-valley |  
+| bip_39_word_dash_11 | nature-priority-multiply-wide-creek-acoustic-dream-frame-cable-valley-year |  
+| bip_39_word_dash_12 | nature-priority-multiply-wide-creek-acoustic-dream-frame-cable-valley-year-acoustic |  
+| bip_39_word_dash_2 | nature-priority |  
+| bip_39_word_dash_3 | nature-priority-multiply |  
+| bip_39_word_dash_4 | nature-priority-multiply-wide |  
+| bip_39_word_dash_5 | nature-priority-multiply-wide-creek |  
+| bip_39_word_dash_6 | nature-priority-multiply-wide-creek-acoustic |  
+| bip_39_word_dash_7 | nature-priority-multiply-wide-creek-acoustic-dream |  
+| bip_39_word_dash_8 | nature-priority-multiply-wide-creek-acoustic-dream-frame |  
+| bip_39_word_dash_9 | nature-priority-multiply-wide-creek-acoustic-dream-frame-cable |  
 | bip_39_word_new_br_1 | nature |  
 | bip_39_word_new_br_10 | nature<br>priority<br>multiply<br>wide<br>creek<br>acoustic<br>dream<br>frame<br>cable<br>valley |  
 | bip_39_word_new_br_11 | nature<br>priority<br>multiply<br>wide<br>creek<br>acoustic<br>dream<br>frame<br>cable<br>valley<br>year |  
@@ -147,6 +159,18 @@ cable |
 | bip_39_word_space_7 | nature priority multiply wide creek acoustic dream |  
 | bip_39_word_space_8 | nature priority multiply wide creek acoustic dream frame |  
 | bip_39_word_space_9 | nature priority multiply wide creek acoustic dream frame cable |  
+| bip_39_word_underscore_1 | nature |  
+| bip_39_word_underscore_10 | nature_priority_multiply_wide_creek_acoustic_dream_frame_cable_valley |  
+| bip_39_word_underscore_11 | nature_priority_multiply_wide_creek_acoustic_dream_frame_cable_valley_year |  
+| bip_39_word_underscore_12 | nature_priority_multiply_wide_creek_acoustic_dream_frame_cable_valley_year_acoustic |  
+| bip_39_word_underscore_2 | nature_priority |  
+| bip_39_word_underscore_3 | nature_priority_multiply |  
+| bip_39_word_underscore_4 | nature_priority_multiply_wide |  
+| bip_39_word_underscore_5 | nature_priority_multiply_wide_creek |  
+| bip_39_word_underscore_6 | nature_priority_multiply_wide_creek_acoustic |  
+| bip_39_word_underscore_7 | nature_priority_multiply_wide_creek_acoustic_dream |  
+| bip_39_word_underscore_8 | nature_priority_multiply_wide_creek_acoustic_dream_frame |  
+| bip_39_word_underscore_9 | nature_priority_multiply_wide_creek_acoustic_dream_frame_cable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

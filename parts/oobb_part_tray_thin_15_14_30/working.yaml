@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leisure
+bip_39_word_dash_10: leisure-anger-oblige-jungle-pelican-amused-face-life-economy-enrich
+bip_39_word_dash_11: leisure-anger-oblige-jungle-pelican-amused-face-life-economy-enrich-believe
+bip_39_word_dash_12: leisure-anger-oblige-jungle-pelican-amused-face-life-economy-enrich-believe-affair
+bip_39_word_dash_2: leisure-anger
+bip_39_word_dash_3: leisure-anger-oblige
+bip_39_word_dash_4: leisure-anger-oblige-jungle
+bip_39_word_dash_5: leisure-anger-oblige-jungle-pelican
+bip_39_word_dash_6: leisure-anger-oblige-jungle-pelican-amused
+bip_39_word_dash_7: leisure-anger-oblige-jungle-pelican-amused-face
+bip_39_word_dash_8: leisure-anger-oblige-jungle-pelican-amused-face-life
+bip_39_word_dash_9: leisure-anger-oblige-jungle-pelican-amused-face-life-economy
 bip_39_word_new_br_1: leisure
 bip_39_word_new_br_10: leisure<br>anger<br>oblige<br>jungle<br>pelican<br>amused<br>face<br>life<br>economy<br>enrich
 bip_39_word_new_br_11: leisure<br>anger<br>oblige<br>jungle<br>pelican<br>amused<br>face<br>life<br>economy<br>enrich<br>believe
@@ -194,6 +206,18 @@ bip_39_word_space_6: leisure anger oblige jungle pelican amused
 bip_39_word_space_7: leisure anger oblige jungle pelican amused face
 bip_39_word_space_8: leisure anger oblige jungle pelican amused face life
 bip_39_word_space_9: leisure anger oblige jungle pelican amused face life economy
+bip_39_word_underscore_1: leisure
+bip_39_word_underscore_10: leisure_anger_oblige_jungle_pelican_amused_face_life_economy_enrich
+bip_39_word_underscore_11: leisure_anger_oblige_jungle_pelican_amused_face_life_economy_enrich_believe
+bip_39_word_underscore_12: leisure_anger_oblige_jungle_pelican_amused_face_life_economy_enrich_believe_affair
+bip_39_word_underscore_2: leisure_anger
+bip_39_word_underscore_3: leisure_anger_oblige
+bip_39_word_underscore_4: leisure_anger_oblige_jungle
+bip_39_word_underscore_5: leisure_anger_oblige_jungle_pelican
+bip_39_word_underscore_6: leisure_anger_oblige_jungle_pelican_amused
+bip_39_word_underscore_7: leisure_anger_oblige_jungle_pelican_amused_face
+bip_39_word_underscore_8: leisure_anger_oblige_jungle_pelican_amused_face_life
+bip_39_word_underscore_9: leisure_anger_oblige_jungle_pelican_amused_face_life_economy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

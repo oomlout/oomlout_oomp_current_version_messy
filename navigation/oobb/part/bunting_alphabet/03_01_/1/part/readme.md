@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | member |  
+| bip_39_word_dash_10 | member-naive-case-assault-exclude-waste-admit-debris-ugly-toy |  
+| bip_39_word_dash_11 | member-naive-case-assault-exclude-waste-admit-debris-ugly-toy-this |  
+| bip_39_word_dash_12 | member-naive-case-assault-exclude-waste-admit-debris-ugly-toy-this-approve |  
+| bip_39_word_dash_2 | member-naive |  
+| bip_39_word_dash_3 | member-naive-case |  
+| bip_39_word_dash_4 | member-naive-case-assault |  
+| bip_39_word_dash_5 | member-naive-case-assault-exclude |  
+| bip_39_word_dash_6 | member-naive-case-assault-exclude-waste |  
+| bip_39_word_dash_7 | member-naive-case-assault-exclude-waste-admit |  
+| bip_39_word_dash_8 | member-naive-case-assault-exclude-waste-admit-debris |  
+| bip_39_word_dash_9 | member-naive-case-assault-exclude-waste-admit-debris-ugly |  
 | bip_39_word_new_br_1 | member |  
 | bip_39_word_new_br_10 | member<br>naive<br>case<br>assault<br>exclude<br>waste<br>admit<br>debris<br>ugly<br>toy |  
 | bip_39_word_new_br_11 | member<br>naive<br>case<br>assault<br>exclude<br>waste<br>admit<br>debris<br>ugly<br>toy<br>this |  
@@ -147,6 +159,18 @@ ugly |
 | bip_39_word_space_7 | member naive case assault exclude waste admit |  
 | bip_39_word_space_8 | member naive case assault exclude waste admit debris |  
 | bip_39_word_space_9 | member naive case assault exclude waste admit debris ugly |  
+| bip_39_word_underscore_1 | member |  
+| bip_39_word_underscore_10 | member_naive_case_assault_exclude_waste_admit_debris_ugly_toy |  
+| bip_39_word_underscore_11 | member_naive_case_assault_exclude_waste_admit_debris_ugly_toy_this |  
+| bip_39_word_underscore_12 | member_naive_case_assault_exclude_waste_admit_debris_ugly_toy_this_approve |  
+| bip_39_word_underscore_2 | member_naive |  
+| bip_39_word_underscore_3 | member_naive_case |  
+| bip_39_word_underscore_4 | member_naive_case_assault |  
+| bip_39_word_underscore_5 | member_naive_case_assault_exclude |  
+| bip_39_word_underscore_6 | member_naive_case_assault_exclude_waste |  
+| bip_39_word_underscore_7 | member_naive_case_assault_exclude_waste_admit |  
+| bip_39_word_underscore_8 | member_naive_case_assault_exclude_waste_admit_debris |  
+| bip_39_word_underscore_9 | member_naive_case_assault_exclude_waste_admit_debris_ugly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

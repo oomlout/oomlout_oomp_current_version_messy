@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cross
+bip_39_word_dash_10: cross-host-artefact-world-jealous-night-near-length-ticket-ring
+bip_39_word_dash_11: cross-host-artefact-world-jealous-night-near-length-ticket-ring-evidence
+bip_39_word_dash_12: cross-host-artefact-world-jealous-night-near-length-ticket-ring-evidence-average
+bip_39_word_dash_2: cross-host
+bip_39_word_dash_3: cross-host-artefact
+bip_39_word_dash_4: cross-host-artefact-world
+bip_39_word_dash_5: cross-host-artefact-world-jealous
+bip_39_word_dash_6: cross-host-artefact-world-jealous-night
+bip_39_word_dash_7: cross-host-artefact-world-jealous-night-near
+bip_39_word_dash_8: cross-host-artefact-world-jealous-night-near-length
+bip_39_word_dash_9: cross-host-artefact-world-jealous-night-near-length-ticket
 bip_39_word_new_br_1: cross
 bip_39_word_new_br_10: cross<br>host<br>artefact<br>world<br>jealous<br>night<br>near<br>length<br>ticket<br>ring
 bip_39_word_new_br_11: cross<br>host<br>artefact<br>world<br>jealous<br>night<br>near<br>length<br>ticket<br>ring<br>evidence
@@ -193,6 +205,18 @@ bip_39_word_space_6: cross host artefact world jealous night
 bip_39_word_space_7: cross host artefact world jealous night near
 bip_39_word_space_8: cross host artefact world jealous night near length
 bip_39_word_space_9: cross host artefact world jealous night near length ticket
+bip_39_word_underscore_1: cross
+bip_39_word_underscore_10: cross_host_artefact_world_jealous_night_near_length_ticket_ring
+bip_39_word_underscore_11: cross_host_artefact_world_jealous_night_near_length_ticket_ring_evidence
+bip_39_word_underscore_12: cross_host_artefact_world_jealous_night_near_length_ticket_ring_evidence_average
+bip_39_word_underscore_2: cross_host
+bip_39_word_underscore_3: cross_host_artefact
+bip_39_word_underscore_4: cross_host_artefact_world
+bip_39_word_underscore_5: cross_host_artefact_world_jealous
+bip_39_word_underscore_6: cross_host_artefact_world_jealous_night
+bip_39_word_underscore_7: cross_host_artefact_world_jealous_night_near
+bip_39_word_underscore_8: cross_host_artefact_world_jealous_night_near_length
+bip_39_word_underscore_9: cross_host_artefact_world_jealous_night_near_length_ticket
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exhaust
+bip_39_word_dash_10: exhaust-twist-connect-venture-crucial-change-must-teach-struggle-erosion
+bip_39_word_dash_11: exhaust-twist-connect-venture-crucial-change-must-teach-struggle-erosion-fly
+bip_39_word_dash_12: exhaust-twist-connect-venture-crucial-change-must-teach-struggle-erosion-fly-antenna
+bip_39_word_dash_2: exhaust-twist
+bip_39_word_dash_3: exhaust-twist-connect
+bip_39_word_dash_4: exhaust-twist-connect-venture
+bip_39_word_dash_5: exhaust-twist-connect-venture-crucial
+bip_39_word_dash_6: exhaust-twist-connect-venture-crucial-change
+bip_39_word_dash_7: exhaust-twist-connect-venture-crucial-change-must
+bip_39_word_dash_8: exhaust-twist-connect-venture-crucial-change-must-teach
+bip_39_word_dash_9: exhaust-twist-connect-venture-crucial-change-must-teach-struggle
 bip_39_word_new_br_1: exhaust
 bip_39_word_new_br_10: exhaust<br>twist<br>connect<br>venture<br>crucial<br>change<br>must<br>teach<br>struggle<br>erosion
 bip_39_word_new_br_11: exhaust<br>twist<br>connect<br>venture<br>crucial<br>change<br>must<br>teach<br>struggle<br>erosion<br>fly
@@ -194,6 +206,18 @@ bip_39_word_space_6: exhaust twist connect venture crucial change
 bip_39_word_space_7: exhaust twist connect venture crucial change must
 bip_39_word_space_8: exhaust twist connect venture crucial change must teach
 bip_39_word_space_9: exhaust twist connect venture crucial change must teach struggle
+bip_39_word_underscore_1: exhaust
+bip_39_word_underscore_10: exhaust_twist_connect_venture_crucial_change_must_teach_struggle_erosion
+bip_39_word_underscore_11: exhaust_twist_connect_venture_crucial_change_must_teach_struggle_erosion_fly
+bip_39_word_underscore_12: exhaust_twist_connect_venture_crucial_change_must_teach_struggle_erosion_fly_antenna
+bip_39_word_underscore_2: exhaust_twist
+bip_39_word_underscore_3: exhaust_twist_connect
+bip_39_word_underscore_4: exhaust_twist_connect_venture
+bip_39_word_underscore_5: exhaust_twist_connect_venture_crucial
+bip_39_word_underscore_6: exhaust_twist_connect_venture_crucial_change
+bip_39_word_underscore_7: exhaust_twist_connect_venture_crucial_change_must
+bip_39_word_underscore_8: exhaust_twist_connect_venture_crucial_change_must_teach
+bip_39_word_underscore_9: exhaust_twist_connect_venture_crucial_change_must_teach_struggle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

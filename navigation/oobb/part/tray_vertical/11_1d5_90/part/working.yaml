@@ -1,3 +1,15 @@
+bip_39_word_dash_1: that
+bip_39_word_dash_10: that-live-ocean-bounce-sunset-swallow-second-yellow-property-saddle
+bip_39_word_dash_11: that-live-ocean-bounce-sunset-swallow-second-yellow-property-saddle-diesel
+bip_39_word_dash_12: that-live-ocean-bounce-sunset-swallow-second-yellow-property-saddle-diesel-alley
+bip_39_word_dash_2: that-live
+bip_39_word_dash_3: that-live-ocean
+bip_39_word_dash_4: that-live-ocean-bounce
+bip_39_word_dash_5: that-live-ocean-bounce-sunset
+bip_39_word_dash_6: that-live-ocean-bounce-sunset-swallow
+bip_39_word_dash_7: that-live-ocean-bounce-sunset-swallow-second
+bip_39_word_dash_8: that-live-ocean-bounce-sunset-swallow-second-yellow
+bip_39_word_dash_9: that-live-ocean-bounce-sunset-swallow-second-yellow-property
 bip_39_word_new_br_1: that
 bip_39_word_new_br_10: that<br>live<br>ocean<br>bounce<br>sunset<br>swallow<br>second<br>yellow<br>property<br>saddle
 bip_39_word_new_br_11: that<br>live<br>ocean<br>bounce<br>sunset<br>swallow<br>second<br>yellow<br>property<br>saddle<br>diesel
@@ -194,6 +206,18 @@ bip_39_word_space_6: that live ocean bounce sunset swallow
 bip_39_word_space_7: that live ocean bounce sunset swallow second
 bip_39_word_space_8: that live ocean bounce sunset swallow second yellow
 bip_39_word_space_9: that live ocean bounce sunset swallow second yellow property
+bip_39_word_underscore_1: that
+bip_39_word_underscore_10: that_live_ocean_bounce_sunset_swallow_second_yellow_property_saddle
+bip_39_word_underscore_11: that_live_ocean_bounce_sunset_swallow_second_yellow_property_saddle_diesel
+bip_39_word_underscore_12: that_live_ocean_bounce_sunset_swallow_second_yellow_property_saddle_diesel_alley
+bip_39_word_underscore_2: that_live
+bip_39_word_underscore_3: that_live_ocean
+bip_39_word_underscore_4: that_live_ocean_bounce
+bip_39_word_underscore_5: that_live_ocean_bounce_sunset
+bip_39_word_underscore_6: that_live_ocean_bounce_sunset_swallow
+bip_39_word_underscore_7: that_live_ocean_bounce_sunset_swallow_second
+bip_39_word_underscore_8: that_live_ocean_bounce_sunset_swallow_second_yellow
+bip_39_word_underscore_9: that_live_ocean_bounce_sunset_swallow_second_yellow_property
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

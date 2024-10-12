@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | winter |  
+| bip_39_word_dash_10 | winter-slot-grow-puzzle-scale-zone-unfair-suffer-stadium-book |  
+| bip_39_word_dash_11 | winter-slot-grow-puzzle-scale-zone-unfair-suffer-stadium-book-style |  
+| bip_39_word_dash_12 | winter-slot-grow-puzzle-scale-zone-unfair-suffer-stadium-book-style-airport |  
+| bip_39_word_dash_2 | winter-slot |  
+| bip_39_word_dash_3 | winter-slot-grow |  
+| bip_39_word_dash_4 | winter-slot-grow-puzzle |  
+| bip_39_word_dash_5 | winter-slot-grow-puzzle-scale |  
+| bip_39_word_dash_6 | winter-slot-grow-puzzle-scale-zone |  
+| bip_39_word_dash_7 | winter-slot-grow-puzzle-scale-zone-unfair |  
+| bip_39_word_dash_8 | winter-slot-grow-puzzle-scale-zone-unfair-suffer |  
+| bip_39_word_dash_9 | winter-slot-grow-puzzle-scale-zone-unfair-suffer-stadium |  
 | bip_39_word_new_br_1 | winter |  
 | bip_39_word_new_br_10 | winter<br>slot<br>grow<br>puzzle<br>scale<br>zone<br>unfair<br>suffer<br>stadium<br>book |  
 | bip_39_word_new_br_11 | winter<br>slot<br>grow<br>puzzle<br>scale<br>zone<br>unfair<br>suffer<br>stadium<br>book<br>style |  
@@ -147,6 +159,18 @@ stadium |
 | bip_39_word_space_7 | winter slot grow puzzle scale zone unfair |  
 | bip_39_word_space_8 | winter slot grow puzzle scale zone unfair suffer |  
 | bip_39_word_space_9 | winter slot grow puzzle scale zone unfair suffer stadium |  
+| bip_39_word_underscore_1 | winter |  
+| bip_39_word_underscore_10 | winter_slot_grow_puzzle_scale_zone_unfair_suffer_stadium_book |  
+| bip_39_word_underscore_11 | winter_slot_grow_puzzle_scale_zone_unfair_suffer_stadium_book_style |  
+| bip_39_word_underscore_12 | winter_slot_grow_puzzle_scale_zone_unfair_suffer_stadium_book_style_airport |  
+| bip_39_word_underscore_2 | winter_slot |  
+| bip_39_word_underscore_3 | winter_slot_grow |  
+| bip_39_word_underscore_4 | winter_slot_grow_puzzle |  
+| bip_39_word_underscore_5 | winter_slot_grow_puzzle_scale |  
+| bip_39_word_underscore_6 | winter_slot_grow_puzzle_scale_zone |  
+| bip_39_word_underscore_7 | winter_slot_grow_puzzle_scale_zone_unfair |  
+| bip_39_word_underscore_8 | winter_slot_grow_puzzle_scale_zone_unfair_suffer |  
+| bip_39_word_underscore_9 | winter_slot_grow_puzzle_scale_zone_unfair_suffer_stadium |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

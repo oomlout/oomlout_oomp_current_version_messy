@@ -1,3 +1,15 @@
+bip_39_word_dash_1: junk
+bip_39_word_dash_10: junk-pupil-harbor-unknown-husband-maximum-way-flower-shift-edit
+bip_39_word_dash_11: junk-pupil-harbor-unknown-husband-maximum-way-flower-shift-edit-cup
+bip_39_word_dash_12: junk-pupil-harbor-unknown-husband-maximum-way-flower-shift-edit-cup-anger
+bip_39_word_dash_2: junk-pupil
+bip_39_word_dash_3: junk-pupil-harbor
+bip_39_word_dash_4: junk-pupil-harbor-unknown
+bip_39_word_dash_5: junk-pupil-harbor-unknown-husband
+bip_39_word_dash_6: junk-pupil-harbor-unknown-husband-maximum
+bip_39_word_dash_7: junk-pupil-harbor-unknown-husband-maximum-way
+bip_39_word_dash_8: junk-pupil-harbor-unknown-husband-maximum-way-flower
+bip_39_word_dash_9: junk-pupil-harbor-unknown-husband-maximum-way-flower-shift
 bip_39_word_new_br_1: junk
 bip_39_word_new_br_10: junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower<br>shift<br>edit
 bip_39_word_new_br_11: junk<br>pupil<br>harbor<br>unknown<br>husband<br>maximum<br>way<br>flower<br>shift<br>edit<br>cup
@@ -193,6 +205,18 @@ bip_39_word_space_6: junk pupil harbor unknown husband maximum
 bip_39_word_space_7: junk pupil harbor unknown husband maximum way
 bip_39_word_space_8: junk pupil harbor unknown husband maximum way flower
 bip_39_word_space_9: junk pupil harbor unknown husband maximum way flower shift
+bip_39_word_underscore_1: junk
+bip_39_word_underscore_10: junk_pupil_harbor_unknown_husband_maximum_way_flower_shift_edit
+bip_39_word_underscore_11: junk_pupil_harbor_unknown_husband_maximum_way_flower_shift_edit_cup
+bip_39_word_underscore_12: junk_pupil_harbor_unknown_husband_maximum_way_flower_shift_edit_cup_anger
+bip_39_word_underscore_2: junk_pupil
+bip_39_word_underscore_3: junk_pupil_harbor
+bip_39_word_underscore_4: junk_pupil_harbor_unknown
+bip_39_word_underscore_5: junk_pupil_harbor_unknown_husband
+bip_39_word_underscore_6: junk_pupil_harbor_unknown_husband_maximum
+bip_39_word_underscore_7: junk_pupil_harbor_unknown_husband_maximum_way
+bip_39_word_underscore_8: junk_pupil_harbor_unknown_husband_maximum_way_flower
+bip_39_word_underscore_9: junk_pupil_harbor_unknown_husband_maximum_way_flower_shift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | venture |  
+| bip_39_word_dash_10 | venture-nation-kit-defense-swap-head-match-october-seek-brisk |  
+| bip_39_word_dash_11 | venture-nation-kit-defense-swap-head-match-october-seek-brisk-unit |  
+| bip_39_word_dash_12 | venture-nation-kit-defense-swap-head-match-october-seek-brisk-unit-army |  
+| bip_39_word_dash_2 | venture-nation |  
+| bip_39_word_dash_3 | venture-nation-kit |  
+| bip_39_word_dash_4 | venture-nation-kit-defense |  
+| bip_39_word_dash_5 | venture-nation-kit-defense-swap |  
+| bip_39_word_dash_6 | venture-nation-kit-defense-swap-head |  
+| bip_39_word_dash_7 | venture-nation-kit-defense-swap-head-match |  
+| bip_39_word_dash_8 | venture-nation-kit-defense-swap-head-match-october |  
+| bip_39_word_dash_9 | venture-nation-kit-defense-swap-head-match-october-seek |  
 | bip_39_word_new_br_1 | venture |  
 | bip_39_word_new_br_10 | venture<br>nation<br>kit<br>defense<br>swap<br>head<br>match<br>october<br>seek<br>brisk |  
 | bip_39_word_new_br_11 | venture<br>nation<br>kit<br>defense<br>swap<br>head<br>match<br>october<br>seek<br>brisk<br>unit |  
@@ -147,6 +159,18 @@ seek |
 | bip_39_word_space_7 | venture nation kit defense swap head match |  
 | bip_39_word_space_8 | venture nation kit defense swap head match october |  
 | bip_39_word_space_9 | venture nation kit defense swap head match october seek |  
+| bip_39_word_underscore_1 | venture |  
+| bip_39_word_underscore_10 | venture_nation_kit_defense_swap_head_match_october_seek_brisk |  
+| bip_39_word_underscore_11 | venture_nation_kit_defense_swap_head_match_october_seek_brisk_unit |  
+| bip_39_word_underscore_12 | venture_nation_kit_defense_swap_head_match_october_seek_brisk_unit_army |  
+| bip_39_word_underscore_2 | venture_nation |  
+| bip_39_word_underscore_3 | venture_nation_kit |  
+| bip_39_word_underscore_4 | venture_nation_kit_defense |  
+| bip_39_word_underscore_5 | venture_nation_kit_defense_swap |  
+| bip_39_word_underscore_6 | venture_nation_kit_defense_swap_head |  
+| bip_39_word_underscore_7 | venture_nation_kit_defense_swap_head_match |  
+| bip_39_word_underscore_8 | venture_nation_kit_defense_swap_head_match_october |  
+| bip_39_word_underscore_9 | venture_nation_kit_defense_swap_head_match_october_seek |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

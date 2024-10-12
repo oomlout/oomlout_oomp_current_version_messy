@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | acquire |  
+| bip_39_word_dash_10 | acquire-fluid-vehicle-jewel-build-frost-frog-february-pride-machine |  
+| bip_39_word_dash_11 | acquire-fluid-vehicle-jewel-build-frost-frog-february-pride-machine-garden |  
+| bip_39_word_dash_12 | acquire-fluid-vehicle-jewel-build-frost-frog-february-pride-machine-garden-about |  
+| bip_39_word_dash_2 | acquire-fluid |  
+| bip_39_word_dash_3 | acquire-fluid-vehicle |  
+| bip_39_word_dash_4 | acquire-fluid-vehicle-jewel |  
+| bip_39_word_dash_5 | acquire-fluid-vehicle-jewel-build |  
+| bip_39_word_dash_6 | acquire-fluid-vehicle-jewel-build-frost |  
+| bip_39_word_dash_7 | acquire-fluid-vehicle-jewel-build-frost-frog |  
+| bip_39_word_dash_8 | acquire-fluid-vehicle-jewel-build-frost-frog-february |  
+| bip_39_word_dash_9 | acquire-fluid-vehicle-jewel-build-frost-frog-february-pride |  
 | bip_39_word_new_br_1 | acquire |  
 | bip_39_word_new_br_10 | acquire<br>fluid<br>vehicle<br>jewel<br>build<br>frost<br>frog<br>february<br>pride<br>machine |  
 | bip_39_word_new_br_11 | acquire<br>fluid<br>vehicle<br>jewel<br>build<br>frost<br>frog<br>february<br>pride<br>machine<br>garden |  
@@ -147,6 +159,18 @@ pride |
 | bip_39_word_space_7 | acquire fluid vehicle jewel build frost frog |  
 | bip_39_word_space_8 | acquire fluid vehicle jewel build frost frog february |  
 | bip_39_word_space_9 | acquire fluid vehicle jewel build frost frog february pride |  
+| bip_39_word_underscore_1 | acquire |  
+| bip_39_word_underscore_10 | acquire_fluid_vehicle_jewel_build_frost_frog_february_pride_machine |  
+| bip_39_word_underscore_11 | acquire_fluid_vehicle_jewel_build_frost_frog_february_pride_machine_garden |  
+| bip_39_word_underscore_12 | acquire_fluid_vehicle_jewel_build_frost_frog_february_pride_machine_garden_about |  
+| bip_39_word_underscore_2 | acquire_fluid |  
+| bip_39_word_underscore_3 | acquire_fluid_vehicle |  
+| bip_39_word_underscore_4 | acquire_fluid_vehicle_jewel |  
+| bip_39_word_underscore_5 | acquire_fluid_vehicle_jewel_build |  
+| bip_39_word_underscore_6 | acquire_fluid_vehicle_jewel_build_frost |  
+| bip_39_word_underscore_7 | acquire_fluid_vehicle_jewel_build_frost_frog |  
+| bip_39_word_underscore_8 | acquire_fluid_vehicle_jewel_build_frost_frog_february |  
+| bip_39_word_underscore_9 | acquire_fluid_vehicle_jewel_build_frost_frog_february_pride |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

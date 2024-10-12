@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coffee |  
+| bip_39_word_dash_10 | coffee-horse-address-orchard-say-list-bid-school-domain-door |  
+| bip_39_word_dash_11 | coffee-horse-address-orchard-say-list-bid-school-domain-door-govern |  
+| bip_39_word_dash_12 | coffee-horse-address-orchard-say-list-bid-school-domain-door-govern-abstract |  
+| bip_39_word_dash_2 | coffee-horse |  
+| bip_39_word_dash_3 | coffee-horse-address |  
+| bip_39_word_dash_4 | coffee-horse-address-orchard |  
+| bip_39_word_dash_5 | coffee-horse-address-orchard-say |  
+| bip_39_word_dash_6 | coffee-horse-address-orchard-say-list |  
+| bip_39_word_dash_7 | coffee-horse-address-orchard-say-list-bid |  
+| bip_39_word_dash_8 | coffee-horse-address-orchard-say-list-bid-school |  
+| bip_39_word_dash_9 | coffee-horse-address-orchard-say-list-bid-school-domain |  
 | bip_39_word_new_br_1 | coffee |  
 | bip_39_word_new_br_10 | coffee<br>horse<br>address<br>orchard<br>say<br>list<br>bid<br>school<br>domain<br>door |  
 | bip_39_word_new_br_11 | coffee<br>horse<br>address<br>orchard<br>say<br>list<br>bid<br>school<br>domain<br>door<br>govern |  
@@ -147,6 +159,18 @@ domain |
 | bip_39_word_space_7 | coffee horse address orchard say list bid |  
 | bip_39_word_space_8 | coffee horse address orchard say list bid school |  
 | bip_39_word_space_9 | coffee horse address orchard say list bid school domain |  
+| bip_39_word_underscore_1 | coffee |  
+| bip_39_word_underscore_10 | coffee_horse_address_orchard_say_list_bid_school_domain_door |  
+| bip_39_word_underscore_11 | coffee_horse_address_orchard_say_list_bid_school_domain_door_govern |  
+| bip_39_word_underscore_12 | coffee_horse_address_orchard_say_list_bid_school_domain_door_govern_abstract |  
+| bip_39_word_underscore_2 | coffee_horse |  
+| bip_39_word_underscore_3 | coffee_horse_address |  
+| bip_39_word_underscore_4 | coffee_horse_address_orchard |  
+| bip_39_word_underscore_5 | coffee_horse_address_orchard_say |  
+| bip_39_word_underscore_6 | coffee_horse_address_orchard_say_list |  
+| bip_39_word_underscore_7 | coffee_horse_address_orchard_say_list_bid |  
+| bip_39_word_underscore_8 | coffee_horse_address_orchard_say_list_bid_school |  
+| bip_39_word_underscore_9 | coffee_horse_address_orchard_say_list_bid_school_domain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

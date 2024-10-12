@@ -1,3 +1,15 @@
+bip_39_word_dash_1: either
+bip_39_word_dash_10: either-sleep-mountain-train-sentence-approve-burst-husband-brain-sustain
+bip_39_word_dash_11: either-sleep-mountain-train-sentence-approve-burst-husband-brain-sustain-harbor
+bip_39_word_dash_12: either-sleep-mountain-train-sentence-approve-burst-husband-brain-sustain-harbor-aim
+bip_39_word_dash_2: either-sleep
+bip_39_word_dash_3: either-sleep-mountain
+bip_39_word_dash_4: either-sleep-mountain-train
+bip_39_word_dash_5: either-sleep-mountain-train-sentence
+bip_39_word_dash_6: either-sleep-mountain-train-sentence-approve
+bip_39_word_dash_7: either-sleep-mountain-train-sentence-approve-burst
+bip_39_word_dash_8: either-sleep-mountain-train-sentence-approve-burst-husband
+bip_39_word_dash_9: either-sleep-mountain-train-sentence-approve-burst-husband-brain
 bip_39_word_new_br_1: either
 bip_39_word_new_br_10: either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain
 bip_39_word_new_br_11: either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain<br>harbor
@@ -194,6 +206,18 @@ bip_39_word_space_6: either sleep mountain train sentence approve
 bip_39_word_space_7: either sleep mountain train sentence approve burst
 bip_39_word_space_8: either sleep mountain train sentence approve burst husband
 bip_39_word_space_9: either sleep mountain train sentence approve burst husband brain
+bip_39_word_underscore_1: either
+bip_39_word_underscore_10: either_sleep_mountain_train_sentence_approve_burst_husband_brain_sustain
+bip_39_word_underscore_11: either_sleep_mountain_train_sentence_approve_burst_husband_brain_sustain_harbor
+bip_39_word_underscore_12: either_sleep_mountain_train_sentence_approve_burst_husband_brain_sustain_harbor_aim
+bip_39_word_underscore_2: either_sleep
+bip_39_word_underscore_3: either_sleep_mountain
+bip_39_word_underscore_4: either_sleep_mountain_train
+bip_39_word_underscore_5: either_sleep_mountain_train_sentence
+bip_39_word_underscore_6: either_sleep_mountain_train_sentence_approve
+bip_39_word_underscore_7: either_sleep_mountain_train_sentence_approve_burst
+bip_39_word_underscore_8: either_sleep_mountain_train_sentence_approve_burst_husband
+bip_39_word_underscore_9: either_sleep_mountain_train_sentence_approve_burst_husband_brain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

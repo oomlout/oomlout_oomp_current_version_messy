@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shy |  
+| bip_39_word_dash_10 | shy-trouble-table-ginger-other-artist-sketch-response-employ-holiday |  
+| bip_39_word_dash_11 | shy-trouble-table-ginger-other-artist-sketch-response-employ-holiday-bind |  
+| bip_39_word_dash_12 | shy-trouble-table-ginger-other-artist-sketch-response-employ-holiday-bind-all |  
+| bip_39_word_dash_2 | shy-trouble |  
+| bip_39_word_dash_3 | shy-trouble-table |  
+| bip_39_word_dash_4 | shy-trouble-table-ginger |  
+| bip_39_word_dash_5 | shy-trouble-table-ginger-other |  
+| bip_39_word_dash_6 | shy-trouble-table-ginger-other-artist |  
+| bip_39_word_dash_7 | shy-trouble-table-ginger-other-artist-sketch |  
+| bip_39_word_dash_8 | shy-trouble-table-ginger-other-artist-sketch-response |  
+| bip_39_word_dash_9 | shy-trouble-table-ginger-other-artist-sketch-response-employ |  
 | bip_39_word_new_br_1 | shy |  
 | bip_39_word_new_br_10 | shy<br>trouble<br>table<br>ginger<br>other<br>artist<br>sketch<br>response<br>employ<br>holiday |  
 | bip_39_word_new_br_11 | shy<br>trouble<br>table<br>ginger<br>other<br>artist<br>sketch<br>response<br>employ<br>holiday<br>bind |  
@@ -147,6 +159,18 @@ employ |
 | bip_39_word_space_7 | shy trouble table ginger other artist sketch |  
 | bip_39_word_space_8 | shy trouble table ginger other artist sketch response |  
 | bip_39_word_space_9 | shy trouble table ginger other artist sketch response employ |  
+| bip_39_word_underscore_1 | shy |  
+| bip_39_word_underscore_10 | shy_trouble_table_ginger_other_artist_sketch_response_employ_holiday |  
+| bip_39_word_underscore_11 | shy_trouble_table_ginger_other_artist_sketch_response_employ_holiday_bind |  
+| bip_39_word_underscore_12 | shy_trouble_table_ginger_other_artist_sketch_response_employ_holiday_bind_all |  
+| bip_39_word_underscore_2 | shy_trouble |  
+| bip_39_word_underscore_3 | shy_trouble_table |  
+| bip_39_word_underscore_4 | shy_trouble_table_ginger |  
+| bip_39_word_underscore_5 | shy_trouble_table_ginger_other |  
+| bip_39_word_underscore_6 | shy_trouble_table_ginger_other_artist |  
+| bip_39_word_underscore_7 | shy_trouble_table_ginger_other_artist_sketch |  
+| bip_39_word_underscore_8 | shy_trouble_table_ginger_other_artist_sketch_response |  
+| bip_39_word_underscore_9 | shy_trouble_table_ginger_other_artist_sketch_response_employ |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

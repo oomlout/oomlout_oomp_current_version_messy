@@ -1,3 +1,15 @@
+bip_39_word_dash_1: end
+bip_39_word_dash_10: end-recipe-ring-cruel-wrong-blood-gasp-clog-swap-film
+bip_39_word_dash_11: end-recipe-ring-cruel-wrong-blood-gasp-clog-swap-film-taxi
+bip_39_word_dash_12: end-recipe-ring-cruel-wrong-blood-gasp-clog-swap-film-taxi-agent
+bip_39_word_dash_2: end-recipe
+bip_39_word_dash_3: end-recipe-ring
+bip_39_word_dash_4: end-recipe-ring-cruel
+bip_39_word_dash_5: end-recipe-ring-cruel-wrong
+bip_39_word_dash_6: end-recipe-ring-cruel-wrong-blood
+bip_39_word_dash_7: end-recipe-ring-cruel-wrong-blood-gasp
+bip_39_word_dash_8: end-recipe-ring-cruel-wrong-blood-gasp-clog
+bip_39_word_dash_9: end-recipe-ring-cruel-wrong-blood-gasp-clog-swap
 bip_39_word_new_br_1: end
 bip_39_word_new_br_10: end<br>recipe<br>ring<br>cruel<br>wrong<br>blood<br>gasp<br>clog<br>swap<br>film
 bip_39_word_new_br_11: end<br>recipe<br>ring<br>cruel<br>wrong<br>blood<br>gasp<br>clog<br>swap<br>film<br>taxi
@@ -191,6 +203,18 @@ bip_39_word_space_6: end recipe ring cruel wrong blood
 bip_39_word_space_7: end recipe ring cruel wrong blood gasp
 bip_39_word_space_8: end recipe ring cruel wrong blood gasp clog
 bip_39_word_space_9: end recipe ring cruel wrong blood gasp clog swap
+bip_39_word_underscore_1: end
+bip_39_word_underscore_10: end_recipe_ring_cruel_wrong_blood_gasp_clog_swap_film
+bip_39_word_underscore_11: end_recipe_ring_cruel_wrong_blood_gasp_clog_swap_film_taxi
+bip_39_word_underscore_12: end_recipe_ring_cruel_wrong_blood_gasp_clog_swap_film_taxi_agent
+bip_39_word_underscore_2: end_recipe
+bip_39_word_underscore_3: end_recipe_ring
+bip_39_word_underscore_4: end_recipe_ring_cruel
+bip_39_word_underscore_5: end_recipe_ring_cruel_wrong
+bip_39_word_underscore_6: end_recipe_ring_cruel_wrong_blood
+bip_39_word_underscore_7: end_recipe_ring_cruel_wrong_blood_gasp
+bip_39_word_underscore_8: end_recipe_ring_cruel_wrong_blood_gasp_clog
+bip_39_word_underscore_9: end_recipe_ring_cruel_wrong_blood_gasp_clog_swap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

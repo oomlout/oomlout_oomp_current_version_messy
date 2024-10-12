@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | match |  
+| bip_39_word_dash_10 | match-candy-come-universe-alert-nothing-cake-guitar-wonder-volume |  
+| bip_39_word_dash_11 | match-candy-come-universe-alert-nothing-cake-guitar-wonder-volume-dose |  
+| bip_39_word_dash_12 | match-candy-come-universe-alert-nothing-cake-guitar-wonder-volume-dose-autumn |  
+| bip_39_word_dash_2 | match-candy |  
+| bip_39_word_dash_3 | match-candy-come |  
+| bip_39_word_dash_4 | match-candy-come-universe |  
+| bip_39_word_dash_5 | match-candy-come-universe-alert |  
+| bip_39_word_dash_6 | match-candy-come-universe-alert-nothing |  
+| bip_39_word_dash_7 | match-candy-come-universe-alert-nothing-cake |  
+| bip_39_word_dash_8 | match-candy-come-universe-alert-nothing-cake-guitar |  
+| bip_39_word_dash_9 | match-candy-come-universe-alert-nothing-cake-guitar-wonder |  
 | bip_39_word_new_br_1 | match |  
 | bip_39_word_new_br_10 | match<br>candy<br>come<br>universe<br>alert<br>nothing<br>cake<br>guitar<br>wonder<br>volume |  
 | bip_39_word_new_br_11 | match<br>candy<br>come<br>universe<br>alert<br>nothing<br>cake<br>guitar<br>wonder<br>volume<br>dose |  
@@ -147,6 +159,18 @@ wonder |
 | bip_39_word_space_7 | match candy come universe alert nothing cake |  
 | bip_39_word_space_8 | match candy come universe alert nothing cake guitar |  
 | bip_39_word_space_9 | match candy come universe alert nothing cake guitar wonder |  
+| bip_39_word_underscore_1 | match |  
+| bip_39_word_underscore_10 | match_candy_come_universe_alert_nothing_cake_guitar_wonder_volume |  
+| bip_39_word_underscore_11 | match_candy_come_universe_alert_nothing_cake_guitar_wonder_volume_dose |  
+| bip_39_word_underscore_12 | match_candy_come_universe_alert_nothing_cake_guitar_wonder_volume_dose_autumn |  
+| bip_39_word_underscore_2 | match_candy |  
+| bip_39_word_underscore_3 | match_candy_come |  
+| bip_39_word_underscore_4 | match_candy_come_universe |  
+| bip_39_word_underscore_5 | match_candy_come_universe_alert |  
+| bip_39_word_underscore_6 | match_candy_come_universe_alert_nothing |  
+| bip_39_word_underscore_7 | match_candy_come_universe_alert_nothing_cake |  
+| bip_39_word_underscore_8 | match_candy_come_universe_alert_nothing_cake_guitar |  
+| bip_39_word_underscore_9 | match_candy_come_universe_alert_nothing_cake_guitar_wonder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

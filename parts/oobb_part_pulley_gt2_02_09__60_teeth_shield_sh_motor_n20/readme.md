@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soup |  
+| bip_39_word_dash_10 | soup-olive-cement-hill-toss-talk-infant-river-mesh-fatigue |  
+| bip_39_word_dash_11 | soup-olive-cement-hill-toss-talk-infant-river-mesh-fatigue-find |  
+| bip_39_word_dash_12 | soup-olive-cement-hill-toss-talk-infant-river-mesh-fatigue-find-arena |  
+| bip_39_word_dash_2 | soup-olive |  
+| bip_39_word_dash_3 | soup-olive-cement |  
+| bip_39_word_dash_4 | soup-olive-cement-hill |  
+| bip_39_word_dash_5 | soup-olive-cement-hill-toss |  
+| bip_39_word_dash_6 | soup-olive-cement-hill-toss-talk |  
+| bip_39_word_dash_7 | soup-olive-cement-hill-toss-talk-infant |  
+| bip_39_word_dash_8 | soup-olive-cement-hill-toss-talk-infant-river |  
+| bip_39_word_dash_9 | soup-olive-cement-hill-toss-talk-infant-river-mesh |  
 | bip_39_word_new_br_1 | soup |  
 | bip_39_word_new_br_10 | soup<br>olive<br>cement<br>hill<br>toss<br>talk<br>infant<br>river<br>mesh<br>fatigue |  
 | bip_39_word_new_br_11 | soup<br>olive<br>cement<br>hill<br>toss<br>talk<br>infant<br>river<br>mesh<br>fatigue<br>find |  
@@ -147,6 +159,18 @@ mesh |
 | bip_39_word_space_7 | soup olive cement hill toss talk infant |  
 | bip_39_word_space_8 | soup olive cement hill toss talk infant river |  
 | bip_39_word_space_9 | soup olive cement hill toss talk infant river mesh |  
+| bip_39_word_underscore_1 | soup |  
+| bip_39_word_underscore_10 | soup_olive_cement_hill_toss_talk_infant_river_mesh_fatigue |  
+| bip_39_word_underscore_11 | soup_olive_cement_hill_toss_talk_infant_river_mesh_fatigue_find |  
+| bip_39_word_underscore_12 | soup_olive_cement_hill_toss_talk_infant_river_mesh_fatigue_find_arena |  
+| bip_39_word_underscore_2 | soup_olive |  
+| bip_39_word_underscore_3 | soup_olive_cement |  
+| bip_39_word_underscore_4 | soup_olive_cement_hill |  
+| bip_39_word_underscore_5 | soup_olive_cement_hill_toss |  
+| bip_39_word_underscore_6 | soup_olive_cement_hill_toss_talk |  
+| bip_39_word_underscore_7 | soup_olive_cement_hill_toss_talk_infant |  
+| bip_39_word_underscore_8 | soup_olive_cement_hill_toss_talk_infant_river |  
+| bip_39_word_underscore_9 | soup_olive_cement_hill_toss_talk_infant_river_mesh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

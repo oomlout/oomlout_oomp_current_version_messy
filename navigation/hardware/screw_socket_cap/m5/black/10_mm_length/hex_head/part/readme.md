@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | camp |  
+| bip_39_word_dash_10 | camp-stool-beach-dizzy-direct-repeat-lounge-dove-chair-wrestle |  
+| bip_39_word_dash_11 | camp-stool-beach-dizzy-direct-repeat-lounge-dove-chair-wrestle-episode |  
+| bip_39_word_dash_12 | camp-stool-beach-dizzy-direct-repeat-lounge-dove-chair-wrestle-episode-alone |  
+| bip_39_word_dash_2 | camp-stool |  
+| bip_39_word_dash_3 | camp-stool-beach |  
+| bip_39_word_dash_4 | camp-stool-beach-dizzy |  
+| bip_39_word_dash_5 | camp-stool-beach-dizzy-direct |  
+| bip_39_word_dash_6 | camp-stool-beach-dizzy-direct-repeat |  
+| bip_39_word_dash_7 | camp-stool-beach-dizzy-direct-repeat-lounge |  
+| bip_39_word_dash_8 | camp-stool-beach-dizzy-direct-repeat-lounge-dove |  
+| bip_39_word_dash_9 | camp-stool-beach-dizzy-direct-repeat-lounge-dove-chair |  
 | bip_39_word_new_br_1 | camp |  
 | bip_39_word_new_br_10 | camp<br>stool<br>beach<br>dizzy<br>direct<br>repeat<br>lounge<br>dove<br>chair<br>wrestle |  
 | bip_39_word_new_br_11 | camp<br>stool<br>beach<br>dizzy<br>direct<br>repeat<br>lounge<br>dove<br>chair<br>wrestle<br>episode |  
@@ -147,6 +159,18 @@ chair |
 | bip_39_word_space_7 | camp stool beach dizzy direct repeat lounge |  
 | bip_39_word_space_8 | camp stool beach dizzy direct repeat lounge dove |  
 | bip_39_word_space_9 | camp stool beach dizzy direct repeat lounge dove chair |  
+| bip_39_word_underscore_1 | camp |  
+| bip_39_word_underscore_10 | camp_stool_beach_dizzy_direct_repeat_lounge_dove_chair_wrestle |  
+| bip_39_word_underscore_11 | camp_stool_beach_dizzy_direct_repeat_lounge_dove_chair_wrestle_episode |  
+| bip_39_word_underscore_12 | camp_stool_beach_dizzy_direct_repeat_lounge_dove_chair_wrestle_episode_alone |  
+| bip_39_word_underscore_2 | camp_stool |  
+| bip_39_word_underscore_3 | camp_stool_beach |  
+| bip_39_word_underscore_4 | camp_stool_beach_dizzy |  
+| bip_39_word_underscore_5 | camp_stool_beach_dizzy_direct |  
+| bip_39_word_underscore_6 | camp_stool_beach_dizzy_direct_repeat |  
+| bip_39_word_underscore_7 | camp_stool_beach_dizzy_direct_repeat_lounge |  
+| bip_39_word_underscore_8 | camp_stool_beach_dizzy_direct_repeat_lounge_dove |  
+| bip_39_word_underscore_9 | camp_stool_beach_dizzy_direct_repeat_lounge_dove_chair |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

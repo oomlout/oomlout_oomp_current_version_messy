@@ -1,3 +1,15 @@
+bip_39_word_dash_1: anxiety
+bip_39_word_dash_10: anxiety-ask-margin-wrestle-picnic-wash-spin-move-puppy-thank
+bip_39_word_dash_11: anxiety-ask-margin-wrestle-picnic-wash-spin-move-puppy-thank-brother
+bip_39_word_dash_12: anxiety-ask-margin-wrestle-picnic-wash-spin-move-puppy-thank-brother-addict
+bip_39_word_dash_2: anxiety-ask
+bip_39_word_dash_3: anxiety-ask-margin
+bip_39_word_dash_4: anxiety-ask-margin-wrestle
+bip_39_word_dash_5: anxiety-ask-margin-wrestle-picnic
+bip_39_word_dash_6: anxiety-ask-margin-wrestle-picnic-wash
+bip_39_word_dash_7: anxiety-ask-margin-wrestle-picnic-wash-spin
+bip_39_word_dash_8: anxiety-ask-margin-wrestle-picnic-wash-spin-move
+bip_39_word_dash_9: anxiety-ask-margin-wrestle-picnic-wash-spin-move-puppy
 bip_39_word_new_br_1: anxiety
 bip_39_word_new_br_10: anxiety<br>ask<br>margin<br>wrestle<br>picnic<br>wash<br>spin<br>move<br>puppy<br>thank
 bip_39_word_new_br_11: anxiety<br>ask<br>margin<br>wrestle<br>picnic<br>wash<br>spin<br>move<br>puppy<br>thank<br>brother
@@ -193,6 +205,18 @@ bip_39_word_space_6: anxiety ask margin wrestle picnic wash
 bip_39_word_space_7: anxiety ask margin wrestle picnic wash spin
 bip_39_word_space_8: anxiety ask margin wrestle picnic wash spin move
 bip_39_word_space_9: anxiety ask margin wrestle picnic wash spin move puppy
+bip_39_word_underscore_1: anxiety
+bip_39_word_underscore_10: anxiety_ask_margin_wrestle_picnic_wash_spin_move_puppy_thank
+bip_39_word_underscore_11: anxiety_ask_margin_wrestle_picnic_wash_spin_move_puppy_thank_brother
+bip_39_word_underscore_12: anxiety_ask_margin_wrestle_picnic_wash_spin_move_puppy_thank_brother_addict
+bip_39_word_underscore_2: anxiety_ask
+bip_39_word_underscore_3: anxiety_ask_margin
+bip_39_word_underscore_4: anxiety_ask_margin_wrestle
+bip_39_word_underscore_5: anxiety_ask_margin_wrestle_picnic
+bip_39_word_underscore_6: anxiety_ask_margin_wrestle_picnic_wash
+bip_39_word_underscore_7: anxiety_ask_margin_wrestle_picnic_wash_spin
+bip_39_word_underscore_8: anxiety_ask_margin_wrestle_picnic_wash_spin_move
+bip_39_word_underscore_9: anxiety_ask_margin_wrestle_picnic_wash_spin_move_puppy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

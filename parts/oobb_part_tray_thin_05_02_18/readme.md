@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dad |  
+| bip_39_word_dash_10 | dad-frequent-almost-amount-laundry-dirt-luggage-crisp-curtain-light |  
+| bip_39_word_dash_11 | dad-frequent-almost-amount-laundry-dirt-luggage-crisp-curtain-light-kingdom |  
+| bip_39_word_dash_12 | dad-frequent-almost-amount-laundry-dirt-luggage-crisp-curtain-light-kingdom-apology |  
+| bip_39_word_dash_2 | dad-frequent |  
+| bip_39_word_dash_3 | dad-frequent-almost |  
+| bip_39_word_dash_4 | dad-frequent-almost-amount |  
+| bip_39_word_dash_5 | dad-frequent-almost-amount-laundry |  
+| bip_39_word_dash_6 | dad-frequent-almost-amount-laundry-dirt |  
+| bip_39_word_dash_7 | dad-frequent-almost-amount-laundry-dirt-luggage |  
+| bip_39_word_dash_8 | dad-frequent-almost-amount-laundry-dirt-luggage-crisp |  
+| bip_39_word_dash_9 | dad-frequent-almost-amount-laundry-dirt-luggage-crisp-curtain |  
 | bip_39_word_new_br_1 | dad |  
 | bip_39_word_new_br_10 | dad<br>frequent<br>almost<br>amount<br>laundry<br>dirt<br>luggage<br>crisp<br>curtain<br>light |  
 | bip_39_word_new_br_11 | dad<br>frequent<br>almost<br>amount<br>laundry<br>dirt<br>luggage<br>crisp<br>curtain<br>light<br>kingdom |  
@@ -147,6 +159,18 @@ curtain |
 | bip_39_word_space_7 | dad frequent almost amount laundry dirt luggage |  
 | bip_39_word_space_8 | dad frequent almost amount laundry dirt luggage crisp |  
 | bip_39_word_space_9 | dad frequent almost amount laundry dirt luggage crisp curtain |  
+| bip_39_word_underscore_1 | dad |  
+| bip_39_word_underscore_10 | dad_frequent_almost_amount_laundry_dirt_luggage_crisp_curtain_light |  
+| bip_39_word_underscore_11 | dad_frequent_almost_amount_laundry_dirt_luggage_crisp_curtain_light_kingdom |  
+| bip_39_word_underscore_12 | dad_frequent_almost_amount_laundry_dirt_luggage_crisp_curtain_light_kingdom_apology |  
+| bip_39_word_underscore_2 | dad_frequent |  
+| bip_39_word_underscore_3 | dad_frequent_almost |  
+| bip_39_word_underscore_4 | dad_frequent_almost_amount |  
+| bip_39_word_underscore_5 | dad_frequent_almost_amount_laundry |  
+| bip_39_word_underscore_6 | dad_frequent_almost_amount_laundry_dirt |  
+| bip_39_word_underscore_7 | dad_frequent_almost_amount_laundry_dirt_luggage |  
+| bip_39_word_underscore_8 | dad_frequent_almost_amount_laundry_dirt_luggage_crisp |  
+| bip_39_word_underscore_9 | dad_frequent_almost_amount_laundry_dirt_luggage_crisp_curtain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

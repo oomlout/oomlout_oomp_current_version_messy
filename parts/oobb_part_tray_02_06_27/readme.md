@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | battle |  
+| bip_39_word_dash_10 | battle-door-afraid-success-film-aisle-patch-toe-couple-coyote |  
+| bip_39_word_dash_11 | battle-door-afraid-success-film-aisle-patch-toe-couple-coyote-canvas |  
+| bip_39_word_dash_12 | battle-door-afraid-success-film-aisle-patch-toe-couple-coyote-canvas-alpha |  
+| bip_39_word_dash_2 | battle-door |  
+| bip_39_word_dash_3 | battle-door-afraid |  
+| bip_39_word_dash_4 | battle-door-afraid-success |  
+| bip_39_word_dash_5 | battle-door-afraid-success-film |  
+| bip_39_word_dash_6 | battle-door-afraid-success-film-aisle |  
+| bip_39_word_dash_7 | battle-door-afraid-success-film-aisle-patch |  
+| bip_39_word_dash_8 | battle-door-afraid-success-film-aisle-patch-toe |  
+| bip_39_word_dash_9 | battle-door-afraid-success-film-aisle-patch-toe-couple |  
 | bip_39_word_new_br_1 | battle |  
 | bip_39_word_new_br_10 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote |  
 | bip_39_word_new_br_11 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote<br>canvas |  
@@ -147,6 +159,18 @@ couple |
 | bip_39_word_space_7 | battle door afraid success film aisle patch |  
 | bip_39_word_space_8 | battle door afraid success film aisle patch toe |  
 | bip_39_word_space_9 | battle door afraid success film aisle patch toe couple |  
+| bip_39_word_underscore_1 | battle |  
+| bip_39_word_underscore_10 | battle_door_afraid_success_film_aisle_patch_toe_couple_coyote |  
+| bip_39_word_underscore_11 | battle_door_afraid_success_film_aisle_patch_toe_couple_coyote_canvas |  
+| bip_39_word_underscore_12 | battle_door_afraid_success_film_aisle_patch_toe_couple_coyote_canvas_alpha |  
+| bip_39_word_underscore_2 | battle_door |  
+| bip_39_word_underscore_3 | battle_door_afraid |  
+| bip_39_word_underscore_4 | battle_door_afraid_success |  
+| bip_39_word_underscore_5 | battle_door_afraid_success_film |  
+| bip_39_word_underscore_6 | battle_door_afraid_success_film_aisle |  
+| bip_39_word_underscore_7 | battle_door_afraid_success_film_aisle_patch |  
+| bip_39_word_underscore_8 | battle_door_afraid_success_film_aisle_patch_toe |  
+| bip_39_word_underscore_9 | battle_door_afraid_success_film_aisle_patch_toe_couple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

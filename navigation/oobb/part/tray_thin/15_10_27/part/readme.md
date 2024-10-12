@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stamp |  
+| bip_39_word_dash_10 | stamp-crater-habit-energy-thing-ill-camera-garbage-dutch-blade |  
+| bip_39_word_dash_11 | stamp-crater-habit-energy-thing-ill-camera-garbage-dutch-blade-diamond |  
+| bip_39_word_dash_12 | stamp-crater-habit-energy-thing-ill-camera-garbage-dutch-blade-diamond-ankle |  
+| bip_39_word_dash_2 | stamp-crater |  
+| bip_39_word_dash_3 | stamp-crater-habit |  
+| bip_39_word_dash_4 | stamp-crater-habit-energy |  
+| bip_39_word_dash_5 | stamp-crater-habit-energy-thing |  
+| bip_39_word_dash_6 | stamp-crater-habit-energy-thing-ill |  
+| bip_39_word_dash_7 | stamp-crater-habit-energy-thing-ill-camera |  
+| bip_39_word_dash_8 | stamp-crater-habit-energy-thing-ill-camera-garbage |  
+| bip_39_word_dash_9 | stamp-crater-habit-energy-thing-ill-camera-garbage-dutch |  
 | bip_39_word_new_br_1 | stamp |  
 | bip_39_word_new_br_10 | stamp<br>crater<br>habit<br>energy<br>thing<br>ill<br>camera<br>garbage<br>dutch<br>blade |  
 | bip_39_word_new_br_11 | stamp<br>crater<br>habit<br>energy<br>thing<br>ill<br>camera<br>garbage<br>dutch<br>blade<br>diamond |  
@@ -147,6 +159,18 @@ dutch |
 | bip_39_word_space_7 | stamp crater habit energy thing ill camera |  
 | bip_39_word_space_8 | stamp crater habit energy thing ill camera garbage |  
 | bip_39_word_space_9 | stamp crater habit energy thing ill camera garbage dutch |  
+| bip_39_word_underscore_1 | stamp |  
+| bip_39_word_underscore_10 | stamp_crater_habit_energy_thing_ill_camera_garbage_dutch_blade |  
+| bip_39_word_underscore_11 | stamp_crater_habit_energy_thing_ill_camera_garbage_dutch_blade_diamond |  
+| bip_39_word_underscore_12 | stamp_crater_habit_energy_thing_ill_camera_garbage_dutch_blade_diamond_ankle |  
+| bip_39_word_underscore_2 | stamp_crater |  
+| bip_39_word_underscore_3 | stamp_crater_habit |  
+| bip_39_word_underscore_4 | stamp_crater_habit_energy |  
+| bip_39_word_underscore_5 | stamp_crater_habit_energy_thing |  
+| bip_39_word_underscore_6 | stamp_crater_habit_energy_thing_ill |  
+| bip_39_word_underscore_7 | stamp_crater_habit_energy_thing_ill_camera |  
+| bip_39_word_underscore_8 | stamp_crater_habit_energy_thing_ill_camera_garbage |  
+| bip_39_word_underscore_9 | stamp_crater_habit_energy_thing_ill_camera_garbage_dutch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | harsh |  
+| bip_39_word_dash_10 | harsh-imitate-volcano-heavy-dwarf-vendor-dilemma-lens-direct-lawn |  
+| bip_39_word_dash_11 | harsh-imitate-volcano-heavy-dwarf-vendor-dilemma-lens-direct-lawn-cheap |  
+| bip_39_word_dash_12 | harsh-imitate-volcano-heavy-dwarf-vendor-dilemma-lens-direct-lawn-cheap-approve |  
+| bip_39_word_dash_2 | harsh-imitate |  
+| bip_39_word_dash_3 | harsh-imitate-volcano |  
+| bip_39_word_dash_4 | harsh-imitate-volcano-heavy |  
+| bip_39_word_dash_5 | harsh-imitate-volcano-heavy-dwarf |  
+| bip_39_word_dash_6 | harsh-imitate-volcano-heavy-dwarf-vendor |  
+| bip_39_word_dash_7 | harsh-imitate-volcano-heavy-dwarf-vendor-dilemma |  
+| bip_39_word_dash_8 | harsh-imitate-volcano-heavy-dwarf-vendor-dilemma-lens |  
+| bip_39_word_dash_9 | harsh-imitate-volcano-heavy-dwarf-vendor-dilemma-lens-direct |  
 | bip_39_word_new_br_1 | harsh |  
 | bip_39_word_new_br_10 | harsh<br>imitate<br>volcano<br>heavy<br>dwarf<br>vendor<br>dilemma<br>lens<br>direct<br>lawn |  
 | bip_39_word_new_br_11 | harsh<br>imitate<br>volcano<br>heavy<br>dwarf<br>vendor<br>dilemma<br>lens<br>direct<br>lawn<br>cheap |  
@@ -147,6 +159,18 @@ direct |
 | bip_39_word_space_7 | harsh imitate volcano heavy dwarf vendor dilemma |  
 | bip_39_word_space_8 | harsh imitate volcano heavy dwarf vendor dilemma lens |  
 | bip_39_word_space_9 | harsh imitate volcano heavy dwarf vendor dilemma lens direct |  
+| bip_39_word_underscore_1 | harsh |  
+| bip_39_word_underscore_10 | harsh_imitate_volcano_heavy_dwarf_vendor_dilemma_lens_direct_lawn |  
+| bip_39_word_underscore_11 | harsh_imitate_volcano_heavy_dwarf_vendor_dilemma_lens_direct_lawn_cheap |  
+| bip_39_word_underscore_12 | harsh_imitate_volcano_heavy_dwarf_vendor_dilemma_lens_direct_lawn_cheap_approve |  
+| bip_39_word_underscore_2 | harsh_imitate |  
+| bip_39_word_underscore_3 | harsh_imitate_volcano |  
+| bip_39_word_underscore_4 | harsh_imitate_volcano_heavy |  
+| bip_39_word_underscore_5 | harsh_imitate_volcano_heavy_dwarf |  
+| bip_39_word_underscore_6 | harsh_imitate_volcano_heavy_dwarf_vendor |  
+| bip_39_word_underscore_7 | harsh_imitate_volcano_heavy_dwarf_vendor_dilemma |  
+| bip_39_word_underscore_8 | harsh_imitate_volcano_heavy_dwarf_vendor_dilemma_lens |  
+| bip_39_word_underscore_9 | harsh_imitate_volcano_heavy_dwarf_vendor_dilemma_lens_direct |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

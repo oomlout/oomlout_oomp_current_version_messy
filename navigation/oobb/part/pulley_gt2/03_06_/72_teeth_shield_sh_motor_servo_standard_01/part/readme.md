@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eyebrow |  
+| bip_39_word_dash_10 | eyebrow-umbrella-salt-avocado-else-zebra-symptom-crash-develop-patrol |  
+| bip_39_word_dash_11 | eyebrow-umbrella-salt-avocado-else-zebra-symptom-crash-develop-patrol-squirrel |  
+| bip_39_word_dash_12 | eyebrow-umbrella-salt-avocado-else-zebra-symptom-crash-develop-patrol-squirrel-actor |  
+| bip_39_word_dash_2 | eyebrow-umbrella |  
+| bip_39_word_dash_3 | eyebrow-umbrella-salt |  
+| bip_39_word_dash_4 | eyebrow-umbrella-salt-avocado |  
+| bip_39_word_dash_5 | eyebrow-umbrella-salt-avocado-else |  
+| bip_39_word_dash_6 | eyebrow-umbrella-salt-avocado-else-zebra |  
+| bip_39_word_dash_7 | eyebrow-umbrella-salt-avocado-else-zebra-symptom |  
+| bip_39_word_dash_8 | eyebrow-umbrella-salt-avocado-else-zebra-symptom-crash |  
+| bip_39_word_dash_9 | eyebrow-umbrella-salt-avocado-else-zebra-symptom-crash-develop |  
 | bip_39_word_new_br_1 | eyebrow |  
 | bip_39_word_new_br_10 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol |  
 | bip_39_word_new_br_11 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol<br>squirrel |  
@@ -147,6 +159,18 @@ develop |
 | bip_39_word_space_7 | eyebrow umbrella salt avocado else zebra symptom |  
 | bip_39_word_space_8 | eyebrow umbrella salt avocado else zebra symptom crash |  
 | bip_39_word_space_9 | eyebrow umbrella salt avocado else zebra symptom crash develop |  
+| bip_39_word_underscore_1 | eyebrow |  
+| bip_39_word_underscore_10 | eyebrow_umbrella_salt_avocado_else_zebra_symptom_crash_develop_patrol |  
+| bip_39_word_underscore_11 | eyebrow_umbrella_salt_avocado_else_zebra_symptom_crash_develop_patrol_squirrel |  
+| bip_39_word_underscore_12 | eyebrow_umbrella_salt_avocado_else_zebra_symptom_crash_develop_patrol_squirrel_actor |  
+| bip_39_word_underscore_2 | eyebrow_umbrella |  
+| bip_39_word_underscore_3 | eyebrow_umbrella_salt |  
+| bip_39_word_underscore_4 | eyebrow_umbrella_salt_avocado |  
+| bip_39_word_underscore_5 | eyebrow_umbrella_salt_avocado_else |  
+| bip_39_word_underscore_6 | eyebrow_umbrella_salt_avocado_else_zebra |  
+| bip_39_word_underscore_7 | eyebrow_umbrella_salt_avocado_else_zebra_symptom |  
+| bip_39_word_underscore_8 | eyebrow_umbrella_salt_avocado_else_zebra_symptom_crash |  
+| bip_39_word_underscore_9 | eyebrow_umbrella_salt_avocado_else_zebra_symptom_crash_develop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

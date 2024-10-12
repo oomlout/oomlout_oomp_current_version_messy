@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boss |  
+| bip_39_word_dash_10 | boss-all-illegal-gasp-mobile-oil-crunch-admit-village-memory |  
+| bip_39_word_dash_11 | boss-all-illegal-gasp-mobile-oil-crunch-admit-village-memory-chimney |  
+| bip_39_word_dash_12 | boss-all-illegal-gasp-mobile-oil-crunch-admit-village-memory-chimney-above |  
+| bip_39_word_dash_2 | boss-all |  
+| bip_39_word_dash_3 | boss-all-illegal |  
+| bip_39_word_dash_4 | boss-all-illegal-gasp |  
+| bip_39_word_dash_5 | boss-all-illegal-gasp-mobile |  
+| bip_39_word_dash_6 | boss-all-illegal-gasp-mobile-oil |  
+| bip_39_word_dash_7 | boss-all-illegal-gasp-mobile-oil-crunch |  
+| bip_39_word_dash_8 | boss-all-illegal-gasp-mobile-oil-crunch-admit |  
+| bip_39_word_dash_9 | boss-all-illegal-gasp-mobile-oil-crunch-admit-village |  
 | bip_39_word_new_br_1 | boss |  
 | bip_39_word_new_br_10 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory |  
 | bip_39_word_new_br_11 | boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory<br>chimney |  
@@ -147,6 +159,18 @@ village |
 | bip_39_word_space_7 | boss all illegal gasp mobile oil crunch |  
 | bip_39_word_space_8 | boss all illegal gasp mobile oil crunch admit |  
 | bip_39_word_space_9 | boss all illegal gasp mobile oil crunch admit village |  
+| bip_39_word_underscore_1 | boss |  
+| bip_39_word_underscore_10 | boss_all_illegal_gasp_mobile_oil_crunch_admit_village_memory |  
+| bip_39_word_underscore_11 | boss_all_illegal_gasp_mobile_oil_crunch_admit_village_memory_chimney |  
+| bip_39_word_underscore_12 | boss_all_illegal_gasp_mobile_oil_crunch_admit_village_memory_chimney_above |  
+| bip_39_word_underscore_2 | boss_all |  
+| bip_39_word_underscore_3 | boss_all_illegal |  
+| bip_39_word_underscore_4 | boss_all_illegal_gasp |  
+| bip_39_word_underscore_5 | boss_all_illegal_gasp_mobile |  
+| bip_39_word_underscore_6 | boss_all_illegal_gasp_mobile_oil |  
+| bip_39_word_underscore_7 | boss_all_illegal_gasp_mobile_oil_crunch |  
+| bip_39_word_underscore_8 | boss_all_illegal_gasp_mobile_oil_crunch_admit |  
+| bip_39_word_underscore_9 | boss_all_illegal_gasp_mobile_oil_crunch_admit_village |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

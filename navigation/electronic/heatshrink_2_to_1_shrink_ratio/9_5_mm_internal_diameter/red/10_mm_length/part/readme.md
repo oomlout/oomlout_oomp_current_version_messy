@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | garment |  
+| bip_39_word_dash_10 | garment-have-symptom-swing-saddle-chest-barely-vehicle-dove-approve |  
+| bip_39_word_dash_11 | garment-have-symptom-swing-saddle-chest-barely-vehicle-dove-approve-detail |  
+| bip_39_word_dash_12 | garment-have-symptom-swing-saddle-chest-barely-vehicle-dove-approve-detail-antique |  
+| bip_39_word_dash_2 | garment-have |  
+| bip_39_word_dash_3 | garment-have-symptom |  
+| bip_39_word_dash_4 | garment-have-symptom-swing |  
+| bip_39_word_dash_5 | garment-have-symptom-swing-saddle |  
+| bip_39_word_dash_6 | garment-have-symptom-swing-saddle-chest |  
+| bip_39_word_dash_7 | garment-have-symptom-swing-saddle-chest-barely |  
+| bip_39_word_dash_8 | garment-have-symptom-swing-saddle-chest-barely-vehicle |  
+| bip_39_word_dash_9 | garment-have-symptom-swing-saddle-chest-barely-vehicle-dove |  
 | bip_39_word_new_br_1 | garment |  
 | bip_39_word_new_br_10 | garment<br>have<br>symptom<br>swing<br>saddle<br>chest<br>barely<br>vehicle<br>dove<br>approve |  
 | bip_39_word_new_br_11 | garment<br>have<br>symptom<br>swing<br>saddle<br>chest<br>barely<br>vehicle<br>dove<br>approve<br>detail |  
@@ -147,6 +159,18 @@ dove |
 | bip_39_word_space_7 | garment have symptom swing saddle chest barely |  
 | bip_39_word_space_8 | garment have symptom swing saddle chest barely vehicle |  
 | bip_39_word_space_9 | garment have symptom swing saddle chest barely vehicle dove |  
+| bip_39_word_underscore_1 | garment |  
+| bip_39_word_underscore_10 | garment_have_symptom_swing_saddle_chest_barely_vehicle_dove_approve |  
+| bip_39_word_underscore_11 | garment_have_symptom_swing_saddle_chest_barely_vehicle_dove_approve_detail |  
+| bip_39_word_underscore_12 | garment_have_symptom_swing_saddle_chest_barely_vehicle_dove_approve_detail_antique |  
+| bip_39_word_underscore_2 | garment_have |  
+| bip_39_word_underscore_3 | garment_have_symptom |  
+| bip_39_word_underscore_4 | garment_have_symptom_swing |  
+| bip_39_word_underscore_5 | garment_have_symptom_swing_saddle |  
+| bip_39_word_underscore_6 | garment_have_symptom_swing_saddle_chest |  
+| bip_39_word_underscore_7 | garment_have_symptom_swing_saddle_chest_barely |  
+| bip_39_word_underscore_8 | garment_have_symptom_swing_saddle_chest_barely_vehicle |  
+| bip_39_word_underscore_9 | garment_have_symptom_swing_saddle_chest_barely_vehicle_dove |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

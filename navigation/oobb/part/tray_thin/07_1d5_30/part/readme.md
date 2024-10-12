@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | since |  
+| bip_39_word_dash_10 | since-major-prepare-group-hurry-sea-palm-put-reward-couple |  
+| bip_39_word_dash_11 | since-major-prepare-group-hurry-sea-palm-put-reward-couple-almost |  
+| bip_39_word_dash_12 | since-major-prepare-group-hurry-sea-palm-put-reward-couple-almost-actor |  
+| bip_39_word_dash_2 | since-major |  
+| bip_39_word_dash_3 | since-major-prepare |  
+| bip_39_word_dash_4 | since-major-prepare-group |  
+| bip_39_word_dash_5 | since-major-prepare-group-hurry |  
+| bip_39_word_dash_6 | since-major-prepare-group-hurry-sea |  
+| bip_39_word_dash_7 | since-major-prepare-group-hurry-sea-palm |  
+| bip_39_word_dash_8 | since-major-prepare-group-hurry-sea-palm-put |  
+| bip_39_word_dash_9 | since-major-prepare-group-hurry-sea-palm-put-reward |  
 | bip_39_word_new_br_1 | since |  
 | bip_39_word_new_br_10 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple |  
 | bip_39_word_new_br_11 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple<br>almost |  
@@ -147,6 +159,18 @@ reward |
 | bip_39_word_space_7 | since major prepare group hurry sea palm |  
 | bip_39_word_space_8 | since major prepare group hurry sea palm put |  
 | bip_39_word_space_9 | since major prepare group hurry sea palm put reward |  
+| bip_39_word_underscore_1 | since |  
+| bip_39_word_underscore_10 | since_major_prepare_group_hurry_sea_palm_put_reward_couple |  
+| bip_39_word_underscore_11 | since_major_prepare_group_hurry_sea_palm_put_reward_couple_almost |  
+| bip_39_word_underscore_12 | since_major_prepare_group_hurry_sea_palm_put_reward_couple_almost_actor |  
+| bip_39_word_underscore_2 | since_major |  
+| bip_39_word_underscore_3 | since_major_prepare |  
+| bip_39_word_underscore_4 | since_major_prepare_group |  
+| bip_39_word_underscore_5 | since_major_prepare_group_hurry |  
+| bip_39_word_underscore_6 | since_major_prepare_group_hurry_sea |  
+| bip_39_word_underscore_7 | since_major_prepare_group_hurry_sea_palm |  
+| bip_39_word_underscore_8 | since_major_prepare_group_hurry_sea_palm_put |  
+| bip_39_word_underscore_9 | since_major_prepare_group_hurry_sea_palm_put_reward |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

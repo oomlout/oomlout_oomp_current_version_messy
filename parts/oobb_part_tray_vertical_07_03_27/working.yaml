@@ -1,3 +1,15 @@
+bip_39_word_dash_1: direct
+bip_39_word_dash_10: direct-session-ship-snack-tennis-burden-chair-olympic-reduce-hour
+bip_39_word_dash_11: direct-session-ship-snack-tennis-burden-chair-olympic-reduce-hour-nasty
+bip_39_word_dash_12: direct-session-ship-snack-tennis-burden-chair-olympic-reduce-hour-nasty-approve
+bip_39_word_dash_2: direct-session
+bip_39_word_dash_3: direct-session-ship
+bip_39_word_dash_4: direct-session-ship-snack
+bip_39_word_dash_5: direct-session-ship-snack-tennis
+bip_39_word_dash_6: direct-session-ship-snack-tennis-burden
+bip_39_word_dash_7: direct-session-ship-snack-tennis-burden-chair
+bip_39_word_dash_8: direct-session-ship-snack-tennis-burden-chair-olympic
+bip_39_word_dash_9: direct-session-ship-snack-tennis-burden-chair-olympic-reduce
 bip_39_word_new_br_1: direct
 bip_39_word_new_br_10: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour
 bip_39_word_new_br_11: direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour<br>nasty
@@ -194,6 +206,18 @@ bip_39_word_space_6: direct session ship snack tennis burden
 bip_39_word_space_7: direct session ship snack tennis burden chair
 bip_39_word_space_8: direct session ship snack tennis burden chair olympic
 bip_39_word_space_9: direct session ship snack tennis burden chair olympic reduce
+bip_39_word_underscore_1: direct
+bip_39_word_underscore_10: direct_session_ship_snack_tennis_burden_chair_olympic_reduce_hour
+bip_39_word_underscore_11: direct_session_ship_snack_tennis_burden_chair_olympic_reduce_hour_nasty
+bip_39_word_underscore_12: direct_session_ship_snack_tennis_burden_chair_olympic_reduce_hour_nasty_approve
+bip_39_word_underscore_2: direct_session
+bip_39_word_underscore_3: direct_session_ship
+bip_39_word_underscore_4: direct_session_ship_snack
+bip_39_word_underscore_5: direct_session_ship_snack_tennis
+bip_39_word_underscore_6: direct_session_ship_snack_tennis_burden
+bip_39_word_underscore_7: direct_session_ship_snack_tennis_burden_chair
+bip_39_word_underscore_8: direct_session_ship_snack_tennis_burden_chair_olympic
+bip_39_word_underscore_9: direct_session_ship_snack_tennis_burden_chair_olympic_reduce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

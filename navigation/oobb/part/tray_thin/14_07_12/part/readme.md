@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | face |  
+| bip_39_word_dash_10 | face-now-frown-organ-island-season-suit-skin-physical-casino |  
+| bip_39_word_dash_11 | face-now-frown-organ-island-season-suit-skin-physical-casino-flame |  
+| bip_39_word_dash_12 | face-now-frown-organ-island-season-suit-skin-physical-casino-flame-argue |  
+| bip_39_word_dash_2 | face-now |  
+| bip_39_word_dash_3 | face-now-frown |  
+| bip_39_word_dash_4 | face-now-frown-organ |  
+| bip_39_word_dash_5 | face-now-frown-organ-island |  
+| bip_39_word_dash_6 | face-now-frown-organ-island-season |  
+| bip_39_word_dash_7 | face-now-frown-organ-island-season-suit |  
+| bip_39_word_dash_8 | face-now-frown-organ-island-season-suit-skin |  
+| bip_39_word_dash_9 | face-now-frown-organ-island-season-suit-skin-physical |  
 | bip_39_word_new_br_1 | face |  
 | bip_39_word_new_br_10 | face<br>now<br>frown<br>organ<br>island<br>season<br>suit<br>skin<br>physical<br>casino |  
 | bip_39_word_new_br_11 | face<br>now<br>frown<br>organ<br>island<br>season<br>suit<br>skin<br>physical<br>casino<br>flame |  
@@ -147,6 +159,18 @@ physical |
 | bip_39_word_space_7 | face now frown organ island season suit |  
 | bip_39_word_space_8 | face now frown organ island season suit skin |  
 | bip_39_word_space_9 | face now frown organ island season suit skin physical |  
+| bip_39_word_underscore_1 | face |  
+| bip_39_word_underscore_10 | face_now_frown_organ_island_season_suit_skin_physical_casino |  
+| bip_39_word_underscore_11 | face_now_frown_organ_island_season_suit_skin_physical_casino_flame |  
+| bip_39_word_underscore_12 | face_now_frown_organ_island_season_suit_skin_physical_casino_flame_argue |  
+| bip_39_word_underscore_2 | face_now |  
+| bip_39_word_underscore_3 | face_now_frown |  
+| bip_39_word_underscore_4 | face_now_frown_organ |  
+| bip_39_word_underscore_5 | face_now_frown_organ_island |  
+| bip_39_word_underscore_6 | face_now_frown_organ_island_season |  
+| bip_39_word_underscore_7 | face_now_frown_organ_island_season_suit |  
+| bip_39_word_underscore_8 | face_now_frown_organ_island_season_suit_skin |  
+| bip_39_word_underscore_9 | face_now_frown_organ_island_season_suit_skin_physical |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

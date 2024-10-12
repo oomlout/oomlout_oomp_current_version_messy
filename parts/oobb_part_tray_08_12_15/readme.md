@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | treat |  
+| bip_39_word_dash_10 | treat-dawn-pave-test-begin-prefer-nature-mammal-clinic-brief |  
+| bip_39_word_dash_11 | treat-dawn-pave-test-begin-prefer-nature-mammal-clinic-brief-iron |  
+| bip_39_word_dash_12 | treat-dawn-pave-test-begin-prefer-nature-mammal-clinic-brief-iron-author |  
+| bip_39_word_dash_2 | treat-dawn |  
+| bip_39_word_dash_3 | treat-dawn-pave |  
+| bip_39_word_dash_4 | treat-dawn-pave-test |  
+| bip_39_word_dash_5 | treat-dawn-pave-test-begin |  
+| bip_39_word_dash_6 | treat-dawn-pave-test-begin-prefer |  
+| bip_39_word_dash_7 | treat-dawn-pave-test-begin-prefer-nature |  
+| bip_39_word_dash_8 | treat-dawn-pave-test-begin-prefer-nature-mammal |  
+| bip_39_word_dash_9 | treat-dawn-pave-test-begin-prefer-nature-mammal-clinic |  
 | bip_39_word_new_br_1 | treat |  
 | bip_39_word_new_br_10 | treat<br>dawn<br>pave<br>test<br>begin<br>prefer<br>nature<br>mammal<br>clinic<br>brief |  
 | bip_39_word_new_br_11 | treat<br>dawn<br>pave<br>test<br>begin<br>prefer<br>nature<br>mammal<br>clinic<br>brief<br>iron |  
@@ -147,6 +159,18 @@ clinic |
 | bip_39_word_space_7 | treat dawn pave test begin prefer nature |  
 | bip_39_word_space_8 | treat dawn pave test begin prefer nature mammal |  
 | bip_39_word_space_9 | treat dawn pave test begin prefer nature mammal clinic |  
+| bip_39_word_underscore_1 | treat |  
+| bip_39_word_underscore_10 | treat_dawn_pave_test_begin_prefer_nature_mammal_clinic_brief |  
+| bip_39_word_underscore_11 | treat_dawn_pave_test_begin_prefer_nature_mammal_clinic_brief_iron |  
+| bip_39_word_underscore_12 | treat_dawn_pave_test_begin_prefer_nature_mammal_clinic_brief_iron_author |  
+| bip_39_word_underscore_2 | treat_dawn |  
+| bip_39_word_underscore_3 | treat_dawn_pave |  
+| bip_39_word_underscore_4 | treat_dawn_pave_test |  
+| bip_39_word_underscore_5 | treat_dawn_pave_test_begin |  
+| bip_39_word_underscore_6 | treat_dawn_pave_test_begin_prefer |  
+| bip_39_word_underscore_7 | treat_dawn_pave_test_begin_prefer_nature |  
+| bip_39_word_underscore_8 | treat_dawn_pave_test_begin_prefer_nature_mammal |  
+| bip_39_word_underscore_9 | treat_dawn_pave_test_begin_prefer_nature_mammal_clinic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

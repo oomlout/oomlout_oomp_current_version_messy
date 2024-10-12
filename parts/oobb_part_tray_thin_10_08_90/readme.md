@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | garden |  
+| bip_39_word_dash_10 | garden-cancel-crack-draw-vessel-acoustic-action-code-tenant-never |  
+| bip_39_word_dash_11 | garden-cancel-crack-draw-vessel-acoustic-action-code-tenant-never-host |  
+| bip_39_word_dash_12 | garden-cancel-crack-draw-vessel-acoustic-action-code-tenant-never-host-aerobic |  
+| bip_39_word_dash_2 | garden-cancel |  
+| bip_39_word_dash_3 | garden-cancel-crack |  
+| bip_39_word_dash_4 | garden-cancel-crack-draw |  
+| bip_39_word_dash_5 | garden-cancel-crack-draw-vessel |  
+| bip_39_word_dash_6 | garden-cancel-crack-draw-vessel-acoustic |  
+| bip_39_word_dash_7 | garden-cancel-crack-draw-vessel-acoustic-action |  
+| bip_39_word_dash_8 | garden-cancel-crack-draw-vessel-acoustic-action-code |  
+| bip_39_word_dash_9 | garden-cancel-crack-draw-vessel-acoustic-action-code-tenant |  
 | bip_39_word_new_br_1 | garden |  
 | bip_39_word_new_br_10 | garden<br>cancel<br>crack<br>draw<br>vessel<br>acoustic<br>action<br>code<br>tenant<br>never |  
 | bip_39_word_new_br_11 | garden<br>cancel<br>crack<br>draw<br>vessel<br>acoustic<br>action<br>code<br>tenant<br>never<br>host |  
@@ -147,6 +159,18 @@ tenant |
 | bip_39_word_space_7 | garden cancel crack draw vessel acoustic action |  
 | bip_39_word_space_8 | garden cancel crack draw vessel acoustic action code |  
 | bip_39_word_space_9 | garden cancel crack draw vessel acoustic action code tenant |  
+| bip_39_word_underscore_1 | garden |  
+| bip_39_word_underscore_10 | garden_cancel_crack_draw_vessel_acoustic_action_code_tenant_never |  
+| bip_39_word_underscore_11 | garden_cancel_crack_draw_vessel_acoustic_action_code_tenant_never_host |  
+| bip_39_word_underscore_12 | garden_cancel_crack_draw_vessel_acoustic_action_code_tenant_never_host_aerobic |  
+| bip_39_word_underscore_2 | garden_cancel |  
+| bip_39_word_underscore_3 | garden_cancel_crack |  
+| bip_39_word_underscore_4 | garden_cancel_crack_draw |  
+| bip_39_word_underscore_5 | garden_cancel_crack_draw_vessel |  
+| bip_39_word_underscore_6 | garden_cancel_crack_draw_vessel_acoustic |  
+| bip_39_word_underscore_7 | garden_cancel_crack_draw_vessel_acoustic_action |  
+| bip_39_word_underscore_8 | garden_cancel_crack_draw_vessel_acoustic_action_code |  
+| bip_39_word_underscore_9 | garden_cancel_crack_draw_vessel_acoustic_action_code_tenant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

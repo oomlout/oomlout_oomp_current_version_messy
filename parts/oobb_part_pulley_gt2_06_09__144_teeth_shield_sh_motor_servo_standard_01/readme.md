@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | organ |  
+| bip_39_word_dash_10 | organ-song-forum-buffalo-give-turtle-involve-corn-august-matrix |  
+| bip_39_word_dash_11 | organ-song-forum-buffalo-give-turtle-involve-corn-august-matrix-awkward |  
+| bip_39_word_dash_12 | organ-song-forum-buffalo-give-turtle-involve-corn-august-matrix-awkward-adjust |  
+| bip_39_word_dash_2 | organ-song |  
+| bip_39_word_dash_3 | organ-song-forum |  
+| bip_39_word_dash_4 | organ-song-forum-buffalo |  
+| bip_39_word_dash_5 | organ-song-forum-buffalo-give |  
+| bip_39_word_dash_6 | organ-song-forum-buffalo-give-turtle |  
+| bip_39_word_dash_7 | organ-song-forum-buffalo-give-turtle-involve |  
+| bip_39_word_dash_8 | organ-song-forum-buffalo-give-turtle-involve-corn |  
+| bip_39_word_dash_9 | organ-song-forum-buffalo-give-turtle-involve-corn-august |  
 | bip_39_word_new_br_1 | organ |  
 | bip_39_word_new_br_10 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix |  
 | bip_39_word_new_br_11 | organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix<br>awkward |  
@@ -147,6 +159,18 @@ august |
 | bip_39_word_space_7 | organ song forum buffalo give turtle involve |  
 | bip_39_word_space_8 | organ song forum buffalo give turtle involve corn |  
 | bip_39_word_space_9 | organ song forum buffalo give turtle involve corn august |  
+| bip_39_word_underscore_1 | organ |  
+| bip_39_word_underscore_10 | organ_song_forum_buffalo_give_turtle_involve_corn_august_matrix |  
+| bip_39_word_underscore_11 | organ_song_forum_buffalo_give_turtle_involve_corn_august_matrix_awkward |  
+| bip_39_word_underscore_12 | organ_song_forum_buffalo_give_turtle_involve_corn_august_matrix_awkward_adjust |  
+| bip_39_word_underscore_2 | organ_song |  
+| bip_39_word_underscore_3 | organ_song_forum |  
+| bip_39_word_underscore_4 | organ_song_forum_buffalo |  
+| bip_39_word_underscore_5 | organ_song_forum_buffalo_give |  
+| bip_39_word_underscore_6 | organ_song_forum_buffalo_give_turtle |  
+| bip_39_word_underscore_7 | organ_song_forum_buffalo_give_turtle_involve |  
+| bip_39_word_underscore_8 | organ_song_forum_buffalo_give_turtle_involve_corn |  
+| bip_39_word_underscore_9 | organ_song_forum_buffalo_give_turtle_involve_corn_august |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

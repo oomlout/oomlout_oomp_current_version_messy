@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | moon |  
+| bip_39_word_dash_10 | moon-iron-axis-divorce-economy-entry-agree-clerk-theory-fatal |  
+| bip_39_word_dash_11 | moon-iron-axis-divorce-economy-entry-agree-clerk-theory-fatal-sorry |  
+| bip_39_word_dash_12 | moon-iron-axis-divorce-economy-entry-agree-clerk-theory-fatal-sorry-already |  
+| bip_39_word_dash_2 | moon-iron |  
+| bip_39_word_dash_3 | moon-iron-axis |  
+| bip_39_word_dash_4 | moon-iron-axis-divorce |  
+| bip_39_word_dash_5 | moon-iron-axis-divorce-economy |  
+| bip_39_word_dash_6 | moon-iron-axis-divorce-economy-entry |  
+| bip_39_word_dash_7 | moon-iron-axis-divorce-economy-entry-agree |  
+| bip_39_word_dash_8 | moon-iron-axis-divorce-economy-entry-agree-clerk |  
+| bip_39_word_dash_9 | moon-iron-axis-divorce-economy-entry-agree-clerk-theory |  
 | bip_39_word_new_br_1 | moon |  
 | bip_39_word_new_br_10 | moon<br>iron<br>axis<br>divorce<br>economy<br>entry<br>agree<br>clerk<br>theory<br>fatal |  
 | bip_39_word_new_br_11 | moon<br>iron<br>axis<br>divorce<br>economy<br>entry<br>agree<br>clerk<br>theory<br>fatal<br>sorry |  
@@ -147,6 +159,18 @@ theory |
 | bip_39_word_space_7 | moon iron axis divorce economy entry agree |  
 | bip_39_word_space_8 | moon iron axis divorce economy entry agree clerk |  
 | bip_39_word_space_9 | moon iron axis divorce economy entry agree clerk theory |  
+| bip_39_word_underscore_1 | moon |  
+| bip_39_word_underscore_10 | moon_iron_axis_divorce_economy_entry_agree_clerk_theory_fatal |  
+| bip_39_word_underscore_11 | moon_iron_axis_divorce_economy_entry_agree_clerk_theory_fatal_sorry |  
+| bip_39_word_underscore_12 | moon_iron_axis_divorce_economy_entry_agree_clerk_theory_fatal_sorry_already |  
+| bip_39_word_underscore_2 | moon_iron |  
+| bip_39_word_underscore_3 | moon_iron_axis |  
+| bip_39_word_underscore_4 | moon_iron_axis_divorce |  
+| bip_39_word_underscore_5 | moon_iron_axis_divorce_economy |  
+| bip_39_word_underscore_6 | moon_iron_axis_divorce_economy_entry |  
+| bip_39_word_underscore_7 | moon_iron_axis_divorce_economy_entry_agree |  
+| bip_39_word_underscore_8 | moon_iron_axis_divorce_economy_entry_agree_clerk |  
+| bip_39_word_underscore_9 | moon_iron_axis_divorce_economy_entry_agree_clerk_theory |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

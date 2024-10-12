@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mule |  
+| bip_39_word_dash_10 | mule-electric-rain-guess-brown-lend-license-fiber-jump-old |  
+| bip_39_word_dash_11 | mule-electric-rain-guess-brown-lend-license-fiber-jump-old-leader |  
+| bip_39_word_dash_12 | mule-electric-rain-guess-brown-lend-license-fiber-jump-old-leader-anchor |  
+| bip_39_word_dash_2 | mule-electric |  
+| bip_39_word_dash_3 | mule-electric-rain |  
+| bip_39_word_dash_4 | mule-electric-rain-guess |  
+| bip_39_word_dash_5 | mule-electric-rain-guess-brown |  
+| bip_39_word_dash_6 | mule-electric-rain-guess-brown-lend |  
+| bip_39_word_dash_7 | mule-electric-rain-guess-brown-lend-license |  
+| bip_39_word_dash_8 | mule-electric-rain-guess-brown-lend-license-fiber |  
+| bip_39_word_dash_9 | mule-electric-rain-guess-brown-lend-license-fiber-jump |  
 | bip_39_word_new_br_1 | mule |  
 | bip_39_word_new_br_10 | mule<br>electric<br>rain<br>guess<br>brown<br>lend<br>license<br>fiber<br>jump<br>old |  
 | bip_39_word_new_br_11 | mule<br>electric<br>rain<br>guess<br>brown<br>lend<br>license<br>fiber<br>jump<br>old<br>leader |  
@@ -147,6 +159,18 @@ jump |
 | bip_39_word_space_7 | mule electric rain guess brown lend license |  
 | bip_39_word_space_8 | mule electric rain guess brown lend license fiber |  
 | bip_39_word_space_9 | mule electric rain guess brown lend license fiber jump |  
+| bip_39_word_underscore_1 | mule |  
+| bip_39_word_underscore_10 | mule_electric_rain_guess_brown_lend_license_fiber_jump_old |  
+| bip_39_word_underscore_11 | mule_electric_rain_guess_brown_lend_license_fiber_jump_old_leader |  
+| bip_39_word_underscore_12 | mule_electric_rain_guess_brown_lend_license_fiber_jump_old_leader_anchor |  
+| bip_39_word_underscore_2 | mule_electric |  
+| bip_39_word_underscore_3 | mule_electric_rain |  
+| bip_39_word_underscore_4 | mule_electric_rain_guess |  
+| bip_39_word_underscore_5 | mule_electric_rain_guess_brown |  
+| bip_39_word_underscore_6 | mule_electric_rain_guess_brown_lend |  
+| bip_39_word_underscore_7 | mule_electric_rain_guess_brown_lend_license |  
+| bip_39_word_underscore_8 | mule_electric_rain_guess_brown_lend_license_fiber |  
+| bip_39_word_underscore_9 | mule_electric_rain_guess_brown_lend_license_fiber_jump |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: print
+bip_39_word_dash_10: print-keep-ivory-observe-melody-guilt-bubble-cash-rapid-peanut
+bip_39_word_dash_11: print-keep-ivory-observe-melody-guilt-bubble-cash-rapid-peanut-clog
+bip_39_word_dash_12: print-keep-ivory-observe-melody-guilt-bubble-cash-rapid-peanut-clog-asthma
+bip_39_word_dash_2: print-keep
+bip_39_word_dash_3: print-keep-ivory
+bip_39_word_dash_4: print-keep-ivory-observe
+bip_39_word_dash_5: print-keep-ivory-observe-melody
+bip_39_word_dash_6: print-keep-ivory-observe-melody-guilt
+bip_39_word_dash_7: print-keep-ivory-observe-melody-guilt-bubble
+bip_39_word_dash_8: print-keep-ivory-observe-melody-guilt-bubble-cash
+bip_39_word_dash_9: print-keep-ivory-observe-melody-guilt-bubble-cash-rapid
 bip_39_word_new_br_1: print
 bip_39_word_new_br_10: print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash<br>rapid<br>peanut
 bip_39_word_new_br_11: print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash<br>rapid<br>peanut<br>clog
@@ -193,6 +205,18 @@ bip_39_word_space_6: print keep ivory observe melody guilt
 bip_39_word_space_7: print keep ivory observe melody guilt bubble
 bip_39_word_space_8: print keep ivory observe melody guilt bubble cash
 bip_39_word_space_9: print keep ivory observe melody guilt bubble cash rapid
+bip_39_word_underscore_1: print
+bip_39_word_underscore_10: print_keep_ivory_observe_melody_guilt_bubble_cash_rapid_peanut
+bip_39_word_underscore_11: print_keep_ivory_observe_melody_guilt_bubble_cash_rapid_peanut_clog
+bip_39_word_underscore_12: print_keep_ivory_observe_melody_guilt_bubble_cash_rapid_peanut_clog_asthma
+bip_39_word_underscore_2: print_keep
+bip_39_word_underscore_3: print_keep_ivory
+bip_39_word_underscore_4: print_keep_ivory_observe
+bip_39_word_underscore_5: print_keep_ivory_observe_melody
+bip_39_word_underscore_6: print_keep_ivory_observe_melody_guilt
+bip_39_word_underscore_7: print_keep_ivory_observe_melody_guilt_bubble
+bip_39_word_underscore_8: print_keep_ivory_observe_melody_guilt_bubble_cash
+bip_39_word_underscore_9: print_keep_ivory_observe_melody_guilt_bubble_cash_rapid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

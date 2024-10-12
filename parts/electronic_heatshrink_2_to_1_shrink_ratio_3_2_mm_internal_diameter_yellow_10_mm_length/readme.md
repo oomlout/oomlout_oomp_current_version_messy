@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chief |  
+| bip_39_word_dash_10 | chief-galaxy-rebel-fragile-civil-alert-arrow-save-task-six |  
+| bip_39_word_dash_11 | chief-galaxy-rebel-fragile-civil-alert-arrow-save-task-six-other |  
+| bip_39_word_dash_12 | chief-galaxy-rebel-fragile-civil-alert-arrow-save-task-six-other-announce |  
+| bip_39_word_dash_2 | chief-galaxy |  
+| bip_39_word_dash_3 | chief-galaxy-rebel |  
+| bip_39_word_dash_4 | chief-galaxy-rebel-fragile |  
+| bip_39_word_dash_5 | chief-galaxy-rebel-fragile-civil |  
+| bip_39_word_dash_6 | chief-galaxy-rebel-fragile-civil-alert |  
+| bip_39_word_dash_7 | chief-galaxy-rebel-fragile-civil-alert-arrow |  
+| bip_39_word_dash_8 | chief-galaxy-rebel-fragile-civil-alert-arrow-save |  
+| bip_39_word_dash_9 | chief-galaxy-rebel-fragile-civil-alert-arrow-save-task |  
 | bip_39_word_new_br_1 | chief |  
 | bip_39_word_new_br_10 | chief<br>galaxy<br>rebel<br>fragile<br>civil<br>alert<br>arrow<br>save<br>task<br>six |  
 | bip_39_word_new_br_11 | chief<br>galaxy<br>rebel<br>fragile<br>civil<br>alert<br>arrow<br>save<br>task<br>six<br>other |  
@@ -147,6 +159,18 @@ task |
 | bip_39_word_space_7 | chief galaxy rebel fragile civil alert arrow |  
 | bip_39_word_space_8 | chief galaxy rebel fragile civil alert arrow save |  
 | bip_39_word_space_9 | chief galaxy rebel fragile civil alert arrow save task |  
+| bip_39_word_underscore_1 | chief |  
+| bip_39_word_underscore_10 | chief_galaxy_rebel_fragile_civil_alert_arrow_save_task_six |  
+| bip_39_word_underscore_11 | chief_galaxy_rebel_fragile_civil_alert_arrow_save_task_six_other |  
+| bip_39_word_underscore_12 | chief_galaxy_rebel_fragile_civil_alert_arrow_save_task_six_other_announce |  
+| bip_39_word_underscore_2 | chief_galaxy |  
+| bip_39_word_underscore_3 | chief_galaxy_rebel |  
+| bip_39_word_underscore_4 | chief_galaxy_rebel_fragile |  
+| bip_39_word_underscore_5 | chief_galaxy_rebel_fragile_civil |  
+| bip_39_word_underscore_6 | chief_galaxy_rebel_fragile_civil_alert |  
+| bip_39_word_underscore_7 | chief_galaxy_rebel_fragile_civil_alert_arrow |  
+| bip_39_word_underscore_8 | chief_galaxy_rebel_fragile_civil_alert_arrow_save |  
+| bip_39_word_underscore_9 | chief_galaxy_rebel_fragile_civil_alert_arrow_save_task |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

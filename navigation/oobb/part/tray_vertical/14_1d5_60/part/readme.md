@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | liar |  
+| bip_39_word_dash_10 | liar-solar-cactus-claw-twelve-island-now-wagon-artwork-need |  
+| bip_39_word_dash_11 | liar-solar-cactus-claw-twelve-island-now-wagon-artwork-need-cereal |  
+| bip_39_word_dash_12 | liar-solar-cactus-claw-twelve-island-now-wagon-artwork-need-cereal-asthma |  
+| bip_39_word_dash_2 | liar-solar |  
+| bip_39_word_dash_3 | liar-solar-cactus |  
+| bip_39_word_dash_4 | liar-solar-cactus-claw |  
+| bip_39_word_dash_5 | liar-solar-cactus-claw-twelve |  
+| bip_39_word_dash_6 | liar-solar-cactus-claw-twelve-island |  
+| bip_39_word_dash_7 | liar-solar-cactus-claw-twelve-island-now |  
+| bip_39_word_dash_8 | liar-solar-cactus-claw-twelve-island-now-wagon |  
+| bip_39_word_dash_9 | liar-solar-cactus-claw-twelve-island-now-wagon-artwork |  
 | bip_39_word_new_br_1 | liar |  
 | bip_39_word_new_br_10 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon<br>artwork<br>need |  
 | bip_39_word_new_br_11 | liar<br>solar<br>cactus<br>claw<br>twelve<br>island<br>now<br>wagon<br>artwork<br>need<br>cereal |  
@@ -147,6 +159,18 @@ artwork |
 | bip_39_word_space_7 | liar solar cactus claw twelve island now |  
 | bip_39_word_space_8 | liar solar cactus claw twelve island now wagon |  
 | bip_39_word_space_9 | liar solar cactus claw twelve island now wagon artwork |  
+| bip_39_word_underscore_1 | liar |  
+| bip_39_word_underscore_10 | liar_solar_cactus_claw_twelve_island_now_wagon_artwork_need |  
+| bip_39_word_underscore_11 | liar_solar_cactus_claw_twelve_island_now_wagon_artwork_need_cereal |  
+| bip_39_word_underscore_12 | liar_solar_cactus_claw_twelve_island_now_wagon_artwork_need_cereal_asthma |  
+| bip_39_word_underscore_2 | liar_solar |  
+| bip_39_word_underscore_3 | liar_solar_cactus |  
+| bip_39_word_underscore_4 | liar_solar_cactus_claw |  
+| bip_39_word_underscore_5 | liar_solar_cactus_claw_twelve |  
+| bip_39_word_underscore_6 | liar_solar_cactus_claw_twelve_island |  
+| bip_39_word_underscore_7 | liar_solar_cactus_claw_twelve_island_now |  
+| bip_39_word_underscore_8 | liar_solar_cactus_claw_twelve_island_now_wagon |  
+| bip_39_word_underscore_9 | liar_solar_cactus_claw_twelve_island_now_wagon_artwork |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

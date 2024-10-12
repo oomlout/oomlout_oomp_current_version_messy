@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | canoe |  
+| bip_39_word_dash_10 | canoe-remove-drip-street-please-street-leisure-nice-fiction-tell |  
+| bip_39_word_dash_11 | canoe-remove-drip-street-please-street-leisure-nice-fiction-tell-wage |  
+| bip_39_word_dash_12 | canoe-remove-drip-street-please-street-leisure-nice-fiction-tell-wage-abstract |  
+| bip_39_word_dash_2 | canoe-remove |  
+| bip_39_word_dash_3 | canoe-remove-drip |  
+| bip_39_word_dash_4 | canoe-remove-drip-street |  
+| bip_39_word_dash_5 | canoe-remove-drip-street-please |  
+| bip_39_word_dash_6 | canoe-remove-drip-street-please-street |  
+| bip_39_word_dash_7 | canoe-remove-drip-street-please-street-leisure |  
+| bip_39_word_dash_8 | canoe-remove-drip-street-please-street-leisure-nice |  
+| bip_39_word_dash_9 | canoe-remove-drip-street-please-street-leisure-nice-fiction |  
 | bip_39_word_new_br_1 | canoe |  
 | bip_39_word_new_br_10 | canoe<br>remove<br>drip<br>street<br>please<br>street<br>leisure<br>nice<br>fiction<br>tell |  
 | bip_39_word_new_br_11 | canoe<br>remove<br>drip<br>street<br>please<br>street<br>leisure<br>nice<br>fiction<br>tell<br>wage |  
@@ -147,6 +159,18 @@ fiction |
 | bip_39_word_space_7 | canoe remove drip street please street leisure |  
 | bip_39_word_space_8 | canoe remove drip street please street leisure nice |  
 | bip_39_word_space_9 | canoe remove drip street please street leisure nice fiction |  
+| bip_39_word_underscore_1 | canoe |  
+| bip_39_word_underscore_10 | canoe_remove_drip_street_please_street_leisure_nice_fiction_tell |  
+| bip_39_word_underscore_11 | canoe_remove_drip_street_please_street_leisure_nice_fiction_tell_wage |  
+| bip_39_word_underscore_12 | canoe_remove_drip_street_please_street_leisure_nice_fiction_tell_wage_abstract |  
+| bip_39_word_underscore_2 | canoe_remove |  
+| bip_39_word_underscore_3 | canoe_remove_drip |  
+| bip_39_word_underscore_4 | canoe_remove_drip_street |  
+| bip_39_word_underscore_5 | canoe_remove_drip_street_please |  
+| bip_39_word_underscore_6 | canoe_remove_drip_street_please_street |  
+| bip_39_word_underscore_7 | canoe_remove_drip_street_please_street_leisure |  
+| bip_39_word_underscore_8 | canoe_remove_drip_street_please_street_leisure_nice |  
+| bip_39_word_underscore_9 | canoe_remove_drip_street_please_street_leisure_nice_fiction |  
 | classification | storage |  
 | classification_capital | Storage |  
 | classification_first_letter | s |  

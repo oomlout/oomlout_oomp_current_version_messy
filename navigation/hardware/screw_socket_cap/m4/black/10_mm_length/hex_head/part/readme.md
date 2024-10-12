@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plunge |  
+| bip_39_word_dash_10 | plunge-define-second-arrow-pen-inmate-member-obscure-dawn-unit |  
+| bip_39_word_dash_11 | plunge-define-second-arrow-pen-inmate-member-obscure-dawn-unit-music |  
+| bip_39_word_dash_12 | plunge-define-second-arrow-pen-inmate-member-obscure-dawn-unit-music-alley |  
+| bip_39_word_dash_2 | plunge-define |  
+| bip_39_word_dash_3 | plunge-define-second |  
+| bip_39_word_dash_4 | plunge-define-second-arrow |  
+| bip_39_word_dash_5 | plunge-define-second-arrow-pen |  
+| bip_39_word_dash_6 | plunge-define-second-arrow-pen-inmate |  
+| bip_39_word_dash_7 | plunge-define-second-arrow-pen-inmate-member |  
+| bip_39_word_dash_8 | plunge-define-second-arrow-pen-inmate-member-obscure |  
+| bip_39_word_dash_9 | plunge-define-second-arrow-pen-inmate-member-obscure-dawn |  
 | bip_39_word_new_br_1 | plunge |  
 | bip_39_word_new_br_10 | plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure<br>dawn<br>unit |  
 | bip_39_word_new_br_11 | plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure<br>dawn<br>unit<br>music |  
@@ -147,6 +159,18 @@ dawn |
 | bip_39_word_space_7 | plunge define second arrow pen inmate member |  
 | bip_39_word_space_8 | plunge define second arrow pen inmate member obscure |  
 | bip_39_word_space_9 | plunge define second arrow pen inmate member obscure dawn |  
+| bip_39_word_underscore_1 | plunge |  
+| bip_39_word_underscore_10 | plunge_define_second_arrow_pen_inmate_member_obscure_dawn_unit |  
+| bip_39_word_underscore_11 | plunge_define_second_arrow_pen_inmate_member_obscure_dawn_unit_music |  
+| bip_39_word_underscore_12 | plunge_define_second_arrow_pen_inmate_member_obscure_dawn_unit_music_alley |  
+| bip_39_word_underscore_2 | plunge_define |  
+| bip_39_word_underscore_3 | plunge_define_second |  
+| bip_39_word_underscore_4 | plunge_define_second_arrow |  
+| bip_39_word_underscore_5 | plunge_define_second_arrow_pen |  
+| bip_39_word_underscore_6 | plunge_define_second_arrow_pen_inmate |  
+| bip_39_word_underscore_7 | plunge_define_second_arrow_pen_inmate_member |  
+| bip_39_word_underscore_8 | plunge_define_second_arrow_pen_inmate_member_obscure |  
+| bip_39_word_underscore_9 | plunge_define_second_arrow_pen_inmate_member_obscure_dawn |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jacket |  
+| bip_39_word_dash_10 | jacket-stay-setup-oval-rhythm-oppose-file-reveal-bounce-squeeze |  
+| bip_39_word_dash_11 | jacket-stay-setup-oval-rhythm-oppose-file-reveal-bounce-squeeze-best |  
+| bip_39_word_dash_2 | jacket-stay |  
+| bip_39_word_dash_3 | jacket-stay-setup |  
+| bip_39_word_dash_4 | jacket-stay-setup-oval |  
+| bip_39_word_dash_5 | jacket-stay-setup-oval-rhythm |  
+| bip_39_word_dash_6 | jacket-stay-setup-oval-rhythm-oppose |  
+| bip_39_word_dash_7 | jacket-stay-setup-oval-rhythm-oppose-file |  
+| bip_39_word_dash_8 | jacket-stay-setup-oval-rhythm-oppose-file-reveal |  
+| bip_39_word_dash_9 | jacket-stay-setup-oval-rhythm-oppose-file-reveal-bounce |  
 | bip_39_word_new_br_1 | jacket |  
 | bip_39_word_new_br_10 | jacket<br>stay<br>setup<br>oval<br>rhythm<br>oppose<br>file<br>reveal<br>bounce<br>squeeze |  
 | bip_39_word_new_br_11 | jacket<br>stay<br>setup<br>oval<br>rhythm<br>oppose<br>file<br>reveal<br>bounce<br>squeeze<br>best |  
@@ -132,6 +143,17 @@ bounce |
 | bip_39_word_space_7 | jacket stay setup oval rhythm oppose file |  
 | bip_39_word_space_8 | jacket stay setup oval rhythm oppose file reveal |  
 | bip_39_word_space_9 | jacket stay setup oval rhythm oppose file reveal bounce |  
+| bip_39_word_underscore_1 | jacket |  
+| bip_39_word_underscore_10 | jacket_stay_setup_oval_rhythm_oppose_file_reveal_bounce_squeeze |  
+| bip_39_word_underscore_11 | jacket_stay_setup_oval_rhythm_oppose_file_reveal_bounce_squeeze_best |  
+| bip_39_word_underscore_2 | jacket_stay |  
+| bip_39_word_underscore_3 | jacket_stay_setup |  
+| bip_39_word_underscore_4 | jacket_stay_setup_oval |  
+| bip_39_word_underscore_5 | jacket_stay_setup_oval_rhythm |  
+| bip_39_word_underscore_6 | jacket_stay_setup_oval_rhythm_oppose |  
+| bip_39_word_underscore_7 | jacket_stay_setup_oval_rhythm_oppose_file |  
+| bip_39_word_underscore_8 | jacket_stay_setup_oval_rhythm_oppose_file_reveal |  
+| bip_39_word_underscore_9 | jacket_stay_setup_oval_rhythm_oppose_file_reveal_bounce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

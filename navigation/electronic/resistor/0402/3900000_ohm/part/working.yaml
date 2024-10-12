@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mouse
+bip_39_word_dash_10: mouse-tennis-own-car-glimpse-volcano-possible-reason-wood-tragic
+bip_39_word_dash_11: mouse-tennis-own-car-glimpse-volcano-possible-reason-wood-tragic-pottery
+bip_39_word_dash_12: mouse-tennis-own-car-glimpse-volcano-possible-reason-wood-tragic-pottery-abuse
+bip_39_word_dash_2: mouse-tennis
+bip_39_word_dash_3: mouse-tennis-own
+bip_39_word_dash_4: mouse-tennis-own-car
+bip_39_word_dash_5: mouse-tennis-own-car-glimpse
+bip_39_word_dash_6: mouse-tennis-own-car-glimpse-volcano
+bip_39_word_dash_7: mouse-tennis-own-car-glimpse-volcano-possible
+bip_39_word_dash_8: mouse-tennis-own-car-glimpse-volcano-possible-reason
+bip_39_word_dash_9: mouse-tennis-own-car-glimpse-volcano-possible-reason-wood
 bip_39_word_new_br_1: mouse
 bip_39_word_new_br_10: mouse<br>tennis<br>own<br>car<br>glimpse<br>volcano<br>possible<br>reason<br>wood<br>tragic
 bip_39_word_new_br_11: mouse<br>tennis<br>own<br>car<br>glimpse<br>volcano<br>possible<br>reason<br>wood<br>tragic<br>pottery
@@ -193,6 +205,18 @@ bip_39_word_space_6: mouse tennis own car glimpse volcano
 bip_39_word_space_7: mouse tennis own car glimpse volcano possible
 bip_39_word_space_8: mouse tennis own car glimpse volcano possible reason
 bip_39_word_space_9: mouse tennis own car glimpse volcano possible reason wood
+bip_39_word_underscore_1: mouse
+bip_39_word_underscore_10: mouse_tennis_own_car_glimpse_volcano_possible_reason_wood_tragic
+bip_39_word_underscore_11: mouse_tennis_own_car_glimpse_volcano_possible_reason_wood_tragic_pottery
+bip_39_word_underscore_12: mouse_tennis_own_car_glimpse_volcano_possible_reason_wood_tragic_pottery_abuse
+bip_39_word_underscore_2: mouse_tennis
+bip_39_word_underscore_3: mouse_tennis_own
+bip_39_word_underscore_4: mouse_tennis_own_car
+bip_39_word_underscore_5: mouse_tennis_own_car_glimpse
+bip_39_word_underscore_6: mouse_tennis_own_car_glimpse_volcano
+bip_39_word_underscore_7: mouse_tennis_own_car_glimpse_volcano_possible
+bip_39_word_underscore_8: mouse_tennis_own_car_glimpse_volcano_possible_reason
+bip_39_word_underscore_9: mouse_tennis_own_car_glimpse_volcano_possible_reason_wood
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

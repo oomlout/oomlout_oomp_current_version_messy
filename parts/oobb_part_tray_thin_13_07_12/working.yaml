@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sugar
+bip_39_word_dash_10: sugar-blanket-solar-gauge-because-usual-label-alone-little-pink
+bip_39_word_dash_11: sugar-blanket-solar-gauge-because-usual-label-alone-little-pink-cup
+bip_39_word_dash_12: sugar-blanket-solar-gauge-because-usual-label-alone-little-pink-cup-all
+bip_39_word_dash_2: sugar-blanket
+bip_39_word_dash_3: sugar-blanket-solar
+bip_39_word_dash_4: sugar-blanket-solar-gauge
+bip_39_word_dash_5: sugar-blanket-solar-gauge-because
+bip_39_word_dash_6: sugar-blanket-solar-gauge-because-usual
+bip_39_word_dash_7: sugar-blanket-solar-gauge-because-usual-label
+bip_39_word_dash_8: sugar-blanket-solar-gauge-because-usual-label-alone
+bip_39_word_dash_9: sugar-blanket-solar-gauge-because-usual-label-alone-little
 bip_39_word_new_br_1: sugar
 bip_39_word_new_br_10: sugar<br>blanket<br>solar<br>gauge<br>because<br>usual<br>label<br>alone<br>little<br>pink
 bip_39_word_new_br_11: sugar<br>blanket<br>solar<br>gauge<br>because<br>usual<br>label<br>alone<br>little<br>pink<br>cup
@@ -193,6 +205,18 @@ bip_39_word_space_6: sugar blanket solar gauge because usual
 bip_39_word_space_7: sugar blanket solar gauge because usual label
 bip_39_word_space_8: sugar blanket solar gauge because usual label alone
 bip_39_word_space_9: sugar blanket solar gauge because usual label alone little
+bip_39_word_underscore_1: sugar
+bip_39_word_underscore_10: sugar_blanket_solar_gauge_because_usual_label_alone_little_pink
+bip_39_word_underscore_11: sugar_blanket_solar_gauge_because_usual_label_alone_little_pink_cup
+bip_39_word_underscore_12: sugar_blanket_solar_gauge_because_usual_label_alone_little_pink_cup_all
+bip_39_word_underscore_2: sugar_blanket
+bip_39_word_underscore_3: sugar_blanket_solar
+bip_39_word_underscore_4: sugar_blanket_solar_gauge
+bip_39_word_underscore_5: sugar_blanket_solar_gauge_because
+bip_39_word_underscore_6: sugar_blanket_solar_gauge_because_usual
+bip_39_word_underscore_7: sugar_blanket_solar_gauge_because_usual_label
+bip_39_word_underscore_8: sugar_blanket_solar_gauge_because_usual_label_alone
+bip_39_word_underscore_9: sugar_blanket_solar_gauge_because_usual_label_alone_little
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

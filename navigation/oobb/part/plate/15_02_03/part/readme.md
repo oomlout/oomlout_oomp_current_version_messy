@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | senior |  
+| bip_39_word_dash_10 | senior-upgrade-drift-symptom-output-snap-flush-client-twist-monkey |  
+| bip_39_word_dash_11 | senior-upgrade-drift-symptom-output-snap-flush-client-twist-monkey-blue |  
+| bip_39_word_dash_12 | senior-upgrade-drift-symptom-output-snap-flush-client-twist-monkey-blue-asthma |  
+| bip_39_word_dash_2 | senior-upgrade |  
+| bip_39_word_dash_3 | senior-upgrade-drift |  
+| bip_39_word_dash_4 | senior-upgrade-drift-symptom |  
+| bip_39_word_dash_5 | senior-upgrade-drift-symptom-output |  
+| bip_39_word_dash_6 | senior-upgrade-drift-symptom-output-snap |  
+| bip_39_word_dash_7 | senior-upgrade-drift-symptom-output-snap-flush |  
+| bip_39_word_dash_8 | senior-upgrade-drift-symptom-output-snap-flush-client |  
+| bip_39_word_dash_9 | senior-upgrade-drift-symptom-output-snap-flush-client-twist |  
 | bip_39_word_new_br_1 | senior |  
 | bip_39_word_new_br_10 | senior<br>upgrade<br>drift<br>symptom<br>output<br>snap<br>flush<br>client<br>twist<br>monkey |  
 | bip_39_word_new_br_11 | senior<br>upgrade<br>drift<br>symptom<br>output<br>snap<br>flush<br>client<br>twist<br>monkey<br>blue |  
@@ -147,6 +159,18 @@ twist |
 | bip_39_word_space_7 | senior upgrade drift symptom output snap flush |  
 | bip_39_word_space_8 | senior upgrade drift symptom output snap flush client |  
 | bip_39_word_space_9 | senior upgrade drift symptom output snap flush client twist |  
+| bip_39_word_underscore_1 | senior |  
+| bip_39_word_underscore_10 | senior_upgrade_drift_symptom_output_snap_flush_client_twist_monkey |  
+| bip_39_word_underscore_11 | senior_upgrade_drift_symptom_output_snap_flush_client_twist_monkey_blue |  
+| bip_39_word_underscore_12 | senior_upgrade_drift_symptom_output_snap_flush_client_twist_monkey_blue_asthma |  
+| bip_39_word_underscore_2 | senior_upgrade |  
+| bip_39_word_underscore_3 | senior_upgrade_drift |  
+| bip_39_word_underscore_4 | senior_upgrade_drift_symptom |  
+| bip_39_word_underscore_5 | senior_upgrade_drift_symptom_output |  
+| bip_39_word_underscore_6 | senior_upgrade_drift_symptom_output_snap |  
+| bip_39_word_underscore_7 | senior_upgrade_drift_symptom_output_snap_flush |  
+| bip_39_word_underscore_8 | senior_upgrade_drift_symptom_output_snap_flush_client |  
+| bip_39_word_underscore_9 | senior_upgrade_drift_symptom_output_snap_flush_client_twist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

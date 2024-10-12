@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crouch |  
+| bip_39_word_dash_10 | crouch-discover-tag-then-blade-assist-human-sponsor-aisle-select |  
+| bip_39_word_dash_11 | crouch-discover-tag-then-blade-assist-human-sponsor-aisle-select-federal |  
+| bip_39_word_dash_12 | crouch-discover-tag-then-blade-assist-human-sponsor-aisle-select-federal-arrange |  
+| bip_39_word_dash_2 | crouch-discover |  
+| bip_39_word_dash_3 | crouch-discover-tag |  
+| bip_39_word_dash_4 | crouch-discover-tag-then |  
+| bip_39_word_dash_5 | crouch-discover-tag-then-blade |  
+| bip_39_word_dash_6 | crouch-discover-tag-then-blade-assist |  
+| bip_39_word_dash_7 | crouch-discover-tag-then-blade-assist-human |  
+| bip_39_word_dash_8 | crouch-discover-tag-then-blade-assist-human-sponsor |  
+| bip_39_word_dash_9 | crouch-discover-tag-then-blade-assist-human-sponsor-aisle |  
 | bip_39_word_new_br_1 | crouch |  
 | bip_39_word_new_br_10 | crouch<br>discover<br>tag<br>then<br>blade<br>assist<br>human<br>sponsor<br>aisle<br>select |  
 | bip_39_word_new_br_11 | crouch<br>discover<br>tag<br>then<br>blade<br>assist<br>human<br>sponsor<br>aisle<br>select<br>federal |  
@@ -147,6 +159,18 @@ aisle |
 | bip_39_word_space_7 | crouch discover tag then blade assist human |  
 | bip_39_word_space_8 | crouch discover tag then blade assist human sponsor |  
 | bip_39_word_space_9 | crouch discover tag then blade assist human sponsor aisle |  
+| bip_39_word_underscore_1 | crouch |  
+| bip_39_word_underscore_10 | crouch_discover_tag_then_blade_assist_human_sponsor_aisle_select |  
+| bip_39_word_underscore_11 | crouch_discover_tag_then_blade_assist_human_sponsor_aisle_select_federal |  
+| bip_39_word_underscore_12 | crouch_discover_tag_then_blade_assist_human_sponsor_aisle_select_federal_arrange |  
+| bip_39_word_underscore_2 | crouch_discover |  
+| bip_39_word_underscore_3 | crouch_discover_tag |  
+| bip_39_word_underscore_4 | crouch_discover_tag_then |  
+| bip_39_word_underscore_5 | crouch_discover_tag_then_blade |  
+| bip_39_word_underscore_6 | crouch_discover_tag_then_blade_assist |  
+| bip_39_word_underscore_7 | crouch_discover_tag_then_blade_assist_human |  
+| bip_39_word_underscore_8 | crouch_discover_tag_then_blade_assist_human_sponsor |  
+| bip_39_word_underscore_9 | crouch_discover_tag_then_blade_assist_human_sponsor_aisle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

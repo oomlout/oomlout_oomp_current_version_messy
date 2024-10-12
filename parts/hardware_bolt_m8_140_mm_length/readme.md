@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | second |  
+| bip_39_word_dash_10 | second-title-salmon-huge-door-whip-tone-convince-require-snap |  
+| bip_39_word_dash_11 | second-title-salmon-huge-door-whip-tone-convince-require-snap-sand |  
+| bip_39_word_dash_12 | second-title-salmon-huge-door-whip-tone-convince-require-snap-sand-amateur |  
+| bip_39_word_dash_2 | second-title |  
+| bip_39_word_dash_3 | second-title-salmon |  
+| bip_39_word_dash_4 | second-title-salmon-huge |  
+| bip_39_word_dash_5 | second-title-salmon-huge-door |  
+| bip_39_word_dash_6 | second-title-salmon-huge-door-whip |  
+| bip_39_word_dash_7 | second-title-salmon-huge-door-whip-tone |  
+| bip_39_word_dash_8 | second-title-salmon-huge-door-whip-tone-convince |  
+| bip_39_word_dash_9 | second-title-salmon-huge-door-whip-tone-convince-require |  
 | bip_39_word_new_br_1 | second |  
 | bip_39_word_new_br_10 | second<br>title<br>salmon<br>huge<br>door<br>whip<br>tone<br>convince<br>require<br>snap |  
 | bip_39_word_new_br_11 | second<br>title<br>salmon<br>huge<br>door<br>whip<br>tone<br>convince<br>require<br>snap<br>sand |  
@@ -147,6 +159,18 @@ require |
 | bip_39_word_space_7 | second title salmon huge door whip tone |  
 | bip_39_word_space_8 | second title salmon huge door whip tone convince |  
 | bip_39_word_space_9 | second title salmon huge door whip tone convince require |  
+| bip_39_word_underscore_1 | second |  
+| bip_39_word_underscore_10 | second_title_salmon_huge_door_whip_tone_convince_require_snap |  
+| bip_39_word_underscore_11 | second_title_salmon_huge_door_whip_tone_convince_require_snap_sand |  
+| bip_39_word_underscore_12 | second_title_salmon_huge_door_whip_tone_convince_require_snap_sand_amateur |  
+| bip_39_word_underscore_2 | second_title |  
+| bip_39_word_underscore_3 | second_title_salmon |  
+| bip_39_word_underscore_4 | second_title_salmon_huge |  
+| bip_39_word_underscore_5 | second_title_salmon_huge_door |  
+| bip_39_word_underscore_6 | second_title_salmon_huge_door_whip |  
+| bip_39_word_underscore_7 | second_title_salmon_huge_door_whip_tone |  
+| bip_39_word_underscore_8 | second_title_salmon_huge_door_whip_tone_convince |  
+| bip_39_word_underscore_9 | second_title_salmon_huge_door_whip_tone_convince_require |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

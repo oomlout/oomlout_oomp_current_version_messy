@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fitness
+bip_39_word_dash_10: fitness-sting-air-nominee-problem-health-cupboard-dash-tube-sun
+bip_39_word_dash_11: fitness-sting-air-nominee-problem-health-cupboard-dash-tube-sun-gorilla
+bip_39_word_dash_12: fitness-sting-air-nominee-problem-health-cupboard-dash-tube-sun-gorilla-arrow
+bip_39_word_dash_2: fitness-sting
+bip_39_word_dash_3: fitness-sting-air
+bip_39_word_dash_4: fitness-sting-air-nominee
+bip_39_word_dash_5: fitness-sting-air-nominee-problem
+bip_39_word_dash_6: fitness-sting-air-nominee-problem-health
+bip_39_word_dash_7: fitness-sting-air-nominee-problem-health-cupboard
+bip_39_word_dash_8: fitness-sting-air-nominee-problem-health-cupboard-dash
+bip_39_word_dash_9: fitness-sting-air-nominee-problem-health-cupboard-dash-tube
 bip_39_word_new_br_1: fitness
 bip_39_word_new_br_10: fitness<br>sting<br>air<br>nominee<br>problem<br>health<br>cupboard<br>dash<br>tube<br>sun
 bip_39_word_new_br_11: fitness<br>sting<br>air<br>nominee<br>problem<br>health<br>cupboard<br>dash<br>tube<br>sun<br>gorilla
@@ -194,6 +206,18 @@ bip_39_word_space_6: fitness sting air nominee problem health
 bip_39_word_space_7: fitness sting air nominee problem health cupboard
 bip_39_word_space_8: fitness sting air nominee problem health cupboard dash
 bip_39_word_space_9: fitness sting air nominee problem health cupboard dash tube
+bip_39_word_underscore_1: fitness
+bip_39_word_underscore_10: fitness_sting_air_nominee_problem_health_cupboard_dash_tube_sun
+bip_39_word_underscore_11: fitness_sting_air_nominee_problem_health_cupboard_dash_tube_sun_gorilla
+bip_39_word_underscore_12: fitness_sting_air_nominee_problem_health_cupboard_dash_tube_sun_gorilla_arrow
+bip_39_word_underscore_2: fitness_sting
+bip_39_word_underscore_3: fitness_sting_air
+bip_39_word_underscore_4: fitness_sting_air_nominee
+bip_39_word_underscore_5: fitness_sting_air_nominee_problem
+bip_39_word_underscore_6: fitness_sting_air_nominee_problem_health
+bip_39_word_underscore_7: fitness_sting_air_nominee_problem_health_cupboard
+bip_39_word_underscore_8: fitness_sting_air_nominee_problem_health_cupboard_dash
+bip_39_word_underscore_9: fitness_sting_air_nominee_problem_health_cupboard_dash_tube
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: obscure
+bip_39_word_dash_10: obscure-salad-relief-system-radar-practice-front-gown-drop-ghost
+bip_39_word_dash_11: obscure-salad-relief-system-radar-practice-front-gown-drop-ghost-pride
+bip_39_word_dash_12: obscure-salad-relief-system-radar-practice-front-gown-drop-ghost-pride-accident
+bip_39_word_dash_2: obscure-salad
+bip_39_word_dash_3: obscure-salad-relief
+bip_39_word_dash_4: obscure-salad-relief-system
+bip_39_word_dash_5: obscure-salad-relief-system-radar
+bip_39_word_dash_6: obscure-salad-relief-system-radar-practice
+bip_39_word_dash_7: obscure-salad-relief-system-radar-practice-front
+bip_39_word_dash_8: obscure-salad-relief-system-radar-practice-front-gown
+bip_39_word_dash_9: obscure-salad-relief-system-radar-practice-front-gown-drop
 bip_39_word_new_br_1: obscure
 bip_39_word_new_br_10: obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost
 bip_39_word_new_br_11: obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost<br>pride
@@ -193,6 +205,18 @@ bip_39_word_space_6: obscure salad relief system radar practice
 bip_39_word_space_7: obscure salad relief system radar practice front
 bip_39_word_space_8: obscure salad relief system radar practice front gown
 bip_39_word_space_9: obscure salad relief system radar practice front gown drop
+bip_39_word_underscore_1: obscure
+bip_39_word_underscore_10: obscure_salad_relief_system_radar_practice_front_gown_drop_ghost
+bip_39_word_underscore_11: obscure_salad_relief_system_radar_practice_front_gown_drop_ghost_pride
+bip_39_word_underscore_12: obscure_salad_relief_system_radar_practice_front_gown_drop_ghost_pride_accident
+bip_39_word_underscore_2: obscure_salad
+bip_39_word_underscore_3: obscure_salad_relief
+bip_39_word_underscore_4: obscure_salad_relief_system
+bip_39_word_underscore_5: obscure_salad_relief_system_radar
+bip_39_word_underscore_6: obscure_salad_relief_system_radar_practice
+bip_39_word_underscore_7: obscure_salad_relief_system_radar_practice_front
+bip_39_word_underscore_8: obscure_salad_relief_system_radar_practice_front_gown
+bip_39_word_underscore_9: obscure_salad_relief_system_radar_practice_front_gown_drop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

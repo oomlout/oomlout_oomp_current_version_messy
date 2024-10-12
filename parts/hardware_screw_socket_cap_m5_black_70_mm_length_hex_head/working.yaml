@@ -1,3 +1,15 @@
+bip_39_word_dash_1: delay
+bip_39_word_dash_10: delay-nuclear-leader-essence-sand-violin-achieve-brush-dilemma-crater
+bip_39_word_dash_11: delay-nuclear-leader-essence-sand-violin-achieve-brush-dilemma-crater-boring
+bip_39_word_dash_12: delay-nuclear-leader-essence-sand-violin-achieve-brush-dilemma-crater-boring-angle
+bip_39_word_dash_2: delay-nuclear
+bip_39_word_dash_3: delay-nuclear-leader
+bip_39_word_dash_4: delay-nuclear-leader-essence
+bip_39_word_dash_5: delay-nuclear-leader-essence-sand
+bip_39_word_dash_6: delay-nuclear-leader-essence-sand-violin
+bip_39_word_dash_7: delay-nuclear-leader-essence-sand-violin-achieve
+bip_39_word_dash_8: delay-nuclear-leader-essence-sand-violin-achieve-brush
+bip_39_word_dash_9: delay-nuclear-leader-essence-sand-violin-achieve-brush-dilemma
 bip_39_word_new_br_1: delay
 bip_39_word_new_br_10: delay<br>nuclear<br>leader<br>essence<br>sand<br>violin<br>achieve<br>brush<br>dilemma<br>crater
 bip_39_word_new_br_11: delay<br>nuclear<br>leader<br>essence<br>sand<br>violin<br>achieve<br>brush<br>dilemma<br>crater<br>boring
@@ -194,6 +206,18 @@ bip_39_word_space_6: delay nuclear leader essence sand violin
 bip_39_word_space_7: delay nuclear leader essence sand violin achieve
 bip_39_word_space_8: delay nuclear leader essence sand violin achieve brush
 bip_39_word_space_9: delay nuclear leader essence sand violin achieve brush dilemma
+bip_39_word_underscore_1: delay
+bip_39_word_underscore_10: delay_nuclear_leader_essence_sand_violin_achieve_brush_dilemma_crater
+bip_39_word_underscore_11: delay_nuclear_leader_essence_sand_violin_achieve_brush_dilemma_crater_boring
+bip_39_word_underscore_12: delay_nuclear_leader_essence_sand_violin_achieve_brush_dilemma_crater_boring_angle
+bip_39_word_underscore_2: delay_nuclear
+bip_39_word_underscore_3: delay_nuclear_leader
+bip_39_word_underscore_4: delay_nuclear_leader_essence
+bip_39_word_underscore_5: delay_nuclear_leader_essence_sand
+bip_39_word_underscore_6: delay_nuclear_leader_essence_sand_violin
+bip_39_word_underscore_7: delay_nuclear_leader_essence_sand_violin_achieve
+bip_39_word_underscore_8: delay_nuclear_leader_essence_sand_violin_achieve_brush
+bip_39_word_underscore_9: delay_nuclear_leader_essence_sand_violin_achieve_brush_dilemma
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fabric |  
+| bip_39_word_dash_10 | fabric-awful-brisk-repair-outside-know-ball-ring-child-tribe |  
+| bip_39_word_dash_11 | fabric-awful-brisk-repair-outside-know-ball-ring-child-tribe-near |  
+| bip_39_word_dash_12 | fabric-awful-brisk-repair-outside-know-ball-ring-child-tribe-near-annual |  
+| bip_39_word_dash_2 | fabric-awful |  
+| bip_39_word_dash_3 | fabric-awful-brisk |  
+| bip_39_word_dash_4 | fabric-awful-brisk-repair |  
+| bip_39_word_dash_5 | fabric-awful-brisk-repair-outside |  
+| bip_39_word_dash_6 | fabric-awful-brisk-repair-outside-know |  
+| bip_39_word_dash_7 | fabric-awful-brisk-repair-outside-know-ball |  
+| bip_39_word_dash_8 | fabric-awful-brisk-repair-outside-know-ball-ring |  
+| bip_39_word_dash_9 | fabric-awful-brisk-repair-outside-know-ball-ring-child |  
 | bip_39_word_new_br_1 | fabric |  
 | bip_39_word_new_br_10 | fabric<br>awful<br>brisk<br>repair<br>outside<br>know<br>ball<br>ring<br>child<br>tribe |  
 | bip_39_word_new_br_11 | fabric<br>awful<br>brisk<br>repair<br>outside<br>know<br>ball<br>ring<br>child<br>tribe<br>near |  
@@ -147,6 +159,18 @@ child |
 | bip_39_word_space_7 | fabric awful brisk repair outside know ball |  
 | bip_39_word_space_8 | fabric awful brisk repair outside know ball ring |  
 | bip_39_word_space_9 | fabric awful brisk repair outside know ball ring child |  
+| bip_39_word_underscore_1 | fabric |  
+| bip_39_word_underscore_10 | fabric_awful_brisk_repair_outside_know_ball_ring_child_tribe |  
+| bip_39_word_underscore_11 | fabric_awful_brisk_repair_outside_know_ball_ring_child_tribe_near |  
+| bip_39_word_underscore_12 | fabric_awful_brisk_repair_outside_know_ball_ring_child_tribe_near_annual |  
+| bip_39_word_underscore_2 | fabric_awful |  
+| bip_39_word_underscore_3 | fabric_awful_brisk |  
+| bip_39_word_underscore_4 | fabric_awful_brisk_repair |  
+| bip_39_word_underscore_5 | fabric_awful_brisk_repair_outside |  
+| bip_39_word_underscore_6 | fabric_awful_brisk_repair_outside_know |  
+| bip_39_word_underscore_7 | fabric_awful_brisk_repair_outside_know_ball |  
+| bip_39_word_underscore_8 | fabric_awful_brisk_repair_outside_know_ball_ring |  
+| bip_39_word_underscore_9 | fabric_awful_brisk_repair_outside_know_ball_ring_child |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

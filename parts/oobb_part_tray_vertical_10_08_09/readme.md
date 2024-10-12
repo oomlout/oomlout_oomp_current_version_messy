@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mango |  
+| bip_39_word_dash_10 | mango-hub-rival-three-shoe-good-grow-virtual-leisure-ocean |  
+| bip_39_word_dash_11 | mango-hub-rival-three-shoe-good-grow-virtual-leisure-ocean-fork |  
+| bip_39_word_dash_12 | mango-hub-rival-three-shoe-good-grow-virtual-leisure-ocean-fork-angle |  
+| bip_39_word_dash_2 | mango-hub |  
+| bip_39_word_dash_3 | mango-hub-rival |  
+| bip_39_word_dash_4 | mango-hub-rival-three |  
+| bip_39_word_dash_5 | mango-hub-rival-three-shoe |  
+| bip_39_word_dash_6 | mango-hub-rival-three-shoe-good |  
+| bip_39_word_dash_7 | mango-hub-rival-three-shoe-good-grow |  
+| bip_39_word_dash_8 | mango-hub-rival-three-shoe-good-grow-virtual |  
+| bip_39_word_dash_9 | mango-hub-rival-three-shoe-good-grow-virtual-leisure |  
 | bip_39_word_new_br_1 | mango |  
 | bip_39_word_new_br_10 | mango<br>hub<br>rival<br>three<br>shoe<br>good<br>grow<br>virtual<br>leisure<br>ocean |  
 | bip_39_word_new_br_11 | mango<br>hub<br>rival<br>three<br>shoe<br>good<br>grow<br>virtual<br>leisure<br>ocean<br>fork |  
@@ -147,6 +159,18 @@ leisure |
 | bip_39_word_space_7 | mango hub rival three shoe good grow |  
 | bip_39_word_space_8 | mango hub rival three shoe good grow virtual |  
 | bip_39_word_space_9 | mango hub rival three shoe good grow virtual leisure |  
+| bip_39_word_underscore_1 | mango |  
+| bip_39_word_underscore_10 | mango_hub_rival_three_shoe_good_grow_virtual_leisure_ocean |  
+| bip_39_word_underscore_11 | mango_hub_rival_three_shoe_good_grow_virtual_leisure_ocean_fork |  
+| bip_39_word_underscore_12 | mango_hub_rival_three_shoe_good_grow_virtual_leisure_ocean_fork_angle |  
+| bip_39_word_underscore_2 | mango_hub |  
+| bip_39_word_underscore_3 | mango_hub_rival |  
+| bip_39_word_underscore_4 | mango_hub_rival_three |  
+| bip_39_word_underscore_5 | mango_hub_rival_three_shoe |  
+| bip_39_word_underscore_6 | mango_hub_rival_three_shoe_good |  
+| bip_39_word_underscore_7 | mango_hub_rival_three_shoe_good_grow |  
+| bip_39_word_underscore_8 | mango_hub_rival_three_shoe_good_grow_virtual |  
+| bip_39_word_underscore_9 | mango_hub_rival_three_shoe_good_grow_virtual_leisure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

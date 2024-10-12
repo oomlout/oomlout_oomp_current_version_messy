@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boss |  
+| bip_39_word_dash_10 | boss-hotel-stay-expire-border-swing-verify-gun-exotic-record |  
+| bip_39_word_dash_11 | boss-hotel-stay-expire-border-swing-verify-gun-exotic-record-wrist |  
+| bip_39_word_dash_12 | boss-hotel-stay-expire-border-swing-verify-gun-exotic-record-wrist-allow |  
+| bip_39_word_dash_2 | boss-hotel |  
+| bip_39_word_dash_3 | boss-hotel-stay |  
+| bip_39_word_dash_4 | boss-hotel-stay-expire |  
+| bip_39_word_dash_5 | boss-hotel-stay-expire-border |  
+| bip_39_word_dash_6 | boss-hotel-stay-expire-border-swing |  
+| bip_39_word_dash_7 | boss-hotel-stay-expire-border-swing-verify |  
+| bip_39_word_dash_8 | boss-hotel-stay-expire-border-swing-verify-gun |  
+| bip_39_word_dash_9 | boss-hotel-stay-expire-border-swing-verify-gun-exotic |  
 | bip_39_word_new_br_1 | boss |  
 | bip_39_word_new_br_10 | boss<br>hotel<br>stay<br>expire<br>border<br>swing<br>verify<br>gun<br>exotic<br>record |  
 | bip_39_word_new_br_11 | boss<br>hotel<br>stay<br>expire<br>border<br>swing<br>verify<br>gun<br>exotic<br>record<br>wrist |  
@@ -147,6 +159,18 @@ exotic |
 | bip_39_word_space_7 | boss hotel stay expire border swing verify |  
 | bip_39_word_space_8 | boss hotel stay expire border swing verify gun |  
 | bip_39_word_space_9 | boss hotel stay expire border swing verify gun exotic |  
+| bip_39_word_underscore_1 | boss |  
+| bip_39_word_underscore_10 | boss_hotel_stay_expire_border_swing_verify_gun_exotic_record |  
+| bip_39_word_underscore_11 | boss_hotel_stay_expire_border_swing_verify_gun_exotic_record_wrist |  
+| bip_39_word_underscore_12 | boss_hotel_stay_expire_border_swing_verify_gun_exotic_record_wrist_allow |  
+| bip_39_word_underscore_2 | boss_hotel |  
+| bip_39_word_underscore_3 | boss_hotel_stay |  
+| bip_39_word_underscore_4 | boss_hotel_stay_expire |  
+| bip_39_word_underscore_5 | boss_hotel_stay_expire_border |  
+| bip_39_word_underscore_6 | boss_hotel_stay_expire_border_swing |  
+| bip_39_word_underscore_7 | boss_hotel_stay_expire_border_swing_verify |  
+| bip_39_word_underscore_8 | boss_hotel_stay_expire_border_swing_verify_gun |  
+| bip_39_word_underscore_9 | boss_hotel_stay_expire_border_swing_verify_gun_exotic |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

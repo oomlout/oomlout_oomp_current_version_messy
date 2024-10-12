@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | antique |  
+| bip_39_word_dash_10 | antique-office-main-laundry-dose-save-super-young-dune-rookie |  
+| bip_39_word_dash_11 | antique-office-main-laundry-dose-save-super-young-dune-rookie-leopard |  
+| bip_39_word_dash_12 | antique-office-main-laundry-dose-save-super-young-dune-rookie-leopard-airport |  
+| bip_39_word_dash_2 | antique-office |  
+| bip_39_word_dash_3 | antique-office-main |  
+| bip_39_word_dash_4 | antique-office-main-laundry |  
+| bip_39_word_dash_5 | antique-office-main-laundry-dose |  
+| bip_39_word_dash_6 | antique-office-main-laundry-dose-save |  
+| bip_39_word_dash_7 | antique-office-main-laundry-dose-save-super |  
+| bip_39_word_dash_8 | antique-office-main-laundry-dose-save-super-young |  
+| bip_39_word_dash_9 | antique-office-main-laundry-dose-save-super-young-dune |  
 | bip_39_word_new_br_1 | antique |  
 | bip_39_word_new_br_10 | antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young<br>dune<br>rookie |  
 | bip_39_word_new_br_11 | antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young<br>dune<br>rookie<br>leopard |  
@@ -147,6 +159,18 @@ dune |
 | bip_39_word_space_7 | antique office main laundry dose save super |  
 | bip_39_word_space_8 | antique office main laundry dose save super young |  
 | bip_39_word_space_9 | antique office main laundry dose save super young dune |  
+| bip_39_word_underscore_1 | antique |  
+| bip_39_word_underscore_10 | antique_office_main_laundry_dose_save_super_young_dune_rookie |  
+| bip_39_word_underscore_11 | antique_office_main_laundry_dose_save_super_young_dune_rookie_leopard |  
+| bip_39_word_underscore_12 | antique_office_main_laundry_dose_save_super_young_dune_rookie_leopard_airport |  
+| bip_39_word_underscore_2 | antique_office |  
+| bip_39_word_underscore_3 | antique_office_main |  
+| bip_39_word_underscore_4 | antique_office_main_laundry |  
+| bip_39_word_underscore_5 | antique_office_main_laundry_dose |  
+| bip_39_word_underscore_6 | antique_office_main_laundry_dose_save |  
+| bip_39_word_underscore_7 | antique_office_main_laundry_dose_save_super |  
+| bip_39_word_underscore_8 | antique_office_main_laundry_dose_save_super_young |  
+| bip_39_word_underscore_9 | antique_office_main_laundry_dose_save_super_young_dune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

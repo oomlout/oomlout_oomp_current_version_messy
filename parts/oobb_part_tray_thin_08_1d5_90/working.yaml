@@ -1,3 +1,15 @@
+bip_39_word_dash_1: actress
+bip_39_word_dash_10: actress-elbow-dish-argue-nose-imitate-spice-suggest-middle-voice
+bip_39_word_dash_11: actress-elbow-dish-argue-nose-imitate-spice-suggest-middle-voice-noble
+bip_39_word_dash_12: actress-elbow-dish-argue-nose-imitate-spice-suggest-middle-voice-noble-alone
+bip_39_word_dash_2: actress-elbow
+bip_39_word_dash_3: actress-elbow-dish
+bip_39_word_dash_4: actress-elbow-dish-argue
+bip_39_word_dash_5: actress-elbow-dish-argue-nose
+bip_39_word_dash_6: actress-elbow-dish-argue-nose-imitate
+bip_39_word_dash_7: actress-elbow-dish-argue-nose-imitate-spice
+bip_39_word_dash_8: actress-elbow-dish-argue-nose-imitate-spice-suggest
+bip_39_word_dash_9: actress-elbow-dish-argue-nose-imitate-spice-suggest-middle
 bip_39_word_new_br_1: actress
 bip_39_word_new_br_10: actress<br>elbow<br>dish<br>argue<br>nose<br>imitate<br>spice<br>suggest<br>middle<br>voice
 bip_39_word_new_br_11: actress<br>elbow<br>dish<br>argue<br>nose<br>imitate<br>spice<br>suggest<br>middle<br>voice<br>noble
@@ -193,6 +205,18 @@ bip_39_word_space_6: actress elbow dish argue nose imitate
 bip_39_word_space_7: actress elbow dish argue nose imitate spice
 bip_39_word_space_8: actress elbow dish argue nose imitate spice suggest
 bip_39_word_space_9: actress elbow dish argue nose imitate spice suggest middle
+bip_39_word_underscore_1: actress
+bip_39_word_underscore_10: actress_elbow_dish_argue_nose_imitate_spice_suggest_middle_voice
+bip_39_word_underscore_11: actress_elbow_dish_argue_nose_imitate_spice_suggest_middle_voice_noble
+bip_39_word_underscore_12: actress_elbow_dish_argue_nose_imitate_spice_suggest_middle_voice_noble_alone
+bip_39_word_underscore_2: actress_elbow
+bip_39_word_underscore_3: actress_elbow_dish
+bip_39_word_underscore_4: actress_elbow_dish_argue
+bip_39_word_underscore_5: actress_elbow_dish_argue_nose
+bip_39_word_underscore_6: actress_elbow_dish_argue_nose_imitate
+bip_39_word_underscore_7: actress_elbow_dish_argue_nose_imitate_spice
+bip_39_word_underscore_8: actress_elbow_dish_argue_nose_imitate_spice_suggest
+bip_39_word_underscore_9: actress_elbow_dish_argue_nose_imitate_spice_suggest_middle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

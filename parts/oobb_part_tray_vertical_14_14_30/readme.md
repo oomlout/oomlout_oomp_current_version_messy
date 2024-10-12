@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | media |  
+| bip_39_word_dash_10 | media-choose-body-drive-quote-feature-pulp-accuse-churn-monkey |  
+| bip_39_word_dash_11 | media-choose-body-drive-quote-feature-pulp-accuse-churn-monkey-captain |  
+| bip_39_word_dash_12 | media-choose-body-drive-quote-feature-pulp-accuse-churn-monkey-captain-alert |  
+| bip_39_word_dash_2 | media-choose |  
+| bip_39_word_dash_3 | media-choose-body |  
+| bip_39_word_dash_4 | media-choose-body-drive |  
+| bip_39_word_dash_5 | media-choose-body-drive-quote |  
+| bip_39_word_dash_6 | media-choose-body-drive-quote-feature |  
+| bip_39_word_dash_7 | media-choose-body-drive-quote-feature-pulp |  
+| bip_39_word_dash_8 | media-choose-body-drive-quote-feature-pulp-accuse |  
+| bip_39_word_dash_9 | media-choose-body-drive-quote-feature-pulp-accuse-churn |  
 | bip_39_word_new_br_1 | media |  
 | bip_39_word_new_br_10 | media<br>choose<br>body<br>drive<br>quote<br>feature<br>pulp<br>accuse<br>churn<br>monkey |  
 | bip_39_word_new_br_11 | media<br>choose<br>body<br>drive<br>quote<br>feature<br>pulp<br>accuse<br>churn<br>monkey<br>captain |  
@@ -147,6 +159,18 @@ churn |
 | bip_39_word_space_7 | media choose body drive quote feature pulp |  
 | bip_39_word_space_8 | media choose body drive quote feature pulp accuse |  
 | bip_39_word_space_9 | media choose body drive quote feature pulp accuse churn |  
+| bip_39_word_underscore_1 | media |  
+| bip_39_word_underscore_10 | media_choose_body_drive_quote_feature_pulp_accuse_churn_monkey |  
+| bip_39_word_underscore_11 | media_choose_body_drive_quote_feature_pulp_accuse_churn_monkey_captain |  
+| bip_39_word_underscore_12 | media_choose_body_drive_quote_feature_pulp_accuse_churn_monkey_captain_alert |  
+| bip_39_word_underscore_2 | media_choose |  
+| bip_39_word_underscore_3 | media_choose_body |  
+| bip_39_word_underscore_4 | media_choose_body_drive |  
+| bip_39_word_underscore_5 | media_choose_body_drive_quote |  
+| bip_39_word_underscore_6 | media_choose_body_drive_quote_feature |  
+| bip_39_word_underscore_7 | media_choose_body_drive_quote_feature_pulp |  
+| bip_39_word_underscore_8 | media_choose_body_drive_quote_feature_pulp_accuse |  
+| bip_39_word_underscore_9 | media_choose_body_drive_quote_feature_pulp_accuse_churn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

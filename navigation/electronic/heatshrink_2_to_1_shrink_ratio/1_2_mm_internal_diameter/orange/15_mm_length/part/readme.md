@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | robot |  
+| bip_39_word_dash_10 | robot-pitch-review-prepare-denial-infant-machine-mandate-ankle-fetch |  
+| bip_39_word_dash_11 | robot-pitch-review-prepare-denial-infant-machine-mandate-ankle-fetch-flame |  
+| bip_39_word_dash_12 | robot-pitch-review-prepare-denial-infant-machine-mandate-ankle-fetch-flame-amazing |  
+| bip_39_word_dash_2 | robot-pitch |  
+| bip_39_word_dash_3 | robot-pitch-review |  
+| bip_39_word_dash_4 | robot-pitch-review-prepare |  
+| bip_39_word_dash_5 | robot-pitch-review-prepare-denial |  
+| bip_39_word_dash_6 | robot-pitch-review-prepare-denial-infant |  
+| bip_39_word_dash_7 | robot-pitch-review-prepare-denial-infant-machine |  
+| bip_39_word_dash_8 | robot-pitch-review-prepare-denial-infant-machine-mandate |  
+| bip_39_word_dash_9 | robot-pitch-review-prepare-denial-infant-machine-mandate-ankle |  
 | bip_39_word_new_br_1 | robot |  
 | bip_39_word_new_br_10 | robot<br>pitch<br>review<br>prepare<br>denial<br>infant<br>machine<br>mandate<br>ankle<br>fetch |  
 | bip_39_word_new_br_11 | robot<br>pitch<br>review<br>prepare<br>denial<br>infant<br>machine<br>mandate<br>ankle<br>fetch<br>flame |  
@@ -147,6 +159,18 @@ ankle |
 | bip_39_word_space_7 | robot pitch review prepare denial infant machine |  
 | bip_39_word_space_8 | robot pitch review prepare denial infant machine mandate |  
 | bip_39_word_space_9 | robot pitch review prepare denial infant machine mandate ankle |  
+| bip_39_word_underscore_1 | robot |  
+| bip_39_word_underscore_10 | robot_pitch_review_prepare_denial_infant_machine_mandate_ankle_fetch |  
+| bip_39_word_underscore_11 | robot_pitch_review_prepare_denial_infant_machine_mandate_ankle_fetch_flame |  
+| bip_39_word_underscore_12 | robot_pitch_review_prepare_denial_infant_machine_mandate_ankle_fetch_flame_amazing |  
+| bip_39_word_underscore_2 | robot_pitch |  
+| bip_39_word_underscore_3 | robot_pitch_review |  
+| bip_39_word_underscore_4 | robot_pitch_review_prepare |  
+| bip_39_word_underscore_5 | robot_pitch_review_prepare_denial |  
+| bip_39_word_underscore_6 | robot_pitch_review_prepare_denial_infant |  
+| bip_39_word_underscore_7 | robot_pitch_review_prepare_denial_infant_machine |  
+| bip_39_word_underscore_8 | robot_pitch_review_prepare_denial_infant_machine_mandate |  
+| bip_39_word_underscore_9 | robot_pitch_review_prepare_denial_infant_machine_mandate_ankle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

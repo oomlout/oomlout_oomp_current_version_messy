@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | opinion |  
+| bip_39_word_dash_10 | opinion-upper-seed-swift-blind-tree-double-cost-this-grab |  
+| bip_39_word_dash_11 | opinion-upper-seed-swift-blind-tree-double-cost-this-grab-law |  
+| bip_39_word_dash_12 | opinion-upper-seed-swift-blind-tree-double-cost-this-grab-law-absurd |  
+| bip_39_word_dash_2 | opinion-upper |  
+| bip_39_word_dash_3 | opinion-upper-seed |  
+| bip_39_word_dash_4 | opinion-upper-seed-swift |  
+| bip_39_word_dash_5 | opinion-upper-seed-swift-blind |  
+| bip_39_word_dash_6 | opinion-upper-seed-swift-blind-tree |  
+| bip_39_word_dash_7 | opinion-upper-seed-swift-blind-tree-double |  
+| bip_39_word_dash_8 | opinion-upper-seed-swift-blind-tree-double-cost |  
+| bip_39_word_dash_9 | opinion-upper-seed-swift-blind-tree-double-cost-this |  
 | bip_39_word_new_br_1 | opinion |  
 | bip_39_word_new_br_10 | opinion<br>upper<br>seed<br>swift<br>blind<br>tree<br>double<br>cost<br>this<br>grab |  
 | bip_39_word_new_br_11 | opinion<br>upper<br>seed<br>swift<br>blind<br>tree<br>double<br>cost<br>this<br>grab<br>law |  
@@ -147,6 +159,18 @@ this |
 | bip_39_word_space_7 | opinion upper seed swift blind tree double |  
 | bip_39_word_space_8 | opinion upper seed swift blind tree double cost |  
 | bip_39_word_space_9 | opinion upper seed swift blind tree double cost this |  
+| bip_39_word_underscore_1 | opinion |  
+| bip_39_word_underscore_10 | opinion_upper_seed_swift_blind_tree_double_cost_this_grab |  
+| bip_39_word_underscore_11 | opinion_upper_seed_swift_blind_tree_double_cost_this_grab_law |  
+| bip_39_word_underscore_12 | opinion_upper_seed_swift_blind_tree_double_cost_this_grab_law_absurd |  
+| bip_39_word_underscore_2 | opinion_upper |  
+| bip_39_word_underscore_3 | opinion_upper_seed |  
+| bip_39_word_underscore_4 | opinion_upper_seed_swift |  
+| bip_39_word_underscore_5 | opinion_upper_seed_swift_blind |  
+| bip_39_word_underscore_6 | opinion_upper_seed_swift_blind_tree |  
+| bip_39_word_underscore_7 | opinion_upper_seed_swift_blind_tree_double |  
+| bip_39_word_underscore_8 | opinion_upper_seed_swift_blind_tree_double_cost |  
+| bip_39_word_underscore_9 | opinion_upper_seed_swift_blind_tree_double_cost_this |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | income |  
+| bip_39_word_dash_10 | income-become-weather-path-gather-hotel-material-canvas-exchange-world |  
+| bip_39_word_dash_11 | income-become-weather-path-gather-hotel-material-canvas-exchange-world-cattle |  
+| bip_39_word_dash_12 | income-become-weather-path-gather-hotel-material-canvas-exchange-world-cattle-abstract |  
+| bip_39_word_dash_2 | income-become |  
+| bip_39_word_dash_3 | income-become-weather |  
+| bip_39_word_dash_4 | income-become-weather-path |  
+| bip_39_word_dash_5 | income-become-weather-path-gather |  
+| bip_39_word_dash_6 | income-become-weather-path-gather-hotel |  
+| bip_39_word_dash_7 | income-become-weather-path-gather-hotel-material |  
+| bip_39_word_dash_8 | income-become-weather-path-gather-hotel-material-canvas |  
+| bip_39_word_dash_9 | income-become-weather-path-gather-hotel-material-canvas-exchange |  
 | bip_39_word_new_br_1 | income |  
 | bip_39_word_new_br_10 | income<br>become<br>weather<br>path<br>gather<br>hotel<br>material<br>canvas<br>exchange<br>world |  
 | bip_39_word_new_br_11 | income<br>become<br>weather<br>path<br>gather<br>hotel<br>material<br>canvas<br>exchange<br>world<br>cattle |  
@@ -147,6 +159,18 @@ exchange |
 | bip_39_word_space_7 | income become weather path gather hotel material |  
 | bip_39_word_space_8 | income become weather path gather hotel material canvas |  
 | bip_39_word_space_9 | income become weather path gather hotel material canvas exchange |  
+| bip_39_word_underscore_1 | income |  
+| bip_39_word_underscore_10 | income_become_weather_path_gather_hotel_material_canvas_exchange_world |  
+| bip_39_word_underscore_11 | income_become_weather_path_gather_hotel_material_canvas_exchange_world_cattle |  
+| bip_39_word_underscore_12 | income_become_weather_path_gather_hotel_material_canvas_exchange_world_cattle_abstract |  
+| bip_39_word_underscore_2 | income_become |  
+| bip_39_word_underscore_3 | income_become_weather |  
+| bip_39_word_underscore_4 | income_become_weather_path |  
+| bip_39_word_underscore_5 | income_become_weather_path_gather |  
+| bip_39_word_underscore_6 | income_become_weather_path_gather_hotel |  
+| bip_39_word_underscore_7 | income_become_weather_path_gather_hotel_material |  
+| bip_39_word_underscore_8 | income_become_weather_path_gather_hotel_material_canvas |  
+| bip_39_word_underscore_9 | income_become_weather_path_gather_hotel_material_canvas_exchange |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

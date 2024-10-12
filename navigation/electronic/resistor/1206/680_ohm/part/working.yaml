@@ -1,3 +1,15 @@
+bip_39_word_dash_1: average
+bip_39_word_dash_10: average-tree-labor-grant-explain-layer-tilt-debris-cry-december
+bip_39_word_dash_11: average-tree-labor-grant-explain-layer-tilt-debris-cry-december-fatal
+bip_39_word_dash_12: average-tree-labor-grant-explain-layer-tilt-debris-cry-december-fatal-accuse
+bip_39_word_dash_2: average-tree
+bip_39_word_dash_3: average-tree-labor
+bip_39_word_dash_4: average-tree-labor-grant
+bip_39_word_dash_5: average-tree-labor-grant-explain
+bip_39_word_dash_6: average-tree-labor-grant-explain-layer
+bip_39_word_dash_7: average-tree-labor-grant-explain-layer-tilt
+bip_39_word_dash_8: average-tree-labor-grant-explain-layer-tilt-debris
+bip_39_word_dash_9: average-tree-labor-grant-explain-layer-tilt-debris-cry
 bip_39_word_new_br_1: average
 bip_39_word_new_br_10: average<br>tree<br>labor<br>grant<br>explain<br>layer<br>tilt<br>debris<br>cry<br>december
 bip_39_word_new_br_11: average<br>tree<br>labor<br>grant<br>explain<br>layer<br>tilt<br>debris<br>cry<br>december<br>fatal
@@ -193,6 +205,18 @@ bip_39_word_space_6: average tree labor grant explain layer
 bip_39_word_space_7: average tree labor grant explain layer tilt
 bip_39_word_space_8: average tree labor grant explain layer tilt debris
 bip_39_word_space_9: average tree labor grant explain layer tilt debris cry
+bip_39_word_underscore_1: average
+bip_39_word_underscore_10: average_tree_labor_grant_explain_layer_tilt_debris_cry_december
+bip_39_word_underscore_11: average_tree_labor_grant_explain_layer_tilt_debris_cry_december_fatal
+bip_39_word_underscore_12: average_tree_labor_grant_explain_layer_tilt_debris_cry_december_fatal_accuse
+bip_39_word_underscore_2: average_tree
+bip_39_word_underscore_3: average_tree_labor
+bip_39_word_underscore_4: average_tree_labor_grant
+bip_39_word_underscore_5: average_tree_labor_grant_explain
+bip_39_word_underscore_6: average_tree_labor_grant_explain_layer
+bip_39_word_underscore_7: average_tree_labor_grant_explain_layer_tilt
+bip_39_word_underscore_8: average_tree_labor_grant_explain_layer_tilt_debris
+bip_39_word_underscore_9: average_tree_labor_grant_explain_layer_tilt_debris_cry
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

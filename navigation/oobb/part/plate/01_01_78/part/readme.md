@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dress |  
+| bip_39_word_dash_10 | dress-all-crowd-dash-sponsor-rival-angle-deposit-entire-loop |  
+| bip_39_word_dash_11 | dress-all-crowd-dash-sponsor-rival-angle-deposit-entire-loop-six |  
+| bip_39_word_dash_12 | dress-all-crowd-dash-sponsor-rival-angle-deposit-entire-loop-six-alpha |  
+| bip_39_word_dash_2 | dress-all |  
+| bip_39_word_dash_3 | dress-all-crowd |  
+| bip_39_word_dash_4 | dress-all-crowd-dash |  
+| bip_39_word_dash_5 | dress-all-crowd-dash-sponsor |  
+| bip_39_word_dash_6 | dress-all-crowd-dash-sponsor-rival |  
+| bip_39_word_dash_7 | dress-all-crowd-dash-sponsor-rival-angle |  
+| bip_39_word_dash_8 | dress-all-crowd-dash-sponsor-rival-angle-deposit |  
+| bip_39_word_dash_9 | dress-all-crowd-dash-sponsor-rival-angle-deposit-entire |  
 | bip_39_word_new_br_1 | dress |  
 | bip_39_word_new_br_10 | dress<br>all<br>crowd<br>dash<br>sponsor<br>rival<br>angle<br>deposit<br>entire<br>loop |  
 | bip_39_word_new_br_11 | dress<br>all<br>crowd<br>dash<br>sponsor<br>rival<br>angle<br>deposit<br>entire<br>loop<br>six |  
@@ -147,6 +159,18 @@ entire |
 | bip_39_word_space_7 | dress all crowd dash sponsor rival angle |  
 | bip_39_word_space_8 | dress all crowd dash sponsor rival angle deposit |  
 | bip_39_word_space_9 | dress all crowd dash sponsor rival angle deposit entire |  
+| bip_39_word_underscore_1 | dress |  
+| bip_39_word_underscore_10 | dress_all_crowd_dash_sponsor_rival_angle_deposit_entire_loop |  
+| bip_39_word_underscore_11 | dress_all_crowd_dash_sponsor_rival_angle_deposit_entire_loop_six |  
+| bip_39_word_underscore_12 | dress_all_crowd_dash_sponsor_rival_angle_deposit_entire_loop_six_alpha |  
+| bip_39_word_underscore_2 | dress_all |  
+| bip_39_word_underscore_3 | dress_all_crowd |  
+| bip_39_word_underscore_4 | dress_all_crowd_dash |  
+| bip_39_word_underscore_5 | dress_all_crowd_dash_sponsor |  
+| bip_39_word_underscore_6 | dress_all_crowd_dash_sponsor_rival |  
+| bip_39_word_underscore_7 | dress_all_crowd_dash_sponsor_rival_angle |  
+| bip_39_word_underscore_8 | dress_all_crowd_dash_sponsor_rival_angle_deposit |  
+| bip_39_word_underscore_9 | dress_all_crowd_dash_sponsor_rival_angle_deposit_entire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

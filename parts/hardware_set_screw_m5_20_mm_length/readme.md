@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | witness |  
+| bip_39_word_dash_10 | witness-snap-two-source-punch-coconut-own-climb-sunset-matrix |  
+| bip_39_word_dash_11 | witness-snap-two-source-punch-coconut-own-climb-sunset-matrix-reveal |  
+| bip_39_word_dash_12 | witness-snap-two-source-punch-coconut-own-climb-sunset-matrix-reveal-any |  
+| bip_39_word_dash_2 | witness-snap |  
+| bip_39_word_dash_3 | witness-snap-two |  
+| bip_39_word_dash_4 | witness-snap-two-source |  
+| bip_39_word_dash_5 | witness-snap-two-source-punch |  
+| bip_39_word_dash_6 | witness-snap-two-source-punch-coconut |  
+| bip_39_word_dash_7 | witness-snap-two-source-punch-coconut-own |  
+| bip_39_word_dash_8 | witness-snap-two-source-punch-coconut-own-climb |  
+| bip_39_word_dash_9 | witness-snap-two-source-punch-coconut-own-climb-sunset |  
 | bip_39_word_new_br_1 | witness |  
 | bip_39_word_new_br_10 | witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix |  
 | bip_39_word_new_br_11 | witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix<br>reveal |  
@@ -147,6 +159,18 @@ sunset |
 | bip_39_word_space_7 | witness snap two source punch coconut own |  
 | bip_39_word_space_8 | witness snap two source punch coconut own climb |  
 | bip_39_word_space_9 | witness snap two source punch coconut own climb sunset |  
+| bip_39_word_underscore_1 | witness |  
+| bip_39_word_underscore_10 | witness_snap_two_source_punch_coconut_own_climb_sunset_matrix |  
+| bip_39_word_underscore_11 | witness_snap_two_source_punch_coconut_own_climb_sunset_matrix_reveal |  
+| bip_39_word_underscore_12 | witness_snap_two_source_punch_coconut_own_climb_sunset_matrix_reveal_any |  
+| bip_39_word_underscore_2 | witness_snap |  
+| bip_39_word_underscore_3 | witness_snap_two |  
+| bip_39_word_underscore_4 | witness_snap_two_source |  
+| bip_39_word_underscore_5 | witness_snap_two_source_punch |  
+| bip_39_word_underscore_6 | witness_snap_two_source_punch_coconut |  
+| bip_39_word_underscore_7 | witness_snap_two_source_punch_coconut_own |  
+| bip_39_word_underscore_8 | witness_snap_two_source_punch_coconut_own_climb |  
+| bip_39_word_underscore_9 | witness_snap_two_source_punch_coconut_own_climb_sunset |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

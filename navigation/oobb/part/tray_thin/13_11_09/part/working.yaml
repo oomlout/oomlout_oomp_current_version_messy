@@ -1,3 +1,15 @@
+bip_39_word_dash_1: smart
+bip_39_word_dash_10: smart-humble-become-promote-shrug-feel-pony-brain-media-cloth
+bip_39_word_dash_11: smart-humble-become-promote-shrug-feel-pony-brain-media-cloth-dawn
+bip_39_word_dash_12: smart-humble-become-promote-shrug-feel-pony-brain-media-cloth-dawn-among
+bip_39_word_dash_2: smart-humble
+bip_39_word_dash_3: smart-humble-become
+bip_39_word_dash_4: smart-humble-become-promote
+bip_39_word_dash_5: smart-humble-become-promote-shrug
+bip_39_word_dash_6: smart-humble-become-promote-shrug-feel
+bip_39_word_dash_7: smart-humble-become-promote-shrug-feel-pony
+bip_39_word_dash_8: smart-humble-become-promote-shrug-feel-pony-brain
+bip_39_word_dash_9: smart-humble-become-promote-shrug-feel-pony-brain-media
 bip_39_word_new_br_1: smart
 bip_39_word_new_br_10: smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth
 bip_39_word_new_br_11: smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth<br>dawn
@@ -193,6 +205,18 @@ bip_39_word_space_6: smart humble become promote shrug feel
 bip_39_word_space_7: smart humble become promote shrug feel pony
 bip_39_word_space_8: smart humble become promote shrug feel pony brain
 bip_39_word_space_9: smart humble become promote shrug feel pony brain media
+bip_39_word_underscore_1: smart
+bip_39_word_underscore_10: smart_humble_become_promote_shrug_feel_pony_brain_media_cloth
+bip_39_word_underscore_11: smart_humble_become_promote_shrug_feel_pony_brain_media_cloth_dawn
+bip_39_word_underscore_12: smart_humble_become_promote_shrug_feel_pony_brain_media_cloth_dawn_among
+bip_39_word_underscore_2: smart_humble
+bip_39_word_underscore_3: smart_humble_become
+bip_39_word_underscore_4: smart_humble_become_promote
+bip_39_word_underscore_5: smart_humble_become_promote_shrug
+bip_39_word_underscore_6: smart_humble_become_promote_shrug_feel
+bip_39_word_underscore_7: smart_humble_become_promote_shrug_feel_pony
+bip_39_word_underscore_8: smart_humble_become_promote_shrug_feel_pony_brain
+bip_39_word_underscore_9: smart_humble_become_promote_shrug_feel_pony_brain_media
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

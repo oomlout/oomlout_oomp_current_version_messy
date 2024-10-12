@@ -1,3 +1,15 @@
+bip_39_word_dash_1: calm
+bip_39_word_dash_10: calm-winter-level-tube-sadness-gauge-boost-dwarf-milk-tower
+bip_39_word_dash_11: calm-winter-level-tube-sadness-gauge-boost-dwarf-milk-tower-imitate
+bip_39_word_dash_12: calm-winter-level-tube-sadness-gauge-boost-dwarf-milk-tower-imitate-acquire
+bip_39_word_dash_2: calm-winter
+bip_39_word_dash_3: calm-winter-level
+bip_39_word_dash_4: calm-winter-level-tube
+bip_39_word_dash_5: calm-winter-level-tube-sadness
+bip_39_word_dash_6: calm-winter-level-tube-sadness-gauge
+bip_39_word_dash_7: calm-winter-level-tube-sadness-gauge-boost
+bip_39_word_dash_8: calm-winter-level-tube-sadness-gauge-boost-dwarf
+bip_39_word_dash_9: calm-winter-level-tube-sadness-gauge-boost-dwarf-milk
 bip_39_word_new_br_1: calm
 bip_39_word_new_br_10: calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower
 bip_39_word_new_br_11: calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower<br>imitate
@@ -193,6 +205,18 @@ bip_39_word_space_6: calm winter level tube sadness gauge
 bip_39_word_space_7: calm winter level tube sadness gauge boost
 bip_39_word_space_8: calm winter level tube sadness gauge boost dwarf
 bip_39_word_space_9: calm winter level tube sadness gauge boost dwarf milk
+bip_39_word_underscore_1: calm
+bip_39_word_underscore_10: calm_winter_level_tube_sadness_gauge_boost_dwarf_milk_tower
+bip_39_word_underscore_11: calm_winter_level_tube_sadness_gauge_boost_dwarf_milk_tower_imitate
+bip_39_word_underscore_12: calm_winter_level_tube_sadness_gauge_boost_dwarf_milk_tower_imitate_acquire
+bip_39_word_underscore_2: calm_winter
+bip_39_word_underscore_3: calm_winter_level
+bip_39_word_underscore_4: calm_winter_level_tube
+bip_39_word_underscore_5: calm_winter_level_tube_sadness
+bip_39_word_underscore_6: calm_winter_level_tube_sadness_gauge
+bip_39_word_underscore_7: calm_winter_level_tube_sadness_gauge_boost
+bip_39_word_underscore_8: calm_winter_level_tube_sadness_gauge_boost_dwarf
+bip_39_word_underscore_9: calm_winter_level_tube_sadness_gauge_boost_dwarf_milk
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | horse |  
+| bip_39_word_dash_10 | horse-nephew-will-dwarf-capital-remain-stage-neutral-glimpse-minimum |  
+| bip_39_word_dash_11 | horse-nephew-will-dwarf-capital-remain-stage-neutral-glimpse-minimum-student |  
+| bip_39_word_dash_12 | horse-nephew-will-dwarf-capital-remain-stage-neutral-glimpse-minimum-student-armor |  
+| bip_39_word_dash_2 | horse-nephew |  
+| bip_39_word_dash_3 | horse-nephew-will |  
+| bip_39_word_dash_4 | horse-nephew-will-dwarf |  
+| bip_39_word_dash_5 | horse-nephew-will-dwarf-capital |  
+| bip_39_word_dash_6 | horse-nephew-will-dwarf-capital-remain |  
+| bip_39_word_dash_7 | horse-nephew-will-dwarf-capital-remain-stage |  
+| bip_39_word_dash_8 | horse-nephew-will-dwarf-capital-remain-stage-neutral |  
+| bip_39_word_dash_9 | horse-nephew-will-dwarf-capital-remain-stage-neutral-glimpse |  
 | bip_39_word_new_br_1 | horse |  
 | bip_39_word_new_br_10 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum |  
 | bip_39_word_new_br_11 | horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum<br>student |  
@@ -147,6 +159,18 @@ glimpse |
 | bip_39_word_space_7 | horse nephew will dwarf capital remain stage |  
 | bip_39_word_space_8 | horse nephew will dwarf capital remain stage neutral |  
 | bip_39_word_space_9 | horse nephew will dwarf capital remain stage neutral glimpse |  
+| bip_39_word_underscore_1 | horse |  
+| bip_39_word_underscore_10 | horse_nephew_will_dwarf_capital_remain_stage_neutral_glimpse_minimum |  
+| bip_39_word_underscore_11 | horse_nephew_will_dwarf_capital_remain_stage_neutral_glimpse_minimum_student |  
+| bip_39_word_underscore_12 | horse_nephew_will_dwarf_capital_remain_stage_neutral_glimpse_minimum_student_armor |  
+| bip_39_word_underscore_2 | horse_nephew |  
+| bip_39_word_underscore_3 | horse_nephew_will |  
+| bip_39_word_underscore_4 | horse_nephew_will_dwarf |  
+| bip_39_word_underscore_5 | horse_nephew_will_dwarf_capital |  
+| bip_39_word_underscore_6 | horse_nephew_will_dwarf_capital_remain |  
+| bip_39_word_underscore_7 | horse_nephew_will_dwarf_capital_remain_stage |  
+| bip_39_word_underscore_8 | horse_nephew_will_dwarf_capital_remain_stage_neutral |  
+| bip_39_word_underscore_9 | horse_nephew_will_dwarf_capital_remain_stage_neutral_glimpse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

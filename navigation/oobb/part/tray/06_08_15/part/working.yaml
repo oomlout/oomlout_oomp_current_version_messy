@@ -1,3 +1,15 @@
+bip_39_word_dash_1: media
+bip_39_word_dash_10: media-bronze-wrong-salon-stove-nominee-since-state-crater-park
+bip_39_word_dash_11: media-bronze-wrong-salon-stove-nominee-since-state-crater-park-romance
+bip_39_word_dash_12: media-bronze-wrong-salon-stove-nominee-since-state-crater-park-romance-attitude
+bip_39_word_dash_2: media-bronze
+bip_39_word_dash_3: media-bronze-wrong
+bip_39_word_dash_4: media-bronze-wrong-salon
+bip_39_word_dash_5: media-bronze-wrong-salon-stove
+bip_39_word_dash_6: media-bronze-wrong-salon-stove-nominee
+bip_39_word_dash_7: media-bronze-wrong-salon-stove-nominee-since
+bip_39_word_dash_8: media-bronze-wrong-salon-stove-nominee-since-state
+bip_39_word_dash_9: media-bronze-wrong-salon-stove-nominee-since-state-crater
 bip_39_word_new_br_1: media
 bip_39_word_new_br_10: media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park
 bip_39_word_new_br_11: media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park<br>romance
@@ -193,6 +205,18 @@ bip_39_word_space_6: media bronze wrong salon stove nominee
 bip_39_word_space_7: media bronze wrong salon stove nominee since
 bip_39_word_space_8: media bronze wrong salon stove nominee since state
 bip_39_word_space_9: media bronze wrong salon stove nominee since state crater
+bip_39_word_underscore_1: media
+bip_39_word_underscore_10: media_bronze_wrong_salon_stove_nominee_since_state_crater_park
+bip_39_word_underscore_11: media_bronze_wrong_salon_stove_nominee_since_state_crater_park_romance
+bip_39_word_underscore_12: media_bronze_wrong_salon_stove_nominee_since_state_crater_park_romance_attitude
+bip_39_word_underscore_2: media_bronze
+bip_39_word_underscore_3: media_bronze_wrong
+bip_39_word_underscore_4: media_bronze_wrong_salon
+bip_39_word_underscore_5: media_bronze_wrong_salon_stove
+bip_39_word_underscore_6: media_bronze_wrong_salon_stove_nominee
+bip_39_word_underscore_7: media_bronze_wrong_salon_stove_nominee_since
+bip_39_word_underscore_8: media_bronze_wrong_salon_stove_nominee_since_state
+bip_39_word_underscore_9: media_bronze_wrong_salon_stove_nominee_since_state_crater
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

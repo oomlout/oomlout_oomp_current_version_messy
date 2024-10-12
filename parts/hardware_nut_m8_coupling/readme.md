@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | way |  
+| bip_39_word_dash_10 | way-sight-clever-fever-craft-expose-stem-century-weapon-group |  
+| bip_39_word_dash_11 | way-sight-clever-fever-craft-expose-stem-century-weapon-group-slide |  
+| bip_39_word_dash_12 | way-sight-clever-fever-craft-expose-stem-century-weapon-group-slide-ancient |  
+| bip_39_word_dash_2 | way-sight |  
+| bip_39_word_dash_3 | way-sight-clever |  
+| bip_39_word_dash_4 | way-sight-clever-fever |  
+| bip_39_word_dash_5 | way-sight-clever-fever-craft |  
+| bip_39_word_dash_6 | way-sight-clever-fever-craft-expose |  
+| bip_39_word_dash_7 | way-sight-clever-fever-craft-expose-stem |  
+| bip_39_word_dash_8 | way-sight-clever-fever-craft-expose-stem-century |  
+| bip_39_word_dash_9 | way-sight-clever-fever-craft-expose-stem-century-weapon |  
 | bip_39_word_new_br_1 | way |  
 | bip_39_word_new_br_10 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group |  
 | bip_39_word_new_br_11 | way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group<br>slide |  
@@ -147,6 +159,18 @@ weapon |
 | bip_39_word_space_7 | way sight clever fever craft expose stem |  
 | bip_39_word_space_8 | way sight clever fever craft expose stem century |  
 | bip_39_word_space_9 | way sight clever fever craft expose stem century weapon |  
+| bip_39_word_underscore_1 | way |  
+| bip_39_word_underscore_10 | way_sight_clever_fever_craft_expose_stem_century_weapon_group |  
+| bip_39_word_underscore_11 | way_sight_clever_fever_craft_expose_stem_century_weapon_group_slide |  
+| bip_39_word_underscore_12 | way_sight_clever_fever_craft_expose_stem_century_weapon_group_slide_ancient |  
+| bip_39_word_underscore_2 | way_sight |  
+| bip_39_word_underscore_3 | way_sight_clever |  
+| bip_39_word_underscore_4 | way_sight_clever_fever |  
+| bip_39_word_underscore_5 | way_sight_clever_fever_craft |  
+| bip_39_word_underscore_6 | way_sight_clever_fever_craft_expose |  
+| bip_39_word_underscore_7 | way_sight_clever_fever_craft_expose_stem |  
+| bip_39_word_underscore_8 | way_sight_clever_fever_craft_expose_stem_century |  
+| bip_39_word_underscore_9 | way_sight_clever_fever_craft_expose_stem_century_weapon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

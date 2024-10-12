@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silent |  
+| bip_39_word_dash_10 | silent-wagon-absurd-alpha-subject-mixture-insane-hawk-control-where |  
+| bip_39_word_dash_11 | silent-wagon-absurd-alpha-subject-mixture-insane-hawk-control-where-immune |  
+| bip_39_word_dash_12 | silent-wagon-absurd-alpha-subject-mixture-insane-hawk-control-where-immune-around |  
+| bip_39_word_dash_2 | silent-wagon |  
+| bip_39_word_dash_3 | silent-wagon-absurd |  
+| bip_39_word_dash_4 | silent-wagon-absurd-alpha |  
+| bip_39_word_dash_5 | silent-wagon-absurd-alpha-subject |  
+| bip_39_word_dash_6 | silent-wagon-absurd-alpha-subject-mixture |  
+| bip_39_word_dash_7 | silent-wagon-absurd-alpha-subject-mixture-insane |  
+| bip_39_word_dash_8 | silent-wagon-absurd-alpha-subject-mixture-insane-hawk |  
+| bip_39_word_dash_9 | silent-wagon-absurd-alpha-subject-mixture-insane-hawk-control |  
 | bip_39_word_new_br_1 | silent |  
 | bip_39_word_new_br_10 | silent<br>wagon<br>absurd<br>alpha<br>subject<br>mixture<br>insane<br>hawk<br>control<br>where |  
 | bip_39_word_new_br_11 | silent<br>wagon<br>absurd<br>alpha<br>subject<br>mixture<br>insane<br>hawk<br>control<br>where<br>immune |  
@@ -147,6 +159,18 @@ control |
 | bip_39_word_space_7 | silent wagon absurd alpha subject mixture insane |  
 | bip_39_word_space_8 | silent wagon absurd alpha subject mixture insane hawk |  
 | bip_39_word_space_9 | silent wagon absurd alpha subject mixture insane hawk control |  
+| bip_39_word_underscore_1 | silent |  
+| bip_39_word_underscore_10 | silent_wagon_absurd_alpha_subject_mixture_insane_hawk_control_where |  
+| bip_39_word_underscore_11 | silent_wagon_absurd_alpha_subject_mixture_insane_hawk_control_where_immune |  
+| bip_39_word_underscore_12 | silent_wagon_absurd_alpha_subject_mixture_insane_hawk_control_where_immune_around |  
+| bip_39_word_underscore_2 | silent_wagon |  
+| bip_39_word_underscore_3 | silent_wagon_absurd |  
+| bip_39_word_underscore_4 | silent_wagon_absurd_alpha |  
+| bip_39_word_underscore_5 | silent_wagon_absurd_alpha_subject |  
+| bip_39_word_underscore_6 | silent_wagon_absurd_alpha_subject_mixture |  
+| bip_39_word_underscore_7 | silent_wagon_absurd_alpha_subject_mixture_insane |  
+| bip_39_word_underscore_8 | silent_wagon_absurd_alpha_subject_mixture_insane_hawk |  
+| bip_39_word_underscore_9 | silent_wagon_absurd_alpha_subject_mixture_insane_hawk_control |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

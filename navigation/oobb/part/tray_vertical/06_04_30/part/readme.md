@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mushroom |  
+| bip_39_word_dash_10 | mushroom-that-load-engine-such-fever-hunt-between-coach-angry |  
+| bip_39_word_dash_11 | mushroom-that-load-engine-such-fever-hunt-between-coach-angry-gasp |  
+| bip_39_word_dash_12 | mushroom-that-load-engine-such-fever-hunt-between-coach-angry-gasp-again |  
+| bip_39_word_dash_2 | mushroom-that |  
+| bip_39_word_dash_3 | mushroom-that-load |  
+| bip_39_word_dash_4 | mushroom-that-load-engine |  
+| bip_39_word_dash_5 | mushroom-that-load-engine-such |  
+| bip_39_word_dash_6 | mushroom-that-load-engine-such-fever |  
+| bip_39_word_dash_7 | mushroom-that-load-engine-such-fever-hunt |  
+| bip_39_word_dash_8 | mushroom-that-load-engine-such-fever-hunt-between |  
+| bip_39_word_dash_9 | mushroom-that-load-engine-such-fever-hunt-between-coach |  
 | bip_39_word_new_br_1 | mushroom |  
 | bip_39_word_new_br_10 | mushroom<br>that<br>load<br>engine<br>such<br>fever<br>hunt<br>between<br>coach<br>angry |  
 | bip_39_word_new_br_11 | mushroom<br>that<br>load<br>engine<br>such<br>fever<br>hunt<br>between<br>coach<br>angry<br>gasp |  
@@ -147,6 +159,18 @@ coach |
 | bip_39_word_space_7 | mushroom that load engine such fever hunt |  
 | bip_39_word_space_8 | mushroom that load engine such fever hunt between |  
 | bip_39_word_space_9 | mushroom that load engine such fever hunt between coach |  
+| bip_39_word_underscore_1 | mushroom |  
+| bip_39_word_underscore_10 | mushroom_that_load_engine_such_fever_hunt_between_coach_angry |  
+| bip_39_word_underscore_11 | mushroom_that_load_engine_such_fever_hunt_between_coach_angry_gasp |  
+| bip_39_word_underscore_12 | mushroom_that_load_engine_such_fever_hunt_between_coach_angry_gasp_again |  
+| bip_39_word_underscore_2 | mushroom_that |  
+| bip_39_word_underscore_3 | mushroom_that_load |  
+| bip_39_word_underscore_4 | mushroom_that_load_engine |  
+| bip_39_word_underscore_5 | mushroom_that_load_engine_such |  
+| bip_39_word_underscore_6 | mushroom_that_load_engine_such_fever |  
+| bip_39_word_underscore_7 | mushroom_that_load_engine_such_fever_hunt |  
+| bip_39_word_underscore_8 | mushroom_that_load_engine_such_fever_hunt_between |  
+| bip_39_word_underscore_9 | mushroom_that_load_engine_such_fever_hunt_between_coach |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

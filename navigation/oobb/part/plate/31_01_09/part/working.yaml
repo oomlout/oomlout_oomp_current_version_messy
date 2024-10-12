@@ -1,3 +1,15 @@
+bip_39_word_dash_1: garden
+bip_39_word_dash_10: garden-index-chase-dumb-below-sound-million-purchase-add-menu
+bip_39_word_dash_11: garden-index-chase-dumb-below-sound-million-purchase-add-menu-cushion
+bip_39_word_dash_12: garden-index-chase-dumb-below-sound-million-purchase-add-menu-cushion-apart
+bip_39_word_dash_2: garden-index
+bip_39_word_dash_3: garden-index-chase
+bip_39_word_dash_4: garden-index-chase-dumb
+bip_39_word_dash_5: garden-index-chase-dumb-below
+bip_39_word_dash_6: garden-index-chase-dumb-below-sound
+bip_39_word_dash_7: garden-index-chase-dumb-below-sound-million
+bip_39_word_dash_8: garden-index-chase-dumb-below-sound-million-purchase
+bip_39_word_dash_9: garden-index-chase-dumb-below-sound-million-purchase-add
 bip_39_word_new_br_1: garden
 bip_39_word_new_br_10: garden<br>index<br>chase<br>dumb<br>below<br>sound<br>million<br>purchase<br>add<br>menu
 bip_39_word_new_br_11: garden<br>index<br>chase<br>dumb<br>below<br>sound<br>million<br>purchase<br>add<br>menu<br>cushion
@@ -193,6 +205,18 @@ bip_39_word_space_6: garden index chase dumb below sound
 bip_39_word_space_7: garden index chase dumb below sound million
 bip_39_word_space_8: garden index chase dumb below sound million purchase
 bip_39_word_space_9: garden index chase dumb below sound million purchase add
+bip_39_word_underscore_1: garden
+bip_39_word_underscore_10: garden_index_chase_dumb_below_sound_million_purchase_add_menu
+bip_39_word_underscore_11: garden_index_chase_dumb_below_sound_million_purchase_add_menu_cushion
+bip_39_word_underscore_12: garden_index_chase_dumb_below_sound_million_purchase_add_menu_cushion_apart
+bip_39_word_underscore_2: garden_index
+bip_39_word_underscore_3: garden_index_chase
+bip_39_word_underscore_4: garden_index_chase_dumb
+bip_39_word_underscore_5: garden_index_chase_dumb_below
+bip_39_word_underscore_6: garden_index_chase_dumb_below_sound
+bip_39_word_underscore_7: garden_index_chase_dumb_below_sound_million
+bip_39_word_underscore_8: garden_index_chase_dumb_below_sound_million_purchase
+bip_39_word_underscore_9: garden_index_chase_dumb_below_sound_million_purchase_add
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

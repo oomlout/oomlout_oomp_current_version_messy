@@ -1,3 +1,15 @@
+bip_39_word_dash_1: apart
+bip_39_word_dash_10: apart-clever-banana-reduce-discover-video-silk-wealth-ability-idea
+bip_39_word_dash_11: apart-clever-banana-reduce-discover-video-silk-wealth-ability-idea-pond
+bip_39_word_dash_12: apart-clever-banana-reduce-discover-video-silk-wealth-ability-idea-pond-attract
+bip_39_word_dash_2: apart-clever
+bip_39_word_dash_3: apart-clever-banana
+bip_39_word_dash_4: apart-clever-banana-reduce
+bip_39_word_dash_5: apart-clever-banana-reduce-discover
+bip_39_word_dash_6: apart-clever-banana-reduce-discover-video
+bip_39_word_dash_7: apart-clever-banana-reduce-discover-video-silk
+bip_39_word_dash_8: apart-clever-banana-reduce-discover-video-silk-wealth
+bip_39_word_dash_9: apart-clever-banana-reduce-discover-video-silk-wealth-ability
 bip_39_word_new_br_1: apart
 bip_39_word_new_br_10: apart<br>clever<br>banana<br>reduce<br>discover<br>video<br>silk<br>wealth<br>ability<br>idea
 bip_39_word_new_br_11: apart<br>clever<br>banana<br>reduce<br>discover<br>video<br>silk<br>wealth<br>ability<br>idea<br>pond
@@ -194,6 +206,18 @@ bip_39_word_space_6: apart clever banana reduce discover video
 bip_39_word_space_7: apart clever banana reduce discover video silk
 bip_39_word_space_8: apart clever banana reduce discover video silk wealth
 bip_39_word_space_9: apart clever banana reduce discover video silk wealth ability
+bip_39_word_underscore_1: apart
+bip_39_word_underscore_10: apart_clever_banana_reduce_discover_video_silk_wealth_ability_idea
+bip_39_word_underscore_11: apart_clever_banana_reduce_discover_video_silk_wealth_ability_idea_pond
+bip_39_word_underscore_12: apart_clever_banana_reduce_discover_video_silk_wealth_ability_idea_pond_attract
+bip_39_word_underscore_2: apart_clever
+bip_39_word_underscore_3: apart_clever_banana
+bip_39_word_underscore_4: apart_clever_banana_reduce
+bip_39_word_underscore_5: apart_clever_banana_reduce_discover
+bip_39_word_underscore_6: apart_clever_banana_reduce_discover_video
+bip_39_word_underscore_7: apart_clever_banana_reduce_discover_video_silk
+bip_39_word_underscore_8: apart_clever_banana_reduce_discover_video_silk_wealth
+bip_39_word_underscore_9: apart_clever_banana_reduce_discover_video_silk_wealth_ability
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

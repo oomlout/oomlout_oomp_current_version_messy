@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pave
+bip_39_word_dash_10: pave-column-sense-key-clay-bundle-obey-over-female-unfold
+bip_39_word_dash_11: pave-column-sense-key-clay-bundle-obey-over-female-unfold-rubber
+bip_39_word_dash_12: pave-column-sense-key-clay-bundle-obey-over-female-unfold-rubber-alpha
+bip_39_word_dash_2: pave-column
+bip_39_word_dash_3: pave-column-sense
+bip_39_word_dash_4: pave-column-sense-key
+bip_39_word_dash_5: pave-column-sense-key-clay
+bip_39_word_dash_6: pave-column-sense-key-clay-bundle
+bip_39_word_dash_7: pave-column-sense-key-clay-bundle-obey
+bip_39_word_dash_8: pave-column-sense-key-clay-bundle-obey-over
+bip_39_word_dash_9: pave-column-sense-key-clay-bundle-obey-over-female
 bip_39_word_new_br_1: pave
 bip_39_word_new_br_10: pave<br>column<br>sense<br>key<br>clay<br>bundle<br>obey<br>over<br>female<br>unfold
 bip_39_word_new_br_11: pave<br>column<br>sense<br>key<br>clay<br>bundle<br>obey<br>over<br>female<br>unfold<br>rubber
@@ -192,6 +204,18 @@ bip_39_word_space_6: pave column sense key clay bundle
 bip_39_word_space_7: pave column sense key clay bundle obey
 bip_39_word_space_8: pave column sense key clay bundle obey over
 bip_39_word_space_9: pave column sense key clay bundle obey over female
+bip_39_word_underscore_1: pave
+bip_39_word_underscore_10: pave_column_sense_key_clay_bundle_obey_over_female_unfold
+bip_39_word_underscore_11: pave_column_sense_key_clay_bundle_obey_over_female_unfold_rubber
+bip_39_word_underscore_12: pave_column_sense_key_clay_bundle_obey_over_female_unfold_rubber_alpha
+bip_39_word_underscore_2: pave_column
+bip_39_word_underscore_3: pave_column_sense
+bip_39_word_underscore_4: pave_column_sense_key
+bip_39_word_underscore_5: pave_column_sense_key_clay
+bip_39_word_underscore_6: pave_column_sense_key_clay_bundle
+bip_39_word_underscore_7: pave_column_sense_key_clay_bundle_obey
+bip_39_word_underscore_8: pave_column_sense_key_clay_bundle_obey_over
+bip_39_word_underscore_9: pave_column_sense_key_clay_bundle_obey_over_female
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

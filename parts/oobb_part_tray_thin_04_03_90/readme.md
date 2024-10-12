@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spike |  
+| bip_39_word_dash_10 | spike-cruise-obey-kit-hollow-picnic-reveal-pill-shy-coral |  
+| bip_39_word_dash_11 | spike-cruise-obey-kit-hollow-picnic-reveal-pill-shy-coral-hold |  
+| bip_39_word_dash_12 | spike-cruise-obey-kit-hollow-picnic-reveal-pill-shy-coral-hold-attend |  
+| bip_39_word_dash_2 | spike-cruise |  
+| bip_39_word_dash_3 | spike-cruise-obey |  
+| bip_39_word_dash_4 | spike-cruise-obey-kit |  
+| bip_39_word_dash_5 | spike-cruise-obey-kit-hollow |  
+| bip_39_word_dash_6 | spike-cruise-obey-kit-hollow-picnic |  
+| bip_39_word_dash_7 | spike-cruise-obey-kit-hollow-picnic-reveal |  
+| bip_39_word_dash_8 | spike-cruise-obey-kit-hollow-picnic-reveal-pill |  
+| bip_39_word_dash_9 | spike-cruise-obey-kit-hollow-picnic-reveal-pill-shy |  
 | bip_39_word_new_br_1 | spike |  
 | bip_39_word_new_br_10 | spike<br>cruise<br>obey<br>kit<br>hollow<br>picnic<br>reveal<br>pill<br>shy<br>coral |  
 | bip_39_word_new_br_11 | spike<br>cruise<br>obey<br>kit<br>hollow<br>picnic<br>reveal<br>pill<br>shy<br>coral<br>hold |  
@@ -147,6 +159,18 @@ shy |
 | bip_39_word_space_7 | spike cruise obey kit hollow picnic reveal |  
 | bip_39_word_space_8 | spike cruise obey kit hollow picnic reveal pill |  
 | bip_39_word_space_9 | spike cruise obey kit hollow picnic reveal pill shy |  
+| bip_39_word_underscore_1 | spike |  
+| bip_39_word_underscore_10 | spike_cruise_obey_kit_hollow_picnic_reveal_pill_shy_coral |  
+| bip_39_word_underscore_11 | spike_cruise_obey_kit_hollow_picnic_reveal_pill_shy_coral_hold |  
+| bip_39_word_underscore_12 | spike_cruise_obey_kit_hollow_picnic_reveal_pill_shy_coral_hold_attend |  
+| bip_39_word_underscore_2 | spike_cruise |  
+| bip_39_word_underscore_3 | spike_cruise_obey |  
+| bip_39_word_underscore_4 | spike_cruise_obey_kit |  
+| bip_39_word_underscore_5 | spike_cruise_obey_kit_hollow |  
+| bip_39_word_underscore_6 | spike_cruise_obey_kit_hollow_picnic |  
+| bip_39_word_underscore_7 | spike_cruise_obey_kit_hollow_picnic_reveal |  
+| bip_39_word_underscore_8 | spike_cruise_obey_kit_hollow_picnic_reveal_pill |  
+| bip_39_word_underscore_9 | spike_cruise_obey_kit_hollow_picnic_reveal_pill_shy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

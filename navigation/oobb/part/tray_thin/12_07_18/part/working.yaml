@@ -1,3 +1,15 @@
+bip_39_word_dash_1: series
+bip_39_word_dash_10: series-stick-razor-gas-easily-tobacco-depth-perfect-tone-skull
+bip_39_word_dash_11: series-stick-razor-gas-easily-tobacco-depth-perfect-tone-skull-depart
+bip_39_word_dash_12: series-stick-razor-gas-easily-tobacco-depth-perfect-tone-skull-depart-add
+bip_39_word_dash_2: series-stick
+bip_39_word_dash_3: series-stick-razor
+bip_39_word_dash_4: series-stick-razor-gas
+bip_39_word_dash_5: series-stick-razor-gas-easily
+bip_39_word_dash_6: series-stick-razor-gas-easily-tobacco
+bip_39_word_dash_7: series-stick-razor-gas-easily-tobacco-depth
+bip_39_word_dash_8: series-stick-razor-gas-easily-tobacco-depth-perfect
+bip_39_word_dash_9: series-stick-razor-gas-easily-tobacco-depth-perfect-tone
 bip_39_word_new_br_1: series
 bip_39_word_new_br_10: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull
 bip_39_word_new_br_11: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull<br>depart
@@ -193,6 +205,18 @@ bip_39_word_space_6: series stick razor gas easily tobacco
 bip_39_word_space_7: series stick razor gas easily tobacco depth
 bip_39_word_space_8: series stick razor gas easily tobacco depth perfect
 bip_39_word_space_9: series stick razor gas easily tobacco depth perfect tone
+bip_39_word_underscore_1: series
+bip_39_word_underscore_10: series_stick_razor_gas_easily_tobacco_depth_perfect_tone_skull
+bip_39_word_underscore_11: series_stick_razor_gas_easily_tobacco_depth_perfect_tone_skull_depart
+bip_39_word_underscore_12: series_stick_razor_gas_easily_tobacco_depth_perfect_tone_skull_depart_add
+bip_39_word_underscore_2: series_stick
+bip_39_word_underscore_3: series_stick_razor
+bip_39_word_underscore_4: series_stick_razor_gas
+bip_39_word_underscore_5: series_stick_razor_gas_easily
+bip_39_word_underscore_6: series_stick_razor_gas_easily_tobacco
+bip_39_word_underscore_7: series_stick_razor_gas_easily_tobacco_depth
+bip_39_word_underscore_8: series_stick_razor_gas_easily_tobacco_depth_perfect
+bip_39_word_underscore_9: series_stick_razor_gas_easily_tobacco_depth_perfect_tone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

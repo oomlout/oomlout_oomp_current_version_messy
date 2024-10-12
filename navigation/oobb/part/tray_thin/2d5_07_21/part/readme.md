@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loyal |  
+| bip_39_word_dash_10 | loyal-seven-mammal-tattoo-wedding-pelican-atom-famous-glass-galaxy |  
+| bip_39_word_dash_11 | loyal-seven-mammal-tattoo-wedding-pelican-atom-famous-glass-galaxy-match |  
+| bip_39_word_dash_12 | loyal-seven-mammal-tattoo-wedding-pelican-atom-famous-glass-galaxy-match-average |  
+| bip_39_word_dash_2 | loyal-seven |  
+| bip_39_word_dash_3 | loyal-seven-mammal |  
+| bip_39_word_dash_4 | loyal-seven-mammal-tattoo |  
+| bip_39_word_dash_5 | loyal-seven-mammal-tattoo-wedding |  
+| bip_39_word_dash_6 | loyal-seven-mammal-tattoo-wedding-pelican |  
+| bip_39_word_dash_7 | loyal-seven-mammal-tattoo-wedding-pelican-atom |  
+| bip_39_word_dash_8 | loyal-seven-mammal-tattoo-wedding-pelican-atom-famous |  
+| bip_39_word_dash_9 | loyal-seven-mammal-tattoo-wedding-pelican-atom-famous-glass |  
 | bip_39_word_new_br_1 | loyal |  
 | bip_39_word_new_br_10 | loyal<br>seven<br>mammal<br>tattoo<br>wedding<br>pelican<br>atom<br>famous<br>glass<br>galaxy |  
 | bip_39_word_new_br_11 | loyal<br>seven<br>mammal<br>tattoo<br>wedding<br>pelican<br>atom<br>famous<br>glass<br>galaxy<br>match |  
@@ -147,6 +159,18 @@ glass |
 | bip_39_word_space_7 | loyal seven mammal tattoo wedding pelican atom |  
 | bip_39_word_space_8 | loyal seven mammal tattoo wedding pelican atom famous |  
 | bip_39_word_space_9 | loyal seven mammal tattoo wedding pelican atom famous glass |  
+| bip_39_word_underscore_1 | loyal |  
+| bip_39_word_underscore_10 | loyal_seven_mammal_tattoo_wedding_pelican_atom_famous_glass_galaxy |  
+| bip_39_word_underscore_11 | loyal_seven_mammal_tattoo_wedding_pelican_atom_famous_glass_galaxy_match |  
+| bip_39_word_underscore_12 | loyal_seven_mammal_tattoo_wedding_pelican_atom_famous_glass_galaxy_match_average |  
+| bip_39_word_underscore_2 | loyal_seven |  
+| bip_39_word_underscore_3 | loyal_seven_mammal |  
+| bip_39_word_underscore_4 | loyal_seven_mammal_tattoo |  
+| bip_39_word_underscore_5 | loyal_seven_mammal_tattoo_wedding |  
+| bip_39_word_underscore_6 | loyal_seven_mammal_tattoo_wedding_pelican |  
+| bip_39_word_underscore_7 | loyal_seven_mammal_tattoo_wedding_pelican_atom |  
+| bip_39_word_underscore_8 | loyal_seven_mammal_tattoo_wedding_pelican_atom_famous |  
+| bip_39_word_underscore_9 | loyal_seven_mammal_tattoo_wedding_pelican_atom_famous_glass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

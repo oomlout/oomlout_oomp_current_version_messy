@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crash |  
+| bip_39_word_dash_10 | crash-unlock-brother-deal-fix-flag-drum-useful-total-throw |  
+| bip_39_word_dash_11 | crash-unlock-brother-deal-fix-flag-drum-useful-total-throw-describe |  
+| bip_39_word_dash_12 | crash-unlock-brother-deal-fix-flag-drum-useful-total-throw-describe-almost |  
+| bip_39_word_dash_2 | crash-unlock |  
+| bip_39_word_dash_3 | crash-unlock-brother |  
+| bip_39_word_dash_4 | crash-unlock-brother-deal |  
+| bip_39_word_dash_5 | crash-unlock-brother-deal-fix |  
+| bip_39_word_dash_6 | crash-unlock-brother-deal-fix-flag |  
+| bip_39_word_dash_7 | crash-unlock-brother-deal-fix-flag-drum |  
+| bip_39_word_dash_8 | crash-unlock-brother-deal-fix-flag-drum-useful |  
+| bip_39_word_dash_9 | crash-unlock-brother-deal-fix-flag-drum-useful-total |  
 | bip_39_word_new_br_1 | crash |  
 | bip_39_word_new_br_10 | crash<br>unlock<br>brother<br>deal<br>fix<br>flag<br>drum<br>useful<br>total<br>throw |  
 | bip_39_word_new_br_11 | crash<br>unlock<br>brother<br>deal<br>fix<br>flag<br>drum<br>useful<br>total<br>throw<br>describe |  
@@ -147,6 +159,18 @@ total |
 | bip_39_word_space_7 | crash unlock brother deal fix flag drum |  
 | bip_39_word_space_8 | crash unlock brother deal fix flag drum useful |  
 | bip_39_word_space_9 | crash unlock brother deal fix flag drum useful total |  
+| bip_39_word_underscore_1 | crash |  
+| bip_39_word_underscore_10 | crash_unlock_brother_deal_fix_flag_drum_useful_total_throw |  
+| bip_39_word_underscore_11 | crash_unlock_brother_deal_fix_flag_drum_useful_total_throw_describe |  
+| bip_39_word_underscore_12 | crash_unlock_brother_deal_fix_flag_drum_useful_total_throw_describe_almost |  
+| bip_39_word_underscore_2 | crash_unlock |  
+| bip_39_word_underscore_3 | crash_unlock_brother |  
+| bip_39_word_underscore_4 | crash_unlock_brother_deal |  
+| bip_39_word_underscore_5 | crash_unlock_brother_deal_fix |  
+| bip_39_word_underscore_6 | crash_unlock_brother_deal_fix_flag |  
+| bip_39_word_underscore_7 | crash_unlock_brother_deal_fix_flag_drum |  
+| bip_39_word_underscore_8 | crash_unlock_brother_deal_fix_flag_drum_useful |  
+| bip_39_word_underscore_9 | crash_unlock_brother_deal_fix_flag_drum_useful_total |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ethics
+bip_39_word_dash_10: ethics-ill-cube-post-leaf-beyond-country-fitness-vital-ready
+bip_39_word_dash_11: ethics-ill-cube-post-leaf-beyond-country-fitness-vital-ready-truly
+bip_39_word_dash_12: ethics-ill-cube-post-leaf-beyond-country-fitness-vital-ready-truly-again
+bip_39_word_dash_2: ethics-ill
+bip_39_word_dash_3: ethics-ill-cube
+bip_39_word_dash_4: ethics-ill-cube-post
+bip_39_word_dash_5: ethics-ill-cube-post-leaf
+bip_39_word_dash_6: ethics-ill-cube-post-leaf-beyond
+bip_39_word_dash_7: ethics-ill-cube-post-leaf-beyond-country
+bip_39_word_dash_8: ethics-ill-cube-post-leaf-beyond-country-fitness
+bip_39_word_dash_9: ethics-ill-cube-post-leaf-beyond-country-fitness-vital
 bip_39_word_new_br_1: ethics
 bip_39_word_new_br_10: ethics<br>ill<br>cube<br>post<br>leaf<br>beyond<br>country<br>fitness<br>vital<br>ready
 bip_39_word_new_br_11: ethics<br>ill<br>cube<br>post<br>leaf<br>beyond<br>country<br>fitness<br>vital<br>ready<br>truly
@@ -193,6 +205,18 @@ bip_39_word_space_6: ethics ill cube post leaf beyond
 bip_39_word_space_7: ethics ill cube post leaf beyond country
 bip_39_word_space_8: ethics ill cube post leaf beyond country fitness
 bip_39_word_space_9: ethics ill cube post leaf beyond country fitness vital
+bip_39_word_underscore_1: ethics
+bip_39_word_underscore_10: ethics_ill_cube_post_leaf_beyond_country_fitness_vital_ready
+bip_39_word_underscore_11: ethics_ill_cube_post_leaf_beyond_country_fitness_vital_ready_truly
+bip_39_word_underscore_12: ethics_ill_cube_post_leaf_beyond_country_fitness_vital_ready_truly_again
+bip_39_word_underscore_2: ethics_ill
+bip_39_word_underscore_3: ethics_ill_cube
+bip_39_word_underscore_4: ethics_ill_cube_post
+bip_39_word_underscore_5: ethics_ill_cube_post_leaf
+bip_39_word_underscore_6: ethics_ill_cube_post_leaf_beyond
+bip_39_word_underscore_7: ethics_ill_cube_post_leaf_beyond_country
+bip_39_word_underscore_8: ethics_ill_cube_post_leaf_beyond_country_fitness
+bip_39_word_underscore_9: ethics_ill_cube_post_leaf_beyond_country_fitness_vital
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

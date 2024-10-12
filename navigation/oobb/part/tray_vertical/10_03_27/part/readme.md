@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glide |  
+| bip_39_word_dash_10 | glide-trumpet-ladder-gym-feed-age-memory-frozen-dad-general |  
+| bip_39_word_dash_11 | glide-trumpet-ladder-gym-feed-age-memory-frozen-dad-general-announce |  
+| bip_39_word_dash_12 | glide-trumpet-ladder-gym-feed-age-memory-frozen-dad-general-announce-amateur |  
+| bip_39_word_dash_2 | glide-trumpet |  
+| bip_39_word_dash_3 | glide-trumpet-ladder |  
+| bip_39_word_dash_4 | glide-trumpet-ladder-gym |  
+| bip_39_word_dash_5 | glide-trumpet-ladder-gym-feed |  
+| bip_39_word_dash_6 | glide-trumpet-ladder-gym-feed-age |  
+| bip_39_word_dash_7 | glide-trumpet-ladder-gym-feed-age-memory |  
+| bip_39_word_dash_8 | glide-trumpet-ladder-gym-feed-age-memory-frozen |  
+| bip_39_word_dash_9 | glide-trumpet-ladder-gym-feed-age-memory-frozen-dad |  
 | bip_39_word_new_br_1 | glide |  
 | bip_39_word_new_br_10 | glide<br>trumpet<br>ladder<br>gym<br>feed<br>age<br>memory<br>frozen<br>dad<br>general |  
 | bip_39_word_new_br_11 | glide<br>trumpet<br>ladder<br>gym<br>feed<br>age<br>memory<br>frozen<br>dad<br>general<br>announce |  
@@ -147,6 +159,18 @@ dad |
 | bip_39_word_space_7 | glide trumpet ladder gym feed age memory |  
 | bip_39_word_space_8 | glide trumpet ladder gym feed age memory frozen |  
 | bip_39_word_space_9 | glide trumpet ladder gym feed age memory frozen dad |  
+| bip_39_word_underscore_1 | glide |  
+| bip_39_word_underscore_10 | glide_trumpet_ladder_gym_feed_age_memory_frozen_dad_general |  
+| bip_39_word_underscore_11 | glide_trumpet_ladder_gym_feed_age_memory_frozen_dad_general_announce |  
+| bip_39_word_underscore_12 | glide_trumpet_ladder_gym_feed_age_memory_frozen_dad_general_announce_amateur |  
+| bip_39_word_underscore_2 | glide_trumpet |  
+| bip_39_word_underscore_3 | glide_trumpet_ladder |  
+| bip_39_word_underscore_4 | glide_trumpet_ladder_gym |  
+| bip_39_word_underscore_5 | glide_trumpet_ladder_gym_feed |  
+| bip_39_word_underscore_6 | glide_trumpet_ladder_gym_feed_age |  
+| bip_39_word_underscore_7 | glide_trumpet_ladder_gym_feed_age_memory |  
+| bip_39_word_underscore_8 | glide_trumpet_ladder_gym_feed_age_memory_frozen |  
+| bip_39_word_underscore_9 | glide_trumpet_ladder_gym_feed_age_memory_frozen_dad |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

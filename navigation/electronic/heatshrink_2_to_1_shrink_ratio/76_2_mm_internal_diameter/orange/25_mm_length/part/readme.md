@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | believe |  
+| bip_39_word_dash_10 | believe-laugh-much-limit-scorpion-reunion-good-brand-mail-ability |  
+| bip_39_word_dash_11 | believe-laugh-much-limit-scorpion-reunion-good-brand-mail-ability-will |  
+| bip_39_word_dash_12 | believe-laugh-much-limit-scorpion-reunion-good-brand-mail-ability-will-adapt |  
+| bip_39_word_dash_2 | believe-laugh |  
+| bip_39_word_dash_3 | believe-laugh-much |  
+| bip_39_word_dash_4 | believe-laugh-much-limit |  
+| bip_39_word_dash_5 | believe-laugh-much-limit-scorpion |  
+| bip_39_word_dash_6 | believe-laugh-much-limit-scorpion-reunion |  
+| bip_39_word_dash_7 | believe-laugh-much-limit-scorpion-reunion-good |  
+| bip_39_word_dash_8 | believe-laugh-much-limit-scorpion-reunion-good-brand |  
+| bip_39_word_dash_9 | believe-laugh-much-limit-scorpion-reunion-good-brand-mail |  
 | bip_39_word_new_br_1 | believe |  
 | bip_39_word_new_br_10 | believe<br>laugh<br>much<br>limit<br>scorpion<br>reunion<br>good<br>brand<br>mail<br>ability |  
 | bip_39_word_new_br_11 | believe<br>laugh<br>much<br>limit<br>scorpion<br>reunion<br>good<br>brand<br>mail<br>ability<br>will |  
@@ -147,6 +159,18 @@ mail |
 | bip_39_word_space_7 | believe laugh much limit scorpion reunion good |  
 | bip_39_word_space_8 | believe laugh much limit scorpion reunion good brand |  
 | bip_39_word_space_9 | believe laugh much limit scorpion reunion good brand mail |  
+| bip_39_word_underscore_1 | believe |  
+| bip_39_word_underscore_10 | believe_laugh_much_limit_scorpion_reunion_good_brand_mail_ability |  
+| bip_39_word_underscore_11 | believe_laugh_much_limit_scorpion_reunion_good_brand_mail_ability_will |  
+| bip_39_word_underscore_12 | believe_laugh_much_limit_scorpion_reunion_good_brand_mail_ability_will_adapt |  
+| bip_39_word_underscore_2 | believe_laugh |  
+| bip_39_word_underscore_3 | believe_laugh_much |  
+| bip_39_word_underscore_4 | believe_laugh_much_limit |  
+| bip_39_word_underscore_5 | believe_laugh_much_limit_scorpion |  
+| bip_39_word_underscore_6 | believe_laugh_much_limit_scorpion_reunion |  
+| bip_39_word_underscore_7 | believe_laugh_much_limit_scorpion_reunion_good |  
+| bip_39_word_underscore_8 | believe_laugh_much_limit_scorpion_reunion_good_brand |  
+| bip_39_word_underscore_9 | believe_laugh_much_limit_scorpion_reunion_good_brand_mail |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | steak |  
+| bip_39_word_dash_10 | steak-digital-crater-fit-fatal-host-faculty-blush-suspect-old |  
+| bip_39_word_dash_11 | steak-digital-crater-fit-fatal-host-faculty-blush-suspect-old-merry |  
+| bip_39_word_dash_12 | steak-digital-crater-fit-fatal-host-faculty-blush-suspect-old-merry-ahead |  
+| bip_39_word_dash_2 | steak-digital |  
+| bip_39_word_dash_3 | steak-digital-crater |  
+| bip_39_word_dash_4 | steak-digital-crater-fit |  
+| bip_39_word_dash_5 | steak-digital-crater-fit-fatal |  
+| bip_39_word_dash_6 | steak-digital-crater-fit-fatal-host |  
+| bip_39_word_dash_7 | steak-digital-crater-fit-fatal-host-faculty |  
+| bip_39_word_dash_8 | steak-digital-crater-fit-fatal-host-faculty-blush |  
+| bip_39_word_dash_9 | steak-digital-crater-fit-fatal-host-faculty-blush-suspect |  
 | bip_39_word_new_br_1 | steak |  
 | bip_39_word_new_br_10 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old |  
 | bip_39_word_new_br_11 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old<br>merry |  
@@ -147,6 +159,18 @@ suspect |
 | bip_39_word_space_7 | steak digital crater fit fatal host faculty |  
 | bip_39_word_space_8 | steak digital crater fit fatal host faculty blush |  
 | bip_39_word_space_9 | steak digital crater fit fatal host faculty blush suspect |  
+| bip_39_word_underscore_1 | steak |  
+| bip_39_word_underscore_10 | steak_digital_crater_fit_fatal_host_faculty_blush_suspect_old |  
+| bip_39_word_underscore_11 | steak_digital_crater_fit_fatal_host_faculty_blush_suspect_old_merry |  
+| bip_39_word_underscore_12 | steak_digital_crater_fit_fatal_host_faculty_blush_suspect_old_merry_ahead |  
+| bip_39_word_underscore_2 | steak_digital |  
+| bip_39_word_underscore_3 | steak_digital_crater |  
+| bip_39_word_underscore_4 | steak_digital_crater_fit |  
+| bip_39_word_underscore_5 | steak_digital_crater_fit_fatal |  
+| bip_39_word_underscore_6 | steak_digital_crater_fit_fatal_host |  
+| bip_39_word_underscore_7 | steak_digital_crater_fit_fatal_host_faculty |  
+| bip_39_word_underscore_8 | steak_digital_crater_fit_fatal_host_faculty_blush |  
+| bip_39_word_underscore_9 | steak_digital_crater_fit_fatal_host_faculty_blush_suspect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

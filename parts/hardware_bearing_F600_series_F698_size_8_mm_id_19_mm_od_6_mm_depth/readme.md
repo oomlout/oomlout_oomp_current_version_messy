@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | family |  
+| bip_39_word_dash_10 | family-brain-churn-vintage-visit-veteran-number-usual-under-squeeze |  
+| bip_39_word_dash_11 | family-brain-churn-vintage-visit-veteran-number-usual-under-squeeze-payment |  
+| bip_39_word_dash_12 | family-brain-churn-vintage-visit-veteran-number-usual-under-squeeze-payment-action |  
+| bip_39_word_dash_2 | family-brain |  
+| bip_39_word_dash_3 | family-brain-churn |  
+| bip_39_word_dash_4 | family-brain-churn-vintage |  
+| bip_39_word_dash_5 | family-brain-churn-vintage-visit |  
+| bip_39_word_dash_6 | family-brain-churn-vintage-visit-veteran |  
+| bip_39_word_dash_7 | family-brain-churn-vintage-visit-veteran-number |  
+| bip_39_word_dash_8 | family-brain-churn-vintage-visit-veteran-number-usual |  
+| bip_39_word_dash_9 | family-brain-churn-vintage-visit-veteran-number-usual-under |  
 | bip_39_word_new_br_1 | family |  
 | bip_39_word_new_br_10 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze |  
 | bip_39_word_new_br_11 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze<br>payment |  
@@ -147,6 +159,18 @@ under |
 | bip_39_word_space_7 | family brain churn vintage visit veteran number |  
 | bip_39_word_space_8 | family brain churn vintage visit veteran number usual |  
 | bip_39_word_space_9 | family brain churn vintage visit veteran number usual under |  
+| bip_39_word_underscore_1 | family |  
+| bip_39_word_underscore_10 | family_brain_churn_vintage_visit_veteran_number_usual_under_squeeze |  
+| bip_39_word_underscore_11 | family_brain_churn_vintage_visit_veteran_number_usual_under_squeeze_payment |  
+| bip_39_word_underscore_12 | family_brain_churn_vintage_visit_veteran_number_usual_under_squeeze_payment_action |  
+| bip_39_word_underscore_2 | family_brain |  
+| bip_39_word_underscore_3 | family_brain_churn |  
+| bip_39_word_underscore_4 | family_brain_churn_vintage |  
+| bip_39_word_underscore_5 | family_brain_churn_vintage_visit |  
+| bip_39_word_underscore_6 | family_brain_churn_vintage_visit_veteran |  
+| bip_39_word_underscore_7 | family_brain_churn_vintage_visit_veteran_number |  
+| bip_39_word_underscore_8 | family_brain_churn_vintage_visit_veteran_number_usual |  
+| bip_39_word_underscore_9 | family_brain_churn_vintage_visit_veteran_number_usual_under |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

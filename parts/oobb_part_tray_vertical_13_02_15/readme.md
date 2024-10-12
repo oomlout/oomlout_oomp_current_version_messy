@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrive |  
+| bip_39_word_dash_10 | arrive-alter-movie-quality-valid-stand-spoon-swift-seven-measure |  
+| bip_39_word_dash_11 | arrive-alter-movie-quality-valid-stand-spoon-swift-seven-measure-defense |  
+| bip_39_word_dash_12 | arrive-alter-movie-quality-valid-stand-spoon-swift-seven-measure-defense-agree |  
+| bip_39_word_dash_2 | arrive-alter |  
+| bip_39_word_dash_3 | arrive-alter-movie |  
+| bip_39_word_dash_4 | arrive-alter-movie-quality |  
+| bip_39_word_dash_5 | arrive-alter-movie-quality-valid |  
+| bip_39_word_dash_6 | arrive-alter-movie-quality-valid-stand |  
+| bip_39_word_dash_7 | arrive-alter-movie-quality-valid-stand-spoon |  
+| bip_39_word_dash_8 | arrive-alter-movie-quality-valid-stand-spoon-swift |  
+| bip_39_word_dash_9 | arrive-alter-movie-quality-valid-stand-spoon-swift-seven |  
 | bip_39_word_new_br_1 | arrive |  
 | bip_39_word_new_br_10 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift<br>seven<br>measure |  
 | bip_39_word_new_br_11 | arrive<br>alter<br>movie<br>quality<br>valid<br>stand<br>spoon<br>swift<br>seven<br>measure<br>defense |  
@@ -147,6 +159,18 @@ seven |
 | bip_39_word_space_7 | arrive alter movie quality valid stand spoon |  
 | bip_39_word_space_8 | arrive alter movie quality valid stand spoon swift |  
 | bip_39_word_space_9 | arrive alter movie quality valid stand spoon swift seven |  
+| bip_39_word_underscore_1 | arrive |  
+| bip_39_word_underscore_10 | arrive_alter_movie_quality_valid_stand_spoon_swift_seven_measure |  
+| bip_39_word_underscore_11 | arrive_alter_movie_quality_valid_stand_spoon_swift_seven_measure_defense |  
+| bip_39_word_underscore_12 | arrive_alter_movie_quality_valid_stand_spoon_swift_seven_measure_defense_agree |  
+| bip_39_word_underscore_2 | arrive_alter |  
+| bip_39_word_underscore_3 | arrive_alter_movie |  
+| bip_39_word_underscore_4 | arrive_alter_movie_quality |  
+| bip_39_word_underscore_5 | arrive_alter_movie_quality_valid |  
+| bip_39_word_underscore_6 | arrive_alter_movie_quality_valid_stand |  
+| bip_39_word_underscore_7 | arrive_alter_movie_quality_valid_stand_spoon |  
+| bip_39_word_underscore_8 | arrive_alter_movie_quality_valid_stand_spoon_swift |  
+| bip_39_word_underscore_9 | arrive_alter_movie_quality_valid_stand_spoon_swift_seven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

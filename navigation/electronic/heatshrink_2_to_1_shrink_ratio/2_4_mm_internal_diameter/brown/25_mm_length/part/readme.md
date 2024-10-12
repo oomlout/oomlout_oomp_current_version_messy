@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unlock |  
+| bip_39_word_dash_10 | unlock-hire-differ-amazing-awful-march-they-quarter-mesh-box |  
+| bip_39_word_dash_11 | unlock-hire-differ-amazing-awful-march-they-quarter-mesh-box-lounge |  
+| bip_39_word_dash_12 | unlock-hire-differ-amazing-awful-march-they-quarter-mesh-box-lounge-armor |  
+| bip_39_word_dash_2 | unlock-hire |  
+| bip_39_word_dash_3 | unlock-hire-differ |  
+| bip_39_word_dash_4 | unlock-hire-differ-amazing |  
+| bip_39_word_dash_5 | unlock-hire-differ-amazing-awful |  
+| bip_39_word_dash_6 | unlock-hire-differ-amazing-awful-march |  
+| bip_39_word_dash_7 | unlock-hire-differ-amazing-awful-march-they |  
+| bip_39_word_dash_8 | unlock-hire-differ-amazing-awful-march-they-quarter |  
+| bip_39_word_dash_9 | unlock-hire-differ-amazing-awful-march-they-quarter-mesh |  
 | bip_39_word_new_br_1 | unlock |  
 | bip_39_word_new_br_10 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter<br>mesh<br>box |  
 | bip_39_word_new_br_11 | unlock<br>hire<br>differ<br>amazing<br>awful<br>march<br>they<br>quarter<br>mesh<br>box<br>lounge |  
@@ -147,6 +159,18 @@ mesh |
 | bip_39_word_space_7 | unlock hire differ amazing awful march they |  
 | bip_39_word_space_8 | unlock hire differ amazing awful march they quarter |  
 | bip_39_word_space_9 | unlock hire differ amazing awful march they quarter mesh |  
+| bip_39_word_underscore_1 | unlock |  
+| bip_39_word_underscore_10 | unlock_hire_differ_amazing_awful_march_they_quarter_mesh_box |  
+| bip_39_word_underscore_11 | unlock_hire_differ_amazing_awful_march_they_quarter_mesh_box_lounge |  
+| bip_39_word_underscore_12 | unlock_hire_differ_amazing_awful_march_they_quarter_mesh_box_lounge_armor |  
+| bip_39_word_underscore_2 | unlock_hire |  
+| bip_39_word_underscore_3 | unlock_hire_differ |  
+| bip_39_word_underscore_4 | unlock_hire_differ_amazing |  
+| bip_39_word_underscore_5 | unlock_hire_differ_amazing_awful |  
+| bip_39_word_underscore_6 | unlock_hire_differ_amazing_awful_march |  
+| bip_39_word_underscore_7 | unlock_hire_differ_amazing_awful_march_they |  
+| bip_39_word_underscore_8 | unlock_hire_differ_amazing_awful_march_they_quarter |  
+| bip_39_word_underscore_9 | unlock_hire_differ_amazing_awful_march_they_quarter_mesh |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

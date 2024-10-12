@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | theory |  
+| bip_39_word_dash_10 | theory-abandon-cart-typical-popular-cycle-innocent-poet-remove-shell |  
+| bip_39_word_dash_11 | theory-abandon-cart-typical-popular-cycle-innocent-poet-remove-shell-coffee |  
+| bip_39_word_dash_12 | theory-abandon-cart-typical-popular-cycle-innocent-poet-remove-shell-coffee-air |  
+| bip_39_word_dash_2 | theory-abandon |  
+| bip_39_word_dash_3 | theory-abandon-cart |  
+| bip_39_word_dash_4 | theory-abandon-cart-typical |  
+| bip_39_word_dash_5 | theory-abandon-cart-typical-popular |  
+| bip_39_word_dash_6 | theory-abandon-cart-typical-popular-cycle |  
+| bip_39_word_dash_7 | theory-abandon-cart-typical-popular-cycle-innocent |  
+| bip_39_word_dash_8 | theory-abandon-cart-typical-popular-cycle-innocent-poet |  
+| bip_39_word_dash_9 | theory-abandon-cart-typical-popular-cycle-innocent-poet-remove |  
 | bip_39_word_new_br_1 | theory |  
 | bip_39_word_new_br_10 | theory<br>abandon<br>cart<br>typical<br>popular<br>cycle<br>innocent<br>poet<br>remove<br>shell |  
 | bip_39_word_new_br_11 | theory<br>abandon<br>cart<br>typical<br>popular<br>cycle<br>innocent<br>poet<br>remove<br>shell<br>coffee |  
@@ -147,6 +159,18 @@ remove |
 | bip_39_word_space_7 | theory abandon cart typical popular cycle innocent |  
 | bip_39_word_space_8 | theory abandon cart typical popular cycle innocent poet |  
 | bip_39_word_space_9 | theory abandon cart typical popular cycle innocent poet remove |  
+| bip_39_word_underscore_1 | theory |  
+| bip_39_word_underscore_10 | theory_abandon_cart_typical_popular_cycle_innocent_poet_remove_shell |  
+| bip_39_word_underscore_11 | theory_abandon_cart_typical_popular_cycle_innocent_poet_remove_shell_coffee |  
+| bip_39_word_underscore_12 | theory_abandon_cart_typical_popular_cycle_innocent_poet_remove_shell_coffee_air |  
+| bip_39_word_underscore_2 | theory_abandon |  
+| bip_39_word_underscore_3 | theory_abandon_cart |  
+| bip_39_word_underscore_4 | theory_abandon_cart_typical |  
+| bip_39_word_underscore_5 | theory_abandon_cart_typical_popular |  
+| bip_39_word_underscore_6 | theory_abandon_cart_typical_popular_cycle |  
+| bip_39_word_underscore_7 | theory_abandon_cart_typical_popular_cycle_innocent |  
+| bip_39_word_underscore_8 | theory_abandon_cart_typical_popular_cycle_innocent_poet |  
+| bip_39_word_underscore_9 | theory_abandon_cart_typical_popular_cycle_innocent_poet_remove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

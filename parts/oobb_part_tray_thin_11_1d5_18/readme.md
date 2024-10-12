@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | daughter |  
+| bip_39_word_dash_10 | daughter-cave-vendor-weekend-lunar-penalty-adult-fly-gap-simple |  
+| bip_39_word_dash_11 | daughter-cave-vendor-weekend-lunar-penalty-adult-fly-gap-simple-room |  
+| bip_39_word_dash_12 | daughter-cave-vendor-weekend-lunar-penalty-adult-fly-gap-simple-room-audit |  
+| bip_39_word_dash_2 | daughter-cave |  
+| bip_39_word_dash_3 | daughter-cave-vendor |  
+| bip_39_word_dash_4 | daughter-cave-vendor-weekend |  
+| bip_39_word_dash_5 | daughter-cave-vendor-weekend-lunar |  
+| bip_39_word_dash_6 | daughter-cave-vendor-weekend-lunar-penalty |  
+| bip_39_word_dash_7 | daughter-cave-vendor-weekend-lunar-penalty-adult |  
+| bip_39_word_dash_8 | daughter-cave-vendor-weekend-lunar-penalty-adult-fly |  
+| bip_39_word_dash_9 | daughter-cave-vendor-weekend-lunar-penalty-adult-fly-gap |  
 | bip_39_word_new_br_1 | daughter |  
 | bip_39_word_new_br_10 | daughter<br>cave<br>vendor<br>weekend<br>lunar<br>penalty<br>adult<br>fly<br>gap<br>simple |  
 | bip_39_word_new_br_11 | daughter<br>cave<br>vendor<br>weekend<br>lunar<br>penalty<br>adult<br>fly<br>gap<br>simple<br>room |  
@@ -147,6 +159,18 @@ gap |
 | bip_39_word_space_7 | daughter cave vendor weekend lunar penalty adult |  
 | bip_39_word_space_8 | daughter cave vendor weekend lunar penalty adult fly |  
 | bip_39_word_space_9 | daughter cave vendor weekend lunar penalty adult fly gap |  
+| bip_39_word_underscore_1 | daughter |  
+| bip_39_word_underscore_10 | daughter_cave_vendor_weekend_lunar_penalty_adult_fly_gap_simple |  
+| bip_39_word_underscore_11 | daughter_cave_vendor_weekend_lunar_penalty_adult_fly_gap_simple_room |  
+| bip_39_word_underscore_12 | daughter_cave_vendor_weekend_lunar_penalty_adult_fly_gap_simple_room_audit |  
+| bip_39_word_underscore_2 | daughter_cave |  
+| bip_39_word_underscore_3 | daughter_cave_vendor |  
+| bip_39_word_underscore_4 | daughter_cave_vendor_weekend |  
+| bip_39_word_underscore_5 | daughter_cave_vendor_weekend_lunar |  
+| bip_39_word_underscore_6 | daughter_cave_vendor_weekend_lunar_penalty |  
+| bip_39_word_underscore_7 | daughter_cave_vendor_weekend_lunar_penalty_adult |  
+| bip_39_word_underscore_8 | daughter_cave_vendor_weekend_lunar_penalty_adult_fly |  
+| bip_39_word_underscore_9 | daughter_cave_vendor_weekend_lunar_penalty_adult_fly_gap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

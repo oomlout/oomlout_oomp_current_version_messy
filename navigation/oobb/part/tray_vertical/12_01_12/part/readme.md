@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | switch |  
+| bip_39_word_dash_10 | switch-often-science-pattern-dove-jelly-spot-little-gas-medal |  
+| bip_39_word_dash_11 | switch-often-science-pattern-dove-jelly-spot-little-gas-medal-exotic |  
+| bip_39_word_dash_12 | switch-often-science-pattern-dove-jelly-spot-little-gas-medal-exotic-arctic |  
+| bip_39_word_dash_2 | switch-often |  
+| bip_39_word_dash_3 | switch-often-science |  
+| bip_39_word_dash_4 | switch-often-science-pattern |  
+| bip_39_word_dash_5 | switch-often-science-pattern-dove |  
+| bip_39_word_dash_6 | switch-often-science-pattern-dove-jelly |  
+| bip_39_word_dash_7 | switch-often-science-pattern-dove-jelly-spot |  
+| bip_39_word_dash_8 | switch-often-science-pattern-dove-jelly-spot-little |  
+| bip_39_word_dash_9 | switch-often-science-pattern-dove-jelly-spot-little-gas |  
 | bip_39_word_new_br_1 | switch |  
 | bip_39_word_new_br_10 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal |  
 | bip_39_word_new_br_11 | switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal<br>exotic |  
@@ -147,6 +159,18 @@ gas |
 | bip_39_word_space_7 | switch often science pattern dove jelly spot |  
 | bip_39_word_space_8 | switch often science pattern dove jelly spot little |  
 | bip_39_word_space_9 | switch often science pattern dove jelly spot little gas |  
+| bip_39_word_underscore_1 | switch |  
+| bip_39_word_underscore_10 | switch_often_science_pattern_dove_jelly_spot_little_gas_medal |  
+| bip_39_word_underscore_11 | switch_often_science_pattern_dove_jelly_spot_little_gas_medal_exotic |  
+| bip_39_word_underscore_12 | switch_often_science_pattern_dove_jelly_spot_little_gas_medal_exotic_arctic |  
+| bip_39_word_underscore_2 | switch_often |  
+| bip_39_word_underscore_3 | switch_often_science |  
+| bip_39_word_underscore_4 | switch_often_science_pattern |  
+| bip_39_word_underscore_5 | switch_often_science_pattern_dove |  
+| bip_39_word_underscore_6 | switch_often_science_pattern_dove_jelly |  
+| bip_39_word_underscore_7 | switch_often_science_pattern_dove_jelly_spot |  
+| bip_39_word_underscore_8 | switch_often_science_pattern_dove_jelly_spot_little |  
+| bip_39_word_underscore_9 | switch_often_science_pattern_dove_jelly_spot_little_gas |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

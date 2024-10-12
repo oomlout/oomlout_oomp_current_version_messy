@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | turtle |  
+| bip_39_word_dash_10 | turtle-prefer-dress-ozone-park-coral-rifle-equal-small-faith |  
+| bip_39_word_dash_11 | turtle-prefer-dress-ozone-park-coral-rifle-equal-small-faith-install |  
+| bip_39_word_dash_12 | turtle-prefer-dress-ozone-park-coral-rifle-equal-small-faith-install-auction |  
+| bip_39_word_dash_2 | turtle-prefer |  
+| bip_39_word_dash_3 | turtle-prefer-dress |  
+| bip_39_word_dash_4 | turtle-prefer-dress-ozone |  
+| bip_39_word_dash_5 | turtle-prefer-dress-ozone-park |  
+| bip_39_word_dash_6 | turtle-prefer-dress-ozone-park-coral |  
+| bip_39_word_dash_7 | turtle-prefer-dress-ozone-park-coral-rifle |  
+| bip_39_word_dash_8 | turtle-prefer-dress-ozone-park-coral-rifle-equal |  
+| bip_39_word_dash_9 | turtle-prefer-dress-ozone-park-coral-rifle-equal-small |  
 | bip_39_word_new_br_1 | turtle |  
 | bip_39_word_new_br_10 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith |  
 | bip_39_word_new_br_11 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith<br>install |  
@@ -147,6 +159,18 @@ small |
 | bip_39_word_space_7 | turtle prefer dress ozone park coral rifle |  
 | bip_39_word_space_8 | turtle prefer dress ozone park coral rifle equal |  
 | bip_39_word_space_9 | turtle prefer dress ozone park coral rifle equal small |  
+| bip_39_word_underscore_1 | turtle |  
+| bip_39_word_underscore_10 | turtle_prefer_dress_ozone_park_coral_rifle_equal_small_faith |  
+| bip_39_word_underscore_11 | turtle_prefer_dress_ozone_park_coral_rifle_equal_small_faith_install |  
+| bip_39_word_underscore_12 | turtle_prefer_dress_ozone_park_coral_rifle_equal_small_faith_install_auction |  
+| bip_39_word_underscore_2 | turtle_prefer |  
+| bip_39_word_underscore_3 | turtle_prefer_dress |  
+| bip_39_word_underscore_4 | turtle_prefer_dress_ozone |  
+| bip_39_word_underscore_5 | turtle_prefer_dress_ozone_park |  
+| bip_39_word_underscore_6 | turtle_prefer_dress_ozone_park_coral |  
+| bip_39_word_underscore_7 | turtle_prefer_dress_ozone_park_coral_rifle |  
+| bip_39_word_underscore_8 | turtle_prefer_dress_ozone_park_coral_rifle_equal |  
+| bip_39_word_underscore_9 | turtle_prefer_dress_ozone_park_coral_rifle_equal_small |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

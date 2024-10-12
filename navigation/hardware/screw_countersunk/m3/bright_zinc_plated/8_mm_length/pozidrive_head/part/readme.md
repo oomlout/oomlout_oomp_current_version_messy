@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blast |  
+| bip_39_word_dash_10 | blast-garment-present-because-mention-link-valid-chronic-throw-utility |  
+| bip_39_word_dash_11 | blast-garment-present-because-mention-link-valid-chronic-throw-utility-million |  
+| bip_39_word_dash_12 | blast-garment-present-because-mention-link-valid-chronic-throw-utility-million-acoustic |  
+| bip_39_word_dash_2 | blast-garment |  
+| bip_39_word_dash_3 | blast-garment-present |  
+| bip_39_word_dash_4 | blast-garment-present-because |  
+| bip_39_word_dash_5 | blast-garment-present-because-mention |  
+| bip_39_word_dash_6 | blast-garment-present-because-mention-link |  
+| bip_39_word_dash_7 | blast-garment-present-because-mention-link-valid |  
+| bip_39_word_dash_8 | blast-garment-present-because-mention-link-valid-chronic |  
+| bip_39_word_dash_9 | blast-garment-present-because-mention-link-valid-chronic-throw |  
 | bip_39_word_new_br_1 | blast |  
 | bip_39_word_new_br_10 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility |  
 | bip_39_word_new_br_11 | blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility<br>million |  
@@ -147,6 +159,18 @@ throw |
 | bip_39_word_space_7 | blast garment present because mention link valid |  
 | bip_39_word_space_8 | blast garment present because mention link valid chronic |  
 | bip_39_word_space_9 | blast garment present because mention link valid chronic throw |  
+| bip_39_word_underscore_1 | blast |  
+| bip_39_word_underscore_10 | blast_garment_present_because_mention_link_valid_chronic_throw_utility |  
+| bip_39_word_underscore_11 | blast_garment_present_because_mention_link_valid_chronic_throw_utility_million |  
+| bip_39_word_underscore_12 | blast_garment_present_because_mention_link_valid_chronic_throw_utility_million_acoustic |  
+| bip_39_word_underscore_2 | blast_garment |  
+| bip_39_word_underscore_3 | blast_garment_present |  
+| bip_39_word_underscore_4 | blast_garment_present_because |  
+| bip_39_word_underscore_5 | blast_garment_present_because_mention |  
+| bip_39_word_underscore_6 | blast_garment_present_because_mention_link |  
+| bip_39_word_underscore_7 | blast_garment_present_because_mention_link_valid |  
+| bip_39_word_underscore_8 | blast_garment_present_because_mention_link_valid_chronic |  
+| bip_39_word_underscore_9 | blast_garment_present_because_mention_link_valid_chronic_throw |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shop
+bip_39_word_dash_10: shop-dress-piece-teach-zone-pledge-clown-ordinary-february-want
+bip_39_word_dash_11: shop-dress-piece-teach-zone-pledge-clown-ordinary-february-want-history
+bip_39_word_dash_12: shop-dress-piece-teach-zone-pledge-clown-ordinary-february-want-history-across
+bip_39_word_dash_2: shop-dress
+bip_39_word_dash_3: shop-dress-piece
+bip_39_word_dash_4: shop-dress-piece-teach
+bip_39_word_dash_5: shop-dress-piece-teach-zone
+bip_39_word_dash_6: shop-dress-piece-teach-zone-pledge
+bip_39_word_dash_7: shop-dress-piece-teach-zone-pledge-clown
+bip_39_word_dash_8: shop-dress-piece-teach-zone-pledge-clown-ordinary
+bip_39_word_dash_9: shop-dress-piece-teach-zone-pledge-clown-ordinary-february
 bip_39_word_new_br_1: shop
 bip_39_word_new_br_10: shop<br>dress<br>piece<br>teach<br>zone<br>pledge<br>clown<br>ordinary<br>february<br>want
 bip_39_word_new_br_11: shop<br>dress<br>piece<br>teach<br>zone<br>pledge<br>clown<br>ordinary<br>february<br>want<br>history
@@ -193,6 +205,18 @@ bip_39_word_space_6: shop dress piece teach zone pledge
 bip_39_word_space_7: shop dress piece teach zone pledge clown
 bip_39_word_space_8: shop dress piece teach zone pledge clown ordinary
 bip_39_word_space_9: shop dress piece teach zone pledge clown ordinary february
+bip_39_word_underscore_1: shop
+bip_39_word_underscore_10: shop_dress_piece_teach_zone_pledge_clown_ordinary_february_want
+bip_39_word_underscore_11: shop_dress_piece_teach_zone_pledge_clown_ordinary_february_want_history
+bip_39_word_underscore_12: shop_dress_piece_teach_zone_pledge_clown_ordinary_february_want_history_across
+bip_39_word_underscore_2: shop_dress
+bip_39_word_underscore_3: shop_dress_piece
+bip_39_word_underscore_4: shop_dress_piece_teach
+bip_39_word_underscore_5: shop_dress_piece_teach_zone
+bip_39_word_underscore_6: shop_dress_piece_teach_zone_pledge
+bip_39_word_underscore_7: shop_dress_piece_teach_zone_pledge_clown
+bip_39_word_underscore_8: shop_dress_piece_teach_zone_pledge_clown_ordinary
+bip_39_word_underscore_9: shop_dress_piece_teach_zone_pledge_clown_ordinary_february
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

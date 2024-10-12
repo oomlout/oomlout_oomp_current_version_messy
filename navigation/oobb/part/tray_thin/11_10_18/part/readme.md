@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sand |  
+| bip_39_word_dash_10 | sand-problem-menu-path-gospel-waste-detect-twin-snap-easily |  
+| bip_39_word_dash_11 | sand-problem-menu-path-gospel-waste-detect-twin-snap-easily-such |  
+| bip_39_word_dash_12 | sand-problem-menu-path-gospel-waste-detect-twin-snap-easily-such-ask |  
+| bip_39_word_dash_2 | sand-problem |  
+| bip_39_word_dash_3 | sand-problem-menu |  
+| bip_39_word_dash_4 | sand-problem-menu-path |  
+| bip_39_word_dash_5 | sand-problem-menu-path-gospel |  
+| bip_39_word_dash_6 | sand-problem-menu-path-gospel-waste |  
+| bip_39_word_dash_7 | sand-problem-menu-path-gospel-waste-detect |  
+| bip_39_word_dash_8 | sand-problem-menu-path-gospel-waste-detect-twin |  
+| bip_39_word_dash_9 | sand-problem-menu-path-gospel-waste-detect-twin-snap |  
 | bip_39_word_new_br_1 | sand |  
 | bip_39_word_new_br_10 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin<br>snap<br>easily |  
 | bip_39_word_new_br_11 | sand<br>problem<br>menu<br>path<br>gospel<br>waste<br>detect<br>twin<br>snap<br>easily<br>such |  
@@ -147,6 +159,18 @@ snap |
 | bip_39_word_space_7 | sand problem menu path gospel waste detect |  
 | bip_39_word_space_8 | sand problem menu path gospel waste detect twin |  
 | bip_39_word_space_9 | sand problem menu path gospel waste detect twin snap |  
+| bip_39_word_underscore_1 | sand |  
+| bip_39_word_underscore_10 | sand_problem_menu_path_gospel_waste_detect_twin_snap_easily |  
+| bip_39_word_underscore_11 | sand_problem_menu_path_gospel_waste_detect_twin_snap_easily_such |  
+| bip_39_word_underscore_12 | sand_problem_menu_path_gospel_waste_detect_twin_snap_easily_such_ask |  
+| bip_39_word_underscore_2 | sand_problem |  
+| bip_39_word_underscore_3 | sand_problem_menu |  
+| bip_39_word_underscore_4 | sand_problem_menu_path |  
+| bip_39_word_underscore_5 | sand_problem_menu_path_gospel |  
+| bip_39_word_underscore_6 | sand_problem_menu_path_gospel_waste |  
+| bip_39_word_underscore_7 | sand_problem_menu_path_gospel_waste_detect |  
+| bip_39_word_underscore_8 | sand_problem_menu_path_gospel_waste_detect_twin |  
+| bip_39_word_underscore_9 | sand_problem_menu_path_gospel_waste_detect_twin_snap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

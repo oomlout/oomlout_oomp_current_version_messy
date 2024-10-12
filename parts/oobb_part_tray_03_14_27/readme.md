@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | they |  
+| bip_39_word_dash_10 | they-again-man-broom-song-supply-misery-distance-december-desert |  
+| bip_39_word_dash_11 | they-again-man-broom-song-supply-misery-distance-december-desert-staff |  
+| bip_39_word_dash_12 | they-again-man-broom-song-supply-misery-distance-december-desert-staff-acoustic |  
+| bip_39_word_dash_2 | they-again |  
+| bip_39_word_dash_3 | they-again-man |  
+| bip_39_word_dash_4 | they-again-man-broom |  
+| bip_39_word_dash_5 | they-again-man-broom-song |  
+| bip_39_word_dash_6 | they-again-man-broom-song-supply |  
+| bip_39_word_dash_7 | they-again-man-broom-song-supply-misery |  
+| bip_39_word_dash_8 | they-again-man-broom-song-supply-misery-distance |  
+| bip_39_word_dash_9 | they-again-man-broom-song-supply-misery-distance-december |  
 | bip_39_word_new_br_1 | they |  
 | bip_39_word_new_br_10 | they<br>again<br>man<br>broom<br>song<br>supply<br>misery<br>distance<br>december<br>desert |  
 | bip_39_word_new_br_11 | they<br>again<br>man<br>broom<br>song<br>supply<br>misery<br>distance<br>december<br>desert<br>staff |  
@@ -147,6 +159,18 @@ december |
 | bip_39_word_space_7 | they again man broom song supply misery |  
 | bip_39_word_space_8 | they again man broom song supply misery distance |  
 | bip_39_word_space_9 | they again man broom song supply misery distance december |  
+| bip_39_word_underscore_1 | they |  
+| bip_39_word_underscore_10 | they_again_man_broom_song_supply_misery_distance_december_desert |  
+| bip_39_word_underscore_11 | they_again_man_broom_song_supply_misery_distance_december_desert_staff |  
+| bip_39_word_underscore_12 | they_again_man_broom_song_supply_misery_distance_december_desert_staff_acoustic |  
+| bip_39_word_underscore_2 | they_again |  
+| bip_39_word_underscore_3 | they_again_man |  
+| bip_39_word_underscore_4 | they_again_man_broom |  
+| bip_39_word_underscore_5 | they_again_man_broom_song |  
+| bip_39_word_underscore_6 | they_again_man_broom_song_supply |  
+| bip_39_word_underscore_7 | they_again_man_broom_song_supply_misery |  
+| bip_39_word_underscore_8 | they_again_man_broom_song_supply_misery_distance |  
+| bip_39_word_underscore_9 | they_again_man_broom_song_supply_misery_distance_december |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

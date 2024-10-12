@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dignity |  
+| bip_39_word_dash_10 | dignity-anxiety-spider-door-pull-burst-clerk-ice-bring-mimic |  
+| bip_39_word_dash_11 | dignity-anxiety-spider-door-pull-burst-clerk-ice-bring-mimic-nephew |  
+| bip_39_word_dash_12 | dignity-anxiety-spider-door-pull-burst-clerk-ice-bring-mimic-nephew-agree |  
+| bip_39_word_dash_2 | dignity-anxiety |  
+| bip_39_word_dash_3 | dignity-anxiety-spider |  
+| bip_39_word_dash_4 | dignity-anxiety-spider-door |  
+| bip_39_word_dash_5 | dignity-anxiety-spider-door-pull |  
+| bip_39_word_dash_6 | dignity-anxiety-spider-door-pull-burst |  
+| bip_39_word_dash_7 | dignity-anxiety-spider-door-pull-burst-clerk |  
+| bip_39_word_dash_8 | dignity-anxiety-spider-door-pull-burst-clerk-ice |  
+| bip_39_word_dash_9 | dignity-anxiety-spider-door-pull-burst-clerk-ice-bring |  
 | bip_39_word_new_br_1 | dignity |  
 | bip_39_word_new_br_10 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic |  
 | bip_39_word_new_br_11 | dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic<br>nephew |  
@@ -147,6 +159,18 @@ bring |
 | bip_39_word_space_7 | dignity anxiety spider door pull burst clerk |  
 | bip_39_word_space_8 | dignity anxiety spider door pull burst clerk ice |  
 | bip_39_word_space_9 | dignity anxiety spider door pull burst clerk ice bring |  
+| bip_39_word_underscore_1 | dignity |  
+| bip_39_word_underscore_10 | dignity_anxiety_spider_door_pull_burst_clerk_ice_bring_mimic |  
+| bip_39_word_underscore_11 | dignity_anxiety_spider_door_pull_burst_clerk_ice_bring_mimic_nephew |  
+| bip_39_word_underscore_12 | dignity_anxiety_spider_door_pull_burst_clerk_ice_bring_mimic_nephew_agree |  
+| bip_39_word_underscore_2 | dignity_anxiety |  
+| bip_39_word_underscore_3 | dignity_anxiety_spider |  
+| bip_39_word_underscore_4 | dignity_anxiety_spider_door |  
+| bip_39_word_underscore_5 | dignity_anxiety_spider_door_pull |  
+| bip_39_word_underscore_6 | dignity_anxiety_spider_door_pull_burst |  
+| bip_39_word_underscore_7 | dignity_anxiety_spider_door_pull_burst_clerk |  
+| bip_39_word_underscore_8 | dignity_anxiety_spider_door_pull_burst_clerk_ice |  
+| bip_39_word_underscore_9 | dignity_anxiety_spider_door_pull_burst_clerk_ice_bring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

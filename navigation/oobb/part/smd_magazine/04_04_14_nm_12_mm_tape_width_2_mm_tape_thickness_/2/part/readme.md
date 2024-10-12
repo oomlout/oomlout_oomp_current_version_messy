@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | banana |  
+| bip_39_word_dash_10 | banana-junk-solution-juice-liquid-educate-town-scout-prison-fee |  
+| bip_39_word_dash_11 | banana-junk-solution-juice-liquid-educate-town-scout-prison-fee-struggle |  
+| bip_39_word_dash_12 | banana-junk-solution-juice-liquid-educate-town-scout-prison-fee-struggle-arrow |  
+| bip_39_word_dash_2 | banana-junk |  
+| bip_39_word_dash_3 | banana-junk-solution |  
+| bip_39_word_dash_4 | banana-junk-solution-juice |  
+| bip_39_word_dash_5 | banana-junk-solution-juice-liquid |  
+| bip_39_word_dash_6 | banana-junk-solution-juice-liquid-educate |  
+| bip_39_word_dash_7 | banana-junk-solution-juice-liquid-educate-town |  
+| bip_39_word_dash_8 | banana-junk-solution-juice-liquid-educate-town-scout |  
+| bip_39_word_dash_9 | banana-junk-solution-juice-liquid-educate-town-scout-prison |  
 | bip_39_word_new_br_1 | banana |  
 | bip_39_word_new_br_10 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee |  
 | bip_39_word_new_br_11 | banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee<br>struggle |  
@@ -147,6 +159,18 @@ prison |
 | bip_39_word_space_7 | banana junk solution juice liquid educate town |  
 | bip_39_word_space_8 | banana junk solution juice liquid educate town scout |  
 | bip_39_word_space_9 | banana junk solution juice liquid educate town scout prison |  
+| bip_39_word_underscore_1 | banana |  
+| bip_39_word_underscore_10 | banana_junk_solution_juice_liquid_educate_town_scout_prison_fee |  
+| bip_39_word_underscore_11 | banana_junk_solution_juice_liquid_educate_town_scout_prison_fee_struggle |  
+| bip_39_word_underscore_12 | banana_junk_solution_juice_liquid_educate_town_scout_prison_fee_struggle_arrow |  
+| bip_39_word_underscore_2 | banana_junk |  
+| bip_39_word_underscore_3 | banana_junk_solution |  
+| bip_39_word_underscore_4 | banana_junk_solution_juice |  
+| bip_39_word_underscore_5 | banana_junk_solution_juice_liquid |  
+| bip_39_word_underscore_6 | banana_junk_solution_juice_liquid_educate |  
+| bip_39_word_underscore_7 | banana_junk_solution_juice_liquid_educate_town |  
+| bip_39_word_underscore_8 | banana_junk_solution_juice_liquid_educate_town_scout |  
+| bip_39_word_underscore_9 | banana_junk_solution_juice_liquid_educate_town_scout_prison |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

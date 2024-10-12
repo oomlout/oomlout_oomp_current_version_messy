@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chalk |  
+| bip_39_word_dash_10 | chalk-fantasy-early-enact-payment-inside-ceiling-nurse-worry-weird |  
+| bip_39_word_dash_11 | chalk-fantasy-early-enact-payment-inside-ceiling-nurse-worry-weird-umbrella |  
+| bip_39_word_dash_12 | chalk-fantasy-early-enact-payment-inside-ceiling-nurse-worry-weird-umbrella-asset |  
+| bip_39_word_dash_2 | chalk-fantasy |  
+| bip_39_word_dash_3 | chalk-fantasy-early |  
+| bip_39_word_dash_4 | chalk-fantasy-early-enact |  
+| bip_39_word_dash_5 | chalk-fantasy-early-enact-payment |  
+| bip_39_word_dash_6 | chalk-fantasy-early-enact-payment-inside |  
+| bip_39_word_dash_7 | chalk-fantasy-early-enact-payment-inside-ceiling |  
+| bip_39_word_dash_8 | chalk-fantasy-early-enact-payment-inside-ceiling-nurse |  
+| bip_39_word_dash_9 | chalk-fantasy-early-enact-payment-inside-ceiling-nurse-worry |  
 | bip_39_word_new_br_1 | chalk |  
 | bip_39_word_new_br_10 | chalk<br>fantasy<br>early<br>enact<br>payment<br>inside<br>ceiling<br>nurse<br>worry<br>weird |  
 | bip_39_word_new_br_11 | chalk<br>fantasy<br>early<br>enact<br>payment<br>inside<br>ceiling<br>nurse<br>worry<br>weird<br>umbrella |  
@@ -147,6 +159,18 @@ worry |
 | bip_39_word_space_7 | chalk fantasy early enact payment inside ceiling |  
 | bip_39_word_space_8 | chalk fantasy early enact payment inside ceiling nurse |  
 | bip_39_word_space_9 | chalk fantasy early enact payment inside ceiling nurse worry |  
+| bip_39_word_underscore_1 | chalk |  
+| bip_39_word_underscore_10 | chalk_fantasy_early_enact_payment_inside_ceiling_nurse_worry_weird |  
+| bip_39_word_underscore_11 | chalk_fantasy_early_enact_payment_inside_ceiling_nurse_worry_weird_umbrella |  
+| bip_39_word_underscore_12 | chalk_fantasy_early_enact_payment_inside_ceiling_nurse_worry_weird_umbrella_asset |  
+| bip_39_word_underscore_2 | chalk_fantasy |  
+| bip_39_word_underscore_3 | chalk_fantasy_early |  
+| bip_39_word_underscore_4 | chalk_fantasy_early_enact |  
+| bip_39_word_underscore_5 | chalk_fantasy_early_enact_payment |  
+| bip_39_word_underscore_6 | chalk_fantasy_early_enact_payment_inside |  
+| bip_39_word_underscore_7 | chalk_fantasy_early_enact_payment_inside_ceiling |  
+| bip_39_word_underscore_8 | chalk_fantasy_early_enact_payment_inside_ceiling_nurse |  
+| bip_39_word_underscore_9 | chalk_fantasy_early_enact_payment_inside_ceiling_nurse_worry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

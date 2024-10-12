@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wise |  
+| bip_39_word_dash_10 | wise-ride-swear-absurd-year-solar-wood-mixture-boss-wisdom |  
+| bip_39_word_dash_11 | wise-ride-swear-absurd-year-solar-wood-mixture-boss-wisdom-talent |  
+| bip_39_word_dash_12 | wise-ride-swear-absurd-year-solar-wood-mixture-boss-wisdom-talent-arrive |  
+| bip_39_word_dash_2 | wise-ride |  
+| bip_39_word_dash_3 | wise-ride-swear |  
+| bip_39_word_dash_4 | wise-ride-swear-absurd |  
+| bip_39_word_dash_5 | wise-ride-swear-absurd-year |  
+| bip_39_word_dash_6 | wise-ride-swear-absurd-year-solar |  
+| bip_39_word_dash_7 | wise-ride-swear-absurd-year-solar-wood |  
+| bip_39_word_dash_8 | wise-ride-swear-absurd-year-solar-wood-mixture |  
+| bip_39_word_dash_9 | wise-ride-swear-absurd-year-solar-wood-mixture-boss |  
 | bip_39_word_new_br_1 | wise |  
 | bip_39_word_new_br_10 | wise<br>ride<br>swear<br>absurd<br>year<br>solar<br>wood<br>mixture<br>boss<br>wisdom |  
 | bip_39_word_new_br_11 | wise<br>ride<br>swear<br>absurd<br>year<br>solar<br>wood<br>mixture<br>boss<br>wisdom<br>talent |  
@@ -147,6 +159,18 @@ boss |
 | bip_39_word_space_7 | wise ride swear absurd year solar wood |  
 | bip_39_word_space_8 | wise ride swear absurd year solar wood mixture |  
 | bip_39_word_space_9 | wise ride swear absurd year solar wood mixture boss |  
+| bip_39_word_underscore_1 | wise |  
+| bip_39_word_underscore_10 | wise_ride_swear_absurd_year_solar_wood_mixture_boss_wisdom |  
+| bip_39_word_underscore_11 | wise_ride_swear_absurd_year_solar_wood_mixture_boss_wisdom_talent |  
+| bip_39_word_underscore_12 | wise_ride_swear_absurd_year_solar_wood_mixture_boss_wisdom_talent_arrive |  
+| bip_39_word_underscore_2 | wise_ride |  
+| bip_39_word_underscore_3 | wise_ride_swear |  
+| bip_39_word_underscore_4 | wise_ride_swear_absurd |  
+| bip_39_word_underscore_5 | wise_ride_swear_absurd_year |  
+| bip_39_word_underscore_6 | wise_ride_swear_absurd_year_solar |  
+| bip_39_word_underscore_7 | wise_ride_swear_absurd_year_solar_wood |  
+| bip_39_word_underscore_8 | wise_ride_swear_absurd_year_solar_wood_mixture |  
+| bip_39_word_underscore_9 | wise_ride_swear_absurd_year_solar_wood_mixture_boss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

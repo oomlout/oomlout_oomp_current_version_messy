@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lyrics
+bip_39_word_dash_10: lyrics-drop-drop-sentence-faint-duty-ridge-manage-culture-accident
+bip_39_word_dash_11: lyrics-drop-drop-sentence-faint-duty-ridge-manage-culture-accident-govern
+bip_39_word_dash_12: lyrics-drop-drop-sentence-faint-duty-ridge-manage-culture-accident-govern-address
+bip_39_word_dash_2: lyrics-drop
+bip_39_word_dash_3: lyrics-drop-drop
+bip_39_word_dash_4: lyrics-drop-drop-sentence
+bip_39_word_dash_5: lyrics-drop-drop-sentence-faint
+bip_39_word_dash_6: lyrics-drop-drop-sentence-faint-duty
+bip_39_word_dash_7: lyrics-drop-drop-sentence-faint-duty-ridge
+bip_39_word_dash_8: lyrics-drop-drop-sentence-faint-duty-ridge-manage
+bip_39_word_dash_9: lyrics-drop-drop-sentence-faint-duty-ridge-manage-culture
 bip_39_word_new_br_1: lyrics
 bip_39_word_new_br_10: lyrics<br>drop<br>drop<br>sentence<br>faint<br>duty<br>ridge<br>manage<br>culture<br>accident
 bip_39_word_new_br_11: lyrics<br>drop<br>drop<br>sentence<br>faint<br>duty<br>ridge<br>manage<br>culture<br>accident<br>govern
@@ -193,6 +205,18 @@ bip_39_word_space_6: lyrics drop drop sentence faint duty
 bip_39_word_space_7: lyrics drop drop sentence faint duty ridge
 bip_39_word_space_8: lyrics drop drop sentence faint duty ridge manage
 bip_39_word_space_9: lyrics drop drop sentence faint duty ridge manage culture
+bip_39_word_underscore_1: lyrics
+bip_39_word_underscore_10: lyrics_drop_drop_sentence_faint_duty_ridge_manage_culture_accident
+bip_39_word_underscore_11: lyrics_drop_drop_sentence_faint_duty_ridge_manage_culture_accident_govern
+bip_39_word_underscore_12: lyrics_drop_drop_sentence_faint_duty_ridge_manage_culture_accident_govern_address
+bip_39_word_underscore_2: lyrics_drop
+bip_39_word_underscore_3: lyrics_drop_drop
+bip_39_word_underscore_4: lyrics_drop_drop_sentence
+bip_39_word_underscore_5: lyrics_drop_drop_sentence_faint
+bip_39_word_underscore_6: lyrics_drop_drop_sentence_faint_duty
+bip_39_word_underscore_7: lyrics_drop_drop_sentence_faint_duty_ridge
+bip_39_word_underscore_8: lyrics_drop_drop_sentence_faint_duty_ridge_manage
+bip_39_word_underscore_9: lyrics_drop_drop_sentence_faint_duty_ridge_manage_culture
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

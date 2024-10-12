@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deliver
+bip_39_word_dash_10: deliver-drink-visa-draft-fiber-december-beach-survey-couch-matrix
+bip_39_word_dash_11: deliver-drink-visa-draft-fiber-december-beach-survey-couch-matrix-inform
+bip_39_word_dash_12: deliver-drink-visa-draft-fiber-december-beach-survey-couch-matrix-inform-avocado
+bip_39_word_dash_2: deliver-drink
+bip_39_word_dash_3: deliver-drink-visa
+bip_39_word_dash_4: deliver-drink-visa-draft
+bip_39_word_dash_5: deliver-drink-visa-draft-fiber
+bip_39_word_dash_6: deliver-drink-visa-draft-fiber-december
+bip_39_word_dash_7: deliver-drink-visa-draft-fiber-december-beach
+bip_39_word_dash_8: deliver-drink-visa-draft-fiber-december-beach-survey
+bip_39_word_dash_9: deliver-drink-visa-draft-fiber-december-beach-survey-couch
 bip_39_word_new_br_1: deliver
 bip_39_word_new_br_10: deliver<br>drink<br>visa<br>draft<br>fiber<br>december<br>beach<br>survey<br>couch<br>matrix
 bip_39_word_new_br_11: deliver<br>drink<br>visa<br>draft<br>fiber<br>december<br>beach<br>survey<br>couch<br>matrix<br>inform
@@ -193,6 +205,18 @@ bip_39_word_space_6: deliver drink visa draft fiber december
 bip_39_word_space_7: deliver drink visa draft fiber december beach
 bip_39_word_space_8: deliver drink visa draft fiber december beach survey
 bip_39_word_space_9: deliver drink visa draft fiber december beach survey couch
+bip_39_word_underscore_1: deliver
+bip_39_word_underscore_10: deliver_drink_visa_draft_fiber_december_beach_survey_couch_matrix
+bip_39_word_underscore_11: deliver_drink_visa_draft_fiber_december_beach_survey_couch_matrix_inform
+bip_39_word_underscore_12: deliver_drink_visa_draft_fiber_december_beach_survey_couch_matrix_inform_avocado
+bip_39_word_underscore_2: deliver_drink
+bip_39_word_underscore_3: deliver_drink_visa
+bip_39_word_underscore_4: deliver_drink_visa_draft
+bip_39_word_underscore_5: deliver_drink_visa_draft_fiber
+bip_39_word_underscore_6: deliver_drink_visa_draft_fiber_december
+bip_39_word_underscore_7: deliver_drink_visa_draft_fiber_december_beach
+bip_39_word_underscore_8: deliver_drink_visa_draft_fiber_december_beach_survey
+bip_39_word_underscore_9: deliver_drink_visa_draft_fiber_december_beach_survey_couch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

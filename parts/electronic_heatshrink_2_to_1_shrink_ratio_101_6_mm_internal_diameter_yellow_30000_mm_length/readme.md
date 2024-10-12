@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lift |  
+| bip_39_word_dash_10 | lift-dress-blanket-achieve-embrace-problem-seminar-average-foster-anchor |  
+| bip_39_word_dash_11 | lift-dress-blanket-achieve-embrace-problem-seminar-average-foster-anchor-have |  
+| bip_39_word_dash_12 | lift-dress-blanket-achieve-embrace-problem-seminar-average-foster-anchor-have-annual |  
+| bip_39_word_dash_2 | lift-dress |  
+| bip_39_word_dash_3 | lift-dress-blanket |  
+| bip_39_word_dash_4 | lift-dress-blanket-achieve |  
+| bip_39_word_dash_5 | lift-dress-blanket-achieve-embrace |  
+| bip_39_word_dash_6 | lift-dress-blanket-achieve-embrace-problem |  
+| bip_39_word_dash_7 | lift-dress-blanket-achieve-embrace-problem-seminar |  
+| bip_39_word_dash_8 | lift-dress-blanket-achieve-embrace-problem-seminar-average |  
+| bip_39_word_dash_9 | lift-dress-blanket-achieve-embrace-problem-seminar-average-foster |  
 | bip_39_word_new_br_1 | lift |  
 | bip_39_word_new_br_10 | lift<br>dress<br>blanket<br>achieve<br>embrace<br>problem<br>seminar<br>average<br>foster<br>anchor |  
 | bip_39_word_new_br_11 | lift<br>dress<br>blanket<br>achieve<br>embrace<br>problem<br>seminar<br>average<br>foster<br>anchor<br>have |  
@@ -147,6 +159,18 @@ foster |
 | bip_39_word_space_7 | lift dress blanket achieve embrace problem seminar |  
 | bip_39_word_space_8 | lift dress blanket achieve embrace problem seminar average |  
 | bip_39_word_space_9 | lift dress blanket achieve embrace problem seminar average foster |  
+| bip_39_word_underscore_1 | lift |  
+| bip_39_word_underscore_10 | lift_dress_blanket_achieve_embrace_problem_seminar_average_foster_anchor |  
+| bip_39_word_underscore_11 | lift_dress_blanket_achieve_embrace_problem_seminar_average_foster_anchor_have |  
+| bip_39_word_underscore_12 | lift_dress_blanket_achieve_embrace_problem_seminar_average_foster_anchor_have_annual |  
+| bip_39_word_underscore_2 | lift_dress |  
+| bip_39_word_underscore_3 | lift_dress_blanket |  
+| bip_39_word_underscore_4 | lift_dress_blanket_achieve |  
+| bip_39_word_underscore_5 | lift_dress_blanket_achieve_embrace |  
+| bip_39_word_underscore_6 | lift_dress_blanket_achieve_embrace_problem |  
+| bip_39_word_underscore_7 | lift_dress_blanket_achieve_embrace_problem_seminar |  
+| bip_39_word_underscore_8 | lift_dress_blanket_achieve_embrace_problem_seminar_average |  
+| bip_39_word_underscore_9 | lift_dress_blanket_achieve_embrace_problem_seminar_average_foster |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

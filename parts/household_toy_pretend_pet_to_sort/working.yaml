@@ -1,3 +1,15 @@
+bip_39_word_dash_1: photo
+bip_39_word_dash_10: photo-witness-obey-icon-captain-glove-physical-erupt-alter-whisper
+bip_39_word_dash_11: photo-witness-obey-icon-captain-glove-physical-erupt-alter-whisper-accident
+bip_39_word_dash_12: photo-witness-obey-icon-captain-glove-physical-erupt-alter-whisper-accident-already
+bip_39_word_dash_2: photo-witness
+bip_39_word_dash_3: photo-witness-obey
+bip_39_word_dash_4: photo-witness-obey-icon
+bip_39_word_dash_5: photo-witness-obey-icon-captain
+bip_39_word_dash_6: photo-witness-obey-icon-captain-glove
+bip_39_word_dash_7: photo-witness-obey-icon-captain-glove-physical
+bip_39_word_dash_8: photo-witness-obey-icon-captain-glove-physical-erupt
+bip_39_word_dash_9: photo-witness-obey-icon-captain-glove-physical-erupt-alter
 bip_39_word_new_br_1: photo
 bip_39_word_new_br_10: photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper
 bip_39_word_new_br_11: photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper<br>accident
@@ -193,6 +205,18 @@ bip_39_word_space_6: photo witness obey icon captain glove
 bip_39_word_space_7: photo witness obey icon captain glove physical
 bip_39_word_space_8: photo witness obey icon captain glove physical erupt
 bip_39_word_space_9: photo witness obey icon captain glove physical erupt alter
+bip_39_word_underscore_1: photo
+bip_39_word_underscore_10: photo_witness_obey_icon_captain_glove_physical_erupt_alter_whisper
+bip_39_word_underscore_11: photo_witness_obey_icon_captain_glove_physical_erupt_alter_whisper_accident
+bip_39_word_underscore_12: photo_witness_obey_icon_captain_glove_physical_erupt_alter_whisper_accident_already
+bip_39_word_underscore_2: photo_witness
+bip_39_word_underscore_3: photo_witness_obey
+bip_39_word_underscore_4: photo_witness_obey_icon
+bip_39_word_underscore_5: photo_witness_obey_icon_captain
+bip_39_word_underscore_6: photo_witness_obey_icon_captain_glove
+bip_39_word_underscore_7: photo_witness_obey_icon_captain_glove_physical
+bip_39_word_underscore_8: photo_witness_obey_icon_captain_glove_physical_erupt
+bip_39_word_underscore_9: photo_witness_obey_icon_captain_glove_physical_erupt_alter
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

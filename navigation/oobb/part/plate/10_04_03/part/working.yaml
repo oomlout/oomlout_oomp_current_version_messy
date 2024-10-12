@@ -1,3 +1,15 @@
+bip_39_word_dash_1: claim
+bip_39_word_dash_10: claim-asset-panel-kitchen-love-march-sick-trust-leader-sister
+bip_39_word_dash_11: claim-asset-panel-kitchen-love-march-sick-trust-leader-sister-explain
+bip_39_word_dash_12: claim-asset-panel-kitchen-love-march-sick-trust-leader-sister-explain-assist
+bip_39_word_dash_2: claim-asset
+bip_39_word_dash_3: claim-asset-panel
+bip_39_word_dash_4: claim-asset-panel-kitchen
+bip_39_word_dash_5: claim-asset-panel-kitchen-love
+bip_39_word_dash_6: claim-asset-panel-kitchen-love-march
+bip_39_word_dash_7: claim-asset-panel-kitchen-love-march-sick
+bip_39_word_dash_8: claim-asset-panel-kitchen-love-march-sick-trust
+bip_39_word_dash_9: claim-asset-panel-kitchen-love-march-sick-trust-leader
 bip_39_word_new_br_1: claim
 bip_39_word_new_br_10: claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust<br>leader<br>sister
 bip_39_word_new_br_11: claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust<br>leader<br>sister<br>explain
@@ -193,6 +205,18 @@ bip_39_word_space_6: claim asset panel kitchen love march
 bip_39_word_space_7: claim asset panel kitchen love march sick
 bip_39_word_space_8: claim asset panel kitchen love march sick trust
 bip_39_word_space_9: claim asset panel kitchen love march sick trust leader
+bip_39_word_underscore_1: claim
+bip_39_word_underscore_10: claim_asset_panel_kitchen_love_march_sick_trust_leader_sister
+bip_39_word_underscore_11: claim_asset_panel_kitchen_love_march_sick_trust_leader_sister_explain
+bip_39_word_underscore_12: claim_asset_panel_kitchen_love_march_sick_trust_leader_sister_explain_assist
+bip_39_word_underscore_2: claim_asset
+bip_39_word_underscore_3: claim_asset_panel
+bip_39_word_underscore_4: claim_asset_panel_kitchen
+bip_39_word_underscore_5: claim_asset_panel_kitchen_love
+bip_39_word_underscore_6: claim_asset_panel_kitchen_love_march
+bip_39_word_underscore_7: claim_asset_panel_kitchen_love_march_sick
+bip_39_word_underscore_8: claim_asset_panel_kitchen_love_march_sick_trust
+bip_39_word_underscore_9: claim_asset_panel_kitchen_love_march_sick_trust_leader
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

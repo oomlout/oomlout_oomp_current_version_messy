@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gloom |  
+| bip_39_word_dash_10 | gloom-high-oxygen-wise-license-share-daring-illness-mercy-right |  
+| bip_39_word_dash_11 | gloom-high-oxygen-wise-license-share-daring-illness-mercy-right-project |  
+| bip_39_word_dash_12 | gloom-high-oxygen-wise-license-share-daring-illness-mercy-right-project-auto |  
+| bip_39_word_dash_2 | gloom-high |  
+| bip_39_word_dash_3 | gloom-high-oxygen |  
+| bip_39_word_dash_4 | gloom-high-oxygen-wise |  
+| bip_39_word_dash_5 | gloom-high-oxygen-wise-license |  
+| bip_39_word_dash_6 | gloom-high-oxygen-wise-license-share |  
+| bip_39_word_dash_7 | gloom-high-oxygen-wise-license-share-daring |  
+| bip_39_word_dash_8 | gloom-high-oxygen-wise-license-share-daring-illness |  
+| bip_39_word_dash_9 | gloom-high-oxygen-wise-license-share-daring-illness-mercy |  
 | bip_39_word_new_br_1 | gloom |  
 | bip_39_word_new_br_10 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness<br>mercy<br>right |  
 | bip_39_word_new_br_11 | gloom<br>high<br>oxygen<br>wise<br>license<br>share<br>daring<br>illness<br>mercy<br>right<br>project |  
@@ -147,6 +159,18 @@ mercy |
 | bip_39_word_space_7 | gloom high oxygen wise license share daring |  
 | bip_39_word_space_8 | gloom high oxygen wise license share daring illness |  
 | bip_39_word_space_9 | gloom high oxygen wise license share daring illness mercy |  
+| bip_39_word_underscore_1 | gloom |  
+| bip_39_word_underscore_10 | gloom_high_oxygen_wise_license_share_daring_illness_mercy_right |  
+| bip_39_word_underscore_11 | gloom_high_oxygen_wise_license_share_daring_illness_mercy_right_project |  
+| bip_39_word_underscore_12 | gloom_high_oxygen_wise_license_share_daring_illness_mercy_right_project_auto |  
+| bip_39_word_underscore_2 | gloom_high |  
+| bip_39_word_underscore_3 | gloom_high_oxygen |  
+| bip_39_word_underscore_4 | gloom_high_oxygen_wise |  
+| bip_39_word_underscore_5 | gloom_high_oxygen_wise_license |  
+| bip_39_word_underscore_6 | gloom_high_oxygen_wise_license_share |  
+| bip_39_word_underscore_7 | gloom_high_oxygen_wise_license_share_daring |  
+| bip_39_word_underscore_8 | gloom_high_oxygen_wise_license_share_daring_illness |  
+| bip_39_word_underscore_9 | gloom_high_oxygen_wise_license_share_daring_illness_mercy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

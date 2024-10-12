@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | imitate |  
+| bip_39_word_dash_10 | imitate-switch-balcony-route-cage-media-flower-banana-casino-hard |  
+| bip_39_word_dash_11 | imitate-switch-balcony-route-cage-media-flower-banana-casino-hard-indoor |  
+| bip_39_word_dash_12 | imitate-switch-balcony-route-cage-media-flower-banana-casino-hard-indoor-arm |  
+| bip_39_word_dash_2 | imitate-switch |  
+| bip_39_word_dash_3 | imitate-switch-balcony |  
+| bip_39_word_dash_4 | imitate-switch-balcony-route |  
+| bip_39_word_dash_5 | imitate-switch-balcony-route-cage |  
+| bip_39_word_dash_6 | imitate-switch-balcony-route-cage-media |  
+| bip_39_word_dash_7 | imitate-switch-balcony-route-cage-media-flower |  
+| bip_39_word_dash_8 | imitate-switch-balcony-route-cage-media-flower-banana |  
+| bip_39_word_dash_9 | imitate-switch-balcony-route-cage-media-flower-banana-casino |  
 | bip_39_word_new_br_1 | imitate |  
 | bip_39_word_new_br_10 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana<br>casino<br>hard |  
 | bip_39_word_new_br_11 | imitate<br>switch<br>balcony<br>route<br>cage<br>media<br>flower<br>banana<br>casino<br>hard<br>indoor |  
@@ -147,6 +159,18 @@ casino |
 | bip_39_word_space_7 | imitate switch balcony route cage media flower |  
 | bip_39_word_space_8 | imitate switch balcony route cage media flower banana |  
 | bip_39_word_space_9 | imitate switch balcony route cage media flower banana casino |  
+| bip_39_word_underscore_1 | imitate |  
+| bip_39_word_underscore_10 | imitate_switch_balcony_route_cage_media_flower_banana_casino_hard |  
+| bip_39_word_underscore_11 | imitate_switch_balcony_route_cage_media_flower_banana_casino_hard_indoor |  
+| bip_39_word_underscore_12 | imitate_switch_balcony_route_cage_media_flower_banana_casino_hard_indoor_arm |  
+| bip_39_word_underscore_2 | imitate_switch |  
+| bip_39_word_underscore_3 | imitate_switch_balcony |  
+| bip_39_word_underscore_4 | imitate_switch_balcony_route |  
+| bip_39_word_underscore_5 | imitate_switch_balcony_route_cage |  
+| bip_39_word_underscore_6 | imitate_switch_balcony_route_cage_media |  
+| bip_39_word_underscore_7 | imitate_switch_balcony_route_cage_media_flower |  
+| bip_39_word_underscore_8 | imitate_switch_balcony_route_cage_media_flower_banana |  
+| bip_39_word_underscore_9 | imitate_switch_balcony_route_cage_media_flower_banana_casino |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

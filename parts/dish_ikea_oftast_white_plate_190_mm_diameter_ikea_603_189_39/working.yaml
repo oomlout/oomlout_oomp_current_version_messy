@@ -1,3 +1,15 @@
+bip_39_word_dash_1: card
+bip_39_word_dash_10: card-trumpet-tooth-doctor-alert-toss-exclude-cream-upon-apart
+bip_39_word_dash_11: card-trumpet-tooth-doctor-alert-toss-exclude-cream-upon-apart-wedding
+bip_39_word_dash_12: card-trumpet-tooth-doctor-alert-toss-exclude-cream-upon-apart-wedding-arch
+bip_39_word_dash_2: card-trumpet
+bip_39_word_dash_3: card-trumpet-tooth
+bip_39_word_dash_4: card-trumpet-tooth-doctor
+bip_39_word_dash_5: card-trumpet-tooth-doctor-alert
+bip_39_word_dash_6: card-trumpet-tooth-doctor-alert-toss
+bip_39_word_dash_7: card-trumpet-tooth-doctor-alert-toss-exclude
+bip_39_word_dash_8: card-trumpet-tooth-doctor-alert-toss-exclude-cream
+bip_39_word_dash_9: card-trumpet-tooth-doctor-alert-toss-exclude-cream-upon
 bip_39_word_new_br_1: card
 bip_39_word_new_br_10: card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream<br>upon<br>apart
 bip_39_word_new_br_11: card<br>trumpet<br>tooth<br>doctor<br>alert<br>toss<br>exclude<br>cream<br>upon<br>apart<br>wedding
@@ -193,6 +205,18 @@ bip_39_word_space_6: card trumpet tooth doctor alert toss
 bip_39_word_space_7: card trumpet tooth doctor alert toss exclude
 bip_39_word_space_8: card trumpet tooth doctor alert toss exclude cream
 bip_39_word_space_9: card trumpet tooth doctor alert toss exclude cream upon
+bip_39_word_underscore_1: card
+bip_39_word_underscore_10: card_trumpet_tooth_doctor_alert_toss_exclude_cream_upon_apart
+bip_39_word_underscore_11: card_trumpet_tooth_doctor_alert_toss_exclude_cream_upon_apart_wedding
+bip_39_word_underscore_12: card_trumpet_tooth_doctor_alert_toss_exclude_cream_upon_apart_wedding_arch
+bip_39_word_underscore_2: card_trumpet
+bip_39_word_underscore_3: card_trumpet_tooth
+bip_39_word_underscore_4: card_trumpet_tooth_doctor
+bip_39_word_underscore_5: card_trumpet_tooth_doctor_alert
+bip_39_word_underscore_6: card_trumpet_tooth_doctor_alert_toss
+bip_39_word_underscore_7: card_trumpet_tooth_doctor_alert_toss_exclude
+bip_39_word_underscore_8: card_trumpet_tooth_doctor_alert_toss_exclude_cream
+bip_39_word_underscore_9: card_trumpet_tooth_doctor_alert_toss_exclude_cream_upon
 classification: dish
 classification_capital: Dish
 classification_first_letter: d

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: neutral
+bip_39_word_dash_10: neutral-dismiss-ship-random-glimpse-slam-remove-hammer-unfair-tissue
+bip_39_word_dash_11: neutral-dismiss-ship-random-glimpse-slam-remove-hammer-unfair-tissue-olive
+bip_39_word_dash_12: neutral-dismiss-ship-random-glimpse-slam-remove-hammer-unfair-tissue-olive-area
+bip_39_word_dash_2: neutral-dismiss
+bip_39_word_dash_3: neutral-dismiss-ship
+bip_39_word_dash_4: neutral-dismiss-ship-random
+bip_39_word_dash_5: neutral-dismiss-ship-random-glimpse
+bip_39_word_dash_6: neutral-dismiss-ship-random-glimpse-slam
+bip_39_word_dash_7: neutral-dismiss-ship-random-glimpse-slam-remove
+bip_39_word_dash_8: neutral-dismiss-ship-random-glimpse-slam-remove-hammer
+bip_39_word_dash_9: neutral-dismiss-ship-random-glimpse-slam-remove-hammer-unfair
 bip_39_word_new_br_1: neutral
 bip_39_word_new_br_10: neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer<br>unfair<br>tissue
 bip_39_word_new_br_11: neutral<br>dismiss<br>ship<br>random<br>glimpse<br>slam<br>remove<br>hammer<br>unfair<br>tissue<br>olive
@@ -194,6 +206,18 @@ bip_39_word_space_6: neutral dismiss ship random glimpse slam
 bip_39_word_space_7: neutral dismiss ship random glimpse slam remove
 bip_39_word_space_8: neutral dismiss ship random glimpse slam remove hammer
 bip_39_word_space_9: neutral dismiss ship random glimpse slam remove hammer unfair
+bip_39_word_underscore_1: neutral
+bip_39_word_underscore_10: neutral_dismiss_ship_random_glimpse_slam_remove_hammer_unfair_tissue
+bip_39_word_underscore_11: neutral_dismiss_ship_random_glimpse_slam_remove_hammer_unfair_tissue_olive
+bip_39_word_underscore_12: neutral_dismiss_ship_random_glimpse_slam_remove_hammer_unfair_tissue_olive_area
+bip_39_word_underscore_2: neutral_dismiss
+bip_39_word_underscore_3: neutral_dismiss_ship
+bip_39_word_underscore_4: neutral_dismiss_ship_random
+bip_39_word_underscore_5: neutral_dismiss_ship_random_glimpse
+bip_39_word_underscore_6: neutral_dismiss_ship_random_glimpse_slam
+bip_39_word_underscore_7: neutral_dismiss_ship_random_glimpse_slam_remove
+bip_39_word_underscore_8: neutral_dismiss_ship_random_glimpse_slam_remove_hammer
+bip_39_word_underscore_9: neutral_dismiss_ship_random_glimpse_slam_remove_hammer_unfair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

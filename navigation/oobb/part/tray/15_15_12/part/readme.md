@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spread |  
+| bip_39_word_dash_10 | spread-marriage-era-kiss-possible-pause-math-analyst-soul-entire |  
+| bip_39_word_dash_11 | spread-marriage-era-kiss-possible-pause-math-analyst-soul-entire-unusual |  
+| bip_39_word_dash_12 | spread-marriage-era-kiss-possible-pause-math-analyst-soul-entire-unusual-april |  
+| bip_39_word_dash_2 | spread-marriage |  
+| bip_39_word_dash_3 | spread-marriage-era |  
+| bip_39_word_dash_4 | spread-marriage-era-kiss |  
+| bip_39_word_dash_5 | spread-marriage-era-kiss-possible |  
+| bip_39_word_dash_6 | spread-marriage-era-kiss-possible-pause |  
+| bip_39_word_dash_7 | spread-marriage-era-kiss-possible-pause-math |  
+| bip_39_word_dash_8 | spread-marriage-era-kiss-possible-pause-math-analyst |  
+| bip_39_word_dash_9 | spread-marriage-era-kiss-possible-pause-math-analyst-soul |  
 | bip_39_word_new_br_1 | spread |  
 | bip_39_word_new_br_10 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire |  
 | bip_39_word_new_br_11 | spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire<br>unusual |  
@@ -147,6 +159,18 @@ soul |
 | bip_39_word_space_7 | spread marriage era kiss possible pause math |  
 | bip_39_word_space_8 | spread marriage era kiss possible pause math analyst |  
 | bip_39_word_space_9 | spread marriage era kiss possible pause math analyst soul |  
+| bip_39_word_underscore_1 | spread |  
+| bip_39_word_underscore_10 | spread_marriage_era_kiss_possible_pause_math_analyst_soul_entire |  
+| bip_39_word_underscore_11 | spread_marriage_era_kiss_possible_pause_math_analyst_soul_entire_unusual |  
+| bip_39_word_underscore_12 | spread_marriage_era_kiss_possible_pause_math_analyst_soul_entire_unusual_april |  
+| bip_39_word_underscore_2 | spread_marriage |  
+| bip_39_word_underscore_3 | spread_marriage_era |  
+| bip_39_word_underscore_4 | spread_marriage_era_kiss |  
+| bip_39_word_underscore_5 | spread_marriage_era_kiss_possible |  
+| bip_39_word_underscore_6 | spread_marriage_era_kiss_possible_pause |  
+| bip_39_word_underscore_7 | spread_marriage_era_kiss_possible_pause_math |  
+| bip_39_word_underscore_8 | spread_marriage_era_kiss_possible_pause_math_analyst |  
+| bip_39_word_underscore_9 | spread_marriage_era_kiss_possible_pause_math_analyst_soul |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

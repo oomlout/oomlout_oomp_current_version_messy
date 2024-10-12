@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spider
+bip_39_word_dash_10: spider-parent-ticket-cash-grape-youth-shiver-identify-bunker-item
+bip_39_word_dash_11: spider-parent-ticket-cash-grape-youth-shiver-identify-bunker-item-coyote
+bip_39_word_dash_12: spider-parent-ticket-cash-grape-youth-shiver-identify-bunker-item-coyote-afraid
+bip_39_word_dash_2: spider-parent
+bip_39_word_dash_3: spider-parent-ticket
+bip_39_word_dash_4: spider-parent-ticket-cash
+bip_39_word_dash_5: spider-parent-ticket-cash-grape
+bip_39_word_dash_6: spider-parent-ticket-cash-grape-youth
+bip_39_word_dash_7: spider-parent-ticket-cash-grape-youth-shiver
+bip_39_word_dash_8: spider-parent-ticket-cash-grape-youth-shiver-identify
+bip_39_word_dash_9: spider-parent-ticket-cash-grape-youth-shiver-identify-bunker
 bip_39_word_new_br_1: spider
 bip_39_word_new_br_10: spider<br>parent<br>ticket<br>cash<br>grape<br>youth<br>shiver<br>identify<br>bunker<br>item
 bip_39_word_new_br_11: spider<br>parent<br>ticket<br>cash<br>grape<br>youth<br>shiver<br>identify<br>bunker<br>item<br>coyote
@@ -194,6 +206,18 @@ bip_39_word_space_6: spider parent ticket cash grape youth
 bip_39_word_space_7: spider parent ticket cash grape youth shiver
 bip_39_word_space_8: spider parent ticket cash grape youth shiver identify
 bip_39_word_space_9: spider parent ticket cash grape youth shiver identify bunker
+bip_39_word_underscore_1: spider
+bip_39_word_underscore_10: spider_parent_ticket_cash_grape_youth_shiver_identify_bunker_item
+bip_39_word_underscore_11: spider_parent_ticket_cash_grape_youth_shiver_identify_bunker_item_coyote
+bip_39_word_underscore_12: spider_parent_ticket_cash_grape_youth_shiver_identify_bunker_item_coyote_afraid
+bip_39_word_underscore_2: spider_parent
+bip_39_word_underscore_3: spider_parent_ticket
+bip_39_word_underscore_4: spider_parent_ticket_cash
+bip_39_word_underscore_5: spider_parent_ticket_cash_grape
+bip_39_word_underscore_6: spider_parent_ticket_cash_grape_youth
+bip_39_word_underscore_7: spider_parent_ticket_cash_grape_youth_shiver
+bip_39_word_underscore_8: spider_parent_ticket_cash_grape_youth_shiver_identify
+bip_39_word_underscore_9: spider_parent_ticket_cash_grape_youth_shiver_identify_bunker
 classification: storage
 classification_capital: Storage
 classification_first_letter: s

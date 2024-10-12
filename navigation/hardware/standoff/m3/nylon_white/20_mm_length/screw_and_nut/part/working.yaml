@@ -1,3 +1,15 @@
+bip_39_word_dash_1: train
+bip_39_word_dash_10: train-piano-hold-awful-grace-great-mobile-mom-rose-cry
+bip_39_word_dash_11: train-piano-hold-awful-grace-great-mobile-mom-rose-cry-ginger
+bip_39_word_dash_12: train-piano-hold-awful-grace-great-mobile-mom-rose-cry-ginger-armed
+bip_39_word_dash_2: train-piano
+bip_39_word_dash_3: train-piano-hold
+bip_39_word_dash_4: train-piano-hold-awful
+bip_39_word_dash_5: train-piano-hold-awful-grace
+bip_39_word_dash_6: train-piano-hold-awful-grace-great
+bip_39_word_dash_7: train-piano-hold-awful-grace-great-mobile
+bip_39_word_dash_8: train-piano-hold-awful-grace-great-mobile-mom
+bip_39_word_dash_9: train-piano-hold-awful-grace-great-mobile-mom-rose
 bip_39_word_new_br_1: train
 bip_39_word_new_br_10: train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom<br>rose<br>cry
 bip_39_word_new_br_11: train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom<br>rose<br>cry<br>ginger
@@ -192,6 +204,18 @@ bip_39_word_space_6: train piano hold awful grace great
 bip_39_word_space_7: train piano hold awful grace great mobile
 bip_39_word_space_8: train piano hold awful grace great mobile mom
 bip_39_word_space_9: train piano hold awful grace great mobile mom rose
+bip_39_word_underscore_1: train
+bip_39_word_underscore_10: train_piano_hold_awful_grace_great_mobile_mom_rose_cry
+bip_39_word_underscore_11: train_piano_hold_awful_grace_great_mobile_mom_rose_cry_ginger
+bip_39_word_underscore_12: train_piano_hold_awful_grace_great_mobile_mom_rose_cry_ginger_armed
+bip_39_word_underscore_2: train_piano
+bip_39_word_underscore_3: train_piano_hold
+bip_39_word_underscore_4: train_piano_hold_awful
+bip_39_word_underscore_5: train_piano_hold_awful_grace
+bip_39_word_underscore_6: train_piano_hold_awful_grace_great
+bip_39_word_underscore_7: train_piano_hold_awful_grace_great_mobile
+bip_39_word_underscore_8: train_piano_hold_awful_grace_great_mobile_mom
+bip_39_word_underscore_9: train_piano_hold_awful_grace_great_mobile_mom_rose
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

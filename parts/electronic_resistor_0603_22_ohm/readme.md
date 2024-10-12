@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chase |  
+| bip_39_word_dash_10 | chase-tissue-comic-tuition-spike-inside-recall-hello-cloud-turn |  
+| bip_39_word_dash_11 | chase-tissue-comic-tuition-spike-inside-recall-hello-cloud-turn-copper |  
+| bip_39_word_dash_12 | chase-tissue-comic-tuition-spike-inside-recall-hello-cloud-turn-copper-army |  
+| bip_39_word_dash_2 | chase-tissue |  
+| bip_39_word_dash_3 | chase-tissue-comic |  
+| bip_39_word_dash_4 | chase-tissue-comic-tuition |  
+| bip_39_word_dash_5 | chase-tissue-comic-tuition-spike |  
+| bip_39_word_dash_6 | chase-tissue-comic-tuition-spike-inside |  
+| bip_39_word_dash_7 | chase-tissue-comic-tuition-spike-inside-recall |  
+| bip_39_word_dash_8 | chase-tissue-comic-tuition-spike-inside-recall-hello |  
+| bip_39_word_dash_9 | chase-tissue-comic-tuition-spike-inside-recall-hello-cloud |  
 | bip_39_word_new_br_1 | chase |  
 | bip_39_word_new_br_10 | chase<br>tissue<br>comic<br>tuition<br>spike<br>inside<br>recall<br>hello<br>cloud<br>turn |  
 | bip_39_word_new_br_11 | chase<br>tissue<br>comic<br>tuition<br>spike<br>inside<br>recall<br>hello<br>cloud<br>turn<br>copper |  
@@ -147,6 +159,18 @@ cloud |
 | bip_39_word_space_7 | chase tissue comic tuition spike inside recall |  
 | bip_39_word_space_8 | chase tissue comic tuition spike inside recall hello |  
 | bip_39_word_space_9 | chase tissue comic tuition spike inside recall hello cloud |  
+| bip_39_word_underscore_1 | chase |  
+| bip_39_word_underscore_10 | chase_tissue_comic_tuition_spike_inside_recall_hello_cloud_turn |  
+| bip_39_word_underscore_11 | chase_tissue_comic_tuition_spike_inside_recall_hello_cloud_turn_copper |  
+| bip_39_word_underscore_12 | chase_tissue_comic_tuition_spike_inside_recall_hello_cloud_turn_copper_army |  
+| bip_39_word_underscore_2 | chase_tissue |  
+| bip_39_word_underscore_3 | chase_tissue_comic |  
+| bip_39_word_underscore_4 | chase_tissue_comic_tuition |  
+| bip_39_word_underscore_5 | chase_tissue_comic_tuition_spike |  
+| bip_39_word_underscore_6 | chase_tissue_comic_tuition_spike_inside |  
+| bip_39_word_underscore_7 | chase_tissue_comic_tuition_spike_inside_recall |  
+| bip_39_word_underscore_8 | chase_tissue_comic_tuition_spike_inside_recall_hello |  
+| bip_39_word_underscore_9 | chase_tissue_comic_tuition_spike_inside_recall_hello_cloud |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

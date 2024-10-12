@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | private |  
+| bip_39_word_dash_10 | private-inmate-crisp-surprise-voyage-draw-hint-ladder-fortune-cabin |  
+| bip_39_word_dash_11 | private-inmate-crisp-surprise-voyage-draw-hint-ladder-fortune-cabin-trend |  
+| bip_39_word_dash_12 | private-inmate-crisp-surprise-voyage-draw-hint-ladder-fortune-cabin-trend-athlete |  
+| bip_39_word_dash_2 | private-inmate |  
+| bip_39_word_dash_3 | private-inmate-crisp |  
+| bip_39_word_dash_4 | private-inmate-crisp-surprise |  
+| bip_39_word_dash_5 | private-inmate-crisp-surprise-voyage |  
+| bip_39_word_dash_6 | private-inmate-crisp-surprise-voyage-draw |  
+| bip_39_word_dash_7 | private-inmate-crisp-surprise-voyage-draw-hint |  
+| bip_39_word_dash_8 | private-inmate-crisp-surprise-voyage-draw-hint-ladder |  
+| bip_39_word_dash_9 | private-inmate-crisp-surprise-voyage-draw-hint-ladder-fortune |  
 | bip_39_word_new_br_1 | private |  
 | bip_39_word_new_br_10 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin |  
 | bip_39_word_new_br_11 | private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin<br>trend |  
@@ -147,6 +159,18 @@ fortune |
 | bip_39_word_space_7 | private inmate crisp surprise voyage draw hint |  
 | bip_39_word_space_8 | private inmate crisp surprise voyage draw hint ladder |  
 | bip_39_word_space_9 | private inmate crisp surprise voyage draw hint ladder fortune |  
+| bip_39_word_underscore_1 | private |  
+| bip_39_word_underscore_10 | private_inmate_crisp_surprise_voyage_draw_hint_ladder_fortune_cabin |  
+| bip_39_word_underscore_11 | private_inmate_crisp_surprise_voyage_draw_hint_ladder_fortune_cabin_trend |  
+| bip_39_word_underscore_12 | private_inmate_crisp_surprise_voyage_draw_hint_ladder_fortune_cabin_trend_athlete |  
+| bip_39_word_underscore_2 | private_inmate |  
+| bip_39_word_underscore_3 | private_inmate_crisp |  
+| bip_39_word_underscore_4 | private_inmate_crisp_surprise |  
+| bip_39_word_underscore_5 | private_inmate_crisp_surprise_voyage |  
+| bip_39_word_underscore_6 | private_inmate_crisp_surprise_voyage_draw |  
+| bip_39_word_underscore_7 | private_inmate_crisp_surprise_voyage_draw_hint |  
+| bip_39_word_underscore_8 | private_inmate_crisp_surprise_voyage_draw_hint_ladder |  
+| bip_39_word_underscore_9 | private_inmate_crisp_surprise_voyage_draw_hint_ladder_fortune |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

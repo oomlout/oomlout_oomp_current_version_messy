@@ -1,3 +1,15 @@
+bip_39_word_dash_1: attend
+bip_39_word_dash_10: attend-violin-joke-enrich-merry-couple-update-media-focus-blush
+bip_39_word_dash_11: attend-violin-joke-enrich-merry-couple-update-media-focus-blush-hotel
+bip_39_word_dash_12: attend-violin-joke-enrich-merry-couple-update-media-focus-blush-hotel-artefact
+bip_39_word_dash_2: attend-violin
+bip_39_word_dash_3: attend-violin-joke
+bip_39_word_dash_4: attend-violin-joke-enrich
+bip_39_word_dash_5: attend-violin-joke-enrich-merry
+bip_39_word_dash_6: attend-violin-joke-enrich-merry-couple
+bip_39_word_dash_7: attend-violin-joke-enrich-merry-couple-update
+bip_39_word_dash_8: attend-violin-joke-enrich-merry-couple-update-media
+bip_39_word_dash_9: attend-violin-joke-enrich-merry-couple-update-media-focus
 bip_39_word_new_br_1: attend
 bip_39_word_new_br_10: attend<br>violin<br>joke<br>enrich<br>merry<br>couple<br>update<br>media<br>focus<br>blush
 bip_39_word_new_br_11: attend<br>violin<br>joke<br>enrich<br>merry<br>couple<br>update<br>media<br>focus<br>blush<br>hotel
@@ -193,6 +205,18 @@ bip_39_word_space_6: attend violin joke enrich merry couple
 bip_39_word_space_7: attend violin joke enrich merry couple update
 bip_39_word_space_8: attend violin joke enrich merry couple update media
 bip_39_word_space_9: attend violin joke enrich merry couple update media focus
+bip_39_word_underscore_1: attend
+bip_39_word_underscore_10: attend_violin_joke_enrich_merry_couple_update_media_focus_blush
+bip_39_word_underscore_11: attend_violin_joke_enrich_merry_couple_update_media_focus_blush_hotel
+bip_39_word_underscore_12: attend_violin_joke_enrich_merry_couple_update_media_focus_blush_hotel_artefact
+bip_39_word_underscore_2: attend_violin
+bip_39_word_underscore_3: attend_violin_joke
+bip_39_word_underscore_4: attend_violin_joke_enrich
+bip_39_word_underscore_5: attend_violin_joke_enrich_merry
+bip_39_word_underscore_6: attend_violin_joke_enrich_merry_couple
+bip_39_word_underscore_7: attend_violin_joke_enrich_merry_couple_update
+bip_39_word_underscore_8: attend_violin_joke_enrich_merry_couple_update_media
+bip_39_word_underscore_9: attend_violin_joke_enrich_merry_couple_update_media_focus
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

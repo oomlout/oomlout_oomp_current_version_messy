@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reduce |  
+| bip_39_word_dash_10 | reduce-goose-cool-palm-affair-breeze-tank-thing-trim-door |  
+| bip_39_word_dash_11 | reduce-goose-cool-palm-affair-breeze-tank-thing-trim-door-lucky |  
+| bip_39_word_dash_12 | reduce-goose-cool-palm-affair-breeze-tank-thing-trim-door-lucky-already |  
+| bip_39_word_dash_2 | reduce-goose |  
+| bip_39_word_dash_3 | reduce-goose-cool |  
+| bip_39_word_dash_4 | reduce-goose-cool-palm |  
+| bip_39_word_dash_5 | reduce-goose-cool-palm-affair |  
+| bip_39_word_dash_6 | reduce-goose-cool-palm-affair-breeze |  
+| bip_39_word_dash_7 | reduce-goose-cool-palm-affair-breeze-tank |  
+| bip_39_word_dash_8 | reduce-goose-cool-palm-affair-breeze-tank-thing |  
+| bip_39_word_dash_9 | reduce-goose-cool-palm-affair-breeze-tank-thing-trim |  
 | bip_39_word_new_br_1 | reduce |  
 | bip_39_word_new_br_10 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door |  
 | bip_39_word_new_br_11 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door<br>lucky |  
@@ -147,6 +159,18 @@ trim |
 | bip_39_word_space_7 | reduce goose cool palm affair breeze tank |  
 | bip_39_word_space_8 | reduce goose cool palm affair breeze tank thing |  
 | bip_39_word_space_9 | reduce goose cool palm affair breeze tank thing trim |  
+| bip_39_word_underscore_1 | reduce |  
+| bip_39_word_underscore_10 | reduce_goose_cool_palm_affair_breeze_tank_thing_trim_door |  
+| bip_39_word_underscore_11 | reduce_goose_cool_palm_affair_breeze_tank_thing_trim_door_lucky |  
+| bip_39_word_underscore_12 | reduce_goose_cool_palm_affair_breeze_tank_thing_trim_door_lucky_already |  
+| bip_39_word_underscore_2 | reduce_goose |  
+| bip_39_word_underscore_3 | reduce_goose_cool |  
+| bip_39_word_underscore_4 | reduce_goose_cool_palm |  
+| bip_39_word_underscore_5 | reduce_goose_cool_palm_affair |  
+| bip_39_word_underscore_6 | reduce_goose_cool_palm_affair_breeze |  
+| bip_39_word_underscore_7 | reduce_goose_cool_palm_affair_breeze_tank |  
+| bip_39_word_underscore_8 | reduce_goose_cool_palm_affair_breeze_tank_thing |  
+| bip_39_word_underscore_9 | reduce_goose_cool_palm_affair_breeze_tank_thing_trim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

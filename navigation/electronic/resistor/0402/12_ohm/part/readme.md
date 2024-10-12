@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | march |  
+| bip_39_word_dash_10 | march-staff-recall-pulp-egg-cloud-misery-owner-giggle-echo |  
+| bip_39_word_dash_11 | march-staff-recall-pulp-egg-cloud-misery-owner-giggle-echo-system |  
+| bip_39_word_dash_12 | march-staff-recall-pulp-egg-cloud-misery-owner-giggle-echo-system-alter |  
+| bip_39_word_dash_2 | march-staff |  
+| bip_39_word_dash_3 | march-staff-recall |  
+| bip_39_word_dash_4 | march-staff-recall-pulp |  
+| bip_39_word_dash_5 | march-staff-recall-pulp-egg |  
+| bip_39_word_dash_6 | march-staff-recall-pulp-egg-cloud |  
+| bip_39_word_dash_7 | march-staff-recall-pulp-egg-cloud-misery |  
+| bip_39_word_dash_8 | march-staff-recall-pulp-egg-cloud-misery-owner |  
+| bip_39_word_dash_9 | march-staff-recall-pulp-egg-cloud-misery-owner-giggle |  
 | bip_39_word_new_br_1 | march |  
 | bip_39_word_new_br_10 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle<br>echo |  
 | bip_39_word_new_br_11 | march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle<br>echo<br>system |  
@@ -147,6 +159,18 @@ giggle |
 | bip_39_word_space_7 | march staff recall pulp egg cloud misery |  
 | bip_39_word_space_8 | march staff recall pulp egg cloud misery owner |  
 | bip_39_word_space_9 | march staff recall pulp egg cloud misery owner giggle |  
+| bip_39_word_underscore_1 | march |  
+| bip_39_word_underscore_10 | march_staff_recall_pulp_egg_cloud_misery_owner_giggle_echo |  
+| bip_39_word_underscore_11 | march_staff_recall_pulp_egg_cloud_misery_owner_giggle_echo_system |  
+| bip_39_word_underscore_12 | march_staff_recall_pulp_egg_cloud_misery_owner_giggle_echo_system_alter |  
+| bip_39_word_underscore_2 | march_staff |  
+| bip_39_word_underscore_3 | march_staff_recall |  
+| bip_39_word_underscore_4 | march_staff_recall_pulp |  
+| bip_39_word_underscore_5 | march_staff_recall_pulp_egg |  
+| bip_39_word_underscore_6 | march_staff_recall_pulp_egg_cloud |  
+| bip_39_word_underscore_7 | march_staff_recall_pulp_egg_cloud_misery |  
+| bip_39_word_underscore_8 | march_staff_recall_pulp_egg_cloud_misery_owner |  
+| bip_39_word_underscore_9 | march_staff_recall_pulp_egg_cloud_misery_owner_giggle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

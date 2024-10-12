@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cream |  
+| bip_39_word_dash_10 | cream-vanish-jaguar-amount-foot-maid-aim-govern-mouse-add |  
+| bip_39_word_dash_11 | cream-vanish-jaguar-amount-foot-maid-aim-govern-mouse-add-empty |  
+| bip_39_word_dash_12 | cream-vanish-jaguar-amount-foot-maid-aim-govern-mouse-add-empty-afford |  
+| bip_39_word_dash_2 | cream-vanish |  
+| bip_39_word_dash_3 | cream-vanish-jaguar |  
+| bip_39_word_dash_4 | cream-vanish-jaguar-amount |  
+| bip_39_word_dash_5 | cream-vanish-jaguar-amount-foot |  
+| bip_39_word_dash_6 | cream-vanish-jaguar-amount-foot-maid |  
+| bip_39_word_dash_7 | cream-vanish-jaguar-amount-foot-maid-aim |  
+| bip_39_word_dash_8 | cream-vanish-jaguar-amount-foot-maid-aim-govern |  
+| bip_39_word_dash_9 | cream-vanish-jaguar-amount-foot-maid-aim-govern-mouse |  
 | bip_39_word_new_br_1 | cream |  
 | bip_39_word_new_br_10 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add |  
 | bip_39_word_new_br_11 | cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add<br>empty |  
@@ -147,6 +159,18 @@ mouse |
 | bip_39_word_space_7 | cream vanish jaguar amount foot maid aim |  
 | bip_39_word_space_8 | cream vanish jaguar amount foot maid aim govern |  
 | bip_39_word_space_9 | cream vanish jaguar amount foot maid aim govern mouse |  
+| bip_39_word_underscore_1 | cream |  
+| bip_39_word_underscore_10 | cream_vanish_jaguar_amount_foot_maid_aim_govern_mouse_add |  
+| bip_39_word_underscore_11 | cream_vanish_jaguar_amount_foot_maid_aim_govern_mouse_add_empty |  
+| bip_39_word_underscore_12 | cream_vanish_jaguar_amount_foot_maid_aim_govern_mouse_add_empty_afford |  
+| bip_39_word_underscore_2 | cream_vanish |  
+| bip_39_word_underscore_3 | cream_vanish_jaguar |  
+| bip_39_word_underscore_4 | cream_vanish_jaguar_amount |  
+| bip_39_word_underscore_5 | cream_vanish_jaguar_amount_foot |  
+| bip_39_word_underscore_6 | cream_vanish_jaguar_amount_foot_maid |  
+| bip_39_word_underscore_7 | cream_vanish_jaguar_amount_foot_maid_aim |  
+| bip_39_word_underscore_8 | cream_vanish_jaguar_amount_foot_maid_aim_govern |  
+| bip_39_word_underscore_9 | cream_vanish_jaguar_amount_foot_maid_aim_govern_mouse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

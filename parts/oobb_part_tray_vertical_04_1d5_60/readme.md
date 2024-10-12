@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | say |  
+| bip_39_word_dash_10 | say-flush-donor-winter-include-street-morning-social-exit-maid |  
+| bip_39_word_dash_11 | say-flush-donor-winter-include-street-morning-social-exit-maid-spatial |  
+| bip_39_word_dash_12 | say-flush-donor-winter-include-street-morning-social-exit-maid-spatial-average |  
+| bip_39_word_dash_2 | say-flush |  
+| bip_39_word_dash_3 | say-flush-donor |  
+| bip_39_word_dash_4 | say-flush-donor-winter |  
+| bip_39_word_dash_5 | say-flush-donor-winter-include |  
+| bip_39_word_dash_6 | say-flush-donor-winter-include-street |  
+| bip_39_word_dash_7 | say-flush-donor-winter-include-street-morning |  
+| bip_39_word_dash_8 | say-flush-donor-winter-include-street-morning-social |  
+| bip_39_word_dash_9 | say-flush-donor-winter-include-street-morning-social-exit |  
 | bip_39_word_new_br_1 | say |  
 | bip_39_word_new_br_10 | say<br>flush<br>donor<br>winter<br>include<br>street<br>morning<br>social<br>exit<br>maid |  
 | bip_39_word_new_br_11 | say<br>flush<br>donor<br>winter<br>include<br>street<br>morning<br>social<br>exit<br>maid<br>spatial |  
@@ -147,6 +159,18 @@ exit |
 | bip_39_word_space_7 | say flush donor winter include street morning |  
 | bip_39_word_space_8 | say flush donor winter include street morning social |  
 | bip_39_word_space_9 | say flush donor winter include street morning social exit |  
+| bip_39_word_underscore_1 | say |  
+| bip_39_word_underscore_10 | say_flush_donor_winter_include_street_morning_social_exit_maid |  
+| bip_39_word_underscore_11 | say_flush_donor_winter_include_street_morning_social_exit_maid_spatial |  
+| bip_39_word_underscore_12 | say_flush_donor_winter_include_street_morning_social_exit_maid_spatial_average |  
+| bip_39_word_underscore_2 | say_flush |  
+| bip_39_word_underscore_3 | say_flush_donor |  
+| bip_39_word_underscore_4 | say_flush_donor_winter |  
+| bip_39_word_underscore_5 | say_flush_donor_winter_include |  
+| bip_39_word_underscore_6 | say_flush_donor_winter_include_street |  
+| bip_39_word_underscore_7 | say_flush_donor_winter_include_street_morning |  
+| bip_39_word_underscore_8 | say_flush_donor_winter_include_street_morning_social |  
+| bip_39_word_underscore_9 | say_flush_donor_winter_include_street_morning_social_exit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

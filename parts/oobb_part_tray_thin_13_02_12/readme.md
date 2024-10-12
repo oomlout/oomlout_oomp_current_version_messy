@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gift |  
+| bip_39_word_dash_10 | gift-arch-victory-tip-trash-judge-ice-craft-burden-people |  
+| bip_39_word_dash_11 | gift-arch-victory-tip-trash-judge-ice-craft-burden-people-crowd |  
+| bip_39_word_dash_12 | gift-arch-victory-tip-trash-judge-ice-craft-burden-people-crowd-alcohol |  
+| bip_39_word_dash_2 | gift-arch |  
+| bip_39_word_dash_3 | gift-arch-victory |  
+| bip_39_word_dash_4 | gift-arch-victory-tip |  
+| bip_39_word_dash_5 | gift-arch-victory-tip-trash |  
+| bip_39_word_dash_6 | gift-arch-victory-tip-trash-judge |  
+| bip_39_word_dash_7 | gift-arch-victory-tip-trash-judge-ice |  
+| bip_39_word_dash_8 | gift-arch-victory-tip-trash-judge-ice-craft |  
+| bip_39_word_dash_9 | gift-arch-victory-tip-trash-judge-ice-craft-burden |  
 | bip_39_word_new_br_1 | gift |  
 | bip_39_word_new_br_10 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people |  
 | bip_39_word_new_br_11 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people<br>crowd |  
@@ -147,6 +159,18 @@ burden |
 | bip_39_word_space_7 | gift arch victory tip trash judge ice |  
 | bip_39_word_space_8 | gift arch victory tip trash judge ice craft |  
 | bip_39_word_space_9 | gift arch victory tip trash judge ice craft burden |  
+| bip_39_word_underscore_1 | gift |  
+| bip_39_word_underscore_10 | gift_arch_victory_tip_trash_judge_ice_craft_burden_people |  
+| bip_39_word_underscore_11 | gift_arch_victory_tip_trash_judge_ice_craft_burden_people_crowd |  
+| bip_39_word_underscore_12 | gift_arch_victory_tip_trash_judge_ice_craft_burden_people_crowd_alcohol |  
+| bip_39_word_underscore_2 | gift_arch |  
+| bip_39_word_underscore_3 | gift_arch_victory |  
+| bip_39_word_underscore_4 | gift_arch_victory_tip |  
+| bip_39_word_underscore_5 | gift_arch_victory_tip_trash |  
+| bip_39_word_underscore_6 | gift_arch_victory_tip_trash_judge |  
+| bip_39_word_underscore_7 | gift_arch_victory_tip_trash_judge_ice |  
+| bip_39_word_underscore_8 | gift_arch_victory_tip_trash_judge_ice_craft |  
+| bip_39_word_underscore_9 | gift_arch_victory_tip_trash_judge_ice_craft_burden |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

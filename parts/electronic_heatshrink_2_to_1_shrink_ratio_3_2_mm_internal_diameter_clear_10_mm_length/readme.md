@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | potato |  
+| bip_39_word_dash_10 | potato-silk-seek-plate-uphold-enemy-element-spell-stairs-warfare |  
+| bip_39_word_dash_11 | potato-silk-seek-plate-uphold-enemy-element-spell-stairs-warfare-embark |  
+| bip_39_word_dash_12 | potato-silk-seek-plate-uphold-enemy-element-spell-stairs-warfare-embark-aspect |  
+| bip_39_word_dash_2 | potato-silk |  
+| bip_39_word_dash_3 | potato-silk-seek |  
+| bip_39_word_dash_4 | potato-silk-seek-plate |  
+| bip_39_word_dash_5 | potato-silk-seek-plate-uphold |  
+| bip_39_word_dash_6 | potato-silk-seek-plate-uphold-enemy |  
+| bip_39_word_dash_7 | potato-silk-seek-plate-uphold-enemy-element |  
+| bip_39_word_dash_8 | potato-silk-seek-plate-uphold-enemy-element-spell |  
+| bip_39_word_dash_9 | potato-silk-seek-plate-uphold-enemy-element-spell-stairs |  
 | bip_39_word_new_br_1 | potato |  
 | bip_39_word_new_br_10 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell<br>stairs<br>warfare |  
 | bip_39_word_new_br_11 | potato<br>silk<br>seek<br>plate<br>uphold<br>enemy<br>element<br>spell<br>stairs<br>warfare<br>embark |  
@@ -147,6 +159,18 @@ stairs |
 | bip_39_word_space_7 | potato silk seek plate uphold enemy element |  
 | bip_39_word_space_8 | potato silk seek plate uphold enemy element spell |  
 | bip_39_word_space_9 | potato silk seek plate uphold enemy element spell stairs |  
+| bip_39_word_underscore_1 | potato |  
+| bip_39_word_underscore_10 | potato_silk_seek_plate_uphold_enemy_element_spell_stairs_warfare |  
+| bip_39_word_underscore_11 | potato_silk_seek_plate_uphold_enemy_element_spell_stairs_warfare_embark |  
+| bip_39_word_underscore_12 | potato_silk_seek_plate_uphold_enemy_element_spell_stairs_warfare_embark_aspect |  
+| bip_39_word_underscore_2 | potato_silk |  
+| bip_39_word_underscore_3 | potato_silk_seek |  
+| bip_39_word_underscore_4 | potato_silk_seek_plate |  
+| bip_39_word_underscore_5 | potato_silk_seek_plate_uphold |  
+| bip_39_word_underscore_6 | potato_silk_seek_plate_uphold_enemy |  
+| bip_39_word_underscore_7 | potato_silk_seek_plate_uphold_enemy_element |  
+| bip_39_word_underscore_8 | potato_silk_seek_plate_uphold_enemy_element_spell |  
+| bip_39_word_underscore_9 | potato_silk_seek_plate_uphold_enemy_element_spell_stairs |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | summer |  
+| bip_39_word_dash_10 | summer-slogan-tilt-talk-amateur-journey-chuckle-boy-panther-voice |  
+| bip_39_word_dash_11 | summer-slogan-tilt-talk-amateur-journey-chuckle-boy-panther-voice-odor |  
+| bip_39_word_dash_12 | summer-slogan-tilt-talk-amateur-journey-chuckle-boy-panther-voice-odor-air |  
+| bip_39_word_dash_2 | summer-slogan |  
+| bip_39_word_dash_3 | summer-slogan-tilt |  
+| bip_39_word_dash_4 | summer-slogan-tilt-talk |  
+| bip_39_word_dash_5 | summer-slogan-tilt-talk-amateur |  
+| bip_39_word_dash_6 | summer-slogan-tilt-talk-amateur-journey |  
+| bip_39_word_dash_7 | summer-slogan-tilt-talk-amateur-journey-chuckle |  
+| bip_39_word_dash_8 | summer-slogan-tilt-talk-amateur-journey-chuckle-boy |  
+| bip_39_word_dash_9 | summer-slogan-tilt-talk-amateur-journey-chuckle-boy-panther |  
 | bip_39_word_new_br_1 | summer |  
 | bip_39_word_new_br_10 | summer<br>slogan<br>tilt<br>talk<br>amateur<br>journey<br>chuckle<br>boy<br>panther<br>voice |  
 | bip_39_word_new_br_11 | summer<br>slogan<br>tilt<br>talk<br>amateur<br>journey<br>chuckle<br>boy<br>panther<br>voice<br>odor |  
@@ -147,6 +159,18 @@ panther |
 | bip_39_word_space_7 | summer slogan tilt talk amateur journey chuckle |  
 | bip_39_word_space_8 | summer slogan tilt talk amateur journey chuckle boy |  
 | bip_39_word_space_9 | summer slogan tilt talk amateur journey chuckle boy panther |  
+| bip_39_word_underscore_1 | summer |  
+| bip_39_word_underscore_10 | summer_slogan_tilt_talk_amateur_journey_chuckle_boy_panther_voice |  
+| bip_39_word_underscore_11 | summer_slogan_tilt_talk_amateur_journey_chuckle_boy_panther_voice_odor |  
+| bip_39_word_underscore_12 | summer_slogan_tilt_talk_amateur_journey_chuckle_boy_panther_voice_odor_air |  
+| bip_39_word_underscore_2 | summer_slogan |  
+| bip_39_word_underscore_3 | summer_slogan_tilt |  
+| bip_39_word_underscore_4 | summer_slogan_tilt_talk |  
+| bip_39_word_underscore_5 | summer_slogan_tilt_talk_amateur |  
+| bip_39_word_underscore_6 | summer_slogan_tilt_talk_amateur_journey |  
+| bip_39_word_underscore_7 | summer_slogan_tilt_talk_amateur_journey_chuckle |  
+| bip_39_word_underscore_8 | summer_slogan_tilt_talk_amateur_journey_chuckle_boy |  
+| bip_39_word_underscore_9 | summer_slogan_tilt_talk_amateur_journey_chuckle_boy_panther |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | phrase |  
+| bip_39_word_dash_10 | phrase-domain-first-witness-moment-curtain-tenant-creek-cluster-aspect |  
+| bip_39_word_dash_11 | phrase-domain-first-witness-moment-curtain-tenant-creek-cluster-aspect-chalk |  
+| bip_39_word_dash_12 | phrase-domain-first-witness-moment-curtain-tenant-creek-cluster-aspect-chalk-alarm |  
+| bip_39_word_dash_2 | phrase-domain |  
+| bip_39_word_dash_3 | phrase-domain-first |  
+| bip_39_word_dash_4 | phrase-domain-first-witness |  
+| bip_39_word_dash_5 | phrase-domain-first-witness-moment |  
+| bip_39_word_dash_6 | phrase-domain-first-witness-moment-curtain |  
+| bip_39_word_dash_7 | phrase-domain-first-witness-moment-curtain-tenant |  
+| bip_39_word_dash_8 | phrase-domain-first-witness-moment-curtain-tenant-creek |  
+| bip_39_word_dash_9 | phrase-domain-first-witness-moment-curtain-tenant-creek-cluster |  
 | bip_39_word_new_br_1 | phrase |  
 | bip_39_word_new_br_10 | phrase<br>domain<br>first<br>witness<br>moment<br>curtain<br>tenant<br>creek<br>cluster<br>aspect |  
 | bip_39_word_new_br_11 | phrase<br>domain<br>first<br>witness<br>moment<br>curtain<br>tenant<br>creek<br>cluster<br>aspect<br>chalk |  
@@ -147,6 +159,18 @@ cluster |
 | bip_39_word_space_7 | phrase domain first witness moment curtain tenant |  
 | bip_39_word_space_8 | phrase domain first witness moment curtain tenant creek |  
 | bip_39_word_space_9 | phrase domain first witness moment curtain tenant creek cluster |  
+| bip_39_word_underscore_1 | phrase |  
+| bip_39_word_underscore_10 | phrase_domain_first_witness_moment_curtain_tenant_creek_cluster_aspect |  
+| bip_39_word_underscore_11 | phrase_domain_first_witness_moment_curtain_tenant_creek_cluster_aspect_chalk |  
+| bip_39_word_underscore_12 | phrase_domain_first_witness_moment_curtain_tenant_creek_cluster_aspect_chalk_alarm |  
+| bip_39_word_underscore_2 | phrase_domain |  
+| bip_39_word_underscore_3 | phrase_domain_first |  
+| bip_39_word_underscore_4 | phrase_domain_first_witness |  
+| bip_39_word_underscore_5 | phrase_domain_first_witness_moment |  
+| bip_39_word_underscore_6 | phrase_domain_first_witness_moment_curtain |  
+| bip_39_word_underscore_7 | phrase_domain_first_witness_moment_curtain_tenant |  
+| bip_39_word_underscore_8 | phrase_domain_first_witness_moment_curtain_tenant_creek |  
+| bip_39_word_underscore_9 | phrase_domain_first_witness_moment_curtain_tenant_creek_cluster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | please |  
+| bip_39_word_dash_10 | please-baby-damage-globe-dance-million-forest-grass-abandon-stem |  
+| bip_39_word_dash_11 | please-baby-damage-globe-dance-million-forest-grass-abandon-stem-title |  
+| bip_39_word_dash_12 | please-baby-damage-globe-dance-million-forest-grass-abandon-stem-title-adjust |  
+| bip_39_word_dash_2 | please-baby |  
+| bip_39_word_dash_3 | please-baby-damage |  
+| bip_39_word_dash_4 | please-baby-damage-globe |  
+| bip_39_word_dash_5 | please-baby-damage-globe-dance |  
+| bip_39_word_dash_6 | please-baby-damage-globe-dance-million |  
+| bip_39_word_dash_7 | please-baby-damage-globe-dance-million-forest |  
+| bip_39_word_dash_8 | please-baby-damage-globe-dance-million-forest-grass |  
+| bip_39_word_dash_9 | please-baby-damage-globe-dance-million-forest-grass-abandon |  
 | bip_39_word_new_br_1 | please |  
 | bip_39_word_new_br_10 | please<br>baby<br>damage<br>globe<br>dance<br>million<br>forest<br>grass<br>abandon<br>stem |  
 | bip_39_word_new_br_11 | please<br>baby<br>damage<br>globe<br>dance<br>million<br>forest<br>grass<br>abandon<br>stem<br>title |  
@@ -147,6 +159,18 @@ abandon |
 | bip_39_word_space_7 | please baby damage globe dance million forest |  
 | bip_39_word_space_8 | please baby damage globe dance million forest grass |  
 | bip_39_word_space_9 | please baby damage globe dance million forest grass abandon |  
+| bip_39_word_underscore_1 | please |  
+| bip_39_word_underscore_10 | please_baby_damage_globe_dance_million_forest_grass_abandon_stem |  
+| bip_39_word_underscore_11 | please_baby_damage_globe_dance_million_forest_grass_abandon_stem_title |  
+| bip_39_word_underscore_12 | please_baby_damage_globe_dance_million_forest_grass_abandon_stem_title_adjust |  
+| bip_39_word_underscore_2 | please_baby |  
+| bip_39_word_underscore_3 | please_baby_damage |  
+| bip_39_word_underscore_4 | please_baby_damage_globe |  
+| bip_39_word_underscore_5 | please_baby_damage_globe_dance |  
+| bip_39_word_underscore_6 | please_baby_damage_globe_dance_million |  
+| bip_39_word_underscore_7 | please_baby_damage_globe_dance_million_forest |  
+| bip_39_word_underscore_8 | please_baby_damage_globe_dance_million_forest_grass |  
+| bip_39_word_underscore_9 | please_baby_damage_globe_dance_million_forest_grass_abandon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

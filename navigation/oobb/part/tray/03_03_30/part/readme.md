@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | march |  
+| bip_39_word_dash_10 | march-viable-illegal-inquiry-indicate-soap-test-early-auction-army |  
+| bip_39_word_dash_11 | march-viable-illegal-inquiry-indicate-soap-test-early-auction-army-pave |  
+| bip_39_word_dash_12 | march-viable-illegal-inquiry-indicate-soap-test-early-auction-army-pave-assume |  
+| bip_39_word_dash_2 | march-viable |  
+| bip_39_word_dash_3 | march-viable-illegal |  
+| bip_39_word_dash_4 | march-viable-illegal-inquiry |  
+| bip_39_word_dash_5 | march-viable-illegal-inquiry-indicate |  
+| bip_39_word_dash_6 | march-viable-illegal-inquiry-indicate-soap |  
+| bip_39_word_dash_7 | march-viable-illegal-inquiry-indicate-soap-test |  
+| bip_39_word_dash_8 | march-viable-illegal-inquiry-indicate-soap-test-early |  
+| bip_39_word_dash_9 | march-viable-illegal-inquiry-indicate-soap-test-early-auction |  
 | bip_39_word_new_br_1 | march |  
 | bip_39_word_new_br_10 | march<br>viable<br>illegal<br>inquiry<br>indicate<br>soap<br>test<br>early<br>auction<br>army |  
 | bip_39_word_new_br_11 | march<br>viable<br>illegal<br>inquiry<br>indicate<br>soap<br>test<br>early<br>auction<br>army<br>pave |  
@@ -147,6 +159,18 @@ auction |
 | bip_39_word_space_7 | march viable illegal inquiry indicate soap test |  
 | bip_39_word_space_8 | march viable illegal inquiry indicate soap test early |  
 | bip_39_word_space_9 | march viable illegal inquiry indicate soap test early auction |  
+| bip_39_word_underscore_1 | march |  
+| bip_39_word_underscore_10 | march_viable_illegal_inquiry_indicate_soap_test_early_auction_army |  
+| bip_39_word_underscore_11 | march_viable_illegal_inquiry_indicate_soap_test_early_auction_army_pave |  
+| bip_39_word_underscore_12 | march_viable_illegal_inquiry_indicate_soap_test_early_auction_army_pave_assume |  
+| bip_39_word_underscore_2 | march_viable |  
+| bip_39_word_underscore_3 | march_viable_illegal |  
+| bip_39_word_underscore_4 | march_viable_illegal_inquiry |  
+| bip_39_word_underscore_5 | march_viable_illegal_inquiry_indicate |  
+| bip_39_word_underscore_6 | march_viable_illegal_inquiry_indicate_soap |  
+| bip_39_word_underscore_7 | march_viable_illegal_inquiry_indicate_soap_test |  
+| bip_39_word_underscore_8 | march_viable_illegal_inquiry_indicate_soap_test_early |  
+| bip_39_word_underscore_9 | march_viable_illegal_inquiry_indicate_soap_test_early_auction |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

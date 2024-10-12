@@ -1,3 +1,15 @@
+bip_39_word_dash_1: theme
+bip_39_word_dash_10: theme-cream-all-obscure-magic-genre-crucial-crunch-dust-yellow
+bip_39_word_dash_11: theme-cream-all-obscure-magic-genre-crucial-crunch-dust-yellow-connect
+bip_39_word_dash_12: theme-cream-all-obscure-magic-genre-crucial-crunch-dust-yellow-connect-advance
+bip_39_word_dash_2: theme-cream
+bip_39_word_dash_3: theme-cream-all
+bip_39_word_dash_4: theme-cream-all-obscure
+bip_39_word_dash_5: theme-cream-all-obscure-magic
+bip_39_word_dash_6: theme-cream-all-obscure-magic-genre
+bip_39_word_dash_7: theme-cream-all-obscure-magic-genre-crucial
+bip_39_word_dash_8: theme-cream-all-obscure-magic-genre-crucial-crunch
+bip_39_word_dash_9: theme-cream-all-obscure-magic-genre-crucial-crunch-dust
 bip_39_word_new_br_1: theme
 bip_39_word_new_br_10: theme<br>cream<br>all<br>obscure<br>magic<br>genre<br>crucial<br>crunch<br>dust<br>yellow
 bip_39_word_new_br_11: theme<br>cream<br>all<br>obscure<br>magic<br>genre<br>crucial<br>crunch<br>dust<br>yellow<br>connect
@@ -193,6 +205,18 @@ bip_39_word_space_6: theme cream all obscure magic genre
 bip_39_word_space_7: theme cream all obscure magic genre crucial
 bip_39_word_space_8: theme cream all obscure magic genre crucial crunch
 bip_39_word_space_9: theme cream all obscure magic genre crucial crunch dust
+bip_39_word_underscore_1: theme
+bip_39_word_underscore_10: theme_cream_all_obscure_magic_genre_crucial_crunch_dust_yellow
+bip_39_word_underscore_11: theme_cream_all_obscure_magic_genre_crucial_crunch_dust_yellow_connect
+bip_39_word_underscore_12: theme_cream_all_obscure_magic_genre_crucial_crunch_dust_yellow_connect_advance
+bip_39_word_underscore_2: theme_cream
+bip_39_word_underscore_3: theme_cream_all
+bip_39_word_underscore_4: theme_cream_all_obscure
+bip_39_word_underscore_5: theme_cream_all_obscure_magic
+bip_39_word_underscore_6: theme_cream_all_obscure_magic_genre
+bip_39_word_underscore_7: theme_cream_all_obscure_magic_genre_crucial
+bip_39_word_underscore_8: theme_cream_all_obscure_magic_genre_crucial_crunch
+bip_39_word_underscore_9: theme_cream_all_obscure_magic_genre_crucial_crunch_dust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

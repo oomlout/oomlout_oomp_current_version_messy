@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | detect |  
+| bip_39_word_dash_10 | detect-slight-coconut-clap-real-exclude-lucky-version-torch-banner |  
+| bip_39_word_dash_11 | detect-slight-coconut-clap-real-exclude-lucky-version-torch-banner-century |  
+| bip_39_word_dash_12 | detect-slight-coconut-clap-real-exclude-lucky-version-torch-banner-century-arena |  
+| bip_39_word_dash_2 | detect-slight |  
+| bip_39_word_dash_3 | detect-slight-coconut |  
+| bip_39_word_dash_4 | detect-slight-coconut-clap |  
+| bip_39_word_dash_5 | detect-slight-coconut-clap-real |  
+| bip_39_word_dash_6 | detect-slight-coconut-clap-real-exclude |  
+| bip_39_word_dash_7 | detect-slight-coconut-clap-real-exclude-lucky |  
+| bip_39_word_dash_8 | detect-slight-coconut-clap-real-exclude-lucky-version |  
+| bip_39_word_dash_9 | detect-slight-coconut-clap-real-exclude-lucky-version-torch |  
 | bip_39_word_new_br_1 | detect |  
 | bip_39_word_new_br_10 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner |  
 | bip_39_word_new_br_11 | detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner<br>century |  
@@ -147,6 +159,18 @@ torch |
 | bip_39_word_space_7 | detect slight coconut clap real exclude lucky |  
 | bip_39_word_space_8 | detect slight coconut clap real exclude lucky version |  
 | bip_39_word_space_9 | detect slight coconut clap real exclude lucky version torch |  
+| bip_39_word_underscore_1 | detect |  
+| bip_39_word_underscore_10 | detect_slight_coconut_clap_real_exclude_lucky_version_torch_banner |  
+| bip_39_word_underscore_11 | detect_slight_coconut_clap_real_exclude_lucky_version_torch_banner_century |  
+| bip_39_word_underscore_12 | detect_slight_coconut_clap_real_exclude_lucky_version_torch_banner_century_arena |  
+| bip_39_word_underscore_2 | detect_slight |  
+| bip_39_word_underscore_3 | detect_slight_coconut |  
+| bip_39_word_underscore_4 | detect_slight_coconut_clap |  
+| bip_39_word_underscore_5 | detect_slight_coconut_clap_real |  
+| bip_39_word_underscore_6 | detect_slight_coconut_clap_real_exclude |  
+| bip_39_word_underscore_7 | detect_slight_coconut_clap_real_exclude_lucky |  
+| bip_39_word_underscore_8 | detect_slight_coconut_clap_real_exclude_lucky_version |  
+| bip_39_word_underscore_9 | detect_slight_coconut_clap_real_exclude_lucky_version_torch |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

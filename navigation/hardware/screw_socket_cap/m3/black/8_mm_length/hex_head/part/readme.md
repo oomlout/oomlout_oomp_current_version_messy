@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sniff |  
+| bip_39_word_dash_10 | sniff-tennis-win-maximum-alien-attack-dignity-employ-toss-blind |  
+| bip_39_word_dash_11 | sniff-tennis-win-maximum-alien-attack-dignity-employ-toss-blind-nut |  
+| bip_39_word_dash_12 | sniff-tennis-win-maximum-alien-attack-dignity-employ-toss-blind-nut-analyst |  
+| bip_39_word_dash_2 | sniff-tennis |  
+| bip_39_word_dash_3 | sniff-tennis-win |  
+| bip_39_word_dash_4 | sniff-tennis-win-maximum |  
+| bip_39_word_dash_5 | sniff-tennis-win-maximum-alien |  
+| bip_39_word_dash_6 | sniff-tennis-win-maximum-alien-attack |  
+| bip_39_word_dash_7 | sniff-tennis-win-maximum-alien-attack-dignity |  
+| bip_39_word_dash_8 | sniff-tennis-win-maximum-alien-attack-dignity-employ |  
+| bip_39_word_dash_9 | sniff-tennis-win-maximum-alien-attack-dignity-employ-toss |  
 | bip_39_word_new_br_1 | sniff |  
 | bip_39_word_new_br_10 | sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ<br>toss<br>blind |  
 | bip_39_word_new_br_11 | sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ<br>toss<br>blind<br>nut |  
@@ -147,6 +159,18 @@ toss |
 | bip_39_word_space_7 | sniff tennis win maximum alien attack dignity |  
 | bip_39_word_space_8 | sniff tennis win maximum alien attack dignity employ |  
 | bip_39_word_space_9 | sniff tennis win maximum alien attack dignity employ toss |  
+| bip_39_word_underscore_1 | sniff |  
+| bip_39_word_underscore_10 | sniff_tennis_win_maximum_alien_attack_dignity_employ_toss_blind |  
+| bip_39_word_underscore_11 | sniff_tennis_win_maximum_alien_attack_dignity_employ_toss_blind_nut |  
+| bip_39_word_underscore_12 | sniff_tennis_win_maximum_alien_attack_dignity_employ_toss_blind_nut_analyst |  
+| bip_39_word_underscore_2 | sniff_tennis |  
+| bip_39_word_underscore_3 | sniff_tennis_win |  
+| bip_39_word_underscore_4 | sniff_tennis_win_maximum |  
+| bip_39_word_underscore_5 | sniff_tennis_win_maximum_alien |  
+| bip_39_word_underscore_6 | sniff_tennis_win_maximum_alien_attack |  
+| bip_39_word_underscore_7 | sniff_tennis_win_maximum_alien_attack_dignity |  
+| bip_39_word_underscore_8 | sniff_tennis_win_maximum_alien_attack_dignity_employ |  
+| bip_39_word_underscore_9 | sniff_tennis_win_maximum_alien_attack_dignity_employ_toss |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

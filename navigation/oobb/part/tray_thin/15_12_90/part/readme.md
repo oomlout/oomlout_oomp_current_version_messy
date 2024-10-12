@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dizzy |  
+| bip_39_word_dash_10 | dizzy-dry-movie-hungry-agree-weapon-lava-isolate-uphold-kid |  
+| bip_39_word_dash_11 | dizzy-dry-movie-hungry-agree-weapon-lava-isolate-uphold-kid-educate |  
+| bip_39_word_dash_12 | dizzy-dry-movie-hungry-agree-weapon-lava-isolate-uphold-kid-educate-animal |  
+| bip_39_word_dash_2 | dizzy-dry |  
+| bip_39_word_dash_3 | dizzy-dry-movie |  
+| bip_39_word_dash_4 | dizzy-dry-movie-hungry |  
+| bip_39_word_dash_5 | dizzy-dry-movie-hungry-agree |  
+| bip_39_word_dash_6 | dizzy-dry-movie-hungry-agree-weapon |  
+| bip_39_word_dash_7 | dizzy-dry-movie-hungry-agree-weapon-lava |  
+| bip_39_word_dash_8 | dizzy-dry-movie-hungry-agree-weapon-lava-isolate |  
+| bip_39_word_dash_9 | dizzy-dry-movie-hungry-agree-weapon-lava-isolate-uphold |  
 | bip_39_word_new_br_1 | dizzy |  
 | bip_39_word_new_br_10 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid |  
 | bip_39_word_new_br_11 | dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid<br>educate |  
@@ -147,6 +159,18 @@ uphold |
 | bip_39_word_space_7 | dizzy dry movie hungry agree weapon lava |  
 | bip_39_word_space_8 | dizzy dry movie hungry agree weapon lava isolate |  
 | bip_39_word_space_9 | dizzy dry movie hungry agree weapon lava isolate uphold |  
+| bip_39_word_underscore_1 | dizzy |  
+| bip_39_word_underscore_10 | dizzy_dry_movie_hungry_agree_weapon_lava_isolate_uphold_kid |  
+| bip_39_word_underscore_11 | dizzy_dry_movie_hungry_agree_weapon_lava_isolate_uphold_kid_educate |  
+| bip_39_word_underscore_12 | dizzy_dry_movie_hungry_agree_weapon_lava_isolate_uphold_kid_educate_animal |  
+| bip_39_word_underscore_2 | dizzy_dry |  
+| bip_39_word_underscore_3 | dizzy_dry_movie |  
+| bip_39_word_underscore_4 | dizzy_dry_movie_hungry |  
+| bip_39_word_underscore_5 | dizzy_dry_movie_hungry_agree |  
+| bip_39_word_underscore_6 | dizzy_dry_movie_hungry_agree_weapon |  
+| bip_39_word_underscore_7 | dizzy_dry_movie_hungry_agree_weapon_lava |  
+| bip_39_word_underscore_8 | dizzy_dry_movie_hungry_agree_weapon_lava_isolate |  
+| bip_39_word_underscore_9 | dizzy_dry_movie_hungry_agree_weapon_lava_isolate_uphold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

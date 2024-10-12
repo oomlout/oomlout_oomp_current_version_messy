@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | noodle |  
+| bip_39_word_dash_10 | noodle-panel-blue-fiscal-book-amused-inject-spell-nature-super |  
+| bip_39_word_dash_11 | noodle-panel-blue-fiscal-book-amused-inject-spell-nature-super-pet |  
+| bip_39_word_dash_12 | noodle-panel-blue-fiscal-book-amused-inject-spell-nature-super-pet-alcohol |  
+| bip_39_word_dash_2 | noodle-panel |  
+| bip_39_word_dash_3 | noodle-panel-blue |  
+| bip_39_word_dash_4 | noodle-panel-blue-fiscal |  
+| bip_39_word_dash_5 | noodle-panel-blue-fiscal-book |  
+| bip_39_word_dash_6 | noodle-panel-blue-fiscal-book-amused |  
+| bip_39_word_dash_7 | noodle-panel-blue-fiscal-book-amused-inject |  
+| bip_39_word_dash_8 | noodle-panel-blue-fiscal-book-amused-inject-spell |  
+| bip_39_word_dash_9 | noodle-panel-blue-fiscal-book-amused-inject-spell-nature |  
 | bip_39_word_new_br_1 | noodle |  
 | bip_39_word_new_br_10 | noodle<br>panel<br>blue<br>fiscal<br>book<br>amused<br>inject<br>spell<br>nature<br>super |  
 | bip_39_word_new_br_11 | noodle<br>panel<br>blue<br>fiscal<br>book<br>amused<br>inject<br>spell<br>nature<br>super<br>pet |  
@@ -147,6 +159,18 @@ nature |
 | bip_39_word_space_7 | noodle panel blue fiscal book amused inject |  
 | bip_39_word_space_8 | noodle panel blue fiscal book amused inject spell |  
 | bip_39_word_space_9 | noodle panel blue fiscal book amused inject spell nature |  
+| bip_39_word_underscore_1 | noodle |  
+| bip_39_word_underscore_10 | noodle_panel_blue_fiscal_book_amused_inject_spell_nature_super |  
+| bip_39_word_underscore_11 | noodle_panel_blue_fiscal_book_amused_inject_spell_nature_super_pet |  
+| bip_39_word_underscore_12 | noodle_panel_blue_fiscal_book_amused_inject_spell_nature_super_pet_alcohol |  
+| bip_39_word_underscore_2 | noodle_panel |  
+| bip_39_word_underscore_3 | noodle_panel_blue |  
+| bip_39_word_underscore_4 | noodle_panel_blue_fiscal |  
+| bip_39_word_underscore_5 | noodle_panel_blue_fiscal_book |  
+| bip_39_word_underscore_6 | noodle_panel_blue_fiscal_book_amused |  
+| bip_39_word_underscore_7 | noodle_panel_blue_fiscal_book_amused_inject |  
+| bip_39_word_underscore_8 | noodle_panel_blue_fiscal_book_amused_inject_spell |  
+| bip_39_word_underscore_9 | noodle_panel_blue_fiscal_book_amused_inject_spell_nature |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fog |  
+| bip_39_word_dash_10 | fog-travel-obvious-can-team-vanish-tribe-hockey-expose-intact |  
+| bip_39_word_dash_11 | fog-travel-obvious-can-team-vanish-tribe-hockey-expose-intact-state |  
+| bip_39_word_dash_12 | fog-travel-obvious-can-team-vanish-tribe-hockey-expose-intact-state-arrange |  
+| bip_39_word_dash_2 | fog-travel |  
+| bip_39_word_dash_3 | fog-travel-obvious |  
+| bip_39_word_dash_4 | fog-travel-obvious-can |  
+| bip_39_word_dash_5 | fog-travel-obvious-can-team |  
+| bip_39_word_dash_6 | fog-travel-obvious-can-team-vanish |  
+| bip_39_word_dash_7 | fog-travel-obvious-can-team-vanish-tribe |  
+| bip_39_word_dash_8 | fog-travel-obvious-can-team-vanish-tribe-hockey |  
+| bip_39_word_dash_9 | fog-travel-obvious-can-team-vanish-tribe-hockey-expose |  
 | bip_39_word_new_br_1 | fog |  
 | bip_39_word_new_br_10 | fog<br>travel<br>obvious<br>can<br>team<br>vanish<br>tribe<br>hockey<br>expose<br>intact |  
 | bip_39_word_new_br_11 | fog<br>travel<br>obvious<br>can<br>team<br>vanish<br>tribe<br>hockey<br>expose<br>intact<br>state |  
@@ -147,6 +159,18 @@ expose |
 | bip_39_word_space_7 | fog travel obvious can team vanish tribe |  
 | bip_39_word_space_8 | fog travel obvious can team vanish tribe hockey |  
 | bip_39_word_space_9 | fog travel obvious can team vanish tribe hockey expose |  
+| bip_39_word_underscore_1 | fog |  
+| bip_39_word_underscore_10 | fog_travel_obvious_can_team_vanish_tribe_hockey_expose_intact |  
+| bip_39_word_underscore_11 | fog_travel_obvious_can_team_vanish_tribe_hockey_expose_intact_state |  
+| bip_39_word_underscore_12 | fog_travel_obvious_can_team_vanish_tribe_hockey_expose_intact_state_arrange |  
+| bip_39_word_underscore_2 | fog_travel |  
+| bip_39_word_underscore_3 | fog_travel_obvious |  
+| bip_39_word_underscore_4 | fog_travel_obvious_can |  
+| bip_39_word_underscore_5 | fog_travel_obvious_can_team |  
+| bip_39_word_underscore_6 | fog_travel_obvious_can_team_vanish |  
+| bip_39_word_underscore_7 | fog_travel_obvious_can_team_vanish_tribe |  
+| bip_39_word_underscore_8 | fog_travel_obvious_can_team_vanish_tribe_hockey |  
+| bip_39_word_underscore_9 | fog_travel_obvious_can_team_vanish_tribe_hockey_expose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

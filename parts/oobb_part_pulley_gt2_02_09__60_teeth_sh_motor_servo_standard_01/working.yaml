@@ -1,3 +1,15 @@
+bip_39_word_dash_1: online
+bip_39_word_dash_10: online-discover-mask-hidden-question-danger-afraid-carpet-wage-visa
+bip_39_word_dash_11: online-discover-mask-hidden-question-danger-afraid-carpet-wage-visa-ignore
+bip_39_word_dash_12: online-discover-mask-hidden-question-danger-afraid-carpet-wage-visa-ignore-armor
+bip_39_word_dash_2: online-discover
+bip_39_word_dash_3: online-discover-mask
+bip_39_word_dash_4: online-discover-mask-hidden
+bip_39_word_dash_5: online-discover-mask-hidden-question
+bip_39_word_dash_6: online-discover-mask-hidden-question-danger
+bip_39_word_dash_7: online-discover-mask-hidden-question-danger-afraid
+bip_39_word_dash_8: online-discover-mask-hidden-question-danger-afraid-carpet
+bip_39_word_dash_9: online-discover-mask-hidden-question-danger-afraid-carpet-wage
 bip_39_word_new_br_1: online
 bip_39_word_new_br_10: online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa
 bip_39_word_new_br_11: online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa<br>ignore
@@ -194,6 +206,18 @@ bip_39_word_space_6: online discover mask hidden question danger
 bip_39_word_space_7: online discover mask hidden question danger afraid
 bip_39_word_space_8: online discover mask hidden question danger afraid carpet
 bip_39_word_space_9: online discover mask hidden question danger afraid carpet wage
+bip_39_word_underscore_1: online
+bip_39_word_underscore_10: online_discover_mask_hidden_question_danger_afraid_carpet_wage_visa
+bip_39_word_underscore_11: online_discover_mask_hidden_question_danger_afraid_carpet_wage_visa_ignore
+bip_39_word_underscore_12: online_discover_mask_hidden_question_danger_afraid_carpet_wage_visa_ignore_armor
+bip_39_word_underscore_2: online_discover
+bip_39_word_underscore_3: online_discover_mask
+bip_39_word_underscore_4: online_discover_mask_hidden
+bip_39_word_underscore_5: online_discover_mask_hidden_question
+bip_39_word_underscore_6: online_discover_mask_hidden_question_danger
+bip_39_word_underscore_7: online_discover_mask_hidden_question_danger_afraid
+bip_39_word_underscore_8: online_discover_mask_hidden_question_danger_afraid_carpet
+bip_39_word_underscore_9: online_discover_mask_hidden_question_danger_afraid_carpet_wage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

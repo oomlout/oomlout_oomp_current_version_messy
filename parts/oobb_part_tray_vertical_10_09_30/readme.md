@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mystery |  
+| bip_39_word_dash_10 | mystery-pattern-female-obtain-august-argue-above-pigeon-flame-giraffe |  
+| bip_39_word_dash_11 | mystery-pattern-female-obtain-august-argue-above-pigeon-flame-giraffe-hire |  
+| bip_39_word_dash_12 | mystery-pattern-female-obtain-august-argue-above-pigeon-flame-giraffe-hire-affair |  
+| bip_39_word_dash_2 | mystery-pattern |  
+| bip_39_word_dash_3 | mystery-pattern-female |  
+| bip_39_word_dash_4 | mystery-pattern-female-obtain |  
+| bip_39_word_dash_5 | mystery-pattern-female-obtain-august |  
+| bip_39_word_dash_6 | mystery-pattern-female-obtain-august-argue |  
+| bip_39_word_dash_7 | mystery-pattern-female-obtain-august-argue-above |  
+| bip_39_word_dash_8 | mystery-pattern-female-obtain-august-argue-above-pigeon |  
+| bip_39_word_dash_9 | mystery-pattern-female-obtain-august-argue-above-pigeon-flame |  
 | bip_39_word_new_br_1 | mystery |  
 | bip_39_word_new_br_10 | mystery<br>pattern<br>female<br>obtain<br>august<br>argue<br>above<br>pigeon<br>flame<br>giraffe |  
 | bip_39_word_new_br_11 | mystery<br>pattern<br>female<br>obtain<br>august<br>argue<br>above<br>pigeon<br>flame<br>giraffe<br>hire |  
@@ -147,6 +159,18 @@ flame |
 | bip_39_word_space_7 | mystery pattern female obtain august argue above |  
 | bip_39_word_space_8 | mystery pattern female obtain august argue above pigeon |  
 | bip_39_word_space_9 | mystery pattern female obtain august argue above pigeon flame |  
+| bip_39_word_underscore_1 | mystery |  
+| bip_39_word_underscore_10 | mystery_pattern_female_obtain_august_argue_above_pigeon_flame_giraffe |  
+| bip_39_word_underscore_11 | mystery_pattern_female_obtain_august_argue_above_pigeon_flame_giraffe_hire |  
+| bip_39_word_underscore_12 | mystery_pattern_female_obtain_august_argue_above_pigeon_flame_giraffe_hire_affair |  
+| bip_39_word_underscore_2 | mystery_pattern |  
+| bip_39_word_underscore_3 | mystery_pattern_female |  
+| bip_39_word_underscore_4 | mystery_pattern_female_obtain |  
+| bip_39_word_underscore_5 | mystery_pattern_female_obtain_august |  
+| bip_39_word_underscore_6 | mystery_pattern_female_obtain_august_argue |  
+| bip_39_word_underscore_7 | mystery_pattern_female_obtain_august_argue_above |  
+| bip_39_word_underscore_8 | mystery_pattern_female_obtain_august_argue_above_pigeon |  
+| bip_39_word_underscore_9 | mystery_pattern_female_obtain_august_argue_above_pigeon_flame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

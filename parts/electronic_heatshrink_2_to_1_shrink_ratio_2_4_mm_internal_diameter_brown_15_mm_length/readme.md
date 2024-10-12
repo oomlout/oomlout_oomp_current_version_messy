@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bracket |  
+| bip_39_word_dash_10 | bracket-joke-elite-aim-ostrich-top-reform-spot-border-comfort |  
+| bip_39_word_dash_11 | bracket-joke-elite-aim-ostrich-top-reform-spot-border-comfort-deal |  
+| bip_39_word_dash_12 | bracket-joke-elite-aim-ostrich-top-reform-spot-border-comfort-deal-aerobic |  
+| bip_39_word_dash_2 | bracket-joke |  
+| bip_39_word_dash_3 | bracket-joke-elite |  
+| bip_39_word_dash_4 | bracket-joke-elite-aim |  
+| bip_39_word_dash_5 | bracket-joke-elite-aim-ostrich |  
+| bip_39_word_dash_6 | bracket-joke-elite-aim-ostrich-top |  
+| bip_39_word_dash_7 | bracket-joke-elite-aim-ostrich-top-reform |  
+| bip_39_word_dash_8 | bracket-joke-elite-aim-ostrich-top-reform-spot |  
+| bip_39_word_dash_9 | bracket-joke-elite-aim-ostrich-top-reform-spot-border |  
 | bip_39_word_new_br_1 | bracket |  
 | bip_39_word_new_br_10 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot<br>border<br>comfort |  
 | bip_39_word_new_br_11 | bracket<br>joke<br>elite<br>aim<br>ostrich<br>top<br>reform<br>spot<br>border<br>comfort<br>deal |  
@@ -147,6 +159,18 @@ border |
 | bip_39_word_space_7 | bracket joke elite aim ostrich top reform |  
 | bip_39_word_space_8 | bracket joke elite aim ostrich top reform spot |  
 | bip_39_word_space_9 | bracket joke elite aim ostrich top reform spot border |  
+| bip_39_word_underscore_1 | bracket |  
+| bip_39_word_underscore_10 | bracket_joke_elite_aim_ostrich_top_reform_spot_border_comfort |  
+| bip_39_word_underscore_11 | bracket_joke_elite_aim_ostrich_top_reform_spot_border_comfort_deal |  
+| bip_39_word_underscore_12 | bracket_joke_elite_aim_ostrich_top_reform_spot_border_comfort_deal_aerobic |  
+| bip_39_word_underscore_2 | bracket_joke |  
+| bip_39_word_underscore_3 | bracket_joke_elite |  
+| bip_39_word_underscore_4 | bracket_joke_elite_aim |  
+| bip_39_word_underscore_5 | bracket_joke_elite_aim_ostrich |  
+| bip_39_word_underscore_6 | bracket_joke_elite_aim_ostrich_top |  
+| bip_39_word_underscore_7 | bracket_joke_elite_aim_ostrich_top_reform |  
+| bip_39_word_underscore_8 | bracket_joke_elite_aim_ostrich_top_reform_spot |  
+| bip_39_word_underscore_9 | bracket_joke_elite_aim_ostrich_top_reform_spot_border |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

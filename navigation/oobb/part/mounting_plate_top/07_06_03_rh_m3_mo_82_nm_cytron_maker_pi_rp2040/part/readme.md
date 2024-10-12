@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resist |  
+| bip_39_word_dash_10 | resist-wear-inmate-hold-number-grab-exact-worry-dash-miracle |  
+| bip_39_word_dash_11 | resist-wear-inmate-hold-number-grab-exact-worry-dash-miracle-absent |  
+| bip_39_word_dash_12 | resist-wear-inmate-hold-number-grab-exact-worry-dash-miracle-absent-asthma |  
+| bip_39_word_dash_2 | resist-wear |  
+| bip_39_word_dash_3 | resist-wear-inmate |  
+| bip_39_word_dash_4 | resist-wear-inmate-hold |  
+| bip_39_word_dash_5 | resist-wear-inmate-hold-number |  
+| bip_39_word_dash_6 | resist-wear-inmate-hold-number-grab |  
+| bip_39_word_dash_7 | resist-wear-inmate-hold-number-grab-exact |  
+| bip_39_word_dash_8 | resist-wear-inmate-hold-number-grab-exact-worry |  
+| bip_39_word_dash_9 | resist-wear-inmate-hold-number-grab-exact-worry-dash |  
 | bip_39_word_new_br_1 | resist |  
 | bip_39_word_new_br_10 | resist<br>wear<br>inmate<br>hold<br>number<br>grab<br>exact<br>worry<br>dash<br>miracle |  
 | bip_39_word_new_br_11 | resist<br>wear<br>inmate<br>hold<br>number<br>grab<br>exact<br>worry<br>dash<br>miracle<br>absent |  
@@ -147,6 +159,18 @@ dash |
 | bip_39_word_space_7 | resist wear inmate hold number grab exact |  
 | bip_39_word_space_8 | resist wear inmate hold number grab exact worry |  
 | bip_39_word_space_9 | resist wear inmate hold number grab exact worry dash |  
+| bip_39_word_underscore_1 | resist |  
+| bip_39_word_underscore_10 | resist_wear_inmate_hold_number_grab_exact_worry_dash_miracle |  
+| bip_39_word_underscore_11 | resist_wear_inmate_hold_number_grab_exact_worry_dash_miracle_absent |  
+| bip_39_word_underscore_12 | resist_wear_inmate_hold_number_grab_exact_worry_dash_miracle_absent_asthma |  
+| bip_39_word_underscore_2 | resist_wear |  
+| bip_39_word_underscore_3 | resist_wear_inmate |  
+| bip_39_word_underscore_4 | resist_wear_inmate_hold |  
+| bip_39_word_underscore_5 | resist_wear_inmate_hold_number |  
+| bip_39_word_underscore_6 | resist_wear_inmate_hold_number_grab |  
+| bip_39_word_underscore_7 | resist_wear_inmate_hold_number_grab_exact |  
+| bip_39_word_underscore_8 | resist_wear_inmate_hold_number_grab_exact_worry |  
+| bip_39_word_underscore_9 | resist_wear_inmate_hold_number_grab_exact_worry_dash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

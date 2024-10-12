@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | health |  
+| bip_39_word_dash_10 | health-way-student-vintage-situate-dinner-clarify-minor-rotate-soft |  
+| bip_39_word_dash_11 | health-way-student-vintage-situate-dinner-clarify-minor-rotate-soft-canoe |  
+| bip_39_word_dash_12 | health-way-student-vintage-situate-dinner-clarify-minor-rotate-soft-canoe-artefact |  
+| bip_39_word_dash_2 | health-way |  
+| bip_39_word_dash_3 | health-way-student |  
+| bip_39_word_dash_4 | health-way-student-vintage |  
+| bip_39_word_dash_5 | health-way-student-vintage-situate |  
+| bip_39_word_dash_6 | health-way-student-vintage-situate-dinner |  
+| bip_39_word_dash_7 | health-way-student-vintage-situate-dinner-clarify |  
+| bip_39_word_dash_8 | health-way-student-vintage-situate-dinner-clarify-minor |  
+| bip_39_word_dash_9 | health-way-student-vintage-situate-dinner-clarify-minor-rotate |  
 | bip_39_word_new_br_1 | health |  
 | bip_39_word_new_br_10 | health<br>way<br>student<br>vintage<br>situate<br>dinner<br>clarify<br>minor<br>rotate<br>soft |  
 | bip_39_word_new_br_11 | health<br>way<br>student<br>vintage<br>situate<br>dinner<br>clarify<br>minor<br>rotate<br>soft<br>canoe |  
@@ -147,6 +159,18 @@ rotate |
 | bip_39_word_space_7 | health way student vintage situate dinner clarify |  
 | bip_39_word_space_8 | health way student vintage situate dinner clarify minor |  
 | bip_39_word_space_9 | health way student vintage situate dinner clarify minor rotate |  
+| bip_39_word_underscore_1 | health |  
+| bip_39_word_underscore_10 | health_way_student_vintage_situate_dinner_clarify_minor_rotate_soft |  
+| bip_39_word_underscore_11 | health_way_student_vintage_situate_dinner_clarify_minor_rotate_soft_canoe |  
+| bip_39_word_underscore_12 | health_way_student_vintage_situate_dinner_clarify_minor_rotate_soft_canoe_artefact |  
+| bip_39_word_underscore_2 | health_way |  
+| bip_39_word_underscore_3 | health_way_student |  
+| bip_39_word_underscore_4 | health_way_student_vintage |  
+| bip_39_word_underscore_5 | health_way_student_vintage_situate |  
+| bip_39_word_underscore_6 | health_way_student_vintage_situate_dinner |  
+| bip_39_word_underscore_7 | health_way_student_vintage_situate_dinner_clarify |  
+| bip_39_word_underscore_8 | health_way_student_vintage_situate_dinner_clarify_minor |  
+| bip_39_word_underscore_9 | health_way_student_vintage_situate_dinner_clarify_minor_rotate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

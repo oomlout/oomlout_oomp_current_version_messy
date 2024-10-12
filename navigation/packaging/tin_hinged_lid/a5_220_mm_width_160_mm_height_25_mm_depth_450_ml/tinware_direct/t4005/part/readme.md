@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tomorrow |  
+| bip_39_word_dash_10 | tomorrow-defy-area-engage-venture-pulse-swarm-broccoli-north-record |  
+| bip_39_word_dash_11 | tomorrow-defy-area-engage-venture-pulse-swarm-broccoli-north-record-jealous |  
+| bip_39_word_dash_12 | tomorrow-defy-area-engage-venture-pulse-swarm-broccoli-north-record-jealous-ankle |  
+| bip_39_word_dash_2 | tomorrow-defy |  
+| bip_39_word_dash_3 | tomorrow-defy-area |  
+| bip_39_word_dash_4 | tomorrow-defy-area-engage |  
+| bip_39_word_dash_5 | tomorrow-defy-area-engage-venture |  
+| bip_39_word_dash_6 | tomorrow-defy-area-engage-venture-pulse |  
+| bip_39_word_dash_7 | tomorrow-defy-area-engage-venture-pulse-swarm |  
+| bip_39_word_dash_8 | tomorrow-defy-area-engage-venture-pulse-swarm-broccoli |  
+| bip_39_word_dash_9 | tomorrow-defy-area-engage-venture-pulse-swarm-broccoli-north |  
 | bip_39_word_new_br_1 | tomorrow |  
 | bip_39_word_new_br_10 | tomorrow<br>defy<br>area<br>engage<br>venture<br>pulse<br>swarm<br>broccoli<br>north<br>record |  
 | bip_39_word_new_br_11 | tomorrow<br>defy<br>area<br>engage<br>venture<br>pulse<br>swarm<br>broccoli<br>north<br>record<br>jealous |  
@@ -147,6 +159,18 @@ north |
 | bip_39_word_space_7 | tomorrow defy area engage venture pulse swarm |  
 | bip_39_word_space_8 | tomorrow defy area engage venture pulse swarm broccoli |  
 | bip_39_word_space_9 | tomorrow defy area engage venture pulse swarm broccoli north |  
+| bip_39_word_underscore_1 | tomorrow |  
+| bip_39_word_underscore_10 | tomorrow_defy_area_engage_venture_pulse_swarm_broccoli_north_record |  
+| bip_39_word_underscore_11 | tomorrow_defy_area_engage_venture_pulse_swarm_broccoli_north_record_jealous |  
+| bip_39_word_underscore_12 | tomorrow_defy_area_engage_venture_pulse_swarm_broccoli_north_record_jealous_ankle |  
+| bip_39_word_underscore_2 | tomorrow_defy |  
+| bip_39_word_underscore_3 | tomorrow_defy_area |  
+| bip_39_word_underscore_4 | tomorrow_defy_area_engage |  
+| bip_39_word_underscore_5 | tomorrow_defy_area_engage_venture |  
+| bip_39_word_underscore_6 | tomorrow_defy_area_engage_venture_pulse |  
+| bip_39_word_underscore_7 | tomorrow_defy_area_engage_venture_pulse_swarm |  
+| bip_39_word_underscore_8 | tomorrow_defy_area_engage_venture_pulse_swarm_broccoli |  
+| bip_39_word_underscore_9 | tomorrow_defy_area_engage_venture_pulse_swarm_broccoli_north |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

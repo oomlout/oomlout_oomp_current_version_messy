@@ -1,3 +1,15 @@
+bip_39_word_dash_1: eternal
+bip_39_word_dash_10: eternal-fancy-wise-palace-menu-junior-extend-travel-erosion-often
+bip_39_word_dash_11: eternal-fancy-wise-palace-menu-junior-extend-travel-erosion-often-width
+bip_39_word_dash_12: eternal-fancy-wise-palace-menu-junior-extend-travel-erosion-often-width-aerobic
+bip_39_word_dash_2: eternal-fancy
+bip_39_word_dash_3: eternal-fancy-wise
+bip_39_word_dash_4: eternal-fancy-wise-palace
+bip_39_word_dash_5: eternal-fancy-wise-palace-menu
+bip_39_word_dash_6: eternal-fancy-wise-palace-menu-junior
+bip_39_word_dash_7: eternal-fancy-wise-palace-menu-junior-extend
+bip_39_word_dash_8: eternal-fancy-wise-palace-menu-junior-extend-travel
+bip_39_word_dash_9: eternal-fancy-wise-palace-menu-junior-extend-travel-erosion
 bip_39_word_new_br_1: eternal
 bip_39_word_new_br_10: eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel<br>erosion<br>often
 bip_39_word_new_br_11: eternal<br>fancy<br>wise<br>palace<br>menu<br>junior<br>extend<br>travel<br>erosion<br>often<br>width
@@ -194,6 +206,18 @@ bip_39_word_space_6: eternal fancy wise palace menu junior
 bip_39_word_space_7: eternal fancy wise palace menu junior extend
 bip_39_word_space_8: eternal fancy wise palace menu junior extend travel
 bip_39_word_space_9: eternal fancy wise palace menu junior extend travel erosion
+bip_39_word_underscore_1: eternal
+bip_39_word_underscore_10: eternal_fancy_wise_palace_menu_junior_extend_travel_erosion_often
+bip_39_word_underscore_11: eternal_fancy_wise_palace_menu_junior_extend_travel_erosion_often_width
+bip_39_word_underscore_12: eternal_fancy_wise_palace_menu_junior_extend_travel_erosion_often_width_aerobic
+bip_39_word_underscore_2: eternal_fancy
+bip_39_word_underscore_3: eternal_fancy_wise
+bip_39_word_underscore_4: eternal_fancy_wise_palace
+bip_39_word_underscore_5: eternal_fancy_wise_palace_menu
+bip_39_word_underscore_6: eternal_fancy_wise_palace_menu_junior
+bip_39_word_underscore_7: eternal_fancy_wise_palace_menu_junior_extend
+bip_39_word_underscore_8: eternal_fancy_wise_palace_menu_junior_extend_travel
+bip_39_word_underscore_9: eternal_fancy_wise_palace_menu_junior_extend_travel_erosion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

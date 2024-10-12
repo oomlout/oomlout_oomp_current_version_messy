@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | village |  
+| bip_39_word_dash_10 | village-february-pretty-raise-board-during-private-kite-drastic-ripple |  
+| bip_39_word_dash_11 | village-february-pretty-raise-board-during-private-kite-drastic-ripple-fox |  
+| bip_39_word_dash_12 | village-february-pretty-raise-board-during-private-kite-drastic-ripple-fox-able |  
+| bip_39_word_dash_2 | village-february |  
+| bip_39_word_dash_3 | village-february-pretty |  
+| bip_39_word_dash_4 | village-february-pretty-raise |  
+| bip_39_word_dash_5 | village-february-pretty-raise-board |  
+| bip_39_word_dash_6 | village-february-pretty-raise-board-during |  
+| bip_39_word_dash_7 | village-february-pretty-raise-board-during-private |  
+| bip_39_word_dash_8 | village-february-pretty-raise-board-during-private-kite |  
+| bip_39_word_dash_9 | village-february-pretty-raise-board-during-private-kite-drastic |  
 | bip_39_word_new_br_1 | village |  
 | bip_39_word_new_br_10 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple |  
 | bip_39_word_new_br_11 | village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple<br>fox |  
@@ -147,6 +159,18 @@ drastic |
 | bip_39_word_space_7 | village february pretty raise board during private |  
 | bip_39_word_space_8 | village february pretty raise board during private kite |  
 | bip_39_word_space_9 | village february pretty raise board during private kite drastic |  
+| bip_39_word_underscore_1 | village |  
+| bip_39_word_underscore_10 | village_february_pretty_raise_board_during_private_kite_drastic_ripple |  
+| bip_39_word_underscore_11 | village_february_pretty_raise_board_during_private_kite_drastic_ripple_fox |  
+| bip_39_word_underscore_12 | village_february_pretty_raise_board_during_private_kite_drastic_ripple_fox_able |  
+| bip_39_word_underscore_2 | village_february |  
+| bip_39_word_underscore_3 | village_february_pretty |  
+| bip_39_word_underscore_4 | village_february_pretty_raise |  
+| bip_39_word_underscore_5 | village_february_pretty_raise_board |  
+| bip_39_word_underscore_6 | village_february_pretty_raise_board_during |  
+| bip_39_word_underscore_7 | village_february_pretty_raise_board_during_private |  
+| bip_39_word_underscore_8 | village_february_pretty_raise_board_during_private_kite |  
+| bip_39_word_underscore_9 | village_february_pretty_raise_board_during_private_kite_drastic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

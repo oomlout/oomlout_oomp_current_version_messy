@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ship |  
+| bip_39_word_dash_10 | ship-ski-business-mushroom-region-forward-lobster-knee-alarm-unit |  
+| bip_39_word_dash_11 | ship-ski-business-mushroom-region-forward-lobster-knee-alarm-unit-cute |  
+| bip_39_word_dash_12 | ship-ski-business-mushroom-region-forward-lobster-knee-alarm-unit-cute-alien |  
+| bip_39_word_dash_2 | ship-ski |  
+| bip_39_word_dash_3 | ship-ski-business |  
+| bip_39_word_dash_4 | ship-ski-business-mushroom |  
+| bip_39_word_dash_5 | ship-ski-business-mushroom-region |  
+| bip_39_word_dash_6 | ship-ski-business-mushroom-region-forward |  
+| bip_39_word_dash_7 | ship-ski-business-mushroom-region-forward-lobster |  
+| bip_39_word_dash_8 | ship-ski-business-mushroom-region-forward-lobster-knee |  
+| bip_39_word_dash_9 | ship-ski-business-mushroom-region-forward-lobster-knee-alarm |  
 | bip_39_word_new_br_1 | ship |  
 | bip_39_word_new_br_10 | ship<br>ski<br>business<br>mushroom<br>region<br>forward<br>lobster<br>knee<br>alarm<br>unit |  
 | bip_39_word_new_br_11 | ship<br>ski<br>business<br>mushroom<br>region<br>forward<br>lobster<br>knee<br>alarm<br>unit<br>cute |  
@@ -147,6 +159,18 @@ alarm |
 | bip_39_word_space_7 | ship ski business mushroom region forward lobster |  
 | bip_39_word_space_8 | ship ski business mushroom region forward lobster knee |  
 | bip_39_word_space_9 | ship ski business mushroom region forward lobster knee alarm |  
+| bip_39_word_underscore_1 | ship |  
+| bip_39_word_underscore_10 | ship_ski_business_mushroom_region_forward_lobster_knee_alarm_unit |  
+| bip_39_word_underscore_11 | ship_ski_business_mushroom_region_forward_lobster_knee_alarm_unit_cute |  
+| bip_39_word_underscore_12 | ship_ski_business_mushroom_region_forward_lobster_knee_alarm_unit_cute_alien |  
+| bip_39_word_underscore_2 | ship_ski |  
+| bip_39_word_underscore_3 | ship_ski_business |  
+| bip_39_word_underscore_4 | ship_ski_business_mushroom |  
+| bip_39_word_underscore_5 | ship_ski_business_mushroom_region |  
+| bip_39_word_underscore_6 | ship_ski_business_mushroom_region_forward |  
+| bip_39_word_underscore_7 | ship_ski_business_mushroom_region_forward_lobster |  
+| bip_39_word_underscore_8 | ship_ski_business_mushroom_region_forward_lobster_knee |  
+| bip_39_word_underscore_9 | ship_ski_business_mushroom_region_forward_lobster_knee_alarm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

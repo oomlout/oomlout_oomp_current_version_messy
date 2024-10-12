@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | document |  
+| bip_39_word_dash_10 | document-oxygen-about-snap-frequent-muffin-romance-bone-bench-pave |  
+| bip_39_word_dash_11 | document-oxygen-about-snap-frequent-muffin-romance-bone-bench-pave-diagram |  
+| bip_39_word_dash_12 | document-oxygen-about-snap-frequent-muffin-romance-bone-bench-pave-diagram-apology |  
+| bip_39_word_dash_2 | document-oxygen |  
+| bip_39_word_dash_3 | document-oxygen-about |  
+| bip_39_word_dash_4 | document-oxygen-about-snap |  
+| bip_39_word_dash_5 | document-oxygen-about-snap-frequent |  
+| bip_39_word_dash_6 | document-oxygen-about-snap-frequent-muffin |  
+| bip_39_word_dash_7 | document-oxygen-about-snap-frequent-muffin-romance |  
+| bip_39_word_dash_8 | document-oxygen-about-snap-frequent-muffin-romance-bone |  
+| bip_39_word_dash_9 | document-oxygen-about-snap-frequent-muffin-romance-bone-bench |  
 | bip_39_word_new_br_1 | document |  
 | bip_39_word_new_br_10 | document<br>oxygen<br>about<br>snap<br>frequent<br>muffin<br>romance<br>bone<br>bench<br>pave |  
 | bip_39_word_new_br_11 | document<br>oxygen<br>about<br>snap<br>frequent<br>muffin<br>romance<br>bone<br>bench<br>pave<br>diagram |  
@@ -147,6 +159,18 @@ bench |
 | bip_39_word_space_7 | document oxygen about snap frequent muffin romance |  
 | bip_39_word_space_8 | document oxygen about snap frequent muffin romance bone |  
 | bip_39_word_space_9 | document oxygen about snap frequent muffin romance bone bench |  
+| bip_39_word_underscore_1 | document |  
+| bip_39_word_underscore_10 | document_oxygen_about_snap_frequent_muffin_romance_bone_bench_pave |  
+| bip_39_word_underscore_11 | document_oxygen_about_snap_frequent_muffin_romance_bone_bench_pave_diagram |  
+| bip_39_word_underscore_12 | document_oxygen_about_snap_frequent_muffin_romance_bone_bench_pave_diagram_apology |  
+| bip_39_word_underscore_2 | document_oxygen |  
+| bip_39_word_underscore_3 | document_oxygen_about |  
+| bip_39_word_underscore_4 | document_oxygen_about_snap |  
+| bip_39_word_underscore_5 | document_oxygen_about_snap_frequent |  
+| bip_39_word_underscore_6 | document_oxygen_about_snap_frequent_muffin |  
+| bip_39_word_underscore_7 | document_oxygen_about_snap_frequent_muffin_romance |  
+| bip_39_word_underscore_8 | document_oxygen_about_snap_frequent_muffin_romance_bone |  
+| bip_39_word_underscore_9 | document_oxygen_about_snap_frequent_muffin_romance_bone_bench |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

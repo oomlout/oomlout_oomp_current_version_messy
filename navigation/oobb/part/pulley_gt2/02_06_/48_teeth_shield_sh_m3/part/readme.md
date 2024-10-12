@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | melt |  
+| bip_39_word_dash_10 | melt-warm-spare-spend-claim-minor-mother-ice-case-beef |  
+| bip_39_word_dash_11 | melt-warm-spare-spend-claim-minor-mother-ice-case-beef-food |  
+| bip_39_word_dash_12 | melt-warm-spare-spend-claim-minor-mother-ice-case-beef-food-amount |  
+| bip_39_word_dash_2 | melt-warm |  
+| bip_39_word_dash_3 | melt-warm-spare |  
+| bip_39_word_dash_4 | melt-warm-spare-spend |  
+| bip_39_word_dash_5 | melt-warm-spare-spend-claim |  
+| bip_39_word_dash_6 | melt-warm-spare-spend-claim-minor |  
+| bip_39_word_dash_7 | melt-warm-spare-spend-claim-minor-mother |  
+| bip_39_word_dash_8 | melt-warm-spare-spend-claim-minor-mother-ice |  
+| bip_39_word_dash_9 | melt-warm-spare-spend-claim-minor-mother-ice-case |  
 | bip_39_word_new_br_1 | melt |  
 | bip_39_word_new_br_10 | melt<br>warm<br>spare<br>spend<br>claim<br>minor<br>mother<br>ice<br>case<br>beef |  
 | bip_39_word_new_br_11 | melt<br>warm<br>spare<br>spend<br>claim<br>minor<br>mother<br>ice<br>case<br>beef<br>food |  
@@ -147,6 +159,18 @@ case |
 | bip_39_word_space_7 | melt warm spare spend claim minor mother |  
 | bip_39_word_space_8 | melt warm spare spend claim minor mother ice |  
 | bip_39_word_space_9 | melt warm spare spend claim minor mother ice case |  
+| bip_39_word_underscore_1 | melt |  
+| bip_39_word_underscore_10 | melt_warm_spare_spend_claim_minor_mother_ice_case_beef |  
+| bip_39_word_underscore_11 | melt_warm_spare_spend_claim_minor_mother_ice_case_beef_food |  
+| bip_39_word_underscore_12 | melt_warm_spare_spend_claim_minor_mother_ice_case_beef_food_amount |  
+| bip_39_word_underscore_2 | melt_warm |  
+| bip_39_word_underscore_3 | melt_warm_spare |  
+| bip_39_word_underscore_4 | melt_warm_spare_spend |  
+| bip_39_word_underscore_5 | melt_warm_spare_spend_claim |  
+| bip_39_word_underscore_6 | melt_warm_spare_spend_claim_minor |  
+| bip_39_word_underscore_7 | melt_warm_spare_spend_claim_minor_mother |  
+| bip_39_word_underscore_8 | melt_warm_spare_spend_claim_minor_mother_ice |  
+| bip_39_word_underscore_9 | melt_warm_spare_spend_claim_minor_mother_ice_case |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

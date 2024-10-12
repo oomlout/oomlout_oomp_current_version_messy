@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | razor |  
+| bip_39_word_dash_10 | razor-feed-slight-barely-radar-minute-define-change-useful-speed |  
+| bip_39_word_dash_11 | razor-feed-slight-barely-radar-minute-define-change-useful-speed-auction |  
+| bip_39_word_dash_12 | razor-feed-slight-barely-radar-minute-define-change-useful-speed-auction-auction |  
+| bip_39_word_dash_2 | razor-feed |  
+| bip_39_word_dash_3 | razor-feed-slight |  
+| bip_39_word_dash_4 | razor-feed-slight-barely |  
+| bip_39_word_dash_5 | razor-feed-slight-barely-radar |  
+| bip_39_word_dash_6 | razor-feed-slight-barely-radar-minute |  
+| bip_39_word_dash_7 | razor-feed-slight-barely-radar-minute-define |  
+| bip_39_word_dash_8 | razor-feed-slight-barely-radar-minute-define-change |  
+| bip_39_word_dash_9 | razor-feed-slight-barely-radar-minute-define-change-useful |  
 | bip_39_word_new_br_1 | razor |  
 | bip_39_word_new_br_10 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change<br>useful<br>speed |  
 | bip_39_word_new_br_11 | razor<br>feed<br>slight<br>barely<br>radar<br>minute<br>define<br>change<br>useful<br>speed<br>auction |  
@@ -147,6 +159,18 @@ useful |
 | bip_39_word_space_7 | razor feed slight barely radar minute define |  
 | bip_39_word_space_8 | razor feed slight barely radar minute define change |  
 | bip_39_word_space_9 | razor feed slight barely radar minute define change useful |  
+| bip_39_word_underscore_1 | razor |  
+| bip_39_word_underscore_10 | razor_feed_slight_barely_radar_minute_define_change_useful_speed |  
+| bip_39_word_underscore_11 | razor_feed_slight_barely_radar_minute_define_change_useful_speed_auction |  
+| bip_39_word_underscore_12 | razor_feed_slight_barely_radar_minute_define_change_useful_speed_auction_auction |  
+| bip_39_word_underscore_2 | razor_feed |  
+| bip_39_word_underscore_3 | razor_feed_slight |  
+| bip_39_word_underscore_4 | razor_feed_slight_barely |  
+| bip_39_word_underscore_5 | razor_feed_slight_barely_radar |  
+| bip_39_word_underscore_6 | razor_feed_slight_barely_radar_minute |  
+| bip_39_word_underscore_7 | razor_feed_slight_barely_radar_minute_define |  
+| bip_39_word_underscore_8 | razor_feed_slight_barely_radar_minute_define_change |  
+| bip_39_word_underscore_9 | razor_feed_slight_barely_radar_minute_define_change_useful |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

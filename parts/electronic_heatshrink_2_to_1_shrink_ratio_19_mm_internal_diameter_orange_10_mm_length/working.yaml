@@ -1,3 +1,15 @@
+bip_39_word_dash_1: thank
+bip_39_word_dash_10: thank-couple-below-tide-minute-art-globe-naive-undo-defy
+bip_39_word_dash_11: thank-couple-below-tide-minute-art-globe-naive-undo-defy-rude
+bip_39_word_dash_12: thank-couple-below-tide-minute-art-globe-naive-undo-defy-rude-adjust
+bip_39_word_dash_2: thank-couple
+bip_39_word_dash_3: thank-couple-below
+bip_39_word_dash_4: thank-couple-below-tide
+bip_39_word_dash_5: thank-couple-below-tide-minute
+bip_39_word_dash_6: thank-couple-below-tide-minute-art
+bip_39_word_dash_7: thank-couple-below-tide-minute-art-globe
+bip_39_word_dash_8: thank-couple-below-tide-minute-art-globe-naive
+bip_39_word_dash_9: thank-couple-below-tide-minute-art-globe-naive-undo
 bip_39_word_new_br_1: thank
 bip_39_word_new_br_10: thank<br>couple<br>below<br>tide<br>minute<br>art<br>globe<br>naive<br>undo<br>defy
 bip_39_word_new_br_11: thank<br>couple<br>below<br>tide<br>minute<br>art<br>globe<br>naive<br>undo<br>defy<br>rude
@@ -192,6 +204,18 @@ bip_39_word_space_6: thank couple below tide minute art
 bip_39_word_space_7: thank couple below tide minute art globe
 bip_39_word_space_8: thank couple below tide minute art globe naive
 bip_39_word_space_9: thank couple below tide minute art globe naive undo
+bip_39_word_underscore_1: thank
+bip_39_word_underscore_10: thank_couple_below_tide_minute_art_globe_naive_undo_defy
+bip_39_word_underscore_11: thank_couple_below_tide_minute_art_globe_naive_undo_defy_rude
+bip_39_word_underscore_12: thank_couple_below_tide_minute_art_globe_naive_undo_defy_rude_adjust
+bip_39_word_underscore_2: thank_couple
+bip_39_word_underscore_3: thank_couple_below
+bip_39_word_underscore_4: thank_couple_below_tide
+bip_39_word_underscore_5: thank_couple_below_tide_minute
+bip_39_word_underscore_6: thank_couple_below_tide_minute_art
+bip_39_word_underscore_7: thank_couple_below_tide_minute_art_globe
+bip_39_word_underscore_8: thank_couple_below_tide_minute_art_globe_naive
+bip_39_word_underscore_9: thank_couple_below_tide_minute_art_globe_naive_undo
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

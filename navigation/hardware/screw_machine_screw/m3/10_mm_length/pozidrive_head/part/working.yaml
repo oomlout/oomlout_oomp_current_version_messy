@@ -1,3 +1,15 @@
+bip_39_word_dash_1: opinion
+bip_39_word_dash_10: opinion-open-shadow-obtain-dream-proof-bacon-waste-nut-oil
+bip_39_word_dash_11: opinion-open-shadow-obtain-dream-proof-bacon-waste-nut-oil-glance
+bip_39_word_dash_12: opinion-open-shadow-obtain-dream-proof-bacon-waste-nut-oil-glance-arrange
+bip_39_word_dash_2: opinion-open
+bip_39_word_dash_3: opinion-open-shadow
+bip_39_word_dash_4: opinion-open-shadow-obtain
+bip_39_word_dash_5: opinion-open-shadow-obtain-dream
+bip_39_word_dash_6: opinion-open-shadow-obtain-dream-proof
+bip_39_word_dash_7: opinion-open-shadow-obtain-dream-proof-bacon
+bip_39_word_dash_8: opinion-open-shadow-obtain-dream-proof-bacon-waste
+bip_39_word_dash_9: opinion-open-shadow-obtain-dream-proof-bacon-waste-nut
 bip_39_word_new_br_1: opinion
 bip_39_word_new_br_10: opinion<br>open<br>shadow<br>obtain<br>dream<br>proof<br>bacon<br>waste<br>nut<br>oil
 bip_39_word_new_br_11: opinion<br>open<br>shadow<br>obtain<br>dream<br>proof<br>bacon<br>waste<br>nut<br>oil<br>glance
@@ -192,6 +204,18 @@ bip_39_word_space_6: opinion open shadow obtain dream proof
 bip_39_word_space_7: opinion open shadow obtain dream proof bacon
 bip_39_word_space_8: opinion open shadow obtain dream proof bacon waste
 bip_39_word_space_9: opinion open shadow obtain dream proof bacon waste nut
+bip_39_word_underscore_1: opinion
+bip_39_word_underscore_10: opinion_open_shadow_obtain_dream_proof_bacon_waste_nut_oil
+bip_39_word_underscore_11: opinion_open_shadow_obtain_dream_proof_bacon_waste_nut_oil_glance
+bip_39_word_underscore_12: opinion_open_shadow_obtain_dream_proof_bacon_waste_nut_oil_glance_arrange
+bip_39_word_underscore_2: opinion_open
+bip_39_word_underscore_3: opinion_open_shadow
+bip_39_word_underscore_4: opinion_open_shadow_obtain
+bip_39_word_underscore_5: opinion_open_shadow_obtain_dream
+bip_39_word_underscore_6: opinion_open_shadow_obtain_dream_proof
+bip_39_word_underscore_7: opinion_open_shadow_obtain_dream_proof_bacon
+bip_39_word_underscore_8: opinion_open_shadow_obtain_dream_proof_bacon_waste
+bip_39_word_underscore_9: opinion_open_shadow_obtain_dream_proof_bacon_waste_nut
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

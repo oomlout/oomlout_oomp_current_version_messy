@@ -1,3 +1,15 @@
+bip_39_word_dash_1: student
+bip_39_word_dash_10: student-market-inherit-ship-bounce-aware-place-fox-coffee-rebuild
+bip_39_word_dash_11: student-market-inherit-ship-bounce-aware-place-fox-coffee-rebuild-anchor
+bip_39_word_dash_12: student-market-inherit-ship-bounce-aware-place-fox-coffee-rebuild-anchor-amount
+bip_39_word_dash_2: student-market
+bip_39_word_dash_3: student-market-inherit
+bip_39_word_dash_4: student-market-inherit-ship
+bip_39_word_dash_5: student-market-inherit-ship-bounce
+bip_39_word_dash_6: student-market-inherit-ship-bounce-aware
+bip_39_word_dash_7: student-market-inherit-ship-bounce-aware-place
+bip_39_word_dash_8: student-market-inherit-ship-bounce-aware-place-fox
+bip_39_word_dash_9: student-market-inherit-ship-bounce-aware-place-fox-coffee
 bip_39_word_new_br_1: student
 bip_39_word_new_br_10: student<br>market<br>inherit<br>ship<br>bounce<br>aware<br>place<br>fox<br>coffee<br>rebuild
 bip_39_word_new_br_11: student<br>market<br>inherit<br>ship<br>bounce<br>aware<br>place<br>fox<br>coffee<br>rebuild<br>anchor
@@ -193,6 +205,18 @@ bip_39_word_space_6: student market inherit ship bounce aware
 bip_39_word_space_7: student market inherit ship bounce aware place
 bip_39_word_space_8: student market inherit ship bounce aware place fox
 bip_39_word_space_9: student market inherit ship bounce aware place fox coffee
+bip_39_word_underscore_1: student
+bip_39_word_underscore_10: student_market_inherit_ship_bounce_aware_place_fox_coffee_rebuild
+bip_39_word_underscore_11: student_market_inherit_ship_bounce_aware_place_fox_coffee_rebuild_anchor
+bip_39_word_underscore_12: student_market_inherit_ship_bounce_aware_place_fox_coffee_rebuild_anchor_amount
+bip_39_word_underscore_2: student_market
+bip_39_word_underscore_3: student_market_inherit
+bip_39_word_underscore_4: student_market_inherit_ship
+bip_39_word_underscore_5: student_market_inherit_ship_bounce
+bip_39_word_underscore_6: student_market_inherit_ship_bounce_aware
+bip_39_word_underscore_7: student_market_inherit_ship_bounce_aware_place
+bip_39_word_underscore_8: student_market_inherit_ship_bounce_aware_place_fox
+bip_39_word_underscore_9: student_market_inherit_ship_bounce_aware_place_fox_coffee
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

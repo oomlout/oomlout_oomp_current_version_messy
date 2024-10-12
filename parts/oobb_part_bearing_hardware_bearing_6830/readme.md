@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stuff |  
+| bip_39_word_dash_10 | stuff-upon-detect-project-image-glow-labor-kidney-pioneer-average |  
+| bip_39_word_dash_11 | stuff-upon-detect-project-image-glow-labor-kidney-pioneer-average-castle |  
+| bip_39_word_dash_12 | stuff-upon-detect-project-image-glow-labor-kidney-pioneer-average-castle-attend |  
+| bip_39_word_dash_2 | stuff-upon |  
+| bip_39_word_dash_3 | stuff-upon-detect |  
+| bip_39_word_dash_4 | stuff-upon-detect-project |  
+| bip_39_word_dash_5 | stuff-upon-detect-project-image |  
+| bip_39_word_dash_6 | stuff-upon-detect-project-image-glow |  
+| bip_39_word_dash_7 | stuff-upon-detect-project-image-glow-labor |  
+| bip_39_word_dash_8 | stuff-upon-detect-project-image-glow-labor-kidney |  
+| bip_39_word_dash_9 | stuff-upon-detect-project-image-glow-labor-kidney-pioneer |  
 | bip_39_word_new_br_1 | stuff |  
 | bip_39_word_new_br_10 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney<br>pioneer<br>average |  
 | bip_39_word_new_br_11 | stuff<br>upon<br>detect<br>project<br>image<br>glow<br>labor<br>kidney<br>pioneer<br>average<br>castle |  
@@ -147,6 +159,18 @@ pioneer |
 | bip_39_word_space_7 | stuff upon detect project image glow labor |  
 | bip_39_word_space_8 | stuff upon detect project image glow labor kidney |  
 | bip_39_word_space_9 | stuff upon detect project image glow labor kidney pioneer |  
+| bip_39_word_underscore_1 | stuff |  
+| bip_39_word_underscore_10 | stuff_upon_detect_project_image_glow_labor_kidney_pioneer_average |  
+| bip_39_word_underscore_11 | stuff_upon_detect_project_image_glow_labor_kidney_pioneer_average_castle |  
+| bip_39_word_underscore_12 | stuff_upon_detect_project_image_glow_labor_kidney_pioneer_average_castle_attend |  
+| bip_39_word_underscore_2 | stuff_upon |  
+| bip_39_word_underscore_3 | stuff_upon_detect |  
+| bip_39_word_underscore_4 | stuff_upon_detect_project |  
+| bip_39_word_underscore_5 | stuff_upon_detect_project_image |  
+| bip_39_word_underscore_6 | stuff_upon_detect_project_image_glow |  
+| bip_39_word_underscore_7 | stuff_upon_detect_project_image_glow_labor |  
+| bip_39_word_underscore_8 | stuff_upon_detect_project_image_glow_labor_kidney |  
+| bip_39_word_underscore_9 | stuff_upon_detect_project_image_glow_labor_kidney_pioneer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,14 @@
+bip_39_word_dash_1: aunt
+bip_39_word_dash_10: aunt-wisdom-require-tourist-scatter-muffin-egg-myself-neck-recall
+bip_39_word_dash_11: aunt-wisdom-require-tourist-scatter-muffin-egg-myself-neck-recall-oil
+bip_39_word_dash_2: aunt-wisdom
+bip_39_word_dash_3: aunt-wisdom-require
+bip_39_word_dash_4: aunt-wisdom-require-tourist
+bip_39_word_dash_5: aunt-wisdom-require-tourist-scatter
+bip_39_word_dash_6: aunt-wisdom-require-tourist-scatter-muffin
+bip_39_word_dash_7: aunt-wisdom-require-tourist-scatter-muffin-egg
+bip_39_word_dash_8: aunt-wisdom-require-tourist-scatter-muffin-egg-myself
+bip_39_word_dash_9: aunt-wisdom-require-tourist-scatter-muffin-egg-myself-neck
 bip_39_word_new_br_1: aunt
 bip_39_word_new_br_10: aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck<br>recall
 bip_39_word_new_br_11: aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck<br>recall<br>oil
@@ -165,6 +176,17 @@ bip_39_word_space_6: aunt wisdom require tourist scatter muffin
 bip_39_word_space_7: aunt wisdom require tourist scatter muffin egg
 bip_39_word_space_8: aunt wisdom require tourist scatter muffin egg myself
 bip_39_word_space_9: aunt wisdom require tourist scatter muffin egg myself neck
+bip_39_word_underscore_1: aunt
+bip_39_word_underscore_10: aunt_wisdom_require_tourist_scatter_muffin_egg_myself_neck_recall
+bip_39_word_underscore_11: aunt_wisdom_require_tourist_scatter_muffin_egg_myself_neck_recall_oil
+bip_39_word_underscore_2: aunt_wisdom
+bip_39_word_underscore_3: aunt_wisdom_require
+bip_39_word_underscore_4: aunt_wisdom_require_tourist
+bip_39_word_underscore_5: aunt_wisdom_require_tourist_scatter
+bip_39_word_underscore_6: aunt_wisdom_require_tourist_scatter_muffin
+bip_39_word_underscore_7: aunt_wisdom_require_tourist_scatter_muffin_egg
+bip_39_word_underscore_8: aunt_wisdom_require_tourist_scatter_muffin_egg_myself
+bip_39_word_underscore_9: aunt_wisdom_require_tourist_scatter_muffin_egg_myself_neck
 classification: lighting
 classification_capital: Lighting
 classification_first_letter: l

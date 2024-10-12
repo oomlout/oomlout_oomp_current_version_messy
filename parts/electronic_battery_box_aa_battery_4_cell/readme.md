@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | solve |  
+| bip_39_word_dash_10 | solve-blood-brave-seed-method-summer-outside-junior-pond-mouse |  
+| bip_39_word_dash_11 | solve-blood-brave-seed-method-summer-outside-junior-pond-mouse-verb |  
+| bip_39_word_dash_12 | solve-blood-brave-seed-method-summer-outside-junior-pond-mouse-verb-account |  
+| bip_39_word_dash_2 | solve-blood |  
+| bip_39_word_dash_3 | solve-blood-brave |  
+| bip_39_word_dash_4 | solve-blood-brave-seed |  
+| bip_39_word_dash_5 | solve-blood-brave-seed-method |  
+| bip_39_word_dash_6 | solve-blood-brave-seed-method-summer |  
+| bip_39_word_dash_7 | solve-blood-brave-seed-method-summer-outside |  
+| bip_39_word_dash_8 | solve-blood-brave-seed-method-summer-outside-junior |  
+| bip_39_word_dash_9 | solve-blood-brave-seed-method-summer-outside-junior-pond |  
 | bip_39_word_new_br_1 | solve |  
 | bip_39_word_new_br_10 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior<br>pond<br>mouse |  
 | bip_39_word_new_br_11 | solve<br>blood<br>brave<br>seed<br>method<br>summer<br>outside<br>junior<br>pond<br>mouse<br>verb |  
@@ -147,6 +159,18 @@ pond |
 | bip_39_word_space_7 | solve blood brave seed method summer outside |  
 | bip_39_word_space_8 | solve blood brave seed method summer outside junior |  
 | bip_39_word_space_9 | solve blood brave seed method summer outside junior pond |  
+| bip_39_word_underscore_1 | solve |  
+| bip_39_word_underscore_10 | solve_blood_brave_seed_method_summer_outside_junior_pond_mouse |  
+| bip_39_word_underscore_11 | solve_blood_brave_seed_method_summer_outside_junior_pond_mouse_verb |  
+| bip_39_word_underscore_12 | solve_blood_brave_seed_method_summer_outside_junior_pond_mouse_verb_account |  
+| bip_39_word_underscore_2 | solve_blood |  
+| bip_39_word_underscore_3 | solve_blood_brave |  
+| bip_39_word_underscore_4 | solve_blood_brave_seed |  
+| bip_39_word_underscore_5 | solve_blood_brave_seed_method |  
+| bip_39_word_underscore_6 | solve_blood_brave_seed_method_summer |  
+| bip_39_word_underscore_7 | solve_blood_brave_seed_method_summer_outside |  
+| bip_39_word_underscore_8 | solve_blood_brave_seed_method_summer_outside_junior |  
+| bip_39_word_underscore_9 | solve_blood_brave_seed_method_summer_outside_junior_pond |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

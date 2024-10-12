@@ -1,3 +1,15 @@
+bip_39_word_dash_1: select
+bip_39_word_dash_10: select-sorry-stadium-seat-seed-brass-diesel-piece-screen-cluster
+bip_39_word_dash_11: select-sorry-stadium-seat-seed-brass-diesel-piece-screen-cluster-smart
+bip_39_word_dash_12: select-sorry-stadium-seat-seed-brass-diesel-piece-screen-cluster-smart-among
+bip_39_word_dash_2: select-sorry
+bip_39_word_dash_3: select-sorry-stadium
+bip_39_word_dash_4: select-sorry-stadium-seat
+bip_39_word_dash_5: select-sorry-stadium-seat-seed
+bip_39_word_dash_6: select-sorry-stadium-seat-seed-brass
+bip_39_word_dash_7: select-sorry-stadium-seat-seed-brass-diesel
+bip_39_word_dash_8: select-sorry-stadium-seat-seed-brass-diesel-piece
+bip_39_word_dash_9: select-sorry-stadium-seat-seed-brass-diesel-piece-screen
 bip_39_word_new_br_1: select
 bip_39_word_new_br_10: select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster
 bip_39_word_new_br_11: select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster<br>smart
@@ -193,6 +205,18 @@ bip_39_word_space_6: select sorry stadium seat seed brass
 bip_39_word_space_7: select sorry stadium seat seed brass diesel
 bip_39_word_space_8: select sorry stadium seat seed brass diesel piece
 bip_39_word_space_9: select sorry stadium seat seed brass diesel piece screen
+bip_39_word_underscore_1: select
+bip_39_word_underscore_10: select_sorry_stadium_seat_seed_brass_diesel_piece_screen_cluster
+bip_39_word_underscore_11: select_sorry_stadium_seat_seed_brass_diesel_piece_screen_cluster_smart
+bip_39_word_underscore_12: select_sorry_stadium_seat_seed_brass_diesel_piece_screen_cluster_smart_among
+bip_39_word_underscore_2: select_sorry
+bip_39_word_underscore_3: select_sorry_stadium
+bip_39_word_underscore_4: select_sorry_stadium_seat
+bip_39_word_underscore_5: select_sorry_stadium_seat_seed
+bip_39_word_underscore_6: select_sorry_stadium_seat_seed_brass
+bip_39_word_underscore_7: select_sorry_stadium_seat_seed_brass_diesel
+bip_39_word_underscore_8: select_sorry_stadium_seat_seed_brass_diesel_piece
+bip_39_word_underscore_9: select_sorry_stadium_seat_seed_brass_diesel_piece_screen
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

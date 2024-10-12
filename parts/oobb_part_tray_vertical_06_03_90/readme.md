@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stumble |  
+| bip_39_word_dash_10 | stumble-coffee-curve-latin-blast-chef-foam-then-genius-pretty |  
+| bip_39_word_dash_11 | stumble-coffee-curve-latin-blast-chef-foam-then-genius-pretty-cook |  
+| bip_39_word_dash_12 | stumble-coffee-curve-latin-blast-chef-foam-then-genius-pretty-cook-allow |  
+| bip_39_word_dash_2 | stumble-coffee |  
+| bip_39_word_dash_3 | stumble-coffee-curve |  
+| bip_39_word_dash_4 | stumble-coffee-curve-latin |  
+| bip_39_word_dash_5 | stumble-coffee-curve-latin-blast |  
+| bip_39_word_dash_6 | stumble-coffee-curve-latin-blast-chef |  
+| bip_39_word_dash_7 | stumble-coffee-curve-latin-blast-chef-foam |  
+| bip_39_word_dash_8 | stumble-coffee-curve-latin-blast-chef-foam-then |  
+| bip_39_word_dash_9 | stumble-coffee-curve-latin-blast-chef-foam-then-genius |  
 | bip_39_word_new_br_1 | stumble |  
 | bip_39_word_new_br_10 | stumble<br>coffee<br>curve<br>latin<br>blast<br>chef<br>foam<br>then<br>genius<br>pretty |  
 | bip_39_word_new_br_11 | stumble<br>coffee<br>curve<br>latin<br>blast<br>chef<br>foam<br>then<br>genius<br>pretty<br>cook |  
@@ -147,6 +159,18 @@ genius |
 | bip_39_word_space_7 | stumble coffee curve latin blast chef foam |  
 | bip_39_word_space_8 | stumble coffee curve latin blast chef foam then |  
 | bip_39_word_space_9 | stumble coffee curve latin blast chef foam then genius |  
+| bip_39_word_underscore_1 | stumble |  
+| bip_39_word_underscore_10 | stumble_coffee_curve_latin_blast_chef_foam_then_genius_pretty |  
+| bip_39_word_underscore_11 | stumble_coffee_curve_latin_blast_chef_foam_then_genius_pretty_cook |  
+| bip_39_word_underscore_12 | stumble_coffee_curve_latin_blast_chef_foam_then_genius_pretty_cook_allow |  
+| bip_39_word_underscore_2 | stumble_coffee |  
+| bip_39_word_underscore_3 | stumble_coffee_curve |  
+| bip_39_word_underscore_4 | stumble_coffee_curve_latin |  
+| bip_39_word_underscore_5 | stumble_coffee_curve_latin_blast |  
+| bip_39_word_underscore_6 | stumble_coffee_curve_latin_blast_chef |  
+| bip_39_word_underscore_7 | stumble_coffee_curve_latin_blast_chef_foam |  
+| bip_39_word_underscore_8 | stumble_coffee_curve_latin_blast_chef_foam_then |  
+| bip_39_word_underscore_9 | stumble_coffee_curve_latin_blast_chef_foam_then_genius |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

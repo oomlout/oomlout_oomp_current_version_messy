@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | math |  
+| bip_39_word_dash_10 | math-dolphin-steel-safe-pause-vapor-awake-gift-manage-lonely |  
+| bip_39_word_dash_11 | math-dolphin-steel-safe-pause-vapor-awake-gift-manage-lonely-rain |  
+| bip_39_word_dash_12 | math-dolphin-steel-safe-pause-vapor-awake-gift-manage-lonely-rain-act |  
+| bip_39_word_dash_2 | math-dolphin |  
+| bip_39_word_dash_3 | math-dolphin-steel |  
+| bip_39_word_dash_4 | math-dolphin-steel-safe |  
+| bip_39_word_dash_5 | math-dolphin-steel-safe-pause |  
+| bip_39_word_dash_6 | math-dolphin-steel-safe-pause-vapor |  
+| bip_39_word_dash_7 | math-dolphin-steel-safe-pause-vapor-awake |  
+| bip_39_word_dash_8 | math-dolphin-steel-safe-pause-vapor-awake-gift |  
+| bip_39_word_dash_9 | math-dolphin-steel-safe-pause-vapor-awake-gift-manage |  
 | bip_39_word_new_br_1 | math |  
 | bip_39_word_new_br_10 | math<br>dolphin<br>steel<br>safe<br>pause<br>vapor<br>awake<br>gift<br>manage<br>lonely |  
 | bip_39_word_new_br_11 | math<br>dolphin<br>steel<br>safe<br>pause<br>vapor<br>awake<br>gift<br>manage<br>lonely<br>rain |  
@@ -147,6 +159,18 @@ manage |
 | bip_39_word_space_7 | math dolphin steel safe pause vapor awake |  
 | bip_39_word_space_8 | math dolphin steel safe pause vapor awake gift |  
 | bip_39_word_space_9 | math dolphin steel safe pause vapor awake gift manage |  
+| bip_39_word_underscore_1 | math |  
+| bip_39_word_underscore_10 | math_dolphin_steel_safe_pause_vapor_awake_gift_manage_lonely |  
+| bip_39_word_underscore_11 | math_dolphin_steel_safe_pause_vapor_awake_gift_manage_lonely_rain |  
+| bip_39_word_underscore_12 | math_dolphin_steel_safe_pause_vapor_awake_gift_manage_lonely_rain_act |  
+| bip_39_word_underscore_2 | math_dolphin |  
+| bip_39_word_underscore_3 | math_dolphin_steel |  
+| bip_39_word_underscore_4 | math_dolphin_steel_safe |  
+| bip_39_word_underscore_5 | math_dolphin_steel_safe_pause |  
+| bip_39_word_underscore_6 | math_dolphin_steel_safe_pause_vapor |  
+| bip_39_word_underscore_7 | math_dolphin_steel_safe_pause_vapor_awake |  
+| bip_39_word_underscore_8 | math_dolphin_steel_safe_pause_vapor_awake_gift |  
+| bip_39_word_underscore_9 | math_dolphin_steel_safe_pause_vapor_awake_gift_manage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

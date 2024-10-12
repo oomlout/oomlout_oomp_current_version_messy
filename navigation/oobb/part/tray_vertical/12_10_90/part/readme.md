@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stove |  
+| bip_39_word_dash_10 | stove-wing-cheap-kit-speed-ski-behave-gadget-prosper-hire |  
+| bip_39_word_dash_11 | stove-wing-cheap-kit-speed-ski-behave-gadget-prosper-hire-front |  
+| bip_39_word_dash_12 | stove-wing-cheap-kit-speed-ski-behave-gadget-prosper-hire-front-angry |  
+| bip_39_word_dash_2 | stove-wing |  
+| bip_39_word_dash_3 | stove-wing-cheap |  
+| bip_39_word_dash_4 | stove-wing-cheap-kit |  
+| bip_39_word_dash_5 | stove-wing-cheap-kit-speed |  
+| bip_39_word_dash_6 | stove-wing-cheap-kit-speed-ski |  
+| bip_39_word_dash_7 | stove-wing-cheap-kit-speed-ski-behave |  
+| bip_39_word_dash_8 | stove-wing-cheap-kit-speed-ski-behave-gadget |  
+| bip_39_word_dash_9 | stove-wing-cheap-kit-speed-ski-behave-gadget-prosper |  
 | bip_39_word_new_br_1 | stove |  
 | bip_39_word_new_br_10 | stove<br>wing<br>cheap<br>kit<br>speed<br>ski<br>behave<br>gadget<br>prosper<br>hire |  
 | bip_39_word_new_br_11 | stove<br>wing<br>cheap<br>kit<br>speed<br>ski<br>behave<br>gadget<br>prosper<br>hire<br>front |  
@@ -147,6 +159,18 @@ prosper |
 | bip_39_word_space_7 | stove wing cheap kit speed ski behave |  
 | bip_39_word_space_8 | stove wing cheap kit speed ski behave gadget |  
 | bip_39_word_space_9 | stove wing cheap kit speed ski behave gadget prosper |  
+| bip_39_word_underscore_1 | stove |  
+| bip_39_word_underscore_10 | stove_wing_cheap_kit_speed_ski_behave_gadget_prosper_hire |  
+| bip_39_word_underscore_11 | stove_wing_cheap_kit_speed_ski_behave_gadget_prosper_hire_front |  
+| bip_39_word_underscore_12 | stove_wing_cheap_kit_speed_ski_behave_gadget_prosper_hire_front_angry |  
+| bip_39_word_underscore_2 | stove_wing |  
+| bip_39_word_underscore_3 | stove_wing_cheap |  
+| bip_39_word_underscore_4 | stove_wing_cheap_kit |  
+| bip_39_word_underscore_5 | stove_wing_cheap_kit_speed |  
+| bip_39_word_underscore_6 | stove_wing_cheap_kit_speed_ski |  
+| bip_39_word_underscore_7 | stove_wing_cheap_kit_speed_ski_behave |  
+| bip_39_word_underscore_8 | stove_wing_cheap_kit_speed_ski_behave_gadget |  
+| bip_39_word_underscore_9 | stove_wing_cheap_kit_speed_ski_behave_gadget_prosper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

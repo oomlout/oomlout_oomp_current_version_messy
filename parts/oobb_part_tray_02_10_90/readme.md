@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | luxury |  
+| bip_39_word_dash_10 | luxury-disagree-reform-ripple-price-claim-disease-cloud-brief-neglect |  
+| bip_39_word_dash_11 | luxury-disagree-reform-ripple-price-claim-disease-cloud-brief-neglect-shrug |  
+| bip_39_word_dash_12 | luxury-disagree-reform-ripple-price-claim-disease-cloud-brief-neglect-shrug-arrest |  
+| bip_39_word_dash_2 | luxury-disagree |  
+| bip_39_word_dash_3 | luxury-disagree-reform |  
+| bip_39_word_dash_4 | luxury-disagree-reform-ripple |  
+| bip_39_word_dash_5 | luxury-disagree-reform-ripple-price |  
+| bip_39_word_dash_6 | luxury-disagree-reform-ripple-price-claim |  
+| bip_39_word_dash_7 | luxury-disagree-reform-ripple-price-claim-disease |  
+| bip_39_word_dash_8 | luxury-disagree-reform-ripple-price-claim-disease-cloud |  
+| bip_39_word_dash_9 | luxury-disagree-reform-ripple-price-claim-disease-cloud-brief |  
 | bip_39_word_new_br_1 | luxury |  
 | bip_39_word_new_br_10 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud<br>brief<br>neglect |  
 | bip_39_word_new_br_11 | luxury<br>disagree<br>reform<br>ripple<br>price<br>claim<br>disease<br>cloud<br>brief<br>neglect<br>shrug |  
@@ -147,6 +159,18 @@ brief |
 | bip_39_word_space_7 | luxury disagree reform ripple price claim disease |  
 | bip_39_word_space_8 | luxury disagree reform ripple price claim disease cloud |  
 | bip_39_word_space_9 | luxury disagree reform ripple price claim disease cloud brief |  
+| bip_39_word_underscore_1 | luxury |  
+| bip_39_word_underscore_10 | luxury_disagree_reform_ripple_price_claim_disease_cloud_brief_neglect |  
+| bip_39_word_underscore_11 | luxury_disagree_reform_ripple_price_claim_disease_cloud_brief_neglect_shrug |  
+| bip_39_word_underscore_12 | luxury_disagree_reform_ripple_price_claim_disease_cloud_brief_neglect_shrug_arrest |  
+| bip_39_word_underscore_2 | luxury_disagree |  
+| bip_39_word_underscore_3 | luxury_disagree_reform |  
+| bip_39_word_underscore_4 | luxury_disagree_reform_ripple |  
+| bip_39_word_underscore_5 | luxury_disagree_reform_ripple_price |  
+| bip_39_word_underscore_6 | luxury_disagree_reform_ripple_price_claim |  
+| bip_39_word_underscore_7 | luxury_disagree_reform_ripple_price_claim_disease |  
+| bip_39_word_underscore_8 | luxury_disagree_reform_ripple_price_claim_disease_cloud |  
+| bip_39_word_underscore_9 | luxury_disagree_reform_ripple_price_claim_disease_cloud_brief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

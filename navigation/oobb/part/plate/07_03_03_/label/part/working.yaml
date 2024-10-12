@@ -1,3 +1,15 @@
+bip_39_word_dash_1: target
+bip_39_word_dash_10: target-kitchen-athlete-magic-window-gift-amount-coach-attack-window
+bip_39_word_dash_11: target-kitchen-athlete-magic-window-gift-amount-coach-attack-window-stock
+bip_39_word_dash_12: target-kitchen-athlete-magic-window-gift-amount-coach-attack-window-stock-arctic
+bip_39_word_dash_2: target-kitchen
+bip_39_word_dash_3: target-kitchen-athlete
+bip_39_word_dash_4: target-kitchen-athlete-magic
+bip_39_word_dash_5: target-kitchen-athlete-magic-window
+bip_39_word_dash_6: target-kitchen-athlete-magic-window-gift
+bip_39_word_dash_7: target-kitchen-athlete-magic-window-gift-amount
+bip_39_word_dash_8: target-kitchen-athlete-magic-window-gift-amount-coach
+bip_39_word_dash_9: target-kitchen-athlete-magic-window-gift-amount-coach-attack
 bip_39_word_new_br_1: target
 bip_39_word_new_br_10: target<br>kitchen<br>athlete<br>magic<br>window<br>gift<br>amount<br>coach<br>attack<br>window
 bip_39_word_new_br_11: target<br>kitchen<br>athlete<br>magic<br>window<br>gift<br>amount<br>coach<br>attack<br>window<br>stock
@@ -194,6 +206,18 @@ bip_39_word_space_6: target kitchen athlete magic window gift
 bip_39_word_space_7: target kitchen athlete magic window gift amount
 bip_39_word_space_8: target kitchen athlete magic window gift amount coach
 bip_39_word_space_9: target kitchen athlete magic window gift amount coach attack
+bip_39_word_underscore_1: target
+bip_39_word_underscore_10: target_kitchen_athlete_magic_window_gift_amount_coach_attack_window
+bip_39_word_underscore_11: target_kitchen_athlete_magic_window_gift_amount_coach_attack_window_stock
+bip_39_word_underscore_12: target_kitchen_athlete_magic_window_gift_amount_coach_attack_window_stock_arctic
+bip_39_word_underscore_2: target_kitchen
+bip_39_word_underscore_3: target_kitchen_athlete
+bip_39_word_underscore_4: target_kitchen_athlete_magic
+bip_39_word_underscore_5: target_kitchen_athlete_magic_window
+bip_39_word_underscore_6: target_kitchen_athlete_magic_window_gift
+bip_39_word_underscore_7: target_kitchen_athlete_magic_window_gift_amount
+bip_39_word_underscore_8: target_kitchen_athlete_magic_window_gift_amount_coach
+bip_39_word_underscore_9: target_kitchen_athlete_magic_window_gift_amount_coach_attack
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

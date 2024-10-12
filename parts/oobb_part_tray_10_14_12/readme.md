@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ostrich |  
+| bip_39_word_dash_10 | ostrich-melt-spider-grape-omit-piano-item-vendor-deposit-select |  
+| bip_39_word_dash_11 | ostrich-melt-spider-grape-omit-piano-item-vendor-deposit-select-purpose |  
+| bip_39_word_dash_12 | ostrich-melt-spider-grape-omit-piano-item-vendor-deposit-select-purpose-antenna |  
+| bip_39_word_dash_2 | ostrich-melt |  
+| bip_39_word_dash_3 | ostrich-melt-spider |  
+| bip_39_word_dash_4 | ostrich-melt-spider-grape |  
+| bip_39_word_dash_5 | ostrich-melt-spider-grape-omit |  
+| bip_39_word_dash_6 | ostrich-melt-spider-grape-omit-piano |  
+| bip_39_word_dash_7 | ostrich-melt-spider-grape-omit-piano-item |  
+| bip_39_word_dash_8 | ostrich-melt-spider-grape-omit-piano-item-vendor |  
+| bip_39_word_dash_9 | ostrich-melt-spider-grape-omit-piano-item-vendor-deposit |  
 | bip_39_word_new_br_1 | ostrich |  
 | bip_39_word_new_br_10 | ostrich<br>melt<br>spider<br>grape<br>omit<br>piano<br>item<br>vendor<br>deposit<br>select |  
 | bip_39_word_new_br_11 | ostrich<br>melt<br>spider<br>grape<br>omit<br>piano<br>item<br>vendor<br>deposit<br>select<br>purpose |  
@@ -147,6 +159,18 @@ deposit |
 | bip_39_word_space_7 | ostrich melt spider grape omit piano item |  
 | bip_39_word_space_8 | ostrich melt spider grape omit piano item vendor |  
 | bip_39_word_space_9 | ostrich melt spider grape omit piano item vendor deposit |  
+| bip_39_word_underscore_1 | ostrich |  
+| bip_39_word_underscore_10 | ostrich_melt_spider_grape_omit_piano_item_vendor_deposit_select |  
+| bip_39_word_underscore_11 | ostrich_melt_spider_grape_omit_piano_item_vendor_deposit_select_purpose |  
+| bip_39_word_underscore_12 | ostrich_melt_spider_grape_omit_piano_item_vendor_deposit_select_purpose_antenna |  
+| bip_39_word_underscore_2 | ostrich_melt |  
+| bip_39_word_underscore_3 | ostrich_melt_spider |  
+| bip_39_word_underscore_4 | ostrich_melt_spider_grape |  
+| bip_39_word_underscore_5 | ostrich_melt_spider_grape_omit |  
+| bip_39_word_underscore_6 | ostrich_melt_spider_grape_omit_piano |  
+| bip_39_word_underscore_7 | ostrich_melt_spider_grape_omit_piano_item |  
+| bip_39_word_underscore_8 | ostrich_melt_spider_grape_omit_piano_item_vendor |  
+| bip_39_word_underscore_9 | ostrich_melt_spider_grape_omit_piano_item_vendor_deposit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

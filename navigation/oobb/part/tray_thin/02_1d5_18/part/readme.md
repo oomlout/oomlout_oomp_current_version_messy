@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | puzzle |  
+| bip_39_word_dash_10 | puzzle-come-amateur-borrow-absorb-short-wet-amused-nest-scrub |  
+| bip_39_word_dash_11 | puzzle-come-amateur-borrow-absorb-short-wet-amused-nest-scrub-model |  
+| bip_39_word_dash_12 | puzzle-come-amateur-borrow-absorb-short-wet-amused-nest-scrub-model-add |  
+| bip_39_word_dash_2 | puzzle-come |  
+| bip_39_word_dash_3 | puzzle-come-amateur |  
+| bip_39_word_dash_4 | puzzle-come-amateur-borrow |  
+| bip_39_word_dash_5 | puzzle-come-amateur-borrow-absorb |  
+| bip_39_word_dash_6 | puzzle-come-amateur-borrow-absorb-short |  
+| bip_39_word_dash_7 | puzzle-come-amateur-borrow-absorb-short-wet |  
+| bip_39_word_dash_8 | puzzle-come-amateur-borrow-absorb-short-wet-amused |  
+| bip_39_word_dash_9 | puzzle-come-amateur-borrow-absorb-short-wet-amused-nest |  
 | bip_39_word_new_br_1 | puzzle |  
 | bip_39_word_new_br_10 | puzzle<br>come<br>amateur<br>borrow<br>absorb<br>short<br>wet<br>amused<br>nest<br>scrub |  
 | bip_39_word_new_br_11 | puzzle<br>come<br>amateur<br>borrow<br>absorb<br>short<br>wet<br>amused<br>nest<br>scrub<br>model |  
@@ -147,6 +159,18 @@ nest |
 | bip_39_word_space_7 | puzzle come amateur borrow absorb short wet |  
 | bip_39_word_space_8 | puzzle come amateur borrow absorb short wet amused |  
 | bip_39_word_space_9 | puzzle come amateur borrow absorb short wet amused nest |  
+| bip_39_word_underscore_1 | puzzle |  
+| bip_39_word_underscore_10 | puzzle_come_amateur_borrow_absorb_short_wet_amused_nest_scrub |  
+| bip_39_word_underscore_11 | puzzle_come_amateur_borrow_absorb_short_wet_amused_nest_scrub_model |  
+| bip_39_word_underscore_12 | puzzle_come_amateur_borrow_absorb_short_wet_amused_nest_scrub_model_add |  
+| bip_39_word_underscore_2 | puzzle_come |  
+| bip_39_word_underscore_3 | puzzle_come_amateur |  
+| bip_39_word_underscore_4 | puzzle_come_amateur_borrow |  
+| bip_39_word_underscore_5 | puzzle_come_amateur_borrow_absorb |  
+| bip_39_word_underscore_6 | puzzle_come_amateur_borrow_absorb_short |  
+| bip_39_word_underscore_7 | puzzle_come_amateur_borrow_absorb_short_wet |  
+| bip_39_word_underscore_8 | puzzle_come_amateur_borrow_absorb_short_wet_amused |  
+| bip_39_word_underscore_9 | puzzle_come_amateur_borrow_absorb_short_wet_amused_nest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

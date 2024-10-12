@@ -1,3 +1,15 @@
+bip_39_word_dash_1: puppy
+bip_39_word_dash_10: puppy-combine-member-morning-parent-sorry-gossip-menu-uncover-parent
+bip_39_word_dash_11: puppy-combine-member-morning-parent-sorry-gossip-menu-uncover-parent-today
+bip_39_word_dash_12: puppy-combine-member-morning-parent-sorry-gossip-menu-uncover-parent-today-appear
+bip_39_word_dash_2: puppy-combine
+bip_39_word_dash_3: puppy-combine-member
+bip_39_word_dash_4: puppy-combine-member-morning
+bip_39_word_dash_5: puppy-combine-member-morning-parent
+bip_39_word_dash_6: puppy-combine-member-morning-parent-sorry
+bip_39_word_dash_7: puppy-combine-member-morning-parent-sorry-gossip
+bip_39_word_dash_8: puppy-combine-member-morning-parent-sorry-gossip-menu
+bip_39_word_dash_9: puppy-combine-member-morning-parent-sorry-gossip-menu-uncover
 bip_39_word_new_br_1: puppy
 bip_39_word_new_br_10: puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu<br>uncover<br>parent
 bip_39_word_new_br_11: puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu<br>uncover<br>parent<br>today
@@ -194,6 +206,18 @@ bip_39_word_space_6: puppy combine member morning parent sorry
 bip_39_word_space_7: puppy combine member morning parent sorry gossip
 bip_39_word_space_8: puppy combine member morning parent sorry gossip menu
 bip_39_word_space_9: puppy combine member morning parent sorry gossip menu uncover
+bip_39_word_underscore_1: puppy
+bip_39_word_underscore_10: puppy_combine_member_morning_parent_sorry_gossip_menu_uncover_parent
+bip_39_word_underscore_11: puppy_combine_member_morning_parent_sorry_gossip_menu_uncover_parent_today
+bip_39_word_underscore_12: puppy_combine_member_morning_parent_sorry_gossip_menu_uncover_parent_today_appear
+bip_39_word_underscore_2: puppy_combine
+bip_39_word_underscore_3: puppy_combine_member
+bip_39_word_underscore_4: puppy_combine_member_morning
+bip_39_word_underscore_5: puppy_combine_member_morning_parent
+bip_39_word_underscore_6: puppy_combine_member_morning_parent_sorry
+bip_39_word_underscore_7: puppy_combine_member_morning_parent_sorry_gossip
+bip_39_word_underscore_8: puppy_combine_member_morning_parent_sorry_gossip_menu
+bip_39_word_underscore_9: puppy_combine_member_morning_parent_sorry_gossip_menu_uncover
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

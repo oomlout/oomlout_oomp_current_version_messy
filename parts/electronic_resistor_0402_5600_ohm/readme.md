@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sing |  
+| bip_39_word_dash_10 | sing-liberty-deposit-vacant-smoke-clap-jewel-hobby-vessel-uncover |  
+| bip_39_word_dash_11 | sing-liberty-deposit-vacant-smoke-clap-jewel-hobby-vessel-uncover-oblige |  
+| bip_39_word_dash_12 | sing-liberty-deposit-vacant-smoke-clap-jewel-hobby-vessel-uncover-oblige-anger |  
+| bip_39_word_dash_2 | sing-liberty |  
+| bip_39_word_dash_3 | sing-liberty-deposit |  
+| bip_39_word_dash_4 | sing-liberty-deposit-vacant |  
+| bip_39_word_dash_5 | sing-liberty-deposit-vacant-smoke |  
+| bip_39_word_dash_6 | sing-liberty-deposit-vacant-smoke-clap |  
+| bip_39_word_dash_7 | sing-liberty-deposit-vacant-smoke-clap-jewel |  
+| bip_39_word_dash_8 | sing-liberty-deposit-vacant-smoke-clap-jewel-hobby |  
+| bip_39_word_dash_9 | sing-liberty-deposit-vacant-smoke-clap-jewel-hobby-vessel |  
 | bip_39_word_new_br_1 | sing |  
 | bip_39_word_new_br_10 | sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover |  
 | bip_39_word_new_br_11 | sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover<br>oblige |  
@@ -147,6 +159,18 @@ vessel |
 | bip_39_word_space_7 | sing liberty deposit vacant smoke clap jewel |  
 | bip_39_word_space_8 | sing liberty deposit vacant smoke clap jewel hobby |  
 | bip_39_word_space_9 | sing liberty deposit vacant smoke clap jewel hobby vessel |  
+| bip_39_word_underscore_1 | sing |  
+| bip_39_word_underscore_10 | sing_liberty_deposit_vacant_smoke_clap_jewel_hobby_vessel_uncover |  
+| bip_39_word_underscore_11 | sing_liberty_deposit_vacant_smoke_clap_jewel_hobby_vessel_uncover_oblige |  
+| bip_39_word_underscore_12 | sing_liberty_deposit_vacant_smoke_clap_jewel_hobby_vessel_uncover_oblige_anger |  
+| bip_39_word_underscore_2 | sing_liberty |  
+| bip_39_word_underscore_3 | sing_liberty_deposit |  
+| bip_39_word_underscore_4 | sing_liberty_deposit_vacant |  
+| bip_39_word_underscore_5 | sing_liberty_deposit_vacant_smoke |  
+| bip_39_word_underscore_6 | sing_liberty_deposit_vacant_smoke_clap |  
+| bip_39_word_underscore_7 | sing_liberty_deposit_vacant_smoke_clap_jewel |  
+| bip_39_word_underscore_8 | sing_liberty_deposit_vacant_smoke_clap_jewel_hobby |  
+| bip_39_word_underscore_9 | sing_liberty_deposit_vacant_smoke_clap_jewel_hobby_vessel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pact |  
+| bip_39_word_dash_10 | pact-noble-possible-maximum-there-elder-genius-uncover-private-flavor |  
+| bip_39_word_dash_11 | pact-noble-possible-maximum-there-elder-genius-uncover-private-flavor-come |  
+| bip_39_word_dash_12 | pact-noble-possible-maximum-there-elder-genius-uncover-private-flavor-come-atom |  
+| bip_39_word_dash_2 | pact-noble |  
+| bip_39_word_dash_3 | pact-noble-possible |  
+| bip_39_word_dash_4 | pact-noble-possible-maximum |  
+| bip_39_word_dash_5 | pact-noble-possible-maximum-there |  
+| bip_39_word_dash_6 | pact-noble-possible-maximum-there-elder |  
+| bip_39_word_dash_7 | pact-noble-possible-maximum-there-elder-genius |  
+| bip_39_word_dash_8 | pact-noble-possible-maximum-there-elder-genius-uncover |  
+| bip_39_word_dash_9 | pact-noble-possible-maximum-there-elder-genius-uncover-private |  
 | bip_39_word_new_br_1 | pact |  
 | bip_39_word_new_br_10 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor |  
 | bip_39_word_new_br_11 | pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor<br>come |  
@@ -147,6 +159,18 @@ private |
 | bip_39_word_space_7 | pact noble possible maximum there elder genius |  
 | bip_39_word_space_8 | pact noble possible maximum there elder genius uncover |  
 | bip_39_word_space_9 | pact noble possible maximum there elder genius uncover private |  
+| bip_39_word_underscore_1 | pact |  
+| bip_39_word_underscore_10 | pact_noble_possible_maximum_there_elder_genius_uncover_private_flavor |  
+| bip_39_word_underscore_11 | pact_noble_possible_maximum_there_elder_genius_uncover_private_flavor_come |  
+| bip_39_word_underscore_12 | pact_noble_possible_maximum_there_elder_genius_uncover_private_flavor_come_atom |  
+| bip_39_word_underscore_2 | pact_noble |  
+| bip_39_word_underscore_3 | pact_noble_possible |  
+| bip_39_word_underscore_4 | pact_noble_possible_maximum |  
+| bip_39_word_underscore_5 | pact_noble_possible_maximum_there |  
+| bip_39_word_underscore_6 | pact_noble_possible_maximum_there_elder |  
+| bip_39_word_underscore_7 | pact_noble_possible_maximum_there_elder_genius |  
+| bip_39_word_underscore_8 | pact_noble_possible_maximum_there_elder_genius_uncover |  
+| bip_39_word_underscore_9 | pact_noble_possible_maximum_there_elder_genius_uncover_private |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

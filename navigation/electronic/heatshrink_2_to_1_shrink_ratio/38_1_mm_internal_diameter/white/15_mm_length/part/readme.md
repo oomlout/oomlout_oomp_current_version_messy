@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wash |  
+| bip_39_word_dash_10 | wash-sniff-tide-student-display-unique-glass-arrive-web-make |  
+| bip_39_word_dash_11 | wash-sniff-tide-student-display-unique-glass-arrive-web-make-super |  
+| bip_39_word_dash_12 | wash-sniff-tide-student-display-unique-glass-arrive-web-make-super-attract |  
+| bip_39_word_dash_2 | wash-sniff |  
+| bip_39_word_dash_3 | wash-sniff-tide |  
+| bip_39_word_dash_4 | wash-sniff-tide-student |  
+| bip_39_word_dash_5 | wash-sniff-tide-student-display |  
+| bip_39_word_dash_6 | wash-sniff-tide-student-display-unique |  
+| bip_39_word_dash_7 | wash-sniff-tide-student-display-unique-glass |  
+| bip_39_word_dash_8 | wash-sniff-tide-student-display-unique-glass-arrive |  
+| bip_39_word_dash_9 | wash-sniff-tide-student-display-unique-glass-arrive-web |  
 | bip_39_word_new_br_1 | wash |  
 | bip_39_word_new_br_10 | wash<br>sniff<br>tide<br>student<br>display<br>unique<br>glass<br>arrive<br>web<br>make |  
 | bip_39_word_new_br_11 | wash<br>sniff<br>tide<br>student<br>display<br>unique<br>glass<br>arrive<br>web<br>make<br>super |  
@@ -147,6 +159,18 @@ web |
 | bip_39_word_space_7 | wash sniff tide student display unique glass |  
 | bip_39_word_space_8 | wash sniff tide student display unique glass arrive |  
 | bip_39_word_space_9 | wash sniff tide student display unique glass arrive web |  
+| bip_39_word_underscore_1 | wash |  
+| bip_39_word_underscore_10 | wash_sniff_tide_student_display_unique_glass_arrive_web_make |  
+| bip_39_word_underscore_11 | wash_sniff_tide_student_display_unique_glass_arrive_web_make_super |  
+| bip_39_word_underscore_12 | wash_sniff_tide_student_display_unique_glass_arrive_web_make_super_attract |  
+| bip_39_word_underscore_2 | wash_sniff |  
+| bip_39_word_underscore_3 | wash_sniff_tide |  
+| bip_39_word_underscore_4 | wash_sniff_tide_student |  
+| bip_39_word_underscore_5 | wash_sniff_tide_student_display |  
+| bip_39_word_underscore_6 | wash_sniff_tide_student_display_unique |  
+| bip_39_word_underscore_7 | wash_sniff_tide_student_display_unique_glass |  
+| bip_39_word_underscore_8 | wash_sniff_tide_student_display_unique_glass_arrive |  
+| bip_39_word_underscore_9 | wash_sniff_tide_student_display_unique_glass_arrive_web |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

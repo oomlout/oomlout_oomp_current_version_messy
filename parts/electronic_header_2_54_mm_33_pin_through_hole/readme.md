@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | code |  
+| bip_39_word_dash_10 | code-about-oven-law-cruel-general-broom-pill-under-thing |  
+| bip_39_word_dash_11 | code-about-oven-law-cruel-general-broom-pill-under-thing-age |  
+| bip_39_word_dash_12 | code-about-oven-law-cruel-general-broom-pill-under-thing-age-auto |  
+| bip_39_word_dash_2 | code-about |  
+| bip_39_word_dash_3 | code-about-oven |  
+| bip_39_word_dash_4 | code-about-oven-law |  
+| bip_39_word_dash_5 | code-about-oven-law-cruel |  
+| bip_39_word_dash_6 | code-about-oven-law-cruel-general |  
+| bip_39_word_dash_7 | code-about-oven-law-cruel-general-broom |  
+| bip_39_word_dash_8 | code-about-oven-law-cruel-general-broom-pill |  
+| bip_39_word_dash_9 | code-about-oven-law-cruel-general-broom-pill-under |  
 | bip_39_word_new_br_1 | code |  
 | bip_39_word_new_br_10 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill<br>under<br>thing |  
 | bip_39_word_new_br_11 | code<br>about<br>oven<br>law<br>cruel<br>general<br>broom<br>pill<br>under<br>thing<br>age |  
@@ -147,6 +159,18 @@ under |
 | bip_39_word_space_7 | code about oven law cruel general broom |  
 | bip_39_word_space_8 | code about oven law cruel general broom pill |  
 | bip_39_word_space_9 | code about oven law cruel general broom pill under |  
+| bip_39_word_underscore_1 | code |  
+| bip_39_word_underscore_10 | code_about_oven_law_cruel_general_broom_pill_under_thing |  
+| bip_39_word_underscore_11 | code_about_oven_law_cruel_general_broom_pill_under_thing_age |  
+| bip_39_word_underscore_12 | code_about_oven_law_cruel_general_broom_pill_under_thing_age_auto |  
+| bip_39_word_underscore_2 | code_about |  
+| bip_39_word_underscore_3 | code_about_oven |  
+| bip_39_word_underscore_4 | code_about_oven_law |  
+| bip_39_word_underscore_5 | code_about_oven_law_cruel |  
+| bip_39_word_underscore_6 | code_about_oven_law_cruel_general |  
+| bip_39_word_underscore_7 | code_about_oven_law_cruel_general_broom |  
+| bip_39_word_underscore_8 | code_about_oven_law_cruel_general_broom_pill |  
+| bip_39_word_underscore_9 | code_about_oven_law_cruel_general_broom_pill_under |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

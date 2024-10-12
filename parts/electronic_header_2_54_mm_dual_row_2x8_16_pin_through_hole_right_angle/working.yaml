@@ -1,3 +1,15 @@
+bip_39_word_dash_1: utility
+bip_39_word_dash_10: utility-critic-tornado-churn-post-total-color-cousin-tone-unaware
+bip_39_word_dash_11: utility-critic-tornado-churn-post-total-color-cousin-tone-unaware-radio
+bip_39_word_dash_12: utility-critic-tornado-churn-post-total-color-cousin-tone-unaware-radio-armor
+bip_39_word_dash_2: utility-critic
+bip_39_word_dash_3: utility-critic-tornado
+bip_39_word_dash_4: utility-critic-tornado-churn
+bip_39_word_dash_5: utility-critic-tornado-churn-post
+bip_39_word_dash_6: utility-critic-tornado-churn-post-total
+bip_39_word_dash_7: utility-critic-tornado-churn-post-total-color
+bip_39_word_dash_8: utility-critic-tornado-churn-post-total-color-cousin
+bip_39_word_dash_9: utility-critic-tornado-churn-post-total-color-cousin-tone
 bip_39_word_new_br_1: utility
 bip_39_word_new_br_10: utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin<br>tone<br>unaware
 bip_39_word_new_br_11: utility<br>critic<br>tornado<br>churn<br>post<br>total<br>color<br>cousin<br>tone<br>unaware<br>radio
@@ -193,6 +205,18 @@ bip_39_word_space_6: utility critic tornado churn post total
 bip_39_word_space_7: utility critic tornado churn post total color
 bip_39_word_space_8: utility critic tornado churn post total color cousin
 bip_39_word_space_9: utility critic tornado churn post total color cousin tone
+bip_39_word_underscore_1: utility
+bip_39_word_underscore_10: utility_critic_tornado_churn_post_total_color_cousin_tone_unaware
+bip_39_word_underscore_11: utility_critic_tornado_churn_post_total_color_cousin_tone_unaware_radio
+bip_39_word_underscore_12: utility_critic_tornado_churn_post_total_color_cousin_tone_unaware_radio_armor
+bip_39_word_underscore_2: utility_critic
+bip_39_word_underscore_3: utility_critic_tornado
+bip_39_word_underscore_4: utility_critic_tornado_churn
+bip_39_word_underscore_5: utility_critic_tornado_churn_post
+bip_39_word_underscore_6: utility_critic_tornado_churn_post_total
+bip_39_word_underscore_7: utility_critic_tornado_churn_post_total_color
+bip_39_word_underscore_8: utility_critic_tornado_churn_post_total_color_cousin
+bip_39_word_underscore_9: utility_critic_tornado_churn_post_total_color_cousin_tone
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

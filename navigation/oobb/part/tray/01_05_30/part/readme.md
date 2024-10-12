@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | allow |  
+| bip_39_word_dash_10 | allow-fantasy-muscle-message-ski-city-ridge-virtual-caught-mad |  
+| bip_39_word_dash_11 | allow-fantasy-muscle-message-ski-city-ridge-virtual-caught-mad-include |  
+| bip_39_word_dash_12 | allow-fantasy-muscle-message-ski-city-ridge-virtual-caught-mad-include-address |  
+| bip_39_word_dash_2 | allow-fantasy |  
+| bip_39_word_dash_3 | allow-fantasy-muscle |  
+| bip_39_word_dash_4 | allow-fantasy-muscle-message |  
+| bip_39_word_dash_5 | allow-fantasy-muscle-message-ski |  
+| bip_39_word_dash_6 | allow-fantasy-muscle-message-ski-city |  
+| bip_39_word_dash_7 | allow-fantasy-muscle-message-ski-city-ridge |  
+| bip_39_word_dash_8 | allow-fantasy-muscle-message-ski-city-ridge-virtual |  
+| bip_39_word_dash_9 | allow-fantasy-muscle-message-ski-city-ridge-virtual-caught |  
 | bip_39_word_new_br_1 | allow |  
 | bip_39_word_new_br_10 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad |  
 | bip_39_word_new_br_11 | allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad<br>include |  
@@ -147,6 +159,18 @@ caught |
 | bip_39_word_space_7 | allow fantasy muscle message ski city ridge |  
 | bip_39_word_space_8 | allow fantasy muscle message ski city ridge virtual |  
 | bip_39_word_space_9 | allow fantasy muscle message ski city ridge virtual caught |  
+| bip_39_word_underscore_1 | allow |  
+| bip_39_word_underscore_10 | allow_fantasy_muscle_message_ski_city_ridge_virtual_caught_mad |  
+| bip_39_word_underscore_11 | allow_fantasy_muscle_message_ski_city_ridge_virtual_caught_mad_include |  
+| bip_39_word_underscore_12 | allow_fantasy_muscle_message_ski_city_ridge_virtual_caught_mad_include_address |  
+| bip_39_word_underscore_2 | allow_fantasy |  
+| bip_39_word_underscore_3 | allow_fantasy_muscle |  
+| bip_39_word_underscore_4 | allow_fantasy_muscle_message |  
+| bip_39_word_underscore_5 | allow_fantasy_muscle_message_ski |  
+| bip_39_word_underscore_6 | allow_fantasy_muscle_message_ski_city |  
+| bip_39_word_underscore_7 | allow_fantasy_muscle_message_ski_city_ridge |  
+| bip_39_word_underscore_8 | allow_fantasy_muscle_message_ski_city_ridge_virtual |  
+| bip_39_word_underscore_9 | allow_fantasy_muscle_message_ski_city_ridge_virtual_caught |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

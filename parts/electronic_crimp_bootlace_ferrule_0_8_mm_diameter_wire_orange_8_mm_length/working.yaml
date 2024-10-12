@@ -1,3 +1,15 @@
+bip_39_word_dash_1: task
+bip_39_word_dash_10: task-east-grocery-express-bundle-attend-giraffe-cheap-assault-answer
+bip_39_word_dash_11: task-east-grocery-express-bundle-attend-giraffe-cheap-assault-answer-report
+bip_39_word_dash_12: task-east-grocery-express-bundle-attend-giraffe-cheap-assault-answer-report-arrange
+bip_39_word_dash_2: task-east
+bip_39_word_dash_3: task-east-grocery
+bip_39_word_dash_4: task-east-grocery-express
+bip_39_word_dash_5: task-east-grocery-express-bundle
+bip_39_word_dash_6: task-east-grocery-express-bundle-attend
+bip_39_word_dash_7: task-east-grocery-express-bundle-attend-giraffe
+bip_39_word_dash_8: task-east-grocery-express-bundle-attend-giraffe-cheap
+bip_39_word_dash_9: task-east-grocery-express-bundle-attend-giraffe-cheap-assault
 bip_39_word_new_br_1: task
 bip_39_word_new_br_10: task<br>east<br>grocery<br>express<br>bundle<br>attend<br>giraffe<br>cheap<br>assault<br>answer
 bip_39_word_new_br_11: task<br>east<br>grocery<br>express<br>bundle<br>attend<br>giraffe<br>cheap<br>assault<br>answer<br>report
@@ -194,6 +206,18 @@ bip_39_word_space_6: task east grocery express bundle attend
 bip_39_word_space_7: task east grocery express bundle attend giraffe
 bip_39_word_space_8: task east grocery express bundle attend giraffe cheap
 bip_39_word_space_9: task east grocery express bundle attend giraffe cheap assault
+bip_39_word_underscore_1: task
+bip_39_word_underscore_10: task_east_grocery_express_bundle_attend_giraffe_cheap_assault_answer
+bip_39_word_underscore_11: task_east_grocery_express_bundle_attend_giraffe_cheap_assault_answer_report
+bip_39_word_underscore_12: task_east_grocery_express_bundle_attend_giraffe_cheap_assault_answer_report_arrange
+bip_39_word_underscore_2: task_east
+bip_39_word_underscore_3: task_east_grocery
+bip_39_word_underscore_4: task_east_grocery_express
+bip_39_word_underscore_5: task_east_grocery_express_bundle
+bip_39_word_underscore_6: task_east_grocery_express_bundle_attend
+bip_39_word_underscore_7: task_east_grocery_express_bundle_attend_giraffe
+bip_39_word_underscore_8: task_east_grocery_express_bundle_attend_giraffe_cheap
+bip_39_word_underscore_9: task_east_grocery_express_bundle_attend_giraffe_cheap_assault
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

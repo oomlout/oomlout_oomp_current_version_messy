@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silent |  
+| bip_39_word_dash_10 | silent-desert-receive-reopen-embrace-item-alone-demand-swamp-any |  
+| bip_39_word_dash_11 | silent-desert-receive-reopen-embrace-item-alone-demand-swamp-any-couch |  
+| bip_39_word_dash_12 | silent-desert-receive-reopen-embrace-item-alone-demand-swamp-any-couch-affair |  
+| bip_39_word_dash_2 | silent-desert |  
+| bip_39_word_dash_3 | silent-desert-receive |  
+| bip_39_word_dash_4 | silent-desert-receive-reopen |  
+| bip_39_word_dash_5 | silent-desert-receive-reopen-embrace |  
+| bip_39_word_dash_6 | silent-desert-receive-reopen-embrace-item |  
+| bip_39_word_dash_7 | silent-desert-receive-reopen-embrace-item-alone |  
+| bip_39_word_dash_8 | silent-desert-receive-reopen-embrace-item-alone-demand |  
+| bip_39_word_dash_9 | silent-desert-receive-reopen-embrace-item-alone-demand-swamp |  
 | bip_39_word_new_br_1 | silent |  
 | bip_39_word_new_br_10 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand<br>swamp<br>any |  
 | bip_39_word_new_br_11 | silent<br>desert<br>receive<br>reopen<br>embrace<br>item<br>alone<br>demand<br>swamp<br>any<br>couch |  
@@ -147,6 +159,18 @@ swamp |
 | bip_39_word_space_7 | silent desert receive reopen embrace item alone |  
 | bip_39_word_space_8 | silent desert receive reopen embrace item alone demand |  
 | bip_39_word_space_9 | silent desert receive reopen embrace item alone demand swamp |  
+| bip_39_word_underscore_1 | silent |  
+| bip_39_word_underscore_10 | silent_desert_receive_reopen_embrace_item_alone_demand_swamp_any |  
+| bip_39_word_underscore_11 | silent_desert_receive_reopen_embrace_item_alone_demand_swamp_any_couch |  
+| bip_39_word_underscore_12 | silent_desert_receive_reopen_embrace_item_alone_demand_swamp_any_couch_affair |  
+| bip_39_word_underscore_2 | silent_desert |  
+| bip_39_word_underscore_3 | silent_desert_receive |  
+| bip_39_word_underscore_4 | silent_desert_receive_reopen |  
+| bip_39_word_underscore_5 | silent_desert_receive_reopen_embrace |  
+| bip_39_word_underscore_6 | silent_desert_receive_reopen_embrace_item |  
+| bip_39_word_underscore_7 | silent_desert_receive_reopen_embrace_item_alone |  
+| bip_39_word_underscore_8 | silent_desert_receive_reopen_embrace_item_alone_demand |  
+| bip_39_word_underscore_9 | silent_desert_receive_reopen_embrace_item_alone_demand_swamp |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

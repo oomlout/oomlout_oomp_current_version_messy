@@ -1,3 +1,15 @@
+bip_39_word_dash_1: horse
+bip_39_word_dash_10: horse-father-mad-skull-slush-clean-fork-excuse-play-marine
+bip_39_word_dash_11: horse-father-mad-skull-slush-clean-fork-excuse-play-marine-smart
+bip_39_word_dash_12: horse-father-mad-skull-slush-clean-fork-excuse-play-marine-smart-arrest
+bip_39_word_dash_2: horse-father
+bip_39_word_dash_3: horse-father-mad
+bip_39_word_dash_4: horse-father-mad-skull
+bip_39_word_dash_5: horse-father-mad-skull-slush
+bip_39_word_dash_6: horse-father-mad-skull-slush-clean
+bip_39_word_dash_7: horse-father-mad-skull-slush-clean-fork
+bip_39_word_dash_8: horse-father-mad-skull-slush-clean-fork-excuse
+bip_39_word_dash_9: horse-father-mad-skull-slush-clean-fork-excuse-play
 bip_39_word_new_br_1: horse
 bip_39_word_new_br_10: horse<br>father<br>mad<br>skull<br>slush<br>clean<br>fork<br>excuse<br>play<br>marine
 bip_39_word_new_br_11: horse<br>father<br>mad<br>skull<br>slush<br>clean<br>fork<br>excuse<br>play<br>marine<br>smart
@@ -192,6 +204,18 @@ bip_39_word_space_6: horse father mad skull slush clean
 bip_39_word_space_7: horse father mad skull slush clean fork
 bip_39_word_space_8: horse father mad skull slush clean fork excuse
 bip_39_word_space_9: horse father mad skull slush clean fork excuse play
+bip_39_word_underscore_1: horse
+bip_39_word_underscore_10: horse_father_mad_skull_slush_clean_fork_excuse_play_marine
+bip_39_word_underscore_11: horse_father_mad_skull_slush_clean_fork_excuse_play_marine_smart
+bip_39_word_underscore_12: horse_father_mad_skull_slush_clean_fork_excuse_play_marine_smart_arrest
+bip_39_word_underscore_2: horse_father
+bip_39_word_underscore_3: horse_father_mad
+bip_39_word_underscore_4: horse_father_mad_skull
+bip_39_word_underscore_5: horse_father_mad_skull_slush
+bip_39_word_underscore_6: horse_father_mad_skull_slush_clean
+bip_39_word_underscore_7: horse_father_mad_skull_slush_clean_fork
+bip_39_word_underscore_8: horse_father_mad_skull_slush_clean_fork_excuse
+bip_39_word_underscore_9: horse_father_mad_skull_slush_clean_fork_excuse_play
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

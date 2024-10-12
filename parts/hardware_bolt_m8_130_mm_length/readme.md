@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spawn |  
+| bip_39_word_dash_10 | spawn-among-asthma-believe-injury-lava-dad-moment-economy-science |  
+| bip_39_word_dash_11 | spawn-among-asthma-believe-injury-lava-dad-moment-economy-science-client |  
+| bip_39_word_dash_12 | spawn-among-asthma-believe-injury-lava-dad-moment-economy-science-client-abstract |  
+| bip_39_word_dash_2 | spawn-among |  
+| bip_39_word_dash_3 | spawn-among-asthma |  
+| bip_39_word_dash_4 | spawn-among-asthma-believe |  
+| bip_39_word_dash_5 | spawn-among-asthma-believe-injury |  
+| bip_39_word_dash_6 | spawn-among-asthma-believe-injury-lava |  
+| bip_39_word_dash_7 | spawn-among-asthma-believe-injury-lava-dad |  
+| bip_39_word_dash_8 | spawn-among-asthma-believe-injury-lava-dad-moment |  
+| bip_39_word_dash_9 | spawn-among-asthma-believe-injury-lava-dad-moment-economy |  
 | bip_39_word_new_br_1 | spawn |  
 | bip_39_word_new_br_10 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science |  
 | bip_39_word_new_br_11 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science<br>client |  
@@ -147,6 +159,18 @@ economy |
 | bip_39_word_space_7 | spawn among asthma believe injury lava dad |  
 | bip_39_word_space_8 | spawn among asthma believe injury lava dad moment |  
 | bip_39_word_space_9 | spawn among asthma believe injury lava dad moment economy |  
+| bip_39_word_underscore_1 | spawn |  
+| bip_39_word_underscore_10 | spawn_among_asthma_believe_injury_lava_dad_moment_economy_science |  
+| bip_39_word_underscore_11 | spawn_among_asthma_believe_injury_lava_dad_moment_economy_science_client |  
+| bip_39_word_underscore_12 | spawn_among_asthma_believe_injury_lava_dad_moment_economy_science_client_abstract |  
+| bip_39_word_underscore_2 | spawn_among |  
+| bip_39_word_underscore_3 | spawn_among_asthma |  
+| bip_39_word_underscore_4 | spawn_among_asthma_believe |  
+| bip_39_word_underscore_5 | spawn_among_asthma_believe_injury |  
+| bip_39_word_underscore_6 | spawn_among_asthma_believe_injury_lava |  
+| bip_39_word_underscore_7 | spawn_among_asthma_believe_injury_lava_dad |  
+| bip_39_word_underscore_8 | spawn_among_asthma_believe_injury_lava_dad_moment |  
+| bip_39_word_underscore_9 | spawn_among_asthma_believe_injury_lava_dad_moment_economy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

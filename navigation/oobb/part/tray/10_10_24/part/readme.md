@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | second |  
+| bip_39_word_dash_10 | second-before-price-nominee-evoke-zebra-hunt-rifle-proof-exclude |  
+| bip_39_word_dash_11 | second-before-price-nominee-evoke-zebra-hunt-rifle-proof-exclude-benefit |  
+| bip_39_word_dash_12 | second-before-price-nominee-evoke-zebra-hunt-rifle-proof-exclude-benefit-agent |  
+| bip_39_word_dash_2 | second-before |  
+| bip_39_word_dash_3 | second-before-price |  
+| bip_39_word_dash_4 | second-before-price-nominee |  
+| bip_39_word_dash_5 | second-before-price-nominee-evoke |  
+| bip_39_word_dash_6 | second-before-price-nominee-evoke-zebra |  
+| bip_39_word_dash_7 | second-before-price-nominee-evoke-zebra-hunt |  
+| bip_39_word_dash_8 | second-before-price-nominee-evoke-zebra-hunt-rifle |  
+| bip_39_word_dash_9 | second-before-price-nominee-evoke-zebra-hunt-rifle-proof |  
 | bip_39_word_new_br_1 | second |  
 | bip_39_word_new_br_10 | second<br>before<br>price<br>nominee<br>evoke<br>zebra<br>hunt<br>rifle<br>proof<br>exclude |  
 | bip_39_word_new_br_11 | second<br>before<br>price<br>nominee<br>evoke<br>zebra<br>hunt<br>rifle<br>proof<br>exclude<br>benefit |  
@@ -147,6 +159,18 @@ proof |
 | bip_39_word_space_7 | second before price nominee evoke zebra hunt |  
 | bip_39_word_space_8 | second before price nominee evoke zebra hunt rifle |  
 | bip_39_word_space_9 | second before price nominee evoke zebra hunt rifle proof |  
+| bip_39_word_underscore_1 | second |  
+| bip_39_word_underscore_10 | second_before_price_nominee_evoke_zebra_hunt_rifle_proof_exclude |  
+| bip_39_word_underscore_11 | second_before_price_nominee_evoke_zebra_hunt_rifle_proof_exclude_benefit |  
+| bip_39_word_underscore_12 | second_before_price_nominee_evoke_zebra_hunt_rifle_proof_exclude_benefit_agent |  
+| bip_39_word_underscore_2 | second_before |  
+| bip_39_word_underscore_3 | second_before_price |  
+| bip_39_word_underscore_4 | second_before_price_nominee |  
+| bip_39_word_underscore_5 | second_before_price_nominee_evoke |  
+| bip_39_word_underscore_6 | second_before_price_nominee_evoke_zebra |  
+| bip_39_word_underscore_7 | second_before_price_nominee_evoke_zebra_hunt |  
+| bip_39_word_underscore_8 | second_before_price_nominee_evoke_zebra_hunt_rifle |  
+| bip_39_word_underscore_9 | second_before_price_nominee_evoke_zebra_hunt_rifle_proof |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

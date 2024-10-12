@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | million |  
+| bip_39_word_dash_10 | million-region-blast-traffic-quarter-end-sniff-rug-history-urban |  
+| bip_39_word_dash_11 | million-region-blast-traffic-quarter-end-sniff-rug-history-urban-salon |  
+| bip_39_word_dash_12 | million-region-blast-traffic-quarter-end-sniff-rug-history-urban-salon-assist |  
+| bip_39_word_dash_2 | million-region |  
+| bip_39_word_dash_3 | million-region-blast |  
+| bip_39_word_dash_4 | million-region-blast-traffic |  
+| bip_39_word_dash_5 | million-region-blast-traffic-quarter |  
+| bip_39_word_dash_6 | million-region-blast-traffic-quarter-end |  
+| bip_39_word_dash_7 | million-region-blast-traffic-quarter-end-sniff |  
+| bip_39_word_dash_8 | million-region-blast-traffic-quarter-end-sniff-rug |  
+| bip_39_word_dash_9 | million-region-blast-traffic-quarter-end-sniff-rug-history |  
 | bip_39_word_new_br_1 | million |  
 | bip_39_word_new_br_10 | million<br>region<br>blast<br>traffic<br>quarter<br>end<br>sniff<br>rug<br>history<br>urban |  
 | bip_39_word_new_br_11 | million<br>region<br>blast<br>traffic<br>quarter<br>end<br>sniff<br>rug<br>history<br>urban<br>salon |  
@@ -147,6 +159,18 @@ history |
 | bip_39_word_space_7 | million region blast traffic quarter end sniff |  
 | bip_39_word_space_8 | million region blast traffic quarter end sniff rug |  
 | bip_39_word_space_9 | million region blast traffic quarter end sniff rug history |  
+| bip_39_word_underscore_1 | million |  
+| bip_39_word_underscore_10 | million_region_blast_traffic_quarter_end_sniff_rug_history_urban |  
+| bip_39_word_underscore_11 | million_region_blast_traffic_quarter_end_sniff_rug_history_urban_salon |  
+| bip_39_word_underscore_12 | million_region_blast_traffic_quarter_end_sniff_rug_history_urban_salon_assist |  
+| bip_39_word_underscore_2 | million_region |  
+| bip_39_word_underscore_3 | million_region_blast |  
+| bip_39_word_underscore_4 | million_region_blast_traffic |  
+| bip_39_word_underscore_5 | million_region_blast_traffic_quarter |  
+| bip_39_word_underscore_6 | million_region_blast_traffic_quarter_end |  
+| bip_39_word_underscore_7 | million_region_blast_traffic_quarter_end_sniff |  
+| bip_39_word_underscore_8 | million_region_blast_traffic_quarter_end_sniff_rug |  
+| bip_39_word_underscore_9 | million_region_blast_traffic_quarter_end_sniff_rug_history |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | asthma |  
+| bip_39_word_dash_10 | asthma-evolve-group-only-axis-alarm-artwork-oxygen-razor-shove |  
+| bip_39_word_dash_11 | asthma-evolve-group-only-axis-alarm-artwork-oxygen-razor-shove-lunar |  
+| bip_39_word_dash_12 | asthma-evolve-group-only-axis-alarm-artwork-oxygen-razor-shove-lunar-advice |  
+| bip_39_word_dash_2 | asthma-evolve |  
+| bip_39_word_dash_3 | asthma-evolve-group |  
+| bip_39_word_dash_4 | asthma-evolve-group-only |  
+| bip_39_word_dash_5 | asthma-evolve-group-only-axis |  
+| bip_39_word_dash_6 | asthma-evolve-group-only-axis-alarm |  
+| bip_39_word_dash_7 | asthma-evolve-group-only-axis-alarm-artwork |  
+| bip_39_word_dash_8 | asthma-evolve-group-only-axis-alarm-artwork-oxygen |  
+| bip_39_word_dash_9 | asthma-evolve-group-only-axis-alarm-artwork-oxygen-razor |  
 | bip_39_word_new_br_1 | asthma |  
 | bip_39_word_new_br_10 | asthma<br>evolve<br>group<br>only<br>axis<br>alarm<br>artwork<br>oxygen<br>razor<br>shove |  
 | bip_39_word_new_br_11 | asthma<br>evolve<br>group<br>only<br>axis<br>alarm<br>artwork<br>oxygen<br>razor<br>shove<br>lunar |  
@@ -147,6 +159,18 @@ razor |
 | bip_39_word_space_7 | asthma evolve group only axis alarm artwork |  
 | bip_39_word_space_8 | asthma evolve group only axis alarm artwork oxygen |  
 | bip_39_word_space_9 | asthma evolve group only axis alarm artwork oxygen razor |  
+| bip_39_word_underscore_1 | asthma |  
+| bip_39_word_underscore_10 | asthma_evolve_group_only_axis_alarm_artwork_oxygen_razor_shove |  
+| bip_39_word_underscore_11 | asthma_evolve_group_only_axis_alarm_artwork_oxygen_razor_shove_lunar |  
+| bip_39_word_underscore_12 | asthma_evolve_group_only_axis_alarm_artwork_oxygen_razor_shove_lunar_advice |  
+| bip_39_word_underscore_2 | asthma_evolve |  
+| bip_39_word_underscore_3 | asthma_evolve_group |  
+| bip_39_word_underscore_4 | asthma_evolve_group_only |  
+| bip_39_word_underscore_5 | asthma_evolve_group_only_axis |  
+| bip_39_word_underscore_6 | asthma_evolve_group_only_axis_alarm |  
+| bip_39_word_underscore_7 | asthma_evolve_group_only_axis_alarm_artwork |  
+| bip_39_word_underscore_8 | asthma_evolve_group_only_axis_alarm_artwork_oxygen |  
+| bip_39_word_underscore_9 | asthma_evolve_group_only_axis_alarm_artwork_oxygen_razor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trust |  
+| bip_39_word_dash_10 | trust-motion-gadget-room-tumble-rent-wool-junk-furnace-spray |  
+| bip_39_word_dash_11 | trust-motion-gadget-room-tumble-rent-wool-junk-furnace-spray-round |  
+| bip_39_word_dash_12 | trust-motion-gadget-room-tumble-rent-wool-junk-furnace-spray-round-acquire |  
+| bip_39_word_dash_2 | trust-motion |  
+| bip_39_word_dash_3 | trust-motion-gadget |  
+| bip_39_word_dash_4 | trust-motion-gadget-room |  
+| bip_39_word_dash_5 | trust-motion-gadget-room-tumble |  
+| bip_39_word_dash_6 | trust-motion-gadget-room-tumble-rent |  
+| bip_39_word_dash_7 | trust-motion-gadget-room-tumble-rent-wool |  
+| bip_39_word_dash_8 | trust-motion-gadget-room-tumble-rent-wool-junk |  
+| bip_39_word_dash_9 | trust-motion-gadget-room-tumble-rent-wool-junk-furnace |  
 | bip_39_word_new_br_1 | trust |  
 | bip_39_word_new_br_10 | trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk<br>furnace<br>spray |  
 | bip_39_word_new_br_11 | trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk<br>furnace<br>spray<br>round |  
@@ -147,6 +159,18 @@ furnace |
 | bip_39_word_space_7 | trust motion gadget room tumble rent wool |  
 | bip_39_word_space_8 | trust motion gadget room tumble rent wool junk |  
 | bip_39_word_space_9 | trust motion gadget room tumble rent wool junk furnace |  
+| bip_39_word_underscore_1 | trust |  
+| bip_39_word_underscore_10 | trust_motion_gadget_room_tumble_rent_wool_junk_furnace_spray |  
+| bip_39_word_underscore_11 | trust_motion_gadget_room_tumble_rent_wool_junk_furnace_spray_round |  
+| bip_39_word_underscore_12 | trust_motion_gadget_room_tumble_rent_wool_junk_furnace_spray_round_acquire |  
+| bip_39_word_underscore_2 | trust_motion |  
+| bip_39_word_underscore_3 | trust_motion_gadget |  
+| bip_39_word_underscore_4 | trust_motion_gadget_room |  
+| bip_39_word_underscore_5 | trust_motion_gadget_room_tumble |  
+| bip_39_word_underscore_6 | trust_motion_gadget_room_tumble_rent |  
+| bip_39_word_underscore_7 | trust_motion_gadget_room_tumble_rent_wool |  
+| bip_39_word_underscore_8 | trust_motion_gadget_room_tumble_rent_wool_junk |  
+| bip_39_word_underscore_9 | trust_motion_gadget_room_tumble_rent_wool_junk_furnace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

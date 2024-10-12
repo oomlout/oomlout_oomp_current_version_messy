@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | marriage |  
+| bip_39_word_dash_10 | marriage-address-giraffe-leg-used-coast-rescue-grid-ball-inner |  
+| bip_39_word_dash_11 | marriage-address-giraffe-leg-used-coast-rescue-grid-ball-inner-dentist |  
+| bip_39_word_dash_12 | marriage-address-giraffe-leg-used-coast-rescue-grid-ball-inner-dentist-accuse |  
+| bip_39_word_dash_2 | marriage-address |  
+| bip_39_word_dash_3 | marriage-address-giraffe |  
+| bip_39_word_dash_4 | marriage-address-giraffe-leg |  
+| bip_39_word_dash_5 | marriage-address-giraffe-leg-used |  
+| bip_39_word_dash_6 | marriage-address-giraffe-leg-used-coast |  
+| bip_39_word_dash_7 | marriage-address-giraffe-leg-used-coast-rescue |  
+| bip_39_word_dash_8 | marriage-address-giraffe-leg-used-coast-rescue-grid |  
+| bip_39_word_dash_9 | marriage-address-giraffe-leg-used-coast-rescue-grid-ball |  
 | bip_39_word_new_br_1 | marriage |  
 | bip_39_word_new_br_10 | marriage<br>address<br>giraffe<br>leg<br>used<br>coast<br>rescue<br>grid<br>ball<br>inner |  
 | bip_39_word_new_br_11 | marriage<br>address<br>giraffe<br>leg<br>used<br>coast<br>rescue<br>grid<br>ball<br>inner<br>dentist |  
@@ -147,6 +159,18 @@ ball |
 | bip_39_word_space_7 | marriage address giraffe leg used coast rescue |  
 | bip_39_word_space_8 | marriage address giraffe leg used coast rescue grid |  
 | bip_39_word_space_9 | marriage address giraffe leg used coast rescue grid ball |  
+| bip_39_word_underscore_1 | marriage |  
+| bip_39_word_underscore_10 | marriage_address_giraffe_leg_used_coast_rescue_grid_ball_inner |  
+| bip_39_word_underscore_11 | marriage_address_giraffe_leg_used_coast_rescue_grid_ball_inner_dentist |  
+| bip_39_word_underscore_12 | marriage_address_giraffe_leg_used_coast_rescue_grid_ball_inner_dentist_accuse |  
+| bip_39_word_underscore_2 | marriage_address |  
+| bip_39_word_underscore_3 | marriage_address_giraffe |  
+| bip_39_word_underscore_4 | marriage_address_giraffe_leg |  
+| bip_39_word_underscore_5 | marriage_address_giraffe_leg_used |  
+| bip_39_word_underscore_6 | marriage_address_giraffe_leg_used_coast |  
+| bip_39_word_underscore_7 | marriage_address_giraffe_leg_used_coast_rescue |  
+| bip_39_word_underscore_8 | marriage_address_giraffe_leg_used_coast_rescue_grid |  
+| bip_39_word_underscore_9 | marriage_address_giraffe_leg_used_coast_rescue_grid_ball |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

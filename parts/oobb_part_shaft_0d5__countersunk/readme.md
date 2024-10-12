@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | runway |  
+| bip_39_word_dash_10 | runway-tube-fragile-kiss-spray-behind-gallery-violin-believe-hybrid |  
+| bip_39_word_dash_11 | runway-tube-fragile-kiss-spray-behind-gallery-violin-believe-hybrid-swap |  
+| bip_39_word_dash_12 | runway-tube-fragile-kiss-spray-behind-gallery-violin-believe-hybrid-swap-across |  
+| bip_39_word_dash_2 | runway-tube |  
+| bip_39_word_dash_3 | runway-tube-fragile |  
+| bip_39_word_dash_4 | runway-tube-fragile-kiss |  
+| bip_39_word_dash_5 | runway-tube-fragile-kiss-spray |  
+| bip_39_word_dash_6 | runway-tube-fragile-kiss-spray-behind |  
+| bip_39_word_dash_7 | runway-tube-fragile-kiss-spray-behind-gallery |  
+| bip_39_word_dash_8 | runway-tube-fragile-kiss-spray-behind-gallery-violin |  
+| bip_39_word_dash_9 | runway-tube-fragile-kiss-spray-behind-gallery-violin-believe |  
 | bip_39_word_new_br_1 | runway |  
 | bip_39_word_new_br_10 | runway<br>tube<br>fragile<br>kiss<br>spray<br>behind<br>gallery<br>violin<br>believe<br>hybrid |  
 | bip_39_word_new_br_11 | runway<br>tube<br>fragile<br>kiss<br>spray<br>behind<br>gallery<br>violin<br>believe<br>hybrid<br>swap |  
@@ -147,6 +159,18 @@ believe |
 | bip_39_word_space_7 | runway tube fragile kiss spray behind gallery |  
 | bip_39_word_space_8 | runway tube fragile kiss spray behind gallery violin |  
 | bip_39_word_space_9 | runway tube fragile kiss spray behind gallery violin believe |  
+| bip_39_word_underscore_1 | runway |  
+| bip_39_word_underscore_10 | runway_tube_fragile_kiss_spray_behind_gallery_violin_believe_hybrid |  
+| bip_39_word_underscore_11 | runway_tube_fragile_kiss_spray_behind_gallery_violin_believe_hybrid_swap |  
+| bip_39_word_underscore_12 | runway_tube_fragile_kiss_spray_behind_gallery_violin_believe_hybrid_swap_across |  
+| bip_39_word_underscore_2 | runway_tube |  
+| bip_39_word_underscore_3 | runway_tube_fragile |  
+| bip_39_word_underscore_4 | runway_tube_fragile_kiss |  
+| bip_39_word_underscore_5 | runway_tube_fragile_kiss_spray |  
+| bip_39_word_underscore_6 | runway_tube_fragile_kiss_spray_behind |  
+| bip_39_word_underscore_7 | runway_tube_fragile_kiss_spray_behind_gallery |  
+| bip_39_word_underscore_8 | runway_tube_fragile_kiss_spray_behind_gallery_violin |  
+| bip_39_word_underscore_9 | runway_tube_fragile_kiss_spray_behind_gallery_violin_believe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: legend
+bip_39_word_dash_10: legend-broccoli-regret-release-dog-depend-luggage-undo-upset-smooth
+bip_39_word_dash_11: legend-broccoli-regret-release-dog-depend-luggage-undo-upset-smooth-umbrella
+bip_39_word_dash_12: legend-broccoli-regret-release-dog-depend-luggage-undo-upset-smooth-umbrella-alarm
+bip_39_word_dash_2: legend-broccoli
+bip_39_word_dash_3: legend-broccoli-regret
+bip_39_word_dash_4: legend-broccoli-regret-release
+bip_39_word_dash_5: legend-broccoli-regret-release-dog
+bip_39_word_dash_6: legend-broccoli-regret-release-dog-depend
+bip_39_word_dash_7: legend-broccoli-regret-release-dog-depend-luggage
+bip_39_word_dash_8: legend-broccoli-regret-release-dog-depend-luggage-undo
+bip_39_word_dash_9: legend-broccoli-regret-release-dog-depend-luggage-undo-upset
 bip_39_word_new_br_1: legend
 bip_39_word_new_br_10: legend<br>broccoli<br>regret<br>release<br>dog<br>depend<br>luggage<br>undo<br>upset<br>smooth
 bip_39_word_new_br_11: legend<br>broccoli<br>regret<br>release<br>dog<br>depend<br>luggage<br>undo<br>upset<br>smooth<br>umbrella
@@ -194,6 +206,18 @@ bip_39_word_space_6: legend broccoli regret release dog depend
 bip_39_word_space_7: legend broccoli regret release dog depend luggage
 bip_39_word_space_8: legend broccoli regret release dog depend luggage undo
 bip_39_word_space_9: legend broccoli regret release dog depend luggage undo upset
+bip_39_word_underscore_1: legend
+bip_39_word_underscore_10: legend_broccoli_regret_release_dog_depend_luggage_undo_upset_smooth
+bip_39_word_underscore_11: legend_broccoli_regret_release_dog_depend_luggage_undo_upset_smooth_umbrella
+bip_39_word_underscore_12: legend_broccoli_regret_release_dog_depend_luggage_undo_upset_smooth_umbrella_alarm
+bip_39_word_underscore_2: legend_broccoli
+bip_39_word_underscore_3: legend_broccoli_regret
+bip_39_word_underscore_4: legend_broccoli_regret_release
+bip_39_word_underscore_5: legend_broccoli_regret_release_dog
+bip_39_word_underscore_6: legend_broccoli_regret_release_dog_depend
+bip_39_word_underscore_7: legend_broccoli_regret_release_dog_depend_luggage
+bip_39_word_underscore_8: legend_broccoli_regret_release_dog_depend_luggage_undo
+bip_39_word_underscore_9: legend_broccoli_regret_release_dog_depend_luggage_undo_upset
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

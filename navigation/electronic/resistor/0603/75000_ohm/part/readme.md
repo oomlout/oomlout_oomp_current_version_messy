@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | imitate |  
+| bip_39_word_dash_10 | imitate-case-ivory-various-leave-reflect-crush-tribe-begin-radar |  
+| bip_39_word_dash_11 | imitate-case-ivory-various-leave-reflect-crush-tribe-begin-radar-clog |  
+| bip_39_word_dash_12 | imitate-case-ivory-various-leave-reflect-crush-tribe-begin-radar-clog-aspect |  
+| bip_39_word_dash_2 | imitate-case |  
+| bip_39_word_dash_3 | imitate-case-ivory |  
+| bip_39_word_dash_4 | imitate-case-ivory-various |  
+| bip_39_word_dash_5 | imitate-case-ivory-various-leave |  
+| bip_39_word_dash_6 | imitate-case-ivory-various-leave-reflect |  
+| bip_39_word_dash_7 | imitate-case-ivory-various-leave-reflect-crush |  
+| bip_39_word_dash_8 | imitate-case-ivory-various-leave-reflect-crush-tribe |  
+| bip_39_word_dash_9 | imitate-case-ivory-various-leave-reflect-crush-tribe-begin |  
 | bip_39_word_new_br_1 | imitate |  
 | bip_39_word_new_br_10 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe<br>begin<br>radar |  
 | bip_39_word_new_br_11 | imitate<br>case<br>ivory<br>various<br>leave<br>reflect<br>crush<br>tribe<br>begin<br>radar<br>clog |  
@@ -147,6 +159,18 @@ begin |
 | bip_39_word_space_7 | imitate case ivory various leave reflect crush |  
 | bip_39_word_space_8 | imitate case ivory various leave reflect crush tribe |  
 | bip_39_word_space_9 | imitate case ivory various leave reflect crush tribe begin |  
+| bip_39_word_underscore_1 | imitate |  
+| bip_39_word_underscore_10 | imitate_case_ivory_various_leave_reflect_crush_tribe_begin_radar |  
+| bip_39_word_underscore_11 | imitate_case_ivory_various_leave_reflect_crush_tribe_begin_radar_clog |  
+| bip_39_word_underscore_12 | imitate_case_ivory_various_leave_reflect_crush_tribe_begin_radar_clog_aspect |  
+| bip_39_word_underscore_2 | imitate_case |  
+| bip_39_word_underscore_3 | imitate_case_ivory |  
+| bip_39_word_underscore_4 | imitate_case_ivory_various |  
+| bip_39_word_underscore_5 | imitate_case_ivory_various_leave |  
+| bip_39_word_underscore_6 | imitate_case_ivory_various_leave_reflect |  
+| bip_39_word_underscore_7 | imitate_case_ivory_various_leave_reflect_crush |  
+| bip_39_word_underscore_8 | imitate_case_ivory_various_leave_reflect_crush_tribe |  
+| bip_39_word_underscore_9 | imitate_case_ivory_various_leave_reflect_crush_tribe_begin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

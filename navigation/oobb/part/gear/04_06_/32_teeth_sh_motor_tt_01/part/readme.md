@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | palace |  
+| bip_39_word_dash_10 | palace-avoid-notable-twist-excite-sniff-prosper-daughter-snake-famous |  
+| bip_39_word_dash_11 | palace-avoid-notable-twist-excite-sniff-prosper-daughter-snake-famous-supply |  
+| bip_39_word_dash_12 | palace-avoid-notable-twist-excite-sniff-prosper-daughter-snake-famous-supply-alpha |  
+| bip_39_word_dash_2 | palace-avoid |  
+| bip_39_word_dash_3 | palace-avoid-notable |  
+| bip_39_word_dash_4 | palace-avoid-notable-twist |  
+| bip_39_word_dash_5 | palace-avoid-notable-twist-excite |  
+| bip_39_word_dash_6 | palace-avoid-notable-twist-excite-sniff |  
+| bip_39_word_dash_7 | palace-avoid-notable-twist-excite-sniff-prosper |  
+| bip_39_word_dash_8 | palace-avoid-notable-twist-excite-sniff-prosper-daughter |  
+| bip_39_word_dash_9 | palace-avoid-notable-twist-excite-sniff-prosper-daughter-snake |  
 | bip_39_word_new_br_1 | palace |  
 | bip_39_word_new_br_10 | palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous |  
 | bip_39_word_new_br_11 | palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous<br>supply |  
@@ -147,6 +159,18 @@ snake |
 | bip_39_word_space_7 | palace avoid notable twist excite sniff prosper |  
 | bip_39_word_space_8 | palace avoid notable twist excite sniff prosper daughter |  
 | bip_39_word_space_9 | palace avoid notable twist excite sniff prosper daughter snake |  
+| bip_39_word_underscore_1 | palace |  
+| bip_39_word_underscore_10 | palace_avoid_notable_twist_excite_sniff_prosper_daughter_snake_famous |  
+| bip_39_word_underscore_11 | palace_avoid_notable_twist_excite_sniff_prosper_daughter_snake_famous_supply |  
+| bip_39_word_underscore_12 | palace_avoid_notable_twist_excite_sniff_prosper_daughter_snake_famous_supply_alpha |  
+| bip_39_word_underscore_2 | palace_avoid |  
+| bip_39_word_underscore_3 | palace_avoid_notable |  
+| bip_39_word_underscore_4 | palace_avoid_notable_twist |  
+| bip_39_word_underscore_5 | palace_avoid_notable_twist_excite |  
+| bip_39_word_underscore_6 | palace_avoid_notable_twist_excite_sniff |  
+| bip_39_word_underscore_7 | palace_avoid_notable_twist_excite_sniff_prosper |  
+| bip_39_word_underscore_8 | palace_avoid_notable_twist_excite_sniff_prosper_daughter |  
+| bip_39_word_underscore_9 | palace_avoid_notable_twist_excite_sniff_prosper_daughter_snake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

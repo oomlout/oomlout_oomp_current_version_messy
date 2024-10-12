@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | govern |  
+| bip_39_word_dash_10 | govern-stem-upgrade-tank-shiver-gentle-aerobic-agree-used-flush |  
+| bip_39_word_dash_11 | govern-stem-upgrade-tank-shiver-gentle-aerobic-agree-used-flush-blouse |  
+| bip_39_word_dash_12 | govern-stem-upgrade-tank-shiver-gentle-aerobic-agree-used-flush-blouse-arrow |  
+| bip_39_word_dash_2 | govern-stem |  
+| bip_39_word_dash_3 | govern-stem-upgrade |  
+| bip_39_word_dash_4 | govern-stem-upgrade-tank |  
+| bip_39_word_dash_5 | govern-stem-upgrade-tank-shiver |  
+| bip_39_word_dash_6 | govern-stem-upgrade-tank-shiver-gentle |  
+| bip_39_word_dash_7 | govern-stem-upgrade-tank-shiver-gentle-aerobic |  
+| bip_39_word_dash_8 | govern-stem-upgrade-tank-shiver-gentle-aerobic-agree |  
+| bip_39_word_dash_9 | govern-stem-upgrade-tank-shiver-gentle-aerobic-agree-used |  
 | bip_39_word_new_br_1 | govern |  
 | bip_39_word_new_br_10 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush |  
 | bip_39_word_new_br_11 | govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush<br>blouse |  
@@ -147,6 +159,18 @@ used |
 | bip_39_word_space_7 | govern stem upgrade tank shiver gentle aerobic |  
 | bip_39_word_space_8 | govern stem upgrade tank shiver gentle aerobic agree |  
 | bip_39_word_space_9 | govern stem upgrade tank shiver gentle aerobic agree used |  
+| bip_39_word_underscore_1 | govern |  
+| bip_39_word_underscore_10 | govern_stem_upgrade_tank_shiver_gentle_aerobic_agree_used_flush |  
+| bip_39_word_underscore_11 | govern_stem_upgrade_tank_shiver_gentle_aerobic_agree_used_flush_blouse |  
+| bip_39_word_underscore_12 | govern_stem_upgrade_tank_shiver_gentle_aerobic_agree_used_flush_blouse_arrow |  
+| bip_39_word_underscore_2 | govern_stem |  
+| bip_39_word_underscore_3 | govern_stem_upgrade |  
+| bip_39_word_underscore_4 | govern_stem_upgrade_tank |  
+| bip_39_word_underscore_5 | govern_stem_upgrade_tank_shiver |  
+| bip_39_word_underscore_6 | govern_stem_upgrade_tank_shiver_gentle |  
+| bip_39_word_underscore_7 | govern_stem_upgrade_tank_shiver_gentle_aerobic |  
+| bip_39_word_underscore_8 | govern_stem_upgrade_tank_shiver_gentle_aerobic_agree |  
+| bip_39_word_underscore_9 | govern_stem_upgrade_tank_shiver_gentle_aerobic_agree_used |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

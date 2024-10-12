@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | push |  
+| bip_39_word_dash_10 | push-twin-report-coin-learn-very-exhibit-cute-state-include |  
+| bip_39_word_dash_11 | push-twin-report-coin-learn-very-exhibit-cute-state-include-media |  
+| bip_39_word_dash_12 | push-twin-report-coin-learn-very-exhibit-cute-state-include-media-announce |  
+| bip_39_word_dash_2 | push-twin |  
+| bip_39_word_dash_3 | push-twin-report |  
+| bip_39_word_dash_4 | push-twin-report-coin |  
+| bip_39_word_dash_5 | push-twin-report-coin-learn |  
+| bip_39_word_dash_6 | push-twin-report-coin-learn-very |  
+| bip_39_word_dash_7 | push-twin-report-coin-learn-very-exhibit |  
+| bip_39_word_dash_8 | push-twin-report-coin-learn-very-exhibit-cute |  
+| bip_39_word_dash_9 | push-twin-report-coin-learn-very-exhibit-cute-state |  
 | bip_39_word_new_br_1 | push |  
 | bip_39_word_new_br_10 | push<br>twin<br>report<br>coin<br>learn<br>very<br>exhibit<br>cute<br>state<br>include |  
 | bip_39_word_new_br_11 | push<br>twin<br>report<br>coin<br>learn<br>very<br>exhibit<br>cute<br>state<br>include<br>media |  
@@ -147,6 +159,18 @@ state |
 | bip_39_word_space_7 | push twin report coin learn very exhibit |  
 | bip_39_word_space_8 | push twin report coin learn very exhibit cute |  
 | bip_39_word_space_9 | push twin report coin learn very exhibit cute state |  
+| bip_39_word_underscore_1 | push |  
+| bip_39_word_underscore_10 | push_twin_report_coin_learn_very_exhibit_cute_state_include |  
+| bip_39_word_underscore_11 | push_twin_report_coin_learn_very_exhibit_cute_state_include_media |  
+| bip_39_word_underscore_12 | push_twin_report_coin_learn_very_exhibit_cute_state_include_media_announce |  
+| bip_39_word_underscore_2 | push_twin |  
+| bip_39_word_underscore_3 | push_twin_report |  
+| bip_39_word_underscore_4 | push_twin_report_coin |  
+| bip_39_word_underscore_5 | push_twin_report_coin_learn |  
+| bip_39_word_underscore_6 | push_twin_report_coin_learn_very |  
+| bip_39_word_underscore_7 | push_twin_report_coin_learn_very_exhibit |  
+| bip_39_word_underscore_8 | push_twin_report_coin_learn_very_exhibit_cute |  
+| bip_39_word_underscore_9 | push_twin_report_coin_learn_very_exhibit_cute_state |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blind
+bip_39_word_dash_10: blind-thought-combine-later-home-matrix-quiz-because-silent-quote
+bip_39_word_dash_11: blind-thought-combine-later-home-matrix-quiz-because-silent-quote-athlete
+bip_39_word_dash_12: blind-thought-combine-later-home-matrix-quiz-because-silent-quote-athlete-auto
+bip_39_word_dash_2: blind-thought
+bip_39_word_dash_3: blind-thought-combine
+bip_39_word_dash_4: blind-thought-combine-later
+bip_39_word_dash_5: blind-thought-combine-later-home
+bip_39_word_dash_6: blind-thought-combine-later-home-matrix
+bip_39_word_dash_7: blind-thought-combine-later-home-matrix-quiz
+bip_39_word_dash_8: blind-thought-combine-later-home-matrix-quiz-because
+bip_39_word_dash_9: blind-thought-combine-later-home-matrix-quiz-because-silent
 bip_39_word_new_br_1: blind
 bip_39_word_new_br_10: blind<br>thought<br>combine<br>later<br>home<br>matrix<br>quiz<br>because<br>silent<br>quote
 bip_39_word_new_br_11: blind<br>thought<br>combine<br>later<br>home<br>matrix<br>quiz<br>because<br>silent<br>quote<br>athlete
@@ -194,6 +206,18 @@ bip_39_word_space_6: blind thought combine later home matrix
 bip_39_word_space_7: blind thought combine later home matrix quiz
 bip_39_word_space_8: blind thought combine later home matrix quiz because
 bip_39_word_space_9: blind thought combine later home matrix quiz because silent
+bip_39_word_underscore_1: blind
+bip_39_word_underscore_10: blind_thought_combine_later_home_matrix_quiz_because_silent_quote
+bip_39_word_underscore_11: blind_thought_combine_later_home_matrix_quiz_because_silent_quote_athlete
+bip_39_word_underscore_12: blind_thought_combine_later_home_matrix_quiz_because_silent_quote_athlete_auto
+bip_39_word_underscore_2: blind_thought
+bip_39_word_underscore_3: blind_thought_combine
+bip_39_word_underscore_4: blind_thought_combine_later
+bip_39_word_underscore_5: blind_thought_combine_later_home
+bip_39_word_underscore_6: blind_thought_combine_later_home_matrix
+bip_39_word_underscore_7: blind_thought_combine_later_home_matrix_quiz
+bip_39_word_underscore_8: blind_thought_combine_later_home_matrix_quiz_because
+bip_39_word_underscore_9: blind_thought_combine_later_home_matrix_quiz_because_silent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

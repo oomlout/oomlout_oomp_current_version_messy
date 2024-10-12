@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tobacco
+bip_39_word_dash_10: tobacco-bike-donor-exit-insane-lecture-nut-purchase-laundry-amount
+bip_39_word_dash_11: tobacco-bike-donor-exit-insane-lecture-nut-purchase-laundry-amount-cheese
+bip_39_word_dash_12: tobacco-bike-donor-exit-insane-lecture-nut-purchase-laundry-amount-cheese-actor
+bip_39_word_dash_2: tobacco-bike
+bip_39_word_dash_3: tobacco-bike-donor
+bip_39_word_dash_4: tobacco-bike-donor-exit
+bip_39_word_dash_5: tobacco-bike-donor-exit-insane
+bip_39_word_dash_6: tobacco-bike-donor-exit-insane-lecture
+bip_39_word_dash_7: tobacco-bike-donor-exit-insane-lecture-nut
+bip_39_word_dash_8: tobacco-bike-donor-exit-insane-lecture-nut-purchase
+bip_39_word_dash_9: tobacco-bike-donor-exit-insane-lecture-nut-purchase-laundry
 bip_39_word_new_br_1: tobacco
 bip_39_word_new_br_10: tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase<br>laundry<br>amount
 bip_39_word_new_br_11: tobacco<br>bike<br>donor<br>exit<br>insane<br>lecture<br>nut<br>purchase<br>laundry<br>amount<br>cheese
@@ -194,6 +206,18 @@ bip_39_word_space_6: tobacco bike donor exit insane lecture
 bip_39_word_space_7: tobacco bike donor exit insane lecture nut
 bip_39_word_space_8: tobacco bike donor exit insane lecture nut purchase
 bip_39_word_space_9: tobacco bike donor exit insane lecture nut purchase laundry
+bip_39_word_underscore_1: tobacco
+bip_39_word_underscore_10: tobacco_bike_donor_exit_insane_lecture_nut_purchase_laundry_amount
+bip_39_word_underscore_11: tobacco_bike_donor_exit_insane_lecture_nut_purchase_laundry_amount_cheese
+bip_39_word_underscore_12: tobacco_bike_donor_exit_insane_lecture_nut_purchase_laundry_amount_cheese_actor
+bip_39_word_underscore_2: tobacco_bike
+bip_39_word_underscore_3: tobacco_bike_donor
+bip_39_word_underscore_4: tobacco_bike_donor_exit
+bip_39_word_underscore_5: tobacco_bike_donor_exit_insane
+bip_39_word_underscore_6: tobacco_bike_donor_exit_insane_lecture
+bip_39_word_underscore_7: tobacco_bike_donor_exit_insane_lecture_nut
+bip_39_word_underscore_8: tobacco_bike_donor_exit_insane_lecture_nut_purchase
+bip_39_word_underscore_9: tobacco_bike_donor_exit_insane_lecture_nut_purchase_laundry
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: once
+bip_39_word_dash_10: once-satisfy-fabric-cement-egg-dash-amused-economy-expect-movie
+bip_39_word_dash_11: once-satisfy-fabric-cement-egg-dash-amused-economy-expect-movie-doll
+bip_39_word_dash_12: once-satisfy-fabric-cement-egg-dash-amused-economy-expect-movie-doll-army
+bip_39_word_dash_2: once-satisfy
+bip_39_word_dash_3: once-satisfy-fabric
+bip_39_word_dash_4: once-satisfy-fabric-cement
+bip_39_word_dash_5: once-satisfy-fabric-cement-egg
+bip_39_word_dash_6: once-satisfy-fabric-cement-egg-dash
+bip_39_word_dash_7: once-satisfy-fabric-cement-egg-dash-amused
+bip_39_word_dash_8: once-satisfy-fabric-cement-egg-dash-amused-economy
+bip_39_word_dash_9: once-satisfy-fabric-cement-egg-dash-amused-economy-expect
 bip_39_word_new_br_1: once
 bip_39_word_new_br_10: once<br>satisfy<br>fabric<br>cement<br>egg<br>dash<br>amused<br>economy<br>expect<br>movie
 bip_39_word_new_br_11: once<br>satisfy<br>fabric<br>cement<br>egg<br>dash<br>amused<br>economy<br>expect<br>movie<br>doll
@@ -193,6 +205,18 @@ bip_39_word_space_6: once satisfy fabric cement egg dash
 bip_39_word_space_7: once satisfy fabric cement egg dash amused
 bip_39_word_space_8: once satisfy fabric cement egg dash amused economy
 bip_39_word_space_9: once satisfy fabric cement egg dash amused economy expect
+bip_39_word_underscore_1: once
+bip_39_word_underscore_10: once_satisfy_fabric_cement_egg_dash_amused_economy_expect_movie
+bip_39_word_underscore_11: once_satisfy_fabric_cement_egg_dash_amused_economy_expect_movie_doll
+bip_39_word_underscore_12: once_satisfy_fabric_cement_egg_dash_amused_economy_expect_movie_doll_army
+bip_39_word_underscore_2: once_satisfy
+bip_39_word_underscore_3: once_satisfy_fabric
+bip_39_word_underscore_4: once_satisfy_fabric_cement
+bip_39_word_underscore_5: once_satisfy_fabric_cement_egg
+bip_39_word_underscore_6: once_satisfy_fabric_cement_egg_dash
+bip_39_word_underscore_7: once_satisfy_fabric_cement_egg_dash_amused
+bip_39_word_underscore_8: once_satisfy_fabric_cement_egg_dash_amused_economy
+bip_39_word_underscore_9: once_satisfy_fabric_cement_egg_dash_amused_economy_expect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

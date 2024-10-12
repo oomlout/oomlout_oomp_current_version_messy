@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | report |  
+| bip_39_word_dash_10 | report-awesome-surprise-hammer-absorb-deal-soda-pupil-fine-opinion |  
+| bip_39_word_dash_11 | report-awesome-surprise-hammer-absorb-deal-soda-pupil-fine-opinion-game |  
+| bip_39_word_dash_12 | report-awesome-surprise-hammer-absorb-deal-soda-pupil-fine-opinion-game-anxiety |  
+| bip_39_word_dash_2 | report-awesome |  
+| bip_39_word_dash_3 | report-awesome-surprise |  
+| bip_39_word_dash_4 | report-awesome-surprise-hammer |  
+| bip_39_word_dash_5 | report-awesome-surprise-hammer-absorb |  
+| bip_39_word_dash_6 | report-awesome-surprise-hammer-absorb-deal |  
+| bip_39_word_dash_7 | report-awesome-surprise-hammer-absorb-deal-soda |  
+| bip_39_word_dash_8 | report-awesome-surprise-hammer-absorb-deal-soda-pupil |  
+| bip_39_word_dash_9 | report-awesome-surprise-hammer-absorb-deal-soda-pupil-fine |  
 | bip_39_word_new_br_1 | report |  
 | bip_39_word_new_br_10 | report<br>awesome<br>surprise<br>hammer<br>absorb<br>deal<br>soda<br>pupil<br>fine<br>opinion |  
 | bip_39_word_new_br_11 | report<br>awesome<br>surprise<br>hammer<br>absorb<br>deal<br>soda<br>pupil<br>fine<br>opinion<br>game |  
@@ -147,6 +159,18 @@ fine |
 | bip_39_word_space_7 | report awesome surprise hammer absorb deal soda |  
 | bip_39_word_space_8 | report awesome surprise hammer absorb deal soda pupil |  
 | bip_39_word_space_9 | report awesome surprise hammer absorb deal soda pupil fine |  
+| bip_39_word_underscore_1 | report |  
+| bip_39_word_underscore_10 | report_awesome_surprise_hammer_absorb_deal_soda_pupil_fine_opinion |  
+| bip_39_word_underscore_11 | report_awesome_surprise_hammer_absorb_deal_soda_pupil_fine_opinion_game |  
+| bip_39_word_underscore_12 | report_awesome_surprise_hammer_absorb_deal_soda_pupil_fine_opinion_game_anxiety |  
+| bip_39_word_underscore_2 | report_awesome |  
+| bip_39_word_underscore_3 | report_awesome_surprise |  
+| bip_39_word_underscore_4 | report_awesome_surprise_hammer |  
+| bip_39_word_underscore_5 | report_awesome_surprise_hammer_absorb |  
+| bip_39_word_underscore_6 | report_awesome_surprise_hammer_absorb_deal |  
+| bip_39_word_underscore_7 | report_awesome_surprise_hammer_absorb_deal_soda |  
+| bip_39_word_underscore_8 | report_awesome_surprise_hammer_absorb_deal_soda_pupil |  
+| bip_39_word_underscore_9 | report_awesome_surprise_hammer_absorb_deal_soda_pupil_fine |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

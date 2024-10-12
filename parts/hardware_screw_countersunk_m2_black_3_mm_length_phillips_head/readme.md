@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | obscure |  
+| bip_39_word_dash_10 | obscure-city-thrive-vehicle-cricket-near-trade-orphan-into-afford |  
+| bip_39_word_dash_11 | obscure-city-thrive-vehicle-cricket-near-trade-orphan-into-afford-fringe |  
+| bip_39_word_dash_12 | obscure-city-thrive-vehicle-cricket-near-trade-orphan-into-afford-fringe-account |  
+| bip_39_word_dash_2 | obscure-city |  
+| bip_39_word_dash_3 | obscure-city-thrive |  
+| bip_39_word_dash_4 | obscure-city-thrive-vehicle |  
+| bip_39_word_dash_5 | obscure-city-thrive-vehicle-cricket |  
+| bip_39_word_dash_6 | obscure-city-thrive-vehicle-cricket-near |  
+| bip_39_word_dash_7 | obscure-city-thrive-vehicle-cricket-near-trade |  
+| bip_39_word_dash_8 | obscure-city-thrive-vehicle-cricket-near-trade-orphan |  
+| bip_39_word_dash_9 | obscure-city-thrive-vehicle-cricket-near-trade-orphan-into |  
 | bip_39_word_new_br_1 | obscure |  
 | bip_39_word_new_br_10 | obscure<br>city<br>thrive<br>vehicle<br>cricket<br>near<br>trade<br>orphan<br>into<br>afford |  
 | bip_39_word_new_br_11 | obscure<br>city<br>thrive<br>vehicle<br>cricket<br>near<br>trade<br>orphan<br>into<br>afford<br>fringe |  
@@ -147,6 +159,18 @@ into |
 | bip_39_word_space_7 | obscure city thrive vehicle cricket near trade |  
 | bip_39_word_space_8 | obscure city thrive vehicle cricket near trade orphan |  
 | bip_39_word_space_9 | obscure city thrive vehicle cricket near trade orphan into |  
+| bip_39_word_underscore_1 | obscure |  
+| bip_39_word_underscore_10 | obscure_city_thrive_vehicle_cricket_near_trade_orphan_into_afford |  
+| bip_39_word_underscore_11 | obscure_city_thrive_vehicle_cricket_near_trade_orphan_into_afford_fringe |  
+| bip_39_word_underscore_12 | obscure_city_thrive_vehicle_cricket_near_trade_orphan_into_afford_fringe_account |  
+| bip_39_word_underscore_2 | obscure_city |  
+| bip_39_word_underscore_3 | obscure_city_thrive |  
+| bip_39_word_underscore_4 | obscure_city_thrive_vehicle |  
+| bip_39_word_underscore_5 | obscure_city_thrive_vehicle_cricket |  
+| bip_39_word_underscore_6 | obscure_city_thrive_vehicle_cricket_near |  
+| bip_39_word_underscore_7 | obscure_city_thrive_vehicle_cricket_near_trade |  
+| bip_39_word_underscore_8 | obscure_city_thrive_vehicle_cricket_near_trade_orphan |  
+| bip_39_word_underscore_9 | obscure_city_thrive_vehicle_cricket_near_trade_orphan_into |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

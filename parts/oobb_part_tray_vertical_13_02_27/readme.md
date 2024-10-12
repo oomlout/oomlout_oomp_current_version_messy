@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | napkin |  
+| bip_39_word_dash_10 | napkin-bus-puppy-sing-confirm-okay-tobacco-west-brain-album |  
+| bip_39_word_dash_11 | napkin-bus-puppy-sing-confirm-okay-tobacco-west-brain-album-phone |  
+| bip_39_word_dash_12 | napkin-bus-puppy-sing-confirm-okay-tobacco-west-brain-album-phone-alarm |  
+| bip_39_word_dash_2 | napkin-bus |  
+| bip_39_word_dash_3 | napkin-bus-puppy |  
+| bip_39_word_dash_4 | napkin-bus-puppy-sing |  
+| bip_39_word_dash_5 | napkin-bus-puppy-sing-confirm |  
+| bip_39_word_dash_6 | napkin-bus-puppy-sing-confirm-okay |  
+| bip_39_word_dash_7 | napkin-bus-puppy-sing-confirm-okay-tobacco |  
+| bip_39_word_dash_8 | napkin-bus-puppy-sing-confirm-okay-tobacco-west |  
+| bip_39_word_dash_9 | napkin-bus-puppy-sing-confirm-okay-tobacco-west-brain |  
 | bip_39_word_new_br_1 | napkin |  
 | bip_39_word_new_br_10 | napkin<br>bus<br>puppy<br>sing<br>confirm<br>okay<br>tobacco<br>west<br>brain<br>album |  
 | bip_39_word_new_br_11 | napkin<br>bus<br>puppy<br>sing<br>confirm<br>okay<br>tobacco<br>west<br>brain<br>album<br>phone |  
@@ -147,6 +159,18 @@ brain |
 | bip_39_word_space_7 | napkin bus puppy sing confirm okay tobacco |  
 | bip_39_word_space_8 | napkin bus puppy sing confirm okay tobacco west |  
 | bip_39_word_space_9 | napkin bus puppy sing confirm okay tobacco west brain |  
+| bip_39_word_underscore_1 | napkin |  
+| bip_39_word_underscore_10 | napkin_bus_puppy_sing_confirm_okay_tobacco_west_brain_album |  
+| bip_39_word_underscore_11 | napkin_bus_puppy_sing_confirm_okay_tobacco_west_brain_album_phone |  
+| bip_39_word_underscore_12 | napkin_bus_puppy_sing_confirm_okay_tobacco_west_brain_album_phone_alarm |  
+| bip_39_word_underscore_2 | napkin_bus |  
+| bip_39_word_underscore_3 | napkin_bus_puppy |  
+| bip_39_word_underscore_4 | napkin_bus_puppy_sing |  
+| bip_39_word_underscore_5 | napkin_bus_puppy_sing_confirm |  
+| bip_39_word_underscore_6 | napkin_bus_puppy_sing_confirm_okay |  
+| bip_39_word_underscore_7 | napkin_bus_puppy_sing_confirm_okay_tobacco |  
+| bip_39_word_underscore_8 | napkin_bus_puppy_sing_confirm_okay_tobacco_west |  
+| bip_39_word_underscore_9 | napkin_bus_puppy_sing_confirm_okay_tobacco_west_brain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

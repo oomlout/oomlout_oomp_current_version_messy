@@ -1,3 +1,15 @@
+bip_39_word_dash_1: menu
+bip_39_word_dash_10: menu-term-ship-student-aim-acid-visual-same-mad-firm
+bip_39_word_dash_11: menu-term-ship-student-aim-acid-visual-same-mad-firm-found
+bip_39_word_dash_12: menu-term-ship-student-aim-acid-visual-same-mad-firm-found-anxiety
+bip_39_word_dash_2: menu-term
+bip_39_word_dash_3: menu-term-ship
+bip_39_word_dash_4: menu-term-ship-student
+bip_39_word_dash_5: menu-term-ship-student-aim
+bip_39_word_dash_6: menu-term-ship-student-aim-acid
+bip_39_word_dash_7: menu-term-ship-student-aim-acid-visual
+bip_39_word_dash_8: menu-term-ship-student-aim-acid-visual-same
+bip_39_word_dash_9: menu-term-ship-student-aim-acid-visual-same-mad
 bip_39_word_new_br_1: menu
 bip_39_word_new_br_10: menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same<br>mad<br>firm
 bip_39_word_new_br_11: menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same<br>mad<br>firm<br>found
@@ -191,6 +203,18 @@ bip_39_word_space_6: menu term ship student aim acid
 bip_39_word_space_7: menu term ship student aim acid visual
 bip_39_word_space_8: menu term ship student aim acid visual same
 bip_39_word_space_9: menu term ship student aim acid visual same mad
+bip_39_word_underscore_1: menu
+bip_39_word_underscore_10: menu_term_ship_student_aim_acid_visual_same_mad_firm
+bip_39_word_underscore_11: menu_term_ship_student_aim_acid_visual_same_mad_firm_found
+bip_39_word_underscore_12: menu_term_ship_student_aim_acid_visual_same_mad_firm_found_anxiety
+bip_39_word_underscore_2: menu_term
+bip_39_word_underscore_3: menu_term_ship
+bip_39_word_underscore_4: menu_term_ship_student
+bip_39_word_underscore_5: menu_term_ship_student_aim
+bip_39_word_underscore_6: menu_term_ship_student_aim_acid
+bip_39_word_underscore_7: menu_term_ship_student_aim_acid_visual
+bip_39_word_underscore_8: menu_term_ship_student_aim_acid_visual_same
+bip_39_word_underscore_9: menu_term_ship_student_aim_acid_visual_same_mad
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

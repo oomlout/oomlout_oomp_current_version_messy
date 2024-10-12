@@ -1,3 +1,15 @@
+bip_39_word_dash_1: alpha
+bip_39_word_dash_10: alpha-either-first-bottom-matrix-control-state-fruit-motion-hub
+bip_39_word_dash_11: alpha-either-first-bottom-matrix-control-state-fruit-motion-hub-snack
+bip_39_word_dash_12: alpha-either-first-bottom-matrix-control-state-fruit-motion-hub-snack-artefact
+bip_39_word_dash_2: alpha-either
+bip_39_word_dash_3: alpha-either-first
+bip_39_word_dash_4: alpha-either-first-bottom
+bip_39_word_dash_5: alpha-either-first-bottom-matrix
+bip_39_word_dash_6: alpha-either-first-bottom-matrix-control
+bip_39_word_dash_7: alpha-either-first-bottom-matrix-control-state
+bip_39_word_dash_8: alpha-either-first-bottom-matrix-control-state-fruit
+bip_39_word_dash_9: alpha-either-first-bottom-matrix-control-state-fruit-motion
 bip_39_word_new_br_1: alpha
 bip_39_word_new_br_10: alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub
 bip_39_word_new_br_11: alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub<br>snack
@@ -194,6 +206,18 @@ bip_39_word_space_6: alpha either first bottom matrix control
 bip_39_word_space_7: alpha either first bottom matrix control state
 bip_39_word_space_8: alpha either first bottom matrix control state fruit
 bip_39_word_space_9: alpha either first bottom matrix control state fruit motion
+bip_39_word_underscore_1: alpha
+bip_39_word_underscore_10: alpha_either_first_bottom_matrix_control_state_fruit_motion_hub
+bip_39_word_underscore_11: alpha_either_first_bottom_matrix_control_state_fruit_motion_hub_snack
+bip_39_word_underscore_12: alpha_either_first_bottom_matrix_control_state_fruit_motion_hub_snack_artefact
+bip_39_word_underscore_2: alpha_either
+bip_39_word_underscore_3: alpha_either_first
+bip_39_word_underscore_4: alpha_either_first_bottom
+bip_39_word_underscore_5: alpha_either_first_bottom_matrix
+bip_39_word_underscore_6: alpha_either_first_bottom_matrix_control
+bip_39_word_underscore_7: alpha_either_first_bottom_matrix_control_state
+bip_39_word_underscore_8: alpha_either_first_bottom_matrix_control_state_fruit
+bip_39_word_underscore_9: alpha_either_first_bottom_matrix_control_state_fruit_motion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

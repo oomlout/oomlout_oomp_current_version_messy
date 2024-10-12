@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ridge |  
+| bip_39_word_dash_10 | ridge-bid-female-cloth-among-tool-remain-salt-pepper-grief |  
+| bip_39_word_dash_11 | ridge-bid-female-cloth-among-tool-remain-salt-pepper-grief-trade |  
+| bip_39_word_dash_12 | ridge-bid-female-cloth-among-tool-remain-salt-pepper-grief-trade-arm |  
+| bip_39_word_dash_2 | ridge-bid |  
+| bip_39_word_dash_3 | ridge-bid-female |  
+| bip_39_word_dash_4 | ridge-bid-female-cloth |  
+| bip_39_word_dash_5 | ridge-bid-female-cloth-among |  
+| bip_39_word_dash_6 | ridge-bid-female-cloth-among-tool |  
+| bip_39_word_dash_7 | ridge-bid-female-cloth-among-tool-remain |  
+| bip_39_word_dash_8 | ridge-bid-female-cloth-among-tool-remain-salt |  
+| bip_39_word_dash_9 | ridge-bid-female-cloth-among-tool-remain-salt-pepper |  
 | bip_39_word_new_br_1 | ridge |  
 | bip_39_word_new_br_10 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt<br>pepper<br>grief |  
 | bip_39_word_new_br_11 | ridge<br>bid<br>female<br>cloth<br>among<br>tool<br>remain<br>salt<br>pepper<br>grief<br>trade |  
@@ -147,6 +159,18 @@ pepper |
 | bip_39_word_space_7 | ridge bid female cloth among tool remain |  
 | bip_39_word_space_8 | ridge bid female cloth among tool remain salt |  
 | bip_39_word_space_9 | ridge bid female cloth among tool remain salt pepper |  
+| bip_39_word_underscore_1 | ridge |  
+| bip_39_word_underscore_10 | ridge_bid_female_cloth_among_tool_remain_salt_pepper_grief |  
+| bip_39_word_underscore_11 | ridge_bid_female_cloth_among_tool_remain_salt_pepper_grief_trade |  
+| bip_39_word_underscore_12 | ridge_bid_female_cloth_among_tool_remain_salt_pepper_grief_trade_arm |  
+| bip_39_word_underscore_2 | ridge_bid |  
+| bip_39_word_underscore_3 | ridge_bid_female |  
+| bip_39_word_underscore_4 | ridge_bid_female_cloth |  
+| bip_39_word_underscore_5 | ridge_bid_female_cloth_among |  
+| bip_39_word_underscore_6 | ridge_bid_female_cloth_among_tool |  
+| bip_39_word_underscore_7 | ridge_bid_female_cloth_among_tool_remain |  
+| bip_39_word_underscore_8 | ridge_bid_female_cloth_among_tool_remain_salt |  
+| bip_39_word_underscore_9 | ridge_bid_female_cloth_among_tool_remain_salt_pepper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

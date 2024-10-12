@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | home |  
+| bip_39_word_dash_10 | home-rebel-large-cricket-alien-reward-trend-health-seat-dizzy |  
+| bip_39_word_dash_11 | home-rebel-large-cricket-alien-reward-trend-health-seat-dizzy-truth |  
+| bip_39_word_dash_12 | home-rebel-large-cricket-alien-reward-trend-health-seat-dizzy-truth-agree |  
+| bip_39_word_dash_2 | home-rebel |  
+| bip_39_word_dash_3 | home-rebel-large |  
+| bip_39_word_dash_4 | home-rebel-large-cricket |  
+| bip_39_word_dash_5 | home-rebel-large-cricket-alien |  
+| bip_39_word_dash_6 | home-rebel-large-cricket-alien-reward |  
+| bip_39_word_dash_7 | home-rebel-large-cricket-alien-reward-trend |  
+| bip_39_word_dash_8 | home-rebel-large-cricket-alien-reward-trend-health |  
+| bip_39_word_dash_9 | home-rebel-large-cricket-alien-reward-trend-health-seat |  
 | bip_39_word_new_br_1 | home |  
 | bip_39_word_new_br_10 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health<br>seat<br>dizzy |  
 | bip_39_word_new_br_11 | home<br>rebel<br>large<br>cricket<br>alien<br>reward<br>trend<br>health<br>seat<br>dizzy<br>truth |  
@@ -147,6 +159,18 @@ seat |
 | bip_39_word_space_7 | home rebel large cricket alien reward trend |  
 | bip_39_word_space_8 | home rebel large cricket alien reward trend health |  
 | bip_39_word_space_9 | home rebel large cricket alien reward trend health seat |  
+| bip_39_word_underscore_1 | home |  
+| bip_39_word_underscore_10 | home_rebel_large_cricket_alien_reward_trend_health_seat_dizzy |  
+| bip_39_word_underscore_11 | home_rebel_large_cricket_alien_reward_trend_health_seat_dizzy_truth |  
+| bip_39_word_underscore_12 | home_rebel_large_cricket_alien_reward_trend_health_seat_dizzy_truth_agree |  
+| bip_39_word_underscore_2 | home_rebel |  
+| bip_39_word_underscore_3 | home_rebel_large |  
+| bip_39_word_underscore_4 | home_rebel_large_cricket |  
+| bip_39_word_underscore_5 | home_rebel_large_cricket_alien |  
+| bip_39_word_underscore_6 | home_rebel_large_cricket_alien_reward |  
+| bip_39_word_underscore_7 | home_rebel_large_cricket_alien_reward_trend |  
+| bip_39_word_underscore_8 | home_rebel_large_cricket_alien_reward_trend_health |  
+| bip_39_word_underscore_9 | home_rebel_large_cricket_alien_reward_trend_health_seat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

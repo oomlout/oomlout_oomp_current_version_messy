@@ -1,3 +1,15 @@
+bip_39_word_dash_1: birth
+bip_39_word_dash_10: birth-tip-quiz-paper-onion-grab-series-balcony-rhythm-shuffle
+bip_39_word_dash_11: birth-tip-quiz-paper-onion-grab-series-balcony-rhythm-shuffle-math
+bip_39_word_dash_12: birth-tip-quiz-paper-onion-grab-series-balcony-rhythm-shuffle-math-actress
+bip_39_word_dash_2: birth-tip
+bip_39_word_dash_3: birth-tip-quiz
+bip_39_word_dash_4: birth-tip-quiz-paper
+bip_39_word_dash_5: birth-tip-quiz-paper-onion
+bip_39_word_dash_6: birth-tip-quiz-paper-onion-grab
+bip_39_word_dash_7: birth-tip-quiz-paper-onion-grab-series
+bip_39_word_dash_8: birth-tip-quiz-paper-onion-grab-series-balcony
+bip_39_word_dash_9: birth-tip-quiz-paper-onion-grab-series-balcony-rhythm
 bip_39_word_new_br_1: birth
 bip_39_word_new_br_10: birth<br>tip<br>quiz<br>paper<br>onion<br>grab<br>series<br>balcony<br>rhythm<br>shuffle
 bip_39_word_new_br_11: birth<br>tip<br>quiz<br>paper<br>onion<br>grab<br>series<br>balcony<br>rhythm<br>shuffle<br>math
@@ -193,6 +205,18 @@ bip_39_word_space_6: birth tip quiz paper onion grab
 bip_39_word_space_7: birth tip quiz paper onion grab series
 bip_39_word_space_8: birth tip quiz paper onion grab series balcony
 bip_39_word_space_9: birth tip quiz paper onion grab series balcony rhythm
+bip_39_word_underscore_1: birth
+bip_39_word_underscore_10: birth_tip_quiz_paper_onion_grab_series_balcony_rhythm_shuffle
+bip_39_word_underscore_11: birth_tip_quiz_paper_onion_grab_series_balcony_rhythm_shuffle_math
+bip_39_word_underscore_12: birth_tip_quiz_paper_onion_grab_series_balcony_rhythm_shuffle_math_actress
+bip_39_word_underscore_2: birth_tip
+bip_39_word_underscore_3: birth_tip_quiz
+bip_39_word_underscore_4: birth_tip_quiz_paper
+bip_39_word_underscore_5: birth_tip_quiz_paper_onion
+bip_39_word_underscore_6: birth_tip_quiz_paper_onion_grab
+bip_39_word_underscore_7: birth_tip_quiz_paper_onion_grab_series
+bip_39_word_underscore_8: birth_tip_quiz_paper_onion_grab_series_balcony
+bip_39_word_underscore_9: birth_tip_quiz_paper_onion_grab_series_balcony_rhythm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

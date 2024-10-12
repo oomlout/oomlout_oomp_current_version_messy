@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mesh
+bip_39_word_dash_10: mesh-antenna-chef-flag-pipe-praise-soon-doctor-cost-derive
+bip_39_word_dash_11: mesh-antenna-chef-flag-pipe-praise-soon-doctor-cost-derive-young
+bip_39_word_dash_12: mesh-antenna-chef-flag-pipe-praise-soon-doctor-cost-derive-young-appear
+bip_39_word_dash_2: mesh-antenna
+bip_39_word_dash_3: mesh-antenna-chef
+bip_39_word_dash_4: mesh-antenna-chef-flag
+bip_39_word_dash_5: mesh-antenna-chef-flag-pipe
+bip_39_word_dash_6: mesh-antenna-chef-flag-pipe-praise
+bip_39_word_dash_7: mesh-antenna-chef-flag-pipe-praise-soon
+bip_39_word_dash_8: mesh-antenna-chef-flag-pipe-praise-soon-doctor
+bip_39_word_dash_9: mesh-antenna-chef-flag-pipe-praise-soon-doctor-cost
 bip_39_word_new_br_1: mesh
 bip_39_word_new_br_10: mesh<br>antenna<br>chef<br>flag<br>pipe<br>praise<br>soon<br>doctor<br>cost<br>derive
 bip_39_word_new_br_11: mesh<br>antenna<br>chef<br>flag<br>pipe<br>praise<br>soon<br>doctor<br>cost<br>derive<br>young
@@ -192,6 +204,18 @@ bip_39_word_space_6: mesh antenna chef flag pipe praise
 bip_39_word_space_7: mesh antenna chef flag pipe praise soon
 bip_39_word_space_8: mesh antenna chef flag pipe praise soon doctor
 bip_39_word_space_9: mesh antenna chef flag pipe praise soon doctor cost
+bip_39_word_underscore_1: mesh
+bip_39_word_underscore_10: mesh_antenna_chef_flag_pipe_praise_soon_doctor_cost_derive
+bip_39_word_underscore_11: mesh_antenna_chef_flag_pipe_praise_soon_doctor_cost_derive_young
+bip_39_word_underscore_12: mesh_antenna_chef_flag_pipe_praise_soon_doctor_cost_derive_young_appear
+bip_39_word_underscore_2: mesh_antenna
+bip_39_word_underscore_3: mesh_antenna_chef
+bip_39_word_underscore_4: mesh_antenna_chef_flag
+bip_39_word_underscore_5: mesh_antenna_chef_flag_pipe
+bip_39_word_underscore_6: mesh_antenna_chef_flag_pipe_praise
+bip_39_word_underscore_7: mesh_antenna_chef_flag_pipe_praise_soon
+bip_39_word_underscore_8: mesh_antenna_chef_flag_pipe_praise_soon_doctor
+bip_39_word_underscore_9: mesh_antenna_chef_flag_pipe_praise_soon_doctor_cost
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

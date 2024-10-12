@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | afford |  
+| bip_39_word_dash_10 | afford-resist-finger-soap-museum-scan-work-borrow-odor-isolate |  
+| bip_39_word_dash_11 | afford-resist-finger-soap-museum-scan-work-borrow-odor-isolate-lottery |  
+| bip_39_word_dash_12 | afford-resist-finger-soap-museum-scan-work-borrow-odor-isolate-lottery-arrow |  
+| bip_39_word_dash_2 | afford-resist |  
+| bip_39_word_dash_3 | afford-resist-finger |  
+| bip_39_word_dash_4 | afford-resist-finger-soap |  
+| bip_39_word_dash_5 | afford-resist-finger-soap-museum |  
+| bip_39_word_dash_6 | afford-resist-finger-soap-museum-scan |  
+| bip_39_word_dash_7 | afford-resist-finger-soap-museum-scan-work |  
+| bip_39_word_dash_8 | afford-resist-finger-soap-museum-scan-work-borrow |  
+| bip_39_word_dash_9 | afford-resist-finger-soap-museum-scan-work-borrow-odor |  
 | bip_39_word_new_br_1 | afford |  
 | bip_39_word_new_br_10 | afford<br>resist<br>finger<br>soap<br>museum<br>scan<br>work<br>borrow<br>odor<br>isolate |  
 | bip_39_word_new_br_11 | afford<br>resist<br>finger<br>soap<br>museum<br>scan<br>work<br>borrow<br>odor<br>isolate<br>lottery |  
@@ -147,6 +159,18 @@ odor |
 | bip_39_word_space_7 | afford resist finger soap museum scan work |  
 | bip_39_word_space_8 | afford resist finger soap museum scan work borrow |  
 | bip_39_word_space_9 | afford resist finger soap museum scan work borrow odor |  
+| bip_39_word_underscore_1 | afford |  
+| bip_39_word_underscore_10 | afford_resist_finger_soap_museum_scan_work_borrow_odor_isolate |  
+| bip_39_word_underscore_11 | afford_resist_finger_soap_museum_scan_work_borrow_odor_isolate_lottery |  
+| bip_39_word_underscore_12 | afford_resist_finger_soap_museum_scan_work_borrow_odor_isolate_lottery_arrow |  
+| bip_39_word_underscore_2 | afford_resist |  
+| bip_39_word_underscore_3 | afford_resist_finger |  
+| bip_39_word_underscore_4 | afford_resist_finger_soap |  
+| bip_39_word_underscore_5 | afford_resist_finger_soap_museum |  
+| bip_39_word_underscore_6 | afford_resist_finger_soap_museum_scan |  
+| bip_39_word_underscore_7 | afford_resist_finger_soap_museum_scan_work |  
+| bip_39_word_underscore_8 | afford_resist_finger_soap_museum_scan_work_borrow |  
+| bip_39_word_underscore_9 | afford_resist_finger_soap_museum_scan_work_borrow_odor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

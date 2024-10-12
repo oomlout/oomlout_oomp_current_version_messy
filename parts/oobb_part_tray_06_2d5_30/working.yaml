@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inspire
+bip_39_word_dash_10: inspire-comfort-wrestle-promote-grid-assault-only-tape-fatigue-afraid
+bip_39_word_dash_11: inspire-comfort-wrestle-promote-grid-assault-only-tape-fatigue-afraid-mass
+bip_39_word_dash_12: inspire-comfort-wrestle-promote-grid-assault-only-tape-fatigue-afraid-mass-antenna
+bip_39_word_dash_2: inspire-comfort
+bip_39_word_dash_3: inspire-comfort-wrestle
+bip_39_word_dash_4: inspire-comfort-wrestle-promote
+bip_39_word_dash_5: inspire-comfort-wrestle-promote-grid
+bip_39_word_dash_6: inspire-comfort-wrestle-promote-grid-assault
+bip_39_word_dash_7: inspire-comfort-wrestle-promote-grid-assault-only
+bip_39_word_dash_8: inspire-comfort-wrestle-promote-grid-assault-only-tape
+bip_39_word_dash_9: inspire-comfort-wrestle-promote-grid-assault-only-tape-fatigue
 bip_39_word_new_br_1: inspire
 bip_39_word_new_br_10: inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid
 bip_39_word_new_br_11: inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid<br>mass
@@ -194,6 +206,18 @@ bip_39_word_space_6: inspire comfort wrestle promote grid assault
 bip_39_word_space_7: inspire comfort wrestle promote grid assault only
 bip_39_word_space_8: inspire comfort wrestle promote grid assault only tape
 bip_39_word_space_9: inspire comfort wrestle promote grid assault only tape fatigue
+bip_39_word_underscore_1: inspire
+bip_39_word_underscore_10: inspire_comfort_wrestle_promote_grid_assault_only_tape_fatigue_afraid
+bip_39_word_underscore_11: inspire_comfort_wrestle_promote_grid_assault_only_tape_fatigue_afraid_mass
+bip_39_word_underscore_12: inspire_comfort_wrestle_promote_grid_assault_only_tape_fatigue_afraid_mass_antenna
+bip_39_word_underscore_2: inspire_comfort
+bip_39_word_underscore_3: inspire_comfort_wrestle
+bip_39_word_underscore_4: inspire_comfort_wrestle_promote
+bip_39_word_underscore_5: inspire_comfort_wrestle_promote_grid
+bip_39_word_underscore_6: inspire_comfort_wrestle_promote_grid_assault
+bip_39_word_underscore_7: inspire_comfort_wrestle_promote_grid_assault_only
+bip_39_word_underscore_8: inspire_comfort_wrestle_promote_grid_assault_only_tape
+bip_39_word_underscore_9: inspire_comfort_wrestle_promote_grid_assault_only_tape_fatigue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | senior |  
+| bip_39_word_dash_10 | senior-vote-antenna-annual-timber-caution-crater-inject-direct-day |  
+| bip_39_word_dash_11 | senior-vote-antenna-annual-timber-caution-crater-inject-direct-day-fabric |  
+| bip_39_word_dash_12 | senior-vote-antenna-annual-timber-caution-crater-inject-direct-day-fabric-attitude |  
+| bip_39_word_dash_2 | senior-vote |  
+| bip_39_word_dash_3 | senior-vote-antenna |  
+| bip_39_word_dash_4 | senior-vote-antenna-annual |  
+| bip_39_word_dash_5 | senior-vote-antenna-annual-timber |  
+| bip_39_word_dash_6 | senior-vote-antenna-annual-timber-caution |  
+| bip_39_word_dash_7 | senior-vote-antenna-annual-timber-caution-crater |  
+| bip_39_word_dash_8 | senior-vote-antenna-annual-timber-caution-crater-inject |  
+| bip_39_word_dash_9 | senior-vote-antenna-annual-timber-caution-crater-inject-direct |  
 | bip_39_word_new_br_1 | senior |  
 | bip_39_word_new_br_10 | senior<br>vote<br>antenna<br>annual<br>timber<br>caution<br>crater<br>inject<br>direct<br>day |  
 | bip_39_word_new_br_11 | senior<br>vote<br>antenna<br>annual<br>timber<br>caution<br>crater<br>inject<br>direct<br>day<br>fabric |  
@@ -147,6 +159,18 @@ direct |
 | bip_39_word_space_7 | senior vote antenna annual timber caution crater |  
 | bip_39_word_space_8 | senior vote antenna annual timber caution crater inject |  
 | bip_39_word_space_9 | senior vote antenna annual timber caution crater inject direct |  
+| bip_39_word_underscore_1 | senior |  
+| bip_39_word_underscore_10 | senior_vote_antenna_annual_timber_caution_crater_inject_direct_day |  
+| bip_39_word_underscore_11 | senior_vote_antenna_annual_timber_caution_crater_inject_direct_day_fabric |  
+| bip_39_word_underscore_12 | senior_vote_antenna_annual_timber_caution_crater_inject_direct_day_fabric_attitude |  
+| bip_39_word_underscore_2 | senior_vote |  
+| bip_39_word_underscore_3 | senior_vote_antenna |  
+| bip_39_word_underscore_4 | senior_vote_antenna_annual |  
+| bip_39_word_underscore_5 | senior_vote_antenna_annual_timber |  
+| bip_39_word_underscore_6 | senior_vote_antenna_annual_timber_caution |  
+| bip_39_word_underscore_7 | senior_vote_antenna_annual_timber_caution_crater |  
+| bip_39_word_underscore_8 | senior_vote_antenna_annual_timber_caution_crater_inject |  
+| bip_39_word_underscore_9 | senior_vote_antenna_annual_timber_caution_crater_inject_direct |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

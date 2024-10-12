@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chuckle |  
+| bip_39_word_dash_10 | chuckle-shiver-horror-quick-february-load-kit-much-kid-wool |  
+| bip_39_word_dash_11 | chuckle-shiver-horror-quick-february-load-kit-much-kid-wool-usage |  
+| bip_39_word_dash_12 | chuckle-shiver-horror-quick-february-load-kit-much-kid-wool-usage-amused |  
+| bip_39_word_dash_2 | chuckle-shiver |  
+| bip_39_word_dash_3 | chuckle-shiver-horror |  
+| bip_39_word_dash_4 | chuckle-shiver-horror-quick |  
+| bip_39_word_dash_5 | chuckle-shiver-horror-quick-february |  
+| bip_39_word_dash_6 | chuckle-shiver-horror-quick-february-load |  
+| bip_39_word_dash_7 | chuckle-shiver-horror-quick-february-load-kit |  
+| bip_39_word_dash_8 | chuckle-shiver-horror-quick-february-load-kit-much |  
+| bip_39_word_dash_9 | chuckle-shiver-horror-quick-february-load-kit-much-kid |  
 | bip_39_word_new_br_1 | chuckle |  
 | bip_39_word_new_br_10 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much<br>kid<br>wool |  
 | bip_39_word_new_br_11 | chuckle<br>shiver<br>horror<br>quick<br>february<br>load<br>kit<br>much<br>kid<br>wool<br>usage |  
@@ -147,6 +159,18 @@ kid |
 | bip_39_word_space_7 | chuckle shiver horror quick february load kit |  
 | bip_39_word_space_8 | chuckle shiver horror quick february load kit much |  
 | bip_39_word_space_9 | chuckle shiver horror quick february load kit much kid |  
+| bip_39_word_underscore_1 | chuckle |  
+| bip_39_word_underscore_10 | chuckle_shiver_horror_quick_february_load_kit_much_kid_wool |  
+| bip_39_word_underscore_11 | chuckle_shiver_horror_quick_february_load_kit_much_kid_wool_usage |  
+| bip_39_word_underscore_12 | chuckle_shiver_horror_quick_february_load_kit_much_kid_wool_usage_amused |  
+| bip_39_word_underscore_2 | chuckle_shiver |  
+| bip_39_word_underscore_3 | chuckle_shiver_horror |  
+| bip_39_word_underscore_4 | chuckle_shiver_horror_quick |  
+| bip_39_word_underscore_5 | chuckle_shiver_horror_quick_february |  
+| bip_39_word_underscore_6 | chuckle_shiver_horror_quick_february_load |  
+| bip_39_word_underscore_7 | chuckle_shiver_horror_quick_february_load_kit |  
+| bip_39_word_underscore_8 | chuckle_shiver_horror_quick_february_load_kit_much |  
+| bip_39_word_underscore_9 | chuckle_shiver_horror_quick_february_load_kit_much_kid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | visa |  
+| bip_39_word_dash_10 | visa-paddle-explain-ski-twin-actual-sense-void-dizzy-vicious |  
+| bip_39_word_dash_11 | visa-paddle-explain-ski-twin-actual-sense-void-dizzy-vicious-spider |  
+| bip_39_word_dash_12 | visa-paddle-explain-ski-twin-actual-sense-void-dizzy-vicious-spider-address |  
+| bip_39_word_dash_2 | visa-paddle |  
+| bip_39_word_dash_3 | visa-paddle-explain |  
+| bip_39_word_dash_4 | visa-paddle-explain-ski |  
+| bip_39_word_dash_5 | visa-paddle-explain-ski-twin |  
+| bip_39_word_dash_6 | visa-paddle-explain-ski-twin-actual |  
+| bip_39_word_dash_7 | visa-paddle-explain-ski-twin-actual-sense |  
+| bip_39_word_dash_8 | visa-paddle-explain-ski-twin-actual-sense-void |  
+| bip_39_word_dash_9 | visa-paddle-explain-ski-twin-actual-sense-void-dizzy |  
 | bip_39_word_new_br_1 | visa |  
 | bip_39_word_new_br_10 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious |  
 | bip_39_word_new_br_11 | visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious<br>spider |  
@@ -147,6 +159,18 @@ dizzy |
 | bip_39_word_space_7 | visa paddle explain ski twin actual sense |  
 | bip_39_word_space_8 | visa paddle explain ski twin actual sense void |  
 | bip_39_word_space_9 | visa paddle explain ski twin actual sense void dizzy |  
+| bip_39_word_underscore_1 | visa |  
+| bip_39_word_underscore_10 | visa_paddle_explain_ski_twin_actual_sense_void_dizzy_vicious |  
+| bip_39_word_underscore_11 | visa_paddle_explain_ski_twin_actual_sense_void_dizzy_vicious_spider |  
+| bip_39_word_underscore_12 | visa_paddle_explain_ski_twin_actual_sense_void_dizzy_vicious_spider_address |  
+| bip_39_word_underscore_2 | visa_paddle |  
+| bip_39_word_underscore_3 | visa_paddle_explain |  
+| bip_39_word_underscore_4 | visa_paddle_explain_ski |  
+| bip_39_word_underscore_5 | visa_paddle_explain_ski_twin |  
+| bip_39_word_underscore_6 | visa_paddle_explain_ski_twin_actual |  
+| bip_39_word_underscore_7 | visa_paddle_explain_ski_twin_actual_sense |  
+| bip_39_word_underscore_8 | visa_paddle_explain_ski_twin_actual_sense_void |  
+| bip_39_word_underscore_9 | visa_paddle_explain_ski_twin_actual_sense_void_dizzy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shaft |  
+| bip_39_word_dash_10 | shaft-belt-suffer-blast-praise-family-jeans-later-price-sleep |  
+| bip_39_word_dash_11 | shaft-belt-suffer-blast-praise-family-jeans-later-price-sleep-jeans |  
+| bip_39_word_dash_12 | shaft-belt-suffer-blast-praise-family-jeans-later-price-sleep-jeans-airport |  
+| bip_39_word_dash_2 | shaft-belt |  
+| bip_39_word_dash_3 | shaft-belt-suffer |  
+| bip_39_word_dash_4 | shaft-belt-suffer-blast |  
+| bip_39_word_dash_5 | shaft-belt-suffer-blast-praise |  
+| bip_39_word_dash_6 | shaft-belt-suffer-blast-praise-family |  
+| bip_39_word_dash_7 | shaft-belt-suffer-blast-praise-family-jeans |  
+| bip_39_word_dash_8 | shaft-belt-suffer-blast-praise-family-jeans-later |  
+| bip_39_word_dash_9 | shaft-belt-suffer-blast-praise-family-jeans-later-price |  
 | bip_39_word_new_br_1 | shaft |  
 | bip_39_word_new_br_10 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep |  
 | bip_39_word_new_br_11 | shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep<br>jeans |  
@@ -147,6 +159,18 @@ price |
 | bip_39_word_space_7 | shaft belt suffer blast praise family jeans |  
 | bip_39_word_space_8 | shaft belt suffer blast praise family jeans later |  
 | bip_39_word_space_9 | shaft belt suffer blast praise family jeans later price |  
+| bip_39_word_underscore_1 | shaft |  
+| bip_39_word_underscore_10 | shaft_belt_suffer_blast_praise_family_jeans_later_price_sleep |  
+| bip_39_word_underscore_11 | shaft_belt_suffer_blast_praise_family_jeans_later_price_sleep_jeans |  
+| bip_39_word_underscore_12 | shaft_belt_suffer_blast_praise_family_jeans_later_price_sleep_jeans_airport |  
+| bip_39_word_underscore_2 | shaft_belt |  
+| bip_39_word_underscore_3 | shaft_belt_suffer |  
+| bip_39_word_underscore_4 | shaft_belt_suffer_blast |  
+| bip_39_word_underscore_5 | shaft_belt_suffer_blast_praise |  
+| bip_39_word_underscore_6 | shaft_belt_suffer_blast_praise_family |  
+| bip_39_word_underscore_7 | shaft_belt_suffer_blast_praise_family_jeans |  
+| bip_39_word_underscore_8 | shaft_belt_suffer_blast_praise_family_jeans_later |  
+| bip_39_word_underscore_9 | shaft_belt_suffer_blast_praise_family_jeans_later_price |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

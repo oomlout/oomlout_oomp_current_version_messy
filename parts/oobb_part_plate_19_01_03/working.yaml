@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leg
+bip_39_word_dash_10: leg-host-reopen-kick-bright-lounge-chalk-bullet-become-drastic
+bip_39_word_dash_11: leg-host-reopen-kick-bright-lounge-chalk-bullet-become-drastic-derive
+bip_39_word_dash_12: leg-host-reopen-kick-bright-lounge-chalk-bullet-become-drastic-derive-aisle
+bip_39_word_dash_2: leg-host
+bip_39_word_dash_3: leg-host-reopen
+bip_39_word_dash_4: leg-host-reopen-kick
+bip_39_word_dash_5: leg-host-reopen-kick-bright
+bip_39_word_dash_6: leg-host-reopen-kick-bright-lounge
+bip_39_word_dash_7: leg-host-reopen-kick-bright-lounge-chalk
+bip_39_word_dash_8: leg-host-reopen-kick-bright-lounge-chalk-bullet
+bip_39_word_dash_9: leg-host-reopen-kick-bright-lounge-chalk-bullet-become
 bip_39_word_new_br_1: leg
 bip_39_word_new_br_10: leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic
 bip_39_word_new_br_11: leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic<br>derive
@@ -193,6 +205,18 @@ bip_39_word_space_6: leg host reopen kick bright lounge
 bip_39_word_space_7: leg host reopen kick bright lounge chalk
 bip_39_word_space_8: leg host reopen kick bright lounge chalk bullet
 bip_39_word_space_9: leg host reopen kick bright lounge chalk bullet become
+bip_39_word_underscore_1: leg
+bip_39_word_underscore_10: leg_host_reopen_kick_bright_lounge_chalk_bullet_become_drastic
+bip_39_word_underscore_11: leg_host_reopen_kick_bright_lounge_chalk_bullet_become_drastic_derive
+bip_39_word_underscore_12: leg_host_reopen_kick_bright_lounge_chalk_bullet_become_drastic_derive_aisle
+bip_39_word_underscore_2: leg_host
+bip_39_word_underscore_3: leg_host_reopen
+bip_39_word_underscore_4: leg_host_reopen_kick
+bip_39_word_underscore_5: leg_host_reopen_kick_bright
+bip_39_word_underscore_6: leg_host_reopen_kick_bright_lounge
+bip_39_word_underscore_7: leg_host_reopen_kick_bright_lounge_chalk
+bip_39_word_underscore_8: leg_host_reopen_kick_bright_lounge_chalk_bullet
+bip_39_word_underscore_9: leg_host_reopen_kick_bright_lounge_chalk_bullet_become
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

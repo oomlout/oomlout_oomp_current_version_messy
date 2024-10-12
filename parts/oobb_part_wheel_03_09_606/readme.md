@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | material |  
+| bip_39_word_dash_10 | material-clay-awake-west-two-wrap-endless-basket-pact-start |  
+| bip_39_word_dash_11 | material-clay-awake-west-two-wrap-endless-basket-pact-start-leader |  
+| bip_39_word_dash_12 | material-clay-awake-west-two-wrap-endless-basket-pact-start-leader-aunt |  
+| bip_39_word_dash_2 | material-clay |  
+| bip_39_word_dash_3 | material-clay-awake |  
+| bip_39_word_dash_4 | material-clay-awake-west |  
+| bip_39_word_dash_5 | material-clay-awake-west-two |  
+| bip_39_word_dash_6 | material-clay-awake-west-two-wrap |  
+| bip_39_word_dash_7 | material-clay-awake-west-two-wrap-endless |  
+| bip_39_word_dash_8 | material-clay-awake-west-two-wrap-endless-basket |  
+| bip_39_word_dash_9 | material-clay-awake-west-two-wrap-endless-basket-pact |  
 | bip_39_word_new_br_1 | material |  
 | bip_39_word_new_br_10 | material<br>clay<br>awake<br>west<br>two<br>wrap<br>endless<br>basket<br>pact<br>start |  
 | bip_39_word_new_br_11 | material<br>clay<br>awake<br>west<br>two<br>wrap<br>endless<br>basket<br>pact<br>start<br>leader |  
@@ -147,6 +159,18 @@ pact |
 | bip_39_word_space_7 | material clay awake west two wrap endless |  
 | bip_39_word_space_8 | material clay awake west two wrap endless basket |  
 | bip_39_word_space_9 | material clay awake west two wrap endless basket pact |  
+| bip_39_word_underscore_1 | material |  
+| bip_39_word_underscore_10 | material_clay_awake_west_two_wrap_endless_basket_pact_start |  
+| bip_39_word_underscore_11 | material_clay_awake_west_two_wrap_endless_basket_pact_start_leader |  
+| bip_39_word_underscore_12 | material_clay_awake_west_two_wrap_endless_basket_pact_start_leader_aunt |  
+| bip_39_word_underscore_2 | material_clay |  
+| bip_39_word_underscore_3 | material_clay_awake |  
+| bip_39_word_underscore_4 | material_clay_awake_west |  
+| bip_39_word_underscore_5 | material_clay_awake_west_two |  
+| bip_39_word_underscore_6 | material_clay_awake_west_two_wrap |  
+| bip_39_word_underscore_7 | material_clay_awake_west_two_wrap_endless |  
+| bip_39_word_underscore_8 | material_clay_awake_west_two_wrap_endless_basket |  
+| bip_39_word_underscore_9 | material_clay_awake_west_two_wrap_endless_basket_pact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

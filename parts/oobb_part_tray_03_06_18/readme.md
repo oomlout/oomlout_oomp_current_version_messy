@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bench |  
+| bip_39_word_dash_10 | bench-acquire-caught-another-autumn-chunk-oven-tray-organ-joke |  
+| bip_39_word_dash_11 | bench-acquire-caught-another-autumn-chunk-oven-tray-organ-joke-vintage |  
+| bip_39_word_dash_12 | bench-acquire-caught-another-autumn-chunk-oven-tray-organ-joke-vintage-attend |  
+| bip_39_word_dash_2 | bench-acquire |  
+| bip_39_word_dash_3 | bench-acquire-caught |  
+| bip_39_word_dash_4 | bench-acquire-caught-another |  
+| bip_39_word_dash_5 | bench-acquire-caught-another-autumn |  
+| bip_39_word_dash_6 | bench-acquire-caught-another-autumn-chunk |  
+| bip_39_word_dash_7 | bench-acquire-caught-another-autumn-chunk-oven |  
+| bip_39_word_dash_8 | bench-acquire-caught-another-autumn-chunk-oven-tray |  
+| bip_39_word_dash_9 | bench-acquire-caught-another-autumn-chunk-oven-tray-organ |  
 | bip_39_word_new_br_1 | bench |  
 | bip_39_word_new_br_10 | bench<br>acquire<br>caught<br>another<br>autumn<br>chunk<br>oven<br>tray<br>organ<br>joke |  
 | bip_39_word_new_br_11 | bench<br>acquire<br>caught<br>another<br>autumn<br>chunk<br>oven<br>tray<br>organ<br>joke<br>vintage |  
@@ -147,6 +159,18 @@ organ |
 | bip_39_word_space_7 | bench acquire caught another autumn chunk oven |  
 | bip_39_word_space_8 | bench acquire caught another autumn chunk oven tray |  
 | bip_39_word_space_9 | bench acquire caught another autumn chunk oven tray organ |  
+| bip_39_word_underscore_1 | bench |  
+| bip_39_word_underscore_10 | bench_acquire_caught_another_autumn_chunk_oven_tray_organ_joke |  
+| bip_39_word_underscore_11 | bench_acquire_caught_another_autumn_chunk_oven_tray_organ_joke_vintage |  
+| bip_39_word_underscore_12 | bench_acquire_caught_another_autumn_chunk_oven_tray_organ_joke_vintage_attend |  
+| bip_39_word_underscore_2 | bench_acquire |  
+| bip_39_word_underscore_3 | bench_acquire_caught |  
+| bip_39_word_underscore_4 | bench_acquire_caught_another |  
+| bip_39_word_underscore_5 | bench_acquire_caught_another_autumn |  
+| bip_39_word_underscore_6 | bench_acquire_caught_another_autumn_chunk |  
+| bip_39_word_underscore_7 | bench_acquire_caught_another_autumn_chunk_oven |  
+| bip_39_word_underscore_8 | bench_acquire_caught_another_autumn_chunk_oven_tray |  
+| bip_39_word_underscore_9 | bench_acquire_caught_another_autumn_chunk_oven_tray_organ |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

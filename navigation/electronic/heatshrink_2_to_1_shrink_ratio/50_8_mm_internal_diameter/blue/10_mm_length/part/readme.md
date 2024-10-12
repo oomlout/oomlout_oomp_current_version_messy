@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | submit |  
+| bip_39_word_dash_10 | submit-layer-same-brave-slim-fire-music-fury-guess-kick |  
+| bip_39_word_dash_11 | submit-layer-same-brave-slim-fire-music-fury-guess-kick-prepare |  
+| bip_39_word_dash_12 | submit-layer-same-brave-slim-fire-music-fury-guess-kick-prepare-airport |  
+| bip_39_word_dash_2 | submit-layer |  
+| bip_39_word_dash_3 | submit-layer-same |  
+| bip_39_word_dash_4 | submit-layer-same-brave |  
+| bip_39_word_dash_5 | submit-layer-same-brave-slim |  
+| bip_39_word_dash_6 | submit-layer-same-brave-slim-fire |  
+| bip_39_word_dash_7 | submit-layer-same-brave-slim-fire-music |  
+| bip_39_word_dash_8 | submit-layer-same-brave-slim-fire-music-fury |  
+| bip_39_word_dash_9 | submit-layer-same-brave-slim-fire-music-fury-guess |  
 | bip_39_word_new_br_1 | submit |  
 | bip_39_word_new_br_10 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury<br>guess<br>kick |  
 | bip_39_word_new_br_11 | submit<br>layer<br>same<br>brave<br>slim<br>fire<br>music<br>fury<br>guess<br>kick<br>prepare |  
@@ -147,6 +159,18 @@ guess |
 | bip_39_word_space_7 | submit layer same brave slim fire music |  
 | bip_39_word_space_8 | submit layer same brave slim fire music fury |  
 | bip_39_word_space_9 | submit layer same brave slim fire music fury guess |  
+| bip_39_word_underscore_1 | submit |  
+| bip_39_word_underscore_10 | submit_layer_same_brave_slim_fire_music_fury_guess_kick |  
+| bip_39_word_underscore_11 | submit_layer_same_brave_slim_fire_music_fury_guess_kick_prepare |  
+| bip_39_word_underscore_12 | submit_layer_same_brave_slim_fire_music_fury_guess_kick_prepare_airport |  
+| bip_39_word_underscore_2 | submit_layer |  
+| bip_39_word_underscore_3 | submit_layer_same |  
+| bip_39_word_underscore_4 | submit_layer_same_brave |  
+| bip_39_word_underscore_5 | submit_layer_same_brave_slim |  
+| bip_39_word_underscore_6 | submit_layer_same_brave_slim_fire |  
+| bip_39_word_underscore_7 | submit_layer_same_brave_slim_fire_music |  
+| bip_39_word_underscore_8 | submit_layer_same_brave_slim_fire_music_fury |  
+| bip_39_word_underscore_9 | submit_layer_same_brave_slim_fire_music_fury_guess |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

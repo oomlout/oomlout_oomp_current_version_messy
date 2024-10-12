@@ -1,3 +1,15 @@
+bip_39_word_dash_1: primary
+bip_39_word_dash_10: primary-inform-once-pulp-helmet-wall-vacant-nephew-believe-slice
+bip_39_word_dash_11: primary-inform-once-pulp-helmet-wall-vacant-nephew-believe-slice-stairs
+bip_39_word_dash_12: primary-inform-once-pulp-helmet-wall-vacant-nephew-believe-slice-stairs-area
+bip_39_word_dash_2: primary-inform
+bip_39_word_dash_3: primary-inform-once
+bip_39_word_dash_4: primary-inform-once-pulp
+bip_39_word_dash_5: primary-inform-once-pulp-helmet
+bip_39_word_dash_6: primary-inform-once-pulp-helmet-wall
+bip_39_word_dash_7: primary-inform-once-pulp-helmet-wall-vacant
+bip_39_word_dash_8: primary-inform-once-pulp-helmet-wall-vacant-nephew
+bip_39_word_dash_9: primary-inform-once-pulp-helmet-wall-vacant-nephew-believe
 bip_39_word_new_br_1: primary
 bip_39_word_new_br_10: primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice
 bip_39_word_new_br_11: primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice<br>stairs
@@ -193,6 +205,18 @@ bip_39_word_space_6: primary inform once pulp helmet wall
 bip_39_word_space_7: primary inform once pulp helmet wall vacant
 bip_39_word_space_8: primary inform once pulp helmet wall vacant nephew
 bip_39_word_space_9: primary inform once pulp helmet wall vacant nephew believe
+bip_39_word_underscore_1: primary
+bip_39_word_underscore_10: primary_inform_once_pulp_helmet_wall_vacant_nephew_believe_slice
+bip_39_word_underscore_11: primary_inform_once_pulp_helmet_wall_vacant_nephew_believe_slice_stairs
+bip_39_word_underscore_12: primary_inform_once_pulp_helmet_wall_vacant_nephew_believe_slice_stairs_area
+bip_39_word_underscore_2: primary_inform
+bip_39_word_underscore_3: primary_inform_once
+bip_39_word_underscore_4: primary_inform_once_pulp
+bip_39_word_underscore_5: primary_inform_once_pulp_helmet
+bip_39_word_underscore_6: primary_inform_once_pulp_helmet_wall
+bip_39_word_underscore_7: primary_inform_once_pulp_helmet_wall_vacant
+bip_39_word_underscore_8: primary_inform_once_pulp_helmet_wall_vacant_nephew
+bip_39_word_underscore_9: primary_inform_once_pulp_helmet_wall_vacant_nephew_believe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

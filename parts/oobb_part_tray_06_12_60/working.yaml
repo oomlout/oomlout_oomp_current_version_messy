@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pause
+bip_39_word_dash_10: pause-burger-credit-lawn-menu-inside-uphold-elephant-job-pact
+bip_39_word_dash_11: pause-burger-credit-lawn-menu-inside-uphold-elephant-job-pact-ticket
+bip_39_word_dash_12: pause-burger-credit-lawn-menu-inside-uphold-elephant-job-pact-ticket-anchor
+bip_39_word_dash_2: pause-burger
+bip_39_word_dash_3: pause-burger-credit
+bip_39_word_dash_4: pause-burger-credit-lawn
+bip_39_word_dash_5: pause-burger-credit-lawn-menu
+bip_39_word_dash_6: pause-burger-credit-lawn-menu-inside
+bip_39_word_dash_7: pause-burger-credit-lawn-menu-inside-uphold
+bip_39_word_dash_8: pause-burger-credit-lawn-menu-inside-uphold-elephant
+bip_39_word_dash_9: pause-burger-credit-lawn-menu-inside-uphold-elephant-job
 bip_39_word_new_br_1: pause
 bip_39_word_new_br_10: pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact
 bip_39_word_new_br_11: pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact<br>ticket
@@ -193,6 +205,18 @@ bip_39_word_space_6: pause burger credit lawn menu inside
 bip_39_word_space_7: pause burger credit lawn menu inside uphold
 bip_39_word_space_8: pause burger credit lawn menu inside uphold elephant
 bip_39_word_space_9: pause burger credit lawn menu inside uphold elephant job
+bip_39_word_underscore_1: pause
+bip_39_word_underscore_10: pause_burger_credit_lawn_menu_inside_uphold_elephant_job_pact
+bip_39_word_underscore_11: pause_burger_credit_lawn_menu_inside_uphold_elephant_job_pact_ticket
+bip_39_word_underscore_12: pause_burger_credit_lawn_menu_inside_uphold_elephant_job_pact_ticket_anchor
+bip_39_word_underscore_2: pause_burger
+bip_39_word_underscore_3: pause_burger_credit
+bip_39_word_underscore_4: pause_burger_credit_lawn
+bip_39_word_underscore_5: pause_burger_credit_lawn_menu
+bip_39_word_underscore_6: pause_burger_credit_lawn_menu_inside
+bip_39_word_underscore_7: pause_burger_credit_lawn_menu_inside_uphold
+bip_39_word_underscore_8: pause_burger_credit_lawn_menu_inside_uphold_elephant
+bip_39_word_underscore_9: pause_burger_credit_lawn_menu_inside_uphold_elephant_job
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

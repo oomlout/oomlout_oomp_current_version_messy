@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eternal |  
+| bip_39_word_dash_10 | eternal-birth-tent-staff-oppose-stone-blue-battle-occur-snap |  
+| bip_39_word_dash_11 | eternal-birth-tent-staff-oppose-stone-blue-battle-occur-snap-distance |  
+| bip_39_word_dash_12 | eternal-birth-tent-staff-oppose-stone-blue-battle-occur-snap-distance-arm |  
+| bip_39_word_dash_2 | eternal-birth |  
+| bip_39_word_dash_3 | eternal-birth-tent |  
+| bip_39_word_dash_4 | eternal-birth-tent-staff |  
+| bip_39_word_dash_5 | eternal-birth-tent-staff-oppose |  
+| bip_39_word_dash_6 | eternal-birth-tent-staff-oppose-stone |  
+| bip_39_word_dash_7 | eternal-birth-tent-staff-oppose-stone-blue |  
+| bip_39_word_dash_8 | eternal-birth-tent-staff-oppose-stone-blue-battle |  
+| bip_39_word_dash_9 | eternal-birth-tent-staff-oppose-stone-blue-battle-occur |  
 | bip_39_word_new_br_1 | eternal |  
 | bip_39_word_new_br_10 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle<br>occur<br>snap |  
 | bip_39_word_new_br_11 | eternal<br>birth<br>tent<br>staff<br>oppose<br>stone<br>blue<br>battle<br>occur<br>snap<br>distance |  
@@ -147,6 +159,18 @@ occur |
 | bip_39_word_space_7 | eternal birth tent staff oppose stone blue |  
 | bip_39_word_space_8 | eternal birth tent staff oppose stone blue battle |  
 | bip_39_word_space_9 | eternal birth tent staff oppose stone blue battle occur |  
+| bip_39_word_underscore_1 | eternal |  
+| bip_39_word_underscore_10 | eternal_birth_tent_staff_oppose_stone_blue_battle_occur_snap |  
+| bip_39_word_underscore_11 | eternal_birth_tent_staff_oppose_stone_blue_battle_occur_snap_distance |  
+| bip_39_word_underscore_12 | eternal_birth_tent_staff_oppose_stone_blue_battle_occur_snap_distance_arm |  
+| bip_39_word_underscore_2 | eternal_birth |  
+| bip_39_word_underscore_3 | eternal_birth_tent |  
+| bip_39_word_underscore_4 | eternal_birth_tent_staff |  
+| bip_39_word_underscore_5 | eternal_birth_tent_staff_oppose |  
+| bip_39_word_underscore_6 | eternal_birth_tent_staff_oppose_stone |  
+| bip_39_word_underscore_7 | eternal_birth_tent_staff_oppose_stone_blue |  
+| bip_39_word_underscore_8 | eternal_birth_tent_staff_oppose_stone_blue_battle |  
+| bip_39_word_underscore_9 | eternal_birth_tent_staff_oppose_stone_blue_battle_occur |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

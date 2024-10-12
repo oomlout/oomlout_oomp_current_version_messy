@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | laundry |  
+| bip_39_word_dash_10 | laundry-prevent-flower-daring-release-ridge-turn-wheel-inherit-term |  
+| bip_39_word_dash_11 | laundry-prevent-flower-daring-release-ridge-turn-wheel-inherit-term-powder |  
+| bip_39_word_dash_12 | laundry-prevent-flower-daring-release-ridge-turn-wheel-inherit-term-powder-artist |  
+| bip_39_word_dash_2 | laundry-prevent |  
+| bip_39_word_dash_3 | laundry-prevent-flower |  
+| bip_39_word_dash_4 | laundry-prevent-flower-daring |  
+| bip_39_word_dash_5 | laundry-prevent-flower-daring-release |  
+| bip_39_word_dash_6 | laundry-prevent-flower-daring-release-ridge |  
+| bip_39_word_dash_7 | laundry-prevent-flower-daring-release-ridge-turn |  
+| bip_39_word_dash_8 | laundry-prevent-flower-daring-release-ridge-turn-wheel |  
+| bip_39_word_dash_9 | laundry-prevent-flower-daring-release-ridge-turn-wheel-inherit |  
 | bip_39_word_new_br_1 | laundry |  
 | bip_39_word_new_br_10 | laundry<br>prevent<br>flower<br>daring<br>release<br>ridge<br>turn<br>wheel<br>inherit<br>term |  
 | bip_39_word_new_br_11 | laundry<br>prevent<br>flower<br>daring<br>release<br>ridge<br>turn<br>wheel<br>inherit<br>term<br>powder |  
@@ -147,6 +159,18 @@ inherit |
 | bip_39_word_space_7 | laundry prevent flower daring release ridge turn |  
 | bip_39_word_space_8 | laundry prevent flower daring release ridge turn wheel |  
 | bip_39_word_space_9 | laundry prevent flower daring release ridge turn wheel inherit |  
+| bip_39_word_underscore_1 | laundry |  
+| bip_39_word_underscore_10 | laundry_prevent_flower_daring_release_ridge_turn_wheel_inherit_term |  
+| bip_39_word_underscore_11 | laundry_prevent_flower_daring_release_ridge_turn_wheel_inherit_term_powder |  
+| bip_39_word_underscore_12 | laundry_prevent_flower_daring_release_ridge_turn_wheel_inherit_term_powder_artist |  
+| bip_39_word_underscore_2 | laundry_prevent |  
+| bip_39_word_underscore_3 | laundry_prevent_flower |  
+| bip_39_word_underscore_4 | laundry_prevent_flower_daring |  
+| bip_39_word_underscore_5 | laundry_prevent_flower_daring_release |  
+| bip_39_word_underscore_6 | laundry_prevent_flower_daring_release_ridge |  
+| bip_39_word_underscore_7 | laundry_prevent_flower_daring_release_ridge_turn |  
+| bip_39_word_underscore_8 | laundry_prevent_flower_daring_release_ridge_turn_wheel |  
+| bip_39_word_underscore_9 | laundry_prevent_flower_daring_release_ridge_turn_wheel_inherit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

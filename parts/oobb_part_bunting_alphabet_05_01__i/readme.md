@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gospel |  
+| bip_39_word_dash_10 | gospel-index-twin-silent-injury-key-resemble-culture-token-stumble |  
+| bip_39_word_dash_11 | gospel-index-twin-silent-injury-key-resemble-culture-token-stumble-frog |  
+| bip_39_word_dash_12 | gospel-index-twin-silent-injury-key-resemble-culture-token-stumble-frog-about |  
+| bip_39_word_dash_2 | gospel-index |  
+| bip_39_word_dash_3 | gospel-index-twin |  
+| bip_39_word_dash_4 | gospel-index-twin-silent |  
+| bip_39_word_dash_5 | gospel-index-twin-silent-injury |  
+| bip_39_word_dash_6 | gospel-index-twin-silent-injury-key |  
+| bip_39_word_dash_7 | gospel-index-twin-silent-injury-key-resemble |  
+| bip_39_word_dash_8 | gospel-index-twin-silent-injury-key-resemble-culture |  
+| bip_39_word_dash_9 | gospel-index-twin-silent-injury-key-resemble-culture-token |  
 | bip_39_word_new_br_1 | gospel |  
 | bip_39_word_new_br_10 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture<br>token<br>stumble |  
 | bip_39_word_new_br_11 | gospel<br>index<br>twin<br>silent<br>injury<br>key<br>resemble<br>culture<br>token<br>stumble<br>frog |  
@@ -147,6 +159,18 @@ token |
 | bip_39_word_space_7 | gospel index twin silent injury key resemble |  
 | bip_39_word_space_8 | gospel index twin silent injury key resemble culture |  
 | bip_39_word_space_9 | gospel index twin silent injury key resemble culture token |  
+| bip_39_word_underscore_1 | gospel |  
+| bip_39_word_underscore_10 | gospel_index_twin_silent_injury_key_resemble_culture_token_stumble |  
+| bip_39_word_underscore_11 | gospel_index_twin_silent_injury_key_resemble_culture_token_stumble_frog |  
+| bip_39_word_underscore_12 | gospel_index_twin_silent_injury_key_resemble_culture_token_stumble_frog_about |  
+| bip_39_word_underscore_2 | gospel_index |  
+| bip_39_word_underscore_3 | gospel_index_twin |  
+| bip_39_word_underscore_4 | gospel_index_twin_silent |  
+| bip_39_word_underscore_5 | gospel_index_twin_silent_injury |  
+| bip_39_word_underscore_6 | gospel_index_twin_silent_injury_key |  
+| bip_39_word_underscore_7 | gospel_index_twin_silent_injury_key_resemble |  
+| bip_39_word_underscore_8 | gospel_index_twin_silent_injury_key_resemble_culture |  
+| bip_39_word_underscore_9 | gospel_index_twin_silent_injury_key_resemble_culture_token |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

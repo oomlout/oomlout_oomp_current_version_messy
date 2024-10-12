@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | economy |  
+| bip_39_word_dash_10 | economy-plunge-mandate-torch-print-punch-exact-summer-snack-silver |  
+| bip_39_word_dash_11 | economy-plunge-mandate-torch-print-punch-exact-summer-snack-silver-frame |  
+| bip_39_word_dash_12 | economy-plunge-mandate-torch-print-punch-exact-summer-snack-silver-frame-attack |  
+| bip_39_word_dash_2 | economy-plunge |  
+| bip_39_word_dash_3 | economy-plunge-mandate |  
+| bip_39_word_dash_4 | economy-plunge-mandate-torch |  
+| bip_39_word_dash_5 | economy-plunge-mandate-torch-print |  
+| bip_39_word_dash_6 | economy-plunge-mandate-torch-print-punch |  
+| bip_39_word_dash_7 | economy-plunge-mandate-torch-print-punch-exact |  
+| bip_39_word_dash_8 | economy-plunge-mandate-torch-print-punch-exact-summer |  
+| bip_39_word_dash_9 | economy-plunge-mandate-torch-print-punch-exact-summer-snack |  
 | bip_39_word_new_br_1 | economy |  
 | bip_39_word_new_br_10 | economy<br>plunge<br>mandate<br>torch<br>print<br>punch<br>exact<br>summer<br>snack<br>silver |  
 | bip_39_word_new_br_11 | economy<br>plunge<br>mandate<br>torch<br>print<br>punch<br>exact<br>summer<br>snack<br>silver<br>frame |  
@@ -147,6 +159,18 @@ snack |
 | bip_39_word_space_7 | economy plunge mandate torch print punch exact |  
 | bip_39_word_space_8 | economy plunge mandate torch print punch exact summer |  
 | bip_39_word_space_9 | economy plunge mandate torch print punch exact summer snack |  
+| bip_39_word_underscore_1 | economy |  
+| bip_39_word_underscore_10 | economy_plunge_mandate_torch_print_punch_exact_summer_snack_silver |  
+| bip_39_word_underscore_11 | economy_plunge_mandate_torch_print_punch_exact_summer_snack_silver_frame |  
+| bip_39_word_underscore_12 | economy_plunge_mandate_torch_print_punch_exact_summer_snack_silver_frame_attack |  
+| bip_39_word_underscore_2 | economy_plunge |  
+| bip_39_word_underscore_3 | economy_plunge_mandate |  
+| bip_39_word_underscore_4 | economy_plunge_mandate_torch |  
+| bip_39_word_underscore_5 | economy_plunge_mandate_torch_print |  
+| bip_39_word_underscore_6 | economy_plunge_mandate_torch_print_punch |  
+| bip_39_word_underscore_7 | economy_plunge_mandate_torch_print_punch_exact |  
+| bip_39_word_underscore_8 | economy_plunge_mandate_torch_print_punch_exact_summer |  
+| bip_39_word_underscore_9 | economy_plunge_mandate_torch_print_punch_exact_summer_snack |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

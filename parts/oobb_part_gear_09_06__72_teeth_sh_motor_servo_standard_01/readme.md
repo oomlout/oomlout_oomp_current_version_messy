@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | suffer |  
+| bip_39_word_dash_10 | suffer-oven-song-pill-lake-opinion-across-next-symptom-harsh |  
+| bip_39_word_dash_11 | suffer-oven-song-pill-lake-opinion-across-next-symptom-harsh-teach |  
+| bip_39_word_dash_12 | suffer-oven-song-pill-lake-opinion-across-next-symptom-harsh-teach-adapt |  
+| bip_39_word_dash_2 | suffer-oven |  
+| bip_39_word_dash_3 | suffer-oven-song |  
+| bip_39_word_dash_4 | suffer-oven-song-pill |  
+| bip_39_word_dash_5 | suffer-oven-song-pill-lake |  
+| bip_39_word_dash_6 | suffer-oven-song-pill-lake-opinion |  
+| bip_39_word_dash_7 | suffer-oven-song-pill-lake-opinion-across |  
+| bip_39_word_dash_8 | suffer-oven-song-pill-lake-opinion-across-next |  
+| bip_39_word_dash_9 | suffer-oven-song-pill-lake-opinion-across-next-symptom |  
 | bip_39_word_new_br_1 | suffer |  
 | bip_39_word_new_br_10 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next<br>symptom<br>harsh |  
 | bip_39_word_new_br_11 | suffer<br>oven<br>song<br>pill<br>lake<br>opinion<br>across<br>next<br>symptom<br>harsh<br>teach |  
@@ -147,6 +159,18 @@ symptom |
 | bip_39_word_space_7 | suffer oven song pill lake opinion across |  
 | bip_39_word_space_8 | suffer oven song pill lake opinion across next |  
 | bip_39_word_space_9 | suffer oven song pill lake opinion across next symptom |  
+| bip_39_word_underscore_1 | suffer |  
+| bip_39_word_underscore_10 | suffer_oven_song_pill_lake_opinion_across_next_symptom_harsh |  
+| bip_39_word_underscore_11 | suffer_oven_song_pill_lake_opinion_across_next_symptom_harsh_teach |  
+| bip_39_word_underscore_12 | suffer_oven_song_pill_lake_opinion_across_next_symptom_harsh_teach_adapt |  
+| bip_39_word_underscore_2 | suffer_oven |  
+| bip_39_word_underscore_3 | suffer_oven_song |  
+| bip_39_word_underscore_4 | suffer_oven_song_pill |  
+| bip_39_word_underscore_5 | suffer_oven_song_pill_lake |  
+| bip_39_word_underscore_6 | suffer_oven_song_pill_lake_opinion |  
+| bip_39_word_underscore_7 | suffer_oven_song_pill_lake_opinion_across |  
+| bip_39_word_underscore_8 | suffer_oven_song_pill_lake_opinion_across_next |  
+| bip_39_word_underscore_9 | suffer_oven_song_pill_lake_opinion_across_next_symptom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

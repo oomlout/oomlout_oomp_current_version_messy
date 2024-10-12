@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mention |  
+| bip_39_word_dash_10 | mention-broccoli-shrug-mix-napkin-master-smoke-sadness-offer-baby |  
+| bip_39_word_dash_11 | mention-broccoli-shrug-mix-napkin-master-smoke-sadness-offer-baby-else |  
+| bip_39_word_dash_12 | mention-broccoli-shrug-mix-napkin-master-smoke-sadness-offer-baby-else-attitude |  
+| bip_39_word_dash_2 | mention-broccoli |  
+| bip_39_word_dash_3 | mention-broccoli-shrug |  
+| bip_39_word_dash_4 | mention-broccoli-shrug-mix |  
+| bip_39_word_dash_5 | mention-broccoli-shrug-mix-napkin |  
+| bip_39_word_dash_6 | mention-broccoli-shrug-mix-napkin-master |  
+| bip_39_word_dash_7 | mention-broccoli-shrug-mix-napkin-master-smoke |  
+| bip_39_word_dash_8 | mention-broccoli-shrug-mix-napkin-master-smoke-sadness |  
+| bip_39_word_dash_9 | mention-broccoli-shrug-mix-napkin-master-smoke-sadness-offer |  
 | bip_39_word_new_br_1 | mention |  
 | bip_39_word_new_br_10 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby |  
 | bip_39_word_new_br_11 | mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby<br>else |  
@@ -147,6 +159,18 @@ offer |
 | bip_39_word_space_7 | mention broccoli shrug mix napkin master smoke |  
 | bip_39_word_space_8 | mention broccoli shrug mix napkin master smoke sadness |  
 | bip_39_word_space_9 | mention broccoli shrug mix napkin master smoke sadness offer |  
+| bip_39_word_underscore_1 | mention |  
+| bip_39_word_underscore_10 | mention_broccoli_shrug_mix_napkin_master_smoke_sadness_offer_baby |  
+| bip_39_word_underscore_11 | mention_broccoli_shrug_mix_napkin_master_smoke_sadness_offer_baby_else |  
+| bip_39_word_underscore_12 | mention_broccoli_shrug_mix_napkin_master_smoke_sadness_offer_baby_else_attitude |  
+| bip_39_word_underscore_2 | mention_broccoli |  
+| bip_39_word_underscore_3 | mention_broccoli_shrug |  
+| bip_39_word_underscore_4 | mention_broccoli_shrug_mix |  
+| bip_39_word_underscore_5 | mention_broccoli_shrug_mix_napkin |  
+| bip_39_word_underscore_6 | mention_broccoli_shrug_mix_napkin_master |  
+| bip_39_word_underscore_7 | mention_broccoli_shrug_mix_napkin_master_smoke |  
+| bip_39_word_underscore_8 | mention_broccoli_shrug_mix_napkin_master_smoke_sadness |  
+| bip_39_word_underscore_9 | mention_broccoli_shrug_mix_napkin_master_smoke_sadness_offer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

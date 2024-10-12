@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | company |  
+| bip_39_word_dash_10 | company-shop-this-trophy-quiz-uncle-pride-grain-meadow-possible |  
+| bip_39_word_dash_11 | company-shop-this-trophy-quiz-uncle-pride-grain-meadow-possible-tank |  
+| bip_39_word_dash_12 | company-shop-this-trophy-quiz-uncle-pride-grain-meadow-possible-tank-artefact |  
+| bip_39_word_dash_2 | company-shop |  
+| bip_39_word_dash_3 | company-shop-this |  
+| bip_39_word_dash_4 | company-shop-this-trophy |  
+| bip_39_word_dash_5 | company-shop-this-trophy-quiz |  
+| bip_39_word_dash_6 | company-shop-this-trophy-quiz-uncle |  
+| bip_39_word_dash_7 | company-shop-this-trophy-quiz-uncle-pride |  
+| bip_39_word_dash_8 | company-shop-this-trophy-quiz-uncle-pride-grain |  
+| bip_39_word_dash_9 | company-shop-this-trophy-quiz-uncle-pride-grain-meadow |  
 | bip_39_word_new_br_1 | company |  
 | bip_39_word_new_br_10 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain<br>meadow<br>possible |  
 | bip_39_word_new_br_11 | company<br>shop<br>this<br>trophy<br>quiz<br>uncle<br>pride<br>grain<br>meadow<br>possible<br>tank |  
@@ -147,6 +159,18 @@ meadow |
 | bip_39_word_space_7 | company shop this trophy quiz uncle pride |  
 | bip_39_word_space_8 | company shop this trophy quiz uncle pride grain |  
 | bip_39_word_space_9 | company shop this trophy quiz uncle pride grain meadow |  
+| bip_39_word_underscore_1 | company |  
+| bip_39_word_underscore_10 | company_shop_this_trophy_quiz_uncle_pride_grain_meadow_possible |  
+| bip_39_word_underscore_11 | company_shop_this_trophy_quiz_uncle_pride_grain_meadow_possible_tank |  
+| bip_39_word_underscore_12 | company_shop_this_trophy_quiz_uncle_pride_grain_meadow_possible_tank_artefact |  
+| bip_39_word_underscore_2 | company_shop |  
+| bip_39_word_underscore_3 | company_shop_this |  
+| bip_39_word_underscore_4 | company_shop_this_trophy |  
+| bip_39_word_underscore_5 | company_shop_this_trophy_quiz |  
+| bip_39_word_underscore_6 | company_shop_this_trophy_quiz_uncle |  
+| bip_39_word_underscore_7 | company_shop_this_trophy_quiz_uncle_pride |  
+| bip_39_word_underscore_8 | company_shop_this_trophy_quiz_uncle_pride_grain |  
+| bip_39_word_underscore_9 | company_shop_this_trophy_quiz_uncle_pride_grain_meadow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

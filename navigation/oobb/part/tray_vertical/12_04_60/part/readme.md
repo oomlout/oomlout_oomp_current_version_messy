@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blur |  
+| bip_39_word_dash_10 | blur-undo-runway-put-average-picnic-clerk-hover-minute-obscure |  
+| bip_39_word_dash_11 | blur-undo-runway-put-average-picnic-clerk-hover-minute-obscure-apple |  
+| bip_39_word_dash_12 | blur-undo-runway-put-average-picnic-clerk-hover-minute-obscure-apple-about |  
+| bip_39_word_dash_2 | blur-undo |  
+| bip_39_word_dash_3 | blur-undo-runway |  
+| bip_39_word_dash_4 | blur-undo-runway-put |  
+| bip_39_word_dash_5 | blur-undo-runway-put-average |  
+| bip_39_word_dash_6 | blur-undo-runway-put-average-picnic |  
+| bip_39_word_dash_7 | blur-undo-runway-put-average-picnic-clerk |  
+| bip_39_word_dash_8 | blur-undo-runway-put-average-picnic-clerk-hover |  
+| bip_39_word_dash_9 | blur-undo-runway-put-average-picnic-clerk-hover-minute |  
 | bip_39_word_new_br_1 | blur |  
 | bip_39_word_new_br_10 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover<br>minute<br>obscure |  
 | bip_39_word_new_br_11 | blur<br>undo<br>runway<br>put<br>average<br>picnic<br>clerk<br>hover<br>minute<br>obscure<br>apple |  
@@ -147,6 +159,18 @@ minute |
 | bip_39_word_space_7 | blur undo runway put average picnic clerk |  
 | bip_39_word_space_8 | blur undo runway put average picnic clerk hover |  
 | bip_39_word_space_9 | blur undo runway put average picnic clerk hover minute |  
+| bip_39_word_underscore_1 | blur |  
+| bip_39_word_underscore_10 | blur_undo_runway_put_average_picnic_clerk_hover_minute_obscure |  
+| bip_39_word_underscore_11 | blur_undo_runway_put_average_picnic_clerk_hover_minute_obscure_apple |  
+| bip_39_word_underscore_12 | blur_undo_runway_put_average_picnic_clerk_hover_minute_obscure_apple_about |  
+| bip_39_word_underscore_2 | blur_undo |  
+| bip_39_word_underscore_3 | blur_undo_runway |  
+| bip_39_word_underscore_4 | blur_undo_runway_put |  
+| bip_39_word_underscore_5 | blur_undo_runway_put_average |  
+| bip_39_word_underscore_6 | blur_undo_runway_put_average_picnic |  
+| bip_39_word_underscore_7 | blur_undo_runway_put_average_picnic_clerk |  
+| bip_39_word_underscore_8 | blur_undo_runway_put_average_picnic_clerk_hover |  
+| bip_39_word_underscore_9 | blur_undo_runway_put_average_picnic_clerk_hover_minute |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

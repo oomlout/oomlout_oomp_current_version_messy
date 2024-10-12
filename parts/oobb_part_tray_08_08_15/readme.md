@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | version |  
+| bip_39_word_dash_10 | version-party-wait-disagree-shrimp-track-fuel-accuse-element-owner |  
+| bip_39_word_dash_11 | version-party-wait-disagree-shrimp-track-fuel-accuse-element-owner-beyond |  
+| bip_39_word_dash_12 | version-party-wait-disagree-shrimp-track-fuel-accuse-element-owner-beyond-author |  
+| bip_39_word_dash_2 | version-party |  
+| bip_39_word_dash_3 | version-party-wait |  
+| bip_39_word_dash_4 | version-party-wait-disagree |  
+| bip_39_word_dash_5 | version-party-wait-disagree-shrimp |  
+| bip_39_word_dash_6 | version-party-wait-disagree-shrimp-track |  
+| bip_39_word_dash_7 | version-party-wait-disagree-shrimp-track-fuel |  
+| bip_39_word_dash_8 | version-party-wait-disagree-shrimp-track-fuel-accuse |  
+| bip_39_word_dash_9 | version-party-wait-disagree-shrimp-track-fuel-accuse-element |  
 | bip_39_word_new_br_1 | version |  
 | bip_39_word_new_br_10 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse<br>element<br>owner |  
 | bip_39_word_new_br_11 | version<br>party<br>wait<br>disagree<br>shrimp<br>track<br>fuel<br>accuse<br>element<br>owner<br>beyond |  
@@ -147,6 +159,18 @@ element |
 | bip_39_word_space_7 | version party wait disagree shrimp track fuel |  
 | bip_39_word_space_8 | version party wait disagree shrimp track fuel accuse |  
 | bip_39_word_space_9 | version party wait disagree shrimp track fuel accuse element |  
+| bip_39_word_underscore_1 | version |  
+| bip_39_word_underscore_10 | version_party_wait_disagree_shrimp_track_fuel_accuse_element_owner |  
+| bip_39_word_underscore_11 | version_party_wait_disagree_shrimp_track_fuel_accuse_element_owner_beyond |  
+| bip_39_word_underscore_12 | version_party_wait_disagree_shrimp_track_fuel_accuse_element_owner_beyond_author |  
+| bip_39_word_underscore_2 | version_party |  
+| bip_39_word_underscore_3 | version_party_wait |  
+| bip_39_word_underscore_4 | version_party_wait_disagree |  
+| bip_39_word_underscore_5 | version_party_wait_disagree_shrimp |  
+| bip_39_word_underscore_6 | version_party_wait_disagree_shrimp_track |  
+| bip_39_word_underscore_7 | version_party_wait_disagree_shrimp_track_fuel |  
+| bip_39_word_underscore_8 | version_party_wait_disagree_shrimp_track_fuel_accuse |  
+| bip_39_word_underscore_9 | version_party_wait_disagree_shrimp_track_fuel_accuse_element |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

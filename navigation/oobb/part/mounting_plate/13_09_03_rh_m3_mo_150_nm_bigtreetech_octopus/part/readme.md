@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | abuse |  
+| bip_39_word_dash_10 | abuse-grass-volcano-clever-unit-badge-bullet-false-that-garden |  
+| bip_39_word_dash_11 | abuse-grass-volcano-clever-unit-badge-bullet-false-that-garden-name |  
+| bip_39_word_dash_12 | abuse-grass-volcano-clever-unit-badge-bullet-false-that-garden-name-arch |  
+| bip_39_word_dash_2 | abuse-grass |  
+| bip_39_word_dash_3 | abuse-grass-volcano |  
+| bip_39_word_dash_4 | abuse-grass-volcano-clever |  
+| bip_39_word_dash_5 | abuse-grass-volcano-clever-unit |  
+| bip_39_word_dash_6 | abuse-grass-volcano-clever-unit-badge |  
+| bip_39_word_dash_7 | abuse-grass-volcano-clever-unit-badge-bullet |  
+| bip_39_word_dash_8 | abuse-grass-volcano-clever-unit-badge-bullet-false |  
+| bip_39_word_dash_9 | abuse-grass-volcano-clever-unit-badge-bullet-false-that |  
 | bip_39_word_new_br_1 | abuse |  
 | bip_39_word_new_br_10 | abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden |  
 | bip_39_word_new_br_11 | abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden<br>name |  
@@ -147,6 +159,18 @@ that |
 | bip_39_word_space_7 | abuse grass volcano clever unit badge bullet |  
 | bip_39_word_space_8 | abuse grass volcano clever unit badge bullet false |  
 | bip_39_word_space_9 | abuse grass volcano clever unit badge bullet false that |  
+| bip_39_word_underscore_1 | abuse |  
+| bip_39_word_underscore_10 | abuse_grass_volcano_clever_unit_badge_bullet_false_that_garden |  
+| bip_39_word_underscore_11 | abuse_grass_volcano_clever_unit_badge_bullet_false_that_garden_name |  
+| bip_39_word_underscore_12 | abuse_grass_volcano_clever_unit_badge_bullet_false_that_garden_name_arch |  
+| bip_39_word_underscore_2 | abuse_grass |  
+| bip_39_word_underscore_3 | abuse_grass_volcano |  
+| bip_39_word_underscore_4 | abuse_grass_volcano_clever |  
+| bip_39_word_underscore_5 | abuse_grass_volcano_clever_unit |  
+| bip_39_word_underscore_6 | abuse_grass_volcano_clever_unit_badge |  
+| bip_39_word_underscore_7 | abuse_grass_volcano_clever_unit_badge_bullet |  
+| bip_39_word_underscore_8 | abuse_grass_volcano_clever_unit_badge_bullet_false |  
+| bip_39_word_underscore_9 | abuse_grass_volcano_clever_unit_badge_bullet_false_that |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

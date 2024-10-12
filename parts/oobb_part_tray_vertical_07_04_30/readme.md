@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | entry |  
+| bip_39_word_dash_10 | entry-math-camera-matter-able-utility-divert-mushroom-error-open |  
+| bip_39_word_dash_11 | entry-math-camera-matter-able-utility-divert-mushroom-error-open-social |  
+| bip_39_word_dash_12 | entry-math-camera-matter-able-utility-divert-mushroom-error-open-social-among |  
+| bip_39_word_dash_2 | entry-math |  
+| bip_39_word_dash_3 | entry-math-camera |  
+| bip_39_word_dash_4 | entry-math-camera-matter |  
+| bip_39_word_dash_5 | entry-math-camera-matter-able |  
+| bip_39_word_dash_6 | entry-math-camera-matter-able-utility |  
+| bip_39_word_dash_7 | entry-math-camera-matter-able-utility-divert |  
+| bip_39_word_dash_8 | entry-math-camera-matter-able-utility-divert-mushroom |  
+| bip_39_word_dash_9 | entry-math-camera-matter-able-utility-divert-mushroom-error |  
 | bip_39_word_new_br_1 | entry |  
 | bip_39_word_new_br_10 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open |  
 | bip_39_word_new_br_11 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open<br>social |  
@@ -147,6 +159,18 @@ error |
 | bip_39_word_space_7 | entry math camera matter able utility divert |  
 | bip_39_word_space_8 | entry math camera matter able utility divert mushroom |  
 | bip_39_word_space_9 | entry math camera matter able utility divert mushroom error |  
+| bip_39_word_underscore_1 | entry |  
+| bip_39_word_underscore_10 | entry_math_camera_matter_able_utility_divert_mushroom_error_open |  
+| bip_39_word_underscore_11 | entry_math_camera_matter_able_utility_divert_mushroom_error_open_social |  
+| bip_39_word_underscore_12 | entry_math_camera_matter_able_utility_divert_mushroom_error_open_social_among |  
+| bip_39_word_underscore_2 | entry_math |  
+| bip_39_word_underscore_3 | entry_math_camera |  
+| bip_39_word_underscore_4 | entry_math_camera_matter |  
+| bip_39_word_underscore_5 | entry_math_camera_matter_able |  
+| bip_39_word_underscore_6 | entry_math_camera_matter_able_utility |  
+| bip_39_word_underscore_7 | entry_math_camera_matter_able_utility_divert |  
+| bip_39_word_underscore_8 | entry_math_camera_matter_able_utility_divert_mushroom |  
+| bip_39_word_underscore_9 | entry_math_camera_matter_able_utility_divert_mushroom_error |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

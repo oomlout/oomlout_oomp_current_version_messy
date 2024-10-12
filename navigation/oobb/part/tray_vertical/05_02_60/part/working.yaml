@@ -1,3 +1,15 @@
+bip_39_word_dash_1: speed
+bip_39_word_dash_10: speed-coach-maze-abandon-act-girl-off-obscure-ostrich-option
+bip_39_word_dash_11: speed-coach-maze-abandon-act-girl-off-obscure-ostrich-option-loop
+bip_39_word_dash_12: speed-coach-maze-abandon-act-girl-off-obscure-ostrich-option-loop-antique
+bip_39_word_dash_2: speed-coach
+bip_39_word_dash_3: speed-coach-maze
+bip_39_word_dash_4: speed-coach-maze-abandon
+bip_39_word_dash_5: speed-coach-maze-abandon-act
+bip_39_word_dash_6: speed-coach-maze-abandon-act-girl
+bip_39_word_dash_7: speed-coach-maze-abandon-act-girl-off
+bip_39_word_dash_8: speed-coach-maze-abandon-act-girl-off-obscure
+bip_39_word_dash_9: speed-coach-maze-abandon-act-girl-off-obscure-ostrich
 bip_39_word_new_br_1: speed
 bip_39_word_new_br_10: speed<br>coach<br>maze<br>abandon<br>act<br>girl<br>off<br>obscure<br>ostrich<br>option
 bip_39_word_new_br_11: speed<br>coach<br>maze<br>abandon<br>act<br>girl<br>off<br>obscure<br>ostrich<br>option<br>loop
@@ -193,6 +205,18 @@ bip_39_word_space_6: speed coach maze abandon act girl
 bip_39_word_space_7: speed coach maze abandon act girl off
 bip_39_word_space_8: speed coach maze abandon act girl off obscure
 bip_39_word_space_9: speed coach maze abandon act girl off obscure ostrich
+bip_39_word_underscore_1: speed
+bip_39_word_underscore_10: speed_coach_maze_abandon_act_girl_off_obscure_ostrich_option
+bip_39_word_underscore_11: speed_coach_maze_abandon_act_girl_off_obscure_ostrich_option_loop
+bip_39_word_underscore_12: speed_coach_maze_abandon_act_girl_off_obscure_ostrich_option_loop_antique
+bip_39_word_underscore_2: speed_coach
+bip_39_word_underscore_3: speed_coach_maze
+bip_39_word_underscore_4: speed_coach_maze_abandon
+bip_39_word_underscore_5: speed_coach_maze_abandon_act
+bip_39_word_underscore_6: speed_coach_maze_abandon_act_girl
+bip_39_word_underscore_7: speed_coach_maze_abandon_act_girl_off
+bip_39_word_underscore_8: speed_coach_maze_abandon_act_girl_off_obscure
+bip_39_word_underscore_9: speed_coach_maze_abandon_act_girl_off_obscure_ostrich
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

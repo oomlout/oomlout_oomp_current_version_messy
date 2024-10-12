@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rare |  
+| bip_39_word_dash_10 | rare-result-hour-man-subject-shrug-recycle-despair-mountain-warrior |  
+| bip_39_word_dash_11 | rare-result-hour-man-subject-shrug-recycle-despair-mountain-warrior-hope |  
+| bip_39_word_dash_12 | rare-result-hour-man-subject-shrug-recycle-despair-mountain-warrior-hope-area |  
+| bip_39_word_dash_2 | rare-result |  
+| bip_39_word_dash_3 | rare-result-hour |  
+| bip_39_word_dash_4 | rare-result-hour-man |  
+| bip_39_word_dash_5 | rare-result-hour-man-subject |  
+| bip_39_word_dash_6 | rare-result-hour-man-subject-shrug |  
+| bip_39_word_dash_7 | rare-result-hour-man-subject-shrug-recycle |  
+| bip_39_word_dash_8 | rare-result-hour-man-subject-shrug-recycle-despair |  
+| bip_39_word_dash_9 | rare-result-hour-man-subject-shrug-recycle-despair-mountain |  
 | bip_39_word_new_br_1 | rare |  
 | bip_39_word_new_br_10 | rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair<br>mountain<br>warrior |  
 | bip_39_word_new_br_11 | rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair<br>mountain<br>warrior<br>hope |  
@@ -147,6 +159,18 @@ mountain |
 | bip_39_word_space_7 | rare result hour man subject shrug recycle |  
 | bip_39_word_space_8 | rare result hour man subject shrug recycle despair |  
 | bip_39_word_space_9 | rare result hour man subject shrug recycle despair mountain |  
+| bip_39_word_underscore_1 | rare |  
+| bip_39_word_underscore_10 | rare_result_hour_man_subject_shrug_recycle_despair_mountain_warrior |  
+| bip_39_word_underscore_11 | rare_result_hour_man_subject_shrug_recycle_despair_mountain_warrior_hope |  
+| bip_39_word_underscore_12 | rare_result_hour_man_subject_shrug_recycle_despair_mountain_warrior_hope_area |  
+| bip_39_word_underscore_2 | rare_result |  
+| bip_39_word_underscore_3 | rare_result_hour |  
+| bip_39_word_underscore_4 | rare_result_hour_man |  
+| bip_39_word_underscore_5 | rare_result_hour_man_subject |  
+| bip_39_word_underscore_6 | rare_result_hour_man_subject_shrug |  
+| bip_39_word_underscore_7 | rare_result_hour_man_subject_shrug_recycle |  
+| bip_39_word_underscore_8 | rare_result_hour_man_subject_shrug_recycle_despair |  
+| bip_39_word_underscore_9 | rare_result_hour_man_subject_shrug_recycle_despair_mountain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dutch |  
+| bip_39_word_dash_10 | dutch-feel-upgrade-midnight-pelican-alcohol-fit-echo-tell-lion |  
+| bip_39_word_dash_11 | dutch-feel-upgrade-midnight-pelican-alcohol-fit-echo-tell-lion-right |  
+| bip_39_word_dash_12 | dutch-feel-upgrade-midnight-pelican-alcohol-fit-echo-tell-lion-right-arm |  
+| bip_39_word_dash_2 | dutch-feel |  
+| bip_39_word_dash_3 | dutch-feel-upgrade |  
+| bip_39_word_dash_4 | dutch-feel-upgrade-midnight |  
+| bip_39_word_dash_5 | dutch-feel-upgrade-midnight-pelican |  
+| bip_39_word_dash_6 | dutch-feel-upgrade-midnight-pelican-alcohol |  
+| bip_39_word_dash_7 | dutch-feel-upgrade-midnight-pelican-alcohol-fit |  
+| bip_39_word_dash_8 | dutch-feel-upgrade-midnight-pelican-alcohol-fit-echo |  
+| bip_39_word_dash_9 | dutch-feel-upgrade-midnight-pelican-alcohol-fit-echo-tell |  
 | bip_39_word_new_br_1 | dutch |  
 | bip_39_word_new_br_10 | dutch<br>feel<br>upgrade<br>midnight<br>pelican<br>alcohol<br>fit<br>echo<br>tell<br>lion |  
 | bip_39_word_new_br_11 | dutch<br>feel<br>upgrade<br>midnight<br>pelican<br>alcohol<br>fit<br>echo<br>tell<br>lion<br>right |  
@@ -147,6 +159,18 @@ tell |
 | bip_39_word_space_7 | dutch feel upgrade midnight pelican alcohol fit |  
 | bip_39_word_space_8 | dutch feel upgrade midnight pelican alcohol fit echo |  
 | bip_39_word_space_9 | dutch feel upgrade midnight pelican alcohol fit echo tell |  
+| bip_39_word_underscore_1 | dutch |  
+| bip_39_word_underscore_10 | dutch_feel_upgrade_midnight_pelican_alcohol_fit_echo_tell_lion |  
+| bip_39_word_underscore_11 | dutch_feel_upgrade_midnight_pelican_alcohol_fit_echo_tell_lion_right |  
+| bip_39_word_underscore_12 | dutch_feel_upgrade_midnight_pelican_alcohol_fit_echo_tell_lion_right_arm |  
+| bip_39_word_underscore_2 | dutch_feel |  
+| bip_39_word_underscore_3 | dutch_feel_upgrade |  
+| bip_39_word_underscore_4 | dutch_feel_upgrade_midnight |  
+| bip_39_word_underscore_5 | dutch_feel_upgrade_midnight_pelican |  
+| bip_39_word_underscore_6 | dutch_feel_upgrade_midnight_pelican_alcohol |  
+| bip_39_word_underscore_7 | dutch_feel_upgrade_midnight_pelican_alcohol_fit |  
+| bip_39_word_underscore_8 | dutch_feel_upgrade_midnight_pelican_alcohol_fit_echo |  
+| bip_39_word_underscore_9 | dutch_feel_upgrade_midnight_pelican_alcohol_fit_echo_tell |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

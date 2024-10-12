@@ -1,3 +1,15 @@
+bip_39_word_dash_1: win
+bip_39_word_dash_10: win-adapt-habit-cause-involve-federal-mandate-high-bamboo-daring
+bip_39_word_dash_11: win-adapt-habit-cause-involve-federal-mandate-high-bamboo-daring-rough
+bip_39_word_dash_12: win-adapt-habit-cause-involve-federal-mandate-high-bamboo-daring-rough-air
+bip_39_word_dash_2: win-adapt
+bip_39_word_dash_3: win-adapt-habit
+bip_39_word_dash_4: win-adapt-habit-cause
+bip_39_word_dash_5: win-adapt-habit-cause-involve
+bip_39_word_dash_6: win-adapt-habit-cause-involve-federal
+bip_39_word_dash_7: win-adapt-habit-cause-involve-federal-mandate
+bip_39_word_dash_8: win-adapt-habit-cause-involve-federal-mandate-high
+bip_39_word_dash_9: win-adapt-habit-cause-involve-federal-mandate-high-bamboo
 bip_39_word_new_br_1: win
 bip_39_word_new_br_10: win<br>adapt<br>habit<br>cause<br>involve<br>federal<br>mandate<br>high<br>bamboo<br>daring
 bip_39_word_new_br_11: win<br>adapt<br>habit<br>cause<br>involve<br>federal<br>mandate<br>high<br>bamboo<br>daring<br>rough
@@ -193,6 +205,18 @@ bip_39_word_space_6: win adapt habit cause involve federal
 bip_39_word_space_7: win adapt habit cause involve federal mandate
 bip_39_word_space_8: win adapt habit cause involve federal mandate high
 bip_39_word_space_9: win adapt habit cause involve federal mandate high bamboo
+bip_39_word_underscore_1: win
+bip_39_word_underscore_10: win_adapt_habit_cause_involve_federal_mandate_high_bamboo_daring
+bip_39_word_underscore_11: win_adapt_habit_cause_involve_federal_mandate_high_bamboo_daring_rough
+bip_39_word_underscore_12: win_adapt_habit_cause_involve_federal_mandate_high_bamboo_daring_rough_air
+bip_39_word_underscore_2: win_adapt
+bip_39_word_underscore_3: win_adapt_habit
+bip_39_word_underscore_4: win_adapt_habit_cause
+bip_39_word_underscore_5: win_adapt_habit_cause_involve
+bip_39_word_underscore_6: win_adapt_habit_cause_involve_federal
+bip_39_word_underscore_7: win_adapt_habit_cause_involve_federal_mandate
+bip_39_word_underscore_8: win_adapt_habit_cause_involve_federal_mandate_high
+bip_39_word_underscore_9: win_adapt_habit_cause_involve_federal_mandate_high_bamboo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

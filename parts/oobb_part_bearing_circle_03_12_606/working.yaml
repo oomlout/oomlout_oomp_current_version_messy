@@ -1,3 +1,15 @@
+bip_39_word_dash_1: result
+bip_39_word_dash_10: result-length-leisure-custom-zero-party-report-muffin-opinion-bridge
+bip_39_word_dash_11: result-length-leisure-custom-zero-party-report-muffin-opinion-bridge-similar
+bip_39_word_dash_12: result-length-leisure-custom-zero-party-report-muffin-opinion-bridge-similar-art
+bip_39_word_dash_2: result-length
+bip_39_word_dash_3: result-length-leisure
+bip_39_word_dash_4: result-length-leisure-custom
+bip_39_word_dash_5: result-length-leisure-custom-zero
+bip_39_word_dash_6: result-length-leisure-custom-zero-party
+bip_39_word_dash_7: result-length-leisure-custom-zero-party-report
+bip_39_word_dash_8: result-length-leisure-custom-zero-party-report-muffin
+bip_39_word_dash_9: result-length-leisure-custom-zero-party-report-muffin-opinion
 bip_39_word_new_br_1: result
 bip_39_word_new_br_10: result<br>length<br>leisure<br>custom<br>zero<br>party<br>report<br>muffin<br>opinion<br>bridge
 bip_39_word_new_br_11: result<br>length<br>leisure<br>custom<br>zero<br>party<br>report<br>muffin<br>opinion<br>bridge<br>similar
@@ -194,6 +206,18 @@ bip_39_word_space_6: result length leisure custom zero party
 bip_39_word_space_7: result length leisure custom zero party report
 bip_39_word_space_8: result length leisure custom zero party report muffin
 bip_39_word_space_9: result length leisure custom zero party report muffin opinion
+bip_39_word_underscore_1: result
+bip_39_word_underscore_10: result_length_leisure_custom_zero_party_report_muffin_opinion_bridge
+bip_39_word_underscore_11: result_length_leisure_custom_zero_party_report_muffin_opinion_bridge_similar
+bip_39_word_underscore_12: result_length_leisure_custom_zero_party_report_muffin_opinion_bridge_similar_art
+bip_39_word_underscore_2: result_length
+bip_39_word_underscore_3: result_length_leisure
+bip_39_word_underscore_4: result_length_leisure_custom
+bip_39_word_underscore_5: result_length_leisure_custom_zero
+bip_39_word_underscore_6: result_length_leisure_custom_zero_party
+bip_39_word_underscore_7: result_length_leisure_custom_zero_party_report
+bip_39_word_underscore_8: result_length_leisure_custom_zero_party_report_muffin
+bip_39_word_underscore_9: result_length_leisure_custom_zero_party_report_muffin_opinion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

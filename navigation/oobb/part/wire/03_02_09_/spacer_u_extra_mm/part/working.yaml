@@ -1,3 +1,15 @@
+bip_39_word_dash_1: conduct
+bip_39_word_dash_10: conduct-blast-door-mushroom-okay-nice-nothing-perfect-unfold-key
+bip_39_word_dash_11: conduct-blast-door-mushroom-okay-nice-nothing-perfect-unfold-key-shift
+bip_39_word_dash_12: conduct-blast-door-mushroom-okay-nice-nothing-perfect-unfold-key-shift-actor
+bip_39_word_dash_2: conduct-blast
+bip_39_word_dash_3: conduct-blast-door
+bip_39_word_dash_4: conduct-blast-door-mushroom
+bip_39_word_dash_5: conduct-blast-door-mushroom-okay
+bip_39_word_dash_6: conduct-blast-door-mushroom-okay-nice
+bip_39_word_dash_7: conduct-blast-door-mushroom-okay-nice-nothing
+bip_39_word_dash_8: conduct-blast-door-mushroom-okay-nice-nothing-perfect
+bip_39_word_dash_9: conduct-blast-door-mushroom-okay-nice-nothing-perfect-unfold
 bip_39_word_new_br_1: conduct
 bip_39_word_new_br_10: conduct<br>blast<br>door<br>mushroom<br>okay<br>nice<br>nothing<br>perfect<br>unfold<br>key
 bip_39_word_new_br_11: conduct<br>blast<br>door<br>mushroom<br>okay<br>nice<br>nothing<br>perfect<br>unfold<br>key<br>shift
@@ -194,6 +206,18 @@ bip_39_word_space_6: conduct blast door mushroom okay nice
 bip_39_word_space_7: conduct blast door mushroom okay nice nothing
 bip_39_word_space_8: conduct blast door mushroom okay nice nothing perfect
 bip_39_word_space_9: conduct blast door mushroom okay nice nothing perfect unfold
+bip_39_word_underscore_1: conduct
+bip_39_word_underscore_10: conduct_blast_door_mushroom_okay_nice_nothing_perfect_unfold_key
+bip_39_word_underscore_11: conduct_blast_door_mushroom_okay_nice_nothing_perfect_unfold_key_shift
+bip_39_word_underscore_12: conduct_blast_door_mushroom_okay_nice_nothing_perfect_unfold_key_shift_actor
+bip_39_word_underscore_2: conduct_blast
+bip_39_word_underscore_3: conduct_blast_door
+bip_39_word_underscore_4: conduct_blast_door_mushroom
+bip_39_word_underscore_5: conduct_blast_door_mushroom_okay
+bip_39_word_underscore_6: conduct_blast_door_mushroom_okay_nice
+bip_39_word_underscore_7: conduct_blast_door_mushroom_okay_nice_nothing
+bip_39_word_underscore_8: conduct_blast_door_mushroom_okay_nice_nothing_perfect
+bip_39_word_underscore_9: conduct_blast_door_mushroom_okay_nice_nothing_perfect_unfold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

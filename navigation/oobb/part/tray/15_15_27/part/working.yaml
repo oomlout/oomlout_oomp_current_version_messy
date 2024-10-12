@@ -1,3 +1,15 @@
+bip_39_word_dash_1: evidence
+bip_39_word_dash_10: evidence-ticket-gown-drip-fuel-ice-laundry-midnight-remember-regular
+bip_39_word_dash_11: evidence-ticket-gown-drip-fuel-ice-laundry-midnight-remember-regular-genuine
+bip_39_word_dash_12: evidence-ticket-gown-drip-fuel-ice-laundry-midnight-remember-regular-genuine-account
+bip_39_word_dash_2: evidence-ticket
+bip_39_word_dash_3: evidence-ticket-gown
+bip_39_word_dash_4: evidence-ticket-gown-drip
+bip_39_word_dash_5: evidence-ticket-gown-drip-fuel
+bip_39_word_dash_6: evidence-ticket-gown-drip-fuel-ice
+bip_39_word_dash_7: evidence-ticket-gown-drip-fuel-ice-laundry
+bip_39_word_dash_8: evidence-ticket-gown-drip-fuel-ice-laundry-midnight
+bip_39_word_dash_9: evidence-ticket-gown-drip-fuel-ice-laundry-midnight-remember
 bip_39_word_new_br_1: evidence
 bip_39_word_new_br_10: evidence<br>ticket<br>gown<br>drip<br>fuel<br>ice<br>laundry<br>midnight<br>remember<br>regular
 bip_39_word_new_br_11: evidence<br>ticket<br>gown<br>drip<br>fuel<br>ice<br>laundry<br>midnight<br>remember<br>regular<br>genuine
@@ -194,6 +206,18 @@ bip_39_word_space_6: evidence ticket gown drip fuel ice
 bip_39_word_space_7: evidence ticket gown drip fuel ice laundry
 bip_39_word_space_8: evidence ticket gown drip fuel ice laundry midnight
 bip_39_word_space_9: evidence ticket gown drip fuel ice laundry midnight remember
+bip_39_word_underscore_1: evidence
+bip_39_word_underscore_10: evidence_ticket_gown_drip_fuel_ice_laundry_midnight_remember_regular
+bip_39_word_underscore_11: evidence_ticket_gown_drip_fuel_ice_laundry_midnight_remember_regular_genuine
+bip_39_word_underscore_12: evidence_ticket_gown_drip_fuel_ice_laundry_midnight_remember_regular_genuine_account
+bip_39_word_underscore_2: evidence_ticket
+bip_39_word_underscore_3: evidence_ticket_gown
+bip_39_word_underscore_4: evidence_ticket_gown_drip
+bip_39_word_underscore_5: evidence_ticket_gown_drip_fuel
+bip_39_word_underscore_6: evidence_ticket_gown_drip_fuel_ice
+bip_39_word_underscore_7: evidence_ticket_gown_drip_fuel_ice_laundry
+bip_39_word_underscore_8: evidence_ticket_gown_drip_fuel_ice_laundry_midnight
+bip_39_word_underscore_9: evidence_ticket_gown_drip_fuel_ice_laundry_midnight_remember
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

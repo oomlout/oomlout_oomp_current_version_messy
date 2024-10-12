@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rather
+bip_39_word_dash_10: rather-harbor-boat-moon-degree-raw-vast-mammal-anger-stone
+bip_39_word_dash_11: rather-harbor-boat-moon-degree-raw-vast-mammal-anger-stone-replace
+bip_39_word_dash_12: rather-harbor-boat-moon-degree-raw-vast-mammal-anger-stone-replace-absurd
+bip_39_word_dash_2: rather-harbor
+bip_39_word_dash_3: rather-harbor-boat
+bip_39_word_dash_4: rather-harbor-boat-moon
+bip_39_word_dash_5: rather-harbor-boat-moon-degree
+bip_39_word_dash_6: rather-harbor-boat-moon-degree-raw
+bip_39_word_dash_7: rather-harbor-boat-moon-degree-raw-vast
+bip_39_word_dash_8: rather-harbor-boat-moon-degree-raw-vast-mammal
+bip_39_word_dash_9: rather-harbor-boat-moon-degree-raw-vast-mammal-anger
 bip_39_word_new_br_1: rather
 bip_39_word_new_br_10: rather<br>harbor<br>boat<br>moon<br>degree<br>raw<br>vast<br>mammal<br>anger<br>stone
 bip_39_word_new_br_11: rather<br>harbor<br>boat<br>moon<br>degree<br>raw<br>vast<br>mammal<br>anger<br>stone<br>replace
@@ -192,6 +204,18 @@ bip_39_word_space_6: rather harbor boat moon degree raw
 bip_39_word_space_7: rather harbor boat moon degree raw vast
 bip_39_word_space_8: rather harbor boat moon degree raw vast mammal
 bip_39_word_space_9: rather harbor boat moon degree raw vast mammal anger
+bip_39_word_underscore_1: rather
+bip_39_word_underscore_10: rather_harbor_boat_moon_degree_raw_vast_mammal_anger_stone
+bip_39_word_underscore_11: rather_harbor_boat_moon_degree_raw_vast_mammal_anger_stone_replace
+bip_39_word_underscore_12: rather_harbor_boat_moon_degree_raw_vast_mammal_anger_stone_replace_absurd
+bip_39_word_underscore_2: rather_harbor
+bip_39_word_underscore_3: rather_harbor_boat
+bip_39_word_underscore_4: rather_harbor_boat_moon
+bip_39_word_underscore_5: rather_harbor_boat_moon_degree
+bip_39_word_underscore_6: rather_harbor_boat_moon_degree_raw
+bip_39_word_underscore_7: rather_harbor_boat_moon_degree_raw_vast
+bip_39_word_underscore_8: rather_harbor_boat_moon_degree_raw_vast_mammal
+bip_39_word_underscore_9: rather_harbor_boat_moon_degree_raw_vast_mammal_anger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

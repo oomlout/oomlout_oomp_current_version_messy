@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cream |  
+| bip_39_word_dash_10 | cream-focus-valley-pitch-thank-spring-poverty-grunt-cat-sausage |  
+| bip_39_word_dash_11 | cream-focus-valley-pitch-thank-spring-poverty-grunt-cat-sausage-tape |  
+| bip_39_word_dash_12 | cream-focus-valley-pitch-thank-spring-poverty-grunt-cat-sausage-tape-afraid |  
+| bip_39_word_dash_2 | cream-focus |  
+| bip_39_word_dash_3 | cream-focus-valley |  
+| bip_39_word_dash_4 | cream-focus-valley-pitch |  
+| bip_39_word_dash_5 | cream-focus-valley-pitch-thank |  
+| bip_39_word_dash_6 | cream-focus-valley-pitch-thank-spring |  
+| bip_39_word_dash_7 | cream-focus-valley-pitch-thank-spring-poverty |  
+| bip_39_word_dash_8 | cream-focus-valley-pitch-thank-spring-poverty-grunt |  
+| bip_39_word_dash_9 | cream-focus-valley-pitch-thank-spring-poverty-grunt-cat |  
 | bip_39_word_new_br_1 | cream |  
 | bip_39_word_new_br_10 | cream<br>focus<br>valley<br>pitch<br>thank<br>spring<br>poverty<br>grunt<br>cat<br>sausage |  
 | bip_39_word_new_br_11 | cream<br>focus<br>valley<br>pitch<br>thank<br>spring<br>poverty<br>grunt<br>cat<br>sausage<br>tape |  
@@ -147,6 +159,18 @@ cat |
 | bip_39_word_space_7 | cream focus valley pitch thank spring poverty |  
 | bip_39_word_space_8 | cream focus valley pitch thank spring poverty grunt |  
 | bip_39_word_space_9 | cream focus valley pitch thank spring poverty grunt cat |  
+| bip_39_word_underscore_1 | cream |  
+| bip_39_word_underscore_10 | cream_focus_valley_pitch_thank_spring_poverty_grunt_cat_sausage |  
+| bip_39_word_underscore_11 | cream_focus_valley_pitch_thank_spring_poverty_grunt_cat_sausage_tape |  
+| bip_39_word_underscore_12 | cream_focus_valley_pitch_thank_spring_poverty_grunt_cat_sausage_tape_afraid |  
+| bip_39_word_underscore_2 | cream_focus |  
+| bip_39_word_underscore_3 | cream_focus_valley |  
+| bip_39_word_underscore_4 | cream_focus_valley_pitch |  
+| bip_39_word_underscore_5 | cream_focus_valley_pitch_thank |  
+| bip_39_word_underscore_6 | cream_focus_valley_pitch_thank_spring |  
+| bip_39_word_underscore_7 | cream_focus_valley_pitch_thank_spring_poverty |  
+| bip_39_word_underscore_8 | cream_focus_valley_pitch_thank_spring_poverty_grunt |  
+| bip_39_word_underscore_9 | cream_focus_valley_pitch_thank_spring_poverty_grunt_cat |  
 | box_quantity | 230 |  
 | classification | packaging |  
 | classification_capital | Packaging |  

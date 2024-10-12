@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clown
+bip_39_word_dash_10: clown-universe-announce-tenant-wolf-swamp-dwarf-sail-cloth-monkey
+bip_39_word_dash_11: clown-universe-announce-tenant-wolf-swamp-dwarf-sail-cloth-monkey-shallow
+bip_39_word_dash_12: clown-universe-announce-tenant-wolf-swamp-dwarf-sail-cloth-monkey-shallow-actress
+bip_39_word_dash_2: clown-universe
+bip_39_word_dash_3: clown-universe-announce
+bip_39_word_dash_4: clown-universe-announce-tenant
+bip_39_word_dash_5: clown-universe-announce-tenant-wolf
+bip_39_word_dash_6: clown-universe-announce-tenant-wolf-swamp
+bip_39_word_dash_7: clown-universe-announce-tenant-wolf-swamp-dwarf
+bip_39_word_dash_8: clown-universe-announce-tenant-wolf-swamp-dwarf-sail
+bip_39_word_dash_9: clown-universe-announce-tenant-wolf-swamp-dwarf-sail-cloth
 bip_39_word_new_br_1: clown
 bip_39_word_new_br_10: clown<br>universe<br>announce<br>tenant<br>wolf<br>swamp<br>dwarf<br>sail<br>cloth<br>monkey
 bip_39_word_new_br_11: clown<br>universe<br>announce<br>tenant<br>wolf<br>swamp<br>dwarf<br>sail<br>cloth<br>monkey<br>shallow
@@ -193,6 +205,18 @@ bip_39_word_space_6: clown universe announce tenant wolf swamp
 bip_39_word_space_7: clown universe announce tenant wolf swamp dwarf
 bip_39_word_space_8: clown universe announce tenant wolf swamp dwarf sail
 bip_39_word_space_9: clown universe announce tenant wolf swamp dwarf sail cloth
+bip_39_word_underscore_1: clown
+bip_39_word_underscore_10: clown_universe_announce_tenant_wolf_swamp_dwarf_sail_cloth_monkey
+bip_39_word_underscore_11: clown_universe_announce_tenant_wolf_swamp_dwarf_sail_cloth_monkey_shallow
+bip_39_word_underscore_12: clown_universe_announce_tenant_wolf_swamp_dwarf_sail_cloth_monkey_shallow_actress
+bip_39_word_underscore_2: clown_universe
+bip_39_word_underscore_3: clown_universe_announce
+bip_39_word_underscore_4: clown_universe_announce_tenant
+bip_39_word_underscore_5: clown_universe_announce_tenant_wolf
+bip_39_word_underscore_6: clown_universe_announce_tenant_wolf_swamp
+bip_39_word_underscore_7: clown_universe_announce_tenant_wolf_swamp_dwarf
+bip_39_word_underscore_8: clown_universe_announce_tenant_wolf_swamp_dwarf_sail
+bip_39_word_underscore_9: clown_universe_announce_tenant_wolf_swamp_dwarf_sail_cloth
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

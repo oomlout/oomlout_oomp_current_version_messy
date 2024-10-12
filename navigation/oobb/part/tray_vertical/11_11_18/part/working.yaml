@@ -1,3 +1,15 @@
+bip_39_word_dash_1: divert
+bip_39_word_dash_10: divert-carbon-bird-mad-paddle-fall-buffalo-robust-senior-elite
+bip_39_word_dash_11: divert-carbon-bird-mad-paddle-fall-buffalo-robust-senior-elite-recipe
+bip_39_word_dash_12: divert-carbon-bird-mad-paddle-fall-buffalo-robust-senior-elite-recipe-ability
+bip_39_word_dash_2: divert-carbon
+bip_39_word_dash_3: divert-carbon-bird
+bip_39_word_dash_4: divert-carbon-bird-mad
+bip_39_word_dash_5: divert-carbon-bird-mad-paddle
+bip_39_word_dash_6: divert-carbon-bird-mad-paddle-fall
+bip_39_word_dash_7: divert-carbon-bird-mad-paddle-fall-buffalo
+bip_39_word_dash_8: divert-carbon-bird-mad-paddle-fall-buffalo-robust
+bip_39_word_dash_9: divert-carbon-bird-mad-paddle-fall-buffalo-robust-senior
 bip_39_word_new_br_1: divert
 bip_39_word_new_br_10: divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite
 bip_39_word_new_br_11: divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite<br>recipe
@@ -193,6 +205,18 @@ bip_39_word_space_6: divert carbon bird mad paddle fall
 bip_39_word_space_7: divert carbon bird mad paddle fall buffalo
 bip_39_word_space_8: divert carbon bird mad paddle fall buffalo robust
 bip_39_word_space_9: divert carbon bird mad paddle fall buffalo robust senior
+bip_39_word_underscore_1: divert
+bip_39_word_underscore_10: divert_carbon_bird_mad_paddle_fall_buffalo_robust_senior_elite
+bip_39_word_underscore_11: divert_carbon_bird_mad_paddle_fall_buffalo_robust_senior_elite_recipe
+bip_39_word_underscore_12: divert_carbon_bird_mad_paddle_fall_buffalo_robust_senior_elite_recipe_ability
+bip_39_word_underscore_2: divert_carbon
+bip_39_word_underscore_3: divert_carbon_bird
+bip_39_word_underscore_4: divert_carbon_bird_mad
+bip_39_word_underscore_5: divert_carbon_bird_mad_paddle
+bip_39_word_underscore_6: divert_carbon_bird_mad_paddle_fall
+bip_39_word_underscore_7: divert_carbon_bird_mad_paddle_fall_buffalo
+bip_39_word_underscore_8: divert_carbon_bird_mad_paddle_fall_buffalo_robust
+bip_39_word_underscore_9: divert_carbon_bird_mad_paddle_fall_buffalo_robust_senior
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

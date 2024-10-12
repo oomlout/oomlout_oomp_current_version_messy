@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | able |  
+| bip_39_word_dash_10 | able-action-rely-long-casual-will-cotton-only-uncover-blame |  
+| bip_39_word_dash_11 | able-action-rely-long-casual-will-cotton-only-uncover-blame-stairs |  
+| bip_39_word_dash_12 | able-action-rely-long-casual-will-cotton-only-uncover-blame-stairs-artefact |  
+| bip_39_word_dash_2 | able-action |  
+| bip_39_word_dash_3 | able-action-rely |  
+| bip_39_word_dash_4 | able-action-rely-long |  
+| bip_39_word_dash_5 | able-action-rely-long-casual |  
+| bip_39_word_dash_6 | able-action-rely-long-casual-will |  
+| bip_39_word_dash_7 | able-action-rely-long-casual-will-cotton |  
+| bip_39_word_dash_8 | able-action-rely-long-casual-will-cotton-only |  
+| bip_39_word_dash_9 | able-action-rely-long-casual-will-cotton-only-uncover |  
 | bip_39_word_new_br_1 | able |  
 | bip_39_word_new_br_10 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only<br>uncover<br>blame |  
 | bip_39_word_new_br_11 | able<br>action<br>rely<br>long<br>casual<br>will<br>cotton<br>only<br>uncover<br>blame<br>stairs |  
@@ -147,6 +159,18 @@ uncover |
 | bip_39_word_space_7 | able action rely long casual will cotton |  
 | bip_39_word_space_8 | able action rely long casual will cotton only |  
 | bip_39_word_space_9 | able action rely long casual will cotton only uncover |  
+| bip_39_word_underscore_1 | able |  
+| bip_39_word_underscore_10 | able_action_rely_long_casual_will_cotton_only_uncover_blame |  
+| bip_39_word_underscore_11 | able_action_rely_long_casual_will_cotton_only_uncover_blame_stairs |  
+| bip_39_word_underscore_12 | able_action_rely_long_casual_will_cotton_only_uncover_blame_stairs_artefact |  
+| bip_39_word_underscore_2 | able_action |  
+| bip_39_word_underscore_3 | able_action_rely |  
+| bip_39_word_underscore_4 | able_action_rely_long |  
+| bip_39_word_underscore_5 | able_action_rely_long_casual |  
+| bip_39_word_underscore_6 | able_action_rely_long_casual_will |  
+| bip_39_word_underscore_7 | able_action_rely_long_casual_will_cotton |  
+| bip_39_word_underscore_8 | able_action_rely_long_casual_will_cotton_only |  
+| bip_39_word_underscore_9 | able_action_rely_long_casual_will_cotton_only_uncover |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

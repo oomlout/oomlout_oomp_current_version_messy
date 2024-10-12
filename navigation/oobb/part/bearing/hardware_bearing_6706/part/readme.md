@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resource |  
+| bip_39_word_dash_10 | resource-maximum-effort-swim-taxi-goose-throw-increase-drum-match |  
+| bip_39_word_dash_11 | resource-maximum-effort-swim-taxi-goose-throw-increase-drum-match-maple |  
+| bip_39_word_dash_12 | resource-maximum-effort-swim-taxi-goose-throw-increase-drum-match-maple-armor |  
+| bip_39_word_dash_2 | resource-maximum |  
+| bip_39_word_dash_3 | resource-maximum-effort |  
+| bip_39_word_dash_4 | resource-maximum-effort-swim |  
+| bip_39_word_dash_5 | resource-maximum-effort-swim-taxi |  
+| bip_39_word_dash_6 | resource-maximum-effort-swim-taxi-goose |  
+| bip_39_word_dash_7 | resource-maximum-effort-swim-taxi-goose-throw |  
+| bip_39_word_dash_8 | resource-maximum-effort-swim-taxi-goose-throw-increase |  
+| bip_39_word_dash_9 | resource-maximum-effort-swim-taxi-goose-throw-increase-drum |  
 | bip_39_word_new_br_1 | resource |  
 | bip_39_word_new_br_10 | resource<br>maximum<br>effort<br>swim<br>taxi<br>goose<br>throw<br>increase<br>drum<br>match |  
 | bip_39_word_new_br_11 | resource<br>maximum<br>effort<br>swim<br>taxi<br>goose<br>throw<br>increase<br>drum<br>match<br>maple |  
@@ -147,6 +159,18 @@ drum |
 | bip_39_word_space_7 | resource maximum effort swim taxi goose throw |  
 | bip_39_word_space_8 | resource maximum effort swim taxi goose throw increase |  
 | bip_39_word_space_9 | resource maximum effort swim taxi goose throw increase drum |  
+| bip_39_word_underscore_1 | resource |  
+| bip_39_word_underscore_10 | resource_maximum_effort_swim_taxi_goose_throw_increase_drum_match |  
+| bip_39_word_underscore_11 | resource_maximum_effort_swim_taxi_goose_throw_increase_drum_match_maple |  
+| bip_39_word_underscore_12 | resource_maximum_effort_swim_taxi_goose_throw_increase_drum_match_maple_armor |  
+| bip_39_word_underscore_2 | resource_maximum |  
+| bip_39_word_underscore_3 | resource_maximum_effort |  
+| bip_39_word_underscore_4 | resource_maximum_effort_swim |  
+| bip_39_word_underscore_5 | resource_maximum_effort_swim_taxi |  
+| bip_39_word_underscore_6 | resource_maximum_effort_swim_taxi_goose |  
+| bip_39_word_underscore_7 | resource_maximum_effort_swim_taxi_goose_throw |  
+| bip_39_word_underscore_8 | resource_maximum_effort_swim_taxi_goose_throw_increase |  
+| bip_39_word_underscore_9 | resource_maximum_effort_swim_taxi_goose_throw_increase_drum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | move |  
+| bip_39_word_dash_10 | move-slim-rice-output-network-comfort-uncover-strong-fatal-drift |  
+| bip_39_word_dash_11 | move-slim-rice-output-network-comfort-uncover-strong-fatal-drift-dad |  
+| bip_39_word_dash_12 | move-slim-rice-output-network-comfort-uncover-strong-fatal-drift-dad-all |  
+| bip_39_word_dash_2 | move-slim |  
+| bip_39_word_dash_3 | move-slim-rice |  
+| bip_39_word_dash_4 | move-slim-rice-output |  
+| bip_39_word_dash_5 | move-slim-rice-output-network |  
+| bip_39_word_dash_6 | move-slim-rice-output-network-comfort |  
+| bip_39_word_dash_7 | move-slim-rice-output-network-comfort-uncover |  
+| bip_39_word_dash_8 | move-slim-rice-output-network-comfort-uncover-strong |  
+| bip_39_word_dash_9 | move-slim-rice-output-network-comfort-uncover-strong-fatal |  
 | bip_39_word_new_br_1 | move |  
 | bip_39_word_new_br_10 | move<br>slim<br>rice<br>output<br>network<br>comfort<br>uncover<br>strong<br>fatal<br>drift |  
 | bip_39_word_new_br_11 | move<br>slim<br>rice<br>output<br>network<br>comfort<br>uncover<br>strong<br>fatal<br>drift<br>dad |  
@@ -147,6 +159,18 @@ fatal |
 | bip_39_word_space_7 | move slim rice output network comfort uncover |  
 | bip_39_word_space_8 | move slim rice output network comfort uncover strong |  
 | bip_39_word_space_9 | move slim rice output network comfort uncover strong fatal |  
+| bip_39_word_underscore_1 | move |  
+| bip_39_word_underscore_10 | move_slim_rice_output_network_comfort_uncover_strong_fatal_drift |  
+| bip_39_word_underscore_11 | move_slim_rice_output_network_comfort_uncover_strong_fatal_drift_dad |  
+| bip_39_word_underscore_12 | move_slim_rice_output_network_comfort_uncover_strong_fatal_drift_dad_all |  
+| bip_39_word_underscore_2 | move_slim |  
+| bip_39_word_underscore_3 | move_slim_rice |  
+| bip_39_word_underscore_4 | move_slim_rice_output |  
+| bip_39_word_underscore_5 | move_slim_rice_output_network |  
+| bip_39_word_underscore_6 | move_slim_rice_output_network_comfort |  
+| bip_39_word_underscore_7 | move_slim_rice_output_network_comfort_uncover |  
+| bip_39_word_underscore_8 | move_slim_rice_output_network_comfort_uncover_strong |  
+| bip_39_word_underscore_9 | move_slim_rice_output_network_comfort_uncover_strong_fatal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

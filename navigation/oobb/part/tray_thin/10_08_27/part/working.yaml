@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pass
+bip_39_word_dash_10: pass-clean-parent-interest-seven-silk-timber-addict-galaxy-dune
+bip_39_word_dash_11: pass-clean-parent-interest-seven-silk-timber-addict-galaxy-dune-lumber
+bip_39_word_dash_12: pass-clean-parent-interest-seven-silk-timber-addict-galaxy-dune-lumber-amount
+bip_39_word_dash_2: pass-clean
+bip_39_word_dash_3: pass-clean-parent
+bip_39_word_dash_4: pass-clean-parent-interest
+bip_39_word_dash_5: pass-clean-parent-interest-seven
+bip_39_word_dash_6: pass-clean-parent-interest-seven-silk
+bip_39_word_dash_7: pass-clean-parent-interest-seven-silk-timber
+bip_39_word_dash_8: pass-clean-parent-interest-seven-silk-timber-addict
+bip_39_word_dash_9: pass-clean-parent-interest-seven-silk-timber-addict-galaxy
 bip_39_word_new_br_1: pass
 bip_39_word_new_br_10: pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune
 bip_39_word_new_br_11: pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune<br>lumber
@@ -193,6 +205,18 @@ bip_39_word_space_6: pass clean parent interest seven silk
 bip_39_word_space_7: pass clean parent interest seven silk timber
 bip_39_word_space_8: pass clean parent interest seven silk timber addict
 bip_39_word_space_9: pass clean parent interest seven silk timber addict galaxy
+bip_39_word_underscore_1: pass
+bip_39_word_underscore_10: pass_clean_parent_interest_seven_silk_timber_addict_galaxy_dune
+bip_39_word_underscore_11: pass_clean_parent_interest_seven_silk_timber_addict_galaxy_dune_lumber
+bip_39_word_underscore_12: pass_clean_parent_interest_seven_silk_timber_addict_galaxy_dune_lumber_amount
+bip_39_word_underscore_2: pass_clean
+bip_39_word_underscore_3: pass_clean_parent
+bip_39_word_underscore_4: pass_clean_parent_interest
+bip_39_word_underscore_5: pass_clean_parent_interest_seven
+bip_39_word_underscore_6: pass_clean_parent_interest_seven_silk
+bip_39_word_underscore_7: pass_clean_parent_interest_seven_silk_timber
+bip_39_word_underscore_8: pass_clean_parent_interest_seven_silk_timber_addict
+bip_39_word_underscore_9: pass_clean_parent_interest_seven_silk_timber_addict_galaxy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

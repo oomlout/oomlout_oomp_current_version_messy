@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inch
+bip_39_word_dash_10: inch-replace-sample-enter-require-scare-special-fish-swear-kitchen
+bip_39_word_dash_11: inch-replace-sample-enter-require-scare-special-fish-swear-kitchen-manual
+bip_39_word_dash_12: inch-replace-sample-enter-require-scare-special-fish-swear-kitchen-manual-advance
+bip_39_word_dash_2: inch-replace
+bip_39_word_dash_3: inch-replace-sample
+bip_39_word_dash_4: inch-replace-sample-enter
+bip_39_word_dash_5: inch-replace-sample-enter-require
+bip_39_word_dash_6: inch-replace-sample-enter-require-scare
+bip_39_word_dash_7: inch-replace-sample-enter-require-scare-special
+bip_39_word_dash_8: inch-replace-sample-enter-require-scare-special-fish
+bip_39_word_dash_9: inch-replace-sample-enter-require-scare-special-fish-swear
 bip_39_word_new_br_1: inch
 bip_39_word_new_br_10: inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen
 bip_39_word_new_br_11: inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen<br>manual
@@ -193,6 +205,18 @@ bip_39_word_space_6: inch replace sample enter require scare
 bip_39_word_space_7: inch replace sample enter require scare special
 bip_39_word_space_8: inch replace sample enter require scare special fish
 bip_39_word_space_9: inch replace sample enter require scare special fish swear
+bip_39_word_underscore_1: inch
+bip_39_word_underscore_10: inch_replace_sample_enter_require_scare_special_fish_swear_kitchen
+bip_39_word_underscore_11: inch_replace_sample_enter_require_scare_special_fish_swear_kitchen_manual
+bip_39_word_underscore_12: inch_replace_sample_enter_require_scare_special_fish_swear_kitchen_manual_advance
+bip_39_word_underscore_2: inch_replace
+bip_39_word_underscore_3: inch_replace_sample
+bip_39_word_underscore_4: inch_replace_sample_enter
+bip_39_word_underscore_5: inch_replace_sample_enter_require
+bip_39_word_underscore_6: inch_replace_sample_enter_require_scare
+bip_39_word_underscore_7: inch_replace_sample_enter_require_scare_special
+bip_39_word_underscore_8: inch_replace_sample_enter_require_scare_special_fish
+bip_39_word_underscore_9: inch_replace_sample_enter_require_scare_special_fish_swear
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

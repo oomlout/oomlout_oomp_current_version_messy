@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deliver |  
+| bip_39_word_dash_10 | deliver-tobacco-rough-energy-border-curve-stereo-sheriff-decide-host |  
+| bip_39_word_dash_11 | deliver-tobacco-rough-energy-border-curve-stereo-sheriff-decide-host-also |  
+| bip_39_word_dash_12 | deliver-tobacco-rough-energy-border-curve-stereo-sheriff-decide-host-also-amazing |  
+| bip_39_word_dash_2 | deliver-tobacco |  
+| bip_39_word_dash_3 | deliver-tobacco-rough |  
+| bip_39_word_dash_4 | deliver-tobacco-rough-energy |  
+| bip_39_word_dash_5 | deliver-tobacco-rough-energy-border |  
+| bip_39_word_dash_6 | deliver-tobacco-rough-energy-border-curve |  
+| bip_39_word_dash_7 | deliver-tobacco-rough-energy-border-curve-stereo |  
+| bip_39_word_dash_8 | deliver-tobacco-rough-energy-border-curve-stereo-sheriff |  
+| bip_39_word_dash_9 | deliver-tobacco-rough-energy-border-curve-stereo-sheriff-decide |  
 | bip_39_word_new_br_1 | deliver |  
 | bip_39_word_new_br_10 | deliver<br>tobacco<br>rough<br>energy<br>border<br>curve<br>stereo<br>sheriff<br>decide<br>host |  
 | bip_39_word_new_br_11 | deliver<br>tobacco<br>rough<br>energy<br>border<br>curve<br>stereo<br>sheriff<br>decide<br>host<br>also |  
@@ -147,6 +159,18 @@ decide |
 | bip_39_word_space_7 | deliver tobacco rough energy border curve stereo |  
 | bip_39_word_space_8 | deliver tobacco rough energy border curve stereo sheriff |  
 | bip_39_word_space_9 | deliver tobacco rough energy border curve stereo sheriff decide |  
+| bip_39_word_underscore_1 | deliver |  
+| bip_39_word_underscore_10 | deliver_tobacco_rough_energy_border_curve_stereo_sheriff_decide_host |  
+| bip_39_word_underscore_11 | deliver_tobacco_rough_energy_border_curve_stereo_sheriff_decide_host_also |  
+| bip_39_word_underscore_12 | deliver_tobacco_rough_energy_border_curve_stereo_sheriff_decide_host_also_amazing |  
+| bip_39_word_underscore_2 | deliver_tobacco |  
+| bip_39_word_underscore_3 | deliver_tobacco_rough |  
+| bip_39_word_underscore_4 | deliver_tobacco_rough_energy |  
+| bip_39_word_underscore_5 | deliver_tobacco_rough_energy_border |  
+| bip_39_word_underscore_6 | deliver_tobacco_rough_energy_border_curve |  
+| bip_39_word_underscore_7 | deliver_tobacco_rough_energy_border_curve_stereo |  
+| bip_39_word_underscore_8 | deliver_tobacco_rough_energy_border_curve_stereo_sheriff |  
+| bip_39_word_underscore_9 | deliver_tobacco_rough_energy_border_curve_stereo_sheriff_decide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

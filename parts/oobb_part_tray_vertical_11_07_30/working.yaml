@@ -1,3 +1,15 @@
+bip_39_word_dash_1: accuse
+bip_39_word_dash_10: accuse-shy-tenant-waste-subject-rural-kitten-release-before-again
+bip_39_word_dash_11: accuse-shy-tenant-waste-subject-rural-kitten-release-before-again-faint
+bip_39_word_dash_12: accuse-shy-tenant-waste-subject-rural-kitten-release-before-again-faint-arrest
+bip_39_word_dash_2: accuse-shy
+bip_39_word_dash_3: accuse-shy-tenant
+bip_39_word_dash_4: accuse-shy-tenant-waste
+bip_39_word_dash_5: accuse-shy-tenant-waste-subject
+bip_39_word_dash_6: accuse-shy-tenant-waste-subject-rural
+bip_39_word_dash_7: accuse-shy-tenant-waste-subject-rural-kitten
+bip_39_word_dash_8: accuse-shy-tenant-waste-subject-rural-kitten-release
+bip_39_word_dash_9: accuse-shy-tenant-waste-subject-rural-kitten-release-before
 bip_39_word_new_br_1: accuse
 bip_39_word_new_br_10: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again
 bip_39_word_new_br_11: accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again<br>faint
@@ -194,6 +206,18 @@ bip_39_word_space_6: accuse shy tenant waste subject rural
 bip_39_word_space_7: accuse shy tenant waste subject rural kitten
 bip_39_word_space_8: accuse shy tenant waste subject rural kitten release
 bip_39_word_space_9: accuse shy tenant waste subject rural kitten release before
+bip_39_word_underscore_1: accuse
+bip_39_word_underscore_10: accuse_shy_tenant_waste_subject_rural_kitten_release_before_again
+bip_39_word_underscore_11: accuse_shy_tenant_waste_subject_rural_kitten_release_before_again_faint
+bip_39_word_underscore_12: accuse_shy_tenant_waste_subject_rural_kitten_release_before_again_faint_arrest
+bip_39_word_underscore_2: accuse_shy
+bip_39_word_underscore_3: accuse_shy_tenant
+bip_39_word_underscore_4: accuse_shy_tenant_waste
+bip_39_word_underscore_5: accuse_shy_tenant_waste_subject
+bip_39_word_underscore_6: accuse_shy_tenant_waste_subject_rural
+bip_39_word_underscore_7: accuse_shy_tenant_waste_subject_rural_kitten
+bip_39_word_underscore_8: accuse_shy_tenant_waste_subject_rural_kitten_release
+bip_39_word_underscore_9: accuse_shy_tenant_waste_subject_rural_kitten_release_before
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

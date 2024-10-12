@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | smooth |  
+| bip_39_word_dash_10 | smooth-inherit-capable-pupil-alert-buddy-indicate-human-rate-kiwi |  
+| bip_39_word_dash_11 | smooth-inherit-capable-pupil-alert-buddy-indicate-human-rate-kiwi-range |  
+| bip_39_word_dash_12 | smooth-inherit-capable-pupil-alert-buddy-indicate-human-rate-kiwi-range-annual |  
+| bip_39_word_dash_2 | smooth-inherit |  
+| bip_39_word_dash_3 | smooth-inherit-capable |  
+| bip_39_word_dash_4 | smooth-inherit-capable-pupil |  
+| bip_39_word_dash_5 | smooth-inherit-capable-pupil-alert |  
+| bip_39_word_dash_6 | smooth-inherit-capable-pupil-alert-buddy |  
+| bip_39_word_dash_7 | smooth-inherit-capable-pupil-alert-buddy-indicate |  
+| bip_39_word_dash_8 | smooth-inherit-capable-pupil-alert-buddy-indicate-human |  
+| bip_39_word_dash_9 | smooth-inherit-capable-pupil-alert-buddy-indicate-human-rate |  
 | bip_39_word_new_br_1 | smooth |  
 | bip_39_word_new_br_10 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi |  
 | bip_39_word_new_br_11 | smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi<br>range |  
@@ -147,6 +159,18 @@ rate |
 | bip_39_word_space_7 | smooth inherit capable pupil alert buddy indicate |  
 | bip_39_word_space_8 | smooth inherit capable pupil alert buddy indicate human |  
 | bip_39_word_space_9 | smooth inherit capable pupil alert buddy indicate human rate |  
+| bip_39_word_underscore_1 | smooth |  
+| bip_39_word_underscore_10 | smooth_inherit_capable_pupil_alert_buddy_indicate_human_rate_kiwi |  
+| bip_39_word_underscore_11 | smooth_inherit_capable_pupil_alert_buddy_indicate_human_rate_kiwi_range |  
+| bip_39_word_underscore_12 | smooth_inherit_capable_pupil_alert_buddy_indicate_human_rate_kiwi_range_annual |  
+| bip_39_word_underscore_2 | smooth_inherit |  
+| bip_39_word_underscore_3 | smooth_inherit_capable |  
+| bip_39_word_underscore_4 | smooth_inherit_capable_pupil |  
+| bip_39_word_underscore_5 | smooth_inherit_capable_pupil_alert |  
+| bip_39_word_underscore_6 | smooth_inherit_capable_pupil_alert_buddy |  
+| bip_39_word_underscore_7 | smooth_inherit_capable_pupil_alert_buddy_indicate |  
+| bip_39_word_underscore_8 | smooth_inherit_capable_pupil_alert_buddy_indicate_human |  
+| bip_39_word_underscore_9 | smooth_inherit_capable_pupil_alert_buddy_indicate_human_rate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

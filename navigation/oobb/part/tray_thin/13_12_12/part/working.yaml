@@ -1,3 +1,15 @@
+bip_39_word_dash_1: capital
+bip_39_word_dash_10: capital-tomorrow-inmate-another-crawl-real-hospital-primary-fatigue-simple
+bip_39_word_dash_11: capital-tomorrow-inmate-another-crawl-real-hospital-primary-fatigue-simple-sword
+bip_39_word_dash_12: capital-tomorrow-inmate-another-crawl-real-hospital-primary-fatigue-simple-sword-army
+bip_39_word_dash_2: capital-tomorrow
+bip_39_word_dash_3: capital-tomorrow-inmate
+bip_39_word_dash_4: capital-tomorrow-inmate-another
+bip_39_word_dash_5: capital-tomorrow-inmate-another-crawl
+bip_39_word_dash_6: capital-tomorrow-inmate-another-crawl-real
+bip_39_word_dash_7: capital-tomorrow-inmate-another-crawl-real-hospital
+bip_39_word_dash_8: capital-tomorrow-inmate-another-crawl-real-hospital-primary
+bip_39_word_dash_9: capital-tomorrow-inmate-another-crawl-real-hospital-primary-fatigue
 bip_39_word_new_br_1: capital
 bip_39_word_new_br_10: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple
 bip_39_word_new_br_11: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple<br>sword
@@ -194,6 +206,18 @@ bip_39_word_space_6: capital tomorrow inmate another crawl real
 bip_39_word_space_7: capital tomorrow inmate another crawl real hospital
 bip_39_word_space_8: capital tomorrow inmate another crawl real hospital primary
 bip_39_word_space_9: capital tomorrow inmate another crawl real hospital primary fatigue
+bip_39_word_underscore_1: capital
+bip_39_word_underscore_10: capital_tomorrow_inmate_another_crawl_real_hospital_primary_fatigue_simple
+bip_39_word_underscore_11: capital_tomorrow_inmate_another_crawl_real_hospital_primary_fatigue_simple_sword
+bip_39_word_underscore_12: capital_tomorrow_inmate_another_crawl_real_hospital_primary_fatigue_simple_sword_army
+bip_39_word_underscore_2: capital_tomorrow
+bip_39_word_underscore_3: capital_tomorrow_inmate
+bip_39_word_underscore_4: capital_tomorrow_inmate_another
+bip_39_word_underscore_5: capital_tomorrow_inmate_another_crawl
+bip_39_word_underscore_6: capital_tomorrow_inmate_another_crawl_real
+bip_39_word_underscore_7: capital_tomorrow_inmate_another_crawl_real_hospital
+bip_39_word_underscore_8: capital_tomorrow_inmate_another_crawl_real_hospital_primary
+bip_39_word_underscore_9: capital_tomorrow_inmate_another_crawl_real_hospital_primary_fatigue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

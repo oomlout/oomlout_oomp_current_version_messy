@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pudding
+bip_39_word_dash_10: pudding-noble-minor-spawn-piece-pole-panda-media-speak-load
+bip_39_word_dash_11: pudding-noble-minor-spawn-piece-pole-panda-media-speak-load-miracle
+bip_39_word_dash_12: pudding-noble-minor-spawn-piece-pole-panda-media-speak-load-miracle-alert
+bip_39_word_dash_2: pudding-noble
+bip_39_word_dash_3: pudding-noble-minor
+bip_39_word_dash_4: pudding-noble-minor-spawn
+bip_39_word_dash_5: pudding-noble-minor-spawn-piece
+bip_39_word_dash_6: pudding-noble-minor-spawn-piece-pole
+bip_39_word_dash_7: pudding-noble-minor-spawn-piece-pole-panda
+bip_39_word_dash_8: pudding-noble-minor-spawn-piece-pole-panda-media
+bip_39_word_dash_9: pudding-noble-minor-spawn-piece-pole-panda-media-speak
 bip_39_word_new_br_1: pudding
 bip_39_word_new_br_10: pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media<br>speak<br>load
 bip_39_word_new_br_11: pudding<br>noble<br>minor<br>spawn<br>piece<br>pole<br>panda<br>media<br>speak<br>load<br>miracle
@@ -193,6 +205,18 @@ bip_39_word_space_6: pudding noble minor spawn piece pole
 bip_39_word_space_7: pudding noble minor spawn piece pole panda
 bip_39_word_space_8: pudding noble minor spawn piece pole panda media
 bip_39_word_space_9: pudding noble minor spawn piece pole panda media speak
+bip_39_word_underscore_1: pudding
+bip_39_word_underscore_10: pudding_noble_minor_spawn_piece_pole_panda_media_speak_load
+bip_39_word_underscore_11: pudding_noble_minor_spawn_piece_pole_panda_media_speak_load_miracle
+bip_39_word_underscore_12: pudding_noble_minor_spawn_piece_pole_panda_media_speak_load_miracle_alert
+bip_39_word_underscore_2: pudding_noble
+bip_39_word_underscore_3: pudding_noble_minor
+bip_39_word_underscore_4: pudding_noble_minor_spawn
+bip_39_word_underscore_5: pudding_noble_minor_spawn_piece
+bip_39_word_underscore_6: pudding_noble_minor_spawn_piece_pole
+bip_39_word_underscore_7: pudding_noble_minor_spawn_piece_pole_panda
+bip_39_word_underscore_8: pudding_noble_minor_spawn_piece_pole_panda_media
+bip_39_word_underscore_9: pudding_noble_minor_spawn_piece_pole_panda_media_speak
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

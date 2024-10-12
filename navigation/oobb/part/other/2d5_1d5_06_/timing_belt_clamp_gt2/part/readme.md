@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | problem |  
+| bip_39_word_dash_10 | problem-pioneer-cheap-blast-pass-title-chalk-gauge-slam-armed |  
+| bip_39_word_dash_11 | problem-pioneer-cheap-blast-pass-title-chalk-gauge-slam-armed-diagram |  
+| bip_39_word_dash_12 | problem-pioneer-cheap-blast-pass-title-chalk-gauge-slam-armed-diagram-ancient |  
+| bip_39_word_dash_2 | problem-pioneer |  
+| bip_39_word_dash_3 | problem-pioneer-cheap |  
+| bip_39_word_dash_4 | problem-pioneer-cheap-blast |  
+| bip_39_word_dash_5 | problem-pioneer-cheap-blast-pass |  
+| bip_39_word_dash_6 | problem-pioneer-cheap-blast-pass-title |  
+| bip_39_word_dash_7 | problem-pioneer-cheap-blast-pass-title-chalk |  
+| bip_39_word_dash_8 | problem-pioneer-cheap-blast-pass-title-chalk-gauge |  
+| bip_39_word_dash_9 | problem-pioneer-cheap-blast-pass-title-chalk-gauge-slam |  
 | bip_39_word_new_br_1 | problem |  
 | bip_39_word_new_br_10 | problem<br>pioneer<br>cheap<br>blast<br>pass<br>title<br>chalk<br>gauge<br>slam<br>armed |  
 | bip_39_word_new_br_11 | problem<br>pioneer<br>cheap<br>blast<br>pass<br>title<br>chalk<br>gauge<br>slam<br>armed<br>diagram |  
@@ -147,6 +159,18 @@ slam |
 | bip_39_word_space_7 | problem pioneer cheap blast pass title chalk |  
 | bip_39_word_space_8 | problem pioneer cheap blast pass title chalk gauge |  
 | bip_39_word_space_9 | problem pioneer cheap blast pass title chalk gauge slam |  
+| bip_39_word_underscore_1 | problem |  
+| bip_39_word_underscore_10 | problem_pioneer_cheap_blast_pass_title_chalk_gauge_slam_armed |  
+| bip_39_word_underscore_11 | problem_pioneer_cheap_blast_pass_title_chalk_gauge_slam_armed_diagram |  
+| bip_39_word_underscore_12 | problem_pioneer_cheap_blast_pass_title_chalk_gauge_slam_armed_diagram_ancient |  
+| bip_39_word_underscore_2 | problem_pioneer |  
+| bip_39_word_underscore_3 | problem_pioneer_cheap |  
+| bip_39_word_underscore_4 | problem_pioneer_cheap_blast |  
+| bip_39_word_underscore_5 | problem_pioneer_cheap_blast_pass |  
+| bip_39_word_underscore_6 | problem_pioneer_cheap_blast_pass_title |  
+| bip_39_word_underscore_7 | problem_pioneer_cheap_blast_pass_title_chalk |  
+| bip_39_word_underscore_8 | problem_pioneer_cheap_blast_pass_title_chalk_gauge |  
+| bip_39_word_underscore_9 | problem_pioneer_cheap_blast_pass_title_chalk_gauge_slam |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

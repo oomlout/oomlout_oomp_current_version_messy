@@ -1,3 +1,15 @@
+bip_39_word_dash_1: error
+bip_39_word_dash_10: error-digital-poet-order-false-thunder-prosper-topple-lunar-curtain
+bip_39_word_dash_11: error-digital-poet-order-false-thunder-prosper-topple-lunar-curtain-favorite
+bip_39_word_dash_12: error-digital-poet-order-false-thunder-prosper-topple-lunar-curtain-favorite-around
+bip_39_word_dash_2: error-digital
+bip_39_word_dash_3: error-digital-poet
+bip_39_word_dash_4: error-digital-poet-order
+bip_39_word_dash_5: error-digital-poet-order-false
+bip_39_word_dash_6: error-digital-poet-order-false-thunder
+bip_39_word_dash_7: error-digital-poet-order-false-thunder-prosper
+bip_39_word_dash_8: error-digital-poet-order-false-thunder-prosper-topple
+bip_39_word_dash_9: error-digital-poet-order-false-thunder-prosper-topple-lunar
 bip_39_word_new_br_1: error
 bip_39_word_new_br_10: error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple<br>lunar<br>curtain
 bip_39_word_new_br_11: error<br>digital<br>poet<br>order<br>false<br>thunder<br>prosper<br>topple<br>lunar<br>curtain<br>favorite
@@ -194,6 +206,18 @@ bip_39_word_space_6: error digital poet order false thunder
 bip_39_word_space_7: error digital poet order false thunder prosper
 bip_39_word_space_8: error digital poet order false thunder prosper topple
 bip_39_word_space_9: error digital poet order false thunder prosper topple lunar
+bip_39_word_underscore_1: error
+bip_39_word_underscore_10: error_digital_poet_order_false_thunder_prosper_topple_lunar_curtain
+bip_39_word_underscore_11: error_digital_poet_order_false_thunder_prosper_topple_lunar_curtain_favorite
+bip_39_word_underscore_12: error_digital_poet_order_false_thunder_prosper_topple_lunar_curtain_favorite_around
+bip_39_word_underscore_2: error_digital
+bip_39_word_underscore_3: error_digital_poet
+bip_39_word_underscore_4: error_digital_poet_order
+bip_39_word_underscore_5: error_digital_poet_order_false
+bip_39_word_underscore_6: error_digital_poet_order_false_thunder
+bip_39_word_underscore_7: error_digital_poet_order_false_thunder_prosper
+bip_39_word_underscore_8: error_digital_poet_order_false_thunder_prosper_topple
+bip_39_word_underscore_9: error_digital_poet_order_false_thunder_prosper_topple_lunar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

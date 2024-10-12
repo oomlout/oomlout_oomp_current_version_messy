@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pave |  
+| bip_39_word_dash_10 | pave-daring-basket-able-length-also-symptom-solid-execute-put |  
+| bip_39_word_dash_11 | pave-daring-basket-able-length-also-symptom-solid-execute-put-cradle |  
+| bip_39_word_dash_12 | pave-daring-basket-able-length-also-symptom-solid-execute-put-cradle-ability |  
+| bip_39_word_dash_2 | pave-daring |  
+| bip_39_word_dash_3 | pave-daring-basket |  
+| bip_39_word_dash_4 | pave-daring-basket-able |  
+| bip_39_word_dash_5 | pave-daring-basket-able-length |  
+| bip_39_word_dash_6 | pave-daring-basket-able-length-also |  
+| bip_39_word_dash_7 | pave-daring-basket-able-length-also-symptom |  
+| bip_39_word_dash_8 | pave-daring-basket-able-length-also-symptom-solid |  
+| bip_39_word_dash_9 | pave-daring-basket-able-length-also-symptom-solid-execute |  
 | bip_39_word_new_br_1 | pave |  
 | bip_39_word_new_br_10 | pave<br>daring<br>basket<br>able<br>length<br>also<br>symptom<br>solid<br>execute<br>put |  
 | bip_39_word_new_br_11 | pave<br>daring<br>basket<br>able<br>length<br>also<br>symptom<br>solid<br>execute<br>put<br>cradle |  
@@ -147,6 +159,18 @@ execute |
 | bip_39_word_space_7 | pave daring basket able length also symptom |  
 | bip_39_word_space_8 | pave daring basket able length also symptom solid |  
 | bip_39_word_space_9 | pave daring basket able length also symptom solid execute |  
+| bip_39_word_underscore_1 | pave |  
+| bip_39_word_underscore_10 | pave_daring_basket_able_length_also_symptom_solid_execute_put |  
+| bip_39_word_underscore_11 | pave_daring_basket_able_length_also_symptom_solid_execute_put_cradle |  
+| bip_39_word_underscore_12 | pave_daring_basket_able_length_also_symptom_solid_execute_put_cradle_ability |  
+| bip_39_word_underscore_2 | pave_daring |  
+| bip_39_word_underscore_3 | pave_daring_basket |  
+| bip_39_word_underscore_4 | pave_daring_basket_able |  
+| bip_39_word_underscore_5 | pave_daring_basket_able_length |  
+| bip_39_word_underscore_6 | pave_daring_basket_able_length_also |  
+| bip_39_word_underscore_7 | pave_daring_basket_able_length_also_symptom |  
+| bip_39_word_underscore_8 | pave_daring_basket_able_length_also_symptom_solid |  
+| bip_39_word_underscore_9 | pave_daring_basket_able_length_also_symptom_solid_execute |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

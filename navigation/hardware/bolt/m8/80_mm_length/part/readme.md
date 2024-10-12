@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | patch |  
+| bip_39_word_dash_10 | patch-tonight-autumn-curious-float-hidden-must-beyond-tribe-warrior |  
+| bip_39_word_dash_11 | patch-tonight-autumn-curious-float-hidden-must-beyond-tribe-warrior-sun |  
+| bip_39_word_dash_12 | patch-tonight-autumn-curious-float-hidden-must-beyond-tribe-warrior-sun-address |  
+| bip_39_word_dash_2 | patch-tonight |  
+| bip_39_word_dash_3 | patch-tonight-autumn |  
+| bip_39_word_dash_4 | patch-tonight-autumn-curious |  
+| bip_39_word_dash_5 | patch-tonight-autumn-curious-float |  
+| bip_39_word_dash_6 | patch-tonight-autumn-curious-float-hidden |  
+| bip_39_word_dash_7 | patch-tonight-autumn-curious-float-hidden-must |  
+| bip_39_word_dash_8 | patch-tonight-autumn-curious-float-hidden-must-beyond |  
+| bip_39_word_dash_9 | patch-tonight-autumn-curious-float-hidden-must-beyond-tribe |  
 | bip_39_word_new_br_1 | patch |  
 | bip_39_word_new_br_10 | patch<br>tonight<br>autumn<br>curious<br>float<br>hidden<br>must<br>beyond<br>tribe<br>warrior |  
 | bip_39_word_new_br_11 | patch<br>tonight<br>autumn<br>curious<br>float<br>hidden<br>must<br>beyond<br>tribe<br>warrior<br>sun |  
@@ -147,6 +159,18 @@ tribe |
 | bip_39_word_space_7 | patch tonight autumn curious float hidden must |  
 | bip_39_word_space_8 | patch tonight autumn curious float hidden must beyond |  
 | bip_39_word_space_9 | patch tonight autumn curious float hidden must beyond tribe |  
+| bip_39_word_underscore_1 | patch |  
+| bip_39_word_underscore_10 | patch_tonight_autumn_curious_float_hidden_must_beyond_tribe_warrior |  
+| bip_39_word_underscore_11 | patch_tonight_autumn_curious_float_hidden_must_beyond_tribe_warrior_sun |  
+| bip_39_word_underscore_12 | patch_tonight_autumn_curious_float_hidden_must_beyond_tribe_warrior_sun_address |  
+| bip_39_word_underscore_2 | patch_tonight |  
+| bip_39_word_underscore_3 | patch_tonight_autumn |  
+| bip_39_word_underscore_4 | patch_tonight_autumn_curious |  
+| bip_39_word_underscore_5 | patch_tonight_autumn_curious_float |  
+| bip_39_word_underscore_6 | patch_tonight_autumn_curious_float_hidden |  
+| bip_39_word_underscore_7 | patch_tonight_autumn_curious_float_hidden_must |  
+| bip_39_word_underscore_8 | patch_tonight_autumn_curious_float_hidden_must_beyond |  
+| bip_39_word_underscore_9 | patch_tonight_autumn_curious_float_hidden_must_beyond_tribe |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

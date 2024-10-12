@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | balance |  
+| bip_39_word_dash_10 | balance-palace-task-extra-armor-tube-mail-pelican-wink-cousin |  
+| bip_39_word_dash_11 | balance-palace-task-extra-armor-tube-mail-pelican-wink-cousin-fire |  
+| bip_39_word_dash_12 | balance-palace-task-extra-armor-tube-mail-pelican-wink-cousin-fire-album |  
+| bip_39_word_dash_2 | balance-palace |  
+| bip_39_word_dash_3 | balance-palace-task |  
+| bip_39_word_dash_4 | balance-palace-task-extra |  
+| bip_39_word_dash_5 | balance-palace-task-extra-armor |  
+| bip_39_word_dash_6 | balance-palace-task-extra-armor-tube |  
+| bip_39_word_dash_7 | balance-palace-task-extra-armor-tube-mail |  
+| bip_39_word_dash_8 | balance-palace-task-extra-armor-tube-mail-pelican |  
+| bip_39_word_dash_9 | balance-palace-task-extra-armor-tube-mail-pelican-wink |  
 | bip_39_word_new_br_1 | balance |  
 | bip_39_word_new_br_10 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin |  
 | bip_39_word_new_br_11 | balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin<br>fire |  
@@ -147,6 +159,18 @@ wink |
 | bip_39_word_space_7 | balance palace task extra armor tube mail |  
 | bip_39_word_space_8 | balance palace task extra armor tube mail pelican |  
 | bip_39_word_space_9 | balance palace task extra armor tube mail pelican wink |  
+| bip_39_word_underscore_1 | balance |  
+| bip_39_word_underscore_10 | balance_palace_task_extra_armor_tube_mail_pelican_wink_cousin |  
+| bip_39_word_underscore_11 | balance_palace_task_extra_armor_tube_mail_pelican_wink_cousin_fire |  
+| bip_39_word_underscore_12 | balance_palace_task_extra_armor_tube_mail_pelican_wink_cousin_fire_album |  
+| bip_39_word_underscore_2 | balance_palace |  
+| bip_39_word_underscore_3 | balance_palace_task |  
+| bip_39_word_underscore_4 | balance_palace_task_extra |  
+| bip_39_word_underscore_5 | balance_palace_task_extra_armor |  
+| bip_39_word_underscore_6 | balance_palace_task_extra_armor_tube |  
+| bip_39_word_underscore_7 | balance_palace_task_extra_armor_tube_mail |  
+| bip_39_word_underscore_8 | balance_palace_task_extra_armor_tube_mail_pelican |  
+| bip_39_word_underscore_9 | balance_palace_task_extra_armor_tube_mail_pelican_wink |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

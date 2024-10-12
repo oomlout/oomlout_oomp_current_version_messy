@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tongue
+bip_39_word_dash_10: tongue-cash-drastic-half-drop-inquiry-uphold-tenant-lazy-climb
+bip_39_word_dash_11: tongue-cash-drastic-half-drop-inquiry-uphold-tenant-lazy-climb-boost
+bip_39_word_dash_12: tongue-cash-drastic-half-drop-inquiry-uphold-tenant-lazy-climb-boost-amount
+bip_39_word_dash_2: tongue-cash
+bip_39_word_dash_3: tongue-cash-drastic
+bip_39_word_dash_4: tongue-cash-drastic-half
+bip_39_word_dash_5: tongue-cash-drastic-half-drop
+bip_39_word_dash_6: tongue-cash-drastic-half-drop-inquiry
+bip_39_word_dash_7: tongue-cash-drastic-half-drop-inquiry-uphold
+bip_39_word_dash_8: tongue-cash-drastic-half-drop-inquiry-uphold-tenant
+bip_39_word_dash_9: tongue-cash-drastic-half-drop-inquiry-uphold-tenant-lazy
 bip_39_word_new_br_1: tongue
 bip_39_word_new_br_10: tongue<br>cash<br>drastic<br>half<br>drop<br>inquiry<br>uphold<br>tenant<br>lazy<br>climb
 bip_39_word_new_br_11: tongue<br>cash<br>drastic<br>half<br>drop<br>inquiry<br>uphold<br>tenant<br>lazy<br>climb<br>boost
@@ -193,6 +205,18 @@ bip_39_word_space_6: tongue cash drastic half drop inquiry
 bip_39_word_space_7: tongue cash drastic half drop inquiry uphold
 bip_39_word_space_8: tongue cash drastic half drop inquiry uphold tenant
 bip_39_word_space_9: tongue cash drastic half drop inquiry uphold tenant lazy
+bip_39_word_underscore_1: tongue
+bip_39_word_underscore_10: tongue_cash_drastic_half_drop_inquiry_uphold_tenant_lazy_climb
+bip_39_word_underscore_11: tongue_cash_drastic_half_drop_inquiry_uphold_tenant_lazy_climb_boost
+bip_39_word_underscore_12: tongue_cash_drastic_half_drop_inquiry_uphold_tenant_lazy_climb_boost_amount
+bip_39_word_underscore_2: tongue_cash
+bip_39_word_underscore_3: tongue_cash_drastic
+bip_39_word_underscore_4: tongue_cash_drastic_half
+bip_39_word_underscore_5: tongue_cash_drastic_half_drop
+bip_39_word_underscore_6: tongue_cash_drastic_half_drop_inquiry
+bip_39_word_underscore_7: tongue_cash_drastic_half_drop_inquiry_uphold
+bip_39_word_underscore_8: tongue_cash_drastic_half_drop_inquiry_uphold_tenant
+bip_39_word_underscore_9: tongue_cash_drastic_half_drop_inquiry_uphold_tenant_lazy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

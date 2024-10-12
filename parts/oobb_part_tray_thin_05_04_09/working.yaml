@@ -1,3 +1,15 @@
+bip_39_word_dash_1: penalty
+bip_39_word_dash_10: penalty-squeeze-witness-ensure-veteran-maid-whale-business-critic-index
+bip_39_word_dash_11: penalty-squeeze-witness-ensure-veteran-maid-whale-business-critic-index-power
+bip_39_word_dash_12: penalty-squeeze-witness-ensure-veteran-maid-whale-business-critic-index-power-avocado
+bip_39_word_dash_2: penalty-squeeze
+bip_39_word_dash_3: penalty-squeeze-witness
+bip_39_word_dash_4: penalty-squeeze-witness-ensure
+bip_39_word_dash_5: penalty-squeeze-witness-ensure-veteran
+bip_39_word_dash_6: penalty-squeeze-witness-ensure-veteran-maid
+bip_39_word_dash_7: penalty-squeeze-witness-ensure-veteran-maid-whale
+bip_39_word_dash_8: penalty-squeeze-witness-ensure-veteran-maid-whale-business
+bip_39_word_dash_9: penalty-squeeze-witness-ensure-veteran-maid-whale-business-critic
 bip_39_word_new_br_1: penalty
 bip_39_word_new_br_10: penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index
 bip_39_word_new_br_11: penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index<br>power
@@ -194,6 +206,18 @@ bip_39_word_space_6: penalty squeeze witness ensure veteran maid
 bip_39_word_space_7: penalty squeeze witness ensure veteran maid whale
 bip_39_word_space_8: penalty squeeze witness ensure veteran maid whale business
 bip_39_word_space_9: penalty squeeze witness ensure veteran maid whale business critic
+bip_39_word_underscore_1: penalty
+bip_39_word_underscore_10: penalty_squeeze_witness_ensure_veteran_maid_whale_business_critic_index
+bip_39_word_underscore_11: penalty_squeeze_witness_ensure_veteran_maid_whale_business_critic_index_power
+bip_39_word_underscore_12: penalty_squeeze_witness_ensure_veteran_maid_whale_business_critic_index_power_avocado
+bip_39_word_underscore_2: penalty_squeeze
+bip_39_word_underscore_3: penalty_squeeze_witness
+bip_39_word_underscore_4: penalty_squeeze_witness_ensure
+bip_39_word_underscore_5: penalty_squeeze_witness_ensure_veteran
+bip_39_word_underscore_6: penalty_squeeze_witness_ensure_veteran_maid
+bip_39_word_underscore_7: penalty_squeeze_witness_ensure_veteran_maid_whale
+bip_39_word_underscore_8: penalty_squeeze_witness_ensure_veteran_maid_whale_business
+bip_39_word_underscore_9: penalty_squeeze_witness_ensure_veteran_maid_whale_business_critic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

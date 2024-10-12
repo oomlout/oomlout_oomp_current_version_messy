@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | metal |  
+| bip_39_word_dash_10 | metal-waste-truck-invite-treat-office-will-deliver-behave-valid |  
+| bip_39_word_dash_11 | metal-waste-truck-invite-treat-office-will-deliver-behave-valid-quality |  
+| bip_39_word_dash_12 | metal-waste-truck-invite-treat-office-will-deliver-behave-valid-quality-amateur |  
+| bip_39_word_dash_2 | metal-waste |  
+| bip_39_word_dash_3 | metal-waste-truck |  
+| bip_39_word_dash_4 | metal-waste-truck-invite |  
+| bip_39_word_dash_5 | metal-waste-truck-invite-treat |  
+| bip_39_word_dash_6 | metal-waste-truck-invite-treat-office |  
+| bip_39_word_dash_7 | metal-waste-truck-invite-treat-office-will |  
+| bip_39_word_dash_8 | metal-waste-truck-invite-treat-office-will-deliver |  
+| bip_39_word_dash_9 | metal-waste-truck-invite-treat-office-will-deliver-behave |  
 | bip_39_word_new_br_1 | metal |  
 | bip_39_word_new_br_10 | metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver<br>behave<br>valid |  
 | bip_39_word_new_br_11 | metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver<br>behave<br>valid<br>quality |  
@@ -147,6 +159,18 @@ behave |
 | bip_39_word_space_7 | metal waste truck invite treat office will |  
 | bip_39_word_space_8 | metal waste truck invite treat office will deliver |  
 | bip_39_word_space_9 | metal waste truck invite treat office will deliver behave |  
+| bip_39_word_underscore_1 | metal |  
+| bip_39_word_underscore_10 | metal_waste_truck_invite_treat_office_will_deliver_behave_valid |  
+| bip_39_word_underscore_11 | metal_waste_truck_invite_treat_office_will_deliver_behave_valid_quality |  
+| bip_39_word_underscore_12 | metal_waste_truck_invite_treat_office_will_deliver_behave_valid_quality_amateur |  
+| bip_39_word_underscore_2 | metal_waste |  
+| bip_39_word_underscore_3 | metal_waste_truck |  
+| bip_39_word_underscore_4 | metal_waste_truck_invite |  
+| bip_39_word_underscore_5 | metal_waste_truck_invite_treat |  
+| bip_39_word_underscore_6 | metal_waste_truck_invite_treat_office |  
+| bip_39_word_underscore_7 | metal_waste_truck_invite_treat_office_will |  
+| bip_39_word_underscore_8 | metal_waste_truck_invite_treat_office_will_deliver |  
+| bip_39_word_underscore_9 | metal_waste_truck_invite_treat_office_will_deliver_behave |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

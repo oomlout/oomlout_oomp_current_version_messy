@@ -1,3 +1,15 @@
+bip_39_word_dash_1: piano
+bip_39_word_dash_10: piano-hundred-bounce-high-runway-angle-race-funny-bag-solid
+bip_39_word_dash_11: piano-hundred-bounce-high-runway-angle-race-funny-bag-solid-carbon
+bip_39_word_dash_12: piano-hundred-bounce-high-runway-angle-race-funny-bag-solid-carbon-arctic
+bip_39_word_dash_2: piano-hundred
+bip_39_word_dash_3: piano-hundred-bounce
+bip_39_word_dash_4: piano-hundred-bounce-high
+bip_39_word_dash_5: piano-hundred-bounce-high-runway
+bip_39_word_dash_6: piano-hundred-bounce-high-runway-angle
+bip_39_word_dash_7: piano-hundred-bounce-high-runway-angle-race
+bip_39_word_dash_8: piano-hundred-bounce-high-runway-angle-race-funny
+bip_39_word_dash_9: piano-hundred-bounce-high-runway-angle-race-funny-bag
 bip_39_word_new_br_1: piano
 bip_39_word_new_br_10: piano<br>hundred<br>bounce<br>high<br>runway<br>angle<br>race<br>funny<br>bag<br>solid
 bip_39_word_new_br_11: piano<br>hundred<br>bounce<br>high<br>runway<br>angle<br>race<br>funny<br>bag<br>solid<br>carbon
@@ -193,6 +205,18 @@ bip_39_word_space_6: piano hundred bounce high runway angle
 bip_39_word_space_7: piano hundred bounce high runway angle race
 bip_39_word_space_8: piano hundred bounce high runway angle race funny
 bip_39_word_space_9: piano hundred bounce high runway angle race funny bag
+bip_39_word_underscore_1: piano
+bip_39_word_underscore_10: piano_hundred_bounce_high_runway_angle_race_funny_bag_solid
+bip_39_word_underscore_11: piano_hundred_bounce_high_runway_angle_race_funny_bag_solid_carbon
+bip_39_word_underscore_12: piano_hundred_bounce_high_runway_angle_race_funny_bag_solid_carbon_arctic
+bip_39_word_underscore_2: piano_hundred
+bip_39_word_underscore_3: piano_hundred_bounce
+bip_39_word_underscore_4: piano_hundred_bounce_high
+bip_39_word_underscore_5: piano_hundred_bounce_high_runway
+bip_39_word_underscore_6: piano_hundred_bounce_high_runway_angle
+bip_39_word_underscore_7: piano_hundred_bounce_high_runway_angle_race
+bip_39_word_underscore_8: piano_hundred_bounce_high_runway_angle_race_funny
+bip_39_word_underscore_9: piano_hundred_bounce_high_runway_angle_race_funny_bag
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

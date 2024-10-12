@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alone |  
+| bip_39_word_dash_10 | alone-van-salmon-carry-alarm-penalty-accident-gift-legend-often |  
+| bip_39_word_dash_11 | alone-van-salmon-carry-alarm-penalty-accident-gift-legend-often-boy |  
+| bip_39_word_dash_12 | alone-van-salmon-carry-alarm-penalty-accident-gift-legend-often-boy-afford |  
+| bip_39_word_dash_2 | alone-van |  
+| bip_39_word_dash_3 | alone-van-salmon |  
+| bip_39_word_dash_4 | alone-van-salmon-carry |  
+| bip_39_word_dash_5 | alone-van-salmon-carry-alarm |  
+| bip_39_word_dash_6 | alone-van-salmon-carry-alarm-penalty |  
+| bip_39_word_dash_7 | alone-van-salmon-carry-alarm-penalty-accident |  
+| bip_39_word_dash_8 | alone-van-salmon-carry-alarm-penalty-accident-gift |  
+| bip_39_word_dash_9 | alone-van-salmon-carry-alarm-penalty-accident-gift-legend |  
 | bip_39_word_new_br_1 | alone |  
 | bip_39_word_new_br_10 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift<br>legend<br>often |  
 | bip_39_word_new_br_11 | alone<br>van<br>salmon<br>carry<br>alarm<br>penalty<br>accident<br>gift<br>legend<br>often<br>boy |  
@@ -147,6 +159,18 @@ legend |
 | bip_39_word_space_7 | alone van salmon carry alarm penalty accident |  
 | bip_39_word_space_8 | alone van salmon carry alarm penalty accident gift |  
 | bip_39_word_space_9 | alone van salmon carry alarm penalty accident gift legend |  
+| bip_39_word_underscore_1 | alone |  
+| bip_39_word_underscore_10 | alone_van_salmon_carry_alarm_penalty_accident_gift_legend_often |  
+| bip_39_word_underscore_11 | alone_van_salmon_carry_alarm_penalty_accident_gift_legend_often_boy |  
+| bip_39_word_underscore_12 | alone_van_salmon_carry_alarm_penalty_accident_gift_legend_often_boy_afford |  
+| bip_39_word_underscore_2 | alone_van |  
+| bip_39_word_underscore_3 | alone_van_salmon |  
+| bip_39_word_underscore_4 | alone_van_salmon_carry |  
+| bip_39_word_underscore_5 | alone_van_salmon_carry_alarm |  
+| bip_39_word_underscore_6 | alone_van_salmon_carry_alarm_penalty |  
+| bip_39_word_underscore_7 | alone_van_salmon_carry_alarm_penalty_accident |  
+| bip_39_word_underscore_8 | alone_van_salmon_carry_alarm_penalty_accident_gift |  
+| bip_39_word_underscore_9 | alone_van_salmon_carry_alarm_penalty_accident_gift_legend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

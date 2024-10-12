@@ -1,3 +1,15 @@
+bip_39_word_dash_1: renew
+bip_39_word_dash_10: renew-clump-turtle-crowd-fortune-chuckle-arrow-what-deliver-mystery
+bip_39_word_dash_11: renew-clump-turtle-crowd-fortune-chuckle-arrow-what-deliver-mystery-bean
+bip_39_word_dash_12: renew-clump-turtle-crowd-fortune-chuckle-arrow-what-deliver-mystery-bean-average
+bip_39_word_dash_2: renew-clump
+bip_39_word_dash_3: renew-clump-turtle
+bip_39_word_dash_4: renew-clump-turtle-crowd
+bip_39_word_dash_5: renew-clump-turtle-crowd-fortune
+bip_39_word_dash_6: renew-clump-turtle-crowd-fortune-chuckle
+bip_39_word_dash_7: renew-clump-turtle-crowd-fortune-chuckle-arrow
+bip_39_word_dash_8: renew-clump-turtle-crowd-fortune-chuckle-arrow-what
+bip_39_word_dash_9: renew-clump-turtle-crowd-fortune-chuckle-arrow-what-deliver
 bip_39_word_new_br_1: renew
 bip_39_word_new_br_10: renew<br>clump<br>turtle<br>crowd<br>fortune<br>chuckle<br>arrow<br>what<br>deliver<br>mystery
 bip_39_word_new_br_11: renew<br>clump<br>turtle<br>crowd<br>fortune<br>chuckle<br>arrow<br>what<br>deliver<br>mystery<br>bean
@@ -194,6 +206,18 @@ bip_39_word_space_6: renew clump turtle crowd fortune chuckle
 bip_39_word_space_7: renew clump turtle crowd fortune chuckle arrow
 bip_39_word_space_8: renew clump turtle crowd fortune chuckle arrow what
 bip_39_word_space_9: renew clump turtle crowd fortune chuckle arrow what deliver
+bip_39_word_underscore_1: renew
+bip_39_word_underscore_10: renew_clump_turtle_crowd_fortune_chuckle_arrow_what_deliver_mystery
+bip_39_word_underscore_11: renew_clump_turtle_crowd_fortune_chuckle_arrow_what_deliver_mystery_bean
+bip_39_word_underscore_12: renew_clump_turtle_crowd_fortune_chuckle_arrow_what_deliver_mystery_bean_average
+bip_39_word_underscore_2: renew_clump
+bip_39_word_underscore_3: renew_clump_turtle
+bip_39_word_underscore_4: renew_clump_turtle_crowd
+bip_39_word_underscore_5: renew_clump_turtle_crowd_fortune
+bip_39_word_underscore_6: renew_clump_turtle_crowd_fortune_chuckle
+bip_39_word_underscore_7: renew_clump_turtle_crowd_fortune_chuckle_arrow
+bip_39_word_underscore_8: renew_clump_turtle_crowd_fortune_chuckle_arrow_what
+bip_39_word_underscore_9: renew_clump_turtle_crowd_fortune_chuckle_arrow_what_deliver
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

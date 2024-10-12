@@ -1,3 +1,15 @@
+bip_39_word_dash_1: acoustic
+bip_39_word_dash_10: acoustic-corn-vehicle-shift-ghost-border-crater-post-dinosaur-remain
+bip_39_word_dash_11: acoustic-corn-vehicle-shift-ghost-border-crater-post-dinosaur-remain-leg
+bip_39_word_dash_12: acoustic-corn-vehicle-shift-ghost-border-crater-post-dinosaur-remain-leg-admit
+bip_39_word_dash_2: acoustic-corn
+bip_39_word_dash_3: acoustic-corn-vehicle
+bip_39_word_dash_4: acoustic-corn-vehicle-shift
+bip_39_word_dash_5: acoustic-corn-vehicle-shift-ghost
+bip_39_word_dash_6: acoustic-corn-vehicle-shift-ghost-border
+bip_39_word_dash_7: acoustic-corn-vehicle-shift-ghost-border-crater
+bip_39_word_dash_8: acoustic-corn-vehicle-shift-ghost-border-crater-post
+bip_39_word_dash_9: acoustic-corn-vehicle-shift-ghost-border-crater-post-dinosaur
 bip_39_word_new_br_1: acoustic
 bip_39_word_new_br_10: acoustic<br>corn<br>vehicle<br>shift<br>ghost<br>border<br>crater<br>post<br>dinosaur<br>remain
 bip_39_word_new_br_11: acoustic<br>corn<br>vehicle<br>shift<br>ghost<br>border<br>crater<br>post<br>dinosaur<br>remain<br>leg
@@ -194,6 +206,18 @@ bip_39_word_space_6: acoustic corn vehicle shift ghost border
 bip_39_word_space_7: acoustic corn vehicle shift ghost border crater
 bip_39_word_space_8: acoustic corn vehicle shift ghost border crater post
 bip_39_word_space_9: acoustic corn vehicle shift ghost border crater post dinosaur
+bip_39_word_underscore_1: acoustic
+bip_39_word_underscore_10: acoustic_corn_vehicle_shift_ghost_border_crater_post_dinosaur_remain
+bip_39_word_underscore_11: acoustic_corn_vehicle_shift_ghost_border_crater_post_dinosaur_remain_leg
+bip_39_word_underscore_12: acoustic_corn_vehicle_shift_ghost_border_crater_post_dinosaur_remain_leg_admit
+bip_39_word_underscore_2: acoustic_corn
+bip_39_word_underscore_3: acoustic_corn_vehicle
+bip_39_word_underscore_4: acoustic_corn_vehicle_shift
+bip_39_word_underscore_5: acoustic_corn_vehicle_shift_ghost
+bip_39_word_underscore_6: acoustic_corn_vehicle_shift_ghost_border
+bip_39_word_underscore_7: acoustic_corn_vehicle_shift_ghost_border_crater
+bip_39_word_underscore_8: acoustic_corn_vehicle_shift_ghost_border_crater_post
+bip_39_word_underscore_9: acoustic_corn_vehicle_shift_ghost_border_crater_post_dinosaur
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

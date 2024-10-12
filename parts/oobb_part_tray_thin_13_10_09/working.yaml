@@ -1,3 +1,15 @@
+bip_39_word_dash_1: account
+bip_39_word_dash_10: account-differ-love-nose-legal-valid-cream-cloth-oven-cupboard
+bip_39_word_dash_11: account-differ-love-nose-legal-valid-cream-cloth-oven-cupboard-oyster
+bip_39_word_dash_12: account-differ-love-nose-legal-valid-cream-cloth-oven-cupboard-oyster-auto
+bip_39_word_dash_2: account-differ
+bip_39_word_dash_3: account-differ-love
+bip_39_word_dash_4: account-differ-love-nose
+bip_39_word_dash_5: account-differ-love-nose-legal
+bip_39_word_dash_6: account-differ-love-nose-legal-valid
+bip_39_word_dash_7: account-differ-love-nose-legal-valid-cream
+bip_39_word_dash_8: account-differ-love-nose-legal-valid-cream-cloth
+bip_39_word_dash_9: account-differ-love-nose-legal-valid-cream-cloth-oven
 bip_39_word_new_br_1: account
 bip_39_word_new_br_10: account<br>differ<br>love<br>nose<br>legal<br>valid<br>cream<br>cloth<br>oven<br>cupboard
 bip_39_word_new_br_11: account<br>differ<br>love<br>nose<br>legal<br>valid<br>cream<br>cloth<br>oven<br>cupboard<br>oyster
@@ -193,6 +205,18 @@ bip_39_word_space_6: account differ love nose legal valid
 bip_39_word_space_7: account differ love nose legal valid cream
 bip_39_word_space_8: account differ love nose legal valid cream cloth
 bip_39_word_space_9: account differ love nose legal valid cream cloth oven
+bip_39_word_underscore_1: account
+bip_39_word_underscore_10: account_differ_love_nose_legal_valid_cream_cloth_oven_cupboard
+bip_39_word_underscore_11: account_differ_love_nose_legal_valid_cream_cloth_oven_cupboard_oyster
+bip_39_word_underscore_12: account_differ_love_nose_legal_valid_cream_cloth_oven_cupboard_oyster_auto
+bip_39_word_underscore_2: account_differ
+bip_39_word_underscore_3: account_differ_love
+bip_39_word_underscore_4: account_differ_love_nose
+bip_39_word_underscore_5: account_differ_love_nose_legal
+bip_39_word_underscore_6: account_differ_love_nose_legal_valid
+bip_39_word_underscore_7: account_differ_love_nose_legal_valid_cream
+bip_39_word_underscore_8: account_differ_love_nose_legal_valid_cream_cloth
+bip_39_word_underscore_9: account_differ_love_nose_legal_valid_cream_cloth_oven
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

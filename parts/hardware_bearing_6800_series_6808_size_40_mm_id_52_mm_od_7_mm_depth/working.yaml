@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scorpion
+bip_39_word_dash_10: scorpion-marriage-arena-iron-consider-author-receive-hammer-pencil-execute
+bip_39_word_dash_11: scorpion-marriage-arena-iron-consider-author-receive-hammer-pencil-execute-draw
+bip_39_word_dash_12: scorpion-marriage-arena-iron-consider-author-receive-hammer-pencil-execute-draw-assist
+bip_39_word_dash_2: scorpion-marriage
+bip_39_word_dash_3: scorpion-marriage-arena
+bip_39_word_dash_4: scorpion-marriage-arena-iron
+bip_39_word_dash_5: scorpion-marriage-arena-iron-consider
+bip_39_word_dash_6: scorpion-marriage-arena-iron-consider-author
+bip_39_word_dash_7: scorpion-marriage-arena-iron-consider-author-receive
+bip_39_word_dash_8: scorpion-marriage-arena-iron-consider-author-receive-hammer
+bip_39_word_dash_9: scorpion-marriage-arena-iron-consider-author-receive-hammer-pencil
 bip_39_word_new_br_1: scorpion
 bip_39_word_new_br_10: scorpion<br>marriage<br>arena<br>iron<br>consider<br>author<br>receive<br>hammer<br>pencil<br>execute
 bip_39_word_new_br_11: scorpion<br>marriage<br>arena<br>iron<br>consider<br>author<br>receive<br>hammer<br>pencil<br>execute<br>draw
@@ -194,6 +206,18 @@ bip_39_word_space_6: scorpion marriage arena iron consider author
 bip_39_word_space_7: scorpion marriage arena iron consider author receive
 bip_39_word_space_8: scorpion marriage arena iron consider author receive hammer
 bip_39_word_space_9: scorpion marriage arena iron consider author receive hammer pencil
+bip_39_word_underscore_1: scorpion
+bip_39_word_underscore_10: scorpion_marriage_arena_iron_consider_author_receive_hammer_pencil_execute
+bip_39_word_underscore_11: scorpion_marriage_arena_iron_consider_author_receive_hammer_pencil_execute_draw
+bip_39_word_underscore_12: scorpion_marriage_arena_iron_consider_author_receive_hammer_pencil_execute_draw_assist
+bip_39_word_underscore_2: scorpion_marriage
+bip_39_word_underscore_3: scorpion_marriage_arena
+bip_39_word_underscore_4: scorpion_marriage_arena_iron
+bip_39_word_underscore_5: scorpion_marriage_arena_iron_consider
+bip_39_word_underscore_6: scorpion_marriage_arena_iron_consider_author
+bip_39_word_underscore_7: scorpion_marriage_arena_iron_consider_author_receive
+bip_39_word_underscore_8: scorpion_marriage_arena_iron_consider_author_receive_hammer
+bip_39_word_underscore_9: scorpion_marriage_arena_iron_consider_author_receive_hammer_pencil
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

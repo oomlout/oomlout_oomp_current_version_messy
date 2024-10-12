@@ -1,3 +1,15 @@
+bip_39_word_dash_1: champion
+bip_39_word_dash_10: champion-turtle-top-curve-wait-gorilla-unknown-mistake-ceiling-kiss
+bip_39_word_dash_11: champion-turtle-top-curve-wait-gorilla-unknown-mistake-ceiling-kiss-timber
+bip_39_word_dash_12: champion-turtle-top-curve-wait-gorilla-unknown-mistake-ceiling-kiss-timber-arena
+bip_39_word_dash_2: champion-turtle
+bip_39_word_dash_3: champion-turtle-top
+bip_39_word_dash_4: champion-turtle-top-curve
+bip_39_word_dash_5: champion-turtle-top-curve-wait
+bip_39_word_dash_6: champion-turtle-top-curve-wait-gorilla
+bip_39_word_dash_7: champion-turtle-top-curve-wait-gorilla-unknown
+bip_39_word_dash_8: champion-turtle-top-curve-wait-gorilla-unknown-mistake
+bip_39_word_dash_9: champion-turtle-top-curve-wait-gorilla-unknown-mistake-ceiling
 bip_39_word_new_br_1: champion
 bip_39_word_new_br_10: champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake<br>ceiling<br>kiss
 bip_39_word_new_br_11: champion<br>turtle<br>top<br>curve<br>wait<br>gorilla<br>unknown<br>mistake<br>ceiling<br>kiss<br>timber
@@ -194,6 +206,18 @@ bip_39_word_space_6: champion turtle top curve wait gorilla
 bip_39_word_space_7: champion turtle top curve wait gorilla unknown
 bip_39_word_space_8: champion turtle top curve wait gorilla unknown mistake
 bip_39_word_space_9: champion turtle top curve wait gorilla unknown mistake ceiling
+bip_39_word_underscore_1: champion
+bip_39_word_underscore_10: champion_turtle_top_curve_wait_gorilla_unknown_mistake_ceiling_kiss
+bip_39_word_underscore_11: champion_turtle_top_curve_wait_gorilla_unknown_mistake_ceiling_kiss_timber
+bip_39_word_underscore_12: champion_turtle_top_curve_wait_gorilla_unknown_mistake_ceiling_kiss_timber_arena
+bip_39_word_underscore_2: champion_turtle
+bip_39_word_underscore_3: champion_turtle_top
+bip_39_word_underscore_4: champion_turtle_top_curve
+bip_39_word_underscore_5: champion_turtle_top_curve_wait
+bip_39_word_underscore_6: champion_turtle_top_curve_wait_gorilla
+bip_39_word_underscore_7: champion_turtle_top_curve_wait_gorilla_unknown
+bip_39_word_underscore_8: champion_turtle_top_curve_wait_gorilla_unknown_mistake
+bip_39_word_underscore_9: champion_turtle_top_curve_wait_gorilla_unknown_mistake_ceiling
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

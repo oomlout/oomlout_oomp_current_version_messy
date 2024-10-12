@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | relax |  
+| bip_39_word_dash_10 | relax-practice-mutual-luxury-youth-you-toss-witness-hill-inch |  
+| bip_39_word_dash_11 | relax-practice-mutual-luxury-youth-you-toss-witness-hill-inch-voice |  
+| bip_39_word_dash_12 | relax-practice-mutual-luxury-youth-you-toss-witness-hill-inch-voice-assault |  
+| bip_39_word_dash_2 | relax-practice |  
+| bip_39_word_dash_3 | relax-practice-mutual |  
+| bip_39_word_dash_4 | relax-practice-mutual-luxury |  
+| bip_39_word_dash_5 | relax-practice-mutual-luxury-youth |  
+| bip_39_word_dash_6 | relax-practice-mutual-luxury-youth-you |  
+| bip_39_word_dash_7 | relax-practice-mutual-luxury-youth-you-toss |  
+| bip_39_word_dash_8 | relax-practice-mutual-luxury-youth-you-toss-witness |  
+| bip_39_word_dash_9 | relax-practice-mutual-luxury-youth-you-toss-witness-hill |  
 | bip_39_word_new_br_1 | relax |  
 | bip_39_word_new_br_10 | relax<br>practice<br>mutual<br>luxury<br>youth<br>you<br>toss<br>witness<br>hill<br>inch |  
 | bip_39_word_new_br_11 | relax<br>practice<br>mutual<br>luxury<br>youth<br>you<br>toss<br>witness<br>hill<br>inch<br>voice |  
@@ -147,6 +159,18 @@ hill |
 | bip_39_word_space_7 | relax practice mutual luxury youth you toss |  
 | bip_39_word_space_8 | relax practice mutual luxury youth you toss witness |  
 | bip_39_word_space_9 | relax practice mutual luxury youth you toss witness hill |  
+| bip_39_word_underscore_1 | relax |  
+| bip_39_word_underscore_10 | relax_practice_mutual_luxury_youth_you_toss_witness_hill_inch |  
+| bip_39_word_underscore_11 | relax_practice_mutual_luxury_youth_you_toss_witness_hill_inch_voice |  
+| bip_39_word_underscore_12 | relax_practice_mutual_luxury_youth_you_toss_witness_hill_inch_voice_assault |  
+| bip_39_word_underscore_2 | relax_practice |  
+| bip_39_word_underscore_3 | relax_practice_mutual |  
+| bip_39_word_underscore_4 | relax_practice_mutual_luxury |  
+| bip_39_word_underscore_5 | relax_practice_mutual_luxury_youth |  
+| bip_39_word_underscore_6 | relax_practice_mutual_luxury_youth_you |  
+| bip_39_word_underscore_7 | relax_practice_mutual_luxury_youth_you_toss |  
+| bip_39_word_underscore_8 | relax_practice_mutual_luxury_youth_you_toss_witness |  
+| bip_39_word_underscore_9 | relax_practice_mutual_luxury_youth_you_toss_witness_hill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

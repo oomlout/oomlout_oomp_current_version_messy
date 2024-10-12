@@ -1,3 +1,15 @@
+bip_39_word_dash_1: atom
+bip_39_word_dash_10: atom-online-follow-magnet-sausage-brain-easily-hunt-deer-monster
+bip_39_word_dash_11: atom-online-follow-magnet-sausage-brain-easily-hunt-deer-monster-turkey
+bip_39_word_dash_12: atom-online-follow-magnet-sausage-brain-easily-hunt-deer-monster-turkey-author
+bip_39_word_dash_2: atom-online
+bip_39_word_dash_3: atom-online-follow
+bip_39_word_dash_4: atom-online-follow-magnet
+bip_39_word_dash_5: atom-online-follow-magnet-sausage
+bip_39_word_dash_6: atom-online-follow-magnet-sausage-brain
+bip_39_word_dash_7: atom-online-follow-magnet-sausage-brain-easily
+bip_39_word_dash_8: atom-online-follow-magnet-sausage-brain-easily-hunt
+bip_39_word_dash_9: atom-online-follow-magnet-sausage-brain-easily-hunt-deer
 bip_39_word_new_br_1: atom
 bip_39_word_new_br_10: atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt<br>deer<br>monster
 bip_39_word_new_br_11: atom<br>online<br>follow<br>magnet<br>sausage<br>brain<br>easily<br>hunt<br>deer<br>monster<br>turkey
@@ -193,6 +205,18 @@ bip_39_word_space_6: atom online follow magnet sausage brain
 bip_39_word_space_7: atom online follow magnet sausage brain easily
 bip_39_word_space_8: atom online follow magnet sausage brain easily hunt
 bip_39_word_space_9: atom online follow magnet sausage brain easily hunt deer
+bip_39_word_underscore_1: atom
+bip_39_word_underscore_10: atom_online_follow_magnet_sausage_brain_easily_hunt_deer_monster
+bip_39_word_underscore_11: atom_online_follow_magnet_sausage_brain_easily_hunt_deer_monster_turkey
+bip_39_word_underscore_12: atom_online_follow_magnet_sausage_brain_easily_hunt_deer_monster_turkey_author
+bip_39_word_underscore_2: atom_online
+bip_39_word_underscore_3: atom_online_follow
+bip_39_word_underscore_4: atom_online_follow_magnet
+bip_39_word_underscore_5: atom_online_follow_magnet_sausage
+bip_39_word_underscore_6: atom_online_follow_magnet_sausage_brain
+bip_39_word_underscore_7: atom_online_follow_magnet_sausage_brain_easily
+bip_39_word_underscore_8: atom_online_follow_magnet_sausage_brain_easily_hunt
+bip_39_word_underscore_9: atom_online_follow_magnet_sausage_brain_easily_hunt_deer
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

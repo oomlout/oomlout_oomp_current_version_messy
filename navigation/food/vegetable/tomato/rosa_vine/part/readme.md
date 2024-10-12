@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silent |  
+| bip_39_word_dash_10 | silent-choose-gorilla-ball-excite-letter-van-group-stage-history |  
+| bip_39_word_dash_11 | silent-choose-gorilla-ball-excite-letter-van-group-stage-history-panel |  
+| bip_39_word_dash_12 | silent-choose-gorilla-ball-excite-letter-van-group-stage-history-panel-answer |  
+| bip_39_word_dash_2 | silent-choose |  
+| bip_39_word_dash_3 | silent-choose-gorilla |  
+| bip_39_word_dash_4 | silent-choose-gorilla-ball |  
+| bip_39_word_dash_5 | silent-choose-gorilla-ball-excite |  
+| bip_39_word_dash_6 | silent-choose-gorilla-ball-excite-letter |  
+| bip_39_word_dash_7 | silent-choose-gorilla-ball-excite-letter-van |  
+| bip_39_word_dash_8 | silent-choose-gorilla-ball-excite-letter-van-group |  
+| bip_39_word_dash_9 | silent-choose-gorilla-ball-excite-letter-van-group-stage |  
 | bip_39_word_new_br_1 | silent |  
 | bip_39_word_new_br_10 | silent<br>choose<br>gorilla<br>ball<br>excite<br>letter<br>van<br>group<br>stage<br>history |  
 | bip_39_word_new_br_11 | silent<br>choose<br>gorilla<br>ball<br>excite<br>letter<br>van<br>group<br>stage<br>history<br>panel |  
@@ -147,6 +159,18 @@ stage |
 | bip_39_word_space_7 | silent choose gorilla ball excite letter van |  
 | bip_39_word_space_8 | silent choose gorilla ball excite letter van group |  
 | bip_39_word_space_9 | silent choose gorilla ball excite letter van group stage |  
+| bip_39_word_underscore_1 | silent |  
+| bip_39_word_underscore_10 | silent_choose_gorilla_ball_excite_letter_van_group_stage_history |  
+| bip_39_word_underscore_11 | silent_choose_gorilla_ball_excite_letter_van_group_stage_history_panel |  
+| bip_39_word_underscore_12 | silent_choose_gorilla_ball_excite_letter_van_group_stage_history_panel_answer |  
+| bip_39_word_underscore_2 | silent_choose |  
+| bip_39_word_underscore_3 | silent_choose_gorilla |  
+| bip_39_word_underscore_4 | silent_choose_gorilla_ball |  
+| bip_39_word_underscore_5 | silent_choose_gorilla_ball_excite |  
+| bip_39_word_underscore_6 | silent_choose_gorilla_ball_excite_letter |  
+| bip_39_word_underscore_7 | silent_choose_gorilla_ball_excite_letter_van |  
+| bip_39_word_underscore_8 | silent_choose_gorilla_ball_excite_letter_van_group |  
+| bip_39_word_underscore_9 | silent_choose_gorilla_ball_excite_letter_van_group_stage |  
 | classification | food |  
 | classification_capital | Food |  
 | classification_first_letter | f |  

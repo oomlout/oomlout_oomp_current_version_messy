@@ -1,3 +1,15 @@
+bip_39_word_dash_1: panda
+bip_39_word_dash_10: panda-hundred-crop-cake-leaf-ordinary-auto-vivid-small-candy
+bip_39_word_dash_11: panda-hundred-crop-cake-leaf-ordinary-auto-vivid-small-candy-essence
+bip_39_word_dash_12: panda-hundred-crop-cake-leaf-ordinary-auto-vivid-small-candy-essence-always
+bip_39_word_dash_2: panda-hundred
+bip_39_word_dash_3: panda-hundred-crop
+bip_39_word_dash_4: panda-hundred-crop-cake
+bip_39_word_dash_5: panda-hundred-crop-cake-leaf
+bip_39_word_dash_6: panda-hundred-crop-cake-leaf-ordinary
+bip_39_word_dash_7: panda-hundred-crop-cake-leaf-ordinary-auto
+bip_39_word_dash_8: panda-hundred-crop-cake-leaf-ordinary-auto-vivid
+bip_39_word_dash_9: panda-hundred-crop-cake-leaf-ordinary-auto-vivid-small
 bip_39_word_new_br_1: panda
 bip_39_word_new_br_10: panda<br>hundred<br>crop<br>cake<br>leaf<br>ordinary<br>auto<br>vivid<br>small<br>candy
 bip_39_word_new_br_11: panda<br>hundred<br>crop<br>cake<br>leaf<br>ordinary<br>auto<br>vivid<br>small<br>candy<br>essence
@@ -193,6 +205,18 @@ bip_39_word_space_6: panda hundred crop cake leaf ordinary
 bip_39_word_space_7: panda hundred crop cake leaf ordinary auto
 bip_39_word_space_8: panda hundred crop cake leaf ordinary auto vivid
 bip_39_word_space_9: panda hundred crop cake leaf ordinary auto vivid small
+bip_39_word_underscore_1: panda
+bip_39_word_underscore_10: panda_hundred_crop_cake_leaf_ordinary_auto_vivid_small_candy
+bip_39_word_underscore_11: panda_hundred_crop_cake_leaf_ordinary_auto_vivid_small_candy_essence
+bip_39_word_underscore_12: panda_hundred_crop_cake_leaf_ordinary_auto_vivid_small_candy_essence_always
+bip_39_word_underscore_2: panda_hundred
+bip_39_word_underscore_3: panda_hundred_crop
+bip_39_word_underscore_4: panda_hundred_crop_cake
+bip_39_word_underscore_5: panda_hundred_crop_cake_leaf
+bip_39_word_underscore_6: panda_hundred_crop_cake_leaf_ordinary
+bip_39_word_underscore_7: panda_hundred_crop_cake_leaf_ordinary_auto
+bip_39_word_underscore_8: panda_hundred_crop_cake_leaf_ordinary_auto_vivid
+bip_39_word_underscore_9: panda_hundred_crop_cake_leaf_ordinary_auto_vivid_small
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

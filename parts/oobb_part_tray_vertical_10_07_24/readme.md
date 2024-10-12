@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | action |  
+| bip_39_word_dash_10 | action-laugh-panic-side-text-bread-doll-flag-upset-dismiss |  
+| bip_39_word_dash_11 | action-laugh-panic-side-text-bread-doll-flag-upset-dismiss-phone |  
+| bip_39_word_dash_12 | action-laugh-panic-side-text-bread-doll-flag-upset-dismiss-phone-amazing |  
+| bip_39_word_dash_2 | action-laugh |  
+| bip_39_word_dash_3 | action-laugh-panic |  
+| bip_39_word_dash_4 | action-laugh-panic-side |  
+| bip_39_word_dash_5 | action-laugh-panic-side-text |  
+| bip_39_word_dash_6 | action-laugh-panic-side-text-bread |  
+| bip_39_word_dash_7 | action-laugh-panic-side-text-bread-doll |  
+| bip_39_word_dash_8 | action-laugh-panic-side-text-bread-doll-flag |  
+| bip_39_word_dash_9 | action-laugh-panic-side-text-bread-doll-flag-upset |  
 | bip_39_word_new_br_1 | action |  
 | bip_39_word_new_br_10 | action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss |  
 | bip_39_word_new_br_11 | action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss<br>phone |  
@@ -147,6 +159,18 @@ upset |
 | bip_39_word_space_7 | action laugh panic side text bread doll |  
 | bip_39_word_space_8 | action laugh panic side text bread doll flag |  
 | bip_39_word_space_9 | action laugh panic side text bread doll flag upset |  
+| bip_39_word_underscore_1 | action |  
+| bip_39_word_underscore_10 | action_laugh_panic_side_text_bread_doll_flag_upset_dismiss |  
+| bip_39_word_underscore_11 | action_laugh_panic_side_text_bread_doll_flag_upset_dismiss_phone |  
+| bip_39_word_underscore_12 | action_laugh_panic_side_text_bread_doll_flag_upset_dismiss_phone_amazing |  
+| bip_39_word_underscore_2 | action_laugh |  
+| bip_39_word_underscore_3 | action_laugh_panic |  
+| bip_39_word_underscore_4 | action_laugh_panic_side |  
+| bip_39_word_underscore_5 | action_laugh_panic_side_text |  
+| bip_39_word_underscore_6 | action_laugh_panic_side_text_bread |  
+| bip_39_word_underscore_7 | action_laugh_panic_side_text_bread_doll |  
+| bip_39_word_underscore_8 | action_laugh_panic_side_text_bread_doll_flag |  
+| bip_39_word_underscore_9 | action_laugh_panic_side_text_bread_doll_flag_upset |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

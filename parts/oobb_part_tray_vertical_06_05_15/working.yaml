@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fetch
+bip_39_word_dash_10: fetch-hamster-process-arrow-spin-mercy-again-lizard-supreme-project
+bip_39_word_dash_11: fetch-hamster-process-arrow-spin-mercy-again-lizard-supreme-project-simple
+bip_39_word_dash_12: fetch-hamster-process-arrow-spin-mercy-again-lizard-supreme-project-simple-alert
+bip_39_word_dash_2: fetch-hamster
+bip_39_word_dash_3: fetch-hamster-process
+bip_39_word_dash_4: fetch-hamster-process-arrow
+bip_39_word_dash_5: fetch-hamster-process-arrow-spin
+bip_39_word_dash_6: fetch-hamster-process-arrow-spin-mercy
+bip_39_word_dash_7: fetch-hamster-process-arrow-spin-mercy-again
+bip_39_word_dash_8: fetch-hamster-process-arrow-spin-mercy-again-lizard
+bip_39_word_dash_9: fetch-hamster-process-arrow-spin-mercy-again-lizard-supreme
 bip_39_word_new_br_1: fetch
 bip_39_word_new_br_10: fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard<br>supreme<br>project
 bip_39_word_new_br_11: fetch<br>hamster<br>process<br>arrow<br>spin<br>mercy<br>again<br>lizard<br>supreme<br>project<br>simple
@@ -194,6 +206,18 @@ bip_39_word_space_6: fetch hamster process arrow spin mercy
 bip_39_word_space_7: fetch hamster process arrow spin mercy again
 bip_39_word_space_8: fetch hamster process arrow spin mercy again lizard
 bip_39_word_space_9: fetch hamster process arrow spin mercy again lizard supreme
+bip_39_word_underscore_1: fetch
+bip_39_word_underscore_10: fetch_hamster_process_arrow_spin_mercy_again_lizard_supreme_project
+bip_39_word_underscore_11: fetch_hamster_process_arrow_spin_mercy_again_lizard_supreme_project_simple
+bip_39_word_underscore_12: fetch_hamster_process_arrow_spin_mercy_again_lizard_supreme_project_simple_alert
+bip_39_word_underscore_2: fetch_hamster
+bip_39_word_underscore_3: fetch_hamster_process
+bip_39_word_underscore_4: fetch_hamster_process_arrow
+bip_39_word_underscore_5: fetch_hamster_process_arrow_spin
+bip_39_word_underscore_6: fetch_hamster_process_arrow_spin_mercy
+bip_39_word_underscore_7: fetch_hamster_process_arrow_spin_mercy_again
+bip_39_word_underscore_8: fetch_hamster_process_arrow_spin_mercy_again_lizard
+bip_39_word_underscore_9: fetch_hamster_process_arrow_spin_mercy_again_lizard_supreme
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | script |  
+| bip_39_word_dash_10 | script-combine-taxi-praise-essence-sell-test-cigar-stay-mandate |  
+| bip_39_word_dash_11 | script-combine-taxi-praise-essence-sell-test-cigar-stay-mandate-awful |  
+| bip_39_word_dash_12 | script-combine-taxi-praise-essence-sell-test-cigar-stay-mandate-awful-appear |  
+| bip_39_word_dash_2 | script-combine |  
+| bip_39_word_dash_3 | script-combine-taxi |  
+| bip_39_word_dash_4 | script-combine-taxi-praise |  
+| bip_39_word_dash_5 | script-combine-taxi-praise-essence |  
+| bip_39_word_dash_6 | script-combine-taxi-praise-essence-sell |  
+| bip_39_word_dash_7 | script-combine-taxi-praise-essence-sell-test |  
+| bip_39_word_dash_8 | script-combine-taxi-praise-essence-sell-test-cigar |  
+| bip_39_word_dash_9 | script-combine-taxi-praise-essence-sell-test-cigar-stay |  
 | bip_39_word_new_br_1 | script |  
 | bip_39_word_new_br_10 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar<br>stay<br>mandate |  
 | bip_39_word_new_br_11 | script<br>combine<br>taxi<br>praise<br>essence<br>sell<br>test<br>cigar<br>stay<br>mandate<br>awful |  
@@ -147,6 +159,18 @@ stay |
 | bip_39_word_space_7 | script combine taxi praise essence sell test |  
 | bip_39_word_space_8 | script combine taxi praise essence sell test cigar |  
 | bip_39_word_space_9 | script combine taxi praise essence sell test cigar stay |  
+| bip_39_word_underscore_1 | script |  
+| bip_39_word_underscore_10 | script_combine_taxi_praise_essence_sell_test_cigar_stay_mandate |  
+| bip_39_word_underscore_11 | script_combine_taxi_praise_essence_sell_test_cigar_stay_mandate_awful |  
+| bip_39_word_underscore_12 | script_combine_taxi_praise_essence_sell_test_cigar_stay_mandate_awful_appear |  
+| bip_39_word_underscore_2 | script_combine |  
+| bip_39_word_underscore_3 | script_combine_taxi |  
+| bip_39_word_underscore_4 | script_combine_taxi_praise |  
+| bip_39_word_underscore_5 | script_combine_taxi_praise_essence |  
+| bip_39_word_underscore_6 | script_combine_taxi_praise_essence_sell |  
+| bip_39_word_underscore_7 | script_combine_taxi_praise_essence_sell_test |  
+| bip_39_word_underscore_8 | script_combine_taxi_praise_essence_sell_test_cigar |  
+| bip_39_word_underscore_9 | script_combine_taxi_praise_essence_sell_test_cigar_stay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

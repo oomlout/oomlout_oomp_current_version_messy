@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tuna
+bip_39_word_dash_10: tuna-venue-nuclear-shrimp-impulse-dwarf-demise-capable-robust-vibrant
+bip_39_word_dash_11: tuna-venue-nuclear-shrimp-impulse-dwarf-demise-capable-robust-vibrant-melt
+bip_39_word_dash_12: tuna-venue-nuclear-shrimp-impulse-dwarf-demise-capable-robust-vibrant-melt-alone
+bip_39_word_dash_2: tuna-venue
+bip_39_word_dash_3: tuna-venue-nuclear
+bip_39_word_dash_4: tuna-venue-nuclear-shrimp
+bip_39_word_dash_5: tuna-venue-nuclear-shrimp-impulse
+bip_39_word_dash_6: tuna-venue-nuclear-shrimp-impulse-dwarf
+bip_39_word_dash_7: tuna-venue-nuclear-shrimp-impulse-dwarf-demise
+bip_39_word_dash_8: tuna-venue-nuclear-shrimp-impulse-dwarf-demise-capable
+bip_39_word_dash_9: tuna-venue-nuclear-shrimp-impulse-dwarf-demise-capable-robust
 bip_39_word_new_br_1: tuna
 bip_39_word_new_br_10: tuna<br>venue<br>nuclear<br>shrimp<br>impulse<br>dwarf<br>demise<br>capable<br>robust<br>vibrant
 bip_39_word_new_br_11: tuna<br>venue<br>nuclear<br>shrimp<br>impulse<br>dwarf<br>demise<br>capable<br>robust<br>vibrant<br>melt
@@ -194,6 +206,18 @@ bip_39_word_space_6: tuna venue nuclear shrimp impulse dwarf
 bip_39_word_space_7: tuna venue nuclear shrimp impulse dwarf demise
 bip_39_word_space_8: tuna venue nuclear shrimp impulse dwarf demise capable
 bip_39_word_space_9: tuna venue nuclear shrimp impulse dwarf demise capable robust
+bip_39_word_underscore_1: tuna
+bip_39_word_underscore_10: tuna_venue_nuclear_shrimp_impulse_dwarf_demise_capable_robust_vibrant
+bip_39_word_underscore_11: tuna_venue_nuclear_shrimp_impulse_dwarf_demise_capable_robust_vibrant_melt
+bip_39_word_underscore_12: tuna_venue_nuclear_shrimp_impulse_dwarf_demise_capable_robust_vibrant_melt_alone
+bip_39_word_underscore_2: tuna_venue
+bip_39_word_underscore_3: tuna_venue_nuclear
+bip_39_word_underscore_4: tuna_venue_nuclear_shrimp
+bip_39_word_underscore_5: tuna_venue_nuclear_shrimp_impulse
+bip_39_word_underscore_6: tuna_venue_nuclear_shrimp_impulse_dwarf
+bip_39_word_underscore_7: tuna_venue_nuclear_shrimp_impulse_dwarf_demise
+bip_39_word_underscore_8: tuna_venue_nuclear_shrimp_impulse_dwarf_demise_capable
+bip_39_word_underscore_9: tuna_venue_nuclear_shrimp_impulse_dwarf_demise_capable_robust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

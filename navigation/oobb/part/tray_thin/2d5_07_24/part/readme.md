@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | need |  
+| bip_39_word_dash_10 | need-angry-shell-elite-spice-silver-father-urge-master-repeat |  
+| bip_39_word_dash_11 | need-angry-shell-elite-spice-silver-father-urge-master-repeat-fever |  
+| bip_39_word_dash_12 | need-angry-shell-elite-spice-silver-father-urge-master-repeat-fever-audit |  
+| bip_39_word_dash_2 | need-angry |  
+| bip_39_word_dash_3 | need-angry-shell |  
+| bip_39_word_dash_4 | need-angry-shell-elite |  
+| bip_39_word_dash_5 | need-angry-shell-elite-spice |  
+| bip_39_word_dash_6 | need-angry-shell-elite-spice-silver |  
+| bip_39_word_dash_7 | need-angry-shell-elite-spice-silver-father |  
+| bip_39_word_dash_8 | need-angry-shell-elite-spice-silver-father-urge |  
+| bip_39_word_dash_9 | need-angry-shell-elite-spice-silver-father-urge-master |  
 | bip_39_word_new_br_1 | need |  
 | bip_39_word_new_br_10 | need<br>angry<br>shell<br>elite<br>spice<br>silver<br>father<br>urge<br>master<br>repeat |  
 | bip_39_word_new_br_11 | need<br>angry<br>shell<br>elite<br>spice<br>silver<br>father<br>urge<br>master<br>repeat<br>fever |  
@@ -147,6 +159,18 @@ master |
 | bip_39_word_space_7 | need angry shell elite spice silver father |  
 | bip_39_word_space_8 | need angry shell elite spice silver father urge |  
 | bip_39_word_space_9 | need angry shell elite spice silver father urge master |  
+| bip_39_word_underscore_1 | need |  
+| bip_39_word_underscore_10 | need_angry_shell_elite_spice_silver_father_urge_master_repeat |  
+| bip_39_word_underscore_11 | need_angry_shell_elite_spice_silver_father_urge_master_repeat_fever |  
+| bip_39_word_underscore_12 | need_angry_shell_elite_spice_silver_father_urge_master_repeat_fever_audit |  
+| bip_39_word_underscore_2 | need_angry |  
+| bip_39_word_underscore_3 | need_angry_shell |  
+| bip_39_word_underscore_4 | need_angry_shell_elite |  
+| bip_39_word_underscore_5 | need_angry_shell_elite_spice |  
+| bip_39_word_underscore_6 | need_angry_shell_elite_spice_silver |  
+| bip_39_word_underscore_7 | need_angry_shell_elite_spice_silver_father |  
+| bip_39_word_underscore_8 | need_angry_shell_elite_spice_silver_father_urge |  
+| bip_39_word_underscore_9 | need_angry_shell_elite_spice_silver_father_urge_master |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

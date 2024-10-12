@@ -1,3 +1,15 @@
+bip_39_word_dash_1: husband
+bip_39_word_dash_10: husband-oval-lawn-team-second-give-repair-raise-drip-observe
+bip_39_word_dash_11: husband-oval-lawn-team-second-give-repair-raise-drip-observe-rug
+bip_39_word_dash_12: husband-oval-lawn-team-second-give-repair-raise-drip-observe-rug-address
+bip_39_word_dash_2: husband-oval
+bip_39_word_dash_3: husband-oval-lawn
+bip_39_word_dash_4: husband-oval-lawn-team
+bip_39_word_dash_5: husband-oval-lawn-team-second
+bip_39_word_dash_6: husband-oval-lawn-team-second-give
+bip_39_word_dash_7: husband-oval-lawn-team-second-give-repair
+bip_39_word_dash_8: husband-oval-lawn-team-second-give-repair-raise
+bip_39_word_dash_9: husband-oval-lawn-team-second-give-repair-raise-drip
 bip_39_word_new_br_1: husband
 bip_39_word_new_br_10: husband<br>oval<br>lawn<br>team<br>second<br>give<br>repair<br>raise<br>drip<br>observe
 bip_39_word_new_br_11: husband<br>oval<br>lawn<br>team<br>second<br>give<br>repair<br>raise<br>drip<br>observe<br>rug
@@ -193,6 +205,18 @@ bip_39_word_space_6: husband oval lawn team second give
 bip_39_word_space_7: husband oval lawn team second give repair
 bip_39_word_space_8: husband oval lawn team second give repair raise
 bip_39_word_space_9: husband oval lawn team second give repair raise drip
+bip_39_word_underscore_1: husband
+bip_39_word_underscore_10: husband_oval_lawn_team_second_give_repair_raise_drip_observe
+bip_39_word_underscore_11: husband_oval_lawn_team_second_give_repair_raise_drip_observe_rug
+bip_39_word_underscore_12: husband_oval_lawn_team_second_give_repair_raise_drip_observe_rug_address
+bip_39_word_underscore_2: husband_oval
+bip_39_word_underscore_3: husband_oval_lawn
+bip_39_word_underscore_4: husband_oval_lawn_team
+bip_39_word_underscore_5: husband_oval_lawn_team_second
+bip_39_word_underscore_6: husband_oval_lawn_team_second_give
+bip_39_word_underscore_7: husband_oval_lawn_team_second_give_repair
+bip_39_word_underscore_8: husband_oval_lawn_team_second_give_repair_raise
+bip_39_word_underscore_9: husband_oval_lawn_team_second_give_repair_raise_drip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

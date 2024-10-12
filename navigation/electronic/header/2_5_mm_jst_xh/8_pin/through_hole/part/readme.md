@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elephant |  
+| bip_39_word_dash_10 | elephant-bench-craft-erase-afraid-annual-magic-raven-doll-breeze |  
+| bip_39_word_dash_11 | elephant-bench-craft-erase-afraid-annual-magic-raven-doll-breeze-mandate |  
+| bip_39_word_dash_12 | elephant-bench-craft-erase-afraid-annual-magic-raven-doll-breeze-mandate-addict |  
+| bip_39_word_dash_2 | elephant-bench |  
+| bip_39_word_dash_3 | elephant-bench-craft |  
+| bip_39_word_dash_4 | elephant-bench-craft-erase |  
+| bip_39_word_dash_5 | elephant-bench-craft-erase-afraid |  
+| bip_39_word_dash_6 | elephant-bench-craft-erase-afraid-annual |  
+| bip_39_word_dash_7 | elephant-bench-craft-erase-afraid-annual-magic |  
+| bip_39_word_dash_8 | elephant-bench-craft-erase-afraid-annual-magic-raven |  
+| bip_39_word_dash_9 | elephant-bench-craft-erase-afraid-annual-magic-raven-doll |  
 | bip_39_word_new_br_1 | elephant |  
 | bip_39_word_new_br_10 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven<br>doll<br>breeze |  
 | bip_39_word_new_br_11 | elephant<br>bench<br>craft<br>erase<br>afraid<br>annual<br>magic<br>raven<br>doll<br>breeze<br>mandate |  
@@ -147,6 +159,18 @@ doll |
 | bip_39_word_space_7 | elephant bench craft erase afraid annual magic |  
 | bip_39_word_space_8 | elephant bench craft erase afraid annual magic raven |  
 | bip_39_word_space_9 | elephant bench craft erase afraid annual magic raven doll |  
+| bip_39_word_underscore_1 | elephant |  
+| bip_39_word_underscore_10 | elephant_bench_craft_erase_afraid_annual_magic_raven_doll_breeze |  
+| bip_39_word_underscore_11 | elephant_bench_craft_erase_afraid_annual_magic_raven_doll_breeze_mandate |  
+| bip_39_word_underscore_12 | elephant_bench_craft_erase_afraid_annual_magic_raven_doll_breeze_mandate_addict |  
+| bip_39_word_underscore_2 | elephant_bench |  
+| bip_39_word_underscore_3 | elephant_bench_craft |  
+| bip_39_word_underscore_4 | elephant_bench_craft_erase |  
+| bip_39_word_underscore_5 | elephant_bench_craft_erase_afraid |  
+| bip_39_word_underscore_6 | elephant_bench_craft_erase_afraid_annual |  
+| bip_39_word_underscore_7 | elephant_bench_craft_erase_afraid_annual_magic |  
+| bip_39_word_underscore_8 | elephant_bench_craft_erase_afraid_annual_magic_raven |  
+| bip_39_word_underscore_9 | elephant_bench_craft_erase_afraid_annual_magic_raven_doll |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

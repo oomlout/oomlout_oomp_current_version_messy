@@ -1,3 +1,15 @@
+bip_39_word_dash_1: butter
+bip_39_word_dash_10: butter-blood-surprise-quit-disease-tornado-true-junk-reject-genuine
+bip_39_word_dash_11: butter-blood-surprise-quit-disease-tornado-true-junk-reject-genuine-panel
+bip_39_word_dash_12: butter-blood-surprise-quit-disease-tornado-true-junk-reject-genuine-panel-achieve
+bip_39_word_dash_2: butter-blood
+bip_39_word_dash_3: butter-blood-surprise
+bip_39_word_dash_4: butter-blood-surprise-quit
+bip_39_word_dash_5: butter-blood-surprise-quit-disease
+bip_39_word_dash_6: butter-blood-surprise-quit-disease-tornado
+bip_39_word_dash_7: butter-blood-surprise-quit-disease-tornado-true
+bip_39_word_dash_8: butter-blood-surprise-quit-disease-tornado-true-junk
+bip_39_word_dash_9: butter-blood-surprise-quit-disease-tornado-true-junk-reject
 bip_39_word_new_br_1: butter
 bip_39_word_new_br_10: butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk<br>reject<br>genuine
 bip_39_word_new_br_11: butter<br>blood<br>surprise<br>quit<br>disease<br>tornado<br>true<br>junk<br>reject<br>genuine<br>panel
@@ -194,6 +206,18 @@ bip_39_word_space_6: butter blood surprise quit disease tornado
 bip_39_word_space_7: butter blood surprise quit disease tornado true
 bip_39_word_space_8: butter blood surprise quit disease tornado true junk
 bip_39_word_space_9: butter blood surprise quit disease tornado true junk reject
+bip_39_word_underscore_1: butter
+bip_39_word_underscore_10: butter_blood_surprise_quit_disease_tornado_true_junk_reject_genuine
+bip_39_word_underscore_11: butter_blood_surprise_quit_disease_tornado_true_junk_reject_genuine_panel
+bip_39_word_underscore_12: butter_blood_surprise_quit_disease_tornado_true_junk_reject_genuine_panel_achieve
+bip_39_word_underscore_2: butter_blood
+bip_39_word_underscore_3: butter_blood_surprise
+bip_39_word_underscore_4: butter_blood_surprise_quit
+bip_39_word_underscore_5: butter_blood_surprise_quit_disease
+bip_39_word_underscore_6: butter_blood_surprise_quit_disease_tornado
+bip_39_word_underscore_7: butter_blood_surprise_quit_disease_tornado_true
+bip_39_word_underscore_8: butter_blood_surprise_quit_disease_tornado_true_junk
+bip_39_word_underscore_9: butter_blood_surprise_quit_disease_tornado_true_junk_reject
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

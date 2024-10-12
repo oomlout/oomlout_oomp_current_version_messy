@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | envelope |  
+| bip_39_word_dash_10 | envelope-bone-bacon-project-resist-neither-stage-medal-tumble-hover |  
+| bip_39_word_dash_11 | envelope-bone-bacon-project-resist-neither-stage-medal-tumble-hover-strong |  
+| bip_39_word_dash_12 | envelope-bone-bacon-project-resist-neither-stage-medal-tumble-hover-strong-anxiety |  
+| bip_39_word_dash_2 | envelope-bone |  
+| bip_39_word_dash_3 | envelope-bone-bacon |  
+| bip_39_word_dash_4 | envelope-bone-bacon-project |  
+| bip_39_word_dash_5 | envelope-bone-bacon-project-resist |  
+| bip_39_word_dash_6 | envelope-bone-bacon-project-resist-neither |  
+| bip_39_word_dash_7 | envelope-bone-bacon-project-resist-neither-stage |  
+| bip_39_word_dash_8 | envelope-bone-bacon-project-resist-neither-stage-medal |  
+| bip_39_word_dash_9 | envelope-bone-bacon-project-resist-neither-stage-medal-tumble |  
 | bip_39_word_new_br_1 | envelope |  
 | bip_39_word_new_br_10 | envelope<br>bone<br>bacon<br>project<br>resist<br>neither<br>stage<br>medal<br>tumble<br>hover |  
 | bip_39_word_new_br_11 | envelope<br>bone<br>bacon<br>project<br>resist<br>neither<br>stage<br>medal<br>tumble<br>hover<br>strong |  
@@ -147,6 +159,18 @@ tumble |
 | bip_39_word_space_7 | envelope bone bacon project resist neither stage |  
 | bip_39_word_space_8 | envelope bone bacon project resist neither stage medal |  
 | bip_39_word_space_9 | envelope bone bacon project resist neither stage medal tumble |  
+| bip_39_word_underscore_1 | envelope |  
+| bip_39_word_underscore_10 | envelope_bone_bacon_project_resist_neither_stage_medal_tumble_hover |  
+| bip_39_word_underscore_11 | envelope_bone_bacon_project_resist_neither_stage_medal_tumble_hover_strong |  
+| bip_39_word_underscore_12 | envelope_bone_bacon_project_resist_neither_stage_medal_tumble_hover_strong_anxiety |  
+| bip_39_word_underscore_2 | envelope_bone |  
+| bip_39_word_underscore_3 | envelope_bone_bacon |  
+| bip_39_word_underscore_4 | envelope_bone_bacon_project |  
+| bip_39_word_underscore_5 | envelope_bone_bacon_project_resist |  
+| bip_39_word_underscore_6 | envelope_bone_bacon_project_resist_neither |  
+| bip_39_word_underscore_7 | envelope_bone_bacon_project_resist_neither_stage |  
+| bip_39_word_underscore_8 | envelope_bone_bacon_project_resist_neither_stage_medal |  
+| bip_39_word_underscore_9 | envelope_bone_bacon_project_resist_neither_stage_medal_tumble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

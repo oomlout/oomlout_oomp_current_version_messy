@@ -1,3 +1,15 @@
+bip_39_word_dash_1: special
+bip_39_word_dash_10: special-castle-school-little-cover-siege-penalty-hard-stay-view
+bip_39_word_dash_11: special-castle-school-little-cover-siege-penalty-hard-stay-view-strategy
+bip_39_word_dash_12: special-castle-school-little-cover-siege-penalty-hard-stay-view-strategy-appear
+bip_39_word_dash_2: special-castle
+bip_39_word_dash_3: special-castle-school
+bip_39_word_dash_4: special-castle-school-little
+bip_39_word_dash_5: special-castle-school-little-cover
+bip_39_word_dash_6: special-castle-school-little-cover-siege
+bip_39_word_dash_7: special-castle-school-little-cover-siege-penalty
+bip_39_word_dash_8: special-castle-school-little-cover-siege-penalty-hard
+bip_39_word_dash_9: special-castle-school-little-cover-siege-penalty-hard-stay
 bip_39_word_new_br_1: special
 bip_39_word_new_br_10: special<br>castle<br>school<br>little<br>cover<br>siege<br>penalty<br>hard<br>stay<br>view
 bip_39_word_new_br_11: special<br>castle<br>school<br>little<br>cover<br>siege<br>penalty<br>hard<br>stay<br>view<br>strategy
@@ -193,6 +205,18 @@ bip_39_word_space_6: special castle school little cover siege
 bip_39_word_space_7: special castle school little cover siege penalty
 bip_39_word_space_8: special castle school little cover siege penalty hard
 bip_39_word_space_9: special castle school little cover siege penalty hard stay
+bip_39_word_underscore_1: special
+bip_39_word_underscore_10: special_castle_school_little_cover_siege_penalty_hard_stay_view
+bip_39_word_underscore_11: special_castle_school_little_cover_siege_penalty_hard_stay_view_strategy
+bip_39_word_underscore_12: special_castle_school_little_cover_siege_penalty_hard_stay_view_strategy_appear
+bip_39_word_underscore_2: special_castle
+bip_39_word_underscore_3: special_castle_school
+bip_39_word_underscore_4: special_castle_school_little
+bip_39_word_underscore_5: special_castle_school_little_cover
+bip_39_word_underscore_6: special_castle_school_little_cover_siege
+bip_39_word_underscore_7: special_castle_school_little_cover_siege_penalty
+bip_39_word_underscore_8: special_castle_school_little_cover_siege_penalty_hard
+bip_39_word_underscore_9: special_castle_school_little_cover_siege_penalty_hard_stay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | treat |  
+| bip_39_word_dash_10 | treat-bottom-universe-steak-father-garbage-draw-thank-palace-forward |  
+| bip_39_word_dash_11 | treat-bottom-universe-steak-father-garbage-draw-thank-palace-forward-cannon |  
+| bip_39_word_dash_12 | treat-bottom-universe-steak-father-garbage-draw-thank-palace-forward-cannon-alter |  
+| bip_39_word_dash_2 | treat-bottom |  
+| bip_39_word_dash_3 | treat-bottom-universe |  
+| bip_39_word_dash_4 | treat-bottom-universe-steak |  
+| bip_39_word_dash_5 | treat-bottom-universe-steak-father |  
+| bip_39_word_dash_6 | treat-bottom-universe-steak-father-garbage |  
+| bip_39_word_dash_7 | treat-bottom-universe-steak-father-garbage-draw |  
+| bip_39_word_dash_8 | treat-bottom-universe-steak-father-garbage-draw-thank |  
+| bip_39_word_dash_9 | treat-bottom-universe-steak-father-garbage-draw-thank-palace |  
 | bip_39_word_new_br_1 | treat |  
 | bip_39_word_new_br_10 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank<br>palace<br>forward |  
 | bip_39_word_new_br_11 | treat<br>bottom<br>universe<br>steak<br>father<br>garbage<br>draw<br>thank<br>palace<br>forward<br>cannon |  
@@ -147,6 +159,18 @@ palace |
 | bip_39_word_space_7 | treat bottom universe steak father garbage draw |  
 | bip_39_word_space_8 | treat bottom universe steak father garbage draw thank |  
 | bip_39_word_space_9 | treat bottom universe steak father garbage draw thank palace |  
+| bip_39_word_underscore_1 | treat |  
+| bip_39_word_underscore_10 | treat_bottom_universe_steak_father_garbage_draw_thank_palace_forward |  
+| bip_39_word_underscore_11 | treat_bottom_universe_steak_father_garbage_draw_thank_palace_forward_cannon |  
+| bip_39_word_underscore_12 | treat_bottom_universe_steak_father_garbage_draw_thank_palace_forward_cannon_alter |  
+| bip_39_word_underscore_2 | treat_bottom |  
+| bip_39_word_underscore_3 | treat_bottom_universe |  
+| bip_39_word_underscore_4 | treat_bottom_universe_steak |  
+| bip_39_word_underscore_5 | treat_bottom_universe_steak_father |  
+| bip_39_word_underscore_6 | treat_bottom_universe_steak_father_garbage |  
+| bip_39_word_underscore_7 | treat_bottom_universe_steak_father_garbage_draw |  
+| bip_39_word_underscore_8 | treat_bottom_universe_steak_father_garbage_draw_thank |  
+| bip_39_word_underscore_9 | treat_bottom_universe_steak_father_garbage_draw_thank_palace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

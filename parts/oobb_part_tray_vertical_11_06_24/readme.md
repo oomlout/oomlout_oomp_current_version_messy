@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | runway |  
+| bip_39_word_dash_10 | runway-fever-hammer-slush-wreck-mask-answer-throw-midnight-team |  
+| bip_39_word_dash_11 | runway-fever-hammer-slush-wreck-mask-answer-throw-midnight-team-mirror |  
+| bip_39_word_dash_12 | runway-fever-hammer-slush-wreck-mask-answer-throw-midnight-team-mirror-ability |  
+| bip_39_word_dash_2 | runway-fever |  
+| bip_39_word_dash_3 | runway-fever-hammer |  
+| bip_39_word_dash_4 | runway-fever-hammer-slush |  
+| bip_39_word_dash_5 | runway-fever-hammer-slush-wreck |  
+| bip_39_word_dash_6 | runway-fever-hammer-slush-wreck-mask |  
+| bip_39_word_dash_7 | runway-fever-hammer-slush-wreck-mask-answer |  
+| bip_39_word_dash_8 | runway-fever-hammer-slush-wreck-mask-answer-throw |  
+| bip_39_word_dash_9 | runway-fever-hammer-slush-wreck-mask-answer-throw-midnight |  
 | bip_39_word_new_br_1 | runway |  
 | bip_39_word_new_br_10 | runway<br>fever<br>hammer<br>slush<br>wreck<br>mask<br>answer<br>throw<br>midnight<br>team |  
 | bip_39_word_new_br_11 | runway<br>fever<br>hammer<br>slush<br>wreck<br>mask<br>answer<br>throw<br>midnight<br>team<br>mirror |  
@@ -147,6 +159,18 @@ midnight |
 | bip_39_word_space_7 | runway fever hammer slush wreck mask answer |  
 | bip_39_word_space_8 | runway fever hammer slush wreck mask answer throw |  
 | bip_39_word_space_9 | runway fever hammer slush wreck mask answer throw midnight |  
+| bip_39_word_underscore_1 | runway |  
+| bip_39_word_underscore_10 | runway_fever_hammer_slush_wreck_mask_answer_throw_midnight_team |  
+| bip_39_word_underscore_11 | runway_fever_hammer_slush_wreck_mask_answer_throw_midnight_team_mirror |  
+| bip_39_word_underscore_12 | runway_fever_hammer_slush_wreck_mask_answer_throw_midnight_team_mirror_ability |  
+| bip_39_word_underscore_2 | runway_fever |  
+| bip_39_word_underscore_3 | runway_fever_hammer |  
+| bip_39_word_underscore_4 | runway_fever_hammer_slush |  
+| bip_39_word_underscore_5 | runway_fever_hammer_slush_wreck |  
+| bip_39_word_underscore_6 | runway_fever_hammer_slush_wreck_mask |  
+| bip_39_word_underscore_7 | runway_fever_hammer_slush_wreck_mask_answer |  
+| bip_39_word_underscore_8 | runway_fever_hammer_slush_wreck_mask_answer_throw |  
+| bip_39_word_underscore_9 | runway_fever_hammer_slush_wreck_mask_answer_throw_midnight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

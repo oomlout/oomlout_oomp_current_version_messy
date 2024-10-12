@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | powder |  
+| bip_39_word_dash_10 | powder-scheme-giggle-green-result-long-distance-right-arm-amused |  
+| bip_39_word_dash_11 | powder-scheme-giggle-green-result-long-distance-right-arm-amused-analyst |  
+| bip_39_word_dash_12 | powder-scheme-giggle-green-result-long-distance-right-arm-amused-analyst-afraid |  
+| bip_39_word_dash_2 | powder-scheme |  
+| bip_39_word_dash_3 | powder-scheme-giggle |  
+| bip_39_word_dash_4 | powder-scheme-giggle-green |  
+| bip_39_word_dash_5 | powder-scheme-giggle-green-result |  
+| bip_39_word_dash_6 | powder-scheme-giggle-green-result-long |  
+| bip_39_word_dash_7 | powder-scheme-giggle-green-result-long-distance |  
+| bip_39_word_dash_8 | powder-scheme-giggle-green-result-long-distance-right |  
+| bip_39_word_dash_9 | powder-scheme-giggle-green-result-long-distance-right-arm |  
 | bip_39_word_new_br_1 | powder |  
 | bip_39_word_new_br_10 | powder<br>scheme<br>giggle<br>green<br>result<br>long<br>distance<br>right<br>arm<br>amused |  
 | bip_39_word_new_br_11 | powder<br>scheme<br>giggle<br>green<br>result<br>long<br>distance<br>right<br>arm<br>amused<br>analyst |  
@@ -147,6 +159,18 @@ arm |
 | bip_39_word_space_7 | powder scheme giggle green result long distance |  
 | bip_39_word_space_8 | powder scheme giggle green result long distance right |  
 | bip_39_word_space_9 | powder scheme giggle green result long distance right arm |  
+| bip_39_word_underscore_1 | powder |  
+| bip_39_word_underscore_10 | powder_scheme_giggle_green_result_long_distance_right_arm_amused |  
+| bip_39_word_underscore_11 | powder_scheme_giggle_green_result_long_distance_right_arm_amused_analyst |  
+| bip_39_word_underscore_12 | powder_scheme_giggle_green_result_long_distance_right_arm_amused_analyst_afraid |  
+| bip_39_word_underscore_2 | powder_scheme |  
+| bip_39_word_underscore_3 | powder_scheme_giggle |  
+| bip_39_word_underscore_4 | powder_scheme_giggle_green |  
+| bip_39_word_underscore_5 | powder_scheme_giggle_green_result |  
+| bip_39_word_underscore_6 | powder_scheme_giggle_green_result_long |  
+| bip_39_word_underscore_7 | powder_scheme_giggle_green_result_long_distance |  
+| bip_39_word_underscore_8 | powder_scheme_giggle_green_result_long_distance_right |  
+| bip_39_word_underscore_9 | powder_scheme_giggle_green_result_long_distance_right_arm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

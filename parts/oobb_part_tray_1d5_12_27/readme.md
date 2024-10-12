@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vintage |  
+| bip_39_word_dash_10 | vintage-soccer-dance-usual-salmon-draft-crew-stomach-have-cabin |  
+| bip_39_word_dash_11 | vintage-soccer-dance-usual-salmon-draft-crew-stomach-have-cabin-carry |  
+| bip_39_word_dash_12 | vintage-soccer-dance-usual-salmon-draft-crew-stomach-have-cabin-carry-attitude |  
+| bip_39_word_dash_2 | vintage-soccer |  
+| bip_39_word_dash_3 | vintage-soccer-dance |  
+| bip_39_word_dash_4 | vintage-soccer-dance-usual |  
+| bip_39_word_dash_5 | vintage-soccer-dance-usual-salmon |  
+| bip_39_word_dash_6 | vintage-soccer-dance-usual-salmon-draft |  
+| bip_39_word_dash_7 | vintage-soccer-dance-usual-salmon-draft-crew |  
+| bip_39_word_dash_8 | vintage-soccer-dance-usual-salmon-draft-crew-stomach |  
+| bip_39_word_dash_9 | vintage-soccer-dance-usual-salmon-draft-crew-stomach-have |  
 | bip_39_word_new_br_1 | vintage |  
 | bip_39_word_new_br_10 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach<br>have<br>cabin |  
 | bip_39_word_new_br_11 | vintage<br>soccer<br>dance<br>usual<br>salmon<br>draft<br>crew<br>stomach<br>have<br>cabin<br>carry |  
@@ -147,6 +159,18 @@ have |
 | bip_39_word_space_7 | vintage soccer dance usual salmon draft crew |  
 | bip_39_word_space_8 | vintage soccer dance usual salmon draft crew stomach |  
 | bip_39_word_space_9 | vintage soccer dance usual salmon draft crew stomach have |  
+| bip_39_word_underscore_1 | vintage |  
+| bip_39_word_underscore_10 | vintage_soccer_dance_usual_salmon_draft_crew_stomach_have_cabin |  
+| bip_39_word_underscore_11 | vintage_soccer_dance_usual_salmon_draft_crew_stomach_have_cabin_carry |  
+| bip_39_word_underscore_12 | vintage_soccer_dance_usual_salmon_draft_crew_stomach_have_cabin_carry_attitude |  
+| bip_39_word_underscore_2 | vintage_soccer |  
+| bip_39_word_underscore_3 | vintage_soccer_dance |  
+| bip_39_word_underscore_4 | vintage_soccer_dance_usual |  
+| bip_39_word_underscore_5 | vintage_soccer_dance_usual_salmon |  
+| bip_39_word_underscore_6 | vintage_soccer_dance_usual_salmon_draft |  
+| bip_39_word_underscore_7 | vintage_soccer_dance_usual_salmon_draft_crew |  
+| bip_39_word_underscore_8 | vintage_soccer_dance_usual_salmon_draft_crew_stomach |  
+| bip_39_word_underscore_9 | vintage_soccer_dance_usual_salmon_draft_crew_stomach_have |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

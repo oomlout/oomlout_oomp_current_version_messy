@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ordinary
+bip_39_word_dash_10: ordinary-input-toy-marriage-similar-verify-ladder-bomb-energy-setup
+bip_39_word_dash_11: ordinary-input-toy-marriage-similar-verify-ladder-bomb-energy-setup-tissue
+bip_39_word_dash_12: ordinary-input-toy-marriage-similar-verify-ladder-bomb-energy-setup-tissue-attack
+bip_39_word_dash_2: ordinary-input
+bip_39_word_dash_3: ordinary-input-toy
+bip_39_word_dash_4: ordinary-input-toy-marriage
+bip_39_word_dash_5: ordinary-input-toy-marriage-similar
+bip_39_word_dash_6: ordinary-input-toy-marriage-similar-verify
+bip_39_word_dash_7: ordinary-input-toy-marriage-similar-verify-ladder
+bip_39_word_dash_8: ordinary-input-toy-marriage-similar-verify-ladder-bomb
+bip_39_word_dash_9: ordinary-input-toy-marriage-similar-verify-ladder-bomb-energy
 bip_39_word_new_br_1: ordinary
 bip_39_word_new_br_10: ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup
 bip_39_word_new_br_11: ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup<br>tissue
@@ -194,6 +206,18 @@ bip_39_word_space_6: ordinary input toy marriage similar verify
 bip_39_word_space_7: ordinary input toy marriage similar verify ladder
 bip_39_word_space_8: ordinary input toy marriage similar verify ladder bomb
 bip_39_word_space_9: ordinary input toy marriage similar verify ladder bomb energy
+bip_39_word_underscore_1: ordinary
+bip_39_word_underscore_10: ordinary_input_toy_marriage_similar_verify_ladder_bomb_energy_setup
+bip_39_word_underscore_11: ordinary_input_toy_marriage_similar_verify_ladder_bomb_energy_setup_tissue
+bip_39_word_underscore_12: ordinary_input_toy_marriage_similar_verify_ladder_bomb_energy_setup_tissue_attack
+bip_39_word_underscore_2: ordinary_input
+bip_39_word_underscore_3: ordinary_input_toy
+bip_39_word_underscore_4: ordinary_input_toy_marriage
+bip_39_word_underscore_5: ordinary_input_toy_marriage_similar
+bip_39_word_underscore_6: ordinary_input_toy_marriage_similar_verify
+bip_39_word_underscore_7: ordinary_input_toy_marriage_similar_verify_ladder
+bip_39_word_underscore_8: ordinary_input_toy_marriage_similar_verify_ladder_bomb
+bip_39_word_underscore_9: ordinary_input_toy_marriage_similar_verify_ladder_bomb_energy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

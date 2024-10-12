@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hobby |  
+| bip_39_word_dash_10 | hobby-load-tenant-tube-alley-unfair-version-flag-art-attitude |  
+| bip_39_word_dash_11 | hobby-load-tenant-tube-alley-unfair-version-flag-art-attitude-answer |  
+| bip_39_word_dash_12 | hobby-load-tenant-tube-alley-unfair-version-flag-art-attitude-answer-admit |  
+| bip_39_word_dash_2 | hobby-load |  
+| bip_39_word_dash_3 | hobby-load-tenant |  
+| bip_39_word_dash_4 | hobby-load-tenant-tube |  
+| bip_39_word_dash_5 | hobby-load-tenant-tube-alley |  
+| bip_39_word_dash_6 | hobby-load-tenant-tube-alley-unfair |  
+| bip_39_word_dash_7 | hobby-load-tenant-tube-alley-unfair-version |  
+| bip_39_word_dash_8 | hobby-load-tenant-tube-alley-unfair-version-flag |  
+| bip_39_word_dash_9 | hobby-load-tenant-tube-alley-unfair-version-flag-art |  
 | bip_39_word_new_br_1 | hobby |  
 | bip_39_word_new_br_10 | hobby<br>load<br>tenant<br>tube<br>alley<br>unfair<br>version<br>flag<br>art<br>attitude |  
 | bip_39_word_new_br_11 | hobby<br>load<br>tenant<br>tube<br>alley<br>unfair<br>version<br>flag<br>art<br>attitude<br>answer |  
@@ -147,6 +159,18 @@ art |
 | bip_39_word_space_7 | hobby load tenant tube alley unfair version |  
 | bip_39_word_space_8 | hobby load tenant tube alley unfair version flag |  
 | bip_39_word_space_9 | hobby load tenant tube alley unfair version flag art |  
+| bip_39_word_underscore_1 | hobby |  
+| bip_39_word_underscore_10 | hobby_load_tenant_tube_alley_unfair_version_flag_art_attitude |  
+| bip_39_word_underscore_11 | hobby_load_tenant_tube_alley_unfair_version_flag_art_attitude_answer |  
+| bip_39_word_underscore_12 | hobby_load_tenant_tube_alley_unfair_version_flag_art_attitude_answer_admit |  
+| bip_39_word_underscore_2 | hobby_load |  
+| bip_39_word_underscore_3 | hobby_load_tenant |  
+| bip_39_word_underscore_4 | hobby_load_tenant_tube |  
+| bip_39_word_underscore_5 | hobby_load_tenant_tube_alley |  
+| bip_39_word_underscore_6 | hobby_load_tenant_tube_alley_unfair |  
+| bip_39_word_underscore_7 | hobby_load_tenant_tube_alley_unfair_version |  
+| bip_39_word_underscore_8 | hobby_load_tenant_tube_alley_unfair_version_flag |  
+| bip_39_word_underscore_9 | hobby_load_tenant_tube_alley_unfair_version_flag_art |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

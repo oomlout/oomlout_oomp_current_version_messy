@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orbit |  
+| bip_39_word_dash_10 | orbit-effort-pet-green-dust-film-remember-brain-muscle-iron |  
+| bip_39_word_dash_11 | orbit-effort-pet-green-dust-film-remember-brain-muscle-iron-degree |  
+| bip_39_word_dash_12 | orbit-effort-pet-green-dust-film-remember-brain-muscle-iron-degree-assault |  
+| bip_39_word_dash_2 | orbit-effort |  
+| bip_39_word_dash_3 | orbit-effort-pet |  
+| bip_39_word_dash_4 | orbit-effort-pet-green |  
+| bip_39_word_dash_5 | orbit-effort-pet-green-dust |  
+| bip_39_word_dash_6 | orbit-effort-pet-green-dust-film |  
+| bip_39_word_dash_7 | orbit-effort-pet-green-dust-film-remember |  
+| bip_39_word_dash_8 | orbit-effort-pet-green-dust-film-remember-brain |  
+| bip_39_word_dash_9 | orbit-effort-pet-green-dust-film-remember-brain-muscle |  
 | bip_39_word_new_br_1 | orbit |  
 | bip_39_word_new_br_10 | orbit<br>effort<br>pet<br>green<br>dust<br>film<br>remember<br>brain<br>muscle<br>iron |  
 | bip_39_word_new_br_11 | orbit<br>effort<br>pet<br>green<br>dust<br>film<br>remember<br>brain<br>muscle<br>iron<br>degree |  
@@ -147,6 +159,18 @@ muscle |
 | bip_39_word_space_7 | orbit effort pet green dust film remember |  
 | bip_39_word_space_8 | orbit effort pet green dust film remember brain |  
 | bip_39_word_space_9 | orbit effort pet green dust film remember brain muscle |  
+| bip_39_word_underscore_1 | orbit |  
+| bip_39_word_underscore_10 | orbit_effort_pet_green_dust_film_remember_brain_muscle_iron |  
+| bip_39_word_underscore_11 | orbit_effort_pet_green_dust_film_remember_brain_muscle_iron_degree |  
+| bip_39_word_underscore_12 | orbit_effort_pet_green_dust_film_remember_brain_muscle_iron_degree_assault |  
+| bip_39_word_underscore_2 | orbit_effort |  
+| bip_39_word_underscore_3 | orbit_effort_pet |  
+| bip_39_word_underscore_4 | orbit_effort_pet_green |  
+| bip_39_word_underscore_5 | orbit_effort_pet_green_dust |  
+| bip_39_word_underscore_6 | orbit_effort_pet_green_dust_film |  
+| bip_39_word_underscore_7 | orbit_effort_pet_green_dust_film_remember |  
+| bip_39_word_underscore_8 | orbit_effort_pet_green_dust_film_remember_brain |  
+| bip_39_word_underscore_9 | orbit_effort_pet_green_dust_film_remember_brain_muscle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

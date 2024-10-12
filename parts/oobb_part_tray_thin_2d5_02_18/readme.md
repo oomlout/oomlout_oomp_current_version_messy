@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bleak |  
+| bip_39_word_dash_10 | bleak-detail-cheap-youth-stuff-spend-track-example-frequent-deliver |  
+| bip_39_word_dash_11 | bleak-detail-cheap-youth-stuff-spend-track-example-frequent-deliver-bargain |  
+| bip_39_word_dash_12 | bleak-detail-cheap-youth-stuff-spend-track-example-frequent-deliver-bargain-afraid |  
+| bip_39_word_dash_2 | bleak-detail |  
+| bip_39_word_dash_3 | bleak-detail-cheap |  
+| bip_39_word_dash_4 | bleak-detail-cheap-youth |  
+| bip_39_word_dash_5 | bleak-detail-cheap-youth-stuff |  
+| bip_39_word_dash_6 | bleak-detail-cheap-youth-stuff-spend |  
+| bip_39_word_dash_7 | bleak-detail-cheap-youth-stuff-spend-track |  
+| bip_39_word_dash_8 | bleak-detail-cheap-youth-stuff-spend-track-example |  
+| bip_39_word_dash_9 | bleak-detail-cheap-youth-stuff-spend-track-example-frequent |  
 | bip_39_word_new_br_1 | bleak |  
 | bip_39_word_new_br_10 | bleak<br>detail<br>cheap<br>youth<br>stuff<br>spend<br>track<br>example<br>frequent<br>deliver |  
 | bip_39_word_new_br_11 | bleak<br>detail<br>cheap<br>youth<br>stuff<br>spend<br>track<br>example<br>frequent<br>deliver<br>bargain |  
@@ -147,6 +159,18 @@ frequent |
 | bip_39_word_space_7 | bleak detail cheap youth stuff spend track |  
 | bip_39_word_space_8 | bleak detail cheap youth stuff spend track example |  
 | bip_39_word_space_9 | bleak detail cheap youth stuff spend track example frequent |  
+| bip_39_word_underscore_1 | bleak |  
+| bip_39_word_underscore_10 | bleak_detail_cheap_youth_stuff_spend_track_example_frequent_deliver |  
+| bip_39_word_underscore_11 | bleak_detail_cheap_youth_stuff_spend_track_example_frequent_deliver_bargain |  
+| bip_39_word_underscore_12 | bleak_detail_cheap_youth_stuff_spend_track_example_frequent_deliver_bargain_afraid |  
+| bip_39_word_underscore_2 | bleak_detail |  
+| bip_39_word_underscore_3 | bleak_detail_cheap |  
+| bip_39_word_underscore_4 | bleak_detail_cheap_youth |  
+| bip_39_word_underscore_5 | bleak_detail_cheap_youth_stuff |  
+| bip_39_word_underscore_6 | bleak_detail_cheap_youth_stuff_spend |  
+| bip_39_word_underscore_7 | bleak_detail_cheap_youth_stuff_spend_track |  
+| bip_39_word_underscore_8 | bleak_detail_cheap_youth_stuff_spend_track_example |  
+| bip_39_word_underscore_9 | bleak_detail_cheap_youth_stuff_spend_track_example_frequent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

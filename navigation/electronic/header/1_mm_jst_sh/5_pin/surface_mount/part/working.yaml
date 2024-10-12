@@ -1,3 +1,15 @@
+bip_39_word_dash_1: web
+bip_39_word_dash_10: web-only-weather-state-divide-crisp-priority-region-beef-orphan
+bip_39_word_dash_11: web-only-weather-state-divide-crisp-priority-region-beef-orphan-away
+bip_39_word_dash_12: web-only-weather-state-divide-crisp-priority-region-beef-orphan-away-arrive
+bip_39_word_dash_2: web-only
+bip_39_word_dash_3: web-only-weather
+bip_39_word_dash_4: web-only-weather-state
+bip_39_word_dash_5: web-only-weather-state-divide
+bip_39_word_dash_6: web-only-weather-state-divide-crisp
+bip_39_word_dash_7: web-only-weather-state-divide-crisp-priority
+bip_39_word_dash_8: web-only-weather-state-divide-crisp-priority-region
+bip_39_word_dash_9: web-only-weather-state-divide-crisp-priority-region-beef
 bip_39_word_new_br_1: web
 bip_39_word_new_br_10: web<br>only<br>weather<br>state<br>divide<br>crisp<br>priority<br>region<br>beef<br>orphan
 bip_39_word_new_br_11: web<br>only<br>weather<br>state<br>divide<br>crisp<br>priority<br>region<br>beef<br>orphan<br>away
@@ -193,6 +205,18 @@ bip_39_word_space_6: web only weather state divide crisp
 bip_39_word_space_7: web only weather state divide crisp priority
 bip_39_word_space_8: web only weather state divide crisp priority region
 bip_39_word_space_9: web only weather state divide crisp priority region beef
+bip_39_word_underscore_1: web
+bip_39_word_underscore_10: web_only_weather_state_divide_crisp_priority_region_beef_orphan
+bip_39_word_underscore_11: web_only_weather_state_divide_crisp_priority_region_beef_orphan_away
+bip_39_word_underscore_12: web_only_weather_state_divide_crisp_priority_region_beef_orphan_away_arrive
+bip_39_word_underscore_2: web_only
+bip_39_word_underscore_3: web_only_weather
+bip_39_word_underscore_4: web_only_weather_state
+bip_39_word_underscore_5: web_only_weather_state_divide
+bip_39_word_underscore_6: web_only_weather_state_divide_crisp
+bip_39_word_underscore_7: web_only_weather_state_divide_crisp_priority
+bip_39_word_underscore_8: web_only_weather_state_divide_crisp_priority_region
+bip_39_word_underscore_9: web_only_weather_state_divide_crisp_priority_region_beef
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

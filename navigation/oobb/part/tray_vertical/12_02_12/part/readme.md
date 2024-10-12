@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | labor |  
+| bip_39_word_dash_10 | labor-safe-couple-hen-bitter-trip-record-pulse-pony-slender |  
+| bip_39_word_dash_11 | labor-safe-couple-hen-bitter-trip-record-pulse-pony-slender-noodle |  
+| bip_39_word_dash_12 | labor-safe-couple-hen-bitter-trip-record-pulse-pony-slender-noodle-almost |  
+| bip_39_word_dash_2 | labor-safe |  
+| bip_39_word_dash_3 | labor-safe-couple |  
+| bip_39_word_dash_4 | labor-safe-couple-hen |  
+| bip_39_word_dash_5 | labor-safe-couple-hen-bitter |  
+| bip_39_word_dash_6 | labor-safe-couple-hen-bitter-trip |  
+| bip_39_word_dash_7 | labor-safe-couple-hen-bitter-trip-record |  
+| bip_39_word_dash_8 | labor-safe-couple-hen-bitter-trip-record-pulse |  
+| bip_39_word_dash_9 | labor-safe-couple-hen-bitter-trip-record-pulse-pony |  
 | bip_39_word_new_br_1 | labor |  
 | bip_39_word_new_br_10 | labor<br>safe<br>couple<br>hen<br>bitter<br>trip<br>record<br>pulse<br>pony<br>slender |  
 | bip_39_word_new_br_11 | labor<br>safe<br>couple<br>hen<br>bitter<br>trip<br>record<br>pulse<br>pony<br>slender<br>noodle |  
@@ -147,6 +159,18 @@ pony |
 | bip_39_word_space_7 | labor safe couple hen bitter trip record |  
 | bip_39_word_space_8 | labor safe couple hen bitter trip record pulse |  
 | bip_39_word_space_9 | labor safe couple hen bitter trip record pulse pony |  
+| bip_39_word_underscore_1 | labor |  
+| bip_39_word_underscore_10 | labor_safe_couple_hen_bitter_trip_record_pulse_pony_slender |  
+| bip_39_word_underscore_11 | labor_safe_couple_hen_bitter_trip_record_pulse_pony_slender_noodle |  
+| bip_39_word_underscore_12 | labor_safe_couple_hen_bitter_trip_record_pulse_pony_slender_noodle_almost |  
+| bip_39_word_underscore_2 | labor_safe |  
+| bip_39_word_underscore_3 | labor_safe_couple |  
+| bip_39_word_underscore_4 | labor_safe_couple_hen |  
+| bip_39_word_underscore_5 | labor_safe_couple_hen_bitter |  
+| bip_39_word_underscore_6 | labor_safe_couple_hen_bitter_trip |  
+| bip_39_word_underscore_7 | labor_safe_couple_hen_bitter_trip_record |  
+| bip_39_word_underscore_8 | labor_safe_couple_hen_bitter_trip_record_pulse |  
+| bip_39_word_underscore_9 | labor_safe_couple_hen_bitter_trip_record_pulse_pony |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: combine
+bip_39_word_dash_10: combine-cement-lesson-tent-category-jacket-crew-educate-fix-retire
+bip_39_word_dash_11: combine-cement-lesson-tent-category-jacket-crew-educate-fix-retire-lock
+bip_39_word_dash_12: combine-cement-lesson-tent-category-jacket-crew-educate-fix-retire-lock-account
+bip_39_word_dash_2: combine-cement
+bip_39_word_dash_3: combine-cement-lesson
+bip_39_word_dash_4: combine-cement-lesson-tent
+bip_39_word_dash_5: combine-cement-lesson-tent-category
+bip_39_word_dash_6: combine-cement-lesson-tent-category-jacket
+bip_39_word_dash_7: combine-cement-lesson-tent-category-jacket-crew
+bip_39_word_dash_8: combine-cement-lesson-tent-category-jacket-crew-educate
+bip_39_word_dash_9: combine-cement-lesson-tent-category-jacket-crew-educate-fix
 bip_39_word_new_br_1: combine
 bip_39_word_new_br_10: combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire
 bip_39_word_new_br_11: combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire<br>lock
@@ -194,6 +206,18 @@ bip_39_word_space_6: combine cement lesson tent category jacket
 bip_39_word_space_7: combine cement lesson tent category jacket crew
 bip_39_word_space_8: combine cement lesson tent category jacket crew educate
 bip_39_word_space_9: combine cement lesson tent category jacket crew educate fix
+bip_39_word_underscore_1: combine
+bip_39_word_underscore_10: combine_cement_lesson_tent_category_jacket_crew_educate_fix_retire
+bip_39_word_underscore_11: combine_cement_lesson_tent_category_jacket_crew_educate_fix_retire_lock
+bip_39_word_underscore_12: combine_cement_lesson_tent_category_jacket_crew_educate_fix_retire_lock_account
+bip_39_word_underscore_2: combine_cement
+bip_39_word_underscore_3: combine_cement_lesson
+bip_39_word_underscore_4: combine_cement_lesson_tent
+bip_39_word_underscore_5: combine_cement_lesson_tent_category
+bip_39_word_underscore_6: combine_cement_lesson_tent_category_jacket
+bip_39_word_underscore_7: combine_cement_lesson_tent_category_jacket_crew
+bip_39_word_underscore_8: combine_cement_lesson_tent_category_jacket_crew_educate
+bip_39_word_underscore_9: combine_cement_lesson_tent_category_jacket_crew_educate_fix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

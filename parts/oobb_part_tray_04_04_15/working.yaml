@@ -1,3 +1,15 @@
+bip_39_word_dash_1: face
+bip_39_word_dash_10: face-raise-tuna-sketch-fragile-file-cheese-coral-gift-host
+bip_39_word_dash_11: face-raise-tuna-sketch-fragile-file-cheese-coral-gift-host-shove
+bip_39_word_dash_12: face-raise-tuna-sketch-fragile-file-cheese-coral-gift-host-shove-ancient
+bip_39_word_dash_2: face-raise
+bip_39_word_dash_3: face-raise-tuna
+bip_39_word_dash_4: face-raise-tuna-sketch
+bip_39_word_dash_5: face-raise-tuna-sketch-fragile
+bip_39_word_dash_6: face-raise-tuna-sketch-fragile-file
+bip_39_word_dash_7: face-raise-tuna-sketch-fragile-file-cheese
+bip_39_word_dash_8: face-raise-tuna-sketch-fragile-file-cheese-coral
+bip_39_word_dash_9: face-raise-tuna-sketch-fragile-file-cheese-coral-gift
 bip_39_word_new_br_1: face
 bip_39_word_new_br_10: face<br>raise<br>tuna<br>sketch<br>fragile<br>file<br>cheese<br>coral<br>gift<br>host
 bip_39_word_new_br_11: face<br>raise<br>tuna<br>sketch<br>fragile<br>file<br>cheese<br>coral<br>gift<br>host<br>shove
@@ -192,6 +204,18 @@ bip_39_word_space_6: face raise tuna sketch fragile file
 bip_39_word_space_7: face raise tuna sketch fragile file cheese
 bip_39_word_space_8: face raise tuna sketch fragile file cheese coral
 bip_39_word_space_9: face raise tuna sketch fragile file cheese coral gift
+bip_39_word_underscore_1: face
+bip_39_word_underscore_10: face_raise_tuna_sketch_fragile_file_cheese_coral_gift_host
+bip_39_word_underscore_11: face_raise_tuna_sketch_fragile_file_cheese_coral_gift_host_shove
+bip_39_word_underscore_12: face_raise_tuna_sketch_fragile_file_cheese_coral_gift_host_shove_ancient
+bip_39_word_underscore_2: face_raise
+bip_39_word_underscore_3: face_raise_tuna
+bip_39_word_underscore_4: face_raise_tuna_sketch
+bip_39_word_underscore_5: face_raise_tuna_sketch_fragile
+bip_39_word_underscore_6: face_raise_tuna_sketch_fragile_file
+bip_39_word_underscore_7: face_raise_tuna_sketch_fragile_file_cheese
+bip_39_word_underscore_8: face_raise_tuna_sketch_fragile_file_cheese_coral
+bip_39_word_underscore_9: face_raise_tuna_sketch_fragile_file_cheese_coral_gift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

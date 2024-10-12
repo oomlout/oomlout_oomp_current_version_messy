@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | select |  
+| bip_39_word_dash_10 | select-example-east-salon-dry-letter-hint-gesture-dragon-peasant |  
+| bip_39_word_dash_11 | select-example-east-salon-dry-letter-hint-gesture-dragon-peasant-intact |  
+| bip_39_word_dash_12 | select-example-east-salon-dry-letter-hint-gesture-dragon-peasant-intact-arrest |  
+| bip_39_word_dash_2 | select-example |  
+| bip_39_word_dash_3 | select-example-east |  
+| bip_39_word_dash_4 | select-example-east-salon |  
+| bip_39_word_dash_5 | select-example-east-salon-dry |  
+| bip_39_word_dash_6 | select-example-east-salon-dry-letter |  
+| bip_39_word_dash_7 | select-example-east-salon-dry-letter-hint |  
+| bip_39_word_dash_8 | select-example-east-salon-dry-letter-hint-gesture |  
+| bip_39_word_dash_9 | select-example-east-salon-dry-letter-hint-gesture-dragon |  
 | bip_39_word_new_br_1 | select |  
 | bip_39_word_new_br_10 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant |  
 | bip_39_word_new_br_11 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant<br>intact |  
@@ -147,6 +159,18 @@ dragon |
 | bip_39_word_space_7 | select example east salon dry letter hint |  
 | bip_39_word_space_8 | select example east salon dry letter hint gesture |  
 | bip_39_word_space_9 | select example east salon dry letter hint gesture dragon |  
+| bip_39_word_underscore_1 | select |  
+| bip_39_word_underscore_10 | select_example_east_salon_dry_letter_hint_gesture_dragon_peasant |  
+| bip_39_word_underscore_11 | select_example_east_salon_dry_letter_hint_gesture_dragon_peasant_intact |  
+| bip_39_word_underscore_12 | select_example_east_salon_dry_letter_hint_gesture_dragon_peasant_intact_arrest |  
+| bip_39_word_underscore_2 | select_example |  
+| bip_39_word_underscore_3 | select_example_east |  
+| bip_39_word_underscore_4 | select_example_east_salon |  
+| bip_39_word_underscore_5 | select_example_east_salon_dry |  
+| bip_39_word_underscore_6 | select_example_east_salon_dry_letter |  
+| bip_39_word_underscore_7 | select_example_east_salon_dry_letter_hint |  
+| bip_39_word_underscore_8 | select_example_east_salon_dry_letter_hint_gesture |  
+| bip_39_word_underscore_9 | select_example_east_salon_dry_letter_hint_gesture_dragon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enemy
+bip_39_word_dash_10: enemy-knock-bicycle-view-acid-shoot-second-vote-melt-journey
+bip_39_word_dash_11: enemy-knock-bicycle-view-acid-shoot-second-vote-melt-journey-country
+bip_39_word_dash_12: enemy-knock-bicycle-view-acid-shoot-second-vote-melt-journey-country-agree
+bip_39_word_dash_2: enemy-knock
+bip_39_word_dash_3: enemy-knock-bicycle
+bip_39_word_dash_4: enemy-knock-bicycle-view
+bip_39_word_dash_5: enemy-knock-bicycle-view-acid
+bip_39_word_dash_6: enemy-knock-bicycle-view-acid-shoot
+bip_39_word_dash_7: enemy-knock-bicycle-view-acid-shoot-second
+bip_39_word_dash_8: enemy-knock-bicycle-view-acid-shoot-second-vote
+bip_39_word_dash_9: enemy-knock-bicycle-view-acid-shoot-second-vote-melt
 bip_39_word_new_br_1: enemy
 bip_39_word_new_br_10: enemy<br>knock<br>bicycle<br>view<br>acid<br>shoot<br>second<br>vote<br>melt<br>journey
 bip_39_word_new_br_11: enemy<br>knock<br>bicycle<br>view<br>acid<br>shoot<br>second<br>vote<br>melt<br>journey<br>country
@@ -193,6 +205,18 @@ bip_39_word_space_6: enemy knock bicycle view acid shoot
 bip_39_word_space_7: enemy knock bicycle view acid shoot second
 bip_39_word_space_8: enemy knock bicycle view acid shoot second vote
 bip_39_word_space_9: enemy knock bicycle view acid shoot second vote melt
+bip_39_word_underscore_1: enemy
+bip_39_word_underscore_10: enemy_knock_bicycle_view_acid_shoot_second_vote_melt_journey
+bip_39_word_underscore_11: enemy_knock_bicycle_view_acid_shoot_second_vote_melt_journey_country
+bip_39_word_underscore_12: enemy_knock_bicycle_view_acid_shoot_second_vote_melt_journey_country_agree
+bip_39_word_underscore_2: enemy_knock
+bip_39_word_underscore_3: enemy_knock_bicycle
+bip_39_word_underscore_4: enemy_knock_bicycle_view
+bip_39_word_underscore_5: enemy_knock_bicycle_view_acid
+bip_39_word_underscore_6: enemy_knock_bicycle_view_acid_shoot
+bip_39_word_underscore_7: enemy_knock_bicycle_view_acid_shoot_second
+bip_39_word_underscore_8: enemy_knock_bicycle_view_acid_shoot_second_vote
+bip_39_word_underscore_9: enemy_knock_bicycle_view_acid_shoot_second_vote_melt
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

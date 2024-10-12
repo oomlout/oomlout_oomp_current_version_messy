@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lucky |  
+| bip_39_word_dash_10 | lucky-ecology-genius-favorite-oppose-involve-surface-situate-useless-gather |  
+| bip_39_word_dash_11 | lucky-ecology-genius-favorite-oppose-involve-surface-situate-useless-gather-morning |  
+| bip_39_word_dash_12 | lucky-ecology-genius-favorite-oppose-involve-surface-situate-useless-gather-morning-alone |  
+| bip_39_word_dash_2 | lucky-ecology |  
+| bip_39_word_dash_3 | lucky-ecology-genius |  
+| bip_39_word_dash_4 | lucky-ecology-genius-favorite |  
+| bip_39_word_dash_5 | lucky-ecology-genius-favorite-oppose |  
+| bip_39_word_dash_6 | lucky-ecology-genius-favorite-oppose-involve |  
+| bip_39_word_dash_7 | lucky-ecology-genius-favorite-oppose-involve-surface |  
+| bip_39_word_dash_8 | lucky-ecology-genius-favorite-oppose-involve-surface-situate |  
+| bip_39_word_dash_9 | lucky-ecology-genius-favorite-oppose-involve-surface-situate-useless |  
 | bip_39_word_new_br_1 | lucky |  
 | bip_39_word_new_br_10 | lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather |  
 | bip_39_word_new_br_11 | lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather<br>morning |  
@@ -147,6 +159,18 @@ useless |
 | bip_39_word_space_7 | lucky ecology genius favorite oppose involve surface |  
 | bip_39_word_space_8 | lucky ecology genius favorite oppose involve surface situate |  
 | bip_39_word_space_9 | lucky ecology genius favorite oppose involve surface situate useless |  
+| bip_39_word_underscore_1 | lucky |  
+| bip_39_word_underscore_10 | lucky_ecology_genius_favorite_oppose_involve_surface_situate_useless_gather |  
+| bip_39_word_underscore_11 | lucky_ecology_genius_favorite_oppose_involve_surface_situate_useless_gather_morning |  
+| bip_39_word_underscore_12 | lucky_ecology_genius_favorite_oppose_involve_surface_situate_useless_gather_morning_alone |  
+| bip_39_word_underscore_2 | lucky_ecology |  
+| bip_39_word_underscore_3 | lucky_ecology_genius |  
+| bip_39_word_underscore_4 | lucky_ecology_genius_favorite |  
+| bip_39_word_underscore_5 | lucky_ecology_genius_favorite_oppose |  
+| bip_39_word_underscore_6 | lucky_ecology_genius_favorite_oppose_involve |  
+| bip_39_word_underscore_7 | lucky_ecology_genius_favorite_oppose_involve_surface |  
+| bip_39_word_underscore_8 | lucky_ecology_genius_favorite_oppose_involve_surface_situate |  
+| bip_39_word_underscore_9 | lucky_ecology_genius_favorite_oppose_involve_surface_situate_useless |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

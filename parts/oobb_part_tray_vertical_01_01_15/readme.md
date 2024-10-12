@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | differ |  
+| bip_39_word_dash_10 | differ-agent-ostrich-please-eager-toe-dash-clutch-need-syrup |  
+| bip_39_word_dash_11 | differ-agent-ostrich-please-eager-toe-dash-clutch-need-syrup-mention |  
+| bip_39_word_dash_12 | differ-agent-ostrich-please-eager-toe-dash-clutch-need-syrup-mention-about |  
+| bip_39_word_dash_2 | differ-agent |  
+| bip_39_word_dash_3 | differ-agent-ostrich |  
+| bip_39_word_dash_4 | differ-agent-ostrich-please |  
+| bip_39_word_dash_5 | differ-agent-ostrich-please-eager |  
+| bip_39_word_dash_6 | differ-agent-ostrich-please-eager-toe |  
+| bip_39_word_dash_7 | differ-agent-ostrich-please-eager-toe-dash |  
+| bip_39_word_dash_8 | differ-agent-ostrich-please-eager-toe-dash-clutch |  
+| bip_39_word_dash_9 | differ-agent-ostrich-please-eager-toe-dash-clutch-need |  
 | bip_39_word_new_br_1 | differ |  
 | bip_39_word_new_br_10 | differ<br>agent<br>ostrich<br>please<br>eager<br>toe<br>dash<br>clutch<br>need<br>syrup |  
 | bip_39_word_new_br_11 | differ<br>agent<br>ostrich<br>please<br>eager<br>toe<br>dash<br>clutch<br>need<br>syrup<br>mention |  
@@ -147,6 +159,18 @@ need |
 | bip_39_word_space_7 | differ agent ostrich please eager toe dash |  
 | bip_39_word_space_8 | differ agent ostrich please eager toe dash clutch |  
 | bip_39_word_space_9 | differ agent ostrich please eager toe dash clutch need |  
+| bip_39_word_underscore_1 | differ |  
+| bip_39_word_underscore_10 | differ_agent_ostrich_please_eager_toe_dash_clutch_need_syrup |  
+| bip_39_word_underscore_11 | differ_agent_ostrich_please_eager_toe_dash_clutch_need_syrup_mention |  
+| bip_39_word_underscore_12 | differ_agent_ostrich_please_eager_toe_dash_clutch_need_syrup_mention_about |  
+| bip_39_word_underscore_2 | differ_agent |  
+| bip_39_word_underscore_3 | differ_agent_ostrich |  
+| bip_39_word_underscore_4 | differ_agent_ostrich_please |  
+| bip_39_word_underscore_5 | differ_agent_ostrich_please_eager |  
+| bip_39_word_underscore_6 | differ_agent_ostrich_please_eager_toe |  
+| bip_39_word_underscore_7 | differ_agent_ostrich_please_eager_toe_dash |  
+| bip_39_word_underscore_8 | differ_agent_ostrich_please_eager_toe_dash_clutch |  
+| bip_39_word_underscore_9 | differ_agent_ostrich_please_eager_toe_dash_clutch_need |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

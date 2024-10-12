@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aspect |  
+| bip_39_word_dash_10 | aspect-labor-carpet-outer-learn-notice-dutch-guard-city-squirrel |  
+| bip_39_word_dash_11 | aspect-labor-carpet-outer-learn-notice-dutch-guard-city-squirrel-buddy |  
+| bip_39_word_dash_12 | aspect-labor-carpet-outer-learn-notice-dutch-guard-city-squirrel-buddy-ankle |  
+| bip_39_word_dash_2 | aspect-labor |  
+| bip_39_word_dash_3 | aspect-labor-carpet |  
+| bip_39_word_dash_4 | aspect-labor-carpet-outer |  
+| bip_39_word_dash_5 | aspect-labor-carpet-outer-learn |  
+| bip_39_word_dash_6 | aspect-labor-carpet-outer-learn-notice |  
+| bip_39_word_dash_7 | aspect-labor-carpet-outer-learn-notice-dutch |  
+| bip_39_word_dash_8 | aspect-labor-carpet-outer-learn-notice-dutch-guard |  
+| bip_39_word_dash_9 | aspect-labor-carpet-outer-learn-notice-dutch-guard-city |  
 | bip_39_word_new_br_1 | aspect |  
 | bip_39_word_new_br_10 | aspect<br>labor<br>carpet<br>outer<br>learn<br>notice<br>dutch<br>guard<br>city<br>squirrel |  
 | bip_39_word_new_br_11 | aspect<br>labor<br>carpet<br>outer<br>learn<br>notice<br>dutch<br>guard<br>city<br>squirrel<br>buddy |  
@@ -147,6 +159,18 @@ city |
 | bip_39_word_space_7 | aspect labor carpet outer learn notice dutch |  
 | bip_39_word_space_8 | aspect labor carpet outer learn notice dutch guard |  
 | bip_39_word_space_9 | aspect labor carpet outer learn notice dutch guard city |  
+| bip_39_word_underscore_1 | aspect |  
+| bip_39_word_underscore_10 | aspect_labor_carpet_outer_learn_notice_dutch_guard_city_squirrel |  
+| bip_39_word_underscore_11 | aspect_labor_carpet_outer_learn_notice_dutch_guard_city_squirrel_buddy |  
+| bip_39_word_underscore_12 | aspect_labor_carpet_outer_learn_notice_dutch_guard_city_squirrel_buddy_ankle |  
+| bip_39_word_underscore_2 | aspect_labor |  
+| bip_39_word_underscore_3 | aspect_labor_carpet |  
+| bip_39_word_underscore_4 | aspect_labor_carpet_outer |  
+| bip_39_word_underscore_5 | aspect_labor_carpet_outer_learn |  
+| bip_39_word_underscore_6 | aspect_labor_carpet_outer_learn_notice |  
+| bip_39_word_underscore_7 | aspect_labor_carpet_outer_learn_notice_dutch |  
+| bip_39_word_underscore_8 | aspect_labor_carpet_outer_learn_notice_dutch_guard |  
+| bip_39_word_underscore_9 | aspect_labor_carpet_outer_learn_notice_dutch_guard_city |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

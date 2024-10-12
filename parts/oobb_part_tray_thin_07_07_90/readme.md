@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | robust |  
+| bip_39_word_dash_10 | robust-certain-favorite-obtain-depart-human-hand-raven-now-sister |  
+| bip_39_word_dash_11 | robust-certain-favorite-obtain-depart-human-hand-raven-now-sister-three |  
+| bip_39_word_dash_12 | robust-certain-favorite-obtain-depart-human-hand-raven-now-sister-three-announce |  
+| bip_39_word_dash_2 | robust-certain |  
+| bip_39_word_dash_3 | robust-certain-favorite |  
+| bip_39_word_dash_4 | robust-certain-favorite-obtain |  
+| bip_39_word_dash_5 | robust-certain-favorite-obtain-depart |  
+| bip_39_word_dash_6 | robust-certain-favorite-obtain-depart-human |  
+| bip_39_word_dash_7 | robust-certain-favorite-obtain-depart-human-hand |  
+| bip_39_word_dash_8 | robust-certain-favorite-obtain-depart-human-hand-raven |  
+| bip_39_word_dash_9 | robust-certain-favorite-obtain-depart-human-hand-raven-now |  
 | bip_39_word_new_br_1 | robust |  
 | bip_39_word_new_br_10 | robust<br>certain<br>favorite<br>obtain<br>depart<br>human<br>hand<br>raven<br>now<br>sister |  
 | bip_39_word_new_br_11 | robust<br>certain<br>favorite<br>obtain<br>depart<br>human<br>hand<br>raven<br>now<br>sister<br>three |  
@@ -147,6 +159,18 @@ now |
 | bip_39_word_space_7 | robust certain favorite obtain depart human hand |  
 | bip_39_word_space_8 | robust certain favorite obtain depart human hand raven |  
 | bip_39_word_space_9 | robust certain favorite obtain depart human hand raven now |  
+| bip_39_word_underscore_1 | robust |  
+| bip_39_word_underscore_10 | robust_certain_favorite_obtain_depart_human_hand_raven_now_sister |  
+| bip_39_word_underscore_11 | robust_certain_favorite_obtain_depart_human_hand_raven_now_sister_three |  
+| bip_39_word_underscore_12 | robust_certain_favorite_obtain_depart_human_hand_raven_now_sister_three_announce |  
+| bip_39_word_underscore_2 | robust_certain |  
+| bip_39_word_underscore_3 | robust_certain_favorite |  
+| bip_39_word_underscore_4 | robust_certain_favorite_obtain |  
+| bip_39_word_underscore_5 | robust_certain_favorite_obtain_depart |  
+| bip_39_word_underscore_6 | robust_certain_favorite_obtain_depart_human |  
+| bip_39_word_underscore_7 | robust_certain_favorite_obtain_depart_human_hand |  
+| bip_39_word_underscore_8 | robust_certain_favorite_obtain_depart_human_hand_raven |  
+| bip_39_word_underscore_9 | robust_certain_favorite_obtain_depart_human_hand_raven_now |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

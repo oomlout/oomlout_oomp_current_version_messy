@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | border |  
+| bip_39_word_dash_10 | border-double-soon-magnet-marble-lumber-assault-saddle-bullet-topic |  
+| bip_39_word_dash_11 | border-double-soon-magnet-marble-lumber-assault-saddle-bullet-topic-mix |  
+| bip_39_word_dash_12 | border-double-soon-magnet-marble-lumber-assault-saddle-bullet-topic-mix-anchor |  
+| bip_39_word_dash_2 | border-double |  
+| bip_39_word_dash_3 | border-double-soon |  
+| bip_39_word_dash_4 | border-double-soon-magnet |  
+| bip_39_word_dash_5 | border-double-soon-magnet-marble |  
+| bip_39_word_dash_6 | border-double-soon-magnet-marble-lumber |  
+| bip_39_word_dash_7 | border-double-soon-magnet-marble-lumber-assault |  
+| bip_39_word_dash_8 | border-double-soon-magnet-marble-lumber-assault-saddle |  
+| bip_39_word_dash_9 | border-double-soon-magnet-marble-lumber-assault-saddle-bullet |  
 | bip_39_word_new_br_1 | border |  
 | bip_39_word_new_br_10 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic |  
 | bip_39_word_new_br_11 | border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic<br>mix |  
@@ -147,6 +159,18 @@ bullet |
 | bip_39_word_space_7 | border double soon magnet marble lumber assault |  
 | bip_39_word_space_8 | border double soon magnet marble lumber assault saddle |  
 | bip_39_word_space_9 | border double soon magnet marble lumber assault saddle bullet |  
+| bip_39_word_underscore_1 | border |  
+| bip_39_word_underscore_10 | border_double_soon_magnet_marble_lumber_assault_saddle_bullet_topic |  
+| bip_39_word_underscore_11 | border_double_soon_magnet_marble_lumber_assault_saddle_bullet_topic_mix |  
+| bip_39_word_underscore_12 | border_double_soon_magnet_marble_lumber_assault_saddle_bullet_topic_mix_anchor |  
+| bip_39_word_underscore_2 | border_double |  
+| bip_39_word_underscore_3 | border_double_soon |  
+| bip_39_word_underscore_4 | border_double_soon_magnet |  
+| bip_39_word_underscore_5 | border_double_soon_magnet_marble |  
+| bip_39_word_underscore_6 | border_double_soon_magnet_marble_lumber |  
+| bip_39_word_underscore_7 | border_double_soon_magnet_marble_lumber_assault |  
+| bip_39_word_underscore_8 | border_double_soon_magnet_marble_lumber_assault_saddle |  
+| bip_39_word_underscore_9 | border_double_soon_magnet_marble_lumber_assault_saddle_bullet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

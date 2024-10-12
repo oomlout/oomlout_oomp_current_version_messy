@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wagon
+bip_39_word_dash_10: wagon-mad-depth-project-hockey-recipe-fat-citizen-twin-ecology
+bip_39_word_dash_11: wagon-mad-depth-project-hockey-recipe-fat-citizen-twin-ecology-milk
+bip_39_word_dash_12: wagon-mad-depth-project-hockey-recipe-fat-citizen-twin-ecology-milk-acid
+bip_39_word_dash_2: wagon-mad
+bip_39_word_dash_3: wagon-mad-depth
+bip_39_word_dash_4: wagon-mad-depth-project
+bip_39_word_dash_5: wagon-mad-depth-project-hockey
+bip_39_word_dash_6: wagon-mad-depth-project-hockey-recipe
+bip_39_word_dash_7: wagon-mad-depth-project-hockey-recipe-fat
+bip_39_word_dash_8: wagon-mad-depth-project-hockey-recipe-fat-citizen
+bip_39_word_dash_9: wagon-mad-depth-project-hockey-recipe-fat-citizen-twin
 bip_39_word_new_br_1: wagon
 bip_39_word_new_br_10: wagon<br>mad<br>depth<br>project<br>hockey<br>recipe<br>fat<br>citizen<br>twin<br>ecology
 bip_39_word_new_br_11: wagon<br>mad<br>depth<br>project<br>hockey<br>recipe<br>fat<br>citizen<br>twin<br>ecology<br>milk
@@ -193,6 +205,18 @@ bip_39_word_space_6: wagon mad depth project hockey recipe
 bip_39_word_space_7: wagon mad depth project hockey recipe fat
 bip_39_word_space_8: wagon mad depth project hockey recipe fat citizen
 bip_39_word_space_9: wagon mad depth project hockey recipe fat citizen twin
+bip_39_word_underscore_1: wagon
+bip_39_word_underscore_10: wagon_mad_depth_project_hockey_recipe_fat_citizen_twin_ecology
+bip_39_word_underscore_11: wagon_mad_depth_project_hockey_recipe_fat_citizen_twin_ecology_milk
+bip_39_word_underscore_12: wagon_mad_depth_project_hockey_recipe_fat_citizen_twin_ecology_milk_acid
+bip_39_word_underscore_2: wagon_mad
+bip_39_word_underscore_3: wagon_mad_depth
+bip_39_word_underscore_4: wagon_mad_depth_project
+bip_39_word_underscore_5: wagon_mad_depth_project_hockey
+bip_39_word_underscore_6: wagon_mad_depth_project_hockey_recipe
+bip_39_word_underscore_7: wagon_mad_depth_project_hockey_recipe_fat
+bip_39_word_underscore_8: wagon_mad_depth_project_hockey_recipe_fat_citizen
+bip_39_word_underscore_9: wagon_mad_depth_project_hockey_recipe_fat_citizen_twin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

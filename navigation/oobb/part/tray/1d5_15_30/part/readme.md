@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trap |  
+| bip_39_word_dash_10 | trap-pair-riot-guard-grid-remain-pave-beach-melt-cluster |  
+| bip_39_word_dash_11 | trap-pair-riot-guard-grid-remain-pave-beach-melt-cluster-train |  
+| bip_39_word_dash_12 | trap-pair-riot-guard-grid-remain-pave-beach-melt-cluster-train-album |  
+| bip_39_word_dash_2 | trap-pair |  
+| bip_39_word_dash_3 | trap-pair-riot |  
+| bip_39_word_dash_4 | trap-pair-riot-guard |  
+| bip_39_word_dash_5 | trap-pair-riot-guard-grid |  
+| bip_39_word_dash_6 | trap-pair-riot-guard-grid-remain |  
+| bip_39_word_dash_7 | trap-pair-riot-guard-grid-remain-pave |  
+| bip_39_word_dash_8 | trap-pair-riot-guard-grid-remain-pave-beach |  
+| bip_39_word_dash_9 | trap-pair-riot-guard-grid-remain-pave-beach-melt |  
 | bip_39_word_new_br_1 | trap |  
 | bip_39_word_new_br_10 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach<br>melt<br>cluster |  
 | bip_39_word_new_br_11 | trap<br>pair<br>riot<br>guard<br>grid<br>remain<br>pave<br>beach<br>melt<br>cluster<br>train |  
@@ -147,6 +159,18 @@ melt |
 | bip_39_word_space_7 | trap pair riot guard grid remain pave |  
 | bip_39_word_space_8 | trap pair riot guard grid remain pave beach |  
 | bip_39_word_space_9 | trap pair riot guard grid remain pave beach melt |  
+| bip_39_word_underscore_1 | trap |  
+| bip_39_word_underscore_10 | trap_pair_riot_guard_grid_remain_pave_beach_melt_cluster |  
+| bip_39_word_underscore_11 | trap_pair_riot_guard_grid_remain_pave_beach_melt_cluster_train |  
+| bip_39_word_underscore_12 | trap_pair_riot_guard_grid_remain_pave_beach_melt_cluster_train_album |  
+| bip_39_word_underscore_2 | trap_pair |  
+| bip_39_word_underscore_3 | trap_pair_riot |  
+| bip_39_word_underscore_4 | trap_pair_riot_guard |  
+| bip_39_word_underscore_5 | trap_pair_riot_guard_grid |  
+| bip_39_word_underscore_6 | trap_pair_riot_guard_grid_remain |  
+| bip_39_word_underscore_7 | trap_pair_riot_guard_grid_remain_pave |  
+| bip_39_word_underscore_8 | trap_pair_riot_guard_grid_remain_pave_beach |  
+| bip_39_word_underscore_9 | trap_pair_riot_guard_grid_remain_pave_beach_melt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

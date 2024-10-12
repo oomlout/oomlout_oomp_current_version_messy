@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shrimp |  
+| bip_39_word_dash_10 | shrimp-session-trap-lift-quote-glimpse-banana-exhibit-hair-nominee |  
+| bip_39_word_dash_11 | shrimp-session-trap-lift-quote-glimpse-banana-exhibit-hair-nominee-bubble |  
+| bip_39_word_dash_12 | shrimp-session-trap-lift-quote-glimpse-banana-exhibit-hair-nominee-bubble-afraid |  
+| bip_39_word_dash_2 | shrimp-session |  
+| bip_39_word_dash_3 | shrimp-session-trap |  
+| bip_39_word_dash_4 | shrimp-session-trap-lift |  
+| bip_39_word_dash_5 | shrimp-session-trap-lift-quote |  
+| bip_39_word_dash_6 | shrimp-session-trap-lift-quote-glimpse |  
+| bip_39_word_dash_7 | shrimp-session-trap-lift-quote-glimpse-banana |  
+| bip_39_word_dash_8 | shrimp-session-trap-lift-quote-glimpse-banana-exhibit |  
+| bip_39_word_dash_9 | shrimp-session-trap-lift-quote-glimpse-banana-exhibit-hair |  
 | bip_39_word_new_br_1 | shrimp |  
 | bip_39_word_new_br_10 | shrimp<br>session<br>trap<br>lift<br>quote<br>glimpse<br>banana<br>exhibit<br>hair<br>nominee |  
 | bip_39_word_new_br_11 | shrimp<br>session<br>trap<br>lift<br>quote<br>glimpse<br>banana<br>exhibit<br>hair<br>nominee<br>bubble |  
@@ -147,6 +159,18 @@ hair |
 | bip_39_word_space_7 | shrimp session trap lift quote glimpse banana |  
 | bip_39_word_space_8 | shrimp session trap lift quote glimpse banana exhibit |  
 | bip_39_word_space_9 | shrimp session trap lift quote glimpse banana exhibit hair |  
+| bip_39_word_underscore_1 | shrimp |  
+| bip_39_word_underscore_10 | shrimp_session_trap_lift_quote_glimpse_banana_exhibit_hair_nominee |  
+| bip_39_word_underscore_11 | shrimp_session_trap_lift_quote_glimpse_banana_exhibit_hair_nominee_bubble |  
+| bip_39_word_underscore_12 | shrimp_session_trap_lift_quote_glimpse_banana_exhibit_hair_nominee_bubble_afraid |  
+| bip_39_word_underscore_2 | shrimp_session |  
+| bip_39_word_underscore_3 | shrimp_session_trap |  
+| bip_39_word_underscore_4 | shrimp_session_trap_lift |  
+| bip_39_word_underscore_5 | shrimp_session_trap_lift_quote |  
+| bip_39_word_underscore_6 | shrimp_session_trap_lift_quote_glimpse |  
+| bip_39_word_underscore_7 | shrimp_session_trap_lift_quote_glimpse_banana |  
+| bip_39_word_underscore_8 | shrimp_session_trap_lift_quote_glimpse_banana_exhibit |  
+| bip_39_word_underscore_9 | shrimp_session_trap_lift_quote_glimpse_banana_exhibit_hair |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

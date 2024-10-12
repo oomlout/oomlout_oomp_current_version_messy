@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leave
+bip_39_word_dash_10: leave-essay-cake-mountain-thing-used-ship-bundle-wife-because
+bip_39_word_dash_11: leave-essay-cake-mountain-thing-used-ship-bundle-wife-because-retire
+bip_39_word_dash_12: leave-essay-cake-mountain-thing-used-ship-bundle-wife-because-retire-aunt
+bip_39_word_dash_2: leave-essay
+bip_39_word_dash_3: leave-essay-cake
+bip_39_word_dash_4: leave-essay-cake-mountain
+bip_39_word_dash_5: leave-essay-cake-mountain-thing
+bip_39_word_dash_6: leave-essay-cake-mountain-thing-used
+bip_39_word_dash_7: leave-essay-cake-mountain-thing-used-ship
+bip_39_word_dash_8: leave-essay-cake-mountain-thing-used-ship-bundle
+bip_39_word_dash_9: leave-essay-cake-mountain-thing-used-ship-bundle-wife
 bip_39_word_new_br_1: leave
 bip_39_word_new_br_10: leave<br>essay<br>cake<br>mountain<br>thing<br>used<br>ship<br>bundle<br>wife<br>because
 bip_39_word_new_br_11: leave<br>essay<br>cake<br>mountain<br>thing<br>used<br>ship<br>bundle<br>wife<br>because<br>retire
@@ -193,6 +205,18 @@ bip_39_word_space_6: leave essay cake mountain thing used
 bip_39_word_space_7: leave essay cake mountain thing used ship
 bip_39_word_space_8: leave essay cake mountain thing used ship bundle
 bip_39_word_space_9: leave essay cake mountain thing used ship bundle wife
+bip_39_word_underscore_1: leave
+bip_39_word_underscore_10: leave_essay_cake_mountain_thing_used_ship_bundle_wife_because
+bip_39_word_underscore_11: leave_essay_cake_mountain_thing_used_ship_bundle_wife_because_retire
+bip_39_word_underscore_12: leave_essay_cake_mountain_thing_used_ship_bundle_wife_because_retire_aunt
+bip_39_word_underscore_2: leave_essay
+bip_39_word_underscore_3: leave_essay_cake
+bip_39_word_underscore_4: leave_essay_cake_mountain
+bip_39_word_underscore_5: leave_essay_cake_mountain_thing
+bip_39_word_underscore_6: leave_essay_cake_mountain_thing_used
+bip_39_word_underscore_7: leave_essay_cake_mountain_thing_used_ship
+bip_39_word_underscore_8: leave_essay_cake_mountain_thing_used_ship_bundle
+bip_39_word_underscore_9: leave_essay_cake_mountain_thing_used_ship_bundle_wife
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

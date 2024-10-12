@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | repeat |  
+| bip_39_word_dash_10 | repeat-minimum-tragic-planet-diesel-oblige-toilet-print-kind-blind |  
+| bip_39_word_dash_11 | repeat-minimum-tragic-planet-diesel-oblige-toilet-print-kind-blind-liar |  
+| bip_39_word_dash_12 | repeat-minimum-tragic-planet-diesel-oblige-toilet-print-kind-blind-liar-apart |  
+| bip_39_word_dash_2 | repeat-minimum |  
+| bip_39_word_dash_3 | repeat-minimum-tragic |  
+| bip_39_word_dash_4 | repeat-minimum-tragic-planet |  
+| bip_39_word_dash_5 | repeat-minimum-tragic-planet-diesel |  
+| bip_39_word_dash_6 | repeat-minimum-tragic-planet-diesel-oblige |  
+| bip_39_word_dash_7 | repeat-minimum-tragic-planet-diesel-oblige-toilet |  
+| bip_39_word_dash_8 | repeat-minimum-tragic-planet-diesel-oblige-toilet-print |  
+| bip_39_word_dash_9 | repeat-minimum-tragic-planet-diesel-oblige-toilet-print-kind |  
 | bip_39_word_new_br_1 | repeat |  
 | bip_39_word_new_br_10 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print<br>kind<br>blind |  
 | bip_39_word_new_br_11 | repeat<br>minimum<br>tragic<br>planet<br>diesel<br>oblige<br>toilet<br>print<br>kind<br>blind<br>liar |  
@@ -147,6 +159,18 @@ kind |
 | bip_39_word_space_7 | repeat minimum tragic planet diesel oblige toilet |  
 | bip_39_word_space_8 | repeat minimum tragic planet diesel oblige toilet print |  
 | bip_39_word_space_9 | repeat minimum tragic planet diesel oblige toilet print kind |  
+| bip_39_word_underscore_1 | repeat |  
+| bip_39_word_underscore_10 | repeat_minimum_tragic_planet_diesel_oblige_toilet_print_kind_blind |  
+| bip_39_word_underscore_11 | repeat_minimum_tragic_planet_diesel_oblige_toilet_print_kind_blind_liar |  
+| bip_39_word_underscore_12 | repeat_minimum_tragic_planet_diesel_oblige_toilet_print_kind_blind_liar_apart |  
+| bip_39_word_underscore_2 | repeat_minimum |  
+| bip_39_word_underscore_3 | repeat_minimum_tragic |  
+| bip_39_word_underscore_4 | repeat_minimum_tragic_planet |  
+| bip_39_word_underscore_5 | repeat_minimum_tragic_planet_diesel |  
+| bip_39_word_underscore_6 | repeat_minimum_tragic_planet_diesel_oblige |  
+| bip_39_word_underscore_7 | repeat_minimum_tragic_planet_diesel_oblige_toilet |  
+| bip_39_word_underscore_8 | repeat_minimum_tragic_planet_diesel_oblige_toilet_print |  
+| bip_39_word_underscore_9 | repeat_minimum_tragic_planet_diesel_oblige_toilet_print_kind |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

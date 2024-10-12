@@ -1,3 +1,15 @@
+bip_39_word_dash_1: uniform
+bip_39_word_dash_10: uniform-planet-bus-nose-summer-detect-patrol-joy-love-morning
+bip_39_word_dash_11: uniform-planet-bus-nose-summer-detect-patrol-joy-love-morning-install
+bip_39_word_dash_12: uniform-planet-bus-nose-summer-detect-patrol-joy-love-morning-install-apart
+bip_39_word_dash_2: uniform-planet
+bip_39_word_dash_3: uniform-planet-bus
+bip_39_word_dash_4: uniform-planet-bus-nose
+bip_39_word_dash_5: uniform-planet-bus-nose-summer
+bip_39_word_dash_6: uniform-planet-bus-nose-summer-detect
+bip_39_word_dash_7: uniform-planet-bus-nose-summer-detect-patrol
+bip_39_word_dash_8: uniform-planet-bus-nose-summer-detect-patrol-joy
+bip_39_word_dash_9: uniform-planet-bus-nose-summer-detect-patrol-joy-love
 bip_39_word_new_br_1: uniform
 bip_39_word_new_br_10: uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning
 bip_39_word_new_br_11: uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning<br>install
@@ -193,6 +205,18 @@ bip_39_word_space_6: uniform planet bus nose summer detect
 bip_39_word_space_7: uniform planet bus nose summer detect patrol
 bip_39_word_space_8: uniform planet bus nose summer detect patrol joy
 bip_39_word_space_9: uniform planet bus nose summer detect patrol joy love
+bip_39_word_underscore_1: uniform
+bip_39_word_underscore_10: uniform_planet_bus_nose_summer_detect_patrol_joy_love_morning
+bip_39_word_underscore_11: uniform_planet_bus_nose_summer_detect_patrol_joy_love_morning_install
+bip_39_word_underscore_12: uniform_planet_bus_nose_summer_detect_patrol_joy_love_morning_install_apart
+bip_39_word_underscore_2: uniform_planet
+bip_39_word_underscore_3: uniform_planet_bus
+bip_39_word_underscore_4: uniform_planet_bus_nose
+bip_39_word_underscore_5: uniform_planet_bus_nose_summer
+bip_39_word_underscore_6: uniform_planet_bus_nose_summer_detect
+bip_39_word_underscore_7: uniform_planet_bus_nose_summer_detect_patrol
+bip_39_word_underscore_8: uniform_planet_bus_nose_summer_detect_patrol_joy
+bip_39_word_underscore_9: uniform_planet_bus_nose_summer_detect_patrol_joy_love
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

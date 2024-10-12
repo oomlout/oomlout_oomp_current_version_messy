@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brother
+bip_39_word_dash_10: brother-web-grape-analyst-sea-vast-mimic-horse-next-token
+bip_39_word_dash_11: brother-web-grape-analyst-sea-vast-mimic-horse-next-token-slide
+bip_39_word_dash_12: brother-web-grape-analyst-sea-vast-mimic-horse-next-token-slide-advance
+bip_39_word_dash_2: brother-web
+bip_39_word_dash_3: brother-web-grape
+bip_39_word_dash_4: brother-web-grape-analyst
+bip_39_word_dash_5: brother-web-grape-analyst-sea
+bip_39_word_dash_6: brother-web-grape-analyst-sea-vast
+bip_39_word_dash_7: brother-web-grape-analyst-sea-vast-mimic
+bip_39_word_dash_8: brother-web-grape-analyst-sea-vast-mimic-horse
+bip_39_word_dash_9: brother-web-grape-analyst-sea-vast-mimic-horse-next
 bip_39_word_new_br_1: brother
 bip_39_word_new_br_10: brother<br>web<br>grape<br>analyst<br>sea<br>vast<br>mimic<br>horse<br>next<br>token
 bip_39_word_new_br_11: brother<br>web<br>grape<br>analyst<br>sea<br>vast<br>mimic<br>horse<br>next<br>token<br>slide
@@ -192,6 +204,18 @@ bip_39_word_space_6: brother web grape analyst sea vast
 bip_39_word_space_7: brother web grape analyst sea vast mimic
 bip_39_word_space_8: brother web grape analyst sea vast mimic horse
 bip_39_word_space_9: brother web grape analyst sea vast mimic horse next
+bip_39_word_underscore_1: brother
+bip_39_word_underscore_10: brother_web_grape_analyst_sea_vast_mimic_horse_next_token
+bip_39_word_underscore_11: brother_web_grape_analyst_sea_vast_mimic_horse_next_token_slide
+bip_39_word_underscore_12: brother_web_grape_analyst_sea_vast_mimic_horse_next_token_slide_advance
+bip_39_word_underscore_2: brother_web
+bip_39_word_underscore_3: brother_web_grape
+bip_39_word_underscore_4: brother_web_grape_analyst
+bip_39_word_underscore_5: brother_web_grape_analyst_sea
+bip_39_word_underscore_6: brother_web_grape_analyst_sea_vast
+bip_39_word_underscore_7: brother_web_grape_analyst_sea_vast_mimic
+bip_39_word_underscore_8: brother_web_grape_analyst_sea_vast_mimic_horse
+bip_39_word_underscore_9: brother_web_grape_analyst_sea_vast_mimic_horse_next
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

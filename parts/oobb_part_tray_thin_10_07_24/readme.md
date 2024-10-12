@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soup |  
+| bip_39_word_dash_10 | soup-praise-urban-feed-clever-monkey-arrive-private-purse-slogan |  
+| bip_39_word_dash_11 | soup-praise-urban-feed-clever-monkey-arrive-private-purse-slogan-muscle |  
+| bip_39_word_dash_12 | soup-praise-urban-feed-clever-monkey-arrive-private-purse-slogan-muscle-avocado |  
+| bip_39_word_dash_2 | soup-praise |  
+| bip_39_word_dash_3 | soup-praise-urban |  
+| bip_39_word_dash_4 | soup-praise-urban-feed |  
+| bip_39_word_dash_5 | soup-praise-urban-feed-clever |  
+| bip_39_word_dash_6 | soup-praise-urban-feed-clever-monkey |  
+| bip_39_word_dash_7 | soup-praise-urban-feed-clever-monkey-arrive |  
+| bip_39_word_dash_8 | soup-praise-urban-feed-clever-monkey-arrive-private |  
+| bip_39_word_dash_9 | soup-praise-urban-feed-clever-monkey-arrive-private-purse |  
 | bip_39_word_new_br_1 | soup |  
 | bip_39_word_new_br_10 | soup<br>praise<br>urban<br>feed<br>clever<br>monkey<br>arrive<br>private<br>purse<br>slogan |  
 | bip_39_word_new_br_11 | soup<br>praise<br>urban<br>feed<br>clever<br>monkey<br>arrive<br>private<br>purse<br>slogan<br>muscle |  
@@ -147,6 +159,18 @@ purse |
 | bip_39_word_space_7 | soup praise urban feed clever monkey arrive |  
 | bip_39_word_space_8 | soup praise urban feed clever monkey arrive private |  
 | bip_39_word_space_9 | soup praise urban feed clever monkey arrive private purse |  
+| bip_39_word_underscore_1 | soup |  
+| bip_39_word_underscore_10 | soup_praise_urban_feed_clever_monkey_arrive_private_purse_slogan |  
+| bip_39_word_underscore_11 | soup_praise_urban_feed_clever_monkey_arrive_private_purse_slogan_muscle |  
+| bip_39_word_underscore_12 | soup_praise_urban_feed_clever_monkey_arrive_private_purse_slogan_muscle_avocado |  
+| bip_39_word_underscore_2 | soup_praise |  
+| bip_39_word_underscore_3 | soup_praise_urban |  
+| bip_39_word_underscore_4 | soup_praise_urban_feed |  
+| bip_39_word_underscore_5 | soup_praise_urban_feed_clever |  
+| bip_39_word_underscore_6 | soup_praise_urban_feed_clever_monkey |  
+| bip_39_word_underscore_7 | soup_praise_urban_feed_clever_monkey_arrive |  
+| bip_39_word_underscore_8 | soup_praise_urban_feed_clever_monkey_arrive_private |  
+| bip_39_word_underscore_9 | soup_praise_urban_feed_clever_monkey_arrive_private_purse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

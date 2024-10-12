@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oxygen |  
+| bip_39_word_dash_10 | oxygen-dizzy-horror-unable-place-bubble-crucial-antique-cat-earth |  
+| bip_39_word_dash_11 | oxygen-dizzy-horror-unable-place-bubble-crucial-antique-cat-earth-nose |  
+| bip_39_word_dash_12 | oxygen-dizzy-horror-unable-place-bubble-crucial-antique-cat-earth-nose-alley |  
+| bip_39_word_dash_2 | oxygen-dizzy |  
+| bip_39_word_dash_3 | oxygen-dizzy-horror |  
+| bip_39_word_dash_4 | oxygen-dizzy-horror-unable |  
+| bip_39_word_dash_5 | oxygen-dizzy-horror-unable-place |  
+| bip_39_word_dash_6 | oxygen-dizzy-horror-unable-place-bubble |  
+| bip_39_word_dash_7 | oxygen-dizzy-horror-unable-place-bubble-crucial |  
+| bip_39_word_dash_8 | oxygen-dizzy-horror-unable-place-bubble-crucial-antique |  
+| bip_39_word_dash_9 | oxygen-dizzy-horror-unable-place-bubble-crucial-antique-cat |  
 | bip_39_word_new_br_1 | oxygen |  
 | bip_39_word_new_br_10 | oxygen<br>dizzy<br>horror<br>unable<br>place<br>bubble<br>crucial<br>antique<br>cat<br>earth |  
 | bip_39_word_new_br_11 | oxygen<br>dizzy<br>horror<br>unable<br>place<br>bubble<br>crucial<br>antique<br>cat<br>earth<br>nose |  
@@ -147,6 +159,18 @@ cat |
 | bip_39_word_space_7 | oxygen dizzy horror unable place bubble crucial |  
 | bip_39_word_space_8 | oxygen dizzy horror unable place bubble crucial antique |  
 | bip_39_word_space_9 | oxygen dizzy horror unable place bubble crucial antique cat |  
+| bip_39_word_underscore_1 | oxygen |  
+| bip_39_word_underscore_10 | oxygen_dizzy_horror_unable_place_bubble_crucial_antique_cat_earth |  
+| bip_39_word_underscore_11 | oxygen_dizzy_horror_unable_place_bubble_crucial_antique_cat_earth_nose |  
+| bip_39_word_underscore_12 | oxygen_dizzy_horror_unable_place_bubble_crucial_antique_cat_earth_nose_alley |  
+| bip_39_word_underscore_2 | oxygen_dizzy |  
+| bip_39_word_underscore_3 | oxygen_dizzy_horror |  
+| bip_39_word_underscore_4 | oxygen_dizzy_horror_unable |  
+| bip_39_word_underscore_5 | oxygen_dizzy_horror_unable_place |  
+| bip_39_word_underscore_6 | oxygen_dizzy_horror_unable_place_bubble |  
+| bip_39_word_underscore_7 | oxygen_dizzy_horror_unable_place_bubble_crucial |  
+| bip_39_word_underscore_8 | oxygen_dizzy_horror_unable_place_bubble_crucial_antique |  
+| bip_39_word_underscore_9 | oxygen_dizzy_horror_unable_place_bubble_crucial_antique_cat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

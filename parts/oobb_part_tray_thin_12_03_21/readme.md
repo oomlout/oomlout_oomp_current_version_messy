@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | canoe |  
+| bip_39_word_dash_10 | canoe-card-transfer-high-betray-lizard-glare-term-tooth-barrel |  
+| bip_39_word_dash_11 | canoe-card-transfer-high-betray-lizard-glare-term-tooth-barrel-satoshi |  
+| bip_39_word_dash_12 | canoe-card-transfer-high-betray-lizard-glare-term-tooth-barrel-satoshi-album |  
+| bip_39_word_dash_2 | canoe-card |  
+| bip_39_word_dash_3 | canoe-card-transfer |  
+| bip_39_word_dash_4 | canoe-card-transfer-high |  
+| bip_39_word_dash_5 | canoe-card-transfer-high-betray |  
+| bip_39_word_dash_6 | canoe-card-transfer-high-betray-lizard |  
+| bip_39_word_dash_7 | canoe-card-transfer-high-betray-lizard-glare |  
+| bip_39_word_dash_8 | canoe-card-transfer-high-betray-lizard-glare-term |  
+| bip_39_word_dash_9 | canoe-card-transfer-high-betray-lizard-glare-term-tooth |  
 | bip_39_word_new_br_1 | canoe |  
 | bip_39_word_new_br_10 | canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term<br>tooth<br>barrel |  
 | bip_39_word_new_br_11 | canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term<br>tooth<br>barrel<br>satoshi |  
@@ -147,6 +159,18 @@ tooth |
 | bip_39_word_space_7 | canoe card transfer high betray lizard glare |  
 | bip_39_word_space_8 | canoe card transfer high betray lizard glare term |  
 | bip_39_word_space_9 | canoe card transfer high betray lizard glare term tooth |  
+| bip_39_word_underscore_1 | canoe |  
+| bip_39_word_underscore_10 | canoe_card_transfer_high_betray_lizard_glare_term_tooth_barrel |  
+| bip_39_word_underscore_11 | canoe_card_transfer_high_betray_lizard_glare_term_tooth_barrel_satoshi |  
+| bip_39_word_underscore_12 | canoe_card_transfer_high_betray_lizard_glare_term_tooth_barrel_satoshi_album |  
+| bip_39_word_underscore_2 | canoe_card |  
+| bip_39_word_underscore_3 | canoe_card_transfer |  
+| bip_39_word_underscore_4 | canoe_card_transfer_high |  
+| bip_39_word_underscore_5 | canoe_card_transfer_high_betray |  
+| bip_39_word_underscore_6 | canoe_card_transfer_high_betray_lizard |  
+| bip_39_word_underscore_7 | canoe_card_transfer_high_betray_lizard_glare |  
+| bip_39_word_underscore_8 | canoe_card_transfer_high_betray_lizard_glare_term |  
+| bip_39_word_underscore_9 | canoe_card_transfer_high_betray_lizard_glare_term_tooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

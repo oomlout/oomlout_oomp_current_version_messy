@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | now |  
+| bip_39_word_dash_10 | now-birth-strike-public-dumb-term-neither-undo-concert-elbow |  
+| bip_39_word_dash_11 | now-birth-strike-public-dumb-term-neither-undo-concert-elbow-rude |  
+| bip_39_word_dash_12 | now-birth-strike-public-dumb-term-neither-undo-concert-elbow-rude-aim |  
+| bip_39_word_dash_2 | now-birth |  
+| bip_39_word_dash_3 | now-birth-strike |  
+| bip_39_word_dash_4 | now-birth-strike-public |  
+| bip_39_word_dash_5 | now-birth-strike-public-dumb |  
+| bip_39_word_dash_6 | now-birth-strike-public-dumb-term |  
+| bip_39_word_dash_7 | now-birth-strike-public-dumb-term-neither |  
+| bip_39_word_dash_8 | now-birth-strike-public-dumb-term-neither-undo |  
+| bip_39_word_dash_9 | now-birth-strike-public-dumb-term-neither-undo-concert |  
 | bip_39_word_new_br_1 | now |  
 | bip_39_word_new_br_10 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow |  
 | bip_39_word_new_br_11 | now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow<br>rude |  
@@ -147,6 +159,18 @@ concert |
 | bip_39_word_space_7 | now birth strike public dumb term neither |  
 | bip_39_word_space_8 | now birth strike public dumb term neither undo |  
 | bip_39_word_space_9 | now birth strike public dumb term neither undo concert |  
+| bip_39_word_underscore_1 | now |  
+| bip_39_word_underscore_10 | now_birth_strike_public_dumb_term_neither_undo_concert_elbow |  
+| bip_39_word_underscore_11 | now_birth_strike_public_dumb_term_neither_undo_concert_elbow_rude |  
+| bip_39_word_underscore_12 | now_birth_strike_public_dumb_term_neither_undo_concert_elbow_rude_aim |  
+| bip_39_word_underscore_2 | now_birth |  
+| bip_39_word_underscore_3 | now_birth_strike |  
+| bip_39_word_underscore_4 | now_birth_strike_public |  
+| bip_39_word_underscore_5 | now_birth_strike_public_dumb |  
+| bip_39_word_underscore_6 | now_birth_strike_public_dumb_term |  
+| bip_39_word_underscore_7 | now_birth_strike_public_dumb_term_neither |  
+| bip_39_word_underscore_8 | now_birth_strike_public_dumb_term_neither_undo |  
+| bip_39_word_underscore_9 | now_birth_strike_public_dumb_term_neither_undo_concert |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

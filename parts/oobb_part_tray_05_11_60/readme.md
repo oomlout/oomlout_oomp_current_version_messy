@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | depart |  
+| bip_39_word_dash_10 | depart-they-insane-holiday-trim-ghost-wide-word-kangaroo-repair |  
+| bip_39_word_dash_11 | depart-they-insane-holiday-trim-ghost-wide-word-kangaroo-repair-concert |  
+| bip_39_word_dash_2 | depart-they |  
+| bip_39_word_dash_3 | depart-they-insane |  
+| bip_39_word_dash_4 | depart-they-insane-holiday |  
+| bip_39_word_dash_5 | depart-they-insane-holiday-trim |  
+| bip_39_word_dash_6 | depart-they-insane-holiday-trim-ghost |  
+| bip_39_word_dash_7 | depart-they-insane-holiday-trim-ghost-wide |  
+| bip_39_word_dash_8 | depart-they-insane-holiday-trim-ghost-wide-word |  
+| bip_39_word_dash_9 | depart-they-insane-holiday-trim-ghost-wide-word-kangaroo |  
 | bip_39_word_new_br_1 | depart |  
 | bip_39_word_new_br_10 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo<br>repair |  
 | bip_39_word_new_br_11 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo<br>repair<br>concert |  
@@ -132,6 +143,17 @@ kangaroo |
 | bip_39_word_space_7 | depart they insane holiday trim ghost wide |  
 | bip_39_word_space_8 | depart they insane holiday trim ghost wide word |  
 | bip_39_word_space_9 | depart they insane holiday trim ghost wide word kangaroo |  
+| bip_39_word_underscore_1 | depart |  
+| bip_39_word_underscore_10 | depart_they_insane_holiday_trim_ghost_wide_word_kangaroo_repair |  
+| bip_39_word_underscore_11 | depart_they_insane_holiday_trim_ghost_wide_word_kangaroo_repair_concert |  
+| bip_39_word_underscore_2 | depart_they |  
+| bip_39_word_underscore_3 | depart_they_insane |  
+| bip_39_word_underscore_4 | depart_they_insane_holiday |  
+| bip_39_word_underscore_5 | depart_they_insane_holiday_trim |  
+| bip_39_word_underscore_6 | depart_they_insane_holiday_trim_ghost |  
+| bip_39_word_underscore_7 | depart_they_insane_holiday_trim_ghost_wide |  
+| bip_39_word_underscore_8 | depart_they_insane_holiday_trim_ghost_wide_word |  
+| bip_39_word_underscore_9 | depart_they_insane_holiday_trim_ghost_wide_word_kangaroo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

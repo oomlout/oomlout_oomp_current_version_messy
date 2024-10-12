@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gift |  
+| bip_39_word_dash_10 | gift-page-collect-switch-leader-calm-input-mean-jeans-promote |  
+| bip_39_word_dash_11 | gift-page-collect-switch-leader-calm-input-mean-jeans-promote-circle |  
+| bip_39_word_dash_12 | gift-page-collect-switch-leader-calm-input-mean-jeans-promote-circle-auto |  
+| bip_39_word_dash_2 | gift-page |  
+| bip_39_word_dash_3 | gift-page-collect |  
+| bip_39_word_dash_4 | gift-page-collect-switch |  
+| bip_39_word_dash_5 | gift-page-collect-switch-leader |  
+| bip_39_word_dash_6 | gift-page-collect-switch-leader-calm |  
+| bip_39_word_dash_7 | gift-page-collect-switch-leader-calm-input |  
+| bip_39_word_dash_8 | gift-page-collect-switch-leader-calm-input-mean |  
+| bip_39_word_dash_9 | gift-page-collect-switch-leader-calm-input-mean-jeans |  
 | bip_39_word_new_br_1 | gift |  
 | bip_39_word_new_br_10 | gift<br>page<br>collect<br>switch<br>leader<br>calm<br>input<br>mean<br>jeans<br>promote |  
 | bip_39_word_new_br_11 | gift<br>page<br>collect<br>switch<br>leader<br>calm<br>input<br>mean<br>jeans<br>promote<br>circle |  
@@ -147,6 +159,18 @@ jeans |
 | bip_39_word_space_7 | gift page collect switch leader calm input |  
 | bip_39_word_space_8 | gift page collect switch leader calm input mean |  
 | bip_39_word_space_9 | gift page collect switch leader calm input mean jeans |  
+| bip_39_word_underscore_1 | gift |  
+| bip_39_word_underscore_10 | gift_page_collect_switch_leader_calm_input_mean_jeans_promote |  
+| bip_39_word_underscore_11 | gift_page_collect_switch_leader_calm_input_mean_jeans_promote_circle |  
+| bip_39_word_underscore_12 | gift_page_collect_switch_leader_calm_input_mean_jeans_promote_circle_auto |  
+| bip_39_word_underscore_2 | gift_page |  
+| bip_39_word_underscore_3 | gift_page_collect |  
+| bip_39_word_underscore_4 | gift_page_collect_switch |  
+| bip_39_word_underscore_5 | gift_page_collect_switch_leader |  
+| bip_39_word_underscore_6 | gift_page_collect_switch_leader_calm |  
+| bip_39_word_underscore_7 | gift_page_collect_switch_leader_calm_input |  
+| bip_39_word_underscore_8 | gift_page_collect_switch_leader_calm_input_mean |  
+| bip_39_word_underscore_9 | gift_page_collect_switch_leader_calm_input_mean_jeans |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

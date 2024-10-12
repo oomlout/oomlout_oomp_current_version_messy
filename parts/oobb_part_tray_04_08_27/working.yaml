@@ -1,3 +1,15 @@
+bip_39_word_dash_1: kiwi
+bip_39_word_dash_10: kiwi-olive-seed-aware-legend-gauge-quantum-paper-vivid-erosion
+bip_39_word_dash_11: kiwi-olive-seed-aware-legend-gauge-quantum-paper-vivid-erosion-grab
+bip_39_word_dash_12: kiwi-olive-seed-aware-legend-gauge-quantum-paper-vivid-erosion-grab-adult
+bip_39_word_dash_2: kiwi-olive
+bip_39_word_dash_3: kiwi-olive-seed
+bip_39_word_dash_4: kiwi-olive-seed-aware
+bip_39_word_dash_5: kiwi-olive-seed-aware-legend
+bip_39_word_dash_6: kiwi-olive-seed-aware-legend-gauge
+bip_39_word_dash_7: kiwi-olive-seed-aware-legend-gauge-quantum
+bip_39_word_dash_8: kiwi-olive-seed-aware-legend-gauge-quantum-paper
+bip_39_word_dash_9: kiwi-olive-seed-aware-legend-gauge-quantum-paper-vivid
 bip_39_word_new_br_1: kiwi
 bip_39_word_new_br_10: kiwi<br>olive<br>seed<br>aware<br>legend<br>gauge<br>quantum<br>paper<br>vivid<br>erosion
 bip_39_word_new_br_11: kiwi<br>olive<br>seed<br>aware<br>legend<br>gauge<br>quantum<br>paper<br>vivid<br>erosion<br>grab
@@ -193,6 +205,18 @@ bip_39_word_space_6: kiwi olive seed aware legend gauge
 bip_39_word_space_7: kiwi olive seed aware legend gauge quantum
 bip_39_word_space_8: kiwi olive seed aware legend gauge quantum paper
 bip_39_word_space_9: kiwi olive seed aware legend gauge quantum paper vivid
+bip_39_word_underscore_1: kiwi
+bip_39_word_underscore_10: kiwi_olive_seed_aware_legend_gauge_quantum_paper_vivid_erosion
+bip_39_word_underscore_11: kiwi_olive_seed_aware_legend_gauge_quantum_paper_vivid_erosion_grab
+bip_39_word_underscore_12: kiwi_olive_seed_aware_legend_gauge_quantum_paper_vivid_erosion_grab_adult
+bip_39_word_underscore_2: kiwi_olive
+bip_39_word_underscore_3: kiwi_olive_seed
+bip_39_word_underscore_4: kiwi_olive_seed_aware
+bip_39_word_underscore_5: kiwi_olive_seed_aware_legend
+bip_39_word_underscore_6: kiwi_olive_seed_aware_legend_gauge
+bip_39_word_underscore_7: kiwi_olive_seed_aware_legend_gauge_quantum
+bip_39_word_underscore_8: kiwi_olive_seed_aware_legend_gauge_quantum_paper
+bip_39_word_underscore_9: kiwi_olive_seed_aware_legend_gauge_quantum_paper_vivid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

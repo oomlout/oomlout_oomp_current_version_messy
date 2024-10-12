@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orbit |  
+| bip_39_word_dash_10 | orbit-survey-trash-govern-fence-chronic-rebel-fever-electric-connect |  
+| bip_39_word_dash_11 | orbit-survey-trash-govern-fence-chronic-rebel-fever-electric-connect-about |  
+| bip_39_word_dash_12 | orbit-survey-trash-govern-fence-chronic-rebel-fever-electric-connect-about-aerobic |  
+| bip_39_word_dash_2 | orbit-survey |  
+| bip_39_word_dash_3 | orbit-survey-trash |  
+| bip_39_word_dash_4 | orbit-survey-trash-govern |  
+| bip_39_word_dash_5 | orbit-survey-trash-govern-fence |  
+| bip_39_word_dash_6 | orbit-survey-trash-govern-fence-chronic |  
+| bip_39_word_dash_7 | orbit-survey-trash-govern-fence-chronic-rebel |  
+| bip_39_word_dash_8 | orbit-survey-trash-govern-fence-chronic-rebel-fever |  
+| bip_39_word_dash_9 | orbit-survey-trash-govern-fence-chronic-rebel-fever-electric |  
 | bip_39_word_new_br_1 | orbit |  
 | bip_39_word_new_br_10 | orbit<br>survey<br>trash<br>govern<br>fence<br>chronic<br>rebel<br>fever<br>electric<br>connect |  
 | bip_39_word_new_br_11 | orbit<br>survey<br>trash<br>govern<br>fence<br>chronic<br>rebel<br>fever<br>electric<br>connect<br>about |  
@@ -147,6 +159,18 @@ electric |
 | bip_39_word_space_7 | orbit survey trash govern fence chronic rebel |  
 | bip_39_word_space_8 | orbit survey trash govern fence chronic rebel fever |  
 | bip_39_word_space_9 | orbit survey trash govern fence chronic rebel fever electric |  
+| bip_39_word_underscore_1 | orbit |  
+| bip_39_word_underscore_10 | orbit_survey_trash_govern_fence_chronic_rebel_fever_electric_connect |  
+| bip_39_word_underscore_11 | orbit_survey_trash_govern_fence_chronic_rebel_fever_electric_connect_about |  
+| bip_39_word_underscore_12 | orbit_survey_trash_govern_fence_chronic_rebel_fever_electric_connect_about_aerobic |  
+| bip_39_word_underscore_2 | orbit_survey |  
+| bip_39_word_underscore_3 | orbit_survey_trash |  
+| bip_39_word_underscore_4 | orbit_survey_trash_govern |  
+| bip_39_word_underscore_5 | orbit_survey_trash_govern_fence |  
+| bip_39_word_underscore_6 | orbit_survey_trash_govern_fence_chronic |  
+| bip_39_word_underscore_7 | orbit_survey_trash_govern_fence_chronic_rebel |  
+| bip_39_word_underscore_8 | orbit_survey_trash_govern_fence_chronic_rebel_fever |  
+| bip_39_word_underscore_9 | orbit_survey_trash_govern_fence_chronic_rebel_fever_electric |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

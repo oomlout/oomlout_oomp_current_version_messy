@@ -1,3 +1,15 @@
+bip_39_word_dash_1: oppose
+bip_39_word_dash_10: oppose-own-mandate-night-beach-stay-deal-since-vacuum-bird
+bip_39_word_dash_11: oppose-own-mandate-night-beach-stay-deal-since-vacuum-bird-code
+bip_39_word_dash_12: oppose-own-mandate-night-beach-stay-deal-since-vacuum-bird-code-alarm
+bip_39_word_dash_2: oppose-own
+bip_39_word_dash_3: oppose-own-mandate
+bip_39_word_dash_4: oppose-own-mandate-night
+bip_39_word_dash_5: oppose-own-mandate-night-beach
+bip_39_word_dash_6: oppose-own-mandate-night-beach-stay
+bip_39_word_dash_7: oppose-own-mandate-night-beach-stay-deal
+bip_39_word_dash_8: oppose-own-mandate-night-beach-stay-deal-since
+bip_39_word_dash_9: oppose-own-mandate-night-beach-stay-deal-since-vacuum
 bip_39_word_new_br_1: oppose
 bip_39_word_new_br_10: oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird
 bip_39_word_new_br_11: oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird<br>code
@@ -192,6 +204,18 @@ bip_39_word_space_6: oppose own mandate night beach stay
 bip_39_word_space_7: oppose own mandate night beach stay deal
 bip_39_word_space_8: oppose own mandate night beach stay deal since
 bip_39_word_space_9: oppose own mandate night beach stay deal since vacuum
+bip_39_word_underscore_1: oppose
+bip_39_word_underscore_10: oppose_own_mandate_night_beach_stay_deal_since_vacuum_bird
+bip_39_word_underscore_11: oppose_own_mandate_night_beach_stay_deal_since_vacuum_bird_code
+bip_39_word_underscore_12: oppose_own_mandate_night_beach_stay_deal_since_vacuum_bird_code_alarm
+bip_39_word_underscore_2: oppose_own
+bip_39_word_underscore_3: oppose_own_mandate
+bip_39_word_underscore_4: oppose_own_mandate_night
+bip_39_word_underscore_5: oppose_own_mandate_night_beach
+bip_39_word_underscore_6: oppose_own_mandate_night_beach_stay
+bip_39_word_underscore_7: oppose_own_mandate_night_beach_stay_deal
+bip_39_word_underscore_8: oppose_own_mandate_night_beach_stay_deal_since
+bip_39_word_underscore_9: oppose_own_mandate_night_beach_stay_deal_since_vacuum
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

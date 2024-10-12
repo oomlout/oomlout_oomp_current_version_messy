@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | define |  
+| bip_39_word_dash_10 | define-flip-uphold-dove-minimum-possible-crater-double-save-off |  
+| bip_39_word_dash_11 | define-flip-uphold-dove-minimum-possible-crater-double-save-off-night |  
+| bip_39_word_dash_12 | define-flip-uphold-dove-minimum-possible-crater-double-save-off-night-aerobic |  
+| bip_39_word_dash_2 | define-flip |  
+| bip_39_word_dash_3 | define-flip-uphold |  
+| bip_39_word_dash_4 | define-flip-uphold-dove |  
+| bip_39_word_dash_5 | define-flip-uphold-dove-minimum |  
+| bip_39_word_dash_6 | define-flip-uphold-dove-minimum-possible |  
+| bip_39_word_dash_7 | define-flip-uphold-dove-minimum-possible-crater |  
+| bip_39_word_dash_8 | define-flip-uphold-dove-minimum-possible-crater-double |  
+| bip_39_word_dash_9 | define-flip-uphold-dove-minimum-possible-crater-double-save |  
 | bip_39_word_new_br_1 | define |  
 | bip_39_word_new_br_10 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double<br>save<br>off |  
 | bip_39_word_new_br_11 | define<br>flip<br>uphold<br>dove<br>minimum<br>possible<br>crater<br>double<br>save<br>off<br>night |  
@@ -147,6 +159,18 @@ save |
 | bip_39_word_space_7 | define flip uphold dove minimum possible crater |  
 | bip_39_word_space_8 | define flip uphold dove minimum possible crater double |  
 | bip_39_word_space_9 | define flip uphold dove minimum possible crater double save |  
+| bip_39_word_underscore_1 | define |  
+| bip_39_word_underscore_10 | define_flip_uphold_dove_minimum_possible_crater_double_save_off |  
+| bip_39_word_underscore_11 | define_flip_uphold_dove_minimum_possible_crater_double_save_off_night |  
+| bip_39_word_underscore_12 | define_flip_uphold_dove_minimum_possible_crater_double_save_off_night_aerobic |  
+| bip_39_word_underscore_2 | define_flip |  
+| bip_39_word_underscore_3 | define_flip_uphold |  
+| bip_39_word_underscore_4 | define_flip_uphold_dove |  
+| bip_39_word_underscore_5 | define_flip_uphold_dove_minimum |  
+| bip_39_word_underscore_6 | define_flip_uphold_dove_minimum_possible |  
+| bip_39_word_underscore_7 | define_flip_uphold_dove_minimum_possible_crater |  
+| bip_39_word_underscore_8 | define_flip_uphold_dove_minimum_possible_crater_double |  
+| bip_39_word_underscore_9 | define_flip_uphold_dove_minimum_possible_crater_double_save |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

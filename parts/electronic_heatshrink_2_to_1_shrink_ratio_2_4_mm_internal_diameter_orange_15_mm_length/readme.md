@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trick |  
+| bip_39_word_dash_10 | trick-enter-gossip-captain-moral-speak-wrestle-sustain-luxury-option |  
+| bip_39_word_dash_11 | trick-enter-gossip-captain-moral-speak-wrestle-sustain-luxury-option-chair |  
+| bip_39_word_dash_12 | trick-enter-gossip-captain-moral-speak-wrestle-sustain-luxury-option-chair-attend |  
+| bip_39_word_dash_2 | trick-enter |  
+| bip_39_word_dash_3 | trick-enter-gossip |  
+| bip_39_word_dash_4 | trick-enter-gossip-captain |  
+| bip_39_word_dash_5 | trick-enter-gossip-captain-moral |  
+| bip_39_word_dash_6 | trick-enter-gossip-captain-moral-speak |  
+| bip_39_word_dash_7 | trick-enter-gossip-captain-moral-speak-wrestle |  
+| bip_39_word_dash_8 | trick-enter-gossip-captain-moral-speak-wrestle-sustain |  
+| bip_39_word_dash_9 | trick-enter-gossip-captain-moral-speak-wrestle-sustain-luxury |  
 | bip_39_word_new_br_1 | trick |  
 | bip_39_word_new_br_10 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option |  
 | bip_39_word_new_br_11 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option<br>chair |  
@@ -147,6 +159,18 @@ luxury |
 | bip_39_word_space_7 | trick enter gossip captain moral speak wrestle |  
 | bip_39_word_space_8 | trick enter gossip captain moral speak wrestle sustain |  
 | bip_39_word_space_9 | trick enter gossip captain moral speak wrestle sustain luxury |  
+| bip_39_word_underscore_1 | trick |  
+| bip_39_word_underscore_10 | trick_enter_gossip_captain_moral_speak_wrestle_sustain_luxury_option |  
+| bip_39_word_underscore_11 | trick_enter_gossip_captain_moral_speak_wrestle_sustain_luxury_option_chair |  
+| bip_39_word_underscore_12 | trick_enter_gossip_captain_moral_speak_wrestle_sustain_luxury_option_chair_attend |  
+| bip_39_word_underscore_2 | trick_enter |  
+| bip_39_word_underscore_3 | trick_enter_gossip |  
+| bip_39_word_underscore_4 | trick_enter_gossip_captain |  
+| bip_39_word_underscore_5 | trick_enter_gossip_captain_moral |  
+| bip_39_word_underscore_6 | trick_enter_gossip_captain_moral_speak |  
+| bip_39_word_underscore_7 | trick_enter_gossip_captain_moral_speak_wrestle |  
+| bip_39_word_underscore_8 | trick_enter_gossip_captain_moral_speak_wrestle_sustain |  
+| bip_39_word_underscore_9 | trick_enter_gossip_captain_moral_speak_wrestle_sustain_luxury |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

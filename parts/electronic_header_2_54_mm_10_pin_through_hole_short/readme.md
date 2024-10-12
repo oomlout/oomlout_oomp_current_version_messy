@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | extend |  
+| bip_39_word_dash_10 | extend-provide-observe-educate-verb-floor-august-weather-stool-print |  
+| bip_39_word_dash_11 | extend-provide-observe-educate-verb-floor-august-weather-stool-print-usage |  
+| bip_39_word_dash_12 | extend-provide-observe-educate-verb-floor-august-weather-stool-print-usage-admit |  
+| bip_39_word_dash_2 | extend-provide |  
+| bip_39_word_dash_3 | extend-provide-observe |  
+| bip_39_word_dash_4 | extend-provide-observe-educate |  
+| bip_39_word_dash_5 | extend-provide-observe-educate-verb |  
+| bip_39_word_dash_6 | extend-provide-observe-educate-verb-floor |  
+| bip_39_word_dash_7 | extend-provide-observe-educate-verb-floor-august |  
+| bip_39_word_dash_8 | extend-provide-observe-educate-verb-floor-august-weather |  
+| bip_39_word_dash_9 | extend-provide-observe-educate-verb-floor-august-weather-stool |  
 | bip_39_word_new_br_1 | extend |  
 | bip_39_word_new_br_10 | extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather<br>stool<br>print |  
 | bip_39_word_new_br_11 | extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather<br>stool<br>print<br>usage |  
@@ -147,6 +159,18 @@ stool |
 | bip_39_word_space_7 | extend provide observe educate verb floor august |  
 | bip_39_word_space_8 | extend provide observe educate verb floor august weather |  
 | bip_39_word_space_9 | extend provide observe educate verb floor august weather stool |  
+| bip_39_word_underscore_1 | extend |  
+| bip_39_word_underscore_10 | extend_provide_observe_educate_verb_floor_august_weather_stool_print |  
+| bip_39_word_underscore_11 | extend_provide_observe_educate_verb_floor_august_weather_stool_print_usage |  
+| bip_39_word_underscore_12 | extend_provide_observe_educate_verb_floor_august_weather_stool_print_usage_admit |  
+| bip_39_word_underscore_2 | extend_provide |  
+| bip_39_word_underscore_3 | extend_provide_observe |  
+| bip_39_word_underscore_4 | extend_provide_observe_educate |  
+| bip_39_word_underscore_5 | extend_provide_observe_educate_verb |  
+| bip_39_word_underscore_6 | extend_provide_observe_educate_verb_floor |  
+| bip_39_word_underscore_7 | extend_provide_observe_educate_verb_floor_august |  
+| bip_39_word_underscore_8 | extend_provide_observe_educate_verb_floor_august_weather |  
+| bip_39_word_underscore_9 | extend_provide_observe_educate_verb_floor_august_weather_stool |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

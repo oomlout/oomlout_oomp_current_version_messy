@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | impose |  
+| bip_39_word_dash_10 | impose-switch-orange-artefact-master-document-girl-junk-afraid-arrest |  
+| bip_39_word_dash_11 | impose-switch-orange-artefact-master-document-girl-junk-afraid-arrest-sport |  
+| bip_39_word_dash_12 | impose-switch-orange-artefact-master-document-girl-junk-afraid-arrest-sport-address |  
+| bip_39_word_dash_2 | impose-switch |  
+| bip_39_word_dash_3 | impose-switch-orange |  
+| bip_39_word_dash_4 | impose-switch-orange-artefact |  
+| bip_39_word_dash_5 | impose-switch-orange-artefact-master |  
+| bip_39_word_dash_6 | impose-switch-orange-artefact-master-document |  
+| bip_39_word_dash_7 | impose-switch-orange-artefact-master-document-girl |  
+| bip_39_word_dash_8 | impose-switch-orange-artefact-master-document-girl-junk |  
+| bip_39_word_dash_9 | impose-switch-orange-artefact-master-document-girl-junk-afraid |  
 | bip_39_word_new_br_1 | impose |  
 | bip_39_word_new_br_10 | impose<br>switch<br>orange<br>artefact<br>master<br>document<br>girl<br>junk<br>afraid<br>arrest |  
 | bip_39_word_new_br_11 | impose<br>switch<br>orange<br>artefact<br>master<br>document<br>girl<br>junk<br>afraid<br>arrest<br>sport |  
@@ -147,6 +159,18 @@ afraid |
 | bip_39_word_space_7 | impose switch orange artefact master document girl |  
 | bip_39_word_space_8 | impose switch orange artefact master document girl junk |  
 | bip_39_word_space_9 | impose switch orange artefact master document girl junk afraid |  
+| bip_39_word_underscore_1 | impose |  
+| bip_39_word_underscore_10 | impose_switch_orange_artefact_master_document_girl_junk_afraid_arrest |  
+| bip_39_word_underscore_11 | impose_switch_orange_artefact_master_document_girl_junk_afraid_arrest_sport |  
+| bip_39_word_underscore_12 | impose_switch_orange_artefact_master_document_girl_junk_afraid_arrest_sport_address |  
+| bip_39_word_underscore_2 | impose_switch |  
+| bip_39_word_underscore_3 | impose_switch_orange |  
+| bip_39_word_underscore_4 | impose_switch_orange_artefact |  
+| bip_39_word_underscore_5 | impose_switch_orange_artefact_master |  
+| bip_39_word_underscore_6 | impose_switch_orange_artefact_master_document |  
+| bip_39_word_underscore_7 | impose_switch_orange_artefact_master_document_girl |  
+| bip_39_word_underscore_8 | impose_switch_orange_artefact_master_document_girl_junk |  
+| bip_39_word_underscore_9 | impose_switch_orange_artefact_master_document_girl_junk_afraid |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

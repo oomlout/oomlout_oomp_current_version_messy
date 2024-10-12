@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scorpion |  
+| bip_39_word_dash_10 | scorpion-clog-pilot-maid-spread-inch-dish-chimney-book-deny |  
+| bip_39_word_dash_11 | scorpion-clog-pilot-maid-spread-inch-dish-chimney-book-deny-maid |  
+| bip_39_word_dash_12 | scorpion-clog-pilot-maid-spread-inch-dish-chimney-book-deny-maid-aunt |  
+| bip_39_word_dash_2 | scorpion-clog |  
+| bip_39_word_dash_3 | scorpion-clog-pilot |  
+| bip_39_word_dash_4 | scorpion-clog-pilot-maid |  
+| bip_39_word_dash_5 | scorpion-clog-pilot-maid-spread |  
+| bip_39_word_dash_6 | scorpion-clog-pilot-maid-spread-inch |  
+| bip_39_word_dash_7 | scorpion-clog-pilot-maid-spread-inch-dish |  
+| bip_39_word_dash_8 | scorpion-clog-pilot-maid-spread-inch-dish-chimney |  
+| bip_39_word_dash_9 | scorpion-clog-pilot-maid-spread-inch-dish-chimney-book |  
 | bip_39_word_new_br_1 | scorpion |  
 | bip_39_word_new_br_10 | scorpion<br>clog<br>pilot<br>maid<br>spread<br>inch<br>dish<br>chimney<br>book<br>deny |  
 | bip_39_word_new_br_11 | scorpion<br>clog<br>pilot<br>maid<br>spread<br>inch<br>dish<br>chimney<br>book<br>deny<br>maid |  
@@ -147,6 +159,18 @@ book |
 | bip_39_word_space_7 | scorpion clog pilot maid spread inch dish |  
 | bip_39_word_space_8 | scorpion clog pilot maid spread inch dish chimney |  
 | bip_39_word_space_9 | scorpion clog pilot maid spread inch dish chimney book |  
+| bip_39_word_underscore_1 | scorpion |  
+| bip_39_word_underscore_10 | scorpion_clog_pilot_maid_spread_inch_dish_chimney_book_deny |  
+| bip_39_word_underscore_11 | scorpion_clog_pilot_maid_spread_inch_dish_chimney_book_deny_maid |  
+| bip_39_word_underscore_12 | scorpion_clog_pilot_maid_spread_inch_dish_chimney_book_deny_maid_aunt |  
+| bip_39_word_underscore_2 | scorpion_clog |  
+| bip_39_word_underscore_3 | scorpion_clog_pilot |  
+| bip_39_word_underscore_4 | scorpion_clog_pilot_maid |  
+| bip_39_word_underscore_5 | scorpion_clog_pilot_maid_spread |  
+| bip_39_word_underscore_6 | scorpion_clog_pilot_maid_spread_inch |  
+| bip_39_word_underscore_7 | scorpion_clog_pilot_maid_spread_inch_dish |  
+| bip_39_word_underscore_8 | scorpion_clog_pilot_maid_spread_inch_dish_chimney |  
+| bip_39_word_underscore_9 | scorpion_clog_pilot_maid_spread_inch_dish_chimney_book |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

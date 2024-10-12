@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burst |  
+| bip_39_word_dash_10 | burst-soul-stable-lumber-repair-few-street-ask-offer-winter |  
+| bip_39_word_dash_11 | burst-soul-stable-lumber-repair-few-street-ask-offer-winter-accident |  
+| bip_39_word_dash_12 | burst-soul-stable-lumber-repair-few-street-ask-offer-winter-accident-anxiety |  
+| bip_39_word_dash_2 | burst-soul |  
+| bip_39_word_dash_3 | burst-soul-stable |  
+| bip_39_word_dash_4 | burst-soul-stable-lumber |  
+| bip_39_word_dash_5 | burst-soul-stable-lumber-repair |  
+| bip_39_word_dash_6 | burst-soul-stable-lumber-repair-few |  
+| bip_39_word_dash_7 | burst-soul-stable-lumber-repair-few-street |  
+| bip_39_word_dash_8 | burst-soul-stable-lumber-repair-few-street-ask |  
+| bip_39_word_dash_9 | burst-soul-stable-lumber-repair-few-street-ask-offer |  
 | bip_39_word_new_br_1 | burst |  
 | bip_39_word_new_br_10 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask<br>offer<br>winter |  
 | bip_39_word_new_br_11 | burst<br>soul<br>stable<br>lumber<br>repair<br>few<br>street<br>ask<br>offer<br>winter<br>accident |  
@@ -147,6 +159,18 @@ offer |
 | bip_39_word_space_7 | burst soul stable lumber repair few street |  
 | bip_39_word_space_8 | burst soul stable lumber repair few street ask |  
 | bip_39_word_space_9 | burst soul stable lumber repair few street ask offer |  
+| bip_39_word_underscore_1 | burst |  
+| bip_39_word_underscore_10 | burst_soul_stable_lumber_repair_few_street_ask_offer_winter |  
+| bip_39_word_underscore_11 | burst_soul_stable_lumber_repair_few_street_ask_offer_winter_accident |  
+| bip_39_word_underscore_12 | burst_soul_stable_lumber_repair_few_street_ask_offer_winter_accident_anxiety |  
+| bip_39_word_underscore_2 | burst_soul |  
+| bip_39_word_underscore_3 | burst_soul_stable |  
+| bip_39_word_underscore_4 | burst_soul_stable_lumber |  
+| bip_39_word_underscore_5 | burst_soul_stable_lumber_repair |  
+| bip_39_word_underscore_6 | burst_soul_stable_lumber_repair_few |  
+| bip_39_word_underscore_7 | burst_soul_stable_lumber_repair_few_street |  
+| bip_39_word_underscore_8 | burst_soul_stable_lumber_repair_few_street_ask |  
+| bip_39_word_underscore_9 | burst_soul_stable_lumber_repair_few_street_ask_offer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | infant |  
+| bip_39_word_dash_10 | infant-truth-domain-now-width-release-glide-cart-adjust-bottom |  
+| bip_39_word_dash_11 | infant-truth-domain-now-width-release-glide-cart-adjust-bottom-transfer |  
+| bip_39_word_dash_12 | infant-truth-domain-now-width-release-glide-cart-adjust-bottom-transfer-avocado |  
+| bip_39_word_dash_2 | infant-truth |  
+| bip_39_word_dash_3 | infant-truth-domain |  
+| bip_39_word_dash_4 | infant-truth-domain-now |  
+| bip_39_word_dash_5 | infant-truth-domain-now-width |  
+| bip_39_word_dash_6 | infant-truth-domain-now-width-release |  
+| bip_39_word_dash_7 | infant-truth-domain-now-width-release-glide |  
+| bip_39_word_dash_8 | infant-truth-domain-now-width-release-glide-cart |  
+| bip_39_word_dash_9 | infant-truth-domain-now-width-release-glide-cart-adjust |  
 | bip_39_word_new_br_1 | infant |  
 | bip_39_word_new_br_10 | infant<br>truth<br>domain<br>now<br>width<br>release<br>glide<br>cart<br>adjust<br>bottom |  
 | bip_39_word_new_br_11 | infant<br>truth<br>domain<br>now<br>width<br>release<br>glide<br>cart<br>adjust<br>bottom<br>transfer |  
@@ -147,6 +159,18 @@ adjust |
 | bip_39_word_space_7 | infant truth domain now width release glide |  
 | bip_39_word_space_8 | infant truth domain now width release glide cart |  
 | bip_39_word_space_9 | infant truth domain now width release glide cart adjust |  
+| bip_39_word_underscore_1 | infant |  
+| bip_39_word_underscore_10 | infant_truth_domain_now_width_release_glide_cart_adjust_bottom |  
+| bip_39_word_underscore_11 | infant_truth_domain_now_width_release_glide_cart_adjust_bottom_transfer |  
+| bip_39_word_underscore_12 | infant_truth_domain_now_width_release_glide_cart_adjust_bottom_transfer_avocado |  
+| bip_39_word_underscore_2 | infant_truth |  
+| bip_39_word_underscore_3 | infant_truth_domain |  
+| bip_39_word_underscore_4 | infant_truth_domain_now |  
+| bip_39_word_underscore_5 | infant_truth_domain_now_width |  
+| bip_39_word_underscore_6 | infant_truth_domain_now_width_release |  
+| bip_39_word_underscore_7 | infant_truth_domain_now_width_release_glide |  
+| bip_39_word_underscore_8 | infant_truth_domain_now_width_release_glide_cart |  
+| bip_39_word_underscore_9 | infant_truth_domain_now_width_release_glide_cart_adjust |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

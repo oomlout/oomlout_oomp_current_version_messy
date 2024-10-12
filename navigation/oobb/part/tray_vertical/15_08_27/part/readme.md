@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alcohol |  
+| bip_39_word_dash_10 | alcohol-gentle-upper-physical-sad-today-swamp-bottom-report-brick |  
+| bip_39_word_dash_11 | alcohol-gentle-upper-physical-sad-today-swamp-bottom-report-brick-carbon |  
+| bip_39_word_dash_12 | alcohol-gentle-upper-physical-sad-today-swamp-bottom-report-brick-carbon-alien |  
+| bip_39_word_dash_2 | alcohol-gentle |  
+| bip_39_word_dash_3 | alcohol-gentle-upper |  
+| bip_39_word_dash_4 | alcohol-gentle-upper-physical |  
+| bip_39_word_dash_5 | alcohol-gentle-upper-physical-sad |  
+| bip_39_word_dash_6 | alcohol-gentle-upper-physical-sad-today |  
+| bip_39_word_dash_7 | alcohol-gentle-upper-physical-sad-today-swamp |  
+| bip_39_word_dash_8 | alcohol-gentle-upper-physical-sad-today-swamp-bottom |  
+| bip_39_word_dash_9 | alcohol-gentle-upper-physical-sad-today-swamp-bottom-report |  
 | bip_39_word_new_br_1 | alcohol |  
 | bip_39_word_new_br_10 | alcohol<br>gentle<br>upper<br>physical<br>sad<br>today<br>swamp<br>bottom<br>report<br>brick |  
 | bip_39_word_new_br_11 | alcohol<br>gentle<br>upper<br>physical<br>sad<br>today<br>swamp<br>bottom<br>report<br>brick<br>carbon |  
@@ -147,6 +159,18 @@ report |
 | bip_39_word_space_7 | alcohol gentle upper physical sad today swamp |  
 | bip_39_word_space_8 | alcohol gentle upper physical sad today swamp bottom |  
 | bip_39_word_space_9 | alcohol gentle upper physical sad today swamp bottom report |  
+| bip_39_word_underscore_1 | alcohol |  
+| bip_39_word_underscore_10 | alcohol_gentle_upper_physical_sad_today_swamp_bottom_report_brick |  
+| bip_39_word_underscore_11 | alcohol_gentle_upper_physical_sad_today_swamp_bottom_report_brick_carbon |  
+| bip_39_word_underscore_12 | alcohol_gentle_upper_physical_sad_today_swamp_bottom_report_brick_carbon_alien |  
+| bip_39_word_underscore_2 | alcohol_gentle |  
+| bip_39_word_underscore_3 | alcohol_gentle_upper |  
+| bip_39_word_underscore_4 | alcohol_gentle_upper_physical |  
+| bip_39_word_underscore_5 | alcohol_gentle_upper_physical_sad |  
+| bip_39_word_underscore_6 | alcohol_gentle_upper_physical_sad_today |  
+| bip_39_word_underscore_7 | alcohol_gentle_upper_physical_sad_today_swamp |  
+| bip_39_word_underscore_8 | alcohol_gentle_upper_physical_sad_today_swamp_bottom |  
+| bip_39_word_underscore_9 | alcohol_gentle_upper_physical_sad_today_swamp_bottom_report |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

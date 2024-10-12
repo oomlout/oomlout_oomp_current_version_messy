@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | margin |  
+| bip_39_word_dash_10 | margin-artefact-man-hair-barrel-scrub-tomorrow-iron-knee-vote |  
+| bip_39_word_dash_11 | margin-artefact-man-hair-barrel-scrub-tomorrow-iron-knee-vote-artefact |  
+| bip_39_word_dash_12 | margin-artefact-man-hair-barrel-scrub-tomorrow-iron-knee-vote-artefact-across |  
+| bip_39_word_dash_2 | margin-artefact |  
+| bip_39_word_dash_3 | margin-artefact-man |  
+| bip_39_word_dash_4 | margin-artefact-man-hair |  
+| bip_39_word_dash_5 | margin-artefact-man-hair-barrel |  
+| bip_39_word_dash_6 | margin-artefact-man-hair-barrel-scrub |  
+| bip_39_word_dash_7 | margin-artefact-man-hair-barrel-scrub-tomorrow |  
+| bip_39_word_dash_8 | margin-artefact-man-hair-barrel-scrub-tomorrow-iron |  
+| bip_39_word_dash_9 | margin-artefact-man-hair-barrel-scrub-tomorrow-iron-knee |  
 | bip_39_word_new_br_1 | margin |  
 | bip_39_word_new_br_10 | margin<br>artefact<br>man<br>hair<br>barrel<br>scrub<br>tomorrow<br>iron<br>knee<br>vote |  
 | bip_39_word_new_br_11 | margin<br>artefact<br>man<br>hair<br>barrel<br>scrub<br>tomorrow<br>iron<br>knee<br>vote<br>artefact |  
@@ -147,6 +159,18 @@ knee |
 | bip_39_word_space_7 | margin artefact man hair barrel scrub tomorrow |  
 | bip_39_word_space_8 | margin artefact man hair barrel scrub tomorrow iron |  
 | bip_39_word_space_9 | margin artefact man hair barrel scrub tomorrow iron knee |  
+| bip_39_word_underscore_1 | margin |  
+| bip_39_word_underscore_10 | margin_artefact_man_hair_barrel_scrub_tomorrow_iron_knee_vote |  
+| bip_39_word_underscore_11 | margin_artefact_man_hair_barrel_scrub_tomorrow_iron_knee_vote_artefact |  
+| bip_39_word_underscore_12 | margin_artefact_man_hair_barrel_scrub_tomorrow_iron_knee_vote_artefact_across |  
+| bip_39_word_underscore_2 | margin_artefact |  
+| bip_39_word_underscore_3 | margin_artefact_man |  
+| bip_39_word_underscore_4 | margin_artefact_man_hair |  
+| bip_39_word_underscore_5 | margin_artefact_man_hair_barrel |  
+| bip_39_word_underscore_6 | margin_artefact_man_hair_barrel_scrub |  
+| bip_39_word_underscore_7 | margin_artefact_man_hair_barrel_scrub_tomorrow |  
+| bip_39_word_underscore_8 | margin_artefact_man_hair_barrel_scrub_tomorrow_iron |  
+| bip_39_word_underscore_9 | margin_artefact_man_hair_barrel_scrub_tomorrow_iron_knee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

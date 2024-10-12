@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | habit |  
+| bip_39_word_dash_10 | habit-immense-space-century-develop-kit-squirrel-vibrant-charge-define |  
+| bip_39_word_dash_11 | habit-immense-space-century-develop-kit-squirrel-vibrant-charge-define-sting |  
+| bip_39_word_dash_12 | habit-immense-space-century-develop-kit-squirrel-vibrant-charge-define-sting-assume |  
+| bip_39_word_dash_2 | habit-immense |  
+| bip_39_word_dash_3 | habit-immense-space |  
+| bip_39_word_dash_4 | habit-immense-space-century |  
+| bip_39_word_dash_5 | habit-immense-space-century-develop |  
+| bip_39_word_dash_6 | habit-immense-space-century-develop-kit |  
+| bip_39_word_dash_7 | habit-immense-space-century-develop-kit-squirrel |  
+| bip_39_word_dash_8 | habit-immense-space-century-develop-kit-squirrel-vibrant |  
+| bip_39_word_dash_9 | habit-immense-space-century-develop-kit-squirrel-vibrant-charge |  
 | bip_39_word_new_br_1 | habit |  
 | bip_39_word_new_br_10 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define |  
 | bip_39_word_new_br_11 | habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define<br>sting |  
@@ -147,6 +159,18 @@ charge |
 | bip_39_word_space_7 | habit immense space century develop kit squirrel |  
 | bip_39_word_space_8 | habit immense space century develop kit squirrel vibrant |  
 | bip_39_word_space_9 | habit immense space century develop kit squirrel vibrant charge |  
+| bip_39_word_underscore_1 | habit |  
+| bip_39_word_underscore_10 | habit_immense_space_century_develop_kit_squirrel_vibrant_charge_define |  
+| bip_39_word_underscore_11 | habit_immense_space_century_develop_kit_squirrel_vibrant_charge_define_sting |  
+| bip_39_word_underscore_12 | habit_immense_space_century_develop_kit_squirrel_vibrant_charge_define_sting_assume |  
+| bip_39_word_underscore_2 | habit_immense |  
+| bip_39_word_underscore_3 | habit_immense_space |  
+| bip_39_word_underscore_4 | habit_immense_space_century |  
+| bip_39_word_underscore_5 | habit_immense_space_century_develop |  
+| bip_39_word_underscore_6 | habit_immense_space_century_develop_kit |  
+| bip_39_word_underscore_7 | habit_immense_space_century_develop_kit_squirrel |  
+| bip_39_word_underscore_8 | habit_immense_space_century_develop_kit_squirrel_vibrant |  
+| bip_39_word_underscore_9 | habit_immense_space_century_develop_kit_squirrel_vibrant_charge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

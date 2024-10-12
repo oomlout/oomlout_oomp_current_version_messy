@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spare
+bip_39_word_dash_10: spare-myth-term-blanket-ribbon-rule-chair-picture-undo-antenna
+bip_39_word_dash_11: spare-myth-term-blanket-ribbon-rule-chair-picture-undo-antenna-hope
+bip_39_word_dash_12: spare-myth-term-blanket-ribbon-rule-chair-picture-undo-antenna-hope-amazing
+bip_39_word_dash_2: spare-myth
+bip_39_word_dash_3: spare-myth-term
+bip_39_word_dash_4: spare-myth-term-blanket
+bip_39_word_dash_5: spare-myth-term-blanket-ribbon
+bip_39_word_dash_6: spare-myth-term-blanket-ribbon-rule
+bip_39_word_dash_7: spare-myth-term-blanket-ribbon-rule-chair
+bip_39_word_dash_8: spare-myth-term-blanket-ribbon-rule-chair-picture
+bip_39_word_dash_9: spare-myth-term-blanket-ribbon-rule-chair-picture-undo
 bip_39_word_new_br_1: spare
 bip_39_word_new_br_10: spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna
 bip_39_word_new_br_11: spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna<br>hope
@@ -193,6 +205,18 @@ bip_39_word_space_6: spare myth term blanket ribbon rule
 bip_39_word_space_7: spare myth term blanket ribbon rule chair
 bip_39_word_space_8: spare myth term blanket ribbon rule chair picture
 bip_39_word_space_9: spare myth term blanket ribbon rule chair picture undo
+bip_39_word_underscore_1: spare
+bip_39_word_underscore_10: spare_myth_term_blanket_ribbon_rule_chair_picture_undo_antenna
+bip_39_word_underscore_11: spare_myth_term_blanket_ribbon_rule_chair_picture_undo_antenna_hope
+bip_39_word_underscore_12: spare_myth_term_blanket_ribbon_rule_chair_picture_undo_antenna_hope_amazing
+bip_39_word_underscore_2: spare_myth
+bip_39_word_underscore_3: spare_myth_term
+bip_39_word_underscore_4: spare_myth_term_blanket
+bip_39_word_underscore_5: spare_myth_term_blanket_ribbon
+bip_39_word_underscore_6: spare_myth_term_blanket_ribbon_rule
+bip_39_word_underscore_7: spare_myth_term_blanket_ribbon_rule_chair
+bip_39_word_underscore_8: spare_myth_term_blanket_ribbon_rule_chair_picture
+bip_39_word_underscore_9: spare_myth_term_blanket_ribbon_rule_chair_picture_undo
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

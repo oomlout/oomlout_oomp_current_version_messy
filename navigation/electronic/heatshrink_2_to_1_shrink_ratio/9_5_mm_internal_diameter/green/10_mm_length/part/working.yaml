@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ostrich
+bip_39_word_dash_10: ostrich-drastic-menu-creek-list-item-limb-winner-poem-problem
+bip_39_word_dash_11: ostrich-drastic-menu-creek-list-item-limb-winner-poem-problem-finger
+bip_39_word_dash_12: ostrich-drastic-menu-creek-list-item-limb-winner-poem-problem-finger-absent
+bip_39_word_dash_2: ostrich-drastic
+bip_39_word_dash_3: ostrich-drastic-menu
+bip_39_word_dash_4: ostrich-drastic-menu-creek
+bip_39_word_dash_5: ostrich-drastic-menu-creek-list
+bip_39_word_dash_6: ostrich-drastic-menu-creek-list-item
+bip_39_word_dash_7: ostrich-drastic-menu-creek-list-item-limb
+bip_39_word_dash_8: ostrich-drastic-menu-creek-list-item-limb-winner
+bip_39_word_dash_9: ostrich-drastic-menu-creek-list-item-limb-winner-poem
 bip_39_word_new_br_1: ostrich
 bip_39_word_new_br_10: ostrich<br>drastic<br>menu<br>creek<br>list<br>item<br>limb<br>winner<br>poem<br>problem
 bip_39_word_new_br_11: ostrich<br>drastic<br>menu<br>creek<br>list<br>item<br>limb<br>winner<br>poem<br>problem<br>finger
@@ -193,6 +205,18 @@ bip_39_word_space_6: ostrich drastic menu creek list item
 bip_39_word_space_7: ostrich drastic menu creek list item limb
 bip_39_word_space_8: ostrich drastic menu creek list item limb winner
 bip_39_word_space_9: ostrich drastic menu creek list item limb winner poem
+bip_39_word_underscore_1: ostrich
+bip_39_word_underscore_10: ostrich_drastic_menu_creek_list_item_limb_winner_poem_problem
+bip_39_word_underscore_11: ostrich_drastic_menu_creek_list_item_limb_winner_poem_problem_finger
+bip_39_word_underscore_12: ostrich_drastic_menu_creek_list_item_limb_winner_poem_problem_finger_absent
+bip_39_word_underscore_2: ostrich_drastic
+bip_39_word_underscore_3: ostrich_drastic_menu
+bip_39_word_underscore_4: ostrich_drastic_menu_creek
+bip_39_word_underscore_5: ostrich_drastic_menu_creek_list
+bip_39_word_underscore_6: ostrich_drastic_menu_creek_list_item
+bip_39_word_underscore_7: ostrich_drastic_menu_creek_list_item_limb
+bip_39_word_underscore_8: ostrich_drastic_menu_creek_list_item_limb_winner
+bip_39_word_underscore_9: ostrich_drastic_menu_creek_list_item_limb_winner_poem
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

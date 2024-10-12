@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | series |  
+| bip_39_word_dash_10 | series-loan-fall-pattern-total-illegal-drastic-position-chuckle-travel |  
+| bip_39_word_dash_11 | series-loan-fall-pattern-total-illegal-drastic-position-chuckle-travel-grit |  
+| bip_39_word_dash_12 | series-loan-fall-pattern-total-illegal-drastic-position-chuckle-travel-grit-about |  
+| bip_39_word_dash_2 | series-loan |  
+| bip_39_word_dash_3 | series-loan-fall |  
+| bip_39_word_dash_4 | series-loan-fall-pattern |  
+| bip_39_word_dash_5 | series-loan-fall-pattern-total |  
+| bip_39_word_dash_6 | series-loan-fall-pattern-total-illegal |  
+| bip_39_word_dash_7 | series-loan-fall-pattern-total-illegal-drastic |  
+| bip_39_word_dash_8 | series-loan-fall-pattern-total-illegal-drastic-position |  
+| bip_39_word_dash_9 | series-loan-fall-pattern-total-illegal-drastic-position-chuckle |  
 | bip_39_word_new_br_1 | series |  
 | bip_39_word_new_br_10 | series<br>loan<br>fall<br>pattern<br>total<br>illegal<br>drastic<br>position<br>chuckle<br>travel |  
 | bip_39_word_new_br_11 | series<br>loan<br>fall<br>pattern<br>total<br>illegal<br>drastic<br>position<br>chuckle<br>travel<br>grit |  
@@ -147,6 +159,18 @@ chuckle |
 | bip_39_word_space_7 | series loan fall pattern total illegal drastic |  
 | bip_39_word_space_8 | series loan fall pattern total illegal drastic position |  
 | bip_39_word_space_9 | series loan fall pattern total illegal drastic position chuckle |  
+| bip_39_word_underscore_1 | series |  
+| bip_39_word_underscore_10 | series_loan_fall_pattern_total_illegal_drastic_position_chuckle_travel |  
+| bip_39_word_underscore_11 | series_loan_fall_pattern_total_illegal_drastic_position_chuckle_travel_grit |  
+| bip_39_word_underscore_12 | series_loan_fall_pattern_total_illegal_drastic_position_chuckle_travel_grit_about |  
+| bip_39_word_underscore_2 | series_loan |  
+| bip_39_word_underscore_3 | series_loan_fall |  
+| bip_39_word_underscore_4 | series_loan_fall_pattern |  
+| bip_39_word_underscore_5 | series_loan_fall_pattern_total |  
+| bip_39_word_underscore_6 | series_loan_fall_pattern_total_illegal |  
+| bip_39_word_underscore_7 | series_loan_fall_pattern_total_illegal_drastic |  
+| bip_39_word_underscore_8 | series_loan_fall_pattern_total_illegal_drastic_position |  
+| bip_39_word_underscore_9 | series_loan_fall_pattern_total_illegal_drastic_position_chuckle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

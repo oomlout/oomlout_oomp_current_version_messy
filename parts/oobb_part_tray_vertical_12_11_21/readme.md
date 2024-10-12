@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | able |  
+| bip_39_word_dash_10 | able-film-nurse-cactus-wink-slush-cat-speed-little-donate |  
+| bip_39_word_dash_11 | able-film-nurse-cactus-wink-slush-cat-speed-little-donate-brass |  
+| bip_39_word_dash_12 | able-film-nurse-cactus-wink-slush-cat-speed-little-donate-brass-announce |  
+| bip_39_word_dash_2 | able-film |  
+| bip_39_word_dash_3 | able-film-nurse |  
+| bip_39_word_dash_4 | able-film-nurse-cactus |  
+| bip_39_word_dash_5 | able-film-nurse-cactus-wink |  
+| bip_39_word_dash_6 | able-film-nurse-cactus-wink-slush |  
+| bip_39_word_dash_7 | able-film-nurse-cactus-wink-slush-cat |  
+| bip_39_word_dash_8 | able-film-nurse-cactus-wink-slush-cat-speed |  
+| bip_39_word_dash_9 | able-film-nurse-cactus-wink-slush-cat-speed-little |  
 | bip_39_word_new_br_1 | able |  
 | bip_39_word_new_br_10 | able<br>film<br>nurse<br>cactus<br>wink<br>slush<br>cat<br>speed<br>little<br>donate |  
 | bip_39_word_new_br_11 | able<br>film<br>nurse<br>cactus<br>wink<br>slush<br>cat<br>speed<br>little<br>donate<br>brass |  
@@ -147,6 +159,18 @@ little |
 | bip_39_word_space_7 | able film nurse cactus wink slush cat |  
 | bip_39_word_space_8 | able film nurse cactus wink slush cat speed |  
 | bip_39_word_space_9 | able film nurse cactus wink slush cat speed little |  
+| bip_39_word_underscore_1 | able |  
+| bip_39_word_underscore_10 | able_film_nurse_cactus_wink_slush_cat_speed_little_donate |  
+| bip_39_word_underscore_11 | able_film_nurse_cactus_wink_slush_cat_speed_little_donate_brass |  
+| bip_39_word_underscore_12 | able_film_nurse_cactus_wink_slush_cat_speed_little_donate_brass_announce |  
+| bip_39_word_underscore_2 | able_film |  
+| bip_39_word_underscore_3 | able_film_nurse |  
+| bip_39_word_underscore_4 | able_film_nurse_cactus |  
+| bip_39_word_underscore_5 | able_film_nurse_cactus_wink |  
+| bip_39_word_underscore_6 | able_film_nurse_cactus_wink_slush |  
+| bip_39_word_underscore_7 | able_film_nurse_cactus_wink_slush_cat |  
+| bip_39_word_underscore_8 | able_film_nurse_cactus_wink_slush_cat_speed |  
+| bip_39_word_underscore_9 | able_film_nurse_cactus_wink_slush_cat_speed_little |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

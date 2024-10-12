@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | expect |  
+| bip_39_word_dash_10 | expect-like-board-jungle-someone-pink-december-liquid-cable-kick |  
+| bip_39_word_dash_11 | expect-like-board-jungle-someone-pink-december-liquid-cable-kick-sentence |  
+| bip_39_word_dash_12 | expect-like-board-jungle-someone-pink-december-liquid-cable-kick-sentence-aerobic |  
+| bip_39_word_dash_2 | expect-like |  
+| bip_39_word_dash_3 | expect-like-board |  
+| bip_39_word_dash_4 | expect-like-board-jungle |  
+| bip_39_word_dash_5 | expect-like-board-jungle-someone |  
+| bip_39_word_dash_6 | expect-like-board-jungle-someone-pink |  
+| bip_39_word_dash_7 | expect-like-board-jungle-someone-pink-december |  
+| bip_39_word_dash_8 | expect-like-board-jungle-someone-pink-december-liquid |  
+| bip_39_word_dash_9 | expect-like-board-jungle-someone-pink-december-liquid-cable |  
 | bip_39_word_new_br_1 | expect |  
 | bip_39_word_new_br_10 | expect<br>like<br>board<br>jungle<br>someone<br>pink<br>december<br>liquid<br>cable<br>kick |  
 | bip_39_word_new_br_11 | expect<br>like<br>board<br>jungle<br>someone<br>pink<br>december<br>liquid<br>cable<br>kick<br>sentence |  
@@ -147,6 +159,18 @@ cable |
 | bip_39_word_space_7 | expect like board jungle someone pink december |  
 | bip_39_word_space_8 | expect like board jungle someone pink december liquid |  
 | bip_39_word_space_9 | expect like board jungle someone pink december liquid cable |  
+| bip_39_word_underscore_1 | expect |  
+| bip_39_word_underscore_10 | expect_like_board_jungle_someone_pink_december_liquid_cable_kick |  
+| bip_39_word_underscore_11 | expect_like_board_jungle_someone_pink_december_liquid_cable_kick_sentence |  
+| bip_39_word_underscore_12 | expect_like_board_jungle_someone_pink_december_liquid_cable_kick_sentence_aerobic |  
+| bip_39_word_underscore_2 | expect_like |  
+| bip_39_word_underscore_3 | expect_like_board |  
+| bip_39_word_underscore_4 | expect_like_board_jungle |  
+| bip_39_word_underscore_5 | expect_like_board_jungle_someone |  
+| bip_39_word_underscore_6 | expect_like_board_jungle_someone_pink |  
+| bip_39_word_underscore_7 | expect_like_board_jungle_someone_pink_december |  
+| bip_39_word_underscore_8 | expect_like_board_jungle_someone_pink_december_liquid |  
+| bip_39_word_underscore_9 | expect_like_board_jungle_someone_pink_december_liquid_cable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

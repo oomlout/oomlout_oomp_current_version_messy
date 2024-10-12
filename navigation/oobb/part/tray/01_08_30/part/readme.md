@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | belt |  
+| bip_39_word_dash_10 | belt-impulse-choose-stone-lumber-soul-gloom-symbol-vacant-merge |  
+| bip_39_word_dash_11 | belt-impulse-choose-stone-lumber-soul-gloom-symbol-vacant-merge-sibling |  
+| bip_39_word_dash_12 | belt-impulse-choose-stone-lumber-soul-gloom-symbol-vacant-merge-sibling-arrange |  
+| bip_39_word_dash_2 | belt-impulse |  
+| bip_39_word_dash_3 | belt-impulse-choose |  
+| bip_39_word_dash_4 | belt-impulse-choose-stone |  
+| bip_39_word_dash_5 | belt-impulse-choose-stone-lumber |  
+| bip_39_word_dash_6 | belt-impulse-choose-stone-lumber-soul |  
+| bip_39_word_dash_7 | belt-impulse-choose-stone-lumber-soul-gloom |  
+| bip_39_word_dash_8 | belt-impulse-choose-stone-lumber-soul-gloom-symbol |  
+| bip_39_word_dash_9 | belt-impulse-choose-stone-lumber-soul-gloom-symbol-vacant |  
 | bip_39_word_new_br_1 | belt |  
 | bip_39_word_new_br_10 | belt<br>impulse<br>choose<br>stone<br>lumber<br>soul<br>gloom<br>symbol<br>vacant<br>merge |  
 | bip_39_word_new_br_11 | belt<br>impulse<br>choose<br>stone<br>lumber<br>soul<br>gloom<br>symbol<br>vacant<br>merge<br>sibling |  
@@ -147,6 +159,18 @@ vacant |
 | bip_39_word_space_7 | belt impulse choose stone lumber soul gloom |  
 | bip_39_word_space_8 | belt impulse choose stone lumber soul gloom symbol |  
 | bip_39_word_space_9 | belt impulse choose stone lumber soul gloom symbol vacant |  
+| bip_39_word_underscore_1 | belt |  
+| bip_39_word_underscore_10 | belt_impulse_choose_stone_lumber_soul_gloom_symbol_vacant_merge |  
+| bip_39_word_underscore_11 | belt_impulse_choose_stone_lumber_soul_gloom_symbol_vacant_merge_sibling |  
+| bip_39_word_underscore_12 | belt_impulse_choose_stone_lumber_soul_gloom_symbol_vacant_merge_sibling_arrange |  
+| bip_39_word_underscore_2 | belt_impulse |  
+| bip_39_word_underscore_3 | belt_impulse_choose |  
+| bip_39_word_underscore_4 | belt_impulse_choose_stone |  
+| bip_39_word_underscore_5 | belt_impulse_choose_stone_lumber |  
+| bip_39_word_underscore_6 | belt_impulse_choose_stone_lumber_soul |  
+| bip_39_word_underscore_7 | belt_impulse_choose_stone_lumber_soul_gloom |  
+| bip_39_word_underscore_8 | belt_impulse_choose_stone_lumber_soul_gloom_symbol |  
+| bip_39_word_underscore_9 | belt_impulse_choose_stone_lumber_soul_gloom_symbol_vacant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

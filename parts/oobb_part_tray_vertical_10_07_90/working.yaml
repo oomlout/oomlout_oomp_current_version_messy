@@ -1,3 +1,15 @@
+bip_39_word_dash_1: actress
+bip_39_word_dash_10: actress-method-ill-speak-middle-make-bargain-glide-crush-critic
+bip_39_word_dash_11: actress-method-ill-speak-middle-make-bargain-glide-crush-critic-rival
+bip_39_word_dash_12: actress-method-ill-speak-middle-make-bargain-glide-crush-critic-rival-acid
+bip_39_word_dash_2: actress-method
+bip_39_word_dash_3: actress-method-ill
+bip_39_word_dash_4: actress-method-ill-speak
+bip_39_word_dash_5: actress-method-ill-speak-middle
+bip_39_word_dash_6: actress-method-ill-speak-middle-make
+bip_39_word_dash_7: actress-method-ill-speak-middle-make-bargain
+bip_39_word_dash_8: actress-method-ill-speak-middle-make-bargain-glide
+bip_39_word_dash_9: actress-method-ill-speak-middle-make-bargain-glide-crush
 bip_39_word_new_br_1: actress
 bip_39_word_new_br_10: actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic
 bip_39_word_new_br_11: actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic<br>rival
@@ -193,6 +205,18 @@ bip_39_word_space_6: actress method ill speak middle make
 bip_39_word_space_7: actress method ill speak middle make bargain
 bip_39_word_space_8: actress method ill speak middle make bargain glide
 bip_39_word_space_9: actress method ill speak middle make bargain glide crush
+bip_39_word_underscore_1: actress
+bip_39_word_underscore_10: actress_method_ill_speak_middle_make_bargain_glide_crush_critic
+bip_39_word_underscore_11: actress_method_ill_speak_middle_make_bargain_glide_crush_critic_rival
+bip_39_word_underscore_12: actress_method_ill_speak_middle_make_bargain_glide_crush_critic_rival_acid
+bip_39_word_underscore_2: actress_method
+bip_39_word_underscore_3: actress_method_ill
+bip_39_word_underscore_4: actress_method_ill_speak
+bip_39_word_underscore_5: actress_method_ill_speak_middle
+bip_39_word_underscore_6: actress_method_ill_speak_middle_make
+bip_39_word_underscore_7: actress_method_ill_speak_middle_make_bargain
+bip_39_word_underscore_8: actress_method_ill_speak_middle_make_bargain_glide
+bip_39_word_underscore_9: actress_method_ill_speak_middle_make_bargain_glide_crush
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

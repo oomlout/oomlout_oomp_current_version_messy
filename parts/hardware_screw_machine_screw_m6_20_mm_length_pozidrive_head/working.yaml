@@ -1,3 +1,15 @@
+bip_39_word_dash_1: say
+bip_39_word_dash_10: say-slender-scrub-ostrich-dream-vast-slam-pet-bridge-hen
+bip_39_word_dash_11: say-slender-scrub-ostrich-dream-vast-slam-pet-bridge-hen-script
+bip_39_word_dash_12: say-slender-scrub-ostrich-dream-vast-slam-pet-bridge-hen-script-address
+bip_39_word_dash_2: say-slender
+bip_39_word_dash_3: say-slender-scrub
+bip_39_word_dash_4: say-slender-scrub-ostrich
+bip_39_word_dash_5: say-slender-scrub-ostrich-dream
+bip_39_word_dash_6: say-slender-scrub-ostrich-dream-vast
+bip_39_word_dash_7: say-slender-scrub-ostrich-dream-vast-slam
+bip_39_word_dash_8: say-slender-scrub-ostrich-dream-vast-slam-pet
+bip_39_word_dash_9: say-slender-scrub-ostrich-dream-vast-slam-pet-bridge
 bip_39_word_new_br_1: say
 bip_39_word_new_br_10: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen
 bip_39_word_new_br_11: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen<br>script
@@ -192,6 +204,18 @@ bip_39_word_space_6: say slender scrub ostrich dream vast
 bip_39_word_space_7: say slender scrub ostrich dream vast slam
 bip_39_word_space_8: say slender scrub ostrich dream vast slam pet
 bip_39_word_space_9: say slender scrub ostrich dream vast slam pet bridge
+bip_39_word_underscore_1: say
+bip_39_word_underscore_10: say_slender_scrub_ostrich_dream_vast_slam_pet_bridge_hen
+bip_39_word_underscore_11: say_slender_scrub_ostrich_dream_vast_slam_pet_bridge_hen_script
+bip_39_word_underscore_12: say_slender_scrub_ostrich_dream_vast_slam_pet_bridge_hen_script_address
+bip_39_word_underscore_2: say_slender
+bip_39_word_underscore_3: say_slender_scrub
+bip_39_word_underscore_4: say_slender_scrub_ostrich
+bip_39_word_underscore_5: say_slender_scrub_ostrich_dream
+bip_39_word_underscore_6: say_slender_scrub_ostrich_dream_vast
+bip_39_word_underscore_7: say_slender_scrub_ostrich_dream_vast_slam
+bip_39_word_underscore_8: say_slender_scrub_ostrich_dream_vast_slam_pet
+bip_39_word_underscore_9: say_slender_scrub_ostrich_dream_vast_slam_pet_bridge
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

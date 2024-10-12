@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shop
+bip_39_word_dash_10: shop-purchase-twice-rely-crime-exclude-vocal-never-prepare-barely
+bip_39_word_dash_11: shop-purchase-twice-rely-crime-exclude-vocal-never-prepare-barely-heart
+bip_39_word_dash_12: shop-purchase-twice-rely-crime-exclude-vocal-never-prepare-barely-heart-anxiety
+bip_39_word_dash_2: shop-purchase
+bip_39_word_dash_3: shop-purchase-twice
+bip_39_word_dash_4: shop-purchase-twice-rely
+bip_39_word_dash_5: shop-purchase-twice-rely-crime
+bip_39_word_dash_6: shop-purchase-twice-rely-crime-exclude
+bip_39_word_dash_7: shop-purchase-twice-rely-crime-exclude-vocal
+bip_39_word_dash_8: shop-purchase-twice-rely-crime-exclude-vocal-never
+bip_39_word_dash_9: shop-purchase-twice-rely-crime-exclude-vocal-never-prepare
 bip_39_word_new_br_1: shop
 bip_39_word_new_br_10: shop<br>purchase<br>twice<br>rely<br>crime<br>exclude<br>vocal<br>never<br>prepare<br>barely
 bip_39_word_new_br_11: shop<br>purchase<br>twice<br>rely<br>crime<br>exclude<br>vocal<br>never<br>prepare<br>barely<br>heart
@@ -193,6 +205,18 @@ bip_39_word_space_6: shop purchase twice rely crime exclude
 bip_39_word_space_7: shop purchase twice rely crime exclude vocal
 bip_39_word_space_8: shop purchase twice rely crime exclude vocal never
 bip_39_word_space_9: shop purchase twice rely crime exclude vocal never prepare
+bip_39_word_underscore_1: shop
+bip_39_word_underscore_10: shop_purchase_twice_rely_crime_exclude_vocal_never_prepare_barely
+bip_39_word_underscore_11: shop_purchase_twice_rely_crime_exclude_vocal_never_prepare_barely_heart
+bip_39_word_underscore_12: shop_purchase_twice_rely_crime_exclude_vocal_never_prepare_barely_heart_anxiety
+bip_39_word_underscore_2: shop_purchase
+bip_39_word_underscore_3: shop_purchase_twice
+bip_39_word_underscore_4: shop_purchase_twice_rely
+bip_39_word_underscore_5: shop_purchase_twice_rely_crime
+bip_39_word_underscore_6: shop_purchase_twice_rely_crime_exclude
+bip_39_word_underscore_7: shop_purchase_twice_rely_crime_exclude_vocal
+bip_39_word_underscore_8: shop_purchase_twice_rely_crime_exclude_vocal_never
+bip_39_word_underscore_9: shop_purchase_twice_rely_crime_exclude_vocal_never_prepare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

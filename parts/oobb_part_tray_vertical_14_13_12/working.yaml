@@ -1,3 +1,14 @@
+bip_39_word_dash_1: head
+bip_39_word_dash_10: head-fantasy-provide-question-use-security-exile-win-pottery-green
+bip_39_word_dash_11: head-fantasy-provide-question-use-security-exile-win-pottery-green-jacket
+bip_39_word_dash_2: head-fantasy
+bip_39_word_dash_3: head-fantasy-provide
+bip_39_word_dash_4: head-fantasy-provide-question
+bip_39_word_dash_5: head-fantasy-provide-question-use
+bip_39_word_dash_6: head-fantasy-provide-question-use-security
+bip_39_word_dash_7: head-fantasy-provide-question-use-security-exile
+bip_39_word_dash_8: head-fantasy-provide-question-use-security-exile-win
+bip_39_word_dash_9: head-fantasy-provide-question-use-security-exile-win-pottery
 bip_39_word_new_br_1: head
 bip_39_word_new_br_10: head<br>fantasy<br>provide<br>question<br>use<br>security<br>exile<br>win<br>pottery<br>green
 bip_39_word_new_br_11: head<br>fantasy<br>provide<br>question<br>use<br>security<br>exile<br>win<br>pottery<br>green<br>jacket
@@ -166,6 +177,17 @@ bip_39_word_space_6: head fantasy provide question use security
 bip_39_word_space_7: head fantasy provide question use security exile
 bip_39_word_space_8: head fantasy provide question use security exile win
 bip_39_word_space_9: head fantasy provide question use security exile win pottery
+bip_39_word_underscore_1: head
+bip_39_word_underscore_10: head_fantasy_provide_question_use_security_exile_win_pottery_green
+bip_39_word_underscore_11: head_fantasy_provide_question_use_security_exile_win_pottery_green_jacket
+bip_39_word_underscore_2: head_fantasy
+bip_39_word_underscore_3: head_fantasy_provide
+bip_39_word_underscore_4: head_fantasy_provide_question
+bip_39_word_underscore_5: head_fantasy_provide_question_use
+bip_39_word_underscore_6: head_fantasy_provide_question_use_security
+bip_39_word_underscore_7: head_fantasy_provide_question_use_security_exile
+bip_39_word_underscore_8: head_fantasy_provide_question_use_security_exile_win
+bip_39_word_underscore_9: head_fantasy_provide_question_use_security_exile_win_pottery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

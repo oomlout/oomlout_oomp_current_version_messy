@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lottery |  
+| bip_39_word_dash_10 | lottery-practice-quit-odor-whip-test-loop-crazy-shell-regular |  
+| bip_39_word_dash_11 | lottery-practice-quit-odor-whip-test-loop-crazy-shell-regular-struggle |  
+| bip_39_word_dash_12 | lottery-practice-quit-odor-whip-test-loop-crazy-shell-regular-struggle-acoustic |  
+| bip_39_word_dash_2 | lottery-practice |  
+| bip_39_word_dash_3 | lottery-practice-quit |  
+| bip_39_word_dash_4 | lottery-practice-quit-odor |  
+| bip_39_word_dash_5 | lottery-practice-quit-odor-whip |  
+| bip_39_word_dash_6 | lottery-practice-quit-odor-whip-test |  
+| bip_39_word_dash_7 | lottery-practice-quit-odor-whip-test-loop |  
+| bip_39_word_dash_8 | lottery-practice-quit-odor-whip-test-loop-crazy |  
+| bip_39_word_dash_9 | lottery-practice-quit-odor-whip-test-loop-crazy-shell |  
 | bip_39_word_new_br_1 | lottery |  
 | bip_39_word_new_br_10 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy<br>shell<br>regular |  
 | bip_39_word_new_br_11 | lottery<br>practice<br>quit<br>odor<br>whip<br>test<br>loop<br>crazy<br>shell<br>regular<br>struggle |  
@@ -147,6 +159,18 @@ shell |
 | bip_39_word_space_7 | lottery practice quit odor whip test loop |  
 | bip_39_word_space_8 | lottery practice quit odor whip test loop crazy |  
 | bip_39_word_space_9 | lottery practice quit odor whip test loop crazy shell |  
+| bip_39_word_underscore_1 | lottery |  
+| bip_39_word_underscore_10 | lottery_practice_quit_odor_whip_test_loop_crazy_shell_regular |  
+| bip_39_word_underscore_11 | lottery_practice_quit_odor_whip_test_loop_crazy_shell_regular_struggle |  
+| bip_39_word_underscore_12 | lottery_practice_quit_odor_whip_test_loop_crazy_shell_regular_struggle_acoustic |  
+| bip_39_word_underscore_2 | lottery_practice |  
+| bip_39_word_underscore_3 | lottery_practice_quit |  
+| bip_39_word_underscore_4 | lottery_practice_quit_odor |  
+| bip_39_word_underscore_5 | lottery_practice_quit_odor_whip |  
+| bip_39_word_underscore_6 | lottery_practice_quit_odor_whip_test |  
+| bip_39_word_underscore_7 | lottery_practice_quit_odor_whip_test_loop |  
+| bip_39_word_underscore_8 | lottery_practice_quit_odor_whip_test_loop_crazy |  
+| bip_39_word_underscore_9 | lottery_practice_quit_odor_whip_test_loop_crazy_shell |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

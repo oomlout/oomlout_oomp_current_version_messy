@@ -1,3 +1,15 @@
+bip_39_word_dash_1: powder
+bip_39_word_dash_10: powder-cup-enable-shield-ordinary-fox-rule-floor-clerk-virus
+bip_39_word_dash_11: powder-cup-enable-shield-ordinary-fox-rule-floor-clerk-virus-ten
+bip_39_word_dash_12: powder-cup-enable-shield-ordinary-fox-rule-floor-clerk-virus-ten-among
+bip_39_word_dash_2: powder-cup
+bip_39_word_dash_3: powder-cup-enable
+bip_39_word_dash_4: powder-cup-enable-shield
+bip_39_word_dash_5: powder-cup-enable-shield-ordinary
+bip_39_word_dash_6: powder-cup-enable-shield-ordinary-fox
+bip_39_word_dash_7: powder-cup-enable-shield-ordinary-fox-rule
+bip_39_word_dash_8: powder-cup-enable-shield-ordinary-fox-rule-floor
+bip_39_word_dash_9: powder-cup-enable-shield-ordinary-fox-rule-floor-clerk
 bip_39_word_new_br_1: powder
 bip_39_word_new_br_10: powder<br>cup<br>enable<br>shield<br>ordinary<br>fox<br>rule<br>floor<br>clerk<br>virus
 bip_39_word_new_br_11: powder<br>cup<br>enable<br>shield<br>ordinary<br>fox<br>rule<br>floor<br>clerk<br>virus<br>ten
@@ -193,6 +205,18 @@ bip_39_word_space_6: powder cup enable shield ordinary fox
 bip_39_word_space_7: powder cup enable shield ordinary fox rule
 bip_39_word_space_8: powder cup enable shield ordinary fox rule floor
 bip_39_word_space_9: powder cup enable shield ordinary fox rule floor clerk
+bip_39_word_underscore_1: powder
+bip_39_word_underscore_10: powder_cup_enable_shield_ordinary_fox_rule_floor_clerk_virus
+bip_39_word_underscore_11: powder_cup_enable_shield_ordinary_fox_rule_floor_clerk_virus_ten
+bip_39_word_underscore_12: powder_cup_enable_shield_ordinary_fox_rule_floor_clerk_virus_ten_among
+bip_39_word_underscore_2: powder_cup
+bip_39_word_underscore_3: powder_cup_enable
+bip_39_word_underscore_4: powder_cup_enable_shield
+bip_39_word_underscore_5: powder_cup_enable_shield_ordinary
+bip_39_word_underscore_6: powder_cup_enable_shield_ordinary_fox
+bip_39_word_underscore_7: powder_cup_enable_shield_ordinary_fox_rule
+bip_39_word_underscore_8: powder_cup_enable_shield_ordinary_fox_rule_floor
+bip_39_word_underscore_9: powder_cup_enable_shield_ordinary_fox_rule_floor_clerk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | beauty |  
+| bip_39_word_dash_10 | beauty-frost-floor-kiss-warm-marriage-disorder-stool-only-moment |  
+| bip_39_word_dash_11 | beauty-frost-floor-kiss-warm-marriage-disorder-stool-only-moment-grass |  
+| bip_39_word_dash_12 | beauty-frost-floor-kiss-warm-marriage-disorder-stool-only-moment-grass-apple |  
+| bip_39_word_dash_2 | beauty-frost |  
+| bip_39_word_dash_3 | beauty-frost-floor |  
+| bip_39_word_dash_4 | beauty-frost-floor-kiss |  
+| bip_39_word_dash_5 | beauty-frost-floor-kiss-warm |  
+| bip_39_word_dash_6 | beauty-frost-floor-kiss-warm-marriage |  
+| bip_39_word_dash_7 | beauty-frost-floor-kiss-warm-marriage-disorder |  
+| bip_39_word_dash_8 | beauty-frost-floor-kiss-warm-marriage-disorder-stool |  
+| bip_39_word_dash_9 | beauty-frost-floor-kiss-warm-marriage-disorder-stool-only |  
 | bip_39_word_new_br_1 | beauty |  
 | bip_39_word_new_br_10 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool<br>only<br>moment |  
 | bip_39_word_new_br_11 | beauty<br>frost<br>floor<br>kiss<br>warm<br>marriage<br>disorder<br>stool<br>only<br>moment<br>grass |  
@@ -147,6 +159,18 @@ only |
 | bip_39_word_space_7 | beauty frost floor kiss warm marriage disorder |  
 | bip_39_word_space_8 | beauty frost floor kiss warm marriage disorder stool |  
 | bip_39_word_space_9 | beauty frost floor kiss warm marriage disorder stool only |  
+| bip_39_word_underscore_1 | beauty |  
+| bip_39_word_underscore_10 | beauty_frost_floor_kiss_warm_marriage_disorder_stool_only_moment |  
+| bip_39_word_underscore_11 | beauty_frost_floor_kiss_warm_marriage_disorder_stool_only_moment_grass |  
+| bip_39_word_underscore_12 | beauty_frost_floor_kiss_warm_marriage_disorder_stool_only_moment_grass_apple |  
+| bip_39_word_underscore_2 | beauty_frost |  
+| bip_39_word_underscore_3 | beauty_frost_floor |  
+| bip_39_word_underscore_4 | beauty_frost_floor_kiss |  
+| bip_39_word_underscore_5 | beauty_frost_floor_kiss_warm |  
+| bip_39_word_underscore_6 | beauty_frost_floor_kiss_warm_marriage |  
+| bip_39_word_underscore_7 | beauty_frost_floor_kiss_warm_marriage_disorder |  
+| bip_39_word_underscore_8 | beauty_frost_floor_kiss_warm_marriage_disorder_stool |  
+| bip_39_word_underscore_9 | beauty_frost_floor_kiss_warm_marriage_disorder_stool_only |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

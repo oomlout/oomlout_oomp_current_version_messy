@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | come |  
+| bip_39_word_dash_10 | come-sail-leisure-unable-material-peasant-muffin-sun-common-benefit |  
+| bip_39_word_dash_11 | come-sail-leisure-unable-material-peasant-muffin-sun-common-benefit-ancient |  
+| bip_39_word_dash_12 | come-sail-leisure-unable-material-peasant-muffin-sun-common-benefit-ancient-auto |  
+| bip_39_word_dash_2 | come-sail |  
+| bip_39_word_dash_3 | come-sail-leisure |  
+| bip_39_word_dash_4 | come-sail-leisure-unable |  
+| bip_39_word_dash_5 | come-sail-leisure-unable-material |  
+| bip_39_word_dash_6 | come-sail-leisure-unable-material-peasant |  
+| bip_39_word_dash_7 | come-sail-leisure-unable-material-peasant-muffin |  
+| bip_39_word_dash_8 | come-sail-leisure-unable-material-peasant-muffin-sun |  
+| bip_39_word_dash_9 | come-sail-leisure-unable-material-peasant-muffin-sun-common |  
 | bip_39_word_new_br_1 | come |  
 | bip_39_word_new_br_10 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun<br>common<br>benefit |  
 | bip_39_word_new_br_11 | come<br>sail<br>leisure<br>unable<br>material<br>peasant<br>muffin<br>sun<br>common<br>benefit<br>ancient |  
@@ -147,6 +159,18 @@ common |
 | bip_39_word_space_7 | come sail leisure unable material peasant muffin |  
 | bip_39_word_space_8 | come sail leisure unable material peasant muffin sun |  
 | bip_39_word_space_9 | come sail leisure unable material peasant muffin sun common |  
+| bip_39_word_underscore_1 | come |  
+| bip_39_word_underscore_10 | come_sail_leisure_unable_material_peasant_muffin_sun_common_benefit |  
+| bip_39_word_underscore_11 | come_sail_leisure_unable_material_peasant_muffin_sun_common_benefit_ancient |  
+| bip_39_word_underscore_12 | come_sail_leisure_unable_material_peasant_muffin_sun_common_benefit_ancient_auto |  
+| bip_39_word_underscore_2 | come_sail |  
+| bip_39_word_underscore_3 | come_sail_leisure |  
+| bip_39_word_underscore_4 | come_sail_leisure_unable |  
+| bip_39_word_underscore_5 | come_sail_leisure_unable_material |  
+| bip_39_word_underscore_6 | come_sail_leisure_unable_material_peasant |  
+| bip_39_word_underscore_7 | come_sail_leisure_unable_material_peasant_muffin |  
+| bip_39_word_underscore_8 | come_sail_leisure_unable_material_peasant_muffin_sun |  
+| bip_39_word_underscore_9 | come_sail_leisure_unable_material_peasant_muffin_sun_common |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

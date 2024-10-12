@@ -1,3 +1,15 @@
+bip_39_word_dash_1: umbrella
+bip_39_word_dash_10: umbrella-scheme-swing-hill-happy-when-when-find-discover-fog
+bip_39_word_dash_11: umbrella-scheme-swing-hill-happy-when-when-find-discover-fog-connect
+bip_39_word_dash_12: umbrella-scheme-swing-hill-happy-when-when-find-discover-fog-connect-advance
+bip_39_word_dash_2: umbrella-scheme
+bip_39_word_dash_3: umbrella-scheme-swing
+bip_39_word_dash_4: umbrella-scheme-swing-hill
+bip_39_word_dash_5: umbrella-scheme-swing-hill-happy
+bip_39_word_dash_6: umbrella-scheme-swing-hill-happy-when
+bip_39_word_dash_7: umbrella-scheme-swing-hill-happy-when-when
+bip_39_word_dash_8: umbrella-scheme-swing-hill-happy-when-when-find
+bip_39_word_dash_9: umbrella-scheme-swing-hill-happy-when-when-find-discover
 bip_39_word_new_br_1: umbrella
 bip_39_word_new_br_10: umbrella<br>scheme<br>swing<br>hill<br>happy<br>when<br>when<br>find<br>discover<br>fog
 bip_39_word_new_br_11: umbrella<br>scheme<br>swing<br>hill<br>happy<br>when<br>when<br>find<br>discover<br>fog<br>connect
@@ -193,6 +205,18 @@ bip_39_word_space_6: umbrella scheme swing hill happy when
 bip_39_word_space_7: umbrella scheme swing hill happy when when
 bip_39_word_space_8: umbrella scheme swing hill happy when when find
 bip_39_word_space_9: umbrella scheme swing hill happy when when find discover
+bip_39_word_underscore_1: umbrella
+bip_39_word_underscore_10: umbrella_scheme_swing_hill_happy_when_when_find_discover_fog
+bip_39_word_underscore_11: umbrella_scheme_swing_hill_happy_when_when_find_discover_fog_connect
+bip_39_word_underscore_12: umbrella_scheme_swing_hill_happy_when_when_find_discover_fog_connect_advance
+bip_39_word_underscore_2: umbrella_scheme
+bip_39_word_underscore_3: umbrella_scheme_swing
+bip_39_word_underscore_4: umbrella_scheme_swing_hill
+bip_39_word_underscore_5: umbrella_scheme_swing_hill_happy
+bip_39_word_underscore_6: umbrella_scheme_swing_hill_happy_when
+bip_39_word_underscore_7: umbrella_scheme_swing_hill_happy_when_when
+bip_39_word_underscore_8: umbrella_scheme_swing_hill_happy_when_when_find
+bip_39_word_underscore_9: umbrella_scheme_swing_hill_happy_when_when_find_discover
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

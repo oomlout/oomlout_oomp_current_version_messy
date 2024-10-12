@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | panda |  
+| bip_39_word_dash_10 | panda-physical-balcony-paper-maze-code-yard-valid-endorse-eager |  
+| bip_39_word_dash_11 | panda-physical-balcony-paper-maze-code-yard-valid-endorse-eager-ritual |  
+| bip_39_word_dash_12 | panda-physical-balcony-paper-maze-code-yard-valid-endorse-eager-ritual-arena |  
+| bip_39_word_dash_2 | panda-physical |  
+| bip_39_word_dash_3 | panda-physical-balcony |  
+| bip_39_word_dash_4 | panda-physical-balcony-paper |  
+| bip_39_word_dash_5 | panda-physical-balcony-paper-maze |  
+| bip_39_word_dash_6 | panda-physical-balcony-paper-maze-code |  
+| bip_39_word_dash_7 | panda-physical-balcony-paper-maze-code-yard |  
+| bip_39_word_dash_8 | panda-physical-balcony-paper-maze-code-yard-valid |  
+| bip_39_word_dash_9 | panda-physical-balcony-paper-maze-code-yard-valid-endorse |  
 | bip_39_word_new_br_1 | panda |  
 | bip_39_word_new_br_10 | panda<br>physical<br>balcony<br>paper<br>maze<br>code<br>yard<br>valid<br>endorse<br>eager |  
 | bip_39_word_new_br_11 | panda<br>physical<br>balcony<br>paper<br>maze<br>code<br>yard<br>valid<br>endorse<br>eager<br>ritual |  
@@ -147,6 +159,18 @@ endorse |
 | bip_39_word_space_7 | panda physical balcony paper maze code yard |  
 | bip_39_word_space_8 | panda physical balcony paper maze code yard valid |  
 | bip_39_word_space_9 | panda physical balcony paper maze code yard valid endorse |  
+| bip_39_word_underscore_1 | panda |  
+| bip_39_word_underscore_10 | panda_physical_balcony_paper_maze_code_yard_valid_endorse_eager |  
+| bip_39_word_underscore_11 | panda_physical_balcony_paper_maze_code_yard_valid_endorse_eager_ritual |  
+| bip_39_word_underscore_12 | panda_physical_balcony_paper_maze_code_yard_valid_endorse_eager_ritual_arena |  
+| bip_39_word_underscore_2 | panda_physical |  
+| bip_39_word_underscore_3 | panda_physical_balcony |  
+| bip_39_word_underscore_4 | panda_physical_balcony_paper |  
+| bip_39_word_underscore_5 | panda_physical_balcony_paper_maze |  
+| bip_39_word_underscore_6 | panda_physical_balcony_paper_maze_code |  
+| bip_39_word_underscore_7 | panda_physical_balcony_paper_maze_code_yard |  
+| bip_39_word_underscore_8 | panda_physical_balcony_paper_maze_code_yard_valid |  
+| bip_39_word_underscore_9 | panda_physical_balcony_paper_maze_code_yard_valid_endorse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

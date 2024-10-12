@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chef |  
+| bip_39_word_dash_10 | chef-slam-area-festival-wire-glass-elite-spawn-diagram-sorry |  
+| bip_39_word_dash_11 | chef-slam-area-festival-wire-glass-elite-spawn-diagram-sorry-copper |  
+| bip_39_word_dash_12 | chef-slam-area-festival-wire-glass-elite-spawn-diagram-sorry-copper-almost |  
+| bip_39_word_dash_2 | chef-slam |  
+| bip_39_word_dash_3 | chef-slam-area |  
+| bip_39_word_dash_4 | chef-slam-area-festival |  
+| bip_39_word_dash_5 | chef-slam-area-festival-wire |  
+| bip_39_word_dash_6 | chef-slam-area-festival-wire-glass |  
+| bip_39_word_dash_7 | chef-slam-area-festival-wire-glass-elite |  
+| bip_39_word_dash_8 | chef-slam-area-festival-wire-glass-elite-spawn |  
+| bip_39_word_dash_9 | chef-slam-area-festival-wire-glass-elite-spawn-diagram |  
 | bip_39_word_new_br_1 | chef |  
 | bip_39_word_new_br_10 | chef<br>slam<br>area<br>festival<br>wire<br>glass<br>elite<br>spawn<br>diagram<br>sorry |  
 | bip_39_word_new_br_11 | chef<br>slam<br>area<br>festival<br>wire<br>glass<br>elite<br>spawn<br>diagram<br>sorry<br>copper |  
@@ -147,6 +159,18 @@ diagram |
 | bip_39_word_space_7 | chef slam area festival wire glass elite |  
 | bip_39_word_space_8 | chef slam area festival wire glass elite spawn |  
 | bip_39_word_space_9 | chef slam area festival wire glass elite spawn diagram |  
+| bip_39_word_underscore_1 | chef |  
+| bip_39_word_underscore_10 | chef_slam_area_festival_wire_glass_elite_spawn_diagram_sorry |  
+| bip_39_word_underscore_11 | chef_slam_area_festival_wire_glass_elite_spawn_diagram_sorry_copper |  
+| bip_39_word_underscore_12 | chef_slam_area_festival_wire_glass_elite_spawn_diagram_sorry_copper_almost |  
+| bip_39_word_underscore_2 | chef_slam |  
+| bip_39_word_underscore_3 | chef_slam_area |  
+| bip_39_word_underscore_4 | chef_slam_area_festival |  
+| bip_39_word_underscore_5 | chef_slam_area_festival_wire |  
+| bip_39_word_underscore_6 | chef_slam_area_festival_wire_glass |  
+| bip_39_word_underscore_7 | chef_slam_area_festival_wire_glass_elite |  
+| bip_39_word_underscore_8 | chef_slam_area_festival_wire_glass_elite_spawn |  
+| bip_39_word_underscore_9 | chef_slam_area_festival_wire_glass_elite_spawn_diagram |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

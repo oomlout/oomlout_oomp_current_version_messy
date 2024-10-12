@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bus
+bip_39_word_dash_10: bus-budget-opera-raise-above-ugly-tooth-later-unlock-nuclear
+bip_39_word_dash_11: bus-budget-opera-raise-above-ugly-tooth-later-unlock-nuclear-actress
+bip_39_word_dash_12: bus-budget-opera-raise-above-ugly-tooth-later-unlock-nuclear-actress-age
+bip_39_word_dash_2: bus-budget
+bip_39_word_dash_3: bus-budget-opera
+bip_39_word_dash_4: bus-budget-opera-raise
+bip_39_word_dash_5: bus-budget-opera-raise-above
+bip_39_word_dash_6: bus-budget-opera-raise-above-ugly
+bip_39_word_dash_7: bus-budget-opera-raise-above-ugly-tooth
+bip_39_word_dash_8: bus-budget-opera-raise-above-ugly-tooth-later
+bip_39_word_dash_9: bus-budget-opera-raise-above-ugly-tooth-later-unlock
 bip_39_word_new_br_1: bus
 bip_39_word_new_br_10: bus<br>budget<br>opera<br>raise<br>above<br>ugly<br>tooth<br>later<br>unlock<br>nuclear
 bip_39_word_new_br_11: bus<br>budget<br>opera<br>raise<br>above<br>ugly<br>tooth<br>later<br>unlock<br>nuclear<br>actress
@@ -193,6 +205,18 @@ bip_39_word_space_6: bus budget opera raise above ugly
 bip_39_word_space_7: bus budget opera raise above ugly tooth
 bip_39_word_space_8: bus budget opera raise above ugly tooth later
 bip_39_word_space_9: bus budget opera raise above ugly tooth later unlock
+bip_39_word_underscore_1: bus
+bip_39_word_underscore_10: bus_budget_opera_raise_above_ugly_tooth_later_unlock_nuclear
+bip_39_word_underscore_11: bus_budget_opera_raise_above_ugly_tooth_later_unlock_nuclear_actress
+bip_39_word_underscore_12: bus_budget_opera_raise_above_ugly_tooth_later_unlock_nuclear_actress_age
+bip_39_word_underscore_2: bus_budget
+bip_39_word_underscore_3: bus_budget_opera
+bip_39_word_underscore_4: bus_budget_opera_raise
+bip_39_word_underscore_5: bus_budget_opera_raise_above
+bip_39_word_underscore_6: bus_budget_opera_raise_above_ugly
+bip_39_word_underscore_7: bus_budget_opera_raise_above_ugly_tooth
+bip_39_word_underscore_8: bus_budget_opera_raise_above_ugly_tooth_later
+bip_39_word_underscore_9: bus_budget_opera_raise_above_ugly_tooth_later_unlock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

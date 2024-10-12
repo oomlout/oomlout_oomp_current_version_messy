@@ -1,3 +1,15 @@
+bip_39_word_dash_1: announce
+bip_39_word_dash_10: announce-pitch-road-pig-simple-differ-rare-lab-person-cabbage
+bip_39_word_dash_11: announce-pitch-road-pig-simple-differ-rare-lab-person-cabbage-grocery
+bip_39_word_dash_12: announce-pitch-road-pig-simple-differ-rare-lab-person-cabbage-grocery-ankle
+bip_39_word_dash_2: announce-pitch
+bip_39_word_dash_3: announce-pitch-road
+bip_39_word_dash_4: announce-pitch-road-pig
+bip_39_word_dash_5: announce-pitch-road-pig-simple
+bip_39_word_dash_6: announce-pitch-road-pig-simple-differ
+bip_39_word_dash_7: announce-pitch-road-pig-simple-differ-rare
+bip_39_word_dash_8: announce-pitch-road-pig-simple-differ-rare-lab
+bip_39_word_dash_9: announce-pitch-road-pig-simple-differ-rare-lab-person
 bip_39_word_new_br_1: announce
 bip_39_word_new_br_10: announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab<br>person<br>cabbage
 bip_39_word_new_br_11: announce<br>pitch<br>road<br>pig<br>simple<br>differ<br>rare<br>lab<br>person<br>cabbage<br>grocery
@@ -193,6 +205,18 @@ bip_39_word_space_6: announce pitch road pig simple differ
 bip_39_word_space_7: announce pitch road pig simple differ rare
 bip_39_word_space_8: announce pitch road pig simple differ rare lab
 bip_39_word_space_9: announce pitch road pig simple differ rare lab person
+bip_39_word_underscore_1: announce
+bip_39_word_underscore_10: announce_pitch_road_pig_simple_differ_rare_lab_person_cabbage
+bip_39_word_underscore_11: announce_pitch_road_pig_simple_differ_rare_lab_person_cabbage_grocery
+bip_39_word_underscore_12: announce_pitch_road_pig_simple_differ_rare_lab_person_cabbage_grocery_ankle
+bip_39_word_underscore_2: announce_pitch
+bip_39_word_underscore_3: announce_pitch_road
+bip_39_word_underscore_4: announce_pitch_road_pig
+bip_39_word_underscore_5: announce_pitch_road_pig_simple
+bip_39_word_underscore_6: announce_pitch_road_pig_simple_differ
+bip_39_word_underscore_7: announce_pitch_road_pig_simple_differ_rare
+bip_39_word_underscore_8: announce_pitch_road_pig_simple_differ_rare_lab
+bip_39_word_underscore_9: announce_pitch_road_pig_simple_differ_rare_lab_person
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

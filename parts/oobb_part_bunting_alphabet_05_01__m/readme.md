@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | muffin |  
+| bip_39_word_dash_10 | muffin-pudding-harsh-luggage-hard-damp-subway-social-anxiety-bone |  
+| bip_39_word_dash_11 | muffin-pudding-harsh-luggage-hard-damp-subway-social-anxiety-bone-bright |  
+| bip_39_word_dash_12 | muffin-pudding-harsh-luggage-hard-damp-subway-social-anxiety-bone-bright-alien |  
+| bip_39_word_dash_2 | muffin-pudding |  
+| bip_39_word_dash_3 | muffin-pudding-harsh |  
+| bip_39_word_dash_4 | muffin-pudding-harsh-luggage |  
+| bip_39_word_dash_5 | muffin-pudding-harsh-luggage-hard |  
+| bip_39_word_dash_6 | muffin-pudding-harsh-luggage-hard-damp |  
+| bip_39_word_dash_7 | muffin-pudding-harsh-luggage-hard-damp-subway |  
+| bip_39_word_dash_8 | muffin-pudding-harsh-luggage-hard-damp-subway-social |  
+| bip_39_word_dash_9 | muffin-pudding-harsh-luggage-hard-damp-subway-social-anxiety |  
 | bip_39_word_new_br_1 | muffin |  
 | bip_39_word_new_br_10 | muffin<br>pudding<br>harsh<br>luggage<br>hard<br>damp<br>subway<br>social<br>anxiety<br>bone |  
 | bip_39_word_new_br_11 | muffin<br>pudding<br>harsh<br>luggage<br>hard<br>damp<br>subway<br>social<br>anxiety<br>bone<br>bright |  
@@ -147,6 +159,18 @@ anxiety |
 | bip_39_word_space_7 | muffin pudding harsh luggage hard damp subway |  
 | bip_39_word_space_8 | muffin pudding harsh luggage hard damp subway social |  
 | bip_39_word_space_9 | muffin pudding harsh luggage hard damp subway social anxiety |  
+| bip_39_word_underscore_1 | muffin |  
+| bip_39_word_underscore_10 | muffin_pudding_harsh_luggage_hard_damp_subway_social_anxiety_bone |  
+| bip_39_word_underscore_11 | muffin_pudding_harsh_luggage_hard_damp_subway_social_anxiety_bone_bright |  
+| bip_39_word_underscore_12 | muffin_pudding_harsh_luggage_hard_damp_subway_social_anxiety_bone_bright_alien |  
+| bip_39_word_underscore_2 | muffin_pudding |  
+| bip_39_word_underscore_3 | muffin_pudding_harsh |  
+| bip_39_word_underscore_4 | muffin_pudding_harsh_luggage |  
+| bip_39_word_underscore_5 | muffin_pudding_harsh_luggage_hard |  
+| bip_39_word_underscore_6 | muffin_pudding_harsh_luggage_hard_damp |  
+| bip_39_word_underscore_7 | muffin_pudding_harsh_luggage_hard_damp_subway |  
+| bip_39_word_underscore_8 | muffin_pudding_harsh_luggage_hard_damp_subway_social |  
+| bip_39_word_underscore_9 | muffin_pudding_harsh_luggage_hard_damp_subway_social_anxiety |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

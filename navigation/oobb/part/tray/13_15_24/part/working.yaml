@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chair
+bip_39_word_dash_10: chair-victory-unusual-fragile-dice-pony-health-wrestle-canoe-inject
+bip_39_word_dash_11: chair-victory-unusual-fragile-dice-pony-health-wrestle-canoe-inject-jealous
+bip_39_word_dash_12: chair-victory-unusual-fragile-dice-pony-health-wrestle-canoe-inject-jealous-adult
+bip_39_word_dash_2: chair-victory
+bip_39_word_dash_3: chair-victory-unusual
+bip_39_word_dash_4: chair-victory-unusual-fragile
+bip_39_word_dash_5: chair-victory-unusual-fragile-dice
+bip_39_word_dash_6: chair-victory-unusual-fragile-dice-pony
+bip_39_word_dash_7: chair-victory-unusual-fragile-dice-pony-health
+bip_39_word_dash_8: chair-victory-unusual-fragile-dice-pony-health-wrestle
+bip_39_word_dash_9: chair-victory-unusual-fragile-dice-pony-health-wrestle-canoe
 bip_39_word_new_br_1: chair
 bip_39_word_new_br_10: chair<br>victory<br>unusual<br>fragile<br>dice<br>pony<br>health<br>wrestle<br>canoe<br>inject
 bip_39_word_new_br_11: chair<br>victory<br>unusual<br>fragile<br>dice<br>pony<br>health<br>wrestle<br>canoe<br>inject<br>jealous
@@ -194,6 +206,18 @@ bip_39_word_space_6: chair victory unusual fragile dice pony
 bip_39_word_space_7: chair victory unusual fragile dice pony health
 bip_39_word_space_8: chair victory unusual fragile dice pony health wrestle
 bip_39_word_space_9: chair victory unusual fragile dice pony health wrestle canoe
+bip_39_word_underscore_1: chair
+bip_39_word_underscore_10: chair_victory_unusual_fragile_dice_pony_health_wrestle_canoe_inject
+bip_39_word_underscore_11: chair_victory_unusual_fragile_dice_pony_health_wrestle_canoe_inject_jealous
+bip_39_word_underscore_12: chair_victory_unusual_fragile_dice_pony_health_wrestle_canoe_inject_jealous_adult
+bip_39_word_underscore_2: chair_victory
+bip_39_word_underscore_3: chair_victory_unusual
+bip_39_word_underscore_4: chair_victory_unusual_fragile
+bip_39_word_underscore_5: chair_victory_unusual_fragile_dice
+bip_39_word_underscore_6: chair_victory_unusual_fragile_dice_pony
+bip_39_word_underscore_7: chair_victory_unusual_fragile_dice_pony_health
+bip_39_word_underscore_8: chair_victory_unusual_fragile_dice_pony_health_wrestle
+bip_39_word_underscore_9: chair_victory_unusual_fragile_dice_pony_health_wrestle_canoe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

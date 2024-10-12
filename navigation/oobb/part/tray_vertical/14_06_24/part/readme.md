@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | online |  
+| bip_39_word_dash_10 | online-soup-nurse-profit-swamp-venue-trophy-among-elite-digital |  
+| bip_39_word_dash_11 | online-soup-nurse-profit-swamp-venue-trophy-among-elite-digital-dish |  
+| bip_39_word_dash_12 | online-soup-nurse-profit-swamp-venue-trophy-among-elite-digital-dish-age |  
+| bip_39_word_dash_2 | online-soup |  
+| bip_39_word_dash_3 | online-soup-nurse |  
+| bip_39_word_dash_4 | online-soup-nurse-profit |  
+| bip_39_word_dash_5 | online-soup-nurse-profit-swamp |  
+| bip_39_word_dash_6 | online-soup-nurse-profit-swamp-venue |  
+| bip_39_word_dash_7 | online-soup-nurse-profit-swamp-venue-trophy |  
+| bip_39_word_dash_8 | online-soup-nurse-profit-swamp-venue-trophy-among |  
+| bip_39_word_dash_9 | online-soup-nurse-profit-swamp-venue-trophy-among-elite |  
 | bip_39_word_new_br_1 | online |  
 | bip_39_word_new_br_10 | online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among<br>elite<br>digital |  
 | bip_39_word_new_br_11 | online<br>soup<br>nurse<br>profit<br>swamp<br>venue<br>trophy<br>among<br>elite<br>digital<br>dish |  
@@ -147,6 +159,18 @@ elite |
 | bip_39_word_space_7 | online soup nurse profit swamp venue trophy |  
 | bip_39_word_space_8 | online soup nurse profit swamp venue trophy among |  
 | bip_39_word_space_9 | online soup nurse profit swamp venue trophy among elite |  
+| bip_39_word_underscore_1 | online |  
+| bip_39_word_underscore_10 | online_soup_nurse_profit_swamp_venue_trophy_among_elite_digital |  
+| bip_39_word_underscore_11 | online_soup_nurse_profit_swamp_venue_trophy_among_elite_digital_dish |  
+| bip_39_word_underscore_12 | online_soup_nurse_profit_swamp_venue_trophy_among_elite_digital_dish_age |  
+| bip_39_word_underscore_2 | online_soup |  
+| bip_39_word_underscore_3 | online_soup_nurse |  
+| bip_39_word_underscore_4 | online_soup_nurse_profit |  
+| bip_39_word_underscore_5 | online_soup_nurse_profit_swamp |  
+| bip_39_word_underscore_6 | online_soup_nurse_profit_swamp_venue |  
+| bip_39_word_underscore_7 | online_soup_nurse_profit_swamp_venue_trophy |  
+| bip_39_word_underscore_8 | online_soup_nurse_profit_swamp_venue_trophy_among |  
+| bip_39_word_underscore_9 | online_soup_nurse_profit_swamp_venue_trophy_among_elite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: valid
+bip_39_word_dash_10: valid-thank-tree-around-claim-rent-minor-shiver-cabbage-social
+bip_39_word_dash_11: valid-thank-tree-around-claim-rent-minor-shiver-cabbage-social-donate
+bip_39_word_dash_12: valid-thank-tree-around-claim-rent-minor-shiver-cabbage-social-donate-affair
+bip_39_word_dash_2: valid-thank
+bip_39_word_dash_3: valid-thank-tree
+bip_39_word_dash_4: valid-thank-tree-around
+bip_39_word_dash_5: valid-thank-tree-around-claim
+bip_39_word_dash_6: valid-thank-tree-around-claim-rent
+bip_39_word_dash_7: valid-thank-tree-around-claim-rent-minor
+bip_39_word_dash_8: valid-thank-tree-around-claim-rent-minor-shiver
+bip_39_word_dash_9: valid-thank-tree-around-claim-rent-minor-shiver-cabbage
 bip_39_word_new_br_1: valid
 bip_39_word_new_br_10: valid<br>thank<br>tree<br>around<br>claim<br>rent<br>minor<br>shiver<br>cabbage<br>social
 bip_39_word_new_br_11: valid<br>thank<br>tree<br>around<br>claim<br>rent<br>minor<br>shiver<br>cabbage<br>social<br>donate
@@ -193,6 +205,18 @@ bip_39_word_space_6: valid thank tree around claim rent
 bip_39_word_space_7: valid thank tree around claim rent minor
 bip_39_word_space_8: valid thank tree around claim rent minor shiver
 bip_39_word_space_9: valid thank tree around claim rent minor shiver cabbage
+bip_39_word_underscore_1: valid
+bip_39_word_underscore_10: valid_thank_tree_around_claim_rent_minor_shiver_cabbage_social
+bip_39_word_underscore_11: valid_thank_tree_around_claim_rent_minor_shiver_cabbage_social_donate
+bip_39_word_underscore_12: valid_thank_tree_around_claim_rent_minor_shiver_cabbage_social_donate_affair
+bip_39_word_underscore_2: valid_thank
+bip_39_word_underscore_3: valid_thank_tree
+bip_39_word_underscore_4: valid_thank_tree_around
+bip_39_word_underscore_5: valid_thank_tree_around_claim
+bip_39_word_underscore_6: valid_thank_tree_around_claim_rent
+bip_39_word_underscore_7: valid_thank_tree_around_claim_rent_minor
+bip_39_word_underscore_8: valid_thank_tree_around_claim_rent_minor_shiver
+bip_39_word_underscore_9: valid_thank_tree_around_claim_rent_minor_shiver_cabbage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

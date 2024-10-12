@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leg |  
+| bip_39_word_dash_10 | leg-reduce-ring-friend-course-pink-unknown-rely-feed-series |  
+| bip_39_word_dash_11 | leg-reduce-ring-friend-course-pink-unknown-rely-feed-series-vessel |  
+| bip_39_word_dash_12 | leg-reduce-ring-friend-course-pink-unknown-rely-feed-series-vessel-amateur |  
+| bip_39_word_dash_2 | leg-reduce |  
+| bip_39_word_dash_3 | leg-reduce-ring |  
+| bip_39_word_dash_4 | leg-reduce-ring-friend |  
+| bip_39_word_dash_5 | leg-reduce-ring-friend-course |  
+| bip_39_word_dash_6 | leg-reduce-ring-friend-course-pink |  
+| bip_39_word_dash_7 | leg-reduce-ring-friend-course-pink-unknown |  
+| bip_39_word_dash_8 | leg-reduce-ring-friend-course-pink-unknown-rely |  
+| bip_39_word_dash_9 | leg-reduce-ring-friend-course-pink-unknown-rely-feed |  
 | bip_39_word_new_br_1 | leg |  
 | bip_39_word_new_br_10 | leg<br>reduce<br>ring<br>friend<br>course<br>pink<br>unknown<br>rely<br>feed<br>series |  
 | bip_39_word_new_br_11 | leg<br>reduce<br>ring<br>friend<br>course<br>pink<br>unknown<br>rely<br>feed<br>series<br>vessel |  
@@ -147,6 +159,18 @@ feed |
 | bip_39_word_space_7 | leg reduce ring friend course pink unknown |  
 | bip_39_word_space_8 | leg reduce ring friend course pink unknown rely |  
 | bip_39_word_space_9 | leg reduce ring friend course pink unknown rely feed |  
+| bip_39_word_underscore_1 | leg |  
+| bip_39_word_underscore_10 | leg_reduce_ring_friend_course_pink_unknown_rely_feed_series |  
+| bip_39_word_underscore_11 | leg_reduce_ring_friend_course_pink_unknown_rely_feed_series_vessel |  
+| bip_39_word_underscore_12 | leg_reduce_ring_friend_course_pink_unknown_rely_feed_series_vessel_amateur |  
+| bip_39_word_underscore_2 | leg_reduce |  
+| bip_39_word_underscore_3 | leg_reduce_ring |  
+| bip_39_word_underscore_4 | leg_reduce_ring_friend |  
+| bip_39_word_underscore_5 | leg_reduce_ring_friend_course |  
+| bip_39_word_underscore_6 | leg_reduce_ring_friend_course_pink |  
+| bip_39_word_underscore_7 | leg_reduce_ring_friend_course_pink_unknown |  
+| bip_39_word_underscore_8 | leg_reduce_ring_friend_course_pink_unknown_rely |  
+| bip_39_word_underscore_9 | leg_reduce_ring_friend_course_pink_unknown_rely_feed |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

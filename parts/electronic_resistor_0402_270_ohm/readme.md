@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | heart |  
+| bip_39_word_dash_10 | heart-advance-dog-capital-repair-unhappy-spatial-zoo-code-trap |  
+| bip_39_word_dash_11 | heart-advance-dog-capital-repair-unhappy-spatial-zoo-code-trap-brave |  
+| bip_39_word_dash_12 | heart-advance-dog-capital-repair-unhappy-spatial-zoo-code-trap-brave-argue |  
+| bip_39_word_dash_2 | heart-advance |  
+| bip_39_word_dash_3 | heart-advance-dog |  
+| bip_39_word_dash_4 | heart-advance-dog-capital |  
+| bip_39_word_dash_5 | heart-advance-dog-capital-repair |  
+| bip_39_word_dash_6 | heart-advance-dog-capital-repair-unhappy |  
+| bip_39_word_dash_7 | heart-advance-dog-capital-repair-unhappy-spatial |  
+| bip_39_word_dash_8 | heart-advance-dog-capital-repair-unhappy-spatial-zoo |  
+| bip_39_word_dash_9 | heart-advance-dog-capital-repair-unhappy-spatial-zoo-code |  
 | bip_39_word_new_br_1 | heart |  
 | bip_39_word_new_br_10 | heart<br>advance<br>dog<br>capital<br>repair<br>unhappy<br>spatial<br>zoo<br>code<br>trap |  
 | bip_39_word_new_br_11 | heart<br>advance<br>dog<br>capital<br>repair<br>unhappy<br>spatial<br>zoo<br>code<br>trap<br>brave |  
@@ -147,6 +159,18 @@ code |
 | bip_39_word_space_7 | heart advance dog capital repair unhappy spatial |  
 | bip_39_word_space_8 | heart advance dog capital repair unhappy spatial zoo |  
 | bip_39_word_space_9 | heart advance dog capital repair unhappy spatial zoo code |  
+| bip_39_word_underscore_1 | heart |  
+| bip_39_word_underscore_10 | heart_advance_dog_capital_repair_unhappy_spatial_zoo_code_trap |  
+| bip_39_word_underscore_11 | heart_advance_dog_capital_repair_unhappy_spatial_zoo_code_trap_brave |  
+| bip_39_word_underscore_12 | heart_advance_dog_capital_repair_unhappy_spatial_zoo_code_trap_brave_argue |  
+| bip_39_word_underscore_2 | heart_advance |  
+| bip_39_word_underscore_3 | heart_advance_dog |  
+| bip_39_word_underscore_4 | heart_advance_dog_capital |  
+| bip_39_word_underscore_5 | heart_advance_dog_capital_repair |  
+| bip_39_word_underscore_6 | heart_advance_dog_capital_repair_unhappy |  
+| bip_39_word_underscore_7 | heart_advance_dog_capital_repair_unhappy_spatial |  
+| bip_39_word_underscore_8 | heart_advance_dog_capital_repair_unhappy_spatial_zoo |  
+| bip_39_word_underscore_9 | heart_advance_dog_capital_repair_unhappy_spatial_zoo_code |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

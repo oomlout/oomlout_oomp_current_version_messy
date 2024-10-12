@@ -1,3 +1,15 @@
+bip_39_word_dash_1: report
+bip_39_word_dash_10: report-armed-soda-figure-use-shift-use-next-dignity-extra
+bip_39_word_dash_11: report-armed-soda-figure-use-shift-use-next-dignity-extra-leisure
+bip_39_word_dash_12: report-armed-soda-figure-use-shift-use-next-dignity-extra-leisure-arch
+bip_39_word_dash_2: report-armed
+bip_39_word_dash_3: report-armed-soda
+bip_39_word_dash_4: report-armed-soda-figure
+bip_39_word_dash_5: report-armed-soda-figure-use
+bip_39_word_dash_6: report-armed-soda-figure-use-shift
+bip_39_word_dash_7: report-armed-soda-figure-use-shift-use
+bip_39_word_dash_8: report-armed-soda-figure-use-shift-use-next
+bip_39_word_dash_9: report-armed-soda-figure-use-shift-use-next-dignity
 bip_39_word_new_br_1: report
 bip_39_word_new_br_10: report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next<br>dignity<br>extra
 bip_39_word_new_br_11: report<br>armed<br>soda<br>figure<br>use<br>shift<br>use<br>next<br>dignity<br>extra<br>leisure
@@ -192,6 +204,18 @@ bip_39_word_space_6: report armed soda figure use shift
 bip_39_word_space_7: report armed soda figure use shift use
 bip_39_word_space_8: report armed soda figure use shift use next
 bip_39_word_space_9: report armed soda figure use shift use next dignity
+bip_39_word_underscore_1: report
+bip_39_word_underscore_10: report_armed_soda_figure_use_shift_use_next_dignity_extra
+bip_39_word_underscore_11: report_armed_soda_figure_use_shift_use_next_dignity_extra_leisure
+bip_39_word_underscore_12: report_armed_soda_figure_use_shift_use_next_dignity_extra_leisure_arch
+bip_39_word_underscore_2: report_armed
+bip_39_word_underscore_3: report_armed_soda
+bip_39_word_underscore_4: report_armed_soda_figure
+bip_39_word_underscore_5: report_armed_soda_figure_use
+bip_39_word_underscore_6: report_armed_soda_figure_use_shift
+bip_39_word_underscore_7: report_armed_soda_figure_use_shift_use
+bip_39_word_underscore_8: report_armed_soda_figure_use_shift_use_next
+bip_39_word_underscore_9: report_armed_soda_figure_use_shift_use_next_dignity
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

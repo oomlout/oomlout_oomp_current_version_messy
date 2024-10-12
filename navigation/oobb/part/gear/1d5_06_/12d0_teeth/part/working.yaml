@@ -1,3 +1,15 @@
+bip_39_word_dash_1: security
+bip_39_word_dash_10: security-pig-mushroom-front-head-express-endorse-where-message-charge
+bip_39_word_dash_11: security-pig-mushroom-front-head-express-endorse-where-message-charge-canvas
+bip_39_word_dash_12: security-pig-mushroom-front-head-express-endorse-where-message-charge-canvas-ask
+bip_39_word_dash_2: security-pig
+bip_39_word_dash_3: security-pig-mushroom
+bip_39_word_dash_4: security-pig-mushroom-front
+bip_39_word_dash_5: security-pig-mushroom-front-head
+bip_39_word_dash_6: security-pig-mushroom-front-head-express
+bip_39_word_dash_7: security-pig-mushroom-front-head-express-endorse
+bip_39_word_dash_8: security-pig-mushroom-front-head-express-endorse-where
+bip_39_word_dash_9: security-pig-mushroom-front-head-express-endorse-where-message
 bip_39_word_new_br_1: security
 bip_39_word_new_br_10: security<br>pig<br>mushroom<br>front<br>head<br>express<br>endorse<br>where<br>message<br>charge
 bip_39_word_new_br_11: security<br>pig<br>mushroom<br>front<br>head<br>express<br>endorse<br>where<br>message<br>charge<br>canvas
@@ -194,6 +206,18 @@ bip_39_word_space_6: security pig mushroom front head express
 bip_39_word_space_7: security pig mushroom front head express endorse
 bip_39_word_space_8: security pig mushroom front head express endorse where
 bip_39_word_space_9: security pig mushroom front head express endorse where message
+bip_39_word_underscore_1: security
+bip_39_word_underscore_10: security_pig_mushroom_front_head_express_endorse_where_message_charge
+bip_39_word_underscore_11: security_pig_mushroom_front_head_express_endorse_where_message_charge_canvas
+bip_39_word_underscore_12: security_pig_mushroom_front_head_express_endorse_where_message_charge_canvas_ask
+bip_39_word_underscore_2: security_pig
+bip_39_word_underscore_3: security_pig_mushroom
+bip_39_word_underscore_4: security_pig_mushroom_front
+bip_39_word_underscore_5: security_pig_mushroom_front_head
+bip_39_word_underscore_6: security_pig_mushroom_front_head_express
+bip_39_word_underscore_7: security_pig_mushroom_front_head_express_endorse
+bip_39_word_underscore_8: security_pig_mushroom_front_head_express_endorse_where
+bip_39_word_underscore_9: security_pig_mushroom_front_head_express_endorse_where_message
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

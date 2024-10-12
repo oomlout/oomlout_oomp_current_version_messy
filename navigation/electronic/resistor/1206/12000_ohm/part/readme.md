@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arm |  
+| bip_39_word_dash_10 | arm-valve-receive-gospel-faith-cash-audit-rifle-asthma-error |  
+| bip_39_word_dash_11 | arm-valve-receive-gospel-faith-cash-audit-rifle-asthma-error-order |  
+| bip_39_word_dash_12 | arm-valve-receive-gospel-faith-cash-audit-rifle-asthma-error-order-actress |  
+| bip_39_word_dash_2 | arm-valve |  
+| bip_39_word_dash_3 | arm-valve-receive |  
+| bip_39_word_dash_4 | arm-valve-receive-gospel |  
+| bip_39_word_dash_5 | arm-valve-receive-gospel-faith |  
+| bip_39_word_dash_6 | arm-valve-receive-gospel-faith-cash |  
+| bip_39_word_dash_7 | arm-valve-receive-gospel-faith-cash-audit |  
+| bip_39_word_dash_8 | arm-valve-receive-gospel-faith-cash-audit-rifle |  
+| bip_39_word_dash_9 | arm-valve-receive-gospel-faith-cash-audit-rifle-asthma |  
 | bip_39_word_new_br_1 | arm |  
 | bip_39_word_new_br_10 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error |  
 | bip_39_word_new_br_11 | arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error<br>order |  
@@ -147,6 +159,18 @@ asthma |
 | bip_39_word_space_7 | arm valve receive gospel faith cash audit |  
 | bip_39_word_space_8 | arm valve receive gospel faith cash audit rifle |  
 | bip_39_word_space_9 | arm valve receive gospel faith cash audit rifle asthma |  
+| bip_39_word_underscore_1 | arm |  
+| bip_39_word_underscore_10 | arm_valve_receive_gospel_faith_cash_audit_rifle_asthma_error |  
+| bip_39_word_underscore_11 | arm_valve_receive_gospel_faith_cash_audit_rifle_asthma_error_order |  
+| bip_39_word_underscore_12 | arm_valve_receive_gospel_faith_cash_audit_rifle_asthma_error_order_actress |  
+| bip_39_word_underscore_2 | arm_valve |  
+| bip_39_word_underscore_3 | arm_valve_receive |  
+| bip_39_word_underscore_4 | arm_valve_receive_gospel |  
+| bip_39_word_underscore_5 | arm_valve_receive_gospel_faith |  
+| bip_39_word_underscore_6 | arm_valve_receive_gospel_faith_cash |  
+| bip_39_word_underscore_7 | arm_valve_receive_gospel_faith_cash_audit |  
+| bip_39_word_underscore_8 | arm_valve_receive_gospel_faith_cash_audit_rifle |  
+| bip_39_word_underscore_9 | arm_valve_receive_gospel_faith_cash_audit_rifle_asthma |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

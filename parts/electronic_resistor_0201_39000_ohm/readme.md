@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | luxury |  
+| bip_39_word_dash_10 | luxury-danger-caught-door-loan-coyote-drum-baby-current-spot |  
+| bip_39_word_dash_11 | luxury-danger-caught-door-loan-coyote-drum-baby-current-spot-trade |  
+| bip_39_word_dash_12 | luxury-danger-caught-door-loan-coyote-drum-baby-current-spot-trade-address |  
+| bip_39_word_dash_2 | luxury-danger |  
+| bip_39_word_dash_3 | luxury-danger-caught |  
+| bip_39_word_dash_4 | luxury-danger-caught-door |  
+| bip_39_word_dash_5 | luxury-danger-caught-door-loan |  
+| bip_39_word_dash_6 | luxury-danger-caught-door-loan-coyote |  
+| bip_39_word_dash_7 | luxury-danger-caught-door-loan-coyote-drum |  
+| bip_39_word_dash_8 | luxury-danger-caught-door-loan-coyote-drum-baby |  
+| bip_39_word_dash_9 | luxury-danger-caught-door-loan-coyote-drum-baby-current |  
 | bip_39_word_new_br_1 | luxury |  
 | bip_39_word_new_br_10 | luxury<br>danger<br>caught<br>door<br>loan<br>coyote<br>drum<br>baby<br>current<br>spot |  
 | bip_39_word_new_br_11 | luxury<br>danger<br>caught<br>door<br>loan<br>coyote<br>drum<br>baby<br>current<br>spot<br>trade |  
@@ -147,6 +159,18 @@ current |
 | bip_39_word_space_7 | luxury danger caught door loan coyote drum |  
 | bip_39_word_space_8 | luxury danger caught door loan coyote drum baby |  
 | bip_39_word_space_9 | luxury danger caught door loan coyote drum baby current |  
+| bip_39_word_underscore_1 | luxury |  
+| bip_39_word_underscore_10 | luxury_danger_caught_door_loan_coyote_drum_baby_current_spot |  
+| bip_39_word_underscore_11 | luxury_danger_caught_door_loan_coyote_drum_baby_current_spot_trade |  
+| bip_39_word_underscore_12 | luxury_danger_caught_door_loan_coyote_drum_baby_current_spot_trade_address |  
+| bip_39_word_underscore_2 | luxury_danger |  
+| bip_39_word_underscore_3 | luxury_danger_caught |  
+| bip_39_word_underscore_4 | luxury_danger_caught_door |  
+| bip_39_word_underscore_5 | luxury_danger_caught_door_loan |  
+| bip_39_word_underscore_6 | luxury_danger_caught_door_loan_coyote |  
+| bip_39_word_underscore_7 | luxury_danger_caught_door_loan_coyote_drum |  
+| bip_39_word_underscore_8 | luxury_danger_caught_door_loan_coyote_drum_baby |  
+| bip_39_word_underscore_9 | luxury_danger_caught_door_loan_coyote_drum_baby_current |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

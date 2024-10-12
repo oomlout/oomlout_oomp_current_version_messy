@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | come |  
+| bip_39_word_dash_10 | come-top-guitar-domain-tumble-tiger-cause-cement-episode-burst |  
+| bip_39_word_dash_11 | come-top-guitar-domain-tumble-tiger-cause-cement-episode-burst-thumb |  
+| bip_39_word_dash_12 | come-top-guitar-domain-tumble-tiger-cause-cement-episode-burst-thumb-aerobic |  
+| bip_39_word_dash_2 | come-top |  
+| bip_39_word_dash_3 | come-top-guitar |  
+| bip_39_word_dash_4 | come-top-guitar-domain |  
+| bip_39_word_dash_5 | come-top-guitar-domain-tumble |  
+| bip_39_word_dash_6 | come-top-guitar-domain-tumble-tiger |  
+| bip_39_word_dash_7 | come-top-guitar-domain-tumble-tiger-cause |  
+| bip_39_word_dash_8 | come-top-guitar-domain-tumble-tiger-cause-cement |  
+| bip_39_word_dash_9 | come-top-guitar-domain-tumble-tiger-cause-cement-episode |  
 | bip_39_word_new_br_1 | come |  
 | bip_39_word_new_br_10 | come<br>top<br>guitar<br>domain<br>tumble<br>tiger<br>cause<br>cement<br>episode<br>burst |  
 | bip_39_word_new_br_11 | come<br>top<br>guitar<br>domain<br>tumble<br>tiger<br>cause<br>cement<br>episode<br>burst<br>thumb |  
@@ -147,6 +159,18 @@ episode |
 | bip_39_word_space_7 | come top guitar domain tumble tiger cause |  
 | bip_39_word_space_8 | come top guitar domain tumble tiger cause cement |  
 | bip_39_word_space_9 | come top guitar domain tumble tiger cause cement episode |  
+| bip_39_word_underscore_1 | come |  
+| bip_39_word_underscore_10 | come_top_guitar_domain_tumble_tiger_cause_cement_episode_burst |  
+| bip_39_word_underscore_11 | come_top_guitar_domain_tumble_tiger_cause_cement_episode_burst_thumb |  
+| bip_39_word_underscore_12 | come_top_guitar_domain_tumble_tiger_cause_cement_episode_burst_thumb_aerobic |  
+| bip_39_word_underscore_2 | come_top |  
+| bip_39_word_underscore_3 | come_top_guitar |  
+| bip_39_word_underscore_4 | come_top_guitar_domain |  
+| bip_39_word_underscore_5 | come_top_guitar_domain_tumble |  
+| bip_39_word_underscore_6 | come_top_guitar_domain_tumble_tiger |  
+| bip_39_word_underscore_7 | come_top_guitar_domain_tumble_tiger_cause |  
+| bip_39_word_underscore_8 | come_top_guitar_domain_tumble_tiger_cause_cement |  
+| bip_39_word_underscore_9 | come_top_guitar_domain_tumble_tiger_cause_cement_episode |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

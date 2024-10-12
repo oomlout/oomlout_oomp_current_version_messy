@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pave |  
+| bip_39_word_dash_10 | pave-body-under-antique-twenty-host-shine-keen-quiz-rival |  
+| bip_39_word_dash_11 | pave-body-under-antique-twenty-host-shine-keen-quiz-rival-comic |  
+| bip_39_word_dash_12 | pave-body-under-antique-twenty-host-shine-keen-quiz-rival-comic-all |  
+| bip_39_word_dash_2 | pave-body |  
+| bip_39_word_dash_3 | pave-body-under |  
+| bip_39_word_dash_4 | pave-body-under-antique |  
+| bip_39_word_dash_5 | pave-body-under-antique-twenty |  
+| bip_39_word_dash_6 | pave-body-under-antique-twenty-host |  
+| bip_39_word_dash_7 | pave-body-under-antique-twenty-host-shine |  
+| bip_39_word_dash_8 | pave-body-under-antique-twenty-host-shine-keen |  
+| bip_39_word_dash_9 | pave-body-under-antique-twenty-host-shine-keen-quiz |  
 | bip_39_word_new_br_1 | pave |  
 | bip_39_word_new_br_10 | pave<br>body<br>under<br>antique<br>twenty<br>host<br>shine<br>keen<br>quiz<br>rival |  
 | bip_39_word_new_br_11 | pave<br>body<br>under<br>antique<br>twenty<br>host<br>shine<br>keen<br>quiz<br>rival<br>comic |  
@@ -147,6 +159,18 @@ quiz |
 | bip_39_word_space_7 | pave body under antique twenty host shine |  
 | bip_39_word_space_8 | pave body under antique twenty host shine keen |  
 | bip_39_word_space_9 | pave body under antique twenty host shine keen quiz |  
+| bip_39_word_underscore_1 | pave |  
+| bip_39_word_underscore_10 | pave_body_under_antique_twenty_host_shine_keen_quiz_rival |  
+| bip_39_word_underscore_11 | pave_body_under_antique_twenty_host_shine_keen_quiz_rival_comic |  
+| bip_39_word_underscore_12 | pave_body_under_antique_twenty_host_shine_keen_quiz_rival_comic_all |  
+| bip_39_word_underscore_2 | pave_body |  
+| bip_39_word_underscore_3 | pave_body_under |  
+| bip_39_word_underscore_4 | pave_body_under_antique |  
+| bip_39_word_underscore_5 | pave_body_under_antique_twenty |  
+| bip_39_word_underscore_6 | pave_body_under_antique_twenty_host |  
+| bip_39_word_underscore_7 | pave_body_under_antique_twenty_host_shine |  
+| bip_39_word_underscore_8 | pave_body_under_antique_twenty_host_shine_keen |  
+| bip_39_word_underscore_9 | pave_body_under_antique_twenty_host_shine_keen_quiz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

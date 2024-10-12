@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resemble |  
+| bip_39_word_dash_10 | resemble-purse-drastic-trap-neck-citizen-soft-own-stem-update |  
+| bip_39_word_dash_11 | resemble-purse-drastic-trap-neck-citizen-soft-own-stem-update-much |  
+| bip_39_word_dash_12 | resemble-purse-drastic-trap-neck-citizen-soft-own-stem-update-much-admit |  
+| bip_39_word_dash_2 | resemble-purse |  
+| bip_39_word_dash_3 | resemble-purse-drastic |  
+| bip_39_word_dash_4 | resemble-purse-drastic-trap |  
+| bip_39_word_dash_5 | resemble-purse-drastic-trap-neck |  
+| bip_39_word_dash_6 | resemble-purse-drastic-trap-neck-citizen |  
+| bip_39_word_dash_7 | resemble-purse-drastic-trap-neck-citizen-soft |  
+| bip_39_word_dash_8 | resemble-purse-drastic-trap-neck-citizen-soft-own |  
+| bip_39_word_dash_9 | resemble-purse-drastic-trap-neck-citizen-soft-own-stem |  
 | bip_39_word_new_br_1 | resemble |  
 | bip_39_word_new_br_10 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own<br>stem<br>update |  
 | bip_39_word_new_br_11 | resemble<br>purse<br>drastic<br>trap<br>neck<br>citizen<br>soft<br>own<br>stem<br>update<br>much |  
@@ -147,6 +159,18 @@ stem |
 | bip_39_word_space_7 | resemble purse drastic trap neck citizen soft |  
 | bip_39_word_space_8 | resemble purse drastic trap neck citizen soft own |  
 | bip_39_word_space_9 | resemble purse drastic trap neck citizen soft own stem |  
+| bip_39_word_underscore_1 | resemble |  
+| bip_39_word_underscore_10 | resemble_purse_drastic_trap_neck_citizen_soft_own_stem_update |  
+| bip_39_word_underscore_11 | resemble_purse_drastic_trap_neck_citizen_soft_own_stem_update_much |  
+| bip_39_word_underscore_12 | resemble_purse_drastic_trap_neck_citizen_soft_own_stem_update_much_admit |  
+| bip_39_word_underscore_2 | resemble_purse |  
+| bip_39_word_underscore_3 | resemble_purse_drastic |  
+| bip_39_word_underscore_4 | resemble_purse_drastic_trap |  
+| bip_39_word_underscore_5 | resemble_purse_drastic_trap_neck |  
+| bip_39_word_underscore_6 | resemble_purse_drastic_trap_neck_citizen |  
+| bip_39_word_underscore_7 | resemble_purse_drastic_trap_neck_citizen_soft |  
+| bip_39_word_underscore_8 | resemble_purse_drastic_trap_neck_citizen_soft_own |  
+| bip_39_word_underscore_9 | resemble_purse_drastic_trap_neck_citizen_soft_own_stem |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

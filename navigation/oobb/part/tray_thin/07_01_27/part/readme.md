@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | father |  
+| bip_39_word_dash_10 | father-immune-public-picnic-blossom-smile-minimum-achieve-stereo-gain |  
+| bip_39_word_dash_11 | father-immune-public-picnic-blossom-smile-minimum-achieve-stereo-gain-picture |  
+| bip_39_word_dash_12 | father-immune-public-picnic-blossom-smile-minimum-achieve-stereo-gain-picture-ahead |  
+| bip_39_word_dash_2 | father-immune |  
+| bip_39_word_dash_3 | father-immune-public |  
+| bip_39_word_dash_4 | father-immune-public-picnic |  
+| bip_39_word_dash_5 | father-immune-public-picnic-blossom |  
+| bip_39_word_dash_6 | father-immune-public-picnic-blossom-smile |  
+| bip_39_word_dash_7 | father-immune-public-picnic-blossom-smile-minimum |  
+| bip_39_word_dash_8 | father-immune-public-picnic-blossom-smile-minimum-achieve |  
+| bip_39_word_dash_9 | father-immune-public-picnic-blossom-smile-minimum-achieve-stereo |  
 | bip_39_word_new_br_1 | father |  
 | bip_39_word_new_br_10 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve<br>stereo<br>gain |  
 | bip_39_word_new_br_11 | father<br>immune<br>public<br>picnic<br>blossom<br>smile<br>minimum<br>achieve<br>stereo<br>gain<br>picture |  
@@ -147,6 +159,18 @@ stereo |
 | bip_39_word_space_7 | father immune public picnic blossom smile minimum |  
 | bip_39_word_space_8 | father immune public picnic blossom smile minimum achieve |  
 | bip_39_word_space_9 | father immune public picnic blossom smile minimum achieve stereo |  
+| bip_39_word_underscore_1 | father |  
+| bip_39_word_underscore_10 | father_immune_public_picnic_blossom_smile_minimum_achieve_stereo_gain |  
+| bip_39_word_underscore_11 | father_immune_public_picnic_blossom_smile_minimum_achieve_stereo_gain_picture |  
+| bip_39_word_underscore_12 | father_immune_public_picnic_blossom_smile_minimum_achieve_stereo_gain_picture_ahead |  
+| bip_39_word_underscore_2 | father_immune |  
+| bip_39_word_underscore_3 | father_immune_public |  
+| bip_39_word_underscore_4 | father_immune_public_picnic |  
+| bip_39_word_underscore_5 | father_immune_public_picnic_blossom |  
+| bip_39_word_underscore_6 | father_immune_public_picnic_blossom_smile |  
+| bip_39_word_underscore_7 | father_immune_public_picnic_blossom_smile_minimum |  
+| bip_39_word_underscore_8 | father_immune_public_picnic_blossom_smile_minimum_achieve |  
+| bip_39_word_underscore_9 | father_immune_public_picnic_blossom_smile_minimum_achieve_stereo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

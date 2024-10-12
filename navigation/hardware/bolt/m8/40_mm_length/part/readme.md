@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nephew |  
+| bip_39_word_dash_10 | nephew-rail-piece-acid-tuna-palm-ready-coin-fashion-economy |  
+| bip_39_word_dash_11 | nephew-rail-piece-acid-tuna-palm-ready-coin-fashion-economy-pigeon |  
+| bip_39_word_dash_12 | nephew-rail-piece-acid-tuna-palm-ready-coin-fashion-economy-pigeon-attract |  
+| bip_39_word_dash_2 | nephew-rail |  
+| bip_39_word_dash_3 | nephew-rail-piece |  
+| bip_39_word_dash_4 | nephew-rail-piece-acid |  
+| bip_39_word_dash_5 | nephew-rail-piece-acid-tuna |  
+| bip_39_word_dash_6 | nephew-rail-piece-acid-tuna-palm |  
+| bip_39_word_dash_7 | nephew-rail-piece-acid-tuna-palm-ready |  
+| bip_39_word_dash_8 | nephew-rail-piece-acid-tuna-palm-ready-coin |  
+| bip_39_word_dash_9 | nephew-rail-piece-acid-tuna-palm-ready-coin-fashion |  
 | bip_39_word_new_br_1 | nephew |  
 | bip_39_word_new_br_10 | nephew<br>rail<br>piece<br>acid<br>tuna<br>palm<br>ready<br>coin<br>fashion<br>economy |  
 | bip_39_word_new_br_11 | nephew<br>rail<br>piece<br>acid<br>tuna<br>palm<br>ready<br>coin<br>fashion<br>economy<br>pigeon |  
@@ -147,6 +159,18 @@ fashion |
 | bip_39_word_space_7 | nephew rail piece acid tuna palm ready |  
 | bip_39_word_space_8 | nephew rail piece acid tuna palm ready coin |  
 | bip_39_word_space_9 | nephew rail piece acid tuna palm ready coin fashion |  
+| bip_39_word_underscore_1 | nephew |  
+| bip_39_word_underscore_10 | nephew_rail_piece_acid_tuna_palm_ready_coin_fashion_economy |  
+| bip_39_word_underscore_11 | nephew_rail_piece_acid_tuna_palm_ready_coin_fashion_economy_pigeon |  
+| bip_39_word_underscore_12 | nephew_rail_piece_acid_tuna_palm_ready_coin_fashion_economy_pigeon_attract |  
+| bip_39_word_underscore_2 | nephew_rail |  
+| bip_39_word_underscore_3 | nephew_rail_piece |  
+| bip_39_word_underscore_4 | nephew_rail_piece_acid |  
+| bip_39_word_underscore_5 | nephew_rail_piece_acid_tuna |  
+| bip_39_word_underscore_6 | nephew_rail_piece_acid_tuna_palm |  
+| bip_39_word_underscore_7 | nephew_rail_piece_acid_tuna_palm_ready |  
+| bip_39_word_underscore_8 | nephew_rail_piece_acid_tuna_palm_ready_coin |  
+| bip_39_word_underscore_9 | nephew_rail_piece_acid_tuna_palm_ready_coin_fashion |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

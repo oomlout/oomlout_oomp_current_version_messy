@@ -1,3 +1,15 @@
+bip_39_word_dash_1: prosper
+bip_39_word_dash_10: prosper-inside-right-tank-have-win-rural-inner-beef-skate
+bip_39_word_dash_11: prosper-inside-right-tank-have-win-rural-inner-beef-skate-argue
+bip_39_word_dash_12: prosper-inside-right-tank-have-win-rural-inner-beef-skate-argue-alone
+bip_39_word_dash_2: prosper-inside
+bip_39_word_dash_3: prosper-inside-right
+bip_39_word_dash_4: prosper-inside-right-tank
+bip_39_word_dash_5: prosper-inside-right-tank-have
+bip_39_word_dash_6: prosper-inside-right-tank-have-win
+bip_39_word_dash_7: prosper-inside-right-tank-have-win-rural
+bip_39_word_dash_8: prosper-inside-right-tank-have-win-rural-inner
+bip_39_word_dash_9: prosper-inside-right-tank-have-win-rural-inner-beef
 bip_39_word_new_br_1: prosper
 bip_39_word_new_br_10: prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner<br>beef<br>skate
 bip_39_word_new_br_11: prosper<br>inside<br>right<br>tank<br>have<br>win<br>rural<br>inner<br>beef<br>skate<br>argue
@@ -192,6 +204,18 @@ bip_39_word_space_6: prosper inside right tank have win
 bip_39_word_space_7: prosper inside right tank have win rural
 bip_39_word_space_8: prosper inside right tank have win rural inner
 bip_39_word_space_9: prosper inside right tank have win rural inner beef
+bip_39_word_underscore_1: prosper
+bip_39_word_underscore_10: prosper_inside_right_tank_have_win_rural_inner_beef_skate
+bip_39_word_underscore_11: prosper_inside_right_tank_have_win_rural_inner_beef_skate_argue
+bip_39_word_underscore_12: prosper_inside_right_tank_have_win_rural_inner_beef_skate_argue_alone
+bip_39_word_underscore_2: prosper_inside
+bip_39_word_underscore_3: prosper_inside_right
+bip_39_word_underscore_4: prosper_inside_right_tank
+bip_39_word_underscore_5: prosper_inside_right_tank_have
+bip_39_word_underscore_6: prosper_inside_right_tank_have_win
+bip_39_word_underscore_7: prosper_inside_right_tank_have_win_rural
+bip_39_word_underscore_8: prosper_inside_right_tank_have_win_rural_inner
+bip_39_word_underscore_9: prosper_inside_right_tank_have_win_rural_inner_beef
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

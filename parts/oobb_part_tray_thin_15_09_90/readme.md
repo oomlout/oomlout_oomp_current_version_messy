@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swear |  
+| bip_39_word_dash_10 | swear-forward-nothing-jaguar-unique-destroy-admit-relief-spot-anchor |  
+| bip_39_word_dash_11 | swear-forward-nothing-jaguar-unique-destroy-admit-relief-spot-anchor-hedgehog |  
+| bip_39_word_dash_12 | swear-forward-nothing-jaguar-unique-destroy-admit-relief-spot-anchor-hedgehog-allow |  
+| bip_39_word_dash_2 | swear-forward |  
+| bip_39_word_dash_3 | swear-forward-nothing |  
+| bip_39_word_dash_4 | swear-forward-nothing-jaguar |  
+| bip_39_word_dash_5 | swear-forward-nothing-jaguar-unique |  
+| bip_39_word_dash_6 | swear-forward-nothing-jaguar-unique-destroy |  
+| bip_39_word_dash_7 | swear-forward-nothing-jaguar-unique-destroy-admit |  
+| bip_39_word_dash_8 | swear-forward-nothing-jaguar-unique-destroy-admit-relief |  
+| bip_39_word_dash_9 | swear-forward-nothing-jaguar-unique-destroy-admit-relief-spot |  
 | bip_39_word_new_br_1 | swear |  
 | bip_39_word_new_br_10 | swear<br>forward<br>nothing<br>jaguar<br>unique<br>destroy<br>admit<br>relief<br>spot<br>anchor |  
 | bip_39_word_new_br_11 | swear<br>forward<br>nothing<br>jaguar<br>unique<br>destroy<br>admit<br>relief<br>spot<br>anchor<br>hedgehog |  
@@ -147,6 +159,18 @@ spot |
 | bip_39_word_space_7 | swear forward nothing jaguar unique destroy admit |  
 | bip_39_word_space_8 | swear forward nothing jaguar unique destroy admit relief |  
 | bip_39_word_space_9 | swear forward nothing jaguar unique destroy admit relief spot |  
+| bip_39_word_underscore_1 | swear |  
+| bip_39_word_underscore_10 | swear_forward_nothing_jaguar_unique_destroy_admit_relief_spot_anchor |  
+| bip_39_word_underscore_11 | swear_forward_nothing_jaguar_unique_destroy_admit_relief_spot_anchor_hedgehog |  
+| bip_39_word_underscore_12 | swear_forward_nothing_jaguar_unique_destroy_admit_relief_spot_anchor_hedgehog_allow |  
+| bip_39_word_underscore_2 | swear_forward |  
+| bip_39_word_underscore_3 | swear_forward_nothing |  
+| bip_39_word_underscore_4 | swear_forward_nothing_jaguar |  
+| bip_39_word_underscore_5 | swear_forward_nothing_jaguar_unique |  
+| bip_39_word_underscore_6 | swear_forward_nothing_jaguar_unique_destroy |  
+| bip_39_word_underscore_7 | swear_forward_nothing_jaguar_unique_destroy_admit |  
+| bip_39_word_underscore_8 | swear_forward_nothing_jaguar_unique_destroy_admit_relief |  
+| bip_39_word_underscore_9 | swear_forward_nothing_jaguar_unique_destroy_admit_relief_spot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

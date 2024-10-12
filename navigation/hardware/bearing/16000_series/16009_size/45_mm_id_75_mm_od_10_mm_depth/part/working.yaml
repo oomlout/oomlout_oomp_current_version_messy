@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brass
+bip_39_word_dash_10: brass-desert-employ-foster-good-helmet-robot-into-ribbon-damage
+bip_39_word_dash_11: brass-desert-employ-foster-good-helmet-robot-into-ribbon-damage-magnet
+bip_39_word_dash_12: brass-desert-employ-foster-good-helmet-robot-into-ribbon-damage-magnet-air
+bip_39_word_dash_2: brass-desert
+bip_39_word_dash_3: brass-desert-employ
+bip_39_word_dash_4: brass-desert-employ-foster
+bip_39_word_dash_5: brass-desert-employ-foster-good
+bip_39_word_dash_6: brass-desert-employ-foster-good-helmet
+bip_39_word_dash_7: brass-desert-employ-foster-good-helmet-robot
+bip_39_word_dash_8: brass-desert-employ-foster-good-helmet-robot-into
+bip_39_word_dash_9: brass-desert-employ-foster-good-helmet-robot-into-ribbon
 bip_39_word_new_br_1: brass
 bip_39_word_new_br_10: brass<br>desert<br>employ<br>foster<br>good<br>helmet<br>robot<br>into<br>ribbon<br>damage
 bip_39_word_new_br_11: brass<br>desert<br>employ<br>foster<br>good<br>helmet<br>robot<br>into<br>ribbon<br>damage<br>magnet
@@ -193,6 +205,18 @@ bip_39_word_space_6: brass desert employ foster good helmet
 bip_39_word_space_7: brass desert employ foster good helmet robot
 bip_39_word_space_8: brass desert employ foster good helmet robot into
 bip_39_word_space_9: brass desert employ foster good helmet robot into ribbon
+bip_39_word_underscore_1: brass
+bip_39_word_underscore_10: brass_desert_employ_foster_good_helmet_robot_into_ribbon_damage
+bip_39_word_underscore_11: brass_desert_employ_foster_good_helmet_robot_into_ribbon_damage_magnet
+bip_39_word_underscore_12: brass_desert_employ_foster_good_helmet_robot_into_ribbon_damage_magnet_air
+bip_39_word_underscore_2: brass_desert
+bip_39_word_underscore_3: brass_desert_employ
+bip_39_word_underscore_4: brass_desert_employ_foster
+bip_39_word_underscore_5: brass_desert_employ_foster_good
+bip_39_word_underscore_6: brass_desert_employ_foster_good_helmet
+bip_39_word_underscore_7: brass_desert_employ_foster_good_helmet_robot
+bip_39_word_underscore_8: brass_desert_employ_foster_good_helmet_robot_into
+bip_39_word_underscore_9: brass_desert_employ_foster_good_helmet_robot_into_ribbon
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

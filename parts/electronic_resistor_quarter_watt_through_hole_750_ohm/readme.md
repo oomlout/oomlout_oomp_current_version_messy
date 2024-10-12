@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | short |  
+| bip_39_word_dash_10 | short-acquire-lazy-exercise-episode-warrior-fitness-dress-churn-erosion |  
+| bip_39_word_dash_11 | short-acquire-lazy-exercise-episode-warrior-fitness-dress-churn-erosion-smart |  
+| bip_39_word_dash_12 | short-acquire-lazy-exercise-episode-warrior-fitness-dress-churn-erosion-smart-april |  
+| bip_39_word_dash_2 | short-acquire |  
+| bip_39_word_dash_3 | short-acquire-lazy |  
+| bip_39_word_dash_4 | short-acquire-lazy-exercise |  
+| bip_39_word_dash_5 | short-acquire-lazy-exercise-episode |  
+| bip_39_word_dash_6 | short-acquire-lazy-exercise-episode-warrior |  
+| bip_39_word_dash_7 | short-acquire-lazy-exercise-episode-warrior-fitness |  
+| bip_39_word_dash_8 | short-acquire-lazy-exercise-episode-warrior-fitness-dress |  
+| bip_39_word_dash_9 | short-acquire-lazy-exercise-episode-warrior-fitness-dress-churn |  
 | bip_39_word_new_br_1 | short |  
 | bip_39_word_new_br_10 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress<br>churn<br>erosion |  
 | bip_39_word_new_br_11 | short<br>acquire<br>lazy<br>exercise<br>episode<br>warrior<br>fitness<br>dress<br>churn<br>erosion<br>smart |  
@@ -147,6 +159,18 @@ churn |
 | bip_39_word_space_7 | short acquire lazy exercise episode warrior fitness |  
 | bip_39_word_space_8 | short acquire lazy exercise episode warrior fitness dress |  
 | bip_39_word_space_9 | short acquire lazy exercise episode warrior fitness dress churn |  
+| bip_39_word_underscore_1 | short |  
+| bip_39_word_underscore_10 | short_acquire_lazy_exercise_episode_warrior_fitness_dress_churn_erosion |  
+| bip_39_word_underscore_11 | short_acquire_lazy_exercise_episode_warrior_fitness_dress_churn_erosion_smart |  
+| bip_39_word_underscore_12 | short_acquire_lazy_exercise_episode_warrior_fitness_dress_churn_erosion_smart_april |  
+| bip_39_word_underscore_2 | short_acquire |  
+| bip_39_word_underscore_3 | short_acquire_lazy |  
+| bip_39_word_underscore_4 | short_acquire_lazy_exercise |  
+| bip_39_word_underscore_5 | short_acquire_lazy_exercise_episode |  
+| bip_39_word_underscore_6 | short_acquire_lazy_exercise_episode_warrior |  
+| bip_39_word_underscore_7 | short_acquire_lazy_exercise_episode_warrior_fitness |  
+| bip_39_word_underscore_8 | short_acquire_lazy_exercise_episode_warrior_fitness_dress |  
+| bip_39_word_underscore_9 | short_acquire_lazy_exercise_episode_warrior_fitness_dress_churn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

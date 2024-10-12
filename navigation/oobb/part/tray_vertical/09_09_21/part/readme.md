@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | victory |  
+| bip_39_word_dash_10 | victory-stick-pipe-machine-essay-hamster-cigar-seek-siren-fossil |  
+| bip_39_word_dash_11 | victory-stick-pipe-machine-essay-hamster-cigar-seek-siren-fossil-educate |  
+| bip_39_word_dash_12 | victory-stick-pipe-machine-essay-hamster-cigar-seek-siren-fossil-educate-artefact |  
+| bip_39_word_dash_2 | victory-stick |  
+| bip_39_word_dash_3 | victory-stick-pipe |  
+| bip_39_word_dash_4 | victory-stick-pipe-machine |  
+| bip_39_word_dash_5 | victory-stick-pipe-machine-essay |  
+| bip_39_word_dash_6 | victory-stick-pipe-machine-essay-hamster |  
+| bip_39_word_dash_7 | victory-stick-pipe-machine-essay-hamster-cigar |  
+| bip_39_word_dash_8 | victory-stick-pipe-machine-essay-hamster-cigar-seek |  
+| bip_39_word_dash_9 | victory-stick-pipe-machine-essay-hamster-cigar-seek-siren |  
 | bip_39_word_new_br_1 | victory |  
 | bip_39_word_new_br_10 | victory<br>stick<br>pipe<br>machine<br>essay<br>hamster<br>cigar<br>seek<br>siren<br>fossil |  
 | bip_39_word_new_br_11 | victory<br>stick<br>pipe<br>machine<br>essay<br>hamster<br>cigar<br>seek<br>siren<br>fossil<br>educate |  
@@ -147,6 +159,18 @@ siren |
 | bip_39_word_space_7 | victory stick pipe machine essay hamster cigar |  
 | bip_39_word_space_8 | victory stick pipe machine essay hamster cigar seek |  
 | bip_39_word_space_9 | victory stick pipe machine essay hamster cigar seek siren |  
+| bip_39_word_underscore_1 | victory |  
+| bip_39_word_underscore_10 | victory_stick_pipe_machine_essay_hamster_cigar_seek_siren_fossil |  
+| bip_39_word_underscore_11 | victory_stick_pipe_machine_essay_hamster_cigar_seek_siren_fossil_educate |  
+| bip_39_word_underscore_12 | victory_stick_pipe_machine_essay_hamster_cigar_seek_siren_fossil_educate_artefact |  
+| bip_39_word_underscore_2 | victory_stick |  
+| bip_39_word_underscore_3 | victory_stick_pipe |  
+| bip_39_word_underscore_4 | victory_stick_pipe_machine |  
+| bip_39_word_underscore_5 | victory_stick_pipe_machine_essay |  
+| bip_39_word_underscore_6 | victory_stick_pipe_machine_essay_hamster |  
+| bip_39_word_underscore_7 | victory_stick_pipe_machine_essay_hamster_cigar |  
+| bip_39_word_underscore_8 | victory_stick_pipe_machine_essay_hamster_cigar_seek |  
+| bip_39_word_underscore_9 | victory_stick_pipe_machine_essay_hamster_cigar_seek_siren |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dog |  
+| bip_39_word_dash_10 | dog-credit-swear-true-holiday-fault-suit-employ-carbon-potato |  
+| bip_39_word_dash_11 | dog-credit-swear-true-holiday-fault-suit-employ-carbon-potato-auto |  
+| bip_39_word_dash_12 | dog-credit-swear-true-holiday-fault-suit-employ-carbon-potato-auto-afraid |  
+| bip_39_word_dash_2 | dog-credit |  
+| bip_39_word_dash_3 | dog-credit-swear |  
+| bip_39_word_dash_4 | dog-credit-swear-true |  
+| bip_39_word_dash_5 | dog-credit-swear-true-holiday |  
+| bip_39_word_dash_6 | dog-credit-swear-true-holiday-fault |  
+| bip_39_word_dash_7 | dog-credit-swear-true-holiday-fault-suit |  
+| bip_39_word_dash_8 | dog-credit-swear-true-holiday-fault-suit-employ |  
+| bip_39_word_dash_9 | dog-credit-swear-true-holiday-fault-suit-employ-carbon |  
 | bip_39_word_new_br_1 | dog |  
 | bip_39_word_new_br_10 | dog<br>credit<br>swear<br>true<br>holiday<br>fault<br>suit<br>employ<br>carbon<br>potato |  
 | bip_39_word_new_br_11 | dog<br>credit<br>swear<br>true<br>holiday<br>fault<br>suit<br>employ<br>carbon<br>potato<br>auto |  
@@ -147,6 +159,18 @@ carbon |
 | bip_39_word_space_7 | dog credit swear true holiday fault suit |  
 | bip_39_word_space_8 | dog credit swear true holiday fault suit employ |  
 | bip_39_word_space_9 | dog credit swear true holiday fault suit employ carbon |  
+| bip_39_word_underscore_1 | dog |  
+| bip_39_word_underscore_10 | dog_credit_swear_true_holiday_fault_suit_employ_carbon_potato |  
+| bip_39_word_underscore_11 | dog_credit_swear_true_holiday_fault_suit_employ_carbon_potato_auto |  
+| bip_39_word_underscore_12 | dog_credit_swear_true_holiday_fault_suit_employ_carbon_potato_auto_afraid |  
+| bip_39_word_underscore_2 | dog_credit |  
+| bip_39_word_underscore_3 | dog_credit_swear |  
+| bip_39_word_underscore_4 | dog_credit_swear_true |  
+| bip_39_word_underscore_5 | dog_credit_swear_true_holiday |  
+| bip_39_word_underscore_6 | dog_credit_swear_true_holiday_fault |  
+| bip_39_word_underscore_7 | dog_credit_swear_true_holiday_fault_suit |  
+| bip_39_word_underscore_8 | dog_credit_swear_true_holiday_fault_suit_employ |  
+| bip_39_word_underscore_9 | dog_credit_swear_true_holiday_fault_suit_employ_carbon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

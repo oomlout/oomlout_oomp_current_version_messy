@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mango |  
+| bip_39_word_dash_10 | mango-pact-nice-west-can-pill-scrub-old-tuna-athlete |  
+| bip_39_word_dash_11 | mango-pact-nice-west-can-pill-scrub-old-tuna-athlete-relax |  
+| bip_39_word_dash_12 | mango-pact-nice-west-can-pill-scrub-old-tuna-athlete-relax-armed |  
+| bip_39_word_dash_2 | mango-pact |  
+| bip_39_word_dash_3 | mango-pact-nice |  
+| bip_39_word_dash_4 | mango-pact-nice-west |  
+| bip_39_word_dash_5 | mango-pact-nice-west-can |  
+| bip_39_word_dash_6 | mango-pact-nice-west-can-pill |  
+| bip_39_word_dash_7 | mango-pact-nice-west-can-pill-scrub |  
+| bip_39_word_dash_8 | mango-pact-nice-west-can-pill-scrub-old |  
+| bip_39_word_dash_9 | mango-pact-nice-west-can-pill-scrub-old-tuna |  
 | bip_39_word_new_br_1 | mango |  
 | bip_39_word_new_br_10 | mango<br>pact<br>nice<br>west<br>can<br>pill<br>scrub<br>old<br>tuna<br>athlete |  
 | bip_39_word_new_br_11 | mango<br>pact<br>nice<br>west<br>can<br>pill<br>scrub<br>old<br>tuna<br>athlete<br>relax |  
@@ -147,6 +159,18 @@ tuna |
 | bip_39_word_space_7 | mango pact nice west can pill scrub |  
 | bip_39_word_space_8 | mango pact nice west can pill scrub old |  
 | bip_39_word_space_9 | mango pact nice west can pill scrub old tuna |  
+| bip_39_word_underscore_1 | mango |  
+| bip_39_word_underscore_10 | mango_pact_nice_west_can_pill_scrub_old_tuna_athlete |  
+| bip_39_word_underscore_11 | mango_pact_nice_west_can_pill_scrub_old_tuna_athlete_relax |  
+| bip_39_word_underscore_12 | mango_pact_nice_west_can_pill_scrub_old_tuna_athlete_relax_armed |  
+| bip_39_word_underscore_2 | mango_pact |  
+| bip_39_word_underscore_3 | mango_pact_nice |  
+| bip_39_word_underscore_4 | mango_pact_nice_west |  
+| bip_39_word_underscore_5 | mango_pact_nice_west_can |  
+| bip_39_word_underscore_6 | mango_pact_nice_west_can_pill |  
+| bip_39_word_underscore_7 | mango_pact_nice_west_can_pill_scrub |  
+| bip_39_word_underscore_8 | mango_pact_nice_west_can_pill_scrub_old |  
+| bip_39_word_underscore_9 | mango_pact_nice_west_can_pill_scrub_old_tuna |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

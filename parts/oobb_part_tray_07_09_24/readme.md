@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pottery |  
+| bip_39_word_dash_10 | pottery-silly-hope-trumpet-mandate-uphold-basic-clap-same-attitude |  
+| bip_39_word_dash_11 | pottery-silly-hope-trumpet-mandate-uphold-basic-clap-same-attitude-arrow |  
+| bip_39_word_dash_12 | pottery-silly-hope-trumpet-mandate-uphold-basic-clap-same-attitude-arrow-avocado |  
+| bip_39_word_dash_2 | pottery-silly |  
+| bip_39_word_dash_3 | pottery-silly-hope |  
+| bip_39_word_dash_4 | pottery-silly-hope-trumpet |  
+| bip_39_word_dash_5 | pottery-silly-hope-trumpet-mandate |  
+| bip_39_word_dash_6 | pottery-silly-hope-trumpet-mandate-uphold |  
+| bip_39_word_dash_7 | pottery-silly-hope-trumpet-mandate-uphold-basic |  
+| bip_39_word_dash_8 | pottery-silly-hope-trumpet-mandate-uphold-basic-clap |  
+| bip_39_word_dash_9 | pottery-silly-hope-trumpet-mandate-uphold-basic-clap-same |  
 | bip_39_word_new_br_1 | pottery |  
 | bip_39_word_new_br_10 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap<br>same<br>attitude |  
 | bip_39_word_new_br_11 | pottery<br>silly<br>hope<br>trumpet<br>mandate<br>uphold<br>basic<br>clap<br>same<br>attitude<br>arrow |  
@@ -147,6 +159,18 @@ same |
 | bip_39_word_space_7 | pottery silly hope trumpet mandate uphold basic |  
 | bip_39_word_space_8 | pottery silly hope trumpet mandate uphold basic clap |  
 | bip_39_word_space_9 | pottery silly hope trumpet mandate uphold basic clap same |  
+| bip_39_word_underscore_1 | pottery |  
+| bip_39_word_underscore_10 | pottery_silly_hope_trumpet_mandate_uphold_basic_clap_same_attitude |  
+| bip_39_word_underscore_11 | pottery_silly_hope_trumpet_mandate_uphold_basic_clap_same_attitude_arrow |  
+| bip_39_word_underscore_12 | pottery_silly_hope_trumpet_mandate_uphold_basic_clap_same_attitude_arrow_avocado |  
+| bip_39_word_underscore_2 | pottery_silly |  
+| bip_39_word_underscore_3 | pottery_silly_hope |  
+| bip_39_word_underscore_4 | pottery_silly_hope_trumpet |  
+| bip_39_word_underscore_5 | pottery_silly_hope_trumpet_mandate |  
+| bip_39_word_underscore_6 | pottery_silly_hope_trumpet_mandate_uphold |  
+| bip_39_word_underscore_7 | pottery_silly_hope_trumpet_mandate_uphold_basic |  
+| bip_39_word_underscore_8 | pottery_silly_hope_trumpet_mandate_uphold_basic_clap |  
+| bip_39_word_underscore_9 | pottery_silly_hope_trumpet_mandate_uphold_basic_clap_same |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

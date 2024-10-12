@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | misery |  
+| bip_39_word_dash_10 | misery-anchor-start-exile-balance-kingdom-cricket-grass-mouse-element |  
+| bip_39_word_dash_11 | misery-anchor-start-exile-balance-kingdom-cricket-grass-mouse-element-prison |  
+| bip_39_word_dash_12 | misery-anchor-start-exile-balance-kingdom-cricket-grass-mouse-element-prison-across |  
+| bip_39_word_dash_2 | misery-anchor |  
+| bip_39_word_dash_3 | misery-anchor-start |  
+| bip_39_word_dash_4 | misery-anchor-start-exile |  
+| bip_39_word_dash_5 | misery-anchor-start-exile-balance |  
+| bip_39_word_dash_6 | misery-anchor-start-exile-balance-kingdom |  
+| bip_39_word_dash_7 | misery-anchor-start-exile-balance-kingdom-cricket |  
+| bip_39_word_dash_8 | misery-anchor-start-exile-balance-kingdom-cricket-grass |  
+| bip_39_word_dash_9 | misery-anchor-start-exile-balance-kingdom-cricket-grass-mouse |  
 | bip_39_word_new_br_1 | misery |  
 | bip_39_word_new_br_10 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass<br>mouse<br>element |  
 | bip_39_word_new_br_11 | misery<br>anchor<br>start<br>exile<br>balance<br>kingdom<br>cricket<br>grass<br>mouse<br>element<br>prison |  
@@ -147,6 +159,18 @@ mouse |
 | bip_39_word_space_7 | misery anchor start exile balance kingdom cricket |  
 | bip_39_word_space_8 | misery anchor start exile balance kingdom cricket grass |  
 | bip_39_word_space_9 | misery anchor start exile balance kingdom cricket grass mouse |  
+| bip_39_word_underscore_1 | misery |  
+| bip_39_word_underscore_10 | misery_anchor_start_exile_balance_kingdom_cricket_grass_mouse_element |  
+| bip_39_word_underscore_11 | misery_anchor_start_exile_balance_kingdom_cricket_grass_mouse_element_prison |  
+| bip_39_word_underscore_12 | misery_anchor_start_exile_balance_kingdom_cricket_grass_mouse_element_prison_across |  
+| bip_39_word_underscore_2 | misery_anchor |  
+| bip_39_word_underscore_3 | misery_anchor_start |  
+| bip_39_word_underscore_4 | misery_anchor_start_exile |  
+| bip_39_word_underscore_5 | misery_anchor_start_exile_balance |  
+| bip_39_word_underscore_6 | misery_anchor_start_exile_balance_kingdom |  
+| bip_39_word_underscore_7 | misery_anchor_start_exile_balance_kingdom_cricket |  
+| bip_39_word_underscore_8 | misery_anchor_start_exile_balance_kingdom_cricket_grass |  
+| bip_39_word_underscore_9 | misery_anchor_start_exile_balance_kingdom_cricket_grass_mouse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

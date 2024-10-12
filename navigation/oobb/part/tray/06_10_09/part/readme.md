@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | remove |  
+| bip_39_word_dash_10 | remove-monster-kite-labor-tackle-brother-match-tribe-wild-hamster |  
+| bip_39_word_dash_11 | remove-monster-kite-labor-tackle-brother-match-tribe-wild-hamster-casual |  
+| bip_39_word_dash_12 | remove-monster-kite-labor-tackle-brother-match-tribe-wild-hamster-casual-armor |  
+| bip_39_word_dash_2 | remove-monster |  
+| bip_39_word_dash_3 | remove-monster-kite |  
+| bip_39_word_dash_4 | remove-monster-kite-labor |  
+| bip_39_word_dash_5 | remove-monster-kite-labor-tackle |  
+| bip_39_word_dash_6 | remove-monster-kite-labor-tackle-brother |  
+| bip_39_word_dash_7 | remove-monster-kite-labor-tackle-brother-match |  
+| bip_39_word_dash_8 | remove-monster-kite-labor-tackle-brother-match-tribe |  
+| bip_39_word_dash_9 | remove-monster-kite-labor-tackle-brother-match-tribe-wild |  
 | bip_39_word_new_br_1 | remove |  
 | bip_39_word_new_br_10 | remove<br>monster<br>kite<br>labor<br>tackle<br>brother<br>match<br>tribe<br>wild<br>hamster |  
 | bip_39_word_new_br_11 | remove<br>monster<br>kite<br>labor<br>tackle<br>brother<br>match<br>tribe<br>wild<br>hamster<br>casual |  
@@ -147,6 +159,18 @@ wild |
 | bip_39_word_space_7 | remove monster kite labor tackle brother match |  
 | bip_39_word_space_8 | remove monster kite labor tackle brother match tribe |  
 | bip_39_word_space_9 | remove monster kite labor tackle brother match tribe wild |  
+| bip_39_word_underscore_1 | remove |  
+| bip_39_word_underscore_10 | remove_monster_kite_labor_tackle_brother_match_tribe_wild_hamster |  
+| bip_39_word_underscore_11 | remove_monster_kite_labor_tackle_brother_match_tribe_wild_hamster_casual |  
+| bip_39_word_underscore_12 | remove_monster_kite_labor_tackle_brother_match_tribe_wild_hamster_casual_armor |  
+| bip_39_word_underscore_2 | remove_monster |  
+| bip_39_word_underscore_3 | remove_monster_kite |  
+| bip_39_word_underscore_4 | remove_monster_kite_labor |  
+| bip_39_word_underscore_5 | remove_monster_kite_labor_tackle |  
+| bip_39_word_underscore_6 | remove_monster_kite_labor_tackle_brother |  
+| bip_39_word_underscore_7 | remove_monster_kite_labor_tackle_brother_match |  
+| bip_39_word_underscore_8 | remove_monster_kite_labor_tackle_brother_match_tribe |  
+| bip_39_word_underscore_9 | remove_monster_kite_labor_tackle_brother_match_tribe_wild |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

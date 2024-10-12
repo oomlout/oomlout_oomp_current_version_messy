@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | field |  
+| bip_39_word_dash_10 | field-reflect-spirit-latin-target-dinner-weird-able-urban-broken |  
+| bip_39_word_dash_11 | field-reflect-spirit-latin-target-dinner-weird-able-urban-broken-maximum |  
+| bip_39_word_dash_12 | field-reflect-spirit-latin-target-dinner-weird-able-urban-broken-maximum-arch |  
+| bip_39_word_dash_2 | field-reflect |  
+| bip_39_word_dash_3 | field-reflect-spirit |  
+| bip_39_word_dash_4 | field-reflect-spirit-latin |  
+| bip_39_word_dash_5 | field-reflect-spirit-latin-target |  
+| bip_39_word_dash_6 | field-reflect-spirit-latin-target-dinner |  
+| bip_39_word_dash_7 | field-reflect-spirit-latin-target-dinner-weird |  
+| bip_39_word_dash_8 | field-reflect-spirit-latin-target-dinner-weird-able |  
+| bip_39_word_dash_9 | field-reflect-spirit-latin-target-dinner-weird-able-urban |  
 | bip_39_word_new_br_1 | field |  
 | bip_39_word_new_br_10 | field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able<br>urban<br>broken |  
 | bip_39_word_new_br_11 | field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able<br>urban<br>broken<br>maximum |  
@@ -147,6 +159,18 @@ urban |
 | bip_39_word_space_7 | field reflect spirit latin target dinner weird |  
 | bip_39_word_space_8 | field reflect spirit latin target dinner weird able |  
 | bip_39_word_space_9 | field reflect spirit latin target dinner weird able urban |  
+| bip_39_word_underscore_1 | field |  
+| bip_39_word_underscore_10 | field_reflect_spirit_latin_target_dinner_weird_able_urban_broken |  
+| bip_39_word_underscore_11 | field_reflect_spirit_latin_target_dinner_weird_able_urban_broken_maximum |  
+| bip_39_word_underscore_12 | field_reflect_spirit_latin_target_dinner_weird_able_urban_broken_maximum_arch |  
+| bip_39_word_underscore_2 | field_reflect |  
+| bip_39_word_underscore_3 | field_reflect_spirit |  
+| bip_39_word_underscore_4 | field_reflect_spirit_latin |  
+| bip_39_word_underscore_5 | field_reflect_spirit_latin_target |  
+| bip_39_word_underscore_6 | field_reflect_spirit_latin_target_dinner |  
+| bip_39_word_underscore_7 | field_reflect_spirit_latin_target_dinner_weird |  
+| bip_39_word_underscore_8 | field_reflect_spirit_latin_target_dinner_weird_able |  
+| bip_39_word_underscore_9 | field_reflect_spirit_latin_target_dinner_weird_able_urban |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

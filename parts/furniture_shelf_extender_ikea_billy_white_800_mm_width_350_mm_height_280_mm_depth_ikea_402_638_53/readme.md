@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | melt |  
+| bip_39_word_dash_10 | melt-hobby-barrel-jaguar-hello-body-baby-magic-tent-ready |  
+| bip_39_word_dash_11 | melt-hobby-barrel-jaguar-hello-body-baby-magic-tent-ready-want |  
+| bip_39_word_dash_12 | melt-hobby-barrel-jaguar-hello-body-baby-magic-tent-ready-want-answer |  
+| bip_39_word_dash_2 | melt-hobby |  
+| bip_39_word_dash_3 | melt-hobby-barrel |  
+| bip_39_word_dash_4 | melt-hobby-barrel-jaguar |  
+| bip_39_word_dash_5 | melt-hobby-barrel-jaguar-hello |  
+| bip_39_word_dash_6 | melt-hobby-barrel-jaguar-hello-body |  
+| bip_39_word_dash_7 | melt-hobby-barrel-jaguar-hello-body-baby |  
+| bip_39_word_dash_8 | melt-hobby-barrel-jaguar-hello-body-baby-magic |  
+| bip_39_word_dash_9 | melt-hobby-barrel-jaguar-hello-body-baby-magic-tent |  
 | bip_39_word_new_br_1 | melt |  
 | bip_39_word_new_br_10 | melt<br>hobby<br>barrel<br>jaguar<br>hello<br>body<br>baby<br>magic<br>tent<br>ready |  
 | bip_39_word_new_br_11 | melt<br>hobby<br>barrel<br>jaguar<br>hello<br>body<br>baby<br>magic<br>tent<br>ready<br>want |  
@@ -147,6 +159,18 @@ tent |
 | bip_39_word_space_7 | melt hobby barrel jaguar hello body baby |  
 | bip_39_word_space_8 | melt hobby barrel jaguar hello body baby magic |  
 | bip_39_word_space_9 | melt hobby barrel jaguar hello body baby magic tent |  
+| bip_39_word_underscore_1 | melt |  
+| bip_39_word_underscore_10 | melt_hobby_barrel_jaguar_hello_body_baby_magic_tent_ready |  
+| bip_39_word_underscore_11 | melt_hobby_barrel_jaguar_hello_body_baby_magic_tent_ready_want |  
+| bip_39_word_underscore_12 | melt_hobby_barrel_jaguar_hello_body_baby_magic_tent_ready_want_answer |  
+| bip_39_word_underscore_2 | melt_hobby |  
+| bip_39_word_underscore_3 | melt_hobby_barrel |  
+| bip_39_word_underscore_4 | melt_hobby_barrel_jaguar |  
+| bip_39_word_underscore_5 | melt_hobby_barrel_jaguar_hello |  
+| bip_39_word_underscore_6 | melt_hobby_barrel_jaguar_hello_body |  
+| bip_39_word_underscore_7 | melt_hobby_barrel_jaguar_hello_body_baby |  
+| bip_39_word_underscore_8 | melt_hobby_barrel_jaguar_hello_body_baby_magic |  
+| bip_39_word_underscore_9 | melt_hobby_barrel_jaguar_hello_body_baby_magic_tent |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

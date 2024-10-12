@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crazy
+bip_39_word_dash_10: crazy-chest-opinion-bridge-vintage-brass-useful-smart-turtle-glory
+bip_39_word_dash_11: crazy-chest-opinion-bridge-vintage-brass-useful-smart-turtle-glory-fog
+bip_39_word_dash_12: crazy-chest-opinion-bridge-vintage-brass-useful-smart-turtle-glory-fog-arch
+bip_39_word_dash_2: crazy-chest
+bip_39_word_dash_3: crazy-chest-opinion
+bip_39_word_dash_4: crazy-chest-opinion-bridge
+bip_39_word_dash_5: crazy-chest-opinion-bridge-vintage
+bip_39_word_dash_6: crazy-chest-opinion-bridge-vintage-brass
+bip_39_word_dash_7: crazy-chest-opinion-bridge-vintage-brass-useful
+bip_39_word_dash_8: crazy-chest-opinion-bridge-vintage-brass-useful-smart
+bip_39_word_dash_9: crazy-chest-opinion-bridge-vintage-brass-useful-smart-turtle
 bip_39_word_new_br_1: crazy
 bip_39_word_new_br_10: crazy<br>chest<br>opinion<br>bridge<br>vintage<br>brass<br>useful<br>smart<br>turtle<br>glory
 bip_39_word_new_br_11: crazy<br>chest<br>opinion<br>bridge<br>vintage<br>brass<br>useful<br>smart<br>turtle<br>glory<br>fog
@@ -194,6 +206,18 @@ bip_39_word_space_6: crazy chest opinion bridge vintage brass
 bip_39_word_space_7: crazy chest opinion bridge vintage brass useful
 bip_39_word_space_8: crazy chest opinion bridge vintage brass useful smart
 bip_39_word_space_9: crazy chest opinion bridge vintage brass useful smart turtle
+bip_39_word_underscore_1: crazy
+bip_39_word_underscore_10: crazy_chest_opinion_bridge_vintage_brass_useful_smart_turtle_glory
+bip_39_word_underscore_11: crazy_chest_opinion_bridge_vintage_brass_useful_smart_turtle_glory_fog
+bip_39_word_underscore_12: crazy_chest_opinion_bridge_vintage_brass_useful_smart_turtle_glory_fog_arch
+bip_39_word_underscore_2: crazy_chest
+bip_39_word_underscore_3: crazy_chest_opinion
+bip_39_word_underscore_4: crazy_chest_opinion_bridge
+bip_39_word_underscore_5: crazy_chest_opinion_bridge_vintage
+bip_39_word_underscore_6: crazy_chest_opinion_bridge_vintage_brass
+bip_39_word_underscore_7: crazy_chest_opinion_bridge_vintage_brass_useful
+bip_39_word_underscore_8: crazy_chest_opinion_bridge_vintage_brass_useful_smart
+bip_39_word_underscore_9: crazy_chest_opinion_bridge_vintage_brass_useful_smart_turtle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

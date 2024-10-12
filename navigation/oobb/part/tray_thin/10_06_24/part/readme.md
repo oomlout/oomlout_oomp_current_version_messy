@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | job |  
+| bip_39_word_dash_10 | job-jelly-quantum-knee-time-awful-mimic-current-board-exclude |  
+| bip_39_word_dash_11 | job-jelly-quantum-knee-time-awful-mimic-current-board-exclude-august |  
+| bip_39_word_dash_12 | job-jelly-quantum-knee-time-awful-mimic-current-board-exclude-august-audit |  
+| bip_39_word_dash_2 | job-jelly |  
+| bip_39_word_dash_3 | job-jelly-quantum |  
+| bip_39_word_dash_4 | job-jelly-quantum-knee |  
+| bip_39_word_dash_5 | job-jelly-quantum-knee-time |  
+| bip_39_word_dash_6 | job-jelly-quantum-knee-time-awful |  
+| bip_39_word_dash_7 | job-jelly-quantum-knee-time-awful-mimic |  
+| bip_39_word_dash_8 | job-jelly-quantum-knee-time-awful-mimic-current |  
+| bip_39_word_dash_9 | job-jelly-quantum-knee-time-awful-mimic-current-board |  
 | bip_39_word_new_br_1 | job |  
 | bip_39_word_new_br_10 | job<br>jelly<br>quantum<br>knee<br>time<br>awful<br>mimic<br>current<br>board<br>exclude |  
 | bip_39_word_new_br_11 | job<br>jelly<br>quantum<br>knee<br>time<br>awful<br>mimic<br>current<br>board<br>exclude<br>august |  
@@ -147,6 +159,18 @@ board |
 | bip_39_word_space_7 | job jelly quantum knee time awful mimic |  
 | bip_39_word_space_8 | job jelly quantum knee time awful mimic current |  
 | bip_39_word_space_9 | job jelly quantum knee time awful mimic current board |  
+| bip_39_word_underscore_1 | job |  
+| bip_39_word_underscore_10 | job_jelly_quantum_knee_time_awful_mimic_current_board_exclude |  
+| bip_39_word_underscore_11 | job_jelly_quantum_knee_time_awful_mimic_current_board_exclude_august |  
+| bip_39_word_underscore_12 | job_jelly_quantum_knee_time_awful_mimic_current_board_exclude_august_audit |  
+| bip_39_word_underscore_2 | job_jelly |  
+| bip_39_word_underscore_3 | job_jelly_quantum |  
+| bip_39_word_underscore_4 | job_jelly_quantum_knee |  
+| bip_39_word_underscore_5 | job_jelly_quantum_knee_time |  
+| bip_39_word_underscore_6 | job_jelly_quantum_knee_time_awful |  
+| bip_39_word_underscore_7 | job_jelly_quantum_knee_time_awful_mimic |  
+| bip_39_word_underscore_8 | job_jelly_quantum_knee_time_awful_mimic_current |  
+| bip_39_word_underscore_9 | job_jelly_quantum_knee_time_awful_mimic_current_board |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

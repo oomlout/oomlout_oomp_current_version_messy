@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | near |  
+| bip_39_word_dash_10 | near-shrug-immense-mistake-select-clock-basic-supreme-east-sting |  
+| bip_39_word_dash_11 | near-shrug-immense-mistake-select-clock-basic-supreme-east-sting-banana |  
+| bip_39_word_dash_12 | near-shrug-immense-mistake-select-clock-basic-supreme-east-sting-banana-avocado |  
+| bip_39_word_dash_2 | near-shrug |  
+| bip_39_word_dash_3 | near-shrug-immense |  
+| bip_39_word_dash_4 | near-shrug-immense-mistake |  
+| bip_39_word_dash_5 | near-shrug-immense-mistake-select |  
+| bip_39_word_dash_6 | near-shrug-immense-mistake-select-clock |  
+| bip_39_word_dash_7 | near-shrug-immense-mistake-select-clock-basic |  
+| bip_39_word_dash_8 | near-shrug-immense-mistake-select-clock-basic-supreme |  
+| bip_39_word_dash_9 | near-shrug-immense-mistake-select-clock-basic-supreme-east |  
 | bip_39_word_new_br_1 | near |  
 | bip_39_word_new_br_10 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting |  
 | bip_39_word_new_br_11 | near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting<br>banana |  
@@ -147,6 +159,18 @@ east |
 | bip_39_word_space_7 | near shrug immense mistake select clock basic |  
 | bip_39_word_space_8 | near shrug immense mistake select clock basic supreme |  
 | bip_39_word_space_9 | near shrug immense mistake select clock basic supreme east |  
+| bip_39_word_underscore_1 | near |  
+| bip_39_word_underscore_10 | near_shrug_immense_mistake_select_clock_basic_supreme_east_sting |  
+| bip_39_word_underscore_11 | near_shrug_immense_mistake_select_clock_basic_supreme_east_sting_banana |  
+| bip_39_word_underscore_12 | near_shrug_immense_mistake_select_clock_basic_supreme_east_sting_banana_avocado |  
+| bip_39_word_underscore_2 | near_shrug |  
+| bip_39_word_underscore_3 | near_shrug_immense |  
+| bip_39_word_underscore_4 | near_shrug_immense_mistake |  
+| bip_39_word_underscore_5 | near_shrug_immense_mistake_select |  
+| bip_39_word_underscore_6 | near_shrug_immense_mistake_select_clock |  
+| bip_39_word_underscore_7 | near_shrug_immense_mistake_select_clock_basic |  
+| bip_39_word_underscore_8 | near_shrug_immense_mistake_select_clock_basic_supreme |  
+| bip_39_word_underscore_9 | near_shrug_immense_mistake_select_clock_basic_supreme_east |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

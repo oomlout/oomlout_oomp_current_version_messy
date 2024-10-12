@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebel |  
+| bip_39_word_dash_10 | rebel-hurdle-media-sword-twenty-nose-clinic-alarm-sugar-obtain |  
+| bip_39_word_dash_11 | rebel-hurdle-media-sword-twenty-nose-clinic-alarm-sugar-obtain-monster |  
+| bip_39_word_dash_12 | rebel-hurdle-media-sword-twenty-nose-clinic-alarm-sugar-obtain-monster-artist |  
+| bip_39_word_dash_2 | rebel-hurdle |  
+| bip_39_word_dash_3 | rebel-hurdle-media |  
+| bip_39_word_dash_4 | rebel-hurdle-media-sword |  
+| bip_39_word_dash_5 | rebel-hurdle-media-sword-twenty |  
+| bip_39_word_dash_6 | rebel-hurdle-media-sword-twenty-nose |  
+| bip_39_word_dash_7 | rebel-hurdle-media-sword-twenty-nose-clinic |  
+| bip_39_word_dash_8 | rebel-hurdle-media-sword-twenty-nose-clinic-alarm |  
+| bip_39_word_dash_9 | rebel-hurdle-media-sword-twenty-nose-clinic-alarm-sugar |  
 | bip_39_word_new_br_1 | rebel |  
 | bip_39_word_new_br_10 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain |  
 | bip_39_word_new_br_11 | rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain<br>monster |  
@@ -147,6 +159,18 @@ sugar |
 | bip_39_word_space_7 | rebel hurdle media sword twenty nose clinic |  
 | bip_39_word_space_8 | rebel hurdle media sword twenty nose clinic alarm |  
 | bip_39_word_space_9 | rebel hurdle media sword twenty nose clinic alarm sugar |  
+| bip_39_word_underscore_1 | rebel |  
+| bip_39_word_underscore_10 | rebel_hurdle_media_sword_twenty_nose_clinic_alarm_sugar_obtain |  
+| bip_39_word_underscore_11 | rebel_hurdle_media_sword_twenty_nose_clinic_alarm_sugar_obtain_monster |  
+| bip_39_word_underscore_12 | rebel_hurdle_media_sword_twenty_nose_clinic_alarm_sugar_obtain_monster_artist |  
+| bip_39_word_underscore_2 | rebel_hurdle |  
+| bip_39_word_underscore_3 | rebel_hurdle_media |  
+| bip_39_word_underscore_4 | rebel_hurdle_media_sword |  
+| bip_39_word_underscore_5 | rebel_hurdle_media_sword_twenty |  
+| bip_39_word_underscore_6 | rebel_hurdle_media_sword_twenty_nose |  
+| bip_39_word_underscore_7 | rebel_hurdle_media_sword_twenty_nose_clinic |  
+| bip_39_word_underscore_8 | rebel_hurdle_media_sword_twenty_nose_clinic_alarm |  
+| bip_39_word_underscore_9 | rebel_hurdle_media_sword_twenty_nose_clinic_alarm_sugar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

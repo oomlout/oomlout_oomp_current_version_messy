@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | puppy |  
+| bip_39_word_dash_10 | puppy-clarify-spring-lyrics-green-buzz-shed-museum-relief-certain |  
+| bip_39_word_dash_11 | puppy-clarify-spring-lyrics-green-buzz-shed-museum-relief-certain-exit |  
+| bip_39_word_dash_12 | puppy-clarify-spring-lyrics-green-buzz-shed-museum-relief-certain-exit-arena |  
+| bip_39_word_dash_2 | puppy-clarify |  
+| bip_39_word_dash_3 | puppy-clarify-spring |  
+| bip_39_word_dash_4 | puppy-clarify-spring-lyrics |  
+| bip_39_word_dash_5 | puppy-clarify-spring-lyrics-green |  
+| bip_39_word_dash_6 | puppy-clarify-spring-lyrics-green-buzz |  
+| bip_39_word_dash_7 | puppy-clarify-spring-lyrics-green-buzz-shed |  
+| bip_39_word_dash_8 | puppy-clarify-spring-lyrics-green-buzz-shed-museum |  
+| bip_39_word_dash_9 | puppy-clarify-spring-lyrics-green-buzz-shed-museum-relief |  
 | bip_39_word_new_br_1 | puppy |  
 | bip_39_word_new_br_10 | puppy<br>clarify<br>spring<br>lyrics<br>green<br>buzz<br>shed<br>museum<br>relief<br>certain |  
 | bip_39_word_new_br_11 | puppy<br>clarify<br>spring<br>lyrics<br>green<br>buzz<br>shed<br>museum<br>relief<br>certain<br>exit |  
@@ -147,6 +159,18 @@ relief |
 | bip_39_word_space_7 | puppy clarify spring lyrics green buzz shed |  
 | bip_39_word_space_8 | puppy clarify spring lyrics green buzz shed museum |  
 | bip_39_word_space_9 | puppy clarify spring lyrics green buzz shed museum relief |  
+| bip_39_word_underscore_1 | puppy |  
+| bip_39_word_underscore_10 | puppy_clarify_spring_lyrics_green_buzz_shed_museum_relief_certain |  
+| bip_39_word_underscore_11 | puppy_clarify_spring_lyrics_green_buzz_shed_museum_relief_certain_exit |  
+| bip_39_word_underscore_12 | puppy_clarify_spring_lyrics_green_buzz_shed_museum_relief_certain_exit_arena |  
+| bip_39_word_underscore_2 | puppy_clarify |  
+| bip_39_word_underscore_3 | puppy_clarify_spring |  
+| bip_39_word_underscore_4 | puppy_clarify_spring_lyrics |  
+| bip_39_word_underscore_5 | puppy_clarify_spring_lyrics_green |  
+| bip_39_word_underscore_6 | puppy_clarify_spring_lyrics_green_buzz |  
+| bip_39_word_underscore_7 | puppy_clarify_spring_lyrics_green_buzz_shed |  
+| bip_39_word_underscore_8 | puppy_clarify_spring_lyrics_green_buzz_shed_museum |  
+| bip_39_word_underscore_9 | puppy_clarify_spring_lyrics_green_buzz_shed_museum_relief |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

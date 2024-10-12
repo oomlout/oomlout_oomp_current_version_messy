@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gospel
+bip_39_word_dash_10: gospel-develop-genre-reflect-awkward-shiver-same-parade-vocal-social
+bip_39_word_dash_11: gospel-develop-genre-reflect-awkward-shiver-same-parade-vocal-social-emerge
+bip_39_word_dash_12: gospel-develop-genre-reflect-awkward-shiver-same-parade-vocal-social-emerge-armor
+bip_39_word_dash_2: gospel-develop
+bip_39_word_dash_3: gospel-develop-genre
+bip_39_word_dash_4: gospel-develop-genre-reflect
+bip_39_word_dash_5: gospel-develop-genre-reflect-awkward
+bip_39_word_dash_6: gospel-develop-genre-reflect-awkward-shiver
+bip_39_word_dash_7: gospel-develop-genre-reflect-awkward-shiver-same
+bip_39_word_dash_8: gospel-develop-genre-reflect-awkward-shiver-same-parade
+bip_39_word_dash_9: gospel-develop-genre-reflect-awkward-shiver-same-parade-vocal
 bip_39_word_new_br_1: gospel
 bip_39_word_new_br_10: gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social
 bip_39_word_new_br_11: gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social<br>emerge
@@ -194,6 +206,18 @@ bip_39_word_space_6: gospel develop genre reflect awkward shiver
 bip_39_word_space_7: gospel develop genre reflect awkward shiver same
 bip_39_word_space_8: gospel develop genre reflect awkward shiver same parade
 bip_39_word_space_9: gospel develop genre reflect awkward shiver same parade vocal
+bip_39_word_underscore_1: gospel
+bip_39_word_underscore_10: gospel_develop_genre_reflect_awkward_shiver_same_parade_vocal_social
+bip_39_word_underscore_11: gospel_develop_genre_reflect_awkward_shiver_same_parade_vocal_social_emerge
+bip_39_word_underscore_12: gospel_develop_genre_reflect_awkward_shiver_same_parade_vocal_social_emerge_armor
+bip_39_word_underscore_2: gospel_develop
+bip_39_word_underscore_3: gospel_develop_genre
+bip_39_word_underscore_4: gospel_develop_genre_reflect
+bip_39_word_underscore_5: gospel_develop_genre_reflect_awkward
+bip_39_word_underscore_6: gospel_develop_genre_reflect_awkward_shiver
+bip_39_word_underscore_7: gospel_develop_genre_reflect_awkward_shiver_same
+bip_39_word_underscore_8: gospel_develop_genre_reflect_awkward_shiver_same_parade
+bip_39_word_underscore_9: gospel_develop_genre_reflect_awkward_shiver_same_parade_vocal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: close
+bip_39_word_dash_10: close-lift-enroll-skull-crush-round-exhaust-basket-antenna-clerk
+bip_39_word_dash_11: close-lift-enroll-skull-crush-round-exhaust-basket-antenna-clerk-winner
+bip_39_word_dash_12: close-lift-enroll-skull-crush-round-exhaust-basket-antenna-clerk-winner-alert
+bip_39_word_dash_2: close-lift
+bip_39_word_dash_3: close-lift-enroll
+bip_39_word_dash_4: close-lift-enroll-skull
+bip_39_word_dash_5: close-lift-enroll-skull-crush
+bip_39_word_dash_6: close-lift-enroll-skull-crush-round
+bip_39_word_dash_7: close-lift-enroll-skull-crush-round-exhaust
+bip_39_word_dash_8: close-lift-enroll-skull-crush-round-exhaust-basket
+bip_39_word_dash_9: close-lift-enroll-skull-crush-round-exhaust-basket-antenna
 bip_39_word_new_br_1: close
 bip_39_word_new_br_10: close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket<br>antenna<br>clerk
 bip_39_word_new_br_11: close<br>lift<br>enroll<br>skull<br>crush<br>round<br>exhaust<br>basket<br>antenna<br>clerk<br>winner
@@ -193,6 +205,18 @@ bip_39_word_space_6: close lift enroll skull crush round
 bip_39_word_space_7: close lift enroll skull crush round exhaust
 bip_39_word_space_8: close lift enroll skull crush round exhaust basket
 bip_39_word_space_9: close lift enroll skull crush round exhaust basket antenna
+bip_39_word_underscore_1: close
+bip_39_word_underscore_10: close_lift_enroll_skull_crush_round_exhaust_basket_antenna_clerk
+bip_39_word_underscore_11: close_lift_enroll_skull_crush_round_exhaust_basket_antenna_clerk_winner
+bip_39_word_underscore_12: close_lift_enroll_skull_crush_round_exhaust_basket_antenna_clerk_winner_alert
+bip_39_word_underscore_2: close_lift
+bip_39_word_underscore_3: close_lift_enroll
+bip_39_word_underscore_4: close_lift_enroll_skull
+bip_39_word_underscore_5: close_lift_enroll_skull_crush
+bip_39_word_underscore_6: close_lift_enroll_skull_crush_round
+bip_39_word_underscore_7: close_lift_enroll_skull_crush_round_exhaust
+bip_39_word_underscore_8: close_lift_enroll_skull_crush_round_exhaust_basket
+bip_39_word_underscore_9: close_lift_enroll_skull_crush_round_exhaust_basket_antenna
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

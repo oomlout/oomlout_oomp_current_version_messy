@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | despair |  
+| bip_39_word_dash_10 | despair-hedgehog-critic-claw-lawn-virus-mango-review-smoke-mother |  
+| bip_39_word_dash_11 | despair-hedgehog-critic-claw-lawn-virus-mango-review-smoke-mother-absorb |  
+| bip_39_word_dash_12 | despair-hedgehog-critic-claw-lawn-virus-mango-review-smoke-mother-absorb-armed |  
+| bip_39_word_dash_2 | despair-hedgehog |  
+| bip_39_word_dash_3 | despair-hedgehog-critic |  
+| bip_39_word_dash_4 | despair-hedgehog-critic-claw |  
+| bip_39_word_dash_5 | despair-hedgehog-critic-claw-lawn |  
+| bip_39_word_dash_6 | despair-hedgehog-critic-claw-lawn-virus |  
+| bip_39_word_dash_7 | despair-hedgehog-critic-claw-lawn-virus-mango |  
+| bip_39_word_dash_8 | despair-hedgehog-critic-claw-lawn-virus-mango-review |  
+| bip_39_word_dash_9 | despair-hedgehog-critic-claw-lawn-virus-mango-review-smoke |  
 | bip_39_word_new_br_1 | despair |  
 | bip_39_word_new_br_10 | despair<br>hedgehog<br>critic<br>claw<br>lawn<br>virus<br>mango<br>review<br>smoke<br>mother |  
 | bip_39_word_new_br_11 | despair<br>hedgehog<br>critic<br>claw<br>lawn<br>virus<br>mango<br>review<br>smoke<br>mother<br>absorb |  
@@ -147,6 +159,18 @@ smoke |
 | bip_39_word_space_7 | despair hedgehog critic claw lawn virus mango |  
 | bip_39_word_space_8 | despair hedgehog critic claw lawn virus mango review |  
 | bip_39_word_space_9 | despair hedgehog critic claw lawn virus mango review smoke |  
+| bip_39_word_underscore_1 | despair |  
+| bip_39_word_underscore_10 | despair_hedgehog_critic_claw_lawn_virus_mango_review_smoke_mother |  
+| bip_39_word_underscore_11 | despair_hedgehog_critic_claw_lawn_virus_mango_review_smoke_mother_absorb |  
+| bip_39_word_underscore_12 | despair_hedgehog_critic_claw_lawn_virus_mango_review_smoke_mother_absorb_armed |  
+| bip_39_word_underscore_2 | despair_hedgehog |  
+| bip_39_word_underscore_3 | despair_hedgehog_critic |  
+| bip_39_word_underscore_4 | despair_hedgehog_critic_claw |  
+| bip_39_word_underscore_5 | despair_hedgehog_critic_claw_lawn |  
+| bip_39_word_underscore_6 | despair_hedgehog_critic_claw_lawn_virus |  
+| bip_39_word_underscore_7 | despair_hedgehog_critic_claw_lawn_virus_mango |  
+| bip_39_word_underscore_8 | despair_hedgehog_critic_claw_lawn_virus_mango_review |  
+| bip_39_word_underscore_9 | despair_hedgehog_critic_claw_lawn_virus_mango_review_smoke |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

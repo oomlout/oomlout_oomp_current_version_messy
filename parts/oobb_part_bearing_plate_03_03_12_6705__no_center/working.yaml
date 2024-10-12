@@ -1,3 +1,14 @@
+bip_39_word_dash_1: twenty
+bip_39_word_dash_10: twenty-debate-nerve-dismiss-toast-label-early-damp-model-brick
+bip_39_word_dash_11: twenty-debate-nerve-dismiss-toast-label-early-damp-model-brick-summer
+bip_39_word_dash_2: twenty-debate
+bip_39_word_dash_3: twenty-debate-nerve
+bip_39_word_dash_4: twenty-debate-nerve-dismiss
+bip_39_word_dash_5: twenty-debate-nerve-dismiss-toast
+bip_39_word_dash_6: twenty-debate-nerve-dismiss-toast-label
+bip_39_word_dash_7: twenty-debate-nerve-dismiss-toast-label-early
+bip_39_word_dash_8: twenty-debate-nerve-dismiss-toast-label-early-damp
+bip_39_word_dash_9: twenty-debate-nerve-dismiss-toast-label-early-damp-model
 bip_39_word_new_br_1: twenty
 bip_39_word_new_br_10: twenty<br>debate<br>nerve<br>dismiss<br>toast<br>label<br>early<br>damp<br>model<br>brick
 bip_39_word_new_br_11: twenty<br>debate<br>nerve<br>dismiss<br>toast<br>label<br>early<br>damp<br>model<br>brick<br>summer
@@ -165,6 +176,17 @@ bip_39_word_space_6: twenty debate nerve dismiss toast label
 bip_39_word_space_7: twenty debate nerve dismiss toast label early
 bip_39_word_space_8: twenty debate nerve dismiss toast label early damp
 bip_39_word_space_9: twenty debate nerve dismiss toast label early damp model
+bip_39_word_underscore_1: twenty
+bip_39_word_underscore_10: twenty_debate_nerve_dismiss_toast_label_early_damp_model_brick
+bip_39_word_underscore_11: twenty_debate_nerve_dismiss_toast_label_early_damp_model_brick_summer
+bip_39_word_underscore_2: twenty_debate
+bip_39_word_underscore_3: twenty_debate_nerve
+bip_39_word_underscore_4: twenty_debate_nerve_dismiss
+bip_39_word_underscore_5: twenty_debate_nerve_dismiss_toast
+bip_39_word_underscore_6: twenty_debate_nerve_dismiss_toast_label
+bip_39_word_underscore_7: twenty_debate_nerve_dismiss_toast_label_early
+bip_39_word_underscore_8: twenty_debate_nerve_dismiss_toast_label_early_damp
+bip_39_word_underscore_9: twenty_debate_nerve_dismiss_toast_label_early_damp_model
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

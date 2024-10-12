@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | actress |  
+| bip_39_word_dash_10 | actress-father-seminar-bacon-involve-tape-twin-skin-grief-lamp |  
+| bip_39_word_dash_11 | actress-father-seminar-bacon-involve-tape-twin-skin-grief-lamp-valid |  
+| bip_39_word_dash_12 | actress-father-seminar-bacon-involve-tape-twin-skin-grief-lamp-valid-alcohol |  
+| bip_39_word_dash_2 | actress-father |  
+| bip_39_word_dash_3 | actress-father-seminar |  
+| bip_39_word_dash_4 | actress-father-seminar-bacon |  
+| bip_39_word_dash_5 | actress-father-seminar-bacon-involve |  
+| bip_39_word_dash_6 | actress-father-seminar-bacon-involve-tape |  
+| bip_39_word_dash_7 | actress-father-seminar-bacon-involve-tape-twin |  
+| bip_39_word_dash_8 | actress-father-seminar-bacon-involve-tape-twin-skin |  
+| bip_39_word_dash_9 | actress-father-seminar-bacon-involve-tape-twin-skin-grief |  
 | bip_39_word_new_br_1 | actress |  
 | bip_39_word_new_br_10 | actress<br>father<br>seminar<br>bacon<br>involve<br>tape<br>twin<br>skin<br>grief<br>lamp |  
 | bip_39_word_new_br_11 | actress<br>father<br>seminar<br>bacon<br>involve<br>tape<br>twin<br>skin<br>grief<br>lamp<br>valid |  
@@ -147,6 +159,18 @@ grief |
 | bip_39_word_space_7 | actress father seminar bacon involve tape twin |  
 | bip_39_word_space_8 | actress father seminar bacon involve tape twin skin |  
 | bip_39_word_space_9 | actress father seminar bacon involve tape twin skin grief |  
+| bip_39_word_underscore_1 | actress |  
+| bip_39_word_underscore_10 | actress_father_seminar_bacon_involve_tape_twin_skin_grief_lamp |  
+| bip_39_word_underscore_11 | actress_father_seminar_bacon_involve_tape_twin_skin_grief_lamp_valid |  
+| bip_39_word_underscore_12 | actress_father_seminar_bacon_involve_tape_twin_skin_grief_lamp_valid_alcohol |  
+| bip_39_word_underscore_2 | actress_father |  
+| bip_39_word_underscore_3 | actress_father_seminar |  
+| bip_39_word_underscore_4 | actress_father_seminar_bacon |  
+| bip_39_word_underscore_5 | actress_father_seminar_bacon_involve |  
+| bip_39_word_underscore_6 | actress_father_seminar_bacon_involve_tape |  
+| bip_39_word_underscore_7 | actress_father_seminar_bacon_involve_tape_twin |  
+| bip_39_word_underscore_8 | actress_father_seminar_bacon_involve_tape_twin_skin |  
+| bip_39_word_underscore_9 | actress_father_seminar_bacon_involve_tape_twin_skin_grief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

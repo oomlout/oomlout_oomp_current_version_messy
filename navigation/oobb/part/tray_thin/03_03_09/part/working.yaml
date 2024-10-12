@@ -1,3 +1,15 @@
+bip_39_word_dash_1: disease
+bip_39_word_dash_10: disease-pudding-marble-hotel-perfect-pupil-smooth-open-bread-merry
+bip_39_word_dash_11: disease-pudding-marble-hotel-perfect-pupil-smooth-open-bread-merry-suit
+bip_39_word_dash_12: disease-pudding-marble-hotel-perfect-pupil-smooth-open-bread-merry-suit-armor
+bip_39_word_dash_2: disease-pudding
+bip_39_word_dash_3: disease-pudding-marble
+bip_39_word_dash_4: disease-pudding-marble-hotel
+bip_39_word_dash_5: disease-pudding-marble-hotel-perfect
+bip_39_word_dash_6: disease-pudding-marble-hotel-perfect-pupil
+bip_39_word_dash_7: disease-pudding-marble-hotel-perfect-pupil-smooth
+bip_39_word_dash_8: disease-pudding-marble-hotel-perfect-pupil-smooth-open
+bip_39_word_dash_9: disease-pudding-marble-hotel-perfect-pupil-smooth-open-bread
 bip_39_word_new_br_1: disease
 bip_39_word_new_br_10: disease<br>pudding<br>marble<br>hotel<br>perfect<br>pupil<br>smooth<br>open<br>bread<br>merry
 bip_39_word_new_br_11: disease<br>pudding<br>marble<br>hotel<br>perfect<br>pupil<br>smooth<br>open<br>bread<br>merry<br>suit
@@ -194,6 +206,18 @@ bip_39_word_space_6: disease pudding marble hotel perfect pupil
 bip_39_word_space_7: disease pudding marble hotel perfect pupil smooth
 bip_39_word_space_8: disease pudding marble hotel perfect pupil smooth open
 bip_39_word_space_9: disease pudding marble hotel perfect pupil smooth open bread
+bip_39_word_underscore_1: disease
+bip_39_word_underscore_10: disease_pudding_marble_hotel_perfect_pupil_smooth_open_bread_merry
+bip_39_word_underscore_11: disease_pudding_marble_hotel_perfect_pupil_smooth_open_bread_merry_suit
+bip_39_word_underscore_12: disease_pudding_marble_hotel_perfect_pupil_smooth_open_bread_merry_suit_armor
+bip_39_word_underscore_2: disease_pudding
+bip_39_word_underscore_3: disease_pudding_marble
+bip_39_word_underscore_4: disease_pudding_marble_hotel
+bip_39_word_underscore_5: disease_pudding_marble_hotel_perfect
+bip_39_word_underscore_6: disease_pudding_marble_hotel_perfect_pupil
+bip_39_word_underscore_7: disease_pudding_marble_hotel_perfect_pupil_smooth
+bip_39_word_underscore_8: disease_pudding_marble_hotel_perfect_pupil_smooth_open
+bip_39_word_underscore_9: disease_pudding_marble_hotel_perfect_pupil_smooth_open_bread
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

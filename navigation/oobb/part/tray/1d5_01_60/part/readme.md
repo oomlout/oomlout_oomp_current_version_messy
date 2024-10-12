@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exclude |  
+| bip_39_word_dash_10 | exclude-degree-buddy-love-adjust-evil-frame-grocery-manage-swing |  
+| bip_39_word_dash_11 | exclude-degree-buddy-love-adjust-evil-frame-grocery-manage-swing-young |  
+| bip_39_word_dash_12 | exclude-degree-buddy-love-adjust-evil-frame-grocery-manage-swing-young-arm |  
+| bip_39_word_dash_2 | exclude-degree |  
+| bip_39_word_dash_3 | exclude-degree-buddy |  
+| bip_39_word_dash_4 | exclude-degree-buddy-love |  
+| bip_39_word_dash_5 | exclude-degree-buddy-love-adjust |  
+| bip_39_word_dash_6 | exclude-degree-buddy-love-adjust-evil |  
+| bip_39_word_dash_7 | exclude-degree-buddy-love-adjust-evil-frame |  
+| bip_39_word_dash_8 | exclude-degree-buddy-love-adjust-evil-frame-grocery |  
+| bip_39_word_dash_9 | exclude-degree-buddy-love-adjust-evil-frame-grocery-manage |  
 | bip_39_word_new_br_1 | exclude |  
 | bip_39_word_new_br_10 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing |  
 | bip_39_word_new_br_11 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing<br>young |  
@@ -147,6 +159,18 @@ manage |
 | bip_39_word_space_7 | exclude degree buddy love adjust evil frame |  
 | bip_39_word_space_8 | exclude degree buddy love adjust evil frame grocery |  
 | bip_39_word_space_9 | exclude degree buddy love adjust evil frame grocery manage |  
+| bip_39_word_underscore_1 | exclude |  
+| bip_39_word_underscore_10 | exclude_degree_buddy_love_adjust_evil_frame_grocery_manage_swing |  
+| bip_39_word_underscore_11 | exclude_degree_buddy_love_adjust_evil_frame_grocery_manage_swing_young |  
+| bip_39_word_underscore_12 | exclude_degree_buddy_love_adjust_evil_frame_grocery_manage_swing_young_arm |  
+| bip_39_word_underscore_2 | exclude_degree |  
+| bip_39_word_underscore_3 | exclude_degree_buddy |  
+| bip_39_word_underscore_4 | exclude_degree_buddy_love |  
+| bip_39_word_underscore_5 | exclude_degree_buddy_love_adjust |  
+| bip_39_word_underscore_6 | exclude_degree_buddy_love_adjust_evil |  
+| bip_39_word_underscore_7 | exclude_degree_buddy_love_adjust_evil_frame |  
+| bip_39_word_underscore_8 | exclude_degree_buddy_love_adjust_evil_frame_grocery |  
+| bip_39_word_underscore_9 | exclude_degree_buddy_love_adjust_evil_frame_grocery_manage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

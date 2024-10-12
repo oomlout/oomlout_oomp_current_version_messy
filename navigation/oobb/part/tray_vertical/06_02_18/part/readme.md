@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | action |  
+| bip_39_word_dash_10 | action-chronic-toe-metal-media-trip-elevator-enroll-limit-wreck |  
+| bip_39_word_dash_11 | action-chronic-toe-metal-media-trip-elevator-enroll-limit-wreck-fitness |  
+| bip_39_word_dash_12 | action-chronic-toe-metal-media-trip-elevator-enroll-limit-wreck-fitness-abuse |  
+| bip_39_word_dash_2 | action-chronic |  
+| bip_39_word_dash_3 | action-chronic-toe |  
+| bip_39_word_dash_4 | action-chronic-toe-metal |  
+| bip_39_word_dash_5 | action-chronic-toe-metal-media |  
+| bip_39_word_dash_6 | action-chronic-toe-metal-media-trip |  
+| bip_39_word_dash_7 | action-chronic-toe-metal-media-trip-elevator |  
+| bip_39_word_dash_8 | action-chronic-toe-metal-media-trip-elevator-enroll |  
+| bip_39_word_dash_9 | action-chronic-toe-metal-media-trip-elevator-enroll-limit |  
 | bip_39_word_new_br_1 | action |  
 | bip_39_word_new_br_10 | action<br>chronic<br>toe<br>metal<br>media<br>trip<br>elevator<br>enroll<br>limit<br>wreck |  
 | bip_39_word_new_br_11 | action<br>chronic<br>toe<br>metal<br>media<br>trip<br>elevator<br>enroll<br>limit<br>wreck<br>fitness |  
@@ -147,6 +159,18 @@ limit |
 | bip_39_word_space_7 | action chronic toe metal media trip elevator |  
 | bip_39_word_space_8 | action chronic toe metal media trip elevator enroll |  
 | bip_39_word_space_9 | action chronic toe metal media trip elevator enroll limit |  
+| bip_39_word_underscore_1 | action |  
+| bip_39_word_underscore_10 | action_chronic_toe_metal_media_trip_elevator_enroll_limit_wreck |  
+| bip_39_word_underscore_11 | action_chronic_toe_metal_media_trip_elevator_enroll_limit_wreck_fitness |  
+| bip_39_word_underscore_12 | action_chronic_toe_metal_media_trip_elevator_enroll_limit_wreck_fitness_abuse |  
+| bip_39_word_underscore_2 | action_chronic |  
+| bip_39_word_underscore_3 | action_chronic_toe |  
+| bip_39_word_underscore_4 | action_chronic_toe_metal |  
+| bip_39_word_underscore_5 | action_chronic_toe_metal_media |  
+| bip_39_word_underscore_6 | action_chronic_toe_metal_media_trip |  
+| bip_39_word_underscore_7 | action_chronic_toe_metal_media_trip_elevator |  
+| bip_39_word_underscore_8 | action_chronic_toe_metal_media_trip_elevator_enroll |  
+| bip_39_word_underscore_9 | action_chronic_toe_metal_media_trip_elevator_enroll_limit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

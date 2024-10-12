@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coffee |  
+| bip_39_word_dash_10 | coffee-dirt-poet-outer-stock-aware-neglect-rose-toddler-dolphin |  
+| bip_39_word_dash_11 | coffee-dirt-poet-outer-stock-aware-neglect-rose-toddler-dolphin-robust |  
+| bip_39_word_dash_12 | coffee-dirt-poet-outer-stock-aware-neglect-rose-toddler-dolphin-robust-acquire |  
+| bip_39_word_dash_2 | coffee-dirt |  
+| bip_39_word_dash_3 | coffee-dirt-poet |  
+| bip_39_word_dash_4 | coffee-dirt-poet-outer |  
+| bip_39_word_dash_5 | coffee-dirt-poet-outer-stock |  
+| bip_39_word_dash_6 | coffee-dirt-poet-outer-stock-aware |  
+| bip_39_word_dash_7 | coffee-dirt-poet-outer-stock-aware-neglect |  
+| bip_39_word_dash_8 | coffee-dirt-poet-outer-stock-aware-neglect-rose |  
+| bip_39_word_dash_9 | coffee-dirt-poet-outer-stock-aware-neglect-rose-toddler |  
 | bip_39_word_new_br_1 | coffee |  
 | bip_39_word_new_br_10 | coffee<br>dirt<br>poet<br>outer<br>stock<br>aware<br>neglect<br>rose<br>toddler<br>dolphin |  
 | bip_39_word_new_br_11 | coffee<br>dirt<br>poet<br>outer<br>stock<br>aware<br>neglect<br>rose<br>toddler<br>dolphin<br>robust |  
@@ -147,6 +159,18 @@ toddler |
 | bip_39_word_space_7 | coffee dirt poet outer stock aware neglect |  
 | bip_39_word_space_8 | coffee dirt poet outer stock aware neglect rose |  
 | bip_39_word_space_9 | coffee dirt poet outer stock aware neglect rose toddler |  
+| bip_39_word_underscore_1 | coffee |  
+| bip_39_word_underscore_10 | coffee_dirt_poet_outer_stock_aware_neglect_rose_toddler_dolphin |  
+| bip_39_word_underscore_11 | coffee_dirt_poet_outer_stock_aware_neglect_rose_toddler_dolphin_robust |  
+| bip_39_word_underscore_12 | coffee_dirt_poet_outer_stock_aware_neglect_rose_toddler_dolphin_robust_acquire |  
+| bip_39_word_underscore_2 | coffee_dirt |  
+| bip_39_word_underscore_3 | coffee_dirt_poet |  
+| bip_39_word_underscore_4 | coffee_dirt_poet_outer |  
+| bip_39_word_underscore_5 | coffee_dirt_poet_outer_stock |  
+| bip_39_word_underscore_6 | coffee_dirt_poet_outer_stock_aware |  
+| bip_39_word_underscore_7 | coffee_dirt_poet_outer_stock_aware_neglect |  
+| bip_39_word_underscore_8 | coffee_dirt_poet_outer_stock_aware_neglect_rose |  
+| bip_39_word_underscore_9 | coffee_dirt_poet_outer_stock_aware_neglect_rose_toddler |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

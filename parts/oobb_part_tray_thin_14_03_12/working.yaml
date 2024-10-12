@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spice
+bip_39_word_dash_10: spice-act-unveil-grab-disease-famous-erode-draft-response-forward
+bip_39_word_dash_11: spice-act-unveil-grab-disease-famous-erode-draft-response-forward-alert
+bip_39_word_dash_12: spice-act-unveil-grab-disease-famous-erode-draft-response-forward-alert-among
+bip_39_word_dash_2: spice-act
+bip_39_word_dash_3: spice-act-unveil
+bip_39_word_dash_4: spice-act-unveil-grab
+bip_39_word_dash_5: spice-act-unveil-grab-disease
+bip_39_word_dash_6: spice-act-unveil-grab-disease-famous
+bip_39_word_dash_7: spice-act-unveil-grab-disease-famous-erode
+bip_39_word_dash_8: spice-act-unveil-grab-disease-famous-erode-draft
+bip_39_word_dash_9: spice-act-unveil-grab-disease-famous-erode-draft-response
 bip_39_word_new_br_1: spice
 bip_39_word_new_br_10: spice<br>act<br>unveil<br>grab<br>disease<br>famous<br>erode<br>draft<br>response<br>forward
 bip_39_word_new_br_11: spice<br>act<br>unveil<br>grab<br>disease<br>famous<br>erode<br>draft<br>response<br>forward<br>alert
@@ -193,6 +205,18 @@ bip_39_word_space_6: spice act unveil grab disease famous
 bip_39_word_space_7: spice act unveil grab disease famous erode
 bip_39_word_space_8: spice act unveil grab disease famous erode draft
 bip_39_word_space_9: spice act unveil grab disease famous erode draft response
+bip_39_word_underscore_1: spice
+bip_39_word_underscore_10: spice_act_unveil_grab_disease_famous_erode_draft_response_forward
+bip_39_word_underscore_11: spice_act_unveil_grab_disease_famous_erode_draft_response_forward_alert
+bip_39_word_underscore_12: spice_act_unveil_grab_disease_famous_erode_draft_response_forward_alert_among
+bip_39_word_underscore_2: spice_act
+bip_39_word_underscore_3: spice_act_unveil
+bip_39_word_underscore_4: spice_act_unveil_grab
+bip_39_word_underscore_5: spice_act_unveil_grab_disease
+bip_39_word_underscore_6: spice_act_unveil_grab_disease_famous
+bip_39_word_underscore_7: spice_act_unveil_grab_disease_famous_erode
+bip_39_word_underscore_8: spice_act_unveil_grab_disease_famous_erode_draft
+bip_39_word_underscore_9: spice_act_unveil_grab_disease_famous_erode_draft_response
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

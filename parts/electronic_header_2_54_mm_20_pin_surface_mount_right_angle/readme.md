@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | state |  
+| bip_39_word_dash_10 | state-talent-carry-reform-panda-sadness-furnace-room-snack-hurt |  
+| bip_39_word_dash_11 | state-talent-carry-reform-panda-sadness-furnace-room-snack-hurt-resemble |  
+| bip_39_word_dash_12 | state-talent-carry-reform-panda-sadness-furnace-room-snack-hurt-resemble-attend |  
+| bip_39_word_dash_2 | state-talent |  
+| bip_39_word_dash_3 | state-talent-carry |  
+| bip_39_word_dash_4 | state-talent-carry-reform |  
+| bip_39_word_dash_5 | state-talent-carry-reform-panda |  
+| bip_39_word_dash_6 | state-talent-carry-reform-panda-sadness |  
+| bip_39_word_dash_7 | state-talent-carry-reform-panda-sadness-furnace |  
+| bip_39_word_dash_8 | state-talent-carry-reform-panda-sadness-furnace-room |  
+| bip_39_word_dash_9 | state-talent-carry-reform-panda-sadness-furnace-room-snack |  
 | bip_39_word_new_br_1 | state |  
 | bip_39_word_new_br_10 | state<br>talent<br>carry<br>reform<br>panda<br>sadness<br>furnace<br>room<br>snack<br>hurt |  
 | bip_39_word_new_br_11 | state<br>talent<br>carry<br>reform<br>panda<br>sadness<br>furnace<br>room<br>snack<br>hurt<br>resemble |  
@@ -147,6 +159,18 @@ snack |
 | bip_39_word_space_7 | state talent carry reform panda sadness furnace |  
 | bip_39_word_space_8 | state talent carry reform panda sadness furnace room |  
 | bip_39_word_space_9 | state talent carry reform panda sadness furnace room snack |  
+| bip_39_word_underscore_1 | state |  
+| bip_39_word_underscore_10 | state_talent_carry_reform_panda_sadness_furnace_room_snack_hurt |  
+| bip_39_word_underscore_11 | state_talent_carry_reform_panda_sadness_furnace_room_snack_hurt_resemble |  
+| bip_39_word_underscore_12 | state_talent_carry_reform_panda_sadness_furnace_room_snack_hurt_resemble_attend |  
+| bip_39_word_underscore_2 | state_talent |  
+| bip_39_word_underscore_3 | state_talent_carry |  
+| bip_39_word_underscore_4 | state_talent_carry_reform |  
+| bip_39_word_underscore_5 | state_talent_carry_reform_panda |  
+| bip_39_word_underscore_6 | state_talent_carry_reform_panda_sadness |  
+| bip_39_word_underscore_7 | state_talent_carry_reform_panda_sadness_furnace |  
+| bip_39_word_underscore_8 | state_talent_carry_reform_panda_sadness_furnace_room |  
+| bip_39_word_underscore_9 | state_talent_carry_reform_panda_sadness_furnace_room_snack |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: angle
+bip_39_word_dash_10: angle-subject-few-ginger-mad-unhappy-shock-session-naive-actress
+bip_39_word_dash_11: angle-subject-few-ginger-mad-unhappy-shock-session-naive-actress-soldier
+bip_39_word_dash_12: angle-subject-few-ginger-mad-unhappy-shock-session-naive-actress-soldier-around
+bip_39_word_dash_2: angle-subject
+bip_39_word_dash_3: angle-subject-few
+bip_39_word_dash_4: angle-subject-few-ginger
+bip_39_word_dash_5: angle-subject-few-ginger-mad
+bip_39_word_dash_6: angle-subject-few-ginger-mad-unhappy
+bip_39_word_dash_7: angle-subject-few-ginger-mad-unhappy-shock
+bip_39_word_dash_8: angle-subject-few-ginger-mad-unhappy-shock-session
+bip_39_word_dash_9: angle-subject-few-ginger-mad-unhappy-shock-session-naive
 bip_39_word_new_br_1: angle
 bip_39_word_new_br_10: angle<br>subject<br>few<br>ginger<br>mad<br>unhappy<br>shock<br>session<br>naive<br>actress
 bip_39_word_new_br_11: angle<br>subject<br>few<br>ginger<br>mad<br>unhappy<br>shock<br>session<br>naive<br>actress<br>soldier
@@ -193,6 +205,18 @@ bip_39_word_space_6: angle subject few ginger mad unhappy
 bip_39_word_space_7: angle subject few ginger mad unhappy shock
 bip_39_word_space_8: angle subject few ginger mad unhappy shock session
 bip_39_word_space_9: angle subject few ginger mad unhappy shock session naive
+bip_39_word_underscore_1: angle
+bip_39_word_underscore_10: angle_subject_few_ginger_mad_unhappy_shock_session_naive_actress
+bip_39_word_underscore_11: angle_subject_few_ginger_mad_unhappy_shock_session_naive_actress_soldier
+bip_39_word_underscore_12: angle_subject_few_ginger_mad_unhappy_shock_session_naive_actress_soldier_around
+bip_39_word_underscore_2: angle_subject
+bip_39_word_underscore_3: angle_subject_few
+bip_39_word_underscore_4: angle_subject_few_ginger
+bip_39_word_underscore_5: angle_subject_few_ginger_mad
+bip_39_word_underscore_6: angle_subject_few_ginger_mad_unhappy
+bip_39_word_underscore_7: angle_subject_few_ginger_mad_unhappy_shock
+bip_39_word_underscore_8: angle_subject_few_ginger_mad_unhappy_shock_session
+bip_39_word_underscore_9: angle_subject_few_ginger_mad_unhappy_shock_session_naive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

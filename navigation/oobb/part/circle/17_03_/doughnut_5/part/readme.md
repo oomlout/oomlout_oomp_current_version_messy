@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | body |  
+| bip_39_word_dash_10 | body-razor-load-eye-voyage-trap-upset-auto-must-moon |  
+| bip_39_word_dash_11 | body-razor-load-eye-voyage-trap-upset-auto-must-moon-cradle |  
+| bip_39_word_dash_12 | body-razor-load-eye-voyage-trap-upset-auto-must-moon-cradle-asset |  
+| bip_39_word_dash_2 | body-razor |  
+| bip_39_word_dash_3 | body-razor-load |  
+| bip_39_word_dash_4 | body-razor-load-eye |  
+| bip_39_word_dash_5 | body-razor-load-eye-voyage |  
+| bip_39_word_dash_6 | body-razor-load-eye-voyage-trap |  
+| bip_39_word_dash_7 | body-razor-load-eye-voyage-trap-upset |  
+| bip_39_word_dash_8 | body-razor-load-eye-voyage-trap-upset-auto |  
+| bip_39_word_dash_9 | body-razor-load-eye-voyage-trap-upset-auto-must |  
 | bip_39_word_new_br_1 | body |  
 | bip_39_word_new_br_10 | body<br>razor<br>load<br>eye<br>voyage<br>trap<br>upset<br>auto<br>must<br>moon |  
 | bip_39_word_new_br_11 | body<br>razor<br>load<br>eye<br>voyage<br>trap<br>upset<br>auto<br>must<br>moon<br>cradle |  
@@ -147,6 +159,18 @@ must |
 | bip_39_word_space_7 | body razor load eye voyage trap upset |  
 | bip_39_word_space_8 | body razor load eye voyage trap upset auto |  
 | bip_39_word_space_9 | body razor load eye voyage trap upset auto must |  
+| bip_39_word_underscore_1 | body |  
+| bip_39_word_underscore_10 | body_razor_load_eye_voyage_trap_upset_auto_must_moon |  
+| bip_39_word_underscore_11 | body_razor_load_eye_voyage_trap_upset_auto_must_moon_cradle |  
+| bip_39_word_underscore_12 | body_razor_load_eye_voyage_trap_upset_auto_must_moon_cradle_asset |  
+| bip_39_word_underscore_2 | body_razor |  
+| bip_39_word_underscore_3 | body_razor_load |  
+| bip_39_word_underscore_4 | body_razor_load_eye |  
+| bip_39_word_underscore_5 | body_razor_load_eye_voyage |  
+| bip_39_word_underscore_6 | body_razor_load_eye_voyage_trap |  
+| bip_39_word_underscore_7 | body_razor_load_eye_voyage_trap_upset |  
+| bip_39_word_underscore_8 | body_razor_load_eye_voyage_trap_upset_auto |  
+| bip_39_word_underscore_9 | body_razor_load_eye_voyage_trap_upset_auto_must |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

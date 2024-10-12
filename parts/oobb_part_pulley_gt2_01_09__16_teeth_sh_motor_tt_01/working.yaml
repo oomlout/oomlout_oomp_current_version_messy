@@ -1,3 +1,15 @@
+bip_39_word_dash_1: patient
+bip_39_word_dash_10: patient-pencil-awful-rescue-this-ankle-parent-neither-state-embark
+bip_39_word_dash_11: patient-pencil-awful-rescue-this-ankle-parent-neither-state-embark-liquid
+bip_39_word_dash_12: patient-pencil-awful-rescue-this-ankle-parent-neither-state-embark-liquid-aisle
+bip_39_word_dash_2: patient-pencil
+bip_39_word_dash_3: patient-pencil-awful
+bip_39_word_dash_4: patient-pencil-awful-rescue
+bip_39_word_dash_5: patient-pencil-awful-rescue-this
+bip_39_word_dash_6: patient-pencil-awful-rescue-this-ankle
+bip_39_word_dash_7: patient-pencil-awful-rescue-this-ankle-parent
+bip_39_word_dash_8: patient-pencil-awful-rescue-this-ankle-parent-neither
+bip_39_word_dash_9: patient-pencil-awful-rescue-this-ankle-parent-neither-state
 bip_39_word_new_br_1: patient
 bip_39_word_new_br_10: patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark
 bip_39_word_new_br_11: patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark<br>liquid
@@ -194,6 +206,18 @@ bip_39_word_space_6: patient pencil awful rescue this ankle
 bip_39_word_space_7: patient pencil awful rescue this ankle parent
 bip_39_word_space_8: patient pencil awful rescue this ankle parent neither
 bip_39_word_space_9: patient pencil awful rescue this ankle parent neither state
+bip_39_word_underscore_1: patient
+bip_39_word_underscore_10: patient_pencil_awful_rescue_this_ankle_parent_neither_state_embark
+bip_39_word_underscore_11: patient_pencil_awful_rescue_this_ankle_parent_neither_state_embark_liquid
+bip_39_word_underscore_12: patient_pencil_awful_rescue_this_ankle_parent_neither_state_embark_liquid_aisle
+bip_39_word_underscore_2: patient_pencil
+bip_39_word_underscore_3: patient_pencil_awful
+bip_39_word_underscore_4: patient_pencil_awful_rescue
+bip_39_word_underscore_5: patient_pencil_awful_rescue_this
+bip_39_word_underscore_6: patient_pencil_awful_rescue_this_ankle
+bip_39_word_underscore_7: patient_pencil_awful_rescue_this_ankle_parent
+bip_39_word_underscore_8: patient_pencil_awful_rescue_this_ankle_parent_neither
+bip_39_word_underscore_9: patient_pencil_awful_rescue_this_ankle_parent_neither_state
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

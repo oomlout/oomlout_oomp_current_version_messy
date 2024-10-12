@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wear |  
+| bip_39_word_dash_10 | wear-holiday-very-puppy-license-zoo-crime-victory-wait-figure |  
+| bip_39_word_dash_11 | wear-holiday-very-puppy-license-zoo-crime-victory-wait-figure-shy |  
+| bip_39_word_dash_12 | wear-holiday-very-puppy-license-zoo-crime-victory-wait-figure-shy-ahead |  
+| bip_39_word_dash_2 | wear-holiday |  
+| bip_39_word_dash_3 | wear-holiday-very |  
+| bip_39_word_dash_4 | wear-holiday-very-puppy |  
+| bip_39_word_dash_5 | wear-holiday-very-puppy-license |  
+| bip_39_word_dash_6 | wear-holiday-very-puppy-license-zoo |  
+| bip_39_word_dash_7 | wear-holiday-very-puppy-license-zoo-crime |  
+| bip_39_word_dash_8 | wear-holiday-very-puppy-license-zoo-crime-victory |  
+| bip_39_word_dash_9 | wear-holiday-very-puppy-license-zoo-crime-victory-wait |  
 | bip_39_word_new_br_1 | wear |  
 | bip_39_word_new_br_10 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory<br>wait<br>figure |  
 | bip_39_word_new_br_11 | wear<br>holiday<br>very<br>puppy<br>license<br>zoo<br>crime<br>victory<br>wait<br>figure<br>shy |  
@@ -147,6 +159,18 @@ wait |
 | bip_39_word_space_7 | wear holiday very puppy license zoo crime |  
 | bip_39_word_space_8 | wear holiday very puppy license zoo crime victory |  
 | bip_39_word_space_9 | wear holiday very puppy license zoo crime victory wait |  
+| bip_39_word_underscore_1 | wear |  
+| bip_39_word_underscore_10 | wear_holiday_very_puppy_license_zoo_crime_victory_wait_figure |  
+| bip_39_word_underscore_11 | wear_holiday_very_puppy_license_zoo_crime_victory_wait_figure_shy |  
+| bip_39_word_underscore_12 | wear_holiday_very_puppy_license_zoo_crime_victory_wait_figure_shy_ahead |  
+| bip_39_word_underscore_2 | wear_holiday |  
+| bip_39_word_underscore_3 | wear_holiday_very |  
+| bip_39_word_underscore_4 | wear_holiday_very_puppy |  
+| bip_39_word_underscore_5 | wear_holiday_very_puppy_license |  
+| bip_39_word_underscore_6 | wear_holiday_very_puppy_license_zoo |  
+| bip_39_word_underscore_7 | wear_holiday_very_puppy_license_zoo_crime |  
+| bip_39_word_underscore_8 | wear_holiday_very_puppy_license_zoo_crime_victory |  
+| bip_39_word_underscore_9 | wear_holiday_very_puppy_license_zoo_crime_victory_wait |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: faint
+bip_39_word_dash_10: faint-elbow-pass-loyal-spend-sister-panda-best-drip-law
+bip_39_word_dash_11: faint-elbow-pass-loyal-spend-sister-panda-best-drip-law-increase
+bip_39_word_dash_12: faint-elbow-pass-loyal-spend-sister-panda-best-drip-law-increase-alarm
+bip_39_word_dash_2: faint-elbow
+bip_39_word_dash_3: faint-elbow-pass
+bip_39_word_dash_4: faint-elbow-pass-loyal
+bip_39_word_dash_5: faint-elbow-pass-loyal-spend
+bip_39_word_dash_6: faint-elbow-pass-loyal-spend-sister
+bip_39_word_dash_7: faint-elbow-pass-loyal-spend-sister-panda
+bip_39_word_dash_8: faint-elbow-pass-loyal-spend-sister-panda-best
+bip_39_word_dash_9: faint-elbow-pass-loyal-spend-sister-panda-best-drip
 bip_39_word_new_br_1: faint
 bip_39_word_new_br_10: faint<br>elbow<br>pass<br>loyal<br>spend<br>sister<br>panda<br>best<br>drip<br>law
 bip_39_word_new_br_11: faint<br>elbow<br>pass<br>loyal<br>spend<br>sister<br>panda<br>best<br>drip<br>law<br>increase
@@ -192,6 +204,18 @@ bip_39_word_space_6: faint elbow pass loyal spend sister
 bip_39_word_space_7: faint elbow pass loyal spend sister panda
 bip_39_word_space_8: faint elbow pass loyal spend sister panda best
 bip_39_word_space_9: faint elbow pass loyal spend sister panda best drip
+bip_39_word_underscore_1: faint
+bip_39_word_underscore_10: faint_elbow_pass_loyal_spend_sister_panda_best_drip_law
+bip_39_word_underscore_11: faint_elbow_pass_loyal_spend_sister_panda_best_drip_law_increase
+bip_39_word_underscore_12: faint_elbow_pass_loyal_spend_sister_panda_best_drip_law_increase_alarm
+bip_39_word_underscore_2: faint_elbow
+bip_39_word_underscore_3: faint_elbow_pass
+bip_39_word_underscore_4: faint_elbow_pass_loyal
+bip_39_word_underscore_5: faint_elbow_pass_loyal_spend
+bip_39_word_underscore_6: faint_elbow_pass_loyal_spend_sister
+bip_39_word_underscore_7: faint_elbow_pass_loyal_spend_sister_panda
+bip_39_word_underscore_8: faint_elbow_pass_loyal_spend_sister_panda_best
+bip_39_word_underscore_9: faint_elbow_pass_loyal_spend_sister_panda_best_drip
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: protect
+bip_39_word_dash_10: protect-trust-crowd-cinnamon-street-approve-debate-sniff-ship-climb
+bip_39_word_dash_11: protect-trust-crowd-cinnamon-street-approve-debate-sniff-ship-climb-correct
+bip_39_word_dash_12: protect-trust-crowd-cinnamon-street-approve-debate-sniff-ship-climb-correct-acoustic
+bip_39_word_dash_2: protect-trust
+bip_39_word_dash_3: protect-trust-crowd
+bip_39_word_dash_4: protect-trust-crowd-cinnamon
+bip_39_word_dash_5: protect-trust-crowd-cinnamon-street
+bip_39_word_dash_6: protect-trust-crowd-cinnamon-street-approve
+bip_39_word_dash_7: protect-trust-crowd-cinnamon-street-approve-debate
+bip_39_word_dash_8: protect-trust-crowd-cinnamon-street-approve-debate-sniff
+bip_39_word_dash_9: protect-trust-crowd-cinnamon-street-approve-debate-sniff-ship
 bip_39_word_new_br_1: protect
 bip_39_word_new_br_10: protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff<br>ship<br>climb
 bip_39_word_new_br_11: protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff<br>ship<br>climb<br>correct
@@ -194,6 +206,18 @@ bip_39_word_space_6: protect trust crowd cinnamon street approve
 bip_39_word_space_7: protect trust crowd cinnamon street approve debate
 bip_39_word_space_8: protect trust crowd cinnamon street approve debate sniff
 bip_39_word_space_9: protect trust crowd cinnamon street approve debate sniff ship
+bip_39_word_underscore_1: protect
+bip_39_word_underscore_10: protect_trust_crowd_cinnamon_street_approve_debate_sniff_ship_climb
+bip_39_word_underscore_11: protect_trust_crowd_cinnamon_street_approve_debate_sniff_ship_climb_correct
+bip_39_word_underscore_12: protect_trust_crowd_cinnamon_street_approve_debate_sniff_ship_climb_correct_acoustic
+bip_39_word_underscore_2: protect_trust
+bip_39_word_underscore_3: protect_trust_crowd
+bip_39_word_underscore_4: protect_trust_crowd_cinnamon
+bip_39_word_underscore_5: protect_trust_crowd_cinnamon_street
+bip_39_word_underscore_6: protect_trust_crowd_cinnamon_street_approve
+bip_39_word_underscore_7: protect_trust_crowd_cinnamon_street_approve_debate
+bip_39_word_underscore_8: protect_trust_crowd_cinnamon_street_approve_debate_sniff
+bip_39_word_underscore_9: protect_trust_crowd_cinnamon_street_approve_debate_sniff_ship
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

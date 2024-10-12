@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | town |  
+| bip_39_word_dash_10 | town-bounce-have-hammer-maple-stem-friend-hole-reduce-sword |  
+| bip_39_word_dash_11 | town-bounce-have-hammer-maple-stem-friend-hole-reduce-sword-sound |  
+| bip_39_word_dash_12 | town-bounce-have-hammer-maple-stem-friend-hole-reduce-sword-sound-age |  
+| bip_39_word_dash_2 | town-bounce |  
+| bip_39_word_dash_3 | town-bounce-have |  
+| bip_39_word_dash_4 | town-bounce-have-hammer |  
+| bip_39_word_dash_5 | town-bounce-have-hammer-maple |  
+| bip_39_word_dash_6 | town-bounce-have-hammer-maple-stem |  
+| bip_39_word_dash_7 | town-bounce-have-hammer-maple-stem-friend |  
+| bip_39_word_dash_8 | town-bounce-have-hammer-maple-stem-friend-hole |  
+| bip_39_word_dash_9 | town-bounce-have-hammer-maple-stem-friend-hole-reduce |  
 | bip_39_word_new_br_1 | town |  
 | bip_39_word_new_br_10 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword |  
 | bip_39_word_new_br_11 | town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword<br>sound |  
@@ -147,6 +159,18 @@ reduce |
 | bip_39_word_space_7 | town bounce have hammer maple stem friend |  
 | bip_39_word_space_8 | town bounce have hammer maple stem friend hole |  
 | bip_39_word_space_9 | town bounce have hammer maple stem friend hole reduce |  
+| bip_39_word_underscore_1 | town |  
+| bip_39_word_underscore_10 | town_bounce_have_hammer_maple_stem_friend_hole_reduce_sword |  
+| bip_39_word_underscore_11 | town_bounce_have_hammer_maple_stem_friend_hole_reduce_sword_sound |  
+| bip_39_word_underscore_12 | town_bounce_have_hammer_maple_stem_friend_hole_reduce_sword_sound_age |  
+| bip_39_word_underscore_2 | town_bounce |  
+| bip_39_word_underscore_3 | town_bounce_have |  
+| bip_39_word_underscore_4 | town_bounce_have_hammer |  
+| bip_39_word_underscore_5 | town_bounce_have_hammer_maple |  
+| bip_39_word_underscore_6 | town_bounce_have_hammer_maple_stem |  
+| bip_39_word_underscore_7 | town_bounce_have_hammer_maple_stem_friend |  
+| bip_39_word_underscore_8 | town_bounce_have_hammer_maple_stem_friend_hole |  
+| bip_39_word_underscore_9 | town_bounce_have_hammer_maple_stem_friend_hole_reduce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

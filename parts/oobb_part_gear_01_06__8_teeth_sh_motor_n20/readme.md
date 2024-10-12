@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | forward |  
+| bip_39_word_dash_10 | forward-doll-thunder-aspect-purity-alien-travel-weapon-weapon-segment |  
+| bip_39_word_dash_11 | forward-doll-thunder-aspect-purity-alien-travel-weapon-weapon-segment-garlic |  
+| bip_39_word_dash_12 | forward-doll-thunder-aspect-purity-alien-travel-weapon-weapon-segment-garlic-annual |  
+| bip_39_word_dash_2 | forward-doll |  
+| bip_39_word_dash_3 | forward-doll-thunder |  
+| bip_39_word_dash_4 | forward-doll-thunder-aspect |  
+| bip_39_word_dash_5 | forward-doll-thunder-aspect-purity |  
+| bip_39_word_dash_6 | forward-doll-thunder-aspect-purity-alien |  
+| bip_39_word_dash_7 | forward-doll-thunder-aspect-purity-alien-travel |  
+| bip_39_word_dash_8 | forward-doll-thunder-aspect-purity-alien-travel-weapon |  
+| bip_39_word_dash_9 | forward-doll-thunder-aspect-purity-alien-travel-weapon-weapon |  
 | bip_39_word_new_br_1 | forward |  
 | bip_39_word_new_br_10 | forward<br>doll<br>thunder<br>aspect<br>purity<br>alien<br>travel<br>weapon<br>weapon<br>segment |  
 | bip_39_word_new_br_11 | forward<br>doll<br>thunder<br>aspect<br>purity<br>alien<br>travel<br>weapon<br>weapon<br>segment<br>garlic |  
@@ -147,6 +159,18 @@ weapon |
 | bip_39_word_space_7 | forward doll thunder aspect purity alien travel |  
 | bip_39_word_space_8 | forward doll thunder aspect purity alien travel weapon |  
 | bip_39_word_space_9 | forward doll thunder aspect purity alien travel weapon weapon |  
+| bip_39_word_underscore_1 | forward |  
+| bip_39_word_underscore_10 | forward_doll_thunder_aspect_purity_alien_travel_weapon_weapon_segment |  
+| bip_39_word_underscore_11 | forward_doll_thunder_aspect_purity_alien_travel_weapon_weapon_segment_garlic |  
+| bip_39_word_underscore_12 | forward_doll_thunder_aspect_purity_alien_travel_weapon_weapon_segment_garlic_annual |  
+| bip_39_word_underscore_2 | forward_doll |  
+| bip_39_word_underscore_3 | forward_doll_thunder |  
+| bip_39_word_underscore_4 | forward_doll_thunder_aspect |  
+| bip_39_word_underscore_5 | forward_doll_thunder_aspect_purity |  
+| bip_39_word_underscore_6 | forward_doll_thunder_aspect_purity_alien |  
+| bip_39_word_underscore_7 | forward_doll_thunder_aspect_purity_alien_travel |  
+| bip_39_word_underscore_8 | forward_doll_thunder_aspect_purity_alien_travel_weapon |  
+| bip_39_word_underscore_9 | forward_doll_thunder_aspect_purity_alien_travel_weapon_weapon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

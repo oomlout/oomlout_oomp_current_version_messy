@@ -1,3 +1,15 @@
+bip_39_word_dash_1: human
+bip_39_word_dash_10: human-mechanic-ask-armed-mixed-size-name-miracle-trend-baby
+bip_39_word_dash_11: human-mechanic-ask-armed-mixed-size-name-miracle-trend-baby-daughter
+bip_39_word_dash_12: human-mechanic-ask-armed-mixed-size-name-miracle-trend-baby-daughter-acquire
+bip_39_word_dash_2: human-mechanic
+bip_39_word_dash_3: human-mechanic-ask
+bip_39_word_dash_4: human-mechanic-ask-armed
+bip_39_word_dash_5: human-mechanic-ask-armed-mixed
+bip_39_word_dash_6: human-mechanic-ask-armed-mixed-size
+bip_39_word_dash_7: human-mechanic-ask-armed-mixed-size-name
+bip_39_word_dash_8: human-mechanic-ask-armed-mixed-size-name-miracle
+bip_39_word_dash_9: human-mechanic-ask-armed-mixed-size-name-miracle-trend
 bip_39_word_new_br_1: human
 bip_39_word_new_br_10: human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby
 bip_39_word_new_br_11: human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby<br>daughter
@@ -193,6 +205,18 @@ bip_39_word_space_6: human mechanic ask armed mixed size
 bip_39_word_space_7: human mechanic ask armed mixed size name
 bip_39_word_space_8: human mechanic ask armed mixed size name miracle
 bip_39_word_space_9: human mechanic ask armed mixed size name miracle trend
+bip_39_word_underscore_1: human
+bip_39_word_underscore_10: human_mechanic_ask_armed_mixed_size_name_miracle_trend_baby
+bip_39_word_underscore_11: human_mechanic_ask_armed_mixed_size_name_miracle_trend_baby_daughter
+bip_39_word_underscore_12: human_mechanic_ask_armed_mixed_size_name_miracle_trend_baby_daughter_acquire
+bip_39_word_underscore_2: human_mechanic
+bip_39_word_underscore_3: human_mechanic_ask
+bip_39_word_underscore_4: human_mechanic_ask_armed
+bip_39_word_underscore_5: human_mechanic_ask_armed_mixed
+bip_39_word_underscore_6: human_mechanic_ask_armed_mixed_size
+bip_39_word_underscore_7: human_mechanic_ask_armed_mixed_size_name
+bip_39_word_underscore_8: human_mechanic_ask_armed_mixed_size_name_miracle
+bip_39_word_underscore_9: human_mechanic_ask_armed_mixed_size_name_miracle_trend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

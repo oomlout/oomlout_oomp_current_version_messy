@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | excuse |  
+| bip_39_word_dash_10 | excuse-order-drum-foot-between-result-flower-magnet-vendor-dream |  
+| bip_39_word_dash_11 | excuse-order-drum-foot-between-result-flower-magnet-vendor-dream-couch |  
+| bip_39_word_dash_12 | excuse-order-drum-foot-between-result-flower-magnet-vendor-dream-couch-artwork |  
+| bip_39_word_dash_2 | excuse-order |  
+| bip_39_word_dash_3 | excuse-order-drum |  
+| bip_39_word_dash_4 | excuse-order-drum-foot |  
+| bip_39_word_dash_5 | excuse-order-drum-foot-between |  
+| bip_39_word_dash_6 | excuse-order-drum-foot-between-result |  
+| bip_39_word_dash_7 | excuse-order-drum-foot-between-result-flower |  
+| bip_39_word_dash_8 | excuse-order-drum-foot-between-result-flower-magnet |  
+| bip_39_word_dash_9 | excuse-order-drum-foot-between-result-flower-magnet-vendor |  
 | bip_39_word_new_br_1 | excuse |  
 | bip_39_word_new_br_10 | excuse<br>order<br>drum<br>foot<br>between<br>result<br>flower<br>magnet<br>vendor<br>dream |  
 | bip_39_word_new_br_11 | excuse<br>order<br>drum<br>foot<br>between<br>result<br>flower<br>magnet<br>vendor<br>dream<br>couch |  
@@ -147,6 +159,18 @@ vendor |
 | bip_39_word_space_7 | excuse order drum foot between result flower |  
 | bip_39_word_space_8 | excuse order drum foot between result flower magnet |  
 | bip_39_word_space_9 | excuse order drum foot between result flower magnet vendor |  
+| bip_39_word_underscore_1 | excuse |  
+| bip_39_word_underscore_10 | excuse_order_drum_foot_between_result_flower_magnet_vendor_dream |  
+| bip_39_word_underscore_11 | excuse_order_drum_foot_between_result_flower_magnet_vendor_dream_couch |  
+| bip_39_word_underscore_12 | excuse_order_drum_foot_between_result_flower_magnet_vendor_dream_couch_artwork |  
+| bip_39_word_underscore_2 | excuse_order |  
+| bip_39_word_underscore_3 | excuse_order_drum |  
+| bip_39_word_underscore_4 | excuse_order_drum_foot |  
+| bip_39_word_underscore_5 | excuse_order_drum_foot_between |  
+| bip_39_word_underscore_6 | excuse_order_drum_foot_between_result |  
+| bip_39_word_underscore_7 | excuse_order_drum_foot_between_result_flower |  
+| bip_39_word_underscore_8 | excuse_order_drum_foot_between_result_flower_magnet |  
+| bip_39_word_underscore_9 | excuse_order_drum_foot_between_result_flower_magnet_vendor |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | equal |  
+| bip_39_word_dash_10 | equal-tomato-sail-coin-similar-lonely-spider-lesson-diary-cave |  
+| bip_39_word_dash_11 | equal-tomato-sail-coin-similar-lonely-spider-lesson-diary-cave-response |  
+| bip_39_word_dash_12 | equal-tomato-sail-coin-similar-lonely-spider-lesson-diary-cave-response-appear |  
+| bip_39_word_dash_2 | equal-tomato |  
+| bip_39_word_dash_3 | equal-tomato-sail |  
+| bip_39_word_dash_4 | equal-tomato-sail-coin |  
+| bip_39_word_dash_5 | equal-tomato-sail-coin-similar |  
+| bip_39_word_dash_6 | equal-tomato-sail-coin-similar-lonely |  
+| bip_39_word_dash_7 | equal-tomato-sail-coin-similar-lonely-spider |  
+| bip_39_word_dash_8 | equal-tomato-sail-coin-similar-lonely-spider-lesson |  
+| bip_39_word_dash_9 | equal-tomato-sail-coin-similar-lonely-spider-lesson-diary |  
 | bip_39_word_new_br_1 | equal |  
 | bip_39_word_new_br_10 | equal<br>tomato<br>sail<br>coin<br>similar<br>lonely<br>spider<br>lesson<br>diary<br>cave |  
 | bip_39_word_new_br_11 | equal<br>tomato<br>sail<br>coin<br>similar<br>lonely<br>spider<br>lesson<br>diary<br>cave<br>response |  
@@ -147,6 +159,18 @@ diary |
 | bip_39_word_space_7 | equal tomato sail coin similar lonely spider |  
 | bip_39_word_space_8 | equal tomato sail coin similar lonely spider lesson |  
 | bip_39_word_space_9 | equal tomato sail coin similar lonely spider lesson diary |  
+| bip_39_word_underscore_1 | equal |  
+| bip_39_word_underscore_10 | equal_tomato_sail_coin_similar_lonely_spider_lesson_diary_cave |  
+| bip_39_word_underscore_11 | equal_tomato_sail_coin_similar_lonely_spider_lesson_diary_cave_response |  
+| bip_39_word_underscore_12 | equal_tomato_sail_coin_similar_lonely_spider_lesson_diary_cave_response_appear |  
+| bip_39_word_underscore_2 | equal_tomato |  
+| bip_39_word_underscore_3 | equal_tomato_sail |  
+| bip_39_word_underscore_4 | equal_tomato_sail_coin |  
+| bip_39_word_underscore_5 | equal_tomato_sail_coin_similar |  
+| bip_39_word_underscore_6 | equal_tomato_sail_coin_similar_lonely |  
+| bip_39_word_underscore_7 | equal_tomato_sail_coin_similar_lonely_spider |  
+| bip_39_word_underscore_8 | equal_tomato_sail_coin_similar_lonely_spider_lesson |  
+| bip_39_word_underscore_9 | equal_tomato_sail_coin_similar_lonely_spider_lesson_diary |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

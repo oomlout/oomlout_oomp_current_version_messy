@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wagon
+bip_39_word_dash_10: wagon-boring-rabbit-enter-crunch-one-word-innocent-eyebrow-mutual
+bip_39_word_dash_11: wagon-boring-rabbit-enter-crunch-one-word-innocent-eyebrow-mutual-oval
+bip_39_word_dash_12: wagon-boring-rabbit-enter-crunch-one-word-innocent-eyebrow-mutual-oval-artwork
+bip_39_word_dash_2: wagon-boring
+bip_39_word_dash_3: wagon-boring-rabbit
+bip_39_word_dash_4: wagon-boring-rabbit-enter
+bip_39_word_dash_5: wagon-boring-rabbit-enter-crunch
+bip_39_word_dash_6: wagon-boring-rabbit-enter-crunch-one
+bip_39_word_dash_7: wagon-boring-rabbit-enter-crunch-one-word
+bip_39_word_dash_8: wagon-boring-rabbit-enter-crunch-one-word-innocent
+bip_39_word_dash_9: wagon-boring-rabbit-enter-crunch-one-word-innocent-eyebrow
 bip_39_word_new_br_1: wagon
 bip_39_word_new_br_10: wagon<br>boring<br>rabbit<br>enter<br>crunch<br>one<br>word<br>innocent<br>eyebrow<br>mutual
 bip_39_word_new_br_11: wagon<br>boring<br>rabbit<br>enter<br>crunch<br>one<br>word<br>innocent<br>eyebrow<br>mutual<br>oval
@@ -193,6 +205,18 @@ bip_39_word_space_6: wagon boring rabbit enter crunch one
 bip_39_word_space_7: wagon boring rabbit enter crunch one word
 bip_39_word_space_8: wagon boring rabbit enter crunch one word innocent
 bip_39_word_space_9: wagon boring rabbit enter crunch one word innocent eyebrow
+bip_39_word_underscore_1: wagon
+bip_39_word_underscore_10: wagon_boring_rabbit_enter_crunch_one_word_innocent_eyebrow_mutual
+bip_39_word_underscore_11: wagon_boring_rabbit_enter_crunch_one_word_innocent_eyebrow_mutual_oval
+bip_39_word_underscore_12: wagon_boring_rabbit_enter_crunch_one_word_innocent_eyebrow_mutual_oval_artwork
+bip_39_word_underscore_2: wagon_boring
+bip_39_word_underscore_3: wagon_boring_rabbit
+bip_39_word_underscore_4: wagon_boring_rabbit_enter
+bip_39_word_underscore_5: wagon_boring_rabbit_enter_crunch
+bip_39_word_underscore_6: wagon_boring_rabbit_enter_crunch_one
+bip_39_word_underscore_7: wagon_boring_rabbit_enter_crunch_one_word
+bip_39_word_underscore_8: wagon_boring_rabbit_enter_crunch_one_word_innocent
+bip_39_word_underscore_9: wagon_boring_rabbit_enter_crunch_one_word_innocent_eyebrow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

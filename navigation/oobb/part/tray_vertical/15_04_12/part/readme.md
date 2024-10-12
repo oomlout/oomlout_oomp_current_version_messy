@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boat |  
+| bip_39_word_dash_10 | boat-chief-aisle-expose-milk-flower-crowd-funny-core-priority |  
+| bip_39_word_dash_11 | boat-chief-aisle-expose-milk-flower-crowd-funny-core-priority-change |  
+| bip_39_word_dash_12 | boat-chief-aisle-expose-milk-flower-crowd-funny-core-priority-change-air |  
+| bip_39_word_dash_2 | boat-chief |  
+| bip_39_word_dash_3 | boat-chief-aisle |  
+| bip_39_word_dash_4 | boat-chief-aisle-expose |  
+| bip_39_word_dash_5 | boat-chief-aisle-expose-milk |  
+| bip_39_word_dash_6 | boat-chief-aisle-expose-milk-flower |  
+| bip_39_word_dash_7 | boat-chief-aisle-expose-milk-flower-crowd |  
+| bip_39_word_dash_8 | boat-chief-aisle-expose-milk-flower-crowd-funny |  
+| bip_39_word_dash_9 | boat-chief-aisle-expose-milk-flower-crowd-funny-core |  
 | bip_39_word_new_br_1 | boat |  
 | bip_39_word_new_br_10 | boat<br>chief<br>aisle<br>expose<br>milk<br>flower<br>crowd<br>funny<br>core<br>priority |  
 | bip_39_word_new_br_11 | boat<br>chief<br>aisle<br>expose<br>milk<br>flower<br>crowd<br>funny<br>core<br>priority<br>change |  
@@ -147,6 +159,18 @@ core |
 | bip_39_word_space_7 | boat chief aisle expose milk flower crowd |  
 | bip_39_word_space_8 | boat chief aisle expose milk flower crowd funny |  
 | bip_39_word_space_9 | boat chief aisle expose milk flower crowd funny core |  
+| bip_39_word_underscore_1 | boat |  
+| bip_39_word_underscore_10 | boat_chief_aisle_expose_milk_flower_crowd_funny_core_priority |  
+| bip_39_word_underscore_11 | boat_chief_aisle_expose_milk_flower_crowd_funny_core_priority_change |  
+| bip_39_word_underscore_12 | boat_chief_aisle_expose_milk_flower_crowd_funny_core_priority_change_air |  
+| bip_39_word_underscore_2 | boat_chief |  
+| bip_39_word_underscore_3 | boat_chief_aisle |  
+| bip_39_word_underscore_4 | boat_chief_aisle_expose |  
+| bip_39_word_underscore_5 | boat_chief_aisle_expose_milk |  
+| bip_39_word_underscore_6 | boat_chief_aisle_expose_milk_flower |  
+| bip_39_word_underscore_7 | boat_chief_aisle_expose_milk_flower_crowd |  
+| bip_39_word_underscore_8 | boat_chief_aisle_expose_milk_flower_crowd_funny |  
+| bip_39_word_underscore_9 | boat_chief_aisle_expose_milk_flower_crowd_funny_core |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

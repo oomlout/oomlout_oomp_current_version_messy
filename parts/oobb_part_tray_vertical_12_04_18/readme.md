@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jaguar |  
+| bip_39_word_dash_10 | jaguar-unaware-dress-dial-swap-fiction-fat-ball-brisk-exit |  
+| bip_39_word_dash_11 | jaguar-unaware-dress-dial-swap-fiction-fat-ball-brisk-exit-smart |  
+| bip_39_word_dash_12 | jaguar-unaware-dress-dial-swap-fiction-fat-ball-brisk-exit-smart-ahead |  
+| bip_39_word_dash_2 | jaguar-unaware |  
+| bip_39_word_dash_3 | jaguar-unaware-dress |  
+| bip_39_word_dash_4 | jaguar-unaware-dress-dial |  
+| bip_39_word_dash_5 | jaguar-unaware-dress-dial-swap |  
+| bip_39_word_dash_6 | jaguar-unaware-dress-dial-swap-fiction |  
+| bip_39_word_dash_7 | jaguar-unaware-dress-dial-swap-fiction-fat |  
+| bip_39_word_dash_8 | jaguar-unaware-dress-dial-swap-fiction-fat-ball |  
+| bip_39_word_dash_9 | jaguar-unaware-dress-dial-swap-fiction-fat-ball-brisk |  
 | bip_39_word_new_br_1 | jaguar |  
 | bip_39_word_new_br_10 | jaguar<br>unaware<br>dress<br>dial<br>swap<br>fiction<br>fat<br>ball<br>brisk<br>exit |  
 | bip_39_word_new_br_11 | jaguar<br>unaware<br>dress<br>dial<br>swap<br>fiction<br>fat<br>ball<br>brisk<br>exit<br>smart |  
@@ -147,6 +159,18 @@ brisk |
 | bip_39_word_space_7 | jaguar unaware dress dial swap fiction fat |  
 | bip_39_word_space_8 | jaguar unaware dress dial swap fiction fat ball |  
 | bip_39_word_space_9 | jaguar unaware dress dial swap fiction fat ball brisk |  
+| bip_39_word_underscore_1 | jaguar |  
+| bip_39_word_underscore_10 | jaguar_unaware_dress_dial_swap_fiction_fat_ball_brisk_exit |  
+| bip_39_word_underscore_11 | jaguar_unaware_dress_dial_swap_fiction_fat_ball_brisk_exit_smart |  
+| bip_39_word_underscore_12 | jaguar_unaware_dress_dial_swap_fiction_fat_ball_brisk_exit_smart_ahead |  
+| bip_39_word_underscore_2 | jaguar_unaware |  
+| bip_39_word_underscore_3 | jaguar_unaware_dress |  
+| bip_39_word_underscore_4 | jaguar_unaware_dress_dial |  
+| bip_39_word_underscore_5 | jaguar_unaware_dress_dial_swap |  
+| bip_39_word_underscore_6 | jaguar_unaware_dress_dial_swap_fiction |  
+| bip_39_word_underscore_7 | jaguar_unaware_dress_dial_swap_fiction_fat |  
+| bip_39_word_underscore_8 | jaguar_unaware_dress_dial_swap_fiction_fat_ball |  
+| bip_39_word_underscore_9 | jaguar_unaware_dress_dial_swap_fiction_fat_ball_brisk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

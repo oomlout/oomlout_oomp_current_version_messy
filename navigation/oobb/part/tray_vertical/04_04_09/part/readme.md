@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assume |  
+| bip_39_word_dash_10 | assume-weasel-modify-wet-ordinary-eight-suggest-dinner-theme-repeat |  
+| bip_39_word_dash_11 | assume-weasel-modify-wet-ordinary-eight-suggest-dinner-theme-repeat-decide |  
+| bip_39_word_dash_12 | assume-weasel-modify-wet-ordinary-eight-suggest-dinner-theme-repeat-decide-abuse |  
+| bip_39_word_dash_2 | assume-weasel |  
+| bip_39_word_dash_3 | assume-weasel-modify |  
+| bip_39_word_dash_4 | assume-weasel-modify-wet |  
+| bip_39_word_dash_5 | assume-weasel-modify-wet-ordinary |  
+| bip_39_word_dash_6 | assume-weasel-modify-wet-ordinary-eight |  
+| bip_39_word_dash_7 | assume-weasel-modify-wet-ordinary-eight-suggest |  
+| bip_39_word_dash_8 | assume-weasel-modify-wet-ordinary-eight-suggest-dinner |  
+| bip_39_word_dash_9 | assume-weasel-modify-wet-ordinary-eight-suggest-dinner-theme |  
 | bip_39_word_new_br_1 | assume |  
 | bip_39_word_new_br_10 | assume<br>weasel<br>modify<br>wet<br>ordinary<br>eight<br>suggest<br>dinner<br>theme<br>repeat |  
 | bip_39_word_new_br_11 | assume<br>weasel<br>modify<br>wet<br>ordinary<br>eight<br>suggest<br>dinner<br>theme<br>repeat<br>decide |  
@@ -147,6 +159,18 @@ theme |
 | bip_39_word_space_7 | assume weasel modify wet ordinary eight suggest |  
 | bip_39_word_space_8 | assume weasel modify wet ordinary eight suggest dinner |  
 | bip_39_word_space_9 | assume weasel modify wet ordinary eight suggest dinner theme |  
+| bip_39_word_underscore_1 | assume |  
+| bip_39_word_underscore_10 | assume_weasel_modify_wet_ordinary_eight_suggest_dinner_theme_repeat |  
+| bip_39_word_underscore_11 | assume_weasel_modify_wet_ordinary_eight_suggest_dinner_theme_repeat_decide |  
+| bip_39_word_underscore_12 | assume_weasel_modify_wet_ordinary_eight_suggest_dinner_theme_repeat_decide_abuse |  
+| bip_39_word_underscore_2 | assume_weasel |  
+| bip_39_word_underscore_3 | assume_weasel_modify |  
+| bip_39_word_underscore_4 | assume_weasel_modify_wet |  
+| bip_39_word_underscore_5 | assume_weasel_modify_wet_ordinary |  
+| bip_39_word_underscore_6 | assume_weasel_modify_wet_ordinary_eight |  
+| bip_39_word_underscore_7 | assume_weasel_modify_wet_ordinary_eight_suggest |  
+| bip_39_word_underscore_8 | assume_weasel_modify_wet_ordinary_eight_suggest_dinner |  
+| bip_39_word_underscore_9 | assume_weasel_modify_wet_ordinary_eight_suggest_dinner_theme |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

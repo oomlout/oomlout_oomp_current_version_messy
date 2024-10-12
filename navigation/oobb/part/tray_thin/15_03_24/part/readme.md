@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rug |  
+| bip_39_word_dash_10 | rug-exotic-another-motor-kingdom-six-start-twelve-wise-demand |  
+| bip_39_word_dash_11 | rug-exotic-another-motor-kingdom-six-start-twelve-wise-demand-tomorrow |  
+| bip_39_word_dash_12 | rug-exotic-another-motor-kingdom-six-start-twelve-wise-demand-tomorrow-analyst |  
+| bip_39_word_dash_2 | rug-exotic |  
+| bip_39_word_dash_3 | rug-exotic-another |  
+| bip_39_word_dash_4 | rug-exotic-another-motor |  
+| bip_39_word_dash_5 | rug-exotic-another-motor-kingdom |  
+| bip_39_word_dash_6 | rug-exotic-another-motor-kingdom-six |  
+| bip_39_word_dash_7 | rug-exotic-another-motor-kingdom-six-start |  
+| bip_39_word_dash_8 | rug-exotic-another-motor-kingdom-six-start-twelve |  
+| bip_39_word_dash_9 | rug-exotic-another-motor-kingdom-six-start-twelve-wise |  
 | bip_39_word_new_br_1 | rug |  
 | bip_39_word_new_br_10 | rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand |  
 | bip_39_word_new_br_11 | rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand<br>tomorrow |  
@@ -147,6 +159,18 @@ wise |
 | bip_39_word_space_7 | rug exotic another motor kingdom six start |  
 | bip_39_word_space_8 | rug exotic another motor kingdom six start twelve |  
 | bip_39_word_space_9 | rug exotic another motor kingdom six start twelve wise |  
+| bip_39_word_underscore_1 | rug |  
+| bip_39_word_underscore_10 | rug_exotic_another_motor_kingdom_six_start_twelve_wise_demand |  
+| bip_39_word_underscore_11 | rug_exotic_another_motor_kingdom_six_start_twelve_wise_demand_tomorrow |  
+| bip_39_word_underscore_12 | rug_exotic_another_motor_kingdom_six_start_twelve_wise_demand_tomorrow_analyst |  
+| bip_39_word_underscore_2 | rug_exotic |  
+| bip_39_word_underscore_3 | rug_exotic_another |  
+| bip_39_word_underscore_4 | rug_exotic_another_motor |  
+| bip_39_word_underscore_5 | rug_exotic_another_motor_kingdom |  
+| bip_39_word_underscore_6 | rug_exotic_another_motor_kingdom_six |  
+| bip_39_word_underscore_7 | rug_exotic_another_motor_kingdom_six_start |  
+| bip_39_word_underscore_8 | rug_exotic_another_motor_kingdom_six_start_twelve |  
+| bip_39_word_underscore_9 | rug_exotic_another_motor_kingdom_six_start_twelve_wise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

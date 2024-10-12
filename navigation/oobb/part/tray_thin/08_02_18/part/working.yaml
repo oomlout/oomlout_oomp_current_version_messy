@@ -1,3 +1,15 @@
+bip_39_word_dash_1: other
+bip_39_word_dash_10: other-path-cancel-primary-sense-genius-danger-stumble-calm-unit
+bip_39_word_dash_11: other-path-cancel-primary-sense-genius-danger-stumble-calm-unit-maze
+bip_39_word_dash_12: other-path-cancel-primary-sense-genius-danger-stumble-calm-unit-maze-agent
+bip_39_word_dash_2: other-path
+bip_39_word_dash_3: other-path-cancel
+bip_39_word_dash_4: other-path-cancel-primary
+bip_39_word_dash_5: other-path-cancel-primary-sense
+bip_39_word_dash_6: other-path-cancel-primary-sense-genius
+bip_39_word_dash_7: other-path-cancel-primary-sense-genius-danger
+bip_39_word_dash_8: other-path-cancel-primary-sense-genius-danger-stumble
+bip_39_word_dash_9: other-path-cancel-primary-sense-genius-danger-stumble-calm
 bip_39_word_new_br_1: other
 bip_39_word_new_br_10: other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble<br>calm<br>unit
 bip_39_word_new_br_11: other<br>path<br>cancel<br>primary<br>sense<br>genius<br>danger<br>stumble<br>calm<br>unit<br>maze
@@ -193,6 +205,18 @@ bip_39_word_space_6: other path cancel primary sense genius
 bip_39_word_space_7: other path cancel primary sense genius danger
 bip_39_word_space_8: other path cancel primary sense genius danger stumble
 bip_39_word_space_9: other path cancel primary sense genius danger stumble calm
+bip_39_word_underscore_1: other
+bip_39_word_underscore_10: other_path_cancel_primary_sense_genius_danger_stumble_calm_unit
+bip_39_word_underscore_11: other_path_cancel_primary_sense_genius_danger_stumble_calm_unit_maze
+bip_39_word_underscore_12: other_path_cancel_primary_sense_genius_danger_stumble_calm_unit_maze_agent
+bip_39_word_underscore_2: other_path
+bip_39_word_underscore_3: other_path_cancel
+bip_39_word_underscore_4: other_path_cancel_primary
+bip_39_word_underscore_5: other_path_cancel_primary_sense
+bip_39_word_underscore_6: other_path_cancel_primary_sense_genius
+bip_39_word_underscore_7: other_path_cancel_primary_sense_genius_danger
+bip_39_word_underscore_8: other_path_cancel_primary_sense_genius_danger_stumble
+bip_39_word_underscore_9: other_path_cancel_primary_sense_genius_danger_stumble_calm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

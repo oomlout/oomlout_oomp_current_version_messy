@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sea |  
+| bip_39_word_dash_10 | sea-lounge-make-crush-junior-intact-scan-goddess-effort-tissue |  
+| bip_39_word_dash_11 | sea-lounge-make-crush-junior-intact-scan-goddess-effort-tissue-student |  
+| bip_39_word_dash_12 | sea-lounge-make-crush-junior-intact-scan-goddess-effort-tissue-student-album |  
+| bip_39_word_dash_2 | sea-lounge |  
+| bip_39_word_dash_3 | sea-lounge-make |  
+| bip_39_word_dash_4 | sea-lounge-make-crush |  
+| bip_39_word_dash_5 | sea-lounge-make-crush-junior |  
+| bip_39_word_dash_6 | sea-lounge-make-crush-junior-intact |  
+| bip_39_word_dash_7 | sea-lounge-make-crush-junior-intact-scan |  
+| bip_39_word_dash_8 | sea-lounge-make-crush-junior-intact-scan-goddess |  
+| bip_39_word_dash_9 | sea-lounge-make-crush-junior-intact-scan-goddess-effort |  
 | bip_39_word_new_br_1 | sea |  
 | bip_39_word_new_br_10 | sea<br>lounge<br>make<br>crush<br>junior<br>intact<br>scan<br>goddess<br>effort<br>tissue |  
 | bip_39_word_new_br_11 | sea<br>lounge<br>make<br>crush<br>junior<br>intact<br>scan<br>goddess<br>effort<br>tissue<br>student |  
@@ -147,6 +159,18 @@ effort |
 | bip_39_word_space_7 | sea lounge make crush junior intact scan |  
 | bip_39_word_space_8 | sea lounge make crush junior intact scan goddess |  
 | bip_39_word_space_9 | sea lounge make crush junior intact scan goddess effort |  
+| bip_39_word_underscore_1 | sea |  
+| bip_39_word_underscore_10 | sea_lounge_make_crush_junior_intact_scan_goddess_effort_tissue |  
+| bip_39_word_underscore_11 | sea_lounge_make_crush_junior_intact_scan_goddess_effort_tissue_student |  
+| bip_39_word_underscore_12 | sea_lounge_make_crush_junior_intact_scan_goddess_effort_tissue_student_album |  
+| bip_39_word_underscore_2 | sea_lounge |  
+| bip_39_word_underscore_3 | sea_lounge_make |  
+| bip_39_word_underscore_4 | sea_lounge_make_crush |  
+| bip_39_word_underscore_5 | sea_lounge_make_crush_junior |  
+| bip_39_word_underscore_6 | sea_lounge_make_crush_junior_intact |  
+| bip_39_word_underscore_7 | sea_lounge_make_crush_junior_intact_scan |  
+| bip_39_word_underscore_8 | sea_lounge_make_crush_junior_intact_scan_goddess |  
+| bip_39_word_underscore_9 | sea_lounge_make_crush_junior_intact_scan_goddess_effort |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

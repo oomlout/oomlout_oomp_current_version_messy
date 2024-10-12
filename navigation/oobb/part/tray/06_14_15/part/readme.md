@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rack |  
+| bip_39_word_dash_10 | rack-country-rubber-input-journey-pony-badge-almost-push-chuckle |  
+| bip_39_word_dash_11 | rack-country-rubber-input-journey-pony-badge-almost-push-chuckle-amount |  
+| bip_39_word_dash_12 | rack-country-rubber-input-journey-pony-badge-almost-push-chuckle-amount-apart |  
+| bip_39_word_dash_2 | rack-country |  
+| bip_39_word_dash_3 | rack-country-rubber |  
+| bip_39_word_dash_4 | rack-country-rubber-input |  
+| bip_39_word_dash_5 | rack-country-rubber-input-journey |  
+| bip_39_word_dash_6 | rack-country-rubber-input-journey-pony |  
+| bip_39_word_dash_7 | rack-country-rubber-input-journey-pony-badge |  
+| bip_39_word_dash_8 | rack-country-rubber-input-journey-pony-badge-almost |  
+| bip_39_word_dash_9 | rack-country-rubber-input-journey-pony-badge-almost-push |  
 | bip_39_word_new_br_1 | rack |  
 | bip_39_word_new_br_10 | rack<br>country<br>rubber<br>input<br>journey<br>pony<br>badge<br>almost<br>push<br>chuckle |  
 | bip_39_word_new_br_11 | rack<br>country<br>rubber<br>input<br>journey<br>pony<br>badge<br>almost<br>push<br>chuckle<br>amount |  
@@ -147,6 +159,18 @@ push |
 | bip_39_word_space_7 | rack country rubber input journey pony badge |  
 | bip_39_word_space_8 | rack country rubber input journey pony badge almost |  
 | bip_39_word_space_9 | rack country rubber input journey pony badge almost push |  
+| bip_39_word_underscore_1 | rack |  
+| bip_39_word_underscore_10 | rack_country_rubber_input_journey_pony_badge_almost_push_chuckle |  
+| bip_39_word_underscore_11 | rack_country_rubber_input_journey_pony_badge_almost_push_chuckle_amount |  
+| bip_39_word_underscore_12 | rack_country_rubber_input_journey_pony_badge_almost_push_chuckle_amount_apart |  
+| bip_39_word_underscore_2 | rack_country |  
+| bip_39_word_underscore_3 | rack_country_rubber |  
+| bip_39_word_underscore_4 | rack_country_rubber_input |  
+| bip_39_word_underscore_5 | rack_country_rubber_input_journey |  
+| bip_39_word_underscore_6 | rack_country_rubber_input_journey_pony |  
+| bip_39_word_underscore_7 | rack_country_rubber_input_journey_pony_badge |  
+| bip_39_word_underscore_8 | rack_country_rubber_input_journey_pony_badge_almost |  
+| bip_39_word_underscore_9 | rack_country_rubber_input_journey_pony_badge_almost_push |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

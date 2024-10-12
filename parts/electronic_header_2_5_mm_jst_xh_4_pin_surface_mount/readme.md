@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | script |  
+| bip_39_word_dash_10 | script-race-garage-sign-radio-timber-school-ahead-joy-cereal |  
+| bip_39_word_dash_11 | script-race-garage-sign-radio-timber-school-ahead-joy-cereal-drastic |  
+| bip_39_word_dash_12 | script-race-garage-sign-radio-timber-school-ahead-joy-cereal-drastic-alert |  
+| bip_39_word_dash_2 | script-race |  
+| bip_39_word_dash_3 | script-race-garage |  
+| bip_39_word_dash_4 | script-race-garage-sign |  
+| bip_39_word_dash_5 | script-race-garage-sign-radio |  
+| bip_39_word_dash_6 | script-race-garage-sign-radio-timber |  
+| bip_39_word_dash_7 | script-race-garage-sign-radio-timber-school |  
+| bip_39_word_dash_8 | script-race-garage-sign-radio-timber-school-ahead |  
+| bip_39_word_dash_9 | script-race-garage-sign-radio-timber-school-ahead-joy |  
 | bip_39_word_new_br_1 | script |  
 | bip_39_word_new_br_10 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal |  
 | bip_39_word_new_br_11 | script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal<br>drastic |  
@@ -147,6 +159,18 @@ joy |
 | bip_39_word_space_7 | script race garage sign radio timber school |  
 | bip_39_word_space_8 | script race garage sign radio timber school ahead |  
 | bip_39_word_space_9 | script race garage sign radio timber school ahead joy |  
+| bip_39_word_underscore_1 | script |  
+| bip_39_word_underscore_10 | script_race_garage_sign_radio_timber_school_ahead_joy_cereal |  
+| bip_39_word_underscore_11 | script_race_garage_sign_radio_timber_school_ahead_joy_cereal_drastic |  
+| bip_39_word_underscore_12 | script_race_garage_sign_radio_timber_school_ahead_joy_cereal_drastic_alert |  
+| bip_39_word_underscore_2 | script_race |  
+| bip_39_word_underscore_3 | script_race_garage |  
+| bip_39_word_underscore_4 | script_race_garage_sign |  
+| bip_39_word_underscore_5 | script_race_garage_sign_radio |  
+| bip_39_word_underscore_6 | script_race_garage_sign_radio_timber |  
+| bip_39_word_underscore_7 | script_race_garage_sign_radio_timber_school |  
+| bip_39_word_underscore_8 | script_race_garage_sign_radio_timber_school_ahead |  
+| bip_39_word_underscore_9 | script_race_garage_sign_radio_timber_school_ahead_joy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

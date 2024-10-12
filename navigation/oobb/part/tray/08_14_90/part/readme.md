@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | robust |  
+| bip_39_word_dash_10 | robust-present-fog-slim-youth-wheat-junior-breeze-trade-artwork |  
+| bip_39_word_dash_11 | robust-present-fog-slim-youth-wheat-junior-breeze-trade-artwork-mother |  
+| bip_39_word_dash_12 | robust-present-fog-slim-youth-wheat-junior-breeze-trade-artwork-mother-adapt |  
+| bip_39_word_dash_2 | robust-present |  
+| bip_39_word_dash_3 | robust-present-fog |  
+| bip_39_word_dash_4 | robust-present-fog-slim |  
+| bip_39_word_dash_5 | robust-present-fog-slim-youth |  
+| bip_39_word_dash_6 | robust-present-fog-slim-youth-wheat |  
+| bip_39_word_dash_7 | robust-present-fog-slim-youth-wheat-junior |  
+| bip_39_word_dash_8 | robust-present-fog-slim-youth-wheat-junior-breeze |  
+| bip_39_word_dash_9 | robust-present-fog-slim-youth-wheat-junior-breeze-trade |  
 | bip_39_word_new_br_1 | robust |  
 | bip_39_word_new_br_10 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork |  
 | bip_39_word_new_br_11 | robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork<br>mother |  
@@ -147,6 +159,18 @@ trade |
 | bip_39_word_space_7 | robust present fog slim youth wheat junior |  
 | bip_39_word_space_8 | robust present fog slim youth wheat junior breeze |  
 | bip_39_word_space_9 | robust present fog slim youth wheat junior breeze trade |  
+| bip_39_word_underscore_1 | robust |  
+| bip_39_word_underscore_10 | robust_present_fog_slim_youth_wheat_junior_breeze_trade_artwork |  
+| bip_39_word_underscore_11 | robust_present_fog_slim_youth_wheat_junior_breeze_trade_artwork_mother |  
+| bip_39_word_underscore_12 | robust_present_fog_slim_youth_wheat_junior_breeze_trade_artwork_mother_adapt |  
+| bip_39_word_underscore_2 | robust_present |  
+| bip_39_word_underscore_3 | robust_present_fog |  
+| bip_39_word_underscore_4 | robust_present_fog_slim |  
+| bip_39_word_underscore_5 | robust_present_fog_slim_youth |  
+| bip_39_word_underscore_6 | robust_present_fog_slim_youth_wheat |  
+| bip_39_word_underscore_7 | robust_present_fog_slim_youth_wheat_junior |  
+| bip_39_word_underscore_8 | robust_present_fog_slim_youth_wheat_junior_breeze |  
+| bip_39_word_underscore_9 | robust_present_fog_slim_youth_wheat_junior_breeze_trade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

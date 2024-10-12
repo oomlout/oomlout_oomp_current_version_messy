@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sauce |  
+| bip_39_word_dash_10 | sauce-blind-glue-hub-shy-loop-stadium-access-coconut-portion |  
+| bip_39_word_dash_11 | sauce-blind-glue-hub-shy-loop-stadium-access-coconut-portion-client |  
+| bip_39_word_dash_12 | sauce-blind-glue-hub-shy-loop-stadium-access-coconut-portion-client-appear |  
+| bip_39_word_dash_2 | sauce-blind |  
+| bip_39_word_dash_3 | sauce-blind-glue |  
+| bip_39_word_dash_4 | sauce-blind-glue-hub |  
+| bip_39_word_dash_5 | sauce-blind-glue-hub-shy |  
+| bip_39_word_dash_6 | sauce-blind-glue-hub-shy-loop |  
+| bip_39_word_dash_7 | sauce-blind-glue-hub-shy-loop-stadium |  
+| bip_39_word_dash_8 | sauce-blind-glue-hub-shy-loop-stadium-access |  
+| bip_39_word_dash_9 | sauce-blind-glue-hub-shy-loop-stadium-access-coconut |  
 | bip_39_word_new_br_1 | sauce |  
 | bip_39_word_new_br_10 | sauce<br>blind<br>glue<br>hub<br>shy<br>loop<br>stadium<br>access<br>coconut<br>portion |  
 | bip_39_word_new_br_11 | sauce<br>blind<br>glue<br>hub<br>shy<br>loop<br>stadium<br>access<br>coconut<br>portion<br>client |  
@@ -147,6 +159,18 @@ coconut |
 | bip_39_word_space_7 | sauce blind glue hub shy loop stadium |  
 | bip_39_word_space_8 | sauce blind glue hub shy loop stadium access |  
 | bip_39_word_space_9 | sauce blind glue hub shy loop stadium access coconut |  
+| bip_39_word_underscore_1 | sauce |  
+| bip_39_word_underscore_10 | sauce_blind_glue_hub_shy_loop_stadium_access_coconut_portion |  
+| bip_39_word_underscore_11 | sauce_blind_glue_hub_shy_loop_stadium_access_coconut_portion_client |  
+| bip_39_word_underscore_12 | sauce_blind_glue_hub_shy_loop_stadium_access_coconut_portion_client_appear |  
+| bip_39_word_underscore_2 | sauce_blind |  
+| bip_39_word_underscore_3 | sauce_blind_glue |  
+| bip_39_word_underscore_4 | sauce_blind_glue_hub |  
+| bip_39_word_underscore_5 | sauce_blind_glue_hub_shy |  
+| bip_39_word_underscore_6 | sauce_blind_glue_hub_shy_loop |  
+| bip_39_word_underscore_7 | sauce_blind_glue_hub_shy_loop_stadium |  
+| bip_39_word_underscore_8 | sauce_blind_glue_hub_shy_loop_stadium_access |  
+| bip_39_word_underscore_9 | sauce_blind_glue_hub_shy_loop_stadium_access_coconut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

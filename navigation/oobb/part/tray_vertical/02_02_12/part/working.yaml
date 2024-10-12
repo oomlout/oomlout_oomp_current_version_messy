@@ -1,3 +1,15 @@
+bip_39_word_dash_1: point
+bip_39_word_dash_10: point-remain-diary-sheriff-maid-size-tail-mistake-right-man
+bip_39_word_dash_11: point-remain-diary-sheriff-maid-size-tail-mistake-right-man-orphan
+bip_39_word_dash_12: point-remain-diary-sheriff-maid-size-tail-mistake-right-man-orphan-addict
+bip_39_word_dash_2: point-remain
+bip_39_word_dash_3: point-remain-diary
+bip_39_word_dash_4: point-remain-diary-sheriff
+bip_39_word_dash_5: point-remain-diary-sheriff-maid
+bip_39_word_dash_6: point-remain-diary-sheriff-maid-size
+bip_39_word_dash_7: point-remain-diary-sheriff-maid-size-tail
+bip_39_word_dash_8: point-remain-diary-sheriff-maid-size-tail-mistake
+bip_39_word_dash_9: point-remain-diary-sheriff-maid-size-tail-mistake-right
 bip_39_word_new_br_1: point
 bip_39_word_new_br_10: point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake<br>right<br>man
 bip_39_word_new_br_11: point<br>remain<br>diary<br>sheriff<br>maid<br>size<br>tail<br>mistake<br>right<br>man<br>orphan
@@ -193,6 +205,18 @@ bip_39_word_space_6: point remain diary sheriff maid size
 bip_39_word_space_7: point remain diary sheriff maid size tail
 bip_39_word_space_8: point remain diary sheriff maid size tail mistake
 bip_39_word_space_9: point remain diary sheriff maid size tail mistake right
+bip_39_word_underscore_1: point
+bip_39_word_underscore_10: point_remain_diary_sheriff_maid_size_tail_mistake_right_man
+bip_39_word_underscore_11: point_remain_diary_sheriff_maid_size_tail_mistake_right_man_orphan
+bip_39_word_underscore_12: point_remain_diary_sheriff_maid_size_tail_mistake_right_man_orphan_addict
+bip_39_word_underscore_2: point_remain
+bip_39_word_underscore_3: point_remain_diary
+bip_39_word_underscore_4: point_remain_diary_sheriff
+bip_39_word_underscore_5: point_remain_diary_sheriff_maid
+bip_39_word_underscore_6: point_remain_diary_sheriff_maid_size
+bip_39_word_underscore_7: point_remain_diary_sheriff_maid_size_tail
+bip_39_word_underscore_8: point_remain_diary_sheriff_maid_size_tail_mistake
+bip_39_word_underscore_9: point_remain_diary_sheriff_maid_size_tail_mistake_right
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

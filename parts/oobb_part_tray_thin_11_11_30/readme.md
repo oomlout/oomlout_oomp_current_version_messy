@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | angle |  
+| bip_39_word_dash_10 | angle-seminar-whip-range-canal-illness-joy-main-beef-patrol |  
+| bip_39_word_dash_11 | angle-seminar-whip-range-canal-illness-joy-main-beef-patrol-dilemma |  
+| bip_39_word_dash_12 | angle-seminar-whip-range-canal-illness-joy-main-beef-patrol-dilemma-aim |  
+| bip_39_word_dash_2 | angle-seminar |  
+| bip_39_word_dash_3 | angle-seminar-whip |  
+| bip_39_word_dash_4 | angle-seminar-whip-range |  
+| bip_39_word_dash_5 | angle-seminar-whip-range-canal |  
+| bip_39_word_dash_6 | angle-seminar-whip-range-canal-illness |  
+| bip_39_word_dash_7 | angle-seminar-whip-range-canal-illness-joy |  
+| bip_39_word_dash_8 | angle-seminar-whip-range-canal-illness-joy-main |  
+| bip_39_word_dash_9 | angle-seminar-whip-range-canal-illness-joy-main-beef |  
 | bip_39_word_new_br_1 | angle |  
 | bip_39_word_new_br_10 | angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main<br>beef<br>patrol |  
 | bip_39_word_new_br_11 | angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main<br>beef<br>patrol<br>dilemma |  
@@ -147,6 +159,18 @@ beef |
 | bip_39_word_space_7 | angle seminar whip range canal illness joy |  
 | bip_39_word_space_8 | angle seminar whip range canal illness joy main |  
 | bip_39_word_space_9 | angle seminar whip range canal illness joy main beef |  
+| bip_39_word_underscore_1 | angle |  
+| bip_39_word_underscore_10 | angle_seminar_whip_range_canal_illness_joy_main_beef_patrol |  
+| bip_39_word_underscore_11 | angle_seminar_whip_range_canal_illness_joy_main_beef_patrol_dilemma |  
+| bip_39_word_underscore_12 | angle_seminar_whip_range_canal_illness_joy_main_beef_patrol_dilemma_aim |  
+| bip_39_word_underscore_2 | angle_seminar |  
+| bip_39_word_underscore_3 | angle_seminar_whip |  
+| bip_39_word_underscore_4 | angle_seminar_whip_range |  
+| bip_39_word_underscore_5 | angle_seminar_whip_range_canal |  
+| bip_39_word_underscore_6 | angle_seminar_whip_range_canal_illness |  
+| bip_39_word_underscore_7 | angle_seminar_whip_range_canal_illness_joy |  
+| bip_39_word_underscore_8 | angle_seminar_whip_range_canal_illness_joy_main |  
+| bip_39_word_underscore_9 | angle_seminar_whip_range_canal_illness_joy_main_beef |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

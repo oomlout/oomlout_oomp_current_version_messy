@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glance |  
+| bip_39_word_dash_10 | glance-offer-champion-bus-eye-rebuild-crane-object-front-shove |  
+| bip_39_word_dash_11 | glance-offer-champion-bus-eye-rebuild-crane-object-front-shove-draft |  
+| bip_39_word_dash_12 | glance-offer-champion-bus-eye-rebuild-crane-object-front-shove-draft-argue |  
+| bip_39_word_dash_2 | glance-offer |  
+| bip_39_word_dash_3 | glance-offer-champion |  
+| bip_39_word_dash_4 | glance-offer-champion-bus |  
+| bip_39_word_dash_5 | glance-offer-champion-bus-eye |  
+| bip_39_word_dash_6 | glance-offer-champion-bus-eye-rebuild |  
+| bip_39_word_dash_7 | glance-offer-champion-bus-eye-rebuild-crane |  
+| bip_39_word_dash_8 | glance-offer-champion-bus-eye-rebuild-crane-object |  
+| bip_39_word_dash_9 | glance-offer-champion-bus-eye-rebuild-crane-object-front |  
 | bip_39_word_new_br_1 | glance |  
 | bip_39_word_new_br_10 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object<br>front<br>shove |  
 | bip_39_word_new_br_11 | glance<br>offer<br>champion<br>bus<br>eye<br>rebuild<br>crane<br>object<br>front<br>shove<br>draft |  
@@ -147,6 +159,18 @@ front |
 | bip_39_word_space_7 | glance offer champion bus eye rebuild crane |  
 | bip_39_word_space_8 | glance offer champion bus eye rebuild crane object |  
 | bip_39_word_space_9 | glance offer champion bus eye rebuild crane object front |  
+| bip_39_word_underscore_1 | glance |  
+| bip_39_word_underscore_10 | glance_offer_champion_bus_eye_rebuild_crane_object_front_shove |  
+| bip_39_word_underscore_11 | glance_offer_champion_bus_eye_rebuild_crane_object_front_shove_draft |  
+| bip_39_word_underscore_12 | glance_offer_champion_bus_eye_rebuild_crane_object_front_shove_draft_argue |  
+| bip_39_word_underscore_2 | glance_offer |  
+| bip_39_word_underscore_3 | glance_offer_champion |  
+| bip_39_word_underscore_4 | glance_offer_champion_bus |  
+| bip_39_word_underscore_5 | glance_offer_champion_bus_eye |  
+| bip_39_word_underscore_6 | glance_offer_champion_bus_eye_rebuild |  
+| bip_39_word_underscore_7 | glance_offer_champion_bus_eye_rebuild_crane |  
+| bip_39_word_underscore_8 | glance_offer_champion_bus_eye_rebuild_crane_object |  
+| bip_39_word_underscore_9 | glance_offer_champion_bus_eye_rebuild_crane_object_front |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

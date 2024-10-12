@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | puppy |  
+| bip_39_word_dash_10 | puppy-tape-balcony-know-must-emotion-front-vivid-rifle-tape |  
+| bip_39_word_dash_11 | puppy-tape-balcony-know-must-emotion-front-vivid-rifle-tape-cattle |  
+| bip_39_word_dash_12 | puppy-tape-balcony-know-must-emotion-front-vivid-rifle-tape-cattle-adapt |  
+| bip_39_word_dash_2 | puppy-tape |  
+| bip_39_word_dash_3 | puppy-tape-balcony |  
+| bip_39_word_dash_4 | puppy-tape-balcony-know |  
+| bip_39_word_dash_5 | puppy-tape-balcony-know-must |  
+| bip_39_word_dash_6 | puppy-tape-balcony-know-must-emotion |  
+| bip_39_word_dash_7 | puppy-tape-balcony-know-must-emotion-front |  
+| bip_39_word_dash_8 | puppy-tape-balcony-know-must-emotion-front-vivid |  
+| bip_39_word_dash_9 | puppy-tape-balcony-know-must-emotion-front-vivid-rifle |  
 | bip_39_word_new_br_1 | puppy |  
 | bip_39_word_new_br_10 | puppy<br>tape<br>balcony<br>know<br>must<br>emotion<br>front<br>vivid<br>rifle<br>tape |  
 | bip_39_word_new_br_11 | puppy<br>tape<br>balcony<br>know<br>must<br>emotion<br>front<br>vivid<br>rifle<br>tape<br>cattle |  
@@ -147,6 +159,18 @@ rifle |
 | bip_39_word_space_7 | puppy tape balcony know must emotion front |  
 | bip_39_word_space_8 | puppy tape balcony know must emotion front vivid |  
 | bip_39_word_space_9 | puppy tape balcony know must emotion front vivid rifle |  
+| bip_39_word_underscore_1 | puppy |  
+| bip_39_word_underscore_10 | puppy_tape_balcony_know_must_emotion_front_vivid_rifle_tape |  
+| bip_39_word_underscore_11 | puppy_tape_balcony_know_must_emotion_front_vivid_rifle_tape_cattle |  
+| bip_39_word_underscore_12 | puppy_tape_balcony_know_must_emotion_front_vivid_rifle_tape_cattle_adapt |  
+| bip_39_word_underscore_2 | puppy_tape |  
+| bip_39_word_underscore_3 | puppy_tape_balcony |  
+| bip_39_word_underscore_4 | puppy_tape_balcony_know |  
+| bip_39_word_underscore_5 | puppy_tape_balcony_know_must |  
+| bip_39_word_underscore_6 | puppy_tape_balcony_know_must_emotion |  
+| bip_39_word_underscore_7 | puppy_tape_balcony_know_must_emotion_front |  
+| bip_39_word_underscore_8 | puppy_tape_balcony_know_must_emotion_front_vivid |  
+| bip_39_word_underscore_9 | puppy_tape_balcony_know_must_emotion_front_vivid_rifle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | farm |  
+| bip_39_word_dash_10 | farm-else-parade-output-lend-bus-material-already-egg-spike |  
+| bip_39_word_dash_11 | farm-else-parade-output-lend-bus-material-already-egg-spike-gesture |  
+| bip_39_word_dash_12 | farm-else-parade-output-lend-bus-material-already-egg-spike-gesture-artist |  
+| bip_39_word_dash_2 | farm-else |  
+| bip_39_word_dash_3 | farm-else-parade |  
+| bip_39_word_dash_4 | farm-else-parade-output |  
+| bip_39_word_dash_5 | farm-else-parade-output-lend |  
+| bip_39_word_dash_6 | farm-else-parade-output-lend-bus |  
+| bip_39_word_dash_7 | farm-else-parade-output-lend-bus-material |  
+| bip_39_word_dash_8 | farm-else-parade-output-lend-bus-material-already |  
+| bip_39_word_dash_9 | farm-else-parade-output-lend-bus-material-already-egg |  
 | bip_39_word_new_br_1 | farm |  
 | bip_39_word_new_br_10 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike |  
 | bip_39_word_new_br_11 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike<br>gesture |  
@@ -147,6 +159,18 @@ egg |
 | bip_39_word_space_7 | farm else parade output lend bus material |  
 | bip_39_word_space_8 | farm else parade output lend bus material already |  
 | bip_39_word_space_9 | farm else parade output lend bus material already egg |  
+| bip_39_word_underscore_1 | farm |  
+| bip_39_word_underscore_10 | farm_else_parade_output_lend_bus_material_already_egg_spike |  
+| bip_39_word_underscore_11 | farm_else_parade_output_lend_bus_material_already_egg_spike_gesture |  
+| bip_39_word_underscore_12 | farm_else_parade_output_lend_bus_material_already_egg_spike_gesture_artist |  
+| bip_39_word_underscore_2 | farm_else |  
+| bip_39_word_underscore_3 | farm_else_parade |  
+| bip_39_word_underscore_4 | farm_else_parade_output |  
+| bip_39_word_underscore_5 | farm_else_parade_output_lend |  
+| bip_39_word_underscore_6 | farm_else_parade_output_lend_bus |  
+| bip_39_word_underscore_7 | farm_else_parade_output_lend_bus_material |  
+| bip_39_word_underscore_8 | farm_else_parade_output_lend_bus_material_already |  
+| bip_39_word_underscore_9 | farm_else_parade_output_lend_bus_material_already_egg |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

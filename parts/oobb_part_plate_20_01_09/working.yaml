@@ -1,3 +1,15 @@
+bip_39_word_dash_1: foster
+bip_39_word_dash_10: foster-tobacco-mad-hard-finger-shift-rug-celery-hawk-arm
+bip_39_word_dash_11: foster-tobacco-mad-hard-finger-shift-rug-celery-hawk-arm-cook
+bip_39_word_dash_12: foster-tobacco-mad-hard-finger-shift-rug-celery-hawk-arm-cook-attend
+bip_39_word_dash_2: foster-tobacco
+bip_39_word_dash_3: foster-tobacco-mad
+bip_39_word_dash_4: foster-tobacco-mad-hard
+bip_39_word_dash_5: foster-tobacco-mad-hard-finger
+bip_39_word_dash_6: foster-tobacco-mad-hard-finger-shift
+bip_39_word_dash_7: foster-tobacco-mad-hard-finger-shift-rug
+bip_39_word_dash_8: foster-tobacco-mad-hard-finger-shift-rug-celery
+bip_39_word_dash_9: foster-tobacco-mad-hard-finger-shift-rug-celery-hawk
 bip_39_word_new_br_1: foster
 bip_39_word_new_br_10: foster<br>tobacco<br>mad<br>hard<br>finger<br>shift<br>rug<br>celery<br>hawk<br>arm
 bip_39_word_new_br_11: foster<br>tobacco<br>mad<br>hard<br>finger<br>shift<br>rug<br>celery<br>hawk<br>arm<br>cook
@@ -192,6 +204,18 @@ bip_39_word_space_6: foster tobacco mad hard finger shift
 bip_39_word_space_7: foster tobacco mad hard finger shift rug
 bip_39_word_space_8: foster tobacco mad hard finger shift rug celery
 bip_39_word_space_9: foster tobacco mad hard finger shift rug celery hawk
+bip_39_word_underscore_1: foster
+bip_39_word_underscore_10: foster_tobacco_mad_hard_finger_shift_rug_celery_hawk_arm
+bip_39_word_underscore_11: foster_tobacco_mad_hard_finger_shift_rug_celery_hawk_arm_cook
+bip_39_word_underscore_12: foster_tobacco_mad_hard_finger_shift_rug_celery_hawk_arm_cook_attend
+bip_39_word_underscore_2: foster_tobacco
+bip_39_word_underscore_3: foster_tobacco_mad
+bip_39_word_underscore_4: foster_tobacco_mad_hard
+bip_39_word_underscore_5: foster_tobacco_mad_hard_finger
+bip_39_word_underscore_6: foster_tobacco_mad_hard_finger_shift
+bip_39_word_underscore_7: foster_tobacco_mad_hard_finger_shift_rug
+bip_39_word_underscore_8: foster_tobacco_mad_hard_finger_shift_rug_celery
+bip_39_word_underscore_9: foster_tobacco_mad_hard_finger_shift_rug_celery_hawk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sausage |  
+| bip_39_word_dash_10 | sausage-more-gravity-churn-rural-this-crunch-drama-fold-people |  
+| bip_39_word_dash_11 | sausage-more-gravity-churn-rural-this-crunch-drama-fold-people-oblige |  
+| bip_39_word_dash_12 | sausage-more-gravity-churn-rural-this-crunch-drama-fold-people-oblige-actual |  
+| bip_39_word_dash_2 | sausage-more |  
+| bip_39_word_dash_3 | sausage-more-gravity |  
+| bip_39_word_dash_4 | sausage-more-gravity-churn |  
+| bip_39_word_dash_5 | sausage-more-gravity-churn-rural |  
+| bip_39_word_dash_6 | sausage-more-gravity-churn-rural-this |  
+| bip_39_word_dash_7 | sausage-more-gravity-churn-rural-this-crunch |  
+| bip_39_word_dash_8 | sausage-more-gravity-churn-rural-this-crunch-drama |  
+| bip_39_word_dash_9 | sausage-more-gravity-churn-rural-this-crunch-drama-fold |  
 | bip_39_word_new_br_1 | sausage |  
 | bip_39_word_new_br_10 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people |  
 | bip_39_word_new_br_11 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people<br>oblige |  
@@ -147,6 +159,18 @@ fold |
 | bip_39_word_space_7 | sausage more gravity churn rural this crunch |  
 | bip_39_word_space_8 | sausage more gravity churn rural this crunch drama |  
 | bip_39_word_space_9 | sausage more gravity churn rural this crunch drama fold |  
+| bip_39_word_underscore_1 | sausage |  
+| bip_39_word_underscore_10 | sausage_more_gravity_churn_rural_this_crunch_drama_fold_people |  
+| bip_39_word_underscore_11 | sausage_more_gravity_churn_rural_this_crunch_drama_fold_people_oblige |  
+| bip_39_word_underscore_12 | sausage_more_gravity_churn_rural_this_crunch_drama_fold_people_oblige_actual |  
+| bip_39_word_underscore_2 | sausage_more |  
+| bip_39_word_underscore_3 | sausage_more_gravity |  
+| bip_39_word_underscore_4 | sausage_more_gravity_churn |  
+| bip_39_word_underscore_5 | sausage_more_gravity_churn_rural |  
+| bip_39_word_underscore_6 | sausage_more_gravity_churn_rural_this |  
+| bip_39_word_underscore_7 | sausage_more_gravity_churn_rural_this_crunch |  
+| bip_39_word_underscore_8 | sausage_more_gravity_churn_rural_this_crunch_drama |  
+| bip_39_word_underscore_9 | sausage_more_gravity_churn_rural_this_crunch_drama_fold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

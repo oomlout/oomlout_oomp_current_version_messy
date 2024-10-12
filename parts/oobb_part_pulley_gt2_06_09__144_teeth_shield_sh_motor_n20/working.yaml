@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toward
+bip_39_word_dash_10: toward-maple-farm-old-slush-dynamic-rather-trumpet-tide-open
+bip_39_word_dash_11: toward-maple-farm-old-slush-dynamic-rather-trumpet-tide-open-meat
+bip_39_word_dash_12: toward-maple-farm-old-slush-dynamic-rather-trumpet-tide-open-meat-air
+bip_39_word_dash_2: toward-maple
+bip_39_word_dash_3: toward-maple-farm
+bip_39_word_dash_4: toward-maple-farm-old
+bip_39_word_dash_5: toward-maple-farm-old-slush
+bip_39_word_dash_6: toward-maple-farm-old-slush-dynamic
+bip_39_word_dash_7: toward-maple-farm-old-slush-dynamic-rather
+bip_39_word_dash_8: toward-maple-farm-old-slush-dynamic-rather-trumpet
+bip_39_word_dash_9: toward-maple-farm-old-slush-dynamic-rather-trumpet-tide
 bip_39_word_new_br_1: toward
 bip_39_word_new_br_10: toward<br>maple<br>farm<br>old<br>slush<br>dynamic<br>rather<br>trumpet<br>tide<br>open
 bip_39_word_new_br_11: toward<br>maple<br>farm<br>old<br>slush<br>dynamic<br>rather<br>trumpet<br>tide<br>open<br>meat
@@ -193,6 +205,18 @@ bip_39_word_space_6: toward maple farm old slush dynamic
 bip_39_word_space_7: toward maple farm old slush dynamic rather
 bip_39_word_space_8: toward maple farm old slush dynamic rather trumpet
 bip_39_word_space_9: toward maple farm old slush dynamic rather trumpet tide
+bip_39_word_underscore_1: toward
+bip_39_word_underscore_10: toward_maple_farm_old_slush_dynamic_rather_trumpet_tide_open
+bip_39_word_underscore_11: toward_maple_farm_old_slush_dynamic_rather_trumpet_tide_open_meat
+bip_39_word_underscore_12: toward_maple_farm_old_slush_dynamic_rather_trumpet_tide_open_meat_air
+bip_39_word_underscore_2: toward_maple
+bip_39_word_underscore_3: toward_maple_farm
+bip_39_word_underscore_4: toward_maple_farm_old
+bip_39_word_underscore_5: toward_maple_farm_old_slush
+bip_39_word_underscore_6: toward_maple_farm_old_slush_dynamic
+bip_39_word_underscore_7: toward_maple_farm_old_slush_dynamic_rather
+bip_39_word_underscore_8: toward_maple_farm_old_slush_dynamic_rather_trumpet
+bip_39_word_underscore_9: toward_maple_farm_old_slush_dynamic_rather_trumpet_tide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | common |  
+| bip_39_word_dash_10 | common-prevent-nominee-verb-primary-torch-math-mushroom-author-refuse |  
+| bip_39_word_dash_11 | common-prevent-nominee-verb-primary-torch-math-mushroom-author-refuse-elder |  
+| bip_39_word_dash_12 | common-prevent-nominee-verb-primary-torch-math-mushroom-author-refuse-elder-alone |  
+| bip_39_word_dash_2 | common-prevent |  
+| bip_39_word_dash_3 | common-prevent-nominee |  
+| bip_39_word_dash_4 | common-prevent-nominee-verb |  
+| bip_39_word_dash_5 | common-prevent-nominee-verb-primary |  
+| bip_39_word_dash_6 | common-prevent-nominee-verb-primary-torch |  
+| bip_39_word_dash_7 | common-prevent-nominee-verb-primary-torch-math |  
+| bip_39_word_dash_8 | common-prevent-nominee-verb-primary-torch-math-mushroom |  
+| bip_39_word_dash_9 | common-prevent-nominee-verb-primary-torch-math-mushroom-author |  
 | bip_39_word_new_br_1 | common |  
 | bip_39_word_new_br_10 | common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom<br>author<br>refuse |  
 | bip_39_word_new_br_11 | common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom<br>author<br>refuse<br>elder |  
@@ -147,6 +159,18 @@ author |
 | bip_39_word_space_7 | common prevent nominee verb primary torch math |  
 | bip_39_word_space_8 | common prevent nominee verb primary torch math mushroom |  
 | bip_39_word_space_9 | common prevent nominee verb primary torch math mushroom author |  
+| bip_39_word_underscore_1 | common |  
+| bip_39_word_underscore_10 | common_prevent_nominee_verb_primary_torch_math_mushroom_author_refuse |  
+| bip_39_word_underscore_11 | common_prevent_nominee_verb_primary_torch_math_mushroom_author_refuse_elder |  
+| bip_39_word_underscore_12 | common_prevent_nominee_verb_primary_torch_math_mushroom_author_refuse_elder_alone |  
+| bip_39_word_underscore_2 | common_prevent |  
+| bip_39_word_underscore_3 | common_prevent_nominee |  
+| bip_39_word_underscore_4 | common_prevent_nominee_verb |  
+| bip_39_word_underscore_5 | common_prevent_nominee_verb_primary |  
+| bip_39_word_underscore_6 | common_prevent_nominee_verb_primary_torch |  
+| bip_39_word_underscore_7 | common_prevent_nominee_verb_primary_torch_math |  
+| bip_39_word_underscore_8 | common_prevent_nominee_verb_primary_torch_math_mushroom |  
+| bip_39_word_underscore_9 | common_prevent_nominee_verb_primary_torch_math_mushroom_author |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

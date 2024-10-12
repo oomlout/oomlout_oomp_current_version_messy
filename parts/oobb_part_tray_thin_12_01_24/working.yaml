@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ritual
+bip_39_word_dash_10: ritual-giraffe-raw-range-shoot-rib-romance-over-knee-gloom
+bip_39_word_dash_11: ritual-giraffe-raw-range-shoot-rib-romance-over-knee-gloom-grocery
+bip_39_word_dash_12: ritual-giraffe-raw-range-shoot-rib-romance-over-knee-gloom-grocery-actual
+bip_39_word_dash_2: ritual-giraffe
+bip_39_word_dash_3: ritual-giraffe-raw
+bip_39_word_dash_4: ritual-giraffe-raw-range
+bip_39_word_dash_5: ritual-giraffe-raw-range-shoot
+bip_39_word_dash_6: ritual-giraffe-raw-range-shoot-rib
+bip_39_word_dash_7: ritual-giraffe-raw-range-shoot-rib-romance
+bip_39_word_dash_8: ritual-giraffe-raw-range-shoot-rib-romance-over
+bip_39_word_dash_9: ritual-giraffe-raw-range-shoot-rib-romance-over-knee
 bip_39_word_new_br_1: ritual
 bip_39_word_new_br_10: ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over<br>knee<br>gloom
 bip_39_word_new_br_11: ritual<br>giraffe<br>raw<br>range<br>shoot<br>rib<br>romance<br>over<br>knee<br>gloom<br>grocery
@@ -192,6 +204,18 @@ bip_39_word_space_6: ritual giraffe raw range shoot rib
 bip_39_word_space_7: ritual giraffe raw range shoot rib romance
 bip_39_word_space_8: ritual giraffe raw range shoot rib romance over
 bip_39_word_space_9: ritual giraffe raw range shoot rib romance over knee
+bip_39_word_underscore_1: ritual
+bip_39_word_underscore_10: ritual_giraffe_raw_range_shoot_rib_romance_over_knee_gloom
+bip_39_word_underscore_11: ritual_giraffe_raw_range_shoot_rib_romance_over_knee_gloom_grocery
+bip_39_word_underscore_12: ritual_giraffe_raw_range_shoot_rib_romance_over_knee_gloom_grocery_actual
+bip_39_word_underscore_2: ritual_giraffe
+bip_39_word_underscore_3: ritual_giraffe_raw
+bip_39_word_underscore_4: ritual_giraffe_raw_range
+bip_39_word_underscore_5: ritual_giraffe_raw_range_shoot
+bip_39_word_underscore_6: ritual_giraffe_raw_range_shoot_rib
+bip_39_word_underscore_7: ritual_giraffe_raw_range_shoot_rib_romance
+bip_39_word_underscore_8: ritual_giraffe_raw_range_shoot_rib_romance_over
+bip_39_word_underscore_9: ritual_giraffe_raw_range_shoot_rib_romance_over_knee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

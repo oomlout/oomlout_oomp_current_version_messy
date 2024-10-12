@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pyramid |  
+| bip_39_word_dash_10 | pyramid-choose-camp-card-adult-transfer-hover-rural-ability-hire |  
+| bip_39_word_dash_11 | pyramid-choose-camp-card-adult-transfer-hover-rural-ability-hire-toward |  
+| bip_39_word_dash_12 | pyramid-choose-camp-card-adult-transfer-hover-rural-ability-hire-toward-antenna |  
+| bip_39_word_dash_2 | pyramid-choose |  
+| bip_39_word_dash_3 | pyramid-choose-camp |  
+| bip_39_word_dash_4 | pyramid-choose-camp-card |  
+| bip_39_word_dash_5 | pyramid-choose-camp-card-adult |  
+| bip_39_word_dash_6 | pyramid-choose-camp-card-adult-transfer |  
+| bip_39_word_dash_7 | pyramid-choose-camp-card-adult-transfer-hover |  
+| bip_39_word_dash_8 | pyramid-choose-camp-card-adult-transfer-hover-rural |  
+| bip_39_word_dash_9 | pyramid-choose-camp-card-adult-transfer-hover-rural-ability |  
 | bip_39_word_new_br_1 | pyramid |  
 | bip_39_word_new_br_10 | pyramid<br>choose<br>camp<br>card<br>adult<br>transfer<br>hover<br>rural<br>ability<br>hire |  
 | bip_39_word_new_br_11 | pyramid<br>choose<br>camp<br>card<br>adult<br>transfer<br>hover<br>rural<br>ability<br>hire<br>toward |  
@@ -147,6 +159,18 @@ ability |
 | bip_39_word_space_7 | pyramid choose camp card adult transfer hover |  
 | bip_39_word_space_8 | pyramid choose camp card adult transfer hover rural |  
 | bip_39_word_space_9 | pyramid choose camp card adult transfer hover rural ability |  
+| bip_39_word_underscore_1 | pyramid |  
+| bip_39_word_underscore_10 | pyramid_choose_camp_card_adult_transfer_hover_rural_ability_hire |  
+| bip_39_word_underscore_11 | pyramid_choose_camp_card_adult_transfer_hover_rural_ability_hire_toward |  
+| bip_39_word_underscore_12 | pyramid_choose_camp_card_adult_transfer_hover_rural_ability_hire_toward_antenna |  
+| bip_39_word_underscore_2 | pyramid_choose |  
+| bip_39_word_underscore_3 | pyramid_choose_camp |  
+| bip_39_word_underscore_4 | pyramid_choose_camp_card |  
+| bip_39_word_underscore_5 | pyramid_choose_camp_card_adult |  
+| bip_39_word_underscore_6 | pyramid_choose_camp_card_adult_transfer |  
+| bip_39_word_underscore_7 | pyramid_choose_camp_card_adult_transfer_hover |  
+| bip_39_word_underscore_8 | pyramid_choose_camp_card_adult_transfer_hover_rural |  
+| bip_39_word_underscore_9 | pyramid_choose_camp_card_adult_transfer_hover_rural_ability |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

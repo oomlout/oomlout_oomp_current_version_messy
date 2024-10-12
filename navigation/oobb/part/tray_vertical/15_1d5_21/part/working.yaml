@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cage
+bip_39_word_dash_10: cage-kiwi-balance-accuse-mention-dose-stable-grow-knock-comic
+bip_39_word_dash_11: cage-kiwi-balance-accuse-mention-dose-stable-grow-knock-comic-stumble
+bip_39_word_dash_12: cage-kiwi-balance-accuse-mention-dose-stable-grow-knock-comic-stumble-analyst
+bip_39_word_dash_2: cage-kiwi
+bip_39_word_dash_3: cage-kiwi-balance
+bip_39_word_dash_4: cage-kiwi-balance-accuse
+bip_39_word_dash_5: cage-kiwi-balance-accuse-mention
+bip_39_word_dash_6: cage-kiwi-balance-accuse-mention-dose
+bip_39_word_dash_7: cage-kiwi-balance-accuse-mention-dose-stable
+bip_39_word_dash_8: cage-kiwi-balance-accuse-mention-dose-stable-grow
+bip_39_word_dash_9: cage-kiwi-balance-accuse-mention-dose-stable-grow-knock
 bip_39_word_new_br_1: cage
 bip_39_word_new_br_10: cage<br>kiwi<br>balance<br>accuse<br>mention<br>dose<br>stable<br>grow<br>knock<br>comic
 bip_39_word_new_br_11: cage<br>kiwi<br>balance<br>accuse<br>mention<br>dose<br>stable<br>grow<br>knock<br>comic<br>stumble
@@ -193,6 +205,18 @@ bip_39_word_space_6: cage kiwi balance accuse mention dose
 bip_39_word_space_7: cage kiwi balance accuse mention dose stable
 bip_39_word_space_8: cage kiwi balance accuse mention dose stable grow
 bip_39_word_space_9: cage kiwi balance accuse mention dose stable grow knock
+bip_39_word_underscore_1: cage
+bip_39_word_underscore_10: cage_kiwi_balance_accuse_mention_dose_stable_grow_knock_comic
+bip_39_word_underscore_11: cage_kiwi_balance_accuse_mention_dose_stable_grow_knock_comic_stumble
+bip_39_word_underscore_12: cage_kiwi_balance_accuse_mention_dose_stable_grow_knock_comic_stumble_analyst
+bip_39_word_underscore_2: cage_kiwi
+bip_39_word_underscore_3: cage_kiwi_balance
+bip_39_word_underscore_4: cage_kiwi_balance_accuse
+bip_39_word_underscore_5: cage_kiwi_balance_accuse_mention
+bip_39_word_underscore_6: cage_kiwi_balance_accuse_mention_dose
+bip_39_word_underscore_7: cage_kiwi_balance_accuse_mention_dose_stable
+bip_39_word_underscore_8: cage_kiwi_balance_accuse_mention_dose_stable_grow
+bip_39_word_underscore_9: cage_kiwi_balance_accuse_mention_dose_stable_grow_knock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

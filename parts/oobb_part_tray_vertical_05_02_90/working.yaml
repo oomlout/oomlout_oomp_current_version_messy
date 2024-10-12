@@ -1,3 +1,15 @@
+bip_39_word_dash_1: radar
+bip_39_word_dash_10: radar-glue-blind-private-reopen-about-uncle-divert-knife-amazing
+bip_39_word_dash_11: radar-glue-blind-private-reopen-about-uncle-divert-knife-amazing-casino
+bip_39_word_dash_12: radar-glue-blind-private-reopen-about-uncle-divert-knife-amazing-casino-afraid
+bip_39_word_dash_2: radar-glue
+bip_39_word_dash_3: radar-glue-blind
+bip_39_word_dash_4: radar-glue-blind-private
+bip_39_word_dash_5: radar-glue-blind-private-reopen
+bip_39_word_dash_6: radar-glue-blind-private-reopen-about
+bip_39_word_dash_7: radar-glue-blind-private-reopen-about-uncle
+bip_39_word_dash_8: radar-glue-blind-private-reopen-about-uncle-divert
+bip_39_word_dash_9: radar-glue-blind-private-reopen-about-uncle-divert-knife
 bip_39_word_new_br_1: radar
 bip_39_word_new_br_10: radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert<br>knife<br>amazing
 bip_39_word_new_br_11: radar<br>glue<br>blind<br>private<br>reopen<br>about<br>uncle<br>divert<br>knife<br>amazing<br>casino
@@ -193,6 +205,18 @@ bip_39_word_space_6: radar glue blind private reopen about
 bip_39_word_space_7: radar glue blind private reopen about uncle
 bip_39_word_space_8: radar glue blind private reopen about uncle divert
 bip_39_word_space_9: radar glue blind private reopen about uncle divert knife
+bip_39_word_underscore_1: radar
+bip_39_word_underscore_10: radar_glue_blind_private_reopen_about_uncle_divert_knife_amazing
+bip_39_word_underscore_11: radar_glue_blind_private_reopen_about_uncle_divert_knife_amazing_casino
+bip_39_word_underscore_12: radar_glue_blind_private_reopen_about_uncle_divert_knife_amazing_casino_afraid
+bip_39_word_underscore_2: radar_glue
+bip_39_word_underscore_3: radar_glue_blind
+bip_39_word_underscore_4: radar_glue_blind_private
+bip_39_word_underscore_5: radar_glue_blind_private_reopen
+bip_39_word_underscore_6: radar_glue_blind_private_reopen_about
+bip_39_word_underscore_7: radar_glue_blind_private_reopen_about_uncle
+bip_39_word_underscore_8: radar_glue_blind_private_reopen_about_uncle_divert
+bip_39_word_underscore_9: radar_glue_blind_private_reopen_about_uncle_divert_knife
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

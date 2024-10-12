@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | roast |  
+| bip_39_word_dash_10 | roast-warfare-material-boat-network-claw-stumble-usual-garbage-bird |  
+| bip_39_word_dash_11 | roast-warfare-material-boat-network-claw-stumble-usual-garbage-bird-stem |  
+| bip_39_word_dash_12 | roast-warfare-material-boat-network-claw-stumble-usual-garbage-bird-stem-accident |  
+| bip_39_word_dash_2 | roast-warfare |  
+| bip_39_word_dash_3 | roast-warfare-material |  
+| bip_39_word_dash_4 | roast-warfare-material-boat |  
+| bip_39_word_dash_5 | roast-warfare-material-boat-network |  
+| bip_39_word_dash_6 | roast-warfare-material-boat-network-claw |  
+| bip_39_word_dash_7 | roast-warfare-material-boat-network-claw-stumble |  
+| bip_39_word_dash_8 | roast-warfare-material-boat-network-claw-stumble-usual |  
+| bip_39_word_dash_9 | roast-warfare-material-boat-network-claw-stumble-usual-garbage |  
 | bip_39_word_new_br_1 | roast |  
 | bip_39_word_new_br_10 | roast<br>warfare<br>material<br>boat<br>network<br>claw<br>stumble<br>usual<br>garbage<br>bird |  
 | bip_39_word_new_br_11 | roast<br>warfare<br>material<br>boat<br>network<br>claw<br>stumble<br>usual<br>garbage<br>bird<br>stem |  
@@ -147,6 +159,18 @@ garbage |
 | bip_39_word_space_7 | roast warfare material boat network claw stumble |  
 | bip_39_word_space_8 | roast warfare material boat network claw stumble usual |  
 | bip_39_word_space_9 | roast warfare material boat network claw stumble usual garbage |  
+| bip_39_word_underscore_1 | roast |  
+| bip_39_word_underscore_10 | roast_warfare_material_boat_network_claw_stumble_usual_garbage_bird |  
+| bip_39_word_underscore_11 | roast_warfare_material_boat_network_claw_stumble_usual_garbage_bird_stem |  
+| bip_39_word_underscore_12 | roast_warfare_material_boat_network_claw_stumble_usual_garbage_bird_stem_accident |  
+| bip_39_word_underscore_2 | roast_warfare |  
+| bip_39_word_underscore_3 | roast_warfare_material |  
+| bip_39_word_underscore_4 | roast_warfare_material_boat |  
+| bip_39_word_underscore_5 | roast_warfare_material_boat_network |  
+| bip_39_word_underscore_6 | roast_warfare_material_boat_network_claw |  
+| bip_39_word_underscore_7 | roast_warfare_material_boat_network_claw_stumble |  
+| bip_39_word_underscore_8 | roast_warfare_material_boat_network_claw_stumble_usual |  
+| bip_39_word_underscore_9 | roast_warfare_material_boat_network_claw_stumble_usual_garbage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

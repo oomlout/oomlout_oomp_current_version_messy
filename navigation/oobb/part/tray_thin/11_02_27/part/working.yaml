@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hybrid
+bip_39_word_dash_10: hybrid-toilet-smile-bean-maple-tower-town-shield-benefit-lounge
+bip_39_word_dash_11: hybrid-toilet-smile-bean-maple-tower-town-shield-benefit-lounge-hand
+bip_39_word_dash_12: hybrid-toilet-smile-bean-maple-tower-town-shield-benefit-lounge-hand-advice
+bip_39_word_dash_2: hybrid-toilet
+bip_39_word_dash_3: hybrid-toilet-smile
+bip_39_word_dash_4: hybrid-toilet-smile-bean
+bip_39_word_dash_5: hybrid-toilet-smile-bean-maple
+bip_39_word_dash_6: hybrid-toilet-smile-bean-maple-tower
+bip_39_word_dash_7: hybrid-toilet-smile-bean-maple-tower-town
+bip_39_word_dash_8: hybrid-toilet-smile-bean-maple-tower-town-shield
+bip_39_word_dash_9: hybrid-toilet-smile-bean-maple-tower-town-shield-benefit
 bip_39_word_new_br_1: hybrid
 bip_39_word_new_br_10: hybrid<br>toilet<br>smile<br>bean<br>maple<br>tower<br>town<br>shield<br>benefit<br>lounge
 bip_39_word_new_br_11: hybrid<br>toilet<br>smile<br>bean<br>maple<br>tower<br>town<br>shield<br>benefit<br>lounge<br>hand
@@ -193,6 +205,18 @@ bip_39_word_space_6: hybrid toilet smile bean maple tower
 bip_39_word_space_7: hybrid toilet smile bean maple tower town
 bip_39_word_space_8: hybrid toilet smile bean maple tower town shield
 bip_39_word_space_9: hybrid toilet smile bean maple tower town shield benefit
+bip_39_word_underscore_1: hybrid
+bip_39_word_underscore_10: hybrid_toilet_smile_bean_maple_tower_town_shield_benefit_lounge
+bip_39_word_underscore_11: hybrid_toilet_smile_bean_maple_tower_town_shield_benefit_lounge_hand
+bip_39_word_underscore_12: hybrid_toilet_smile_bean_maple_tower_town_shield_benefit_lounge_hand_advice
+bip_39_word_underscore_2: hybrid_toilet
+bip_39_word_underscore_3: hybrid_toilet_smile
+bip_39_word_underscore_4: hybrid_toilet_smile_bean
+bip_39_word_underscore_5: hybrid_toilet_smile_bean_maple
+bip_39_word_underscore_6: hybrid_toilet_smile_bean_maple_tower
+bip_39_word_underscore_7: hybrid_toilet_smile_bean_maple_tower_town
+bip_39_word_underscore_8: hybrid_toilet_smile_bean_maple_tower_town_shield
+bip_39_word_underscore_9: hybrid_toilet_smile_bean_maple_tower_town_shield_benefit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: raise
+bip_39_word_dash_10: raise-sad-conduct-aunt-cook-want-dream-cricket-click-document
+bip_39_word_dash_11: raise-sad-conduct-aunt-cook-want-dream-cricket-click-document-act
+bip_39_word_dash_12: raise-sad-conduct-aunt-cook-want-dream-cricket-click-document-act-answer
+bip_39_word_dash_2: raise-sad
+bip_39_word_dash_3: raise-sad-conduct
+bip_39_word_dash_4: raise-sad-conduct-aunt
+bip_39_word_dash_5: raise-sad-conduct-aunt-cook
+bip_39_word_dash_6: raise-sad-conduct-aunt-cook-want
+bip_39_word_dash_7: raise-sad-conduct-aunt-cook-want-dream
+bip_39_word_dash_8: raise-sad-conduct-aunt-cook-want-dream-cricket
+bip_39_word_dash_9: raise-sad-conduct-aunt-cook-want-dream-cricket-click
 bip_39_word_new_br_1: raise
 bip_39_word_new_br_10: raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket<br>click<br>document
 bip_39_word_new_br_11: raise<br>sad<br>conduct<br>aunt<br>cook<br>want<br>dream<br>cricket<br>click<br>document<br>act
@@ -193,6 +205,18 @@ bip_39_word_space_6: raise sad conduct aunt cook want
 bip_39_word_space_7: raise sad conduct aunt cook want dream
 bip_39_word_space_8: raise sad conduct aunt cook want dream cricket
 bip_39_word_space_9: raise sad conduct aunt cook want dream cricket click
+bip_39_word_underscore_1: raise
+bip_39_word_underscore_10: raise_sad_conduct_aunt_cook_want_dream_cricket_click_document
+bip_39_word_underscore_11: raise_sad_conduct_aunt_cook_want_dream_cricket_click_document_act
+bip_39_word_underscore_12: raise_sad_conduct_aunt_cook_want_dream_cricket_click_document_act_answer
+bip_39_word_underscore_2: raise_sad
+bip_39_word_underscore_3: raise_sad_conduct
+bip_39_word_underscore_4: raise_sad_conduct_aunt
+bip_39_word_underscore_5: raise_sad_conduct_aunt_cook
+bip_39_word_underscore_6: raise_sad_conduct_aunt_cook_want
+bip_39_word_underscore_7: raise_sad_conduct_aunt_cook_want_dream
+bip_39_word_underscore_8: raise_sad_conduct_aunt_cook_want_dream_cricket
+bip_39_word_underscore_9: raise_sad_conduct_aunt_cook_want_dream_cricket_click
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

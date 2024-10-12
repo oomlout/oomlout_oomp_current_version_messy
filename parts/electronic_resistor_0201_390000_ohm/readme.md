@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | relief |  
+| bip_39_word_dash_10 | relief-iron-key-crater-sound-meat-birth-rate-trick-essence |  
+| bip_39_word_dash_11 | relief-iron-key-crater-sound-meat-birth-rate-trick-essence-fade |  
+| bip_39_word_dash_12 | relief-iron-key-crater-sound-meat-birth-rate-trick-essence-fade-arrange |  
+| bip_39_word_dash_2 | relief-iron |  
+| bip_39_word_dash_3 | relief-iron-key |  
+| bip_39_word_dash_4 | relief-iron-key-crater |  
+| bip_39_word_dash_5 | relief-iron-key-crater-sound |  
+| bip_39_word_dash_6 | relief-iron-key-crater-sound-meat |  
+| bip_39_word_dash_7 | relief-iron-key-crater-sound-meat-birth |  
+| bip_39_word_dash_8 | relief-iron-key-crater-sound-meat-birth-rate |  
+| bip_39_word_dash_9 | relief-iron-key-crater-sound-meat-birth-rate-trick |  
 | bip_39_word_new_br_1 | relief |  
 | bip_39_word_new_br_10 | relief<br>iron<br>key<br>crater<br>sound<br>meat<br>birth<br>rate<br>trick<br>essence |  
 | bip_39_word_new_br_11 | relief<br>iron<br>key<br>crater<br>sound<br>meat<br>birth<br>rate<br>trick<br>essence<br>fade |  
@@ -147,6 +159,18 @@ trick |
 | bip_39_word_space_7 | relief iron key crater sound meat birth |  
 | bip_39_word_space_8 | relief iron key crater sound meat birth rate |  
 | bip_39_word_space_9 | relief iron key crater sound meat birth rate trick |  
+| bip_39_word_underscore_1 | relief |  
+| bip_39_word_underscore_10 | relief_iron_key_crater_sound_meat_birth_rate_trick_essence |  
+| bip_39_word_underscore_11 | relief_iron_key_crater_sound_meat_birth_rate_trick_essence_fade |  
+| bip_39_word_underscore_12 | relief_iron_key_crater_sound_meat_birth_rate_trick_essence_fade_arrange |  
+| bip_39_word_underscore_2 | relief_iron |  
+| bip_39_word_underscore_3 | relief_iron_key |  
+| bip_39_word_underscore_4 | relief_iron_key_crater |  
+| bip_39_word_underscore_5 | relief_iron_key_crater_sound |  
+| bip_39_word_underscore_6 | relief_iron_key_crater_sound_meat |  
+| bip_39_word_underscore_7 | relief_iron_key_crater_sound_meat_birth |  
+| bip_39_word_underscore_8 | relief_iron_key_crater_sound_meat_birth_rate |  
+| bip_39_word_underscore_9 | relief_iron_key_crater_sound_meat_birth_rate_trick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

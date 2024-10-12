@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mandate
+bip_39_word_dash_10: mandate-normal-broccoli-crazy-fabric-among-engine-try-erode-stable
+bip_39_word_dash_11: mandate-normal-broccoli-crazy-fabric-among-engine-try-erode-stable-frog
+bip_39_word_dash_12: mandate-normal-broccoli-crazy-fabric-among-engine-try-erode-stable-frog-affair
+bip_39_word_dash_2: mandate-normal
+bip_39_word_dash_3: mandate-normal-broccoli
+bip_39_word_dash_4: mandate-normal-broccoli-crazy
+bip_39_word_dash_5: mandate-normal-broccoli-crazy-fabric
+bip_39_word_dash_6: mandate-normal-broccoli-crazy-fabric-among
+bip_39_word_dash_7: mandate-normal-broccoli-crazy-fabric-among-engine
+bip_39_word_dash_8: mandate-normal-broccoli-crazy-fabric-among-engine-try
+bip_39_word_dash_9: mandate-normal-broccoli-crazy-fabric-among-engine-try-erode
 bip_39_word_new_br_1: mandate
 bip_39_word_new_br_10: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try<br>erode<br>stable
 bip_39_word_new_br_11: mandate<br>normal<br>broccoli<br>crazy<br>fabric<br>among<br>engine<br>try<br>erode<br>stable<br>frog
@@ -194,6 +206,18 @@ bip_39_word_space_6: mandate normal broccoli crazy fabric among
 bip_39_word_space_7: mandate normal broccoli crazy fabric among engine
 bip_39_word_space_8: mandate normal broccoli crazy fabric among engine try
 bip_39_word_space_9: mandate normal broccoli crazy fabric among engine try erode
+bip_39_word_underscore_1: mandate
+bip_39_word_underscore_10: mandate_normal_broccoli_crazy_fabric_among_engine_try_erode_stable
+bip_39_word_underscore_11: mandate_normal_broccoli_crazy_fabric_among_engine_try_erode_stable_frog
+bip_39_word_underscore_12: mandate_normal_broccoli_crazy_fabric_among_engine_try_erode_stable_frog_affair
+bip_39_word_underscore_2: mandate_normal
+bip_39_word_underscore_3: mandate_normal_broccoli
+bip_39_word_underscore_4: mandate_normal_broccoli_crazy
+bip_39_word_underscore_5: mandate_normal_broccoli_crazy_fabric
+bip_39_word_underscore_6: mandate_normal_broccoli_crazy_fabric_among
+bip_39_word_underscore_7: mandate_normal_broccoli_crazy_fabric_among_engine
+bip_39_word_underscore_8: mandate_normal_broccoli_crazy_fabric_among_engine_try
+bip_39_word_underscore_9: mandate_normal_broccoli_crazy_fabric_among_engine_try_erode
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

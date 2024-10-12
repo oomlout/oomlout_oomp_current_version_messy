@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tornado |  
+| bip_39_word_dash_10 | tornado-sustain-bench-solar-narrow-ahead-math-laugh-tube-spirit |  
+| bip_39_word_dash_11 | tornado-sustain-bench-solar-narrow-ahead-math-laugh-tube-spirit-inform |  
+| bip_39_word_dash_12 | tornado-sustain-bench-solar-narrow-ahead-math-laugh-tube-spirit-inform-adjust |  
+| bip_39_word_dash_2 | tornado-sustain |  
+| bip_39_word_dash_3 | tornado-sustain-bench |  
+| bip_39_word_dash_4 | tornado-sustain-bench-solar |  
+| bip_39_word_dash_5 | tornado-sustain-bench-solar-narrow |  
+| bip_39_word_dash_6 | tornado-sustain-bench-solar-narrow-ahead |  
+| bip_39_word_dash_7 | tornado-sustain-bench-solar-narrow-ahead-math |  
+| bip_39_word_dash_8 | tornado-sustain-bench-solar-narrow-ahead-math-laugh |  
+| bip_39_word_dash_9 | tornado-sustain-bench-solar-narrow-ahead-math-laugh-tube |  
 | bip_39_word_new_br_1 | tornado |  
 | bip_39_word_new_br_10 | tornado<br>sustain<br>bench<br>solar<br>narrow<br>ahead<br>math<br>laugh<br>tube<br>spirit |  
 | bip_39_word_new_br_11 | tornado<br>sustain<br>bench<br>solar<br>narrow<br>ahead<br>math<br>laugh<br>tube<br>spirit<br>inform |  
@@ -147,6 +159,18 @@ tube |
 | bip_39_word_space_7 | tornado sustain bench solar narrow ahead math |  
 | bip_39_word_space_8 | tornado sustain bench solar narrow ahead math laugh |  
 | bip_39_word_space_9 | tornado sustain bench solar narrow ahead math laugh tube |  
+| bip_39_word_underscore_1 | tornado |  
+| bip_39_word_underscore_10 | tornado_sustain_bench_solar_narrow_ahead_math_laugh_tube_spirit |  
+| bip_39_word_underscore_11 | tornado_sustain_bench_solar_narrow_ahead_math_laugh_tube_spirit_inform |  
+| bip_39_word_underscore_12 | tornado_sustain_bench_solar_narrow_ahead_math_laugh_tube_spirit_inform_adjust |  
+| bip_39_word_underscore_2 | tornado_sustain |  
+| bip_39_word_underscore_3 | tornado_sustain_bench |  
+| bip_39_word_underscore_4 | tornado_sustain_bench_solar |  
+| bip_39_word_underscore_5 | tornado_sustain_bench_solar_narrow |  
+| bip_39_word_underscore_6 | tornado_sustain_bench_solar_narrow_ahead |  
+| bip_39_word_underscore_7 | tornado_sustain_bench_solar_narrow_ahead_math |  
+| bip_39_word_underscore_8 | tornado_sustain_bench_solar_narrow_ahead_math_laugh |  
+| bip_39_word_underscore_9 | tornado_sustain_bench_solar_narrow_ahead_math_laugh_tube |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

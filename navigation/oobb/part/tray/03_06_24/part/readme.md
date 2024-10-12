@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ecology |  
+| bip_39_word_dash_10 | ecology-casual-insane-dog-hammer-general-never-woman-alone-rhythm |  
+| bip_39_word_dash_11 | ecology-casual-insane-dog-hammer-general-never-woman-alone-rhythm-you |  
+| bip_39_word_dash_12 | ecology-casual-insane-dog-hammer-general-never-woman-alone-rhythm-you-allow |  
+| bip_39_word_dash_2 | ecology-casual |  
+| bip_39_word_dash_3 | ecology-casual-insane |  
+| bip_39_word_dash_4 | ecology-casual-insane-dog |  
+| bip_39_word_dash_5 | ecology-casual-insane-dog-hammer |  
+| bip_39_word_dash_6 | ecology-casual-insane-dog-hammer-general |  
+| bip_39_word_dash_7 | ecology-casual-insane-dog-hammer-general-never |  
+| bip_39_word_dash_8 | ecology-casual-insane-dog-hammer-general-never-woman |  
+| bip_39_word_dash_9 | ecology-casual-insane-dog-hammer-general-never-woman-alone |  
 | bip_39_word_new_br_1 | ecology |  
 | bip_39_word_new_br_10 | ecology<br>casual<br>insane<br>dog<br>hammer<br>general<br>never<br>woman<br>alone<br>rhythm |  
 | bip_39_word_new_br_11 | ecology<br>casual<br>insane<br>dog<br>hammer<br>general<br>never<br>woman<br>alone<br>rhythm<br>you |  
@@ -147,6 +159,18 @@ alone |
 | bip_39_word_space_7 | ecology casual insane dog hammer general never |  
 | bip_39_word_space_8 | ecology casual insane dog hammer general never woman |  
 | bip_39_word_space_9 | ecology casual insane dog hammer general never woman alone |  
+| bip_39_word_underscore_1 | ecology |  
+| bip_39_word_underscore_10 | ecology_casual_insane_dog_hammer_general_never_woman_alone_rhythm |  
+| bip_39_word_underscore_11 | ecology_casual_insane_dog_hammer_general_never_woman_alone_rhythm_you |  
+| bip_39_word_underscore_12 | ecology_casual_insane_dog_hammer_general_never_woman_alone_rhythm_you_allow |  
+| bip_39_word_underscore_2 | ecology_casual |  
+| bip_39_word_underscore_3 | ecology_casual_insane |  
+| bip_39_word_underscore_4 | ecology_casual_insane_dog |  
+| bip_39_word_underscore_5 | ecology_casual_insane_dog_hammer |  
+| bip_39_word_underscore_6 | ecology_casual_insane_dog_hammer_general |  
+| bip_39_word_underscore_7 | ecology_casual_insane_dog_hammer_general_never |  
+| bip_39_word_underscore_8 | ecology_casual_insane_dog_hammer_general_never_woman |  
+| bip_39_word_underscore_9 | ecology_casual_insane_dog_hammer_general_never_woman_alone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

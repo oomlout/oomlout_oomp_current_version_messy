@@ -1,3 +1,15 @@
+bip_39_word_dash_1: valid
+bip_39_word_dash_10: valid-letter-cattle-need-inspire-snap-cheap-interest-core-bone
+bip_39_word_dash_11: valid-letter-cattle-need-inspire-snap-cheap-interest-core-bone-poem
+bip_39_word_dash_12: valid-letter-cattle-need-inspire-snap-cheap-interest-core-bone-poem-amused
+bip_39_word_dash_2: valid-letter
+bip_39_word_dash_3: valid-letter-cattle
+bip_39_word_dash_4: valid-letter-cattle-need
+bip_39_word_dash_5: valid-letter-cattle-need-inspire
+bip_39_word_dash_6: valid-letter-cattle-need-inspire-snap
+bip_39_word_dash_7: valid-letter-cattle-need-inspire-snap-cheap
+bip_39_word_dash_8: valid-letter-cattle-need-inspire-snap-cheap-interest
+bip_39_word_dash_9: valid-letter-cattle-need-inspire-snap-cheap-interest-core
 bip_39_word_new_br_1: valid
 bip_39_word_new_br_10: valid<br>letter<br>cattle<br>need<br>inspire<br>snap<br>cheap<br>interest<br>core<br>bone
 bip_39_word_new_br_11: valid<br>letter<br>cattle<br>need<br>inspire<br>snap<br>cheap<br>interest<br>core<br>bone<br>poem
@@ -193,6 +205,18 @@ bip_39_word_space_6: valid letter cattle need inspire snap
 bip_39_word_space_7: valid letter cattle need inspire snap cheap
 bip_39_word_space_8: valid letter cattle need inspire snap cheap interest
 bip_39_word_space_9: valid letter cattle need inspire snap cheap interest core
+bip_39_word_underscore_1: valid
+bip_39_word_underscore_10: valid_letter_cattle_need_inspire_snap_cheap_interest_core_bone
+bip_39_word_underscore_11: valid_letter_cattle_need_inspire_snap_cheap_interest_core_bone_poem
+bip_39_word_underscore_12: valid_letter_cattle_need_inspire_snap_cheap_interest_core_bone_poem_amused
+bip_39_word_underscore_2: valid_letter
+bip_39_word_underscore_3: valid_letter_cattle
+bip_39_word_underscore_4: valid_letter_cattle_need
+bip_39_word_underscore_5: valid_letter_cattle_need_inspire
+bip_39_word_underscore_6: valid_letter_cattle_need_inspire_snap
+bip_39_word_underscore_7: valid_letter_cattle_need_inspire_snap_cheap
+bip_39_word_underscore_8: valid_letter_cattle_need_inspire_snap_cheap_interest
+bip_39_word_underscore_9: valid_letter_cattle_need_inspire_snap_cheap_interest_core
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

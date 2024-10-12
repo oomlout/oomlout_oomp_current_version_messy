@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brisk |  
+| bip_39_word_dash_10 | brisk-swap-sword-equip-ridge-giant-orchard-rescue-camera-sweet |  
+| bip_39_word_dash_11 | brisk-swap-sword-equip-ridge-giant-orchard-rescue-camera-sweet-scan |  
+| bip_39_word_dash_12 | brisk-swap-sword-equip-ridge-giant-orchard-rescue-camera-sweet-scan-alter |  
+| bip_39_word_dash_2 | brisk-swap |  
+| bip_39_word_dash_3 | brisk-swap-sword |  
+| bip_39_word_dash_4 | brisk-swap-sword-equip |  
+| bip_39_word_dash_5 | brisk-swap-sword-equip-ridge |  
+| bip_39_word_dash_6 | brisk-swap-sword-equip-ridge-giant |  
+| bip_39_word_dash_7 | brisk-swap-sword-equip-ridge-giant-orchard |  
+| bip_39_word_dash_8 | brisk-swap-sword-equip-ridge-giant-orchard-rescue |  
+| bip_39_word_dash_9 | brisk-swap-sword-equip-ridge-giant-orchard-rescue-camera |  
 | bip_39_word_new_br_1 | brisk |  
 | bip_39_word_new_br_10 | brisk<br>swap<br>sword<br>equip<br>ridge<br>giant<br>orchard<br>rescue<br>camera<br>sweet |  
 | bip_39_word_new_br_11 | brisk<br>swap<br>sword<br>equip<br>ridge<br>giant<br>orchard<br>rescue<br>camera<br>sweet<br>scan |  
@@ -147,6 +159,18 @@ camera |
 | bip_39_word_space_7 | brisk swap sword equip ridge giant orchard |  
 | bip_39_word_space_8 | brisk swap sword equip ridge giant orchard rescue |  
 | bip_39_word_space_9 | brisk swap sword equip ridge giant orchard rescue camera |  
+| bip_39_word_underscore_1 | brisk |  
+| bip_39_word_underscore_10 | brisk_swap_sword_equip_ridge_giant_orchard_rescue_camera_sweet |  
+| bip_39_word_underscore_11 | brisk_swap_sword_equip_ridge_giant_orchard_rescue_camera_sweet_scan |  
+| bip_39_word_underscore_12 | brisk_swap_sword_equip_ridge_giant_orchard_rescue_camera_sweet_scan_alter |  
+| bip_39_word_underscore_2 | brisk_swap |  
+| bip_39_word_underscore_3 | brisk_swap_sword |  
+| bip_39_word_underscore_4 | brisk_swap_sword_equip |  
+| bip_39_word_underscore_5 | brisk_swap_sword_equip_ridge |  
+| bip_39_word_underscore_6 | brisk_swap_sword_equip_ridge_giant |  
+| bip_39_word_underscore_7 | brisk_swap_sword_equip_ridge_giant_orchard |  
+| bip_39_word_underscore_8 | brisk_swap_sword_equip_ridge_giant_orchard_rescue |  
+| bip_39_word_underscore_9 | brisk_swap_sword_equip_ridge_giant_orchard_rescue_camera |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

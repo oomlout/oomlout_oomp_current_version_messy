@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shuffle |  
+| bip_39_word_dash_10 | shuffle-wisdom-helmet-elbow-moral-eager-total-install-upset-tone |  
+| bip_39_word_dash_11 | shuffle-wisdom-helmet-elbow-moral-eager-total-install-upset-tone-arm |  
+| bip_39_word_dash_12 | shuffle-wisdom-helmet-elbow-moral-eager-total-install-upset-tone-arm-actress |  
+| bip_39_word_dash_2 | shuffle-wisdom |  
+| bip_39_word_dash_3 | shuffle-wisdom-helmet |  
+| bip_39_word_dash_4 | shuffle-wisdom-helmet-elbow |  
+| bip_39_word_dash_5 | shuffle-wisdom-helmet-elbow-moral |  
+| bip_39_word_dash_6 | shuffle-wisdom-helmet-elbow-moral-eager |  
+| bip_39_word_dash_7 | shuffle-wisdom-helmet-elbow-moral-eager-total |  
+| bip_39_word_dash_8 | shuffle-wisdom-helmet-elbow-moral-eager-total-install |  
+| bip_39_word_dash_9 | shuffle-wisdom-helmet-elbow-moral-eager-total-install-upset |  
 | bip_39_word_new_br_1 | shuffle |  
 | bip_39_word_new_br_10 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone |  
 | bip_39_word_new_br_11 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone<br>arm |  
@@ -147,6 +159,18 @@ upset |
 | bip_39_word_space_7 | shuffle wisdom helmet elbow moral eager total |  
 | bip_39_word_space_8 | shuffle wisdom helmet elbow moral eager total install |  
 | bip_39_word_space_9 | shuffle wisdom helmet elbow moral eager total install upset |  
+| bip_39_word_underscore_1 | shuffle |  
+| bip_39_word_underscore_10 | shuffle_wisdom_helmet_elbow_moral_eager_total_install_upset_tone |  
+| bip_39_word_underscore_11 | shuffle_wisdom_helmet_elbow_moral_eager_total_install_upset_tone_arm |  
+| bip_39_word_underscore_12 | shuffle_wisdom_helmet_elbow_moral_eager_total_install_upset_tone_arm_actress |  
+| bip_39_word_underscore_2 | shuffle_wisdom |  
+| bip_39_word_underscore_3 | shuffle_wisdom_helmet |  
+| bip_39_word_underscore_4 | shuffle_wisdom_helmet_elbow |  
+| bip_39_word_underscore_5 | shuffle_wisdom_helmet_elbow_moral |  
+| bip_39_word_underscore_6 | shuffle_wisdom_helmet_elbow_moral_eager |  
+| bip_39_word_underscore_7 | shuffle_wisdom_helmet_elbow_moral_eager_total |  
+| bip_39_word_underscore_8 | shuffle_wisdom_helmet_elbow_moral_eager_total_install |  
+| bip_39_word_underscore_9 | shuffle_wisdom_helmet_elbow_moral_eager_total_install_upset |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

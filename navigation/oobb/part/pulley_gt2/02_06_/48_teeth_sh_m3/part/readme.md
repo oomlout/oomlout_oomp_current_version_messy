@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | later |  
+| bip_39_word_dash_10 | later-inch-end-grain-cigar-castle-paper-salon-mixed-extend |  
+| bip_39_word_dash_11 | later-inch-end-grain-cigar-castle-paper-salon-mixed-extend-need |  
+| bip_39_word_dash_12 | later-inch-end-grain-cigar-castle-paper-salon-mixed-extend-need-area |  
+| bip_39_word_dash_2 | later-inch |  
+| bip_39_word_dash_3 | later-inch-end |  
+| bip_39_word_dash_4 | later-inch-end-grain |  
+| bip_39_word_dash_5 | later-inch-end-grain-cigar |  
+| bip_39_word_dash_6 | later-inch-end-grain-cigar-castle |  
+| bip_39_word_dash_7 | later-inch-end-grain-cigar-castle-paper |  
+| bip_39_word_dash_8 | later-inch-end-grain-cigar-castle-paper-salon |  
+| bip_39_word_dash_9 | later-inch-end-grain-cigar-castle-paper-salon-mixed |  
 | bip_39_word_new_br_1 | later |  
 | bip_39_word_new_br_10 | later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon<br>mixed<br>extend |  
 | bip_39_word_new_br_11 | later<br>inch<br>end<br>grain<br>cigar<br>castle<br>paper<br>salon<br>mixed<br>extend<br>need |  
@@ -147,6 +159,18 @@ mixed |
 | bip_39_word_space_7 | later inch end grain cigar castle paper |  
 | bip_39_word_space_8 | later inch end grain cigar castle paper salon |  
 | bip_39_word_space_9 | later inch end grain cigar castle paper salon mixed |  
+| bip_39_word_underscore_1 | later |  
+| bip_39_word_underscore_10 | later_inch_end_grain_cigar_castle_paper_salon_mixed_extend |  
+| bip_39_word_underscore_11 | later_inch_end_grain_cigar_castle_paper_salon_mixed_extend_need |  
+| bip_39_word_underscore_12 | later_inch_end_grain_cigar_castle_paper_salon_mixed_extend_need_area |  
+| bip_39_word_underscore_2 | later_inch |  
+| bip_39_word_underscore_3 | later_inch_end |  
+| bip_39_word_underscore_4 | later_inch_end_grain |  
+| bip_39_word_underscore_5 | later_inch_end_grain_cigar |  
+| bip_39_word_underscore_6 | later_inch_end_grain_cigar_castle |  
+| bip_39_word_underscore_7 | later_inch_end_grain_cigar_castle_paper |  
+| bip_39_word_underscore_8 | later_inch_end_grain_cigar_castle_paper_salon |  
+| bip_39_word_underscore_9 | later_inch_end_grain_cigar_castle_paper_salon_mixed |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

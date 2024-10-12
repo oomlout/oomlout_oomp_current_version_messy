@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jewel |  
+| bip_39_word_dash_10 | jewel-donate-suit-elder-drip-legal-topple-envelope-anchor-vocal |  
+| bip_39_word_dash_11 | jewel-donate-suit-elder-drip-legal-topple-envelope-anchor-vocal-canoe |  
+| bip_39_word_dash_12 | jewel-donate-suit-elder-drip-legal-topple-envelope-anchor-vocal-canoe-arrow |  
+| bip_39_word_dash_2 | jewel-donate |  
+| bip_39_word_dash_3 | jewel-donate-suit |  
+| bip_39_word_dash_4 | jewel-donate-suit-elder |  
+| bip_39_word_dash_5 | jewel-donate-suit-elder-drip |  
+| bip_39_word_dash_6 | jewel-donate-suit-elder-drip-legal |  
+| bip_39_word_dash_7 | jewel-donate-suit-elder-drip-legal-topple |  
+| bip_39_word_dash_8 | jewel-donate-suit-elder-drip-legal-topple-envelope |  
+| bip_39_word_dash_9 | jewel-donate-suit-elder-drip-legal-topple-envelope-anchor |  
 | bip_39_word_new_br_1 | jewel |  
 | bip_39_word_new_br_10 | jewel<br>donate<br>suit<br>elder<br>drip<br>legal<br>topple<br>envelope<br>anchor<br>vocal |  
 | bip_39_word_new_br_11 | jewel<br>donate<br>suit<br>elder<br>drip<br>legal<br>topple<br>envelope<br>anchor<br>vocal<br>canoe |  
@@ -147,6 +159,18 @@ anchor |
 | bip_39_word_space_7 | jewel donate suit elder drip legal topple |  
 | bip_39_word_space_8 | jewel donate suit elder drip legal topple envelope |  
 | bip_39_word_space_9 | jewel donate suit elder drip legal topple envelope anchor |  
+| bip_39_word_underscore_1 | jewel |  
+| bip_39_word_underscore_10 | jewel_donate_suit_elder_drip_legal_topple_envelope_anchor_vocal |  
+| bip_39_word_underscore_11 | jewel_donate_suit_elder_drip_legal_topple_envelope_anchor_vocal_canoe |  
+| bip_39_word_underscore_12 | jewel_donate_suit_elder_drip_legal_topple_envelope_anchor_vocal_canoe_arrow |  
+| bip_39_word_underscore_2 | jewel_donate |  
+| bip_39_word_underscore_3 | jewel_donate_suit |  
+| bip_39_word_underscore_4 | jewel_donate_suit_elder |  
+| bip_39_word_underscore_5 | jewel_donate_suit_elder_drip |  
+| bip_39_word_underscore_6 | jewel_donate_suit_elder_drip_legal |  
+| bip_39_word_underscore_7 | jewel_donate_suit_elder_drip_legal_topple |  
+| bip_39_word_underscore_8 | jewel_donate_suit_elder_drip_legal_topple_envelope |  
+| bip_39_word_underscore_9 | jewel_donate_suit_elder_drip_legal_topple_envelope_anchor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

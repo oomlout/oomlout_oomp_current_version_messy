@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | owner |  
+| bip_39_word_dash_10 | owner-armor-doctor-drink-kick-payment-bacon-move-bronze-head |  
+| bip_39_word_dash_11 | owner-armor-doctor-drink-kick-payment-bacon-move-bronze-head-spoon |  
+| bip_39_word_dash_12 | owner-armor-doctor-drink-kick-payment-bacon-move-bronze-head-spoon-arm |  
+| bip_39_word_dash_2 | owner-armor |  
+| bip_39_word_dash_3 | owner-armor-doctor |  
+| bip_39_word_dash_4 | owner-armor-doctor-drink |  
+| bip_39_word_dash_5 | owner-armor-doctor-drink-kick |  
+| bip_39_word_dash_6 | owner-armor-doctor-drink-kick-payment |  
+| bip_39_word_dash_7 | owner-armor-doctor-drink-kick-payment-bacon |  
+| bip_39_word_dash_8 | owner-armor-doctor-drink-kick-payment-bacon-move |  
+| bip_39_word_dash_9 | owner-armor-doctor-drink-kick-payment-bacon-move-bronze |  
 | bip_39_word_new_br_1 | owner |  
 | bip_39_word_new_br_10 | owner<br>armor<br>doctor<br>drink<br>kick<br>payment<br>bacon<br>move<br>bronze<br>head |  
 | bip_39_word_new_br_11 | owner<br>armor<br>doctor<br>drink<br>kick<br>payment<br>bacon<br>move<br>bronze<br>head<br>spoon |  
@@ -147,6 +159,18 @@ bronze |
 | bip_39_word_space_7 | owner armor doctor drink kick payment bacon |  
 | bip_39_word_space_8 | owner armor doctor drink kick payment bacon move |  
 | bip_39_word_space_9 | owner armor doctor drink kick payment bacon move bronze |  
+| bip_39_word_underscore_1 | owner |  
+| bip_39_word_underscore_10 | owner_armor_doctor_drink_kick_payment_bacon_move_bronze_head |  
+| bip_39_word_underscore_11 | owner_armor_doctor_drink_kick_payment_bacon_move_bronze_head_spoon |  
+| bip_39_word_underscore_12 | owner_armor_doctor_drink_kick_payment_bacon_move_bronze_head_spoon_arm |  
+| bip_39_word_underscore_2 | owner_armor |  
+| bip_39_word_underscore_3 | owner_armor_doctor |  
+| bip_39_word_underscore_4 | owner_armor_doctor_drink |  
+| bip_39_word_underscore_5 | owner_armor_doctor_drink_kick |  
+| bip_39_word_underscore_6 | owner_armor_doctor_drink_kick_payment |  
+| bip_39_word_underscore_7 | owner_armor_doctor_drink_kick_payment_bacon |  
+| bip_39_word_underscore_8 | owner_armor_doctor_drink_kick_payment_bacon_move |  
+| bip_39_word_underscore_9 | owner_armor_doctor_drink_kick_payment_bacon_move_bronze |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

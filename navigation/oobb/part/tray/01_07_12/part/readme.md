@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alert |  
+| bip_39_word_dash_10 | alert-embrace-arrest-meadow-liberty-panel-quick-warfare-sure-quote |  
+| bip_39_word_dash_11 | alert-embrace-arrest-meadow-liberty-panel-quick-warfare-sure-quote-zoo |  
+| bip_39_word_dash_12 | alert-embrace-arrest-meadow-liberty-panel-quick-warfare-sure-quote-zoo-always |  
+| bip_39_word_dash_2 | alert-embrace |  
+| bip_39_word_dash_3 | alert-embrace-arrest |  
+| bip_39_word_dash_4 | alert-embrace-arrest-meadow |  
+| bip_39_word_dash_5 | alert-embrace-arrest-meadow-liberty |  
+| bip_39_word_dash_6 | alert-embrace-arrest-meadow-liberty-panel |  
+| bip_39_word_dash_7 | alert-embrace-arrest-meadow-liberty-panel-quick |  
+| bip_39_word_dash_8 | alert-embrace-arrest-meadow-liberty-panel-quick-warfare |  
+| bip_39_word_dash_9 | alert-embrace-arrest-meadow-liberty-panel-quick-warfare-sure |  
 | bip_39_word_new_br_1 | alert |  
 | bip_39_word_new_br_10 | alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote |  
 | bip_39_word_new_br_11 | alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote<br>zoo |  
@@ -147,6 +159,18 @@ sure |
 | bip_39_word_space_7 | alert embrace arrest meadow liberty panel quick |  
 | bip_39_word_space_8 | alert embrace arrest meadow liberty panel quick warfare |  
 | bip_39_word_space_9 | alert embrace arrest meadow liberty panel quick warfare sure |  
+| bip_39_word_underscore_1 | alert |  
+| bip_39_word_underscore_10 | alert_embrace_arrest_meadow_liberty_panel_quick_warfare_sure_quote |  
+| bip_39_word_underscore_11 | alert_embrace_arrest_meadow_liberty_panel_quick_warfare_sure_quote_zoo |  
+| bip_39_word_underscore_12 | alert_embrace_arrest_meadow_liberty_panel_quick_warfare_sure_quote_zoo_always |  
+| bip_39_word_underscore_2 | alert_embrace |  
+| bip_39_word_underscore_3 | alert_embrace_arrest |  
+| bip_39_word_underscore_4 | alert_embrace_arrest_meadow |  
+| bip_39_word_underscore_5 | alert_embrace_arrest_meadow_liberty |  
+| bip_39_word_underscore_6 | alert_embrace_arrest_meadow_liberty_panel |  
+| bip_39_word_underscore_7 | alert_embrace_arrest_meadow_liberty_panel_quick |  
+| bip_39_word_underscore_8 | alert_embrace_arrest_meadow_liberty_panel_quick_warfare |  
+| bip_39_word_underscore_9 | alert_embrace_arrest_meadow_liberty_panel_quick_warfare_sure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

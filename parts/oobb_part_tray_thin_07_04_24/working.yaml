@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rapid
+bip_39_word_dash_10: rapid-wrap-category-jaguar-rule-genius-isolate-melody-edge-modify
+bip_39_word_dash_11: rapid-wrap-category-jaguar-rule-genius-isolate-melody-edge-modify-trim
+bip_39_word_dash_12: rapid-wrap-category-jaguar-rule-genius-isolate-melody-edge-modify-trim-any
+bip_39_word_dash_2: rapid-wrap
+bip_39_word_dash_3: rapid-wrap-category
+bip_39_word_dash_4: rapid-wrap-category-jaguar
+bip_39_word_dash_5: rapid-wrap-category-jaguar-rule
+bip_39_word_dash_6: rapid-wrap-category-jaguar-rule-genius
+bip_39_word_dash_7: rapid-wrap-category-jaguar-rule-genius-isolate
+bip_39_word_dash_8: rapid-wrap-category-jaguar-rule-genius-isolate-melody
+bip_39_word_dash_9: rapid-wrap-category-jaguar-rule-genius-isolate-melody-edge
 bip_39_word_new_br_1: rapid
 bip_39_word_new_br_10: rapid<br>wrap<br>category<br>jaguar<br>rule<br>genius<br>isolate<br>melody<br>edge<br>modify
 bip_39_word_new_br_11: rapid<br>wrap<br>category<br>jaguar<br>rule<br>genius<br>isolate<br>melody<br>edge<br>modify<br>trim
@@ -193,6 +205,18 @@ bip_39_word_space_6: rapid wrap category jaguar rule genius
 bip_39_word_space_7: rapid wrap category jaguar rule genius isolate
 bip_39_word_space_8: rapid wrap category jaguar rule genius isolate melody
 bip_39_word_space_9: rapid wrap category jaguar rule genius isolate melody edge
+bip_39_word_underscore_1: rapid
+bip_39_word_underscore_10: rapid_wrap_category_jaguar_rule_genius_isolate_melody_edge_modify
+bip_39_word_underscore_11: rapid_wrap_category_jaguar_rule_genius_isolate_melody_edge_modify_trim
+bip_39_word_underscore_12: rapid_wrap_category_jaguar_rule_genius_isolate_melody_edge_modify_trim_any
+bip_39_word_underscore_2: rapid_wrap
+bip_39_word_underscore_3: rapid_wrap_category
+bip_39_word_underscore_4: rapid_wrap_category_jaguar
+bip_39_word_underscore_5: rapid_wrap_category_jaguar_rule
+bip_39_word_underscore_6: rapid_wrap_category_jaguar_rule_genius
+bip_39_word_underscore_7: rapid_wrap_category_jaguar_rule_genius_isolate
+bip_39_word_underscore_8: rapid_wrap_category_jaguar_rule_genius_isolate_melody
+bip_39_word_underscore_9: rapid_wrap_category_jaguar_rule_genius_isolate_melody_edge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

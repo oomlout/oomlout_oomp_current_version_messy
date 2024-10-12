@@ -1,3 +1,15 @@
+bip_39_word_dash_1: federal
+bip_39_word_dash_10: federal-arrange-blast-door-someone-few-round-cabbage-curve-trumpet
+bip_39_word_dash_11: federal-arrange-blast-door-someone-few-round-cabbage-curve-trumpet-area
+bip_39_word_dash_12: federal-arrange-blast-door-someone-few-round-cabbage-curve-trumpet-area-appear
+bip_39_word_dash_2: federal-arrange
+bip_39_word_dash_3: federal-arrange-blast
+bip_39_word_dash_4: federal-arrange-blast-door
+bip_39_word_dash_5: federal-arrange-blast-door-someone
+bip_39_word_dash_6: federal-arrange-blast-door-someone-few
+bip_39_word_dash_7: federal-arrange-blast-door-someone-few-round
+bip_39_word_dash_8: federal-arrange-blast-door-someone-few-round-cabbage
+bip_39_word_dash_9: federal-arrange-blast-door-someone-few-round-cabbage-curve
 bip_39_word_new_br_1: federal
 bip_39_word_new_br_10: federal<br>arrange<br>blast<br>door<br>someone<br>few<br>round<br>cabbage<br>curve<br>trumpet
 bip_39_word_new_br_11: federal<br>arrange<br>blast<br>door<br>someone<br>few<br>round<br>cabbage<br>curve<br>trumpet<br>area
@@ -193,6 +205,18 @@ bip_39_word_space_6: federal arrange blast door someone few
 bip_39_word_space_7: federal arrange blast door someone few round
 bip_39_word_space_8: federal arrange blast door someone few round cabbage
 bip_39_word_space_9: federal arrange blast door someone few round cabbage curve
+bip_39_word_underscore_1: federal
+bip_39_word_underscore_10: federal_arrange_blast_door_someone_few_round_cabbage_curve_trumpet
+bip_39_word_underscore_11: federal_arrange_blast_door_someone_few_round_cabbage_curve_trumpet_area
+bip_39_word_underscore_12: federal_arrange_blast_door_someone_few_round_cabbage_curve_trumpet_area_appear
+bip_39_word_underscore_2: federal_arrange
+bip_39_word_underscore_3: federal_arrange_blast
+bip_39_word_underscore_4: federal_arrange_blast_door
+bip_39_word_underscore_5: federal_arrange_blast_door_someone
+bip_39_word_underscore_6: federal_arrange_blast_door_someone_few
+bip_39_word_underscore_7: federal_arrange_blast_door_someone_few_round
+bip_39_word_underscore_8: federal_arrange_blast_door_someone_few_round_cabbage
+bip_39_word_underscore_9: federal_arrange_blast_door_someone_few_round_cabbage_curve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

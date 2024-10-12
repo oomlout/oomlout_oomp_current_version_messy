@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enhance |  
+| bip_39_word_dash_10 | enhance-capital-absent-tip-develop-panic-enable-antenna-minimum-call |  
+| bip_39_word_dash_11 | enhance-capital-absent-tip-develop-panic-enable-antenna-minimum-call-you |  
+| bip_39_word_dash_12 | enhance-capital-absent-tip-develop-panic-enable-antenna-minimum-call-you-arrive |  
+| bip_39_word_dash_2 | enhance-capital |  
+| bip_39_word_dash_3 | enhance-capital-absent |  
+| bip_39_word_dash_4 | enhance-capital-absent-tip |  
+| bip_39_word_dash_5 | enhance-capital-absent-tip-develop |  
+| bip_39_word_dash_6 | enhance-capital-absent-tip-develop-panic |  
+| bip_39_word_dash_7 | enhance-capital-absent-tip-develop-panic-enable |  
+| bip_39_word_dash_8 | enhance-capital-absent-tip-develop-panic-enable-antenna |  
+| bip_39_word_dash_9 | enhance-capital-absent-tip-develop-panic-enable-antenna-minimum |  
 | bip_39_word_new_br_1 | enhance |  
 | bip_39_word_new_br_10 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call |  
 | bip_39_word_new_br_11 | enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call<br>you |  
@@ -147,6 +159,18 @@ minimum |
 | bip_39_word_space_7 | enhance capital absent tip develop panic enable |  
 | bip_39_word_space_8 | enhance capital absent tip develop panic enable antenna |  
 | bip_39_word_space_9 | enhance capital absent tip develop panic enable antenna minimum |  
+| bip_39_word_underscore_1 | enhance |  
+| bip_39_word_underscore_10 | enhance_capital_absent_tip_develop_panic_enable_antenna_minimum_call |  
+| bip_39_word_underscore_11 | enhance_capital_absent_tip_develop_panic_enable_antenna_minimum_call_you |  
+| bip_39_word_underscore_12 | enhance_capital_absent_tip_develop_panic_enable_antenna_minimum_call_you_arrive |  
+| bip_39_word_underscore_2 | enhance_capital |  
+| bip_39_word_underscore_3 | enhance_capital_absent |  
+| bip_39_word_underscore_4 | enhance_capital_absent_tip |  
+| bip_39_word_underscore_5 | enhance_capital_absent_tip_develop |  
+| bip_39_word_underscore_6 | enhance_capital_absent_tip_develop_panic |  
+| bip_39_word_underscore_7 | enhance_capital_absent_tip_develop_panic_enable |  
+| bip_39_word_underscore_8 | enhance_capital_absent_tip_develop_panic_enable_antenna |  
+| bip_39_word_underscore_9 | enhance_capital_absent_tip_develop_panic_enable_antenna_minimum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

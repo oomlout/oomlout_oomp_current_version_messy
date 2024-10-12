@@ -1,3 +1,15 @@
+bip_39_word_dash_1: feed
+bip_39_word_dash_10: feed-lesson-gravity-metal-movie-spray-truly-maze-stick-crowd
+bip_39_word_dash_11: feed-lesson-gravity-metal-movie-spray-truly-maze-stick-crowd-volcano
+bip_39_word_dash_12: feed-lesson-gravity-metal-movie-spray-truly-maze-stick-crowd-volcano-agree
+bip_39_word_dash_2: feed-lesson
+bip_39_word_dash_3: feed-lesson-gravity
+bip_39_word_dash_4: feed-lesson-gravity-metal
+bip_39_word_dash_5: feed-lesson-gravity-metal-movie
+bip_39_word_dash_6: feed-lesson-gravity-metal-movie-spray
+bip_39_word_dash_7: feed-lesson-gravity-metal-movie-spray-truly
+bip_39_word_dash_8: feed-lesson-gravity-metal-movie-spray-truly-maze
+bip_39_word_dash_9: feed-lesson-gravity-metal-movie-spray-truly-maze-stick
 bip_39_word_new_br_1: feed
 bip_39_word_new_br_10: feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze<br>stick<br>crowd
 bip_39_word_new_br_11: feed<br>lesson<br>gravity<br>metal<br>movie<br>spray<br>truly<br>maze<br>stick<br>crowd<br>volcano
@@ -193,6 +205,18 @@ bip_39_word_space_6: feed lesson gravity metal movie spray
 bip_39_word_space_7: feed lesson gravity metal movie spray truly
 bip_39_word_space_8: feed lesson gravity metal movie spray truly maze
 bip_39_word_space_9: feed lesson gravity metal movie spray truly maze stick
+bip_39_word_underscore_1: feed
+bip_39_word_underscore_10: feed_lesson_gravity_metal_movie_spray_truly_maze_stick_crowd
+bip_39_word_underscore_11: feed_lesson_gravity_metal_movie_spray_truly_maze_stick_crowd_volcano
+bip_39_word_underscore_12: feed_lesson_gravity_metal_movie_spray_truly_maze_stick_crowd_volcano_agree
+bip_39_word_underscore_2: feed_lesson
+bip_39_word_underscore_3: feed_lesson_gravity
+bip_39_word_underscore_4: feed_lesson_gravity_metal
+bip_39_word_underscore_5: feed_lesson_gravity_metal_movie
+bip_39_word_underscore_6: feed_lesson_gravity_metal_movie_spray
+bip_39_word_underscore_7: feed_lesson_gravity_metal_movie_spray_truly
+bip_39_word_underscore_8: feed_lesson_gravity_metal_movie_spray_truly_maze
+bip_39_word_underscore_9: feed_lesson_gravity_metal_movie_spray_truly_maze_stick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

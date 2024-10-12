@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | display |  
+| bip_39_word_dash_10 | display-breeze-rhythm-spell-second-ethics-void-legend-garment-shell |  
+| bip_39_word_dash_11 | display-breeze-rhythm-spell-second-ethics-void-legend-garment-shell-melt |  
+| bip_39_word_dash_12 | display-breeze-rhythm-spell-second-ethics-void-legend-garment-shell-melt-ankle |  
+| bip_39_word_dash_2 | display-breeze |  
+| bip_39_word_dash_3 | display-breeze-rhythm |  
+| bip_39_word_dash_4 | display-breeze-rhythm-spell |  
+| bip_39_word_dash_5 | display-breeze-rhythm-spell-second |  
+| bip_39_word_dash_6 | display-breeze-rhythm-spell-second-ethics |  
+| bip_39_word_dash_7 | display-breeze-rhythm-spell-second-ethics-void |  
+| bip_39_word_dash_8 | display-breeze-rhythm-spell-second-ethics-void-legend |  
+| bip_39_word_dash_9 | display-breeze-rhythm-spell-second-ethics-void-legend-garment |  
 | bip_39_word_new_br_1 | display |  
 | bip_39_word_new_br_10 | display<br>breeze<br>rhythm<br>spell<br>second<br>ethics<br>void<br>legend<br>garment<br>shell |  
 | bip_39_word_new_br_11 | display<br>breeze<br>rhythm<br>spell<br>second<br>ethics<br>void<br>legend<br>garment<br>shell<br>melt |  
@@ -147,6 +159,18 @@ garment |
 | bip_39_word_space_7 | display breeze rhythm spell second ethics void |  
 | bip_39_word_space_8 | display breeze rhythm spell second ethics void legend |  
 | bip_39_word_space_9 | display breeze rhythm spell second ethics void legend garment |  
+| bip_39_word_underscore_1 | display |  
+| bip_39_word_underscore_10 | display_breeze_rhythm_spell_second_ethics_void_legend_garment_shell |  
+| bip_39_word_underscore_11 | display_breeze_rhythm_spell_second_ethics_void_legend_garment_shell_melt |  
+| bip_39_word_underscore_12 | display_breeze_rhythm_spell_second_ethics_void_legend_garment_shell_melt_ankle |  
+| bip_39_word_underscore_2 | display_breeze |  
+| bip_39_word_underscore_3 | display_breeze_rhythm |  
+| bip_39_word_underscore_4 | display_breeze_rhythm_spell |  
+| bip_39_word_underscore_5 | display_breeze_rhythm_spell_second |  
+| bip_39_word_underscore_6 | display_breeze_rhythm_spell_second_ethics |  
+| bip_39_word_underscore_7 | display_breeze_rhythm_spell_second_ethics_void |  
+| bip_39_word_underscore_8 | display_breeze_rhythm_spell_second_ethics_void_legend |  
+| bip_39_word_underscore_9 | display_breeze_rhythm_spell_second_ethics_void_legend_garment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

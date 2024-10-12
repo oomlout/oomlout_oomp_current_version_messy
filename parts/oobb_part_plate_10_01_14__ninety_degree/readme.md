@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | before |  
+| bip_39_word_dash_10 | before-giggle-relief-start-regular-fence-inspire-call-ocean-uncle |  
+| bip_39_word_dash_11 | before-giggle-relief-start-regular-fence-inspire-call-ocean-uncle-old |  
+| bip_39_word_dash_12 | before-giggle-relief-start-regular-fence-inspire-call-ocean-uncle-old-alert |  
+| bip_39_word_dash_2 | before-giggle |  
+| bip_39_word_dash_3 | before-giggle-relief |  
+| bip_39_word_dash_4 | before-giggle-relief-start |  
+| bip_39_word_dash_5 | before-giggle-relief-start-regular |  
+| bip_39_word_dash_6 | before-giggle-relief-start-regular-fence |  
+| bip_39_word_dash_7 | before-giggle-relief-start-regular-fence-inspire |  
+| bip_39_word_dash_8 | before-giggle-relief-start-regular-fence-inspire-call |  
+| bip_39_word_dash_9 | before-giggle-relief-start-regular-fence-inspire-call-ocean |  
 | bip_39_word_new_br_1 | before |  
 | bip_39_word_new_br_10 | before<br>giggle<br>relief<br>start<br>regular<br>fence<br>inspire<br>call<br>ocean<br>uncle |  
 | bip_39_word_new_br_11 | before<br>giggle<br>relief<br>start<br>regular<br>fence<br>inspire<br>call<br>ocean<br>uncle<br>old |  
@@ -147,6 +159,18 @@ ocean |
 | bip_39_word_space_7 | before giggle relief start regular fence inspire |  
 | bip_39_word_space_8 | before giggle relief start regular fence inspire call |  
 | bip_39_word_space_9 | before giggle relief start regular fence inspire call ocean |  
+| bip_39_word_underscore_1 | before |  
+| bip_39_word_underscore_10 | before_giggle_relief_start_regular_fence_inspire_call_ocean_uncle |  
+| bip_39_word_underscore_11 | before_giggle_relief_start_regular_fence_inspire_call_ocean_uncle_old |  
+| bip_39_word_underscore_12 | before_giggle_relief_start_regular_fence_inspire_call_ocean_uncle_old_alert |  
+| bip_39_word_underscore_2 | before_giggle |  
+| bip_39_word_underscore_3 | before_giggle_relief |  
+| bip_39_word_underscore_4 | before_giggle_relief_start |  
+| bip_39_word_underscore_5 | before_giggle_relief_start_regular |  
+| bip_39_word_underscore_6 | before_giggle_relief_start_regular_fence |  
+| bip_39_word_underscore_7 | before_giggle_relief_start_regular_fence_inspire |  
+| bip_39_word_underscore_8 | before_giggle_relief_start_regular_fence_inspire_call |  
+| bip_39_word_underscore_9 | before_giggle_relief_start_regular_fence_inspire_call_ocean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

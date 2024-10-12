@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diet |  
+| bip_39_word_dash_10 | diet-logic-deposit-apple-burst-now-february-task-ability-giraffe |  
+| bip_39_word_dash_11 | diet-logic-deposit-apple-burst-now-february-task-ability-giraffe-shrug |  
+| bip_39_word_dash_12 | diet-logic-deposit-apple-burst-now-february-task-ability-giraffe-shrug-add |  
+| bip_39_word_dash_2 | diet-logic |  
+| bip_39_word_dash_3 | diet-logic-deposit |  
+| bip_39_word_dash_4 | diet-logic-deposit-apple |  
+| bip_39_word_dash_5 | diet-logic-deposit-apple-burst |  
+| bip_39_word_dash_6 | diet-logic-deposit-apple-burst-now |  
+| bip_39_word_dash_7 | diet-logic-deposit-apple-burst-now-february |  
+| bip_39_word_dash_8 | diet-logic-deposit-apple-burst-now-february-task |  
+| bip_39_word_dash_9 | diet-logic-deposit-apple-burst-now-february-task-ability |  
 | bip_39_word_new_br_1 | diet |  
 | bip_39_word_new_br_10 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe |  
 | bip_39_word_new_br_11 | diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe<br>shrug |  
@@ -147,6 +159,18 @@ ability |
 | bip_39_word_space_7 | diet logic deposit apple burst now february |  
 | bip_39_word_space_8 | diet logic deposit apple burst now february task |  
 | bip_39_word_space_9 | diet logic deposit apple burst now february task ability |  
+| bip_39_word_underscore_1 | diet |  
+| bip_39_word_underscore_10 | diet_logic_deposit_apple_burst_now_february_task_ability_giraffe |  
+| bip_39_word_underscore_11 | diet_logic_deposit_apple_burst_now_february_task_ability_giraffe_shrug |  
+| bip_39_word_underscore_12 | diet_logic_deposit_apple_burst_now_february_task_ability_giraffe_shrug_add |  
+| bip_39_word_underscore_2 | diet_logic |  
+| bip_39_word_underscore_3 | diet_logic_deposit |  
+| bip_39_word_underscore_4 | diet_logic_deposit_apple |  
+| bip_39_word_underscore_5 | diet_logic_deposit_apple_burst |  
+| bip_39_word_underscore_6 | diet_logic_deposit_apple_burst_now |  
+| bip_39_word_underscore_7 | diet_logic_deposit_apple_burst_now_february |  
+| bip_39_word_underscore_8 | diet_logic_deposit_apple_burst_now_february_task |  
+| bip_39_word_underscore_9 | diet_logic_deposit_apple_burst_now_february_task_ability |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

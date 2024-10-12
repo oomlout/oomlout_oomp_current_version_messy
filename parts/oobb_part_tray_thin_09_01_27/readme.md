@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | siege |  
+| bip_39_word_dash_10 | siege-jazz-network-what-about-young-loop-wise-strike-lend |  
+| bip_39_word_dash_11 | siege-jazz-network-what-about-young-loop-wise-strike-lend-smooth |  
+| bip_39_word_dash_12 | siege-jazz-network-what-about-young-loop-wise-strike-lend-smooth-afford |  
+| bip_39_word_dash_2 | siege-jazz |  
+| bip_39_word_dash_3 | siege-jazz-network |  
+| bip_39_word_dash_4 | siege-jazz-network-what |  
+| bip_39_word_dash_5 | siege-jazz-network-what-about |  
+| bip_39_word_dash_6 | siege-jazz-network-what-about-young |  
+| bip_39_word_dash_7 | siege-jazz-network-what-about-young-loop |  
+| bip_39_word_dash_8 | siege-jazz-network-what-about-young-loop-wise |  
+| bip_39_word_dash_9 | siege-jazz-network-what-about-young-loop-wise-strike |  
 | bip_39_word_new_br_1 | siege |  
 | bip_39_word_new_br_10 | siege<br>jazz<br>network<br>what<br>about<br>young<br>loop<br>wise<br>strike<br>lend |  
 | bip_39_word_new_br_11 | siege<br>jazz<br>network<br>what<br>about<br>young<br>loop<br>wise<br>strike<br>lend<br>smooth |  
@@ -147,6 +159,18 @@ strike |
 | bip_39_word_space_7 | siege jazz network what about young loop |  
 | bip_39_word_space_8 | siege jazz network what about young loop wise |  
 | bip_39_word_space_9 | siege jazz network what about young loop wise strike |  
+| bip_39_word_underscore_1 | siege |  
+| bip_39_word_underscore_10 | siege_jazz_network_what_about_young_loop_wise_strike_lend |  
+| bip_39_word_underscore_11 | siege_jazz_network_what_about_young_loop_wise_strike_lend_smooth |  
+| bip_39_word_underscore_12 | siege_jazz_network_what_about_young_loop_wise_strike_lend_smooth_afford |  
+| bip_39_word_underscore_2 | siege_jazz |  
+| bip_39_word_underscore_3 | siege_jazz_network |  
+| bip_39_word_underscore_4 | siege_jazz_network_what |  
+| bip_39_word_underscore_5 | siege_jazz_network_what_about |  
+| bip_39_word_underscore_6 | siege_jazz_network_what_about_young |  
+| bip_39_word_underscore_7 | siege_jazz_network_what_about_young_loop |  
+| bip_39_word_underscore_8 | siege_jazz_network_what_about_young_loop_wise |  
+| bip_39_word_underscore_9 | siege_jazz_network_what_about_young_loop_wise_strike |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

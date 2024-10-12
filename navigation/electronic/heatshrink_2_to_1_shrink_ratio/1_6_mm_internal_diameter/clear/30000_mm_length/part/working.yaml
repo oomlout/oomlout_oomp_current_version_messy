@@ -1,3 +1,15 @@
+bip_39_word_dash_1: refuse
+bip_39_word_dash_10: refuse-any-expose-feed-garage-mix-crane-maid-discover-empower
+bip_39_word_dash_11: refuse-any-expose-feed-garage-mix-crane-maid-discover-empower-dwarf
+bip_39_word_dash_12: refuse-any-expose-feed-garage-mix-crane-maid-discover-empower-dwarf-answer
+bip_39_word_dash_2: refuse-any
+bip_39_word_dash_3: refuse-any-expose
+bip_39_word_dash_4: refuse-any-expose-feed
+bip_39_word_dash_5: refuse-any-expose-feed-garage
+bip_39_word_dash_6: refuse-any-expose-feed-garage-mix
+bip_39_word_dash_7: refuse-any-expose-feed-garage-mix-crane
+bip_39_word_dash_8: refuse-any-expose-feed-garage-mix-crane-maid
+bip_39_word_dash_9: refuse-any-expose-feed-garage-mix-crane-maid-discover
 bip_39_word_new_br_1: refuse
 bip_39_word_new_br_10: refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid<br>discover<br>empower
 bip_39_word_new_br_11: refuse<br>any<br>expose<br>feed<br>garage<br>mix<br>crane<br>maid<br>discover<br>empower<br>dwarf
@@ -193,6 +205,18 @@ bip_39_word_space_6: refuse any expose feed garage mix
 bip_39_word_space_7: refuse any expose feed garage mix crane
 bip_39_word_space_8: refuse any expose feed garage mix crane maid
 bip_39_word_space_9: refuse any expose feed garage mix crane maid discover
+bip_39_word_underscore_1: refuse
+bip_39_word_underscore_10: refuse_any_expose_feed_garage_mix_crane_maid_discover_empower
+bip_39_word_underscore_11: refuse_any_expose_feed_garage_mix_crane_maid_discover_empower_dwarf
+bip_39_word_underscore_12: refuse_any_expose_feed_garage_mix_crane_maid_discover_empower_dwarf_answer
+bip_39_word_underscore_2: refuse_any
+bip_39_word_underscore_3: refuse_any_expose
+bip_39_word_underscore_4: refuse_any_expose_feed
+bip_39_word_underscore_5: refuse_any_expose_feed_garage
+bip_39_word_underscore_6: refuse_any_expose_feed_garage_mix
+bip_39_word_underscore_7: refuse_any_expose_feed_garage_mix_crane
+bip_39_word_underscore_8: refuse_any_expose_feed_garage_mix_crane_maid
+bip_39_word_underscore_9: refuse_any_expose_feed_garage_mix_crane_maid_discover
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

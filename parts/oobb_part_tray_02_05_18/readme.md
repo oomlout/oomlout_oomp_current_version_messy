@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | panic |  
+| bip_39_word_dash_10 | panic-warm-refuse-minimum-fence-swarm-impact-casual-art-double |  
+| bip_39_word_dash_11 | panic-warm-refuse-minimum-fence-swarm-impact-casual-art-double-goose |  
+| bip_39_word_dash_12 | panic-warm-refuse-minimum-fence-swarm-impact-casual-art-double-goose-affair |  
+| bip_39_word_dash_2 | panic-warm |  
+| bip_39_word_dash_3 | panic-warm-refuse |  
+| bip_39_word_dash_4 | panic-warm-refuse-minimum |  
+| bip_39_word_dash_5 | panic-warm-refuse-minimum-fence |  
+| bip_39_word_dash_6 | panic-warm-refuse-minimum-fence-swarm |  
+| bip_39_word_dash_7 | panic-warm-refuse-minimum-fence-swarm-impact |  
+| bip_39_word_dash_8 | panic-warm-refuse-minimum-fence-swarm-impact-casual |  
+| bip_39_word_dash_9 | panic-warm-refuse-minimum-fence-swarm-impact-casual-art |  
 | bip_39_word_new_br_1 | panic |  
 | bip_39_word_new_br_10 | panic<br>warm<br>refuse<br>minimum<br>fence<br>swarm<br>impact<br>casual<br>art<br>double |  
 | bip_39_word_new_br_11 | panic<br>warm<br>refuse<br>minimum<br>fence<br>swarm<br>impact<br>casual<br>art<br>double<br>goose |  
@@ -147,6 +159,18 @@ art |
 | bip_39_word_space_7 | panic warm refuse minimum fence swarm impact |  
 | bip_39_word_space_8 | panic warm refuse minimum fence swarm impact casual |  
 | bip_39_word_space_9 | panic warm refuse minimum fence swarm impact casual art |  
+| bip_39_word_underscore_1 | panic |  
+| bip_39_word_underscore_10 | panic_warm_refuse_minimum_fence_swarm_impact_casual_art_double |  
+| bip_39_word_underscore_11 | panic_warm_refuse_minimum_fence_swarm_impact_casual_art_double_goose |  
+| bip_39_word_underscore_12 | panic_warm_refuse_minimum_fence_swarm_impact_casual_art_double_goose_affair |  
+| bip_39_word_underscore_2 | panic_warm |  
+| bip_39_word_underscore_3 | panic_warm_refuse |  
+| bip_39_word_underscore_4 | panic_warm_refuse_minimum |  
+| bip_39_word_underscore_5 | panic_warm_refuse_minimum_fence |  
+| bip_39_word_underscore_6 | panic_warm_refuse_minimum_fence_swarm |  
+| bip_39_word_underscore_7 | panic_warm_refuse_minimum_fence_swarm_impact |  
+| bip_39_word_underscore_8 | panic_warm_refuse_minimum_fence_swarm_impact_casual |  
+| bip_39_word_underscore_9 | panic_warm_refuse_minimum_fence_swarm_impact_casual_art |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

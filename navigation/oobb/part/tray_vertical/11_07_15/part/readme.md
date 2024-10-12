@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | train |  
+| bip_39_word_dash_10 | train-mixture-filter-decrease-want-bird-today-elite-mammal-tennis |  
+| bip_39_word_dash_11 | train-mixture-filter-decrease-want-bird-today-elite-mammal-tennis-club |  
+| bip_39_word_dash_12 | train-mixture-filter-decrease-want-bird-today-elite-mammal-tennis-club-absent |  
+| bip_39_word_dash_2 | train-mixture |  
+| bip_39_word_dash_3 | train-mixture-filter |  
+| bip_39_word_dash_4 | train-mixture-filter-decrease |  
+| bip_39_word_dash_5 | train-mixture-filter-decrease-want |  
+| bip_39_word_dash_6 | train-mixture-filter-decrease-want-bird |  
+| bip_39_word_dash_7 | train-mixture-filter-decrease-want-bird-today |  
+| bip_39_word_dash_8 | train-mixture-filter-decrease-want-bird-today-elite |  
+| bip_39_word_dash_9 | train-mixture-filter-decrease-want-bird-today-elite-mammal |  
 | bip_39_word_new_br_1 | train |  
 | bip_39_word_new_br_10 | train<br>mixture<br>filter<br>decrease<br>want<br>bird<br>today<br>elite<br>mammal<br>tennis |  
 | bip_39_word_new_br_11 | train<br>mixture<br>filter<br>decrease<br>want<br>bird<br>today<br>elite<br>mammal<br>tennis<br>club |  
@@ -147,6 +159,18 @@ mammal |
 | bip_39_word_space_7 | train mixture filter decrease want bird today |  
 | bip_39_word_space_8 | train mixture filter decrease want bird today elite |  
 | bip_39_word_space_9 | train mixture filter decrease want bird today elite mammal |  
+| bip_39_word_underscore_1 | train |  
+| bip_39_word_underscore_10 | train_mixture_filter_decrease_want_bird_today_elite_mammal_tennis |  
+| bip_39_word_underscore_11 | train_mixture_filter_decrease_want_bird_today_elite_mammal_tennis_club |  
+| bip_39_word_underscore_12 | train_mixture_filter_decrease_want_bird_today_elite_mammal_tennis_club_absent |  
+| bip_39_word_underscore_2 | train_mixture |  
+| bip_39_word_underscore_3 | train_mixture_filter |  
+| bip_39_word_underscore_4 | train_mixture_filter_decrease |  
+| bip_39_word_underscore_5 | train_mixture_filter_decrease_want |  
+| bip_39_word_underscore_6 | train_mixture_filter_decrease_want_bird |  
+| bip_39_word_underscore_7 | train_mixture_filter_decrease_want_bird_today |  
+| bip_39_word_underscore_8 | train_mixture_filter_decrease_want_bird_today_elite |  
+| bip_39_word_underscore_9 | train_mixture_filter_decrease_want_bird_today_elite_mammal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

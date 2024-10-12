@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wash
+bip_39_word_dash_10: wash-antenna-waste-snack-airport-friend-tortoise-front-crew-family
+bip_39_word_dash_11: wash-antenna-waste-snack-airport-friend-tortoise-front-crew-family-energy
+bip_39_word_dash_12: wash-antenna-waste-snack-airport-friend-tortoise-front-crew-family-energy-absorb
+bip_39_word_dash_2: wash-antenna
+bip_39_word_dash_3: wash-antenna-waste
+bip_39_word_dash_4: wash-antenna-waste-snack
+bip_39_word_dash_5: wash-antenna-waste-snack-airport
+bip_39_word_dash_6: wash-antenna-waste-snack-airport-friend
+bip_39_word_dash_7: wash-antenna-waste-snack-airport-friend-tortoise
+bip_39_word_dash_8: wash-antenna-waste-snack-airport-friend-tortoise-front
+bip_39_word_dash_9: wash-antenna-waste-snack-airport-friend-tortoise-front-crew
 bip_39_word_new_br_1: wash
 bip_39_word_new_br_10: wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front<br>crew<br>family
 bip_39_word_new_br_11: wash<br>antenna<br>waste<br>snack<br>airport<br>friend<br>tortoise<br>front<br>crew<br>family<br>energy
@@ -194,6 +206,18 @@ bip_39_word_space_6: wash antenna waste snack airport friend
 bip_39_word_space_7: wash antenna waste snack airport friend tortoise
 bip_39_word_space_8: wash antenna waste snack airport friend tortoise front
 bip_39_word_space_9: wash antenna waste snack airport friend tortoise front crew
+bip_39_word_underscore_1: wash
+bip_39_word_underscore_10: wash_antenna_waste_snack_airport_friend_tortoise_front_crew_family
+bip_39_word_underscore_11: wash_antenna_waste_snack_airport_friend_tortoise_front_crew_family_energy
+bip_39_word_underscore_12: wash_antenna_waste_snack_airport_friend_tortoise_front_crew_family_energy_absorb
+bip_39_word_underscore_2: wash_antenna
+bip_39_word_underscore_3: wash_antenna_waste
+bip_39_word_underscore_4: wash_antenna_waste_snack
+bip_39_word_underscore_5: wash_antenna_waste_snack_airport
+bip_39_word_underscore_6: wash_antenna_waste_snack_airport_friend
+bip_39_word_underscore_7: wash_antenna_waste_snack_airport_friend_tortoise
+bip_39_word_underscore_8: wash_antenna_waste_snack_airport_friend_tortoise_front
+bip_39_word_underscore_9: wash_antenna_waste_snack_airport_friend_tortoise_front_crew
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

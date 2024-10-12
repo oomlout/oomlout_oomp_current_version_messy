@@ -1,3 +1,15 @@
+bip_39_word_dash_1: athlete
+bip_39_word_dash_10: athlete-cargo-wine-tissue-cool-room-upper-produce-divorce-chunk
+bip_39_word_dash_11: athlete-cargo-wine-tissue-cool-room-upper-produce-divorce-chunk-aware
+bip_39_word_dash_12: athlete-cargo-wine-tissue-cool-room-upper-produce-divorce-chunk-aware-aunt
+bip_39_word_dash_2: athlete-cargo
+bip_39_word_dash_3: athlete-cargo-wine
+bip_39_word_dash_4: athlete-cargo-wine-tissue
+bip_39_word_dash_5: athlete-cargo-wine-tissue-cool
+bip_39_word_dash_6: athlete-cargo-wine-tissue-cool-room
+bip_39_word_dash_7: athlete-cargo-wine-tissue-cool-room-upper
+bip_39_word_dash_8: athlete-cargo-wine-tissue-cool-room-upper-produce
+bip_39_word_dash_9: athlete-cargo-wine-tissue-cool-room-upper-produce-divorce
 bip_39_word_new_br_1: athlete
 bip_39_word_new_br_10: athlete<br>cargo<br>wine<br>tissue<br>cool<br>room<br>upper<br>produce<br>divorce<br>chunk
 bip_39_word_new_br_11: athlete<br>cargo<br>wine<br>tissue<br>cool<br>room<br>upper<br>produce<br>divorce<br>chunk<br>aware
@@ -193,6 +205,18 @@ bip_39_word_space_6: athlete cargo wine tissue cool room
 bip_39_word_space_7: athlete cargo wine tissue cool room upper
 bip_39_word_space_8: athlete cargo wine tissue cool room upper produce
 bip_39_word_space_9: athlete cargo wine tissue cool room upper produce divorce
+bip_39_word_underscore_1: athlete
+bip_39_word_underscore_10: athlete_cargo_wine_tissue_cool_room_upper_produce_divorce_chunk
+bip_39_word_underscore_11: athlete_cargo_wine_tissue_cool_room_upper_produce_divorce_chunk_aware
+bip_39_word_underscore_12: athlete_cargo_wine_tissue_cool_room_upper_produce_divorce_chunk_aware_aunt
+bip_39_word_underscore_2: athlete_cargo
+bip_39_word_underscore_3: athlete_cargo_wine
+bip_39_word_underscore_4: athlete_cargo_wine_tissue
+bip_39_word_underscore_5: athlete_cargo_wine_tissue_cool
+bip_39_word_underscore_6: athlete_cargo_wine_tissue_cool_room
+bip_39_word_underscore_7: athlete_cargo_wine_tissue_cool_room_upper
+bip_39_word_underscore_8: athlete_cargo_wine_tissue_cool_room_upper_produce
+bip_39_word_underscore_9: athlete_cargo_wine_tissue_cool_room_upper_produce_divorce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

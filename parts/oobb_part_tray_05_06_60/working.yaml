@@ -1,3 +1,15 @@
+bip_39_word_dash_1: damage
+bip_39_word_dash_10: damage-grid-tornado-unknown-resist-someone-control-jealous-shuffle-coach
+bip_39_word_dash_11: damage-grid-tornado-unknown-resist-someone-control-jealous-shuffle-coach-step
+bip_39_word_dash_12: damage-grid-tornado-unknown-resist-someone-control-jealous-shuffle-coach-step-action
+bip_39_word_dash_2: damage-grid
+bip_39_word_dash_3: damage-grid-tornado
+bip_39_word_dash_4: damage-grid-tornado-unknown
+bip_39_word_dash_5: damage-grid-tornado-unknown-resist
+bip_39_word_dash_6: damage-grid-tornado-unknown-resist-someone
+bip_39_word_dash_7: damage-grid-tornado-unknown-resist-someone-control
+bip_39_word_dash_8: damage-grid-tornado-unknown-resist-someone-control-jealous
+bip_39_word_dash_9: damage-grid-tornado-unknown-resist-someone-control-jealous-shuffle
 bip_39_word_new_br_1: damage
 bip_39_word_new_br_10: damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous<br>shuffle<br>coach
 bip_39_word_new_br_11: damage<br>grid<br>tornado<br>unknown<br>resist<br>someone<br>control<br>jealous<br>shuffle<br>coach<br>step
@@ -194,6 +206,18 @@ bip_39_word_space_6: damage grid tornado unknown resist someone
 bip_39_word_space_7: damage grid tornado unknown resist someone control
 bip_39_word_space_8: damage grid tornado unknown resist someone control jealous
 bip_39_word_space_9: damage grid tornado unknown resist someone control jealous shuffle
+bip_39_word_underscore_1: damage
+bip_39_word_underscore_10: damage_grid_tornado_unknown_resist_someone_control_jealous_shuffle_coach
+bip_39_word_underscore_11: damage_grid_tornado_unknown_resist_someone_control_jealous_shuffle_coach_step
+bip_39_word_underscore_12: damage_grid_tornado_unknown_resist_someone_control_jealous_shuffle_coach_step_action
+bip_39_word_underscore_2: damage_grid
+bip_39_word_underscore_3: damage_grid_tornado
+bip_39_word_underscore_4: damage_grid_tornado_unknown
+bip_39_word_underscore_5: damage_grid_tornado_unknown_resist
+bip_39_word_underscore_6: damage_grid_tornado_unknown_resist_someone
+bip_39_word_underscore_7: damage_grid_tornado_unknown_resist_someone_control
+bip_39_word_underscore_8: damage_grid_tornado_unknown_resist_someone_control_jealous
+bip_39_word_underscore_9: damage_grid_tornado_unknown_resist_someone_control_jealous_shuffle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

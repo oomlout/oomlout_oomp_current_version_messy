@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | book |  
+| bip_39_word_dash_10 | book-pencil-tackle-vapor-garlic-jazz-other-deputy-armed-century |  
+| bip_39_word_dash_11 | book-pencil-tackle-vapor-garlic-jazz-other-deputy-armed-century-clap |  
+| bip_39_word_dash_12 | book-pencil-tackle-vapor-garlic-jazz-other-deputy-armed-century-clap-abuse |  
+| bip_39_word_dash_2 | book-pencil |  
+| bip_39_word_dash_3 | book-pencil-tackle |  
+| bip_39_word_dash_4 | book-pencil-tackle-vapor |  
+| bip_39_word_dash_5 | book-pencil-tackle-vapor-garlic |  
+| bip_39_word_dash_6 | book-pencil-tackle-vapor-garlic-jazz |  
+| bip_39_word_dash_7 | book-pencil-tackle-vapor-garlic-jazz-other |  
+| bip_39_word_dash_8 | book-pencil-tackle-vapor-garlic-jazz-other-deputy |  
+| bip_39_word_dash_9 | book-pencil-tackle-vapor-garlic-jazz-other-deputy-armed |  
 | bip_39_word_new_br_1 | book |  
 | bip_39_word_new_br_10 | book<br>pencil<br>tackle<br>vapor<br>garlic<br>jazz<br>other<br>deputy<br>armed<br>century |  
 | bip_39_word_new_br_11 | book<br>pencil<br>tackle<br>vapor<br>garlic<br>jazz<br>other<br>deputy<br>armed<br>century<br>clap |  
@@ -147,6 +159,18 @@ armed |
 | bip_39_word_space_7 | book pencil tackle vapor garlic jazz other |  
 | bip_39_word_space_8 | book pencil tackle vapor garlic jazz other deputy |  
 | bip_39_word_space_9 | book pencil tackle vapor garlic jazz other deputy armed |  
+| bip_39_word_underscore_1 | book |  
+| bip_39_word_underscore_10 | book_pencil_tackle_vapor_garlic_jazz_other_deputy_armed_century |  
+| bip_39_word_underscore_11 | book_pencil_tackle_vapor_garlic_jazz_other_deputy_armed_century_clap |  
+| bip_39_word_underscore_12 | book_pencil_tackle_vapor_garlic_jazz_other_deputy_armed_century_clap_abuse |  
+| bip_39_word_underscore_2 | book_pencil |  
+| bip_39_word_underscore_3 | book_pencil_tackle |  
+| bip_39_word_underscore_4 | book_pencil_tackle_vapor |  
+| bip_39_word_underscore_5 | book_pencil_tackle_vapor_garlic |  
+| bip_39_word_underscore_6 | book_pencil_tackle_vapor_garlic_jazz |  
+| bip_39_word_underscore_7 | book_pencil_tackle_vapor_garlic_jazz_other |  
+| bip_39_word_underscore_8 | book_pencil_tackle_vapor_garlic_jazz_other_deputy |  
+| bip_39_word_underscore_9 | book_pencil_tackle_vapor_garlic_jazz_other_deputy_armed |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

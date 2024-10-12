@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | owner |  
+| bip_39_word_dash_10 | owner-elephant-cargo-door-embrace-owner-marine-blanket-glad-swim |  
+| bip_39_word_dash_11 | owner-elephant-cargo-door-embrace-owner-marine-blanket-glad-swim-tumble |  
+| bip_39_word_dash_12 | owner-elephant-cargo-door-embrace-owner-marine-blanket-glad-swim-tumble-agree |  
+| bip_39_word_dash_2 | owner-elephant |  
+| bip_39_word_dash_3 | owner-elephant-cargo |  
+| bip_39_word_dash_4 | owner-elephant-cargo-door |  
+| bip_39_word_dash_5 | owner-elephant-cargo-door-embrace |  
+| bip_39_word_dash_6 | owner-elephant-cargo-door-embrace-owner |  
+| bip_39_word_dash_7 | owner-elephant-cargo-door-embrace-owner-marine |  
+| bip_39_word_dash_8 | owner-elephant-cargo-door-embrace-owner-marine-blanket |  
+| bip_39_word_dash_9 | owner-elephant-cargo-door-embrace-owner-marine-blanket-glad |  
 | bip_39_word_new_br_1 | owner |  
 | bip_39_word_new_br_10 | owner<br>elephant<br>cargo<br>door<br>embrace<br>owner<br>marine<br>blanket<br>glad<br>swim |  
 | bip_39_word_new_br_11 | owner<br>elephant<br>cargo<br>door<br>embrace<br>owner<br>marine<br>blanket<br>glad<br>swim<br>tumble |  
@@ -147,6 +159,18 @@ glad |
 | bip_39_word_space_7 | owner elephant cargo door embrace owner marine |  
 | bip_39_word_space_8 | owner elephant cargo door embrace owner marine blanket |  
 | bip_39_word_space_9 | owner elephant cargo door embrace owner marine blanket glad |  
+| bip_39_word_underscore_1 | owner |  
+| bip_39_word_underscore_10 | owner_elephant_cargo_door_embrace_owner_marine_blanket_glad_swim |  
+| bip_39_word_underscore_11 | owner_elephant_cargo_door_embrace_owner_marine_blanket_glad_swim_tumble |  
+| bip_39_word_underscore_12 | owner_elephant_cargo_door_embrace_owner_marine_blanket_glad_swim_tumble_agree |  
+| bip_39_word_underscore_2 | owner_elephant |  
+| bip_39_word_underscore_3 | owner_elephant_cargo |  
+| bip_39_word_underscore_4 | owner_elephant_cargo_door |  
+| bip_39_word_underscore_5 | owner_elephant_cargo_door_embrace |  
+| bip_39_word_underscore_6 | owner_elephant_cargo_door_embrace_owner |  
+| bip_39_word_underscore_7 | owner_elephant_cargo_door_embrace_owner_marine |  
+| bip_39_word_underscore_8 | owner_elephant_cargo_door_embrace_owner_marine_blanket |  
+| bip_39_word_underscore_9 | owner_elephant_cargo_door_embrace_owner_marine_blanket_glad |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

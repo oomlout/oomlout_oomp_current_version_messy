@@ -1,3 +1,15 @@
+bip_39_word_dash_1: settle
+bip_39_word_dash_10: settle-air-diagram-discover-ghost-modify-topic-exit-law-address
+bip_39_word_dash_11: settle-air-diagram-discover-ghost-modify-topic-exit-law-address-leopard
+bip_39_word_dash_12: settle-air-diagram-discover-ghost-modify-topic-exit-law-address-leopard-ahead
+bip_39_word_dash_2: settle-air
+bip_39_word_dash_3: settle-air-diagram
+bip_39_word_dash_4: settle-air-diagram-discover
+bip_39_word_dash_5: settle-air-diagram-discover-ghost
+bip_39_word_dash_6: settle-air-diagram-discover-ghost-modify
+bip_39_word_dash_7: settle-air-diagram-discover-ghost-modify-topic
+bip_39_word_dash_8: settle-air-diagram-discover-ghost-modify-topic-exit
+bip_39_word_dash_9: settle-air-diagram-discover-ghost-modify-topic-exit-law
 bip_39_word_new_br_1: settle
 bip_39_word_new_br_10: settle<br>air<br>diagram<br>discover<br>ghost<br>modify<br>topic<br>exit<br>law<br>address
 bip_39_word_new_br_11: settle<br>air<br>diagram<br>discover<br>ghost<br>modify<br>topic<br>exit<br>law<br>address<br>leopard
@@ -193,6 +205,18 @@ bip_39_word_space_6: settle air diagram discover ghost modify
 bip_39_word_space_7: settle air diagram discover ghost modify topic
 bip_39_word_space_8: settle air diagram discover ghost modify topic exit
 bip_39_word_space_9: settle air diagram discover ghost modify topic exit law
+bip_39_word_underscore_1: settle
+bip_39_word_underscore_10: settle_air_diagram_discover_ghost_modify_topic_exit_law_address
+bip_39_word_underscore_11: settle_air_diagram_discover_ghost_modify_topic_exit_law_address_leopard
+bip_39_word_underscore_12: settle_air_diagram_discover_ghost_modify_topic_exit_law_address_leopard_ahead
+bip_39_word_underscore_2: settle_air
+bip_39_word_underscore_3: settle_air_diagram
+bip_39_word_underscore_4: settle_air_diagram_discover
+bip_39_word_underscore_5: settle_air_diagram_discover_ghost
+bip_39_word_underscore_6: settle_air_diagram_discover_ghost_modify
+bip_39_word_underscore_7: settle_air_diagram_discover_ghost_modify_topic
+bip_39_word_underscore_8: settle_air_diagram_discover_ghost_modify_topic_exit
+bip_39_word_underscore_9: settle_air_diagram_discover_ghost_modify_topic_exit_law
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

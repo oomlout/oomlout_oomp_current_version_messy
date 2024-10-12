@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pony
+bip_39_word_dash_10: pony-example-ice-spend-steel-subway-notice-file-torch-plug
+bip_39_word_dash_11: pony-example-ice-spend-steel-subway-notice-file-torch-plug-card
+bip_39_word_dash_12: pony-example-ice-spend-steel-subway-notice-file-torch-plug-card-ask
+bip_39_word_dash_2: pony-example
+bip_39_word_dash_3: pony-example-ice
+bip_39_word_dash_4: pony-example-ice-spend
+bip_39_word_dash_5: pony-example-ice-spend-steel
+bip_39_word_dash_6: pony-example-ice-spend-steel-subway
+bip_39_word_dash_7: pony-example-ice-spend-steel-subway-notice
+bip_39_word_dash_8: pony-example-ice-spend-steel-subway-notice-file
+bip_39_word_dash_9: pony-example-ice-spend-steel-subway-notice-file-torch
 bip_39_word_new_br_1: pony
 bip_39_word_new_br_10: pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug
 bip_39_word_new_br_11: pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug<br>card
@@ -192,6 +204,18 @@ bip_39_word_space_6: pony example ice spend steel subway
 bip_39_word_space_7: pony example ice spend steel subway notice
 bip_39_word_space_8: pony example ice spend steel subway notice file
 bip_39_word_space_9: pony example ice spend steel subway notice file torch
+bip_39_word_underscore_1: pony
+bip_39_word_underscore_10: pony_example_ice_spend_steel_subway_notice_file_torch_plug
+bip_39_word_underscore_11: pony_example_ice_spend_steel_subway_notice_file_torch_plug_card
+bip_39_word_underscore_12: pony_example_ice_spend_steel_subway_notice_file_torch_plug_card_ask
+bip_39_word_underscore_2: pony_example
+bip_39_word_underscore_3: pony_example_ice
+bip_39_word_underscore_4: pony_example_ice_spend
+bip_39_word_underscore_5: pony_example_ice_spend_steel
+bip_39_word_underscore_6: pony_example_ice_spend_steel_subway
+bip_39_word_underscore_7: pony_example_ice_spend_steel_subway_notice
+bip_39_word_underscore_8: pony_example_ice_spend_steel_subway_notice_file
+bip_39_word_underscore_9: pony_example_ice_spend_steel_subway_notice_file_torch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mixture |  
+| bip_39_word_dash_10 | mixture-doll-life-rival-route-axis-tag-lucky-way-panda |  
+| bip_39_word_dash_11 | mixture-doll-life-rival-route-axis-tag-lucky-way-panda-rally |  
+| bip_39_word_dash_12 | mixture-doll-life-rival-route-axis-tag-lucky-way-panda-rally-again |  
+| bip_39_word_dash_2 | mixture-doll |  
+| bip_39_word_dash_3 | mixture-doll-life |  
+| bip_39_word_dash_4 | mixture-doll-life-rival |  
+| bip_39_word_dash_5 | mixture-doll-life-rival-route |  
+| bip_39_word_dash_6 | mixture-doll-life-rival-route-axis |  
+| bip_39_word_dash_7 | mixture-doll-life-rival-route-axis-tag |  
+| bip_39_word_dash_8 | mixture-doll-life-rival-route-axis-tag-lucky |  
+| bip_39_word_dash_9 | mixture-doll-life-rival-route-axis-tag-lucky-way |  
 | bip_39_word_new_br_1 | mixture |  
 | bip_39_word_new_br_10 | mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda |  
 | bip_39_word_new_br_11 | mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda<br>rally |  
@@ -147,6 +159,18 @@ way |
 | bip_39_word_space_7 | mixture doll life rival route axis tag |  
 | bip_39_word_space_8 | mixture doll life rival route axis tag lucky |  
 | bip_39_word_space_9 | mixture doll life rival route axis tag lucky way |  
+| bip_39_word_underscore_1 | mixture |  
+| bip_39_word_underscore_10 | mixture_doll_life_rival_route_axis_tag_lucky_way_panda |  
+| bip_39_word_underscore_11 | mixture_doll_life_rival_route_axis_tag_lucky_way_panda_rally |  
+| bip_39_word_underscore_12 | mixture_doll_life_rival_route_axis_tag_lucky_way_panda_rally_again |  
+| bip_39_word_underscore_2 | mixture_doll |  
+| bip_39_word_underscore_3 | mixture_doll_life |  
+| bip_39_word_underscore_4 | mixture_doll_life_rival |  
+| bip_39_word_underscore_5 | mixture_doll_life_rival_route |  
+| bip_39_word_underscore_6 | mixture_doll_life_rival_route_axis |  
+| bip_39_word_underscore_7 | mixture_doll_life_rival_route_axis_tag |  
+| bip_39_word_underscore_8 | mixture_doll_life_rival_route_axis_tag_lucky |  
+| bip_39_word_underscore_9 | mixture_doll_life_rival_route_axis_tag_lucky_way |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

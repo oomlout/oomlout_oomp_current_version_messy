@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | purse |  
+| bip_39_word_dash_10 | purse-lazy-clutch-rocket-spike-soft-play-stuff-rug-mushroom |  
+| bip_39_word_dash_11 | purse-lazy-clutch-rocket-spike-soft-play-stuff-rug-mushroom-situate |  
+| bip_39_word_dash_12 | purse-lazy-clutch-rocket-spike-soft-play-stuff-rug-mushroom-situate-artwork |  
+| bip_39_word_dash_2 | purse-lazy |  
+| bip_39_word_dash_3 | purse-lazy-clutch |  
+| bip_39_word_dash_4 | purse-lazy-clutch-rocket |  
+| bip_39_word_dash_5 | purse-lazy-clutch-rocket-spike |  
+| bip_39_word_dash_6 | purse-lazy-clutch-rocket-spike-soft |  
+| bip_39_word_dash_7 | purse-lazy-clutch-rocket-spike-soft-play |  
+| bip_39_word_dash_8 | purse-lazy-clutch-rocket-spike-soft-play-stuff |  
+| bip_39_word_dash_9 | purse-lazy-clutch-rocket-spike-soft-play-stuff-rug |  
 | bip_39_word_new_br_1 | purse |  
 | bip_39_word_new_br_10 | purse<br>lazy<br>clutch<br>rocket<br>spike<br>soft<br>play<br>stuff<br>rug<br>mushroom |  
 | bip_39_word_new_br_11 | purse<br>lazy<br>clutch<br>rocket<br>spike<br>soft<br>play<br>stuff<br>rug<br>mushroom<br>situate |  
@@ -147,6 +159,18 @@ rug |
 | bip_39_word_space_7 | purse lazy clutch rocket spike soft play |  
 | bip_39_word_space_8 | purse lazy clutch rocket spike soft play stuff |  
 | bip_39_word_space_9 | purse lazy clutch rocket spike soft play stuff rug |  
+| bip_39_word_underscore_1 | purse |  
+| bip_39_word_underscore_10 | purse_lazy_clutch_rocket_spike_soft_play_stuff_rug_mushroom |  
+| bip_39_word_underscore_11 | purse_lazy_clutch_rocket_spike_soft_play_stuff_rug_mushroom_situate |  
+| bip_39_word_underscore_12 | purse_lazy_clutch_rocket_spike_soft_play_stuff_rug_mushroom_situate_artwork |  
+| bip_39_word_underscore_2 | purse_lazy |  
+| bip_39_word_underscore_3 | purse_lazy_clutch |  
+| bip_39_word_underscore_4 | purse_lazy_clutch_rocket |  
+| bip_39_word_underscore_5 | purse_lazy_clutch_rocket_spike |  
+| bip_39_word_underscore_6 | purse_lazy_clutch_rocket_spike_soft |  
+| bip_39_word_underscore_7 | purse_lazy_clutch_rocket_spike_soft_play |  
+| bip_39_word_underscore_8 | purse_lazy_clutch_rocket_spike_soft_play_stuff |  
+| bip_39_word_underscore_9 | purse_lazy_clutch_rocket_spike_soft_play_stuff_rug |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

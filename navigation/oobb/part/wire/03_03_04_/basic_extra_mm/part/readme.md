@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | version |  
+| bip_39_word_dash_10 | version-hotel-random-fix-provide-draft-wild-lizard-twelve-ceiling |  
+| bip_39_word_dash_11 | version-hotel-random-fix-provide-draft-wild-lizard-twelve-ceiling-bag |  
+| bip_39_word_dash_12 | version-hotel-random-fix-provide-draft-wild-lizard-twelve-ceiling-bag-antenna |  
+| bip_39_word_dash_2 | version-hotel |  
+| bip_39_word_dash_3 | version-hotel-random |  
+| bip_39_word_dash_4 | version-hotel-random-fix |  
+| bip_39_word_dash_5 | version-hotel-random-fix-provide |  
+| bip_39_word_dash_6 | version-hotel-random-fix-provide-draft |  
+| bip_39_word_dash_7 | version-hotel-random-fix-provide-draft-wild |  
+| bip_39_word_dash_8 | version-hotel-random-fix-provide-draft-wild-lizard |  
+| bip_39_word_dash_9 | version-hotel-random-fix-provide-draft-wild-lizard-twelve |  
 | bip_39_word_new_br_1 | version |  
 | bip_39_word_new_br_10 | version<br>hotel<br>random<br>fix<br>provide<br>draft<br>wild<br>lizard<br>twelve<br>ceiling |  
 | bip_39_word_new_br_11 | version<br>hotel<br>random<br>fix<br>provide<br>draft<br>wild<br>lizard<br>twelve<br>ceiling<br>bag |  
@@ -147,6 +159,18 @@ twelve |
 | bip_39_word_space_7 | version hotel random fix provide draft wild |  
 | bip_39_word_space_8 | version hotel random fix provide draft wild lizard |  
 | bip_39_word_space_9 | version hotel random fix provide draft wild lizard twelve |  
+| bip_39_word_underscore_1 | version |  
+| bip_39_word_underscore_10 | version_hotel_random_fix_provide_draft_wild_lizard_twelve_ceiling |  
+| bip_39_word_underscore_11 | version_hotel_random_fix_provide_draft_wild_lizard_twelve_ceiling_bag |  
+| bip_39_word_underscore_12 | version_hotel_random_fix_provide_draft_wild_lizard_twelve_ceiling_bag_antenna |  
+| bip_39_word_underscore_2 | version_hotel |  
+| bip_39_word_underscore_3 | version_hotel_random |  
+| bip_39_word_underscore_4 | version_hotel_random_fix |  
+| bip_39_word_underscore_5 | version_hotel_random_fix_provide |  
+| bip_39_word_underscore_6 | version_hotel_random_fix_provide_draft |  
+| bip_39_word_underscore_7 | version_hotel_random_fix_provide_draft_wild |  
+| bip_39_word_underscore_8 | version_hotel_random_fix_provide_draft_wild_lizard |  
+| bip_39_word_underscore_9 | version_hotel_random_fix_provide_draft_wild_lizard_twelve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

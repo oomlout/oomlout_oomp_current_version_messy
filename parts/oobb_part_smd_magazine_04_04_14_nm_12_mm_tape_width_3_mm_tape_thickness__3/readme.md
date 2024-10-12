@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | virtual |  
+| bip_39_word_dash_10 | virtual-frequent-erosion-this-gun-wish-oppose-music-click-black |  
+| bip_39_word_dash_11 | virtual-frequent-erosion-this-gun-wish-oppose-music-click-black-vacuum |  
+| bip_39_word_dash_12 | virtual-frequent-erosion-this-gun-wish-oppose-music-click-black-vacuum-animal |  
+| bip_39_word_dash_2 | virtual-frequent |  
+| bip_39_word_dash_3 | virtual-frequent-erosion |  
+| bip_39_word_dash_4 | virtual-frequent-erosion-this |  
+| bip_39_word_dash_5 | virtual-frequent-erosion-this-gun |  
+| bip_39_word_dash_6 | virtual-frequent-erosion-this-gun-wish |  
+| bip_39_word_dash_7 | virtual-frequent-erosion-this-gun-wish-oppose |  
+| bip_39_word_dash_8 | virtual-frequent-erosion-this-gun-wish-oppose-music |  
+| bip_39_word_dash_9 | virtual-frequent-erosion-this-gun-wish-oppose-music-click |  
 | bip_39_word_new_br_1 | virtual |  
 | bip_39_word_new_br_10 | virtual<br>frequent<br>erosion<br>this<br>gun<br>wish<br>oppose<br>music<br>click<br>black |  
 | bip_39_word_new_br_11 | virtual<br>frequent<br>erosion<br>this<br>gun<br>wish<br>oppose<br>music<br>click<br>black<br>vacuum |  
@@ -147,6 +159,18 @@ click |
 | bip_39_word_space_7 | virtual frequent erosion this gun wish oppose |  
 | bip_39_word_space_8 | virtual frequent erosion this gun wish oppose music |  
 | bip_39_word_space_9 | virtual frequent erosion this gun wish oppose music click |  
+| bip_39_word_underscore_1 | virtual |  
+| bip_39_word_underscore_10 | virtual_frequent_erosion_this_gun_wish_oppose_music_click_black |  
+| bip_39_word_underscore_11 | virtual_frequent_erosion_this_gun_wish_oppose_music_click_black_vacuum |  
+| bip_39_word_underscore_12 | virtual_frequent_erosion_this_gun_wish_oppose_music_click_black_vacuum_animal |  
+| bip_39_word_underscore_2 | virtual_frequent |  
+| bip_39_word_underscore_3 | virtual_frequent_erosion |  
+| bip_39_word_underscore_4 | virtual_frequent_erosion_this |  
+| bip_39_word_underscore_5 | virtual_frequent_erosion_this_gun |  
+| bip_39_word_underscore_6 | virtual_frequent_erosion_this_gun_wish |  
+| bip_39_word_underscore_7 | virtual_frequent_erosion_this_gun_wish_oppose |  
+| bip_39_word_underscore_8 | virtual_frequent_erosion_this_gun_wish_oppose_music |  
+| bip_39_word_underscore_9 | virtual_frequent_erosion_this_gun_wish_oppose_music_click |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

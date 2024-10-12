@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | room |  
+| bip_39_word_dash_10 | room-gasp-royal-chalk-lobster-nothing-arctic-private-actor-define |  
+| bip_39_word_dash_11 | room-gasp-royal-chalk-lobster-nothing-arctic-private-actor-define-average |  
+| bip_39_word_dash_12 | room-gasp-royal-chalk-lobster-nothing-arctic-private-actor-define-average-amount |  
+| bip_39_word_dash_2 | room-gasp |  
+| bip_39_word_dash_3 | room-gasp-royal |  
+| bip_39_word_dash_4 | room-gasp-royal-chalk |  
+| bip_39_word_dash_5 | room-gasp-royal-chalk-lobster |  
+| bip_39_word_dash_6 | room-gasp-royal-chalk-lobster-nothing |  
+| bip_39_word_dash_7 | room-gasp-royal-chalk-lobster-nothing-arctic |  
+| bip_39_word_dash_8 | room-gasp-royal-chalk-lobster-nothing-arctic-private |  
+| bip_39_word_dash_9 | room-gasp-royal-chalk-lobster-nothing-arctic-private-actor |  
 | bip_39_word_new_br_1 | room |  
 | bip_39_word_new_br_10 | room<br>gasp<br>royal<br>chalk<br>lobster<br>nothing<br>arctic<br>private<br>actor<br>define |  
 | bip_39_word_new_br_11 | room<br>gasp<br>royal<br>chalk<br>lobster<br>nothing<br>arctic<br>private<br>actor<br>define<br>average |  
@@ -147,6 +159,18 @@ actor |
 | bip_39_word_space_7 | room gasp royal chalk lobster nothing arctic |  
 | bip_39_word_space_8 | room gasp royal chalk lobster nothing arctic private |  
 | bip_39_word_space_9 | room gasp royal chalk lobster nothing arctic private actor |  
+| bip_39_word_underscore_1 | room |  
+| bip_39_word_underscore_10 | room_gasp_royal_chalk_lobster_nothing_arctic_private_actor_define |  
+| bip_39_word_underscore_11 | room_gasp_royal_chalk_lobster_nothing_arctic_private_actor_define_average |  
+| bip_39_word_underscore_12 | room_gasp_royal_chalk_lobster_nothing_arctic_private_actor_define_average_amount |  
+| bip_39_word_underscore_2 | room_gasp |  
+| bip_39_word_underscore_3 | room_gasp_royal |  
+| bip_39_word_underscore_4 | room_gasp_royal_chalk |  
+| bip_39_word_underscore_5 | room_gasp_royal_chalk_lobster |  
+| bip_39_word_underscore_6 | room_gasp_royal_chalk_lobster_nothing |  
+| bip_39_word_underscore_7 | room_gasp_royal_chalk_lobster_nothing_arctic |  
+| bip_39_word_underscore_8 | room_gasp_royal_chalk_lobster_nothing_arctic_private |  
+| bip_39_word_underscore_9 | room_gasp_royal_chalk_lobster_nothing_arctic_private_actor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

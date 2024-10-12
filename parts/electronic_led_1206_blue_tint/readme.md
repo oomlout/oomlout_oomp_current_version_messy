@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kitchen |  
+| bip_39_word_dash_10 | kitchen-panel-nation-just-media-patient-piano-casino-rally-laptop |  
+| bip_39_word_dash_11 | kitchen-panel-nation-just-media-patient-piano-casino-rally-laptop-torch |  
+| bip_39_word_dash_12 | kitchen-panel-nation-just-media-patient-piano-casino-rally-laptop-torch-already |  
+| bip_39_word_dash_2 | kitchen-panel |  
+| bip_39_word_dash_3 | kitchen-panel-nation |  
+| bip_39_word_dash_4 | kitchen-panel-nation-just |  
+| bip_39_word_dash_5 | kitchen-panel-nation-just-media |  
+| bip_39_word_dash_6 | kitchen-panel-nation-just-media-patient |  
+| bip_39_word_dash_7 | kitchen-panel-nation-just-media-patient-piano |  
+| bip_39_word_dash_8 | kitchen-panel-nation-just-media-patient-piano-casino |  
+| bip_39_word_dash_9 | kitchen-panel-nation-just-media-patient-piano-casino-rally |  
 | bip_39_word_new_br_1 | kitchen |  
 | bip_39_word_new_br_10 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop |  
 | bip_39_word_new_br_11 | kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop<br>torch |  
@@ -147,6 +159,18 @@ rally |
 | bip_39_word_space_7 | kitchen panel nation just media patient piano |  
 | bip_39_word_space_8 | kitchen panel nation just media patient piano casino |  
 | bip_39_word_space_9 | kitchen panel nation just media patient piano casino rally |  
+| bip_39_word_underscore_1 | kitchen |  
+| bip_39_word_underscore_10 | kitchen_panel_nation_just_media_patient_piano_casino_rally_laptop |  
+| bip_39_word_underscore_11 | kitchen_panel_nation_just_media_patient_piano_casino_rally_laptop_torch |  
+| bip_39_word_underscore_12 | kitchen_panel_nation_just_media_patient_piano_casino_rally_laptop_torch_already |  
+| bip_39_word_underscore_2 | kitchen_panel |  
+| bip_39_word_underscore_3 | kitchen_panel_nation |  
+| bip_39_word_underscore_4 | kitchen_panel_nation_just |  
+| bip_39_word_underscore_5 | kitchen_panel_nation_just_media |  
+| bip_39_word_underscore_6 | kitchen_panel_nation_just_media_patient |  
+| bip_39_word_underscore_7 | kitchen_panel_nation_just_media_patient_piano |  
+| bip_39_word_underscore_8 | kitchen_panel_nation_just_media_patient_piano_casino |  
+| bip_39_word_underscore_9 | kitchen_panel_nation_just_media_patient_piano_casino_rally |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

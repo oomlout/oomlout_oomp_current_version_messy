@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fashion |  
+| bip_39_word_dash_10 | fashion-alpha-chicken-donate-tool-wage-tip-letter-road-plastic |  
+| bip_39_word_dash_11 | fashion-alpha-chicken-donate-tool-wage-tip-letter-road-plastic-protect |  
+| bip_39_word_dash_12 | fashion-alpha-chicken-donate-tool-wage-tip-letter-road-plastic-protect-agent |  
+| bip_39_word_dash_2 | fashion-alpha |  
+| bip_39_word_dash_3 | fashion-alpha-chicken |  
+| bip_39_word_dash_4 | fashion-alpha-chicken-donate |  
+| bip_39_word_dash_5 | fashion-alpha-chicken-donate-tool |  
+| bip_39_word_dash_6 | fashion-alpha-chicken-donate-tool-wage |  
+| bip_39_word_dash_7 | fashion-alpha-chicken-donate-tool-wage-tip |  
+| bip_39_word_dash_8 | fashion-alpha-chicken-donate-tool-wage-tip-letter |  
+| bip_39_word_dash_9 | fashion-alpha-chicken-donate-tool-wage-tip-letter-road |  
 | bip_39_word_new_br_1 | fashion |  
 | bip_39_word_new_br_10 | fashion<br>alpha<br>chicken<br>donate<br>tool<br>wage<br>tip<br>letter<br>road<br>plastic |  
 | bip_39_word_new_br_11 | fashion<br>alpha<br>chicken<br>donate<br>tool<br>wage<br>tip<br>letter<br>road<br>plastic<br>protect |  
@@ -147,6 +159,18 @@ road |
 | bip_39_word_space_7 | fashion alpha chicken donate tool wage tip |  
 | bip_39_word_space_8 | fashion alpha chicken donate tool wage tip letter |  
 | bip_39_word_space_9 | fashion alpha chicken donate tool wage tip letter road |  
+| bip_39_word_underscore_1 | fashion |  
+| bip_39_word_underscore_10 | fashion_alpha_chicken_donate_tool_wage_tip_letter_road_plastic |  
+| bip_39_word_underscore_11 | fashion_alpha_chicken_donate_tool_wage_tip_letter_road_plastic_protect |  
+| bip_39_word_underscore_12 | fashion_alpha_chicken_donate_tool_wage_tip_letter_road_plastic_protect_agent |  
+| bip_39_word_underscore_2 | fashion_alpha |  
+| bip_39_word_underscore_3 | fashion_alpha_chicken |  
+| bip_39_word_underscore_4 | fashion_alpha_chicken_donate |  
+| bip_39_word_underscore_5 | fashion_alpha_chicken_donate_tool |  
+| bip_39_word_underscore_6 | fashion_alpha_chicken_donate_tool_wage |  
+| bip_39_word_underscore_7 | fashion_alpha_chicken_donate_tool_wage_tip |  
+| bip_39_word_underscore_8 | fashion_alpha_chicken_donate_tool_wage_tip_letter |  
+| bip_39_word_underscore_9 | fashion_alpha_chicken_donate_tool_wage_tip_letter_road |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flame |  
+| bip_39_word_dash_10 | flame-orbit-monitor-fee-audit-jelly-snake-border-divorce-elite |  
+| bip_39_word_dash_11 | flame-orbit-monitor-fee-audit-jelly-snake-border-divorce-elite-forward |  
+| bip_39_word_dash_12 | flame-orbit-monitor-fee-audit-jelly-snake-border-divorce-elite-forward-ahead |  
+| bip_39_word_dash_2 | flame-orbit |  
+| bip_39_word_dash_3 | flame-orbit-monitor |  
+| bip_39_word_dash_4 | flame-orbit-monitor-fee |  
+| bip_39_word_dash_5 | flame-orbit-monitor-fee-audit |  
+| bip_39_word_dash_6 | flame-orbit-monitor-fee-audit-jelly |  
+| bip_39_word_dash_7 | flame-orbit-monitor-fee-audit-jelly-snake |  
+| bip_39_word_dash_8 | flame-orbit-monitor-fee-audit-jelly-snake-border |  
+| bip_39_word_dash_9 | flame-orbit-monitor-fee-audit-jelly-snake-border-divorce |  
 | bip_39_word_new_br_1 | flame |  
 | bip_39_word_new_br_10 | flame<br>orbit<br>monitor<br>fee<br>audit<br>jelly<br>snake<br>border<br>divorce<br>elite |  
 | bip_39_word_new_br_11 | flame<br>orbit<br>monitor<br>fee<br>audit<br>jelly<br>snake<br>border<br>divorce<br>elite<br>forward |  
@@ -147,6 +159,18 @@ divorce |
 | bip_39_word_space_7 | flame orbit monitor fee audit jelly snake |  
 | bip_39_word_space_8 | flame orbit monitor fee audit jelly snake border |  
 | bip_39_word_space_9 | flame orbit monitor fee audit jelly snake border divorce |  
+| bip_39_word_underscore_1 | flame |  
+| bip_39_word_underscore_10 | flame_orbit_monitor_fee_audit_jelly_snake_border_divorce_elite |  
+| bip_39_word_underscore_11 | flame_orbit_monitor_fee_audit_jelly_snake_border_divorce_elite_forward |  
+| bip_39_word_underscore_12 | flame_orbit_monitor_fee_audit_jelly_snake_border_divorce_elite_forward_ahead |  
+| bip_39_word_underscore_2 | flame_orbit |  
+| bip_39_word_underscore_3 | flame_orbit_monitor |  
+| bip_39_word_underscore_4 | flame_orbit_monitor_fee |  
+| bip_39_word_underscore_5 | flame_orbit_monitor_fee_audit |  
+| bip_39_word_underscore_6 | flame_orbit_monitor_fee_audit_jelly |  
+| bip_39_word_underscore_7 | flame_orbit_monitor_fee_audit_jelly_snake |  
+| bip_39_word_underscore_8 | flame_orbit_monitor_fee_audit_jelly_snake_border |  
+| bip_39_word_underscore_9 | flame_orbit_monitor_fee_audit_jelly_snake_border_divorce |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

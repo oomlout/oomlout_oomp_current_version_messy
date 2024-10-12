@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | citizen |  
+| bip_39_word_dash_10 | citizen-mammal-lounge-chunk-tray-error-captain-trend-congress-gesture |  
+| bip_39_word_dash_11 | citizen-mammal-lounge-chunk-tray-error-captain-trend-congress-gesture-cluster |  
+| bip_39_word_dash_12 | citizen-mammal-lounge-chunk-tray-error-captain-trend-congress-gesture-cluster-also |  
+| bip_39_word_dash_2 | citizen-mammal |  
+| bip_39_word_dash_3 | citizen-mammal-lounge |  
+| bip_39_word_dash_4 | citizen-mammal-lounge-chunk |  
+| bip_39_word_dash_5 | citizen-mammal-lounge-chunk-tray |  
+| bip_39_word_dash_6 | citizen-mammal-lounge-chunk-tray-error |  
+| bip_39_word_dash_7 | citizen-mammal-lounge-chunk-tray-error-captain |  
+| bip_39_word_dash_8 | citizen-mammal-lounge-chunk-tray-error-captain-trend |  
+| bip_39_word_dash_9 | citizen-mammal-lounge-chunk-tray-error-captain-trend-congress |  
 | bip_39_word_new_br_1 | citizen |  
 | bip_39_word_new_br_10 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend<br>congress<br>gesture |  
 | bip_39_word_new_br_11 | citizen<br>mammal<br>lounge<br>chunk<br>tray<br>error<br>captain<br>trend<br>congress<br>gesture<br>cluster |  
@@ -147,6 +159,18 @@ congress |
 | bip_39_word_space_7 | citizen mammal lounge chunk tray error captain |  
 | bip_39_word_space_8 | citizen mammal lounge chunk tray error captain trend |  
 | bip_39_word_space_9 | citizen mammal lounge chunk tray error captain trend congress |  
+| bip_39_word_underscore_1 | citizen |  
+| bip_39_word_underscore_10 | citizen_mammal_lounge_chunk_tray_error_captain_trend_congress_gesture |  
+| bip_39_word_underscore_11 | citizen_mammal_lounge_chunk_tray_error_captain_trend_congress_gesture_cluster |  
+| bip_39_word_underscore_12 | citizen_mammal_lounge_chunk_tray_error_captain_trend_congress_gesture_cluster_also |  
+| bip_39_word_underscore_2 | citizen_mammal |  
+| bip_39_word_underscore_3 | citizen_mammal_lounge |  
+| bip_39_word_underscore_4 | citizen_mammal_lounge_chunk |  
+| bip_39_word_underscore_5 | citizen_mammal_lounge_chunk_tray |  
+| bip_39_word_underscore_6 | citizen_mammal_lounge_chunk_tray_error |  
+| bip_39_word_underscore_7 | citizen_mammal_lounge_chunk_tray_error_captain |  
+| bip_39_word_underscore_8 | citizen_mammal_lounge_chunk_tray_error_captain_trend |  
+| bip_39_word_underscore_9 | citizen_mammal_lounge_chunk_tray_error_captain_trend_congress |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

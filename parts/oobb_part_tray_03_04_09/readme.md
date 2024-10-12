@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tired |  
+| bip_39_word_dash_10 | tired-narrow-federal-board-tongue-discover-victory-tissue-pigeon-genre |  
+| bip_39_word_dash_11 | tired-narrow-federal-board-tongue-discover-victory-tissue-pigeon-genre-cupboard |  
+| bip_39_word_dash_12 | tired-narrow-federal-board-tongue-discover-victory-tissue-pigeon-genre-cupboard-armed |  
+| bip_39_word_dash_2 | tired-narrow |  
+| bip_39_word_dash_3 | tired-narrow-federal |  
+| bip_39_word_dash_4 | tired-narrow-federal-board |  
+| bip_39_word_dash_5 | tired-narrow-federal-board-tongue |  
+| bip_39_word_dash_6 | tired-narrow-federal-board-tongue-discover |  
+| bip_39_word_dash_7 | tired-narrow-federal-board-tongue-discover-victory |  
+| bip_39_word_dash_8 | tired-narrow-federal-board-tongue-discover-victory-tissue |  
+| bip_39_word_dash_9 | tired-narrow-federal-board-tongue-discover-victory-tissue-pigeon |  
 | bip_39_word_new_br_1 | tired |  
 | bip_39_word_new_br_10 | tired<br>narrow<br>federal<br>board<br>tongue<br>discover<br>victory<br>tissue<br>pigeon<br>genre |  
 | bip_39_word_new_br_11 | tired<br>narrow<br>federal<br>board<br>tongue<br>discover<br>victory<br>tissue<br>pigeon<br>genre<br>cupboard |  
@@ -147,6 +159,18 @@ pigeon |
 | bip_39_word_space_7 | tired narrow federal board tongue discover victory |  
 | bip_39_word_space_8 | tired narrow federal board tongue discover victory tissue |  
 | bip_39_word_space_9 | tired narrow federal board tongue discover victory tissue pigeon |  
+| bip_39_word_underscore_1 | tired |  
+| bip_39_word_underscore_10 | tired_narrow_federal_board_tongue_discover_victory_tissue_pigeon_genre |  
+| bip_39_word_underscore_11 | tired_narrow_federal_board_tongue_discover_victory_tissue_pigeon_genre_cupboard |  
+| bip_39_word_underscore_12 | tired_narrow_federal_board_tongue_discover_victory_tissue_pigeon_genre_cupboard_armed |  
+| bip_39_word_underscore_2 | tired_narrow |  
+| bip_39_word_underscore_3 | tired_narrow_federal |  
+| bip_39_word_underscore_4 | tired_narrow_federal_board |  
+| bip_39_word_underscore_5 | tired_narrow_federal_board_tongue |  
+| bip_39_word_underscore_6 | tired_narrow_federal_board_tongue_discover |  
+| bip_39_word_underscore_7 | tired_narrow_federal_board_tongue_discover_victory |  
+| bip_39_word_underscore_8 | tired_narrow_federal_board_tongue_discover_victory_tissue |  
+| bip_39_word_underscore_9 | tired_narrow_federal_board_tongue_discover_victory_tissue_pigeon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

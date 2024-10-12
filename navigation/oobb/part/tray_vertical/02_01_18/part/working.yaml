@@ -1,3 +1,15 @@
+bip_39_word_dash_1: olympic
+bip_39_word_dash_10: olympic-novel-slogan-outer-tone-agree-install-squeeze-autumn-motor
+bip_39_word_dash_11: olympic-novel-slogan-outer-tone-agree-install-squeeze-autumn-motor-leave
+bip_39_word_dash_12: olympic-novel-slogan-outer-tone-agree-install-squeeze-autumn-motor-leave-april
+bip_39_word_dash_2: olympic-novel
+bip_39_word_dash_3: olympic-novel-slogan
+bip_39_word_dash_4: olympic-novel-slogan-outer
+bip_39_word_dash_5: olympic-novel-slogan-outer-tone
+bip_39_word_dash_6: olympic-novel-slogan-outer-tone-agree
+bip_39_word_dash_7: olympic-novel-slogan-outer-tone-agree-install
+bip_39_word_dash_8: olympic-novel-slogan-outer-tone-agree-install-squeeze
+bip_39_word_dash_9: olympic-novel-slogan-outer-tone-agree-install-squeeze-autumn
 bip_39_word_new_br_1: olympic
 bip_39_word_new_br_10: olympic<br>novel<br>slogan<br>outer<br>tone<br>agree<br>install<br>squeeze<br>autumn<br>motor
 bip_39_word_new_br_11: olympic<br>novel<br>slogan<br>outer<br>tone<br>agree<br>install<br>squeeze<br>autumn<br>motor<br>leave
@@ -194,6 +206,18 @@ bip_39_word_space_6: olympic novel slogan outer tone agree
 bip_39_word_space_7: olympic novel slogan outer tone agree install
 bip_39_word_space_8: olympic novel slogan outer tone agree install squeeze
 bip_39_word_space_9: olympic novel slogan outer tone agree install squeeze autumn
+bip_39_word_underscore_1: olympic
+bip_39_word_underscore_10: olympic_novel_slogan_outer_tone_agree_install_squeeze_autumn_motor
+bip_39_word_underscore_11: olympic_novel_slogan_outer_tone_agree_install_squeeze_autumn_motor_leave
+bip_39_word_underscore_12: olympic_novel_slogan_outer_tone_agree_install_squeeze_autumn_motor_leave_april
+bip_39_word_underscore_2: olympic_novel
+bip_39_word_underscore_3: olympic_novel_slogan
+bip_39_word_underscore_4: olympic_novel_slogan_outer
+bip_39_word_underscore_5: olympic_novel_slogan_outer_tone
+bip_39_word_underscore_6: olympic_novel_slogan_outer_tone_agree
+bip_39_word_underscore_7: olympic_novel_slogan_outer_tone_agree_install
+bip_39_word_underscore_8: olympic_novel_slogan_outer_tone_agree_install_squeeze
+bip_39_word_underscore_9: olympic_novel_slogan_outer_tone_agree_install_squeeze_autumn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

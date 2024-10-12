@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elbow |  
+| bip_39_word_dash_10 | elbow-clutch-you-panel-author-unaware-gather-steel-pact-early |  
+| bip_39_word_dash_11 | elbow-clutch-you-panel-author-unaware-gather-steel-pact-early-cheese |  
+| bip_39_word_dash_12 | elbow-clutch-you-panel-author-unaware-gather-steel-pact-early-cheese-address |  
+| bip_39_word_dash_2 | elbow-clutch |  
+| bip_39_word_dash_3 | elbow-clutch-you |  
+| bip_39_word_dash_4 | elbow-clutch-you-panel |  
+| bip_39_word_dash_5 | elbow-clutch-you-panel-author |  
+| bip_39_word_dash_6 | elbow-clutch-you-panel-author-unaware |  
+| bip_39_word_dash_7 | elbow-clutch-you-panel-author-unaware-gather |  
+| bip_39_word_dash_8 | elbow-clutch-you-panel-author-unaware-gather-steel |  
+| bip_39_word_dash_9 | elbow-clutch-you-panel-author-unaware-gather-steel-pact |  
 | bip_39_word_new_br_1 | elbow |  
 | bip_39_word_new_br_10 | elbow<br>clutch<br>you<br>panel<br>author<br>unaware<br>gather<br>steel<br>pact<br>early |  
 | bip_39_word_new_br_11 | elbow<br>clutch<br>you<br>panel<br>author<br>unaware<br>gather<br>steel<br>pact<br>early<br>cheese |  
@@ -147,6 +159,18 @@ pact |
 | bip_39_word_space_7 | elbow clutch you panel author unaware gather |  
 | bip_39_word_space_8 | elbow clutch you panel author unaware gather steel |  
 | bip_39_word_space_9 | elbow clutch you panel author unaware gather steel pact |  
+| bip_39_word_underscore_1 | elbow |  
+| bip_39_word_underscore_10 | elbow_clutch_you_panel_author_unaware_gather_steel_pact_early |  
+| bip_39_word_underscore_11 | elbow_clutch_you_panel_author_unaware_gather_steel_pact_early_cheese |  
+| bip_39_word_underscore_12 | elbow_clutch_you_panel_author_unaware_gather_steel_pact_early_cheese_address |  
+| bip_39_word_underscore_2 | elbow_clutch |  
+| bip_39_word_underscore_3 | elbow_clutch_you |  
+| bip_39_word_underscore_4 | elbow_clutch_you_panel |  
+| bip_39_word_underscore_5 | elbow_clutch_you_panel_author |  
+| bip_39_word_underscore_6 | elbow_clutch_you_panel_author_unaware |  
+| bip_39_word_underscore_7 | elbow_clutch_you_panel_author_unaware_gather |  
+| bip_39_word_underscore_8 | elbow_clutch_you_panel_author_unaware_gather_steel |  
+| bip_39_word_underscore_9 | elbow_clutch_you_panel_author_unaware_gather_steel_pact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

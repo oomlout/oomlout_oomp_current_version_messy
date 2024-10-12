@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | victory |  
+| bip_39_word_dash_10 | victory-sense-useless-swift-virtual-spirit-embrace-fitness-filter-drink |  
+| bip_39_word_dash_11 | victory-sense-useless-swift-virtual-spirit-embrace-fitness-filter-drink-object |  
+| bip_39_word_dash_12 | victory-sense-useless-swift-virtual-spirit-embrace-fitness-filter-drink-object-attack |  
+| bip_39_word_dash_2 | victory-sense |  
+| bip_39_word_dash_3 | victory-sense-useless |  
+| bip_39_word_dash_4 | victory-sense-useless-swift |  
+| bip_39_word_dash_5 | victory-sense-useless-swift-virtual |  
+| bip_39_word_dash_6 | victory-sense-useless-swift-virtual-spirit |  
+| bip_39_word_dash_7 | victory-sense-useless-swift-virtual-spirit-embrace |  
+| bip_39_word_dash_8 | victory-sense-useless-swift-virtual-spirit-embrace-fitness |  
+| bip_39_word_dash_9 | victory-sense-useless-swift-virtual-spirit-embrace-fitness-filter |  
 | bip_39_word_new_br_1 | victory |  
 | bip_39_word_new_br_10 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink |  
 | bip_39_word_new_br_11 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink<br>object |  
@@ -147,6 +159,18 @@ filter |
 | bip_39_word_space_7 | victory sense useless swift virtual spirit embrace |  
 | bip_39_word_space_8 | victory sense useless swift virtual spirit embrace fitness |  
 | bip_39_word_space_9 | victory sense useless swift virtual spirit embrace fitness filter |  
+| bip_39_word_underscore_1 | victory |  
+| bip_39_word_underscore_10 | victory_sense_useless_swift_virtual_spirit_embrace_fitness_filter_drink |  
+| bip_39_word_underscore_11 | victory_sense_useless_swift_virtual_spirit_embrace_fitness_filter_drink_object |  
+| bip_39_word_underscore_12 | victory_sense_useless_swift_virtual_spirit_embrace_fitness_filter_drink_object_attack |  
+| bip_39_word_underscore_2 | victory_sense |  
+| bip_39_word_underscore_3 | victory_sense_useless |  
+| bip_39_word_underscore_4 | victory_sense_useless_swift |  
+| bip_39_word_underscore_5 | victory_sense_useless_swift_virtual |  
+| bip_39_word_underscore_6 | victory_sense_useless_swift_virtual_spirit |  
+| bip_39_word_underscore_7 | victory_sense_useless_swift_virtual_spirit_embrace |  
+| bip_39_word_underscore_8 | victory_sense_useless_swift_virtual_spirit_embrace_fitness |  
+| bip_39_word_underscore_9 | victory_sense_useless_swift_virtual_spirit_embrace_fitness_filter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

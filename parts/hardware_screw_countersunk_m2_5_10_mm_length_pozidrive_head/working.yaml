@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inhale
+bip_39_word_dash_10: inhale-suggest-permit-poem-predict-deposit-hair-wine-tobacco-spy
+bip_39_word_dash_11: inhale-suggest-permit-poem-predict-deposit-hair-wine-tobacco-spy-tackle
+bip_39_word_dash_12: inhale-suggest-permit-poem-predict-deposit-hair-wine-tobacco-spy-tackle-always
+bip_39_word_dash_2: inhale-suggest
+bip_39_word_dash_3: inhale-suggest-permit
+bip_39_word_dash_4: inhale-suggest-permit-poem
+bip_39_word_dash_5: inhale-suggest-permit-poem-predict
+bip_39_word_dash_6: inhale-suggest-permit-poem-predict-deposit
+bip_39_word_dash_7: inhale-suggest-permit-poem-predict-deposit-hair
+bip_39_word_dash_8: inhale-suggest-permit-poem-predict-deposit-hair-wine
+bip_39_word_dash_9: inhale-suggest-permit-poem-predict-deposit-hair-wine-tobacco
 bip_39_word_new_br_1: inhale
 bip_39_word_new_br_10: inhale<br>suggest<br>permit<br>poem<br>predict<br>deposit<br>hair<br>wine<br>tobacco<br>spy
 bip_39_word_new_br_11: inhale<br>suggest<br>permit<br>poem<br>predict<br>deposit<br>hair<br>wine<br>tobacco<br>spy<br>tackle
@@ -194,6 +206,18 @@ bip_39_word_space_6: inhale suggest permit poem predict deposit
 bip_39_word_space_7: inhale suggest permit poem predict deposit hair
 bip_39_word_space_8: inhale suggest permit poem predict deposit hair wine
 bip_39_word_space_9: inhale suggest permit poem predict deposit hair wine tobacco
+bip_39_word_underscore_1: inhale
+bip_39_word_underscore_10: inhale_suggest_permit_poem_predict_deposit_hair_wine_tobacco_spy
+bip_39_word_underscore_11: inhale_suggest_permit_poem_predict_deposit_hair_wine_tobacco_spy_tackle
+bip_39_word_underscore_12: inhale_suggest_permit_poem_predict_deposit_hair_wine_tobacco_spy_tackle_always
+bip_39_word_underscore_2: inhale_suggest
+bip_39_word_underscore_3: inhale_suggest_permit
+bip_39_word_underscore_4: inhale_suggest_permit_poem
+bip_39_word_underscore_5: inhale_suggest_permit_poem_predict
+bip_39_word_underscore_6: inhale_suggest_permit_poem_predict_deposit
+bip_39_word_underscore_7: inhale_suggest_permit_poem_predict_deposit_hair
+bip_39_word_underscore_8: inhale_suggest_permit_poem_predict_deposit_hair_wine
+bip_39_word_underscore_9: inhale_suggest_permit_poem_predict_deposit_hair_wine_tobacco
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

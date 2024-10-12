@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blanket |  
+| bip_39_word_dash_10 | blanket-lady-pill-actress-retire-lobster-adult-cushion-quick-rely |  
+| bip_39_word_dash_11 | blanket-lady-pill-actress-retire-lobster-adult-cushion-quick-rely-orbit |  
+| bip_39_word_dash_12 | blanket-lady-pill-actress-retire-lobster-adult-cushion-quick-rely-orbit-armor |  
+| bip_39_word_dash_2 | blanket-lady |  
+| bip_39_word_dash_3 | blanket-lady-pill |  
+| bip_39_word_dash_4 | blanket-lady-pill-actress |  
+| bip_39_word_dash_5 | blanket-lady-pill-actress-retire |  
+| bip_39_word_dash_6 | blanket-lady-pill-actress-retire-lobster |  
+| bip_39_word_dash_7 | blanket-lady-pill-actress-retire-lobster-adult |  
+| bip_39_word_dash_8 | blanket-lady-pill-actress-retire-lobster-adult-cushion |  
+| bip_39_word_dash_9 | blanket-lady-pill-actress-retire-lobster-adult-cushion-quick |  
 | bip_39_word_new_br_1 | blanket |  
 | bip_39_word_new_br_10 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely |  
 | bip_39_word_new_br_11 | blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely<br>orbit |  
@@ -147,6 +159,18 @@ quick |
 | bip_39_word_space_7 | blanket lady pill actress retire lobster adult |  
 | bip_39_word_space_8 | blanket lady pill actress retire lobster adult cushion |  
 | bip_39_word_space_9 | blanket lady pill actress retire lobster adult cushion quick |  
+| bip_39_word_underscore_1 | blanket |  
+| bip_39_word_underscore_10 | blanket_lady_pill_actress_retire_lobster_adult_cushion_quick_rely |  
+| bip_39_word_underscore_11 | blanket_lady_pill_actress_retire_lobster_adult_cushion_quick_rely_orbit |  
+| bip_39_word_underscore_12 | blanket_lady_pill_actress_retire_lobster_adult_cushion_quick_rely_orbit_armor |  
+| bip_39_word_underscore_2 | blanket_lady |  
+| bip_39_word_underscore_3 | blanket_lady_pill |  
+| bip_39_word_underscore_4 | blanket_lady_pill_actress |  
+| bip_39_word_underscore_5 | blanket_lady_pill_actress_retire |  
+| bip_39_word_underscore_6 | blanket_lady_pill_actress_retire_lobster |  
+| bip_39_word_underscore_7 | blanket_lady_pill_actress_retire_lobster_adult |  
+| bip_39_word_underscore_8 | blanket_lady_pill_actress_retire_lobster_adult_cushion |  
+| bip_39_word_underscore_9 | blanket_lady_pill_actress_retire_lobster_adult_cushion_quick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

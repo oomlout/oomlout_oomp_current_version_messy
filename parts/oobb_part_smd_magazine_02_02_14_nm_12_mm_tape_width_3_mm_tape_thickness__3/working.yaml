@@ -1,3 +1,15 @@
+bip_39_word_dash_1: apple
+bip_39_word_dash_10: apple-bonus-blame-leopard-winter-prevent-mercy-south-clean-glimpse
+bip_39_word_dash_11: apple-bonus-blame-leopard-winter-prevent-mercy-south-clean-glimpse-narrow
+bip_39_word_dash_12: apple-bonus-blame-leopard-winter-prevent-mercy-south-clean-glimpse-narrow-asset
+bip_39_word_dash_2: apple-bonus
+bip_39_word_dash_3: apple-bonus-blame
+bip_39_word_dash_4: apple-bonus-blame-leopard
+bip_39_word_dash_5: apple-bonus-blame-leopard-winter
+bip_39_word_dash_6: apple-bonus-blame-leopard-winter-prevent
+bip_39_word_dash_7: apple-bonus-blame-leopard-winter-prevent-mercy
+bip_39_word_dash_8: apple-bonus-blame-leopard-winter-prevent-mercy-south
+bip_39_word_dash_9: apple-bonus-blame-leopard-winter-prevent-mercy-south-clean
 bip_39_word_new_br_1: apple
 bip_39_word_new_br_10: apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south<br>clean<br>glimpse
 bip_39_word_new_br_11: apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south<br>clean<br>glimpse<br>narrow
@@ -193,6 +205,18 @@ bip_39_word_space_6: apple bonus blame leopard winter prevent
 bip_39_word_space_7: apple bonus blame leopard winter prevent mercy
 bip_39_word_space_8: apple bonus blame leopard winter prevent mercy south
 bip_39_word_space_9: apple bonus blame leopard winter prevent mercy south clean
+bip_39_word_underscore_1: apple
+bip_39_word_underscore_10: apple_bonus_blame_leopard_winter_prevent_mercy_south_clean_glimpse
+bip_39_word_underscore_11: apple_bonus_blame_leopard_winter_prevent_mercy_south_clean_glimpse_narrow
+bip_39_word_underscore_12: apple_bonus_blame_leopard_winter_prevent_mercy_south_clean_glimpse_narrow_asset
+bip_39_word_underscore_2: apple_bonus
+bip_39_word_underscore_3: apple_bonus_blame
+bip_39_word_underscore_4: apple_bonus_blame_leopard
+bip_39_word_underscore_5: apple_bonus_blame_leopard_winter
+bip_39_word_underscore_6: apple_bonus_blame_leopard_winter_prevent
+bip_39_word_underscore_7: apple_bonus_blame_leopard_winter_prevent_mercy
+bip_39_word_underscore_8: apple_bonus_blame_leopard_winter_prevent_mercy_south
+bip_39_word_underscore_9: apple_bonus_blame_leopard_winter_prevent_mercy_south_clean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

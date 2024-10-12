@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rocket |  
+| bip_39_word_dash_10 | rocket-yellow-minor-solar-answer-humor-gauge-mutual-cool-vast |  
+| bip_39_word_dash_11 | rocket-yellow-minor-solar-answer-humor-gauge-mutual-cool-vast-insect |  
+| bip_39_word_dash_12 | rocket-yellow-minor-solar-answer-humor-gauge-mutual-cool-vast-insect-apology |  
+| bip_39_word_dash_2 | rocket-yellow |  
+| bip_39_word_dash_3 | rocket-yellow-minor |  
+| bip_39_word_dash_4 | rocket-yellow-minor-solar |  
+| bip_39_word_dash_5 | rocket-yellow-minor-solar-answer |  
+| bip_39_word_dash_6 | rocket-yellow-minor-solar-answer-humor |  
+| bip_39_word_dash_7 | rocket-yellow-minor-solar-answer-humor-gauge |  
+| bip_39_word_dash_8 | rocket-yellow-minor-solar-answer-humor-gauge-mutual |  
+| bip_39_word_dash_9 | rocket-yellow-minor-solar-answer-humor-gauge-mutual-cool |  
 | bip_39_word_new_br_1 | rocket |  
 | bip_39_word_new_br_10 | rocket<br>yellow<br>minor<br>solar<br>answer<br>humor<br>gauge<br>mutual<br>cool<br>vast |  
 | bip_39_word_new_br_11 | rocket<br>yellow<br>minor<br>solar<br>answer<br>humor<br>gauge<br>mutual<br>cool<br>vast<br>insect |  
@@ -147,6 +159,18 @@ cool |
 | bip_39_word_space_7 | rocket yellow minor solar answer humor gauge |  
 | bip_39_word_space_8 | rocket yellow minor solar answer humor gauge mutual |  
 | bip_39_word_space_9 | rocket yellow minor solar answer humor gauge mutual cool |  
+| bip_39_word_underscore_1 | rocket |  
+| bip_39_word_underscore_10 | rocket_yellow_minor_solar_answer_humor_gauge_mutual_cool_vast |  
+| bip_39_word_underscore_11 | rocket_yellow_minor_solar_answer_humor_gauge_mutual_cool_vast_insect |  
+| bip_39_word_underscore_12 | rocket_yellow_minor_solar_answer_humor_gauge_mutual_cool_vast_insect_apology |  
+| bip_39_word_underscore_2 | rocket_yellow |  
+| bip_39_word_underscore_3 | rocket_yellow_minor |  
+| bip_39_word_underscore_4 | rocket_yellow_minor_solar |  
+| bip_39_word_underscore_5 | rocket_yellow_minor_solar_answer |  
+| bip_39_word_underscore_6 | rocket_yellow_minor_solar_answer_humor |  
+| bip_39_word_underscore_7 | rocket_yellow_minor_solar_answer_humor_gauge |  
+| bip_39_word_underscore_8 | rocket_yellow_minor_solar_answer_humor_gauge_mutual |  
+| bip_39_word_underscore_9 | rocket_yellow_minor_solar_answer_humor_gauge_mutual_cool |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

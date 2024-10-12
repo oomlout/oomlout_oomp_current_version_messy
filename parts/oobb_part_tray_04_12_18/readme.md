@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quiz |  
+| bip_39_word_dash_10 | quiz-ice-theme-miss-travel-mango-leave-barrel-spread-organ |  
+| bip_39_word_dash_11 | quiz-ice-theme-miss-travel-mango-leave-barrel-spread-organ-equip |  
+| bip_39_word_dash_12 | quiz-ice-theme-miss-travel-mango-leave-barrel-spread-organ-equip-arm |  
+| bip_39_word_dash_2 | quiz-ice |  
+| bip_39_word_dash_3 | quiz-ice-theme |  
+| bip_39_word_dash_4 | quiz-ice-theme-miss |  
+| bip_39_word_dash_5 | quiz-ice-theme-miss-travel |  
+| bip_39_word_dash_6 | quiz-ice-theme-miss-travel-mango |  
+| bip_39_word_dash_7 | quiz-ice-theme-miss-travel-mango-leave |  
+| bip_39_word_dash_8 | quiz-ice-theme-miss-travel-mango-leave-barrel |  
+| bip_39_word_dash_9 | quiz-ice-theme-miss-travel-mango-leave-barrel-spread |  
 | bip_39_word_new_br_1 | quiz |  
 | bip_39_word_new_br_10 | quiz<br>ice<br>theme<br>miss<br>travel<br>mango<br>leave<br>barrel<br>spread<br>organ |  
 | bip_39_word_new_br_11 | quiz<br>ice<br>theme<br>miss<br>travel<br>mango<br>leave<br>barrel<br>spread<br>organ<br>equip |  
@@ -147,6 +159,18 @@ spread |
 | bip_39_word_space_7 | quiz ice theme miss travel mango leave |  
 | bip_39_word_space_8 | quiz ice theme miss travel mango leave barrel |  
 | bip_39_word_space_9 | quiz ice theme miss travel mango leave barrel spread |  
+| bip_39_word_underscore_1 | quiz |  
+| bip_39_word_underscore_10 | quiz_ice_theme_miss_travel_mango_leave_barrel_spread_organ |  
+| bip_39_word_underscore_11 | quiz_ice_theme_miss_travel_mango_leave_barrel_spread_organ_equip |  
+| bip_39_word_underscore_12 | quiz_ice_theme_miss_travel_mango_leave_barrel_spread_organ_equip_arm |  
+| bip_39_word_underscore_2 | quiz_ice |  
+| bip_39_word_underscore_3 | quiz_ice_theme |  
+| bip_39_word_underscore_4 | quiz_ice_theme_miss |  
+| bip_39_word_underscore_5 | quiz_ice_theme_miss_travel |  
+| bip_39_word_underscore_6 | quiz_ice_theme_miss_travel_mango |  
+| bip_39_word_underscore_7 | quiz_ice_theme_miss_travel_mango_leave |  
+| bip_39_word_underscore_8 | quiz_ice_theme_miss_travel_mango_leave_barrel |  
+| bip_39_word_underscore_9 | quiz_ice_theme_miss_travel_mango_leave_barrel_spread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

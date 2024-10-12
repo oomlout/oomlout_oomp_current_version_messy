@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dress
+bip_39_word_dash_10: dress-razor-prefer-athlete-disagree-fury-dismiss-unknown-adjust-salute
+bip_39_word_dash_11: dress-razor-prefer-athlete-disagree-fury-dismiss-unknown-adjust-salute-accident
+bip_39_word_dash_12: dress-razor-prefer-athlete-disagree-fury-dismiss-unknown-adjust-salute-accident-avocado
+bip_39_word_dash_2: dress-razor
+bip_39_word_dash_3: dress-razor-prefer
+bip_39_word_dash_4: dress-razor-prefer-athlete
+bip_39_word_dash_5: dress-razor-prefer-athlete-disagree
+bip_39_word_dash_6: dress-razor-prefer-athlete-disagree-fury
+bip_39_word_dash_7: dress-razor-prefer-athlete-disagree-fury-dismiss
+bip_39_word_dash_8: dress-razor-prefer-athlete-disagree-fury-dismiss-unknown
+bip_39_word_dash_9: dress-razor-prefer-athlete-disagree-fury-dismiss-unknown-adjust
 bip_39_word_new_br_1: dress
 bip_39_word_new_br_10: dress<br>razor<br>prefer<br>athlete<br>disagree<br>fury<br>dismiss<br>unknown<br>adjust<br>salute
 bip_39_word_new_br_11: dress<br>razor<br>prefer<br>athlete<br>disagree<br>fury<br>dismiss<br>unknown<br>adjust<br>salute<br>accident
@@ -194,6 +206,18 @@ bip_39_word_space_6: dress razor prefer athlete disagree fury
 bip_39_word_space_7: dress razor prefer athlete disagree fury dismiss
 bip_39_word_space_8: dress razor prefer athlete disagree fury dismiss unknown
 bip_39_word_space_9: dress razor prefer athlete disagree fury dismiss unknown adjust
+bip_39_word_underscore_1: dress
+bip_39_word_underscore_10: dress_razor_prefer_athlete_disagree_fury_dismiss_unknown_adjust_salute
+bip_39_word_underscore_11: dress_razor_prefer_athlete_disagree_fury_dismiss_unknown_adjust_salute_accident
+bip_39_word_underscore_12: dress_razor_prefer_athlete_disagree_fury_dismiss_unknown_adjust_salute_accident_avocado
+bip_39_word_underscore_2: dress_razor
+bip_39_word_underscore_3: dress_razor_prefer
+bip_39_word_underscore_4: dress_razor_prefer_athlete
+bip_39_word_underscore_5: dress_razor_prefer_athlete_disagree
+bip_39_word_underscore_6: dress_razor_prefer_athlete_disagree_fury
+bip_39_word_underscore_7: dress_razor_prefer_athlete_disagree_fury_dismiss
+bip_39_word_underscore_8: dress_razor_prefer_athlete_disagree_fury_dismiss_unknown
+bip_39_word_underscore_9: dress_razor_prefer_athlete_disagree_fury_dismiss_unknown_adjust
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

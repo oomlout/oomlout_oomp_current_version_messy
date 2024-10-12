@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | engine |  
+| bip_39_word_dash_10 | engine-royal-awesome-vocal-margin-expose-beauty-three-choice-have |  
+| bip_39_word_dash_11 | engine-royal-awesome-vocal-margin-expose-beauty-three-choice-have-truly |  
+| bip_39_word_dash_12 | engine-royal-awesome-vocal-margin-expose-beauty-three-choice-have-truly-arrest |  
+| bip_39_word_dash_2 | engine-royal |  
+| bip_39_word_dash_3 | engine-royal-awesome |  
+| bip_39_word_dash_4 | engine-royal-awesome-vocal |  
+| bip_39_word_dash_5 | engine-royal-awesome-vocal-margin |  
+| bip_39_word_dash_6 | engine-royal-awesome-vocal-margin-expose |  
+| bip_39_word_dash_7 | engine-royal-awesome-vocal-margin-expose-beauty |  
+| bip_39_word_dash_8 | engine-royal-awesome-vocal-margin-expose-beauty-three |  
+| bip_39_word_dash_9 | engine-royal-awesome-vocal-margin-expose-beauty-three-choice |  
 | bip_39_word_new_br_1 | engine |  
 | bip_39_word_new_br_10 | engine<br>royal<br>awesome<br>vocal<br>margin<br>expose<br>beauty<br>three<br>choice<br>have |  
 | bip_39_word_new_br_11 | engine<br>royal<br>awesome<br>vocal<br>margin<br>expose<br>beauty<br>three<br>choice<br>have<br>truly |  
@@ -147,6 +159,18 @@ choice |
 | bip_39_word_space_7 | engine royal awesome vocal margin expose beauty |  
 | bip_39_word_space_8 | engine royal awesome vocal margin expose beauty three |  
 | bip_39_word_space_9 | engine royal awesome vocal margin expose beauty three choice |  
+| bip_39_word_underscore_1 | engine |  
+| bip_39_word_underscore_10 | engine_royal_awesome_vocal_margin_expose_beauty_three_choice_have |  
+| bip_39_word_underscore_11 | engine_royal_awesome_vocal_margin_expose_beauty_three_choice_have_truly |  
+| bip_39_word_underscore_12 | engine_royal_awesome_vocal_margin_expose_beauty_three_choice_have_truly_arrest |  
+| bip_39_word_underscore_2 | engine_royal |  
+| bip_39_word_underscore_3 | engine_royal_awesome |  
+| bip_39_word_underscore_4 | engine_royal_awesome_vocal |  
+| bip_39_word_underscore_5 | engine_royal_awesome_vocal_margin |  
+| bip_39_word_underscore_6 | engine_royal_awesome_vocal_margin_expose |  
+| bip_39_word_underscore_7 | engine_royal_awesome_vocal_margin_expose_beauty |  
+| bip_39_word_underscore_8 | engine_royal_awesome_vocal_margin_expose_beauty_three |  
+| bip_39_word_underscore_9 | engine_royal_awesome_vocal_margin_expose_beauty_three_choice |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

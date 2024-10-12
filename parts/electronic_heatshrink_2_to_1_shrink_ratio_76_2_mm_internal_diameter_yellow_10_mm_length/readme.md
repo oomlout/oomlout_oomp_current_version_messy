@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coffee |  
+| bip_39_word_dash_10 | coffee-before-arm-solid-alter-below-visual-festival-goat-rookie |  
+| bip_39_word_dash_11 | coffee-before-arm-solid-alter-below-visual-festival-goat-rookie-silent |  
+| bip_39_word_dash_12 | coffee-before-arm-solid-alter-below-visual-festival-goat-rookie-silent-anchor |  
+| bip_39_word_dash_2 | coffee-before |  
+| bip_39_word_dash_3 | coffee-before-arm |  
+| bip_39_word_dash_4 | coffee-before-arm-solid |  
+| bip_39_word_dash_5 | coffee-before-arm-solid-alter |  
+| bip_39_word_dash_6 | coffee-before-arm-solid-alter-below |  
+| bip_39_word_dash_7 | coffee-before-arm-solid-alter-below-visual |  
+| bip_39_word_dash_8 | coffee-before-arm-solid-alter-below-visual-festival |  
+| bip_39_word_dash_9 | coffee-before-arm-solid-alter-below-visual-festival-goat |  
 | bip_39_word_new_br_1 | coffee |  
 | bip_39_word_new_br_10 | coffee<br>before<br>arm<br>solid<br>alter<br>below<br>visual<br>festival<br>goat<br>rookie |  
 | bip_39_word_new_br_11 | coffee<br>before<br>arm<br>solid<br>alter<br>below<br>visual<br>festival<br>goat<br>rookie<br>silent |  
@@ -147,6 +159,18 @@ goat |
 | bip_39_word_space_7 | coffee before arm solid alter below visual |  
 | bip_39_word_space_8 | coffee before arm solid alter below visual festival |  
 | bip_39_word_space_9 | coffee before arm solid alter below visual festival goat |  
+| bip_39_word_underscore_1 | coffee |  
+| bip_39_word_underscore_10 | coffee_before_arm_solid_alter_below_visual_festival_goat_rookie |  
+| bip_39_word_underscore_11 | coffee_before_arm_solid_alter_below_visual_festival_goat_rookie_silent |  
+| bip_39_word_underscore_12 | coffee_before_arm_solid_alter_below_visual_festival_goat_rookie_silent_anchor |  
+| bip_39_word_underscore_2 | coffee_before |  
+| bip_39_word_underscore_3 | coffee_before_arm |  
+| bip_39_word_underscore_4 | coffee_before_arm_solid |  
+| bip_39_word_underscore_5 | coffee_before_arm_solid_alter |  
+| bip_39_word_underscore_6 | coffee_before_arm_solid_alter_below |  
+| bip_39_word_underscore_7 | coffee_before_arm_solid_alter_below_visual |  
+| bip_39_word_underscore_8 | coffee_before_arm_solid_alter_below_visual_festival |  
+| bip_39_word_underscore_9 | coffee_before_arm_solid_alter_below_visual_festival_goat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

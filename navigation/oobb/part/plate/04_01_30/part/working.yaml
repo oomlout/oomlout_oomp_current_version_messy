@@ -1,3 +1,15 @@
+bip_39_word_dash_1: banner
+bip_39_word_dash_10: banner-polar-knee-flight-maid-rhythm-dolphin-pear-antenna-horn
+bip_39_word_dash_11: banner-polar-knee-flight-maid-rhythm-dolphin-pear-antenna-horn-lobster
+bip_39_word_dash_12: banner-polar-knee-flight-maid-rhythm-dolphin-pear-antenna-horn-lobster-ankle
+bip_39_word_dash_2: banner-polar
+bip_39_word_dash_3: banner-polar-knee
+bip_39_word_dash_4: banner-polar-knee-flight
+bip_39_word_dash_5: banner-polar-knee-flight-maid
+bip_39_word_dash_6: banner-polar-knee-flight-maid-rhythm
+bip_39_word_dash_7: banner-polar-knee-flight-maid-rhythm-dolphin
+bip_39_word_dash_8: banner-polar-knee-flight-maid-rhythm-dolphin-pear
+bip_39_word_dash_9: banner-polar-knee-flight-maid-rhythm-dolphin-pear-antenna
 bip_39_word_new_br_1: banner
 bip_39_word_new_br_10: banner<br>polar<br>knee<br>flight<br>maid<br>rhythm<br>dolphin<br>pear<br>antenna<br>horn
 bip_39_word_new_br_11: banner<br>polar<br>knee<br>flight<br>maid<br>rhythm<br>dolphin<br>pear<br>antenna<br>horn<br>lobster
@@ -193,6 +205,18 @@ bip_39_word_space_6: banner polar knee flight maid rhythm
 bip_39_word_space_7: banner polar knee flight maid rhythm dolphin
 bip_39_word_space_8: banner polar knee flight maid rhythm dolphin pear
 bip_39_word_space_9: banner polar knee flight maid rhythm dolphin pear antenna
+bip_39_word_underscore_1: banner
+bip_39_word_underscore_10: banner_polar_knee_flight_maid_rhythm_dolphin_pear_antenna_horn
+bip_39_word_underscore_11: banner_polar_knee_flight_maid_rhythm_dolphin_pear_antenna_horn_lobster
+bip_39_word_underscore_12: banner_polar_knee_flight_maid_rhythm_dolphin_pear_antenna_horn_lobster_ankle
+bip_39_word_underscore_2: banner_polar
+bip_39_word_underscore_3: banner_polar_knee
+bip_39_word_underscore_4: banner_polar_knee_flight
+bip_39_word_underscore_5: banner_polar_knee_flight_maid
+bip_39_word_underscore_6: banner_polar_knee_flight_maid_rhythm
+bip_39_word_underscore_7: banner_polar_knee_flight_maid_rhythm_dolphin
+bip_39_word_underscore_8: banner_polar_knee_flight_maid_rhythm_dolphin_pear
+bip_39_word_underscore_9: banner_polar_knee_flight_maid_rhythm_dolphin_pear_antenna
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

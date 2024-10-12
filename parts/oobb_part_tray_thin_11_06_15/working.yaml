@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bulb
+bip_39_word_dash_10: bulb-label-core-jewel-kit-old-home-broom-inject-senior
+bip_39_word_dash_11: bulb-label-core-jewel-kit-old-home-broom-inject-senior-draft
+bip_39_word_dash_12: bulb-label-core-jewel-kit-old-home-broom-inject-senior-draft-absorb
+bip_39_word_dash_2: bulb-label
+bip_39_word_dash_3: bulb-label-core
+bip_39_word_dash_4: bulb-label-core-jewel
+bip_39_word_dash_5: bulb-label-core-jewel-kit
+bip_39_word_dash_6: bulb-label-core-jewel-kit-old
+bip_39_word_dash_7: bulb-label-core-jewel-kit-old-home
+bip_39_word_dash_8: bulb-label-core-jewel-kit-old-home-broom
+bip_39_word_dash_9: bulb-label-core-jewel-kit-old-home-broom-inject
 bip_39_word_new_br_1: bulb
 bip_39_word_new_br_10: bulb<br>label<br>core<br>jewel<br>kit<br>old<br>home<br>broom<br>inject<br>senior
 bip_39_word_new_br_11: bulb<br>label<br>core<br>jewel<br>kit<br>old<br>home<br>broom<br>inject<br>senior<br>draft
@@ -192,6 +204,18 @@ bip_39_word_space_6: bulb label core jewel kit old
 bip_39_word_space_7: bulb label core jewel kit old home
 bip_39_word_space_8: bulb label core jewel kit old home broom
 bip_39_word_space_9: bulb label core jewel kit old home broom inject
+bip_39_word_underscore_1: bulb
+bip_39_word_underscore_10: bulb_label_core_jewel_kit_old_home_broom_inject_senior
+bip_39_word_underscore_11: bulb_label_core_jewel_kit_old_home_broom_inject_senior_draft
+bip_39_word_underscore_12: bulb_label_core_jewel_kit_old_home_broom_inject_senior_draft_absorb
+bip_39_word_underscore_2: bulb_label
+bip_39_word_underscore_3: bulb_label_core
+bip_39_word_underscore_4: bulb_label_core_jewel
+bip_39_word_underscore_5: bulb_label_core_jewel_kit
+bip_39_word_underscore_6: bulb_label_core_jewel_kit_old
+bip_39_word_underscore_7: bulb_label_core_jewel_kit_old_home
+bip_39_word_underscore_8: bulb_label_core_jewel_kit_old_home_broom
+bip_39_word_underscore_9: bulb_label_core_jewel_kit_old_home_broom_inject
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

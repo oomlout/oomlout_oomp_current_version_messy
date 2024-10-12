@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | surface |  
+| bip_39_word_dash_10 | surface-brass-scissors-duty-ticket-initial-auction-patch-cousin-tiger |  
+| bip_39_word_dash_11 | surface-brass-scissors-duty-ticket-initial-auction-patch-cousin-tiger-work |  
+| bip_39_word_dash_12 | surface-brass-scissors-duty-ticket-initial-auction-patch-cousin-tiger-work-auction |  
+| bip_39_word_dash_2 | surface-brass |  
+| bip_39_word_dash_3 | surface-brass-scissors |  
+| bip_39_word_dash_4 | surface-brass-scissors-duty |  
+| bip_39_word_dash_5 | surface-brass-scissors-duty-ticket |  
+| bip_39_word_dash_6 | surface-brass-scissors-duty-ticket-initial |  
+| bip_39_word_dash_7 | surface-brass-scissors-duty-ticket-initial-auction |  
+| bip_39_word_dash_8 | surface-brass-scissors-duty-ticket-initial-auction-patch |  
+| bip_39_word_dash_9 | surface-brass-scissors-duty-ticket-initial-auction-patch-cousin |  
 | bip_39_word_new_br_1 | surface |  
 | bip_39_word_new_br_10 | surface<br>brass<br>scissors<br>duty<br>ticket<br>initial<br>auction<br>patch<br>cousin<br>tiger |  
 | bip_39_word_new_br_11 | surface<br>brass<br>scissors<br>duty<br>ticket<br>initial<br>auction<br>patch<br>cousin<br>tiger<br>work |  
@@ -147,6 +159,18 @@ cousin |
 | bip_39_word_space_7 | surface brass scissors duty ticket initial auction |  
 | bip_39_word_space_8 | surface brass scissors duty ticket initial auction patch |  
 | bip_39_word_space_9 | surface brass scissors duty ticket initial auction patch cousin |  
+| bip_39_word_underscore_1 | surface |  
+| bip_39_word_underscore_10 | surface_brass_scissors_duty_ticket_initial_auction_patch_cousin_tiger |  
+| bip_39_word_underscore_11 | surface_brass_scissors_duty_ticket_initial_auction_patch_cousin_tiger_work |  
+| bip_39_word_underscore_12 | surface_brass_scissors_duty_ticket_initial_auction_patch_cousin_tiger_work_auction |  
+| bip_39_word_underscore_2 | surface_brass |  
+| bip_39_word_underscore_3 | surface_brass_scissors |  
+| bip_39_word_underscore_4 | surface_brass_scissors_duty |  
+| bip_39_word_underscore_5 | surface_brass_scissors_duty_ticket |  
+| bip_39_word_underscore_6 | surface_brass_scissors_duty_ticket_initial |  
+| bip_39_word_underscore_7 | surface_brass_scissors_duty_ticket_initial_auction |  
+| bip_39_word_underscore_8 | surface_brass_scissors_duty_ticket_initial_auction_patch |  
+| bip_39_word_underscore_9 | surface_brass_scissors_duty_ticket_initial_auction_patch_cousin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

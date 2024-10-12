@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | few |  
+| bip_39_word_dash_10 | few-february-winter-cement-stable-salmon-also-suspect-about-column |  
+| bip_39_word_dash_11 | few-february-winter-cement-stable-salmon-also-suspect-about-column-dragon |  
+| bip_39_word_dash_12 | few-february-winter-cement-stable-salmon-also-suspect-about-column-dragon-august |  
+| bip_39_word_dash_2 | few-february |  
+| bip_39_word_dash_3 | few-february-winter |  
+| bip_39_word_dash_4 | few-february-winter-cement |  
+| bip_39_word_dash_5 | few-february-winter-cement-stable |  
+| bip_39_word_dash_6 | few-february-winter-cement-stable-salmon |  
+| bip_39_word_dash_7 | few-february-winter-cement-stable-salmon-also |  
+| bip_39_word_dash_8 | few-february-winter-cement-stable-salmon-also-suspect |  
+| bip_39_word_dash_9 | few-february-winter-cement-stable-salmon-also-suspect-about |  
 | bip_39_word_new_br_1 | few |  
 | bip_39_word_new_br_10 | few<br>february<br>winter<br>cement<br>stable<br>salmon<br>also<br>suspect<br>about<br>column |  
 | bip_39_word_new_br_11 | few<br>february<br>winter<br>cement<br>stable<br>salmon<br>also<br>suspect<br>about<br>column<br>dragon |  
@@ -147,6 +159,18 @@ about |
 | bip_39_word_space_7 | few february winter cement stable salmon also |  
 | bip_39_word_space_8 | few february winter cement stable salmon also suspect |  
 | bip_39_word_space_9 | few february winter cement stable salmon also suspect about |  
+| bip_39_word_underscore_1 | few |  
+| bip_39_word_underscore_10 | few_february_winter_cement_stable_salmon_also_suspect_about_column |  
+| bip_39_word_underscore_11 | few_february_winter_cement_stable_salmon_also_suspect_about_column_dragon |  
+| bip_39_word_underscore_12 | few_february_winter_cement_stable_salmon_also_suspect_about_column_dragon_august |  
+| bip_39_word_underscore_2 | few_february |  
+| bip_39_word_underscore_3 | few_february_winter |  
+| bip_39_word_underscore_4 | few_february_winter_cement |  
+| bip_39_word_underscore_5 | few_february_winter_cement_stable |  
+| bip_39_word_underscore_6 | few_february_winter_cement_stable_salmon |  
+| bip_39_word_underscore_7 | few_february_winter_cement_stable_salmon_also |  
+| bip_39_word_underscore_8 | few_february_winter_cement_stable_salmon_also_suspect |  
+| bip_39_word_underscore_9 | few_february_winter_cement_stable_salmon_also_suspect_about |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

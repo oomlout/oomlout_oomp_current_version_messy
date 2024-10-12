@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enforce |  
+| bip_39_word_dash_10 | enforce-swallow-category-skull-panther-law-hope-federal-teach-noodle |  
+| bip_39_word_dash_11 | enforce-swallow-category-skull-panther-law-hope-federal-teach-noodle-buzz |  
+| bip_39_word_dash_12 | enforce-swallow-category-skull-panther-law-hope-federal-teach-noodle-buzz-actress |  
+| bip_39_word_dash_2 | enforce-swallow |  
+| bip_39_word_dash_3 | enforce-swallow-category |  
+| bip_39_word_dash_4 | enforce-swallow-category-skull |  
+| bip_39_word_dash_5 | enforce-swallow-category-skull-panther |  
+| bip_39_word_dash_6 | enforce-swallow-category-skull-panther-law |  
+| bip_39_word_dash_7 | enforce-swallow-category-skull-panther-law-hope |  
+| bip_39_word_dash_8 | enforce-swallow-category-skull-panther-law-hope-federal |  
+| bip_39_word_dash_9 | enforce-swallow-category-skull-panther-law-hope-federal-teach |  
 | bip_39_word_new_br_1 | enforce |  
 | bip_39_word_new_br_10 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle |  
 | bip_39_word_new_br_11 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle<br>buzz |  
@@ -147,6 +159,18 @@ teach |
 | bip_39_word_space_7 | enforce swallow category skull panther law hope |  
 | bip_39_word_space_8 | enforce swallow category skull panther law hope federal |  
 | bip_39_word_space_9 | enforce swallow category skull panther law hope federal teach |  
+| bip_39_word_underscore_1 | enforce |  
+| bip_39_word_underscore_10 | enforce_swallow_category_skull_panther_law_hope_federal_teach_noodle |  
+| bip_39_word_underscore_11 | enforce_swallow_category_skull_panther_law_hope_federal_teach_noodle_buzz |  
+| bip_39_word_underscore_12 | enforce_swallow_category_skull_panther_law_hope_federal_teach_noodle_buzz_actress |  
+| bip_39_word_underscore_2 | enforce_swallow |  
+| bip_39_word_underscore_3 | enforce_swallow_category |  
+| bip_39_word_underscore_4 | enforce_swallow_category_skull |  
+| bip_39_word_underscore_5 | enforce_swallow_category_skull_panther |  
+| bip_39_word_underscore_6 | enforce_swallow_category_skull_panther_law |  
+| bip_39_word_underscore_7 | enforce_swallow_category_skull_panther_law_hope |  
+| bip_39_word_underscore_8 | enforce_swallow_category_skull_panther_law_hope_federal |  
+| bip_39_word_underscore_9 | enforce_swallow_category_skull_panther_law_hope_federal_teach |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

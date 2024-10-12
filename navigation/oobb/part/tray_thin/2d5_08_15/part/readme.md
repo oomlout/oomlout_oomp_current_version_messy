@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lift |  
+| bip_39_word_dash_10 | lift-fold-clerk-peace-pizza-forum-wreck-assist-viable-walk |  
+| bip_39_word_dash_11 | lift-fold-clerk-peace-pizza-forum-wreck-assist-viable-walk-tuition |  
+| bip_39_word_dash_12 | lift-fold-clerk-peace-pizza-forum-wreck-assist-viable-walk-tuition-asthma |  
+| bip_39_word_dash_2 | lift-fold |  
+| bip_39_word_dash_3 | lift-fold-clerk |  
+| bip_39_word_dash_4 | lift-fold-clerk-peace |  
+| bip_39_word_dash_5 | lift-fold-clerk-peace-pizza |  
+| bip_39_word_dash_6 | lift-fold-clerk-peace-pizza-forum |  
+| bip_39_word_dash_7 | lift-fold-clerk-peace-pizza-forum-wreck |  
+| bip_39_word_dash_8 | lift-fold-clerk-peace-pizza-forum-wreck-assist |  
+| bip_39_word_dash_9 | lift-fold-clerk-peace-pizza-forum-wreck-assist-viable |  
 | bip_39_word_new_br_1 | lift |  
 | bip_39_word_new_br_10 | lift<br>fold<br>clerk<br>peace<br>pizza<br>forum<br>wreck<br>assist<br>viable<br>walk |  
 | bip_39_word_new_br_11 | lift<br>fold<br>clerk<br>peace<br>pizza<br>forum<br>wreck<br>assist<br>viable<br>walk<br>tuition |  
@@ -147,6 +159,18 @@ viable |
 | bip_39_word_space_7 | lift fold clerk peace pizza forum wreck |  
 | bip_39_word_space_8 | lift fold clerk peace pizza forum wreck assist |  
 | bip_39_word_space_9 | lift fold clerk peace pizza forum wreck assist viable |  
+| bip_39_word_underscore_1 | lift |  
+| bip_39_word_underscore_10 | lift_fold_clerk_peace_pizza_forum_wreck_assist_viable_walk |  
+| bip_39_word_underscore_11 | lift_fold_clerk_peace_pizza_forum_wreck_assist_viable_walk_tuition |  
+| bip_39_word_underscore_12 | lift_fold_clerk_peace_pizza_forum_wreck_assist_viable_walk_tuition_asthma |  
+| bip_39_word_underscore_2 | lift_fold |  
+| bip_39_word_underscore_3 | lift_fold_clerk |  
+| bip_39_word_underscore_4 | lift_fold_clerk_peace |  
+| bip_39_word_underscore_5 | lift_fold_clerk_peace_pizza |  
+| bip_39_word_underscore_6 | lift_fold_clerk_peace_pizza_forum |  
+| bip_39_word_underscore_7 | lift_fold_clerk_peace_pizza_forum_wreck |  
+| bip_39_word_underscore_8 | lift_fold_clerk_peace_pizza_forum_wreck_assist |  
+| bip_39_word_underscore_9 | lift_fold_clerk_peace_pizza_forum_wreck_assist_viable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

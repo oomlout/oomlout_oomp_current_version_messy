@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | repeat |  
+| bip_39_word_dash_10 | repeat-trip-concert-nuclear-truth-lens-sound-page-olympic-name |  
+| bip_39_word_dash_11 | repeat-trip-concert-nuclear-truth-lens-sound-page-olympic-name-small |  
+| bip_39_word_dash_12 | repeat-trip-concert-nuclear-truth-lens-sound-page-olympic-name-small-air |  
+| bip_39_word_dash_2 | repeat-trip |  
+| bip_39_word_dash_3 | repeat-trip-concert |  
+| bip_39_word_dash_4 | repeat-trip-concert-nuclear |  
+| bip_39_word_dash_5 | repeat-trip-concert-nuclear-truth |  
+| bip_39_word_dash_6 | repeat-trip-concert-nuclear-truth-lens |  
+| bip_39_word_dash_7 | repeat-trip-concert-nuclear-truth-lens-sound |  
+| bip_39_word_dash_8 | repeat-trip-concert-nuclear-truth-lens-sound-page |  
+| bip_39_word_dash_9 | repeat-trip-concert-nuclear-truth-lens-sound-page-olympic |  
 | bip_39_word_new_br_1 | repeat |  
 | bip_39_word_new_br_10 | repeat<br>trip<br>concert<br>nuclear<br>truth<br>lens<br>sound<br>page<br>olympic<br>name |  
 | bip_39_word_new_br_11 | repeat<br>trip<br>concert<br>nuclear<br>truth<br>lens<br>sound<br>page<br>olympic<br>name<br>small |  
@@ -147,6 +159,18 @@ olympic |
 | bip_39_word_space_7 | repeat trip concert nuclear truth lens sound |  
 | bip_39_word_space_8 | repeat trip concert nuclear truth lens sound page |  
 | bip_39_word_space_9 | repeat trip concert nuclear truth lens sound page olympic |  
+| bip_39_word_underscore_1 | repeat |  
+| bip_39_word_underscore_10 | repeat_trip_concert_nuclear_truth_lens_sound_page_olympic_name |  
+| bip_39_word_underscore_11 | repeat_trip_concert_nuclear_truth_lens_sound_page_olympic_name_small |  
+| bip_39_word_underscore_12 | repeat_trip_concert_nuclear_truth_lens_sound_page_olympic_name_small_air |  
+| bip_39_word_underscore_2 | repeat_trip |  
+| bip_39_word_underscore_3 | repeat_trip_concert |  
+| bip_39_word_underscore_4 | repeat_trip_concert_nuclear |  
+| bip_39_word_underscore_5 | repeat_trip_concert_nuclear_truth |  
+| bip_39_word_underscore_6 | repeat_trip_concert_nuclear_truth_lens |  
+| bip_39_word_underscore_7 | repeat_trip_concert_nuclear_truth_lens_sound |  
+| bip_39_word_underscore_8 | repeat_trip_concert_nuclear_truth_lens_sound_page |  
+| bip_39_word_underscore_9 | repeat_trip_concert_nuclear_truth_lens_sound_page_olympic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

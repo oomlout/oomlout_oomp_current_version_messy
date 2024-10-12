@@ -1,3 +1,15 @@
+bip_39_word_dash_1: model
+bip_39_word_dash_10: model-recycle-law-merit-segment-negative-indicate-virtual-local-rocket
+bip_39_word_dash_11: model-recycle-law-merit-segment-negative-indicate-virtual-local-rocket-double
+bip_39_word_dash_12: model-recycle-law-merit-segment-negative-indicate-virtual-local-rocket-double-author
+bip_39_word_dash_2: model-recycle
+bip_39_word_dash_3: model-recycle-law
+bip_39_word_dash_4: model-recycle-law-merit
+bip_39_word_dash_5: model-recycle-law-merit-segment
+bip_39_word_dash_6: model-recycle-law-merit-segment-negative
+bip_39_word_dash_7: model-recycle-law-merit-segment-negative-indicate
+bip_39_word_dash_8: model-recycle-law-merit-segment-negative-indicate-virtual
+bip_39_word_dash_9: model-recycle-law-merit-segment-negative-indicate-virtual-local
 bip_39_word_new_br_1: model
 bip_39_word_new_br_10: model<br>recycle<br>law<br>merit<br>segment<br>negative<br>indicate<br>virtual<br>local<br>rocket
 bip_39_word_new_br_11: model<br>recycle<br>law<br>merit<br>segment<br>negative<br>indicate<br>virtual<br>local<br>rocket<br>double
@@ -194,6 +206,18 @@ bip_39_word_space_6: model recycle law merit segment negative
 bip_39_word_space_7: model recycle law merit segment negative indicate
 bip_39_word_space_8: model recycle law merit segment negative indicate virtual
 bip_39_word_space_9: model recycle law merit segment negative indicate virtual local
+bip_39_word_underscore_1: model
+bip_39_word_underscore_10: model_recycle_law_merit_segment_negative_indicate_virtual_local_rocket
+bip_39_word_underscore_11: model_recycle_law_merit_segment_negative_indicate_virtual_local_rocket_double
+bip_39_word_underscore_12: model_recycle_law_merit_segment_negative_indicate_virtual_local_rocket_double_author
+bip_39_word_underscore_2: model_recycle
+bip_39_word_underscore_3: model_recycle_law
+bip_39_word_underscore_4: model_recycle_law_merit
+bip_39_word_underscore_5: model_recycle_law_merit_segment
+bip_39_word_underscore_6: model_recycle_law_merit_segment_negative
+bip_39_word_underscore_7: model_recycle_law_merit_segment_negative_indicate
+bip_39_word_underscore_8: model_recycle_law_merit_segment_negative_indicate_virtual
+bip_39_word_underscore_9: model_recycle_law_merit_segment_negative_indicate_virtual_local
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

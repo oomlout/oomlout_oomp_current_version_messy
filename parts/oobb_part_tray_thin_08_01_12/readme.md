@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sell |  
+| bip_39_word_dash_10 | sell-raccoon-spice-fatal-island-critic-elder-orbit-boil-fringe |  
+| bip_39_word_dash_11 | sell-raccoon-spice-fatal-island-critic-elder-orbit-boil-fringe-salt |  
+| bip_39_word_dash_12 | sell-raccoon-spice-fatal-island-critic-elder-orbit-boil-fringe-salt-air |  
+| bip_39_word_dash_2 | sell-raccoon |  
+| bip_39_word_dash_3 | sell-raccoon-spice |  
+| bip_39_word_dash_4 | sell-raccoon-spice-fatal |  
+| bip_39_word_dash_5 | sell-raccoon-spice-fatal-island |  
+| bip_39_word_dash_6 | sell-raccoon-spice-fatal-island-critic |  
+| bip_39_word_dash_7 | sell-raccoon-spice-fatal-island-critic-elder |  
+| bip_39_word_dash_8 | sell-raccoon-spice-fatal-island-critic-elder-orbit |  
+| bip_39_word_dash_9 | sell-raccoon-spice-fatal-island-critic-elder-orbit-boil |  
 | bip_39_word_new_br_1 | sell |  
 | bip_39_word_new_br_10 | sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit<br>boil<br>fringe |  
 | bip_39_word_new_br_11 | sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit<br>boil<br>fringe<br>salt |  
@@ -147,6 +159,18 @@ boil |
 | bip_39_word_space_7 | sell raccoon spice fatal island critic elder |  
 | bip_39_word_space_8 | sell raccoon spice fatal island critic elder orbit |  
 | bip_39_word_space_9 | sell raccoon spice fatal island critic elder orbit boil |  
+| bip_39_word_underscore_1 | sell |  
+| bip_39_word_underscore_10 | sell_raccoon_spice_fatal_island_critic_elder_orbit_boil_fringe |  
+| bip_39_word_underscore_11 | sell_raccoon_spice_fatal_island_critic_elder_orbit_boil_fringe_salt |  
+| bip_39_word_underscore_12 | sell_raccoon_spice_fatal_island_critic_elder_orbit_boil_fringe_salt_air |  
+| bip_39_word_underscore_2 | sell_raccoon |  
+| bip_39_word_underscore_3 | sell_raccoon_spice |  
+| bip_39_word_underscore_4 | sell_raccoon_spice_fatal |  
+| bip_39_word_underscore_5 | sell_raccoon_spice_fatal_island |  
+| bip_39_word_underscore_6 | sell_raccoon_spice_fatal_island_critic |  
+| bip_39_word_underscore_7 | sell_raccoon_spice_fatal_island_critic_elder |  
+| bip_39_word_underscore_8 | sell_raccoon_spice_fatal_island_critic_elder_orbit |  
+| bip_39_word_underscore_9 | sell_raccoon_spice_fatal_island_critic_elder_orbit_boil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

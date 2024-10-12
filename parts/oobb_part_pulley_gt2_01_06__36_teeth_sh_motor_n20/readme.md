@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oak |  
+| bip_39_word_dash_10 | oak-chair-celery-beyond-give-above-home-age-lamp-chimney |  
+| bip_39_word_dash_11 | oak-chair-celery-beyond-give-above-home-age-lamp-chimney-thought |  
+| bip_39_word_dash_12 | oak-chair-celery-beyond-give-above-home-age-lamp-chimney-thought-attack |  
+| bip_39_word_dash_2 | oak-chair |  
+| bip_39_word_dash_3 | oak-chair-celery |  
+| bip_39_word_dash_4 | oak-chair-celery-beyond |  
+| bip_39_word_dash_5 | oak-chair-celery-beyond-give |  
+| bip_39_word_dash_6 | oak-chair-celery-beyond-give-above |  
+| bip_39_word_dash_7 | oak-chair-celery-beyond-give-above-home |  
+| bip_39_word_dash_8 | oak-chair-celery-beyond-give-above-home-age |  
+| bip_39_word_dash_9 | oak-chair-celery-beyond-give-above-home-age-lamp |  
 | bip_39_word_new_br_1 | oak |  
 | bip_39_word_new_br_10 | oak<br>chair<br>celery<br>beyond<br>give<br>above<br>home<br>age<br>lamp<br>chimney |  
 | bip_39_word_new_br_11 | oak<br>chair<br>celery<br>beyond<br>give<br>above<br>home<br>age<br>lamp<br>chimney<br>thought |  
@@ -147,6 +159,18 @@ lamp |
 | bip_39_word_space_7 | oak chair celery beyond give above home |  
 | bip_39_word_space_8 | oak chair celery beyond give above home age |  
 | bip_39_word_space_9 | oak chair celery beyond give above home age lamp |  
+| bip_39_word_underscore_1 | oak |  
+| bip_39_word_underscore_10 | oak_chair_celery_beyond_give_above_home_age_lamp_chimney |  
+| bip_39_word_underscore_11 | oak_chair_celery_beyond_give_above_home_age_lamp_chimney_thought |  
+| bip_39_word_underscore_12 | oak_chair_celery_beyond_give_above_home_age_lamp_chimney_thought_attack |  
+| bip_39_word_underscore_2 | oak_chair |  
+| bip_39_word_underscore_3 | oak_chair_celery |  
+| bip_39_word_underscore_4 | oak_chair_celery_beyond |  
+| bip_39_word_underscore_5 | oak_chair_celery_beyond_give |  
+| bip_39_word_underscore_6 | oak_chair_celery_beyond_give_above |  
+| bip_39_word_underscore_7 | oak_chair_celery_beyond_give_above_home |  
+| bip_39_word_underscore_8 | oak_chair_celery_beyond_give_above_home_age |  
+| bip_39_word_underscore_9 | oak_chair_celery_beyond_give_above_home_age_lamp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

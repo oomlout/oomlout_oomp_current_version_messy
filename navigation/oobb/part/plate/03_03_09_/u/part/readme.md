@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mobile |  
+| bip_39_word_dash_10 | mobile-long-pepper-pave-lock-happy-page-length-follow-swing |  
+| bip_39_word_dash_11 | mobile-long-pepper-pave-lock-happy-page-length-follow-swing-infant |  
+| bip_39_word_dash_12 | mobile-long-pepper-pave-lock-happy-page-length-follow-swing-infant-above |  
+| bip_39_word_dash_2 | mobile-long |  
+| bip_39_word_dash_3 | mobile-long-pepper |  
+| bip_39_word_dash_4 | mobile-long-pepper-pave |  
+| bip_39_word_dash_5 | mobile-long-pepper-pave-lock |  
+| bip_39_word_dash_6 | mobile-long-pepper-pave-lock-happy |  
+| bip_39_word_dash_7 | mobile-long-pepper-pave-lock-happy-page |  
+| bip_39_word_dash_8 | mobile-long-pepper-pave-lock-happy-page-length |  
+| bip_39_word_dash_9 | mobile-long-pepper-pave-lock-happy-page-length-follow |  
 | bip_39_word_new_br_1 | mobile |  
 | bip_39_word_new_br_10 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing |  
 | bip_39_word_new_br_11 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing<br>infant |  
@@ -147,6 +159,18 @@ follow |
 | bip_39_word_space_7 | mobile long pepper pave lock happy page |  
 | bip_39_word_space_8 | mobile long pepper pave lock happy page length |  
 | bip_39_word_space_9 | mobile long pepper pave lock happy page length follow |  
+| bip_39_word_underscore_1 | mobile |  
+| bip_39_word_underscore_10 | mobile_long_pepper_pave_lock_happy_page_length_follow_swing |  
+| bip_39_word_underscore_11 | mobile_long_pepper_pave_lock_happy_page_length_follow_swing_infant |  
+| bip_39_word_underscore_12 | mobile_long_pepper_pave_lock_happy_page_length_follow_swing_infant_above |  
+| bip_39_word_underscore_2 | mobile_long |  
+| bip_39_word_underscore_3 | mobile_long_pepper |  
+| bip_39_word_underscore_4 | mobile_long_pepper_pave |  
+| bip_39_word_underscore_5 | mobile_long_pepper_pave_lock |  
+| bip_39_word_underscore_6 | mobile_long_pepper_pave_lock_happy |  
+| bip_39_word_underscore_7 | mobile_long_pepper_pave_lock_happy_page |  
+| bip_39_word_underscore_8 | mobile_long_pepper_pave_lock_happy_page_length |  
+| bip_39_word_underscore_9 | mobile_long_pepper_pave_lock_happy_page_length_follow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

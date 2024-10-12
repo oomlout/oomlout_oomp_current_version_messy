@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | table |  
+| bip_39_word_dash_10 | table-forest-broken-sick-short-alcohol-decrease-library-voice-whisper |  
+| bip_39_word_dash_11 | table-forest-broken-sick-short-alcohol-decrease-library-voice-whisper-federal |  
+| bip_39_word_dash_12 | table-forest-broken-sick-short-alcohol-decrease-library-voice-whisper-federal-attract |  
+| bip_39_word_dash_2 | table-forest |  
+| bip_39_word_dash_3 | table-forest-broken |  
+| bip_39_word_dash_4 | table-forest-broken-sick |  
+| bip_39_word_dash_5 | table-forest-broken-sick-short |  
+| bip_39_word_dash_6 | table-forest-broken-sick-short-alcohol |  
+| bip_39_word_dash_7 | table-forest-broken-sick-short-alcohol-decrease |  
+| bip_39_word_dash_8 | table-forest-broken-sick-short-alcohol-decrease-library |  
+| bip_39_word_dash_9 | table-forest-broken-sick-short-alcohol-decrease-library-voice |  
 | bip_39_word_new_br_1 | table |  
 | bip_39_word_new_br_10 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library<br>voice<br>whisper |  
 | bip_39_word_new_br_11 | table<br>forest<br>broken<br>sick<br>short<br>alcohol<br>decrease<br>library<br>voice<br>whisper<br>federal |  
@@ -147,6 +159,18 @@ voice |
 | bip_39_word_space_7 | table forest broken sick short alcohol decrease |  
 | bip_39_word_space_8 | table forest broken sick short alcohol decrease library |  
 | bip_39_word_space_9 | table forest broken sick short alcohol decrease library voice |  
+| bip_39_word_underscore_1 | table |  
+| bip_39_word_underscore_10 | table_forest_broken_sick_short_alcohol_decrease_library_voice_whisper |  
+| bip_39_word_underscore_11 | table_forest_broken_sick_short_alcohol_decrease_library_voice_whisper_federal |  
+| bip_39_word_underscore_12 | table_forest_broken_sick_short_alcohol_decrease_library_voice_whisper_federal_attract |  
+| bip_39_word_underscore_2 | table_forest |  
+| bip_39_word_underscore_3 | table_forest_broken |  
+| bip_39_word_underscore_4 | table_forest_broken_sick |  
+| bip_39_word_underscore_5 | table_forest_broken_sick_short |  
+| bip_39_word_underscore_6 | table_forest_broken_sick_short_alcohol |  
+| bip_39_word_underscore_7 | table_forest_broken_sick_short_alcohol_decrease |  
+| bip_39_word_underscore_8 | table_forest_broken_sick_short_alcohol_decrease_library |  
+| bip_39_word_underscore_9 | table_forest_broken_sick_short_alcohol_decrease_library_voice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

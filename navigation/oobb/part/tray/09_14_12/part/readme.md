@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vicious |  
+| bip_39_word_dash_10 | vicious-blood-dog-shift-hungry-tilt-hero-hope-often-fame |  
+| bip_39_word_dash_11 | vicious-blood-dog-shift-hungry-tilt-hero-hope-often-fame-diesel |  
+| bip_39_word_dash_12 | vicious-blood-dog-shift-hungry-tilt-hero-hope-often-fame-diesel-again |  
+| bip_39_word_dash_2 | vicious-blood |  
+| bip_39_word_dash_3 | vicious-blood-dog |  
+| bip_39_word_dash_4 | vicious-blood-dog-shift |  
+| bip_39_word_dash_5 | vicious-blood-dog-shift-hungry |  
+| bip_39_word_dash_6 | vicious-blood-dog-shift-hungry-tilt |  
+| bip_39_word_dash_7 | vicious-blood-dog-shift-hungry-tilt-hero |  
+| bip_39_word_dash_8 | vicious-blood-dog-shift-hungry-tilt-hero-hope |  
+| bip_39_word_dash_9 | vicious-blood-dog-shift-hungry-tilt-hero-hope-often |  
 | bip_39_word_new_br_1 | vicious |  
 | bip_39_word_new_br_10 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope<br>often<br>fame |  
 | bip_39_word_new_br_11 | vicious<br>blood<br>dog<br>shift<br>hungry<br>tilt<br>hero<br>hope<br>often<br>fame<br>diesel |  
@@ -147,6 +159,18 @@ often |
 | bip_39_word_space_7 | vicious blood dog shift hungry tilt hero |  
 | bip_39_word_space_8 | vicious blood dog shift hungry tilt hero hope |  
 | bip_39_word_space_9 | vicious blood dog shift hungry tilt hero hope often |  
+| bip_39_word_underscore_1 | vicious |  
+| bip_39_word_underscore_10 | vicious_blood_dog_shift_hungry_tilt_hero_hope_often_fame |  
+| bip_39_word_underscore_11 | vicious_blood_dog_shift_hungry_tilt_hero_hope_often_fame_diesel |  
+| bip_39_word_underscore_12 | vicious_blood_dog_shift_hungry_tilt_hero_hope_often_fame_diesel_again |  
+| bip_39_word_underscore_2 | vicious_blood |  
+| bip_39_word_underscore_3 | vicious_blood_dog |  
+| bip_39_word_underscore_4 | vicious_blood_dog_shift |  
+| bip_39_word_underscore_5 | vicious_blood_dog_shift_hungry |  
+| bip_39_word_underscore_6 | vicious_blood_dog_shift_hungry_tilt |  
+| bip_39_word_underscore_7 | vicious_blood_dog_shift_hungry_tilt_hero |  
+| bip_39_word_underscore_8 | vicious_blood_dog_shift_hungry_tilt_hero_hope |  
+| bip_39_word_underscore_9 | vicious_blood_dog_shift_hungry_tilt_hero_hope_often |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

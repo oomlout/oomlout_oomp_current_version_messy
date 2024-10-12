@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chase
+bip_39_word_dash_10: chase-endless-clutch-auto-hand-all-token-found-salt-room
+bip_39_word_dash_11: chase-endless-clutch-auto-hand-all-token-found-salt-room-vivid
+bip_39_word_dash_12: chase-endless-clutch-auto-hand-all-token-found-salt-room-vivid-ability
+bip_39_word_dash_2: chase-endless
+bip_39_word_dash_3: chase-endless-clutch
+bip_39_word_dash_4: chase-endless-clutch-auto
+bip_39_word_dash_5: chase-endless-clutch-auto-hand
+bip_39_word_dash_6: chase-endless-clutch-auto-hand-all
+bip_39_word_dash_7: chase-endless-clutch-auto-hand-all-token
+bip_39_word_dash_8: chase-endless-clutch-auto-hand-all-token-found
+bip_39_word_dash_9: chase-endless-clutch-auto-hand-all-token-found-salt
 bip_39_word_new_br_1: chase
 bip_39_word_new_br_10: chase<br>endless<br>clutch<br>auto<br>hand<br>all<br>token<br>found<br>salt<br>room
 bip_39_word_new_br_11: chase<br>endless<br>clutch<br>auto<br>hand<br>all<br>token<br>found<br>salt<br>room<br>vivid
@@ -192,6 +204,18 @@ bip_39_word_space_6: chase endless clutch auto hand all
 bip_39_word_space_7: chase endless clutch auto hand all token
 bip_39_word_space_8: chase endless clutch auto hand all token found
 bip_39_word_space_9: chase endless clutch auto hand all token found salt
+bip_39_word_underscore_1: chase
+bip_39_word_underscore_10: chase_endless_clutch_auto_hand_all_token_found_salt_room
+bip_39_word_underscore_11: chase_endless_clutch_auto_hand_all_token_found_salt_room_vivid
+bip_39_word_underscore_12: chase_endless_clutch_auto_hand_all_token_found_salt_room_vivid_ability
+bip_39_word_underscore_2: chase_endless
+bip_39_word_underscore_3: chase_endless_clutch
+bip_39_word_underscore_4: chase_endless_clutch_auto
+bip_39_word_underscore_5: chase_endless_clutch_auto_hand
+bip_39_word_underscore_6: chase_endless_clutch_auto_hand_all
+bip_39_word_underscore_7: chase_endless_clutch_auto_hand_all_token
+bip_39_word_underscore_8: chase_endless_clutch_auto_hand_all_token_found
+bip_39_word_underscore_9: chase_endless_clutch_auto_hand_all_token_found_salt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cream
+bip_39_word_dash_10: cream-stadium-measure-pony-plunge-begin-pottery-clean-flush-remind
+bip_39_word_dash_11: cream-stadium-measure-pony-plunge-begin-pottery-clean-flush-remind-slam
+bip_39_word_dash_12: cream-stadium-measure-pony-plunge-begin-pottery-clean-flush-remind-slam-already
+bip_39_word_dash_2: cream-stadium
+bip_39_word_dash_3: cream-stadium-measure
+bip_39_word_dash_4: cream-stadium-measure-pony
+bip_39_word_dash_5: cream-stadium-measure-pony-plunge
+bip_39_word_dash_6: cream-stadium-measure-pony-plunge-begin
+bip_39_word_dash_7: cream-stadium-measure-pony-plunge-begin-pottery
+bip_39_word_dash_8: cream-stadium-measure-pony-plunge-begin-pottery-clean
+bip_39_word_dash_9: cream-stadium-measure-pony-plunge-begin-pottery-clean-flush
 bip_39_word_new_br_1: cream
 bip_39_word_new_br_10: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean<br>flush<br>remind
 bip_39_word_new_br_11: cream<br>stadium<br>measure<br>pony<br>plunge<br>begin<br>pottery<br>clean<br>flush<br>remind<br>slam
@@ -194,6 +206,18 @@ bip_39_word_space_6: cream stadium measure pony plunge begin
 bip_39_word_space_7: cream stadium measure pony plunge begin pottery
 bip_39_word_space_8: cream stadium measure pony plunge begin pottery clean
 bip_39_word_space_9: cream stadium measure pony plunge begin pottery clean flush
+bip_39_word_underscore_1: cream
+bip_39_word_underscore_10: cream_stadium_measure_pony_plunge_begin_pottery_clean_flush_remind
+bip_39_word_underscore_11: cream_stadium_measure_pony_plunge_begin_pottery_clean_flush_remind_slam
+bip_39_word_underscore_12: cream_stadium_measure_pony_plunge_begin_pottery_clean_flush_remind_slam_already
+bip_39_word_underscore_2: cream_stadium
+bip_39_word_underscore_3: cream_stadium_measure
+bip_39_word_underscore_4: cream_stadium_measure_pony
+bip_39_word_underscore_5: cream_stadium_measure_pony_plunge
+bip_39_word_underscore_6: cream_stadium_measure_pony_plunge_begin
+bip_39_word_underscore_7: cream_stadium_measure_pony_plunge_begin_pottery
+bip_39_word_underscore_8: cream_stadium_measure_pony_plunge_begin_pottery_clean
+bip_39_word_underscore_9: cream_stadium_measure_pony_plunge_begin_pottery_clean_flush
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

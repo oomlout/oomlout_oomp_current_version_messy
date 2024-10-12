@@ -1,3 +1,15 @@
+bip_39_word_dash_1: since
+bip_39_word_dash_10: since-identify-toe-trap-force-abstract-hollow-angry-pride-enact
+bip_39_word_dash_11: since-identify-toe-trap-force-abstract-hollow-angry-pride-enact-execute
+bip_39_word_dash_12: since-identify-toe-trap-force-abstract-hollow-angry-pride-enact-execute-antique
+bip_39_word_dash_2: since-identify
+bip_39_word_dash_3: since-identify-toe
+bip_39_word_dash_4: since-identify-toe-trap
+bip_39_word_dash_5: since-identify-toe-trap-force
+bip_39_word_dash_6: since-identify-toe-trap-force-abstract
+bip_39_word_dash_7: since-identify-toe-trap-force-abstract-hollow
+bip_39_word_dash_8: since-identify-toe-trap-force-abstract-hollow-angry
+bip_39_word_dash_9: since-identify-toe-trap-force-abstract-hollow-angry-pride
 bip_39_word_new_br_1: since
 bip_39_word_new_br_10: since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact
 bip_39_word_new_br_11: since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact<br>execute
@@ -193,6 +205,18 @@ bip_39_word_space_6: since identify toe trap force abstract
 bip_39_word_space_7: since identify toe trap force abstract hollow
 bip_39_word_space_8: since identify toe trap force abstract hollow angry
 bip_39_word_space_9: since identify toe trap force abstract hollow angry pride
+bip_39_word_underscore_1: since
+bip_39_word_underscore_10: since_identify_toe_trap_force_abstract_hollow_angry_pride_enact
+bip_39_word_underscore_11: since_identify_toe_trap_force_abstract_hollow_angry_pride_enact_execute
+bip_39_word_underscore_12: since_identify_toe_trap_force_abstract_hollow_angry_pride_enact_execute_antique
+bip_39_word_underscore_2: since_identify
+bip_39_word_underscore_3: since_identify_toe
+bip_39_word_underscore_4: since_identify_toe_trap
+bip_39_word_underscore_5: since_identify_toe_trap_force
+bip_39_word_underscore_6: since_identify_toe_trap_force_abstract
+bip_39_word_underscore_7: since_identify_toe_trap_force_abstract_hollow
+bip_39_word_underscore_8: since_identify_toe_trap_force_abstract_hollow_angry
+bip_39_word_underscore_9: since_identify_toe_trap_force_abstract_hollow_angry_pride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

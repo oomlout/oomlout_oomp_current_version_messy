@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fragile
+bip_39_word_dash_10: fragile-axis-rather-gym-pudding-hole-thank-magnet-display-shadow
+bip_39_word_dash_11: fragile-axis-rather-gym-pudding-hole-thank-magnet-display-shadow-prefer
+bip_39_word_dash_12: fragile-axis-rather-gym-pudding-hole-thank-magnet-display-shadow-prefer-add
+bip_39_word_dash_2: fragile-axis
+bip_39_word_dash_3: fragile-axis-rather
+bip_39_word_dash_4: fragile-axis-rather-gym
+bip_39_word_dash_5: fragile-axis-rather-gym-pudding
+bip_39_word_dash_6: fragile-axis-rather-gym-pudding-hole
+bip_39_word_dash_7: fragile-axis-rather-gym-pudding-hole-thank
+bip_39_word_dash_8: fragile-axis-rather-gym-pudding-hole-thank-magnet
+bip_39_word_dash_9: fragile-axis-rather-gym-pudding-hole-thank-magnet-display
 bip_39_word_new_br_1: fragile
 bip_39_word_new_br_10: fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet<br>display<br>shadow
 bip_39_word_new_br_11: fragile<br>axis<br>rather<br>gym<br>pudding<br>hole<br>thank<br>magnet<br>display<br>shadow<br>prefer
@@ -193,6 +205,18 @@ bip_39_word_space_6: fragile axis rather gym pudding hole
 bip_39_word_space_7: fragile axis rather gym pudding hole thank
 bip_39_word_space_8: fragile axis rather gym pudding hole thank magnet
 bip_39_word_space_9: fragile axis rather gym pudding hole thank magnet display
+bip_39_word_underscore_1: fragile
+bip_39_word_underscore_10: fragile_axis_rather_gym_pudding_hole_thank_magnet_display_shadow
+bip_39_word_underscore_11: fragile_axis_rather_gym_pudding_hole_thank_magnet_display_shadow_prefer
+bip_39_word_underscore_12: fragile_axis_rather_gym_pudding_hole_thank_magnet_display_shadow_prefer_add
+bip_39_word_underscore_2: fragile_axis
+bip_39_word_underscore_3: fragile_axis_rather
+bip_39_word_underscore_4: fragile_axis_rather_gym
+bip_39_word_underscore_5: fragile_axis_rather_gym_pudding
+bip_39_word_underscore_6: fragile_axis_rather_gym_pudding_hole
+bip_39_word_underscore_7: fragile_axis_rather_gym_pudding_hole_thank
+bip_39_word_underscore_8: fragile_axis_rather_gym_pudding_hole_thank_magnet
+bip_39_word_underscore_9: fragile_axis_rather_gym_pudding_hole_thank_magnet_display
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

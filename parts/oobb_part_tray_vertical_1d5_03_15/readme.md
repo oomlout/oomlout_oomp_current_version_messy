@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | way |  
+| bip_39_word_dash_10 | way-fluid-hurt-amount-festival-lumber-silver-artist-truly-item |  
+| bip_39_word_dash_11 | way-fluid-hurt-amount-festival-lumber-silver-artist-truly-item-forward |  
+| bip_39_word_dash_12 | way-fluid-hurt-amount-festival-lumber-silver-artist-truly-item-forward-alien |  
+| bip_39_word_dash_2 | way-fluid |  
+| bip_39_word_dash_3 | way-fluid-hurt |  
+| bip_39_word_dash_4 | way-fluid-hurt-amount |  
+| bip_39_word_dash_5 | way-fluid-hurt-amount-festival |  
+| bip_39_word_dash_6 | way-fluid-hurt-amount-festival-lumber |  
+| bip_39_word_dash_7 | way-fluid-hurt-amount-festival-lumber-silver |  
+| bip_39_word_dash_8 | way-fluid-hurt-amount-festival-lumber-silver-artist |  
+| bip_39_word_dash_9 | way-fluid-hurt-amount-festival-lumber-silver-artist-truly |  
 | bip_39_word_new_br_1 | way |  
 | bip_39_word_new_br_10 | way<br>fluid<br>hurt<br>amount<br>festival<br>lumber<br>silver<br>artist<br>truly<br>item |  
 | bip_39_word_new_br_11 | way<br>fluid<br>hurt<br>amount<br>festival<br>lumber<br>silver<br>artist<br>truly<br>item<br>forward |  
@@ -147,6 +159,18 @@ truly |
 | bip_39_word_space_7 | way fluid hurt amount festival lumber silver |  
 | bip_39_word_space_8 | way fluid hurt amount festival lumber silver artist |  
 | bip_39_word_space_9 | way fluid hurt amount festival lumber silver artist truly |  
+| bip_39_word_underscore_1 | way |  
+| bip_39_word_underscore_10 | way_fluid_hurt_amount_festival_lumber_silver_artist_truly_item |  
+| bip_39_word_underscore_11 | way_fluid_hurt_amount_festival_lumber_silver_artist_truly_item_forward |  
+| bip_39_word_underscore_12 | way_fluid_hurt_amount_festival_lumber_silver_artist_truly_item_forward_alien |  
+| bip_39_word_underscore_2 | way_fluid |  
+| bip_39_word_underscore_3 | way_fluid_hurt |  
+| bip_39_word_underscore_4 | way_fluid_hurt_amount |  
+| bip_39_word_underscore_5 | way_fluid_hurt_amount_festival |  
+| bip_39_word_underscore_6 | way_fluid_hurt_amount_festival_lumber |  
+| bip_39_word_underscore_7 | way_fluid_hurt_amount_festival_lumber_silver |  
+| bip_39_word_underscore_8 | way_fluid_hurt_amount_festival_lumber_silver_artist |  
+| bip_39_word_underscore_9 | way_fluid_hurt_amount_festival_lumber_silver_artist_truly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wasp
+bip_39_word_dash_10: wasp-buddy-visa-senior-glue-gift-possible-seek-artefact-include
+bip_39_word_dash_11: wasp-buddy-visa-senior-glue-gift-possible-seek-artefact-include-pony
+bip_39_word_dash_12: wasp-buddy-visa-senior-glue-gift-possible-seek-artefact-include-pony-alley
+bip_39_word_dash_2: wasp-buddy
+bip_39_word_dash_3: wasp-buddy-visa
+bip_39_word_dash_4: wasp-buddy-visa-senior
+bip_39_word_dash_5: wasp-buddy-visa-senior-glue
+bip_39_word_dash_6: wasp-buddy-visa-senior-glue-gift
+bip_39_word_dash_7: wasp-buddy-visa-senior-glue-gift-possible
+bip_39_word_dash_8: wasp-buddy-visa-senior-glue-gift-possible-seek
+bip_39_word_dash_9: wasp-buddy-visa-senior-glue-gift-possible-seek-artefact
 bip_39_word_new_br_1: wasp
 bip_39_word_new_br_10: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include
 bip_39_word_new_br_11: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include<br>pony
@@ -193,6 +205,18 @@ bip_39_word_space_6: wasp buddy visa senior glue gift
 bip_39_word_space_7: wasp buddy visa senior glue gift possible
 bip_39_word_space_8: wasp buddy visa senior glue gift possible seek
 bip_39_word_space_9: wasp buddy visa senior glue gift possible seek artefact
+bip_39_word_underscore_1: wasp
+bip_39_word_underscore_10: wasp_buddy_visa_senior_glue_gift_possible_seek_artefact_include
+bip_39_word_underscore_11: wasp_buddy_visa_senior_glue_gift_possible_seek_artefact_include_pony
+bip_39_word_underscore_12: wasp_buddy_visa_senior_glue_gift_possible_seek_artefact_include_pony_alley
+bip_39_word_underscore_2: wasp_buddy
+bip_39_word_underscore_3: wasp_buddy_visa
+bip_39_word_underscore_4: wasp_buddy_visa_senior
+bip_39_word_underscore_5: wasp_buddy_visa_senior_glue
+bip_39_word_underscore_6: wasp_buddy_visa_senior_glue_gift
+bip_39_word_underscore_7: wasp_buddy_visa_senior_glue_gift_possible
+bip_39_word_underscore_8: wasp_buddy_visa_senior_glue_gift_possible_seek
+bip_39_word_underscore_9: wasp_buddy_visa_senior_glue_gift_possible_seek_artefact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

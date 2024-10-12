@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pair
+bip_39_word_dash_10: pair-abandon-phone-quarter-reject-extend-marriage-help-risk-fiber
+bip_39_word_dash_11: pair-abandon-phone-quarter-reject-extend-marriage-help-risk-fiber-ripple
+bip_39_word_dash_12: pair-abandon-phone-quarter-reject-extend-marriage-help-risk-fiber-ripple-almost
+bip_39_word_dash_2: pair-abandon
+bip_39_word_dash_3: pair-abandon-phone
+bip_39_word_dash_4: pair-abandon-phone-quarter
+bip_39_word_dash_5: pair-abandon-phone-quarter-reject
+bip_39_word_dash_6: pair-abandon-phone-quarter-reject-extend
+bip_39_word_dash_7: pair-abandon-phone-quarter-reject-extend-marriage
+bip_39_word_dash_8: pair-abandon-phone-quarter-reject-extend-marriage-help
+bip_39_word_dash_9: pair-abandon-phone-quarter-reject-extend-marriage-help-risk
 bip_39_word_new_br_1: pair
 bip_39_word_new_br_10: pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber
 bip_39_word_new_br_11: pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber<br>ripple
@@ -194,6 +206,18 @@ bip_39_word_space_6: pair abandon phone quarter reject extend
 bip_39_word_space_7: pair abandon phone quarter reject extend marriage
 bip_39_word_space_8: pair abandon phone quarter reject extend marriage help
 bip_39_word_space_9: pair abandon phone quarter reject extend marriage help risk
+bip_39_word_underscore_1: pair
+bip_39_word_underscore_10: pair_abandon_phone_quarter_reject_extend_marriage_help_risk_fiber
+bip_39_word_underscore_11: pair_abandon_phone_quarter_reject_extend_marriage_help_risk_fiber_ripple
+bip_39_word_underscore_12: pair_abandon_phone_quarter_reject_extend_marriage_help_risk_fiber_ripple_almost
+bip_39_word_underscore_2: pair_abandon
+bip_39_word_underscore_3: pair_abandon_phone
+bip_39_word_underscore_4: pair_abandon_phone_quarter
+bip_39_word_underscore_5: pair_abandon_phone_quarter_reject
+bip_39_word_underscore_6: pair_abandon_phone_quarter_reject_extend
+bip_39_word_underscore_7: pair_abandon_phone_quarter_reject_extend_marriage
+bip_39_word_underscore_8: pair_abandon_phone_quarter_reject_extend_marriage_help
+bip_39_word_underscore_9: pair_abandon_phone_quarter_reject_extend_marriage_help_risk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

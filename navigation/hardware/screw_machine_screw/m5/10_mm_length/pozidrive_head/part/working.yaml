@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dice
+bip_39_word_dash_10: dice-nest-topple-minimum-manage-art-wife-taxi-play-neck
+bip_39_word_dash_11: dice-nest-topple-minimum-manage-art-wife-taxi-play-neck-plastic
+bip_39_word_dash_12: dice-nest-topple-minimum-manage-art-wife-taxi-play-neck-plastic-arrange
+bip_39_word_dash_2: dice-nest
+bip_39_word_dash_3: dice-nest-topple
+bip_39_word_dash_4: dice-nest-topple-minimum
+bip_39_word_dash_5: dice-nest-topple-minimum-manage
+bip_39_word_dash_6: dice-nest-topple-minimum-manage-art
+bip_39_word_dash_7: dice-nest-topple-minimum-manage-art-wife
+bip_39_word_dash_8: dice-nest-topple-minimum-manage-art-wife-taxi
+bip_39_word_dash_9: dice-nest-topple-minimum-manage-art-wife-taxi-play
 bip_39_word_new_br_1: dice
 bip_39_word_new_br_10: dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi<br>play<br>neck
 bip_39_word_new_br_11: dice<br>nest<br>topple<br>minimum<br>manage<br>art<br>wife<br>taxi<br>play<br>neck<br>plastic
@@ -192,6 +204,18 @@ bip_39_word_space_6: dice nest topple minimum manage art
 bip_39_word_space_7: dice nest topple minimum manage art wife
 bip_39_word_space_8: dice nest topple minimum manage art wife taxi
 bip_39_word_space_9: dice nest topple minimum manage art wife taxi play
+bip_39_word_underscore_1: dice
+bip_39_word_underscore_10: dice_nest_topple_minimum_manage_art_wife_taxi_play_neck
+bip_39_word_underscore_11: dice_nest_topple_minimum_manage_art_wife_taxi_play_neck_plastic
+bip_39_word_underscore_12: dice_nest_topple_minimum_manage_art_wife_taxi_play_neck_plastic_arrange
+bip_39_word_underscore_2: dice_nest
+bip_39_word_underscore_3: dice_nest_topple
+bip_39_word_underscore_4: dice_nest_topple_minimum
+bip_39_word_underscore_5: dice_nest_topple_minimum_manage
+bip_39_word_underscore_6: dice_nest_topple_minimum_manage_art
+bip_39_word_underscore_7: dice_nest_topple_minimum_manage_art_wife
+bip_39_word_underscore_8: dice_nest_topple_minimum_manage_art_wife_taxi
+bip_39_word_underscore_9: dice_nest_topple_minimum_manage_art_wife_taxi_play
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

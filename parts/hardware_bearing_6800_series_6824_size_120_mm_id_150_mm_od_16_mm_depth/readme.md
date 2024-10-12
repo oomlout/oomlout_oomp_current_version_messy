@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lemon |  
+| bip_39_word_dash_10 | lemon-hurry-electric-loop-junior-person-retire-turtle-idea-matrix |  
+| bip_39_word_dash_11 | lemon-hurry-electric-loop-junior-person-retire-turtle-idea-matrix-matrix |  
+| bip_39_word_dash_12 | lemon-hurry-electric-loop-junior-person-retire-turtle-idea-matrix-matrix-almost |  
+| bip_39_word_dash_2 | lemon-hurry |  
+| bip_39_word_dash_3 | lemon-hurry-electric |  
+| bip_39_word_dash_4 | lemon-hurry-electric-loop |  
+| bip_39_word_dash_5 | lemon-hurry-electric-loop-junior |  
+| bip_39_word_dash_6 | lemon-hurry-electric-loop-junior-person |  
+| bip_39_word_dash_7 | lemon-hurry-electric-loop-junior-person-retire |  
+| bip_39_word_dash_8 | lemon-hurry-electric-loop-junior-person-retire-turtle |  
+| bip_39_word_dash_9 | lemon-hurry-electric-loop-junior-person-retire-turtle-idea |  
 | bip_39_word_new_br_1 | lemon |  
 | bip_39_word_new_br_10 | lemon<br>hurry<br>electric<br>loop<br>junior<br>person<br>retire<br>turtle<br>idea<br>matrix |  
 | bip_39_word_new_br_11 | lemon<br>hurry<br>electric<br>loop<br>junior<br>person<br>retire<br>turtle<br>idea<br>matrix<br>matrix |  
@@ -147,6 +159,18 @@ idea |
 | bip_39_word_space_7 | lemon hurry electric loop junior person retire |  
 | bip_39_word_space_8 | lemon hurry electric loop junior person retire turtle |  
 | bip_39_word_space_9 | lemon hurry electric loop junior person retire turtle idea |  
+| bip_39_word_underscore_1 | lemon |  
+| bip_39_word_underscore_10 | lemon_hurry_electric_loop_junior_person_retire_turtle_idea_matrix |  
+| bip_39_word_underscore_11 | lemon_hurry_electric_loop_junior_person_retire_turtle_idea_matrix_matrix |  
+| bip_39_word_underscore_12 | lemon_hurry_electric_loop_junior_person_retire_turtle_idea_matrix_matrix_almost |  
+| bip_39_word_underscore_2 | lemon_hurry |  
+| bip_39_word_underscore_3 | lemon_hurry_electric |  
+| bip_39_word_underscore_4 | lemon_hurry_electric_loop |  
+| bip_39_word_underscore_5 | lemon_hurry_electric_loop_junior |  
+| bip_39_word_underscore_6 | lemon_hurry_electric_loop_junior_person |  
+| bip_39_word_underscore_7 | lemon_hurry_electric_loop_junior_person_retire |  
+| bip_39_word_underscore_8 | lemon_hurry_electric_loop_junior_person_retire_turtle |  
+| bip_39_word_underscore_9 | lemon_hurry_electric_loop_junior_person_retire_turtle_idea |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: empty
+bip_39_word_dash_10: empty-donate-gather-remove-industry-morning-become-romance-kiss-deliver
+bip_39_word_dash_11: empty-donate-gather-remove-industry-morning-become-romance-kiss-deliver-topic
+bip_39_word_dash_12: empty-donate-gather-remove-industry-morning-become-romance-kiss-deliver-topic-afraid
+bip_39_word_dash_2: empty-donate
+bip_39_word_dash_3: empty-donate-gather
+bip_39_word_dash_4: empty-donate-gather-remove
+bip_39_word_dash_5: empty-donate-gather-remove-industry
+bip_39_word_dash_6: empty-donate-gather-remove-industry-morning
+bip_39_word_dash_7: empty-donate-gather-remove-industry-morning-become
+bip_39_word_dash_8: empty-donate-gather-remove-industry-morning-become-romance
+bip_39_word_dash_9: empty-donate-gather-remove-industry-morning-become-romance-kiss
 bip_39_word_new_br_1: empty
 bip_39_word_new_br_10: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance<br>kiss<br>deliver
 bip_39_word_new_br_11: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance<br>kiss<br>deliver<br>topic
@@ -194,6 +206,18 @@ bip_39_word_space_6: empty donate gather remove industry morning
 bip_39_word_space_7: empty donate gather remove industry morning become
 bip_39_word_space_8: empty donate gather remove industry morning become romance
 bip_39_word_space_9: empty donate gather remove industry morning become romance kiss
+bip_39_word_underscore_1: empty
+bip_39_word_underscore_10: empty_donate_gather_remove_industry_morning_become_romance_kiss_deliver
+bip_39_word_underscore_11: empty_donate_gather_remove_industry_morning_become_romance_kiss_deliver_topic
+bip_39_word_underscore_12: empty_donate_gather_remove_industry_morning_become_romance_kiss_deliver_topic_afraid
+bip_39_word_underscore_2: empty_donate
+bip_39_word_underscore_3: empty_donate_gather
+bip_39_word_underscore_4: empty_donate_gather_remove
+bip_39_word_underscore_5: empty_donate_gather_remove_industry
+bip_39_word_underscore_6: empty_donate_gather_remove_industry_morning
+bip_39_word_underscore_7: empty_donate_gather_remove_industry_morning_become
+bip_39_word_underscore_8: empty_donate_gather_remove_industry_morning_become_romance
+bip_39_word_underscore_9: empty_donate_gather_remove_industry_morning_become_romance_kiss
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | found |  
+| bip_39_word_dash_10 | found-blouse-drastic-mutual-neither-uncle-catalog-hand-couch-town |  
+| bip_39_word_dash_11 | found-blouse-drastic-mutual-neither-uncle-catalog-hand-couch-town-artwork |  
+| bip_39_word_dash_12 | found-blouse-drastic-mutual-neither-uncle-catalog-hand-couch-town-artwork-asthma |  
+| bip_39_word_dash_2 | found-blouse |  
+| bip_39_word_dash_3 | found-blouse-drastic |  
+| bip_39_word_dash_4 | found-blouse-drastic-mutual |  
+| bip_39_word_dash_5 | found-blouse-drastic-mutual-neither |  
+| bip_39_word_dash_6 | found-blouse-drastic-mutual-neither-uncle |  
+| bip_39_word_dash_7 | found-blouse-drastic-mutual-neither-uncle-catalog |  
+| bip_39_word_dash_8 | found-blouse-drastic-mutual-neither-uncle-catalog-hand |  
+| bip_39_word_dash_9 | found-blouse-drastic-mutual-neither-uncle-catalog-hand-couch |  
 | bip_39_word_new_br_1 | found |  
 | bip_39_word_new_br_10 | found<br>blouse<br>drastic<br>mutual<br>neither<br>uncle<br>catalog<br>hand<br>couch<br>town |  
 | bip_39_word_new_br_11 | found<br>blouse<br>drastic<br>mutual<br>neither<br>uncle<br>catalog<br>hand<br>couch<br>town<br>artwork |  
@@ -147,6 +159,18 @@ couch |
 | bip_39_word_space_7 | found blouse drastic mutual neither uncle catalog |  
 | bip_39_word_space_8 | found blouse drastic mutual neither uncle catalog hand |  
 | bip_39_word_space_9 | found blouse drastic mutual neither uncle catalog hand couch |  
+| bip_39_word_underscore_1 | found |  
+| bip_39_word_underscore_10 | found_blouse_drastic_mutual_neither_uncle_catalog_hand_couch_town |  
+| bip_39_word_underscore_11 | found_blouse_drastic_mutual_neither_uncle_catalog_hand_couch_town_artwork |  
+| bip_39_word_underscore_12 | found_blouse_drastic_mutual_neither_uncle_catalog_hand_couch_town_artwork_asthma |  
+| bip_39_word_underscore_2 | found_blouse |  
+| bip_39_word_underscore_3 | found_blouse_drastic |  
+| bip_39_word_underscore_4 | found_blouse_drastic_mutual |  
+| bip_39_word_underscore_5 | found_blouse_drastic_mutual_neither |  
+| bip_39_word_underscore_6 | found_blouse_drastic_mutual_neither_uncle |  
+| bip_39_word_underscore_7 | found_blouse_drastic_mutual_neither_uncle_catalog |  
+| bip_39_word_underscore_8 | found_blouse_drastic_mutual_neither_uncle_catalog_hand |  
+| bip_39_word_underscore_9 | found_blouse_drastic_mutual_neither_uncle_catalog_hand_couch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

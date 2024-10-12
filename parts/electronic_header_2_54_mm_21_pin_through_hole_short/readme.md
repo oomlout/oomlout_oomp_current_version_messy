@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | accuse |  
+| bip_39_word_dash_10 | accuse-pride-jacket-cable-umbrella-marble-tired-car-sad-pull |  
+| bip_39_word_dash_11 | accuse-pride-jacket-cable-umbrella-marble-tired-car-sad-pull-average |  
+| bip_39_word_dash_12 | accuse-pride-jacket-cable-umbrella-marble-tired-car-sad-pull-average-argue |  
+| bip_39_word_dash_2 | accuse-pride |  
+| bip_39_word_dash_3 | accuse-pride-jacket |  
+| bip_39_word_dash_4 | accuse-pride-jacket-cable |  
+| bip_39_word_dash_5 | accuse-pride-jacket-cable-umbrella |  
+| bip_39_word_dash_6 | accuse-pride-jacket-cable-umbrella-marble |  
+| bip_39_word_dash_7 | accuse-pride-jacket-cable-umbrella-marble-tired |  
+| bip_39_word_dash_8 | accuse-pride-jacket-cable-umbrella-marble-tired-car |  
+| bip_39_word_dash_9 | accuse-pride-jacket-cable-umbrella-marble-tired-car-sad |  
 | bip_39_word_new_br_1 | accuse |  
 | bip_39_word_new_br_10 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull |  
 | bip_39_word_new_br_11 | accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull<br>average |  
@@ -147,6 +159,18 @@ sad |
 | bip_39_word_space_7 | accuse pride jacket cable umbrella marble tired |  
 | bip_39_word_space_8 | accuse pride jacket cable umbrella marble tired car |  
 | bip_39_word_space_9 | accuse pride jacket cable umbrella marble tired car sad |  
+| bip_39_word_underscore_1 | accuse |  
+| bip_39_word_underscore_10 | accuse_pride_jacket_cable_umbrella_marble_tired_car_sad_pull |  
+| bip_39_word_underscore_11 | accuse_pride_jacket_cable_umbrella_marble_tired_car_sad_pull_average |  
+| bip_39_word_underscore_12 | accuse_pride_jacket_cable_umbrella_marble_tired_car_sad_pull_average_argue |  
+| bip_39_word_underscore_2 | accuse_pride |  
+| bip_39_word_underscore_3 | accuse_pride_jacket |  
+| bip_39_word_underscore_4 | accuse_pride_jacket_cable |  
+| bip_39_word_underscore_5 | accuse_pride_jacket_cable_umbrella |  
+| bip_39_word_underscore_6 | accuse_pride_jacket_cable_umbrella_marble |  
+| bip_39_word_underscore_7 | accuse_pride_jacket_cable_umbrella_marble_tired |  
+| bip_39_word_underscore_8 | accuse_pride_jacket_cable_umbrella_marble_tired_car |  
+| bip_39_word_underscore_9 | accuse_pride_jacket_cable_umbrella_marble_tired_car_sad |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

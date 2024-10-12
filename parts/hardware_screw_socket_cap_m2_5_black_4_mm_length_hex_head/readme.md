@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exclude |  
+| bip_39_word_dash_10 | exclude-kick-artist-hundred-shrug-beyond-roof-wrap-relief-prepare |  
+| bip_39_word_dash_11 | exclude-kick-artist-hundred-shrug-beyond-roof-wrap-relief-prepare-frequent |  
+| bip_39_word_dash_12 | exclude-kick-artist-hundred-shrug-beyond-roof-wrap-relief-prepare-frequent-animal |  
+| bip_39_word_dash_2 | exclude-kick |  
+| bip_39_word_dash_3 | exclude-kick-artist |  
+| bip_39_word_dash_4 | exclude-kick-artist-hundred |  
+| bip_39_word_dash_5 | exclude-kick-artist-hundred-shrug |  
+| bip_39_word_dash_6 | exclude-kick-artist-hundred-shrug-beyond |  
+| bip_39_word_dash_7 | exclude-kick-artist-hundred-shrug-beyond-roof |  
+| bip_39_word_dash_8 | exclude-kick-artist-hundred-shrug-beyond-roof-wrap |  
+| bip_39_word_dash_9 | exclude-kick-artist-hundred-shrug-beyond-roof-wrap-relief |  
 | bip_39_word_new_br_1 | exclude |  
 | bip_39_word_new_br_10 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare |  
 | bip_39_word_new_br_11 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare<br>frequent |  
@@ -147,6 +159,18 @@ relief |
 | bip_39_word_space_7 | exclude kick artist hundred shrug beyond roof |  
 | bip_39_word_space_8 | exclude kick artist hundred shrug beyond roof wrap |  
 | bip_39_word_space_9 | exclude kick artist hundred shrug beyond roof wrap relief |  
+| bip_39_word_underscore_1 | exclude |  
+| bip_39_word_underscore_10 | exclude_kick_artist_hundred_shrug_beyond_roof_wrap_relief_prepare |  
+| bip_39_word_underscore_11 | exclude_kick_artist_hundred_shrug_beyond_roof_wrap_relief_prepare_frequent |  
+| bip_39_word_underscore_12 | exclude_kick_artist_hundred_shrug_beyond_roof_wrap_relief_prepare_frequent_animal |  
+| bip_39_word_underscore_2 | exclude_kick |  
+| bip_39_word_underscore_3 | exclude_kick_artist |  
+| bip_39_word_underscore_4 | exclude_kick_artist_hundred |  
+| bip_39_word_underscore_5 | exclude_kick_artist_hundred_shrug |  
+| bip_39_word_underscore_6 | exclude_kick_artist_hundred_shrug_beyond |  
+| bip_39_word_underscore_7 | exclude_kick_artist_hundred_shrug_beyond_roof |  
+| bip_39_word_underscore_8 | exclude_kick_artist_hundred_shrug_beyond_roof_wrap |  
+| bip_39_word_underscore_9 | exclude_kick_artist_hundred_shrug_beyond_roof_wrap_relief |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | runway |  
+| bip_39_word_dash_10 | runway-athlete-surprise-spray-truth-sign-nephew-music-giant-remind |  
+| bip_39_word_dash_11 | runway-athlete-surprise-spray-truth-sign-nephew-music-giant-remind-kiss |  
+| bip_39_word_dash_12 | runway-athlete-surprise-spray-truth-sign-nephew-music-giant-remind-kiss-arrive |  
+| bip_39_word_dash_2 | runway-athlete |  
+| bip_39_word_dash_3 | runway-athlete-surprise |  
+| bip_39_word_dash_4 | runway-athlete-surprise-spray |  
+| bip_39_word_dash_5 | runway-athlete-surprise-spray-truth |  
+| bip_39_word_dash_6 | runway-athlete-surprise-spray-truth-sign |  
+| bip_39_word_dash_7 | runway-athlete-surprise-spray-truth-sign-nephew |  
+| bip_39_word_dash_8 | runway-athlete-surprise-spray-truth-sign-nephew-music |  
+| bip_39_word_dash_9 | runway-athlete-surprise-spray-truth-sign-nephew-music-giant |  
 | bip_39_word_new_br_1 | runway |  
 | bip_39_word_new_br_10 | runway<br>athlete<br>surprise<br>spray<br>truth<br>sign<br>nephew<br>music<br>giant<br>remind |  
 | bip_39_word_new_br_11 | runway<br>athlete<br>surprise<br>spray<br>truth<br>sign<br>nephew<br>music<br>giant<br>remind<br>kiss |  
@@ -147,6 +159,18 @@ giant |
 | bip_39_word_space_7 | runway athlete surprise spray truth sign nephew |  
 | bip_39_word_space_8 | runway athlete surprise spray truth sign nephew music |  
 | bip_39_word_space_9 | runway athlete surprise spray truth sign nephew music giant |  
+| bip_39_word_underscore_1 | runway |  
+| bip_39_word_underscore_10 | runway_athlete_surprise_spray_truth_sign_nephew_music_giant_remind |  
+| bip_39_word_underscore_11 | runway_athlete_surprise_spray_truth_sign_nephew_music_giant_remind_kiss |  
+| bip_39_word_underscore_12 | runway_athlete_surprise_spray_truth_sign_nephew_music_giant_remind_kiss_arrive |  
+| bip_39_word_underscore_2 | runway_athlete |  
+| bip_39_word_underscore_3 | runway_athlete_surprise |  
+| bip_39_word_underscore_4 | runway_athlete_surprise_spray |  
+| bip_39_word_underscore_5 | runway_athlete_surprise_spray_truth |  
+| bip_39_word_underscore_6 | runway_athlete_surprise_spray_truth_sign |  
+| bip_39_word_underscore_7 | runway_athlete_surprise_spray_truth_sign_nephew |  
+| bip_39_word_underscore_8 | runway_athlete_surprise_spray_truth_sign_nephew_music |  
+| bip_39_word_underscore_9 | runway_athlete_surprise_spray_truth_sign_nephew_music_giant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

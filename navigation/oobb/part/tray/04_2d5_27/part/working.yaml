@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ancient
+bip_39_word_dash_10: ancient-metal-lake-deliver-cabbage-good-welcome-laugh-error-banner
+bip_39_word_dash_11: ancient-metal-lake-deliver-cabbage-good-welcome-laugh-error-banner-worth
+bip_39_word_dash_12: ancient-metal-lake-deliver-cabbage-good-welcome-laugh-error-banner-worth-afford
+bip_39_word_dash_2: ancient-metal
+bip_39_word_dash_3: ancient-metal-lake
+bip_39_word_dash_4: ancient-metal-lake-deliver
+bip_39_word_dash_5: ancient-metal-lake-deliver-cabbage
+bip_39_word_dash_6: ancient-metal-lake-deliver-cabbage-good
+bip_39_word_dash_7: ancient-metal-lake-deliver-cabbage-good-welcome
+bip_39_word_dash_8: ancient-metal-lake-deliver-cabbage-good-welcome-laugh
+bip_39_word_dash_9: ancient-metal-lake-deliver-cabbage-good-welcome-laugh-error
 bip_39_word_new_br_1: ancient
 bip_39_word_new_br_10: ancient<br>metal<br>lake<br>deliver<br>cabbage<br>good<br>welcome<br>laugh<br>error<br>banner
 bip_39_word_new_br_11: ancient<br>metal<br>lake<br>deliver<br>cabbage<br>good<br>welcome<br>laugh<br>error<br>banner<br>worth
@@ -194,6 +206,18 @@ bip_39_word_space_6: ancient metal lake deliver cabbage good
 bip_39_word_space_7: ancient metal lake deliver cabbage good welcome
 bip_39_word_space_8: ancient metal lake deliver cabbage good welcome laugh
 bip_39_word_space_9: ancient metal lake deliver cabbage good welcome laugh error
+bip_39_word_underscore_1: ancient
+bip_39_word_underscore_10: ancient_metal_lake_deliver_cabbage_good_welcome_laugh_error_banner
+bip_39_word_underscore_11: ancient_metal_lake_deliver_cabbage_good_welcome_laugh_error_banner_worth
+bip_39_word_underscore_12: ancient_metal_lake_deliver_cabbage_good_welcome_laugh_error_banner_worth_afford
+bip_39_word_underscore_2: ancient_metal
+bip_39_word_underscore_3: ancient_metal_lake
+bip_39_word_underscore_4: ancient_metal_lake_deliver
+bip_39_word_underscore_5: ancient_metal_lake_deliver_cabbage
+bip_39_word_underscore_6: ancient_metal_lake_deliver_cabbage_good
+bip_39_word_underscore_7: ancient_metal_lake_deliver_cabbage_good_welcome
+bip_39_word_underscore_8: ancient_metal_lake_deliver_cabbage_good_welcome_laugh
+bip_39_word_underscore_9: ancient_metal_lake_deliver_cabbage_good_welcome_laugh_error
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

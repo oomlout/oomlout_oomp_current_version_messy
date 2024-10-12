@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | churn |  
+| bip_39_word_dash_10 | churn-rich-man-rule-aunt-omit-wreck-column-wrong-fault |  
+| bip_39_word_dash_11 | churn-rich-man-rule-aunt-omit-wreck-column-wrong-fault-tool |  
+| bip_39_word_dash_12 | churn-rich-man-rule-aunt-omit-wreck-column-wrong-fault-tool-alarm |  
+| bip_39_word_dash_2 | churn-rich |  
+| bip_39_word_dash_3 | churn-rich-man |  
+| bip_39_word_dash_4 | churn-rich-man-rule |  
+| bip_39_word_dash_5 | churn-rich-man-rule-aunt |  
+| bip_39_word_dash_6 | churn-rich-man-rule-aunt-omit |  
+| bip_39_word_dash_7 | churn-rich-man-rule-aunt-omit-wreck |  
+| bip_39_word_dash_8 | churn-rich-man-rule-aunt-omit-wreck-column |  
+| bip_39_word_dash_9 | churn-rich-man-rule-aunt-omit-wreck-column-wrong |  
 | bip_39_word_new_br_1 | churn |  
 | bip_39_word_new_br_10 | churn<br>rich<br>man<br>rule<br>aunt<br>omit<br>wreck<br>column<br>wrong<br>fault |  
 | bip_39_word_new_br_11 | churn<br>rich<br>man<br>rule<br>aunt<br>omit<br>wreck<br>column<br>wrong<br>fault<br>tool |  
@@ -147,6 +159,18 @@ wrong |
 | bip_39_word_space_7 | churn rich man rule aunt omit wreck |  
 | bip_39_word_space_8 | churn rich man rule aunt omit wreck column |  
 | bip_39_word_space_9 | churn rich man rule aunt omit wreck column wrong |  
+| bip_39_word_underscore_1 | churn |  
+| bip_39_word_underscore_10 | churn_rich_man_rule_aunt_omit_wreck_column_wrong_fault |  
+| bip_39_word_underscore_11 | churn_rich_man_rule_aunt_omit_wreck_column_wrong_fault_tool |  
+| bip_39_word_underscore_12 | churn_rich_man_rule_aunt_omit_wreck_column_wrong_fault_tool_alarm |  
+| bip_39_word_underscore_2 | churn_rich |  
+| bip_39_word_underscore_3 | churn_rich_man |  
+| bip_39_word_underscore_4 | churn_rich_man_rule |  
+| bip_39_word_underscore_5 | churn_rich_man_rule_aunt |  
+| bip_39_word_underscore_6 | churn_rich_man_rule_aunt_omit |  
+| bip_39_word_underscore_7 | churn_rich_man_rule_aunt_omit_wreck |  
+| bip_39_word_underscore_8 | churn_rich_man_rule_aunt_omit_wreck_column |  
+| bip_39_word_underscore_9 | churn_rich_man_rule_aunt_omit_wreck_column_wrong |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | liar |  
+| bip_39_word_dash_10 | liar-wave-steel-bacon-myth-lyrics-behind-copper-enhance-intact |  
+| bip_39_word_dash_11 | liar-wave-steel-bacon-myth-lyrics-behind-copper-enhance-intact-fiscal |  
+| bip_39_word_dash_12 | liar-wave-steel-bacon-myth-lyrics-behind-copper-enhance-intact-fiscal-anxiety |  
+| bip_39_word_dash_2 | liar-wave |  
+| bip_39_word_dash_3 | liar-wave-steel |  
+| bip_39_word_dash_4 | liar-wave-steel-bacon |  
+| bip_39_word_dash_5 | liar-wave-steel-bacon-myth |  
+| bip_39_word_dash_6 | liar-wave-steel-bacon-myth-lyrics |  
+| bip_39_word_dash_7 | liar-wave-steel-bacon-myth-lyrics-behind |  
+| bip_39_word_dash_8 | liar-wave-steel-bacon-myth-lyrics-behind-copper |  
+| bip_39_word_dash_9 | liar-wave-steel-bacon-myth-lyrics-behind-copper-enhance |  
 | bip_39_word_new_br_1 | liar |  
 | bip_39_word_new_br_10 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact |  
 | bip_39_word_new_br_11 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact<br>fiscal |  
@@ -147,6 +159,18 @@ enhance |
 | bip_39_word_space_7 | liar wave steel bacon myth lyrics behind |  
 | bip_39_word_space_8 | liar wave steel bacon myth lyrics behind copper |  
 | bip_39_word_space_9 | liar wave steel bacon myth lyrics behind copper enhance |  
+| bip_39_word_underscore_1 | liar |  
+| bip_39_word_underscore_10 | liar_wave_steel_bacon_myth_lyrics_behind_copper_enhance_intact |  
+| bip_39_word_underscore_11 | liar_wave_steel_bacon_myth_lyrics_behind_copper_enhance_intact_fiscal |  
+| bip_39_word_underscore_12 | liar_wave_steel_bacon_myth_lyrics_behind_copper_enhance_intact_fiscal_anxiety |  
+| bip_39_word_underscore_2 | liar_wave |  
+| bip_39_word_underscore_3 | liar_wave_steel |  
+| bip_39_word_underscore_4 | liar_wave_steel_bacon |  
+| bip_39_word_underscore_5 | liar_wave_steel_bacon_myth |  
+| bip_39_word_underscore_6 | liar_wave_steel_bacon_myth_lyrics |  
+| bip_39_word_underscore_7 | liar_wave_steel_bacon_myth_lyrics_behind |  
+| bip_39_word_underscore_8 | liar_wave_steel_bacon_myth_lyrics_behind_copper |  
+| bip_39_word_underscore_9 | liar_wave_steel_bacon_myth_lyrics_behind_copper_enhance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

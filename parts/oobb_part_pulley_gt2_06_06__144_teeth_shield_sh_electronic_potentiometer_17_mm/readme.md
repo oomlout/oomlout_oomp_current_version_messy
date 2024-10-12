@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | degree |  
+| bip_39_word_dash_10 | degree-cloth-allow-follow-unusual-slush-text-trophy-teach-grant |  
+| bip_39_word_dash_11 | degree-cloth-allow-follow-unusual-slush-text-trophy-teach-grant-orchard |  
+| bip_39_word_dash_12 | degree-cloth-allow-follow-unusual-slush-text-trophy-teach-grant-orchard-arena |  
+| bip_39_word_dash_2 | degree-cloth |  
+| bip_39_word_dash_3 | degree-cloth-allow |  
+| bip_39_word_dash_4 | degree-cloth-allow-follow |  
+| bip_39_word_dash_5 | degree-cloth-allow-follow-unusual |  
+| bip_39_word_dash_6 | degree-cloth-allow-follow-unusual-slush |  
+| bip_39_word_dash_7 | degree-cloth-allow-follow-unusual-slush-text |  
+| bip_39_word_dash_8 | degree-cloth-allow-follow-unusual-slush-text-trophy |  
+| bip_39_word_dash_9 | degree-cloth-allow-follow-unusual-slush-text-trophy-teach |  
 | bip_39_word_new_br_1 | degree |  
 | bip_39_word_new_br_10 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy<br>teach<br>grant |  
 | bip_39_word_new_br_11 | degree<br>cloth<br>allow<br>follow<br>unusual<br>slush<br>text<br>trophy<br>teach<br>grant<br>orchard |  
@@ -147,6 +159,18 @@ teach |
 | bip_39_word_space_7 | degree cloth allow follow unusual slush text |  
 | bip_39_word_space_8 | degree cloth allow follow unusual slush text trophy |  
 | bip_39_word_space_9 | degree cloth allow follow unusual slush text trophy teach |  
+| bip_39_word_underscore_1 | degree |  
+| bip_39_word_underscore_10 | degree_cloth_allow_follow_unusual_slush_text_trophy_teach_grant |  
+| bip_39_word_underscore_11 | degree_cloth_allow_follow_unusual_slush_text_trophy_teach_grant_orchard |  
+| bip_39_word_underscore_12 | degree_cloth_allow_follow_unusual_slush_text_trophy_teach_grant_orchard_arena |  
+| bip_39_word_underscore_2 | degree_cloth |  
+| bip_39_word_underscore_3 | degree_cloth_allow |  
+| bip_39_word_underscore_4 | degree_cloth_allow_follow |  
+| bip_39_word_underscore_5 | degree_cloth_allow_follow_unusual |  
+| bip_39_word_underscore_6 | degree_cloth_allow_follow_unusual_slush |  
+| bip_39_word_underscore_7 | degree_cloth_allow_follow_unusual_slush_text |  
+| bip_39_word_underscore_8 | degree_cloth_allow_follow_unusual_slush_text_trophy |  
+| bip_39_word_underscore_9 | degree_cloth_allow_follow_unusual_slush_text_trophy_teach |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

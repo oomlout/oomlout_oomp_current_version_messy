@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bronze |  
+| bip_39_word_dash_10 | bronze-slight-afraid-replace-point-when-mesh-surge-interest-lyrics |  
+| bip_39_word_dash_11 | bronze-slight-afraid-replace-point-when-mesh-surge-interest-lyrics-fold |  
+| bip_39_word_dash_12 | bronze-slight-afraid-replace-point-when-mesh-surge-interest-lyrics-fold-adapt |  
+| bip_39_word_dash_2 | bronze-slight |  
+| bip_39_word_dash_3 | bronze-slight-afraid |  
+| bip_39_word_dash_4 | bronze-slight-afraid-replace |  
+| bip_39_word_dash_5 | bronze-slight-afraid-replace-point |  
+| bip_39_word_dash_6 | bronze-slight-afraid-replace-point-when |  
+| bip_39_word_dash_7 | bronze-slight-afraid-replace-point-when-mesh |  
+| bip_39_word_dash_8 | bronze-slight-afraid-replace-point-when-mesh-surge |  
+| bip_39_word_dash_9 | bronze-slight-afraid-replace-point-when-mesh-surge-interest |  
 | bip_39_word_new_br_1 | bronze |  
 | bip_39_word_new_br_10 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics |  
 | bip_39_word_new_br_11 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics<br>fold |  
@@ -147,6 +159,18 @@ interest |
 | bip_39_word_space_7 | bronze slight afraid replace point when mesh |  
 | bip_39_word_space_8 | bronze slight afraid replace point when mesh surge |  
 | bip_39_word_space_9 | bronze slight afraid replace point when mesh surge interest |  
+| bip_39_word_underscore_1 | bronze |  
+| bip_39_word_underscore_10 | bronze_slight_afraid_replace_point_when_mesh_surge_interest_lyrics |  
+| bip_39_word_underscore_11 | bronze_slight_afraid_replace_point_when_mesh_surge_interest_lyrics_fold |  
+| bip_39_word_underscore_12 | bronze_slight_afraid_replace_point_when_mesh_surge_interest_lyrics_fold_adapt |  
+| bip_39_word_underscore_2 | bronze_slight |  
+| bip_39_word_underscore_3 | bronze_slight_afraid |  
+| bip_39_word_underscore_4 | bronze_slight_afraid_replace |  
+| bip_39_word_underscore_5 | bronze_slight_afraid_replace_point |  
+| bip_39_word_underscore_6 | bronze_slight_afraid_replace_point_when |  
+| bip_39_word_underscore_7 | bronze_slight_afraid_replace_point_when_mesh |  
+| bip_39_word_underscore_8 | bronze_slight_afraid_replace_point_when_mesh_surge |  
+| bip_39_word_underscore_9 | bronze_slight_afraid_replace_point_when_mesh_surge_interest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

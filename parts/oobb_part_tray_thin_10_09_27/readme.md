@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | found |  
+| bip_39_word_dash_10 | found-captain-share-wait-scrub-bulk-human-jacket-sock-sad |  
+| bip_39_word_dash_11 | found-captain-share-wait-scrub-bulk-human-jacket-sock-sad-machine |  
+| bip_39_word_dash_12 | found-captain-share-wait-scrub-bulk-human-jacket-sock-sad-machine-autumn |  
+| bip_39_word_dash_2 | found-captain |  
+| bip_39_word_dash_3 | found-captain-share |  
+| bip_39_word_dash_4 | found-captain-share-wait |  
+| bip_39_word_dash_5 | found-captain-share-wait-scrub |  
+| bip_39_word_dash_6 | found-captain-share-wait-scrub-bulk |  
+| bip_39_word_dash_7 | found-captain-share-wait-scrub-bulk-human |  
+| bip_39_word_dash_8 | found-captain-share-wait-scrub-bulk-human-jacket |  
+| bip_39_word_dash_9 | found-captain-share-wait-scrub-bulk-human-jacket-sock |  
 | bip_39_word_new_br_1 | found |  
 | bip_39_word_new_br_10 | found<br>captain<br>share<br>wait<br>scrub<br>bulk<br>human<br>jacket<br>sock<br>sad |  
 | bip_39_word_new_br_11 | found<br>captain<br>share<br>wait<br>scrub<br>bulk<br>human<br>jacket<br>sock<br>sad<br>machine |  
@@ -147,6 +159,18 @@ sock |
 | bip_39_word_space_7 | found captain share wait scrub bulk human |  
 | bip_39_word_space_8 | found captain share wait scrub bulk human jacket |  
 | bip_39_word_space_9 | found captain share wait scrub bulk human jacket sock |  
+| bip_39_word_underscore_1 | found |  
+| bip_39_word_underscore_10 | found_captain_share_wait_scrub_bulk_human_jacket_sock_sad |  
+| bip_39_word_underscore_11 | found_captain_share_wait_scrub_bulk_human_jacket_sock_sad_machine |  
+| bip_39_word_underscore_12 | found_captain_share_wait_scrub_bulk_human_jacket_sock_sad_machine_autumn |  
+| bip_39_word_underscore_2 | found_captain |  
+| bip_39_word_underscore_3 | found_captain_share |  
+| bip_39_word_underscore_4 | found_captain_share_wait |  
+| bip_39_word_underscore_5 | found_captain_share_wait_scrub |  
+| bip_39_word_underscore_6 | found_captain_share_wait_scrub_bulk |  
+| bip_39_word_underscore_7 | found_captain_share_wait_scrub_bulk_human |  
+| bip_39_word_underscore_8 | found_captain_share_wait_scrub_bulk_human_jacket |  
+| bip_39_word_underscore_9 | found_captain_share_wait_scrub_bulk_human_jacket_sock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | supreme |  
+| bip_39_word_dash_10 | supreme-essay-track-grass-embody-shine-body-brass-renew-vehicle |  
+| bip_39_word_dash_11 | supreme-essay-track-grass-embody-shine-body-brass-renew-vehicle-dream |  
+| bip_39_word_dash_12 | supreme-essay-track-grass-embody-shine-body-brass-renew-vehicle-dream-arena |  
+| bip_39_word_dash_2 | supreme-essay |  
+| bip_39_word_dash_3 | supreme-essay-track |  
+| bip_39_word_dash_4 | supreme-essay-track-grass |  
+| bip_39_word_dash_5 | supreme-essay-track-grass-embody |  
+| bip_39_word_dash_6 | supreme-essay-track-grass-embody-shine |  
+| bip_39_word_dash_7 | supreme-essay-track-grass-embody-shine-body |  
+| bip_39_word_dash_8 | supreme-essay-track-grass-embody-shine-body-brass |  
+| bip_39_word_dash_9 | supreme-essay-track-grass-embody-shine-body-brass-renew |  
 | bip_39_word_new_br_1 | supreme |  
 | bip_39_word_new_br_10 | supreme<br>essay<br>track<br>grass<br>embody<br>shine<br>body<br>brass<br>renew<br>vehicle |  
 | bip_39_word_new_br_11 | supreme<br>essay<br>track<br>grass<br>embody<br>shine<br>body<br>brass<br>renew<br>vehicle<br>dream |  
@@ -147,6 +159,18 @@ renew |
 | bip_39_word_space_7 | supreme essay track grass embody shine body |  
 | bip_39_word_space_8 | supreme essay track grass embody shine body brass |  
 | bip_39_word_space_9 | supreme essay track grass embody shine body brass renew |  
+| bip_39_word_underscore_1 | supreme |  
+| bip_39_word_underscore_10 | supreme_essay_track_grass_embody_shine_body_brass_renew_vehicle |  
+| bip_39_word_underscore_11 | supreme_essay_track_grass_embody_shine_body_brass_renew_vehicle_dream |  
+| bip_39_word_underscore_12 | supreme_essay_track_grass_embody_shine_body_brass_renew_vehicle_dream_arena |  
+| bip_39_word_underscore_2 | supreme_essay |  
+| bip_39_word_underscore_3 | supreme_essay_track |  
+| bip_39_word_underscore_4 | supreme_essay_track_grass |  
+| bip_39_word_underscore_5 | supreme_essay_track_grass_embody |  
+| bip_39_word_underscore_6 | supreme_essay_track_grass_embody_shine |  
+| bip_39_word_underscore_7 | supreme_essay_track_grass_embody_shine_body |  
+| bip_39_word_underscore_8 | supreme_essay_track_grass_embody_shine_body_brass |  
+| bip_39_word_underscore_9 | supreme_essay_track_grass_embody_shine_body_brass_renew |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

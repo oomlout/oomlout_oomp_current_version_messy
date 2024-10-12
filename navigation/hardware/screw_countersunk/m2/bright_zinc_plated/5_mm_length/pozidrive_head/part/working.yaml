@@ -1,3 +1,15 @@
+bip_39_word_dash_1: atom
+bip_39_word_dash_10: atom-happy-laptop-consider-crisp-venue-hat-buddy-regular-owner
+bip_39_word_dash_11: atom-happy-laptop-consider-crisp-venue-hat-buddy-regular-owner-lock
+bip_39_word_dash_12: atom-happy-laptop-consider-crisp-venue-hat-buddy-regular-owner-lock-add
+bip_39_word_dash_2: atom-happy
+bip_39_word_dash_3: atom-happy-laptop
+bip_39_word_dash_4: atom-happy-laptop-consider
+bip_39_word_dash_5: atom-happy-laptop-consider-crisp
+bip_39_word_dash_6: atom-happy-laptop-consider-crisp-venue
+bip_39_word_dash_7: atom-happy-laptop-consider-crisp-venue-hat
+bip_39_word_dash_8: atom-happy-laptop-consider-crisp-venue-hat-buddy
+bip_39_word_dash_9: atom-happy-laptop-consider-crisp-venue-hat-buddy-regular
 bip_39_word_new_br_1: atom
 bip_39_word_new_br_10: atom<br>happy<br>laptop<br>consider<br>crisp<br>venue<br>hat<br>buddy<br>regular<br>owner
 bip_39_word_new_br_11: atom<br>happy<br>laptop<br>consider<br>crisp<br>venue<br>hat<br>buddy<br>regular<br>owner<br>lock
@@ -193,6 +205,18 @@ bip_39_word_space_6: atom happy laptop consider crisp venue
 bip_39_word_space_7: atom happy laptop consider crisp venue hat
 bip_39_word_space_8: atom happy laptop consider crisp venue hat buddy
 bip_39_word_space_9: atom happy laptop consider crisp venue hat buddy regular
+bip_39_word_underscore_1: atom
+bip_39_word_underscore_10: atom_happy_laptop_consider_crisp_venue_hat_buddy_regular_owner
+bip_39_word_underscore_11: atom_happy_laptop_consider_crisp_venue_hat_buddy_regular_owner_lock
+bip_39_word_underscore_12: atom_happy_laptop_consider_crisp_venue_hat_buddy_regular_owner_lock_add
+bip_39_word_underscore_2: atom_happy
+bip_39_word_underscore_3: atom_happy_laptop
+bip_39_word_underscore_4: atom_happy_laptop_consider
+bip_39_word_underscore_5: atom_happy_laptop_consider_crisp
+bip_39_word_underscore_6: atom_happy_laptop_consider_crisp_venue
+bip_39_word_underscore_7: atom_happy_laptop_consider_crisp_venue_hat
+bip_39_word_underscore_8: atom_happy_laptop_consider_crisp_venue_hat_buddy
+bip_39_word_underscore_9: atom_happy_laptop_consider_crisp_venue_hat_buddy_regular
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

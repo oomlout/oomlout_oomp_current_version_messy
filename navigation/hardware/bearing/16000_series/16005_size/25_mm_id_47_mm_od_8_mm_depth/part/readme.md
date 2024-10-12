@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | certain |  
+| bip_39_word_dash_10 | certain-move-enforce-hockey-denial-autumn-tattoo-first-side-weather |  
+| bip_39_word_dash_11 | certain-move-enforce-hockey-denial-autumn-tattoo-first-side-weather-speed |  
+| bip_39_word_dash_12 | certain-move-enforce-hockey-denial-autumn-tattoo-first-side-weather-speed-acid |  
+| bip_39_word_dash_2 | certain-move |  
+| bip_39_word_dash_3 | certain-move-enforce |  
+| bip_39_word_dash_4 | certain-move-enforce-hockey |  
+| bip_39_word_dash_5 | certain-move-enforce-hockey-denial |  
+| bip_39_word_dash_6 | certain-move-enforce-hockey-denial-autumn |  
+| bip_39_word_dash_7 | certain-move-enforce-hockey-denial-autumn-tattoo |  
+| bip_39_word_dash_8 | certain-move-enforce-hockey-denial-autumn-tattoo-first |  
+| bip_39_word_dash_9 | certain-move-enforce-hockey-denial-autumn-tattoo-first-side |  
 | bip_39_word_new_br_1 | certain |  
 | bip_39_word_new_br_10 | certain<br>move<br>enforce<br>hockey<br>denial<br>autumn<br>tattoo<br>first<br>side<br>weather |  
 | bip_39_word_new_br_11 | certain<br>move<br>enforce<br>hockey<br>denial<br>autumn<br>tattoo<br>first<br>side<br>weather<br>speed |  
@@ -147,6 +159,18 @@ side |
 | bip_39_word_space_7 | certain move enforce hockey denial autumn tattoo |  
 | bip_39_word_space_8 | certain move enforce hockey denial autumn tattoo first |  
 | bip_39_word_space_9 | certain move enforce hockey denial autumn tattoo first side |  
+| bip_39_word_underscore_1 | certain |  
+| bip_39_word_underscore_10 | certain_move_enforce_hockey_denial_autumn_tattoo_first_side_weather |  
+| bip_39_word_underscore_11 | certain_move_enforce_hockey_denial_autumn_tattoo_first_side_weather_speed |  
+| bip_39_word_underscore_12 | certain_move_enforce_hockey_denial_autumn_tattoo_first_side_weather_speed_acid |  
+| bip_39_word_underscore_2 | certain_move |  
+| bip_39_word_underscore_3 | certain_move_enforce |  
+| bip_39_word_underscore_4 | certain_move_enforce_hockey |  
+| bip_39_word_underscore_5 | certain_move_enforce_hockey_denial |  
+| bip_39_word_underscore_6 | certain_move_enforce_hockey_denial_autumn |  
+| bip_39_word_underscore_7 | certain_move_enforce_hockey_denial_autumn_tattoo |  
+| bip_39_word_underscore_8 | certain_move_enforce_hockey_denial_autumn_tattoo_first |  
+| bip_39_word_underscore_9 | certain_move_enforce_hockey_denial_autumn_tattoo_first_side |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ocean |  
+| bip_39_word_dash_10 | ocean-stamp-ribbon-code-helmet-advice-shiver-flag-turtle-exhaust |  
+| bip_39_word_dash_11 | ocean-stamp-ribbon-code-helmet-advice-shiver-flag-turtle-exhaust-buddy |  
+| bip_39_word_dash_12 | ocean-stamp-ribbon-code-helmet-advice-shiver-flag-turtle-exhaust-buddy-always |  
+| bip_39_word_dash_2 | ocean-stamp |  
+| bip_39_word_dash_3 | ocean-stamp-ribbon |  
+| bip_39_word_dash_4 | ocean-stamp-ribbon-code |  
+| bip_39_word_dash_5 | ocean-stamp-ribbon-code-helmet |  
+| bip_39_word_dash_6 | ocean-stamp-ribbon-code-helmet-advice |  
+| bip_39_word_dash_7 | ocean-stamp-ribbon-code-helmet-advice-shiver |  
+| bip_39_word_dash_8 | ocean-stamp-ribbon-code-helmet-advice-shiver-flag |  
+| bip_39_word_dash_9 | ocean-stamp-ribbon-code-helmet-advice-shiver-flag-turtle |  
 | bip_39_word_new_br_1 | ocean |  
 | bip_39_word_new_br_10 | ocean<br>stamp<br>ribbon<br>code<br>helmet<br>advice<br>shiver<br>flag<br>turtle<br>exhaust |  
 | bip_39_word_new_br_11 | ocean<br>stamp<br>ribbon<br>code<br>helmet<br>advice<br>shiver<br>flag<br>turtle<br>exhaust<br>buddy |  
@@ -147,6 +159,18 @@ turtle |
 | bip_39_word_space_7 | ocean stamp ribbon code helmet advice shiver |  
 | bip_39_word_space_8 | ocean stamp ribbon code helmet advice shiver flag |  
 | bip_39_word_space_9 | ocean stamp ribbon code helmet advice shiver flag turtle |  
+| bip_39_word_underscore_1 | ocean |  
+| bip_39_word_underscore_10 | ocean_stamp_ribbon_code_helmet_advice_shiver_flag_turtle_exhaust |  
+| bip_39_word_underscore_11 | ocean_stamp_ribbon_code_helmet_advice_shiver_flag_turtle_exhaust_buddy |  
+| bip_39_word_underscore_12 | ocean_stamp_ribbon_code_helmet_advice_shiver_flag_turtle_exhaust_buddy_always |  
+| bip_39_word_underscore_2 | ocean_stamp |  
+| bip_39_word_underscore_3 | ocean_stamp_ribbon |  
+| bip_39_word_underscore_4 | ocean_stamp_ribbon_code |  
+| bip_39_word_underscore_5 | ocean_stamp_ribbon_code_helmet |  
+| bip_39_word_underscore_6 | ocean_stamp_ribbon_code_helmet_advice |  
+| bip_39_word_underscore_7 | ocean_stamp_ribbon_code_helmet_advice_shiver |  
+| bip_39_word_underscore_8 | ocean_stamp_ribbon_code_helmet_advice_shiver_flag |  
+| bip_39_word_underscore_9 | ocean_stamp_ribbon_code_helmet_advice_shiver_flag_turtle |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

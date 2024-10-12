@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elder |  
+| bip_39_word_dash_10 | elder-crawl-street-onion-wasp-burden-worry-jaguar-pear-core |  
+| bip_39_word_dash_11 | elder-crawl-street-onion-wasp-burden-worry-jaguar-pear-core-miracle |  
+| bip_39_word_dash_12 | elder-crawl-street-onion-wasp-burden-worry-jaguar-pear-core-miracle-allow |  
+| bip_39_word_dash_2 | elder-crawl |  
+| bip_39_word_dash_3 | elder-crawl-street |  
+| bip_39_word_dash_4 | elder-crawl-street-onion |  
+| bip_39_word_dash_5 | elder-crawl-street-onion-wasp |  
+| bip_39_word_dash_6 | elder-crawl-street-onion-wasp-burden |  
+| bip_39_word_dash_7 | elder-crawl-street-onion-wasp-burden-worry |  
+| bip_39_word_dash_8 | elder-crawl-street-onion-wasp-burden-worry-jaguar |  
+| bip_39_word_dash_9 | elder-crawl-street-onion-wasp-burden-worry-jaguar-pear |  
 | bip_39_word_new_br_1 | elder |  
 | bip_39_word_new_br_10 | elder<br>crawl<br>street<br>onion<br>wasp<br>burden<br>worry<br>jaguar<br>pear<br>core |  
 | bip_39_word_new_br_11 | elder<br>crawl<br>street<br>onion<br>wasp<br>burden<br>worry<br>jaguar<br>pear<br>core<br>miracle |  
@@ -147,6 +159,18 @@ pear |
 | bip_39_word_space_7 | elder crawl street onion wasp burden worry |  
 | bip_39_word_space_8 | elder crawl street onion wasp burden worry jaguar |  
 | bip_39_word_space_9 | elder crawl street onion wasp burden worry jaguar pear |  
+| bip_39_word_underscore_1 | elder |  
+| bip_39_word_underscore_10 | elder_crawl_street_onion_wasp_burden_worry_jaguar_pear_core |  
+| bip_39_word_underscore_11 | elder_crawl_street_onion_wasp_burden_worry_jaguar_pear_core_miracle |  
+| bip_39_word_underscore_12 | elder_crawl_street_onion_wasp_burden_worry_jaguar_pear_core_miracle_allow |  
+| bip_39_word_underscore_2 | elder_crawl |  
+| bip_39_word_underscore_3 | elder_crawl_street |  
+| bip_39_word_underscore_4 | elder_crawl_street_onion |  
+| bip_39_word_underscore_5 | elder_crawl_street_onion_wasp |  
+| bip_39_word_underscore_6 | elder_crawl_street_onion_wasp_burden |  
+| bip_39_word_underscore_7 | elder_crawl_street_onion_wasp_burden_worry |  
+| bip_39_word_underscore_8 | elder_crawl_street_onion_wasp_burden_worry_jaguar |  
+| bip_39_word_underscore_9 | elder_crawl_street_onion_wasp_burden_worry_jaguar_pear |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wrist |  
+| bip_39_word_dash_10 | wrist-bachelor-path-device-reject-rotate-fork-about-exotic-cycle |  
+| bip_39_word_dash_11 | wrist-bachelor-path-device-reject-rotate-fork-about-exotic-cycle-room |  
+| bip_39_word_dash_12 | wrist-bachelor-path-device-reject-rotate-fork-about-exotic-cycle-room-air |  
+| bip_39_word_dash_2 | wrist-bachelor |  
+| bip_39_word_dash_3 | wrist-bachelor-path |  
+| bip_39_word_dash_4 | wrist-bachelor-path-device |  
+| bip_39_word_dash_5 | wrist-bachelor-path-device-reject |  
+| bip_39_word_dash_6 | wrist-bachelor-path-device-reject-rotate |  
+| bip_39_word_dash_7 | wrist-bachelor-path-device-reject-rotate-fork |  
+| bip_39_word_dash_8 | wrist-bachelor-path-device-reject-rotate-fork-about |  
+| bip_39_word_dash_9 | wrist-bachelor-path-device-reject-rotate-fork-about-exotic |  
 | bip_39_word_new_br_1 | wrist |  
 | bip_39_word_new_br_10 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about<br>exotic<br>cycle |  
 | bip_39_word_new_br_11 | wrist<br>bachelor<br>path<br>device<br>reject<br>rotate<br>fork<br>about<br>exotic<br>cycle<br>room |  
@@ -147,6 +159,18 @@ exotic |
 | bip_39_word_space_7 | wrist bachelor path device reject rotate fork |  
 | bip_39_word_space_8 | wrist bachelor path device reject rotate fork about |  
 | bip_39_word_space_9 | wrist bachelor path device reject rotate fork about exotic |  
+| bip_39_word_underscore_1 | wrist |  
+| bip_39_word_underscore_10 | wrist_bachelor_path_device_reject_rotate_fork_about_exotic_cycle |  
+| bip_39_word_underscore_11 | wrist_bachelor_path_device_reject_rotate_fork_about_exotic_cycle_room |  
+| bip_39_word_underscore_12 | wrist_bachelor_path_device_reject_rotate_fork_about_exotic_cycle_room_air |  
+| bip_39_word_underscore_2 | wrist_bachelor |  
+| bip_39_word_underscore_3 | wrist_bachelor_path |  
+| bip_39_word_underscore_4 | wrist_bachelor_path_device |  
+| bip_39_word_underscore_5 | wrist_bachelor_path_device_reject |  
+| bip_39_word_underscore_6 | wrist_bachelor_path_device_reject_rotate |  
+| bip_39_word_underscore_7 | wrist_bachelor_path_device_reject_rotate_fork |  
+| bip_39_word_underscore_8 | wrist_bachelor_path_device_reject_rotate_fork_about |  
+| bip_39_word_underscore_9 | wrist_bachelor_path_device_reject_rotate_fork_about_exotic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

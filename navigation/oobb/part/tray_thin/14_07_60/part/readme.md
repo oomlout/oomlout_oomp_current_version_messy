@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | paddle |  
+| bip_39_word_dash_10 | paddle-blue-flight-hotel-audit-october-nature-casual-trumpet-fence |  
+| bip_39_word_dash_11 | paddle-blue-flight-hotel-audit-october-nature-casual-trumpet-fence-decrease |  
+| bip_39_word_dash_12 | paddle-blue-flight-hotel-audit-october-nature-casual-trumpet-fence-decrease-album |  
+| bip_39_word_dash_2 | paddle-blue |  
+| bip_39_word_dash_3 | paddle-blue-flight |  
+| bip_39_word_dash_4 | paddle-blue-flight-hotel |  
+| bip_39_word_dash_5 | paddle-blue-flight-hotel-audit |  
+| bip_39_word_dash_6 | paddle-blue-flight-hotel-audit-october |  
+| bip_39_word_dash_7 | paddle-blue-flight-hotel-audit-october-nature |  
+| bip_39_word_dash_8 | paddle-blue-flight-hotel-audit-october-nature-casual |  
+| bip_39_word_dash_9 | paddle-blue-flight-hotel-audit-october-nature-casual-trumpet |  
 | bip_39_word_new_br_1 | paddle |  
 | bip_39_word_new_br_10 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual<br>trumpet<br>fence |  
 | bip_39_word_new_br_11 | paddle<br>blue<br>flight<br>hotel<br>audit<br>october<br>nature<br>casual<br>trumpet<br>fence<br>decrease |  
@@ -147,6 +159,18 @@ trumpet |
 | bip_39_word_space_7 | paddle blue flight hotel audit october nature |  
 | bip_39_word_space_8 | paddle blue flight hotel audit october nature casual |  
 | bip_39_word_space_9 | paddle blue flight hotel audit october nature casual trumpet |  
+| bip_39_word_underscore_1 | paddle |  
+| bip_39_word_underscore_10 | paddle_blue_flight_hotel_audit_october_nature_casual_trumpet_fence |  
+| bip_39_word_underscore_11 | paddle_blue_flight_hotel_audit_october_nature_casual_trumpet_fence_decrease |  
+| bip_39_word_underscore_12 | paddle_blue_flight_hotel_audit_october_nature_casual_trumpet_fence_decrease_album |  
+| bip_39_word_underscore_2 | paddle_blue |  
+| bip_39_word_underscore_3 | paddle_blue_flight |  
+| bip_39_word_underscore_4 | paddle_blue_flight_hotel |  
+| bip_39_word_underscore_5 | paddle_blue_flight_hotel_audit |  
+| bip_39_word_underscore_6 | paddle_blue_flight_hotel_audit_october |  
+| bip_39_word_underscore_7 | paddle_blue_flight_hotel_audit_october_nature |  
+| bip_39_word_underscore_8 | paddle_blue_flight_hotel_audit_october_nature_casual |  
+| bip_39_word_underscore_9 | paddle_blue_flight_hotel_audit_october_nature_casual_trumpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

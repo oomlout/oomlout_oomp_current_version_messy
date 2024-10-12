@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wrong
+bip_39_word_dash_10: wrong-perfect-jungle-click-scissors-oil-crack-pact-stage-case
+bip_39_word_dash_11: wrong-perfect-jungle-click-scissors-oil-crack-pact-stage-case-sibling
+bip_39_word_dash_12: wrong-perfect-jungle-click-scissors-oil-crack-pact-stage-case-sibling-alcohol
+bip_39_word_dash_2: wrong-perfect
+bip_39_word_dash_3: wrong-perfect-jungle
+bip_39_word_dash_4: wrong-perfect-jungle-click
+bip_39_word_dash_5: wrong-perfect-jungle-click-scissors
+bip_39_word_dash_6: wrong-perfect-jungle-click-scissors-oil
+bip_39_word_dash_7: wrong-perfect-jungle-click-scissors-oil-crack
+bip_39_word_dash_8: wrong-perfect-jungle-click-scissors-oil-crack-pact
+bip_39_word_dash_9: wrong-perfect-jungle-click-scissors-oil-crack-pact-stage
 bip_39_word_new_br_1: wrong
 bip_39_word_new_br_10: wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact<br>stage<br>case
 bip_39_word_new_br_11: wrong<br>perfect<br>jungle<br>click<br>scissors<br>oil<br>crack<br>pact<br>stage<br>case<br>sibling
@@ -193,6 +205,18 @@ bip_39_word_space_6: wrong perfect jungle click scissors oil
 bip_39_word_space_7: wrong perfect jungle click scissors oil crack
 bip_39_word_space_8: wrong perfect jungle click scissors oil crack pact
 bip_39_word_space_9: wrong perfect jungle click scissors oil crack pact stage
+bip_39_word_underscore_1: wrong
+bip_39_word_underscore_10: wrong_perfect_jungle_click_scissors_oil_crack_pact_stage_case
+bip_39_word_underscore_11: wrong_perfect_jungle_click_scissors_oil_crack_pact_stage_case_sibling
+bip_39_word_underscore_12: wrong_perfect_jungle_click_scissors_oil_crack_pact_stage_case_sibling_alcohol
+bip_39_word_underscore_2: wrong_perfect
+bip_39_word_underscore_3: wrong_perfect_jungle
+bip_39_word_underscore_4: wrong_perfect_jungle_click
+bip_39_word_underscore_5: wrong_perfect_jungle_click_scissors
+bip_39_word_underscore_6: wrong_perfect_jungle_click_scissors_oil
+bip_39_word_underscore_7: wrong_perfect_jungle_click_scissors_oil_crack
+bip_39_word_underscore_8: wrong_perfect_jungle_click_scissors_oil_crack_pact
+bip_39_word_underscore_9: wrong_perfect_jungle_click_scissors_oil_crack_pact_stage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nice |  
+| bip_39_word_dash_10 | nice-voice-female-kitten-chicken-ski-dice-crisp-must-cherry |  
+| bip_39_word_dash_11 | nice-voice-female-kitten-chicken-ski-dice-crisp-must-cherry-million |  
+| bip_39_word_dash_12 | nice-voice-female-kitten-chicken-ski-dice-crisp-must-cherry-million-amount |  
+| bip_39_word_dash_2 | nice-voice |  
+| bip_39_word_dash_3 | nice-voice-female |  
+| bip_39_word_dash_4 | nice-voice-female-kitten |  
+| bip_39_word_dash_5 | nice-voice-female-kitten-chicken |  
+| bip_39_word_dash_6 | nice-voice-female-kitten-chicken-ski |  
+| bip_39_word_dash_7 | nice-voice-female-kitten-chicken-ski-dice |  
+| bip_39_word_dash_8 | nice-voice-female-kitten-chicken-ski-dice-crisp |  
+| bip_39_word_dash_9 | nice-voice-female-kitten-chicken-ski-dice-crisp-must |  
 | bip_39_word_new_br_1 | nice |  
 | bip_39_word_new_br_10 | nice<br>voice<br>female<br>kitten<br>chicken<br>ski<br>dice<br>crisp<br>must<br>cherry |  
 | bip_39_word_new_br_11 | nice<br>voice<br>female<br>kitten<br>chicken<br>ski<br>dice<br>crisp<br>must<br>cherry<br>million |  
@@ -147,6 +159,18 @@ must |
 | bip_39_word_space_7 | nice voice female kitten chicken ski dice |  
 | bip_39_word_space_8 | nice voice female kitten chicken ski dice crisp |  
 | bip_39_word_space_9 | nice voice female kitten chicken ski dice crisp must |  
+| bip_39_word_underscore_1 | nice |  
+| bip_39_word_underscore_10 | nice_voice_female_kitten_chicken_ski_dice_crisp_must_cherry |  
+| bip_39_word_underscore_11 | nice_voice_female_kitten_chicken_ski_dice_crisp_must_cherry_million |  
+| bip_39_word_underscore_12 | nice_voice_female_kitten_chicken_ski_dice_crisp_must_cherry_million_amount |  
+| bip_39_word_underscore_2 | nice_voice |  
+| bip_39_word_underscore_3 | nice_voice_female |  
+| bip_39_word_underscore_4 | nice_voice_female_kitten |  
+| bip_39_word_underscore_5 | nice_voice_female_kitten_chicken |  
+| bip_39_word_underscore_6 | nice_voice_female_kitten_chicken_ski |  
+| bip_39_word_underscore_7 | nice_voice_female_kitten_chicken_ski_dice |  
+| bip_39_word_underscore_8 | nice_voice_female_kitten_chicken_ski_dice_crisp |  
+| bip_39_word_underscore_9 | nice_voice_female_kitten_chicken_ski_dice_crisp_must |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

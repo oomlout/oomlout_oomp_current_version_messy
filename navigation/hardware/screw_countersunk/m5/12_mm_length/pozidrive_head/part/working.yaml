@@ -1,3 +1,15 @@
+bip_39_word_dash_1: catalog
+bip_39_word_dash_10: catalog-recycle-there-wave-spawn-law-radio-item-flock-bright
+bip_39_word_dash_11: catalog-recycle-there-wave-spawn-law-radio-item-flock-bright-develop
+bip_39_word_dash_12: catalog-recycle-there-wave-spawn-law-radio-item-flock-bright-develop-author
+bip_39_word_dash_2: catalog-recycle
+bip_39_word_dash_3: catalog-recycle-there
+bip_39_word_dash_4: catalog-recycle-there-wave
+bip_39_word_dash_5: catalog-recycle-there-wave-spawn
+bip_39_word_dash_6: catalog-recycle-there-wave-spawn-law
+bip_39_word_dash_7: catalog-recycle-there-wave-spawn-law-radio
+bip_39_word_dash_8: catalog-recycle-there-wave-spawn-law-radio-item
+bip_39_word_dash_9: catalog-recycle-there-wave-spawn-law-radio-item-flock
 bip_39_word_new_br_1: catalog
 bip_39_word_new_br_10: catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item<br>flock<br>bright
 bip_39_word_new_br_11: catalog<br>recycle<br>there<br>wave<br>spawn<br>law<br>radio<br>item<br>flock<br>bright<br>develop
@@ -193,6 +205,18 @@ bip_39_word_space_6: catalog recycle there wave spawn law
 bip_39_word_space_7: catalog recycle there wave spawn law radio
 bip_39_word_space_8: catalog recycle there wave spawn law radio item
 bip_39_word_space_9: catalog recycle there wave spawn law radio item flock
+bip_39_word_underscore_1: catalog
+bip_39_word_underscore_10: catalog_recycle_there_wave_spawn_law_radio_item_flock_bright
+bip_39_word_underscore_11: catalog_recycle_there_wave_spawn_law_radio_item_flock_bright_develop
+bip_39_word_underscore_12: catalog_recycle_there_wave_spawn_law_radio_item_flock_bright_develop_author
+bip_39_word_underscore_2: catalog_recycle
+bip_39_word_underscore_3: catalog_recycle_there
+bip_39_word_underscore_4: catalog_recycle_there_wave
+bip_39_word_underscore_5: catalog_recycle_there_wave_spawn
+bip_39_word_underscore_6: catalog_recycle_there_wave_spawn_law
+bip_39_word_underscore_7: catalog_recycle_there_wave_spawn_law_radio
+bip_39_word_underscore_8: catalog_recycle_there_wave_spawn_law_radio_item
+bip_39_word_underscore_9: catalog_recycle_there_wave_spawn_law_radio_item_flock
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

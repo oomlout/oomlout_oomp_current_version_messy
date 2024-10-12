@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | beach |  
+| bip_39_word_dash_10 | beach-infant-theory-exercise-calm-tree-pool-glare-boat-crazy |  
+| bip_39_word_dash_11 | beach-infant-theory-exercise-calm-tree-pool-glare-boat-crazy-subject |  
+| bip_39_word_dash_12 | beach-infant-theory-exercise-calm-tree-pool-glare-boat-crazy-subject-ancient |  
+| bip_39_word_dash_2 | beach-infant |  
+| bip_39_word_dash_3 | beach-infant-theory |  
+| bip_39_word_dash_4 | beach-infant-theory-exercise |  
+| bip_39_word_dash_5 | beach-infant-theory-exercise-calm |  
+| bip_39_word_dash_6 | beach-infant-theory-exercise-calm-tree |  
+| bip_39_word_dash_7 | beach-infant-theory-exercise-calm-tree-pool |  
+| bip_39_word_dash_8 | beach-infant-theory-exercise-calm-tree-pool-glare |  
+| bip_39_word_dash_9 | beach-infant-theory-exercise-calm-tree-pool-glare-boat |  
 | bip_39_word_new_br_1 | beach |  
 | bip_39_word_new_br_10 | beach<br>infant<br>theory<br>exercise<br>calm<br>tree<br>pool<br>glare<br>boat<br>crazy |  
 | bip_39_word_new_br_11 | beach<br>infant<br>theory<br>exercise<br>calm<br>tree<br>pool<br>glare<br>boat<br>crazy<br>subject |  
@@ -147,6 +159,18 @@ boat |
 | bip_39_word_space_7 | beach infant theory exercise calm tree pool |  
 | bip_39_word_space_8 | beach infant theory exercise calm tree pool glare |  
 | bip_39_word_space_9 | beach infant theory exercise calm tree pool glare boat |  
+| bip_39_word_underscore_1 | beach |  
+| bip_39_word_underscore_10 | beach_infant_theory_exercise_calm_tree_pool_glare_boat_crazy |  
+| bip_39_word_underscore_11 | beach_infant_theory_exercise_calm_tree_pool_glare_boat_crazy_subject |  
+| bip_39_word_underscore_12 | beach_infant_theory_exercise_calm_tree_pool_glare_boat_crazy_subject_ancient |  
+| bip_39_word_underscore_2 | beach_infant |  
+| bip_39_word_underscore_3 | beach_infant_theory |  
+| bip_39_word_underscore_4 | beach_infant_theory_exercise |  
+| bip_39_word_underscore_5 | beach_infant_theory_exercise_calm |  
+| bip_39_word_underscore_6 | beach_infant_theory_exercise_calm_tree |  
+| bip_39_word_underscore_7 | beach_infant_theory_exercise_calm_tree_pool |  
+| bip_39_word_underscore_8 | beach_infant_theory_exercise_calm_tree_pool_glare |  
+| bip_39_word_underscore_9 | beach_infant_theory_exercise_calm_tree_pool_glare_boat |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

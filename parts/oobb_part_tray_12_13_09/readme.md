@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arm |  
+| bip_39_word_dash_10 | arm-cute-blast-buddy-wrong-undo-palace-dwarf-yard-sponsor |  
+| bip_39_word_dash_11 | arm-cute-blast-buddy-wrong-undo-palace-dwarf-yard-sponsor-arrange |  
+| bip_39_word_dash_12 | arm-cute-blast-buddy-wrong-undo-palace-dwarf-yard-sponsor-arrange-any |  
+| bip_39_word_dash_2 | arm-cute |  
+| bip_39_word_dash_3 | arm-cute-blast |  
+| bip_39_word_dash_4 | arm-cute-blast-buddy |  
+| bip_39_word_dash_5 | arm-cute-blast-buddy-wrong |  
+| bip_39_word_dash_6 | arm-cute-blast-buddy-wrong-undo |  
+| bip_39_word_dash_7 | arm-cute-blast-buddy-wrong-undo-palace |  
+| bip_39_word_dash_8 | arm-cute-blast-buddy-wrong-undo-palace-dwarf |  
+| bip_39_word_dash_9 | arm-cute-blast-buddy-wrong-undo-palace-dwarf-yard |  
 | bip_39_word_new_br_1 | arm |  
 | bip_39_word_new_br_10 | arm<br>cute<br>blast<br>buddy<br>wrong<br>undo<br>palace<br>dwarf<br>yard<br>sponsor |  
 | bip_39_word_new_br_11 | arm<br>cute<br>blast<br>buddy<br>wrong<br>undo<br>palace<br>dwarf<br>yard<br>sponsor<br>arrange |  
@@ -147,6 +159,18 @@ yard |
 | bip_39_word_space_7 | arm cute blast buddy wrong undo palace |  
 | bip_39_word_space_8 | arm cute blast buddy wrong undo palace dwarf |  
 | bip_39_word_space_9 | arm cute blast buddy wrong undo palace dwarf yard |  
+| bip_39_word_underscore_1 | arm |  
+| bip_39_word_underscore_10 | arm_cute_blast_buddy_wrong_undo_palace_dwarf_yard_sponsor |  
+| bip_39_word_underscore_11 | arm_cute_blast_buddy_wrong_undo_palace_dwarf_yard_sponsor_arrange |  
+| bip_39_word_underscore_12 | arm_cute_blast_buddy_wrong_undo_palace_dwarf_yard_sponsor_arrange_any |  
+| bip_39_word_underscore_2 | arm_cute |  
+| bip_39_word_underscore_3 | arm_cute_blast |  
+| bip_39_word_underscore_4 | arm_cute_blast_buddy |  
+| bip_39_word_underscore_5 | arm_cute_blast_buddy_wrong |  
+| bip_39_word_underscore_6 | arm_cute_blast_buddy_wrong_undo |  
+| bip_39_word_underscore_7 | arm_cute_blast_buddy_wrong_undo_palace |  
+| bip_39_word_underscore_8 | arm_cute_blast_buddy_wrong_undo_palace_dwarf |  
+| bip_39_word_underscore_9 | arm_cute_blast_buddy_wrong_undo_palace_dwarf_yard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: employ
+bip_39_word_dash_10: employ-north-lemon-unlock-poem-flash-seat-nothing-proof-achieve
+bip_39_word_dash_11: employ-north-lemon-unlock-poem-flash-seat-nothing-proof-achieve-purse
+bip_39_word_dash_12: employ-north-lemon-unlock-poem-flash-seat-nothing-proof-achieve-purse-aspect
+bip_39_word_dash_2: employ-north
+bip_39_word_dash_3: employ-north-lemon
+bip_39_word_dash_4: employ-north-lemon-unlock
+bip_39_word_dash_5: employ-north-lemon-unlock-poem
+bip_39_word_dash_6: employ-north-lemon-unlock-poem-flash
+bip_39_word_dash_7: employ-north-lemon-unlock-poem-flash-seat
+bip_39_word_dash_8: employ-north-lemon-unlock-poem-flash-seat-nothing
+bip_39_word_dash_9: employ-north-lemon-unlock-poem-flash-seat-nothing-proof
 bip_39_word_new_br_1: employ
 bip_39_word_new_br_10: employ<br>north<br>lemon<br>unlock<br>poem<br>flash<br>seat<br>nothing<br>proof<br>achieve
 bip_39_word_new_br_11: employ<br>north<br>lemon<br>unlock<br>poem<br>flash<br>seat<br>nothing<br>proof<br>achieve<br>purse
@@ -193,6 +205,18 @@ bip_39_word_space_6: employ north lemon unlock poem flash
 bip_39_word_space_7: employ north lemon unlock poem flash seat
 bip_39_word_space_8: employ north lemon unlock poem flash seat nothing
 bip_39_word_space_9: employ north lemon unlock poem flash seat nothing proof
+bip_39_word_underscore_1: employ
+bip_39_word_underscore_10: employ_north_lemon_unlock_poem_flash_seat_nothing_proof_achieve
+bip_39_word_underscore_11: employ_north_lemon_unlock_poem_flash_seat_nothing_proof_achieve_purse
+bip_39_word_underscore_12: employ_north_lemon_unlock_poem_flash_seat_nothing_proof_achieve_purse_aspect
+bip_39_word_underscore_2: employ_north
+bip_39_word_underscore_3: employ_north_lemon
+bip_39_word_underscore_4: employ_north_lemon_unlock
+bip_39_word_underscore_5: employ_north_lemon_unlock_poem
+bip_39_word_underscore_6: employ_north_lemon_unlock_poem_flash
+bip_39_word_underscore_7: employ_north_lemon_unlock_poem_flash_seat
+bip_39_word_underscore_8: employ_north_lemon_unlock_poem_flash_seat_nothing
+bip_39_word_underscore_9: employ_north_lemon_unlock_poem_flash_seat_nothing_proof
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

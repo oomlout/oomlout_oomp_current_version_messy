@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | surface |  
+| bip_39_word_dash_10 | surface-large-unable-subject-capital-person-lunar-praise-toss-horror |  
+| bip_39_word_dash_11 | surface-large-unable-subject-capital-person-lunar-praise-toss-horror-hat |  
+| bip_39_word_dash_12 | surface-large-unable-subject-capital-person-lunar-praise-toss-horror-hat-amateur |  
+| bip_39_word_dash_2 | surface-large |  
+| bip_39_word_dash_3 | surface-large-unable |  
+| bip_39_word_dash_4 | surface-large-unable-subject |  
+| bip_39_word_dash_5 | surface-large-unable-subject-capital |  
+| bip_39_word_dash_6 | surface-large-unable-subject-capital-person |  
+| bip_39_word_dash_7 | surface-large-unable-subject-capital-person-lunar |  
+| bip_39_word_dash_8 | surface-large-unable-subject-capital-person-lunar-praise |  
+| bip_39_word_dash_9 | surface-large-unable-subject-capital-person-lunar-praise-toss |  
 | bip_39_word_new_br_1 | surface |  
 | bip_39_word_new_br_10 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror |  
 | bip_39_word_new_br_11 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror<br>hat |  
@@ -147,6 +159,18 @@ toss |
 | bip_39_word_space_7 | surface large unable subject capital person lunar |  
 | bip_39_word_space_8 | surface large unable subject capital person lunar praise |  
 | bip_39_word_space_9 | surface large unable subject capital person lunar praise toss |  
+| bip_39_word_underscore_1 | surface |  
+| bip_39_word_underscore_10 | surface_large_unable_subject_capital_person_lunar_praise_toss_horror |  
+| bip_39_word_underscore_11 | surface_large_unable_subject_capital_person_lunar_praise_toss_horror_hat |  
+| bip_39_word_underscore_12 | surface_large_unable_subject_capital_person_lunar_praise_toss_horror_hat_amateur |  
+| bip_39_word_underscore_2 | surface_large |  
+| bip_39_word_underscore_3 | surface_large_unable |  
+| bip_39_word_underscore_4 | surface_large_unable_subject |  
+| bip_39_word_underscore_5 | surface_large_unable_subject_capital |  
+| bip_39_word_underscore_6 | surface_large_unable_subject_capital_person |  
+| bip_39_word_underscore_7 | surface_large_unable_subject_capital_person_lunar |  
+| bip_39_word_underscore_8 | surface_large_unable_subject_capital_person_lunar_praise |  
+| bip_39_word_underscore_9 | surface_large_unable_subject_capital_person_lunar_praise_toss |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

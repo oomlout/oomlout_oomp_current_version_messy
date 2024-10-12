@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | capable |  
+| bip_39_word_dash_10 | capable-tennis-bracket-version-grace-please-domain-crumble-capable-shaft |  
+| bip_39_word_dash_11 | capable-tennis-bracket-version-grace-please-domain-crumble-capable-shaft-sad |  
+| bip_39_word_dash_12 | capable-tennis-bracket-version-grace-please-domain-crumble-capable-shaft-sad-assault |  
+| bip_39_word_dash_2 | capable-tennis |  
+| bip_39_word_dash_3 | capable-tennis-bracket |  
+| bip_39_word_dash_4 | capable-tennis-bracket-version |  
+| bip_39_word_dash_5 | capable-tennis-bracket-version-grace |  
+| bip_39_word_dash_6 | capable-tennis-bracket-version-grace-please |  
+| bip_39_word_dash_7 | capable-tennis-bracket-version-grace-please-domain |  
+| bip_39_word_dash_8 | capable-tennis-bracket-version-grace-please-domain-crumble |  
+| bip_39_word_dash_9 | capable-tennis-bracket-version-grace-please-domain-crumble-capable |  
 | bip_39_word_new_br_1 | capable |  
 | bip_39_word_new_br_10 | capable<br>tennis<br>bracket<br>version<br>grace<br>please<br>domain<br>crumble<br>capable<br>shaft |  
 | bip_39_word_new_br_11 | capable<br>tennis<br>bracket<br>version<br>grace<br>please<br>domain<br>crumble<br>capable<br>shaft<br>sad |  
@@ -147,6 +159,18 @@ capable |
 | bip_39_word_space_7 | capable tennis bracket version grace please domain |  
 | bip_39_word_space_8 | capable tennis bracket version grace please domain crumble |  
 | bip_39_word_space_9 | capable tennis bracket version grace please domain crumble capable |  
+| bip_39_word_underscore_1 | capable |  
+| bip_39_word_underscore_10 | capable_tennis_bracket_version_grace_please_domain_crumble_capable_shaft |  
+| bip_39_word_underscore_11 | capable_tennis_bracket_version_grace_please_domain_crumble_capable_shaft_sad |  
+| bip_39_word_underscore_12 | capable_tennis_bracket_version_grace_please_domain_crumble_capable_shaft_sad_assault |  
+| bip_39_word_underscore_2 | capable_tennis |  
+| bip_39_word_underscore_3 | capable_tennis_bracket |  
+| bip_39_word_underscore_4 | capable_tennis_bracket_version |  
+| bip_39_word_underscore_5 | capable_tennis_bracket_version_grace |  
+| bip_39_word_underscore_6 | capable_tennis_bracket_version_grace_please |  
+| bip_39_word_underscore_7 | capable_tennis_bracket_version_grace_please_domain |  
+| bip_39_word_underscore_8 | capable_tennis_bracket_version_grace_please_domain_crumble |  
+| bip_39_word_underscore_9 | capable_tennis_bracket_version_grace_please_domain_crumble_capable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

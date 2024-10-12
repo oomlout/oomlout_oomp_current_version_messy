@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ring
+bip_39_word_dash_10: ring-vibrant-great-outside-cash-scorpion-inherit-adapt-amazing-leopard
+bip_39_word_dash_11: ring-vibrant-great-outside-cash-scorpion-inherit-adapt-amazing-leopard-item
+bip_39_word_dash_12: ring-vibrant-great-outside-cash-scorpion-inherit-adapt-amazing-leopard-item-album
+bip_39_word_dash_2: ring-vibrant
+bip_39_word_dash_3: ring-vibrant-great
+bip_39_word_dash_4: ring-vibrant-great-outside
+bip_39_word_dash_5: ring-vibrant-great-outside-cash
+bip_39_word_dash_6: ring-vibrant-great-outside-cash-scorpion
+bip_39_word_dash_7: ring-vibrant-great-outside-cash-scorpion-inherit
+bip_39_word_dash_8: ring-vibrant-great-outside-cash-scorpion-inherit-adapt
+bip_39_word_dash_9: ring-vibrant-great-outside-cash-scorpion-inherit-adapt-amazing
 bip_39_word_new_br_1: ring
 bip_39_word_new_br_10: ring<br>vibrant<br>great<br>outside<br>cash<br>scorpion<br>inherit<br>adapt<br>amazing<br>leopard
 bip_39_word_new_br_11: ring<br>vibrant<br>great<br>outside<br>cash<br>scorpion<br>inherit<br>adapt<br>amazing<br>leopard<br>item
@@ -194,6 +206,18 @@ bip_39_word_space_6: ring vibrant great outside cash scorpion
 bip_39_word_space_7: ring vibrant great outside cash scorpion inherit
 bip_39_word_space_8: ring vibrant great outside cash scorpion inherit adapt
 bip_39_word_space_9: ring vibrant great outside cash scorpion inherit adapt amazing
+bip_39_word_underscore_1: ring
+bip_39_word_underscore_10: ring_vibrant_great_outside_cash_scorpion_inherit_adapt_amazing_leopard
+bip_39_word_underscore_11: ring_vibrant_great_outside_cash_scorpion_inherit_adapt_amazing_leopard_item
+bip_39_word_underscore_12: ring_vibrant_great_outside_cash_scorpion_inherit_adapt_amazing_leopard_item_album
+bip_39_word_underscore_2: ring_vibrant
+bip_39_word_underscore_3: ring_vibrant_great
+bip_39_word_underscore_4: ring_vibrant_great_outside
+bip_39_word_underscore_5: ring_vibrant_great_outside_cash
+bip_39_word_underscore_6: ring_vibrant_great_outside_cash_scorpion
+bip_39_word_underscore_7: ring_vibrant_great_outside_cash_scorpion_inherit
+bip_39_word_underscore_8: ring_vibrant_great_outside_cash_scorpion_inherit_adapt
+bip_39_word_underscore_9: ring_vibrant_great_outside_cash_scorpion_inherit_adapt_amazing
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

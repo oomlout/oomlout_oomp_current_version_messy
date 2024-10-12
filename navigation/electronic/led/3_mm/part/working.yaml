@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dawn
+bip_39_word_dash_10: dawn-foam-action-only-tennis-like-give-violin-outside-curve
+bip_39_word_dash_11: dawn-foam-action-only-tennis-like-give-violin-outside-curve-blast
+bip_39_word_dash_12: dawn-foam-action-only-tennis-like-give-violin-outside-curve-blast-achieve
+bip_39_word_dash_2: dawn-foam
+bip_39_word_dash_3: dawn-foam-action
+bip_39_word_dash_4: dawn-foam-action-only
+bip_39_word_dash_5: dawn-foam-action-only-tennis
+bip_39_word_dash_6: dawn-foam-action-only-tennis-like
+bip_39_word_dash_7: dawn-foam-action-only-tennis-like-give
+bip_39_word_dash_8: dawn-foam-action-only-tennis-like-give-violin
+bip_39_word_dash_9: dawn-foam-action-only-tennis-like-give-violin-outside
 bip_39_word_new_br_1: dawn
 bip_39_word_new_br_10: dawn<br>foam<br>action<br>only<br>tennis<br>like<br>give<br>violin<br>outside<br>curve
 bip_39_word_new_br_11: dawn<br>foam<br>action<br>only<br>tennis<br>like<br>give<br>violin<br>outside<br>curve<br>blast
@@ -193,6 +205,18 @@ bip_39_word_space_6: dawn foam action only tennis like
 bip_39_word_space_7: dawn foam action only tennis like give
 bip_39_word_space_8: dawn foam action only tennis like give violin
 bip_39_word_space_9: dawn foam action only tennis like give violin outside
+bip_39_word_underscore_1: dawn
+bip_39_word_underscore_10: dawn_foam_action_only_tennis_like_give_violin_outside_curve
+bip_39_word_underscore_11: dawn_foam_action_only_tennis_like_give_violin_outside_curve_blast
+bip_39_word_underscore_12: dawn_foam_action_only_tennis_like_give_violin_outside_curve_blast_achieve
+bip_39_word_underscore_2: dawn_foam
+bip_39_word_underscore_3: dawn_foam_action
+bip_39_word_underscore_4: dawn_foam_action_only
+bip_39_word_underscore_5: dawn_foam_action_only_tennis
+bip_39_word_underscore_6: dawn_foam_action_only_tennis_like
+bip_39_word_underscore_7: dawn_foam_action_only_tennis_like_give
+bip_39_word_underscore_8: dawn_foam_action_only_tennis_like_give_violin
+bip_39_word_underscore_9: dawn_foam_action_only_tennis_like_give_violin_outside
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

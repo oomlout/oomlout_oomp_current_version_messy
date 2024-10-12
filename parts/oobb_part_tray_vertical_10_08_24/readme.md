@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | float |  
+| bip_39_word_dash_10 | float-region-history-cargo-height-crater-space-apology-ritual-patrol |  
+| bip_39_word_dash_11 | float-region-history-cargo-height-crater-space-apology-ritual-patrol-fault |  
+| bip_39_word_dash_12 | float-region-history-cargo-height-crater-space-apology-ritual-patrol-fault-amused |  
+| bip_39_word_dash_2 | float-region |  
+| bip_39_word_dash_3 | float-region-history |  
+| bip_39_word_dash_4 | float-region-history-cargo |  
+| bip_39_word_dash_5 | float-region-history-cargo-height |  
+| bip_39_word_dash_6 | float-region-history-cargo-height-crater |  
+| bip_39_word_dash_7 | float-region-history-cargo-height-crater-space |  
+| bip_39_word_dash_8 | float-region-history-cargo-height-crater-space-apology |  
+| bip_39_word_dash_9 | float-region-history-cargo-height-crater-space-apology-ritual |  
 | bip_39_word_new_br_1 | float |  
 | bip_39_word_new_br_10 | float<br>region<br>history<br>cargo<br>height<br>crater<br>space<br>apology<br>ritual<br>patrol |  
 | bip_39_word_new_br_11 | float<br>region<br>history<br>cargo<br>height<br>crater<br>space<br>apology<br>ritual<br>patrol<br>fault |  
@@ -147,6 +159,18 @@ ritual |
 | bip_39_word_space_7 | float region history cargo height crater space |  
 | bip_39_word_space_8 | float region history cargo height crater space apology |  
 | bip_39_word_space_9 | float region history cargo height crater space apology ritual |  
+| bip_39_word_underscore_1 | float |  
+| bip_39_word_underscore_10 | float_region_history_cargo_height_crater_space_apology_ritual_patrol |  
+| bip_39_word_underscore_11 | float_region_history_cargo_height_crater_space_apology_ritual_patrol_fault |  
+| bip_39_word_underscore_12 | float_region_history_cargo_height_crater_space_apology_ritual_patrol_fault_amused |  
+| bip_39_word_underscore_2 | float_region |  
+| bip_39_word_underscore_3 | float_region_history |  
+| bip_39_word_underscore_4 | float_region_history_cargo |  
+| bip_39_word_underscore_5 | float_region_history_cargo_height |  
+| bip_39_word_underscore_6 | float_region_history_cargo_height_crater |  
+| bip_39_word_underscore_7 | float_region_history_cargo_height_crater_space |  
+| bip_39_word_underscore_8 | float_region_history_cargo_height_crater_space_apology |  
+| bip_39_word_underscore_9 | float_region_history_cargo_height_crater_space_apology_ritual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

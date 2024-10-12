@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slice |  
+| bip_39_word_dash_10 | slice-abandon-outer-silver-dinner-enough-promote-immense-hair-picture |  
+| bip_39_word_dash_11 | slice-abandon-outer-silver-dinner-enough-promote-immense-hair-picture-kingdom |  
+| bip_39_word_dash_12 | slice-abandon-outer-silver-dinner-enough-promote-immense-hair-picture-kingdom-average |  
+| bip_39_word_dash_2 | slice-abandon |  
+| bip_39_word_dash_3 | slice-abandon-outer |  
+| bip_39_word_dash_4 | slice-abandon-outer-silver |  
+| bip_39_word_dash_5 | slice-abandon-outer-silver-dinner |  
+| bip_39_word_dash_6 | slice-abandon-outer-silver-dinner-enough |  
+| bip_39_word_dash_7 | slice-abandon-outer-silver-dinner-enough-promote |  
+| bip_39_word_dash_8 | slice-abandon-outer-silver-dinner-enough-promote-immense |  
+| bip_39_word_dash_9 | slice-abandon-outer-silver-dinner-enough-promote-immense-hair |  
 | bip_39_word_new_br_1 | slice |  
 | bip_39_word_new_br_10 | slice<br>abandon<br>outer<br>silver<br>dinner<br>enough<br>promote<br>immense<br>hair<br>picture |  
 | bip_39_word_new_br_11 | slice<br>abandon<br>outer<br>silver<br>dinner<br>enough<br>promote<br>immense<br>hair<br>picture<br>kingdom |  
@@ -147,6 +159,18 @@ hair |
 | bip_39_word_space_7 | slice abandon outer silver dinner enough promote |  
 | bip_39_word_space_8 | slice abandon outer silver dinner enough promote immense |  
 | bip_39_word_space_9 | slice abandon outer silver dinner enough promote immense hair |  
+| bip_39_word_underscore_1 | slice |  
+| bip_39_word_underscore_10 | slice_abandon_outer_silver_dinner_enough_promote_immense_hair_picture |  
+| bip_39_word_underscore_11 | slice_abandon_outer_silver_dinner_enough_promote_immense_hair_picture_kingdom |  
+| bip_39_word_underscore_12 | slice_abandon_outer_silver_dinner_enough_promote_immense_hair_picture_kingdom_average |  
+| bip_39_word_underscore_2 | slice_abandon |  
+| bip_39_word_underscore_3 | slice_abandon_outer |  
+| bip_39_word_underscore_4 | slice_abandon_outer_silver |  
+| bip_39_word_underscore_5 | slice_abandon_outer_silver_dinner |  
+| bip_39_word_underscore_6 | slice_abandon_outer_silver_dinner_enough |  
+| bip_39_word_underscore_7 | slice_abandon_outer_silver_dinner_enough_promote |  
+| bip_39_word_underscore_8 | slice_abandon_outer_silver_dinner_enough_promote_immense |  
+| bip_39_word_underscore_9 | slice_abandon_outer_silver_dinner_enough_promote_immense_hair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: plastic
+bip_39_word_dash_10: plastic-stool-divorce-busy-ready-proud-stove-example-praise-mansion
+bip_39_word_dash_11: plastic-stool-divorce-busy-ready-proud-stove-example-praise-mansion-company
+bip_39_word_dash_12: plastic-stool-divorce-busy-ready-proud-stove-example-praise-mansion-company-attitude
+bip_39_word_dash_2: plastic-stool
+bip_39_word_dash_3: plastic-stool-divorce
+bip_39_word_dash_4: plastic-stool-divorce-busy
+bip_39_word_dash_5: plastic-stool-divorce-busy-ready
+bip_39_word_dash_6: plastic-stool-divorce-busy-ready-proud
+bip_39_word_dash_7: plastic-stool-divorce-busy-ready-proud-stove
+bip_39_word_dash_8: plastic-stool-divorce-busy-ready-proud-stove-example
+bip_39_word_dash_9: plastic-stool-divorce-busy-ready-proud-stove-example-praise
 bip_39_word_new_br_1: plastic
 bip_39_word_new_br_10: plastic<br>stool<br>divorce<br>busy<br>ready<br>proud<br>stove<br>example<br>praise<br>mansion
 bip_39_word_new_br_11: plastic<br>stool<br>divorce<br>busy<br>ready<br>proud<br>stove<br>example<br>praise<br>mansion<br>company
@@ -194,6 +206,18 @@ bip_39_word_space_6: plastic stool divorce busy ready proud
 bip_39_word_space_7: plastic stool divorce busy ready proud stove
 bip_39_word_space_8: plastic stool divorce busy ready proud stove example
 bip_39_word_space_9: plastic stool divorce busy ready proud stove example praise
+bip_39_word_underscore_1: plastic
+bip_39_word_underscore_10: plastic_stool_divorce_busy_ready_proud_stove_example_praise_mansion
+bip_39_word_underscore_11: plastic_stool_divorce_busy_ready_proud_stove_example_praise_mansion_company
+bip_39_word_underscore_12: plastic_stool_divorce_busy_ready_proud_stove_example_praise_mansion_company_attitude
+bip_39_word_underscore_2: plastic_stool
+bip_39_word_underscore_3: plastic_stool_divorce
+bip_39_word_underscore_4: plastic_stool_divorce_busy
+bip_39_word_underscore_5: plastic_stool_divorce_busy_ready
+bip_39_word_underscore_6: plastic_stool_divorce_busy_ready_proud
+bip_39_word_underscore_7: plastic_stool_divorce_busy_ready_proud_stove
+bip_39_word_underscore_8: plastic_stool_divorce_busy_ready_proud_stove_example
+bip_39_word_underscore_9: plastic_stool_divorce_busy_ready_proud_stove_example_praise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

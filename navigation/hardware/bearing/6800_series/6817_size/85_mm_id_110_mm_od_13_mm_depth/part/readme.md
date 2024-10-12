@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mom |  
+| bip_39_word_dash_10 | mom-dog-acoustic-subway-front-pistol-you-hover-glance-scare |  
+| bip_39_word_dash_11 | mom-dog-acoustic-subway-front-pistol-you-hover-glance-scare-ugly |  
+| bip_39_word_dash_12 | mom-dog-acoustic-subway-front-pistol-you-hover-glance-scare-ugly-amused |  
+| bip_39_word_dash_2 | mom-dog |  
+| bip_39_word_dash_3 | mom-dog-acoustic |  
+| bip_39_word_dash_4 | mom-dog-acoustic-subway |  
+| bip_39_word_dash_5 | mom-dog-acoustic-subway-front |  
+| bip_39_word_dash_6 | mom-dog-acoustic-subway-front-pistol |  
+| bip_39_word_dash_7 | mom-dog-acoustic-subway-front-pistol-you |  
+| bip_39_word_dash_8 | mom-dog-acoustic-subway-front-pistol-you-hover |  
+| bip_39_word_dash_9 | mom-dog-acoustic-subway-front-pistol-you-hover-glance |  
 | bip_39_word_new_br_1 | mom |  
 | bip_39_word_new_br_10 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare |  
 | bip_39_word_new_br_11 | mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare<br>ugly |  
@@ -147,6 +159,18 @@ glance |
 | bip_39_word_space_7 | mom dog acoustic subway front pistol you |  
 | bip_39_word_space_8 | mom dog acoustic subway front pistol you hover |  
 | bip_39_word_space_9 | mom dog acoustic subway front pistol you hover glance |  
+| bip_39_word_underscore_1 | mom |  
+| bip_39_word_underscore_10 | mom_dog_acoustic_subway_front_pistol_you_hover_glance_scare |  
+| bip_39_word_underscore_11 | mom_dog_acoustic_subway_front_pistol_you_hover_glance_scare_ugly |  
+| bip_39_word_underscore_12 | mom_dog_acoustic_subway_front_pistol_you_hover_glance_scare_ugly_amused |  
+| bip_39_word_underscore_2 | mom_dog |  
+| bip_39_word_underscore_3 | mom_dog_acoustic |  
+| bip_39_word_underscore_4 | mom_dog_acoustic_subway |  
+| bip_39_word_underscore_5 | mom_dog_acoustic_subway_front |  
+| bip_39_word_underscore_6 | mom_dog_acoustic_subway_front_pistol |  
+| bip_39_word_underscore_7 | mom_dog_acoustic_subway_front_pistol_you |  
+| bip_39_word_underscore_8 | mom_dog_acoustic_subway_front_pistol_you_hover |  
+| bip_39_word_underscore_9 | mom_dog_acoustic_subway_front_pistol_you_hover_glance |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

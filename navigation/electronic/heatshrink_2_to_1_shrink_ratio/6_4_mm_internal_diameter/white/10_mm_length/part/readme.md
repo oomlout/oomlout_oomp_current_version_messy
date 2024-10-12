@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cave |  
+| bip_39_word_dash_10 | cave-alert-hunt-erupt-caught-drip-ripple-uniform-attract-carpet |  
+| bip_39_word_dash_11 | cave-alert-hunt-erupt-caught-drip-ripple-uniform-attract-carpet-salon |  
+| bip_39_word_dash_12 | cave-alert-hunt-erupt-caught-drip-ripple-uniform-attract-carpet-salon-again |  
+| bip_39_word_dash_2 | cave-alert |  
+| bip_39_word_dash_3 | cave-alert-hunt |  
+| bip_39_word_dash_4 | cave-alert-hunt-erupt |  
+| bip_39_word_dash_5 | cave-alert-hunt-erupt-caught |  
+| bip_39_word_dash_6 | cave-alert-hunt-erupt-caught-drip |  
+| bip_39_word_dash_7 | cave-alert-hunt-erupt-caught-drip-ripple |  
+| bip_39_word_dash_8 | cave-alert-hunt-erupt-caught-drip-ripple-uniform |  
+| bip_39_word_dash_9 | cave-alert-hunt-erupt-caught-drip-ripple-uniform-attract |  
 | bip_39_word_new_br_1 | cave |  
 | bip_39_word_new_br_10 | cave<br>alert<br>hunt<br>erupt<br>caught<br>drip<br>ripple<br>uniform<br>attract<br>carpet |  
 | bip_39_word_new_br_11 | cave<br>alert<br>hunt<br>erupt<br>caught<br>drip<br>ripple<br>uniform<br>attract<br>carpet<br>salon |  
@@ -147,6 +159,18 @@ attract |
 | bip_39_word_space_7 | cave alert hunt erupt caught drip ripple |  
 | bip_39_word_space_8 | cave alert hunt erupt caught drip ripple uniform |  
 | bip_39_word_space_9 | cave alert hunt erupt caught drip ripple uniform attract |  
+| bip_39_word_underscore_1 | cave |  
+| bip_39_word_underscore_10 | cave_alert_hunt_erupt_caught_drip_ripple_uniform_attract_carpet |  
+| bip_39_word_underscore_11 | cave_alert_hunt_erupt_caught_drip_ripple_uniform_attract_carpet_salon |  
+| bip_39_word_underscore_12 | cave_alert_hunt_erupt_caught_drip_ripple_uniform_attract_carpet_salon_again |  
+| bip_39_word_underscore_2 | cave_alert |  
+| bip_39_word_underscore_3 | cave_alert_hunt |  
+| bip_39_word_underscore_4 | cave_alert_hunt_erupt |  
+| bip_39_word_underscore_5 | cave_alert_hunt_erupt_caught |  
+| bip_39_word_underscore_6 | cave_alert_hunt_erupt_caught_drip |  
+| bip_39_word_underscore_7 | cave_alert_hunt_erupt_caught_drip_ripple |  
+| bip_39_word_underscore_8 | cave_alert_hunt_erupt_caught_drip_ripple_uniform |  
+| bip_39_word_underscore_9 | cave_alert_hunt_erupt_caught_drip_ripple_uniform_attract |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

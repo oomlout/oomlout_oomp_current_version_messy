@@ -1,3 +1,15 @@
+bip_39_word_dash_1: arrange
+bip_39_word_dash_10: arrange-follow-before-wool-loyal-include-like-boss-stay-music
+bip_39_word_dash_11: arrange-follow-before-wool-loyal-include-like-boss-stay-music-dove
+bip_39_word_dash_12: arrange-follow-before-wool-loyal-include-like-boss-stay-music-dove-ancient
+bip_39_word_dash_2: arrange-follow
+bip_39_word_dash_3: arrange-follow-before
+bip_39_word_dash_4: arrange-follow-before-wool
+bip_39_word_dash_5: arrange-follow-before-wool-loyal
+bip_39_word_dash_6: arrange-follow-before-wool-loyal-include
+bip_39_word_dash_7: arrange-follow-before-wool-loyal-include-like
+bip_39_word_dash_8: arrange-follow-before-wool-loyal-include-like-boss
+bip_39_word_dash_9: arrange-follow-before-wool-loyal-include-like-boss-stay
 bip_39_word_new_br_1: arrange
 bip_39_word_new_br_10: arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss<br>stay<br>music
 bip_39_word_new_br_11: arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss<br>stay<br>music<br>dove
@@ -193,6 +205,18 @@ bip_39_word_space_6: arrange follow before wool loyal include
 bip_39_word_space_7: arrange follow before wool loyal include like
 bip_39_word_space_8: arrange follow before wool loyal include like boss
 bip_39_word_space_9: arrange follow before wool loyal include like boss stay
+bip_39_word_underscore_1: arrange
+bip_39_word_underscore_10: arrange_follow_before_wool_loyal_include_like_boss_stay_music
+bip_39_word_underscore_11: arrange_follow_before_wool_loyal_include_like_boss_stay_music_dove
+bip_39_word_underscore_12: arrange_follow_before_wool_loyal_include_like_boss_stay_music_dove_ancient
+bip_39_word_underscore_2: arrange_follow
+bip_39_word_underscore_3: arrange_follow_before
+bip_39_word_underscore_4: arrange_follow_before_wool
+bip_39_word_underscore_5: arrange_follow_before_wool_loyal
+bip_39_word_underscore_6: arrange_follow_before_wool_loyal_include
+bip_39_word_underscore_7: arrange_follow_before_wool_loyal_include_like
+bip_39_word_underscore_8: arrange_follow_before_wool_loyal_include_like_boss
+bip_39_word_underscore_9: arrange_follow_before_wool_loyal_include_like_boss_stay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

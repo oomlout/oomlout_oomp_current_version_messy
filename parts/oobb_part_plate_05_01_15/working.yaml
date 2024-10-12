@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gospel
+bip_39_word_dash_10: gospel-secret-table-repair-twin-target-antique-announce-robust-chapter
+bip_39_word_dash_11: gospel-secret-table-repair-twin-target-antique-announce-robust-chapter-guide
+bip_39_word_dash_12: gospel-secret-table-repair-twin-target-antique-announce-robust-chapter-guide-aspect
+bip_39_word_dash_2: gospel-secret
+bip_39_word_dash_3: gospel-secret-table
+bip_39_word_dash_4: gospel-secret-table-repair
+bip_39_word_dash_5: gospel-secret-table-repair-twin
+bip_39_word_dash_6: gospel-secret-table-repair-twin-target
+bip_39_word_dash_7: gospel-secret-table-repair-twin-target-antique
+bip_39_word_dash_8: gospel-secret-table-repair-twin-target-antique-announce
+bip_39_word_dash_9: gospel-secret-table-repair-twin-target-antique-announce-robust
 bip_39_word_new_br_1: gospel
 bip_39_word_new_br_10: gospel<br>secret<br>table<br>repair<br>twin<br>target<br>antique<br>announce<br>robust<br>chapter
 bip_39_word_new_br_11: gospel<br>secret<br>table<br>repair<br>twin<br>target<br>antique<br>announce<br>robust<br>chapter<br>guide
@@ -194,6 +206,18 @@ bip_39_word_space_6: gospel secret table repair twin target
 bip_39_word_space_7: gospel secret table repair twin target antique
 bip_39_word_space_8: gospel secret table repair twin target antique announce
 bip_39_word_space_9: gospel secret table repair twin target antique announce robust
+bip_39_word_underscore_1: gospel
+bip_39_word_underscore_10: gospel_secret_table_repair_twin_target_antique_announce_robust_chapter
+bip_39_word_underscore_11: gospel_secret_table_repair_twin_target_antique_announce_robust_chapter_guide
+bip_39_word_underscore_12: gospel_secret_table_repair_twin_target_antique_announce_robust_chapter_guide_aspect
+bip_39_word_underscore_2: gospel_secret
+bip_39_word_underscore_3: gospel_secret_table
+bip_39_word_underscore_4: gospel_secret_table_repair
+bip_39_word_underscore_5: gospel_secret_table_repair_twin
+bip_39_word_underscore_6: gospel_secret_table_repair_twin_target
+bip_39_word_underscore_7: gospel_secret_table_repair_twin_target_antique
+bip_39_word_underscore_8: gospel_secret_table_repair_twin_target_antique_announce
+bip_39_word_underscore_9: gospel_secret_table_repair_twin_target_antique_announce_robust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

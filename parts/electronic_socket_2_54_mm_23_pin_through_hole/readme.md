@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tooth |  
+| bip_39_word_dash_10 | tooth-purpose-page-jelly-any-dumb-ankle-rude-purity-route |  
+| bip_39_word_dash_11 | tooth-purpose-page-jelly-any-dumb-ankle-rude-purity-route-dilemma |  
+| bip_39_word_dash_12 | tooth-purpose-page-jelly-any-dumb-ankle-rude-purity-route-dilemma-avocado |  
+| bip_39_word_dash_2 | tooth-purpose |  
+| bip_39_word_dash_3 | tooth-purpose-page |  
+| bip_39_word_dash_4 | tooth-purpose-page-jelly |  
+| bip_39_word_dash_5 | tooth-purpose-page-jelly-any |  
+| bip_39_word_dash_6 | tooth-purpose-page-jelly-any-dumb |  
+| bip_39_word_dash_7 | tooth-purpose-page-jelly-any-dumb-ankle |  
+| bip_39_word_dash_8 | tooth-purpose-page-jelly-any-dumb-ankle-rude |  
+| bip_39_word_dash_9 | tooth-purpose-page-jelly-any-dumb-ankle-rude-purity |  
 | bip_39_word_new_br_1 | tooth |  
 | bip_39_word_new_br_10 | tooth<br>purpose<br>page<br>jelly<br>any<br>dumb<br>ankle<br>rude<br>purity<br>route |  
 | bip_39_word_new_br_11 | tooth<br>purpose<br>page<br>jelly<br>any<br>dumb<br>ankle<br>rude<br>purity<br>route<br>dilemma |  
@@ -147,6 +159,18 @@ purity |
 | bip_39_word_space_7 | tooth purpose page jelly any dumb ankle |  
 | bip_39_word_space_8 | tooth purpose page jelly any dumb ankle rude |  
 | bip_39_word_space_9 | tooth purpose page jelly any dumb ankle rude purity |  
+| bip_39_word_underscore_1 | tooth |  
+| bip_39_word_underscore_10 | tooth_purpose_page_jelly_any_dumb_ankle_rude_purity_route |  
+| bip_39_word_underscore_11 | tooth_purpose_page_jelly_any_dumb_ankle_rude_purity_route_dilemma |  
+| bip_39_word_underscore_12 | tooth_purpose_page_jelly_any_dumb_ankle_rude_purity_route_dilemma_avocado |  
+| bip_39_word_underscore_2 | tooth_purpose |  
+| bip_39_word_underscore_3 | tooth_purpose_page |  
+| bip_39_word_underscore_4 | tooth_purpose_page_jelly |  
+| bip_39_word_underscore_5 | tooth_purpose_page_jelly_any |  
+| bip_39_word_underscore_6 | tooth_purpose_page_jelly_any_dumb |  
+| bip_39_word_underscore_7 | tooth_purpose_page_jelly_any_dumb_ankle |  
+| bip_39_word_underscore_8 | tooth_purpose_page_jelly_any_dumb_ankle_rude |  
+| bip_39_word_underscore_9 | tooth_purpose_page_jelly_any_dumb_ankle_rude_purity |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

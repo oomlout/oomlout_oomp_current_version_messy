@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | off |  
+| bip_39_word_dash_10 | off-potato-daughter-merry-gasp-decorate-label-own-suggest-few |  
+| bip_39_word_dash_11 | off-potato-daughter-merry-gasp-decorate-label-own-suggest-few-stomach |  
+| bip_39_word_dash_12 | off-potato-daughter-merry-gasp-decorate-label-own-suggest-few-stomach-adapt |  
+| bip_39_word_dash_2 | off-potato |  
+| bip_39_word_dash_3 | off-potato-daughter |  
+| bip_39_word_dash_4 | off-potato-daughter-merry |  
+| bip_39_word_dash_5 | off-potato-daughter-merry-gasp |  
+| bip_39_word_dash_6 | off-potato-daughter-merry-gasp-decorate |  
+| bip_39_word_dash_7 | off-potato-daughter-merry-gasp-decorate-label |  
+| bip_39_word_dash_8 | off-potato-daughter-merry-gasp-decorate-label-own |  
+| bip_39_word_dash_9 | off-potato-daughter-merry-gasp-decorate-label-own-suggest |  
 | bip_39_word_new_br_1 | off |  
 | bip_39_word_new_br_10 | off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own<br>suggest<br>few |  
 | bip_39_word_new_br_11 | off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own<br>suggest<br>few<br>stomach |  
@@ -147,6 +159,18 @@ suggest |
 | bip_39_word_space_7 | off potato daughter merry gasp decorate label |  
 | bip_39_word_space_8 | off potato daughter merry gasp decorate label own |  
 | bip_39_word_space_9 | off potato daughter merry gasp decorate label own suggest |  
+| bip_39_word_underscore_1 | off |  
+| bip_39_word_underscore_10 | off_potato_daughter_merry_gasp_decorate_label_own_suggest_few |  
+| bip_39_word_underscore_11 | off_potato_daughter_merry_gasp_decorate_label_own_suggest_few_stomach |  
+| bip_39_word_underscore_12 | off_potato_daughter_merry_gasp_decorate_label_own_suggest_few_stomach_adapt |  
+| bip_39_word_underscore_2 | off_potato |  
+| bip_39_word_underscore_3 | off_potato_daughter |  
+| bip_39_word_underscore_4 | off_potato_daughter_merry |  
+| bip_39_word_underscore_5 | off_potato_daughter_merry_gasp |  
+| bip_39_word_underscore_6 | off_potato_daughter_merry_gasp_decorate |  
+| bip_39_word_underscore_7 | off_potato_daughter_merry_gasp_decorate_label |  
+| bip_39_word_underscore_8 | off_potato_daughter_merry_gasp_decorate_label_own |  
+| bip_39_word_underscore_9 | off_potato_daughter_merry_gasp_decorate_label_own_suggest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stone |  
+| bip_39_word_dash_10 | stone-elephant-kind-resist-project-planet-bid-nasty-warfare-print |  
+| bip_39_word_dash_11 | stone-elephant-kind-resist-project-planet-bid-nasty-warfare-print-dance |  
+| bip_39_word_dash_12 | stone-elephant-kind-resist-project-planet-bid-nasty-warfare-print-dance-answer |  
+| bip_39_word_dash_2 | stone-elephant |  
+| bip_39_word_dash_3 | stone-elephant-kind |  
+| bip_39_word_dash_4 | stone-elephant-kind-resist |  
+| bip_39_word_dash_5 | stone-elephant-kind-resist-project |  
+| bip_39_word_dash_6 | stone-elephant-kind-resist-project-planet |  
+| bip_39_word_dash_7 | stone-elephant-kind-resist-project-planet-bid |  
+| bip_39_word_dash_8 | stone-elephant-kind-resist-project-planet-bid-nasty |  
+| bip_39_word_dash_9 | stone-elephant-kind-resist-project-planet-bid-nasty-warfare |  
 | bip_39_word_new_br_1 | stone |  
 | bip_39_word_new_br_10 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print |  
 | bip_39_word_new_br_11 | stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print<br>dance |  
@@ -147,6 +159,18 @@ warfare |
 | bip_39_word_space_7 | stone elephant kind resist project planet bid |  
 | bip_39_word_space_8 | stone elephant kind resist project planet bid nasty |  
 | bip_39_word_space_9 | stone elephant kind resist project planet bid nasty warfare |  
+| bip_39_word_underscore_1 | stone |  
+| bip_39_word_underscore_10 | stone_elephant_kind_resist_project_planet_bid_nasty_warfare_print |  
+| bip_39_word_underscore_11 | stone_elephant_kind_resist_project_planet_bid_nasty_warfare_print_dance |  
+| bip_39_word_underscore_12 | stone_elephant_kind_resist_project_planet_bid_nasty_warfare_print_dance_answer |  
+| bip_39_word_underscore_2 | stone_elephant |  
+| bip_39_word_underscore_3 | stone_elephant_kind |  
+| bip_39_word_underscore_4 | stone_elephant_kind_resist |  
+| bip_39_word_underscore_5 | stone_elephant_kind_resist_project |  
+| bip_39_word_underscore_6 | stone_elephant_kind_resist_project_planet |  
+| bip_39_word_underscore_7 | stone_elephant_kind_resist_project_planet_bid |  
+| bip_39_word_underscore_8 | stone_elephant_kind_resist_project_planet_bid_nasty |  
+| bip_39_word_underscore_9 | stone_elephant_kind_resist_project_planet_bid_nasty_warfare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

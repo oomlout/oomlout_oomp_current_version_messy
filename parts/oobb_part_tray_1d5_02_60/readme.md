@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wheat |  
+| bip_39_word_dash_10 | wheat-potato-napkin-ankle-embark-raven-glad-void-total-priority |  
+| bip_39_word_dash_11 | wheat-potato-napkin-ankle-embark-raven-glad-void-total-priority-spatial |  
+| bip_39_word_dash_12 | wheat-potato-napkin-ankle-embark-raven-glad-void-total-priority-spatial-athlete |  
+| bip_39_word_dash_2 | wheat-potato |  
+| bip_39_word_dash_3 | wheat-potato-napkin |  
+| bip_39_word_dash_4 | wheat-potato-napkin-ankle |  
+| bip_39_word_dash_5 | wheat-potato-napkin-ankle-embark |  
+| bip_39_word_dash_6 | wheat-potato-napkin-ankle-embark-raven |  
+| bip_39_word_dash_7 | wheat-potato-napkin-ankle-embark-raven-glad |  
+| bip_39_word_dash_8 | wheat-potato-napkin-ankle-embark-raven-glad-void |  
+| bip_39_word_dash_9 | wheat-potato-napkin-ankle-embark-raven-glad-void-total |  
 | bip_39_word_new_br_1 | wheat |  
 | bip_39_word_new_br_10 | wheat<br>potato<br>napkin<br>ankle<br>embark<br>raven<br>glad<br>void<br>total<br>priority |  
 | bip_39_word_new_br_11 | wheat<br>potato<br>napkin<br>ankle<br>embark<br>raven<br>glad<br>void<br>total<br>priority<br>spatial |  
@@ -147,6 +159,18 @@ total |
 | bip_39_word_space_7 | wheat potato napkin ankle embark raven glad |  
 | bip_39_word_space_8 | wheat potato napkin ankle embark raven glad void |  
 | bip_39_word_space_9 | wheat potato napkin ankle embark raven glad void total |  
+| bip_39_word_underscore_1 | wheat |  
+| bip_39_word_underscore_10 | wheat_potato_napkin_ankle_embark_raven_glad_void_total_priority |  
+| bip_39_word_underscore_11 | wheat_potato_napkin_ankle_embark_raven_glad_void_total_priority_spatial |  
+| bip_39_word_underscore_12 | wheat_potato_napkin_ankle_embark_raven_glad_void_total_priority_spatial_athlete |  
+| bip_39_word_underscore_2 | wheat_potato |  
+| bip_39_word_underscore_3 | wheat_potato_napkin |  
+| bip_39_word_underscore_4 | wheat_potato_napkin_ankle |  
+| bip_39_word_underscore_5 | wheat_potato_napkin_ankle_embark |  
+| bip_39_word_underscore_6 | wheat_potato_napkin_ankle_embark_raven |  
+| bip_39_word_underscore_7 | wheat_potato_napkin_ankle_embark_raven_glad |  
+| bip_39_word_underscore_8 | wheat_potato_napkin_ankle_embark_raven_glad_void |  
+| bip_39_word_underscore_9 | wheat_potato_napkin_ankle_embark_raven_glad_void_total |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: laugh
+bip_39_word_dash_10: laugh-cruel-whip-category-fly-good-joy-answer-prosper-siren
+bip_39_word_dash_11: laugh-cruel-whip-category-fly-good-joy-answer-prosper-siren-height
+bip_39_word_dash_12: laugh-cruel-whip-category-fly-good-joy-answer-prosper-siren-height-abstract
+bip_39_word_dash_2: laugh-cruel
+bip_39_word_dash_3: laugh-cruel-whip
+bip_39_word_dash_4: laugh-cruel-whip-category
+bip_39_word_dash_5: laugh-cruel-whip-category-fly
+bip_39_word_dash_6: laugh-cruel-whip-category-fly-good
+bip_39_word_dash_7: laugh-cruel-whip-category-fly-good-joy
+bip_39_word_dash_8: laugh-cruel-whip-category-fly-good-joy-answer
+bip_39_word_dash_9: laugh-cruel-whip-category-fly-good-joy-answer-prosper
 bip_39_word_new_br_1: laugh
 bip_39_word_new_br_10: laugh<br>cruel<br>whip<br>category<br>fly<br>good<br>joy<br>answer<br>prosper<br>siren
 bip_39_word_new_br_11: laugh<br>cruel<br>whip<br>category<br>fly<br>good<br>joy<br>answer<br>prosper<br>siren<br>height
@@ -193,6 +205,18 @@ bip_39_word_space_6: laugh cruel whip category fly good
 bip_39_word_space_7: laugh cruel whip category fly good joy
 bip_39_word_space_8: laugh cruel whip category fly good joy answer
 bip_39_word_space_9: laugh cruel whip category fly good joy answer prosper
+bip_39_word_underscore_1: laugh
+bip_39_word_underscore_10: laugh_cruel_whip_category_fly_good_joy_answer_prosper_siren
+bip_39_word_underscore_11: laugh_cruel_whip_category_fly_good_joy_answer_prosper_siren_height
+bip_39_word_underscore_12: laugh_cruel_whip_category_fly_good_joy_answer_prosper_siren_height_abstract
+bip_39_word_underscore_2: laugh_cruel
+bip_39_word_underscore_3: laugh_cruel_whip
+bip_39_word_underscore_4: laugh_cruel_whip_category
+bip_39_word_underscore_5: laugh_cruel_whip_category_fly
+bip_39_word_underscore_6: laugh_cruel_whip_category_fly_good
+bip_39_word_underscore_7: laugh_cruel_whip_category_fly_good_joy
+bip_39_word_underscore_8: laugh_cruel_whip_category_fly_good_joy_answer
+bip_39_word_underscore_9: laugh_cruel_whip_category_fly_good_joy_answer_prosper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

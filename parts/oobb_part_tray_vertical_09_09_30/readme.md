@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enroll |  
+| bip_39_word_dash_10 | enroll-bubble-eye-eagle-champion-topple-concert-hurt-balance-celery |  
+| bip_39_word_dash_11 | enroll-bubble-eye-eagle-champion-topple-concert-hurt-balance-celery-match |  
+| bip_39_word_dash_12 | enroll-bubble-eye-eagle-champion-topple-concert-hurt-balance-celery-match-athlete |  
+| bip_39_word_dash_2 | enroll-bubble |  
+| bip_39_word_dash_3 | enroll-bubble-eye |  
+| bip_39_word_dash_4 | enroll-bubble-eye-eagle |  
+| bip_39_word_dash_5 | enroll-bubble-eye-eagle-champion |  
+| bip_39_word_dash_6 | enroll-bubble-eye-eagle-champion-topple |  
+| bip_39_word_dash_7 | enroll-bubble-eye-eagle-champion-topple-concert |  
+| bip_39_word_dash_8 | enroll-bubble-eye-eagle-champion-topple-concert-hurt |  
+| bip_39_word_dash_9 | enroll-bubble-eye-eagle-champion-topple-concert-hurt-balance |  
 | bip_39_word_new_br_1 | enroll |  
 | bip_39_word_new_br_10 | enroll<br>bubble<br>eye<br>eagle<br>champion<br>topple<br>concert<br>hurt<br>balance<br>celery |  
 | bip_39_word_new_br_11 | enroll<br>bubble<br>eye<br>eagle<br>champion<br>topple<br>concert<br>hurt<br>balance<br>celery<br>match |  
@@ -147,6 +159,18 @@ balance |
 | bip_39_word_space_7 | enroll bubble eye eagle champion topple concert |  
 | bip_39_word_space_8 | enroll bubble eye eagle champion topple concert hurt |  
 | bip_39_word_space_9 | enroll bubble eye eagle champion topple concert hurt balance |  
+| bip_39_word_underscore_1 | enroll |  
+| bip_39_word_underscore_10 | enroll_bubble_eye_eagle_champion_topple_concert_hurt_balance_celery |  
+| bip_39_word_underscore_11 | enroll_bubble_eye_eagle_champion_topple_concert_hurt_balance_celery_match |  
+| bip_39_word_underscore_12 | enroll_bubble_eye_eagle_champion_topple_concert_hurt_balance_celery_match_athlete |  
+| bip_39_word_underscore_2 | enroll_bubble |  
+| bip_39_word_underscore_3 | enroll_bubble_eye |  
+| bip_39_word_underscore_4 | enroll_bubble_eye_eagle |  
+| bip_39_word_underscore_5 | enroll_bubble_eye_eagle_champion |  
+| bip_39_word_underscore_6 | enroll_bubble_eye_eagle_champion_topple |  
+| bip_39_word_underscore_7 | enroll_bubble_eye_eagle_champion_topple_concert |  
+| bip_39_word_underscore_8 | enroll_bubble_eye_eagle_champion_topple_concert_hurt |  
+| bip_39_word_underscore_9 | enroll_bubble_eye_eagle_champion_topple_concert_hurt_balance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

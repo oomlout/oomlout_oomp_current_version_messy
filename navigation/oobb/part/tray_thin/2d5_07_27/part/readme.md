@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exchange |  
+| bip_39_word_dash_10 | exchange-ride-album-toss-balance-achieve-error-provide-heart-borrow |  
+| bip_39_word_dash_11 | exchange-ride-album-toss-balance-achieve-error-provide-heart-borrow-collect |  
+| bip_39_word_dash_12 | exchange-ride-album-toss-balance-achieve-error-provide-heart-borrow-collect-angle |  
+| bip_39_word_dash_2 | exchange-ride |  
+| bip_39_word_dash_3 | exchange-ride-album |  
+| bip_39_word_dash_4 | exchange-ride-album-toss |  
+| bip_39_word_dash_5 | exchange-ride-album-toss-balance |  
+| bip_39_word_dash_6 | exchange-ride-album-toss-balance-achieve |  
+| bip_39_word_dash_7 | exchange-ride-album-toss-balance-achieve-error |  
+| bip_39_word_dash_8 | exchange-ride-album-toss-balance-achieve-error-provide |  
+| bip_39_word_dash_9 | exchange-ride-album-toss-balance-achieve-error-provide-heart |  
 | bip_39_word_new_br_1 | exchange |  
 | bip_39_word_new_br_10 | exchange<br>ride<br>album<br>toss<br>balance<br>achieve<br>error<br>provide<br>heart<br>borrow |  
 | bip_39_word_new_br_11 | exchange<br>ride<br>album<br>toss<br>balance<br>achieve<br>error<br>provide<br>heart<br>borrow<br>collect |  
@@ -147,6 +159,18 @@ heart |
 | bip_39_word_space_7 | exchange ride album toss balance achieve error |  
 | bip_39_word_space_8 | exchange ride album toss balance achieve error provide |  
 | bip_39_word_space_9 | exchange ride album toss balance achieve error provide heart |  
+| bip_39_word_underscore_1 | exchange |  
+| bip_39_word_underscore_10 | exchange_ride_album_toss_balance_achieve_error_provide_heart_borrow |  
+| bip_39_word_underscore_11 | exchange_ride_album_toss_balance_achieve_error_provide_heart_borrow_collect |  
+| bip_39_word_underscore_12 | exchange_ride_album_toss_balance_achieve_error_provide_heart_borrow_collect_angle |  
+| bip_39_word_underscore_2 | exchange_ride |  
+| bip_39_word_underscore_3 | exchange_ride_album |  
+| bip_39_word_underscore_4 | exchange_ride_album_toss |  
+| bip_39_word_underscore_5 | exchange_ride_album_toss_balance |  
+| bip_39_word_underscore_6 | exchange_ride_album_toss_balance_achieve |  
+| bip_39_word_underscore_7 | exchange_ride_album_toss_balance_achieve_error |  
+| bip_39_word_underscore_8 | exchange_ride_album_toss_balance_achieve_error_provide |  
+| bip_39_word_underscore_9 | exchange_ride_album_toss_balance_achieve_error_provide_heart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

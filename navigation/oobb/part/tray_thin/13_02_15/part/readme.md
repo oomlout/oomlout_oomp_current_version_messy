@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | change |  
+| bip_39_word_dash_10 | change-popular-chuckle-soap-clutch-blush-security-explain-fabric-adult |  
+| bip_39_word_dash_11 | change-popular-chuckle-soap-clutch-blush-security-explain-fabric-adult-link |  
+| bip_39_word_dash_12 | change-popular-chuckle-soap-clutch-blush-security-explain-fabric-adult-link-august |  
+| bip_39_word_dash_2 | change-popular |  
+| bip_39_word_dash_3 | change-popular-chuckle |  
+| bip_39_word_dash_4 | change-popular-chuckle-soap |  
+| bip_39_word_dash_5 | change-popular-chuckle-soap-clutch |  
+| bip_39_word_dash_6 | change-popular-chuckle-soap-clutch-blush |  
+| bip_39_word_dash_7 | change-popular-chuckle-soap-clutch-blush-security |  
+| bip_39_word_dash_8 | change-popular-chuckle-soap-clutch-blush-security-explain |  
+| bip_39_word_dash_9 | change-popular-chuckle-soap-clutch-blush-security-explain-fabric |  
 | bip_39_word_new_br_1 | change |  
 | bip_39_word_new_br_10 | change<br>popular<br>chuckle<br>soap<br>clutch<br>blush<br>security<br>explain<br>fabric<br>adult |  
 | bip_39_word_new_br_11 | change<br>popular<br>chuckle<br>soap<br>clutch<br>blush<br>security<br>explain<br>fabric<br>adult<br>link |  
@@ -147,6 +159,18 @@ fabric |
 | bip_39_word_space_7 | change popular chuckle soap clutch blush security |  
 | bip_39_word_space_8 | change popular chuckle soap clutch blush security explain |  
 | bip_39_word_space_9 | change popular chuckle soap clutch blush security explain fabric |  
+| bip_39_word_underscore_1 | change |  
+| bip_39_word_underscore_10 | change_popular_chuckle_soap_clutch_blush_security_explain_fabric_adult |  
+| bip_39_word_underscore_11 | change_popular_chuckle_soap_clutch_blush_security_explain_fabric_adult_link |  
+| bip_39_word_underscore_12 | change_popular_chuckle_soap_clutch_blush_security_explain_fabric_adult_link_august |  
+| bip_39_word_underscore_2 | change_popular |  
+| bip_39_word_underscore_3 | change_popular_chuckle |  
+| bip_39_word_underscore_4 | change_popular_chuckle_soap |  
+| bip_39_word_underscore_5 | change_popular_chuckle_soap_clutch |  
+| bip_39_word_underscore_6 | change_popular_chuckle_soap_clutch_blush |  
+| bip_39_word_underscore_7 | change_popular_chuckle_soap_clutch_blush_security |  
+| bip_39_word_underscore_8 | change_popular_chuckle_soap_clutch_blush_security_explain |  
+| bip_39_word_underscore_9 | change_popular_chuckle_soap_clutch_blush_security_explain_fabric |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: step
+bip_39_word_dash_10: step-foil-correct-where-roof-text-marble-similar-zero-guide
+bip_39_word_dash_11: step-foil-correct-where-roof-text-marble-similar-zero-guide-early
+bip_39_word_dash_12: step-foil-correct-where-roof-text-marble-similar-zero-guide-early-auction
+bip_39_word_dash_2: step-foil
+bip_39_word_dash_3: step-foil-correct
+bip_39_word_dash_4: step-foil-correct-where
+bip_39_word_dash_5: step-foil-correct-where-roof
+bip_39_word_dash_6: step-foil-correct-where-roof-text
+bip_39_word_dash_7: step-foil-correct-where-roof-text-marble
+bip_39_word_dash_8: step-foil-correct-where-roof-text-marble-similar
+bip_39_word_dash_9: step-foil-correct-where-roof-text-marble-similar-zero
 bip_39_word_new_br_1: step
 bip_39_word_new_br_10: step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide
 bip_39_word_new_br_11: step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide<br>early
@@ -193,6 +205,18 @@ bip_39_word_space_6: step foil correct where roof text
 bip_39_word_space_7: step foil correct where roof text marble
 bip_39_word_space_8: step foil correct where roof text marble similar
 bip_39_word_space_9: step foil correct where roof text marble similar zero
+bip_39_word_underscore_1: step
+bip_39_word_underscore_10: step_foil_correct_where_roof_text_marble_similar_zero_guide
+bip_39_word_underscore_11: step_foil_correct_where_roof_text_marble_similar_zero_guide_early
+bip_39_word_underscore_12: step_foil_correct_where_roof_text_marble_similar_zero_guide_early_auction
+bip_39_word_underscore_2: step_foil
+bip_39_word_underscore_3: step_foil_correct
+bip_39_word_underscore_4: step_foil_correct_where
+bip_39_word_underscore_5: step_foil_correct_where_roof
+bip_39_word_underscore_6: step_foil_correct_where_roof_text
+bip_39_word_underscore_7: step_foil_correct_where_roof_text_marble
+bip_39_word_underscore_8: step_foil_correct_where_roof_text_marble_similar
+bip_39_word_underscore_9: step_foil_correct_where_roof_text_marble_similar_zero
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

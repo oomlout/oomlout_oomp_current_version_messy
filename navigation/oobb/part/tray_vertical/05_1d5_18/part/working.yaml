@@ -1,3 +1,15 @@
+bip_39_word_dash_1: adapt
+bip_39_word_dash_10: adapt-income-chicken-tribe-copy-fossil-change-distance-country-safe
+bip_39_word_dash_11: adapt-income-chicken-tribe-copy-fossil-change-distance-country-safe-evoke
+bip_39_word_dash_12: adapt-income-chicken-tribe-copy-fossil-change-distance-country-safe-evoke-air
+bip_39_word_dash_2: adapt-income
+bip_39_word_dash_3: adapt-income-chicken
+bip_39_word_dash_4: adapt-income-chicken-tribe
+bip_39_word_dash_5: adapt-income-chicken-tribe-copy
+bip_39_word_dash_6: adapt-income-chicken-tribe-copy-fossil
+bip_39_word_dash_7: adapt-income-chicken-tribe-copy-fossil-change
+bip_39_word_dash_8: adapt-income-chicken-tribe-copy-fossil-change-distance
+bip_39_word_dash_9: adapt-income-chicken-tribe-copy-fossil-change-distance-country
 bip_39_word_new_br_1: adapt
 bip_39_word_new_br_10: adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance<br>country<br>safe
 bip_39_word_new_br_11: adapt<br>income<br>chicken<br>tribe<br>copy<br>fossil<br>change<br>distance<br>country<br>safe<br>evoke
@@ -194,6 +206,18 @@ bip_39_word_space_6: adapt income chicken tribe copy fossil
 bip_39_word_space_7: adapt income chicken tribe copy fossil change
 bip_39_word_space_8: adapt income chicken tribe copy fossil change distance
 bip_39_word_space_9: adapt income chicken tribe copy fossil change distance country
+bip_39_word_underscore_1: adapt
+bip_39_word_underscore_10: adapt_income_chicken_tribe_copy_fossil_change_distance_country_safe
+bip_39_word_underscore_11: adapt_income_chicken_tribe_copy_fossil_change_distance_country_safe_evoke
+bip_39_word_underscore_12: adapt_income_chicken_tribe_copy_fossil_change_distance_country_safe_evoke_air
+bip_39_word_underscore_2: adapt_income
+bip_39_word_underscore_3: adapt_income_chicken
+bip_39_word_underscore_4: adapt_income_chicken_tribe
+bip_39_word_underscore_5: adapt_income_chicken_tribe_copy
+bip_39_word_underscore_6: adapt_income_chicken_tribe_copy_fossil
+bip_39_word_underscore_7: adapt_income_chicken_tribe_copy_fossil_change
+bip_39_word_underscore_8: adapt_income_chicken_tribe_copy_fossil_change_distance
+bip_39_word_underscore_9: adapt_income_chicken_tribe_copy_fossil_change_distance_country
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

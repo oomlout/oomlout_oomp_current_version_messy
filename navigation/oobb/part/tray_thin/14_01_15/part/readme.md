@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dwarf |  
+| bip_39_word_dash_10 | dwarf-refuse-omit-town-damp-artwork-similar-myth-silly-equip |  
+| bip_39_word_dash_11 | dwarf-refuse-omit-town-damp-artwork-similar-myth-silly-equip-pretty |  
+| bip_39_word_dash_12 | dwarf-refuse-omit-town-damp-artwork-similar-myth-silly-equip-pretty-arrive |  
+| bip_39_word_dash_2 | dwarf-refuse |  
+| bip_39_word_dash_3 | dwarf-refuse-omit |  
+| bip_39_word_dash_4 | dwarf-refuse-omit-town |  
+| bip_39_word_dash_5 | dwarf-refuse-omit-town-damp |  
+| bip_39_word_dash_6 | dwarf-refuse-omit-town-damp-artwork |  
+| bip_39_word_dash_7 | dwarf-refuse-omit-town-damp-artwork-similar |  
+| bip_39_word_dash_8 | dwarf-refuse-omit-town-damp-artwork-similar-myth |  
+| bip_39_word_dash_9 | dwarf-refuse-omit-town-damp-artwork-similar-myth-silly |  
 | bip_39_word_new_br_1 | dwarf |  
 | bip_39_word_new_br_10 | dwarf<br>refuse<br>omit<br>town<br>damp<br>artwork<br>similar<br>myth<br>silly<br>equip |  
 | bip_39_word_new_br_11 | dwarf<br>refuse<br>omit<br>town<br>damp<br>artwork<br>similar<br>myth<br>silly<br>equip<br>pretty |  
@@ -147,6 +159,18 @@ silly |
 | bip_39_word_space_7 | dwarf refuse omit town damp artwork similar |  
 | bip_39_word_space_8 | dwarf refuse omit town damp artwork similar myth |  
 | bip_39_word_space_9 | dwarf refuse omit town damp artwork similar myth silly |  
+| bip_39_word_underscore_1 | dwarf |  
+| bip_39_word_underscore_10 | dwarf_refuse_omit_town_damp_artwork_similar_myth_silly_equip |  
+| bip_39_word_underscore_11 | dwarf_refuse_omit_town_damp_artwork_similar_myth_silly_equip_pretty |  
+| bip_39_word_underscore_12 | dwarf_refuse_omit_town_damp_artwork_similar_myth_silly_equip_pretty_arrive |  
+| bip_39_word_underscore_2 | dwarf_refuse |  
+| bip_39_word_underscore_3 | dwarf_refuse_omit |  
+| bip_39_word_underscore_4 | dwarf_refuse_omit_town |  
+| bip_39_word_underscore_5 | dwarf_refuse_omit_town_damp |  
+| bip_39_word_underscore_6 | dwarf_refuse_omit_town_damp_artwork |  
+| bip_39_word_underscore_7 | dwarf_refuse_omit_town_damp_artwork_similar |  
+| bip_39_word_underscore_8 | dwarf_refuse_omit_town_damp_artwork_similar_myth |  
+| bip_39_word_underscore_9 | dwarf_refuse_omit_town_damp_artwork_similar_myth_silly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

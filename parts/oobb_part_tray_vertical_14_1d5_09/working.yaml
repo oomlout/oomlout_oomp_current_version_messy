@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pipe
+bip_39_word_dash_10: pipe-lecture-coin-alarm-right-pizza-floor-range-crush-zebra
+bip_39_word_dash_11: pipe-lecture-coin-alarm-right-pizza-floor-range-crush-zebra-congress
+bip_39_word_dash_12: pipe-lecture-coin-alarm-right-pizza-floor-range-crush-zebra-congress-alcohol
+bip_39_word_dash_2: pipe-lecture
+bip_39_word_dash_3: pipe-lecture-coin
+bip_39_word_dash_4: pipe-lecture-coin-alarm
+bip_39_word_dash_5: pipe-lecture-coin-alarm-right
+bip_39_word_dash_6: pipe-lecture-coin-alarm-right-pizza
+bip_39_word_dash_7: pipe-lecture-coin-alarm-right-pizza-floor
+bip_39_word_dash_8: pipe-lecture-coin-alarm-right-pizza-floor-range
+bip_39_word_dash_9: pipe-lecture-coin-alarm-right-pizza-floor-range-crush
 bip_39_word_new_br_1: pipe
 bip_39_word_new_br_10: pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra
 bip_39_word_new_br_11: pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra<br>congress
@@ -193,6 +205,18 @@ bip_39_word_space_6: pipe lecture coin alarm right pizza
 bip_39_word_space_7: pipe lecture coin alarm right pizza floor
 bip_39_word_space_8: pipe lecture coin alarm right pizza floor range
 bip_39_word_space_9: pipe lecture coin alarm right pizza floor range crush
+bip_39_word_underscore_1: pipe
+bip_39_word_underscore_10: pipe_lecture_coin_alarm_right_pizza_floor_range_crush_zebra
+bip_39_word_underscore_11: pipe_lecture_coin_alarm_right_pizza_floor_range_crush_zebra_congress
+bip_39_word_underscore_12: pipe_lecture_coin_alarm_right_pizza_floor_range_crush_zebra_congress_alcohol
+bip_39_word_underscore_2: pipe_lecture
+bip_39_word_underscore_3: pipe_lecture_coin
+bip_39_word_underscore_4: pipe_lecture_coin_alarm
+bip_39_word_underscore_5: pipe_lecture_coin_alarm_right
+bip_39_word_underscore_6: pipe_lecture_coin_alarm_right_pizza
+bip_39_word_underscore_7: pipe_lecture_coin_alarm_right_pizza_floor
+bip_39_word_underscore_8: pipe_lecture_coin_alarm_right_pizza_floor_range
+bip_39_word_underscore_9: pipe_lecture_coin_alarm_right_pizza_floor_range_crush
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

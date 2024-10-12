@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | devote |  
+| bip_39_word_dash_10 | devote-river-file-trend-crop-dust-stable-flock-mobile-aerobic |  
+| bip_39_word_dash_11 | devote-river-file-trend-crop-dust-stable-flock-mobile-aerobic-lend |  
+| bip_39_word_dash_12 | devote-river-file-trend-crop-dust-stable-flock-mobile-aerobic-lend-asthma |  
+| bip_39_word_dash_2 | devote-river |  
+| bip_39_word_dash_3 | devote-river-file |  
+| bip_39_word_dash_4 | devote-river-file-trend |  
+| bip_39_word_dash_5 | devote-river-file-trend-crop |  
+| bip_39_word_dash_6 | devote-river-file-trend-crop-dust |  
+| bip_39_word_dash_7 | devote-river-file-trend-crop-dust-stable |  
+| bip_39_word_dash_8 | devote-river-file-trend-crop-dust-stable-flock |  
+| bip_39_word_dash_9 | devote-river-file-trend-crop-dust-stable-flock-mobile |  
 | bip_39_word_new_br_1 | devote |  
 | bip_39_word_new_br_10 | devote<br>river<br>file<br>trend<br>crop<br>dust<br>stable<br>flock<br>mobile<br>aerobic |  
 | bip_39_word_new_br_11 | devote<br>river<br>file<br>trend<br>crop<br>dust<br>stable<br>flock<br>mobile<br>aerobic<br>lend |  
@@ -147,6 +159,18 @@ mobile |
 | bip_39_word_space_7 | devote river file trend crop dust stable |  
 | bip_39_word_space_8 | devote river file trend crop dust stable flock |  
 | bip_39_word_space_9 | devote river file trend crop dust stable flock mobile |  
+| bip_39_word_underscore_1 | devote |  
+| bip_39_word_underscore_10 | devote_river_file_trend_crop_dust_stable_flock_mobile_aerobic |  
+| bip_39_word_underscore_11 | devote_river_file_trend_crop_dust_stable_flock_mobile_aerobic_lend |  
+| bip_39_word_underscore_12 | devote_river_file_trend_crop_dust_stable_flock_mobile_aerobic_lend_asthma |  
+| bip_39_word_underscore_2 | devote_river |  
+| bip_39_word_underscore_3 | devote_river_file |  
+| bip_39_word_underscore_4 | devote_river_file_trend |  
+| bip_39_word_underscore_5 | devote_river_file_trend_crop |  
+| bip_39_word_underscore_6 | devote_river_file_trend_crop_dust |  
+| bip_39_word_underscore_7 | devote_river_file_trend_crop_dust_stable |  
+| bip_39_word_underscore_8 | devote_river_file_trend_crop_dust_stable_flock |  
+| bip_39_word_underscore_9 | devote_river_file_trend_crop_dust_stable_flock_mobile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

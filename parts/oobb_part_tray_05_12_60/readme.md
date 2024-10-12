@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fault |  
+| bip_39_word_dash_10 | fault-light-garlic-roof-wealth-also-pulp-include-curve-indicate |  
+| bip_39_word_dash_11 | fault-light-garlic-roof-wealth-also-pulp-include-curve-indicate-drama |  
+| bip_39_word_dash_12 | fault-light-garlic-roof-wealth-also-pulp-include-curve-indicate-drama-attract |  
+| bip_39_word_dash_2 | fault-light |  
+| bip_39_word_dash_3 | fault-light-garlic |  
+| bip_39_word_dash_4 | fault-light-garlic-roof |  
+| bip_39_word_dash_5 | fault-light-garlic-roof-wealth |  
+| bip_39_word_dash_6 | fault-light-garlic-roof-wealth-also |  
+| bip_39_word_dash_7 | fault-light-garlic-roof-wealth-also-pulp |  
+| bip_39_word_dash_8 | fault-light-garlic-roof-wealth-also-pulp-include |  
+| bip_39_word_dash_9 | fault-light-garlic-roof-wealth-also-pulp-include-curve |  
 | bip_39_word_new_br_1 | fault |  
 | bip_39_word_new_br_10 | fault<br>light<br>garlic<br>roof<br>wealth<br>also<br>pulp<br>include<br>curve<br>indicate |  
 | bip_39_word_new_br_11 | fault<br>light<br>garlic<br>roof<br>wealth<br>also<br>pulp<br>include<br>curve<br>indicate<br>drama |  
@@ -147,6 +159,18 @@ curve |
 | bip_39_word_space_7 | fault light garlic roof wealth also pulp |  
 | bip_39_word_space_8 | fault light garlic roof wealth also pulp include |  
 | bip_39_word_space_9 | fault light garlic roof wealth also pulp include curve |  
+| bip_39_word_underscore_1 | fault |  
+| bip_39_word_underscore_10 | fault_light_garlic_roof_wealth_also_pulp_include_curve_indicate |  
+| bip_39_word_underscore_11 | fault_light_garlic_roof_wealth_also_pulp_include_curve_indicate_drama |  
+| bip_39_word_underscore_12 | fault_light_garlic_roof_wealth_also_pulp_include_curve_indicate_drama_attract |  
+| bip_39_word_underscore_2 | fault_light |  
+| bip_39_word_underscore_3 | fault_light_garlic |  
+| bip_39_word_underscore_4 | fault_light_garlic_roof |  
+| bip_39_word_underscore_5 | fault_light_garlic_roof_wealth |  
+| bip_39_word_underscore_6 | fault_light_garlic_roof_wealth_also |  
+| bip_39_word_underscore_7 | fault_light_garlic_roof_wealth_also_pulp |  
+| bip_39_word_underscore_8 | fault_light_garlic_roof_wealth_also_pulp_include |  
+| bip_39_word_underscore_9 | fault_light_garlic_roof_wealth_also_pulp_include_curve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

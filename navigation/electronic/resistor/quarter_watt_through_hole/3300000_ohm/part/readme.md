@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shaft |  
+| bip_39_word_dash_10 | shaft-jump-purity-dutch-chase-gift-parade-fan-already-half |  
+| bip_39_word_dash_11 | shaft-jump-purity-dutch-chase-gift-parade-fan-already-half-hospital |  
+| bip_39_word_dash_12 | shaft-jump-purity-dutch-chase-gift-parade-fan-already-half-hospital-account |  
+| bip_39_word_dash_2 | shaft-jump |  
+| bip_39_word_dash_3 | shaft-jump-purity |  
+| bip_39_word_dash_4 | shaft-jump-purity-dutch |  
+| bip_39_word_dash_5 | shaft-jump-purity-dutch-chase |  
+| bip_39_word_dash_6 | shaft-jump-purity-dutch-chase-gift |  
+| bip_39_word_dash_7 | shaft-jump-purity-dutch-chase-gift-parade |  
+| bip_39_word_dash_8 | shaft-jump-purity-dutch-chase-gift-parade-fan |  
+| bip_39_word_dash_9 | shaft-jump-purity-dutch-chase-gift-parade-fan-already |  
 | bip_39_word_new_br_1 | shaft |  
 | bip_39_word_new_br_10 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half |  
 | bip_39_word_new_br_11 | shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half<br>hospital |  
@@ -147,6 +159,18 @@ already |
 | bip_39_word_space_7 | shaft jump purity dutch chase gift parade |  
 | bip_39_word_space_8 | shaft jump purity dutch chase gift parade fan |  
 | bip_39_word_space_9 | shaft jump purity dutch chase gift parade fan already |  
+| bip_39_word_underscore_1 | shaft |  
+| bip_39_word_underscore_10 | shaft_jump_purity_dutch_chase_gift_parade_fan_already_half |  
+| bip_39_word_underscore_11 | shaft_jump_purity_dutch_chase_gift_parade_fan_already_half_hospital |  
+| bip_39_word_underscore_12 | shaft_jump_purity_dutch_chase_gift_parade_fan_already_half_hospital_account |  
+| bip_39_word_underscore_2 | shaft_jump |  
+| bip_39_word_underscore_3 | shaft_jump_purity |  
+| bip_39_word_underscore_4 | shaft_jump_purity_dutch |  
+| bip_39_word_underscore_5 | shaft_jump_purity_dutch_chase |  
+| bip_39_word_underscore_6 | shaft_jump_purity_dutch_chase_gift |  
+| bip_39_word_underscore_7 | shaft_jump_purity_dutch_chase_gift_parade |  
+| bip_39_word_underscore_8 | shaft_jump_purity_dutch_chase_gift_parade_fan |  
+| bip_39_word_underscore_9 | shaft_jump_purity_dutch_chase_gift_parade_fan_already |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

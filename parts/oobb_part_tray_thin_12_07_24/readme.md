@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | math |  
+| bip_39_word_dash_10 | math-spell-pool-seek-luxury-split-cannon-retreat-equal-brain |  
+| bip_39_word_dash_11 | math-spell-pool-seek-luxury-split-cannon-retreat-equal-brain-mother |  
+| bip_39_word_dash_12 | math-spell-pool-seek-luxury-split-cannon-retreat-equal-brain-mother-acquire |  
+| bip_39_word_dash_2 | math-spell |  
+| bip_39_word_dash_3 | math-spell-pool |  
+| bip_39_word_dash_4 | math-spell-pool-seek |  
+| bip_39_word_dash_5 | math-spell-pool-seek-luxury |  
+| bip_39_word_dash_6 | math-spell-pool-seek-luxury-split |  
+| bip_39_word_dash_7 | math-spell-pool-seek-luxury-split-cannon |  
+| bip_39_word_dash_8 | math-spell-pool-seek-luxury-split-cannon-retreat |  
+| bip_39_word_dash_9 | math-spell-pool-seek-luxury-split-cannon-retreat-equal |  
 | bip_39_word_new_br_1 | math |  
 | bip_39_word_new_br_10 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain |  
 | bip_39_word_new_br_11 | math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain<br>mother |  
@@ -147,6 +159,18 @@ equal |
 | bip_39_word_space_7 | math spell pool seek luxury split cannon |  
 | bip_39_word_space_8 | math spell pool seek luxury split cannon retreat |  
 | bip_39_word_space_9 | math spell pool seek luxury split cannon retreat equal |  
+| bip_39_word_underscore_1 | math |  
+| bip_39_word_underscore_10 | math_spell_pool_seek_luxury_split_cannon_retreat_equal_brain |  
+| bip_39_word_underscore_11 | math_spell_pool_seek_luxury_split_cannon_retreat_equal_brain_mother |  
+| bip_39_word_underscore_12 | math_spell_pool_seek_luxury_split_cannon_retreat_equal_brain_mother_acquire |  
+| bip_39_word_underscore_2 | math_spell |  
+| bip_39_word_underscore_3 | math_spell_pool |  
+| bip_39_word_underscore_4 | math_spell_pool_seek |  
+| bip_39_word_underscore_5 | math_spell_pool_seek_luxury |  
+| bip_39_word_underscore_6 | math_spell_pool_seek_luxury_split |  
+| bip_39_word_underscore_7 | math_spell_pool_seek_luxury_split_cannon |  
+| bip_39_word_underscore_8 | math_spell_pool_seek_luxury_split_cannon_retreat |  
+| bip_39_word_underscore_9 | math_spell_pool_seek_luxury_split_cannon_retreat_equal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

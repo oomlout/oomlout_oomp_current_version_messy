@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | park |  
+| bip_39_word_dash_10 | park-visit-village-disagree-place-spoon-give-loyal-surround-maximum |  
+| bip_39_word_dash_11 | park-visit-village-disagree-place-spoon-give-loyal-surround-maximum-flip |  
+| bip_39_word_dash_12 | park-visit-village-disagree-place-spoon-give-loyal-surround-maximum-flip-annual |  
+| bip_39_word_dash_2 | park-visit |  
+| bip_39_word_dash_3 | park-visit-village |  
+| bip_39_word_dash_4 | park-visit-village-disagree |  
+| bip_39_word_dash_5 | park-visit-village-disagree-place |  
+| bip_39_word_dash_6 | park-visit-village-disagree-place-spoon |  
+| bip_39_word_dash_7 | park-visit-village-disagree-place-spoon-give |  
+| bip_39_word_dash_8 | park-visit-village-disagree-place-spoon-give-loyal |  
+| bip_39_word_dash_9 | park-visit-village-disagree-place-spoon-give-loyal-surround |  
 | bip_39_word_new_br_1 | park |  
 | bip_39_word_new_br_10 | park<br>visit<br>village<br>disagree<br>place<br>spoon<br>give<br>loyal<br>surround<br>maximum |  
 | bip_39_word_new_br_11 | park<br>visit<br>village<br>disagree<br>place<br>spoon<br>give<br>loyal<br>surround<br>maximum<br>flip |  
@@ -147,6 +159,18 @@ surround |
 | bip_39_word_space_7 | park visit village disagree place spoon give |  
 | bip_39_word_space_8 | park visit village disagree place spoon give loyal |  
 | bip_39_word_space_9 | park visit village disagree place spoon give loyal surround |  
+| bip_39_word_underscore_1 | park |  
+| bip_39_word_underscore_10 | park_visit_village_disagree_place_spoon_give_loyal_surround_maximum |  
+| bip_39_word_underscore_11 | park_visit_village_disagree_place_spoon_give_loyal_surround_maximum_flip |  
+| bip_39_word_underscore_12 | park_visit_village_disagree_place_spoon_give_loyal_surround_maximum_flip_annual |  
+| bip_39_word_underscore_2 | park_visit |  
+| bip_39_word_underscore_3 | park_visit_village |  
+| bip_39_word_underscore_4 | park_visit_village_disagree |  
+| bip_39_word_underscore_5 | park_visit_village_disagree_place |  
+| bip_39_word_underscore_6 | park_visit_village_disagree_place_spoon |  
+| bip_39_word_underscore_7 | park_visit_village_disagree_place_spoon_give |  
+| bip_39_word_underscore_8 | park_visit_village_disagree_place_spoon_give_loyal |  
+| bip_39_word_underscore_9 | park_visit_village_disagree_place_spoon_give_loyal_surround |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

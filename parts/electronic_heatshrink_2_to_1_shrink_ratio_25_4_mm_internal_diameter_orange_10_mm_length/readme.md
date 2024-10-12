@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | walnut |  
+| bip_39_word_dash_10 | walnut-crystal-dynamic-scheme-network-call-people-opinion-quit-fiber |  
+| bip_39_word_dash_11 | walnut-crystal-dynamic-scheme-network-call-people-opinion-quit-fiber-seven |  
+| bip_39_word_dash_12 | walnut-crystal-dynamic-scheme-network-call-people-opinion-quit-fiber-seven-alert |  
+| bip_39_word_dash_2 | walnut-crystal |  
+| bip_39_word_dash_3 | walnut-crystal-dynamic |  
+| bip_39_word_dash_4 | walnut-crystal-dynamic-scheme |  
+| bip_39_word_dash_5 | walnut-crystal-dynamic-scheme-network |  
+| bip_39_word_dash_6 | walnut-crystal-dynamic-scheme-network-call |  
+| bip_39_word_dash_7 | walnut-crystal-dynamic-scheme-network-call-people |  
+| bip_39_word_dash_8 | walnut-crystal-dynamic-scheme-network-call-people-opinion |  
+| bip_39_word_dash_9 | walnut-crystal-dynamic-scheme-network-call-people-opinion-quit |  
 | bip_39_word_new_br_1 | walnut |  
 | bip_39_word_new_br_10 | walnut<br>crystal<br>dynamic<br>scheme<br>network<br>call<br>people<br>opinion<br>quit<br>fiber |  
 | bip_39_word_new_br_11 | walnut<br>crystal<br>dynamic<br>scheme<br>network<br>call<br>people<br>opinion<br>quit<br>fiber<br>seven |  
@@ -147,6 +159,18 @@ quit |
 | bip_39_word_space_7 | walnut crystal dynamic scheme network call people |  
 | bip_39_word_space_8 | walnut crystal dynamic scheme network call people opinion |  
 | bip_39_word_space_9 | walnut crystal dynamic scheme network call people opinion quit |  
+| bip_39_word_underscore_1 | walnut |  
+| bip_39_word_underscore_10 | walnut_crystal_dynamic_scheme_network_call_people_opinion_quit_fiber |  
+| bip_39_word_underscore_11 | walnut_crystal_dynamic_scheme_network_call_people_opinion_quit_fiber_seven |  
+| bip_39_word_underscore_12 | walnut_crystal_dynamic_scheme_network_call_people_opinion_quit_fiber_seven_alert |  
+| bip_39_word_underscore_2 | walnut_crystal |  
+| bip_39_word_underscore_3 | walnut_crystal_dynamic |  
+| bip_39_word_underscore_4 | walnut_crystal_dynamic_scheme |  
+| bip_39_word_underscore_5 | walnut_crystal_dynamic_scheme_network |  
+| bip_39_word_underscore_6 | walnut_crystal_dynamic_scheme_network_call |  
+| bip_39_word_underscore_7 | walnut_crystal_dynamic_scheme_network_call_people |  
+| bip_39_word_underscore_8 | walnut_crystal_dynamic_scheme_network_call_people_opinion |  
+| bip_39_word_underscore_9 | walnut_crystal_dynamic_scheme_network_call_people_opinion_quit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

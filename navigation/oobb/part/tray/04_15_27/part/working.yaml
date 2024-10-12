@@ -1,3 +1,15 @@
+bip_39_word_dash_1: divide
+bip_39_word_dash_10: divide-section-seat-wolf-dune-tornado-stay-weekend-capable-diet
+bip_39_word_dash_11: divide-section-seat-wolf-dune-tornado-stay-weekend-capable-diet-hedgehog
+bip_39_word_dash_12: divide-section-seat-wolf-dune-tornado-stay-weekend-capable-diet-hedgehog-adapt
+bip_39_word_dash_2: divide-section
+bip_39_word_dash_3: divide-section-seat
+bip_39_word_dash_4: divide-section-seat-wolf
+bip_39_word_dash_5: divide-section-seat-wolf-dune
+bip_39_word_dash_6: divide-section-seat-wolf-dune-tornado
+bip_39_word_dash_7: divide-section-seat-wolf-dune-tornado-stay
+bip_39_word_dash_8: divide-section-seat-wolf-dune-tornado-stay-weekend
+bip_39_word_dash_9: divide-section-seat-wolf-dune-tornado-stay-weekend-capable
 bip_39_word_new_br_1: divide
 bip_39_word_new_br_10: divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend<br>capable<br>diet
 bip_39_word_new_br_11: divide<br>section<br>seat<br>wolf<br>dune<br>tornado<br>stay<br>weekend<br>capable<br>diet<br>hedgehog
@@ -193,6 +205,18 @@ bip_39_word_space_6: divide section seat wolf dune tornado
 bip_39_word_space_7: divide section seat wolf dune tornado stay
 bip_39_word_space_8: divide section seat wolf dune tornado stay weekend
 bip_39_word_space_9: divide section seat wolf dune tornado stay weekend capable
+bip_39_word_underscore_1: divide
+bip_39_word_underscore_10: divide_section_seat_wolf_dune_tornado_stay_weekend_capable_diet
+bip_39_word_underscore_11: divide_section_seat_wolf_dune_tornado_stay_weekend_capable_diet_hedgehog
+bip_39_word_underscore_12: divide_section_seat_wolf_dune_tornado_stay_weekend_capable_diet_hedgehog_adapt
+bip_39_word_underscore_2: divide_section
+bip_39_word_underscore_3: divide_section_seat
+bip_39_word_underscore_4: divide_section_seat_wolf
+bip_39_word_underscore_5: divide_section_seat_wolf_dune
+bip_39_word_underscore_6: divide_section_seat_wolf_dune_tornado
+bip_39_word_underscore_7: divide_section_seat_wolf_dune_tornado_stay
+bip_39_word_underscore_8: divide_section_seat_wolf_dune_tornado_stay_weekend
+bip_39_word_underscore_9: divide_section_seat_wolf_dune_tornado_stay_weekend_capable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

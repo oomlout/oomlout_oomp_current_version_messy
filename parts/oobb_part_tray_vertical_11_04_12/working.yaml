@@ -1,3 +1,15 @@
+bip_39_word_dash_1: corn
+bip_39_word_dash_10: corn-person-hollow-panda-shield-nut-north-escape-faint-float
+bip_39_word_dash_11: corn-person-hollow-panda-shield-nut-north-escape-faint-float-second
+bip_39_word_dash_12: corn-person-hollow-panda-shield-nut-north-escape-faint-float-second-appear
+bip_39_word_dash_2: corn-person
+bip_39_word_dash_3: corn-person-hollow
+bip_39_word_dash_4: corn-person-hollow-panda
+bip_39_word_dash_5: corn-person-hollow-panda-shield
+bip_39_word_dash_6: corn-person-hollow-panda-shield-nut
+bip_39_word_dash_7: corn-person-hollow-panda-shield-nut-north
+bip_39_word_dash_8: corn-person-hollow-panda-shield-nut-north-escape
+bip_39_word_dash_9: corn-person-hollow-panda-shield-nut-north-escape-faint
 bip_39_word_new_br_1: corn
 bip_39_word_new_br_10: corn<br>person<br>hollow<br>panda<br>shield<br>nut<br>north<br>escape<br>faint<br>float
 bip_39_word_new_br_11: corn<br>person<br>hollow<br>panda<br>shield<br>nut<br>north<br>escape<br>faint<br>float<br>second
@@ -193,6 +205,18 @@ bip_39_word_space_6: corn person hollow panda shield nut
 bip_39_word_space_7: corn person hollow panda shield nut north
 bip_39_word_space_8: corn person hollow panda shield nut north escape
 bip_39_word_space_9: corn person hollow panda shield nut north escape faint
+bip_39_word_underscore_1: corn
+bip_39_word_underscore_10: corn_person_hollow_panda_shield_nut_north_escape_faint_float
+bip_39_word_underscore_11: corn_person_hollow_panda_shield_nut_north_escape_faint_float_second
+bip_39_word_underscore_12: corn_person_hollow_panda_shield_nut_north_escape_faint_float_second_appear
+bip_39_word_underscore_2: corn_person
+bip_39_word_underscore_3: corn_person_hollow
+bip_39_word_underscore_4: corn_person_hollow_panda
+bip_39_word_underscore_5: corn_person_hollow_panda_shield
+bip_39_word_underscore_6: corn_person_hollow_panda_shield_nut
+bip_39_word_underscore_7: corn_person_hollow_panda_shield_nut_north
+bip_39_word_underscore_8: corn_person_hollow_panda_shield_nut_north_escape
+bip_39_word_underscore_9: corn_person_hollow_panda_shield_nut_north_escape_faint
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

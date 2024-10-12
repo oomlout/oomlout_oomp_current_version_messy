@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | present |  
+| bip_39_word_dash_10 | present-seminar-claim-version-kit-outdoor-used-wing-such-mirror |  
+| bip_39_word_dash_11 | present-seminar-claim-version-kit-outdoor-used-wing-such-mirror-deposit |  
+| bip_39_word_dash_12 | present-seminar-claim-version-kit-outdoor-used-wing-such-mirror-deposit-angle |  
+| bip_39_word_dash_2 | present-seminar |  
+| bip_39_word_dash_3 | present-seminar-claim |  
+| bip_39_word_dash_4 | present-seminar-claim-version |  
+| bip_39_word_dash_5 | present-seminar-claim-version-kit |  
+| bip_39_word_dash_6 | present-seminar-claim-version-kit-outdoor |  
+| bip_39_word_dash_7 | present-seminar-claim-version-kit-outdoor-used |  
+| bip_39_word_dash_8 | present-seminar-claim-version-kit-outdoor-used-wing |  
+| bip_39_word_dash_9 | present-seminar-claim-version-kit-outdoor-used-wing-such |  
 | bip_39_word_new_br_1 | present |  
 | bip_39_word_new_br_10 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror |  
 | bip_39_word_new_br_11 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror<br>deposit |  
@@ -147,6 +159,18 @@ such |
 | bip_39_word_space_7 | present seminar claim version kit outdoor used |  
 | bip_39_word_space_8 | present seminar claim version kit outdoor used wing |  
 | bip_39_word_space_9 | present seminar claim version kit outdoor used wing such |  
+| bip_39_word_underscore_1 | present |  
+| bip_39_word_underscore_10 | present_seminar_claim_version_kit_outdoor_used_wing_such_mirror |  
+| bip_39_word_underscore_11 | present_seminar_claim_version_kit_outdoor_used_wing_such_mirror_deposit |  
+| bip_39_word_underscore_12 | present_seminar_claim_version_kit_outdoor_used_wing_such_mirror_deposit_angle |  
+| bip_39_word_underscore_2 | present_seminar |  
+| bip_39_word_underscore_3 | present_seminar_claim |  
+| bip_39_word_underscore_4 | present_seminar_claim_version |  
+| bip_39_word_underscore_5 | present_seminar_claim_version_kit |  
+| bip_39_word_underscore_6 | present_seminar_claim_version_kit_outdoor |  
+| bip_39_word_underscore_7 | present_seminar_claim_version_kit_outdoor_used |  
+| bip_39_word_underscore_8 | present_seminar_claim_version_kit_outdoor_used_wing |  
+| bip_39_word_underscore_9 | present_seminar_claim_version_kit_outdoor_used_wing_such |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

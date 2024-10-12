@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inside |  
+| bip_39_word_dash_10 | inside-affair-possible-stick-fence-relax-hood-erosion-hobby-tide |  
+| bip_39_word_dash_11 | inside-affair-possible-stick-fence-relax-hood-erosion-hobby-tide-gesture |  
+| bip_39_word_dash_12 | inside-affair-possible-stick-fence-relax-hood-erosion-hobby-tide-gesture-across |  
+| bip_39_word_dash_2 | inside-affair |  
+| bip_39_word_dash_3 | inside-affair-possible |  
+| bip_39_word_dash_4 | inside-affair-possible-stick |  
+| bip_39_word_dash_5 | inside-affair-possible-stick-fence |  
+| bip_39_word_dash_6 | inside-affair-possible-stick-fence-relax |  
+| bip_39_word_dash_7 | inside-affair-possible-stick-fence-relax-hood |  
+| bip_39_word_dash_8 | inside-affair-possible-stick-fence-relax-hood-erosion |  
+| bip_39_word_dash_9 | inside-affair-possible-stick-fence-relax-hood-erosion-hobby |  
 | bip_39_word_new_br_1 | inside |  
 | bip_39_word_new_br_10 | inside<br>affair<br>possible<br>stick<br>fence<br>relax<br>hood<br>erosion<br>hobby<br>tide |  
 | bip_39_word_new_br_11 | inside<br>affair<br>possible<br>stick<br>fence<br>relax<br>hood<br>erosion<br>hobby<br>tide<br>gesture |  
@@ -147,6 +159,18 @@ hobby |
 | bip_39_word_space_7 | inside affair possible stick fence relax hood |  
 | bip_39_word_space_8 | inside affair possible stick fence relax hood erosion |  
 | bip_39_word_space_9 | inside affair possible stick fence relax hood erosion hobby |  
+| bip_39_word_underscore_1 | inside |  
+| bip_39_word_underscore_10 | inside_affair_possible_stick_fence_relax_hood_erosion_hobby_tide |  
+| bip_39_word_underscore_11 | inside_affair_possible_stick_fence_relax_hood_erosion_hobby_tide_gesture |  
+| bip_39_word_underscore_12 | inside_affair_possible_stick_fence_relax_hood_erosion_hobby_tide_gesture_across |  
+| bip_39_word_underscore_2 | inside_affair |  
+| bip_39_word_underscore_3 | inside_affair_possible |  
+| bip_39_word_underscore_4 | inside_affair_possible_stick |  
+| bip_39_word_underscore_5 | inside_affair_possible_stick_fence |  
+| bip_39_word_underscore_6 | inside_affair_possible_stick_fence_relax |  
+| bip_39_word_underscore_7 | inside_affair_possible_stick_fence_relax_hood |  
+| bip_39_word_underscore_8 | inside_affair_possible_stick_fence_relax_hood_erosion |  
+| bip_39_word_underscore_9 | inside_affair_possible_stick_fence_relax_hood_erosion_hobby |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

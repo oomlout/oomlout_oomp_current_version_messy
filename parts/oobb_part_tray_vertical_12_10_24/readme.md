@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | first |  
+| bip_39_word_dash_10 | first-pioneer-word-thought-voice-warfare-arctic-attack-skin-tiny |  
+| bip_39_word_dash_11 | first-pioneer-word-thought-voice-warfare-arctic-attack-skin-tiny-sun |  
+| bip_39_word_dash_12 | first-pioneer-word-thought-voice-warfare-arctic-attack-skin-tiny-sun-afford |  
+| bip_39_word_dash_2 | first-pioneer |  
+| bip_39_word_dash_3 | first-pioneer-word |  
+| bip_39_word_dash_4 | first-pioneer-word-thought |  
+| bip_39_word_dash_5 | first-pioneer-word-thought-voice |  
+| bip_39_word_dash_6 | first-pioneer-word-thought-voice-warfare |  
+| bip_39_word_dash_7 | first-pioneer-word-thought-voice-warfare-arctic |  
+| bip_39_word_dash_8 | first-pioneer-word-thought-voice-warfare-arctic-attack |  
+| bip_39_word_dash_9 | first-pioneer-word-thought-voice-warfare-arctic-attack-skin |  
 | bip_39_word_new_br_1 | first |  
 | bip_39_word_new_br_10 | first<br>pioneer<br>word<br>thought<br>voice<br>warfare<br>arctic<br>attack<br>skin<br>tiny |  
 | bip_39_word_new_br_11 | first<br>pioneer<br>word<br>thought<br>voice<br>warfare<br>arctic<br>attack<br>skin<br>tiny<br>sun |  
@@ -147,6 +159,18 @@ skin |
 | bip_39_word_space_7 | first pioneer word thought voice warfare arctic |  
 | bip_39_word_space_8 | first pioneer word thought voice warfare arctic attack |  
 | bip_39_word_space_9 | first pioneer word thought voice warfare arctic attack skin |  
+| bip_39_word_underscore_1 | first |  
+| bip_39_word_underscore_10 | first_pioneer_word_thought_voice_warfare_arctic_attack_skin_tiny |  
+| bip_39_word_underscore_11 | first_pioneer_word_thought_voice_warfare_arctic_attack_skin_tiny_sun |  
+| bip_39_word_underscore_12 | first_pioneer_word_thought_voice_warfare_arctic_attack_skin_tiny_sun_afford |  
+| bip_39_word_underscore_2 | first_pioneer |  
+| bip_39_word_underscore_3 | first_pioneer_word |  
+| bip_39_word_underscore_4 | first_pioneer_word_thought |  
+| bip_39_word_underscore_5 | first_pioneer_word_thought_voice |  
+| bip_39_word_underscore_6 | first_pioneer_word_thought_voice_warfare |  
+| bip_39_word_underscore_7 | first_pioneer_word_thought_voice_warfare_arctic |  
+| bip_39_word_underscore_8 | first_pioneer_word_thought_voice_warfare_arctic_attack |  
+| bip_39_word_underscore_9 | first_pioneer_word_thought_voice_warfare_arctic_attack_skin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

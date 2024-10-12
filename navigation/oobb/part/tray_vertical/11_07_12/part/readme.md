@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brush |  
+| bip_39_word_dash_10 | brush-maid-check-vault-aware-slow-fiscal-purity-law-canal |  
+| bip_39_word_dash_11 | brush-maid-check-vault-aware-slow-fiscal-purity-law-canal-fire |  
+| bip_39_word_dash_12 | brush-maid-check-vault-aware-slow-fiscal-purity-law-canal-fire-amount |  
+| bip_39_word_dash_2 | brush-maid |  
+| bip_39_word_dash_3 | brush-maid-check |  
+| bip_39_word_dash_4 | brush-maid-check-vault |  
+| bip_39_word_dash_5 | brush-maid-check-vault-aware |  
+| bip_39_word_dash_6 | brush-maid-check-vault-aware-slow |  
+| bip_39_word_dash_7 | brush-maid-check-vault-aware-slow-fiscal |  
+| bip_39_word_dash_8 | brush-maid-check-vault-aware-slow-fiscal-purity |  
+| bip_39_word_dash_9 | brush-maid-check-vault-aware-slow-fiscal-purity-law |  
 | bip_39_word_new_br_1 | brush |  
 | bip_39_word_new_br_10 | brush<br>maid<br>check<br>vault<br>aware<br>slow<br>fiscal<br>purity<br>law<br>canal |  
 | bip_39_word_new_br_11 | brush<br>maid<br>check<br>vault<br>aware<br>slow<br>fiscal<br>purity<br>law<br>canal<br>fire |  
@@ -147,6 +159,18 @@ law |
 | bip_39_word_space_7 | brush maid check vault aware slow fiscal |  
 | bip_39_word_space_8 | brush maid check vault aware slow fiscal purity |  
 | bip_39_word_space_9 | brush maid check vault aware slow fiscal purity law |  
+| bip_39_word_underscore_1 | brush |  
+| bip_39_word_underscore_10 | brush_maid_check_vault_aware_slow_fiscal_purity_law_canal |  
+| bip_39_word_underscore_11 | brush_maid_check_vault_aware_slow_fiscal_purity_law_canal_fire |  
+| bip_39_word_underscore_12 | brush_maid_check_vault_aware_slow_fiscal_purity_law_canal_fire_amount |  
+| bip_39_word_underscore_2 | brush_maid |  
+| bip_39_word_underscore_3 | brush_maid_check |  
+| bip_39_word_underscore_4 | brush_maid_check_vault |  
+| bip_39_word_underscore_5 | brush_maid_check_vault_aware |  
+| bip_39_word_underscore_6 | brush_maid_check_vault_aware_slow |  
+| bip_39_word_underscore_7 | brush_maid_check_vault_aware_slow_fiscal |  
+| bip_39_word_underscore_8 | brush_maid_check_vault_aware_slow_fiscal_purity |  
+| bip_39_word_underscore_9 | brush_maid_check_vault_aware_slow_fiscal_purity_law |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

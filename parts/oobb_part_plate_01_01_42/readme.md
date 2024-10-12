@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | good |  
+| bip_39_word_dash_10 | good-erase-idle-velvet-desk-will-noise-impact-angry-child |  
+| bip_39_word_dash_11 | good-erase-idle-velvet-desk-will-noise-impact-angry-child-vacuum |  
+| bip_39_word_dash_12 | good-erase-idle-velvet-desk-will-noise-impact-angry-child-vacuum-announce |  
+| bip_39_word_dash_2 | good-erase |  
+| bip_39_word_dash_3 | good-erase-idle |  
+| bip_39_word_dash_4 | good-erase-idle-velvet |  
+| bip_39_word_dash_5 | good-erase-idle-velvet-desk |  
+| bip_39_word_dash_6 | good-erase-idle-velvet-desk-will |  
+| bip_39_word_dash_7 | good-erase-idle-velvet-desk-will-noise |  
+| bip_39_word_dash_8 | good-erase-idle-velvet-desk-will-noise-impact |  
+| bip_39_word_dash_9 | good-erase-idle-velvet-desk-will-noise-impact-angry |  
 | bip_39_word_new_br_1 | good |  
 | bip_39_word_new_br_10 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child |  
 | bip_39_word_new_br_11 | good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child<br>vacuum |  
@@ -147,6 +159,18 @@ angry |
 | bip_39_word_space_7 | good erase idle velvet desk will noise |  
 | bip_39_word_space_8 | good erase idle velvet desk will noise impact |  
 | bip_39_word_space_9 | good erase idle velvet desk will noise impact angry |  
+| bip_39_word_underscore_1 | good |  
+| bip_39_word_underscore_10 | good_erase_idle_velvet_desk_will_noise_impact_angry_child |  
+| bip_39_word_underscore_11 | good_erase_idle_velvet_desk_will_noise_impact_angry_child_vacuum |  
+| bip_39_word_underscore_12 | good_erase_idle_velvet_desk_will_noise_impact_angry_child_vacuum_announce |  
+| bip_39_word_underscore_2 | good_erase |  
+| bip_39_word_underscore_3 | good_erase_idle |  
+| bip_39_word_underscore_4 | good_erase_idle_velvet |  
+| bip_39_word_underscore_5 | good_erase_idle_velvet_desk |  
+| bip_39_word_underscore_6 | good_erase_idle_velvet_desk_will |  
+| bip_39_word_underscore_7 | good_erase_idle_velvet_desk_will_noise |  
+| bip_39_word_underscore_8 | good_erase_idle_velvet_desk_will_noise_impact |  
+| bip_39_word_underscore_9 | good_erase_idle_velvet_desk_will_noise_impact_angry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

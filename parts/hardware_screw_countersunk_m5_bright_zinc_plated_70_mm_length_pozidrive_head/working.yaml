@@ -1,3 +1,15 @@
+bip_39_word_dash_1: legend
+bip_39_word_dash_10: legend-faculty-action-light-bleak-nature-breeze-magnet-more-excess
+bip_39_word_dash_11: legend-faculty-action-light-bleak-nature-breeze-magnet-more-excess-kiss
+bip_39_word_dash_12: legend-faculty-action-light-bleak-nature-breeze-magnet-more-excess-kiss-album
+bip_39_word_dash_2: legend-faculty
+bip_39_word_dash_3: legend-faculty-action
+bip_39_word_dash_4: legend-faculty-action-light
+bip_39_word_dash_5: legend-faculty-action-light-bleak
+bip_39_word_dash_6: legend-faculty-action-light-bleak-nature
+bip_39_word_dash_7: legend-faculty-action-light-bleak-nature-breeze
+bip_39_word_dash_8: legend-faculty-action-light-bleak-nature-breeze-magnet
+bip_39_word_dash_9: legend-faculty-action-light-bleak-nature-breeze-magnet-more
 bip_39_word_new_br_1: legend
 bip_39_word_new_br_10: legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet<br>more<br>excess
 bip_39_word_new_br_11: legend<br>faculty<br>action<br>light<br>bleak<br>nature<br>breeze<br>magnet<br>more<br>excess<br>kiss
@@ -194,6 +206,18 @@ bip_39_word_space_6: legend faculty action light bleak nature
 bip_39_word_space_7: legend faculty action light bleak nature breeze
 bip_39_word_space_8: legend faculty action light bleak nature breeze magnet
 bip_39_word_space_9: legend faculty action light bleak nature breeze magnet more
+bip_39_word_underscore_1: legend
+bip_39_word_underscore_10: legend_faculty_action_light_bleak_nature_breeze_magnet_more_excess
+bip_39_word_underscore_11: legend_faculty_action_light_bleak_nature_breeze_magnet_more_excess_kiss
+bip_39_word_underscore_12: legend_faculty_action_light_bleak_nature_breeze_magnet_more_excess_kiss_album
+bip_39_word_underscore_2: legend_faculty
+bip_39_word_underscore_3: legend_faculty_action
+bip_39_word_underscore_4: legend_faculty_action_light
+bip_39_word_underscore_5: legend_faculty_action_light_bleak
+bip_39_word_underscore_6: legend_faculty_action_light_bleak_nature
+bip_39_word_underscore_7: legend_faculty_action_light_bleak_nature_breeze
+bip_39_word_underscore_8: legend_faculty_action_light_bleak_nature_breeze_magnet
+bip_39_word_underscore_9: legend_faculty_action_light_bleak_nature_breeze_magnet_more
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

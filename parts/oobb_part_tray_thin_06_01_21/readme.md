@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | powder |  
+| bip_39_word_dash_10 | powder-foam-bless-then-swift-slush-amused-circle-first-sphere |  
+| bip_39_word_dash_11 | powder-foam-bless-then-swift-slush-amused-circle-first-sphere-ignore |  
+| bip_39_word_dash_12 | powder-foam-bless-then-swift-slush-amused-circle-first-sphere-ignore-approve |  
+| bip_39_word_dash_2 | powder-foam |  
+| bip_39_word_dash_3 | powder-foam-bless |  
+| bip_39_word_dash_4 | powder-foam-bless-then |  
+| bip_39_word_dash_5 | powder-foam-bless-then-swift |  
+| bip_39_word_dash_6 | powder-foam-bless-then-swift-slush |  
+| bip_39_word_dash_7 | powder-foam-bless-then-swift-slush-amused |  
+| bip_39_word_dash_8 | powder-foam-bless-then-swift-slush-amused-circle |  
+| bip_39_word_dash_9 | powder-foam-bless-then-swift-slush-amused-circle-first |  
 | bip_39_word_new_br_1 | powder |  
 | bip_39_word_new_br_10 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle<br>first<br>sphere |  
 | bip_39_word_new_br_11 | powder<br>foam<br>bless<br>then<br>swift<br>slush<br>amused<br>circle<br>first<br>sphere<br>ignore |  
@@ -147,6 +159,18 @@ first |
 | bip_39_word_space_7 | powder foam bless then swift slush amused |  
 | bip_39_word_space_8 | powder foam bless then swift slush amused circle |  
 | bip_39_word_space_9 | powder foam bless then swift slush amused circle first |  
+| bip_39_word_underscore_1 | powder |  
+| bip_39_word_underscore_10 | powder_foam_bless_then_swift_slush_amused_circle_first_sphere |  
+| bip_39_word_underscore_11 | powder_foam_bless_then_swift_slush_amused_circle_first_sphere_ignore |  
+| bip_39_word_underscore_12 | powder_foam_bless_then_swift_slush_amused_circle_first_sphere_ignore_approve |  
+| bip_39_word_underscore_2 | powder_foam |  
+| bip_39_word_underscore_3 | powder_foam_bless |  
+| bip_39_word_underscore_4 | powder_foam_bless_then |  
+| bip_39_word_underscore_5 | powder_foam_bless_then_swift |  
+| bip_39_word_underscore_6 | powder_foam_bless_then_swift_slush |  
+| bip_39_word_underscore_7 | powder_foam_bless_then_swift_slush_amused |  
+| bip_39_word_underscore_8 | powder_foam_bless_then_swift_slush_amused_circle |  
+| bip_39_word_underscore_9 | powder_foam_bless_then_swift_slush_amused_circle_first |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

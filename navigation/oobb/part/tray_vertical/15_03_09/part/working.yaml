@@ -1,3 +1,15 @@
+bip_39_word_dash_1: purpose
+bip_39_word_dash_10: purpose-duck-same-person-moral-action-combine-sniff-history-predict
+bip_39_word_dash_11: purpose-duck-same-person-moral-action-combine-sniff-history-predict-recycle
+bip_39_word_dash_12: purpose-duck-same-person-moral-action-combine-sniff-history-predict-recycle-armed
+bip_39_word_dash_2: purpose-duck
+bip_39_word_dash_3: purpose-duck-same
+bip_39_word_dash_4: purpose-duck-same-person
+bip_39_word_dash_5: purpose-duck-same-person-moral
+bip_39_word_dash_6: purpose-duck-same-person-moral-action
+bip_39_word_dash_7: purpose-duck-same-person-moral-action-combine
+bip_39_word_dash_8: purpose-duck-same-person-moral-action-combine-sniff
+bip_39_word_dash_9: purpose-duck-same-person-moral-action-combine-sniff-history
 bip_39_word_new_br_1: purpose
 bip_39_word_new_br_10: purpose<br>duck<br>same<br>person<br>moral<br>action<br>combine<br>sniff<br>history<br>predict
 bip_39_word_new_br_11: purpose<br>duck<br>same<br>person<br>moral<br>action<br>combine<br>sniff<br>history<br>predict<br>recycle
@@ -194,6 +206,18 @@ bip_39_word_space_6: purpose duck same person moral action
 bip_39_word_space_7: purpose duck same person moral action combine
 bip_39_word_space_8: purpose duck same person moral action combine sniff
 bip_39_word_space_9: purpose duck same person moral action combine sniff history
+bip_39_word_underscore_1: purpose
+bip_39_word_underscore_10: purpose_duck_same_person_moral_action_combine_sniff_history_predict
+bip_39_word_underscore_11: purpose_duck_same_person_moral_action_combine_sniff_history_predict_recycle
+bip_39_word_underscore_12: purpose_duck_same_person_moral_action_combine_sniff_history_predict_recycle_armed
+bip_39_word_underscore_2: purpose_duck
+bip_39_word_underscore_3: purpose_duck_same
+bip_39_word_underscore_4: purpose_duck_same_person
+bip_39_word_underscore_5: purpose_duck_same_person_moral
+bip_39_word_underscore_6: purpose_duck_same_person_moral_action
+bip_39_word_underscore_7: purpose_duck_same_person_moral_action_combine
+bip_39_word_underscore_8: purpose_duck_same_person_moral_action_combine_sniff
+bip_39_word_underscore_9: purpose_duck_same_person_moral_action_combine_sniff_history
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

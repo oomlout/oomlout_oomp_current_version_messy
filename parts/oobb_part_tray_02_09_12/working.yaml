@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fish
+bip_39_word_dash_10: fish-leader-finish-orchard-rebuild-off-wish-capable-much-used
+bip_39_word_dash_11: fish-leader-finish-orchard-rebuild-off-wish-capable-much-used-dragon
+bip_39_word_dash_12: fish-leader-finish-orchard-rebuild-off-wish-capable-much-used-dragon-about
+bip_39_word_dash_2: fish-leader
+bip_39_word_dash_3: fish-leader-finish
+bip_39_word_dash_4: fish-leader-finish-orchard
+bip_39_word_dash_5: fish-leader-finish-orchard-rebuild
+bip_39_word_dash_6: fish-leader-finish-orchard-rebuild-off
+bip_39_word_dash_7: fish-leader-finish-orchard-rebuild-off-wish
+bip_39_word_dash_8: fish-leader-finish-orchard-rebuild-off-wish-capable
+bip_39_word_dash_9: fish-leader-finish-orchard-rebuild-off-wish-capable-much
 bip_39_word_new_br_1: fish
 bip_39_word_new_br_10: fish<br>leader<br>finish<br>orchard<br>rebuild<br>off<br>wish<br>capable<br>much<br>used
 bip_39_word_new_br_11: fish<br>leader<br>finish<br>orchard<br>rebuild<br>off<br>wish<br>capable<br>much<br>used<br>dragon
@@ -193,6 +205,18 @@ bip_39_word_space_6: fish leader finish orchard rebuild off
 bip_39_word_space_7: fish leader finish orchard rebuild off wish
 bip_39_word_space_8: fish leader finish orchard rebuild off wish capable
 bip_39_word_space_9: fish leader finish orchard rebuild off wish capable much
+bip_39_word_underscore_1: fish
+bip_39_word_underscore_10: fish_leader_finish_orchard_rebuild_off_wish_capable_much_used
+bip_39_word_underscore_11: fish_leader_finish_orchard_rebuild_off_wish_capable_much_used_dragon
+bip_39_word_underscore_12: fish_leader_finish_orchard_rebuild_off_wish_capable_much_used_dragon_about
+bip_39_word_underscore_2: fish_leader
+bip_39_word_underscore_3: fish_leader_finish
+bip_39_word_underscore_4: fish_leader_finish_orchard
+bip_39_word_underscore_5: fish_leader_finish_orchard_rebuild
+bip_39_word_underscore_6: fish_leader_finish_orchard_rebuild_off
+bip_39_word_underscore_7: fish_leader_finish_orchard_rebuild_off_wish
+bip_39_word_underscore_8: fish_leader_finish_orchard_rebuild_off_wish_capable
+bip_39_word_underscore_9: fish_leader_finish_orchard_rebuild_off_wish_capable_much
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

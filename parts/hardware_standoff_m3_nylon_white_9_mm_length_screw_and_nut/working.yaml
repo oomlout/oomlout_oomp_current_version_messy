@@ -1,3 +1,15 @@
+bip_39_word_dash_1: labor
+bip_39_word_dash_10: labor-virtual-oppose-cup-deposit-ketchup-season-provide-patch-business
+bip_39_word_dash_11: labor-virtual-oppose-cup-deposit-ketchup-season-provide-patch-business-eager
+bip_39_word_dash_12: labor-virtual-oppose-cup-deposit-ketchup-season-provide-patch-business-eager-almost
+bip_39_word_dash_2: labor-virtual
+bip_39_word_dash_3: labor-virtual-oppose
+bip_39_word_dash_4: labor-virtual-oppose-cup
+bip_39_word_dash_5: labor-virtual-oppose-cup-deposit
+bip_39_word_dash_6: labor-virtual-oppose-cup-deposit-ketchup
+bip_39_word_dash_7: labor-virtual-oppose-cup-deposit-ketchup-season
+bip_39_word_dash_8: labor-virtual-oppose-cup-deposit-ketchup-season-provide
+bip_39_word_dash_9: labor-virtual-oppose-cup-deposit-ketchup-season-provide-patch
 bip_39_word_new_br_1: labor
 bip_39_word_new_br_10: labor<br>virtual<br>oppose<br>cup<br>deposit<br>ketchup<br>season<br>provide<br>patch<br>business
 bip_39_word_new_br_11: labor<br>virtual<br>oppose<br>cup<br>deposit<br>ketchup<br>season<br>provide<br>patch<br>business<br>eager
@@ -194,6 +206,18 @@ bip_39_word_space_6: labor virtual oppose cup deposit ketchup
 bip_39_word_space_7: labor virtual oppose cup deposit ketchup season
 bip_39_word_space_8: labor virtual oppose cup deposit ketchup season provide
 bip_39_word_space_9: labor virtual oppose cup deposit ketchup season provide patch
+bip_39_word_underscore_1: labor
+bip_39_word_underscore_10: labor_virtual_oppose_cup_deposit_ketchup_season_provide_patch_business
+bip_39_word_underscore_11: labor_virtual_oppose_cup_deposit_ketchup_season_provide_patch_business_eager
+bip_39_word_underscore_12: labor_virtual_oppose_cup_deposit_ketchup_season_provide_patch_business_eager_almost
+bip_39_word_underscore_2: labor_virtual
+bip_39_word_underscore_3: labor_virtual_oppose
+bip_39_word_underscore_4: labor_virtual_oppose_cup
+bip_39_word_underscore_5: labor_virtual_oppose_cup_deposit
+bip_39_word_underscore_6: labor_virtual_oppose_cup_deposit_ketchup
+bip_39_word_underscore_7: labor_virtual_oppose_cup_deposit_ketchup_season
+bip_39_word_underscore_8: labor_virtual_oppose_cup_deposit_ketchup_season_provide
+bip_39_word_underscore_9: labor_virtual_oppose_cup_deposit_ketchup_season_provide_patch
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

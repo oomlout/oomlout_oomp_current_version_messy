@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | only |  
+| bip_39_word_dash_10 | only-dinosaur-enforce-evolve-away-ridge-kid-novel-addict-boil |  
+| bip_39_word_dash_11 | only-dinosaur-enforce-evolve-away-ridge-kid-novel-addict-boil-fetch |  
+| bip_39_word_dash_12 | only-dinosaur-enforce-evolve-away-ridge-kid-novel-addict-boil-fetch-admit |  
+| bip_39_word_dash_2 | only-dinosaur |  
+| bip_39_word_dash_3 | only-dinosaur-enforce |  
+| bip_39_word_dash_4 | only-dinosaur-enforce-evolve |  
+| bip_39_word_dash_5 | only-dinosaur-enforce-evolve-away |  
+| bip_39_word_dash_6 | only-dinosaur-enforce-evolve-away-ridge |  
+| bip_39_word_dash_7 | only-dinosaur-enforce-evolve-away-ridge-kid |  
+| bip_39_word_dash_8 | only-dinosaur-enforce-evolve-away-ridge-kid-novel |  
+| bip_39_word_dash_9 | only-dinosaur-enforce-evolve-away-ridge-kid-novel-addict |  
 | bip_39_word_new_br_1 | only |  
 | bip_39_word_new_br_10 | only<br>dinosaur<br>enforce<br>evolve<br>away<br>ridge<br>kid<br>novel<br>addict<br>boil |  
 | bip_39_word_new_br_11 | only<br>dinosaur<br>enforce<br>evolve<br>away<br>ridge<br>kid<br>novel<br>addict<br>boil<br>fetch |  
@@ -147,6 +159,18 @@ addict |
 | bip_39_word_space_7 | only dinosaur enforce evolve away ridge kid |  
 | bip_39_word_space_8 | only dinosaur enforce evolve away ridge kid novel |  
 | bip_39_word_space_9 | only dinosaur enforce evolve away ridge kid novel addict |  
+| bip_39_word_underscore_1 | only |  
+| bip_39_word_underscore_10 | only_dinosaur_enforce_evolve_away_ridge_kid_novel_addict_boil |  
+| bip_39_word_underscore_11 | only_dinosaur_enforce_evolve_away_ridge_kid_novel_addict_boil_fetch |  
+| bip_39_word_underscore_12 | only_dinosaur_enforce_evolve_away_ridge_kid_novel_addict_boil_fetch_admit |  
+| bip_39_word_underscore_2 | only_dinosaur |  
+| bip_39_word_underscore_3 | only_dinosaur_enforce |  
+| bip_39_word_underscore_4 | only_dinosaur_enforce_evolve |  
+| bip_39_word_underscore_5 | only_dinosaur_enforce_evolve_away |  
+| bip_39_word_underscore_6 | only_dinosaur_enforce_evolve_away_ridge |  
+| bip_39_word_underscore_7 | only_dinosaur_enforce_evolve_away_ridge_kid |  
+| bip_39_word_underscore_8 | only_dinosaur_enforce_evolve_away_ridge_kid_novel |  
+| bip_39_word_underscore_9 | only_dinosaur_enforce_evolve_away_ridge_kid_novel_addict |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

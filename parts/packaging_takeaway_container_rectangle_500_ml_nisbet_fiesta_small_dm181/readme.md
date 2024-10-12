@@ -34,6 +34,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reopen |  
+| bip_39_word_dash_10 | reopen-hard-legend-decide-farm-column-swim-pyramid-crawl-shove |  
+| bip_39_word_dash_11 | reopen-hard-legend-decide-farm-column-swim-pyramid-crawl-shove-mansion |  
+| bip_39_word_dash_12 | reopen-hard-legend-decide-farm-column-swim-pyramid-crawl-shove-mansion-ancient |  
+| bip_39_word_dash_2 | reopen-hard |  
+| bip_39_word_dash_3 | reopen-hard-legend |  
+| bip_39_word_dash_4 | reopen-hard-legend-decide |  
+| bip_39_word_dash_5 | reopen-hard-legend-decide-farm |  
+| bip_39_word_dash_6 | reopen-hard-legend-decide-farm-column |  
+| bip_39_word_dash_7 | reopen-hard-legend-decide-farm-column-swim |  
+| bip_39_word_dash_8 | reopen-hard-legend-decide-farm-column-swim-pyramid |  
+| bip_39_word_dash_9 | reopen-hard-legend-decide-farm-column-swim-pyramid-crawl |  
 | bip_39_word_new_br_1 | reopen |  
 | bip_39_word_new_br_10 | reopen<br>hard<br>legend<br>decide<br>farm<br>column<br>swim<br>pyramid<br>crawl<br>shove |  
 | bip_39_word_new_br_11 | reopen<br>hard<br>legend<br>decide<br>farm<br>column<br>swim<br>pyramid<br>crawl<br>shove<br>mansion |  
@@ -149,6 +161,18 @@ crawl |
 | bip_39_word_space_7 | reopen hard legend decide farm column swim |  
 | bip_39_word_space_8 | reopen hard legend decide farm column swim pyramid |  
 | bip_39_word_space_9 | reopen hard legend decide farm column swim pyramid crawl |  
+| bip_39_word_underscore_1 | reopen |  
+| bip_39_word_underscore_10 | reopen_hard_legend_decide_farm_column_swim_pyramid_crawl_shove |  
+| bip_39_word_underscore_11 | reopen_hard_legend_decide_farm_column_swim_pyramid_crawl_shove_mansion |  
+| bip_39_word_underscore_12 | reopen_hard_legend_decide_farm_column_swim_pyramid_crawl_shove_mansion_ancient |  
+| bip_39_word_underscore_2 | reopen_hard |  
+| bip_39_word_underscore_3 | reopen_hard_legend |  
+| bip_39_word_underscore_4 | reopen_hard_legend_decide |  
+| bip_39_word_underscore_5 | reopen_hard_legend_decide_farm |  
+| bip_39_word_underscore_6 | reopen_hard_legend_decide_farm_column |  
+| bip_39_word_underscore_7 | reopen_hard_legend_decide_farm_column_swim |  
+| bip_39_word_underscore_8 | reopen_hard_legend_decide_farm_column_swim_pyramid |  
+| bip_39_word_underscore_9 | reopen_hard_legend_decide_farm_column_swim_pyramid_crawl |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

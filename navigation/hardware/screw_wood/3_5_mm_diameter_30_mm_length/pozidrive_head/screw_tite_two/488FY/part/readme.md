@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | radar |  
+| bip_39_word_dash_10 | radar-double-term-loud-vapor-better-catch-blouse-cool-bottom |  
+| bip_39_word_dash_11 | radar-double-term-loud-vapor-better-catch-blouse-cool-bottom-enlist |  
+| bip_39_word_dash_12 | radar-double-term-loud-vapor-better-catch-blouse-cool-bottom-enlist-apple |  
+| bip_39_word_dash_2 | radar-double |  
+| bip_39_word_dash_3 | radar-double-term |  
+| bip_39_word_dash_4 | radar-double-term-loud |  
+| bip_39_word_dash_5 | radar-double-term-loud-vapor |  
+| bip_39_word_dash_6 | radar-double-term-loud-vapor-better |  
+| bip_39_word_dash_7 | radar-double-term-loud-vapor-better-catch |  
+| bip_39_word_dash_8 | radar-double-term-loud-vapor-better-catch-blouse |  
+| bip_39_word_dash_9 | radar-double-term-loud-vapor-better-catch-blouse-cool |  
 | bip_39_word_new_br_1 | radar |  
 | bip_39_word_new_br_10 | radar<br>double<br>term<br>loud<br>vapor<br>better<br>catch<br>blouse<br>cool<br>bottom |  
 | bip_39_word_new_br_11 | radar<br>double<br>term<br>loud<br>vapor<br>better<br>catch<br>blouse<br>cool<br>bottom<br>enlist |  
@@ -147,6 +159,18 @@ cool |
 | bip_39_word_space_7 | radar double term loud vapor better catch |  
 | bip_39_word_space_8 | radar double term loud vapor better catch blouse |  
 | bip_39_word_space_9 | radar double term loud vapor better catch blouse cool |  
+| bip_39_word_underscore_1 | radar |  
+| bip_39_word_underscore_10 | radar_double_term_loud_vapor_better_catch_blouse_cool_bottom |  
+| bip_39_word_underscore_11 | radar_double_term_loud_vapor_better_catch_blouse_cool_bottom_enlist |  
+| bip_39_word_underscore_12 | radar_double_term_loud_vapor_better_catch_blouse_cool_bottom_enlist_apple |  
+| bip_39_word_underscore_2 | radar_double |  
+| bip_39_word_underscore_3 | radar_double_term |  
+| bip_39_word_underscore_4 | radar_double_term_loud |  
+| bip_39_word_underscore_5 | radar_double_term_loud_vapor |  
+| bip_39_word_underscore_6 | radar_double_term_loud_vapor_better |  
+| bip_39_word_underscore_7 | radar_double_term_loud_vapor_better_catch |  
+| bip_39_word_underscore_8 | radar_double_term_loud_vapor_better_catch_blouse |  
+| bip_39_word_underscore_9 | radar_double_term_loud_vapor_better_catch_blouse_cool |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

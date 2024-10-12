@@ -1,3 +1,15 @@
+bip_39_word_dash_1: expect
+bip_39_word_dash_10: expect-certain-cup-know-giraffe-wash-ostrich-oak-game-still
+bip_39_word_dash_11: expect-certain-cup-know-giraffe-wash-ostrich-oak-game-still-item
+bip_39_word_dash_12: expect-certain-cup-know-giraffe-wash-ostrich-oak-game-still-item-anger
+bip_39_word_dash_2: expect-certain
+bip_39_word_dash_3: expect-certain-cup
+bip_39_word_dash_4: expect-certain-cup-know
+bip_39_word_dash_5: expect-certain-cup-know-giraffe
+bip_39_word_dash_6: expect-certain-cup-know-giraffe-wash
+bip_39_word_dash_7: expect-certain-cup-know-giraffe-wash-ostrich
+bip_39_word_dash_8: expect-certain-cup-know-giraffe-wash-ostrich-oak
+bip_39_word_dash_9: expect-certain-cup-know-giraffe-wash-ostrich-oak-game
 bip_39_word_new_br_1: expect
 bip_39_word_new_br_10: expect<br>certain<br>cup<br>know<br>giraffe<br>wash<br>ostrich<br>oak<br>game<br>still
 bip_39_word_new_br_11: expect<br>certain<br>cup<br>know<br>giraffe<br>wash<br>ostrich<br>oak<br>game<br>still<br>item
@@ -193,6 +205,18 @@ bip_39_word_space_6: expect certain cup know giraffe wash
 bip_39_word_space_7: expect certain cup know giraffe wash ostrich
 bip_39_word_space_8: expect certain cup know giraffe wash ostrich oak
 bip_39_word_space_9: expect certain cup know giraffe wash ostrich oak game
+bip_39_word_underscore_1: expect
+bip_39_word_underscore_10: expect_certain_cup_know_giraffe_wash_ostrich_oak_game_still
+bip_39_word_underscore_11: expect_certain_cup_know_giraffe_wash_ostrich_oak_game_still_item
+bip_39_word_underscore_12: expect_certain_cup_know_giraffe_wash_ostrich_oak_game_still_item_anger
+bip_39_word_underscore_2: expect_certain
+bip_39_word_underscore_3: expect_certain_cup
+bip_39_word_underscore_4: expect_certain_cup_know
+bip_39_word_underscore_5: expect_certain_cup_know_giraffe
+bip_39_word_underscore_6: expect_certain_cup_know_giraffe_wash
+bip_39_word_underscore_7: expect_certain_cup_know_giraffe_wash_ostrich
+bip_39_word_underscore_8: expect_certain_cup_know_giraffe_wash_ostrich_oak
+bip_39_word_underscore_9: expect_certain_cup_know_giraffe_wash_ostrich_oak_game
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

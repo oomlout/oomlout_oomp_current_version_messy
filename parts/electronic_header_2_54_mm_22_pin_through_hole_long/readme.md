@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mosquito |  
+| bip_39_word_dash_10 | mosquito-three-wolf-first-stick-evil-result-bind-fiber-feature |  
+| bip_39_word_dash_11 | mosquito-three-wolf-first-stick-evil-result-bind-fiber-feature-library |  
+| bip_39_word_dash_12 | mosquito-three-wolf-first-stick-evil-result-bind-fiber-feature-library-advice |  
+| bip_39_word_dash_2 | mosquito-three |  
+| bip_39_word_dash_3 | mosquito-three-wolf |  
+| bip_39_word_dash_4 | mosquito-three-wolf-first |  
+| bip_39_word_dash_5 | mosquito-three-wolf-first-stick |  
+| bip_39_word_dash_6 | mosquito-three-wolf-first-stick-evil |  
+| bip_39_word_dash_7 | mosquito-three-wolf-first-stick-evil-result |  
+| bip_39_word_dash_8 | mosquito-three-wolf-first-stick-evil-result-bind |  
+| bip_39_word_dash_9 | mosquito-three-wolf-first-stick-evil-result-bind-fiber |  
 | bip_39_word_new_br_1 | mosquito |  
 | bip_39_word_new_br_10 | mosquito<br>three<br>wolf<br>first<br>stick<br>evil<br>result<br>bind<br>fiber<br>feature |  
 | bip_39_word_new_br_11 | mosquito<br>three<br>wolf<br>first<br>stick<br>evil<br>result<br>bind<br>fiber<br>feature<br>library |  
@@ -147,6 +159,18 @@ fiber |
 | bip_39_word_space_7 | mosquito three wolf first stick evil result |  
 | bip_39_word_space_8 | mosquito three wolf first stick evil result bind |  
 | bip_39_word_space_9 | mosquito three wolf first stick evil result bind fiber |  
+| bip_39_word_underscore_1 | mosquito |  
+| bip_39_word_underscore_10 | mosquito_three_wolf_first_stick_evil_result_bind_fiber_feature |  
+| bip_39_word_underscore_11 | mosquito_three_wolf_first_stick_evil_result_bind_fiber_feature_library |  
+| bip_39_word_underscore_12 | mosquito_three_wolf_first_stick_evil_result_bind_fiber_feature_library_advice |  
+| bip_39_word_underscore_2 | mosquito_three |  
+| bip_39_word_underscore_3 | mosquito_three_wolf |  
+| bip_39_word_underscore_4 | mosquito_three_wolf_first |  
+| bip_39_word_underscore_5 | mosquito_three_wolf_first_stick |  
+| bip_39_word_underscore_6 | mosquito_three_wolf_first_stick_evil |  
+| bip_39_word_underscore_7 | mosquito_three_wolf_first_stick_evil_result |  
+| bip_39_word_underscore_8 | mosquito_three_wolf_first_stick_evil_result_bind |  
+| bip_39_word_underscore_9 | mosquito_three_wolf_first_stick_evil_result_bind_fiber |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

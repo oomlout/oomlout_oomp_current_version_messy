@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stereo |  
+| bip_39_word_dash_10 | stereo-sort-solar-link-gentle-symbol-memory-busy-deal-poverty |  
+| bip_39_word_dash_11 | stereo-sort-solar-link-gentle-symbol-memory-busy-deal-poverty-sudden |  
+| bip_39_word_dash_12 | stereo-sort-solar-link-gentle-symbol-memory-busy-deal-poverty-sudden-across |  
+| bip_39_word_dash_2 | stereo-sort |  
+| bip_39_word_dash_3 | stereo-sort-solar |  
+| bip_39_word_dash_4 | stereo-sort-solar-link |  
+| bip_39_word_dash_5 | stereo-sort-solar-link-gentle |  
+| bip_39_word_dash_6 | stereo-sort-solar-link-gentle-symbol |  
+| bip_39_word_dash_7 | stereo-sort-solar-link-gentle-symbol-memory |  
+| bip_39_word_dash_8 | stereo-sort-solar-link-gentle-symbol-memory-busy |  
+| bip_39_word_dash_9 | stereo-sort-solar-link-gentle-symbol-memory-busy-deal |  
 | bip_39_word_new_br_1 | stereo |  
 | bip_39_word_new_br_10 | stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy<br>deal<br>poverty |  
 | bip_39_word_new_br_11 | stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy<br>deal<br>poverty<br>sudden |  
@@ -147,6 +159,18 @@ deal |
 | bip_39_word_space_7 | stereo sort solar link gentle symbol memory |  
 | bip_39_word_space_8 | stereo sort solar link gentle symbol memory busy |  
 | bip_39_word_space_9 | stereo sort solar link gentle symbol memory busy deal |  
+| bip_39_word_underscore_1 | stereo |  
+| bip_39_word_underscore_10 | stereo_sort_solar_link_gentle_symbol_memory_busy_deal_poverty |  
+| bip_39_word_underscore_11 | stereo_sort_solar_link_gentle_symbol_memory_busy_deal_poverty_sudden |  
+| bip_39_word_underscore_12 | stereo_sort_solar_link_gentle_symbol_memory_busy_deal_poverty_sudden_across |  
+| bip_39_word_underscore_2 | stereo_sort |  
+| bip_39_word_underscore_3 | stereo_sort_solar |  
+| bip_39_word_underscore_4 | stereo_sort_solar_link |  
+| bip_39_word_underscore_5 | stereo_sort_solar_link_gentle |  
+| bip_39_word_underscore_6 | stereo_sort_solar_link_gentle_symbol |  
+| bip_39_word_underscore_7 | stereo_sort_solar_link_gentle_symbol_memory |  
+| bip_39_word_underscore_8 | stereo_sort_solar_link_gentle_symbol_memory_busy |  
+| bip_39_word_underscore_9 | stereo_sort_solar_link_gentle_symbol_memory_busy_deal |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

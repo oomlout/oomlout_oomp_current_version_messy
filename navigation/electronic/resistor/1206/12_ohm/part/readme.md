@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | allow |  
+| bip_39_word_dash_10 | allow-match-donor-fork-desert-label-increase-exhaust-nephew-rail |  
+| bip_39_word_dash_11 | allow-match-donor-fork-desert-label-increase-exhaust-nephew-rail-wave |  
+| bip_39_word_dash_12 | allow-match-donor-fork-desert-label-increase-exhaust-nephew-rail-wave-able |  
+| bip_39_word_dash_2 | allow-match |  
+| bip_39_word_dash_3 | allow-match-donor |  
+| bip_39_word_dash_4 | allow-match-donor-fork |  
+| bip_39_word_dash_5 | allow-match-donor-fork-desert |  
+| bip_39_word_dash_6 | allow-match-donor-fork-desert-label |  
+| bip_39_word_dash_7 | allow-match-donor-fork-desert-label-increase |  
+| bip_39_word_dash_8 | allow-match-donor-fork-desert-label-increase-exhaust |  
+| bip_39_word_dash_9 | allow-match-donor-fork-desert-label-increase-exhaust-nephew |  
 | bip_39_word_new_br_1 | allow |  
 | bip_39_word_new_br_10 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail |  
 | bip_39_word_new_br_11 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail<br>wave |  
@@ -147,6 +159,18 @@ nephew |
 | bip_39_word_space_7 | allow match donor fork desert label increase |  
 | bip_39_word_space_8 | allow match donor fork desert label increase exhaust |  
 | bip_39_word_space_9 | allow match donor fork desert label increase exhaust nephew |  
+| bip_39_word_underscore_1 | allow |  
+| bip_39_word_underscore_10 | allow_match_donor_fork_desert_label_increase_exhaust_nephew_rail |  
+| bip_39_word_underscore_11 | allow_match_donor_fork_desert_label_increase_exhaust_nephew_rail_wave |  
+| bip_39_word_underscore_12 | allow_match_donor_fork_desert_label_increase_exhaust_nephew_rail_wave_able |  
+| bip_39_word_underscore_2 | allow_match |  
+| bip_39_word_underscore_3 | allow_match_donor |  
+| bip_39_word_underscore_4 | allow_match_donor_fork |  
+| bip_39_word_underscore_5 | allow_match_donor_fork_desert |  
+| bip_39_word_underscore_6 | allow_match_donor_fork_desert_label |  
+| bip_39_word_underscore_7 | allow_match_donor_fork_desert_label_increase |  
+| bip_39_word_underscore_8 | allow_match_donor_fork_desert_label_increase_exhaust |  
+| bip_39_word_underscore_9 | allow_match_donor_fork_desert_label_increase_exhaust_nephew |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

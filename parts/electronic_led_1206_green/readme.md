@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shed |  
+| bip_39_word_dash_10 | shed-penalty-cereal-immune-draw-meadow-nice-party-anger-universe |  
+| bip_39_word_dash_11 | shed-penalty-cereal-immune-draw-meadow-nice-party-anger-universe-wait |  
+| bip_39_word_dash_12 | shed-penalty-cereal-immune-draw-meadow-nice-party-anger-universe-wait-act |  
+| bip_39_word_dash_2 | shed-penalty |  
+| bip_39_word_dash_3 | shed-penalty-cereal |  
+| bip_39_word_dash_4 | shed-penalty-cereal-immune |  
+| bip_39_word_dash_5 | shed-penalty-cereal-immune-draw |  
+| bip_39_word_dash_6 | shed-penalty-cereal-immune-draw-meadow |  
+| bip_39_word_dash_7 | shed-penalty-cereal-immune-draw-meadow-nice |  
+| bip_39_word_dash_8 | shed-penalty-cereal-immune-draw-meadow-nice-party |  
+| bip_39_word_dash_9 | shed-penalty-cereal-immune-draw-meadow-nice-party-anger |  
 | bip_39_word_new_br_1 | shed |  
 | bip_39_word_new_br_10 | shed<br>penalty<br>cereal<br>immune<br>draw<br>meadow<br>nice<br>party<br>anger<br>universe |  
 | bip_39_word_new_br_11 | shed<br>penalty<br>cereal<br>immune<br>draw<br>meadow<br>nice<br>party<br>anger<br>universe<br>wait |  
@@ -147,6 +159,18 @@ anger |
 | bip_39_word_space_7 | shed penalty cereal immune draw meadow nice |  
 | bip_39_word_space_8 | shed penalty cereal immune draw meadow nice party |  
 | bip_39_word_space_9 | shed penalty cereal immune draw meadow nice party anger |  
+| bip_39_word_underscore_1 | shed |  
+| bip_39_word_underscore_10 | shed_penalty_cereal_immune_draw_meadow_nice_party_anger_universe |  
+| bip_39_word_underscore_11 | shed_penalty_cereal_immune_draw_meadow_nice_party_anger_universe_wait |  
+| bip_39_word_underscore_12 | shed_penalty_cereal_immune_draw_meadow_nice_party_anger_universe_wait_act |  
+| bip_39_word_underscore_2 | shed_penalty |  
+| bip_39_word_underscore_3 | shed_penalty_cereal |  
+| bip_39_word_underscore_4 | shed_penalty_cereal_immune |  
+| bip_39_word_underscore_5 | shed_penalty_cereal_immune_draw |  
+| bip_39_word_underscore_6 | shed_penalty_cereal_immune_draw_meadow |  
+| bip_39_word_underscore_7 | shed_penalty_cereal_immune_draw_meadow_nice |  
+| bip_39_word_underscore_8 | shed_penalty_cereal_immune_draw_meadow_nice_party |  
+| bip_39_word_underscore_9 | shed_penalty_cereal_immune_draw_meadow_nice_party_anger |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

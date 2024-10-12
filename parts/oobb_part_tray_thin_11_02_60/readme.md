@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dash |  
+| bip_39_word_dash_10 | dash-aisle-small-east-march-private-addict-refuse-enemy-crouch |  
+| bip_39_word_dash_11 | dash-aisle-small-east-march-private-addict-refuse-enemy-crouch-engine |  
+| bip_39_word_dash_12 | dash-aisle-small-east-march-private-addict-refuse-enemy-crouch-engine-antenna |  
+| bip_39_word_dash_2 | dash-aisle |  
+| bip_39_word_dash_3 | dash-aisle-small |  
+| bip_39_word_dash_4 | dash-aisle-small-east |  
+| bip_39_word_dash_5 | dash-aisle-small-east-march |  
+| bip_39_word_dash_6 | dash-aisle-small-east-march-private |  
+| bip_39_word_dash_7 | dash-aisle-small-east-march-private-addict |  
+| bip_39_word_dash_8 | dash-aisle-small-east-march-private-addict-refuse |  
+| bip_39_word_dash_9 | dash-aisle-small-east-march-private-addict-refuse-enemy |  
 | bip_39_word_new_br_1 | dash |  
 | bip_39_word_new_br_10 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse<br>enemy<br>crouch |  
 | bip_39_word_new_br_11 | dash<br>aisle<br>small<br>east<br>march<br>private<br>addict<br>refuse<br>enemy<br>crouch<br>engine |  
@@ -147,6 +159,18 @@ enemy |
 | bip_39_word_space_7 | dash aisle small east march private addict |  
 | bip_39_word_space_8 | dash aisle small east march private addict refuse |  
 | bip_39_word_space_9 | dash aisle small east march private addict refuse enemy |  
+| bip_39_word_underscore_1 | dash |  
+| bip_39_word_underscore_10 | dash_aisle_small_east_march_private_addict_refuse_enemy_crouch |  
+| bip_39_word_underscore_11 | dash_aisle_small_east_march_private_addict_refuse_enemy_crouch_engine |  
+| bip_39_word_underscore_12 | dash_aisle_small_east_march_private_addict_refuse_enemy_crouch_engine_antenna |  
+| bip_39_word_underscore_2 | dash_aisle |  
+| bip_39_word_underscore_3 | dash_aisle_small |  
+| bip_39_word_underscore_4 | dash_aisle_small_east |  
+| bip_39_word_underscore_5 | dash_aisle_small_east_march |  
+| bip_39_word_underscore_6 | dash_aisle_small_east_march_private |  
+| bip_39_word_underscore_7 | dash_aisle_small_east_march_private_addict |  
+| bip_39_word_underscore_8 | dash_aisle_small_east_march_private_addict_refuse |  
+| bip_39_word_underscore_9 | dash_aisle_small_east_march_private_addict_refuse_enemy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

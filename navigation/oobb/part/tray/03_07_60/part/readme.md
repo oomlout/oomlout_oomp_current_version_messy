@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | amateur |  
+| bip_39_word_dash_10 | amateur-south-universe-setup-mean-autumn-food-regret-average-select |  
+| bip_39_word_dash_11 | amateur-south-universe-setup-mean-autumn-food-regret-average-select-task |  
+| bip_39_word_dash_12 | amateur-south-universe-setup-mean-autumn-food-regret-average-select-task-album |  
+| bip_39_word_dash_2 | amateur-south |  
+| bip_39_word_dash_3 | amateur-south-universe |  
+| bip_39_word_dash_4 | amateur-south-universe-setup |  
+| bip_39_word_dash_5 | amateur-south-universe-setup-mean |  
+| bip_39_word_dash_6 | amateur-south-universe-setup-mean-autumn |  
+| bip_39_word_dash_7 | amateur-south-universe-setup-mean-autumn-food |  
+| bip_39_word_dash_8 | amateur-south-universe-setup-mean-autumn-food-regret |  
+| bip_39_word_dash_9 | amateur-south-universe-setup-mean-autumn-food-regret-average |  
 | bip_39_word_new_br_1 | amateur |  
 | bip_39_word_new_br_10 | amateur<br>south<br>universe<br>setup<br>mean<br>autumn<br>food<br>regret<br>average<br>select |  
 | bip_39_word_new_br_11 | amateur<br>south<br>universe<br>setup<br>mean<br>autumn<br>food<br>regret<br>average<br>select<br>task |  
@@ -147,6 +159,18 @@ average |
 | bip_39_word_space_7 | amateur south universe setup mean autumn food |  
 | bip_39_word_space_8 | amateur south universe setup mean autumn food regret |  
 | bip_39_word_space_9 | amateur south universe setup mean autumn food regret average |  
+| bip_39_word_underscore_1 | amateur |  
+| bip_39_word_underscore_10 | amateur_south_universe_setup_mean_autumn_food_regret_average_select |  
+| bip_39_word_underscore_11 | amateur_south_universe_setup_mean_autumn_food_regret_average_select_task |  
+| bip_39_word_underscore_12 | amateur_south_universe_setup_mean_autumn_food_regret_average_select_task_album |  
+| bip_39_word_underscore_2 | amateur_south |  
+| bip_39_word_underscore_3 | amateur_south_universe |  
+| bip_39_word_underscore_4 | amateur_south_universe_setup |  
+| bip_39_word_underscore_5 | amateur_south_universe_setup_mean |  
+| bip_39_word_underscore_6 | amateur_south_universe_setup_mean_autumn |  
+| bip_39_word_underscore_7 | amateur_south_universe_setup_mean_autumn_food |  
+| bip_39_word_underscore_8 | amateur_south_universe_setup_mean_autumn_food_regret |  
+| bip_39_word_underscore_9 | amateur_south_universe_setup_mean_autumn_food_regret_average |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

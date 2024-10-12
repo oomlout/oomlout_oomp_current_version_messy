@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | office |  
+| bip_39_word_dash_10 | office-tired-collect-stable-assist-advice-major-strategy-book-heart |  
+| bip_39_word_dash_11 | office-tired-collect-stable-assist-advice-major-strategy-book-heart-noble |  
+| bip_39_word_dash_12 | office-tired-collect-stable-assist-advice-major-strategy-book-heart-noble-alien |  
+| bip_39_word_dash_2 | office-tired |  
+| bip_39_word_dash_3 | office-tired-collect |  
+| bip_39_word_dash_4 | office-tired-collect-stable |  
+| bip_39_word_dash_5 | office-tired-collect-stable-assist |  
+| bip_39_word_dash_6 | office-tired-collect-stable-assist-advice |  
+| bip_39_word_dash_7 | office-tired-collect-stable-assist-advice-major |  
+| bip_39_word_dash_8 | office-tired-collect-stable-assist-advice-major-strategy |  
+| bip_39_word_dash_9 | office-tired-collect-stable-assist-advice-major-strategy-book |  
 | bip_39_word_new_br_1 | office |  
 | bip_39_word_new_br_10 | office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy<br>book<br>heart |  
 | bip_39_word_new_br_11 | office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy<br>book<br>heart<br>noble |  
@@ -147,6 +159,18 @@ book |
 | bip_39_word_space_7 | office tired collect stable assist advice major |  
 | bip_39_word_space_8 | office tired collect stable assist advice major strategy |  
 | bip_39_word_space_9 | office tired collect stable assist advice major strategy book |  
+| bip_39_word_underscore_1 | office |  
+| bip_39_word_underscore_10 | office_tired_collect_stable_assist_advice_major_strategy_book_heart |  
+| bip_39_word_underscore_11 | office_tired_collect_stable_assist_advice_major_strategy_book_heart_noble |  
+| bip_39_word_underscore_12 | office_tired_collect_stable_assist_advice_major_strategy_book_heart_noble_alien |  
+| bip_39_word_underscore_2 | office_tired |  
+| bip_39_word_underscore_3 | office_tired_collect |  
+| bip_39_word_underscore_4 | office_tired_collect_stable |  
+| bip_39_word_underscore_5 | office_tired_collect_stable_assist |  
+| bip_39_word_underscore_6 | office_tired_collect_stable_assist_advice |  
+| bip_39_word_underscore_7 | office_tired_collect_stable_assist_advice_major |  
+| bip_39_word_underscore_8 | office_tired_collect_stable_assist_advice_major_strategy |  
+| bip_39_word_underscore_9 | office_tired_collect_stable_assist_advice_major_strategy_book |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

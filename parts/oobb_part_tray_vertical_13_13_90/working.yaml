@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clip
+bip_39_word_dash_10: clip-motor-resemble-chase-stove-calm-fit-ostrich-ahead-also
+bip_39_word_dash_11: clip-motor-resemble-chase-stove-calm-fit-ostrich-ahead-also-boss
+bip_39_word_dash_12: clip-motor-resemble-chase-stove-calm-fit-ostrich-ahead-also-boss-amount
+bip_39_word_dash_2: clip-motor
+bip_39_word_dash_3: clip-motor-resemble
+bip_39_word_dash_4: clip-motor-resemble-chase
+bip_39_word_dash_5: clip-motor-resemble-chase-stove
+bip_39_word_dash_6: clip-motor-resemble-chase-stove-calm
+bip_39_word_dash_7: clip-motor-resemble-chase-stove-calm-fit
+bip_39_word_dash_8: clip-motor-resemble-chase-stove-calm-fit-ostrich
+bip_39_word_dash_9: clip-motor-resemble-chase-stove-calm-fit-ostrich-ahead
 bip_39_word_new_br_1: clip
 bip_39_word_new_br_10: clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich<br>ahead<br>also
 bip_39_word_new_br_11: clip<br>motor<br>resemble<br>chase<br>stove<br>calm<br>fit<br>ostrich<br>ahead<br>also<br>boss
@@ -193,6 +205,18 @@ bip_39_word_space_6: clip motor resemble chase stove calm
 bip_39_word_space_7: clip motor resemble chase stove calm fit
 bip_39_word_space_8: clip motor resemble chase stove calm fit ostrich
 bip_39_word_space_9: clip motor resemble chase stove calm fit ostrich ahead
+bip_39_word_underscore_1: clip
+bip_39_word_underscore_10: clip_motor_resemble_chase_stove_calm_fit_ostrich_ahead_also
+bip_39_word_underscore_11: clip_motor_resemble_chase_stove_calm_fit_ostrich_ahead_also_boss
+bip_39_word_underscore_12: clip_motor_resemble_chase_stove_calm_fit_ostrich_ahead_also_boss_amount
+bip_39_word_underscore_2: clip_motor
+bip_39_word_underscore_3: clip_motor_resemble
+bip_39_word_underscore_4: clip_motor_resemble_chase
+bip_39_word_underscore_5: clip_motor_resemble_chase_stove
+bip_39_word_underscore_6: clip_motor_resemble_chase_stove_calm
+bip_39_word_underscore_7: clip_motor_resemble_chase_stove_calm_fit
+bip_39_word_underscore_8: clip_motor_resemble_chase_stove_calm_fit_ostrich
+bip_39_word_underscore_9: clip_motor_resemble_chase_stove_calm_fit_ostrich_ahead
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

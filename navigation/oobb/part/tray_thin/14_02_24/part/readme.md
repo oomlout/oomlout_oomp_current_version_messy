@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | impulse |  
+| bip_39_word_dash_10 | impulse-nation-near-wagon-mercy-ugly-sail-milk-upgrade-toy |  
+| bip_39_word_dash_11 | impulse-nation-near-wagon-mercy-ugly-sail-milk-upgrade-toy-impulse |  
+| bip_39_word_dash_12 | impulse-nation-near-wagon-mercy-ugly-sail-milk-upgrade-toy-impulse-act |  
+| bip_39_word_dash_2 | impulse-nation |  
+| bip_39_word_dash_3 | impulse-nation-near |  
+| bip_39_word_dash_4 | impulse-nation-near-wagon |  
+| bip_39_word_dash_5 | impulse-nation-near-wagon-mercy |  
+| bip_39_word_dash_6 | impulse-nation-near-wagon-mercy-ugly |  
+| bip_39_word_dash_7 | impulse-nation-near-wagon-mercy-ugly-sail |  
+| bip_39_word_dash_8 | impulse-nation-near-wagon-mercy-ugly-sail-milk |  
+| bip_39_word_dash_9 | impulse-nation-near-wagon-mercy-ugly-sail-milk-upgrade |  
 | bip_39_word_new_br_1 | impulse |  
 | bip_39_word_new_br_10 | impulse<br>nation<br>near<br>wagon<br>mercy<br>ugly<br>sail<br>milk<br>upgrade<br>toy |  
 | bip_39_word_new_br_11 | impulse<br>nation<br>near<br>wagon<br>mercy<br>ugly<br>sail<br>milk<br>upgrade<br>toy<br>impulse |  
@@ -147,6 +159,18 @@ upgrade |
 | bip_39_word_space_7 | impulse nation near wagon mercy ugly sail |  
 | bip_39_word_space_8 | impulse nation near wagon mercy ugly sail milk |  
 | bip_39_word_space_9 | impulse nation near wagon mercy ugly sail milk upgrade |  
+| bip_39_word_underscore_1 | impulse |  
+| bip_39_word_underscore_10 | impulse_nation_near_wagon_mercy_ugly_sail_milk_upgrade_toy |  
+| bip_39_word_underscore_11 | impulse_nation_near_wagon_mercy_ugly_sail_milk_upgrade_toy_impulse |  
+| bip_39_word_underscore_12 | impulse_nation_near_wagon_mercy_ugly_sail_milk_upgrade_toy_impulse_act |  
+| bip_39_word_underscore_2 | impulse_nation |  
+| bip_39_word_underscore_3 | impulse_nation_near |  
+| bip_39_word_underscore_4 | impulse_nation_near_wagon |  
+| bip_39_word_underscore_5 | impulse_nation_near_wagon_mercy |  
+| bip_39_word_underscore_6 | impulse_nation_near_wagon_mercy_ugly |  
+| bip_39_word_underscore_7 | impulse_nation_near_wagon_mercy_ugly_sail |  
+| bip_39_word_underscore_8 | impulse_nation_near_wagon_mercy_ugly_sail_milk |  
+| bip_39_word_underscore_9 | impulse_nation_near_wagon_mercy_ugly_sail_milk_upgrade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

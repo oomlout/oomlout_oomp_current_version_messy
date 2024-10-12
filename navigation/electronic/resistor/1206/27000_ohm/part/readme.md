@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ceiling |  
+| bip_39_word_dash_10 | ceiling-adjust-add-emotion-top-sunny-job-elegant-female-jazz |  
+| bip_39_word_dash_11 | ceiling-adjust-add-emotion-top-sunny-job-elegant-female-jazz-vapor |  
+| bip_39_word_dash_12 | ceiling-adjust-add-emotion-top-sunny-job-elegant-female-jazz-vapor-audit |  
+| bip_39_word_dash_2 | ceiling-adjust |  
+| bip_39_word_dash_3 | ceiling-adjust-add |  
+| bip_39_word_dash_4 | ceiling-adjust-add-emotion |  
+| bip_39_word_dash_5 | ceiling-adjust-add-emotion-top |  
+| bip_39_word_dash_6 | ceiling-adjust-add-emotion-top-sunny |  
+| bip_39_word_dash_7 | ceiling-adjust-add-emotion-top-sunny-job |  
+| bip_39_word_dash_8 | ceiling-adjust-add-emotion-top-sunny-job-elegant |  
+| bip_39_word_dash_9 | ceiling-adjust-add-emotion-top-sunny-job-elegant-female |  
 | bip_39_word_new_br_1 | ceiling |  
 | bip_39_word_new_br_10 | ceiling<br>adjust<br>add<br>emotion<br>top<br>sunny<br>job<br>elegant<br>female<br>jazz |  
 | bip_39_word_new_br_11 | ceiling<br>adjust<br>add<br>emotion<br>top<br>sunny<br>job<br>elegant<br>female<br>jazz<br>vapor |  
@@ -147,6 +159,18 @@ female |
 | bip_39_word_space_7 | ceiling adjust add emotion top sunny job |  
 | bip_39_word_space_8 | ceiling adjust add emotion top sunny job elegant |  
 | bip_39_word_space_9 | ceiling adjust add emotion top sunny job elegant female |  
+| bip_39_word_underscore_1 | ceiling |  
+| bip_39_word_underscore_10 | ceiling_adjust_add_emotion_top_sunny_job_elegant_female_jazz |  
+| bip_39_word_underscore_11 | ceiling_adjust_add_emotion_top_sunny_job_elegant_female_jazz_vapor |  
+| bip_39_word_underscore_12 | ceiling_adjust_add_emotion_top_sunny_job_elegant_female_jazz_vapor_audit |  
+| bip_39_word_underscore_2 | ceiling_adjust |  
+| bip_39_word_underscore_3 | ceiling_adjust_add |  
+| bip_39_word_underscore_4 | ceiling_adjust_add_emotion |  
+| bip_39_word_underscore_5 | ceiling_adjust_add_emotion_top |  
+| bip_39_word_underscore_6 | ceiling_adjust_add_emotion_top_sunny |  
+| bip_39_word_underscore_7 | ceiling_adjust_add_emotion_top_sunny_job |  
+| bip_39_word_underscore_8 | ceiling_adjust_add_emotion_top_sunny_job_elegant |  
+| bip_39_word_underscore_9 | ceiling_adjust_add_emotion_top_sunny_job_elegant_female |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

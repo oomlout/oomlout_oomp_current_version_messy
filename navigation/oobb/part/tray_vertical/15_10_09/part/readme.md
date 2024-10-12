@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loop |  
+| bip_39_word_dash_10 | loop-barely-immense-scene-end-bone-pause-silver-symptom-shrimp |  
+| bip_39_word_dash_11 | loop-barely-immense-scene-end-bone-pause-silver-symptom-shrimp-avoid |  
+| bip_39_word_dash_12 | loop-barely-immense-scene-end-bone-pause-silver-symptom-shrimp-avoid-ability |  
+| bip_39_word_dash_2 | loop-barely |  
+| bip_39_word_dash_3 | loop-barely-immense |  
+| bip_39_word_dash_4 | loop-barely-immense-scene |  
+| bip_39_word_dash_5 | loop-barely-immense-scene-end |  
+| bip_39_word_dash_6 | loop-barely-immense-scene-end-bone |  
+| bip_39_word_dash_7 | loop-barely-immense-scene-end-bone-pause |  
+| bip_39_word_dash_8 | loop-barely-immense-scene-end-bone-pause-silver |  
+| bip_39_word_dash_9 | loop-barely-immense-scene-end-bone-pause-silver-symptom |  
 | bip_39_word_new_br_1 | loop |  
 | bip_39_word_new_br_10 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver<br>symptom<br>shrimp |  
 | bip_39_word_new_br_11 | loop<br>barely<br>immense<br>scene<br>end<br>bone<br>pause<br>silver<br>symptom<br>shrimp<br>avoid |  
@@ -147,6 +159,18 @@ symptom |
 | bip_39_word_space_7 | loop barely immense scene end bone pause |  
 | bip_39_word_space_8 | loop barely immense scene end bone pause silver |  
 | bip_39_word_space_9 | loop barely immense scene end bone pause silver symptom |  
+| bip_39_word_underscore_1 | loop |  
+| bip_39_word_underscore_10 | loop_barely_immense_scene_end_bone_pause_silver_symptom_shrimp |  
+| bip_39_word_underscore_11 | loop_barely_immense_scene_end_bone_pause_silver_symptom_shrimp_avoid |  
+| bip_39_word_underscore_12 | loop_barely_immense_scene_end_bone_pause_silver_symptom_shrimp_avoid_ability |  
+| bip_39_word_underscore_2 | loop_barely |  
+| bip_39_word_underscore_3 | loop_barely_immense |  
+| bip_39_word_underscore_4 | loop_barely_immense_scene |  
+| bip_39_word_underscore_5 | loop_barely_immense_scene_end |  
+| bip_39_word_underscore_6 | loop_barely_immense_scene_end_bone |  
+| bip_39_word_underscore_7 | loop_barely_immense_scene_end_bone_pause |  
+| bip_39_word_underscore_8 | loop_barely_immense_scene_end_bone_pause_silver |  
+| bip_39_word_underscore_9 | loop_barely_immense_scene_end_bone_pause_silver_symptom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | proof |  
+| bip_39_word_dash_10 | proof-laptop-toss-forum-foam-weasel-salt-ignore-vault-advice |  
+| bip_39_word_dash_11 | proof-laptop-toss-forum-foam-weasel-salt-ignore-vault-advice-sell |  
+| bip_39_word_dash_12 | proof-laptop-toss-forum-foam-weasel-salt-ignore-vault-advice-sell-apple |  
+| bip_39_word_dash_2 | proof-laptop |  
+| bip_39_word_dash_3 | proof-laptop-toss |  
+| bip_39_word_dash_4 | proof-laptop-toss-forum |  
+| bip_39_word_dash_5 | proof-laptop-toss-forum-foam |  
+| bip_39_word_dash_6 | proof-laptop-toss-forum-foam-weasel |  
+| bip_39_word_dash_7 | proof-laptop-toss-forum-foam-weasel-salt |  
+| bip_39_word_dash_8 | proof-laptop-toss-forum-foam-weasel-salt-ignore |  
+| bip_39_word_dash_9 | proof-laptop-toss-forum-foam-weasel-salt-ignore-vault |  
 | bip_39_word_new_br_1 | proof |  
 | bip_39_word_new_br_10 | proof<br>laptop<br>toss<br>forum<br>foam<br>weasel<br>salt<br>ignore<br>vault<br>advice |  
 | bip_39_word_new_br_11 | proof<br>laptop<br>toss<br>forum<br>foam<br>weasel<br>salt<br>ignore<br>vault<br>advice<br>sell |  
@@ -147,6 +159,18 @@ vault |
 | bip_39_word_space_7 | proof laptop toss forum foam weasel salt |  
 | bip_39_word_space_8 | proof laptop toss forum foam weasel salt ignore |  
 | bip_39_word_space_9 | proof laptop toss forum foam weasel salt ignore vault |  
+| bip_39_word_underscore_1 | proof |  
+| bip_39_word_underscore_10 | proof_laptop_toss_forum_foam_weasel_salt_ignore_vault_advice |  
+| bip_39_word_underscore_11 | proof_laptop_toss_forum_foam_weasel_salt_ignore_vault_advice_sell |  
+| bip_39_word_underscore_12 | proof_laptop_toss_forum_foam_weasel_salt_ignore_vault_advice_sell_apple |  
+| bip_39_word_underscore_2 | proof_laptop |  
+| bip_39_word_underscore_3 | proof_laptop_toss |  
+| bip_39_word_underscore_4 | proof_laptop_toss_forum |  
+| bip_39_word_underscore_5 | proof_laptop_toss_forum_foam |  
+| bip_39_word_underscore_6 | proof_laptop_toss_forum_foam_weasel |  
+| bip_39_word_underscore_7 | proof_laptop_toss_forum_foam_weasel_salt |  
+| bip_39_word_underscore_8 | proof_laptop_toss_forum_foam_weasel_salt_ignore |  
+| bip_39_word_underscore_9 | proof_laptop_toss_forum_foam_weasel_salt_ignore_vault |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

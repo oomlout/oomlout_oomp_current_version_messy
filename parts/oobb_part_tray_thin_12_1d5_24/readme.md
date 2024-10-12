@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | own |  
+| bip_39_word_dash_10 | own-theme-trigger-cute-kit-brown-humble-truly-vehicle-physical |  
+| bip_39_word_dash_11 | own-theme-trigger-cute-kit-brown-humble-truly-vehicle-physical-squirrel |  
+| bip_39_word_dash_12 | own-theme-trigger-cute-kit-brown-humble-truly-vehicle-physical-squirrel-autumn |  
+| bip_39_word_dash_2 | own-theme |  
+| bip_39_word_dash_3 | own-theme-trigger |  
+| bip_39_word_dash_4 | own-theme-trigger-cute |  
+| bip_39_word_dash_5 | own-theme-trigger-cute-kit |  
+| bip_39_word_dash_6 | own-theme-trigger-cute-kit-brown |  
+| bip_39_word_dash_7 | own-theme-trigger-cute-kit-brown-humble |  
+| bip_39_word_dash_8 | own-theme-trigger-cute-kit-brown-humble-truly |  
+| bip_39_word_dash_9 | own-theme-trigger-cute-kit-brown-humble-truly-vehicle |  
 | bip_39_word_new_br_1 | own |  
 | bip_39_word_new_br_10 | own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly<br>vehicle<br>physical |  
 | bip_39_word_new_br_11 | own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly<br>vehicle<br>physical<br>squirrel |  
@@ -147,6 +159,18 @@ vehicle |
 | bip_39_word_space_7 | own theme trigger cute kit brown humble |  
 | bip_39_word_space_8 | own theme trigger cute kit brown humble truly |  
 | bip_39_word_space_9 | own theme trigger cute kit brown humble truly vehicle |  
+| bip_39_word_underscore_1 | own |  
+| bip_39_word_underscore_10 | own_theme_trigger_cute_kit_brown_humble_truly_vehicle_physical |  
+| bip_39_word_underscore_11 | own_theme_trigger_cute_kit_brown_humble_truly_vehicle_physical_squirrel |  
+| bip_39_word_underscore_12 | own_theme_trigger_cute_kit_brown_humble_truly_vehicle_physical_squirrel_autumn |  
+| bip_39_word_underscore_2 | own_theme |  
+| bip_39_word_underscore_3 | own_theme_trigger |  
+| bip_39_word_underscore_4 | own_theme_trigger_cute |  
+| bip_39_word_underscore_5 | own_theme_trigger_cute_kit |  
+| bip_39_word_underscore_6 | own_theme_trigger_cute_kit_brown |  
+| bip_39_word_underscore_7 | own_theme_trigger_cute_kit_brown_humble |  
+| bip_39_word_underscore_8 | own_theme_trigger_cute_kit_brown_humble_truly |  
+| bip_39_word_underscore_9 | own_theme_trigger_cute_kit_brown_humble_truly_vehicle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

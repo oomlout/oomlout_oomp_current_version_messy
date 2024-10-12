@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | citizen |  
+| bip_39_word_dash_10 | citizen-stove-isolate-glove-arrow-assault-patrol-aerobic-loan-album |  
+| bip_39_word_dash_11 | citizen-stove-isolate-glove-arrow-assault-patrol-aerobic-loan-album-scorpion |  
+| bip_39_word_dash_2 | citizen-stove |  
+| bip_39_word_dash_3 | citizen-stove-isolate |  
+| bip_39_word_dash_4 | citizen-stove-isolate-glove |  
+| bip_39_word_dash_5 | citizen-stove-isolate-glove-arrow |  
+| bip_39_word_dash_6 | citizen-stove-isolate-glove-arrow-assault |  
+| bip_39_word_dash_7 | citizen-stove-isolate-glove-arrow-assault-patrol |  
+| bip_39_word_dash_8 | citizen-stove-isolate-glove-arrow-assault-patrol-aerobic |  
+| bip_39_word_dash_9 | citizen-stove-isolate-glove-arrow-assault-patrol-aerobic-loan |  
 | bip_39_word_new_br_1 | citizen |  
 | bip_39_word_new_br_10 | citizen<br>stove<br>isolate<br>glove<br>arrow<br>assault<br>patrol<br>aerobic<br>loan<br>album |  
 | bip_39_word_new_br_11 | citizen<br>stove<br>isolate<br>glove<br>arrow<br>assault<br>patrol<br>aerobic<br>loan<br>album<br>scorpion |  
@@ -132,6 +143,17 @@ loan |
 | bip_39_word_space_7 | citizen stove isolate glove arrow assault patrol |  
 | bip_39_word_space_8 | citizen stove isolate glove arrow assault patrol aerobic |  
 | bip_39_word_space_9 | citizen stove isolate glove arrow assault patrol aerobic loan |  
+| bip_39_word_underscore_1 | citizen |  
+| bip_39_word_underscore_10 | citizen_stove_isolate_glove_arrow_assault_patrol_aerobic_loan_album |  
+| bip_39_word_underscore_11 | citizen_stove_isolate_glove_arrow_assault_patrol_aerobic_loan_album_scorpion |  
+| bip_39_word_underscore_2 | citizen_stove |  
+| bip_39_word_underscore_3 | citizen_stove_isolate |  
+| bip_39_word_underscore_4 | citizen_stove_isolate_glove |  
+| bip_39_word_underscore_5 | citizen_stove_isolate_glove_arrow |  
+| bip_39_word_underscore_6 | citizen_stove_isolate_glove_arrow_assault |  
+| bip_39_word_underscore_7 | citizen_stove_isolate_glove_arrow_assault_patrol |  
+| bip_39_word_underscore_8 | citizen_stove_isolate_glove_arrow_assault_patrol_aerobic |  
+| bip_39_word_underscore_9 | citizen_stove_isolate_glove_arrow_assault_patrol_aerobic_loan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

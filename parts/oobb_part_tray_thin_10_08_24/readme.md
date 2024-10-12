@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | believe |  
+| bip_39_word_dash_10 | believe-face-conduct-shaft-adapt-slush-beef-end-jar-embrace |  
+| bip_39_word_dash_11 | believe-face-conduct-shaft-adapt-slush-beef-end-jar-embrace-inject |  
+| bip_39_word_dash_12 | believe-face-conduct-shaft-adapt-slush-beef-end-jar-embrace-inject-alley |  
+| bip_39_word_dash_2 | believe-face |  
+| bip_39_word_dash_3 | believe-face-conduct |  
+| bip_39_word_dash_4 | believe-face-conduct-shaft |  
+| bip_39_word_dash_5 | believe-face-conduct-shaft-adapt |  
+| bip_39_word_dash_6 | believe-face-conduct-shaft-adapt-slush |  
+| bip_39_word_dash_7 | believe-face-conduct-shaft-adapt-slush-beef |  
+| bip_39_word_dash_8 | believe-face-conduct-shaft-adapt-slush-beef-end |  
+| bip_39_word_dash_9 | believe-face-conduct-shaft-adapt-slush-beef-end-jar |  
 | bip_39_word_new_br_1 | believe |  
 | bip_39_word_new_br_10 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end<br>jar<br>embrace |  
 | bip_39_word_new_br_11 | believe<br>face<br>conduct<br>shaft<br>adapt<br>slush<br>beef<br>end<br>jar<br>embrace<br>inject |  
@@ -147,6 +159,18 @@ jar |
 | bip_39_word_space_7 | believe face conduct shaft adapt slush beef |  
 | bip_39_word_space_8 | believe face conduct shaft adapt slush beef end |  
 | bip_39_word_space_9 | believe face conduct shaft adapt slush beef end jar |  
+| bip_39_word_underscore_1 | believe |  
+| bip_39_word_underscore_10 | believe_face_conduct_shaft_adapt_slush_beef_end_jar_embrace |  
+| bip_39_word_underscore_11 | believe_face_conduct_shaft_adapt_slush_beef_end_jar_embrace_inject |  
+| bip_39_word_underscore_12 | believe_face_conduct_shaft_adapt_slush_beef_end_jar_embrace_inject_alley |  
+| bip_39_word_underscore_2 | believe_face |  
+| bip_39_word_underscore_3 | believe_face_conduct |  
+| bip_39_word_underscore_4 | believe_face_conduct_shaft |  
+| bip_39_word_underscore_5 | believe_face_conduct_shaft_adapt |  
+| bip_39_word_underscore_6 | believe_face_conduct_shaft_adapt_slush |  
+| bip_39_word_underscore_7 | believe_face_conduct_shaft_adapt_slush_beef |  
+| bip_39_word_underscore_8 | believe_face_conduct_shaft_adapt_slush_beef_end |  
+| bip_39_word_underscore_9 | believe_face_conduct_shaft_adapt_slush_beef_end_jar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

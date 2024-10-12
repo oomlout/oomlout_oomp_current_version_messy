@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | time |  
+| bip_39_word_dash_10 | time-uniform-loud-extra-roof-wolf-like-layer-assist-wing |  
+| bip_39_word_dash_11 | time-uniform-loud-extra-roof-wolf-like-layer-assist-wing-frequent |  
+| bip_39_word_dash_12 | time-uniform-loud-extra-roof-wolf-like-layer-assist-wing-frequent-accident |  
+| bip_39_word_dash_2 | time-uniform |  
+| bip_39_word_dash_3 | time-uniform-loud |  
+| bip_39_word_dash_4 | time-uniform-loud-extra |  
+| bip_39_word_dash_5 | time-uniform-loud-extra-roof |  
+| bip_39_word_dash_6 | time-uniform-loud-extra-roof-wolf |  
+| bip_39_word_dash_7 | time-uniform-loud-extra-roof-wolf-like |  
+| bip_39_word_dash_8 | time-uniform-loud-extra-roof-wolf-like-layer |  
+| bip_39_word_dash_9 | time-uniform-loud-extra-roof-wolf-like-layer-assist |  
 | bip_39_word_new_br_1 | time |  
 | bip_39_word_new_br_10 | time<br>uniform<br>loud<br>extra<br>roof<br>wolf<br>like<br>layer<br>assist<br>wing |  
 | bip_39_word_new_br_11 | time<br>uniform<br>loud<br>extra<br>roof<br>wolf<br>like<br>layer<br>assist<br>wing<br>frequent |  
@@ -147,6 +159,18 @@ assist |
 | bip_39_word_space_7 | time uniform loud extra roof wolf like |  
 | bip_39_word_space_8 | time uniform loud extra roof wolf like layer |  
 | bip_39_word_space_9 | time uniform loud extra roof wolf like layer assist |  
+| bip_39_word_underscore_1 | time |  
+| bip_39_word_underscore_10 | time_uniform_loud_extra_roof_wolf_like_layer_assist_wing |  
+| bip_39_word_underscore_11 | time_uniform_loud_extra_roof_wolf_like_layer_assist_wing_frequent |  
+| bip_39_word_underscore_12 | time_uniform_loud_extra_roof_wolf_like_layer_assist_wing_frequent_accident |  
+| bip_39_word_underscore_2 | time_uniform |  
+| bip_39_word_underscore_3 | time_uniform_loud |  
+| bip_39_word_underscore_4 | time_uniform_loud_extra |  
+| bip_39_word_underscore_5 | time_uniform_loud_extra_roof |  
+| bip_39_word_underscore_6 | time_uniform_loud_extra_roof_wolf |  
+| bip_39_word_underscore_7 | time_uniform_loud_extra_roof_wolf_like |  
+| bip_39_word_underscore_8 | time_uniform_loud_extra_roof_wolf_like_layer |  
+| bip_39_word_underscore_9 | time_uniform_loud_extra_roof_wolf_like_layer_assist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

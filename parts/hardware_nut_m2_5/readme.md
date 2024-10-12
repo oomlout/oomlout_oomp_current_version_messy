@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hurdle |  
+| bip_39_word_dash_10 | hurdle-inject-voyage-topple-slogan-hub-novel-garment-surprise-odor |  
+| bip_39_word_dash_11 | hurdle-inject-voyage-topple-slogan-hub-novel-garment-surprise-odor-timber |  
+| bip_39_word_dash_12 | hurdle-inject-voyage-topple-slogan-hub-novel-garment-surprise-odor-timber-account |  
+| bip_39_word_dash_2 | hurdle-inject |  
+| bip_39_word_dash_3 | hurdle-inject-voyage |  
+| bip_39_word_dash_4 | hurdle-inject-voyage-topple |  
+| bip_39_word_dash_5 | hurdle-inject-voyage-topple-slogan |  
+| bip_39_word_dash_6 | hurdle-inject-voyage-topple-slogan-hub |  
+| bip_39_word_dash_7 | hurdle-inject-voyage-topple-slogan-hub-novel |  
+| bip_39_word_dash_8 | hurdle-inject-voyage-topple-slogan-hub-novel-garment |  
+| bip_39_word_dash_9 | hurdle-inject-voyage-topple-slogan-hub-novel-garment-surprise |  
 | bip_39_word_new_br_1 | hurdle |  
 | bip_39_word_new_br_10 | hurdle<br>inject<br>voyage<br>topple<br>slogan<br>hub<br>novel<br>garment<br>surprise<br>odor |  
 | bip_39_word_new_br_11 | hurdle<br>inject<br>voyage<br>topple<br>slogan<br>hub<br>novel<br>garment<br>surprise<br>odor<br>timber |  
@@ -147,6 +159,18 @@ surprise |
 | bip_39_word_space_7 | hurdle inject voyage topple slogan hub novel |  
 | bip_39_word_space_8 | hurdle inject voyage topple slogan hub novel garment |  
 | bip_39_word_space_9 | hurdle inject voyage topple slogan hub novel garment surprise |  
+| bip_39_word_underscore_1 | hurdle |  
+| bip_39_word_underscore_10 | hurdle_inject_voyage_topple_slogan_hub_novel_garment_surprise_odor |  
+| bip_39_word_underscore_11 | hurdle_inject_voyage_topple_slogan_hub_novel_garment_surprise_odor_timber |  
+| bip_39_word_underscore_12 | hurdle_inject_voyage_topple_slogan_hub_novel_garment_surprise_odor_timber_account |  
+| bip_39_word_underscore_2 | hurdle_inject |  
+| bip_39_word_underscore_3 | hurdle_inject_voyage |  
+| bip_39_word_underscore_4 | hurdle_inject_voyage_topple |  
+| bip_39_word_underscore_5 | hurdle_inject_voyage_topple_slogan |  
+| bip_39_word_underscore_6 | hurdle_inject_voyage_topple_slogan_hub |  
+| bip_39_word_underscore_7 | hurdle_inject_voyage_topple_slogan_hub_novel |  
+| bip_39_word_underscore_8 | hurdle_inject_voyage_topple_slogan_hub_novel_garment |  
+| bip_39_word_underscore_9 | hurdle_inject_voyage_topple_slogan_hub_novel_garment_surprise |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

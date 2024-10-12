@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jungle |  
+| bip_39_word_dash_10 | jungle-wrestle-explain-magnet-come-domain-meadow-domain-someone-naive |  
+| bip_39_word_dash_11 | jungle-wrestle-explain-magnet-come-domain-meadow-domain-someone-naive-liar |  
+| bip_39_word_dash_12 | jungle-wrestle-explain-magnet-come-domain-meadow-domain-someone-naive-liar-absorb |  
+| bip_39_word_dash_2 | jungle-wrestle |  
+| bip_39_word_dash_3 | jungle-wrestle-explain |  
+| bip_39_word_dash_4 | jungle-wrestle-explain-magnet |  
+| bip_39_word_dash_5 | jungle-wrestle-explain-magnet-come |  
+| bip_39_word_dash_6 | jungle-wrestle-explain-magnet-come-domain |  
+| bip_39_word_dash_7 | jungle-wrestle-explain-magnet-come-domain-meadow |  
+| bip_39_word_dash_8 | jungle-wrestle-explain-magnet-come-domain-meadow-domain |  
+| bip_39_word_dash_9 | jungle-wrestle-explain-magnet-come-domain-meadow-domain-someone |  
 | bip_39_word_new_br_1 | jungle |  
 | bip_39_word_new_br_10 | jungle<br>wrestle<br>explain<br>magnet<br>come<br>domain<br>meadow<br>domain<br>someone<br>naive |  
 | bip_39_word_new_br_11 | jungle<br>wrestle<br>explain<br>magnet<br>come<br>domain<br>meadow<br>domain<br>someone<br>naive<br>liar |  
@@ -147,6 +159,18 @@ someone |
 | bip_39_word_space_7 | jungle wrestle explain magnet come domain meadow |  
 | bip_39_word_space_8 | jungle wrestle explain magnet come domain meadow domain |  
 | bip_39_word_space_9 | jungle wrestle explain magnet come domain meadow domain someone |  
+| bip_39_word_underscore_1 | jungle |  
+| bip_39_word_underscore_10 | jungle_wrestle_explain_magnet_come_domain_meadow_domain_someone_naive |  
+| bip_39_word_underscore_11 | jungle_wrestle_explain_magnet_come_domain_meadow_domain_someone_naive_liar |  
+| bip_39_word_underscore_12 | jungle_wrestle_explain_magnet_come_domain_meadow_domain_someone_naive_liar_absorb |  
+| bip_39_word_underscore_2 | jungle_wrestle |  
+| bip_39_word_underscore_3 | jungle_wrestle_explain |  
+| bip_39_word_underscore_4 | jungle_wrestle_explain_magnet |  
+| bip_39_word_underscore_5 | jungle_wrestle_explain_magnet_come |  
+| bip_39_word_underscore_6 | jungle_wrestle_explain_magnet_come_domain |  
+| bip_39_word_underscore_7 | jungle_wrestle_explain_magnet_come_domain_meadow |  
+| bip_39_word_underscore_8 | jungle_wrestle_explain_magnet_come_domain_meadow_domain |  
+| bip_39_word_underscore_9 | jungle_wrestle_explain_magnet_come_domain_meadow_domain_someone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wife |  
+| bip_39_word_dash_10 | wife-bundle-silk-luxury-bean-radio-behind-into-lens-voyage |  
+| bip_39_word_dash_11 | wife-bundle-silk-luxury-bean-radio-behind-into-lens-voyage-dry |  
+| bip_39_word_dash_12 | wife-bundle-silk-luxury-bean-radio-behind-into-lens-voyage-dry-also |  
+| bip_39_word_dash_2 | wife-bundle |  
+| bip_39_word_dash_3 | wife-bundle-silk |  
+| bip_39_word_dash_4 | wife-bundle-silk-luxury |  
+| bip_39_word_dash_5 | wife-bundle-silk-luxury-bean |  
+| bip_39_word_dash_6 | wife-bundle-silk-luxury-bean-radio |  
+| bip_39_word_dash_7 | wife-bundle-silk-luxury-bean-radio-behind |  
+| bip_39_word_dash_8 | wife-bundle-silk-luxury-bean-radio-behind-into |  
+| bip_39_word_dash_9 | wife-bundle-silk-luxury-bean-radio-behind-into-lens |  
 | bip_39_word_new_br_1 | wife |  
 | bip_39_word_new_br_10 | wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into<br>lens<br>voyage |  
 | bip_39_word_new_br_11 | wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into<br>lens<br>voyage<br>dry |  
@@ -147,6 +159,18 @@ lens |
 | bip_39_word_space_7 | wife bundle silk luxury bean radio behind |  
 | bip_39_word_space_8 | wife bundle silk luxury bean radio behind into |  
 | bip_39_word_space_9 | wife bundle silk luxury bean radio behind into lens |  
+| bip_39_word_underscore_1 | wife |  
+| bip_39_word_underscore_10 | wife_bundle_silk_luxury_bean_radio_behind_into_lens_voyage |  
+| bip_39_word_underscore_11 | wife_bundle_silk_luxury_bean_radio_behind_into_lens_voyage_dry |  
+| bip_39_word_underscore_12 | wife_bundle_silk_luxury_bean_radio_behind_into_lens_voyage_dry_also |  
+| bip_39_word_underscore_2 | wife_bundle |  
+| bip_39_word_underscore_3 | wife_bundle_silk |  
+| bip_39_word_underscore_4 | wife_bundle_silk_luxury |  
+| bip_39_word_underscore_5 | wife_bundle_silk_luxury_bean |  
+| bip_39_word_underscore_6 | wife_bundle_silk_luxury_bean_radio |  
+| bip_39_word_underscore_7 | wife_bundle_silk_luxury_bean_radio_behind |  
+| bip_39_word_underscore_8 | wife_bundle_silk_luxury_bean_radio_behind_into |  
+| bip_39_word_underscore_9 | wife_bundle_silk_luxury_bean_radio_behind_into_lens |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

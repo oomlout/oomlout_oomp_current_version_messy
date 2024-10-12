@@ -1,3 +1,15 @@
+bip_39_word_dash_1: original
+bip_39_word_dash_10: original-yard-dumb-aerobic-under-room-south-blush-false-gorilla
+bip_39_word_dash_11: original-yard-dumb-aerobic-under-room-south-blush-false-gorilla-peace
+bip_39_word_dash_12: original-yard-dumb-aerobic-under-room-south-blush-false-gorilla-peace-alter
+bip_39_word_dash_2: original-yard
+bip_39_word_dash_3: original-yard-dumb
+bip_39_word_dash_4: original-yard-dumb-aerobic
+bip_39_word_dash_5: original-yard-dumb-aerobic-under
+bip_39_word_dash_6: original-yard-dumb-aerobic-under-room
+bip_39_word_dash_7: original-yard-dumb-aerobic-under-room-south
+bip_39_word_dash_8: original-yard-dumb-aerobic-under-room-south-blush
+bip_39_word_dash_9: original-yard-dumb-aerobic-under-room-south-blush-false
 bip_39_word_new_br_1: original
 bip_39_word_new_br_10: original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla
 bip_39_word_new_br_11: original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla<br>peace
@@ -193,6 +205,18 @@ bip_39_word_space_6: original yard dumb aerobic under room
 bip_39_word_space_7: original yard dumb aerobic under room south
 bip_39_word_space_8: original yard dumb aerobic under room south blush
 bip_39_word_space_9: original yard dumb aerobic under room south blush false
+bip_39_word_underscore_1: original
+bip_39_word_underscore_10: original_yard_dumb_aerobic_under_room_south_blush_false_gorilla
+bip_39_word_underscore_11: original_yard_dumb_aerobic_under_room_south_blush_false_gorilla_peace
+bip_39_word_underscore_12: original_yard_dumb_aerobic_under_room_south_blush_false_gorilla_peace_alter
+bip_39_word_underscore_2: original_yard
+bip_39_word_underscore_3: original_yard_dumb
+bip_39_word_underscore_4: original_yard_dumb_aerobic
+bip_39_word_underscore_5: original_yard_dumb_aerobic_under
+bip_39_word_underscore_6: original_yard_dumb_aerobic_under_room
+bip_39_word_underscore_7: original_yard_dumb_aerobic_under_room_south
+bip_39_word_underscore_8: original_yard_dumb_aerobic_under_room_south_blush
+bip_39_word_underscore_9: original_yard_dumb_aerobic_under_room_south_blush_false
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | people |  
+| bip_39_word_dash_10 | people-come-knock-skin-quote-vibrant-north-method-smooth-unlock |  
+| bip_39_word_dash_11 | people-come-knock-skin-quote-vibrant-north-method-smooth-unlock-bulk |  
+| bip_39_word_dash_12 | people-come-knock-skin-quote-vibrant-north-method-smooth-unlock-bulk-almost |  
+| bip_39_word_dash_2 | people-come |  
+| bip_39_word_dash_3 | people-come-knock |  
+| bip_39_word_dash_4 | people-come-knock-skin |  
+| bip_39_word_dash_5 | people-come-knock-skin-quote |  
+| bip_39_word_dash_6 | people-come-knock-skin-quote-vibrant |  
+| bip_39_word_dash_7 | people-come-knock-skin-quote-vibrant-north |  
+| bip_39_word_dash_8 | people-come-knock-skin-quote-vibrant-north-method |  
+| bip_39_word_dash_9 | people-come-knock-skin-quote-vibrant-north-method-smooth |  
 | bip_39_word_new_br_1 | people |  
 | bip_39_word_new_br_10 | people<br>come<br>knock<br>skin<br>quote<br>vibrant<br>north<br>method<br>smooth<br>unlock |  
 | bip_39_word_new_br_11 | people<br>come<br>knock<br>skin<br>quote<br>vibrant<br>north<br>method<br>smooth<br>unlock<br>bulk |  
@@ -147,6 +159,18 @@ smooth |
 | bip_39_word_space_7 | people come knock skin quote vibrant north |  
 | bip_39_word_space_8 | people come knock skin quote vibrant north method |  
 | bip_39_word_space_9 | people come knock skin quote vibrant north method smooth |  
+| bip_39_word_underscore_1 | people |  
+| bip_39_word_underscore_10 | people_come_knock_skin_quote_vibrant_north_method_smooth_unlock |  
+| bip_39_word_underscore_11 | people_come_knock_skin_quote_vibrant_north_method_smooth_unlock_bulk |  
+| bip_39_word_underscore_12 | people_come_knock_skin_quote_vibrant_north_method_smooth_unlock_bulk_almost |  
+| bip_39_word_underscore_2 | people_come |  
+| bip_39_word_underscore_3 | people_come_knock |  
+| bip_39_word_underscore_4 | people_come_knock_skin |  
+| bip_39_word_underscore_5 | people_come_knock_skin_quote |  
+| bip_39_word_underscore_6 | people_come_knock_skin_quote_vibrant |  
+| bip_39_word_underscore_7 | people_come_knock_skin_quote_vibrant_north |  
+| bip_39_word_underscore_8 | people_come_knock_skin_quote_vibrant_north_method |  
+| bip_39_word_underscore_9 | people_come_knock_skin_quote_vibrant_north_method_smooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

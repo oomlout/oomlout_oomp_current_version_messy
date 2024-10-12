@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eagle |  
+| bip_39_word_dash_10 | eagle-around-kiss-reject-tank-topple-arctic-laundry-inch-sniff |  
+| bip_39_word_dash_11 | eagle-around-kiss-reject-tank-topple-arctic-laundry-inch-sniff-cotton |  
+| bip_39_word_dash_12 | eagle-around-kiss-reject-tank-topple-arctic-laundry-inch-sniff-cotton-amount |  
+| bip_39_word_dash_2 | eagle-around |  
+| bip_39_word_dash_3 | eagle-around-kiss |  
+| bip_39_word_dash_4 | eagle-around-kiss-reject |  
+| bip_39_word_dash_5 | eagle-around-kiss-reject-tank |  
+| bip_39_word_dash_6 | eagle-around-kiss-reject-tank-topple |  
+| bip_39_word_dash_7 | eagle-around-kiss-reject-tank-topple-arctic |  
+| bip_39_word_dash_8 | eagle-around-kiss-reject-tank-topple-arctic-laundry |  
+| bip_39_word_dash_9 | eagle-around-kiss-reject-tank-topple-arctic-laundry-inch |  
 | bip_39_word_new_br_1 | eagle |  
 | bip_39_word_new_br_10 | eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry<br>inch<br>sniff |  
 | bip_39_word_new_br_11 | eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry<br>inch<br>sniff<br>cotton |  
@@ -147,6 +159,18 @@ inch |
 | bip_39_word_space_7 | eagle around kiss reject tank topple arctic |  
 | bip_39_word_space_8 | eagle around kiss reject tank topple arctic laundry |  
 | bip_39_word_space_9 | eagle around kiss reject tank topple arctic laundry inch |  
+| bip_39_word_underscore_1 | eagle |  
+| bip_39_word_underscore_10 | eagle_around_kiss_reject_tank_topple_arctic_laundry_inch_sniff |  
+| bip_39_word_underscore_11 | eagle_around_kiss_reject_tank_topple_arctic_laundry_inch_sniff_cotton |  
+| bip_39_word_underscore_12 | eagle_around_kiss_reject_tank_topple_arctic_laundry_inch_sniff_cotton_amount |  
+| bip_39_word_underscore_2 | eagle_around |  
+| bip_39_word_underscore_3 | eagle_around_kiss |  
+| bip_39_word_underscore_4 | eagle_around_kiss_reject |  
+| bip_39_word_underscore_5 | eagle_around_kiss_reject_tank |  
+| bip_39_word_underscore_6 | eagle_around_kiss_reject_tank_topple |  
+| bip_39_word_underscore_7 | eagle_around_kiss_reject_tank_topple_arctic |  
+| bip_39_word_underscore_8 | eagle_around_kiss_reject_tank_topple_arctic_laundry |  
+| bip_39_word_underscore_9 | eagle_around_kiss_reject_tank_topple_arctic_laundry_inch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

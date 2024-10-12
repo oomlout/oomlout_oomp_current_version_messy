@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | old |  
+| bip_39_word_dash_10 | old-soldier-either-knock-know-daring-empower-slogan-vessel-walnut |  
+| bip_39_word_dash_11 | old-soldier-either-knock-know-daring-empower-slogan-vessel-walnut-clever |  
+| bip_39_word_dash_12 | old-soldier-either-knock-know-daring-empower-slogan-vessel-walnut-clever-art |  
+| bip_39_word_dash_2 | old-soldier |  
+| bip_39_word_dash_3 | old-soldier-either |  
+| bip_39_word_dash_4 | old-soldier-either-knock |  
+| bip_39_word_dash_5 | old-soldier-either-knock-know |  
+| bip_39_word_dash_6 | old-soldier-either-knock-know-daring |  
+| bip_39_word_dash_7 | old-soldier-either-knock-know-daring-empower |  
+| bip_39_word_dash_8 | old-soldier-either-knock-know-daring-empower-slogan |  
+| bip_39_word_dash_9 | old-soldier-either-knock-know-daring-empower-slogan-vessel |  
 | bip_39_word_new_br_1 | old |  
 | bip_39_word_new_br_10 | old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan<br>vessel<br>walnut |  
 | bip_39_word_new_br_11 | old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan<br>vessel<br>walnut<br>clever |  
@@ -147,6 +159,18 @@ vessel |
 | bip_39_word_space_7 | old soldier either knock know daring empower |  
 | bip_39_word_space_8 | old soldier either knock know daring empower slogan |  
 | bip_39_word_space_9 | old soldier either knock know daring empower slogan vessel |  
+| bip_39_word_underscore_1 | old |  
+| bip_39_word_underscore_10 | old_soldier_either_knock_know_daring_empower_slogan_vessel_walnut |  
+| bip_39_word_underscore_11 | old_soldier_either_knock_know_daring_empower_slogan_vessel_walnut_clever |  
+| bip_39_word_underscore_12 | old_soldier_either_knock_know_daring_empower_slogan_vessel_walnut_clever_art |  
+| bip_39_word_underscore_2 | old_soldier |  
+| bip_39_word_underscore_3 | old_soldier_either |  
+| bip_39_word_underscore_4 | old_soldier_either_knock |  
+| bip_39_word_underscore_5 | old_soldier_either_knock_know |  
+| bip_39_word_underscore_6 | old_soldier_either_knock_know_daring |  
+| bip_39_word_underscore_7 | old_soldier_either_knock_know_daring_empower |  
+| bip_39_word_underscore_8 | old_soldier_either_knock_know_daring_empower_slogan |  
+| bip_39_word_underscore_9 | old_soldier_either_knock_know_daring_empower_slogan_vessel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

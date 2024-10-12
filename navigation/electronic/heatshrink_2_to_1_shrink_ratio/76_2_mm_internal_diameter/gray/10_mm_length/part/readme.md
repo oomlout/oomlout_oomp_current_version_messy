@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rookie |  
+| bip_39_word_dash_10 | rookie-language-silly-steak-bundle-wine-trap-wing-regular-polar |  
+| bip_39_word_dash_11 | rookie-language-silly-steak-bundle-wine-trap-wing-regular-polar-depth |  
+| bip_39_word_dash_12 | rookie-language-silly-steak-bundle-wine-trap-wing-regular-polar-depth-ahead |  
+| bip_39_word_dash_2 | rookie-language |  
+| bip_39_word_dash_3 | rookie-language-silly |  
+| bip_39_word_dash_4 | rookie-language-silly-steak |  
+| bip_39_word_dash_5 | rookie-language-silly-steak-bundle |  
+| bip_39_word_dash_6 | rookie-language-silly-steak-bundle-wine |  
+| bip_39_word_dash_7 | rookie-language-silly-steak-bundle-wine-trap |  
+| bip_39_word_dash_8 | rookie-language-silly-steak-bundle-wine-trap-wing |  
+| bip_39_word_dash_9 | rookie-language-silly-steak-bundle-wine-trap-wing-regular |  
 | bip_39_word_new_br_1 | rookie |  
 | bip_39_word_new_br_10 | rookie<br>language<br>silly<br>steak<br>bundle<br>wine<br>trap<br>wing<br>regular<br>polar |  
 | bip_39_word_new_br_11 | rookie<br>language<br>silly<br>steak<br>bundle<br>wine<br>trap<br>wing<br>regular<br>polar<br>depth |  
@@ -147,6 +159,18 @@ regular |
 | bip_39_word_space_7 | rookie language silly steak bundle wine trap |  
 | bip_39_word_space_8 | rookie language silly steak bundle wine trap wing |  
 | bip_39_word_space_9 | rookie language silly steak bundle wine trap wing regular |  
+| bip_39_word_underscore_1 | rookie |  
+| bip_39_word_underscore_10 | rookie_language_silly_steak_bundle_wine_trap_wing_regular_polar |  
+| bip_39_word_underscore_11 | rookie_language_silly_steak_bundle_wine_trap_wing_regular_polar_depth |  
+| bip_39_word_underscore_12 | rookie_language_silly_steak_bundle_wine_trap_wing_regular_polar_depth_ahead |  
+| bip_39_word_underscore_2 | rookie_language |  
+| bip_39_word_underscore_3 | rookie_language_silly |  
+| bip_39_word_underscore_4 | rookie_language_silly_steak |  
+| bip_39_word_underscore_5 | rookie_language_silly_steak_bundle |  
+| bip_39_word_underscore_6 | rookie_language_silly_steak_bundle_wine |  
+| bip_39_word_underscore_7 | rookie_language_silly_steak_bundle_wine_trap |  
+| bip_39_word_underscore_8 | rookie_language_silly_steak_bundle_wine_trap_wing |  
+| bip_39_word_underscore_9 | rookie_language_silly_steak_bundle_wine_trap_wing_regular |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

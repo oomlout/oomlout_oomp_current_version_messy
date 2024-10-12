@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inside |  
+| bip_39_word_dash_10 | inside-action-pact-silk-quantum-above-drill-artist-tomorrow-gesture |  
+| bip_39_word_dash_11 | inside-action-pact-silk-quantum-above-drill-artist-tomorrow-gesture-asset |  
+| bip_39_word_dash_12 | inside-action-pact-silk-quantum-above-drill-artist-tomorrow-gesture-asset-author |  
+| bip_39_word_dash_2 | inside-action |  
+| bip_39_word_dash_3 | inside-action-pact |  
+| bip_39_word_dash_4 | inside-action-pact-silk |  
+| bip_39_word_dash_5 | inside-action-pact-silk-quantum |  
+| bip_39_word_dash_6 | inside-action-pact-silk-quantum-above |  
+| bip_39_word_dash_7 | inside-action-pact-silk-quantum-above-drill |  
+| bip_39_word_dash_8 | inside-action-pact-silk-quantum-above-drill-artist |  
+| bip_39_word_dash_9 | inside-action-pact-silk-quantum-above-drill-artist-tomorrow |  
 | bip_39_word_new_br_1 | inside |  
 | bip_39_word_new_br_10 | inside<br>action<br>pact<br>silk<br>quantum<br>above<br>drill<br>artist<br>tomorrow<br>gesture |  
 | bip_39_word_new_br_11 | inside<br>action<br>pact<br>silk<br>quantum<br>above<br>drill<br>artist<br>tomorrow<br>gesture<br>asset |  
@@ -147,6 +159,18 @@ tomorrow |
 | bip_39_word_space_7 | inside action pact silk quantum above drill |  
 | bip_39_word_space_8 | inside action pact silk quantum above drill artist |  
 | bip_39_word_space_9 | inside action pact silk quantum above drill artist tomorrow |  
+| bip_39_word_underscore_1 | inside |  
+| bip_39_word_underscore_10 | inside_action_pact_silk_quantum_above_drill_artist_tomorrow_gesture |  
+| bip_39_word_underscore_11 | inside_action_pact_silk_quantum_above_drill_artist_tomorrow_gesture_asset |  
+| bip_39_word_underscore_12 | inside_action_pact_silk_quantum_above_drill_artist_tomorrow_gesture_asset_author |  
+| bip_39_word_underscore_2 | inside_action |  
+| bip_39_word_underscore_3 | inside_action_pact |  
+| bip_39_word_underscore_4 | inside_action_pact_silk |  
+| bip_39_word_underscore_5 | inside_action_pact_silk_quantum |  
+| bip_39_word_underscore_6 | inside_action_pact_silk_quantum_above |  
+| bip_39_word_underscore_7 | inside_action_pact_silk_quantum_above_drill |  
+| bip_39_word_underscore_8 | inside_action_pact_silk_quantum_above_drill_artist |  
+| bip_39_word_underscore_9 | inside_action_pact_silk_quantum_above_drill_artist_tomorrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: desk
+bip_39_word_dash_10: desk-net-segment-stamp-physical-avocado-strike-mix-thumb-frog
+bip_39_word_dash_11: desk-net-segment-stamp-physical-avocado-strike-mix-thumb-frog-galaxy
+bip_39_word_dash_12: desk-net-segment-stamp-physical-avocado-strike-mix-thumb-frog-galaxy-adult
+bip_39_word_dash_2: desk-net
+bip_39_word_dash_3: desk-net-segment
+bip_39_word_dash_4: desk-net-segment-stamp
+bip_39_word_dash_5: desk-net-segment-stamp-physical
+bip_39_word_dash_6: desk-net-segment-stamp-physical-avocado
+bip_39_word_dash_7: desk-net-segment-stamp-physical-avocado-strike
+bip_39_word_dash_8: desk-net-segment-stamp-physical-avocado-strike-mix
+bip_39_word_dash_9: desk-net-segment-stamp-physical-avocado-strike-mix-thumb
 bip_39_word_new_br_1: desk
 bip_39_word_new_br_10: desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog
 bip_39_word_new_br_11: desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog<br>galaxy
@@ -193,6 +205,18 @@ bip_39_word_space_6: desk net segment stamp physical avocado
 bip_39_word_space_7: desk net segment stamp physical avocado strike
 bip_39_word_space_8: desk net segment stamp physical avocado strike mix
 bip_39_word_space_9: desk net segment stamp physical avocado strike mix thumb
+bip_39_word_underscore_1: desk
+bip_39_word_underscore_10: desk_net_segment_stamp_physical_avocado_strike_mix_thumb_frog
+bip_39_word_underscore_11: desk_net_segment_stamp_physical_avocado_strike_mix_thumb_frog_galaxy
+bip_39_word_underscore_12: desk_net_segment_stamp_physical_avocado_strike_mix_thumb_frog_galaxy_adult
+bip_39_word_underscore_2: desk_net
+bip_39_word_underscore_3: desk_net_segment
+bip_39_word_underscore_4: desk_net_segment_stamp
+bip_39_word_underscore_5: desk_net_segment_stamp_physical
+bip_39_word_underscore_6: desk_net_segment_stamp_physical_avocado
+bip_39_word_underscore_7: desk_net_segment_stamp_physical_avocado_strike
+bip_39_word_underscore_8: desk_net_segment_stamp_physical_avocado_strike_mix
+bip_39_word_underscore_9: desk_net_segment_stamp_physical_avocado_strike_mix_thumb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | polar |  
+| bip_39_word_dash_10 | polar-small-mystery-income-decline-shoe-faith-drama-letter-achieve |  
+| bip_39_word_dash_11 | polar-small-mystery-income-decline-shoe-faith-drama-letter-achieve-game |  
+| bip_39_word_dash_12 | polar-small-mystery-income-decline-shoe-faith-drama-letter-achieve-game-argue |  
+| bip_39_word_dash_2 | polar-small |  
+| bip_39_word_dash_3 | polar-small-mystery |  
+| bip_39_word_dash_4 | polar-small-mystery-income |  
+| bip_39_word_dash_5 | polar-small-mystery-income-decline |  
+| bip_39_word_dash_6 | polar-small-mystery-income-decline-shoe |  
+| bip_39_word_dash_7 | polar-small-mystery-income-decline-shoe-faith |  
+| bip_39_word_dash_8 | polar-small-mystery-income-decline-shoe-faith-drama |  
+| bip_39_word_dash_9 | polar-small-mystery-income-decline-shoe-faith-drama-letter |  
 | bip_39_word_new_br_1 | polar |  
 | bip_39_word_new_br_10 | polar<br>small<br>mystery<br>income<br>decline<br>shoe<br>faith<br>drama<br>letter<br>achieve |  
 | bip_39_word_new_br_11 | polar<br>small<br>mystery<br>income<br>decline<br>shoe<br>faith<br>drama<br>letter<br>achieve<br>game |  
@@ -147,6 +159,18 @@ letter |
 | bip_39_word_space_7 | polar small mystery income decline shoe faith |  
 | bip_39_word_space_8 | polar small mystery income decline shoe faith drama |  
 | bip_39_word_space_9 | polar small mystery income decline shoe faith drama letter |  
+| bip_39_word_underscore_1 | polar |  
+| bip_39_word_underscore_10 | polar_small_mystery_income_decline_shoe_faith_drama_letter_achieve |  
+| bip_39_word_underscore_11 | polar_small_mystery_income_decline_shoe_faith_drama_letter_achieve_game |  
+| bip_39_word_underscore_12 | polar_small_mystery_income_decline_shoe_faith_drama_letter_achieve_game_argue |  
+| bip_39_word_underscore_2 | polar_small |  
+| bip_39_word_underscore_3 | polar_small_mystery |  
+| bip_39_word_underscore_4 | polar_small_mystery_income |  
+| bip_39_word_underscore_5 | polar_small_mystery_income_decline |  
+| bip_39_word_underscore_6 | polar_small_mystery_income_decline_shoe |  
+| bip_39_word_underscore_7 | polar_small_mystery_income_decline_shoe_faith |  
+| bip_39_word_underscore_8 | polar_small_mystery_income_decline_shoe_faith_drama |  
+| bip_39_word_underscore_9 | polar_small_mystery_income_decline_shoe_faith_drama_letter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | social |  
+| bip_39_word_dash_10 | social-carry-envelope-april-spy-obey-mouse-melt-advance-goose |  
+| bip_39_word_dash_11 | social-carry-envelope-april-spy-obey-mouse-melt-advance-goose-mountain |  
+| bip_39_word_dash_12 | social-carry-envelope-april-spy-obey-mouse-melt-advance-goose-mountain-affair |  
+| bip_39_word_dash_2 | social-carry |  
+| bip_39_word_dash_3 | social-carry-envelope |  
+| bip_39_word_dash_4 | social-carry-envelope-april |  
+| bip_39_word_dash_5 | social-carry-envelope-april-spy |  
+| bip_39_word_dash_6 | social-carry-envelope-april-spy-obey |  
+| bip_39_word_dash_7 | social-carry-envelope-april-spy-obey-mouse |  
+| bip_39_word_dash_8 | social-carry-envelope-april-spy-obey-mouse-melt |  
+| bip_39_word_dash_9 | social-carry-envelope-april-spy-obey-mouse-melt-advance |  
 | bip_39_word_new_br_1 | social |  
 | bip_39_word_new_br_10 | social<br>carry<br>envelope<br>april<br>spy<br>obey<br>mouse<br>melt<br>advance<br>goose |  
 | bip_39_word_new_br_11 | social<br>carry<br>envelope<br>april<br>spy<br>obey<br>mouse<br>melt<br>advance<br>goose<br>mountain |  
@@ -147,6 +159,18 @@ advance |
 | bip_39_word_space_7 | social carry envelope april spy obey mouse |  
 | bip_39_word_space_8 | social carry envelope april spy obey mouse melt |  
 | bip_39_word_space_9 | social carry envelope april spy obey mouse melt advance |  
+| bip_39_word_underscore_1 | social |  
+| bip_39_word_underscore_10 | social_carry_envelope_april_spy_obey_mouse_melt_advance_goose |  
+| bip_39_word_underscore_11 | social_carry_envelope_april_spy_obey_mouse_melt_advance_goose_mountain |  
+| bip_39_word_underscore_12 | social_carry_envelope_april_spy_obey_mouse_melt_advance_goose_mountain_affair |  
+| bip_39_word_underscore_2 | social_carry |  
+| bip_39_word_underscore_3 | social_carry_envelope |  
+| bip_39_word_underscore_4 | social_carry_envelope_april |  
+| bip_39_word_underscore_5 | social_carry_envelope_april_spy |  
+| bip_39_word_underscore_6 | social_carry_envelope_april_spy_obey |  
+| bip_39_word_underscore_7 | social_carry_envelope_april_spy_obey_mouse |  
+| bip_39_word_underscore_8 | social_carry_envelope_april_spy_obey_mouse_melt |  
+| bip_39_word_underscore_9 | social_carry_envelope_april_spy_obey_mouse_melt_advance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

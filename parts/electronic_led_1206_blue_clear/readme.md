@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | news |  
+| bip_39_word_dash_10 | news-since-fire-lizard-snap-black-coral-torch-cake-wood |  
+| bip_39_word_dash_11 | news-since-fire-lizard-snap-black-coral-torch-cake-wood-wise |  
+| bip_39_word_dash_12 | news-since-fire-lizard-snap-black-coral-torch-cake-wood-wise-average |  
+| bip_39_word_dash_2 | news-since |  
+| bip_39_word_dash_3 | news-since-fire |  
+| bip_39_word_dash_4 | news-since-fire-lizard |  
+| bip_39_word_dash_5 | news-since-fire-lizard-snap |  
+| bip_39_word_dash_6 | news-since-fire-lizard-snap-black |  
+| bip_39_word_dash_7 | news-since-fire-lizard-snap-black-coral |  
+| bip_39_word_dash_8 | news-since-fire-lizard-snap-black-coral-torch |  
+| bip_39_word_dash_9 | news-since-fire-lizard-snap-black-coral-torch-cake |  
 | bip_39_word_new_br_1 | news |  
 | bip_39_word_new_br_10 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch<br>cake<br>wood |  
 | bip_39_word_new_br_11 | news<br>since<br>fire<br>lizard<br>snap<br>black<br>coral<br>torch<br>cake<br>wood<br>wise |  
@@ -147,6 +159,18 @@ cake |
 | bip_39_word_space_7 | news since fire lizard snap black coral |  
 | bip_39_word_space_8 | news since fire lizard snap black coral torch |  
 | bip_39_word_space_9 | news since fire lizard snap black coral torch cake |  
+| bip_39_word_underscore_1 | news |  
+| bip_39_word_underscore_10 | news_since_fire_lizard_snap_black_coral_torch_cake_wood |  
+| bip_39_word_underscore_11 | news_since_fire_lizard_snap_black_coral_torch_cake_wood_wise |  
+| bip_39_word_underscore_12 | news_since_fire_lizard_snap_black_coral_torch_cake_wood_wise_average |  
+| bip_39_word_underscore_2 | news_since |  
+| bip_39_word_underscore_3 | news_since_fire |  
+| bip_39_word_underscore_4 | news_since_fire_lizard |  
+| bip_39_word_underscore_5 | news_since_fire_lizard_snap |  
+| bip_39_word_underscore_6 | news_since_fire_lizard_snap_black |  
+| bip_39_word_underscore_7 | news_since_fire_lizard_snap_black_coral |  
+| bip_39_word_underscore_8 | news_since_fire_lizard_snap_black_coral_torch |  
+| bip_39_word_underscore_9 | news_since_fire_lizard_snap_black_coral_torch_cake |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

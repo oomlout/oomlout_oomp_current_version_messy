@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stuff |  
+| bip_39_word_dash_10 | stuff-record-earn-attitude-thunder-alarm-great-visual-receive-middle |  
+| bip_39_word_dash_11 | stuff-record-earn-attitude-thunder-alarm-great-visual-receive-middle-walnut |  
+| bip_39_word_dash_12 | stuff-record-earn-attitude-thunder-alarm-great-visual-receive-middle-walnut-ability |  
+| bip_39_word_dash_2 | stuff-record |  
+| bip_39_word_dash_3 | stuff-record-earn |  
+| bip_39_word_dash_4 | stuff-record-earn-attitude |  
+| bip_39_word_dash_5 | stuff-record-earn-attitude-thunder |  
+| bip_39_word_dash_6 | stuff-record-earn-attitude-thunder-alarm |  
+| bip_39_word_dash_7 | stuff-record-earn-attitude-thunder-alarm-great |  
+| bip_39_word_dash_8 | stuff-record-earn-attitude-thunder-alarm-great-visual |  
+| bip_39_word_dash_9 | stuff-record-earn-attitude-thunder-alarm-great-visual-receive |  
 | bip_39_word_new_br_1 | stuff |  
 | bip_39_word_new_br_10 | stuff<br>record<br>earn<br>attitude<br>thunder<br>alarm<br>great<br>visual<br>receive<br>middle |  
 | bip_39_word_new_br_11 | stuff<br>record<br>earn<br>attitude<br>thunder<br>alarm<br>great<br>visual<br>receive<br>middle<br>walnut |  
@@ -147,6 +159,18 @@ receive |
 | bip_39_word_space_7 | stuff record earn attitude thunder alarm great |  
 | bip_39_word_space_8 | stuff record earn attitude thunder alarm great visual |  
 | bip_39_word_space_9 | stuff record earn attitude thunder alarm great visual receive |  
+| bip_39_word_underscore_1 | stuff |  
+| bip_39_word_underscore_10 | stuff_record_earn_attitude_thunder_alarm_great_visual_receive_middle |  
+| bip_39_word_underscore_11 | stuff_record_earn_attitude_thunder_alarm_great_visual_receive_middle_walnut |  
+| bip_39_word_underscore_12 | stuff_record_earn_attitude_thunder_alarm_great_visual_receive_middle_walnut_ability |  
+| bip_39_word_underscore_2 | stuff_record |  
+| bip_39_word_underscore_3 | stuff_record_earn |  
+| bip_39_word_underscore_4 | stuff_record_earn_attitude |  
+| bip_39_word_underscore_5 | stuff_record_earn_attitude_thunder |  
+| bip_39_word_underscore_6 | stuff_record_earn_attitude_thunder_alarm |  
+| bip_39_word_underscore_7 | stuff_record_earn_attitude_thunder_alarm_great |  
+| bip_39_word_underscore_8 | stuff_record_earn_attitude_thunder_alarm_great_visual |  
+| bip_39_word_underscore_9 | stuff_record_earn_attitude_thunder_alarm_great_visual_receive |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

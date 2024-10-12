@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tube |  
+| bip_39_word_dash_10 | tube-squirrel-stove-spoil-local-trigger-flight-infant-crucial-trash |  
+| bip_39_word_dash_11 | tube-squirrel-stove-spoil-local-trigger-flight-infant-crucial-trash-spawn |  
+| bip_39_word_dash_12 | tube-squirrel-stove-spoil-local-trigger-flight-infant-crucial-trash-spawn-amateur |  
+| bip_39_word_dash_2 | tube-squirrel |  
+| bip_39_word_dash_3 | tube-squirrel-stove |  
+| bip_39_word_dash_4 | tube-squirrel-stove-spoil |  
+| bip_39_word_dash_5 | tube-squirrel-stove-spoil-local |  
+| bip_39_word_dash_6 | tube-squirrel-stove-spoil-local-trigger |  
+| bip_39_word_dash_7 | tube-squirrel-stove-spoil-local-trigger-flight |  
+| bip_39_word_dash_8 | tube-squirrel-stove-spoil-local-trigger-flight-infant |  
+| bip_39_word_dash_9 | tube-squirrel-stove-spoil-local-trigger-flight-infant-crucial |  
 | bip_39_word_new_br_1 | tube |  
 | bip_39_word_new_br_10 | tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant<br>crucial<br>trash |  
 | bip_39_word_new_br_11 | tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant<br>crucial<br>trash<br>spawn |  
@@ -147,6 +159,18 @@ crucial |
 | bip_39_word_space_7 | tube squirrel stove spoil local trigger flight |  
 | bip_39_word_space_8 | tube squirrel stove spoil local trigger flight infant |  
 | bip_39_word_space_9 | tube squirrel stove spoil local trigger flight infant crucial |  
+| bip_39_word_underscore_1 | tube |  
+| bip_39_word_underscore_10 | tube_squirrel_stove_spoil_local_trigger_flight_infant_crucial_trash |  
+| bip_39_word_underscore_11 | tube_squirrel_stove_spoil_local_trigger_flight_infant_crucial_trash_spawn |  
+| bip_39_word_underscore_12 | tube_squirrel_stove_spoil_local_trigger_flight_infant_crucial_trash_spawn_amateur |  
+| bip_39_word_underscore_2 | tube_squirrel |  
+| bip_39_word_underscore_3 | tube_squirrel_stove |  
+| bip_39_word_underscore_4 | tube_squirrel_stove_spoil |  
+| bip_39_word_underscore_5 | tube_squirrel_stove_spoil_local |  
+| bip_39_word_underscore_6 | tube_squirrel_stove_spoil_local_trigger |  
+| bip_39_word_underscore_7 | tube_squirrel_stove_spoil_local_trigger_flight |  
+| bip_39_word_underscore_8 | tube_squirrel_stove_spoil_local_trigger_flight_infant |  
+| bip_39_word_underscore_9 | tube_squirrel_stove_spoil_local_trigger_flight_infant_crucial |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

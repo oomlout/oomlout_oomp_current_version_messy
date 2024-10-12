@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | output |  
+| bip_39_word_dash_10 | output-whisper-devote-method-lab-photo-benefit-essay-enrich-amazing |  
+| bip_39_word_dash_11 | output-whisper-devote-method-lab-photo-benefit-essay-enrich-amazing-finish |  
+| bip_39_word_dash_12 | output-whisper-devote-method-lab-photo-benefit-essay-enrich-amazing-finish-another |  
+| bip_39_word_dash_2 | output-whisper |  
+| bip_39_word_dash_3 | output-whisper-devote |  
+| bip_39_word_dash_4 | output-whisper-devote-method |  
+| bip_39_word_dash_5 | output-whisper-devote-method-lab |  
+| bip_39_word_dash_6 | output-whisper-devote-method-lab-photo |  
+| bip_39_word_dash_7 | output-whisper-devote-method-lab-photo-benefit |  
+| bip_39_word_dash_8 | output-whisper-devote-method-lab-photo-benefit-essay |  
+| bip_39_word_dash_9 | output-whisper-devote-method-lab-photo-benefit-essay-enrich |  
 | bip_39_word_new_br_1 | output |  
 | bip_39_word_new_br_10 | output<br>whisper<br>devote<br>method<br>lab<br>photo<br>benefit<br>essay<br>enrich<br>amazing |  
 | bip_39_word_new_br_11 | output<br>whisper<br>devote<br>method<br>lab<br>photo<br>benefit<br>essay<br>enrich<br>amazing<br>finish |  
@@ -147,6 +159,18 @@ enrich |
 | bip_39_word_space_7 | output whisper devote method lab photo benefit |  
 | bip_39_word_space_8 | output whisper devote method lab photo benefit essay |  
 | bip_39_word_space_9 | output whisper devote method lab photo benefit essay enrich |  
+| bip_39_word_underscore_1 | output |  
+| bip_39_word_underscore_10 | output_whisper_devote_method_lab_photo_benefit_essay_enrich_amazing |  
+| bip_39_word_underscore_11 | output_whisper_devote_method_lab_photo_benefit_essay_enrich_amazing_finish |  
+| bip_39_word_underscore_12 | output_whisper_devote_method_lab_photo_benefit_essay_enrich_amazing_finish_another |  
+| bip_39_word_underscore_2 | output_whisper |  
+| bip_39_word_underscore_3 | output_whisper_devote |  
+| bip_39_word_underscore_4 | output_whisper_devote_method |  
+| bip_39_word_underscore_5 | output_whisper_devote_method_lab |  
+| bip_39_word_underscore_6 | output_whisper_devote_method_lab_photo |  
+| bip_39_word_underscore_7 | output_whisper_devote_method_lab_photo_benefit |  
+| bip_39_word_underscore_8 | output_whisper_devote_method_lab_photo_benefit_essay |  
+| bip_39_word_underscore_9 | output_whisper_devote_method_lab_photo_benefit_essay_enrich |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brisk
+bip_39_word_dash_10: brisk-already-silk-entire-melt-meadow-pen-fox-limb-huge
+bip_39_word_dash_11: brisk-already-silk-entire-melt-meadow-pen-fox-limb-huge-during
+bip_39_word_dash_12: brisk-already-silk-entire-melt-meadow-pen-fox-limb-huge-during-alcohol
+bip_39_word_dash_2: brisk-already
+bip_39_word_dash_3: brisk-already-silk
+bip_39_word_dash_4: brisk-already-silk-entire
+bip_39_word_dash_5: brisk-already-silk-entire-melt
+bip_39_word_dash_6: brisk-already-silk-entire-melt-meadow
+bip_39_word_dash_7: brisk-already-silk-entire-melt-meadow-pen
+bip_39_word_dash_8: brisk-already-silk-entire-melt-meadow-pen-fox
+bip_39_word_dash_9: brisk-already-silk-entire-melt-meadow-pen-fox-limb
 bip_39_word_new_br_1: brisk
 bip_39_word_new_br_10: brisk<br>already<br>silk<br>entire<br>melt<br>meadow<br>pen<br>fox<br>limb<br>huge
 bip_39_word_new_br_11: brisk<br>already<br>silk<br>entire<br>melt<br>meadow<br>pen<br>fox<br>limb<br>huge<br>during
@@ -192,6 +204,18 @@ bip_39_word_space_6: brisk already silk entire melt meadow
 bip_39_word_space_7: brisk already silk entire melt meadow pen
 bip_39_word_space_8: brisk already silk entire melt meadow pen fox
 bip_39_word_space_9: brisk already silk entire melt meadow pen fox limb
+bip_39_word_underscore_1: brisk
+bip_39_word_underscore_10: brisk_already_silk_entire_melt_meadow_pen_fox_limb_huge
+bip_39_word_underscore_11: brisk_already_silk_entire_melt_meadow_pen_fox_limb_huge_during
+bip_39_word_underscore_12: brisk_already_silk_entire_melt_meadow_pen_fox_limb_huge_during_alcohol
+bip_39_word_underscore_2: brisk_already
+bip_39_word_underscore_3: brisk_already_silk
+bip_39_word_underscore_4: brisk_already_silk_entire
+bip_39_word_underscore_5: brisk_already_silk_entire_melt
+bip_39_word_underscore_6: brisk_already_silk_entire_melt_meadow
+bip_39_word_underscore_7: brisk_already_silk_entire_melt_meadow_pen
+bip_39_word_underscore_8: brisk_already_silk_entire_melt_meadow_pen_fox
+bip_39_word_underscore_9: brisk_already_silk_entire_melt_meadow_pen_fox_limb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

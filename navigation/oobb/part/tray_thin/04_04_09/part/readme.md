@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | violin |  
+| bip_39_word_dash_10 | violin-nation-top-divide-essay-walk-math-install-foster-adapt |  
+| bip_39_word_dash_11 | violin-nation-top-divide-essay-walk-math-install-foster-adapt-upset |  
+| bip_39_word_dash_12 | violin-nation-top-divide-essay-walk-math-install-foster-adapt-upset-artefact |  
+| bip_39_word_dash_2 | violin-nation |  
+| bip_39_word_dash_3 | violin-nation-top |  
+| bip_39_word_dash_4 | violin-nation-top-divide |  
+| bip_39_word_dash_5 | violin-nation-top-divide-essay |  
+| bip_39_word_dash_6 | violin-nation-top-divide-essay-walk |  
+| bip_39_word_dash_7 | violin-nation-top-divide-essay-walk-math |  
+| bip_39_word_dash_8 | violin-nation-top-divide-essay-walk-math-install |  
+| bip_39_word_dash_9 | violin-nation-top-divide-essay-walk-math-install-foster |  
 | bip_39_word_new_br_1 | violin |  
 | bip_39_word_new_br_10 | violin<br>nation<br>top<br>divide<br>essay<br>walk<br>math<br>install<br>foster<br>adapt |  
 | bip_39_word_new_br_11 | violin<br>nation<br>top<br>divide<br>essay<br>walk<br>math<br>install<br>foster<br>adapt<br>upset |  
@@ -147,6 +159,18 @@ foster |
 | bip_39_word_space_7 | violin nation top divide essay walk math |  
 | bip_39_word_space_8 | violin nation top divide essay walk math install |  
 | bip_39_word_space_9 | violin nation top divide essay walk math install foster |  
+| bip_39_word_underscore_1 | violin |  
+| bip_39_word_underscore_10 | violin_nation_top_divide_essay_walk_math_install_foster_adapt |  
+| bip_39_word_underscore_11 | violin_nation_top_divide_essay_walk_math_install_foster_adapt_upset |  
+| bip_39_word_underscore_12 | violin_nation_top_divide_essay_walk_math_install_foster_adapt_upset_artefact |  
+| bip_39_word_underscore_2 | violin_nation |  
+| bip_39_word_underscore_3 | violin_nation_top |  
+| bip_39_word_underscore_4 | violin_nation_top_divide |  
+| bip_39_word_underscore_5 | violin_nation_top_divide_essay |  
+| bip_39_word_underscore_6 | violin_nation_top_divide_essay_walk |  
+| bip_39_word_underscore_7 | violin_nation_top_divide_essay_walk_math |  
+| bip_39_word_underscore_8 | violin_nation_top_divide_essay_walk_math_install |  
+| bip_39_word_underscore_9 | violin_nation_top_divide_essay_walk_math_install_foster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

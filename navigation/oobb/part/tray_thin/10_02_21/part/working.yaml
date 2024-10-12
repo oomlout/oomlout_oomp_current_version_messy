@@ -1,3 +1,14 @@
+bip_39_word_dash_1: wall
+bip_39_word_dash_10: wall-install-among-error-orient-kiwi-slow-common-deputy-casual
+bip_39_word_dash_11: wall-install-among-error-orient-kiwi-slow-common-deputy-casual-museum
+bip_39_word_dash_2: wall-install
+bip_39_word_dash_3: wall-install-among
+bip_39_word_dash_4: wall-install-among-error
+bip_39_word_dash_5: wall-install-among-error-orient
+bip_39_word_dash_6: wall-install-among-error-orient-kiwi
+bip_39_word_dash_7: wall-install-among-error-orient-kiwi-slow
+bip_39_word_dash_8: wall-install-among-error-orient-kiwi-slow-common
+bip_39_word_dash_9: wall-install-among-error-orient-kiwi-slow-common-deputy
 bip_39_word_new_br_1: wall
 bip_39_word_new_br_10: wall<br>install<br>among<br>error<br>orient<br>kiwi<br>slow<br>common<br>deputy<br>casual
 bip_39_word_new_br_11: wall<br>install<br>among<br>error<br>orient<br>kiwi<br>slow<br>common<br>deputy<br>casual<br>museum
@@ -165,6 +176,17 @@ bip_39_word_space_6: wall install among error orient kiwi
 bip_39_word_space_7: wall install among error orient kiwi slow
 bip_39_word_space_8: wall install among error orient kiwi slow common
 bip_39_word_space_9: wall install among error orient kiwi slow common deputy
+bip_39_word_underscore_1: wall
+bip_39_word_underscore_10: wall_install_among_error_orient_kiwi_slow_common_deputy_casual
+bip_39_word_underscore_11: wall_install_among_error_orient_kiwi_slow_common_deputy_casual_museum
+bip_39_word_underscore_2: wall_install
+bip_39_word_underscore_3: wall_install_among
+bip_39_word_underscore_4: wall_install_among_error
+bip_39_word_underscore_5: wall_install_among_error_orient
+bip_39_word_underscore_6: wall_install_among_error_orient_kiwi
+bip_39_word_underscore_7: wall_install_among_error_orient_kiwi_slow
+bip_39_word_underscore_8: wall_install_among_error_orient_kiwi_slow_common
+bip_39_word_underscore_9: wall_install_among_error_orient_kiwi_slow_common_deputy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

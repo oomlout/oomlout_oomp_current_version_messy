@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brave |  
+| bip_39_word_dash_10 | brave-derive-type-various-clip-luxury-puzzle-adjust-type-weekend |  
+| bip_39_word_dash_11 | brave-derive-type-various-clip-luxury-puzzle-adjust-type-weekend-rose |  
+| bip_39_word_dash_12 | brave-derive-type-various-clip-luxury-puzzle-adjust-type-weekend-rose-affair |  
+| bip_39_word_dash_2 | brave-derive |  
+| bip_39_word_dash_3 | brave-derive-type |  
+| bip_39_word_dash_4 | brave-derive-type-various |  
+| bip_39_word_dash_5 | brave-derive-type-various-clip |  
+| bip_39_word_dash_6 | brave-derive-type-various-clip-luxury |  
+| bip_39_word_dash_7 | brave-derive-type-various-clip-luxury-puzzle |  
+| bip_39_word_dash_8 | brave-derive-type-various-clip-luxury-puzzle-adjust |  
+| bip_39_word_dash_9 | brave-derive-type-various-clip-luxury-puzzle-adjust-type |  
 | bip_39_word_new_br_1 | brave |  
 | bip_39_word_new_br_10 | brave<br>derive<br>type<br>various<br>clip<br>luxury<br>puzzle<br>adjust<br>type<br>weekend |  
 | bip_39_word_new_br_11 | brave<br>derive<br>type<br>various<br>clip<br>luxury<br>puzzle<br>adjust<br>type<br>weekend<br>rose |  
@@ -147,6 +159,18 @@ type |
 | bip_39_word_space_7 | brave derive type various clip luxury puzzle |  
 | bip_39_word_space_8 | brave derive type various clip luxury puzzle adjust |  
 | bip_39_word_space_9 | brave derive type various clip luxury puzzle adjust type |  
+| bip_39_word_underscore_1 | brave |  
+| bip_39_word_underscore_10 | brave_derive_type_various_clip_luxury_puzzle_adjust_type_weekend |  
+| bip_39_word_underscore_11 | brave_derive_type_various_clip_luxury_puzzle_adjust_type_weekend_rose |  
+| bip_39_word_underscore_12 | brave_derive_type_various_clip_luxury_puzzle_adjust_type_weekend_rose_affair |  
+| bip_39_word_underscore_2 | brave_derive |  
+| bip_39_word_underscore_3 | brave_derive_type |  
+| bip_39_word_underscore_4 | brave_derive_type_various |  
+| bip_39_word_underscore_5 | brave_derive_type_various_clip |  
+| bip_39_word_underscore_6 | brave_derive_type_various_clip_luxury |  
+| bip_39_word_underscore_7 | brave_derive_type_various_clip_luxury_puzzle |  
+| bip_39_word_underscore_8 | brave_derive_type_various_clip_luxury_puzzle_adjust |  
+| bip_39_word_underscore_9 | brave_derive_type_various_clip_luxury_puzzle_adjust_type |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: feed
+bip_39_word_dash_10: feed-online-symptom-soon-explain-size-mother-donor-trim-someone
+bip_39_word_dash_11: feed-online-symptom-soon-explain-size-mother-donor-trim-someone-gun
+bip_39_word_dash_12: feed-online-symptom-soon-explain-size-mother-donor-trim-someone-gun-animal
+bip_39_word_dash_2: feed-online
+bip_39_word_dash_3: feed-online-symptom
+bip_39_word_dash_4: feed-online-symptom-soon
+bip_39_word_dash_5: feed-online-symptom-soon-explain
+bip_39_word_dash_6: feed-online-symptom-soon-explain-size
+bip_39_word_dash_7: feed-online-symptom-soon-explain-size-mother
+bip_39_word_dash_8: feed-online-symptom-soon-explain-size-mother-donor
+bip_39_word_dash_9: feed-online-symptom-soon-explain-size-mother-donor-trim
 bip_39_word_new_br_1: feed
 bip_39_word_new_br_10: feed<br>online<br>symptom<br>soon<br>explain<br>size<br>mother<br>donor<br>trim<br>someone
 bip_39_word_new_br_11: feed<br>online<br>symptom<br>soon<br>explain<br>size<br>mother<br>donor<br>trim<br>someone<br>gun
@@ -193,6 +205,18 @@ bip_39_word_space_6: feed online symptom soon explain size
 bip_39_word_space_7: feed online symptom soon explain size mother
 bip_39_word_space_8: feed online symptom soon explain size mother donor
 bip_39_word_space_9: feed online symptom soon explain size mother donor trim
+bip_39_word_underscore_1: feed
+bip_39_word_underscore_10: feed_online_symptom_soon_explain_size_mother_donor_trim_someone
+bip_39_word_underscore_11: feed_online_symptom_soon_explain_size_mother_donor_trim_someone_gun
+bip_39_word_underscore_12: feed_online_symptom_soon_explain_size_mother_donor_trim_someone_gun_animal
+bip_39_word_underscore_2: feed_online
+bip_39_word_underscore_3: feed_online_symptom
+bip_39_word_underscore_4: feed_online_symptom_soon
+bip_39_word_underscore_5: feed_online_symptom_soon_explain
+bip_39_word_underscore_6: feed_online_symptom_soon_explain_size
+bip_39_word_underscore_7: feed_online_symptom_soon_explain_size_mother
+bip_39_word_underscore_8: feed_online_symptom_soon_explain_size_mother_donor
+bip_39_word_underscore_9: feed_online_symptom_soon_explain_size_mother_donor_trim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

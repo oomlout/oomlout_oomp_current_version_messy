@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reward |  
+| bip_39_word_dash_10 | reward-question-digital-aim-secret-travel-caught-enforce-age-drastic |  
+| bip_39_word_dash_11 | reward-question-digital-aim-secret-travel-caught-enforce-age-drastic-hub |  
+| bip_39_word_dash_12 | reward-question-digital-aim-secret-travel-caught-enforce-age-drastic-hub-among |  
+| bip_39_word_dash_2 | reward-question |  
+| bip_39_word_dash_3 | reward-question-digital |  
+| bip_39_word_dash_4 | reward-question-digital-aim |  
+| bip_39_word_dash_5 | reward-question-digital-aim-secret |  
+| bip_39_word_dash_6 | reward-question-digital-aim-secret-travel |  
+| bip_39_word_dash_7 | reward-question-digital-aim-secret-travel-caught |  
+| bip_39_word_dash_8 | reward-question-digital-aim-secret-travel-caught-enforce |  
+| bip_39_word_dash_9 | reward-question-digital-aim-secret-travel-caught-enforce-age |  
 | bip_39_word_new_br_1 | reward |  
 | bip_39_word_new_br_10 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce<br>age<br>drastic |  
 | bip_39_word_new_br_11 | reward<br>question<br>digital<br>aim<br>secret<br>travel<br>caught<br>enforce<br>age<br>drastic<br>hub |  
@@ -147,6 +159,18 @@ age |
 | bip_39_word_space_7 | reward question digital aim secret travel caught |  
 | bip_39_word_space_8 | reward question digital aim secret travel caught enforce |  
 | bip_39_word_space_9 | reward question digital aim secret travel caught enforce age |  
+| bip_39_word_underscore_1 | reward |  
+| bip_39_word_underscore_10 | reward_question_digital_aim_secret_travel_caught_enforce_age_drastic |  
+| bip_39_word_underscore_11 | reward_question_digital_aim_secret_travel_caught_enforce_age_drastic_hub |  
+| bip_39_word_underscore_12 | reward_question_digital_aim_secret_travel_caught_enforce_age_drastic_hub_among |  
+| bip_39_word_underscore_2 | reward_question |  
+| bip_39_word_underscore_3 | reward_question_digital |  
+| bip_39_word_underscore_4 | reward_question_digital_aim |  
+| bip_39_word_underscore_5 | reward_question_digital_aim_secret |  
+| bip_39_word_underscore_6 | reward_question_digital_aim_secret_travel |  
+| bip_39_word_underscore_7 | reward_question_digital_aim_secret_travel_caught |  
+| bip_39_word_underscore_8 | reward_question_digital_aim_secret_travel_caught_enforce |  
+| bip_39_word_underscore_9 | reward_question_digital_aim_secret_travel_caught_enforce_age |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

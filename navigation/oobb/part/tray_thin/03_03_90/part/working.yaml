@@ -1,3 +1,15 @@
+bip_39_word_dash_1: left
+bip_39_word_dash_10: left-shoe-island-cradle-fever-real-suffer-churn-expect-figure
+bip_39_word_dash_11: left-shoe-island-cradle-fever-real-suffer-churn-expect-figure-glide
+bip_39_word_dash_12: left-shoe-island-cradle-fever-real-suffer-churn-expect-figure-glide-admit
+bip_39_word_dash_2: left-shoe
+bip_39_word_dash_3: left-shoe-island
+bip_39_word_dash_4: left-shoe-island-cradle
+bip_39_word_dash_5: left-shoe-island-cradle-fever
+bip_39_word_dash_6: left-shoe-island-cradle-fever-real
+bip_39_word_dash_7: left-shoe-island-cradle-fever-real-suffer
+bip_39_word_dash_8: left-shoe-island-cradle-fever-real-suffer-churn
+bip_39_word_dash_9: left-shoe-island-cradle-fever-real-suffer-churn-expect
 bip_39_word_new_br_1: left
 bip_39_word_new_br_10: left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn<br>expect<br>figure
 bip_39_word_new_br_11: left<br>shoe<br>island<br>cradle<br>fever<br>real<br>suffer<br>churn<br>expect<br>figure<br>glide
@@ -193,6 +205,18 @@ bip_39_word_space_6: left shoe island cradle fever real
 bip_39_word_space_7: left shoe island cradle fever real suffer
 bip_39_word_space_8: left shoe island cradle fever real suffer churn
 bip_39_word_space_9: left shoe island cradle fever real suffer churn expect
+bip_39_word_underscore_1: left
+bip_39_word_underscore_10: left_shoe_island_cradle_fever_real_suffer_churn_expect_figure
+bip_39_word_underscore_11: left_shoe_island_cradle_fever_real_suffer_churn_expect_figure_glide
+bip_39_word_underscore_12: left_shoe_island_cradle_fever_real_suffer_churn_expect_figure_glide_admit
+bip_39_word_underscore_2: left_shoe
+bip_39_word_underscore_3: left_shoe_island
+bip_39_word_underscore_4: left_shoe_island_cradle
+bip_39_word_underscore_5: left_shoe_island_cradle_fever
+bip_39_word_underscore_6: left_shoe_island_cradle_fever_real
+bip_39_word_underscore_7: left_shoe_island_cradle_fever_real_suffer
+bip_39_word_underscore_8: left_shoe_island_cradle_fever_real_suffer_churn
+bip_39_word_underscore_9: left_shoe_island_cradle_fever_real_suffer_churn_expect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

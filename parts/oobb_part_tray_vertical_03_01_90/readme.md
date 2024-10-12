@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | energy |  
+| bip_39_word_dash_10 | energy-unit-column-lecture-cake-enough-sense-tunnel-gun-actor |  
+| bip_39_word_dash_11 | energy-unit-column-lecture-cake-enough-sense-tunnel-gun-actor-either |  
+| bip_39_word_dash_12 | energy-unit-column-lecture-cake-enough-sense-tunnel-gun-actor-either-apart |  
+| bip_39_word_dash_2 | energy-unit |  
+| bip_39_word_dash_3 | energy-unit-column |  
+| bip_39_word_dash_4 | energy-unit-column-lecture |  
+| bip_39_word_dash_5 | energy-unit-column-lecture-cake |  
+| bip_39_word_dash_6 | energy-unit-column-lecture-cake-enough |  
+| bip_39_word_dash_7 | energy-unit-column-lecture-cake-enough-sense |  
+| bip_39_word_dash_8 | energy-unit-column-lecture-cake-enough-sense-tunnel |  
+| bip_39_word_dash_9 | energy-unit-column-lecture-cake-enough-sense-tunnel-gun |  
 | bip_39_word_new_br_1 | energy |  
 | bip_39_word_new_br_10 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor |  
 | bip_39_word_new_br_11 | energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor<br>either |  
@@ -147,6 +159,18 @@ gun |
 | bip_39_word_space_7 | energy unit column lecture cake enough sense |  
 | bip_39_word_space_8 | energy unit column lecture cake enough sense tunnel |  
 | bip_39_word_space_9 | energy unit column lecture cake enough sense tunnel gun |  
+| bip_39_word_underscore_1 | energy |  
+| bip_39_word_underscore_10 | energy_unit_column_lecture_cake_enough_sense_tunnel_gun_actor |  
+| bip_39_word_underscore_11 | energy_unit_column_lecture_cake_enough_sense_tunnel_gun_actor_either |  
+| bip_39_word_underscore_12 | energy_unit_column_lecture_cake_enough_sense_tunnel_gun_actor_either_apart |  
+| bip_39_word_underscore_2 | energy_unit |  
+| bip_39_word_underscore_3 | energy_unit_column |  
+| bip_39_word_underscore_4 | energy_unit_column_lecture |  
+| bip_39_word_underscore_5 | energy_unit_column_lecture_cake |  
+| bip_39_word_underscore_6 | energy_unit_column_lecture_cake_enough |  
+| bip_39_word_underscore_7 | energy_unit_column_lecture_cake_enough_sense |  
+| bip_39_word_underscore_8 | energy_unit_column_lecture_cake_enough_sense_tunnel |  
+| bip_39_word_underscore_9 | energy_unit_column_lecture_cake_enough_sense_tunnel_gun |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

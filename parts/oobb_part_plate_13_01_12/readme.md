@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enter |  
+| bip_39_word_dash_10 | enter-skirt-pattern-onion-claim-retire-sister-shell-south-cattle |  
+| bip_39_word_dash_11 | enter-skirt-pattern-onion-claim-retire-sister-shell-south-cattle-age |  
+| bip_39_word_dash_12 | enter-skirt-pattern-onion-claim-retire-sister-shell-south-cattle-age-arm |  
+| bip_39_word_dash_2 | enter-skirt |  
+| bip_39_word_dash_3 | enter-skirt-pattern |  
+| bip_39_word_dash_4 | enter-skirt-pattern-onion |  
+| bip_39_word_dash_5 | enter-skirt-pattern-onion-claim |  
+| bip_39_word_dash_6 | enter-skirt-pattern-onion-claim-retire |  
+| bip_39_word_dash_7 | enter-skirt-pattern-onion-claim-retire-sister |  
+| bip_39_word_dash_8 | enter-skirt-pattern-onion-claim-retire-sister-shell |  
+| bip_39_word_dash_9 | enter-skirt-pattern-onion-claim-retire-sister-shell-south |  
 | bip_39_word_new_br_1 | enter |  
 | bip_39_word_new_br_10 | enter<br>skirt<br>pattern<br>onion<br>claim<br>retire<br>sister<br>shell<br>south<br>cattle |  
 | bip_39_word_new_br_11 | enter<br>skirt<br>pattern<br>onion<br>claim<br>retire<br>sister<br>shell<br>south<br>cattle<br>age |  
@@ -147,6 +159,18 @@ south |
 | bip_39_word_space_7 | enter skirt pattern onion claim retire sister |  
 | bip_39_word_space_8 | enter skirt pattern onion claim retire sister shell |  
 | bip_39_word_space_9 | enter skirt pattern onion claim retire sister shell south |  
+| bip_39_word_underscore_1 | enter |  
+| bip_39_word_underscore_10 | enter_skirt_pattern_onion_claim_retire_sister_shell_south_cattle |  
+| bip_39_word_underscore_11 | enter_skirt_pattern_onion_claim_retire_sister_shell_south_cattle_age |  
+| bip_39_word_underscore_12 | enter_skirt_pattern_onion_claim_retire_sister_shell_south_cattle_age_arm |  
+| bip_39_word_underscore_2 | enter_skirt |  
+| bip_39_word_underscore_3 | enter_skirt_pattern |  
+| bip_39_word_underscore_4 | enter_skirt_pattern_onion |  
+| bip_39_word_underscore_5 | enter_skirt_pattern_onion_claim |  
+| bip_39_word_underscore_6 | enter_skirt_pattern_onion_claim_retire |  
+| bip_39_word_underscore_7 | enter_skirt_pattern_onion_claim_retire_sister |  
+| bip_39_word_underscore_8 | enter_skirt_pattern_onion_claim_retire_sister_shell |  
+| bip_39_word_underscore_9 | enter_skirt_pattern_onion_claim_retire_sister_shell_south |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

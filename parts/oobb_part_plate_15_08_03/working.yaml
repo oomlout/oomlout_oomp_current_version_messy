@@ -1,3 +1,15 @@
+bip_39_word_dash_1: decorate
+bip_39_word_dash_10: decorate-layer-fog-glimpse-enemy-gaze-walk-tattoo-drift-crisp
+bip_39_word_dash_11: decorate-layer-fog-glimpse-enemy-gaze-walk-tattoo-drift-crisp-squeeze
+bip_39_word_dash_12: decorate-layer-fog-glimpse-enemy-gaze-walk-tattoo-drift-crisp-squeeze-abstract
+bip_39_word_dash_2: decorate-layer
+bip_39_word_dash_3: decorate-layer-fog
+bip_39_word_dash_4: decorate-layer-fog-glimpse
+bip_39_word_dash_5: decorate-layer-fog-glimpse-enemy
+bip_39_word_dash_6: decorate-layer-fog-glimpse-enemy-gaze
+bip_39_word_dash_7: decorate-layer-fog-glimpse-enemy-gaze-walk
+bip_39_word_dash_8: decorate-layer-fog-glimpse-enemy-gaze-walk-tattoo
+bip_39_word_dash_9: decorate-layer-fog-glimpse-enemy-gaze-walk-tattoo-drift
 bip_39_word_new_br_1: decorate
 bip_39_word_new_br_10: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp
 bip_39_word_new_br_11: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp<br>squeeze
@@ -193,6 +205,18 @@ bip_39_word_space_6: decorate layer fog glimpse enemy gaze
 bip_39_word_space_7: decorate layer fog glimpse enemy gaze walk
 bip_39_word_space_8: decorate layer fog glimpse enemy gaze walk tattoo
 bip_39_word_space_9: decorate layer fog glimpse enemy gaze walk tattoo drift
+bip_39_word_underscore_1: decorate
+bip_39_word_underscore_10: decorate_layer_fog_glimpse_enemy_gaze_walk_tattoo_drift_crisp
+bip_39_word_underscore_11: decorate_layer_fog_glimpse_enemy_gaze_walk_tattoo_drift_crisp_squeeze
+bip_39_word_underscore_12: decorate_layer_fog_glimpse_enemy_gaze_walk_tattoo_drift_crisp_squeeze_abstract
+bip_39_word_underscore_2: decorate_layer
+bip_39_word_underscore_3: decorate_layer_fog
+bip_39_word_underscore_4: decorate_layer_fog_glimpse
+bip_39_word_underscore_5: decorate_layer_fog_glimpse_enemy
+bip_39_word_underscore_6: decorate_layer_fog_glimpse_enemy_gaze
+bip_39_word_underscore_7: decorate_layer_fog_glimpse_enemy_gaze_walk
+bip_39_word_underscore_8: decorate_layer_fog_glimpse_enemy_gaze_walk_tattoo
+bip_39_word_underscore_9: decorate_layer_fog_glimpse_enemy_gaze_walk_tattoo_drift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

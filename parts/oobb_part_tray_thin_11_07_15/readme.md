@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | critic |  
+| bip_39_word_dash_10 | critic-twist-balcony-wet-virtual-bus-tube-palm-miracle-salmon |  
+| bip_39_word_dash_11 | critic-twist-balcony-wet-virtual-bus-tube-palm-miracle-salmon-tip |  
+| bip_39_word_dash_2 | critic-twist |  
+| bip_39_word_dash_3 | critic-twist-balcony |  
+| bip_39_word_dash_4 | critic-twist-balcony-wet |  
+| bip_39_word_dash_5 | critic-twist-balcony-wet-virtual |  
+| bip_39_word_dash_6 | critic-twist-balcony-wet-virtual-bus |  
+| bip_39_word_dash_7 | critic-twist-balcony-wet-virtual-bus-tube |  
+| bip_39_word_dash_8 | critic-twist-balcony-wet-virtual-bus-tube-palm |  
+| bip_39_word_dash_9 | critic-twist-balcony-wet-virtual-bus-tube-palm-miracle |  
 | bip_39_word_new_br_1 | critic |  
 | bip_39_word_new_br_10 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle<br>salmon |  
 | bip_39_word_new_br_11 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle<br>salmon<br>tip |  
@@ -132,6 +143,17 @@ miracle |
 | bip_39_word_space_7 | critic twist balcony wet virtual bus tube |  
 | bip_39_word_space_8 | critic twist balcony wet virtual bus tube palm |  
 | bip_39_word_space_9 | critic twist balcony wet virtual bus tube palm miracle |  
+| bip_39_word_underscore_1 | critic |  
+| bip_39_word_underscore_10 | critic_twist_balcony_wet_virtual_bus_tube_palm_miracle_salmon |  
+| bip_39_word_underscore_11 | critic_twist_balcony_wet_virtual_bus_tube_palm_miracle_salmon_tip |  
+| bip_39_word_underscore_2 | critic_twist |  
+| bip_39_word_underscore_3 | critic_twist_balcony |  
+| bip_39_word_underscore_4 | critic_twist_balcony_wet |  
+| bip_39_word_underscore_5 | critic_twist_balcony_wet_virtual |  
+| bip_39_word_underscore_6 | critic_twist_balcony_wet_virtual_bus |  
+| bip_39_word_underscore_7 | critic_twist_balcony_wet_virtual_bus_tube |  
+| bip_39_word_underscore_8 | critic_twist_balcony_wet_virtual_bus_tube_palm |  
+| bip_39_word_underscore_9 | critic_twist_balcony_wet_virtual_bus_tube_palm_miracle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pen |  
+| bip_39_word_dash_10 | pen-flee-rally-trash-scrap-begin-myself-armed-actor-meadow |  
+| bip_39_word_dash_11 | pen-flee-rally-trash-scrap-begin-myself-armed-actor-meadow-puppy |  
+| bip_39_word_dash_12 | pen-flee-rally-trash-scrap-begin-myself-armed-actor-meadow-puppy-aerobic |  
+| bip_39_word_dash_2 | pen-flee |  
+| bip_39_word_dash_3 | pen-flee-rally |  
+| bip_39_word_dash_4 | pen-flee-rally-trash |  
+| bip_39_word_dash_5 | pen-flee-rally-trash-scrap |  
+| bip_39_word_dash_6 | pen-flee-rally-trash-scrap-begin |  
+| bip_39_word_dash_7 | pen-flee-rally-trash-scrap-begin-myself |  
+| bip_39_word_dash_8 | pen-flee-rally-trash-scrap-begin-myself-armed |  
+| bip_39_word_dash_9 | pen-flee-rally-trash-scrap-begin-myself-armed-actor |  
 | bip_39_word_new_br_1 | pen |  
 | bip_39_word_new_br_10 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow |  
 | bip_39_word_new_br_11 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow<br>puppy |  
@@ -147,6 +159,18 @@ actor |
 | bip_39_word_space_7 | pen flee rally trash scrap begin myself |  
 | bip_39_word_space_8 | pen flee rally trash scrap begin myself armed |  
 | bip_39_word_space_9 | pen flee rally trash scrap begin myself armed actor |  
+| bip_39_word_underscore_1 | pen |  
+| bip_39_word_underscore_10 | pen_flee_rally_trash_scrap_begin_myself_armed_actor_meadow |  
+| bip_39_word_underscore_11 | pen_flee_rally_trash_scrap_begin_myself_armed_actor_meadow_puppy |  
+| bip_39_word_underscore_12 | pen_flee_rally_trash_scrap_begin_myself_armed_actor_meadow_puppy_aerobic |  
+| bip_39_word_underscore_2 | pen_flee |  
+| bip_39_word_underscore_3 | pen_flee_rally |  
+| bip_39_word_underscore_4 | pen_flee_rally_trash |  
+| bip_39_word_underscore_5 | pen_flee_rally_trash_scrap |  
+| bip_39_word_underscore_6 | pen_flee_rally_trash_scrap_begin |  
+| bip_39_word_underscore_7 | pen_flee_rally_trash_scrap_begin_myself |  
+| bip_39_word_underscore_8 | pen_flee_rally_trash_scrap_begin_myself_armed |  
+| bip_39_word_underscore_9 | pen_flee_rally_trash_scrap_begin_myself_armed_actor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

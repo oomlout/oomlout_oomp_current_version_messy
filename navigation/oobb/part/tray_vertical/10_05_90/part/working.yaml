@@ -1,3 +1,15 @@
+bip_39_word_dash_1: museum
+bip_39_word_dash_10: museum-base-popular-cement-gaze-sense-feature-foam-defy-entry
+bip_39_word_dash_11: museum-base-popular-cement-gaze-sense-feature-foam-defy-entry-drop
+bip_39_word_dash_12: museum-base-popular-cement-gaze-sense-feature-foam-defy-entry-drop-anchor
+bip_39_word_dash_2: museum-base
+bip_39_word_dash_3: museum-base-popular
+bip_39_word_dash_4: museum-base-popular-cement
+bip_39_word_dash_5: museum-base-popular-cement-gaze
+bip_39_word_dash_6: museum-base-popular-cement-gaze-sense
+bip_39_word_dash_7: museum-base-popular-cement-gaze-sense-feature
+bip_39_word_dash_8: museum-base-popular-cement-gaze-sense-feature-foam
+bip_39_word_dash_9: museum-base-popular-cement-gaze-sense-feature-foam-defy
 bip_39_word_new_br_1: museum
 bip_39_word_new_br_10: museum<br>base<br>popular<br>cement<br>gaze<br>sense<br>feature<br>foam<br>defy<br>entry
 bip_39_word_new_br_11: museum<br>base<br>popular<br>cement<br>gaze<br>sense<br>feature<br>foam<br>defy<br>entry<br>drop
@@ -193,6 +205,18 @@ bip_39_word_space_6: museum base popular cement gaze sense
 bip_39_word_space_7: museum base popular cement gaze sense feature
 bip_39_word_space_8: museum base popular cement gaze sense feature foam
 bip_39_word_space_9: museum base popular cement gaze sense feature foam defy
+bip_39_word_underscore_1: museum
+bip_39_word_underscore_10: museum_base_popular_cement_gaze_sense_feature_foam_defy_entry
+bip_39_word_underscore_11: museum_base_popular_cement_gaze_sense_feature_foam_defy_entry_drop
+bip_39_word_underscore_12: museum_base_popular_cement_gaze_sense_feature_foam_defy_entry_drop_anchor
+bip_39_word_underscore_2: museum_base
+bip_39_word_underscore_3: museum_base_popular
+bip_39_word_underscore_4: museum_base_popular_cement
+bip_39_word_underscore_5: museum_base_popular_cement_gaze
+bip_39_word_underscore_6: museum_base_popular_cement_gaze_sense
+bip_39_word_underscore_7: museum_base_popular_cement_gaze_sense_feature
+bip_39_word_underscore_8: museum_base_popular_cement_gaze_sense_feature_foam
+bip_39_word_underscore_9: museum_base_popular_cement_gaze_sense_feature_foam_defy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

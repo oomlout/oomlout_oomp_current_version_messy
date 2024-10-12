@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shop |  
+| bip_39_word_dash_10 | shop-mean-curious-exotic-inspire-lend-beyond-violin-crystal-jaguar |  
+| bip_39_word_dash_11 | shop-mean-curious-exotic-inspire-lend-beyond-violin-crystal-jaguar-labor |  
+| bip_39_word_dash_12 | shop-mean-curious-exotic-inspire-lend-beyond-violin-crystal-jaguar-labor-aunt |  
+| bip_39_word_dash_2 | shop-mean |  
+| bip_39_word_dash_3 | shop-mean-curious |  
+| bip_39_word_dash_4 | shop-mean-curious-exotic |  
+| bip_39_word_dash_5 | shop-mean-curious-exotic-inspire |  
+| bip_39_word_dash_6 | shop-mean-curious-exotic-inspire-lend |  
+| bip_39_word_dash_7 | shop-mean-curious-exotic-inspire-lend-beyond |  
+| bip_39_word_dash_8 | shop-mean-curious-exotic-inspire-lend-beyond-violin |  
+| bip_39_word_dash_9 | shop-mean-curious-exotic-inspire-lend-beyond-violin-crystal |  
 | bip_39_word_new_br_1 | shop |  
 | bip_39_word_new_br_10 | shop<br>mean<br>curious<br>exotic<br>inspire<br>lend<br>beyond<br>violin<br>crystal<br>jaguar |  
 | bip_39_word_new_br_11 | shop<br>mean<br>curious<br>exotic<br>inspire<br>lend<br>beyond<br>violin<br>crystal<br>jaguar<br>labor |  
@@ -147,6 +159,18 @@ crystal |
 | bip_39_word_space_7 | shop mean curious exotic inspire lend beyond |  
 | bip_39_word_space_8 | shop mean curious exotic inspire lend beyond violin |  
 | bip_39_word_space_9 | shop mean curious exotic inspire lend beyond violin crystal |  
+| bip_39_word_underscore_1 | shop |  
+| bip_39_word_underscore_10 | shop_mean_curious_exotic_inspire_lend_beyond_violin_crystal_jaguar |  
+| bip_39_word_underscore_11 | shop_mean_curious_exotic_inspire_lend_beyond_violin_crystal_jaguar_labor |  
+| bip_39_word_underscore_12 | shop_mean_curious_exotic_inspire_lend_beyond_violin_crystal_jaguar_labor_aunt |  
+| bip_39_word_underscore_2 | shop_mean |  
+| bip_39_word_underscore_3 | shop_mean_curious |  
+| bip_39_word_underscore_4 | shop_mean_curious_exotic |  
+| bip_39_word_underscore_5 | shop_mean_curious_exotic_inspire |  
+| bip_39_word_underscore_6 | shop_mean_curious_exotic_inspire_lend |  
+| bip_39_word_underscore_7 | shop_mean_curious_exotic_inspire_lend_beyond |  
+| bip_39_word_underscore_8 | shop_mean_curious_exotic_inspire_lend_beyond_violin |  
+| bip_39_word_underscore_9 | shop_mean_curious_exotic_inspire_lend_beyond_violin_crystal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

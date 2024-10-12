@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | remember |  
+| bip_39_word_dash_10 | remember-powder-rude-myself-sweet-badge-boat-sick-rug-such |  
+| bip_39_word_dash_11 | remember-powder-rude-myself-sweet-badge-boat-sick-rug-such-senior |  
+| bip_39_word_dash_12 | remember-powder-rude-myself-sweet-badge-boat-sick-rug-such-senior-age |  
+| bip_39_word_dash_2 | remember-powder |  
+| bip_39_word_dash_3 | remember-powder-rude |  
+| bip_39_word_dash_4 | remember-powder-rude-myself |  
+| bip_39_word_dash_5 | remember-powder-rude-myself-sweet |  
+| bip_39_word_dash_6 | remember-powder-rude-myself-sweet-badge |  
+| bip_39_word_dash_7 | remember-powder-rude-myself-sweet-badge-boat |  
+| bip_39_word_dash_8 | remember-powder-rude-myself-sweet-badge-boat-sick |  
+| bip_39_word_dash_9 | remember-powder-rude-myself-sweet-badge-boat-sick-rug |  
 | bip_39_word_new_br_1 | remember |  
 | bip_39_word_new_br_10 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick<br>rug<br>such |  
 | bip_39_word_new_br_11 | remember<br>powder<br>rude<br>myself<br>sweet<br>badge<br>boat<br>sick<br>rug<br>such<br>senior |  
@@ -147,6 +159,18 @@ rug |
 | bip_39_word_space_7 | remember powder rude myself sweet badge boat |  
 | bip_39_word_space_8 | remember powder rude myself sweet badge boat sick |  
 | bip_39_word_space_9 | remember powder rude myself sweet badge boat sick rug |  
+| bip_39_word_underscore_1 | remember |  
+| bip_39_word_underscore_10 | remember_powder_rude_myself_sweet_badge_boat_sick_rug_such |  
+| bip_39_word_underscore_11 | remember_powder_rude_myself_sweet_badge_boat_sick_rug_such_senior |  
+| bip_39_word_underscore_12 | remember_powder_rude_myself_sweet_badge_boat_sick_rug_such_senior_age |  
+| bip_39_word_underscore_2 | remember_powder |  
+| bip_39_word_underscore_3 | remember_powder_rude |  
+| bip_39_word_underscore_4 | remember_powder_rude_myself |  
+| bip_39_word_underscore_5 | remember_powder_rude_myself_sweet |  
+| bip_39_word_underscore_6 | remember_powder_rude_myself_sweet_badge |  
+| bip_39_word_underscore_7 | remember_powder_rude_myself_sweet_badge_boat |  
+| bip_39_word_underscore_8 | remember_powder_rude_myself_sweet_badge_boat_sick |  
+| bip_39_word_underscore_9 | remember_powder_rude_myself_sweet_badge_boat_sick_rug |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

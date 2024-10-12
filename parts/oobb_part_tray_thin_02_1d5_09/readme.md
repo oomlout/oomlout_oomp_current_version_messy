@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mirror |  
+| bip_39_word_dash_10 | mirror-gym-fork-wrist-humble-adapt-attack-company-roast-solar |  
+| bip_39_word_dash_11 | mirror-gym-fork-wrist-humble-adapt-attack-company-roast-solar-trial |  
+| bip_39_word_dash_12 | mirror-gym-fork-wrist-humble-adapt-attack-company-roast-solar-trial-amount |  
+| bip_39_word_dash_2 | mirror-gym |  
+| bip_39_word_dash_3 | mirror-gym-fork |  
+| bip_39_word_dash_4 | mirror-gym-fork-wrist |  
+| bip_39_word_dash_5 | mirror-gym-fork-wrist-humble |  
+| bip_39_word_dash_6 | mirror-gym-fork-wrist-humble-adapt |  
+| bip_39_word_dash_7 | mirror-gym-fork-wrist-humble-adapt-attack |  
+| bip_39_word_dash_8 | mirror-gym-fork-wrist-humble-adapt-attack-company |  
+| bip_39_word_dash_9 | mirror-gym-fork-wrist-humble-adapt-attack-company-roast |  
 | bip_39_word_new_br_1 | mirror |  
 | bip_39_word_new_br_10 | mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar |  
 | bip_39_word_new_br_11 | mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar<br>trial |  
@@ -147,6 +159,18 @@ roast |
 | bip_39_word_space_7 | mirror gym fork wrist humble adapt attack |  
 | bip_39_word_space_8 | mirror gym fork wrist humble adapt attack company |  
 | bip_39_word_space_9 | mirror gym fork wrist humble adapt attack company roast |  
+| bip_39_word_underscore_1 | mirror |  
+| bip_39_word_underscore_10 | mirror_gym_fork_wrist_humble_adapt_attack_company_roast_solar |  
+| bip_39_word_underscore_11 | mirror_gym_fork_wrist_humble_adapt_attack_company_roast_solar_trial |  
+| bip_39_word_underscore_12 | mirror_gym_fork_wrist_humble_adapt_attack_company_roast_solar_trial_amount |  
+| bip_39_word_underscore_2 | mirror_gym |  
+| bip_39_word_underscore_3 | mirror_gym_fork |  
+| bip_39_word_underscore_4 | mirror_gym_fork_wrist |  
+| bip_39_word_underscore_5 | mirror_gym_fork_wrist_humble |  
+| bip_39_word_underscore_6 | mirror_gym_fork_wrist_humble_adapt |  
+| bip_39_word_underscore_7 | mirror_gym_fork_wrist_humble_adapt_attack |  
+| bip_39_word_underscore_8 | mirror_gym_fork_wrist_humble_adapt_attack_company |  
+| bip_39_word_underscore_9 | mirror_gym_fork_wrist_humble_adapt_attack_company_roast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

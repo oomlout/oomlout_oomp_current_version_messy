@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crime |  
+| bip_39_word_dash_10 | crime-slow-industry-village-shed-return-always-casino-worry-minimum |  
+| bip_39_word_dash_11 | crime-slow-industry-village-shed-return-always-casino-worry-minimum-federal |  
+| bip_39_word_dash_12 | crime-slow-industry-village-shed-return-always-casino-worry-minimum-federal-armed |  
+| bip_39_word_dash_2 | crime-slow |  
+| bip_39_word_dash_3 | crime-slow-industry |  
+| bip_39_word_dash_4 | crime-slow-industry-village |  
+| bip_39_word_dash_5 | crime-slow-industry-village-shed |  
+| bip_39_word_dash_6 | crime-slow-industry-village-shed-return |  
+| bip_39_word_dash_7 | crime-slow-industry-village-shed-return-always |  
+| bip_39_word_dash_8 | crime-slow-industry-village-shed-return-always-casino |  
+| bip_39_word_dash_9 | crime-slow-industry-village-shed-return-always-casino-worry |  
 | bip_39_word_new_br_1 | crime |  
 | bip_39_word_new_br_10 | crime<br>slow<br>industry<br>village<br>shed<br>return<br>always<br>casino<br>worry<br>minimum |  
 | bip_39_word_new_br_11 | crime<br>slow<br>industry<br>village<br>shed<br>return<br>always<br>casino<br>worry<br>minimum<br>federal |  
@@ -147,6 +159,18 @@ worry |
 | bip_39_word_space_7 | crime slow industry village shed return always |  
 | bip_39_word_space_8 | crime slow industry village shed return always casino |  
 | bip_39_word_space_9 | crime slow industry village shed return always casino worry |  
+| bip_39_word_underscore_1 | crime |  
+| bip_39_word_underscore_10 | crime_slow_industry_village_shed_return_always_casino_worry_minimum |  
+| bip_39_word_underscore_11 | crime_slow_industry_village_shed_return_always_casino_worry_minimum_federal |  
+| bip_39_word_underscore_12 | crime_slow_industry_village_shed_return_always_casino_worry_minimum_federal_armed |  
+| bip_39_word_underscore_2 | crime_slow |  
+| bip_39_word_underscore_3 | crime_slow_industry |  
+| bip_39_word_underscore_4 | crime_slow_industry_village |  
+| bip_39_word_underscore_5 | crime_slow_industry_village_shed |  
+| bip_39_word_underscore_6 | crime_slow_industry_village_shed_return |  
+| bip_39_word_underscore_7 | crime_slow_industry_village_shed_return_always |  
+| bip_39_word_underscore_8 | crime_slow_industry_village_shed_return_always_casino |  
+| bip_39_word_underscore_9 | crime_slow_industry_village_shed_return_always_casino_worry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

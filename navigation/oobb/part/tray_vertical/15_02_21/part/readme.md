@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | relax |  
+| bip_39_word_dash_10 | relax-hunt-wrong-chief-perfect-vapor-express-pupil-neither-engage |  
+| bip_39_word_dash_11 | relax-hunt-wrong-chief-perfect-vapor-express-pupil-neither-engage-bottom |  
+| bip_39_word_dash_12 | relax-hunt-wrong-chief-perfect-vapor-express-pupil-neither-engage-bottom-amazing |  
+| bip_39_word_dash_2 | relax-hunt |  
+| bip_39_word_dash_3 | relax-hunt-wrong |  
+| bip_39_word_dash_4 | relax-hunt-wrong-chief |  
+| bip_39_word_dash_5 | relax-hunt-wrong-chief-perfect |  
+| bip_39_word_dash_6 | relax-hunt-wrong-chief-perfect-vapor |  
+| bip_39_word_dash_7 | relax-hunt-wrong-chief-perfect-vapor-express |  
+| bip_39_word_dash_8 | relax-hunt-wrong-chief-perfect-vapor-express-pupil |  
+| bip_39_word_dash_9 | relax-hunt-wrong-chief-perfect-vapor-express-pupil-neither |  
 | bip_39_word_new_br_1 | relax |  
 | bip_39_word_new_br_10 | relax<br>hunt<br>wrong<br>chief<br>perfect<br>vapor<br>express<br>pupil<br>neither<br>engage |  
 | bip_39_word_new_br_11 | relax<br>hunt<br>wrong<br>chief<br>perfect<br>vapor<br>express<br>pupil<br>neither<br>engage<br>bottom |  
@@ -147,6 +159,18 @@ neither |
 | bip_39_word_space_7 | relax hunt wrong chief perfect vapor express |  
 | bip_39_word_space_8 | relax hunt wrong chief perfect vapor express pupil |  
 | bip_39_word_space_9 | relax hunt wrong chief perfect vapor express pupil neither |  
+| bip_39_word_underscore_1 | relax |  
+| bip_39_word_underscore_10 | relax_hunt_wrong_chief_perfect_vapor_express_pupil_neither_engage |  
+| bip_39_word_underscore_11 | relax_hunt_wrong_chief_perfect_vapor_express_pupil_neither_engage_bottom |  
+| bip_39_word_underscore_12 | relax_hunt_wrong_chief_perfect_vapor_express_pupil_neither_engage_bottom_amazing |  
+| bip_39_word_underscore_2 | relax_hunt |  
+| bip_39_word_underscore_3 | relax_hunt_wrong |  
+| bip_39_word_underscore_4 | relax_hunt_wrong_chief |  
+| bip_39_word_underscore_5 | relax_hunt_wrong_chief_perfect |  
+| bip_39_word_underscore_6 | relax_hunt_wrong_chief_perfect_vapor |  
+| bip_39_word_underscore_7 | relax_hunt_wrong_chief_perfect_vapor_express |  
+| bip_39_word_underscore_8 | relax_hunt_wrong_chief_perfect_vapor_express_pupil |  
+| bip_39_word_underscore_9 | relax_hunt_wrong_chief_perfect_vapor_express_pupil_neither |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shiver |  
+| bip_39_word_dash_10 | shiver-swallow-number-enter-day-accuse-horse-reason-bullet-organ |  
+| bip_39_word_dash_11 | shiver-swallow-number-enter-day-accuse-horse-reason-bullet-organ-sibling |  
+| bip_39_word_dash_12 | shiver-swallow-number-enter-day-accuse-horse-reason-bullet-organ-sibling-attitude |  
+| bip_39_word_dash_2 | shiver-swallow |  
+| bip_39_word_dash_3 | shiver-swallow-number |  
+| bip_39_word_dash_4 | shiver-swallow-number-enter |  
+| bip_39_word_dash_5 | shiver-swallow-number-enter-day |  
+| bip_39_word_dash_6 | shiver-swallow-number-enter-day-accuse |  
+| bip_39_word_dash_7 | shiver-swallow-number-enter-day-accuse-horse |  
+| bip_39_word_dash_8 | shiver-swallow-number-enter-day-accuse-horse-reason |  
+| bip_39_word_dash_9 | shiver-swallow-number-enter-day-accuse-horse-reason-bullet |  
 | bip_39_word_new_br_1 | shiver |  
 | bip_39_word_new_br_10 | shiver<br>swallow<br>number<br>enter<br>day<br>accuse<br>horse<br>reason<br>bullet<br>organ |  
 | bip_39_word_new_br_11 | shiver<br>swallow<br>number<br>enter<br>day<br>accuse<br>horse<br>reason<br>bullet<br>organ<br>sibling |  
@@ -147,6 +159,18 @@ bullet |
 | bip_39_word_space_7 | shiver swallow number enter day accuse horse |  
 | bip_39_word_space_8 | shiver swallow number enter day accuse horse reason |  
 | bip_39_word_space_9 | shiver swallow number enter day accuse horse reason bullet |  
+| bip_39_word_underscore_1 | shiver |  
+| bip_39_word_underscore_10 | shiver_swallow_number_enter_day_accuse_horse_reason_bullet_organ |  
+| bip_39_word_underscore_11 | shiver_swallow_number_enter_day_accuse_horse_reason_bullet_organ_sibling |  
+| bip_39_word_underscore_12 | shiver_swallow_number_enter_day_accuse_horse_reason_bullet_organ_sibling_attitude |  
+| bip_39_word_underscore_2 | shiver_swallow |  
+| bip_39_word_underscore_3 | shiver_swallow_number |  
+| bip_39_word_underscore_4 | shiver_swallow_number_enter |  
+| bip_39_word_underscore_5 | shiver_swallow_number_enter_day |  
+| bip_39_word_underscore_6 | shiver_swallow_number_enter_day_accuse |  
+| bip_39_word_underscore_7 | shiver_swallow_number_enter_day_accuse_horse |  
+| bip_39_word_underscore_8 | shiver_swallow_number_enter_day_accuse_horse_reason |  
+| bip_39_word_underscore_9 | shiver_swallow_number_enter_day_accuse_horse_reason_bullet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

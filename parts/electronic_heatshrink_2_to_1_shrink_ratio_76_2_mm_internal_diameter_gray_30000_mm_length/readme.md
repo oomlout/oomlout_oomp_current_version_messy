@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pull |  
+| bip_39_word_dash_10 | pull-sound-that-rocket-orbit-exclude-initial-try-coconut-crime |  
+| bip_39_word_dash_11 | pull-sound-that-rocket-orbit-exclude-initial-try-coconut-crime-era |  
+| bip_39_word_dash_12 | pull-sound-that-rocket-orbit-exclude-initial-try-coconut-crime-era-ankle |  
+| bip_39_word_dash_2 | pull-sound |  
+| bip_39_word_dash_3 | pull-sound-that |  
+| bip_39_word_dash_4 | pull-sound-that-rocket |  
+| bip_39_word_dash_5 | pull-sound-that-rocket-orbit |  
+| bip_39_word_dash_6 | pull-sound-that-rocket-orbit-exclude |  
+| bip_39_word_dash_7 | pull-sound-that-rocket-orbit-exclude-initial |  
+| bip_39_word_dash_8 | pull-sound-that-rocket-orbit-exclude-initial-try |  
+| bip_39_word_dash_9 | pull-sound-that-rocket-orbit-exclude-initial-try-coconut |  
 | bip_39_word_new_br_1 | pull |  
 | bip_39_word_new_br_10 | pull<br>sound<br>that<br>rocket<br>orbit<br>exclude<br>initial<br>try<br>coconut<br>crime |  
 | bip_39_word_new_br_11 | pull<br>sound<br>that<br>rocket<br>orbit<br>exclude<br>initial<br>try<br>coconut<br>crime<br>era |  
@@ -147,6 +159,18 @@ coconut |
 | bip_39_word_space_7 | pull sound that rocket orbit exclude initial |  
 | bip_39_word_space_8 | pull sound that rocket orbit exclude initial try |  
 | bip_39_word_space_9 | pull sound that rocket orbit exclude initial try coconut |  
+| bip_39_word_underscore_1 | pull |  
+| bip_39_word_underscore_10 | pull_sound_that_rocket_orbit_exclude_initial_try_coconut_crime |  
+| bip_39_word_underscore_11 | pull_sound_that_rocket_orbit_exclude_initial_try_coconut_crime_era |  
+| bip_39_word_underscore_12 | pull_sound_that_rocket_orbit_exclude_initial_try_coconut_crime_era_ankle |  
+| bip_39_word_underscore_2 | pull_sound |  
+| bip_39_word_underscore_3 | pull_sound_that |  
+| bip_39_word_underscore_4 | pull_sound_that_rocket |  
+| bip_39_word_underscore_5 | pull_sound_that_rocket_orbit |  
+| bip_39_word_underscore_6 | pull_sound_that_rocket_orbit_exclude |  
+| bip_39_word_underscore_7 | pull_sound_that_rocket_orbit_exclude_initial |  
+| bip_39_word_underscore_8 | pull_sound_that_rocket_orbit_exclude_initial_try |  
+| bip_39_word_underscore_9 | pull_sound_that_rocket_orbit_exclude_initial_try_coconut |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

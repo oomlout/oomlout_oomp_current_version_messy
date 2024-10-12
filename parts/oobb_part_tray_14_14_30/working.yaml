@@ -1,3 +1,15 @@
+bip_39_word_dash_1: raise
+bip_39_word_dash_10: raise-swift-milk-fetch-spatial-minor-demise-grab-dune-history
+bip_39_word_dash_11: raise-swift-milk-fetch-spatial-minor-demise-grab-dune-history-ball
+bip_39_word_dash_12: raise-swift-milk-fetch-spatial-minor-demise-grab-dune-history-ball-army
+bip_39_word_dash_2: raise-swift
+bip_39_word_dash_3: raise-swift-milk
+bip_39_word_dash_4: raise-swift-milk-fetch
+bip_39_word_dash_5: raise-swift-milk-fetch-spatial
+bip_39_word_dash_6: raise-swift-milk-fetch-spatial-minor
+bip_39_word_dash_7: raise-swift-milk-fetch-spatial-minor-demise
+bip_39_word_dash_8: raise-swift-milk-fetch-spatial-minor-demise-grab
+bip_39_word_dash_9: raise-swift-milk-fetch-spatial-minor-demise-grab-dune
 bip_39_word_new_br_1: raise
 bip_39_word_new_br_10: raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history
 bip_39_word_new_br_11: raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history<br>ball
@@ -193,6 +205,18 @@ bip_39_word_space_6: raise swift milk fetch spatial minor
 bip_39_word_space_7: raise swift milk fetch spatial minor demise
 bip_39_word_space_8: raise swift milk fetch spatial minor demise grab
 bip_39_word_space_9: raise swift milk fetch spatial minor demise grab dune
+bip_39_word_underscore_1: raise
+bip_39_word_underscore_10: raise_swift_milk_fetch_spatial_minor_demise_grab_dune_history
+bip_39_word_underscore_11: raise_swift_milk_fetch_spatial_minor_demise_grab_dune_history_ball
+bip_39_word_underscore_12: raise_swift_milk_fetch_spatial_minor_demise_grab_dune_history_ball_army
+bip_39_word_underscore_2: raise_swift
+bip_39_word_underscore_3: raise_swift_milk
+bip_39_word_underscore_4: raise_swift_milk_fetch
+bip_39_word_underscore_5: raise_swift_milk_fetch_spatial
+bip_39_word_underscore_6: raise_swift_milk_fetch_spatial_minor
+bip_39_word_underscore_7: raise_swift_milk_fetch_spatial_minor_demise
+bip_39_word_underscore_8: raise_swift_milk_fetch_spatial_minor_demise_grab
+bip_39_word_underscore_9: raise_swift_milk_fetch_spatial_minor_demise_grab_dune
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

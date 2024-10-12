@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | valid |  
+| bip_39_word_dash_10 | valid-stomach-injury-middle-pause-fragile-time-mom-talk-enable |  
+| bip_39_word_dash_11 | valid-stomach-injury-middle-pause-fragile-time-mom-talk-enable-scan |  
+| bip_39_word_dash_12 | valid-stomach-injury-middle-pause-fragile-time-mom-talk-enable-scan-alpha |  
+| bip_39_word_dash_2 | valid-stomach |  
+| bip_39_word_dash_3 | valid-stomach-injury |  
+| bip_39_word_dash_4 | valid-stomach-injury-middle |  
+| bip_39_word_dash_5 | valid-stomach-injury-middle-pause |  
+| bip_39_word_dash_6 | valid-stomach-injury-middle-pause-fragile |  
+| bip_39_word_dash_7 | valid-stomach-injury-middle-pause-fragile-time |  
+| bip_39_word_dash_8 | valid-stomach-injury-middle-pause-fragile-time-mom |  
+| bip_39_word_dash_9 | valid-stomach-injury-middle-pause-fragile-time-mom-talk |  
 | bip_39_word_new_br_1 | valid |  
 | bip_39_word_new_br_10 | valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom<br>talk<br>enable |  
 | bip_39_word_new_br_11 | valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom<br>talk<br>enable<br>scan |  
@@ -147,6 +159,18 @@ talk |
 | bip_39_word_space_7 | valid stomach injury middle pause fragile time |  
 | bip_39_word_space_8 | valid stomach injury middle pause fragile time mom |  
 | bip_39_word_space_9 | valid stomach injury middle pause fragile time mom talk |  
+| bip_39_word_underscore_1 | valid |  
+| bip_39_word_underscore_10 | valid_stomach_injury_middle_pause_fragile_time_mom_talk_enable |  
+| bip_39_word_underscore_11 | valid_stomach_injury_middle_pause_fragile_time_mom_talk_enable_scan |  
+| bip_39_word_underscore_12 | valid_stomach_injury_middle_pause_fragile_time_mom_talk_enable_scan_alpha |  
+| bip_39_word_underscore_2 | valid_stomach |  
+| bip_39_word_underscore_3 | valid_stomach_injury |  
+| bip_39_word_underscore_4 | valid_stomach_injury_middle |  
+| bip_39_word_underscore_5 | valid_stomach_injury_middle_pause |  
+| bip_39_word_underscore_6 | valid_stomach_injury_middle_pause_fragile |  
+| bip_39_word_underscore_7 | valid_stomach_injury_middle_pause_fragile_time |  
+| bip_39_word_underscore_8 | valid_stomach_injury_middle_pause_fragile_time_mom |  
+| bip_39_word_underscore_9 | valid_stomach_injury_middle_pause_fragile_time_mom_talk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

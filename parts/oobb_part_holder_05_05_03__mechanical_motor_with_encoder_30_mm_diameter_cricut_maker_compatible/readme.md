@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | iron |  
+| bip_39_word_dash_10 | iron-crawl-move-whale-unfold-you-wear-butter-above-broccoli |  
+| bip_39_word_dash_11 | iron-crawl-move-whale-unfold-you-wear-butter-above-broccoli-fix |  
+| bip_39_word_dash_12 | iron-crawl-move-whale-unfold-you-wear-butter-above-broccoli-fix-antique |  
+| bip_39_word_dash_2 | iron-crawl |  
+| bip_39_word_dash_3 | iron-crawl-move |  
+| bip_39_word_dash_4 | iron-crawl-move-whale |  
+| bip_39_word_dash_5 | iron-crawl-move-whale-unfold |  
+| bip_39_word_dash_6 | iron-crawl-move-whale-unfold-you |  
+| bip_39_word_dash_7 | iron-crawl-move-whale-unfold-you-wear |  
+| bip_39_word_dash_8 | iron-crawl-move-whale-unfold-you-wear-butter |  
+| bip_39_word_dash_9 | iron-crawl-move-whale-unfold-you-wear-butter-above |  
 | bip_39_word_new_br_1 | iron |  
 | bip_39_word_new_br_10 | iron<br>crawl<br>move<br>whale<br>unfold<br>you<br>wear<br>butter<br>above<br>broccoli |  
 | bip_39_word_new_br_11 | iron<br>crawl<br>move<br>whale<br>unfold<br>you<br>wear<br>butter<br>above<br>broccoli<br>fix |  
@@ -147,6 +159,18 @@ above |
 | bip_39_word_space_7 | iron crawl move whale unfold you wear |  
 | bip_39_word_space_8 | iron crawl move whale unfold you wear butter |  
 | bip_39_word_space_9 | iron crawl move whale unfold you wear butter above |  
+| bip_39_word_underscore_1 | iron |  
+| bip_39_word_underscore_10 | iron_crawl_move_whale_unfold_you_wear_butter_above_broccoli |  
+| bip_39_word_underscore_11 | iron_crawl_move_whale_unfold_you_wear_butter_above_broccoli_fix |  
+| bip_39_word_underscore_12 | iron_crawl_move_whale_unfold_you_wear_butter_above_broccoli_fix_antique |  
+| bip_39_word_underscore_2 | iron_crawl |  
+| bip_39_word_underscore_3 | iron_crawl_move |  
+| bip_39_word_underscore_4 | iron_crawl_move_whale |  
+| bip_39_word_underscore_5 | iron_crawl_move_whale_unfold |  
+| bip_39_word_underscore_6 | iron_crawl_move_whale_unfold_you |  
+| bip_39_word_underscore_7 | iron_crawl_move_whale_unfold_you_wear |  
+| bip_39_word_underscore_8 | iron_crawl_move_whale_unfold_you_wear_butter |  
+| bip_39_word_underscore_9 | iron_crawl_move_whale_unfold_you_wear_butter_above |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: swarm
+bip_39_word_dash_10: swarm-dress-gold-bomb-plug-stuff-argue-cart-stage-fruit
+bip_39_word_dash_11: swarm-dress-gold-bomb-plug-stuff-argue-cart-stage-fruit-clay
+bip_39_word_dash_12: swarm-dress-gold-bomb-plug-stuff-argue-cart-stage-fruit-clay-arrest
+bip_39_word_dash_2: swarm-dress
+bip_39_word_dash_3: swarm-dress-gold
+bip_39_word_dash_4: swarm-dress-gold-bomb
+bip_39_word_dash_5: swarm-dress-gold-bomb-plug
+bip_39_word_dash_6: swarm-dress-gold-bomb-plug-stuff
+bip_39_word_dash_7: swarm-dress-gold-bomb-plug-stuff-argue
+bip_39_word_dash_8: swarm-dress-gold-bomb-plug-stuff-argue-cart
+bip_39_word_dash_9: swarm-dress-gold-bomb-plug-stuff-argue-cart-stage
 bip_39_word_new_br_1: swarm
 bip_39_word_new_br_10: swarm<br>dress<br>gold<br>bomb<br>plug<br>stuff<br>argue<br>cart<br>stage<br>fruit
 bip_39_word_new_br_11: swarm<br>dress<br>gold<br>bomb<br>plug<br>stuff<br>argue<br>cart<br>stage<br>fruit<br>clay
@@ -192,6 +204,18 @@ bip_39_word_space_6: swarm dress gold bomb plug stuff
 bip_39_word_space_7: swarm dress gold bomb plug stuff argue
 bip_39_word_space_8: swarm dress gold bomb plug stuff argue cart
 bip_39_word_space_9: swarm dress gold bomb plug stuff argue cart stage
+bip_39_word_underscore_1: swarm
+bip_39_word_underscore_10: swarm_dress_gold_bomb_plug_stuff_argue_cart_stage_fruit
+bip_39_word_underscore_11: swarm_dress_gold_bomb_plug_stuff_argue_cart_stage_fruit_clay
+bip_39_word_underscore_12: swarm_dress_gold_bomb_plug_stuff_argue_cart_stage_fruit_clay_arrest
+bip_39_word_underscore_2: swarm_dress
+bip_39_word_underscore_3: swarm_dress_gold
+bip_39_word_underscore_4: swarm_dress_gold_bomb
+bip_39_word_underscore_5: swarm_dress_gold_bomb_plug
+bip_39_word_underscore_6: swarm_dress_gold_bomb_plug_stuff
+bip_39_word_underscore_7: swarm_dress_gold_bomb_plug_stuff_argue
+bip_39_word_underscore_8: swarm_dress_gold_bomb_plug_stuff_argue_cart
+bip_39_word_underscore_9: swarm_dress_gold_bomb_plug_stuff_argue_cart_stage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jacket
+bip_39_word_dash_10: jacket-reform-depart-ginger-paddle-slow-assist-ask-enter-that
+bip_39_word_dash_11: jacket-reform-depart-ginger-paddle-slow-assist-ask-enter-that-tribe
+bip_39_word_dash_12: jacket-reform-depart-ginger-paddle-slow-assist-ask-enter-that-tribe-aerobic
+bip_39_word_dash_2: jacket-reform
+bip_39_word_dash_3: jacket-reform-depart
+bip_39_word_dash_4: jacket-reform-depart-ginger
+bip_39_word_dash_5: jacket-reform-depart-ginger-paddle
+bip_39_word_dash_6: jacket-reform-depart-ginger-paddle-slow
+bip_39_word_dash_7: jacket-reform-depart-ginger-paddle-slow-assist
+bip_39_word_dash_8: jacket-reform-depart-ginger-paddle-slow-assist-ask
+bip_39_word_dash_9: jacket-reform-depart-ginger-paddle-slow-assist-ask-enter
 bip_39_word_new_br_1: jacket
 bip_39_word_new_br_10: jacket<br>reform<br>depart<br>ginger<br>paddle<br>slow<br>assist<br>ask<br>enter<br>that
 bip_39_word_new_br_11: jacket<br>reform<br>depart<br>ginger<br>paddle<br>slow<br>assist<br>ask<br>enter<br>that<br>tribe
@@ -193,6 +205,18 @@ bip_39_word_space_6: jacket reform depart ginger paddle slow
 bip_39_word_space_7: jacket reform depart ginger paddle slow assist
 bip_39_word_space_8: jacket reform depart ginger paddle slow assist ask
 bip_39_word_space_9: jacket reform depart ginger paddle slow assist ask enter
+bip_39_word_underscore_1: jacket
+bip_39_word_underscore_10: jacket_reform_depart_ginger_paddle_slow_assist_ask_enter_that
+bip_39_word_underscore_11: jacket_reform_depart_ginger_paddle_slow_assist_ask_enter_that_tribe
+bip_39_word_underscore_12: jacket_reform_depart_ginger_paddle_slow_assist_ask_enter_that_tribe_aerobic
+bip_39_word_underscore_2: jacket_reform
+bip_39_word_underscore_3: jacket_reform_depart
+bip_39_word_underscore_4: jacket_reform_depart_ginger
+bip_39_word_underscore_5: jacket_reform_depart_ginger_paddle
+bip_39_word_underscore_6: jacket_reform_depart_ginger_paddle_slow
+bip_39_word_underscore_7: jacket_reform_depart_ginger_paddle_slow_assist
+bip_39_word_underscore_8: jacket_reform_depart_ginger_paddle_slow_assist_ask
+bip_39_word_underscore_9: jacket_reform_depart_ginger_paddle_slow_assist_ask_enter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: noise
+bip_39_word_dash_10: noise-gravity-organ-then-surge-heavy-local-imitate-stand-monkey
+bip_39_word_dash_11: noise-gravity-organ-then-surge-heavy-local-imitate-stand-monkey-round
+bip_39_word_dash_12: noise-gravity-organ-then-surge-heavy-local-imitate-stand-monkey-round-antenna
+bip_39_word_dash_2: noise-gravity
+bip_39_word_dash_3: noise-gravity-organ
+bip_39_word_dash_4: noise-gravity-organ-then
+bip_39_word_dash_5: noise-gravity-organ-then-surge
+bip_39_word_dash_6: noise-gravity-organ-then-surge-heavy
+bip_39_word_dash_7: noise-gravity-organ-then-surge-heavy-local
+bip_39_word_dash_8: noise-gravity-organ-then-surge-heavy-local-imitate
+bip_39_word_dash_9: noise-gravity-organ-then-surge-heavy-local-imitate-stand
 bip_39_word_new_br_1: noise
 bip_39_word_new_br_10: noise<br>gravity<br>organ<br>then<br>surge<br>heavy<br>local<br>imitate<br>stand<br>monkey
 bip_39_word_new_br_11: noise<br>gravity<br>organ<br>then<br>surge<br>heavy<br>local<br>imitate<br>stand<br>monkey<br>round
@@ -193,6 +205,18 @@ bip_39_word_space_6: noise gravity organ then surge heavy
 bip_39_word_space_7: noise gravity organ then surge heavy local
 bip_39_word_space_8: noise gravity organ then surge heavy local imitate
 bip_39_word_space_9: noise gravity organ then surge heavy local imitate stand
+bip_39_word_underscore_1: noise
+bip_39_word_underscore_10: noise_gravity_organ_then_surge_heavy_local_imitate_stand_monkey
+bip_39_word_underscore_11: noise_gravity_organ_then_surge_heavy_local_imitate_stand_monkey_round
+bip_39_word_underscore_12: noise_gravity_organ_then_surge_heavy_local_imitate_stand_monkey_round_antenna
+bip_39_word_underscore_2: noise_gravity
+bip_39_word_underscore_3: noise_gravity_organ
+bip_39_word_underscore_4: noise_gravity_organ_then
+bip_39_word_underscore_5: noise_gravity_organ_then_surge
+bip_39_word_underscore_6: noise_gravity_organ_then_surge_heavy
+bip_39_word_underscore_7: noise_gravity_organ_then_surge_heavy_local
+bip_39_word_underscore_8: noise_gravity_organ_then_surge_heavy_local_imitate
+bip_39_word_underscore_9: noise_gravity_organ_then_surge_heavy_local_imitate_stand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

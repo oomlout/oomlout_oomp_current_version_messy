@@ -1,3 +1,15 @@
+bip_39_word_dash_1: senior
+bip_39_word_dash_10: senior-trip-stock-agree-year-rack-myself-trip-use-cruel
+bip_39_word_dash_11: senior-trip-stock-agree-year-rack-myself-trip-use-cruel-hood
+bip_39_word_dash_12: senior-trip-stock-agree-year-rack-myself-trip-use-cruel-hood-around
+bip_39_word_dash_2: senior-trip
+bip_39_word_dash_3: senior-trip-stock
+bip_39_word_dash_4: senior-trip-stock-agree
+bip_39_word_dash_5: senior-trip-stock-agree-year
+bip_39_word_dash_6: senior-trip-stock-agree-year-rack
+bip_39_word_dash_7: senior-trip-stock-agree-year-rack-myself
+bip_39_word_dash_8: senior-trip-stock-agree-year-rack-myself-trip
+bip_39_word_dash_9: senior-trip-stock-agree-year-rack-myself-trip-use
 bip_39_word_new_br_1: senior
 bip_39_word_new_br_10: senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip<br>use<br>cruel
 bip_39_word_new_br_11: senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip<br>use<br>cruel<br>hood
@@ -192,6 +204,18 @@ bip_39_word_space_6: senior trip stock agree year rack
 bip_39_word_space_7: senior trip stock agree year rack myself
 bip_39_word_space_8: senior trip stock agree year rack myself trip
 bip_39_word_space_9: senior trip stock agree year rack myself trip use
+bip_39_word_underscore_1: senior
+bip_39_word_underscore_10: senior_trip_stock_agree_year_rack_myself_trip_use_cruel
+bip_39_word_underscore_11: senior_trip_stock_agree_year_rack_myself_trip_use_cruel_hood
+bip_39_word_underscore_12: senior_trip_stock_agree_year_rack_myself_trip_use_cruel_hood_around
+bip_39_word_underscore_2: senior_trip
+bip_39_word_underscore_3: senior_trip_stock
+bip_39_word_underscore_4: senior_trip_stock_agree
+bip_39_word_underscore_5: senior_trip_stock_agree_year
+bip_39_word_underscore_6: senior_trip_stock_agree_year_rack
+bip_39_word_underscore_7: senior_trip_stock_agree_year_rack_myself
+bip_39_word_underscore_8: senior_trip_stock_agree_year_rack_myself_trip
+bip_39_word_underscore_9: senior_trip_stock_agree_year_rack_myself_trip_use
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

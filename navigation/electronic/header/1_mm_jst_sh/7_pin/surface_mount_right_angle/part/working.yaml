@@ -1,3 +1,15 @@
+bip_39_word_dash_1: random
+bip_39_word_dash_10: random-appear-crash-under-merit-saddle-aim-used-chat-soup
+bip_39_word_dash_11: random-appear-crash-under-merit-saddle-aim-used-chat-soup-fatigue
+bip_39_word_dash_12: random-appear-crash-under-merit-saddle-aim-used-chat-soup-fatigue-antenna
+bip_39_word_dash_2: random-appear
+bip_39_word_dash_3: random-appear-crash
+bip_39_word_dash_4: random-appear-crash-under
+bip_39_word_dash_5: random-appear-crash-under-merit
+bip_39_word_dash_6: random-appear-crash-under-merit-saddle
+bip_39_word_dash_7: random-appear-crash-under-merit-saddle-aim
+bip_39_word_dash_8: random-appear-crash-under-merit-saddle-aim-used
+bip_39_word_dash_9: random-appear-crash-under-merit-saddle-aim-used-chat
 bip_39_word_new_br_1: random
 bip_39_word_new_br_10: random<br>appear<br>crash<br>under<br>merit<br>saddle<br>aim<br>used<br>chat<br>soup
 bip_39_word_new_br_11: random<br>appear<br>crash<br>under<br>merit<br>saddle<br>aim<br>used<br>chat<br>soup<br>fatigue
@@ -192,6 +204,18 @@ bip_39_word_space_6: random appear crash under merit saddle
 bip_39_word_space_7: random appear crash under merit saddle aim
 bip_39_word_space_8: random appear crash under merit saddle aim used
 bip_39_word_space_9: random appear crash under merit saddle aim used chat
+bip_39_word_underscore_1: random
+bip_39_word_underscore_10: random_appear_crash_under_merit_saddle_aim_used_chat_soup
+bip_39_word_underscore_11: random_appear_crash_under_merit_saddle_aim_used_chat_soup_fatigue
+bip_39_word_underscore_12: random_appear_crash_under_merit_saddle_aim_used_chat_soup_fatigue_antenna
+bip_39_word_underscore_2: random_appear
+bip_39_word_underscore_3: random_appear_crash
+bip_39_word_underscore_4: random_appear_crash_under
+bip_39_word_underscore_5: random_appear_crash_under_merit
+bip_39_word_underscore_6: random_appear_crash_under_merit_saddle
+bip_39_word_underscore_7: random_appear_crash_under_merit_saddle_aim
+bip_39_word_underscore_8: random_appear_crash_under_merit_saddle_aim_used
+bip_39_word_underscore_9: random_appear_crash_under_merit_saddle_aim_used_chat
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

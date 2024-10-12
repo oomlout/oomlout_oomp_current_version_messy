@@ -1,3 +1,15 @@
+bip_39_word_dash_1: distance
+bip_39_word_dash_10: distance-domain-bicycle-hire-render-east-decide-slab-turtle-wet
+bip_39_word_dash_11: distance-domain-bicycle-hire-render-east-decide-slab-turtle-wet-kind
+bip_39_word_dash_12: distance-domain-bicycle-hire-render-east-decide-slab-turtle-wet-kind-average
+bip_39_word_dash_2: distance-domain
+bip_39_word_dash_3: distance-domain-bicycle
+bip_39_word_dash_4: distance-domain-bicycle-hire
+bip_39_word_dash_5: distance-domain-bicycle-hire-render
+bip_39_word_dash_6: distance-domain-bicycle-hire-render-east
+bip_39_word_dash_7: distance-domain-bicycle-hire-render-east-decide
+bip_39_word_dash_8: distance-domain-bicycle-hire-render-east-decide-slab
+bip_39_word_dash_9: distance-domain-bicycle-hire-render-east-decide-slab-turtle
 bip_39_word_new_br_1: distance
 bip_39_word_new_br_10: distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab<br>turtle<br>wet
 bip_39_word_new_br_11: distance<br>domain<br>bicycle<br>hire<br>render<br>east<br>decide<br>slab<br>turtle<br>wet<br>kind
@@ -194,6 +206,18 @@ bip_39_word_space_6: distance domain bicycle hire render east
 bip_39_word_space_7: distance domain bicycle hire render east decide
 bip_39_word_space_8: distance domain bicycle hire render east decide slab
 bip_39_word_space_9: distance domain bicycle hire render east decide slab turtle
+bip_39_word_underscore_1: distance
+bip_39_word_underscore_10: distance_domain_bicycle_hire_render_east_decide_slab_turtle_wet
+bip_39_word_underscore_11: distance_domain_bicycle_hire_render_east_decide_slab_turtle_wet_kind
+bip_39_word_underscore_12: distance_domain_bicycle_hire_render_east_decide_slab_turtle_wet_kind_average
+bip_39_word_underscore_2: distance_domain
+bip_39_word_underscore_3: distance_domain_bicycle
+bip_39_word_underscore_4: distance_domain_bicycle_hire
+bip_39_word_underscore_5: distance_domain_bicycle_hire_render
+bip_39_word_underscore_6: distance_domain_bicycle_hire_render_east
+bip_39_word_underscore_7: distance_domain_bicycle_hire_render_east_decide
+bip_39_word_underscore_8: distance_domain_bicycle_hire_render_east_decide_slab
+bip_39_word_underscore_9: distance_domain_bicycle_hire_render_east_decide_slab_turtle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

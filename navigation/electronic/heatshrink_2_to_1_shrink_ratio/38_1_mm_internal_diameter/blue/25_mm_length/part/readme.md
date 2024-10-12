@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | borrow |  
+| bip_39_word_dash_10 | borrow-alter-swear-exhibit-orchard-ostrich-luggage-ceiling-valve-depth |  
+| bip_39_word_dash_11 | borrow-alter-swear-exhibit-orchard-ostrich-luggage-ceiling-valve-depth-isolate |  
+| bip_39_word_dash_12 | borrow-alter-swear-exhibit-orchard-ostrich-luggage-ceiling-valve-depth-isolate-alien |  
+| bip_39_word_dash_2 | borrow-alter |  
+| bip_39_word_dash_3 | borrow-alter-swear |  
+| bip_39_word_dash_4 | borrow-alter-swear-exhibit |  
+| bip_39_word_dash_5 | borrow-alter-swear-exhibit-orchard |  
+| bip_39_word_dash_6 | borrow-alter-swear-exhibit-orchard-ostrich |  
+| bip_39_word_dash_7 | borrow-alter-swear-exhibit-orchard-ostrich-luggage |  
+| bip_39_word_dash_8 | borrow-alter-swear-exhibit-orchard-ostrich-luggage-ceiling |  
+| bip_39_word_dash_9 | borrow-alter-swear-exhibit-orchard-ostrich-luggage-ceiling-valve |  
 | bip_39_word_new_br_1 | borrow |  
 | bip_39_word_new_br_10 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling<br>valve<br>depth |  
 | bip_39_word_new_br_11 | borrow<br>alter<br>swear<br>exhibit<br>orchard<br>ostrich<br>luggage<br>ceiling<br>valve<br>depth<br>isolate |  
@@ -147,6 +159,18 @@ valve |
 | bip_39_word_space_7 | borrow alter swear exhibit orchard ostrich luggage |  
 | bip_39_word_space_8 | borrow alter swear exhibit orchard ostrich luggage ceiling |  
 | bip_39_word_space_9 | borrow alter swear exhibit orchard ostrich luggage ceiling valve |  
+| bip_39_word_underscore_1 | borrow |  
+| bip_39_word_underscore_10 | borrow_alter_swear_exhibit_orchard_ostrich_luggage_ceiling_valve_depth |  
+| bip_39_word_underscore_11 | borrow_alter_swear_exhibit_orchard_ostrich_luggage_ceiling_valve_depth_isolate |  
+| bip_39_word_underscore_12 | borrow_alter_swear_exhibit_orchard_ostrich_luggage_ceiling_valve_depth_isolate_alien |  
+| bip_39_word_underscore_2 | borrow_alter |  
+| bip_39_word_underscore_3 | borrow_alter_swear |  
+| bip_39_word_underscore_4 | borrow_alter_swear_exhibit |  
+| bip_39_word_underscore_5 | borrow_alter_swear_exhibit_orchard |  
+| bip_39_word_underscore_6 | borrow_alter_swear_exhibit_orchard_ostrich |  
+| bip_39_word_underscore_7 | borrow_alter_swear_exhibit_orchard_ostrich_luggage |  
+| bip_39_word_underscore_8 | borrow_alter_swear_exhibit_orchard_ostrich_luggage_ceiling |  
+| bip_39_word_underscore_9 | borrow_alter_swear_exhibit_orchard_ostrich_luggage_ceiling_valve |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

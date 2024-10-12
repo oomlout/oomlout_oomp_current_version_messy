@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clay |  
+| bip_39_word_dash_10 | clay-east-toddler-page-burden-rebuild-beef-race-shoe-barely |  
+| bip_39_word_dash_11 | clay-east-toddler-page-burden-rebuild-beef-race-shoe-barely-major |  
+| bip_39_word_dash_12 | clay-east-toddler-page-burden-rebuild-beef-race-shoe-barely-major-attitude |  
+| bip_39_word_dash_2 | clay-east |  
+| bip_39_word_dash_3 | clay-east-toddler |  
+| bip_39_word_dash_4 | clay-east-toddler-page |  
+| bip_39_word_dash_5 | clay-east-toddler-page-burden |  
+| bip_39_word_dash_6 | clay-east-toddler-page-burden-rebuild |  
+| bip_39_word_dash_7 | clay-east-toddler-page-burden-rebuild-beef |  
+| bip_39_word_dash_8 | clay-east-toddler-page-burden-rebuild-beef-race |  
+| bip_39_word_dash_9 | clay-east-toddler-page-burden-rebuild-beef-race-shoe |  
 | bip_39_word_new_br_1 | clay |  
 | bip_39_word_new_br_10 | clay<br>east<br>toddler<br>page<br>burden<br>rebuild<br>beef<br>race<br>shoe<br>barely |  
 | bip_39_word_new_br_11 | clay<br>east<br>toddler<br>page<br>burden<br>rebuild<br>beef<br>race<br>shoe<br>barely<br>major |  
@@ -147,6 +159,18 @@ shoe |
 | bip_39_word_space_7 | clay east toddler page burden rebuild beef |  
 | bip_39_word_space_8 | clay east toddler page burden rebuild beef race |  
 | bip_39_word_space_9 | clay east toddler page burden rebuild beef race shoe |  
+| bip_39_word_underscore_1 | clay |  
+| bip_39_word_underscore_10 | clay_east_toddler_page_burden_rebuild_beef_race_shoe_barely |  
+| bip_39_word_underscore_11 | clay_east_toddler_page_burden_rebuild_beef_race_shoe_barely_major |  
+| bip_39_word_underscore_12 | clay_east_toddler_page_burden_rebuild_beef_race_shoe_barely_major_attitude |  
+| bip_39_word_underscore_2 | clay_east |  
+| bip_39_word_underscore_3 | clay_east_toddler |  
+| bip_39_word_underscore_4 | clay_east_toddler_page |  
+| bip_39_word_underscore_5 | clay_east_toddler_page_burden |  
+| bip_39_word_underscore_6 | clay_east_toddler_page_burden_rebuild |  
+| bip_39_word_underscore_7 | clay_east_toddler_page_burden_rebuild_beef |  
+| bip_39_word_underscore_8 | clay_east_toddler_page_burden_rebuild_beef_race |  
+| bip_39_word_underscore_9 | clay_east_toddler_page_burden_rebuild_beef_race_shoe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

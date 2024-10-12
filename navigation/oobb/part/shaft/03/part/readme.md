@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | salute |  
+| bip_39_word_dash_10 | salute-beef-deliver-athlete-wrap-example-eternal-potato-innocent-fork |  
+| bip_39_word_dash_11 | salute-beef-deliver-athlete-wrap-example-eternal-potato-innocent-fork-auction |  
+| bip_39_word_dash_12 | salute-beef-deliver-athlete-wrap-example-eternal-potato-innocent-fork-auction-attack |  
+| bip_39_word_dash_2 | salute-beef |  
+| bip_39_word_dash_3 | salute-beef-deliver |  
+| bip_39_word_dash_4 | salute-beef-deliver-athlete |  
+| bip_39_word_dash_5 | salute-beef-deliver-athlete-wrap |  
+| bip_39_word_dash_6 | salute-beef-deliver-athlete-wrap-example |  
+| bip_39_word_dash_7 | salute-beef-deliver-athlete-wrap-example-eternal |  
+| bip_39_word_dash_8 | salute-beef-deliver-athlete-wrap-example-eternal-potato |  
+| bip_39_word_dash_9 | salute-beef-deliver-athlete-wrap-example-eternal-potato-innocent |  
 | bip_39_word_new_br_1 | salute |  
 | bip_39_word_new_br_10 | salute<br>beef<br>deliver<br>athlete<br>wrap<br>example<br>eternal<br>potato<br>innocent<br>fork |  
 | bip_39_word_new_br_11 | salute<br>beef<br>deliver<br>athlete<br>wrap<br>example<br>eternal<br>potato<br>innocent<br>fork<br>auction |  
@@ -147,6 +159,18 @@ innocent |
 | bip_39_word_space_7 | salute beef deliver athlete wrap example eternal |  
 | bip_39_word_space_8 | salute beef deliver athlete wrap example eternal potato |  
 | bip_39_word_space_9 | salute beef deliver athlete wrap example eternal potato innocent |  
+| bip_39_word_underscore_1 | salute |  
+| bip_39_word_underscore_10 | salute_beef_deliver_athlete_wrap_example_eternal_potato_innocent_fork |  
+| bip_39_word_underscore_11 | salute_beef_deliver_athlete_wrap_example_eternal_potato_innocent_fork_auction |  
+| bip_39_word_underscore_12 | salute_beef_deliver_athlete_wrap_example_eternal_potato_innocent_fork_auction_attack |  
+| bip_39_word_underscore_2 | salute_beef |  
+| bip_39_word_underscore_3 | salute_beef_deliver |  
+| bip_39_word_underscore_4 | salute_beef_deliver_athlete |  
+| bip_39_word_underscore_5 | salute_beef_deliver_athlete_wrap |  
+| bip_39_word_underscore_6 | salute_beef_deliver_athlete_wrap_example |  
+| bip_39_word_underscore_7 | salute_beef_deliver_athlete_wrap_example_eternal |  
+| bip_39_word_underscore_8 | salute_beef_deliver_athlete_wrap_example_eternal_potato |  
+| bip_39_word_underscore_9 | salute_beef_deliver_athlete_wrap_example_eternal_potato_innocent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vintage |  
+| bip_39_word_dash_10 | vintage-giant-hawk-worry-clutch-ginger-fitness-ship-air-shaft |  
+| bip_39_word_dash_11 | vintage-giant-hawk-worry-clutch-ginger-fitness-ship-air-shaft-green |  
+| bip_39_word_dash_12 | vintage-giant-hawk-worry-clutch-ginger-fitness-ship-air-shaft-green-antique |  
+| bip_39_word_dash_2 | vintage-giant |  
+| bip_39_word_dash_3 | vintage-giant-hawk |  
+| bip_39_word_dash_4 | vintage-giant-hawk-worry |  
+| bip_39_word_dash_5 | vintage-giant-hawk-worry-clutch |  
+| bip_39_word_dash_6 | vintage-giant-hawk-worry-clutch-ginger |  
+| bip_39_word_dash_7 | vintage-giant-hawk-worry-clutch-ginger-fitness |  
+| bip_39_word_dash_8 | vintage-giant-hawk-worry-clutch-ginger-fitness-ship |  
+| bip_39_word_dash_9 | vintage-giant-hawk-worry-clutch-ginger-fitness-ship-air |  
 | bip_39_word_new_br_1 | vintage |  
 | bip_39_word_new_br_10 | vintage<br>giant<br>hawk<br>worry<br>clutch<br>ginger<br>fitness<br>ship<br>air<br>shaft |  
 | bip_39_word_new_br_11 | vintage<br>giant<br>hawk<br>worry<br>clutch<br>ginger<br>fitness<br>ship<br>air<br>shaft<br>green |  
@@ -147,6 +159,18 @@ air |
 | bip_39_word_space_7 | vintage giant hawk worry clutch ginger fitness |  
 | bip_39_word_space_8 | vintage giant hawk worry clutch ginger fitness ship |  
 | bip_39_word_space_9 | vintage giant hawk worry clutch ginger fitness ship air |  
+| bip_39_word_underscore_1 | vintage |  
+| bip_39_word_underscore_10 | vintage_giant_hawk_worry_clutch_ginger_fitness_ship_air_shaft |  
+| bip_39_word_underscore_11 | vintage_giant_hawk_worry_clutch_ginger_fitness_ship_air_shaft_green |  
+| bip_39_word_underscore_12 | vintage_giant_hawk_worry_clutch_ginger_fitness_ship_air_shaft_green_antique |  
+| bip_39_word_underscore_2 | vintage_giant |  
+| bip_39_word_underscore_3 | vintage_giant_hawk |  
+| bip_39_word_underscore_4 | vintage_giant_hawk_worry |  
+| bip_39_word_underscore_5 | vintage_giant_hawk_worry_clutch |  
+| bip_39_word_underscore_6 | vintage_giant_hawk_worry_clutch_ginger |  
+| bip_39_word_underscore_7 | vintage_giant_hawk_worry_clutch_ginger_fitness |  
+| bip_39_word_underscore_8 | vintage_giant_hawk_worry_clutch_ginger_fitness_ship |  
+| bip_39_word_underscore_9 | vintage_giant_hawk_worry_clutch_ginger_fitness_ship_air |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

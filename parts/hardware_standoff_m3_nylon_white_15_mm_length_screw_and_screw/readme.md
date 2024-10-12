@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rent |  
+| bip_39_word_dash_10 | rent-attitude-during-solution-unable-leisure-neglect-angry-figure-struggle |  
+| bip_39_word_dash_11 | rent-attitude-during-solution-unable-leisure-neglect-angry-figure-struggle-dial |  
+| bip_39_word_dash_12 | rent-attitude-during-solution-unable-leisure-neglect-angry-figure-struggle-dial-assault |  
+| bip_39_word_dash_2 | rent-attitude |  
+| bip_39_word_dash_3 | rent-attitude-during |  
+| bip_39_word_dash_4 | rent-attitude-during-solution |  
+| bip_39_word_dash_5 | rent-attitude-during-solution-unable |  
+| bip_39_word_dash_6 | rent-attitude-during-solution-unable-leisure |  
+| bip_39_word_dash_7 | rent-attitude-during-solution-unable-leisure-neglect |  
+| bip_39_word_dash_8 | rent-attitude-during-solution-unable-leisure-neglect-angry |  
+| bip_39_word_dash_9 | rent-attitude-during-solution-unable-leisure-neglect-angry-figure |  
 | bip_39_word_new_br_1 | rent |  
 | bip_39_word_new_br_10 | rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry<br>figure<br>struggle |  
 | bip_39_word_new_br_11 | rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry<br>figure<br>struggle<br>dial |  
@@ -147,6 +159,18 @@ figure |
 | bip_39_word_space_7 | rent attitude during solution unable leisure neglect |  
 | bip_39_word_space_8 | rent attitude during solution unable leisure neglect angry |  
 | bip_39_word_space_9 | rent attitude during solution unable leisure neglect angry figure |  
+| bip_39_word_underscore_1 | rent |  
+| bip_39_word_underscore_10 | rent_attitude_during_solution_unable_leisure_neglect_angry_figure_struggle |  
+| bip_39_word_underscore_11 | rent_attitude_during_solution_unable_leisure_neglect_angry_figure_struggle_dial |  
+| bip_39_word_underscore_12 | rent_attitude_during_solution_unable_leisure_neglect_angry_figure_struggle_dial_assault |  
+| bip_39_word_underscore_2 | rent_attitude |  
+| bip_39_word_underscore_3 | rent_attitude_during |  
+| bip_39_word_underscore_4 | rent_attitude_during_solution |  
+| bip_39_word_underscore_5 | rent_attitude_during_solution_unable |  
+| bip_39_word_underscore_6 | rent_attitude_during_solution_unable_leisure |  
+| bip_39_word_underscore_7 | rent_attitude_during_solution_unable_leisure_neglect |  
+| bip_39_word_underscore_8 | rent_attitude_during_solution_unable_leisure_neglect_angry |  
+| bip_39_word_underscore_9 | rent_attitude_during_solution_unable_leisure_neglect_angry_figure |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

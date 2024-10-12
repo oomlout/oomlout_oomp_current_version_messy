@@ -1,3 +1,15 @@
+bip_39_word_dash_1: skirt
+bip_39_word_dash_10: skirt-isolate-vault-wine-victory-suspect-include-differ-execute-grain
+bip_39_word_dash_11: skirt-isolate-vault-wine-victory-suspect-include-differ-execute-grain-fringe
+bip_39_word_dash_12: skirt-isolate-vault-wine-victory-suspect-include-differ-execute-grain-fringe-alcohol
+bip_39_word_dash_2: skirt-isolate
+bip_39_word_dash_3: skirt-isolate-vault
+bip_39_word_dash_4: skirt-isolate-vault-wine
+bip_39_word_dash_5: skirt-isolate-vault-wine-victory
+bip_39_word_dash_6: skirt-isolate-vault-wine-victory-suspect
+bip_39_word_dash_7: skirt-isolate-vault-wine-victory-suspect-include
+bip_39_word_dash_8: skirt-isolate-vault-wine-victory-suspect-include-differ
+bip_39_word_dash_9: skirt-isolate-vault-wine-victory-suspect-include-differ-execute
 bip_39_word_new_br_1: skirt
 bip_39_word_new_br_10: skirt<br>isolate<br>vault<br>wine<br>victory<br>suspect<br>include<br>differ<br>execute<br>grain
 bip_39_word_new_br_11: skirt<br>isolate<br>vault<br>wine<br>victory<br>suspect<br>include<br>differ<br>execute<br>grain<br>fringe
@@ -194,6 +206,18 @@ bip_39_word_space_6: skirt isolate vault wine victory suspect
 bip_39_word_space_7: skirt isolate vault wine victory suspect include
 bip_39_word_space_8: skirt isolate vault wine victory suspect include differ
 bip_39_word_space_9: skirt isolate vault wine victory suspect include differ execute
+bip_39_word_underscore_1: skirt
+bip_39_word_underscore_10: skirt_isolate_vault_wine_victory_suspect_include_differ_execute_grain
+bip_39_word_underscore_11: skirt_isolate_vault_wine_victory_suspect_include_differ_execute_grain_fringe
+bip_39_word_underscore_12: skirt_isolate_vault_wine_victory_suspect_include_differ_execute_grain_fringe_alcohol
+bip_39_word_underscore_2: skirt_isolate
+bip_39_word_underscore_3: skirt_isolate_vault
+bip_39_word_underscore_4: skirt_isolate_vault_wine
+bip_39_word_underscore_5: skirt_isolate_vault_wine_victory
+bip_39_word_underscore_6: skirt_isolate_vault_wine_victory_suspect
+bip_39_word_underscore_7: skirt_isolate_vault_wine_victory_suspect_include
+bip_39_word_underscore_8: skirt_isolate_vault_wine_victory_suspect_include_differ
+bip_39_word_underscore_9: skirt_isolate_vault_wine_victory_suspect_include_differ_execute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

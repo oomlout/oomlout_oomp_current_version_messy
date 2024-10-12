@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | omit |  
+| bip_39_word_dash_10 | omit-useless-spell-rookie-holiday-poem-cost-cloth-cave-thumb |  
+| bip_39_word_dash_11 | omit-useless-spell-rookie-holiday-poem-cost-cloth-cave-thumb-vanish |  
+| bip_39_word_dash_12 | omit-useless-spell-rookie-holiday-poem-cost-cloth-cave-thumb-vanish-album |  
+| bip_39_word_dash_2 | omit-useless |  
+| bip_39_word_dash_3 | omit-useless-spell |  
+| bip_39_word_dash_4 | omit-useless-spell-rookie |  
+| bip_39_word_dash_5 | omit-useless-spell-rookie-holiday |  
+| bip_39_word_dash_6 | omit-useless-spell-rookie-holiday-poem |  
+| bip_39_word_dash_7 | omit-useless-spell-rookie-holiday-poem-cost |  
+| bip_39_word_dash_8 | omit-useless-spell-rookie-holiday-poem-cost-cloth |  
+| bip_39_word_dash_9 | omit-useless-spell-rookie-holiday-poem-cost-cloth-cave |  
 | bip_39_word_new_br_1 | omit |  
 | bip_39_word_new_br_10 | omit<br>useless<br>spell<br>rookie<br>holiday<br>poem<br>cost<br>cloth<br>cave<br>thumb |  
 | bip_39_word_new_br_11 | omit<br>useless<br>spell<br>rookie<br>holiday<br>poem<br>cost<br>cloth<br>cave<br>thumb<br>vanish |  
@@ -147,6 +159,18 @@ cave |
 | bip_39_word_space_7 | omit useless spell rookie holiday poem cost |  
 | bip_39_word_space_8 | omit useless spell rookie holiday poem cost cloth |  
 | bip_39_word_space_9 | omit useless spell rookie holiday poem cost cloth cave |  
+| bip_39_word_underscore_1 | omit |  
+| bip_39_word_underscore_10 | omit_useless_spell_rookie_holiday_poem_cost_cloth_cave_thumb |  
+| bip_39_word_underscore_11 | omit_useless_spell_rookie_holiday_poem_cost_cloth_cave_thumb_vanish |  
+| bip_39_word_underscore_12 | omit_useless_spell_rookie_holiday_poem_cost_cloth_cave_thumb_vanish_album |  
+| bip_39_word_underscore_2 | omit_useless |  
+| bip_39_word_underscore_3 | omit_useless_spell |  
+| bip_39_word_underscore_4 | omit_useless_spell_rookie |  
+| bip_39_word_underscore_5 | omit_useless_spell_rookie_holiday |  
+| bip_39_word_underscore_6 | omit_useless_spell_rookie_holiday_poem |  
+| bip_39_word_underscore_7 | omit_useless_spell_rookie_holiday_poem_cost |  
+| bip_39_word_underscore_8 | omit_useless_spell_rookie_holiday_poem_cost_cloth |  
+| bip_39_word_underscore_9 | omit_useless_spell_rookie_holiday_poem_cost_cloth_cave |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

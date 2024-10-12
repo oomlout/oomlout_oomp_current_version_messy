@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | staff |  
+| bip_39_word_dash_10 | staff-kit-wood-stomach-carbon-viable-rocket-deposit-private-electric |  
+| bip_39_word_dash_11 | staff-kit-wood-stomach-carbon-viable-rocket-deposit-private-electric-prefer |  
+| bip_39_word_dash_12 | staff-kit-wood-stomach-carbon-viable-rocket-deposit-private-electric-prefer-apology |  
+| bip_39_word_dash_2 | staff-kit |  
+| bip_39_word_dash_3 | staff-kit-wood |  
+| bip_39_word_dash_4 | staff-kit-wood-stomach |  
+| bip_39_word_dash_5 | staff-kit-wood-stomach-carbon |  
+| bip_39_word_dash_6 | staff-kit-wood-stomach-carbon-viable |  
+| bip_39_word_dash_7 | staff-kit-wood-stomach-carbon-viable-rocket |  
+| bip_39_word_dash_8 | staff-kit-wood-stomach-carbon-viable-rocket-deposit |  
+| bip_39_word_dash_9 | staff-kit-wood-stomach-carbon-viable-rocket-deposit-private |  
 | bip_39_word_new_br_1 | staff |  
 | bip_39_word_new_br_10 | staff<br>kit<br>wood<br>stomach<br>carbon<br>viable<br>rocket<br>deposit<br>private<br>electric |  
 | bip_39_word_new_br_11 | staff<br>kit<br>wood<br>stomach<br>carbon<br>viable<br>rocket<br>deposit<br>private<br>electric<br>prefer |  
@@ -147,6 +159,18 @@ private |
 | bip_39_word_space_7 | staff kit wood stomach carbon viable rocket |  
 | bip_39_word_space_8 | staff kit wood stomach carbon viable rocket deposit |  
 | bip_39_word_space_9 | staff kit wood stomach carbon viable rocket deposit private |  
+| bip_39_word_underscore_1 | staff |  
+| bip_39_word_underscore_10 | staff_kit_wood_stomach_carbon_viable_rocket_deposit_private_electric |  
+| bip_39_word_underscore_11 | staff_kit_wood_stomach_carbon_viable_rocket_deposit_private_electric_prefer |  
+| bip_39_word_underscore_12 | staff_kit_wood_stomach_carbon_viable_rocket_deposit_private_electric_prefer_apology |  
+| bip_39_word_underscore_2 | staff_kit |  
+| bip_39_word_underscore_3 | staff_kit_wood |  
+| bip_39_word_underscore_4 | staff_kit_wood_stomach |  
+| bip_39_word_underscore_5 | staff_kit_wood_stomach_carbon |  
+| bip_39_word_underscore_6 | staff_kit_wood_stomach_carbon_viable |  
+| bip_39_word_underscore_7 | staff_kit_wood_stomach_carbon_viable_rocket |  
+| bip_39_word_underscore_8 | staff_kit_wood_stomach_carbon_viable_rocket_deposit |  
+| bip_39_word_underscore_9 | staff_kit_wood_stomach_carbon_viable_rocket_deposit_private |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

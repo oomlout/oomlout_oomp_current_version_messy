@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | perfect |  
+| bip_39_word_dash_10 | perfect-slide-inch-rigid-broom-farm-regret-luxury-buzz-north |  
+| bip_39_word_dash_11 | perfect-slide-inch-rigid-broom-farm-regret-luxury-buzz-north-muscle |  
+| bip_39_word_dash_12 | perfect-slide-inch-rigid-broom-farm-regret-luxury-buzz-north-muscle-aisle |  
+| bip_39_word_dash_2 | perfect-slide |  
+| bip_39_word_dash_3 | perfect-slide-inch |  
+| bip_39_word_dash_4 | perfect-slide-inch-rigid |  
+| bip_39_word_dash_5 | perfect-slide-inch-rigid-broom |  
+| bip_39_word_dash_6 | perfect-slide-inch-rigid-broom-farm |  
+| bip_39_word_dash_7 | perfect-slide-inch-rigid-broom-farm-regret |  
+| bip_39_word_dash_8 | perfect-slide-inch-rigid-broom-farm-regret-luxury |  
+| bip_39_word_dash_9 | perfect-slide-inch-rigid-broom-farm-regret-luxury-buzz |  
 | bip_39_word_new_br_1 | perfect |  
 | bip_39_word_new_br_10 | perfect<br>slide<br>inch<br>rigid<br>broom<br>farm<br>regret<br>luxury<br>buzz<br>north |  
 | bip_39_word_new_br_11 | perfect<br>slide<br>inch<br>rigid<br>broom<br>farm<br>regret<br>luxury<br>buzz<br>north<br>muscle |  
@@ -147,6 +159,18 @@ buzz |
 | bip_39_word_space_7 | perfect slide inch rigid broom farm regret |  
 | bip_39_word_space_8 | perfect slide inch rigid broom farm regret luxury |  
 | bip_39_word_space_9 | perfect slide inch rigid broom farm regret luxury buzz |  
+| bip_39_word_underscore_1 | perfect |  
+| bip_39_word_underscore_10 | perfect_slide_inch_rigid_broom_farm_regret_luxury_buzz_north |  
+| bip_39_word_underscore_11 | perfect_slide_inch_rigid_broom_farm_regret_luxury_buzz_north_muscle |  
+| bip_39_word_underscore_12 | perfect_slide_inch_rigid_broom_farm_regret_luxury_buzz_north_muscle_aisle |  
+| bip_39_word_underscore_2 | perfect_slide |  
+| bip_39_word_underscore_3 | perfect_slide_inch |  
+| bip_39_word_underscore_4 | perfect_slide_inch_rigid |  
+| bip_39_word_underscore_5 | perfect_slide_inch_rigid_broom |  
+| bip_39_word_underscore_6 | perfect_slide_inch_rigid_broom_farm |  
+| bip_39_word_underscore_7 | perfect_slide_inch_rigid_broom_farm_regret |  
+| bip_39_word_underscore_8 | perfect_slide_inch_rigid_broom_farm_regret_luxury |  
+| bip_39_word_underscore_9 | perfect_slide_inch_rigid_broom_farm_regret_luxury_buzz |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

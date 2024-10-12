@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skin |  
+| bip_39_word_dash_10 | skin-final-nurse-saddle-plunge-possible-hurry-spawn-early-tribe |  
+| bip_39_word_dash_11 | skin-final-nurse-saddle-plunge-possible-hurry-spawn-early-tribe-now |  
+| bip_39_word_dash_12 | skin-final-nurse-saddle-plunge-possible-hurry-spawn-early-tribe-now-asset |  
+| bip_39_word_dash_2 | skin-final |  
+| bip_39_word_dash_3 | skin-final-nurse |  
+| bip_39_word_dash_4 | skin-final-nurse-saddle |  
+| bip_39_word_dash_5 | skin-final-nurse-saddle-plunge |  
+| bip_39_word_dash_6 | skin-final-nurse-saddle-plunge-possible |  
+| bip_39_word_dash_7 | skin-final-nurse-saddle-plunge-possible-hurry |  
+| bip_39_word_dash_8 | skin-final-nurse-saddle-plunge-possible-hurry-spawn |  
+| bip_39_word_dash_9 | skin-final-nurse-saddle-plunge-possible-hurry-spawn-early |  
 | bip_39_word_new_br_1 | skin |  
 | bip_39_word_new_br_10 | skin<br>final<br>nurse<br>saddle<br>plunge<br>possible<br>hurry<br>spawn<br>early<br>tribe |  
 | bip_39_word_new_br_11 | skin<br>final<br>nurse<br>saddle<br>plunge<br>possible<br>hurry<br>spawn<br>early<br>tribe<br>now |  
@@ -147,6 +159,18 @@ early |
 | bip_39_word_space_7 | skin final nurse saddle plunge possible hurry |  
 | bip_39_word_space_8 | skin final nurse saddle plunge possible hurry spawn |  
 | bip_39_word_space_9 | skin final nurse saddle plunge possible hurry spawn early |  
+| bip_39_word_underscore_1 | skin |  
+| bip_39_word_underscore_10 | skin_final_nurse_saddle_plunge_possible_hurry_spawn_early_tribe |  
+| bip_39_word_underscore_11 | skin_final_nurse_saddle_plunge_possible_hurry_spawn_early_tribe_now |  
+| bip_39_word_underscore_12 | skin_final_nurse_saddle_plunge_possible_hurry_spawn_early_tribe_now_asset |  
+| bip_39_word_underscore_2 | skin_final |  
+| bip_39_word_underscore_3 | skin_final_nurse |  
+| bip_39_word_underscore_4 | skin_final_nurse_saddle |  
+| bip_39_word_underscore_5 | skin_final_nurse_saddle_plunge |  
+| bip_39_word_underscore_6 | skin_final_nurse_saddle_plunge_possible |  
+| bip_39_word_underscore_7 | skin_final_nurse_saddle_plunge_possible_hurry |  
+| bip_39_word_underscore_8 | skin_final_nurse_saddle_plunge_possible_hurry_spawn |  
+| bip_39_word_underscore_9 | skin_final_nurse_saddle_plunge_possible_hurry_spawn_early |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | move |  
+| bip_39_word_dash_10 | move-solution-step-swamp-erode-leg-teach-bench-ocean-supreme |  
+| bip_39_word_dash_11 | move-solution-step-swamp-erode-leg-teach-bench-ocean-supreme-quit |  
+| bip_39_word_dash_12 | move-solution-step-swamp-erode-leg-teach-bench-ocean-supreme-quit-auction |  
+| bip_39_word_dash_2 | move-solution |  
+| bip_39_word_dash_3 | move-solution-step |  
+| bip_39_word_dash_4 | move-solution-step-swamp |  
+| bip_39_word_dash_5 | move-solution-step-swamp-erode |  
+| bip_39_word_dash_6 | move-solution-step-swamp-erode-leg |  
+| bip_39_word_dash_7 | move-solution-step-swamp-erode-leg-teach |  
+| bip_39_word_dash_8 | move-solution-step-swamp-erode-leg-teach-bench |  
+| bip_39_word_dash_9 | move-solution-step-swamp-erode-leg-teach-bench-ocean |  
 | bip_39_word_new_br_1 | move |  
 | bip_39_word_new_br_10 | move<br>solution<br>step<br>swamp<br>erode<br>leg<br>teach<br>bench<br>ocean<br>supreme |  
 | bip_39_word_new_br_11 | move<br>solution<br>step<br>swamp<br>erode<br>leg<br>teach<br>bench<br>ocean<br>supreme<br>quit |  
@@ -147,6 +159,18 @@ ocean |
 | bip_39_word_space_7 | move solution step swamp erode leg teach |  
 | bip_39_word_space_8 | move solution step swamp erode leg teach bench |  
 | bip_39_word_space_9 | move solution step swamp erode leg teach bench ocean |  
+| bip_39_word_underscore_1 | move |  
+| bip_39_word_underscore_10 | move_solution_step_swamp_erode_leg_teach_bench_ocean_supreme |  
+| bip_39_word_underscore_11 | move_solution_step_swamp_erode_leg_teach_bench_ocean_supreme_quit |  
+| bip_39_word_underscore_12 | move_solution_step_swamp_erode_leg_teach_bench_ocean_supreme_quit_auction |  
+| bip_39_word_underscore_2 | move_solution |  
+| bip_39_word_underscore_3 | move_solution_step |  
+| bip_39_word_underscore_4 | move_solution_step_swamp |  
+| bip_39_word_underscore_5 | move_solution_step_swamp_erode |  
+| bip_39_word_underscore_6 | move_solution_step_swamp_erode_leg |  
+| bip_39_word_underscore_7 | move_solution_step_swamp_erode_leg_teach |  
+| bip_39_word_underscore_8 | move_solution_step_swamp_erode_leg_teach_bench |  
+| bip_39_word_underscore_9 | move_solution_step_swamp_erode_leg_teach_bench_ocean |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: output
+bip_39_word_dash_10: output-sweet-finish-become-satisfy-notice-found-train-argue-bright
+bip_39_word_dash_11: output-sweet-finish-become-satisfy-notice-found-train-argue-bright-bachelor
+bip_39_word_dash_12: output-sweet-finish-become-satisfy-notice-found-train-argue-bright-bachelor-apple
+bip_39_word_dash_2: output-sweet
+bip_39_word_dash_3: output-sweet-finish
+bip_39_word_dash_4: output-sweet-finish-become
+bip_39_word_dash_5: output-sweet-finish-become-satisfy
+bip_39_word_dash_6: output-sweet-finish-become-satisfy-notice
+bip_39_word_dash_7: output-sweet-finish-become-satisfy-notice-found
+bip_39_word_dash_8: output-sweet-finish-become-satisfy-notice-found-train
+bip_39_word_dash_9: output-sweet-finish-become-satisfy-notice-found-train-argue
 bip_39_word_new_br_1: output
 bip_39_word_new_br_10: output<br>sweet<br>finish<br>become<br>satisfy<br>notice<br>found<br>train<br>argue<br>bright
 bip_39_word_new_br_11: output<br>sweet<br>finish<br>become<br>satisfy<br>notice<br>found<br>train<br>argue<br>bright<br>bachelor
@@ -194,6 +206,18 @@ bip_39_word_space_6: output sweet finish become satisfy notice
 bip_39_word_space_7: output sweet finish become satisfy notice found
 bip_39_word_space_8: output sweet finish become satisfy notice found train
 bip_39_word_space_9: output sweet finish become satisfy notice found train argue
+bip_39_word_underscore_1: output
+bip_39_word_underscore_10: output_sweet_finish_become_satisfy_notice_found_train_argue_bright
+bip_39_word_underscore_11: output_sweet_finish_become_satisfy_notice_found_train_argue_bright_bachelor
+bip_39_word_underscore_12: output_sweet_finish_become_satisfy_notice_found_train_argue_bright_bachelor_apple
+bip_39_word_underscore_2: output_sweet
+bip_39_word_underscore_3: output_sweet_finish
+bip_39_word_underscore_4: output_sweet_finish_become
+bip_39_word_underscore_5: output_sweet_finish_become_satisfy
+bip_39_word_underscore_6: output_sweet_finish_become_satisfy_notice
+bip_39_word_underscore_7: output_sweet_finish_become_satisfy_notice_found
+bip_39_word_underscore_8: output_sweet_finish_become_satisfy_notice_found_train
+bip_39_word_underscore_9: output_sweet_finish_become_satisfy_notice_found_train_argue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

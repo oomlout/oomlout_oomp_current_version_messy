@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | worth |  
+| bip_39_word_dash_10 | worth-oak-marble-buffalo-museum-recycle-provide-boat-pudding-indicate |  
+| bip_39_word_dash_11 | worth-oak-marble-buffalo-museum-recycle-provide-boat-pudding-indicate-hedgehog |  
+| bip_39_word_dash_12 | worth-oak-marble-buffalo-museum-recycle-provide-boat-pudding-indicate-hedgehog-alter |  
+| bip_39_word_dash_2 | worth-oak |  
+| bip_39_word_dash_3 | worth-oak-marble |  
+| bip_39_word_dash_4 | worth-oak-marble-buffalo |  
+| bip_39_word_dash_5 | worth-oak-marble-buffalo-museum |  
+| bip_39_word_dash_6 | worth-oak-marble-buffalo-museum-recycle |  
+| bip_39_word_dash_7 | worth-oak-marble-buffalo-museum-recycle-provide |  
+| bip_39_word_dash_8 | worth-oak-marble-buffalo-museum-recycle-provide-boat |  
+| bip_39_word_dash_9 | worth-oak-marble-buffalo-museum-recycle-provide-boat-pudding |  
 | bip_39_word_new_br_1 | worth |  
 | bip_39_word_new_br_10 | worth<br>oak<br>marble<br>buffalo<br>museum<br>recycle<br>provide<br>boat<br>pudding<br>indicate |  
 | bip_39_word_new_br_11 | worth<br>oak<br>marble<br>buffalo<br>museum<br>recycle<br>provide<br>boat<br>pudding<br>indicate<br>hedgehog |  
@@ -147,6 +159,18 @@ pudding |
 | bip_39_word_space_7 | worth oak marble buffalo museum recycle provide |  
 | bip_39_word_space_8 | worth oak marble buffalo museum recycle provide boat |  
 | bip_39_word_space_9 | worth oak marble buffalo museum recycle provide boat pudding |  
+| bip_39_word_underscore_1 | worth |  
+| bip_39_word_underscore_10 | worth_oak_marble_buffalo_museum_recycle_provide_boat_pudding_indicate |  
+| bip_39_word_underscore_11 | worth_oak_marble_buffalo_museum_recycle_provide_boat_pudding_indicate_hedgehog |  
+| bip_39_word_underscore_12 | worth_oak_marble_buffalo_museum_recycle_provide_boat_pudding_indicate_hedgehog_alter |  
+| bip_39_word_underscore_2 | worth_oak |  
+| bip_39_word_underscore_3 | worth_oak_marble |  
+| bip_39_word_underscore_4 | worth_oak_marble_buffalo |  
+| bip_39_word_underscore_5 | worth_oak_marble_buffalo_museum |  
+| bip_39_word_underscore_6 | worth_oak_marble_buffalo_museum_recycle |  
+| bip_39_word_underscore_7 | worth_oak_marble_buffalo_museum_recycle_provide |  
+| bip_39_word_underscore_8 | worth_oak_marble_buffalo_museum_recycle_provide_boat |  
+| bip_39_word_underscore_9 | worth_oak_marble_buffalo_museum_recycle_provide_boat_pudding |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

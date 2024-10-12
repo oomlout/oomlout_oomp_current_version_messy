@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stadium |  
+| bip_39_word_dash_10 | stadium-all-cancel-type-punch-seat-drop-crush-spawn-fetch |  
+| bip_39_word_dash_11 | stadium-all-cancel-type-punch-seat-drop-crush-spawn-fetch-pole |  
+| bip_39_word_dash_12 | stadium-all-cancel-type-punch-seat-drop-crush-spawn-fetch-pole-any |  
+| bip_39_word_dash_2 | stadium-all |  
+| bip_39_word_dash_3 | stadium-all-cancel |  
+| bip_39_word_dash_4 | stadium-all-cancel-type |  
+| bip_39_word_dash_5 | stadium-all-cancel-type-punch |  
+| bip_39_word_dash_6 | stadium-all-cancel-type-punch-seat |  
+| bip_39_word_dash_7 | stadium-all-cancel-type-punch-seat-drop |  
+| bip_39_word_dash_8 | stadium-all-cancel-type-punch-seat-drop-crush |  
+| bip_39_word_dash_9 | stadium-all-cancel-type-punch-seat-drop-crush-spawn |  
 | bip_39_word_new_br_1 | stadium |  
 | bip_39_word_new_br_10 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch |  
 | bip_39_word_new_br_11 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch<br>pole |  
@@ -147,6 +159,18 @@ spawn |
 | bip_39_word_space_7 | stadium all cancel type punch seat drop |  
 | bip_39_word_space_8 | stadium all cancel type punch seat drop crush |  
 | bip_39_word_space_9 | stadium all cancel type punch seat drop crush spawn |  
+| bip_39_word_underscore_1 | stadium |  
+| bip_39_word_underscore_10 | stadium_all_cancel_type_punch_seat_drop_crush_spawn_fetch |  
+| bip_39_word_underscore_11 | stadium_all_cancel_type_punch_seat_drop_crush_spawn_fetch_pole |  
+| bip_39_word_underscore_12 | stadium_all_cancel_type_punch_seat_drop_crush_spawn_fetch_pole_any |  
+| bip_39_word_underscore_2 | stadium_all |  
+| bip_39_word_underscore_3 | stadium_all_cancel |  
+| bip_39_word_underscore_4 | stadium_all_cancel_type |  
+| bip_39_word_underscore_5 | stadium_all_cancel_type_punch |  
+| bip_39_word_underscore_6 | stadium_all_cancel_type_punch_seat |  
+| bip_39_word_underscore_7 | stadium_all_cancel_type_punch_seat_drop |  
+| bip_39_word_underscore_8 | stadium_all_cancel_type_punch_seat_drop_crush |  
+| bip_39_word_underscore_9 | stadium_all_cancel_type_punch_seat_drop_crush_spawn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

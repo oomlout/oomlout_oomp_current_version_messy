@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erode |  
+| bip_39_word_dash_10 | erode-hobby-chat-shield-melt-random-produce-buzz-carpet-nurse |  
+| bip_39_word_dash_11 | erode-hobby-chat-shield-melt-random-produce-buzz-carpet-nurse-chunk |  
+| bip_39_word_dash_12 | erode-hobby-chat-shield-melt-random-produce-buzz-carpet-nurse-chunk-advance |  
+| bip_39_word_dash_2 | erode-hobby |  
+| bip_39_word_dash_3 | erode-hobby-chat |  
+| bip_39_word_dash_4 | erode-hobby-chat-shield |  
+| bip_39_word_dash_5 | erode-hobby-chat-shield-melt |  
+| bip_39_word_dash_6 | erode-hobby-chat-shield-melt-random |  
+| bip_39_word_dash_7 | erode-hobby-chat-shield-melt-random-produce |  
+| bip_39_word_dash_8 | erode-hobby-chat-shield-melt-random-produce-buzz |  
+| bip_39_word_dash_9 | erode-hobby-chat-shield-melt-random-produce-buzz-carpet |  
 | bip_39_word_new_br_1 | erode |  
 | bip_39_word_new_br_10 | erode<br>hobby<br>chat<br>shield<br>melt<br>random<br>produce<br>buzz<br>carpet<br>nurse |  
 | bip_39_word_new_br_11 | erode<br>hobby<br>chat<br>shield<br>melt<br>random<br>produce<br>buzz<br>carpet<br>nurse<br>chunk |  
@@ -147,6 +159,18 @@ carpet |
 | bip_39_word_space_7 | erode hobby chat shield melt random produce |  
 | bip_39_word_space_8 | erode hobby chat shield melt random produce buzz |  
 | bip_39_word_space_9 | erode hobby chat shield melt random produce buzz carpet |  
+| bip_39_word_underscore_1 | erode |  
+| bip_39_word_underscore_10 | erode_hobby_chat_shield_melt_random_produce_buzz_carpet_nurse |  
+| bip_39_word_underscore_11 | erode_hobby_chat_shield_melt_random_produce_buzz_carpet_nurse_chunk |  
+| bip_39_word_underscore_12 | erode_hobby_chat_shield_melt_random_produce_buzz_carpet_nurse_chunk_advance |  
+| bip_39_word_underscore_2 | erode_hobby |  
+| bip_39_word_underscore_3 | erode_hobby_chat |  
+| bip_39_word_underscore_4 | erode_hobby_chat_shield |  
+| bip_39_word_underscore_5 | erode_hobby_chat_shield_melt |  
+| bip_39_word_underscore_6 | erode_hobby_chat_shield_melt_random |  
+| bip_39_word_underscore_7 | erode_hobby_chat_shield_melt_random_produce |  
+| bip_39_word_underscore_8 | erode_hobby_chat_shield_melt_random_produce_buzz |  
+| bip_39_word_underscore_9 | erode_hobby_chat_shield_melt_random_produce_buzz_carpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

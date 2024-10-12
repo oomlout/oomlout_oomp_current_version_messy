@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | miss |  
+| bip_39_word_dash_10 | miss-champion-nurse-dumb-muscle-educate-cereal-blood-right-diesel |  
+| bip_39_word_dash_11 | miss-champion-nurse-dumb-muscle-educate-cereal-blood-right-diesel-rotate |  
+| bip_39_word_dash_12 | miss-champion-nurse-dumb-muscle-educate-cereal-blood-right-diesel-rotate-amused |  
+| bip_39_word_dash_2 | miss-champion |  
+| bip_39_word_dash_3 | miss-champion-nurse |  
+| bip_39_word_dash_4 | miss-champion-nurse-dumb |  
+| bip_39_word_dash_5 | miss-champion-nurse-dumb-muscle |  
+| bip_39_word_dash_6 | miss-champion-nurse-dumb-muscle-educate |  
+| bip_39_word_dash_7 | miss-champion-nurse-dumb-muscle-educate-cereal |  
+| bip_39_word_dash_8 | miss-champion-nurse-dumb-muscle-educate-cereal-blood |  
+| bip_39_word_dash_9 | miss-champion-nurse-dumb-muscle-educate-cereal-blood-right |  
 | bip_39_word_new_br_1 | miss |  
 | bip_39_word_new_br_10 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood<br>right<br>diesel |  
 | bip_39_word_new_br_11 | miss<br>champion<br>nurse<br>dumb<br>muscle<br>educate<br>cereal<br>blood<br>right<br>diesel<br>rotate |  
@@ -147,6 +159,18 @@ right |
 | bip_39_word_space_7 | miss champion nurse dumb muscle educate cereal |  
 | bip_39_word_space_8 | miss champion nurse dumb muscle educate cereal blood |  
 | bip_39_word_space_9 | miss champion nurse dumb muscle educate cereal blood right |  
+| bip_39_word_underscore_1 | miss |  
+| bip_39_word_underscore_10 | miss_champion_nurse_dumb_muscle_educate_cereal_blood_right_diesel |  
+| bip_39_word_underscore_11 | miss_champion_nurse_dumb_muscle_educate_cereal_blood_right_diesel_rotate |  
+| bip_39_word_underscore_12 | miss_champion_nurse_dumb_muscle_educate_cereal_blood_right_diesel_rotate_amused |  
+| bip_39_word_underscore_2 | miss_champion |  
+| bip_39_word_underscore_3 | miss_champion_nurse |  
+| bip_39_word_underscore_4 | miss_champion_nurse_dumb |  
+| bip_39_word_underscore_5 | miss_champion_nurse_dumb_muscle |  
+| bip_39_word_underscore_6 | miss_champion_nurse_dumb_muscle_educate |  
+| bip_39_word_underscore_7 | miss_champion_nurse_dumb_muscle_educate_cereal |  
+| bip_39_word_underscore_8 | miss_champion_nurse_dumb_muscle_educate_cereal_blood |  
+| bip_39_word_underscore_9 | miss_champion_nurse_dumb_muscle_educate_cereal_blood_right |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: federal
+bip_39_word_dash_10: federal-decorate-cliff-goddess-brother-curtain-panic-special-subway-vibrant
+bip_39_word_dash_11: federal-decorate-cliff-goddess-brother-curtain-panic-special-subway-vibrant-smart
+bip_39_word_dash_12: federal-decorate-cliff-goddess-brother-curtain-panic-special-subway-vibrant-smart-agent
+bip_39_word_dash_2: federal-decorate
+bip_39_word_dash_3: federal-decorate-cliff
+bip_39_word_dash_4: federal-decorate-cliff-goddess
+bip_39_word_dash_5: federal-decorate-cliff-goddess-brother
+bip_39_word_dash_6: federal-decorate-cliff-goddess-brother-curtain
+bip_39_word_dash_7: federal-decorate-cliff-goddess-brother-curtain-panic
+bip_39_word_dash_8: federal-decorate-cliff-goddess-brother-curtain-panic-special
+bip_39_word_dash_9: federal-decorate-cliff-goddess-brother-curtain-panic-special-subway
 bip_39_word_new_br_1: federal
 bip_39_word_new_br_10: federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special<br>subway<br>vibrant
 bip_39_word_new_br_11: federal<br>decorate<br>cliff<br>goddess<br>brother<br>curtain<br>panic<br>special<br>subway<br>vibrant<br>smart
@@ -195,6 +207,18 @@ bip_39_word_space_7: federal decorate cliff goddess brother curtain panic
 bip_39_word_space_8: federal decorate cliff goddess brother curtain panic special
 bip_39_word_space_9: federal decorate cliff goddess brother curtain panic special
   subway
+bip_39_word_underscore_1: federal
+bip_39_word_underscore_10: federal_decorate_cliff_goddess_brother_curtain_panic_special_subway_vibrant
+bip_39_word_underscore_11: federal_decorate_cliff_goddess_brother_curtain_panic_special_subway_vibrant_smart
+bip_39_word_underscore_12: federal_decorate_cliff_goddess_brother_curtain_panic_special_subway_vibrant_smart_agent
+bip_39_word_underscore_2: federal_decorate
+bip_39_word_underscore_3: federal_decorate_cliff
+bip_39_word_underscore_4: federal_decorate_cliff_goddess
+bip_39_word_underscore_5: federal_decorate_cliff_goddess_brother
+bip_39_word_underscore_6: federal_decorate_cliff_goddess_brother_curtain
+bip_39_word_underscore_7: federal_decorate_cliff_goddess_brother_curtain_panic
+bip_39_word_underscore_8: federal_decorate_cliff_goddess_brother_curtain_panic_special
+bip_39_word_underscore_9: federal_decorate_cliff_goddess_brother_curtain_panic_special_subway
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

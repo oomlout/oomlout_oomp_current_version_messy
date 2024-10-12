@@ -1,3 +1,15 @@
+bip_39_word_dash_1: kick
+bip_39_word_dash_10: kick-muffin-trip-govern-paper-puppy-strike-alcohol-nice-remember
+bip_39_word_dash_11: kick-muffin-trip-govern-paper-puppy-strike-alcohol-nice-remember-half
+bip_39_word_dash_12: kick-muffin-trip-govern-paper-puppy-strike-alcohol-nice-remember-half-acid
+bip_39_word_dash_2: kick-muffin
+bip_39_word_dash_3: kick-muffin-trip
+bip_39_word_dash_4: kick-muffin-trip-govern
+bip_39_word_dash_5: kick-muffin-trip-govern-paper
+bip_39_word_dash_6: kick-muffin-trip-govern-paper-puppy
+bip_39_word_dash_7: kick-muffin-trip-govern-paper-puppy-strike
+bip_39_word_dash_8: kick-muffin-trip-govern-paper-puppy-strike-alcohol
+bip_39_word_dash_9: kick-muffin-trip-govern-paper-puppy-strike-alcohol-nice
 bip_39_word_new_br_1: kick
 bip_39_word_new_br_10: kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember
 bip_39_word_new_br_11: kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember<br>half
@@ -193,6 +205,18 @@ bip_39_word_space_6: kick muffin trip govern paper puppy
 bip_39_word_space_7: kick muffin trip govern paper puppy strike
 bip_39_word_space_8: kick muffin trip govern paper puppy strike alcohol
 bip_39_word_space_9: kick muffin trip govern paper puppy strike alcohol nice
+bip_39_word_underscore_1: kick
+bip_39_word_underscore_10: kick_muffin_trip_govern_paper_puppy_strike_alcohol_nice_remember
+bip_39_word_underscore_11: kick_muffin_trip_govern_paper_puppy_strike_alcohol_nice_remember_half
+bip_39_word_underscore_12: kick_muffin_trip_govern_paper_puppy_strike_alcohol_nice_remember_half_acid
+bip_39_word_underscore_2: kick_muffin
+bip_39_word_underscore_3: kick_muffin_trip
+bip_39_word_underscore_4: kick_muffin_trip_govern
+bip_39_word_underscore_5: kick_muffin_trip_govern_paper
+bip_39_word_underscore_6: kick_muffin_trip_govern_paper_puppy
+bip_39_word_underscore_7: kick_muffin_trip_govern_paper_puppy_strike
+bip_39_word_underscore_8: kick_muffin_trip_govern_paper_puppy_strike_alcohol
+bip_39_word_underscore_9: kick_muffin_trip_govern_paper_puppy_strike_alcohol_nice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

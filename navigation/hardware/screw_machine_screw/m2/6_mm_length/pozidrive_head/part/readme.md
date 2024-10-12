@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gauge |  
+| bip_39_word_dash_10 | gauge-stairs-pottery-member-decorate-manual-educate-regret-stove-city |  
+| bip_39_word_dash_11 | gauge-stairs-pottery-member-decorate-manual-educate-regret-stove-city-jar |  
+| bip_39_word_dash_12 | gauge-stairs-pottery-member-decorate-manual-educate-regret-stove-city-jar-arch |  
+| bip_39_word_dash_2 | gauge-stairs |  
+| bip_39_word_dash_3 | gauge-stairs-pottery |  
+| bip_39_word_dash_4 | gauge-stairs-pottery-member |  
+| bip_39_word_dash_5 | gauge-stairs-pottery-member-decorate |  
+| bip_39_word_dash_6 | gauge-stairs-pottery-member-decorate-manual |  
+| bip_39_word_dash_7 | gauge-stairs-pottery-member-decorate-manual-educate |  
+| bip_39_word_dash_8 | gauge-stairs-pottery-member-decorate-manual-educate-regret |  
+| bip_39_word_dash_9 | gauge-stairs-pottery-member-decorate-manual-educate-regret-stove |  
 | bip_39_word_new_br_1 | gauge |  
 | bip_39_word_new_br_10 | gauge<br>stairs<br>pottery<br>member<br>decorate<br>manual<br>educate<br>regret<br>stove<br>city |  
 | bip_39_word_new_br_11 | gauge<br>stairs<br>pottery<br>member<br>decorate<br>manual<br>educate<br>regret<br>stove<br>city<br>jar |  
@@ -147,6 +159,18 @@ stove |
 | bip_39_word_space_7 | gauge stairs pottery member decorate manual educate |  
 | bip_39_word_space_8 | gauge stairs pottery member decorate manual educate regret |  
 | bip_39_word_space_9 | gauge stairs pottery member decorate manual educate regret stove |  
+| bip_39_word_underscore_1 | gauge |  
+| bip_39_word_underscore_10 | gauge_stairs_pottery_member_decorate_manual_educate_regret_stove_city |  
+| bip_39_word_underscore_11 | gauge_stairs_pottery_member_decorate_manual_educate_regret_stove_city_jar |  
+| bip_39_word_underscore_12 | gauge_stairs_pottery_member_decorate_manual_educate_regret_stove_city_jar_arch |  
+| bip_39_word_underscore_2 | gauge_stairs |  
+| bip_39_word_underscore_3 | gauge_stairs_pottery |  
+| bip_39_word_underscore_4 | gauge_stairs_pottery_member |  
+| bip_39_word_underscore_5 | gauge_stairs_pottery_member_decorate |  
+| bip_39_word_underscore_6 | gauge_stairs_pottery_member_decorate_manual |  
+| bip_39_word_underscore_7 | gauge_stairs_pottery_member_decorate_manual_educate |  
+| bip_39_word_underscore_8 | gauge_stairs_pottery_member_decorate_manual_educate_regret |  
+| bip_39_word_underscore_9 | gauge_stairs_pottery_member_decorate_manual_educate_regret_stove |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

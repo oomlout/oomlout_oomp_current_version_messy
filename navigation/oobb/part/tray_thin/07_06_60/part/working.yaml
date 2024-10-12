@@ -1,3 +1,15 @@
+bip_39_word_dash_1: resource
+bip_39_word_dash_10: resource-quiz-insane-zone-worth-hip-valve-upper-notable-earn
+bip_39_word_dash_11: resource-quiz-insane-zone-worth-hip-valve-upper-notable-earn-echo
+bip_39_word_dash_12: resource-quiz-insane-zone-worth-hip-valve-upper-notable-earn-echo-able
+bip_39_word_dash_2: resource-quiz
+bip_39_word_dash_3: resource-quiz-insane
+bip_39_word_dash_4: resource-quiz-insane-zone
+bip_39_word_dash_5: resource-quiz-insane-zone-worth
+bip_39_word_dash_6: resource-quiz-insane-zone-worth-hip
+bip_39_word_dash_7: resource-quiz-insane-zone-worth-hip-valve
+bip_39_word_dash_8: resource-quiz-insane-zone-worth-hip-valve-upper
+bip_39_word_dash_9: resource-quiz-insane-zone-worth-hip-valve-upper-notable
 bip_39_word_new_br_1: resource
 bip_39_word_new_br_10: resource<br>quiz<br>insane<br>zone<br>worth<br>hip<br>valve<br>upper<br>notable<br>earn
 bip_39_word_new_br_11: resource<br>quiz<br>insane<br>zone<br>worth<br>hip<br>valve<br>upper<br>notable<br>earn<br>echo
@@ -193,6 +205,18 @@ bip_39_word_space_6: resource quiz insane zone worth hip
 bip_39_word_space_7: resource quiz insane zone worth hip valve
 bip_39_word_space_8: resource quiz insane zone worth hip valve upper
 bip_39_word_space_9: resource quiz insane zone worth hip valve upper notable
+bip_39_word_underscore_1: resource
+bip_39_word_underscore_10: resource_quiz_insane_zone_worth_hip_valve_upper_notable_earn
+bip_39_word_underscore_11: resource_quiz_insane_zone_worth_hip_valve_upper_notable_earn_echo
+bip_39_word_underscore_12: resource_quiz_insane_zone_worth_hip_valve_upper_notable_earn_echo_able
+bip_39_word_underscore_2: resource_quiz
+bip_39_word_underscore_3: resource_quiz_insane
+bip_39_word_underscore_4: resource_quiz_insane_zone
+bip_39_word_underscore_5: resource_quiz_insane_zone_worth
+bip_39_word_underscore_6: resource_quiz_insane_zone_worth_hip
+bip_39_word_underscore_7: resource_quiz_insane_zone_worth_hip_valve
+bip_39_word_underscore_8: resource_quiz_insane_zone_worth_hip_valve_upper
+bip_39_word_underscore_9: resource_quiz_insane_zone_worth_hip_valve_upper_notable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

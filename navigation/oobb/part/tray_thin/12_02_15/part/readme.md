@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | truth |  
+| bip_39_word_dash_10 | truth-wheat-shop-pond-fold-cycle-harvest-sorry-denial-steel |  
+| bip_39_word_dash_11 | truth-wheat-shop-pond-fold-cycle-harvest-sorry-denial-steel-awesome |  
+| bip_39_word_dash_12 | truth-wheat-shop-pond-fold-cycle-harvest-sorry-denial-steel-awesome-athlete |  
+| bip_39_word_dash_2 | truth-wheat |  
+| bip_39_word_dash_3 | truth-wheat-shop |  
+| bip_39_word_dash_4 | truth-wheat-shop-pond |  
+| bip_39_word_dash_5 | truth-wheat-shop-pond-fold |  
+| bip_39_word_dash_6 | truth-wheat-shop-pond-fold-cycle |  
+| bip_39_word_dash_7 | truth-wheat-shop-pond-fold-cycle-harvest |  
+| bip_39_word_dash_8 | truth-wheat-shop-pond-fold-cycle-harvest-sorry |  
+| bip_39_word_dash_9 | truth-wheat-shop-pond-fold-cycle-harvest-sorry-denial |  
 | bip_39_word_new_br_1 | truth |  
 | bip_39_word_new_br_10 | truth<br>wheat<br>shop<br>pond<br>fold<br>cycle<br>harvest<br>sorry<br>denial<br>steel |  
 | bip_39_word_new_br_11 | truth<br>wheat<br>shop<br>pond<br>fold<br>cycle<br>harvest<br>sorry<br>denial<br>steel<br>awesome |  
@@ -147,6 +159,18 @@ denial |
 | bip_39_word_space_7 | truth wheat shop pond fold cycle harvest |  
 | bip_39_word_space_8 | truth wheat shop pond fold cycle harvest sorry |  
 | bip_39_word_space_9 | truth wheat shop pond fold cycle harvest sorry denial |  
+| bip_39_word_underscore_1 | truth |  
+| bip_39_word_underscore_10 | truth_wheat_shop_pond_fold_cycle_harvest_sorry_denial_steel |  
+| bip_39_word_underscore_11 | truth_wheat_shop_pond_fold_cycle_harvest_sorry_denial_steel_awesome |  
+| bip_39_word_underscore_12 | truth_wheat_shop_pond_fold_cycle_harvest_sorry_denial_steel_awesome_athlete |  
+| bip_39_word_underscore_2 | truth_wheat |  
+| bip_39_word_underscore_3 | truth_wheat_shop |  
+| bip_39_word_underscore_4 | truth_wheat_shop_pond |  
+| bip_39_word_underscore_5 | truth_wheat_shop_pond_fold |  
+| bip_39_word_underscore_6 | truth_wheat_shop_pond_fold_cycle |  
+| bip_39_word_underscore_7 | truth_wheat_shop_pond_fold_cycle_harvest |  
+| bip_39_word_underscore_8 | truth_wheat_shop_pond_fold_cycle_harvest_sorry |  
+| bip_39_word_underscore_9 | truth_wheat_shop_pond_fold_cycle_harvest_sorry_denial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

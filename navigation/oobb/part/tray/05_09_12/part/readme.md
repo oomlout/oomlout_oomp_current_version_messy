@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | behave |  
+| bip_39_word_dash_10 | behave-kitchen-camp-during-rib-rule-rebuild-rib-fabric-rescue |  
+| bip_39_word_dash_11 | behave-kitchen-camp-during-rib-rule-rebuild-rib-fabric-rescue-margin |  
+| bip_39_word_dash_12 | behave-kitchen-camp-during-rib-rule-rebuild-rib-fabric-rescue-margin-ability |  
+| bip_39_word_dash_2 | behave-kitchen |  
+| bip_39_word_dash_3 | behave-kitchen-camp |  
+| bip_39_word_dash_4 | behave-kitchen-camp-during |  
+| bip_39_word_dash_5 | behave-kitchen-camp-during-rib |  
+| bip_39_word_dash_6 | behave-kitchen-camp-during-rib-rule |  
+| bip_39_word_dash_7 | behave-kitchen-camp-during-rib-rule-rebuild |  
+| bip_39_word_dash_8 | behave-kitchen-camp-during-rib-rule-rebuild-rib |  
+| bip_39_word_dash_9 | behave-kitchen-camp-during-rib-rule-rebuild-rib-fabric |  
 | bip_39_word_new_br_1 | behave |  
 | bip_39_word_new_br_10 | behave<br>kitchen<br>camp<br>during<br>rib<br>rule<br>rebuild<br>rib<br>fabric<br>rescue |  
 | bip_39_word_new_br_11 | behave<br>kitchen<br>camp<br>during<br>rib<br>rule<br>rebuild<br>rib<br>fabric<br>rescue<br>margin |  
@@ -147,6 +159,18 @@ fabric |
 | bip_39_word_space_7 | behave kitchen camp during rib rule rebuild |  
 | bip_39_word_space_8 | behave kitchen camp during rib rule rebuild rib |  
 | bip_39_word_space_9 | behave kitchen camp during rib rule rebuild rib fabric |  
+| bip_39_word_underscore_1 | behave |  
+| bip_39_word_underscore_10 | behave_kitchen_camp_during_rib_rule_rebuild_rib_fabric_rescue |  
+| bip_39_word_underscore_11 | behave_kitchen_camp_during_rib_rule_rebuild_rib_fabric_rescue_margin |  
+| bip_39_word_underscore_12 | behave_kitchen_camp_during_rib_rule_rebuild_rib_fabric_rescue_margin_ability |  
+| bip_39_word_underscore_2 | behave_kitchen |  
+| bip_39_word_underscore_3 | behave_kitchen_camp |  
+| bip_39_word_underscore_4 | behave_kitchen_camp_during |  
+| bip_39_word_underscore_5 | behave_kitchen_camp_during_rib |  
+| bip_39_word_underscore_6 | behave_kitchen_camp_during_rib_rule |  
+| bip_39_word_underscore_7 | behave_kitchen_camp_during_rib_rule_rebuild |  
+| bip_39_word_underscore_8 | behave_kitchen_camp_during_rib_rule_rebuild_rib |  
+| bip_39_word_underscore_9 | behave_kitchen_camp_during_rib_rule_rebuild_rib_fabric |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

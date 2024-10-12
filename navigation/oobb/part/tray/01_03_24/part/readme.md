@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | despair |  
+| bip_39_word_dash_10 | despair-edit-supreme-coast-fame-supreme-peanut-define-neutral-side |  
+| bip_39_word_dash_11 | despair-edit-supreme-coast-fame-supreme-peanut-define-neutral-side-glow |  
+| bip_39_word_dash_12 | despair-edit-supreme-coast-fame-supreme-peanut-define-neutral-side-glow-across |  
+| bip_39_word_dash_2 | despair-edit |  
+| bip_39_word_dash_3 | despair-edit-supreme |  
+| bip_39_word_dash_4 | despair-edit-supreme-coast |  
+| bip_39_word_dash_5 | despair-edit-supreme-coast-fame |  
+| bip_39_word_dash_6 | despair-edit-supreme-coast-fame-supreme |  
+| bip_39_word_dash_7 | despair-edit-supreme-coast-fame-supreme-peanut |  
+| bip_39_word_dash_8 | despair-edit-supreme-coast-fame-supreme-peanut-define |  
+| bip_39_word_dash_9 | despair-edit-supreme-coast-fame-supreme-peanut-define-neutral |  
 | bip_39_word_new_br_1 | despair |  
 | bip_39_word_new_br_10 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side |  
 | bip_39_word_new_br_11 | despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side<br>glow |  
@@ -147,6 +159,18 @@ neutral |
 | bip_39_word_space_7 | despair edit supreme coast fame supreme peanut |  
 | bip_39_word_space_8 | despair edit supreme coast fame supreme peanut define |  
 | bip_39_word_space_9 | despair edit supreme coast fame supreme peanut define neutral |  
+| bip_39_word_underscore_1 | despair |  
+| bip_39_word_underscore_10 | despair_edit_supreme_coast_fame_supreme_peanut_define_neutral_side |  
+| bip_39_word_underscore_11 | despair_edit_supreme_coast_fame_supreme_peanut_define_neutral_side_glow |  
+| bip_39_word_underscore_12 | despair_edit_supreme_coast_fame_supreme_peanut_define_neutral_side_glow_across |  
+| bip_39_word_underscore_2 | despair_edit |  
+| bip_39_word_underscore_3 | despair_edit_supreme |  
+| bip_39_word_underscore_4 | despair_edit_supreme_coast |  
+| bip_39_word_underscore_5 | despair_edit_supreme_coast_fame |  
+| bip_39_word_underscore_6 | despair_edit_supreme_coast_fame_supreme |  
+| bip_39_word_underscore_7 | despair_edit_supreme_coast_fame_supreme_peanut |  
+| bip_39_word_underscore_8 | despair_edit_supreme_coast_fame_supreme_peanut_define |  
+| bip_39_word_underscore_9 | despair_edit_supreme_coast_fame_supreme_peanut_define_neutral |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

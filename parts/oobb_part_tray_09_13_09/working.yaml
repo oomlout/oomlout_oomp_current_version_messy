@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tree
+bip_39_word_dash_10: tree-move-turtle-unable-dutch-ketchup-birth-shine-pistol-birth
+bip_39_word_dash_11: tree-move-turtle-unable-dutch-ketchup-birth-shine-pistol-birth-anchor
+bip_39_word_dash_12: tree-move-turtle-unable-dutch-ketchup-birth-shine-pistol-birth-anchor-author
+bip_39_word_dash_2: tree-move
+bip_39_word_dash_3: tree-move-turtle
+bip_39_word_dash_4: tree-move-turtle-unable
+bip_39_word_dash_5: tree-move-turtle-unable-dutch
+bip_39_word_dash_6: tree-move-turtle-unable-dutch-ketchup
+bip_39_word_dash_7: tree-move-turtle-unable-dutch-ketchup-birth
+bip_39_word_dash_8: tree-move-turtle-unable-dutch-ketchup-birth-shine
+bip_39_word_dash_9: tree-move-turtle-unable-dutch-ketchup-birth-shine-pistol
 bip_39_word_new_br_1: tree
 bip_39_word_new_br_10: tree<br>move<br>turtle<br>unable<br>dutch<br>ketchup<br>birth<br>shine<br>pistol<br>birth
 bip_39_word_new_br_11: tree<br>move<br>turtle<br>unable<br>dutch<br>ketchup<br>birth<br>shine<br>pistol<br>birth<br>anchor
@@ -193,6 +205,18 @@ bip_39_word_space_6: tree move turtle unable dutch ketchup
 bip_39_word_space_7: tree move turtle unable dutch ketchup birth
 bip_39_word_space_8: tree move turtle unable dutch ketchup birth shine
 bip_39_word_space_9: tree move turtle unable dutch ketchup birth shine pistol
+bip_39_word_underscore_1: tree
+bip_39_word_underscore_10: tree_move_turtle_unable_dutch_ketchup_birth_shine_pistol_birth
+bip_39_word_underscore_11: tree_move_turtle_unable_dutch_ketchup_birth_shine_pistol_birth_anchor
+bip_39_word_underscore_12: tree_move_turtle_unable_dutch_ketchup_birth_shine_pistol_birth_anchor_author
+bip_39_word_underscore_2: tree_move
+bip_39_word_underscore_3: tree_move_turtle
+bip_39_word_underscore_4: tree_move_turtle_unable
+bip_39_word_underscore_5: tree_move_turtle_unable_dutch
+bip_39_word_underscore_6: tree_move_turtle_unable_dutch_ketchup
+bip_39_word_underscore_7: tree_move_turtle_unable_dutch_ketchup_birth
+bip_39_word_underscore_8: tree_move_turtle_unable_dutch_ketchup_birth_shine
+bip_39_word_underscore_9: tree_move_turtle_unable_dutch_ketchup_birth_shine_pistol
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | embody |  
+| bip_39_word_dash_10 | embody-obey-solution-rent-crop-leader-bounce-abandon-tongue-quiz |  
+| bip_39_word_dash_11 | embody-obey-solution-rent-crop-leader-bounce-abandon-tongue-quiz-head |  
+| bip_39_word_dash_12 | embody-obey-solution-rent-crop-leader-bounce-abandon-tongue-quiz-head-any |  
+| bip_39_word_dash_2 | embody-obey |  
+| bip_39_word_dash_3 | embody-obey-solution |  
+| bip_39_word_dash_4 | embody-obey-solution-rent |  
+| bip_39_word_dash_5 | embody-obey-solution-rent-crop |  
+| bip_39_word_dash_6 | embody-obey-solution-rent-crop-leader |  
+| bip_39_word_dash_7 | embody-obey-solution-rent-crop-leader-bounce |  
+| bip_39_word_dash_8 | embody-obey-solution-rent-crop-leader-bounce-abandon |  
+| bip_39_word_dash_9 | embody-obey-solution-rent-crop-leader-bounce-abandon-tongue |  
 | bip_39_word_new_br_1 | embody |  
 | bip_39_word_new_br_10 | embody<br>obey<br>solution<br>rent<br>crop<br>leader<br>bounce<br>abandon<br>tongue<br>quiz |  
 | bip_39_word_new_br_11 | embody<br>obey<br>solution<br>rent<br>crop<br>leader<br>bounce<br>abandon<br>tongue<br>quiz<br>head |  
@@ -147,6 +159,18 @@ tongue |
 | bip_39_word_space_7 | embody obey solution rent crop leader bounce |  
 | bip_39_word_space_8 | embody obey solution rent crop leader bounce abandon |  
 | bip_39_word_space_9 | embody obey solution rent crop leader bounce abandon tongue |  
+| bip_39_word_underscore_1 | embody |  
+| bip_39_word_underscore_10 | embody_obey_solution_rent_crop_leader_bounce_abandon_tongue_quiz |  
+| bip_39_word_underscore_11 | embody_obey_solution_rent_crop_leader_bounce_abandon_tongue_quiz_head |  
+| bip_39_word_underscore_12 | embody_obey_solution_rent_crop_leader_bounce_abandon_tongue_quiz_head_any |  
+| bip_39_word_underscore_2 | embody_obey |  
+| bip_39_word_underscore_3 | embody_obey_solution |  
+| bip_39_word_underscore_4 | embody_obey_solution_rent |  
+| bip_39_word_underscore_5 | embody_obey_solution_rent_crop |  
+| bip_39_word_underscore_6 | embody_obey_solution_rent_crop_leader |  
+| bip_39_word_underscore_7 | embody_obey_solution_rent_crop_leader_bounce |  
+| bip_39_word_underscore_8 | embody_obey_solution_rent_crop_leader_bounce_abandon |  
+| bip_39_word_underscore_9 | embody_obey_solution_rent_crop_leader_bounce_abandon_tongue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

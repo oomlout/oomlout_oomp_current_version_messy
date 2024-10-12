@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stick
+bip_39_word_dash_10: stick-matrix-deny-wing-open-wrap-rib-rare-dwarf-system
+bip_39_word_dash_11: stick-matrix-deny-wing-open-wrap-rib-rare-dwarf-system-sister
+bip_39_word_dash_12: stick-matrix-deny-wing-open-wrap-rib-rare-dwarf-system-sister-armed
+bip_39_word_dash_2: stick-matrix
+bip_39_word_dash_3: stick-matrix-deny
+bip_39_word_dash_4: stick-matrix-deny-wing
+bip_39_word_dash_5: stick-matrix-deny-wing-open
+bip_39_word_dash_6: stick-matrix-deny-wing-open-wrap
+bip_39_word_dash_7: stick-matrix-deny-wing-open-wrap-rib
+bip_39_word_dash_8: stick-matrix-deny-wing-open-wrap-rib-rare
+bip_39_word_dash_9: stick-matrix-deny-wing-open-wrap-rib-rare-dwarf
 bip_39_word_new_br_1: stick
 bip_39_word_new_br_10: stick<br>matrix<br>deny<br>wing<br>open<br>wrap<br>rib<br>rare<br>dwarf<br>system
 bip_39_word_new_br_11: stick<br>matrix<br>deny<br>wing<br>open<br>wrap<br>rib<br>rare<br>dwarf<br>system<br>sister
@@ -192,6 +204,18 @@ bip_39_word_space_6: stick matrix deny wing open wrap
 bip_39_word_space_7: stick matrix deny wing open wrap rib
 bip_39_word_space_8: stick matrix deny wing open wrap rib rare
 bip_39_word_space_9: stick matrix deny wing open wrap rib rare dwarf
+bip_39_word_underscore_1: stick
+bip_39_word_underscore_10: stick_matrix_deny_wing_open_wrap_rib_rare_dwarf_system
+bip_39_word_underscore_11: stick_matrix_deny_wing_open_wrap_rib_rare_dwarf_system_sister
+bip_39_word_underscore_12: stick_matrix_deny_wing_open_wrap_rib_rare_dwarf_system_sister_armed
+bip_39_word_underscore_2: stick_matrix
+bip_39_word_underscore_3: stick_matrix_deny
+bip_39_word_underscore_4: stick_matrix_deny_wing
+bip_39_word_underscore_5: stick_matrix_deny_wing_open
+bip_39_word_underscore_6: stick_matrix_deny_wing_open_wrap
+bip_39_word_underscore_7: stick_matrix_deny_wing_open_wrap_rib
+bip_39_word_underscore_8: stick_matrix_deny_wing_open_wrap_rib_rare
+bip_39_word_underscore_9: stick_matrix_deny_wing_open_wrap_rib_rare_dwarf
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wire |  
+| bip_39_word_dash_10 | wire-refuse-solar-pink-link-accident-icon-deputy-enlist-express |  
+| bip_39_word_dash_11 | wire-refuse-solar-pink-link-accident-icon-deputy-enlist-express-abandon |  
+| bip_39_word_dash_12 | wire-refuse-solar-pink-link-accident-icon-deputy-enlist-express-abandon-any |  
+| bip_39_word_dash_2 | wire-refuse |  
+| bip_39_word_dash_3 | wire-refuse-solar |  
+| bip_39_word_dash_4 | wire-refuse-solar-pink |  
+| bip_39_word_dash_5 | wire-refuse-solar-pink-link |  
+| bip_39_word_dash_6 | wire-refuse-solar-pink-link-accident |  
+| bip_39_word_dash_7 | wire-refuse-solar-pink-link-accident-icon |  
+| bip_39_word_dash_8 | wire-refuse-solar-pink-link-accident-icon-deputy |  
+| bip_39_word_dash_9 | wire-refuse-solar-pink-link-accident-icon-deputy-enlist |  
 | bip_39_word_new_br_1 | wire |  
 | bip_39_word_new_br_10 | wire<br>refuse<br>solar<br>pink<br>link<br>accident<br>icon<br>deputy<br>enlist<br>express |  
 | bip_39_word_new_br_11 | wire<br>refuse<br>solar<br>pink<br>link<br>accident<br>icon<br>deputy<br>enlist<br>express<br>abandon |  
@@ -147,6 +159,18 @@ enlist |
 | bip_39_word_space_7 | wire refuse solar pink link accident icon |  
 | bip_39_word_space_8 | wire refuse solar pink link accident icon deputy |  
 | bip_39_word_space_9 | wire refuse solar pink link accident icon deputy enlist |  
+| bip_39_word_underscore_1 | wire |  
+| bip_39_word_underscore_10 | wire_refuse_solar_pink_link_accident_icon_deputy_enlist_express |  
+| bip_39_word_underscore_11 | wire_refuse_solar_pink_link_accident_icon_deputy_enlist_express_abandon |  
+| bip_39_word_underscore_12 | wire_refuse_solar_pink_link_accident_icon_deputy_enlist_express_abandon_any |  
+| bip_39_word_underscore_2 | wire_refuse |  
+| bip_39_word_underscore_3 | wire_refuse_solar |  
+| bip_39_word_underscore_4 | wire_refuse_solar_pink |  
+| bip_39_word_underscore_5 | wire_refuse_solar_pink_link |  
+| bip_39_word_underscore_6 | wire_refuse_solar_pink_link_accident |  
+| bip_39_word_underscore_7 | wire_refuse_solar_pink_link_accident_icon |  
+| bip_39_word_underscore_8 | wire_refuse_solar_pink_link_accident_icon_deputy |  
+| bip_39_word_underscore_9 | wire_refuse_solar_pink_link_accident_icon_deputy_enlist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

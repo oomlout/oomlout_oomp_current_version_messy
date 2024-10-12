@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stairs |  
+| bip_39_word_dash_10 | stairs-orbit-hollow-hello-height-knee-roof-welcome-they-evidence |  
+| bip_39_word_dash_11 | stairs-orbit-hollow-hello-height-knee-roof-welcome-they-evidence-choose |  
+| bip_39_word_dash_12 | stairs-orbit-hollow-hello-height-knee-roof-welcome-they-evidence-choose-almost |  
+| bip_39_word_dash_2 | stairs-orbit |  
+| bip_39_word_dash_3 | stairs-orbit-hollow |  
+| bip_39_word_dash_4 | stairs-orbit-hollow-hello |  
+| bip_39_word_dash_5 | stairs-orbit-hollow-hello-height |  
+| bip_39_word_dash_6 | stairs-orbit-hollow-hello-height-knee |  
+| bip_39_word_dash_7 | stairs-orbit-hollow-hello-height-knee-roof |  
+| bip_39_word_dash_8 | stairs-orbit-hollow-hello-height-knee-roof-welcome |  
+| bip_39_word_dash_9 | stairs-orbit-hollow-hello-height-knee-roof-welcome-they |  
 | bip_39_word_new_br_1 | stairs |  
 | bip_39_word_new_br_10 | stairs<br>orbit<br>hollow<br>hello<br>height<br>knee<br>roof<br>welcome<br>they<br>evidence |  
 | bip_39_word_new_br_11 | stairs<br>orbit<br>hollow<br>hello<br>height<br>knee<br>roof<br>welcome<br>they<br>evidence<br>choose |  
@@ -147,6 +159,18 @@ they |
 | bip_39_word_space_7 | stairs orbit hollow hello height knee roof |  
 | bip_39_word_space_8 | stairs orbit hollow hello height knee roof welcome |  
 | bip_39_word_space_9 | stairs orbit hollow hello height knee roof welcome they |  
+| bip_39_word_underscore_1 | stairs |  
+| bip_39_word_underscore_10 | stairs_orbit_hollow_hello_height_knee_roof_welcome_they_evidence |  
+| bip_39_word_underscore_11 | stairs_orbit_hollow_hello_height_knee_roof_welcome_they_evidence_choose |  
+| bip_39_word_underscore_12 | stairs_orbit_hollow_hello_height_knee_roof_welcome_they_evidence_choose_almost |  
+| bip_39_word_underscore_2 | stairs_orbit |  
+| bip_39_word_underscore_3 | stairs_orbit_hollow |  
+| bip_39_word_underscore_4 | stairs_orbit_hollow_hello |  
+| bip_39_word_underscore_5 | stairs_orbit_hollow_hello_height |  
+| bip_39_word_underscore_6 | stairs_orbit_hollow_hello_height_knee |  
+| bip_39_word_underscore_7 | stairs_orbit_hollow_hello_height_knee_roof |  
+| bip_39_word_underscore_8 | stairs_orbit_hollow_hello_height_knee_roof_welcome |  
+| bip_39_word_underscore_9 | stairs_orbit_hollow_hello_height_knee_roof_welcome_they |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

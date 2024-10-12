@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enhance |  
+| bip_39_word_dash_10 | enhance-bounce-cannon-predict-build-magic-drip-orbit-virtual-grape |  
+| bip_39_word_dash_11 | enhance-bounce-cannon-predict-build-magic-drip-orbit-virtual-grape-design |  
+| bip_39_word_dash_12 | enhance-bounce-cannon-predict-build-magic-drip-orbit-virtual-grape-design-attack |  
+| bip_39_word_dash_2 | enhance-bounce |  
+| bip_39_word_dash_3 | enhance-bounce-cannon |  
+| bip_39_word_dash_4 | enhance-bounce-cannon-predict |  
+| bip_39_word_dash_5 | enhance-bounce-cannon-predict-build |  
+| bip_39_word_dash_6 | enhance-bounce-cannon-predict-build-magic |  
+| bip_39_word_dash_7 | enhance-bounce-cannon-predict-build-magic-drip |  
+| bip_39_word_dash_8 | enhance-bounce-cannon-predict-build-magic-drip-orbit |  
+| bip_39_word_dash_9 | enhance-bounce-cannon-predict-build-magic-drip-orbit-virtual |  
 | bip_39_word_new_br_1 | enhance |  
 | bip_39_word_new_br_10 | enhance<br>bounce<br>cannon<br>predict<br>build<br>magic<br>drip<br>orbit<br>virtual<br>grape |  
 | bip_39_word_new_br_11 | enhance<br>bounce<br>cannon<br>predict<br>build<br>magic<br>drip<br>orbit<br>virtual<br>grape<br>design |  
@@ -147,6 +159,18 @@ virtual |
 | bip_39_word_space_7 | enhance bounce cannon predict build magic drip |  
 | bip_39_word_space_8 | enhance bounce cannon predict build magic drip orbit |  
 | bip_39_word_space_9 | enhance bounce cannon predict build magic drip orbit virtual |  
+| bip_39_word_underscore_1 | enhance |  
+| bip_39_word_underscore_10 | enhance_bounce_cannon_predict_build_magic_drip_orbit_virtual_grape |  
+| bip_39_word_underscore_11 | enhance_bounce_cannon_predict_build_magic_drip_orbit_virtual_grape_design |  
+| bip_39_word_underscore_12 | enhance_bounce_cannon_predict_build_magic_drip_orbit_virtual_grape_design_attack |  
+| bip_39_word_underscore_2 | enhance_bounce |  
+| bip_39_word_underscore_3 | enhance_bounce_cannon |  
+| bip_39_word_underscore_4 | enhance_bounce_cannon_predict |  
+| bip_39_word_underscore_5 | enhance_bounce_cannon_predict_build |  
+| bip_39_word_underscore_6 | enhance_bounce_cannon_predict_build_magic |  
+| bip_39_word_underscore_7 | enhance_bounce_cannon_predict_build_magic_drip |  
+| bip_39_word_underscore_8 | enhance_bounce_cannon_predict_build_magic_drip_orbit |  
+| bip_39_word_underscore_9 | enhance_bounce_cannon_predict_build_magic_drip_orbit_virtual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

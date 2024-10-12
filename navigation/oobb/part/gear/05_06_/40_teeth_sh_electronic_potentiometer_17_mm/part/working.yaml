@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ethics
+bip_39_word_dash_10: ethics-spawn-recall-fame-spice-left-stumble-obey-ethics-crowd
+bip_39_word_dash_11: ethics-spawn-recall-fame-spice-left-stumble-obey-ethics-crowd-enable
+bip_39_word_dash_12: ethics-spawn-recall-fame-spice-left-stumble-obey-ethics-crowd-enable-abuse
+bip_39_word_dash_2: ethics-spawn
+bip_39_word_dash_3: ethics-spawn-recall
+bip_39_word_dash_4: ethics-spawn-recall-fame
+bip_39_word_dash_5: ethics-spawn-recall-fame-spice
+bip_39_word_dash_6: ethics-spawn-recall-fame-spice-left
+bip_39_word_dash_7: ethics-spawn-recall-fame-spice-left-stumble
+bip_39_word_dash_8: ethics-spawn-recall-fame-spice-left-stumble-obey
+bip_39_word_dash_9: ethics-spawn-recall-fame-spice-left-stumble-obey-ethics
 bip_39_word_new_br_1: ethics
 bip_39_word_new_br_10: ethics<br>spawn<br>recall<br>fame<br>spice<br>left<br>stumble<br>obey<br>ethics<br>crowd
 bip_39_word_new_br_11: ethics<br>spawn<br>recall<br>fame<br>spice<br>left<br>stumble<br>obey<br>ethics<br>crowd<br>enable
@@ -193,6 +205,18 @@ bip_39_word_space_6: ethics spawn recall fame spice left
 bip_39_word_space_7: ethics spawn recall fame spice left stumble
 bip_39_word_space_8: ethics spawn recall fame spice left stumble obey
 bip_39_word_space_9: ethics spawn recall fame spice left stumble obey ethics
+bip_39_word_underscore_1: ethics
+bip_39_word_underscore_10: ethics_spawn_recall_fame_spice_left_stumble_obey_ethics_crowd
+bip_39_word_underscore_11: ethics_spawn_recall_fame_spice_left_stumble_obey_ethics_crowd_enable
+bip_39_word_underscore_12: ethics_spawn_recall_fame_spice_left_stumble_obey_ethics_crowd_enable_abuse
+bip_39_word_underscore_2: ethics_spawn
+bip_39_word_underscore_3: ethics_spawn_recall
+bip_39_word_underscore_4: ethics_spawn_recall_fame
+bip_39_word_underscore_5: ethics_spawn_recall_fame_spice
+bip_39_word_underscore_6: ethics_spawn_recall_fame_spice_left
+bip_39_word_underscore_7: ethics_spawn_recall_fame_spice_left_stumble
+bip_39_word_underscore_8: ethics_spawn_recall_fame_spice_left_stumble_obey
+bip_39_word_underscore_9: ethics_spawn_recall_fame_spice_left_stumble_obey_ethics
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

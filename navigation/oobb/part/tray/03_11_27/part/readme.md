@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | minor |  
+| bip_39_word_dash_10 | minor-lend-soldier-buyer-major-metal-creek-fat-junior-fuel |  
+| bip_39_word_dash_11 | minor-lend-soldier-buyer-major-metal-creek-fat-junior-fuel-festival |  
+| bip_39_word_dash_12 | minor-lend-soldier-buyer-major-metal-creek-fat-junior-fuel-festival-armor |  
+| bip_39_word_dash_2 | minor-lend |  
+| bip_39_word_dash_3 | minor-lend-soldier |  
+| bip_39_word_dash_4 | minor-lend-soldier-buyer |  
+| bip_39_word_dash_5 | minor-lend-soldier-buyer-major |  
+| bip_39_word_dash_6 | minor-lend-soldier-buyer-major-metal |  
+| bip_39_word_dash_7 | minor-lend-soldier-buyer-major-metal-creek |  
+| bip_39_word_dash_8 | minor-lend-soldier-buyer-major-metal-creek-fat |  
+| bip_39_word_dash_9 | minor-lend-soldier-buyer-major-metal-creek-fat-junior |  
 | bip_39_word_new_br_1 | minor |  
 | bip_39_word_new_br_10 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat<br>junior<br>fuel |  
 | bip_39_word_new_br_11 | minor<br>lend<br>soldier<br>buyer<br>major<br>metal<br>creek<br>fat<br>junior<br>fuel<br>festival |  
@@ -147,6 +159,18 @@ junior |
 | bip_39_word_space_7 | minor lend soldier buyer major metal creek |  
 | bip_39_word_space_8 | minor lend soldier buyer major metal creek fat |  
 | bip_39_word_space_9 | minor lend soldier buyer major metal creek fat junior |  
+| bip_39_word_underscore_1 | minor |  
+| bip_39_word_underscore_10 | minor_lend_soldier_buyer_major_metal_creek_fat_junior_fuel |  
+| bip_39_word_underscore_11 | minor_lend_soldier_buyer_major_metal_creek_fat_junior_fuel_festival |  
+| bip_39_word_underscore_12 | minor_lend_soldier_buyer_major_metal_creek_fat_junior_fuel_festival_armor |  
+| bip_39_word_underscore_2 | minor_lend |  
+| bip_39_word_underscore_3 | minor_lend_soldier |  
+| bip_39_word_underscore_4 | minor_lend_soldier_buyer |  
+| bip_39_word_underscore_5 | minor_lend_soldier_buyer_major |  
+| bip_39_word_underscore_6 | minor_lend_soldier_buyer_major_metal |  
+| bip_39_word_underscore_7 | minor_lend_soldier_buyer_major_metal_creek |  
+| bip_39_word_underscore_8 | minor_lend_soldier_buyer_major_metal_creek_fat |  
+| bip_39_word_underscore_9 | minor_lend_soldier_buyer_major_metal_creek_fat_junior |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

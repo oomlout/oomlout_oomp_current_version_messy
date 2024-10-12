@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | effort |  
+| bip_39_word_dash_10 | effort-venture-cliff-castle-edge-betray-ice-example-twin-day |  
+| bip_39_word_dash_11 | effort-venture-cliff-castle-edge-betray-ice-example-twin-day-rude |  
+| bip_39_word_dash_12 | effort-venture-cliff-castle-edge-betray-ice-example-twin-day-rude-arctic |  
+| bip_39_word_dash_2 | effort-venture |  
+| bip_39_word_dash_3 | effort-venture-cliff |  
+| bip_39_word_dash_4 | effort-venture-cliff-castle |  
+| bip_39_word_dash_5 | effort-venture-cliff-castle-edge |  
+| bip_39_word_dash_6 | effort-venture-cliff-castle-edge-betray |  
+| bip_39_word_dash_7 | effort-venture-cliff-castle-edge-betray-ice |  
+| bip_39_word_dash_8 | effort-venture-cliff-castle-edge-betray-ice-example |  
+| bip_39_word_dash_9 | effort-venture-cliff-castle-edge-betray-ice-example-twin |  
 | bip_39_word_new_br_1 | effort |  
 | bip_39_word_new_br_10 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day |  
 | bip_39_word_new_br_11 | effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day<br>rude |  
@@ -147,6 +159,18 @@ twin |
 | bip_39_word_space_7 | effort venture cliff castle edge betray ice |  
 | bip_39_word_space_8 | effort venture cliff castle edge betray ice example |  
 | bip_39_word_space_9 | effort venture cliff castle edge betray ice example twin |  
+| bip_39_word_underscore_1 | effort |  
+| bip_39_word_underscore_10 | effort_venture_cliff_castle_edge_betray_ice_example_twin_day |  
+| bip_39_word_underscore_11 | effort_venture_cliff_castle_edge_betray_ice_example_twin_day_rude |  
+| bip_39_word_underscore_12 | effort_venture_cliff_castle_edge_betray_ice_example_twin_day_rude_arctic |  
+| bip_39_word_underscore_2 | effort_venture |  
+| bip_39_word_underscore_3 | effort_venture_cliff |  
+| bip_39_word_underscore_4 | effort_venture_cliff_castle |  
+| bip_39_word_underscore_5 | effort_venture_cliff_castle_edge |  
+| bip_39_word_underscore_6 | effort_venture_cliff_castle_edge_betray |  
+| bip_39_word_underscore_7 | effort_venture_cliff_castle_edge_betray_ice |  
+| bip_39_word_underscore_8 | effort_venture_cliff_castle_edge_betray_ice_example |  
+| bip_39_word_underscore_9 | effort_venture_cliff_castle_edge_betray_ice_example_twin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

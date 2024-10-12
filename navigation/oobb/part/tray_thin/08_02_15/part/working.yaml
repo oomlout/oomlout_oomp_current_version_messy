@@ -1,3 +1,15 @@
+bip_39_word_dash_1: normal
+bip_39_word_dash_10: normal-adult-gate-already-message-inherit-top-office-fatigue-voice
+bip_39_word_dash_11: normal-adult-gate-already-message-inherit-top-office-fatigue-voice-upon
+bip_39_word_dash_12: normal-adult-gate-already-message-inherit-top-office-fatigue-voice-upon-alien
+bip_39_word_dash_2: normal-adult
+bip_39_word_dash_3: normal-adult-gate
+bip_39_word_dash_4: normal-adult-gate-already
+bip_39_word_dash_5: normal-adult-gate-already-message
+bip_39_word_dash_6: normal-adult-gate-already-message-inherit
+bip_39_word_dash_7: normal-adult-gate-already-message-inherit-top
+bip_39_word_dash_8: normal-adult-gate-already-message-inherit-top-office
+bip_39_word_dash_9: normal-adult-gate-already-message-inherit-top-office-fatigue
 bip_39_word_new_br_1: normal
 bip_39_word_new_br_10: normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice
 bip_39_word_new_br_11: normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice<br>upon
@@ -194,6 +206,18 @@ bip_39_word_space_6: normal adult gate already message inherit
 bip_39_word_space_7: normal adult gate already message inherit top
 bip_39_word_space_8: normal adult gate already message inherit top office
 bip_39_word_space_9: normal adult gate already message inherit top office fatigue
+bip_39_word_underscore_1: normal
+bip_39_word_underscore_10: normal_adult_gate_already_message_inherit_top_office_fatigue_voice
+bip_39_word_underscore_11: normal_adult_gate_already_message_inherit_top_office_fatigue_voice_upon
+bip_39_word_underscore_12: normal_adult_gate_already_message_inherit_top_office_fatigue_voice_upon_alien
+bip_39_word_underscore_2: normal_adult
+bip_39_word_underscore_3: normal_adult_gate
+bip_39_word_underscore_4: normal_adult_gate_already
+bip_39_word_underscore_5: normal_adult_gate_already_message
+bip_39_word_underscore_6: normal_adult_gate_already_message_inherit
+bip_39_word_underscore_7: normal_adult_gate_already_message_inherit_top
+bip_39_word_underscore_8: normal_adult_gate_already_message_inherit_top_office
+bip_39_word_underscore_9: normal_adult_gate_already_message_inherit_top_office_fatigue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

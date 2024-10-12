@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chimney
+bip_39_word_dash_10: chimney-grab-entry-trash-door-forest-window-milk-awkward-awkward
+bip_39_word_dash_11: chimney-grab-entry-trash-door-forest-window-milk-awkward-awkward-enter
+bip_39_word_dash_12: chimney-grab-entry-trash-door-forest-window-milk-awkward-awkward-enter-another
+bip_39_word_dash_2: chimney-grab
+bip_39_word_dash_3: chimney-grab-entry
+bip_39_word_dash_4: chimney-grab-entry-trash
+bip_39_word_dash_5: chimney-grab-entry-trash-door
+bip_39_word_dash_6: chimney-grab-entry-trash-door-forest
+bip_39_word_dash_7: chimney-grab-entry-trash-door-forest-window
+bip_39_word_dash_8: chimney-grab-entry-trash-door-forest-window-milk
+bip_39_word_dash_9: chimney-grab-entry-trash-door-forest-window-milk-awkward
 bip_39_word_new_br_1: chimney
 bip_39_word_new_br_10: chimney<br>grab<br>entry<br>trash<br>door<br>forest<br>window<br>milk<br>awkward<br>awkward
 bip_39_word_new_br_11: chimney<br>grab<br>entry<br>trash<br>door<br>forest<br>window<br>milk<br>awkward<br>awkward<br>enter
@@ -193,6 +205,18 @@ bip_39_word_space_6: chimney grab entry trash door forest
 bip_39_word_space_7: chimney grab entry trash door forest window
 bip_39_word_space_8: chimney grab entry trash door forest window milk
 bip_39_word_space_9: chimney grab entry trash door forest window milk awkward
+bip_39_word_underscore_1: chimney
+bip_39_word_underscore_10: chimney_grab_entry_trash_door_forest_window_milk_awkward_awkward
+bip_39_word_underscore_11: chimney_grab_entry_trash_door_forest_window_milk_awkward_awkward_enter
+bip_39_word_underscore_12: chimney_grab_entry_trash_door_forest_window_milk_awkward_awkward_enter_another
+bip_39_word_underscore_2: chimney_grab
+bip_39_word_underscore_3: chimney_grab_entry
+bip_39_word_underscore_4: chimney_grab_entry_trash
+bip_39_word_underscore_5: chimney_grab_entry_trash_door
+bip_39_word_underscore_6: chimney_grab_entry_trash_door_forest
+bip_39_word_underscore_7: chimney_grab_entry_trash_door_forest_window
+bip_39_word_underscore_8: chimney_grab_entry_trash_door_forest_window_milk
+bip_39_word_underscore_9: chimney_grab_entry_trash_door_forest_window_milk_awkward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: furnace
+bip_39_word_dash_10: furnace-symptom-green-attack-wrestle-rural-write-time-sugar-hungry
+bip_39_word_dash_11: furnace-symptom-green-attack-wrestle-rural-write-time-sugar-hungry-pig
+bip_39_word_dash_12: furnace-symptom-green-attack-wrestle-rural-write-time-sugar-hungry-pig-alley
+bip_39_word_dash_2: furnace-symptom
+bip_39_word_dash_3: furnace-symptom-green
+bip_39_word_dash_4: furnace-symptom-green-attack
+bip_39_word_dash_5: furnace-symptom-green-attack-wrestle
+bip_39_word_dash_6: furnace-symptom-green-attack-wrestle-rural
+bip_39_word_dash_7: furnace-symptom-green-attack-wrestle-rural-write
+bip_39_word_dash_8: furnace-symptom-green-attack-wrestle-rural-write-time
+bip_39_word_dash_9: furnace-symptom-green-attack-wrestle-rural-write-time-sugar
 bip_39_word_new_br_1: furnace
 bip_39_word_new_br_10: furnace<br>symptom<br>green<br>attack<br>wrestle<br>rural<br>write<br>time<br>sugar<br>hungry
 bip_39_word_new_br_11: furnace<br>symptom<br>green<br>attack<br>wrestle<br>rural<br>write<br>time<br>sugar<br>hungry<br>pig
@@ -194,6 +206,18 @@ bip_39_word_space_6: furnace symptom green attack wrestle rural
 bip_39_word_space_7: furnace symptom green attack wrestle rural write
 bip_39_word_space_8: furnace symptom green attack wrestle rural write time
 bip_39_word_space_9: furnace symptom green attack wrestle rural write time sugar
+bip_39_word_underscore_1: furnace
+bip_39_word_underscore_10: furnace_symptom_green_attack_wrestle_rural_write_time_sugar_hungry
+bip_39_word_underscore_11: furnace_symptom_green_attack_wrestle_rural_write_time_sugar_hungry_pig
+bip_39_word_underscore_12: furnace_symptom_green_attack_wrestle_rural_write_time_sugar_hungry_pig_alley
+bip_39_word_underscore_2: furnace_symptom
+bip_39_word_underscore_3: furnace_symptom_green
+bip_39_word_underscore_4: furnace_symptom_green_attack
+bip_39_word_underscore_5: furnace_symptom_green_attack_wrestle
+bip_39_word_underscore_6: furnace_symptom_green_attack_wrestle_rural
+bip_39_word_underscore_7: furnace_symptom_green_attack_wrestle_rural_write
+bip_39_word_underscore_8: furnace_symptom_green_attack_wrestle_rural_write_time
+bip_39_word_underscore_9: furnace_symptom_green_attack_wrestle_rural_write_time_sugar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

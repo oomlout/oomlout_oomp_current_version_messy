@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | educate |  
+| bip_39_word_dash_10 | educate-lonely-radio-fee-cereal-reopen-brisk-regular-stereo-rural |  
+| bip_39_word_dash_11 | educate-lonely-radio-fee-cereal-reopen-brisk-regular-stereo-rural-social |  
+| bip_39_word_dash_12 | educate-lonely-radio-fee-cereal-reopen-brisk-regular-stereo-rural-social-address |  
+| bip_39_word_dash_2 | educate-lonely |  
+| bip_39_word_dash_3 | educate-lonely-radio |  
+| bip_39_word_dash_4 | educate-lonely-radio-fee |  
+| bip_39_word_dash_5 | educate-lonely-radio-fee-cereal |  
+| bip_39_word_dash_6 | educate-lonely-radio-fee-cereal-reopen |  
+| bip_39_word_dash_7 | educate-lonely-radio-fee-cereal-reopen-brisk |  
+| bip_39_word_dash_8 | educate-lonely-radio-fee-cereal-reopen-brisk-regular |  
+| bip_39_word_dash_9 | educate-lonely-radio-fee-cereal-reopen-brisk-regular-stereo |  
 | bip_39_word_new_br_1 | educate |  
 | bip_39_word_new_br_10 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular<br>stereo<br>rural |  
 | bip_39_word_new_br_11 | educate<br>lonely<br>radio<br>fee<br>cereal<br>reopen<br>brisk<br>regular<br>stereo<br>rural<br>social |  
@@ -147,6 +159,18 @@ stereo |
 | bip_39_word_space_7 | educate lonely radio fee cereal reopen brisk |  
 | bip_39_word_space_8 | educate lonely radio fee cereal reopen brisk regular |  
 | bip_39_word_space_9 | educate lonely radio fee cereal reopen brisk regular stereo |  
+| bip_39_word_underscore_1 | educate |  
+| bip_39_word_underscore_10 | educate_lonely_radio_fee_cereal_reopen_brisk_regular_stereo_rural |  
+| bip_39_word_underscore_11 | educate_lonely_radio_fee_cereal_reopen_brisk_regular_stereo_rural_social |  
+| bip_39_word_underscore_12 | educate_lonely_radio_fee_cereal_reopen_brisk_regular_stereo_rural_social_address |  
+| bip_39_word_underscore_2 | educate_lonely |  
+| bip_39_word_underscore_3 | educate_lonely_radio |  
+| bip_39_word_underscore_4 | educate_lonely_radio_fee |  
+| bip_39_word_underscore_5 | educate_lonely_radio_fee_cereal |  
+| bip_39_word_underscore_6 | educate_lonely_radio_fee_cereal_reopen |  
+| bip_39_word_underscore_7 | educate_lonely_radio_fee_cereal_reopen_brisk |  
+| bip_39_word_underscore_8 | educate_lonely_radio_fee_cereal_reopen_brisk_regular |  
+| bip_39_word_underscore_9 | educate_lonely_radio_fee_cereal_reopen_brisk_regular_stereo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

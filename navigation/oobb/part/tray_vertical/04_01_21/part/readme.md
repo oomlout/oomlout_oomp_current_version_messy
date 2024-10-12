@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chief |  
+| bip_39_word_dash_10 | chief-upon-sheriff-heavy-wise-cheese-recycle-master-actress-dragon |  
+| bip_39_word_dash_11 | chief-upon-sheriff-heavy-wise-cheese-recycle-master-actress-dragon-fantasy |  
+| bip_39_word_dash_12 | chief-upon-sheriff-heavy-wise-cheese-recycle-master-actress-dragon-fantasy-acoustic |  
+| bip_39_word_dash_2 | chief-upon |  
+| bip_39_word_dash_3 | chief-upon-sheriff |  
+| bip_39_word_dash_4 | chief-upon-sheriff-heavy |  
+| bip_39_word_dash_5 | chief-upon-sheriff-heavy-wise |  
+| bip_39_word_dash_6 | chief-upon-sheriff-heavy-wise-cheese |  
+| bip_39_word_dash_7 | chief-upon-sheriff-heavy-wise-cheese-recycle |  
+| bip_39_word_dash_8 | chief-upon-sheriff-heavy-wise-cheese-recycle-master |  
+| bip_39_word_dash_9 | chief-upon-sheriff-heavy-wise-cheese-recycle-master-actress |  
 | bip_39_word_new_br_1 | chief |  
 | bip_39_word_new_br_10 | chief<br>upon<br>sheriff<br>heavy<br>wise<br>cheese<br>recycle<br>master<br>actress<br>dragon |  
 | bip_39_word_new_br_11 | chief<br>upon<br>sheriff<br>heavy<br>wise<br>cheese<br>recycle<br>master<br>actress<br>dragon<br>fantasy |  
@@ -147,6 +159,18 @@ actress |
 | bip_39_word_space_7 | chief upon sheriff heavy wise cheese recycle |  
 | bip_39_word_space_8 | chief upon sheriff heavy wise cheese recycle master |  
 | bip_39_word_space_9 | chief upon sheriff heavy wise cheese recycle master actress |  
+| bip_39_word_underscore_1 | chief |  
+| bip_39_word_underscore_10 | chief_upon_sheriff_heavy_wise_cheese_recycle_master_actress_dragon |  
+| bip_39_word_underscore_11 | chief_upon_sheriff_heavy_wise_cheese_recycle_master_actress_dragon_fantasy |  
+| bip_39_word_underscore_12 | chief_upon_sheriff_heavy_wise_cheese_recycle_master_actress_dragon_fantasy_acoustic |  
+| bip_39_word_underscore_2 | chief_upon |  
+| bip_39_word_underscore_3 | chief_upon_sheriff |  
+| bip_39_word_underscore_4 | chief_upon_sheriff_heavy |  
+| bip_39_word_underscore_5 | chief_upon_sheriff_heavy_wise |  
+| bip_39_word_underscore_6 | chief_upon_sheriff_heavy_wise_cheese |  
+| bip_39_word_underscore_7 | chief_upon_sheriff_heavy_wise_cheese_recycle |  
+| bip_39_word_underscore_8 | chief_upon_sheriff_heavy_wise_cheese_recycle_master |  
+| bip_39_word_underscore_9 | chief_upon_sheriff_heavy_wise_cheese_recycle_master_actress |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

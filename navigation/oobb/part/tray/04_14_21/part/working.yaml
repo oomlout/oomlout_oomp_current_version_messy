@@ -1,3 +1,15 @@
+bip_39_word_dash_1: adult
+bip_39_word_dash_10: adult-auction-agent-mirror-source-fish-exclude-exhaust-nut-security
+bip_39_word_dash_11: adult-auction-agent-mirror-source-fish-exclude-exhaust-nut-security-limb
+bip_39_word_dash_12: adult-auction-agent-mirror-source-fish-exclude-exhaust-nut-security-limb-ask
+bip_39_word_dash_2: adult-auction
+bip_39_word_dash_3: adult-auction-agent
+bip_39_word_dash_4: adult-auction-agent-mirror
+bip_39_word_dash_5: adult-auction-agent-mirror-source
+bip_39_word_dash_6: adult-auction-agent-mirror-source-fish
+bip_39_word_dash_7: adult-auction-agent-mirror-source-fish-exclude
+bip_39_word_dash_8: adult-auction-agent-mirror-source-fish-exclude-exhaust
+bip_39_word_dash_9: adult-auction-agent-mirror-source-fish-exclude-exhaust-nut
 bip_39_word_new_br_1: adult
 bip_39_word_new_br_10: adult<br>auction<br>agent<br>mirror<br>source<br>fish<br>exclude<br>exhaust<br>nut<br>security
 bip_39_word_new_br_11: adult<br>auction<br>agent<br>mirror<br>source<br>fish<br>exclude<br>exhaust<br>nut<br>security<br>limb
@@ -193,6 +205,18 @@ bip_39_word_space_6: adult auction agent mirror source fish
 bip_39_word_space_7: adult auction agent mirror source fish exclude
 bip_39_word_space_8: adult auction agent mirror source fish exclude exhaust
 bip_39_word_space_9: adult auction agent mirror source fish exclude exhaust nut
+bip_39_word_underscore_1: adult
+bip_39_word_underscore_10: adult_auction_agent_mirror_source_fish_exclude_exhaust_nut_security
+bip_39_word_underscore_11: adult_auction_agent_mirror_source_fish_exclude_exhaust_nut_security_limb
+bip_39_word_underscore_12: adult_auction_agent_mirror_source_fish_exclude_exhaust_nut_security_limb_ask
+bip_39_word_underscore_2: adult_auction
+bip_39_word_underscore_3: adult_auction_agent
+bip_39_word_underscore_4: adult_auction_agent_mirror
+bip_39_word_underscore_5: adult_auction_agent_mirror_source
+bip_39_word_underscore_6: adult_auction_agent_mirror_source_fish
+bip_39_word_underscore_7: adult_auction_agent_mirror_source_fish_exclude
+bip_39_word_underscore_8: adult_auction_agent_mirror_source_fish_exclude_exhaust
+bip_39_word_underscore_9: adult_auction_agent_mirror_source_fish_exclude_exhaust_nut
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

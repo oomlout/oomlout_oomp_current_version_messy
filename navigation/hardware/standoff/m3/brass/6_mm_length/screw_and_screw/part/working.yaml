@@ -1,3 +1,15 @@
+bip_39_word_dash_1: talk
+bip_39_word_dash_10: talk-friend-rifle-noodle-buddy-clinic-season-jealous-fox-reunion
+bip_39_word_dash_11: talk-friend-rifle-noodle-buddy-clinic-season-jealous-fox-reunion-hire
+bip_39_word_dash_12: talk-friend-rifle-noodle-buddy-clinic-season-jealous-fox-reunion-hire-ahead
+bip_39_word_dash_2: talk-friend
+bip_39_word_dash_3: talk-friend-rifle
+bip_39_word_dash_4: talk-friend-rifle-noodle
+bip_39_word_dash_5: talk-friend-rifle-noodle-buddy
+bip_39_word_dash_6: talk-friend-rifle-noodle-buddy-clinic
+bip_39_word_dash_7: talk-friend-rifle-noodle-buddy-clinic-season
+bip_39_word_dash_8: talk-friend-rifle-noodle-buddy-clinic-season-jealous
+bip_39_word_dash_9: talk-friend-rifle-noodle-buddy-clinic-season-jealous-fox
 bip_39_word_new_br_1: talk
 bip_39_word_new_br_10: talk<br>friend<br>rifle<br>noodle<br>buddy<br>clinic<br>season<br>jealous<br>fox<br>reunion
 bip_39_word_new_br_11: talk<br>friend<br>rifle<br>noodle<br>buddy<br>clinic<br>season<br>jealous<br>fox<br>reunion<br>hire
@@ -193,6 +205,18 @@ bip_39_word_space_6: talk friend rifle noodle buddy clinic
 bip_39_word_space_7: talk friend rifle noodle buddy clinic season
 bip_39_word_space_8: talk friend rifle noodle buddy clinic season jealous
 bip_39_word_space_9: talk friend rifle noodle buddy clinic season jealous fox
+bip_39_word_underscore_1: talk
+bip_39_word_underscore_10: talk_friend_rifle_noodle_buddy_clinic_season_jealous_fox_reunion
+bip_39_word_underscore_11: talk_friend_rifle_noodle_buddy_clinic_season_jealous_fox_reunion_hire
+bip_39_word_underscore_12: talk_friend_rifle_noodle_buddy_clinic_season_jealous_fox_reunion_hire_ahead
+bip_39_word_underscore_2: talk_friend
+bip_39_word_underscore_3: talk_friend_rifle
+bip_39_word_underscore_4: talk_friend_rifle_noodle
+bip_39_word_underscore_5: talk_friend_rifle_noodle_buddy
+bip_39_word_underscore_6: talk_friend_rifle_noodle_buddy_clinic
+bip_39_word_underscore_7: talk_friend_rifle_noodle_buddy_clinic_season
+bip_39_word_underscore_8: talk_friend_rifle_noodle_buddy_clinic_season_jealous
+bip_39_word_underscore_9: talk_friend_rifle_noodle_buddy_clinic_season_jealous_fox
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chest
+bip_39_word_dash_10: chest-element-tragic-reject-fee-bitter-cup-inflict-occur-sail
+bip_39_word_dash_11: chest-element-tragic-reject-fee-bitter-cup-inflict-occur-sail-cross
+bip_39_word_dash_12: chest-element-tragic-reject-fee-bitter-cup-inflict-occur-sail-cross-auction
+bip_39_word_dash_2: chest-element
+bip_39_word_dash_3: chest-element-tragic
+bip_39_word_dash_4: chest-element-tragic-reject
+bip_39_word_dash_5: chest-element-tragic-reject-fee
+bip_39_word_dash_6: chest-element-tragic-reject-fee-bitter
+bip_39_word_dash_7: chest-element-tragic-reject-fee-bitter-cup
+bip_39_word_dash_8: chest-element-tragic-reject-fee-bitter-cup-inflict
+bip_39_word_dash_9: chest-element-tragic-reject-fee-bitter-cup-inflict-occur
 bip_39_word_new_br_1: chest
 bip_39_word_new_br_10: chest<br>element<br>tragic<br>reject<br>fee<br>bitter<br>cup<br>inflict<br>occur<br>sail
 bip_39_word_new_br_11: chest<br>element<br>tragic<br>reject<br>fee<br>bitter<br>cup<br>inflict<br>occur<br>sail<br>cross
@@ -193,6 +205,18 @@ bip_39_word_space_6: chest element tragic reject fee bitter
 bip_39_word_space_7: chest element tragic reject fee bitter cup
 bip_39_word_space_8: chest element tragic reject fee bitter cup inflict
 bip_39_word_space_9: chest element tragic reject fee bitter cup inflict occur
+bip_39_word_underscore_1: chest
+bip_39_word_underscore_10: chest_element_tragic_reject_fee_bitter_cup_inflict_occur_sail
+bip_39_word_underscore_11: chest_element_tragic_reject_fee_bitter_cup_inflict_occur_sail_cross
+bip_39_word_underscore_12: chest_element_tragic_reject_fee_bitter_cup_inflict_occur_sail_cross_auction
+bip_39_word_underscore_2: chest_element
+bip_39_word_underscore_3: chest_element_tragic
+bip_39_word_underscore_4: chest_element_tragic_reject
+bip_39_word_underscore_5: chest_element_tragic_reject_fee
+bip_39_word_underscore_6: chest_element_tragic_reject_fee_bitter
+bip_39_word_underscore_7: chest_element_tragic_reject_fee_bitter_cup
+bip_39_word_underscore_8: chest_element_tragic_reject_fee_bitter_cup_inflict
+bip_39_word_underscore_9: chest_element_tragic_reject_fee_bitter_cup_inflict_occur
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

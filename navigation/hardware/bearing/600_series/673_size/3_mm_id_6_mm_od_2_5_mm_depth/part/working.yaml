@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gun
+bip_39_word_dash_10: gun-sphere-long-dilemma-ship-suffer-pulp-east-blanket-margin
+bip_39_word_dash_11: gun-sphere-long-dilemma-ship-suffer-pulp-east-blanket-margin-rice
+bip_39_word_dash_12: gun-sphere-long-dilemma-ship-suffer-pulp-east-blanket-margin-rice-atom
+bip_39_word_dash_2: gun-sphere
+bip_39_word_dash_3: gun-sphere-long
+bip_39_word_dash_4: gun-sphere-long-dilemma
+bip_39_word_dash_5: gun-sphere-long-dilemma-ship
+bip_39_word_dash_6: gun-sphere-long-dilemma-ship-suffer
+bip_39_word_dash_7: gun-sphere-long-dilemma-ship-suffer-pulp
+bip_39_word_dash_8: gun-sphere-long-dilemma-ship-suffer-pulp-east
+bip_39_word_dash_9: gun-sphere-long-dilemma-ship-suffer-pulp-east-blanket
 bip_39_word_new_br_1: gun
 bip_39_word_new_br_10: gun<br>sphere<br>long<br>dilemma<br>ship<br>suffer<br>pulp<br>east<br>blanket<br>margin
 bip_39_word_new_br_11: gun<br>sphere<br>long<br>dilemma<br>ship<br>suffer<br>pulp<br>east<br>blanket<br>margin<br>rice
@@ -193,6 +205,18 @@ bip_39_word_space_6: gun sphere long dilemma ship suffer
 bip_39_word_space_7: gun sphere long dilemma ship suffer pulp
 bip_39_word_space_8: gun sphere long dilemma ship suffer pulp east
 bip_39_word_space_9: gun sphere long dilemma ship suffer pulp east blanket
+bip_39_word_underscore_1: gun
+bip_39_word_underscore_10: gun_sphere_long_dilemma_ship_suffer_pulp_east_blanket_margin
+bip_39_word_underscore_11: gun_sphere_long_dilemma_ship_suffer_pulp_east_blanket_margin_rice
+bip_39_word_underscore_12: gun_sphere_long_dilemma_ship_suffer_pulp_east_blanket_margin_rice_atom
+bip_39_word_underscore_2: gun_sphere
+bip_39_word_underscore_3: gun_sphere_long
+bip_39_word_underscore_4: gun_sphere_long_dilemma
+bip_39_word_underscore_5: gun_sphere_long_dilemma_ship
+bip_39_word_underscore_6: gun_sphere_long_dilemma_ship_suffer
+bip_39_word_underscore_7: gun_sphere_long_dilemma_ship_suffer_pulp
+bip_39_word_underscore_8: gun_sphere_long_dilemma_ship_suffer_pulp_east
+bip_39_word_underscore_9: gun_sphere_long_dilemma_ship_suffer_pulp_east_blanket
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | actress |  
+| bip_39_word_dash_10 | actress-acoustic-illness-install-original-sentence-elegant-owner-inherit-actor |  
+| bip_39_word_dash_11 | actress-acoustic-illness-install-original-sentence-elegant-owner-inherit-actor-regular |  
+| bip_39_word_dash_12 | actress-acoustic-illness-install-original-sentence-elegant-owner-inherit-actor-regular-answer |  
+| bip_39_word_dash_2 | actress-acoustic |  
+| bip_39_word_dash_3 | actress-acoustic-illness |  
+| bip_39_word_dash_4 | actress-acoustic-illness-install |  
+| bip_39_word_dash_5 | actress-acoustic-illness-install-original |  
+| bip_39_word_dash_6 | actress-acoustic-illness-install-original-sentence |  
+| bip_39_word_dash_7 | actress-acoustic-illness-install-original-sentence-elegant |  
+| bip_39_word_dash_8 | actress-acoustic-illness-install-original-sentence-elegant-owner |  
+| bip_39_word_dash_9 | actress-acoustic-illness-install-original-sentence-elegant-owner-inherit |  
 | bip_39_word_new_br_1 | actress |  
 | bip_39_word_new_br_10 | actress<br>acoustic<br>illness<br>install<br>original<br>sentence<br>elegant<br>owner<br>inherit<br>actor |  
 | bip_39_word_new_br_11 | actress<br>acoustic<br>illness<br>install<br>original<br>sentence<br>elegant<br>owner<br>inherit<br>actor<br>regular |  
@@ -147,6 +159,18 @@ inherit |
 | bip_39_word_space_7 | actress acoustic illness install original sentence elegant |  
 | bip_39_word_space_8 | actress acoustic illness install original sentence elegant owner |  
 | bip_39_word_space_9 | actress acoustic illness install original sentence elegant owner inherit |  
+| bip_39_word_underscore_1 | actress |  
+| bip_39_word_underscore_10 | actress_acoustic_illness_install_original_sentence_elegant_owner_inherit_actor |  
+| bip_39_word_underscore_11 | actress_acoustic_illness_install_original_sentence_elegant_owner_inherit_actor_regular |  
+| bip_39_word_underscore_12 | actress_acoustic_illness_install_original_sentence_elegant_owner_inherit_actor_regular_answer |  
+| bip_39_word_underscore_2 | actress_acoustic |  
+| bip_39_word_underscore_3 | actress_acoustic_illness |  
+| bip_39_word_underscore_4 | actress_acoustic_illness_install |  
+| bip_39_word_underscore_5 | actress_acoustic_illness_install_original |  
+| bip_39_word_underscore_6 | actress_acoustic_illness_install_original_sentence |  
+| bip_39_word_underscore_7 | actress_acoustic_illness_install_original_sentence_elegant |  
+| bip_39_word_underscore_8 | actress_acoustic_illness_install_original_sentence_elegant_owner |  
+| bip_39_word_underscore_9 | actress_acoustic_illness_install_original_sentence_elegant_owner_inherit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

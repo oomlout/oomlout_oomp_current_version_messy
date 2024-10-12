@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | artefact |  
+| bip_39_word_dash_10 | artefact-sunset-pipe-dawn-hover-arch-inflict-index-vocal-stumble |  
+| bip_39_word_dash_11 | artefact-sunset-pipe-dawn-hover-arch-inflict-index-vocal-stumble-youth |  
+| bip_39_word_dash_12 | artefact-sunset-pipe-dawn-hover-arch-inflict-index-vocal-stumble-youth-acoustic |  
+| bip_39_word_dash_2 | artefact-sunset |  
+| bip_39_word_dash_3 | artefact-sunset-pipe |  
+| bip_39_word_dash_4 | artefact-sunset-pipe-dawn |  
+| bip_39_word_dash_5 | artefact-sunset-pipe-dawn-hover |  
+| bip_39_word_dash_6 | artefact-sunset-pipe-dawn-hover-arch |  
+| bip_39_word_dash_7 | artefact-sunset-pipe-dawn-hover-arch-inflict |  
+| bip_39_word_dash_8 | artefact-sunset-pipe-dawn-hover-arch-inflict-index |  
+| bip_39_word_dash_9 | artefact-sunset-pipe-dawn-hover-arch-inflict-index-vocal |  
 | bip_39_word_new_br_1 | artefact |  
 | bip_39_word_new_br_10 | artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index<br>vocal<br>stumble |  
 | bip_39_word_new_br_11 | artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index<br>vocal<br>stumble<br>youth |  
@@ -147,6 +159,18 @@ vocal |
 | bip_39_word_space_7 | artefact sunset pipe dawn hover arch inflict |  
 | bip_39_word_space_8 | artefact sunset pipe dawn hover arch inflict index |  
 | bip_39_word_space_9 | artefact sunset pipe dawn hover arch inflict index vocal |  
+| bip_39_word_underscore_1 | artefact |  
+| bip_39_word_underscore_10 | artefact_sunset_pipe_dawn_hover_arch_inflict_index_vocal_stumble |  
+| bip_39_word_underscore_11 | artefact_sunset_pipe_dawn_hover_arch_inflict_index_vocal_stumble_youth |  
+| bip_39_word_underscore_12 | artefact_sunset_pipe_dawn_hover_arch_inflict_index_vocal_stumble_youth_acoustic |  
+| bip_39_word_underscore_2 | artefact_sunset |  
+| bip_39_word_underscore_3 | artefact_sunset_pipe |  
+| bip_39_word_underscore_4 | artefact_sunset_pipe_dawn |  
+| bip_39_word_underscore_5 | artefact_sunset_pipe_dawn_hover |  
+| bip_39_word_underscore_6 | artefact_sunset_pipe_dawn_hover_arch |  
+| bip_39_word_underscore_7 | artefact_sunset_pipe_dawn_hover_arch_inflict |  
+| bip_39_word_underscore_8 | artefact_sunset_pipe_dawn_hover_arch_inflict_index |  
+| bip_39_word_underscore_9 | artefact_sunset_pipe_dawn_hover_arch_inflict_index_vocal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

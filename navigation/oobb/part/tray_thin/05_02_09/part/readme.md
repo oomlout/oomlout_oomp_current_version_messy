@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cheese |  
+| bip_39_word_dash_10 | cheese-truly-dirt-now-leg-stadium-allow-antique-poverty-decorate |  
+| bip_39_word_dash_11 | cheese-truly-dirt-now-leg-stadium-allow-antique-poverty-decorate-toddler |  
+| bip_39_word_dash_12 | cheese-truly-dirt-now-leg-stadium-allow-antique-poverty-decorate-toddler-acquire |  
+| bip_39_word_dash_2 | cheese-truly |  
+| bip_39_word_dash_3 | cheese-truly-dirt |  
+| bip_39_word_dash_4 | cheese-truly-dirt-now |  
+| bip_39_word_dash_5 | cheese-truly-dirt-now-leg |  
+| bip_39_word_dash_6 | cheese-truly-dirt-now-leg-stadium |  
+| bip_39_word_dash_7 | cheese-truly-dirt-now-leg-stadium-allow |  
+| bip_39_word_dash_8 | cheese-truly-dirt-now-leg-stadium-allow-antique |  
+| bip_39_word_dash_9 | cheese-truly-dirt-now-leg-stadium-allow-antique-poverty |  
 | bip_39_word_new_br_1 | cheese |  
 | bip_39_word_new_br_10 | cheese<br>truly<br>dirt<br>now<br>leg<br>stadium<br>allow<br>antique<br>poverty<br>decorate |  
 | bip_39_word_new_br_11 | cheese<br>truly<br>dirt<br>now<br>leg<br>stadium<br>allow<br>antique<br>poverty<br>decorate<br>toddler |  
@@ -147,6 +159,18 @@ poverty |
 | bip_39_word_space_7 | cheese truly dirt now leg stadium allow |  
 | bip_39_word_space_8 | cheese truly dirt now leg stadium allow antique |  
 | bip_39_word_space_9 | cheese truly dirt now leg stadium allow antique poverty |  
+| bip_39_word_underscore_1 | cheese |  
+| bip_39_word_underscore_10 | cheese_truly_dirt_now_leg_stadium_allow_antique_poverty_decorate |  
+| bip_39_word_underscore_11 | cheese_truly_dirt_now_leg_stadium_allow_antique_poverty_decorate_toddler |  
+| bip_39_word_underscore_12 | cheese_truly_dirt_now_leg_stadium_allow_antique_poverty_decorate_toddler_acquire |  
+| bip_39_word_underscore_2 | cheese_truly |  
+| bip_39_word_underscore_3 | cheese_truly_dirt |  
+| bip_39_word_underscore_4 | cheese_truly_dirt_now |  
+| bip_39_word_underscore_5 | cheese_truly_dirt_now_leg |  
+| bip_39_word_underscore_6 | cheese_truly_dirt_now_leg_stadium |  
+| bip_39_word_underscore_7 | cheese_truly_dirt_now_leg_stadium_allow |  
+| bip_39_word_underscore_8 | cheese_truly_dirt_now_leg_stadium_allow_antique |  
+| bip_39_word_underscore_9 | cheese_truly_dirt_now_leg_stadium_allow_antique_poverty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

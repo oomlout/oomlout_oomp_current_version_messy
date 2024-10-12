@@ -1,3 +1,15 @@
+bip_39_word_dash_1: recycle
+bip_39_word_dash_10: recycle-song-abandon-zero-truck-wrap-retreat-opinion-panel-fall
+bip_39_word_dash_11: recycle-song-abandon-zero-truck-wrap-retreat-opinion-panel-fall-once
+bip_39_word_dash_12: recycle-song-abandon-zero-truck-wrap-retreat-opinion-panel-fall-once-april
+bip_39_word_dash_2: recycle-song
+bip_39_word_dash_3: recycle-song-abandon
+bip_39_word_dash_4: recycle-song-abandon-zero
+bip_39_word_dash_5: recycle-song-abandon-zero-truck
+bip_39_word_dash_6: recycle-song-abandon-zero-truck-wrap
+bip_39_word_dash_7: recycle-song-abandon-zero-truck-wrap-retreat
+bip_39_word_dash_8: recycle-song-abandon-zero-truck-wrap-retreat-opinion
+bip_39_word_dash_9: recycle-song-abandon-zero-truck-wrap-retreat-opinion-panel
 bip_39_word_new_br_1: recycle
 bip_39_word_new_br_10: recycle<br>song<br>abandon<br>zero<br>truck<br>wrap<br>retreat<br>opinion<br>panel<br>fall
 bip_39_word_new_br_11: recycle<br>song<br>abandon<br>zero<br>truck<br>wrap<br>retreat<br>opinion<br>panel<br>fall<br>once
@@ -193,6 +205,18 @@ bip_39_word_space_6: recycle song abandon zero truck wrap
 bip_39_word_space_7: recycle song abandon zero truck wrap retreat
 bip_39_word_space_8: recycle song abandon zero truck wrap retreat opinion
 bip_39_word_space_9: recycle song abandon zero truck wrap retreat opinion panel
+bip_39_word_underscore_1: recycle
+bip_39_word_underscore_10: recycle_song_abandon_zero_truck_wrap_retreat_opinion_panel_fall
+bip_39_word_underscore_11: recycle_song_abandon_zero_truck_wrap_retreat_opinion_panel_fall_once
+bip_39_word_underscore_12: recycle_song_abandon_zero_truck_wrap_retreat_opinion_panel_fall_once_april
+bip_39_word_underscore_2: recycle_song
+bip_39_word_underscore_3: recycle_song_abandon
+bip_39_word_underscore_4: recycle_song_abandon_zero
+bip_39_word_underscore_5: recycle_song_abandon_zero_truck
+bip_39_word_underscore_6: recycle_song_abandon_zero_truck_wrap
+bip_39_word_underscore_7: recycle_song_abandon_zero_truck_wrap_retreat
+bip_39_word_underscore_8: recycle_song_abandon_zero_truck_wrap_retreat_opinion
+bip_39_word_underscore_9: recycle_song_abandon_zero_truck_wrap_retreat_opinion_panel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

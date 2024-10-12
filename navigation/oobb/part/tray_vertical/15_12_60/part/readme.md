@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tower |  
+| bip_39_word_dash_10 | tower-betray-fine-style-slogan-country-clean-long-clinic-wheat |  
+| bip_39_word_dash_11 | tower-betray-fine-style-slogan-country-clean-long-clinic-wheat-shrimp |  
+| bip_39_word_dash_12 | tower-betray-fine-style-slogan-country-clean-long-clinic-wheat-shrimp-annual |  
+| bip_39_word_dash_2 | tower-betray |  
+| bip_39_word_dash_3 | tower-betray-fine |  
+| bip_39_word_dash_4 | tower-betray-fine-style |  
+| bip_39_word_dash_5 | tower-betray-fine-style-slogan |  
+| bip_39_word_dash_6 | tower-betray-fine-style-slogan-country |  
+| bip_39_word_dash_7 | tower-betray-fine-style-slogan-country-clean |  
+| bip_39_word_dash_8 | tower-betray-fine-style-slogan-country-clean-long |  
+| bip_39_word_dash_9 | tower-betray-fine-style-slogan-country-clean-long-clinic |  
 | bip_39_word_new_br_1 | tower |  
 | bip_39_word_new_br_10 | tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long<br>clinic<br>wheat |  
 | bip_39_word_new_br_11 | tower<br>betray<br>fine<br>style<br>slogan<br>country<br>clean<br>long<br>clinic<br>wheat<br>shrimp |  
@@ -147,6 +159,18 @@ clinic |
 | bip_39_word_space_7 | tower betray fine style slogan country clean |  
 | bip_39_word_space_8 | tower betray fine style slogan country clean long |  
 | bip_39_word_space_9 | tower betray fine style slogan country clean long clinic |  
+| bip_39_word_underscore_1 | tower |  
+| bip_39_word_underscore_10 | tower_betray_fine_style_slogan_country_clean_long_clinic_wheat |  
+| bip_39_word_underscore_11 | tower_betray_fine_style_slogan_country_clean_long_clinic_wheat_shrimp |  
+| bip_39_word_underscore_12 | tower_betray_fine_style_slogan_country_clean_long_clinic_wheat_shrimp_annual |  
+| bip_39_word_underscore_2 | tower_betray |  
+| bip_39_word_underscore_3 | tower_betray_fine |  
+| bip_39_word_underscore_4 | tower_betray_fine_style |  
+| bip_39_word_underscore_5 | tower_betray_fine_style_slogan |  
+| bip_39_word_underscore_6 | tower_betray_fine_style_slogan_country |  
+| bip_39_word_underscore_7 | tower_betray_fine_style_slogan_country_clean |  
+| bip_39_word_underscore_8 | tower_betray_fine_style_slogan_country_clean_long |  
+| bip_39_word_underscore_9 | tower_betray_fine_style_slogan_country_clean_long_clinic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

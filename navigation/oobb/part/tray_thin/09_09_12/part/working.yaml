@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fan
+bip_39_word_dash_10: fan-crawl-juice-before-punch-bracket-swarm-rice-panther-sail
+bip_39_word_dash_11: fan-crawl-juice-before-punch-bracket-swarm-rice-panther-sail-road
+bip_39_word_dash_12: fan-crawl-juice-before-punch-bracket-swarm-rice-panther-sail-road-angle
+bip_39_word_dash_2: fan-crawl
+bip_39_word_dash_3: fan-crawl-juice
+bip_39_word_dash_4: fan-crawl-juice-before
+bip_39_word_dash_5: fan-crawl-juice-before-punch
+bip_39_word_dash_6: fan-crawl-juice-before-punch-bracket
+bip_39_word_dash_7: fan-crawl-juice-before-punch-bracket-swarm
+bip_39_word_dash_8: fan-crawl-juice-before-punch-bracket-swarm-rice
+bip_39_word_dash_9: fan-crawl-juice-before-punch-bracket-swarm-rice-panther
 bip_39_word_new_br_1: fan
 bip_39_word_new_br_10: fan<br>crawl<br>juice<br>before<br>punch<br>bracket<br>swarm<br>rice<br>panther<br>sail
 bip_39_word_new_br_11: fan<br>crawl<br>juice<br>before<br>punch<br>bracket<br>swarm<br>rice<br>panther<br>sail<br>road
@@ -193,6 +205,18 @@ bip_39_word_space_6: fan crawl juice before punch bracket
 bip_39_word_space_7: fan crawl juice before punch bracket swarm
 bip_39_word_space_8: fan crawl juice before punch bracket swarm rice
 bip_39_word_space_9: fan crawl juice before punch bracket swarm rice panther
+bip_39_word_underscore_1: fan
+bip_39_word_underscore_10: fan_crawl_juice_before_punch_bracket_swarm_rice_panther_sail
+bip_39_word_underscore_11: fan_crawl_juice_before_punch_bracket_swarm_rice_panther_sail_road
+bip_39_word_underscore_12: fan_crawl_juice_before_punch_bracket_swarm_rice_panther_sail_road_angle
+bip_39_word_underscore_2: fan_crawl
+bip_39_word_underscore_3: fan_crawl_juice
+bip_39_word_underscore_4: fan_crawl_juice_before
+bip_39_word_underscore_5: fan_crawl_juice_before_punch
+bip_39_word_underscore_6: fan_crawl_juice_before_punch_bracket
+bip_39_word_underscore_7: fan_crawl_juice_before_punch_bracket_swarm
+bip_39_word_underscore_8: fan_crawl_juice_before_punch_bracket_swarm_rice
+bip_39_word_underscore_9: fan_crawl_juice_before_punch_bracket_swarm_rice_panther
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

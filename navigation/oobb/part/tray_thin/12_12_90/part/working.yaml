@@ -1,3 +1,14 @@
+bip_39_word_dash_1: mammal
+bip_39_word_dash_10: mammal-autumn-key-burger-amateur-eyebrow-journey-human-hockey-forest
+bip_39_word_dash_11: mammal-autumn-key-burger-amateur-eyebrow-journey-human-hockey-forest-chaos
+bip_39_word_dash_2: mammal-autumn
+bip_39_word_dash_3: mammal-autumn-key
+bip_39_word_dash_4: mammal-autumn-key-burger
+bip_39_word_dash_5: mammal-autumn-key-burger-amateur
+bip_39_word_dash_6: mammal-autumn-key-burger-amateur-eyebrow
+bip_39_word_dash_7: mammal-autumn-key-burger-amateur-eyebrow-journey
+bip_39_word_dash_8: mammal-autumn-key-burger-amateur-eyebrow-journey-human
+bip_39_word_dash_9: mammal-autumn-key-burger-amateur-eyebrow-journey-human-hockey
 bip_39_word_new_br_1: mammal
 bip_39_word_new_br_10: mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey<br>forest
 bip_39_word_new_br_11: mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey<br>forest<br>chaos
@@ -166,6 +177,17 @@ bip_39_word_space_6: mammal autumn key burger amateur eyebrow
 bip_39_word_space_7: mammal autumn key burger amateur eyebrow journey
 bip_39_word_space_8: mammal autumn key burger amateur eyebrow journey human
 bip_39_word_space_9: mammal autumn key burger amateur eyebrow journey human hockey
+bip_39_word_underscore_1: mammal
+bip_39_word_underscore_10: mammal_autumn_key_burger_amateur_eyebrow_journey_human_hockey_forest
+bip_39_word_underscore_11: mammal_autumn_key_burger_amateur_eyebrow_journey_human_hockey_forest_chaos
+bip_39_word_underscore_2: mammal_autumn
+bip_39_word_underscore_3: mammal_autumn_key
+bip_39_word_underscore_4: mammal_autumn_key_burger
+bip_39_word_underscore_5: mammal_autumn_key_burger_amateur
+bip_39_word_underscore_6: mammal_autumn_key_burger_amateur_eyebrow
+bip_39_word_underscore_7: mammal_autumn_key_burger_amateur_eyebrow_journey
+bip_39_word_underscore_8: mammal_autumn_key_burger_amateur_eyebrow_journey_human
+bip_39_word_underscore_9: mammal_autumn_key_burger_amateur_eyebrow_journey_human_hockey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

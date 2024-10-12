@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | snow |  
+| bip_39_word_dash_10 | snow-meat-swim-bracket-mosquito-rule-siren-lunch-stone-train |  
+| bip_39_word_dash_11 | snow-meat-swim-bracket-mosquito-rule-siren-lunch-stone-train-crawl |  
+| bip_39_word_dash_12 | snow-meat-swim-bracket-mosquito-rule-siren-lunch-stone-train-crawl-april |  
+| bip_39_word_dash_2 | snow-meat |  
+| bip_39_word_dash_3 | snow-meat-swim |  
+| bip_39_word_dash_4 | snow-meat-swim-bracket |  
+| bip_39_word_dash_5 | snow-meat-swim-bracket-mosquito |  
+| bip_39_word_dash_6 | snow-meat-swim-bracket-mosquito-rule |  
+| bip_39_word_dash_7 | snow-meat-swim-bracket-mosquito-rule-siren |  
+| bip_39_word_dash_8 | snow-meat-swim-bracket-mosquito-rule-siren-lunch |  
+| bip_39_word_dash_9 | snow-meat-swim-bracket-mosquito-rule-siren-lunch-stone |  
 | bip_39_word_new_br_1 | snow |  
 | bip_39_word_new_br_10 | snow<br>meat<br>swim<br>bracket<br>mosquito<br>rule<br>siren<br>lunch<br>stone<br>train |  
 | bip_39_word_new_br_11 | snow<br>meat<br>swim<br>bracket<br>mosquito<br>rule<br>siren<br>lunch<br>stone<br>train<br>crawl |  
@@ -147,6 +159,18 @@ stone |
 | bip_39_word_space_7 | snow meat swim bracket mosquito rule siren |  
 | bip_39_word_space_8 | snow meat swim bracket mosquito rule siren lunch |  
 | bip_39_word_space_9 | snow meat swim bracket mosquito rule siren lunch stone |  
+| bip_39_word_underscore_1 | snow |  
+| bip_39_word_underscore_10 | snow_meat_swim_bracket_mosquito_rule_siren_lunch_stone_train |  
+| bip_39_word_underscore_11 | snow_meat_swim_bracket_mosquito_rule_siren_lunch_stone_train_crawl |  
+| bip_39_word_underscore_12 | snow_meat_swim_bracket_mosquito_rule_siren_lunch_stone_train_crawl_april |  
+| bip_39_word_underscore_2 | snow_meat |  
+| bip_39_word_underscore_3 | snow_meat_swim |  
+| bip_39_word_underscore_4 | snow_meat_swim_bracket |  
+| bip_39_word_underscore_5 | snow_meat_swim_bracket_mosquito |  
+| bip_39_word_underscore_6 | snow_meat_swim_bracket_mosquito_rule |  
+| bip_39_word_underscore_7 | snow_meat_swim_bracket_mosquito_rule_siren |  
+| bip_39_word_underscore_8 | snow_meat_swim_bracket_mosquito_rule_siren_lunch |  
+| bip_39_word_underscore_9 | snow_meat_swim_bracket_mosquito_rule_siren_lunch_stone |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

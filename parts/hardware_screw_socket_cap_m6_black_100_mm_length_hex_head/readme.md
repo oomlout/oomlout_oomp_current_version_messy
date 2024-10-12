@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nice |  
+| bip_39_word_dash_10 | nice-dilemma-drill-pilot-birth-humble-leisure-smooth-prison-better |  
+| bip_39_word_dash_11 | nice-dilemma-drill-pilot-birth-humble-leisure-smooth-prison-better-cash |  
+| bip_39_word_dash_12 | nice-dilemma-drill-pilot-birth-humble-leisure-smooth-prison-better-cash-airport |  
+| bip_39_word_dash_2 | nice-dilemma |  
+| bip_39_word_dash_3 | nice-dilemma-drill |  
+| bip_39_word_dash_4 | nice-dilemma-drill-pilot |  
+| bip_39_word_dash_5 | nice-dilemma-drill-pilot-birth |  
+| bip_39_word_dash_6 | nice-dilemma-drill-pilot-birth-humble |  
+| bip_39_word_dash_7 | nice-dilemma-drill-pilot-birth-humble-leisure |  
+| bip_39_word_dash_8 | nice-dilemma-drill-pilot-birth-humble-leisure-smooth |  
+| bip_39_word_dash_9 | nice-dilemma-drill-pilot-birth-humble-leisure-smooth-prison |  
 | bip_39_word_new_br_1 | nice |  
 | bip_39_word_new_br_10 | nice<br>dilemma<br>drill<br>pilot<br>birth<br>humble<br>leisure<br>smooth<br>prison<br>better |  
 | bip_39_word_new_br_11 | nice<br>dilemma<br>drill<br>pilot<br>birth<br>humble<br>leisure<br>smooth<br>prison<br>better<br>cash |  
@@ -147,6 +159,18 @@ prison |
 | bip_39_word_space_7 | nice dilemma drill pilot birth humble leisure |  
 | bip_39_word_space_8 | nice dilemma drill pilot birth humble leisure smooth |  
 | bip_39_word_space_9 | nice dilemma drill pilot birth humble leisure smooth prison |  
+| bip_39_word_underscore_1 | nice |  
+| bip_39_word_underscore_10 | nice_dilemma_drill_pilot_birth_humble_leisure_smooth_prison_better |  
+| bip_39_word_underscore_11 | nice_dilemma_drill_pilot_birth_humble_leisure_smooth_prison_better_cash |  
+| bip_39_word_underscore_12 | nice_dilemma_drill_pilot_birth_humble_leisure_smooth_prison_better_cash_airport |  
+| bip_39_word_underscore_2 | nice_dilemma |  
+| bip_39_word_underscore_3 | nice_dilemma_drill |  
+| bip_39_word_underscore_4 | nice_dilemma_drill_pilot |  
+| bip_39_word_underscore_5 | nice_dilemma_drill_pilot_birth |  
+| bip_39_word_underscore_6 | nice_dilemma_drill_pilot_birth_humble |  
+| bip_39_word_underscore_7 | nice_dilemma_drill_pilot_birth_humble_leisure |  
+| bip_39_word_underscore_8 | nice_dilemma_drill_pilot_birth_humble_leisure_smooth |  
+| bip_39_word_underscore_9 | nice_dilemma_drill_pilot_birth_humble_leisure_smooth_prison |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

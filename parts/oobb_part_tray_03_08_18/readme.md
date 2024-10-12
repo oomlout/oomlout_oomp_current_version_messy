@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bone |  
+| bip_39_word_dash_10 | bone-grape-bless-fatal-tip-suit-slab-injury-one-caught |  
+| bip_39_word_dash_11 | bone-grape-bless-fatal-tip-suit-slab-injury-one-caught-name |  
+| bip_39_word_dash_12 | bone-grape-bless-fatal-tip-suit-slab-injury-one-caught-name-apple |  
+| bip_39_word_dash_2 | bone-grape |  
+| bip_39_word_dash_3 | bone-grape-bless |  
+| bip_39_word_dash_4 | bone-grape-bless-fatal |  
+| bip_39_word_dash_5 | bone-grape-bless-fatal-tip |  
+| bip_39_word_dash_6 | bone-grape-bless-fatal-tip-suit |  
+| bip_39_word_dash_7 | bone-grape-bless-fatal-tip-suit-slab |  
+| bip_39_word_dash_8 | bone-grape-bless-fatal-tip-suit-slab-injury |  
+| bip_39_word_dash_9 | bone-grape-bless-fatal-tip-suit-slab-injury-one |  
 | bip_39_word_new_br_1 | bone |  
 | bip_39_word_new_br_10 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught |  
 | bip_39_word_new_br_11 | bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught<br>name |  
@@ -147,6 +159,18 @@ one |
 | bip_39_word_space_7 | bone grape bless fatal tip suit slab |  
 | bip_39_word_space_8 | bone grape bless fatal tip suit slab injury |  
 | bip_39_word_space_9 | bone grape bless fatal tip suit slab injury one |  
+| bip_39_word_underscore_1 | bone |  
+| bip_39_word_underscore_10 | bone_grape_bless_fatal_tip_suit_slab_injury_one_caught |  
+| bip_39_word_underscore_11 | bone_grape_bless_fatal_tip_suit_slab_injury_one_caught_name |  
+| bip_39_word_underscore_12 | bone_grape_bless_fatal_tip_suit_slab_injury_one_caught_name_apple |  
+| bip_39_word_underscore_2 | bone_grape |  
+| bip_39_word_underscore_3 | bone_grape_bless |  
+| bip_39_word_underscore_4 | bone_grape_bless_fatal |  
+| bip_39_word_underscore_5 | bone_grape_bless_fatal_tip |  
+| bip_39_word_underscore_6 | bone_grape_bless_fatal_tip_suit |  
+| bip_39_word_underscore_7 | bone_grape_bless_fatal_tip_suit_slab |  
+| bip_39_word_underscore_8 | bone_grape_bless_fatal_tip_suit_slab_injury |  
+| bip_39_word_underscore_9 | bone_grape_bless_fatal_tip_suit_slab_injury_one |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

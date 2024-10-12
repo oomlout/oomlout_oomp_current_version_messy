@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boost |  
+| bip_39_word_dash_10 | boost-rain-robust-luggage-success-quarter-arm-book-office-innocent |  
+| bip_39_word_dash_11 | boost-rain-robust-luggage-success-quarter-arm-book-office-innocent-ceiling |  
+| bip_39_word_dash_12 | boost-rain-robust-luggage-success-quarter-arm-book-office-innocent-ceiling-avocado |  
+| bip_39_word_dash_2 | boost-rain |  
+| bip_39_word_dash_3 | boost-rain-robust |  
+| bip_39_word_dash_4 | boost-rain-robust-luggage |  
+| bip_39_word_dash_5 | boost-rain-robust-luggage-success |  
+| bip_39_word_dash_6 | boost-rain-robust-luggage-success-quarter |  
+| bip_39_word_dash_7 | boost-rain-robust-luggage-success-quarter-arm |  
+| bip_39_word_dash_8 | boost-rain-robust-luggage-success-quarter-arm-book |  
+| bip_39_word_dash_9 | boost-rain-robust-luggage-success-quarter-arm-book-office |  
 | bip_39_word_new_br_1 | boost |  
 | bip_39_word_new_br_10 | boost<br>rain<br>robust<br>luggage<br>success<br>quarter<br>arm<br>book<br>office<br>innocent |  
 | bip_39_word_new_br_11 | boost<br>rain<br>robust<br>luggage<br>success<br>quarter<br>arm<br>book<br>office<br>innocent<br>ceiling |  
@@ -147,6 +159,18 @@ office |
 | bip_39_word_space_7 | boost rain robust luggage success quarter arm |  
 | bip_39_word_space_8 | boost rain robust luggage success quarter arm book |  
 | bip_39_word_space_9 | boost rain robust luggage success quarter arm book office |  
+| bip_39_word_underscore_1 | boost |  
+| bip_39_word_underscore_10 | boost_rain_robust_luggage_success_quarter_arm_book_office_innocent |  
+| bip_39_word_underscore_11 | boost_rain_robust_luggage_success_quarter_arm_book_office_innocent_ceiling |  
+| bip_39_word_underscore_12 | boost_rain_robust_luggage_success_quarter_arm_book_office_innocent_ceiling_avocado |  
+| bip_39_word_underscore_2 | boost_rain |  
+| bip_39_word_underscore_3 | boost_rain_robust |  
+| bip_39_word_underscore_4 | boost_rain_robust_luggage |  
+| bip_39_word_underscore_5 | boost_rain_robust_luggage_success |  
+| bip_39_word_underscore_6 | boost_rain_robust_luggage_success_quarter |  
+| bip_39_word_underscore_7 | boost_rain_robust_luggage_success_quarter_arm |  
+| bip_39_word_underscore_8 | boost_rain_robust_luggage_success_quarter_arm_book |  
+| bip_39_word_underscore_9 | boost_rain_robust_luggage_success_quarter_arm_book_office |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

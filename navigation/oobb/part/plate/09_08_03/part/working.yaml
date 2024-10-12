@@ -1,3 +1,15 @@
+bip_39_word_dash_1: demise
+bip_39_word_dash_10: demise-total-twice-misery-museum-electric-awkward-wood-secret-spot
+bip_39_word_dash_11: demise-total-twice-misery-museum-electric-awkward-wood-secret-spot-slice
+bip_39_word_dash_12: demise-total-twice-misery-museum-electric-awkward-wood-secret-spot-slice-abstract
+bip_39_word_dash_2: demise-total
+bip_39_word_dash_3: demise-total-twice
+bip_39_word_dash_4: demise-total-twice-misery
+bip_39_word_dash_5: demise-total-twice-misery-museum
+bip_39_word_dash_6: demise-total-twice-misery-museum-electric
+bip_39_word_dash_7: demise-total-twice-misery-museum-electric-awkward
+bip_39_word_dash_8: demise-total-twice-misery-museum-electric-awkward-wood
+bip_39_word_dash_9: demise-total-twice-misery-museum-electric-awkward-wood-secret
 bip_39_word_new_br_1: demise
 bip_39_word_new_br_10: demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood<br>secret<br>spot
 bip_39_word_new_br_11: demise<br>total<br>twice<br>misery<br>museum<br>electric<br>awkward<br>wood<br>secret<br>spot<br>slice
@@ -194,6 +206,18 @@ bip_39_word_space_6: demise total twice misery museum electric
 bip_39_word_space_7: demise total twice misery museum electric awkward
 bip_39_word_space_8: demise total twice misery museum electric awkward wood
 bip_39_word_space_9: demise total twice misery museum electric awkward wood secret
+bip_39_word_underscore_1: demise
+bip_39_word_underscore_10: demise_total_twice_misery_museum_electric_awkward_wood_secret_spot
+bip_39_word_underscore_11: demise_total_twice_misery_museum_electric_awkward_wood_secret_spot_slice
+bip_39_word_underscore_12: demise_total_twice_misery_museum_electric_awkward_wood_secret_spot_slice_abstract
+bip_39_word_underscore_2: demise_total
+bip_39_word_underscore_3: demise_total_twice
+bip_39_word_underscore_4: demise_total_twice_misery
+bip_39_word_underscore_5: demise_total_twice_misery_museum
+bip_39_word_underscore_6: demise_total_twice_misery_museum_electric
+bip_39_word_underscore_7: demise_total_twice_misery_museum_electric_awkward
+bip_39_word_underscore_8: demise_total_twice_misery_museum_electric_awkward_wood
+bip_39_word_underscore_9: demise_total_twice_misery_museum_electric_awkward_wood_secret
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

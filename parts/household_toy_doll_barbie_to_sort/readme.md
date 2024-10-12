@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | warrior |  
+| bip_39_word_dash_10 | warrior-crush-fiscal-dog-relax-race-wide-expand-film-dynamic |  
+| bip_39_word_dash_11 | warrior-crush-fiscal-dog-relax-race-wide-expand-film-dynamic-record |  
+| bip_39_word_dash_12 | warrior-crush-fiscal-dog-relax-race-wide-expand-film-dynamic-record-aspect |  
+| bip_39_word_dash_2 | warrior-crush |  
+| bip_39_word_dash_3 | warrior-crush-fiscal |  
+| bip_39_word_dash_4 | warrior-crush-fiscal-dog |  
+| bip_39_word_dash_5 | warrior-crush-fiscal-dog-relax |  
+| bip_39_word_dash_6 | warrior-crush-fiscal-dog-relax-race |  
+| bip_39_word_dash_7 | warrior-crush-fiscal-dog-relax-race-wide |  
+| bip_39_word_dash_8 | warrior-crush-fiscal-dog-relax-race-wide-expand |  
+| bip_39_word_dash_9 | warrior-crush-fiscal-dog-relax-race-wide-expand-film |  
 | bip_39_word_new_br_1 | warrior |  
 | bip_39_word_new_br_10 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic |  
 | bip_39_word_new_br_11 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic<br>record |  
@@ -147,6 +159,18 @@ film |
 | bip_39_word_space_7 | warrior crush fiscal dog relax race wide |  
 | bip_39_word_space_8 | warrior crush fiscal dog relax race wide expand |  
 | bip_39_word_space_9 | warrior crush fiscal dog relax race wide expand film |  
+| bip_39_word_underscore_1 | warrior |  
+| bip_39_word_underscore_10 | warrior_crush_fiscal_dog_relax_race_wide_expand_film_dynamic |  
+| bip_39_word_underscore_11 | warrior_crush_fiscal_dog_relax_race_wide_expand_film_dynamic_record |  
+| bip_39_word_underscore_12 | warrior_crush_fiscal_dog_relax_race_wide_expand_film_dynamic_record_aspect |  
+| bip_39_word_underscore_2 | warrior_crush |  
+| bip_39_word_underscore_3 | warrior_crush_fiscal |  
+| bip_39_word_underscore_4 | warrior_crush_fiscal_dog |  
+| bip_39_word_underscore_5 | warrior_crush_fiscal_dog_relax |  
+| bip_39_word_underscore_6 | warrior_crush_fiscal_dog_relax_race |  
+| bip_39_word_underscore_7 | warrior_crush_fiscal_dog_relax_race_wide |  
+| bip_39_word_underscore_8 | warrior_crush_fiscal_dog_relax_race_wide_expand |  
+| bip_39_word_underscore_9 | warrior_crush_fiscal_dog_relax_race_wide_expand_film |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

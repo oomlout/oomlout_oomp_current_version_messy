@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wheel
+bip_39_word_dash_10: wheel-number-meadow-onion-chase-pen-twice-cliff-marble-man
+bip_39_word_dash_11: wheel-number-meadow-onion-chase-pen-twice-cliff-marble-man-retire
+bip_39_word_dash_12: wheel-number-meadow-onion-chase-pen-twice-cliff-marble-man-retire-agent
+bip_39_word_dash_2: wheel-number
+bip_39_word_dash_3: wheel-number-meadow
+bip_39_word_dash_4: wheel-number-meadow-onion
+bip_39_word_dash_5: wheel-number-meadow-onion-chase
+bip_39_word_dash_6: wheel-number-meadow-onion-chase-pen
+bip_39_word_dash_7: wheel-number-meadow-onion-chase-pen-twice
+bip_39_word_dash_8: wheel-number-meadow-onion-chase-pen-twice-cliff
+bip_39_word_dash_9: wheel-number-meadow-onion-chase-pen-twice-cliff-marble
 bip_39_word_new_br_1: wheel
 bip_39_word_new_br_10: wheel<br>number<br>meadow<br>onion<br>chase<br>pen<br>twice<br>cliff<br>marble<br>man
 bip_39_word_new_br_11: wheel<br>number<br>meadow<br>onion<br>chase<br>pen<br>twice<br>cliff<br>marble<br>man<br>retire
@@ -192,6 +204,18 @@ bip_39_word_space_6: wheel number meadow onion chase pen
 bip_39_word_space_7: wheel number meadow onion chase pen twice
 bip_39_word_space_8: wheel number meadow onion chase pen twice cliff
 bip_39_word_space_9: wheel number meadow onion chase pen twice cliff marble
+bip_39_word_underscore_1: wheel
+bip_39_word_underscore_10: wheel_number_meadow_onion_chase_pen_twice_cliff_marble_man
+bip_39_word_underscore_11: wheel_number_meadow_onion_chase_pen_twice_cliff_marble_man_retire
+bip_39_word_underscore_12: wheel_number_meadow_onion_chase_pen_twice_cliff_marble_man_retire_agent
+bip_39_word_underscore_2: wheel_number
+bip_39_word_underscore_3: wheel_number_meadow
+bip_39_word_underscore_4: wheel_number_meadow_onion
+bip_39_word_underscore_5: wheel_number_meadow_onion_chase
+bip_39_word_underscore_6: wheel_number_meadow_onion_chase_pen
+bip_39_word_underscore_7: wheel_number_meadow_onion_chase_pen_twice
+bip_39_word_underscore_8: wheel_number_meadow_onion_chase_pen_twice_cliff
+bip_39_word_underscore_9: wheel_number_meadow_onion_chase_pen_twice_cliff_marble
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

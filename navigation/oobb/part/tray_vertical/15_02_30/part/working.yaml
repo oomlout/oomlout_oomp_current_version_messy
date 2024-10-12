@@ -1,3 +1,15 @@
+bip_39_word_dash_1: funny
+bip_39_word_dash_10: funny-warrior-sweet-giggle-dynamic-angle-forget-myself-stick-recycle
+bip_39_word_dash_11: funny-warrior-sweet-giggle-dynamic-angle-forget-myself-stick-recycle-response
+bip_39_word_dash_12: funny-warrior-sweet-giggle-dynamic-angle-forget-myself-stick-recycle-response-apart
+bip_39_word_dash_2: funny-warrior
+bip_39_word_dash_3: funny-warrior-sweet
+bip_39_word_dash_4: funny-warrior-sweet-giggle
+bip_39_word_dash_5: funny-warrior-sweet-giggle-dynamic
+bip_39_word_dash_6: funny-warrior-sweet-giggle-dynamic-angle
+bip_39_word_dash_7: funny-warrior-sweet-giggle-dynamic-angle-forget
+bip_39_word_dash_8: funny-warrior-sweet-giggle-dynamic-angle-forget-myself
+bip_39_word_dash_9: funny-warrior-sweet-giggle-dynamic-angle-forget-myself-stick
 bip_39_word_new_br_1: funny
 bip_39_word_new_br_10: funny<br>warrior<br>sweet<br>giggle<br>dynamic<br>angle<br>forget<br>myself<br>stick<br>recycle
 bip_39_word_new_br_11: funny<br>warrior<br>sweet<br>giggle<br>dynamic<br>angle<br>forget<br>myself<br>stick<br>recycle<br>response
@@ -194,6 +206,18 @@ bip_39_word_space_6: funny warrior sweet giggle dynamic angle
 bip_39_word_space_7: funny warrior sweet giggle dynamic angle forget
 bip_39_word_space_8: funny warrior sweet giggle dynamic angle forget myself
 bip_39_word_space_9: funny warrior sweet giggle dynamic angle forget myself stick
+bip_39_word_underscore_1: funny
+bip_39_word_underscore_10: funny_warrior_sweet_giggle_dynamic_angle_forget_myself_stick_recycle
+bip_39_word_underscore_11: funny_warrior_sweet_giggle_dynamic_angle_forget_myself_stick_recycle_response
+bip_39_word_underscore_12: funny_warrior_sweet_giggle_dynamic_angle_forget_myself_stick_recycle_response_apart
+bip_39_word_underscore_2: funny_warrior
+bip_39_word_underscore_3: funny_warrior_sweet
+bip_39_word_underscore_4: funny_warrior_sweet_giggle
+bip_39_word_underscore_5: funny_warrior_sweet_giggle_dynamic
+bip_39_word_underscore_6: funny_warrior_sweet_giggle_dynamic_angle
+bip_39_word_underscore_7: funny_warrior_sweet_giggle_dynamic_angle_forget
+bip_39_word_underscore_8: funny_warrior_sweet_giggle_dynamic_angle_forget_myself
+bip_39_word_underscore_9: funny_warrior_sweet_giggle_dynamic_angle_forget_myself_stick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | worry |  
+| bip_39_word_dash_10 | worry-pledge-trap-catch-want-present-domain-round-lens-tooth |  
+| bip_39_word_dash_11 | worry-pledge-trap-catch-want-present-domain-round-lens-tooth-relief |  
+| bip_39_word_dash_12 | worry-pledge-trap-catch-want-present-domain-round-lens-tooth-relief-again |  
+| bip_39_word_dash_2 | worry-pledge |  
+| bip_39_word_dash_3 | worry-pledge-trap |  
+| bip_39_word_dash_4 | worry-pledge-trap-catch |  
+| bip_39_word_dash_5 | worry-pledge-trap-catch-want |  
+| bip_39_word_dash_6 | worry-pledge-trap-catch-want-present |  
+| bip_39_word_dash_7 | worry-pledge-trap-catch-want-present-domain |  
+| bip_39_word_dash_8 | worry-pledge-trap-catch-want-present-domain-round |  
+| bip_39_word_dash_9 | worry-pledge-trap-catch-want-present-domain-round-lens |  
 | bip_39_word_new_br_1 | worry |  
 | bip_39_word_new_br_10 | worry<br>pledge<br>trap<br>catch<br>want<br>present<br>domain<br>round<br>lens<br>tooth |  
 | bip_39_word_new_br_11 | worry<br>pledge<br>trap<br>catch<br>want<br>present<br>domain<br>round<br>lens<br>tooth<br>relief |  
@@ -147,6 +159,18 @@ lens |
 | bip_39_word_space_7 | worry pledge trap catch want present domain |  
 | bip_39_word_space_8 | worry pledge trap catch want present domain round |  
 | bip_39_word_space_9 | worry pledge trap catch want present domain round lens |  
+| bip_39_word_underscore_1 | worry |  
+| bip_39_word_underscore_10 | worry_pledge_trap_catch_want_present_domain_round_lens_tooth |  
+| bip_39_word_underscore_11 | worry_pledge_trap_catch_want_present_domain_round_lens_tooth_relief |  
+| bip_39_word_underscore_12 | worry_pledge_trap_catch_want_present_domain_round_lens_tooth_relief_again |  
+| bip_39_word_underscore_2 | worry_pledge |  
+| bip_39_word_underscore_3 | worry_pledge_trap |  
+| bip_39_word_underscore_4 | worry_pledge_trap_catch |  
+| bip_39_word_underscore_5 | worry_pledge_trap_catch_want |  
+| bip_39_word_underscore_6 | worry_pledge_trap_catch_want_present |  
+| bip_39_word_underscore_7 | worry_pledge_trap_catch_want_present_domain |  
+| bip_39_word_underscore_8 | worry_pledge_trap_catch_want_present_domain_round |  
+| bip_39_word_underscore_9 | worry_pledge_trap_catch_want_present_domain_round_lens |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plate |  
+| bip_39_word_dash_10 | plate-sniff-sphere-try-helmet-thrive-ribbon-bulb-moment-plastic |  
+| bip_39_word_dash_11 | plate-sniff-sphere-try-helmet-thrive-ribbon-bulb-moment-plastic-often |  
+| bip_39_word_dash_12 | plate-sniff-sphere-try-helmet-thrive-ribbon-bulb-moment-plastic-often-adapt |  
+| bip_39_word_dash_2 | plate-sniff |  
+| bip_39_word_dash_3 | plate-sniff-sphere |  
+| bip_39_word_dash_4 | plate-sniff-sphere-try |  
+| bip_39_word_dash_5 | plate-sniff-sphere-try-helmet |  
+| bip_39_word_dash_6 | plate-sniff-sphere-try-helmet-thrive |  
+| bip_39_word_dash_7 | plate-sniff-sphere-try-helmet-thrive-ribbon |  
+| bip_39_word_dash_8 | plate-sniff-sphere-try-helmet-thrive-ribbon-bulb |  
+| bip_39_word_dash_9 | plate-sniff-sphere-try-helmet-thrive-ribbon-bulb-moment |  
 | bip_39_word_new_br_1 | plate |  
 | bip_39_word_new_br_10 | plate<br>sniff<br>sphere<br>try<br>helmet<br>thrive<br>ribbon<br>bulb<br>moment<br>plastic |  
 | bip_39_word_new_br_11 | plate<br>sniff<br>sphere<br>try<br>helmet<br>thrive<br>ribbon<br>bulb<br>moment<br>plastic<br>often |  
@@ -147,6 +159,18 @@ moment |
 | bip_39_word_space_7 | plate sniff sphere try helmet thrive ribbon |  
 | bip_39_word_space_8 | plate sniff sphere try helmet thrive ribbon bulb |  
 | bip_39_word_space_9 | plate sniff sphere try helmet thrive ribbon bulb moment |  
+| bip_39_word_underscore_1 | plate |  
+| bip_39_word_underscore_10 | plate_sniff_sphere_try_helmet_thrive_ribbon_bulb_moment_plastic |  
+| bip_39_word_underscore_11 | plate_sniff_sphere_try_helmet_thrive_ribbon_bulb_moment_plastic_often |  
+| bip_39_word_underscore_12 | plate_sniff_sphere_try_helmet_thrive_ribbon_bulb_moment_plastic_often_adapt |  
+| bip_39_word_underscore_2 | plate_sniff |  
+| bip_39_word_underscore_3 | plate_sniff_sphere |  
+| bip_39_word_underscore_4 | plate_sniff_sphere_try |  
+| bip_39_word_underscore_5 | plate_sniff_sphere_try_helmet |  
+| bip_39_word_underscore_6 | plate_sniff_sphere_try_helmet_thrive |  
+| bip_39_word_underscore_7 | plate_sniff_sphere_try_helmet_thrive_ribbon |  
+| bip_39_word_underscore_8 | plate_sniff_sphere_try_helmet_thrive_ribbon_bulb |  
+| bip_39_word_underscore_9 | plate_sniff_sphere_try_helmet_thrive_ribbon_bulb_moment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

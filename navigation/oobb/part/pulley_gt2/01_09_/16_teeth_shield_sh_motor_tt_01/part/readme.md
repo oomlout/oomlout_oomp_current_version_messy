@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | position |  
+| bip_39_word_dash_10 | position-join-leg-record-benefit-reunion-keen-firm-warfare-much |  
+| bip_39_word_dash_11 | position-join-leg-record-benefit-reunion-keen-firm-warfare-much-world |  
+| bip_39_word_dash_12 | position-join-leg-record-benefit-reunion-keen-firm-warfare-much-world-amateur |  
+| bip_39_word_dash_2 | position-join |  
+| bip_39_word_dash_3 | position-join-leg |  
+| bip_39_word_dash_4 | position-join-leg-record |  
+| bip_39_word_dash_5 | position-join-leg-record-benefit |  
+| bip_39_word_dash_6 | position-join-leg-record-benefit-reunion |  
+| bip_39_word_dash_7 | position-join-leg-record-benefit-reunion-keen |  
+| bip_39_word_dash_8 | position-join-leg-record-benefit-reunion-keen-firm |  
+| bip_39_word_dash_9 | position-join-leg-record-benefit-reunion-keen-firm-warfare |  
 | bip_39_word_new_br_1 | position |  
 | bip_39_word_new_br_10 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much |  
 | bip_39_word_new_br_11 | position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much<br>world |  
@@ -147,6 +159,18 @@ warfare |
 | bip_39_word_space_7 | position join leg record benefit reunion keen |  
 | bip_39_word_space_8 | position join leg record benefit reunion keen firm |  
 | bip_39_word_space_9 | position join leg record benefit reunion keen firm warfare |  
+| bip_39_word_underscore_1 | position |  
+| bip_39_word_underscore_10 | position_join_leg_record_benefit_reunion_keen_firm_warfare_much |  
+| bip_39_word_underscore_11 | position_join_leg_record_benefit_reunion_keen_firm_warfare_much_world |  
+| bip_39_word_underscore_12 | position_join_leg_record_benefit_reunion_keen_firm_warfare_much_world_amateur |  
+| bip_39_word_underscore_2 | position_join |  
+| bip_39_word_underscore_3 | position_join_leg |  
+| bip_39_word_underscore_4 | position_join_leg_record |  
+| bip_39_word_underscore_5 | position_join_leg_record_benefit |  
+| bip_39_word_underscore_6 | position_join_leg_record_benefit_reunion |  
+| bip_39_word_underscore_7 | position_join_leg_record_benefit_reunion_keen |  
+| bip_39_word_underscore_8 | position_join_leg_record_benefit_reunion_keen_firm |  
+| bip_39_word_underscore_9 | position_join_leg_record_benefit_reunion_keen_firm_warfare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

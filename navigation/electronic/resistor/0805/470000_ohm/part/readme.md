@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | laugh |  
+| bip_39_word_dash_10 | laugh-pink-silver-hamster-drastic-story-edit-truck-convince-lion |  
+| bip_39_word_dash_11 | laugh-pink-silver-hamster-drastic-story-edit-truck-convince-lion-slab |  
+| bip_39_word_dash_12 | laugh-pink-silver-hamster-drastic-story-edit-truck-convince-lion-slab-animal |  
+| bip_39_word_dash_2 | laugh-pink |  
+| bip_39_word_dash_3 | laugh-pink-silver |  
+| bip_39_word_dash_4 | laugh-pink-silver-hamster |  
+| bip_39_word_dash_5 | laugh-pink-silver-hamster-drastic |  
+| bip_39_word_dash_6 | laugh-pink-silver-hamster-drastic-story |  
+| bip_39_word_dash_7 | laugh-pink-silver-hamster-drastic-story-edit |  
+| bip_39_word_dash_8 | laugh-pink-silver-hamster-drastic-story-edit-truck |  
+| bip_39_word_dash_9 | laugh-pink-silver-hamster-drastic-story-edit-truck-convince |  
 | bip_39_word_new_br_1 | laugh |  
 | bip_39_word_new_br_10 | laugh<br>pink<br>silver<br>hamster<br>drastic<br>story<br>edit<br>truck<br>convince<br>lion |  
 | bip_39_word_new_br_11 | laugh<br>pink<br>silver<br>hamster<br>drastic<br>story<br>edit<br>truck<br>convince<br>lion<br>slab |  
@@ -147,6 +159,18 @@ convince |
 | bip_39_word_space_7 | laugh pink silver hamster drastic story edit |  
 | bip_39_word_space_8 | laugh pink silver hamster drastic story edit truck |  
 | bip_39_word_space_9 | laugh pink silver hamster drastic story edit truck convince |  
+| bip_39_word_underscore_1 | laugh |  
+| bip_39_word_underscore_10 | laugh_pink_silver_hamster_drastic_story_edit_truck_convince_lion |  
+| bip_39_word_underscore_11 | laugh_pink_silver_hamster_drastic_story_edit_truck_convince_lion_slab |  
+| bip_39_word_underscore_12 | laugh_pink_silver_hamster_drastic_story_edit_truck_convince_lion_slab_animal |  
+| bip_39_word_underscore_2 | laugh_pink |  
+| bip_39_word_underscore_3 | laugh_pink_silver |  
+| bip_39_word_underscore_4 | laugh_pink_silver_hamster |  
+| bip_39_word_underscore_5 | laugh_pink_silver_hamster_drastic |  
+| bip_39_word_underscore_6 | laugh_pink_silver_hamster_drastic_story |  
+| bip_39_word_underscore_7 | laugh_pink_silver_hamster_drastic_story_edit |  
+| bip_39_word_underscore_8 | laugh_pink_silver_hamster_drastic_story_edit_truck |  
+| bip_39_word_underscore_9 | laugh_pink_silver_hamster_drastic_story_edit_truck_convince |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | just |  
+| bip_39_word_dash_10 | just-stem-jeans-carry-atom-depart-remind-action-decide-guess |  
+| bip_39_word_dash_11 | just-stem-jeans-carry-atom-depart-remind-action-decide-guess-army |  
+| bip_39_word_dash_12 | just-stem-jeans-carry-atom-depart-remind-action-decide-guess-army-accident |  
+| bip_39_word_dash_2 | just-stem |  
+| bip_39_word_dash_3 | just-stem-jeans |  
+| bip_39_word_dash_4 | just-stem-jeans-carry |  
+| bip_39_word_dash_5 | just-stem-jeans-carry-atom |  
+| bip_39_word_dash_6 | just-stem-jeans-carry-atom-depart |  
+| bip_39_word_dash_7 | just-stem-jeans-carry-atom-depart-remind |  
+| bip_39_word_dash_8 | just-stem-jeans-carry-atom-depart-remind-action |  
+| bip_39_word_dash_9 | just-stem-jeans-carry-atom-depart-remind-action-decide |  
 | bip_39_word_new_br_1 | just |  
 | bip_39_word_new_br_10 | just<br>stem<br>jeans<br>carry<br>atom<br>depart<br>remind<br>action<br>decide<br>guess |  
 | bip_39_word_new_br_11 | just<br>stem<br>jeans<br>carry<br>atom<br>depart<br>remind<br>action<br>decide<br>guess<br>army |  
@@ -147,6 +159,18 @@ decide |
 | bip_39_word_space_7 | just stem jeans carry atom depart remind |  
 | bip_39_word_space_8 | just stem jeans carry atom depart remind action |  
 | bip_39_word_space_9 | just stem jeans carry atom depart remind action decide |  
+| bip_39_word_underscore_1 | just |  
+| bip_39_word_underscore_10 | just_stem_jeans_carry_atom_depart_remind_action_decide_guess |  
+| bip_39_word_underscore_11 | just_stem_jeans_carry_atom_depart_remind_action_decide_guess_army |  
+| bip_39_word_underscore_12 | just_stem_jeans_carry_atom_depart_remind_action_decide_guess_army_accident |  
+| bip_39_word_underscore_2 | just_stem |  
+| bip_39_word_underscore_3 | just_stem_jeans |  
+| bip_39_word_underscore_4 | just_stem_jeans_carry |  
+| bip_39_word_underscore_5 | just_stem_jeans_carry_atom |  
+| bip_39_word_underscore_6 | just_stem_jeans_carry_atom_depart |  
+| bip_39_word_underscore_7 | just_stem_jeans_carry_atom_depart_remind |  
+| bip_39_word_underscore_8 | just_stem_jeans_carry_atom_depart_remind_action |  
+| bip_39_word_underscore_9 | just_stem_jeans_carry_atom_depart_remind_action_decide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

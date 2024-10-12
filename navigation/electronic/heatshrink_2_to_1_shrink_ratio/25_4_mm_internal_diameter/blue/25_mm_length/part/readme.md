@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | radar |  
+| bip_39_word_dash_10 | radar-equip-unit-bird-shrimp-gun-struggle-chronic-isolate-demise |  
+| bip_39_word_dash_11 | radar-equip-unit-bird-shrimp-gun-struggle-chronic-isolate-demise-federal |  
+| bip_39_word_dash_12 | radar-equip-unit-bird-shrimp-gun-struggle-chronic-isolate-demise-federal-assume |  
+| bip_39_word_dash_2 | radar-equip |  
+| bip_39_word_dash_3 | radar-equip-unit |  
+| bip_39_word_dash_4 | radar-equip-unit-bird |  
+| bip_39_word_dash_5 | radar-equip-unit-bird-shrimp |  
+| bip_39_word_dash_6 | radar-equip-unit-bird-shrimp-gun |  
+| bip_39_word_dash_7 | radar-equip-unit-bird-shrimp-gun-struggle |  
+| bip_39_word_dash_8 | radar-equip-unit-bird-shrimp-gun-struggle-chronic |  
+| bip_39_word_dash_9 | radar-equip-unit-bird-shrimp-gun-struggle-chronic-isolate |  
 | bip_39_word_new_br_1 | radar |  
 | bip_39_word_new_br_10 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise |  
 | bip_39_word_new_br_11 | radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise<br>federal |  
@@ -147,6 +159,18 @@ isolate |
 | bip_39_word_space_7 | radar equip unit bird shrimp gun struggle |  
 | bip_39_word_space_8 | radar equip unit bird shrimp gun struggle chronic |  
 | bip_39_word_space_9 | radar equip unit bird shrimp gun struggle chronic isolate |  
+| bip_39_word_underscore_1 | radar |  
+| bip_39_word_underscore_10 | radar_equip_unit_bird_shrimp_gun_struggle_chronic_isolate_demise |  
+| bip_39_word_underscore_11 | radar_equip_unit_bird_shrimp_gun_struggle_chronic_isolate_demise_federal |  
+| bip_39_word_underscore_12 | radar_equip_unit_bird_shrimp_gun_struggle_chronic_isolate_demise_federal_assume |  
+| bip_39_word_underscore_2 | radar_equip |  
+| bip_39_word_underscore_3 | radar_equip_unit |  
+| bip_39_word_underscore_4 | radar_equip_unit_bird |  
+| bip_39_word_underscore_5 | radar_equip_unit_bird_shrimp |  
+| bip_39_word_underscore_6 | radar_equip_unit_bird_shrimp_gun |  
+| bip_39_word_underscore_7 | radar_equip_unit_bird_shrimp_gun_struggle |  
+| bip_39_word_underscore_8 | radar_equip_unit_bird_shrimp_gun_struggle_chronic |  
+| bip_39_word_underscore_9 | radar_equip_unit_bird_shrimp_gun_struggle_chronic_isolate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | breeze |  
+| bip_39_word_dash_10 | breeze-citizen-pill-category-craft-obscure-camera-way-spike-virus |  
+| bip_39_word_dash_11 | breeze-citizen-pill-category-craft-obscure-camera-way-spike-virus-anxiety |  
+| bip_39_word_dash_12 | breeze-citizen-pill-category-craft-obscure-camera-way-spike-virus-anxiety-album |  
+| bip_39_word_dash_2 | breeze-citizen |  
+| bip_39_word_dash_3 | breeze-citizen-pill |  
+| bip_39_word_dash_4 | breeze-citizen-pill-category |  
+| bip_39_word_dash_5 | breeze-citizen-pill-category-craft |  
+| bip_39_word_dash_6 | breeze-citizen-pill-category-craft-obscure |  
+| bip_39_word_dash_7 | breeze-citizen-pill-category-craft-obscure-camera |  
+| bip_39_word_dash_8 | breeze-citizen-pill-category-craft-obscure-camera-way |  
+| bip_39_word_dash_9 | breeze-citizen-pill-category-craft-obscure-camera-way-spike |  
 | bip_39_word_new_br_1 | breeze |  
 | bip_39_word_new_br_10 | breeze<br>citizen<br>pill<br>category<br>craft<br>obscure<br>camera<br>way<br>spike<br>virus |  
 | bip_39_word_new_br_11 | breeze<br>citizen<br>pill<br>category<br>craft<br>obscure<br>camera<br>way<br>spike<br>virus<br>anxiety |  
@@ -147,6 +159,18 @@ spike |
 | bip_39_word_space_7 | breeze citizen pill category craft obscure camera |  
 | bip_39_word_space_8 | breeze citizen pill category craft obscure camera way |  
 | bip_39_word_space_9 | breeze citizen pill category craft obscure camera way spike |  
+| bip_39_word_underscore_1 | breeze |  
+| bip_39_word_underscore_10 | breeze_citizen_pill_category_craft_obscure_camera_way_spike_virus |  
+| bip_39_word_underscore_11 | breeze_citizen_pill_category_craft_obscure_camera_way_spike_virus_anxiety |  
+| bip_39_word_underscore_12 | breeze_citizen_pill_category_craft_obscure_camera_way_spike_virus_anxiety_album |  
+| bip_39_word_underscore_2 | breeze_citizen |  
+| bip_39_word_underscore_3 | breeze_citizen_pill |  
+| bip_39_word_underscore_4 | breeze_citizen_pill_category |  
+| bip_39_word_underscore_5 | breeze_citizen_pill_category_craft |  
+| bip_39_word_underscore_6 | breeze_citizen_pill_category_craft_obscure |  
+| bip_39_word_underscore_7 | breeze_citizen_pill_category_craft_obscure_camera |  
+| bip_39_word_underscore_8 | breeze_citizen_pill_category_craft_obscure_camera_way |  
+| bip_39_word_underscore_9 | breeze_citizen_pill_category_craft_obscure_camera_way_spike |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

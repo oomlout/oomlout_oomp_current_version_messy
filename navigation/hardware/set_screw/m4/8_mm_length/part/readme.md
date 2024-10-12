@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hard |  
+| bip_39_word_dash_10 | hard-drastic-cactus-decrease-fitness-kangaroo-caution-rally-clog-angry |  
+| bip_39_word_dash_11 | hard-drastic-cactus-decrease-fitness-kangaroo-caution-rally-clog-angry-spoon |  
+| bip_39_word_dash_12 | hard-drastic-cactus-decrease-fitness-kangaroo-caution-rally-clog-angry-spoon-august |  
+| bip_39_word_dash_2 | hard-drastic |  
+| bip_39_word_dash_3 | hard-drastic-cactus |  
+| bip_39_word_dash_4 | hard-drastic-cactus-decrease |  
+| bip_39_word_dash_5 | hard-drastic-cactus-decrease-fitness |  
+| bip_39_word_dash_6 | hard-drastic-cactus-decrease-fitness-kangaroo |  
+| bip_39_word_dash_7 | hard-drastic-cactus-decrease-fitness-kangaroo-caution |  
+| bip_39_word_dash_8 | hard-drastic-cactus-decrease-fitness-kangaroo-caution-rally |  
+| bip_39_word_dash_9 | hard-drastic-cactus-decrease-fitness-kangaroo-caution-rally-clog |  
 | bip_39_word_new_br_1 | hard |  
 | bip_39_word_new_br_10 | hard<br>drastic<br>cactus<br>decrease<br>fitness<br>kangaroo<br>caution<br>rally<br>clog<br>angry |  
 | bip_39_word_new_br_11 | hard<br>drastic<br>cactus<br>decrease<br>fitness<br>kangaroo<br>caution<br>rally<br>clog<br>angry<br>spoon |  
@@ -147,6 +159,18 @@ clog |
 | bip_39_word_space_7 | hard drastic cactus decrease fitness kangaroo caution |  
 | bip_39_word_space_8 | hard drastic cactus decrease fitness kangaroo caution rally |  
 | bip_39_word_space_9 | hard drastic cactus decrease fitness kangaroo caution rally clog |  
+| bip_39_word_underscore_1 | hard |  
+| bip_39_word_underscore_10 | hard_drastic_cactus_decrease_fitness_kangaroo_caution_rally_clog_angry |  
+| bip_39_word_underscore_11 | hard_drastic_cactus_decrease_fitness_kangaroo_caution_rally_clog_angry_spoon |  
+| bip_39_word_underscore_12 | hard_drastic_cactus_decrease_fitness_kangaroo_caution_rally_clog_angry_spoon_august |  
+| bip_39_word_underscore_2 | hard_drastic |  
+| bip_39_word_underscore_3 | hard_drastic_cactus |  
+| bip_39_word_underscore_4 | hard_drastic_cactus_decrease |  
+| bip_39_word_underscore_5 | hard_drastic_cactus_decrease_fitness |  
+| bip_39_word_underscore_6 | hard_drastic_cactus_decrease_fitness_kangaroo |  
+| bip_39_word_underscore_7 | hard_drastic_cactus_decrease_fitness_kangaroo_caution |  
+| bip_39_word_underscore_8 | hard_drastic_cactus_decrease_fitness_kangaroo_caution_rally |  
+| bip_39_word_underscore_9 | hard_drastic_cactus_decrease_fitness_kangaroo_caution_rally_clog |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

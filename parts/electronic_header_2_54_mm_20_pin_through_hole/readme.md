@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | custom |  
+| bip_39_word_dash_10 | custom-lab-desk-pluck-tree-general-oppose-defense-enroll-blast |  
+| bip_39_word_dash_11 | custom-lab-desk-pluck-tree-general-oppose-defense-enroll-blast-furnace |  
+| bip_39_word_dash_12 | custom-lab-desk-pluck-tree-general-oppose-defense-enroll-blast-furnace-attitude |  
+| bip_39_word_dash_2 | custom-lab |  
+| bip_39_word_dash_3 | custom-lab-desk |  
+| bip_39_word_dash_4 | custom-lab-desk-pluck |  
+| bip_39_word_dash_5 | custom-lab-desk-pluck-tree |  
+| bip_39_word_dash_6 | custom-lab-desk-pluck-tree-general |  
+| bip_39_word_dash_7 | custom-lab-desk-pluck-tree-general-oppose |  
+| bip_39_word_dash_8 | custom-lab-desk-pluck-tree-general-oppose-defense |  
+| bip_39_word_dash_9 | custom-lab-desk-pluck-tree-general-oppose-defense-enroll |  
 | bip_39_word_new_br_1 | custom |  
 | bip_39_word_new_br_10 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast |  
 | bip_39_word_new_br_11 | custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast<br>furnace |  
@@ -147,6 +159,18 @@ enroll |
 | bip_39_word_space_7 | custom lab desk pluck tree general oppose |  
 | bip_39_word_space_8 | custom lab desk pluck tree general oppose defense |  
 | bip_39_word_space_9 | custom lab desk pluck tree general oppose defense enroll |  
+| bip_39_word_underscore_1 | custom |  
+| bip_39_word_underscore_10 | custom_lab_desk_pluck_tree_general_oppose_defense_enroll_blast |  
+| bip_39_word_underscore_11 | custom_lab_desk_pluck_tree_general_oppose_defense_enroll_blast_furnace |  
+| bip_39_word_underscore_12 | custom_lab_desk_pluck_tree_general_oppose_defense_enroll_blast_furnace_attitude |  
+| bip_39_word_underscore_2 | custom_lab |  
+| bip_39_word_underscore_3 | custom_lab_desk |  
+| bip_39_word_underscore_4 | custom_lab_desk_pluck |  
+| bip_39_word_underscore_5 | custom_lab_desk_pluck_tree |  
+| bip_39_word_underscore_6 | custom_lab_desk_pluck_tree_general |  
+| bip_39_word_underscore_7 | custom_lab_desk_pluck_tree_general_oppose |  
+| bip_39_word_underscore_8 | custom_lab_desk_pluck_tree_general_oppose_defense |  
+| bip_39_word_underscore_9 | custom_lab_desk_pluck_tree_general_oppose_defense_enroll |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ketchup |  
+| bip_39_word_dash_10 | ketchup-second-universe-useful-cruise-cinnamon-joke-original-arrow-axis |  
+| bip_39_word_dash_11 | ketchup-second-universe-useful-cruise-cinnamon-joke-original-arrow-axis-announce |  
+| bip_39_word_dash_12 | ketchup-second-universe-useful-cruise-cinnamon-joke-original-arrow-axis-announce-arrive |  
+| bip_39_word_dash_2 | ketchup-second |  
+| bip_39_word_dash_3 | ketchup-second-universe |  
+| bip_39_word_dash_4 | ketchup-second-universe-useful |  
+| bip_39_word_dash_5 | ketchup-second-universe-useful-cruise |  
+| bip_39_word_dash_6 | ketchup-second-universe-useful-cruise-cinnamon |  
+| bip_39_word_dash_7 | ketchup-second-universe-useful-cruise-cinnamon-joke |  
+| bip_39_word_dash_8 | ketchup-second-universe-useful-cruise-cinnamon-joke-original |  
+| bip_39_word_dash_9 | ketchup-second-universe-useful-cruise-cinnamon-joke-original-arrow |  
 | bip_39_word_new_br_1 | ketchup |  
 | bip_39_word_new_br_10 | ketchup<br>second<br>universe<br>useful<br>cruise<br>cinnamon<br>joke<br>original<br>arrow<br>axis |  
 | bip_39_word_new_br_11 | ketchup<br>second<br>universe<br>useful<br>cruise<br>cinnamon<br>joke<br>original<br>arrow<br>axis<br>announce |  
@@ -147,6 +159,18 @@ arrow |
 | bip_39_word_space_7 | ketchup second universe useful cruise cinnamon joke |  
 | bip_39_word_space_8 | ketchup second universe useful cruise cinnamon joke original |  
 | bip_39_word_space_9 | ketchup second universe useful cruise cinnamon joke original arrow |  
+| bip_39_word_underscore_1 | ketchup |  
+| bip_39_word_underscore_10 | ketchup_second_universe_useful_cruise_cinnamon_joke_original_arrow_axis |  
+| bip_39_word_underscore_11 | ketchup_second_universe_useful_cruise_cinnamon_joke_original_arrow_axis_announce |  
+| bip_39_word_underscore_12 | ketchup_second_universe_useful_cruise_cinnamon_joke_original_arrow_axis_announce_arrive |  
+| bip_39_word_underscore_2 | ketchup_second |  
+| bip_39_word_underscore_3 | ketchup_second_universe |  
+| bip_39_word_underscore_4 | ketchup_second_universe_useful |  
+| bip_39_word_underscore_5 | ketchup_second_universe_useful_cruise |  
+| bip_39_word_underscore_6 | ketchup_second_universe_useful_cruise_cinnamon |  
+| bip_39_word_underscore_7 | ketchup_second_universe_useful_cruise_cinnamon_joke |  
+| bip_39_word_underscore_8 | ketchup_second_universe_useful_cruise_cinnamon_joke_original |  
+| bip_39_word_underscore_9 | ketchup_second_universe_useful_cruise_cinnamon_joke_original_arrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | holiday |  
+| bip_39_word_dash_10 | holiday-tourist-valley-parent-barely-word-stomach-swarm-cup-oval |  
+| bip_39_word_dash_11 | holiday-tourist-valley-parent-barely-word-stomach-swarm-cup-oval-record |  
+| bip_39_word_dash_12 | holiday-tourist-valley-parent-barely-word-stomach-swarm-cup-oval-record-alley |  
+| bip_39_word_dash_2 | holiday-tourist |  
+| bip_39_word_dash_3 | holiday-tourist-valley |  
+| bip_39_word_dash_4 | holiday-tourist-valley-parent |  
+| bip_39_word_dash_5 | holiday-tourist-valley-parent-barely |  
+| bip_39_word_dash_6 | holiday-tourist-valley-parent-barely-word |  
+| bip_39_word_dash_7 | holiday-tourist-valley-parent-barely-word-stomach |  
+| bip_39_word_dash_8 | holiday-tourist-valley-parent-barely-word-stomach-swarm |  
+| bip_39_word_dash_9 | holiday-tourist-valley-parent-barely-word-stomach-swarm-cup |  
 | bip_39_word_new_br_1 | holiday |  
 | bip_39_word_new_br_10 | holiday<br>tourist<br>valley<br>parent<br>barely<br>word<br>stomach<br>swarm<br>cup<br>oval |  
 | bip_39_word_new_br_11 | holiday<br>tourist<br>valley<br>parent<br>barely<br>word<br>stomach<br>swarm<br>cup<br>oval<br>record |  
@@ -147,6 +159,18 @@ cup |
 | bip_39_word_space_7 | holiday tourist valley parent barely word stomach |  
 | bip_39_word_space_8 | holiday tourist valley parent barely word stomach swarm |  
 | bip_39_word_space_9 | holiday tourist valley parent barely word stomach swarm cup |  
+| bip_39_word_underscore_1 | holiday |  
+| bip_39_word_underscore_10 | holiday_tourist_valley_parent_barely_word_stomach_swarm_cup_oval |  
+| bip_39_word_underscore_11 | holiday_tourist_valley_parent_barely_word_stomach_swarm_cup_oval_record |  
+| bip_39_word_underscore_12 | holiday_tourist_valley_parent_barely_word_stomach_swarm_cup_oval_record_alley |  
+| bip_39_word_underscore_2 | holiday_tourist |  
+| bip_39_word_underscore_3 | holiday_tourist_valley |  
+| bip_39_word_underscore_4 | holiday_tourist_valley_parent |  
+| bip_39_word_underscore_5 | holiday_tourist_valley_parent_barely |  
+| bip_39_word_underscore_6 | holiday_tourist_valley_parent_barely_word |  
+| bip_39_word_underscore_7 | holiday_tourist_valley_parent_barely_word_stomach |  
+| bip_39_word_underscore_8 | holiday_tourist_valley_parent_barely_word_stomach_swarm |  
+| bip_39_word_underscore_9 | holiday_tourist_valley_parent_barely_word_stomach_swarm_cup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

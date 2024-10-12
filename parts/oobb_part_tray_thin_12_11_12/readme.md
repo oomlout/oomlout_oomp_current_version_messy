@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | conduct |  
+| bip_39_word_dash_10 | conduct-flee-rule-gadget-mother-hip-limb-license-winner-olive |  
+| bip_39_word_dash_11 | conduct-flee-rule-gadget-mother-hip-limb-license-winner-olive-ugly |  
+| bip_39_word_dash_12 | conduct-flee-rule-gadget-mother-hip-limb-license-winner-olive-ugly-afford |  
+| bip_39_word_dash_2 | conduct-flee |  
+| bip_39_word_dash_3 | conduct-flee-rule |  
+| bip_39_word_dash_4 | conduct-flee-rule-gadget |  
+| bip_39_word_dash_5 | conduct-flee-rule-gadget-mother |  
+| bip_39_word_dash_6 | conduct-flee-rule-gadget-mother-hip |  
+| bip_39_word_dash_7 | conduct-flee-rule-gadget-mother-hip-limb |  
+| bip_39_word_dash_8 | conduct-flee-rule-gadget-mother-hip-limb-license |  
+| bip_39_word_dash_9 | conduct-flee-rule-gadget-mother-hip-limb-license-winner |  
 | bip_39_word_new_br_1 | conduct |  
 | bip_39_word_new_br_10 | conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license<br>winner<br>olive |  
 | bip_39_word_new_br_11 | conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license<br>winner<br>olive<br>ugly |  
@@ -147,6 +159,18 @@ winner |
 | bip_39_word_space_7 | conduct flee rule gadget mother hip limb |  
 | bip_39_word_space_8 | conduct flee rule gadget mother hip limb license |  
 | bip_39_word_space_9 | conduct flee rule gadget mother hip limb license winner |  
+| bip_39_word_underscore_1 | conduct |  
+| bip_39_word_underscore_10 | conduct_flee_rule_gadget_mother_hip_limb_license_winner_olive |  
+| bip_39_word_underscore_11 | conduct_flee_rule_gadget_mother_hip_limb_license_winner_olive_ugly |  
+| bip_39_word_underscore_12 | conduct_flee_rule_gadget_mother_hip_limb_license_winner_olive_ugly_afford |  
+| bip_39_word_underscore_2 | conduct_flee |  
+| bip_39_word_underscore_3 | conduct_flee_rule |  
+| bip_39_word_underscore_4 | conduct_flee_rule_gadget |  
+| bip_39_word_underscore_5 | conduct_flee_rule_gadget_mother |  
+| bip_39_word_underscore_6 | conduct_flee_rule_gadget_mother_hip |  
+| bip_39_word_underscore_7 | conduct_flee_rule_gadget_mother_hip_limb |  
+| bip_39_word_underscore_8 | conduct_flee_rule_gadget_mother_hip_limb_license |  
+| bip_39_word_underscore_9 | conduct_flee_rule_gadget_mother_hip_limb_license_winner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

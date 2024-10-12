@@ -1,3 +1,15 @@
+bip_39_word_dash_1: curious
+bip_39_word_dash_10: curious-coach-retire-never-hungry-ice-peace-travel-friend-finish
+bip_39_word_dash_11: curious-coach-retire-never-hungry-ice-peace-travel-friend-finish-lazy
+bip_39_word_dash_12: curious-coach-retire-never-hungry-ice-peace-travel-friend-finish-lazy-aisle
+bip_39_word_dash_2: curious-coach
+bip_39_word_dash_3: curious-coach-retire
+bip_39_word_dash_4: curious-coach-retire-never
+bip_39_word_dash_5: curious-coach-retire-never-hungry
+bip_39_word_dash_6: curious-coach-retire-never-hungry-ice
+bip_39_word_dash_7: curious-coach-retire-never-hungry-ice-peace
+bip_39_word_dash_8: curious-coach-retire-never-hungry-ice-peace-travel
+bip_39_word_dash_9: curious-coach-retire-never-hungry-ice-peace-travel-friend
 bip_39_word_new_br_1: curious
 bip_39_word_new_br_10: curious<br>coach<br>retire<br>never<br>hungry<br>ice<br>peace<br>travel<br>friend<br>finish
 bip_39_word_new_br_11: curious<br>coach<br>retire<br>never<br>hungry<br>ice<br>peace<br>travel<br>friend<br>finish<br>lazy
@@ -193,6 +205,18 @@ bip_39_word_space_6: curious coach retire never hungry ice
 bip_39_word_space_7: curious coach retire never hungry ice peace
 bip_39_word_space_8: curious coach retire never hungry ice peace travel
 bip_39_word_space_9: curious coach retire never hungry ice peace travel friend
+bip_39_word_underscore_1: curious
+bip_39_word_underscore_10: curious_coach_retire_never_hungry_ice_peace_travel_friend_finish
+bip_39_word_underscore_11: curious_coach_retire_never_hungry_ice_peace_travel_friend_finish_lazy
+bip_39_word_underscore_12: curious_coach_retire_never_hungry_ice_peace_travel_friend_finish_lazy_aisle
+bip_39_word_underscore_2: curious_coach
+bip_39_word_underscore_3: curious_coach_retire
+bip_39_word_underscore_4: curious_coach_retire_never
+bip_39_word_underscore_5: curious_coach_retire_never_hungry
+bip_39_word_underscore_6: curious_coach_retire_never_hungry_ice
+bip_39_word_underscore_7: curious_coach_retire_never_hungry_ice_peace
+bip_39_word_underscore_8: curious_coach_retire_never_hungry_ice_peace_travel
+bip_39_word_underscore_9: curious_coach_retire_never_hungry_ice_peace_travel_friend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | often |  
+| bip_39_word_dash_10 | often-venture-barrel-ozone-north-alarm-make-guitar-typical-test |  
+| bip_39_word_dash_11 | often-venture-barrel-ozone-north-alarm-make-guitar-typical-test-certain |  
+| bip_39_word_dash_12 | often-venture-barrel-ozone-north-alarm-make-guitar-typical-test-certain-afford |  
+| bip_39_word_dash_2 | often-venture |  
+| bip_39_word_dash_3 | often-venture-barrel |  
+| bip_39_word_dash_4 | often-venture-barrel-ozone |  
+| bip_39_word_dash_5 | often-venture-barrel-ozone-north |  
+| bip_39_word_dash_6 | often-venture-barrel-ozone-north-alarm |  
+| bip_39_word_dash_7 | often-venture-barrel-ozone-north-alarm-make |  
+| bip_39_word_dash_8 | often-venture-barrel-ozone-north-alarm-make-guitar |  
+| bip_39_word_dash_9 | often-venture-barrel-ozone-north-alarm-make-guitar-typical |  
 | bip_39_word_new_br_1 | often |  
 | bip_39_word_new_br_10 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar<br>typical<br>test |  
 | bip_39_word_new_br_11 | often<br>venture<br>barrel<br>ozone<br>north<br>alarm<br>make<br>guitar<br>typical<br>test<br>certain |  
@@ -147,6 +159,18 @@ typical |
 | bip_39_word_space_7 | often venture barrel ozone north alarm make |  
 | bip_39_word_space_8 | often venture barrel ozone north alarm make guitar |  
 | bip_39_word_space_9 | often venture barrel ozone north alarm make guitar typical |  
+| bip_39_word_underscore_1 | often |  
+| bip_39_word_underscore_10 | often_venture_barrel_ozone_north_alarm_make_guitar_typical_test |  
+| bip_39_word_underscore_11 | often_venture_barrel_ozone_north_alarm_make_guitar_typical_test_certain |  
+| bip_39_word_underscore_12 | often_venture_barrel_ozone_north_alarm_make_guitar_typical_test_certain_afford |  
+| bip_39_word_underscore_2 | often_venture |  
+| bip_39_word_underscore_3 | often_venture_barrel |  
+| bip_39_word_underscore_4 | often_venture_barrel_ozone |  
+| bip_39_word_underscore_5 | often_venture_barrel_ozone_north |  
+| bip_39_word_underscore_6 | often_venture_barrel_ozone_north_alarm |  
+| bip_39_word_underscore_7 | often_venture_barrel_ozone_north_alarm_make |  
+| bip_39_word_underscore_8 | often_venture_barrel_ozone_north_alarm_make_guitar |  
+| bip_39_word_underscore_9 | often_venture_barrel_ozone_north_alarm_make_guitar_typical |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

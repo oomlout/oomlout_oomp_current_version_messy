@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chair
+bip_39_word_dash_10: chair-wool-pupil-pave-chimney-upon-lemon-guitar-moral-away
+bip_39_word_dash_11: chair-wool-pupil-pave-chimney-upon-lemon-guitar-moral-away-agree
+bip_39_word_dash_12: chair-wool-pupil-pave-chimney-upon-lemon-guitar-moral-away-agree-ahead
+bip_39_word_dash_2: chair-wool
+bip_39_word_dash_3: chair-wool-pupil
+bip_39_word_dash_4: chair-wool-pupil-pave
+bip_39_word_dash_5: chair-wool-pupil-pave-chimney
+bip_39_word_dash_6: chair-wool-pupil-pave-chimney-upon
+bip_39_word_dash_7: chair-wool-pupil-pave-chimney-upon-lemon
+bip_39_word_dash_8: chair-wool-pupil-pave-chimney-upon-lemon-guitar
+bip_39_word_dash_9: chair-wool-pupil-pave-chimney-upon-lemon-guitar-moral
 bip_39_word_new_br_1: chair
 bip_39_word_new_br_10: chair<br>wool<br>pupil<br>pave<br>chimney<br>upon<br>lemon<br>guitar<br>moral<br>away
 bip_39_word_new_br_11: chair<br>wool<br>pupil<br>pave<br>chimney<br>upon<br>lemon<br>guitar<br>moral<br>away<br>agree
@@ -192,6 +204,18 @@ bip_39_word_space_6: chair wool pupil pave chimney upon
 bip_39_word_space_7: chair wool pupil pave chimney upon lemon
 bip_39_word_space_8: chair wool pupil pave chimney upon lemon guitar
 bip_39_word_space_9: chair wool pupil pave chimney upon lemon guitar moral
+bip_39_word_underscore_1: chair
+bip_39_word_underscore_10: chair_wool_pupil_pave_chimney_upon_lemon_guitar_moral_away
+bip_39_word_underscore_11: chair_wool_pupil_pave_chimney_upon_lemon_guitar_moral_away_agree
+bip_39_word_underscore_12: chair_wool_pupil_pave_chimney_upon_lemon_guitar_moral_away_agree_ahead
+bip_39_word_underscore_2: chair_wool
+bip_39_word_underscore_3: chair_wool_pupil
+bip_39_word_underscore_4: chair_wool_pupil_pave
+bip_39_word_underscore_5: chair_wool_pupil_pave_chimney
+bip_39_word_underscore_6: chair_wool_pupil_pave_chimney_upon
+bip_39_word_underscore_7: chair_wool_pupil_pave_chimney_upon_lemon
+bip_39_word_underscore_8: chair_wool_pupil_pave_chimney_upon_lemon_guitar
+bip_39_word_underscore_9: chair_wool_pupil_pave_chimney_upon_lemon_guitar_moral
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gentle |  
+| bip_39_word_dash_10 | gentle-verify-engage-glimpse-age-jelly-brave-inhale-talent-indicate |  
+| bip_39_word_dash_11 | gentle-verify-engage-glimpse-age-jelly-brave-inhale-talent-indicate-execute |  
+| bip_39_word_dash_12 | gentle-verify-engage-glimpse-age-jelly-brave-inhale-talent-indicate-execute-audit |  
+| bip_39_word_dash_2 | gentle-verify |  
+| bip_39_word_dash_3 | gentle-verify-engage |  
+| bip_39_word_dash_4 | gentle-verify-engage-glimpse |  
+| bip_39_word_dash_5 | gentle-verify-engage-glimpse-age |  
+| bip_39_word_dash_6 | gentle-verify-engage-glimpse-age-jelly |  
+| bip_39_word_dash_7 | gentle-verify-engage-glimpse-age-jelly-brave |  
+| bip_39_word_dash_8 | gentle-verify-engage-glimpse-age-jelly-brave-inhale |  
+| bip_39_word_dash_9 | gentle-verify-engage-glimpse-age-jelly-brave-inhale-talent |  
 | bip_39_word_new_br_1 | gentle |  
 | bip_39_word_new_br_10 | gentle<br>verify<br>engage<br>glimpse<br>age<br>jelly<br>brave<br>inhale<br>talent<br>indicate |  
 | bip_39_word_new_br_11 | gentle<br>verify<br>engage<br>glimpse<br>age<br>jelly<br>brave<br>inhale<br>talent<br>indicate<br>execute |  
@@ -147,6 +159,18 @@ talent |
 | bip_39_word_space_7 | gentle verify engage glimpse age jelly brave |  
 | bip_39_word_space_8 | gentle verify engage glimpse age jelly brave inhale |  
 | bip_39_word_space_9 | gentle verify engage glimpse age jelly brave inhale talent |  
+| bip_39_word_underscore_1 | gentle |  
+| bip_39_word_underscore_10 | gentle_verify_engage_glimpse_age_jelly_brave_inhale_talent_indicate |  
+| bip_39_word_underscore_11 | gentle_verify_engage_glimpse_age_jelly_brave_inhale_talent_indicate_execute |  
+| bip_39_word_underscore_12 | gentle_verify_engage_glimpse_age_jelly_brave_inhale_talent_indicate_execute_audit |  
+| bip_39_word_underscore_2 | gentle_verify |  
+| bip_39_word_underscore_3 | gentle_verify_engage |  
+| bip_39_word_underscore_4 | gentle_verify_engage_glimpse |  
+| bip_39_word_underscore_5 | gentle_verify_engage_glimpse_age |  
+| bip_39_word_underscore_6 | gentle_verify_engage_glimpse_age_jelly |  
+| bip_39_word_underscore_7 | gentle_verify_engage_glimpse_age_jelly_brave |  
+| bip_39_word_underscore_8 | gentle_verify_engage_glimpse_age_jelly_brave_inhale |  
+| bip_39_word_underscore_9 | gentle_verify_engage_glimpse_age_jelly_brave_inhale_talent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

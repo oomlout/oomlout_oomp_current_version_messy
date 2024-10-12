@@ -1,3 +1,15 @@
+bip_39_word_dash_1: require
+bip_39_word_dash_10: require-course-shine-spin-escape-loan-breeze-beauty-install-monster
+bip_39_word_dash_11: require-course-shine-spin-escape-loan-breeze-beauty-install-monster-step
+bip_39_word_dash_12: require-course-shine-spin-escape-loan-breeze-beauty-install-monster-step-amount
+bip_39_word_dash_2: require-course
+bip_39_word_dash_3: require-course-shine
+bip_39_word_dash_4: require-course-shine-spin
+bip_39_word_dash_5: require-course-shine-spin-escape
+bip_39_word_dash_6: require-course-shine-spin-escape-loan
+bip_39_word_dash_7: require-course-shine-spin-escape-loan-breeze
+bip_39_word_dash_8: require-course-shine-spin-escape-loan-breeze-beauty
+bip_39_word_dash_9: require-course-shine-spin-escape-loan-breeze-beauty-install
 bip_39_word_new_br_1: require
 bip_39_word_new_br_10: require<br>course<br>shine<br>spin<br>escape<br>loan<br>breeze<br>beauty<br>install<br>monster
 bip_39_word_new_br_11: require<br>course<br>shine<br>spin<br>escape<br>loan<br>breeze<br>beauty<br>install<br>monster<br>step
@@ -194,6 +206,18 @@ bip_39_word_space_6: require course shine spin escape loan
 bip_39_word_space_7: require course shine spin escape loan breeze
 bip_39_word_space_8: require course shine spin escape loan breeze beauty
 bip_39_word_space_9: require course shine spin escape loan breeze beauty install
+bip_39_word_underscore_1: require
+bip_39_word_underscore_10: require_course_shine_spin_escape_loan_breeze_beauty_install_monster
+bip_39_word_underscore_11: require_course_shine_spin_escape_loan_breeze_beauty_install_monster_step
+bip_39_word_underscore_12: require_course_shine_spin_escape_loan_breeze_beauty_install_monster_step_amount
+bip_39_word_underscore_2: require_course
+bip_39_word_underscore_3: require_course_shine
+bip_39_word_underscore_4: require_course_shine_spin
+bip_39_word_underscore_5: require_course_shine_spin_escape
+bip_39_word_underscore_6: require_course_shine_spin_escape_loan
+bip_39_word_underscore_7: require_course_shine_spin_escape_loan_breeze
+bip_39_word_underscore_8: require_course_shine_spin_escape_loan_breeze_beauty
+bip_39_word_underscore_9: require_course_shine_spin_escape_loan_breeze_beauty_install
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

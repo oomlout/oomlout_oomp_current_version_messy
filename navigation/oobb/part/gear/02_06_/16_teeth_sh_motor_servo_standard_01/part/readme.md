@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | champion |  
+| bip_39_word_dash_10 | champion-company-alpha-poet-link-ridge-render-umbrella-consider-liquid |  
+| bip_39_word_dash_11 | champion-company-alpha-poet-link-ridge-render-umbrella-consider-liquid-bulk |  
+| bip_39_word_dash_12 | champion-company-alpha-poet-link-ridge-render-umbrella-consider-liquid-bulk-angle |  
+| bip_39_word_dash_2 | champion-company |  
+| bip_39_word_dash_3 | champion-company-alpha |  
+| bip_39_word_dash_4 | champion-company-alpha-poet |  
+| bip_39_word_dash_5 | champion-company-alpha-poet-link |  
+| bip_39_word_dash_6 | champion-company-alpha-poet-link-ridge |  
+| bip_39_word_dash_7 | champion-company-alpha-poet-link-ridge-render |  
+| bip_39_word_dash_8 | champion-company-alpha-poet-link-ridge-render-umbrella |  
+| bip_39_word_dash_9 | champion-company-alpha-poet-link-ridge-render-umbrella-consider |  
 | bip_39_word_new_br_1 | champion |  
 | bip_39_word_new_br_10 | champion<br>company<br>alpha<br>poet<br>link<br>ridge<br>render<br>umbrella<br>consider<br>liquid |  
 | bip_39_word_new_br_11 | champion<br>company<br>alpha<br>poet<br>link<br>ridge<br>render<br>umbrella<br>consider<br>liquid<br>bulk |  
@@ -147,6 +159,18 @@ consider |
 | bip_39_word_space_7 | champion company alpha poet link ridge render |  
 | bip_39_word_space_8 | champion company alpha poet link ridge render umbrella |  
 | bip_39_word_space_9 | champion company alpha poet link ridge render umbrella consider |  
+| bip_39_word_underscore_1 | champion |  
+| bip_39_word_underscore_10 | champion_company_alpha_poet_link_ridge_render_umbrella_consider_liquid |  
+| bip_39_word_underscore_11 | champion_company_alpha_poet_link_ridge_render_umbrella_consider_liquid_bulk |  
+| bip_39_word_underscore_12 | champion_company_alpha_poet_link_ridge_render_umbrella_consider_liquid_bulk_angle |  
+| bip_39_word_underscore_2 | champion_company |  
+| bip_39_word_underscore_3 | champion_company_alpha |  
+| bip_39_word_underscore_4 | champion_company_alpha_poet |  
+| bip_39_word_underscore_5 | champion_company_alpha_poet_link |  
+| bip_39_word_underscore_6 | champion_company_alpha_poet_link_ridge |  
+| bip_39_word_underscore_7 | champion_company_alpha_poet_link_ridge_render |  
+| bip_39_word_underscore_8 | champion_company_alpha_poet_link_ridge_render_umbrella |  
+| bip_39_word_underscore_9 | champion_company_alpha_poet_link_ridge_render_umbrella_consider |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

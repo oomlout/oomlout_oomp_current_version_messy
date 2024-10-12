@@ -1,3 +1,15 @@
+bip_39_word_dash_1: collect
+bip_39_word_dash_10: collect-setup-cram-post-drum-tragic-under-happy-shuffle-siege
+bip_39_word_dash_11: collect-setup-cram-post-drum-tragic-under-happy-shuffle-siege-suggest
+bip_39_word_dash_12: collect-setup-cram-post-drum-tragic-under-happy-shuffle-siege-suggest-accident
+bip_39_word_dash_2: collect-setup
+bip_39_word_dash_3: collect-setup-cram
+bip_39_word_dash_4: collect-setup-cram-post
+bip_39_word_dash_5: collect-setup-cram-post-drum
+bip_39_word_dash_6: collect-setup-cram-post-drum-tragic
+bip_39_word_dash_7: collect-setup-cram-post-drum-tragic-under
+bip_39_word_dash_8: collect-setup-cram-post-drum-tragic-under-happy
+bip_39_word_dash_9: collect-setup-cram-post-drum-tragic-under-happy-shuffle
 bip_39_word_new_br_1: collect
 bip_39_word_new_br_10: collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy<br>shuffle<br>siege
 bip_39_word_new_br_11: collect<br>setup<br>cram<br>post<br>drum<br>tragic<br>under<br>happy<br>shuffle<br>siege<br>suggest
@@ -193,6 +205,18 @@ bip_39_word_space_6: collect setup cram post drum tragic
 bip_39_word_space_7: collect setup cram post drum tragic under
 bip_39_word_space_8: collect setup cram post drum tragic under happy
 bip_39_word_space_9: collect setup cram post drum tragic under happy shuffle
+bip_39_word_underscore_1: collect
+bip_39_word_underscore_10: collect_setup_cram_post_drum_tragic_under_happy_shuffle_siege
+bip_39_word_underscore_11: collect_setup_cram_post_drum_tragic_under_happy_shuffle_siege_suggest
+bip_39_word_underscore_12: collect_setup_cram_post_drum_tragic_under_happy_shuffle_siege_suggest_accident
+bip_39_word_underscore_2: collect_setup
+bip_39_word_underscore_3: collect_setup_cram
+bip_39_word_underscore_4: collect_setup_cram_post
+bip_39_word_underscore_5: collect_setup_cram_post_drum
+bip_39_word_underscore_6: collect_setup_cram_post_drum_tragic
+bip_39_word_underscore_7: collect_setup_cram_post_drum_tragic_under
+bip_39_word_underscore_8: collect_setup_cram_post_drum_tragic_under_happy
+bip_39_word_underscore_9: collect_setup_cram_post_drum_tragic_under_happy_shuffle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: satisfy
+bip_39_word_dash_10: satisfy-scorpion-toss-unlock-impact-equip-blast-robot-eight-equal
+bip_39_word_dash_11: satisfy-scorpion-toss-unlock-impact-equip-blast-robot-eight-equal-report
+bip_39_word_dash_12: satisfy-scorpion-toss-unlock-impact-equip-blast-robot-eight-equal-report-allow
+bip_39_word_dash_2: satisfy-scorpion
+bip_39_word_dash_3: satisfy-scorpion-toss
+bip_39_word_dash_4: satisfy-scorpion-toss-unlock
+bip_39_word_dash_5: satisfy-scorpion-toss-unlock-impact
+bip_39_word_dash_6: satisfy-scorpion-toss-unlock-impact-equip
+bip_39_word_dash_7: satisfy-scorpion-toss-unlock-impact-equip-blast
+bip_39_word_dash_8: satisfy-scorpion-toss-unlock-impact-equip-blast-robot
+bip_39_word_dash_9: satisfy-scorpion-toss-unlock-impact-equip-blast-robot-eight
 bip_39_word_new_br_1: satisfy
 bip_39_word_new_br_10: satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot<br>eight<br>equal
 bip_39_word_new_br_11: satisfy<br>scorpion<br>toss<br>unlock<br>impact<br>equip<br>blast<br>robot<br>eight<br>equal<br>report
@@ -194,6 +206,18 @@ bip_39_word_space_6: satisfy scorpion toss unlock impact equip
 bip_39_word_space_7: satisfy scorpion toss unlock impact equip blast
 bip_39_word_space_8: satisfy scorpion toss unlock impact equip blast robot
 bip_39_word_space_9: satisfy scorpion toss unlock impact equip blast robot eight
+bip_39_word_underscore_1: satisfy
+bip_39_word_underscore_10: satisfy_scorpion_toss_unlock_impact_equip_blast_robot_eight_equal
+bip_39_word_underscore_11: satisfy_scorpion_toss_unlock_impact_equip_blast_robot_eight_equal_report
+bip_39_word_underscore_12: satisfy_scorpion_toss_unlock_impact_equip_blast_robot_eight_equal_report_allow
+bip_39_word_underscore_2: satisfy_scorpion
+bip_39_word_underscore_3: satisfy_scorpion_toss
+bip_39_word_underscore_4: satisfy_scorpion_toss_unlock
+bip_39_word_underscore_5: satisfy_scorpion_toss_unlock_impact
+bip_39_word_underscore_6: satisfy_scorpion_toss_unlock_impact_equip
+bip_39_word_underscore_7: satisfy_scorpion_toss_unlock_impact_equip_blast
+bip_39_word_underscore_8: satisfy_scorpion_toss_unlock_impact_equip_blast_robot
+bip_39_word_underscore_9: satisfy_scorpion_toss_unlock_impact_equip_blast_robot_eight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

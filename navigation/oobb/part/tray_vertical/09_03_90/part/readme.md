@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enemy |  
+| bip_39_word_dash_10 | enemy-bind-double-humor-sleep-mobile-loan-warm-solution-race |  
+| bip_39_word_dash_11 | enemy-bind-double-humor-sleep-mobile-loan-warm-solution-race-rich |  
+| bip_39_word_dash_12 | enemy-bind-double-humor-sleep-mobile-loan-warm-solution-race-rich-amazing |  
+| bip_39_word_dash_2 | enemy-bind |  
+| bip_39_word_dash_3 | enemy-bind-double |  
+| bip_39_word_dash_4 | enemy-bind-double-humor |  
+| bip_39_word_dash_5 | enemy-bind-double-humor-sleep |  
+| bip_39_word_dash_6 | enemy-bind-double-humor-sleep-mobile |  
+| bip_39_word_dash_7 | enemy-bind-double-humor-sleep-mobile-loan |  
+| bip_39_word_dash_8 | enemy-bind-double-humor-sleep-mobile-loan-warm |  
+| bip_39_word_dash_9 | enemy-bind-double-humor-sleep-mobile-loan-warm-solution |  
 | bip_39_word_new_br_1 | enemy |  
 | bip_39_word_new_br_10 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm<br>solution<br>race |  
 | bip_39_word_new_br_11 | enemy<br>bind<br>double<br>humor<br>sleep<br>mobile<br>loan<br>warm<br>solution<br>race<br>rich |  
@@ -147,6 +159,18 @@ solution |
 | bip_39_word_space_7 | enemy bind double humor sleep mobile loan |  
 | bip_39_word_space_8 | enemy bind double humor sleep mobile loan warm |  
 | bip_39_word_space_9 | enemy bind double humor sleep mobile loan warm solution |  
+| bip_39_word_underscore_1 | enemy |  
+| bip_39_word_underscore_10 | enemy_bind_double_humor_sleep_mobile_loan_warm_solution_race |  
+| bip_39_word_underscore_11 | enemy_bind_double_humor_sleep_mobile_loan_warm_solution_race_rich |  
+| bip_39_word_underscore_12 | enemy_bind_double_humor_sleep_mobile_loan_warm_solution_race_rich_amazing |  
+| bip_39_word_underscore_2 | enemy_bind |  
+| bip_39_word_underscore_3 | enemy_bind_double |  
+| bip_39_word_underscore_4 | enemy_bind_double_humor |  
+| bip_39_word_underscore_5 | enemy_bind_double_humor_sleep |  
+| bip_39_word_underscore_6 | enemy_bind_double_humor_sleep_mobile |  
+| bip_39_word_underscore_7 | enemy_bind_double_humor_sleep_mobile_loan |  
+| bip_39_word_underscore_8 | enemy_bind_double_humor_sleep_mobile_loan_warm |  
+| bip_39_word_underscore_9 | enemy_bind_double_humor_sleep_mobile_loan_warm_solution |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

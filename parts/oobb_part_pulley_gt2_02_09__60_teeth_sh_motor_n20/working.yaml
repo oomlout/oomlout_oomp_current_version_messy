@@ -1,3 +1,15 @@
+bip_39_word_dash_1: announce
+bip_39_word_dash_10: announce-ancient-ill-badge-snack-spot-dust-fringe-shine-gentle
+bip_39_word_dash_11: announce-ancient-ill-badge-snack-spot-dust-fringe-shine-gentle-able
+bip_39_word_dash_12: announce-ancient-ill-badge-snack-spot-dust-fringe-shine-gentle-able-author
+bip_39_word_dash_2: announce-ancient
+bip_39_word_dash_3: announce-ancient-ill
+bip_39_word_dash_4: announce-ancient-ill-badge
+bip_39_word_dash_5: announce-ancient-ill-badge-snack
+bip_39_word_dash_6: announce-ancient-ill-badge-snack-spot
+bip_39_word_dash_7: announce-ancient-ill-badge-snack-spot-dust
+bip_39_word_dash_8: announce-ancient-ill-badge-snack-spot-dust-fringe
+bip_39_word_dash_9: announce-ancient-ill-badge-snack-spot-dust-fringe-shine
 bip_39_word_new_br_1: announce
 bip_39_word_new_br_10: announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe<br>shine<br>gentle
 bip_39_word_new_br_11: announce<br>ancient<br>ill<br>badge<br>snack<br>spot<br>dust<br>fringe<br>shine<br>gentle<br>able
@@ -193,6 +205,18 @@ bip_39_word_space_6: announce ancient ill badge snack spot
 bip_39_word_space_7: announce ancient ill badge snack spot dust
 bip_39_word_space_8: announce ancient ill badge snack spot dust fringe
 bip_39_word_space_9: announce ancient ill badge snack spot dust fringe shine
+bip_39_word_underscore_1: announce
+bip_39_word_underscore_10: announce_ancient_ill_badge_snack_spot_dust_fringe_shine_gentle
+bip_39_word_underscore_11: announce_ancient_ill_badge_snack_spot_dust_fringe_shine_gentle_able
+bip_39_word_underscore_12: announce_ancient_ill_badge_snack_spot_dust_fringe_shine_gentle_able_author
+bip_39_word_underscore_2: announce_ancient
+bip_39_word_underscore_3: announce_ancient_ill
+bip_39_word_underscore_4: announce_ancient_ill_badge
+bip_39_word_underscore_5: announce_ancient_ill_badge_snack
+bip_39_word_underscore_6: announce_ancient_ill_badge_snack_spot
+bip_39_word_underscore_7: announce_ancient_ill_badge_snack_spot_dust
+bip_39_word_underscore_8: announce_ancient_ill_badge_snack_spot_dust_fringe
+bip_39_word_underscore_9: announce_ancient_ill_badge_snack_spot_dust_fringe_shine
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

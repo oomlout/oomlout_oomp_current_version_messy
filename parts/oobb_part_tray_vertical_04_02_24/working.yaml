@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unfold
+bip_39_word_dash_10: unfold-matrix-danger-donor-prize-stay-ozone-doll-sea-plastic
+bip_39_word_dash_11: unfold-matrix-danger-donor-prize-stay-ozone-doll-sea-plastic-seed
+bip_39_word_dash_12: unfold-matrix-danger-donor-prize-stay-ozone-doll-sea-plastic-seed-allow
+bip_39_word_dash_2: unfold-matrix
+bip_39_word_dash_3: unfold-matrix-danger
+bip_39_word_dash_4: unfold-matrix-danger-donor
+bip_39_word_dash_5: unfold-matrix-danger-donor-prize
+bip_39_word_dash_6: unfold-matrix-danger-donor-prize-stay
+bip_39_word_dash_7: unfold-matrix-danger-donor-prize-stay-ozone
+bip_39_word_dash_8: unfold-matrix-danger-donor-prize-stay-ozone-doll
+bip_39_word_dash_9: unfold-matrix-danger-donor-prize-stay-ozone-doll-sea
 bip_39_word_new_br_1: unfold
 bip_39_word_new_br_10: unfold<br>matrix<br>danger<br>donor<br>prize<br>stay<br>ozone<br>doll<br>sea<br>plastic
 bip_39_word_new_br_11: unfold<br>matrix<br>danger<br>donor<br>prize<br>stay<br>ozone<br>doll<br>sea<br>plastic<br>seed
@@ -193,6 +205,18 @@ bip_39_word_space_6: unfold matrix danger donor prize stay
 bip_39_word_space_7: unfold matrix danger donor prize stay ozone
 bip_39_word_space_8: unfold matrix danger donor prize stay ozone doll
 bip_39_word_space_9: unfold matrix danger donor prize stay ozone doll sea
+bip_39_word_underscore_1: unfold
+bip_39_word_underscore_10: unfold_matrix_danger_donor_prize_stay_ozone_doll_sea_plastic
+bip_39_word_underscore_11: unfold_matrix_danger_donor_prize_stay_ozone_doll_sea_plastic_seed
+bip_39_word_underscore_12: unfold_matrix_danger_donor_prize_stay_ozone_doll_sea_plastic_seed_allow
+bip_39_word_underscore_2: unfold_matrix
+bip_39_word_underscore_3: unfold_matrix_danger
+bip_39_word_underscore_4: unfold_matrix_danger_donor
+bip_39_word_underscore_5: unfold_matrix_danger_donor_prize
+bip_39_word_underscore_6: unfold_matrix_danger_donor_prize_stay
+bip_39_word_underscore_7: unfold_matrix_danger_donor_prize_stay_ozone
+bip_39_word_underscore_8: unfold_matrix_danger_donor_prize_stay_ozone_doll
+bip_39_word_underscore_9: unfold_matrix_danger_donor_prize_stay_ozone_doll_sea
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

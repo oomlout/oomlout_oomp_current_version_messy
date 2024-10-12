@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lecture
+bip_39_word_dash_10: lecture-snap-ocean-aerobic-bird-sort-pigeon-pretty-follow-project
+bip_39_word_dash_11: lecture-snap-ocean-aerobic-bird-sort-pigeon-pretty-follow-project-guilt
+bip_39_word_dash_12: lecture-snap-ocean-aerobic-bird-sort-pigeon-pretty-follow-project-guilt-argue
+bip_39_word_dash_2: lecture-snap
+bip_39_word_dash_3: lecture-snap-ocean
+bip_39_word_dash_4: lecture-snap-ocean-aerobic
+bip_39_word_dash_5: lecture-snap-ocean-aerobic-bird
+bip_39_word_dash_6: lecture-snap-ocean-aerobic-bird-sort
+bip_39_word_dash_7: lecture-snap-ocean-aerobic-bird-sort-pigeon
+bip_39_word_dash_8: lecture-snap-ocean-aerobic-bird-sort-pigeon-pretty
+bip_39_word_dash_9: lecture-snap-ocean-aerobic-bird-sort-pigeon-pretty-follow
 bip_39_word_new_br_1: lecture
 bip_39_word_new_br_10: lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty<br>follow<br>project
 bip_39_word_new_br_11: lecture<br>snap<br>ocean<br>aerobic<br>bird<br>sort<br>pigeon<br>pretty<br>follow<br>project<br>guilt
@@ -193,6 +205,18 @@ bip_39_word_space_6: lecture snap ocean aerobic bird sort
 bip_39_word_space_7: lecture snap ocean aerobic bird sort pigeon
 bip_39_word_space_8: lecture snap ocean aerobic bird sort pigeon pretty
 bip_39_word_space_9: lecture snap ocean aerobic bird sort pigeon pretty follow
+bip_39_word_underscore_1: lecture
+bip_39_word_underscore_10: lecture_snap_ocean_aerobic_bird_sort_pigeon_pretty_follow_project
+bip_39_word_underscore_11: lecture_snap_ocean_aerobic_bird_sort_pigeon_pretty_follow_project_guilt
+bip_39_word_underscore_12: lecture_snap_ocean_aerobic_bird_sort_pigeon_pretty_follow_project_guilt_argue
+bip_39_word_underscore_2: lecture_snap
+bip_39_word_underscore_3: lecture_snap_ocean
+bip_39_word_underscore_4: lecture_snap_ocean_aerobic
+bip_39_word_underscore_5: lecture_snap_ocean_aerobic_bird
+bip_39_word_underscore_6: lecture_snap_ocean_aerobic_bird_sort
+bip_39_word_underscore_7: lecture_snap_ocean_aerobic_bird_sort_pigeon
+bip_39_word_underscore_8: lecture_snap_ocean_aerobic_bird_sort_pigeon_pretty
+bip_39_word_underscore_9: lecture_snap_ocean_aerobic_bird_sort_pigeon_pretty_follow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

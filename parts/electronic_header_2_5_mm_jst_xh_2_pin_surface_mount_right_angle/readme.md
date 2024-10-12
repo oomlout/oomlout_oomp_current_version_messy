@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | about |  
+| bip_39_word_dash_10 | about-game-excite-protect-breeze-between-immense-tumble-lab-umbrella |  
+| bip_39_word_dash_11 | about-game-excite-protect-breeze-between-immense-tumble-lab-umbrella-whisper |  
+| bip_39_word_dash_12 | about-game-excite-protect-breeze-between-immense-tumble-lab-umbrella-whisper-adult |  
+| bip_39_word_dash_2 | about-game |  
+| bip_39_word_dash_3 | about-game-excite |  
+| bip_39_word_dash_4 | about-game-excite-protect |  
+| bip_39_word_dash_5 | about-game-excite-protect-breeze |  
+| bip_39_word_dash_6 | about-game-excite-protect-breeze-between |  
+| bip_39_word_dash_7 | about-game-excite-protect-breeze-between-immense |  
+| bip_39_word_dash_8 | about-game-excite-protect-breeze-between-immense-tumble |  
+| bip_39_word_dash_9 | about-game-excite-protect-breeze-between-immense-tumble-lab |  
 | bip_39_word_new_br_1 | about |  
 | bip_39_word_new_br_10 | about<br>game<br>excite<br>protect<br>breeze<br>between<br>immense<br>tumble<br>lab<br>umbrella |  
 | bip_39_word_new_br_11 | about<br>game<br>excite<br>protect<br>breeze<br>between<br>immense<br>tumble<br>lab<br>umbrella<br>whisper |  
@@ -147,6 +159,18 @@ lab |
 | bip_39_word_space_7 | about game excite protect breeze between immense |  
 | bip_39_word_space_8 | about game excite protect breeze between immense tumble |  
 | bip_39_word_space_9 | about game excite protect breeze between immense tumble lab |  
+| bip_39_word_underscore_1 | about |  
+| bip_39_word_underscore_10 | about_game_excite_protect_breeze_between_immense_tumble_lab_umbrella |  
+| bip_39_word_underscore_11 | about_game_excite_protect_breeze_between_immense_tumble_lab_umbrella_whisper |  
+| bip_39_word_underscore_12 | about_game_excite_protect_breeze_between_immense_tumble_lab_umbrella_whisper_adult |  
+| bip_39_word_underscore_2 | about_game |  
+| bip_39_word_underscore_3 | about_game_excite |  
+| bip_39_word_underscore_4 | about_game_excite_protect |  
+| bip_39_word_underscore_5 | about_game_excite_protect_breeze |  
+| bip_39_word_underscore_6 | about_game_excite_protect_breeze_between |  
+| bip_39_word_underscore_7 | about_game_excite_protect_breeze_between_immense |  
+| bip_39_word_underscore_8 | about_game_excite_protect_breeze_between_immense_tumble |  
+| bip_39_word_underscore_9 | about_game_excite_protect_breeze_between_immense_tumble_lab |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

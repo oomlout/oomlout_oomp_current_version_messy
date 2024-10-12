@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lottery |  
+| bip_39_word_dash_10 | lottery-hidden-solid-visa-object-oppose-stove-notable-bounce-pen |  
+| bip_39_word_dash_11 | lottery-hidden-solid-visa-object-oppose-stove-notable-bounce-pen-visual |  
+| bip_39_word_dash_12 | lottery-hidden-solid-visa-object-oppose-stove-notable-bounce-pen-visual-arm |  
+| bip_39_word_dash_2 | lottery-hidden |  
+| bip_39_word_dash_3 | lottery-hidden-solid |  
+| bip_39_word_dash_4 | lottery-hidden-solid-visa |  
+| bip_39_word_dash_5 | lottery-hidden-solid-visa-object |  
+| bip_39_word_dash_6 | lottery-hidden-solid-visa-object-oppose |  
+| bip_39_word_dash_7 | lottery-hidden-solid-visa-object-oppose-stove |  
+| bip_39_word_dash_8 | lottery-hidden-solid-visa-object-oppose-stove-notable |  
+| bip_39_word_dash_9 | lottery-hidden-solid-visa-object-oppose-stove-notable-bounce |  
 | bip_39_word_new_br_1 | lottery |  
 | bip_39_word_new_br_10 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen |  
 | bip_39_word_new_br_11 | lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen<br>visual |  
@@ -147,6 +159,18 @@ bounce |
 | bip_39_word_space_7 | lottery hidden solid visa object oppose stove |  
 | bip_39_word_space_8 | lottery hidden solid visa object oppose stove notable |  
 | bip_39_word_space_9 | lottery hidden solid visa object oppose stove notable bounce |  
+| bip_39_word_underscore_1 | lottery |  
+| bip_39_word_underscore_10 | lottery_hidden_solid_visa_object_oppose_stove_notable_bounce_pen |  
+| bip_39_word_underscore_11 | lottery_hidden_solid_visa_object_oppose_stove_notable_bounce_pen_visual |  
+| bip_39_word_underscore_12 | lottery_hidden_solid_visa_object_oppose_stove_notable_bounce_pen_visual_arm |  
+| bip_39_word_underscore_2 | lottery_hidden |  
+| bip_39_word_underscore_3 | lottery_hidden_solid |  
+| bip_39_word_underscore_4 | lottery_hidden_solid_visa |  
+| bip_39_word_underscore_5 | lottery_hidden_solid_visa_object |  
+| bip_39_word_underscore_6 | lottery_hidden_solid_visa_object_oppose |  
+| bip_39_word_underscore_7 | lottery_hidden_solid_visa_object_oppose_stove |  
+| bip_39_word_underscore_8 | lottery_hidden_solid_visa_object_oppose_stove_notable |  
+| bip_39_word_underscore_9 | lottery_hidden_solid_visa_object_oppose_stove_notable_bounce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

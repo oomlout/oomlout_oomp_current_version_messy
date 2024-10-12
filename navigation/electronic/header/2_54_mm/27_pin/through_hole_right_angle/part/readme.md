@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | evolve |  
+| bip_39_word_dash_10 | evolve-sphere-infant-ring-viable-lecture-tackle-common-final-elephant |  
+| bip_39_word_dash_11 | evolve-sphere-infant-ring-viable-lecture-tackle-common-final-elephant-fall |  
+| bip_39_word_dash_12 | evolve-sphere-infant-ring-viable-lecture-tackle-common-final-elephant-fall-afford |  
+| bip_39_word_dash_2 | evolve-sphere |  
+| bip_39_word_dash_3 | evolve-sphere-infant |  
+| bip_39_word_dash_4 | evolve-sphere-infant-ring |  
+| bip_39_word_dash_5 | evolve-sphere-infant-ring-viable |  
+| bip_39_word_dash_6 | evolve-sphere-infant-ring-viable-lecture |  
+| bip_39_word_dash_7 | evolve-sphere-infant-ring-viable-lecture-tackle |  
+| bip_39_word_dash_8 | evolve-sphere-infant-ring-viable-lecture-tackle-common |  
+| bip_39_word_dash_9 | evolve-sphere-infant-ring-viable-lecture-tackle-common-final |  
 | bip_39_word_new_br_1 | evolve |  
 | bip_39_word_new_br_10 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common<br>final<br>elephant |  
 | bip_39_word_new_br_11 | evolve<br>sphere<br>infant<br>ring<br>viable<br>lecture<br>tackle<br>common<br>final<br>elephant<br>fall |  
@@ -147,6 +159,18 @@ final |
 | bip_39_word_space_7 | evolve sphere infant ring viable lecture tackle |  
 | bip_39_word_space_8 | evolve sphere infant ring viable lecture tackle common |  
 | bip_39_word_space_9 | evolve sphere infant ring viable lecture tackle common final |  
+| bip_39_word_underscore_1 | evolve |  
+| bip_39_word_underscore_10 | evolve_sphere_infant_ring_viable_lecture_tackle_common_final_elephant |  
+| bip_39_word_underscore_11 | evolve_sphere_infant_ring_viable_lecture_tackle_common_final_elephant_fall |  
+| bip_39_word_underscore_12 | evolve_sphere_infant_ring_viable_lecture_tackle_common_final_elephant_fall_afford |  
+| bip_39_word_underscore_2 | evolve_sphere |  
+| bip_39_word_underscore_3 | evolve_sphere_infant |  
+| bip_39_word_underscore_4 | evolve_sphere_infant_ring |  
+| bip_39_word_underscore_5 | evolve_sphere_infant_ring_viable |  
+| bip_39_word_underscore_6 | evolve_sphere_infant_ring_viable_lecture |  
+| bip_39_word_underscore_7 | evolve_sphere_infant_ring_viable_lecture_tackle |  
+| bip_39_word_underscore_8 | evolve_sphere_infant_ring_viable_lecture_tackle_common |  
+| bip_39_word_underscore_9 | evolve_sphere_infant_ring_viable_lecture_tackle_common_final |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

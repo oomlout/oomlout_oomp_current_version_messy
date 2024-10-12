@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wrestle |  
+| bip_39_word_dash_10 | wrestle-funny-fork-hint-ranch-pudding-enrich-month-chaos-mixed |  
+| bip_39_word_dash_11 | wrestle-funny-fork-hint-ranch-pudding-enrich-month-chaos-mixed-brief |  
+| bip_39_word_dash_12 | wrestle-funny-fork-hint-ranch-pudding-enrich-month-chaos-mixed-brief-abuse |  
+| bip_39_word_dash_2 | wrestle-funny |  
+| bip_39_word_dash_3 | wrestle-funny-fork |  
+| bip_39_word_dash_4 | wrestle-funny-fork-hint |  
+| bip_39_word_dash_5 | wrestle-funny-fork-hint-ranch |  
+| bip_39_word_dash_6 | wrestle-funny-fork-hint-ranch-pudding |  
+| bip_39_word_dash_7 | wrestle-funny-fork-hint-ranch-pudding-enrich |  
+| bip_39_word_dash_8 | wrestle-funny-fork-hint-ranch-pudding-enrich-month |  
+| bip_39_word_dash_9 | wrestle-funny-fork-hint-ranch-pudding-enrich-month-chaos |  
 | bip_39_word_new_br_1 | wrestle |  
 | bip_39_word_new_br_10 | wrestle<br>funny<br>fork<br>hint<br>ranch<br>pudding<br>enrich<br>month<br>chaos<br>mixed |  
 | bip_39_word_new_br_11 | wrestle<br>funny<br>fork<br>hint<br>ranch<br>pudding<br>enrich<br>month<br>chaos<br>mixed<br>brief |  
@@ -147,6 +159,18 @@ chaos |
 | bip_39_word_space_7 | wrestle funny fork hint ranch pudding enrich |  
 | bip_39_word_space_8 | wrestle funny fork hint ranch pudding enrich month |  
 | bip_39_word_space_9 | wrestle funny fork hint ranch pudding enrich month chaos |  
+| bip_39_word_underscore_1 | wrestle |  
+| bip_39_word_underscore_10 | wrestle_funny_fork_hint_ranch_pudding_enrich_month_chaos_mixed |  
+| bip_39_word_underscore_11 | wrestle_funny_fork_hint_ranch_pudding_enrich_month_chaos_mixed_brief |  
+| bip_39_word_underscore_12 | wrestle_funny_fork_hint_ranch_pudding_enrich_month_chaos_mixed_brief_abuse |  
+| bip_39_word_underscore_2 | wrestle_funny |  
+| bip_39_word_underscore_3 | wrestle_funny_fork |  
+| bip_39_word_underscore_4 | wrestle_funny_fork_hint |  
+| bip_39_word_underscore_5 | wrestle_funny_fork_hint_ranch |  
+| bip_39_word_underscore_6 | wrestle_funny_fork_hint_ranch_pudding |  
+| bip_39_word_underscore_7 | wrestle_funny_fork_hint_ranch_pudding_enrich |  
+| bip_39_word_underscore_8 | wrestle_funny_fork_hint_ranch_pudding_enrich_month |  
+| bip_39_word_underscore_9 | wrestle_funny_fork_hint_ranch_pudding_enrich_month_chaos |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

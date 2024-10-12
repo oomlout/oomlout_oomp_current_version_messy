@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | health |  
+| bip_39_word_dash_10 | health-frog-flee-endorse-empower-speak-soccer-kitchen-member-puppy |  
+| bip_39_word_dash_11 | health-frog-flee-endorse-empower-speak-soccer-kitchen-member-puppy-keen |  
+| bip_39_word_dash_12 | health-frog-flee-endorse-empower-speak-soccer-kitchen-member-puppy-keen-approve |  
+| bip_39_word_dash_2 | health-frog |  
+| bip_39_word_dash_3 | health-frog-flee |  
+| bip_39_word_dash_4 | health-frog-flee-endorse |  
+| bip_39_word_dash_5 | health-frog-flee-endorse-empower |  
+| bip_39_word_dash_6 | health-frog-flee-endorse-empower-speak |  
+| bip_39_word_dash_7 | health-frog-flee-endorse-empower-speak-soccer |  
+| bip_39_word_dash_8 | health-frog-flee-endorse-empower-speak-soccer-kitchen |  
+| bip_39_word_dash_9 | health-frog-flee-endorse-empower-speak-soccer-kitchen-member |  
 | bip_39_word_new_br_1 | health |  
 | bip_39_word_new_br_10 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy |  
 | bip_39_word_new_br_11 | health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy<br>keen |  
@@ -147,6 +159,18 @@ member |
 | bip_39_word_space_7 | health frog flee endorse empower speak soccer |  
 | bip_39_word_space_8 | health frog flee endorse empower speak soccer kitchen |  
 | bip_39_word_space_9 | health frog flee endorse empower speak soccer kitchen member |  
+| bip_39_word_underscore_1 | health |  
+| bip_39_word_underscore_10 | health_frog_flee_endorse_empower_speak_soccer_kitchen_member_puppy |  
+| bip_39_word_underscore_11 | health_frog_flee_endorse_empower_speak_soccer_kitchen_member_puppy_keen |  
+| bip_39_word_underscore_12 | health_frog_flee_endorse_empower_speak_soccer_kitchen_member_puppy_keen_approve |  
+| bip_39_word_underscore_2 | health_frog |  
+| bip_39_word_underscore_3 | health_frog_flee |  
+| bip_39_word_underscore_4 | health_frog_flee_endorse |  
+| bip_39_word_underscore_5 | health_frog_flee_endorse_empower |  
+| bip_39_word_underscore_6 | health_frog_flee_endorse_empower_speak |  
+| bip_39_word_underscore_7 | health_frog_flee_endorse_empower_speak_soccer |  
+| bip_39_word_underscore_8 | health_frog_flee_endorse_empower_speak_soccer_kitchen |  
+| bip_39_word_underscore_9 | health_frog_flee_endorse_empower_speak_soccer_kitchen_member |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | six |  
+| bip_39_word_dash_10 | six-acid-forward-useless-liberty-sudden-menu-wagon-crouch-violin |  
+| bip_39_word_dash_11 | six-acid-forward-useless-liberty-sudden-menu-wagon-crouch-violin-retire |  
+| bip_39_word_dash_12 | six-acid-forward-useless-liberty-sudden-menu-wagon-crouch-violin-retire-armed |  
+| bip_39_word_dash_2 | six-acid |  
+| bip_39_word_dash_3 | six-acid-forward |  
+| bip_39_word_dash_4 | six-acid-forward-useless |  
+| bip_39_word_dash_5 | six-acid-forward-useless-liberty |  
+| bip_39_word_dash_6 | six-acid-forward-useless-liberty-sudden |  
+| bip_39_word_dash_7 | six-acid-forward-useless-liberty-sudden-menu |  
+| bip_39_word_dash_8 | six-acid-forward-useless-liberty-sudden-menu-wagon |  
+| bip_39_word_dash_9 | six-acid-forward-useless-liberty-sudden-menu-wagon-crouch |  
 | bip_39_word_new_br_1 | six |  
 | bip_39_word_new_br_10 | six<br>acid<br>forward<br>useless<br>liberty<br>sudden<br>menu<br>wagon<br>crouch<br>violin |  
 | bip_39_word_new_br_11 | six<br>acid<br>forward<br>useless<br>liberty<br>sudden<br>menu<br>wagon<br>crouch<br>violin<br>retire |  
@@ -147,6 +159,18 @@ crouch |
 | bip_39_word_space_7 | six acid forward useless liberty sudden menu |  
 | bip_39_word_space_8 | six acid forward useless liberty sudden menu wagon |  
 | bip_39_word_space_9 | six acid forward useless liberty sudden menu wagon crouch |  
+| bip_39_word_underscore_1 | six |  
+| bip_39_word_underscore_10 | six_acid_forward_useless_liberty_sudden_menu_wagon_crouch_violin |  
+| bip_39_word_underscore_11 | six_acid_forward_useless_liberty_sudden_menu_wagon_crouch_violin_retire |  
+| bip_39_word_underscore_12 | six_acid_forward_useless_liberty_sudden_menu_wagon_crouch_violin_retire_armed |  
+| bip_39_word_underscore_2 | six_acid |  
+| bip_39_word_underscore_3 | six_acid_forward |  
+| bip_39_word_underscore_4 | six_acid_forward_useless |  
+| bip_39_word_underscore_5 | six_acid_forward_useless_liberty |  
+| bip_39_word_underscore_6 | six_acid_forward_useless_liberty_sudden |  
+| bip_39_word_underscore_7 | six_acid_forward_useless_liberty_sudden_menu |  
+| bip_39_word_underscore_8 | six_acid_forward_useless_liberty_sudden_menu_wagon |  
+| bip_39_word_underscore_9 | six_acid_forward_useless_liberty_sudden_menu_wagon_crouch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

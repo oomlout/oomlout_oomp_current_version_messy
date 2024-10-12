@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | control |  
+| bip_39_word_dash_10 | control-barrel-harsh-connect-juice-lyrics-remain-best-mechanic-grow |  
+| bip_39_word_dash_11 | control-barrel-harsh-connect-juice-lyrics-remain-best-mechanic-grow-unique |  
+| bip_39_word_dash_12 | control-barrel-harsh-connect-juice-lyrics-remain-best-mechanic-grow-unique-artist |  
+| bip_39_word_dash_2 | control-barrel |  
+| bip_39_word_dash_3 | control-barrel-harsh |  
+| bip_39_word_dash_4 | control-barrel-harsh-connect |  
+| bip_39_word_dash_5 | control-barrel-harsh-connect-juice |  
+| bip_39_word_dash_6 | control-barrel-harsh-connect-juice-lyrics |  
+| bip_39_word_dash_7 | control-barrel-harsh-connect-juice-lyrics-remain |  
+| bip_39_word_dash_8 | control-barrel-harsh-connect-juice-lyrics-remain-best |  
+| bip_39_word_dash_9 | control-barrel-harsh-connect-juice-lyrics-remain-best-mechanic |  
 | bip_39_word_new_br_1 | control |  
 | bip_39_word_new_br_10 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best<br>mechanic<br>grow |  
 | bip_39_word_new_br_11 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best<br>mechanic<br>grow<br>unique |  
@@ -147,6 +159,18 @@ mechanic |
 | bip_39_word_space_7 | control barrel harsh connect juice lyrics remain |  
 | bip_39_word_space_8 | control barrel harsh connect juice lyrics remain best |  
 | bip_39_word_space_9 | control barrel harsh connect juice lyrics remain best mechanic |  
+| bip_39_word_underscore_1 | control |  
+| bip_39_word_underscore_10 | control_barrel_harsh_connect_juice_lyrics_remain_best_mechanic_grow |  
+| bip_39_word_underscore_11 | control_barrel_harsh_connect_juice_lyrics_remain_best_mechanic_grow_unique |  
+| bip_39_word_underscore_12 | control_barrel_harsh_connect_juice_lyrics_remain_best_mechanic_grow_unique_artist |  
+| bip_39_word_underscore_2 | control_barrel |  
+| bip_39_word_underscore_3 | control_barrel_harsh |  
+| bip_39_word_underscore_4 | control_barrel_harsh_connect |  
+| bip_39_word_underscore_5 | control_barrel_harsh_connect_juice |  
+| bip_39_word_underscore_6 | control_barrel_harsh_connect_juice_lyrics |  
+| bip_39_word_underscore_7 | control_barrel_harsh_connect_juice_lyrics_remain |  
+| bip_39_word_underscore_8 | control_barrel_harsh_connect_juice_lyrics_remain_best |  
+| bip_39_word_underscore_9 | control_barrel_harsh_connect_juice_lyrics_remain_best_mechanic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

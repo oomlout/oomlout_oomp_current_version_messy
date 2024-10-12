@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toward
+bip_39_word_dash_10: toward-robust-soccer-labor-stage-street-adjust-delay-pudding-usage
+bip_39_word_dash_11: toward-robust-soccer-labor-stage-street-adjust-delay-pudding-usage-tilt
+bip_39_word_dash_12: toward-robust-soccer-labor-stage-street-adjust-delay-pudding-usage-tilt-advance
+bip_39_word_dash_2: toward-robust
+bip_39_word_dash_3: toward-robust-soccer
+bip_39_word_dash_4: toward-robust-soccer-labor
+bip_39_word_dash_5: toward-robust-soccer-labor-stage
+bip_39_word_dash_6: toward-robust-soccer-labor-stage-street
+bip_39_word_dash_7: toward-robust-soccer-labor-stage-street-adjust
+bip_39_word_dash_8: toward-robust-soccer-labor-stage-street-adjust-delay
+bip_39_word_dash_9: toward-robust-soccer-labor-stage-street-adjust-delay-pudding
 bip_39_word_new_br_1: toward
 bip_39_word_new_br_10: toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage
 bip_39_word_new_br_11: toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage<br>tilt
@@ -194,6 +206,18 @@ bip_39_word_space_6: toward robust soccer labor stage street
 bip_39_word_space_7: toward robust soccer labor stage street adjust
 bip_39_word_space_8: toward robust soccer labor stage street adjust delay
 bip_39_word_space_9: toward robust soccer labor stage street adjust delay pudding
+bip_39_word_underscore_1: toward
+bip_39_word_underscore_10: toward_robust_soccer_labor_stage_street_adjust_delay_pudding_usage
+bip_39_word_underscore_11: toward_robust_soccer_labor_stage_street_adjust_delay_pudding_usage_tilt
+bip_39_word_underscore_12: toward_robust_soccer_labor_stage_street_adjust_delay_pudding_usage_tilt_advance
+bip_39_word_underscore_2: toward_robust
+bip_39_word_underscore_3: toward_robust_soccer
+bip_39_word_underscore_4: toward_robust_soccer_labor
+bip_39_word_underscore_5: toward_robust_soccer_labor_stage
+bip_39_word_underscore_6: toward_robust_soccer_labor_stage_street
+bip_39_word_underscore_7: toward_robust_soccer_labor_stage_street_adjust
+bip_39_word_underscore_8: toward_robust_soccer_labor_stage_street_adjust_delay
+bip_39_word_underscore_9: toward_robust_soccer_labor_stage_street_adjust_delay_pudding
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

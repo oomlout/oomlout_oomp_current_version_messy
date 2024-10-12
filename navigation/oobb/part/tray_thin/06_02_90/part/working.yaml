@@ -1,3 +1,15 @@
+bip_39_word_dash_1: frequent
+bip_39_word_dash_10: frequent-notice-payment-subject-cave-region-grief-history-trim-mad
+bip_39_word_dash_11: frequent-notice-payment-subject-cave-region-grief-history-trim-mad-swing
+bip_39_word_dash_12: frequent-notice-payment-subject-cave-region-grief-history-trim-mad-swing-already
+bip_39_word_dash_2: frequent-notice
+bip_39_word_dash_3: frequent-notice-payment
+bip_39_word_dash_4: frequent-notice-payment-subject
+bip_39_word_dash_5: frequent-notice-payment-subject-cave
+bip_39_word_dash_6: frequent-notice-payment-subject-cave-region
+bip_39_word_dash_7: frequent-notice-payment-subject-cave-region-grief
+bip_39_word_dash_8: frequent-notice-payment-subject-cave-region-grief-history
+bip_39_word_dash_9: frequent-notice-payment-subject-cave-region-grief-history-trim
 bip_39_word_new_br_1: frequent
 bip_39_word_new_br_10: frequent<br>notice<br>payment<br>subject<br>cave<br>region<br>grief<br>history<br>trim<br>mad
 bip_39_word_new_br_11: frequent<br>notice<br>payment<br>subject<br>cave<br>region<br>grief<br>history<br>trim<br>mad<br>swing
@@ -194,6 +206,18 @@ bip_39_word_space_6: frequent notice payment subject cave region
 bip_39_word_space_7: frequent notice payment subject cave region grief
 bip_39_word_space_8: frequent notice payment subject cave region grief history
 bip_39_word_space_9: frequent notice payment subject cave region grief history trim
+bip_39_word_underscore_1: frequent
+bip_39_word_underscore_10: frequent_notice_payment_subject_cave_region_grief_history_trim_mad
+bip_39_word_underscore_11: frequent_notice_payment_subject_cave_region_grief_history_trim_mad_swing
+bip_39_word_underscore_12: frequent_notice_payment_subject_cave_region_grief_history_trim_mad_swing_already
+bip_39_word_underscore_2: frequent_notice
+bip_39_word_underscore_3: frequent_notice_payment
+bip_39_word_underscore_4: frequent_notice_payment_subject
+bip_39_word_underscore_5: frequent_notice_payment_subject_cave
+bip_39_word_underscore_6: frequent_notice_payment_subject_cave_region
+bip_39_word_underscore_7: frequent_notice_payment_subject_cave_region_grief
+bip_39_word_underscore_8: frequent_notice_payment_subject_cave_region_grief_history
+bip_39_word_underscore_9: frequent_notice_payment_subject_cave_region_grief_history_trim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

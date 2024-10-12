@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | venture |  
+| bip_39_word_dash_10 | venture-scatter-donkey-outer-network-piano-document-hello-palm-news |  
+| bip_39_word_dash_11 | venture-scatter-donkey-outer-network-piano-document-hello-palm-news-recipe |  
+| bip_39_word_dash_12 | venture-scatter-donkey-outer-network-piano-document-hello-palm-news-recipe-angry |  
+| bip_39_word_dash_2 | venture-scatter |  
+| bip_39_word_dash_3 | venture-scatter-donkey |  
+| bip_39_word_dash_4 | venture-scatter-donkey-outer |  
+| bip_39_word_dash_5 | venture-scatter-donkey-outer-network |  
+| bip_39_word_dash_6 | venture-scatter-donkey-outer-network-piano |  
+| bip_39_word_dash_7 | venture-scatter-donkey-outer-network-piano-document |  
+| bip_39_word_dash_8 | venture-scatter-donkey-outer-network-piano-document-hello |  
+| bip_39_word_dash_9 | venture-scatter-donkey-outer-network-piano-document-hello-palm |  
 | bip_39_word_new_br_1 | venture |  
 | bip_39_word_new_br_10 | venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello<br>palm<br>news |  
 | bip_39_word_new_br_11 | venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello<br>palm<br>news<br>recipe |  
@@ -147,6 +159,18 @@ palm |
 | bip_39_word_space_7 | venture scatter donkey outer network piano document |  
 | bip_39_word_space_8 | venture scatter donkey outer network piano document hello |  
 | bip_39_word_space_9 | venture scatter donkey outer network piano document hello palm |  
+| bip_39_word_underscore_1 | venture |  
+| bip_39_word_underscore_10 | venture_scatter_donkey_outer_network_piano_document_hello_palm_news |  
+| bip_39_word_underscore_11 | venture_scatter_donkey_outer_network_piano_document_hello_palm_news_recipe |  
+| bip_39_word_underscore_12 | venture_scatter_donkey_outer_network_piano_document_hello_palm_news_recipe_angry |  
+| bip_39_word_underscore_2 | venture_scatter |  
+| bip_39_word_underscore_3 | venture_scatter_donkey |  
+| bip_39_word_underscore_4 | venture_scatter_donkey_outer |  
+| bip_39_word_underscore_5 | venture_scatter_donkey_outer_network |  
+| bip_39_word_underscore_6 | venture_scatter_donkey_outer_network_piano |  
+| bip_39_word_underscore_7 | venture_scatter_donkey_outer_network_piano_document |  
+| bip_39_word_underscore_8 | venture_scatter_donkey_outer_network_piano_document_hello |  
+| bip_39_word_underscore_9 | venture_scatter_donkey_outer_network_piano_document_hello_palm |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: print
+bip_39_word_dash_10: print-federal-hen-wood-near-climb-follow-nice-foster-fire
+bip_39_word_dash_11: print-federal-hen-wood-near-climb-follow-nice-foster-fire-trap
+bip_39_word_dash_12: print-federal-hen-wood-near-climb-follow-nice-foster-fire-trap-achieve
+bip_39_word_dash_2: print-federal
+bip_39_word_dash_3: print-federal-hen
+bip_39_word_dash_4: print-federal-hen-wood
+bip_39_word_dash_5: print-federal-hen-wood-near
+bip_39_word_dash_6: print-federal-hen-wood-near-climb
+bip_39_word_dash_7: print-federal-hen-wood-near-climb-follow
+bip_39_word_dash_8: print-federal-hen-wood-near-climb-follow-nice
+bip_39_word_dash_9: print-federal-hen-wood-near-climb-follow-nice-foster
 bip_39_word_new_br_1: print
 bip_39_word_new_br_10: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire
 bip_39_word_new_br_11: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire<br>trap
@@ -192,6 +204,18 @@ bip_39_word_space_6: print federal hen wood near climb
 bip_39_word_space_7: print federal hen wood near climb follow
 bip_39_word_space_8: print federal hen wood near climb follow nice
 bip_39_word_space_9: print federal hen wood near climb follow nice foster
+bip_39_word_underscore_1: print
+bip_39_word_underscore_10: print_federal_hen_wood_near_climb_follow_nice_foster_fire
+bip_39_word_underscore_11: print_federal_hen_wood_near_climb_follow_nice_foster_fire_trap
+bip_39_word_underscore_12: print_federal_hen_wood_near_climb_follow_nice_foster_fire_trap_achieve
+bip_39_word_underscore_2: print_federal
+bip_39_word_underscore_3: print_federal_hen
+bip_39_word_underscore_4: print_federal_hen_wood
+bip_39_word_underscore_5: print_federal_hen_wood_near
+bip_39_word_underscore_6: print_federal_hen_wood_near_climb
+bip_39_word_underscore_7: print_federal_hen_wood_near_climb_follow
+bip_39_word_underscore_8: print_federal_hen_wood_near_climb_follow_nice
+bip_39_word_underscore_9: print_federal_hen_wood_near_climb_follow_nice_foster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

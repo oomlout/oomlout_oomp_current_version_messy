@@ -1,3 +1,15 @@
+bip_39_word_dash_1: park
+bip_39_word_dash_10: park-above-sun-divorce-denial-better-mirror-suit-display-year
+bip_39_word_dash_11: park-above-sun-divorce-denial-better-mirror-suit-display-year-chef
+bip_39_word_dash_12: park-above-sun-divorce-denial-better-mirror-suit-display-year-chef-accident
+bip_39_word_dash_2: park-above
+bip_39_word_dash_3: park-above-sun
+bip_39_word_dash_4: park-above-sun-divorce
+bip_39_word_dash_5: park-above-sun-divorce-denial
+bip_39_word_dash_6: park-above-sun-divorce-denial-better
+bip_39_word_dash_7: park-above-sun-divorce-denial-better-mirror
+bip_39_word_dash_8: park-above-sun-divorce-denial-better-mirror-suit
+bip_39_word_dash_9: park-above-sun-divorce-denial-better-mirror-suit-display
 bip_39_word_new_br_1: park
 bip_39_word_new_br_10: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year
 bip_39_word_new_br_11: park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year<br>chef
@@ -193,6 +205,18 @@ bip_39_word_space_6: park above sun divorce denial better
 bip_39_word_space_7: park above sun divorce denial better mirror
 bip_39_word_space_8: park above sun divorce denial better mirror suit
 bip_39_word_space_9: park above sun divorce denial better mirror suit display
+bip_39_word_underscore_1: park
+bip_39_word_underscore_10: park_above_sun_divorce_denial_better_mirror_suit_display_year
+bip_39_word_underscore_11: park_above_sun_divorce_denial_better_mirror_suit_display_year_chef
+bip_39_word_underscore_12: park_above_sun_divorce_denial_better_mirror_suit_display_year_chef_accident
+bip_39_word_underscore_2: park_above
+bip_39_word_underscore_3: park_above_sun
+bip_39_word_underscore_4: park_above_sun_divorce
+bip_39_word_underscore_5: park_above_sun_divorce_denial
+bip_39_word_underscore_6: park_above_sun_divorce_denial_better
+bip_39_word_underscore_7: park_above_sun_divorce_denial_better_mirror
+bip_39_word_underscore_8: park_above_sun_divorce_denial_better_mirror_suit
+bip_39_word_underscore_9: park_above_sun_divorce_denial_better_mirror_suit_display
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

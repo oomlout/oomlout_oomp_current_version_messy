@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | royal |  
+| bip_39_word_dash_10 | royal-august-expire-keep-hobby-smile-useful-few-hollow-weasel |  
+| bip_39_word_dash_11 | royal-august-expire-keep-hobby-smile-useful-few-hollow-weasel-scrap |  
+| bip_39_word_dash_12 | royal-august-expire-keep-hobby-smile-useful-few-hollow-weasel-scrap-accuse |  
+| bip_39_word_dash_2 | royal-august |  
+| bip_39_word_dash_3 | royal-august-expire |  
+| bip_39_word_dash_4 | royal-august-expire-keep |  
+| bip_39_word_dash_5 | royal-august-expire-keep-hobby |  
+| bip_39_word_dash_6 | royal-august-expire-keep-hobby-smile |  
+| bip_39_word_dash_7 | royal-august-expire-keep-hobby-smile-useful |  
+| bip_39_word_dash_8 | royal-august-expire-keep-hobby-smile-useful-few |  
+| bip_39_word_dash_9 | royal-august-expire-keep-hobby-smile-useful-few-hollow |  
 | bip_39_word_new_br_1 | royal |  
 | bip_39_word_new_br_10 | royal<br>august<br>expire<br>keep<br>hobby<br>smile<br>useful<br>few<br>hollow<br>weasel |  
 | bip_39_word_new_br_11 | royal<br>august<br>expire<br>keep<br>hobby<br>smile<br>useful<br>few<br>hollow<br>weasel<br>scrap |  
@@ -147,6 +159,18 @@ hollow |
 | bip_39_word_space_7 | royal august expire keep hobby smile useful |  
 | bip_39_word_space_8 | royal august expire keep hobby smile useful few |  
 | bip_39_word_space_9 | royal august expire keep hobby smile useful few hollow |  
+| bip_39_word_underscore_1 | royal |  
+| bip_39_word_underscore_10 | royal_august_expire_keep_hobby_smile_useful_few_hollow_weasel |  
+| bip_39_word_underscore_11 | royal_august_expire_keep_hobby_smile_useful_few_hollow_weasel_scrap |  
+| bip_39_word_underscore_12 | royal_august_expire_keep_hobby_smile_useful_few_hollow_weasel_scrap_accuse |  
+| bip_39_word_underscore_2 | royal_august |  
+| bip_39_word_underscore_3 | royal_august_expire |  
+| bip_39_word_underscore_4 | royal_august_expire_keep |  
+| bip_39_word_underscore_5 | royal_august_expire_keep_hobby |  
+| bip_39_word_underscore_6 | royal_august_expire_keep_hobby_smile |  
+| bip_39_word_underscore_7 | royal_august_expire_keep_hobby_smile_useful |  
+| bip_39_word_underscore_8 | royal_august_expire_keep_hobby_smile_useful_few |  
+| bip_39_word_underscore_9 | royal_august_expire_keep_hobby_smile_useful_few_hollow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

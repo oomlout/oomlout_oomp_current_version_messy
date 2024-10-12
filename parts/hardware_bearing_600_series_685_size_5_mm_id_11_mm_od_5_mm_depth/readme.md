@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | saddle |  
+| bip_39_word_dash_10 | saddle-gym-giraffe-edge-captain-comfort-opinion-amount-ghost-club |  
+| bip_39_word_dash_11 | saddle-gym-giraffe-edge-captain-comfort-opinion-amount-ghost-club-salad |  
+| bip_39_word_dash_12 | saddle-gym-giraffe-edge-captain-comfort-opinion-amount-ghost-club-salad-aunt |  
+| bip_39_word_dash_2 | saddle-gym |  
+| bip_39_word_dash_3 | saddle-gym-giraffe |  
+| bip_39_word_dash_4 | saddle-gym-giraffe-edge |  
+| bip_39_word_dash_5 | saddle-gym-giraffe-edge-captain |  
+| bip_39_word_dash_6 | saddle-gym-giraffe-edge-captain-comfort |  
+| bip_39_word_dash_7 | saddle-gym-giraffe-edge-captain-comfort-opinion |  
+| bip_39_word_dash_8 | saddle-gym-giraffe-edge-captain-comfort-opinion-amount |  
+| bip_39_word_dash_9 | saddle-gym-giraffe-edge-captain-comfort-opinion-amount-ghost |  
 | bip_39_word_new_br_1 | saddle |  
 | bip_39_word_new_br_10 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount<br>ghost<br>club |  
 | bip_39_word_new_br_11 | saddle<br>gym<br>giraffe<br>edge<br>captain<br>comfort<br>opinion<br>amount<br>ghost<br>club<br>salad |  
@@ -147,6 +159,18 @@ ghost |
 | bip_39_word_space_7 | saddle gym giraffe edge captain comfort opinion |  
 | bip_39_word_space_8 | saddle gym giraffe edge captain comfort opinion amount |  
 | bip_39_word_space_9 | saddle gym giraffe edge captain comfort opinion amount ghost |  
+| bip_39_word_underscore_1 | saddle |  
+| bip_39_word_underscore_10 | saddle_gym_giraffe_edge_captain_comfort_opinion_amount_ghost_club |  
+| bip_39_word_underscore_11 | saddle_gym_giraffe_edge_captain_comfort_opinion_amount_ghost_club_salad |  
+| bip_39_word_underscore_12 | saddle_gym_giraffe_edge_captain_comfort_opinion_amount_ghost_club_salad_aunt |  
+| bip_39_word_underscore_2 | saddle_gym |  
+| bip_39_word_underscore_3 | saddle_gym_giraffe |  
+| bip_39_word_underscore_4 | saddle_gym_giraffe_edge |  
+| bip_39_word_underscore_5 | saddle_gym_giraffe_edge_captain |  
+| bip_39_word_underscore_6 | saddle_gym_giraffe_edge_captain_comfort |  
+| bip_39_word_underscore_7 | saddle_gym_giraffe_edge_captain_comfort_opinion |  
+| bip_39_word_underscore_8 | saddle_gym_giraffe_edge_captain_comfort_opinion_amount |  
+| bip_39_word_underscore_9 | saddle_gym_giraffe_edge_captain_comfort_opinion_amount_ghost |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

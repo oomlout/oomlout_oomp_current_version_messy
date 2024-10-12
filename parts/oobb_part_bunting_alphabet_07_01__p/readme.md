@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leisure |  
+| bip_39_word_dash_10 | leisure-before-acquire-birth-select-limit-slush-gap-cage-noble |  
+| bip_39_word_dash_11 | leisure-before-acquire-birth-select-limit-slush-gap-cage-noble-lion |  
+| bip_39_word_dash_12 | leisure-before-acquire-birth-select-limit-slush-gap-cage-noble-lion-any |  
+| bip_39_word_dash_2 | leisure-before |  
+| bip_39_word_dash_3 | leisure-before-acquire |  
+| bip_39_word_dash_4 | leisure-before-acquire-birth |  
+| bip_39_word_dash_5 | leisure-before-acquire-birth-select |  
+| bip_39_word_dash_6 | leisure-before-acquire-birth-select-limit |  
+| bip_39_word_dash_7 | leisure-before-acquire-birth-select-limit-slush |  
+| bip_39_word_dash_8 | leisure-before-acquire-birth-select-limit-slush-gap |  
+| bip_39_word_dash_9 | leisure-before-acquire-birth-select-limit-slush-gap-cage |  
 | bip_39_word_new_br_1 | leisure |  
 | bip_39_word_new_br_10 | leisure<br>before<br>acquire<br>birth<br>select<br>limit<br>slush<br>gap<br>cage<br>noble |  
 | bip_39_word_new_br_11 | leisure<br>before<br>acquire<br>birth<br>select<br>limit<br>slush<br>gap<br>cage<br>noble<br>lion |  
@@ -147,6 +159,18 @@ cage |
 | bip_39_word_space_7 | leisure before acquire birth select limit slush |  
 | bip_39_word_space_8 | leisure before acquire birth select limit slush gap |  
 | bip_39_word_space_9 | leisure before acquire birth select limit slush gap cage |  
+| bip_39_word_underscore_1 | leisure |  
+| bip_39_word_underscore_10 | leisure_before_acquire_birth_select_limit_slush_gap_cage_noble |  
+| bip_39_word_underscore_11 | leisure_before_acquire_birth_select_limit_slush_gap_cage_noble_lion |  
+| bip_39_word_underscore_12 | leisure_before_acquire_birth_select_limit_slush_gap_cage_noble_lion_any |  
+| bip_39_word_underscore_2 | leisure_before |  
+| bip_39_word_underscore_3 | leisure_before_acquire |  
+| bip_39_word_underscore_4 | leisure_before_acquire_birth |  
+| bip_39_word_underscore_5 | leisure_before_acquire_birth_select |  
+| bip_39_word_underscore_6 | leisure_before_acquire_birth_select_limit |  
+| bip_39_word_underscore_7 | leisure_before_acquire_birth_select_limit_slush |  
+| bip_39_word_underscore_8 | leisure_before_acquire_birth_select_limit_slush_gap |  
+| bip_39_word_underscore_9 | leisure_before_acquire_birth_select_limit_slush_gap_cage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

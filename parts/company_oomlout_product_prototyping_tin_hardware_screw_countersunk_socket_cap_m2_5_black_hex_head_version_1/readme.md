@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tackle |  
+| bip_39_word_dash_10 | tackle-bubble-hundred-trip-remain-stick-opera-debate-brain-elite |  
+| bip_39_word_dash_11 | tackle-bubble-hundred-trip-remain-stick-opera-debate-brain-elite-limb |  
+| bip_39_word_dash_12 | tackle-bubble-hundred-trip-remain-stick-opera-debate-brain-elite-limb-assault |  
+| bip_39_word_dash_2 | tackle-bubble |  
+| bip_39_word_dash_3 | tackle-bubble-hundred |  
+| bip_39_word_dash_4 | tackle-bubble-hundred-trip |  
+| bip_39_word_dash_5 | tackle-bubble-hundred-trip-remain |  
+| bip_39_word_dash_6 | tackle-bubble-hundred-trip-remain-stick |  
+| bip_39_word_dash_7 | tackle-bubble-hundred-trip-remain-stick-opera |  
+| bip_39_word_dash_8 | tackle-bubble-hundred-trip-remain-stick-opera-debate |  
+| bip_39_word_dash_9 | tackle-bubble-hundred-trip-remain-stick-opera-debate-brain |  
 | bip_39_word_new_br_1 | tackle |  
 | bip_39_word_new_br_10 | tackle<br>bubble<br>hundred<br>trip<br>remain<br>stick<br>opera<br>debate<br>brain<br>elite |  
 | bip_39_word_new_br_11 | tackle<br>bubble<br>hundred<br>trip<br>remain<br>stick<br>opera<br>debate<br>brain<br>elite<br>limb |  
@@ -147,6 +159,18 @@ brain |
 | bip_39_word_space_7 | tackle bubble hundred trip remain stick opera |  
 | bip_39_word_space_8 | tackle bubble hundred trip remain stick opera debate |  
 | bip_39_word_space_9 | tackle bubble hundred trip remain stick opera debate brain |  
+| bip_39_word_underscore_1 | tackle |  
+| bip_39_word_underscore_10 | tackle_bubble_hundred_trip_remain_stick_opera_debate_brain_elite |  
+| bip_39_word_underscore_11 | tackle_bubble_hundred_trip_remain_stick_opera_debate_brain_elite_limb |  
+| bip_39_word_underscore_12 | tackle_bubble_hundred_trip_remain_stick_opera_debate_brain_elite_limb_assault |  
+| bip_39_word_underscore_2 | tackle_bubble |  
+| bip_39_word_underscore_3 | tackle_bubble_hundred |  
+| bip_39_word_underscore_4 | tackle_bubble_hundred_trip |  
+| bip_39_word_underscore_5 | tackle_bubble_hundred_trip_remain |  
+| bip_39_word_underscore_6 | tackle_bubble_hundred_trip_remain_stick |  
+| bip_39_word_underscore_7 | tackle_bubble_hundred_trip_remain_stick_opera |  
+| bip_39_word_underscore_8 | tackle_bubble_hundred_trip_remain_stick_opera_debate |  
+| bip_39_word_underscore_9 | tackle_bubble_hundred_trip_remain_stick_opera_debate_brain |  
 | classification | company_oomlout |  
 | classification_capital | Company Oomlout |  
 | classification_first_letter | c |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prepare |  
+| bip_39_word_dash_10 | prepare-walnut-wood-pelican-fault-survey-lizard-spare-young-hundred |  
+| bip_39_word_dash_11 | prepare-walnut-wood-pelican-fault-survey-lizard-spare-young-hundred-report |  
+| bip_39_word_dash_12 | prepare-walnut-wood-pelican-fault-survey-lizard-spare-young-hundred-report-abstract |  
+| bip_39_word_dash_2 | prepare-walnut |  
+| bip_39_word_dash_3 | prepare-walnut-wood |  
+| bip_39_word_dash_4 | prepare-walnut-wood-pelican |  
+| bip_39_word_dash_5 | prepare-walnut-wood-pelican-fault |  
+| bip_39_word_dash_6 | prepare-walnut-wood-pelican-fault-survey |  
+| bip_39_word_dash_7 | prepare-walnut-wood-pelican-fault-survey-lizard |  
+| bip_39_word_dash_8 | prepare-walnut-wood-pelican-fault-survey-lizard-spare |  
+| bip_39_word_dash_9 | prepare-walnut-wood-pelican-fault-survey-lizard-spare-young |  
 | bip_39_word_new_br_1 | prepare |  
 | bip_39_word_new_br_10 | prepare<br>walnut<br>wood<br>pelican<br>fault<br>survey<br>lizard<br>spare<br>young<br>hundred |  
 | bip_39_word_new_br_11 | prepare<br>walnut<br>wood<br>pelican<br>fault<br>survey<br>lizard<br>spare<br>young<br>hundred<br>report |  
@@ -147,6 +159,18 @@ young |
 | bip_39_word_space_7 | prepare walnut wood pelican fault survey lizard |  
 | bip_39_word_space_8 | prepare walnut wood pelican fault survey lizard spare |  
 | bip_39_word_space_9 | prepare walnut wood pelican fault survey lizard spare young |  
+| bip_39_word_underscore_1 | prepare |  
+| bip_39_word_underscore_10 | prepare_walnut_wood_pelican_fault_survey_lizard_spare_young_hundred |  
+| bip_39_word_underscore_11 | prepare_walnut_wood_pelican_fault_survey_lizard_spare_young_hundred_report |  
+| bip_39_word_underscore_12 | prepare_walnut_wood_pelican_fault_survey_lizard_spare_young_hundred_report_abstract |  
+| bip_39_word_underscore_2 | prepare_walnut |  
+| bip_39_word_underscore_3 | prepare_walnut_wood |  
+| bip_39_word_underscore_4 | prepare_walnut_wood_pelican |  
+| bip_39_word_underscore_5 | prepare_walnut_wood_pelican_fault |  
+| bip_39_word_underscore_6 | prepare_walnut_wood_pelican_fault_survey |  
+| bip_39_word_underscore_7 | prepare_walnut_wood_pelican_fault_survey_lizard |  
+| bip_39_word_underscore_8 | prepare_walnut_wood_pelican_fault_survey_lizard_spare |  
+| bip_39_word_underscore_9 | prepare_walnut_wood_pelican_fault_survey_lizard_spare_young |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

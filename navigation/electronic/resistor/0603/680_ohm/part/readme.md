@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swamp |  
+| bip_39_word_dash_10 | swamp-this-finger-eight-online-angle-sight-wool-type-tonight |  
+| bip_39_word_dash_11 | swamp-this-finger-eight-online-angle-sight-wool-type-tonight-symbol |  
+| bip_39_word_dash_12 | swamp-this-finger-eight-online-angle-sight-wool-type-tonight-symbol-ability |  
+| bip_39_word_dash_2 | swamp-this |  
+| bip_39_word_dash_3 | swamp-this-finger |  
+| bip_39_word_dash_4 | swamp-this-finger-eight |  
+| bip_39_word_dash_5 | swamp-this-finger-eight-online |  
+| bip_39_word_dash_6 | swamp-this-finger-eight-online-angle |  
+| bip_39_word_dash_7 | swamp-this-finger-eight-online-angle-sight |  
+| bip_39_word_dash_8 | swamp-this-finger-eight-online-angle-sight-wool |  
+| bip_39_word_dash_9 | swamp-this-finger-eight-online-angle-sight-wool-type |  
 | bip_39_word_new_br_1 | swamp |  
 | bip_39_word_new_br_10 | swamp<br>this<br>finger<br>eight<br>online<br>angle<br>sight<br>wool<br>type<br>tonight |  
 | bip_39_word_new_br_11 | swamp<br>this<br>finger<br>eight<br>online<br>angle<br>sight<br>wool<br>type<br>tonight<br>symbol |  
@@ -147,6 +159,18 @@ type |
 | bip_39_word_space_7 | swamp this finger eight online angle sight |  
 | bip_39_word_space_8 | swamp this finger eight online angle sight wool |  
 | bip_39_word_space_9 | swamp this finger eight online angle sight wool type |  
+| bip_39_word_underscore_1 | swamp |  
+| bip_39_word_underscore_10 | swamp_this_finger_eight_online_angle_sight_wool_type_tonight |  
+| bip_39_word_underscore_11 | swamp_this_finger_eight_online_angle_sight_wool_type_tonight_symbol |  
+| bip_39_word_underscore_12 | swamp_this_finger_eight_online_angle_sight_wool_type_tonight_symbol_ability |  
+| bip_39_word_underscore_2 | swamp_this |  
+| bip_39_word_underscore_3 | swamp_this_finger |  
+| bip_39_word_underscore_4 | swamp_this_finger_eight |  
+| bip_39_word_underscore_5 | swamp_this_finger_eight_online |  
+| bip_39_word_underscore_6 | swamp_this_finger_eight_online_angle |  
+| bip_39_word_underscore_7 | swamp_this_finger_eight_online_angle_sight |  
+| bip_39_word_underscore_8 | swamp_this_finger_eight_online_angle_sight_wool |  
+| bip_39_word_underscore_9 | swamp_this_finger_eight_online_angle_sight_wool_type |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

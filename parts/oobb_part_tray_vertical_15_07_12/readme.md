@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | usage |  
+| bip_39_word_dash_10 | usage-mind-want-abandon-uniform-sister-suit-pond-north-budget |  
+| bip_39_word_dash_11 | usage-mind-want-abandon-uniform-sister-suit-pond-north-budget-maze |  
+| bip_39_word_dash_12 | usage-mind-want-abandon-uniform-sister-suit-pond-north-budget-maze-apology |  
+| bip_39_word_dash_2 | usage-mind |  
+| bip_39_word_dash_3 | usage-mind-want |  
+| bip_39_word_dash_4 | usage-mind-want-abandon |  
+| bip_39_word_dash_5 | usage-mind-want-abandon-uniform |  
+| bip_39_word_dash_6 | usage-mind-want-abandon-uniform-sister |  
+| bip_39_word_dash_7 | usage-mind-want-abandon-uniform-sister-suit |  
+| bip_39_word_dash_8 | usage-mind-want-abandon-uniform-sister-suit-pond |  
+| bip_39_word_dash_9 | usage-mind-want-abandon-uniform-sister-suit-pond-north |  
 | bip_39_word_new_br_1 | usage |  
 | bip_39_word_new_br_10 | usage<br>mind<br>want<br>abandon<br>uniform<br>sister<br>suit<br>pond<br>north<br>budget |  
 | bip_39_word_new_br_11 | usage<br>mind<br>want<br>abandon<br>uniform<br>sister<br>suit<br>pond<br>north<br>budget<br>maze |  
@@ -147,6 +159,18 @@ north |
 | bip_39_word_space_7 | usage mind want abandon uniform sister suit |  
 | bip_39_word_space_8 | usage mind want abandon uniform sister suit pond |  
 | bip_39_word_space_9 | usage mind want abandon uniform sister suit pond north |  
+| bip_39_word_underscore_1 | usage |  
+| bip_39_word_underscore_10 | usage_mind_want_abandon_uniform_sister_suit_pond_north_budget |  
+| bip_39_word_underscore_11 | usage_mind_want_abandon_uniform_sister_suit_pond_north_budget_maze |  
+| bip_39_word_underscore_12 | usage_mind_want_abandon_uniform_sister_suit_pond_north_budget_maze_apology |  
+| bip_39_word_underscore_2 | usage_mind |  
+| bip_39_word_underscore_3 | usage_mind_want |  
+| bip_39_word_underscore_4 | usage_mind_want_abandon |  
+| bip_39_word_underscore_5 | usage_mind_want_abandon_uniform |  
+| bip_39_word_underscore_6 | usage_mind_want_abandon_uniform_sister |  
+| bip_39_word_underscore_7 | usage_mind_want_abandon_uniform_sister_suit |  
+| bip_39_word_underscore_8 | usage_mind_want_abandon_uniform_sister_suit_pond |  
+| bip_39_word_underscore_9 | usage_mind_want_abandon_uniform_sister_suit_pond_north |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

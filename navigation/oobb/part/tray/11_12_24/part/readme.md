@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | match |  
+| bip_39_word_dash_10 | match-trigger-pass-opera-slice-eight-reform-expect-blood-nasty |  
+| bip_39_word_dash_11 | match-trigger-pass-opera-slice-eight-reform-expect-blood-nasty-kingdom |  
+| bip_39_word_dash_12 | match-trigger-pass-opera-slice-eight-reform-expect-blood-nasty-kingdom-alien |  
+| bip_39_word_dash_2 | match-trigger |  
+| bip_39_word_dash_3 | match-trigger-pass |  
+| bip_39_word_dash_4 | match-trigger-pass-opera |  
+| bip_39_word_dash_5 | match-trigger-pass-opera-slice |  
+| bip_39_word_dash_6 | match-trigger-pass-opera-slice-eight |  
+| bip_39_word_dash_7 | match-trigger-pass-opera-slice-eight-reform |  
+| bip_39_word_dash_8 | match-trigger-pass-opera-slice-eight-reform-expect |  
+| bip_39_word_dash_9 | match-trigger-pass-opera-slice-eight-reform-expect-blood |  
 | bip_39_word_new_br_1 | match |  
 | bip_39_word_new_br_10 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect<br>blood<br>nasty |  
 | bip_39_word_new_br_11 | match<br>trigger<br>pass<br>opera<br>slice<br>eight<br>reform<br>expect<br>blood<br>nasty<br>kingdom |  
@@ -147,6 +159,18 @@ blood |
 | bip_39_word_space_7 | match trigger pass opera slice eight reform |  
 | bip_39_word_space_8 | match trigger pass opera slice eight reform expect |  
 | bip_39_word_space_9 | match trigger pass opera slice eight reform expect blood |  
+| bip_39_word_underscore_1 | match |  
+| bip_39_word_underscore_10 | match_trigger_pass_opera_slice_eight_reform_expect_blood_nasty |  
+| bip_39_word_underscore_11 | match_trigger_pass_opera_slice_eight_reform_expect_blood_nasty_kingdom |  
+| bip_39_word_underscore_12 | match_trigger_pass_opera_slice_eight_reform_expect_blood_nasty_kingdom_alien |  
+| bip_39_word_underscore_2 | match_trigger |  
+| bip_39_word_underscore_3 | match_trigger_pass |  
+| bip_39_word_underscore_4 | match_trigger_pass_opera |  
+| bip_39_word_underscore_5 | match_trigger_pass_opera_slice |  
+| bip_39_word_underscore_6 | match_trigger_pass_opera_slice_eight |  
+| bip_39_word_underscore_7 | match_trigger_pass_opera_slice_eight_reform |  
+| bip_39_word_underscore_8 | match_trigger_pass_opera_slice_eight_reform_expect |  
+| bip_39_word_underscore_9 | match_trigger_pass_opera_slice_eight_reform_expect_blood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

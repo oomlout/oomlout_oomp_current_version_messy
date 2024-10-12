@@ -1,3 +1,15 @@
+bip_39_word_dash_1: canvas
+bip_39_word_dash_10: canvas-input-require-govern-erupt-debate-ketchup-garment-include-burden
+bip_39_word_dash_11: canvas-input-require-govern-erupt-debate-ketchup-garment-include-burden-castle
+bip_39_word_dash_12: canvas-input-require-govern-erupt-debate-ketchup-garment-include-burden-castle-absorb
+bip_39_word_dash_2: canvas-input
+bip_39_word_dash_3: canvas-input-require
+bip_39_word_dash_4: canvas-input-require-govern
+bip_39_word_dash_5: canvas-input-require-govern-erupt
+bip_39_word_dash_6: canvas-input-require-govern-erupt-debate
+bip_39_word_dash_7: canvas-input-require-govern-erupt-debate-ketchup
+bip_39_word_dash_8: canvas-input-require-govern-erupt-debate-ketchup-garment
+bip_39_word_dash_9: canvas-input-require-govern-erupt-debate-ketchup-garment-include
 bip_39_word_new_br_1: canvas
 bip_39_word_new_br_10: canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment<br>include<br>burden
 bip_39_word_new_br_11: canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment<br>include<br>burden<br>castle
@@ -194,6 +206,18 @@ bip_39_word_space_6: canvas input require govern erupt debate
 bip_39_word_space_7: canvas input require govern erupt debate ketchup
 bip_39_word_space_8: canvas input require govern erupt debate ketchup garment
 bip_39_word_space_9: canvas input require govern erupt debate ketchup garment include
+bip_39_word_underscore_1: canvas
+bip_39_word_underscore_10: canvas_input_require_govern_erupt_debate_ketchup_garment_include_burden
+bip_39_word_underscore_11: canvas_input_require_govern_erupt_debate_ketchup_garment_include_burden_castle
+bip_39_word_underscore_12: canvas_input_require_govern_erupt_debate_ketchup_garment_include_burden_castle_absorb
+bip_39_word_underscore_2: canvas_input
+bip_39_word_underscore_3: canvas_input_require
+bip_39_word_underscore_4: canvas_input_require_govern
+bip_39_word_underscore_5: canvas_input_require_govern_erupt
+bip_39_word_underscore_6: canvas_input_require_govern_erupt_debate
+bip_39_word_underscore_7: canvas_input_require_govern_erupt_debate_ketchup
+bip_39_word_underscore_8: canvas_input_require_govern_erupt_debate_ketchup_garment
+bip_39_word_underscore_9: canvas_input_require_govern_erupt_debate_ketchup_garment_include
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

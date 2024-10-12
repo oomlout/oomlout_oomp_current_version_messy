@@ -1,3 +1,15 @@
+bip_39_word_dash_1: kind
+bip_39_word_dash_10: kind-travel-soda-hip-blood-winter-cook-vacant-wild-mandate
+bip_39_word_dash_11: kind-travel-soda-hip-blood-winter-cook-vacant-wild-mandate-obvious
+bip_39_word_dash_12: kind-travel-soda-hip-blood-winter-cook-vacant-wild-mandate-obvious-avocado
+bip_39_word_dash_2: kind-travel
+bip_39_word_dash_3: kind-travel-soda
+bip_39_word_dash_4: kind-travel-soda-hip
+bip_39_word_dash_5: kind-travel-soda-hip-blood
+bip_39_word_dash_6: kind-travel-soda-hip-blood-winter
+bip_39_word_dash_7: kind-travel-soda-hip-blood-winter-cook
+bip_39_word_dash_8: kind-travel-soda-hip-blood-winter-cook-vacant
+bip_39_word_dash_9: kind-travel-soda-hip-blood-winter-cook-vacant-wild
 bip_39_word_new_br_1: kind
 bip_39_word_new_br_10: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate
 bip_39_word_new_br_11: kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate<br>obvious
@@ -192,6 +204,18 @@ bip_39_word_space_6: kind travel soda hip blood winter
 bip_39_word_space_7: kind travel soda hip blood winter cook
 bip_39_word_space_8: kind travel soda hip blood winter cook vacant
 bip_39_word_space_9: kind travel soda hip blood winter cook vacant wild
+bip_39_word_underscore_1: kind
+bip_39_word_underscore_10: kind_travel_soda_hip_blood_winter_cook_vacant_wild_mandate
+bip_39_word_underscore_11: kind_travel_soda_hip_blood_winter_cook_vacant_wild_mandate_obvious
+bip_39_word_underscore_12: kind_travel_soda_hip_blood_winter_cook_vacant_wild_mandate_obvious_avocado
+bip_39_word_underscore_2: kind_travel
+bip_39_word_underscore_3: kind_travel_soda
+bip_39_word_underscore_4: kind_travel_soda_hip
+bip_39_word_underscore_5: kind_travel_soda_hip_blood
+bip_39_word_underscore_6: kind_travel_soda_hip_blood_winter
+bip_39_word_underscore_7: kind_travel_soda_hip_blood_winter_cook
+bip_39_word_underscore_8: kind_travel_soda_hip_blood_winter_cook_vacant
+bip_39_word_underscore_9: kind_travel_soda_hip_blood_winter_cook_vacant_wild
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

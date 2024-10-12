@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spin |  
+| bip_39_word_dash_10 | spin-coffee-delay-salute-music-clay-kick-truck-run-virtual |  
+| bip_39_word_dash_11 | spin-coffee-delay-salute-music-clay-kick-truck-run-virtual-ball |  
+| bip_39_word_dash_12 | spin-coffee-delay-salute-music-clay-kick-truck-run-virtual-ball-about |  
+| bip_39_word_dash_2 | spin-coffee |  
+| bip_39_word_dash_3 | spin-coffee-delay |  
+| bip_39_word_dash_4 | spin-coffee-delay-salute |  
+| bip_39_word_dash_5 | spin-coffee-delay-salute-music |  
+| bip_39_word_dash_6 | spin-coffee-delay-salute-music-clay |  
+| bip_39_word_dash_7 | spin-coffee-delay-salute-music-clay-kick |  
+| bip_39_word_dash_8 | spin-coffee-delay-salute-music-clay-kick-truck |  
+| bip_39_word_dash_9 | spin-coffee-delay-salute-music-clay-kick-truck-run |  
 | bip_39_word_new_br_1 | spin |  
 | bip_39_word_new_br_10 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual |  
 | bip_39_word_new_br_11 | spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual<br>ball |  
@@ -147,6 +159,18 @@ run |
 | bip_39_word_space_7 | spin coffee delay salute music clay kick |  
 | bip_39_word_space_8 | spin coffee delay salute music clay kick truck |  
 | bip_39_word_space_9 | spin coffee delay salute music clay kick truck run |  
+| bip_39_word_underscore_1 | spin |  
+| bip_39_word_underscore_10 | spin_coffee_delay_salute_music_clay_kick_truck_run_virtual |  
+| bip_39_word_underscore_11 | spin_coffee_delay_salute_music_clay_kick_truck_run_virtual_ball |  
+| bip_39_word_underscore_12 | spin_coffee_delay_salute_music_clay_kick_truck_run_virtual_ball_about |  
+| bip_39_word_underscore_2 | spin_coffee |  
+| bip_39_word_underscore_3 | spin_coffee_delay |  
+| bip_39_word_underscore_4 | spin_coffee_delay_salute |  
+| bip_39_word_underscore_5 | spin_coffee_delay_salute_music |  
+| bip_39_word_underscore_6 | spin_coffee_delay_salute_music_clay |  
+| bip_39_word_underscore_7 | spin_coffee_delay_salute_music_clay_kick |  
+| bip_39_word_underscore_8 | spin_coffee_delay_salute_music_clay_kick_truck |  
+| bip_39_word_underscore_9 | spin_coffee_delay_salute_music_clay_kick_truck_run |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

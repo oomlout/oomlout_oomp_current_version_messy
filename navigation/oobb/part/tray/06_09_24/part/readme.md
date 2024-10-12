@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | magic |  
+| bip_39_word_dash_10 | magic-upgrade-rigid-join-april-motion-forum-manual-symptom-divert |  
+| bip_39_word_dash_11 | magic-upgrade-rigid-join-april-motion-forum-manual-symptom-divert-faint |  
+| bip_39_word_dash_12 | magic-upgrade-rigid-join-april-motion-forum-manual-symptom-divert-faint-always |  
+| bip_39_word_dash_2 | magic-upgrade |  
+| bip_39_word_dash_3 | magic-upgrade-rigid |  
+| bip_39_word_dash_4 | magic-upgrade-rigid-join |  
+| bip_39_word_dash_5 | magic-upgrade-rigid-join-april |  
+| bip_39_word_dash_6 | magic-upgrade-rigid-join-april-motion |  
+| bip_39_word_dash_7 | magic-upgrade-rigid-join-april-motion-forum |  
+| bip_39_word_dash_8 | magic-upgrade-rigid-join-april-motion-forum-manual |  
+| bip_39_word_dash_9 | magic-upgrade-rigid-join-april-motion-forum-manual-symptom |  
 | bip_39_word_new_br_1 | magic |  
 | bip_39_word_new_br_10 | magic<br>upgrade<br>rigid<br>join<br>april<br>motion<br>forum<br>manual<br>symptom<br>divert |  
 | bip_39_word_new_br_11 | magic<br>upgrade<br>rigid<br>join<br>april<br>motion<br>forum<br>manual<br>symptom<br>divert<br>faint |  
@@ -147,6 +159,18 @@ symptom |
 | bip_39_word_space_7 | magic upgrade rigid join april motion forum |  
 | bip_39_word_space_8 | magic upgrade rigid join april motion forum manual |  
 | bip_39_word_space_9 | magic upgrade rigid join april motion forum manual symptom |  
+| bip_39_word_underscore_1 | magic |  
+| bip_39_word_underscore_10 | magic_upgrade_rigid_join_april_motion_forum_manual_symptom_divert |  
+| bip_39_word_underscore_11 | magic_upgrade_rigid_join_april_motion_forum_manual_symptom_divert_faint |  
+| bip_39_word_underscore_12 | magic_upgrade_rigid_join_april_motion_forum_manual_symptom_divert_faint_always |  
+| bip_39_word_underscore_2 | magic_upgrade |  
+| bip_39_word_underscore_3 | magic_upgrade_rigid |  
+| bip_39_word_underscore_4 | magic_upgrade_rigid_join |  
+| bip_39_word_underscore_5 | magic_upgrade_rigid_join_april |  
+| bip_39_word_underscore_6 | magic_upgrade_rigid_join_april_motion |  
+| bip_39_word_underscore_7 | magic_upgrade_rigid_join_april_motion_forum |  
+| bip_39_word_underscore_8 | magic_upgrade_rigid_join_april_motion_forum_manual |  
+| bip_39_word_underscore_9 | magic_upgrade_rigid_join_april_motion_forum_manual_symptom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

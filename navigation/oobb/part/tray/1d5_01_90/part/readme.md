@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drastic |  
+| bip_39_word_dash_10 | drastic-dumb-humor-humor-detail-dilemma-lyrics-output-smooth-apology |  
+| bip_39_word_dash_11 | drastic-dumb-humor-humor-detail-dilemma-lyrics-output-smooth-apology-genius |  
+| bip_39_word_dash_12 | drastic-dumb-humor-humor-detail-dilemma-lyrics-output-smooth-apology-genius-act |  
+| bip_39_word_dash_2 | drastic-dumb |  
+| bip_39_word_dash_3 | drastic-dumb-humor |  
+| bip_39_word_dash_4 | drastic-dumb-humor-humor |  
+| bip_39_word_dash_5 | drastic-dumb-humor-humor-detail |  
+| bip_39_word_dash_6 | drastic-dumb-humor-humor-detail-dilemma |  
+| bip_39_word_dash_7 | drastic-dumb-humor-humor-detail-dilemma-lyrics |  
+| bip_39_word_dash_8 | drastic-dumb-humor-humor-detail-dilemma-lyrics-output |  
+| bip_39_word_dash_9 | drastic-dumb-humor-humor-detail-dilemma-lyrics-output-smooth |  
 | bip_39_word_new_br_1 | drastic |  
 | bip_39_word_new_br_10 | drastic<br>dumb<br>humor<br>humor<br>detail<br>dilemma<br>lyrics<br>output<br>smooth<br>apology |  
 | bip_39_word_new_br_11 | drastic<br>dumb<br>humor<br>humor<br>detail<br>dilemma<br>lyrics<br>output<br>smooth<br>apology<br>genius |  
@@ -147,6 +159,18 @@ smooth |
 | bip_39_word_space_7 | drastic dumb humor humor detail dilemma lyrics |  
 | bip_39_word_space_8 | drastic dumb humor humor detail dilemma lyrics output |  
 | bip_39_word_space_9 | drastic dumb humor humor detail dilemma lyrics output smooth |  
+| bip_39_word_underscore_1 | drastic |  
+| bip_39_word_underscore_10 | drastic_dumb_humor_humor_detail_dilemma_lyrics_output_smooth_apology |  
+| bip_39_word_underscore_11 | drastic_dumb_humor_humor_detail_dilemma_lyrics_output_smooth_apology_genius |  
+| bip_39_word_underscore_12 | drastic_dumb_humor_humor_detail_dilemma_lyrics_output_smooth_apology_genius_act |  
+| bip_39_word_underscore_2 | drastic_dumb |  
+| bip_39_word_underscore_3 | drastic_dumb_humor |  
+| bip_39_word_underscore_4 | drastic_dumb_humor_humor |  
+| bip_39_word_underscore_5 | drastic_dumb_humor_humor_detail |  
+| bip_39_word_underscore_6 | drastic_dumb_humor_humor_detail_dilemma |  
+| bip_39_word_underscore_7 | drastic_dumb_humor_humor_detail_dilemma_lyrics |  
+| bip_39_word_underscore_8 | drastic_dumb_humor_humor_detail_dilemma_lyrics_output |  
+| bip_39_word_underscore_9 | drastic_dumb_humor_humor_detail_dilemma_lyrics_output_smooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

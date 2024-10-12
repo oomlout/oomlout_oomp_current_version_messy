@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | public |  
+| bip_39_word_dash_10 | public-swallow-poverty-truly-ancient-dentist-hen-cross-motion-gospel |  
+| bip_39_word_dash_11 | public-swallow-poverty-truly-ancient-dentist-hen-cross-motion-gospel-clip |  
+| bip_39_word_dash_12 | public-swallow-poverty-truly-ancient-dentist-hen-cross-motion-gospel-clip-alcohol |  
+| bip_39_word_dash_2 | public-swallow |  
+| bip_39_word_dash_3 | public-swallow-poverty |  
+| bip_39_word_dash_4 | public-swallow-poverty-truly |  
+| bip_39_word_dash_5 | public-swallow-poverty-truly-ancient |  
+| bip_39_word_dash_6 | public-swallow-poverty-truly-ancient-dentist |  
+| bip_39_word_dash_7 | public-swallow-poverty-truly-ancient-dentist-hen |  
+| bip_39_word_dash_8 | public-swallow-poverty-truly-ancient-dentist-hen-cross |  
+| bip_39_word_dash_9 | public-swallow-poverty-truly-ancient-dentist-hen-cross-motion |  
 | bip_39_word_new_br_1 | public |  
 | bip_39_word_new_br_10 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross<br>motion<br>gospel |  
 | bip_39_word_new_br_11 | public<br>swallow<br>poverty<br>truly<br>ancient<br>dentist<br>hen<br>cross<br>motion<br>gospel<br>clip |  
@@ -147,6 +159,18 @@ motion |
 | bip_39_word_space_7 | public swallow poverty truly ancient dentist hen |  
 | bip_39_word_space_8 | public swallow poverty truly ancient dentist hen cross |  
 | bip_39_word_space_9 | public swallow poverty truly ancient dentist hen cross motion |  
+| bip_39_word_underscore_1 | public |  
+| bip_39_word_underscore_10 | public_swallow_poverty_truly_ancient_dentist_hen_cross_motion_gospel |  
+| bip_39_word_underscore_11 | public_swallow_poverty_truly_ancient_dentist_hen_cross_motion_gospel_clip |  
+| bip_39_word_underscore_12 | public_swallow_poverty_truly_ancient_dentist_hen_cross_motion_gospel_clip_alcohol |  
+| bip_39_word_underscore_2 | public_swallow |  
+| bip_39_word_underscore_3 | public_swallow_poverty |  
+| bip_39_word_underscore_4 | public_swallow_poverty_truly |  
+| bip_39_word_underscore_5 | public_swallow_poverty_truly_ancient |  
+| bip_39_word_underscore_6 | public_swallow_poverty_truly_ancient_dentist |  
+| bip_39_word_underscore_7 | public_swallow_poverty_truly_ancient_dentist_hen |  
+| bip_39_word_underscore_8 | public_swallow_poverty_truly_ancient_dentist_hen_cross |  
+| bip_39_word_underscore_9 | public_swallow_poverty_truly_ancient_dentist_hen_cross_motion |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

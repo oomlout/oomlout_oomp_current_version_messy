@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | iron |  
+| bip_39_word_dash_10 | iron-define-outdoor-swamp-approve-page-current-three-parade-usual |  
+| bip_39_word_dash_11 | iron-define-outdoor-swamp-approve-page-current-three-parade-usual-inspire |  
+| bip_39_word_dash_12 | iron-define-outdoor-swamp-approve-page-current-three-parade-usual-inspire-alone |  
+| bip_39_word_dash_2 | iron-define |  
+| bip_39_word_dash_3 | iron-define-outdoor |  
+| bip_39_word_dash_4 | iron-define-outdoor-swamp |  
+| bip_39_word_dash_5 | iron-define-outdoor-swamp-approve |  
+| bip_39_word_dash_6 | iron-define-outdoor-swamp-approve-page |  
+| bip_39_word_dash_7 | iron-define-outdoor-swamp-approve-page-current |  
+| bip_39_word_dash_8 | iron-define-outdoor-swamp-approve-page-current-three |  
+| bip_39_word_dash_9 | iron-define-outdoor-swamp-approve-page-current-three-parade |  
 | bip_39_word_new_br_1 | iron |  
 | bip_39_word_new_br_10 | iron<br>define<br>outdoor<br>swamp<br>approve<br>page<br>current<br>three<br>parade<br>usual |  
 | bip_39_word_new_br_11 | iron<br>define<br>outdoor<br>swamp<br>approve<br>page<br>current<br>three<br>parade<br>usual<br>inspire |  
@@ -147,6 +159,18 @@ parade |
 | bip_39_word_space_7 | iron define outdoor swamp approve page current |  
 | bip_39_word_space_8 | iron define outdoor swamp approve page current three |  
 | bip_39_word_space_9 | iron define outdoor swamp approve page current three parade |  
+| bip_39_word_underscore_1 | iron |  
+| bip_39_word_underscore_10 | iron_define_outdoor_swamp_approve_page_current_three_parade_usual |  
+| bip_39_word_underscore_11 | iron_define_outdoor_swamp_approve_page_current_three_parade_usual_inspire |  
+| bip_39_word_underscore_12 | iron_define_outdoor_swamp_approve_page_current_three_parade_usual_inspire_alone |  
+| bip_39_word_underscore_2 | iron_define |  
+| bip_39_word_underscore_3 | iron_define_outdoor |  
+| bip_39_word_underscore_4 | iron_define_outdoor_swamp |  
+| bip_39_word_underscore_5 | iron_define_outdoor_swamp_approve |  
+| bip_39_word_underscore_6 | iron_define_outdoor_swamp_approve_page |  
+| bip_39_word_underscore_7 | iron_define_outdoor_swamp_approve_page_current |  
+| bip_39_word_underscore_8 | iron_define_outdoor_swamp_approve_page_current_three |  
+| bip_39_word_underscore_9 | iron_define_outdoor_swamp_approve_page_current_three_parade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

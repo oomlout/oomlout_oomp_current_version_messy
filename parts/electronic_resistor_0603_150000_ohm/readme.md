@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arch |  
+| bip_39_word_dash_10 | arch-inject-poet-cute-pull-artefact-member-bring-duck-bomb |  
+| bip_39_word_dash_11 | arch-inject-poet-cute-pull-artefact-member-bring-duck-bomb-human |  
+| bip_39_word_dash_12 | arch-inject-poet-cute-pull-artefact-member-bring-duck-bomb-human-actual |  
+| bip_39_word_dash_2 | arch-inject |  
+| bip_39_word_dash_3 | arch-inject-poet |  
+| bip_39_word_dash_4 | arch-inject-poet-cute |  
+| bip_39_word_dash_5 | arch-inject-poet-cute-pull |  
+| bip_39_word_dash_6 | arch-inject-poet-cute-pull-artefact |  
+| bip_39_word_dash_7 | arch-inject-poet-cute-pull-artefact-member |  
+| bip_39_word_dash_8 | arch-inject-poet-cute-pull-artefact-member-bring |  
+| bip_39_word_dash_9 | arch-inject-poet-cute-pull-artefact-member-bring-duck |  
 | bip_39_word_new_br_1 | arch |  
 | bip_39_word_new_br_10 | arch<br>inject<br>poet<br>cute<br>pull<br>artefact<br>member<br>bring<br>duck<br>bomb |  
 | bip_39_word_new_br_11 | arch<br>inject<br>poet<br>cute<br>pull<br>artefact<br>member<br>bring<br>duck<br>bomb<br>human |  
@@ -147,6 +159,18 @@ duck |
 | bip_39_word_space_7 | arch inject poet cute pull artefact member |  
 | bip_39_word_space_8 | arch inject poet cute pull artefact member bring |  
 | bip_39_word_space_9 | arch inject poet cute pull artefact member bring duck |  
+| bip_39_word_underscore_1 | arch |  
+| bip_39_word_underscore_10 | arch_inject_poet_cute_pull_artefact_member_bring_duck_bomb |  
+| bip_39_word_underscore_11 | arch_inject_poet_cute_pull_artefact_member_bring_duck_bomb_human |  
+| bip_39_word_underscore_12 | arch_inject_poet_cute_pull_artefact_member_bring_duck_bomb_human_actual |  
+| bip_39_word_underscore_2 | arch_inject |  
+| bip_39_word_underscore_3 | arch_inject_poet |  
+| bip_39_word_underscore_4 | arch_inject_poet_cute |  
+| bip_39_word_underscore_5 | arch_inject_poet_cute_pull |  
+| bip_39_word_underscore_6 | arch_inject_poet_cute_pull_artefact |  
+| bip_39_word_underscore_7 | arch_inject_poet_cute_pull_artefact_member |  
+| bip_39_word_underscore_8 | arch_inject_poet_cute_pull_artefact_member_bring |  
+| bip_39_word_underscore_9 | arch_inject_poet_cute_pull_artefact_member_bring_duck |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

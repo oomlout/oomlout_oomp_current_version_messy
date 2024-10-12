@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | point |  
+| bip_39_word_dash_10 | point-image-glow-sting-boy-inflict-stand-cradle-employ-top |  
+| bip_39_word_dash_11 | point-image-glow-sting-boy-inflict-stand-cradle-employ-top-outdoor |  
+| bip_39_word_dash_12 | point-image-glow-sting-boy-inflict-stand-cradle-employ-top-outdoor-athlete |  
+| bip_39_word_dash_2 | point-image |  
+| bip_39_word_dash_3 | point-image-glow |  
+| bip_39_word_dash_4 | point-image-glow-sting |  
+| bip_39_word_dash_5 | point-image-glow-sting-boy |  
+| bip_39_word_dash_6 | point-image-glow-sting-boy-inflict |  
+| bip_39_word_dash_7 | point-image-glow-sting-boy-inflict-stand |  
+| bip_39_word_dash_8 | point-image-glow-sting-boy-inflict-stand-cradle |  
+| bip_39_word_dash_9 | point-image-glow-sting-boy-inflict-stand-cradle-employ |  
 | bip_39_word_new_br_1 | point |  
 | bip_39_word_new_br_10 | point<br>image<br>glow<br>sting<br>boy<br>inflict<br>stand<br>cradle<br>employ<br>top |  
 | bip_39_word_new_br_11 | point<br>image<br>glow<br>sting<br>boy<br>inflict<br>stand<br>cradle<br>employ<br>top<br>outdoor |  
@@ -147,6 +159,18 @@ employ |
 | bip_39_word_space_7 | point image glow sting boy inflict stand |  
 | bip_39_word_space_8 | point image glow sting boy inflict stand cradle |  
 | bip_39_word_space_9 | point image glow sting boy inflict stand cradle employ |  
+| bip_39_word_underscore_1 | point |  
+| bip_39_word_underscore_10 | point_image_glow_sting_boy_inflict_stand_cradle_employ_top |  
+| bip_39_word_underscore_11 | point_image_glow_sting_boy_inflict_stand_cradle_employ_top_outdoor |  
+| bip_39_word_underscore_12 | point_image_glow_sting_boy_inflict_stand_cradle_employ_top_outdoor_athlete |  
+| bip_39_word_underscore_2 | point_image |  
+| bip_39_word_underscore_3 | point_image_glow |  
+| bip_39_word_underscore_4 | point_image_glow_sting |  
+| bip_39_word_underscore_5 | point_image_glow_sting_boy |  
+| bip_39_word_underscore_6 | point_image_glow_sting_boy_inflict |  
+| bip_39_word_underscore_7 | point_image_glow_sting_boy_inflict_stand |  
+| bip_39_word_underscore_8 | point_image_glow_sting_boy_inflict_stand_cradle |  
+| bip_39_word_underscore_9 | point_image_glow_sting_boy_inflict_stand_cradle_employ |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

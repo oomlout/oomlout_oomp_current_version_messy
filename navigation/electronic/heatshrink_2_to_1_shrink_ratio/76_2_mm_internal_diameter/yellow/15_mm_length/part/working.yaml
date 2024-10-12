@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trim
+bip_39_word_dash_10: trim-flock-usual-slow-price-seek-answer-minimum-festival-minor
+bip_39_word_dash_11: trim-flock-usual-slow-price-seek-answer-minimum-festival-minor-emerge
+bip_39_word_dash_12: trim-flock-usual-slow-price-seek-answer-minimum-festival-minor-emerge-assume
+bip_39_word_dash_2: trim-flock
+bip_39_word_dash_3: trim-flock-usual
+bip_39_word_dash_4: trim-flock-usual-slow
+bip_39_word_dash_5: trim-flock-usual-slow-price
+bip_39_word_dash_6: trim-flock-usual-slow-price-seek
+bip_39_word_dash_7: trim-flock-usual-slow-price-seek-answer
+bip_39_word_dash_8: trim-flock-usual-slow-price-seek-answer-minimum
+bip_39_word_dash_9: trim-flock-usual-slow-price-seek-answer-minimum-festival
 bip_39_word_new_br_1: trim
 bip_39_word_new_br_10: trim<br>flock<br>usual<br>slow<br>price<br>seek<br>answer<br>minimum<br>festival<br>minor
 bip_39_word_new_br_11: trim<br>flock<br>usual<br>slow<br>price<br>seek<br>answer<br>minimum<br>festival<br>minor<br>emerge
@@ -193,6 +205,18 @@ bip_39_word_space_6: trim flock usual slow price seek
 bip_39_word_space_7: trim flock usual slow price seek answer
 bip_39_word_space_8: trim flock usual slow price seek answer minimum
 bip_39_word_space_9: trim flock usual slow price seek answer minimum festival
+bip_39_word_underscore_1: trim
+bip_39_word_underscore_10: trim_flock_usual_slow_price_seek_answer_minimum_festival_minor
+bip_39_word_underscore_11: trim_flock_usual_slow_price_seek_answer_minimum_festival_minor_emerge
+bip_39_word_underscore_12: trim_flock_usual_slow_price_seek_answer_minimum_festival_minor_emerge_assume
+bip_39_word_underscore_2: trim_flock
+bip_39_word_underscore_3: trim_flock_usual
+bip_39_word_underscore_4: trim_flock_usual_slow
+bip_39_word_underscore_5: trim_flock_usual_slow_price
+bip_39_word_underscore_6: trim_flock_usual_slow_price_seek
+bip_39_word_underscore_7: trim_flock_usual_slow_price_seek_answer
+bip_39_word_underscore_8: trim_flock_usual_slow_price_seek_answer_minimum
+bip_39_word_underscore_9: trim_flock_usual_slow_price_seek_answer_minimum_festival
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

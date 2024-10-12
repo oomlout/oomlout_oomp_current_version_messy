@@ -1,3 +1,15 @@
+bip_39_word_dash_1: anchor
+bip_39_word_dash_10: anchor-pony-chunk-wrist-similar-ordinary-appear-say-vintage-vault
+bip_39_word_dash_11: anchor-pony-chunk-wrist-similar-ordinary-appear-say-vintage-vault-hill
+bip_39_word_dash_12: anchor-pony-chunk-wrist-similar-ordinary-appear-say-vintage-vault-hill-any
+bip_39_word_dash_2: anchor-pony
+bip_39_word_dash_3: anchor-pony-chunk
+bip_39_word_dash_4: anchor-pony-chunk-wrist
+bip_39_word_dash_5: anchor-pony-chunk-wrist-similar
+bip_39_word_dash_6: anchor-pony-chunk-wrist-similar-ordinary
+bip_39_word_dash_7: anchor-pony-chunk-wrist-similar-ordinary-appear
+bip_39_word_dash_8: anchor-pony-chunk-wrist-similar-ordinary-appear-say
+bip_39_word_dash_9: anchor-pony-chunk-wrist-similar-ordinary-appear-say-vintage
 bip_39_word_new_br_1: anchor
 bip_39_word_new_br_10: anchor<br>pony<br>chunk<br>wrist<br>similar<br>ordinary<br>appear<br>say<br>vintage<br>vault
 bip_39_word_new_br_11: anchor<br>pony<br>chunk<br>wrist<br>similar<br>ordinary<br>appear<br>say<br>vintage<br>vault<br>hill
@@ -194,6 +206,18 @@ bip_39_word_space_6: anchor pony chunk wrist similar ordinary
 bip_39_word_space_7: anchor pony chunk wrist similar ordinary appear
 bip_39_word_space_8: anchor pony chunk wrist similar ordinary appear say
 bip_39_word_space_9: anchor pony chunk wrist similar ordinary appear say vintage
+bip_39_word_underscore_1: anchor
+bip_39_word_underscore_10: anchor_pony_chunk_wrist_similar_ordinary_appear_say_vintage_vault
+bip_39_word_underscore_11: anchor_pony_chunk_wrist_similar_ordinary_appear_say_vintage_vault_hill
+bip_39_word_underscore_12: anchor_pony_chunk_wrist_similar_ordinary_appear_say_vintage_vault_hill_any
+bip_39_word_underscore_2: anchor_pony
+bip_39_word_underscore_3: anchor_pony_chunk
+bip_39_word_underscore_4: anchor_pony_chunk_wrist
+bip_39_word_underscore_5: anchor_pony_chunk_wrist_similar
+bip_39_word_underscore_6: anchor_pony_chunk_wrist_similar_ordinary
+bip_39_word_underscore_7: anchor_pony_chunk_wrist_similar_ordinary_appear
+bip_39_word_underscore_8: anchor_pony_chunk_wrist_similar_ordinary_appear_say
+bip_39_word_underscore_9: anchor_pony_chunk_wrist_similar_ordinary_appear_say_vintage
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

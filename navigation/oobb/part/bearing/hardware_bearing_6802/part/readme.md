@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bamboo |  
+| bip_39_word_dash_10 | bamboo-foster-provide-initial-horse-gold-ginger-gas-thunder-pulse |  
+| bip_39_word_dash_11 | bamboo-foster-provide-initial-horse-gold-ginger-gas-thunder-pulse-project |  
+| bip_39_word_dash_12 | bamboo-foster-provide-initial-horse-gold-ginger-gas-thunder-pulse-project-arrest |  
+| bip_39_word_dash_2 | bamboo-foster |  
+| bip_39_word_dash_3 | bamboo-foster-provide |  
+| bip_39_word_dash_4 | bamboo-foster-provide-initial |  
+| bip_39_word_dash_5 | bamboo-foster-provide-initial-horse |  
+| bip_39_word_dash_6 | bamboo-foster-provide-initial-horse-gold |  
+| bip_39_word_dash_7 | bamboo-foster-provide-initial-horse-gold-ginger |  
+| bip_39_word_dash_8 | bamboo-foster-provide-initial-horse-gold-ginger-gas |  
+| bip_39_word_dash_9 | bamboo-foster-provide-initial-horse-gold-ginger-gas-thunder |  
 | bip_39_word_new_br_1 | bamboo |  
 | bip_39_word_new_br_10 | bamboo<br>foster<br>provide<br>initial<br>horse<br>gold<br>ginger<br>gas<br>thunder<br>pulse |  
 | bip_39_word_new_br_11 | bamboo<br>foster<br>provide<br>initial<br>horse<br>gold<br>ginger<br>gas<br>thunder<br>pulse<br>project |  
@@ -147,6 +159,18 @@ thunder |
 | bip_39_word_space_7 | bamboo foster provide initial horse gold ginger |  
 | bip_39_word_space_8 | bamboo foster provide initial horse gold ginger gas |  
 | bip_39_word_space_9 | bamboo foster provide initial horse gold ginger gas thunder |  
+| bip_39_word_underscore_1 | bamboo |  
+| bip_39_word_underscore_10 | bamboo_foster_provide_initial_horse_gold_ginger_gas_thunder_pulse |  
+| bip_39_word_underscore_11 | bamboo_foster_provide_initial_horse_gold_ginger_gas_thunder_pulse_project |  
+| bip_39_word_underscore_12 | bamboo_foster_provide_initial_horse_gold_ginger_gas_thunder_pulse_project_arrest |  
+| bip_39_word_underscore_2 | bamboo_foster |  
+| bip_39_word_underscore_3 | bamboo_foster_provide |  
+| bip_39_word_underscore_4 | bamboo_foster_provide_initial |  
+| bip_39_word_underscore_5 | bamboo_foster_provide_initial_horse |  
+| bip_39_word_underscore_6 | bamboo_foster_provide_initial_horse_gold |  
+| bip_39_word_underscore_7 | bamboo_foster_provide_initial_horse_gold_ginger |  
+| bip_39_word_underscore_8 | bamboo_foster_provide_initial_horse_gold_ginger_gas |  
+| bip_39_word_underscore_9 | bamboo_foster_provide_initial_horse_gold_ginger_gas_thunder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

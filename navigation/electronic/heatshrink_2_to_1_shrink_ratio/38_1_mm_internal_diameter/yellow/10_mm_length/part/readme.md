@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dish |  
+| bip_39_word_dash_10 | dish-stairs-sister-empower-mean-grant-renew-upper-scissors-pause |  
+| bip_39_word_dash_11 | dish-stairs-sister-empower-mean-grant-renew-upper-scissors-pause-domain |  
+| bip_39_word_dash_12 | dish-stairs-sister-empower-mean-grant-renew-upper-scissors-pause-domain-appear |  
+| bip_39_word_dash_2 | dish-stairs |  
+| bip_39_word_dash_3 | dish-stairs-sister |  
+| bip_39_word_dash_4 | dish-stairs-sister-empower |  
+| bip_39_word_dash_5 | dish-stairs-sister-empower-mean |  
+| bip_39_word_dash_6 | dish-stairs-sister-empower-mean-grant |  
+| bip_39_word_dash_7 | dish-stairs-sister-empower-mean-grant-renew |  
+| bip_39_word_dash_8 | dish-stairs-sister-empower-mean-grant-renew-upper |  
+| bip_39_word_dash_9 | dish-stairs-sister-empower-mean-grant-renew-upper-scissors |  
 | bip_39_word_new_br_1 | dish |  
 | bip_39_word_new_br_10 | dish<br>stairs<br>sister<br>empower<br>mean<br>grant<br>renew<br>upper<br>scissors<br>pause |  
 | bip_39_word_new_br_11 | dish<br>stairs<br>sister<br>empower<br>mean<br>grant<br>renew<br>upper<br>scissors<br>pause<br>domain |  
@@ -147,6 +159,18 @@ scissors |
 | bip_39_word_space_7 | dish stairs sister empower mean grant renew |  
 | bip_39_word_space_8 | dish stairs sister empower mean grant renew upper |  
 | bip_39_word_space_9 | dish stairs sister empower mean grant renew upper scissors |  
+| bip_39_word_underscore_1 | dish |  
+| bip_39_word_underscore_10 | dish_stairs_sister_empower_mean_grant_renew_upper_scissors_pause |  
+| bip_39_word_underscore_11 | dish_stairs_sister_empower_mean_grant_renew_upper_scissors_pause_domain |  
+| bip_39_word_underscore_12 | dish_stairs_sister_empower_mean_grant_renew_upper_scissors_pause_domain_appear |  
+| bip_39_word_underscore_2 | dish_stairs |  
+| bip_39_word_underscore_3 | dish_stairs_sister |  
+| bip_39_word_underscore_4 | dish_stairs_sister_empower |  
+| bip_39_word_underscore_5 | dish_stairs_sister_empower_mean |  
+| bip_39_word_underscore_6 | dish_stairs_sister_empower_mean_grant |  
+| bip_39_word_underscore_7 | dish_stairs_sister_empower_mean_grant_renew |  
+| bip_39_word_underscore_8 | dish_stairs_sister_empower_mean_grant_renew_upper |  
+| bip_39_word_underscore_9 | dish_stairs_sister_empower_mean_grant_renew_upper_scissors |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

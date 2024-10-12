@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stick
+bip_39_word_dash_10: stick-before-three-subject-grid-ahead-melody-fitness-tone-column
+bip_39_word_dash_11: stick-before-three-subject-grid-ahead-melody-fitness-tone-column-adapt
+bip_39_word_dash_12: stick-before-three-subject-grid-ahead-melody-fitness-tone-column-adapt-annual
+bip_39_word_dash_2: stick-before
+bip_39_word_dash_3: stick-before-three
+bip_39_word_dash_4: stick-before-three-subject
+bip_39_word_dash_5: stick-before-three-subject-grid
+bip_39_word_dash_6: stick-before-three-subject-grid-ahead
+bip_39_word_dash_7: stick-before-three-subject-grid-ahead-melody
+bip_39_word_dash_8: stick-before-three-subject-grid-ahead-melody-fitness
+bip_39_word_dash_9: stick-before-three-subject-grid-ahead-melody-fitness-tone
 bip_39_word_new_br_1: stick
 bip_39_word_new_br_10: stick<br>before<br>three<br>subject<br>grid<br>ahead<br>melody<br>fitness<br>tone<br>column
 bip_39_word_new_br_11: stick<br>before<br>three<br>subject<br>grid<br>ahead<br>melody<br>fitness<br>tone<br>column<br>adapt
@@ -193,6 +205,18 @@ bip_39_word_space_6: stick before three subject grid ahead
 bip_39_word_space_7: stick before three subject grid ahead melody
 bip_39_word_space_8: stick before three subject grid ahead melody fitness
 bip_39_word_space_9: stick before three subject grid ahead melody fitness tone
+bip_39_word_underscore_1: stick
+bip_39_word_underscore_10: stick_before_three_subject_grid_ahead_melody_fitness_tone_column
+bip_39_word_underscore_11: stick_before_three_subject_grid_ahead_melody_fitness_tone_column_adapt
+bip_39_word_underscore_12: stick_before_three_subject_grid_ahead_melody_fitness_tone_column_adapt_annual
+bip_39_word_underscore_2: stick_before
+bip_39_word_underscore_3: stick_before_three
+bip_39_word_underscore_4: stick_before_three_subject
+bip_39_word_underscore_5: stick_before_three_subject_grid
+bip_39_word_underscore_6: stick_before_three_subject_grid_ahead
+bip_39_word_underscore_7: stick_before_three_subject_grid_ahead_melody
+bip_39_word_underscore_8: stick_before_three_subject_grid_ahead_melody_fitness
+bip_39_word_underscore_9: stick_before_three_subject_grid_ahead_melody_fitness_tone
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

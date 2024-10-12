@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quote |  
+| bip_39_word_dash_10 | quote-clump-guide-rain-kangaroo-gate-pumpkin-cycle-sugar-cart |  
+| bip_39_word_dash_11 | quote-clump-guide-rain-kangaroo-gate-pumpkin-cycle-sugar-cart-jewel |  
+| bip_39_word_dash_12 | quote-clump-guide-rain-kangaroo-gate-pumpkin-cycle-sugar-cart-jewel-absent |  
+| bip_39_word_dash_2 | quote-clump |  
+| bip_39_word_dash_3 | quote-clump-guide |  
+| bip_39_word_dash_4 | quote-clump-guide-rain |  
+| bip_39_word_dash_5 | quote-clump-guide-rain-kangaroo |  
+| bip_39_word_dash_6 | quote-clump-guide-rain-kangaroo-gate |  
+| bip_39_word_dash_7 | quote-clump-guide-rain-kangaroo-gate-pumpkin |  
+| bip_39_word_dash_8 | quote-clump-guide-rain-kangaroo-gate-pumpkin-cycle |  
+| bip_39_word_dash_9 | quote-clump-guide-rain-kangaroo-gate-pumpkin-cycle-sugar |  
 | bip_39_word_new_br_1 | quote |  
 | bip_39_word_new_br_10 | quote<br>clump<br>guide<br>rain<br>kangaroo<br>gate<br>pumpkin<br>cycle<br>sugar<br>cart |  
 | bip_39_word_new_br_11 | quote<br>clump<br>guide<br>rain<br>kangaroo<br>gate<br>pumpkin<br>cycle<br>sugar<br>cart<br>jewel |  
@@ -147,6 +159,18 @@ sugar |
 | bip_39_word_space_7 | quote clump guide rain kangaroo gate pumpkin |  
 | bip_39_word_space_8 | quote clump guide rain kangaroo gate pumpkin cycle |  
 | bip_39_word_space_9 | quote clump guide rain kangaroo gate pumpkin cycle sugar |  
+| bip_39_word_underscore_1 | quote |  
+| bip_39_word_underscore_10 | quote_clump_guide_rain_kangaroo_gate_pumpkin_cycle_sugar_cart |  
+| bip_39_word_underscore_11 | quote_clump_guide_rain_kangaroo_gate_pumpkin_cycle_sugar_cart_jewel |  
+| bip_39_word_underscore_12 | quote_clump_guide_rain_kangaroo_gate_pumpkin_cycle_sugar_cart_jewel_absent |  
+| bip_39_word_underscore_2 | quote_clump |  
+| bip_39_word_underscore_3 | quote_clump_guide |  
+| bip_39_word_underscore_4 | quote_clump_guide_rain |  
+| bip_39_word_underscore_5 | quote_clump_guide_rain_kangaroo |  
+| bip_39_word_underscore_6 | quote_clump_guide_rain_kangaroo_gate |  
+| bip_39_word_underscore_7 | quote_clump_guide_rain_kangaroo_gate_pumpkin |  
+| bip_39_word_underscore_8 | quote_clump_guide_rain_kangaroo_gate_pumpkin_cycle |  
+| bip_39_word_underscore_9 | quote_clump_guide_rain_kangaroo_gate_pumpkin_cycle_sugar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

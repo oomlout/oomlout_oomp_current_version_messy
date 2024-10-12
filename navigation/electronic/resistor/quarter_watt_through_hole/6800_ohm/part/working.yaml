@@ -1,3 +1,15 @@
+bip_39_word_dash_1: puzzle
+bip_39_word_dash_10: puzzle-frozen-interest-update-glove-ivory-unfold-fortune-midnight-person
+bip_39_word_dash_11: puzzle-frozen-interest-update-glove-ivory-unfold-fortune-midnight-person-peanut
+bip_39_word_dash_12: puzzle-frozen-interest-update-glove-ivory-unfold-fortune-midnight-person-peanut-anxiety
+bip_39_word_dash_2: puzzle-frozen
+bip_39_word_dash_3: puzzle-frozen-interest
+bip_39_word_dash_4: puzzle-frozen-interest-update
+bip_39_word_dash_5: puzzle-frozen-interest-update-glove
+bip_39_word_dash_6: puzzle-frozen-interest-update-glove-ivory
+bip_39_word_dash_7: puzzle-frozen-interest-update-glove-ivory-unfold
+bip_39_word_dash_8: puzzle-frozen-interest-update-glove-ivory-unfold-fortune
+bip_39_word_dash_9: puzzle-frozen-interest-update-glove-ivory-unfold-fortune-midnight
 bip_39_word_new_br_1: puzzle
 bip_39_word_new_br_10: puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune<br>midnight<br>person
 bip_39_word_new_br_11: puzzle<br>frozen<br>interest<br>update<br>glove<br>ivory<br>unfold<br>fortune<br>midnight<br>person<br>peanut
@@ -194,6 +206,18 @@ bip_39_word_space_6: puzzle frozen interest update glove ivory
 bip_39_word_space_7: puzzle frozen interest update glove ivory unfold
 bip_39_word_space_8: puzzle frozen interest update glove ivory unfold fortune
 bip_39_word_space_9: puzzle frozen interest update glove ivory unfold fortune midnight
+bip_39_word_underscore_1: puzzle
+bip_39_word_underscore_10: puzzle_frozen_interest_update_glove_ivory_unfold_fortune_midnight_person
+bip_39_word_underscore_11: puzzle_frozen_interest_update_glove_ivory_unfold_fortune_midnight_person_peanut
+bip_39_word_underscore_12: puzzle_frozen_interest_update_glove_ivory_unfold_fortune_midnight_person_peanut_anxiety
+bip_39_word_underscore_2: puzzle_frozen
+bip_39_word_underscore_3: puzzle_frozen_interest
+bip_39_word_underscore_4: puzzle_frozen_interest_update
+bip_39_word_underscore_5: puzzle_frozen_interest_update_glove
+bip_39_word_underscore_6: puzzle_frozen_interest_update_glove_ivory
+bip_39_word_underscore_7: puzzle_frozen_interest_update_glove_ivory_unfold
+bip_39_word_underscore_8: puzzle_frozen_interest_update_glove_ivory_unfold_fortune
+bip_39_word_underscore_9: puzzle_frozen_interest_update_glove_ivory_unfold_fortune_midnight
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

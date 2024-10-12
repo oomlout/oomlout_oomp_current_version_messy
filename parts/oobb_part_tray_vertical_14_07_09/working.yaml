@@ -1,3 +1,15 @@
+bip_39_word_dash_1: age
+bip_39_word_dash_10: age-toddler-pizza-vacuum-melt-multiply-squirrel-manual-piece-range
+bip_39_word_dash_11: age-toddler-pizza-vacuum-melt-multiply-squirrel-manual-piece-range-note
+bip_39_word_dash_12: age-toddler-pizza-vacuum-melt-multiply-squirrel-manual-piece-range-note-alley
+bip_39_word_dash_2: age-toddler
+bip_39_word_dash_3: age-toddler-pizza
+bip_39_word_dash_4: age-toddler-pizza-vacuum
+bip_39_word_dash_5: age-toddler-pizza-vacuum-melt
+bip_39_word_dash_6: age-toddler-pizza-vacuum-melt-multiply
+bip_39_word_dash_7: age-toddler-pizza-vacuum-melt-multiply-squirrel
+bip_39_word_dash_8: age-toddler-pizza-vacuum-melt-multiply-squirrel-manual
+bip_39_word_dash_9: age-toddler-pizza-vacuum-melt-multiply-squirrel-manual-piece
 bip_39_word_new_br_1: age
 bip_39_word_new_br_10: age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range
 bip_39_word_new_br_11: age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range<br>note
@@ -194,6 +206,18 @@ bip_39_word_space_6: age toddler pizza vacuum melt multiply
 bip_39_word_space_7: age toddler pizza vacuum melt multiply squirrel
 bip_39_word_space_8: age toddler pizza vacuum melt multiply squirrel manual
 bip_39_word_space_9: age toddler pizza vacuum melt multiply squirrel manual piece
+bip_39_word_underscore_1: age
+bip_39_word_underscore_10: age_toddler_pizza_vacuum_melt_multiply_squirrel_manual_piece_range
+bip_39_word_underscore_11: age_toddler_pizza_vacuum_melt_multiply_squirrel_manual_piece_range_note
+bip_39_word_underscore_12: age_toddler_pizza_vacuum_melt_multiply_squirrel_manual_piece_range_note_alley
+bip_39_word_underscore_2: age_toddler
+bip_39_word_underscore_3: age_toddler_pizza
+bip_39_word_underscore_4: age_toddler_pizza_vacuum
+bip_39_word_underscore_5: age_toddler_pizza_vacuum_melt
+bip_39_word_underscore_6: age_toddler_pizza_vacuum_melt_multiply
+bip_39_word_underscore_7: age_toddler_pizza_vacuum_melt_multiply_squirrel
+bip_39_word_underscore_8: age_toddler_pizza_vacuum_melt_multiply_squirrel_manual
+bip_39_word_underscore_9: age_toddler_pizza_vacuum_melt_multiply_squirrel_manual_piece
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

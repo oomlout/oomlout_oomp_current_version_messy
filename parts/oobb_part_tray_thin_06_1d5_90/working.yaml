@@ -1,3 +1,15 @@
+bip_39_word_dash_1: omit
+bip_39_word_dash_10: omit-gentle-between-guess-tank-floor-country-dust-great-bonus
+bip_39_word_dash_11: omit-gentle-between-guess-tank-floor-country-dust-great-bonus-zone
+bip_39_word_dash_12: omit-gentle-between-guess-tank-floor-country-dust-great-bonus-zone-absent
+bip_39_word_dash_2: omit-gentle
+bip_39_word_dash_3: omit-gentle-between
+bip_39_word_dash_4: omit-gentle-between-guess
+bip_39_word_dash_5: omit-gentle-between-guess-tank
+bip_39_word_dash_6: omit-gentle-between-guess-tank-floor
+bip_39_word_dash_7: omit-gentle-between-guess-tank-floor-country
+bip_39_word_dash_8: omit-gentle-between-guess-tank-floor-country-dust
+bip_39_word_dash_9: omit-gentle-between-guess-tank-floor-country-dust-great
 bip_39_word_new_br_1: omit
 bip_39_word_new_br_10: omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus
 bip_39_word_new_br_11: omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus<br>zone
@@ -193,6 +205,18 @@ bip_39_word_space_6: omit gentle between guess tank floor
 bip_39_word_space_7: omit gentle between guess tank floor country
 bip_39_word_space_8: omit gentle between guess tank floor country dust
 bip_39_word_space_9: omit gentle between guess tank floor country dust great
+bip_39_word_underscore_1: omit
+bip_39_word_underscore_10: omit_gentle_between_guess_tank_floor_country_dust_great_bonus
+bip_39_word_underscore_11: omit_gentle_between_guess_tank_floor_country_dust_great_bonus_zone
+bip_39_word_underscore_12: omit_gentle_between_guess_tank_floor_country_dust_great_bonus_zone_absent
+bip_39_word_underscore_2: omit_gentle
+bip_39_word_underscore_3: omit_gentle_between
+bip_39_word_underscore_4: omit_gentle_between_guess
+bip_39_word_underscore_5: omit_gentle_between_guess_tank
+bip_39_word_underscore_6: omit_gentle_between_guess_tank_floor
+bip_39_word_underscore_7: omit_gentle_between_guess_tank_floor_country
+bip_39_word_underscore_8: omit_gentle_between_guess_tank_floor_country_dust
+bip_39_word_underscore_9: omit_gentle_between_guess_tank_floor_country_dust_great
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

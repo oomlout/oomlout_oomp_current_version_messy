@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boil |  
+| bip_39_word_dash_10 | boil-syrup-illness-slot-rib-home-forum-ski-reopen-ginger |  
+| bip_39_word_dash_11 | boil-syrup-illness-slot-rib-home-forum-ski-reopen-ginger-address |  
+| bip_39_word_dash_12 | boil-syrup-illness-slot-rib-home-forum-ski-reopen-ginger-address-attract |  
+| bip_39_word_dash_2 | boil-syrup |  
+| bip_39_word_dash_3 | boil-syrup-illness |  
+| bip_39_word_dash_4 | boil-syrup-illness-slot |  
+| bip_39_word_dash_5 | boil-syrup-illness-slot-rib |  
+| bip_39_word_dash_6 | boil-syrup-illness-slot-rib-home |  
+| bip_39_word_dash_7 | boil-syrup-illness-slot-rib-home-forum |  
+| bip_39_word_dash_8 | boil-syrup-illness-slot-rib-home-forum-ski |  
+| bip_39_word_dash_9 | boil-syrup-illness-slot-rib-home-forum-ski-reopen |  
 | bip_39_word_new_br_1 | boil |  
 | bip_39_word_new_br_10 | boil<br>syrup<br>illness<br>slot<br>rib<br>home<br>forum<br>ski<br>reopen<br>ginger |  
 | bip_39_word_new_br_11 | boil<br>syrup<br>illness<br>slot<br>rib<br>home<br>forum<br>ski<br>reopen<br>ginger<br>address |  
@@ -147,6 +159,18 @@ reopen |
 | bip_39_word_space_7 | boil syrup illness slot rib home forum |  
 | bip_39_word_space_8 | boil syrup illness slot rib home forum ski |  
 | bip_39_word_space_9 | boil syrup illness slot rib home forum ski reopen |  
+| bip_39_word_underscore_1 | boil |  
+| bip_39_word_underscore_10 | boil_syrup_illness_slot_rib_home_forum_ski_reopen_ginger |  
+| bip_39_word_underscore_11 | boil_syrup_illness_slot_rib_home_forum_ski_reopen_ginger_address |  
+| bip_39_word_underscore_12 | boil_syrup_illness_slot_rib_home_forum_ski_reopen_ginger_address_attract |  
+| bip_39_word_underscore_2 | boil_syrup |  
+| bip_39_word_underscore_3 | boil_syrup_illness |  
+| bip_39_word_underscore_4 | boil_syrup_illness_slot |  
+| bip_39_word_underscore_5 | boil_syrup_illness_slot_rib |  
+| bip_39_word_underscore_6 | boil_syrup_illness_slot_rib_home |  
+| bip_39_word_underscore_7 | boil_syrup_illness_slot_rib_home_forum |  
+| bip_39_word_underscore_8 | boil_syrup_illness_slot_rib_home_forum_ski |  
+| bip_39_word_underscore_9 | boil_syrup_illness_slot_rib_home_forum_ski_reopen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

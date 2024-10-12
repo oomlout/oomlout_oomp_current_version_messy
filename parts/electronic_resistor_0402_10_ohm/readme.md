@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | normal |  
+| bip_39_word_dash_10 | normal-saddle-unhappy-neck-metal-alert-rent-letter-taste-clutch |  
+| bip_39_word_dash_11 | normal-saddle-unhappy-neck-metal-alert-rent-letter-taste-clutch-twice |  
+| bip_39_word_dash_12 | normal-saddle-unhappy-neck-metal-alert-rent-letter-taste-clutch-twice-alert |  
+| bip_39_word_dash_2 | normal-saddle |  
+| bip_39_word_dash_3 | normal-saddle-unhappy |  
+| bip_39_word_dash_4 | normal-saddle-unhappy-neck |  
+| bip_39_word_dash_5 | normal-saddle-unhappy-neck-metal |  
+| bip_39_word_dash_6 | normal-saddle-unhappy-neck-metal-alert |  
+| bip_39_word_dash_7 | normal-saddle-unhappy-neck-metal-alert-rent |  
+| bip_39_word_dash_8 | normal-saddle-unhappy-neck-metal-alert-rent-letter |  
+| bip_39_word_dash_9 | normal-saddle-unhappy-neck-metal-alert-rent-letter-taste |  
 | bip_39_word_new_br_1 | normal |  
 | bip_39_word_new_br_10 | normal<br>saddle<br>unhappy<br>neck<br>metal<br>alert<br>rent<br>letter<br>taste<br>clutch |  
 | bip_39_word_new_br_11 | normal<br>saddle<br>unhappy<br>neck<br>metal<br>alert<br>rent<br>letter<br>taste<br>clutch<br>twice |  
@@ -147,6 +159,18 @@ taste |
 | bip_39_word_space_7 | normal saddle unhappy neck metal alert rent |  
 | bip_39_word_space_8 | normal saddle unhappy neck metal alert rent letter |  
 | bip_39_word_space_9 | normal saddle unhappy neck metal alert rent letter taste |  
+| bip_39_word_underscore_1 | normal |  
+| bip_39_word_underscore_10 | normal_saddle_unhappy_neck_metal_alert_rent_letter_taste_clutch |  
+| bip_39_word_underscore_11 | normal_saddle_unhappy_neck_metal_alert_rent_letter_taste_clutch_twice |  
+| bip_39_word_underscore_12 | normal_saddle_unhappy_neck_metal_alert_rent_letter_taste_clutch_twice_alert |  
+| bip_39_word_underscore_2 | normal_saddle |  
+| bip_39_word_underscore_3 | normal_saddle_unhappy |  
+| bip_39_word_underscore_4 | normal_saddle_unhappy_neck |  
+| bip_39_word_underscore_5 | normal_saddle_unhappy_neck_metal |  
+| bip_39_word_underscore_6 | normal_saddle_unhappy_neck_metal_alert |  
+| bip_39_word_underscore_7 | normal_saddle_unhappy_neck_metal_alert_rent |  
+| bip_39_word_underscore_8 | normal_saddle_unhappy_neck_metal_alert_rent_letter |  
+| bip_39_word_underscore_9 | normal_saddle_unhappy_neck_metal_alert_rent_letter_taste |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

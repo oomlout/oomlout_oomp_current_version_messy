@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | police |  
+| bip_39_word_dash_10 | police-lens-any-initial-opera-two-spider-bacon-essence-hamster |  
+| bip_39_word_dash_11 | police-lens-any-initial-opera-two-spider-bacon-essence-hamster-wool |  
+| bip_39_word_dash_12 | police-lens-any-initial-opera-two-spider-bacon-essence-hamster-wool-again |  
+| bip_39_word_dash_2 | police-lens |  
+| bip_39_word_dash_3 | police-lens-any |  
+| bip_39_word_dash_4 | police-lens-any-initial |  
+| bip_39_word_dash_5 | police-lens-any-initial-opera |  
+| bip_39_word_dash_6 | police-lens-any-initial-opera-two |  
+| bip_39_word_dash_7 | police-lens-any-initial-opera-two-spider |  
+| bip_39_word_dash_8 | police-lens-any-initial-opera-two-spider-bacon |  
+| bip_39_word_dash_9 | police-lens-any-initial-opera-two-spider-bacon-essence |  
 | bip_39_word_new_br_1 | police |  
 | bip_39_word_new_br_10 | police<br>lens<br>any<br>initial<br>opera<br>two<br>spider<br>bacon<br>essence<br>hamster |  
 | bip_39_word_new_br_11 | police<br>lens<br>any<br>initial<br>opera<br>two<br>spider<br>bacon<br>essence<br>hamster<br>wool |  
@@ -147,6 +159,18 @@ essence |
 | bip_39_word_space_7 | police lens any initial opera two spider |  
 | bip_39_word_space_8 | police lens any initial opera two spider bacon |  
 | bip_39_word_space_9 | police lens any initial opera two spider bacon essence |  
+| bip_39_word_underscore_1 | police |  
+| bip_39_word_underscore_10 | police_lens_any_initial_opera_two_spider_bacon_essence_hamster |  
+| bip_39_word_underscore_11 | police_lens_any_initial_opera_two_spider_bacon_essence_hamster_wool |  
+| bip_39_word_underscore_12 | police_lens_any_initial_opera_two_spider_bacon_essence_hamster_wool_again |  
+| bip_39_word_underscore_2 | police_lens |  
+| bip_39_word_underscore_3 | police_lens_any |  
+| bip_39_word_underscore_4 | police_lens_any_initial |  
+| bip_39_word_underscore_5 | police_lens_any_initial_opera |  
+| bip_39_word_underscore_6 | police_lens_any_initial_opera_two |  
+| bip_39_word_underscore_7 | police_lens_any_initial_opera_two_spider |  
+| bip_39_word_underscore_8 | police_lens_any_initial_opera_two_spider_bacon |  
+| bip_39_word_underscore_9 | police_lens_any_initial_opera_two_spider_bacon_essence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

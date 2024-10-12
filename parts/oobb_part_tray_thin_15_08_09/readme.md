@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ankle |  
+| bip_39_word_dash_10 | ankle-razor-load-hurdle-teach-welcome-nice-want-net-suggest |  
+| bip_39_word_dash_11 | ankle-razor-load-hurdle-teach-welcome-nice-want-net-suggest-similar |  
+| bip_39_word_dash_12 | ankle-razor-load-hurdle-teach-welcome-nice-want-net-suggest-similar-armed |  
+| bip_39_word_dash_2 | ankle-razor |  
+| bip_39_word_dash_3 | ankle-razor-load |  
+| bip_39_word_dash_4 | ankle-razor-load-hurdle |  
+| bip_39_word_dash_5 | ankle-razor-load-hurdle-teach |  
+| bip_39_word_dash_6 | ankle-razor-load-hurdle-teach-welcome |  
+| bip_39_word_dash_7 | ankle-razor-load-hurdle-teach-welcome-nice |  
+| bip_39_word_dash_8 | ankle-razor-load-hurdle-teach-welcome-nice-want |  
+| bip_39_word_dash_9 | ankle-razor-load-hurdle-teach-welcome-nice-want-net |  
 | bip_39_word_new_br_1 | ankle |  
 | bip_39_word_new_br_10 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest |  
 | bip_39_word_new_br_11 | ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest<br>similar |  
@@ -147,6 +159,18 @@ net |
 | bip_39_word_space_7 | ankle razor load hurdle teach welcome nice |  
 | bip_39_word_space_8 | ankle razor load hurdle teach welcome nice want |  
 | bip_39_word_space_9 | ankle razor load hurdle teach welcome nice want net |  
+| bip_39_word_underscore_1 | ankle |  
+| bip_39_word_underscore_10 | ankle_razor_load_hurdle_teach_welcome_nice_want_net_suggest |  
+| bip_39_word_underscore_11 | ankle_razor_load_hurdle_teach_welcome_nice_want_net_suggest_similar |  
+| bip_39_word_underscore_12 | ankle_razor_load_hurdle_teach_welcome_nice_want_net_suggest_similar_armed |  
+| bip_39_word_underscore_2 | ankle_razor |  
+| bip_39_word_underscore_3 | ankle_razor_load |  
+| bip_39_word_underscore_4 | ankle_razor_load_hurdle |  
+| bip_39_word_underscore_5 | ankle_razor_load_hurdle_teach |  
+| bip_39_word_underscore_6 | ankle_razor_load_hurdle_teach_welcome |  
+| bip_39_word_underscore_7 | ankle_razor_load_hurdle_teach_welcome_nice |  
+| bip_39_word_underscore_8 | ankle_razor_load_hurdle_teach_welcome_nice_want |  
+| bip_39_word_underscore_9 | ankle_razor_load_hurdle_teach_welcome_nice_want_net |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | submit |  
+| bip_39_word_dash_10 | submit-legal-casual-detail-dry-cave-fruit-student-cancel-mosquito |  
+| bip_39_word_dash_11 | submit-legal-casual-detail-dry-cave-fruit-student-cancel-mosquito-south |  
+| bip_39_word_dash_12 | submit-legal-casual-detail-dry-cave-fruit-student-cancel-mosquito-south-amount |  
+| bip_39_word_dash_2 | submit-legal |  
+| bip_39_word_dash_3 | submit-legal-casual |  
+| bip_39_word_dash_4 | submit-legal-casual-detail |  
+| bip_39_word_dash_5 | submit-legal-casual-detail-dry |  
+| bip_39_word_dash_6 | submit-legal-casual-detail-dry-cave |  
+| bip_39_word_dash_7 | submit-legal-casual-detail-dry-cave-fruit |  
+| bip_39_word_dash_8 | submit-legal-casual-detail-dry-cave-fruit-student |  
+| bip_39_word_dash_9 | submit-legal-casual-detail-dry-cave-fruit-student-cancel |  
 | bip_39_word_new_br_1 | submit |  
 | bip_39_word_new_br_10 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student<br>cancel<br>mosquito |  
 | bip_39_word_new_br_11 | submit<br>legal<br>casual<br>detail<br>dry<br>cave<br>fruit<br>student<br>cancel<br>mosquito<br>south |  
@@ -147,6 +159,18 @@ cancel |
 | bip_39_word_space_7 | submit legal casual detail dry cave fruit |  
 | bip_39_word_space_8 | submit legal casual detail dry cave fruit student |  
 | bip_39_word_space_9 | submit legal casual detail dry cave fruit student cancel |  
+| bip_39_word_underscore_1 | submit |  
+| bip_39_word_underscore_10 | submit_legal_casual_detail_dry_cave_fruit_student_cancel_mosquito |  
+| bip_39_word_underscore_11 | submit_legal_casual_detail_dry_cave_fruit_student_cancel_mosquito_south |  
+| bip_39_word_underscore_12 | submit_legal_casual_detail_dry_cave_fruit_student_cancel_mosquito_south_amount |  
+| bip_39_word_underscore_2 | submit_legal |  
+| bip_39_word_underscore_3 | submit_legal_casual |  
+| bip_39_word_underscore_4 | submit_legal_casual_detail |  
+| bip_39_word_underscore_5 | submit_legal_casual_detail_dry |  
+| bip_39_word_underscore_6 | submit_legal_casual_detail_dry_cave |  
+| bip_39_word_underscore_7 | submit_legal_casual_detail_dry_cave_fruit |  
+| bip_39_word_underscore_8 | submit_legal_casual_detail_dry_cave_fruit_student |  
+| bip_39_word_underscore_9 | submit_legal_casual_detail_dry_cave_fruit_student_cancel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chaos |  
+| bip_39_word_dash_10 | chaos-put-scout-current-cancel-crowd-small-unlock-west-worry |  
+| bip_39_word_dash_11 | chaos-put-scout-current-cancel-crowd-small-unlock-west-worry-mango |  
+| bip_39_word_dash_12 | chaos-put-scout-current-cancel-crowd-small-unlock-west-worry-mango-advance |  
+| bip_39_word_dash_2 | chaos-put |  
+| bip_39_word_dash_3 | chaos-put-scout |  
+| bip_39_word_dash_4 | chaos-put-scout-current |  
+| bip_39_word_dash_5 | chaos-put-scout-current-cancel |  
+| bip_39_word_dash_6 | chaos-put-scout-current-cancel-crowd |  
+| bip_39_word_dash_7 | chaos-put-scout-current-cancel-crowd-small |  
+| bip_39_word_dash_8 | chaos-put-scout-current-cancel-crowd-small-unlock |  
+| bip_39_word_dash_9 | chaos-put-scout-current-cancel-crowd-small-unlock-west |  
 | bip_39_word_new_br_1 | chaos |  
 | bip_39_word_new_br_10 | chaos<br>put<br>scout<br>current<br>cancel<br>crowd<br>small<br>unlock<br>west<br>worry |  
 | bip_39_word_new_br_11 | chaos<br>put<br>scout<br>current<br>cancel<br>crowd<br>small<br>unlock<br>west<br>worry<br>mango |  
@@ -147,6 +159,18 @@ west |
 | bip_39_word_space_7 | chaos put scout current cancel crowd small |  
 | bip_39_word_space_8 | chaos put scout current cancel crowd small unlock |  
 | bip_39_word_space_9 | chaos put scout current cancel crowd small unlock west |  
+| bip_39_word_underscore_1 | chaos |  
+| bip_39_word_underscore_10 | chaos_put_scout_current_cancel_crowd_small_unlock_west_worry |  
+| bip_39_word_underscore_11 | chaos_put_scout_current_cancel_crowd_small_unlock_west_worry_mango |  
+| bip_39_word_underscore_12 | chaos_put_scout_current_cancel_crowd_small_unlock_west_worry_mango_advance |  
+| bip_39_word_underscore_2 | chaos_put |  
+| bip_39_word_underscore_3 | chaos_put_scout |  
+| bip_39_word_underscore_4 | chaos_put_scout_current |  
+| bip_39_word_underscore_5 | chaos_put_scout_current_cancel |  
+| bip_39_word_underscore_6 | chaos_put_scout_current_cancel_crowd |  
+| bip_39_word_underscore_7 | chaos_put_scout_current_cancel_crowd_small |  
+| bip_39_word_underscore_8 | chaos_put_scout_current_cancel_crowd_small_unlock |  
+| bip_39_word_underscore_9 | chaos_put_scout_current_cancel_crowd_small_unlock_west |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

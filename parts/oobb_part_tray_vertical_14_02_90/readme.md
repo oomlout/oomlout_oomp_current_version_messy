@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | because |  
+| bip_39_word_dash_10 | because-category-slide-color-pioneer-work-seed-match-limit-cry |  
+| bip_39_word_dash_11 | because-category-slide-color-pioneer-work-seed-match-limit-cry-kit |  
+| bip_39_word_dash_12 | because-category-slide-color-pioneer-work-seed-match-limit-cry-kit-almost |  
+| bip_39_word_dash_2 | because-category |  
+| bip_39_word_dash_3 | because-category-slide |  
+| bip_39_word_dash_4 | because-category-slide-color |  
+| bip_39_word_dash_5 | because-category-slide-color-pioneer |  
+| bip_39_word_dash_6 | because-category-slide-color-pioneer-work |  
+| bip_39_word_dash_7 | because-category-slide-color-pioneer-work-seed |  
+| bip_39_word_dash_8 | because-category-slide-color-pioneer-work-seed-match |  
+| bip_39_word_dash_9 | because-category-slide-color-pioneer-work-seed-match-limit |  
 | bip_39_word_new_br_1 | because |  
 | bip_39_word_new_br_10 | because<br>category<br>slide<br>color<br>pioneer<br>work<br>seed<br>match<br>limit<br>cry |  
 | bip_39_word_new_br_11 | because<br>category<br>slide<br>color<br>pioneer<br>work<br>seed<br>match<br>limit<br>cry<br>kit |  
@@ -147,6 +159,18 @@ limit |
 | bip_39_word_space_7 | because category slide color pioneer work seed |  
 | bip_39_word_space_8 | because category slide color pioneer work seed match |  
 | bip_39_word_space_9 | because category slide color pioneer work seed match limit |  
+| bip_39_word_underscore_1 | because |  
+| bip_39_word_underscore_10 | because_category_slide_color_pioneer_work_seed_match_limit_cry |  
+| bip_39_word_underscore_11 | because_category_slide_color_pioneer_work_seed_match_limit_cry_kit |  
+| bip_39_word_underscore_12 | because_category_slide_color_pioneer_work_seed_match_limit_cry_kit_almost |  
+| bip_39_word_underscore_2 | because_category |  
+| bip_39_word_underscore_3 | because_category_slide |  
+| bip_39_word_underscore_4 | because_category_slide_color |  
+| bip_39_word_underscore_5 | because_category_slide_color_pioneer |  
+| bip_39_word_underscore_6 | because_category_slide_color_pioneer_work |  
+| bip_39_word_underscore_7 | because_category_slide_color_pioneer_work_seed |  
+| bip_39_word_underscore_8 | because_category_slide_color_pioneer_work_seed_match |  
+| bip_39_word_underscore_9 | because_category_slide_color_pioneer_work_seed_match_limit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | salad |  
+| bip_39_word_dash_10 | salad-smooth-patch-vital-answer-allow-purchase-exit-such-donkey |  
+| bip_39_word_dash_11 | salad-smooth-patch-vital-answer-allow-purchase-exit-such-donkey-husband |  
+| bip_39_word_dash_12 | salad-smooth-patch-vital-answer-allow-purchase-exit-such-donkey-husband-arrest |  
+| bip_39_word_dash_2 | salad-smooth |  
+| bip_39_word_dash_3 | salad-smooth-patch |  
+| bip_39_word_dash_4 | salad-smooth-patch-vital |  
+| bip_39_word_dash_5 | salad-smooth-patch-vital-answer |  
+| bip_39_word_dash_6 | salad-smooth-patch-vital-answer-allow |  
+| bip_39_word_dash_7 | salad-smooth-patch-vital-answer-allow-purchase |  
+| bip_39_word_dash_8 | salad-smooth-patch-vital-answer-allow-purchase-exit |  
+| bip_39_word_dash_9 | salad-smooth-patch-vital-answer-allow-purchase-exit-such |  
 | bip_39_word_new_br_1 | salad |  
 | bip_39_word_new_br_10 | salad<br>smooth<br>patch<br>vital<br>answer<br>allow<br>purchase<br>exit<br>such<br>donkey |  
 | bip_39_word_new_br_11 | salad<br>smooth<br>patch<br>vital<br>answer<br>allow<br>purchase<br>exit<br>such<br>donkey<br>husband |  
@@ -147,6 +159,18 @@ such |
 | bip_39_word_space_7 | salad smooth patch vital answer allow purchase |  
 | bip_39_word_space_8 | salad smooth patch vital answer allow purchase exit |  
 | bip_39_word_space_9 | salad smooth patch vital answer allow purchase exit such |  
+| bip_39_word_underscore_1 | salad |  
+| bip_39_word_underscore_10 | salad_smooth_patch_vital_answer_allow_purchase_exit_such_donkey |  
+| bip_39_word_underscore_11 | salad_smooth_patch_vital_answer_allow_purchase_exit_such_donkey_husband |  
+| bip_39_word_underscore_12 | salad_smooth_patch_vital_answer_allow_purchase_exit_such_donkey_husband_arrest |  
+| bip_39_word_underscore_2 | salad_smooth |  
+| bip_39_word_underscore_3 | salad_smooth_patch |  
+| bip_39_word_underscore_4 | salad_smooth_patch_vital |  
+| bip_39_word_underscore_5 | salad_smooth_patch_vital_answer |  
+| bip_39_word_underscore_6 | salad_smooth_patch_vital_answer_allow |  
+| bip_39_word_underscore_7 | salad_smooth_patch_vital_answer_allow_purchase |  
+| bip_39_word_underscore_8 | salad_smooth_patch_vital_answer_allow_purchase_exit |  
+| bip_39_word_underscore_9 | salad_smooth_patch_vital_answer_allow_purchase_exit_such |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

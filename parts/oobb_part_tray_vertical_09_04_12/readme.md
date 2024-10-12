@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quick |  
+| bip_39_word_dash_10 | quick-bubble-vivid-ready-purpose-view-wear-key-elder-album |  
+| bip_39_word_dash_11 | quick-bubble-vivid-ready-purpose-view-wear-key-elder-album-cargo |  
+| bip_39_word_dash_12 | quick-bubble-vivid-ready-purpose-view-wear-key-elder-album-cargo-area |  
+| bip_39_word_dash_2 | quick-bubble |  
+| bip_39_word_dash_3 | quick-bubble-vivid |  
+| bip_39_word_dash_4 | quick-bubble-vivid-ready |  
+| bip_39_word_dash_5 | quick-bubble-vivid-ready-purpose |  
+| bip_39_word_dash_6 | quick-bubble-vivid-ready-purpose-view |  
+| bip_39_word_dash_7 | quick-bubble-vivid-ready-purpose-view-wear |  
+| bip_39_word_dash_8 | quick-bubble-vivid-ready-purpose-view-wear-key |  
+| bip_39_word_dash_9 | quick-bubble-vivid-ready-purpose-view-wear-key-elder |  
 | bip_39_word_new_br_1 | quick |  
 | bip_39_word_new_br_10 | quick<br>bubble<br>vivid<br>ready<br>purpose<br>view<br>wear<br>key<br>elder<br>album |  
 | bip_39_word_new_br_11 | quick<br>bubble<br>vivid<br>ready<br>purpose<br>view<br>wear<br>key<br>elder<br>album<br>cargo |  
@@ -147,6 +159,18 @@ elder |
 | bip_39_word_space_7 | quick bubble vivid ready purpose view wear |  
 | bip_39_word_space_8 | quick bubble vivid ready purpose view wear key |  
 | bip_39_word_space_9 | quick bubble vivid ready purpose view wear key elder |  
+| bip_39_word_underscore_1 | quick |  
+| bip_39_word_underscore_10 | quick_bubble_vivid_ready_purpose_view_wear_key_elder_album |  
+| bip_39_word_underscore_11 | quick_bubble_vivid_ready_purpose_view_wear_key_elder_album_cargo |  
+| bip_39_word_underscore_12 | quick_bubble_vivid_ready_purpose_view_wear_key_elder_album_cargo_area |  
+| bip_39_word_underscore_2 | quick_bubble |  
+| bip_39_word_underscore_3 | quick_bubble_vivid |  
+| bip_39_word_underscore_4 | quick_bubble_vivid_ready |  
+| bip_39_word_underscore_5 | quick_bubble_vivid_ready_purpose |  
+| bip_39_word_underscore_6 | quick_bubble_vivid_ready_purpose_view |  
+| bip_39_word_underscore_7 | quick_bubble_vivid_ready_purpose_view_wear |  
+| bip_39_word_underscore_8 | quick_bubble_vivid_ready_purpose_view_wear_key |  
+| bip_39_word_underscore_9 | quick_bubble_vivid_ready_purpose_view_wear_key_elder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

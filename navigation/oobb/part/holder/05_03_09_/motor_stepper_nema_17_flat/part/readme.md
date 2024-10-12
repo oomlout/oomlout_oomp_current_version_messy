@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | employ |  
+| bip_39_word_dash_10 | employ-combine-regular-mail-clever-ball-brick-lyrics-sound-script |  
+| bip_39_word_dash_11 | employ-combine-regular-mail-clever-ball-brick-lyrics-sound-script-rival |  
+| bip_39_word_dash_12 | employ-combine-regular-mail-clever-ball-brick-lyrics-sound-script-rival-aerobic |  
+| bip_39_word_dash_2 | employ-combine |  
+| bip_39_word_dash_3 | employ-combine-regular |  
+| bip_39_word_dash_4 | employ-combine-regular-mail |  
+| bip_39_word_dash_5 | employ-combine-regular-mail-clever |  
+| bip_39_word_dash_6 | employ-combine-regular-mail-clever-ball |  
+| bip_39_word_dash_7 | employ-combine-regular-mail-clever-ball-brick |  
+| bip_39_word_dash_8 | employ-combine-regular-mail-clever-ball-brick-lyrics |  
+| bip_39_word_dash_9 | employ-combine-regular-mail-clever-ball-brick-lyrics-sound |  
 | bip_39_word_new_br_1 | employ |  
 | bip_39_word_new_br_10 | employ<br>combine<br>regular<br>mail<br>clever<br>ball<br>brick<br>lyrics<br>sound<br>script |  
 | bip_39_word_new_br_11 | employ<br>combine<br>regular<br>mail<br>clever<br>ball<br>brick<br>lyrics<br>sound<br>script<br>rival |  
@@ -147,6 +159,18 @@ sound |
 | bip_39_word_space_7 | employ combine regular mail clever ball brick |  
 | bip_39_word_space_8 | employ combine regular mail clever ball brick lyrics |  
 | bip_39_word_space_9 | employ combine regular mail clever ball brick lyrics sound |  
+| bip_39_word_underscore_1 | employ |  
+| bip_39_word_underscore_10 | employ_combine_regular_mail_clever_ball_brick_lyrics_sound_script |  
+| bip_39_word_underscore_11 | employ_combine_regular_mail_clever_ball_brick_lyrics_sound_script_rival |  
+| bip_39_word_underscore_12 | employ_combine_regular_mail_clever_ball_brick_lyrics_sound_script_rival_aerobic |  
+| bip_39_word_underscore_2 | employ_combine |  
+| bip_39_word_underscore_3 | employ_combine_regular |  
+| bip_39_word_underscore_4 | employ_combine_regular_mail |  
+| bip_39_word_underscore_5 | employ_combine_regular_mail_clever |  
+| bip_39_word_underscore_6 | employ_combine_regular_mail_clever_ball |  
+| bip_39_word_underscore_7 | employ_combine_regular_mail_clever_ball_brick |  
+| bip_39_word_underscore_8 | employ_combine_regular_mail_clever_ball_brick_lyrics |  
+| bip_39_word_underscore_9 | employ_combine_regular_mail_clever_ball_brick_lyrics_sound |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

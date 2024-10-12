@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shy |  
+| bip_39_word_dash_10 | shy-horn-present-tone-garbage-put-prosper-point-shadow-habit |  
+| bip_39_word_dash_11 | shy-horn-present-tone-garbage-put-prosper-point-shadow-habit-siren |  
+| bip_39_word_dash_12 | shy-horn-present-tone-garbage-put-prosper-point-shadow-habit-siren-account |  
+| bip_39_word_dash_2 | shy-horn |  
+| bip_39_word_dash_3 | shy-horn-present |  
+| bip_39_word_dash_4 | shy-horn-present-tone |  
+| bip_39_word_dash_5 | shy-horn-present-tone-garbage |  
+| bip_39_word_dash_6 | shy-horn-present-tone-garbage-put |  
+| bip_39_word_dash_7 | shy-horn-present-tone-garbage-put-prosper |  
+| bip_39_word_dash_8 | shy-horn-present-tone-garbage-put-prosper-point |  
+| bip_39_word_dash_9 | shy-horn-present-tone-garbage-put-prosper-point-shadow |  
 | bip_39_word_new_br_1 | shy |  
 | bip_39_word_new_br_10 | shy<br>horn<br>present<br>tone<br>garbage<br>put<br>prosper<br>point<br>shadow<br>habit |  
 | bip_39_word_new_br_11 | shy<br>horn<br>present<br>tone<br>garbage<br>put<br>prosper<br>point<br>shadow<br>habit<br>siren |  
@@ -147,6 +159,18 @@ shadow |
 | bip_39_word_space_7 | shy horn present tone garbage put prosper |  
 | bip_39_word_space_8 | shy horn present tone garbage put prosper point |  
 | bip_39_word_space_9 | shy horn present tone garbage put prosper point shadow |  
+| bip_39_word_underscore_1 | shy |  
+| bip_39_word_underscore_10 | shy_horn_present_tone_garbage_put_prosper_point_shadow_habit |  
+| bip_39_word_underscore_11 | shy_horn_present_tone_garbage_put_prosper_point_shadow_habit_siren |  
+| bip_39_word_underscore_12 | shy_horn_present_tone_garbage_put_prosper_point_shadow_habit_siren_account |  
+| bip_39_word_underscore_2 | shy_horn |  
+| bip_39_word_underscore_3 | shy_horn_present |  
+| bip_39_word_underscore_4 | shy_horn_present_tone |  
+| bip_39_word_underscore_5 | shy_horn_present_tone_garbage |  
+| bip_39_word_underscore_6 | shy_horn_present_tone_garbage_put |  
+| bip_39_word_underscore_7 | shy_horn_present_tone_garbage_put_prosper |  
+| bip_39_word_underscore_8 | shy_horn_present_tone_garbage_put_prosper_point |  
+| bip_39_word_underscore_9 | shy_horn_present_tone_garbage_put_prosper_point_shadow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: icon
+bip_39_word_dash_10: icon-sea-human-whisper-crumble-provide-kid-enlist-inhale-arrow
+bip_39_word_dash_11: icon-sea-human-whisper-crumble-provide-kid-enlist-inhale-arrow-crack
+bip_39_word_dash_12: icon-sea-human-whisper-crumble-provide-kid-enlist-inhale-arrow-crack-around
+bip_39_word_dash_2: icon-sea
+bip_39_word_dash_3: icon-sea-human
+bip_39_word_dash_4: icon-sea-human-whisper
+bip_39_word_dash_5: icon-sea-human-whisper-crumble
+bip_39_word_dash_6: icon-sea-human-whisper-crumble-provide
+bip_39_word_dash_7: icon-sea-human-whisper-crumble-provide-kid
+bip_39_word_dash_8: icon-sea-human-whisper-crumble-provide-kid-enlist
+bip_39_word_dash_9: icon-sea-human-whisper-crumble-provide-kid-enlist-inhale
 bip_39_word_new_br_1: icon
 bip_39_word_new_br_10: icon<br>sea<br>human<br>whisper<br>crumble<br>provide<br>kid<br>enlist<br>inhale<br>arrow
 bip_39_word_new_br_11: icon<br>sea<br>human<br>whisper<br>crumble<br>provide<br>kid<br>enlist<br>inhale<br>arrow<br>crack
@@ -193,6 +205,18 @@ bip_39_word_space_6: icon sea human whisper crumble provide
 bip_39_word_space_7: icon sea human whisper crumble provide kid
 bip_39_word_space_8: icon sea human whisper crumble provide kid enlist
 bip_39_word_space_9: icon sea human whisper crumble provide kid enlist inhale
+bip_39_word_underscore_1: icon
+bip_39_word_underscore_10: icon_sea_human_whisper_crumble_provide_kid_enlist_inhale_arrow
+bip_39_word_underscore_11: icon_sea_human_whisper_crumble_provide_kid_enlist_inhale_arrow_crack
+bip_39_word_underscore_12: icon_sea_human_whisper_crumble_provide_kid_enlist_inhale_arrow_crack_around
+bip_39_word_underscore_2: icon_sea
+bip_39_word_underscore_3: icon_sea_human
+bip_39_word_underscore_4: icon_sea_human_whisper
+bip_39_word_underscore_5: icon_sea_human_whisper_crumble
+bip_39_word_underscore_6: icon_sea_human_whisper_crumble_provide
+bip_39_word_underscore_7: icon_sea_human_whisper_crumble_provide_kid
+bip_39_word_underscore_8: icon_sea_human_whisper_crumble_provide_kid_enlist
+bip_39_word_underscore_9: icon_sea_human_whisper_crumble_provide_kid_enlist_inhale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

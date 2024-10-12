@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | able |  
+| bip_39_word_dash_10 | able-venue-victory-second-deny-asthma-elevator-renew-trick-someone |  
+| bip_39_word_dash_11 | able-venue-victory-second-deny-asthma-elevator-renew-trick-someone-hat |  
+| bip_39_word_dash_12 | able-venue-victory-second-deny-asthma-elevator-renew-trick-someone-hat-alcohol |  
+| bip_39_word_dash_2 | able-venue |  
+| bip_39_word_dash_3 | able-venue-victory |  
+| bip_39_word_dash_4 | able-venue-victory-second |  
+| bip_39_word_dash_5 | able-venue-victory-second-deny |  
+| bip_39_word_dash_6 | able-venue-victory-second-deny-asthma |  
+| bip_39_word_dash_7 | able-venue-victory-second-deny-asthma-elevator |  
+| bip_39_word_dash_8 | able-venue-victory-second-deny-asthma-elevator-renew |  
+| bip_39_word_dash_9 | able-venue-victory-second-deny-asthma-elevator-renew-trick |  
 | bip_39_word_new_br_1 | able |  
 | bip_39_word_new_br_10 | able<br>venue<br>victory<br>second<br>deny<br>asthma<br>elevator<br>renew<br>trick<br>someone |  
 | bip_39_word_new_br_11 | able<br>venue<br>victory<br>second<br>deny<br>asthma<br>elevator<br>renew<br>trick<br>someone<br>hat |  
@@ -147,6 +159,18 @@ trick |
 | bip_39_word_space_7 | able venue victory second deny asthma elevator |  
 | bip_39_word_space_8 | able venue victory second deny asthma elevator renew |  
 | bip_39_word_space_9 | able venue victory second deny asthma elevator renew trick |  
+| bip_39_word_underscore_1 | able |  
+| bip_39_word_underscore_10 | able_venue_victory_second_deny_asthma_elevator_renew_trick_someone |  
+| bip_39_word_underscore_11 | able_venue_victory_second_deny_asthma_elevator_renew_trick_someone_hat |  
+| bip_39_word_underscore_12 | able_venue_victory_second_deny_asthma_elevator_renew_trick_someone_hat_alcohol |  
+| bip_39_word_underscore_2 | able_venue |  
+| bip_39_word_underscore_3 | able_venue_victory |  
+| bip_39_word_underscore_4 | able_venue_victory_second |  
+| bip_39_word_underscore_5 | able_venue_victory_second_deny |  
+| bip_39_word_underscore_6 | able_venue_victory_second_deny_asthma |  
+| bip_39_word_underscore_7 | able_venue_victory_second_deny_asthma_elevator |  
+| bip_39_word_underscore_8 | able_venue_victory_second_deny_asthma_elevator_renew |  
+| bip_39_word_underscore_9 | able_venue_victory_second_deny_asthma_elevator_renew_trick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

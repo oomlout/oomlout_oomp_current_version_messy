@@ -1,3 +1,15 @@
+bip_39_word_dash_1: adapt
+bip_39_word_dash_10: adapt-tower-lazy-rebel-effort-useless-parrot-heart-upon-pipe
+bip_39_word_dash_11: adapt-tower-lazy-rebel-effort-useless-parrot-heart-upon-pipe-denial
+bip_39_word_dash_12: adapt-tower-lazy-rebel-effort-useless-parrot-heart-upon-pipe-denial-amused
+bip_39_word_dash_2: adapt-tower
+bip_39_word_dash_3: adapt-tower-lazy
+bip_39_word_dash_4: adapt-tower-lazy-rebel
+bip_39_word_dash_5: adapt-tower-lazy-rebel-effort
+bip_39_word_dash_6: adapt-tower-lazy-rebel-effort-useless
+bip_39_word_dash_7: adapt-tower-lazy-rebel-effort-useless-parrot
+bip_39_word_dash_8: adapt-tower-lazy-rebel-effort-useless-parrot-heart
+bip_39_word_dash_9: adapt-tower-lazy-rebel-effort-useless-parrot-heart-upon
 bip_39_word_new_br_1: adapt
 bip_39_word_new_br_10: adapt<br>tower<br>lazy<br>rebel<br>effort<br>useless<br>parrot<br>heart<br>upon<br>pipe
 bip_39_word_new_br_11: adapt<br>tower<br>lazy<br>rebel<br>effort<br>useless<br>parrot<br>heart<br>upon<br>pipe<br>denial
@@ -193,6 +205,18 @@ bip_39_word_space_6: adapt tower lazy rebel effort useless
 bip_39_word_space_7: adapt tower lazy rebel effort useless parrot
 bip_39_word_space_8: adapt tower lazy rebel effort useless parrot heart
 bip_39_word_space_9: adapt tower lazy rebel effort useless parrot heart upon
+bip_39_word_underscore_1: adapt
+bip_39_word_underscore_10: adapt_tower_lazy_rebel_effort_useless_parrot_heart_upon_pipe
+bip_39_word_underscore_11: adapt_tower_lazy_rebel_effort_useless_parrot_heart_upon_pipe_denial
+bip_39_word_underscore_12: adapt_tower_lazy_rebel_effort_useless_parrot_heart_upon_pipe_denial_amused
+bip_39_word_underscore_2: adapt_tower
+bip_39_word_underscore_3: adapt_tower_lazy
+bip_39_word_underscore_4: adapt_tower_lazy_rebel
+bip_39_word_underscore_5: adapt_tower_lazy_rebel_effort
+bip_39_word_underscore_6: adapt_tower_lazy_rebel_effort_useless
+bip_39_word_underscore_7: adapt_tower_lazy_rebel_effort_useless_parrot
+bip_39_word_underscore_8: adapt_tower_lazy_rebel_effort_useless_parrot_heart
+bip_39_word_underscore_9: adapt_tower_lazy_rebel_effort_useless_parrot_heart_upon
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

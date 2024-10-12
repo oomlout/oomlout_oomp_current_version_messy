@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | holiday |  
+| bip_39_word_dash_10 | holiday-anger-easily-thumb-credit-tree-black-tip-decrease-school |  
+| bip_39_word_dash_11 | holiday-anger-easily-thumb-credit-tree-black-tip-decrease-school-pair |  
+| bip_39_word_dash_12 | holiday-anger-easily-thumb-credit-tree-black-tip-decrease-school-pair-add |  
+| bip_39_word_dash_2 | holiday-anger |  
+| bip_39_word_dash_3 | holiday-anger-easily |  
+| bip_39_word_dash_4 | holiday-anger-easily-thumb |  
+| bip_39_word_dash_5 | holiday-anger-easily-thumb-credit |  
+| bip_39_word_dash_6 | holiday-anger-easily-thumb-credit-tree |  
+| bip_39_word_dash_7 | holiday-anger-easily-thumb-credit-tree-black |  
+| bip_39_word_dash_8 | holiday-anger-easily-thumb-credit-tree-black-tip |  
+| bip_39_word_dash_9 | holiday-anger-easily-thumb-credit-tree-black-tip-decrease |  
 | bip_39_word_new_br_1 | holiday |  
 | bip_39_word_new_br_10 | holiday<br>anger<br>easily<br>thumb<br>credit<br>tree<br>black<br>tip<br>decrease<br>school |  
 | bip_39_word_new_br_11 | holiday<br>anger<br>easily<br>thumb<br>credit<br>tree<br>black<br>tip<br>decrease<br>school<br>pair |  
@@ -147,6 +159,18 @@ decrease |
 | bip_39_word_space_7 | holiday anger easily thumb credit tree black |  
 | bip_39_word_space_8 | holiday anger easily thumb credit tree black tip |  
 | bip_39_word_space_9 | holiday anger easily thumb credit tree black tip decrease |  
+| bip_39_word_underscore_1 | holiday |  
+| bip_39_word_underscore_10 | holiday_anger_easily_thumb_credit_tree_black_tip_decrease_school |  
+| bip_39_word_underscore_11 | holiday_anger_easily_thumb_credit_tree_black_tip_decrease_school_pair |  
+| bip_39_word_underscore_12 | holiday_anger_easily_thumb_credit_tree_black_tip_decrease_school_pair_add |  
+| bip_39_word_underscore_2 | holiday_anger |  
+| bip_39_word_underscore_3 | holiday_anger_easily |  
+| bip_39_word_underscore_4 | holiday_anger_easily_thumb |  
+| bip_39_word_underscore_5 | holiday_anger_easily_thumb_credit |  
+| bip_39_word_underscore_6 | holiday_anger_easily_thumb_credit_tree |  
+| bip_39_word_underscore_7 | holiday_anger_easily_thumb_credit_tree_black |  
+| bip_39_word_underscore_8 | holiday_anger_easily_thumb_credit_tree_black_tip |  
+| bip_39_word_underscore_9 | holiday_anger_easily_thumb_credit_tree_black_tip_decrease |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

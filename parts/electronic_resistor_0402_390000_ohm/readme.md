@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | envelope |  
+| bip_39_word_dash_10 | envelope-announce-net-prefer-ocean-version-swamp-dry-inner-quarter |  
+| bip_39_word_dash_11 | envelope-announce-net-prefer-ocean-version-swamp-dry-inner-quarter-cage |  
+| bip_39_word_dash_12 | envelope-announce-net-prefer-ocean-version-swamp-dry-inner-quarter-cage-actor |  
+| bip_39_word_dash_2 | envelope-announce |  
+| bip_39_word_dash_3 | envelope-announce-net |  
+| bip_39_word_dash_4 | envelope-announce-net-prefer |  
+| bip_39_word_dash_5 | envelope-announce-net-prefer-ocean |  
+| bip_39_word_dash_6 | envelope-announce-net-prefer-ocean-version |  
+| bip_39_word_dash_7 | envelope-announce-net-prefer-ocean-version-swamp |  
+| bip_39_word_dash_8 | envelope-announce-net-prefer-ocean-version-swamp-dry |  
+| bip_39_word_dash_9 | envelope-announce-net-prefer-ocean-version-swamp-dry-inner |  
 | bip_39_word_new_br_1 | envelope |  
 | bip_39_word_new_br_10 | envelope<br>announce<br>net<br>prefer<br>ocean<br>version<br>swamp<br>dry<br>inner<br>quarter |  
 | bip_39_word_new_br_11 | envelope<br>announce<br>net<br>prefer<br>ocean<br>version<br>swamp<br>dry<br>inner<br>quarter<br>cage |  
@@ -147,6 +159,18 @@ inner |
 | bip_39_word_space_7 | envelope announce net prefer ocean version swamp |  
 | bip_39_word_space_8 | envelope announce net prefer ocean version swamp dry |  
 | bip_39_word_space_9 | envelope announce net prefer ocean version swamp dry inner |  
+| bip_39_word_underscore_1 | envelope |  
+| bip_39_word_underscore_10 | envelope_announce_net_prefer_ocean_version_swamp_dry_inner_quarter |  
+| bip_39_word_underscore_11 | envelope_announce_net_prefer_ocean_version_swamp_dry_inner_quarter_cage |  
+| bip_39_word_underscore_12 | envelope_announce_net_prefer_ocean_version_swamp_dry_inner_quarter_cage_actor |  
+| bip_39_word_underscore_2 | envelope_announce |  
+| bip_39_word_underscore_3 | envelope_announce_net |  
+| bip_39_word_underscore_4 | envelope_announce_net_prefer |  
+| bip_39_word_underscore_5 | envelope_announce_net_prefer_ocean |  
+| bip_39_word_underscore_6 | envelope_announce_net_prefer_ocean_version |  
+| bip_39_word_underscore_7 | envelope_announce_net_prefer_ocean_version_swamp |  
+| bip_39_word_underscore_8 | envelope_announce_net_prefer_ocean_version_swamp_dry |  
+| bip_39_word_underscore_9 | envelope_announce_net_prefer_ocean_version_swamp_dry_inner |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

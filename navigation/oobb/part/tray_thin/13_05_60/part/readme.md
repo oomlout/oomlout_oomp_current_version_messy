@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | select |  
+| bip_39_word_dash_10 | select-runway-shoulder-rally-behave-alert-initial-pony-twice-smart |  
+| bip_39_word_dash_11 | select-runway-shoulder-rally-behave-alert-initial-pony-twice-smart-ceiling |  
+| bip_39_word_dash_12 | select-runway-shoulder-rally-behave-alert-initial-pony-twice-smart-ceiling-arrest |  
+| bip_39_word_dash_2 | select-runway |  
+| bip_39_word_dash_3 | select-runway-shoulder |  
+| bip_39_word_dash_4 | select-runway-shoulder-rally |  
+| bip_39_word_dash_5 | select-runway-shoulder-rally-behave |  
+| bip_39_word_dash_6 | select-runway-shoulder-rally-behave-alert |  
+| bip_39_word_dash_7 | select-runway-shoulder-rally-behave-alert-initial |  
+| bip_39_word_dash_8 | select-runway-shoulder-rally-behave-alert-initial-pony |  
+| bip_39_word_dash_9 | select-runway-shoulder-rally-behave-alert-initial-pony-twice |  
 | bip_39_word_new_br_1 | select |  
 | bip_39_word_new_br_10 | select<br>runway<br>shoulder<br>rally<br>behave<br>alert<br>initial<br>pony<br>twice<br>smart |  
 | bip_39_word_new_br_11 | select<br>runway<br>shoulder<br>rally<br>behave<br>alert<br>initial<br>pony<br>twice<br>smart<br>ceiling |  
@@ -147,6 +159,18 @@ twice |
 | bip_39_word_space_7 | select runway shoulder rally behave alert initial |  
 | bip_39_word_space_8 | select runway shoulder rally behave alert initial pony |  
 | bip_39_word_space_9 | select runway shoulder rally behave alert initial pony twice |  
+| bip_39_word_underscore_1 | select |  
+| bip_39_word_underscore_10 | select_runway_shoulder_rally_behave_alert_initial_pony_twice_smart |  
+| bip_39_word_underscore_11 | select_runway_shoulder_rally_behave_alert_initial_pony_twice_smart_ceiling |  
+| bip_39_word_underscore_12 | select_runway_shoulder_rally_behave_alert_initial_pony_twice_smart_ceiling_arrest |  
+| bip_39_word_underscore_2 | select_runway |  
+| bip_39_word_underscore_3 | select_runway_shoulder |  
+| bip_39_word_underscore_4 | select_runway_shoulder_rally |  
+| bip_39_word_underscore_5 | select_runway_shoulder_rally_behave |  
+| bip_39_word_underscore_6 | select_runway_shoulder_rally_behave_alert |  
+| bip_39_word_underscore_7 | select_runway_shoulder_rally_behave_alert_initial |  
+| bip_39_word_underscore_8 | select_runway_shoulder_rally_behave_alert_initial_pony |  
+| bip_39_word_underscore_9 | select_runway_shoulder_rally_behave_alert_initial_pony_twice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

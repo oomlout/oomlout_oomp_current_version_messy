@@ -1,3 +1,15 @@
+bip_39_word_dash_1: useful
+bip_39_word_dash_10: useful-sting-total-coast-network-model-rocket-bird-nation-catalog
+bip_39_word_dash_11: useful-sting-total-coast-network-model-rocket-bird-nation-catalog-wall
+bip_39_word_dash_12: useful-sting-total-coast-network-model-rocket-bird-nation-catalog-wall-age
+bip_39_word_dash_2: useful-sting
+bip_39_word_dash_3: useful-sting-total
+bip_39_word_dash_4: useful-sting-total-coast
+bip_39_word_dash_5: useful-sting-total-coast-network
+bip_39_word_dash_6: useful-sting-total-coast-network-model
+bip_39_word_dash_7: useful-sting-total-coast-network-model-rocket
+bip_39_word_dash_8: useful-sting-total-coast-network-model-rocket-bird
+bip_39_word_dash_9: useful-sting-total-coast-network-model-rocket-bird-nation
 bip_39_word_new_br_1: useful
 bip_39_word_new_br_10: useful<br>sting<br>total<br>coast<br>network<br>model<br>rocket<br>bird<br>nation<br>catalog
 bip_39_word_new_br_11: useful<br>sting<br>total<br>coast<br>network<br>model<br>rocket<br>bird<br>nation<br>catalog<br>wall
@@ -193,6 +205,18 @@ bip_39_word_space_6: useful sting total coast network model
 bip_39_word_space_7: useful sting total coast network model rocket
 bip_39_word_space_8: useful sting total coast network model rocket bird
 bip_39_word_space_9: useful sting total coast network model rocket bird nation
+bip_39_word_underscore_1: useful
+bip_39_word_underscore_10: useful_sting_total_coast_network_model_rocket_bird_nation_catalog
+bip_39_word_underscore_11: useful_sting_total_coast_network_model_rocket_bird_nation_catalog_wall
+bip_39_word_underscore_12: useful_sting_total_coast_network_model_rocket_bird_nation_catalog_wall_age
+bip_39_word_underscore_2: useful_sting
+bip_39_word_underscore_3: useful_sting_total
+bip_39_word_underscore_4: useful_sting_total_coast
+bip_39_word_underscore_5: useful_sting_total_coast_network
+bip_39_word_underscore_6: useful_sting_total_coast_network_model
+bip_39_word_underscore_7: useful_sting_total_coast_network_model_rocket
+bip_39_word_underscore_8: useful_sting_total_coast_network_model_rocket_bird
+bip_39_word_underscore_9: useful_sting_total_coast_network_model_rocket_bird_nation
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

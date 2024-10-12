@@ -1,3 +1,15 @@
+bip_39_word_dash_1: armed
+bip_39_word_dash_10: armed-flavor-brand-humble-drift-mango-ugly-soda-toy-fire
+bip_39_word_dash_11: armed-flavor-brand-humble-drift-mango-ugly-soda-toy-fire-room
+bip_39_word_dash_12: armed-flavor-brand-humble-drift-mango-ugly-soda-toy-fire-room-account
+bip_39_word_dash_2: armed-flavor
+bip_39_word_dash_3: armed-flavor-brand
+bip_39_word_dash_4: armed-flavor-brand-humble
+bip_39_word_dash_5: armed-flavor-brand-humble-drift
+bip_39_word_dash_6: armed-flavor-brand-humble-drift-mango
+bip_39_word_dash_7: armed-flavor-brand-humble-drift-mango-ugly
+bip_39_word_dash_8: armed-flavor-brand-humble-drift-mango-ugly-soda
+bip_39_word_dash_9: armed-flavor-brand-humble-drift-mango-ugly-soda-toy
 bip_39_word_new_br_1: armed
 bip_39_word_new_br_10: armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda<br>toy<br>fire
 bip_39_word_new_br_11: armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda<br>toy<br>fire<br>room
@@ -192,6 +204,18 @@ bip_39_word_space_6: armed flavor brand humble drift mango
 bip_39_word_space_7: armed flavor brand humble drift mango ugly
 bip_39_word_space_8: armed flavor brand humble drift mango ugly soda
 bip_39_word_space_9: armed flavor brand humble drift mango ugly soda toy
+bip_39_word_underscore_1: armed
+bip_39_word_underscore_10: armed_flavor_brand_humble_drift_mango_ugly_soda_toy_fire
+bip_39_word_underscore_11: armed_flavor_brand_humble_drift_mango_ugly_soda_toy_fire_room
+bip_39_word_underscore_12: armed_flavor_brand_humble_drift_mango_ugly_soda_toy_fire_room_account
+bip_39_word_underscore_2: armed_flavor
+bip_39_word_underscore_3: armed_flavor_brand
+bip_39_word_underscore_4: armed_flavor_brand_humble
+bip_39_word_underscore_5: armed_flavor_brand_humble_drift
+bip_39_word_underscore_6: armed_flavor_brand_humble_drift_mango
+bip_39_word_underscore_7: armed_flavor_brand_humble_drift_mango_ugly
+bip_39_word_underscore_8: armed_flavor_brand_humble_drift_mango_ugly_soda
+bip_39_word_underscore_9: armed_flavor_brand_humble_drift_mango_ugly_soda_toy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: code
+bip_39_word_dash_10: code-upset-pass-guide-sign-wide-moral-afraid-forest-bubble
+bip_39_word_dash_11: code-upset-pass-guide-sign-wide-moral-afraid-forest-bubble-find
+bip_39_word_dash_12: code-upset-pass-guide-sign-wide-moral-afraid-forest-bubble-find-acquire
+bip_39_word_dash_2: code-upset
+bip_39_word_dash_3: code-upset-pass
+bip_39_word_dash_4: code-upset-pass-guide
+bip_39_word_dash_5: code-upset-pass-guide-sign
+bip_39_word_dash_6: code-upset-pass-guide-sign-wide
+bip_39_word_dash_7: code-upset-pass-guide-sign-wide-moral
+bip_39_word_dash_8: code-upset-pass-guide-sign-wide-moral-afraid
+bip_39_word_dash_9: code-upset-pass-guide-sign-wide-moral-afraid-forest
 bip_39_word_new_br_1: code
 bip_39_word_new_br_10: code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble
 bip_39_word_new_br_11: code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble<br>find
@@ -192,6 +204,18 @@ bip_39_word_space_6: code upset pass guide sign wide
 bip_39_word_space_7: code upset pass guide sign wide moral
 bip_39_word_space_8: code upset pass guide sign wide moral afraid
 bip_39_word_space_9: code upset pass guide sign wide moral afraid forest
+bip_39_word_underscore_1: code
+bip_39_word_underscore_10: code_upset_pass_guide_sign_wide_moral_afraid_forest_bubble
+bip_39_word_underscore_11: code_upset_pass_guide_sign_wide_moral_afraid_forest_bubble_find
+bip_39_word_underscore_12: code_upset_pass_guide_sign_wide_moral_afraid_forest_bubble_find_acquire
+bip_39_word_underscore_2: code_upset
+bip_39_word_underscore_3: code_upset_pass
+bip_39_word_underscore_4: code_upset_pass_guide
+bip_39_word_underscore_5: code_upset_pass_guide_sign
+bip_39_word_underscore_6: code_upset_pass_guide_sign_wide
+bip_39_word_underscore_7: code_upset_pass_guide_sign_wide_moral
+bip_39_word_underscore_8: code_upset_pass_guide_sign_wide_moral_afraid
+bip_39_word_underscore_9: code_upset_pass_guide_sign_wide_moral_afraid_forest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

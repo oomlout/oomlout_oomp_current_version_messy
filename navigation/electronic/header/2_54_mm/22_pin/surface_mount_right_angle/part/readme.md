@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loyal |  
+| bip_39_word_dash_10 | loyal-distance-sleep-travel-account-ancient-seminar-crush-chuckle-ten |  
+| bip_39_word_dash_11 | loyal-distance-sleep-travel-account-ancient-seminar-crush-chuckle-ten-foot |  
+| bip_39_word_dash_12 | loyal-distance-sleep-travel-account-ancient-seminar-crush-chuckle-ten-foot-argue |  
+| bip_39_word_dash_2 | loyal-distance |  
+| bip_39_word_dash_3 | loyal-distance-sleep |  
+| bip_39_word_dash_4 | loyal-distance-sleep-travel |  
+| bip_39_word_dash_5 | loyal-distance-sleep-travel-account |  
+| bip_39_word_dash_6 | loyal-distance-sleep-travel-account-ancient |  
+| bip_39_word_dash_7 | loyal-distance-sleep-travel-account-ancient-seminar |  
+| bip_39_word_dash_8 | loyal-distance-sleep-travel-account-ancient-seminar-crush |  
+| bip_39_word_dash_9 | loyal-distance-sleep-travel-account-ancient-seminar-crush-chuckle |  
 | bip_39_word_new_br_1 | loyal |  
 | bip_39_word_new_br_10 | loyal<br>distance<br>sleep<br>travel<br>account<br>ancient<br>seminar<br>crush<br>chuckle<br>ten |  
 | bip_39_word_new_br_11 | loyal<br>distance<br>sleep<br>travel<br>account<br>ancient<br>seminar<br>crush<br>chuckle<br>ten<br>foot |  
@@ -147,6 +159,18 @@ chuckle |
 | bip_39_word_space_7 | loyal distance sleep travel account ancient seminar |  
 | bip_39_word_space_8 | loyal distance sleep travel account ancient seminar crush |  
 | bip_39_word_space_9 | loyal distance sleep travel account ancient seminar crush chuckle |  
+| bip_39_word_underscore_1 | loyal |  
+| bip_39_word_underscore_10 | loyal_distance_sleep_travel_account_ancient_seminar_crush_chuckle_ten |  
+| bip_39_word_underscore_11 | loyal_distance_sleep_travel_account_ancient_seminar_crush_chuckle_ten_foot |  
+| bip_39_word_underscore_12 | loyal_distance_sleep_travel_account_ancient_seminar_crush_chuckle_ten_foot_argue |  
+| bip_39_word_underscore_2 | loyal_distance |  
+| bip_39_word_underscore_3 | loyal_distance_sleep |  
+| bip_39_word_underscore_4 | loyal_distance_sleep_travel |  
+| bip_39_word_underscore_5 | loyal_distance_sleep_travel_account |  
+| bip_39_word_underscore_6 | loyal_distance_sleep_travel_account_ancient |  
+| bip_39_word_underscore_7 | loyal_distance_sleep_travel_account_ancient_seminar |  
+| bip_39_word_underscore_8 | loyal_distance_sleep_travel_account_ancient_seminar_crush |  
+| bip_39_word_underscore_9 | loyal_distance_sleep_travel_account_ancient_seminar_crush_chuckle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

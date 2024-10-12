@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shaft
+bip_39_word_dash_10: shaft-quantum-title-dilemma-mean-dust-cupboard-reflect-maid-require
+bip_39_word_dash_11: shaft-quantum-title-dilemma-mean-dust-cupboard-reflect-maid-require-radio
+bip_39_word_dash_12: shaft-quantum-title-dilemma-mean-dust-cupboard-reflect-maid-require-radio-appear
+bip_39_word_dash_2: shaft-quantum
+bip_39_word_dash_3: shaft-quantum-title
+bip_39_word_dash_4: shaft-quantum-title-dilemma
+bip_39_word_dash_5: shaft-quantum-title-dilemma-mean
+bip_39_word_dash_6: shaft-quantum-title-dilemma-mean-dust
+bip_39_word_dash_7: shaft-quantum-title-dilemma-mean-dust-cupboard
+bip_39_word_dash_8: shaft-quantum-title-dilemma-mean-dust-cupboard-reflect
+bip_39_word_dash_9: shaft-quantum-title-dilemma-mean-dust-cupboard-reflect-maid
 bip_39_word_new_br_1: shaft
 bip_39_word_new_br_10: shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect<br>maid<br>require
 bip_39_word_new_br_11: shaft<br>quantum<br>title<br>dilemma<br>mean<br>dust<br>cupboard<br>reflect<br>maid<br>require<br>radio
@@ -194,6 +206,18 @@ bip_39_word_space_6: shaft quantum title dilemma mean dust
 bip_39_word_space_7: shaft quantum title dilemma mean dust cupboard
 bip_39_word_space_8: shaft quantum title dilemma mean dust cupboard reflect
 bip_39_word_space_9: shaft quantum title dilemma mean dust cupboard reflect maid
+bip_39_word_underscore_1: shaft
+bip_39_word_underscore_10: shaft_quantum_title_dilemma_mean_dust_cupboard_reflect_maid_require
+bip_39_word_underscore_11: shaft_quantum_title_dilemma_mean_dust_cupboard_reflect_maid_require_radio
+bip_39_word_underscore_12: shaft_quantum_title_dilemma_mean_dust_cupboard_reflect_maid_require_radio_appear
+bip_39_word_underscore_2: shaft_quantum
+bip_39_word_underscore_3: shaft_quantum_title
+bip_39_word_underscore_4: shaft_quantum_title_dilemma
+bip_39_word_underscore_5: shaft_quantum_title_dilemma_mean
+bip_39_word_underscore_6: shaft_quantum_title_dilemma_mean_dust
+bip_39_word_underscore_7: shaft_quantum_title_dilemma_mean_dust_cupboard
+bip_39_word_underscore_8: shaft_quantum_title_dilemma_mean_dust_cupboard_reflect
+bip_39_word_underscore_9: shaft_quantum_title_dilemma_mean_dust_cupboard_reflect_maid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

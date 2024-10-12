@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | icon |  
+| bip_39_word_dash_10 | icon-repair-liberty-size-dune-foot-issue-warfare-loan-ugly |  
+| bip_39_word_dash_11 | icon-repair-liberty-size-dune-foot-issue-warfare-loan-ugly-over |  
+| bip_39_word_dash_12 | icon-repair-liberty-size-dune-foot-issue-warfare-loan-ugly-over-attitude |  
+| bip_39_word_dash_2 | icon-repair |  
+| bip_39_word_dash_3 | icon-repair-liberty |  
+| bip_39_word_dash_4 | icon-repair-liberty-size |  
+| bip_39_word_dash_5 | icon-repair-liberty-size-dune |  
+| bip_39_word_dash_6 | icon-repair-liberty-size-dune-foot |  
+| bip_39_word_dash_7 | icon-repair-liberty-size-dune-foot-issue |  
+| bip_39_word_dash_8 | icon-repair-liberty-size-dune-foot-issue-warfare |  
+| bip_39_word_dash_9 | icon-repair-liberty-size-dune-foot-issue-warfare-loan |  
 | bip_39_word_new_br_1 | icon |  
 | bip_39_word_new_br_10 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly |  
 | bip_39_word_new_br_11 | icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly<br>over |  
@@ -147,6 +159,18 @@ loan |
 | bip_39_word_space_7 | icon repair liberty size dune foot issue |  
 | bip_39_word_space_8 | icon repair liberty size dune foot issue warfare |  
 | bip_39_word_space_9 | icon repair liberty size dune foot issue warfare loan |  
+| bip_39_word_underscore_1 | icon |  
+| bip_39_word_underscore_10 | icon_repair_liberty_size_dune_foot_issue_warfare_loan_ugly |  
+| bip_39_word_underscore_11 | icon_repair_liberty_size_dune_foot_issue_warfare_loan_ugly_over |  
+| bip_39_word_underscore_12 | icon_repair_liberty_size_dune_foot_issue_warfare_loan_ugly_over_attitude |  
+| bip_39_word_underscore_2 | icon_repair |  
+| bip_39_word_underscore_3 | icon_repair_liberty |  
+| bip_39_word_underscore_4 | icon_repair_liberty_size |  
+| bip_39_word_underscore_5 | icon_repair_liberty_size_dune |  
+| bip_39_word_underscore_6 | icon_repair_liberty_size_dune_foot |  
+| bip_39_word_underscore_7 | icon_repair_liberty_size_dune_foot_issue |  
+| bip_39_word_underscore_8 | icon_repair_liberty_size_dune_foot_issue_warfare |  
+| bip_39_word_underscore_9 | icon_repair_liberty_size_dune_foot_issue_warfare_loan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spy |  
+| bip_39_word_dash_10 | spy-fish-guess-front-east-kitchen-long-drive-gentle-control |  
+| bip_39_word_dash_11 | spy-fish-guess-front-east-kitchen-long-drive-gentle-control-peasant |  
+| bip_39_word_dash_12 | spy-fish-guess-front-east-kitchen-long-drive-gentle-control-peasant-acid |  
+| bip_39_word_dash_2 | spy-fish |  
+| bip_39_word_dash_3 | spy-fish-guess |  
+| bip_39_word_dash_4 | spy-fish-guess-front |  
+| bip_39_word_dash_5 | spy-fish-guess-front-east |  
+| bip_39_word_dash_6 | spy-fish-guess-front-east-kitchen |  
+| bip_39_word_dash_7 | spy-fish-guess-front-east-kitchen-long |  
+| bip_39_word_dash_8 | spy-fish-guess-front-east-kitchen-long-drive |  
+| bip_39_word_dash_9 | spy-fish-guess-front-east-kitchen-long-drive-gentle |  
 | bip_39_word_new_br_1 | spy |  
 | bip_39_word_new_br_10 | spy<br>fish<br>guess<br>front<br>east<br>kitchen<br>long<br>drive<br>gentle<br>control |  
 | bip_39_word_new_br_11 | spy<br>fish<br>guess<br>front<br>east<br>kitchen<br>long<br>drive<br>gentle<br>control<br>peasant |  
@@ -147,6 +159,18 @@ gentle |
 | bip_39_word_space_7 | spy fish guess front east kitchen long |  
 | bip_39_word_space_8 | spy fish guess front east kitchen long drive |  
 | bip_39_word_space_9 | spy fish guess front east kitchen long drive gentle |  
+| bip_39_word_underscore_1 | spy |  
+| bip_39_word_underscore_10 | spy_fish_guess_front_east_kitchen_long_drive_gentle_control |  
+| bip_39_word_underscore_11 | spy_fish_guess_front_east_kitchen_long_drive_gentle_control_peasant |  
+| bip_39_word_underscore_12 | spy_fish_guess_front_east_kitchen_long_drive_gentle_control_peasant_acid |  
+| bip_39_word_underscore_2 | spy_fish |  
+| bip_39_word_underscore_3 | spy_fish_guess |  
+| bip_39_word_underscore_4 | spy_fish_guess_front |  
+| bip_39_word_underscore_5 | spy_fish_guess_front_east |  
+| bip_39_word_underscore_6 | spy_fish_guess_front_east_kitchen |  
+| bip_39_word_underscore_7 | spy_fish_guess_front_east_kitchen_long |  
+| bip_39_word_underscore_8 | spy_fish_guess_front_east_kitchen_long_drive |  
+| bip_39_word_underscore_9 | spy_fish_guess_front_east_kitchen_long_drive_gentle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

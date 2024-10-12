@@ -1,3 +1,15 @@
+bip_39_word_dash_1: october
+bip_39_word_dash_10: october-comfort-dog-multiply-vintage-grain-tube-pigeon-random-jazz
+bip_39_word_dash_11: october-comfort-dog-multiply-vintage-grain-tube-pigeon-random-jazz-cause
+bip_39_word_dash_12: october-comfort-dog-multiply-vintage-grain-tube-pigeon-random-jazz-cause-almost
+bip_39_word_dash_2: october-comfort
+bip_39_word_dash_3: october-comfort-dog
+bip_39_word_dash_4: october-comfort-dog-multiply
+bip_39_word_dash_5: october-comfort-dog-multiply-vintage
+bip_39_word_dash_6: october-comfort-dog-multiply-vintage-grain
+bip_39_word_dash_7: october-comfort-dog-multiply-vintage-grain-tube
+bip_39_word_dash_8: october-comfort-dog-multiply-vintage-grain-tube-pigeon
+bip_39_word_dash_9: october-comfort-dog-multiply-vintage-grain-tube-pigeon-random
 bip_39_word_new_br_1: october
 bip_39_word_new_br_10: october<br>comfort<br>dog<br>multiply<br>vintage<br>grain<br>tube<br>pigeon<br>random<br>jazz
 bip_39_word_new_br_11: october<br>comfort<br>dog<br>multiply<br>vintage<br>grain<br>tube<br>pigeon<br>random<br>jazz<br>cause
@@ -194,6 +206,18 @@ bip_39_word_space_6: october comfort dog multiply vintage grain
 bip_39_word_space_7: october comfort dog multiply vintage grain tube
 bip_39_word_space_8: october comfort dog multiply vintage grain tube pigeon
 bip_39_word_space_9: october comfort dog multiply vintage grain tube pigeon random
+bip_39_word_underscore_1: october
+bip_39_word_underscore_10: october_comfort_dog_multiply_vintage_grain_tube_pigeon_random_jazz
+bip_39_word_underscore_11: october_comfort_dog_multiply_vintage_grain_tube_pigeon_random_jazz_cause
+bip_39_word_underscore_12: october_comfort_dog_multiply_vintage_grain_tube_pigeon_random_jazz_cause_almost
+bip_39_word_underscore_2: october_comfort
+bip_39_word_underscore_3: october_comfort_dog
+bip_39_word_underscore_4: october_comfort_dog_multiply
+bip_39_word_underscore_5: october_comfort_dog_multiply_vintage
+bip_39_word_underscore_6: october_comfort_dog_multiply_vintage_grain
+bip_39_word_underscore_7: october_comfort_dog_multiply_vintage_grain_tube
+bip_39_word_underscore_8: october_comfort_dog_multiply_vintage_grain_tube_pigeon
+bip_39_word_underscore_9: october_comfort_dog_multiply_vintage_grain_tube_pigeon_random
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

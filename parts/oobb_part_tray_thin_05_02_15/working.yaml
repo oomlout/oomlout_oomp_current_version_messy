@@ -1,3 +1,15 @@
+bip_39_word_dash_1: atom
+bip_39_word_dash_10: atom-dismiss-three-avocado-dice-topple-alter-split-gallery-shoot
+bip_39_word_dash_11: atom-dismiss-three-avocado-dice-topple-alter-split-gallery-shoot-parrot
+bip_39_word_dash_12: atom-dismiss-three-avocado-dice-topple-alter-split-gallery-shoot-parrot-arena
+bip_39_word_dash_2: atom-dismiss
+bip_39_word_dash_3: atom-dismiss-three
+bip_39_word_dash_4: atom-dismiss-three-avocado
+bip_39_word_dash_5: atom-dismiss-three-avocado-dice
+bip_39_word_dash_6: atom-dismiss-three-avocado-dice-topple
+bip_39_word_dash_7: atom-dismiss-three-avocado-dice-topple-alter
+bip_39_word_dash_8: atom-dismiss-three-avocado-dice-topple-alter-split
+bip_39_word_dash_9: atom-dismiss-three-avocado-dice-topple-alter-split-gallery
 bip_39_word_new_br_1: atom
 bip_39_word_new_br_10: atom<br>dismiss<br>three<br>avocado<br>dice<br>topple<br>alter<br>split<br>gallery<br>shoot
 bip_39_word_new_br_11: atom<br>dismiss<br>three<br>avocado<br>dice<br>topple<br>alter<br>split<br>gallery<br>shoot<br>parrot
@@ -193,6 +205,18 @@ bip_39_word_space_6: atom dismiss three avocado dice topple
 bip_39_word_space_7: atom dismiss three avocado dice topple alter
 bip_39_word_space_8: atom dismiss three avocado dice topple alter split
 bip_39_word_space_9: atom dismiss three avocado dice topple alter split gallery
+bip_39_word_underscore_1: atom
+bip_39_word_underscore_10: atom_dismiss_three_avocado_dice_topple_alter_split_gallery_shoot
+bip_39_word_underscore_11: atom_dismiss_three_avocado_dice_topple_alter_split_gallery_shoot_parrot
+bip_39_word_underscore_12: atom_dismiss_three_avocado_dice_topple_alter_split_gallery_shoot_parrot_arena
+bip_39_word_underscore_2: atom_dismiss
+bip_39_word_underscore_3: atom_dismiss_three
+bip_39_word_underscore_4: atom_dismiss_three_avocado
+bip_39_word_underscore_5: atom_dismiss_three_avocado_dice
+bip_39_word_underscore_6: atom_dismiss_three_avocado_dice_topple
+bip_39_word_underscore_7: atom_dismiss_three_avocado_dice_topple_alter
+bip_39_word_underscore_8: atom_dismiss_three_avocado_dice_topple_alter_split
+bip_39_word_underscore_9: atom_dismiss_three_avocado_dice_topple_alter_split_gallery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

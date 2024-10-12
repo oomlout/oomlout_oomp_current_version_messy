@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fantasy |  
+| bip_39_word_dash_10 | fantasy-stable-hub-trick-flame-busy-mountain-type-caution-hello |  
+| bip_39_word_dash_11 | fantasy-stable-hub-trick-flame-busy-mountain-type-caution-hello-ketchup |  
+| bip_39_word_dash_12 | fantasy-stable-hub-trick-flame-busy-mountain-type-caution-hello-ketchup-afraid |  
+| bip_39_word_dash_2 | fantasy-stable |  
+| bip_39_word_dash_3 | fantasy-stable-hub |  
+| bip_39_word_dash_4 | fantasy-stable-hub-trick |  
+| bip_39_word_dash_5 | fantasy-stable-hub-trick-flame |  
+| bip_39_word_dash_6 | fantasy-stable-hub-trick-flame-busy |  
+| bip_39_word_dash_7 | fantasy-stable-hub-trick-flame-busy-mountain |  
+| bip_39_word_dash_8 | fantasy-stable-hub-trick-flame-busy-mountain-type |  
+| bip_39_word_dash_9 | fantasy-stable-hub-trick-flame-busy-mountain-type-caution |  
 | bip_39_word_new_br_1 | fantasy |  
 | bip_39_word_new_br_10 | fantasy<br>stable<br>hub<br>trick<br>flame<br>busy<br>mountain<br>type<br>caution<br>hello |  
 | bip_39_word_new_br_11 | fantasy<br>stable<br>hub<br>trick<br>flame<br>busy<br>mountain<br>type<br>caution<br>hello<br>ketchup |  
@@ -147,6 +159,18 @@ caution |
 | bip_39_word_space_7 | fantasy stable hub trick flame busy mountain |  
 | bip_39_word_space_8 | fantasy stable hub trick flame busy mountain type |  
 | bip_39_word_space_9 | fantasy stable hub trick flame busy mountain type caution |  
+| bip_39_word_underscore_1 | fantasy |  
+| bip_39_word_underscore_10 | fantasy_stable_hub_trick_flame_busy_mountain_type_caution_hello |  
+| bip_39_word_underscore_11 | fantasy_stable_hub_trick_flame_busy_mountain_type_caution_hello_ketchup |  
+| bip_39_word_underscore_12 | fantasy_stable_hub_trick_flame_busy_mountain_type_caution_hello_ketchup_afraid |  
+| bip_39_word_underscore_2 | fantasy_stable |  
+| bip_39_word_underscore_3 | fantasy_stable_hub |  
+| bip_39_word_underscore_4 | fantasy_stable_hub_trick |  
+| bip_39_word_underscore_5 | fantasy_stable_hub_trick_flame |  
+| bip_39_word_underscore_6 | fantasy_stable_hub_trick_flame_busy |  
+| bip_39_word_underscore_7 | fantasy_stable_hub_trick_flame_busy_mountain |  
+| bip_39_word_underscore_8 | fantasy_stable_hub_trick_flame_busy_mountain_type |  
+| bip_39_word_underscore_9 | fantasy_stable_hub_trick_flame_busy_mountain_type_caution |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

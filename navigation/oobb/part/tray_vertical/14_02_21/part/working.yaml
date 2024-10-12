@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dance
+bip_39_word_dash_10: dance-success-ask-exotic-cloth-sunset-scrub-limb-wrap-myself
+bip_39_word_dash_11: dance-success-ask-exotic-cloth-sunset-scrub-limb-wrap-myself-spoil
+bip_39_word_dash_12: dance-success-ask-exotic-cloth-sunset-scrub-limb-wrap-myself-spoil-arch
+bip_39_word_dash_2: dance-success
+bip_39_word_dash_3: dance-success-ask
+bip_39_word_dash_4: dance-success-ask-exotic
+bip_39_word_dash_5: dance-success-ask-exotic-cloth
+bip_39_word_dash_6: dance-success-ask-exotic-cloth-sunset
+bip_39_word_dash_7: dance-success-ask-exotic-cloth-sunset-scrub
+bip_39_word_dash_8: dance-success-ask-exotic-cloth-sunset-scrub-limb
+bip_39_word_dash_9: dance-success-ask-exotic-cloth-sunset-scrub-limb-wrap
 bip_39_word_new_br_1: dance
 bip_39_word_new_br_10: dance<br>success<br>ask<br>exotic<br>cloth<br>sunset<br>scrub<br>limb<br>wrap<br>myself
 bip_39_word_new_br_11: dance<br>success<br>ask<br>exotic<br>cloth<br>sunset<br>scrub<br>limb<br>wrap<br>myself<br>spoil
@@ -193,6 +205,18 @@ bip_39_word_space_6: dance success ask exotic cloth sunset
 bip_39_word_space_7: dance success ask exotic cloth sunset scrub
 bip_39_word_space_8: dance success ask exotic cloth sunset scrub limb
 bip_39_word_space_9: dance success ask exotic cloth sunset scrub limb wrap
+bip_39_word_underscore_1: dance
+bip_39_word_underscore_10: dance_success_ask_exotic_cloth_sunset_scrub_limb_wrap_myself
+bip_39_word_underscore_11: dance_success_ask_exotic_cloth_sunset_scrub_limb_wrap_myself_spoil
+bip_39_word_underscore_12: dance_success_ask_exotic_cloth_sunset_scrub_limb_wrap_myself_spoil_arch
+bip_39_word_underscore_2: dance_success
+bip_39_word_underscore_3: dance_success_ask
+bip_39_word_underscore_4: dance_success_ask_exotic
+bip_39_word_underscore_5: dance_success_ask_exotic_cloth
+bip_39_word_underscore_6: dance_success_ask_exotic_cloth_sunset
+bip_39_word_underscore_7: dance_success_ask_exotic_cloth_sunset_scrub
+bip_39_word_underscore_8: dance_success_ask_exotic_cloth_sunset_scrub_limb
+bip_39_word_underscore_9: dance_success_ask_exotic_cloth_sunset_scrub_limb_wrap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

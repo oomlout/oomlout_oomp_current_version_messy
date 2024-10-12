@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vote |  
+| bip_39_word_dash_10 | vote-ahead-horse-meadow-black-flee-copper-silver-tide-marble |  
+| bip_39_word_dash_11 | vote-ahead-horse-meadow-black-flee-copper-silver-tide-marble-transfer |  
+| bip_39_word_dash_12 | vote-ahead-horse-meadow-black-flee-copper-silver-tide-marble-transfer-arrest |  
+| bip_39_word_dash_2 | vote-ahead |  
+| bip_39_word_dash_3 | vote-ahead-horse |  
+| bip_39_word_dash_4 | vote-ahead-horse-meadow |  
+| bip_39_word_dash_5 | vote-ahead-horse-meadow-black |  
+| bip_39_word_dash_6 | vote-ahead-horse-meadow-black-flee |  
+| bip_39_word_dash_7 | vote-ahead-horse-meadow-black-flee-copper |  
+| bip_39_word_dash_8 | vote-ahead-horse-meadow-black-flee-copper-silver |  
+| bip_39_word_dash_9 | vote-ahead-horse-meadow-black-flee-copper-silver-tide |  
 | bip_39_word_new_br_1 | vote |  
 | bip_39_word_new_br_10 | vote<br>ahead<br>horse<br>meadow<br>black<br>flee<br>copper<br>silver<br>tide<br>marble |  
 | bip_39_word_new_br_11 | vote<br>ahead<br>horse<br>meadow<br>black<br>flee<br>copper<br>silver<br>tide<br>marble<br>transfer |  
@@ -147,6 +159,18 @@ tide |
 | bip_39_word_space_7 | vote ahead horse meadow black flee copper |  
 | bip_39_word_space_8 | vote ahead horse meadow black flee copper silver |  
 | bip_39_word_space_9 | vote ahead horse meadow black flee copper silver tide |  
+| bip_39_word_underscore_1 | vote |  
+| bip_39_word_underscore_10 | vote_ahead_horse_meadow_black_flee_copper_silver_tide_marble |  
+| bip_39_word_underscore_11 | vote_ahead_horse_meadow_black_flee_copper_silver_tide_marble_transfer |  
+| bip_39_word_underscore_12 | vote_ahead_horse_meadow_black_flee_copper_silver_tide_marble_transfer_arrest |  
+| bip_39_word_underscore_2 | vote_ahead |  
+| bip_39_word_underscore_3 | vote_ahead_horse |  
+| bip_39_word_underscore_4 | vote_ahead_horse_meadow |  
+| bip_39_word_underscore_5 | vote_ahead_horse_meadow_black |  
+| bip_39_word_underscore_6 | vote_ahead_horse_meadow_black_flee |  
+| bip_39_word_underscore_7 | vote_ahead_horse_meadow_black_flee_copper |  
+| bip_39_word_underscore_8 | vote_ahead_horse_meadow_black_flee_copper_silver |  
+| bip_39_word_underscore_9 | vote_ahead_horse_meadow_black_flee_copper_silver_tide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

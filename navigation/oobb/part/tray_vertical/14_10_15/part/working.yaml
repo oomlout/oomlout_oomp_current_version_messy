@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shoot
+bip_39_word_dash_10: shoot-kiwi-blue-super-lesson-cloth-benefit-balcony-arm-wife
+bip_39_word_dash_11: shoot-kiwi-blue-super-lesson-cloth-benefit-balcony-arm-wife-bullet
+bip_39_word_dash_12: shoot-kiwi-blue-super-lesson-cloth-benefit-balcony-arm-wife-bullet-answer
+bip_39_word_dash_2: shoot-kiwi
+bip_39_word_dash_3: shoot-kiwi-blue
+bip_39_word_dash_4: shoot-kiwi-blue-super
+bip_39_word_dash_5: shoot-kiwi-blue-super-lesson
+bip_39_word_dash_6: shoot-kiwi-blue-super-lesson-cloth
+bip_39_word_dash_7: shoot-kiwi-blue-super-lesson-cloth-benefit
+bip_39_word_dash_8: shoot-kiwi-blue-super-lesson-cloth-benefit-balcony
+bip_39_word_dash_9: shoot-kiwi-blue-super-lesson-cloth-benefit-balcony-arm
 bip_39_word_new_br_1: shoot
 bip_39_word_new_br_10: shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony<br>arm<br>wife
 bip_39_word_new_br_11: shoot<br>kiwi<br>blue<br>super<br>lesson<br>cloth<br>benefit<br>balcony<br>arm<br>wife<br>bullet
@@ -193,6 +205,18 @@ bip_39_word_space_6: shoot kiwi blue super lesson cloth
 bip_39_word_space_7: shoot kiwi blue super lesson cloth benefit
 bip_39_word_space_8: shoot kiwi blue super lesson cloth benefit balcony
 bip_39_word_space_9: shoot kiwi blue super lesson cloth benefit balcony arm
+bip_39_word_underscore_1: shoot
+bip_39_word_underscore_10: shoot_kiwi_blue_super_lesson_cloth_benefit_balcony_arm_wife
+bip_39_word_underscore_11: shoot_kiwi_blue_super_lesson_cloth_benefit_balcony_arm_wife_bullet
+bip_39_word_underscore_12: shoot_kiwi_blue_super_lesson_cloth_benefit_balcony_arm_wife_bullet_answer
+bip_39_word_underscore_2: shoot_kiwi
+bip_39_word_underscore_3: shoot_kiwi_blue
+bip_39_word_underscore_4: shoot_kiwi_blue_super
+bip_39_word_underscore_5: shoot_kiwi_blue_super_lesson
+bip_39_word_underscore_6: shoot_kiwi_blue_super_lesson_cloth
+bip_39_word_underscore_7: shoot_kiwi_blue_super_lesson_cloth_benefit
+bip_39_word_underscore_8: shoot_kiwi_blue_super_lesson_cloth_benefit_balcony
+bip_39_word_underscore_9: shoot_kiwi_blue_super_lesson_cloth_benefit_balcony_arm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reward |  
+| bip_39_word_dash_10 | reward-path-aware-gas-globe-sting-divert-blush-audit-volcano |  
+| bip_39_word_dash_11 | reward-path-aware-gas-globe-sting-divert-blush-audit-volcano-cost |  
+| bip_39_word_dash_12 | reward-path-aware-gas-globe-sting-divert-blush-audit-volcano-cost-artist |  
+| bip_39_word_dash_2 | reward-path |  
+| bip_39_word_dash_3 | reward-path-aware |  
+| bip_39_word_dash_4 | reward-path-aware-gas |  
+| bip_39_word_dash_5 | reward-path-aware-gas-globe |  
+| bip_39_word_dash_6 | reward-path-aware-gas-globe-sting |  
+| bip_39_word_dash_7 | reward-path-aware-gas-globe-sting-divert |  
+| bip_39_word_dash_8 | reward-path-aware-gas-globe-sting-divert-blush |  
+| bip_39_word_dash_9 | reward-path-aware-gas-globe-sting-divert-blush-audit |  
 | bip_39_word_new_br_1 | reward |  
 | bip_39_word_new_br_10 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit<br>volcano |  
 | bip_39_word_new_br_11 | reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit<br>volcano<br>cost |  
@@ -147,6 +159,18 @@ audit |
 | bip_39_word_space_7 | reward path aware gas globe sting divert |  
 | bip_39_word_space_8 | reward path aware gas globe sting divert blush |  
 | bip_39_word_space_9 | reward path aware gas globe sting divert blush audit |  
+| bip_39_word_underscore_1 | reward |  
+| bip_39_word_underscore_10 | reward_path_aware_gas_globe_sting_divert_blush_audit_volcano |  
+| bip_39_word_underscore_11 | reward_path_aware_gas_globe_sting_divert_blush_audit_volcano_cost |  
+| bip_39_word_underscore_12 | reward_path_aware_gas_globe_sting_divert_blush_audit_volcano_cost_artist |  
+| bip_39_word_underscore_2 | reward_path |  
+| bip_39_word_underscore_3 | reward_path_aware |  
+| bip_39_word_underscore_4 | reward_path_aware_gas |  
+| bip_39_word_underscore_5 | reward_path_aware_gas_globe |  
+| bip_39_word_underscore_6 | reward_path_aware_gas_globe_sting |  
+| bip_39_word_underscore_7 | reward_path_aware_gas_globe_sting_divert |  
+| bip_39_word_underscore_8 | reward_path_aware_gas_globe_sting_divert_blush |  
+| bip_39_word_underscore_9 | reward_path_aware_gas_globe_sting_divert_blush_audit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vote
+bip_39_word_dash_10: vote-early-nice-drive-elder-hobby-indoor-wife-since-lock
+bip_39_word_dash_11: vote-early-nice-drive-elder-hobby-indoor-wife-since-lock-three
+bip_39_word_dash_12: vote-early-nice-drive-elder-hobby-indoor-wife-since-lock-three-army
+bip_39_word_dash_2: vote-early
+bip_39_word_dash_3: vote-early-nice
+bip_39_word_dash_4: vote-early-nice-drive
+bip_39_word_dash_5: vote-early-nice-drive-elder
+bip_39_word_dash_6: vote-early-nice-drive-elder-hobby
+bip_39_word_dash_7: vote-early-nice-drive-elder-hobby-indoor
+bip_39_word_dash_8: vote-early-nice-drive-elder-hobby-indoor-wife
+bip_39_word_dash_9: vote-early-nice-drive-elder-hobby-indoor-wife-since
 bip_39_word_new_br_1: vote
 bip_39_word_new_br_10: vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife<br>since<br>lock
 bip_39_word_new_br_11: vote<br>early<br>nice<br>drive<br>elder<br>hobby<br>indoor<br>wife<br>since<br>lock<br>three
@@ -192,6 +204,18 @@ bip_39_word_space_6: vote early nice drive elder hobby
 bip_39_word_space_7: vote early nice drive elder hobby indoor
 bip_39_word_space_8: vote early nice drive elder hobby indoor wife
 bip_39_word_space_9: vote early nice drive elder hobby indoor wife since
+bip_39_word_underscore_1: vote
+bip_39_word_underscore_10: vote_early_nice_drive_elder_hobby_indoor_wife_since_lock
+bip_39_word_underscore_11: vote_early_nice_drive_elder_hobby_indoor_wife_since_lock_three
+bip_39_word_underscore_12: vote_early_nice_drive_elder_hobby_indoor_wife_since_lock_three_army
+bip_39_word_underscore_2: vote_early
+bip_39_word_underscore_3: vote_early_nice
+bip_39_word_underscore_4: vote_early_nice_drive
+bip_39_word_underscore_5: vote_early_nice_drive_elder
+bip_39_word_underscore_6: vote_early_nice_drive_elder_hobby
+bip_39_word_underscore_7: vote_early_nice_drive_elder_hobby_indoor
+bip_39_word_underscore_8: vote_early_nice_drive_elder_hobby_indoor_wife
+bip_39_word_underscore_9: vote_early_nice_drive_elder_hobby_indoor_wife_since
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

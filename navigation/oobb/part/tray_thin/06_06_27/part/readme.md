@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | siege |  
+| bip_39_word_dash_10 | siege-forget-soda-luggage-stairs-soon-dynamic-urban-invest-siren |  
+| bip_39_word_dash_11 | siege-forget-soda-luggage-stairs-soon-dynamic-urban-invest-siren-render |  
+| bip_39_word_dash_12 | siege-forget-soda-luggage-stairs-soon-dynamic-urban-invest-siren-render-assume |  
+| bip_39_word_dash_2 | siege-forget |  
+| bip_39_word_dash_3 | siege-forget-soda |  
+| bip_39_word_dash_4 | siege-forget-soda-luggage |  
+| bip_39_word_dash_5 | siege-forget-soda-luggage-stairs |  
+| bip_39_word_dash_6 | siege-forget-soda-luggage-stairs-soon |  
+| bip_39_word_dash_7 | siege-forget-soda-luggage-stairs-soon-dynamic |  
+| bip_39_word_dash_8 | siege-forget-soda-luggage-stairs-soon-dynamic-urban |  
+| bip_39_word_dash_9 | siege-forget-soda-luggage-stairs-soon-dynamic-urban-invest |  
 | bip_39_word_new_br_1 | siege |  
 | bip_39_word_new_br_10 | siege<br>forget<br>soda<br>luggage<br>stairs<br>soon<br>dynamic<br>urban<br>invest<br>siren |  
 | bip_39_word_new_br_11 | siege<br>forget<br>soda<br>luggage<br>stairs<br>soon<br>dynamic<br>urban<br>invest<br>siren<br>render |  
@@ -147,6 +159,18 @@ invest |
 | bip_39_word_space_7 | siege forget soda luggage stairs soon dynamic |  
 | bip_39_word_space_8 | siege forget soda luggage stairs soon dynamic urban |  
 | bip_39_word_space_9 | siege forget soda luggage stairs soon dynamic urban invest |  
+| bip_39_word_underscore_1 | siege |  
+| bip_39_word_underscore_10 | siege_forget_soda_luggage_stairs_soon_dynamic_urban_invest_siren |  
+| bip_39_word_underscore_11 | siege_forget_soda_luggage_stairs_soon_dynamic_urban_invest_siren_render |  
+| bip_39_word_underscore_12 | siege_forget_soda_luggage_stairs_soon_dynamic_urban_invest_siren_render_assume |  
+| bip_39_word_underscore_2 | siege_forget |  
+| bip_39_word_underscore_3 | siege_forget_soda |  
+| bip_39_word_underscore_4 | siege_forget_soda_luggage |  
+| bip_39_word_underscore_5 | siege_forget_soda_luggage_stairs |  
+| bip_39_word_underscore_6 | siege_forget_soda_luggage_stairs_soon |  
+| bip_39_word_underscore_7 | siege_forget_soda_luggage_stairs_soon_dynamic |  
+| bip_39_word_underscore_8 | siege_forget_soda_luggage_stairs_soon_dynamic_urban |  
+| bip_39_word_underscore_9 | siege_forget_soda_luggage_stairs_soon_dynamic_urban_invest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

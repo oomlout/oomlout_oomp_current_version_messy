@@ -1,3 +1,15 @@
+bip_39_word_dash_1: write
+bip_39_word_dash_10: write-force-remember-property-enjoy-silent-disorder-already-follow-one
+bip_39_word_dash_11: write-force-remember-property-enjoy-silent-disorder-already-follow-one-problem
+bip_39_word_dash_12: write-force-remember-property-enjoy-silent-disorder-already-follow-one-problem-alley
+bip_39_word_dash_2: write-force
+bip_39_word_dash_3: write-force-remember
+bip_39_word_dash_4: write-force-remember-property
+bip_39_word_dash_5: write-force-remember-property-enjoy
+bip_39_word_dash_6: write-force-remember-property-enjoy-silent
+bip_39_word_dash_7: write-force-remember-property-enjoy-silent-disorder
+bip_39_word_dash_8: write-force-remember-property-enjoy-silent-disorder-already
+bip_39_word_dash_9: write-force-remember-property-enjoy-silent-disorder-already-follow
 bip_39_word_new_br_1: write
 bip_39_word_new_br_10: write<br>force<br>remember<br>property<br>enjoy<br>silent<br>disorder<br>already<br>follow<br>one
 bip_39_word_new_br_11: write<br>force<br>remember<br>property<br>enjoy<br>silent<br>disorder<br>already<br>follow<br>one<br>problem
@@ -194,6 +206,18 @@ bip_39_word_space_6: write force remember property enjoy silent
 bip_39_word_space_7: write force remember property enjoy silent disorder
 bip_39_word_space_8: write force remember property enjoy silent disorder already
 bip_39_word_space_9: write force remember property enjoy silent disorder already follow
+bip_39_word_underscore_1: write
+bip_39_word_underscore_10: write_force_remember_property_enjoy_silent_disorder_already_follow_one
+bip_39_word_underscore_11: write_force_remember_property_enjoy_silent_disorder_already_follow_one_problem
+bip_39_word_underscore_12: write_force_remember_property_enjoy_silent_disorder_already_follow_one_problem_alley
+bip_39_word_underscore_2: write_force
+bip_39_word_underscore_3: write_force_remember
+bip_39_word_underscore_4: write_force_remember_property
+bip_39_word_underscore_5: write_force_remember_property_enjoy
+bip_39_word_underscore_6: write_force_remember_property_enjoy_silent
+bip_39_word_underscore_7: write_force_remember_property_enjoy_silent_disorder
+bip_39_word_underscore_8: write_force_remember_property_enjoy_silent_disorder_already
+bip_39_word_underscore_9: write_force_remember_property_enjoy_silent_disorder_already_follow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blame |  
+| bip_39_word_dash_10 | blame-blue-rich-glove-square-social-sail-area-steel-rate |  
+| bip_39_word_dash_11 | blame-blue-rich-glove-square-social-sail-area-steel-rate-buyer |  
+| bip_39_word_dash_12 | blame-blue-rich-glove-square-social-sail-area-steel-rate-buyer-arrow |  
+| bip_39_word_dash_2 | blame-blue |  
+| bip_39_word_dash_3 | blame-blue-rich |  
+| bip_39_word_dash_4 | blame-blue-rich-glove |  
+| bip_39_word_dash_5 | blame-blue-rich-glove-square |  
+| bip_39_word_dash_6 | blame-blue-rich-glove-square-social |  
+| bip_39_word_dash_7 | blame-blue-rich-glove-square-social-sail |  
+| bip_39_word_dash_8 | blame-blue-rich-glove-square-social-sail-area |  
+| bip_39_word_dash_9 | blame-blue-rich-glove-square-social-sail-area-steel |  
 | bip_39_word_new_br_1 | blame |  
 | bip_39_word_new_br_10 | blame<br>blue<br>rich<br>glove<br>square<br>social<br>sail<br>area<br>steel<br>rate |  
 | bip_39_word_new_br_11 | blame<br>blue<br>rich<br>glove<br>square<br>social<br>sail<br>area<br>steel<br>rate<br>buyer |  
@@ -147,6 +159,18 @@ steel |
 | bip_39_word_space_7 | blame blue rich glove square social sail |  
 | bip_39_word_space_8 | blame blue rich glove square social sail area |  
 | bip_39_word_space_9 | blame blue rich glove square social sail area steel |  
+| bip_39_word_underscore_1 | blame |  
+| bip_39_word_underscore_10 | blame_blue_rich_glove_square_social_sail_area_steel_rate |  
+| bip_39_word_underscore_11 | blame_blue_rich_glove_square_social_sail_area_steel_rate_buyer |  
+| bip_39_word_underscore_12 | blame_blue_rich_glove_square_social_sail_area_steel_rate_buyer_arrow |  
+| bip_39_word_underscore_2 | blame_blue |  
+| bip_39_word_underscore_3 | blame_blue_rich |  
+| bip_39_word_underscore_4 | blame_blue_rich_glove |  
+| bip_39_word_underscore_5 | blame_blue_rich_glove_square |  
+| bip_39_word_underscore_6 | blame_blue_rich_glove_square_social |  
+| bip_39_word_underscore_7 | blame_blue_rich_glove_square_social_sail |  
+| bip_39_word_underscore_8 | blame_blue_rich_glove_square_social_sail_area |  
+| bip_39_word_underscore_9 | blame_blue_rich_glove_square_social_sail_area_steel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

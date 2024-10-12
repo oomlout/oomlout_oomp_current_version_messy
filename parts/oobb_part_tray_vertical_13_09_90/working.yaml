@@ -1,3 +1,15 @@
+bip_39_word_dash_1: decline
+bip_39_word_dash_10: decline-budget-under-earth-state-calm-trade-provide-shiver-window
+bip_39_word_dash_11: decline-budget-under-earth-state-calm-trade-provide-shiver-window-fun
+bip_39_word_dash_12: decline-budget-under-earth-state-calm-trade-provide-shiver-window-fun-argue
+bip_39_word_dash_2: decline-budget
+bip_39_word_dash_3: decline-budget-under
+bip_39_word_dash_4: decline-budget-under-earth
+bip_39_word_dash_5: decline-budget-under-earth-state
+bip_39_word_dash_6: decline-budget-under-earth-state-calm
+bip_39_word_dash_7: decline-budget-under-earth-state-calm-trade
+bip_39_word_dash_8: decline-budget-under-earth-state-calm-trade-provide
+bip_39_word_dash_9: decline-budget-under-earth-state-calm-trade-provide-shiver
 bip_39_word_new_br_1: decline
 bip_39_word_new_br_10: decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide<br>shiver<br>window
 bip_39_word_new_br_11: decline<br>budget<br>under<br>earth<br>state<br>calm<br>trade<br>provide<br>shiver<br>window<br>fun
@@ -193,6 +205,18 @@ bip_39_word_space_6: decline budget under earth state calm
 bip_39_word_space_7: decline budget under earth state calm trade
 bip_39_word_space_8: decline budget under earth state calm trade provide
 bip_39_word_space_9: decline budget under earth state calm trade provide shiver
+bip_39_word_underscore_1: decline
+bip_39_word_underscore_10: decline_budget_under_earth_state_calm_trade_provide_shiver_window
+bip_39_word_underscore_11: decline_budget_under_earth_state_calm_trade_provide_shiver_window_fun
+bip_39_word_underscore_12: decline_budget_under_earth_state_calm_trade_provide_shiver_window_fun_argue
+bip_39_word_underscore_2: decline_budget
+bip_39_word_underscore_3: decline_budget_under
+bip_39_word_underscore_4: decline_budget_under_earth
+bip_39_word_underscore_5: decline_budget_under_earth_state
+bip_39_word_underscore_6: decline_budget_under_earth_state_calm
+bip_39_word_underscore_7: decline_budget_under_earth_state_calm_trade
+bip_39_word_underscore_8: decline_budget_under_earth_state_calm_trade_provide
+bip_39_word_underscore_9: decline_budget_under_earth_state_calm_trade_provide_shiver
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

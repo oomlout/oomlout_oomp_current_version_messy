@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | car |  
+| bip_39_word_dash_10 | car-noise-season-name-dizzy-poem-meat-cause-pill-lonely |  
+| bip_39_word_dash_11 | car-noise-season-name-dizzy-poem-meat-cause-pill-lonely-metal |  
+| bip_39_word_dash_12 | car-noise-season-name-dizzy-poem-meat-cause-pill-lonely-metal-attitude |  
+| bip_39_word_dash_2 | car-noise |  
+| bip_39_word_dash_3 | car-noise-season |  
+| bip_39_word_dash_4 | car-noise-season-name |  
+| bip_39_word_dash_5 | car-noise-season-name-dizzy |  
+| bip_39_word_dash_6 | car-noise-season-name-dizzy-poem |  
+| bip_39_word_dash_7 | car-noise-season-name-dizzy-poem-meat |  
+| bip_39_word_dash_8 | car-noise-season-name-dizzy-poem-meat-cause |  
+| bip_39_word_dash_9 | car-noise-season-name-dizzy-poem-meat-cause-pill |  
 | bip_39_word_new_br_1 | car |  
 | bip_39_word_new_br_10 | car<br>noise<br>season<br>name<br>dizzy<br>poem<br>meat<br>cause<br>pill<br>lonely |  
 | bip_39_word_new_br_11 | car<br>noise<br>season<br>name<br>dizzy<br>poem<br>meat<br>cause<br>pill<br>lonely<br>metal |  
@@ -147,6 +159,18 @@ pill |
 | bip_39_word_space_7 | car noise season name dizzy poem meat |  
 | bip_39_word_space_8 | car noise season name dizzy poem meat cause |  
 | bip_39_word_space_9 | car noise season name dizzy poem meat cause pill |  
+| bip_39_word_underscore_1 | car |  
+| bip_39_word_underscore_10 | car_noise_season_name_dizzy_poem_meat_cause_pill_lonely |  
+| bip_39_word_underscore_11 | car_noise_season_name_dizzy_poem_meat_cause_pill_lonely_metal |  
+| bip_39_word_underscore_12 | car_noise_season_name_dizzy_poem_meat_cause_pill_lonely_metal_attitude |  
+| bip_39_word_underscore_2 | car_noise |  
+| bip_39_word_underscore_3 | car_noise_season |  
+| bip_39_word_underscore_4 | car_noise_season_name |  
+| bip_39_word_underscore_5 | car_noise_season_name_dizzy |  
+| bip_39_word_underscore_6 | car_noise_season_name_dizzy_poem |  
+| bip_39_word_underscore_7 | car_noise_season_name_dizzy_poem_meat |  
+| bip_39_word_underscore_8 | car_noise_season_name_dizzy_poem_meat_cause |  
+| bip_39_word_underscore_9 | car_noise_season_name_dizzy_poem_meat_cause_pill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

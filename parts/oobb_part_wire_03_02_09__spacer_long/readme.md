@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bulk |  
+| bip_39_word_dash_10 | bulk-sport-manage-guess-unable-project-review-disorder-elegant-gain |  
+| bip_39_word_dash_11 | bulk-sport-manage-guess-unable-project-review-disorder-elegant-gain-usage |  
+| bip_39_word_dash_12 | bulk-sport-manage-guess-unable-project-review-disorder-elegant-gain-usage-above |  
+| bip_39_word_dash_2 | bulk-sport |  
+| bip_39_word_dash_3 | bulk-sport-manage |  
+| bip_39_word_dash_4 | bulk-sport-manage-guess |  
+| bip_39_word_dash_5 | bulk-sport-manage-guess-unable |  
+| bip_39_word_dash_6 | bulk-sport-manage-guess-unable-project |  
+| bip_39_word_dash_7 | bulk-sport-manage-guess-unable-project-review |  
+| bip_39_word_dash_8 | bulk-sport-manage-guess-unable-project-review-disorder |  
+| bip_39_word_dash_9 | bulk-sport-manage-guess-unable-project-review-disorder-elegant |  
 | bip_39_word_new_br_1 | bulk |  
 | bip_39_word_new_br_10 | bulk<br>sport<br>manage<br>guess<br>unable<br>project<br>review<br>disorder<br>elegant<br>gain |  
 | bip_39_word_new_br_11 | bulk<br>sport<br>manage<br>guess<br>unable<br>project<br>review<br>disorder<br>elegant<br>gain<br>usage |  
@@ -147,6 +159,18 @@ elegant |
 | bip_39_word_space_7 | bulk sport manage guess unable project review |  
 | bip_39_word_space_8 | bulk sport manage guess unable project review disorder |  
 | bip_39_word_space_9 | bulk sport manage guess unable project review disorder elegant |  
+| bip_39_word_underscore_1 | bulk |  
+| bip_39_word_underscore_10 | bulk_sport_manage_guess_unable_project_review_disorder_elegant_gain |  
+| bip_39_word_underscore_11 | bulk_sport_manage_guess_unable_project_review_disorder_elegant_gain_usage |  
+| bip_39_word_underscore_12 | bulk_sport_manage_guess_unable_project_review_disorder_elegant_gain_usage_above |  
+| bip_39_word_underscore_2 | bulk_sport |  
+| bip_39_word_underscore_3 | bulk_sport_manage |  
+| bip_39_word_underscore_4 | bulk_sport_manage_guess |  
+| bip_39_word_underscore_5 | bulk_sport_manage_guess_unable |  
+| bip_39_word_underscore_6 | bulk_sport_manage_guess_unable_project |  
+| bip_39_word_underscore_7 | bulk_sport_manage_guess_unable_project_review |  
+| bip_39_word_underscore_8 | bulk_sport_manage_guess_unable_project_review_disorder |  
+| bip_39_word_underscore_9 | bulk_sport_manage_guess_unable_project_review_disorder_elegant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

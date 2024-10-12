@@ -1,3 +1,15 @@
+bip_39_word_dash_1: reunion
+bip_39_word_dash_10: reunion-runway-volume-gain-echo-program-turkey-solid-sad-define
+bip_39_word_dash_11: reunion-runway-volume-gain-echo-program-turkey-solid-sad-define-select
+bip_39_word_dash_12: reunion-runway-volume-gain-echo-program-turkey-solid-sad-define-select-apple
+bip_39_word_dash_2: reunion-runway
+bip_39_word_dash_3: reunion-runway-volume
+bip_39_word_dash_4: reunion-runway-volume-gain
+bip_39_word_dash_5: reunion-runway-volume-gain-echo
+bip_39_word_dash_6: reunion-runway-volume-gain-echo-program
+bip_39_word_dash_7: reunion-runway-volume-gain-echo-program-turkey
+bip_39_word_dash_8: reunion-runway-volume-gain-echo-program-turkey-solid
+bip_39_word_dash_9: reunion-runway-volume-gain-echo-program-turkey-solid-sad
 bip_39_word_new_br_1: reunion
 bip_39_word_new_br_10: reunion<br>runway<br>volume<br>gain<br>echo<br>program<br>turkey<br>solid<br>sad<br>define
 bip_39_word_new_br_11: reunion<br>runway<br>volume<br>gain<br>echo<br>program<br>turkey<br>solid<br>sad<br>define<br>select
@@ -193,6 +205,18 @@ bip_39_word_space_6: reunion runway volume gain echo program
 bip_39_word_space_7: reunion runway volume gain echo program turkey
 bip_39_word_space_8: reunion runway volume gain echo program turkey solid
 bip_39_word_space_9: reunion runway volume gain echo program turkey solid sad
+bip_39_word_underscore_1: reunion
+bip_39_word_underscore_10: reunion_runway_volume_gain_echo_program_turkey_solid_sad_define
+bip_39_word_underscore_11: reunion_runway_volume_gain_echo_program_turkey_solid_sad_define_select
+bip_39_word_underscore_12: reunion_runway_volume_gain_echo_program_turkey_solid_sad_define_select_apple
+bip_39_word_underscore_2: reunion_runway
+bip_39_word_underscore_3: reunion_runway_volume
+bip_39_word_underscore_4: reunion_runway_volume_gain
+bip_39_word_underscore_5: reunion_runway_volume_gain_echo
+bip_39_word_underscore_6: reunion_runway_volume_gain_echo_program
+bip_39_word_underscore_7: reunion_runway_volume_gain_echo_program_turkey
+bip_39_word_underscore_8: reunion_runway_volume_gain_echo_program_turkey_solid
+bip_39_word_underscore_9: reunion_runway_volume_gain_echo_program_turkey_solid_sad
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

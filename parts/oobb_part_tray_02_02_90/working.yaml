@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nation
+bip_39_word_dash_10: nation-ski-buyer-skirt-party-fabric-remain-relief-letter-park
+bip_39_word_dash_11: nation-ski-buyer-skirt-party-fabric-remain-relief-letter-park-disease
+bip_39_word_dash_12: nation-ski-buyer-skirt-party-fabric-remain-relief-letter-park-disease-amateur
+bip_39_word_dash_2: nation-ski
+bip_39_word_dash_3: nation-ski-buyer
+bip_39_word_dash_4: nation-ski-buyer-skirt
+bip_39_word_dash_5: nation-ski-buyer-skirt-party
+bip_39_word_dash_6: nation-ski-buyer-skirt-party-fabric
+bip_39_word_dash_7: nation-ski-buyer-skirt-party-fabric-remain
+bip_39_word_dash_8: nation-ski-buyer-skirt-party-fabric-remain-relief
+bip_39_word_dash_9: nation-ski-buyer-skirt-party-fabric-remain-relief-letter
 bip_39_word_new_br_1: nation
 bip_39_word_new_br_10: nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief<br>letter<br>park
 bip_39_word_new_br_11: nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief<br>letter<br>park<br>disease
@@ -193,6 +205,18 @@ bip_39_word_space_6: nation ski buyer skirt party fabric
 bip_39_word_space_7: nation ski buyer skirt party fabric remain
 bip_39_word_space_8: nation ski buyer skirt party fabric remain relief
 bip_39_word_space_9: nation ski buyer skirt party fabric remain relief letter
+bip_39_word_underscore_1: nation
+bip_39_word_underscore_10: nation_ski_buyer_skirt_party_fabric_remain_relief_letter_park
+bip_39_word_underscore_11: nation_ski_buyer_skirt_party_fabric_remain_relief_letter_park_disease
+bip_39_word_underscore_12: nation_ski_buyer_skirt_party_fabric_remain_relief_letter_park_disease_amateur
+bip_39_word_underscore_2: nation_ski
+bip_39_word_underscore_3: nation_ski_buyer
+bip_39_word_underscore_4: nation_ski_buyer_skirt
+bip_39_word_underscore_5: nation_ski_buyer_skirt_party
+bip_39_word_underscore_6: nation_ski_buyer_skirt_party_fabric
+bip_39_word_underscore_7: nation_ski_buyer_skirt_party_fabric_remain
+bip_39_word_underscore_8: nation_ski_buyer_skirt_party_fabric_remain_relief
+bip_39_word_underscore_9: nation_ski_buyer_skirt_party_fabric_remain_relief_letter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

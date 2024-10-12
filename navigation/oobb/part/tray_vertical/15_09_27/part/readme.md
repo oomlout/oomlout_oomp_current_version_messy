@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | explain |  
+| bip_39_word_dash_10 | explain-famous-flat-marine-voice-aware-valley-strong-virtual-budget |  
+| bip_39_word_dash_11 | explain-famous-flat-marine-voice-aware-valley-strong-virtual-budget-speed |  
+| bip_39_word_dash_12 | explain-famous-flat-marine-voice-aware-valley-strong-virtual-budget-speed-athlete |  
+| bip_39_word_dash_2 | explain-famous |  
+| bip_39_word_dash_3 | explain-famous-flat |  
+| bip_39_word_dash_4 | explain-famous-flat-marine |  
+| bip_39_word_dash_5 | explain-famous-flat-marine-voice |  
+| bip_39_word_dash_6 | explain-famous-flat-marine-voice-aware |  
+| bip_39_word_dash_7 | explain-famous-flat-marine-voice-aware-valley |  
+| bip_39_word_dash_8 | explain-famous-flat-marine-voice-aware-valley-strong |  
+| bip_39_word_dash_9 | explain-famous-flat-marine-voice-aware-valley-strong-virtual |  
 | bip_39_word_new_br_1 | explain |  
 | bip_39_word_new_br_10 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget |  
 | bip_39_word_new_br_11 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget<br>speed |  
@@ -147,6 +159,18 @@ virtual |
 | bip_39_word_space_7 | explain famous flat marine voice aware valley |  
 | bip_39_word_space_8 | explain famous flat marine voice aware valley strong |  
 | bip_39_word_space_9 | explain famous flat marine voice aware valley strong virtual |  
+| bip_39_word_underscore_1 | explain |  
+| bip_39_word_underscore_10 | explain_famous_flat_marine_voice_aware_valley_strong_virtual_budget |  
+| bip_39_word_underscore_11 | explain_famous_flat_marine_voice_aware_valley_strong_virtual_budget_speed |  
+| bip_39_word_underscore_12 | explain_famous_flat_marine_voice_aware_valley_strong_virtual_budget_speed_athlete |  
+| bip_39_word_underscore_2 | explain_famous |  
+| bip_39_word_underscore_3 | explain_famous_flat |  
+| bip_39_word_underscore_4 | explain_famous_flat_marine |  
+| bip_39_word_underscore_5 | explain_famous_flat_marine_voice |  
+| bip_39_word_underscore_6 | explain_famous_flat_marine_voice_aware |  
+| bip_39_word_underscore_7 | explain_famous_flat_marine_voice_aware_valley |  
+| bip_39_word_underscore_8 | explain_famous_flat_marine_voice_aware_valley_strong |  
+| bip_39_word_underscore_9 | explain_famous_flat_marine_voice_aware_valley_strong_virtual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | amused |  
+| bip_39_word_dash_10 | amused-fit-dad-bullet-critic-author-famous-tackle-animal-space |  
+| bip_39_word_dash_11 | amused-fit-dad-bullet-critic-author-famous-tackle-animal-space-among |  
+| bip_39_word_dash_12 | amused-fit-dad-bullet-critic-author-famous-tackle-animal-space-among-apple |  
+| bip_39_word_dash_2 | amused-fit |  
+| bip_39_word_dash_3 | amused-fit-dad |  
+| bip_39_word_dash_4 | amused-fit-dad-bullet |  
+| bip_39_word_dash_5 | amused-fit-dad-bullet-critic |  
+| bip_39_word_dash_6 | amused-fit-dad-bullet-critic-author |  
+| bip_39_word_dash_7 | amused-fit-dad-bullet-critic-author-famous |  
+| bip_39_word_dash_8 | amused-fit-dad-bullet-critic-author-famous-tackle |  
+| bip_39_word_dash_9 | amused-fit-dad-bullet-critic-author-famous-tackle-animal |  
 | bip_39_word_new_br_1 | amused |  
 | bip_39_word_new_br_10 | amused<br>fit<br>dad<br>bullet<br>critic<br>author<br>famous<br>tackle<br>animal<br>space |  
 | bip_39_word_new_br_11 | amused<br>fit<br>dad<br>bullet<br>critic<br>author<br>famous<br>tackle<br>animal<br>space<br>among |  
@@ -147,6 +159,18 @@ animal |
 | bip_39_word_space_7 | amused fit dad bullet critic author famous |  
 | bip_39_word_space_8 | amused fit dad bullet critic author famous tackle |  
 | bip_39_word_space_9 | amused fit dad bullet critic author famous tackle animal |  
+| bip_39_word_underscore_1 | amused |  
+| bip_39_word_underscore_10 | amused_fit_dad_bullet_critic_author_famous_tackle_animal_space |  
+| bip_39_word_underscore_11 | amused_fit_dad_bullet_critic_author_famous_tackle_animal_space_among |  
+| bip_39_word_underscore_12 | amused_fit_dad_bullet_critic_author_famous_tackle_animal_space_among_apple |  
+| bip_39_word_underscore_2 | amused_fit |  
+| bip_39_word_underscore_3 | amused_fit_dad |  
+| bip_39_word_underscore_4 | amused_fit_dad_bullet |  
+| bip_39_word_underscore_5 | amused_fit_dad_bullet_critic |  
+| bip_39_word_underscore_6 | amused_fit_dad_bullet_critic_author |  
+| bip_39_word_underscore_7 | amused_fit_dad_bullet_critic_author_famous |  
+| bip_39_word_underscore_8 | amused_fit_dad_bullet_critic_author_famous_tackle |  
+| bip_39_word_underscore_9 | amused_fit_dad_bullet_critic_author_famous_tackle_animal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

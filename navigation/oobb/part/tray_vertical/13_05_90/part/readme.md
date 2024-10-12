@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | carbon |  
+| bip_39_word_dash_10 | carbon-upper-equip-logic-start-magic-reflect-impulse-plug-october |  
+| bip_39_word_dash_11 | carbon-upper-equip-logic-start-magic-reflect-impulse-plug-october-shell |  
+| bip_39_word_dash_12 | carbon-upper-equip-logic-start-magic-reflect-impulse-plug-october-shell-amazing |  
+| bip_39_word_dash_2 | carbon-upper |  
+| bip_39_word_dash_3 | carbon-upper-equip |  
+| bip_39_word_dash_4 | carbon-upper-equip-logic |  
+| bip_39_word_dash_5 | carbon-upper-equip-logic-start |  
+| bip_39_word_dash_6 | carbon-upper-equip-logic-start-magic |  
+| bip_39_word_dash_7 | carbon-upper-equip-logic-start-magic-reflect |  
+| bip_39_word_dash_8 | carbon-upper-equip-logic-start-magic-reflect-impulse |  
+| bip_39_word_dash_9 | carbon-upper-equip-logic-start-magic-reflect-impulse-plug |  
 | bip_39_word_new_br_1 | carbon |  
 | bip_39_word_new_br_10 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse<br>plug<br>october |  
 | bip_39_word_new_br_11 | carbon<br>upper<br>equip<br>logic<br>start<br>magic<br>reflect<br>impulse<br>plug<br>october<br>shell |  
@@ -147,6 +159,18 @@ plug |
 | bip_39_word_space_7 | carbon upper equip logic start magic reflect |  
 | bip_39_word_space_8 | carbon upper equip logic start magic reflect impulse |  
 | bip_39_word_space_9 | carbon upper equip logic start magic reflect impulse plug |  
+| bip_39_word_underscore_1 | carbon |  
+| bip_39_word_underscore_10 | carbon_upper_equip_logic_start_magic_reflect_impulse_plug_october |  
+| bip_39_word_underscore_11 | carbon_upper_equip_logic_start_magic_reflect_impulse_plug_october_shell |  
+| bip_39_word_underscore_12 | carbon_upper_equip_logic_start_magic_reflect_impulse_plug_october_shell_amazing |  
+| bip_39_word_underscore_2 | carbon_upper |  
+| bip_39_word_underscore_3 | carbon_upper_equip |  
+| bip_39_word_underscore_4 | carbon_upper_equip_logic |  
+| bip_39_word_underscore_5 | carbon_upper_equip_logic_start |  
+| bip_39_word_underscore_6 | carbon_upper_equip_logic_start_magic |  
+| bip_39_word_underscore_7 | carbon_upper_equip_logic_start_magic_reflect |  
+| bip_39_word_underscore_8 | carbon_upper_equip_logic_start_magic_reflect_impulse |  
+| bip_39_word_underscore_9 | carbon_upper_equip_logic_start_magic_reflect_impulse_plug |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

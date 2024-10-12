@@ -1,3 +1,15 @@
+bip_39_word_dash_1: panic
+bip_39_word_dash_10: panic-frequent-suffer-arrow-story-brain-tiny-below-cupboard-artwork
+bip_39_word_dash_11: panic-frequent-suffer-arrow-story-brain-tiny-below-cupboard-artwork-immense
+bip_39_word_dash_12: panic-frequent-suffer-arrow-story-brain-tiny-below-cupboard-artwork-immense-above
+bip_39_word_dash_2: panic-frequent
+bip_39_word_dash_3: panic-frequent-suffer
+bip_39_word_dash_4: panic-frequent-suffer-arrow
+bip_39_word_dash_5: panic-frequent-suffer-arrow-story
+bip_39_word_dash_6: panic-frequent-suffer-arrow-story-brain
+bip_39_word_dash_7: panic-frequent-suffer-arrow-story-brain-tiny
+bip_39_word_dash_8: panic-frequent-suffer-arrow-story-brain-tiny-below
+bip_39_word_dash_9: panic-frequent-suffer-arrow-story-brain-tiny-below-cupboard
 bip_39_word_new_br_1: panic
 bip_39_word_new_br_10: panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork
 bip_39_word_new_br_11: panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork<br>immense
@@ -194,6 +206,18 @@ bip_39_word_space_6: panic frequent suffer arrow story brain
 bip_39_word_space_7: panic frequent suffer arrow story brain tiny
 bip_39_word_space_8: panic frequent suffer arrow story brain tiny below
 bip_39_word_space_9: panic frequent suffer arrow story brain tiny below cupboard
+bip_39_word_underscore_1: panic
+bip_39_word_underscore_10: panic_frequent_suffer_arrow_story_brain_tiny_below_cupboard_artwork
+bip_39_word_underscore_11: panic_frequent_suffer_arrow_story_brain_tiny_below_cupboard_artwork_immense
+bip_39_word_underscore_12: panic_frequent_suffer_arrow_story_brain_tiny_below_cupboard_artwork_immense_above
+bip_39_word_underscore_2: panic_frequent
+bip_39_word_underscore_3: panic_frequent_suffer
+bip_39_word_underscore_4: panic_frequent_suffer_arrow
+bip_39_word_underscore_5: panic_frequent_suffer_arrow_story
+bip_39_word_underscore_6: panic_frequent_suffer_arrow_story_brain
+bip_39_word_underscore_7: panic_frequent_suffer_arrow_story_brain_tiny
+bip_39_word_underscore_8: panic_frequent_suffer_arrow_story_brain_tiny_below
+bip_39_word_underscore_9: panic_frequent_suffer_arrow_story_brain_tiny_below_cupboard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: omit
+bip_39_word_dash_10: omit-excess-moment-brisk-update-network-excite-kingdom-anger-once
+bip_39_word_dash_11: omit-excess-moment-brisk-update-network-excite-kingdom-anger-once-bridge
+bip_39_word_dash_12: omit-excess-moment-brisk-update-network-excite-kingdom-anger-once-bridge-apple
+bip_39_word_dash_2: omit-excess
+bip_39_word_dash_3: omit-excess-moment
+bip_39_word_dash_4: omit-excess-moment-brisk
+bip_39_word_dash_5: omit-excess-moment-brisk-update
+bip_39_word_dash_6: omit-excess-moment-brisk-update-network
+bip_39_word_dash_7: omit-excess-moment-brisk-update-network-excite
+bip_39_word_dash_8: omit-excess-moment-brisk-update-network-excite-kingdom
+bip_39_word_dash_9: omit-excess-moment-brisk-update-network-excite-kingdom-anger
 bip_39_word_new_br_1: omit
 bip_39_word_new_br_10: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom<br>anger<br>once
 bip_39_word_new_br_11: omit<br>excess<br>moment<br>brisk<br>update<br>network<br>excite<br>kingdom<br>anger<br>once<br>bridge
@@ -194,6 +206,18 @@ bip_39_word_space_6: omit excess moment brisk update network
 bip_39_word_space_7: omit excess moment brisk update network excite
 bip_39_word_space_8: omit excess moment brisk update network excite kingdom
 bip_39_word_space_9: omit excess moment brisk update network excite kingdom anger
+bip_39_word_underscore_1: omit
+bip_39_word_underscore_10: omit_excess_moment_brisk_update_network_excite_kingdom_anger_once
+bip_39_word_underscore_11: omit_excess_moment_brisk_update_network_excite_kingdom_anger_once_bridge
+bip_39_word_underscore_12: omit_excess_moment_brisk_update_network_excite_kingdom_anger_once_bridge_apple
+bip_39_word_underscore_2: omit_excess
+bip_39_word_underscore_3: omit_excess_moment
+bip_39_word_underscore_4: omit_excess_moment_brisk
+bip_39_word_underscore_5: omit_excess_moment_brisk_update
+bip_39_word_underscore_6: omit_excess_moment_brisk_update_network
+bip_39_word_underscore_7: omit_excess_moment_brisk_update_network_excite
+bip_39_word_underscore_8: omit_excess_moment_brisk_update_network_excite_kingdom
+bip_39_word_underscore_9: omit_excess_moment_brisk_update_network_excite_kingdom_anger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

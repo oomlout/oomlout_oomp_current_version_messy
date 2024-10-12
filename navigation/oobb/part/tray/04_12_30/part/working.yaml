@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lake
+bip_39_word_dash_10: lake-curious-device-detect-depend-flock-brand-predict-borrow-lion
+bip_39_word_dash_11: lake-curious-device-detect-depend-flock-brand-predict-borrow-lion-hold
+bip_39_word_dash_12: lake-curious-device-detect-depend-flock-brand-predict-borrow-lion-hold-ask
+bip_39_word_dash_2: lake-curious
+bip_39_word_dash_3: lake-curious-device
+bip_39_word_dash_4: lake-curious-device-detect
+bip_39_word_dash_5: lake-curious-device-detect-depend
+bip_39_word_dash_6: lake-curious-device-detect-depend-flock
+bip_39_word_dash_7: lake-curious-device-detect-depend-flock-brand
+bip_39_word_dash_8: lake-curious-device-detect-depend-flock-brand-predict
+bip_39_word_dash_9: lake-curious-device-detect-depend-flock-brand-predict-borrow
 bip_39_word_new_br_1: lake
 bip_39_word_new_br_10: lake<br>curious<br>device<br>detect<br>depend<br>flock<br>brand<br>predict<br>borrow<br>lion
 bip_39_word_new_br_11: lake<br>curious<br>device<br>detect<br>depend<br>flock<br>brand<br>predict<br>borrow<br>lion<br>hold
@@ -194,6 +206,18 @@ bip_39_word_space_6: lake curious device detect depend flock
 bip_39_word_space_7: lake curious device detect depend flock brand
 bip_39_word_space_8: lake curious device detect depend flock brand predict
 bip_39_word_space_9: lake curious device detect depend flock brand predict borrow
+bip_39_word_underscore_1: lake
+bip_39_word_underscore_10: lake_curious_device_detect_depend_flock_brand_predict_borrow_lion
+bip_39_word_underscore_11: lake_curious_device_detect_depend_flock_brand_predict_borrow_lion_hold
+bip_39_word_underscore_12: lake_curious_device_detect_depend_flock_brand_predict_borrow_lion_hold_ask
+bip_39_word_underscore_2: lake_curious
+bip_39_word_underscore_3: lake_curious_device
+bip_39_word_underscore_4: lake_curious_device_detect
+bip_39_word_underscore_5: lake_curious_device_detect_depend
+bip_39_word_underscore_6: lake_curious_device_detect_depend_flock
+bip_39_word_underscore_7: lake_curious_device_detect_depend_flock_brand
+bip_39_word_underscore_8: lake_curious_device_detect_depend_flock_brand_predict
+bip_39_word_underscore_9: lake_curious_device_detect_depend_flock_brand_predict_borrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

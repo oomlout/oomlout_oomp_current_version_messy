@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cart |  
+| bip_39_word_dash_10 | cart-arm-stumble-inquiry-senior-confirm-inherit-trash-fever-great |  
+| bip_39_word_dash_11 | cart-arm-stumble-inquiry-senior-confirm-inherit-trash-fever-great-rookie |  
+| bip_39_word_dash_12 | cart-arm-stumble-inquiry-senior-confirm-inherit-trash-fever-great-rookie-all |  
+| bip_39_word_dash_2 | cart-arm |  
+| bip_39_word_dash_3 | cart-arm-stumble |  
+| bip_39_word_dash_4 | cart-arm-stumble-inquiry |  
+| bip_39_word_dash_5 | cart-arm-stumble-inquiry-senior |  
+| bip_39_word_dash_6 | cart-arm-stumble-inquiry-senior-confirm |  
+| bip_39_word_dash_7 | cart-arm-stumble-inquiry-senior-confirm-inherit |  
+| bip_39_word_dash_8 | cart-arm-stumble-inquiry-senior-confirm-inherit-trash |  
+| bip_39_word_dash_9 | cart-arm-stumble-inquiry-senior-confirm-inherit-trash-fever |  
 | bip_39_word_new_br_1 | cart |  
 | bip_39_word_new_br_10 | cart<br>arm<br>stumble<br>inquiry<br>senior<br>confirm<br>inherit<br>trash<br>fever<br>great |  
 | bip_39_word_new_br_11 | cart<br>arm<br>stumble<br>inquiry<br>senior<br>confirm<br>inherit<br>trash<br>fever<br>great<br>rookie |  
@@ -147,6 +159,18 @@ fever |
 | bip_39_word_space_7 | cart arm stumble inquiry senior confirm inherit |  
 | bip_39_word_space_8 | cart arm stumble inquiry senior confirm inherit trash |  
 | bip_39_word_space_9 | cart arm stumble inquiry senior confirm inherit trash fever |  
+| bip_39_word_underscore_1 | cart |  
+| bip_39_word_underscore_10 | cart_arm_stumble_inquiry_senior_confirm_inherit_trash_fever_great |  
+| bip_39_word_underscore_11 | cart_arm_stumble_inquiry_senior_confirm_inherit_trash_fever_great_rookie |  
+| bip_39_word_underscore_12 | cart_arm_stumble_inquiry_senior_confirm_inherit_trash_fever_great_rookie_all |  
+| bip_39_word_underscore_2 | cart_arm |  
+| bip_39_word_underscore_3 | cart_arm_stumble |  
+| bip_39_word_underscore_4 | cart_arm_stumble_inquiry |  
+| bip_39_word_underscore_5 | cart_arm_stumble_inquiry_senior |  
+| bip_39_word_underscore_6 | cart_arm_stumble_inquiry_senior_confirm |  
+| bip_39_word_underscore_7 | cart_arm_stumble_inquiry_senior_confirm_inherit |  
+| bip_39_word_underscore_8 | cart_arm_stumble_inquiry_senior_confirm_inherit_trash |  
+| bip_39_word_underscore_9 | cart_arm_stumble_inquiry_senior_confirm_inherit_trash_fever |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

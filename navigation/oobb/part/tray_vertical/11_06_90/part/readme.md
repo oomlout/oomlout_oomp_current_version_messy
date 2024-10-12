@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | check |  
+| bip_39_word_dash_10 | check-ignore-fiber-quiz-various-gap-inject-casino-kick-surge |  
+| bip_39_word_dash_11 | check-ignore-fiber-quiz-various-gap-inject-casino-kick-surge-peasant |  
+| bip_39_word_dash_12 | check-ignore-fiber-quiz-various-gap-inject-casino-kick-surge-peasant-auto |  
+| bip_39_word_dash_2 | check-ignore |  
+| bip_39_word_dash_3 | check-ignore-fiber |  
+| bip_39_word_dash_4 | check-ignore-fiber-quiz |  
+| bip_39_word_dash_5 | check-ignore-fiber-quiz-various |  
+| bip_39_word_dash_6 | check-ignore-fiber-quiz-various-gap |  
+| bip_39_word_dash_7 | check-ignore-fiber-quiz-various-gap-inject |  
+| bip_39_word_dash_8 | check-ignore-fiber-quiz-various-gap-inject-casino |  
+| bip_39_word_dash_9 | check-ignore-fiber-quiz-various-gap-inject-casino-kick |  
 | bip_39_word_new_br_1 | check |  
 | bip_39_word_new_br_10 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge |  
 | bip_39_word_new_br_11 | check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge<br>peasant |  
@@ -147,6 +159,18 @@ kick |
 | bip_39_word_space_7 | check ignore fiber quiz various gap inject |  
 | bip_39_word_space_8 | check ignore fiber quiz various gap inject casino |  
 | bip_39_word_space_9 | check ignore fiber quiz various gap inject casino kick |  
+| bip_39_word_underscore_1 | check |  
+| bip_39_word_underscore_10 | check_ignore_fiber_quiz_various_gap_inject_casino_kick_surge |  
+| bip_39_word_underscore_11 | check_ignore_fiber_quiz_various_gap_inject_casino_kick_surge_peasant |  
+| bip_39_word_underscore_12 | check_ignore_fiber_quiz_various_gap_inject_casino_kick_surge_peasant_auto |  
+| bip_39_word_underscore_2 | check_ignore |  
+| bip_39_word_underscore_3 | check_ignore_fiber |  
+| bip_39_word_underscore_4 | check_ignore_fiber_quiz |  
+| bip_39_word_underscore_5 | check_ignore_fiber_quiz_various |  
+| bip_39_word_underscore_6 | check_ignore_fiber_quiz_various_gap |  
+| bip_39_word_underscore_7 | check_ignore_fiber_quiz_various_gap_inject |  
+| bip_39_word_underscore_8 | check_ignore_fiber_quiz_various_gap_inject_casino |  
+| bip_39_word_underscore_9 | check_ignore_fiber_quiz_various_gap_inject_casino_kick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

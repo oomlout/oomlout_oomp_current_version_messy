@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | absent |  
+| bip_39_word_dash_10 | absent-net-inject-valley-stamp-kiss-basket-glass-chase-monitor |  
+| bip_39_word_dash_11 | absent-net-inject-valley-stamp-kiss-basket-glass-chase-monitor-decline |  
+| bip_39_word_dash_12 | absent-net-inject-valley-stamp-kiss-basket-glass-chase-monitor-decline-ankle |  
+| bip_39_word_dash_2 | absent-net |  
+| bip_39_word_dash_3 | absent-net-inject |  
+| bip_39_word_dash_4 | absent-net-inject-valley |  
+| bip_39_word_dash_5 | absent-net-inject-valley-stamp |  
+| bip_39_word_dash_6 | absent-net-inject-valley-stamp-kiss |  
+| bip_39_word_dash_7 | absent-net-inject-valley-stamp-kiss-basket |  
+| bip_39_word_dash_8 | absent-net-inject-valley-stamp-kiss-basket-glass |  
+| bip_39_word_dash_9 | absent-net-inject-valley-stamp-kiss-basket-glass-chase |  
 | bip_39_word_new_br_1 | absent |  
 | bip_39_word_new_br_10 | absent<br>net<br>inject<br>valley<br>stamp<br>kiss<br>basket<br>glass<br>chase<br>monitor |  
 | bip_39_word_new_br_11 | absent<br>net<br>inject<br>valley<br>stamp<br>kiss<br>basket<br>glass<br>chase<br>monitor<br>decline |  
@@ -147,6 +159,18 @@ chase |
 | bip_39_word_space_7 | absent net inject valley stamp kiss basket |  
 | bip_39_word_space_8 | absent net inject valley stamp kiss basket glass |  
 | bip_39_word_space_9 | absent net inject valley stamp kiss basket glass chase |  
+| bip_39_word_underscore_1 | absent |  
+| bip_39_word_underscore_10 | absent_net_inject_valley_stamp_kiss_basket_glass_chase_monitor |  
+| bip_39_word_underscore_11 | absent_net_inject_valley_stamp_kiss_basket_glass_chase_monitor_decline |  
+| bip_39_word_underscore_12 | absent_net_inject_valley_stamp_kiss_basket_glass_chase_monitor_decline_ankle |  
+| bip_39_word_underscore_2 | absent_net |  
+| bip_39_word_underscore_3 | absent_net_inject |  
+| bip_39_word_underscore_4 | absent_net_inject_valley |  
+| bip_39_word_underscore_5 | absent_net_inject_valley_stamp |  
+| bip_39_word_underscore_6 | absent_net_inject_valley_stamp_kiss |  
+| bip_39_word_underscore_7 | absent_net_inject_valley_stamp_kiss_basket |  
+| bip_39_word_underscore_8 | absent_net_inject_valley_stamp_kiss_basket_glass |  
+| bip_39_word_underscore_9 | absent_net_inject_valley_stamp_kiss_basket_glass_chase |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

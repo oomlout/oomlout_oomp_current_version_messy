@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mom |  
+| bip_39_word_dash_10 | mom-cake-photo-cousin-clay-together-spider-maximum-word-ship |  
+| bip_39_word_dash_11 | mom-cake-photo-cousin-clay-together-spider-maximum-word-ship-damage |  
+| bip_39_word_dash_12 | mom-cake-photo-cousin-clay-together-spider-maximum-word-ship-damage-alcohol |  
+| bip_39_word_dash_2 | mom-cake |  
+| bip_39_word_dash_3 | mom-cake-photo |  
+| bip_39_word_dash_4 | mom-cake-photo-cousin |  
+| bip_39_word_dash_5 | mom-cake-photo-cousin-clay |  
+| bip_39_word_dash_6 | mom-cake-photo-cousin-clay-together |  
+| bip_39_word_dash_7 | mom-cake-photo-cousin-clay-together-spider |  
+| bip_39_word_dash_8 | mom-cake-photo-cousin-clay-together-spider-maximum |  
+| bip_39_word_dash_9 | mom-cake-photo-cousin-clay-together-spider-maximum-word |  
 | bip_39_word_new_br_1 | mom |  
 | bip_39_word_new_br_10 | mom<br>cake<br>photo<br>cousin<br>clay<br>together<br>spider<br>maximum<br>word<br>ship |  
 | bip_39_word_new_br_11 | mom<br>cake<br>photo<br>cousin<br>clay<br>together<br>spider<br>maximum<br>word<br>ship<br>damage |  
@@ -147,6 +159,18 @@ word |
 | bip_39_word_space_7 | mom cake photo cousin clay together spider |  
 | bip_39_word_space_8 | mom cake photo cousin clay together spider maximum |  
 | bip_39_word_space_9 | mom cake photo cousin clay together spider maximum word |  
+| bip_39_word_underscore_1 | mom |  
+| bip_39_word_underscore_10 | mom_cake_photo_cousin_clay_together_spider_maximum_word_ship |  
+| bip_39_word_underscore_11 | mom_cake_photo_cousin_clay_together_spider_maximum_word_ship_damage |  
+| bip_39_word_underscore_12 | mom_cake_photo_cousin_clay_together_spider_maximum_word_ship_damage_alcohol |  
+| bip_39_word_underscore_2 | mom_cake |  
+| bip_39_word_underscore_3 | mom_cake_photo |  
+| bip_39_word_underscore_4 | mom_cake_photo_cousin |  
+| bip_39_word_underscore_5 | mom_cake_photo_cousin_clay |  
+| bip_39_word_underscore_6 | mom_cake_photo_cousin_clay_together |  
+| bip_39_word_underscore_7 | mom_cake_photo_cousin_clay_together_spider |  
+| bip_39_word_underscore_8 | mom_cake_photo_cousin_clay_together_spider_maximum |  
+| bip_39_word_underscore_9 | mom_cake_photo_cousin_clay_together_spider_maximum_word |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

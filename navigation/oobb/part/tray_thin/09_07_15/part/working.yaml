@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tube
+bip_39_word_dash_10: tube-involve-arctic-give-blanket-garment-unusual-tip-arrest-scrub
+bip_39_word_dash_11: tube-involve-arctic-give-blanket-garment-unusual-tip-arrest-scrub-tornado
+bip_39_word_dash_12: tube-involve-arctic-give-blanket-garment-unusual-tip-arrest-scrub-tornado-anxiety
+bip_39_word_dash_2: tube-involve
+bip_39_word_dash_3: tube-involve-arctic
+bip_39_word_dash_4: tube-involve-arctic-give
+bip_39_word_dash_5: tube-involve-arctic-give-blanket
+bip_39_word_dash_6: tube-involve-arctic-give-blanket-garment
+bip_39_word_dash_7: tube-involve-arctic-give-blanket-garment-unusual
+bip_39_word_dash_8: tube-involve-arctic-give-blanket-garment-unusual-tip
+bip_39_word_dash_9: tube-involve-arctic-give-blanket-garment-unusual-tip-arrest
 bip_39_word_new_br_1: tube
 bip_39_word_new_br_10: tube<br>involve<br>arctic<br>give<br>blanket<br>garment<br>unusual<br>tip<br>arrest<br>scrub
 bip_39_word_new_br_11: tube<br>involve<br>arctic<br>give<br>blanket<br>garment<br>unusual<br>tip<br>arrest<br>scrub<br>tornado
@@ -194,6 +206,18 @@ bip_39_word_space_6: tube involve arctic give blanket garment
 bip_39_word_space_7: tube involve arctic give blanket garment unusual
 bip_39_word_space_8: tube involve arctic give blanket garment unusual tip
 bip_39_word_space_9: tube involve arctic give blanket garment unusual tip arrest
+bip_39_word_underscore_1: tube
+bip_39_word_underscore_10: tube_involve_arctic_give_blanket_garment_unusual_tip_arrest_scrub
+bip_39_word_underscore_11: tube_involve_arctic_give_blanket_garment_unusual_tip_arrest_scrub_tornado
+bip_39_word_underscore_12: tube_involve_arctic_give_blanket_garment_unusual_tip_arrest_scrub_tornado_anxiety
+bip_39_word_underscore_2: tube_involve
+bip_39_word_underscore_3: tube_involve_arctic
+bip_39_word_underscore_4: tube_involve_arctic_give
+bip_39_word_underscore_5: tube_involve_arctic_give_blanket
+bip_39_word_underscore_6: tube_involve_arctic_give_blanket_garment
+bip_39_word_underscore_7: tube_involve_arctic_give_blanket_garment_unusual
+bip_39_word_underscore_8: tube_involve_arctic_give_blanket_garment_unusual_tip
+bip_39_word_underscore_9: tube_involve_arctic_give_blanket_garment_unusual_tip_arrest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

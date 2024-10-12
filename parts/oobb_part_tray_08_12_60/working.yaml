@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hobby
+bip_39_word_dash_10: hobby-prosper-sail-practice-wire-envelope-radio-output-wife-grocery
+bip_39_word_dash_11: hobby-prosper-sail-practice-wire-envelope-radio-output-wife-grocery-spice
+bip_39_word_dash_12: hobby-prosper-sail-practice-wire-envelope-radio-output-wife-grocery-spice-access
+bip_39_word_dash_2: hobby-prosper
+bip_39_word_dash_3: hobby-prosper-sail
+bip_39_word_dash_4: hobby-prosper-sail-practice
+bip_39_word_dash_5: hobby-prosper-sail-practice-wire
+bip_39_word_dash_6: hobby-prosper-sail-practice-wire-envelope
+bip_39_word_dash_7: hobby-prosper-sail-practice-wire-envelope-radio
+bip_39_word_dash_8: hobby-prosper-sail-practice-wire-envelope-radio-output
+bip_39_word_dash_9: hobby-prosper-sail-practice-wire-envelope-radio-output-wife
 bip_39_word_new_br_1: hobby
 bip_39_word_new_br_10: hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output<br>wife<br>grocery
 bip_39_word_new_br_11: hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output<br>wife<br>grocery<br>spice
@@ -194,6 +206,18 @@ bip_39_word_space_6: hobby prosper sail practice wire envelope
 bip_39_word_space_7: hobby prosper sail practice wire envelope radio
 bip_39_word_space_8: hobby prosper sail practice wire envelope radio output
 bip_39_word_space_9: hobby prosper sail practice wire envelope radio output wife
+bip_39_word_underscore_1: hobby
+bip_39_word_underscore_10: hobby_prosper_sail_practice_wire_envelope_radio_output_wife_grocery
+bip_39_word_underscore_11: hobby_prosper_sail_practice_wire_envelope_radio_output_wife_grocery_spice
+bip_39_word_underscore_12: hobby_prosper_sail_practice_wire_envelope_radio_output_wife_grocery_spice_access
+bip_39_word_underscore_2: hobby_prosper
+bip_39_word_underscore_3: hobby_prosper_sail
+bip_39_word_underscore_4: hobby_prosper_sail_practice
+bip_39_word_underscore_5: hobby_prosper_sail_practice_wire
+bip_39_word_underscore_6: hobby_prosper_sail_practice_wire_envelope
+bip_39_word_underscore_7: hobby_prosper_sail_practice_wire_envelope_radio
+bip_39_word_underscore_8: hobby_prosper_sail_practice_wire_envelope_radio_output
+bip_39_word_underscore_9: hobby_prosper_sail_practice_wire_envelope_radio_output_wife
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

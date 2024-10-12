@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spoon |  
+| bip_39_word_dash_10 | spoon-fiscal-slot-ozone-toddler-clog-wrap-orbit-dignity-tortoise |  
+| bip_39_word_dash_11 | spoon-fiscal-slot-ozone-toddler-clog-wrap-orbit-dignity-tortoise-outer |  
+| bip_39_word_dash_12 | spoon-fiscal-slot-ozone-toddler-clog-wrap-orbit-dignity-tortoise-outer-album |  
+| bip_39_word_dash_2 | spoon-fiscal |  
+| bip_39_word_dash_3 | spoon-fiscal-slot |  
+| bip_39_word_dash_4 | spoon-fiscal-slot-ozone |  
+| bip_39_word_dash_5 | spoon-fiscal-slot-ozone-toddler |  
+| bip_39_word_dash_6 | spoon-fiscal-slot-ozone-toddler-clog |  
+| bip_39_word_dash_7 | spoon-fiscal-slot-ozone-toddler-clog-wrap |  
+| bip_39_word_dash_8 | spoon-fiscal-slot-ozone-toddler-clog-wrap-orbit |  
+| bip_39_word_dash_9 | spoon-fiscal-slot-ozone-toddler-clog-wrap-orbit-dignity |  
 | bip_39_word_new_br_1 | spoon |  
 | bip_39_word_new_br_10 | spoon<br>fiscal<br>slot<br>ozone<br>toddler<br>clog<br>wrap<br>orbit<br>dignity<br>tortoise |  
 | bip_39_word_new_br_11 | spoon<br>fiscal<br>slot<br>ozone<br>toddler<br>clog<br>wrap<br>orbit<br>dignity<br>tortoise<br>outer |  
@@ -147,6 +159,18 @@ dignity |
 | bip_39_word_space_7 | spoon fiscal slot ozone toddler clog wrap |  
 | bip_39_word_space_8 | spoon fiscal slot ozone toddler clog wrap orbit |  
 | bip_39_word_space_9 | spoon fiscal slot ozone toddler clog wrap orbit dignity |  
+| bip_39_word_underscore_1 | spoon |  
+| bip_39_word_underscore_10 | spoon_fiscal_slot_ozone_toddler_clog_wrap_orbit_dignity_tortoise |  
+| bip_39_word_underscore_11 | spoon_fiscal_slot_ozone_toddler_clog_wrap_orbit_dignity_tortoise_outer |  
+| bip_39_word_underscore_12 | spoon_fiscal_slot_ozone_toddler_clog_wrap_orbit_dignity_tortoise_outer_album |  
+| bip_39_word_underscore_2 | spoon_fiscal |  
+| bip_39_word_underscore_3 | spoon_fiscal_slot |  
+| bip_39_word_underscore_4 | spoon_fiscal_slot_ozone |  
+| bip_39_word_underscore_5 | spoon_fiscal_slot_ozone_toddler |  
+| bip_39_word_underscore_6 | spoon_fiscal_slot_ozone_toddler_clog |  
+| bip_39_word_underscore_7 | spoon_fiscal_slot_ozone_toddler_clog_wrap |  
+| bip_39_word_underscore_8 | spoon_fiscal_slot_ozone_toddler_clog_wrap_orbit |  
+| bip_39_word_underscore_9 | spoon_fiscal_slot_ozone_toddler_clog_wrap_orbit_dignity |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

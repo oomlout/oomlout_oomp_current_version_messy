@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crouch |  
+| bip_39_word_dash_10 | crouch-wheel-remain-release-enrich-wire-post-advice-shove-heart |  
+| bip_39_word_dash_11 | crouch-wheel-remain-release-enrich-wire-post-advice-shove-heart-various |  
+| bip_39_word_dash_12 | crouch-wheel-remain-release-enrich-wire-post-advice-shove-heart-various-access |  
+| bip_39_word_dash_2 | crouch-wheel |  
+| bip_39_word_dash_3 | crouch-wheel-remain |  
+| bip_39_word_dash_4 | crouch-wheel-remain-release |  
+| bip_39_word_dash_5 | crouch-wheel-remain-release-enrich |  
+| bip_39_word_dash_6 | crouch-wheel-remain-release-enrich-wire |  
+| bip_39_word_dash_7 | crouch-wheel-remain-release-enrich-wire-post |  
+| bip_39_word_dash_8 | crouch-wheel-remain-release-enrich-wire-post-advice |  
+| bip_39_word_dash_9 | crouch-wheel-remain-release-enrich-wire-post-advice-shove |  
 | bip_39_word_new_br_1 | crouch |  
 | bip_39_word_new_br_10 | crouch<br>wheel<br>remain<br>release<br>enrich<br>wire<br>post<br>advice<br>shove<br>heart |  
 | bip_39_word_new_br_11 | crouch<br>wheel<br>remain<br>release<br>enrich<br>wire<br>post<br>advice<br>shove<br>heart<br>various |  
@@ -147,6 +159,18 @@ shove |
 | bip_39_word_space_7 | crouch wheel remain release enrich wire post |  
 | bip_39_word_space_8 | crouch wheel remain release enrich wire post advice |  
 | bip_39_word_space_9 | crouch wheel remain release enrich wire post advice shove |  
+| bip_39_word_underscore_1 | crouch |  
+| bip_39_word_underscore_10 | crouch_wheel_remain_release_enrich_wire_post_advice_shove_heart |  
+| bip_39_word_underscore_11 | crouch_wheel_remain_release_enrich_wire_post_advice_shove_heart_various |  
+| bip_39_word_underscore_12 | crouch_wheel_remain_release_enrich_wire_post_advice_shove_heart_various_access |  
+| bip_39_word_underscore_2 | crouch_wheel |  
+| bip_39_word_underscore_3 | crouch_wheel_remain |  
+| bip_39_word_underscore_4 | crouch_wheel_remain_release |  
+| bip_39_word_underscore_5 | crouch_wheel_remain_release_enrich |  
+| bip_39_word_underscore_6 | crouch_wheel_remain_release_enrich_wire |  
+| bip_39_word_underscore_7 | crouch_wheel_remain_release_enrich_wire_post |  
+| bip_39_word_underscore_8 | crouch_wheel_remain_release_enrich_wire_post_advice |  
+| bip_39_word_underscore_9 | crouch_wheel_remain_release_enrich_wire_post_advice_shove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

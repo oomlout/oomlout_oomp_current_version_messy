@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | urge |  
+| bip_39_word_dash_10 | urge-measure-iron-winter-current-yard-bargain-piece-mix-shield |  
+| bip_39_word_dash_11 | urge-measure-iron-winter-current-yard-bargain-piece-mix-shield-good |  
+| bip_39_word_dash_12 | urge-measure-iron-winter-current-yard-bargain-piece-mix-shield-good-absorb |  
+| bip_39_word_dash_2 | urge-measure |  
+| bip_39_word_dash_3 | urge-measure-iron |  
+| bip_39_word_dash_4 | urge-measure-iron-winter |  
+| bip_39_word_dash_5 | urge-measure-iron-winter-current |  
+| bip_39_word_dash_6 | urge-measure-iron-winter-current-yard |  
+| bip_39_word_dash_7 | urge-measure-iron-winter-current-yard-bargain |  
+| bip_39_word_dash_8 | urge-measure-iron-winter-current-yard-bargain-piece |  
+| bip_39_word_dash_9 | urge-measure-iron-winter-current-yard-bargain-piece-mix |  
 | bip_39_word_new_br_1 | urge |  
 | bip_39_word_new_br_10 | urge<br>measure<br>iron<br>winter<br>current<br>yard<br>bargain<br>piece<br>mix<br>shield |  
 | bip_39_word_new_br_11 | urge<br>measure<br>iron<br>winter<br>current<br>yard<br>bargain<br>piece<br>mix<br>shield<br>good |  
@@ -147,6 +159,18 @@ mix |
 | bip_39_word_space_7 | urge measure iron winter current yard bargain |  
 | bip_39_word_space_8 | urge measure iron winter current yard bargain piece |  
 | bip_39_word_space_9 | urge measure iron winter current yard bargain piece mix |  
+| bip_39_word_underscore_1 | urge |  
+| bip_39_word_underscore_10 | urge_measure_iron_winter_current_yard_bargain_piece_mix_shield |  
+| bip_39_word_underscore_11 | urge_measure_iron_winter_current_yard_bargain_piece_mix_shield_good |  
+| bip_39_word_underscore_12 | urge_measure_iron_winter_current_yard_bargain_piece_mix_shield_good_absorb |  
+| bip_39_word_underscore_2 | urge_measure |  
+| bip_39_word_underscore_3 | urge_measure_iron |  
+| bip_39_word_underscore_4 | urge_measure_iron_winter |  
+| bip_39_word_underscore_5 | urge_measure_iron_winter_current |  
+| bip_39_word_underscore_6 | urge_measure_iron_winter_current_yard |  
+| bip_39_word_underscore_7 | urge_measure_iron_winter_current_yard_bargain |  
+| bip_39_word_underscore_8 | urge_measure_iron_winter_current_yard_bargain_piece |  
+| bip_39_word_underscore_9 | urge_measure_iron_winter_current_yard_bargain_piece_mix |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

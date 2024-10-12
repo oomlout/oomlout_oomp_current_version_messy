@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stereo |  
+| bip_39_word_dash_10 | stereo-door-steak-hover-lunch-priority-december-iron-affair-rice |  
+| bip_39_word_dash_11 | stereo-door-steak-hover-lunch-priority-december-iron-affair-rice-grain |  
+| bip_39_word_dash_12 | stereo-door-steak-hover-lunch-priority-december-iron-affair-rice-grain-alpha |  
+| bip_39_word_dash_2 | stereo-door |  
+| bip_39_word_dash_3 | stereo-door-steak |  
+| bip_39_word_dash_4 | stereo-door-steak-hover |  
+| bip_39_word_dash_5 | stereo-door-steak-hover-lunch |  
+| bip_39_word_dash_6 | stereo-door-steak-hover-lunch-priority |  
+| bip_39_word_dash_7 | stereo-door-steak-hover-lunch-priority-december |  
+| bip_39_word_dash_8 | stereo-door-steak-hover-lunch-priority-december-iron |  
+| bip_39_word_dash_9 | stereo-door-steak-hover-lunch-priority-december-iron-affair |  
 | bip_39_word_new_br_1 | stereo |  
 | bip_39_word_new_br_10 | stereo<br>door<br>steak<br>hover<br>lunch<br>priority<br>december<br>iron<br>affair<br>rice |  
 | bip_39_word_new_br_11 | stereo<br>door<br>steak<br>hover<br>lunch<br>priority<br>december<br>iron<br>affair<br>rice<br>grain |  
@@ -147,6 +159,18 @@ affair |
 | bip_39_word_space_7 | stereo door steak hover lunch priority december |  
 | bip_39_word_space_8 | stereo door steak hover lunch priority december iron |  
 | bip_39_word_space_9 | stereo door steak hover lunch priority december iron affair |  
+| bip_39_word_underscore_1 | stereo |  
+| bip_39_word_underscore_10 | stereo_door_steak_hover_lunch_priority_december_iron_affair_rice |  
+| bip_39_word_underscore_11 | stereo_door_steak_hover_lunch_priority_december_iron_affair_rice_grain |  
+| bip_39_word_underscore_12 | stereo_door_steak_hover_lunch_priority_december_iron_affair_rice_grain_alpha |  
+| bip_39_word_underscore_2 | stereo_door |  
+| bip_39_word_underscore_3 | stereo_door_steak |  
+| bip_39_word_underscore_4 | stereo_door_steak_hover |  
+| bip_39_word_underscore_5 | stereo_door_steak_hover_lunch |  
+| bip_39_word_underscore_6 | stereo_door_steak_hover_lunch_priority |  
+| bip_39_word_underscore_7 | stereo_door_steak_hover_lunch_priority_december |  
+| bip_39_word_underscore_8 | stereo_door_steak_hover_lunch_priority_december_iron |  
+| bip_39_word_underscore_9 | stereo_door_steak_hover_lunch_priority_december_iron_affair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

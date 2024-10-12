@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | still |  
+| bip_39_word_dash_10 | still-lock-area-replace-swamp-victory-good-polar-harvest-agent |  
+| bip_39_word_dash_11 | still-lock-area-replace-swamp-victory-good-polar-harvest-agent-wrestle |  
+| bip_39_word_dash_12 | still-lock-area-replace-swamp-victory-good-polar-harvest-agent-wrestle-accident |  
+| bip_39_word_dash_2 | still-lock |  
+| bip_39_word_dash_3 | still-lock-area |  
+| bip_39_word_dash_4 | still-lock-area-replace |  
+| bip_39_word_dash_5 | still-lock-area-replace-swamp |  
+| bip_39_word_dash_6 | still-lock-area-replace-swamp-victory |  
+| bip_39_word_dash_7 | still-lock-area-replace-swamp-victory-good |  
+| bip_39_word_dash_8 | still-lock-area-replace-swamp-victory-good-polar |  
+| bip_39_word_dash_9 | still-lock-area-replace-swamp-victory-good-polar-harvest |  
 | bip_39_word_new_br_1 | still |  
 | bip_39_word_new_br_10 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent |  
 | bip_39_word_new_br_11 | still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent<br>wrestle |  
@@ -147,6 +159,18 @@ harvest |
 | bip_39_word_space_7 | still lock area replace swamp victory good |  
 | bip_39_word_space_8 | still lock area replace swamp victory good polar |  
 | bip_39_word_space_9 | still lock area replace swamp victory good polar harvest |  
+| bip_39_word_underscore_1 | still |  
+| bip_39_word_underscore_10 | still_lock_area_replace_swamp_victory_good_polar_harvest_agent |  
+| bip_39_word_underscore_11 | still_lock_area_replace_swamp_victory_good_polar_harvest_agent_wrestle |  
+| bip_39_word_underscore_12 | still_lock_area_replace_swamp_victory_good_polar_harvest_agent_wrestle_accident |  
+| bip_39_word_underscore_2 | still_lock |  
+| bip_39_word_underscore_3 | still_lock_area |  
+| bip_39_word_underscore_4 | still_lock_area_replace |  
+| bip_39_word_underscore_5 | still_lock_area_replace_swamp |  
+| bip_39_word_underscore_6 | still_lock_area_replace_swamp_victory |  
+| bip_39_word_underscore_7 | still_lock_area_replace_swamp_victory_good |  
+| bip_39_word_underscore_8 | still_lock_area_replace_swamp_victory_good_polar |  
+| bip_39_word_underscore_9 | still_lock_area_replace_swamp_victory_good_polar_harvest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: night
+bip_39_word_dash_10: night-spring-problem-fault-such-toward-angle-prize-pumpkin-glad
+bip_39_word_dash_11: night-spring-problem-fault-such-toward-angle-prize-pumpkin-glad-behave
+bip_39_word_dash_12: night-spring-problem-fault-such-toward-angle-prize-pumpkin-glad-behave-assault
+bip_39_word_dash_2: night-spring
+bip_39_word_dash_3: night-spring-problem
+bip_39_word_dash_4: night-spring-problem-fault
+bip_39_word_dash_5: night-spring-problem-fault-such
+bip_39_word_dash_6: night-spring-problem-fault-such-toward
+bip_39_word_dash_7: night-spring-problem-fault-such-toward-angle
+bip_39_word_dash_8: night-spring-problem-fault-such-toward-angle-prize
+bip_39_word_dash_9: night-spring-problem-fault-such-toward-angle-prize-pumpkin
 bip_39_word_new_br_1: night
 bip_39_word_new_br_10: night<br>spring<br>problem<br>fault<br>such<br>toward<br>angle<br>prize<br>pumpkin<br>glad
 bip_39_word_new_br_11: night<br>spring<br>problem<br>fault<br>such<br>toward<br>angle<br>prize<br>pumpkin<br>glad<br>behave
@@ -193,6 +205,18 @@ bip_39_word_space_6: night spring problem fault such toward
 bip_39_word_space_7: night spring problem fault such toward angle
 bip_39_word_space_8: night spring problem fault such toward angle prize
 bip_39_word_space_9: night spring problem fault such toward angle prize pumpkin
+bip_39_word_underscore_1: night
+bip_39_word_underscore_10: night_spring_problem_fault_such_toward_angle_prize_pumpkin_glad
+bip_39_word_underscore_11: night_spring_problem_fault_such_toward_angle_prize_pumpkin_glad_behave
+bip_39_word_underscore_12: night_spring_problem_fault_such_toward_angle_prize_pumpkin_glad_behave_assault
+bip_39_word_underscore_2: night_spring
+bip_39_word_underscore_3: night_spring_problem
+bip_39_word_underscore_4: night_spring_problem_fault
+bip_39_word_underscore_5: night_spring_problem_fault_such
+bip_39_word_underscore_6: night_spring_problem_fault_such_toward
+bip_39_word_underscore_7: night_spring_problem_fault_such_toward_angle
+bip_39_word_underscore_8: night_spring_problem_fault_such_toward_angle_prize
+bip_39_word_underscore_9: night_spring_problem_fault_such_toward_angle_prize_pumpkin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

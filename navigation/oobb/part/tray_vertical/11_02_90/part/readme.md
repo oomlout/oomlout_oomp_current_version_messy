@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | test |  
+| bip_39_word_dash_10 | test-sheriff-enable-hold-reduce-glare-clown-road-eyebrow-view |  
+| bip_39_word_dash_11 | test-sheriff-enable-hold-reduce-glare-clown-road-eyebrow-view-orange |  
+| bip_39_word_dash_12 | test-sheriff-enable-hold-reduce-glare-clown-road-eyebrow-view-orange-artist |  
+| bip_39_word_dash_2 | test-sheriff |  
+| bip_39_word_dash_3 | test-sheriff-enable |  
+| bip_39_word_dash_4 | test-sheriff-enable-hold |  
+| bip_39_word_dash_5 | test-sheriff-enable-hold-reduce |  
+| bip_39_word_dash_6 | test-sheriff-enable-hold-reduce-glare |  
+| bip_39_word_dash_7 | test-sheriff-enable-hold-reduce-glare-clown |  
+| bip_39_word_dash_8 | test-sheriff-enable-hold-reduce-glare-clown-road |  
+| bip_39_word_dash_9 | test-sheriff-enable-hold-reduce-glare-clown-road-eyebrow |  
 | bip_39_word_new_br_1 | test |  
 | bip_39_word_new_br_10 | test<br>sheriff<br>enable<br>hold<br>reduce<br>glare<br>clown<br>road<br>eyebrow<br>view |  
 | bip_39_word_new_br_11 | test<br>sheriff<br>enable<br>hold<br>reduce<br>glare<br>clown<br>road<br>eyebrow<br>view<br>orange |  
@@ -147,6 +159,18 @@ eyebrow |
 | bip_39_word_space_7 | test sheriff enable hold reduce glare clown |  
 | bip_39_word_space_8 | test sheriff enable hold reduce glare clown road |  
 | bip_39_word_space_9 | test sheriff enable hold reduce glare clown road eyebrow |  
+| bip_39_word_underscore_1 | test |  
+| bip_39_word_underscore_10 | test_sheriff_enable_hold_reduce_glare_clown_road_eyebrow_view |  
+| bip_39_word_underscore_11 | test_sheriff_enable_hold_reduce_glare_clown_road_eyebrow_view_orange |  
+| bip_39_word_underscore_12 | test_sheriff_enable_hold_reduce_glare_clown_road_eyebrow_view_orange_artist |  
+| bip_39_word_underscore_2 | test_sheriff |  
+| bip_39_word_underscore_3 | test_sheriff_enable |  
+| bip_39_word_underscore_4 | test_sheriff_enable_hold |  
+| bip_39_word_underscore_5 | test_sheriff_enable_hold_reduce |  
+| bip_39_word_underscore_6 | test_sheriff_enable_hold_reduce_glare |  
+| bip_39_word_underscore_7 | test_sheriff_enable_hold_reduce_glare_clown |  
+| bip_39_word_underscore_8 | test_sheriff_enable_hold_reduce_glare_clown_road |  
+| bip_39_word_underscore_9 | test_sheriff_enable_hold_reduce_glare_clown_road_eyebrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

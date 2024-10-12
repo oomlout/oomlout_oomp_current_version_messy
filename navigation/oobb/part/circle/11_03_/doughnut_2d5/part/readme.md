@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | become |  
+| bip_39_word_dash_10 | become-lizard-chase-admit-shine-tribe-shadow-tribe-zoo-scale |  
+| bip_39_word_dash_11 | become-lizard-chase-admit-shine-tribe-shadow-tribe-zoo-scale-biology |  
+| bip_39_word_dash_12 | become-lizard-chase-admit-shine-tribe-shadow-tribe-zoo-scale-biology-art |  
+| bip_39_word_dash_2 | become-lizard |  
+| bip_39_word_dash_3 | become-lizard-chase |  
+| bip_39_word_dash_4 | become-lizard-chase-admit |  
+| bip_39_word_dash_5 | become-lizard-chase-admit-shine |  
+| bip_39_word_dash_6 | become-lizard-chase-admit-shine-tribe |  
+| bip_39_word_dash_7 | become-lizard-chase-admit-shine-tribe-shadow |  
+| bip_39_word_dash_8 | become-lizard-chase-admit-shine-tribe-shadow-tribe |  
+| bip_39_word_dash_9 | become-lizard-chase-admit-shine-tribe-shadow-tribe-zoo |  
 | bip_39_word_new_br_1 | become |  
 | bip_39_word_new_br_10 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe<br>zoo<br>scale |  
 | bip_39_word_new_br_11 | become<br>lizard<br>chase<br>admit<br>shine<br>tribe<br>shadow<br>tribe<br>zoo<br>scale<br>biology |  
@@ -147,6 +159,18 @@ zoo |
 | bip_39_word_space_7 | become lizard chase admit shine tribe shadow |  
 | bip_39_word_space_8 | become lizard chase admit shine tribe shadow tribe |  
 | bip_39_word_space_9 | become lizard chase admit shine tribe shadow tribe zoo |  
+| bip_39_word_underscore_1 | become |  
+| bip_39_word_underscore_10 | become_lizard_chase_admit_shine_tribe_shadow_tribe_zoo_scale |  
+| bip_39_word_underscore_11 | become_lizard_chase_admit_shine_tribe_shadow_tribe_zoo_scale_biology |  
+| bip_39_word_underscore_12 | become_lizard_chase_admit_shine_tribe_shadow_tribe_zoo_scale_biology_art |  
+| bip_39_word_underscore_2 | become_lizard |  
+| bip_39_word_underscore_3 | become_lizard_chase |  
+| bip_39_word_underscore_4 | become_lizard_chase_admit |  
+| bip_39_word_underscore_5 | become_lizard_chase_admit_shine |  
+| bip_39_word_underscore_6 | become_lizard_chase_admit_shine_tribe |  
+| bip_39_word_underscore_7 | become_lizard_chase_admit_shine_tribe_shadow |  
+| bip_39_word_underscore_8 | become_lizard_chase_admit_shine_tribe_shadow_tribe |  
+| bip_39_word_underscore_9 | become_lizard_chase_admit_shine_tribe_shadow_tribe_zoo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

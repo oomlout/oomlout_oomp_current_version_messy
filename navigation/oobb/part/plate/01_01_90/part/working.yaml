@@ -1,3 +1,15 @@
+bip_39_word_dash_1: despair
+bip_39_word_dash_10: despair-sound-sponsor-smooth-cliff-animal-that-palace-village-hedgehog
+bip_39_word_dash_11: despair-sound-sponsor-smooth-cliff-animal-that-palace-village-hedgehog-neutral
+bip_39_word_dash_12: despair-sound-sponsor-smooth-cliff-animal-that-palace-village-hedgehog-neutral-acquire
+bip_39_word_dash_2: despair-sound
+bip_39_word_dash_3: despair-sound-sponsor
+bip_39_word_dash_4: despair-sound-sponsor-smooth
+bip_39_word_dash_5: despair-sound-sponsor-smooth-cliff
+bip_39_word_dash_6: despair-sound-sponsor-smooth-cliff-animal
+bip_39_word_dash_7: despair-sound-sponsor-smooth-cliff-animal-that
+bip_39_word_dash_8: despair-sound-sponsor-smooth-cliff-animal-that-palace
+bip_39_word_dash_9: despair-sound-sponsor-smooth-cliff-animal-that-palace-village
 bip_39_word_new_br_1: despair
 bip_39_word_new_br_10: despair<br>sound<br>sponsor<br>smooth<br>cliff<br>animal<br>that<br>palace<br>village<br>hedgehog
 bip_39_word_new_br_11: despair<br>sound<br>sponsor<br>smooth<br>cliff<br>animal<br>that<br>palace<br>village<br>hedgehog<br>neutral
@@ -194,6 +206,18 @@ bip_39_word_space_6: despair sound sponsor smooth cliff animal
 bip_39_word_space_7: despair sound sponsor smooth cliff animal that
 bip_39_word_space_8: despair sound sponsor smooth cliff animal that palace
 bip_39_word_space_9: despair sound sponsor smooth cliff animal that palace village
+bip_39_word_underscore_1: despair
+bip_39_word_underscore_10: despair_sound_sponsor_smooth_cliff_animal_that_palace_village_hedgehog
+bip_39_word_underscore_11: despair_sound_sponsor_smooth_cliff_animal_that_palace_village_hedgehog_neutral
+bip_39_word_underscore_12: despair_sound_sponsor_smooth_cliff_animal_that_palace_village_hedgehog_neutral_acquire
+bip_39_word_underscore_2: despair_sound
+bip_39_word_underscore_3: despair_sound_sponsor
+bip_39_word_underscore_4: despair_sound_sponsor_smooth
+bip_39_word_underscore_5: despair_sound_sponsor_smooth_cliff
+bip_39_word_underscore_6: despair_sound_sponsor_smooth_cliff_animal
+bip_39_word_underscore_7: despair_sound_sponsor_smooth_cliff_animal_that
+bip_39_word_underscore_8: despair_sound_sponsor_smooth_cliff_animal_that_palace
+bip_39_word_underscore_9: despair_sound_sponsor_smooth_cliff_animal_that_palace_village
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

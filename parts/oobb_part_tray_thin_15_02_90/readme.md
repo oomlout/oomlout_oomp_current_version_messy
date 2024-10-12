@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brick |  
+| bip_39_word_dash_10 | brick-truth-purity-gauge-steel-solar-entire-memory-machine-ahead |  
+| bip_39_word_dash_11 | brick-truth-purity-gauge-steel-solar-entire-memory-machine-ahead-dune |  
+| bip_39_word_dash_12 | brick-truth-purity-gauge-steel-solar-entire-memory-machine-ahead-dune-actress |  
+| bip_39_word_dash_2 | brick-truth |  
+| bip_39_word_dash_3 | brick-truth-purity |  
+| bip_39_word_dash_4 | brick-truth-purity-gauge |  
+| bip_39_word_dash_5 | brick-truth-purity-gauge-steel |  
+| bip_39_word_dash_6 | brick-truth-purity-gauge-steel-solar |  
+| bip_39_word_dash_7 | brick-truth-purity-gauge-steel-solar-entire |  
+| bip_39_word_dash_8 | brick-truth-purity-gauge-steel-solar-entire-memory |  
+| bip_39_word_dash_9 | brick-truth-purity-gauge-steel-solar-entire-memory-machine |  
 | bip_39_word_new_br_1 | brick |  
 | bip_39_word_new_br_10 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead |  
 | bip_39_word_new_br_11 | brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead<br>dune |  
@@ -147,6 +159,18 @@ machine |
 | bip_39_word_space_7 | brick truth purity gauge steel solar entire |  
 | bip_39_word_space_8 | brick truth purity gauge steel solar entire memory |  
 | bip_39_word_space_9 | brick truth purity gauge steel solar entire memory machine |  
+| bip_39_word_underscore_1 | brick |  
+| bip_39_word_underscore_10 | brick_truth_purity_gauge_steel_solar_entire_memory_machine_ahead |  
+| bip_39_word_underscore_11 | brick_truth_purity_gauge_steel_solar_entire_memory_machine_ahead_dune |  
+| bip_39_word_underscore_12 | brick_truth_purity_gauge_steel_solar_entire_memory_machine_ahead_dune_actress |  
+| bip_39_word_underscore_2 | brick_truth |  
+| bip_39_word_underscore_3 | brick_truth_purity |  
+| bip_39_word_underscore_4 | brick_truth_purity_gauge |  
+| bip_39_word_underscore_5 | brick_truth_purity_gauge_steel |  
+| bip_39_word_underscore_6 | brick_truth_purity_gauge_steel_solar |  
+| bip_39_word_underscore_7 | brick_truth_purity_gauge_steel_solar_entire |  
+| bip_39_word_underscore_8 | brick_truth_purity_gauge_steel_solar_entire_memory |  
+| bip_39_word_underscore_9 | brick_truth_purity_gauge_steel_solar_entire_memory_machine |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

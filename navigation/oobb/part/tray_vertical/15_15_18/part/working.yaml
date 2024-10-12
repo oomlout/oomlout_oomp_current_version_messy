@@ -1,3 +1,15 @@
+bip_39_word_dash_1: proof
+bip_39_word_dash_10: proof-brain-layer-busy-liquid-oval-pupil-stem-oil-expand
+bip_39_word_dash_11: proof-brain-layer-busy-liquid-oval-pupil-stem-oil-expand-private
+bip_39_word_dash_12: proof-brain-layer-busy-liquid-oval-pupil-stem-oil-expand-private-arm
+bip_39_word_dash_2: proof-brain
+bip_39_word_dash_3: proof-brain-layer
+bip_39_word_dash_4: proof-brain-layer-busy
+bip_39_word_dash_5: proof-brain-layer-busy-liquid
+bip_39_word_dash_6: proof-brain-layer-busy-liquid-oval
+bip_39_word_dash_7: proof-brain-layer-busy-liquid-oval-pupil
+bip_39_word_dash_8: proof-brain-layer-busy-liquid-oval-pupil-stem
+bip_39_word_dash_9: proof-brain-layer-busy-liquid-oval-pupil-stem-oil
 bip_39_word_new_br_1: proof
 bip_39_word_new_br_10: proof<br>brain<br>layer<br>busy<br>liquid<br>oval<br>pupil<br>stem<br>oil<br>expand
 bip_39_word_new_br_11: proof<br>brain<br>layer<br>busy<br>liquid<br>oval<br>pupil<br>stem<br>oil<br>expand<br>private
@@ -192,6 +204,18 @@ bip_39_word_space_6: proof brain layer busy liquid oval
 bip_39_word_space_7: proof brain layer busy liquid oval pupil
 bip_39_word_space_8: proof brain layer busy liquid oval pupil stem
 bip_39_word_space_9: proof brain layer busy liquid oval pupil stem oil
+bip_39_word_underscore_1: proof
+bip_39_word_underscore_10: proof_brain_layer_busy_liquid_oval_pupil_stem_oil_expand
+bip_39_word_underscore_11: proof_brain_layer_busy_liquid_oval_pupil_stem_oil_expand_private
+bip_39_word_underscore_12: proof_brain_layer_busy_liquid_oval_pupil_stem_oil_expand_private_arm
+bip_39_word_underscore_2: proof_brain
+bip_39_word_underscore_3: proof_brain_layer
+bip_39_word_underscore_4: proof_brain_layer_busy
+bip_39_word_underscore_5: proof_brain_layer_busy_liquid
+bip_39_word_underscore_6: proof_brain_layer_busy_liquid_oval
+bip_39_word_underscore_7: proof_brain_layer_busy_liquid_oval_pupil
+bip_39_word_underscore_8: proof_brain_layer_busy_liquid_oval_pupil_stem
+bip_39_word_underscore_9: proof_brain_layer_busy_liquid_oval_pupil_stem_oil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

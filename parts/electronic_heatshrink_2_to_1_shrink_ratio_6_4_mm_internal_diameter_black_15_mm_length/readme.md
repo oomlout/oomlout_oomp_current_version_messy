@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tourist |  
+| bip_39_word_dash_10 | tourist-question-club-virtual-soldier-hire-toilet-orchard-morning-absorb |  
+| bip_39_word_dash_11 | tourist-question-club-virtual-soldier-hire-toilet-orchard-morning-absorb-polar |  
+| bip_39_word_dash_12 | tourist-question-club-virtual-soldier-hire-toilet-orchard-morning-absorb-polar-artwork |  
+| bip_39_word_dash_2 | tourist-question |  
+| bip_39_word_dash_3 | tourist-question-club |  
+| bip_39_word_dash_4 | tourist-question-club-virtual |  
+| bip_39_word_dash_5 | tourist-question-club-virtual-soldier |  
+| bip_39_word_dash_6 | tourist-question-club-virtual-soldier-hire |  
+| bip_39_word_dash_7 | tourist-question-club-virtual-soldier-hire-toilet |  
+| bip_39_word_dash_8 | tourist-question-club-virtual-soldier-hire-toilet-orchard |  
+| bip_39_word_dash_9 | tourist-question-club-virtual-soldier-hire-toilet-orchard-morning |  
 | bip_39_word_new_br_1 | tourist |  
 | bip_39_word_new_br_10 | tourist<br>question<br>club<br>virtual<br>soldier<br>hire<br>toilet<br>orchard<br>morning<br>absorb |  
 | bip_39_word_new_br_11 | tourist<br>question<br>club<br>virtual<br>soldier<br>hire<br>toilet<br>orchard<br>morning<br>absorb<br>polar |  
@@ -147,6 +159,18 @@ morning |
 | bip_39_word_space_7 | tourist question club virtual soldier hire toilet |  
 | bip_39_word_space_8 | tourist question club virtual soldier hire toilet orchard |  
 | bip_39_word_space_9 | tourist question club virtual soldier hire toilet orchard morning |  
+| bip_39_word_underscore_1 | tourist |  
+| bip_39_word_underscore_10 | tourist_question_club_virtual_soldier_hire_toilet_orchard_morning_absorb |  
+| bip_39_word_underscore_11 | tourist_question_club_virtual_soldier_hire_toilet_orchard_morning_absorb_polar |  
+| bip_39_word_underscore_12 | tourist_question_club_virtual_soldier_hire_toilet_orchard_morning_absorb_polar_artwork |  
+| bip_39_word_underscore_2 | tourist_question |  
+| bip_39_word_underscore_3 | tourist_question_club |  
+| bip_39_word_underscore_4 | tourist_question_club_virtual |  
+| bip_39_word_underscore_5 | tourist_question_club_virtual_soldier |  
+| bip_39_word_underscore_6 | tourist_question_club_virtual_soldier_hire |  
+| bip_39_word_underscore_7 | tourist_question_club_virtual_soldier_hire_toilet |  
+| bip_39_word_underscore_8 | tourist_question_club_virtual_soldier_hire_toilet_orchard |  
+| bip_39_word_underscore_9 | tourist_question_club_virtual_soldier_hire_toilet_orchard_morning |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

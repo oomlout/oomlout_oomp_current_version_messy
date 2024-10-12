@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ensure
+bip_39_word_dash_10: ensure-ordinary-blind-armor-consider-captain-detect-helmet-session-shrug
+bip_39_word_dash_11: ensure-ordinary-blind-armor-consider-captain-detect-helmet-session-shrug-vehicle
+bip_39_word_dash_12: ensure-ordinary-blind-armor-consider-captain-detect-helmet-session-shrug-vehicle-absorb
+bip_39_word_dash_2: ensure-ordinary
+bip_39_word_dash_3: ensure-ordinary-blind
+bip_39_word_dash_4: ensure-ordinary-blind-armor
+bip_39_word_dash_5: ensure-ordinary-blind-armor-consider
+bip_39_word_dash_6: ensure-ordinary-blind-armor-consider-captain
+bip_39_word_dash_7: ensure-ordinary-blind-armor-consider-captain-detect
+bip_39_word_dash_8: ensure-ordinary-blind-armor-consider-captain-detect-helmet
+bip_39_word_dash_9: ensure-ordinary-blind-armor-consider-captain-detect-helmet-session
 bip_39_word_new_br_1: ensure
 bip_39_word_new_br_10: ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug
 bip_39_word_new_br_11: ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug<br>vehicle
@@ -194,6 +206,18 @@ bip_39_word_space_6: ensure ordinary blind armor consider captain
 bip_39_word_space_7: ensure ordinary blind armor consider captain detect
 bip_39_word_space_8: ensure ordinary blind armor consider captain detect helmet
 bip_39_word_space_9: ensure ordinary blind armor consider captain detect helmet session
+bip_39_word_underscore_1: ensure
+bip_39_word_underscore_10: ensure_ordinary_blind_armor_consider_captain_detect_helmet_session_shrug
+bip_39_word_underscore_11: ensure_ordinary_blind_armor_consider_captain_detect_helmet_session_shrug_vehicle
+bip_39_word_underscore_12: ensure_ordinary_blind_armor_consider_captain_detect_helmet_session_shrug_vehicle_absorb
+bip_39_word_underscore_2: ensure_ordinary
+bip_39_word_underscore_3: ensure_ordinary_blind
+bip_39_word_underscore_4: ensure_ordinary_blind_armor
+bip_39_word_underscore_5: ensure_ordinary_blind_armor_consider
+bip_39_word_underscore_6: ensure_ordinary_blind_armor_consider_captain
+bip_39_word_underscore_7: ensure_ordinary_blind_armor_consider_captain_detect
+bip_39_word_underscore_8: ensure_ordinary_blind_armor_consider_captain_detect_helmet
+bip_39_word_underscore_9: ensure_ordinary_blind_armor_consider_captain_detect_helmet_session
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

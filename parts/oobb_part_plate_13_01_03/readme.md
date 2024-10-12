@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | paddle |  
+| bip_39_word_dash_10 | paddle-few-spatial-scan-episode-tool-client-better-sing-ladder |  
+| bip_39_word_dash_11 | paddle-few-spatial-scan-episode-tool-client-better-sing-ladder-scan |  
+| bip_39_word_dash_12 | paddle-few-spatial-scan-episode-tool-client-better-sing-ladder-scan-apology |  
+| bip_39_word_dash_2 | paddle-few |  
+| bip_39_word_dash_3 | paddle-few-spatial |  
+| bip_39_word_dash_4 | paddle-few-spatial-scan |  
+| bip_39_word_dash_5 | paddle-few-spatial-scan-episode |  
+| bip_39_word_dash_6 | paddle-few-spatial-scan-episode-tool |  
+| bip_39_word_dash_7 | paddle-few-spatial-scan-episode-tool-client |  
+| bip_39_word_dash_8 | paddle-few-spatial-scan-episode-tool-client-better |  
+| bip_39_word_dash_9 | paddle-few-spatial-scan-episode-tool-client-better-sing |  
 | bip_39_word_new_br_1 | paddle |  
 | bip_39_word_new_br_10 | paddle<br>few<br>spatial<br>scan<br>episode<br>tool<br>client<br>better<br>sing<br>ladder |  
 | bip_39_word_new_br_11 | paddle<br>few<br>spatial<br>scan<br>episode<br>tool<br>client<br>better<br>sing<br>ladder<br>scan |  
@@ -147,6 +159,18 @@ sing |
 | bip_39_word_space_7 | paddle few spatial scan episode tool client |  
 | bip_39_word_space_8 | paddle few spatial scan episode tool client better |  
 | bip_39_word_space_9 | paddle few spatial scan episode tool client better sing |  
+| bip_39_word_underscore_1 | paddle |  
+| bip_39_word_underscore_10 | paddle_few_spatial_scan_episode_tool_client_better_sing_ladder |  
+| bip_39_word_underscore_11 | paddle_few_spatial_scan_episode_tool_client_better_sing_ladder_scan |  
+| bip_39_word_underscore_12 | paddle_few_spatial_scan_episode_tool_client_better_sing_ladder_scan_apology |  
+| bip_39_word_underscore_2 | paddle_few |  
+| bip_39_word_underscore_3 | paddle_few_spatial |  
+| bip_39_word_underscore_4 | paddle_few_spatial_scan |  
+| bip_39_word_underscore_5 | paddle_few_spatial_scan_episode |  
+| bip_39_word_underscore_6 | paddle_few_spatial_scan_episode_tool |  
+| bip_39_word_underscore_7 | paddle_few_spatial_scan_episode_tool_client |  
+| bip_39_word_underscore_8 | paddle_few_spatial_scan_episode_tool_client_better |  
+| bip_39_word_underscore_9 | paddle_few_spatial_scan_episode_tool_client_better_sing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

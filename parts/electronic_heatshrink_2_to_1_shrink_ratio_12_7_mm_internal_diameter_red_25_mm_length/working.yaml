@@ -1,3 +1,14 @@
+bip_39_word_dash_1: season
+bip_39_word_dash_10: season-menu-rent-old-bag-bomb-into-fortune-describe-child
+bip_39_word_dash_11: season-menu-rent-old-bag-bomb-into-fortune-describe-child-ordinary
+bip_39_word_dash_2: season-menu
+bip_39_word_dash_3: season-menu-rent
+bip_39_word_dash_4: season-menu-rent-old
+bip_39_word_dash_5: season-menu-rent-old-bag
+bip_39_word_dash_6: season-menu-rent-old-bag-bomb
+bip_39_word_dash_7: season-menu-rent-old-bag-bomb-into
+bip_39_word_dash_8: season-menu-rent-old-bag-bomb-into-fortune
+bip_39_word_dash_9: season-menu-rent-old-bag-bomb-into-fortune-describe
 bip_39_word_new_br_1: season
 bip_39_word_new_br_10: season<br>menu<br>rent<br>old<br>bag<br>bomb<br>into<br>fortune<br>describe<br>child
 bip_39_word_new_br_11: season<br>menu<br>rent<br>old<br>bag<br>bomb<br>into<br>fortune<br>describe<br>child<br>ordinary
@@ -164,6 +175,17 @@ bip_39_word_space_6: season menu rent old bag bomb
 bip_39_word_space_7: season menu rent old bag bomb into
 bip_39_word_space_8: season menu rent old bag bomb into fortune
 bip_39_word_space_9: season menu rent old bag bomb into fortune describe
+bip_39_word_underscore_1: season
+bip_39_word_underscore_10: season_menu_rent_old_bag_bomb_into_fortune_describe_child
+bip_39_word_underscore_11: season_menu_rent_old_bag_bomb_into_fortune_describe_child_ordinary
+bip_39_word_underscore_2: season_menu
+bip_39_word_underscore_3: season_menu_rent
+bip_39_word_underscore_4: season_menu_rent_old
+bip_39_word_underscore_5: season_menu_rent_old_bag
+bip_39_word_underscore_6: season_menu_rent_old_bag_bomb
+bip_39_word_underscore_7: season_menu_rent_old_bag_bomb_into
+bip_39_word_underscore_8: season_menu_rent_old_bag_bomb_into_fortune
+bip_39_word_underscore_9: season_menu_rent_old_bag_bomb_into_fortune_describe
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

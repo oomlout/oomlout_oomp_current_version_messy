@@ -1,3 +1,15 @@
+bip_39_word_dash_1: field
+bip_39_word_dash_10: field-ethics-between-month-multiply-fragile-claw-stay-gentle-false
+bip_39_word_dash_11: field-ethics-between-month-multiply-fragile-claw-stay-gentle-false-surge
+bip_39_word_dash_12: field-ethics-between-month-multiply-fragile-claw-stay-gentle-false-surge-august
+bip_39_word_dash_2: field-ethics
+bip_39_word_dash_3: field-ethics-between
+bip_39_word_dash_4: field-ethics-between-month
+bip_39_word_dash_5: field-ethics-between-month-multiply
+bip_39_word_dash_6: field-ethics-between-month-multiply-fragile
+bip_39_word_dash_7: field-ethics-between-month-multiply-fragile-claw
+bip_39_word_dash_8: field-ethics-between-month-multiply-fragile-claw-stay
+bip_39_word_dash_9: field-ethics-between-month-multiply-fragile-claw-stay-gentle
 bip_39_word_new_br_1: field
 bip_39_word_new_br_10: field<br>ethics<br>between<br>month<br>multiply<br>fragile<br>claw<br>stay<br>gentle<br>false
 bip_39_word_new_br_11: field<br>ethics<br>between<br>month<br>multiply<br>fragile<br>claw<br>stay<br>gentle<br>false<br>surge
@@ -194,6 +206,18 @@ bip_39_word_space_6: field ethics between month multiply fragile
 bip_39_word_space_7: field ethics between month multiply fragile claw
 bip_39_word_space_8: field ethics between month multiply fragile claw stay
 bip_39_word_space_9: field ethics between month multiply fragile claw stay gentle
+bip_39_word_underscore_1: field
+bip_39_word_underscore_10: field_ethics_between_month_multiply_fragile_claw_stay_gentle_false
+bip_39_word_underscore_11: field_ethics_between_month_multiply_fragile_claw_stay_gentle_false_surge
+bip_39_word_underscore_12: field_ethics_between_month_multiply_fragile_claw_stay_gentle_false_surge_august
+bip_39_word_underscore_2: field_ethics
+bip_39_word_underscore_3: field_ethics_between
+bip_39_word_underscore_4: field_ethics_between_month
+bip_39_word_underscore_5: field_ethics_between_month_multiply
+bip_39_word_underscore_6: field_ethics_between_month_multiply_fragile
+bip_39_word_underscore_7: field_ethics_between_month_multiply_fragile_claw
+bip_39_word_underscore_8: field_ethics_between_month_multiply_fragile_claw_stay
+bip_39_word_underscore_9: field_ethics_between_month_multiply_fragile_claw_stay_gentle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

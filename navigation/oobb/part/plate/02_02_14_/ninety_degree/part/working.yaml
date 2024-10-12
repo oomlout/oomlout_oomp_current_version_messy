@@ -1,3 +1,15 @@
+bip_39_word_dash_1: syrup
+bip_39_word_dash_10: syrup-green-total-unit-pupil-airport-wasp-foil-able-end
+bip_39_word_dash_11: syrup-green-total-unit-pupil-airport-wasp-foil-able-end-mixture
+bip_39_word_dash_12: syrup-green-total-unit-pupil-airport-wasp-foil-able-end-mixture-adapt
+bip_39_word_dash_2: syrup-green
+bip_39_word_dash_3: syrup-green-total
+bip_39_word_dash_4: syrup-green-total-unit
+bip_39_word_dash_5: syrup-green-total-unit-pupil
+bip_39_word_dash_6: syrup-green-total-unit-pupil-airport
+bip_39_word_dash_7: syrup-green-total-unit-pupil-airport-wasp
+bip_39_word_dash_8: syrup-green-total-unit-pupil-airport-wasp-foil
+bip_39_word_dash_9: syrup-green-total-unit-pupil-airport-wasp-foil-able
 bip_39_word_new_br_1: syrup
 bip_39_word_new_br_10: syrup<br>green<br>total<br>unit<br>pupil<br>airport<br>wasp<br>foil<br>able<br>end
 bip_39_word_new_br_11: syrup<br>green<br>total<br>unit<br>pupil<br>airport<br>wasp<br>foil<br>able<br>end<br>mixture
@@ -192,6 +204,18 @@ bip_39_word_space_6: syrup green total unit pupil airport
 bip_39_word_space_7: syrup green total unit pupil airport wasp
 bip_39_word_space_8: syrup green total unit pupil airport wasp foil
 bip_39_word_space_9: syrup green total unit pupil airport wasp foil able
+bip_39_word_underscore_1: syrup
+bip_39_word_underscore_10: syrup_green_total_unit_pupil_airport_wasp_foil_able_end
+bip_39_word_underscore_11: syrup_green_total_unit_pupil_airport_wasp_foil_able_end_mixture
+bip_39_word_underscore_12: syrup_green_total_unit_pupil_airport_wasp_foil_able_end_mixture_adapt
+bip_39_word_underscore_2: syrup_green
+bip_39_word_underscore_3: syrup_green_total
+bip_39_word_underscore_4: syrup_green_total_unit
+bip_39_word_underscore_5: syrup_green_total_unit_pupil
+bip_39_word_underscore_6: syrup_green_total_unit_pupil_airport
+bip_39_word_underscore_7: syrup_green_total_unit_pupil_airport_wasp
+bip_39_word_underscore_8: syrup_green_total_unit_pupil_airport_wasp_foil
+bip_39_word_underscore_9: syrup_green_total_unit_pupil_airport_wasp_foil_able
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

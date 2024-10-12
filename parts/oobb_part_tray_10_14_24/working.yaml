@@ -1,3 +1,15 @@
+bip_39_word_dash_1: squirrel
+bip_39_word_dash_10: squirrel-input-canyon-ride-green-much-portion-mistake-drastic-orchard
+bip_39_word_dash_11: squirrel-input-canyon-ride-green-much-portion-mistake-drastic-orchard-phrase
+bip_39_word_dash_12: squirrel-input-canyon-ride-green-much-portion-mistake-drastic-orchard-phrase-airport
+bip_39_word_dash_2: squirrel-input
+bip_39_word_dash_3: squirrel-input-canyon
+bip_39_word_dash_4: squirrel-input-canyon-ride
+bip_39_word_dash_5: squirrel-input-canyon-ride-green
+bip_39_word_dash_6: squirrel-input-canyon-ride-green-much
+bip_39_word_dash_7: squirrel-input-canyon-ride-green-much-portion
+bip_39_word_dash_8: squirrel-input-canyon-ride-green-much-portion-mistake
+bip_39_word_dash_9: squirrel-input-canyon-ride-green-much-portion-mistake-drastic
 bip_39_word_new_br_1: squirrel
 bip_39_word_new_br_10: squirrel<br>input<br>canyon<br>ride<br>green<br>much<br>portion<br>mistake<br>drastic<br>orchard
 bip_39_word_new_br_11: squirrel<br>input<br>canyon<br>ride<br>green<br>much<br>portion<br>mistake<br>drastic<br>orchard<br>phrase
@@ -194,6 +206,18 @@ bip_39_word_space_6: squirrel input canyon ride green much
 bip_39_word_space_7: squirrel input canyon ride green much portion
 bip_39_word_space_8: squirrel input canyon ride green much portion mistake
 bip_39_word_space_9: squirrel input canyon ride green much portion mistake drastic
+bip_39_word_underscore_1: squirrel
+bip_39_word_underscore_10: squirrel_input_canyon_ride_green_much_portion_mistake_drastic_orchard
+bip_39_word_underscore_11: squirrel_input_canyon_ride_green_much_portion_mistake_drastic_orchard_phrase
+bip_39_word_underscore_12: squirrel_input_canyon_ride_green_much_portion_mistake_drastic_orchard_phrase_airport
+bip_39_word_underscore_2: squirrel_input
+bip_39_word_underscore_3: squirrel_input_canyon
+bip_39_word_underscore_4: squirrel_input_canyon_ride
+bip_39_word_underscore_5: squirrel_input_canyon_ride_green
+bip_39_word_underscore_6: squirrel_input_canyon_ride_green_much
+bip_39_word_underscore_7: squirrel_input_canyon_ride_green_much_portion
+bip_39_word_underscore_8: squirrel_input_canyon_ride_green_much_portion_mistake
+bip_39_word_underscore_9: squirrel_input_canyon_ride_green_much_portion_mistake_drastic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

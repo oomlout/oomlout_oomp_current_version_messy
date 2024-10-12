@@ -1,3 +1,15 @@
+bip_39_word_dash_1: neglect
+bip_39_word_dash_10: neglect-hen-labor-alert-train-column-stay-glow-sting-stay
+bip_39_word_dash_11: neglect-hen-labor-alert-train-column-stay-glow-sting-stay-wish
+bip_39_word_dash_12: neglect-hen-labor-alert-train-column-stay-glow-sting-stay-wish-album
+bip_39_word_dash_2: neglect-hen
+bip_39_word_dash_3: neglect-hen-labor
+bip_39_word_dash_4: neglect-hen-labor-alert
+bip_39_word_dash_5: neglect-hen-labor-alert-train
+bip_39_word_dash_6: neglect-hen-labor-alert-train-column
+bip_39_word_dash_7: neglect-hen-labor-alert-train-column-stay
+bip_39_word_dash_8: neglect-hen-labor-alert-train-column-stay-glow
+bip_39_word_dash_9: neglect-hen-labor-alert-train-column-stay-glow-sting
 bip_39_word_new_br_1: neglect
 bip_39_word_new_br_10: neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay
 bip_39_word_new_br_11: neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay<br>wish
@@ -192,6 +204,18 @@ bip_39_word_space_6: neglect hen labor alert train column
 bip_39_word_space_7: neglect hen labor alert train column stay
 bip_39_word_space_8: neglect hen labor alert train column stay glow
 bip_39_word_space_9: neglect hen labor alert train column stay glow sting
+bip_39_word_underscore_1: neglect
+bip_39_word_underscore_10: neglect_hen_labor_alert_train_column_stay_glow_sting_stay
+bip_39_word_underscore_11: neglect_hen_labor_alert_train_column_stay_glow_sting_stay_wish
+bip_39_word_underscore_12: neglect_hen_labor_alert_train_column_stay_glow_sting_stay_wish_album
+bip_39_word_underscore_2: neglect_hen
+bip_39_word_underscore_3: neglect_hen_labor
+bip_39_word_underscore_4: neglect_hen_labor_alert
+bip_39_word_underscore_5: neglect_hen_labor_alert_train
+bip_39_word_underscore_6: neglect_hen_labor_alert_train_column
+bip_39_word_underscore_7: neglect_hen_labor_alert_train_column_stay
+bip_39_word_underscore_8: neglect_hen_labor_alert_train_column_stay_glow
+bip_39_word_underscore_9: neglect_hen_labor_alert_train_column_stay_glow_sting
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

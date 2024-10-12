@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | song |  
+| bip_39_word_dash_10 | song-pizza-gentle-blur-title-awake-quarter-mad-cook-beach |  
+| bip_39_word_dash_11 | song-pizza-gentle-blur-title-awake-quarter-mad-cook-beach-dizzy |  
+| bip_39_word_dash_12 | song-pizza-gentle-blur-title-awake-quarter-mad-cook-beach-dizzy-another |  
+| bip_39_word_dash_2 | song-pizza |  
+| bip_39_word_dash_3 | song-pizza-gentle |  
+| bip_39_word_dash_4 | song-pizza-gentle-blur |  
+| bip_39_word_dash_5 | song-pizza-gentle-blur-title |  
+| bip_39_word_dash_6 | song-pizza-gentle-blur-title-awake |  
+| bip_39_word_dash_7 | song-pizza-gentle-blur-title-awake-quarter |  
+| bip_39_word_dash_8 | song-pizza-gentle-blur-title-awake-quarter-mad |  
+| bip_39_word_dash_9 | song-pizza-gentle-blur-title-awake-quarter-mad-cook |  
 | bip_39_word_new_br_1 | song |  
 | bip_39_word_new_br_10 | song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad<br>cook<br>beach |  
 | bip_39_word_new_br_11 | song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad<br>cook<br>beach<br>dizzy |  
@@ -147,6 +159,18 @@ cook |
 | bip_39_word_space_7 | song pizza gentle blur title awake quarter |  
 | bip_39_word_space_8 | song pizza gentle blur title awake quarter mad |  
 | bip_39_word_space_9 | song pizza gentle blur title awake quarter mad cook |  
+| bip_39_word_underscore_1 | song |  
+| bip_39_word_underscore_10 | song_pizza_gentle_blur_title_awake_quarter_mad_cook_beach |  
+| bip_39_word_underscore_11 | song_pizza_gentle_blur_title_awake_quarter_mad_cook_beach_dizzy |  
+| bip_39_word_underscore_12 | song_pizza_gentle_blur_title_awake_quarter_mad_cook_beach_dizzy_another |  
+| bip_39_word_underscore_2 | song_pizza |  
+| bip_39_word_underscore_3 | song_pizza_gentle |  
+| bip_39_word_underscore_4 | song_pizza_gentle_blur |  
+| bip_39_word_underscore_5 | song_pizza_gentle_blur_title |  
+| bip_39_word_underscore_6 | song_pizza_gentle_blur_title_awake |  
+| bip_39_word_underscore_7 | song_pizza_gentle_blur_title_awake_quarter |  
+| bip_39_word_underscore_8 | song_pizza_gentle_blur_title_awake_quarter_mad |  
+| bip_39_word_underscore_9 | song_pizza_gentle_blur_title_awake_quarter_mad_cook |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

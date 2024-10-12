@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | entire |  
+| bip_39_word_dash_10 | entire-dawn-steel-embrace-alpha-grief-render-time-sibling-dream |  
+| bip_39_word_dash_11 | entire-dawn-steel-embrace-alpha-grief-render-time-sibling-dream-custom |  
+| bip_39_word_dash_12 | entire-dawn-steel-embrace-alpha-grief-render-time-sibling-dream-custom-arrest |  
+| bip_39_word_dash_2 | entire-dawn |  
+| bip_39_word_dash_3 | entire-dawn-steel |  
+| bip_39_word_dash_4 | entire-dawn-steel-embrace |  
+| bip_39_word_dash_5 | entire-dawn-steel-embrace-alpha |  
+| bip_39_word_dash_6 | entire-dawn-steel-embrace-alpha-grief |  
+| bip_39_word_dash_7 | entire-dawn-steel-embrace-alpha-grief-render |  
+| bip_39_word_dash_8 | entire-dawn-steel-embrace-alpha-grief-render-time |  
+| bip_39_word_dash_9 | entire-dawn-steel-embrace-alpha-grief-render-time-sibling |  
 | bip_39_word_new_br_1 | entire |  
 | bip_39_word_new_br_10 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream |  
 | bip_39_word_new_br_11 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream<br>custom |  
@@ -147,6 +159,18 @@ sibling |
 | bip_39_word_space_7 | entire dawn steel embrace alpha grief render |  
 | bip_39_word_space_8 | entire dawn steel embrace alpha grief render time |  
 | bip_39_word_space_9 | entire dawn steel embrace alpha grief render time sibling |  
+| bip_39_word_underscore_1 | entire |  
+| bip_39_word_underscore_10 | entire_dawn_steel_embrace_alpha_grief_render_time_sibling_dream |  
+| bip_39_word_underscore_11 | entire_dawn_steel_embrace_alpha_grief_render_time_sibling_dream_custom |  
+| bip_39_word_underscore_12 | entire_dawn_steel_embrace_alpha_grief_render_time_sibling_dream_custom_arrest |  
+| bip_39_word_underscore_2 | entire_dawn |  
+| bip_39_word_underscore_3 | entire_dawn_steel |  
+| bip_39_word_underscore_4 | entire_dawn_steel_embrace |  
+| bip_39_word_underscore_5 | entire_dawn_steel_embrace_alpha |  
+| bip_39_word_underscore_6 | entire_dawn_steel_embrace_alpha_grief |  
+| bip_39_word_underscore_7 | entire_dawn_steel_embrace_alpha_grief_render |  
+| bip_39_word_underscore_8 | entire_dawn_steel_embrace_alpha_grief_render_time |  
+| bip_39_word_underscore_9 | entire_dawn_steel_embrace_alpha_grief_render_time_sibling |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

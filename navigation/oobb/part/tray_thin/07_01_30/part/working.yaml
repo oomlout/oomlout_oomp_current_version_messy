@@ -1,3 +1,15 @@
+bip_39_word_dash_1: veteran
+bip_39_word_dash_10: veteran-term-solid-short-reveal-need-east-cable-undo-layer
+bip_39_word_dash_11: veteran-term-solid-short-reveal-need-east-cable-undo-layer-gospel
+bip_39_word_dash_12: veteran-term-solid-short-reveal-need-east-cable-undo-layer-gospel-acquire
+bip_39_word_dash_2: veteran-term
+bip_39_word_dash_3: veteran-term-solid
+bip_39_word_dash_4: veteran-term-solid-short
+bip_39_word_dash_5: veteran-term-solid-short-reveal
+bip_39_word_dash_6: veteran-term-solid-short-reveal-need
+bip_39_word_dash_7: veteran-term-solid-short-reveal-need-east
+bip_39_word_dash_8: veteran-term-solid-short-reveal-need-east-cable
+bip_39_word_dash_9: veteran-term-solid-short-reveal-need-east-cable-undo
 bip_39_word_new_br_1: veteran
 bip_39_word_new_br_10: veteran<br>term<br>solid<br>short<br>reveal<br>need<br>east<br>cable<br>undo<br>layer
 bip_39_word_new_br_11: veteran<br>term<br>solid<br>short<br>reveal<br>need<br>east<br>cable<br>undo<br>layer<br>gospel
@@ -192,6 +204,18 @@ bip_39_word_space_6: veteran term solid short reveal need
 bip_39_word_space_7: veteran term solid short reveal need east
 bip_39_word_space_8: veteran term solid short reveal need east cable
 bip_39_word_space_9: veteran term solid short reveal need east cable undo
+bip_39_word_underscore_1: veteran
+bip_39_word_underscore_10: veteran_term_solid_short_reveal_need_east_cable_undo_layer
+bip_39_word_underscore_11: veteran_term_solid_short_reveal_need_east_cable_undo_layer_gospel
+bip_39_word_underscore_12: veteran_term_solid_short_reveal_need_east_cable_undo_layer_gospel_acquire
+bip_39_word_underscore_2: veteran_term
+bip_39_word_underscore_3: veteran_term_solid
+bip_39_word_underscore_4: veteran_term_solid_short
+bip_39_word_underscore_5: veteran_term_solid_short_reveal
+bip_39_word_underscore_6: veteran_term_solid_short_reveal_need
+bip_39_word_underscore_7: veteran_term_solid_short_reveal_need_east
+bip_39_word_underscore_8: veteran_term_solid_short_reveal_need_east_cable
+bip_39_word_underscore_9: veteran_term_solid_short_reveal_need_east_cable_undo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: alone
+bip_39_word_dash_10: alone-gentle-before-net-upgrade-slim-wink-major-add-salmon
+bip_39_word_dash_11: alone-gentle-before-net-upgrade-slim-wink-major-add-salmon-satisfy
+bip_39_word_dash_12: alone-gentle-before-net-upgrade-slim-wink-major-add-salmon-satisfy-author
+bip_39_word_dash_2: alone-gentle
+bip_39_word_dash_3: alone-gentle-before
+bip_39_word_dash_4: alone-gentle-before-net
+bip_39_word_dash_5: alone-gentle-before-net-upgrade
+bip_39_word_dash_6: alone-gentle-before-net-upgrade-slim
+bip_39_word_dash_7: alone-gentle-before-net-upgrade-slim-wink
+bip_39_word_dash_8: alone-gentle-before-net-upgrade-slim-wink-major
+bip_39_word_dash_9: alone-gentle-before-net-upgrade-slim-wink-major-add
 bip_39_word_new_br_1: alone
 bip_39_word_new_br_10: alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon
 bip_39_word_new_br_11: alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon<br>satisfy
@@ -192,6 +204,18 @@ bip_39_word_space_6: alone gentle before net upgrade slim
 bip_39_word_space_7: alone gentle before net upgrade slim wink
 bip_39_word_space_8: alone gentle before net upgrade slim wink major
 bip_39_word_space_9: alone gentle before net upgrade slim wink major add
+bip_39_word_underscore_1: alone
+bip_39_word_underscore_10: alone_gentle_before_net_upgrade_slim_wink_major_add_salmon
+bip_39_word_underscore_11: alone_gentle_before_net_upgrade_slim_wink_major_add_salmon_satisfy
+bip_39_word_underscore_12: alone_gentle_before_net_upgrade_slim_wink_major_add_salmon_satisfy_author
+bip_39_word_underscore_2: alone_gentle
+bip_39_word_underscore_3: alone_gentle_before
+bip_39_word_underscore_4: alone_gentle_before_net
+bip_39_word_underscore_5: alone_gentle_before_net_upgrade
+bip_39_word_underscore_6: alone_gentle_before_net_upgrade_slim
+bip_39_word_underscore_7: alone_gentle_before_net_upgrade_slim_wink
+bip_39_word_underscore_8: alone_gentle_before_net_upgrade_slim_wink_major
+bip_39_word_underscore_9: alone_gentle_before_net_upgrade_slim_wink_major_add
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

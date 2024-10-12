@@ -1,3 +1,15 @@
+bip_39_word_dash_1: knife
+bip_39_word_dash_10: knife-violin-quiz-car-delay-tribe-survey-shoot-ask-march
+bip_39_word_dash_11: knife-violin-quiz-car-delay-tribe-survey-shoot-ask-march-oven
+bip_39_word_dash_12: knife-violin-quiz-car-delay-tribe-survey-shoot-ask-march-oven-arrange
+bip_39_word_dash_2: knife-violin
+bip_39_word_dash_3: knife-violin-quiz
+bip_39_word_dash_4: knife-violin-quiz-car
+bip_39_word_dash_5: knife-violin-quiz-car-delay
+bip_39_word_dash_6: knife-violin-quiz-car-delay-tribe
+bip_39_word_dash_7: knife-violin-quiz-car-delay-tribe-survey
+bip_39_word_dash_8: knife-violin-quiz-car-delay-tribe-survey-shoot
+bip_39_word_dash_9: knife-violin-quiz-car-delay-tribe-survey-shoot-ask
 bip_39_word_new_br_1: knife
 bip_39_word_new_br_10: knife<br>violin<br>quiz<br>car<br>delay<br>tribe<br>survey<br>shoot<br>ask<br>march
 bip_39_word_new_br_11: knife<br>violin<br>quiz<br>car<br>delay<br>tribe<br>survey<br>shoot<br>ask<br>march<br>oven
@@ -192,6 +204,18 @@ bip_39_word_space_6: knife violin quiz car delay tribe
 bip_39_word_space_7: knife violin quiz car delay tribe survey
 bip_39_word_space_8: knife violin quiz car delay tribe survey shoot
 bip_39_word_space_9: knife violin quiz car delay tribe survey shoot ask
+bip_39_word_underscore_1: knife
+bip_39_word_underscore_10: knife_violin_quiz_car_delay_tribe_survey_shoot_ask_march
+bip_39_word_underscore_11: knife_violin_quiz_car_delay_tribe_survey_shoot_ask_march_oven
+bip_39_word_underscore_12: knife_violin_quiz_car_delay_tribe_survey_shoot_ask_march_oven_arrange
+bip_39_word_underscore_2: knife_violin
+bip_39_word_underscore_3: knife_violin_quiz
+bip_39_word_underscore_4: knife_violin_quiz_car
+bip_39_word_underscore_5: knife_violin_quiz_car_delay
+bip_39_word_underscore_6: knife_violin_quiz_car_delay_tribe
+bip_39_word_underscore_7: knife_violin_quiz_car_delay_tribe_survey
+bip_39_word_underscore_8: knife_violin_quiz_car_delay_tribe_survey_shoot
+bip_39_word_underscore_9: knife_violin_quiz_car_delay_tribe_survey_shoot_ask
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

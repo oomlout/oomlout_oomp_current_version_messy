@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | faint |  
+| bip_39_word_dash_10 | faint-fury-title-ceiling-deposit-swarm-height-impose-vague-web |  
+| bip_39_word_dash_11 | faint-fury-title-ceiling-deposit-swarm-height-impose-vague-web-calm |  
+| bip_39_word_dash_12 | faint-fury-title-ceiling-deposit-swarm-height-impose-vague-web-calm-actor |  
+| bip_39_word_dash_2 | faint-fury |  
+| bip_39_word_dash_3 | faint-fury-title |  
+| bip_39_word_dash_4 | faint-fury-title-ceiling |  
+| bip_39_word_dash_5 | faint-fury-title-ceiling-deposit |  
+| bip_39_word_dash_6 | faint-fury-title-ceiling-deposit-swarm |  
+| bip_39_word_dash_7 | faint-fury-title-ceiling-deposit-swarm-height |  
+| bip_39_word_dash_8 | faint-fury-title-ceiling-deposit-swarm-height-impose |  
+| bip_39_word_dash_9 | faint-fury-title-ceiling-deposit-swarm-height-impose-vague |  
 | bip_39_word_new_br_1 | faint |  
 | bip_39_word_new_br_10 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web |  
 | bip_39_word_new_br_11 | faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web<br>calm |  
@@ -147,6 +159,18 @@ vague |
 | bip_39_word_space_7 | faint fury title ceiling deposit swarm height |  
 | bip_39_word_space_8 | faint fury title ceiling deposit swarm height impose |  
 | bip_39_word_space_9 | faint fury title ceiling deposit swarm height impose vague |  
+| bip_39_word_underscore_1 | faint |  
+| bip_39_word_underscore_10 | faint_fury_title_ceiling_deposit_swarm_height_impose_vague_web |  
+| bip_39_word_underscore_11 | faint_fury_title_ceiling_deposit_swarm_height_impose_vague_web_calm |  
+| bip_39_word_underscore_12 | faint_fury_title_ceiling_deposit_swarm_height_impose_vague_web_calm_actor |  
+| bip_39_word_underscore_2 | faint_fury |  
+| bip_39_word_underscore_3 | faint_fury_title |  
+| bip_39_word_underscore_4 | faint_fury_title_ceiling |  
+| bip_39_word_underscore_5 | faint_fury_title_ceiling_deposit |  
+| bip_39_word_underscore_6 | faint_fury_title_ceiling_deposit_swarm |  
+| bip_39_word_underscore_7 | faint_fury_title_ceiling_deposit_swarm_height |  
+| bip_39_word_underscore_8 | faint_fury_title_ceiling_deposit_swarm_height_impose |  
+| bip_39_word_underscore_9 | faint_fury_title_ceiling_deposit_swarm_height_impose_vague |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: round
+bip_39_word_dash_10: round-member-melody-amazing-what-allow-still-artist-social-smart
+bip_39_word_dash_11: round-member-melody-amazing-what-allow-still-artist-social-smart-turn
+bip_39_word_dash_12: round-member-melody-amazing-what-allow-still-artist-social-smart-turn-accuse
+bip_39_word_dash_2: round-member
+bip_39_word_dash_3: round-member-melody
+bip_39_word_dash_4: round-member-melody-amazing
+bip_39_word_dash_5: round-member-melody-amazing-what
+bip_39_word_dash_6: round-member-melody-amazing-what-allow
+bip_39_word_dash_7: round-member-melody-amazing-what-allow-still
+bip_39_word_dash_8: round-member-melody-amazing-what-allow-still-artist
+bip_39_word_dash_9: round-member-melody-amazing-what-allow-still-artist-social
 bip_39_word_new_br_1: round
 bip_39_word_new_br_10: round<br>member<br>melody<br>amazing<br>what<br>allow<br>still<br>artist<br>social<br>smart
 bip_39_word_new_br_11: round<br>member<br>melody<br>amazing<br>what<br>allow<br>still<br>artist<br>social<br>smart<br>turn
@@ -193,6 +205,18 @@ bip_39_word_space_6: round member melody amazing what allow
 bip_39_word_space_7: round member melody amazing what allow still
 bip_39_word_space_8: round member melody amazing what allow still artist
 bip_39_word_space_9: round member melody amazing what allow still artist social
+bip_39_word_underscore_1: round
+bip_39_word_underscore_10: round_member_melody_amazing_what_allow_still_artist_social_smart
+bip_39_word_underscore_11: round_member_melody_amazing_what_allow_still_artist_social_smart_turn
+bip_39_word_underscore_12: round_member_melody_amazing_what_allow_still_artist_social_smart_turn_accuse
+bip_39_word_underscore_2: round_member
+bip_39_word_underscore_3: round_member_melody
+bip_39_word_underscore_4: round_member_melody_amazing
+bip_39_word_underscore_5: round_member_melody_amazing_what
+bip_39_word_underscore_6: round_member_melody_amazing_what_allow
+bip_39_word_underscore_7: round_member_melody_amazing_what_allow_still
+bip_39_word_underscore_8: round_member_melody_amazing_what_allow_still_artist
+bip_39_word_underscore_9: round_member_melody_amazing_what_allow_still_artist_social
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

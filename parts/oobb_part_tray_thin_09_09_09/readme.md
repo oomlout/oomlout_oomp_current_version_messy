@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | color |  
+| bip_39_word_dash_10 | color-rural-helmet-wheel-pill-scatter-obscure-home-rigid-ability |  
+| bip_39_word_dash_11 | color-rural-helmet-wheel-pill-scatter-obscure-home-rigid-ability-own |  
+| bip_39_word_dash_12 | color-rural-helmet-wheel-pill-scatter-obscure-home-rigid-ability-own-arm |  
+| bip_39_word_dash_2 | color-rural |  
+| bip_39_word_dash_3 | color-rural-helmet |  
+| bip_39_word_dash_4 | color-rural-helmet-wheel |  
+| bip_39_word_dash_5 | color-rural-helmet-wheel-pill |  
+| bip_39_word_dash_6 | color-rural-helmet-wheel-pill-scatter |  
+| bip_39_word_dash_7 | color-rural-helmet-wheel-pill-scatter-obscure |  
+| bip_39_word_dash_8 | color-rural-helmet-wheel-pill-scatter-obscure-home |  
+| bip_39_word_dash_9 | color-rural-helmet-wheel-pill-scatter-obscure-home-rigid |  
 | bip_39_word_new_br_1 | color |  
 | bip_39_word_new_br_10 | color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability |  
 | bip_39_word_new_br_11 | color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability<br>own |  
@@ -147,6 +159,18 @@ rigid |
 | bip_39_word_space_7 | color rural helmet wheel pill scatter obscure |  
 | bip_39_word_space_8 | color rural helmet wheel pill scatter obscure home |  
 | bip_39_word_space_9 | color rural helmet wheel pill scatter obscure home rigid |  
+| bip_39_word_underscore_1 | color |  
+| bip_39_word_underscore_10 | color_rural_helmet_wheel_pill_scatter_obscure_home_rigid_ability |  
+| bip_39_word_underscore_11 | color_rural_helmet_wheel_pill_scatter_obscure_home_rigid_ability_own |  
+| bip_39_word_underscore_12 | color_rural_helmet_wheel_pill_scatter_obscure_home_rigid_ability_own_arm |  
+| bip_39_word_underscore_2 | color_rural |  
+| bip_39_word_underscore_3 | color_rural_helmet |  
+| bip_39_word_underscore_4 | color_rural_helmet_wheel |  
+| bip_39_word_underscore_5 | color_rural_helmet_wheel_pill |  
+| bip_39_word_underscore_6 | color_rural_helmet_wheel_pill_scatter |  
+| bip_39_word_underscore_7 | color_rural_helmet_wheel_pill_scatter_obscure |  
+| bip_39_word_underscore_8 | color_rural_helmet_wheel_pill_scatter_obscure_home |  
+| bip_39_word_underscore_9 | color_rural_helmet_wheel_pill_scatter_obscure_home_rigid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gold |  
+| bip_39_word_dash_10 | gold-portion-brief-want-project-excuse-exist-tongue-proof-include |  
+| bip_39_word_dash_11 | gold-portion-brief-want-project-excuse-exist-tongue-proof-include-alert |  
+| bip_39_word_dash_12 | gold-portion-brief-want-project-excuse-exist-tongue-proof-include-alert-access |  
+| bip_39_word_dash_2 | gold-portion |  
+| bip_39_word_dash_3 | gold-portion-brief |  
+| bip_39_word_dash_4 | gold-portion-brief-want |  
+| bip_39_word_dash_5 | gold-portion-brief-want-project |  
+| bip_39_word_dash_6 | gold-portion-brief-want-project-excuse |  
+| bip_39_word_dash_7 | gold-portion-brief-want-project-excuse-exist |  
+| bip_39_word_dash_8 | gold-portion-brief-want-project-excuse-exist-tongue |  
+| bip_39_word_dash_9 | gold-portion-brief-want-project-excuse-exist-tongue-proof |  
 | bip_39_word_new_br_1 | gold |  
 | bip_39_word_new_br_10 | gold<br>portion<br>brief<br>want<br>project<br>excuse<br>exist<br>tongue<br>proof<br>include |  
 | bip_39_word_new_br_11 | gold<br>portion<br>brief<br>want<br>project<br>excuse<br>exist<br>tongue<br>proof<br>include<br>alert |  
@@ -147,6 +159,18 @@ proof |
 | bip_39_word_space_7 | gold portion brief want project excuse exist |  
 | bip_39_word_space_8 | gold portion brief want project excuse exist tongue |  
 | bip_39_word_space_9 | gold portion brief want project excuse exist tongue proof |  
+| bip_39_word_underscore_1 | gold |  
+| bip_39_word_underscore_10 | gold_portion_brief_want_project_excuse_exist_tongue_proof_include |  
+| bip_39_word_underscore_11 | gold_portion_brief_want_project_excuse_exist_tongue_proof_include_alert |  
+| bip_39_word_underscore_12 | gold_portion_brief_want_project_excuse_exist_tongue_proof_include_alert_access |  
+| bip_39_word_underscore_2 | gold_portion |  
+| bip_39_word_underscore_3 | gold_portion_brief |  
+| bip_39_word_underscore_4 | gold_portion_brief_want |  
+| bip_39_word_underscore_5 | gold_portion_brief_want_project |  
+| bip_39_word_underscore_6 | gold_portion_brief_want_project_excuse |  
+| bip_39_word_underscore_7 | gold_portion_brief_want_project_excuse_exist |  
+| bip_39_word_underscore_8 | gold_portion_brief_want_project_excuse_exist_tongue |  
+| bip_39_word_underscore_9 | gold_portion_brief_want_project_excuse_exist_tongue_proof |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

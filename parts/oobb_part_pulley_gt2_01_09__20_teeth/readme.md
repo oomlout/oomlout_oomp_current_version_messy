@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alpha |  
+| bip_39_word_dash_10 | alpha-topple-destroy-apology-wage-rescue-audit-shallow-betray-average |  
+| bip_39_word_dash_11 | alpha-topple-destroy-apology-wage-rescue-audit-shallow-betray-average-visual |  
+| bip_39_word_dash_12 | alpha-topple-destroy-apology-wage-rescue-audit-shallow-betray-average-visual-actual |  
+| bip_39_word_dash_2 | alpha-topple |  
+| bip_39_word_dash_3 | alpha-topple-destroy |  
+| bip_39_word_dash_4 | alpha-topple-destroy-apology |  
+| bip_39_word_dash_5 | alpha-topple-destroy-apology-wage |  
+| bip_39_word_dash_6 | alpha-topple-destroy-apology-wage-rescue |  
+| bip_39_word_dash_7 | alpha-topple-destroy-apology-wage-rescue-audit |  
+| bip_39_word_dash_8 | alpha-topple-destroy-apology-wage-rescue-audit-shallow |  
+| bip_39_word_dash_9 | alpha-topple-destroy-apology-wage-rescue-audit-shallow-betray |  
 | bip_39_word_new_br_1 | alpha |  
 | bip_39_word_new_br_10 | alpha<br>topple<br>destroy<br>apology<br>wage<br>rescue<br>audit<br>shallow<br>betray<br>average |  
 | bip_39_word_new_br_11 | alpha<br>topple<br>destroy<br>apology<br>wage<br>rescue<br>audit<br>shallow<br>betray<br>average<br>visual |  
@@ -147,6 +159,18 @@ betray |
 | bip_39_word_space_7 | alpha topple destroy apology wage rescue audit |  
 | bip_39_word_space_8 | alpha topple destroy apology wage rescue audit shallow |  
 | bip_39_word_space_9 | alpha topple destroy apology wage rescue audit shallow betray |  
+| bip_39_word_underscore_1 | alpha |  
+| bip_39_word_underscore_10 | alpha_topple_destroy_apology_wage_rescue_audit_shallow_betray_average |  
+| bip_39_word_underscore_11 | alpha_topple_destroy_apology_wage_rescue_audit_shallow_betray_average_visual |  
+| bip_39_word_underscore_12 | alpha_topple_destroy_apology_wage_rescue_audit_shallow_betray_average_visual_actual |  
+| bip_39_word_underscore_2 | alpha_topple |  
+| bip_39_word_underscore_3 | alpha_topple_destroy |  
+| bip_39_word_underscore_4 | alpha_topple_destroy_apology |  
+| bip_39_word_underscore_5 | alpha_topple_destroy_apology_wage |  
+| bip_39_word_underscore_6 | alpha_topple_destroy_apology_wage_rescue |  
+| bip_39_word_underscore_7 | alpha_topple_destroy_apology_wage_rescue_audit |  
+| bip_39_word_underscore_8 | alpha_topple_destroy_apology_wage_rescue_audit_shallow |  
+| bip_39_word_underscore_9 | alpha_topple_destroy_apology_wage_rescue_audit_shallow_betray |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

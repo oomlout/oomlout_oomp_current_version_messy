@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inspire
+bip_39_word_dash_10: inspire-layer-rhythm-erode-month-brief-waste-patrol-ecology-frown
+bip_39_word_dash_11: inspire-layer-rhythm-erode-month-brief-waste-patrol-ecology-frown-enjoy
+bip_39_word_dash_12: inspire-layer-rhythm-erode-month-brief-waste-patrol-ecology-frown-enjoy-amount
+bip_39_word_dash_2: inspire-layer
+bip_39_word_dash_3: inspire-layer-rhythm
+bip_39_word_dash_4: inspire-layer-rhythm-erode
+bip_39_word_dash_5: inspire-layer-rhythm-erode-month
+bip_39_word_dash_6: inspire-layer-rhythm-erode-month-brief
+bip_39_word_dash_7: inspire-layer-rhythm-erode-month-brief-waste
+bip_39_word_dash_8: inspire-layer-rhythm-erode-month-brief-waste-patrol
+bip_39_word_dash_9: inspire-layer-rhythm-erode-month-brief-waste-patrol-ecology
 bip_39_word_new_br_1: inspire
 bip_39_word_new_br_10: inspire<br>layer<br>rhythm<br>erode<br>month<br>brief<br>waste<br>patrol<br>ecology<br>frown
 bip_39_word_new_br_11: inspire<br>layer<br>rhythm<br>erode<br>month<br>brief<br>waste<br>patrol<br>ecology<br>frown<br>enjoy
@@ -194,6 +206,18 @@ bip_39_word_space_6: inspire layer rhythm erode month brief
 bip_39_word_space_7: inspire layer rhythm erode month brief waste
 bip_39_word_space_8: inspire layer rhythm erode month brief waste patrol
 bip_39_word_space_9: inspire layer rhythm erode month brief waste patrol ecology
+bip_39_word_underscore_1: inspire
+bip_39_word_underscore_10: inspire_layer_rhythm_erode_month_brief_waste_patrol_ecology_frown
+bip_39_word_underscore_11: inspire_layer_rhythm_erode_month_brief_waste_patrol_ecology_frown_enjoy
+bip_39_word_underscore_12: inspire_layer_rhythm_erode_month_brief_waste_patrol_ecology_frown_enjoy_amount
+bip_39_word_underscore_2: inspire_layer
+bip_39_word_underscore_3: inspire_layer_rhythm
+bip_39_word_underscore_4: inspire_layer_rhythm_erode
+bip_39_word_underscore_5: inspire_layer_rhythm_erode_month
+bip_39_word_underscore_6: inspire_layer_rhythm_erode_month_brief
+bip_39_word_underscore_7: inspire_layer_rhythm_erode_month_brief_waste
+bip_39_word_underscore_8: inspire_layer_rhythm_erode_month_brief_waste_patrol
+bip_39_word_underscore_9: inspire_layer_rhythm_erode_month_brief_waste_patrol_ecology
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

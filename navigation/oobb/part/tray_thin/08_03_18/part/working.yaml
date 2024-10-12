@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ozone
+bip_39_word_dash_10: ozone-olympic-student-pair-theme-scout-buzz-receive-cube-blade
+bip_39_word_dash_11: ozone-olympic-student-pair-theme-scout-buzz-receive-cube-blade-recycle
+bip_39_word_dash_12: ozone-olympic-student-pair-theme-scout-buzz-receive-cube-blade-recycle-air
+bip_39_word_dash_2: ozone-olympic
+bip_39_word_dash_3: ozone-olympic-student
+bip_39_word_dash_4: ozone-olympic-student-pair
+bip_39_word_dash_5: ozone-olympic-student-pair-theme
+bip_39_word_dash_6: ozone-olympic-student-pair-theme-scout
+bip_39_word_dash_7: ozone-olympic-student-pair-theme-scout-buzz
+bip_39_word_dash_8: ozone-olympic-student-pair-theme-scout-buzz-receive
+bip_39_word_dash_9: ozone-olympic-student-pair-theme-scout-buzz-receive-cube
 bip_39_word_new_br_1: ozone
 bip_39_word_new_br_10: ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive<br>cube<br>blade
 bip_39_word_new_br_11: ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive<br>cube<br>blade<br>recycle
@@ -193,6 +205,18 @@ bip_39_word_space_6: ozone olympic student pair theme scout
 bip_39_word_space_7: ozone olympic student pair theme scout buzz
 bip_39_word_space_8: ozone olympic student pair theme scout buzz receive
 bip_39_word_space_9: ozone olympic student pair theme scout buzz receive cube
+bip_39_word_underscore_1: ozone
+bip_39_word_underscore_10: ozone_olympic_student_pair_theme_scout_buzz_receive_cube_blade
+bip_39_word_underscore_11: ozone_olympic_student_pair_theme_scout_buzz_receive_cube_blade_recycle
+bip_39_word_underscore_12: ozone_olympic_student_pair_theme_scout_buzz_receive_cube_blade_recycle_air
+bip_39_word_underscore_2: ozone_olympic
+bip_39_word_underscore_3: ozone_olympic_student
+bip_39_word_underscore_4: ozone_olympic_student_pair
+bip_39_word_underscore_5: ozone_olympic_student_pair_theme
+bip_39_word_underscore_6: ozone_olympic_student_pair_theme_scout
+bip_39_word_underscore_7: ozone_olympic_student_pair_theme_scout_buzz
+bip_39_word_underscore_8: ozone_olympic_student_pair_theme_scout_buzz_receive
+bip_39_word_underscore_9: ozone_olympic_student_pair_theme_scout_buzz_receive_cube
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: option
+bip_39_word_dash_10: option-net-stand-soul-love-bar-sheriff-skull-veteran-mixture
+bip_39_word_dash_11: option-net-stand-soul-love-bar-sheriff-skull-veteran-mixture-door
+bip_39_word_dash_12: option-net-stand-soul-love-bar-sheriff-skull-veteran-mixture-door-add
+bip_39_word_dash_2: option-net
+bip_39_word_dash_3: option-net-stand
+bip_39_word_dash_4: option-net-stand-soul
+bip_39_word_dash_5: option-net-stand-soul-love
+bip_39_word_dash_6: option-net-stand-soul-love-bar
+bip_39_word_dash_7: option-net-stand-soul-love-bar-sheriff
+bip_39_word_dash_8: option-net-stand-soul-love-bar-sheriff-skull
+bip_39_word_dash_9: option-net-stand-soul-love-bar-sheriff-skull-veteran
 bip_39_word_new_br_1: option
 bip_39_word_new_br_10: option<br>net<br>stand<br>soul<br>love<br>bar<br>sheriff<br>skull<br>veteran<br>mixture
 bip_39_word_new_br_11: option<br>net<br>stand<br>soul<br>love<br>bar<br>sheriff<br>skull<br>veteran<br>mixture<br>door
@@ -193,6 +205,18 @@ bip_39_word_space_6: option net stand soul love bar
 bip_39_word_space_7: option net stand soul love bar sheriff
 bip_39_word_space_8: option net stand soul love bar sheriff skull
 bip_39_word_space_9: option net stand soul love bar sheriff skull veteran
+bip_39_word_underscore_1: option
+bip_39_word_underscore_10: option_net_stand_soul_love_bar_sheriff_skull_veteran_mixture
+bip_39_word_underscore_11: option_net_stand_soul_love_bar_sheriff_skull_veteran_mixture_door
+bip_39_word_underscore_12: option_net_stand_soul_love_bar_sheriff_skull_veteran_mixture_door_add
+bip_39_word_underscore_2: option_net
+bip_39_word_underscore_3: option_net_stand
+bip_39_word_underscore_4: option_net_stand_soul
+bip_39_word_underscore_5: option_net_stand_soul_love
+bip_39_word_underscore_6: option_net_stand_soul_love_bar
+bip_39_word_underscore_7: option_net_stand_soul_love_bar_sheriff
+bip_39_word_underscore_8: option_net_stand_soul_love_bar_sheriff_skull
+bip_39_word_underscore_9: option_net_stand_soul_love_bar_sheriff_skull_veteran
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

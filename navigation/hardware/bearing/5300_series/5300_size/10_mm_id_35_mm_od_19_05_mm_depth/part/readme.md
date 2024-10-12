@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pear |  
+| bip_39_word_dash_10 | pear-charge-frame-neglect-shoot-exile-misery-cute-hover-goat |  
+| bip_39_word_dash_11 | pear-charge-frame-neglect-shoot-exile-misery-cute-hover-goat-staff |  
+| bip_39_word_dash_12 | pear-charge-frame-neglect-shoot-exile-misery-cute-hover-goat-staff-attract |  
+| bip_39_word_dash_2 | pear-charge |  
+| bip_39_word_dash_3 | pear-charge-frame |  
+| bip_39_word_dash_4 | pear-charge-frame-neglect |  
+| bip_39_word_dash_5 | pear-charge-frame-neglect-shoot |  
+| bip_39_word_dash_6 | pear-charge-frame-neglect-shoot-exile |  
+| bip_39_word_dash_7 | pear-charge-frame-neglect-shoot-exile-misery |  
+| bip_39_word_dash_8 | pear-charge-frame-neglect-shoot-exile-misery-cute |  
+| bip_39_word_dash_9 | pear-charge-frame-neglect-shoot-exile-misery-cute-hover |  
 | bip_39_word_new_br_1 | pear |  
 | bip_39_word_new_br_10 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute<br>hover<br>goat |  
 | bip_39_word_new_br_11 | pear<br>charge<br>frame<br>neglect<br>shoot<br>exile<br>misery<br>cute<br>hover<br>goat<br>staff |  
@@ -147,6 +159,18 @@ hover |
 | bip_39_word_space_7 | pear charge frame neglect shoot exile misery |  
 | bip_39_word_space_8 | pear charge frame neglect shoot exile misery cute |  
 | bip_39_word_space_9 | pear charge frame neglect shoot exile misery cute hover |  
+| bip_39_word_underscore_1 | pear |  
+| bip_39_word_underscore_10 | pear_charge_frame_neglect_shoot_exile_misery_cute_hover_goat |  
+| bip_39_word_underscore_11 | pear_charge_frame_neglect_shoot_exile_misery_cute_hover_goat_staff |  
+| bip_39_word_underscore_12 | pear_charge_frame_neglect_shoot_exile_misery_cute_hover_goat_staff_attract |  
+| bip_39_word_underscore_2 | pear_charge |  
+| bip_39_word_underscore_3 | pear_charge_frame |  
+| bip_39_word_underscore_4 | pear_charge_frame_neglect |  
+| bip_39_word_underscore_5 | pear_charge_frame_neglect_shoot |  
+| bip_39_word_underscore_6 | pear_charge_frame_neglect_shoot_exile |  
+| bip_39_word_underscore_7 | pear_charge_frame_neglect_shoot_exile_misery |  
+| bip_39_word_underscore_8 | pear_charge_frame_neglect_shoot_exile_misery_cute |  
+| bip_39_word_underscore_9 | pear_charge_frame_neglect_shoot_exile_misery_cute_hover |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

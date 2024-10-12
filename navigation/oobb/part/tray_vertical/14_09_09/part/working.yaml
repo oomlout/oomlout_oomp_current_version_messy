@@ -1,3 +1,15 @@
+bip_39_word_dash_1: super
+bip_39_word_dash_10: super-coconut-accuse-gesture-neck-segment-flock-august-giggle-output
+bip_39_word_dash_11: super-coconut-accuse-gesture-neck-segment-flock-august-giggle-output-ten
+bip_39_word_dash_12: super-coconut-accuse-gesture-neck-segment-flock-august-giggle-output-ten-age
+bip_39_word_dash_2: super-coconut
+bip_39_word_dash_3: super-coconut-accuse
+bip_39_word_dash_4: super-coconut-accuse-gesture
+bip_39_word_dash_5: super-coconut-accuse-gesture-neck
+bip_39_word_dash_6: super-coconut-accuse-gesture-neck-segment
+bip_39_word_dash_7: super-coconut-accuse-gesture-neck-segment-flock
+bip_39_word_dash_8: super-coconut-accuse-gesture-neck-segment-flock-august
+bip_39_word_dash_9: super-coconut-accuse-gesture-neck-segment-flock-august-giggle
 bip_39_word_new_br_1: super
 bip_39_word_new_br_10: super<br>coconut<br>accuse<br>gesture<br>neck<br>segment<br>flock<br>august<br>giggle<br>output
 bip_39_word_new_br_11: super<br>coconut<br>accuse<br>gesture<br>neck<br>segment<br>flock<br>august<br>giggle<br>output<br>ten
@@ -194,6 +206,18 @@ bip_39_word_space_6: super coconut accuse gesture neck segment
 bip_39_word_space_7: super coconut accuse gesture neck segment flock
 bip_39_word_space_8: super coconut accuse gesture neck segment flock august
 bip_39_word_space_9: super coconut accuse gesture neck segment flock august giggle
+bip_39_word_underscore_1: super
+bip_39_word_underscore_10: super_coconut_accuse_gesture_neck_segment_flock_august_giggle_output
+bip_39_word_underscore_11: super_coconut_accuse_gesture_neck_segment_flock_august_giggle_output_ten
+bip_39_word_underscore_12: super_coconut_accuse_gesture_neck_segment_flock_august_giggle_output_ten_age
+bip_39_word_underscore_2: super_coconut
+bip_39_word_underscore_3: super_coconut_accuse
+bip_39_word_underscore_4: super_coconut_accuse_gesture
+bip_39_word_underscore_5: super_coconut_accuse_gesture_neck
+bip_39_word_underscore_6: super_coconut_accuse_gesture_neck_segment
+bip_39_word_underscore_7: super_coconut_accuse_gesture_neck_segment_flock
+bip_39_word_underscore_8: super_coconut_accuse_gesture_neck_segment_flock_august
+bip_39_word_underscore_9: super_coconut_accuse_gesture_neck_segment_flock_august_giggle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

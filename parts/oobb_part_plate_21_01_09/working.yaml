@@ -1,3 +1,15 @@
+bip_39_word_dash_1: antique
+bip_39_word_dash_10: antique-zone-robust-excite-stuff-kind-virtual-broom-april-thunder
+bip_39_word_dash_11: antique-zone-robust-excite-stuff-kind-virtual-broom-april-thunder-detail
+bip_39_word_dash_12: antique-zone-robust-excite-stuff-kind-virtual-broom-april-thunder-detail-adapt
+bip_39_word_dash_2: antique-zone
+bip_39_word_dash_3: antique-zone-robust
+bip_39_word_dash_4: antique-zone-robust-excite
+bip_39_word_dash_5: antique-zone-robust-excite-stuff
+bip_39_word_dash_6: antique-zone-robust-excite-stuff-kind
+bip_39_word_dash_7: antique-zone-robust-excite-stuff-kind-virtual
+bip_39_word_dash_8: antique-zone-robust-excite-stuff-kind-virtual-broom
+bip_39_word_dash_9: antique-zone-robust-excite-stuff-kind-virtual-broom-april
 bip_39_word_new_br_1: antique
 bip_39_word_new_br_10: antique<br>zone<br>robust<br>excite<br>stuff<br>kind<br>virtual<br>broom<br>april<br>thunder
 bip_39_word_new_br_11: antique<br>zone<br>robust<br>excite<br>stuff<br>kind<br>virtual<br>broom<br>april<br>thunder<br>detail
@@ -193,6 +205,18 @@ bip_39_word_space_6: antique zone robust excite stuff kind
 bip_39_word_space_7: antique zone robust excite stuff kind virtual
 bip_39_word_space_8: antique zone robust excite stuff kind virtual broom
 bip_39_word_space_9: antique zone robust excite stuff kind virtual broom april
+bip_39_word_underscore_1: antique
+bip_39_word_underscore_10: antique_zone_robust_excite_stuff_kind_virtual_broom_april_thunder
+bip_39_word_underscore_11: antique_zone_robust_excite_stuff_kind_virtual_broom_april_thunder_detail
+bip_39_word_underscore_12: antique_zone_robust_excite_stuff_kind_virtual_broom_april_thunder_detail_adapt
+bip_39_word_underscore_2: antique_zone
+bip_39_word_underscore_3: antique_zone_robust
+bip_39_word_underscore_4: antique_zone_robust_excite
+bip_39_word_underscore_5: antique_zone_robust_excite_stuff
+bip_39_word_underscore_6: antique_zone_robust_excite_stuff_kind
+bip_39_word_underscore_7: antique_zone_robust_excite_stuff_kind_virtual
+bip_39_word_underscore_8: antique_zone_robust_excite_stuff_kind_virtual_broom
+bip_39_word_underscore_9: antique_zone_robust_excite_stuff_kind_virtual_broom_april
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

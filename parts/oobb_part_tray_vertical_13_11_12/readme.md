@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ketchup |  
+| bip_39_word_dash_10 | ketchup-slim-special-category-smart-lumber-carpet-again-subway-use |  
+| bip_39_word_dash_11 | ketchup-slim-special-category-smart-lumber-carpet-again-subway-use-move |  
+| bip_39_word_dash_12 | ketchup-slim-special-category-smart-lumber-carpet-again-subway-use-move-already |  
+| bip_39_word_dash_2 | ketchup-slim |  
+| bip_39_word_dash_3 | ketchup-slim-special |  
+| bip_39_word_dash_4 | ketchup-slim-special-category |  
+| bip_39_word_dash_5 | ketchup-slim-special-category-smart |  
+| bip_39_word_dash_6 | ketchup-slim-special-category-smart-lumber |  
+| bip_39_word_dash_7 | ketchup-slim-special-category-smart-lumber-carpet |  
+| bip_39_word_dash_8 | ketchup-slim-special-category-smart-lumber-carpet-again |  
+| bip_39_word_dash_9 | ketchup-slim-special-category-smart-lumber-carpet-again-subway |  
 | bip_39_word_new_br_1 | ketchup |  
 | bip_39_word_new_br_10 | ketchup<br>slim<br>special<br>category<br>smart<br>lumber<br>carpet<br>again<br>subway<br>use |  
 | bip_39_word_new_br_11 | ketchup<br>slim<br>special<br>category<br>smart<br>lumber<br>carpet<br>again<br>subway<br>use<br>move |  
@@ -147,6 +159,18 @@ subway |
 | bip_39_word_space_7 | ketchup slim special category smart lumber carpet |  
 | bip_39_word_space_8 | ketchup slim special category smart lumber carpet again |  
 | bip_39_word_space_9 | ketchup slim special category smart lumber carpet again subway |  
+| bip_39_word_underscore_1 | ketchup |  
+| bip_39_word_underscore_10 | ketchup_slim_special_category_smart_lumber_carpet_again_subway_use |  
+| bip_39_word_underscore_11 | ketchup_slim_special_category_smart_lumber_carpet_again_subway_use_move |  
+| bip_39_word_underscore_12 | ketchup_slim_special_category_smart_lumber_carpet_again_subway_use_move_already |  
+| bip_39_word_underscore_2 | ketchup_slim |  
+| bip_39_word_underscore_3 | ketchup_slim_special |  
+| bip_39_word_underscore_4 | ketchup_slim_special_category |  
+| bip_39_word_underscore_5 | ketchup_slim_special_category_smart |  
+| bip_39_word_underscore_6 | ketchup_slim_special_category_smart_lumber |  
+| bip_39_word_underscore_7 | ketchup_slim_special_category_smart_lumber_carpet |  
+| bip_39_word_underscore_8 | ketchup_slim_special_category_smart_lumber_carpet_again |  
+| bip_39_word_underscore_9 | ketchup_slim_special_category_smart_lumber_carpet_again_subway |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

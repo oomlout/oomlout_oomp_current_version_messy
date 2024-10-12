@@ -1,3 +1,15 @@
+bip_39_word_dash_1: floor
+bip_39_word_dash_10: floor-pottery-squeeze-present-plunge-next-voyage-rapid-august-leaf
+bip_39_word_dash_11: floor-pottery-squeeze-present-plunge-next-voyage-rapid-august-leaf-camp
+bip_39_word_dash_12: floor-pottery-squeeze-present-plunge-next-voyage-rapid-august-leaf-camp-art
+bip_39_word_dash_2: floor-pottery
+bip_39_word_dash_3: floor-pottery-squeeze
+bip_39_word_dash_4: floor-pottery-squeeze-present
+bip_39_word_dash_5: floor-pottery-squeeze-present-plunge
+bip_39_word_dash_6: floor-pottery-squeeze-present-plunge-next
+bip_39_word_dash_7: floor-pottery-squeeze-present-plunge-next-voyage
+bip_39_word_dash_8: floor-pottery-squeeze-present-plunge-next-voyage-rapid
+bip_39_word_dash_9: floor-pottery-squeeze-present-plunge-next-voyage-rapid-august
 bip_39_word_new_br_1: floor
 bip_39_word_new_br_10: floor<br>pottery<br>squeeze<br>present<br>plunge<br>next<br>voyage<br>rapid<br>august<br>leaf
 bip_39_word_new_br_11: floor<br>pottery<br>squeeze<br>present<br>plunge<br>next<br>voyage<br>rapid<br>august<br>leaf<br>camp
@@ -194,6 +206,18 @@ bip_39_word_space_6: floor pottery squeeze present plunge next
 bip_39_word_space_7: floor pottery squeeze present plunge next voyage
 bip_39_word_space_8: floor pottery squeeze present plunge next voyage rapid
 bip_39_word_space_9: floor pottery squeeze present plunge next voyage rapid august
+bip_39_word_underscore_1: floor
+bip_39_word_underscore_10: floor_pottery_squeeze_present_plunge_next_voyage_rapid_august_leaf
+bip_39_word_underscore_11: floor_pottery_squeeze_present_plunge_next_voyage_rapid_august_leaf_camp
+bip_39_word_underscore_12: floor_pottery_squeeze_present_plunge_next_voyage_rapid_august_leaf_camp_art
+bip_39_word_underscore_2: floor_pottery
+bip_39_word_underscore_3: floor_pottery_squeeze
+bip_39_word_underscore_4: floor_pottery_squeeze_present
+bip_39_word_underscore_5: floor_pottery_squeeze_present_plunge
+bip_39_word_underscore_6: floor_pottery_squeeze_present_plunge_next
+bip_39_word_underscore_7: floor_pottery_squeeze_present_plunge_next_voyage
+bip_39_word_underscore_8: floor_pottery_squeeze_present_plunge_next_voyage_rapid
+bip_39_word_underscore_9: floor_pottery_squeeze_present_plunge_next_voyage_rapid_august
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

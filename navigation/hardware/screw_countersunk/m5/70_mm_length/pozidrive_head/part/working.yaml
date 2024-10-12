@@ -1,3 +1,15 @@
+bip_39_word_dash_1: result
+bip_39_word_dash_10: result-action-return-machine-screen-fiction-plastic-retreat-buzz-pepper
+bip_39_word_dash_11: result-action-return-machine-screen-fiction-plastic-retreat-buzz-pepper-shed
+bip_39_word_dash_12: result-action-return-machine-screen-fiction-plastic-retreat-buzz-pepper-shed-anger
+bip_39_word_dash_2: result-action
+bip_39_word_dash_3: result-action-return
+bip_39_word_dash_4: result-action-return-machine
+bip_39_word_dash_5: result-action-return-machine-screen
+bip_39_word_dash_6: result-action-return-machine-screen-fiction
+bip_39_word_dash_7: result-action-return-machine-screen-fiction-plastic
+bip_39_word_dash_8: result-action-return-machine-screen-fiction-plastic-retreat
+bip_39_word_dash_9: result-action-return-machine-screen-fiction-plastic-retreat-buzz
 bip_39_word_new_br_1: result
 bip_39_word_new_br_10: result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper
 bip_39_word_new_br_11: result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper<br>shed
@@ -194,6 +206,18 @@ bip_39_word_space_6: result action return machine screen fiction
 bip_39_word_space_7: result action return machine screen fiction plastic
 bip_39_word_space_8: result action return machine screen fiction plastic retreat
 bip_39_word_space_9: result action return machine screen fiction plastic retreat buzz
+bip_39_word_underscore_1: result
+bip_39_word_underscore_10: result_action_return_machine_screen_fiction_plastic_retreat_buzz_pepper
+bip_39_word_underscore_11: result_action_return_machine_screen_fiction_plastic_retreat_buzz_pepper_shed
+bip_39_word_underscore_12: result_action_return_machine_screen_fiction_plastic_retreat_buzz_pepper_shed_anger
+bip_39_word_underscore_2: result_action
+bip_39_word_underscore_3: result_action_return
+bip_39_word_underscore_4: result_action_return_machine
+bip_39_word_underscore_5: result_action_return_machine_screen
+bip_39_word_underscore_6: result_action_return_machine_screen_fiction
+bip_39_word_underscore_7: result_action_return_machine_screen_fiction_plastic
+bip_39_word_underscore_8: result_action_return_machine_screen_fiction_plastic_retreat
+bip_39_word_underscore_9: result_action_return_machine_screen_fiction_plastic_retreat_buzz
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

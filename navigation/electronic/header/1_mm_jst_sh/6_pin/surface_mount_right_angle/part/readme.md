@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alley |  
+| bip_39_word_dash_10 | alley-furnace-deliver-uphold-hand-edit-divide-true-wet-what |  
+| bip_39_word_dash_11 | alley-furnace-deliver-uphold-hand-edit-divide-true-wet-what-wrestle |  
+| bip_39_word_dash_12 | alley-furnace-deliver-uphold-hand-edit-divide-true-wet-what-wrestle-apart |  
+| bip_39_word_dash_2 | alley-furnace |  
+| bip_39_word_dash_3 | alley-furnace-deliver |  
+| bip_39_word_dash_4 | alley-furnace-deliver-uphold |  
+| bip_39_word_dash_5 | alley-furnace-deliver-uphold-hand |  
+| bip_39_word_dash_6 | alley-furnace-deliver-uphold-hand-edit |  
+| bip_39_word_dash_7 | alley-furnace-deliver-uphold-hand-edit-divide |  
+| bip_39_word_dash_8 | alley-furnace-deliver-uphold-hand-edit-divide-true |  
+| bip_39_word_dash_9 | alley-furnace-deliver-uphold-hand-edit-divide-true-wet |  
 | bip_39_word_new_br_1 | alley |  
 | bip_39_word_new_br_10 | alley<br>furnace<br>deliver<br>uphold<br>hand<br>edit<br>divide<br>true<br>wet<br>what |  
 | bip_39_word_new_br_11 | alley<br>furnace<br>deliver<br>uphold<br>hand<br>edit<br>divide<br>true<br>wet<br>what<br>wrestle |  
@@ -147,6 +159,18 @@ wet |
 | bip_39_word_space_7 | alley furnace deliver uphold hand edit divide |  
 | bip_39_word_space_8 | alley furnace deliver uphold hand edit divide true |  
 | bip_39_word_space_9 | alley furnace deliver uphold hand edit divide true wet |  
+| bip_39_word_underscore_1 | alley |  
+| bip_39_word_underscore_10 | alley_furnace_deliver_uphold_hand_edit_divide_true_wet_what |  
+| bip_39_word_underscore_11 | alley_furnace_deliver_uphold_hand_edit_divide_true_wet_what_wrestle |  
+| bip_39_word_underscore_12 | alley_furnace_deliver_uphold_hand_edit_divide_true_wet_what_wrestle_apart |  
+| bip_39_word_underscore_2 | alley_furnace |  
+| bip_39_word_underscore_3 | alley_furnace_deliver |  
+| bip_39_word_underscore_4 | alley_furnace_deliver_uphold |  
+| bip_39_word_underscore_5 | alley_furnace_deliver_uphold_hand |  
+| bip_39_word_underscore_6 | alley_furnace_deliver_uphold_hand_edit |  
+| bip_39_word_underscore_7 | alley_furnace_deliver_uphold_hand_edit_divide |  
+| bip_39_word_underscore_8 | alley_furnace_deliver_uphold_hand_edit_divide_true |  
+| bip_39_word_underscore_9 | alley_furnace_deliver_uphold_hand_edit_divide_true_wet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

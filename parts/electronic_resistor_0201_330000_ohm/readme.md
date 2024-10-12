@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | traffic |  
+| bip_39_word_dash_10 | traffic-jar-admit-club-now-gaze-snake-plunge-ensure-broccoli |  
+| bip_39_word_dash_11 | traffic-jar-admit-club-now-gaze-snake-plunge-ensure-broccoli-blossom |  
+| bip_39_word_dash_12 | traffic-jar-admit-club-now-gaze-snake-plunge-ensure-broccoli-blossom-abstract |  
+| bip_39_word_dash_2 | traffic-jar |  
+| bip_39_word_dash_3 | traffic-jar-admit |  
+| bip_39_word_dash_4 | traffic-jar-admit-club |  
+| bip_39_word_dash_5 | traffic-jar-admit-club-now |  
+| bip_39_word_dash_6 | traffic-jar-admit-club-now-gaze |  
+| bip_39_word_dash_7 | traffic-jar-admit-club-now-gaze-snake |  
+| bip_39_word_dash_8 | traffic-jar-admit-club-now-gaze-snake-plunge |  
+| bip_39_word_dash_9 | traffic-jar-admit-club-now-gaze-snake-plunge-ensure |  
 | bip_39_word_new_br_1 | traffic |  
 | bip_39_word_new_br_10 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge<br>ensure<br>broccoli |  
 | bip_39_word_new_br_11 | traffic<br>jar<br>admit<br>club<br>now<br>gaze<br>snake<br>plunge<br>ensure<br>broccoli<br>blossom |  
@@ -147,6 +159,18 @@ ensure |
 | bip_39_word_space_7 | traffic jar admit club now gaze snake |  
 | bip_39_word_space_8 | traffic jar admit club now gaze snake plunge |  
 | bip_39_word_space_9 | traffic jar admit club now gaze snake plunge ensure |  
+| bip_39_word_underscore_1 | traffic |  
+| bip_39_word_underscore_10 | traffic_jar_admit_club_now_gaze_snake_plunge_ensure_broccoli |  
+| bip_39_word_underscore_11 | traffic_jar_admit_club_now_gaze_snake_plunge_ensure_broccoli_blossom |  
+| bip_39_word_underscore_12 | traffic_jar_admit_club_now_gaze_snake_plunge_ensure_broccoli_blossom_abstract |  
+| bip_39_word_underscore_2 | traffic_jar |  
+| bip_39_word_underscore_3 | traffic_jar_admit |  
+| bip_39_word_underscore_4 | traffic_jar_admit_club |  
+| bip_39_word_underscore_5 | traffic_jar_admit_club_now |  
+| bip_39_word_underscore_6 | traffic_jar_admit_club_now_gaze |  
+| bip_39_word_underscore_7 | traffic_jar_admit_club_now_gaze_snake |  
+| bip_39_word_underscore_8 | traffic_jar_admit_club_now_gaze_snake_plunge |  
+| bip_39_word_underscore_9 | traffic_jar_admit_club_now_gaze_snake_plunge_ensure |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

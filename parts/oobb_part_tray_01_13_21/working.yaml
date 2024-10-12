@@ -1,3 +1,15 @@
+bip_39_word_dash_1: easily
+bip_39_word_dash_10: easily-often-dirt-become-entire-obtain-box-peasant-monster-point
+bip_39_word_dash_11: easily-often-dirt-become-entire-obtain-box-peasant-monster-point-harvest
+bip_39_word_dash_12: easily-often-dirt-become-entire-obtain-box-peasant-monster-point-harvest-ask
+bip_39_word_dash_2: easily-often
+bip_39_word_dash_3: easily-often-dirt
+bip_39_word_dash_4: easily-often-dirt-become
+bip_39_word_dash_5: easily-often-dirt-become-entire
+bip_39_word_dash_6: easily-often-dirt-become-entire-obtain
+bip_39_word_dash_7: easily-often-dirt-become-entire-obtain-box
+bip_39_word_dash_8: easily-often-dirt-become-entire-obtain-box-peasant
+bip_39_word_dash_9: easily-often-dirt-become-entire-obtain-box-peasant-monster
 bip_39_word_new_br_1: easily
 bip_39_word_new_br_10: easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point
 bip_39_word_new_br_11: easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point<br>harvest
@@ -193,6 +205,18 @@ bip_39_word_space_6: easily often dirt become entire obtain
 bip_39_word_space_7: easily often dirt become entire obtain box
 bip_39_word_space_8: easily often dirt become entire obtain box peasant
 bip_39_word_space_9: easily often dirt become entire obtain box peasant monster
+bip_39_word_underscore_1: easily
+bip_39_word_underscore_10: easily_often_dirt_become_entire_obtain_box_peasant_monster_point
+bip_39_word_underscore_11: easily_often_dirt_become_entire_obtain_box_peasant_monster_point_harvest
+bip_39_word_underscore_12: easily_often_dirt_become_entire_obtain_box_peasant_monster_point_harvest_ask
+bip_39_word_underscore_2: easily_often
+bip_39_word_underscore_3: easily_often_dirt
+bip_39_word_underscore_4: easily_often_dirt_become
+bip_39_word_underscore_5: easily_often_dirt_become_entire
+bip_39_word_underscore_6: easily_often_dirt_become_entire_obtain
+bip_39_word_underscore_7: easily_often_dirt_become_entire_obtain_box
+bip_39_word_underscore_8: easily_often_dirt_become_entire_obtain_box_peasant
+bip_39_word_underscore_9: easily_often_dirt_become_entire_obtain_box_peasant_monster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

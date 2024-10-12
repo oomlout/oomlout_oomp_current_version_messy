@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pulse |  
+| bip_39_word_dash_10 | pulse-moment-emerge-amount-tourist-hamster-dune-life-balcony-deal |  
+| bip_39_word_dash_11 | pulse-moment-emerge-amount-tourist-hamster-dune-life-balcony-deal-allow |  
+| bip_39_word_dash_12 | pulse-moment-emerge-amount-tourist-hamster-dune-life-balcony-deal-allow-ankle |  
+| bip_39_word_dash_2 | pulse-moment |  
+| bip_39_word_dash_3 | pulse-moment-emerge |  
+| bip_39_word_dash_4 | pulse-moment-emerge-amount |  
+| bip_39_word_dash_5 | pulse-moment-emerge-amount-tourist |  
+| bip_39_word_dash_6 | pulse-moment-emerge-amount-tourist-hamster |  
+| bip_39_word_dash_7 | pulse-moment-emerge-amount-tourist-hamster-dune |  
+| bip_39_word_dash_8 | pulse-moment-emerge-amount-tourist-hamster-dune-life |  
+| bip_39_word_dash_9 | pulse-moment-emerge-amount-tourist-hamster-dune-life-balcony |  
 | bip_39_word_new_br_1 | pulse |  
 | bip_39_word_new_br_10 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal |  
 | bip_39_word_new_br_11 | pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal<br>allow |  
@@ -147,6 +159,18 @@ balcony |
 | bip_39_word_space_7 | pulse moment emerge amount tourist hamster dune |  
 | bip_39_word_space_8 | pulse moment emerge amount tourist hamster dune life |  
 | bip_39_word_space_9 | pulse moment emerge amount tourist hamster dune life balcony |  
+| bip_39_word_underscore_1 | pulse |  
+| bip_39_word_underscore_10 | pulse_moment_emerge_amount_tourist_hamster_dune_life_balcony_deal |  
+| bip_39_word_underscore_11 | pulse_moment_emerge_amount_tourist_hamster_dune_life_balcony_deal_allow |  
+| bip_39_word_underscore_12 | pulse_moment_emerge_amount_tourist_hamster_dune_life_balcony_deal_allow_ankle |  
+| bip_39_word_underscore_2 | pulse_moment |  
+| bip_39_word_underscore_3 | pulse_moment_emerge |  
+| bip_39_word_underscore_4 | pulse_moment_emerge_amount |  
+| bip_39_word_underscore_5 | pulse_moment_emerge_amount_tourist |  
+| bip_39_word_underscore_6 | pulse_moment_emerge_amount_tourist_hamster |  
+| bip_39_word_underscore_7 | pulse_moment_emerge_amount_tourist_hamster_dune |  
+| bip_39_word_underscore_8 | pulse_moment_emerge_amount_tourist_hamster_dune_life |  
+| bip_39_word_underscore_9 | pulse_moment_emerge_amount_tourist_hamster_dune_life_balcony |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

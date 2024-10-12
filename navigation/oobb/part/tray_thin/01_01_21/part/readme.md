@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | celery |  
+| bip_39_word_dash_10 | celery-host-multiply-boring-magnet-wolf-unfold-question-stick-labor |  
+| bip_39_word_dash_11 | celery-host-multiply-boring-magnet-wolf-unfold-question-stick-labor-material |  
+| bip_39_word_dash_12 | celery-host-multiply-boring-magnet-wolf-unfold-question-stick-labor-material-arm |  
+| bip_39_word_dash_2 | celery-host |  
+| bip_39_word_dash_3 | celery-host-multiply |  
+| bip_39_word_dash_4 | celery-host-multiply-boring |  
+| bip_39_word_dash_5 | celery-host-multiply-boring-magnet |  
+| bip_39_word_dash_6 | celery-host-multiply-boring-magnet-wolf |  
+| bip_39_word_dash_7 | celery-host-multiply-boring-magnet-wolf-unfold |  
+| bip_39_word_dash_8 | celery-host-multiply-boring-magnet-wolf-unfold-question |  
+| bip_39_word_dash_9 | celery-host-multiply-boring-magnet-wolf-unfold-question-stick |  
 | bip_39_word_new_br_1 | celery |  
 | bip_39_word_new_br_10 | celery<br>host<br>multiply<br>boring<br>magnet<br>wolf<br>unfold<br>question<br>stick<br>labor |  
 | bip_39_word_new_br_11 | celery<br>host<br>multiply<br>boring<br>magnet<br>wolf<br>unfold<br>question<br>stick<br>labor<br>material |  
@@ -147,6 +159,18 @@ stick |
 | bip_39_word_space_7 | celery host multiply boring magnet wolf unfold |  
 | bip_39_word_space_8 | celery host multiply boring magnet wolf unfold question |  
 | bip_39_word_space_9 | celery host multiply boring magnet wolf unfold question stick |  
+| bip_39_word_underscore_1 | celery |  
+| bip_39_word_underscore_10 | celery_host_multiply_boring_magnet_wolf_unfold_question_stick_labor |  
+| bip_39_word_underscore_11 | celery_host_multiply_boring_magnet_wolf_unfold_question_stick_labor_material |  
+| bip_39_word_underscore_12 | celery_host_multiply_boring_magnet_wolf_unfold_question_stick_labor_material_arm |  
+| bip_39_word_underscore_2 | celery_host |  
+| bip_39_word_underscore_3 | celery_host_multiply |  
+| bip_39_word_underscore_4 | celery_host_multiply_boring |  
+| bip_39_word_underscore_5 | celery_host_multiply_boring_magnet |  
+| bip_39_word_underscore_6 | celery_host_multiply_boring_magnet_wolf |  
+| bip_39_word_underscore_7 | celery_host_multiply_boring_magnet_wolf_unfold |  
+| bip_39_word_underscore_8 | celery_host_multiply_boring_magnet_wolf_unfold_question |  
+| bip_39_word_underscore_9 | celery_host_multiply_boring_magnet_wolf_unfold_question_stick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

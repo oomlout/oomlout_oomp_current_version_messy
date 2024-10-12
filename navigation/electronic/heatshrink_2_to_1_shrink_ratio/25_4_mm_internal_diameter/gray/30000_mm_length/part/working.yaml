@@ -1,3 +1,15 @@
+bip_39_word_dash_1: valley
+bip_39_word_dash_10: valley-scale-orchard-stand-human-fragile-clip-duck-shadow-mesh
+bip_39_word_dash_11: valley-scale-orchard-stand-human-fragile-clip-duck-shadow-mesh-kidney
+bip_39_word_dash_12: valley-scale-orchard-stand-human-fragile-clip-duck-shadow-mesh-kidney-august
+bip_39_word_dash_2: valley-scale
+bip_39_word_dash_3: valley-scale-orchard
+bip_39_word_dash_4: valley-scale-orchard-stand
+bip_39_word_dash_5: valley-scale-orchard-stand-human
+bip_39_word_dash_6: valley-scale-orchard-stand-human-fragile
+bip_39_word_dash_7: valley-scale-orchard-stand-human-fragile-clip
+bip_39_word_dash_8: valley-scale-orchard-stand-human-fragile-clip-duck
+bip_39_word_dash_9: valley-scale-orchard-stand-human-fragile-clip-duck-shadow
 bip_39_word_new_br_1: valley
 bip_39_word_new_br_10: valley<br>scale<br>orchard<br>stand<br>human<br>fragile<br>clip<br>duck<br>shadow<br>mesh
 bip_39_word_new_br_11: valley<br>scale<br>orchard<br>stand<br>human<br>fragile<br>clip<br>duck<br>shadow<br>mesh<br>kidney
@@ -193,6 +205,18 @@ bip_39_word_space_6: valley scale orchard stand human fragile
 bip_39_word_space_7: valley scale orchard stand human fragile clip
 bip_39_word_space_8: valley scale orchard stand human fragile clip duck
 bip_39_word_space_9: valley scale orchard stand human fragile clip duck shadow
+bip_39_word_underscore_1: valley
+bip_39_word_underscore_10: valley_scale_orchard_stand_human_fragile_clip_duck_shadow_mesh
+bip_39_word_underscore_11: valley_scale_orchard_stand_human_fragile_clip_duck_shadow_mesh_kidney
+bip_39_word_underscore_12: valley_scale_orchard_stand_human_fragile_clip_duck_shadow_mesh_kidney_august
+bip_39_word_underscore_2: valley_scale
+bip_39_word_underscore_3: valley_scale_orchard
+bip_39_word_underscore_4: valley_scale_orchard_stand
+bip_39_word_underscore_5: valley_scale_orchard_stand_human
+bip_39_word_underscore_6: valley_scale_orchard_stand_human_fragile
+bip_39_word_underscore_7: valley_scale_orchard_stand_human_fragile_clip
+bip_39_word_underscore_8: valley_scale_orchard_stand_human_fragile_clip_duck
+bip_39_word_underscore_9: valley_scale_orchard_stand_human_fragile_clip_duck_shadow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

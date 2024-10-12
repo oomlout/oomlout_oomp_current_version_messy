@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hen |  
+| bip_39_word_dash_10 | hen-turtle-dash-jump-crater-slide-spread-farm-weekend-wrestle |  
+| bip_39_word_dash_11 | hen-turtle-dash-jump-crater-slide-spread-farm-weekend-wrestle-caution |  
+| bip_39_word_dash_12 | hen-turtle-dash-jump-crater-slide-spread-farm-weekend-wrestle-caution-artist |  
+| bip_39_word_dash_2 | hen-turtle |  
+| bip_39_word_dash_3 | hen-turtle-dash |  
+| bip_39_word_dash_4 | hen-turtle-dash-jump |  
+| bip_39_word_dash_5 | hen-turtle-dash-jump-crater |  
+| bip_39_word_dash_6 | hen-turtle-dash-jump-crater-slide |  
+| bip_39_word_dash_7 | hen-turtle-dash-jump-crater-slide-spread |  
+| bip_39_word_dash_8 | hen-turtle-dash-jump-crater-slide-spread-farm |  
+| bip_39_word_dash_9 | hen-turtle-dash-jump-crater-slide-spread-farm-weekend |  
 | bip_39_word_new_br_1 | hen |  
 | bip_39_word_new_br_10 | hen<br>turtle<br>dash<br>jump<br>crater<br>slide<br>spread<br>farm<br>weekend<br>wrestle |  
 | bip_39_word_new_br_11 | hen<br>turtle<br>dash<br>jump<br>crater<br>slide<br>spread<br>farm<br>weekend<br>wrestle<br>caution |  
@@ -147,6 +159,18 @@ weekend |
 | bip_39_word_space_7 | hen turtle dash jump crater slide spread |  
 | bip_39_word_space_8 | hen turtle dash jump crater slide spread farm |  
 | bip_39_word_space_9 | hen turtle dash jump crater slide spread farm weekend |  
+| bip_39_word_underscore_1 | hen |  
+| bip_39_word_underscore_10 | hen_turtle_dash_jump_crater_slide_spread_farm_weekend_wrestle |  
+| bip_39_word_underscore_11 | hen_turtle_dash_jump_crater_slide_spread_farm_weekend_wrestle_caution |  
+| bip_39_word_underscore_12 | hen_turtle_dash_jump_crater_slide_spread_farm_weekend_wrestle_caution_artist |  
+| bip_39_word_underscore_2 | hen_turtle |  
+| bip_39_word_underscore_3 | hen_turtle_dash |  
+| bip_39_word_underscore_4 | hen_turtle_dash_jump |  
+| bip_39_word_underscore_5 | hen_turtle_dash_jump_crater |  
+| bip_39_word_underscore_6 | hen_turtle_dash_jump_crater_slide |  
+| bip_39_word_underscore_7 | hen_turtle_dash_jump_crater_slide_spread |  
+| bip_39_word_underscore_8 | hen_turtle_dash_jump_crater_slide_spread_farm |  
+| bip_39_word_underscore_9 | hen_turtle_dash_jump_crater_slide_spread_farm_weekend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

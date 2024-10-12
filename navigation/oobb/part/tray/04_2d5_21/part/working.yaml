@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pilot
+bip_39_word_dash_10: pilot-trim-eight-robust-pledge-armor-bulk-canoe-iron-any
+bip_39_word_dash_11: pilot-trim-eight-robust-pledge-armor-bulk-canoe-iron-any-culture
+bip_39_word_dash_12: pilot-trim-eight-robust-pledge-armor-bulk-canoe-iron-any-culture-address
+bip_39_word_dash_2: pilot-trim
+bip_39_word_dash_3: pilot-trim-eight
+bip_39_word_dash_4: pilot-trim-eight-robust
+bip_39_word_dash_5: pilot-trim-eight-robust-pledge
+bip_39_word_dash_6: pilot-trim-eight-robust-pledge-armor
+bip_39_word_dash_7: pilot-trim-eight-robust-pledge-armor-bulk
+bip_39_word_dash_8: pilot-trim-eight-robust-pledge-armor-bulk-canoe
+bip_39_word_dash_9: pilot-trim-eight-robust-pledge-armor-bulk-canoe-iron
 bip_39_word_new_br_1: pilot
 bip_39_word_new_br_10: pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe<br>iron<br>any
 bip_39_word_new_br_11: pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe<br>iron<br>any<br>culture
@@ -192,6 +204,18 @@ bip_39_word_space_6: pilot trim eight robust pledge armor
 bip_39_word_space_7: pilot trim eight robust pledge armor bulk
 bip_39_word_space_8: pilot trim eight robust pledge armor bulk canoe
 bip_39_word_space_9: pilot trim eight robust pledge armor bulk canoe iron
+bip_39_word_underscore_1: pilot
+bip_39_word_underscore_10: pilot_trim_eight_robust_pledge_armor_bulk_canoe_iron_any
+bip_39_word_underscore_11: pilot_trim_eight_robust_pledge_armor_bulk_canoe_iron_any_culture
+bip_39_word_underscore_12: pilot_trim_eight_robust_pledge_armor_bulk_canoe_iron_any_culture_address
+bip_39_word_underscore_2: pilot_trim
+bip_39_word_underscore_3: pilot_trim_eight
+bip_39_word_underscore_4: pilot_trim_eight_robust
+bip_39_word_underscore_5: pilot_trim_eight_robust_pledge
+bip_39_word_underscore_6: pilot_trim_eight_robust_pledge_armor
+bip_39_word_underscore_7: pilot_trim_eight_robust_pledge_armor_bulk
+bip_39_word_underscore_8: pilot_trim_eight_robust_pledge_armor_bulk_canoe
+bip_39_word_underscore_9: pilot_trim_eight_robust_pledge_armor_bulk_canoe_iron
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

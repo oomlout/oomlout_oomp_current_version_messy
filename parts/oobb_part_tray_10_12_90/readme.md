@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | valve |  
+| bip_39_word_dash_10 | valve-fiscal-object-monitor-fringe-now-trend-grid-drum-save |  
+| bip_39_word_dash_11 | valve-fiscal-object-monitor-fringe-now-trend-grid-drum-save-person |  
+| bip_39_word_dash_12 | valve-fiscal-object-monitor-fringe-now-trend-grid-drum-save-person-armor |  
+| bip_39_word_dash_2 | valve-fiscal |  
+| bip_39_word_dash_3 | valve-fiscal-object |  
+| bip_39_word_dash_4 | valve-fiscal-object-monitor |  
+| bip_39_word_dash_5 | valve-fiscal-object-monitor-fringe |  
+| bip_39_word_dash_6 | valve-fiscal-object-monitor-fringe-now |  
+| bip_39_word_dash_7 | valve-fiscal-object-monitor-fringe-now-trend |  
+| bip_39_word_dash_8 | valve-fiscal-object-monitor-fringe-now-trend-grid |  
+| bip_39_word_dash_9 | valve-fiscal-object-monitor-fringe-now-trend-grid-drum |  
 | bip_39_word_new_br_1 | valve |  
 | bip_39_word_new_br_10 | valve<br>fiscal<br>object<br>monitor<br>fringe<br>now<br>trend<br>grid<br>drum<br>save |  
 | bip_39_word_new_br_11 | valve<br>fiscal<br>object<br>monitor<br>fringe<br>now<br>trend<br>grid<br>drum<br>save<br>person |  
@@ -147,6 +159,18 @@ drum |
 | bip_39_word_space_7 | valve fiscal object monitor fringe now trend |  
 | bip_39_word_space_8 | valve fiscal object monitor fringe now trend grid |  
 | bip_39_word_space_9 | valve fiscal object monitor fringe now trend grid drum |  
+| bip_39_word_underscore_1 | valve |  
+| bip_39_word_underscore_10 | valve_fiscal_object_monitor_fringe_now_trend_grid_drum_save |  
+| bip_39_word_underscore_11 | valve_fiscal_object_monitor_fringe_now_trend_grid_drum_save_person |  
+| bip_39_word_underscore_12 | valve_fiscal_object_monitor_fringe_now_trend_grid_drum_save_person_armor |  
+| bip_39_word_underscore_2 | valve_fiscal |  
+| bip_39_word_underscore_3 | valve_fiscal_object |  
+| bip_39_word_underscore_4 | valve_fiscal_object_monitor |  
+| bip_39_word_underscore_5 | valve_fiscal_object_monitor_fringe |  
+| bip_39_word_underscore_6 | valve_fiscal_object_monitor_fringe_now |  
+| bip_39_word_underscore_7 | valve_fiscal_object_monitor_fringe_now_trend |  
+| bip_39_word_underscore_8 | valve_fiscal_object_monitor_fringe_now_trend_grid |  
+| bip_39_word_underscore_9 | valve_fiscal_object_monitor_fringe_now_trend_grid_drum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

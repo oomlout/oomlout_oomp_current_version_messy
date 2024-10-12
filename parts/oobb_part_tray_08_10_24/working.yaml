@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pupil
+bip_39_word_dash_10: pupil-twenty-practice-tide-lion-ring-ginger-net-corn-habit
+bip_39_word_dash_11: pupil-twenty-practice-tide-lion-ring-ginger-net-corn-habit-same
+bip_39_word_dash_12: pupil-twenty-practice-tide-lion-ring-ginger-net-corn-habit-same-amused
+bip_39_word_dash_2: pupil-twenty
+bip_39_word_dash_3: pupil-twenty-practice
+bip_39_word_dash_4: pupil-twenty-practice-tide
+bip_39_word_dash_5: pupil-twenty-practice-tide-lion
+bip_39_word_dash_6: pupil-twenty-practice-tide-lion-ring
+bip_39_word_dash_7: pupil-twenty-practice-tide-lion-ring-ginger
+bip_39_word_dash_8: pupil-twenty-practice-tide-lion-ring-ginger-net
+bip_39_word_dash_9: pupil-twenty-practice-tide-lion-ring-ginger-net-corn
 bip_39_word_new_br_1: pupil
 bip_39_word_new_br_10: pupil<br>twenty<br>practice<br>tide<br>lion<br>ring<br>ginger<br>net<br>corn<br>habit
 bip_39_word_new_br_11: pupil<br>twenty<br>practice<br>tide<br>lion<br>ring<br>ginger<br>net<br>corn<br>habit<br>same
@@ -192,6 +204,18 @@ bip_39_word_space_6: pupil twenty practice tide lion ring
 bip_39_word_space_7: pupil twenty practice tide lion ring ginger
 bip_39_word_space_8: pupil twenty practice tide lion ring ginger net
 bip_39_word_space_9: pupil twenty practice tide lion ring ginger net corn
+bip_39_word_underscore_1: pupil
+bip_39_word_underscore_10: pupil_twenty_practice_tide_lion_ring_ginger_net_corn_habit
+bip_39_word_underscore_11: pupil_twenty_practice_tide_lion_ring_ginger_net_corn_habit_same
+bip_39_word_underscore_12: pupil_twenty_practice_tide_lion_ring_ginger_net_corn_habit_same_amused
+bip_39_word_underscore_2: pupil_twenty
+bip_39_word_underscore_3: pupil_twenty_practice
+bip_39_word_underscore_4: pupil_twenty_practice_tide
+bip_39_word_underscore_5: pupil_twenty_practice_tide_lion
+bip_39_word_underscore_6: pupil_twenty_practice_tide_lion_ring
+bip_39_word_underscore_7: pupil_twenty_practice_tide_lion_ring_ginger
+bip_39_word_underscore_8: pupil_twenty_practice_tide_lion_ring_ginger_net
+bip_39_word_underscore_9: pupil_twenty_practice_tide_lion_ring_ginger_net_corn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

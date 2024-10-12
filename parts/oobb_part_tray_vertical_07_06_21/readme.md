@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bless |  
+| bip_39_word_dash_10 | bless-embrace-bus-echo-soap-notable-bag-still-glow-nasty |  
+| bip_39_word_dash_11 | bless-embrace-bus-echo-soap-notable-bag-still-glow-nasty-butter |  
+| bip_39_word_dash_12 | bless-embrace-bus-echo-soap-notable-bag-still-glow-nasty-butter-arch |  
+| bip_39_word_dash_2 | bless-embrace |  
+| bip_39_word_dash_3 | bless-embrace-bus |  
+| bip_39_word_dash_4 | bless-embrace-bus-echo |  
+| bip_39_word_dash_5 | bless-embrace-bus-echo-soap |  
+| bip_39_word_dash_6 | bless-embrace-bus-echo-soap-notable |  
+| bip_39_word_dash_7 | bless-embrace-bus-echo-soap-notable-bag |  
+| bip_39_word_dash_8 | bless-embrace-bus-echo-soap-notable-bag-still |  
+| bip_39_word_dash_9 | bless-embrace-bus-echo-soap-notable-bag-still-glow |  
 | bip_39_word_new_br_1 | bless |  
 | bip_39_word_new_br_10 | bless<br>embrace<br>bus<br>echo<br>soap<br>notable<br>bag<br>still<br>glow<br>nasty |  
 | bip_39_word_new_br_11 | bless<br>embrace<br>bus<br>echo<br>soap<br>notable<br>bag<br>still<br>glow<br>nasty<br>butter |  
@@ -147,6 +159,18 @@ glow |
 | bip_39_word_space_7 | bless embrace bus echo soap notable bag |  
 | bip_39_word_space_8 | bless embrace bus echo soap notable bag still |  
 | bip_39_word_space_9 | bless embrace bus echo soap notable bag still glow |  
+| bip_39_word_underscore_1 | bless |  
+| bip_39_word_underscore_10 | bless_embrace_bus_echo_soap_notable_bag_still_glow_nasty |  
+| bip_39_word_underscore_11 | bless_embrace_bus_echo_soap_notable_bag_still_glow_nasty_butter |  
+| bip_39_word_underscore_12 | bless_embrace_bus_echo_soap_notable_bag_still_glow_nasty_butter_arch |  
+| bip_39_word_underscore_2 | bless_embrace |  
+| bip_39_word_underscore_3 | bless_embrace_bus |  
+| bip_39_word_underscore_4 | bless_embrace_bus_echo |  
+| bip_39_word_underscore_5 | bless_embrace_bus_echo_soap |  
+| bip_39_word_underscore_6 | bless_embrace_bus_echo_soap_notable |  
+| bip_39_word_underscore_7 | bless_embrace_bus_echo_soap_notable_bag |  
+| bip_39_word_underscore_8 | bless_embrace_bus_echo_soap_notable_bag_still |  
+| bip_39_word_underscore_9 | bless_embrace_bus_echo_soap_notable_bag_still_glow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

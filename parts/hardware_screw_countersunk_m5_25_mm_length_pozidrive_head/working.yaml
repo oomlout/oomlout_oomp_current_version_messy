@@ -1,3 +1,15 @@
+bip_39_word_dash_1: measure
+bip_39_word_dash_10: measure-merge-swap-snap-number-culture-shine-ozone-armor-limb
+bip_39_word_dash_11: measure-merge-swap-snap-number-culture-shine-ozone-armor-limb-limb
+bip_39_word_dash_12: measure-merge-swap-snap-number-culture-shine-ozone-armor-limb-limb-above
+bip_39_word_dash_2: measure-merge
+bip_39_word_dash_3: measure-merge-swap
+bip_39_word_dash_4: measure-merge-swap-snap
+bip_39_word_dash_5: measure-merge-swap-snap-number
+bip_39_word_dash_6: measure-merge-swap-snap-number-culture
+bip_39_word_dash_7: measure-merge-swap-snap-number-culture-shine
+bip_39_word_dash_8: measure-merge-swap-snap-number-culture-shine-ozone
+bip_39_word_dash_9: measure-merge-swap-snap-number-culture-shine-ozone-armor
 bip_39_word_new_br_1: measure
 bip_39_word_new_br_10: measure<br>merge<br>swap<br>snap<br>number<br>culture<br>shine<br>ozone<br>armor<br>limb
 bip_39_word_new_br_11: measure<br>merge<br>swap<br>snap<br>number<br>culture<br>shine<br>ozone<br>armor<br>limb<br>limb
@@ -193,6 +205,18 @@ bip_39_word_space_6: measure merge swap snap number culture
 bip_39_word_space_7: measure merge swap snap number culture shine
 bip_39_word_space_8: measure merge swap snap number culture shine ozone
 bip_39_word_space_9: measure merge swap snap number culture shine ozone armor
+bip_39_word_underscore_1: measure
+bip_39_word_underscore_10: measure_merge_swap_snap_number_culture_shine_ozone_armor_limb
+bip_39_word_underscore_11: measure_merge_swap_snap_number_culture_shine_ozone_armor_limb_limb
+bip_39_word_underscore_12: measure_merge_swap_snap_number_culture_shine_ozone_armor_limb_limb_above
+bip_39_word_underscore_2: measure_merge
+bip_39_word_underscore_3: measure_merge_swap
+bip_39_word_underscore_4: measure_merge_swap_snap
+bip_39_word_underscore_5: measure_merge_swap_snap_number
+bip_39_word_underscore_6: measure_merge_swap_snap_number_culture
+bip_39_word_underscore_7: measure_merge_swap_snap_number_culture_shine
+bip_39_word_underscore_8: measure_merge_swap_snap_number_culture_shine_ozone
+bip_39_word_underscore_9: measure_merge_swap_snap_number_culture_shine_ozone_armor
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

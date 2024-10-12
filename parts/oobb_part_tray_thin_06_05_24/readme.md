@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soldier |  
+| bip_39_word_dash_10 | soldier-enlist-member-deny-cruel-excite-dream-can-crater-razor |  
+| bip_39_word_dash_11 | soldier-enlist-member-deny-cruel-excite-dream-can-crater-razor-quantum |  
+| bip_39_word_dash_12 | soldier-enlist-member-deny-cruel-excite-dream-can-crater-razor-quantum-artwork |  
+| bip_39_word_dash_2 | soldier-enlist |  
+| bip_39_word_dash_3 | soldier-enlist-member |  
+| bip_39_word_dash_4 | soldier-enlist-member-deny |  
+| bip_39_word_dash_5 | soldier-enlist-member-deny-cruel |  
+| bip_39_word_dash_6 | soldier-enlist-member-deny-cruel-excite |  
+| bip_39_word_dash_7 | soldier-enlist-member-deny-cruel-excite-dream |  
+| bip_39_word_dash_8 | soldier-enlist-member-deny-cruel-excite-dream-can |  
+| bip_39_word_dash_9 | soldier-enlist-member-deny-cruel-excite-dream-can-crater |  
 | bip_39_word_new_br_1 | soldier |  
 | bip_39_word_new_br_10 | soldier<br>enlist<br>member<br>deny<br>cruel<br>excite<br>dream<br>can<br>crater<br>razor |  
 | bip_39_word_new_br_11 | soldier<br>enlist<br>member<br>deny<br>cruel<br>excite<br>dream<br>can<br>crater<br>razor<br>quantum |  
@@ -147,6 +159,18 @@ crater |
 | bip_39_word_space_7 | soldier enlist member deny cruel excite dream |  
 | bip_39_word_space_8 | soldier enlist member deny cruel excite dream can |  
 | bip_39_word_space_9 | soldier enlist member deny cruel excite dream can crater |  
+| bip_39_word_underscore_1 | soldier |  
+| bip_39_word_underscore_10 | soldier_enlist_member_deny_cruel_excite_dream_can_crater_razor |  
+| bip_39_word_underscore_11 | soldier_enlist_member_deny_cruel_excite_dream_can_crater_razor_quantum |  
+| bip_39_word_underscore_12 | soldier_enlist_member_deny_cruel_excite_dream_can_crater_razor_quantum_artwork |  
+| bip_39_word_underscore_2 | soldier_enlist |  
+| bip_39_word_underscore_3 | soldier_enlist_member |  
+| bip_39_word_underscore_4 | soldier_enlist_member_deny |  
+| bip_39_word_underscore_5 | soldier_enlist_member_deny_cruel |  
+| bip_39_word_underscore_6 | soldier_enlist_member_deny_cruel_excite |  
+| bip_39_word_underscore_7 | soldier_enlist_member_deny_cruel_excite_dream |  
+| bip_39_word_underscore_8 | soldier_enlist_member_deny_cruel_excite_dream_can |  
+| bip_39_word_underscore_9 | soldier_enlist_member_deny_cruel_excite_dream_can_crater |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,14 @@
+bip_39_word_dash_1: kangaroo
+bip_39_word_dash_10: kangaroo-flat-marriage-alien-ancient-federal-physical-web-require-thumb
+bip_39_word_dash_11: kangaroo-flat-marriage-alien-ancient-federal-physical-web-require-thumb-cement
+bip_39_word_dash_2: kangaroo-flat
+bip_39_word_dash_3: kangaroo-flat-marriage
+bip_39_word_dash_4: kangaroo-flat-marriage-alien
+bip_39_word_dash_5: kangaroo-flat-marriage-alien-ancient
+bip_39_word_dash_6: kangaroo-flat-marriage-alien-ancient-federal
+bip_39_word_dash_7: kangaroo-flat-marriage-alien-ancient-federal-physical
+bip_39_word_dash_8: kangaroo-flat-marriage-alien-ancient-federal-physical-web
+bip_39_word_dash_9: kangaroo-flat-marriage-alien-ancient-federal-physical-web-require
 bip_39_word_new_br_1: kangaroo
 bip_39_word_new_br_10: kangaroo<br>flat<br>marriage<br>alien<br>ancient<br>federal<br>physical<br>web<br>require<br>thumb
 bip_39_word_new_br_11: kangaroo<br>flat<br>marriage<br>alien<br>ancient<br>federal<br>physical<br>web<br>require<br>thumb<br>cement
@@ -166,6 +177,17 @@ bip_39_word_space_6: kangaroo flat marriage alien ancient federal
 bip_39_word_space_7: kangaroo flat marriage alien ancient federal physical
 bip_39_word_space_8: kangaroo flat marriage alien ancient federal physical web
 bip_39_word_space_9: kangaroo flat marriage alien ancient federal physical web require
+bip_39_word_underscore_1: kangaroo
+bip_39_word_underscore_10: kangaroo_flat_marriage_alien_ancient_federal_physical_web_require_thumb
+bip_39_word_underscore_11: kangaroo_flat_marriage_alien_ancient_federal_physical_web_require_thumb_cement
+bip_39_word_underscore_2: kangaroo_flat
+bip_39_word_underscore_3: kangaroo_flat_marriage
+bip_39_word_underscore_4: kangaroo_flat_marriage_alien
+bip_39_word_underscore_5: kangaroo_flat_marriage_alien_ancient
+bip_39_word_underscore_6: kangaroo_flat_marriage_alien_ancient_federal
+bip_39_word_underscore_7: kangaroo_flat_marriage_alien_ancient_federal_physical
+bip_39_word_underscore_8: kangaroo_flat_marriage_alien_ancient_federal_physical_web
+bip_39_word_underscore_9: kangaroo_flat_marriage_alien_ancient_federal_physical_web_require
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

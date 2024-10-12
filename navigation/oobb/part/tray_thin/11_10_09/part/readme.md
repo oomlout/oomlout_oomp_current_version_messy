@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sad |  
+| bip_39_word_dash_10 | sad-enjoy-cool-put-mention-pumpkin-aim-make-woman-chair |  
+| bip_39_word_dash_11 | sad-enjoy-cool-put-mention-pumpkin-aim-make-woman-chair-rail |  
+| bip_39_word_dash_12 | sad-enjoy-cool-put-mention-pumpkin-aim-make-woman-chair-rail-actual |  
+| bip_39_word_dash_2 | sad-enjoy |  
+| bip_39_word_dash_3 | sad-enjoy-cool |  
+| bip_39_word_dash_4 | sad-enjoy-cool-put |  
+| bip_39_word_dash_5 | sad-enjoy-cool-put-mention |  
+| bip_39_word_dash_6 | sad-enjoy-cool-put-mention-pumpkin |  
+| bip_39_word_dash_7 | sad-enjoy-cool-put-mention-pumpkin-aim |  
+| bip_39_word_dash_8 | sad-enjoy-cool-put-mention-pumpkin-aim-make |  
+| bip_39_word_dash_9 | sad-enjoy-cool-put-mention-pumpkin-aim-make-woman |  
 | bip_39_word_new_br_1 | sad |  
 | bip_39_word_new_br_10 | sad<br>enjoy<br>cool<br>put<br>mention<br>pumpkin<br>aim<br>make<br>woman<br>chair |  
 | bip_39_word_new_br_11 | sad<br>enjoy<br>cool<br>put<br>mention<br>pumpkin<br>aim<br>make<br>woman<br>chair<br>rail |  
@@ -147,6 +159,18 @@ woman |
 | bip_39_word_space_7 | sad enjoy cool put mention pumpkin aim |  
 | bip_39_word_space_8 | sad enjoy cool put mention pumpkin aim make |  
 | bip_39_word_space_9 | sad enjoy cool put mention pumpkin aim make woman |  
+| bip_39_word_underscore_1 | sad |  
+| bip_39_word_underscore_10 | sad_enjoy_cool_put_mention_pumpkin_aim_make_woman_chair |  
+| bip_39_word_underscore_11 | sad_enjoy_cool_put_mention_pumpkin_aim_make_woman_chair_rail |  
+| bip_39_word_underscore_12 | sad_enjoy_cool_put_mention_pumpkin_aim_make_woman_chair_rail_actual |  
+| bip_39_word_underscore_2 | sad_enjoy |  
+| bip_39_word_underscore_3 | sad_enjoy_cool |  
+| bip_39_word_underscore_4 | sad_enjoy_cool_put |  
+| bip_39_word_underscore_5 | sad_enjoy_cool_put_mention |  
+| bip_39_word_underscore_6 | sad_enjoy_cool_put_mention_pumpkin |  
+| bip_39_word_underscore_7 | sad_enjoy_cool_put_mention_pumpkin_aim |  
+| bip_39_word_underscore_8 | sad_enjoy_cool_put_mention_pumpkin_aim_make |  
+| bip_39_word_underscore_9 | sad_enjoy_cool_put_mention_pumpkin_aim_make_woman |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

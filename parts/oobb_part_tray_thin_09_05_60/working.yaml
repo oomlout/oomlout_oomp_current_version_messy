@@ -1,3 +1,15 @@
+bip_39_word_dash_1: weapon
+bip_39_word_dash_10: weapon-bag-favorite-lake-danger-segment-position-lunar-marriage-tattoo
+bip_39_word_dash_11: weapon-bag-favorite-lake-danger-segment-position-lunar-marriage-tattoo-gadget
+bip_39_word_dash_12: weapon-bag-favorite-lake-danger-segment-position-lunar-marriage-tattoo-gadget-accuse
+bip_39_word_dash_2: weapon-bag
+bip_39_word_dash_3: weapon-bag-favorite
+bip_39_word_dash_4: weapon-bag-favorite-lake
+bip_39_word_dash_5: weapon-bag-favorite-lake-danger
+bip_39_word_dash_6: weapon-bag-favorite-lake-danger-segment
+bip_39_word_dash_7: weapon-bag-favorite-lake-danger-segment-position
+bip_39_word_dash_8: weapon-bag-favorite-lake-danger-segment-position-lunar
+bip_39_word_dash_9: weapon-bag-favorite-lake-danger-segment-position-lunar-marriage
 bip_39_word_new_br_1: weapon
 bip_39_word_new_br_10: weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar<br>marriage<br>tattoo
 bip_39_word_new_br_11: weapon<br>bag<br>favorite<br>lake<br>danger<br>segment<br>position<br>lunar<br>marriage<br>tattoo<br>gadget
@@ -194,6 +206,18 @@ bip_39_word_space_6: weapon bag favorite lake danger segment
 bip_39_word_space_7: weapon bag favorite lake danger segment position
 bip_39_word_space_8: weapon bag favorite lake danger segment position lunar
 bip_39_word_space_9: weapon bag favorite lake danger segment position lunar marriage
+bip_39_word_underscore_1: weapon
+bip_39_word_underscore_10: weapon_bag_favorite_lake_danger_segment_position_lunar_marriage_tattoo
+bip_39_word_underscore_11: weapon_bag_favorite_lake_danger_segment_position_lunar_marriage_tattoo_gadget
+bip_39_word_underscore_12: weapon_bag_favorite_lake_danger_segment_position_lunar_marriage_tattoo_gadget_accuse
+bip_39_word_underscore_2: weapon_bag
+bip_39_word_underscore_3: weapon_bag_favorite
+bip_39_word_underscore_4: weapon_bag_favorite_lake
+bip_39_word_underscore_5: weapon_bag_favorite_lake_danger
+bip_39_word_underscore_6: weapon_bag_favorite_lake_danger_segment
+bip_39_word_underscore_7: weapon_bag_favorite_lake_danger_segment_position
+bip_39_word_underscore_8: weapon_bag_favorite_lake_danger_segment_position_lunar
+bip_39_word_underscore_9: weapon_bag_favorite_lake_danger_segment_position_lunar_marriage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

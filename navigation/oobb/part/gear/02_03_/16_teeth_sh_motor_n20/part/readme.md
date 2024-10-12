@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | open |  
+| bip_39_word_dash_10 | open-install-now-fat-liberty-royal-odor-habit-spend-ripple |  
+| bip_39_word_dash_11 | open-install-now-fat-liberty-royal-odor-habit-spend-ripple-primary |  
+| bip_39_word_dash_12 | open-install-now-fat-liberty-royal-odor-habit-spend-ripple-primary-ability |  
+| bip_39_word_dash_2 | open-install |  
+| bip_39_word_dash_3 | open-install-now |  
+| bip_39_word_dash_4 | open-install-now-fat |  
+| bip_39_word_dash_5 | open-install-now-fat-liberty |  
+| bip_39_word_dash_6 | open-install-now-fat-liberty-royal |  
+| bip_39_word_dash_7 | open-install-now-fat-liberty-royal-odor |  
+| bip_39_word_dash_8 | open-install-now-fat-liberty-royal-odor-habit |  
+| bip_39_word_dash_9 | open-install-now-fat-liberty-royal-odor-habit-spend |  
 | bip_39_word_new_br_1 | open |  
 | bip_39_word_new_br_10 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit<br>spend<br>ripple |  
 | bip_39_word_new_br_11 | open<br>install<br>now<br>fat<br>liberty<br>royal<br>odor<br>habit<br>spend<br>ripple<br>primary |  
@@ -147,6 +159,18 @@ spend |
 | bip_39_word_space_7 | open install now fat liberty royal odor |  
 | bip_39_word_space_8 | open install now fat liberty royal odor habit |  
 | bip_39_word_space_9 | open install now fat liberty royal odor habit spend |  
+| bip_39_word_underscore_1 | open |  
+| bip_39_word_underscore_10 | open_install_now_fat_liberty_royal_odor_habit_spend_ripple |  
+| bip_39_word_underscore_11 | open_install_now_fat_liberty_royal_odor_habit_spend_ripple_primary |  
+| bip_39_word_underscore_12 | open_install_now_fat_liberty_royal_odor_habit_spend_ripple_primary_ability |  
+| bip_39_word_underscore_2 | open_install |  
+| bip_39_word_underscore_3 | open_install_now |  
+| bip_39_word_underscore_4 | open_install_now_fat |  
+| bip_39_word_underscore_5 | open_install_now_fat_liberty |  
+| bip_39_word_underscore_6 | open_install_now_fat_liberty_royal |  
+| bip_39_word_underscore_7 | open_install_now_fat_liberty_royal_odor |  
+| bip_39_word_underscore_8 | open_install_now_fat_liberty_royal_odor_habit |  
+| bip_39_word_underscore_9 | open_install_now_fat_liberty_royal_odor_habit_spend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

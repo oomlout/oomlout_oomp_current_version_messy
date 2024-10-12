@@ -1,3 +1,15 @@
+bip_39_word_dash_1: purity
+bip_39_word_dash_10: purity-detect-rug-talent-vapor-orchard-song-general-very-scorpion
+bip_39_word_dash_11: purity-detect-rug-talent-vapor-orchard-song-general-very-scorpion-someone
+bip_39_word_dash_12: purity-detect-rug-talent-vapor-orchard-song-general-very-scorpion-someone-another
+bip_39_word_dash_2: purity-detect
+bip_39_word_dash_3: purity-detect-rug
+bip_39_word_dash_4: purity-detect-rug-talent
+bip_39_word_dash_5: purity-detect-rug-talent-vapor
+bip_39_word_dash_6: purity-detect-rug-talent-vapor-orchard
+bip_39_word_dash_7: purity-detect-rug-talent-vapor-orchard-song
+bip_39_word_dash_8: purity-detect-rug-talent-vapor-orchard-song-general
+bip_39_word_dash_9: purity-detect-rug-talent-vapor-orchard-song-general-very
 bip_39_word_new_br_1: purity
 bip_39_word_new_br_10: purity<br>detect<br>rug<br>talent<br>vapor<br>orchard<br>song<br>general<br>very<br>scorpion
 bip_39_word_new_br_11: purity<br>detect<br>rug<br>talent<br>vapor<br>orchard<br>song<br>general<br>very<br>scorpion<br>someone
@@ -193,6 +205,18 @@ bip_39_word_space_6: purity detect rug talent vapor orchard
 bip_39_word_space_7: purity detect rug talent vapor orchard song
 bip_39_word_space_8: purity detect rug talent vapor orchard song general
 bip_39_word_space_9: purity detect rug talent vapor orchard song general very
+bip_39_word_underscore_1: purity
+bip_39_word_underscore_10: purity_detect_rug_talent_vapor_orchard_song_general_very_scorpion
+bip_39_word_underscore_11: purity_detect_rug_talent_vapor_orchard_song_general_very_scorpion_someone
+bip_39_word_underscore_12: purity_detect_rug_talent_vapor_orchard_song_general_very_scorpion_someone_another
+bip_39_word_underscore_2: purity_detect
+bip_39_word_underscore_3: purity_detect_rug
+bip_39_word_underscore_4: purity_detect_rug_talent
+bip_39_word_underscore_5: purity_detect_rug_talent_vapor
+bip_39_word_underscore_6: purity_detect_rug_talent_vapor_orchard
+bip_39_word_underscore_7: purity_detect_rug_talent_vapor_orchard_song
+bip_39_word_underscore_8: purity_detect_rug_talent_vapor_orchard_song_general
+bip_39_word_underscore_9: purity_detect_rug_talent_vapor_orchard_song_general_very
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: swing
+bip_39_word_dash_10: swing-length-embark-radar-camera-rather-display-truck-spoil-silver
+bip_39_word_dash_11: swing-length-embark-radar-camera-rather-display-truck-spoil-silver-hour
+bip_39_word_dash_12: swing-length-embark-radar-camera-rather-display-truck-spoil-silver-hour-anxiety
+bip_39_word_dash_2: swing-length
+bip_39_word_dash_3: swing-length-embark
+bip_39_word_dash_4: swing-length-embark-radar
+bip_39_word_dash_5: swing-length-embark-radar-camera
+bip_39_word_dash_6: swing-length-embark-radar-camera-rather
+bip_39_word_dash_7: swing-length-embark-radar-camera-rather-display
+bip_39_word_dash_8: swing-length-embark-radar-camera-rather-display-truck
+bip_39_word_dash_9: swing-length-embark-radar-camera-rather-display-truck-spoil
 bip_39_word_new_br_1: swing
 bip_39_word_new_br_10: swing<br>length<br>embark<br>radar<br>camera<br>rather<br>display<br>truck<br>spoil<br>silver
 bip_39_word_new_br_11: swing<br>length<br>embark<br>radar<br>camera<br>rather<br>display<br>truck<br>spoil<br>silver<br>hour
@@ -194,6 +206,18 @@ bip_39_word_space_6: swing length embark radar camera rather
 bip_39_word_space_7: swing length embark radar camera rather display
 bip_39_word_space_8: swing length embark radar camera rather display truck
 bip_39_word_space_9: swing length embark radar camera rather display truck spoil
+bip_39_word_underscore_1: swing
+bip_39_word_underscore_10: swing_length_embark_radar_camera_rather_display_truck_spoil_silver
+bip_39_word_underscore_11: swing_length_embark_radar_camera_rather_display_truck_spoil_silver_hour
+bip_39_word_underscore_12: swing_length_embark_radar_camera_rather_display_truck_spoil_silver_hour_anxiety
+bip_39_word_underscore_2: swing_length
+bip_39_word_underscore_3: swing_length_embark
+bip_39_word_underscore_4: swing_length_embark_radar
+bip_39_word_underscore_5: swing_length_embark_radar_camera
+bip_39_word_underscore_6: swing_length_embark_radar_camera_rather
+bip_39_word_underscore_7: swing_length_embark_radar_camera_rather_display
+bip_39_word_underscore_8: swing_length_embark_radar_camera_rather_display_truck
+bip_39_word_underscore_9: swing_length_embark_radar_camera_rather_display_truck_spoil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | neither |  
+| bip_39_word_dash_10 | neither-atom-grab-general-laptop-float-belt-orient-alone-front |  
+| bip_39_word_dash_11 | neither-atom-grab-general-laptop-float-belt-orient-alone-front-hobby |  
+| bip_39_word_dash_12 | neither-atom-grab-general-laptop-float-belt-orient-alone-front-hobby-arm |  
+| bip_39_word_dash_2 | neither-atom |  
+| bip_39_word_dash_3 | neither-atom-grab |  
+| bip_39_word_dash_4 | neither-atom-grab-general |  
+| bip_39_word_dash_5 | neither-atom-grab-general-laptop |  
+| bip_39_word_dash_6 | neither-atom-grab-general-laptop-float |  
+| bip_39_word_dash_7 | neither-atom-grab-general-laptop-float-belt |  
+| bip_39_word_dash_8 | neither-atom-grab-general-laptop-float-belt-orient |  
+| bip_39_word_dash_9 | neither-atom-grab-general-laptop-float-belt-orient-alone |  
 | bip_39_word_new_br_1 | neither |  
 | bip_39_word_new_br_10 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front |  
 | bip_39_word_new_br_11 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front<br>hobby |  
@@ -147,6 +159,18 @@ alone |
 | bip_39_word_space_7 | neither atom grab general laptop float belt |  
 | bip_39_word_space_8 | neither atom grab general laptop float belt orient |  
 | bip_39_word_space_9 | neither atom grab general laptop float belt orient alone |  
+| bip_39_word_underscore_1 | neither |  
+| bip_39_word_underscore_10 | neither_atom_grab_general_laptop_float_belt_orient_alone_front |  
+| bip_39_word_underscore_11 | neither_atom_grab_general_laptop_float_belt_orient_alone_front_hobby |  
+| bip_39_word_underscore_12 | neither_atom_grab_general_laptop_float_belt_orient_alone_front_hobby_arm |  
+| bip_39_word_underscore_2 | neither_atom |  
+| bip_39_word_underscore_3 | neither_atom_grab |  
+| bip_39_word_underscore_4 | neither_atom_grab_general |  
+| bip_39_word_underscore_5 | neither_atom_grab_general_laptop |  
+| bip_39_word_underscore_6 | neither_atom_grab_general_laptop_float |  
+| bip_39_word_underscore_7 | neither_atom_grab_general_laptop_float_belt |  
+| bip_39_word_underscore_8 | neither_atom_grab_general_laptop_float_belt_orient |  
+| bip_39_word_underscore_9 | neither_atom_grab_general_laptop_float_belt_orient_alone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

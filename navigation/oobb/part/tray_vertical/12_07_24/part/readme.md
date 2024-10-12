@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bridge |  
+| bip_39_word_dash_10 | bridge-lady-verb-luggage-believe-piece-swamp-urge-float-buzz |  
+| bip_39_word_dash_11 | bridge-lady-verb-luggage-believe-piece-swamp-urge-float-buzz-action |  
+| bip_39_word_dash_12 | bridge-lady-verb-luggage-believe-piece-swamp-urge-float-buzz-action-advice |  
+| bip_39_word_dash_2 | bridge-lady |  
+| bip_39_word_dash_3 | bridge-lady-verb |  
+| bip_39_word_dash_4 | bridge-lady-verb-luggage |  
+| bip_39_word_dash_5 | bridge-lady-verb-luggage-believe |  
+| bip_39_word_dash_6 | bridge-lady-verb-luggage-believe-piece |  
+| bip_39_word_dash_7 | bridge-lady-verb-luggage-believe-piece-swamp |  
+| bip_39_word_dash_8 | bridge-lady-verb-luggage-believe-piece-swamp-urge |  
+| bip_39_word_dash_9 | bridge-lady-verb-luggage-believe-piece-swamp-urge-float |  
 | bip_39_word_new_br_1 | bridge |  
 | bip_39_word_new_br_10 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz |  
 | bip_39_word_new_br_11 | bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz<br>action |  
@@ -147,6 +159,18 @@ float |
 | bip_39_word_space_7 | bridge lady verb luggage believe piece swamp |  
 | bip_39_word_space_8 | bridge lady verb luggage believe piece swamp urge |  
 | bip_39_word_space_9 | bridge lady verb luggage believe piece swamp urge float |  
+| bip_39_word_underscore_1 | bridge |  
+| bip_39_word_underscore_10 | bridge_lady_verb_luggage_believe_piece_swamp_urge_float_buzz |  
+| bip_39_word_underscore_11 | bridge_lady_verb_luggage_believe_piece_swamp_urge_float_buzz_action |  
+| bip_39_word_underscore_12 | bridge_lady_verb_luggage_believe_piece_swamp_urge_float_buzz_action_advice |  
+| bip_39_word_underscore_2 | bridge_lady |  
+| bip_39_word_underscore_3 | bridge_lady_verb |  
+| bip_39_word_underscore_4 | bridge_lady_verb_luggage |  
+| bip_39_word_underscore_5 | bridge_lady_verb_luggage_believe |  
+| bip_39_word_underscore_6 | bridge_lady_verb_luggage_believe_piece |  
+| bip_39_word_underscore_7 | bridge_lady_verb_luggage_believe_piece_swamp |  
+| bip_39_word_underscore_8 | bridge_lady_verb_luggage_believe_piece_swamp_urge |  
+| bip_39_word_underscore_9 | bridge_lady_verb_luggage_believe_piece_swamp_urge_float |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

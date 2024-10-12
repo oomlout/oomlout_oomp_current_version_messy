@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | copy |  
+| bip_39_word_dash_10 | copy-snap-foam-ensure-tide-smile-detect-cement-wagon-better |  
+| bip_39_word_dash_11 | copy-snap-foam-ensure-tide-smile-detect-cement-wagon-better-equip |  
+| bip_39_word_dash_12 | copy-snap-foam-ensure-tide-smile-detect-cement-wagon-better-equip-album |  
+| bip_39_word_dash_2 | copy-snap |  
+| bip_39_word_dash_3 | copy-snap-foam |  
+| bip_39_word_dash_4 | copy-snap-foam-ensure |  
+| bip_39_word_dash_5 | copy-snap-foam-ensure-tide |  
+| bip_39_word_dash_6 | copy-snap-foam-ensure-tide-smile |  
+| bip_39_word_dash_7 | copy-snap-foam-ensure-tide-smile-detect |  
+| bip_39_word_dash_8 | copy-snap-foam-ensure-tide-smile-detect-cement |  
+| bip_39_word_dash_9 | copy-snap-foam-ensure-tide-smile-detect-cement-wagon |  
 | bip_39_word_new_br_1 | copy |  
 | bip_39_word_new_br_10 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better |  
 | bip_39_word_new_br_11 | copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better<br>equip |  
@@ -147,6 +159,18 @@ wagon |
 | bip_39_word_space_7 | copy snap foam ensure tide smile detect |  
 | bip_39_word_space_8 | copy snap foam ensure tide smile detect cement |  
 | bip_39_word_space_9 | copy snap foam ensure tide smile detect cement wagon |  
+| bip_39_word_underscore_1 | copy |  
+| bip_39_word_underscore_10 | copy_snap_foam_ensure_tide_smile_detect_cement_wagon_better |  
+| bip_39_word_underscore_11 | copy_snap_foam_ensure_tide_smile_detect_cement_wagon_better_equip |  
+| bip_39_word_underscore_12 | copy_snap_foam_ensure_tide_smile_detect_cement_wagon_better_equip_album |  
+| bip_39_word_underscore_2 | copy_snap |  
+| bip_39_word_underscore_3 | copy_snap_foam |  
+| bip_39_word_underscore_4 | copy_snap_foam_ensure |  
+| bip_39_word_underscore_5 | copy_snap_foam_ensure_tide |  
+| bip_39_word_underscore_6 | copy_snap_foam_ensure_tide_smile |  
+| bip_39_word_underscore_7 | copy_snap_foam_ensure_tide_smile_detect |  
+| bip_39_word_underscore_8 | copy_snap_foam_ensure_tide_smile_detect_cement |  
+| bip_39_word_underscore_9 | copy_snap_foam_ensure_tide_smile_detect_cement_wagon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

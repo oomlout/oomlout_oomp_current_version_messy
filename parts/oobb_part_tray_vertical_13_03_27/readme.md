@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hire |  
+| bip_39_word_dash_10 | hire-diesel-faculty-junk-require-prize-worth-hotel-wool-decide |  
+| bip_39_word_dash_11 | hire-diesel-faculty-junk-require-prize-worth-hotel-wool-decide-country |  
+| bip_39_word_dash_12 | hire-diesel-faculty-junk-require-prize-worth-hotel-wool-decide-country-amused |  
+| bip_39_word_dash_2 | hire-diesel |  
+| bip_39_word_dash_3 | hire-diesel-faculty |  
+| bip_39_word_dash_4 | hire-diesel-faculty-junk |  
+| bip_39_word_dash_5 | hire-diesel-faculty-junk-require |  
+| bip_39_word_dash_6 | hire-diesel-faculty-junk-require-prize |  
+| bip_39_word_dash_7 | hire-diesel-faculty-junk-require-prize-worth |  
+| bip_39_word_dash_8 | hire-diesel-faculty-junk-require-prize-worth-hotel |  
+| bip_39_word_dash_9 | hire-diesel-faculty-junk-require-prize-worth-hotel-wool |  
 | bip_39_word_new_br_1 | hire |  
 | bip_39_word_new_br_10 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel<br>wool<br>decide |  
 | bip_39_word_new_br_11 | hire<br>diesel<br>faculty<br>junk<br>require<br>prize<br>worth<br>hotel<br>wool<br>decide<br>country |  
@@ -147,6 +159,18 @@ wool |
 | bip_39_word_space_7 | hire diesel faculty junk require prize worth |  
 | bip_39_word_space_8 | hire diesel faculty junk require prize worth hotel |  
 | bip_39_word_space_9 | hire diesel faculty junk require prize worth hotel wool |  
+| bip_39_word_underscore_1 | hire |  
+| bip_39_word_underscore_10 | hire_diesel_faculty_junk_require_prize_worth_hotel_wool_decide |  
+| bip_39_word_underscore_11 | hire_diesel_faculty_junk_require_prize_worth_hotel_wool_decide_country |  
+| bip_39_word_underscore_12 | hire_diesel_faculty_junk_require_prize_worth_hotel_wool_decide_country_amused |  
+| bip_39_word_underscore_2 | hire_diesel |  
+| bip_39_word_underscore_3 | hire_diesel_faculty |  
+| bip_39_word_underscore_4 | hire_diesel_faculty_junk |  
+| bip_39_word_underscore_5 | hire_diesel_faculty_junk_require |  
+| bip_39_word_underscore_6 | hire_diesel_faculty_junk_require_prize |  
+| bip_39_word_underscore_7 | hire_diesel_faculty_junk_require_prize_worth |  
+| bip_39_word_underscore_8 | hire_diesel_faculty_junk_require_prize_worth_hotel |  
+| bip_39_word_underscore_9 | hire_diesel_faculty_junk_require_prize_worth_hotel_wool |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

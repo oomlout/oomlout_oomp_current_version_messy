@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | network |  
+| bip_39_word_dash_10 | network-rice-museum-inform-often-brother-expect-clutch-vendor-bone |  
+| bip_39_word_dash_11 | network-rice-museum-inform-often-brother-expect-clutch-vendor-bone-good |  
+| bip_39_word_dash_12 | network-rice-museum-inform-often-brother-expect-clutch-vendor-bone-good-army |  
+| bip_39_word_dash_2 | network-rice |  
+| bip_39_word_dash_3 | network-rice-museum |  
+| bip_39_word_dash_4 | network-rice-museum-inform |  
+| bip_39_word_dash_5 | network-rice-museum-inform-often |  
+| bip_39_word_dash_6 | network-rice-museum-inform-often-brother |  
+| bip_39_word_dash_7 | network-rice-museum-inform-often-brother-expect |  
+| bip_39_word_dash_8 | network-rice-museum-inform-often-brother-expect-clutch |  
+| bip_39_word_dash_9 | network-rice-museum-inform-often-brother-expect-clutch-vendor |  
 | bip_39_word_new_br_1 | network |  
 | bip_39_word_new_br_10 | network<br>rice<br>museum<br>inform<br>often<br>brother<br>expect<br>clutch<br>vendor<br>bone |  
 | bip_39_word_new_br_11 | network<br>rice<br>museum<br>inform<br>often<br>brother<br>expect<br>clutch<br>vendor<br>bone<br>good |  
@@ -147,6 +159,18 @@ vendor |
 | bip_39_word_space_7 | network rice museum inform often brother expect |  
 | bip_39_word_space_8 | network rice museum inform often brother expect clutch |  
 | bip_39_word_space_9 | network rice museum inform often brother expect clutch vendor |  
+| bip_39_word_underscore_1 | network |  
+| bip_39_word_underscore_10 | network_rice_museum_inform_often_brother_expect_clutch_vendor_bone |  
+| bip_39_word_underscore_11 | network_rice_museum_inform_often_brother_expect_clutch_vendor_bone_good |  
+| bip_39_word_underscore_12 | network_rice_museum_inform_often_brother_expect_clutch_vendor_bone_good_army |  
+| bip_39_word_underscore_2 | network_rice |  
+| bip_39_word_underscore_3 | network_rice_museum |  
+| bip_39_word_underscore_4 | network_rice_museum_inform |  
+| bip_39_word_underscore_5 | network_rice_museum_inform_often |  
+| bip_39_word_underscore_6 | network_rice_museum_inform_often_brother |  
+| bip_39_word_underscore_7 | network_rice_museum_inform_often_brother_expect |  
+| bip_39_word_underscore_8 | network_rice_museum_inform_often_brother_expect_clutch |  
+| bip_39_word_underscore_9 | network_rice_museum_inform_often_brother_expect_clutch_vendor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

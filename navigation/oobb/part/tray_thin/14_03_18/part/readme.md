@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loud |  
+| bip_39_word_dash_10 | loud-escape-middle-nose-deer-range-juice-proof-survey-urge |  
+| bip_39_word_dash_11 | loud-escape-middle-nose-deer-range-juice-proof-survey-urge-barrel |  
+| bip_39_word_dash_12 | loud-escape-middle-nose-deer-range-juice-proof-survey-urge-barrel-artist |  
+| bip_39_word_dash_2 | loud-escape |  
+| bip_39_word_dash_3 | loud-escape-middle |  
+| bip_39_word_dash_4 | loud-escape-middle-nose |  
+| bip_39_word_dash_5 | loud-escape-middle-nose-deer |  
+| bip_39_word_dash_6 | loud-escape-middle-nose-deer-range |  
+| bip_39_word_dash_7 | loud-escape-middle-nose-deer-range-juice |  
+| bip_39_word_dash_8 | loud-escape-middle-nose-deer-range-juice-proof |  
+| bip_39_word_dash_9 | loud-escape-middle-nose-deer-range-juice-proof-survey |  
 | bip_39_word_new_br_1 | loud |  
 | bip_39_word_new_br_10 | loud<br>escape<br>middle<br>nose<br>deer<br>range<br>juice<br>proof<br>survey<br>urge |  
 | bip_39_word_new_br_11 | loud<br>escape<br>middle<br>nose<br>deer<br>range<br>juice<br>proof<br>survey<br>urge<br>barrel |  
@@ -147,6 +159,18 @@ survey |
 | bip_39_word_space_7 | loud escape middle nose deer range juice |  
 | bip_39_word_space_8 | loud escape middle nose deer range juice proof |  
 | bip_39_word_space_9 | loud escape middle nose deer range juice proof survey |  
+| bip_39_word_underscore_1 | loud |  
+| bip_39_word_underscore_10 | loud_escape_middle_nose_deer_range_juice_proof_survey_urge |  
+| bip_39_word_underscore_11 | loud_escape_middle_nose_deer_range_juice_proof_survey_urge_barrel |  
+| bip_39_word_underscore_12 | loud_escape_middle_nose_deer_range_juice_proof_survey_urge_barrel_artist |  
+| bip_39_word_underscore_2 | loud_escape |  
+| bip_39_word_underscore_3 | loud_escape_middle |  
+| bip_39_word_underscore_4 | loud_escape_middle_nose |  
+| bip_39_word_underscore_5 | loud_escape_middle_nose_deer |  
+| bip_39_word_underscore_6 | loud_escape_middle_nose_deer_range |  
+| bip_39_word_underscore_7 | loud_escape_middle_nose_deer_range_juice |  
+| bip_39_word_underscore_8 | loud_escape_middle_nose_deer_range_juice_proof |  
+| bip_39_word_underscore_9 | loud_escape_middle_nose_deer_range_juice_proof_survey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: boring
+bip_39_word_dash_10: boring-control-humor-flip-design-steak-tooth-absent-knife-stomach
+bip_39_word_dash_11: boring-control-humor-flip-design-steak-tooth-absent-knife-stomach-story
+bip_39_word_dash_12: boring-control-humor-flip-design-steak-tooth-absent-knife-stomach-story-alley
+bip_39_word_dash_2: boring-control
+bip_39_word_dash_3: boring-control-humor
+bip_39_word_dash_4: boring-control-humor-flip
+bip_39_word_dash_5: boring-control-humor-flip-design
+bip_39_word_dash_6: boring-control-humor-flip-design-steak
+bip_39_word_dash_7: boring-control-humor-flip-design-steak-tooth
+bip_39_word_dash_8: boring-control-humor-flip-design-steak-tooth-absent
+bip_39_word_dash_9: boring-control-humor-flip-design-steak-tooth-absent-knife
 bip_39_word_new_br_1: boring
 bip_39_word_new_br_10: boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent<br>knife<br>stomach
 bip_39_word_new_br_11: boring<br>control<br>humor<br>flip<br>design<br>steak<br>tooth<br>absent<br>knife<br>stomach<br>story
@@ -193,6 +205,18 @@ bip_39_word_space_6: boring control humor flip design steak
 bip_39_word_space_7: boring control humor flip design steak tooth
 bip_39_word_space_8: boring control humor flip design steak tooth absent
 bip_39_word_space_9: boring control humor flip design steak tooth absent knife
+bip_39_word_underscore_1: boring
+bip_39_word_underscore_10: boring_control_humor_flip_design_steak_tooth_absent_knife_stomach
+bip_39_word_underscore_11: boring_control_humor_flip_design_steak_tooth_absent_knife_stomach_story
+bip_39_word_underscore_12: boring_control_humor_flip_design_steak_tooth_absent_knife_stomach_story_alley
+bip_39_word_underscore_2: boring_control
+bip_39_word_underscore_3: boring_control_humor
+bip_39_word_underscore_4: boring_control_humor_flip
+bip_39_word_underscore_5: boring_control_humor_flip_design
+bip_39_word_underscore_6: boring_control_humor_flip_design_steak
+bip_39_word_underscore_7: boring_control_humor_flip_design_steak_tooth
+bip_39_word_underscore_8: boring_control_humor_flip_design_steak_tooth_absent
+bip_39_word_underscore_9: boring_control_humor_flip_design_steak_tooth_absent_knife
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

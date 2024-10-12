@@ -1,3 +1,15 @@
+bip_39_word_dash_1: plunge
+bip_39_word_dash_10: plunge-gas-travel-network-expose-benefit-walk-lobster-orchard-flock
+bip_39_word_dash_11: plunge-gas-travel-network-expose-benefit-walk-lobster-orchard-flock-allow
+bip_39_word_dash_12: plunge-gas-travel-network-expose-benefit-walk-lobster-orchard-flock-allow-alone
+bip_39_word_dash_2: plunge-gas
+bip_39_word_dash_3: plunge-gas-travel
+bip_39_word_dash_4: plunge-gas-travel-network
+bip_39_word_dash_5: plunge-gas-travel-network-expose
+bip_39_word_dash_6: plunge-gas-travel-network-expose-benefit
+bip_39_word_dash_7: plunge-gas-travel-network-expose-benefit-walk
+bip_39_word_dash_8: plunge-gas-travel-network-expose-benefit-walk-lobster
+bip_39_word_dash_9: plunge-gas-travel-network-expose-benefit-walk-lobster-orchard
 bip_39_word_new_br_1: plunge
 bip_39_word_new_br_10: plunge<br>gas<br>travel<br>network<br>expose<br>benefit<br>walk<br>lobster<br>orchard<br>flock
 bip_39_word_new_br_11: plunge<br>gas<br>travel<br>network<br>expose<br>benefit<br>walk<br>lobster<br>orchard<br>flock<br>allow
@@ -194,6 +206,18 @@ bip_39_word_space_6: plunge gas travel network expose benefit
 bip_39_word_space_7: plunge gas travel network expose benefit walk
 bip_39_word_space_8: plunge gas travel network expose benefit walk lobster
 bip_39_word_space_9: plunge gas travel network expose benefit walk lobster orchard
+bip_39_word_underscore_1: plunge
+bip_39_word_underscore_10: plunge_gas_travel_network_expose_benefit_walk_lobster_orchard_flock
+bip_39_word_underscore_11: plunge_gas_travel_network_expose_benefit_walk_lobster_orchard_flock_allow
+bip_39_word_underscore_12: plunge_gas_travel_network_expose_benefit_walk_lobster_orchard_flock_allow_alone
+bip_39_word_underscore_2: plunge_gas
+bip_39_word_underscore_3: plunge_gas_travel
+bip_39_word_underscore_4: plunge_gas_travel_network
+bip_39_word_underscore_5: plunge_gas_travel_network_expose
+bip_39_word_underscore_6: plunge_gas_travel_network_expose_benefit
+bip_39_word_underscore_7: plunge_gas_travel_network_expose_benefit_walk
+bip_39_word_underscore_8: plunge_gas_travel_network_expose_benefit_walk_lobster
+bip_39_word_underscore_9: plunge_gas_travel_network_expose_benefit_walk_lobster_orchard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

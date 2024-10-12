@@ -1,3 +1,15 @@
+bip_39_word_dash_1: filter
+bip_39_word_dash_10: filter-they-paddle-amazing-security-hawk-return-undo-aim-ceiling
+bip_39_word_dash_11: filter-they-paddle-amazing-security-hawk-return-undo-aim-ceiling-trial
+bip_39_word_dash_12: filter-they-paddle-amazing-security-hawk-return-undo-aim-ceiling-trial-arrow
+bip_39_word_dash_2: filter-they
+bip_39_word_dash_3: filter-they-paddle
+bip_39_word_dash_4: filter-they-paddle-amazing
+bip_39_word_dash_5: filter-they-paddle-amazing-security
+bip_39_word_dash_6: filter-they-paddle-amazing-security-hawk
+bip_39_word_dash_7: filter-they-paddle-amazing-security-hawk-return
+bip_39_word_dash_8: filter-they-paddle-amazing-security-hawk-return-undo
+bip_39_word_dash_9: filter-they-paddle-amazing-security-hawk-return-undo-aim
 bip_39_word_new_br_1: filter
 bip_39_word_new_br_10: filter<br>they<br>paddle<br>amazing<br>security<br>hawk<br>return<br>undo<br>aim<br>ceiling
 bip_39_word_new_br_11: filter<br>they<br>paddle<br>amazing<br>security<br>hawk<br>return<br>undo<br>aim<br>ceiling<br>trial
@@ -193,6 +205,18 @@ bip_39_word_space_6: filter they paddle amazing security hawk
 bip_39_word_space_7: filter they paddle amazing security hawk return
 bip_39_word_space_8: filter they paddle amazing security hawk return undo
 bip_39_word_space_9: filter they paddle amazing security hawk return undo aim
+bip_39_word_underscore_1: filter
+bip_39_word_underscore_10: filter_they_paddle_amazing_security_hawk_return_undo_aim_ceiling
+bip_39_word_underscore_11: filter_they_paddle_amazing_security_hawk_return_undo_aim_ceiling_trial
+bip_39_word_underscore_12: filter_they_paddle_amazing_security_hawk_return_undo_aim_ceiling_trial_arrow
+bip_39_word_underscore_2: filter_they
+bip_39_word_underscore_3: filter_they_paddle
+bip_39_word_underscore_4: filter_they_paddle_amazing
+bip_39_word_underscore_5: filter_they_paddle_amazing_security
+bip_39_word_underscore_6: filter_they_paddle_amazing_security_hawk
+bip_39_word_underscore_7: filter_they_paddle_amazing_security_hawk_return
+bip_39_word_underscore_8: filter_they_paddle_amazing_security_hawk_return_undo
+bip_39_word_underscore_9: filter_they_paddle_amazing_security_hawk_return_undo_aim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

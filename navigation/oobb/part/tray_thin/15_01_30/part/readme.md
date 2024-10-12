@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toddler |  
+| bip_39_word_dash_10 | toddler-dust-pool-damp-couch-grab-cash-sudden-decrease-stable |  
+| bip_39_word_dash_11 | toddler-dust-pool-damp-couch-grab-cash-sudden-decrease-stable-muffin |  
+| bip_39_word_dash_12 | toddler-dust-pool-damp-couch-grab-cash-sudden-decrease-stable-muffin-athlete |  
+| bip_39_word_dash_2 | toddler-dust |  
+| bip_39_word_dash_3 | toddler-dust-pool |  
+| bip_39_word_dash_4 | toddler-dust-pool-damp |  
+| bip_39_word_dash_5 | toddler-dust-pool-damp-couch |  
+| bip_39_word_dash_6 | toddler-dust-pool-damp-couch-grab |  
+| bip_39_word_dash_7 | toddler-dust-pool-damp-couch-grab-cash |  
+| bip_39_word_dash_8 | toddler-dust-pool-damp-couch-grab-cash-sudden |  
+| bip_39_word_dash_9 | toddler-dust-pool-damp-couch-grab-cash-sudden-decrease |  
 | bip_39_word_new_br_1 | toddler |  
 | bip_39_word_new_br_10 | toddler<br>dust<br>pool<br>damp<br>couch<br>grab<br>cash<br>sudden<br>decrease<br>stable |  
 | bip_39_word_new_br_11 | toddler<br>dust<br>pool<br>damp<br>couch<br>grab<br>cash<br>sudden<br>decrease<br>stable<br>muffin |  
@@ -147,6 +159,18 @@ decrease |
 | bip_39_word_space_7 | toddler dust pool damp couch grab cash |  
 | bip_39_word_space_8 | toddler dust pool damp couch grab cash sudden |  
 | bip_39_word_space_9 | toddler dust pool damp couch grab cash sudden decrease |  
+| bip_39_word_underscore_1 | toddler |  
+| bip_39_word_underscore_10 | toddler_dust_pool_damp_couch_grab_cash_sudden_decrease_stable |  
+| bip_39_word_underscore_11 | toddler_dust_pool_damp_couch_grab_cash_sudden_decrease_stable_muffin |  
+| bip_39_word_underscore_12 | toddler_dust_pool_damp_couch_grab_cash_sudden_decrease_stable_muffin_athlete |  
+| bip_39_word_underscore_2 | toddler_dust |  
+| bip_39_word_underscore_3 | toddler_dust_pool |  
+| bip_39_word_underscore_4 | toddler_dust_pool_damp |  
+| bip_39_word_underscore_5 | toddler_dust_pool_damp_couch |  
+| bip_39_word_underscore_6 | toddler_dust_pool_damp_couch_grab |  
+| bip_39_word_underscore_7 | toddler_dust_pool_damp_couch_grab_cash |  
+| bip_39_word_underscore_8 | toddler_dust_pool_damp_couch_grab_cash_sudden |  
+| bip_39_word_underscore_9 | toddler_dust_pool_damp_couch_grab_cash_sudden_decrease |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

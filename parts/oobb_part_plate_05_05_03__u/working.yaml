@@ -1,3 +1,15 @@
+bip_39_word_dash_1: degree
+bip_39_word_dash_10: degree-silent-level-narrow-gloom-announce-vacuum-elite-endorse-special
+bip_39_word_dash_11: degree-silent-level-narrow-gloom-announce-vacuum-elite-endorse-special-van
+bip_39_word_dash_12: degree-silent-level-narrow-gloom-announce-vacuum-elite-endorse-special-van-ahead
+bip_39_word_dash_2: degree-silent
+bip_39_word_dash_3: degree-silent-level
+bip_39_word_dash_4: degree-silent-level-narrow
+bip_39_word_dash_5: degree-silent-level-narrow-gloom
+bip_39_word_dash_6: degree-silent-level-narrow-gloom-announce
+bip_39_word_dash_7: degree-silent-level-narrow-gloom-announce-vacuum
+bip_39_word_dash_8: degree-silent-level-narrow-gloom-announce-vacuum-elite
+bip_39_word_dash_9: degree-silent-level-narrow-gloom-announce-vacuum-elite-endorse
 bip_39_word_new_br_1: degree
 bip_39_word_new_br_10: degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special
 bip_39_word_new_br_11: degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special<br>van
@@ -194,6 +206,18 @@ bip_39_word_space_6: degree silent level narrow gloom announce
 bip_39_word_space_7: degree silent level narrow gloom announce vacuum
 bip_39_word_space_8: degree silent level narrow gloom announce vacuum elite
 bip_39_word_space_9: degree silent level narrow gloom announce vacuum elite endorse
+bip_39_word_underscore_1: degree
+bip_39_word_underscore_10: degree_silent_level_narrow_gloom_announce_vacuum_elite_endorse_special
+bip_39_word_underscore_11: degree_silent_level_narrow_gloom_announce_vacuum_elite_endorse_special_van
+bip_39_word_underscore_12: degree_silent_level_narrow_gloom_announce_vacuum_elite_endorse_special_van_ahead
+bip_39_word_underscore_2: degree_silent
+bip_39_word_underscore_3: degree_silent_level
+bip_39_word_underscore_4: degree_silent_level_narrow
+bip_39_word_underscore_5: degree_silent_level_narrow_gloom
+bip_39_word_underscore_6: degree_silent_level_narrow_gloom_announce
+bip_39_word_underscore_7: degree_silent_level_narrow_gloom_announce_vacuum
+bip_39_word_underscore_8: degree_silent_level_narrow_gloom_announce_vacuum_elite
+bip_39_word_underscore_9: degree_silent_level_narrow_gloom_announce_vacuum_elite_endorse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

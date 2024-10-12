@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | copper |  
+| bip_39_word_dash_10 | copper-ancient-legend-cage-alcohol-desert-visual-appear-silver-mind |  
+| bip_39_word_dash_11 | copper-ancient-legend-cage-alcohol-desert-visual-appear-silver-mind-diagram |  
+| bip_39_word_dash_12 | copper-ancient-legend-cage-alcohol-desert-visual-appear-silver-mind-diagram-acoustic |  
+| bip_39_word_dash_2 | copper-ancient |  
+| bip_39_word_dash_3 | copper-ancient-legend |  
+| bip_39_word_dash_4 | copper-ancient-legend-cage |  
+| bip_39_word_dash_5 | copper-ancient-legend-cage-alcohol |  
+| bip_39_word_dash_6 | copper-ancient-legend-cage-alcohol-desert |  
+| bip_39_word_dash_7 | copper-ancient-legend-cage-alcohol-desert-visual |  
+| bip_39_word_dash_8 | copper-ancient-legend-cage-alcohol-desert-visual-appear |  
+| bip_39_word_dash_9 | copper-ancient-legend-cage-alcohol-desert-visual-appear-silver |  
 | bip_39_word_new_br_1 | copper |  
 | bip_39_word_new_br_10 | copper<br>ancient<br>legend<br>cage<br>alcohol<br>desert<br>visual<br>appear<br>silver<br>mind |  
 | bip_39_word_new_br_11 | copper<br>ancient<br>legend<br>cage<br>alcohol<br>desert<br>visual<br>appear<br>silver<br>mind<br>diagram |  
@@ -147,6 +159,18 @@ silver |
 | bip_39_word_space_7 | copper ancient legend cage alcohol desert visual |  
 | bip_39_word_space_8 | copper ancient legend cage alcohol desert visual appear |  
 | bip_39_word_space_9 | copper ancient legend cage alcohol desert visual appear silver |  
+| bip_39_word_underscore_1 | copper |  
+| bip_39_word_underscore_10 | copper_ancient_legend_cage_alcohol_desert_visual_appear_silver_mind |  
+| bip_39_word_underscore_11 | copper_ancient_legend_cage_alcohol_desert_visual_appear_silver_mind_diagram |  
+| bip_39_word_underscore_12 | copper_ancient_legend_cage_alcohol_desert_visual_appear_silver_mind_diagram_acoustic |  
+| bip_39_word_underscore_2 | copper_ancient |  
+| bip_39_word_underscore_3 | copper_ancient_legend |  
+| bip_39_word_underscore_4 | copper_ancient_legend_cage |  
+| bip_39_word_underscore_5 | copper_ancient_legend_cage_alcohol |  
+| bip_39_word_underscore_6 | copper_ancient_legend_cage_alcohol_desert |  
+| bip_39_word_underscore_7 | copper_ancient_legend_cage_alcohol_desert_visual |  
+| bip_39_word_underscore_8 | copper_ancient_legend_cage_alcohol_desert_visual_appear |  
+| bip_39_word_underscore_9 | copper_ancient_legend_cage_alcohol_desert_visual_appear_silver |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

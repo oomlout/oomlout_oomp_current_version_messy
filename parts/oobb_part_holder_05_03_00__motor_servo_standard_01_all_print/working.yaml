@@ -1,3 +1,15 @@
+bip_39_word_dash_1: village
+bip_39_word_dash_10: village-ostrich-pave-mixture-rival-save-leg-arena-artwork-rude
+bip_39_word_dash_11: village-ostrich-pave-mixture-rival-save-leg-arena-artwork-rude-shoe
+bip_39_word_dash_12: village-ostrich-pave-mixture-rival-save-leg-arena-artwork-rude-shoe-artist
+bip_39_word_dash_2: village-ostrich
+bip_39_word_dash_3: village-ostrich-pave
+bip_39_word_dash_4: village-ostrich-pave-mixture
+bip_39_word_dash_5: village-ostrich-pave-mixture-rival
+bip_39_word_dash_6: village-ostrich-pave-mixture-rival-save
+bip_39_word_dash_7: village-ostrich-pave-mixture-rival-save-leg
+bip_39_word_dash_8: village-ostrich-pave-mixture-rival-save-leg-arena
+bip_39_word_dash_9: village-ostrich-pave-mixture-rival-save-leg-arena-artwork
 bip_39_word_new_br_1: village
 bip_39_word_new_br_10: village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena<br>artwork<br>rude
 bip_39_word_new_br_11: village<br>ostrich<br>pave<br>mixture<br>rival<br>save<br>leg<br>arena<br>artwork<br>rude<br>shoe
@@ -193,6 +205,18 @@ bip_39_word_space_6: village ostrich pave mixture rival save
 bip_39_word_space_7: village ostrich pave mixture rival save leg
 bip_39_word_space_8: village ostrich pave mixture rival save leg arena
 bip_39_word_space_9: village ostrich pave mixture rival save leg arena artwork
+bip_39_word_underscore_1: village
+bip_39_word_underscore_10: village_ostrich_pave_mixture_rival_save_leg_arena_artwork_rude
+bip_39_word_underscore_11: village_ostrich_pave_mixture_rival_save_leg_arena_artwork_rude_shoe
+bip_39_word_underscore_12: village_ostrich_pave_mixture_rival_save_leg_arena_artwork_rude_shoe_artist
+bip_39_word_underscore_2: village_ostrich
+bip_39_word_underscore_3: village_ostrich_pave
+bip_39_word_underscore_4: village_ostrich_pave_mixture
+bip_39_word_underscore_5: village_ostrich_pave_mixture_rival
+bip_39_word_underscore_6: village_ostrich_pave_mixture_rival_save
+bip_39_word_underscore_7: village_ostrich_pave_mixture_rival_save_leg
+bip_39_word_underscore_8: village_ostrich_pave_mixture_rival_save_leg_arena
+bip_39_word_underscore_9: village_ostrich_pave_mixture_rival_save_leg_arena_artwork
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

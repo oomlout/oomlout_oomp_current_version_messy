@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jaguar |  
+| bip_39_word_dash_10 | jaguar-advice-mother-usual-luxury-nice-liquid-engine-cliff-salmon |  
+| bip_39_word_dash_11 | jaguar-advice-mother-usual-luxury-nice-liquid-engine-cliff-salmon-notice |  
+| bip_39_word_dash_12 | jaguar-advice-mother-usual-luxury-nice-liquid-engine-cliff-salmon-notice-advice |  
+| bip_39_word_dash_2 | jaguar-advice |  
+| bip_39_word_dash_3 | jaguar-advice-mother |  
+| bip_39_word_dash_4 | jaguar-advice-mother-usual |  
+| bip_39_word_dash_5 | jaguar-advice-mother-usual-luxury |  
+| bip_39_word_dash_6 | jaguar-advice-mother-usual-luxury-nice |  
+| bip_39_word_dash_7 | jaguar-advice-mother-usual-luxury-nice-liquid |  
+| bip_39_word_dash_8 | jaguar-advice-mother-usual-luxury-nice-liquid-engine |  
+| bip_39_word_dash_9 | jaguar-advice-mother-usual-luxury-nice-liquid-engine-cliff |  
 | bip_39_word_new_br_1 | jaguar |  
 | bip_39_word_new_br_10 | jaguar<br>advice<br>mother<br>usual<br>luxury<br>nice<br>liquid<br>engine<br>cliff<br>salmon |  
 | bip_39_word_new_br_11 | jaguar<br>advice<br>mother<br>usual<br>luxury<br>nice<br>liquid<br>engine<br>cliff<br>salmon<br>notice |  
@@ -147,6 +159,18 @@ cliff |
 | bip_39_word_space_7 | jaguar advice mother usual luxury nice liquid |  
 | bip_39_word_space_8 | jaguar advice mother usual luxury nice liquid engine |  
 | bip_39_word_space_9 | jaguar advice mother usual luxury nice liquid engine cliff |  
+| bip_39_word_underscore_1 | jaguar |  
+| bip_39_word_underscore_10 | jaguar_advice_mother_usual_luxury_nice_liquid_engine_cliff_salmon |  
+| bip_39_word_underscore_11 | jaguar_advice_mother_usual_luxury_nice_liquid_engine_cliff_salmon_notice |  
+| bip_39_word_underscore_12 | jaguar_advice_mother_usual_luxury_nice_liquid_engine_cliff_salmon_notice_advice |  
+| bip_39_word_underscore_2 | jaguar_advice |  
+| bip_39_word_underscore_3 | jaguar_advice_mother |  
+| bip_39_word_underscore_4 | jaguar_advice_mother_usual |  
+| bip_39_word_underscore_5 | jaguar_advice_mother_usual_luxury |  
+| bip_39_word_underscore_6 | jaguar_advice_mother_usual_luxury_nice |  
+| bip_39_word_underscore_7 | jaguar_advice_mother_usual_luxury_nice_liquid |  
+| bip_39_word_underscore_8 | jaguar_advice_mother_usual_luxury_nice_liquid_engine |  
+| bip_39_word_underscore_9 | jaguar_advice_mother_usual_luxury_nice_liquid_engine_cliff |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

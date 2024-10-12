@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gain |  
+| bip_39_word_dash_10 | gain-learn-digital-venture-west-despair-fiscal-race-garden-tilt |  
+| bip_39_word_dash_11 | gain-learn-digital-venture-west-despair-fiscal-race-garden-tilt-inquiry |  
+| bip_39_word_dash_12 | gain-learn-digital-venture-west-despair-fiscal-race-garden-tilt-inquiry-army |  
+| bip_39_word_dash_2 | gain-learn |  
+| bip_39_word_dash_3 | gain-learn-digital |  
+| bip_39_word_dash_4 | gain-learn-digital-venture |  
+| bip_39_word_dash_5 | gain-learn-digital-venture-west |  
+| bip_39_word_dash_6 | gain-learn-digital-venture-west-despair |  
+| bip_39_word_dash_7 | gain-learn-digital-venture-west-despair-fiscal |  
+| bip_39_word_dash_8 | gain-learn-digital-venture-west-despair-fiscal-race |  
+| bip_39_word_dash_9 | gain-learn-digital-venture-west-despair-fiscal-race-garden |  
 | bip_39_word_new_br_1 | gain |  
 | bip_39_word_new_br_10 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race<br>garden<br>tilt |  
 | bip_39_word_new_br_11 | gain<br>learn<br>digital<br>venture<br>west<br>despair<br>fiscal<br>race<br>garden<br>tilt<br>inquiry |  
@@ -147,6 +159,18 @@ garden |
 | bip_39_word_space_7 | gain learn digital venture west despair fiscal |  
 | bip_39_word_space_8 | gain learn digital venture west despair fiscal race |  
 | bip_39_word_space_9 | gain learn digital venture west despair fiscal race garden |  
+| bip_39_word_underscore_1 | gain |  
+| bip_39_word_underscore_10 | gain_learn_digital_venture_west_despair_fiscal_race_garden_tilt |  
+| bip_39_word_underscore_11 | gain_learn_digital_venture_west_despair_fiscal_race_garden_tilt_inquiry |  
+| bip_39_word_underscore_12 | gain_learn_digital_venture_west_despair_fiscal_race_garden_tilt_inquiry_army |  
+| bip_39_word_underscore_2 | gain_learn |  
+| bip_39_word_underscore_3 | gain_learn_digital |  
+| bip_39_word_underscore_4 | gain_learn_digital_venture |  
+| bip_39_word_underscore_5 | gain_learn_digital_venture_west |  
+| bip_39_word_underscore_6 | gain_learn_digital_venture_west_despair |  
+| bip_39_word_underscore_7 | gain_learn_digital_venture_west_despair_fiscal |  
+| bip_39_word_underscore_8 | gain_learn_digital_venture_west_despair_fiscal_race |  
+| bip_39_word_underscore_9 | gain_learn_digital_venture_west_despair_fiscal_race_garden |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

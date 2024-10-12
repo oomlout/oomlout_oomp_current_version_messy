@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | job |  
+| bip_39_word_dash_10 | job-mammal-nature-trap-gain-tent-harbor-cherry-task-aisle |  
+| bip_39_word_dash_11 | job-mammal-nature-trap-gain-tent-harbor-cherry-task-aisle-version |  
+| bip_39_word_dash_12 | job-mammal-nature-trap-gain-tent-harbor-cherry-task-aisle-version-acid |  
+| bip_39_word_dash_2 | job-mammal |  
+| bip_39_word_dash_3 | job-mammal-nature |  
+| bip_39_word_dash_4 | job-mammal-nature-trap |  
+| bip_39_word_dash_5 | job-mammal-nature-trap-gain |  
+| bip_39_word_dash_6 | job-mammal-nature-trap-gain-tent |  
+| bip_39_word_dash_7 | job-mammal-nature-trap-gain-tent-harbor |  
+| bip_39_word_dash_8 | job-mammal-nature-trap-gain-tent-harbor-cherry |  
+| bip_39_word_dash_9 | job-mammal-nature-trap-gain-tent-harbor-cherry-task |  
 | bip_39_word_new_br_1 | job |  
 | bip_39_word_new_br_10 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle |  
 | bip_39_word_new_br_11 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle<br>version |  
@@ -147,6 +159,18 @@ task |
 | bip_39_word_space_7 | job mammal nature trap gain tent harbor |  
 | bip_39_word_space_8 | job mammal nature trap gain tent harbor cherry |  
 | bip_39_word_space_9 | job mammal nature trap gain tent harbor cherry task |  
+| bip_39_word_underscore_1 | job |  
+| bip_39_word_underscore_10 | job_mammal_nature_trap_gain_tent_harbor_cherry_task_aisle |  
+| bip_39_word_underscore_11 | job_mammal_nature_trap_gain_tent_harbor_cherry_task_aisle_version |  
+| bip_39_word_underscore_12 | job_mammal_nature_trap_gain_tent_harbor_cherry_task_aisle_version_acid |  
+| bip_39_word_underscore_2 | job_mammal |  
+| bip_39_word_underscore_3 | job_mammal_nature |  
+| bip_39_word_underscore_4 | job_mammal_nature_trap |  
+| bip_39_word_underscore_5 | job_mammal_nature_trap_gain |  
+| bip_39_word_underscore_6 | job_mammal_nature_trap_gain_tent |  
+| bip_39_word_underscore_7 | job_mammal_nature_trap_gain_tent_harbor |  
+| bip_39_word_underscore_8 | job_mammal_nature_trap_gain_tent_harbor_cherry |  
+| bip_39_word_underscore_9 | job_mammal_nature_trap_gain_tent_harbor_cherry_task |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

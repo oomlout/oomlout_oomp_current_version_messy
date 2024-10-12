@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rally
+bip_39_word_dash_10: rally-credit-carry-erode-sweet-floor-pulse-target-soon-fever
+bip_39_word_dash_11: rally-credit-carry-erode-sweet-floor-pulse-target-soon-fever-practice
+bip_39_word_dash_12: rally-credit-carry-erode-sweet-floor-pulse-target-soon-fever-practice-art
+bip_39_word_dash_2: rally-credit
+bip_39_word_dash_3: rally-credit-carry
+bip_39_word_dash_4: rally-credit-carry-erode
+bip_39_word_dash_5: rally-credit-carry-erode-sweet
+bip_39_word_dash_6: rally-credit-carry-erode-sweet-floor
+bip_39_word_dash_7: rally-credit-carry-erode-sweet-floor-pulse
+bip_39_word_dash_8: rally-credit-carry-erode-sweet-floor-pulse-target
+bip_39_word_dash_9: rally-credit-carry-erode-sweet-floor-pulse-target-soon
 bip_39_word_new_br_1: rally
 bip_39_word_new_br_10: rally<br>credit<br>carry<br>erode<br>sweet<br>floor<br>pulse<br>target<br>soon<br>fever
 bip_39_word_new_br_11: rally<br>credit<br>carry<br>erode<br>sweet<br>floor<br>pulse<br>target<br>soon<br>fever<br>practice
@@ -193,6 +205,18 @@ bip_39_word_space_6: rally credit carry erode sweet floor
 bip_39_word_space_7: rally credit carry erode sweet floor pulse
 bip_39_word_space_8: rally credit carry erode sweet floor pulse target
 bip_39_word_space_9: rally credit carry erode sweet floor pulse target soon
+bip_39_word_underscore_1: rally
+bip_39_word_underscore_10: rally_credit_carry_erode_sweet_floor_pulse_target_soon_fever
+bip_39_word_underscore_11: rally_credit_carry_erode_sweet_floor_pulse_target_soon_fever_practice
+bip_39_word_underscore_12: rally_credit_carry_erode_sweet_floor_pulse_target_soon_fever_practice_art
+bip_39_word_underscore_2: rally_credit
+bip_39_word_underscore_3: rally_credit_carry
+bip_39_word_underscore_4: rally_credit_carry_erode
+bip_39_word_underscore_5: rally_credit_carry_erode_sweet
+bip_39_word_underscore_6: rally_credit_carry_erode_sweet_floor
+bip_39_word_underscore_7: rally_credit_carry_erode_sweet_floor_pulse
+bip_39_word_underscore_8: rally_credit_carry_erode_sweet_floor_pulse_target
+bip_39_word_underscore_9: rally_credit_carry_erode_sweet_floor_pulse_target_soon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

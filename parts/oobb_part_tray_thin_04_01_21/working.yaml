@@ -1,3 +1,15 @@
+bip_39_word_dash_1: service
+bip_39_word_dash_10: service-rotate-link-idle-maple-punch-dizzy-olympic-decorate-flee
+bip_39_word_dash_11: service-rotate-link-idle-maple-punch-dizzy-olympic-decorate-flee-law
+bip_39_word_dash_12: service-rotate-link-idle-maple-punch-dizzy-olympic-decorate-flee-law-apple
+bip_39_word_dash_2: service-rotate
+bip_39_word_dash_3: service-rotate-link
+bip_39_word_dash_4: service-rotate-link-idle
+bip_39_word_dash_5: service-rotate-link-idle-maple
+bip_39_word_dash_6: service-rotate-link-idle-maple-punch
+bip_39_word_dash_7: service-rotate-link-idle-maple-punch-dizzy
+bip_39_word_dash_8: service-rotate-link-idle-maple-punch-dizzy-olympic
+bip_39_word_dash_9: service-rotate-link-idle-maple-punch-dizzy-olympic-decorate
 bip_39_word_new_br_1: service
 bip_39_word_new_br_10: service<br>rotate<br>link<br>idle<br>maple<br>punch<br>dizzy<br>olympic<br>decorate<br>flee
 bip_39_word_new_br_11: service<br>rotate<br>link<br>idle<br>maple<br>punch<br>dizzy<br>olympic<br>decorate<br>flee<br>law
@@ -194,6 +206,18 @@ bip_39_word_space_6: service rotate link idle maple punch
 bip_39_word_space_7: service rotate link idle maple punch dizzy
 bip_39_word_space_8: service rotate link idle maple punch dizzy olympic
 bip_39_word_space_9: service rotate link idle maple punch dizzy olympic decorate
+bip_39_word_underscore_1: service
+bip_39_word_underscore_10: service_rotate_link_idle_maple_punch_dizzy_olympic_decorate_flee
+bip_39_word_underscore_11: service_rotate_link_idle_maple_punch_dizzy_olympic_decorate_flee_law
+bip_39_word_underscore_12: service_rotate_link_idle_maple_punch_dizzy_olympic_decorate_flee_law_apple
+bip_39_word_underscore_2: service_rotate
+bip_39_word_underscore_3: service_rotate_link
+bip_39_word_underscore_4: service_rotate_link_idle
+bip_39_word_underscore_5: service_rotate_link_idle_maple
+bip_39_word_underscore_6: service_rotate_link_idle_maple_punch
+bip_39_word_underscore_7: service_rotate_link_idle_maple_punch_dizzy
+bip_39_word_underscore_8: service_rotate_link_idle_maple_punch_dizzy_olympic
+bip_39_word_underscore_9: service_rotate_link_idle_maple_punch_dizzy_olympic_decorate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rose
+bip_39_word_dash_10: rose-congress-home-ordinary-monitor-side-spoil-bamboo-gift-degree
+bip_39_word_dash_11: rose-congress-home-ordinary-monitor-side-spoil-bamboo-gift-degree-please
+bip_39_word_dash_12: rose-congress-home-ordinary-monitor-side-spoil-bamboo-gift-degree-please-antique
+bip_39_word_dash_2: rose-congress
+bip_39_word_dash_3: rose-congress-home
+bip_39_word_dash_4: rose-congress-home-ordinary
+bip_39_word_dash_5: rose-congress-home-ordinary-monitor
+bip_39_word_dash_6: rose-congress-home-ordinary-monitor-side
+bip_39_word_dash_7: rose-congress-home-ordinary-monitor-side-spoil
+bip_39_word_dash_8: rose-congress-home-ordinary-monitor-side-spoil-bamboo
+bip_39_word_dash_9: rose-congress-home-ordinary-monitor-side-spoil-bamboo-gift
 bip_39_word_new_br_1: rose
 bip_39_word_new_br_10: rose<br>congress<br>home<br>ordinary<br>monitor<br>side<br>spoil<br>bamboo<br>gift<br>degree
 bip_39_word_new_br_11: rose<br>congress<br>home<br>ordinary<br>monitor<br>side<br>spoil<br>bamboo<br>gift<br>degree<br>please
@@ -193,6 +205,18 @@ bip_39_word_space_6: rose congress home ordinary monitor side
 bip_39_word_space_7: rose congress home ordinary monitor side spoil
 bip_39_word_space_8: rose congress home ordinary monitor side spoil bamboo
 bip_39_word_space_9: rose congress home ordinary monitor side spoil bamboo gift
+bip_39_word_underscore_1: rose
+bip_39_word_underscore_10: rose_congress_home_ordinary_monitor_side_spoil_bamboo_gift_degree
+bip_39_word_underscore_11: rose_congress_home_ordinary_monitor_side_spoil_bamboo_gift_degree_please
+bip_39_word_underscore_12: rose_congress_home_ordinary_monitor_side_spoil_bamboo_gift_degree_please_antique
+bip_39_word_underscore_2: rose_congress
+bip_39_word_underscore_3: rose_congress_home
+bip_39_word_underscore_4: rose_congress_home_ordinary
+bip_39_word_underscore_5: rose_congress_home_ordinary_monitor
+bip_39_word_underscore_6: rose_congress_home_ordinary_monitor_side
+bip_39_word_underscore_7: rose_congress_home_ordinary_monitor_side_spoil
+bip_39_word_underscore_8: rose_congress_home_ordinary_monitor_side_spoil_bamboo
+bip_39_word_underscore_9: rose_congress_home_ordinary_monitor_side_spoil_bamboo_gift
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

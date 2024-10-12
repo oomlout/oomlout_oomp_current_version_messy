@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vehicle
+bip_39_word_dash_10: vehicle-twenty-flavor-denial-frame-inner-decrease-source-celery-major
+bip_39_word_dash_11: vehicle-twenty-flavor-denial-frame-inner-decrease-source-celery-major-rich
+bip_39_word_dash_12: vehicle-twenty-flavor-denial-frame-inner-decrease-source-celery-major-rich-admit
+bip_39_word_dash_2: vehicle-twenty
+bip_39_word_dash_3: vehicle-twenty-flavor
+bip_39_word_dash_4: vehicle-twenty-flavor-denial
+bip_39_word_dash_5: vehicle-twenty-flavor-denial-frame
+bip_39_word_dash_6: vehicle-twenty-flavor-denial-frame-inner
+bip_39_word_dash_7: vehicle-twenty-flavor-denial-frame-inner-decrease
+bip_39_word_dash_8: vehicle-twenty-flavor-denial-frame-inner-decrease-source
+bip_39_word_dash_9: vehicle-twenty-flavor-denial-frame-inner-decrease-source-celery
 bip_39_word_new_br_1: vehicle
 bip_39_word_new_br_10: vehicle<br>twenty<br>flavor<br>denial<br>frame<br>inner<br>decrease<br>source<br>celery<br>major
 bip_39_word_new_br_11: vehicle<br>twenty<br>flavor<br>denial<br>frame<br>inner<br>decrease<br>source<br>celery<br>major<br>rich
@@ -194,6 +206,18 @@ bip_39_word_space_6: vehicle twenty flavor denial frame inner
 bip_39_word_space_7: vehicle twenty flavor denial frame inner decrease
 bip_39_word_space_8: vehicle twenty flavor denial frame inner decrease source
 bip_39_word_space_9: vehicle twenty flavor denial frame inner decrease source celery
+bip_39_word_underscore_1: vehicle
+bip_39_word_underscore_10: vehicle_twenty_flavor_denial_frame_inner_decrease_source_celery_major
+bip_39_word_underscore_11: vehicle_twenty_flavor_denial_frame_inner_decrease_source_celery_major_rich
+bip_39_word_underscore_12: vehicle_twenty_flavor_denial_frame_inner_decrease_source_celery_major_rich_admit
+bip_39_word_underscore_2: vehicle_twenty
+bip_39_word_underscore_3: vehicle_twenty_flavor
+bip_39_word_underscore_4: vehicle_twenty_flavor_denial
+bip_39_word_underscore_5: vehicle_twenty_flavor_denial_frame
+bip_39_word_underscore_6: vehicle_twenty_flavor_denial_frame_inner
+bip_39_word_underscore_7: vehicle_twenty_flavor_denial_frame_inner_decrease
+bip_39_word_underscore_8: vehicle_twenty_flavor_denial_frame_inner_decrease_source
+bip_39_word_underscore_9: vehicle_twenty_flavor_denial_frame_inner_decrease_source_celery
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: warrior
+bip_39_word_dash_10: warrior-strategy-enemy-view-online-pistol-small-barely-general-decline
+bip_39_word_dash_11: warrior-strategy-enemy-view-online-pistol-small-barely-general-decline-garlic
+bip_39_word_dash_12: warrior-strategy-enemy-view-online-pistol-small-barely-general-decline-garlic-attitude
+bip_39_word_dash_2: warrior-strategy
+bip_39_word_dash_3: warrior-strategy-enemy
+bip_39_word_dash_4: warrior-strategy-enemy-view
+bip_39_word_dash_5: warrior-strategy-enemy-view-online
+bip_39_word_dash_6: warrior-strategy-enemy-view-online-pistol
+bip_39_word_dash_7: warrior-strategy-enemy-view-online-pistol-small
+bip_39_word_dash_8: warrior-strategy-enemy-view-online-pistol-small-barely
+bip_39_word_dash_9: warrior-strategy-enemy-view-online-pistol-small-barely-general
 bip_39_word_new_br_1: warrior
 bip_39_word_new_br_10: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline
 bip_39_word_new_br_11: warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline<br>garlic
@@ -194,6 +206,18 @@ bip_39_word_space_6: warrior strategy enemy view online pistol
 bip_39_word_space_7: warrior strategy enemy view online pistol small
 bip_39_word_space_8: warrior strategy enemy view online pistol small barely
 bip_39_word_space_9: warrior strategy enemy view online pistol small barely general
+bip_39_word_underscore_1: warrior
+bip_39_word_underscore_10: warrior_strategy_enemy_view_online_pistol_small_barely_general_decline
+bip_39_word_underscore_11: warrior_strategy_enemy_view_online_pistol_small_barely_general_decline_garlic
+bip_39_word_underscore_12: warrior_strategy_enemy_view_online_pistol_small_barely_general_decline_garlic_attitude
+bip_39_word_underscore_2: warrior_strategy
+bip_39_word_underscore_3: warrior_strategy_enemy
+bip_39_word_underscore_4: warrior_strategy_enemy_view
+bip_39_word_underscore_5: warrior_strategy_enemy_view_online
+bip_39_word_underscore_6: warrior_strategy_enemy_view_online_pistol
+bip_39_word_underscore_7: warrior_strategy_enemy_view_online_pistol_small
+bip_39_word_underscore_8: warrior_strategy_enemy_view_online_pistol_small_barely
+bip_39_word_underscore_9: warrior_strategy_enemy_view_online_pistol_small_barely_general
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bleak |  
+| bip_39_word_dash_10 | bleak-price-region-apology-appear-toe-sun-attract-scrub-sugar |  
+| bip_39_word_dash_11 | bleak-price-region-apology-appear-toe-sun-attract-scrub-sugar-february |  
+| bip_39_word_dash_12 | bleak-price-region-apology-appear-toe-sun-attract-scrub-sugar-february-arrange |  
+| bip_39_word_dash_2 | bleak-price |  
+| bip_39_word_dash_3 | bleak-price-region |  
+| bip_39_word_dash_4 | bleak-price-region-apology |  
+| bip_39_word_dash_5 | bleak-price-region-apology-appear |  
+| bip_39_word_dash_6 | bleak-price-region-apology-appear-toe |  
+| bip_39_word_dash_7 | bleak-price-region-apology-appear-toe-sun |  
+| bip_39_word_dash_8 | bleak-price-region-apology-appear-toe-sun-attract |  
+| bip_39_word_dash_9 | bleak-price-region-apology-appear-toe-sun-attract-scrub |  
 | bip_39_word_new_br_1 | bleak |  
 | bip_39_word_new_br_10 | bleak<br>price<br>region<br>apology<br>appear<br>toe<br>sun<br>attract<br>scrub<br>sugar |  
 | bip_39_word_new_br_11 | bleak<br>price<br>region<br>apology<br>appear<br>toe<br>sun<br>attract<br>scrub<br>sugar<br>february |  
@@ -147,6 +159,18 @@ scrub |
 | bip_39_word_space_7 | bleak price region apology appear toe sun |  
 | bip_39_word_space_8 | bleak price region apology appear toe sun attract |  
 | bip_39_word_space_9 | bleak price region apology appear toe sun attract scrub |  
+| bip_39_word_underscore_1 | bleak |  
+| bip_39_word_underscore_10 | bleak_price_region_apology_appear_toe_sun_attract_scrub_sugar |  
+| bip_39_word_underscore_11 | bleak_price_region_apology_appear_toe_sun_attract_scrub_sugar_february |  
+| bip_39_word_underscore_12 | bleak_price_region_apology_appear_toe_sun_attract_scrub_sugar_february_arrange |  
+| bip_39_word_underscore_2 | bleak_price |  
+| bip_39_word_underscore_3 | bleak_price_region |  
+| bip_39_word_underscore_4 | bleak_price_region_apology |  
+| bip_39_word_underscore_5 | bleak_price_region_apology_appear |  
+| bip_39_word_underscore_6 | bleak_price_region_apology_appear_toe |  
+| bip_39_word_underscore_7 | bleak_price_region_apology_appear_toe_sun |  
+| bip_39_word_underscore_8 | bleak_price_region_apology_appear_toe_sun_attract |  
+| bip_39_word_underscore_9 | bleak_price_region_apology_appear_toe_sun_attract_scrub |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

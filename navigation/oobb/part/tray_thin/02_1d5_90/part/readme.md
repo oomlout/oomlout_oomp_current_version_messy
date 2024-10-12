@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hybrid |  
+| bip_39_word_dash_10 | hybrid-pulp-guitar-master-confirm-kit-deposit-estate-add-festival |  
+| bip_39_word_dash_11 | hybrid-pulp-guitar-master-confirm-kit-deposit-estate-add-festival-thunder |  
+| bip_39_word_dash_12 | hybrid-pulp-guitar-master-confirm-kit-deposit-estate-add-festival-thunder-army |  
+| bip_39_word_dash_2 | hybrid-pulp |  
+| bip_39_word_dash_3 | hybrid-pulp-guitar |  
+| bip_39_word_dash_4 | hybrid-pulp-guitar-master |  
+| bip_39_word_dash_5 | hybrid-pulp-guitar-master-confirm |  
+| bip_39_word_dash_6 | hybrid-pulp-guitar-master-confirm-kit |  
+| bip_39_word_dash_7 | hybrid-pulp-guitar-master-confirm-kit-deposit |  
+| bip_39_word_dash_8 | hybrid-pulp-guitar-master-confirm-kit-deposit-estate |  
+| bip_39_word_dash_9 | hybrid-pulp-guitar-master-confirm-kit-deposit-estate-add |  
 | bip_39_word_new_br_1 | hybrid |  
 | bip_39_word_new_br_10 | hybrid<br>pulp<br>guitar<br>master<br>confirm<br>kit<br>deposit<br>estate<br>add<br>festival |  
 | bip_39_word_new_br_11 | hybrid<br>pulp<br>guitar<br>master<br>confirm<br>kit<br>deposit<br>estate<br>add<br>festival<br>thunder |  
@@ -147,6 +159,18 @@ add |
 | bip_39_word_space_7 | hybrid pulp guitar master confirm kit deposit |  
 | bip_39_word_space_8 | hybrid pulp guitar master confirm kit deposit estate |  
 | bip_39_word_space_9 | hybrid pulp guitar master confirm kit deposit estate add |  
+| bip_39_word_underscore_1 | hybrid |  
+| bip_39_word_underscore_10 | hybrid_pulp_guitar_master_confirm_kit_deposit_estate_add_festival |  
+| bip_39_word_underscore_11 | hybrid_pulp_guitar_master_confirm_kit_deposit_estate_add_festival_thunder |  
+| bip_39_word_underscore_12 | hybrid_pulp_guitar_master_confirm_kit_deposit_estate_add_festival_thunder_army |  
+| bip_39_word_underscore_2 | hybrid_pulp |  
+| bip_39_word_underscore_3 | hybrid_pulp_guitar |  
+| bip_39_word_underscore_4 | hybrid_pulp_guitar_master |  
+| bip_39_word_underscore_5 | hybrid_pulp_guitar_master_confirm |  
+| bip_39_word_underscore_6 | hybrid_pulp_guitar_master_confirm_kit |  
+| bip_39_word_underscore_7 | hybrid_pulp_guitar_master_confirm_kit_deposit |  
+| bip_39_word_underscore_8 | hybrid_pulp_guitar_master_confirm_kit_deposit_estate |  
+| bip_39_word_underscore_9 | hybrid_pulp_guitar_master_confirm_kit_deposit_estate_add |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

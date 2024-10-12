@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | limit |  
+| bip_39_word_dash_10 | limit-dismiss-typical-require-pepper-derive-wrong-marble-wood-range |  
+| bip_39_word_dash_11 | limit-dismiss-typical-require-pepper-derive-wrong-marble-wood-range-begin |  
+| bip_39_word_dash_12 | limit-dismiss-typical-require-pepper-derive-wrong-marble-wood-range-begin-amount |  
+| bip_39_word_dash_2 | limit-dismiss |  
+| bip_39_word_dash_3 | limit-dismiss-typical |  
+| bip_39_word_dash_4 | limit-dismiss-typical-require |  
+| bip_39_word_dash_5 | limit-dismiss-typical-require-pepper |  
+| bip_39_word_dash_6 | limit-dismiss-typical-require-pepper-derive |  
+| bip_39_word_dash_7 | limit-dismiss-typical-require-pepper-derive-wrong |  
+| bip_39_word_dash_8 | limit-dismiss-typical-require-pepper-derive-wrong-marble |  
+| bip_39_word_dash_9 | limit-dismiss-typical-require-pepper-derive-wrong-marble-wood |  
 | bip_39_word_new_br_1 | limit |  
 | bip_39_word_new_br_10 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble<br>wood<br>range |  
 | bip_39_word_new_br_11 | limit<br>dismiss<br>typical<br>require<br>pepper<br>derive<br>wrong<br>marble<br>wood<br>range<br>begin |  
@@ -147,6 +159,18 @@ wood |
 | bip_39_word_space_7 | limit dismiss typical require pepper derive wrong |  
 | bip_39_word_space_8 | limit dismiss typical require pepper derive wrong marble |  
 | bip_39_word_space_9 | limit dismiss typical require pepper derive wrong marble wood |  
+| bip_39_word_underscore_1 | limit |  
+| bip_39_word_underscore_10 | limit_dismiss_typical_require_pepper_derive_wrong_marble_wood_range |  
+| bip_39_word_underscore_11 | limit_dismiss_typical_require_pepper_derive_wrong_marble_wood_range_begin |  
+| bip_39_word_underscore_12 | limit_dismiss_typical_require_pepper_derive_wrong_marble_wood_range_begin_amount |  
+| bip_39_word_underscore_2 | limit_dismiss |  
+| bip_39_word_underscore_3 | limit_dismiss_typical |  
+| bip_39_word_underscore_4 | limit_dismiss_typical_require |  
+| bip_39_word_underscore_5 | limit_dismiss_typical_require_pepper |  
+| bip_39_word_underscore_6 | limit_dismiss_typical_require_pepper_derive |  
+| bip_39_word_underscore_7 | limit_dismiss_typical_require_pepper_derive_wrong |  
+| bip_39_word_underscore_8 | limit_dismiss_typical_require_pepper_derive_wrong_marble |  
+| bip_39_word_underscore_9 | limit_dismiss_typical_require_pepper_derive_wrong_marble_wood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

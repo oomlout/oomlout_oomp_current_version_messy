@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | snack |  
+| bip_39_word_dash_10 | snack-powder-text-dream-twist-immune-shy-dance-wire-syrup |  
+| bip_39_word_dash_11 | snack-powder-text-dream-twist-immune-shy-dance-wire-syrup-traffic |  
+| bip_39_word_dash_12 | snack-powder-text-dream-twist-immune-shy-dance-wire-syrup-traffic-abstract |  
+| bip_39_word_dash_2 | snack-powder |  
+| bip_39_word_dash_3 | snack-powder-text |  
+| bip_39_word_dash_4 | snack-powder-text-dream |  
+| bip_39_word_dash_5 | snack-powder-text-dream-twist |  
+| bip_39_word_dash_6 | snack-powder-text-dream-twist-immune |  
+| bip_39_word_dash_7 | snack-powder-text-dream-twist-immune-shy |  
+| bip_39_word_dash_8 | snack-powder-text-dream-twist-immune-shy-dance |  
+| bip_39_word_dash_9 | snack-powder-text-dream-twist-immune-shy-dance-wire |  
 | bip_39_word_new_br_1 | snack |  
 | bip_39_word_new_br_10 | snack<br>powder<br>text<br>dream<br>twist<br>immune<br>shy<br>dance<br>wire<br>syrup |  
 | bip_39_word_new_br_11 | snack<br>powder<br>text<br>dream<br>twist<br>immune<br>shy<br>dance<br>wire<br>syrup<br>traffic |  
@@ -147,6 +159,18 @@ wire |
 | bip_39_word_space_7 | snack powder text dream twist immune shy |  
 | bip_39_word_space_8 | snack powder text dream twist immune shy dance |  
 | bip_39_word_space_9 | snack powder text dream twist immune shy dance wire |  
+| bip_39_word_underscore_1 | snack |  
+| bip_39_word_underscore_10 | snack_powder_text_dream_twist_immune_shy_dance_wire_syrup |  
+| bip_39_word_underscore_11 | snack_powder_text_dream_twist_immune_shy_dance_wire_syrup_traffic |  
+| bip_39_word_underscore_12 | snack_powder_text_dream_twist_immune_shy_dance_wire_syrup_traffic_abstract |  
+| bip_39_word_underscore_2 | snack_powder |  
+| bip_39_word_underscore_3 | snack_powder_text |  
+| bip_39_word_underscore_4 | snack_powder_text_dream |  
+| bip_39_word_underscore_5 | snack_powder_text_dream_twist |  
+| bip_39_word_underscore_6 | snack_powder_text_dream_twist_immune |  
+| bip_39_word_underscore_7 | snack_powder_text_dream_twist_immune_shy |  
+| bip_39_word_underscore_8 | snack_powder_text_dream_twist_immune_shy_dance |  
+| bip_39_word_underscore_9 | snack_powder_text_dream_twist_immune_shy_dance_wire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

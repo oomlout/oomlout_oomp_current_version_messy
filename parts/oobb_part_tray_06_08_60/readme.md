@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dress |  
+| bip_39_word_dash_10 | dress-glory-ask-equal-wealth-subject-refuse-dash-kiwi-luggage |  
+| bip_39_word_dash_11 | dress-glory-ask-equal-wealth-subject-refuse-dash-kiwi-luggage-reflect |  
+| bip_39_word_dash_2 | dress-glory |  
+| bip_39_word_dash_3 | dress-glory-ask |  
+| bip_39_word_dash_4 | dress-glory-ask-equal |  
+| bip_39_word_dash_5 | dress-glory-ask-equal-wealth |  
+| bip_39_word_dash_6 | dress-glory-ask-equal-wealth-subject |  
+| bip_39_word_dash_7 | dress-glory-ask-equal-wealth-subject-refuse |  
+| bip_39_word_dash_8 | dress-glory-ask-equal-wealth-subject-refuse-dash |  
+| bip_39_word_dash_9 | dress-glory-ask-equal-wealth-subject-refuse-dash-kiwi |  
 | bip_39_word_new_br_1 | dress |  
 | bip_39_word_new_br_10 | dress<br>glory<br>ask<br>equal<br>wealth<br>subject<br>refuse<br>dash<br>kiwi<br>luggage |  
 | bip_39_word_new_br_11 | dress<br>glory<br>ask<br>equal<br>wealth<br>subject<br>refuse<br>dash<br>kiwi<br>luggage<br>reflect |  
@@ -132,6 +143,17 @@ kiwi |
 | bip_39_word_space_7 | dress glory ask equal wealth subject refuse |  
 | bip_39_word_space_8 | dress glory ask equal wealth subject refuse dash |  
 | bip_39_word_space_9 | dress glory ask equal wealth subject refuse dash kiwi |  
+| bip_39_word_underscore_1 | dress |  
+| bip_39_word_underscore_10 | dress_glory_ask_equal_wealth_subject_refuse_dash_kiwi_luggage |  
+| bip_39_word_underscore_11 | dress_glory_ask_equal_wealth_subject_refuse_dash_kiwi_luggage_reflect |  
+| bip_39_word_underscore_2 | dress_glory |  
+| bip_39_word_underscore_3 | dress_glory_ask |  
+| bip_39_word_underscore_4 | dress_glory_ask_equal |  
+| bip_39_word_underscore_5 | dress_glory_ask_equal_wealth |  
+| bip_39_word_underscore_6 | dress_glory_ask_equal_wealth_subject |  
+| bip_39_word_underscore_7 | dress_glory_ask_equal_wealth_subject_refuse |  
+| bip_39_word_underscore_8 | dress_glory_ask_equal_wealth_subject_refuse_dash |  
+| bip_39_word_underscore_9 | dress_glory_ask_equal_wealth_subject_refuse_dash_kiwi |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

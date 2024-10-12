@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wish |  
+| bip_39_word_dash_10 | wish-north-share-code-demand-wrestle-gauge-crunch-usual-awake |  
+| bip_39_word_dash_11 | wish-north-share-code-demand-wrestle-gauge-crunch-usual-awake-way |  
+| bip_39_word_dash_12 | wish-north-share-code-demand-wrestle-gauge-crunch-usual-awake-way-argue |  
+| bip_39_word_dash_2 | wish-north |  
+| bip_39_word_dash_3 | wish-north-share |  
+| bip_39_word_dash_4 | wish-north-share-code |  
+| bip_39_word_dash_5 | wish-north-share-code-demand |  
+| bip_39_word_dash_6 | wish-north-share-code-demand-wrestle |  
+| bip_39_word_dash_7 | wish-north-share-code-demand-wrestle-gauge |  
+| bip_39_word_dash_8 | wish-north-share-code-demand-wrestle-gauge-crunch |  
+| bip_39_word_dash_9 | wish-north-share-code-demand-wrestle-gauge-crunch-usual |  
 | bip_39_word_new_br_1 | wish |  
 | bip_39_word_new_br_10 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch<br>usual<br>awake |  
 | bip_39_word_new_br_11 | wish<br>north<br>share<br>code<br>demand<br>wrestle<br>gauge<br>crunch<br>usual<br>awake<br>way |  
@@ -147,6 +159,18 @@ usual |
 | bip_39_word_space_7 | wish north share code demand wrestle gauge |  
 | bip_39_word_space_8 | wish north share code demand wrestle gauge crunch |  
 | bip_39_word_space_9 | wish north share code demand wrestle gauge crunch usual |  
+| bip_39_word_underscore_1 | wish |  
+| bip_39_word_underscore_10 | wish_north_share_code_demand_wrestle_gauge_crunch_usual_awake |  
+| bip_39_word_underscore_11 | wish_north_share_code_demand_wrestle_gauge_crunch_usual_awake_way |  
+| bip_39_word_underscore_12 | wish_north_share_code_demand_wrestle_gauge_crunch_usual_awake_way_argue |  
+| bip_39_word_underscore_2 | wish_north |  
+| bip_39_word_underscore_3 | wish_north_share |  
+| bip_39_word_underscore_4 | wish_north_share_code |  
+| bip_39_word_underscore_5 | wish_north_share_code_demand |  
+| bip_39_word_underscore_6 | wish_north_share_code_demand_wrestle |  
+| bip_39_word_underscore_7 | wish_north_share_code_demand_wrestle_gauge |  
+| bip_39_word_underscore_8 | wish_north_share_code_demand_wrestle_gauge_crunch |  
+| bip_39_word_underscore_9 | wish_north_share_code_demand_wrestle_gauge_crunch_usual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

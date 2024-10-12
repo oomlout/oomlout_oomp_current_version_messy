@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cushion |  
+| bip_39_word_dash_10 | cushion-mistake-endorse-sense-spend-seat-hello-involve-swap-witness |  
+| bip_39_word_dash_11 | cushion-mistake-endorse-sense-spend-seat-hello-involve-swap-witness-nurse |  
+| bip_39_word_dash_12 | cushion-mistake-endorse-sense-spend-seat-hello-involve-swap-witness-nurse-apple |  
+| bip_39_word_dash_2 | cushion-mistake |  
+| bip_39_word_dash_3 | cushion-mistake-endorse |  
+| bip_39_word_dash_4 | cushion-mistake-endorse-sense |  
+| bip_39_word_dash_5 | cushion-mistake-endorse-sense-spend |  
+| bip_39_word_dash_6 | cushion-mistake-endorse-sense-spend-seat |  
+| bip_39_word_dash_7 | cushion-mistake-endorse-sense-spend-seat-hello |  
+| bip_39_word_dash_8 | cushion-mistake-endorse-sense-spend-seat-hello-involve |  
+| bip_39_word_dash_9 | cushion-mistake-endorse-sense-spend-seat-hello-involve-swap |  
 | bip_39_word_new_br_1 | cushion |  
 | bip_39_word_new_br_10 | cushion<br>mistake<br>endorse<br>sense<br>spend<br>seat<br>hello<br>involve<br>swap<br>witness |  
 | bip_39_word_new_br_11 | cushion<br>mistake<br>endorse<br>sense<br>spend<br>seat<br>hello<br>involve<br>swap<br>witness<br>nurse |  
@@ -147,6 +159,18 @@ swap |
 | bip_39_word_space_7 | cushion mistake endorse sense spend seat hello |  
 | bip_39_word_space_8 | cushion mistake endorse sense spend seat hello involve |  
 | bip_39_word_space_9 | cushion mistake endorse sense spend seat hello involve swap |  
+| bip_39_word_underscore_1 | cushion |  
+| bip_39_word_underscore_10 | cushion_mistake_endorse_sense_spend_seat_hello_involve_swap_witness |  
+| bip_39_word_underscore_11 | cushion_mistake_endorse_sense_spend_seat_hello_involve_swap_witness_nurse |  
+| bip_39_word_underscore_12 | cushion_mistake_endorse_sense_spend_seat_hello_involve_swap_witness_nurse_apple |  
+| bip_39_word_underscore_2 | cushion_mistake |  
+| bip_39_word_underscore_3 | cushion_mistake_endorse |  
+| bip_39_word_underscore_4 | cushion_mistake_endorse_sense |  
+| bip_39_word_underscore_5 | cushion_mistake_endorse_sense_spend |  
+| bip_39_word_underscore_6 | cushion_mistake_endorse_sense_spend_seat |  
+| bip_39_word_underscore_7 | cushion_mistake_endorse_sense_spend_seat_hello |  
+| bip_39_word_underscore_8 | cushion_mistake_endorse_sense_spend_seat_hello_involve |  
+| bip_39_word_underscore_9 | cushion_mistake_endorse_sense_spend_seat_hello_involve_swap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

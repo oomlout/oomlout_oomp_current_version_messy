@@ -1,3 +1,15 @@
+bip_39_word_dash_1: such
+bip_39_word_dash_10: such-fish-tennis-disagree-walnut-rail-helmet-reason-danger-unveil
+bip_39_word_dash_11: such-fish-tennis-disagree-walnut-rail-helmet-reason-danger-unveil-air
+bip_39_word_dash_12: such-fish-tennis-disagree-walnut-rail-helmet-reason-danger-unveil-air-alone
+bip_39_word_dash_2: such-fish
+bip_39_word_dash_3: such-fish-tennis
+bip_39_word_dash_4: such-fish-tennis-disagree
+bip_39_word_dash_5: such-fish-tennis-disagree-walnut
+bip_39_word_dash_6: such-fish-tennis-disagree-walnut-rail
+bip_39_word_dash_7: such-fish-tennis-disagree-walnut-rail-helmet
+bip_39_word_dash_8: such-fish-tennis-disagree-walnut-rail-helmet-reason
+bip_39_word_dash_9: such-fish-tennis-disagree-walnut-rail-helmet-reason-danger
 bip_39_word_new_br_1: such
 bip_39_word_new_br_10: such<br>fish<br>tennis<br>disagree<br>walnut<br>rail<br>helmet<br>reason<br>danger<br>unveil
 bip_39_word_new_br_11: such<br>fish<br>tennis<br>disagree<br>walnut<br>rail<br>helmet<br>reason<br>danger<br>unveil<br>air
@@ -193,6 +205,18 @@ bip_39_word_space_6: such fish tennis disagree walnut rail
 bip_39_word_space_7: such fish tennis disagree walnut rail helmet
 bip_39_word_space_8: such fish tennis disagree walnut rail helmet reason
 bip_39_word_space_9: such fish tennis disagree walnut rail helmet reason danger
+bip_39_word_underscore_1: such
+bip_39_word_underscore_10: such_fish_tennis_disagree_walnut_rail_helmet_reason_danger_unveil
+bip_39_word_underscore_11: such_fish_tennis_disagree_walnut_rail_helmet_reason_danger_unveil_air
+bip_39_word_underscore_12: such_fish_tennis_disagree_walnut_rail_helmet_reason_danger_unveil_air_alone
+bip_39_word_underscore_2: such_fish
+bip_39_word_underscore_3: such_fish_tennis
+bip_39_word_underscore_4: such_fish_tennis_disagree
+bip_39_word_underscore_5: such_fish_tennis_disagree_walnut
+bip_39_word_underscore_6: such_fish_tennis_disagree_walnut_rail
+bip_39_word_underscore_7: such_fish_tennis_disagree_walnut_rail_helmet
+bip_39_word_underscore_8: such_fish_tennis_disagree_walnut_rail_helmet_reason
+bip_39_word_underscore_9: such_fish_tennis_disagree_walnut_rail_helmet_reason_danger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

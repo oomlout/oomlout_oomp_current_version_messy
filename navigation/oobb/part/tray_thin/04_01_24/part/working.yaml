@@ -1,3 +1,15 @@
+bip_39_word_dash_1: same
+bip_39_word_dash_10: same-host-talk-angry-opera-proud-neutral-panel-family-noodle
+bip_39_word_dash_11: same-host-talk-angry-opera-proud-neutral-panel-family-noodle-key
+bip_39_word_dash_12: same-host-talk-angry-opera-proud-neutral-panel-family-noodle-key-address
+bip_39_word_dash_2: same-host
+bip_39_word_dash_3: same-host-talk
+bip_39_word_dash_4: same-host-talk-angry
+bip_39_word_dash_5: same-host-talk-angry-opera
+bip_39_word_dash_6: same-host-talk-angry-opera-proud
+bip_39_word_dash_7: same-host-talk-angry-opera-proud-neutral
+bip_39_word_dash_8: same-host-talk-angry-opera-proud-neutral-panel
+bip_39_word_dash_9: same-host-talk-angry-opera-proud-neutral-panel-family
 bip_39_word_new_br_1: same
 bip_39_word_new_br_10: same<br>host<br>talk<br>angry<br>opera<br>proud<br>neutral<br>panel<br>family<br>noodle
 bip_39_word_new_br_11: same<br>host<br>talk<br>angry<br>opera<br>proud<br>neutral<br>panel<br>family<br>noodle<br>key
@@ -193,6 +205,18 @@ bip_39_word_space_6: same host talk angry opera proud
 bip_39_word_space_7: same host talk angry opera proud neutral
 bip_39_word_space_8: same host talk angry opera proud neutral panel
 bip_39_word_space_9: same host talk angry opera proud neutral panel family
+bip_39_word_underscore_1: same
+bip_39_word_underscore_10: same_host_talk_angry_opera_proud_neutral_panel_family_noodle
+bip_39_word_underscore_11: same_host_talk_angry_opera_proud_neutral_panel_family_noodle_key
+bip_39_word_underscore_12: same_host_talk_angry_opera_proud_neutral_panel_family_noodle_key_address
+bip_39_word_underscore_2: same_host
+bip_39_word_underscore_3: same_host_talk
+bip_39_word_underscore_4: same_host_talk_angry
+bip_39_word_underscore_5: same_host_talk_angry_opera
+bip_39_word_underscore_6: same_host_talk_angry_opera_proud
+bip_39_word_underscore_7: same_host_talk_angry_opera_proud_neutral
+bip_39_word_underscore_8: same_host_talk_angry_opera_proud_neutral_panel
+bip_39_word_underscore_9: same_host_talk_angry_opera_proud_neutral_panel_family
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

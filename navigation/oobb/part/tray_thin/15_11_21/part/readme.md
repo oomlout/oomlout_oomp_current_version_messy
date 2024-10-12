@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toe |  
+| bip_39_word_dash_10 | toe-negative-stone-more-cliff-creek-tongue-memory-habit-cool |  
+| bip_39_word_dash_11 | toe-negative-stone-more-cliff-creek-tongue-memory-habit-cool-path |  
+| bip_39_word_dash_12 | toe-negative-stone-more-cliff-creek-tongue-memory-habit-cool-path-audit |  
+| bip_39_word_dash_2 | toe-negative |  
+| bip_39_word_dash_3 | toe-negative-stone |  
+| bip_39_word_dash_4 | toe-negative-stone-more |  
+| bip_39_word_dash_5 | toe-negative-stone-more-cliff |  
+| bip_39_word_dash_6 | toe-negative-stone-more-cliff-creek |  
+| bip_39_word_dash_7 | toe-negative-stone-more-cliff-creek-tongue |  
+| bip_39_word_dash_8 | toe-negative-stone-more-cliff-creek-tongue-memory |  
+| bip_39_word_dash_9 | toe-negative-stone-more-cliff-creek-tongue-memory-habit |  
 | bip_39_word_new_br_1 | toe |  
 | bip_39_word_new_br_10 | toe<br>negative<br>stone<br>more<br>cliff<br>creek<br>tongue<br>memory<br>habit<br>cool |  
 | bip_39_word_new_br_11 | toe<br>negative<br>stone<br>more<br>cliff<br>creek<br>tongue<br>memory<br>habit<br>cool<br>path |  
@@ -147,6 +159,18 @@ habit |
 | bip_39_word_space_7 | toe negative stone more cliff creek tongue |  
 | bip_39_word_space_8 | toe negative stone more cliff creek tongue memory |  
 | bip_39_word_space_9 | toe negative stone more cliff creek tongue memory habit |  
+| bip_39_word_underscore_1 | toe |  
+| bip_39_word_underscore_10 | toe_negative_stone_more_cliff_creek_tongue_memory_habit_cool |  
+| bip_39_word_underscore_11 | toe_negative_stone_more_cliff_creek_tongue_memory_habit_cool_path |  
+| bip_39_word_underscore_12 | toe_negative_stone_more_cliff_creek_tongue_memory_habit_cool_path_audit |  
+| bip_39_word_underscore_2 | toe_negative |  
+| bip_39_word_underscore_3 | toe_negative_stone |  
+| bip_39_word_underscore_4 | toe_negative_stone_more |  
+| bip_39_word_underscore_5 | toe_negative_stone_more_cliff |  
+| bip_39_word_underscore_6 | toe_negative_stone_more_cliff_creek |  
+| bip_39_word_underscore_7 | toe_negative_stone_more_cliff_creek_tongue |  
+| bip_39_word_underscore_8 | toe_negative_stone_more_cliff_creek_tongue_memory |  
+| bip_39_word_underscore_9 | toe_negative_stone_more_cliff_creek_tongue_memory_habit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

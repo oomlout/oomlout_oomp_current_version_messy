@@ -1,3 +1,15 @@
+bip_39_word_dash_1: razor
+bip_39_word_dash_10: razor-face-struggle-corn-napkin-nominee-slim-buyer-bronze-business
+bip_39_word_dash_11: razor-face-struggle-corn-napkin-nominee-slim-buyer-bronze-business-dress
+bip_39_word_dash_12: razor-face-struggle-corn-napkin-nominee-slim-buyer-bronze-business-dress-among
+bip_39_word_dash_2: razor-face
+bip_39_word_dash_3: razor-face-struggle
+bip_39_word_dash_4: razor-face-struggle-corn
+bip_39_word_dash_5: razor-face-struggle-corn-napkin
+bip_39_word_dash_6: razor-face-struggle-corn-napkin-nominee
+bip_39_word_dash_7: razor-face-struggle-corn-napkin-nominee-slim
+bip_39_word_dash_8: razor-face-struggle-corn-napkin-nominee-slim-buyer
+bip_39_word_dash_9: razor-face-struggle-corn-napkin-nominee-slim-buyer-bronze
 bip_39_word_new_br_1: razor
 bip_39_word_new_br_10: razor<br>face<br>struggle<br>corn<br>napkin<br>nominee<br>slim<br>buyer<br>bronze<br>business
 bip_39_word_new_br_11: razor<br>face<br>struggle<br>corn<br>napkin<br>nominee<br>slim<br>buyer<br>bronze<br>business<br>dress
@@ -193,6 +205,18 @@ bip_39_word_space_6: razor face struggle corn napkin nominee
 bip_39_word_space_7: razor face struggle corn napkin nominee slim
 bip_39_word_space_8: razor face struggle corn napkin nominee slim buyer
 bip_39_word_space_9: razor face struggle corn napkin nominee slim buyer bronze
+bip_39_word_underscore_1: razor
+bip_39_word_underscore_10: razor_face_struggle_corn_napkin_nominee_slim_buyer_bronze_business
+bip_39_word_underscore_11: razor_face_struggle_corn_napkin_nominee_slim_buyer_bronze_business_dress
+bip_39_word_underscore_12: razor_face_struggle_corn_napkin_nominee_slim_buyer_bronze_business_dress_among
+bip_39_word_underscore_2: razor_face
+bip_39_word_underscore_3: razor_face_struggle
+bip_39_word_underscore_4: razor_face_struggle_corn
+bip_39_word_underscore_5: razor_face_struggle_corn_napkin
+bip_39_word_underscore_6: razor_face_struggle_corn_napkin_nominee
+bip_39_word_underscore_7: razor_face_struggle_corn_napkin_nominee_slim
+bip_39_word_underscore_8: razor_face_struggle_corn_napkin_nominee_slim_buyer
+bip_39_word_underscore_9: razor_face_struggle_corn_napkin_nominee_slim_buyer_bronze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

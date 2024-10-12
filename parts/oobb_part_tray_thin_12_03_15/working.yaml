@@ -1,3 +1,15 @@
+bip_39_word_dash_1: special
+bip_39_word_dash_10: special-light-crowd-shiver-stomach-bleak-bamboo-peace-pink-final
+bip_39_word_dash_11: special-light-crowd-shiver-stomach-bleak-bamboo-peace-pink-final-busy
+bip_39_word_dash_12: special-light-crowd-shiver-stomach-bleak-bamboo-peace-pink-final-busy-achieve
+bip_39_word_dash_2: special-light
+bip_39_word_dash_3: special-light-crowd
+bip_39_word_dash_4: special-light-crowd-shiver
+bip_39_word_dash_5: special-light-crowd-shiver-stomach
+bip_39_word_dash_6: special-light-crowd-shiver-stomach-bleak
+bip_39_word_dash_7: special-light-crowd-shiver-stomach-bleak-bamboo
+bip_39_word_dash_8: special-light-crowd-shiver-stomach-bleak-bamboo-peace
+bip_39_word_dash_9: special-light-crowd-shiver-stomach-bleak-bamboo-peace-pink
 bip_39_word_new_br_1: special
 bip_39_word_new_br_10: special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final
 bip_39_word_new_br_11: special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final<br>busy
@@ -193,6 +205,18 @@ bip_39_word_space_6: special light crowd shiver stomach bleak
 bip_39_word_space_7: special light crowd shiver stomach bleak bamboo
 bip_39_word_space_8: special light crowd shiver stomach bleak bamboo peace
 bip_39_word_space_9: special light crowd shiver stomach bleak bamboo peace pink
+bip_39_word_underscore_1: special
+bip_39_word_underscore_10: special_light_crowd_shiver_stomach_bleak_bamboo_peace_pink_final
+bip_39_word_underscore_11: special_light_crowd_shiver_stomach_bleak_bamboo_peace_pink_final_busy
+bip_39_word_underscore_12: special_light_crowd_shiver_stomach_bleak_bamboo_peace_pink_final_busy_achieve
+bip_39_word_underscore_2: special_light
+bip_39_word_underscore_3: special_light_crowd
+bip_39_word_underscore_4: special_light_crowd_shiver
+bip_39_word_underscore_5: special_light_crowd_shiver_stomach
+bip_39_word_underscore_6: special_light_crowd_shiver_stomach_bleak
+bip_39_word_underscore_7: special_light_crowd_shiver_stomach_bleak_bamboo
+bip_39_word_underscore_8: special_light_crowd_shiver_stomach_bleak_bamboo_peace
+bip_39_word_underscore_9: special_light_crowd_shiver_stomach_bleak_bamboo_peace_pink
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

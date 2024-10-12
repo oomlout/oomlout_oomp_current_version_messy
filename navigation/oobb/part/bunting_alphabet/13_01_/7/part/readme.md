@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spray |  
+| bip_39_word_dash_10 | spray-joy-pony-license-remember-outer-solid-maid-sponsor-expect |  
+| bip_39_word_dash_11 | spray-joy-pony-license-remember-outer-solid-maid-sponsor-expect-cabbage |  
+| bip_39_word_dash_12 | spray-joy-pony-license-remember-outer-solid-maid-sponsor-expect-cabbage-around |  
+| bip_39_word_dash_2 | spray-joy |  
+| bip_39_word_dash_3 | spray-joy-pony |  
+| bip_39_word_dash_4 | spray-joy-pony-license |  
+| bip_39_word_dash_5 | spray-joy-pony-license-remember |  
+| bip_39_word_dash_6 | spray-joy-pony-license-remember-outer |  
+| bip_39_word_dash_7 | spray-joy-pony-license-remember-outer-solid |  
+| bip_39_word_dash_8 | spray-joy-pony-license-remember-outer-solid-maid |  
+| bip_39_word_dash_9 | spray-joy-pony-license-remember-outer-solid-maid-sponsor |  
 | bip_39_word_new_br_1 | spray |  
 | bip_39_word_new_br_10 | spray<br>joy<br>pony<br>license<br>remember<br>outer<br>solid<br>maid<br>sponsor<br>expect |  
 | bip_39_word_new_br_11 | spray<br>joy<br>pony<br>license<br>remember<br>outer<br>solid<br>maid<br>sponsor<br>expect<br>cabbage |  
@@ -147,6 +159,18 @@ sponsor |
 | bip_39_word_space_7 | spray joy pony license remember outer solid |  
 | bip_39_word_space_8 | spray joy pony license remember outer solid maid |  
 | bip_39_word_space_9 | spray joy pony license remember outer solid maid sponsor |  
+| bip_39_word_underscore_1 | spray |  
+| bip_39_word_underscore_10 | spray_joy_pony_license_remember_outer_solid_maid_sponsor_expect |  
+| bip_39_word_underscore_11 | spray_joy_pony_license_remember_outer_solid_maid_sponsor_expect_cabbage |  
+| bip_39_word_underscore_12 | spray_joy_pony_license_remember_outer_solid_maid_sponsor_expect_cabbage_around |  
+| bip_39_word_underscore_2 | spray_joy |  
+| bip_39_word_underscore_3 | spray_joy_pony |  
+| bip_39_word_underscore_4 | spray_joy_pony_license |  
+| bip_39_word_underscore_5 | spray_joy_pony_license_remember |  
+| bip_39_word_underscore_6 | spray_joy_pony_license_remember_outer |  
+| bip_39_word_underscore_7 | spray_joy_pony_license_remember_outer_solid |  
+| bip_39_word_underscore_8 | spray_joy_pony_license_remember_outer_solid_maid |  
+| bip_39_word_underscore_9 | spray_joy_pony_license_remember_outer_solid_maid_sponsor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

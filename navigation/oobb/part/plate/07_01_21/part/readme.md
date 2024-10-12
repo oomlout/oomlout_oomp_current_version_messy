@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hollow |  
+| bip_39_word_dash_10 | hollow-cricket-rally-autumn-service-car-exact-double-saddle-shadow |  
+| bip_39_word_dash_11 | hollow-cricket-rally-autumn-service-car-exact-double-saddle-shadow-slight |  
+| bip_39_word_dash_12 | hollow-cricket-rally-autumn-service-car-exact-double-saddle-shadow-slight-armed |  
+| bip_39_word_dash_2 | hollow-cricket |  
+| bip_39_word_dash_3 | hollow-cricket-rally |  
+| bip_39_word_dash_4 | hollow-cricket-rally-autumn |  
+| bip_39_word_dash_5 | hollow-cricket-rally-autumn-service |  
+| bip_39_word_dash_6 | hollow-cricket-rally-autumn-service-car |  
+| bip_39_word_dash_7 | hollow-cricket-rally-autumn-service-car-exact |  
+| bip_39_word_dash_8 | hollow-cricket-rally-autumn-service-car-exact-double |  
+| bip_39_word_dash_9 | hollow-cricket-rally-autumn-service-car-exact-double-saddle |  
 | bip_39_word_new_br_1 | hollow |  
 | bip_39_word_new_br_10 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double<br>saddle<br>shadow |  
 | bip_39_word_new_br_11 | hollow<br>cricket<br>rally<br>autumn<br>service<br>car<br>exact<br>double<br>saddle<br>shadow<br>slight |  
@@ -147,6 +159,18 @@ saddle |
 | bip_39_word_space_7 | hollow cricket rally autumn service car exact |  
 | bip_39_word_space_8 | hollow cricket rally autumn service car exact double |  
 | bip_39_word_space_9 | hollow cricket rally autumn service car exact double saddle |  
+| bip_39_word_underscore_1 | hollow |  
+| bip_39_word_underscore_10 | hollow_cricket_rally_autumn_service_car_exact_double_saddle_shadow |  
+| bip_39_word_underscore_11 | hollow_cricket_rally_autumn_service_car_exact_double_saddle_shadow_slight |  
+| bip_39_word_underscore_12 | hollow_cricket_rally_autumn_service_car_exact_double_saddle_shadow_slight_armed |  
+| bip_39_word_underscore_2 | hollow_cricket |  
+| bip_39_word_underscore_3 | hollow_cricket_rally |  
+| bip_39_word_underscore_4 | hollow_cricket_rally_autumn |  
+| bip_39_word_underscore_5 | hollow_cricket_rally_autumn_service |  
+| bip_39_word_underscore_6 | hollow_cricket_rally_autumn_service_car |  
+| bip_39_word_underscore_7 | hollow_cricket_rally_autumn_service_car_exact |  
+| bip_39_word_underscore_8 | hollow_cricket_rally_autumn_service_car_exact_double |  
+| bip_39_word_underscore_9 | hollow_cricket_rally_autumn_service_car_exact_double_saddle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

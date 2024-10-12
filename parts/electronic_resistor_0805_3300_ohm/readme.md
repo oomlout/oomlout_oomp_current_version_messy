@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | female |  
+| bip_39_word_dash_10 | female-unknown-able-notable-ill-remember-mammal-body-mad-elegant |  
+| bip_39_word_dash_11 | female-unknown-able-notable-ill-remember-mammal-body-mad-elegant-dilemma |  
+| bip_39_word_dash_12 | female-unknown-able-notable-ill-remember-mammal-body-mad-elegant-dilemma-album |  
+| bip_39_word_dash_2 | female-unknown |  
+| bip_39_word_dash_3 | female-unknown-able |  
+| bip_39_word_dash_4 | female-unknown-able-notable |  
+| bip_39_word_dash_5 | female-unknown-able-notable-ill |  
+| bip_39_word_dash_6 | female-unknown-able-notable-ill-remember |  
+| bip_39_word_dash_7 | female-unknown-able-notable-ill-remember-mammal |  
+| bip_39_word_dash_8 | female-unknown-able-notable-ill-remember-mammal-body |  
+| bip_39_word_dash_9 | female-unknown-able-notable-ill-remember-mammal-body-mad |  
 | bip_39_word_new_br_1 | female |  
 | bip_39_word_new_br_10 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body<br>mad<br>elegant |  
 | bip_39_word_new_br_11 | female<br>unknown<br>able<br>notable<br>ill<br>remember<br>mammal<br>body<br>mad<br>elegant<br>dilemma |  
@@ -147,6 +159,18 @@ mad |
 | bip_39_word_space_7 | female unknown able notable ill remember mammal |  
 | bip_39_word_space_8 | female unknown able notable ill remember mammal body |  
 | bip_39_word_space_9 | female unknown able notable ill remember mammal body mad |  
+| bip_39_word_underscore_1 | female |  
+| bip_39_word_underscore_10 | female_unknown_able_notable_ill_remember_mammal_body_mad_elegant |  
+| bip_39_word_underscore_11 | female_unknown_able_notable_ill_remember_mammal_body_mad_elegant_dilemma |  
+| bip_39_word_underscore_12 | female_unknown_able_notable_ill_remember_mammal_body_mad_elegant_dilemma_album |  
+| bip_39_word_underscore_2 | female_unknown |  
+| bip_39_word_underscore_3 | female_unknown_able |  
+| bip_39_word_underscore_4 | female_unknown_able_notable |  
+| bip_39_word_underscore_5 | female_unknown_able_notable_ill |  
+| bip_39_word_underscore_6 | female_unknown_able_notable_ill_remember |  
+| bip_39_word_underscore_7 | female_unknown_able_notable_ill_remember_mammal |  
+| bip_39_word_underscore_8 | female_unknown_able_notable_ill_remember_mammal_body |  
+| bip_39_word_underscore_9 | female_unknown_able_notable_ill_remember_mammal_body_mad |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

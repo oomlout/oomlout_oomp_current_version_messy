@@ -1,3 +1,15 @@
+bip_39_word_dash_1: all
+bip_39_word_dash_10: all-head-reveal-filter-save-venue-until-charge-true-obscure
+bip_39_word_dash_11: all-head-reveal-filter-save-venue-until-charge-true-obscure-tackle
+bip_39_word_dash_12: all-head-reveal-filter-save-venue-until-charge-true-obscure-tackle-able
+bip_39_word_dash_2: all-head
+bip_39_word_dash_3: all-head-reveal
+bip_39_word_dash_4: all-head-reveal-filter
+bip_39_word_dash_5: all-head-reveal-filter-save
+bip_39_word_dash_6: all-head-reveal-filter-save-venue
+bip_39_word_dash_7: all-head-reveal-filter-save-venue-until
+bip_39_word_dash_8: all-head-reveal-filter-save-venue-until-charge
+bip_39_word_dash_9: all-head-reveal-filter-save-venue-until-charge-true
 bip_39_word_new_br_1: all
 bip_39_word_new_br_10: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure
 bip_39_word_new_br_11: all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure<br>tackle
@@ -193,6 +205,18 @@ bip_39_word_space_6: all head reveal filter save venue
 bip_39_word_space_7: all head reveal filter save venue until
 bip_39_word_space_8: all head reveal filter save venue until charge
 bip_39_word_space_9: all head reveal filter save venue until charge true
+bip_39_word_underscore_1: all
+bip_39_word_underscore_10: all_head_reveal_filter_save_venue_until_charge_true_obscure
+bip_39_word_underscore_11: all_head_reveal_filter_save_venue_until_charge_true_obscure_tackle
+bip_39_word_underscore_12: all_head_reveal_filter_save_venue_until_charge_true_obscure_tackle_able
+bip_39_word_underscore_2: all_head
+bip_39_word_underscore_3: all_head_reveal
+bip_39_word_underscore_4: all_head_reveal_filter
+bip_39_word_underscore_5: all_head_reveal_filter_save
+bip_39_word_underscore_6: all_head_reveal_filter_save_venue
+bip_39_word_underscore_7: all_head_reveal_filter_save_venue_until
+bip_39_word_underscore_8: all_head_reveal_filter_save_venue_until_charge
+bip_39_word_underscore_9: all_head_reveal_filter_save_venue_until_charge_true
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

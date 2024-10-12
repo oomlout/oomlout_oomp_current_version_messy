@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | put |  
+| bip_39_word_dash_10 | put-item-away-depart-install-cable-alcohol-blind-lazy-hip |  
+| bip_39_word_dash_11 | put-item-away-depart-install-cable-alcohol-blind-lazy-hip-alter |  
+| bip_39_word_dash_12 | put-item-away-depart-install-cable-alcohol-blind-lazy-hip-alter-arch |  
+| bip_39_word_dash_2 | put-item |  
+| bip_39_word_dash_3 | put-item-away |  
+| bip_39_word_dash_4 | put-item-away-depart |  
+| bip_39_word_dash_5 | put-item-away-depart-install |  
+| bip_39_word_dash_6 | put-item-away-depart-install-cable |  
+| bip_39_word_dash_7 | put-item-away-depart-install-cable-alcohol |  
+| bip_39_word_dash_8 | put-item-away-depart-install-cable-alcohol-blind |  
+| bip_39_word_dash_9 | put-item-away-depart-install-cable-alcohol-blind-lazy |  
 | bip_39_word_new_br_1 | put |  
 | bip_39_word_new_br_10 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip |  
 | bip_39_word_new_br_11 | put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip<br>alter |  
@@ -147,6 +159,18 @@ lazy |
 | bip_39_word_space_7 | put item away depart install cable alcohol |  
 | bip_39_word_space_8 | put item away depart install cable alcohol blind |  
 | bip_39_word_space_9 | put item away depart install cable alcohol blind lazy |  
+| bip_39_word_underscore_1 | put |  
+| bip_39_word_underscore_10 | put_item_away_depart_install_cable_alcohol_blind_lazy_hip |  
+| bip_39_word_underscore_11 | put_item_away_depart_install_cable_alcohol_blind_lazy_hip_alter |  
+| bip_39_word_underscore_12 | put_item_away_depart_install_cable_alcohol_blind_lazy_hip_alter_arch |  
+| bip_39_word_underscore_2 | put_item |  
+| bip_39_word_underscore_3 | put_item_away |  
+| bip_39_word_underscore_4 | put_item_away_depart |  
+| bip_39_word_underscore_5 | put_item_away_depart_install |  
+| bip_39_word_underscore_6 | put_item_away_depart_install_cable |  
+| bip_39_word_underscore_7 | put_item_away_depart_install_cable_alcohol |  
+| bip_39_word_underscore_8 | put_item_away_depart_install_cable_alcohol_blind |  
+| bip_39_word_underscore_9 | put_item_away_depart_install_cable_alcohol_blind_lazy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

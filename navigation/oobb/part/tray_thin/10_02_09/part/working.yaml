@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fetch
+bip_39_word_dash_10: fetch-shine-hurry-truth-arctic-shift-orphan-scorpion-credit-enhance
+bip_39_word_dash_11: fetch-shine-hurry-truth-arctic-shift-orphan-scorpion-credit-enhance-stage
+bip_39_word_dash_12: fetch-shine-hurry-truth-arctic-shift-orphan-scorpion-credit-enhance-stage-ask
+bip_39_word_dash_2: fetch-shine
+bip_39_word_dash_3: fetch-shine-hurry
+bip_39_word_dash_4: fetch-shine-hurry-truth
+bip_39_word_dash_5: fetch-shine-hurry-truth-arctic
+bip_39_word_dash_6: fetch-shine-hurry-truth-arctic-shift
+bip_39_word_dash_7: fetch-shine-hurry-truth-arctic-shift-orphan
+bip_39_word_dash_8: fetch-shine-hurry-truth-arctic-shift-orphan-scorpion
+bip_39_word_dash_9: fetch-shine-hurry-truth-arctic-shift-orphan-scorpion-credit
 bip_39_word_new_br_1: fetch
 bip_39_word_new_br_10: fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion<br>credit<br>enhance
 bip_39_word_new_br_11: fetch<br>shine<br>hurry<br>truth<br>arctic<br>shift<br>orphan<br>scorpion<br>credit<br>enhance<br>stage
@@ -194,6 +206,18 @@ bip_39_word_space_6: fetch shine hurry truth arctic shift
 bip_39_word_space_7: fetch shine hurry truth arctic shift orphan
 bip_39_word_space_8: fetch shine hurry truth arctic shift orphan scorpion
 bip_39_word_space_9: fetch shine hurry truth arctic shift orphan scorpion credit
+bip_39_word_underscore_1: fetch
+bip_39_word_underscore_10: fetch_shine_hurry_truth_arctic_shift_orphan_scorpion_credit_enhance
+bip_39_word_underscore_11: fetch_shine_hurry_truth_arctic_shift_orphan_scorpion_credit_enhance_stage
+bip_39_word_underscore_12: fetch_shine_hurry_truth_arctic_shift_orphan_scorpion_credit_enhance_stage_ask
+bip_39_word_underscore_2: fetch_shine
+bip_39_word_underscore_3: fetch_shine_hurry
+bip_39_word_underscore_4: fetch_shine_hurry_truth
+bip_39_word_underscore_5: fetch_shine_hurry_truth_arctic
+bip_39_word_underscore_6: fetch_shine_hurry_truth_arctic_shift
+bip_39_word_underscore_7: fetch_shine_hurry_truth_arctic_shift_orphan
+bip_39_word_underscore_8: fetch_shine_hurry_truth_arctic_shift_orphan_scorpion
+bip_39_word_underscore_9: fetch_shine_hurry_truth_arctic_shift_orphan_scorpion_credit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

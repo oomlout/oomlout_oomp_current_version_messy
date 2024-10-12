@@ -1,3 +1,15 @@
+bip_39_word_dash_1: 'false'
+bip_39_word_dash_10: false-talent-gown-dumb-faith-arch-camera-nominee-panic-core
+bip_39_word_dash_11: false-talent-gown-dumb-faith-arch-camera-nominee-panic-core-jar
+bip_39_word_dash_12: false-talent-gown-dumb-faith-arch-camera-nominee-panic-core-jar-atom
+bip_39_word_dash_2: false-talent
+bip_39_word_dash_3: false-talent-gown
+bip_39_word_dash_4: false-talent-gown-dumb
+bip_39_word_dash_5: false-talent-gown-dumb-faith
+bip_39_word_dash_6: false-talent-gown-dumb-faith-arch
+bip_39_word_dash_7: false-talent-gown-dumb-faith-arch-camera
+bip_39_word_dash_8: false-talent-gown-dumb-faith-arch-camera-nominee
+bip_39_word_dash_9: false-talent-gown-dumb-faith-arch-camera-nominee-panic
 bip_39_word_new_br_1: 'false'
 bip_39_word_new_br_10: false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee<br>panic<br>core
 bip_39_word_new_br_11: false<br>talent<br>gown<br>dumb<br>faith<br>arch<br>camera<br>nominee<br>panic<br>core<br>jar
@@ -193,6 +205,18 @@ bip_39_word_space_6: false talent gown dumb faith arch
 bip_39_word_space_7: false talent gown dumb faith arch camera
 bip_39_word_space_8: false talent gown dumb faith arch camera nominee
 bip_39_word_space_9: false talent gown dumb faith arch camera nominee panic
+bip_39_word_underscore_1: 'false'
+bip_39_word_underscore_10: false_talent_gown_dumb_faith_arch_camera_nominee_panic_core
+bip_39_word_underscore_11: false_talent_gown_dumb_faith_arch_camera_nominee_panic_core_jar
+bip_39_word_underscore_12: false_talent_gown_dumb_faith_arch_camera_nominee_panic_core_jar_atom
+bip_39_word_underscore_2: false_talent
+bip_39_word_underscore_3: false_talent_gown
+bip_39_word_underscore_4: false_talent_gown_dumb
+bip_39_word_underscore_5: false_talent_gown_dumb_faith
+bip_39_word_underscore_6: false_talent_gown_dumb_faith_arch
+bip_39_word_underscore_7: false_talent_gown_dumb_faith_arch_camera
+bip_39_word_underscore_8: false_talent_gown_dumb_faith_arch_camera_nominee
+bip_39_word_underscore_9: false_talent_gown_dumb_faith_arch_camera_nominee_panic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

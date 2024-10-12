@@ -1,3 +1,15 @@
+bip_39_word_dash_1: aerobic
+bip_39_word_dash_10: aerobic-anger-input-people-crowd-obscure-regret-economy-mechanic-vintage
+bip_39_word_dash_11: aerobic-anger-input-people-crowd-obscure-regret-economy-mechanic-vintage-program
+bip_39_word_dash_12: aerobic-anger-input-people-crowd-obscure-regret-economy-mechanic-vintage-program-amount
+bip_39_word_dash_2: aerobic-anger
+bip_39_word_dash_3: aerobic-anger-input
+bip_39_word_dash_4: aerobic-anger-input-people
+bip_39_word_dash_5: aerobic-anger-input-people-crowd
+bip_39_word_dash_6: aerobic-anger-input-people-crowd-obscure
+bip_39_word_dash_7: aerobic-anger-input-people-crowd-obscure-regret
+bip_39_word_dash_8: aerobic-anger-input-people-crowd-obscure-regret-economy
+bip_39_word_dash_9: aerobic-anger-input-people-crowd-obscure-regret-economy-mechanic
 bip_39_word_new_br_1: aerobic
 bip_39_word_new_br_10: aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy<br>mechanic<br>vintage
 bip_39_word_new_br_11: aerobic<br>anger<br>input<br>people<br>crowd<br>obscure<br>regret<br>economy<br>mechanic<br>vintage<br>program
@@ -194,6 +206,18 @@ bip_39_word_space_6: aerobic anger input people crowd obscure
 bip_39_word_space_7: aerobic anger input people crowd obscure regret
 bip_39_word_space_8: aerobic anger input people crowd obscure regret economy
 bip_39_word_space_9: aerobic anger input people crowd obscure regret economy mechanic
+bip_39_word_underscore_1: aerobic
+bip_39_word_underscore_10: aerobic_anger_input_people_crowd_obscure_regret_economy_mechanic_vintage
+bip_39_word_underscore_11: aerobic_anger_input_people_crowd_obscure_regret_economy_mechanic_vintage_program
+bip_39_word_underscore_12: aerobic_anger_input_people_crowd_obscure_regret_economy_mechanic_vintage_program_amount
+bip_39_word_underscore_2: aerobic_anger
+bip_39_word_underscore_3: aerobic_anger_input
+bip_39_word_underscore_4: aerobic_anger_input_people
+bip_39_word_underscore_5: aerobic_anger_input_people_crowd
+bip_39_word_underscore_6: aerobic_anger_input_people_crowd_obscure
+bip_39_word_underscore_7: aerobic_anger_input_people_crowd_obscure_regret
+bip_39_word_underscore_8: aerobic_anger_input_people_crowd_obscure_regret_economy
+bip_39_word_underscore_9: aerobic_anger_input_people_crowd_obscure_regret_economy_mechanic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sadness
+bip_39_word_dash_10: sadness-force-boat-eternal-flock-lunch-shoe-powder-vocal-rely
+bip_39_word_dash_11: sadness-force-boat-eternal-flock-lunch-shoe-powder-vocal-rely-toss
+bip_39_word_dash_12: sadness-force-boat-eternal-flock-lunch-shoe-powder-vocal-rely-toss-asset
+bip_39_word_dash_2: sadness-force
+bip_39_word_dash_3: sadness-force-boat
+bip_39_word_dash_4: sadness-force-boat-eternal
+bip_39_word_dash_5: sadness-force-boat-eternal-flock
+bip_39_word_dash_6: sadness-force-boat-eternal-flock-lunch
+bip_39_word_dash_7: sadness-force-boat-eternal-flock-lunch-shoe
+bip_39_word_dash_8: sadness-force-boat-eternal-flock-lunch-shoe-powder
+bip_39_word_dash_9: sadness-force-boat-eternal-flock-lunch-shoe-powder-vocal
 bip_39_word_new_br_1: sadness
 bip_39_word_new_br_10: sadness<br>force<br>boat<br>eternal<br>flock<br>lunch<br>shoe<br>powder<br>vocal<br>rely
 bip_39_word_new_br_11: sadness<br>force<br>boat<br>eternal<br>flock<br>lunch<br>shoe<br>powder<br>vocal<br>rely<br>toss
@@ -193,6 +205,18 @@ bip_39_word_space_6: sadness force boat eternal flock lunch
 bip_39_word_space_7: sadness force boat eternal flock lunch shoe
 bip_39_word_space_8: sadness force boat eternal flock lunch shoe powder
 bip_39_word_space_9: sadness force boat eternal flock lunch shoe powder vocal
+bip_39_word_underscore_1: sadness
+bip_39_word_underscore_10: sadness_force_boat_eternal_flock_lunch_shoe_powder_vocal_rely
+bip_39_word_underscore_11: sadness_force_boat_eternal_flock_lunch_shoe_powder_vocal_rely_toss
+bip_39_word_underscore_12: sadness_force_boat_eternal_flock_lunch_shoe_powder_vocal_rely_toss_asset
+bip_39_word_underscore_2: sadness_force
+bip_39_word_underscore_3: sadness_force_boat
+bip_39_word_underscore_4: sadness_force_boat_eternal
+bip_39_word_underscore_5: sadness_force_boat_eternal_flock
+bip_39_word_underscore_6: sadness_force_boat_eternal_flock_lunch
+bip_39_word_underscore_7: sadness_force_boat_eternal_flock_lunch_shoe
+bip_39_word_underscore_8: sadness_force_boat_eternal_flock_lunch_shoe_powder
+bip_39_word_underscore_9: sadness_force_boat_eternal_flock_lunch_shoe_powder_vocal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

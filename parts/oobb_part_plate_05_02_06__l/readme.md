@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hour |  
+| bip_39_word_dash_10 | hour-afford-enemy-offer-strike-carpet-vicious-boss-truck-chest |  
+| bip_39_word_dash_11 | hour-afford-enemy-offer-strike-carpet-vicious-boss-truck-chest-slot |  
+| bip_39_word_dash_12 | hour-afford-enemy-offer-strike-carpet-vicious-boss-truck-chest-slot-actor |  
+| bip_39_word_dash_2 | hour-afford |  
+| bip_39_word_dash_3 | hour-afford-enemy |  
+| bip_39_word_dash_4 | hour-afford-enemy-offer |  
+| bip_39_word_dash_5 | hour-afford-enemy-offer-strike |  
+| bip_39_word_dash_6 | hour-afford-enemy-offer-strike-carpet |  
+| bip_39_word_dash_7 | hour-afford-enemy-offer-strike-carpet-vicious |  
+| bip_39_word_dash_8 | hour-afford-enemy-offer-strike-carpet-vicious-boss |  
+| bip_39_word_dash_9 | hour-afford-enemy-offer-strike-carpet-vicious-boss-truck |  
 | bip_39_word_new_br_1 | hour |  
 | bip_39_word_new_br_10 | hour<br>afford<br>enemy<br>offer<br>strike<br>carpet<br>vicious<br>boss<br>truck<br>chest |  
 | bip_39_word_new_br_11 | hour<br>afford<br>enemy<br>offer<br>strike<br>carpet<br>vicious<br>boss<br>truck<br>chest<br>slot |  
@@ -147,6 +159,18 @@ truck |
 | bip_39_word_space_7 | hour afford enemy offer strike carpet vicious |  
 | bip_39_word_space_8 | hour afford enemy offer strike carpet vicious boss |  
 | bip_39_word_space_9 | hour afford enemy offer strike carpet vicious boss truck |  
+| bip_39_word_underscore_1 | hour |  
+| bip_39_word_underscore_10 | hour_afford_enemy_offer_strike_carpet_vicious_boss_truck_chest |  
+| bip_39_word_underscore_11 | hour_afford_enemy_offer_strike_carpet_vicious_boss_truck_chest_slot |  
+| bip_39_word_underscore_12 | hour_afford_enemy_offer_strike_carpet_vicious_boss_truck_chest_slot_actor |  
+| bip_39_word_underscore_2 | hour_afford |  
+| bip_39_word_underscore_3 | hour_afford_enemy |  
+| bip_39_word_underscore_4 | hour_afford_enemy_offer |  
+| bip_39_word_underscore_5 | hour_afford_enemy_offer_strike |  
+| bip_39_word_underscore_6 | hour_afford_enemy_offer_strike_carpet |  
+| bip_39_word_underscore_7 | hour_afford_enemy_offer_strike_carpet_vicious |  
+| bip_39_word_underscore_8 | hour_afford_enemy_offer_strike_carpet_vicious_boss |  
+| bip_39_word_underscore_9 | hour_afford_enemy_offer_strike_carpet_vicious_boss_truck |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

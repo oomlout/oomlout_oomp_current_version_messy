@@ -1,3 +1,15 @@
+bip_39_word_dash_1: awake
+bip_39_word_dash_10: awake-shoulder-then-wreck-collect-cube-own-camp-fly-sausage
+bip_39_word_dash_11: awake-shoulder-then-wreck-collect-cube-own-camp-fly-sausage-eight
+bip_39_word_dash_12: awake-shoulder-then-wreck-collect-cube-own-camp-fly-sausage-eight-apart
+bip_39_word_dash_2: awake-shoulder
+bip_39_word_dash_3: awake-shoulder-then
+bip_39_word_dash_4: awake-shoulder-then-wreck
+bip_39_word_dash_5: awake-shoulder-then-wreck-collect
+bip_39_word_dash_6: awake-shoulder-then-wreck-collect-cube
+bip_39_word_dash_7: awake-shoulder-then-wreck-collect-cube-own
+bip_39_word_dash_8: awake-shoulder-then-wreck-collect-cube-own-camp
+bip_39_word_dash_9: awake-shoulder-then-wreck-collect-cube-own-camp-fly
 bip_39_word_new_br_1: awake
 bip_39_word_new_br_10: awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp<br>fly<br>sausage
 bip_39_word_new_br_11: awake<br>shoulder<br>then<br>wreck<br>collect<br>cube<br>own<br>camp<br>fly<br>sausage<br>eight
@@ -193,6 +205,18 @@ bip_39_word_space_6: awake shoulder then wreck collect cube
 bip_39_word_space_7: awake shoulder then wreck collect cube own
 bip_39_word_space_8: awake shoulder then wreck collect cube own camp
 bip_39_word_space_9: awake shoulder then wreck collect cube own camp fly
+bip_39_word_underscore_1: awake
+bip_39_word_underscore_10: awake_shoulder_then_wreck_collect_cube_own_camp_fly_sausage
+bip_39_word_underscore_11: awake_shoulder_then_wreck_collect_cube_own_camp_fly_sausage_eight
+bip_39_word_underscore_12: awake_shoulder_then_wreck_collect_cube_own_camp_fly_sausage_eight_apart
+bip_39_word_underscore_2: awake_shoulder
+bip_39_word_underscore_3: awake_shoulder_then
+bip_39_word_underscore_4: awake_shoulder_then_wreck
+bip_39_word_underscore_5: awake_shoulder_then_wreck_collect
+bip_39_word_underscore_6: awake_shoulder_then_wreck_collect_cube
+bip_39_word_underscore_7: awake_shoulder_then_wreck_collect_cube_own
+bip_39_word_underscore_8: awake_shoulder_then_wreck_collect_cube_own_camp
+bip_39_word_underscore_9: awake_shoulder_then_wreck_collect_cube_own_camp_fly
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: machine
+bip_39_word_dash_10: machine-robot-crack-habit-visit-bind-uphold-window-vague-decrease
+bip_39_word_dash_11: machine-robot-crack-habit-visit-bind-uphold-window-vague-decrease-human
+bip_39_word_dash_12: machine-robot-crack-habit-visit-bind-uphold-window-vague-decrease-human-advice
+bip_39_word_dash_2: machine-robot
+bip_39_word_dash_3: machine-robot-crack
+bip_39_word_dash_4: machine-robot-crack-habit
+bip_39_word_dash_5: machine-robot-crack-habit-visit
+bip_39_word_dash_6: machine-robot-crack-habit-visit-bind
+bip_39_word_dash_7: machine-robot-crack-habit-visit-bind-uphold
+bip_39_word_dash_8: machine-robot-crack-habit-visit-bind-uphold-window
+bip_39_word_dash_9: machine-robot-crack-habit-visit-bind-uphold-window-vague
 bip_39_word_new_br_1: machine
 bip_39_word_new_br_10: machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window<br>vague<br>decrease
 bip_39_word_new_br_11: machine<br>robot<br>crack<br>habit<br>visit<br>bind<br>uphold<br>window<br>vague<br>decrease<br>human
@@ -193,6 +205,18 @@ bip_39_word_space_6: machine robot crack habit visit bind
 bip_39_word_space_7: machine robot crack habit visit bind uphold
 bip_39_word_space_8: machine robot crack habit visit bind uphold window
 bip_39_word_space_9: machine robot crack habit visit bind uphold window vague
+bip_39_word_underscore_1: machine
+bip_39_word_underscore_10: machine_robot_crack_habit_visit_bind_uphold_window_vague_decrease
+bip_39_word_underscore_11: machine_robot_crack_habit_visit_bind_uphold_window_vague_decrease_human
+bip_39_word_underscore_12: machine_robot_crack_habit_visit_bind_uphold_window_vague_decrease_human_advice
+bip_39_word_underscore_2: machine_robot
+bip_39_word_underscore_3: machine_robot_crack
+bip_39_word_underscore_4: machine_robot_crack_habit
+bip_39_word_underscore_5: machine_robot_crack_habit_visit
+bip_39_word_underscore_6: machine_robot_crack_habit_visit_bind
+bip_39_word_underscore_7: machine_robot_crack_habit_visit_bind_uphold
+bip_39_word_underscore_8: machine_robot_crack_habit_visit_bind_uphold_window
+bip_39_word_underscore_9: machine_robot_crack_habit_visit_bind_uphold_window_vague
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vintage |  
+| bip_39_word_dash_10 | vintage-brain-check-swift-air-sell-dream-garlic-milk-bulb |  
+| bip_39_word_dash_11 | vintage-brain-check-swift-air-sell-dream-garlic-milk-bulb-mountain |  
+| bip_39_word_dash_12 | vintage-brain-check-swift-air-sell-dream-garlic-milk-bulb-mountain-aerobic |  
+| bip_39_word_dash_2 | vintage-brain |  
+| bip_39_word_dash_3 | vintage-brain-check |  
+| bip_39_word_dash_4 | vintage-brain-check-swift |  
+| bip_39_word_dash_5 | vintage-brain-check-swift-air |  
+| bip_39_word_dash_6 | vintage-brain-check-swift-air-sell |  
+| bip_39_word_dash_7 | vintage-brain-check-swift-air-sell-dream |  
+| bip_39_word_dash_8 | vintage-brain-check-swift-air-sell-dream-garlic |  
+| bip_39_word_dash_9 | vintage-brain-check-swift-air-sell-dream-garlic-milk |  
 | bip_39_word_new_br_1 | vintage |  
 | bip_39_word_new_br_10 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic<br>milk<br>bulb |  
 | bip_39_word_new_br_11 | vintage<br>brain<br>check<br>swift<br>air<br>sell<br>dream<br>garlic<br>milk<br>bulb<br>mountain |  
@@ -147,6 +159,18 @@ milk |
 | bip_39_word_space_7 | vintage brain check swift air sell dream |  
 | bip_39_word_space_8 | vintage brain check swift air sell dream garlic |  
 | bip_39_word_space_9 | vintage brain check swift air sell dream garlic milk |  
+| bip_39_word_underscore_1 | vintage |  
+| bip_39_word_underscore_10 | vintage_brain_check_swift_air_sell_dream_garlic_milk_bulb |  
+| bip_39_word_underscore_11 | vintage_brain_check_swift_air_sell_dream_garlic_milk_bulb_mountain |  
+| bip_39_word_underscore_12 | vintage_brain_check_swift_air_sell_dream_garlic_milk_bulb_mountain_aerobic |  
+| bip_39_word_underscore_2 | vintage_brain |  
+| bip_39_word_underscore_3 | vintage_brain_check |  
+| bip_39_word_underscore_4 | vintage_brain_check_swift |  
+| bip_39_word_underscore_5 | vintage_brain_check_swift_air |  
+| bip_39_word_underscore_6 | vintage_brain_check_swift_air_sell |  
+| bip_39_word_underscore_7 | vintage_brain_check_swift_air_sell_dream |  
+| bip_39_word_underscore_8 | vintage_brain_check_swift_air_sell_dream_garlic |  
+| bip_39_word_underscore_9 | vintage_brain_check_swift_air_sell_dream_garlic_milk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

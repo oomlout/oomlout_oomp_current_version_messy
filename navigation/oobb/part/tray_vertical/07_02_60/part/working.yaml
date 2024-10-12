@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fan
+bip_39_word_dash_10: fan-jelly-admit-review-ski-absorb-exile-place-eagle-sail
+bip_39_word_dash_11: fan-jelly-admit-review-ski-absorb-exile-place-eagle-sail-galaxy
+bip_39_word_dash_12: fan-jelly-admit-review-ski-absorb-exile-place-eagle-sail-galaxy-able
+bip_39_word_dash_2: fan-jelly
+bip_39_word_dash_3: fan-jelly-admit
+bip_39_word_dash_4: fan-jelly-admit-review
+bip_39_word_dash_5: fan-jelly-admit-review-ski
+bip_39_word_dash_6: fan-jelly-admit-review-ski-absorb
+bip_39_word_dash_7: fan-jelly-admit-review-ski-absorb-exile
+bip_39_word_dash_8: fan-jelly-admit-review-ski-absorb-exile-place
+bip_39_word_dash_9: fan-jelly-admit-review-ski-absorb-exile-place-eagle
 bip_39_word_new_br_1: fan
 bip_39_word_new_br_10: fan<br>jelly<br>admit<br>review<br>ski<br>absorb<br>exile<br>place<br>eagle<br>sail
 bip_39_word_new_br_11: fan<br>jelly<br>admit<br>review<br>ski<br>absorb<br>exile<br>place<br>eagle<br>sail<br>galaxy
@@ -192,6 +204,18 @@ bip_39_word_space_6: fan jelly admit review ski absorb
 bip_39_word_space_7: fan jelly admit review ski absorb exile
 bip_39_word_space_8: fan jelly admit review ski absorb exile place
 bip_39_word_space_9: fan jelly admit review ski absorb exile place eagle
+bip_39_word_underscore_1: fan
+bip_39_word_underscore_10: fan_jelly_admit_review_ski_absorb_exile_place_eagle_sail
+bip_39_word_underscore_11: fan_jelly_admit_review_ski_absorb_exile_place_eagle_sail_galaxy
+bip_39_word_underscore_12: fan_jelly_admit_review_ski_absorb_exile_place_eagle_sail_galaxy_able
+bip_39_word_underscore_2: fan_jelly
+bip_39_word_underscore_3: fan_jelly_admit
+bip_39_word_underscore_4: fan_jelly_admit_review
+bip_39_word_underscore_5: fan_jelly_admit_review_ski
+bip_39_word_underscore_6: fan_jelly_admit_review_ski_absorb
+bip_39_word_underscore_7: fan_jelly_admit_review_ski_absorb_exile
+bip_39_word_underscore_8: fan_jelly_admit_review_ski_absorb_exile_place
+bip_39_word_underscore_9: fan_jelly_admit_review_ski_absorb_exile_place_eagle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

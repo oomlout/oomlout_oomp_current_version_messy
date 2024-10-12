@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chef |  
+| bip_39_word_dash_10 | chef-slogan-toe-bulb-clean-merry-nothing-laugh-cherry-measure |  
+| bip_39_word_dash_11 | chef-slogan-toe-bulb-clean-merry-nothing-laugh-cherry-measure-monitor |  
+| bip_39_word_dash_12 | chef-slogan-toe-bulb-clean-merry-nothing-laugh-cherry-measure-monitor-again |  
+| bip_39_word_dash_2 | chef-slogan |  
+| bip_39_word_dash_3 | chef-slogan-toe |  
+| bip_39_word_dash_4 | chef-slogan-toe-bulb |  
+| bip_39_word_dash_5 | chef-slogan-toe-bulb-clean |  
+| bip_39_word_dash_6 | chef-slogan-toe-bulb-clean-merry |  
+| bip_39_word_dash_7 | chef-slogan-toe-bulb-clean-merry-nothing |  
+| bip_39_word_dash_8 | chef-slogan-toe-bulb-clean-merry-nothing-laugh |  
+| bip_39_word_dash_9 | chef-slogan-toe-bulb-clean-merry-nothing-laugh-cherry |  
 | bip_39_word_new_br_1 | chef |  
 | bip_39_word_new_br_10 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh<br>cherry<br>measure |  
 | bip_39_word_new_br_11 | chef<br>slogan<br>toe<br>bulb<br>clean<br>merry<br>nothing<br>laugh<br>cherry<br>measure<br>monitor |  
@@ -147,6 +159,18 @@ cherry |
 | bip_39_word_space_7 | chef slogan toe bulb clean merry nothing |  
 | bip_39_word_space_8 | chef slogan toe bulb clean merry nothing laugh |  
 | bip_39_word_space_9 | chef slogan toe bulb clean merry nothing laugh cherry |  
+| bip_39_word_underscore_1 | chef |  
+| bip_39_word_underscore_10 | chef_slogan_toe_bulb_clean_merry_nothing_laugh_cherry_measure |  
+| bip_39_word_underscore_11 | chef_slogan_toe_bulb_clean_merry_nothing_laugh_cherry_measure_monitor |  
+| bip_39_word_underscore_12 | chef_slogan_toe_bulb_clean_merry_nothing_laugh_cherry_measure_monitor_again |  
+| bip_39_word_underscore_2 | chef_slogan |  
+| bip_39_word_underscore_3 | chef_slogan_toe |  
+| bip_39_word_underscore_4 | chef_slogan_toe_bulb |  
+| bip_39_word_underscore_5 | chef_slogan_toe_bulb_clean |  
+| bip_39_word_underscore_6 | chef_slogan_toe_bulb_clean_merry |  
+| bip_39_word_underscore_7 | chef_slogan_toe_bulb_clean_merry_nothing |  
+| bip_39_word_underscore_8 | chef_slogan_toe_bulb_clean_merry_nothing_laugh |  
+| bip_39_word_underscore_9 | chef_slogan_toe_bulb_clean_merry_nothing_laugh_cherry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

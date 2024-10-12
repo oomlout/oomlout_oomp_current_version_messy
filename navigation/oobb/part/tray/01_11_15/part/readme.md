@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | setup |  
+| bip_39_word_dash_10 | setup-bachelor-produce-trick-hamster-acquire-van-truck-various-stone |  
+| bip_39_word_dash_11 | setup-bachelor-produce-trick-hamster-acquire-van-truck-various-stone-gift |  
+| bip_39_word_dash_12 | setup-bachelor-produce-trick-hamster-acquire-van-truck-various-stone-gift-any |  
+| bip_39_word_dash_2 | setup-bachelor |  
+| bip_39_word_dash_3 | setup-bachelor-produce |  
+| bip_39_word_dash_4 | setup-bachelor-produce-trick |  
+| bip_39_word_dash_5 | setup-bachelor-produce-trick-hamster |  
+| bip_39_word_dash_6 | setup-bachelor-produce-trick-hamster-acquire |  
+| bip_39_word_dash_7 | setup-bachelor-produce-trick-hamster-acquire-van |  
+| bip_39_word_dash_8 | setup-bachelor-produce-trick-hamster-acquire-van-truck |  
+| bip_39_word_dash_9 | setup-bachelor-produce-trick-hamster-acquire-van-truck-various |  
 | bip_39_word_new_br_1 | setup |  
 | bip_39_word_new_br_10 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck<br>various<br>stone |  
 | bip_39_word_new_br_11 | setup<br>bachelor<br>produce<br>trick<br>hamster<br>acquire<br>van<br>truck<br>various<br>stone<br>gift |  
@@ -147,6 +159,18 @@ various |
 | bip_39_word_space_7 | setup bachelor produce trick hamster acquire van |  
 | bip_39_word_space_8 | setup bachelor produce trick hamster acquire van truck |  
 | bip_39_word_space_9 | setup bachelor produce trick hamster acquire van truck various |  
+| bip_39_word_underscore_1 | setup |  
+| bip_39_word_underscore_10 | setup_bachelor_produce_trick_hamster_acquire_van_truck_various_stone |  
+| bip_39_word_underscore_11 | setup_bachelor_produce_trick_hamster_acquire_van_truck_various_stone_gift |  
+| bip_39_word_underscore_12 | setup_bachelor_produce_trick_hamster_acquire_van_truck_various_stone_gift_any |  
+| bip_39_word_underscore_2 | setup_bachelor |  
+| bip_39_word_underscore_3 | setup_bachelor_produce |  
+| bip_39_word_underscore_4 | setup_bachelor_produce_trick |  
+| bip_39_word_underscore_5 | setup_bachelor_produce_trick_hamster |  
+| bip_39_word_underscore_6 | setup_bachelor_produce_trick_hamster_acquire |  
+| bip_39_word_underscore_7 | setup_bachelor_produce_trick_hamster_acquire_van |  
+| bip_39_word_underscore_8 | setup_bachelor_produce_trick_hamster_acquire_van_truck |  
+| bip_39_word_underscore_9 | setup_bachelor_produce_trick_hamster_acquire_van_truck_various |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

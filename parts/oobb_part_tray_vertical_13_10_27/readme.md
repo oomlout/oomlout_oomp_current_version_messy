@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ship |  
+| bip_39_word_dash_10 | ship-such-cabin-deal-change-crazy-diet-inch-sail-debate |  
+| bip_39_word_dash_11 | ship-such-cabin-deal-change-crazy-diet-inch-sail-debate-wink |  
+| bip_39_word_dash_12 | ship-such-cabin-deal-change-crazy-diet-inch-sail-debate-wink-ask |  
+| bip_39_word_dash_2 | ship-such |  
+| bip_39_word_dash_3 | ship-such-cabin |  
+| bip_39_word_dash_4 | ship-such-cabin-deal |  
+| bip_39_word_dash_5 | ship-such-cabin-deal-change |  
+| bip_39_word_dash_6 | ship-such-cabin-deal-change-crazy |  
+| bip_39_word_dash_7 | ship-such-cabin-deal-change-crazy-diet |  
+| bip_39_word_dash_8 | ship-such-cabin-deal-change-crazy-diet-inch |  
+| bip_39_word_dash_9 | ship-such-cabin-deal-change-crazy-diet-inch-sail |  
 | bip_39_word_new_br_1 | ship |  
 | bip_39_word_new_br_10 | ship<br>such<br>cabin<br>deal<br>change<br>crazy<br>diet<br>inch<br>sail<br>debate |  
 | bip_39_word_new_br_11 | ship<br>such<br>cabin<br>deal<br>change<br>crazy<br>diet<br>inch<br>sail<br>debate<br>wink |  
@@ -147,6 +159,18 @@ sail |
 | bip_39_word_space_7 | ship such cabin deal change crazy diet |  
 | bip_39_word_space_8 | ship such cabin deal change crazy diet inch |  
 | bip_39_word_space_9 | ship such cabin deal change crazy diet inch sail |  
+| bip_39_word_underscore_1 | ship |  
+| bip_39_word_underscore_10 | ship_such_cabin_deal_change_crazy_diet_inch_sail_debate |  
+| bip_39_word_underscore_11 | ship_such_cabin_deal_change_crazy_diet_inch_sail_debate_wink |  
+| bip_39_word_underscore_12 | ship_such_cabin_deal_change_crazy_diet_inch_sail_debate_wink_ask |  
+| bip_39_word_underscore_2 | ship_such |  
+| bip_39_word_underscore_3 | ship_such_cabin |  
+| bip_39_word_underscore_4 | ship_such_cabin_deal |  
+| bip_39_word_underscore_5 | ship_such_cabin_deal_change |  
+| bip_39_word_underscore_6 | ship_such_cabin_deal_change_crazy |  
+| bip_39_word_underscore_7 | ship_such_cabin_deal_change_crazy_diet |  
+| bip_39_word_underscore_8 | ship_such_cabin_deal_change_crazy_diet_inch |  
+| bip_39_word_underscore_9 | ship_such_cabin_deal_change_crazy_diet_inch_sail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

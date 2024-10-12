@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | captain |  
+| bip_39_word_dash_10 | captain-loan-recipe-deny-harbor-bitter-cream-shaft-turkey-between |  
+| bip_39_word_dash_11 | captain-loan-recipe-deny-harbor-bitter-cream-shaft-turkey-between-urban |  
+| bip_39_word_dash_12 | captain-loan-recipe-deny-harbor-bitter-cream-shaft-turkey-between-urban-agree |  
+| bip_39_word_dash_2 | captain-loan |  
+| bip_39_word_dash_3 | captain-loan-recipe |  
+| bip_39_word_dash_4 | captain-loan-recipe-deny |  
+| bip_39_word_dash_5 | captain-loan-recipe-deny-harbor |  
+| bip_39_word_dash_6 | captain-loan-recipe-deny-harbor-bitter |  
+| bip_39_word_dash_7 | captain-loan-recipe-deny-harbor-bitter-cream |  
+| bip_39_word_dash_8 | captain-loan-recipe-deny-harbor-bitter-cream-shaft |  
+| bip_39_word_dash_9 | captain-loan-recipe-deny-harbor-bitter-cream-shaft-turkey |  
 | bip_39_word_new_br_1 | captain |  
 | bip_39_word_new_br_10 | captain<br>loan<br>recipe<br>deny<br>harbor<br>bitter<br>cream<br>shaft<br>turkey<br>between |  
 | bip_39_word_new_br_11 | captain<br>loan<br>recipe<br>deny<br>harbor<br>bitter<br>cream<br>shaft<br>turkey<br>between<br>urban |  
@@ -147,6 +159,18 @@ turkey |
 | bip_39_word_space_7 | captain loan recipe deny harbor bitter cream |  
 | bip_39_word_space_8 | captain loan recipe deny harbor bitter cream shaft |  
 | bip_39_word_space_9 | captain loan recipe deny harbor bitter cream shaft turkey |  
+| bip_39_word_underscore_1 | captain |  
+| bip_39_word_underscore_10 | captain_loan_recipe_deny_harbor_bitter_cream_shaft_turkey_between |  
+| bip_39_word_underscore_11 | captain_loan_recipe_deny_harbor_bitter_cream_shaft_turkey_between_urban |  
+| bip_39_word_underscore_12 | captain_loan_recipe_deny_harbor_bitter_cream_shaft_turkey_between_urban_agree |  
+| bip_39_word_underscore_2 | captain_loan |  
+| bip_39_word_underscore_3 | captain_loan_recipe |  
+| bip_39_word_underscore_4 | captain_loan_recipe_deny |  
+| bip_39_word_underscore_5 | captain_loan_recipe_deny_harbor |  
+| bip_39_word_underscore_6 | captain_loan_recipe_deny_harbor_bitter |  
+| bip_39_word_underscore_7 | captain_loan_recipe_deny_harbor_bitter_cream |  
+| bip_39_word_underscore_8 | captain_loan_recipe_deny_harbor_bitter_cream_shaft |  
+| bip_39_word_underscore_9 | captain_loan_recipe_deny_harbor_bitter_cream_shaft_turkey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

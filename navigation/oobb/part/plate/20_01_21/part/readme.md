@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reason |  
+| bip_39_word_dash_10 | reason-lecture-slice-foil-donkey-more-diagram-hope-middle-chapter |  
+| bip_39_word_dash_11 | reason-lecture-slice-foil-donkey-more-diagram-hope-middle-chapter-movie |  
+| bip_39_word_dash_12 | reason-lecture-slice-foil-donkey-more-diagram-hope-middle-chapter-movie-about |  
+| bip_39_word_dash_2 | reason-lecture |  
+| bip_39_word_dash_3 | reason-lecture-slice |  
+| bip_39_word_dash_4 | reason-lecture-slice-foil |  
+| bip_39_word_dash_5 | reason-lecture-slice-foil-donkey |  
+| bip_39_word_dash_6 | reason-lecture-slice-foil-donkey-more |  
+| bip_39_word_dash_7 | reason-lecture-slice-foil-donkey-more-diagram |  
+| bip_39_word_dash_8 | reason-lecture-slice-foil-donkey-more-diagram-hope |  
+| bip_39_word_dash_9 | reason-lecture-slice-foil-donkey-more-diagram-hope-middle |  
 | bip_39_word_new_br_1 | reason |  
 | bip_39_word_new_br_10 | reason<br>lecture<br>slice<br>foil<br>donkey<br>more<br>diagram<br>hope<br>middle<br>chapter |  
 | bip_39_word_new_br_11 | reason<br>lecture<br>slice<br>foil<br>donkey<br>more<br>diagram<br>hope<br>middle<br>chapter<br>movie |  
@@ -147,6 +159,18 @@ middle |
 | bip_39_word_space_7 | reason lecture slice foil donkey more diagram |  
 | bip_39_word_space_8 | reason lecture slice foil donkey more diagram hope |  
 | bip_39_word_space_9 | reason lecture slice foil donkey more diagram hope middle |  
+| bip_39_word_underscore_1 | reason |  
+| bip_39_word_underscore_10 | reason_lecture_slice_foil_donkey_more_diagram_hope_middle_chapter |  
+| bip_39_word_underscore_11 | reason_lecture_slice_foil_donkey_more_diagram_hope_middle_chapter_movie |  
+| bip_39_word_underscore_12 | reason_lecture_slice_foil_donkey_more_diagram_hope_middle_chapter_movie_about |  
+| bip_39_word_underscore_2 | reason_lecture |  
+| bip_39_word_underscore_3 | reason_lecture_slice |  
+| bip_39_word_underscore_4 | reason_lecture_slice_foil |  
+| bip_39_word_underscore_5 | reason_lecture_slice_foil_donkey |  
+| bip_39_word_underscore_6 | reason_lecture_slice_foil_donkey_more |  
+| bip_39_word_underscore_7 | reason_lecture_slice_foil_donkey_more_diagram |  
+| bip_39_word_underscore_8 | reason_lecture_slice_foil_donkey_more_diagram_hope |  
+| bip_39_word_underscore_9 | reason_lecture_slice_foil_donkey_more_diagram_hope_middle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: liar
+bip_39_word_dash_10: liar-pistol-firm-drip-beyond-mind-pilot-law-era-goddess
+bip_39_word_dash_11: liar-pistol-firm-drip-beyond-mind-pilot-law-era-goddess-crazy
+bip_39_word_dash_12: liar-pistol-firm-drip-beyond-mind-pilot-law-era-goddess-crazy-alpha
+bip_39_word_dash_2: liar-pistol
+bip_39_word_dash_3: liar-pistol-firm
+bip_39_word_dash_4: liar-pistol-firm-drip
+bip_39_word_dash_5: liar-pistol-firm-drip-beyond
+bip_39_word_dash_6: liar-pistol-firm-drip-beyond-mind
+bip_39_word_dash_7: liar-pistol-firm-drip-beyond-mind-pilot
+bip_39_word_dash_8: liar-pistol-firm-drip-beyond-mind-pilot-law
+bip_39_word_dash_9: liar-pistol-firm-drip-beyond-mind-pilot-law-era
 bip_39_word_new_br_1: liar
 bip_39_word_new_br_10: liar<br>pistol<br>firm<br>drip<br>beyond<br>mind<br>pilot<br>law<br>era<br>goddess
 bip_39_word_new_br_11: liar<br>pistol<br>firm<br>drip<br>beyond<br>mind<br>pilot<br>law<br>era<br>goddess<br>crazy
@@ -192,6 +204,18 @@ bip_39_word_space_6: liar pistol firm drip beyond mind
 bip_39_word_space_7: liar pistol firm drip beyond mind pilot
 bip_39_word_space_8: liar pistol firm drip beyond mind pilot law
 bip_39_word_space_9: liar pistol firm drip beyond mind pilot law era
+bip_39_word_underscore_1: liar
+bip_39_word_underscore_10: liar_pistol_firm_drip_beyond_mind_pilot_law_era_goddess
+bip_39_word_underscore_11: liar_pistol_firm_drip_beyond_mind_pilot_law_era_goddess_crazy
+bip_39_word_underscore_12: liar_pistol_firm_drip_beyond_mind_pilot_law_era_goddess_crazy_alpha
+bip_39_word_underscore_2: liar_pistol
+bip_39_word_underscore_3: liar_pistol_firm
+bip_39_word_underscore_4: liar_pistol_firm_drip
+bip_39_word_underscore_5: liar_pistol_firm_drip_beyond
+bip_39_word_underscore_6: liar_pistol_firm_drip_beyond_mind
+bip_39_word_underscore_7: liar_pistol_firm_drip_beyond_mind_pilot
+bip_39_word_underscore_8: liar_pistol_firm_drip_beyond_mind_pilot_law
+bip_39_word_underscore_9: liar_pistol_firm_drip_beyond_mind_pilot_law_era
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

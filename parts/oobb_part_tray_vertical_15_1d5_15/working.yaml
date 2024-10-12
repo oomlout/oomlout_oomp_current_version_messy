@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jazz
+bip_39_word_dash_10: jazz-replace-defense-unveil-antenna-still-retire-claw-news-alert
+bip_39_word_dash_11: jazz-replace-defense-unveil-antenna-still-retire-claw-news-alert-tomato
+bip_39_word_dash_12: jazz-replace-defense-unveil-antenna-still-retire-claw-news-alert-tomato-artwork
+bip_39_word_dash_2: jazz-replace
+bip_39_word_dash_3: jazz-replace-defense
+bip_39_word_dash_4: jazz-replace-defense-unveil
+bip_39_word_dash_5: jazz-replace-defense-unveil-antenna
+bip_39_word_dash_6: jazz-replace-defense-unveil-antenna-still
+bip_39_word_dash_7: jazz-replace-defense-unveil-antenna-still-retire
+bip_39_word_dash_8: jazz-replace-defense-unveil-antenna-still-retire-claw
+bip_39_word_dash_9: jazz-replace-defense-unveil-antenna-still-retire-claw-news
 bip_39_word_new_br_1: jazz
 bip_39_word_new_br_10: jazz<br>replace<br>defense<br>unveil<br>antenna<br>still<br>retire<br>claw<br>news<br>alert
 bip_39_word_new_br_11: jazz<br>replace<br>defense<br>unveil<br>antenna<br>still<br>retire<br>claw<br>news<br>alert<br>tomato
@@ -193,6 +205,18 @@ bip_39_word_space_6: jazz replace defense unveil antenna still
 bip_39_word_space_7: jazz replace defense unveil antenna still retire
 bip_39_word_space_8: jazz replace defense unveil antenna still retire claw
 bip_39_word_space_9: jazz replace defense unveil antenna still retire claw news
+bip_39_word_underscore_1: jazz
+bip_39_word_underscore_10: jazz_replace_defense_unveil_antenna_still_retire_claw_news_alert
+bip_39_word_underscore_11: jazz_replace_defense_unveil_antenna_still_retire_claw_news_alert_tomato
+bip_39_word_underscore_12: jazz_replace_defense_unveil_antenna_still_retire_claw_news_alert_tomato_artwork
+bip_39_word_underscore_2: jazz_replace
+bip_39_word_underscore_3: jazz_replace_defense
+bip_39_word_underscore_4: jazz_replace_defense_unveil
+bip_39_word_underscore_5: jazz_replace_defense_unveil_antenna
+bip_39_word_underscore_6: jazz_replace_defense_unveil_antenna_still
+bip_39_word_underscore_7: jazz_replace_defense_unveil_antenna_still_retire
+bip_39_word_underscore_8: jazz_replace_defense_unveil_antenna_still_retire_claw
+bip_39_word_underscore_9: jazz_replace_defense_unveil_antenna_still_retire_claw_news
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

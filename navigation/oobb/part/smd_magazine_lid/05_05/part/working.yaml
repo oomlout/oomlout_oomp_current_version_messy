@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leisure
+bip_39_word_dash_10: leisure-evoke-broken-faint-flee-soft-cradle-credit-develop-aisle
+bip_39_word_dash_11: leisure-evoke-broken-faint-flee-soft-cradle-credit-develop-aisle-exile
+bip_39_word_dash_12: leisure-evoke-broken-faint-flee-soft-cradle-credit-develop-aisle-exile-addict
+bip_39_word_dash_2: leisure-evoke
+bip_39_word_dash_3: leisure-evoke-broken
+bip_39_word_dash_4: leisure-evoke-broken-faint
+bip_39_word_dash_5: leisure-evoke-broken-faint-flee
+bip_39_word_dash_6: leisure-evoke-broken-faint-flee-soft
+bip_39_word_dash_7: leisure-evoke-broken-faint-flee-soft-cradle
+bip_39_word_dash_8: leisure-evoke-broken-faint-flee-soft-cradle-credit
+bip_39_word_dash_9: leisure-evoke-broken-faint-flee-soft-cradle-credit-develop
 bip_39_word_new_br_1: leisure
 bip_39_word_new_br_10: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit<br>develop<br>aisle
 bip_39_word_new_br_11: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit<br>develop<br>aisle<br>exile
@@ -193,6 +205,18 @@ bip_39_word_space_6: leisure evoke broken faint flee soft
 bip_39_word_space_7: leisure evoke broken faint flee soft cradle
 bip_39_word_space_8: leisure evoke broken faint flee soft cradle credit
 bip_39_word_space_9: leisure evoke broken faint flee soft cradle credit develop
+bip_39_word_underscore_1: leisure
+bip_39_word_underscore_10: leisure_evoke_broken_faint_flee_soft_cradle_credit_develop_aisle
+bip_39_word_underscore_11: leisure_evoke_broken_faint_flee_soft_cradle_credit_develop_aisle_exile
+bip_39_word_underscore_12: leisure_evoke_broken_faint_flee_soft_cradle_credit_develop_aisle_exile_addict
+bip_39_word_underscore_2: leisure_evoke
+bip_39_word_underscore_3: leisure_evoke_broken
+bip_39_word_underscore_4: leisure_evoke_broken_faint
+bip_39_word_underscore_5: leisure_evoke_broken_faint_flee
+bip_39_word_underscore_6: leisure_evoke_broken_faint_flee_soft
+bip_39_word_underscore_7: leisure_evoke_broken_faint_flee_soft_cradle
+bip_39_word_underscore_8: leisure_evoke_broken_faint_flee_soft_cradle_credit
+bip_39_word_underscore_9: leisure_evoke_broken_faint_flee_soft_cradle_credit_develop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

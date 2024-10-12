@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | powder |  
+| bip_39_word_dash_10 | powder-protect-size-purity-story-announce-mercy-warm-elbow-same |  
+| bip_39_word_dash_11 | powder-protect-size-purity-story-announce-mercy-warm-elbow-same-stage |  
+| bip_39_word_dash_12 | powder-protect-size-purity-story-announce-mercy-warm-elbow-same-stage-advice |  
+| bip_39_word_dash_2 | powder-protect |  
+| bip_39_word_dash_3 | powder-protect-size |  
+| bip_39_word_dash_4 | powder-protect-size-purity |  
+| bip_39_word_dash_5 | powder-protect-size-purity-story |  
+| bip_39_word_dash_6 | powder-protect-size-purity-story-announce |  
+| bip_39_word_dash_7 | powder-protect-size-purity-story-announce-mercy |  
+| bip_39_word_dash_8 | powder-protect-size-purity-story-announce-mercy-warm |  
+| bip_39_word_dash_9 | powder-protect-size-purity-story-announce-mercy-warm-elbow |  
 | bip_39_word_new_br_1 | powder |  
 | bip_39_word_new_br_10 | powder<br>protect<br>size<br>purity<br>story<br>announce<br>mercy<br>warm<br>elbow<br>same |  
 | bip_39_word_new_br_11 | powder<br>protect<br>size<br>purity<br>story<br>announce<br>mercy<br>warm<br>elbow<br>same<br>stage |  
@@ -147,6 +159,18 @@ elbow |
 | bip_39_word_space_7 | powder protect size purity story announce mercy |  
 | bip_39_word_space_8 | powder protect size purity story announce mercy warm |  
 | bip_39_word_space_9 | powder protect size purity story announce mercy warm elbow |  
+| bip_39_word_underscore_1 | powder |  
+| bip_39_word_underscore_10 | powder_protect_size_purity_story_announce_mercy_warm_elbow_same |  
+| bip_39_word_underscore_11 | powder_protect_size_purity_story_announce_mercy_warm_elbow_same_stage |  
+| bip_39_word_underscore_12 | powder_protect_size_purity_story_announce_mercy_warm_elbow_same_stage_advice |  
+| bip_39_word_underscore_2 | powder_protect |  
+| bip_39_word_underscore_3 | powder_protect_size |  
+| bip_39_word_underscore_4 | powder_protect_size_purity |  
+| bip_39_word_underscore_5 | powder_protect_size_purity_story |  
+| bip_39_word_underscore_6 | powder_protect_size_purity_story_announce |  
+| bip_39_word_underscore_7 | powder_protect_size_purity_story_announce_mercy |  
+| bip_39_word_underscore_8 | powder_protect_size_purity_story_announce_mercy_warm |  
+| bip_39_word_underscore_9 | powder_protect_size_purity_story_announce_mercy_warm_elbow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

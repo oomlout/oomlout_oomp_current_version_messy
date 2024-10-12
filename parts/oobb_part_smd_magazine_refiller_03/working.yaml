@@ -1,3 +1,15 @@
+bip_39_word_dash_1: audit
+bip_39_word_dash_10: audit-modify-settle-speak-comfort-rug-elevator-eyebrow-fringe-orchard
+bip_39_word_dash_11: audit-modify-settle-speak-comfort-rug-elevator-eyebrow-fringe-orchard-sniff
+bip_39_word_dash_12: audit-modify-settle-speak-comfort-rug-elevator-eyebrow-fringe-orchard-sniff-appear
+bip_39_word_dash_2: audit-modify
+bip_39_word_dash_3: audit-modify-settle
+bip_39_word_dash_4: audit-modify-settle-speak
+bip_39_word_dash_5: audit-modify-settle-speak-comfort
+bip_39_word_dash_6: audit-modify-settle-speak-comfort-rug
+bip_39_word_dash_7: audit-modify-settle-speak-comfort-rug-elevator
+bip_39_word_dash_8: audit-modify-settle-speak-comfort-rug-elevator-eyebrow
+bip_39_word_dash_9: audit-modify-settle-speak-comfort-rug-elevator-eyebrow-fringe
 bip_39_word_new_br_1: audit
 bip_39_word_new_br_10: audit<br>modify<br>settle<br>speak<br>comfort<br>rug<br>elevator<br>eyebrow<br>fringe<br>orchard
 bip_39_word_new_br_11: audit<br>modify<br>settle<br>speak<br>comfort<br>rug<br>elevator<br>eyebrow<br>fringe<br>orchard<br>sniff
@@ -194,6 +206,18 @@ bip_39_word_space_6: audit modify settle speak comfort rug
 bip_39_word_space_7: audit modify settle speak comfort rug elevator
 bip_39_word_space_8: audit modify settle speak comfort rug elevator eyebrow
 bip_39_word_space_9: audit modify settle speak comfort rug elevator eyebrow fringe
+bip_39_word_underscore_1: audit
+bip_39_word_underscore_10: audit_modify_settle_speak_comfort_rug_elevator_eyebrow_fringe_orchard
+bip_39_word_underscore_11: audit_modify_settle_speak_comfort_rug_elevator_eyebrow_fringe_orchard_sniff
+bip_39_word_underscore_12: audit_modify_settle_speak_comfort_rug_elevator_eyebrow_fringe_orchard_sniff_appear
+bip_39_word_underscore_2: audit_modify
+bip_39_word_underscore_3: audit_modify_settle
+bip_39_word_underscore_4: audit_modify_settle_speak
+bip_39_word_underscore_5: audit_modify_settle_speak_comfort
+bip_39_word_underscore_6: audit_modify_settle_speak_comfort_rug
+bip_39_word_underscore_7: audit_modify_settle_speak_comfort_rug_elevator
+bip_39_word_underscore_8: audit_modify_settle_speak_comfort_rug_elevator_eyebrow
+bip_39_word_underscore_9: audit_modify_settle_speak_comfort_rug_elevator_eyebrow_fringe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shoe
+bip_39_word_dash_10: shoe-club-lock-weekend-undo-tiger-parrot-course-prepare-order
+bip_39_word_dash_11: shoe-club-lock-weekend-undo-tiger-parrot-course-prepare-order-father
+bip_39_word_dash_12: shoe-club-lock-weekend-undo-tiger-parrot-course-prepare-order-father-art
+bip_39_word_dash_2: shoe-club
+bip_39_word_dash_3: shoe-club-lock
+bip_39_word_dash_4: shoe-club-lock-weekend
+bip_39_word_dash_5: shoe-club-lock-weekend-undo
+bip_39_word_dash_6: shoe-club-lock-weekend-undo-tiger
+bip_39_word_dash_7: shoe-club-lock-weekend-undo-tiger-parrot
+bip_39_word_dash_8: shoe-club-lock-weekend-undo-tiger-parrot-course
+bip_39_word_dash_9: shoe-club-lock-weekend-undo-tiger-parrot-course-prepare
 bip_39_word_new_br_1: shoe
 bip_39_word_new_br_10: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course<br>prepare<br>order
 bip_39_word_new_br_11: shoe<br>club<br>lock<br>weekend<br>undo<br>tiger<br>parrot<br>course<br>prepare<br>order<br>father
@@ -193,6 +205,18 @@ bip_39_word_space_6: shoe club lock weekend undo tiger
 bip_39_word_space_7: shoe club lock weekend undo tiger parrot
 bip_39_word_space_8: shoe club lock weekend undo tiger parrot course
 bip_39_word_space_9: shoe club lock weekend undo tiger parrot course prepare
+bip_39_word_underscore_1: shoe
+bip_39_word_underscore_10: shoe_club_lock_weekend_undo_tiger_parrot_course_prepare_order
+bip_39_word_underscore_11: shoe_club_lock_weekend_undo_tiger_parrot_course_prepare_order_father
+bip_39_word_underscore_12: shoe_club_lock_weekend_undo_tiger_parrot_course_prepare_order_father_art
+bip_39_word_underscore_2: shoe_club
+bip_39_word_underscore_3: shoe_club_lock
+bip_39_word_underscore_4: shoe_club_lock_weekend
+bip_39_word_underscore_5: shoe_club_lock_weekend_undo
+bip_39_word_underscore_6: shoe_club_lock_weekend_undo_tiger
+bip_39_word_underscore_7: shoe_club_lock_weekend_undo_tiger_parrot
+bip_39_word_underscore_8: shoe_club_lock_weekend_undo_tiger_parrot_course
+bip_39_word_underscore_9: shoe_club_lock_weekend_undo_tiger_parrot_course_prepare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

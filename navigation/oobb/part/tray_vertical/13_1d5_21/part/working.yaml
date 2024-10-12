@@ -1,3 +1,15 @@
+bip_39_word_dash_1: response
+bip_39_word_dash_10: response-output-already-gravity-nasty-execute-enact-vacuum-drop-skirt
+bip_39_word_dash_11: response-output-already-gravity-nasty-execute-enact-vacuum-drop-skirt-horror
+bip_39_word_dash_12: response-output-already-gravity-nasty-execute-enact-vacuum-drop-skirt-horror-address
+bip_39_word_dash_2: response-output
+bip_39_word_dash_3: response-output-already
+bip_39_word_dash_4: response-output-already-gravity
+bip_39_word_dash_5: response-output-already-gravity-nasty
+bip_39_word_dash_6: response-output-already-gravity-nasty-execute
+bip_39_word_dash_7: response-output-already-gravity-nasty-execute-enact
+bip_39_word_dash_8: response-output-already-gravity-nasty-execute-enact-vacuum
+bip_39_word_dash_9: response-output-already-gravity-nasty-execute-enact-vacuum-drop
 bip_39_word_new_br_1: response
 bip_39_word_new_br_10: response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum<br>drop<br>skirt
 bip_39_word_new_br_11: response<br>output<br>already<br>gravity<br>nasty<br>execute<br>enact<br>vacuum<br>drop<br>skirt<br>horror
@@ -194,6 +206,18 @@ bip_39_word_space_6: response output already gravity nasty execute
 bip_39_word_space_7: response output already gravity nasty execute enact
 bip_39_word_space_8: response output already gravity nasty execute enact vacuum
 bip_39_word_space_9: response output already gravity nasty execute enact vacuum drop
+bip_39_word_underscore_1: response
+bip_39_word_underscore_10: response_output_already_gravity_nasty_execute_enact_vacuum_drop_skirt
+bip_39_word_underscore_11: response_output_already_gravity_nasty_execute_enact_vacuum_drop_skirt_horror
+bip_39_word_underscore_12: response_output_already_gravity_nasty_execute_enact_vacuum_drop_skirt_horror_address
+bip_39_word_underscore_2: response_output
+bip_39_word_underscore_3: response_output_already
+bip_39_word_underscore_4: response_output_already_gravity
+bip_39_word_underscore_5: response_output_already_gravity_nasty
+bip_39_word_underscore_6: response_output_already_gravity_nasty_execute
+bip_39_word_underscore_7: response_output_already_gravity_nasty_execute_enact
+bip_39_word_underscore_8: response_output_already_gravity_nasty_execute_enact_vacuum
+bip_39_word_underscore_9: response_output_already_gravity_nasty_execute_enact_vacuum_drop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

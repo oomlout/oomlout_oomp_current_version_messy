@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blouse
+bip_39_word_dash_10: blouse-attract-cancel-term-stage-choose-doctor-find-awake-material
+bip_39_word_dash_11: blouse-attract-cancel-term-stage-choose-doctor-find-awake-material-above
+bip_39_word_dash_12: blouse-attract-cancel-term-stage-choose-doctor-find-awake-material-above-arrow
+bip_39_word_dash_2: blouse-attract
+bip_39_word_dash_3: blouse-attract-cancel
+bip_39_word_dash_4: blouse-attract-cancel-term
+bip_39_word_dash_5: blouse-attract-cancel-term-stage
+bip_39_word_dash_6: blouse-attract-cancel-term-stage-choose
+bip_39_word_dash_7: blouse-attract-cancel-term-stage-choose-doctor
+bip_39_word_dash_8: blouse-attract-cancel-term-stage-choose-doctor-find
+bip_39_word_dash_9: blouse-attract-cancel-term-stage-choose-doctor-find-awake
 bip_39_word_new_br_1: blouse
 bip_39_word_new_br_10: blouse<br>attract<br>cancel<br>term<br>stage<br>choose<br>doctor<br>find<br>awake<br>material
 bip_39_word_new_br_11: blouse<br>attract<br>cancel<br>term<br>stage<br>choose<br>doctor<br>find<br>awake<br>material<br>above
@@ -193,6 +205,18 @@ bip_39_word_space_6: blouse attract cancel term stage choose
 bip_39_word_space_7: blouse attract cancel term stage choose doctor
 bip_39_word_space_8: blouse attract cancel term stage choose doctor find
 bip_39_word_space_9: blouse attract cancel term stage choose doctor find awake
+bip_39_word_underscore_1: blouse
+bip_39_word_underscore_10: blouse_attract_cancel_term_stage_choose_doctor_find_awake_material
+bip_39_word_underscore_11: blouse_attract_cancel_term_stage_choose_doctor_find_awake_material_above
+bip_39_word_underscore_12: blouse_attract_cancel_term_stage_choose_doctor_find_awake_material_above_arrow
+bip_39_word_underscore_2: blouse_attract
+bip_39_word_underscore_3: blouse_attract_cancel
+bip_39_word_underscore_4: blouse_attract_cancel_term
+bip_39_word_underscore_5: blouse_attract_cancel_term_stage
+bip_39_word_underscore_6: blouse_attract_cancel_term_stage_choose
+bip_39_word_underscore_7: blouse_attract_cancel_term_stage_choose_doctor
+bip_39_word_underscore_8: blouse_attract_cancel_term_stage_choose_doctor_find
+bip_39_word_underscore_9: blouse_attract_cancel_term_stage_choose_doctor_find_awake
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

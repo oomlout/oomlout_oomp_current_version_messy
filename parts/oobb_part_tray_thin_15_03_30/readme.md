@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | patrol |  
+| bip_39_word_dash_10 | patrol-fee-foil-session-defense-secret-forget-deny-mirror-laundry |  
+| bip_39_word_dash_11 | patrol-fee-foil-session-defense-secret-forget-deny-mirror-laundry-ask |  
+| bip_39_word_dash_12 | patrol-fee-foil-session-defense-secret-forget-deny-mirror-laundry-ask-album |  
+| bip_39_word_dash_2 | patrol-fee |  
+| bip_39_word_dash_3 | patrol-fee-foil |  
+| bip_39_word_dash_4 | patrol-fee-foil-session |  
+| bip_39_word_dash_5 | patrol-fee-foil-session-defense |  
+| bip_39_word_dash_6 | patrol-fee-foil-session-defense-secret |  
+| bip_39_word_dash_7 | patrol-fee-foil-session-defense-secret-forget |  
+| bip_39_word_dash_8 | patrol-fee-foil-session-defense-secret-forget-deny |  
+| bip_39_word_dash_9 | patrol-fee-foil-session-defense-secret-forget-deny-mirror |  
 | bip_39_word_new_br_1 | patrol |  
 | bip_39_word_new_br_10 | patrol<br>fee<br>foil<br>session<br>defense<br>secret<br>forget<br>deny<br>mirror<br>laundry |  
 | bip_39_word_new_br_11 | patrol<br>fee<br>foil<br>session<br>defense<br>secret<br>forget<br>deny<br>mirror<br>laundry<br>ask |  
@@ -147,6 +159,18 @@ mirror |
 | bip_39_word_space_7 | patrol fee foil session defense secret forget |  
 | bip_39_word_space_8 | patrol fee foil session defense secret forget deny |  
 | bip_39_word_space_9 | patrol fee foil session defense secret forget deny mirror |  
+| bip_39_word_underscore_1 | patrol |  
+| bip_39_word_underscore_10 | patrol_fee_foil_session_defense_secret_forget_deny_mirror_laundry |  
+| bip_39_word_underscore_11 | patrol_fee_foil_session_defense_secret_forget_deny_mirror_laundry_ask |  
+| bip_39_word_underscore_12 | patrol_fee_foil_session_defense_secret_forget_deny_mirror_laundry_ask_album |  
+| bip_39_word_underscore_2 | patrol_fee |  
+| bip_39_word_underscore_3 | patrol_fee_foil |  
+| bip_39_word_underscore_4 | patrol_fee_foil_session |  
+| bip_39_word_underscore_5 | patrol_fee_foil_session_defense |  
+| bip_39_word_underscore_6 | patrol_fee_foil_session_defense_secret |  
+| bip_39_word_underscore_7 | patrol_fee_foil_session_defense_secret_forget |  
+| bip_39_word_underscore_8 | patrol_fee_foil_session_defense_secret_forget_deny |  
+| bip_39_word_underscore_9 | patrol_fee_foil_session_defense_secret_forget_deny_mirror |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

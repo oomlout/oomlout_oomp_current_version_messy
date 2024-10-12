@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cycle |  
+| bip_39_word_dash_10 | cycle-situate-armor-poverty-impact-illness-fly-assume-put-benefit |  
+| bip_39_word_dash_11 | cycle-situate-armor-poverty-impact-illness-fly-assume-put-benefit-skirt |  
+| bip_39_word_dash_12 | cycle-situate-armor-poverty-impact-illness-fly-assume-put-benefit-skirt-ahead |  
+| bip_39_word_dash_2 | cycle-situate |  
+| bip_39_word_dash_3 | cycle-situate-armor |  
+| bip_39_word_dash_4 | cycle-situate-armor-poverty |  
+| bip_39_word_dash_5 | cycle-situate-armor-poverty-impact |  
+| bip_39_word_dash_6 | cycle-situate-armor-poverty-impact-illness |  
+| bip_39_word_dash_7 | cycle-situate-armor-poverty-impact-illness-fly |  
+| bip_39_word_dash_8 | cycle-situate-armor-poverty-impact-illness-fly-assume |  
+| bip_39_word_dash_9 | cycle-situate-armor-poverty-impact-illness-fly-assume-put |  
 | bip_39_word_new_br_1 | cycle |  
 | bip_39_word_new_br_10 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume<br>put<br>benefit |  
 | bip_39_word_new_br_11 | cycle<br>situate<br>armor<br>poverty<br>impact<br>illness<br>fly<br>assume<br>put<br>benefit<br>skirt |  
@@ -147,6 +159,18 @@ put |
 | bip_39_word_space_7 | cycle situate armor poverty impact illness fly |  
 | bip_39_word_space_8 | cycle situate armor poverty impact illness fly assume |  
 | bip_39_word_space_9 | cycle situate armor poverty impact illness fly assume put |  
+| bip_39_word_underscore_1 | cycle |  
+| bip_39_word_underscore_10 | cycle_situate_armor_poverty_impact_illness_fly_assume_put_benefit |  
+| bip_39_word_underscore_11 | cycle_situate_armor_poverty_impact_illness_fly_assume_put_benefit_skirt |  
+| bip_39_word_underscore_12 | cycle_situate_armor_poverty_impact_illness_fly_assume_put_benefit_skirt_ahead |  
+| bip_39_word_underscore_2 | cycle_situate |  
+| bip_39_word_underscore_3 | cycle_situate_armor |  
+| bip_39_word_underscore_4 | cycle_situate_armor_poverty |  
+| bip_39_word_underscore_5 | cycle_situate_armor_poverty_impact |  
+| bip_39_word_underscore_6 | cycle_situate_armor_poverty_impact_illness |  
+| bip_39_word_underscore_7 | cycle_situate_armor_poverty_impact_illness_fly |  
+| bip_39_word_underscore_8 | cycle_situate_armor_poverty_impact_illness_fly_assume |  
+| bip_39_word_underscore_9 | cycle_situate_armor_poverty_impact_illness_fly_assume_put |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: base
+bip_39_word_dash_10: base-dance-split-injury-immune-rich-episode-blossom-shrimp-lawn
+bip_39_word_dash_11: base-dance-split-injury-immune-rich-episode-blossom-shrimp-lawn-dune
+bip_39_word_dash_12: base-dance-split-injury-immune-rich-episode-blossom-shrimp-lawn-dune-alpha
+bip_39_word_dash_2: base-dance
+bip_39_word_dash_3: base-dance-split
+bip_39_word_dash_4: base-dance-split-injury
+bip_39_word_dash_5: base-dance-split-injury-immune
+bip_39_word_dash_6: base-dance-split-injury-immune-rich
+bip_39_word_dash_7: base-dance-split-injury-immune-rich-episode
+bip_39_word_dash_8: base-dance-split-injury-immune-rich-episode-blossom
+bip_39_word_dash_9: base-dance-split-injury-immune-rich-episode-blossom-shrimp
 bip_39_word_new_br_1: base
 bip_39_word_new_br_10: base<br>dance<br>split<br>injury<br>immune<br>rich<br>episode<br>blossom<br>shrimp<br>lawn
 bip_39_word_new_br_11: base<br>dance<br>split<br>injury<br>immune<br>rich<br>episode<br>blossom<br>shrimp<br>lawn<br>dune
@@ -193,6 +205,18 @@ bip_39_word_space_6: base dance split injury immune rich
 bip_39_word_space_7: base dance split injury immune rich episode
 bip_39_word_space_8: base dance split injury immune rich episode blossom
 bip_39_word_space_9: base dance split injury immune rich episode blossom shrimp
+bip_39_word_underscore_1: base
+bip_39_word_underscore_10: base_dance_split_injury_immune_rich_episode_blossom_shrimp_lawn
+bip_39_word_underscore_11: base_dance_split_injury_immune_rich_episode_blossom_shrimp_lawn_dune
+bip_39_word_underscore_12: base_dance_split_injury_immune_rich_episode_blossom_shrimp_lawn_dune_alpha
+bip_39_word_underscore_2: base_dance
+bip_39_word_underscore_3: base_dance_split
+bip_39_word_underscore_4: base_dance_split_injury
+bip_39_word_underscore_5: base_dance_split_injury_immune
+bip_39_word_underscore_6: base_dance_split_injury_immune_rich
+bip_39_word_underscore_7: base_dance_split_injury_immune_rich_episode
+bip_39_word_underscore_8: base_dance_split_injury_immune_rich_episode_blossom
+bip_39_word_underscore_9: base_dance_split_injury_immune_rich_episode_blossom_shrimp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

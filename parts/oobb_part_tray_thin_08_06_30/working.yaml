@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tissue
+bip_39_word_dash_10: tissue-reopen-sadness-suggest-cover-quality-save-original-organ-heavy
+bip_39_word_dash_11: tissue-reopen-sadness-suggest-cover-quality-save-original-organ-heavy-monitor
+bip_39_word_dash_12: tissue-reopen-sadness-suggest-cover-quality-save-original-organ-heavy-monitor-album
+bip_39_word_dash_2: tissue-reopen
+bip_39_word_dash_3: tissue-reopen-sadness
+bip_39_word_dash_4: tissue-reopen-sadness-suggest
+bip_39_word_dash_5: tissue-reopen-sadness-suggest-cover
+bip_39_word_dash_6: tissue-reopen-sadness-suggest-cover-quality
+bip_39_word_dash_7: tissue-reopen-sadness-suggest-cover-quality-save
+bip_39_word_dash_8: tissue-reopen-sadness-suggest-cover-quality-save-original
+bip_39_word_dash_9: tissue-reopen-sadness-suggest-cover-quality-save-original-organ
 bip_39_word_new_br_1: tissue
 bip_39_word_new_br_10: tissue<br>reopen<br>sadness<br>suggest<br>cover<br>quality<br>save<br>original<br>organ<br>heavy
 bip_39_word_new_br_11: tissue<br>reopen<br>sadness<br>suggest<br>cover<br>quality<br>save<br>original<br>organ<br>heavy<br>monitor
@@ -194,6 +206,18 @@ bip_39_word_space_6: tissue reopen sadness suggest cover quality
 bip_39_word_space_7: tissue reopen sadness suggest cover quality save
 bip_39_word_space_8: tissue reopen sadness suggest cover quality save original
 bip_39_word_space_9: tissue reopen sadness suggest cover quality save original organ
+bip_39_word_underscore_1: tissue
+bip_39_word_underscore_10: tissue_reopen_sadness_suggest_cover_quality_save_original_organ_heavy
+bip_39_word_underscore_11: tissue_reopen_sadness_suggest_cover_quality_save_original_organ_heavy_monitor
+bip_39_word_underscore_12: tissue_reopen_sadness_suggest_cover_quality_save_original_organ_heavy_monitor_album
+bip_39_word_underscore_2: tissue_reopen
+bip_39_word_underscore_3: tissue_reopen_sadness
+bip_39_word_underscore_4: tissue_reopen_sadness_suggest
+bip_39_word_underscore_5: tissue_reopen_sadness_suggest_cover
+bip_39_word_underscore_6: tissue_reopen_sadness_suggest_cover_quality
+bip_39_word_underscore_7: tissue_reopen_sadness_suggest_cover_quality_save
+bip_39_word_underscore_8: tissue_reopen_sadness_suggest_cover_quality_save_original
+bip_39_word_underscore_9: tissue_reopen_sadness_suggest_cover_quality_save_original_organ
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: knife
+bip_39_word_dash_10: knife-lyrics-mountain-apple-indoor-canal-nasty-meadow-boy-speed
+bip_39_word_dash_11: knife-lyrics-mountain-apple-indoor-canal-nasty-meadow-boy-speed-leader
+bip_39_word_dash_12: knife-lyrics-mountain-apple-indoor-canal-nasty-meadow-boy-speed-leader-aspect
+bip_39_word_dash_2: knife-lyrics
+bip_39_word_dash_3: knife-lyrics-mountain
+bip_39_word_dash_4: knife-lyrics-mountain-apple
+bip_39_word_dash_5: knife-lyrics-mountain-apple-indoor
+bip_39_word_dash_6: knife-lyrics-mountain-apple-indoor-canal
+bip_39_word_dash_7: knife-lyrics-mountain-apple-indoor-canal-nasty
+bip_39_word_dash_8: knife-lyrics-mountain-apple-indoor-canal-nasty-meadow
+bip_39_word_dash_9: knife-lyrics-mountain-apple-indoor-canal-nasty-meadow-boy
 bip_39_word_new_br_1: knife
 bip_39_word_new_br_10: knife<br>lyrics<br>mountain<br>apple<br>indoor<br>canal<br>nasty<br>meadow<br>boy<br>speed
 bip_39_word_new_br_11: knife<br>lyrics<br>mountain<br>apple<br>indoor<br>canal<br>nasty<br>meadow<br>boy<br>speed<br>leader
@@ -193,6 +205,18 @@ bip_39_word_space_6: knife lyrics mountain apple indoor canal
 bip_39_word_space_7: knife lyrics mountain apple indoor canal nasty
 bip_39_word_space_8: knife lyrics mountain apple indoor canal nasty meadow
 bip_39_word_space_9: knife lyrics mountain apple indoor canal nasty meadow boy
+bip_39_word_underscore_1: knife
+bip_39_word_underscore_10: knife_lyrics_mountain_apple_indoor_canal_nasty_meadow_boy_speed
+bip_39_word_underscore_11: knife_lyrics_mountain_apple_indoor_canal_nasty_meadow_boy_speed_leader
+bip_39_word_underscore_12: knife_lyrics_mountain_apple_indoor_canal_nasty_meadow_boy_speed_leader_aspect
+bip_39_word_underscore_2: knife_lyrics
+bip_39_word_underscore_3: knife_lyrics_mountain
+bip_39_word_underscore_4: knife_lyrics_mountain_apple
+bip_39_word_underscore_5: knife_lyrics_mountain_apple_indoor
+bip_39_word_underscore_6: knife_lyrics_mountain_apple_indoor_canal
+bip_39_word_underscore_7: knife_lyrics_mountain_apple_indoor_canal_nasty
+bip_39_word_underscore_8: knife_lyrics_mountain_apple_indoor_canal_nasty_meadow
+bip_39_word_underscore_9: knife_lyrics_mountain_apple_indoor_canal_nasty_meadow_boy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

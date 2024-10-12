@@ -1,3 +1,15 @@
+bip_39_word_dash_1: weasel
+bip_39_word_dash_10: weasel-fetch-breeze-warm-virus-fox-flower-dad-source-exchange
+bip_39_word_dash_11: weasel-fetch-breeze-warm-virus-fox-flower-dad-source-exchange-glad
+bip_39_word_dash_12: weasel-fetch-breeze-warm-virus-fox-flower-dad-source-exchange-glad-again
+bip_39_word_dash_2: weasel-fetch
+bip_39_word_dash_3: weasel-fetch-breeze
+bip_39_word_dash_4: weasel-fetch-breeze-warm
+bip_39_word_dash_5: weasel-fetch-breeze-warm-virus
+bip_39_word_dash_6: weasel-fetch-breeze-warm-virus-fox
+bip_39_word_dash_7: weasel-fetch-breeze-warm-virus-fox-flower
+bip_39_word_dash_8: weasel-fetch-breeze-warm-virus-fox-flower-dad
+bip_39_word_dash_9: weasel-fetch-breeze-warm-virus-fox-flower-dad-source
 bip_39_word_new_br_1: weasel
 bip_39_word_new_br_10: weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad<br>source<br>exchange
 bip_39_word_new_br_11: weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad<br>source<br>exchange<br>glad
@@ -193,6 +205,18 @@ bip_39_word_space_6: weasel fetch breeze warm virus fox
 bip_39_word_space_7: weasel fetch breeze warm virus fox flower
 bip_39_word_space_8: weasel fetch breeze warm virus fox flower dad
 bip_39_word_space_9: weasel fetch breeze warm virus fox flower dad source
+bip_39_word_underscore_1: weasel
+bip_39_word_underscore_10: weasel_fetch_breeze_warm_virus_fox_flower_dad_source_exchange
+bip_39_word_underscore_11: weasel_fetch_breeze_warm_virus_fox_flower_dad_source_exchange_glad
+bip_39_word_underscore_12: weasel_fetch_breeze_warm_virus_fox_flower_dad_source_exchange_glad_again
+bip_39_word_underscore_2: weasel_fetch
+bip_39_word_underscore_3: weasel_fetch_breeze
+bip_39_word_underscore_4: weasel_fetch_breeze_warm
+bip_39_word_underscore_5: weasel_fetch_breeze_warm_virus
+bip_39_word_underscore_6: weasel_fetch_breeze_warm_virus_fox
+bip_39_word_underscore_7: weasel_fetch_breeze_warm_virus_fox_flower
+bip_39_word_underscore_8: weasel_fetch_breeze_warm_virus_fox_flower_dad
+bip_39_word_underscore_9: weasel_fetch_breeze_warm_virus_fox_flower_dad_source
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

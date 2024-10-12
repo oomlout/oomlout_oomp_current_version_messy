@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lemon |  
+| bip_39_word_dash_10 | lemon-mystery-grid-brush-attend-make-pipe-turkey-proof-appear |  
+| bip_39_word_dash_11 | lemon-mystery-grid-brush-attend-make-pipe-turkey-proof-appear-drum |  
+| bip_39_word_dash_12 | lemon-mystery-grid-brush-attend-make-pipe-turkey-proof-appear-drum-amateur |  
+| bip_39_word_dash_2 | lemon-mystery |  
+| bip_39_word_dash_3 | lemon-mystery-grid |  
+| bip_39_word_dash_4 | lemon-mystery-grid-brush |  
+| bip_39_word_dash_5 | lemon-mystery-grid-brush-attend |  
+| bip_39_word_dash_6 | lemon-mystery-grid-brush-attend-make |  
+| bip_39_word_dash_7 | lemon-mystery-grid-brush-attend-make-pipe |  
+| bip_39_word_dash_8 | lemon-mystery-grid-brush-attend-make-pipe-turkey |  
+| bip_39_word_dash_9 | lemon-mystery-grid-brush-attend-make-pipe-turkey-proof |  
 | bip_39_word_new_br_1 | lemon |  
 | bip_39_word_new_br_10 | lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey<br>proof<br>appear |  
 | bip_39_word_new_br_11 | lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey<br>proof<br>appear<br>drum |  
@@ -147,6 +159,18 @@ proof |
 | bip_39_word_space_7 | lemon mystery grid brush attend make pipe |  
 | bip_39_word_space_8 | lemon mystery grid brush attend make pipe turkey |  
 | bip_39_word_space_9 | lemon mystery grid brush attend make pipe turkey proof |  
+| bip_39_word_underscore_1 | lemon |  
+| bip_39_word_underscore_10 | lemon_mystery_grid_brush_attend_make_pipe_turkey_proof_appear |  
+| bip_39_word_underscore_11 | lemon_mystery_grid_brush_attend_make_pipe_turkey_proof_appear_drum |  
+| bip_39_word_underscore_12 | lemon_mystery_grid_brush_attend_make_pipe_turkey_proof_appear_drum_amateur |  
+| bip_39_word_underscore_2 | lemon_mystery |  
+| bip_39_word_underscore_3 | lemon_mystery_grid |  
+| bip_39_word_underscore_4 | lemon_mystery_grid_brush |  
+| bip_39_word_underscore_5 | lemon_mystery_grid_brush_attend |  
+| bip_39_word_underscore_6 | lemon_mystery_grid_brush_attend_make |  
+| bip_39_word_underscore_7 | lemon_mystery_grid_brush_attend_make_pipe |  
+| bip_39_word_underscore_8 | lemon_mystery_grid_brush_attend_make_pipe_turkey |  
+| bip_39_word_underscore_9 | lemon_mystery_grid_brush_attend_make_pipe_turkey_proof |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

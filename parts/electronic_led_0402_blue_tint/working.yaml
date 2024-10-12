@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grass
+bip_39_word_dash_10: grass-quiz-rare-process-gift-able-cheese-devote-flock-impulse
+bip_39_word_dash_11: grass-quiz-rare-process-gift-able-cheese-devote-flock-impulse-office
+bip_39_word_dash_12: grass-quiz-rare-process-gift-able-cheese-devote-flock-impulse-office-armor
+bip_39_word_dash_2: grass-quiz
+bip_39_word_dash_3: grass-quiz-rare
+bip_39_word_dash_4: grass-quiz-rare-process
+bip_39_word_dash_5: grass-quiz-rare-process-gift
+bip_39_word_dash_6: grass-quiz-rare-process-gift-able
+bip_39_word_dash_7: grass-quiz-rare-process-gift-able-cheese
+bip_39_word_dash_8: grass-quiz-rare-process-gift-able-cheese-devote
+bip_39_word_dash_9: grass-quiz-rare-process-gift-able-cheese-devote-flock
 bip_39_word_new_br_1: grass
 bip_39_word_new_br_10: grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote<br>flock<br>impulse
 bip_39_word_new_br_11: grass<br>quiz<br>rare<br>process<br>gift<br>able<br>cheese<br>devote<br>flock<br>impulse<br>office
@@ -193,6 +205,18 @@ bip_39_word_space_6: grass quiz rare process gift able
 bip_39_word_space_7: grass quiz rare process gift able cheese
 bip_39_word_space_8: grass quiz rare process gift able cheese devote
 bip_39_word_space_9: grass quiz rare process gift able cheese devote flock
+bip_39_word_underscore_1: grass
+bip_39_word_underscore_10: grass_quiz_rare_process_gift_able_cheese_devote_flock_impulse
+bip_39_word_underscore_11: grass_quiz_rare_process_gift_able_cheese_devote_flock_impulse_office
+bip_39_word_underscore_12: grass_quiz_rare_process_gift_able_cheese_devote_flock_impulse_office_armor
+bip_39_word_underscore_2: grass_quiz
+bip_39_word_underscore_3: grass_quiz_rare
+bip_39_word_underscore_4: grass_quiz_rare_process
+bip_39_word_underscore_5: grass_quiz_rare_process_gift
+bip_39_word_underscore_6: grass_quiz_rare_process_gift_able
+bip_39_word_underscore_7: grass_quiz_rare_process_gift_able_cheese
+bip_39_word_underscore_8: grass_quiz_rare_process_gift_able_cheese_devote
+bip_39_word_underscore_9: grass_quiz_rare_process_gift_able_cheese_devote_flock
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

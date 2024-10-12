@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | energy |  
+| bip_39_word_dash_10 | energy-drink-primary-cat-infant-asthma-crystal-give-camera-give |  
+| bip_39_word_dash_11 | energy-drink-primary-cat-infant-asthma-crystal-give-camera-give-miracle |  
+| bip_39_word_dash_12 | energy-drink-primary-cat-infant-asthma-crystal-give-camera-give-miracle-arm |  
+| bip_39_word_dash_2 | energy-drink |  
+| bip_39_word_dash_3 | energy-drink-primary |  
+| bip_39_word_dash_4 | energy-drink-primary-cat |  
+| bip_39_word_dash_5 | energy-drink-primary-cat-infant |  
+| bip_39_word_dash_6 | energy-drink-primary-cat-infant-asthma |  
+| bip_39_word_dash_7 | energy-drink-primary-cat-infant-asthma-crystal |  
+| bip_39_word_dash_8 | energy-drink-primary-cat-infant-asthma-crystal-give |  
+| bip_39_word_dash_9 | energy-drink-primary-cat-infant-asthma-crystal-give-camera |  
 | bip_39_word_new_br_1 | energy |  
 | bip_39_word_new_br_10 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give<br>camera<br>give |  
 | bip_39_word_new_br_11 | energy<br>drink<br>primary<br>cat<br>infant<br>asthma<br>crystal<br>give<br>camera<br>give<br>miracle |  
@@ -147,6 +159,18 @@ camera |
 | bip_39_word_space_7 | energy drink primary cat infant asthma crystal |  
 | bip_39_word_space_8 | energy drink primary cat infant asthma crystal give |  
 | bip_39_word_space_9 | energy drink primary cat infant asthma crystal give camera |  
+| bip_39_word_underscore_1 | energy |  
+| bip_39_word_underscore_10 | energy_drink_primary_cat_infant_asthma_crystal_give_camera_give |  
+| bip_39_word_underscore_11 | energy_drink_primary_cat_infant_asthma_crystal_give_camera_give_miracle |  
+| bip_39_word_underscore_12 | energy_drink_primary_cat_infant_asthma_crystal_give_camera_give_miracle_arm |  
+| bip_39_word_underscore_2 | energy_drink |  
+| bip_39_word_underscore_3 | energy_drink_primary |  
+| bip_39_word_underscore_4 | energy_drink_primary_cat |  
+| bip_39_word_underscore_5 | energy_drink_primary_cat_infant |  
+| bip_39_word_underscore_6 | energy_drink_primary_cat_infant_asthma |  
+| bip_39_word_underscore_7 | energy_drink_primary_cat_infant_asthma_crystal |  
+| bip_39_word_underscore_8 | energy_drink_primary_cat_infant_asthma_crystal_give |  
+| bip_39_word_underscore_9 | energy_drink_primary_cat_infant_asthma_crystal_give_camera |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

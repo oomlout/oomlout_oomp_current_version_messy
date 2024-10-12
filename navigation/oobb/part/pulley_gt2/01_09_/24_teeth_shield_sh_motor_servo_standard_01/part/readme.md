@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bleak |  
+| bip_39_word_dash_10 | bleak-top-crisp-slight-tooth-mosquito-addict-glue-work-reward |  
+| bip_39_word_dash_11 | bleak-top-crisp-slight-tooth-mosquito-addict-glue-work-reward-retire |  
+| bip_39_word_dash_12 | bleak-top-crisp-slight-tooth-mosquito-addict-glue-work-reward-retire-addict |  
+| bip_39_word_dash_2 | bleak-top |  
+| bip_39_word_dash_3 | bleak-top-crisp |  
+| bip_39_word_dash_4 | bleak-top-crisp-slight |  
+| bip_39_word_dash_5 | bleak-top-crisp-slight-tooth |  
+| bip_39_word_dash_6 | bleak-top-crisp-slight-tooth-mosquito |  
+| bip_39_word_dash_7 | bleak-top-crisp-slight-tooth-mosquito-addict |  
+| bip_39_word_dash_8 | bleak-top-crisp-slight-tooth-mosquito-addict-glue |  
+| bip_39_word_dash_9 | bleak-top-crisp-slight-tooth-mosquito-addict-glue-work |  
 | bip_39_word_new_br_1 | bleak |  
 | bip_39_word_new_br_10 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue<br>work<br>reward |  
 | bip_39_word_new_br_11 | bleak<br>top<br>crisp<br>slight<br>tooth<br>mosquito<br>addict<br>glue<br>work<br>reward<br>retire |  
@@ -147,6 +159,18 @@ work |
 | bip_39_word_space_7 | bleak top crisp slight tooth mosquito addict |  
 | bip_39_word_space_8 | bleak top crisp slight tooth mosquito addict glue |  
 | bip_39_word_space_9 | bleak top crisp slight tooth mosquito addict glue work |  
+| bip_39_word_underscore_1 | bleak |  
+| bip_39_word_underscore_10 | bleak_top_crisp_slight_tooth_mosquito_addict_glue_work_reward |  
+| bip_39_word_underscore_11 | bleak_top_crisp_slight_tooth_mosquito_addict_glue_work_reward_retire |  
+| bip_39_word_underscore_12 | bleak_top_crisp_slight_tooth_mosquito_addict_glue_work_reward_retire_addict |  
+| bip_39_word_underscore_2 | bleak_top |  
+| bip_39_word_underscore_3 | bleak_top_crisp |  
+| bip_39_word_underscore_4 | bleak_top_crisp_slight |  
+| bip_39_word_underscore_5 | bleak_top_crisp_slight_tooth |  
+| bip_39_word_underscore_6 | bleak_top_crisp_slight_tooth_mosquito |  
+| bip_39_word_underscore_7 | bleak_top_crisp_slight_tooth_mosquito_addict |  
+| bip_39_word_underscore_8 | bleak_top_crisp_slight_tooth_mosquito_addict_glue |  
+| bip_39_word_underscore_9 | bleak_top_crisp_slight_tooth_mosquito_addict_glue_work |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

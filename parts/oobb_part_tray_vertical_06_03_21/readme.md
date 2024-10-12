@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | net |  
+| bip_39_word_dash_10 | net-ask-embark-dragon-morning-news-media-armed-crowd-winter |  
+| bip_39_word_dash_11 | net-ask-embark-dragon-morning-news-media-armed-crowd-winter-coyote |  
+| bip_39_word_dash_12 | net-ask-embark-dragon-morning-news-media-armed-crowd-winter-coyote-answer |  
+| bip_39_word_dash_2 | net-ask |  
+| bip_39_word_dash_3 | net-ask-embark |  
+| bip_39_word_dash_4 | net-ask-embark-dragon |  
+| bip_39_word_dash_5 | net-ask-embark-dragon-morning |  
+| bip_39_word_dash_6 | net-ask-embark-dragon-morning-news |  
+| bip_39_word_dash_7 | net-ask-embark-dragon-morning-news-media |  
+| bip_39_word_dash_8 | net-ask-embark-dragon-morning-news-media-armed |  
+| bip_39_word_dash_9 | net-ask-embark-dragon-morning-news-media-armed-crowd |  
 | bip_39_word_new_br_1 | net |  
 | bip_39_word_new_br_10 | net<br>ask<br>embark<br>dragon<br>morning<br>news<br>media<br>armed<br>crowd<br>winter |  
 | bip_39_word_new_br_11 | net<br>ask<br>embark<br>dragon<br>morning<br>news<br>media<br>armed<br>crowd<br>winter<br>coyote |  
@@ -147,6 +159,18 @@ crowd |
 | bip_39_word_space_7 | net ask embark dragon morning news media |  
 | bip_39_word_space_8 | net ask embark dragon morning news media armed |  
 | bip_39_word_space_9 | net ask embark dragon morning news media armed crowd |  
+| bip_39_word_underscore_1 | net |  
+| bip_39_word_underscore_10 | net_ask_embark_dragon_morning_news_media_armed_crowd_winter |  
+| bip_39_word_underscore_11 | net_ask_embark_dragon_morning_news_media_armed_crowd_winter_coyote |  
+| bip_39_word_underscore_12 | net_ask_embark_dragon_morning_news_media_armed_crowd_winter_coyote_answer |  
+| bip_39_word_underscore_2 | net_ask |  
+| bip_39_word_underscore_3 | net_ask_embark |  
+| bip_39_word_underscore_4 | net_ask_embark_dragon |  
+| bip_39_word_underscore_5 | net_ask_embark_dragon_morning |  
+| bip_39_word_underscore_6 | net_ask_embark_dragon_morning_news |  
+| bip_39_word_underscore_7 | net_ask_embark_dragon_morning_news_media |  
+| bip_39_word_underscore_8 | net_ask_embark_dragon_morning_news_media_armed |  
+| bip_39_word_underscore_9 | net_ask_embark_dragon_morning_news_media_armed_crowd |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

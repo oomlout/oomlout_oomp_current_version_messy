@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | join |  
+| bip_39_word_dash_10 | join-chimney-pair-scatter-else-symbol-truly-category-clean-enable |  
+| bip_39_word_dash_11 | join-chimney-pair-scatter-else-symbol-truly-category-clean-enable-innocent |  
+| bip_39_word_dash_12 | join-chimney-pair-scatter-else-symbol-truly-category-clean-enable-innocent-almost |  
+| bip_39_word_dash_2 | join-chimney |  
+| bip_39_word_dash_3 | join-chimney-pair |  
+| bip_39_word_dash_4 | join-chimney-pair-scatter |  
+| bip_39_word_dash_5 | join-chimney-pair-scatter-else |  
+| bip_39_word_dash_6 | join-chimney-pair-scatter-else-symbol |  
+| bip_39_word_dash_7 | join-chimney-pair-scatter-else-symbol-truly |  
+| bip_39_word_dash_8 | join-chimney-pair-scatter-else-symbol-truly-category |  
+| bip_39_word_dash_9 | join-chimney-pair-scatter-else-symbol-truly-category-clean |  
 | bip_39_word_new_br_1 | join |  
 | bip_39_word_new_br_10 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable |  
 | bip_39_word_new_br_11 | join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable<br>innocent |  
@@ -147,6 +159,18 @@ clean |
 | bip_39_word_space_7 | join chimney pair scatter else symbol truly |  
 | bip_39_word_space_8 | join chimney pair scatter else symbol truly category |  
 | bip_39_word_space_9 | join chimney pair scatter else symbol truly category clean |  
+| bip_39_word_underscore_1 | join |  
+| bip_39_word_underscore_10 | join_chimney_pair_scatter_else_symbol_truly_category_clean_enable |  
+| bip_39_word_underscore_11 | join_chimney_pair_scatter_else_symbol_truly_category_clean_enable_innocent |  
+| bip_39_word_underscore_12 | join_chimney_pair_scatter_else_symbol_truly_category_clean_enable_innocent_almost |  
+| bip_39_word_underscore_2 | join_chimney |  
+| bip_39_word_underscore_3 | join_chimney_pair |  
+| bip_39_word_underscore_4 | join_chimney_pair_scatter |  
+| bip_39_word_underscore_5 | join_chimney_pair_scatter_else |  
+| bip_39_word_underscore_6 | join_chimney_pair_scatter_else_symbol |  
+| bip_39_word_underscore_7 | join_chimney_pair_scatter_else_symbol_truly |  
+| bip_39_word_underscore_8 | join_chimney_pair_scatter_else_symbol_truly_category |  
+| bip_39_word_underscore_9 | join_chimney_pair_scatter_else_symbol_truly_category_clean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

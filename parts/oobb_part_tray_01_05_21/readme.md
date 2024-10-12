@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | merry |  
+| bip_39_word_dash_10 | merry-toe-steak-wheat-focus-fade-giggle-limit-depend-where |  
+| bip_39_word_dash_11 | merry-toe-steak-wheat-focus-fade-giggle-limit-depend-where-language |  
+| bip_39_word_dash_12 | merry-toe-steak-wheat-focus-fade-giggle-limit-depend-where-language-abuse |  
+| bip_39_word_dash_2 | merry-toe |  
+| bip_39_word_dash_3 | merry-toe-steak |  
+| bip_39_word_dash_4 | merry-toe-steak-wheat |  
+| bip_39_word_dash_5 | merry-toe-steak-wheat-focus |  
+| bip_39_word_dash_6 | merry-toe-steak-wheat-focus-fade |  
+| bip_39_word_dash_7 | merry-toe-steak-wheat-focus-fade-giggle |  
+| bip_39_word_dash_8 | merry-toe-steak-wheat-focus-fade-giggle-limit |  
+| bip_39_word_dash_9 | merry-toe-steak-wheat-focus-fade-giggle-limit-depend |  
 | bip_39_word_new_br_1 | merry |  
 | bip_39_word_new_br_10 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where |  
 | bip_39_word_new_br_11 | merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where<br>language |  
@@ -147,6 +159,18 @@ depend |
 | bip_39_word_space_7 | merry toe steak wheat focus fade giggle |  
 | bip_39_word_space_8 | merry toe steak wheat focus fade giggle limit |  
 | bip_39_word_space_9 | merry toe steak wheat focus fade giggle limit depend |  
+| bip_39_word_underscore_1 | merry |  
+| bip_39_word_underscore_10 | merry_toe_steak_wheat_focus_fade_giggle_limit_depend_where |  
+| bip_39_word_underscore_11 | merry_toe_steak_wheat_focus_fade_giggle_limit_depend_where_language |  
+| bip_39_word_underscore_12 | merry_toe_steak_wheat_focus_fade_giggle_limit_depend_where_language_abuse |  
+| bip_39_word_underscore_2 | merry_toe |  
+| bip_39_word_underscore_3 | merry_toe_steak |  
+| bip_39_word_underscore_4 | merry_toe_steak_wheat |  
+| bip_39_word_underscore_5 | merry_toe_steak_wheat_focus |  
+| bip_39_word_underscore_6 | merry_toe_steak_wheat_focus_fade |  
+| bip_39_word_underscore_7 | merry_toe_steak_wheat_focus_fade_giggle |  
+| bip_39_word_underscore_8 | merry_toe_steak_wheat_focus_fade_giggle_limit |  
+| bip_39_word_underscore_9 | merry_toe_steak_wheat_focus_fade_giggle_limit_depend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wasp |  
+| bip_39_word_dash_10 | wasp-sniff-buyer-remember-slow-vivid-clog-cover-smooth-okay |  
+| bip_39_word_dash_11 | wasp-sniff-buyer-remember-slow-vivid-clog-cover-smooth-okay-rich |  
+| bip_39_word_dash_12 | wasp-sniff-buyer-remember-slow-vivid-clog-cover-smooth-okay-rich-aerobic |  
+| bip_39_word_dash_2 | wasp-sniff |  
+| bip_39_word_dash_3 | wasp-sniff-buyer |  
+| bip_39_word_dash_4 | wasp-sniff-buyer-remember |  
+| bip_39_word_dash_5 | wasp-sniff-buyer-remember-slow |  
+| bip_39_word_dash_6 | wasp-sniff-buyer-remember-slow-vivid |  
+| bip_39_word_dash_7 | wasp-sniff-buyer-remember-slow-vivid-clog |  
+| bip_39_word_dash_8 | wasp-sniff-buyer-remember-slow-vivid-clog-cover |  
+| bip_39_word_dash_9 | wasp-sniff-buyer-remember-slow-vivid-clog-cover-smooth |  
 | bip_39_word_new_br_1 | wasp |  
 | bip_39_word_new_br_10 | wasp<br>sniff<br>buyer<br>remember<br>slow<br>vivid<br>clog<br>cover<br>smooth<br>okay |  
 | bip_39_word_new_br_11 | wasp<br>sniff<br>buyer<br>remember<br>slow<br>vivid<br>clog<br>cover<br>smooth<br>okay<br>rich |  
@@ -147,6 +159,18 @@ smooth |
 | bip_39_word_space_7 | wasp sniff buyer remember slow vivid clog |  
 | bip_39_word_space_8 | wasp sniff buyer remember slow vivid clog cover |  
 | bip_39_word_space_9 | wasp sniff buyer remember slow vivid clog cover smooth |  
+| bip_39_word_underscore_1 | wasp |  
+| bip_39_word_underscore_10 | wasp_sniff_buyer_remember_slow_vivid_clog_cover_smooth_okay |  
+| bip_39_word_underscore_11 | wasp_sniff_buyer_remember_slow_vivid_clog_cover_smooth_okay_rich |  
+| bip_39_word_underscore_12 | wasp_sniff_buyer_remember_slow_vivid_clog_cover_smooth_okay_rich_aerobic |  
+| bip_39_word_underscore_2 | wasp_sniff |  
+| bip_39_word_underscore_3 | wasp_sniff_buyer |  
+| bip_39_word_underscore_4 | wasp_sniff_buyer_remember |  
+| bip_39_word_underscore_5 | wasp_sniff_buyer_remember_slow |  
+| bip_39_word_underscore_6 | wasp_sniff_buyer_remember_slow_vivid |  
+| bip_39_word_underscore_7 | wasp_sniff_buyer_remember_slow_vivid_clog |  
+| bip_39_word_underscore_8 | wasp_sniff_buyer_remember_slow_vivid_clog_cover |  
+| bip_39_word_underscore_9 | wasp_sniff_buyer_remember_slow_vivid_clog_cover_smooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

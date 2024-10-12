@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exist |  
+| bip_39_word_dash_10 | exist-absorb-depend-buddy-drum-roof-melody-wish-diagram-solution |  
+| bip_39_word_dash_11 | exist-absorb-depend-buddy-drum-roof-melody-wish-diagram-solution-arrange |  
+| bip_39_word_dash_12 | exist-absorb-depend-buddy-drum-roof-melody-wish-diagram-solution-arrange-age |  
+| bip_39_word_dash_2 | exist-absorb |  
+| bip_39_word_dash_3 | exist-absorb-depend |  
+| bip_39_word_dash_4 | exist-absorb-depend-buddy |  
+| bip_39_word_dash_5 | exist-absorb-depend-buddy-drum |  
+| bip_39_word_dash_6 | exist-absorb-depend-buddy-drum-roof |  
+| bip_39_word_dash_7 | exist-absorb-depend-buddy-drum-roof-melody |  
+| bip_39_word_dash_8 | exist-absorb-depend-buddy-drum-roof-melody-wish |  
+| bip_39_word_dash_9 | exist-absorb-depend-buddy-drum-roof-melody-wish-diagram |  
 | bip_39_word_new_br_1 | exist |  
 | bip_39_word_new_br_10 | exist<br>absorb<br>depend<br>buddy<br>drum<br>roof<br>melody<br>wish<br>diagram<br>solution |  
 | bip_39_word_new_br_11 | exist<br>absorb<br>depend<br>buddy<br>drum<br>roof<br>melody<br>wish<br>diagram<br>solution<br>arrange |  
@@ -147,6 +159,18 @@ diagram |
 | bip_39_word_space_7 | exist absorb depend buddy drum roof melody |  
 | bip_39_word_space_8 | exist absorb depend buddy drum roof melody wish |  
 | bip_39_word_space_9 | exist absorb depend buddy drum roof melody wish diagram |  
+| bip_39_word_underscore_1 | exist |  
+| bip_39_word_underscore_10 | exist_absorb_depend_buddy_drum_roof_melody_wish_diagram_solution |  
+| bip_39_word_underscore_11 | exist_absorb_depend_buddy_drum_roof_melody_wish_diagram_solution_arrange |  
+| bip_39_word_underscore_12 | exist_absorb_depend_buddy_drum_roof_melody_wish_diagram_solution_arrange_age |  
+| bip_39_word_underscore_2 | exist_absorb |  
+| bip_39_word_underscore_3 | exist_absorb_depend |  
+| bip_39_word_underscore_4 | exist_absorb_depend_buddy |  
+| bip_39_word_underscore_5 | exist_absorb_depend_buddy_drum |  
+| bip_39_word_underscore_6 | exist_absorb_depend_buddy_drum_roof |  
+| bip_39_word_underscore_7 | exist_absorb_depend_buddy_drum_roof_melody |  
+| bip_39_word_underscore_8 | exist_absorb_depend_buddy_drum_roof_melody_wish |  
+| bip_39_word_underscore_9 | exist_absorb_depend_buddy_drum_roof_melody_wish_diagram |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

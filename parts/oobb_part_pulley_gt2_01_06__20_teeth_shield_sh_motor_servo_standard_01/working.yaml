@@ -1,3 +1,15 @@
+bip_39_word_dash_1: loyal
+bip_39_word_dash_10: loyal-thunder-wasp-rare-unable-wolf-window-accuse-federal-creek
+bip_39_word_dash_11: loyal-thunder-wasp-rare-unable-wolf-window-accuse-federal-creek-inspire
+bip_39_word_dash_12: loyal-thunder-wasp-rare-unable-wolf-window-accuse-federal-creek-inspire-adapt
+bip_39_word_dash_2: loyal-thunder
+bip_39_word_dash_3: loyal-thunder-wasp
+bip_39_word_dash_4: loyal-thunder-wasp-rare
+bip_39_word_dash_5: loyal-thunder-wasp-rare-unable
+bip_39_word_dash_6: loyal-thunder-wasp-rare-unable-wolf
+bip_39_word_dash_7: loyal-thunder-wasp-rare-unable-wolf-window
+bip_39_word_dash_8: loyal-thunder-wasp-rare-unable-wolf-window-accuse
+bip_39_word_dash_9: loyal-thunder-wasp-rare-unable-wolf-window-accuse-federal
 bip_39_word_new_br_1: loyal
 bip_39_word_new_br_10: loyal<br>thunder<br>wasp<br>rare<br>unable<br>wolf<br>window<br>accuse<br>federal<br>creek
 bip_39_word_new_br_11: loyal<br>thunder<br>wasp<br>rare<br>unable<br>wolf<br>window<br>accuse<br>federal<br>creek<br>inspire
@@ -193,6 +205,18 @@ bip_39_word_space_6: loyal thunder wasp rare unable wolf
 bip_39_word_space_7: loyal thunder wasp rare unable wolf window
 bip_39_word_space_8: loyal thunder wasp rare unable wolf window accuse
 bip_39_word_space_9: loyal thunder wasp rare unable wolf window accuse federal
+bip_39_word_underscore_1: loyal
+bip_39_word_underscore_10: loyal_thunder_wasp_rare_unable_wolf_window_accuse_federal_creek
+bip_39_word_underscore_11: loyal_thunder_wasp_rare_unable_wolf_window_accuse_federal_creek_inspire
+bip_39_word_underscore_12: loyal_thunder_wasp_rare_unable_wolf_window_accuse_federal_creek_inspire_adapt
+bip_39_word_underscore_2: loyal_thunder
+bip_39_word_underscore_3: loyal_thunder_wasp
+bip_39_word_underscore_4: loyal_thunder_wasp_rare
+bip_39_word_underscore_5: loyal_thunder_wasp_rare_unable
+bip_39_word_underscore_6: loyal_thunder_wasp_rare_unable_wolf
+bip_39_word_underscore_7: loyal_thunder_wasp_rare_unable_wolf_window
+bip_39_word_underscore_8: loyal_thunder_wasp_rare_unable_wolf_window_accuse
+bip_39_word_underscore_9: loyal_thunder_wasp_rare_unable_wolf_window_accuse_federal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

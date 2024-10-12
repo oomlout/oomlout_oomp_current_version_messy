@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scatter |  
+| bip_39_word_dash_10 | scatter-vicious-soul-once-velvet-wrap-genius-crane-resist-spare |  
+| bip_39_word_dash_11 | scatter-vicious-soul-once-velvet-wrap-genius-crane-resist-spare-grain |  
+| bip_39_word_dash_12 | scatter-vicious-soul-once-velvet-wrap-genius-crane-resist-spare-grain-abstract |  
+| bip_39_word_dash_2 | scatter-vicious |  
+| bip_39_word_dash_3 | scatter-vicious-soul |  
+| bip_39_word_dash_4 | scatter-vicious-soul-once |  
+| bip_39_word_dash_5 | scatter-vicious-soul-once-velvet |  
+| bip_39_word_dash_6 | scatter-vicious-soul-once-velvet-wrap |  
+| bip_39_word_dash_7 | scatter-vicious-soul-once-velvet-wrap-genius |  
+| bip_39_word_dash_8 | scatter-vicious-soul-once-velvet-wrap-genius-crane |  
+| bip_39_word_dash_9 | scatter-vicious-soul-once-velvet-wrap-genius-crane-resist |  
 | bip_39_word_new_br_1 | scatter |  
 | bip_39_word_new_br_10 | scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare |  
 | bip_39_word_new_br_11 | scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare<br>grain |  
@@ -147,6 +159,18 @@ resist |
 | bip_39_word_space_7 | scatter vicious soul once velvet wrap genius |  
 | bip_39_word_space_8 | scatter vicious soul once velvet wrap genius crane |  
 | bip_39_word_space_9 | scatter vicious soul once velvet wrap genius crane resist |  
+| bip_39_word_underscore_1 | scatter |  
+| bip_39_word_underscore_10 | scatter_vicious_soul_once_velvet_wrap_genius_crane_resist_spare |  
+| bip_39_word_underscore_11 | scatter_vicious_soul_once_velvet_wrap_genius_crane_resist_spare_grain |  
+| bip_39_word_underscore_12 | scatter_vicious_soul_once_velvet_wrap_genius_crane_resist_spare_grain_abstract |  
+| bip_39_word_underscore_2 | scatter_vicious |  
+| bip_39_word_underscore_3 | scatter_vicious_soul |  
+| bip_39_word_underscore_4 | scatter_vicious_soul_once |  
+| bip_39_word_underscore_5 | scatter_vicious_soul_once_velvet |  
+| bip_39_word_underscore_6 | scatter_vicious_soul_once_velvet_wrap |  
+| bip_39_word_underscore_7 | scatter_vicious_soul_once_velvet_wrap_genius |  
+| bip_39_word_underscore_8 | scatter_vicious_soul_once_velvet_wrap_genius_crane |  
+| bip_39_word_underscore_9 | scatter_vicious_soul_once_velvet_wrap_genius_crane_resist |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

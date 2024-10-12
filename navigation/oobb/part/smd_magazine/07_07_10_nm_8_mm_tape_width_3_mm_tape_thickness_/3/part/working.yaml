@@ -1,3 +1,15 @@
+bip_39_word_dash_1: file
+bip_39_word_dash_10: file-fish-museum-gossip-bonus-possible-stove-indoor-shed-siren
+bip_39_word_dash_11: file-fish-museum-gossip-bonus-possible-stove-indoor-shed-siren-slot
+bip_39_word_dash_12: file-fish-museum-gossip-bonus-possible-stove-indoor-shed-siren-slot-amateur
+bip_39_word_dash_2: file-fish
+bip_39_word_dash_3: file-fish-museum
+bip_39_word_dash_4: file-fish-museum-gossip
+bip_39_word_dash_5: file-fish-museum-gossip-bonus
+bip_39_word_dash_6: file-fish-museum-gossip-bonus-possible
+bip_39_word_dash_7: file-fish-museum-gossip-bonus-possible-stove
+bip_39_word_dash_8: file-fish-museum-gossip-bonus-possible-stove-indoor
+bip_39_word_dash_9: file-fish-museum-gossip-bonus-possible-stove-indoor-shed
 bip_39_word_new_br_1: file
 bip_39_word_new_br_10: file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor<br>shed<br>siren
 bip_39_word_new_br_11: file<br>fish<br>museum<br>gossip<br>bonus<br>possible<br>stove<br>indoor<br>shed<br>siren<br>slot
@@ -193,6 +205,18 @@ bip_39_word_space_6: file fish museum gossip bonus possible
 bip_39_word_space_7: file fish museum gossip bonus possible stove
 bip_39_word_space_8: file fish museum gossip bonus possible stove indoor
 bip_39_word_space_9: file fish museum gossip bonus possible stove indoor shed
+bip_39_word_underscore_1: file
+bip_39_word_underscore_10: file_fish_museum_gossip_bonus_possible_stove_indoor_shed_siren
+bip_39_word_underscore_11: file_fish_museum_gossip_bonus_possible_stove_indoor_shed_siren_slot
+bip_39_word_underscore_12: file_fish_museum_gossip_bonus_possible_stove_indoor_shed_siren_slot_amateur
+bip_39_word_underscore_2: file_fish
+bip_39_word_underscore_3: file_fish_museum
+bip_39_word_underscore_4: file_fish_museum_gossip
+bip_39_word_underscore_5: file_fish_museum_gossip_bonus
+bip_39_word_underscore_6: file_fish_museum_gossip_bonus_possible
+bip_39_word_underscore_7: file_fish_museum_gossip_bonus_possible_stove
+bip_39_word_underscore_8: file_fish_museum_gossip_bonus_possible_stove_indoor
+bip_39_word_underscore_9: file_fish_museum_gossip_bonus_possible_stove_indoor_shed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

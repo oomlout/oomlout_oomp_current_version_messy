@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | latin |  
+| bip_39_word_dash_10 | latin-sight-real-live-cause-system-track-step-noise-execute |  
+| bip_39_word_dash_11 | latin-sight-real-live-cause-system-track-step-noise-execute-van |  
+| bip_39_word_dash_12 | latin-sight-real-live-cause-system-track-step-noise-execute-van-april |  
+| bip_39_word_dash_2 | latin-sight |  
+| bip_39_word_dash_3 | latin-sight-real |  
+| bip_39_word_dash_4 | latin-sight-real-live |  
+| bip_39_word_dash_5 | latin-sight-real-live-cause |  
+| bip_39_word_dash_6 | latin-sight-real-live-cause-system |  
+| bip_39_word_dash_7 | latin-sight-real-live-cause-system-track |  
+| bip_39_word_dash_8 | latin-sight-real-live-cause-system-track-step |  
+| bip_39_word_dash_9 | latin-sight-real-live-cause-system-track-step-noise |  
 | bip_39_word_new_br_1 | latin |  
 | bip_39_word_new_br_10 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute |  
 | bip_39_word_new_br_11 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute<br>van |  
@@ -147,6 +159,18 @@ noise |
 | bip_39_word_space_7 | latin sight real live cause system track |  
 | bip_39_word_space_8 | latin sight real live cause system track step |  
 | bip_39_word_space_9 | latin sight real live cause system track step noise |  
+| bip_39_word_underscore_1 | latin |  
+| bip_39_word_underscore_10 | latin_sight_real_live_cause_system_track_step_noise_execute |  
+| bip_39_word_underscore_11 | latin_sight_real_live_cause_system_track_step_noise_execute_van |  
+| bip_39_word_underscore_12 | latin_sight_real_live_cause_system_track_step_noise_execute_van_april |  
+| bip_39_word_underscore_2 | latin_sight |  
+| bip_39_word_underscore_3 | latin_sight_real |  
+| bip_39_word_underscore_4 | latin_sight_real_live |  
+| bip_39_word_underscore_5 | latin_sight_real_live_cause |  
+| bip_39_word_underscore_6 | latin_sight_real_live_cause_system |  
+| bip_39_word_underscore_7 | latin_sight_real_live_cause_system_track |  
+| bip_39_word_underscore_8 | latin_sight_real_live_cause_system_track_step |  
+| bip_39_word_underscore_9 | latin_sight_real_live_cause_system_track_step_noise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

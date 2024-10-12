@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | choose |  
+| bip_39_word_dash_10 | choose-way-burger-hurdle-pluck-upset-size-evil-diamond-hair |  
+| bip_39_word_dash_11 | choose-way-burger-hurdle-pluck-upset-size-evil-diamond-hair-ribbon |  
+| bip_39_word_dash_12 | choose-way-burger-hurdle-pluck-upset-size-evil-diamond-hair-ribbon-arrow |  
+| bip_39_word_dash_2 | choose-way |  
+| bip_39_word_dash_3 | choose-way-burger |  
+| bip_39_word_dash_4 | choose-way-burger-hurdle |  
+| bip_39_word_dash_5 | choose-way-burger-hurdle-pluck |  
+| bip_39_word_dash_6 | choose-way-burger-hurdle-pluck-upset |  
+| bip_39_word_dash_7 | choose-way-burger-hurdle-pluck-upset-size |  
+| bip_39_word_dash_8 | choose-way-burger-hurdle-pluck-upset-size-evil |  
+| bip_39_word_dash_9 | choose-way-burger-hurdle-pluck-upset-size-evil-diamond |  
 | bip_39_word_new_br_1 | choose |  
 | bip_39_word_new_br_10 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil<br>diamond<br>hair |  
 | bip_39_word_new_br_11 | choose<br>way<br>burger<br>hurdle<br>pluck<br>upset<br>size<br>evil<br>diamond<br>hair<br>ribbon |  
@@ -147,6 +159,18 @@ diamond |
 | bip_39_word_space_7 | choose way burger hurdle pluck upset size |  
 | bip_39_word_space_8 | choose way burger hurdle pluck upset size evil |  
 | bip_39_word_space_9 | choose way burger hurdle pluck upset size evil diamond |  
+| bip_39_word_underscore_1 | choose |  
+| bip_39_word_underscore_10 | choose_way_burger_hurdle_pluck_upset_size_evil_diamond_hair |  
+| bip_39_word_underscore_11 | choose_way_burger_hurdle_pluck_upset_size_evil_diamond_hair_ribbon |  
+| bip_39_word_underscore_12 | choose_way_burger_hurdle_pluck_upset_size_evil_diamond_hair_ribbon_arrow |  
+| bip_39_word_underscore_2 | choose_way |  
+| bip_39_word_underscore_3 | choose_way_burger |  
+| bip_39_word_underscore_4 | choose_way_burger_hurdle |  
+| bip_39_word_underscore_5 | choose_way_burger_hurdle_pluck |  
+| bip_39_word_underscore_6 | choose_way_burger_hurdle_pluck_upset |  
+| bip_39_word_underscore_7 | choose_way_burger_hurdle_pluck_upset_size |  
+| bip_39_word_underscore_8 | choose_way_burger_hurdle_pluck_upset_size_evil |  
+| bip_39_word_underscore_9 | choose_way_burger_hurdle_pluck_upset_size_evil_diamond |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

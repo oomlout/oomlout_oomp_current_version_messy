@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | analyst |  
+| bip_39_word_dash_10 | analyst-enter-gold-donkey-jewel-broom-predict-client-swing-clarify |  
+| bip_39_word_dash_11 | analyst-enter-gold-donkey-jewel-broom-predict-client-swing-clarify-uncover |  
+| bip_39_word_dash_12 | analyst-enter-gold-donkey-jewel-broom-predict-client-swing-clarify-uncover-apple |  
+| bip_39_word_dash_2 | analyst-enter |  
+| bip_39_word_dash_3 | analyst-enter-gold |  
+| bip_39_word_dash_4 | analyst-enter-gold-donkey |  
+| bip_39_word_dash_5 | analyst-enter-gold-donkey-jewel |  
+| bip_39_word_dash_6 | analyst-enter-gold-donkey-jewel-broom |  
+| bip_39_word_dash_7 | analyst-enter-gold-donkey-jewel-broom-predict |  
+| bip_39_word_dash_8 | analyst-enter-gold-donkey-jewel-broom-predict-client |  
+| bip_39_word_dash_9 | analyst-enter-gold-donkey-jewel-broom-predict-client-swing |  
 | bip_39_word_new_br_1 | analyst |  
 | bip_39_word_new_br_10 | analyst<br>enter<br>gold<br>donkey<br>jewel<br>broom<br>predict<br>client<br>swing<br>clarify |  
 | bip_39_word_new_br_11 | analyst<br>enter<br>gold<br>donkey<br>jewel<br>broom<br>predict<br>client<br>swing<br>clarify<br>uncover |  
@@ -147,6 +159,18 @@ swing |
 | bip_39_word_space_7 | analyst enter gold donkey jewel broom predict |  
 | bip_39_word_space_8 | analyst enter gold donkey jewel broom predict client |  
 | bip_39_word_space_9 | analyst enter gold donkey jewel broom predict client swing |  
+| bip_39_word_underscore_1 | analyst |  
+| bip_39_word_underscore_10 | analyst_enter_gold_donkey_jewel_broom_predict_client_swing_clarify |  
+| bip_39_word_underscore_11 | analyst_enter_gold_donkey_jewel_broom_predict_client_swing_clarify_uncover |  
+| bip_39_word_underscore_12 | analyst_enter_gold_donkey_jewel_broom_predict_client_swing_clarify_uncover_apple |  
+| bip_39_word_underscore_2 | analyst_enter |  
+| bip_39_word_underscore_3 | analyst_enter_gold |  
+| bip_39_word_underscore_4 | analyst_enter_gold_donkey |  
+| bip_39_word_underscore_5 | analyst_enter_gold_donkey_jewel |  
+| bip_39_word_underscore_6 | analyst_enter_gold_donkey_jewel_broom |  
+| bip_39_word_underscore_7 | analyst_enter_gold_donkey_jewel_broom_predict |  
+| bip_39_word_underscore_8 | analyst_enter_gold_donkey_jewel_broom_predict_client |  
+| bip_39_word_underscore_9 | analyst_enter_gold_donkey_jewel_broom_predict_client_swing |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

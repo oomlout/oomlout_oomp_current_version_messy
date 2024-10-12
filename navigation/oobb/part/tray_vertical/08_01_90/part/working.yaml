@@ -1,3 +1,15 @@
+bip_39_word_dash_1: antique
+bip_39_word_dash_10: antique-try-indicate-east-affair-round-can-magnet-clump-find
+bip_39_word_dash_11: antique-try-indicate-east-affair-round-can-magnet-clump-find-alcohol
+bip_39_word_dash_12: antique-try-indicate-east-affair-round-can-magnet-clump-find-alcohol-analyst
+bip_39_word_dash_2: antique-try
+bip_39_word_dash_3: antique-try-indicate
+bip_39_word_dash_4: antique-try-indicate-east
+bip_39_word_dash_5: antique-try-indicate-east-affair
+bip_39_word_dash_6: antique-try-indicate-east-affair-round
+bip_39_word_dash_7: antique-try-indicate-east-affair-round-can
+bip_39_word_dash_8: antique-try-indicate-east-affair-round-can-magnet
+bip_39_word_dash_9: antique-try-indicate-east-affair-round-can-magnet-clump
 bip_39_word_new_br_1: antique
 bip_39_word_new_br_10: antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet<br>clump<br>find
 bip_39_word_new_br_11: antique<br>try<br>indicate<br>east<br>affair<br>round<br>can<br>magnet<br>clump<br>find<br>alcohol
@@ -193,6 +205,18 @@ bip_39_word_space_6: antique try indicate east affair round
 bip_39_word_space_7: antique try indicate east affair round can
 bip_39_word_space_8: antique try indicate east affair round can magnet
 bip_39_word_space_9: antique try indicate east affair round can magnet clump
+bip_39_word_underscore_1: antique
+bip_39_word_underscore_10: antique_try_indicate_east_affair_round_can_magnet_clump_find
+bip_39_word_underscore_11: antique_try_indicate_east_affair_round_can_magnet_clump_find_alcohol
+bip_39_word_underscore_12: antique_try_indicate_east_affair_round_can_magnet_clump_find_alcohol_analyst
+bip_39_word_underscore_2: antique_try
+bip_39_word_underscore_3: antique_try_indicate
+bip_39_word_underscore_4: antique_try_indicate_east
+bip_39_word_underscore_5: antique_try_indicate_east_affair
+bip_39_word_underscore_6: antique_try_indicate_east_affair_round
+bip_39_word_underscore_7: antique_try_indicate_east_affair_round_can
+bip_39_word_underscore_8: antique_try_indicate_east_affair_round_can_magnet
+bip_39_word_underscore_9: antique_try_indicate_east_affair_round_can_magnet_clump
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

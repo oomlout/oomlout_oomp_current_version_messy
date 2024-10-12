@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cover |  
+| bip_39_word_dash_10 | cover-oxygen-shop-south-salmon-claw-shy-thumb-candy-badge |  
+| bip_39_word_dash_11 | cover-oxygen-shop-south-salmon-claw-shy-thumb-candy-badge-nest |  
+| bip_39_word_dash_12 | cover-oxygen-shop-south-salmon-claw-shy-thumb-candy-badge-nest-acquire |  
+| bip_39_word_dash_2 | cover-oxygen |  
+| bip_39_word_dash_3 | cover-oxygen-shop |  
+| bip_39_word_dash_4 | cover-oxygen-shop-south |  
+| bip_39_word_dash_5 | cover-oxygen-shop-south-salmon |  
+| bip_39_word_dash_6 | cover-oxygen-shop-south-salmon-claw |  
+| bip_39_word_dash_7 | cover-oxygen-shop-south-salmon-claw-shy |  
+| bip_39_word_dash_8 | cover-oxygen-shop-south-salmon-claw-shy-thumb |  
+| bip_39_word_dash_9 | cover-oxygen-shop-south-salmon-claw-shy-thumb-candy |  
 | bip_39_word_new_br_1 | cover |  
 | bip_39_word_new_br_10 | cover<br>oxygen<br>shop<br>south<br>salmon<br>claw<br>shy<br>thumb<br>candy<br>badge |  
 | bip_39_word_new_br_11 | cover<br>oxygen<br>shop<br>south<br>salmon<br>claw<br>shy<br>thumb<br>candy<br>badge<br>nest |  
@@ -147,6 +159,18 @@ candy |
 | bip_39_word_space_7 | cover oxygen shop south salmon claw shy |  
 | bip_39_word_space_8 | cover oxygen shop south salmon claw shy thumb |  
 | bip_39_word_space_9 | cover oxygen shop south salmon claw shy thumb candy |  
+| bip_39_word_underscore_1 | cover |  
+| bip_39_word_underscore_10 | cover_oxygen_shop_south_salmon_claw_shy_thumb_candy_badge |  
+| bip_39_word_underscore_11 | cover_oxygen_shop_south_salmon_claw_shy_thumb_candy_badge_nest |  
+| bip_39_word_underscore_12 | cover_oxygen_shop_south_salmon_claw_shy_thumb_candy_badge_nest_acquire |  
+| bip_39_word_underscore_2 | cover_oxygen |  
+| bip_39_word_underscore_3 | cover_oxygen_shop |  
+| bip_39_word_underscore_4 | cover_oxygen_shop_south |  
+| bip_39_word_underscore_5 | cover_oxygen_shop_south_salmon |  
+| bip_39_word_underscore_6 | cover_oxygen_shop_south_salmon_claw |  
+| bip_39_word_underscore_7 | cover_oxygen_shop_south_salmon_claw_shy |  
+| bip_39_word_underscore_8 | cover_oxygen_shop_south_salmon_claw_shy_thumb |  
+| bip_39_word_underscore_9 | cover_oxygen_shop_south_salmon_claw_shy_thumb_candy |  
 | classification | dish |  
 | classification_capital | Dish |  
 | classification_first_letter | d |  

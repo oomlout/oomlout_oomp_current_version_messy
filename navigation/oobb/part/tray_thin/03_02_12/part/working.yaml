@@ -1,3 +1,15 @@
+bip_39_word_dash_1: portion
+bip_39_word_dash_10: portion-plug-since-wool-pitch-exit-dust-gospel-harsh-crystal
+bip_39_word_dash_11: portion-plug-since-wool-pitch-exit-dust-gospel-harsh-crystal-soup
+bip_39_word_dash_12: portion-plug-since-wool-pitch-exit-dust-gospel-harsh-crystal-soup-amateur
+bip_39_word_dash_2: portion-plug
+bip_39_word_dash_3: portion-plug-since
+bip_39_word_dash_4: portion-plug-since-wool
+bip_39_word_dash_5: portion-plug-since-wool-pitch
+bip_39_word_dash_6: portion-plug-since-wool-pitch-exit
+bip_39_word_dash_7: portion-plug-since-wool-pitch-exit-dust
+bip_39_word_dash_8: portion-plug-since-wool-pitch-exit-dust-gospel
+bip_39_word_dash_9: portion-plug-since-wool-pitch-exit-dust-gospel-harsh
 bip_39_word_new_br_1: portion
 bip_39_word_new_br_10: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel<br>harsh<br>crystal
 bip_39_word_new_br_11: portion<br>plug<br>since<br>wool<br>pitch<br>exit<br>dust<br>gospel<br>harsh<br>crystal<br>soup
@@ -193,6 +205,18 @@ bip_39_word_space_6: portion plug since wool pitch exit
 bip_39_word_space_7: portion plug since wool pitch exit dust
 bip_39_word_space_8: portion plug since wool pitch exit dust gospel
 bip_39_word_space_9: portion plug since wool pitch exit dust gospel harsh
+bip_39_word_underscore_1: portion
+bip_39_word_underscore_10: portion_plug_since_wool_pitch_exit_dust_gospel_harsh_crystal
+bip_39_word_underscore_11: portion_plug_since_wool_pitch_exit_dust_gospel_harsh_crystal_soup
+bip_39_word_underscore_12: portion_plug_since_wool_pitch_exit_dust_gospel_harsh_crystal_soup_amateur
+bip_39_word_underscore_2: portion_plug
+bip_39_word_underscore_3: portion_plug_since
+bip_39_word_underscore_4: portion_plug_since_wool
+bip_39_word_underscore_5: portion_plug_since_wool_pitch
+bip_39_word_underscore_6: portion_plug_since_wool_pitch_exit
+bip_39_word_underscore_7: portion_plug_since_wool_pitch_exit_dust
+bip_39_word_underscore_8: portion_plug_since_wool_pitch_exit_dust_gospel
+bip_39_word_underscore_9: portion_plug_since_wool_pitch_exit_dust_gospel_harsh
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

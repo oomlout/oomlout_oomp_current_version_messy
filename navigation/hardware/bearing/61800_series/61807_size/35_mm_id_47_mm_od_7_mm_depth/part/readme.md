@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slam |  
+| bip_39_word_dash_10 | slam-voyage-absent-snap-allow-opera-accident-enemy-room-kitchen |  
+| bip_39_word_dash_11 | slam-voyage-absent-snap-allow-opera-accident-enemy-room-kitchen-wife |  
+| bip_39_word_dash_12 | slam-voyage-absent-snap-allow-opera-accident-enemy-room-kitchen-wife-abuse |  
+| bip_39_word_dash_2 | slam-voyage |  
+| bip_39_word_dash_3 | slam-voyage-absent |  
+| bip_39_word_dash_4 | slam-voyage-absent-snap |  
+| bip_39_word_dash_5 | slam-voyage-absent-snap-allow |  
+| bip_39_word_dash_6 | slam-voyage-absent-snap-allow-opera |  
+| bip_39_word_dash_7 | slam-voyage-absent-snap-allow-opera-accident |  
+| bip_39_word_dash_8 | slam-voyage-absent-snap-allow-opera-accident-enemy |  
+| bip_39_word_dash_9 | slam-voyage-absent-snap-allow-opera-accident-enemy-room |  
 | bip_39_word_new_br_1 | slam |  
 | bip_39_word_new_br_10 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy<br>room<br>kitchen |  
 | bip_39_word_new_br_11 | slam<br>voyage<br>absent<br>snap<br>allow<br>opera<br>accident<br>enemy<br>room<br>kitchen<br>wife |  
@@ -147,6 +159,18 @@ room |
 | bip_39_word_space_7 | slam voyage absent snap allow opera accident |  
 | bip_39_word_space_8 | slam voyage absent snap allow opera accident enemy |  
 | bip_39_word_space_9 | slam voyage absent snap allow opera accident enemy room |  
+| bip_39_word_underscore_1 | slam |  
+| bip_39_word_underscore_10 | slam_voyage_absent_snap_allow_opera_accident_enemy_room_kitchen |  
+| bip_39_word_underscore_11 | slam_voyage_absent_snap_allow_opera_accident_enemy_room_kitchen_wife |  
+| bip_39_word_underscore_12 | slam_voyage_absent_snap_allow_opera_accident_enemy_room_kitchen_wife_abuse |  
+| bip_39_word_underscore_2 | slam_voyage |  
+| bip_39_word_underscore_3 | slam_voyage_absent |  
+| bip_39_word_underscore_4 | slam_voyage_absent_snap |  
+| bip_39_word_underscore_5 | slam_voyage_absent_snap_allow |  
+| bip_39_word_underscore_6 | slam_voyage_absent_snap_allow_opera |  
+| bip_39_word_underscore_7 | slam_voyage_absent_snap_allow_opera_accident |  
+| bip_39_word_underscore_8 | slam_voyage_absent_snap_allow_opera_accident_enemy |  
+| bip_39_word_underscore_9 | slam_voyage_absent_snap_allow_opera_accident_enemy_room |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

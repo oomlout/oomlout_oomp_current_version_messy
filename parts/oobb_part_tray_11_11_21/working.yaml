@@ -1,3 +1,15 @@
+bip_39_word_dash_1: segment
+bip_39_word_dash_10: segment-north-people-blast-link-muffin-mouse-borrow-dinner-search
+bip_39_word_dash_11: segment-north-people-blast-link-muffin-mouse-borrow-dinner-search-illness
+bip_39_word_dash_12: segment-north-people-blast-link-muffin-mouse-borrow-dinner-search-illness-alarm
+bip_39_word_dash_2: segment-north
+bip_39_word_dash_3: segment-north-people
+bip_39_word_dash_4: segment-north-people-blast
+bip_39_word_dash_5: segment-north-people-blast-link
+bip_39_word_dash_6: segment-north-people-blast-link-muffin
+bip_39_word_dash_7: segment-north-people-blast-link-muffin-mouse
+bip_39_word_dash_8: segment-north-people-blast-link-muffin-mouse-borrow
+bip_39_word_dash_9: segment-north-people-blast-link-muffin-mouse-borrow-dinner
 bip_39_word_new_br_1: segment
 bip_39_word_new_br_10: segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search
 bip_39_word_new_br_11: segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search<br>illness
@@ -193,6 +205,18 @@ bip_39_word_space_6: segment north people blast link muffin
 bip_39_word_space_7: segment north people blast link muffin mouse
 bip_39_word_space_8: segment north people blast link muffin mouse borrow
 bip_39_word_space_9: segment north people blast link muffin mouse borrow dinner
+bip_39_word_underscore_1: segment
+bip_39_word_underscore_10: segment_north_people_blast_link_muffin_mouse_borrow_dinner_search
+bip_39_word_underscore_11: segment_north_people_blast_link_muffin_mouse_borrow_dinner_search_illness
+bip_39_word_underscore_12: segment_north_people_blast_link_muffin_mouse_borrow_dinner_search_illness_alarm
+bip_39_word_underscore_2: segment_north
+bip_39_word_underscore_3: segment_north_people
+bip_39_word_underscore_4: segment_north_people_blast
+bip_39_word_underscore_5: segment_north_people_blast_link
+bip_39_word_underscore_6: segment_north_people_blast_link_muffin
+bip_39_word_underscore_7: segment_north_people_blast_link_muffin_mouse
+bip_39_word_underscore_8: segment_north_people_blast_link_muffin_mouse_borrow
+bip_39_word_underscore_9: segment_north_people_blast_link_muffin_mouse_borrow_dinner
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

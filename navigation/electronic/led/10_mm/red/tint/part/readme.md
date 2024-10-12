@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | place |  
+| bip_39_word_dash_10 | place-hen-impulse-movie-annual-online-thought-damage-traffic-fish |  
+| bip_39_word_dash_11 | place-hen-impulse-movie-annual-online-thought-damage-traffic-fish-flag |  
+| bip_39_word_dash_12 | place-hen-impulse-movie-annual-online-thought-damage-traffic-fish-flag-already |  
+| bip_39_word_dash_2 | place-hen |  
+| bip_39_word_dash_3 | place-hen-impulse |  
+| bip_39_word_dash_4 | place-hen-impulse-movie |  
+| bip_39_word_dash_5 | place-hen-impulse-movie-annual |  
+| bip_39_word_dash_6 | place-hen-impulse-movie-annual-online |  
+| bip_39_word_dash_7 | place-hen-impulse-movie-annual-online-thought |  
+| bip_39_word_dash_8 | place-hen-impulse-movie-annual-online-thought-damage |  
+| bip_39_word_dash_9 | place-hen-impulse-movie-annual-online-thought-damage-traffic |  
 | bip_39_word_new_br_1 | place |  
 | bip_39_word_new_br_10 | place<br>hen<br>impulse<br>movie<br>annual<br>online<br>thought<br>damage<br>traffic<br>fish |  
 | bip_39_word_new_br_11 | place<br>hen<br>impulse<br>movie<br>annual<br>online<br>thought<br>damage<br>traffic<br>fish<br>flag |  
@@ -147,6 +159,18 @@ traffic |
 | bip_39_word_space_7 | place hen impulse movie annual online thought |  
 | bip_39_word_space_8 | place hen impulse movie annual online thought damage |  
 | bip_39_word_space_9 | place hen impulse movie annual online thought damage traffic |  
+| bip_39_word_underscore_1 | place |  
+| bip_39_word_underscore_10 | place_hen_impulse_movie_annual_online_thought_damage_traffic_fish |  
+| bip_39_word_underscore_11 | place_hen_impulse_movie_annual_online_thought_damage_traffic_fish_flag |  
+| bip_39_word_underscore_12 | place_hen_impulse_movie_annual_online_thought_damage_traffic_fish_flag_already |  
+| bip_39_word_underscore_2 | place_hen |  
+| bip_39_word_underscore_3 | place_hen_impulse |  
+| bip_39_word_underscore_4 | place_hen_impulse_movie |  
+| bip_39_word_underscore_5 | place_hen_impulse_movie_annual |  
+| bip_39_word_underscore_6 | place_hen_impulse_movie_annual_online |  
+| bip_39_word_underscore_7 | place_hen_impulse_movie_annual_online_thought |  
+| bip_39_word_underscore_8 | place_hen_impulse_movie_annual_online_thought_damage |  
+| bip_39_word_underscore_9 | place_hen_impulse_movie_annual_online_thought_damage_traffic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

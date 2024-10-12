@@ -1,3 +1,15 @@
+bip_39_word_dash_1: task
+bip_39_word_dash_10: task-pig-smile-salt-dwarf-enter-bulb-ozone-evoke-first
+bip_39_word_dash_11: task-pig-smile-salt-dwarf-enter-bulb-ozone-evoke-first-opera
+bip_39_word_dash_12: task-pig-smile-salt-dwarf-enter-bulb-ozone-evoke-first-opera-ability
+bip_39_word_dash_2: task-pig
+bip_39_word_dash_3: task-pig-smile
+bip_39_word_dash_4: task-pig-smile-salt
+bip_39_word_dash_5: task-pig-smile-salt-dwarf
+bip_39_word_dash_6: task-pig-smile-salt-dwarf-enter
+bip_39_word_dash_7: task-pig-smile-salt-dwarf-enter-bulb
+bip_39_word_dash_8: task-pig-smile-salt-dwarf-enter-bulb-ozone
+bip_39_word_dash_9: task-pig-smile-salt-dwarf-enter-bulb-ozone-evoke
 bip_39_word_new_br_1: task
 bip_39_word_new_br_10: task<br>pig<br>smile<br>salt<br>dwarf<br>enter<br>bulb<br>ozone<br>evoke<br>first
 bip_39_word_new_br_11: task<br>pig<br>smile<br>salt<br>dwarf<br>enter<br>bulb<br>ozone<br>evoke<br>first<br>opera
@@ -192,6 +204,18 @@ bip_39_word_space_6: task pig smile salt dwarf enter
 bip_39_word_space_7: task pig smile salt dwarf enter bulb
 bip_39_word_space_8: task pig smile salt dwarf enter bulb ozone
 bip_39_word_space_9: task pig smile salt dwarf enter bulb ozone evoke
+bip_39_word_underscore_1: task
+bip_39_word_underscore_10: task_pig_smile_salt_dwarf_enter_bulb_ozone_evoke_first
+bip_39_word_underscore_11: task_pig_smile_salt_dwarf_enter_bulb_ozone_evoke_first_opera
+bip_39_word_underscore_12: task_pig_smile_salt_dwarf_enter_bulb_ozone_evoke_first_opera_ability
+bip_39_word_underscore_2: task_pig
+bip_39_word_underscore_3: task_pig_smile
+bip_39_word_underscore_4: task_pig_smile_salt
+bip_39_word_underscore_5: task_pig_smile_salt_dwarf
+bip_39_word_underscore_6: task_pig_smile_salt_dwarf_enter
+bip_39_word_underscore_7: task_pig_smile_salt_dwarf_enter_bulb
+bip_39_word_underscore_8: task_pig_smile_salt_dwarf_enter_bulb_ozone
+bip_39_word_underscore_9: task_pig_smile_salt_dwarf_enter_bulb_ozone_evoke
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

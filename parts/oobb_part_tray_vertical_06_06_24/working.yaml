@@ -1,3 +1,15 @@
+bip_39_word_dash_1: truck
+bip_39_word_dash_10: truck-deny-math-camera-bar-lazy-series-exist-travel-elephant
+bip_39_word_dash_11: truck-deny-math-camera-bar-lazy-series-exist-travel-elephant-fabric
+bip_39_word_dash_12: truck-deny-math-camera-bar-lazy-series-exist-travel-elephant-fabric-accuse
+bip_39_word_dash_2: truck-deny
+bip_39_word_dash_3: truck-deny-math
+bip_39_word_dash_4: truck-deny-math-camera
+bip_39_word_dash_5: truck-deny-math-camera-bar
+bip_39_word_dash_6: truck-deny-math-camera-bar-lazy
+bip_39_word_dash_7: truck-deny-math-camera-bar-lazy-series
+bip_39_word_dash_8: truck-deny-math-camera-bar-lazy-series-exist
+bip_39_word_dash_9: truck-deny-math-camera-bar-lazy-series-exist-travel
 bip_39_word_new_br_1: truck
 bip_39_word_new_br_10: truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist<br>travel<br>elephant
 bip_39_word_new_br_11: truck<br>deny<br>math<br>camera<br>bar<br>lazy<br>series<br>exist<br>travel<br>elephant<br>fabric
@@ -193,6 +205,18 @@ bip_39_word_space_6: truck deny math camera bar lazy
 bip_39_word_space_7: truck deny math camera bar lazy series
 bip_39_word_space_8: truck deny math camera bar lazy series exist
 bip_39_word_space_9: truck deny math camera bar lazy series exist travel
+bip_39_word_underscore_1: truck
+bip_39_word_underscore_10: truck_deny_math_camera_bar_lazy_series_exist_travel_elephant
+bip_39_word_underscore_11: truck_deny_math_camera_bar_lazy_series_exist_travel_elephant_fabric
+bip_39_word_underscore_12: truck_deny_math_camera_bar_lazy_series_exist_travel_elephant_fabric_accuse
+bip_39_word_underscore_2: truck_deny
+bip_39_word_underscore_3: truck_deny_math
+bip_39_word_underscore_4: truck_deny_math_camera
+bip_39_word_underscore_5: truck_deny_math_camera_bar
+bip_39_word_underscore_6: truck_deny_math_camera_bar_lazy
+bip_39_word_underscore_7: truck_deny_math_camera_bar_lazy_series
+bip_39_word_underscore_8: truck_deny_math_camera_bar_lazy_series_exist
+bip_39_word_underscore_9: truck_deny_math_camera_bar_lazy_series_exist_travel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

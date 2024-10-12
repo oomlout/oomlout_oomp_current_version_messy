@@ -1,3 +1,15 @@
+bip_39_word_dash_1: debate
+bip_39_word_dash_10: debate-urban-bind-century-measure-figure-dawn-truck-deputy-chaos
+bip_39_word_dash_11: debate-urban-bind-century-measure-figure-dawn-truck-deputy-chaos-ugly
+bip_39_word_dash_12: debate-urban-bind-century-measure-figure-dawn-truck-deputy-chaos-ugly-airport
+bip_39_word_dash_2: debate-urban
+bip_39_word_dash_3: debate-urban-bind
+bip_39_word_dash_4: debate-urban-bind-century
+bip_39_word_dash_5: debate-urban-bind-century-measure
+bip_39_word_dash_6: debate-urban-bind-century-measure-figure
+bip_39_word_dash_7: debate-urban-bind-century-measure-figure-dawn
+bip_39_word_dash_8: debate-urban-bind-century-measure-figure-dawn-truck
+bip_39_word_dash_9: debate-urban-bind-century-measure-figure-dawn-truck-deputy
 bip_39_word_new_br_1: debate
 bip_39_word_new_br_10: debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck<br>deputy<br>chaos
 bip_39_word_new_br_11: debate<br>urban<br>bind<br>century<br>measure<br>figure<br>dawn<br>truck<br>deputy<br>chaos<br>ugly
@@ -193,6 +205,18 @@ bip_39_word_space_6: debate urban bind century measure figure
 bip_39_word_space_7: debate urban bind century measure figure dawn
 bip_39_word_space_8: debate urban bind century measure figure dawn truck
 bip_39_word_space_9: debate urban bind century measure figure dawn truck deputy
+bip_39_word_underscore_1: debate
+bip_39_word_underscore_10: debate_urban_bind_century_measure_figure_dawn_truck_deputy_chaos
+bip_39_word_underscore_11: debate_urban_bind_century_measure_figure_dawn_truck_deputy_chaos_ugly
+bip_39_word_underscore_12: debate_urban_bind_century_measure_figure_dawn_truck_deputy_chaos_ugly_airport
+bip_39_word_underscore_2: debate_urban
+bip_39_word_underscore_3: debate_urban_bind
+bip_39_word_underscore_4: debate_urban_bind_century
+bip_39_word_underscore_5: debate_urban_bind_century_measure
+bip_39_word_underscore_6: debate_urban_bind_century_measure_figure
+bip_39_word_underscore_7: debate_urban_bind_century_measure_figure_dawn
+bip_39_word_underscore_8: debate_urban_bind_century_measure_figure_dawn_truck
+bip_39_word_underscore_9: debate_urban_bind_century_measure_figure_dawn_truck_deputy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

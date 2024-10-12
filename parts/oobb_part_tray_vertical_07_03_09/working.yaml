@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gun
+bip_39_word_dash_10: gun-neutral-around-trap-skill-bright-icon-inform-afraid-wedding
+bip_39_word_dash_11: gun-neutral-around-trap-skill-bright-icon-inform-afraid-wedding-intact
+bip_39_word_dash_12: gun-neutral-around-trap-skill-bright-icon-inform-afraid-wedding-intact-achieve
+bip_39_word_dash_2: gun-neutral
+bip_39_word_dash_3: gun-neutral-around
+bip_39_word_dash_4: gun-neutral-around-trap
+bip_39_word_dash_5: gun-neutral-around-trap-skill
+bip_39_word_dash_6: gun-neutral-around-trap-skill-bright
+bip_39_word_dash_7: gun-neutral-around-trap-skill-bright-icon
+bip_39_word_dash_8: gun-neutral-around-trap-skill-bright-icon-inform
+bip_39_word_dash_9: gun-neutral-around-trap-skill-bright-icon-inform-afraid
 bip_39_word_new_br_1: gun
 bip_39_word_new_br_10: gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform<br>afraid<br>wedding
 bip_39_word_new_br_11: gun<br>neutral<br>around<br>trap<br>skill<br>bright<br>icon<br>inform<br>afraid<br>wedding<br>intact
@@ -193,6 +205,18 @@ bip_39_word_space_6: gun neutral around trap skill bright
 bip_39_word_space_7: gun neutral around trap skill bright icon
 bip_39_word_space_8: gun neutral around trap skill bright icon inform
 bip_39_word_space_9: gun neutral around trap skill bright icon inform afraid
+bip_39_word_underscore_1: gun
+bip_39_word_underscore_10: gun_neutral_around_trap_skill_bright_icon_inform_afraid_wedding
+bip_39_word_underscore_11: gun_neutral_around_trap_skill_bright_icon_inform_afraid_wedding_intact
+bip_39_word_underscore_12: gun_neutral_around_trap_skill_bright_icon_inform_afraid_wedding_intact_achieve
+bip_39_word_underscore_2: gun_neutral
+bip_39_word_underscore_3: gun_neutral_around
+bip_39_word_underscore_4: gun_neutral_around_trap
+bip_39_word_underscore_5: gun_neutral_around_trap_skill
+bip_39_word_underscore_6: gun_neutral_around_trap_skill_bright
+bip_39_word_underscore_7: gun_neutral_around_trap_skill_bright_icon
+bip_39_word_underscore_8: gun_neutral_around_trap_skill_bright_icon_inform
+bip_39_word_underscore_9: gun_neutral_around_trap_skill_bright_icon_inform_afraid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

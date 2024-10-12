@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ice
+bip_39_word_dash_10: ice-remain-rocket-olive-either-stool-chase-above-light-trust
+bip_39_word_dash_11: ice-remain-rocket-olive-either-stool-chase-above-light-trust-expose
+bip_39_word_dash_12: ice-remain-rocket-olive-either-stool-chase-above-light-trust-expose-attract
+bip_39_word_dash_2: ice-remain
+bip_39_word_dash_3: ice-remain-rocket
+bip_39_word_dash_4: ice-remain-rocket-olive
+bip_39_word_dash_5: ice-remain-rocket-olive-either
+bip_39_word_dash_6: ice-remain-rocket-olive-either-stool
+bip_39_word_dash_7: ice-remain-rocket-olive-either-stool-chase
+bip_39_word_dash_8: ice-remain-rocket-olive-either-stool-chase-above
+bip_39_word_dash_9: ice-remain-rocket-olive-either-stool-chase-above-light
 bip_39_word_new_br_1: ice
 bip_39_word_new_br_10: ice<br>remain<br>rocket<br>olive<br>either<br>stool<br>chase<br>above<br>light<br>trust
 bip_39_word_new_br_11: ice<br>remain<br>rocket<br>olive<br>either<br>stool<br>chase<br>above<br>light<br>trust<br>expose
@@ -193,6 +205,18 @@ bip_39_word_space_6: ice remain rocket olive either stool
 bip_39_word_space_7: ice remain rocket olive either stool chase
 bip_39_word_space_8: ice remain rocket olive either stool chase above
 bip_39_word_space_9: ice remain rocket olive either stool chase above light
+bip_39_word_underscore_1: ice
+bip_39_word_underscore_10: ice_remain_rocket_olive_either_stool_chase_above_light_trust
+bip_39_word_underscore_11: ice_remain_rocket_olive_either_stool_chase_above_light_trust_expose
+bip_39_word_underscore_12: ice_remain_rocket_olive_either_stool_chase_above_light_trust_expose_attract
+bip_39_word_underscore_2: ice_remain
+bip_39_word_underscore_3: ice_remain_rocket
+bip_39_word_underscore_4: ice_remain_rocket_olive
+bip_39_word_underscore_5: ice_remain_rocket_olive_either
+bip_39_word_underscore_6: ice_remain_rocket_olive_either_stool
+bip_39_word_underscore_7: ice_remain_rocket_olive_either_stool_chase
+bip_39_word_underscore_8: ice_remain_rocket_olive_either_stool_chase_above
+bip_39_word_underscore_9: ice_remain_rocket_olive_either_stool_chase_above_light
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

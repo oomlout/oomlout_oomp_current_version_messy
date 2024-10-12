@@ -1,3 +1,15 @@
+bip_39_word_dash_1: next
+bip_39_word_dash_10: next-camera-focus-cabin-vault-hand-ladder-canvas-insect-correct
+bip_39_word_dash_11: next-camera-focus-cabin-vault-hand-ladder-canvas-insect-correct-artefact
+bip_39_word_dash_12: next-camera-focus-cabin-vault-hand-ladder-canvas-insect-correct-artefact-antique
+bip_39_word_dash_2: next-camera
+bip_39_word_dash_3: next-camera-focus
+bip_39_word_dash_4: next-camera-focus-cabin
+bip_39_word_dash_5: next-camera-focus-cabin-vault
+bip_39_word_dash_6: next-camera-focus-cabin-vault-hand
+bip_39_word_dash_7: next-camera-focus-cabin-vault-hand-ladder
+bip_39_word_dash_8: next-camera-focus-cabin-vault-hand-ladder-canvas
+bip_39_word_dash_9: next-camera-focus-cabin-vault-hand-ladder-canvas-insect
 bip_39_word_new_br_1: next
 bip_39_word_new_br_10: next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct
 bip_39_word_new_br_11: next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct<br>artefact
@@ -193,6 +205,18 @@ bip_39_word_space_6: next camera focus cabin vault hand
 bip_39_word_space_7: next camera focus cabin vault hand ladder
 bip_39_word_space_8: next camera focus cabin vault hand ladder canvas
 bip_39_word_space_9: next camera focus cabin vault hand ladder canvas insect
+bip_39_word_underscore_1: next
+bip_39_word_underscore_10: next_camera_focus_cabin_vault_hand_ladder_canvas_insect_correct
+bip_39_word_underscore_11: next_camera_focus_cabin_vault_hand_ladder_canvas_insect_correct_artefact
+bip_39_word_underscore_12: next_camera_focus_cabin_vault_hand_ladder_canvas_insect_correct_artefact_antique
+bip_39_word_underscore_2: next_camera
+bip_39_word_underscore_3: next_camera_focus
+bip_39_word_underscore_4: next_camera_focus_cabin
+bip_39_word_underscore_5: next_camera_focus_cabin_vault
+bip_39_word_underscore_6: next_camera_focus_cabin_vault_hand
+bip_39_word_underscore_7: next_camera_focus_cabin_vault_hand_ladder
+bip_39_word_underscore_8: next_camera_focus_cabin_vault_hand_ladder_canvas
+bip_39_word_underscore_9: next_camera_focus_cabin_vault_hand_ladder_canvas_insect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

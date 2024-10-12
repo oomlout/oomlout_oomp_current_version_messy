@@ -1,3 +1,15 @@
+bip_39_word_dash_1: habit
+bip_39_word_dash_10: habit-ripple-ripple-athlete-pony-basket-consider-wedding-sport-economy
+bip_39_word_dash_11: habit-ripple-ripple-athlete-pony-basket-consider-wedding-sport-economy-creek
+bip_39_word_dash_12: habit-ripple-ripple-athlete-pony-basket-consider-wedding-sport-economy-creek-admit
+bip_39_word_dash_2: habit-ripple
+bip_39_word_dash_3: habit-ripple-ripple
+bip_39_word_dash_4: habit-ripple-ripple-athlete
+bip_39_word_dash_5: habit-ripple-ripple-athlete-pony
+bip_39_word_dash_6: habit-ripple-ripple-athlete-pony-basket
+bip_39_word_dash_7: habit-ripple-ripple-athlete-pony-basket-consider
+bip_39_word_dash_8: habit-ripple-ripple-athlete-pony-basket-consider-wedding
+bip_39_word_dash_9: habit-ripple-ripple-athlete-pony-basket-consider-wedding-sport
 bip_39_word_new_br_1: habit
 bip_39_word_new_br_10: habit<br>ripple<br>ripple<br>athlete<br>pony<br>basket<br>consider<br>wedding<br>sport<br>economy
 bip_39_word_new_br_11: habit<br>ripple<br>ripple<br>athlete<br>pony<br>basket<br>consider<br>wedding<br>sport<br>economy<br>creek
@@ -194,6 +206,18 @@ bip_39_word_space_6: habit ripple ripple athlete pony basket
 bip_39_word_space_7: habit ripple ripple athlete pony basket consider
 bip_39_word_space_8: habit ripple ripple athlete pony basket consider wedding
 bip_39_word_space_9: habit ripple ripple athlete pony basket consider wedding sport
+bip_39_word_underscore_1: habit
+bip_39_word_underscore_10: habit_ripple_ripple_athlete_pony_basket_consider_wedding_sport_economy
+bip_39_word_underscore_11: habit_ripple_ripple_athlete_pony_basket_consider_wedding_sport_economy_creek
+bip_39_word_underscore_12: habit_ripple_ripple_athlete_pony_basket_consider_wedding_sport_economy_creek_admit
+bip_39_word_underscore_2: habit_ripple
+bip_39_word_underscore_3: habit_ripple_ripple
+bip_39_word_underscore_4: habit_ripple_ripple_athlete
+bip_39_word_underscore_5: habit_ripple_ripple_athlete_pony
+bip_39_word_underscore_6: habit_ripple_ripple_athlete_pony_basket
+bip_39_word_underscore_7: habit_ripple_ripple_athlete_pony_basket_consider
+bip_39_word_underscore_8: habit_ripple_ripple_athlete_pony_basket_consider_wedding
+bip_39_word_underscore_9: habit_ripple_ripple_athlete_pony_basket_consider_wedding_sport
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

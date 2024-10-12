@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | torch |  
+| bip_39_word_dash_10 | torch-april-noodle-gym-faculty-joke-fabric-quick-witness-error |  
+| bip_39_word_dash_11 | torch-april-noodle-gym-faculty-joke-fabric-quick-witness-error-indoor |  
+| bip_39_word_dash_12 | torch-april-noodle-gym-faculty-joke-fabric-quick-witness-error-indoor-alcohol |  
+| bip_39_word_dash_2 | torch-april |  
+| bip_39_word_dash_3 | torch-april-noodle |  
+| bip_39_word_dash_4 | torch-april-noodle-gym |  
+| bip_39_word_dash_5 | torch-april-noodle-gym-faculty |  
+| bip_39_word_dash_6 | torch-april-noodle-gym-faculty-joke |  
+| bip_39_word_dash_7 | torch-april-noodle-gym-faculty-joke-fabric |  
+| bip_39_word_dash_8 | torch-april-noodle-gym-faculty-joke-fabric-quick |  
+| bip_39_word_dash_9 | torch-april-noodle-gym-faculty-joke-fabric-quick-witness |  
 | bip_39_word_new_br_1 | torch |  
 | bip_39_word_new_br_10 | torch<br>april<br>noodle<br>gym<br>faculty<br>joke<br>fabric<br>quick<br>witness<br>error |  
 | bip_39_word_new_br_11 | torch<br>april<br>noodle<br>gym<br>faculty<br>joke<br>fabric<br>quick<br>witness<br>error<br>indoor |  
@@ -147,6 +159,18 @@ witness |
 | bip_39_word_space_7 | torch april noodle gym faculty joke fabric |  
 | bip_39_word_space_8 | torch april noodle gym faculty joke fabric quick |  
 | bip_39_word_space_9 | torch april noodle gym faculty joke fabric quick witness |  
+| bip_39_word_underscore_1 | torch |  
+| bip_39_word_underscore_10 | torch_april_noodle_gym_faculty_joke_fabric_quick_witness_error |  
+| bip_39_word_underscore_11 | torch_april_noodle_gym_faculty_joke_fabric_quick_witness_error_indoor |  
+| bip_39_word_underscore_12 | torch_april_noodle_gym_faculty_joke_fabric_quick_witness_error_indoor_alcohol |  
+| bip_39_word_underscore_2 | torch_april |  
+| bip_39_word_underscore_3 | torch_april_noodle |  
+| bip_39_word_underscore_4 | torch_april_noodle_gym |  
+| bip_39_word_underscore_5 | torch_april_noodle_gym_faculty |  
+| bip_39_word_underscore_6 | torch_april_noodle_gym_faculty_joke |  
+| bip_39_word_underscore_7 | torch_april_noodle_gym_faculty_joke_fabric |  
+| bip_39_word_underscore_8 | torch_april_noodle_gym_faculty_joke_fabric_quick |  
+| bip_39_word_underscore_9 | torch_april_noodle_gym_faculty_joke_fabric_quick_witness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

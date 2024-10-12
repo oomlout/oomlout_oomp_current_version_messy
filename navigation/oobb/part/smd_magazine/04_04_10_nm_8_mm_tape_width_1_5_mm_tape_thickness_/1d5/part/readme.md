@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bottom |  
+| bip_39_word_dash_10 | bottom-toss-bless-gorilla-try-bargain-old-club-salute-bullet |  
+| bip_39_word_dash_11 | bottom-toss-bless-gorilla-try-bargain-old-club-salute-bullet-pave |  
+| bip_39_word_dash_12 | bottom-toss-bless-gorilla-try-bargain-old-club-salute-bullet-pave-across |  
+| bip_39_word_dash_2 | bottom-toss |  
+| bip_39_word_dash_3 | bottom-toss-bless |  
+| bip_39_word_dash_4 | bottom-toss-bless-gorilla |  
+| bip_39_word_dash_5 | bottom-toss-bless-gorilla-try |  
+| bip_39_word_dash_6 | bottom-toss-bless-gorilla-try-bargain |  
+| bip_39_word_dash_7 | bottom-toss-bless-gorilla-try-bargain-old |  
+| bip_39_word_dash_8 | bottom-toss-bless-gorilla-try-bargain-old-club |  
+| bip_39_word_dash_9 | bottom-toss-bless-gorilla-try-bargain-old-club-salute |  
 | bip_39_word_new_br_1 | bottom |  
 | bip_39_word_new_br_10 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club<br>salute<br>bullet |  
 | bip_39_word_new_br_11 | bottom<br>toss<br>bless<br>gorilla<br>try<br>bargain<br>old<br>club<br>salute<br>bullet<br>pave |  
@@ -147,6 +159,18 @@ salute |
 | bip_39_word_space_7 | bottom toss bless gorilla try bargain old |  
 | bip_39_word_space_8 | bottom toss bless gorilla try bargain old club |  
 | bip_39_word_space_9 | bottom toss bless gorilla try bargain old club salute |  
+| bip_39_word_underscore_1 | bottom |  
+| bip_39_word_underscore_10 | bottom_toss_bless_gorilla_try_bargain_old_club_salute_bullet |  
+| bip_39_word_underscore_11 | bottom_toss_bless_gorilla_try_bargain_old_club_salute_bullet_pave |  
+| bip_39_word_underscore_12 | bottom_toss_bless_gorilla_try_bargain_old_club_salute_bullet_pave_across |  
+| bip_39_word_underscore_2 | bottom_toss |  
+| bip_39_word_underscore_3 | bottom_toss_bless |  
+| bip_39_word_underscore_4 | bottom_toss_bless_gorilla |  
+| bip_39_word_underscore_5 | bottom_toss_bless_gorilla_try |  
+| bip_39_word_underscore_6 | bottom_toss_bless_gorilla_try_bargain |  
+| bip_39_word_underscore_7 | bottom_toss_bless_gorilla_try_bargain_old |  
+| bip_39_word_underscore_8 | bottom_toss_bless_gorilla_try_bargain_old_club |  
+| bip_39_word_underscore_9 | bottom_toss_bless_gorilla_try_bargain_old_club_salute |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

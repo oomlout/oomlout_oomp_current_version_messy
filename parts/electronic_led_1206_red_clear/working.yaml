@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wait
+bip_39_word_dash_10: wait-round-view-clinic-film-entire-ostrich-ancient-twenty-snack
+bip_39_word_dash_11: wait-round-view-clinic-film-entire-ostrich-ancient-twenty-snack-basic
+bip_39_word_dash_12: wait-round-view-clinic-film-entire-ostrich-ancient-twenty-snack-basic-addict
+bip_39_word_dash_2: wait-round
+bip_39_word_dash_3: wait-round-view
+bip_39_word_dash_4: wait-round-view-clinic
+bip_39_word_dash_5: wait-round-view-clinic-film
+bip_39_word_dash_6: wait-round-view-clinic-film-entire
+bip_39_word_dash_7: wait-round-view-clinic-film-entire-ostrich
+bip_39_word_dash_8: wait-round-view-clinic-film-entire-ostrich-ancient
+bip_39_word_dash_9: wait-round-view-clinic-film-entire-ostrich-ancient-twenty
 bip_39_word_new_br_1: wait
 bip_39_word_new_br_10: wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient<br>twenty<br>snack
 bip_39_word_new_br_11: wait<br>round<br>view<br>clinic<br>film<br>entire<br>ostrich<br>ancient<br>twenty<br>snack<br>basic
@@ -193,6 +205,18 @@ bip_39_word_space_6: wait round view clinic film entire
 bip_39_word_space_7: wait round view clinic film entire ostrich
 bip_39_word_space_8: wait round view clinic film entire ostrich ancient
 bip_39_word_space_9: wait round view clinic film entire ostrich ancient twenty
+bip_39_word_underscore_1: wait
+bip_39_word_underscore_10: wait_round_view_clinic_film_entire_ostrich_ancient_twenty_snack
+bip_39_word_underscore_11: wait_round_view_clinic_film_entire_ostrich_ancient_twenty_snack_basic
+bip_39_word_underscore_12: wait_round_view_clinic_film_entire_ostrich_ancient_twenty_snack_basic_addict
+bip_39_word_underscore_2: wait_round
+bip_39_word_underscore_3: wait_round_view
+bip_39_word_underscore_4: wait_round_view_clinic
+bip_39_word_underscore_5: wait_round_view_clinic_film
+bip_39_word_underscore_6: wait_round_view_clinic_film_entire
+bip_39_word_underscore_7: wait_round_view_clinic_film_entire_ostrich
+bip_39_word_underscore_8: wait_round_view_clinic_film_entire_ostrich_ancient
+bip_39_word_underscore_9: wait_round_view_clinic_film_entire_ostrich_ancient_twenty
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

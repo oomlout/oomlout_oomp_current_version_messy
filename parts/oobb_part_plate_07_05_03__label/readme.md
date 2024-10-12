@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | demise |  
+| bip_39_word_dash_10 | demise-slice-fit-capital-daughter-someone-face-bar-fever-mobile |  
+| bip_39_word_dash_11 | demise-slice-fit-capital-daughter-someone-face-bar-fever-mobile-radio |  
+| bip_39_word_dash_12 | demise-slice-fit-capital-daughter-someone-face-bar-fever-mobile-radio-armed |  
+| bip_39_word_dash_2 | demise-slice |  
+| bip_39_word_dash_3 | demise-slice-fit |  
+| bip_39_word_dash_4 | demise-slice-fit-capital |  
+| bip_39_word_dash_5 | demise-slice-fit-capital-daughter |  
+| bip_39_word_dash_6 | demise-slice-fit-capital-daughter-someone |  
+| bip_39_word_dash_7 | demise-slice-fit-capital-daughter-someone-face |  
+| bip_39_word_dash_8 | demise-slice-fit-capital-daughter-someone-face-bar |  
+| bip_39_word_dash_9 | demise-slice-fit-capital-daughter-someone-face-bar-fever |  
 | bip_39_word_new_br_1 | demise |  
 | bip_39_word_new_br_10 | demise<br>slice<br>fit<br>capital<br>daughter<br>someone<br>face<br>bar<br>fever<br>mobile |  
 | bip_39_word_new_br_11 | demise<br>slice<br>fit<br>capital<br>daughter<br>someone<br>face<br>bar<br>fever<br>mobile<br>radio |  
@@ -147,6 +159,18 @@ fever |
 | bip_39_word_space_7 | demise slice fit capital daughter someone face |  
 | bip_39_word_space_8 | demise slice fit capital daughter someone face bar |  
 | bip_39_word_space_9 | demise slice fit capital daughter someone face bar fever |  
+| bip_39_word_underscore_1 | demise |  
+| bip_39_word_underscore_10 | demise_slice_fit_capital_daughter_someone_face_bar_fever_mobile |  
+| bip_39_word_underscore_11 | demise_slice_fit_capital_daughter_someone_face_bar_fever_mobile_radio |  
+| bip_39_word_underscore_12 | demise_slice_fit_capital_daughter_someone_face_bar_fever_mobile_radio_armed |  
+| bip_39_word_underscore_2 | demise_slice |  
+| bip_39_word_underscore_3 | demise_slice_fit |  
+| bip_39_word_underscore_4 | demise_slice_fit_capital |  
+| bip_39_word_underscore_5 | demise_slice_fit_capital_daughter |  
+| bip_39_word_underscore_6 | demise_slice_fit_capital_daughter_someone |  
+| bip_39_word_underscore_7 | demise_slice_fit_capital_daughter_someone_face |  
+| bip_39_word_underscore_8 | demise_slice_fit_capital_daughter_someone_face_bar |  
+| bip_39_word_underscore_9 | demise_slice_fit_capital_daughter_someone_face_bar_fever |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

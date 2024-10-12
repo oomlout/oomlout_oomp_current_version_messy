@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glad |  
+| bip_39_word_dash_10 | glad-pudding-want-proud-liberty-thunder-biology-heavy-plunge-pepper |  
+| bip_39_word_dash_11 | glad-pudding-want-proud-liberty-thunder-biology-heavy-plunge-pepper-neither |  
+| bip_39_word_dash_12 | glad-pudding-want-proud-liberty-thunder-biology-heavy-plunge-pepper-neither-airport |  
+| bip_39_word_dash_2 | glad-pudding |  
+| bip_39_word_dash_3 | glad-pudding-want |  
+| bip_39_word_dash_4 | glad-pudding-want-proud |  
+| bip_39_word_dash_5 | glad-pudding-want-proud-liberty |  
+| bip_39_word_dash_6 | glad-pudding-want-proud-liberty-thunder |  
+| bip_39_word_dash_7 | glad-pudding-want-proud-liberty-thunder-biology |  
+| bip_39_word_dash_8 | glad-pudding-want-proud-liberty-thunder-biology-heavy |  
+| bip_39_word_dash_9 | glad-pudding-want-proud-liberty-thunder-biology-heavy-plunge |  
 | bip_39_word_new_br_1 | glad |  
 | bip_39_word_new_br_10 | glad<br>pudding<br>want<br>proud<br>liberty<br>thunder<br>biology<br>heavy<br>plunge<br>pepper |  
 | bip_39_word_new_br_11 | glad<br>pudding<br>want<br>proud<br>liberty<br>thunder<br>biology<br>heavy<br>plunge<br>pepper<br>neither |  
@@ -147,6 +159,18 @@ plunge |
 | bip_39_word_space_7 | glad pudding want proud liberty thunder biology |  
 | bip_39_word_space_8 | glad pudding want proud liberty thunder biology heavy |  
 | bip_39_word_space_9 | glad pudding want proud liberty thunder biology heavy plunge |  
+| bip_39_word_underscore_1 | glad |  
+| bip_39_word_underscore_10 | glad_pudding_want_proud_liberty_thunder_biology_heavy_plunge_pepper |  
+| bip_39_word_underscore_11 | glad_pudding_want_proud_liberty_thunder_biology_heavy_plunge_pepper_neither |  
+| bip_39_word_underscore_12 | glad_pudding_want_proud_liberty_thunder_biology_heavy_plunge_pepper_neither_airport |  
+| bip_39_word_underscore_2 | glad_pudding |  
+| bip_39_word_underscore_3 | glad_pudding_want |  
+| bip_39_word_underscore_4 | glad_pudding_want_proud |  
+| bip_39_word_underscore_5 | glad_pudding_want_proud_liberty |  
+| bip_39_word_underscore_6 | glad_pudding_want_proud_liberty_thunder |  
+| bip_39_word_underscore_7 | glad_pudding_want_proud_liberty_thunder_biology |  
+| bip_39_word_underscore_8 | glad_pudding_want_proud_liberty_thunder_biology_heavy |  
+| bip_39_word_underscore_9 | glad_pudding_want_proud_liberty_thunder_biology_heavy_plunge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

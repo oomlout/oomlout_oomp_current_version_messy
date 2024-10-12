@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | require |  
+| bip_39_word_dash_10 | require-survey-post-tomato-grocery-oblige-right-saddle-thought-pet |  
+| bip_39_word_dash_11 | require-survey-post-tomato-grocery-oblige-right-saddle-thought-pet-donate |  
+| bip_39_word_dash_12 | require-survey-post-tomato-grocery-oblige-right-saddle-thought-pet-donate-agent |  
+| bip_39_word_dash_2 | require-survey |  
+| bip_39_word_dash_3 | require-survey-post |  
+| bip_39_word_dash_4 | require-survey-post-tomato |  
+| bip_39_word_dash_5 | require-survey-post-tomato-grocery |  
+| bip_39_word_dash_6 | require-survey-post-tomato-grocery-oblige |  
+| bip_39_word_dash_7 | require-survey-post-tomato-grocery-oblige-right |  
+| bip_39_word_dash_8 | require-survey-post-tomato-grocery-oblige-right-saddle |  
+| bip_39_word_dash_9 | require-survey-post-tomato-grocery-oblige-right-saddle-thought |  
 | bip_39_word_new_br_1 | require |  
 | bip_39_word_new_br_10 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle<br>thought<br>pet |  
 | bip_39_word_new_br_11 | require<br>survey<br>post<br>tomato<br>grocery<br>oblige<br>right<br>saddle<br>thought<br>pet<br>donate |  
@@ -147,6 +159,18 @@ thought |
 | bip_39_word_space_7 | require survey post tomato grocery oblige right |  
 | bip_39_word_space_8 | require survey post tomato grocery oblige right saddle |  
 | bip_39_word_space_9 | require survey post tomato grocery oblige right saddle thought |  
+| bip_39_word_underscore_1 | require |  
+| bip_39_word_underscore_10 | require_survey_post_tomato_grocery_oblige_right_saddle_thought_pet |  
+| bip_39_word_underscore_11 | require_survey_post_tomato_grocery_oblige_right_saddle_thought_pet_donate |  
+| bip_39_word_underscore_12 | require_survey_post_tomato_grocery_oblige_right_saddle_thought_pet_donate_agent |  
+| bip_39_word_underscore_2 | require_survey |  
+| bip_39_word_underscore_3 | require_survey_post |  
+| bip_39_word_underscore_4 | require_survey_post_tomato |  
+| bip_39_word_underscore_5 | require_survey_post_tomato_grocery |  
+| bip_39_word_underscore_6 | require_survey_post_tomato_grocery_oblige |  
+| bip_39_word_underscore_7 | require_survey_post_tomato_grocery_oblige_right |  
+| bip_39_word_underscore_8 | require_survey_post_tomato_grocery_oblige_right_saddle |  
+| bip_39_word_underscore_9 | require_survey_post_tomato_grocery_oblige_right_saddle_thought |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tenant |  
+| bip_39_word_dash_10 | tenant-consider-stereo-ask-common-daring-ribbon-slow-team-drop |  
+| bip_39_word_dash_11 | tenant-consider-stereo-ask-common-daring-ribbon-slow-team-drop-cool |  
+| bip_39_word_dash_12 | tenant-consider-stereo-ask-common-daring-ribbon-slow-team-drop-cool-army |  
+| bip_39_word_dash_2 | tenant-consider |  
+| bip_39_word_dash_3 | tenant-consider-stereo |  
+| bip_39_word_dash_4 | tenant-consider-stereo-ask |  
+| bip_39_word_dash_5 | tenant-consider-stereo-ask-common |  
+| bip_39_word_dash_6 | tenant-consider-stereo-ask-common-daring |  
+| bip_39_word_dash_7 | tenant-consider-stereo-ask-common-daring-ribbon |  
+| bip_39_word_dash_8 | tenant-consider-stereo-ask-common-daring-ribbon-slow |  
+| bip_39_word_dash_9 | tenant-consider-stereo-ask-common-daring-ribbon-slow-team |  
 | bip_39_word_new_br_1 | tenant |  
 | bip_39_word_new_br_10 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow<br>team<br>drop |  
 | bip_39_word_new_br_11 | tenant<br>consider<br>stereo<br>ask<br>common<br>daring<br>ribbon<br>slow<br>team<br>drop<br>cool |  
@@ -147,6 +159,18 @@ team |
 | bip_39_word_space_7 | tenant consider stereo ask common daring ribbon |  
 | bip_39_word_space_8 | tenant consider stereo ask common daring ribbon slow |  
 | bip_39_word_space_9 | tenant consider stereo ask common daring ribbon slow team |  
+| bip_39_word_underscore_1 | tenant |  
+| bip_39_word_underscore_10 | tenant_consider_stereo_ask_common_daring_ribbon_slow_team_drop |  
+| bip_39_word_underscore_11 | tenant_consider_stereo_ask_common_daring_ribbon_slow_team_drop_cool |  
+| bip_39_word_underscore_12 | tenant_consider_stereo_ask_common_daring_ribbon_slow_team_drop_cool_army |  
+| bip_39_word_underscore_2 | tenant_consider |  
+| bip_39_word_underscore_3 | tenant_consider_stereo |  
+| bip_39_word_underscore_4 | tenant_consider_stereo_ask |  
+| bip_39_word_underscore_5 | tenant_consider_stereo_ask_common |  
+| bip_39_word_underscore_6 | tenant_consider_stereo_ask_common_daring |  
+| bip_39_word_underscore_7 | tenant_consider_stereo_ask_common_daring_ribbon |  
+| bip_39_word_underscore_8 | tenant_consider_stereo_ask_common_daring_ribbon_slow |  
+| bip_39_word_underscore_9 | tenant_consider_stereo_ask_common_daring_ribbon_slow_team |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

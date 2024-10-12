@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | organ |  
+| bip_39_word_dash_10 | organ-sand-dry-loan-lazy-honey-advice-vote-army-rally |  
+| bip_39_word_dash_11 | organ-sand-dry-loan-lazy-honey-advice-vote-army-rally-opinion |  
+| bip_39_word_dash_12 | organ-sand-dry-loan-lazy-honey-advice-vote-army-rally-opinion-alley |  
+| bip_39_word_dash_2 | organ-sand |  
+| bip_39_word_dash_3 | organ-sand-dry |  
+| bip_39_word_dash_4 | organ-sand-dry-loan |  
+| bip_39_word_dash_5 | organ-sand-dry-loan-lazy |  
+| bip_39_word_dash_6 | organ-sand-dry-loan-lazy-honey |  
+| bip_39_word_dash_7 | organ-sand-dry-loan-lazy-honey-advice |  
+| bip_39_word_dash_8 | organ-sand-dry-loan-lazy-honey-advice-vote |  
+| bip_39_word_dash_9 | organ-sand-dry-loan-lazy-honey-advice-vote-army |  
 | bip_39_word_new_br_1 | organ |  
 | bip_39_word_new_br_10 | organ<br>sand<br>dry<br>loan<br>lazy<br>honey<br>advice<br>vote<br>army<br>rally |  
 | bip_39_word_new_br_11 | organ<br>sand<br>dry<br>loan<br>lazy<br>honey<br>advice<br>vote<br>army<br>rally<br>opinion |  
@@ -147,6 +159,18 @@ army |
 | bip_39_word_space_7 | organ sand dry loan lazy honey advice |  
 | bip_39_word_space_8 | organ sand dry loan lazy honey advice vote |  
 | bip_39_word_space_9 | organ sand dry loan lazy honey advice vote army |  
+| bip_39_word_underscore_1 | organ |  
+| bip_39_word_underscore_10 | organ_sand_dry_loan_lazy_honey_advice_vote_army_rally |  
+| bip_39_word_underscore_11 | organ_sand_dry_loan_lazy_honey_advice_vote_army_rally_opinion |  
+| bip_39_word_underscore_12 | organ_sand_dry_loan_lazy_honey_advice_vote_army_rally_opinion_alley |  
+| bip_39_word_underscore_2 | organ_sand |  
+| bip_39_word_underscore_3 | organ_sand_dry |  
+| bip_39_word_underscore_4 | organ_sand_dry_loan |  
+| bip_39_word_underscore_5 | organ_sand_dry_loan_lazy |  
+| bip_39_word_underscore_6 | organ_sand_dry_loan_lazy_honey |  
+| bip_39_word_underscore_7 | organ_sand_dry_loan_lazy_honey_advice |  
+| bip_39_word_underscore_8 | organ_sand_dry_loan_lazy_honey_advice_vote |  
+| bip_39_word_underscore_9 | organ_sand_dry_loan_lazy_honey_advice_vote_army |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

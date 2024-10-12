@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | govern |  
+| bip_39_word_dash_10 | govern-retire-aerobic-corn-glare-engage-lady-clean-roof-follow |  
+| bip_39_word_dash_11 | govern-retire-aerobic-corn-glare-engage-lady-clean-roof-follow-tape |  
+| bip_39_word_dash_12 | govern-retire-aerobic-corn-glare-engage-lady-clean-roof-follow-tape-auction |  
+| bip_39_word_dash_2 | govern-retire |  
+| bip_39_word_dash_3 | govern-retire-aerobic |  
+| bip_39_word_dash_4 | govern-retire-aerobic-corn |  
+| bip_39_word_dash_5 | govern-retire-aerobic-corn-glare |  
+| bip_39_word_dash_6 | govern-retire-aerobic-corn-glare-engage |  
+| bip_39_word_dash_7 | govern-retire-aerobic-corn-glare-engage-lady |  
+| bip_39_word_dash_8 | govern-retire-aerobic-corn-glare-engage-lady-clean |  
+| bip_39_word_dash_9 | govern-retire-aerobic-corn-glare-engage-lady-clean-roof |  
 | bip_39_word_new_br_1 | govern |  
 | bip_39_word_new_br_10 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean<br>roof<br>follow |  
 | bip_39_word_new_br_11 | govern<br>retire<br>aerobic<br>corn<br>glare<br>engage<br>lady<br>clean<br>roof<br>follow<br>tape |  
@@ -147,6 +159,18 @@ roof |
 | bip_39_word_space_7 | govern retire aerobic corn glare engage lady |  
 | bip_39_word_space_8 | govern retire aerobic corn glare engage lady clean |  
 | bip_39_word_space_9 | govern retire aerobic corn glare engage lady clean roof |  
+| bip_39_word_underscore_1 | govern |  
+| bip_39_word_underscore_10 | govern_retire_aerobic_corn_glare_engage_lady_clean_roof_follow |  
+| bip_39_word_underscore_11 | govern_retire_aerobic_corn_glare_engage_lady_clean_roof_follow_tape |  
+| bip_39_word_underscore_12 | govern_retire_aerobic_corn_glare_engage_lady_clean_roof_follow_tape_auction |  
+| bip_39_word_underscore_2 | govern_retire |  
+| bip_39_word_underscore_3 | govern_retire_aerobic |  
+| bip_39_word_underscore_4 | govern_retire_aerobic_corn |  
+| bip_39_word_underscore_5 | govern_retire_aerobic_corn_glare |  
+| bip_39_word_underscore_6 | govern_retire_aerobic_corn_glare_engage |  
+| bip_39_word_underscore_7 | govern_retire_aerobic_corn_glare_engage_lady |  
+| bip_39_word_underscore_8 | govern_retire_aerobic_corn_glare_engage_lady_clean |  
+| bip_39_word_underscore_9 | govern_retire_aerobic_corn_glare_engage_lady_clean_roof |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hotel
+bip_39_word_dash_10: hotel-dinner-orient-custom-popular-label-rack-solve-tooth-shine
+bip_39_word_dash_11: hotel-dinner-orient-custom-popular-label-rack-solve-tooth-shine-funny
+bip_39_word_dash_12: hotel-dinner-orient-custom-popular-label-rack-solve-tooth-shine-funny-absorb
+bip_39_word_dash_2: hotel-dinner
+bip_39_word_dash_3: hotel-dinner-orient
+bip_39_word_dash_4: hotel-dinner-orient-custom
+bip_39_word_dash_5: hotel-dinner-orient-custom-popular
+bip_39_word_dash_6: hotel-dinner-orient-custom-popular-label
+bip_39_word_dash_7: hotel-dinner-orient-custom-popular-label-rack
+bip_39_word_dash_8: hotel-dinner-orient-custom-popular-label-rack-solve
+bip_39_word_dash_9: hotel-dinner-orient-custom-popular-label-rack-solve-tooth
 bip_39_word_new_br_1: hotel
 bip_39_word_new_br_10: hotel<br>dinner<br>orient<br>custom<br>popular<br>label<br>rack<br>solve<br>tooth<br>shine
 bip_39_word_new_br_11: hotel<br>dinner<br>orient<br>custom<br>popular<br>label<br>rack<br>solve<br>tooth<br>shine<br>funny
@@ -193,6 +205,18 @@ bip_39_word_space_6: hotel dinner orient custom popular label
 bip_39_word_space_7: hotel dinner orient custom popular label rack
 bip_39_word_space_8: hotel dinner orient custom popular label rack solve
 bip_39_word_space_9: hotel dinner orient custom popular label rack solve tooth
+bip_39_word_underscore_1: hotel
+bip_39_word_underscore_10: hotel_dinner_orient_custom_popular_label_rack_solve_tooth_shine
+bip_39_word_underscore_11: hotel_dinner_orient_custom_popular_label_rack_solve_tooth_shine_funny
+bip_39_word_underscore_12: hotel_dinner_orient_custom_popular_label_rack_solve_tooth_shine_funny_absorb
+bip_39_word_underscore_2: hotel_dinner
+bip_39_word_underscore_3: hotel_dinner_orient
+bip_39_word_underscore_4: hotel_dinner_orient_custom
+bip_39_word_underscore_5: hotel_dinner_orient_custom_popular
+bip_39_word_underscore_6: hotel_dinner_orient_custom_popular_label
+bip_39_word_underscore_7: hotel_dinner_orient_custom_popular_label_rack
+bip_39_word_underscore_8: hotel_dinner_orient_custom_popular_label_rack_solve
+bip_39_word_underscore_9: hotel_dinner_orient_custom_popular_label_rack_solve_tooth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

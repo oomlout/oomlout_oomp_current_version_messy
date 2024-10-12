@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | obvious |  
+| bip_39_word_dash_10 | obvious-polar-domain-crisp-powder-street-tunnel-uncle-brush-weather |  
+| bip_39_word_dash_11 | obvious-polar-domain-crisp-powder-street-tunnel-uncle-brush-weather-author |  
+| bip_39_word_dash_12 | obvious-polar-domain-crisp-powder-street-tunnel-uncle-brush-weather-author-also |  
+| bip_39_word_dash_2 | obvious-polar |  
+| bip_39_word_dash_3 | obvious-polar-domain |  
+| bip_39_word_dash_4 | obvious-polar-domain-crisp |  
+| bip_39_word_dash_5 | obvious-polar-domain-crisp-powder |  
+| bip_39_word_dash_6 | obvious-polar-domain-crisp-powder-street |  
+| bip_39_word_dash_7 | obvious-polar-domain-crisp-powder-street-tunnel |  
+| bip_39_word_dash_8 | obvious-polar-domain-crisp-powder-street-tunnel-uncle |  
+| bip_39_word_dash_9 | obvious-polar-domain-crisp-powder-street-tunnel-uncle-brush |  
 | bip_39_word_new_br_1 | obvious |  
 | bip_39_word_new_br_10 | obvious<br>polar<br>domain<br>crisp<br>powder<br>street<br>tunnel<br>uncle<br>brush<br>weather |  
 | bip_39_word_new_br_11 | obvious<br>polar<br>domain<br>crisp<br>powder<br>street<br>tunnel<br>uncle<br>brush<br>weather<br>author |  
@@ -147,6 +159,18 @@ brush |
 | bip_39_word_space_7 | obvious polar domain crisp powder street tunnel |  
 | bip_39_word_space_8 | obvious polar domain crisp powder street tunnel uncle |  
 | bip_39_word_space_9 | obvious polar domain crisp powder street tunnel uncle brush |  
+| bip_39_word_underscore_1 | obvious |  
+| bip_39_word_underscore_10 | obvious_polar_domain_crisp_powder_street_tunnel_uncle_brush_weather |  
+| bip_39_word_underscore_11 | obvious_polar_domain_crisp_powder_street_tunnel_uncle_brush_weather_author |  
+| bip_39_word_underscore_12 | obvious_polar_domain_crisp_powder_street_tunnel_uncle_brush_weather_author_also |  
+| bip_39_word_underscore_2 | obvious_polar |  
+| bip_39_word_underscore_3 | obvious_polar_domain |  
+| bip_39_word_underscore_4 | obvious_polar_domain_crisp |  
+| bip_39_word_underscore_5 | obvious_polar_domain_crisp_powder |  
+| bip_39_word_underscore_6 | obvious_polar_domain_crisp_powder_street |  
+| bip_39_word_underscore_7 | obvious_polar_domain_crisp_powder_street_tunnel |  
+| bip_39_word_underscore_8 | obvious_polar_domain_crisp_powder_street_tunnel_uncle |  
+| bip_39_word_underscore_9 | obvious_polar_domain_crisp_powder_street_tunnel_uncle_brush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

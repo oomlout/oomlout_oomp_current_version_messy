@@ -1,3 +1,15 @@
+bip_39_word_dash_1: end
+bip_39_word_dash_10: end-clock-pond-salon-birth-total-analyst-around-zebra-split
+bip_39_word_dash_11: end-clock-pond-salon-birth-total-analyst-around-zebra-split-cupboard
+bip_39_word_dash_12: end-clock-pond-salon-birth-total-analyst-around-zebra-split-cupboard-achieve
+bip_39_word_dash_2: end-clock
+bip_39_word_dash_3: end-clock-pond
+bip_39_word_dash_4: end-clock-pond-salon
+bip_39_word_dash_5: end-clock-pond-salon-birth
+bip_39_word_dash_6: end-clock-pond-salon-birth-total
+bip_39_word_dash_7: end-clock-pond-salon-birth-total-analyst
+bip_39_word_dash_8: end-clock-pond-salon-birth-total-analyst-around
+bip_39_word_dash_9: end-clock-pond-salon-birth-total-analyst-around-zebra
 bip_39_word_new_br_1: end
 bip_39_word_new_br_10: end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split
 bip_39_word_new_br_11: end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split<br>cupboard
@@ -193,6 +205,18 @@ bip_39_word_space_6: end clock pond salon birth total
 bip_39_word_space_7: end clock pond salon birth total analyst
 bip_39_word_space_8: end clock pond salon birth total analyst around
 bip_39_word_space_9: end clock pond salon birth total analyst around zebra
+bip_39_word_underscore_1: end
+bip_39_word_underscore_10: end_clock_pond_salon_birth_total_analyst_around_zebra_split
+bip_39_word_underscore_11: end_clock_pond_salon_birth_total_analyst_around_zebra_split_cupboard
+bip_39_word_underscore_12: end_clock_pond_salon_birth_total_analyst_around_zebra_split_cupboard_achieve
+bip_39_word_underscore_2: end_clock
+bip_39_word_underscore_3: end_clock_pond
+bip_39_word_underscore_4: end_clock_pond_salon
+bip_39_word_underscore_5: end_clock_pond_salon_birth
+bip_39_word_underscore_6: end_clock_pond_salon_birth_total
+bip_39_word_underscore_7: end_clock_pond_salon_birth_total_analyst
+bip_39_word_underscore_8: end_clock_pond_salon_birth_total_analyst_around
+bip_39_word_underscore_9: end_clock_pond_salon_birth_total_analyst_around_zebra
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

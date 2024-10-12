@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | auto |  
+| bip_39_word_dash_10 | auto-earn-birth-view-bargain-can-stadium-hotel-sponsor-wide |  
+| bip_39_word_dash_11 | auto-earn-birth-view-bargain-can-stadium-hotel-sponsor-wide-plug |  
+| bip_39_word_dash_12 | auto-earn-birth-view-bargain-can-stadium-hotel-sponsor-wide-plug-account |  
+| bip_39_word_dash_2 | auto-earn |  
+| bip_39_word_dash_3 | auto-earn-birth |  
+| bip_39_word_dash_4 | auto-earn-birth-view |  
+| bip_39_word_dash_5 | auto-earn-birth-view-bargain |  
+| bip_39_word_dash_6 | auto-earn-birth-view-bargain-can |  
+| bip_39_word_dash_7 | auto-earn-birth-view-bargain-can-stadium |  
+| bip_39_word_dash_8 | auto-earn-birth-view-bargain-can-stadium-hotel |  
+| bip_39_word_dash_9 | auto-earn-birth-view-bargain-can-stadium-hotel-sponsor |  
 | bip_39_word_new_br_1 | auto |  
 | bip_39_word_new_br_10 | auto<br>earn<br>birth<br>view<br>bargain<br>can<br>stadium<br>hotel<br>sponsor<br>wide |  
 | bip_39_word_new_br_11 | auto<br>earn<br>birth<br>view<br>bargain<br>can<br>stadium<br>hotel<br>sponsor<br>wide<br>plug |  
@@ -147,6 +159,18 @@ sponsor |
 | bip_39_word_space_7 | auto earn birth view bargain can stadium |  
 | bip_39_word_space_8 | auto earn birth view bargain can stadium hotel |  
 | bip_39_word_space_9 | auto earn birth view bargain can stadium hotel sponsor |  
+| bip_39_word_underscore_1 | auto |  
+| bip_39_word_underscore_10 | auto_earn_birth_view_bargain_can_stadium_hotel_sponsor_wide |  
+| bip_39_word_underscore_11 | auto_earn_birth_view_bargain_can_stadium_hotel_sponsor_wide_plug |  
+| bip_39_word_underscore_12 | auto_earn_birth_view_bargain_can_stadium_hotel_sponsor_wide_plug_account |  
+| bip_39_word_underscore_2 | auto_earn |  
+| bip_39_word_underscore_3 | auto_earn_birth |  
+| bip_39_word_underscore_4 | auto_earn_birth_view |  
+| bip_39_word_underscore_5 | auto_earn_birth_view_bargain |  
+| bip_39_word_underscore_6 | auto_earn_birth_view_bargain_can |  
+| bip_39_word_underscore_7 | auto_earn_birth_view_bargain_can_stadium |  
+| bip_39_word_underscore_8 | auto_earn_birth_view_bargain_can_stadium_hotel |  
+| bip_39_word_underscore_9 | auto_earn_birth_view_bargain_can_stadium_hotel_sponsor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

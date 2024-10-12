@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nature |  
+| bip_39_word_dash_10 | nature-cradle-pause-lab-acoustic-december-confirm-regular-uncover-stock |  
+| bip_39_word_dash_11 | nature-cradle-pause-lab-acoustic-december-confirm-regular-uncover-stock-antenna |  
+| bip_39_word_dash_12 | nature-cradle-pause-lab-acoustic-december-confirm-regular-uncover-stock-antenna-amused |  
+| bip_39_word_dash_2 | nature-cradle |  
+| bip_39_word_dash_3 | nature-cradle-pause |  
+| bip_39_word_dash_4 | nature-cradle-pause-lab |  
+| bip_39_word_dash_5 | nature-cradle-pause-lab-acoustic |  
+| bip_39_word_dash_6 | nature-cradle-pause-lab-acoustic-december |  
+| bip_39_word_dash_7 | nature-cradle-pause-lab-acoustic-december-confirm |  
+| bip_39_word_dash_8 | nature-cradle-pause-lab-acoustic-december-confirm-regular |  
+| bip_39_word_dash_9 | nature-cradle-pause-lab-acoustic-december-confirm-regular-uncover |  
 | bip_39_word_new_br_1 | nature |  
 | bip_39_word_new_br_10 | nature<br>cradle<br>pause<br>lab<br>acoustic<br>december<br>confirm<br>regular<br>uncover<br>stock |  
 | bip_39_word_new_br_11 | nature<br>cradle<br>pause<br>lab<br>acoustic<br>december<br>confirm<br>regular<br>uncover<br>stock<br>antenna |  
@@ -147,6 +159,18 @@ uncover |
 | bip_39_word_space_7 | nature cradle pause lab acoustic december confirm |  
 | bip_39_word_space_8 | nature cradle pause lab acoustic december confirm regular |  
 | bip_39_word_space_9 | nature cradle pause lab acoustic december confirm regular uncover |  
+| bip_39_word_underscore_1 | nature |  
+| bip_39_word_underscore_10 | nature_cradle_pause_lab_acoustic_december_confirm_regular_uncover_stock |  
+| bip_39_word_underscore_11 | nature_cradle_pause_lab_acoustic_december_confirm_regular_uncover_stock_antenna |  
+| bip_39_word_underscore_12 | nature_cradle_pause_lab_acoustic_december_confirm_regular_uncover_stock_antenna_amused |  
+| bip_39_word_underscore_2 | nature_cradle |  
+| bip_39_word_underscore_3 | nature_cradle_pause |  
+| bip_39_word_underscore_4 | nature_cradle_pause_lab |  
+| bip_39_word_underscore_5 | nature_cradle_pause_lab_acoustic |  
+| bip_39_word_underscore_6 | nature_cradle_pause_lab_acoustic_december |  
+| bip_39_word_underscore_7 | nature_cradle_pause_lab_acoustic_december_confirm |  
+| bip_39_word_underscore_8 | nature_cradle_pause_lab_acoustic_december_confirm_regular |  
+| bip_39_word_underscore_9 | nature_cradle_pause_lab_acoustic_december_confirm_regular_uncover |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

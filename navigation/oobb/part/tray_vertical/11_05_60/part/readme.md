@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hospital |  
+| bip_39_word_dash_10 | hospital-method-feel-chief-suggest-sorry-midnight-illness-cactus-jar |  
+| bip_39_word_dash_11 | hospital-method-feel-chief-suggest-sorry-midnight-illness-cactus-jar-avoid |  
+| bip_39_word_dash_12 | hospital-method-feel-chief-suggest-sorry-midnight-illness-cactus-jar-avoid-adult |  
+| bip_39_word_dash_2 | hospital-method |  
+| bip_39_word_dash_3 | hospital-method-feel |  
+| bip_39_word_dash_4 | hospital-method-feel-chief |  
+| bip_39_word_dash_5 | hospital-method-feel-chief-suggest |  
+| bip_39_word_dash_6 | hospital-method-feel-chief-suggest-sorry |  
+| bip_39_word_dash_7 | hospital-method-feel-chief-suggest-sorry-midnight |  
+| bip_39_word_dash_8 | hospital-method-feel-chief-suggest-sorry-midnight-illness |  
+| bip_39_word_dash_9 | hospital-method-feel-chief-suggest-sorry-midnight-illness-cactus |  
 | bip_39_word_new_br_1 | hospital |  
 | bip_39_word_new_br_10 | hospital<br>method<br>feel<br>chief<br>suggest<br>sorry<br>midnight<br>illness<br>cactus<br>jar |  
 | bip_39_word_new_br_11 | hospital<br>method<br>feel<br>chief<br>suggest<br>sorry<br>midnight<br>illness<br>cactus<br>jar<br>avoid |  
@@ -147,6 +159,18 @@ cactus |
 | bip_39_word_space_7 | hospital method feel chief suggest sorry midnight |  
 | bip_39_word_space_8 | hospital method feel chief suggest sorry midnight illness |  
 | bip_39_word_space_9 | hospital method feel chief suggest sorry midnight illness cactus |  
+| bip_39_word_underscore_1 | hospital |  
+| bip_39_word_underscore_10 | hospital_method_feel_chief_suggest_sorry_midnight_illness_cactus_jar |  
+| bip_39_word_underscore_11 | hospital_method_feel_chief_suggest_sorry_midnight_illness_cactus_jar_avoid |  
+| bip_39_word_underscore_12 | hospital_method_feel_chief_suggest_sorry_midnight_illness_cactus_jar_avoid_adult |  
+| bip_39_word_underscore_2 | hospital_method |  
+| bip_39_word_underscore_3 | hospital_method_feel |  
+| bip_39_word_underscore_4 | hospital_method_feel_chief |  
+| bip_39_word_underscore_5 | hospital_method_feel_chief_suggest |  
+| bip_39_word_underscore_6 | hospital_method_feel_chief_suggest_sorry |  
+| bip_39_word_underscore_7 | hospital_method_feel_chief_suggest_sorry_midnight |  
+| bip_39_word_underscore_8 | hospital_method_feel_chief_suggest_sorry_midnight_illness |  
+| bip_39_word_underscore_9 | hospital_method_feel_chief_suggest_sorry_midnight_illness_cactus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

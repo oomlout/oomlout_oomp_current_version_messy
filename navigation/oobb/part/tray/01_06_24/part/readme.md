@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hand |  
+| bip_39_word_dash_10 | hand-industry-elegant-fatal-viable-dress-opera-person-custom-dolphin |  
+| bip_39_word_dash_11 | hand-industry-elegant-fatal-viable-dress-opera-person-custom-dolphin-north |  
+| bip_39_word_dash_12 | hand-industry-elegant-fatal-viable-dress-opera-person-custom-dolphin-north-asset |  
+| bip_39_word_dash_2 | hand-industry |  
+| bip_39_word_dash_3 | hand-industry-elegant |  
+| bip_39_word_dash_4 | hand-industry-elegant-fatal |  
+| bip_39_word_dash_5 | hand-industry-elegant-fatal-viable |  
+| bip_39_word_dash_6 | hand-industry-elegant-fatal-viable-dress |  
+| bip_39_word_dash_7 | hand-industry-elegant-fatal-viable-dress-opera |  
+| bip_39_word_dash_8 | hand-industry-elegant-fatal-viable-dress-opera-person |  
+| bip_39_word_dash_9 | hand-industry-elegant-fatal-viable-dress-opera-person-custom |  
 | bip_39_word_new_br_1 | hand |  
 | bip_39_word_new_br_10 | hand<br>industry<br>elegant<br>fatal<br>viable<br>dress<br>opera<br>person<br>custom<br>dolphin |  
 | bip_39_word_new_br_11 | hand<br>industry<br>elegant<br>fatal<br>viable<br>dress<br>opera<br>person<br>custom<br>dolphin<br>north |  
@@ -147,6 +159,18 @@ custom |
 | bip_39_word_space_7 | hand industry elegant fatal viable dress opera |  
 | bip_39_word_space_8 | hand industry elegant fatal viable dress opera person |  
 | bip_39_word_space_9 | hand industry elegant fatal viable dress opera person custom |  
+| bip_39_word_underscore_1 | hand |  
+| bip_39_word_underscore_10 | hand_industry_elegant_fatal_viable_dress_opera_person_custom_dolphin |  
+| bip_39_word_underscore_11 | hand_industry_elegant_fatal_viable_dress_opera_person_custom_dolphin_north |  
+| bip_39_word_underscore_12 | hand_industry_elegant_fatal_viable_dress_opera_person_custom_dolphin_north_asset |  
+| bip_39_word_underscore_2 | hand_industry |  
+| bip_39_word_underscore_3 | hand_industry_elegant |  
+| bip_39_word_underscore_4 | hand_industry_elegant_fatal |  
+| bip_39_word_underscore_5 | hand_industry_elegant_fatal_viable |  
+| bip_39_word_underscore_6 | hand_industry_elegant_fatal_viable_dress |  
+| bip_39_word_underscore_7 | hand_industry_elegant_fatal_viable_dress_opera |  
+| bip_39_word_underscore_8 | hand_industry_elegant_fatal_viable_dress_opera_person |  
+| bip_39_word_underscore_9 | hand_industry_elegant_fatal_viable_dress_opera_person_custom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

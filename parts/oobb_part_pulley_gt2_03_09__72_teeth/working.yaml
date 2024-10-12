@@ -1,3 +1,15 @@
+bip_39_word_dash_1: elephant
+bip_39_word_dash_10: elephant-original-cloud-dignity-february-surround-horn-copy-now-orbit
+bip_39_word_dash_11: elephant-original-cloud-dignity-february-surround-horn-copy-now-orbit-carry
+bip_39_word_dash_12: elephant-original-cloud-dignity-february-surround-horn-copy-now-orbit-carry-audit
+bip_39_word_dash_2: elephant-original
+bip_39_word_dash_3: elephant-original-cloud
+bip_39_word_dash_4: elephant-original-cloud-dignity
+bip_39_word_dash_5: elephant-original-cloud-dignity-february
+bip_39_word_dash_6: elephant-original-cloud-dignity-february-surround
+bip_39_word_dash_7: elephant-original-cloud-dignity-february-surround-horn
+bip_39_word_dash_8: elephant-original-cloud-dignity-february-surround-horn-copy
+bip_39_word_dash_9: elephant-original-cloud-dignity-february-surround-horn-copy-now
 bip_39_word_new_br_1: elephant
 bip_39_word_new_br_10: elephant<br>original<br>cloud<br>dignity<br>february<br>surround<br>horn<br>copy<br>now<br>orbit
 bip_39_word_new_br_11: elephant<br>original<br>cloud<br>dignity<br>february<br>surround<br>horn<br>copy<br>now<br>orbit<br>carry
@@ -194,6 +206,18 @@ bip_39_word_space_6: elephant original cloud dignity february surround
 bip_39_word_space_7: elephant original cloud dignity february surround horn
 bip_39_word_space_8: elephant original cloud dignity february surround horn copy
 bip_39_word_space_9: elephant original cloud dignity february surround horn copy now
+bip_39_word_underscore_1: elephant
+bip_39_word_underscore_10: elephant_original_cloud_dignity_february_surround_horn_copy_now_orbit
+bip_39_word_underscore_11: elephant_original_cloud_dignity_february_surround_horn_copy_now_orbit_carry
+bip_39_word_underscore_12: elephant_original_cloud_dignity_february_surround_horn_copy_now_orbit_carry_audit
+bip_39_word_underscore_2: elephant_original
+bip_39_word_underscore_3: elephant_original_cloud
+bip_39_word_underscore_4: elephant_original_cloud_dignity
+bip_39_word_underscore_5: elephant_original_cloud_dignity_february
+bip_39_word_underscore_6: elephant_original_cloud_dignity_february_surround
+bip_39_word_underscore_7: elephant_original_cloud_dignity_february_surround_horn
+bip_39_word_underscore_8: elephant_original_cloud_dignity_february_surround_horn_copy
+bip_39_word_underscore_9: elephant_original_cloud_dignity_february_surround_horn_copy_now
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

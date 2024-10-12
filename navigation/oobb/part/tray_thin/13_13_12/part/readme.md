@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | neither |  
+| bip_39_word_dash_10 | neither-heavy-motion-bright-begin-please-glory-limit-fan-clean |  
+| bip_39_word_dash_11 | neither-heavy-motion-bright-begin-please-glory-limit-fan-clean-enhance |  
+| bip_39_word_dash_12 | neither-heavy-motion-bright-begin-please-glory-limit-fan-clean-enhance-arrange |  
+| bip_39_word_dash_2 | neither-heavy |  
+| bip_39_word_dash_3 | neither-heavy-motion |  
+| bip_39_word_dash_4 | neither-heavy-motion-bright |  
+| bip_39_word_dash_5 | neither-heavy-motion-bright-begin |  
+| bip_39_word_dash_6 | neither-heavy-motion-bright-begin-please |  
+| bip_39_word_dash_7 | neither-heavy-motion-bright-begin-please-glory |  
+| bip_39_word_dash_8 | neither-heavy-motion-bright-begin-please-glory-limit |  
+| bip_39_word_dash_9 | neither-heavy-motion-bright-begin-please-glory-limit-fan |  
 | bip_39_word_new_br_1 | neither |  
 | bip_39_word_new_br_10 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean |  
 | bip_39_word_new_br_11 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean<br>enhance |  
@@ -147,6 +159,18 @@ fan |
 | bip_39_word_space_7 | neither heavy motion bright begin please glory |  
 | bip_39_word_space_8 | neither heavy motion bright begin please glory limit |  
 | bip_39_word_space_9 | neither heavy motion bright begin please glory limit fan |  
+| bip_39_word_underscore_1 | neither |  
+| bip_39_word_underscore_10 | neither_heavy_motion_bright_begin_please_glory_limit_fan_clean |  
+| bip_39_word_underscore_11 | neither_heavy_motion_bright_begin_please_glory_limit_fan_clean_enhance |  
+| bip_39_word_underscore_12 | neither_heavy_motion_bright_begin_please_glory_limit_fan_clean_enhance_arrange |  
+| bip_39_word_underscore_2 | neither_heavy |  
+| bip_39_word_underscore_3 | neither_heavy_motion |  
+| bip_39_word_underscore_4 | neither_heavy_motion_bright |  
+| bip_39_word_underscore_5 | neither_heavy_motion_bright_begin |  
+| bip_39_word_underscore_6 | neither_heavy_motion_bright_begin_please |  
+| bip_39_word_underscore_7 | neither_heavy_motion_bright_begin_please_glory |  
+| bip_39_word_underscore_8 | neither_heavy_motion_bright_begin_please_glory_limit |  
+| bip_39_word_underscore_9 | neither_heavy_motion_bright_begin_please_glory_limit_fan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

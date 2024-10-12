@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tissue
+bip_39_word_dash_10: tissue-normal-depart-ridge-month-hole-divert-gallery-tray-mountain
+bip_39_word_dash_11: tissue-normal-depart-ridge-month-hole-divert-gallery-tray-mountain-peanut
+bip_39_word_dash_12: tissue-normal-depart-ridge-month-hole-divert-gallery-tray-mountain-peanut-angle
+bip_39_word_dash_2: tissue-normal
+bip_39_word_dash_3: tissue-normal-depart
+bip_39_word_dash_4: tissue-normal-depart-ridge
+bip_39_word_dash_5: tissue-normal-depart-ridge-month
+bip_39_word_dash_6: tissue-normal-depart-ridge-month-hole
+bip_39_word_dash_7: tissue-normal-depart-ridge-month-hole-divert
+bip_39_word_dash_8: tissue-normal-depart-ridge-month-hole-divert-gallery
+bip_39_word_dash_9: tissue-normal-depart-ridge-month-hole-divert-gallery-tray
 bip_39_word_new_br_1: tissue
 bip_39_word_new_br_10: tissue<br>normal<br>depart<br>ridge<br>month<br>hole<br>divert<br>gallery<br>tray<br>mountain
 bip_39_word_new_br_11: tissue<br>normal<br>depart<br>ridge<br>month<br>hole<br>divert<br>gallery<br>tray<br>mountain<br>peanut
@@ -193,6 +205,18 @@ bip_39_word_space_6: tissue normal depart ridge month hole
 bip_39_word_space_7: tissue normal depart ridge month hole divert
 bip_39_word_space_8: tissue normal depart ridge month hole divert gallery
 bip_39_word_space_9: tissue normal depart ridge month hole divert gallery tray
+bip_39_word_underscore_1: tissue
+bip_39_word_underscore_10: tissue_normal_depart_ridge_month_hole_divert_gallery_tray_mountain
+bip_39_word_underscore_11: tissue_normal_depart_ridge_month_hole_divert_gallery_tray_mountain_peanut
+bip_39_word_underscore_12: tissue_normal_depart_ridge_month_hole_divert_gallery_tray_mountain_peanut_angle
+bip_39_word_underscore_2: tissue_normal
+bip_39_word_underscore_3: tissue_normal_depart
+bip_39_word_underscore_4: tissue_normal_depart_ridge
+bip_39_word_underscore_5: tissue_normal_depart_ridge_month
+bip_39_word_underscore_6: tissue_normal_depart_ridge_month_hole
+bip_39_word_underscore_7: tissue_normal_depart_ridge_month_hole_divert
+bip_39_word_underscore_8: tissue_normal_depart_ridge_month_hole_divert_gallery
+bip_39_word_underscore_9: tissue_normal_depart_ridge_month_hole_divert_gallery_tray
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

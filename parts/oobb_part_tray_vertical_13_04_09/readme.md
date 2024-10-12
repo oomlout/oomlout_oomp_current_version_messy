@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | axis |  
+| bip_39_word_dash_10 | axis-soldier-sword-morning-toast-actor-wolf-stairs-text-access |  
+| bip_39_word_dash_11 | axis-soldier-sword-morning-toast-actor-wolf-stairs-text-access-rude |  
+| bip_39_word_dash_12 | axis-soldier-sword-morning-toast-actor-wolf-stairs-text-access-rude-any |  
+| bip_39_word_dash_2 | axis-soldier |  
+| bip_39_word_dash_3 | axis-soldier-sword |  
+| bip_39_word_dash_4 | axis-soldier-sword-morning |  
+| bip_39_word_dash_5 | axis-soldier-sword-morning-toast |  
+| bip_39_word_dash_6 | axis-soldier-sword-morning-toast-actor |  
+| bip_39_word_dash_7 | axis-soldier-sword-morning-toast-actor-wolf |  
+| bip_39_word_dash_8 | axis-soldier-sword-morning-toast-actor-wolf-stairs |  
+| bip_39_word_dash_9 | axis-soldier-sword-morning-toast-actor-wolf-stairs-text |  
 | bip_39_word_new_br_1 | axis |  
 | bip_39_word_new_br_10 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs<br>text<br>access |  
 | bip_39_word_new_br_11 | axis<br>soldier<br>sword<br>morning<br>toast<br>actor<br>wolf<br>stairs<br>text<br>access<br>rude |  
@@ -147,6 +159,18 @@ text |
 | bip_39_word_space_7 | axis soldier sword morning toast actor wolf |  
 | bip_39_word_space_8 | axis soldier sword morning toast actor wolf stairs |  
 | bip_39_word_space_9 | axis soldier sword morning toast actor wolf stairs text |  
+| bip_39_word_underscore_1 | axis |  
+| bip_39_word_underscore_10 | axis_soldier_sword_morning_toast_actor_wolf_stairs_text_access |  
+| bip_39_word_underscore_11 | axis_soldier_sword_morning_toast_actor_wolf_stairs_text_access_rude |  
+| bip_39_word_underscore_12 | axis_soldier_sword_morning_toast_actor_wolf_stairs_text_access_rude_any |  
+| bip_39_word_underscore_2 | axis_soldier |  
+| bip_39_word_underscore_3 | axis_soldier_sword |  
+| bip_39_word_underscore_4 | axis_soldier_sword_morning |  
+| bip_39_word_underscore_5 | axis_soldier_sword_morning_toast |  
+| bip_39_word_underscore_6 | axis_soldier_sword_morning_toast_actor |  
+| bip_39_word_underscore_7 | axis_soldier_sword_morning_toast_actor_wolf |  
+| bip_39_word_underscore_8 | axis_soldier_sword_morning_toast_actor_wolf_stairs |  
+| bip_39_word_underscore_9 | axis_soldier_sword_morning_toast_actor_wolf_stairs_text |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stage |  
+| bip_39_word_dash_10 | stage-tonight-senior-buzz-ozone-dove-buffalo-fall-insane-digital |  
+| bip_39_word_dash_11 | stage-tonight-senior-buzz-ozone-dove-buffalo-fall-insane-digital-win |  
+| bip_39_word_dash_12 | stage-tonight-senior-buzz-ozone-dove-buffalo-fall-insane-digital-win-adult |  
+| bip_39_word_dash_2 | stage-tonight |  
+| bip_39_word_dash_3 | stage-tonight-senior |  
+| bip_39_word_dash_4 | stage-tonight-senior-buzz |  
+| bip_39_word_dash_5 | stage-tonight-senior-buzz-ozone |  
+| bip_39_word_dash_6 | stage-tonight-senior-buzz-ozone-dove |  
+| bip_39_word_dash_7 | stage-tonight-senior-buzz-ozone-dove-buffalo |  
+| bip_39_word_dash_8 | stage-tonight-senior-buzz-ozone-dove-buffalo-fall |  
+| bip_39_word_dash_9 | stage-tonight-senior-buzz-ozone-dove-buffalo-fall-insane |  
 | bip_39_word_new_br_1 | stage |  
 | bip_39_word_new_br_10 | stage<br>tonight<br>senior<br>buzz<br>ozone<br>dove<br>buffalo<br>fall<br>insane<br>digital |  
 | bip_39_word_new_br_11 | stage<br>tonight<br>senior<br>buzz<br>ozone<br>dove<br>buffalo<br>fall<br>insane<br>digital<br>win |  
@@ -147,6 +159,18 @@ insane |
 | bip_39_word_space_7 | stage tonight senior buzz ozone dove buffalo |  
 | bip_39_word_space_8 | stage tonight senior buzz ozone dove buffalo fall |  
 | bip_39_word_space_9 | stage tonight senior buzz ozone dove buffalo fall insane |  
+| bip_39_word_underscore_1 | stage |  
+| bip_39_word_underscore_10 | stage_tonight_senior_buzz_ozone_dove_buffalo_fall_insane_digital |  
+| bip_39_word_underscore_11 | stage_tonight_senior_buzz_ozone_dove_buffalo_fall_insane_digital_win |  
+| bip_39_word_underscore_12 | stage_tonight_senior_buzz_ozone_dove_buffalo_fall_insane_digital_win_adult |  
+| bip_39_word_underscore_2 | stage_tonight |  
+| bip_39_word_underscore_3 | stage_tonight_senior |  
+| bip_39_word_underscore_4 | stage_tonight_senior_buzz |  
+| bip_39_word_underscore_5 | stage_tonight_senior_buzz_ozone |  
+| bip_39_word_underscore_6 | stage_tonight_senior_buzz_ozone_dove |  
+| bip_39_word_underscore_7 | stage_tonight_senior_buzz_ozone_dove_buffalo |  
+| bip_39_word_underscore_8 | stage_tonight_senior_buzz_ozone_dove_buffalo_fall |  
+| bip_39_word_underscore_9 | stage_tonight_senior_buzz_ozone_dove_buffalo_fall_insane |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

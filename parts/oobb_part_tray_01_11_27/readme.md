@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plastic |  
+| bip_39_word_dash_10 | plastic-moon-retreat-access-virtual-away-note-abandon-pipe-cage |  
+| bip_39_word_dash_11 | plastic-moon-retreat-access-virtual-away-note-abandon-pipe-cage-jaguar |  
+| bip_39_word_dash_12 | plastic-moon-retreat-access-virtual-away-note-abandon-pipe-cage-jaguar-acoustic |  
+| bip_39_word_dash_2 | plastic-moon |  
+| bip_39_word_dash_3 | plastic-moon-retreat |  
+| bip_39_word_dash_4 | plastic-moon-retreat-access |  
+| bip_39_word_dash_5 | plastic-moon-retreat-access-virtual |  
+| bip_39_word_dash_6 | plastic-moon-retreat-access-virtual-away |  
+| bip_39_word_dash_7 | plastic-moon-retreat-access-virtual-away-note |  
+| bip_39_word_dash_8 | plastic-moon-retreat-access-virtual-away-note-abandon |  
+| bip_39_word_dash_9 | plastic-moon-retreat-access-virtual-away-note-abandon-pipe |  
 | bip_39_word_new_br_1 | plastic |  
 | bip_39_word_new_br_10 | plastic<br>moon<br>retreat<br>access<br>virtual<br>away<br>note<br>abandon<br>pipe<br>cage |  
 | bip_39_word_new_br_11 | plastic<br>moon<br>retreat<br>access<br>virtual<br>away<br>note<br>abandon<br>pipe<br>cage<br>jaguar |  
@@ -147,6 +159,18 @@ pipe |
 | bip_39_word_space_7 | plastic moon retreat access virtual away note |  
 | bip_39_word_space_8 | plastic moon retreat access virtual away note abandon |  
 | bip_39_word_space_9 | plastic moon retreat access virtual away note abandon pipe |  
+| bip_39_word_underscore_1 | plastic |  
+| bip_39_word_underscore_10 | plastic_moon_retreat_access_virtual_away_note_abandon_pipe_cage |  
+| bip_39_word_underscore_11 | plastic_moon_retreat_access_virtual_away_note_abandon_pipe_cage_jaguar |  
+| bip_39_word_underscore_12 | plastic_moon_retreat_access_virtual_away_note_abandon_pipe_cage_jaguar_acoustic |  
+| bip_39_word_underscore_2 | plastic_moon |  
+| bip_39_word_underscore_3 | plastic_moon_retreat |  
+| bip_39_word_underscore_4 | plastic_moon_retreat_access |  
+| bip_39_word_underscore_5 | plastic_moon_retreat_access_virtual |  
+| bip_39_word_underscore_6 | plastic_moon_retreat_access_virtual_away |  
+| bip_39_word_underscore_7 | plastic_moon_retreat_access_virtual_away_note |  
+| bip_39_word_underscore_8 | plastic_moon_retreat_access_virtual_away_note_abandon |  
+| bip_39_word_underscore_9 | plastic_moon_retreat_access_virtual_away_note_abandon_pipe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

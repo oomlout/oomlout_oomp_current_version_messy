@@ -1,3 +1,15 @@
+bip_39_word_dash_1: neck
+bip_39_word_dash_10: neck-slogan-trip-setup-grain-pill-agent-surround-neglect-rural
+bip_39_word_dash_11: neck-slogan-trip-setup-grain-pill-agent-surround-neglect-rural-apart
+bip_39_word_dash_12: neck-slogan-trip-setup-grain-pill-agent-surround-neglect-rural-apart-asset
+bip_39_word_dash_2: neck-slogan
+bip_39_word_dash_3: neck-slogan-trip
+bip_39_word_dash_4: neck-slogan-trip-setup
+bip_39_word_dash_5: neck-slogan-trip-setup-grain
+bip_39_word_dash_6: neck-slogan-trip-setup-grain-pill
+bip_39_word_dash_7: neck-slogan-trip-setup-grain-pill-agent
+bip_39_word_dash_8: neck-slogan-trip-setup-grain-pill-agent-surround
+bip_39_word_dash_9: neck-slogan-trip-setup-grain-pill-agent-surround-neglect
 bip_39_word_new_br_1: neck
 bip_39_word_new_br_10: neck<br>slogan<br>trip<br>setup<br>grain<br>pill<br>agent<br>surround<br>neglect<br>rural
 bip_39_word_new_br_11: neck<br>slogan<br>trip<br>setup<br>grain<br>pill<br>agent<br>surround<br>neglect<br>rural<br>apart
@@ -193,6 +205,18 @@ bip_39_word_space_6: neck slogan trip setup grain pill
 bip_39_word_space_7: neck slogan trip setup grain pill agent
 bip_39_word_space_8: neck slogan trip setup grain pill agent surround
 bip_39_word_space_9: neck slogan trip setup grain pill agent surround neglect
+bip_39_word_underscore_1: neck
+bip_39_word_underscore_10: neck_slogan_trip_setup_grain_pill_agent_surround_neglect_rural
+bip_39_word_underscore_11: neck_slogan_trip_setup_grain_pill_agent_surround_neglect_rural_apart
+bip_39_word_underscore_12: neck_slogan_trip_setup_grain_pill_agent_surround_neglect_rural_apart_asset
+bip_39_word_underscore_2: neck_slogan
+bip_39_word_underscore_3: neck_slogan_trip
+bip_39_word_underscore_4: neck_slogan_trip_setup
+bip_39_word_underscore_5: neck_slogan_trip_setup_grain
+bip_39_word_underscore_6: neck_slogan_trip_setup_grain_pill
+bip_39_word_underscore_7: neck_slogan_trip_setup_grain_pill_agent
+bip_39_word_underscore_8: neck_slogan_trip_setup_grain_pill_agent_surround
+bip_39_word_underscore_9: neck_slogan_trip_setup_grain_pill_agent_surround_neglect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

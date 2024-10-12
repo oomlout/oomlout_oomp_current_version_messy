@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toe |  
+| bip_39_word_dash_10 | toe-beach-ensure-escape-option-moment-promote-more-vendor-unaware |  
+| bip_39_word_dash_11 | toe-beach-ensure-escape-option-moment-promote-more-vendor-unaware-shallow |  
+| bip_39_word_dash_12 | toe-beach-ensure-escape-option-moment-promote-more-vendor-unaware-shallow-attract |  
+| bip_39_word_dash_2 | toe-beach |  
+| bip_39_word_dash_3 | toe-beach-ensure |  
+| bip_39_word_dash_4 | toe-beach-ensure-escape |  
+| bip_39_word_dash_5 | toe-beach-ensure-escape-option |  
+| bip_39_word_dash_6 | toe-beach-ensure-escape-option-moment |  
+| bip_39_word_dash_7 | toe-beach-ensure-escape-option-moment-promote |  
+| bip_39_word_dash_8 | toe-beach-ensure-escape-option-moment-promote-more |  
+| bip_39_word_dash_9 | toe-beach-ensure-escape-option-moment-promote-more-vendor |  
 | bip_39_word_new_br_1 | toe |  
 | bip_39_word_new_br_10 | toe<br>beach<br>ensure<br>escape<br>option<br>moment<br>promote<br>more<br>vendor<br>unaware |  
 | bip_39_word_new_br_11 | toe<br>beach<br>ensure<br>escape<br>option<br>moment<br>promote<br>more<br>vendor<br>unaware<br>shallow |  
@@ -147,6 +159,18 @@ vendor |
 | bip_39_word_space_7 | toe beach ensure escape option moment promote |  
 | bip_39_word_space_8 | toe beach ensure escape option moment promote more |  
 | bip_39_word_space_9 | toe beach ensure escape option moment promote more vendor |  
+| bip_39_word_underscore_1 | toe |  
+| bip_39_word_underscore_10 | toe_beach_ensure_escape_option_moment_promote_more_vendor_unaware |  
+| bip_39_word_underscore_11 | toe_beach_ensure_escape_option_moment_promote_more_vendor_unaware_shallow |  
+| bip_39_word_underscore_12 | toe_beach_ensure_escape_option_moment_promote_more_vendor_unaware_shallow_attract |  
+| bip_39_word_underscore_2 | toe_beach |  
+| bip_39_word_underscore_3 | toe_beach_ensure |  
+| bip_39_word_underscore_4 | toe_beach_ensure_escape |  
+| bip_39_word_underscore_5 | toe_beach_ensure_escape_option |  
+| bip_39_word_underscore_6 | toe_beach_ensure_escape_option_moment |  
+| bip_39_word_underscore_7 | toe_beach_ensure_escape_option_moment_promote |  
+| bip_39_word_underscore_8 | toe_beach_ensure_escape_option_moment_promote_more |  
+| bip_39_word_underscore_9 | toe_beach_ensure_escape_option_moment_promote_more_vendor |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flame |  
+| bip_39_word_dash_10 | flame-foster-that-dress-inform-hello-abuse-roast-hawk-badge |  
+| bip_39_word_dash_11 | flame-foster-that-dress-inform-hello-abuse-roast-hawk-badge-surround |  
+| bip_39_word_dash_12 | flame-foster-that-dress-inform-hello-abuse-roast-hawk-badge-surround-around |  
+| bip_39_word_dash_2 | flame-foster |  
+| bip_39_word_dash_3 | flame-foster-that |  
+| bip_39_word_dash_4 | flame-foster-that-dress |  
+| bip_39_word_dash_5 | flame-foster-that-dress-inform |  
+| bip_39_word_dash_6 | flame-foster-that-dress-inform-hello |  
+| bip_39_word_dash_7 | flame-foster-that-dress-inform-hello-abuse |  
+| bip_39_word_dash_8 | flame-foster-that-dress-inform-hello-abuse-roast |  
+| bip_39_word_dash_9 | flame-foster-that-dress-inform-hello-abuse-roast-hawk |  
 | bip_39_word_new_br_1 | flame |  
 | bip_39_word_new_br_10 | flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast<br>hawk<br>badge |  
 | bip_39_word_new_br_11 | flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast<br>hawk<br>badge<br>surround |  
@@ -147,6 +159,18 @@ hawk |
 | bip_39_word_space_7 | flame foster that dress inform hello abuse |  
 | bip_39_word_space_8 | flame foster that dress inform hello abuse roast |  
 | bip_39_word_space_9 | flame foster that dress inform hello abuse roast hawk |  
+| bip_39_word_underscore_1 | flame |  
+| bip_39_word_underscore_10 | flame_foster_that_dress_inform_hello_abuse_roast_hawk_badge |  
+| bip_39_word_underscore_11 | flame_foster_that_dress_inform_hello_abuse_roast_hawk_badge_surround |  
+| bip_39_word_underscore_12 | flame_foster_that_dress_inform_hello_abuse_roast_hawk_badge_surround_around |  
+| bip_39_word_underscore_2 | flame_foster |  
+| bip_39_word_underscore_3 | flame_foster_that |  
+| bip_39_word_underscore_4 | flame_foster_that_dress |  
+| bip_39_word_underscore_5 | flame_foster_that_dress_inform |  
+| bip_39_word_underscore_6 | flame_foster_that_dress_inform_hello |  
+| bip_39_word_underscore_7 | flame_foster_that_dress_inform_hello_abuse |  
+| bip_39_word_underscore_8 | flame_foster_that_dress_inform_hello_abuse_roast |  
+| bip_39_word_underscore_9 | flame_foster_that_dress_inform_hello_abuse_roast_hawk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

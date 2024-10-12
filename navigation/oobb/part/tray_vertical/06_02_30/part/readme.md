@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | connect |  
+| bip_39_word_dash_10 | connect-broccoli-retreat-emerge-hockey-like-deny-coach-hurdle-grape |  
+| bip_39_word_dash_11 | connect-broccoli-retreat-emerge-hockey-like-deny-coach-hurdle-grape-cat |  
+| bip_39_word_dash_12 | connect-broccoli-retreat-emerge-hockey-like-deny-coach-hurdle-grape-cat-agent |  
+| bip_39_word_dash_2 | connect-broccoli |  
+| bip_39_word_dash_3 | connect-broccoli-retreat |  
+| bip_39_word_dash_4 | connect-broccoli-retreat-emerge |  
+| bip_39_word_dash_5 | connect-broccoli-retreat-emerge-hockey |  
+| bip_39_word_dash_6 | connect-broccoli-retreat-emerge-hockey-like |  
+| bip_39_word_dash_7 | connect-broccoli-retreat-emerge-hockey-like-deny |  
+| bip_39_word_dash_8 | connect-broccoli-retreat-emerge-hockey-like-deny-coach |  
+| bip_39_word_dash_9 | connect-broccoli-retreat-emerge-hockey-like-deny-coach-hurdle |  
 | bip_39_word_new_br_1 | connect |  
 | bip_39_word_new_br_10 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach<br>hurdle<br>grape |  
 | bip_39_word_new_br_11 | connect<br>broccoli<br>retreat<br>emerge<br>hockey<br>like<br>deny<br>coach<br>hurdle<br>grape<br>cat |  
@@ -147,6 +159,18 @@ hurdle |
 | bip_39_word_space_7 | connect broccoli retreat emerge hockey like deny |  
 | bip_39_word_space_8 | connect broccoli retreat emerge hockey like deny coach |  
 | bip_39_word_space_9 | connect broccoli retreat emerge hockey like deny coach hurdle |  
+| bip_39_word_underscore_1 | connect |  
+| bip_39_word_underscore_10 | connect_broccoli_retreat_emerge_hockey_like_deny_coach_hurdle_grape |  
+| bip_39_word_underscore_11 | connect_broccoli_retreat_emerge_hockey_like_deny_coach_hurdle_grape_cat |  
+| bip_39_word_underscore_12 | connect_broccoli_retreat_emerge_hockey_like_deny_coach_hurdle_grape_cat_agent |  
+| bip_39_word_underscore_2 | connect_broccoli |  
+| bip_39_word_underscore_3 | connect_broccoli_retreat |  
+| bip_39_word_underscore_4 | connect_broccoli_retreat_emerge |  
+| bip_39_word_underscore_5 | connect_broccoli_retreat_emerge_hockey |  
+| bip_39_word_underscore_6 | connect_broccoli_retreat_emerge_hockey_like |  
+| bip_39_word_underscore_7 | connect_broccoli_retreat_emerge_hockey_like_deny |  
+| bip_39_word_underscore_8 | connect_broccoli_retreat_emerge_hockey_like_deny_coach |  
+| bip_39_word_underscore_9 | connect_broccoli_retreat_emerge_hockey_like_deny_coach_hurdle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

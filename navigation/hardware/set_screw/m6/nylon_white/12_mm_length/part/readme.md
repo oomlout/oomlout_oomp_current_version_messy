@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | license |  
+| bip_39_word_dash_10 | license-brother-fetch-able-eternal-decrease-struggle-suggest-flower-genre |  
+| bip_39_word_dash_11 | license-brother-fetch-able-eternal-decrease-struggle-suggest-flower-genre-twin |  
+| bip_39_word_dash_12 | license-brother-fetch-able-eternal-decrease-struggle-suggest-flower-genre-twin-artwork |  
+| bip_39_word_dash_2 | license-brother |  
+| bip_39_word_dash_3 | license-brother-fetch |  
+| bip_39_word_dash_4 | license-brother-fetch-able |  
+| bip_39_word_dash_5 | license-brother-fetch-able-eternal |  
+| bip_39_word_dash_6 | license-brother-fetch-able-eternal-decrease |  
+| bip_39_word_dash_7 | license-brother-fetch-able-eternal-decrease-struggle |  
+| bip_39_word_dash_8 | license-brother-fetch-able-eternal-decrease-struggle-suggest |  
+| bip_39_word_dash_9 | license-brother-fetch-able-eternal-decrease-struggle-suggest-flower |  
 | bip_39_word_new_br_1 | license |  
 | bip_39_word_new_br_10 | license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest<br>flower<br>genre |  
 | bip_39_word_new_br_11 | license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest<br>flower<br>genre<br>twin |  
@@ -147,6 +159,18 @@ flower |
 | bip_39_word_space_7 | license brother fetch able eternal decrease struggle |  
 | bip_39_word_space_8 | license brother fetch able eternal decrease struggle suggest |  
 | bip_39_word_space_9 | license brother fetch able eternal decrease struggle suggest flower |  
+| bip_39_word_underscore_1 | license |  
+| bip_39_word_underscore_10 | license_brother_fetch_able_eternal_decrease_struggle_suggest_flower_genre |  
+| bip_39_word_underscore_11 | license_brother_fetch_able_eternal_decrease_struggle_suggest_flower_genre_twin |  
+| bip_39_word_underscore_12 | license_brother_fetch_able_eternal_decrease_struggle_suggest_flower_genre_twin_artwork |  
+| bip_39_word_underscore_2 | license_brother |  
+| bip_39_word_underscore_3 | license_brother_fetch |  
+| bip_39_word_underscore_4 | license_brother_fetch_able |  
+| bip_39_word_underscore_5 | license_brother_fetch_able_eternal |  
+| bip_39_word_underscore_6 | license_brother_fetch_able_eternal_decrease |  
+| bip_39_word_underscore_7 | license_brother_fetch_able_eternal_decrease_struggle |  
+| bip_39_word_underscore_8 | license_brother_fetch_able_eternal_decrease_struggle_suggest |  
+| bip_39_word_underscore_9 | license_brother_fetch_able_eternal_decrease_struggle_suggest_flower |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

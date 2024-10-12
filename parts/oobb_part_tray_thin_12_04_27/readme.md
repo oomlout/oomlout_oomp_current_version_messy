@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | poverty |  
+| bip_39_word_dash_10 | poverty-shy-plug-butter-city-cup-below-soul-prosper-arrest |  
+| bip_39_word_dash_11 | poverty-shy-plug-butter-city-cup-below-soul-prosper-arrest-rural |  
+| bip_39_word_dash_12 | poverty-shy-plug-butter-city-cup-below-soul-prosper-arrest-rural-ahead |  
+| bip_39_word_dash_2 | poverty-shy |  
+| bip_39_word_dash_3 | poverty-shy-plug |  
+| bip_39_word_dash_4 | poverty-shy-plug-butter |  
+| bip_39_word_dash_5 | poverty-shy-plug-butter-city |  
+| bip_39_word_dash_6 | poverty-shy-plug-butter-city-cup |  
+| bip_39_word_dash_7 | poverty-shy-plug-butter-city-cup-below |  
+| bip_39_word_dash_8 | poverty-shy-plug-butter-city-cup-below-soul |  
+| bip_39_word_dash_9 | poverty-shy-plug-butter-city-cup-below-soul-prosper |  
 | bip_39_word_new_br_1 | poverty |  
 | bip_39_word_new_br_10 | poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul<br>prosper<br>arrest |  
 | bip_39_word_new_br_11 | poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul<br>prosper<br>arrest<br>rural |  
@@ -147,6 +159,18 @@ prosper |
 | bip_39_word_space_7 | poverty shy plug butter city cup below |  
 | bip_39_word_space_8 | poverty shy plug butter city cup below soul |  
 | bip_39_word_space_9 | poverty shy plug butter city cup below soul prosper |  
+| bip_39_word_underscore_1 | poverty |  
+| bip_39_word_underscore_10 | poverty_shy_plug_butter_city_cup_below_soul_prosper_arrest |  
+| bip_39_word_underscore_11 | poverty_shy_plug_butter_city_cup_below_soul_prosper_arrest_rural |  
+| bip_39_word_underscore_12 | poverty_shy_plug_butter_city_cup_below_soul_prosper_arrest_rural_ahead |  
+| bip_39_word_underscore_2 | poverty_shy |  
+| bip_39_word_underscore_3 | poverty_shy_plug |  
+| bip_39_word_underscore_4 | poverty_shy_plug_butter |  
+| bip_39_word_underscore_5 | poverty_shy_plug_butter_city |  
+| bip_39_word_underscore_6 | poverty_shy_plug_butter_city_cup |  
+| bip_39_word_underscore_7 | poverty_shy_plug_butter_city_cup_below |  
+| bip_39_word_underscore_8 | poverty_shy_plug_butter_city_cup_below_soul |  
+| bip_39_word_underscore_9 | poverty_shy_plug_butter_city_cup_below_soul_prosper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

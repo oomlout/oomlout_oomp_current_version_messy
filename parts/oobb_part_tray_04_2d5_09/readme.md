@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | about |  
+| bip_39_word_dash_10 | about-pill-owner-valve-since-memory-quantum-arrest-paddle-inherit |  
+| bip_39_word_dash_11 | about-pill-owner-valve-since-memory-quantum-arrest-paddle-inherit-basic |  
+| bip_39_word_dash_12 | about-pill-owner-valve-since-memory-quantum-arrest-paddle-inherit-basic-acquire |  
+| bip_39_word_dash_2 | about-pill |  
+| bip_39_word_dash_3 | about-pill-owner |  
+| bip_39_word_dash_4 | about-pill-owner-valve |  
+| bip_39_word_dash_5 | about-pill-owner-valve-since |  
+| bip_39_word_dash_6 | about-pill-owner-valve-since-memory |  
+| bip_39_word_dash_7 | about-pill-owner-valve-since-memory-quantum |  
+| bip_39_word_dash_8 | about-pill-owner-valve-since-memory-quantum-arrest |  
+| bip_39_word_dash_9 | about-pill-owner-valve-since-memory-quantum-arrest-paddle |  
 | bip_39_word_new_br_1 | about |  
 | bip_39_word_new_br_10 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit |  
 | bip_39_word_new_br_11 | about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit<br>basic |  
@@ -147,6 +159,18 @@ paddle |
 | bip_39_word_space_7 | about pill owner valve since memory quantum |  
 | bip_39_word_space_8 | about pill owner valve since memory quantum arrest |  
 | bip_39_word_space_9 | about pill owner valve since memory quantum arrest paddle |  
+| bip_39_word_underscore_1 | about |  
+| bip_39_word_underscore_10 | about_pill_owner_valve_since_memory_quantum_arrest_paddle_inherit |  
+| bip_39_word_underscore_11 | about_pill_owner_valve_since_memory_quantum_arrest_paddle_inherit_basic |  
+| bip_39_word_underscore_12 | about_pill_owner_valve_since_memory_quantum_arrest_paddle_inherit_basic_acquire |  
+| bip_39_word_underscore_2 | about_pill |  
+| bip_39_word_underscore_3 | about_pill_owner |  
+| bip_39_word_underscore_4 | about_pill_owner_valve |  
+| bip_39_word_underscore_5 | about_pill_owner_valve_since |  
+| bip_39_word_underscore_6 | about_pill_owner_valve_since_memory |  
+| bip_39_word_underscore_7 | about_pill_owner_valve_since_memory_quantum |  
+| bip_39_word_underscore_8 | about_pill_owner_valve_since_memory_quantum_arrest |  
+| bip_39_word_underscore_9 | about_pill_owner_valve_since_memory_quantum_arrest_paddle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

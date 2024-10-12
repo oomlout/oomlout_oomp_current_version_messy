@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | issue |  
+| bip_39_word_dash_10 | issue-apple-divorce-boil-hint-pledge-struggle-leave-hub-october |  
+| bip_39_word_dash_11 | issue-apple-divorce-boil-hint-pledge-struggle-leave-hub-october-reason |  
+| bip_39_word_dash_12 | issue-apple-divorce-boil-hint-pledge-struggle-leave-hub-october-reason-approve |  
+| bip_39_word_dash_2 | issue-apple |  
+| bip_39_word_dash_3 | issue-apple-divorce |  
+| bip_39_word_dash_4 | issue-apple-divorce-boil |  
+| bip_39_word_dash_5 | issue-apple-divorce-boil-hint |  
+| bip_39_word_dash_6 | issue-apple-divorce-boil-hint-pledge |  
+| bip_39_word_dash_7 | issue-apple-divorce-boil-hint-pledge-struggle |  
+| bip_39_word_dash_8 | issue-apple-divorce-boil-hint-pledge-struggle-leave |  
+| bip_39_word_dash_9 | issue-apple-divorce-boil-hint-pledge-struggle-leave-hub |  
 | bip_39_word_new_br_1 | issue |  
 | bip_39_word_new_br_10 | issue<br>apple<br>divorce<br>boil<br>hint<br>pledge<br>struggle<br>leave<br>hub<br>october |  
 | bip_39_word_new_br_11 | issue<br>apple<br>divorce<br>boil<br>hint<br>pledge<br>struggle<br>leave<br>hub<br>october<br>reason |  
@@ -147,6 +159,18 @@ hub |
 | bip_39_word_space_7 | issue apple divorce boil hint pledge struggle |  
 | bip_39_word_space_8 | issue apple divorce boil hint pledge struggle leave |  
 | bip_39_word_space_9 | issue apple divorce boil hint pledge struggle leave hub |  
+| bip_39_word_underscore_1 | issue |  
+| bip_39_word_underscore_10 | issue_apple_divorce_boil_hint_pledge_struggle_leave_hub_october |  
+| bip_39_word_underscore_11 | issue_apple_divorce_boil_hint_pledge_struggle_leave_hub_october_reason |  
+| bip_39_word_underscore_12 | issue_apple_divorce_boil_hint_pledge_struggle_leave_hub_october_reason_approve |  
+| bip_39_word_underscore_2 | issue_apple |  
+| bip_39_word_underscore_3 | issue_apple_divorce |  
+| bip_39_word_underscore_4 | issue_apple_divorce_boil |  
+| bip_39_word_underscore_5 | issue_apple_divorce_boil_hint |  
+| bip_39_word_underscore_6 | issue_apple_divorce_boil_hint_pledge |  
+| bip_39_word_underscore_7 | issue_apple_divorce_boil_hint_pledge_struggle |  
+| bip_39_word_underscore_8 | issue_apple_divorce_boil_hint_pledge_struggle_leave |  
+| bip_39_word_underscore_9 | issue_apple_divorce_boil_hint_pledge_struggle_leave_hub |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

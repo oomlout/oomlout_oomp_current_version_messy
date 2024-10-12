@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jaguar |  
+| bip_39_word_dash_10 | jaguar-topic-author-engage-sting-consider-float-glove-rifle-neutral |  
+| bip_39_word_dash_11 | jaguar-topic-author-engage-sting-consider-float-glove-rifle-neutral-spy |  
+| bip_39_word_dash_12 | jaguar-topic-author-engage-sting-consider-float-glove-rifle-neutral-spy-arrange |  
+| bip_39_word_dash_2 | jaguar-topic |  
+| bip_39_word_dash_3 | jaguar-topic-author |  
+| bip_39_word_dash_4 | jaguar-topic-author-engage |  
+| bip_39_word_dash_5 | jaguar-topic-author-engage-sting |  
+| bip_39_word_dash_6 | jaguar-topic-author-engage-sting-consider |  
+| bip_39_word_dash_7 | jaguar-topic-author-engage-sting-consider-float |  
+| bip_39_word_dash_8 | jaguar-topic-author-engage-sting-consider-float-glove |  
+| bip_39_word_dash_9 | jaguar-topic-author-engage-sting-consider-float-glove-rifle |  
 | bip_39_word_new_br_1 | jaguar |  
 | bip_39_word_new_br_10 | jaguar<br>topic<br>author<br>engage<br>sting<br>consider<br>float<br>glove<br>rifle<br>neutral |  
 | bip_39_word_new_br_11 | jaguar<br>topic<br>author<br>engage<br>sting<br>consider<br>float<br>glove<br>rifle<br>neutral<br>spy |  
@@ -147,6 +159,18 @@ rifle |
 | bip_39_word_space_7 | jaguar topic author engage sting consider float |  
 | bip_39_word_space_8 | jaguar topic author engage sting consider float glove |  
 | bip_39_word_space_9 | jaguar topic author engage sting consider float glove rifle |  
+| bip_39_word_underscore_1 | jaguar |  
+| bip_39_word_underscore_10 | jaguar_topic_author_engage_sting_consider_float_glove_rifle_neutral |  
+| bip_39_word_underscore_11 | jaguar_topic_author_engage_sting_consider_float_glove_rifle_neutral_spy |  
+| bip_39_word_underscore_12 | jaguar_topic_author_engage_sting_consider_float_glove_rifle_neutral_spy_arrange |  
+| bip_39_word_underscore_2 | jaguar_topic |  
+| bip_39_word_underscore_3 | jaguar_topic_author |  
+| bip_39_word_underscore_4 | jaguar_topic_author_engage |  
+| bip_39_word_underscore_5 | jaguar_topic_author_engage_sting |  
+| bip_39_word_underscore_6 | jaguar_topic_author_engage_sting_consider |  
+| bip_39_word_underscore_7 | jaguar_topic_author_engage_sting_consider_float |  
+| bip_39_word_underscore_8 | jaguar_topic_author_engage_sting_consider_float_glove |  
+| bip_39_word_underscore_9 | jaguar_topic_author_engage_sting_consider_float_glove_rifle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

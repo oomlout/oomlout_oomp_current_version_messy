@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | door |  
+| bip_39_word_dash_10 | door-turn-govern-live-region-toddler-isolate-fine-play-like |  
+| bip_39_word_dash_11 | door-turn-govern-live-region-toddler-isolate-fine-play-like-balcony |  
+| bip_39_word_dash_12 | door-turn-govern-live-region-toddler-isolate-fine-play-like-balcony-aisle |  
+| bip_39_word_dash_2 | door-turn |  
+| bip_39_word_dash_3 | door-turn-govern |  
+| bip_39_word_dash_4 | door-turn-govern-live |  
+| bip_39_word_dash_5 | door-turn-govern-live-region |  
+| bip_39_word_dash_6 | door-turn-govern-live-region-toddler |  
+| bip_39_word_dash_7 | door-turn-govern-live-region-toddler-isolate |  
+| bip_39_word_dash_8 | door-turn-govern-live-region-toddler-isolate-fine |  
+| bip_39_word_dash_9 | door-turn-govern-live-region-toddler-isolate-fine-play |  
 | bip_39_word_new_br_1 | door |  
 | bip_39_word_new_br_10 | door<br>turn<br>govern<br>live<br>region<br>toddler<br>isolate<br>fine<br>play<br>like |  
 | bip_39_word_new_br_11 | door<br>turn<br>govern<br>live<br>region<br>toddler<br>isolate<br>fine<br>play<br>like<br>balcony |  
@@ -147,6 +159,18 @@ play |
 | bip_39_word_space_7 | door turn govern live region toddler isolate |  
 | bip_39_word_space_8 | door turn govern live region toddler isolate fine |  
 | bip_39_word_space_9 | door turn govern live region toddler isolate fine play |  
+| bip_39_word_underscore_1 | door |  
+| bip_39_word_underscore_10 | door_turn_govern_live_region_toddler_isolate_fine_play_like |  
+| bip_39_word_underscore_11 | door_turn_govern_live_region_toddler_isolate_fine_play_like_balcony |  
+| bip_39_word_underscore_12 | door_turn_govern_live_region_toddler_isolate_fine_play_like_balcony_aisle |  
+| bip_39_word_underscore_2 | door_turn |  
+| bip_39_word_underscore_3 | door_turn_govern |  
+| bip_39_word_underscore_4 | door_turn_govern_live |  
+| bip_39_word_underscore_5 | door_turn_govern_live_region |  
+| bip_39_word_underscore_6 | door_turn_govern_live_region_toddler |  
+| bip_39_word_underscore_7 | door_turn_govern_live_region_toddler_isolate |  
+| bip_39_word_underscore_8 | door_turn_govern_live_region_toddler_isolate_fine |  
+| bip_39_word_underscore_9 | door_turn_govern_live_region_toddler_isolate_fine_play |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

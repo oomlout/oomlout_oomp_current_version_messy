@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | custom |  
+| bip_39_word_dash_10 | custom-borrow-about-grunt-give-head-romance-street-vivid-earth |  
+| bip_39_word_dash_11 | custom-borrow-about-grunt-give-head-romance-street-vivid-earth-quiz |  
+| bip_39_word_dash_12 | custom-borrow-about-grunt-give-head-romance-street-vivid-earth-quiz-asset |  
+| bip_39_word_dash_2 | custom-borrow |  
+| bip_39_word_dash_3 | custom-borrow-about |  
+| bip_39_word_dash_4 | custom-borrow-about-grunt |  
+| bip_39_word_dash_5 | custom-borrow-about-grunt-give |  
+| bip_39_word_dash_6 | custom-borrow-about-grunt-give-head |  
+| bip_39_word_dash_7 | custom-borrow-about-grunt-give-head-romance |  
+| bip_39_word_dash_8 | custom-borrow-about-grunt-give-head-romance-street |  
+| bip_39_word_dash_9 | custom-borrow-about-grunt-give-head-romance-street-vivid |  
 | bip_39_word_new_br_1 | custom |  
 | bip_39_word_new_br_10 | custom<br>borrow<br>about<br>grunt<br>give<br>head<br>romance<br>street<br>vivid<br>earth |  
 | bip_39_word_new_br_11 | custom<br>borrow<br>about<br>grunt<br>give<br>head<br>romance<br>street<br>vivid<br>earth<br>quiz |  
@@ -147,6 +159,18 @@ vivid |
 | bip_39_word_space_7 | custom borrow about grunt give head romance |  
 | bip_39_word_space_8 | custom borrow about grunt give head romance street |  
 | bip_39_word_space_9 | custom borrow about grunt give head romance street vivid |  
+| bip_39_word_underscore_1 | custom |  
+| bip_39_word_underscore_10 | custom_borrow_about_grunt_give_head_romance_street_vivid_earth |  
+| bip_39_word_underscore_11 | custom_borrow_about_grunt_give_head_romance_street_vivid_earth_quiz |  
+| bip_39_word_underscore_12 | custom_borrow_about_grunt_give_head_romance_street_vivid_earth_quiz_asset |  
+| bip_39_word_underscore_2 | custom_borrow |  
+| bip_39_word_underscore_3 | custom_borrow_about |  
+| bip_39_word_underscore_4 | custom_borrow_about_grunt |  
+| bip_39_word_underscore_5 | custom_borrow_about_grunt_give |  
+| bip_39_word_underscore_6 | custom_borrow_about_grunt_give_head |  
+| bip_39_word_underscore_7 | custom_borrow_about_grunt_give_head_romance |  
+| bip_39_word_underscore_8 | custom_borrow_about_grunt_give_head_romance_street |  
+| bip_39_word_underscore_9 | custom_borrow_about_grunt_give_head_romance_street_vivid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

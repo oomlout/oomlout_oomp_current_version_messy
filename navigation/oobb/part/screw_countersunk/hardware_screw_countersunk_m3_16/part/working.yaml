@@ -1,3 +1,15 @@
+bip_39_word_dash_1: treat
+bip_39_word_dash_10: treat-floor-analyst-tenant-device-danger-sister-village-neglect-glue
+bip_39_word_dash_11: treat-floor-analyst-tenant-device-danger-sister-village-neglect-glue-history
+bip_39_word_dash_12: treat-floor-analyst-tenant-device-danger-sister-village-neglect-glue-history-absurd
+bip_39_word_dash_2: treat-floor
+bip_39_word_dash_3: treat-floor-analyst
+bip_39_word_dash_4: treat-floor-analyst-tenant
+bip_39_word_dash_5: treat-floor-analyst-tenant-device
+bip_39_word_dash_6: treat-floor-analyst-tenant-device-danger
+bip_39_word_dash_7: treat-floor-analyst-tenant-device-danger-sister
+bip_39_word_dash_8: treat-floor-analyst-tenant-device-danger-sister-village
+bip_39_word_dash_9: treat-floor-analyst-tenant-device-danger-sister-village-neglect
 bip_39_word_new_br_1: treat
 bip_39_word_new_br_10: treat<br>floor<br>analyst<br>tenant<br>device<br>danger<br>sister<br>village<br>neglect<br>glue
 bip_39_word_new_br_11: treat<br>floor<br>analyst<br>tenant<br>device<br>danger<br>sister<br>village<br>neglect<br>glue<br>history
@@ -194,6 +206,18 @@ bip_39_word_space_6: treat floor analyst tenant device danger
 bip_39_word_space_7: treat floor analyst tenant device danger sister
 bip_39_word_space_8: treat floor analyst tenant device danger sister village
 bip_39_word_space_9: treat floor analyst tenant device danger sister village neglect
+bip_39_word_underscore_1: treat
+bip_39_word_underscore_10: treat_floor_analyst_tenant_device_danger_sister_village_neglect_glue
+bip_39_word_underscore_11: treat_floor_analyst_tenant_device_danger_sister_village_neglect_glue_history
+bip_39_word_underscore_12: treat_floor_analyst_tenant_device_danger_sister_village_neglect_glue_history_absurd
+bip_39_word_underscore_2: treat_floor
+bip_39_word_underscore_3: treat_floor_analyst
+bip_39_word_underscore_4: treat_floor_analyst_tenant
+bip_39_word_underscore_5: treat_floor_analyst_tenant_device
+bip_39_word_underscore_6: treat_floor_analyst_tenant_device_danger
+bip_39_word_underscore_7: treat_floor_analyst_tenant_device_danger_sister
+bip_39_word_underscore_8: treat_floor_analyst_tenant_device_danger_sister_village
+bip_39_word_underscore_9: treat_floor_analyst_tenant_device_danger_sister_village_neglect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

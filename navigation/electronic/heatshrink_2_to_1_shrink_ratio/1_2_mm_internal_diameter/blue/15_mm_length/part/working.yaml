@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stamp
+bip_39_word_dash_10: stamp-access-vehicle-stumble-private-puzzle-zero-deny-soon-wife
+bip_39_word_dash_11: stamp-access-vehicle-stumble-private-puzzle-zero-deny-soon-wife-turtle
+bip_39_word_dash_12: stamp-access-vehicle-stumble-private-puzzle-zero-deny-soon-wife-turtle-across
+bip_39_word_dash_2: stamp-access
+bip_39_word_dash_3: stamp-access-vehicle
+bip_39_word_dash_4: stamp-access-vehicle-stumble
+bip_39_word_dash_5: stamp-access-vehicle-stumble-private
+bip_39_word_dash_6: stamp-access-vehicle-stumble-private-puzzle
+bip_39_word_dash_7: stamp-access-vehicle-stumble-private-puzzle-zero
+bip_39_word_dash_8: stamp-access-vehicle-stumble-private-puzzle-zero-deny
+bip_39_word_dash_9: stamp-access-vehicle-stumble-private-puzzle-zero-deny-soon
 bip_39_word_new_br_1: stamp
 bip_39_word_new_br_10: stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny<br>soon<br>wife
 bip_39_word_new_br_11: stamp<br>access<br>vehicle<br>stumble<br>private<br>puzzle<br>zero<br>deny<br>soon<br>wife<br>turtle
@@ -193,6 +205,18 @@ bip_39_word_space_6: stamp access vehicle stumble private puzzle
 bip_39_word_space_7: stamp access vehicle stumble private puzzle zero
 bip_39_word_space_8: stamp access vehicle stumble private puzzle zero deny
 bip_39_word_space_9: stamp access vehicle stumble private puzzle zero deny soon
+bip_39_word_underscore_1: stamp
+bip_39_word_underscore_10: stamp_access_vehicle_stumble_private_puzzle_zero_deny_soon_wife
+bip_39_word_underscore_11: stamp_access_vehicle_stumble_private_puzzle_zero_deny_soon_wife_turtle
+bip_39_word_underscore_12: stamp_access_vehicle_stumble_private_puzzle_zero_deny_soon_wife_turtle_across
+bip_39_word_underscore_2: stamp_access
+bip_39_word_underscore_3: stamp_access_vehicle
+bip_39_word_underscore_4: stamp_access_vehicle_stumble
+bip_39_word_underscore_5: stamp_access_vehicle_stumble_private
+bip_39_word_underscore_6: stamp_access_vehicle_stumble_private_puzzle
+bip_39_word_underscore_7: stamp_access_vehicle_stumble_private_puzzle_zero
+bip_39_word_underscore_8: stamp_access_vehicle_stumble_private_puzzle_zero_deny
+bip_39_word_underscore_9: stamp_access_vehicle_stumble_private_puzzle_zero_deny_soon
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

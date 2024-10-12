@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | regret |  
+| bip_39_word_dash_10 | regret-loud-away-already-update-what-sport-flame-ball-much |  
+| bip_39_word_dash_11 | regret-loud-away-already-update-what-sport-flame-ball-much-cute |  
+| bip_39_word_dash_12 | regret-loud-away-already-update-what-sport-flame-ball-much-cute-arch |  
+| bip_39_word_dash_2 | regret-loud |  
+| bip_39_word_dash_3 | regret-loud-away |  
+| bip_39_word_dash_4 | regret-loud-away-already |  
+| bip_39_word_dash_5 | regret-loud-away-already-update |  
+| bip_39_word_dash_6 | regret-loud-away-already-update-what |  
+| bip_39_word_dash_7 | regret-loud-away-already-update-what-sport |  
+| bip_39_word_dash_8 | regret-loud-away-already-update-what-sport-flame |  
+| bip_39_word_dash_9 | regret-loud-away-already-update-what-sport-flame-ball |  
 | bip_39_word_new_br_1 | regret |  
 | bip_39_word_new_br_10 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame<br>ball<br>much |  
 | bip_39_word_new_br_11 | regret<br>loud<br>away<br>already<br>update<br>what<br>sport<br>flame<br>ball<br>much<br>cute |  
@@ -147,6 +159,18 @@ ball |
 | bip_39_word_space_7 | regret loud away already update what sport |  
 | bip_39_word_space_8 | regret loud away already update what sport flame |  
 | bip_39_word_space_9 | regret loud away already update what sport flame ball |  
+| bip_39_word_underscore_1 | regret |  
+| bip_39_word_underscore_10 | regret_loud_away_already_update_what_sport_flame_ball_much |  
+| bip_39_word_underscore_11 | regret_loud_away_already_update_what_sport_flame_ball_much_cute |  
+| bip_39_word_underscore_12 | regret_loud_away_already_update_what_sport_flame_ball_much_cute_arch |  
+| bip_39_word_underscore_2 | regret_loud |  
+| bip_39_word_underscore_3 | regret_loud_away |  
+| bip_39_word_underscore_4 | regret_loud_away_already |  
+| bip_39_word_underscore_5 | regret_loud_away_already_update |  
+| bip_39_word_underscore_6 | regret_loud_away_already_update_what |  
+| bip_39_word_underscore_7 | regret_loud_away_already_update_what_sport |  
+| bip_39_word_underscore_8 | regret_loud_away_already_update_what_sport_flame |  
+| bip_39_word_underscore_9 | regret_loud_away_already_update_what_sport_flame_ball |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

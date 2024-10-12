@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hint
+bip_39_word_dash_10: hint-sniff-grant-lunar-screen-hazard-brain-just-depth-select
+bip_39_word_dash_11: hint-sniff-grant-lunar-screen-hazard-brain-just-depth-select-truth
+bip_39_word_dash_12: hint-sniff-grant-lunar-screen-hazard-brain-just-depth-select-truth-ability
+bip_39_word_dash_2: hint-sniff
+bip_39_word_dash_3: hint-sniff-grant
+bip_39_word_dash_4: hint-sniff-grant-lunar
+bip_39_word_dash_5: hint-sniff-grant-lunar-screen
+bip_39_word_dash_6: hint-sniff-grant-lunar-screen-hazard
+bip_39_word_dash_7: hint-sniff-grant-lunar-screen-hazard-brain
+bip_39_word_dash_8: hint-sniff-grant-lunar-screen-hazard-brain-just
+bip_39_word_dash_9: hint-sniff-grant-lunar-screen-hazard-brain-just-depth
 bip_39_word_new_br_1: hint
 bip_39_word_new_br_10: hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select
 bip_39_word_new_br_11: hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select<br>truth
@@ -193,6 +205,18 @@ bip_39_word_space_6: hint sniff grant lunar screen hazard
 bip_39_word_space_7: hint sniff grant lunar screen hazard brain
 bip_39_word_space_8: hint sniff grant lunar screen hazard brain just
 bip_39_word_space_9: hint sniff grant lunar screen hazard brain just depth
+bip_39_word_underscore_1: hint
+bip_39_word_underscore_10: hint_sniff_grant_lunar_screen_hazard_brain_just_depth_select
+bip_39_word_underscore_11: hint_sniff_grant_lunar_screen_hazard_brain_just_depth_select_truth
+bip_39_word_underscore_12: hint_sniff_grant_lunar_screen_hazard_brain_just_depth_select_truth_ability
+bip_39_word_underscore_2: hint_sniff
+bip_39_word_underscore_3: hint_sniff_grant
+bip_39_word_underscore_4: hint_sniff_grant_lunar
+bip_39_word_underscore_5: hint_sniff_grant_lunar_screen
+bip_39_word_underscore_6: hint_sniff_grant_lunar_screen_hazard
+bip_39_word_underscore_7: hint_sniff_grant_lunar_screen_hazard_brain
+bip_39_word_underscore_8: hint_sniff_grant_lunar_screen_hazard_brain_just
+bip_39_word_underscore_9: hint_sniff_grant_lunar_screen_hazard_brain_just_depth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

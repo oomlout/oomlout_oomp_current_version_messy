@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ability
+bip_39_word_dash_10: ability-surface-quit-exit-lake-test-unaware-hedgehog-click-issue
+bip_39_word_dash_11: ability-surface-quit-exit-lake-test-unaware-hedgehog-click-issue-answer
+bip_39_word_dash_12: ability-surface-quit-exit-lake-test-unaware-hedgehog-click-issue-answer-above
+bip_39_word_dash_2: ability-surface
+bip_39_word_dash_3: ability-surface-quit
+bip_39_word_dash_4: ability-surface-quit-exit
+bip_39_word_dash_5: ability-surface-quit-exit-lake
+bip_39_word_dash_6: ability-surface-quit-exit-lake-test
+bip_39_word_dash_7: ability-surface-quit-exit-lake-test-unaware
+bip_39_word_dash_8: ability-surface-quit-exit-lake-test-unaware-hedgehog
+bip_39_word_dash_9: ability-surface-quit-exit-lake-test-unaware-hedgehog-click
 bip_39_word_new_br_1: ability
 bip_39_word_new_br_10: ability<br>surface<br>quit<br>exit<br>lake<br>test<br>unaware<br>hedgehog<br>click<br>issue
 bip_39_word_new_br_11: ability<br>surface<br>quit<br>exit<br>lake<br>test<br>unaware<br>hedgehog<br>click<br>issue<br>answer
@@ -193,6 +205,18 @@ bip_39_word_space_6: ability surface quit exit lake test
 bip_39_word_space_7: ability surface quit exit lake test unaware
 bip_39_word_space_8: ability surface quit exit lake test unaware hedgehog
 bip_39_word_space_9: ability surface quit exit lake test unaware hedgehog click
+bip_39_word_underscore_1: ability
+bip_39_word_underscore_10: ability_surface_quit_exit_lake_test_unaware_hedgehog_click_issue
+bip_39_word_underscore_11: ability_surface_quit_exit_lake_test_unaware_hedgehog_click_issue_answer
+bip_39_word_underscore_12: ability_surface_quit_exit_lake_test_unaware_hedgehog_click_issue_answer_above
+bip_39_word_underscore_2: ability_surface
+bip_39_word_underscore_3: ability_surface_quit
+bip_39_word_underscore_4: ability_surface_quit_exit
+bip_39_word_underscore_5: ability_surface_quit_exit_lake
+bip_39_word_underscore_6: ability_surface_quit_exit_lake_test
+bip_39_word_underscore_7: ability_surface_quit_exit_lake_test_unaware
+bip_39_word_underscore_8: ability_surface_quit_exit_lake_test_unaware_hedgehog
+bip_39_word_underscore_9: ability_surface_quit_exit_lake_test_unaware_hedgehog_click
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

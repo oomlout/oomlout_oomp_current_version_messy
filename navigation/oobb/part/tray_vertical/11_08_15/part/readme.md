@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chicken |  
+| bip_39_word_dash_10 | chicken-reflect-grid-spoil-response-again-cement-service-panel-sense |  
+| bip_39_word_dash_11 | chicken-reflect-grid-spoil-response-again-cement-service-panel-sense-cake |  
+| bip_39_word_dash_12 | chicken-reflect-grid-spoil-response-again-cement-service-panel-sense-cake-approve |  
+| bip_39_word_dash_2 | chicken-reflect |  
+| bip_39_word_dash_3 | chicken-reflect-grid |  
+| bip_39_word_dash_4 | chicken-reflect-grid-spoil |  
+| bip_39_word_dash_5 | chicken-reflect-grid-spoil-response |  
+| bip_39_word_dash_6 | chicken-reflect-grid-spoil-response-again |  
+| bip_39_word_dash_7 | chicken-reflect-grid-spoil-response-again-cement |  
+| bip_39_word_dash_8 | chicken-reflect-grid-spoil-response-again-cement-service |  
+| bip_39_word_dash_9 | chicken-reflect-grid-spoil-response-again-cement-service-panel |  
 | bip_39_word_new_br_1 | chicken |  
 | bip_39_word_new_br_10 | chicken<br>reflect<br>grid<br>spoil<br>response<br>again<br>cement<br>service<br>panel<br>sense |  
 | bip_39_word_new_br_11 | chicken<br>reflect<br>grid<br>spoil<br>response<br>again<br>cement<br>service<br>panel<br>sense<br>cake |  
@@ -147,6 +159,18 @@ panel |
 | bip_39_word_space_7 | chicken reflect grid spoil response again cement |  
 | bip_39_word_space_8 | chicken reflect grid spoil response again cement service |  
 | bip_39_word_space_9 | chicken reflect grid spoil response again cement service panel |  
+| bip_39_word_underscore_1 | chicken |  
+| bip_39_word_underscore_10 | chicken_reflect_grid_spoil_response_again_cement_service_panel_sense |  
+| bip_39_word_underscore_11 | chicken_reflect_grid_spoil_response_again_cement_service_panel_sense_cake |  
+| bip_39_word_underscore_12 | chicken_reflect_grid_spoil_response_again_cement_service_panel_sense_cake_approve |  
+| bip_39_word_underscore_2 | chicken_reflect |  
+| bip_39_word_underscore_3 | chicken_reflect_grid |  
+| bip_39_word_underscore_4 | chicken_reflect_grid_spoil |  
+| bip_39_word_underscore_5 | chicken_reflect_grid_spoil_response |  
+| bip_39_word_underscore_6 | chicken_reflect_grid_spoil_response_again |  
+| bip_39_word_underscore_7 | chicken_reflect_grid_spoil_response_again_cement |  
+| bip_39_word_underscore_8 | chicken_reflect_grid_spoil_response_again_cement_service |  
+| bip_39_word_underscore_9 | chicken_reflect_grid_spoil_response_again_cement_service_panel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

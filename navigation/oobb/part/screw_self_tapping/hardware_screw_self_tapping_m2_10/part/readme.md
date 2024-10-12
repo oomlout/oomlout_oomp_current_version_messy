@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pair |  
+| bip_39_word_dash_10 | pair-budget-clarify-swap-execute-dolphin-conduct-element-cloth-maze |  
+| bip_39_word_dash_11 | pair-budget-clarify-swap-execute-dolphin-conduct-element-cloth-maze-pill |  
+| bip_39_word_dash_12 | pair-budget-clarify-swap-execute-dolphin-conduct-element-cloth-maze-pill-arm |  
+| bip_39_word_dash_2 | pair-budget |  
+| bip_39_word_dash_3 | pair-budget-clarify |  
+| bip_39_word_dash_4 | pair-budget-clarify-swap |  
+| bip_39_word_dash_5 | pair-budget-clarify-swap-execute |  
+| bip_39_word_dash_6 | pair-budget-clarify-swap-execute-dolphin |  
+| bip_39_word_dash_7 | pair-budget-clarify-swap-execute-dolphin-conduct |  
+| bip_39_word_dash_8 | pair-budget-clarify-swap-execute-dolphin-conduct-element |  
+| bip_39_word_dash_9 | pair-budget-clarify-swap-execute-dolphin-conduct-element-cloth |  
 | bip_39_word_new_br_1 | pair |  
 | bip_39_word_new_br_10 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element<br>cloth<br>maze |  
 | bip_39_word_new_br_11 | pair<br>budget<br>clarify<br>swap<br>execute<br>dolphin<br>conduct<br>element<br>cloth<br>maze<br>pill |  
@@ -147,6 +159,18 @@ cloth |
 | bip_39_word_space_7 | pair budget clarify swap execute dolphin conduct |  
 | bip_39_word_space_8 | pair budget clarify swap execute dolphin conduct element |  
 | bip_39_word_space_9 | pair budget clarify swap execute dolphin conduct element cloth |  
+| bip_39_word_underscore_1 | pair |  
+| bip_39_word_underscore_10 | pair_budget_clarify_swap_execute_dolphin_conduct_element_cloth_maze |  
+| bip_39_word_underscore_11 | pair_budget_clarify_swap_execute_dolphin_conduct_element_cloth_maze_pill |  
+| bip_39_word_underscore_12 | pair_budget_clarify_swap_execute_dolphin_conduct_element_cloth_maze_pill_arm |  
+| bip_39_word_underscore_2 | pair_budget |  
+| bip_39_word_underscore_3 | pair_budget_clarify |  
+| bip_39_word_underscore_4 | pair_budget_clarify_swap |  
+| bip_39_word_underscore_5 | pair_budget_clarify_swap_execute |  
+| bip_39_word_underscore_6 | pair_budget_clarify_swap_execute_dolphin |  
+| bip_39_word_underscore_7 | pair_budget_clarify_swap_execute_dolphin_conduct |  
+| bip_39_word_underscore_8 | pair_budget_clarify_swap_execute_dolphin_conduct_element |  
+| bip_39_word_underscore_9 | pair_budget_clarify_swap_execute_dolphin_conduct_element_cloth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

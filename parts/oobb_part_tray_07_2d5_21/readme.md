@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glide |  
+| bip_39_word_dash_10 | glide-curve-promote-embody-armed-enable-clerk-purpose-fabric-illness |  
+| bip_39_word_dash_11 | glide-curve-promote-embody-armed-enable-clerk-purpose-fabric-illness-tool |  
+| bip_39_word_dash_12 | glide-curve-promote-embody-armed-enable-clerk-purpose-fabric-illness-tool-antenna |  
+| bip_39_word_dash_2 | glide-curve |  
+| bip_39_word_dash_3 | glide-curve-promote |  
+| bip_39_word_dash_4 | glide-curve-promote-embody |  
+| bip_39_word_dash_5 | glide-curve-promote-embody-armed |  
+| bip_39_word_dash_6 | glide-curve-promote-embody-armed-enable |  
+| bip_39_word_dash_7 | glide-curve-promote-embody-armed-enable-clerk |  
+| bip_39_word_dash_8 | glide-curve-promote-embody-armed-enable-clerk-purpose |  
+| bip_39_word_dash_9 | glide-curve-promote-embody-armed-enable-clerk-purpose-fabric |  
 | bip_39_word_new_br_1 | glide |  
 | bip_39_word_new_br_10 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose<br>fabric<br>illness |  
 | bip_39_word_new_br_11 | glide<br>curve<br>promote<br>embody<br>armed<br>enable<br>clerk<br>purpose<br>fabric<br>illness<br>tool |  
@@ -147,6 +159,18 @@ fabric |
 | bip_39_word_space_7 | glide curve promote embody armed enable clerk |  
 | bip_39_word_space_8 | glide curve promote embody armed enable clerk purpose |  
 | bip_39_word_space_9 | glide curve promote embody armed enable clerk purpose fabric |  
+| bip_39_word_underscore_1 | glide |  
+| bip_39_word_underscore_10 | glide_curve_promote_embody_armed_enable_clerk_purpose_fabric_illness |  
+| bip_39_word_underscore_11 | glide_curve_promote_embody_armed_enable_clerk_purpose_fabric_illness_tool |  
+| bip_39_word_underscore_12 | glide_curve_promote_embody_armed_enable_clerk_purpose_fabric_illness_tool_antenna |  
+| bip_39_word_underscore_2 | glide_curve |  
+| bip_39_word_underscore_3 | glide_curve_promote |  
+| bip_39_word_underscore_4 | glide_curve_promote_embody |  
+| bip_39_word_underscore_5 | glide_curve_promote_embody_armed |  
+| bip_39_word_underscore_6 | glide_curve_promote_embody_armed_enable |  
+| bip_39_word_underscore_7 | glide_curve_promote_embody_armed_enable_clerk |  
+| bip_39_word_underscore_8 | glide_curve_promote_embody_armed_enable_clerk_purpose |  
+| bip_39_word_underscore_9 | glide_curve_promote_embody_armed_enable_clerk_purpose_fabric |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

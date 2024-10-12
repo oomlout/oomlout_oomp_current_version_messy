@@ -1,3 +1,15 @@
+bip_39_word_dash_1: depend
+bip_39_word_dash_10: depend-horror-tape-dynamic-purse-equip-evil-better-slight-rubber
+bip_39_word_dash_11: depend-horror-tape-dynamic-purse-equip-evil-better-slight-rubber-duck
+bip_39_word_dash_12: depend-horror-tape-dynamic-purse-equip-evil-better-slight-rubber-duck-animal
+bip_39_word_dash_2: depend-horror
+bip_39_word_dash_3: depend-horror-tape
+bip_39_word_dash_4: depend-horror-tape-dynamic
+bip_39_word_dash_5: depend-horror-tape-dynamic-purse
+bip_39_word_dash_6: depend-horror-tape-dynamic-purse-equip
+bip_39_word_dash_7: depend-horror-tape-dynamic-purse-equip-evil
+bip_39_word_dash_8: depend-horror-tape-dynamic-purse-equip-evil-better
+bip_39_word_dash_9: depend-horror-tape-dynamic-purse-equip-evil-better-slight
 bip_39_word_new_br_1: depend
 bip_39_word_new_br_10: depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better<br>slight<br>rubber
 bip_39_word_new_br_11: depend<br>horror<br>tape<br>dynamic<br>purse<br>equip<br>evil<br>better<br>slight<br>rubber<br>duck
@@ -193,6 +205,18 @@ bip_39_word_space_6: depend horror tape dynamic purse equip
 bip_39_word_space_7: depend horror tape dynamic purse equip evil
 bip_39_word_space_8: depend horror tape dynamic purse equip evil better
 bip_39_word_space_9: depend horror tape dynamic purse equip evil better slight
+bip_39_word_underscore_1: depend
+bip_39_word_underscore_10: depend_horror_tape_dynamic_purse_equip_evil_better_slight_rubber
+bip_39_word_underscore_11: depend_horror_tape_dynamic_purse_equip_evil_better_slight_rubber_duck
+bip_39_word_underscore_12: depend_horror_tape_dynamic_purse_equip_evil_better_slight_rubber_duck_animal
+bip_39_word_underscore_2: depend_horror
+bip_39_word_underscore_3: depend_horror_tape
+bip_39_word_underscore_4: depend_horror_tape_dynamic
+bip_39_word_underscore_5: depend_horror_tape_dynamic_purse
+bip_39_word_underscore_6: depend_horror_tape_dynamic_purse_equip
+bip_39_word_underscore_7: depend_horror_tape_dynamic_purse_equip_evil
+bip_39_word_underscore_8: depend_horror_tape_dynamic_purse_equip_evil_better
+bip_39_word_underscore_9: depend_horror_tape_dynamic_purse_equip_evil_better_slight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | approve |  
+| bip_39_word_dash_10 | approve-mask-inside-spider-soul-bar-pepper-gain-charge-recall |  
+| bip_39_word_dash_11 | approve-mask-inside-spider-soul-bar-pepper-gain-charge-recall-beyond |  
+| bip_39_word_dash_12 | approve-mask-inside-spider-soul-bar-pepper-gain-charge-recall-beyond-adapt |  
+| bip_39_word_dash_2 | approve-mask |  
+| bip_39_word_dash_3 | approve-mask-inside |  
+| bip_39_word_dash_4 | approve-mask-inside-spider |  
+| bip_39_word_dash_5 | approve-mask-inside-spider-soul |  
+| bip_39_word_dash_6 | approve-mask-inside-spider-soul-bar |  
+| bip_39_word_dash_7 | approve-mask-inside-spider-soul-bar-pepper |  
+| bip_39_word_dash_8 | approve-mask-inside-spider-soul-bar-pepper-gain |  
+| bip_39_word_dash_9 | approve-mask-inside-spider-soul-bar-pepper-gain-charge |  
 | bip_39_word_new_br_1 | approve |  
 | bip_39_word_new_br_10 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain<br>charge<br>recall |  
 | bip_39_word_new_br_11 | approve<br>mask<br>inside<br>spider<br>soul<br>bar<br>pepper<br>gain<br>charge<br>recall<br>beyond |  
@@ -147,6 +159,18 @@ charge |
 | bip_39_word_space_7 | approve mask inside spider soul bar pepper |  
 | bip_39_word_space_8 | approve mask inside spider soul bar pepper gain |  
 | bip_39_word_space_9 | approve mask inside spider soul bar pepper gain charge |  
+| bip_39_word_underscore_1 | approve |  
+| bip_39_word_underscore_10 | approve_mask_inside_spider_soul_bar_pepper_gain_charge_recall |  
+| bip_39_word_underscore_11 | approve_mask_inside_spider_soul_bar_pepper_gain_charge_recall_beyond |  
+| bip_39_word_underscore_12 | approve_mask_inside_spider_soul_bar_pepper_gain_charge_recall_beyond_adapt |  
+| bip_39_word_underscore_2 | approve_mask |  
+| bip_39_word_underscore_3 | approve_mask_inside |  
+| bip_39_word_underscore_4 | approve_mask_inside_spider |  
+| bip_39_word_underscore_5 | approve_mask_inside_spider_soul |  
+| bip_39_word_underscore_6 | approve_mask_inside_spider_soul_bar |  
+| bip_39_word_underscore_7 | approve_mask_inside_spider_soul_bar_pepper |  
+| bip_39_word_underscore_8 | approve_mask_inside_spider_soul_bar_pepper_gain |  
+| bip_39_word_underscore_9 | approve_mask_inside_spider_soul_bar_pepper_gain_charge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

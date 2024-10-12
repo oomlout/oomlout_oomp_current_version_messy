@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | target |  
+| bip_39_word_dash_10 | target-caught-doctor-range-canal-bright-spoon-end-dismiss-scissors |  
+| bip_39_word_dash_11 | target-caught-doctor-range-canal-bright-spoon-end-dismiss-scissors-collect |  
+| bip_39_word_dash_12 | target-caught-doctor-range-canal-bright-spoon-end-dismiss-scissors-collect-apple |  
+| bip_39_word_dash_2 | target-caught |  
+| bip_39_word_dash_3 | target-caught-doctor |  
+| bip_39_word_dash_4 | target-caught-doctor-range |  
+| bip_39_word_dash_5 | target-caught-doctor-range-canal |  
+| bip_39_word_dash_6 | target-caught-doctor-range-canal-bright |  
+| bip_39_word_dash_7 | target-caught-doctor-range-canal-bright-spoon |  
+| bip_39_word_dash_8 | target-caught-doctor-range-canal-bright-spoon-end |  
+| bip_39_word_dash_9 | target-caught-doctor-range-canal-bright-spoon-end-dismiss |  
 | bip_39_word_new_br_1 | target |  
 | bip_39_word_new_br_10 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end<br>dismiss<br>scissors |  
 | bip_39_word_new_br_11 | target<br>caught<br>doctor<br>range<br>canal<br>bright<br>spoon<br>end<br>dismiss<br>scissors<br>collect |  
@@ -147,6 +159,18 @@ dismiss |
 | bip_39_word_space_7 | target caught doctor range canal bright spoon |  
 | bip_39_word_space_8 | target caught doctor range canal bright spoon end |  
 | bip_39_word_space_9 | target caught doctor range canal bright spoon end dismiss |  
+| bip_39_word_underscore_1 | target |  
+| bip_39_word_underscore_10 | target_caught_doctor_range_canal_bright_spoon_end_dismiss_scissors |  
+| bip_39_word_underscore_11 | target_caught_doctor_range_canal_bright_spoon_end_dismiss_scissors_collect |  
+| bip_39_word_underscore_12 | target_caught_doctor_range_canal_bright_spoon_end_dismiss_scissors_collect_apple |  
+| bip_39_word_underscore_2 | target_caught |  
+| bip_39_word_underscore_3 | target_caught_doctor |  
+| bip_39_word_underscore_4 | target_caught_doctor_range |  
+| bip_39_word_underscore_5 | target_caught_doctor_range_canal |  
+| bip_39_word_underscore_6 | target_caught_doctor_range_canal_bright |  
+| bip_39_word_underscore_7 | target_caught_doctor_range_canal_bright_spoon |  
+| bip_39_word_underscore_8 | target_caught_doctor_range_canal_bright_spoon_end |  
+| bip_39_word_underscore_9 | target_caught_doctor_range_canal_bright_spoon_end_dismiss |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

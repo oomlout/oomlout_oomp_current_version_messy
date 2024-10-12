@@ -1,3 +1,15 @@
+bip_39_word_dash_1: suit
+bip_39_word_dash_10: suit-canal-census-provide-cushion-web-bulb-notable-price-exile
+bip_39_word_dash_11: suit-canal-census-provide-cushion-web-bulb-notable-price-exile-gold
+bip_39_word_dash_12: suit-canal-census-provide-cushion-web-bulb-notable-price-exile-gold-approve
+bip_39_word_dash_2: suit-canal
+bip_39_word_dash_3: suit-canal-census
+bip_39_word_dash_4: suit-canal-census-provide
+bip_39_word_dash_5: suit-canal-census-provide-cushion
+bip_39_word_dash_6: suit-canal-census-provide-cushion-web
+bip_39_word_dash_7: suit-canal-census-provide-cushion-web-bulb
+bip_39_word_dash_8: suit-canal-census-provide-cushion-web-bulb-notable
+bip_39_word_dash_9: suit-canal-census-provide-cushion-web-bulb-notable-price
 bip_39_word_new_br_1: suit
 bip_39_word_new_br_10: suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable<br>price<br>exile
 bip_39_word_new_br_11: suit<br>canal<br>census<br>provide<br>cushion<br>web<br>bulb<br>notable<br>price<br>exile<br>gold
@@ -193,6 +205,18 @@ bip_39_word_space_6: suit canal census provide cushion web
 bip_39_word_space_7: suit canal census provide cushion web bulb
 bip_39_word_space_8: suit canal census provide cushion web bulb notable
 bip_39_word_space_9: suit canal census provide cushion web bulb notable price
+bip_39_word_underscore_1: suit
+bip_39_word_underscore_10: suit_canal_census_provide_cushion_web_bulb_notable_price_exile
+bip_39_word_underscore_11: suit_canal_census_provide_cushion_web_bulb_notable_price_exile_gold
+bip_39_word_underscore_12: suit_canal_census_provide_cushion_web_bulb_notable_price_exile_gold_approve
+bip_39_word_underscore_2: suit_canal
+bip_39_word_underscore_3: suit_canal_census
+bip_39_word_underscore_4: suit_canal_census_provide
+bip_39_word_underscore_5: suit_canal_census_provide_cushion
+bip_39_word_underscore_6: suit_canal_census_provide_cushion_web
+bip_39_word_underscore_7: suit_canal_census_provide_cushion_web_bulb
+bip_39_word_underscore_8: suit_canal_census_provide_cushion_web_bulb_notable
+bip_39_word_underscore_9: suit_canal_census_provide_cushion_web_bulb_notable_price
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

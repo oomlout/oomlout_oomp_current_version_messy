@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | damp |  
+| bip_39_word_dash_10 | damp-history-proud-slight-dinner-damage-ship-gorilla-island-solution |  
+| bip_39_word_dash_11 | damp-history-proud-slight-dinner-damage-ship-gorilla-island-solution-radio |  
+| bip_39_word_dash_12 | damp-history-proud-slight-dinner-damage-ship-gorilla-island-solution-radio-auction |  
+| bip_39_word_dash_2 | damp-history |  
+| bip_39_word_dash_3 | damp-history-proud |  
+| bip_39_word_dash_4 | damp-history-proud-slight |  
+| bip_39_word_dash_5 | damp-history-proud-slight-dinner |  
+| bip_39_word_dash_6 | damp-history-proud-slight-dinner-damage |  
+| bip_39_word_dash_7 | damp-history-proud-slight-dinner-damage-ship |  
+| bip_39_word_dash_8 | damp-history-proud-slight-dinner-damage-ship-gorilla |  
+| bip_39_word_dash_9 | damp-history-proud-slight-dinner-damage-ship-gorilla-island |  
 | bip_39_word_new_br_1 | damp |  
 | bip_39_word_new_br_10 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution |  
 | bip_39_word_new_br_11 | damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution<br>radio |  
@@ -147,6 +159,18 @@ island |
 | bip_39_word_space_7 | damp history proud slight dinner damage ship |  
 | bip_39_word_space_8 | damp history proud slight dinner damage ship gorilla |  
 | bip_39_word_space_9 | damp history proud slight dinner damage ship gorilla island |  
+| bip_39_word_underscore_1 | damp |  
+| bip_39_word_underscore_10 | damp_history_proud_slight_dinner_damage_ship_gorilla_island_solution |  
+| bip_39_word_underscore_11 | damp_history_proud_slight_dinner_damage_ship_gorilla_island_solution_radio |  
+| bip_39_word_underscore_12 | damp_history_proud_slight_dinner_damage_ship_gorilla_island_solution_radio_auction |  
+| bip_39_word_underscore_2 | damp_history |  
+| bip_39_word_underscore_3 | damp_history_proud |  
+| bip_39_word_underscore_4 | damp_history_proud_slight |  
+| bip_39_word_underscore_5 | damp_history_proud_slight_dinner |  
+| bip_39_word_underscore_6 | damp_history_proud_slight_dinner_damage |  
+| bip_39_word_underscore_7 | damp_history_proud_slight_dinner_damage_ship |  
+| bip_39_word_underscore_8 | damp_history_proud_slight_dinner_damage_ship_gorilla |  
+| bip_39_word_underscore_9 | damp_history_proud_slight_dinner_damage_ship_gorilla_island |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

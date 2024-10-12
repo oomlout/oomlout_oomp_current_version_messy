@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | regret |  
+| bip_39_word_dash_10 | regret-hen-stereo-sting-pulp-print-shy-lava-road-fog |  
+| bip_39_word_dash_11 | regret-hen-stereo-sting-pulp-print-shy-lava-road-fog-welcome |  
+| bip_39_word_dash_12 | regret-hen-stereo-sting-pulp-print-shy-lava-road-fog-welcome-aspect |  
+| bip_39_word_dash_2 | regret-hen |  
+| bip_39_word_dash_3 | regret-hen-stereo |  
+| bip_39_word_dash_4 | regret-hen-stereo-sting |  
+| bip_39_word_dash_5 | regret-hen-stereo-sting-pulp |  
+| bip_39_word_dash_6 | regret-hen-stereo-sting-pulp-print |  
+| bip_39_word_dash_7 | regret-hen-stereo-sting-pulp-print-shy |  
+| bip_39_word_dash_8 | regret-hen-stereo-sting-pulp-print-shy-lava |  
+| bip_39_word_dash_9 | regret-hen-stereo-sting-pulp-print-shy-lava-road |  
 | bip_39_word_new_br_1 | regret |  
 | bip_39_word_new_br_10 | regret<br>hen<br>stereo<br>sting<br>pulp<br>print<br>shy<br>lava<br>road<br>fog |  
 | bip_39_word_new_br_11 | regret<br>hen<br>stereo<br>sting<br>pulp<br>print<br>shy<br>lava<br>road<br>fog<br>welcome |  
@@ -147,6 +159,18 @@ road |
 | bip_39_word_space_7 | regret hen stereo sting pulp print shy |  
 | bip_39_word_space_8 | regret hen stereo sting pulp print shy lava |  
 | bip_39_word_space_9 | regret hen stereo sting pulp print shy lava road |  
+| bip_39_word_underscore_1 | regret |  
+| bip_39_word_underscore_10 | regret_hen_stereo_sting_pulp_print_shy_lava_road_fog |  
+| bip_39_word_underscore_11 | regret_hen_stereo_sting_pulp_print_shy_lava_road_fog_welcome |  
+| bip_39_word_underscore_12 | regret_hen_stereo_sting_pulp_print_shy_lava_road_fog_welcome_aspect |  
+| bip_39_word_underscore_2 | regret_hen |  
+| bip_39_word_underscore_3 | regret_hen_stereo |  
+| bip_39_word_underscore_4 | regret_hen_stereo_sting |  
+| bip_39_word_underscore_5 | regret_hen_stereo_sting_pulp |  
+| bip_39_word_underscore_6 | regret_hen_stereo_sting_pulp_print |  
+| bip_39_word_underscore_7 | regret_hen_stereo_sting_pulp_print_shy |  
+| bip_39_word_underscore_8 | regret_hen_stereo_sting_pulp_print_shy_lava |  
+| bip_39_word_underscore_9 | regret_hen_stereo_sting_pulp_print_shy_lava_road |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

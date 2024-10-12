@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pistol |  
+| bip_39_word_dash_10 | pistol-hawk-clap-record-mix-guard-service-crash-mansion-cereal |  
+| bip_39_word_dash_11 | pistol-hawk-clap-record-mix-guard-service-crash-mansion-cereal-tag |  
+| bip_39_word_dash_12 | pistol-hawk-clap-record-mix-guard-service-crash-mansion-cereal-tag-acid |  
+| bip_39_word_dash_2 | pistol-hawk |  
+| bip_39_word_dash_3 | pistol-hawk-clap |  
+| bip_39_word_dash_4 | pistol-hawk-clap-record |  
+| bip_39_word_dash_5 | pistol-hawk-clap-record-mix |  
+| bip_39_word_dash_6 | pistol-hawk-clap-record-mix-guard |  
+| bip_39_word_dash_7 | pistol-hawk-clap-record-mix-guard-service |  
+| bip_39_word_dash_8 | pistol-hawk-clap-record-mix-guard-service-crash |  
+| bip_39_word_dash_9 | pistol-hawk-clap-record-mix-guard-service-crash-mansion |  
 | bip_39_word_new_br_1 | pistol |  
 | bip_39_word_new_br_10 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash<br>mansion<br>cereal |  
 | bip_39_word_new_br_11 | pistol<br>hawk<br>clap<br>record<br>mix<br>guard<br>service<br>crash<br>mansion<br>cereal<br>tag |  
@@ -147,6 +159,18 @@ mansion |
 | bip_39_word_space_7 | pistol hawk clap record mix guard service |  
 | bip_39_word_space_8 | pistol hawk clap record mix guard service crash |  
 | bip_39_word_space_9 | pistol hawk clap record mix guard service crash mansion |  
+| bip_39_word_underscore_1 | pistol |  
+| bip_39_word_underscore_10 | pistol_hawk_clap_record_mix_guard_service_crash_mansion_cereal |  
+| bip_39_word_underscore_11 | pistol_hawk_clap_record_mix_guard_service_crash_mansion_cereal_tag |  
+| bip_39_word_underscore_12 | pistol_hawk_clap_record_mix_guard_service_crash_mansion_cereal_tag_acid |  
+| bip_39_word_underscore_2 | pistol_hawk |  
+| bip_39_word_underscore_3 | pistol_hawk_clap |  
+| bip_39_word_underscore_4 | pistol_hawk_clap_record |  
+| bip_39_word_underscore_5 | pistol_hawk_clap_record_mix |  
+| bip_39_word_underscore_6 | pistol_hawk_clap_record_mix_guard |  
+| bip_39_word_underscore_7 | pistol_hawk_clap_record_mix_guard_service |  
+| bip_39_word_underscore_8 | pistol_hawk_clap_record_mix_guard_service_crash |  
+| bip_39_word_underscore_9 | pistol_hawk_clap_record_mix_guard_service_crash_mansion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

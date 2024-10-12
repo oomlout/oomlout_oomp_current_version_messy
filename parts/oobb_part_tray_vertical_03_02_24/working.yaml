@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gas
+bip_39_word_dash_10: gas-walk-train-relief-situate-dragon-lizard-hundred-knock-owner
+bip_39_word_dash_11: gas-walk-train-relief-situate-dragon-lizard-hundred-knock-owner-dinner
+bip_39_word_dash_12: gas-walk-train-relief-situate-dragon-lizard-hundred-knock-owner-dinner-answer
+bip_39_word_dash_2: gas-walk
+bip_39_word_dash_3: gas-walk-train
+bip_39_word_dash_4: gas-walk-train-relief
+bip_39_word_dash_5: gas-walk-train-relief-situate
+bip_39_word_dash_6: gas-walk-train-relief-situate-dragon
+bip_39_word_dash_7: gas-walk-train-relief-situate-dragon-lizard
+bip_39_word_dash_8: gas-walk-train-relief-situate-dragon-lizard-hundred
+bip_39_word_dash_9: gas-walk-train-relief-situate-dragon-lizard-hundred-knock
 bip_39_word_new_br_1: gas
 bip_39_word_new_br_10: gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred<br>knock<br>owner
 bip_39_word_new_br_11: gas<br>walk<br>train<br>relief<br>situate<br>dragon<br>lizard<br>hundred<br>knock<br>owner<br>dinner
@@ -193,6 +205,18 @@ bip_39_word_space_6: gas walk train relief situate dragon
 bip_39_word_space_7: gas walk train relief situate dragon lizard
 bip_39_word_space_8: gas walk train relief situate dragon lizard hundred
 bip_39_word_space_9: gas walk train relief situate dragon lizard hundred knock
+bip_39_word_underscore_1: gas
+bip_39_word_underscore_10: gas_walk_train_relief_situate_dragon_lizard_hundred_knock_owner
+bip_39_word_underscore_11: gas_walk_train_relief_situate_dragon_lizard_hundred_knock_owner_dinner
+bip_39_word_underscore_12: gas_walk_train_relief_situate_dragon_lizard_hundred_knock_owner_dinner_answer
+bip_39_word_underscore_2: gas_walk
+bip_39_word_underscore_3: gas_walk_train
+bip_39_word_underscore_4: gas_walk_train_relief
+bip_39_word_underscore_5: gas_walk_train_relief_situate
+bip_39_word_underscore_6: gas_walk_train_relief_situate_dragon
+bip_39_word_underscore_7: gas_walk_train_relief_situate_dragon_lizard
+bip_39_word_underscore_8: gas_walk_train_relief_situate_dragon_lizard_hundred
+bip_39_word_underscore_9: gas_walk_train_relief_situate_dragon_lizard_hundred_knock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

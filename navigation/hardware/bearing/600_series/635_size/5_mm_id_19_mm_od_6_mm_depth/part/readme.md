@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scrub |  
+| bip_39_word_dash_10 | scrub-jaguar-derive-avocado-eagle-month-bulb-kangaroo-brain-honey |  
+| bip_39_word_dash_11 | scrub-jaguar-derive-avocado-eagle-month-bulb-kangaroo-brain-honey-wife |  
+| bip_39_word_dash_12 | scrub-jaguar-derive-avocado-eagle-month-bulb-kangaroo-brain-honey-wife-appear |  
+| bip_39_word_dash_2 | scrub-jaguar |  
+| bip_39_word_dash_3 | scrub-jaguar-derive |  
+| bip_39_word_dash_4 | scrub-jaguar-derive-avocado |  
+| bip_39_word_dash_5 | scrub-jaguar-derive-avocado-eagle |  
+| bip_39_word_dash_6 | scrub-jaguar-derive-avocado-eagle-month |  
+| bip_39_word_dash_7 | scrub-jaguar-derive-avocado-eagle-month-bulb |  
+| bip_39_word_dash_8 | scrub-jaguar-derive-avocado-eagle-month-bulb-kangaroo |  
+| bip_39_word_dash_9 | scrub-jaguar-derive-avocado-eagle-month-bulb-kangaroo-brain |  
 | bip_39_word_new_br_1 | scrub |  
 | bip_39_word_new_br_10 | scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo<br>brain<br>honey |  
 | bip_39_word_new_br_11 | scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo<br>brain<br>honey<br>wife |  
@@ -147,6 +159,18 @@ brain |
 | bip_39_word_space_7 | scrub jaguar derive avocado eagle month bulb |  
 | bip_39_word_space_8 | scrub jaguar derive avocado eagle month bulb kangaroo |  
 | bip_39_word_space_9 | scrub jaguar derive avocado eagle month bulb kangaroo brain |  
+| bip_39_word_underscore_1 | scrub |  
+| bip_39_word_underscore_10 | scrub_jaguar_derive_avocado_eagle_month_bulb_kangaroo_brain_honey |  
+| bip_39_word_underscore_11 | scrub_jaguar_derive_avocado_eagle_month_bulb_kangaroo_brain_honey_wife |  
+| bip_39_word_underscore_12 | scrub_jaguar_derive_avocado_eagle_month_bulb_kangaroo_brain_honey_wife_appear |  
+| bip_39_word_underscore_2 | scrub_jaguar |  
+| bip_39_word_underscore_3 | scrub_jaguar_derive |  
+| bip_39_word_underscore_4 | scrub_jaguar_derive_avocado |  
+| bip_39_word_underscore_5 | scrub_jaguar_derive_avocado_eagle |  
+| bip_39_word_underscore_6 | scrub_jaguar_derive_avocado_eagle_month |  
+| bip_39_word_underscore_7 | scrub_jaguar_derive_avocado_eagle_month_bulb |  
+| bip_39_word_underscore_8 | scrub_jaguar_derive_avocado_eagle_month_bulb_kangaroo |  
+| bip_39_word_underscore_9 | scrub_jaguar_derive_avocado_eagle_month_bulb_kangaroo_brain |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

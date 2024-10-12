@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exchange |  
+| bip_39_word_dash_10 | exchange-echo-dune-order-soda-satoshi-route-stable-review-lawn |  
+| bip_39_word_dash_11 | exchange-echo-dune-order-soda-satoshi-route-stable-review-lawn-adjust |  
+| bip_39_word_dash_12 | exchange-echo-dune-order-soda-satoshi-route-stable-review-lawn-adjust-anxiety |  
+| bip_39_word_dash_2 | exchange-echo |  
+| bip_39_word_dash_3 | exchange-echo-dune |  
+| bip_39_word_dash_4 | exchange-echo-dune-order |  
+| bip_39_word_dash_5 | exchange-echo-dune-order-soda |  
+| bip_39_word_dash_6 | exchange-echo-dune-order-soda-satoshi |  
+| bip_39_word_dash_7 | exchange-echo-dune-order-soda-satoshi-route |  
+| bip_39_word_dash_8 | exchange-echo-dune-order-soda-satoshi-route-stable |  
+| bip_39_word_dash_9 | exchange-echo-dune-order-soda-satoshi-route-stable-review |  
 | bip_39_word_new_br_1 | exchange |  
 | bip_39_word_new_br_10 | exchange<br>echo<br>dune<br>order<br>soda<br>satoshi<br>route<br>stable<br>review<br>lawn |  
 | bip_39_word_new_br_11 | exchange<br>echo<br>dune<br>order<br>soda<br>satoshi<br>route<br>stable<br>review<br>lawn<br>adjust |  
@@ -147,6 +159,18 @@ review |
 | bip_39_word_space_7 | exchange echo dune order soda satoshi route |  
 | bip_39_word_space_8 | exchange echo dune order soda satoshi route stable |  
 | bip_39_word_space_9 | exchange echo dune order soda satoshi route stable review |  
+| bip_39_word_underscore_1 | exchange |  
+| bip_39_word_underscore_10 | exchange_echo_dune_order_soda_satoshi_route_stable_review_lawn |  
+| bip_39_word_underscore_11 | exchange_echo_dune_order_soda_satoshi_route_stable_review_lawn_adjust |  
+| bip_39_word_underscore_12 | exchange_echo_dune_order_soda_satoshi_route_stable_review_lawn_adjust_anxiety |  
+| bip_39_word_underscore_2 | exchange_echo |  
+| bip_39_word_underscore_3 | exchange_echo_dune |  
+| bip_39_word_underscore_4 | exchange_echo_dune_order |  
+| bip_39_word_underscore_5 | exchange_echo_dune_order_soda |  
+| bip_39_word_underscore_6 | exchange_echo_dune_order_soda_satoshi |  
+| bip_39_word_underscore_7 | exchange_echo_dune_order_soda_satoshi_route |  
+| bip_39_word_underscore_8 | exchange_echo_dune_order_soda_satoshi_route_stable |  
+| bip_39_word_underscore_9 | exchange_echo_dune_order_soda_satoshi_route_stable_review |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

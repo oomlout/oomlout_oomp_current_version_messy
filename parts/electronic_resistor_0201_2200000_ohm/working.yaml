@@ -1,3 +1,15 @@
+bip_39_word_dash_1: industry
+bip_39_word_dash_10: industry-gas-draft-chicken-sudden-fire-ship-better-fantasy-oblige
+bip_39_word_dash_11: industry-gas-draft-chicken-sudden-fire-ship-better-fantasy-oblige-stone
+bip_39_word_dash_12: industry-gas-draft-chicken-sudden-fire-ship-better-fantasy-oblige-stone-age
+bip_39_word_dash_2: industry-gas
+bip_39_word_dash_3: industry-gas-draft
+bip_39_word_dash_4: industry-gas-draft-chicken
+bip_39_word_dash_5: industry-gas-draft-chicken-sudden
+bip_39_word_dash_6: industry-gas-draft-chicken-sudden-fire
+bip_39_word_dash_7: industry-gas-draft-chicken-sudden-fire-ship
+bip_39_word_dash_8: industry-gas-draft-chicken-sudden-fire-ship-better
+bip_39_word_dash_9: industry-gas-draft-chicken-sudden-fire-ship-better-fantasy
 bip_39_word_new_br_1: industry
 bip_39_word_new_br_10: industry<br>gas<br>draft<br>chicken<br>sudden<br>fire<br>ship<br>better<br>fantasy<br>oblige
 bip_39_word_new_br_11: industry<br>gas<br>draft<br>chicken<br>sudden<br>fire<br>ship<br>better<br>fantasy<br>oblige<br>stone
@@ -193,6 +205,18 @@ bip_39_word_space_6: industry gas draft chicken sudden fire
 bip_39_word_space_7: industry gas draft chicken sudden fire ship
 bip_39_word_space_8: industry gas draft chicken sudden fire ship better
 bip_39_word_space_9: industry gas draft chicken sudden fire ship better fantasy
+bip_39_word_underscore_1: industry
+bip_39_word_underscore_10: industry_gas_draft_chicken_sudden_fire_ship_better_fantasy_oblige
+bip_39_word_underscore_11: industry_gas_draft_chicken_sudden_fire_ship_better_fantasy_oblige_stone
+bip_39_word_underscore_12: industry_gas_draft_chicken_sudden_fire_ship_better_fantasy_oblige_stone_age
+bip_39_word_underscore_2: industry_gas
+bip_39_word_underscore_3: industry_gas_draft
+bip_39_word_underscore_4: industry_gas_draft_chicken
+bip_39_word_underscore_5: industry_gas_draft_chicken_sudden
+bip_39_word_underscore_6: industry_gas_draft_chicken_sudden_fire
+bip_39_word_underscore_7: industry_gas_draft_chicken_sudden_fire_ship
+bip_39_word_underscore_8: industry_gas_draft_chicken_sudden_fire_ship_better
+bip_39_word_underscore_9: industry_gas_draft_chicken_sudden_fire_ship_better_fantasy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

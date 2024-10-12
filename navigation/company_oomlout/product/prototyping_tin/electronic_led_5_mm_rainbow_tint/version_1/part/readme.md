@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | accident |  
+| bip_39_word_dash_10 | accident-point-fitness-ahead-timber-want-door-draw-detail-disease |  
+| bip_39_word_dash_11 | accident-point-fitness-ahead-timber-want-door-draw-detail-disease-toast |  
+| bip_39_word_dash_12 | accident-point-fitness-ahead-timber-want-door-draw-detail-disease-toast-antique |  
+| bip_39_word_dash_2 | accident-point |  
+| bip_39_word_dash_3 | accident-point-fitness |  
+| bip_39_word_dash_4 | accident-point-fitness-ahead |  
+| bip_39_word_dash_5 | accident-point-fitness-ahead-timber |  
+| bip_39_word_dash_6 | accident-point-fitness-ahead-timber-want |  
+| bip_39_word_dash_7 | accident-point-fitness-ahead-timber-want-door |  
+| bip_39_word_dash_8 | accident-point-fitness-ahead-timber-want-door-draw |  
+| bip_39_word_dash_9 | accident-point-fitness-ahead-timber-want-door-draw-detail |  
 | bip_39_word_new_br_1 | accident |  
 | bip_39_word_new_br_10 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw<br>detail<br>disease |  
 | bip_39_word_new_br_11 | accident<br>point<br>fitness<br>ahead<br>timber<br>want<br>door<br>draw<br>detail<br>disease<br>toast |  
@@ -147,6 +159,18 @@ detail |
 | bip_39_word_space_7 | accident point fitness ahead timber want door |  
 | bip_39_word_space_8 | accident point fitness ahead timber want door draw |  
 | bip_39_word_space_9 | accident point fitness ahead timber want door draw detail |  
+| bip_39_word_underscore_1 | accident |  
+| bip_39_word_underscore_10 | accident_point_fitness_ahead_timber_want_door_draw_detail_disease |  
+| bip_39_word_underscore_11 | accident_point_fitness_ahead_timber_want_door_draw_detail_disease_toast |  
+| bip_39_word_underscore_12 | accident_point_fitness_ahead_timber_want_door_draw_detail_disease_toast_antique |  
+| bip_39_word_underscore_2 | accident_point |  
+| bip_39_word_underscore_3 | accident_point_fitness |  
+| bip_39_word_underscore_4 | accident_point_fitness_ahead |  
+| bip_39_word_underscore_5 | accident_point_fitness_ahead_timber |  
+| bip_39_word_underscore_6 | accident_point_fitness_ahead_timber_want |  
+| bip_39_word_underscore_7 | accident_point_fitness_ahead_timber_want_door |  
+| bip_39_word_underscore_8 | accident_point_fitness_ahead_timber_want_door_draw |  
+| bip_39_word_underscore_9 | accident_point_fitness_ahead_timber_want_door_draw_detail |  
 | classification | company_oomlout |  
 | classification_capital | Company Oomlout |  
 | classification_first_letter | c |  

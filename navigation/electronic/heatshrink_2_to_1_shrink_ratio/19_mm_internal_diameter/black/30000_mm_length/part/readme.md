@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fault |  
+| bip_39_word_dash_10 | fault-key-average-duck-agree-senior-auction-orchard-uphold-sight |  
+| bip_39_word_dash_11 | fault-key-average-duck-agree-senior-auction-orchard-uphold-sight-skull |  
+| bip_39_word_dash_12 | fault-key-average-duck-agree-senior-auction-orchard-uphold-sight-skull-across |  
+| bip_39_word_dash_2 | fault-key |  
+| bip_39_word_dash_3 | fault-key-average |  
+| bip_39_word_dash_4 | fault-key-average-duck |  
+| bip_39_word_dash_5 | fault-key-average-duck-agree |  
+| bip_39_word_dash_6 | fault-key-average-duck-agree-senior |  
+| bip_39_word_dash_7 | fault-key-average-duck-agree-senior-auction |  
+| bip_39_word_dash_8 | fault-key-average-duck-agree-senior-auction-orchard |  
+| bip_39_word_dash_9 | fault-key-average-duck-agree-senior-auction-orchard-uphold |  
 | bip_39_word_new_br_1 | fault |  
 | bip_39_word_new_br_10 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard<br>uphold<br>sight |  
 | bip_39_word_new_br_11 | fault<br>key<br>average<br>duck<br>agree<br>senior<br>auction<br>orchard<br>uphold<br>sight<br>skull |  
@@ -147,6 +159,18 @@ uphold |
 | bip_39_word_space_7 | fault key average duck agree senior auction |  
 | bip_39_word_space_8 | fault key average duck agree senior auction orchard |  
 | bip_39_word_space_9 | fault key average duck agree senior auction orchard uphold |  
+| bip_39_word_underscore_1 | fault |  
+| bip_39_word_underscore_10 | fault_key_average_duck_agree_senior_auction_orchard_uphold_sight |  
+| bip_39_word_underscore_11 | fault_key_average_duck_agree_senior_auction_orchard_uphold_sight_skull |  
+| bip_39_word_underscore_12 | fault_key_average_duck_agree_senior_auction_orchard_uphold_sight_skull_across |  
+| bip_39_word_underscore_2 | fault_key |  
+| bip_39_word_underscore_3 | fault_key_average |  
+| bip_39_word_underscore_4 | fault_key_average_duck |  
+| bip_39_word_underscore_5 | fault_key_average_duck_agree |  
+| bip_39_word_underscore_6 | fault_key_average_duck_agree_senior |  
+| bip_39_word_underscore_7 | fault_key_average_duck_agree_senior_auction |  
+| bip_39_word_underscore_8 | fault_key_average_duck_agree_senior_auction_orchard |  
+| bip_39_word_underscore_9 | fault_key_average_duck_agree_senior_auction_orchard_uphold |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

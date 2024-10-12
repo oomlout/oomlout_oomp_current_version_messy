@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | candy |  
+| bip_39_word_dash_10 | candy-great-same-shell-canal-tissue-two-split-amazing-hobby |  
+| bip_39_word_dash_11 | candy-great-same-shell-canal-tissue-two-split-amazing-hobby-cheap |  
+| bip_39_word_dash_12 | candy-great-same-shell-canal-tissue-two-split-amazing-hobby-cheap-arena |  
+| bip_39_word_dash_2 | candy-great |  
+| bip_39_word_dash_3 | candy-great-same |  
+| bip_39_word_dash_4 | candy-great-same-shell |  
+| bip_39_word_dash_5 | candy-great-same-shell-canal |  
+| bip_39_word_dash_6 | candy-great-same-shell-canal-tissue |  
+| bip_39_word_dash_7 | candy-great-same-shell-canal-tissue-two |  
+| bip_39_word_dash_8 | candy-great-same-shell-canal-tissue-two-split |  
+| bip_39_word_dash_9 | candy-great-same-shell-canal-tissue-two-split-amazing |  
 | bip_39_word_new_br_1 | candy |  
 | bip_39_word_new_br_10 | candy<br>great<br>same<br>shell<br>canal<br>tissue<br>two<br>split<br>amazing<br>hobby |  
 | bip_39_word_new_br_11 | candy<br>great<br>same<br>shell<br>canal<br>tissue<br>two<br>split<br>amazing<br>hobby<br>cheap |  
@@ -147,6 +159,18 @@ amazing |
 | bip_39_word_space_7 | candy great same shell canal tissue two |  
 | bip_39_word_space_8 | candy great same shell canal tissue two split |  
 | bip_39_word_space_9 | candy great same shell canal tissue two split amazing |  
+| bip_39_word_underscore_1 | candy |  
+| bip_39_word_underscore_10 | candy_great_same_shell_canal_tissue_two_split_amazing_hobby |  
+| bip_39_word_underscore_11 | candy_great_same_shell_canal_tissue_two_split_amazing_hobby_cheap |  
+| bip_39_word_underscore_12 | candy_great_same_shell_canal_tissue_two_split_amazing_hobby_cheap_arena |  
+| bip_39_word_underscore_2 | candy_great |  
+| bip_39_word_underscore_3 | candy_great_same |  
+| bip_39_word_underscore_4 | candy_great_same_shell |  
+| bip_39_word_underscore_5 | candy_great_same_shell_canal |  
+| bip_39_word_underscore_6 | candy_great_same_shell_canal_tissue |  
+| bip_39_word_underscore_7 | candy_great_same_shell_canal_tissue_two |  
+| bip_39_word_underscore_8 | candy_great_same_shell_canal_tissue_two_split |  
+| bip_39_word_underscore_9 | candy_great_same_shell_canal_tissue_two_split_amazing |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

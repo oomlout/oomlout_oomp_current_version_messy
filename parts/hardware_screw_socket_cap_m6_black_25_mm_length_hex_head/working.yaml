@@ -1,3 +1,15 @@
+bip_39_word_dash_1: faith
+bip_39_word_dash_10: faith-film-believe-assist-spy-power-universe-obtain-light-transfer
+bip_39_word_dash_11: faith-film-believe-assist-spy-power-universe-obtain-light-transfer-dial
+bip_39_word_dash_12: faith-film-believe-assist-spy-power-universe-obtain-light-transfer-dial-amateur
+bip_39_word_dash_2: faith-film
+bip_39_word_dash_3: faith-film-believe
+bip_39_word_dash_4: faith-film-believe-assist
+bip_39_word_dash_5: faith-film-believe-assist-spy
+bip_39_word_dash_6: faith-film-believe-assist-spy-power
+bip_39_word_dash_7: faith-film-believe-assist-spy-power-universe
+bip_39_word_dash_8: faith-film-believe-assist-spy-power-universe-obtain
+bip_39_word_dash_9: faith-film-believe-assist-spy-power-universe-obtain-light
 bip_39_word_new_br_1: faith
 bip_39_word_new_br_10: faith<br>film<br>believe<br>assist<br>spy<br>power<br>universe<br>obtain<br>light<br>transfer
 bip_39_word_new_br_11: faith<br>film<br>believe<br>assist<br>spy<br>power<br>universe<br>obtain<br>light<br>transfer<br>dial
@@ -193,6 +205,18 @@ bip_39_word_space_6: faith film believe assist spy power
 bip_39_word_space_7: faith film believe assist spy power universe
 bip_39_word_space_8: faith film believe assist spy power universe obtain
 bip_39_word_space_9: faith film believe assist spy power universe obtain light
+bip_39_word_underscore_1: faith
+bip_39_word_underscore_10: faith_film_believe_assist_spy_power_universe_obtain_light_transfer
+bip_39_word_underscore_11: faith_film_believe_assist_spy_power_universe_obtain_light_transfer_dial
+bip_39_word_underscore_12: faith_film_believe_assist_spy_power_universe_obtain_light_transfer_dial_amateur
+bip_39_word_underscore_2: faith_film
+bip_39_word_underscore_3: faith_film_believe
+bip_39_word_underscore_4: faith_film_believe_assist
+bip_39_word_underscore_5: faith_film_believe_assist_spy
+bip_39_word_underscore_6: faith_film_believe_assist_spy_power
+bip_39_word_underscore_7: faith_film_believe_assist_spy_power_universe
+bip_39_word_underscore_8: faith_film_believe_assist_spy_power_universe_obtain
+bip_39_word_underscore_9: faith_film_believe_assist_spy_power_universe_obtain_light
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lumber |  
+| bip_39_word_dash_10 | lumber-surprise-april-rigid-narrow-tourist-empty-float-pumpkin-neutral |  
+| bip_39_word_dash_11 | lumber-surprise-april-rigid-narrow-tourist-empty-float-pumpkin-neutral-confirm |  
+| bip_39_word_dash_12 | lumber-surprise-april-rigid-narrow-tourist-empty-float-pumpkin-neutral-confirm-apology |  
+| bip_39_word_dash_2 | lumber-surprise |  
+| bip_39_word_dash_3 | lumber-surprise-april |  
+| bip_39_word_dash_4 | lumber-surprise-april-rigid |  
+| bip_39_word_dash_5 | lumber-surprise-april-rigid-narrow |  
+| bip_39_word_dash_6 | lumber-surprise-april-rigid-narrow-tourist |  
+| bip_39_word_dash_7 | lumber-surprise-april-rigid-narrow-tourist-empty |  
+| bip_39_word_dash_8 | lumber-surprise-april-rigid-narrow-tourist-empty-float |  
+| bip_39_word_dash_9 | lumber-surprise-april-rigid-narrow-tourist-empty-float-pumpkin |  
 | bip_39_word_new_br_1 | lumber |  
 | bip_39_word_new_br_10 | lumber<br>surprise<br>april<br>rigid<br>narrow<br>tourist<br>empty<br>float<br>pumpkin<br>neutral |  
 | bip_39_word_new_br_11 | lumber<br>surprise<br>april<br>rigid<br>narrow<br>tourist<br>empty<br>float<br>pumpkin<br>neutral<br>confirm |  
@@ -147,6 +159,18 @@ pumpkin |
 | bip_39_word_space_7 | lumber surprise april rigid narrow tourist empty |  
 | bip_39_word_space_8 | lumber surprise april rigid narrow tourist empty float |  
 | bip_39_word_space_9 | lumber surprise april rigid narrow tourist empty float pumpkin |  
+| bip_39_word_underscore_1 | lumber |  
+| bip_39_word_underscore_10 | lumber_surprise_april_rigid_narrow_tourist_empty_float_pumpkin_neutral |  
+| bip_39_word_underscore_11 | lumber_surprise_april_rigid_narrow_tourist_empty_float_pumpkin_neutral_confirm |  
+| bip_39_word_underscore_12 | lumber_surprise_april_rigid_narrow_tourist_empty_float_pumpkin_neutral_confirm_apology |  
+| bip_39_word_underscore_2 | lumber_surprise |  
+| bip_39_word_underscore_3 | lumber_surprise_april |  
+| bip_39_word_underscore_4 | lumber_surprise_april_rigid |  
+| bip_39_word_underscore_5 | lumber_surprise_april_rigid_narrow |  
+| bip_39_word_underscore_6 | lumber_surprise_april_rigid_narrow_tourist |  
+| bip_39_word_underscore_7 | lumber_surprise_april_rigid_narrow_tourist_empty |  
+| bip_39_word_underscore_8 | lumber_surprise_april_rigid_narrow_tourist_empty_float |  
+| bip_39_word_underscore_9 | lumber_surprise_april_rigid_narrow_tourist_empty_float_pumpkin |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

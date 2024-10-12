@@ -1,3 +1,15 @@
+bip_39_word_dash_1: squirrel
+bip_39_word_dash_10: squirrel-appear-shine-gravity-absorb-birth-arrest-board-play-soda
+bip_39_word_dash_11: squirrel-appear-shine-gravity-absorb-birth-arrest-board-play-soda-about
+bip_39_word_dash_12: squirrel-appear-shine-gravity-absorb-birth-arrest-board-play-soda-about-abuse
+bip_39_word_dash_2: squirrel-appear
+bip_39_word_dash_3: squirrel-appear-shine
+bip_39_word_dash_4: squirrel-appear-shine-gravity
+bip_39_word_dash_5: squirrel-appear-shine-gravity-absorb
+bip_39_word_dash_6: squirrel-appear-shine-gravity-absorb-birth
+bip_39_word_dash_7: squirrel-appear-shine-gravity-absorb-birth-arrest
+bip_39_word_dash_8: squirrel-appear-shine-gravity-absorb-birth-arrest-board
+bip_39_word_dash_9: squirrel-appear-shine-gravity-absorb-birth-arrest-board-play
 bip_39_word_new_br_1: squirrel
 bip_39_word_new_br_10: squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board<br>play<br>soda
 bip_39_word_new_br_11: squirrel<br>appear<br>shine<br>gravity<br>absorb<br>birth<br>arrest<br>board<br>play<br>soda<br>about
@@ -194,6 +206,18 @@ bip_39_word_space_6: squirrel appear shine gravity absorb birth
 bip_39_word_space_7: squirrel appear shine gravity absorb birth arrest
 bip_39_word_space_8: squirrel appear shine gravity absorb birth arrest board
 bip_39_word_space_9: squirrel appear shine gravity absorb birth arrest board play
+bip_39_word_underscore_1: squirrel
+bip_39_word_underscore_10: squirrel_appear_shine_gravity_absorb_birth_arrest_board_play_soda
+bip_39_word_underscore_11: squirrel_appear_shine_gravity_absorb_birth_arrest_board_play_soda_about
+bip_39_word_underscore_12: squirrel_appear_shine_gravity_absorb_birth_arrest_board_play_soda_about_abuse
+bip_39_word_underscore_2: squirrel_appear
+bip_39_word_underscore_3: squirrel_appear_shine
+bip_39_word_underscore_4: squirrel_appear_shine_gravity
+bip_39_word_underscore_5: squirrel_appear_shine_gravity_absorb
+bip_39_word_underscore_6: squirrel_appear_shine_gravity_absorb_birth
+bip_39_word_underscore_7: squirrel_appear_shine_gravity_absorb_birth_arrest
+bip_39_word_underscore_8: squirrel_appear_shine_gravity_absorb_birth_arrest_board
+bip_39_word_underscore_9: squirrel_appear_shine_gravity_absorb_birth_arrest_board_play
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

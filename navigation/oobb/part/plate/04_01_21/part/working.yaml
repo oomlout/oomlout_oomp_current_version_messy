@@ -1,3 +1,15 @@
+bip_39_word_dash_1: prize
+bip_39_word_dash_10: prize-monitor-trip-drastic-mimic-wine-coral-train-snow-chalk
+bip_39_word_dash_11: prize-monitor-trip-drastic-mimic-wine-coral-train-snow-chalk-isolate
+bip_39_word_dash_12: prize-monitor-trip-drastic-mimic-wine-coral-train-snow-chalk-isolate-address
+bip_39_word_dash_2: prize-monitor
+bip_39_word_dash_3: prize-monitor-trip
+bip_39_word_dash_4: prize-monitor-trip-drastic
+bip_39_word_dash_5: prize-monitor-trip-drastic-mimic
+bip_39_word_dash_6: prize-monitor-trip-drastic-mimic-wine
+bip_39_word_dash_7: prize-monitor-trip-drastic-mimic-wine-coral
+bip_39_word_dash_8: prize-monitor-trip-drastic-mimic-wine-coral-train
+bip_39_word_dash_9: prize-monitor-trip-drastic-mimic-wine-coral-train-snow
 bip_39_word_new_br_1: prize
 bip_39_word_new_br_10: prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk
 bip_39_word_new_br_11: prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk<br>isolate
@@ -193,6 +205,18 @@ bip_39_word_space_6: prize monitor trip drastic mimic wine
 bip_39_word_space_7: prize monitor trip drastic mimic wine coral
 bip_39_word_space_8: prize monitor trip drastic mimic wine coral train
 bip_39_word_space_9: prize monitor trip drastic mimic wine coral train snow
+bip_39_word_underscore_1: prize
+bip_39_word_underscore_10: prize_monitor_trip_drastic_mimic_wine_coral_train_snow_chalk
+bip_39_word_underscore_11: prize_monitor_trip_drastic_mimic_wine_coral_train_snow_chalk_isolate
+bip_39_word_underscore_12: prize_monitor_trip_drastic_mimic_wine_coral_train_snow_chalk_isolate_address
+bip_39_word_underscore_2: prize_monitor
+bip_39_word_underscore_3: prize_monitor_trip
+bip_39_word_underscore_4: prize_monitor_trip_drastic
+bip_39_word_underscore_5: prize_monitor_trip_drastic_mimic
+bip_39_word_underscore_6: prize_monitor_trip_drastic_mimic_wine
+bip_39_word_underscore_7: prize_monitor_trip_drastic_mimic_wine_coral
+bip_39_word_underscore_8: prize_monitor_trip_drastic_mimic_wine_coral_train
+bip_39_word_underscore_9: prize_monitor_trip_drastic_mimic_wine_coral_train_snow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

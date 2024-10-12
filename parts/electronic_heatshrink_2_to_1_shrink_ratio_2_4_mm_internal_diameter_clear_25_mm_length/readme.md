@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pink |  
+| bip_39_word_dash_10 | pink-festival-good-spring-tissue-cruise-daring-animal-ginger-modify |  
+| bip_39_word_dash_11 | pink-festival-good-spring-tissue-cruise-daring-animal-ginger-modify-two |  
+| bip_39_word_dash_12 | pink-festival-good-spring-tissue-cruise-daring-animal-ginger-modify-two-artist |  
+| bip_39_word_dash_2 | pink-festival |  
+| bip_39_word_dash_3 | pink-festival-good |  
+| bip_39_word_dash_4 | pink-festival-good-spring |  
+| bip_39_word_dash_5 | pink-festival-good-spring-tissue |  
+| bip_39_word_dash_6 | pink-festival-good-spring-tissue-cruise |  
+| bip_39_word_dash_7 | pink-festival-good-spring-tissue-cruise-daring |  
+| bip_39_word_dash_8 | pink-festival-good-spring-tissue-cruise-daring-animal |  
+| bip_39_word_dash_9 | pink-festival-good-spring-tissue-cruise-daring-animal-ginger |  
 | bip_39_word_new_br_1 | pink |  
 | bip_39_word_new_br_10 | pink<br>festival<br>good<br>spring<br>tissue<br>cruise<br>daring<br>animal<br>ginger<br>modify |  
 | bip_39_word_new_br_11 | pink<br>festival<br>good<br>spring<br>tissue<br>cruise<br>daring<br>animal<br>ginger<br>modify<br>two |  
@@ -147,6 +159,18 @@ ginger |
 | bip_39_word_space_7 | pink festival good spring tissue cruise daring |  
 | bip_39_word_space_8 | pink festival good spring tissue cruise daring animal |  
 | bip_39_word_space_9 | pink festival good spring tissue cruise daring animal ginger |  
+| bip_39_word_underscore_1 | pink |  
+| bip_39_word_underscore_10 | pink_festival_good_spring_tissue_cruise_daring_animal_ginger_modify |  
+| bip_39_word_underscore_11 | pink_festival_good_spring_tissue_cruise_daring_animal_ginger_modify_two |  
+| bip_39_word_underscore_12 | pink_festival_good_spring_tissue_cruise_daring_animal_ginger_modify_two_artist |  
+| bip_39_word_underscore_2 | pink_festival |  
+| bip_39_word_underscore_3 | pink_festival_good |  
+| bip_39_word_underscore_4 | pink_festival_good_spring |  
+| bip_39_word_underscore_5 | pink_festival_good_spring_tissue |  
+| bip_39_word_underscore_6 | pink_festival_good_spring_tissue_cruise |  
+| bip_39_word_underscore_7 | pink_festival_good_spring_tissue_cruise_daring |  
+| bip_39_word_underscore_8 | pink_festival_good_spring_tissue_cruise_daring_animal |  
+| bip_39_word_underscore_9 | pink_festival_good_spring_tissue_cruise_daring_animal_ginger |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

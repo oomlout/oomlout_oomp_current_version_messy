@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dial |  
+| bip_39_word_dash_10 | dial-honey-certain-spray-patrol-sentence-canyon-pizza-flash-hair |  
+| bip_39_word_dash_11 | dial-honey-certain-spray-patrol-sentence-canyon-pizza-flash-hair-chicken |  
+| bip_39_word_dash_12 | dial-honey-certain-spray-patrol-sentence-canyon-pizza-flash-hair-chicken-alter |  
+| bip_39_word_dash_2 | dial-honey |  
+| bip_39_word_dash_3 | dial-honey-certain |  
+| bip_39_word_dash_4 | dial-honey-certain-spray |  
+| bip_39_word_dash_5 | dial-honey-certain-spray-patrol |  
+| bip_39_word_dash_6 | dial-honey-certain-spray-patrol-sentence |  
+| bip_39_word_dash_7 | dial-honey-certain-spray-patrol-sentence-canyon |  
+| bip_39_word_dash_8 | dial-honey-certain-spray-patrol-sentence-canyon-pizza |  
+| bip_39_word_dash_9 | dial-honey-certain-spray-patrol-sentence-canyon-pizza-flash |  
 | bip_39_word_new_br_1 | dial |  
 | bip_39_word_new_br_10 | dial<br>honey<br>certain<br>spray<br>patrol<br>sentence<br>canyon<br>pizza<br>flash<br>hair |  
 | bip_39_word_new_br_11 | dial<br>honey<br>certain<br>spray<br>patrol<br>sentence<br>canyon<br>pizza<br>flash<br>hair<br>chicken |  
@@ -147,6 +159,18 @@ flash |
 | bip_39_word_space_7 | dial honey certain spray patrol sentence canyon |  
 | bip_39_word_space_8 | dial honey certain spray patrol sentence canyon pizza |  
 | bip_39_word_space_9 | dial honey certain spray patrol sentence canyon pizza flash |  
+| bip_39_word_underscore_1 | dial |  
+| bip_39_word_underscore_10 | dial_honey_certain_spray_patrol_sentence_canyon_pizza_flash_hair |  
+| bip_39_word_underscore_11 | dial_honey_certain_spray_patrol_sentence_canyon_pizza_flash_hair_chicken |  
+| bip_39_word_underscore_12 | dial_honey_certain_spray_patrol_sentence_canyon_pizza_flash_hair_chicken_alter |  
+| bip_39_word_underscore_2 | dial_honey |  
+| bip_39_word_underscore_3 | dial_honey_certain |  
+| bip_39_word_underscore_4 | dial_honey_certain_spray |  
+| bip_39_word_underscore_5 | dial_honey_certain_spray_patrol |  
+| bip_39_word_underscore_6 | dial_honey_certain_spray_patrol_sentence |  
+| bip_39_word_underscore_7 | dial_honey_certain_spray_patrol_sentence_canyon |  
+| bip_39_word_underscore_8 | dial_honey_certain_spray_patrol_sentence_canyon_pizza |  
+| bip_39_word_underscore_9 | dial_honey_certain_spray_patrol_sentence_canyon_pizza_flash |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

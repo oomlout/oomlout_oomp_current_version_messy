@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dog
+bip_39_word_dash_10: dog-vote-opera-pool-charge-cruel-upset-then-acid-purchase
+bip_39_word_dash_11: dog-vote-opera-pool-charge-cruel-upset-then-acid-purchase-enemy
+bip_39_word_dash_12: dog-vote-opera-pool-charge-cruel-upset-then-acid-purchase-enemy-ahead
+bip_39_word_dash_2: dog-vote
+bip_39_word_dash_3: dog-vote-opera
+bip_39_word_dash_4: dog-vote-opera-pool
+bip_39_word_dash_5: dog-vote-opera-pool-charge
+bip_39_word_dash_6: dog-vote-opera-pool-charge-cruel
+bip_39_word_dash_7: dog-vote-opera-pool-charge-cruel-upset
+bip_39_word_dash_8: dog-vote-opera-pool-charge-cruel-upset-then
+bip_39_word_dash_9: dog-vote-opera-pool-charge-cruel-upset-then-acid
 bip_39_word_new_br_1: dog
 bip_39_word_new_br_10: dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then<br>acid<br>purchase
 bip_39_word_new_br_11: dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then<br>acid<br>purchase<br>enemy
@@ -192,6 +204,18 @@ bip_39_word_space_6: dog vote opera pool charge cruel
 bip_39_word_space_7: dog vote opera pool charge cruel upset
 bip_39_word_space_8: dog vote opera pool charge cruel upset then
 bip_39_word_space_9: dog vote opera pool charge cruel upset then acid
+bip_39_word_underscore_1: dog
+bip_39_word_underscore_10: dog_vote_opera_pool_charge_cruel_upset_then_acid_purchase
+bip_39_word_underscore_11: dog_vote_opera_pool_charge_cruel_upset_then_acid_purchase_enemy
+bip_39_word_underscore_12: dog_vote_opera_pool_charge_cruel_upset_then_acid_purchase_enemy_ahead
+bip_39_word_underscore_2: dog_vote
+bip_39_word_underscore_3: dog_vote_opera
+bip_39_word_underscore_4: dog_vote_opera_pool
+bip_39_word_underscore_5: dog_vote_opera_pool_charge
+bip_39_word_underscore_6: dog_vote_opera_pool_charge_cruel
+bip_39_word_underscore_7: dog_vote_opera_pool_charge_cruel_upset
+bip_39_word_underscore_8: dog_vote_opera_pool_charge_cruel_upset_then
+bip_39_word_underscore_9: dog_vote_opera_pool_charge_cruel_upset_then_acid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

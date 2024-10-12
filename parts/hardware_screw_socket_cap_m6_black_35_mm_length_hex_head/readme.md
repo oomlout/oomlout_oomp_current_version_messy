@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | napkin |  
+| bip_39_word_dash_10 | napkin-fold-auto-turtle-journey-enlist-grace-sad-toy-album |  
+| bip_39_word_dash_11 | napkin-fold-auto-turtle-journey-enlist-grace-sad-toy-album-large |  
+| bip_39_word_dash_12 | napkin-fold-auto-turtle-journey-enlist-grace-sad-toy-album-large-able |  
+| bip_39_word_dash_2 | napkin-fold |  
+| bip_39_word_dash_3 | napkin-fold-auto |  
+| bip_39_word_dash_4 | napkin-fold-auto-turtle |  
+| bip_39_word_dash_5 | napkin-fold-auto-turtle-journey |  
+| bip_39_word_dash_6 | napkin-fold-auto-turtle-journey-enlist |  
+| bip_39_word_dash_7 | napkin-fold-auto-turtle-journey-enlist-grace |  
+| bip_39_word_dash_8 | napkin-fold-auto-turtle-journey-enlist-grace-sad |  
+| bip_39_word_dash_9 | napkin-fold-auto-turtle-journey-enlist-grace-sad-toy |  
 | bip_39_word_new_br_1 | napkin |  
 | bip_39_word_new_br_10 | napkin<br>fold<br>auto<br>turtle<br>journey<br>enlist<br>grace<br>sad<br>toy<br>album |  
 | bip_39_word_new_br_11 | napkin<br>fold<br>auto<br>turtle<br>journey<br>enlist<br>grace<br>sad<br>toy<br>album<br>large |  
@@ -147,6 +159,18 @@ toy |
 | bip_39_word_space_7 | napkin fold auto turtle journey enlist grace |  
 | bip_39_word_space_8 | napkin fold auto turtle journey enlist grace sad |  
 | bip_39_word_space_9 | napkin fold auto turtle journey enlist grace sad toy |  
+| bip_39_word_underscore_1 | napkin |  
+| bip_39_word_underscore_10 | napkin_fold_auto_turtle_journey_enlist_grace_sad_toy_album |  
+| bip_39_word_underscore_11 | napkin_fold_auto_turtle_journey_enlist_grace_sad_toy_album_large |  
+| bip_39_word_underscore_12 | napkin_fold_auto_turtle_journey_enlist_grace_sad_toy_album_large_able |  
+| bip_39_word_underscore_2 | napkin_fold |  
+| bip_39_word_underscore_3 | napkin_fold_auto |  
+| bip_39_word_underscore_4 | napkin_fold_auto_turtle |  
+| bip_39_word_underscore_5 | napkin_fold_auto_turtle_journey |  
+| bip_39_word_underscore_6 | napkin_fold_auto_turtle_journey_enlist |  
+| bip_39_word_underscore_7 | napkin_fold_auto_turtle_journey_enlist_grace |  
+| bip_39_word_underscore_8 | napkin_fold_auto_turtle_journey_enlist_grace_sad |  
+| bip_39_word_underscore_9 | napkin_fold_auto_turtle_journey_enlist_grace_sad_toy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

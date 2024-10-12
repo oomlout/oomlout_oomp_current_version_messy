@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | insane |  
+| bip_39_word_dash_10 | insane-sunny-park-diary-apple-proud-drift-neglect-industry-farm |  
+| bip_39_word_dash_11 | insane-sunny-park-diary-apple-proud-drift-neglect-industry-farm-giggle |  
+| bip_39_word_dash_12 | insane-sunny-park-diary-apple-proud-drift-neglect-industry-farm-giggle-adapt |  
+| bip_39_word_dash_2 | insane-sunny |  
+| bip_39_word_dash_3 | insane-sunny-park |  
+| bip_39_word_dash_4 | insane-sunny-park-diary |  
+| bip_39_word_dash_5 | insane-sunny-park-diary-apple |  
+| bip_39_word_dash_6 | insane-sunny-park-diary-apple-proud |  
+| bip_39_word_dash_7 | insane-sunny-park-diary-apple-proud-drift |  
+| bip_39_word_dash_8 | insane-sunny-park-diary-apple-proud-drift-neglect |  
+| bip_39_word_dash_9 | insane-sunny-park-diary-apple-proud-drift-neglect-industry |  
 | bip_39_word_new_br_1 | insane |  
 | bip_39_word_new_br_10 | insane<br>sunny<br>park<br>diary<br>apple<br>proud<br>drift<br>neglect<br>industry<br>farm |  
 | bip_39_word_new_br_11 | insane<br>sunny<br>park<br>diary<br>apple<br>proud<br>drift<br>neglect<br>industry<br>farm<br>giggle |  
@@ -147,6 +159,18 @@ industry |
 | bip_39_word_space_7 | insane sunny park diary apple proud drift |  
 | bip_39_word_space_8 | insane sunny park diary apple proud drift neglect |  
 | bip_39_word_space_9 | insane sunny park diary apple proud drift neglect industry |  
+| bip_39_word_underscore_1 | insane |  
+| bip_39_word_underscore_10 | insane_sunny_park_diary_apple_proud_drift_neglect_industry_farm |  
+| bip_39_word_underscore_11 | insane_sunny_park_diary_apple_proud_drift_neglect_industry_farm_giggle |  
+| bip_39_word_underscore_12 | insane_sunny_park_diary_apple_proud_drift_neglect_industry_farm_giggle_adapt |  
+| bip_39_word_underscore_2 | insane_sunny |  
+| bip_39_word_underscore_3 | insane_sunny_park |  
+| bip_39_word_underscore_4 | insane_sunny_park_diary |  
+| bip_39_word_underscore_5 | insane_sunny_park_diary_apple |  
+| bip_39_word_underscore_6 | insane_sunny_park_diary_apple_proud |  
+| bip_39_word_underscore_7 | insane_sunny_park_diary_apple_proud_drift |  
+| bip_39_word_underscore_8 | insane_sunny_park_diary_apple_proud_drift_neglect |  
+| bip_39_word_underscore_9 | insane_sunny_park_diary_apple_proud_drift_neglect_industry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | session |  
+| bip_39_word_dash_10 | session-timber-net-trust-thing-benefit-mass-short-net-link |  
+| bip_39_word_dash_11 | session-timber-net-trust-thing-benefit-mass-short-net-link-trip |  
+| bip_39_word_dash_12 | session-timber-net-trust-thing-benefit-mass-short-net-link-trip-audit |  
+| bip_39_word_dash_2 | session-timber |  
+| bip_39_word_dash_3 | session-timber-net |  
+| bip_39_word_dash_4 | session-timber-net-trust |  
+| bip_39_word_dash_5 | session-timber-net-trust-thing |  
+| bip_39_word_dash_6 | session-timber-net-trust-thing-benefit |  
+| bip_39_word_dash_7 | session-timber-net-trust-thing-benefit-mass |  
+| bip_39_word_dash_8 | session-timber-net-trust-thing-benefit-mass-short |  
+| bip_39_word_dash_9 | session-timber-net-trust-thing-benefit-mass-short-net |  
 | bip_39_word_new_br_1 | session |  
 | bip_39_word_new_br_10 | session<br>timber<br>net<br>trust<br>thing<br>benefit<br>mass<br>short<br>net<br>link |  
 | bip_39_word_new_br_11 | session<br>timber<br>net<br>trust<br>thing<br>benefit<br>mass<br>short<br>net<br>link<br>trip |  
@@ -147,6 +159,18 @@ net |
 | bip_39_word_space_7 | session timber net trust thing benefit mass |  
 | bip_39_word_space_8 | session timber net trust thing benefit mass short |  
 | bip_39_word_space_9 | session timber net trust thing benefit mass short net |  
+| bip_39_word_underscore_1 | session |  
+| bip_39_word_underscore_10 | session_timber_net_trust_thing_benefit_mass_short_net_link |  
+| bip_39_word_underscore_11 | session_timber_net_trust_thing_benefit_mass_short_net_link_trip |  
+| bip_39_word_underscore_12 | session_timber_net_trust_thing_benefit_mass_short_net_link_trip_audit |  
+| bip_39_word_underscore_2 | session_timber |  
+| bip_39_word_underscore_3 | session_timber_net |  
+| bip_39_word_underscore_4 | session_timber_net_trust |  
+| bip_39_word_underscore_5 | session_timber_net_trust_thing |  
+| bip_39_word_underscore_6 | session_timber_net_trust_thing_benefit |  
+| bip_39_word_underscore_7 | session_timber_net_trust_thing_benefit_mass |  
+| bip_39_word_underscore_8 | session_timber_net_trust_thing_benefit_mass_short |  
+| bip_39_word_underscore_9 | session_timber_net_trust_thing_benefit_mass_short_net |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

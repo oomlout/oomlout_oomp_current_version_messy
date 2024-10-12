@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | general |  
+| bip_39_word_dash_10 | general-pool-leader-patrol-fat-oxygen-virus-lunch-clay-base |  
+| bip_39_word_dash_11 | general-pool-leader-patrol-fat-oxygen-virus-lunch-clay-base-host |  
+| bip_39_word_dash_12 | general-pool-leader-patrol-fat-oxygen-virus-lunch-clay-base-host-artist |  
+| bip_39_word_dash_2 | general-pool |  
+| bip_39_word_dash_3 | general-pool-leader |  
+| bip_39_word_dash_4 | general-pool-leader-patrol |  
+| bip_39_word_dash_5 | general-pool-leader-patrol-fat |  
+| bip_39_word_dash_6 | general-pool-leader-patrol-fat-oxygen |  
+| bip_39_word_dash_7 | general-pool-leader-patrol-fat-oxygen-virus |  
+| bip_39_word_dash_8 | general-pool-leader-patrol-fat-oxygen-virus-lunch |  
+| bip_39_word_dash_9 | general-pool-leader-patrol-fat-oxygen-virus-lunch-clay |  
 | bip_39_word_new_br_1 | general |  
 | bip_39_word_new_br_10 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch<br>clay<br>base |  
 | bip_39_word_new_br_11 | general<br>pool<br>leader<br>patrol<br>fat<br>oxygen<br>virus<br>lunch<br>clay<br>base<br>host |  
@@ -147,6 +159,18 @@ clay |
 | bip_39_word_space_7 | general pool leader patrol fat oxygen virus |  
 | bip_39_word_space_8 | general pool leader patrol fat oxygen virus lunch |  
 | bip_39_word_space_9 | general pool leader patrol fat oxygen virus lunch clay |  
+| bip_39_word_underscore_1 | general |  
+| bip_39_word_underscore_10 | general_pool_leader_patrol_fat_oxygen_virus_lunch_clay_base |  
+| bip_39_word_underscore_11 | general_pool_leader_patrol_fat_oxygen_virus_lunch_clay_base_host |  
+| bip_39_word_underscore_12 | general_pool_leader_patrol_fat_oxygen_virus_lunch_clay_base_host_artist |  
+| bip_39_word_underscore_2 | general_pool |  
+| bip_39_word_underscore_3 | general_pool_leader |  
+| bip_39_word_underscore_4 | general_pool_leader_patrol |  
+| bip_39_word_underscore_5 | general_pool_leader_patrol_fat |  
+| bip_39_word_underscore_6 | general_pool_leader_patrol_fat_oxygen |  
+| bip_39_word_underscore_7 | general_pool_leader_patrol_fat_oxygen_virus |  
+| bip_39_word_underscore_8 | general_pool_leader_patrol_fat_oxygen_virus_lunch |  
+| bip_39_word_underscore_9 | general_pool_leader_patrol_fat_oxygen_virus_lunch_clay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

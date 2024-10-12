@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | digital |  
+| bip_39_word_dash_10 | digital-chimney-license-creek-near-term-industry-extra-target-ostrich |  
+| bip_39_word_dash_11 | digital-chimney-license-creek-near-term-industry-extra-target-ostrich-prefer |  
+| bip_39_word_dash_12 | digital-chimney-license-creek-near-term-industry-extra-target-ostrich-prefer-airport |  
+| bip_39_word_dash_2 | digital-chimney |  
+| bip_39_word_dash_3 | digital-chimney-license |  
+| bip_39_word_dash_4 | digital-chimney-license-creek |  
+| bip_39_word_dash_5 | digital-chimney-license-creek-near |  
+| bip_39_word_dash_6 | digital-chimney-license-creek-near-term |  
+| bip_39_word_dash_7 | digital-chimney-license-creek-near-term-industry |  
+| bip_39_word_dash_8 | digital-chimney-license-creek-near-term-industry-extra |  
+| bip_39_word_dash_9 | digital-chimney-license-creek-near-term-industry-extra-target |  
 | bip_39_word_new_br_1 | digital |  
 | bip_39_word_new_br_10 | digital<br>chimney<br>license<br>creek<br>near<br>term<br>industry<br>extra<br>target<br>ostrich |  
 | bip_39_word_new_br_11 | digital<br>chimney<br>license<br>creek<br>near<br>term<br>industry<br>extra<br>target<br>ostrich<br>prefer |  
@@ -147,6 +159,18 @@ target |
 | bip_39_word_space_7 | digital chimney license creek near term industry |  
 | bip_39_word_space_8 | digital chimney license creek near term industry extra |  
 | bip_39_word_space_9 | digital chimney license creek near term industry extra target |  
+| bip_39_word_underscore_1 | digital |  
+| bip_39_word_underscore_10 | digital_chimney_license_creek_near_term_industry_extra_target_ostrich |  
+| bip_39_word_underscore_11 | digital_chimney_license_creek_near_term_industry_extra_target_ostrich_prefer |  
+| bip_39_word_underscore_12 | digital_chimney_license_creek_near_term_industry_extra_target_ostrich_prefer_airport |  
+| bip_39_word_underscore_2 | digital_chimney |  
+| bip_39_word_underscore_3 | digital_chimney_license |  
+| bip_39_word_underscore_4 | digital_chimney_license_creek |  
+| bip_39_word_underscore_5 | digital_chimney_license_creek_near |  
+| bip_39_word_underscore_6 | digital_chimney_license_creek_near_term |  
+| bip_39_word_underscore_7 | digital_chimney_license_creek_near_term_industry |  
+| bip_39_word_underscore_8 | digital_chimney_license_creek_near_term_industry_extra |  
+| bip_39_word_underscore_9 | digital_chimney_license_creek_near_term_industry_extra_target |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

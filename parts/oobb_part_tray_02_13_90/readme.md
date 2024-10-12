@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | speak |  
+| bip_39_word_dash_10 | speak-fall-skirt-peasant-dad-false-hope-jeans-broken-hub |  
+| bip_39_word_dash_11 | speak-fall-skirt-peasant-dad-false-hope-jeans-broken-hub-toss |  
+| bip_39_word_dash_12 | speak-fall-skirt-peasant-dad-false-hope-jeans-broken-hub-toss-accident |  
+| bip_39_word_dash_2 | speak-fall |  
+| bip_39_word_dash_3 | speak-fall-skirt |  
+| bip_39_word_dash_4 | speak-fall-skirt-peasant |  
+| bip_39_word_dash_5 | speak-fall-skirt-peasant-dad |  
+| bip_39_word_dash_6 | speak-fall-skirt-peasant-dad-false |  
+| bip_39_word_dash_7 | speak-fall-skirt-peasant-dad-false-hope |  
+| bip_39_word_dash_8 | speak-fall-skirt-peasant-dad-false-hope-jeans |  
+| bip_39_word_dash_9 | speak-fall-skirt-peasant-dad-false-hope-jeans-broken |  
 | bip_39_word_new_br_1 | speak |  
 | bip_39_word_new_br_10 | speak<br>fall<br>skirt<br>peasant<br>dad<br>false<br>hope<br>jeans<br>broken<br>hub |  
 | bip_39_word_new_br_11 | speak<br>fall<br>skirt<br>peasant<br>dad<br>false<br>hope<br>jeans<br>broken<br>hub<br>toss |  
@@ -147,6 +159,18 @@ broken |
 | bip_39_word_space_7 | speak fall skirt peasant dad false hope |  
 | bip_39_word_space_8 | speak fall skirt peasant dad false hope jeans |  
 | bip_39_word_space_9 | speak fall skirt peasant dad false hope jeans broken |  
+| bip_39_word_underscore_1 | speak |  
+| bip_39_word_underscore_10 | speak_fall_skirt_peasant_dad_false_hope_jeans_broken_hub |  
+| bip_39_word_underscore_11 | speak_fall_skirt_peasant_dad_false_hope_jeans_broken_hub_toss |  
+| bip_39_word_underscore_12 | speak_fall_skirt_peasant_dad_false_hope_jeans_broken_hub_toss_accident |  
+| bip_39_word_underscore_2 | speak_fall |  
+| bip_39_word_underscore_3 | speak_fall_skirt |  
+| bip_39_word_underscore_4 | speak_fall_skirt_peasant |  
+| bip_39_word_underscore_5 | speak_fall_skirt_peasant_dad |  
+| bip_39_word_underscore_6 | speak_fall_skirt_peasant_dad_false |  
+| bip_39_word_underscore_7 | speak_fall_skirt_peasant_dad_false_hope |  
+| bip_39_word_underscore_8 | speak_fall_skirt_peasant_dad_false_hope_jeans |  
+| bip_39_word_underscore_9 | speak_fall_skirt_peasant_dad_false_hope_jeans_broken |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

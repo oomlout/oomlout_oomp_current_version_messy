@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | million |  
+| bip_39_word_dash_10 | million-lucky-thing-load-elegant-enemy-energy-base-rough-circle |  
+| bip_39_word_dash_11 | million-lucky-thing-load-elegant-enemy-energy-base-rough-circle-display |  
+| bip_39_word_dash_12 | million-lucky-thing-load-elegant-enemy-energy-base-rough-circle-display-alpha |  
+| bip_39_word_dash_2 | million-lucky |  
+| bip_39_word_dash_3 | million-lucky-thing |  
+| bip_39_word_dash_4 | million-lucky-thing-load |  
+| bip_39_word_dash_5 | million-lucky-thing-load-elegant |  
+| bip_39_word_dash_6 | million-lucky-thing-load-elegant-enemy |  
+| bip_39_word_dash_7 | million-lucky-thing-load-elegant-enemy-energy |  
+| bip_39_word_dash_8 | million-lucky-thing-load-elegant-enemy-energy-base |  
+| bip_39_word_dash_9 | million-lucky-thing-load-elegant-enemy-energy-base-rough |  
 | bip_39_word_new_br_1 | million |  
 | bip_39_word_new_br_10 | million<br>lucky<br>thing<br>load<br>elegant<br>enemy<br>energy<br>base<br>rough<br>circle |  
 | bip_39_word_new_br_11 | million<br>lucky<br>thing<br>load<br>elegant<br>enemy<br>energy<br>base<br>rough<br>circle<br>display |  
@@ -147,6 +159,18 @@ rough |
 | bip_39_word_space_7 | million lucky thing load elegant enemy energy |  
 | bip_39_word_space_8 | million lucky thing load elegant enemy energy base |  
 | bip_39_word_space_9 | million lucky thing load elegant enemy energy base rough |  
+| bip_39_word_underscore_1 | million |  
+| bip_39_word_underscore_10 | million_lucky_thing_load_elegant_enemy_energy_base_rough_circle |  
+| bip_39_word_underscore_11 | million_lucky_thing_load_elegant_enemy_energy_base_rough_circle_display |  
+| bip_39_word_underscore_12 | million_lucky_thing_load_elegant_enemy_energy_base_rough_circle_display_alpha |  
+| bip_39_word_underscore_2 | million_lucky |  
+| bip_39_word_underscore_3 | million_lucky_thing |  
+| bip_39_word_underscore_4 | million_lucky_thing_load |  
+| bip_39_word_underscore_5 | million_lucky_thing_load_elegant |  
+| bip_39_word_underscore_6 | million_lucky_thing_load_elegant_enemy |  
+| bip_39_word_underscore_7 | million_lucky_thing_load_elegant_enemy_energy |  
+| bip_39_word_underscore_8 | million_lucky_thing_load_elegant_enemy_energy_base |  
+| bip_39_word_underscore_9 | million_lucky_thing_load_elegant_enemy_energy_base_rough |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

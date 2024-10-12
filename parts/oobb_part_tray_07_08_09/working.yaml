@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leg
+bip_39_word_dash_10: leg-differ-inside-fiction-practice-dwarf-tip-yellow-relief-eager
+bip_39_word_dash_11: leg-differ-inside-fiction-practice-dwarf-tip-yellow-relief-eager-chase
+bip_39_word_dash_12: leg-differ-inside-fiction-practice-dwarf-tip-yellow-relief-eager-chase-amount
+bip_39_word_dash_2: leg-differ
+bip_39_word_dash_3: leg-differ-inside
+bip_39_word_dash_4: leg-differ-inside-fiction
+bip_39_word_dash_5: leg-differ-inside-fiction-practice
+bip_39_word_dash_6: leg-differ-inside-fiction-practice-dwarf
+bip_39_word_dash_7: leg-differ-inside-fiction-practice-dwarf-tip
+bip_39_word_dash_8: leg-differ-inside-fiction-practice-dwarf-tip-yellow
+bip_39_word_dash_9: leg-differ-inside-fiction-practice-dwarf-tip-yellow-relief
 bip_39_word_new_br_1: leg
 bip_39_word_new_br_10: leg<br>differ<br>inside<br>fiction<br>practice<br>dwarf<br>tip<br>yellow<br>relief<br>eager
 bip_39_word_new_br_11: leg<br>differ<br>inside<br>fiction<br>practice<br>dwarf<br>tip<br>yellow<br>relief<br>eager<br>chase
@@ -193,6 +205,18 @@ bip_39_word_space_6: leg differ inside fiction practice dwarf
 bip_39_word_space_7: leg differ inside fiction practice dwarf tip
 bip_39_word_space_8: leg differ inside fiction practice dwarf tip yellow
 bip_39_word_space_9: leg differ inside fiction practice dwarf tip yellow relief
+bip_39_word_underscore_1: leg
+bip_39_word_underscore_10: leg_differ_inside_fiction_practice_dwarf_tip_yellow_relief_eager
+bip_39_word_underscore_11: leg_differ_inside_fiction_practice_dwarf_tip_yellow_relief_eager_chase
+bip_39_word_underscore_12: leg_differ_inside_fiction_practice_dwarf_tip_yellow_relief_eager_chase_amount
+bip_39_word_underscore_2: leg_differ
+bip_39_word_underscore_3: leg_differ_inside
+bip_39_word_underscore_4: leg_differ_inside_fiction
+bip_39_word_underscore_5: leg_differ_inside_fiction_practice
+bip_39_word_underscore_6: leg_differ_inside_fiction_practice_dwarf
+bip_39_word_underscore_7: leg_differ_inside_fiction_practice_dwarf_tip
+bip_39_word_underscore_8: leg_differ_inside_fiction_practice_dwarf_tip_yellow
+bip_39_word_underscore_9: leg_differ_inside_fiction_practice_dwarf_tip_yellow_relief
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

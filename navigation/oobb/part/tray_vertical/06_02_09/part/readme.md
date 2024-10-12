@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | remove |  
+| bip_39_word_dash_10 | remove-input-powder-goose-fork-pluck-meadow-final-elevator-blind |  
+| bip_39_word_dash_11 | remove-input-powder-goose-fork-pluck-meadow-final-elevator-blind-corn |  
+| bip_39_word_dash_12 | remove-input-powder-goose-fork-pluck-meadow-final-elevator-blind-corn-aunt |  
+| bip_39_word_dash_2 | remove-input |  
+| bip_39_word_dash_3 | remove-input-powder |  
+| bip_39_word_dash_4 | remove-input-powder-goose |  
+| bip_39_word_dash_5 | remove-input-powder-goose-fork |  
+| bip_39_word_dash_6 | remove-input-powder-goose-fork-pluck |  
+| bip_39_word_dash_7 | remove-input-powder-goose-fork-pluck-meadow |  
+| bip_39_word_dash_8 | remove-input-powder-goose-fork-pluck-meadow-final |  
+| bip_39_word_dash_9 | remove-input-powder-goose-fork-pluck-meadow-final-elevator |  
 | bip_39_word_new_br_1 | remove |  
 | bip_39_word_new_br_10 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind |  
 | bip_39_word_new_br_11 | remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind<br>corn |  
@@ -147,6 +159,18 @@ elevator |
 | bip_39_word_space_7 | remove input powder goose fork pluck meadow |  
 | bip_39_word_space_8 | remove input powder goose fork pluck meadow final |  
 | bip_39_word_space_9 | remove input powder goose fork pluck meadow final elevator |  
+| bip_39_word_underscore_1 | remove |  
+| bip_39_word_underscore_10 | remove_input_powder_goose_fork_pluck_meadow_final_elevator_blind |  
+| bip_39_word_underscore_11 | remove_input_powder_goose_fork_pluck_meadow_final_elevator_blind_corn |  
+| bip_39_word_underscore_12 | remove_input_powder_goose_fork_pluck_meadow_final_elevator_blind_corn_aunt |  
+| bip_39_word_underscore_2 | remove_input |  
+| bip_39_word_underscore_3 | remove_input_powder |  
+| bip_39_word_underscore_4 | remove_input_powder_goose |  
+| bip_39_word_underscore_5 | remove_input_powder_goose_fork |  
+| bip_39_word_underscore_6 | remove_input_powder_goose_fork_pluck |  
+| bip_39_word_underscore_7 | remove_input_powder_goose_fork_pluck_meadow |  
+| bip_39_word_underscore_8 | remove_input_powder_goose_fork_pluck_meadow_final |  
+| bip_39_word_underscore_9 | remove_input_powder_goose_fork_pluck_meadow_final_elevator |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

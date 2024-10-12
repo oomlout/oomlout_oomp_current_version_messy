@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | more |  
+| bip_39_word_dash_10 | more-able-beyond-carbon-universe-toward-alert-dinosaur-island-essence |  
+| bip_39_word_dash_11 | more-able-beyond-carbon-universe-toward-alert-dinosaur-island-essence-file |  
+| bip_39_word_dash_12 | more-able-beyond-carbon-universe-toward-alert-dinosaur-island-essence-file-asset |  
+| bip_39_word_dash_2 | more-able |  
+| bip_39_word_dash_3 | more-able-beyond |  
+| bip_39_word_dash_4 | more-able-beyond-carbon |  
+| bip_39_word_dash_5 | more-able-beyond-carbon-universe |  
+| bip_39_word_dash_6 | more-able-beyond-carbon-universe-toward |  
+| bip_39_word_dash_7 | more-able-beyond-carbon-universe-toward-alert |  
+| bip_39_word_dash_8 | more-able-beyond-carbon-universe-toward-alert-dinosaur |  
+| bip_39_word_dash_9 | more-able-beyond-carbon-universe-toward-alert-dinosaur-island |  
 | bip_39_word_new_br_1 | more |  
 | bip_39_word_new_br_10 | more<br>able<br>beyond<br>carbon<br>universe<br>toward<br>alert<br>dinosaur<br>island<br>essence |  
 | bip_39_word_new_br_11 | more<br>able<br>beyond<br>carbon<br>universe<br>toward<br>alert<br>dinosaur<br>island<br>essence<br>file |  
@@ -147,6 +159,18 @@ island |
 | bip_39_word_space_7 | more able beyond carbon universe toward alert |  
 | bip_39_word_space_8 | more able beyond carbon universe toward alert dinosaur |  
 | bip_39_word_space_9 | more able beyond carbon universe toward alert dinosaur island |  
+| bip_39_word_underscore_1 | more |  
+| bip_39_word_underscore_10 | more_able_beyond_carbon_universe_toward_alert_dinosaur_island_essence |  
+| bip_39_word_underscore_11 | more_able_beyond_carbon_universe_toward_alert_dinosaur_island_essence_file |  
+| bip_39_word_underscore_12 | more_able_beyond_carbon_universe_toward_alert_dinosaur_island_essence_file_asset |  
+| bip_39_word_underscore_2 | more_able |  
+| bip_39_word_underscore_3 | more_able_beyond |  
+| bip_39_word_underscore_4 | more_able_beyond_carbon |  
+| bip_39_word_underscore_5 | more_able_beyond_carbon_universe |  
+| bip_39_word_underscore_6 | more_able_beyond_carbon_universe_toward |  
+| bip_39_word_underscore_7 | more_able_beyond_carbon_universe_toward_alert |  
+| bip_39_word_underscore_8 | more_able_beyond_carbon_universe_toward_alert_dinosaur |  
+| bip_39_word_underscore_9 | more_able_beyond_carbon_universe_toward_alert_dinosaur_island |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

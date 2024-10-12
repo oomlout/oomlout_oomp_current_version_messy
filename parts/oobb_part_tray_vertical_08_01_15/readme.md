@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | easy |  
+| bip_39_word_dash_10 | easy-mother-winter-poem-life-census-vast-sad-smart-unusual |  
+| bip_39_word_dash_11 | easy-mother-winter-poem-life-census-vast-sad-smart-unusual-goose |  
+| bip_39_word_dash_12 | easy-mother-winter-poem-life-census-vast-sad-smart-unusual-goose-avocado |  
+| bip_39_word_dash_2 | easy-mother |  
+| bip_39_word_dash_3 | easy-mother-winter |  
+| bip_39_word_dash_4 | easy-mother-winter-poem |  
+| bip_39_word_dash_5 | easy-mother-winter-poem-life |  
+| bip_39_word_dash_6 | easy-mother-winter-poem-life-census |  
+| bip_39_word_dash_7 | easy-mother-winter-poem-life-census-vast |  
+| bip_39_word_dash_8 | easy-mother-winter-poem-life-census-vast-sad |  
+| bip_39_word_dash_9 | easy-mother-winter-poem-life-census-vast-sad-smart |  
 | bip_39_word_new_br_1 | easy |  
 | bip_39_word_new_br_10 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual |  
 | bip_39_word_new_br_11 | easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual<br>goose |  
@@ -147,6 +159,18 @@ smart |
 | bip_39_word_space_7 | easy mother winter poem life census vast |  
 | bip_39_word_space_8 | easy mother winter poem life census vast sad |  
 | bip_39_word_space_9 | easy mother winter poem life census vast sad smart |  
+| bip_39_word_underscore_1 | easy |  
+| bip_39_word_underscore_10 | easy_mother_winter_poem_life_census_vast_sad_smart_unusual |  
+| bip_39_word_underscore_11 | easy_mother_winter_poem_life_census_vast_sad_smart_unusual_goose |  
+| bip_39_word_underscore_12 | easy_mother_winter_poem_life_census_vast_sad_smart_unusual_goose_avocado |  
+| bip_39_word_underscore_2 | easy_mother |  
+| bip_39_word_underscore_3 | easy_mother_winter |  
+| bip_39_word_underscore_4 | easy_mother_winter_poem |  
+| bip_39_word_underscore_5 | easy_mother_winter_poem_life |  
+| bip_39_word_underscore_6 | easy_mother_winter_poem_life_census |  
+| bip_39_word_underscore_7 | easy_mother_winter_poem_life_census_vast |  
+| bip_39_word_underscore_8 | easy_mother_winter_poem_life_census_vast_sad |  
+| bip_39_word_underscore_9 | easy_mother_winter_poem_life_census_vast_sad_smart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

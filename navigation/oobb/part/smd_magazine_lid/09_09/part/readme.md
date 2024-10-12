@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mammal |  
+| bip_39_word_dash_10 | mammal-chicken-illness-exhibit-bundle-secret-predict-tape-draft-half |  
+| bip_39_word_dash_11 | mammal-chicken-illness-exhibit-bundle-secret-predict-tape-draft-half-attend |  
+| bip_39_word_dash_12 | mammal-chicken-illness-exhibit-bundle-secret-predict-tape-draft-half-attend-armed |  
+| bip_39_word_dash_2 | mammal-chicken |  
+| bip_39_word_dash_3 | mammal-chicken-illness |  
+| bip_39_word_dash_4 | mammal-chicken-illness-exhibit |  
+| bip_39_word_dash_5 | mammal-chicken-illness-exhibit-bundle |  
+| bip_39_word_dash_6 | mammal-chicken-illness-exhibit-bundle-secret |  
+| bip_39_word_dash_7 | mammal-chicken-illness-exhibit-bundle-secret-predict |  
+| bip_39_word_dash_8 | mammal-chicken-illness-exhibit-bundle-secret-predict-tape |  
+| bip_39_word_dash_9 | mammal-chicken-illness-exhibit-bundle-secret-predict-tape-draft |  
 | bip_39_word_new_br_1 | mammal |  
 | bip_39_word_new_br_10 | mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape<br>draft<br>half |  
 | bip_39_word_new_br_11 | mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape<br>draft<br>half<br>attend |  
@@ -147,6 +159,18 @@ draft |
 | bip_39_word_space_7 | mammal chicken illness exhibit bundle secret predict |  
 | bip_39_word_space_8 | mammal chicken illness exhibit bundle secret predict tape |  
 | bip_39_word_space_9 | mammal chicken illness exhibit bundle secret predict tape draft |  
+| bip_39_word_underscore_1 | mammal |  
+| bip_39_word_underscore_10 | mammal_chicken_illness_exhibit_bundle_secret_predict_tape_draft_half |  
+| bip_39_word_underscore_11 | mammal_chicken_illness_exhibit_bundle_secret_predict_tape_draft_half_attend |  
+| bip_39_word_underscore_12 | mammal_chicken_illness_exhibit_bundle_secret_predict_tape_draft_half_attend_armed |  
+| bip_39_word_underscore_2 | mammal_chicken |  
+| bip_39_word_underscore_3 | mammal_chicken_illness |  
+| bip_39_word_underscore_4 | mammal_chicken_illness_exhibit |  
+| bip_39_word_underscore_5 | mammal_chicken_illness_exhibit_bundle |  
+| bip_39_word_underscore_6 | mammal_chicken_illness_exhibit_bundle_secret |  
+| bip_39_word_underscore_7 | mammal_chicken_illness_exhibit_bundle_secret_predict |  
+| bip_39_word_underscore_8 | mammal_chicken_illness_exhibit_bundle_secret_predict_tape |  
+| bip_39_word_underscore_9 | mammal_chicken_illness_exhibit_bundle_secret_predict_tape_draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

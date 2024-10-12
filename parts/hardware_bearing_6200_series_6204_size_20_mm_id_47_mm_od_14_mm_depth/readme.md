@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | metal |  
+| bip_39_word_dash_10 | metal-reopen-peanut-sail-tragic-chimney-garden-payment-swap-marble |  
+| bip_39_word_dash_11 | metal-reopen-peanut-sail-tragic-chimney-garden-payment-swap-marble-garbage |  
+| bip_39_word_dash_12 | metal-reopen-peanut-sail-tragic-chimney-garden-payment-swap-marble-garbage-also |  
+| bip_39_word_dash_2 | metal-reopen |  
+| bip_39_word_dash_3 | metal-reopen-peanut |  
+| bip_39_word_dash_4 | metal-reopen-peanut-sail |  
+| bip_39_word_dash_5 | metal-reopen-peanut-sail-tragic |  
+| bip_39_word_dash_6 | metal-reopen-peanut-sail-tragic-chimney |  
+| bip_39_word_dash_7 | metal-reopen-peanut-sail-tragic-chimney-garden |  
+| bip_39_word_dash_8 | metal-reopen-peanut-sail-tragic-chimney-garden-payment |  
+| bip_39_word_dash_9 | metal-reopen-peanut-sail-tragic-chimney-garden-payment-swap |  
 | bip_39_word_new_br_1 | metal |  
 | bip_39_word_new_br_10 | metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment<br>swap<br>marble |  
 | bip_39_word_new_br_11 | metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment<br>swap<br>marble<br>garbage |  
@@ -147,6 +159,18 @@ swap |
 | bip_39_word_space_7 | metal reopen peanut sail tragic chimney garden |  
 | bip_39_word_space_8 | metal reopen peanut sail tragic chimney garden payment |  
 | bip_39_word_space_9 | metal reopen peanut sail tragic chimney garden payment swap |  
+| bip_39_word_underscore_1 | metal |  
+| bip_39_word_underscore_10 | metal_reopen_peanut_sail_tragic_chimney_garden_payment_swap_marble |  
+| bip_39_word_underscore_11 | metal_reopen_peanut_sail_tragic_chimney_garden_payment_swap_marble_garbage |  
+| bip_39_word_underscore_12 | metal_reopen_peanut_sail_tragic_chimney_garden_payment_swap_marble_garbage_also |  
+| bip_39_word_underscore_2 | metal_reopen |  
+| bip_39_word_underscore_3 | metal_reopen_peanut |  
+| bip_39_word_underscore_4 | metal_reopen_peanut_sail |  
+| bip_39_word_underscore_5 | metal_reopen_peanut_sail_tragic |  
+| bip_39_word_underscore_6 | metal_reopen_peanut_sail_tragic_chimney |  
+| bip_39_word_underscore_7 | metal_reopen_peanut_sail_tragic_chimney_garden |  
+| bip_39_word_underscore_8 | metal_reopen_peanut_sail_tragic_chimney_garden_payment |  
+| bip_39_word_underscore_9 | metal_reopen_peanut_sail_tragic_chimney_garden_payment_swap |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

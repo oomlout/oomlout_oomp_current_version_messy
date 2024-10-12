@@ -1,3 +1,15 @@
+bip_39_word_dash_1: attack
+bip_39_word_dash_10: attack-little-bench-slow-produce-lion-chef-private-only-put
+bip_39_word_dash_11: attack-little-bench-slow-produce-lion-chef-private-only-put-hammer
+bip_39_word_dash_12: attack-little-bench-slow-produce-lion-chef-private-only-put-hammer-adjust
+bip_39_word_dash_2: attack-little
+bip_39_word_dash_3: attack-little-bench
+bip_39_word_dash_4: attack-little-bench-slow
+bip_39_word_dash_5: attack-little-bench-slow-produce
+bip_39_word_dash_6: attack-little-bench-slow-produce-lion
+bip_39_word_dash_7: attack-little-bench-slow-produce-lion-chef
+bip_39_word_dash_8: attack-little-bench-slow-produce-lion-chef-private
+bip_39_word_dash_9: attack-little-bench-slow-produce-lion-chef-private-only
 bip_39_word_new_br_1: attack
 bip_39_word_new_br_10: attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put
 bip_39_word_new_br_11: attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put<br>hammer
@@ -193,6 +205,18 @@ bip_39_word_space_6: attack little bench slow produce lion
 bip_39_word_space_7: attack little bench slow produce lion chef
 bip_39_word_space_8: attack little bench slow produce lion chef private
 bip_39_word_space_9: attack little bench slow produce lion chef private only
+bip_39_word_underscore_1: attack
+bip_39_word_underscore_10: attack_little_bench_slow_produce_lion_chef_private_only_put
+bip_39_word_underscore_11: attack_little_bench_slow_produce_lion_chef_private_only_put_hammer
+bip_39_word_underscore_12: attack_little_bench_slow_produce_lion_chef_private_only_put_hammer_adjust
+bip_39_word_underscore_2: attack_little
+bip_39_word_underscore_3: attack_little_bench
+bip_39_word_underscore_4: attack_little_bench_slow
+bip_39_word_underscore_5: attack_little_bench_slow_produce
+bip_39_word_underscore_6: attack_little_bench_slow_produce_lion
+bip_39_word_underscore_7: attack_little_bench_slow_produce_lion_chef
+bip_39_word_underscore_8: attack_little_bench_slow_produce_lion_chef_private
+bip_39_word_underscore_9: attack_little_bench_slow_produce_lion_chef_private_only
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

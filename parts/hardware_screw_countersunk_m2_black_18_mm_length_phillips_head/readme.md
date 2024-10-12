@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | can |  
+| bip_39_word_dash_10 | can-ostrich-ivory-wink-miss-scheme-rare-never-hospital-token |  
+| bip_39_word_dash_11 | can-ostrich-ivory-wink-miss-scheme-rare-never-hospital-token-conduct |  
+| bip_39_word_dash_12 | can-ostrich-ivory-wink-miss-scheme-rare-never-hospital-token-conduct-autumn |  
+| bip_39_word_dash_2 | can-ostrich |  
+| bip_39_word_dash_3 | can-ostrich-ivory |  
+| bip_39_word_dash_4 | can-ostrich-ivory-wink |  
+| bip_39_word_dash_5 | can-ostrich-ivory-wink-miss |  
+| bip_39_word_dash_6 | can-ostrich-ivory-wink-miss-scheme |  
+| bip_39_word_dash_7 | can-ostrich-ivory-wink-miss-scheme-rare |  
+| bip_39_word_dash_8 | can-ostrich-ivory-wink-miss-scheme-rare-never |  
+| bip_39_word_dash_9 | can-ostrich-ivory-wink-miss-scheme-rare-never-hospital |  
 | bip_39_word_new_br_1 | can |  
 | bip_39_word_new_br_10 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never<br>hospital<br>token |  
 | bip_39_word_new_br_11 | can<br>ostrich<br>ivory<br>wink<br>miss<br>scheme<br>rare<br>never<br>hospital<br>token<br>conduct |  
@@ -147,6 +159,18 @@ hospital |
 | bip_39_word_space_7 | can ostrich ivory wink miss scheme rare |  
 | bip_39_word_space_8 | can ostrich ivory wink miss scheme rare never |  
 | bip_39_word_space_9 | can ostrich ivory wink miss scheme rare never hospital |  
+| bip_39_word_underscore_1 | can |  
+| bip_39_word_underscore_10 | can_ostrich_ivory_wink_miss_scheme_rare_never_hospital_token |  
+| bip_39_word_underscore_11 | can_ostrich_ivory_wink_miss_scheme_rare_never_hospital_token_conduct |  
+| bip_39_word_underscore_12 | can_ostrich_ivory_wink_miss_scheme_rare_never_hospital_token_conduct_autumn |  
+| bip_39_word_underscore_2 | can_ostrich |  
+| bip_39_word_underscore_3 | can_ostrich_ivory |  
+| bip_39_word_underscore_4 | can_ostrich_ivory_wink |  
+| bip_39_word_underscore_5 | can_ostrich_ivory_wink_miss |  
+| bip_39_word_underscore_6 | can_ostrich_ivory_wink_miss_scheme |  
+| bip_39_word_underscore_7 | can_ostrich_ivory_wink_miss_scheme_rare |  
+| bip_39_word_underscore_8 | can_ostrich_ivory_wink_miss_scheme_rare_never |  
+| bip_39_word_underscore_9 | can_ostrich_ivory_wink_miss_scheme_rare_never_hospital |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

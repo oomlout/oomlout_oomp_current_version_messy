@@ -1,3 +1,15 @@
+bip_39_word_dash_1: luxury
+bip_39_word_dash_10: luxury-topple-uncle-such-bottom-guide-involve-tip-retreat-witness
+bip_39_word_dash_11: luxury-topple-uncle-such-bottom-guide-involve-tip-retreat-witness-intact
+bip_39_word_dash_12: luxury-topple-uncle-such-bottom-guide-involve-tip-retreat-witness-intact-act
+bip_39_word_dash_2: luxury-topple
+bip_39_word_dash_3: luxury-topple-uncle
+bip_39_word_dash_4: luxury-topple-uncle-such
+bip_39_word_dash_5: luxury-topple-uncle-such-bottom
+bip_39_word_dash_6: luxury-topple-uncle-such-bottom-guide
+bip_39_word_dash_7: luxury-topple-uncle-such-bottom-guide-involve
+bip_39_word_dash_8: luxury-topple-uncle-such-bottom-guide-involve-tip
+bip_39_word_dash_9: luxury-topple-uncle-such-bottom-guide-involve-tip-retreat
 bip_39_word_new_br_1: luxury
 bip_39_word_new_br_10: luxury<br>topple<br>uncle<br>such<br>bottom<br>guide<br>involve<br>tip<br>retreat<br>witness
 bip_39_word_new_br_11: luxury<br>topple<br>uncle<br>such<br>bottom<br>guide<br>involve<br>tip<br>retreat<br>witness<br>intact
@@ -193,6 +205,18 @@ bip_39_word_space_6: luxury topple uncle such bottom guide
 bip_39_word_space_7: luxury topple uncle such bottom guide involve
 bip_39_word_space_8: luxury topple uncle such bottom guide involve tip
 bip_39_word_space_9: luxury topple uncle such bottom guide involve tip retreat
+bip_39_word_underscore_1: luxury
+bip_39_word_underscore_10: luxury_topple_uncle_such_bottom_guide_involve_tip_retreat_witness
+bip_39_word_underscore_11: luxury_topple_uncle_such_bottom_guide_involve_tip_retreat_witness_intact
+bip_39_word_underscore_12: luxury_topple_uncle_such_bottom_guide_involve_tip_retreat_witness_intact_act
+bip_39_word_underscore_2: luxury_topple
+bip_39_word_underscore_3: luxury_topple_uncle
+bip_39_word_underscore_4: luxury_topple_uncle_such
+bip_39_word_underscore_5: luxury_topple_uncle_such_bottom
+bip_39_word_underscore_6: luxury_topple_uncle_such_bottom_guide
+bip_39_word_underscore_7: luxury_topple_uncle_such_bottom_guide_involve
+bip_39_word_underscore_8: luxury_topple_uncle_such_bottom_guide_involve_tip
+bip_39_word_underscore_9: luxury_topple_uncle_such_bottom_guide_involve_tip_retreat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

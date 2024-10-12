@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | problem |  
+| bip_39_word_dash_10 | problem-start-place-rib-super-target-lake-father-visit-chaos |  
+| bip_39_word_dash_11 | problem-start-place-rib-super-target-lake-father-visit-chaos-find |  
+| bip_39_word_dash_12 | problem-start-place-rib-super-target-lake-father-visit-chaos-find-army |  
+| bip_39_word_dash_2 | problem-start |  
+| bip_39_word_dash_3 | problem-start-place |  
+| bip_39_word_dash_4 | problem-start-place-rib |  
+| bip_39_word_dash_5 | problem-start-place-rib-super |  
+| bip_39_word_dash_6 | problem-start-place-rib-super-target |  
+| bip_39_word_dash_7 | problem-start-place-rib-super-target-lake |  
+| bip_39_word_dash_8 | problem-start-place-rib-super-target-lake-father |  
+| bip_39_word_dash_9 | problem-start-place-rib-super-target-lake-father-visit |  
 | bip_39_word_new_br_1 | problem |  
 | bip_39_word_new_br_10 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos |  
 | bip_39_word_new_br_11 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos<br>find |  
@@ -147,6 +159,18 @@ visit |
 | bip_39_word_space_7 | problem start place rib super target lake |  
 | bip_39_word_space_8 | problem start place rib super target lake father |  
 | bip_39_word_space_9 | problem start place rib super target lake father visit |  
+| bip_39_word_underscore_1 | problem |  
+| bip_39_word_underscore_10 | problem_start_place_rib_super_target_lake_father_visit_chaos |  
+| bip_39_word_underscore_11 | problem_start_place_rib_super_target_lake_father_visit_chaos_find |  
+| bip_39_word_underscore_12 | problem_start_place_rib_super_target_lake_father_visit_chaos_find_army |  
+| bip_39_word_underscore_2 | problem_start |  
+| bip_39_word_underscore_3 | problem_start_place |  
+| bip_39_word_underscore_4 | problem_start_place_rib |  
+| bip_39_word_underscore_5 | problem_start_place_rib_super |  
+| bip_39_word_underscore_6 | problem_start_place_rib_super_target |  
+| bip_39_word_underscore_7 | problem_start_place_rib_super_target_lake |  
+| bip_39_word_underscore_8 | problem_start_place_rib_super_target_lake_father |  
+| bip_39_word_underscore_9 | problem_start_place_rib_super_target_lake_father_visit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

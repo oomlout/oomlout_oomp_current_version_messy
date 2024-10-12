@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | seek |  
+| bip_39_word_dash_10 | seek-all-cricket-example-rhythm-exercise-inner-nominee-image-lock |  
+| bip_39_word_dash_11 | seek-all-cricket-example-rhythm-exercise-inner-nominee-image-lock-segment |  
+| bip_39_word_dash_12 | seek-all-cricket-example-rhythm-exercise-inner-nominee-image-lock-segment-arch |  
+| bip_39_word_dash_2 | seek-all |  
+| bip_39_word_dash_3 | seek-all-cricket |  
+| bip_39_word_dash_4 | seek-all-cricket-example |  
+| bip_39_word_dash_5 | seek-all-cricket-example-rhythm |  
+| bip_39_word_dash_6 | seek-all-cricket-example-rhythm-exercise |  
+| bip_39_word_dash_7 | seek-all-cricket-example-rhythm-exercise-inner |  
+| bip_39_word_dash_8 | seek-all-cricket-example-rhythm-exercise-inner-nominee |  
+| bip_39_word_dash_9 | seek-all-cricket-example-rhythm-exercise-inner-nominee-image |  
 | bip_39_word_new_br_1 | seek |  
 | bip_39_word_new_br_10 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee<br>image<br>lock |  
 | bip_39_word_new_br_11 | seek<br>all<br>cricket<br>example<br>rhythm<br>exercise<br>inner<br>nominee<br>image<br>lock<br>segment |  
@@ -147,6 +159,18 @@ image |
 | bip_39_word_space_7 | seek all cricket example rhythm exercise inner |  
 | bip_39_word_space_8 | seek all cricket example rhythm exercise inner nominee |  
 | bip_39_word_space_9 | seek all cricket example rhythm exercise inner nominee image |  
+| bip_39_word_underscore_1 | seek |  
+| bip_39_word_underscore_10 | seek_all_cricket_example_rhythm_exercise_inner_nominee_image_lock |  
+| bip_39_word_underscore_11 | seek_all_cricket_example_rhythm_exercise_inner_nominee_image_lock_segment |  
+| bip_39_word_underscore_12 | seek_all_cricket_example_rhythm_exercise_inner_nominee_image_lock_segment_arch |  
+| bip_39_word_underscore_2 | seek_all |  
+| bip_39_word_underscore_3 | seek_all_cricket |  
+| bip_39_word_underscore_4 | seek_all_cricket_example |  
+| bip_39_word_underscore_5 | seek_all_cricket_example_rhythm |  
+| bip_39_word_underscore_6 | seek_all_cricket_example_rhythm_exercise |  
+| bip_39_word_underscore_7 | seek_all_cricket_example_rhythm_exercise_inner |  
+| bip_39_word_underscore_8 | seek_all_cricket_example_rhythm_exercise_inner_nominee |  
+| bip_39_word_underscore_9 | seek_all_cricket_example_rhythm_exercise_inner_nominee_image |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

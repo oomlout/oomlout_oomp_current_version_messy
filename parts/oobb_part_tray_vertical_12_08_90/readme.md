@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sure |  
+| bip_39_word_dash_10 | sure-forget-stick-mesh-weather-garbage-final-zebra-rigid-awesome |  
+| bip_39_word_dash_11 | sure-forget-stick-mesh-weather-garbage-final-zebra-rigid-awesome-dwarf |  
+| bip_39_word_dash_12 | sure-forget-stick-mesh-weather-garbage-final-zebra-rigid-awesome-dwarf-amount |  
+| bip_39_word_dash_2 | sure-forget |  
+| bip_39_word_dash_3 | sure-forget-stick |  
+| bip_39_word_dash_4 | sure-forget-stick-mesh |  
+| bip_39_word_dash_5 | sure-forget-stick-mesh-weather |  
+| bip_39_word_dash_6 | sure-forget-stick-mesh-weather-garbage |  
+| bip_39_word_dash_7 | sure-forget-stick-mesh-weather-garbage-final |  
+| bip_39_word_dash_8 | sure-forget-stick-mesh-weather-garbage-final-zebra |  
+| bip_39_word_dash_9 | sure-forget-stick-mesh-weather-garbage-final-zebra-rigid |  
 | bip_39_word_new_br_1 | sure |  
 | bip_39_word_new_br_10 | sure<br>forget<br>stick<br>mesh<br>weather<br>garbage<br>final<br>zebra<br>rigid<br>awesome |  
 | bip_39_word_new_br_11 | sure<br>forget<br>stick<br>mesh<br>weather<br>garbage<br>final<br>zebra<br>rigid<br>awesome<br>dwarf |  
@@ -147,6 +159,18 @@ rigid |
 | bip_39_word_space_7 | sure forget stick mesh weather garbage final |  
 | bip_39_word_space_8 | sure forget stick mesh weather garbage final zebra |  
 | bip_39_word_space_9 | sure forget stick mesh weather garbage final zebra rigid |  
+| bip_39_word_underscore_1 | sure |  
+| bip_39_word_underscore_10 | sure_forget_stick_mesh_weather_garbage_final_zebra_rigid_awesome |  
+| bip_39_word_underscore_11 | sure_forget_stick_mesh_weather_garbage_final_zebra_rigid_awesome_dwarf |  
+| bip_39_word_underscore_12 | sure_forget_stick_mesh_weather_garbage_final_zebra_rigid_awesome_dwarf_amount |  
+| bip_39_word_underscore_2 | sure_forget |  
+| bip_39_word_underscore_3 | sure_forget_stick |  
+| bip_39_word_underscore_4 | sure_forget_stick_mesh |  
+| bip_39_word_underscore_5 | sure_forget_stick_mesh_weather |  
+| bip_39_word_underscore_6 | sure_forget_stick_mesh_weather_garbage |  
+| bip_39_word_underscore_7 | sure_forget_stick_mesh_weather_garbage_final |  
+| bip_39_word_underscore_8 | sure_forget_stick_mesh_weather_garbage_final_zebra |  
+| bip_39_word_underscore_9 | sure_forget_stick_mesh_weather_garbage_final_zebra_rigid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

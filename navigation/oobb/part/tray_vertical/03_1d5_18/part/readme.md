@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | high |  
+| bip_39_word_dash_10 | high-judge-curve-warrior-gorilla-help-guess-demand-demand-rack |  
+| bip_39_word_dash_11 | high-judge-curve-warrior-gorilla-help-guess-demand-demand-rack-hurdle |  
+| bip_39_word_dash_12 | high-judge-curve-warrior-gorilla-help-guess-demand-demand-rack-hurdle-achieve |  
+| bip_39_word_dash_2 | high-judge |  
+| bip_39_word_dash_3 | high-judge-curve |  
+| bip_39_word_dash_4 | high-judge-curve-warrior |  
+| bip_39_word_dash_5 | high-judge-curve-warrior-gorilla |  
+| bip_39_word_dash_6 | high-judge-curve-warrior-gorilla-help |  
+| bip_39_word_dash_7 | high-judge-curve-warrior-gorilla-help-guess |  
+| bip_39_word_dash_8 | high-judge-curve-warrior-gorilla-help-guess-demand |  
+| bip_39_word_dash_9 | high-judge-curve-warrior-gorilla-help-guess-demand-demand |  
 | bip_39_word_new_br_1 | high |  
 | bip_39_word_new_br_10 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack |  
 | bip_39_word_new_br_11 | high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack<br>hurdle |  
@@ -147,6 +159,18 @@ demand |
 | bip_39_word_space_7 | high judge curve warrior gorilla help guess |  
 | bip_39_word_space_8 | high judge curve warrior gorilla help guess demand |  
 | bip_39_word_space_9 | high judge curve warrior gorilla help guess demand demand |  
+| bip_39_word_underscore_1 | high |  
+| bip_39_word_underscore_10 | high_judge_curve_warrior_gorilla_help_guess_demand_demand_rack |  
+| bip_39_word_underscore_11 | high_judge_curve_warrior_gorilla_help_guess_demand_demand_rack_hurdle |  
+| bip_39_word_underscore_12 | high_judge_curve_warrior_gorilla_help_guess_demand_demand_rack_hurdle_achieve |  
+| bip_39_word_underscore_2 | high_judge |  
+| bip_39_word_underscore_3 | high_judge_curve |  
+| bip_39_word_underscore_4 | high_judge_curve_warrior |  
+| bip_39_word_underscore_5 | high_judge_curve_warrior_gorilla |  
+| bip_39_word_underscore_6 | high_judge_curve_warrior_gorilla_help |  
+| bip_39_word_underscore_7 | high_judge_curve_warrior_gorilla_help_guess |  
+| bip_39_word_underscore_8 | high_judge_curve_warrior_gorilla_help_guess_demand |  
+| bip_39_word_underscore_9 | high_judge_curve_warrior_gorilla_help_guess_demand_demand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

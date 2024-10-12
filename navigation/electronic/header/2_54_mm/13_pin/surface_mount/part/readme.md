@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | input |  
+| bip_39_word_dash_10 | input-egg-squeeze-stem-oppose-coyote-heavy-casino-unique-afford |  
+| bip_39_word_dash_11 | input-egg-squeeze-stem-oppose-coyote-heavy-casino-unique-afford-dice |  
+| bip_39_word_dash_12 | input-egg-squeeze-stem-oppose-coyote-heavy-casino-unique-afford-dice-attend |  
+| bip_39_word_dash_2 | input-egg |  
+| bip_39_word_dash_3 | input-egg-squeeze |  
+| bip_39_word_dash_4 | input-egg-squeeze-stem |  
+| bip_39_word_dash_5 | input-egg-squeeze-stem-oppose |  
+| bip_39_word_dash_6 | input-egg-squeeze-stem-oppose-coyote |  
+| bip_39_word_dash_7 | input-egg-squeeze-stem-oppose-coyote-heavy |  
+| bip_39_word_dash_8 | input-egg-squeeze-stem-oppose-coyote-heavy-casino |  
+| bip_39_word_dash_9 | input-egg-squeeze-stem-oppose-coyote-heavy-casino-unique |  
 | bip_39_word_new_br_1 | input |  
 | bip_39_word_new_br_10 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino<br>unique<br>afford |  
 | bip_39_word_new_br_11 | input<br>egg<br>squeeze<br>stem<br>oppose<br>coyote<br>heavy<br>casino<br>unique<br>afford<br>dice |  
@@ -147,6 +159,18 @@ unique |
 | bip_39_word_space_7 | input egg squeeze stem oppose coyote heavy |  
 | bip_39_word_space_8 | input egg squeeze stem oppose coyote heavy casino |  
 | bip_39_word_space_9 | input egg squeeze stem oppose coyote heavy casino unique |  
+| bip_39_word_underscore_1 | input |  
+| bip_39_word_underscore_10 | input_egg_squeeze_stem_oppose_coyote_heavy_casino_unique_afford |  
+| bip_39_word_underscore_11 | input_egg_squeeze_stem_oppose_coyote_heavy_casino_unique_afford_dice |  
+| bip_39_word_underscore_12 | input_egg_squeeze_stem_oppose_coyote_heavy_casino_unique_afford_dice_attend |  
+| bip_39_word_underscore_2 | input_egg |  
+| bip_39_word_underscore_3 | input_egg_squeeze |  
+| bip_39_word_underscore_4 | input_egg_squeeze_stem |  
+| bip_39_word_underscore_5 | input_egg_squeeze_stem_oppose |  
+| bip_39_word_underscore_6 | input_egg_squeeze_stem_oppose_coyote |  
+| bip_39_word_underscore_7 | input_egg_squeeze_stem_oppose_coyote_heavy |  
+| bip_39_word_underscore_8 | input_egg_squeeze_stem_oppose_coyote_heavy_casino |  
+| bip_39_word_underscore_9 | input_egg_squeeze_stem_oppose_coyote_heavy_casino_unique |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

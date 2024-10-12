@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deal |  
+| bip_39_word_dash_10 | deal-system-awful-bone-spend-rack-palace-rhythm-sand-come |  
+| bip_39_word_dash_11 | deal-system-awful-bone-spend-rack-palace-rhythm-sand-come-actual |  
+| bip_39_word_dash_12 | deal-system-awful-bone-spend-rack-palace-rhythm-sand-come-actual-adapt |  
+| bip_39_word_dash_2 | deal-system |  
+| bip_39_word_dash_3 | deal-system-awful |  
+| bip_39_word_dash_4 | deal-system-awful-bone |  
+| bip_39_word_dash_5 | deal-system-awful-bone-spend |  
+| bip_39_word_dash_6 | deal-system-awful-bone-spend-rack |  
+| bip_39_word_dash_7 | deal-system-awful-bone-spend-rack-palace |  
+| bip_39_word_dash_8 | deal-system-awful-bone-spend-rack-palace-rhythm |  
+| bip_39_word_dash_9 | deal-system-awful-bone-spend-rack-palace-rhythm-sand |  
 | bip_39_word_new_br_1 | deal |  
 | bip_39_word_new_br_10 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come |  
 | bip_39_word_new_br_11 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come<br>actual |  
@@ -147,6 +159,18 @@ sand |
 | bip_39_word_space_7 | deal system awful bone spend rack palace |  
 | bip_39_word_space_8 | deal system awful bone spend rack palace rhythm |  
 | bip_39_word_space_9 | deal system awful bone spend rack palace rhythm sand |  
+| bip_39_word_underscore_1 | deal |  
+| bip_39_word_underscore_10 | deal_system_awful_bone_spend_rack_palace_rhythm_sand_come |  
+| bip_39_word_underscore_11 | deal_system_awful_bone_spend_rack_palace_rhythm_sand_come_actual |  
+| bip_39_word_underscore_12 | deal_system_awful_bone_spend_rack_palace_rhythm_sand_come_actual_adapt |  
+| bip_39_word_underscore_2 | deal_system |  
+| bip_39_word_underscore_3 | deal_system_awful |  
+| bip_39_word_underscore_4 | deal_system_awful_bone |  
+| bip_39_word_underscore_5 | deal_system_awful_bone_spend |  
+| bip_39_word_underscore_6 | deal_system_awful_bone_spend_rack |  
+| bip_39_word_underscore_7 | deal_system_awful_bone_spend_rack_palace |  
+| bip_39_word_underscore_8 | deal_system_awful_bone_spend_rack_palace_rhythm |  
+| bip_39_word_underscore_9 | deal_system_awful_bone_spend_rack_palace_rhythm_sand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

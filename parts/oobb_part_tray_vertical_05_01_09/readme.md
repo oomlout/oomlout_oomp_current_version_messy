@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | report |  
+| bip_39_word_dash_10 | report-leader-explain-sail-top-enforce-skill-suit-smoke-indoor |  
+| bip_39_word_dash_11 | report-leader-explain-sail-top-enforce-skill-suit-smoke-indoor-electric |  
+| bip_39_word_dash_12 | report-leader-explain-sail-top-enforce-skill-suit-smoke-indoor-electric-arch |  
+| bip_39_word_dash_2 | report-leader |  
+| bip_39_word_dash_3 | report-leader-explain |  
+| bip_39_word_dash_4 | report-leader-explain-sail |  
+| bip_39_word_dash_5 | report-leader-explain-sail-top |  
+| bip_39_word_dash_6 | report-leader-explain-sail-top-enforce |  
+| bip_39_word_dash_7 | report-leader-explain-sail-top-enforce-skill |  
+| bip_39_word_dash_8 | report-leader-explain-sail-top-enforce-skill-suit |  
+| bip_39_word_dash_9 | report-leader-explain-sail-top-enforce-skill-suit-smoke |  
 | bip_39_word_new_br_1 | report |  
 | bip_39_word_new_br_10 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor |  
 | bip_39_word_new_br_11 | report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor<br>electric |  
@@ -147,6 +159,18 @@ smoke |
 | bip_39_word_space_7 | report leader explain sail top enforce skill |  
 | bip_39_word_space_8 | report leader explain sail top enforce skill suit |  
 | bip_39_word_space_9 | report leader explain sail top enforce skill suit smoke |  
+| bip_39_word_underscore_1 | report |  
+| bip_39_word_underscore_10 | report_leader_explain_sail_top_enforce_skill_suit_smoke_indoor |  
+| bip_39_word_underscore_11 | report_leader_explain_sail_top_enforce_skill_suit_smoke_indoor_electric |  
+| bip_39_word_underscore_12 | report_leader_explain_sail_top_enforce_skill_suit_smoke_indoor_electric_arch |  
+| bip_39_word_underscore_2 | report_leader |  
+| bip_39_word_underscore_3 | report_leader_explain |  
+| bip_39_word_underscore_4 | report_leader_explain_sail |  
+| bip_39_word_underscore_5 | report_leader_explain_sail_top |  
+| bip_39_word_underscore_6 | report_leader_explain_sail_top_enforce |  
+| bip_39_word_underscore_7 | report_leader_explain_sail_top_enforce_skill |  
+| bip_39_word_underscore_8 | report_leader_explain_sail_top_enforce_skill_suit |  
+| bip_39_word_underscore_9 | report_leader_explain_sail_top_enforce_skill_suit_smoke |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: access
+bip_39_word_dash_10: access-famous-nuclear-foil-skirt-day-burden-draw-firm-pilot
+bip_39_word_dash_11: access-famous-nuclear-foil-skirt-day-burden-draw-firm-pilot-gym
+bip_39_word_dash_12: access-famous-nuclear-foil-skirt-day-burden-draw-firm-pilot-gym-autumn
+bip_39_word_dash_2: access-famous
+bip_39_word_dash_3: access-famous-nuclear
+bip_39_word_dash_4: access-famous-nuclear-foil
+bip_39_word_dash_5: access-famous-nuclear-foil-skirt
+bip_39_word_dash_6: access-famous-nuclear-foil-skirt-day
+bip_39_word_dash_7: access-famous-nuclear-foil-skirt-day-burden
+bip_39_word_dash_8: access-famous-nuclear-foil-skirt-day-burden-draw
+bip_39_word_dash_9: access-famous-nuclear-foil-skirt-day-burden-draw-firm
 bip_39_word_new_br_1: access
 bip_39_word_new_br_10: access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot
 bip_39_word_new_br_11: access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot<br>gym
@@ -193,6 +205,18 @@ bip_39_word_space_6: access famous nuclear foil skirt day
 bip_39_word_space_7: access famous nuclear foil skirt day burden
 bip_39_word_space_8: access famous nuclear foil skirt day burden draw
 bip_39_word_space_9: access famous nuclear foil skirt day burden draw firm
+bip_39_word_underscore_1: access
+bip_39_word_underscore_10: access_famous_nuclear_foil_skirt_day_burden_draw_firm_pilot
+bip_39_word_underscore_11: access_famous_nuclear_foil_skirt_day_burden_draw_firm_pilot_gym
+bip_39_word_underscore_12: access_famous_nuclear_foil_skirt_day_burden_draw_firm_pilot_gym_autumn
+bip_39_word_underscore_2: access_famous
+bip_39_word_underscore_3: access_famous_nuclear
+bip_39_word_underscore_4: access_famous_nuclear_foil
+bip_39_word_underscore_5: access_famous_nuclear_foil_skirt
+bip_39_word_underscore_6: access_famous_nuclear_foil_skirt_day
+bip_39_word_underscore_7: access_famous_nuclear_foil_skirt_day_burden
+bip_39_word_underscore_8: access_famous_nuclear_foil_skirt_day_burden_draw
+bip_39_word_underscore_9: access_famous_nuclear_foil_skirt_day_burden_draw_firm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

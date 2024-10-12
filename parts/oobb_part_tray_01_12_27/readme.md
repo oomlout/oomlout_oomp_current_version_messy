@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | motor |  
+| bip_39_word_dash_10 | motor-pitch-human-alley-imitate-spray-core-dinner-torch-wait |  
+| bip_39_word_dash_11 | motor-pitch-human-alley-imitate-spray-core-dinner-torch-wait-enjoy |  
+| bip_39_word_dash_12 | motor-pitch-human-alley-imitate-spray-core-dinner-torch-wait-enjoy-author |  
+| bip_39_word_dash_2 | motor-pitch |  
+| bip_39_word_dash_3 | motor-pitch-human |  
+| bip_39_word_dash_4 | motor-pitch-human-alley |  
+| bip_39_word_dash_5 | motor-pitch-human-alley-imitate |  
+| bip_39_word_dash_6 | motor-pitch-human-alley-imitate-spray |  
+| bip_39_word_dash_7 | motor-pitch-human-alley-imitate-spray-core |  
+| bip_39_word_dash_8 | motor-pitch-human-alley-imitate-spray-core-dinner |  
+| bip_39_word_dash_9 | motor-pitch-human-alley-imitate-spray-core-dinner-torch |  
 | bip_39_word_new_br_1 | motor |  
 | bip_39_word_new_br_10 | motor<br>pitch<br>human<br>alley<br>imitate<br>spray<br>core<br>dinner<br>torch<br>wait |  
 | bip_39_word_new_br_11 | motor<br>pitch<br>human<br>alley<br>imitate<br>spray<br>core<br>dinner<br>torch<br>wait<br>enjoy |  
@@ -147,6 +159,18 @@ torch |
 | bip_39_word_space_7 | motor pitch human alley imitate spray core |  
 | bip_39_word_space_8 | motor pitch human alley imitate spray core dinner |  
 | bip_39_word_space_9 | motor pitch human alley imitate spray core dinner torch |  
+| bip_39_word_underscore_1 | motor |  
+| bip_39_word_underscore_10 | motor_pitch_human_alley_imitate_spray_core_dinner_torch_wait |  
+| bip_39_word_underscore_11 | motor_pitch_human_alley_imitate_spray_core_dinner_torch_wait_enjoy |  
+| bip_39_word_underscore_12 | motor_pitch_human_alley_imitate_spray_core_dinner_torch_wait_enjoy_author |  
+| bip_39_word_underscore_2 | motor_pitch |  
+| bip_39_word_underscore_3 | motor_pitch_human |  
+| bip_39_word_underscore_4 | motor_pitch_human_alley |  
+| bip_39_word_underscore_5 | motor_pitch_human_alley_imitate |  
+| bip_39_word_underscore_6 | motor_pitch_human_alley_imitate_spray |  
+| bip_39_word_underscore_7 | motor_pitch_human_alley_imitate_spray_core |  
+| bip_39_word_underscore_8 | motor_pitch_human_alley_imitate_spray_core_dinner |  
+| bip_39_word_underscore_9 | motor_pitch_human_alley_imitate_spray_core_dinner_torch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

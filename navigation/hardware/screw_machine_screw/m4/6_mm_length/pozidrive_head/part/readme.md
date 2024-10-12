@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | purse |  
+| bip_39_word_dash_10 | purse-pet-similar-jacket-segment-waste-bright-length-earth-word |  
+| bip_39_word_dash_11 | purse-pet-similar-jacket-segment-waste-bright-length-earth-word-select |  
+| bip_39_word_dash_12 | purse-pet-similar-jacket-segment-waste-bright-length-earth-word-select-april |  
+| bip_39_word_dash_2 | purse-pet |  
+| bip_39_word_dash_3 | purse-pet-similar |  
+| bip_39_word_dash_4 | purse-pet-similar-jacket |  
+| bip_39_word_dash_5 | purse-pet-similar-jacket-segment |  
+| bip_39_word_dash_6 | purse-pet-similar-jacket-segment-waste |  
+| bip_39_word_dash_7 | purse-pet-similar-jacket-segment-waste-bright |  
+| bip_39_word_dash_8 | purse-pet-similar-jacket-segment-waste-bright-length |  
+| bip_39_word_dash_9 | purse-pet-similar-jacket-segment-waste-bright-length-earth |  
 | bip_39_word_new_br_1 | purse |  
 | bip_39_word_new_br_10 | purse<br>pet<br>similar<br>jacket<br>segment<br>waste<br>bright<br>length<br>earth<br>word |  
 | bip_39_word_new_br_11 | purse<br>pet<br>similar<br>jacket<br>segment<br>waste<br>bright<br>length<br>earth<br>word<br>select |  
@@ -147,6 +159,18 @@ earth |
 | bip_39_word_space_7 | purse pet similar jacket segment waste bright |  
 | bip_39_word_space_8 | purse pet similar jacket segment waste bright length |  
 | bip_39_word_space_9 | purse pet similar jacket segment waste bright length earth |  
+| bip_39_word_underscore_1 | purse |  
+| bip_39_word_underscore_10 | purse_pet_similar_jacket_segment_waste_bright_length_earth_word |  
+| bip_39_word_underscore_11 | purse_pet_similar_jacket_segment_waste_bright_length_earth_word_select |  
+| bip_39_word_underscore_12 | purse_pet_similar_jacket_segment_waste_bright_length_earth_word_select_april |  
+| bip_39_word_underscore_2 | purse_pet |  
+| bip_39_word_underscore_3 | purse_pet_similar |  
+| bip_39_word_underscore_4 | purse_pet_similar_jacket |  
+| bip_39_word_underscore_5 | purse_pet_similar_jacket_segment |  
+| bip_39_word_underscore_6 | purse_pet_similar_jacket_segment_waste |  
+| bip_39_word_underscore_7 | purse_pet_similar_jacket_segment_waste_bright |  
+| bip_39_word_underscore_8 | purse_pet_similar_jacket_segment_waste_bright_length |  
+| bip_39_word_underscore_9 | purse_pet_similar_jacket_segment_waste_bright_length_earth |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

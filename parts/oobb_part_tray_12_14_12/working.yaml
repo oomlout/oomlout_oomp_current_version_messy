@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rigid
+bip_39_word_dash_10: rigid-start-small-animal-wedding-city-cattle-avoid-ride-escape
+bip_39_word_dash_11: rigid-start-small-animal-wedding-city-cattle-avoid-ride-escape-level
+bip_39_word_dash_12: rigid-start-small-animal-wedding-city-cattle-avoid-ride-escape-level-action
+bip_39_word_dash_2: rigid-start
+bip_39_word_dash_3: rigid-start-small
+bip_39_word_dash_4: rigid-start-small-animal
+bip_39_word_dash_5: rigid-start-small-animal-wedding
+bip_39_word_dash_6: rigid-start-small-animal-wedding-city
+bip_39_word_dash_7: rigid-start-small-animal-wedding-city-cattle
+bip_39_word_dash_8: rigid-start-small-animal-wedding-city-cattle-avoid
+bip_39_word_dash_9: rigid-start-small-animal-wedding-city-cattle-avoid-ride
 bip_39_word_new_br_1: rigid
 bip_39_word_new_br_10: rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid<br>ride<br>escape
 bip_39_word_new_br_11: rigid<br>start<br>small<br>animal<br>wedding<br>city<br>cattle<br>avoid<br>ride<br>escape<br>level
@@ -193,6 +205,18 @@ bip_39_word_space_6: rigid start small animal wedding city
 bip_39_word_space_7: rigid start small animal wedding city cattle
 bip_39_word_space_8: rigid start small animal wedding city cattle avoid
 bip_39_word_space_9: rigid start small animal wedding city cattle avoid ride
+bip_39_word_underscore_1: rigid
+bip_39_word_underscore_10: rigid_start_small_animal_wedding_city_cattle_avoid_ride_escape
+bip_39_word_underscore_11: rigid_start_small_animal_wedding_city_cattle_avoid_ride_escape_level
+bip_39_word_underscore_12: rigid_start_small_animal_wedding_city_cattle_avoid_ride_escape_level_action
+bip_39_word_underscore_2: rigid_start
+bip_39_word_underscore_3: rigid_start_small
+bip_39_word_underscore_4: rigid_start_small_animal
+bip_39_word_underscore_5: rigid_start_small_animal_wedding
+bip_39_word_underscore_6: rigid_start_small_animal_wedding_city
+bip_39_word_underscore_7: rigid_start_small_animal_wedding_city_cattle
+bip_39_word_underscore_8: rigid_start_small_animal_wedding_city_cattle_avoid
+bip_39_word_underscore_9: rigid_start_small_animal_wedding_city_cattle_avoid_ride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

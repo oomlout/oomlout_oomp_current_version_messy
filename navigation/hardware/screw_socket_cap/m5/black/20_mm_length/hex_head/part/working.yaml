@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fence
+bip_39_word_dash_10: fence-wild-rookie-liquid-purse-broccoli-pupil-shield-merge-pen
+bip_39_word_dash_11: fence-wild-rookie-liquid-purse-broccoli-pupil-shield-merge-pen-private
+bip_39_word_dash_12: fence-wild-rookie-liquid-purse-broccoli-pupil-shield-merge-pen-private-anxiety
+bip_39_word_dash_2: fence-wild
+bip_39_word_dash_3: fence-wild-rookie
+bip_39_word_dash_4: fence-wild-rookie-liquid
+bip_39_word_dash_5: fence-wild-rookie-liquid-purse
+bip_39_word_dash_6: fence-wild-rookie-liquid-purse-broccoli
+bip_39_word_dash_7: fence-wild-rookie-liquid-purse-broccoli-pupil
+bip_39_word_dash_8: fence-wild-rookie-liquid-purse-broccoli-pupil-shield
+bip_39_word_dash_9: fence-wild-rookie-liquid-purse-broccoli-pupil-shield-merge
 bip_39_word_new_br_1: fence
 bip_39_word_new_br_10: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield<br>merge<br>pen
 bip_39_word_new_br_11: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield<br>merge<br>pen<br>private
@@ -193,6 +205,18 @@ bip_39_word_space_6: fence wild rookie liquid purse broccoli
 bip_39_word_space_7: fence wild rookie liquid purse broccoli pupil
 bip_39_word_space_8: fence wild rookie liquid purse broccoli pupil shield
 bip_39_word_space_9: fence wild rookie liquid purse broccoli pupil shield merge
+bip_39_word_underscore_1: fence
+bip_39_word_underscore_10: fence_wild_rookie_liquid_purse_broccoli_pupil_shield_merge_pen
+bip_39_word_underscore_11: fence_wild_rookie_liquid_purse_broccoli_pupil_shield_merge_pen_private
+bip_39_word_underscore_12: fence_wild_rookie_liquid_purse_broccoli_pupil_shield_merge_pen_private_anxiety
+bip_39_word_underscore_2: fence_wild
+bip_39_word_underscore_3: fence_wild_rookie
+bip_39_word_underscore_4: fence_wild_rookie_liquid
+bip_39_word_underscore_5: fence_wild_rookie_liquid_purse
+bip_39_word_underscore_6: fence_wild_rookie_liquid_purse_broccoli
+bip_39_word_underscore_7: fence_wild_rookie_liquid_purse_broccoli_pupil
+bip_39_word_underscore_8: fence_wild_rookie_liquid_purse_broccoli_pupil_shield
+bip_39_word_underscore_9: fence_wild_rookie_liquid_purse_broccoli_pupil_shield_merge
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

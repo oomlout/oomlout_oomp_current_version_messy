@@ -1,3 +1,15 @@
+bip_39_word_dash_1: faint
+bip_39_word_dash_10: faint-okay-dash-enact-tent-lady-tonight-word-bleak-medal
+bip_39_word_dash_11: faint-okay-dash-enact-tent-lady-tonight-word-bleak-medal-canal
+bip_39_word_dash_12: faint-okay-dash-enact-tent-lady-tonight-word-bleak-medal-canal-aerobic
+bip_39_word_dash_2: faint-okay
+bip_39_word_dash_3: faint-okay-dash
+bip_39_word_dash_4: faint-okay-dash-enact
+bip_39_word_dash_5: faint-okay-dash-enact-tent
+bip_39_word_dash_6: faint-okay-dash-enact-tent-lady
+bip_39_word_dash_7: faint-okay-dash-enact-tent-lady-tonight
+bip_39_word_dash_8: faint-okay-dash-enact-tent-lady-tonight-word
+bip_39_word_dash_9: faint-okay-dash-enact-tent-lady-tonight-word-bleak
 bip_39_word_new_br_1: faint
 bip_39_word_new_br_10: faint<br>okay<br>dash<br>enact<br>tent<br>lady<br>tonight<br>word<br>bleak<br>medal
 bip_39_word_new_br_11: faint<br>okay<br>dash<br>enact<br>tent<br>lady<br>tonight<br>word<br>bleak<br>medal<br>canal
@@ -192,6 +204,18 @@ bip_39_word_space_6: faint okay dash enact tent lady
 bip_39_word_space_7: faint okay dash enact tent lady tonight
 bip_39_word_space_8: faint okay dash enact tent lady tonight word
 bip_39_word_space_9: faint okay dash enact tent lady tonight word bleak
+bip_39_word_underscore_1: faint
+bip_39_word_underscore_10: faint_okay_dash_enact_tent_lady_tonight_word_bleak_medal
+bip_39_word_underscore_11: faint_okay_dash_enact_tent_lady_tonight_word_bleak_medal_canal
+bip_39_word_underscore_12: faint_okay_dash_enact_tent_lady_tonight_word_bleak_medal_canal_aerobic
+bip_39_word_underscore_2: faint_okay
+bip_39_word_underscore_3: faint_okay_dash
+bip_39_word_underscore_4: faint_okay_dash_enact
+bip_39_word_underscore_5: faint_okay_dash_enact_tent
+bip_39_word_underscore_6: faint_okay_dash_enact_tent_lady
+bip_39_word_underscore_7: faint_okay_dash_enact_tent_lady_tonight
+bip_39_word_underscore_8: faint_okay_dash_enact_tent_lady_tonight_word
+bip_39_word_underscore_9: faint_okay_dash_enact_tent_lady_tonight_word_bleak
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

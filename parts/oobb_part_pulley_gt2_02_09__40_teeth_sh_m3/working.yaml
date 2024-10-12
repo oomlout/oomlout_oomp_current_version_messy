@@ -1,3 +1,15 @@
+bip_39_word_dash_1: donkey
+bip_39_word_dash_10: donkey-piece-almost-crack-tone-friend-shuffle-drum-dirt-castle
+bip_39_word_dash_11: donkey-piece-almost-crack-tone-friend-shuffle-drum-dirt-castle-lunar
+bip_39_word_dash_12: donkey-piece-almost-crack-tone-friend-shuffle-drum-dirt-castle-lunar-angry
+bip_39_word_dash_2: donkey-piece
+bip_39_word_dash_3: donkey-piece-almost
+bip_39_word_dash_4: donkey-piece-almost-crack
+bip_39_word_dash_5: donkey-piece-almost-crack-tone
+bip_39_word_dash_6: donkey-piece-almost-crack-tone-friend
+bip_39_word_dash_7: donkey-piece-almost-crack-tone-friend-shuffle
+bip_39_word_dash_8: donkey-piece-almost-crack-tone-friend-shuffle-drum
+bip_39_word_dash_9: donkey-piece-almost-crack-tone-friend-shuffle-drum-dirt
 bip_39_word_new_br_1: donkey
 bip_39_word_new_br_10: donkey<br>piece<br>almost<br>crack<br>tone<br>friend<br>shuffle<br>drum<br>dirt<br>castle
 bip_39_word_new_br_11: donkey<br>piece<br>almost<br>crack<br>tone<br>friend<br>shuffle<br>drum<br>dirt<br>castle<br>lunar
@@ -193,6 +205,18 @@ bip_39_word_space_6: donkey piece almost crack tone friend
 bip_39_word_space_7: donkey piece almost crack tone friend shuffle
 bip_39_word_space_8: donkey piece almost crack tone friend shuffle drum
 bip_39_word_space_9: donkey piece almost crack tone friend shuffle drum dirt
+bip_39_word_underscore_1: donkey
+bip_39_word_underscore_10: donkey_piece_almost_crack_tone_friend_shuffle_drum_dirt_castle
+bip_39_word_underscore_11: donkey_piece_almost_crack_tone_friend_shuffle_drum_dirt_castle_lunar
+bip_39_word_underscore_12: donkey_piece_almost_crack_tone_friend_shuffle_drum_dirt_castle_lunar_angry
+bip_39_word_underscore_2: donkey_piece
+bip_39_word_underscore_3: donkey_piece_almost
+bip_39_word_underscore_4: donkey_piece_almost_crack
+bip_39_word_underscore_5: donkey_piece_almost_crack_tone
+bip_39_word_underscore_6: donkey_piece_almost_crack_tone_friend
+bip_39_word_underscore_7: donkey_piece_almost_crack_tone_friend_shuffle
+bip_39_word_underscore_8: donkey_piece_almost_crack_tone_friend_shuffle_drum
+bip_39_word_underscore_9: donkey_piece_almost_crack_tone_friend_shuffle_drum_dirt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

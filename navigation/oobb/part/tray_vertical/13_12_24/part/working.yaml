@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brain
+bip_39_word_dash_10: brain-eternal-ramp-swift-theory-unfair-metal-blast-educate-involve
+bip_39_word_dash_11: brain-eternal-ramp-swift-theory-unfair-metal-blast-educate-involve-car
+bip_39_word_dash_12: brain-eternal-ramp-swift-theory-unfair-metal-blast-educate-involve-car-acquire
+bip_39_word_dash_2: brain-eternal
+bip_39_word_dash_3: brain-eternal-ramp
+bip_39_word_dash_4: brain-eternal-ramp-swift
+bip_39_word_dash_5: brain-eternal-ramp-swift-theory
+bip_39_word_dash_6: brain-eternal-ramp-swift-theory-unfair
+bip_39_word_dash_7: brain-eternal-ramp-swift-theory-unfair-metal
+bip_39_word_dash_8: brain-eternal-ramp-swift-theory-unfair-metal-blast
+bip_39_word_dash_9: brain-eternal-ramp-swift-theory-unfair-metal-blast-educate
 bip_39_word_new_br_1: brain
 bip_39_word_new_br_10: brain<br>eternal<br>ramp<br>swift<br>theory<br>unfair<br>metal<br>blast<br>educate<br>involve
 bip_39_word_new_br_11: brain<br>eternal<br>ramp<br>swift<br>theory<br>unfair<br>metal<br>blast<br>educate<br>involve<br>car
@@ -193,6 +205,18 @@ bip_39_word_space_6: brain eternal ramp swift theory unfair
 bip_39_word_space_7: brain eternal ramp swift theory unfair metal
 bip_39_word_space_8: brain eternal ramp swift theory unfair metal blast
 bip_39_word_space_9: brain eternal ramp swift theory unfair metal blast educate
+bip_39_word_underscore_1: brain
+bip_39_word_underscore_10: brain_eternal_ramp_swift_theory_unfair_metal_blast_educate_involve
+bip_39_word_underscore_11: brain_eternal_ramp_swift_theory_unfair_metal_blast_educate_involve_car
+bip_39_word_underscore_12: brain_eternal_ramp_swift_theory_unfair_metal_blast_educate_involve_car_acquire
+bip_39_word_underscore_2: brain_eternal
+bip_39_word_underscore_3: brain_eternal_ramp
+bip_39_word_underscore_4: brain_eternal_ramp_swift
+bip_39_word_underscore_5: brain_eternal_ramp_swift_theory
+bip_39_word_underscore_6: brain_eternal_ramp_swift_theory_unfair
+bip_39_word_underscore_7: brain_eternal_ramp_swift_theory_unfair_metal
+bip_39_word_underscore_8: brain_eternal_ramp_swift_theory_unfair_metal_blast
+bip_39_word_underscore_9: brain_eternal_ramp_swift_theory_unfair_metal_blast_educate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

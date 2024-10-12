@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | area |  
+| bip_39_word_dash_10 | area-casino-believe-stick-tray-celery-battle-robust-viable-thumb |  
+| bip_39_word_dash_11 | area-casino-believe-stick-tray-celery-battle-robust-viable-thumb-romance |  
+| bip_39_word_dash_12 | area-casino-believe-stick-tray-celery-battle-robust-viable-thumb-romance-airport |  
+| bip_39_word_dash_2 | area-casino |  
+| bip_39_word_dash_3 | area-casino-believe |  
+| bip_39_word_dash_4 | area-casino-believe-stick |  
+| bip_39_word_dash_5 | area-casino-believe-stick-tray |  
+| bip_39_word_dash_6 | area-casino-believe-stick-tray-celery |  
+| bip_39_word_dash_7 | area-casino-believe-stick-tray-celery-battle |  
+| bip_39_word_dash_8 | area-casino-believe-stick-tray-celery-battle-robust |  
+| bip_39_word_dash_9 | area-casino-believe-stick-tray-celery-battle-robust-viable |  
 | bip_39_word_new_br_1 | area |  
 | bip_39_word_new_br_10 | area<br>casino<br>believe<br>stick<br>tray<br>celery<br>battle<br>robust<br>viable<br>thumb |  
 | bip_39_word_new_br_11 | area<br>casino<br>believe<br>stick<br>tray<br>celery<br>battle<br>robust<br>viable<br>thumb<br>romance |  
@@ -147,6 +159,18 @@ viable |
 | bip_39_word_space_7 | area casino believe stick tray celery battle |  
 | bip_39_word_space_8 | area casino believe stick tray celery battle robust |  
 | bip_39_word_space_9 | area casino believe stick tray celery battle robust viable |  
+| bip_39_word_underscore_1 | area |  
+| bip_39_word_underscore_10 | area_casino_believe_stick_tray_celery_battle_robust_viable_thumb |  
+| bip_39_word_underscore_11 | area_casino_believe_stick_tray_celery_battle_robust_viable_thumb_romance |  
+| bip_39_word_underscore_12 | area_casino_believe_stick_tray_celery_battle_robust_viable_thumb_romance_airport |  
+| bip_39_word_underscore_2 | area_casino |  
+| bip_39_word_underscore_3 | area_casino_believe |  
+| bip_39_word_underscore_4 | area_casino_believe_stick |  
+| bip_39_word_underscore_5 | area_casino_believe_stick_tray |  
+| bip_39_word_underscore_6 | area_casino_believe_stick_tray_celery |  
+| bip_39_word_underscore_7 | area_casino_believe_stick_tray_celery_battle |  
+| bip_39_word_underscore_8 | area_casino_believe_stick_tray_celery_battle_robust |  
+| bip_39_word_underscore_9 | area_casino_believe_stick_tray_celery_battle_robust_viable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: noodle
+bip_39_word_dash_10: noodle-dress-adapt-cart-bean-island-bronze-funny-flat-hard
+bip_39_word_dash_11: noodle-dress-adapt-cart-bean-island-bronze-funny-flat-hard-edit
+bip_39_word_dash_12: noodle-dress-adapt-cart-bean-island-bronze-funny-flat-hard-edit-act
+bip_39_word_dash_2: noodle-dress
+bip_39_word_dash_3: noodle-dress-adapt
+bip_39_word_dash_4: noodle-dress-adapt-cart
+bip_39_word_dash_5: noodle-dress-adapt-cart-bean
+bip_39_word_dash_6: noodle-dress-adapt-cart-bean-island
+bip_39_word_dash_7: noodle-dress-adapt-cart-bean-island-bronze
+bip_39_word_dash_8: noodle-dress-adapt-cart-bean-island-bronze-funny
+bip_39_word_dash_9: noodle-dress-adapt-cart-bean-island-bronze-funny-flat
 bip_39_word_new_br_1: noodle
 bip_39_word_new_br_10: noodle<br>dress<br>adapt<br>cart<br>bean<br>island<br>bronze<br>funny<br>flat<br>hard
 bip_39_word_new_br_11: noodle<br>dress<br>adapt<br>cart<br>bean<br>island<br>bronze<br>funny<br>flat<br>hard<br>edit
@@ -192,6 +204,18 @@ bip_39_word_space_6: noodle dress adapt cart bean island
 bip_39_word_space_7: noodle dress adapt cart bean island bronze
 bip_39_word_space_8: noodle dress adapt cart bean island bronze funny
 bip_39_word_space_9: noodle dress adapt cart bean island bronze funny flat
+bip_39_word_underscore_1: noodle
+bip_39_word_underscore_10: noodle_dress_adapt_cart_bean_island_bronze_funny_flat_hard
+bip_39_word_underscore_11: noodle_dress_adapt_cart_bean_island_bronze_funny_flat_hard_edit
+bip_39_word_underscore_12: noodle_dress_adapt_cart_bean_island_bronze_funny_flat_hard_edit_act
+bip_39_word_underscore_2: noodle_dress
+bip_39_word_underscore_3: noodle_dress_adapt
+bip_39_word_underscore_4: noodle_dress_adapt_cart
+bip_39_word_underscore_5: noodle_dress_adapt_cart_bean
+bip_39_word_underscore_6: noodle_dress_adapt_cart_bean_island
+bip_39_word_underscore_7: noodle_dress_adapt_cart_bean_island_bronze
+bip_39_word_underscore_8: noodle_dress_adapt_cart_bean_island_bronze_funny
+bip_39_word_underscore_9: noodle_dress_adapt_cart_bean_island_bronze_funny_flat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

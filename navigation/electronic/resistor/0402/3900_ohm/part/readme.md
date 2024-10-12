@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tumble |  
+| bip_39_word_dash_10 | tumble-ethics-jeans-warfare-injury-wolf-hurry-aim-figure-monitor |  
+| bip_39_word_dash_11 | tumble-ethics-jeans-warfare-injury-wolf-hurry-aim-figure-monitor-solution |  
+| bip_39_word_dash_12 | tumble-ethics-jeans-warfare-injury-wolf-hurry-aim-figure-monitor-solution-any |  
+| bip_39_word_dash_2 | tumble-ethics |  
+| bip_39_word_dash_3 | tumble-ethics-jeans |  
+| bip_39_word_dash_4 | tumble-ethics-jeans-warfare |  
+| bip_39_word_dash_5 | tumble-ethics-jeans-warfare-injury |  
+| bip_39_word_dash_6 | tumble-ethics-jeans-warfare-injury-wolf |  
+| bip_39_word_dash_7 | tumble-ethics-jeans-warfare-injury-wolf-hurry |  
+| bip_39_word_dash_8 | tumble-ethics-jeans-warfare-injury-wolf-hurry-aim |  
+| bip_39_word_dash_9 | tumble-ethics-jeans-warfare-injury-wolf-hurry-aim-figure |  
 | bip_39_word_new_br_1 | tumble |  
 | bip_39_word_new_br_10 | tumble<br>ethics<br>jeans<br>warfare<br>injury<br>wolf<br>hurry<br>aim<br>figure<br>monitor |  
 | bip_39_word_new_br_11 | tumble<br>ethics<br>jeans<br>warfare<br>injury<br>wolf<br>hurry<br>aim<br>figure<br>monitor<br>solution |  
@@ -147,6 +159,18 @@ figure |
 | bip_39_word_space_7 | tumble ethics jeans warfare injury wolf hurry |  
 | bip_39_word_space_8 | tumble ethics jeans warfare injury wolf hurry aim |  
 | bip_39_word_space_9 | tumble ethics jeans warfare injury wolf hurry aim figure |  
+| bip_39_word_underscore_1 | tumble |  
+| bip_39_word_underscore_10 | tumble_ethics_jeans_warfare_injury_wolf_hurry_aim_figure_monitor |  
+| bip_39_word_underscore_11 | tumble_ethics_jeans_warfare_injury_wolf_hurry_aim_figure_monitor_solution |  
+| bip_39_word_underscore_12 | tumble_ethics_jeans_warfare_injury_wolf_hurry_aim_figure_monitor_solution_any |  
+| bip_39_word_underscore_2 | tumble_ethics |  
+| bip_39_word_underscore_3 | tumble_ethics_jeans |  
+| bip_39_word_underscore_4 | tumble_ethics_jeans_warfare |  
+| bip_39_word_underscore_5 | tumble_ethics_jeans_warfare_injury |  
+| bip_39_word_underscore_6 | tumble_ethics_jeans_warfare_injury_wolf |  
+| bip_39_word_underscore_7 | tumble_ethics_jeans_warfare_injury_wolf_hurry |  
+| bip_39_word_underscore_8 | tumble_ethics_jeans_warfare_injury_wolf_hurry_aim |  
+| bip_39_word_underscore_9 | tumble_ethics_jeans_warfare_injury_wolf_hurry_aim_figure |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

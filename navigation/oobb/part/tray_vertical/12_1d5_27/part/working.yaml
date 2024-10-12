@@ -1,3 +1,15 @@
+bip_39_word_dash_1: eight
+bip_39_word_dash_10: eight-enact-captain-start-profit-canvas-shrug-wolf-hybrid-return
+bip_39_word_dash_11: eight-enact-captain-start-profit-canvas-shrug-wolf-hybrid-return-love
+bip_39_word_dash_12: eight-enact-captain-start-profit-canvas-shrug-wolf-hybrid-return-love-argue
+bip_39_word_dash_2: eight-enact
+bip_39_word_dash_3: eight-enact-captain
+bip_39_word_dash_4: eight-enact-captain-start
+bip_39_word_dash_5: eight-enact-captain-start-profit
+bip_39_word_dash_6: eight-enact-captain-start-profit-canvas
+bip_39_word_dash_7: eight-enact-captain-start-profit-canvas-shrug
+bip_39_word_dash_8: eight-enact-captain-start-profit-canvas-shrug-wolf
+bip_39_word_dash_9: eight-enact-captain-start-profit-canvas-shrug-wolf-hybrid
 bip_39_word_new_br_1: eight
 bip_39_word_new_br_10: eight<br>enact<br>captain<br>start<br>profit<br>canvas<br>shrug<br>wolf<br>hybrid<br>return
 bip_39_word_new_br_11: eight<br>enact<br>captain<br>start<br>profit<br>canvas<br>shrug<br>wolf<br>hybrid<br>return<br>love
@@ -193,6 +205,18 @@ bip_39_word_space_6: eight enact captain start profit canvas
 bip_39_word_space_7: eight enact captain start profit canvas shrug
 bip_39_word_space_8: eight enact captain start profit canvas shrug wolf
 bip_39_word_space_9: eight enact captain start profit canvas shrug wolf hybrid
+bip_39_word_underscore_1: eight
+bip_39_word_underscore_10: eight_enact_captain_start_profit_canvas_shrug_wolf_hybrid_return
+bip_39_word_underscore_11: eight_enact_captain_start_profit_canvas_shrug_wolf_hybrid_return_love
+bip_39_word_underscore_12: eight_enact_captain_start_profit_canvas_shrug_wolf_hybrid_return_love_argue
+bip_39_word_underscore_2: eight_enact
+bip_39_word_underscore_3: eight_enact_captain
+bip_39_word_underscore_4: eight_enact_captain_start
+bip_39_word_underscore_5: eight_enact_captain_start_profit
+bip_39_word_underscore_6: eight_enact_captain_start_profit_canvas
+bip_39_word_underscore_7: eight_enact_captain_start_profit_canvas_shrug
+bip_39_word_underscore_8: eight_enact_captain_start_profit_canvas_shrug_wolf
+bip_39_word_underscore_9: eight_enact_captain_start_profit_canvas_shrug_wolf_hybrid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glass |  
+| bip_39_word_dash_10 | glass-bread-never-pudding-human-peace-unaware-six-rule-half |  
+| bip_39_word_dash_11 | glass-bread-never-pudding-human-peace-unaware-six-rule-half-monster |  
+| bip_39_word_dash_12 | glass-bread-never-pudding-human-peace-unaware-six-rule-half-monster-able |  
+| bip_39_word_dash_2 | glass-bread |  
+| bip_39_word_dash_3 | glass-bread-never |  
+| bip_39_word_dash_4 | glass-bread-never-pudding |  
+| bip_39_word_dash_5 | glass-bread-never-pudding-human |  
+| bip_39_word_dash_6 | glass-bread-never-pudding-human-peace |  
+| bip_39_word_dash_7 | glass-bread-never-pudding-human-peace-unaware |  
+| bip_39_word_dash_8 | glass-bread-never-pudding-human-peace-unaware-six |  
+| bip_39_word_dash_9 | glass-bread-never-pudding-human-peace-unaware-six-rule |  
 | bip_39_word_new_br_1 | glass |  
 | bip_39_word_new_br_10 | glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six<br>rule<br>half |  
 | bip_39_word_new_br_11 | glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six<br>rule<br>half<br>monster |  
@@ -147,6 +159,18 @@ rule |
 | bip_39_word_space_7 | glass bread never pudding human peace unaware |  
 | bip_39_word_space_8 | glass bread never pudding human peace unaware six |  
 | bip_39_word_space_9 | glass bread never pudding human peace unaware six rule |  
+| bip_39_word_underscore_1 | glass |  
+| bip_39_word_underscore_10 | glass_bread_never_pudding_human_peace_unaware_six_rule_half |  
+| bip_39_word_underscore_11 | glass_bread_never_pudding_human_peace_unaware_six_rule_half_monster |  
+| bip_39_word_underscore_12 | glass_bread_never_pudding_human_peace_unaware_six_rule_half_monster_able |  
+| bip_39_word_underscore_2 | glass_bread |  
+| bip_39_word_underscore_3 | glass_bread_never |  
+| bip_39_word_underscore_4 | glass_bread_never_pudding |  
+| bip_39_word_underscore_5 | glass_bread_never_pudding_human |  
+| bip_39_word_underscore_6 | glass_bread_never_pudding_human_peace |  
+| bip_39_word_underscore_7 | glass_bread_never_pudding_human_peace_unaware |  
+| bip_39_word_underscore_8 | glass_bread_never_pudding_human_peace_unaware_six |  
+| bip_39_word_underscore_9 | glass_bread_never_pudding_human_peace_unaware_six_rule |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

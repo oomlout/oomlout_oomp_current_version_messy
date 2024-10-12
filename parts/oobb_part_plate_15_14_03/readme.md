@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hen |  
+| bip_39_word_dash_10 | hen-dinosaur-corn-enjoy-stage-fine-canoe-soccer-enable-frame |  
+| bip_39_word_dash_11 | hen-dinosaur-corn-enjoy-stage-fine-canoe-soccer-enable-frame-enforce |  
+| bip_39_word_dash_12 | hen-dinosaur-corn-enjoy-stage-fine-canoe-soccer-enable-frame-enforce-aerobic |  
+| bip_39_word_dash_2 | hen-dinosaur |  
+| bip_39_word_dash_3 | hen-dinosaur-corn |  
+| bip_39_word_dash_4 | hen-dinosaur-corn-enjoy |  
+| bip_39_word_dash_5 | hen-dinosaur-corn-enjoy-stage |  
+| bip_39_word_dash_6 | hen-dinosaur-corn-enjoy-stage-fine |  
+| bip_39_word_dash_7 | hen-dinosaur-corn-enjoy-stage-fine-canoe |  
+| bip_39_word_dash_8 | hen-dinosaur-corn-enjoy-stage-fine-canoe-soccer |  
+| bip_39_word_dash_9 | hen-dinosaur-corn-enjoy-stage-fine-canoe-soccer-enable |  
 | bip_39_word_new_br_1 | hen |  
 | bip_39_word_new_br_10 | hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer<br>enable<br>frame |  
 | bip_39_word_new_br_11 | hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer<br>enable<br>frame<br>enforce |  
@@ -147,6 +159,18 @@ enable |
 | bip_39_word_space_7 | hen dinosaur corn enjoy stage fine canoe |  
 | bip_39_word_space_8 | hen dinosaur corn enjoy stage fine canoe soccer |  
 | bip_39_word_space_9 | hen dinosaur corn enjoy stage fine canoe soccer enable |  
+| bip_39_word_underscore_1 | hen |  
+| bip_39_word_underscore_10 | hen_dinosaur_corn_enjoy_stage_fine_canoe_soccer_enable_frame |  
+| bip_39_word_underscore_11 | hen_dinosaur_corn_enjoy_stage_fine_canoe_soccer_enable_frame_enforce |  
+| bip_39_word_underscore_12 | hen_dinosaur_corn_enjoy_stage_fine_canoe_soccer_enable_frame_enforce_aerobic |  
+| bip_39_word_underscore_2 | hen_dinosaur |  
+| bip_39_word_underscore_3 | hen_dinosaur_corn |  
+| bip_39_word_underscore_4 | hen_dinosaur_corn_enjoy |  
+| bip_39_word_underscore_5 | hen_dinosaur_corn_enjoy_stage |  
+| bip_39_word_underscore_6 | hen_dinosaur_corn_enjoy_stage_fine |  
+| bip_39_word_underscore_7 | hen_dinosaur_corn_enjoy_stage_fine_canoe |  
+| bip_39_word_underscore_8 | hen_dinosaur_corn_enjoy_stage_fine_canoe_soccer |  
+| bip_39_word_underscore_9 | hen_dinosaur_corn_enjoy_stage_fine_canoe_soccer_enable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

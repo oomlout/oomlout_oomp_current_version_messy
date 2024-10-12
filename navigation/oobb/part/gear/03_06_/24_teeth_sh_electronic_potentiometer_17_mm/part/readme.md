@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drastic |  
+| bip_39_word_dash_10 | drastic-father-awful-pave-pitch-work-ribbon-state-draft-novel |  
+| bip_39_word_dash_11 | drastic-father-awful-pave-pitch-work-ribbon-state-draft-novel-chimney |  
+| bip_39_word_dash_12 | drastic-father-awful-pave-pitch-work-ribbon-state-draft-novel-chimney-access |  
+| bip_39_word_dash_2 | drastic-father |  
+| bip_39_word_dash_3 | drastic-father-awful |  
+| bip_39_word_dash_4 | drastic-father-awful-pave |  
+| bip_39_word_dash_5 | drastic-father-awful-pave-pitch |  
+| bip_39_word_dash_6 | drastic-father-awful-pave-pitch-work |  
+| bip_39_word_dash_7 | drastic-father-awful-pave-pitch-work-ribbon |  
+| bip_39_word_dash_8 | drastic-father-awful-pave-pitch-work-ribbon-state |  
+| bip_39_word_dash_9 | drastic-father-awful-pave-pitch-work-ribbon-state-draft |  
 | bip_39_word_new_br_1 | drastic |  
 | bip_39_word_new_br_10 | drastic<br>father<br>awful<br>pave<br>pitch<br>work<br>ribbon<br>state<br>draft<br>novel |  
 | bip_39_word_new_br_11 | drastic<br>father<br>awful<br>pave<br>pitch<br>work<br>ribbon<br>state<br>draft<br>novel<br>chimney |  
@@ -147,6 +159,18 @@ draft |
 | bip_39_word_space_7 | drastic father awful pave pitch work ribbon |  
 | bip_39_word_space_8 | drastic father awful pave pitch work ribbon state |  
 | bip_39_word_space_9 | drastic father awful pave pitch work ribbon state draft |  
+| bip_39_word_underscore_1 | drastic |  
+| bip_39_word_underscore_10 | drastic_father_awful_pave_pitch_work_ribbon_state_draft_novel |  
+| bip_39_word_underscore_11 | drastic_father_awful_pave_pitch_work_ribbon_state_draft_novel_chimney |  
+| bip_39_word_underscore_12 | drastic_father_awful_pave_pitch_work_ribbon_state_draft_novel_chimney_access |  
+| bip_39_word_underscore_2 | drastic_father |  
+| bip_39_word_underscore_3 | drastic_father_awful |  
+| bip_39_word_underscore_4 | drastic_father_awful_pave |  
+| bip_39_word_underscore_5 | drastic_father_awful_pave_pitch |  
+| bip_39_word_underscore_6 | drastic_father_awful_pave_pitch_work |  
+| bip_39_word_underscore_7 | drastic_father_awful_pave_pitch_work_ribbon |  
+| bip_39_word_underscore_8 | drastic_father_awful_pave_pitch_work_ribbon_state |  
+| bip_39_word_underscore_9 | drastic_father_awful_pave_pitch_work_ribbon_state_draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

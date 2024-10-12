@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flight
+bip_39_word_dash_10: flight-bulk-ritual-belt-normal-hope-trip-behave-cheap-dose
+bip_39_word_dash_11: flight-bulk-ritual-belt-normal-hope-trip-behave-cheap-dose-hockey
+bip_39_word_dash_12: flight-bulk-ritual-belt-normal-hope-trip-behave-cheap-dose-hockey-apology
+bip_39_word_dash_2: flight-bulk
+bip_39_word_dash_3: flight-bulk-ritual
+bip_39_word_dash_4: flight-bulk-ritual-belt
+bip_39_word_dash_5: flight-bulk-ritual-belt-normal
+bip_39_word_dash_6: flight-bulk-ritual-belt-normal-hope
+bip_39_word_dash_7: flight-bulk-ritual-belt-normal-hope-trip
+bip_39_word_dash_8: flight-bulk-ritual-belt-normal-hope-trip-behave
+bip_39_word_dash_9: flight-bulk-ritual-belt-normal-hope-trip-behave-cheap
 bip_39_word_new_br_1: flight
 bip_39_word_new_br_10: flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave<br>cheap<br>dose
 bip_39_word_new_br_11: flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave<br>cheap<br>dose<br>hockey
@@ -192,6 +204,18 @@ bip_39_word_space_6: flight bulk ritual belt normal hope
 bip_39_word_space_7: flight bulk ritual belt normal hope trip
 bip_39_word_space_8: flight bulk ritual belt normal hope trip behave
 bip_39_word_space_9: flight bulk ritual belt normal hope trip behave cheap
+bip_39_word_underscore_1: flight
+bip_39_word_underscore_10: flight_bulk_ritual_belt_normal_hope_trip_behave_cheap_dose
+bip_39_word_underscore_11: flight_bulk_ritual_belt_normal_hope_trip_behave_cheap_dose_hockey
+bip_39_word_underscore_12: flight_bulk_ritual_belt_normal_hope_trip_behave_cheap_dose_hockey_apology
+bip_39_word_underscore_2: flight_bulk
+bip_39_word_underscore_3: flight_bulk_ritual
+bip_39_word_underscore_4: flight_bulk_ritual_belt
+bip_39_word_underscore_5: flight_bulk_ritual_belt_normal
+bip_39_word_underscore_6: flight_bulk_ritual_belt_normal_hope
+bip_39_word_underscore_7: flight_bulk_ritual_belt_normal_hope_trip
+bip_39_word_underscore_8: flight_bulk_ritual_belt_normal_hope_trip_behave
+bip_39_word_underscore_9: flight_bulk_ritual_belt_normal_hope_trip_behave_cheap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

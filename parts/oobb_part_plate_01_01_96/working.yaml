@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quit
+bip_39_word_dash_10: quit-broccoli-act-enact-iron-shoe-parent-village-demand-brief
+bip_39_word_dash_11: quit-broccoli-act-enact-iron-shoe-parent-village-demand-brief-sea
+bip_39_word_dash_12: quit-broccoli-act-enact-iron-shoe-parent-village-demand-brief-sea-account
+bip_39_word_dash_2: quit-broccoli
+bip_39_word_dash_3: quit-broccoli-act
+bip_39_word_dash_4: quit-broccoli-act-enact
+bip_39_word_dash_5: quit-broccoli-act-enact-iron
+bip_39_word_dash_6: quit-broccoli-act-enact-iron-shoe
+bip_39_word_dash_7: quit-broccoli-act-enact-iron-shoe-parent
+bip_39_word_dash_8: quit-broccoli-act-enact-iron-shoe-parent-village
+bip_39_word_dash_9: quit-broccoli-act-enact-iron-shoe-parent-village-demand
 bip_39_word_new_br_1: quit
 bip_39_word_new_br_10: quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village<br>demand<br>brief
 bip_39_word_new_br_11: quit<br>broccoli<br>act<br>enact<br>iron<br>shoe<br>parent<br>village<br>demand<br>brief<br>sea
@@ -193,6 +205,18 @@ bip_39_word_space_6: quit broccoli act enact iron shoe
 bip_39_word_space_7: quit broccoli act enact iron shoe parent
 bip_39_word_space_8: quit broccoli act enact iron shoe parent village
 bip_39_word_space_9: quit broccoli act enact iron shoe parent village demand
+bip_39_word_underscore_1: quit
+bip_39_word_underscore_10: quit_broccoli_act_enact_iron_shoe_parent_village_demand_brief
+bip_39_word_underscore_11: quit_broccoli_act_enact_iron_shoe_parent_village_demand_brief_sea
+bip_39_word_underscore_12: quit_broccoli_act_enact_iron_shoe_parent_village_demand_brief_sea_account
+bip_39_word_underscore_2: quit_broccoli
+bip_39_word_underscore_3: quit_broccoli_act
+bip_39_word_underscore_4: quit_broccoli_act_enact
+bip_39_word_underscore_5: quit_broccoli_act_enact_iron
+bip_39_word_underscore_6: quit_broccoli_act_enact_iron_shoe
+bip_39_word_underscore_7: quit_broccoli_act_enact_iron_shoe_parent
+bip_39_word_underscore_8: quit_broccoli_act_enact_iron_shoe_parent_village
+bip_39_word_underscore_9: quit_broccoli_act_enact_iron_shoe_parent_village_demand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

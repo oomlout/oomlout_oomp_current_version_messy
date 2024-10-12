@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | citizen |  
+| bip_39_word_dash_10 | citizen-better-hundred-empty-benefit-this-cruel-duck-early-lesson |  
+| bip_39_word_dash_11 | citizen-better-hundred-empty-benefit-this-cruel-duck-early-lesson-false |  
+| bip_39_word_dash_12 | citizen-better-hundred-empty-benefit-this-cruel-duck-early-lesson-false-almost |  
+| bip_39_word_dash_2 | citizen-better |  
+| bip_39_word_dash_3 | citizen-better-hundred |  
+| bip_39_word_dash_4 | citizen-better-hundred-empty |  
+| bip_39_word_dash_5 | citizen-better-hundred-empty-benefit |  
+| bip_39_word_dash_6 | citizen-better-hundred-empty-benefit-this |  
+| bip_39_word_dash_7 | citizen-better-hundred-empty-benefit-this-cruel |  
+| bip_39_word_dash_8 | citizen-better-hundred-empty-benefit-this-cruel-duck |  
+| bip_39_word_dash_9 | citizen-better-hundred-empty-benefit-this-cruel-duck-early |  
 | bip_39_word_new_br_1 | citizen |  
 | bip_39_word_new_br_10 | citizen<br>better<br>hundred<br>empty<br>benefit<br>this<br>cruel<br>duck<br>early<br>lesson |  
 | bip_39_word_new_br_11 | citizen<br>better<br>hundred<br>empty<br>benefit<br>this<br>cruel<br>duck<br>early<br>lesson<br>false |  
@@ -147,6 +159,18 @@ early |
 | bip_39_word_space_7 | citizen better hundred empty benefit this cruel |  
 | bip_39_word_space_8 | citizen better hundred empty benefit this cruel duck |  
 | bip_39_word_space_9 | citizen better hundred empty benefit this cruel duck early |  
+| bip_39_word_underscore_1 | citizen |  
+| bip_39_word_underscore_10 | citizen_better_hundred_empty_benefit_this_cruel_duck_early_lesson |  
+| bip_39_word_underscore_11 | citizen_better_hundred_empty_benefit_this_cruel_duck_early_lesson_false |  
+| bip_39_word_underscore_12 | citizen_better_hundred_empty_benefit_this_cruel_duck_early_lesson_false_almost |  
+| bip_39_word_underscore_2 | citizen_better |  
+| bip_39_word_underscore_3 | citizen_better_hundred |  
+| bip_39_word_underscore_4 | citizen_better_hundred_empty |  
+| bip_39_word_underscore_5 | citizen_better_hundred_empty_benefit |  
+| bip_39_word_underscore_6 | citizen_better_hundred_empty_benefit_this |  
+| bip_39_word_underscore_7 | citizen_better_hundred_empty_benefit_this_cruel |  
+| bip_39_word_underscore_8 | citizen_better_hundred_empty_benefit_this_cruel_duck |  
+| bip_39_word_underscore_9 | citizen_better_hundred_empty_benefit_this_cruel_duck_early |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

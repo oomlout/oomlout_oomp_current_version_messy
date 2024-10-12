@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swing |  
+| bip_39_word_dash_10 | swing-field-naive-wisdom-bacon-cattle-retire-exhaust-window-home |  
+| bip_39_word_dash_11 | swing-field-naive-wisdom-bacon-cattle-retire-exhaust-window-home-hope |  
+| bip_39_word_dash_12 | swing-field-naive-wisdom-bacon-cattle-retire-exhaust-window-home-hope-above |  
+| bip_39_word_dash_2 | swing-field |  
+| bip_39_word_dash_3 | swing-field-naive |  
+| bip_39_word_dash_4 | swing-field-naive-wisdom |  
+| bip_39_word_dash_5 | swing-field-naive-wisdom-bacon |  
+| bip_39_word_dash_6 | swing-field-naive-wisdom-bacon-cattle |  
+| bip_39_word_dash_7 | swing-field-naive-wisdom-bacon-cattle-retire |  
+| bip_39_word_dash_8 | swing-field-naive-wisdom-bacon-cattle-retire-exhaust |  
+| bip_39_word_dash_9 | swing-field-naive-wisdom-bacon-cattle-retire-exhaust-window |  
 | bip_39_word_new_br_1 | swing |  
 | bip_39_word_new_br_10 | swing<br>field<br>naive<br>wisdom<br>bacon<br>cattle<br>retire<br>exhaust<br>window<br>home |  
 | bip_39_word_new_br_11 | swing<br>field<br>naive<br>wisdom<br>bacon<br>cattle<br>retire<br>exhaust<br>window<br>home<br>hope |  
@@ -147,6 +159,18 @@ window |
 | bip_39_word_space_7 | swing field naive wisdom bacon cattle retire |  
 | bip_39_word_space_8 | swing field naive wisdom bacon cattle retire exhaust |  
 | bip_39_word_space_9 | swing field naive wisdom bacon cattle retire exhaust window |  
+| bip_39_word_underscore_1 | swing |  
+| bip_39_word_underscore_10 | swing_field_naive_wisdom_bacon_cattle_retire_exhaust_window_home |  
+| bip_39_word_underscore_11 | swing_field_naive_wisdom_bacon_cattle_retire_exhaust_window_home_hope |  
+| bip_39_word_underscore_12 | swing_field_naive_wisdom_bacon_cattle_retire_exhaust_window_home_hope_above |  
+| bip_39_word_underscore_2 | swing_field |  
+| bip_39_word_underscore_3 | swing_field_naive |  
+| bip_39_word_underscore_4 | swing_field_naive_wisdom |  
+| bip_39_word_underscore_5 | swing_field_naive_wisdom_bacon |  
+| bip_39_word_underscore_6 | swing_field_naive_wisdom_bacon_cattle |  
+| bip_39_word_underscore_7 | swing_field_naive_wisdom_bacon_cattle_retire |  
+| bip_39_word_underscore_8 | swing_field_naive_wisdom_bacon_cattle_retire_exhaust |  
+| bip_39_word_underscore_9 | swing_field_naive_wisdom_bacon_cattle_retire_exhaust_window |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

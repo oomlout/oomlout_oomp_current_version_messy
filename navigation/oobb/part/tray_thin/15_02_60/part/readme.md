@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bracket |  
+| bip_39_word_dash_10 | bracket-barrel-vessel-time-tennis-auto-business-hammer-when-remove |  
+| bip_39_word_dash_11 | bracket-barrel-vessel-time-tennis-auto-business-hammer-when-remove-word |  
+| bip_39_word_dash_12 | bracket-barrel-vessel-time-tennis-auto-business-hammer-when-remove-word-asset |  
+| bip_39_word_dash_2 | bracket-barrel |  
+| bip_39_word_dash_3 | bracket-barrel-vessel |  
+| bip_39_word_dash_4 | bracket-barrel-vessel-time |  
+| bip_39_word_dash_5 | bracket-barrel-vessel-time-tennis |  
+| bip_39_word_dash_6 | bracket-barrel-vessel-time-tennis-auto |  
+| bip_39_word_dash_7 | bracket-barrel-vessel-time-tennis-auto-business |  
+| bip_39_word_dash_8 | bracket-barrel-vessel-time-tennis-auto-business-hammer |  
+| bip_39_word_dash_9 | bracket-barrel-vessel-time-tennis-auto-business-hammer-when |  
 | bip_39_word_new_br_1 | bracket |  
 | bip_39_word_new_br_10 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer<br>when<br>remove |  
 | bip_39_word_new_br_11 | bracket<br>barrel<br>vessel<br>time<br>tennis<br>auto<br>business<br>hammer<br>when<br>remove<br>word |  
@@ -147,6 +159,18 @@ when |
 | bip_39_word_space_7 | bracket barrel vessel time tennis auto business |  
 | bip_39_word_space_8 | bracket barrel vessel time tennis auto business hammer |  
 | bip_39_word_space_9 | bracket barrel vessel time tennis auto business hammer when |  
+| bip_39_word_underscore_1 | bracket |  
+| bip_39_word_underscore_10 | bracket_barrel_vessel_time_tennis_auto_business_hammer_when_remove |  
+| bip_39_word_underscore_11 | bracket_barrel_vessel_time_tennis_auto_business_hammer_when_remove_word |  
+| bip_39_word_underscore_12 | bracket_barrel_vessel_time_tennis_auto_business_hammer_when_remove_word_asset |  
+| bip_39_word_underscore_2 | bracket_barrel |  
+| bip_39_word_underscore_3 | bracket_barrel_vessel |  
+| bip_39_word_underscore_4 | bracket_barrel_vessel_time |  
+| bip_39_word_underscore_5 | bracket_barrel_vessel_time_tennis |  
+| bip_39_word_underscore_6 | bracket_barrel_vessel_time_tennis_auto |  
+| bip_39_word_underscore_7 | bracket_barrel_vessel_time_tennis_auto_business |  
+| bip_39_word_underscore_8 | bracket_barrel_vessel_time_tennis_auto_business_hammer |  
+| bip_39_word_underscore_9 | bracket_barrel_vessel_time_tennis_auto_business_hammer_when |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vintage |  
+| bip_39_word_dash_10 | vintage-father-flush-fragile-mention-stay-gadget-nest-kingdom-grace |  
+| bip_39_word_dash_11 | vintage-father-flush-fragile-mention-stay-gadget-nest-kingdom-grace-pigeon |  
+| bip_39_word_dash_12 | vintage-father-flush-fragile-mention-stay-gadget-nest-kingdom-grace-pigeon-absurd |  
+| bip_39_word_dash_2 | vintage-father |  
+| bip_39_word_dash_3 | vintage-father-flush |  
+| bip_39_word_dash_4 | vintage-father-flush-fragile |  
+| bip_39_word_dash_5 | vintage-father-flush-fragile-mention |  
+| bip_39_word_dash_6 | vintage-father-flush-fragile-mention-stay |  
+| bip_39_word_dash_7 | vintage-father-flush-fragile-mention-stay-gadget |  
+| bip_39_word_dash_8 | vintage-father-flush-fragile-mention-stay-gadget-nest |  
+| bip_39_word_dash_9 | vintage-father-flush-fragile-mention-stay-gadget-nest-kingdom |  
 | bip_39_word_new_br_1 | vintage |  
 | bip_39_word_new_br_10 | vintage<br>father<br>flush<br>fragile<br>mention<br>stay<br>gadget<br>nest<br>kingdom<br>grace |  
 | bip_39_word_new_br_11 | vintage<br>father<br>flush<br>fragile<br>mention<br>stay<br>gadget<br>nest<br>kingdom<br>grace<br>pigeon |  
@@ -147,6 +159,18 @@ kingdom |
 | bip_39_word_space_7 | vintage father flush fragile mention stay gadget |  
 | bip_39_word_space_8 | vintage father flush fragile mention stay gadget nest |  
 | bip_39_word_space_9 | vintage father flush fragile mention stay gadget nest kingdom |  
+| bip_39_word_underscore_1 | vintage |  
+| bip_39_word_underscore_10 | vintage_father_flush_fragile_mention_stay_gadget_nest_kingdom_grace |  
+| bip_39_word_underscore_11 | vintage_father_flush_fragile_mention_stay_gadget_nest_kingdom_grace_pigeon |  
+| bip_39_word_underscore_12 | vintage_father_flush_fragile_mention_stay_gadget_nest_kingdom_grace_pigeon_absurd |  
+| bip_39_word_underscore_2 | vintage_father |  
+| bip_39_word_underscore_3 | vintage_father_flush |  
+| bip_39_word_underscore_4 | vintage_father_flush_fragile |  
+| bip_39_word_underscore_5 | vintage_father_flush_fragile_mention |  
+| bip_39_word_underscore_6 | vintage_father_flush_fragile_mention_stay |  
+| bip_39_word_underscore_7 | vintage_father_flush_fragile_mention_stay_gadget |  
+| bip_39_word_underscore_8 | vintage_father_flush_fragile_mention_stay_gadget_nest |  
+| bip_39_word_underscore_9 | vintage_father_flush_fragile_mention_stay_gadget_nest_kingdom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

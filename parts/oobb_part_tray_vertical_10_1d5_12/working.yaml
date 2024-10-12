@@ -1,3 +1,15 @@
+bip_39_word_dash_1: citizen
+bip_39_word_dash_10: citizen-novel-glide-hollow-system-denial-bubble-boost-rural-protect
+bip_39_word_dash_11: citizen-novel-glide-hollow-system-denial-bubble-boost-rural-protect-system
+bip_39_word_dash_12: citizen-novel-glide-hollow-system-denial-bubble-boost-rural-protect-system-adapt
+bip_39_word_dash_2: citizen-novel
+bip_39_word_dash_3: citizen-novel-glide
+bip_39_word_dash_4: citizen-novel-glide-hollow
+bip_39_word_dash_5: citizen-novel-glide-hollow-system
+bip_39_word_dash_6: citizen-novel-glide-hollow-system-denial
+bip_39_word_dash_7: citizen-novel-glide-hollow-system-denial-bubble
+bip_39_word_dash_8: citizen-novel-glide-hollow-system-denial-bubble-boost
+bip_39_word_dash_9: citizen-novel-glide-hollow-system-denial-bubble-boost-rural
 bip_39_word_new_br_1: citizen
 bip_39_word_new_br_10: citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect
 bip_39_word_new_br_11: citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect<br>system
@@ -194,6 +206,18 @@ bip_39_word_space_6: citizen novel glide hollow system denial
 bip_39_word_space_7: citizen novel glide hollow system denial bubble
 bip_39_word_space_8: citizen novel glide hollow system denial bubble boost
 bip_39_word_space_9: citizen novel glide hollow system denial bubble boost rural
+bip_39_word_underscore_1: citizen
+bip_39_word_underscore_10: citizen_novel_glide_hollow_system_denial_bubble_boost_rural_protect
+bip_39_word_underscore_11: citizen_novel_glide_hollow_system_denial_bubble_boost_rural_protect_system
+bip_39_word_underscore_12: citizen_novel_glide_hollow_system_denial_bubble_boost_rural_protect_system_adapt
+bip_39_word_underscore_2: citizen_novel
+bip_39_word_underscore_3: citizen_novel_glide
+bip_39_word_underscore_4: citizen_novel_glide_hollow
+bip_39_word_underscore_5: citizen_novel_glide_hollow_system
+bip_39_word_underscore_6: citizen_novel_glide_hollow_system_denial
+bip_39_word_underscore_7: citizen_novel_glide_hollow_system_denial_bubble
+bip_39_word_underscore_8: citizen_novel_glide_hollow_system_denial_bubble_boost
+bip_39_word_underscore_9: citizen_novel_glide_hollow_system_denial_bubble_boost_rural
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

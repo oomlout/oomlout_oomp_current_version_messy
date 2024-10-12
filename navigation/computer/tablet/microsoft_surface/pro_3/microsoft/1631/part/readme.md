@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ghost |  
+| bip_39_word_dash_10 | ghost-range-rough-siege-soap-rescue-school-argue-seven-elephant |  
+| bip_39_word_dash_11 | ghost-range-rough-siege-soap-rescue-school-argue-seven-elephant-school |  
+| bip_39_word_dash_12 | ghost-range-rough-siege-soap-rescue-school-argue-seven-elephant-school-among |  
+| bip_39_word_dash_2 | ghost-range |  
+| bip_39_word_dash_3 | ghost-range-rough |  
+| bip_39_word_dash_4 | ghost-range-rough-siege |  
+| bip_39_word_dash_5 | ghost-range-rough-siege-soap |  
+| bip_39_word_dash_6 | ghost-range-rough-siege-soap-rescue |  
+| bip_39_word_dash_7 | ghost-range-rough-siege-soap-rescue-school |  
+| bip_39_word_dash_8 | ghost-range-rough-siege-soap-rescue-school-argue |  
+| bip_39_word_dash_9 | ghost-range-rough-siege-soap-rescue-school-argue-seven |  
 | bip_39_word_new_br_1 | ghost |  
 | bip_39_word_new_br_10 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue<br>seven<br>elephant |  
 | bip_39_word_new_br_11 | ghost<br>range<br>rough<br>siege<br>soap<br>rescue<br>school<br>argue<br>seven<br>elephant<br>school |  
@@ -147,6 +159,18 @@ seven |
 | bip_39_word_space_7 | ghost range rough siege soap rescue school |  
 | bip_39_word_space_8 | ghost range rough siege soap rescue school argue |  
 | bip_39_word_space_9 | ghost range rough siege soap rescue school argue seven |  
+| bip_39_word_underscore_1 | ghost |  
+| bip_39_word_underscore_10 | ghost_range_rough_siege_soap_rescue_school_argue_seven_elephant |  
+| bip_39_word_underscore_11 | ghost_range_rough_siege_soap_rescue_school_argue_seven_elephant_school |  
+| bip_39_word_underscore_12 | ghost_range_rough_siege_soap_rescue_school_argue_seven_elephant_school_among |  
+| bip_39_word_underscore_2 | ghost_range |  
+| bip_39_word_underscore_3 | ghost_range_rough |  
+| bip_39_word_underscore_4 | ghost_range_rough_siege |  
+| bip_39_word_underscore_5 | ghost_range_rough_siege_soap |  
+| bip_39_word_underscore_6 | ghost_range_rough_siege_soap_rescue |  
+| bip_39_word_underscore_7 | ghost_range_rough_siege_soap_rescue_school |  
+| bip_39_word_underscore_8 | ghost_range_rough_siege_soap_rescue_school_argue |  
+| bip_39_word_underscore_9 | ghost_range_rough_siege_soap_rescue_school_argue_seven |  
 | classification | computer |  
 | classification_capital | Computer |  
 | classification_first_letter | c |  

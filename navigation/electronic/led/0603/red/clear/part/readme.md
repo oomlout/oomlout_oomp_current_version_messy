@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | barrel |  
+| bip_39_word_dash_10 | barrel-expose-sing-spirit-cream-visa-glad-rigid-galaxy-merry |  
+| bip_39_word_dash_11 | barrel-expose-sing-spirit-cream-visa-glad-rigid-galaxy-merry-such |  
+| bip_39_word_dash_12 | barrel-expose-sing-spirit-cream-visa-glad-rigid-galaxy-merry-such-aerobic |  
+| bip_39_word_dash_2 | barrel-expose |  
+| bip_39_word_dash_3 | barrel-expose-sing |  
+| bip_39_word_dash_4 | barrel-expose-sing-spirit |  
+| bip_39_word_dash_5 | barrel-expose-sing-spirit-cream |  
+| bip_39_word_dash_6 | barrel-expose-sing-spirit-cream-visa |  
+| bip_39_word_dash_7 | barrel-expose-sing-spirit-cream-visa-glad |  
+| bip_39_word_dash_8 | barrel-expose-sing-spirit-cream-visa-glad-rigid |  
+| bip_39_word_dash_9 | barrel-expose-sing-spirit-cream-visa-glad-rigid-galaxy |  
 | bip_39_word_new_br_1 | barrel |  
 | bip_39_word_new_br_10 | barrel<br>expose<br>sing<br>spirit<br>cream<br>visa<br>glad<br>rigid<br>galaxy<br>merry |  
 | bip_39_word_new_br_11 | barrel<br>expose<br>sing<br>spirit<br>cream<br>visa<br>glad<br>rigid<br>galaxy<br>merry<br>such |  
@@ -147,6 +159,18 @@ galaxy |
 | bip_39_word_space_7 | barrel expose sing spirit cream visa glad |  
 | bip_39_word_space_8 | barrel expose sing spirit cream visa glad rigid |  
 | bip_39_word_space_9 | barrel expose sing spirit cream visa glad rigid galaxy |  
+| bip_39_word_underscore_1 | barrel |  
+| bip_39_word_underscore_10 | barrel_expose_sing_spirit_cream_visa_glad_rigid_galaxy_merry |  
+| bip_39_word_underscore_11 | barrel_expose_sing_spirit_cream_visa_glad_rigid_galaxy_merry_such |  
+| bip_39_word_underscore_12 | barrel_expose_sing_spirit_cream_visa_glad_rigid_galaxy_merry_such_aerobic |  
+| bip_39_word_underscore_2 | barrel_expose |  
+| bip_39_word_underscore_3 | barrel_expose_sing |  
+| bip_39_word_underscore_4 | barrel_expose_sing_spirit |  
+| bip_39_word_underscore_5 | barrel_expose_sing_spirit_cream |  
+| bip_39_word_underscore_6 | barrel_expose_sing_spirit_cream_visa |  
+| bip_39_word_underscore_7 | barrel_expose_sing_spirit_cream_visa_glad |  
+| bip_39_word_underscore_8 | barrel_expose_sing_spirit_cream_visa_glad_rigid |  
+| bip_39_word_underscore_9 | barrel_expose_sing_spirit_cream_visa_glad_rigid_galaxy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

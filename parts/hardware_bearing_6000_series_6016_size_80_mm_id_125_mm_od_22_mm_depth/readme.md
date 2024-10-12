@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | genius |  
+| bip_39_word_dash_10 | genius-lottery-tent-comic-enable-valve-frequent-bird-artist-liberty |  
+| bip_39_word_dash_11 | genius-lottery-tent-comic-enable-valve-frequent-bird-artist-liberty-valid |  
+| bip_39_word_dash_12 | genius-lottery-tent-comic-enable-valve-frequent-bird-artist-liberty-valid-artwork |  
+| bip_39_word_dash_2 | genius-lottery |  
+| bip_39_word_dash_3 | genius-lottery-tent |  
+| bip_39_word_dash_4 | genius-lottery-tent-comic |  
+| bip_39_word_dash_5 | genius-lottery-tent-comic-enable |  
+| bip_39_word_dash_6 | genius-lottery-tent-comic-enable-valve |  
+| bip_39_word_dash_7 | genius-lottery-tent-comic-enable-valve-frequent |  
+| bip_39_word_dash_8 | genius-lottery-tent-comic-enable-valve-frequent-bird |  
+| bip_39_word_dash_9 | genius-lottery-tent-comic-enable-valve-frequent-bird-artist |  
 | bip_39_word_new_br_1 | genius |  
 | bip_39_word_new_br_10 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty |  
 | bip_39_word_new_br_11 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty<br>valid |  
@@ -147,6 +159,18 @@ artist |
 | bip_39_word_space_7 | genius lottery tent comic enable valve frequent |  
 | bip_39_word_space_8 | genius lottery tent comic enable valve frequent bird |  
 | bip_39_word_space_9 | genius lottery tent comic enable valve frequent bird artist |  
+| bip_39_word_underscore_1 | genius |  
+| bip_39_word_underscore_10 | genius_lottery_tent_comic_enable_valve_frequent_bird_artist_liberty |  
+| bip_39_word_underscore_11 | genius_lottery_tent_comic_enable_valve_frequent_bird_artist_liberty_valid |  
+| bip_39_word_underscore_12 | genius_lottery_tent_comic_enable_valve_frequent_bird_artist_liberty_valid_artwork |  
+| bip_39_word_underscore_2 | genius_lottery |  
+| bip_39_word_underscore_3 | genius_lottery_tent |  
+| bip_39_word_underscore_4 | genius_lottery_tent_comic |  
+| bip_39_word_underscore_5 | genius_lottery_tent_comic_enable |  
+| bip_39_word_underscore_6 | genius_lottery_tent_comic_enable_valve |  
+| bip_39_word_underscore_7 | genius_lottery_tent_comic_enable_valve_frequent |  
+| bip_39_word_underscore_8 | genius_lottery_tent_comic_enable_valve_frequent_bird |  
+| bip_39_word_underscore_9 | genius_lottery_tent_comic_enable_valve_frequent_bird_artist |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

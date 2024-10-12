@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | symbol |  
+| bip_39_word_dash_10 | symbol-bag-shallow-family-scrub-good-sunny-tumble-share-paddle |  
+| bip_39_word_dash_11 | symbol-bag-shallow-family-scrub-good-sunny-tumble-share-paddle-chapter |  
+| bip_39_word_dash_12 | symbol-bag-shallow-family-scrub-good-sunny-tumble-share-paddle-chapter-alarm |  
+| bip_39_word_dash_2 | symbol-bag |  
+| bip_39_word_dash_3 | symbol-bag-shallow |  
+| bip_39_word_dash_4 | symbol-bag-shallow-family |  
+| bip_39_word_dash_5 | symbol-bag-shallow-family-scrub |  
+| bip_39_word_dash_6 | symbol-bag-shallow-family-scrub-good |  
+| bip_39_word_dash_7 | symbol-bag-shallow-family-scrub-good-sunny |  
+| bip_39_word_dash_8 | symbol-bag-shallow-family-scrub-good-sunny-tumble |  
+| bip_39_word_dash_9 | symbol-bag-shallow-family-scrub-good-sunny-tumble-share |  
 | bip_39_word_new_br_1 | symbol |  
 | bip_39_word_new_br_10 | symbol<br>bag<br>shallow<br>family<br>scrub<br>good<br>sunny<br>tumble<br>share<br>paddle |  
 | bip_39_word_new_br_11 | symbol<br>bag<br>shallow<br>family<br>scrub<br>good<br>sunny<br>tumble<br>share<br>paddle<br>chapter |  
@@ -147,6 +159,18 @@ share |
 | bip_39_word_space_7 | symbol bag shallow family scrub good sunny |  
 | bip_39_word_space_8 | symbol bag shallow family scrub good sunny tumble |  
 | bip_39_word_space_9 | symbol bag shallow family scrub good sunny tumble share |  
+| bip_39_word_underscore_1 | symbol |  
+| bip_39_word_underscore_10 | symbol_bag_shallow_family_scrub_good_sunny_tumble_share_paddle |  
+| bip_39_word_underscore_11 | symbol_bag_shallow_family_scrub_good_sunny_tumble_share_paddle_chapter |  
+| bip_39_word_underscore_12 | symbol_bag_shallow_family_scrub_good_sunny_tumble_share_paddle_chapter_alarm |  
+| bip_39_word_underscore_2 | symbol_bag |  
+| bip_39_word_underscore_3 | symbol_bag_shallow |  
+| bip_39_word_underscore_4 | symbol_bag_shallow_family |  
+| bip_39_word_underscore_5 | symbol_bag_shallow_family_scrub |  
+| bip_39_word_underscore_6 | symbol_bag_shallow_family_scrub_good |  
+| bip_39_word_underscore_7 | symbol_bag_shallow_family_scrub_good_sunny |  
+| bip_39_word_underscore_8 | symbol_bag_shallow_family_scrub_good_sunny_tumble |  
+| bip_39_word_underscore_9 | symbol_bag_shallow_family_scrub_good_sunny_tumble_share |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

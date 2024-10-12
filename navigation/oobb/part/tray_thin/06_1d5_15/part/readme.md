@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fresh |  
+| bip_39_word_dash_10 | fresh-kingdom-scare-void-inherit-obey-lunch-much-noodle-ready |  
+| bip_39_word_dash_11 | fresh-kingdom-scare-void-inherit-obey-lunch-much-noodle-ready-ordinary |  
+| bip_39_word_dash_12 | fresh-kingdom-scare-void-inherit-obey-lunch-much-noodle-ready-ordinary-affair |  
+| bip_39_word_dash_2 | fresh-kingdom |  
+| bip_39_word_dash_3 | fresh-kingdom-scare |  
+| bip_39_word_dash_4 | fresh-kingdom-scare-void |  
+| bip_39_word_dash_5 | fresh-kingdom-scare-void-inherit |  
+| bip_39_word_dash_6 | fresh-kingdom-scare-void-inherit-obey |  
+| bip_39_word_dash_7 | fresh-kingdom-scare-void-inherit-obey-lunch |  
+| bip_39_word_dash_8 | fresh-kingdom-scare-void-inherit-obey-lunch-much |  
+| bip_39_word_dash_9 | fresh-kingdom-scare-void-inherit-obey-lunch-much-noodle |  
 | bip_39_word_new_br_1 | fresh |  
 | bip_39_word_new_br_10 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready |  
 | bip_39_word_new_br_11 | fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready<br>ordinary |  
@@ -147,6 +159,18 @@ noodle |
 | bip_39_word_space_7 | fresh kingdom scare void inherit obey lunch |  
 | bip_39_word_space_8 | fresh kingdom scare void inherit obey lunch much |  
 | bip_39_word_space_9 | fresh kingdom scare void inherit obey lunch much noodle |  
+| bip_39_word_underscore_1 | fresh |  
+| bip_39_word_underscore_10 | fresh_kingdom_scare_void_inherit_obey_lunch_much_noodle_ready |  
+| bip_39_word_underscore_11 | fresh_kingdom_scare_void_inherit_obey_lunch_much_noodle_ready_ordinary |  
+| bip_39_word_underscore_12 | fresh_kingdom_scare_void_inherit_obey_lunch_much_noodle_ready_ordinary_affair |  
+| bip_39_word_underscore_2 | fresh_kingdom |  
+| bip_39_word_underscore_3 | fresh_kingdom_scare |  
+| bip_39_word_underscore_4 | fresh_kingdom_scare_void |  
+| bip_39_word_underscore_5 | fresh_kingdom_scare_void_inherit |  
+| bip_39_word_underscore_6 | fresh_kingdom_scare_void_inherit_obey |  
+| bip_39_word_underscore_7 | fresh_kingdom_scare_void_inherit_obey_lunch |  
+| bip_39_word_underscore_8 | fresh_kingdom_scare_void_inherit_obey_lunch_much |  
+| bip_39_word_underscore_9 | fresh_kingdom_scare_void_inherit_obey_lunch_much_noodle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

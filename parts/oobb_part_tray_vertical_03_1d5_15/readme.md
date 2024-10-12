@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bundle |  
+| bip_39_word_dash_10 | bundle-jeans-speed-attitude-garment-family-deputy-sleep-absorb-verb |  
+| bip_39_word_dash_11 | bundle-jeans-speed-attitude-garment-family-deputy-sleep-absorb-verb-material |  
+| bip_39_word_dash_12 | bundle-jeans-speed-attitude-garment-family-deputy-sleep-absorb-verb-material-alert |  
+| bip_39_word_dash_2 | bundle-jeans |  
+| bip_39_word_dash_3 | bundle-jeans-speed |  
+| bip_39_word_dash_4 | bundle-jeans-speed-attitude |  
+| bip_39_word_dash_5 | bundle-jeans-speed-attitude-garment |  
+| bip_39_word_dash_6 | bundle-jeans-speed-attitude-garment-family |  
+| bip_39_word_dash_7 | bundle-jeans-speed-attitude-garment-family-deputy |  
+| bip_39_word_dash_8 | bundle-jeans-speed-attitude-garment-family-deputy-sleep |  
+| bip_39_word_dash_9 | bundle-jeans-speed-attitude-garment-family-deputy-sleep-absorb |  
 | bip_39_word_new_br_1 | bundle |  
 | bip_39_word_new_br_10 | bundle<br>jeans<br>speed<br>attitude<br>garment<br>family<br>deputy<br>sleep<br>absorb<br>verb |  
 | bip_39_word_new_br_11 | bundle<br>jeans<br>speed<br>attitude<br>garment<br>family<br>deputy<br>sleep<br>absorb<br>verb<br>material |  
@@ -147,6 +159,18 @@ absorb |
 | bip_39_word_space_7 | bundle jeans speed attitude garment family deputy |  
 | bip_39_word_space_8 | bundle jeans speed attitude garment family deputy sleep |  
 | bip_39_word_space_9 | bundle jeans speed attitude garment family deputy sleep absorb |  
+| bip_39_word_underscore_1 | bundle |  
+| bip_39_word_underscore_10 | bundle_jeans_speed_attitude_garment_family_deputy_sleep_absorb_verb |  
+| bip_39_word_underscore_11 | bundle_jeans_speed_attitude_garment_family_deputy_sleep_absorb_verb_material |  
+| bip_39_word_underscore_12 | bundle_jeans_speed_attitude_garment_family_deputy_sleep_absorb_verb_material_alert |  
+| bip_39_word_underscore_2 | bundle_jeans |  
+| bip_39_word_underscore_3 | bundle_jeans_speed |  
+| bip_39_word_underscore_4 | bundle_jeans_speed_attitude |  
+| bip_39_word_underscore_5 | bundle_jeans_speed_attitude_garment |  
+| bip_39_word_underscore_6 | bundle_jeans_speed_attitude_garment_family |  
+| bip_39_word_underscore_7 | bundle_jeans_speed_attitude_garment_family_deputy |  
+| bip_39_word_underscore_8 | bundle_jeans_speed_attitude_garment_family_deputy_sleep |  
+| bip_39_word_underscore_9 | bundle_jeans_speed_attitude_garment_family_deputy_sleep_absorb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

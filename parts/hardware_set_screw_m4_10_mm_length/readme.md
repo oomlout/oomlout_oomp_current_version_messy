@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cabin |  
+| bip_39_word_dash_10 | cabin-proud-feel-cram-tape-chapter-vote-buzz-income-harvest |  
+| bip_39_word_dash_11 | cabin-proud-feel-cram-tape-chapter-vote-buzz-income-harvest-sun |  
+| bip_39_word_dash_12 | cabin-proud-feel-cram-tape-chapter-vote-buzz-income-harvest-sun-alien |  
+| bip_39_word_dash_2 | cabin-proud |  
+| bip_39_word_dash_3 | cabin-proud-feel |  
+| bip_39_word_dash_4 | cabin-proud-feel-cram |  
+| bip_39_word_dash_5 | cabin-proud-feel-cram-tape |  
+| bip_39_word_dash_6 | cabin-proud-feel-cram-tape-chapter |  
+| bip_39_word_dash_7 | cabin-proud-feel-cram-tape-chapter-vote |  
+| bip_39_word_dash_8 | cabin-proud-feel-cram-tape-chapter-vote-buzz |  
+| bip_39_word_dash_9 | cabin-proud-feel-cram-tape-chapter-vote-buzz-income |  
 | bip_39_word_new_br_1 | cabin |  
 | bip_39_word_new_br_10 | cabin<br>proud<br>feel<br>cram<br>tape<br>chapter<br>vote<br>buzz<br>income<br>harvest |  
 | bip_39_word_new_br_11 | cabin<br>proud<br>feel<br>cram<br>tape<br>chapter<br>vote<br>buzz<br>income<br>harvest<br>sun |  
@@ -147,6 +159,18 @@ income |
 | bip_39_word_space_7 | cabin proud feel cram tape chapter vote |  
 | bip_39_word_space_8 | cabin proud feel cram tape chapter vote buzz |  
 | bip_39_word_space_9 | cabin proud feel cram tape chapter vote buzz income |  
+| bip_39_word_underscore_1 | cabin |  
+| bip_39_word_underscore_10 | cabin_proud_feel_cram_tape_chapter_vote_buzz_income_harvest |  
+| bip_39_word_underscore_11 | cabin_proud_feel_cram_tape_chapter_vote_buzz_income_harvest_sun |  
+| bip_39_word_underscore_12 | cabin_proud_feel_cram_tape_chapter_vote_buzz_income_harvest_sun_alien |  
+| bip_39_word_underscore_2 | cabin_proud |  
+| bip_39_word_underscore_3 | cabin_proud_feel |  
+| bip_39_word_underscore_4 | cabin_proud_feel_cram |  
+| bip_39_word_underscore_5 | cabin_proud_feel_cram_tape |  
+| bip_39_word_underscore_6 | cabin_proud_feel_cram_tape_chapter |  
+| bip_39_word_underscore_7 | cabin_proud_feel_cram_tape_chapter_vote |  
+| bip_39_word_underscore_8 | cabin_proud_feel_cram_tape_chapter_vote_buzz |  
+| bip_39_word_underscore_9 | cabin_proud_feel_cram_tape_chapter_vote_buzz_income |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

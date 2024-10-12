@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | this |  
+| bip_39_word_dash_10 | this-hour-pepper-useful-parent-track-kiwi-viable-box-kite |  
+| bip_39_word_dash_11 | this-hour-pepper-useful-parent-track-kiwi-viable-box-kite-youth |  
+| bip_39_word_dash_12 | this-hour-pepper-useful-parent-track-kiwi-viable-box-kite-youth-alarm |  
+| bip_39_word_dash_2 | this-hour |  
+| bip_39_word_dash_3 | this-hour-pepper |  
+| bip_39_word_dash_4 | this-hour-pepper-useful |  
+| bip_39_word_dash_5 | this-hour-pepper-useful-parent |  
+| bip_39_word_dash_6 | this-hour-pepper-useful-parent-track |  
+| bip_39_word_dash_7 | this-hour-pepper-useful-parent-track-kiwi |  
+| bip_39_word_dash_8 | this-hour-pepper-useful-parent-track-kiwi-viable |  
+| bip_39_word_dash_9 | this-hour-pepper-useful-parent-track-kiwi-viable-box |  
 | bip_39_word_new_br_1 | this |  
 | bip_39_word_new_br_10 | this<br>hour<br>pepper<br>useful<br>parent<br>track<br>kiwi<br>viable<br>box<br>kite |  
 | bip_39_word_new_br_11 | this<br>hour<br>pepper<br>useful<br>parent<br>track<br>kiwi<br>viable<br>box<br>kite<br>youth |  
@@ -147,6 +159,18 @@ box |
 | bip_39_word_space_7 | this hour pepper useful parent track kiwi |  
 | bip_39_word_space_8 | this hour pepper useful parent track kiwi viable |  
 | bip_39_word_space_9 | this hour pepper useful parent track kiwi viable box |  
+| bip_39_word_underscore_1 | this |  
+| bip_39_word_underscore_10 | this_hour_pepper_useful_parent_track_kiwi_viable_box_kite |  
+| bip_39_word_underscore_11 | this_hour_pepper_useful_parent_track_kiwi_viable_box_kite_youth |  
+| bip_39_word_underscore_12 | this_hour_pepper_useful_parent_track_kiwi_viable_box_kite_youth_alarm |  
+| bip_39_word_underscore_2 | this_hour |  
+| bip_39_word_underscore_3 | this_hour_pepper |  
+| bip_39_word_underscore_4 | this_hour_pepper_useful |  
+| bip_39_word_underscore_5 | this_hour_pepper_useful_parent |  
+| bip_39_word_underscore_6 | this_hour_pepper_useful_parent_track |  
+| bip_39_word_underscore_7 | this_hour_pepper_useful_parent_track_kiwi |  
+| bip_39_word_underscore_8 | this_hour_pepper_useful_parent_track_kiwi_viable |  
+| bip_39_word_underscore_9 | this_hour_pepper_useful_parent_track_kiwi_viable_box |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

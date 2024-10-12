@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lab |  
+| bip_39_word_dash_10 | lab-harsh-doll-nasty-guess-photo-light-frequent-trend-join |  
+| bip_39_word_dash_11 | lab-harsh-doll-nasty-guess-photo-light-frequent-trend-join-trick |  
+| bip_39_word_dash_12 | lab-harsh-doll-nasty-guess-photo-light-frequent-trend-join-trick-aunt |  
+| bip_39_word_dash_2 | lab-harsh |  
+| bip_39_word_dash_3 | lab-harsh-doll |  
+| bip_39_word_dash_4 | lab-harsh-doll-nasty |  
+| bip_39_word_dash_5 | lab-harsh-doll-nasty-guess |  
+| bip_39_word_dash_6 | lab-harsh-doll-nasty-guess-photo |  
+| bip_39_word_dash_7 | lab-harsh-doll-nasty-guess-photo-light |  
+| bip_39_word_dash_8 | lab-harsh-doll-nasty-guess-photo-light-frequent |  
+| bip_39_word_dash_9 | lab-harsh-doll-nasty-guess-photo-light-frequent-trend |  
 | bip_39_word_new_br_1 | lab |  
 | bip_39_word_new_br_10 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join |  
 | bip_39_word_new_br_11 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join<br>trick |  
@@ -147,6 +159,18 @@ trend |
 | bip_39_word_space_7 | lab harsh doll nasty guess photo light |  
 | bip_39_word_space_8 | lab harsh doll nasty guess photo light frequent |  
 | bip_39_word_space_9 | lab harsh doll nasty guess photo light frequent trend |  
+| bip_39_word_underscore_1 | lab |  
+| bip_39_word_underscore_10 | lab_harsh_doll_nasty_guess_photo_light_frequent_trend_join |  
+| bip_39_word_underscore_11 | lab_harsh_doll_nasty_guess_photo_light_frequent_trend_join_trick |  
+| bip_39_word_underscore_12 | lab_harsh_doll_nasty_guess_photo_light_frequent_trend_join_trick_aunt |  
+| bip_39_word_underscore_2 | lab_harsh |  
+| bip_39_word_underscore_3 | lab_harsh_doll |  
+| bip_39_word_underscore_4 | lab_harsh_doll_nasty |  
+| bip_39_word_underscore_5 | lab_harsh_doll_nasty_guess |  
+| bip_39_word_underscore_6 | lab_harsh_doll_nasty_guess_photo |  
+| bip_39_word_underscore_7 | lab_harsh_doll_nasty_guess_photo_light |  
+| bip_39_word_underscore_8 | lab_harsh_doll_nasty_guess_photo_light_frequent |  
+| bip_39_word_underscore_9 | lab_harsh_doll_nasty_guess_photo_light_frequent_trend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

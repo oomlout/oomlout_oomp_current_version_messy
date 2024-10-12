@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | three |  
+| bip_39_word_dash_10 | three-report-aerobic-valley-badge-fog-apple-material-riot-artist |  
+| bip_39_word_dash_11 | three-report-aerobic-valley-badge-fog-apple-material-riot-artist-doctor |  
+| bip_39_word_dash_12 | three-report-aerobic-valley-badge-fog-apple-material-riot-artist-doctor-athlete |  
+| bip_39_word_dash_2 | three-report |  
+| bip_39_word_dash_3 | three-report-aerobic |  
+| bip_39_word_dash_4 | three-report-aerobic-valley |  
+| bip_39_word_dash_5 | three-report-aerobic-valley-badge |  
+| bip_39_word_dash_6 | three-report-aerobic-valley-badge-fog |  
+| bip_39_word_dash_7 | three-report-aerobic-valley-badge-fog-apple |  
+| bip_39_word_dash_8 | three-report-aerobic-valley-badge-fog-apple-material |  
+| bip_39_word_dash_9 | three-report-aerobic-valley-badge-fog-apple-material-riot |  
 | bip_39_word_new_br_1 | three |  
 | bip_39_word_new_br_10 | three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material<br>riot<br>artist |  
 | bip_39_word_new_br_11 | three<br>report<br>aerobic<br>valley<br>badge<br>fog<br>apple<br>material<br>riot<br>artist<br>doctor |  
@@ -147,6 +159,18 @@ riot |
 | bip_39_word_space_7 | three report aerobic valley badge fog apple |  
 | bip_39_word_space_8 | three report aerobic valley badge fog apple material |  
 | bip_39_word_space_9 | three report aerobic valley badge fog apple material riot |  
+| bip_39_word_underscore_1 | three |  
+| bip_39_word_underscore_10 | three_report_aerobic_valley_badge_fog_apple_material_riot_artist |  
+| bip_39_word_underscore_11 | three_report_aerobic_valley_badge_fog_apple_material_riot_artist_doctor |  
+| bip_39_word_underscore_12 | three_report_aerobic_valley_badge_fog_apple_material_riot_artist_doctor_athlete |  
+| bip_39_word_underscore_2 | three_report |  
+| bip_39_word_underscore_3 | three_report_aerobic |  
+| bip_39_word_underscore_4 | three_report_aerobic_valley |  
+| bip_39_word_underscore_5 | three_report_aerobic_valley_badge |  
+| bip_39_word_underscore_6 | three_report_aerobic_valley_badge_fog |  
+| bip_39_word_underscore_7 | three_report_aerobic_valley_badge_fog_apple |  
+| bip_39_word_underscore_8 | three_report_aerobic_valley_badge_fog_apple_material |  
+| bip_39_word_underscore_9 | three_report_aerobic_valley_badge_fog_apple_material_riot |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hole |  
+| bip_39_word_dash_10 | hole-attack-total-element-loud-movie-admit-north-outer-venture |  
+| bip_39_word_dash_11 | hole-attack-total-element-loud-movie-admit-north-outer-venture-high |  
+| bip_39_word_dash_12 | hole-attack-total-element-loud-movie-admit-north-outer-venture-high-aim |  
+| bip_39_word_dash_2 | hole-attack |  
+| bip_39_word_dash_3 | hole-attack-total |  
+| bip_39_word_dash_4 | hole-attack-total-element |  
+| bip_39_word_dash_5 | hole-attack-total-element-loud |  
+| bip_39_word_dash_6 | hole-attack-total-element-loud-movie |  
+| bip_39_word_dash_7 | hole-attack-total-element-loud-movie-admit |  
+| bip_39_word_dash_8 | hole-attack-total-element-loud-movie-admit-north |  
+| bip_39_word_dash_9 | hole-attack-total-element-loud-movie-admit-north-outer |  
 | bip_39_word_new_br_1 | hole |  
 | bip_39_word_new_br_10 | hole<br>attack<br>total<br>element<br>loud<br>movie<br>admit<br>north<br>outer<br>venture |  
 | bip_39_word_new_br_11 | hole<br>attack<br>total<br>element<br>loud<br>movie<br>admit<br>north<br>outer<br>venture<br>high |  
@@ -147,6 +159,18 @@ outer |
 | bip_39_word_space_7 | hole attack total element loud movie admit |  
 | bip_39_word_space_8 | hole attack total element loud movie admit north |  
 | bip_39_word_space_9 | hole attack total element loud movie admit north outer |  
+| bip_39_word_underscore_1 | hole |  
+| bip_39_word_underscore_10 | hole_attack_total_element_loud_movie_admit_north_outer_venture |  
+| bip_39_word_underscore_11 | hole_attack_total_element_loud_movie_admit_north_outer_venture_high |  
+| bip_39_word_underscore_12 | hole_attack_total_element_loud_movie_admit_north_outer_venture_high_aim |  
+| bip_39_word_underscore_2 | hole_attack |  
+| bip_39_word_underscore_3 | hole_attack_total |  
+| bip_39_word_underscore_4 | hole_attack_total_element |  
+| bip_39_word_underscore_5 | hole_attack_total_element_loud |  
+| bip_39_word_underscore_6 | hole_attack_total_element_loud_movie |  
+| bip_39_word_underscore_7 | hole_attack_total_element_loud_movie_admit |  
+| bip_39_word_underscore_8 | hole_attack_total_element_loud_movie_admit_north |  
+| bip_39_word_underscore_9 | hole_attack_total_element_loud_movie_admit_north_outer |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

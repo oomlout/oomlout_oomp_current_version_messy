@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clump
+bip_39_word_dash_10: clump-sight-citizen-exhibit-tower-process-parent-they-next-happy
+bip_39_word_dash_11: clump-sight-citizen-exhibit-tower-process-parent-they-next-happy-desk
+bip_39_word_dash_12: clump-sight-citizen-exhibit-tower-process-parent-they-next-happy-desk-about
+bip_39_word_dash_2: clump-sight
+bip_39_word_dash_3: clump-sight-citizen
+bip_39_word_dash_4: clump-sight-citizen-exhibit
+bip_39_word_dash_5: clump-sight-citizen-exhibit-tower
+bip_39_word_dash_6: clump-sight-citizen-exhibit-tower-process
+bip_39_word_dash_7: clump-sight-citizen-exhibit-tower-process-parent
+bip_39_word_dash_8: clump-sight-citizen-exhibit-tower-process-parent-they
+bip_39_word_dash_9: clump-sight-citizen-exhibit-tower-process-parent-they-next
 bip_39_word_new_br_1: clump
 bip_39_word_new_br_10: clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy
 bip_39_word_new_br_11: clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy<br>desk
@@ -193,6 +205,18 @@ bip_39_word_space_6: clump sight citizen exhibit tower process
 bip_39_word_space_7: clump sight citizen exhibit tower process parent
 bip_39_word_space_8: clump sight citizen exhibit tower process parent they
 bip_39_word_space_9: clump sight citizen exhibit tower process parent they next
+bip_39_word_underscore_1: clump
+bip_39_word_underscore_10: clump_sight_citizen_exhibit_tower_process_parent_they_next_happy
+bip_39_word_underscore_11: clump_sight_citizen_exhibit_tower_process_parent_they_next_happy_desk
+bip_39_word_underscore_12: clump_sight_citizen_exhibit_tower_process_parent_they_next_happy_desk_about
+bip_39_word_underscore_2: clump_sight
+bip_39_word_underscore_3: clump_sight_citizen
+bip_39_word_underscore_4: clump_sight_citizen_exhibit
+bip_39_word_underscore_5: clump_sight_citizen_exhibit_tower
+bip_39_word_underscore_6: clump_sight_citizen_exhibit_tower_process
+bip_39_word_underscore_7: clump_sight_citizen_exhibit_tower_process_parent
+bip_39_word_underscore_8: clump_sight_citizen_exhibit_tower_process_parent_they
+bip_39_word_underscore_9: clump_sight_citizen_exhibit_tower_process_parent_they_next
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

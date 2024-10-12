@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toss
+bip_39_word_dash_10: toss-rigid-fly-solution-acid-emotion-aware-item-flag-seek
+bip_39_word_dash_11: toss-rigid-fly-solution-acid-emotion-aware-item-flag-seek-little
+bip_39_word_dash_12: toss-rigid-fly-solution-acid-emotion-aware-item-flag-seek-little-advance
+bip_39_word_dash_2: toss-rigid
+bip_39_word_dash_3: toss-rigid-fly
+bip_39_word_dash_4: toss-rigid-fly-solution
+bip_39_word_dash_5: toss-rigid-fly-solution-acid
+bip_39_word_dash_6: toss-rigid-fly-solution-acid-emotion
+bip_39_word_dash_7: toss-rigid-fly-solution-acid-emotion-aware
+bip_39_word_dash_8: toss-rigid-fly-solution-acid-emotion-aware-item
+bip_39_word_dash_9: toss-rigid-fly-solution-acid-emotion-aware-item-flag
 bip_39_word_new_br_1: toss
 bip_39_word_new_br_10: toss<br>rigid<br>fly<br>solution<br>acid<br>emotion<br>aware<br>item<br>flag<br>seek
 bip_39_word_new_br_11: toss<br>rigid<br>fly<br>solution<br>acid<br>emotion<br>aware<br>item<br>flag<br>seek<br>little
@@ -192,6 +204,18 @@ bip_39_word_space_6: toss rigid fly solution acid emotion
 bip_39_word_space_7: toss rigid fly solution acid emotion aware
 bip_39_word_space_8: toss rigid fly solution acid emotion aware item
 bip_39_word_space_9: toss rigid fly solution acid emotion aware item flag
+bip_39_word_underscore_1: toss
+bip_39_word_underscore_10: toss_rigid_fly_solution_acid_emotion_aware_item_flag_seek
+bip_39_word_underscore_11: toss_rigid_fly_solution_acid_emotion_aware_item_flag_seek_little
+bip_39_word_underscore_12: toss_rigid_fly_solution_acid_emotion_aware_item_flag_seek_little_advance
+bip_39_word_underscore_2: toss_rigid
+bip_39_word_underscore_3: toss_rigid_fly
+bip_39_word_underscore_4: toss_rigid_fly_solution
+bip_39_word_underscore_5: toss_rigid_fly_solution_acid
+bip_39_word_underscore_6: toss_rigid_fly_solution_acid_emotion
+bip_39_word_underscore_7: toss_rigid_fly_solution_acid_emotion_aware
+bip_39_word_underscore_8: toss_rigid_fly_solution_acid_emotion_aware_item
+bip_39_word_underscore_9: toss_rigid_fly_solution_acid_emotion_aware_item_flag
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

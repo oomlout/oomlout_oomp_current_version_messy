@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rifle |  
+| bip_39_word_dash_10 | rifle-vocal-priority-regret-forward-west-cram-spoon-pink-dove |  
+| bip_39_word_dash_11 | rifle-vocal-priority-regret-forward-west-cram-spoon-pink-dove-toss |  
+| bip_39_word_dash_12 | rifle-vocal-priority-regret-forward-west-cram-spoon-pink-dove-toss-artwork |  
+| bip_39_word_dash_2 | rifle-vocal |  
+| bip_39_word_dash_3 | rifle-vocal-priority |  
+| bip_39_word_dash_4 | rifle-vocal-priority-regret |  
+| bip_39_word_dash_5 | rifle-vocal-priority-regret-forward |  
+| bip_39_word_dash_6 | rifle-vocal-priority-regret-forward-west |  
+| bip_39_word_dash_7 | rifle-vocal-priority-regret-forward-west-cram |  
+| bip_39_word_dash_8 | rifle-vocal-priority-regret-forward-west-cram-spoon |  
+| bip_39_word_dash_9 | rifle-vocal-priority-regret-forward-west-cram-spoon-pink |  
 | bip_39_word_new_br_1 | rifle |  
 | bip_39_word_new_br_10 | rifle<br>vocal<br>priority<br>regret<br>forward<br>west<br>cram<br>spoon<br>pink<br>dove |  
 | bip_39_word_new_br_11 | rifle<br>vocal<br>priority<br>regret<br>forward<br>west<br>cram<br>spoon<br>pink<br>dove<br>toss |  
@@ -147,6 +159,18 @@ pink |
 | bip_39_word_space_7 | rifle vocal priority regret forward west cram |  
 | bip_39_word_space_8 | rifle vocal priority regret forward west cram spoon |  
 | bip_39_word_space_9 | rifle vocal priority regret forward west cram spoon pink |  
+| bip_39_word_underscore_1 | rifle |  
+| bip_39_word_underscore_10 | rifle_vocal_priority_regret_forward_west_cram_spoon_pink_dove |  
+| bip_39_word_underscore_11 | rifle_vocal_priority_regret_forward_west_cram_spoon_pink_dove_toss |  
+| bip_39_word_underscore_12 | rifle_vocal_priority_regret_forward_west_cram_spoon_pink_dove_toss_artwork |  
+| bip_39_word_underscore_2 | rifle_vocal |  
+| bip_39_word_underscore_3 | rifle_vocal_priority |  
+| bip_39_word_underscore_4 | rifle_vocal_priority_regret |  
+| bip_39_word_underscore_5 | rifle_vocal_priority_regret_forward |  
+| bip_39_word_underscore_6 | rifle_vocal_priority_regret_forward_west |  
+| bip_39_word_underscore_7 | rifle_vocal_priority_regret_forward_west_cram |  
+| bip_39_word_underscore_8 | rifle_vocal_priority_regret_forward_west_cram_spoon |  
+| bip_39_word_underscore_9 | rifle_vocal_priority_regret_forward_west_cram_spoon_pink |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stamp
+bip_39_word_dash_10: stamp-call-lonely-bubble-ship-repeat-maze-answer-shallow-injury
+bip_39_word_dash_11: stamp-call-lonely-bubble-ship-repeat-maze-answer-shallow-injury-gossip
+bip_39_word_dash_12: stamp-call-lonely-bubble-ship-repeat-maze-answer-shallow-injury-gossip-artefact
+bip_39_word_dash_2: stamp-call
+bip_39_word_dash_3: stamp-call-lonely
+bip_39_word_dash_4: stamp-call-lonely-bubble
+bip_39_word_dash_5: stamp-call-lonely-bubble-ship
+bip_39_word_dash_6: stamp-call-lonely-bubble-ship-repeat
+bip_39_word_dash_7: stamp-call-lonely-bubble-ship-repeat-maze
+bip_39_word_dash_8: stamp-call-lonely-bubble-ship-repeat-maze-answer
+bip_39_word_dash_9: stamp-call-lonely-bubble-ship-repeat-maze-answer-shallow
 bip_39_word_new_br_1: stamp
 bip_39_word_new_br_10: stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer<br>shallow<br>injury
 bip_39_word_new_br_11: stamp<br>call<br>lonely<br>bubble<br>ship<br>repeat<br>maze<br>answer<br>shallow<br>injury<br>gossip
@@ -193,6 +205,18 @@ bip_39_word_space_6: stamp call lonely bubble ship repeat
 bip_39_word_space_7: stamp call lonely bubble ship repeat maze
 bip_39_word_space_8: stamp call lonely bubble ship repeat maze answer
 bip_39_word_space_9: stamp call lonely bubble ship repeat maze answer shallow
+bip_39_word_underscore_1: stamp
+bip_39_word_underscore_10: stamp_call_lonely_bubble_ship_repeat_maze_answer_shallow_injury
+bip_39_word_underscore_11: stamp_call_lonely_bubble_ship_repeat_maze_answer_shallow_injury_gossip
+bip_39_word_underscore_12: stamp_call_lonely_bubble_ship_repeat_maze_answer_shallow_injury_gossip_artefact
+bip_39_word_underscore_2: stamp_call
+bip_39_word_underscore_3: stamp_call_lonely
+bip_39_word_underscore_4: stamp_call_lonely_bubble
+bip_39_word_underscore_5: stamp_call_lonely_bubble_ship
+bip_39_word_underscore_6: stamp_call_lonely_bubble_ship_repeat
+bip_39_word_underscore_7: stamp_call_lonely_bubble_ship_repeat_maze
+bip_39_word_underscore_8: stamp_call_lonely_bubble_ship_repeat_maze_answer
+bip_39_word_underscore_9: stamp_call_lonely_bubble_ship_repeat_maze_answer_shallow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

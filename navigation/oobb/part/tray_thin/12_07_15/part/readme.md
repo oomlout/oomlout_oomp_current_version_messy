@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prepare |  
+| bip_39_word_dash_10 | prepare-spatial-mass-smart-virus-head-fun-adjust-match-tooth |  
+| bip_39_word_dash_11 | prepare-spatial-mass-smart-virus-head-fun-adjust-match-tooth-west |  
+| bip_39_word_dash_12 | prepare-spatial-mass-smart-virus-head-fun-adjust-match-tooth-west-access |  
+| bip_39_word_dash_2 | prepare-spatial |  
+| bip_39_word_dash_3 | prepare-spatial-mass |  
+| bip_39_word_dash_4 | prepare-spatial-mass-smart |  
+| bip_39_word_dash_5 | prepare-spatial-mass-smart-virus |  
+| bip_39_word_dash_6 | prepare-spatial-mass-smart-virus-head |  
+| bip_39_word_dash_7 | prepare-spatial-mass-smart-virus-head-fun |  
+| bip_39_word_dash_8 | prepare-spatial-mass-smart-virus-head-fun-adjust |  
+| bip_39_word_dash_9 | prepare-spatial-mass-smart-virus-head-fun-adjust-match |  
 | bip_39_word_new_br_1 | prepare |  
 | bip_39_word_new_br_10 | prepare<br>spatial<br>mass<br>smart<br>virus<br>head<br>fun<br>adjust<br>match<br>tooth |  
 | bip_39_word_new_br_11 | prepare<br>spatial<br>mass<br>smart<br>virus<br>head<br>fun<br>adjust<br>match<br>tooth<br>west |  
@@ -147,6 +159,18 @@ match |
 | bip_39_word_space_7 | prepare spatial mass smart virus head fun |  
 | bip_39_word_space_8 | prepare spatial mass smart virus head fun adjust |  
 | bip_39_word_space_9 | prepare spatial mass smart virus head fun adjust match |  
+| bip_39_word_underscore_1 | prepare |  
+| bip_39_word_underscore_10 | prepare_spatial_mass_smart_virus_head_fun_adjust_match_tooth |  
+| bip_39_word_underscore_11 | prepare_spatial_mass_smart_virus_head_fun_adjust_match_tooth_west |  
+| bip_39_word_underscore_12 | prepare_spatial_mass_smart_virus_head_fun_adjust_match_tooth_west_access |  
+| bip_39_word_underscore_2 | prepare_spatial |  
+| bip_39_word_underscore_3 | prepare_spatial_mass |  
+| bip_39_word_underscore_4 | prepare_spatial_mass_smart |  
+| bip_39_word_underscore_5 | prepare_spatial_mass_smart_virus |  
+| bip_39_word_underscore_6 | prepare_spatial_mass_smart_virus_head |  
+| bip_39_word_underscore_7 | prepare_spatial_mass_smart_virus_head_fun |  
+| bip_39_word_underscore_8 | prepare_spatial_mass_smart_virus_head_fun_adjust |  
+| bip_39_word_underscore_9 | prepare_spatial_mass_smart_virus_head_fun_adjust_match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

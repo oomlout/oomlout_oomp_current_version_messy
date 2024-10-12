@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fence |  
+| bip_39_word_dash_10 | fence-dismiss-decrease-wrestle-surround-shrimp-rice-claim-harvest-balcony |  
+| bip_39_word_dash_11 | fence-dismiss-decrease-wrestle-surround-shrimp-rice-claim-harvest-balcony-spike |  
+| bip_39_word_dash_12 | fence-dismiss-decrease-wrestle-surround-shrimp-rice-claim-harvest-balcony-spike-auction |  
+| bip_39_word_dash_2 | fence-dismiss |  
+| bip_39_word_dash_3 | fence-dismiss-decrease |  
+| bip_39_word_dash_4 | fence-dismiss-decrease-wrestle |  
+| bip_39_word_dash_5 | fence-dismiss-decrease-wrestle-surround |  
+| bip_39_word_dash_6 | fence-dismiss-decrease-wrestle-surround-shrimp |  
+| bip_39_word_dash_7 | fence-dismiss-decrease-wrestle-surround-shrimp-rice |  
+| bip_39_word_dash_8 | fence-dismiss-decrease-wrestle-surround-shrimp-rice-claim |  
+| bip_39_word_dash_9 | fence-dismiss-decrease-wrestle-surround-shrimp-rice-claim-harvest |  
 | bip_39_word_new_br_1 | fence |  
 | bip_39_word_new_br_10 | fence<br>dismiss<br>decrease<br>wrestle<br>surround<br>shrimp<br>rice<br>claim<br>harvest<br>balcony |  
 | bip_39_word_new_br_11 | fence<br>dismiss<br>decrease<br>wrestle<br>surround<br>shrimp<br>rice<br>claim<br>harvest<br>balcony<br>spike |  
@@ -147,6 +159,18 @@ harvest |
 | bip_39_word_space_7 | fence dismiss decrease wrestle surround shrimp rice |  
 | bip_39_word_space_8 | fence dismiss decrease wrestle surround shrimp rice claim |  
 | bip_39_word_space_9 | fence dismiss decrease wrestle surround shrimp rice claim harvest |  
+| bip_39_word_underscore_1 | fence |  
+| bip_39_word_underscore_10 | fence_dismiss_decrease_wrestle_surround_shrimp_rice_claim_harvest_balcony |  
+| bip_39_word_underscore_11 | fence_dismiss_decrease_wrestle_surround_shrimp_rice_claim_harvest_balcony_spike |  
+| bip_39_word_underscore_12 | fence_dismiss_decrease_wrestle_surround_shrimp_rice_claim_harvest_balcony_spike_auction |  
+| bip_39_word_underscore_2 | fence_dismiss |  
+| bip_39_word_underscore_3 | fence_dismiss_decrease |  
+| bip_39_word_underscore_4 | fence_dismiss_decrease_wrestle |  
+| bip_39_word_underscore_5 | fence_dismiss_decrease_wrestle_surround |  
+| bip_39_word_underscore_6 | fence_dismiss_decrease_wrestle_surround_shrimp |  
+| bip_39_word_underscore_7 | fence_dismiss_decrease_wrestle_surround_shrimp_rice |  
+| bip_39_word_underscore_8 | fence_dismiss_decrease_wrestle_surround_shrimp_rice_claim |  
+| bip_39_word_underscore_9 | fence_dismiss_decrease_wrestle_surround_shrimp_rice_claim_harvest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

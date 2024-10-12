@@ -1,3 +1,15 @@
+bip_39_word_dash_1: peace
+bip_39_word_dash_10: peace-naive-crouch-dream-music-brick-giggle-crush-now-small
+bip_39_word_dash_11: peace-naive-crouch-dream-music-brick-giggle-crush-now-small-desert
+bip_39_word_dash_12: peace-naive-crouch-dream-music-brick-giggle-crush-now-small-desert-arrive
+bip_39_word_dash_2: peace-naive
+bip_39_word_dash_3: peace-naive-crouch
+bip_39_word_dash_4: peace-naive-crouch-dream
+bip_39_word_dash_5: peace-naive-crouch-dream-music
+bip_39_word_dash_6: peace-naive-crouch-dream-music-brick
+bip_39_word_dash_7: peace-naive-crouch-dream-music-brick-giggle
+bip_39_word_dash_8: peace-naive-crouch-dream-music-brick-giggle-crush
+bip_39_word_dash_9: peace-naive-crouch-dream-music-brick-giggle-crush-now
 bip_39_word_new_br_1: peace
 bip_39_word_new_br_10: peace<br>naive<br>crouch<br>dream<br>music<br>brick<br>giggle<br>crush<br>now<br>small
 bip_39_word_new_br_11: peace<br>naive<br>crouch<br>dream<br>music<br>brick<br>giggle<br>crush<br>now<br>small<br>desert
@@ -193,6 +205,18 @@ bip_39_word_space_6: peace naive crouch dream music brick
 bip_39_word_space_7: peace naive crouch dream music brick giggle
 bip_39_word_space_8: peace naive crouch dream music brick giggle crush
 bip_39_word_space_9: peace naive crouch dream music brick giggle crush now
+bip_39_word_underscore_1: peace
+bip_39_word_underscore_10: peace_naive_crouch_dream_music_brick_giggle_crush_now_small
+bip_39_word_underscore_11: peace_naive_crouch_dream_music_brick_giggle_crush_now_small_desert
+bip_39_word_underscore_12: peace_naive_crouch_dream_music_brick_giggle_crush_now_small_desert_arrive
+bip_39_word_underscore_2: peace_naive
+bip_39_word_underscore_3: peace_naive_crouch
+bip_39_word_underscore_4: peace_naive_crouch_dream
+bip_39_word_underscore_5: peace_naive_crouch_dream_music
+bip_39_word_underscore_6: peace_naive_crouch_dream_music_brick
+bip_39_word_underscore_7: peace_naive_crouch_dream_music_brick_giggle
+bip_39_word_underscore_8: peace_naive_crouch_dream_music_brick_giggle_crush
+bip_39_word_underscore_9: peace_naive_crouch_dream_music_brick_giggle_crush_now
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

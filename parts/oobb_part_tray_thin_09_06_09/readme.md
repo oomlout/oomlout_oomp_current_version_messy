@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | review |  
+| bip_39_word_dash_10 | review-cup-absurd-exhaust-hammer-weekend-marble-inspire-rule-exercise |  
+| bip_39_word_dash_11 | review-cup-absurd-exhaust-hammer-weekend-marble-inspire-rule-exercise-stone |  
+| bip_39_word_dash_12 | review-cup-absurd-exhaust-hammer-weekend-marble-inspire-rule-exercise-stone-anger |  
+| bip_39_word_dash_2 | review-cup |  
+| bip_39_word_dash_3 | review-cup-absurd |  
+| bip_39_word_dash_4 | review-cup-absurd-exhaust |  
+| bip_39_word_dash_5 | review-cup-absurd-exhaust-hammer |  
+| bip_39_word_dash_6 | review-cup-absurd-exhaust-hammer-weekend |  
+| bip_39_word_dash_7 | review-cup-absurd-exhaust-hammer-weekend-marble |  
+| bip_39_word_dash_8 | review-cup-absurd-exhaust-hammer-weekend-marble-inspire |  
+| bip_39_word_dash_9 | review-cup-absurd-exhaust-hammer-weekend-marble-inspire-rule |  
 | bip_39_word_new_br_1 | review |  
 | bip_39_word_new_br_10 | review<br>cup<br>absurd<br>exhaust<br>hammer<br>weekend<br>marble<br>inspire<br>rule<br>exercise |  
 | bip_39_word_new_br_11 | review<br>cup<br>absurd<br>exhaust<br>hammer<br>weekend<br>marble<br>inspire<br>rule<br>exercise<br>stone |  
@@ -147,6 +159,18 @@ rule |
 | bip_39_word_space_7 | review cup absurd exhaust hammer weekend marble |  
 | bip_39_word_space_8 | review cup absurd exhaust hammer weekend marble inspire |  
 | bip_39_word_space_9 | review cup absurd exhaust hammer weekend marble inspire rule |  
+| bip_39_word_underscore_1 | review |  
+| bip_39_word_underscore_10 | review_cup_absurd_exhaust_hammer_weekend_marble_inspire_rule_exercise |  
+| bip_39_word_underscore_11 | review_cup_absurd_exhaust_hammer_weekend_marble_inspire_rule_exercise_stone |  
+| bip_39_word_underscore_12 | review_cup_absurd_exhaust_hammer_weekend_marble_inspire_rule_exercise_stone_anger |  
+| bip_39_word_underscore_2 | review_cup |  
+| bip_39_word_underscore_3 | review_cup_absurd |  
+| bip_39_word_underscore_4 | review_cup_absurd_exhaust |  
+| bip_39_word_underscore_5 | review_cup_absurd_exhaust_hammer |  
+| bip_39_word_underscore_6 | review_cup_absurd_exhaust_hammer_weekend |  
+| bip_39_word_underscore_7 | review_cup_absurd_exhaust_hammer_weekend_marble |  
+| bip_39_word_underscore_8 | review_cup_absurd_exhaust_hammer_weekend_marble_inspire |  
+| bip_39_word_underscore_9 | review_cup_absurd_exhaust_hammer_weekend_marble_inspire_rule |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

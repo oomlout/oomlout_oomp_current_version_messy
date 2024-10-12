@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scout |  
+| bip_39_word_dash_10 | scout-motion-hint-violin-noble-apart-together-define-cancel-normal |  
+| bip_39_word_dash_11 | scout-motion-hint-violin-noble-apart-together-define-cancel-normal-notice |  
+| bip_39_word_dash_12 | scout-motion-hint-violin-noble-apart-together-define-cancel-normal-notice-athlete |  
+| bip_39_word_dash_2 | scout-motion |  
+| bip_39_word_dash_3 | scout-motion-hint |  
+| bip_39_word_dash_4 | scout-motion-hint-violin |  
+| bip_39_word_dash_5 | scout-motion-hint-violin-noble |  
+| bip_39_word_dash_6 | scout-motion-hint-violin-noble-apart |  
+| bip_39_word_dash_7 | scout-motion-hint-violin-noble-apart-together |  
+| bip_39_word_dash_8 | scout-motion-hint-violin-noble-apart-together-define |  
+| bip_39_word_dash_9 | scout-motion-hint-violin-noble-apart-together-define-cancel |  
 | bip_39_word_new_br_1 | scout |  
 | bip_39_word_new_br_10 | scout<br>motion<br>hint<br>violin<br>noble<br>apart<br>together<br>define<br>cancel<br>normal |  
 | bip_39_word_new_br_11 | scout<br>motion<br>hint<br>violin<br>noble<br>apart<br>together<br>define<br>cancel<br>normal<br>notice |  
@@ -147,6 +159,18 @@ cancel |
 | bip_39_word_space_7 | scout motion hint violin noble apart together |  
 | bip_39_word_space_8 | scout motion hint violin noble apart together define |  
 | bip_39_word_space_9 | scout motion hint violin noble apart together define cancel |  
+| bip_39_word_underscore_1 | scout |  
+| bip_39_word_underscore_10 | scout_motion_hint_violin_noble_apart_together_define_cancel_normal |  
+| bip_39_word_underscore_11 | scout_motion_hint_violin_noble_apart_together_define_cancel_normal_notice |  
+| bip_39_word_underscore_12 | scout_motion_hint_violin_noble_apart_together_define_cancel_normal_notice_athlete |  
+| bip_39_word_underscore_2 | scout_motion |  
+| bip_39_word_underscore_3 | scout_motion_hint |  
+| bip_39_word_underscore_4 | scout_motion_hint_violin |  
+| bip_39_word_underscore_5 | scout_motion_hint_violin_noble |  
+| bip_39_word_underscore_6 | scout_motion_hint_violin_noble_apart |  
+| bip_39_word_underscore_7 | scout_motion_hint_violin_noble_apart_together |  
+| bip_39_word_underscore_8 | scout_motion_hint_violin_noble_apart_together_define |  
+| bip_39_word_underscore_9 | scout_motion_hint_violin_noble_apart_together_define_cancel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gain |  
+| bip_39_word_dash_10 | gain-thrive-click-roast-sight-shrug-urge-clay-turtle-flight |  
+| bip_39_word_dash_11 | gain-thrive-click-roast-sight-shrug-urge-clay-turtle-flight-height |  
+| bip_39_word_dash_12 | gain-thrive-click-roast-sight-shrug-urge-clay-turtle-flight-height-afford |  
+| bip_39_word_dash_2 | gain-thrive |  
+| bip_39_word_dash_3 | gain-thrive-click |  
+| bip_39_word_dash_4 | gain-thrive-click-roast |  
+| bip_39_word_dash_5 | gain-thrive-click-roast-sight |  
+| bip_39_word_dash_6 | gain-thrive-click-roast-sight-shrug |  
+| bip_39_word_dash_7 | gain-thrive-click-roast-sight-shrug-urge |  
+| bip_39_word_dash_8 | gain-thrive-click-roast-sight-shrug-urge-clay |  
+| bip_39_word_dash_9 | gain-thrive-click-roast-sight-shrug-urge-clay-turtle |  
 | bip_39_word_new_br_1 | gain |  
 | bip_39_word_new_br_10 | gain<br>thrive<br>click<br>roast<br>sight<br>shrug<br>urge<br>clay<br>turtle<br>flight |  
 | bip_39_word_new_br_11 | gain<br>thrive<br>click<br>roast<br>sight<br>shrug<br>urge<br>clay<br>turtle<br>flight<br>height |  
@@ -147,6 +159,18 @@ turtle |
 | bip_39_word_space_7 | gain thrive click roast sight shrug urge |  
 | bip_39_word_space_8 | gain thrive click roast sight shrug urge clay |  
 | bip_39_word_space_9 | gain thrive click roast sight shrug urge clay turtle |  
+| bip_39_word_underscore_1 | gain |  
+| bip_39_word_underscore_10 | gain_thrive_click_roast_sight_shrug_urge_clay_turtle_flight |  
+| bip_39_word_underscore_11 | gain_thrive_click_roast_sight_shrug_urge_clay_turtle_flight_height |  
+| bip_39_word_underscore_12 | gain_thrive_click_roast_sight_shrug_urge_clay_turtle_flight_height_afford |  
+| bip_39_word_underscore_2 | gain_thrive |  
+| bip_39_word_underscore_3 | gain_thrive_click |  
+| bip_39_word_underscore_4 | gain_thrive_click_roast |  
+| bip_39_word_underscore_5 | gain_thrive_click_roast_sight |  
+| bip_39_word_underscore_6 | gain_thrive_click_roast_sight_shrug |  
+| bip_39_word_underscore_7 | gain_thrive_click_roast_sight_shrug_urge |  
+| bip_39_word_underscore_8 | gain_thrive_click_roast_sight_shrug_urge_clay |  
+| bip_39_word_underscore_9 | gain_thrive_click_roast_sight_shrug_urge_clay_turtle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | click |  
+| bip_39_word_dash_10 | click-stage-lazy-visit-mimic-trick-focus-ring-tattoo-syrup |  
+| bip_39_word_dash_11 | click-stage-lazy-visit-mimic-trick-focus-ring-tattoo-syrup-earth |  
+| bip_39_word_dash_12 | click-stage-lazy-visit-mimic-trick-focus-ring-tattoo-syrup-earth-alter |  
+| bip_39_word_dash_2 | click-stage |  
+| bip_39_word_dash_3 | click-stage-lazy |  
+| bip_39_word_dash_4 | click-stage-lazy-visit |  
+| bip_39_word_dash_5 | click-stage-lazy-visit-mimic |  
+| bip_39_word_dash_6 | click-stage-lazy-visit-mimic-trick |  
+| bip_39_word_dash_7 | click-stage-lazy-visit-mimic-trick-focus |  
+| bip_39_word_dash_8 | click-stage-lazy-visit-mimic-trick-focus-ring |  
+| bip_39_word_dash_9 | click-stage-lazy-visit-mimic-trick-focus-ring-tattoo |  
 | bip_39_word_new_br_1 | click |  
 | bip_39_word_new_br_10 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup |  
 | bip_39_word_new_br_11 | click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup<br>earth |  
@@ -147,6 +159,18 @@ tattoo |
 | bip_39_word_space_7 | click stage lazy visit mimic trick focus |  
 | bip_39_word_space_8 | click stage lazy visit mimic trick focus ring |  
 | bip_39_word_space_9 | click stage lazy visit mimic trick focus ring tattoo |  
+| bip_39_word_underscore_1 | click |  
+| bip_39_word_underscore_10 | click_stage_lazy_visit_mimic_trick_focus_ring_tattoo_syrup |  
+| bip_39_word_underscore_11 | click_stage_lazy_visit_mimic_trick_focus_ring_tattoo_syrup_earth |  
+| bip_39_word_underscore_12 | click_stage_lazy_visit_mimic_trick_focus_ring_tattoo_syrup_earth_alter |  
+| bip_39_word_underscore_2 | click_stage |  
+| bip_39_word_underscore_3 | click_stage_lazy |  
+| bip_39_word_underscore_4 | click_stage_lazy_visit |  
+| bip_39_word_underscore_5 | click_stage_lazy_visit_mimic |  
+| bip_39_word_underscore_6 | click_stage_lazy_visit_mimic_trick |  
+| bip_39_word_underscore_7 | click_stage_lazy_visit_mimic_trick_focus |  
+| bip_39_word_underscore_8 | click_stage_lazy_visit_mimic_trick_focus_ring |  
+| bip_39_word_underscore_9 | click_stage_lazy_visit_mimic_trick_focus_ring_tattoo |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

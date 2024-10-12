@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coast |  
+| bip_39_word_dash_10 | coast-beyond-west-baby-master-coach-fiction-vital-jelly-invest |  
+| bip_39_word_dash_11 | coast-beyond-west-baby-master-coach-fiction-vital-jelly-invest-current |  
+| bip_39_word_dash_12 | coast-beyond-west-baby-master-coach-fiction-vital-jelly-invest-current-asthma |  
+| bip_39_word_dash_2 | coast-beyond |  
+| bip_39_word_dash_3 | coast-beyond-west |  
+| bip_39_word_dash_4 | coast-beyond-west-baby |  
+| bip_39_word_dash_5 | coast-beyond-west-baby-master |  
+| bip_39_word_dash_6 | coast-beyond-west-baby-master-coach |  
+| bip_39_word_dash_7 | coast-beyond-west-baby-master-coach-fiction |  
+| bip_39_word_dash_8 | coast-beyond-west-baby-master-coach-fiction-vital |  
+| bip_39_word_dash_9 | coast-beyond-west-baby-master-coach-fiction-vital-jelly |  
 | bip_39_word_new_br_1 | coast |  
 | bip_39_word_new_br_10 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital<br>jelly<br>invest |  
 | bip_39_word_new_br_11 | coast<br>beyond<br>west<br>baby<br>master<br>coach<br>fiction<br>vital<br>jelly<br>invest<br>current |  
@@ -147,6 +159,18 @@ jelly |
 | bip_39_word_space_7 | coast beyond west baby master coach fiction |  
 | bip_39_word_space_8 | coast beyond west baby master coach fiction vital |  
 | bip_39_word_space_9 | coast beyond west baby master coach fiction vital jelly |  
+| bip_39_word_underscore_1 | coast |  
+| bip_39_word_underscore_10 | coast_beyond_west_baby_master_coach_fiction_vital_jelly_invest |  
+| bip_39_word_underscore_11 | coast_beyond_west_baby_master_coach_fiction_vital_jelly_invest_current |  
+| bip_39_word_underscore_12 | coast_beyond_west_baby_master_coach_fiction_vital_jelly_invest_current_asthma |  
+| bip_39_word_underscore_2 | coast_beyond |  
+| bip_39_word_underscore_3 | coast_beyond_west |  
+| bip_39_word_underscore_4 | coast_beyond_west_baby |  
+| bip_39_word_underscore_5 | coast_beyond_west_baby_master |  
+| bip_39_word_underscore_6 | coast_beyond_west_baby_master_coach |  
+| bip_39_word_underscore_7 | coast_beyond_west_baby_master_coach_fiction |  
+| bip_39_word_underscore_8 | coast_beyond_west_baby_master_coach_fiction_vital |  
+| bip_39_word_underscore_9 | coast_beyond_west_baby_master_coach_fiction_vital_jelly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

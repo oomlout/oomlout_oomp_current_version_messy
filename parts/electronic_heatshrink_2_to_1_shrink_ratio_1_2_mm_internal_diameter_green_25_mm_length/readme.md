@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | afraid |  
+| bip_39_word_dash_10 | afraid-child-giggle-awesome-safe-demise-refuse-where-glow-chapter |  
+| bip_39_word_dash_11 | afraid-child-giggle-awesome-safe-demise-refuse-where-glow-chapter-pioneer |  
+| bip_39_word_dash_12 | afraid-child-giggle-awesome-safe-demise-refuse-where-glow-chapter-pioneer-amateur |  
+| bip_39_word_dash_2 | afraid-child |  
+| bip_39_word_dash_3 | afraid-child-giggle |  
+| bip_39_word_dash_4 | afraid-child-giggle-awesome |  
+| bip_39_word_dash_5 | afraid-child-giggle-awesome-safe |  
+| bip_39_word_dash_6 | afraid-child-giggle-awesome-safe-demise |  
+| bip_39_word_dash_7 | afraid-child-giggle-awesome-safe-demise-refuse |  
+| bip_39_word_dash_8 | afraid-child-giggle-awesome-safe-demise-refuse-where |  
+| bip_39_word_dash_9 | afraid-child-giggle-awesome-safe-demise-refuse-where-glow |  
 | bip_39_word_new_br_1 | afraid |  
 | bip_39_word_new_br_10 | afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter |  
 | bip_39_word_new_br_11 | afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter<br>pioneer |  
@@ -147,6 +159,18 @@ glow |
 | bip_39_word_space_7 | afraid child giggle awesome safe demise refuse |  
 | bip_39_word_space_8 | afraid child giggle awesome safe demise refuse where |  
 | bip_39_word_space_9 | afraid child giggle awesome safe demise refuse where glow |  
+| bip_39_word_underscore_1 | afraid |  
+| bip_39_word_underscore_10 | afraid_child_giggle_awesome_safe_demise_refuse_where_glow_chapter |  
+| bip_39_word_underscore_11 | afraid_child_giggle_awesome_safe_demise_refuse_where_glow_chapter_pioneer |  
+| bip_39_word_underscore_12 | afraid_child_giggle_awesome_safe_demise_refuse_where_glow_chapter_pioneer_amateur |  
+| bip_39_word_underscore_2 | afraid_child |  
+| bip_39_word_underscore_3 | afraid_child_giggle |  
+| bip_39_word_underscore_4 | afraid_child_giggle_awesome |  
+| bip_39_word_underscore_5 | afraid_child_giggle_awesome_safe |  
+| bip_39_word_underscore_6 | afraid_child_giggle_awesome_safe_demise |  
+| bip_39_word_underscore_7 | afraid_child_giggle_awesome_safe_demise_refuse |  
+| bip_39_word_underscore_8 | afraid_child_giggle_awesome_safe_demise_refuse_where |  
+| bip_39_word_underscore_9 | afraid_child_giggle_awesome_safe_demise_refuse_where_glow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

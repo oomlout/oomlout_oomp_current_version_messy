@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mad |  
+| bip_39_word_dash_10 | mad-shed-course-blur-student-august-elite-regular-deny-engine |  
+| bip_39_word_dash_11 | mad-shed-course-blur-student-august-elite-regular-deny-engine-knee |  
+| bip_39_word_dash_12 | mad-shed-course-blur-student-august-elite-regular-deny-engine-knee-able |  
+| bip_39_word_dash_2 | mad-shed |  
+| bip_39_word_dash_3 | mad-shed-course |  
+| bip_39_word_dash_4 | mad-shed-course-blur |  
+| bip_39_word_dash_5 | mad-shed-course-blur-student |  
+| bip_39_word_dash_6 | mad-shed-course-blur-student-august |  
+| bip_39_word_dash_7 | mad-shed-course-blur-student-august-elite |  
+| bip_39_word_dash_8 | mad-shed-course-blur-student-august-elite-regular |  
+| bip_39_word_dash_9 | mad-shed-course-blur-student-august-elite-regular-deny |  
 | bip_39_word_new_br_1 | mad |  
 | bip_39_word_new_br_10 | mad<br>shed<br>course<br>blur<br>student<br>august<br>elite<br>regular<br>deny<br>engine |  
 | bip_39_word_new_br_11 | mad<br>shed<br>course<br>blur<br>student<br>august<br>elite<br>regular<br>deny<br>engine<br>knee |  
@@ -147,6 +159,18 @@ deny |
 | bip_39_word_space_7 | mad shed course blur student august elite |  
 | bip_39_word_space_8 | mad shed course blur student august elite regular |  
 | bip_39_word_space_9 | mad shed course blur student august elite regular deny |  
+| bip_39_word_underscore_1 | mad |  
+| bip_39_word_underscore_10 | mad_shed_course_blur_student_august_elite_regular_deny_engine |  
+| bip_39_word_underscore_11 | mad_shed_course_blur_student_august_elite_regular_deny_engine_knee |  
+| bip_39_word_underscore_12 | mad_shed_course_blur_student_august_elite_regular_deny_engine_knee_able |  
+| bip_39_word_underscore_2 | mad_shed |  
+| bip_39_word_underscore_3 | mad_shed_course |  
+| bip_39_word_underscore_4 | mad_shed_course_blur |  
+| bip_39_word_underscore_5 | mad_shed_course_blur_student |  
+| bip_39_word_underscore_6 | mad_shed_course_blur_student_august |  
+| bip_39_word_underscore_7 | mad_shed_course_blur_student_august_elite |  
+| bip_39_word_underscore_8 | mad_shed_course_blur_student_august_elite_regular |  
+| bip_39_word_underscore_9 | mad_shed_course_blur_student_august_elite_regular_deny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

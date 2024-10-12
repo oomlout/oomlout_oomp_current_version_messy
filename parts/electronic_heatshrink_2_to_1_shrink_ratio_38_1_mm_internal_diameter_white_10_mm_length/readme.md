@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vault |  
+| bip_39_word_dash_10 | vault-have-firm-banner-hundred-garment-dog-busy-submit-face |  
+| bip_39_word_dash_11 | vault-have-firm-banner-hundred-garment-dog-busy-submit-face-once |  
+| bip_39_word_dash_12 | vault-have-firm-banner-hundred-garment-dog-busy-submit-face-once-album |  
+| bip_39_word_dash_2 | vault-have |  
+| bip_39_word_dash_3 | vault-have-firm |  
+| bip_39_word_dash_4 | vault-have-firm-banner |  
+| bip_39_word_dash_5 | vault-have-firm-banner-hundred |  
+| bip_39_word_dash_6 | vault-have-firm-banner-hundred-garment |  
+| bip_39_word_dash_7 | vault-have-firm-banner-hundred-garment-dog |  
+| bip_39_word_dash_8 | vault-have-firm-banner-hundred-garment-dog-busy |  
+| bip_39_word_dash_9 | vault-have-firm-banner-hundred-garment-dog-busy-submit |  
 | bip_39_word_new_br_1 | vault |  
 | bip_39_word_new_br_10 | vault<br>have<br>firm<br>banner<br>hundred<br>garment<br>dog<br>busy<br>submit<br>face |  
 | bip_39_word_new_br_11 | vault<br>have<br>firm<br>banner<br>hundred<br>garment<br>dog<br>busy<br>submit<br>face<br>once |  
@@ -147,6 +159,18 @@ submit |
 | bip_39_word_space_7 | vault have firm banner hundred garment dog |  
 | bip_39_word_space_8 | vault have firm banner hundred garment dog busy |  
 | bip_39_word_space_9 | vault have firm banner hundred garment dog busy submit |  
+| bip_39_word_underscore_1 | vault |  
+| bip_39_word_underscore_10 | vault_have_firm_banner_hundred_garment_dog_busy_submit_face |  
+| bip_39_word_underscore_11 | vault_have_firm_banner_hundred_garment_dog_busy_submit_face_once |  
+| bip_39_word_underscore_12 | vault_have_firm_banner_hundred_garment_dog_busy_submit_face_once_album |  
+| bip_39_word_underscore_2 | vault_have |  
+| bip_39_word_underscore_3 | vault_have_firm |  
+| bip_39_word_underscore_4 | vault_have_firm_banner |  
+| bip_39_word_underscore_5 | vault_have_firm_banner_hundred |  
+| bip_39_word_underscore_6 | vault_have_firm_banner_hundred_garment |  
+| bip_39_word_underscore_7 | vault_have_firm_banner_hundred_garment_dog |  
+| bip_39_word_underscore_8 | vault_have_firm_banner_hundred_garment_dog_busy |  
+| bip_39_word_underscore_9 | vault_have_firm_banner_hundred_garment_dog_busy_submit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

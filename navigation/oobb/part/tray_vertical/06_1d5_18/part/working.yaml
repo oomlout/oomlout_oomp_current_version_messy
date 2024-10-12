@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toddler
+bip_39_word_dash_10: toddler-walnut-meadow-brother-stable-food-demise-catch-suggest-acid
+bip_39_word_dash_11: toddler-walnut-meadow-brother-stable-food-demise-catch-suggest-acid-public
+bip_39_word_dash_12: toddler-walnut-meadow-brother-stable-food-demise-catch-suggest-acid-public-also
+bip_39_word_dash_2: toddler-walnut
+bip_39_word_dash_3: toddler-walnut-meadow
+bip_39_word_dash_4: toddler-walnut-meadow-brother
+bip_39_word_dash_5: toddler-walnut-meadow-brother-stable
+bip_39_word_dash_6: toddler-walnut-meadow-brother-stable-food
+bip_39_word_dash_7: toddler-walnut-meadow-brother-stable-food-demise
+bip_39_word_dash_8: toddler-walnut-meadow-brother-stable-food-demise-catch
+bip_39_word_dash_9: toddler-walnut-meadow-brother-stable-food-demise-catch-suggest
 bip_39_word_new_br_1: toddler
 bip_39_word_new_br_10: toddler<br>walnut<br>meadow<br>brother<br>stable<br>food<br>demise<br>catch<br>suggest<br>acid
 bip_39_word_new_br_11: toddler<br>walnut<br>meadow<br>brother<br>stable<br>food<br>demise<br>catch<br>suggest<br>acid<br>public
@@ -194,6 +206,18 @@ bip_39_word_space_6: toddler walnut meadow brother stable food
 bip_39_word_space_7: toddler walnut meadow brother stable food demise
 bip_39_word_space_8: toddler walnut meadow brother stable food demise catch
 bip_39_word_space_9: toddler walnut meadow brother stable food demise catch suggest
+bip_39_word_underscore_1: toddler
+bip_39_word_underscore_10: toddler_walnut_meadow_brother_stable_food_demise_catch_suggest_acid
+bip_39_word_underscore_11: toddler_walnut_meadow_brother_stable_food_demise_catch_suggest_acid_public
+bip_39_word_underscore_12: toddler_walnut_meadow_brother_stable_food_demise_catch_suggest_acid_public_also
+bip_39_word_underscore_2: toddler_walnut
+bip_39_word_underscore_3: toddler_walnut_meadow
+bip_39_word_underscore_4: toddler_walnut_meadow_brother
+bip_39_word_underscore_5: toddler_walnut_meadow_brother_stable
+bip_39_word_underscore_6: toddler_walnut_meadow_brother_stable_food
+bip_39_word_underscore_7: toddler_walnut_meadow_brother_stable_food_demise
+bip_39_word_underscore_8: toddler_walnut_meadow_brother_stable_food_demise_catch
+bip_39_word_underscore_9: toddler_walnut_meadow_brother_stable_food_demise_catch_suggest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

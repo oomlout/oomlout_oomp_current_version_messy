@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | random |  
+| bip_39_word_dash_10 | random-regret-spirit-fruit-weekend-adjust-appear-run-now-food |  
+| bip_39_word_dash_11 | random-regret-spirit-fruit-weekend-adjust-appear-run-now-food-meadow |  
+| bip_39_word_dash_12 | random-regret-spirit-fruit-weekend-adjust-appear-run-now-food-meadow-annual |  
+| bip_39_word_dash_2 | random-regret |  
+| bip_39_word_dash_3 | random-regret-spirit |  
+| bip_39_word_dash_4 | random-regret-spirit-fruit |  
+| bip_39_word_dash_5 | random-regret-spirit-fruit-weekend |  
+| bip_39_word_dash_6 | random-regret-spirit-fruit-weekend-adjust |  
+| bip_39_word_dash_7 | random-regret-spirit-fruit-weekend-adjust-appear |  
+| bip_39_word_dash_8 | random-regret-spirit-fruit-weekend-adjust-appear-run |  
+| bip_39_word_dash_9 | random-regret-spirit-fruit-weekend-adjust-appear-run-now |  
 | bip_39_word_new_br_1 | random |  
 | bip_39_word_new_br_10 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run<br>now<br>food |  
 | bip_39_word_new_br_11 | random<br>regret<br>spirit<br>fruit<br>weekend<br>adjust<br>appear<br>run<br>now<br>food<br>meadow |  
@@ -147,6 +159,18 @@ now |
 | bip_39_word_space_7 | random regret spirit fruit weekend adjust appear |  
 | bip_39_word_space_8 | random regret spirit fruit weekend adjust appear run |  
 | bip_39_word_space_9 | random regret spirit fruit weekend adjust appear run now |  
+| bip_39_word_underscore_1 | random |  
+| bip_39_word_underscore_10 | random_regret_spirit_fruit_weekend_adjust_appear_run_now_food |  
+| bip_39_word_underscore_11 | random_regret_spirit_fruit_weekend_adjust_appear_run_now_food_meadow |  
+| bip_39_word_underscore_12 | random_regret_spirit_fruit_weekend_adjust_appear_run_now_food_meadow_annual |  
+| bip_39_word_underscore_2 | random_regret |  
+| bip_39_word_underscore_3 | random_regret_spirit |  
+| bip_39_word_underscore_4 | random_regret_spirit_fruit |  
+| bip_39_word_underscore_5 | random_regret_spirit_fruit_weekend |  
+| bip_39_word_underscore_6 | random_regret_spirit_fruit_weekend_adjust |  
+| bip_39_word_underscore_7 | random_regret_spirit_fruit_weekend_adjust_appear |  
+| bip_39_word_underscore_8 | random_regret_spirit_fruit_weekend_adjust_appear_run |  
+| bip_39_word_underscore_9 | random_regret_spirit_fruit_weekend_adjust_appear_run_now |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

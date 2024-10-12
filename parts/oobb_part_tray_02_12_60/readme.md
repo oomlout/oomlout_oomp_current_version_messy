@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | olympic |  
+| bip_39_word_dash_10 | olympic-enable-gorilla-melody-risk-engage-put-core-cause-that |  
+| bip_39_word_dash_11 | olympic-enable-gorilla-melody-risk-engage-put-core-cause-that-payment |  
+| bip_39_word_dash_12 | olympic-enable-gorilla-melody-risk-engage-put-core-cause-that-payment-any |  
+| bip_39_word_dash_2 | olympic-enable |  
+| bip_39_word_dash_3 | olympic-enable-gorilla |  
+| bip_39_word_dash_4 | olympic-enable-gorilla-melody |  
+| bip_39_word_dash_5 | olympic-enable-gorilla-melody-risk |  
+| bip_39_word_dash_6 | olympic-enable-gorilla-melody-risk-engage |  
+| bip_39_word_dash_7 | olympic-enable-gorilla-melody-risk-engage-put |  
+| bip_39_word_dash_8 | olympic-enable-gorilla-melody-risk-engage-put-core |  
+| bip_39_word_dash_9 | olympic-enable-gorilla-melody-risk-engage-put-core-cause |  
 | bip_39_word_new_br_1 | olympic |  
 | bip_39_word_new_br_10 | olympic<br>enable<br>gorilla<br>melody<br>risk<br>engage<br>put<br>core<br>cause<br>that |  
 | bip_39_word_new_br_11 | olympic<br>enable<br>gorilla<br>melody<br>risk<br>engage<br>put<br>core<br>cause<br>that<br>payment |  
@@ -147,6 +159,18 @@ cause |
 | bip_39_word_space_7 | olympic enable gorilla melody risk engage put |  
 | bip_39_word_space_8 | olympic enable gorilla melody risk engage put core |  
 | bip_39_word_space_9 | olympic enable gorilla melody risk engage put core cause |  
+| bip_39_word_underscore_1 | olympic |  
+| bip_39_word_underscore_10 | olympic_enable_gorilla_melody_risk_engage_put_core_cause_that |  
+| bip_39_word_underscore_11 | olympic_enable_gorilla_melody_risk_engage_put_core_cause_that_payment |  
+| bip_39_word_underscore_12 | olympic_enable_gorilla_melody_risk_engage_put_core_cause_that_payment_any |  
+| bip_39_word_underscore_2 | olympic_enable |  
+| bip_39_word_underscore_3 | olympic_enable_gorilla |  
+| bip_39_word_underscore_4 | olympic_enable_gorilla_melody |  
+| bip_39_word_underscore_5 | olympic_enable_gorilla_melody_risk |  
+| bip_39_word_underscore_6 | olympic_enable_gorilla_melody_risk_engage |  
+| bip_39_word_underscore_7 | olympic_enable_gorilla_melody_risk_engage_put |  
+| bip_39_word_underscore_8 | olympic_enable_gorilla_melody_risk_engage_put_core |  
+| bip_39_word_underscore_9 | olympic_enable_gorilla_melody_risk_engage_put_core_cause |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

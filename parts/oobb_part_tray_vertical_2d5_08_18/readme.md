@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toast |  
+| bip_39_word_dash_10 | toast-race-borrow-captain-drip-slow-mirror-stand-approve-execute |  
+| bip_39_word_dash_11 | toast-race-borrow-captain-drip-slow-mirror-stand-approve-execute-novel |  
+| bip_39_word_dash_12 | toast-race-borrow-captain-drip-slow-mirror-stand-approve-execute-novel-about |  
+| bip_39_word_dash_2 | toast-race |  
+| bip_39_word_dash_3 | toast-race-borrow |  
+| bip_39_word_dash_4 | toast-race-borrow-captain |  
+| bip_39_word_dash_5 | toast-race-borrow-captain-drip |  
+| bip_39_word_dash_6 | toast-race-borrow-captain-drip-slow |  
+| bip_39_word_dash_7 | toast-race-borrow-captain-drip-slow-mirror |  
+| bip_39_word_dash_8 | toast-race-borrow-captain-drip-slow-mirror-stand |  
+| bip_39_word_dash_9 | toast-race-borrow-captain-drip-slow-mirror-stand-approve |  
 | bip_39_word_new_br_1 | toast |  
 | bip_39_word_new_br_10 | toast<br>race<br>borrow<br>captain<br>drip<br>slow<br>mirror<br>stand<br>approve<br>execute |  
 | bip_39_word_new_br_11 | toast<br>race<br>borrow<br>captain<br>drip<br>slow<br>mirror<br>stand<br>approve<br>execute<br>novel |  
@@ -147,6 +159,18 @@ approve |
 | bip_39_word_space_7 | toast race borrow captain drip slow mirror |  
 | bip_39_word_space_8 | toast race borrow captain drip slow mirror stand |  
 | bip_39_word_space_9 | toast race borrow captain drip slow mirror stand approve |  
+| bip_39_word_underscore_1 | toast |  
+| bip_39_word_underscore_10 | toast_race_borrow_captain_drip_slow_mirror_stand_approve_execute |  
+| bip_39_word_underscore_11 | toast_race_borrow_captain_drip_slow_mirror_stand_approve_execute_novel |  
+| bip_39_word_underscore_12 | toast_race_borrow_captain_drip_slow_mirror_stand_approve_execute_novel_about |  
+| bip_39_word_underscore_2 | toast_race |  
+| bip_39_word_underscore_3 | toast_race_borrow |  
+| bip_39_word_underscore_4 | toast_race_borrow_captain |  
+| bip_39_word_underscore_5 | toast_race_borrow_captain_drip |  
+| bip_39_word_underscore_6 | toast_race_borrow_captain_drip_slow |  
+| bip_39_word_underscore_7 | toast_race_borrow_captain_drip_slow_mirror |  
+| bip_39_word_underscore_8 | toast_race_borrow_captain_drip_slow_mirror_stand |  
+| bip_39_word_underscore_9 | toast_race_borrow_captain_drip_slow_mirror_stand_approve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

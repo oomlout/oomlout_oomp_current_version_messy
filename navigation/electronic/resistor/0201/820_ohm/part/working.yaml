@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pipe
+bip_39_word_dash_10: pipe-fiction-maze-alone-ability-grab-alien-horse-setup-symptom
+bip_39_word_dash_11: pipe-fiction-maze-alone-ability-grab-alien-horse-setup-symptom-carbon
+bip_39_word_dash_12: pipe-fiction-maze-alone-ability-grab-alien-horse-setup-symptom-carbon-attitude
+bip_39_word_dash_2: pipe-fiction
+bip_39_word_dash_3: pipe-fiction-maze
+bip_39_word_dash_4: pipe-fiction-maze-alone
+bip_39_word_dash_5: pipe-fiction-maze-alone-ability
+bip_39_word_dash_6: pipe-fiction-maze-alone-ability-grab
+bip_39_word_dash_7: pipe-fiction-maze-alone-ability-grab-alien
+bip_39_word_dash_8: pipe-fiction-maze-alone-ability-grab-alien-horse
+bip_39_word_dash_9: pipe-fiction-maze-alone-ability-grab-alien-horse-setup
 bip_39_word_new_br_1: pipe
 bip_39_word_new_br_10: pipe<br>fiction<br>maze<br>alone<br>ability<br>grab<br>alien<br>horse<br>setup<br>symptom
 bip_39_word_new_br_11: pipe<br>fiction<br>maze<br>alone<br>ability<br>grab<br>alien<br>horse<br>setup<br>symptom<br>carbon
@@ -193,6 +205,18 @@ bip_39_word_space_6: pipe fiction maze alone ability grab
 bip_39_word_space_7: pipe fiction maze alone ability grab alien
 bip_39_word_space_8: pipe fiction maze alone ability grab alien horse
 bip_39_word_space_9: pipe fiction maze alone ability grab alien horse setup
+bip_39_word_underscore_1: pipe
+bip_39_word_underscore_10: pipe_fiction_maze_alone_ability_grab_alien_horse_setup_symptom
+bip_39_word_underscore_11: pipe_fiction_maze_alone_ability_grab_alien_horse_setup_symptom_carbon
+bip_39_word_underscore_12: pipe_fiction_maze_alone_ability_grab_alien_horse_setup_symptom_carbon_attitude
+bip_39_word_underscore_2: pipe_fiction
+bip_39_word_underscore_3: pipe_fiction_maze
+bip_39_word_underscore_4: pipe_fiction_maze_alone
+bip_39_word_underscore_5: pipe_fiction_maze_alone_ability
+bip_39_word_underscore_6: pipe_fiction_maze_alone_ability_grab
+bip_39_word_underscore_7: pipe_fiction_maze_alone_ability_grab_alien
+bip_39_word_underscore_8: pipe_fiction_maze_alone_ability_grab_alien_horse
+bip_39_word_underscore_9: pipe_fiction_maze_alone_ability_grab_alien_horse_setup
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

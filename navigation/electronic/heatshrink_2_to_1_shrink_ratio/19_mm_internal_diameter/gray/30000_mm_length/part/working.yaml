@@ -1,3 +1,15 @@
+bip_39_word_dash_1: popular
+bip_39_word_dash_10: popular-pigeon-airport-observe-coach-tumble-climb-income-video-label
+bip_39_word_dash_11: popular-pigeon-airport-observe-coach-tumble-climb-income-video-label-pen
+bip_39_word_dash_12: popular-pigeon-airport-observe-coach-tumble-climb-income-video-label-pen-alpha
+bip_39_word_dash_2: popular-pigeon
+bip_39_word_dash_3: popular-pigeon-airport
+bip_39_word_dash_4: popular-pigeon-airport-observe
+bip_39_word_dash_5: popular-pigeon-airport-observe-coach
+bip_39_word_dash_6: popular-pigeon-airport-observe-coach-tumble
+bip_39_word_dash_7: popular-pigeon-airport-observe-coach-tumble-climb
+bip_39_word_dash_8: popular-pigeon-airport-observe-coach-tumble-climb-income
+bip_39_word_dash_9: popular-pigeon-airport-observe-coach-tumble-climb-income-video
 bip_39_word_new_br_1: popular
 bip_39_word_new_br_10: popular<br>pigeon<br>airport<br>observe<br>coach<br>tumble<br>climb<br>income<br>video<br>label
 bip_39_word_new_br_11: popular<br>pigeon<br>airport<br>observe<br>coach<br>tumble<br>climb<br>income<br>video<br>label<br>pen
@@ -194,6 +206,18 @@ bip_39_word_space_6: popular pigeon airport observe coach tumble
 bip_39_word_space_7: popular pigeon airport observe coach tumble climb
 bip_39_word_space_8: popular pigeon airport observe coach tumble climb income
 bip_39_word_space_9: popular pigeon airport observe coach tumble climb income video
+bip_39_word_underscore_1: popular
+bip_39_word_underscore_10: popular_pigeon_airport_observe_coach_tumble_climb_income_video_label
+bip_39_word_underscore_11: popular_pigeon_airport_observe_coach_tumble_climb_income_video_label_pen
+bip_39_word_underscore_12: popular_pigeon_airport_observe_coach_tumble_climb_income_video_label_pen_alpha
+bip_39_word_underscore_2: popular_pigeon
+bip_39_word_underscore_3: popular_pigeon_airport
+bip_39_word_underscore_4: popular_pigeon_airport_observe
+bip_39_word_underscore_5: popular_pigeon_airport_observe_coach
+bip_39_word_underscore_6: popular_pigeon_airport_observe_coach_tumble
+bip_39_word_underscore_7: popular_pigeon_airport_observe_coach_tumble_climb
+bip_39_word_underscore_8: popular_pigeon_airport_observe_coach_tumble_climb_income
+bip_39_word_underscore_9: popular_pigeon_airport_observe_coach_tumble_climb_income_video
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

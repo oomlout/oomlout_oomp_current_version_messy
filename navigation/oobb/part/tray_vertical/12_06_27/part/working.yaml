@@ -1,3 +1,15 @@
+bip_39_word_dash_1: weird
+bip_39_word_dash_10: weird-resemble-final-settle-unfair-seed-disagree-wife-axis-grid
+bip_39_word_dash_11: weird-resemble-final-settle-unfair-seed-disagree-wife-axis-grid-autumn
+bip_39_word_dash_12: weird-resemble-final-settle-unfair-seed-disagree-wife-axis-grid-autumn-aerobic
+bip_39_word_dash_2: weird-resemble
+bip_39_word_dash_3: weird-resemble-final
+bip_39_word_dash_4: weird-resemble-final-settle
+bip_39_word_dash_5: weird-resemble-final-settle-unfair
+bip_39_word_dash_6: weird-resemble-final-settle-unfair-seed
+bip_39_word_dash_7: weird-resemble-final-settle-unfair-seed-disagree
+bip_39_word_dash_8: weird-resemble-final-settle-unfair-seed-disagree-wife
+bip_39_word_dash_9: weird-resemble-final-settle-unfair-seed-disagree-wife-axis
 bip_39_word_new_br_1: weird
 bip_39_word_new_br_10: weird<br>resemble<br>final<br>settle<br>unfair<br>seed<br>disagree<br>wife<br>axis<br>grid
 bip_39_word_new_br_11: weird<br>resemble<br>final<br>settle<br>unfair<br>seed<br>disagree<br>wife<br>axis<br>grid<br>autumn
@@ -193,6 +205,18 @@ bip_39_word_space_6: weird resemble final settle unfair seed
 bip_39_word_space_7: weird resemble final settle unfair seed disagree
 bip_39_word_space_8: weird resemble final settle unfair seed disagree wife
 bip_39_word_space_9: weird resemble final settle unfair seed disagree wife axis
+bip_39_word_underscore_1: weird
+bip_39_word_underscore_10: weird_resemble_final_settle_unfair_seed_disagree_wife_axis_grid
+bip_39_word_underscore_11: weird_resemble_final_settle_unfair_seed_disagree_wife_axis_grid_autumn
+bip_39_word_underscore_12: weird_resemble_final_settle_unfair_seed_disagree_wife_axis_grid_autumn_aerobic
+bip_39_word_underscore_2: weird_resemble
+bip_39_word_underscore_3: weird_resemble_final
+bip_39_word_underscore_4: weird_resemble_final_settle
+bip_39_word_underscore_5: weird_resemble_final_settle_unfair
+bip_39_word_underscore_6: weird_resemble_final_settle_unfair_seed
+bip_39_word_underscore_7: weird_resemble_final_settle_unfair_seed_disagree
+bip_39_word_underscore_8: weird_resemble_final_settle_unfair_seed_disagree_wife
+bip_39_word_underscore_9: weird_resemble_final_settle_unfair_seed_disagree_wife_axis
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

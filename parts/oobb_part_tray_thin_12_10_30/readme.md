@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | waste |  
+| bip_39_word_dash_10 | waste-suit-cage-volume-shove-hair-transfer-nut-vacuum-traffic |  
+| bip_39_word_dash_11 | waste-suit-cage-volume-shove-hair-transfer-nut-vacuum-traffic-never |  
+| bip_39_word_dash_12 | waste-suit-cage-volume-shove-hair-transfer-nut-vacuum-traffic-never-address |  
+| bip_39_word_dash_2 | waste-suit |  
+| bip_39_word_dash_3 | waste-suit-cage |  
+| bip_39_word_dash_4 | waste-suit-cage-volume |  
+| bip_39_word_dash_5 | waste-suit-cage-volume-shove |  
+| bip_39_word_dash_6 | waste-suit-cage-volume-shove-hair |  
+| bip_39_word_dash_7 | waste-suit-cage-volume-shove-hair-transfer |  
+| bip_39_word_dash_8 | waste-suit-cage-volume-shove-hair-transfer-nut |  
+| bip_39_word_dash_9 | waste-suit-cage-volume-shove-hair-transfer-nut-vacuum |  
 | bip_39_word_new_br_1 | waste |  
 | bip_39_word_new_br_10 | waste<br>suit<br>cage<br>volume<br>shove<br>hair<br>transfer<br>nut<br>vacuum<br>traffic |  
 | bip_39_word_new_br_11 | waste<br>suit<br>cage<br>volume<br>shove<br>hair<br>transfer<br>nut<br>vacuum<br>traffic<br>never |  
@@ -147,6 +159,18 @@ vacuum |
 | bip_39_word_space_7 | waste suit cage volume shove hair transfer |  
 | bip_39_word_space_8 | waste suit cage volume shove hair transfer nut |  
 | bip_39_word_space_9 | waste suit cage volume shove hair transfer nut vacuum |  
+| bip_39_word_underscore_1 | waste |  
+| bip_39_word_underscore_10 | waste_suit_cage_volume_shove_hair_transfer_nut_vacuum_traffic |  
+| bip_39_word_underscore_11 | waste_suit_cage_volume_shove_hair_transfer_nut_vacuum_traffic_never |  
+| bip_39_word_underscore_12 | waste_suit_cage_volume_shove_hair_transfer_nut_vacuum_traffic_never_address |  
+| bip_39_word_underscore_2 | waste_suit |  
+| bip_39_word_underscore_3 | waste_suit_cage |  
+| bip_39_word_underscore_4 | waste_suit_cage_volume |  
+| bip_39_word_underscore_5 | waste_suit_cage_volume_shove |  
+| bip_39_word_underscore_6 | waste_suit_cage_volume_shove_hair |  
+| bip_39_word_underscore_7 | waste_suit_cage_volume_shove_hair_transfer |  
+| bip_39_word_underscore_8 | waste_suit_cage_volume_shove_hair_transfer_nut |  
+| bip_39_word_underscore_9 | waste_suit_cage_volume_shove_hair_transfer_nut_vacuum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gas |  
+| bip_39_word_dash_10 | gas-nut-divorce-survey-language-warm-student-private-easy-pig |  
+| bip_39_word_dash_11 | gas-nut-divorce-survey-language-warm-student-private-easy-pig-fuel |  
+| bip_39_word_dash_12 | gas-nut-divorce-survey-language-warm-student-private-easy-pig-fuel-asset |  
+| bip_39_word_dash_2 | gas-nut |  
+| bip_39_word_dash_3 | gas-nut-divorce |  
+| bip_39_word_dash_4 | gas-nut-divorce-survey |  
+| bip_39_word_dash_5 | gas-nut-divorce-survey-language |  
+| bip_39_word_dash_6 | gas-nut-divorce-survey-language-warm |  
+| bip_39_word_dash_7 | gas-nut-divorce-survey-language-warm-student |  
+| bip_39_word_dash_8 | gas-nut-divorce-survey-language-warm-student-private |  
+| bip_39_word_dash_9 | gas-nut-divorce-survey-language-warm-student-private-easy |  
 | bip_39_word_new_br_1 | gas |  
 | bip_39_word_new_br_10 | gas<br>nut<br>divorce<br>survey<br>language<br>warm<br>student<br>private<br>easy<br>pig |  
 | bip_39_word_new_br_11 | gas<br>nut<br>divorce<br>survey<br>language<br>warm<br>student<br>private<br>easy<br>pig<br>fuel |  
@@ -147,6 +159,18 @@ easy |
 | bip_39_word_space_7 | gas nut divorce survey language warm student |  
 | bip_39_word_space_8 | gas nut divorce survey language warm student private |  
 | bip_39_word_space_9 | gas nut divorce survey language warm student private easy |  
+| bip_39_word_underscore_1 | gas |  
+| bip_39_word_underscore_10 | gas_nut_divorce_survey_language_warm_student_private_easy_pig |  
+| bip_39_word_underscore_11 | gas_nut_divorce_survey_language_warm_student_private_easy_pig_fuel |  
+| bip_39_word_underscore_12 | gas_nut_divorce_survey_language_warm_student_private_easy_pig_fuel_asset |  
+| bip_39_word_underscore_2 | gas_nut |  
+| bip_39_word_underscore_3 | gas_nut_divorce |  
+| bip_39_word_underscore_4 | gas_nut_divorce_survey |  
+| bip_39_word_underscore_5 | gas_nut_divorce_survey_language |  
+| bip_39_word_underscore_6 | gas_nut_divorce_survey_language_warm |  
+| bip_39_word_underscore_7 | gas_nut_divorce_survey_language_warm_student |  
+| bip_39_word_underscore_8 | gas_nut_divorce_survey_language_warm_student_private |  
+| bip_39_word_underscore_9 | gas_nut_divorce_survey_language_warm_student_private_easy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

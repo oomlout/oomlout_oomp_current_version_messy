@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exhaust
+bip_39_word_dash_10: exhaust-blast-forward-turtle-practice-rain-attack-spoon-horror-boat
+bip_39_word_dash_11: exhaust-blast-forward-turtle-practice-rain-attack-spoon-horror-boat-already
+bip_39_word_dash_12: exhaust-blast-forward-turtle-practice-rain-attack-spoon-horror-boat-already-asthma
+bip_39_word_dash_2: exhaust-blast
+bip_39_word_dash_3: exhaust-blast-forward
+bip_39_word_dash_4: exhaust-blast-forward-turtle
+bip_39_word_dash_5: exhaust-blast-forward-turtle-practice
+bip_39_word_dash_6: exhaust-blast-forward-turtle-practice-rain
+bip_39_word_dash_7: exhaust-blast-forward-turtle-practice-rain-attack
+bip_39_word_dash_8: exhaust-blast-forward-turtle-practice-rain-attack-spoon
+bip_39_word_dash_9: exhaust-blast-forward-turtle-practice-rain-attack-spoon-horror
 bip_39_word_new_br_1: exhaust
 bip_39_word_new_br_10: exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat
 bip_39_word_new_br_11: exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat<br>already
@@ -194,6 +206,18 @@ bip_39_word_space_6: exhaust blast forward turtle practice rain
 bip_39_word_space_7: exhaust blast forward turtle practice rain attack
 bip_39_word_space_8: exhaust blast forward turtle practice rain attack spoon
 bip_39_word_space_9: exhaust blast forward turtle practice rain attack spoon horror
+bip_39_word_underscore_1: exhaust
+bip_39_word_underscore_10: exhaust_blast_forward_turtle_practice_rain_attack_spoon_horror_boat
+bip_39_word_underscore_11: exhaust_blast_forward_turtle_practice_rain_attack_spoon_horror_boat_already
+bip_39_word_underscore_12: exhaust_blast_forward_turtle_practice_rain_attack_spoon_horror_boat_already_asthma
+bip_39_word_underscore_2: exhaust_blast
+bip_39_word_underscore_3: exhaust_blast_forward
+bip_39_word_underscore_4: exhaust_blast_forward_turtle
+bip_39_word_underscore_5: exhaust_blast_forward_turtle_practice
+bip_39_word_underscore_6: exhaust_blast_forward_turtle_practice_rain
+bip_39_word_underscore_7: exhaust_blast_forward_turtle_practice_rain_attack
+bip_39_word_underscore_8: exhaust_blast_forward_turtle_practice_rain_attack_spoon
+bip_39_word_underscore_9: exhaust_blast_forward_turtle_practice_rain_attack_spoon_horror
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

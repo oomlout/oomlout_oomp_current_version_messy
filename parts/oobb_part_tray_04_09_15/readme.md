@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burden |  
+| bip_39_word_dash_10 | burden-anxiety-science-explain-soap-romance-curious-idle-cute-misery |  
+| bip_39_word_dash_11 | burden-anxiety-science-explain-soap-romance-curious-idle-cute-misery-army |  
+| bip_39_word_dash_12 | burden-anxiety-science-explain-soap-romance-curious-idle-cute-misery-army-affair |  
+| bip_39_word_dash_2 | burden-anxiety |  
+| bip_39_word_dash_3 | burden-anxiety-science |  
+| bip_39_word_dash_4 | burden-anxiety-science-explain |  
+| bip_39_word_dash_5 | burden-anxiety-science-explain-soap |  
+| bip_39_word_dash_6 | burden-anxiety-science-explain-soap-romance |  
+| bip_39_word_dash_7 | burden-anxiety-science-explain-soap-romance-curious |  
+| bip_39_word_dash_8 | burden-anxiety-science-explain-soap-romance-curious-idle |  
+| bip_39_word_dash_9 | burden-anxiety-science-explain-soap-romance-curious-idle-cute |  
 | bip_39_word_new_br_1 | burden |  
 | bip_39_word_new_br_10 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle<br>cute<br>misery |  
 | bip_39_word_new_br_11 | burden<br>anxiety<br>science<br>explain<br>soap<br>romance<br>curious<br>idle<br>cute<br>misery<br>army |  
@@ -147,6 +159,18 @@ cute |
 | bip_39_word_space_7 | burden anxiety science explain soap romance curious |  
 | bip_39_word_space_8 | burden anxiety science explain soap romance curious idle |  
 | bip_39_word_space_9 | burden anxiety science explain soap romance curious idle cute |  
+| bip_39_word_underscore_1 | burden |  
+| bip_39_word_underscore_10 | burden_anxiety_science_explain_soap_romance_curious_idle_cute_misery |  
+| bip_39_word_underscore_11 | burden_anxiety_science_explain_soap_romance_curious_idle_cute_misery_army |  
+| bip_39_word_underscore_12 | burden_anxiety_science_explain_soap_romance_curious_idle_cute_misery_army_affair |  
+| bip_39_word_underscore_2 | burden_anxiety |  
+| bip_39_word_underscore_3 | burden_anxiety_science |  
+| bip_39_word_underscore_4 | burden_anxiety_science_explain |  
+| bip_39_word_underscore_5 | burden_anxiety_science_explain_soap |  
+| bip_39_word_underscore_6 | burden_anxiety_science_explain_soap_romance |  
+| bip_39_word_underscore_7 | burden_anxiety_science_explain_soap_romance_curious |  
+| bip_39_word_underscore_8 | burden_anxiety_science_explain_soap_romance_curious_idle |  
+| bip_39_word_underscore_9 | burden_anxiety_science_explain_soap_romance_curious_idle_cute |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

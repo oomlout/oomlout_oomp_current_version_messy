@@ -1,3 +1,15 @@
+bip_39_word_dash_1: floor
+bip_39_word_dash_10: floor-foster-apology-decade-fancy-change-youth-either-price-traffic
+bip_39_word_dash_11: floor-foster-apology-decade-fancy-change-youth-either-price-traffic-already
+bip_39_word_dash_12: floor-foster-apology-decade-fancy-change-youth-either-price-traffic-already-affair
+bip_39_word_dash_2: floor-foster
+bip_39_word_dash_3: floor-foster-apology
+bip_39_word_dash_4: floor-foster-apology-decade
+bip_39_word_dash_5: floor-foster-apology-decade-fancy
+bip_39_word_dash_6: floor-foster-apology-decade-fancy-change
+bip_39_word_dash_7: floor-foster-apology-decade-fancy-change-youth
+bip_39_word_dash_8: floor-foster-apology-decade-fancy-change-youth-either
+bip_39_word_dash_9: floor-foster-apology-decade-fancy-change-youth-either-price
 bip_39_word_new_br_1: floor
 bip_39_word_new_br_10: floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic
 bip_39_word_new_br_11: floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic<br>already
@@ -194,6 +206,18 @@ bip_39_word_space_6: floor foster apology decade fancy change
 bip_39_word_space_7: floor foster apology decade fancy change youth
 bip_39_word_space_8: floor foster apology decade fancy change youth either
 bip_39_word_space_9: floor foster apology decade fancy change youth either price
+bip_39_word_underscore_1: floor
+bip_39_word_underscore_10: floor_foster_apology_decade_fancy_change_youth_either_price_traffic
+bip_39_word_underscore_11: floor_foster_apology_decade_fancy_change_youth_either_price_traffic_already
+bip_39_word_underscore_12: floor_foster_apology_decade_fancy_change_youth_either_price_traffic_already_affair
+bip_39_word_underscore_2: floor_foster
+bip_39_word_underscore_3: floor_foster_apology
+bip_39_word_underscore_4: floor_foster_apology_decade
+bip_39_word_underscore_5: floor_foster_apology_decade_fancy
+bip_39_word_underscore_6: floor_foster_apology_decade_fancy_change
+bip_39_word_underscore_7: floor_foster_apology_decade_fancy_change_youth
+bip_39_word_underscore_8: floor_foster_apology_decade_fancy_change_youth_either
+bip_39_word_underscore_9: floor_foster_apology_decade_fancy_change_youth_either_price
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

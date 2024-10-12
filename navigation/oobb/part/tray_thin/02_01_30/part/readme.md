@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fall |  
+| bip_39_word_dash_10 | fall-outdoor-patch-oval-extra-cup-receive-clarify-afford-power |  
+| bip_39_word_dash_11 | fall-outdoor-patch-oval-extra-cup-receive-clarify-afford-power-fun |  
+| bip_39_word_dash_12 | fall-outdoor-patch-oval-extra-cup-receive-clarify-afford-power-fun-across |  
+| bip_39_word_dash_2 | fall-outdoor |  
+| bip_39_word_dash_3 | fall-outdoor-patch |  
+| bip_39_word_dash_4 | fall-outdoor-patch-oval |  
+| bip_39_word_dash_5 | fall-outdoor-patch-oval-extra |  
+| bip_39_word_dash_6 | fall-outdoor-patch-oval-extra-cup |  
+| bip_39_word_dash_7 | fall-outdoor-patch-oval-extra-cup-receive |  
+| bip_39_word_dash_8 | fall-outdoor-patch-oval-extra-cup-receive-clarify |  
+| bip_39_word_dash_9 | fall-outdoor-patch-oval-extra-cup-receive-clarify-afford |  
 | bip_39_word_new_br_1 | fall |  
 | bip_39_word_new_br_10 | fall<br>outdoor<br>patch<br>oval<br>extra<br>cup<br>receive<br>clarify<br>afford<br>power |  
 | bip_39_word_new_br_11 | fall<br>outdoor<br>patch<br>oval<br>extra<br>cup<br>receive<br>clarify<br>afford<br>power<br>fun |  
@@ -147,6 +159,18 @@ afford |
 | bip_39_word_space_7 | fall outdoor patch oval extra cup receive |  
 | bip_39_word_space_8 | fall outdoor patch oval extra cup receive clarify |  
 | bip_39_word_space_9 | fall outdoor patch oval extra cup receive clarify afford |  
+| bip_39_word_underscore_1 | fall |  
+| bip_39_word_underscore_10 | fall_outdoor_patch_oval_extra_cup_receive_clarify_afford_power |  
+| bip_39_word_underscore_11 | fall_outdoor_patch_oval_extra_cup_receive_clarify_afford_power_fun |  
+| bip_39_word_underscore_12 | fall_outdoor_patch_oval_extra_cup_receive_clarify_afford_power_fun_across |  
+| bip_39_word_underscore_2 | fall_outdoor |  
+| bip_39_word_underscore_3 | fall_outdoor_patch |  
+| bip_39_word_underscore_4 | fall_outdoor_patch_oval |  
+| bip_39_word_underscore_5 | fall_outdoor_patch_oval_extra |  
+| bip_39_word_underscore_6 | fall_outdoor_patch_oval_extra_cup |  
+| bip_39_word_underscore_7 | fall_outdoor_patch_oval_extra_cup_receive |  
+| bip_39_word_underscore_8 | fall_outdoor_patch_oval_extra_cup_receive_clarify |  
+| bip_39_word_underscore_9 | fall_outdoor_patch_oval_extra_cup_receive_clarify_afford |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

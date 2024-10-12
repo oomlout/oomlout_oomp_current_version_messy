@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wire
+bip_39_word_dash_10: wire-chaos-opera-blur-faculty-twin-run-uniform-trip-neck
+bip_39_word_dash_11: wire-chaos-opera-blur-faculty-twin-run-uniform-trip-neck-frequent
+bip_39_word_dash_12: wire-chaos-opera-blur-faculty-twin-run-uniform-trip-neck-frequent-attack
+bip_39_word_dash_2: wire-chaos
+bip_39_word_dash_3: wire-chaos-opera
+bip_39_word_dash_4: wire-chaos-opera-blur
+bip_39_word_dash_5: wire-chaos-opera-blur-faculty
+bip_39_word_dash_6: wire-chaos-opera-blur-faculty-twin
+bip_39_word_dash_7: wire-chaos-opera-blur-faculty-twin-run
+bip_39_word_dash_8: wire-chaos-opera-blur-faculty-twin-run-uniform
+bip_39_word_dash_9: wire-chaos-opera-blur-faculty-twin-run-uniform-trip
 bip_39_word_new_br_1: wire
 bip_39_word_new_br_10: wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform<br>trip<br>neck
 bip_39_word_new_br_11: wire<br>chaos<br>opera<br>blur<br>faculty<br>twin<br>run<br>uniform<br>trip<br>neck<br>frequent
@@ -192,6 +204,18 @@ bip_39_word_space_6: wire chaos opera blur faculty twin
 bip_39_word_space_7: wire chaos opera blur faculty twin run
 bip_39_word_space_8: wire chaos opera blur faculty twin run uniform
 bip_39_word_space_9: wire chaos opera blur faculty twin run uniform trip
+bip_39_word_underscore_1: wire
+bip_39_word_underscore_10: wire_chaos_opera_blur_faculty_twin_run_uniform_trip_neck
+bip_39_word_underscore_11: wire_chaos_opera_blur_faculty_twin_run_uniform_trip_neck_frequent
+bip_39_word_underscore_12: wire_chaos_opera_blur_faculty_twin_run_uniform_trip_neck_frequent_attack
+bip_39_word_underscore_2: wire_chaos
+bip_39_word_underscore_3: wire_chaos_opera
+bip_39_word_underscore_4: wire_chaos_opera_blur
+bip_39_word_underscore_5: wire_chaos_opera_blur_faculty
+bip_39_word_underscore_6: wire_chaos_opera_blur_faculty_twin
+bip_39_word_underscore_7: wire_chaos_opera_blur_faculty_twin_run
+bip_39_word_underscore_8: wire_chaos_opera_blur_faculty_twin_run_uniform
+bip_39_word_underscore_9: wire_chaos_opera_blur_faculty_twin_run_uniform_trip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

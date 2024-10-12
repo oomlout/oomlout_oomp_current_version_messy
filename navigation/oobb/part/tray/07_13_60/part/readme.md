@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | voyage |  
+| bip_39_word_dash_10 | voyage-decorate-member-ramp-level-across-shoot-enemy-betray-yellow |  
+| bip_39_word_dash_11 | voyage-decorate-member-ramp-level-across-shoot-enemy-betray-yellow-olive |  
+| bip_39_word_dash_12 | voyage-decorate-member-ramp-level-across-shoot-enemy-betray-yellow-olive-artist |  
+| bip_39_word_dash_2 | voyage-decorate |  
+| bip_39_word_dash_3 | voyage-decorate-member |  
+| bip_39_word_dash_4 | voyage-decorate-member-ramp |  
+| bip_39_word_dash_5 | voyage-decorate-member-ramp-level |  
+| bip_39_word_dash_6 | voyage-decorate-member-ramp-level-across |  
+| bip_39_word_dash_7 | voyage-decorate-member-ramp-level-across-shoot |  
+| bip_39_word_dash_8 | voyage-decorate-member-ramp-level-across-shoot-enemy |  
+| bip_39_word_dash_9 | voyage-decorate-member-ramp-level-across-shoot-enemy-betray |  
 | bip_39_word_new_br_1 | voyage |  
 | bip_39_word_new_br_10 | voyage<br>decorate<br>member<br>ramp<br>level<br>across<br>shoot<br>enemy<br>betray<br>yellow |  
 | bip_39_word_new_br_11 | voyage<br>decorate<br>member<br>ramp<br>level<br>across<br>shoot<br>enemy<br>betray<br>yellow<br>olive |  
@@ -147,6 +159,18 @@ betray |
 | bip_39_word_space_7 | voyage decorate member ramp level across shoot |  
 | bip_39_word_space_8 | voyage decorate member ramp level across shoot enemy |  
 | bip_39_word_space_9 | voyage decorate member ramp level across shoot enemy betray |  
+| bip_39_word_underscore_1 | voyage |  
+| bip_39_word_underscore_10 | voyage_decorate_member_ramp_level_across_shoot_enemy_betray_yellow |  
+| bip_39_word_underscore_11 | voyage_decorate_member_ramp_level_across_shoot_enemy_betray_yellow_olive |  
+| bip_39_word_underscore_12 | voyage_decorate_member_ramp_level_across_shoot_enemy_betray_yellow_olive_artist |  
+| bip_39_word_underscore_2 | voyage_decorate |  
+| bip_39_word_underscore_3 | voyage_decorate_member |  
+| bip_39_word_underscore_4 | voyage_decorate_member_ramp |  
+| bip_39_word_underscore_5 | voyage_decorate_member_ramp_level |  
+| bip_39_word_underscore_6 | voyage_decorate_member_ramp_level_across |  
+| bip_39_word_underscore_7 | voyage_decorate_member_ramp_level_across_shoot |  
+| bip_39_word_underscore_8 | voyage_decorate_member_ramp_level_across_shoot_enemy |  
+| bip_39_word_underscore_9 | voyage_decorate_member_ramp_level_across_shoot_enemy_betray |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: squirrel
+bip_39_word_dash_10: squirrel-luxury-book-chaos-fuel-half-wrestle-own-occur-cute
+bip_39_word_dash_11: squirrel-luxury-book-chaos-fuel-half-wrestle-own-occur-cute-guilt
+bip_39_word_dash_12: squirrel-luxury-book-chaos-fuel-half-wrestle-own-occur-cute-guilt-auto
+bip_39_word_dash_2: squirrel-luxury
+bip_39_word_dash_3: squirrel-luxury-book
+bip_39_word_dash_4: squirrel-luxury-book-chaos
+bip_39_word_dash_5: squirrel-luxury-book-chaos-fuel
+bip_39_word_dash_6: squirrel-luxury-book-chaos-fuel-half
+bip_39_word_dash_7: squirrel-luxury-book-chaos-fuel-half-wrestle
+bip_39_word_dash_8: squirrel-luxury-book-chaos-fuel-half-wrestle-own
+bip_39_word_dash_9: squirrel-luxury-book-chaos-fuel-half-wrestle-own-occur
 bip_39_word_new_br_1: squirrel
 bip_39_word_new_br_10: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute
 bip_39_word_new_br_11: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute<br>guilt
@@ -193,6 +205,18 @@ bip_39_word_space_6: squirrel luxury book chaos fuel half
 bip_39_word_space_7: squirrel luxury book chaos fuel half wrestle
 bip_39_word_space_8: squirrel luxury book chaos fuel half wrestle own
 bip_39_word_space_9: squirrel luxury book chaos fuel half wrestle own occur
+bip_39_word_underscore_1: squirrel
+bip_39_word_underscore_10: squirrel_luxury_book_chaos_fuel_half_wrestle_own_occur_cute
+bip_39_word_underscore_11: squirrel_luxury_book_chaos_fuel_half_wrestle_own_occur_cute_guilt
+bip_39_word_underscore_12: squirrel_luxury_book_chaos_fuel_half_wrestle_own_occur_cute_guilt_auto
+bip_39_word_underscore_2: squirrel_luxury
+bip_39_word_underscore_3: squirrel_luxury_book
+bip_39_word_underscore_4: squirrel_luxury_book_chaos
+bip_39_word_underscore_5: squirrel_luxury_book_chaos_fuel
+bip_39_word_underscore_6: squirrel_luxury_book_chaos_fuel_half
+bip_39_word_underscore_7: squirrel_luxury_book_chaos_fuel_half_wrestle
+bip_39_word_underscore_8: squirrel_luxury_book_chaos_fuel_half_wrestle_own
+bip_39_word_underscore_9: squirrel_luxury_book_chaos_fuel_half_wrestle_own_occur
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

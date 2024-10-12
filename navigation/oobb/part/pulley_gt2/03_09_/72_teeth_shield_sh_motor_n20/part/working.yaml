@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stamp
+bip_39_word_dash_10: stamp-rather-demand-pencil-dose-area-gorilla-lunar-cargo-edit
+bip_39_word_dash_11: stamp-rather-demand-pencil-dose-area-gorilla-lunar-cargo-edit-august
+bip_39_word_dash_12: stamp-rather-demand-pencil-dose-area-gorilla-lunar-cargo-edit-august-artwork
+bip_39_word_dash_2: stamp-rather
+bip_39_word_dash_3: stamp-rather-demand
+bip_39_word_dash_4: stamp-rather-demand-pencil
+bip_39_word_dash_5: stamp-rather-demand-pencil-dose
+bip_39_word_dash_6: stamp-rather-demand-pencil-dose-area
+bip_39_word_dash_7: stamp-rather-demand-pencil-dose-area-gorilla
+bip_39_word_dash_8: stamp-rather-demand-pencil-dose-area-gorilla-lunar
+bip_39_word_dash_9: stamp-rather-demand-pencil-dose-area-gorilla-lunar-cargo
 bip_39_word_new_br_1: stamp
 bip_39_word_new_br_10: stamp<br>rather<br>demand<br>pencil<br>dose<br>area<br>gorilla<br>lunar<br>cargo<br>edit
 bip_39_word_new_br_11: stamp<br>rather<br>demand<br>pencil<br>dose<br>area<br>gorilla<br>lunar<br>cargo<br>edit<br>august
@@ -193,6 +205,18 @@ bip_39_word_space_6: stamp rather demand pencil dose area
 bip_39_word_space_7: stamp rather demand pencil dose area gorilla
 bip_39_word_space_8: stamp rather demand pencil dose area gorilla lunar
 bip_39_word_space_9: stamp rather demand pencil dose area gorilla lunar cargo
+bip_39_word_underscore_1: stamp
+bip_39_word_underscore_10: stamp_rather_demand_pencil_dose_area_gorilla_lunar_cargo_edit
+bip_39_word_underscore_11: stamp_rather_demand_pencil_dose_area_gorilla_lunar_cargo_edit_august
+bip_39_word_underscore_12: stamp_rather_demand_pencil_dose_area_gorilla_lunar_cargo_edit_august_artwork
+bip_39_word_underscore_2: stamp_rather
+bip_39_word_underscore_3: stamp_rather_demand
+bip_39_word_underscore_4: stamp_rather_demand_pencil
+bip_39_word_underscore_5: stamp_rather_demand_pencil_dose
+bip_39_word_underscore_6: stamp_rather_demand_pencil_dose_area
+bip_39_word_underscore_7: stamp_rather_demand_pencil_dose_area_gorilla
+bip_39_word_underscore_8: stamp_rather_demand_pencil_dose_area_gorilla_lunar
+bip_39_word_underscore_9: stamp_rather_demand_pencil_dose_area_gorilla_lunar_cargo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

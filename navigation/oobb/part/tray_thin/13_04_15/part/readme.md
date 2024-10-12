@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stadium |  
+| bip_39_word_dash_10 | stadium-submit-modify-garage-wrist-smooth-midnight-drink-pool-cube |  
+| bip_39_word_dash_11 | stadium-submit-modify-garage-wrist-smooth-midnight-drink-pool-cube-stove |  
+| bip_39_word_dash_12 | stadium-submit-modify-garage-wrist-smooth-midnight-drink-pool-cube-stove-any |  
+| bip_39_word_dash_2 | stadium-submit |  
+| bip_39_word_dash_3 | stadium-submit-modify |  
+| bip_39_word_dash_4 | stadium-submit-modify-garage |  
+| bip_39_word_dash_5 | stadium-submit-modify-garage-wrist |  
+| bip_39_word_dash_6 | stadium-submit-modify-garage-wrist-smooth |  
+| bip_39_word_dash_7 | stadium-submit-modify-garage-wrist-smooth-midnight |  
+| bip_39_word_dash_8 | stadium-submit-modify-garage-wrist-smooth-midnight-drink |  
+| bip_39_word_dash_9 | stadium-submit-modify-garage-wrist-smooth-midnight-drink-pool |  
 | bip_39_word_new_br_1 | stadium |  
 | bip_39_word_new_br_10 | stadium<br>submit<br>modify<br>garage<br>wrist<br>smooth<br>midnight<br>drink<br>pool<br>cube |  
 | bip_39_word_new_br_11 | stadium<br>submit<br>modify<br>garage<br>wrist<br>smooth<br>midnight<br>drink<br>pool<br>cube<br>stove |  
@@ -147,6 +159,18 @@ pool |
 | bip_39_word_space_7 | stadium submit modify garage wrist smooth midnight |  
 | bip_39_word_space_8 | stadium submit modify garage wrist smooth midnight drink |  
 | bip_39_word_space_9 | stadium submit modify garage wrist smooth midnight drink pool |  
+| bip_39_word_underscore_1 | stadium |  
+| bip_39_word_underscore_10 | stadium_submit_modify_garage_wrist_smooth_midnight_drink_pool_cube |  
+| bip_39_word_underscore_11 | stadium_submit_modify_garage_wrist_smooth_midnight_drink_pool_cube_stove |  
+| bip_39_word_underscore_12 | stadium_submit_modify_garage_wrist_smooth_midnight_drink_pool_cube_stove_any |  
+| bip_39_word_underscore_2 | stadium_submit |  
+| bip_39_word_underscore_3 | stadium_submit_modify |  
+| bip_39_word_underscore_4 | stadium_submit_modify_garage |  
+| bip_39_word_underscore_5 | stadium_submit_modify_garage_wrist |  
+| bip_39_word_underscore_6 | stadium_submit_modify_garage_wrist_smooth |  
+| bip_39_word_underscore_7 | stadium_submit_modify_garage_wrist_smooth_midnight |  
+| bip_39_word_underscore_8 | stadium_submit_modify_garage_wrist_smooth_midnight_drink |  
+| bip_39_word_underscore_9 | stadium_submit_modify_garage_wrist_smooth_midnight_drink_pool |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

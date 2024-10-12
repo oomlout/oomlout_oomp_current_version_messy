@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bargain
+bip_39_word_dash_10: bargain-useless-awake-vapor-brain-patch-aspect-bean-gallery-sense
+bip_39_word_dash_11: bargain-useless-awake-vapor-brain-patch-aspect-bean-gallery-sense-normal
+bip_39_word_dash_12: bargain-useless-awake-vapor-brain-patch-aspect-bean-gallery-sense-normal-arm
+bip_39_word_dash_2: bargain-useless
+bip_39_word_dash_3: bargain-useless-awake
+bip_39_word_dash_4: bargain-useless-awake-vapor
+bip_39_word_dash_5: bargain-useless-awake-vapor-brain
+bip_39_word_dash_6: bargain-useless-awake-vapor-brain-patch
+bip_39_word_dash_7: bargain-useless-awake-vapor-brain-patch-aspect
+bip_39_word_dash_8: bargain-useless-awake-vapor-brain-patch-aspect-bean
+bip_39_word_dash_9: bargain-useless-awake-vapor-brain-patch-aspect-bean-gallery
 bip_39_word_new_br_1: bargain
 bip_39_word_new_br_10: bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense
 bip_39_word_new_br_11: bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense<br>normal
@@ -194,6 +206,18 @@ bip_39_word_space_6: bargain useless awake vapor brain patch
 bip_39_word_space_7: bargain useless awake vapor brain patch aspect
 bip_39_word_space_8: bargain useless awake vapor brain patch aspect bean
 bip_39_word_space_9: bargain useless awake vapor brain patch aspect bean gallery
+bip_39_word_underscore_1: bargain
+bip_39_word_underscore_10: bargain_useless_awake_vapor_brain_patch_aspect_bean_gallery_sense
+bip_39_word_underscore_11: bargain_useless_awake_vapor_brain_patch_aspect_bean_gallery_sense_normal
+bip_39_word_underscore_12: bargain_useless_awake_vapor_brain_patch_aspect_bean_gallery_sense_normal_arm
+bip_39_word_underscore_2: bargain_useless
+bip_39_word_underscore_3: bargain_useless_awake
+bip_39_word_underscore_4: bargain_useless_awake_vapor
+bip_39_word_underscore_5: bargain_useless_awake_vapor_brain
+bip_39_word_underscore_6: bargain_useless_awake_vapor_brain_patch
+bip_39_word_underscore_7: bargain_useless_awake_vapor_brain_patch_aspect
+bip_39_word_underscore_8: bargain_useless_awake_vapor_brain_patch_aspect_bean
+bip_39_word_underscore_9: bargain_useless_awake_vapor_brain_patch_aspect_bean_gallery
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

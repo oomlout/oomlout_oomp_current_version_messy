@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | melt |  
+| bip_39_word_dash_10 | melt-scale-erosion-balcony-degree-eight-dove-loop-tortoise-proof |  
+| bip_39_word_dash_11 | melt-scale-erosion-balcony-degree-eight-dove-loop-tortoise-proof-ginger |  
+| bip_39_word_dash_12 | melt-scale-erosion-balcony-degree-eight-dove-loop-tortoise-proof-ginger-again |  
+| bip_39_word_dash_2 | melt-scale |  
+| bip_39_word_dash_3 | melt-scale-erosion |  
+| bip_39_word_dash_4 | melt-scale-erosion-balcony |  
+| bip_39_word_dash_5 | melt-scale-erosion-balcony-degree |  
+| bip_39_word_dash_6 | melt-scale-erosion-balcony-degree-eight |  
+| bip_39_word_dash_7 | melt-scale-erosion-balcony-degree-eight-dove |  
+| bip_39_word_dash_8 | melt-scale-erosion-balcony-degree-eight-dove-loop |  
+| bip_39_word_dash_9 | melt-scale-erosion-balcony-degree-eight-dove-loop-tortoise |  
 | bip_39_word_new_br_1 | melt |  
 | bip_39_word_new_br_10 | melt<br>scale<br>erosion<br>balcony<br>degree<br>eight<br>dove<br>loop<br>tortoise<br>proof |  
 | bip_39_word_new_br_11 | melt<br>scale<br>erosion<br>balcony<br>degree<br>eight<br>dove<br>loop<br>tortoise<br>proof<br>ginger |  
@@ -147,6 +159,18 @@ tortoise |
 | bip_39_word_space_7 | melt scale erosion balcony degree eight dove |  
 | bip_39_word_space_8 | melt scale erosion balcony degree eight dove loop |  
 | bip_39_word_space_9 | melt scale erosion balcony degree eight dove loop tortoise |  
+| bip_39_word_underscore_1 | melt |  
+| bip_39_word_underscore_10 | melt_scale_erosion_balcony_degree_eight_dove_loop_tortoise_proof |  
+| bip_39_word_underscore_11 | melt_scale_erosion_balcony_degree_eight_dove_loop_tortoise_proof_ginger |  
+| bip_39_word_underscore_12 | melt_scale_erosion_balcony_degree_eight_dove_loop_tortoise_proof_ginger_again |  
+| bip_39_word_underscore_2 | melt_scale |  
+| bip_39_word_underscore_3 | melt_scale_erosion |  
+| bip_39_word_underscore_4 | melt_scale_erosion_balcony |  
+| bip_39_word_underscore_5 | melt_scale_erosion_balcony_degree |  
+| bip_39_word_underscore_6 | melt_scale_erosion_balcony_degree_eight |  
+| bip_39_word_underscore_7 | melt_scale_erosion_balcony_degree_eight_dove |  
+| bip_39_word_underscore_8 | melt_scale_erosion_balcony_degree_eight_dove_loop |  
+| bip_39_word_underscore_9 | melt_scale_erosion_balcony_degree_eight_dove_loop_tortoise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

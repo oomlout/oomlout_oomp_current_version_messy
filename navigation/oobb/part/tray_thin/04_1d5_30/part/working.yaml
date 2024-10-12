@@ -1,3 +1,15 @@
+bip_39_word_dash_1: paper
+bip_39_word_dash_10: paper-romance-evidence-scheme-remind-cool-tomorrow-ready-expose-similar
+bip_39_word_dash_11: paper-romance-evidence-scheme-remind-cool-tomorrow-ready-expose-similar-clerk
+bip_39_word_dash_12: paper-romance-evidence-scheme-remind-cool-tomorrow-ready-expose-similar-clerk-avocado
+bip_39_word_dash_2: paper-romance
+bip_39_word_dash_3: paper-romance-evidence
+bip_39_word_dash_4: paper-romance-evidence-scheme
+bip_39_word_dash_5: paper-romance-evidence-scheme-remind
+bip_39_word_dash_6: paper-romance-evidence-scheme-remind-cool
+bip_39_word_dash_7: paper-romance-evidence-scheme-remind-cool-tomorrow
+bip_39_word_dash_8: paper-romance-evidence-scheme-remind-cool-tomorrow-ready
+bip_39_word_dash_9: paper-romance-evidence-scheme-remind-cool-tomorrow-ready-expose
 bip_39_word_new_br_1: paper
 bip_39_word_new_br_10: paper<br>romance<br>evidence<br>scheme<br>remind<br>cool<br>tomorrow<br>ready<br>expose<br>similar
 bip_39_word_new_br_11: paper<br>romance<br>evidence<br>scheme<br>remind<br>cool<br>tomorrow<br>ready<br>expose<br>similar<br>clerk
@@ -194,6 +206,18 @@ bip_39_word_space_6: paper romance evidence scheme remind cool
 bip_39_word_space_7: paper romance evidence scheme remind cool tomorrow
 bip_39_word_space_8: paper romance evidence scheme remind cool tomorrow ready
 bip_39_word_space_9: paper romance evidence scheme remind cool tomorrow ready expose
+bip_39_word_underscore_1: paper
+bip_39_word_underscore_10: paper_romance_evidence_scheme_remind_cool_tomorrow_ready_expose_similar
+bip_39_word_underscore_11: paper_romance_evidence_scheme_remind_cool_tomorrow_ready_expose_similar_clerk
+bip_39_word_underscore_12: paper_romance_evidence_scheme_remind_cool_tomorrow_ready_expose_similar_clerk_avocado
+bip_39_word_underscore_2: paper_romance
+bip_39_word_underscore_3: paper_romance_evidence
+bip_39_word_underscore_4: paper_romance_evidence_scheme
+bip_39_word_underscore_5: paper_romance_evidence_scheme_remind
+bip_39_word_underscore_6: paper_romance_evidence_scheme_remind_cool
+bip_39_word_underscore_7: paper_romance_evidence_scheme_remind_cool_tomorrow
+bip_39_word_underscore_8: paper_romance_evidence_scheme_remind_cool_tomorrow_ready
+bip_39_word_underscore_9: paper_romance_evidence_scheme_remind_cool_tomorrow_ready_expose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

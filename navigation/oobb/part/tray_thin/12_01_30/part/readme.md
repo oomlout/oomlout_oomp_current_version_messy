@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | photo |  
+| bip_39_word_dash_10 | photo-tiger-voyage-before-tired-word-roast-crime-magic-lab |  
+| bip_39_word_dash_11 | photo-tiger-voyage-before-tired-word-roast-crime-magic-lab-fan |  
+| bip_39_word_dash_12 | photo-tiger-voyage-before-tired-word-roast-crime-magic-lab-fan-asthma |  
+| bip_39_word_dash_2 | photo-tiger |  
+| bip_39_word_dash_3 | photo-tiger-voyage |  
+| bip_39_word_dash_4 | photo-tiger-voyage-before |  
+| bip_39_word_dash_5 | photo-tiger-voyage-before-tired |  
+| bip_39_word_dash_6 | photo-tiger-voyage-before-tired-word |  
+| bip_39_word_dash_7 | photo-tiger-voyage-before-tired-word-roast |  
+| bip_39_word_dash_8 | photo-tiger-voyage-before-tired-word-roast-crime |  
+| bip_39_word_dash_9 | photo-tiger-voyage-before-tired-word-roast-crime-magic |  
 | bip_39_word_new_br_1 | photo |  
 | bip_39_word_new_br_10 | photo<br>tiger<br>voyage<br>before<br>tired<br>word<br>roast<br>crime<br>magic<br>lab |  
 | bip_39_word_new_br_11 | photo<br>tiger<br>voyage<br>before<br>tired<br>word<br>roast<br>crime<br>magic<br>lab<br>fan |  
@@ -147,6 +159,18 @@ magic |
 | bip_39_word_space_7 | photo tiger voyage before tired word roast |  
 | bip_39_word_space_8 | photo tiger voyage before tired word roast crime |  
 | bip_39_word_space_9 | photo tiger voyage before tired word roast crime magic |  
+| bip_39_word_underscore_1 | photo |  
+| bip_39_word_underscore_10 | photo_tiger_voyage_before_tired_word_roast_crime_magic_lab |  
+| bip_39_word_underscore_11 | photo_tiger_voyage_before_tired_word_roast_crime_magic_lab_fan |  
+| bip_39_word_underscore_12 | photo_tiger_voyage_before_tired_word_roast_crime_magic_lab_fan_asthma |  
+| bip_39_word_underscore_2 | photo_tiger |  
+| bip_39_word_underscore_3 | photo_tiger_voyage |  
+| bip_39_word_underscore_4 | photo_tiger_voyage_before |  
+| bip_39_word_underscore_5 | photo_tiger_voyage_before_tired |  
+| bip_39_word_underscore_6 | photo_tiger_voyage_before_tired_word |  
+| bip_39_word_underscore_7 | photo_tiger_voyage_before_tired_word_roast |  
+| bip_39_word_underscore_8 | photo_tiger_voyage_before_tired_word_roast_crime |  
+| bip_39_word_underscore_9 | photo_tiger_voyage_before_tired_word_roast_crime_magic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

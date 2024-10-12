@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tomorrow
+bip_39_word_dash_10: tomorrow-suit-common-clock-live-brown-dizzy-latin-february-weapon
+bip_39_word_dash_11: tomorrow-suit-common-clock-live-brown-dizzy-latin-february-weapon-onion
+bip_39_word_dash_12: tomorrow-suit-common-clock-live-brown-dizzy-latin-february-weapon-onion-auction
+bip_39_word_dash_2: tomorrow-suit
+bip_39_word_dash_3: tomorrow-suit-common
+bip_39_word_dash_4: tomorrow-suit-common-clock
+bip_39_word_dash_5: tomorrow-suit-common-clock-live
+bip_39_word_dash_6: tomorrow-suit-common-clock-live-brown
+bip_39_word_dash_7: tomorrow-suit-common-clock-live-brown-dizzy
+bip_39_word_dash_8: tomorrow-suit-common-clock-live-brown-dizzy-latin
+bip_39_word_dash_9: tomorrow-suit-common-clock-live-brown-dizzy-latin-february
 bip_39_word_new_br_1: tomorrow
 bip_39_word_new_br_10: tomorrow<br>suit<br>common<br>clock<br>live<br>brown<br>dizzy<br>latin<br>february<br>weapon
 bip_39_word_new_br_11: tomorrow<br>suit<br>common<br>clock<br>live<br>brown<br>dizzy<br>latin<br>february<br>weapon<br>onion
@@ -193,6 +205,18 @@ bip_39_word_space_6: tomorrow suit common clock live brown
 bip_39_word_space_7: tomorrow suit common clock live brown dizzy
 bip_39_word_space_8: tomorrow suit common clock live brown dizzy latin
 bip_39_word_space_9: tomorrow suit common clock live brown dizzy latin february
+bip_39_word_underscore_1: tomorrow
+bip_39_word_underscore_10: tomorrow_suit_common_clock_live_brown_dizzy_latin_february_weapon
+bip_39_word_underscore_11: tomorrow_suit_common_clock_live_brown_dizzy_latin_february_weapon_onion
+bip_39_word_underscore_12: tomorrow_suit_common_clock_live_brown_dizzy_latin_february_weapon_onion_auction
+bip_39_word_underscore_2: tomorrow_suit
+bip_39_word_underscore_3: tomorrow_suit_common
+bip_39_word_underscore_4: tomorrow_suit_common_clock
+bip_39_word_underscore_5: tomorrow_suit_common_clock_live
+bip_39_word_underscore_6: tomorrow_suit_common_clock_live_brown
+bip_39_word_underscore_7: tomorrow_suit_common_clock_live_brown_dizzy
+bip_39_word_underscore_8: tomorrow_suit_common_clock_live_brown_dizzy_latin
+bip_39_word_underscore_9: tomorrow_suit_common_clock_live_brown_dizzy_latin_february
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

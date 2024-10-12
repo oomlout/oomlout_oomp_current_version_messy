@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | welcome |  
+| bip_39_word_dash_10 | welcome-december-journey-uncover-year-dumb-document-connect-bulb-scrub |  
+| bip_39_word_dash_11 | welcome-december-journey-uncover-year-dumb-document-connect-bulb-scrub-model |  
+| bip_39_word_dash_12 | welcome-december-journey-uncover-year-dumb-document-connect-bulb-scrub-model-airport |  
+| bip_39_word_dash_2 | welcome-december |  
+| bip_39_word_dash_3 | welcome-december-journey |  
+| bip_39_word_dash_4 | welcome-december-journey-uncover |  
+| bip_39_word_dash_5 | welcome-december-journey-uncover-year |  
+| bip_39_word_dash_6 | welcome-december-journey-uncover-year-dumb |  
+| bip_39_word_dash_7 | welcome-december-journey-uncover-year-dumb-document |  
+| bip_39_word_dash_8 | welcome-december-journey-uncover-year-dumb-document-connect |  
+| bip_39_word_dash_9 | welcome-december-journey-uncover-year-dumb-document-connect-bulb |  
 | bip_39_word_new_br_1 | welcome |  
 | bip_39_word_new_br_10 | welcome<br>december<br>journey<br>uncover<br>year<br>dumb<br>document<br>connect<br>bulb<br>scrub |  
 | bip_39_word_new_br_11 | welcome<br>december<br>journey<br>uncover<br>year<br>dumb<br>document<br>connect<br>bulb<br>scrub<br>model |  
@@ -147,6 +159,18 @@ bulb |
 | bip_39_word_space_7 | welcome december journey uncover year dumb document |  
 | bip_39_word_space_8 | welcome december journey uncover year dumb document connect |  
 | bip_39_word_space_9 | welcome december journey uncover year dumb document connect bulb |  
+| bip_39_word_underscore_1 | welcome |  
+| bip_39_word_underscore_10 | welcome_december_journey_uncover_year_dumb_document_connect_bulb_scrub |  
+| bip_39_word_underscore_11 | welcome_december_journey_uncover_year_dumb_document_connect_bulb_scrub_model |  
+| bip_39_word_underscore_12 | welcome_december_journey_uncover_year_dumb_document_connect_bulb_scrub_model_airport |  
+| bip_39_word_underscore_2 | welcome_december |  
+| bip_39_word_underscore_3 | welcome_december_journey |  
+| bip_39_word_underscore_4 | welcome_december_journey_uncover |  
+| bip_39_word_underscore_5 | welcome_december_journey_uncover_year |  
+| bip_39_word_underscore_6 | welcome_december_journey_uncover_year_dumb |  
+| bip_39_word_underscore_7 | welcome_december_journey_uncover_year_dumb_document |  
+| bip_39_word_underscore_8 | welcome_december_journey_uncover_year_dumb_document_connect |  
+| bip_39_word_underscore_9 | welcome_december_journey_uncover_year_dumb_document_connect_bulb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

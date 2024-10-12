@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | usage |  
+| bip_39_word_dash_10 | usage-accident-harbor-document-discover-coil-enable-orbit-aspect-game |  
+| bip_39_word_dash_11 | usage-accident-harbor-document-discover-coil-enable-orbit-aspect-game-slot |  
+| bip_39_word_dash_12 | usage-accident-harbor-document-discover-coil-enable-orbit-aspect-game-slot-apology |  
+| bip_39_word_dash_2 | usage-accident |  
+| bip_39_word_dash_3 | usage-accident-harbor |  
+| bip_39_word_dash_4 | usage-accident-harbor-document |  
+| bip_39_word_dash_5 | usage-accident-harbor-document-discover |  
+| bip_39_word_dash_6 | usage-accident-harbor-document-discover-coil |  
+| bip_39_word_dash_7 | usage-accident-harbor-document-discover-coil-enable |  
+| bip_39_word_dash_8 | usage-accident-harbor-document-discover-coil-enable-orbit |  
+| bip_39_word_dash_9 | usage-accident-harbor-document-discover-coil-enable-orbit-aspect |  
 | bip_39_word_new_br_1 | usage |  
 | bip_39_word_new_br_10 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game |  
 | bip_39_word_new_br_11 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game<br>slot |  
@@ -147,6 +159,18 @@ aspect |
 | bip_39_word_space_7 | usage accident harbor document discover coil enable |  
 | bip_39_word_space_8 | usage accident harbor document discover coil enable orbit |  
 | bip_39_word_space_9 | usage accident harbor document discover coil enable orbit aspect |  
+| bip_39_word_underscore_1 | usage |  
+| bip_39_word_underscore_10 | usage_accident_harbor_document_discover_coil_enable_orbit_aspect_game |  
+| bip_39_word_underscore_11 | usage_accident_harbor_document_discover_coil_enable_orbit_aspect_game_slot |  
+| bip_39_word_underscore_12 | usage_accident_harbor_document_discover_coil_enable_orbit_aspect_game_slot_apology |  
+| bip_39_word_underscore_2 | usage_accident |  
+| bip_39_word_underscore_3 | usage_accident_harbor |  
+| bip_39_word_underscore_4 | usage_accident_harbor_document |  
+| bip_39_word_underscore_5 | usage_accident_harbor_document_discover |  
+| bip_39_word_underscore_6 | usage_accident_harbor_document_discover_coil |  
+| bip_39_word_underscore_7 | usage_accident_harbor_document_discover_coil_enable |  
+| bip_39_word_underscore_8 | usage_accident_harbor_document_discover_coil_enable_orbit |  
+| bip_39_word_underscore_9 | usage_accident_harbor_document_discover_coil_enable_orbit_aspect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

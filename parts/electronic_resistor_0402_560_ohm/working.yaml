@@ -1,3 +1,15 @@
+bip_39_word_dash_1: call
+bip_39_word_dash_10: call-foil-skill-this-news-front-gun-design-vendor-artist
+bip_39_word_dash_11: call-foil-skill-this-news-front-gun-design-vendor-artist-clay
+bip_39_word_dash_12: call-foil-skill-this-news-front-gun-design-vendor-artist-clay-address
+bip_39_word_dash_2: call-foil
+bip_39_word_dash_3: call-foil-skill
+bip_39_word_dash_4: call-foil-skill-this
+bip_39_word_dash_5: call-foil-skill-this-news
+bip_39_word_dash_6: call-foil-skill-this-news-front
+bip_39_word_dash_7: call-foil-skill-this-news-front-gun
+bip_39_word_dash_8: call-foil-skill-this-news-front-gun-design
+bip_39_word_dash_9: call-foil-skill-this-news-front-gun-design-vendor
 bip_39_word_new_br_1: call
 bip_39_word_new_br_10: call<br>foil<br>skill<br>this<br>news<br>front<br>gun<br>design<br>vendor<br>artist
 bip_39_word_new_br_11: call<br>foil<br>skill<br>this<br>news<br>front<br>gun<br>design<br>vendor<br>artist<br>clay
@@ -192,6 +204,18 @@ bip_39_word_space_6: call foil skill this news front
 bip_39_word_space_7: call foil skill this news front gun
 bip_39_word_space_8: call foil skill this news front gun design
 bip_39_word_space_9: call foil skill this news front gun design vendor
+bip_39_word_underscore_1: call
+bip_39_word_underscore_10: call_foil_skill_this_news_front_gun_design_vendor_artist
+bip_39_word_underscore_11: call_foil_skill_this_news_front_gun_design_vendor_artist_clay
+bip_39_word_underscore_12: call_foil_skill_this_news_front_gun_design_vendor_artist_clay_address
+bip_39_word_underscore_2: call_foil
+bip_39_word_underscore_3: call_foil_skill
+bip_39_word_underscore_4: call_foil_skill_this
+bip_39_word_underscore_5: call_foil_skill_this_news
+bip_39_word_underscore_6: call_foil_skill_this_news_front
+bip_39_word_underscore_7: call_foil_skill_this_news_front_gun
+bip_39_word_underscore_8: call_foil_skill_this_news_front_gun_design
+bip_39_word_underscore_9: call_foil_skill_this_news_front_gun_design_vendor
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

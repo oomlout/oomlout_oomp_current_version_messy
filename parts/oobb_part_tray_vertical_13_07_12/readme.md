@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slab |  
+| bip_39_word_dash_10 | slab-nose-please-border-layer-crater-gap-health-review-pause |  
+| bip_39_word_dash_11 | slab-nose-please-border-layer-crater-gap-health-review-pause-guitar |  
+| bip_39_word_dash_12 | slab-nose-please-border-layer-crater-gap-health-review-pause-guitar-august |  
+| bip_39_word_dash_2 | slab-nose |  
+| bip_39_word_dash_3 | slab-nose-please |  
+| bip_39_word_dash_4 | slab-nose-please-border |  
+| bip_39_word_dash_5 | slab-nose-please-border-layer |  
+| bip_39_word_dash_6 | slab-nose-please-border-layer-crater |  
+| bip_39_word_dash_7 | slab-nose-please-border-layer-crater-gap |  
+| bip_39_word_dash_8 | slab-nose-please-border-layer-crater-gap-health |  
+| bip_39_word_dash_9 | slab-nose-please-border-layer-crater-gap-health-review |  
 | bip_39_word_new_br_1 | slab |  
 | bip_39_word_new_br_10 | slab<br>nose<br>please<br>border<br>layer<br>crater<br>gap<br>health<br>review<br>pause |  
 | bip_39_word_new_br_11 | slab<br>nose<br>please<br>border<br>layer<br>crater<br>gap<br>health<br>review<br>pause<br>guitar |  
@@ -147,6 +159,18 @@ review |
 | bip_39_word_space_7 | slab nose please border layer crater gap |  
 | bip_39_word_space_8 | slab nose please border layer crater gap health |  
 | bip_39_word_space_9 | slab nose please border layer crater gap health review |  
+| bip_39_word_underscore_1 | slab |  
+| bip_39_word_underscore_10 | slab_nose_please_border_layer_crater_gap_health_review_pause |  
+| bip_39_word_underscore_11 | slab_nose_please_border_layer_crater_gap_health_review_pause_guitar |  
+| bip_39_word_underscore_12 | slab_nose_please_border_layer_crater_gap_health_review_pause_guitar_august |  
+| bip_39_word_underscore_2 | slab_nose |  
+| bip_39_word_underscore_3 | slab_nose_please |  
+| bip_39_word_underscore_4 | slab_nose_please_border |  
+| bip_39_word_underscore_5 | slab_nose_please_border_layer |  
+| bip_39_word_underscore_6 | slab_nose_please_border_layer_crater |  
+| bip_39_word_underscore_7 | slab_nose_please_border_layer_crater_gap |  
+| bip_39_word_underscore_8 | slab_nose_please_border_layer_crater_gap_health |  
+| bip_39_word_underscore_9 | slab_nose_please_border_layer_crater_gap_health_review |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

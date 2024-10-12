@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pistol
+bip_39_word_dash_10: pistol-actress-because-toe-hedgehog-tomato-anger-spoil-post-sudden
+bip_39_word_dash_11: pistol-actress-because-toe-hedgehog-tomato-anger-spoil-post-sudden-badge
+bip_39_word_dash_12: pistol-actress-because-toe-hedgehog-tomato-anger-spoil-post-sudden-badge-adapt
+bip_39_word_dash_2: pistol-actress
+bip_39_word_dash_3: pistol-actress-because
+bip_39_word_dash_4: pistol-actress-because-toe
+bip_39_word_dash_5: pistol-actress-because-toe-hedgehog
+bip_39_word_dash_6: pistol-actress-because-toe-hedgehog-tomato
+bip_39_word_dash_7: pistol-actress-because-toe-hedgehog-tomato-anger
+bip_39_word_dash_8: pistol-actress-because-toe-hedgehog-tomato-anger-spoil
+bip_39_word_dash_9: pistol-actress-because-toe-hedgehog-tomato-anger-spoil-post
 bip_39_word_new_br_1: pistol
 bip_39_word_new_br_10: pistol<br>actress<br>because<br>toe<br>hedgehog<br>tomato<br>anger<br>spoil<br>post<br>sudden
 bip_39_word_new_br_11: pistol<br>actress<br>because<br>toe<br>hedgehog<br>tomato<br>anger<br>spoil<br>post<br>sudden<br>badge
@@ -194,6 +206,18 @@ bip_39_word_space_6: pistol actress because toe hedgehog tomato
 bip_39_word_space_7: pistol actress because toe hedgehog tomato anger
 bip_39_word_space_8: pistol actress because toe hedgehog tomato anger spoil
 bip_39_word_space_9: pistol actress because toe hedgehog tomato anger spoil post
+bip_39_word_underscore_1: pistol
+bip_39_word_underscore_10: pistol_actress_because_toe_hedgehog_tomato_anger_spoil_post_sudden
+bip_39_word_underscore_11: pistol_actress_because_toe_hedgehog_tomato_anger_spoil_post_sudden_badge
+bip_39_word_underscore_12: pistol_actress_because_toe_hedgehog_tomato_anger_spoil_post_sudden_badge_adapt
+bip_39_word_underscore_2: pistol_actress
+bip_39_word_underscore_3: pistol_actress_because
+bip_39_word_underscore_4: pistol_actress_because_toe
+bip_39_word_underscore_5: pistol_actress_because_toe_hedgehog
+bip_39_word_underscore_6: pistol_actress_because_toe_hedgehog_tomato
+bip_39_word_underscore_7: pistol_actress_because_toe_hedgehog_tomato_anger
+bip_39_word_underscore_8: pistol_actress_because_toe_hedgehog_tomato_anger_spoil
+bip_39_word_underscore_9: pistol_actress_because_toe_hedgehog_tomato_anger_spoil_post
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

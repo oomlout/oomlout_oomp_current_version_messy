@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | client |  
+| bip_39_word_dash_10 | client-domain-harvest-crane-behind-exotic-program-onion-sock-story |  
+| bip_39_word_dash_11 | client-domain-harvest-crane-behind-exotic-program-onion-sock-story-garment |  
+| bip_39_word_dash_12 | client-domain-harvest-crane-behind-exotic-program-onion-sock-story-garment-arrive |  
+| bip_39_word_dash_2 | client-domain |  
+| bip_39_word_dash_3 | client-domain-harvest |  
+| bip_39_word_dash_4 | client-domain-harvest-crane |  
+| bip_39_word_dash_5 | client-domain-harvest-crane-behind |  
+| bip_39_word_dash_6 | client-domain-harvest-crane-behind-exotic |  
+| bip_39_word_dash_7 | client-domain-harvest-crane-behind-exotic-program |  
+| bip_39_word_dash_8 | client-domain-harvest-crane-behind-exotic-program-onion |  
+| bip_39_word_dash_9 | client-domain-harvest-crane-behind-exotic-program-onion-sock |  
 | bip_39_word_new_br_1 | client |  
 | bip_39_word_new_br_10 | client<br>domain<br>harvest<br>crane<br>behind<br>exotic<br>program<br>onion<br>sock<br>story |  
 | bip_39_word_new_br_11 | client<br>domain<br>harvest<br>crane<br>behind<br>exotic<br>program<br>onion<br>sock<br>story<br>garment |  
@@ -147,6 +159,18 @@ sock |
 | bip_39_word_space_7 | client domain harvest crane behind exotic program |  
 | bip_39_word_space_8 | client domain harvest crane behind exotic program onion |  
 | bip_39_word_space_9 | client domain harvest crane behind exotic program onion sock |  
+| bip_39_word_underscore_1 | client |  
+| bip_39_word_underscore_10 | client_domain_harvest_crane_behind_exotic_program_onion_sock_story |  
+| bip_39_word_underscore_11 | client_domain_harvest_crane_behind_exotic_program_onion_sock_story_garment |  
+| bip_39_word_underscore_12 | client_domain_harvest_crane_behind_exotic_program_onion_sock_story_garment_arrive |  
+| bip_39_word_underscore_2 | client_domain |  
+| bip_39_word_underscore_3 | client_domain_harvest |  
+| bip_39_word_underscore_4 | client_domain_harvest_crane |  
+| bip_39_word_underscore_5 | client_domain_harvest_crane_behind |  
+| bip_39_word_underscore_6 | client_domain_harvest_crane_behind_exotic |  
+| bip_39_word_underscore_7 | client_domain_harvest_crane_behind_exotic_program |  
+| bip_39_word_underscore_8 | client_domain_harvest_crane_behind_exotic_program_onion |  
+| bip_39_word_underscore_9 | client_domain_harvest_crane_behind_exotic_program_onion_sock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

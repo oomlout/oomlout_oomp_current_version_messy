@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | income |  
+| bip_39_word_dash_10 | income-warfare-dress-giant-hurry-peanut-genius-blast-outer-company |  
+| bip_39_word_dash_11 | income-warfare-dress-giant-hurry-peanut-genius-blast-outer-company-sleep |  
+| bip_39_word_dash_12 | income-warfare-dress-giant-hurry-peanut-genius-blast-outer-company-sleep-amused |  
+| bip_39_word_dash_2 | income-warfare |  
+| bip_39_word_dash_3 | income-warfare-dress |  
+| bip_39_word_dash_4 | income-warfare-dress-giant |  
+| bip_39_word_dash_5 | income-warfare-dress-giant-hurry |  
+| bip_39_word_dash_6 | income-warfare-dress-giant-hurry-peanut |  
+| bip_39_word_dash_7 | income-warfare-dress-giant-hurry-peanut-genius |  
+| bip_39_word_dash_8 | income-warfare-dress-giant-hurry-peanut-genius-blast |  
+| bip_39_word_dash_9 | income-warfare-dress-giant-hurry-peanut-genius-blast-outer |  
 | bip_39_word_new_br_1 | income |  
 | bip_39_word_new_br_10 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company |  
 | bip_39_word_new_br_11 | income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company<br>sleep |  
@@ -147,6 +159,18 @@ outer |
 | bip_39_word_space_7 | income warfare dress giant hurry peanut genius |  
 | bip_39_word_space_8 | income warfare dress giant hurry peanut genius blast |  
 | bip_39_word_space_9 | income warfare dress giant hurry peanut genius blast outer |  
+| bip_39_word_underscore_1 | income |  
+| bip_39_word_underscore_10 | income_warfare_dress_giant_hurry_peanut_genius_blast_outer_company |  
+| bip_39_word_underscore_11 | income_warfare_dress_giant_hurry_peanut_genius_blast_outer_company_sleep |  
+| bip_39_word_underscore_12 | income_warfare_dress_giant_hurry_peanut_genius_blast_outer_company_sleep_amused |  
+| bip_39_word_underscore_2 | income_warfare |  
+| bip_39_word_underscore_3 | income_warfare_dress |  
+| bip_39_word_underscore_4 | income_warfare_dress_giant |  
+| bip_39_word_underscore_5 | income_warfare_dress_giant_hurry |  
+| bip_39_word_underscore_6 | income_warfare_dress_giant_hurry_peanut |  
+| bip_39_word_underscore_7 | income_warfare_dress_giant_hurry_peanut_genius |  
+| bip_39_word_underscore_8 | income_warfare_dress_giant_hurry_peanut_genius_blast |  
+| bip_39_word_underscore_9 | income_warfare_dress_giant_hurry_peanut_genius_blast_outer |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | planet |  
+| bip_39_word_dash_10 | planet-angry-chimney-reflect-tent-spin-uncover-abuse-believe-pilot |  
+| bip_39_word_dash_11 | planet-angry-chimney-reflect-tent-spin-uncover-abuse-believe-pilot-slight |  
+| bip_39_word_dash_12 | planet-angry-chimney-reflect-tent-spin-uncover-abuse-believe-pilot-slight-addict |  
+| bip_39_word_dash_2 | planet-angry |  
+| bip_39_word_dash_3 | planet-angry-chimney |  
+| bip_39_word_dash_4 | planet-angry-chimney-reflect |  
+| bip_39_word_dash_5 | planet-angry-chimney-reflect-tent |  
+| bip_39_word_dash_6 | planet-angry-chimney-reflect-tent-spin |  
+| bip_39_word_dash_7 | planet-angry-chimney-reflect-tent-spin-uncover |  
+| bip_39_word_dash_8 | planet-angry-chimney-reflect-tent-spin-uncover-abuse |  
+| bip_39_word_dash_9 | planet-angry-chimney-reflect-tent-spin-uncover-abuse-believe |  
 | bip_39_word_new_br_1 | planet |  
 | bip_39_word_new_br_10 | planet<br>angry<br>chimney<br>reflect<br>tent<br>spin<br>uncover<br>abuse<br>believe<br>pilot |  
 | bip_39_word_new_br_11 | planet<br>angry<br>chimney<br>reflect<br>tent<br>spin<br>uncover<br>abuse<br>believe<br>pilot<br>slight |  
@@ -147,6 +159,18 @@ believe |
 | bip_39_word_space_7 | planet angry chimney reflect tent spin uncover |  
 | bip_39_word_space_8 | planet angry chimney reflect tent spin uncover abuse |  
 | bip_39_word_space_9 | planet angry chimney reflect tent spin uncover abuse believe |  
+| bip_39_word_underscore_1 | planet |  
+| bip_39_word_underscore_10 | planet_angry_chimney_reflect_tent_spin_uncover_abuse_believe_pilot |  
+| bip_39_word_underscore_11 | planet_angry_chimney_reflect_tent_spin_uncover_abuse_believe_pilot_slight |  
+| bip_39_word_underscore_12 | planet_angry_chimney_reflect_tent_spin_uncover_abuse_believe_pilot_slight_addict |  
+| bip_39_word_underscore_2 | planet_angry |  
+| bip_39_word_underscore_3 | planet_angry_chimney |  
+| bip_39_word_underscore_4 | planet_angry_chimney_reflect |  
+| bip_39_word_underscore_5 | planet_angry_chimney_reflect_tent |  
+| bip_39_word_underscore_6 | planet_angry_chimney_reflect_tent_spin |  
+| bip_39_word_underscore_7 | planet_angry_chimney_reflect_tent_spin_uncover |  
+| bip_39_word_underscore_8 | planet_angry_chimney_reflect_tent_spin_uncover_abuse |  
+| bip_39_word_underscore_9 | planet_angry_chimney_reflect_tent_spin_uncover_abuse_believe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

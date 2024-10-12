@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | when |  
+| bip_39_word_dash_10 | when-kid-sad-portion-ankle-giggle-goddess-beach-call-wave |  
+| bip_39_word_dash_11 | when-kid-sad-portion-ankle-giggle-goddess-beach-call-wave-scheme |  
+| bip_39_word_dash_12 | when-kid-sad-portion-ankle-giggle-goddess-beach-call-wave-scheme-absorb |  
+| bip_39_word_dash_2 | when-kid |  
+| bip_39_word_dash_3 | when-kid-sad |  
+| bip_39_word_dash_4 | when-kid-sad-portion |  
+| bip_39_word_dash_5 | when-kid-sad-portion-ankle |  
+| bip_39_word_dash_6 | when-kid-sad-portion-ankle-giggle |  
+| bip_39_word_dash_7 | when-kid-sad-portion-ankle-giggle-goddess |  
+| bip_39_word_dash_8 | when-kid-sad-portion-ankle-giggle-goddess-beach |  
+| bip_39_word_dash_9 | when-kid-sad-portion-ankle-giggle-goddess-beach-call |  
 | bip_39_word_new_br_1 | when |  
 | bip_39_word_new_br_10 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave |  
 | bip_39_word_new_br_11 | when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave<br>scheme |  
@@ -147,6 +159,18 @@ call |
 | bip_39_word_space_7 | when kid sad portion ankle giggle goddess |  
 | bip_39_word_space_8 | when kid sad portion ankle giggle goddess beach |  
 | bip_39_word_space_9 | when kid sad portion ankle giggle goddess beach call |  
+| bip_39_word_underscore_1 | when |  
+| bip_39_word_underscore_10 | when_kid_sad_portion_ankle_giggle_goddess_beach_call_wave |  
+| bip_39_word_underscore_11 | when_kid_sad_portion_ankle_giggle_goddess_beach_call_wave_scheme |  
+| bip_39_word_underscore_12 | when_kid_sad_portion_ankle_giggle_goddess_beach_call_wave_scheme_absorb |  
+| bip_39_word_underscore_2 | when_kid |  
+| bip_39_word_underscore_3 | when_kid_sad |  
+| bip_39_word_underscore_4 | when_kid_sad_portion |  
+| bip_39_word_underscore_5 | when_kid_sad_portion_ankle |  
+| bip_39_word_underscore_6 | when_kid_sad_portion_ankle_giggle |  
+| bip_39_word_underscore_7 | when_kid_sad_portion_ankle_giggle_goddess |  
+| bip_39_word_underscore_8 | when_kid_sad_portion_ankle_giggle_goddess_beach |  
+| bip_39_word_underscore_9 | when_kid_sad_portion_ankle_giggle_goddess_beach_call |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

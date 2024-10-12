@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tornado |  
+| bip_39_word_dash_10 | tornado-enhance-gravity-rabbit-candy-aware-fossil-picture-field-bar |  
+| bip_39_word_dash_11 | tornado-enhance-gravity-rabbit-candy-aware-fossil-picture-field-bar-cave |  
+| bip_39_word_dash_12 | tornado-enhance-gravity-rabbit-candy-aware-fossil-picture-field-bar-cave-apology |  
+| bip_39_word_dash_2 | tornado-enhance |  
+| bip_39_word_dash_3 | tornado-enhance-gravity |  
+| bip_39_word_dash_4 | tornado-enhance-gravity-rabbit |  
+| bip_39_word_dash_5 | tornado-enhance-gravity-rabbit-candy |  
+| bip_39_word_dash_6 | tornado-enhance-gravity-rabbit-candy-aware |  
+| bip_39_word_dash_7 | tornado-enhance-gravity-rabbit-candy-aware-fossil |  
+| bip_39_word_dash_8 | tornado-enhance-gravity-rabbit-candy-aware-fossil-picture |  
+| bip_39_word_dash_9 | tornado-enhance-gravity-rabbit-candy-aware-fossil-picture-field |  
 | bip_39_word_new_br_1 | tornado |  
 | bip_39_word_new_br_10 | tornado<br>enhance<br>gravity<br>rabbit<br>candy<br>aware<br>fossil<br>picture<br>field<br>bar |  
 | bip_39_word_new_br_11 | tornado<br>enhance<br>gravity<br>rabbit<br>candy<br>aware<br>fossil<br>picture<br>field<br>bar<br>cave |  
@@ -147,6 +159,18 @@ field |
 | bip_39_word_space_7 | tornado enhance gravity rabbit candy aware fossil |  
 | bip_39_word_space_8 | tornado enhance gravity rabbit candy aware fossil picture |  
 | bip_39_word_space_9 | tornado enhance gravity rabbit candy aware fossil picture field |  
+| bip_39_word_underscore_1 | tornado |  
+| bip_39_word_underscore_10 | tornado_enhance_gravity_rabbit_candy_aware_fossil_picture_field_bar |  
+| bip_39_word_underscore_11 | tornado_enhance_gravity_rabbit_candy_aware_fossil_picture_field_bar_cave |  
+| bip_39_word_underscore_12 | tornado_enhance_gravity_rabbit_candy_aware_fossil_picture_field_bar_cave_apology |  
+| bip_39_word_underscore_2 | tornado_enhance |  
+| bip_39_word_underscore_3 | tornado_enhance_gravity |  
+| bip_39_word_underscore_4 | tornado_enhance_gravity_rabbit |  
+| bip_39_word_underscore_5 | tornado_enhance_gravity_rabbit_candy |  
+| bip_39_word_underscore_6 | tornado_enhance_gravity_rabbit_candy_aware |  
+| bip_39_word_underscore_7 | tornado_enhance_gravity_rabbit_candy_aware_fossil |  
+| bip_39_word_underscore_8 | tornado_enhance_gravity_rabbit_candy_aware_fossil_picture |  
+| bip_39_word_underscore_9 | tornado_enhance_gravity_rabbit_candy_aware_fossil_picture_field |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

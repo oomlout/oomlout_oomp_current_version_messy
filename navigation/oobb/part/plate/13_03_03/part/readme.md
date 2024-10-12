@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | off |  
+| bip_39_word_dash_10 | off-sun-secret-proof-proud-bench-shell-gasp-crawl-jacket |  
+| bip_39_word_dash_11 | off-sun-secret-proof-proud-bench-shell-gasp-crawl-jacket-right |  
+| bip_39_word_dash_12 | off-sun-secret-proof-proud-bench-shell-gasp-crawl-jacket-right-army |  
+| bip_39_word_dash_2 | off-sun |  
+| bip_39_word_dash_3 | off-sun-secret |  
+| bip_39_word_dash_4 | off-sun-secret-proof |  
+| bip_39_word_dash_5 | off-sun-secret-proof-proud |  
+| bip_39_word_dash_6 | off-sun-secret-proof-proud-bench |  
+| bip_39_word_dash_7 | off-sun-secret-proof-proud-bench-shell |  
+| bip_39_word_dash_8 | off-sun-secret-proof-proud-bench-shell-gasp |  
+| bip_39_word_dash_9 | off-sun-secret-proof-proud-bench-shell-gasp-crawl |  
 | bip_39_word_new_br_1 | off |  
 | bip_39_word_new_br_10 | off<br>sun<br>secret<br>proof<br>proud<br>bench<br>shell<br>gasp<br>crawl<br>jacket |  
 | bip_39_word_new_br_11 | off<br>sun<br>secret<br>proof<br>proud<br>bench<br>shell<br>gasp<br>crawl<br>jacket<br>right |  
@@ -147,6 +159,18 @@ crawl |
 | bip_39_word_space_7 | off sun secret proof proud bench shell |  
 | bip_39_word_space_8 | off sun secret proof proud bench shell gasp |  
 | bip_39_word_space_9 | off sun secret proof proud bench shell gasp crawl |  
+| bip_39_word_underscore_1 | off |  
+| bip_39_word_underscore_10 | off_sun_secret_proof_proud_bench_shell_gasp_crawl_jacket |  
+| bip_39_word_underscore_11 | off_sun_secret_proof_proud_bench_shell_gasp_crawl_jacket_right |  
+| bip_39_word_underscore_12 | off_sun_secret_proof_proud_bench_shell_gasp_crawl_jacket_right_army |  
+| bip_39_word_underscore_2 | off_sun |  
+| bip_39_word_underscore_3 | off_sun_secret |  
+| bip_39_word_underscore_4 | off_sun_secret_proof |  
+| bip_39_word_underscore_5 | off_sun_secret_proof_proud |  
+| bip_39_word_underscore_6 | off_sun_secret_proof_proud_bench |  
+| bip_39_word_underscore_7 | off_sun_secret_proof_proud_bench_shell |  
+| bip_39_word_underscore_8 | off_sun_secret_proof_proud_bench_shell_gasp |  
+| bip_39_word_underscore_9 | off_sun_secret_proof_proud_bench_shell_gasp_crawl |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

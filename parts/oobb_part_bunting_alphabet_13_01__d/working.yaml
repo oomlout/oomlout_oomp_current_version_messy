@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lunar
+bip_39_word_dash_10: lunar-mom-cluster-ginger-month-saddle-gate-negative-cancel-seat
+bip_39_word_dash_11: lunar-mom-cluster-ginger-month-saddle-gate-negative-cancel-seat-cereal
+bip_39_word_dash_12: lunar-mom-cluster-ginger-month-saddle-gate-negative-cancel-seat-cereal-around
+bip_39_word_dash_2: lunar-mom
+bip_39_word_dash_3: lunar-mom-cluster
+bip_39_word_dash_4: lunar-mom-cluster-ginger
+bip_39_word_dash_5: lunar-mom-cluster-ginger-month
+bip_39_word_dash_6: lunar-mom-cluster-ginger-month-saddle
+bip_39_word_dash_7: lunar-mom-cluster-ginger-month-saddle-gate
+bip_39_word_dash_8: lunar-mom-cluster-ginger-month-saddle-gate-negative
+bip_39_word_dash_9: lunar-mom-cluster-ginger-month-saddle-gate-negative-cancel
 bip_39_word_new_br_1: lunar
 bip_39_word_new_br_10: lunar<br>mom<br>cluster<br>ginger<br>month<br>saddle<br>gate<br>negative<br>cancel<br>seat
 bip_39_word_new_br_11: lunar<br>mom<br>cluster<br>ginger<br>month<br>saddle<br>gate<br>negative<br>cancel<br>seat<br>cereal
@@ -193,6 +205,18 @@ bip_39_word_space_6: lunar mom cluster ginger month saddle
 bip_39_word_space_7: lunar mom cluster ginger month saddle gate
 bip_39_word_space_8: lunar mom cluster ginger month saddle gate negative
 bip_39_word_space_9: lunar mom cluster ginger month saddle gate negative cancel
+bip_39_word_underscore_1: lunar
+bip_39_word_underscore_10: lunar_mom_cluster_ginger_month_saddle_gate_negative_cancel_seat
+bip_39_word_underscore_11: lunar_mom_cluster_ginger_month_saddle_gate_negative_cancel_seat_cereal
+bip_39_word_underscore_12: lunar_mom_cluster_ginger_month_saddle_gate_negative_cancel_seat_cereal_around
+bip_39_word_underscore_2: lunar_mom
+bip_39_word_underscore_3: lunar_mom_cluster
+bip_39_word_underscore_4: lunar_mom_cluster_ginger
+bip_39_word_underscore_5: lunar_mom_cluster_ginger_month
+bip_39_word_underscore_6: lunar_mom_cluster_ginger_month_saddle
+bip_39_word_underscore_7: lunar_mom_cluster_ginger_month_saddle_gate
+bip_39_word_underscore_8: lunar_mom_cluster_ginger_month_saddle_gate_negative
+bip_39_word_underscore_9: lunar_mom_cluster_ginger_month_saddle_gate_negative_cancel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

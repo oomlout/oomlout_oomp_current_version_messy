@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | seek |  
+| bip_39_word_dash_10 | seek-size-clay-gravity-educate-space-butter-vague-west-edge |  
+| bip_39_word_dash_11 | seek-size-clay-gravity-educate-space-butter-vague-west-edge-clown |  
+| bip_39_word_dash_12 | seek-size-clay-gravity-educate-space-butter-vague-west-edge-clown-august |  
+| bip_39_word_dash_2 | seek-size |  
+| bip_39_word_dash_3 | seek-size-clay |  
+| bip_39_word_dash_4 | seek-size-clay-gravity |  
+| bip_39_word_dash_5 | seek-size-clay-gravity-educate |  
+| bip_39_word_dash_6 | seek-size-clay-gravity-educate-space |  
+| bip_39_word_dash_7 | seek-size-clay-gravity-educate-space-butter |  
+| bip_39_word_dash_8 | seek-size-clay-gravity-educate-space-butter-vague |  
+| bip_39_word_dash_9 | seek-size-clay-gravity-educate-space-butter-vague-west |  
 | bip_39_word_new_br_1 | seek |  
 | bip_39_word_new_br_10 | seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague<br>west<br>edge |  
 | bip_39_word_new_br_11 | seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague<br>west<br>edge<br>clown |  
@@ -147,6 +159,18 @@ west |
 | bip_39_word_space_7 | seek size clay gravity educate space butter |  
 | bip_39_word_space_8 | seek size clay gravity educate space butter vague |  
 | bip_39_word_space_9 | seek size clay gravity educate space butter vague west |  
+| bip_39_word_underscore_1 | seek |  
+| bip_39_word_underscore_10 | seek_size_clay_gravity_educate_space_butter_vague_west_edge |  
+| bip_39_word_underscore_11 | seek_size_clay_gravity_educate_space_butter_vague_west_edge_clown |  
+| bip_39_word_underscore_12 | seek_size_clay_gravity_educate_space_butter_vague_west_edge_clown_august |  
+| bip_39_word_underscore_2 | seek_size |  
+| bip_39_word_underscore_3 | seek_size_clay |  
+| bip_39_word_underscore_4 | seek_size_clay_gravity |  
+| bip_39_word_underscore_5 | seek_size_clay_gravity_educate |  
+| bip_39_word_underscore_6 | seek_size_clay_gravity_educate_space |  
+| bip_39_word_underscore_7 | seek_size_clay_gravity_educate_space_butter |  
+| bip_39_word_underscore_8 | seek_size_clay_gravity_educate_space_butter_vague |  
+| bip_39_word_underscore_9 | seek_size_clay_gravity_educate_space_butter_vague_west |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

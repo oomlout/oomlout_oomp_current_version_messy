@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wreck
+bip_39_word_dash_10: wreck-blue-laptop-flame-destroy-pelican-feature-dance-glare-inch
+bip_39_word_dash_11: wreck-blue-laptop-flame-destroy-pelican-feature-dance-glare-inch-chef
+bip_39_word_dash_12: wreck-blue-laptop-flame-destroy-pelican-feature-dance-glare-inch-chef-animal
+bip_39_word_dash_2: wreck-blue
+bip_39_word_dash_3: wreck-blue-laptop
+bip_39_word_dash_4: wreck-blue-laptop-flame
+bip_39_word_dash_5: wreck-blue-laptop-flame-destroy
+bip_39_word_dash_6: wreck-blue-laptop-flame-destroy-pelican
+bip_39_word_dash_7: wreck-blue-laptop-flame-destroy-pelican-feature
+bip_39_word_dash_8: wreck-blue-laptop-flame-destroy-pelican-feature-dance
+bip_39_word_dash_9: wreck-blue-laptop-flame-destroy-pelican-feature-dance-glare
 bip_39_word_new_br_1: wreck
 bip_39_word_new_br_10: wreck<br>blue<br>laptop<br>flame<br>destroy<br>pelican<br>feature<br>dance<br>glare<br>inch
 bip_39_word_new_br_11: wreck<br>blue<br>laptop<br>flame<br>destroy<br>pelican<br>feature<br>dance<br>glare<br>inch<br>chef
@@ -194,6 +206,18 @@ bip_39_word_space_6: wreck blue laptop flame destroy pelican
 bip_39_word_space_7: wreck blue laptop flame destroy pelican feature
 bip_39_word_space_8: wreck blue laptop flame destroy pelican feature dance
 bip_39_word_space_9: wreck blue laptop flame destroy pelican feature dance glare
+bip_39_word_underscore_1: wreck
+bip_39_word_underscore_10: wreck_blue_laptop_flame_destroy_pelican_feature_dance_glare_inch
+bip_39_word_underscore_11: wreck_blue_laptop_flame_destroy_pelican_feature_dance_glare_inch_chef
+bip_39_word_underscore_12: wreck_blue_laptop_flame_destroy_pelican_feature_dance_glare_inch_chef_animal
+bip_39_word_underscore_2: wreck_blue
+bip_39_word_underscore_3: wreck_blue_laptop
+bip_39_word_underscore_4: wreck_blue_laptop_flame
+bip_39_word_underscore_5: wreck_blue_laptop_flame_destroy
+bip_39_word_underscore_6: wreck_blue_laptop_flame_destroy_pelican
+bip_39_word_underscore_7: wreck_blue_laptop_flame_destroy_pelican_feature
+bip_39_word_underscore_8: wreck_blue_laptop_flame_destroy_pelican_feature_dance
+bip_39_word_underscore_9: wreck_blue_laptop_flame_destroy_pelican_feature_dance_glare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

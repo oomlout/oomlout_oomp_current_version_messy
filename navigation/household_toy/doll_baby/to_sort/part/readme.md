@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | morning |  
+| bip_39_word_dash_10 | morning-genre-rice-copper-edit-child-neither-urban-plastic-host |  
+| bip_39_word_dash_11 | morning-genre-rice-copper-edit-child-neither-urban-plastic-host-seven |  
+| bip_39_word_dash_12 | morning-genre-rice-copper-edit-child-neither-urban-plastic-host-seven-attract |  
+| bip_39_word_dash_2 | morning-genre |  
+| bip_39_word_dash_3 | morning-genre-rice |  
+| bip_39_word_dash_4 | morning-genre-rice-copper |  
+| bip_39_word_dash_5 | morning-genre-rice-copper-edit |  
+| bip_39_word_dash_6 | morning-genre-rice-copper-edit-child |  
+| bip_39_word_dash_7 | morning-genre-rice-copper-edit-child-neither |  
+| bip_39_word_dash_8 | morning-genre-rice-copper-edit-child-neither-urban |  
+| bip_39_word_dash_9 | morning-genre-rice-copper-edit-child-neither-urban-plastic |  
 | bip_39_word_new_br_1 | morning |  
 | bip_39_word_new_br_10 | morning<br>genre<br>rice<br>copper<br>edit<br>child<br>neither<br>urban<br>plastic<br>host |  
 | bip_39_word_new_br_11 | morning<br>genre<br>rice<br>copper<br>edit<br>child<br>neither<br>urban<br>plastic<br>host<br>seven |  
@@ -147,6 +159,18 @@ plastic |
 | bip_39_word_space_7 | morning genre rice copper edit child neither |  
 | bip_39_word_space_8 | morning genre rice copper edit child neither urban |  
 | bip_39_word_space_9 | morning genre rice copper edit child neither urban plastic |  
+| bip_39_word_underscore_1 | morning |  
+| bip_39_word_underscore_10 | morning_genre_rice_copper_edit_child_neither_urban_plastic_host |  
+| bip_39_word_underscore_11 | morning_genre_rice_copper_edit_child_neither_urban_plastic_host_seven |  
+| bip_39_word_underscore_12 | morning_genre_rice_copper_edit_child_neither_urban_plastic_host_seven_attract |  
+| bip_39_word_underscore_2 | morning_genre |  
+| bip_39_word_underscore_3 | morning_genre_rice |  
+| bip_39_word_underscore_4 | morning_genre_rice_copper |  
+| bip_39_word_underscore_5 | morning_genre_rice_copper_edit |  
+| bip_39_word_underscore_6 | morning_genre_rice_copper_edit_child |  
+| bip_39_word_underscore_7 | morning_genre_rice_copper_edit_child_neither |  
+| bip_39_word_underscore_8 | morning_genre_rice_copper_edit_child_neither_urban |  
+| bip_39_word_underscore_9 | morning_genre_rice_copper_edit_child_neither_urban_plastic |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

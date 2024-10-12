@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | police |  
+| bip_39_word_dash_10 | police-awake-motion-inspire-holiday-chase-essence-crucial-salad-giraffe |  
+| bip_39_word_dash_11 | police-awake-motion-inspire-holiday-chase-essence-crucial-salad-giraffe-cattle |  
+| bip_39_word_dash_12 | police-awake-motion-inspire-holiday-chase-essence-crucial-salad-giraffe-cattle-avocado |  
+| bip_39_word_dash_2 | police-awake |  
+| bip_39_word_dash_3 | police-awake-motion |  
+| bip_39_word_dash_4 | police-awake-motion-inspire |  
+| bip_39_word_dash_5 | police-awake-motion-inspire-holiday |  
+| bip_39_word_dash_6 | police-awake-motion-inspire-holiday-chase |  
+| bip_39_word_dash_7 | police-awake-motion-inspire-holiday-chase-essence |  
+| bip_39_word_dash_8 | police-awake-motion-inspire-holiday-chase-essence-crucial |  
+| bip_39_word_dash_9 | police-awake-motion-inspire-holiday-chase-essence-crucial-salad |  
 | bip_39_word_new_br_1 | police |  
 | bip_39_word_new_br_10 | police<br>awake<br>motion<br>inspire<br>holiday<br>chase<br>essence<br>crucial<br>salad<br>giraffe |  
 | bip_39_word_new_br_11 | police<br>awake<br>motion<br>inspire<br>holiday<br>chase<br>essence<br>crucial<br>salad<br>giraffe<br>cattle |  
@@ -147,6 +159,18 @@ salad |
 | bip_39_word_space_7 | police awake motion inspire holiday chase essence |  
 | bip_39_word_space_8 | police awake motion inspire holiday chase essence crucial |  
 | bip_39_word_space_9 | police awake motion inspire holiday chase essence crucial salad |  
+| bip_39_word_underscore_1 | police |  
+| bip_39_word_underscore_10 | police_awake_motion_inspire_holiday_chase_essence_crucial_salad_giraffe |  
+| bip_39_word_underscore_11 | police_awake_motion_inspire_holiday_chase_essence_crucial_salad_giraffe_cattle |  
+| bip_39_word_underscore_12 | police_awake_motion_inspire_holiday_chase_essence_crucial_salad_giraffe_cattle_avocado |  
+| bip_39_word_underscore_2 | police_awake |  
+| bip_39_word_underscore_3 | police_awake_motion |  
+| bip_39_word_underscore_4 | police_awake_motion_inspire |  
+| bip_39_word_underscore_5 | police_awake_motion_inspire_holiday |  
+| bip_39_word_underscore_6 | police_awake_motion_inspire_holiday_chase |  
+| bip_39_word_underscore_7 | police_awake_motion_inspire_holiday_chase_essence |  
+| bip_39_word_underscore_8 | police_awake_motion_inspire_holiday_chase_essence_crucial |  
+| bip_39_word_underscore_9 | police_awake_motion_inspire_holiday_chase_essence_crucial_salad |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fashion |  
+| bip_39_word_dash_10 | fashion-episode-auto-attract-health-blur-loop-ribbon-hip-staff |  
+| bip_39_word_dash_11 | fashion-episode-auto-attract-health-blur-loop-ribbon-hip-staff-drift |  
+| bip_39_word_dash_12 | fashion-episode-auto-attract-health-blur-loop-ribbon-hip-staff-drift-apart |  
+| bip_39_word_dash_2 | fashion-episode |  
+| bip_39_word_dash_3 | fashion-episode-auto |  
+| bip_39_word_dash_4 | fashion-episode-auto-attract |  
+| bip_39_word_dash_5 | fashion-episode-auto-attract-health |  
+| bip_39_word_dash_6 | fashion-episode-auto-attract-health-blur |  
+| bip_39_word_dash_7 | fashion-episode-auto-attract-health-blur-loop |  
+| bip_39_word_dash_8 | fashion-episode-auto-attract-health-blur-loop-ribbon |  
+| bip_39_word_dash_9 | fashion-episode-auto-attract-health-blur-loop-ribbon-hip |  
 | bip_39_word_new_br_1 | fashion |  
 | bip_39_word_new_br_10 | fashion<br>episode<br>auto<br>attract<br>health<br>blur<br>loop<br>ribbon<br>hip<br>staff |  
 | bip_39_word_new_br_11 | fashion<br>episode<br>auto<br>attract<br>health<br>blur<br>loop<br>ribbon<br>hip<br>staff<br>drift |  
@@ -147,6 +159,18 @@ hip |
 | bip_39_word_space_7 | fashion episode auto attract health blur loop |  
 | bip_39_word_space_8 | fashion episode auto attract health blur loop ribbon |  
 | bip_39_word_space_9 | fashion episode auto attract health blur loop ribbon hip |  
+| bip_39_word_underscore_1 | fashion |  
+| bip_39_word_underscore_10 | fashion_episode_auto_attract_health_blur_loop_ribbon_hip_staff |  
+| bip_39_word_underscore_11 | fashion_episode_auto_attract_health_blur_loop_ribbon_hip_staff_drift |  
+| bip_39_word_underscore_12 | fashion_episode_auto_attract_health_blur_loop_ribbon_hip_staff_drift_apart |  
+| bip_39_word_underscore_2 | fashion_episode |  
+| bip_39_word_underscore_3 | fashion_episode_auto |  
+| bip_39_word_underscore_4 | fashion_episode_auto_attract |  
+| bip_39_word_underscore_5 | fashion_episode_auto_attract_health |  
+| bip_39_word_underscore_6 | fashion_episode_auto_attract_health_blur |  
+| bip_39_word_underscore_7 | fashion_episode_auto_attract_health_blur_loop |  
+| bip_39_word_underscore_8 | fashion_episode_auto_attract_health_blur_loop_ribbon |  
+| bip_39_word_underscore_9 | fashion_episode_auto_attract_health_blur_loop_ribbon_hip |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

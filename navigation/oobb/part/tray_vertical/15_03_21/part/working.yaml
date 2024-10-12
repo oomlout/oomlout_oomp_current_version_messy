@@ -1,3 +1,15 @@
+bip_39_word_dash_1: promote
+bip_39_word_dash_10: promote-pencil-more-ginger-fat-lab-morning-satisfy-crunch-process
+bip_39_word_dash_11: promote-pencil-more-ginger-fat-lab-morning-satisfy-crunch-process-poem
+bip_39_word_dash_12: promote-pencil-more-ginger-fat-lab-morning-satisfy-crunch-process-poem-advance
+bip_39_word_dash_2: promote-pencil
+bip_39_word_dash_3: promote-pencil-more
+bip_39_word_dash_4: promote-pencil-more-ginger
+bip_39_word_dash_5: promote-pencil-more-ginger-fat
+bip_39_word_dash_6: promote-pencil-more-ginger-fat-lab
+bip_39_word_dash_7: promote-pencil-more-ginger-fat-lab-morning
+bip_39_word_dash_8: promote-pencil-more-ginger-fat-lab-morning-satisfy
+bip_39_word_dash_9: promote-pencil-more-ginger-fat-lab-morning-satisfy-crunch
 bip_39_word_new_br_1: promote
 bip_39_word_new_br_10: promote<br>pencil<br>more<br>ginger<br>fat<br>lab<br>morning<br>satisfy<br>crunch<br>process
 bip_39_word_new_br_11: promote<br>pencil<br>more<br>ginger<br>fat<br>lab<br>morning<br>satisfy<br>crunch<br>process<br>poem
@@ -193,6 +205,18 @@ bip_39_word_space_6: promote pencil more ginger fat lab
 bip_39_word_space_7: promote pencil more ginger fat lab morning
 bip_39_word_space_8: promote pencil more ginger fat lab morning satisfy
 bip_39_word_space_9: promote pencil more ginger fat lab morning satisfy crunch
+bip_39_word_underscore_1: promote
+bip_39_word_underscore_10: promote_pencil_more_ginger_fat_lab_morning_satisfy_crunch_process
+bip_39_word_underscore_11: promote_pencil_more_ginger_fat_lab_morning_satisfy_crunch_process_poem
+bip_39_word_underscore_12: promote_pencil_more_ginger_fat_lab_morning_satisfy_crunch_process_poem_advance
+bip_39_word_underscore_2: promote_pencil
+bip_39_word_underscore_3: promote_pencil_more
+bip_39_word_underscore_4: promote_pencil_more_ginger
+bip_39_word_underscore_5: promote_pencil_more_ginger_fat
+bip_39_word_underscore_6: promote_pencil_more_ginger_fat_lab
+bip_39_word_underscore_7: promote_pencil_more_ginger_fat_lab_morning
+bip_39_word_underscore_8: promote_pencil_more_ginger_fat_lab_morning_satisfy
+bip_39_word_underscore_9: promote_pencil_more_ginger_fat_lab_morning_satisfy_crunch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

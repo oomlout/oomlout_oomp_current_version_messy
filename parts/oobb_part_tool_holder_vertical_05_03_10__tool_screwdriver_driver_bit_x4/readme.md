@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rely |  
+| bip_39_word_dash_10 | rely-napkin-today-lounge-afraid-custom-include-barely-hammer-museum |  
+| bip_39_word_dash_11 | rely-napkin-today-lounge-afraid-custom-include-barely-hammer-museum-zero |  
+| bip_39_word_dash_12 | rely-napkin-today-lounge-afraid-custom-include-barely-hammer-museum-zero-adult |  
+| bip_39_word_dash_2 | rely-napkin |  
+| bip_39_word_dash_3 | rely-napkin-today |  
+| bip_39_word_dash_4 | rely-napkin-today-lounge |  
+| bip_39_word_dash_5 | rely-napkin-today-lounge-afraid |  
+| bip_39_word_dash_6 | rely-napkin-today-lounge-afraid-custom |  
+| bip_39_word_dash_7 | rely-napkin-today-lounge-afraid-custom-include |  
+| bip_39_word_dash_8 | rely-napkin-today-lounge-afraid-custom-include-barely |  
+| bip_39_word_dash_9 | rely-napkin-today-lounge-afraid-custom-include-barely-hammer |  
 | bip_39_word_new_br_1 | rely |  
 | bip_39_word_new_br_10 | rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely<br>hammer<br>museum |  
 | bip_39_word_new_br_11 | rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely<br>hammer<br>museum<br>zero |  
@@ -147,6 +159,18 @@ hammer |
 | bip_39_word_space_7 | rely napkin today lounge afraid custom include |  
 | bip_39_word_space_8 | rely napkin today lounge afraid custom include barely |  
 | bip_39_word_space_9 | rely napkin today lounge afraid custom include barely hammer |  
+| bip_39_word_underscore_1 | rely |  
+| bip_39_word_underscore_10 | rely_napkin_today_lounge_afraid_custom_include_barely_hammer_museum |  
+| bip_39_word_underscore_11 | rely_napkin_today_lounge_afraid_custom_include_barely_hammer_museum_zero |  
+| bip_39_word_underscore_12 | rely_napkin_today_lounge_afraid_custom_include_barely_hammer_museum_zero_adult |  
+| bip_39_word_underscore_2 | rely_napkin |  
+| bip_39_word_underscore_3 | rely_napkin_today |  
+| bip_39_word_underscore_4 | rely_napkin_today_lounge |  
+| bip_39_word_underscore_5 | rely_napkin_today_lounge_afraid |  
+| bip_39_word_underscore_6 | rely_napkin_today_lounge_afraid_custom |  
+| bip_39_word_underscore_7 | rely_napkin_today_lounge_afraid_custom_include |  
+| bip_39_word_underscore_8 | rely_napkin_today_lounge_afraid_custom_include_barely |  
+| bip_39_word_underscore_9 | rely_napkin_today_lounge_afraid_custom_include_barely_hammer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skin |  
+| bip_39_word_dash_10 | skin-casual-length-remove-math-stereo-script-hover-shell-explain |  
+| bip_39_word_dash_11 | skin-casual-length-remove-math-stereo-script-hover-shell-explain-average |  
+| bip_39_word_dash_12 | skin-casual-length-remove-math-stereo-script-hover-shell-explain-average-arrange |  
+| bip_39_word_dash_2 | skin-casual |  
+| bip_39_word_dash_3 | skin-casual-length |  
+| bip_39_word_dash_4 | skin-casual-length-remove |  
+| bip_39_word_dash_5 | skin-casual-length-remove-math |  
+| bip_39_word_dash_6 | skin-casual-length-remove-math-stereo |  
+| bip_39_word_dash_7 | skin-casual-length-remove-math-stereo-script |  
+| bip_39_word_dash_8 | skin-casual-length-remove-math-stereo-script-hover |  
+| bip_39_word_dash_9 | skin-casual-length-remove-math-stereo-script-hover-shell |  
 | bip_39_word_new_br_1 | skin |  
 | bip_39_word_new_br_10 | skin<br>casual<br>length<br>remove<br>math<br>stereo<br>script<br>hover<br>shell<br>explain |  
 | bip_39_word_new_br_11 | skin<br>casual<br>length<br>remove<br>math<br>stereo<br>script<br>hover<br>shell<br>explain<br>average |  
@@ -147,6 +159,18 @@ shell |
 | bip_39_word_space_7 | skin casual length remove math stereo script |  
 | bip_39_word_space_8 | skin casual length remove math stereo script hover |  
 | bip_39_word_space_9 | skin casual length remove math stereo script hover shell |  
+| bip_39_word_underscore_1 | skin |  
+| bip_39_word_underscore_10 | skin_casual_length_remove_math_stereo_script_hover_shell_explain |  
+| bip_39_word_underscore_11 | skin_casual_length_remove_math_stereo_script_hover_shell_explain_average |  
+| bip_39_word_underscore_12 | skin_casual_length_remove_math_stereo_script_hover_shell_explain_average_arrange |  
+| bip_39_word_underscore_2 | skin_casual |  
+| bip_39_word_underscore_3 | skin_casual_length |  
+| bip_39_word_underscore_4 | skin_casual_length_remove |  
+| bip_39_word_underscore_5 | skin_casual_length_remove_math |  
+| bip_39_word_underscore_6 | skin_casual_length_remove_math_stereo |  
+| bip_39_word_underscore_7 | skin_casual_length_remove_math_stereo_script |  
+| bip_39_word_underscore_8 | skin_casual_length_remove_math_stereo_script_hover |  
+| bip_39_word_underscore_9 | skin_casual_length_remove_math_stereo_script_hover_shell |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

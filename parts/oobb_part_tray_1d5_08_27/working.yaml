@@ -1,3 +1,15 @@
+bip_39_word_dash_1: upset
+bip_39_word_dash_10: upset-repair-shove-limb-skate-inmate-sausage-kangaroo-edit-swamp
+bip_39_word_dash_11: upset-repair-shove-limb-skate-inmate-sausage-kangaroo-edit-swamp-very
+bip_39_word_dash_12: upset-repair-shove-limb-skate-inmate-sausage-kangaroo-edit-swamp-very-already
+bip_39_word_dash_2: upset-repair
+bip_39_word_dash_3: upset-repair-shove
+bip_39_word_dash_4: upset-repair-shove-limb
+bip_39_word_dash_5: upset-repair-shove-limb-skate
+bip_39_word_dash_6: upset-repair-shove-limb-skate-inmate
+bip_39_word_dash_7: upset-repair-shove-limb-skate-inmate-sausage
+bip_39_word_dash_8: upset-repair-shove-limb-skate-inmate-sausage-kangaroo
+bip_39_word_dash_9: upset-repair-shove-limb-skate-inmate-sausage-kangaroo-edit
 bip_39_word_new_br_1: upset
 bip_39_word_new_br_10: upset<br>repair<br>shove<br>limb<br>skate<br>inmate<br>sausage<br>kangaroo<br>edit<br>swamp
 bip_39_word_new_br_11: upset<br>repair<br>shove<br>limb<br>skate<br>inmate<br>sausage<br>kangaroo<br>edit<br>swamp<br>very
@@ -193,6 +205,18 @@ bip_39_word_space_6: upset repair shove limb skate inmate
 bip_39_word_space_7: upset repair shove limb skate inmate sausage
 bip_39_word_space_8: upset repair shove limb skate inmate sausage kangaroo
 bip_39_word_space_9: upset repair shove limb skate inmate sausage kangaroo edit
+bip_39_word_underscore_1: upset
+bip_39_word_underscore_10: upset_repair_shove_limb_skate_inmate_sausage_kangaroo_edit_swamp
+bip_39_word_underscore_11: upset_repair_shove_limb_skate_inmate_sausage_kangaroo_edit_swamp_very
+bip_39_word_underscore_12: upset_repair_shove_limb_skate_inmate_sausage_kangaroo_edit_swamp_very_already
+bip_39_word_underscore_2: upset_repair
+bip_39_word_underscore_3: upset_repair_shove
+bip_39_word_underscore_4: upset_repair_shove_limb
+bip_39_word_underscore_5: upset_repair_shove_limb_skate
+bip_39_word_underscore_6: upset_repair_shove_limb_skate_inmate
+bip_39_word_underscore_7: upset_repair_shove_limb_skate_inmate_sausage
+bip_39_word_underscore_8: upset_repair_shove_limb_skate_inmate_sausage_kangaroo
+bip_39_word_underscore_9: upset_repair_shove_limb_skate_inmate_sausage_kangaroo_edit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

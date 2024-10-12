@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | render |  
+| bip_39_word_dash_10 | render-urge-thumb-orient-taxi-romance-coconut-sting-magnet-bacon |  
+| bip_39_word_dash_11 | render-urge-thumb-orient-taxi-romance-coconut-sting-magnet-bacon-knife |  
+| bip_39_word_dash_12 | render-urge-thumb-orient-taxi-romance-coconut-sting-magnet-bacon-knife-animal |  
+| bip_39_word_dash_2 | render-urge |  
+| bip_39_word_dash_3 | render-urge-thumb |  
+| bip_39_word_dash_4 | render-urge-thumb-orient |  
+| bip_39_word_dash_5 | render-urge-thumb-orient-taxi |  
+| bip_39_word_dash_6 | render-urge-thumb-orient-taxi-romance |  
+| bip_39_word_dash_7 | render-urge-thumb-orient-taxi-romance-coconut |  
+| bip_39_word_dash_8 | render-urge-thumb-orient-taxi-romance-coconut-sting |  
+| bip_39_word_dash_9 | render-urge-thumb-orient-taxi-romance-coconut-sting-magnet |  
 | bip_39_word_new_br_1 | render |  
 | bip_39_word_new_br_10 | render<br>urge<br>thumb<br>orient<br>taxi<br>romance<br>coconut<br>sting<br>magnet<br>bacon |  
 | bip_39_word_new_br_11 | render<br>urge<br>thumb<br>orient<br>taxi<br>romance<br>coconut<br>sting<br>magnet<br>bacon<br>knife |  
@@ -147,6 +159,18 @@ magnet |
 | bip_39_word_space_7 | render urge thumb orient taxi romance coconut |  
 | bip_39_word_space_8 | render urge thumb orient taxi romance coconut sting |  
 | bip_39_word_space_9 | render urge thumb orient taxi romance coconut sting magnet |  
+| bip_39_word_underscore_1 | render |  
+| bip_39_word_underscore_10 | render_urge_thumb_orient_taxi_romance_coconut_sting_magnet_bacon |  
+| bip_39_word_underscore_11 | render_urge_thumb_orient_taxi_romance_coconut_sting_magnet_bacon_knife |  
+| bip_39_word_underscore_12 | render_urge_thumb_orient_taxi_romance_coconut_sting_magnet_bacon_knife_animal |  
+| bip_39_word_underscore_2 | render_urge |  
+| bip_39_word_underscore_3 | render_urge_thumb |  
+| bip_39_word_underscore_4 | render_urge_thumb_orient |  
+| bip_39_word_underscore_5 | render_urge_thumb_orient_taxi |  
+| bip_39_word_underscore_6 | render_urge_thumb_orient_taxi_romance |  
+| bip_39_word_underscore_7 | render_urge_thumb_orient_taxi_romance_coconut |  
+| bip_39_word_underscore_8 | render_urge_thumb_orient_taxi_romance_coconut_sting |  
+| bip_39_word_underscore_9 | render_urge_thumb_orient_taxi_romance_coconut_sting_magnet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

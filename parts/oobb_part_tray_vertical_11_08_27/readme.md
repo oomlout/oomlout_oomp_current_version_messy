@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sleep |  
+| bip_39_word_dash_10 | sleep-fault-disagree-release-suffer-display-film-keen-devote-baby |  
+| bip_39_word_dash_11 | sleep-fault-disagree-release-suffer-display-film-keen-devote-baby-tide |  
+| bip_39_word_dash_12 | sleep-fault-disagree-release-suffer-display-film-keen-devote-baby-tide-atom |  
+| bip_39_word_dash_2 | sleep-fault |  
+| bip_39_word_dash_3 | sleep-fault-disagree |  
+| bip_39_word_dash_4 | sleep-fault-disagree-release |  
+| bip_39_word_dash_5 | sleep-fault-disagree-release-suffer |  
+| bip_39_word_dash_6 | sleep-fault-disagree-release-suffer-display |  
+| bip_39_word_dash_7 | sleep-fault-disagree-release-suffer-display-film |  
+| bip_39_word_dash_8 | sleep-fault-disagree-release-suffer-display-film-keen |  
+| bip_39_word_dash_9 | sleep-fault-disagree-release-suffer-display-film-keen-devote |  
 | bip_39_word_new_br_1 | sleep |  
 | bip_39_word_new_br_10 | sleep<br>fault<br>disagree<br>release<br>suffer<br>display<br>film<br>keen<br>devote<br>baby |  
 | bip_39_word_new_br_11 | sleep<br>fault<br>disagree<br>release<br>suffer<br>display<br>film<br>keen<br>devote<br>baby<br>tide |  
@@ -147,6 +159,18 @@ devote |
 | bip_39_word_space_7 | sleep fault disagree release suffer display film |  
 | bip_39_word_space_8 | sleep fault disagree release suffer display film keen |  
 | bip_39_word_space_9 | sleep fault disagree release suffer display film keen devote |  
+| bip_39_word_underscore_1 | sleep |  
+| bip_39_word_underscore_10 | sleep_fault_disagree_release_suffer_display_film_keen_devote_baby |  
+| bip_39_word_underscore_11 | sleep_fault_disagree_release_suffer_display_film_keen_devote_baby_tide |  
+| bip_39_word_underscore_12 | sleep_fault_disagree_release_suffer_display_film_keen_devote_baby_tide_atom |  
+| bip_39_word_underscore_2 | sleep_fault |  
+| bip_39_word_underscore_3 | sleep_fault_disagree |  
+| bip_39_word_underscore_4 | sleep_fault_disagree_release |  
+| bip_39_word_underscore_5 | sleep_fault_disagree_release_suffer |  
+| bip_39_word_underscore_6 | sleep_fault_disagree_release_suffer_display |  
+| bip_39_word_underscore_7 | sleep_fault_disagree_release_suffer_display_film |  
+| bip_39_word_underscore_8 | sleep_fault_disagree_release_suffer_display_film_keen |  
+| bip_39_word_underscore_9 | sleep_fault_disagree_release_suffer_display_film_keen_devote |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

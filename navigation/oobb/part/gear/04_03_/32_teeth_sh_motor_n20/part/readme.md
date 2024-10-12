@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | space |  
+| bip_39_word_dash_10 | space-raise-device-kite-have-invite-wheel-lava-inner-buzz |  
+| bip_39_word_dash_11 | space-raise-device-kite-have-invite-wheel-lava-inner-buzz-link |  
+| bip_39_word_dash_12 | space-raise-device-kite-have-invite-wheel-lava-inner-buzz-link-audit |  
+| bip_39_word_dash_2 | space-raise |  
+| bip_39_word_dash_3 | space-raise-device |  
+| bip_39_word_dash_4 | space-raise-device-kite |  
+| bip_39_word_dash_5 | space-raise-device-kite-have |  
+| bip_39_word_dash_6 | space-raise-device-kite-have-invite |  
+| bip_39_word_dash_7 | space-raise-device-kite-have-invite-wheel |  
+| bip_39_word_dash_8 | space-raise-device-kite-have-invite-wheel-lava |  
+| bip_39_word_dash_9 | space-raise-device-kite-have-invite-wheel-lava-inner |  
 | bip_39_word_new_br_1 | space |  
 | bip_39_word_new_br_10 | space<br>raise<br>device<br>kite<br>have<br>invite<br>wheel<br>lava<br>inner<br>buzz |  
 | bip_39_word_new_br_11 | space<br>raise<br>device<br>kite<br>have<br>invite<br>wheel<br>lava<br>inner<br>buzz<br>link |  
@@ -147,6 +159,18 @@ inner |
 | bip_39_word_space_7 | space raise device kite have invite wheel |  
 | bip_39_word_space_8 | space raise device kite have invite wheel lava |  
 | bip_39_word_space_9 | space raise device kite have invite wheel lava inner |  
+| bip_39_word_underscore_1 | space |  
+| bip_39_word_underscore_10 | space_raise_device_kite_have_invite_wheel_lava_inner_buzz |  
+| bip_39_word_underscore_11 | space_raise_device_kite_have_invite_wheel_lava_inner_buzz_link |  
+| bip_39_word_underscore_12 | space_raise_device_kite_have_invite_wheel_lava_inner_buzz_link_audit |  
+| bip_39_word_underscore_2 | space_raise |  
+| bip_39_word_underscore_3 | space_raise_device |  
+| bip_39_word_underscore_4 | space_raise_device_kite |  
+| bip_39_word_underscore_5 | space_raise_device_kite_have |  
+| bip_39_word_underscore_6 | space_raise_device_kite_have_invite |  
+| bip_39_word_underscore_7 | space_raise_device_kite_have_invite_wheel |  
+| bip_39_word_underscore_8 | space_raise_device_kite_have_invite_wheel_lava |  
+| bip_39_word_underscore_9 | space_raise_device_kite_have_invite_wheel_lava_inner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

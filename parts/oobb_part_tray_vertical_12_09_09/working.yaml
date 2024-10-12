@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vote
+bip_39_word_dash_10: vote-image-legend-awesome-street-direct-supreme-poem-abandon-group
+bip_39_word_dash_11: vote-image-legend-awesome-street-direct-supreme-poem-abandon-group-know
+bip_39_word_dash_12: vote-image-legend-awesome-street-direct-supreme-poem-abandon-group-know-ankle
+bip_39_word_dash_2: vote-image
+bip_39_word_dash_3: vote-image-legend
+bip_39_word_dash_4: vote-image-legend-awesome
+bip_39_word_dash_5: vote-image-legend-awesome-street
+bip_39_word_dash_6: vote-image-legend-awesome-street-direct
+bip_39_word_dash_7: vote-image-legend-awesome-street-direct-supreme
+bip_39_word_dash_8: vote-image-legend-awesome-street-direct-supreme-poem
+bip_39_word_dash_9: vote-image-legend-awesome-street-direct-supreme-poem-abandon
 bip_39_word_new_br_1: vote
 bip_39_word_new_br_10: vote<br>image<br>legend<br>awesome<br>street<br>direct<br>supreme<br>poem<br>abandon<br>group
 bip_39_word_new_br_11: vote<br>image<br>legend<br>awesome<br>street<br>direct<br>supreme<br>poem<br>abandon<br>group<br>know
@@ -194,6 +206,18 @@ bip_39_word_space_6: vote image legend awesome street direct
 bip_39_word_space_7: vote image legend awesome street direct supreme
 bip_39_word_space_8: vote image legend awesome street direct supreme poem
 bip_39_word_space_9: vote image legend awesome street direct supreme poem abandon
+bip_39_word_underscore_1: vote
+bip_39_word_underscore_10: vote_image_legend_awesome_street_direct_supreme_poem_abandon_group
+bip_39_word_underscore_11: vote_image_legend_awesome_street_direct_supreme_poem_abandon_group_know
+bip_39_word_underscore_12: vote_image_legend_awesome_street_direct_supreme_poem_abandon_group_know_ankle
+bip_39_word_underscore_2: vote_image
+bip_39_word_underscore_3: vote_image_legend
+bip_39_word_underscore_4: vote_image_legend_awesome
+bip_39_word_underscore_5: vote_image_legend_awesome_street
+bip_39_word_underscore_6: vote_image_legend_awesome_street_direct
+bip_39_word_underscore_7: vote_image_legend_awesome_street_direct_supreme
+bip_39_word_underscore_8: vote_image_legend_awesome_street_direct_supreme_poem
+bip_39_word_underscore_9: vote_image_legend_awesome_street_direct_supreme_poem_abandon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

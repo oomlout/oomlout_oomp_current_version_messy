@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gun
+bip_39_word_dash_10: gun-night-logic-project-toddler-imitate-mail-announce-flight-enrich
+bip_39_word_dash_11: gun-night-logic-project-toddler-imitate-mail-announce-flight-enrich-food
+bip_39_word_dash_12: gun-night-logic-project-toddler-imitate-mail-announce-flight-enrich-food-area
+bip_39_word_dash_2: gun-night
+bip_39_word_dash_3: gun-night-logic
+bip_39_word_dash_4: gun-night-logic-project
+bip_39_word_dash_5: gun-night-logic-project-toddler
+bip_39_word_dash_6: gun-night-logic-project-toddler-imitate
+bip_39_word_dash_7: gun-night-logic-project-toddler-imitate-mail
+bip_39_word_dash_8: gun-night-logic-project-toddler-imitate-mail-announce
+bip_39_word_dash_9: gun-night-logic-project-toddler-imitate-mail-announce-flight
 bip_39_word_new_br_1: gun
 bip_39_word_new_br_10: gun<br>night<br>logic<br>project<br>toddler<br>imitate<br>mail<br>announce<br>flight<br>enrich
 bip_39_word_new_br_11: gun<br>night<br>logic<br>project<br>toddler<br>imitate<br>mail<br>announce<br>flight<br>enrich<br>food
@@ -194,6 +206,18 @@ bip_39_word_space_6: gun night logic project toddler imitate
 bip_39_word_space_7: gun night logic project toddler imitate mail
 bip_39_word_space_8: gun night logic project toddler imitate mail announce
 bip_39_word_space_9: gun night logic project toddler imitate mail announce flight
+bip_39_word_underscore_1: gun
+bip_39_word_underscore_10: gun_night_logic_project_toddler_imitate_mail_announce_flight_enrich
+bip_39_word_underscore_11: gun_night_logic_project_toddler_imitate_mail_announce_flight_enrich_food
+bip_39_word_underscore_12: gun_night_logic_project_toddler_imitate_mail_announce_flight_enrich_food_area
+bip_39_word_underscore_2: gun_night
+bip_39_word_underscore_3: gun_night_logic
+bip_39_word_underscore_4: gun_night_logic_project
+bip_39_word_underscore_5: gun_night_logic_project_toddler
+bip_39_word_underscore_6: gun_night_logic_project_toddler_imitate
+bip_39_word_underscore_7: gun_night_logic_project_toddler_imitate_mail
+bip_39_word_underscore_8: gun_night_logic_project_toddler_imitate_mail_announce
+bip_39_word_underscore_9: gun_night_logic_project_toddler_imitate_mail_announce_flight
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

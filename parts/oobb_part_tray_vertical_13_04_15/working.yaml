@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clump
+bip_39_word_dash_10: clump-swarm-pause-wagon-tuition-special-begin-purity-creek-salon
+bip_39_word_dash_11: clump-swarm-pause-wagon-tuition-special-begin-purity-creek-salon-measure
+bip_39_word_dash_12: clump-swarm-pause-wagon-tuition-special-begin-purity-creek-salon-measure-angle
+bip_39_word_dash_2: clump-swarm
+bip_39_word_dash_3: clump-swarm-pause
+bip_39_word_dash_4: clump-swarm-pause-wagon
+bip_39_word_dash_5: clump-swarm-pause-wagon-tuition
+bip_39_word_dash_6: clump-swarm-pause-wagon-tuition-special
+bip_39_word_dash_7: clump-swarm-pause-wagon-tuition-special-begin
+bip_39_word_dash_8: clump-swarm-pause-wagon-tuition-special-begin-purity
+bip_39_word_dash_9: clump-swarm-pause-wagon-tuition-special-begin-purity-creek
 bip_39_word_new_br_1: clump
 bip_39_word_new_br_10: clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity<br>creek<br>salon
 bip_39_word_new_br_11: clump<br>swarm<br>pause<br>wagon<br>tuition<br>special<br>begin<br>purity<br>creek<br>salon<br>measure
@@ -193,6 +205,18 @@ bip_39_word_space_6: clump swarm pause wagon tuition special
 bip_39_word_space_7: clump swarm pause wagon tuition special begin
 bip_39_word_space_8: clump swarm pause wagon tuition special begin purity
 bip_39_word_space_9: clump swarm pause wagon tuition special begin purity creek
+bip_39_word_underscore_1: clump
+bip_39_word_underscore_10: clump_swarm_pause_wagon_tuition_special_begin_purity_creek_salon
+bip_39_word_underscore_11: clump_swarm_pause_wagon_tuition_special_begin_purity_creek_salon_measure
+bip_39_word_underscore_12: clump_swarm_pause_wagon_tuition_special_begin_purity_creek_salon_measure_angle
+bip_39_word_underscore_2: clump_swarm
+bip_39_word_underscore_3: clump_swarm_pause
+bip_39_word_underscore_4: clump_swarm_pause_wagon
+bip_39_word_underscore_5: clump_swarm_pause_wagon_tuition
+bip_39_word_underscore_6: clump_swarm_pause_wagon_tuition_special
+bip_39_word_underscore_7: clump_swarm_pause_wagon_tuition_special_begin
+bip_39_word_underscore_8: clump_swarm_pause_wagon_tuition_special_begin_purity
+bip_39_word_underscore_9: clump_swarm_pause_wagon_tuition_special_begin_purity_creek
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | violin |  
+| bip_39_word_dash_10 | violin-primary-debate-neck-mosquito-royal-zoo-glance-around-remove |  
+| bip_39_word_dash_11 | violin-primary-debate-neck-mosquito-royal-zoo-glance-around-remove-tag |  
+| bip_39_word_dash_12 | violin-primary-debate-neck-mosquito-royal-zoo-glance-around-remove-tag-afford |  
+| bip_39_word_dash_2 | violin-primary |  
+| bip_39_word_dash_3 | violin-primary-debate |  
+| bip_39_word_dash_4 | violin-primary-debate-neck |  
+| bip_39_word_dash_5 | violin-primary-debate-neck-mosquito |  
+| bip_39_word_dash_6 | violin-primary-debate-neck-mosquito-royal |  
+| bip_39_word_dash_7 | violin-primary-debate-neck-mosquito-royal-zoo |  
+| bip_39_word_dash_8 | violin-primary-debate-neck-mosquito-royal-zoo-glance |  
+| bip_39_word_dash_9 | violin-primary-debate-neck-mosquito-royal-zoo-glance-around |  
 | bip_39_word_new_br_1 | violin |  
 | bip_39_word_new_br_10 | violin<br>primary<br>debate<br>neck<br>mosquito<br>royal<br>zoo<br>glance<br>around<br>remove |  
 | bip_39_word_new_br_11 | violin<br>primary<br>debate<br>neck<br>mosquito<br>royal<br>zoo<br>glance<br>around<br>remove<br>tag |  
@@ -147,6 +159,18 @@ around |
 | bip_39_word_space_7 | violin primary debate neck mosquito royal zoo |  
 | bip_39_word_space_8 | violin primary debate neck mosquito royal zoo glance |  
 | bip_39_word_space_9 | violin primary debate neck mosquito royal zoo glance around |  
+| bip_39_word_underscore_1 | violin |  
+| bip_39_word_underscore_10 | violin_primary_debate_neck_mosquito_royal_zoo_glance_around_remove |  
+| bip_39_word_underscore_11 | violin_primary_debate_neck_mosquito_royal_zoo_glance_around_remove_tag |  
+| bip_39_word_underscore_12 | violin_primary_debate_neck_mosquito_royal_zoo_glance_around_remove_tag_afford |  
+| bip_39_word_underscore_2 | violin_primary |  
+| bip_39_word_underscore_3 | violin_primary_debate |  
+| bip_39_word_underscore_4 | violin_primary_debate_neck |  
+| bip_39_word_underscore_5 | violin_primary_debate_neck_mosquito |  
+| bip_39_word_underscore_6 | violin_primary_debate_neck_mosquito_royal |  
+| bip_39_word_underscore_7 | violin_primary_debate_neck_mosquito_royal_zoo |  
+| bip_39_word_underscore_8 | violin_primary_debate_neck_mosquito_royal_zoo_glance |  
+| bip_39_word_underscore_9 | violin_primary_debate_neck_mosquito_royal_zoo_glance_around |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ill
+bip_39_word_dash_10: ill-spell-perfect-swap-proof-police-viable-hurdle-hammer-more
+bip_39_word_dash_11: ill-spell-perfect-swap-proof-police-viable-hurdle-hammer-more-decorate
+bip_39_word_dash_12: ill-spell-perfect-swap-proof-police-viable-hurdle-hammer-more-decorate-asthma
+bip_39_word_dash_2: ill-spell
+bip_39_word_dash_3: ill-spell-perfect
+bip_39_word_dash_4: ill-spell-perfect-swap
+bip_39_word_dash_5: ill-spell-perfect-swap-proof
+bip_39_word_dash_6: ill-spell-perfect-swap-proof-police
+bip_39_word_dash_7: ill-spell-perfect-swap-proof-police-viable
+bip_39_word_dash_8: ill-spell-perfect-swap-proof-police-viable-hurdle
+bip_39_word_dash_9: ill-spell-perfect-swap-proof-police-viable-hurdle-hammer
 bip_39_word_new_br_1: ill
 bip_39_word_new_br_10: ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle<br>hammer<br>more
 bip_39_word_new_br_11: ill<br>spell<br>perfect<br>swap<br>proof<br>police<br>viable<br>hurdle<br>hammer<br>more<br>decorate
@@ -193,6 +205,18 @@ bip_39_word_space_6: ill spell perfect swap proof police
 bip_39_word_space_7: ill spell perfect swap proof police viable
 bip_39_word_space_8: ill spell perfect swap proof police viable hurdle
 bip_39_word_space_9: ill spell perfect swap proof police viable hurdle hammer
+bip_39_word_underscore_1: ill
+bip_39_word_underscore_10: ill_spell_perfect_swap_proof_police_viable_hurdle_hammer_more
+bip_39_word_underscore_11: ill_spell_perfect_swap_proof_police_viable_hurdle_hammer_more_decorate
+bip_39_word_underscore_12: ill_spell_perfect_swap_proof_police_viable_hurdle_hammer_more_decorate_asthma
+bip_39_word_underscore_2: ill_spell
+bip_39_word_underscore_3: ill_spell_perfect
+bip_39_word_underscore_4: ill_spell_perfect_swap
+bip_39_word_underscore_5: ill_spell_perfect_swap_proof
+bip_39_word_underscore_6: ill_spell_perfect_swap_proof_police
+bip_39_word_underscore_7: ill_spell_perfect_swap_proof_police_viable
+bip_39_word_underscore_8: ill_spell_perfect_swap_proof_police_viable_hurdle
+bip_39_word_underscore_9: ill_spell_perfect_swap_proof_police_viable_hurdle_hammer
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

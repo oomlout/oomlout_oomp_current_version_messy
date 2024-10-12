@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | milk |  
+| bip_39_word_dash_10 | milk-measure-angry-tone-sing-stamp-unfair-two-adjust-embark |  
+| bip_39_word_dash_11 | milk-measure-angry-tone-sing-stamp-unfair-two-adjust-embark-purity |  
+| bip_39_word_dash_12 | milk-measure-angry-tone-sing-stamp-unfair-two-adjust-embark-purity-audit |  
+| bip_39_word_dash_2 | milk-measure |  
+| bip_39_word_dash_3 | milk-measure-angry |  
+| bip_39_word_dash_4 | milk-measure-angry-tone |  
+| bip_39_word_dash_5 | milk-measure-angry-tone-sing |  
+| bip_39_word_dash_6 | milk-measure-angry-tone-sing-stamp |  
+| bip_39_word_dash_7 | milk-measure-angry-tone-sing-stamp-unfair |  
+| bip_39_word_dash_8 | milk-measure-angry-tone-sing-stamp-unfair-two |  
+| bip_39_word_dash_9 | milk-measure-angry-tone-sing-stamp-unfair-two-adjust |  
 | bip_39_word_new_br_1 | milk |  
 | bip_39_word_new_br_10 | milk<br>measure<br>angry<br>tone<br>sing<br>stamp<br>unfair<br>two<br>adjust<br>embark |  
 | bip_39_word_new_br_11 | milk<br>measure<br>angry<br>tone<br>sing<br>stamp<br>unfair<br>two<br>adjust<br>embark<br>purity |  
@@ -147,6 +159,18 @@ adjust |
 | bip_39_word_space_7 | milk measure angry tone sing stamp unfair |  
 | bip_39_word_space_8 | milk measure angry tone sing stamp unfair two |  
 | bip_39_word_space_9 | milk measure angry tone sing stamp unfair two adjust |  
+| bip_39_word_underscore_1 | milk |  
+| bip_39_word_underscore_10 | milk_measure_angry_tone_sing_stamp_unfair_two_adjust_embark |  
+| bip_39_word_underscore_11 | milk_measure_angry_tone_sing_stamp_unfair_two_adjust_embark_purity |  
+| bip_39_word_underscore_12 | milk_measure_angry_tone_sing_stamp_unfair_two_adjust_embark_purity_audit |  
+| bip_39_word_underscore_2 | milk_measure |  
+| bip_39_word_underscore_3 | milk_measure_angry |  
+| bip_39_word_underscore_4 | milk_measure_angry_tone |  
+| bip_39_word_underscore_5 | milk_measure_angry_tone_sing |  
+| bip_39_word_underscore_6 | milk_measure_angry_tone_sing_stamp |  
+| bip_39_word_underscore_7 | milk_measure_angry_tone_sing_stamp_unfair |  
+| bip_39_word_underscore_8 | milk_measure_angry_tone_sing_stamp_unfair_two |  
+| bip_39_word_underscore_9 | milk_measure_angry_tone_sing_stamp_unfair_two_adjust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

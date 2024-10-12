@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | casino |  
+| bip_39_word_dash_10 | casino-devote-minor-favorite-error-fly-valve-wet-sand-choice |  
+| bip_39_word_dash_11 | casino-devote-minor-favorite-error-fly-valve-wet-sand-choice-debate |  
+| bip_39_word_dash_12 | casino-devote-minor-favorite-error-fly-valve-wet-sand-choice-debate-approve |  
+| bip_39_word_dash_2 | casino-devote |  
+| bip_39_word_dash_3 | casino-devote-minor |  
+| bip_39_word_dash_4 | casino-devote-minor-favorite |  
+| bip_39_word_dash_5 | casino-devote-minor-favorite-error |  
+| bip_39_word_dash_6 | casino-devote-minor-favorite-error-fly |  
+| bip_39_word_dash_7 | casino-devote-minor-favorite-error-fly-valve |  
+| bip_39_word_dash_8 | casino-devote-minor-favorite-error-fly-valve-wet |  
+| bip_39_word_dash_9 | casino-devote-minor-favorite-error-fly-valve-wet-sand |  
 | bip_39_word_new_br_1 | casino |  
 | bip_39_word_new_br_10 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice |  
 | bip_39_word_new_br_11 | casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice<br>debate |  
@@ -147,6 +159,18 @@ sand |
 | bip_39_word_space_7 | casino devote minor favorite error fly valve |  
 | bip_39_word_space_8 | casino devote minor favorite error fly valve wet |  
 | bip_39_word_space_9 | casino devote minor favorite error fly valve wet sand |  
+| bip_39_word_underscore_1 | casino |  
+| bip_39_word_underscore_10 | casino_devote_minor_favorite_error_fly_valve_wet_sand_choice |  
+| bip_39_word_underscore_11 | casino_devote_minor_favorite_error_fly_valve_wet_sand_choice_debate |  
+| bip_39_word_underscore_12 | casino_devote_minor_favorite_error_fly_valve_wet_sand_choice_debate_approve |  
+| bip_39_word_underscore_2 | casino_devote |  
+| bip_39_word_underscore_3 | casino_devote_minor |  
+| bip_39_word_underscore_4 | casino_devote_minor_favorite |  
+| bip_39_word_underscore_5 | casino_devote_minor_favorite_error |  
+| bip_39_word_underscore_6 | casino_devote_minor_favorite_error_fly |  
+| bip_39_word_underscore_7 | casino_devote_minor_favorite_error_fly_valve |  
+| bip_39_word_underscore_8 | casino_devote_minor_favorite_error_fly_valve_wet |  
+| bip_39_word_underscore_9 | casino_devote_minor_favorite_error_fly_valve_wet_sand |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

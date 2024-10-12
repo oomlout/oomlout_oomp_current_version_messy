@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quick
+bip_39_word_dash_10: quick-strike-neck-into-abandon-clinic-fatal-degree-setup-verb
+bip_39_word_dash_11: quick-strike-neck-into-abandon-clinic-fatal-degree-setup-verb-normal
+bip_39_word_dash_12: quick-strike-neck-into-abandon-clinic-fatal-degree-setup-verb-normal-alter
+bip_39_word_dash_2: quick-strike
+bip_39_word_dash_3: quick-strike-neck
+bip_39_word_dash_4: quick-strike-neck-into
+bip_39_word_dash_5: quick-strike-neck-into-abandon
+bip_39_word_dash_6: quick-strike-neck-into-abandon-clinic
+bip_39_word_dash_7: quick-strike-neck-into-abandon-clinic-fatal
+bip_39_word_dash_8: quick-strike-neck-into-abandon-clinic-fatal-degree
+bip_39_word_dash_9: quick-strike-neck-into-abandon-clinic-fatal-degree-setup
 bip_39_word_new_br_1: quick
 bip_39_word_new_br_10: quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb
 bip_39_word_new_br_11: quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb<br>normal
@@ -193,6 +205,18 @@ bip_39_word_space_6: quick strike neck into abandon clinic
 bip_39_word_space_7: quick strike neck into abandon clinic fatal
 bip_39_word_space_8: quick strike neck into abandon clinic fatal degree
 bip_39_word_space_9: quick strike neck into abandon clinic fatal degree setup
+bip_39_word_underscore_1: quick
+bip_39_word_underscore_10: quick_strike_neck_into_abandon_clinic_fatal_degree_setup_verb
+bip_39_word_underscore_11: quick_strike_neck_into_abandon_clinic_fatal_degree_setup_verb_normal
+bip_39_word_underscore_12: quick_strike_neck_into_abandon_clinic_fatal_degree_setup_verb_normal_alter
+bip_39_word_underscore_2: quick_strike
+bip_39_word_underscore_3: quick_strike_neck
+bip_39_word_underscore_4: quick_strike_neck_into
+bip_39_word_underscore_5: quick_strike_neck_into_abandon
+bip_39_word_underscore_6: quick_strike_neck_into_abandon_clinic
+bip_39_word_underscore_7: quick_strike_neck_into_abandon_clinic_fatal
+bip_39_word_underscore_8: quick_strike_neck_into_abandon_clinic_fatal_degree
+bip_39_word_underscore_9: quick_strike_neck_into_abandon_clinic_fatal_degree_setup
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

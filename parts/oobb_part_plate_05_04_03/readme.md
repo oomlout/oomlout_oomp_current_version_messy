@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leaf |  
+| bip_39_word_dash_10 | leaf-shallow-biology-muffin-version-horror-actress-hamster-wait-lizard |  
+| bip_39_word_dash_11 | leaf-shallow-biology-muffin-version-horror-actress-hamster-wait-lizard-spike |  
+| bip_39_word_dash_12 | leaf-shallow-biology-muffin-version-horror-actress-hamster-wait-lizard-spike-auction |  
+| bip_39_word_dash_2 | leaf-shallow |  
+| bip_39_word_dash_3 | leaf-shallow-biology |  
+| bip_39_word_dash_4 | leaf-shallow-biology-muffin |  
+| bip_39_word_dash_5 | leaf-shallow-biology-muffin-version |  
+| bip_39_word_dash_6 | leaf-shallow-biology-muffin-version-horror |  
+| bip_39_word_dash_7 | leaf-shallow-biology-muffin-version-horror-actress |  
+| bip_39_word_dash_8 | leaf-shallow-biology-muffin-version-horror-actress-hamster |  
+| bip_39_word_dash_9 | leaf-shallow-biology-muffin-version-horror-actress-hamster-wait |  
 | bip_39_word_new_br_1 | leaf |  
 | bip_39_word_new_br_10 | leaf<br>shallow<br>biology<br>muffin<br>version<br>horror<br>actress<br>hamster<br>wait<br>lizard |  
 | bip_39_word_new_br_11 | leaf<br>shallow<br>biology<br>muffin<br>version<br>horror<br>actress<br>hamster<br>wait<br>lizard<br>spike |  
@@ -147,6 +159,18 @@ wait |
 | bip_39_word_space_7 | leaf shallow biology muffin version horror actress |  
 | bip_39_word_space_8 | leaf shallow biology muffin version horror actress hamster |  
 | bip_39_word_space_9 | leaf shallow biology muffin version horror actress hamster wait |  
+| bip_39_word_underscore_1 | leaf |  
+| bip_39_word_underscore_10 | leaf_shallow_biology_muffin_version_horror_actress_hamster_wait_lizard |  
+| bip_39_word_underscore_11 | leaf_shallow_biology_muffin_version_horror_actress_hamster_wait_lizard_spike |  
+| bip_39_word_underscore_12 | leaf_shallow_biology_muffin_version_horror_actress_hamster_wait_lizard_spike_auction |  
+| bip_39_word_underscore_2 | leaf_shallow |  
+| bip_39_word_underscore_3 | leaf_shallow_biology |  
+| bip_39_word_underscore_4 | leaf_shallow_biology_muffin |  
+| bip_39_word_underscore_5 | leaf_shallow_biology_muffin_version |  
+| bip_39_word_underscore_6 | leaf_shallow_biology_muffin_version_horror |  
+| bip_39_word_underscore_7 | leaf_shallow_biology_muffin_version_horror_actress |  
+| bip_39_word_underscore_8 | leaf_shallow_biology_muffin_version_horror_actress_hamster |  
+| bip_39_word_underscore_9 | leaf_shallow_biology_muffin_version_horror_actress_hamster_wait |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

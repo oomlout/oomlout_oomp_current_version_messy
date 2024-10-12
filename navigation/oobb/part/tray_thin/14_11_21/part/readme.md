@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | video |  
+| bip_39_word_dash_10 | video-alien-source-crush-potato-fabric-differ-lamp-filter-solve |  
+| bip_39_word_dash_11 | video-alien-source-crush-potato-fabric-differ-lamp-filter-solve-winter |  
+| bip_39_word_dash_12 | video-alien-source-crush-potato-fabric-differ-lamp-filter-solve-winter-anchor |  
+| bip_39_word_dash_2 | video-alien |  
+| bip_39_word_dash_3 | video-alien-source |  
+| bip_39_word_dash_4 | video-alien-source-crush |  
+| bip_39_word_dash_5 | video-alien-source-crush-potato |  
+| bip_39_word_dash_6 | video-alien-source-crush-potato-fabric |  
+| bip_39_word_dash_7 | video-alien-source-crush-potato-fabric-differ |  
+| bip_39_word_dash_8 | video-alien-source-crush-potato-fabric-differ-lamp |  
+| bip_39_word_dash_9 | video-alien-source-crush-potato-fabric-differ-lamp-filter |  
 | bip_39_word_new_br_1 | video |  
 | bip_39_word_new_br_10 | video<br>alien<br>source<br>crush<br>potato<br>fabric<br>differ<br>lamp<br>filter<br>solve |  
 | bip_39_word_new_br_11 | video<br>alien<br>source<br>crush<br>potato<br>fabric<br>differ<br>lamp<br>filter<br>solve<br>winter |  
@@ -147,6 +159,18 @@ filter |
 | bip_39_word_space_7 | video alien source crush potato fabric differ |  
 | bip_39_word_space_8 | video alien source crush potato fabric differ lamp |  
 | bip_39_word_space_9 | video alien source crush potato fabric differ lamp filter |  
+| bip_39_word_underscore_1 | video |  
+| bip_39_word_underscore_10 | video_alien_source_crush_potato_fabric_differ_lamp_filter_solve |  
+| bip_39_word_underscore_11 | video_alien_source_crush_potato_fabric_differ_lamp_filter_solve_winter |  
+| bip_39_word_underscore_12 | video_alien_source_crush_potato_fabric_differ_lamp_filter_solve_winter_anchor |  
+| bip_39_word_underscore_2 | video_alien |  
+| bip_39_word_underscore_3 | video_alien_source |  
+| bip_39_word_underscore_4 | video_alien_source_crush |  
+| bip_39_word_underscore_5 | video_alien_source_crush_potato |  
+| bip_39_word_underscore_6 | video_alien_source_crush_potato_fabric |  
+| bip_39_word_underscore_7 | video_alien_source_crush_potato_fabric_differ |  
+| bip_39_word_underscore_8 | video_alien_source_crush_potato_fabric_differ_lamp |  
+| bip_39_word_underscore_9 | video_alien_source_crush_potato_fabric_differ_lamp_filter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

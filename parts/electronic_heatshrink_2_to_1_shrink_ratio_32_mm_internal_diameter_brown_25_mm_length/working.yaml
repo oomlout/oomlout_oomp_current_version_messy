@@ -1,3 +1,15 @@
+bip_39_word_dash_1: picnic
+bip_39_word_dash_10: picnic-april-climb-payment-involve-dragon-scale-choose-arch-sketch
+bip_39_word_dash_11: picnic-april-climb-payment-involve-dragon-scale-choose-arch-sketch-cradle
+bip_39_word_dash_12: picnic-april-climb-payment-involve-dragon-scale-choose-arch-sketch-cradle-armor
+bip_39_word_dash_2: picnic-april
+bip_39_word_dash_3: picnic-april-climb
+bip_39_word_dash_4: picnic-april-climb-payment
+bip_39_word_dash_5: picnic-april-climb-payment-involve
+bip_39_word_dash_6: picnic-april-climb-payment-involve-dragon
+bip_39_word_dash_7: picnic-april-climb-payment-involve-dragon-scale
+bip_39_word_dash_8: picnic-april-climb-payment-involve-dragon-scale-choose
+bip_39_word_dash_9: picnic-april-climb-payment-involve-dragon-scale-choose-arch
 bip_39_word_new_br_1: picnic
 bip_39_word_new_br_10: picnic<br>april<br>climb<br>payment<br>involve<br>dragon<br>scale<br>choose<br>arch<br>sketch
 bip_39_word_new_br_11: picnic<br>april<br>climb<br>payment<br>involve<br>dragon<br>scale<br>choose<br>arch<br>sketch<br>cradle
@@ -194,6 +206,18 @@ bip_39_word_space_6: picnic april climb payment involve dragon
 bip_39_word_space_7: picnic april climb payment involve dragon scale
 bip_39_word_space_8: picnic april climb payment involve dragon scale choose
 bip_39_word_space_9: picnic april climb payment involve dragon scale choose arch
+bip_39_word_underscore_1: picnic
+bip_39_word_underscore_10: picnic_april_climb_payment_involve_dragon_scale_choose_arch_sketch
+bip_39_word_underscore_11: picnic_april_climb_payment_involve_dragon_scale_choose_arch_sketch_cradle
+bip_39_word_underscore_12: picnic_april_climb_payment_involve_dragon_scale_choose_arch_sketch_cradle_armor
+bip_39_word_underscore_2: picnic_april
+bip_39_word_underscore_3: picnic_april_climb
+bip_39_word_underscore_4: picnic_april_climb_payment
+bip_39_word_underscore_5: picnic_april_climb_payment_involve
+bip_39_word_underscore_6: picnic_april_climb_payment_involve_dragon
+bip_39_word_underscore_7: picnic_april_climb_payment_involve_dragon_scale
+bip_39_word_underscore_8: picnic_april_climb_payment_involve_dragon_scale_choose
+bip_39_word_underscore_9: picnic_april_climb_payment_involve_dragon_scale_choose_arch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

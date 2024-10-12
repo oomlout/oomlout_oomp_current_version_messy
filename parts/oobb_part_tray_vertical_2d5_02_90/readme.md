@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | negative |  
+| bip_39_word_dash_10 | negative-goat-tongue-bargain-recipe-enroll-table-basket-sibling-country |  
+| bip_39_word_dash_11 | negative-goat-tongue-bargain-recipe-enroll-table-basket-sibling-country-cart |  
+| bip_39_word_dash_12 | negative-goat-tongue-bargain-recipe-enroll-table-basket-sibling-country-cart-action |  
+| bip_39_word_dash_2 | negative-goat |  
+| bip_39_word_dash_3 | negative-goat-tongue |  
+| bip_39_word_dash_4 | negative-goat-tongue-bargain |  
+| bip_39_word_dash_5 | negative-goat-tongue-bargain-recipe |  
+| bip_39_word_dash_6 | negative-goat-tongue-bargain-recipe-enroll |  
+| bip_39_word_dash_7 | negative-goat-tongue-bargain-recipe-enroll-table |  
+| bip_39_word_dash_8 | negative-goat-tongue-bargain-recipe-enroll-table-basket |  
+| bip_39_word_dash_9 | negative-goat-tongue-bargain-recipe-enroll-table-basket-sibling |  
 | bip_39_word_new_br_1 | negative |  
 | bip_39_word_new_br_10 | negative<br>goat<br>tongue<br>bargain<br>recipe<br>enroll<br>table<br>basket<br>sibling<br>country |  
 | bip_39_word_new_br_11 | negative<br>goat<br>tongue<br>bargain<br>recipe<br>enroll<br>table<br>basket<br>sibling<br>country<br>cart |  
@@ -147,6 +159,18 @@ sibling |
 | bip_39_word_space_7 | negative goat tongue bargain recipe enroll table |  
 | bip_39_word_space_8 | negative goat tongue bargain recipe enroll table basket |  
 | bip_39_word_space_9 | negative goat tongue bargain recipe enroll table basket sibling |  
+| bip_39_word_underscore_1 | negative |  
+| bip_39_word_underscore_10 | negative_goat_tongue_bargain_recipe_enroll_table_basket_sibling_country |  
+| bip_39_word_underscore_11 | negative_goat_tongue_bargain_recipe_enroll_table_basket_sibling_country_cart |  
+| bip_39_word_underscore_12 | negative_goat_tongue_bargain_recipe_enroll_table_basket_sibling_country_cart_action |  
+| bip_39_word_underscore_2 | negative_goat |  
+| bip_39_word_underscore_3 | negative_goat_tongue |  
+| bip_39_word_underscore_4 | negative_goat_tongue_bargain |  
+| bip_39_word_underscore_5 | negative_goat_tongue_bargain_recipe |  
+| bip_39_word_underscore_6 | negative_goat_tongue_bargain_recipe_enroll |  
+| bip_39_word_underscore_7 | negative_goat_tongue_bargain_recipe_enroll_table |  
+| bip_39_word_underscore_8 | negative_goat_tongue_bargain_recipe_enroll_table_basket |  
+| bip_39_word_underscore_9 | negative_goat_tongue_bargain_recipe_enroll_table_basket_sibling |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

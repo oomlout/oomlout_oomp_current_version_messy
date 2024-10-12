@@ -1,3 +1,15 @@
+bip_39_word_dash_1: creek
+bip_39_word_dash_10: creek-solar-gadget-mixture-gossip-egg-cute-want-artist-sun
+bip_39_word_dash_11: creek-solar-gadget-mixture-gossip-egg-cute-want-artist-sun-wheat
+bip_39_word_dash_12: creek-solar-gadget-mixture-gossip-egg-cute-want-artist-sun-wheat-artefact
+bip_39_word_dash_2: creek-solar
+bip_39_word_dash_3: creek-solar-gadget
+bip_39_word_dash_4: creek-solar-gadget-mixture
+bip_39_word_dash_5: creek-solar-gadget-mixture-gossip
+bip_39_word_dash_6: creek-solar-gadget-mixture-gossip-egg
+bip_39_word_dash_7: creek-solar-gadget-mixture-gossip-egg-cute
+bip_39_word_dash_8: creek-solar-gadget-mixture-gossip-egg-cute-want
+bip_39_word_dash_9: creek-solar-gadget-mixture-gossip-egg-cute-want-artist
 bip_39_word_new_br_1: creek
 bip_39_word_new_br_10: creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun
 bip_39_word_new_br_11: creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun<br>wheat
@@ -192,6 +204,18 @@ bip_39_word_space_6: creek solar gadget mixture gossip egg
 bip_39_word_space_7: creek solar gadget mixture gossip egg cute
 bip_39_word_space_8: creek solar gadget mixture gossip egg cute want
 bip_39_word_space_9: creek solar gadget mixture gossip egg cute want artist
+bip_39_word_underscore_1: creek
+bip_39_word_underscore_10: creek_solar_gadget_mixture_gossip_egg_cute_want_artist_sun
+bip_39_word_underscore_11: creek_solar_gadget_mixture_gossip_egg_cute_want_artist_sun_wheat
+bip_39_word_underscore_12: creek_solar_gadget_mixture_gossip_egg_cute_want_artist_sun_wheat_artefact
+bip_39_word_underscore_2: creek_solar
+bip_39_word_underscore_3: creek_solar_gadget
+bip_39_word_underscore_4: creek_solar_gadget_mixture
+bip_39_word_underscore_5: creek_solar_gadget_mixture_gossip
+bip_39_word_underscore_6: creek_solar_gadget_mixture_gossip_egg
+bip_39_word_underscore_7: creek_solar_gadget_mixture_gossip_egg_cute
+bip_39_word_underscore_8: creek_solar_gadget_mixture_gossip_egg_cute_want
+bip_39_word_underscore_9: creek_solar_gadget_mixture_gossip_egg_cute_want_artist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

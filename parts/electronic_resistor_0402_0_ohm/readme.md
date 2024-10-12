@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | smooth |  
+| bip_39_word_dash_10 | smooth-rely-artefact-tiger-network-alien-siege-garlic-feed-flash |  
+| bip_39_word_dash_11 | smooth-rely-artefact-tiger-network-alien-siege-garlic-feed-flash-assist |  
+| bip_39_word_dash_12 | smooth-rely-artefact-tiger-network-alien-siege-garlic-feed-flash-assist-author |  
+| bip_39_word_dash_2 | smooth-rely |  
+| bip_39_word_dash_3 | smooth-rely-artefact |  
+| bip_39_word_dash_4 | smooth-rely-artefact-tiger |  
+| bip_39_word_dash_5 | smooth-rely-artefact-tiger-network |  
+| bip_39_word_dash_6 | smooth-rely-artefact-tiger-network-alien |  
+| bip_39_word_dash_7 | smooth-rely-artefact-tiger-network-alien-siege |  
+| bip_39_word_dash_8 | smooth-rely-artefact-tiger-network-alien-siege-garlic |  
+| bip_39_word_dash_9 | smooth-rely-artefact-tiger-network-alien-siege-garlic-feed |  
 | bip_39_word_new_br_1 | smooth |  
 | bip_39_word_new_br_10 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic<br>feed<br>flash |  
 | bip_39_word_new_br_11 | smooth<br>rely<br>artefact<br>tiger<br>network<br>alien<br>siege<br>garlic<br>feed<br>flash<br>assist |  
@@ -147,6 +159,18 @@ feed |
 | bip_39_word_space_7 | smooth rely artefact tiger network alien siege |  
 | bip_39_word_space_8 | smooth rely artefact tiger network alien siege garlic |  
 | bip_39_word_space_9 | smooth rely artefact tiger network alien siege garlic feed |  
+| bip_39_word_underscore_1 | smooth |  
+| bip_39_word_underscore_10 | smooth_rely_artefact_tiger_network_alien_siege_garlic_feed_flash |  
+| bip_39_word_underscore_11 | smooth_rely_artefact_tiger_network_alien_siege_garlic_feed_flash_assist |  
+| bip_39_word_underscore_12 | smooth_rely_artefact_tiger_network_alien_siege_garlic_feed_flash_assist_author |  
+| bip_39_word_underscore_2 | smooth_rely |  
+| bip_39_word_underscore_3 | smooth_rely_artefact |  
+| bip_39_word_underscore_4 | smooth_rely_artefact_tiger |  
+| bip_39_word_underscore_5 | smooth_rely_artefact_tiger_network |  
+| bip_39_word_underscore_6 | smooth_rely_artefact_tiger_network_alien |  
+| bip_39_word_underscore_7 | smooth_rely_artefact_tiger_network_alien_siege |  
+| bip_39_word_underscore_8 | smooth_rely_artefact_tiger_network_alien_siege_garlic |  
+| bip_39_word_underscore_9 | smooth_rely_artefact_tiger_network_alien_siege_garlic_feed |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

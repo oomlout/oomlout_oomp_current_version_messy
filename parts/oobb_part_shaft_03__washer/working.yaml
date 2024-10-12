@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quote
+bip_39_word_dash_10: quote-pig-infant-roof-museum-champion-dice-helmet-path-increase
+bip_39_word_dash_11: quote-pig-infant-roof-museum-champion-dice-helmet-path-increase-improve
+bip_39_word_dash_12: quote-pig-infant-roof-museum-champion-dice-helmet-path-increase-improve-apart
+bip_39_word_dash_2: quote-pig
+bip_39_word_dash_3: quote-pig-infant
+bip_39_word_dash_4: quote-pig-infant-roof
+bip_39_word_dash_5: quote-pig-infant-roof-museum
+bip_39_word_dash_6: quote-pig-infant-roof-museum-champion
+bip_39_word_dash_7: quote-pig-infant-roof-museum-champion-dice
+bip_39_word_dash_8: quote-pig-infant-roof-museum-champion-dice-helmet
+bip_39_word_dash_9: quote-pig-infant-roof-museum-champion-dice-helmet-path
 bip_39_word_new_br_1: quote
 bip_39_word_new_br_10: quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet<br>path<br>increase
 bip_39_word_new_br_11: quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet<br>path<br>increase<br>improve
@@ -193,6 +205,18 @@ bip_39_word_space_6: quote pig infant roof museum champion
 bip_39_word_space_7: quote pig infant roof museum champion dice
 bip_39_word_space_8: quote pig infant roof museum champion dice helmet
 bip_39_word_space_9: quote pig infant roof museum champion dice helmet path
+bip_39_word_underscore_1: quote
+bip_39_word_underscore_10: quote_pig_infant_roof_museum_champion_dice_helmet_path_increase
+bip_39_word_underscore_11: quote_pig_infant_roof_museum_champion_dice_helmet_path_increase_improve
+bip_39_word_underscore_12: quote_pig_infant_roof_museum_champion_dice_helmet_path_increase_improve_apart
+bip_39_word_underscore_2: quote_pig
+bip_39_word_underscore_3: quote_pig_infant
+bip_39_word_underscore_4: quote_pig_infant_roof
+bip_39_word_underscore_5: quote_pig_infant_roof_museum
+bip_39_word_underscore_6: quote_pig_infant_roof_museum_champion
+bip_39_word_underscore_7: quote_pig_infant_roof_museum_champion_dice
+bip_39_word_underscore_8: quote_pig_infant_roof_museum_champion_dice_helmet
+bip_39_word_underscore_9: quote_pig_infant_roof_museum_champion_dice_helmet_path
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

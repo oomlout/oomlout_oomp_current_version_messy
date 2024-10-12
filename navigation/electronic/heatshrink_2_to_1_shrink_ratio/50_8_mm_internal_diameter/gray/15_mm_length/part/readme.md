@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | twenty |  
+| bip_39_word_dash_10 | twenty-jewel-fury-idle-gain-renew-radio-repair-isolate-trap |  
+| bip_39_word_dash_11 | twenty-jewel-fury-idle-gain-renew-radio-repair-isolate-trap-only |  
+| bip_39_word_dash_12 | twenty-jewel-fury-idle-gain-renew-radio-repair-isolate-trap-only-already |  
+| bip_39_word_dash_2 | twenty-jewel |  
+| bip_39_word_dash_3 | twenty-jewel-fury |  
+| bip_39_word_dash_4 | twenty-jewel-fury-idle |  
+| bip_39_word_dash_5 | twenty-jewel-fury-idle-gain |  
+| bip_39_word_dash_6 | twenty-jewel-fury-idle-gain-renew |  
+| bip_39_word_dash_7 | twenty-jewel-fury-idle-gain-renew-radio |  
+| bip_39_word_dash_8 | twenty-jewel-fury-idle-gain-renew-radio-repair |  
+| bip_39_word_dash_9 | twenty-jewel-fury-idle-gain-renew-radio-repair-isolate |  
 | bip_39_word_new_br_1 | twenty |  
 | bip_39_word_new_br_10 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair<br>isolate<br>trap |  
 | bip_39_word_new_br_11 | twenty<br>jewel<br>fury<br>idle<br>gain<br>renew<br>radio<br>repair<br>isolate<br>trap<br>only |  
@@ -147,6 +159,18 @@ isolate |
 | bip_39_word_space_7 | twenty jewel fury idle gain renew radio |  
 | bip_39_word_space_8 | twenty jewel fury idle gain renew radio repair |  
 | bip_39_word_space_9 | twenty jewel fury idle gain renew radio repair isolate |  
+| bip_39_word_underscore_1 | twenty |  
+| bip_39_word_underscore_10 | twenty_jewel_fury_idle_gain_renew_radio_repair_isolate_trap |  
+| bip_39_word_underscore_11 | twenty_jewel_fury_idle_gain_renew_radio_repair_isolate_trap_only |  
+| bip_39_word_underscore_12 | twenty_jewel_fury_idle_gain_renew_radio_repair_isolate_trap_only_already |  
+| bip_39_word_underscore_2 | twenty_jewel |  
+| bip_39_word_underscore_3 | twenty_jewel_fury |  
+| bip_39_word_underscore_4 | twenty_jewel_fury_idle |  
+| bip_39_word_underscore_5 | twenty_jewel_fury_idle_gain |  
+| bip_39_word_underscore_6 | twenty_jewel_fury_idle_gain_renew |  
+| bip_39_word_underscore_7 | twenty_jewel_fury_idle_gain_renew_radio |  
+| bip_39_word_underscore_8 | twenty_jewel_fury_idle_gain_renew_radio_repair |  
+| bip_39_word_underscore_9 | twenty_jewel_fury_idle_gain_renew_radio_repair_isolate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

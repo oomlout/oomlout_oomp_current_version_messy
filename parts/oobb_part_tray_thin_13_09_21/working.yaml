@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scheme
+bip_39_word_dash_10: scheme-stove-orient-reward-bicycle-seven-flock-rescue-loop-chief
+bip_39_word_dash_11: scheme-stove-orient-reward-bicycle-seven-flock-rescue-loop-chief-silver
+bip_39_word_dash_12: scheme-stove-orient-reward-bicycle-seven-flock-rescue-loop-chief-silver-amazing
+bip_39_word_dash_2: scheme-stove
+bip_39_word_dash_3: scheme-stove-orient
+bip_39_word_dash_4: scheme-stove-orient-reward
+bip_39_word_dash_5: scheme-stove-orient-reward-bicycle
+bip_39_word_dash_6: scheme-stove-orient-reward-bicycle-seven
+bip_39_word_dash_7: scheme-stove-orient-reward-bicycle-seven-flock
+bip_39_word_dash_8: scheme-stove-orient-reward-bicycle-seven-flock-rescue
+bip_39_word_dash_9: scheme-stove-orient-reward-bicycle-seven-flock-rescue-loop
 bip_39_word_new_br_1: scheme
 bip_39_word_new_br_10: scheme<br>stove<br>orient<br>reward<br>bicycle<br>seven<br>flock<br>rescue<br>loop<br>chief
 bip_39_word_new_br_11: scheme<br>stove<br>orient<br>reward<br>bicycle<br>seven<br>flock<br>rescue<br>loop<br>chief<br>silver
@@ -193,6 +205,18 @@ bip_39_word_space_6: scheme stove orient reward bicycle seven
 bip_39_word_space_7: scheme stove orient reward bicycle seven flock
 bip_39_word_space_8: scheme stove orient reward bicycle seven flock rescue
 bip_39_word_space_9: scheme stove orient reward bicycle seven flock rescue loop
+bip_39_word_underscore_1: scheme
+bip_39_word_underscore_10: scheme_stove_orient_reward_bicycle_seven_flock_rescue_loop_chief
+bip_39_word_underscore_11: scheme_stove_orient_reward_bicycle_seven_flock_rescue_loop_chief_silver
+bip_39_word_underscore_12: scheme_stove_orient_reward_bicycle_seven_flock_rescue_loop_chief_silver_amazing
+bip_39_word_underscore_2: scheme_stove
+bip_39_word_underscore_3: scheme_stove_orient
+bip_39_word_underscore_4: scheme_stove_orient_reward
+bip_39_word_underscore_5: scheme_stove_orient_reward_bicycle
+bip_39_word_underscore_6: scheme_stove_orient_reward_bicycle_seven
+bip_39_word_underscore_7: scheme_stove_orient_reward_bicycle_seven_flock
+bip_39_word_underscore_8: scheme_stove_orient_reward_bicycle_seven_flock_rescue
+bip_39_word_underscore_9: scheme_stove_orient_reward_bicycle_seven_flock_rescue_loop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

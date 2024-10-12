@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | panda |  
+| bip_39_word_dash_10 | panda-skate-cluster-earth-assume-notice-library-orange-piano-bleak |  
+| bip_39_word_dash_11 | panda-skate-cluster-earth-assume-notice-library-orange-piano-bleak-survey |  
+| bip_39_word_dash_12 | panda-skate-cluster-earth-assume-notice-library-orange-piano-bleak-survey-aerobic |  
+| bip_39_word_dash_2 | panda-skate |  
+| bip_39_word_dash_3 | panda-skate-cluster |  
+| bip_39_word_dash_4 | panda-skate-cluster-earth |  
+| bip_39_word_dash_5 | panda-skate-cluster-earth-assume |  
+| bip_39_word_dash_6 | panda-skate-cluster-earth-assume-notice |  
+| bip_39_word_dash_7 | panda-skate-cluster-earth-assume-notice-library |  
+| bip_39_word_dash_8 | panda-skate-cluster-earth-assume-notice-library-orange |  
+| bip_39_word_dash_9 | panda-skate-cluster-earth-assume-notice-library-orange-piano |  
 | bip_39_word_new_br_1 | panda |  
 | bip_39_word_new_br_10 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak |  
 | bip_39_word_new_br_11 | panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak<br>survey |  
@@ -147,6 +159,18 @@ piano |
 | bip_39_word_space_7 | panda skate cluster earth assume notice library |  
 | bip_39_word_space_8 | panda skate cluster earth assume notice library orange |  
 | bip_39_word_space_9 | panda skate cluster earth assume notice library orange piano |  
+| bip_39_word_underscore_1 | panda |  
+| bip_39_word_underscore_10 | panda_skate_cluster_earth_assume_notice_library_orange_piano_bleak |  
+| bip_39_word_underscore_11 | panda_skate_cluster_earth_assume_notice_library_orange_piano_bleak_survey |  
+| bip_39_word_underscore_12 | panda_skate_cluster_earth_assume_notice_library_orange_piano_bleak_survey_aerobic |  
+| bip_39_word_underscore_2 | panda_skate |  
+| bip_39_word_underscore_3 | panda_skate_cluster |  
+| bip_39_word_underscore_4 | panda_skate_cluster_earth |  
+| bip_39_word_underscore_5 | panda_skate_cluster_earth_assume |  
+| bip_39_word_underscore_6 | panda_skate_cluster_earth_assume_notice |  
+| bip_39_word_underscore_7 | panda_skate_cluster_earth_assume_notice_library |  
+| bip_39_word_underscore_8 | panda_skate_cluster_earth_assume_notice_library_orange |  
+| bip_39_word_underscore_9 | panda_skate_cluster_earth_assume_notice_library_orange_piano |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

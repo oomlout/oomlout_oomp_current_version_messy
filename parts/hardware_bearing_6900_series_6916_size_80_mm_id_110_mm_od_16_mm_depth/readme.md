@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mass |  
+| bip_39_word_dash_10 | mass-joy-hunt-kiwi-life-physical-meadow-result-armed-ginger |  
+| bip_39_word_dash_11 | mass-joy-hunt-kiwi-life-physical-meadow-result-armed-ginger-target |  
+| bip_39_word_dash_12 | mass-joy-hunt-kiwi-life-physical-meadow-result-armed-ginger-target-admit |  
+| bip_39_word_dash_2 | mass-joy |  
+| bip_39_word_dash_3 | mass-joy-hunt |  
+| bip_39_word_dash_4 | mass-joy-hunt-kiwi |  
+| bip_39_word_dash_5 | mass-joy-hunt-kiwi-life |  
+| bip_39_word_dash_6 | mass-joy-hunt-kiwi-life-physical |  
+| bip_39_word_dash_7 | mass-joy-hunt-kiwi-life-physical-meadow |  
+| bip_39_word_dash_8 | mass-joy-hunt-kiwi-life-physical-meadow-result |  
+| bip_39_word_dash_9 | mass-joy-hunt-kiwi-life-physical-meadow-result-armed |  
 | bip_39_word_new_br_1 | mass |  
 | bip_39_word_new_br_10 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger |  
 | bip_39_word_new_br_11 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger<br>target |  
@@ -147,6 +159,18 @@ armed |
 | bip_39_word_space_7 | mass joy hunt kiwi life physical meadow |  
 | bip_39_word_space_8 | mass joy hunt kiwi life physical meadow result |  
 | bip_39_word_space_9 | mass joy hunt kiwi life physical meadow result armed |  
+| bip_39_word_underscore_1 | mass |  
+| bip_39_word_underscore_10 | mass_joy_hunt_kiwi_life_physical_meadow_result_armed_ginger |  
+| bip_39_word_underscore_11 | mass_joy_hunt_kiwi_life_physical_meadow_result_armed_ginger_target |  
+| bip_39_word_underscore_12 | mass_joy_hunt_kiwi_life_physical_meadow_result_armed_ginger_target_admit |  
+| bip_39_word_underscore_2 | mass_joy |  
+| bip_39_word_underscore_3 | mass_joy_hunt |  
+| bip_39_word_underscore_4 | mass_joy_hunt_kiwi |  
+| bip_39_word_underscore_5 | mass_joy_hunt_kiwi_life |  
+| bip_39_word_underscore_6 | mass_joy_hunt_kiwi_life_physical |  
+| bip_39_word_underscore_7 | mass_joy_hunt_kiwi_life_physical_meadow |  
+| bip_39_word_underscore_8 | mass_joy_hunt_kiwi_life_physical_meadow_result |  
+| bip_39_word_underscore_9 | mass_joy_hunt_kiwi_life_physical_meadow_result_armed |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

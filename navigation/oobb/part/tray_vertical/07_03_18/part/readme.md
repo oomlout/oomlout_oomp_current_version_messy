@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | insect |  
+| bip_39_word_dash_10 | insect-zone-churn-diagram-model-cradle-hunt-margin-syrup-bomb |  
+| bip_39_word_dash_11 | insect-zone-churn-diagram-model-cradle-hunt-margin-syrup-bomb-govern |  
+| bip_39_word_dash_12 | insect-zone-churn-diagram-model-cradle-hunt-margin-syrup-bomb-govern-alpha |  
+| bip_39_word_dash_2 | insect-zone |  
+| bip_39_word_dash_3 | insect-zone-churn |  
+| bip_39_word_dash_4 | insect-zone-churn-diagram |  
+| bip_39_word_dash_5 | insect-zone-churn-diagram-model |  
+| bip_39_word_dash_6 | insect-zone-churn-diagram-model-cradle |  
+| bip_39_word_dash_7 | insect-zone-churn-diagram-model-cradle-hunt |  
+| bip_39_word_dash_8 | insect-zone-churn-diagram-model-cradle-hunt-margin |  
+| bip_39_word_dash_9 | insect-zone-churn-diagram-model-cradle-hunt-margin-syrup |  
 | bip_39_word_new_br_1 | insect |  
 | bip_39_word_new_br_10 | insect<br>zone<br>churn<br>diagram<br>model<br>cradle<br>hunt<br>margin<br>syrup<br>bomb |  
 | bip_39_word_new_br_11 | insect<br>zone<br>churn<br>diagram<br>model<br>cradle<br>hunt<br>margin<br>syrup<br>bomb<br>govern |  
@@ -147,6 +159,18 @@ syrup |
 | bip_39_word_space_7 | insect zone churn diagram model cradle hunt |  
 | bip_39_word_space_8 | insect zone churn diagram model cradle hunt margin |  
 | bip_39_word_space_9 | insect zone churn diagram model cradle hunt margin syrup |  
+| bip_39_word_underscore_1 | insect |  
+| bip_39_word_underscore_10 | insect_zone_churn_diagram_model_cradle_hunt_margin_syrup_bomb |  
+| bip_39_word_underscore_11 | insect_zone_churn_diagram_model_cradle_hunt_margin_syrup_bomb_govern |  
+| bip_39_word_underscore_12 | insect_zone_churn_diagram_model_cradle_hunt_margin_syrup_bomb_govern_alpha |  
+| bip_39_word_underscore_2 | insect_zone |  
+| bip_39_word_underscore_3 | insect_zone_churn |  
+| bip_39_word_underscore_4 | insect_zone_churn_diagram |  
+| bip_39_word_underscore_5 | insect_zone_churn_diagram_model |  
+| bip_39_word_underscore_6 | insect_zone_churn_diagram_model_cradle |  
+| bip_39_word_underscore_7 | insect_zone_churn_diagram_model_cradle_hunt |  
+| bip_39_word_underscore_8 | insect_zone_churn_diagram_model_cradle_hunt_margin |  
+| bip_39_word_underscore_9 | insect_zone_churn_diagram_model_cradle_hunt_margin_syrup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

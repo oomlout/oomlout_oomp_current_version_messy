@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sleep |  
+| bip_39_word_dash_10 | sleep-height-tower-again-diary-suit-program-puppy-right-winter |  
+| bip_39_word_dash_11 | sleep-height-tower-again-diary-suit-program-puppy-right-winter-power |  
+| bip_39_word_dash_12 | sleep-height-tower-again-diary-suit-program-puppy-right-winter-power-assume |  
+| bip_39_word_dash_2 | sleep-height |  
+| bip_39_word_dash_3 | sleep-height-tower |  
+| bip_39_word_dash_4 | sleep-height-tower-again |  
+| bip_39_word_dash_5 | sleep-height-tower-again-diary |  
+| bip_39_word_dash_6 | sleep-height-tower-again-diary-suit |  
+| bip_39_word_dash_7 | sleep-height-tower-again-diary-suit-program |  
+| bip_39_word_dash_8 | sleep-height-tower-again-diary-suit-program-puppy |  
+| bip_39_word_dash_9 | sleep-height-tower-again-diary-suit-program-puppy-right |  
 | bip_39_word_new_br_1 | sleep |  
 | bip_39_word_new_br_10 | sleep<br>height<br>tower<br>again<br>diary<br>suit<br>program<br>puppy<br>right<br>winter |  
 | bip_39_word_new_br_11 | sleep<br>height<br>tower<br>again<br>diary<br>suit<br>program<br>puppy<br>right<br>winter<br>power |  
@@ -147,6 +159,18 @@ right |
 | bip_39_word_space_7 | sleep height tower again diary suit program |  
 | bip_39_word_space_8 | sleep height tower again diary suit program puppy |  
 | bip_39_word_space_9 | sleep height tower again diary suit program puppy right |  
+| bip_39_word_underscore_1 | sleep |  
+| bip_39_word_underscore_10 | sleep_height_tower_again_diary_suit_program_puppy_right_winter |  
+| bip_39_word_underscore_11 | sleep_height_tower_again_diary_suit_program_puppy_right_winter_power |  
+| bip_39_word_underscore_12 | sleep_height_tower_again_diary_suit_program_puppy_right_winter_power_assume |  
+| bip_39_word_underscore_2 | sleep_height |  
+| bip_39_word_underscore_3 | sleep_height_tower |  
+| bip_39_word_underscore_4 | sleep_height_tower_again |  
+| bip_39_word_underscore_5 | sleep_height_tower_again_diary |  
+| bip_39_word_underscore_6 | sleep_height_tower_again_diary_suit |  
+| bip_39_word_underscore_7 | sleep_height_tower_again_diary_suit_program |  
+| bip_39_word_underscore_8 | sleep_height_tower_again_diary_suit_program_puppy |  
+| bip_39_word_underscore_9 | sleep_height_tower_again_diary_suit_program_puppy_right |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

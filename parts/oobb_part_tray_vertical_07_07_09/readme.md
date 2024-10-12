@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bottom |  
+| bip_39_word_dash_10 | bottom-fix-village-number-victory-maximum-actress-armed-afraid-when |  
+| bip_39_word_dash_11 | bottom-fix-village-number-victory-maximum-actress-armed-afraid-when-ecology |  
+| bip_39_word_dash_12 | bottom-fix-village-number-victory-maximum-actress-armed-afraid-when-ecology-ancient |  
+| bip_39_word_dash_2 | bottom-fix |  
+| bip_39_word_dash_3 | bottom-fix-village |  
+| bip_39_word_dash_4 | bottom-fix-village-number |  
+| bip_39_word_dash_5 | bottom-fix-village-number-victory |  
+| bip_39_word_dash_6 | bottom-fix-village-number-victory-maximum |  
+| bip_39_word_dash_7 | bottom-fix-village-number-victory-maximum-actress |  
+| bip_39_word_dash_8 | bottom-fix-village-number-victory-maximum-actress-armed |  
+| bip_39_word_dash_9 | bottom-fix-village-number-victory-maximum-actress-armed-afraid |  
 | bip_39_word_new_br_1 | bottom |  
 | bip_39_word_new_br_10 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed<br>afraid<br>when |  
 | bip_39_word_new_br_11 | bottom<br>fix<br>village<br>number<br>victory<br>maximum<br>actress<br>armed<br>afraid<br>when<br>ecology |  
@@ -147,6 +159,18 @@ afraid |
 | bip_39_word_space_7 | bottom fix village number victory maximum actress |  
 | bip_39_word_space_8 | bottom fix village number victory maximum actress armed |  
 | bip_39_word_space_9 | bottom fix village number victory maximum actress armed afraid |  
+| bip_39_word_underscore_1 | bottom |  
+| bip_39_word_underscore_10 | bottom_fix_village_number_victory_maximum_actress_armed_afraid_when |  
+| bip_39_word_underscore_11 | bottom_fix_village_number_victory_maximum_actress_armed_afraid_when_ecology |  
+| bip_39_word_underscore_12 | bottom_fix_village_number_victory_maximum_actress_armed_afraid_when_ecology_ancient |  
+| bip_39_word_underscore_2 | bottom_fix |  
+| bip_39_word_underscore_3 | bottom_fix_village |  
+| bip_39_word_underscore_4 | bottom_fix_village_number |  
+| bip_39_word_underscore_5 | bottom_fix_village_number_victory |  
+| bip_39_word_underscore_6 | bottom_fix_village_number_victory_maximum |  
+| bip_39_word_underscore_7 | bottom_fix_village_number_victory_maximum_actress |  
+| bip_39_word_underscore_8 | bottom_fix_village_number_victory_maximum_actress_armed |  
+| bip_39_word_underscore_9 | bottom_fix_village_number_victory_maximum_actress_armed_afraid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

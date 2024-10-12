@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rent
+bip_39_word_dash_10: rent-veteran-text-view-talk-chuckle-trouble-buyer-puppy-abstract
+bip_39_word_dash_11: rent-veteran-text-view-talk-chuckle-trouble-buyer-puppy-abstract-path
+bip_39_word_dash_12: rent-veteran-text-view-talk-chuckle-trouble-buyer-puppy-abstract-path-alter
+bip_39_word_dash_2: rent-veteran
+bip_39_word_dash_3: rent-veteran-text
+bip_39_word_dash_4: rent-veteran-text-view
+bip_39_word_dash_5: rent-veteran-text-view-talk
+bip_39_word_dash_6: rent-veteran-text-view-talk-chuckle
+bip_39_word_dash_7: rent-veteran-text-view-talk-chuckle-trouble
+bip_39_word_dash_8: rent-veteran-text-view-talk-chuckle-trouble-buyer
+bip_39_word_dash_9: rent-veteran-text-view-talk-chuckle-trouble-buyer-puppy
 bip_39_word_new_br_1: rent
 bip_39_word_new_br_10: rent<br>veteran<br>text<br>view<br>talk<br>chuckle<br>trouble<br>buyer<br>puppy<br>abstract
 bip_39_word_new_br_11: rent<br>veteran<br>text<br>view<br>talk<br>chuckle<br>trouble<br>buyer<br>puppy<br>abstract<br>path
@@ -193,6 +205,18 @@ bip_39_word_space_6: rent veteran text view talk chuckle
 bip_39_word_space_7: rent veteran text view talk chuckle trouble
 bip_39_word_space_8: rent veteran text view talk chuckle trouble buyer
 bip_39_word_space_9: rent veteran text view talk chuckle trouble buyer puppy
+bip_39_word_underscore_1: rent
+bip_39_word_underscore_10: rent_veteran_text_view_talk_chuckle_trouble_buyer_puppy_abstract
+bip_39_word_underscore_11: rent_veteran_text_view_talk_chuckle_trouble_buyer_puppy_abstract_path
+bip_39_word_underscore_12: rent_veteran_text_view_talk_chuckle_trouble_buyer_puppy_abstract_path_alter
+bip_39_word_underscore_2: rent_veteran
+bip_39_word_underscore_3: rent_veteran_text
+bip_39_word_underscore_4: rent_veteran_text_view
+bip_39_word_underscore_5: rent_veteran_text_view_talk
+bip_39_word_underscore_6: rent_veteran_text_view_talk_chuckle
+bip_39_word_underscore_7: rent_veteran_text_view_talk_chuckle_trouble
+bip_39_word_underscore_8: rent_veteran_text_view_talk_chuckle_trouble_buyer
+bip_39_word_underscore_9: rent_veteran_text_view_talk_chuckle_trouble_buyer_puppy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

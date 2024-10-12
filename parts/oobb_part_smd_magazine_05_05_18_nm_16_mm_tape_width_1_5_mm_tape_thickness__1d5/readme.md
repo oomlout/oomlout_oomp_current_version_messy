@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blur |  
+| bip_39_word_dash_10 | blur-grape-poet-bargain-hint-sell-pipe-region-drum-hire |  
+| bip_39_word_dash_11 | blur-grape-poet-bargain-hint-sell-pipe-region-drum-hire-logic |  
+| bip_39_word_dash_12 | blur-grape-poet-bargain-hint-sell-pipe-region-drum-hire-logic-attract |  
+| bip_39_word_dash_2 | blur-grape |  
+| bip_39_word_dash_3 | blur-grape-poet |  
+| bip_39_word_dash_4 | blur-grape-poet-bargain |  
+| bip_39_word_dash_5 | blur-grape-poet-bargain-hint |  
+| bip_39_word_dash_6 | blur-grape-poet-bargain-hint-sell |  
+| bip_39_word_dash_7 | blur-grape-poet-bargain-hint-sell-pipe |  
+| bip_39_word_dash_8 | blur-grape-poet-bargain-hint-sell-pipe-region |  
+| bip_39_word_dash_9 | blur-grape-poet-bargain-hint-sell-pipe-region-drum |  
 | bip_39_word_new_br_1 | blur |  
 | bip_39_word_new_br_10 | blur<br>grape<br>poet<br>bargain<br>hint<br>sell<br>pipe<br>region<br>drum<br>hire |  
 | bip_39_word_new_br_11 | blur<br>grape<br>poet<br>bargain<br>hint<br>sell<br>pipe<br>region<br>drum<br>hire<br>logic |  
@@ -147,6 +159,18 @@ drum |
 | bip_39_word_space_7 | blur grape poet bargain hint sell pipe |  
 | bip_39_word_space_8 | blur grape poet bargain hint sell pipe region |  
 | bip_39_word_space_9 | blur grape poet bargain hint sell pipe region drum |  
+| bip_39_word_underscore_1 | blur |  
+| bip_39_word_underscore_10 | blur_grape_poet_bargain_hint_sell_pipe_region_drum_hire |  
+| bip_39_word_underscore_11 | blur_grape_poet_bargain_hint_sell_pipe_region_drum_hire_logic |  
+| bip_39_word_underscore_12 | blur_grape_poet_bargain_hint_sell_pipe_region_drum_hire_logic_attract |  
+| bip_39_word_underscore_2 | blur_grape |  
+| bip_39_word_underscore_3 | blur_grape_poet |  
+| bip_39_word_underscore_4 | blur_grape_poet_bargain |  
+| bip_39_word_underscore_5 | blur_grape_poet_bargain_hint |  
+| bip_39_word_underscore_6 | blur_grape_poet_bargain_hint_sell |  
+| bip_39_word_underscore_7 | blur_grape_poet_bargain_hint_sell_pipe |  
+| bip_39_word_underscore_8 | blur_grape_poet_bargain_hint_sell_pipe_region |  
+| bip_39_word_underscore_9 | blur_grape_poet_bargain_hint_sell_pipe_region_drum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

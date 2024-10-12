@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spread |  
+| bip_39_word_dash_10 | spread-six-practice-master-firm-buddy-era-control-sauce-smooth |  
+| bip_39_word_dash_11 | spread-six-practice-master-firm-buddy-era-control-sauce-smooth-decline |  
+| bip_39_word_dash_12 | spread-six-practice-master-firm-buddy-era-control-sauce-smooth-decline-apology |  
+| bip_39_word_dash_2 | spread-six |  
+| bip_39_word_dash_3 | spread-six-practice |  
+| bip_39_word_dash_4 | spread-six-practice-master |  
+| bip_39_word_dash_5 | spread-six-practice-master-firm |  
+| bip_39_word_dash_6 | spread-six-practice-master-firm-buddy |  
+| bip_39_word_dash_7 | spread-six-practice-master-firm-buddy-era |  
+| bip_39_word_dash_8 | spread-six-practice-master-firm-buddy-era-control |  
+| bip_39_word_dash_9 | spread-six-practice-master-firm-buddy-era-control-sauce |  
 | bip_39_word_new_br_1 | spread |  
 | bip_39_word_new_br_10 | spread<br>six<br>practice<br>master<br>firm<br>buddy<br>era<br>control<br>sauce<br>smooth |  
 | bip_39_word_new_br_11 | spread<br>six<br>practice<br>master<br>firm<br>buddy<br>era<br>control<br>sauce<br>smooth<br>decline |  
@@ -147,6 +159,18 @@ sauce |
 | bip_39_word_space_7 | spread six practice master firm buddy era |  
 | bip_39_word_space_8 | spread six practice master firm buddy era control |  
 | bip_39_word_space_9 | spread six practice master firm buddy era control sauce |  
+| bip_39_word_underscore_1 | spread |  
+| bip_39_word_underscore_10 | spread_six_practice_master_firm_buddy_era_control_sauce_smooth |  
+| bip_39_word_underscore_11 | spread_six_practice_master_firm_buddy_era_control_sauce_smooth_decline |  
+| bip_39_word_underscore_12 | spread_six_practice_master_firm_buddy_era_control_sauce_smooth_decline_apology |  
+| bip_39_word_underscore_2 | spread_six |  
+| bip_39_word_underscore_3 | spread_six_practice |  
+| bip_39_word_underscore_4 | spread_six_practice_master |  
+| bip_39_word_underscore_5 | spread_six_practice_master_firm |  
+| bip_39_word_underscore_6 | spread_six_practice_master_firm_buddy |  
+| bip_39_word_underscore_7 | spread_six_practice_master_firm_buddy_era |  
+| bip_39_word_underscore_8 | spread_six_practice_master_firm_buddy_era_control |  
+| bip_39_word_underscore_9 | spread_six_practice_master_firm_buddy_era_control_sauce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

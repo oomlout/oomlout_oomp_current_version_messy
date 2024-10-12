@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | firm |  
+| bip_39_word_dash_10 | firm-right-crane-credit-rate-ugly-load-escape-until-rifle |  
+| bip_39_word_dash_11 | firm-right-crane-credit-rate-ugly-load-escape-until-rifle-cake |  
+| bip_39_word_dash_12 | firm-right-crane-credit-rate-ugly-load-escape-until-rifle-cake-access |  
+| bip_39_word_dash_2 | firm-right |  
+| bip_39_word_dash_3 | firm-right-crane |  
+| bip_39_word_dash_4 | firm-right-crane-credit |  
+| bip_39_word_dash_5 | firm-right-crane-credit-rate |  
+| bip_39_word_dash_6 | firm-right-crane-credit-rate-ugly |  
+| bip_39_word_dash_7 | firm-right-crane-credit-rate-ugly-load |  
+| bip_39_word_dash_8 | firm-right-crane-credit-rate-ugly-load-escape |  
+| bip_39_word_dash_9 | firm-right-crane-credit-rate-ugly-load-escape-until |  
 | bip_39_word_new_br_1 | firm |  
 | bip_39_word_new_br_10 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape<br>until<br>rifle |  
 | bip_39_word_new_br_11 | firm<br>right<br>crane<br>credit<br>rate<br>ugly<br>load<br>escape<br>until<br>rifle<br>cake |  
@@ -147,6 +159,18 @@ until |
 | bip_39_word_space_7 | firm right crane credit rate ugly load |  
 | bip_39_word_space_8 | firm right crane credit rate ugly load escape |  
 | bip_39_word_space_9 | firm right crane credit rate ugly load escape until |  
+| bip_39_word_underscore_1 | firm |  
+| bip_39_word_underscore_10 | firm_right_crane_credit_rate_ugly_load_escape_until_rifle |  
+| bip_39_word_underscore_11 | firm_right_crane_credit_rate_ugly_load_escape_until_rifle_cake |  
+| bip_39_word_underscore_12 | firm_right_crane_credit_rate_ugly_load_escape_until_rifle_cake_access |  
+| bip_39_word_underscore_2 | firm_right |  
+| bip_39_word_underscore_3 | firm_right_crane |  
+| bip_39_word_underscore_4 | firm_right_crane_credit |  
+| bip_39_word_underscore_5 | firm_right_crane_credit_rate |  
+| bip_39_word_underscore_6 | firm_right_crane_credit_rate_ugly |  
+| bip_39_word_underscore_7 | firm_right_crane_credit_rate_ugly_load |  
+| bip_39_word_underscore_8 | firm_right_crane_credit_rate_ugly_load_escape |  
+| bip_39_word_underscore_9 | firm_right_crane_credit_rate_ugly_load_escape_until |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

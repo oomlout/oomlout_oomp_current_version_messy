@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sugar
+bip_39_word_dash_10: sugar-awkward-dentist-actual-brain-dolphin-entry-sample-fork-burst
+bip_39_word_dash_11: sugar-awkward-dentist-actual-brain-dolphin-entry-sample-fork-burst-remain
+bip_39_word_dash_12: sugar-awkward-dentist-actual-brain-dolphin-entry-sample-fork-burst-remain-adult
+bip_39_word_dash_2: sugar-awkward
+bip_39_word_dash_3: sugar-awkward-dentist
+bip_39_word_dash_4: sugar-awkward-dentist-actual
+bip_39_word_dash_5: sugar-awkward-dentist-actual-brain
+bip_39_word_dash_6: sugar-awkward-dentist-actual-brain-dolphin
+bip_39_word_dash_7: sugar-awkward-dentist-actual-brain-dolphin-entry
+bip_39_word_dash_8: sugar-awkward-dentist-actual-brain-dolphin-entry-sample
+bip_39_word_dash_9: sugar-awkward-dentist-actual-brain-dolphin-entry-sample-fork
 bip_39_word_new_br_1: sugar
 bip_39_word_new_br_10: sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst
 bip_39_word_new_br_11: sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst<br>remain
@@ -194,6 +206,18 @@ bip_39_word_space_6: sugar awkward dentist actual brain dolphin
 bip_39_word_space_7: sugar awkward dentist actual brain dolphin entry
 bip_39_word_space_8: sugar awkward dentist actual brain dolphin entry sample
 bip_39_word_space_9: sugar awkward dentist actual brain dolphin entry sample fork
+bip_39_word_underscore_1: sugar
+bip_39_word_underscore_10: sugar_awkward_dentist_actual_brain_dolphin_entry_sample_fork_burst
+bip_39_word_underscore_11: sugar_awkward_dentist_actual_brain_dolphin_entry_sample_fork_burst_remain
+bip_39_word_underscore_12: sugar_awkward_dentist_actual_brain_dolphin_entry_sample_fork_burst_remain_adult
+bip_39_word_underscore_2: sugar_awkward
+bip_39_word_underscore_3: sugar_awkward_dentist
+bip_39_word_underscore_4: sugar_awkward_dentist_actual
+bip_39_word_underscore_5: sugar_awkward_dentist_actual_brain
+bip_39_word_underscore_6: sugar_awkward_dentist_actual_brain_dolphin
+bip_39_word_underscore_7: sugar_awkward_dentist_actual_brain_dolphin_entry
+bip_39_word_underscore_8: sugar_awkward_dentist_actual_brain_dolphin_entry_sample
+bip_39_word_underscore_9: sugar_awkward_dentist_actual_brain_dolphin_entry_sample_fork
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

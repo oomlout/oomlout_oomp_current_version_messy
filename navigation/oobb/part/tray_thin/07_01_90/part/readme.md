@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | truth |  
+| bip_39_word_dash_10 | truth-dumb-shaft-cost-extend-galaxy-talent-true-renew-exact |  
+| bip_39_word_dash_11 | truth-dumb-shaft-cost-extend-galaxy-talent-true-renew-exact-velvet |  
+| bip_39_word_dash_12 | truth-dumb-shaft-cost-extend-galaxy-talent-true-renew-exact-velvet-apart |  
+| bip_39_word_dash_2 | truth-dumb |  
+| bip_39_word_dash_3 | truth-dumb-shaft |  
+| bip_39_word_dash_4 | truth-dumb-shaft-cost |  
+| bip_39_word_dash_5 | truth-dumb-shaft-cost-extend |  
+| bip_39_word_dash_6 | truth-dumb-shaft-cost-extend-galaxy |  
+| bip_39_word_dash_7 | truth-dumb-shaft-cost-extend-galaxy-talent |  
+| bip_39_word_dash_8 | truth-dumb-shaft-cost-extend-galaxy-talent-true |  
+| bip_39_word_dash_9 | truth-dumb-shaft-cost-extend-galaxy-talent-true-renew |  
 | bip_39_word_new_br_1 | truth |  
 | bip_39_word_new_br_10 | truth<br>dumb<br>shaft<br>cost<br>extend<br>galaxy<br>talent<br>true<br>renew<br>exact |  
 | bip_39_word_new_br_11 | truth<br>dumb<br>shaft<br>cost<br>extend<br>galaxy<br>talent<br>true<br>renew<br>exact<br>velvet |  
@@ -147,6 +159,18 @@ renew |
 | bip_39_word_space_7 | truth dumb shaft cost extend galaxy talent |  
 | bip_39_word_space_8 | truth dumb shaft cost extend galaxy talent true |  
 | bip_39_word_space_9 | truth dumb shaft cost extend galaxy talent true renew |  
+| bip_39_word_underscore_1 | truth |  
+| bip_39_word_underscore_10 | truth_dumb_shaft_cost_extend_galaxy_talent_true_renew_exact |  
+| bip_39_word_underscore_11 | truth_dumb_shaft_cost_extend_galaxy_talent_true_renew_exact_velvet |  
+| bip_39_word_underscore_12 | truth_dumb_shaft_cost_extend_galaxy_talent_true_renew_exact_velvet_apart |  
+| bip_39_word_underscore_2 | truth_dumb |  
+| bip_39_word_underscore_3 | truth_dumb_shaft |  
+| bip_39_word_underscore_4 | truth_dumb_shaft_cost |  
+| bip_39_word_underscore_5 | truth_dumb_shaft_cost_extend |  
+| bip_39_word_underscore_6 | truth_dumb_shaft_cost_extend_galaxy |  
+| bip_39_word_underscore_7 | truth_dumb_shaft_cost_extend_galaxy_talent |  
+| bip_39_word_underscore_8 | truth_dumb_shaft_cost_extend_galaxy_talent_true |  
+| bip_39_word_underscore_9 | truth_dumb_shaft_cost_extend_galaxy_talent_true_renew |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

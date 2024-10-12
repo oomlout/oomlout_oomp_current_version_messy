@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tide |  
+| bip_39_word_dash_10 | tide-play-soda-interest-lamp-armed-promote-team-lottery-alter |  
+| bip_39_word_dash_11 | tide-play-soda-interest-lamp-armed-promote-team-lottery-alter-odor |  
+| bip_39_word_dash_12 | tide-play-soda-interest-lamp-armed-promote-team-lottery-alter-odor-ability |  
+| bip_39_word_dash_2 | tide-play |  
+| bip_39_word_dash_3 | tide-play-soda |  
+| bip_39_word_dash_4 | tide-play-soda-interest |  
+| bip_39_word_dash_5 | tide-play-soda-interest-lamp |  
+| bip_39_word_dash_6 | tide-play-soda-interest-lamp-armed |  
+| bip_39_word_dash_7 | tide-play-soda-interest-lamp-armed-promote |  
+| bip_39_word_dash_8 | tide-play-soda-interest-lamp-armed-promote-team |  
+| bip_39_word_dash_9 | tide-play-soda-interest-lamp-armed-promote-team-lottery |  
 | bip_39_word_new_br_1 | tide |  
 | bip_39_word_new_br_10 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter |  
 | bip_39_word_new_br_11 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter<br>odor |  
@@ -147,6 +159,18 @@ lottery |
 | bip_39_word_space_7 | tide play soda interest lamp armed promote |  
 | bip_39_word_space_8 | tide play soda interest lamp armed promote team |  
 | bip_39_word_space_9 | tide play soda interest lamp armed promote team lottery |  
+| bip_39_word_underscore_1 | tide |  
+| bip_39_word_underscore_10 | tide_play_soda_interest_lamp_armed_promote_team_lottery_alter |  
+| bip_39_word_underscore_11 | tide_play_soda_interest_lamp_armed_promote_team_lottery_alter_odor |  
+| bip_39_word_underscore_12 | tide_play_soda_interest_lamp_armed_promote_team_lottery_alter_odor_ability |  
+| bip_39_word_underscore_2 | tide_play |  
+| bip_39_word_underscore_3 | tide_play_soda |  
+| bip_39_word_underscore_4 | tide_play_soda_interest |  
+| bip_39_word_underscore_5 | tide_play_soda_interest_lamp |  
+| bip_39_word_underscore_6 | tide_play_soda_interest_lamp_armed |  
+| bip_39_word_underscore_7 | tide_play_soda_interest_lamp_armed_promote |  
+| bip_39_word_underscore_8 | tide_play_soda_interest_lamp_armed_promote_team |  
+| bip_39_word_underscore_9 | tide_play_soda_interest_lamp_armed_promote_team_lottery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

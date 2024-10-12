@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dignity |  
+| bip_39_word_dash_10 | dignity-foam-moral-debate-lucky-steak-invite-slide-supreme-raise |  
+| bip_39_word_dash_11 | dignity-foam-moral-debate-lucky-steak-invite-slide-supreme-raise-annual |  
+| bip_39_word_dash_12 | dignity-foam-moral-debate-lucky-steak-invite-slide-supreme-raise-annual-amateur |  
+| bip_39_word_dash_2 | dignity-foam |  
+| bip_39_word_dash_3 | dignity-foam-moral |  
+| bip_39_word_dash_4 | dignity-foam-moral-debate |  
+| bip_39_word_dash_5 | dignity-foam-moral-debate-lucky |  
+| bip_39_word_dash_6 | dignity-foam-moral-debate-lucky-steak |  
+| bip_39_word_dash_7 | dignity-foam-moral-debate-lucky-steak-invite |  
+| bip_39_word_dash_8 | dignity-foam-moral-debate-lucky-steak-invite-slide |  
+| bip_39_word_dash_9 | dignity-foam-moral-debate-lucky-steak-invite-slide-supreme |  
 | bip_39_word_new_br_1 | dignity |  
 | bip_39_word_new_br_10 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise |  
 | bip_39_word_new_br_11 | dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise<br>annual |  
@@ -147,6 +159,18 @@ supreme |
 | bip_39_word_space_7 | dignity foam moral debate lucky steak invite |  
 | bip_39_word_space_8 | dignity foam moral debate lucky steak invite slide |  
 | bip_39_word_space_9 | dignity foam moral debate lucky steak invite slide supreme |  
+| bip_39_word_underscore_1 | dignity |  
+| bip_39_word_underscore_10 | dignity_foam_moral_debate_lucky_steak_invite_slide_supreme_raise |  
+| bip_39_word_underscore_11 | dignity_foam_moral_debate_lucky_steak_invite_slide_supreme_raise_annual |  
+| bip_39_word_underscore_12 | dignity_foam_moral_debate_lucky_steak_invite_slide_supreme_raise_annual_amateur |  
+| bip_39_word_underscore_2 | dignity_foam |  
+| bip_39_word_underscore_3 | dignity_foam_moral |  
+| bip_39_word_underscore_4 | dignity_foam_moral_debate |  
+| bip_39_word_underscore_5 | dignity_foam_moral_debate_lucky |  
+| bip_39_word_underscore_6 | dignity_foam_moral_debate_lucky_steak |  
+| bip_39_word_underscore_7 | dignity_foam_moral_debate_lucky_steak_invite |  
+| bip_39_word_underscore_8 | dignity_foam_moral_debate_lucky_steak_invite_slide |  
+| bip_39_word_underscore_9 | dignity_foam_moral_debate_lucky_steak_invite_slide_supreme |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

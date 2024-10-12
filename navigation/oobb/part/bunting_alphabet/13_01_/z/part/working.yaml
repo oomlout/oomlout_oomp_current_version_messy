@@ -1,3 +1,15 @@
+bip_39_word_dash_1: marble
+bip_39_word_dash_10: marble-bullet-jealous-drill-maze-assist-room-kid-remember-machine
+bip_39_word_dash_11: marble-bullet-jealous-drill-maze-assist-room-kid-remember-machine-apology
+bip_39_word_dash_12: marble-bullet-jealous-drill-maze-assist-room-kid-remember-machine-apology-alert
+bip_39_word_dash_2: marble-bullet
+bip_39_word_dash_3: marble-bullet-jealous
+bip_39_word_dash_4: marble-bullet-jealous-drill
+bip_39_word_dash_5: marble-bullet-jealous-drill-maze
+bip_39_word_dash_6: marble-bullet-jealous-drill-maze-assist
+bip_39_word_dash_7: marble-bullet-jealous-drill-maze-assist-room
+bip_39_word_dash_8: marble-bullet-jealous-drill-maze-assist-room-kid
+bip_39_word_dash_9: marble-bullet-jealous-drill-maze-assist-room-kid-remember
 bip_39_word_new_br_1: marble
 bip_39_word_new_br_10: marble<br>bullet<br>jealous<br>drill<br>maze<br>assist<br>room<br>kid<br>remember<br>machine
 bip_39_word_new_br_11: marble<br>bullet<br>jealous<br>drill<br>maze<br>assist<br>room<br>kid<br>remember<br>machine<br>apology
@@ -193,6 +205,18 @@ bip_39_word_space_6: marble bullet jealous drill maze assist
 bip_39_word_space_7: marble bullet jealous drill maze assist room
 bip_39_word_space_8: marble bullet jealous drill maze assist room kid
 bip_39_word_space_9: marble bullet jealous drill maze assist room kid remember
+bip_39_word_underscore_1: marble
+bip_39_word_underscore_10: marble_bullet_jealous_drill_maze_assist_room_kid_remember_machine
+bip_39_word_underscore_11: marble_bullet_jealous_drill_maze_assist_room_kid_remember_machine_apology
+bip_39_word_underscore_12: marble_bullet_jealous_drill_maze_assist_room_kid_remember_machine_apology_alert
+bip_39_word_underscore_2: marble_bullet
+bip_39_word_underscore_3: marble_bullet_jealous
+bip_39_word_underscore_4: marble_bullet_jealous_drill
+bip_39_word_underscore_5: marble_bullet_jealous_drill_maze
+bip_39_word_underscore_6: marble_bullet_jealous_drill_maze_assist
+bip_39_word_underscore_7: marble_bullet_jealous_drill_maze_assist_room
+bip_39_word_underscore_8: marble_bullet_jealous_drill_maze_assist_room_kid
+bip_39_word_underscore_9: marble_bullet_jealous_drill_maze_assist_room_kid_remember
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

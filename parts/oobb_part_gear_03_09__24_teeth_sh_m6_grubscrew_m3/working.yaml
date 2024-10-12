@@ -1,3 +1,15 @@
+bip_39_word_dash_1: umbrella
+bip_39_word_dash_10: umbrella-high-alter-pulse-expire-surge-neutral-clever-hurt-web
+bip_39_word_dash_11: umbrella-high-alter-pulse-expire-surge-neutral-clever-hurt-web-tonight
+bip_39_word_dash_12: umbrella-high-alter-pulse-expire-surge-neutral-clever-hurt-web-tonight-august
+bip_39_word_dash_2: umbrella-high
+bip_39_word_dash_3: umbrella-high-alter
+bip_39_word_dash_4: umbrella-high-alter-pulse
+bip_39_word_dash_5: umbrella-high-alter-pulse-expire
+bip_39_word_dash_6: umbrella-high-alter-pulse-expire-surge
+bip_39_word_dash_7: umbrella-high-alter-pulse-expire-surge-neutral
+bip_39_word_dash_8: umbrella-high-alter-pulse-expire-surge-neutral-clever
+bip_39_word_dash_9: umbrella-high-alter-pulse-expire-surge-neutral-clever-hurt
 bip_39_word_new_br_1: umbrella
 bip_39_word_new_br_10: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever<br>hurt<br>web
 bip_39_word_new_br_11: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever<br>hurt<br>web<br>tonight
@@ -193,6 +205,18 @@ bip_39_word_space_6: umbrella high alter pulse expire surge
 bip_39_word_space_7: umbrella high alter pulse expire surge neutral
 bip_39_word_space_8: umbrella high alter pulse expire surge neutral clever
 bip_39_word_space_9: umbrella high alter pulse expire surge neutral clever hurt
+bip_39_word_underscore_1: umbrella
+bip_39_word_underscore_10: umbrella_high_alter_pulse_expire_surge_neutral_clever_hurt_web
+bip_39_word_underscore_11: umbrella_high_alter_pulse_expire_surge_neutral_clever_hurt_web_tonight
+bip_39_word_underscore_12: umbrella_high_alter_pulse_expire_surge_neutral_clever_hurt_web_tonight_august
+bip_39_word_underscore_2: umbrella_high
+bip_39_word_underscore_3: umbrella_high_alter
+bip_39_word_underscore_4: umbrella_high_alter_pulse
+bip_39_word_underscore_5: umbrella_high_alter_pulse_expire
+bip_39_word_underscore_6: umbrella_high_alter_pulse_expire_surge
+bip_39_word_underscore_7: umbrella_high_alter_pulse_expire_surge_neutral
+bip_39_word_underscore_8: umbrella_high_alter_pulse_expire_surge_neutral_clever
+bip_39_word_underscore_9: umbrella_high_alter_pulse_expire_surge_neutral_clever_hurt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

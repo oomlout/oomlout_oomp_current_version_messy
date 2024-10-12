@@ -1,3 +1,15 @@
+bip_39_word_dash_1: first
+bip_39_word_dash_10: first-brain-appear-cinnamon-hard-produce-drift-bless-tonight-pass
+bip_39_word_dash_11: first-brain-appear-cinnamon-hard-produce-drift-bless-tonight-pass-enrich
+bip_39_word_dash_12: first-brain-appear-cinnamon-hard-produce-drift-bless-tonight-pass-enrich-achieve
+bip_39_word_dash_2: first-brain
+bip_39_word_dash_3: first-brain-appear
+bip_39_word_dash_4: first-brain-appear-cinnamon
+bip_39_word_dash_5: first-brain-appear-cinnamon-hard
+bip_39_word_dash_6: first-brain-appear-cinnamon-hard-produce
+bip_39_word_dash_7: first-brain-appear-cinnamon-hard-produce-drift
+bip_39_word_dash_8: first-brain-appear-cinnamon-hard-produce-drift-bless
+bip_39_word_dash_9: first-brain-appear-cinnamon-hard-produce-drift-bless-tonight
 bip_39_word_new_br_1: first
 bip_39_word_new_br_10: first<br>brain<br>appear<br>cinnamon<br>hard<br>produce<br>drift<br>bless<br>tonight<br>pass
 bip_39_word_new_br_11: first<br>brain<br>appear<br>cinnamon<br>hard<br>produce<br>drift<br>bless<br>tonight<br>pass<br>enrich
@@ -194,6 +206,18 @@ bip_39_word_space_6: first brain appear cinnamon hard produce
 bip_39_word_space_7: first brain appear cinnamon hard produce drift
 bip_39_word_space_8: first brain appear cinnamon hard produce drift bless
 bip_39_word_space_9: first brain appear cinnamon hard produce drift bless tonight
+bip_39_word_underscore_1: first
+bip_39_word_underscore_10: first_brain_appear_cinnamon_hard_produce_drift_bless_tonight_pass
+bip_39_word_underscore_11: first_brain_appear_cinnamon_hard_produce_drift_bless_tonight_pass_enrich
+bip_39_word_underscore_12: first_brain_appear_cinnamon_hard_produce_drift_bless_tonight_pass_enrich_achieve
+bip_39_word_underscore_2: first_brain
+bip_39_word_underscore_3: first_brain_appear
+bip_39_word_underscore_4: first_brain_appear_cinnamon
+bip_39_word_underscore_5: first_brain_appear_cinnamon_hard
+bip_39_word_underscore_6: first_brain_appear_cinnamon_hard_produce
+bip_39_word_underscore_7: first_brain_appear_cinnamon_hard_produce_drift
+bip_39_word_underscore_8: first_brain_appear_cinnamon_hard_produce_drift_bless
+bip_39_word_underscore_9: first_brain_appear_cinnamon_hard_produce_drift_bless_tonight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

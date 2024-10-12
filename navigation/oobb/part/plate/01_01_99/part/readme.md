@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ensure |  
+| bip_39_word_dash_10 | ensure-happy-sting-review-guess-another-salon-volume-autumn-doll |  
+| bip_39_word_dash_11 | ensure-happy-sting-review-guess-another-salon-volume-autumn-doll-private |  
+| bip_39_word_dash_12 | ensure-happy-sting-review-guess-another-salon-volume-autumn-doll-private-achieve |  
+| bip_39_word_dash_2 | ensure-happy |  
+| bip_39_word_dash_3 | ensure-happy-sting |  
+| bip_39_word_dash_4 | ensure-happy-sting-review |  
+| bip_39_word_dash_5 | ensure-happy-sting-review-guess |  
+| bip_39_word_dash_6 | ensure-happy-sting-review-guess-another |  
+| bip_39_word_dash_7 | ensure-happy-sting-review-guess-another-salon |  
+| bip_39_word_dash_8 | ensure-happy-sting-review-guess-another-salon-volume |  
+| bip_39_word_dash_9 | ensure-happy-sting-review-guess-another-salon-volume-autumn |  
 | bip_39_word_new_br_1 | ensure |  
 | bip_39_word_new_br_10 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll |  
 | bip_39_word_new_br_11 | ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll<br>private |  
@@ -147,6 +159,18 @@ autumn |
 | bip_39_word_space_7 | ensure happy sting review guess another salon |  
 | bip_39_word_space_8 | ensure happy sting review guess another salon volume |  
 | bip_39_word_space_9 | ensure happy sting review guess another salon volume autumn |  
+| bip_39_word_underscore_1 | ensure |  
+| bip_39_word_underscore_10 | ensure_happy_sting_review_guess_another_salon_volume_autumn_doll |  
+| bip_39_word_underscore_11 | ensure_happy_sting_review_guess_another_salon_volume_autumn_doll_private |  
+| bip_39_word_underscore_12 | ensure_happy_sting_review_guess_another_salon_volume_autumn_doll_private_achieve |  
+| bip_39_word_underscore_2 | ensure_happy |  
+| bip_39_word_underscore_3 | ensure_happy_sting |  
+| bip_39_word_underscore_4 | ensure_happy_sting_review |  
+| bip_39_word_underscore_5 | ensure_happy_sting_review_guess |  
+| bip_39_word_underscore_6 | ensure_happy_sting_review_guess_another |  
+| bip_39_word_underscore_7 | ensure_happy_sting_review_guess_another_salon |  
+| bip_39_word_underscore_8 | ensure_happy_sting_review_guess_another_salon_volume |  
+| bip_39_word_underscore_9 | ensure_happy_sting_review_guess_another_salon_volume_autumn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

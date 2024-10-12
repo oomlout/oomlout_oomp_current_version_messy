@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tray |  
+| bip_39_word_dash_10 | tray-sample-truly-twice-live-license-erode-embrace-believe-legend |  
+| bip_39_word_dash_11 | tray-sample-truly-twice-live-license-erode-embrace-believe-legend-brain |  
+| bip_39_word_dash_12 | tray-sample-truly-twice-live-license-erode-embrace-believe-legend-brain-acquire |  
+| bip_39_word_dash_2 | tray-sample |  
+| bip_39_word_dash_3 | tray-sample-truly |  
+| bip_39_word_dash_4 | tray-sample-truly-twice |  
+| bip_39_word_dash_5 | tray-sample-truly-twice-live |  
+| bip_39_word_dash_6 | tray-sample-truly-twice-live-license |  
+| bip_39_word_dash_7 | tray-sample-truly-twice-live-license-erode |  
+| bip_39_word_dash_8 | tray-sample-truly-twice-live-license-erode-embrace |  
+| bip_39_word_dash_9 | tray-sample-truly-twice-live-license-erode-embrace-believe |  
 | bip_39_word_new_br_1 | tray |  
 | bip_39_word_new_br_10 | tray<br>sample<br>truly<br>twice<br>live<br>license<br>erode<br>embrace<br>believe<br>legend |  
 | bip_39_word_new_br_11 | tray<br>sample<br>truly<br>twice<br>live<br>license<br>erode<br>embrace<br>believe<br>legend<br>brain |  
@@ -147,6 +159,18 @@ believe |
 | bip_39_word_space_7 | tray sample truly twice live license erode |  
 | bip_39_word_space_8 | tray sample truly twice live license erode embrace |  
 | bip_39_word_space_9 | tray sample truly twice live license erode embrace believe |  
+| bip_39_word_underscore_1 | tray |  
+| bip_39_word_underscore_10 | tray_sample_truly_twice_live_license_erode_embrace_believe_legend |  
+| bip_39_word_underscore_11 | tray_sample_truly_twice_live_license_erode_embrace_believe_legend_brain |  
+| bip_39_word_underscore_12 | tray_sample_truly_twice_live_license_erode_embrace_believe_legend_brain_acquire |  
+| bip_39_word_underscore_2 | tray_sample |  
+| bip_39_word_underscore_3 | tray_sample_truly |  
+| bip_39_word_underscore_4 | tray_sample_truly_twice |  
+| bip_39_word_underscore_5 | tray_sample_truly_twice_live |  
+| bip_39_word_underscore_6 | tray_sample_truly_twice_live_license |  
+| bip_39_word_underscore_7 | tray_sample_truly_twice_live_license_erode |  
+| bip_39_word_underscore_8 | tray_sample_truly_twice_live_license_erode_embrace |  
+| bip_39_word_underscore_9 | tray_sample_truly_twice_live_license_erode_embrace_believe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

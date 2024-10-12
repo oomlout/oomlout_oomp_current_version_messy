@@ -1,3 +1,15 @@
+bip_39_word_dash_1: curtain
+bip_39_word_dash_10: curtain-winner-sorry-burst-correct-lizard-image-eagle-brand-swift
+bip_39_word_dash_11: curtain-winner-sorry-burst-correct-lizard-image-eagle-brand-swift-erode
+bip_39_word_dash_12: curtain-winner-sorry-burst-correct-lizard-image-eagle-brand-swift-erode-absent
+bip_39_word_dash_2: curtain-winner
+bip_39_word_dash_3: curtain-winner-sorry
+bip_39_word_dash_4: curtain-winner-sorry-burst
+bip_39_word_dash_5: curtain-winner-sorry-burst-correct
+bip_39_word_dash_6: curtain-winner-sorry-burst-correct-lizard
+bip_39_word_dash_7: curtain-winner-sorry-burst-correct-lizard-image
+bip_39_word_dash_8: curtain-winner-sorry-burst-correct-lizard-image-eagle
+bip_39_word_dash_9: curtain-winner-sorry-burst-correct-lizard-image-eagle-brand
 bip_39_word_new_br_1: curtain
 bip_39_word_new_br_10: curtain<br>winner<br>sorry<br>burst<br>correct<br>lizard<br>image<br>eagle<br>brand<br>swift
 bip_39_word_new_br_11: curtain<br>winner<br>sorry<br>burst<br>correct<br>lizard<br>image<br>eagle<br>brand<br>swift<br>erode
@@ -194,6 +206,18 @@ bip_39_word_space_6: curtain winner sorry burst correct lizard
 bip_39_word_space_7: curtain winner sorry burst correct lizard image
 bip_39_word_space_8: curtain winner sorry burst correct lizard image eagle
 bip_39_word_space_9: curtain winner sorry burst correct lizard image eagle brand
+bip_39_word_underscore_1: curtain
+bip_39_word_underscore_10: curtain_winner_sorry_burst_correct_lizard_image_eagle_brand_swift
+bip_39_word_underscore_11: curtain_winner_sorry_burst_correct_lizard_image_eagle_brand_swift_erode
+bip_39_word_underscore_12: curtain_winner_sorry_burst_correct_lizard_image_eagle_brand_swift_erode_absent
+bip_39_word_underscore_2: curtain_winner
+bip_39_word_underscore_3: curtain_winner_sorry
+bip_39_word_underscore_4: curtain_winner_sorry_burst
+bip_39_word_underscore_5: curtain_winner_sorry_burst_correct
+bip_39_word_underscore_6: curtain_winner_sorry_burst_correct_lizard
+bip_39_word_underscore_7: curtain_winner_sorry_burst_correct_lizard_image
+bip_39_word_underscore_8: curtain_winner_sorry_burst_correct_lizard_image_eagle
+bip_39_word_underscore_9: curtain_winner_sorry_burst_correct_lizard_image_eagle_brand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dress |  
+| bip_39_word_dash_10 | dress-lend-dose-risk-castle-luggage-miss-special-drama-health |  
+| bip_39_word_dash_11 | dress-lend-dose-risk-castle-luggage-miss-special-drama-health-gospel |  
+| bip_39_word_dash_12 | dress-lend-dose-risk-castle-luggage-miss-special-drama-health-gospel-again |  
+| bip_39_word_dash_2 | dress-lend |  
+| bip_39_word_dash_3 | dress-lend-dose |  
+| bip_39_word_dash_4 | dress-lend-dose-risk |  
+| bip_39_word_dash_5 | dress-lend-dose-risk-castle |  
+| bip_39_word_dash_6 | dress-lend-dose-risk-castle-luggage |  
+| bip_39_word_dash_7 | dress-lend-dose-risk-castle-luggage-miss |  
+| bip_39_word_dash_8 | dress-lend-dose-risk-castle-luggage-miss-special |  
+| bip_39_word_dash_9 | dress-lend-dose-risk-castle-luggage-miss-special-drama |  
 | bip_39_word_new_br_1 | dress |  
 | bip_39_word_new_br_10 | dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special<br>drama<br>health |  
 | bip_39_word_new_br_11 | dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special<br>drama<br>health<br>gospel |  
@@ -147,6 +159,18 @@ drama |
 | bip_39_word_space_7 | dress lend dose risk castle luggage miss |  
 | bip_39_word_space_8 | dress lend dose risk castle luggage miss special |  
 | bip_39_word_space_9 | dress lend dose risk castle luggage miss special drama |  
+| bip_39_word_underscore_1 | dress |  
+| bip_39_word_underscore_10 | dress_lend_dose_risk_castle_luggage_miss_special_drama_health |  
+| bip_39_word_underscore_11 | dress_lend_dose_risk_castle_luggage_miss_special_drama_health_gospel |  
+| bip_39_word_underscore_12 | dress_lend_dose_risk_castle_luggage_miss_special_drama_health_gospel_again |  
+| bip_39_word_underscore_2 | dress_lend |  
+| bip_39_word_underscore_3 | dress_lend_dose |  
+| bip_39_word_underscore_4 | dress_lend_dose_risk |  
+| bip_39_word_underscore_5 | dress_lend_dose_risk_castle |  
+| bip_39_word_underscore_6 | dress_lend_dose_risk_castle_luggage |  
+| bip_39_word_underscore_7 | dress_lend_dose_risk_castle_luggage_miss |  
+| bip_39_word_underscore_8 | dress_lend_dose_risk_castle_luggage_miss_special |  
+| bip_39_word_underscore_9 | dress_lend_dose_risk_castle_luggage_miss_special_drama |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

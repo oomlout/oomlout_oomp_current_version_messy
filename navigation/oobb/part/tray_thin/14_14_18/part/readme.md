@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ritual |  
+| bip_39_word_dash_10 | ritual-drink-burger-today-sustain-dune-knock-inside-snake-bracket |  
+| bip_39_word_dash_11 | ritual-drink-burger-today-sustain-dune-knock-inside-snake-bracket-inquiry |  
+| bip_39_word_dash_12 | ritual-drink-burger-today-sustain-dune-knock-inside-snake-bracket-inquiry-appear |  
+| bip_39_word_dash_2 | ritual-drink |  
+| bip_39_word_dash_3 | ritual-drink-burger |  
+| bip_39_word_dash_4 | ritual-drink-burger-today |  
+| bip_39_word_dash_5 | ritual-drink-burger-today-sustain |  
+| bip_39_word_dash_6 | ritual-drink-burger-today-sustain-dune |  
+| bip_39_word_dash_7 | ritual-drink-burger-today-sustain-dune-knock |  
+| bip_39_word_dash_8 | ritual-drink-burger-today-sustain-dune-knock-inside |  
+| bip_39_word_dash_9 | ritual-drink-burger-today-sustain-dune-knock-inside-snake |  
 | bip_39_word_new_br_1 | ritual |  
 | bip_39_word_new_br_10 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket |  
 | bip_39_word_new_br_11 | ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket<br>inquiry |  
@@ -147,6 +159,18 @@ snake |
 | bip_39_word_space_7 | ritual drink burger today sustain dune knock |  
 | bip_39_word_space_8 | ritual drink burger today sustain dune knock inside |  
 | bip_39_word_space_9 | ritual drink burger today sustain dune knock inside snake |  
+| bip_39_word_underscore_1 | ritual |  
+| bip_39_word_underscore_10 | ritual_drink_burger_today_sustain_dune_knock_inside_snake_bracket |  
+| bip_39_word_underscore_11 | ritual_drink_burger_today_sustain_dune_knock_inside_snake_bracket_inquiry |  
+| bip_39_word_underscore_12 | ritual_drink_burger_today_sustain_dune_knock_inside_snake_bracket_inquiry_appear |  
+| bip_39_word_underscore_2 | ritual_drink |  
+| bip_39_word_underscore_3 | ritual_drink_burger |  
+| bip_39_word_underscore_4 | ritual_drink_burger_today |  
+| bip_39_word_underscore_5 | ritual_drink_burger_today_sustain |  
+| bip_39_word_underscore_6 | ritual_drink_burger_today_sustain_dune |  
+| bip_39_word_underscore_7 | ritual_drink_burger_today_sustain_dune_knock |  
+| bip_39_word_underscore_8 | ritual_drink_burger_today_sustain_dune_knock_inside |  
+| bip_39_word_underscore_9 | ritual_drink_burger_today_sustain_dune_knock_inside_snake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

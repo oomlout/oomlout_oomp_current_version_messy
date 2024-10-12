@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lesson
+bip_39_word_dash_10: lesson-woman-donkey-breeze-guard-host-kiwi-toddler-shift-advice
+bip_39_word_dash_11: lesson-woman-donkey-breeze-guard-host-kiwi-toddler-shift-advice-jelly
+bip_39_word_dash_12: lesson-woman-donkey-breeze-guard-host-kiwi-toddler-shift-advice-jelly-among
+bip_39_word_dash_2: lesson-woman
+bip_39_word_dash_3: lesson-woman-donkey
+bip_39_word_dash_4: lesson-woman-donkey-breeze
+bip_39_word_dash_5: lesson-woman-donkey-breeze-guard
+bip_39_word_dash_6: lesson-woman-donkey-breeze-guard-host
+bip_39_word_dash_7: lesson-woman-donkey-breeze-guard-host-kiwi
+bip_39_word_dash_8: lesson-woman-donkey-breeze-guard-host-kiwi-toddler
+bip_39_word_dash_9: lesson-woman-donkey-breeze-guard-host-kiwi-toddler-shift
 bip_39_word_new_br_1: lesson
 bip_39_word_new_br_10: lesson<br>woman<br>donkey<br>breeze<br>guard<br>host<br>kiwi<br>toddler<br>shift<br>advice
 bip_39_word_new_br_11: lesson<br>woman<br>donkey<br>breeze<br>guard<br>host<br>kiwi<br>toddler<br>shift<br>advice<br>jelly
@@ -193,6 +205,18 @@ bip_39_word_space_6: lesson woman donkey breeze guard host
 bip_39_word_space_7: lesson woman donkey breeze guard host kiwi
 bip_39_word_space_8: lesson woman donkey breeze guard host kiwi toddler
 bip_39_word_space_9: lesson woman donkey breeze guard host kiwi toddler shift
+bip_39_word_underscore_1: lesson
+bip_39_word_underscore_10: lesson_woman_donkey_breeze_guard_host_kiwi_toddler_shift_advice
+bip_39_word_underscore_11: lesson_woman_donkey_breeze_guard_host_kiwi_toddler_shift_advice_jelly
+bip_39_word_underscore_12: lesson_woman_donkey_breeze_guard_host_kiwi_toddler_shift_advice_jelly_among
+bip_39_word_underscore_2: lesson_woman
+bip_39_word_underscore_3: lesson_woman_donkey
+bip_39_word_underscore_4: lesson_woman_donkey_breeze
+bip_39_word_underscore_5: lesson_woman_donkey_breeze_guard
+bip_39_word_underscore_6: lesson_woman_donkey_breeze_guard_host
+bip_39_word_underscore_7: lesson_woman_donkey_breeze_guard_host_kiwi
+bip_39_word_underscore_8: lesson_woman_donkey_breeze_guard_host_kiwi_toddler
+bip_39_word_underscore_9: lesson_woman_donkey_breeze_guard_host_kiwi_toddler_shift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

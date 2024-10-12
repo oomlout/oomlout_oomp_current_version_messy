@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rigid
+bip_39_word_dash_10: rigid-notice-devote-wealth-caught-total-orient-parent-still-gossip
+bip_39_word_dash_11: rigid-notice-devote-wealth-caught-total-orient-parent-still-gossip-abstract
+bip_39_word_dash_12: rigid-notice-devote-wealth-caught-total-orient-parent-still-gossip-abstract-about
+bip_39_word_dash_2: rigid-notice
+bip_39_word_dash_3: rigid-notice-devote
+bip_39_word_dash_4: rigid-notice-devote-wealth
+bip_39_word_dash_5: rigid-notice-devote-wealth-caught
+bip_39_word_dash_6: rigid-notice-devote-wealth-caught-total
+bip_39_word_dash_7: rigid-notice-devote-wealth-caught-total-orient
+bip_39_word_dash_8: rigid-notice-devote-wealth-caught-total-orient-parent
+bip_39_word_dash_9: rigid-notice-devote-wealth-caught-total-orient-parent-still
 bip_39_word_new_br_1: rigid
 bip_39_word_new_br_10: rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip
 bip_39_word_new_br_11: rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip<br>abstract
@@ -194,6 +206,18 @@ bip_39_word_space_6: rigid notice devote wealth caught total
 bip_39_word_space_7: rigid notice devote wealth caught total orient
 bip_39_word_space_8: rigid notice devote wealth caught total orient parent
 bip_39_word_space_9: rigid notice devote wealth caught total orient parent still
+bip_39_word_underscore_1: rigid
+bip_39_word_underscore_10: rigid_notice_devote_wealth_caught_total_orient_parent_still_gossip
+bip_39_word_underscore_11: rigid_notice_devote_wealth_caught_total_orient_parent_still_gossip_abstract
+bip_39_word_underscore_12: rigid_notice_devote_wealth_caught_total_orient_parent_still_gossip_abstract_about
+bip_39_word_underscore_2: rigid_notice
+bip_39_word_underscore_3: rigid_notice_devote
+bip_39_word_underscore_4: rigid_notice_devote_wealth
+bip_39_word_underscore_5: rigid_notice_devote_wealth_caught
+bip_39_word_underscore_6: rigid_notice_devote_wealth_caught_total
+bip_39_word_underscore_7: rigid_notice_devote_wealth_caught_total_orient
+bip_39_word_underscore_8: rigid_notice_devote_wealth_caught_total_orient_parent
+bip_39_word_underscore_9: rigid_notice_devote_wealth_caught_total_orient_parent_still
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

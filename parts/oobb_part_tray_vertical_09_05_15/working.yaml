@@ -1,3 +1,15 @@
+bip_39_word_dash_1: piece
+bip_39_word_dash_10: piece-novel-loyal-ivory-immense-brain-refuse-tongue-wife-need
+bip_39_word_dash_11: piece-novel-loyal-ivory-immense-brain-refuse-tongue-wife-need-alone
+bip_39_word_dash_12: piece-novel-loyal-ivory-immense-brain-refuse-tongue-wife-need-alone-artwork
+bip_39_word_dash_2: piece-novel
+bip_39_word_dash_3: piece-novel-loyal
+bip_39_word_dash_4: piece-novel-loyal-ivory
+bip_39_word_dash_5: piece-novel-loyal-ivory-immense
+bip_39_word_dash_6: piece-novel-loyal-ivory-immense-brain
+bip_39_word_dash_7: piece-novel-loyal-ivory-immense-brain-refuse
+bip_39_word_dash_8: piece-novel-loyal-ivory-immense-brain-refuse-tongue
+bip_39_word_dash_9: piece-novel-loyal-ivory-immense-brain-refuse-tongue-wife
 bip_39_word_new_br_1: piece
 bip_39_word_new_br_10: piece<br>novel<br>loyal<br>ivory<br>immense<br>brain<br>refuse<br>tongue<br>wife<br>need
 bip_39_word_new_br_11: piece<br>novel<br>loyal<br>ivory<br>immense<br>brain<br>refuse<br>tongue<br>wife<br>need<br>alone
@@ -193,6 +205,18 @@ bip_39_word_space_6: piece novel loyal ivory immense brain
 bip_39_word_space_7: piece novel loyal ivory immense brain refuse
 bip_39_word_space_8: piece novel loyal ivory immense brain refuse tongue
 bip_39_word_space_9: piece novel loyal ivory immense brain refuse tongue wife
+bip_39_word_underscore_1: piece
+bip_39_word_underscore_10: piece_novel_loyal_ivory_immense_brain_refuse_tongue_wife_need
+bip_39_word_underscore_11: piece_novel_loyal_ivory_immense_brain_refuse_tongue_wife_need_alone
+bip_39_word_underscore_12: piece_novel_loyal_ivory_immense_brain_refuse_tongue_wife_need_alone_artwork
+bip_39_word_underscore_2: piece_novel
+bip_39_word_underscore_3: piece_novel_loyal
+bip_39_word_underscore_4: piece_novel_loyal_ivory
+bip_39_word_underscore_5: piece_novel_loyal_ivory_immense
+bip_39_word_underscore_6: piece_novel_loyal_ivory_immense_brain
+bip_39_word_underscore_7: piece_novel_loyal_ivory_immense_brain_refuse
+bip_39_word_underscore_8: piece_novel_loyal_ivory_immense_brain_refuse_tongue
+bip_39_word_underscore_9: piece_novel_loyal_ivory_immense_brain_refuse_tongue_wife
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

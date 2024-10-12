@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | excess |  
+| bip_39_word_dash_10 | excess-prison-other-ten-can-proud-grit-crowd-front-possible |  
+| bip_39_word_dash_11 | excess-prison-other-ten-can-proud-grit-crowd-front-possible-rebel |  
+| bip_39_word_dash_12 | excess-prison-other-ten-can-proud-grit-crowd-front-possible-rebel-attitude |  
+| bip_39_word_dash_2 | excess-prison |  
+| bip_39_word_dash_3 | excess-prison-other |  
+| bip_39_word_dash_4 | excess-prison-other-ten |  
+| bip_39_word_dash_5 | excess-prison-other-ten-can |  
+| bip_39_word_dash_6 | excess-prison-other-ten-can-proud |  
+| bip_39_word_dash_7 | excess-prison-other-ten-can-proud-grit |  
+| bip_39_word_dash_8 | excess-prison-other-ten-can-proud-grit-crowd |  
+| bip_39_word_dash_9 | excess-prison-other-ten-can-proud-grit-crowd-front |  
 | bip_39_word_new_br_1 | excess |  
 | bip_39_word_new_br_10 | excess<br>prison<br>other<br>ten<br>can<br>proud<br>grit<br>crowd<br>front<br>possible |  
 | bip_39_word_new_br_11 | excess<br>prison<br>other<br>ten<br>can<br>proud<br>grit<br>crowd<br>front<br>possible<br>rebel |  
@@ -147,6 +159,18 @@ front |
 | bip_39_word_space_7 | excess prison other ten can proud grit |  
 | bip_39_word_space_8 | excess prison other ten can proud grit crowd |  
 | bip_39_word_space_9 | excess prison other ten can proud grit crowd front |  
+| bip_39_word_underscore_1 | excess |  
+| bip_39_word_underscore_10 | excess_prison_other_ten_can_proud_grit_crowd_front_possible |  
+| bip_39_word_underscore_11 | excess_prison_other_ten_can_proud_grit_crowd_front_possible_rebel |  
+| bip_39_word_underscore_12 | excess_prison_other_ten_can_proud_grit_crowd_front_possible_rebel_attitude |  
+| bip_39_word_underscore_2 | excess_prison |  
+| bip_39_word_underscore_3 | excess_prison_other |  
+| bip_39_word_underscore_4 | excess_prison_other_ten |  
+| bip_39_word_underscore_5 | excess_prison_other_ten_can |  
+| bip_39_word_underscore_6 | excess_prison_other_ten_can_proud |  
+| bip_39_word_underscore_7 | excess_prison_other_ten_can_proud_grit |  
+| bip_39_word_underscore_8 | excess_prison_other_ten_can_proud_grit_crowd |  
+| bip_39_word_underscore_9 | excess_prison_other_ten_can_proud_grit_crowd_front |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: treat
+bip_39_word_dash_10: treat-oppose-hurdle-cement-rail-wise-tunnel-busy-enter-home
+bip_39_word_dash_11: treat-oppose-hurdle-cement-rail-wise-tunnel-busy-enter-home-obvious
+bip_39_word_dash_12: treat-oppose-hurdle-cement-rail-wise-tunnel-busy-enter-home-obvious-army
+bip_39_word_dash_2: treat-oppose
+bip_39_word_dash_3: treat-oppose-hurdle
+bip_39_word_dash_4: treat-oppose-hurdle-cement
+bip_39_word_dash_5: treat-oppose-hurdle-cement-rail
+bip_39_word_dash_6: treat-oppose-hurdle-cement-rail-wise
+bip_39_word_dash_7: treat-oppose-hurdle-cement-rail-wise-tunnel
+bip_39_word_dash_8: treat-oppose-hurdle-cement-rail-wise-tunnel-busy
+bip_39_word_dash_9: treat-oppose-hurdle-cement-rail-wise-tunnel-busy-enter
 bip_39_word_new_br_1: treat
 bip_39_word_new_br_10: treat<br>oppose<br>hurdle<br>cement<br>rail<br>wise<br>tunnel<br>busy<br>enter<br>home
 bip_39_word_new_br_11: treat<br>oppose<br>hurdle<br>cement<br>rail<br>wise<br>tunnel<br>busy<br>enter<br>home<br>obvious
@@ -193,6 +205,18 @@ bip_39_word_space_6: treat oppose hurdle cement rail wise
 bip_39_word_space_7: treat oppose hurdle cement rail wise tunnel
 bip_39_word_space_8: treat oppose hurdle cement rail wise tunnel busy
 bip_39_word_space_9: treat oppose hurdle cement rail wise tunnel busy enter
+bip_39_word_underscore_1: treat
+bip_39_word_underscore_10: treat_oppose_hurdle_cement_rail_wise_tunnel_busy_enter_home
+bip_39_word_underscore_11: treat_oppose_hurdle_cement_rail_wise_tunnel_busy_enter_home_obvious
+bip_39_word_underscore_12: treat_oppose_hurdle_cement_rail_wise_tunnel_busy_enter_home_obvious_army
+bip_39_word_underscore_2: treat_oppose
+bip_39_word_underscore_3: treat_oppose_hurdle
+bip_39_word_underscore_4: treat_oppose_hurdle_cement
+bip_39_word_underscore_5: treat_oppose_hurdle_cement_rail
+bip_39_word_underscore_6: treat_oppose_hurdle_cement_rail_wise
+bip_39_word_underscore_7: treat_oppose_hurdle_cement_rail_wise_tunnel
+bip_39_word_underscore_8: treat_oppose_hurdle_cement_rail_wise_tunnel_busy
+bip_39_word_underscore_9: treat_oppose_hurdle_cement_rail_wise_tunnel_busy_enter
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

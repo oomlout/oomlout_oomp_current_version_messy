@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | key |  
+| bip_39_word_dash_10 | key-innocent-when-away-undo-race-glove-detect-situate-hotel |  
+| bip_39_word_dash_11 | key-innocent-when-away-undo-race-glove-detect-situate-hotel-coil |  
+| bip_39_word_dash_12 | key-innocent-when-away-undo-race-glove-detect-situate-hotel-coil-aerobic |  
+| bip_39_word_dash_2 | key-innocent |  
+| bip_39_word_dash_3 | key-innocent-when |  
+| bip_39_word_dash_4 | key-innocent-when-away |  
+| bip_39_word_dash_5 | key-innocent-when-away-undo |  
+| bip_39_word_dash_6 | key-innocent-when-away-undo-race |  
+| bip_39_word_dash_7 | key-innocent-when-away-undo-race-glove |  
+| bip_39_word_dash_8 | key-innocent-when-away-undo-race-glove-detect |  
+| bip_39_word_dash_9 | key-innocent-when-away-undo-race-glove-detect-situate |  
 | bip_39_word_new_br_1 | key |  
 | bip_39_word_new_br_10 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect<br>situate<br>hotel |  
 | bip_39_word_new_br_11 | key<br>innocent<br>when<br>away<br>undo<br>race<br>glove<br>detect<br>situate<br>hotel<br>coil |  
@@ -147,6 +159,18 @@ situate |
 | bip_39_word_space_7 | key innocent when away undo race glove |  
 | bip_39_word_space_8 | key innocent when away undo race glove detect |  
 | bip_39_word_space_9 | key innocent when away undo race glove detect situate |  
+| bip_39_word_underscore_1 | key |  
+| bip_39_word_underscore_10 | key_innocent_when_away_undo_race_glove_detect_situate_hotel |  
+| bip_39_word_underscore_11 | key_innocent_when_away_undo_race_glove_detect_situate_hotel_coil |  
+| bip_39_word_underscore_12 | key_innocent_when_away_undo_race_glove_detect_situate_hotel_coil_aerobic |  
+| bip_39_word_underscore_2 | key_innocent |  
+| bip_39_word_underscore_3 | key_innocent_when |  
+| bip_39_word_underscore_4 | key_innocent_when_away |  
+| bip_39_word_underscore_5 | key_innocent_when_away_undo |  
+| bip_39_word_underscore_6 | key_innocent_when_away_undo_race |  
+| bip_39_word_underscore_7 | key_innocent_when_away_undo_race_glove |  
+| bip_39_word_underscore_8 | key_innocent_when_away_undo_race_glove_detect |  
+| bip_39_word_underscore_9 | key_innocent_when_away_undo_race_glove_detect_situate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

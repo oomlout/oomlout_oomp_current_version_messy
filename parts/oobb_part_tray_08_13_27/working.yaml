@@ -1,3 +1,15 @@
+bip_39_word_dash_1: club
+bip_39_word_dash_10: club-action-slow-quote-pupil-lunch-ecology-memory-jar-language
+bip_39_word_dash_11: club-action-slow-quote-pupil-lunch-ecology-memory-jar-language-palm
+bip_39_word_dash_12: club-action-slow-quote-pupil-lunch-ecology-memory-jar-language-palm-another
+bip_39_word_dash_2: club-action
+bip_39_word_dash_3: club-action-slow
+bip_39_word_dash_4: club-action-slow-quote
+bip_39_word_dash_5: club-action-slow-quote-pupil
+bip_39_word_dash_6: club-action-slow-quote-pupil-lunch
+bip_39_word_dash_7: club-action-slow-quote-pupil-lunch-ecology
+bip_39_word_dash_8: club-action-slow-quote-pupil-lunch-ecology-memory
+bip_39_word_dash_9: club-action-slow-quote-pupil-lunch-ecology-memory-jar
 bip_39_word_new_br_1: club
 bip_39_word_new_br_10: club<br>action<br>slow<br>quote<br>pupil<br>lunch<br>ecology<br>memory<br>jar<br>language
 bip_39_word_new_br_11: club<br>action<br>slow<br>quote<br>pupil<br>lunch<br>ecology<br>memory<br>jar<br>language<br>palm
@@ -193,6 +205,18 @@ bip_39_word_space_6: club action slow quote pupil lunch
 bip_39_word_space_7: club action slow quote pupil lunch ecology
 bip_39_word_space_8: club action slow quote pupil lunch ecology memory
 bip_39_word_space_9: club action slow quote pupil lunch ecology memory jar
+bip_39_word_underscore_1: club
+bip_39_word_underscore_10: club_action_slow_quote_pupil_lunch_ecology_memory_jar_language
+bip_39_word_underscore_11: club_action_slow_quote_pupil_lunch_ecology_memory_jar_language_palm
+bip_39_word_underscore_12: club_action_slow_quote_pupil_lunch_ecology_memory_jar_language_palm_another
+bip_39_word_underscore_2: club_action
+bip_39_word_underscore_3: club_action_slow
+bip_39_word_underscore_4: club_action_slow_quote
+bip_39_word_underscore_5: club_action_slow_quote_pupil
+bip_39_word_underscore_6: club_action_slow_quote_pupil_lunch
+bip_39_word_underscore_7: club_action_slow_quote_pupil_lunch_ecology
+bip_39_word_underscore_8: club_action_slow_quote_pupil_lunch_ecology_memory
+bip_39_word_underscore_9: club_action_slow_quote_pupil_lunch_ecology_memory_jar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

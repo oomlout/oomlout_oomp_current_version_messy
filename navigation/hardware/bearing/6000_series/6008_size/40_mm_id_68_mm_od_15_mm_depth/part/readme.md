@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | battle |  
+| bip_39_word_dash_10 | battle-craft-duck-theory-bicycle-joy-horn-decline-soda-cinnamon |  
+| bip_39_word_dash_11 | battle-craft-duck-theory-bicycle-joy-horn-decline-soda-cinnamon-license |  
+| bip_39_word_dash_12 | battle-craft-duck-theory-bicycle-joy-horn-decline-soda-cinnamon-license-alter |  
+| bip_39_word_dash_2 | battle-craft |  
+| bip_39_word_dash_3 | battle-craft-duck |  
+| bip_39_word_dash_4 | battle-craft-duck-theory |  
+| bip_39_word_dash_5 | battle-craft-duck-theory-bicycle |  
+| bip_39_word_dash_6 | battle-craft-duck-theory-bicycle-joy |  
+| bip_39_word_dash_7 | battle-craft-duck-theory-bicycle-joy-horn |  
+| bip_39_word_dash_8 | battle-craft-duck-theory-bicycle-joy-horn-decline |  
+| bip_39_word_dash_9 | battle-craft-duck-theory-bicycle-joy-horn-decline-soda |  
 | bip_39_word_new_br_1 | battle |  
 | bip_39_word_new_br_10 | battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline<br>soda<br>cinnamon |  
 | bip_39_word_new_br_11 | battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline<br>soda<br>cinnamon<br>license |  
@@ -147,6 +159,18 @@ soda |
 | bip_39_word_space_7 | battle craft duck theory bicycle joy horn |  
 | bip_39_word_space_8 | battle craft duck theory bicycle joy horn decline |  
 | bip_39_word_space_9 | battle craft duck theory bicycle joy horn decline soda |  
+| bip_39_word_underscore_1 | battle |  
+| bip_39_word_underscore_10 | battle_craft_duck_theory_bicycle_joy_horn_decline_soda_cinnamon |  
+| bip_39_word_underscore_11 | battle_craft_duck_theory_bicycle_joy_horn_decline_soda_cinnamon_license |  
+| bip_39_word_underscore_12 | battle_craft_duck_theory_bicycle_joy_horn_decline_soda_cinnamon_license_alter |  
+| bip_39_word_underscore_2 | battle_craft |  
+| bip_39_word_underscore_3 | battle_craft_duck |  
+| bip_39_word_underscore_4 | battle_craft_duck_theory |  
+| bip_39_word_underscore_5 | battle_craft_duck_theory_bicycle |  
+| bip_39_word_underscore_6 | battle_craft_duck_theory_bicycle_joy |  
+| bip_39_word_underscore_7 | battle_craft_duck_theory_bicycle_joy_horn |  
+| bip_39_word_underscore_8 | battle_craft_duck_theory_bicycle_joy_horn_decline |  
+| bip_39_word_underscore_9 | battle_craft_duck_theory_bicycle_joy_horn_decline_soda |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

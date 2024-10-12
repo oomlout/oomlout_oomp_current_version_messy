@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blame
+bip_39_word_dash_10: blame-novel-space-dinner-awake-access-hedgehog-cute-verb-dizzy
+bip_39_word_dash_11: blame-novel-space-dinner-awake-access-hedgehog-cute-verb-dizzy-assume
+bip_39_word_dash_12: blame-novel-space-dinner-awake-access-hedgehog-cute-verb-dizzy-assume-across
+bip_39_word_dash_2: blame-novel
+bip_39_word_dash_3: blame-novel-space
+bip_39_word_dash_4: blame-novel-space-dinner
+bip_39_word_dash_5: blame-novel-space-dinner-awake
+bip_39_word_dash_6: blame-novel-space-dinner-awake-access
+bip_39_word_dash_7: blame-novel-space-dinner-awake-access-hedgehog
+bip_39_word_dash_8: blame-novel-space-dinner-awake-access-hedgehog-cute
+bip_39_word_dash_9: blame-novel-space-dinner-awake-access-hedgehog-cute-verb
 bip_39_word_new_br_1: blame
 bip_39_word_new_br_10: blame<br>novel<br>space<br>dinner<br>awake<br>access<br>hedgehog<br>cute<br>verb<br>dizzy
 bip_39_word_new_br_11: blame<br>novel<br>space<br>dinner<br>awake<br>access<br>hedgehog<br>cute<br>verb<br>dizzy<br>assume
@@ -193,6 +205,18 @@ bip_39_word_space_6: blame novel space dinner awake access
 bip_39_word_space_7: blame novel space dinner awake access hedgehog
 bip_39_word_space_8: blame novel space dinner awake access hedgehog cute
 bip_39_word_space_9: blame novel space dinner awake access hedgehog cute verb
+bip_39_word_underscore_1: blame
+bip_39_word_underscore_10: blame_novel_space_dinner_awake_access_hedgehog_cute_verb_dizzy
+bip_39_word_underscore_11: blame_novel_space_dinner_awake_access_hedgehog_cute_verb_dizzy_assume
+bip_39_word_underscore_12: blame_novel_space_dinner_awake_access_hedgehog_cute_verb_dizzy_assume_across
+bip_39_word_underscore_2: blame_novel
+bip_39_word_underscore_3: blame_novel_space
+bip_39_word_underscore_4: blame_novel_space_dinner
+bip_39_word_underscore_5: blame_novel_space_dinner_awake
+bip_39_word_underscore_6: blame_novel_space_dinner_awake_access
+bip_39_word_underscore_7: blame_novel_space_dinner_awake_access_hedgehog
+bip_39_word_underscore_8: blame_novel_space_dinner_awake_access_hedgehog_cute
+bip_39_word_underscore_9: blame_novel_space_dinner_awake_access_hedgehog_cute_verb
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

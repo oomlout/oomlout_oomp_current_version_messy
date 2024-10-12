@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | judge |  
+| bip_39_word_dash_10 | judge-cricket-kingdom-easy-bottom-prosper-endless-bottom-canyon-tooth |  
+| bip_39_word_dash_11 | judge-cricket-kingdom-easy-bottom-prosper-endless-bottom-canyon-tooth-issue |  
+| bip_39_word_dash_12 | judge-cricket-kingdom-easy-bottom-prosper-endless-bottom-canyon-tooth-issue-arrest |  
+| bip_39_word_dash_2 | judge-cricket |  
+| bip_39_word_dash_3 | judge-cricket-kingdom |  
+| bip_39_word_dash_4 | judge-cricket-kingdom-easy |  
+| bip_39_word_dash_5 | judge-cricket-kingdom-easy-bottom |  
+| bip_39_word_dash_6 | judge-cricket-kingdom-easy-bottom-prosper |  
+| bip_39_word_dash_7 | judge-cricket-kingdom-easy-bottom-prosper-endless |  
+| bip_39_word_dash_8 | judge-cricket-kingdom-easy-bottom-prosper-endless-bottom |  
+| bip_39_word_dash_9 | judge-cricket-kingdom-easy-bottom-prosper-endless-bottom-canyon |  
 | bip_39_word_new_br_1 | judge |  
 | bip_39_word_new_br_10 | judge<br>cricket<br>kingdom<br>easy<br>bottom<br>prosper<br>endless<br>bottom<br>canyon<br>tooth |  
 | bip_39_word_new_br_11 | judge<br>cricket<br>kingdom<br>easy<br>bottom<br>prosper<br>endless<br>bottom<br>canyon<br>tooth<br>issue |  
@@ -147,6 +159,18 @@ canyon |
 | bip_39_word_space_7 | judge cricket kingdom easy bottom prosper endless |  
 | bip_39_word_space_8 | judge cricket kingdom easy bottom prosper endless bottom |  
 | bip_39_word_space_9 | judge cricket kingdom easy bottom prosper endless bottom canyon |  
+| bip_39_word_underscore_1 | judge |  
+| bip_39_word_underscore_10 | judge_cricket_kingdom_easy_bottom_prosper_endless_bottom_canyon_tooth |  
+| bip_39_word_underscore_11 | judge_cricket_kingdom_easy_bottom_prosper_endless_bottom_canyon_tooth_issue |  
+| bip_39_word_underscore_12 | judge_cricket_kingdom_easy_bottom_prosper_endless_bottom_canyon_tooth_issue_arrest |  
+| bip_39_word_underscore_2 | judge_cricket |  
+| bip_39_word_underscore_3 | judge_cricket_kingdom |  
+| bip_39_word_underscore_4 | judge_cricket_kingdom_easy |  
+| bip_39_word_underscore_5 | judge_cricket_kingdom_easy_bottom |  
+| bip_39_word_underscore_6 | judge_cricket_kingdom_easy_bottom_prosper |  
+| bip_39_word_underscore_7 | judge_cricket_kingdom_easy_bottom_prosper_endless |  
+| bip_39_word_underscore_8 | judge_cricket_kingdom_easy_bottom_prosper_endless_bottom |  
+| bip_39_word_underscore_9 | judge_cricket_kingdom_easy_bottom_prosper_endless_bottom_canyon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: test
+bip_39_word_dash_10: test-rigid-purity-regular-stadium-door-lesson-audit-hundred-junior
+bip_39_word_dash_11: test-rigid-purity-regular-stadium-door-lesson-audit-hundred-junior-elder
+bip_39_word_dash_12: test-rigid-purity-regular-stadium-door-lesson-audit-hundred-junior-elder-apology
+bip_39_word_dash_2: test-rigid
+bip_39_word_dash_3: test-rigid-purity
+bip_39_word_dash_4: test-rigid-purity-regular
+bip_39_word_dash_5: test-rigid-purity-regular-stadium
+bip_39_word_dash_6: test-rigid-purity-regular-stadium-door
+bip_39_word_dash_7: test-rigid-purity-regular-stadium-door-lesson
+bip_39_word_dash_8: test-rigid-purity-regular-stadium-door-lesson-audit
+bip_39_word_dash_9: test-rigid-purity-regular-stadium-door-lesson-audit-hundred
 bip_39_word_new_br_1: test
 bip_39_word_new_br_10: test<br>rigid<br>purity<br>regular<br>stadium<br>door<br>lesson<br>audit<br>hundred<br>junior
 bip_39_word_new_br_11: test<br>rigid<br>purity<br>regular<br>stadium<br>door<br>lesson<br>audit<br>hundred<br>junior<br>elder
@@ -194,6 +206,18 @@ bip_39_word_space_6: test rigid purity regular stadium door
 bip_39_word_space_7: test rigid purity regular stadium door lesson
 bip_39_word_space_8: test rigid purity regular stadium door lesson audit
 bip_39_word_space_9: test rigid purity regular stadium door lesson audit hundred
+bip_39_word_underscore_1: test
+bip_39_word_underscore_10: test_rigid_purity_regular_stadium_door_lesson_audit_hundred_junior
+bip_39_word_underscore_11: test_rigid_purity_regular_stadium_door_lesson_audit_hundred_junior_elder
+bip_39_word_underscore_12: test_rigid_purity_regular_stadium_door_lesson_audit_hundred_junior_elder_apology
+bip_39_word_underscore_2: test_rigid
+bip_39_word_underscore_3: test_rigid_purity
+bip_39_word_underscore_4: test_rigid_purity_regular
+bip_39_word_underscore_5: test_rigid_purity_regular_stadium
+bip_39_word_underscore_6: test_rigid_purity_regular_stadium_door
+bip_39_word_underscore_7: test_rigid_purity_regular_stadium_door_lesson
+bip_39_word_underscore_8: test_rigid_purity_regular_stadium_door_lesson_audit
+bip_39_word_underscore_9: test_rigid_purity_regular_stadium_door_lesson_audit_hundred
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

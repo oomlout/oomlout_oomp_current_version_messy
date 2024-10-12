@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enhance |  
+| bip_39_word_dash_10 | enhance-forget-hire-clarify-nuclear-monitor-legal-parent-unhappy-giant |  
+| bip_39_word_dash_11 | enhance-forget-hire-clarify-nuclear-monitor-legal-parent-unhappy-giant-super |  
+| bip_39_word_dash_12 | enhance-forget-hire-clarify-nuclear-monitor-legal-parent-unhappy-giant-super-above |  
+| bip_39_word_dash_2 | enhance-forget |  
+| bip_39_word_dash_3 | enhance-forget-hire |  
+| bip_39_word_dash_4 | enhance-forget-hire-clarify |  
+| bip_39_word_dash_5 | enhance-forget-hire-clarify-nuclear |  
+| bip_39_word_dash_6 | enhance-forget-hire-clarify-nuclear-monitor |  
+| bip_39_word_dash_7 | enhance-forget-hire-clarify-nuclear-monitor-legal |  
+| bip_39_word_dash_8 | enhance-forget-hire-clarify-nuclear-monitor-legal-parent |  
+| bip_39_word_dash_9 | enhance-forget-hire-clarify-nuclear-monitor-legal-parent-unhappy |  
 | bip_39_word_new_br_1 | enhance |  
 | bip_39_word_new_br_10 | enhance<br>forget<br>hire<br>clarify<br>nuclear<br>monitor<br>legal<br>parent<br>unhappy<br>giant |  
 | bip_39_word_new_br_11 | enhance<br>forget<br>hire<br>clarify<br>nuclear<br>monitor<br>legal<br>parent<br>unhappy<br>giant<br>super |  
@@ -147,6 +159,18 @@ unhappy |
 | bip_39_word_space_7 | enhance forget hire clarify nuclear monitor legal |  
 | bip_39_word_space_8 | enhance forget hire clarify nuclear monitor legal parent |  
 | bip_39_word_space_9 | enhance forget hire clarify nuclear monitor legal parent unhappy |  
+| bip_39_word_underscore_1 | enhance |  
+| bip_39_word_underscore_10 | enhance_forget_hire_clarify_nuclear_monitor_legal_parent_unhappy_giant |  
+| bip_39_word_underscore_11 | enhance_forget_hire_clarify_nuclear_monitor_legal_parent_unhappy_giant_super |  
+| bip_39_word_underscore_12 | enhance_forget_hire_clarify_nuclear_monitor_legal_parent_unhappy_giant_super_above |  
+| bip_39_word_underscore_2 | enhance_forget |  
+| bip_39_word_underscore_3 | enhance_forget_hire |  
+| bip_39_word_underscore_4 | enhance_forget_hire_clarify |  
+| bip_39_word_underscore_5 | enhance_forget_hire_clarify_nuclear |  
+| bip_39_word_underscore_6 | enhance_forget_hire_clarify_nuclear_monitor |  
+| bip_39_word_underscore_7 | enhance_forget_hire_clarify_nuclear_monitor_legal |  
+| bip_39_word_underscore_8 | enhance_forget_hire_clarify_nuclear_monitor_legal_parent |  
+| bip_39_word_underscore_9 | enhance_forget_hire_clarify_nuclear_monitor_legal_parent_unhappy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

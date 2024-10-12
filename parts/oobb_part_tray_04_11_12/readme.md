@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | art |  
+| bip_39_word_dash_10 | art-path-body-foil-strike-narrow-blade-power-bright-total |  
+| bip_39_word_dash_11 | art-path-body-foil-strike-narrow-blade-power-bright-total-cement |  
+| bip_39_word_dash_12 | art-path-body-foil-strike-narrow-blade-power-bright-total-cement-acid |  
+| bip_39_word_dash_2 | art-path |  
+| bip_39_word_dash_3 | art-path-body |  
+| bip_39_word_dash_4 | art-path-body-foil |  
+| bip_39_word_dash_5 | art-path-body-foil-strike |  
+| bip_39_word_dash_6 | art-path-body-foil-strike-narrow |  
+| bip_39_word_dash_7 | art-path-body-foil-strike-narrow-blade |  
+| bip_39_word_dash_8 | art-path-body-foil-strike-narrow-blade-power |  
+| bip_39_word_dash_9 | art-path-body-foil-strike-narrow-blade-power-bright |  
 | bip_39_word_new_br_1 | art |  
 | bip_39_word_new_br_10 | art<br>path<br>body<br>foil<br>strike<br>narrow<br>blade<br>power<br>bright<br>total |  
 | bip_39_word_new_br_11 | art<br>path<br>body<br>foil<br>strike<br>narrow<br>blade<br>power<br>bright<br>total<br>cement |  
@@ -147,6 +159,18 @@ bright |
 | bip_39_word_space_7 | art path body foil strike narrow blade |  
 | bip_39_word_space_8 | art path body foil strike narrow blade power |  
 | bip_39_word_space_9 | art path body foil strike narrow blade power bright |  
+| bip_39_word_underscore_1 | art |  
+| bip_39_word_underscore_10 | art_path_body_foil_strike_narrow_blade_power_bright_total |  
+| bip_39_word_underscore_11 | art_path_body_foil_strike_narrow_blade_power_bright_total_cement |  
+| bip_39_word_underscore_12 | art_path_body_foil_strike_narrow_blade_power_bright_total_cement_acid |  
+| bip_39_word_underscore_2 | art_path |  
+| bip_39_word_underscore_3 | art_path_body |  
+| bip_39_word_underscore_4 | art_path_body_foil |  
+| bip_39_word_underscore_5 | art_path_body_foil_strike |  
+| bip_39_word_underscore_6 | art_path_body_foil_strike_narrow |  
+| bip_39_word_underscore_7 | art_path_body_foil_strike_narrow_blade |  
+| bip_39_word_underscore_8 | art_path_body_foil_strike_narrow_blade_power |  
+| bip_39_word_underscore_9 | art_path_body_foil_strike_narrow_blade_power_bright |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

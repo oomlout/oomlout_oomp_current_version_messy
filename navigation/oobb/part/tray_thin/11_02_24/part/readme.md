@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gun |  
+| bip_39_word_dash_10 | gun-detail-clock-dash-walk-damage-surge-link-stairs-tilt |  
+| bip_39_word_dash_11 | gun-detail-clock-dash-walk-damage-surge-link-stairs-tilt-between |  
+| bip_39_word_dash_12 | gun-detail-clock-dash-walk-damage-surge-link-stairs-tilt-between-aerobic |  
+| bip_39_word_dash_2 | gun-detail |  
+| bip_39_word_dash_3 | gun-detail-clock |  
+| bip_39_word_dash_4 | gun-detail-clock-dash |  
+| bip_39_word_dash_5 | gun-detail-clock-dash-walk |  
+| bip_39_word_dash_6 | gun-detail-clock-dash-walk-damage |  
+| bip_39_word_dash_7 | gun-detail-clock-dash-walk-damage-surge |  
+| bip_39_word_dash_8 | gun-detail-clock-dash-walk-damage-surge-link |  
+| bip_39_word_dash_9 | gun-detail-clock-dash-walk-damage-surge-link-stairs |  
 | bip_39_word_new_br_1 | gun |  
 | bip_39_word_new_br_10 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt |  
 | bip_39_word_new_br_11 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt<br>between |  
@@ -147,6 +159,18 @@ stairs |
 | bip_39_word_space_7 | gun detail clock dash walk damage surge |  
 | bip_39_word_space_8 | gun detail clock dash walk damage surge link |  
 | bip_39_word_space_9 | gun detail clock dash walk damage surge link stairs |  
+| bip_39_word_underscore_1 | gun |  
+| bip_39_word_underscore_10 | gun_detail_clock_dash_walk_damage_surge_link_stairs_tilt |  
+| bip_39_word_underscore_11 | gun_detail_clock_dash_walk_damage_surge_link_stairs_tilt_between |  
+| bip_39_word_underscore_12 | gun_detail_clock_dash_walk_damage_surge_link_stairs_tilt_between_aerobic |  
+| bip_39_word_underscore_2 | gun_detail |  
+| bip_39_word_underscore_3 | gun_detail_clock |  
+| bip_39_word_underscore_4 | gun_detail_clock_dash |  
+| bip_39_word_underscore_5 | gun_detail_clock_dash_walk |  
+| bip_39_word_underscore_6 | gun_detail_clock_dash_walk_damage |  
+| bip_39_word_underscore_7 | gun_detail_clock_dash_walk_damage_surge |  
+| bip_39_word_underscore_8 | gun_detail_clock_dash_walk_damage_surge_link |  
+| bip_39_word_underscore_9 | gun_detail_clock_dash_walk_damage_surge_link_stairs |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

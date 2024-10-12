@@ -1,3 +1,15 @@
+bip_39_word_dash_1: imitate
+bip_39_word_dash_10: imitate-nothing-demise-clarify-jaguar-spring-eye-cinnamon-swap-always
+bip_39_word_dash_11: imitate-nothing-demise-clarify-jaguar-spring-eye-cinnamon-swap-always-assist
+bip_39_word_dash_12: imitate-nothing-demise-clarify-jaguar-spring-eye-cinnamon-swap-always-assist-asthma
+bip_39_word_dash_2: imitate-nothing
+bip_39_word_dash_3: imitate-nothing-demise
+bip_39_word_dash_4: imitate-nothing-demise-clarify
+bip_39_word_dash_5: imitate-nothing-demise-clarify-jaguar
+bip_39_word_dash_6: imitate-nothing-demise-clarify-jaguar-spring
+bip_39_word_dash_7: imitate-nothing-demise-clarify-jaguar-spring-eye
+bip_39_word_dash_8: imitate-nothing-demise-clarify-jaguar-spring-eye-cinnamon
+bip_39_word_dash_9: imitate-nothing-demise-clarify-jaguar-spring-eye-cinnamon-swap
 bip_39_word_new_br_1: imitate
 bip_39_word_new_br_10: imitate<br>nothing<br>demise<br>clarify<br>jaguar<br>spring<br>eye<br>cinnamon<br>swap<br>always
 bip_39_word_new_br_11: imitate<br>nothing<br>demise<br>clarify<br>jaguar<br>spring<br>eye<br>cinnamon<br>swap<br>always<br>assist
@@ -194,6 +206,18 @@ bip_39_word_space_6: imitate nothing demise clarify jaguar spring
 bip_39_word_space_7: imitate nothing demise clarify jaguar spring eye
 bip_39_word_space_8: imitate nothing demise clarify jaguar spring eye cinnamon
 bip_39_word_space_9: imitate nothing demise clarify jaguar spring eye cinnamon swap
+bip_39_word_underscore_1: imitate
+bip_39_word_underscore_10: imitate_nothing_demise_clarify_jaguar_spring_eye_cinnamon_swap_always
+bip_39_word_underscore_11: imitate_nothing_demise_clarify_jaguar_spring_eye_cinnamon_swap_always_assist
+bip_39_word_underscore_12: imitate_nothing_demise_clarify_jaguar_spring_eye_cinnamon_swap_always_assist_asthma
+bip_39_word_underscore_2: imitate_nothing
+bip_39_word_underscore_3: imitate_nothing_demise
+bip_39_word_underscore_4: imitate_nothing_demise_clarify
+bip_39_word_underscore_5: imitate_nothing_demise_clarify_jaguar
+bip_39_word_underscore_6: imitate_nothing_demise_clarify_jaguar_spring
+bip_39_word_underscore_7: imitate_nothing_demise_clarify_jaguar_spring_eye
+bip_39_word_underscore_8: imitate_nothing_demise_clarify_jaguar_spring_eye_cinnamon
+bip_39_word_underscore_9: imitate_nothing_demise_clarify_jaguar_spring_eye_cinnamon_swap
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

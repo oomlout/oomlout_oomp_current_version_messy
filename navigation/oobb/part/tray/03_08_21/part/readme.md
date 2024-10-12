@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | near |  
+| bip_39_word_dash_10 | near-link-evolve-broom-blur-lumber-extend-tent-notable-almost |  
+| bip_39_word_dash_11 | near-link-evolve-broom-blur-lumber-extend-tent-notable-almost-stone |  
+| bip_39_word_dash_12 | near-link-evolve-broom-blur-lumber-extend-tent-notable-almost-stone-annual |  
+| bip_39_word_dash_2 | near-link |  
+| bip_39_word_dash_3 | near-link-evolve |  
+| bip_39_word_dash_4 | near-link-evolve-broom |  
+| bip_39_word_dash_5 | near-link-evolve-broom-blur |  
+| bip_39_word_dash_6 | near-link-evolve-broom-blur-lumber |  
+| bip_39_word_dash_7 | near-link-evolve-broom-blur-lumber-extend |  
+| bip_39_word_dash_8 | near-link-evolve-broom-blur-lumber-extend-tent |  
+| bip_39_word_dash_9 | near-link-evolve-broom-blur-lumber-extend-tent-notable |  
 | bip_39_word_new_br_1 | near |  
 | bip_39_word_new_br_10 | near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent<br>notable<br>almost |  
 | bip_39_word_new_br_11 | near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent<br>notable<br>almost<br>stone |  
@@ -147,6 +159,18 @@ notable |
 | bip_39_word_space_7 | near link evolve broom blur lumber extend |  
 | bip_39_word_space_8 | near link evolve broom blur lumber extend tent |  
 | bip_39_word_space_9 | near link evolve broom blur lumber extend tent notable |  
+| bip_39_word_underscore_1 | near |  
+| bip_39_word_underscore_10 | near_link_evolve_broom_blur_lumber_extend_tent_notable_almost |  
+| bip_39_word_underscore_11 | near_link_evolve_broom_blur_lumber_extend_tent_notable_almost_stone |  
+| bip_39_word_underscore_12 | near_link_evolve_broom_blur_lumber_extend_tent_notable_almost_stone_annual |  
+| bip_39_word_underscore_2 | near_link |  
+| bip_39_word_underscore_3 | near_link_evolve |  
+| bip_39_word_underscore_4 | near_link_evolve_broom |  
+| bip_39_word_underscore_5 | near_link_evolve_broom_blur |  
+| bip_39_word_underscore_6 | near_link_evolve_broom_blur_lumber |  
+| bip_39_word_underscore_7 | near_link_evolve_broom_blur_lumber_extend |  
+| bip_39_word_underscore_8 | near_link_evolve_broom_blur_lumber_extend_tent |  
+| bip_39_word_underscore_9 | near_link_evolve_broom_blur_lumber_extend_tent_notable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

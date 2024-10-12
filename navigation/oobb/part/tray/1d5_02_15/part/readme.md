@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | adult |  
+| bip_39_word_dash_10 | adult-arch-arm-action-vacant-advance-equal-energy-tragic-crash |  
+| bip_39_word_dash_11 | adult-arch-arm-action-vacant-advance-equal-energy-tragic-crash-tent |  
+| bip_39_word_dash_12 | adult-arch-arm-action-vacant-advance-equal-energy-tragic-crash-tent-answer |  
+| bip_39_word_dash_2 | adult-arch |  
+| bip_39_word_dash_3 | adult-arch-arm |  
+| bip_39_word_dash_4 | adult-arch-arm-action |  
+| bip_39_word_dash_5 | adult-arch-arm-action-vacant |  
+| bip_39_word_dash_6 | adult-arch-arm-action-vacant-advance |  
+| bip_39_word_dash_7 | adult-arch-arm-action-vacant-advance-equal |  
+| bip_39_word_dash_8 | adult-arch-arm-action-vacant-advance-equal-energy |  
+| bip_39_word_dash_9 | adult-arch-arm-action-vacant-advance-equal-energy-tragic |  
 | bip_39_word_new_br_1 | adult |  
 | bip_39_word_new_br_10 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy<br>tragic<br>crash |  
 | bip_39_word_new_br_11 | adult<br>arch<br>arm<br>action<br>vacant<br>advance<br>equal<br>energy<br>tragic<br>crash<br>tent |  
@@ -147,6 +159,18 @@ tragic |
 | bip_39_word_space_7 | adult arch arm action vacant advance equal |  
 | bip_39_word_space_8 | adult arch arm action vacant advance equal energy |  
 | bip_39_word_space_9 | adult arch arm action vacant advance equal energy tragic |  
+| bip_39_word_underscore_1 | adult |  
+| bip_39_word_underscore_10 | adult_arch_arm_action_vacant_advance_equal_energy_tragic_crash |  
+| bip_39_word_underscore_11 | adult_arch_arm_action_vacant_advance_equal_energy_tragic_crash_tent |  
+| bip_39_word_underscore_12 | adult_arch_arm_action_vacant_advance_equal_energy_tragic_crash_tent_answer |  
+| bip_39_word_underscore_2 | adult_arch |  
+| bip_39_word_underscore_3 | adult_arch_arm |  
+| bip_39_word_underscore_4 | adult_arch_arm_action |  
+| bip_39_word_underscore_5 | adult_arch_arm_action_vacant |  
+| bip_39_word_underscore_6 | adult_arch_arm_action_vacant_advance |  
+| bip_39_word_underscore_7 | adult_arch_arm_action_vacant_advance_equal |  
+| bip_39_word_underscore_8 | adult_arch_arm_action_vacant_advance_equal_energy |  
+| bip_39_word_underscore_9 | adult_arch_arm_action_vacant_advance_equal_energy_tragic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

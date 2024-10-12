@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tissue |  
+| bip_39_word_dash_10 | tissue-erosion-rescue-quarter-immune-salt-quick-nut-street-wreck |  
+| bip_39_word_dash_11 | tissue-erosion-rescue-quarter-immune-salt-quick-nut-street-wreck-father |  
+| bip_39_word_dash_12 | tissue-erosion-rescue-quarter-immune-salt-quick-nut-street-wreck-father-approve |  
+| bip_39_word_dash_2 | tissue-erosion |  
+| bip_39_word_dash_3 | tissue-erosion-rescue |  
+| bip_39_word_dash_4 | tissue-erosion-rescue-quarter |  
+| bip_39_word_dash_5 | tissue-erosion-rescue-quarter-immune |  
+| bip_39_word_dash_6 | tissue-erosion-rescue-quarter-immune-salt |  
+| bip_39_word_dash_7 | tissue-erosion-rescue-quarter-immune-salt-quick |  
+| bip_39_word_dash_8 | tissue-erosion-rescue-quarter-immune-salt-quick-nut |  
+| bip_39_word_dash_9 | tissue-erosion-rescue-quarter-immune-salt-quick-nut-street |  
 | bip_39_word_new_br_1 | tissue |  
 | bip_39_word_new_br_10 | tissue<br>erosion<br>rescue<br>quarter<br>immune<br>salt<br>quick<br>nut<br>street<br>wreck |  
 | bip_39_word_new_br_11 | tissue<br>erosion<br>rescue<br>quarter<br>immune<br>salt<br>quick<br>nut<br>street<br>wreck<br>father |  
@@ -147,6 +159,18 @@ street |
 | bip_39_word_space_7 | tissue erosion rescue quarter immune salt quick |  
 | bip_39_word_space_8 | tissue erosion rescue quarter immune salt quick nut |  
 | bip_39_word_space_9 | tissue erosion rescue quarter immune salt quick nut street |  
+| bip_39_word_underscore_1 | tissue |  
+| bip_39_word_underscore_10 | tissue_erosion_rescue_quarter_immune_salt_quick_nut_street_wreck |  
+| bip_39_word_underscore_11 | tissue_erosion_rescue_quarter_immune_salt_quick_nut_street_wreck_father |  
+| bip_39_word_underscore_12 | tissue_erosion_rescue_quarter_immune_salt_quick_nut_street_wreck_father_approve |  
+| bip_39_word_underscore_2 | tissue_erosion |  
+| bip_39_word_underscore_3 | tissue_erosion_rescue |  
+| bip_39_word_underscore_4 | tissue_erosion_rescue_quarter |  
+| bip_39_word_underscore_5 | tissue_erosion_rescue_quarter_immune |  
+| bip_39_word_underscore_6 | tissue_erosion_rescue_quarter_immune_salt |  
+| bip_39_word_underscore_7 | tissue_erosion_rescue_quarter_immune_salt_quick |  
+| bip_39_word_underscore_8 | tissue_erosion_rescue_quarter_immune_salt_quick_nut |  
+| bip_39_word_underscore_9 | tissue_erosion_rescue_quarter_immune_salt_quick_nut_street |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

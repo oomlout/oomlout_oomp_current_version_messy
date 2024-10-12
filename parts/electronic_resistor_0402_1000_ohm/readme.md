@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | minor |  
+| bip_39_word_dash_10 | minor-valid-mad-expect-service-throw-glare-resemble-result-hat |  
+| bip_39_word_dash_11 | minor-valid-mad-expect-service-throw-glare-resemble-result-hat-grape |  
+| bip_39_word_dash_12 | minor-valid-mad-expect-service-throw-glare-resemble-result-hat-grape-alpha |  
+| bip_39_word_dash_2 | minor-valid |  
+| bip_39_word_dash_3 | minor-valid-mad |  
+| bip_39_word_dash_4 | minor-valid-mad-expect |  
+| bip_39_word_dash_5 | minor-valid-mad-expect-service |  
+| bip_39_word_dash_6 | minor-valid-mad-expect-service-throw |  
+| bip_39_word_dash_7 | minor-valid-mad-expect-service-throw-glare |  
+| bip_39_word_dash_8 | minor-valid-mad-expect-service-throw-glare-resemble |  
+| bip_39_word_dash_9 | minor-valid-mad-expect-service-throw-glare-resemble-result |  
 | bip_39_word_new_br_1 | minor |  
 | bip_39_word_new_br_10 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat |  
 | bip_39_word_new_br_11 | minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat<br>grape |  
@@ -147,6 +159,18 @@ result |
 | bip_39_word_space_7 | minor valid mad expect service throw glare |  
 | bip_39_word_space_8 | minor valid mad expect service throw glare resemble |  
 | bip_39_word_space_9 | minor valid mad expect service throw glare resemble result |  
+| bip_39_word_underscore_1 | minor |  
+| bip_39_word_underscore_10 | minor_valid_mad_expect_service_throw_glare_resemble_result_hat |  
+| bip_39_word_underscore_11 | minor_valid_mad_expect_service_throw_glare_resemble_result_hat_grape |  
+| bip_39_word_underscore_12 | minor_valid_mad_expect_service_throw_glare_resemble_result_hat_grape_alpha |  
+| bip_39_word_underscore_2 | minor_valid |  
+| bip_39_word_underscore_3 | minor_valid_mad |  
+| bip_39_word_underscore_4 | minor_valid_mad_expect |  
+| bip_39_word_underscore_5 | minor_valid_mad_expect_service |  
+| bip_39_word_underscore_6 | minor_valid_mad_expect_service_throw |  
+| bip_39_word_underscore_7 | minor_valid_mad_expect_service_throw_glare |  
+| bip_39_word_underscore_8 | minor_valid_mad_expect_service_throw_glare_resemble |  
+| bip_39_word_underscore_9 | minor_valid_mad_expect_service_throw_glare_resemble_result |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | timber |  
+| bip_39_word_dash_10 | timber-wrestle-call-quantum-dove-antenna-oval-swim-drama-gaze |  
+| bip_39_word_dash_11 | timber-wrestle-call-quantum-dove-antenna-oval-swim-drama-gaze-crane |  
+| bip_39_word_dash_12 | timber-wrestle-call-quantum-dove-antenna-oval-swim-drama-gaze-crane-anchor |  
+| bip_39_word_dash_2 | timber-wrestle |  
+| bip_39_word_dash_3 | timber-wrestle-call |  
+| bip_39_word_dash_4 | timber-wrestle-call-quantum |  
+| bip_39_word_dash_5 | timber-wrestle-call-quantum-dove |  
+| bip_39_word_dash_6 | timber-wrestle-call-quantum-dove-antenna |  
+| bip_39_word_dash_7 | timber-wrestle-call-quantum-dove-antenna-oval |  
+| bip_39_word_dash_8 | timber-wrestle-call-quantum-dove-antenna-oval-swim |  
+| bip_39_word_dash_9 | timber-wrestle-call-quantum-dove-antenna-oval-swim-drama |  
 | bip_39_word_new_br_1 | timber |  
 | bip_39_word_new_br_10 | timber<br>wrestle<br>call<br>quantum<br>dove<br>antenna<br>oval<br>swim<br>drama<br>gaze |  
 | bip_39_word_new_br_11 | timber<br>wrestle<br>call<br>quantum<br>dove<br>antenna<br>oval<br>swim<br>drama<br>gaze<br>crane |  
@@ -147,6 +159,18 @@ drama |
 | bip_39_word_space_7 | timber wrestle call quantum dove antenna oval |  
 | bip_39_word_space_8 | timber wrestle call quantum dove antenna oval swim |  
 | bip_39_word_space_9 | timber wrestle call quantum dove antenna oval swim drama |  
+| bip_39_word_underscore_1 | timber |  
+| bip_39_word_underscore_10 | timber_wrestle_call_quantum_dove_antenna_oval_swim_drama_gaze |  
+| bip_39_word_underscore_11 | timber_wrestle_call_quantum_dove_antenna_oval_swim_drama_gaze_crane |  
+| bip_39_word_underscore_12 | timber_wrestle_call_quantum_dove_antenna_oval_swim_drama_gaze_crane_anchor |  
+| bip_39_word_underscore_2 | timber_wrestle |  
+| bip_39_word_underscore_3 | timber_wrestle_call |  
+| bip_39_word_underscore_4 | timber_wrestle_call_quantum |  
+| bip_39_word_underscore_5 | timber_wrestle_call_quantum_dove |  
+| bip_39_word_underscore_6 | timber_wrestle_call_quantum_dove_antenna |  
+| bip_39_word_underscore_7 | timber_wrestle_call_quantum_dove_antenna_oval |  
+| bip_39_word_underscore_8 | timber_wrestle_call_quantum_dove_antenna_oval_swim |  
+| bip_39_word_underscore_9 | timber_wrestle_call_quantum_dove_antenna_oval_swim_drama |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

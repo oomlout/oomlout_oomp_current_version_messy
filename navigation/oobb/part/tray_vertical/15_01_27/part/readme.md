@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | traffic |  
+| bip_39_word_dash_10 | traffic-net-never-announce-gravity-glad-knock-fancy-elbow-tiny |  
+| bip_39_word_dash_11 | traffic-net-never-announce-gravity-glad-knock-fancy-elbow-tiny-search |  
+| bip_39_word_dash_12 | traffic-net-never-announce-gravity-glad-knock-fancy-elbow-tiny-search-again |  
+| bip_39_word_dash_2 | traffic-net |  
+| bip_39_word_dash_3 | traffic-net-never |  
+| bip_39_word_dash_4 | traffic-net-never-announce |  
+| bip_39_word_dash_5 | traffic-net-never-announce-gravity |  
+| bip_39_word_dash_6 | traffic-net-never-announce-gravity-glad |  
+| bip_39_word_dash_7 | traffic-net-never-announce-gravity-glad-knock |  
+| bip_39_word_dash_8 | traffic-net-never-announce-gravity-glad-knock-fancy |  
+| bip_39_word_dash_9 | traffic-net-never-announce-gravity-glad-knock-fancy-elbow |  
 | bip_39_word_new_br_1 | traffic |  
 | bip_39_word_new_br_10 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny |  
 | bip_39_word_new_br_11 | traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny<br>search |  
@@ -147,6 +159,18 @@ elbow |
 | bip_39_word_space_7 | traffic net never announce gravity glad knock |  
 | bip_39_word_space_8 | traffic net never announce gravity glad knock fancy |  
 | bip_39_word_space_9 | traffic net never announce gravity glad knock fancy elbow |  
+| bip_39_word_underscore_1 | traffic |  
+| bip_39_word_underscore_10 | traffic_net_never_announce_gravity_glad_knock_fancy_elbow_tiny |  
+| bip_39_word_underscore_11 | traffic_net_never_announce_gravity_glad_knock_fancy_elbow_tiny_search |  
+| bip_39_word_underscore_12 | traffic_net_never_announce_gravity_glad_knock_fancy_elbow_tiny_search_again |  
+| bip_39_word_underscore_2 | traffic_net |  
+| bip_39_word_underscore_3 | traffic_net_never |  
+| bip_39_word_underscore_4 | traffic_net_never_announce |  
+| bip_39_word_underscore_5 | traffic_net_never_announce_gravity |  
+| bip_39_word_underscore_6 | traffic_net_never_announce_gravity_glad |  
+| bip_39_word_underscore_7 | traffic_net_never_announce_gravity_glad_knock |  
+| bip_39_word_underscore_8 | traffic_net_never_announce_gravity_glad_knock_fancy |  
+| bip_39_word_underscore_9 | traffic_net_never_announce_gravity_glad_knock_fancy_elbow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

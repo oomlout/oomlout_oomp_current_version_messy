@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | used |  
+| bip_39_word_dash_10 | used-finger-flavor-angle-devote-waste-figure-anger-vocal-age |  
+| bip_39_word_dash_11 | used-finger-flavor-angle-devote-waste-figure-anger-vocal-age-quantum |  
+| bip_39_word_dash_12 | used-finger-flavor-angle-devote-waste-figure-anger-vocal-age-quantum-actress |  
+| bip_39_word_dash_2 | used-finger |  
+| bip_39_word_dash_3 | used-finger-flavor |  
+| bip_39_word_dash_4 | used-finger-flavor-angle |  
+| bip_39_word_dash_5 | used-finger-flavor-angle-devote |  
+| bip_39_word_dash_6 | used-finger-flavor-angle-devote-waste |  
+| bip_39_word_dash_7 | used-finger-flavor-angle-devote-waste-figure |  
+| bip_39_word_dash_8 | used-finger-flavor-angle-devote-waste-figure-anger |  
+| bip_39_word_dash_9 | used-finger-flavor-angle-devote-waste-figure-anger-vocal |  
 | bip_39_word_new_br_1 | used |  
 | bip_39_word_new_br_10 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age |  
 | bip_39_word_new_br_11 | used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age<br>quantum |  
@@ -147,6 +159,18 @@ vocal |
 | bip_39_word_space_7 | used finger flavor angle devote waste figure |  
 | bip_39_word_space_8 | used finger flavor angle devote waste figure anger |  
 | bip_39_word_space_9 | used finger flavor angle devote waste figure anger vocal |  
+| bip_39_word_underscore_1 | used |  
+| bip_39_word_underscore_10 | used_finger_flavor_angle_devote_waste_figure_anger_vocal_age |  
+| bip_39_word_underscore_11 | used_finger_flavor_angle_devote_waste_figure_anger_vocal_age_quantum |  
+| bip_39_word_underscore_12 | used_finger_flavor_angle_devote_waste_figure_anger_vocal_age_quantum_actress |  
+| bip_39_word_underscore_2 | used_finger |  
+| bip_39_word_underscore_3 | used_finger_flavor |  
+| bip_39_word_underscore_4 | used_finger_flavor_angle |  
+| bip_39_word_underscore_5 | used_finger_flavor_angle_devote |  
+| bip_39_word_underscore_6 | used_finger_flavor_angle_devote_waste |  
+| bip_39_word_underscore_7 | used_finger_flavor_angle_devote_waste_figure |  
+| bip_39_word_underscore_8 | used_finger_flavor_angle_devote_waste_figure_anger |  
+| bip_39_word_underscore_9 | used_finger_flavor_angle_devote_waste_figure_anger_vocal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

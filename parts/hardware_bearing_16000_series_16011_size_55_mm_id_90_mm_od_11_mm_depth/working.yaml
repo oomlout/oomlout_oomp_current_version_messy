@@ -1,3 +1,15 @@
+bip_39_word_dash_1: circle
+bip_39_word_dash_10: circle-end-unfair-sweet-sweet-laugh-middle-attend-symptom-horror
+bip_39_word_dash_11: circle-end-unfair-sweet-sweet-laugh-middle-attend-symptom-horror-enemy
+bip_39_word_dash_12: circle-end-unfair-sweet-sweet-laugh-middle-attend-symptom-horror-enemy-act
+bip_39_word_dash_2: circle-end
+bip_39_word_dash_3: circle-end-unfair
+bip_39_word_dash_4: circle-end-unfair-sweet
+bip_39_word_dash_5: circle-end-unfair-sweet-sweet
+bip_39_word_dash_6: circle-end-unfair-sweet-sweet-laugh
+bip_39_word_dash_7: circle-end-unfair-sweet-sweet-laugh-middle
+bip_39_word_dash_8: circle-end-unfair-sweet-sweet-laugh-middle-attend
+bip_39_word_dash_9: circle-end-unfair-sweet-sweet-laugh-middle-attend-symptom
 bip_39_word_new_br_1: circle
 bip_39_word_new_br_10: circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror
 bip_39_word_new_br_11: circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror<br>enemy
@@ -193,6 +205,18 @@ bip_39_word_space_6: circle end unfair sweet sweet laugh
 bip_39_word_space_7: circle end unfair sweet sweet laugh middle
 bip_39_word_space_8: circle end unfair sweet sweet laugh middle attend
 bip_39_word_space_9: circle end unfair sweet sweet laugh middle attend symptom
+bip_39_word_underscore_1: circle
+bip_39_word_underscore_10: circle_end_unfair_sweet_sweet_laugh_middle_attend_symptom_horror
+bip_39_word_underscore_11: circle_end_unfair_sweet_sweet_laugh_middle_attend_symptom_horror_enemy
+bip_39_word_underscore_12: circle_end_unfair_sweet_sweet_laugh_middle_attend_symptom_horror_enemy_act
+bip_39_word_underscore_2: circle_end
+bip_39_word_underscore_3: circle_end_unfair
+bip_39_word_underscore_4: circle_end_unfair_sweet
+bip_39_word_underscore_5: circle_end_unfair_sweet_sweet
+bip_39_word_underscore_6: circle_end_unfair_sweet_sweet_laugh
+bip_39_word_underscore_7: circle_end_unfair_sweet_sweet_laugh_middle
+bip_39_word_underscore_8: circle_end_unfair_sweet_sweet_laugh_middle_attend
+bip_39_word_underscore_9: circle_end_unfair_sweet_sweet_laugh_middle_attend_symptom
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

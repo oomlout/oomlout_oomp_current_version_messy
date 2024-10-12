@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drastic |  
+| bip_39_word_dash_10 | drastic-remember-soda-fever-cancel-shop-problem-gesture-carpet-glad |  
+| bip_39_word_dash_11 | drastic-remember-soda-fever-cancel-shop-problem-gesture-carpet-glad-trust |  
+| bip_39_word_dash_12 | drastic-remember-soda-fever-cancel-shop-problem-gesture-carpet-glad-trust-arm |  
+| bip_39_word_dash_2 | drastic-remember |  
+| bip_39_word_dash_3 | drastic-remember-soda |  
+| bip_39_word_dash_4 | drastic-remember-soda-fever |  
+| bip_39_word_dash_5 | drastic-remember-soda-fever-cancel |  
+| bip_39_word_dash_6 | drastic-remember-soda-fever-cancel-shop |  
+| bip_39_word_dash_7 | drastic-remember-soda-fever-cancel-shop-problem |  
+| bip_39_word_dash_8 | drastic-remember-soda-fever-cancel-shop-problem-gesture |  
+| bip_39_word_dash_9 | drastic-remember-soda-fever-cancel-shop-problem-gesture-carpet |  
 | bip_39_word_new_br_1 | drastic |  
 | bip_39_word_new_br_10 | drastic<br>remember<br>soda<br>fever<br>cancel<br>shop<br>problem<br>gesture<br>carpet<br>glad |  
 | bip_39_word_new_br_11 | drastic<br>remember<br>soda<br>fever<br>cancel<br>shop<br>problem<br>gesture<br>carpet<br>glad<br>trust |  
@@ -147,6 +159,18 @@ carpet |
 | bip_39_word_space_7 | drastic remember soda fever cancel shop problem |  
 | bip_39_word_space_8 | drastic remember soda fever cancel shop problem gesture |  
 | bip_39_word_space_9 | drastic remember soda fever cancel shop problem gesture carpet |  
+| bip_39_word_underscore_1 | drastic |  
+| bip_39_word_underscore_10 | drastic_remember_soda_fever_cancel_shop_problem_gesture_carpet_glad |  
+| bip_39_word_underscore_11 | drastic_remember_soda_fever_cancel_shop_problem_gesture_carpet_glad_trust |  
+| bip_39_word_underscore_12 | drastic_remember_soda_fever_cancel_shop_problem_gesture_carpet_glad_trust_arm |  
+| bip_39_word_underscore_2 | drastic_remember |  
+| bip_39_word_underscore_3 | drastic_remember_soda |  
+| bip_39_word_underscore_4 | drastic_remember_soda_fever |  
+| bip_39_word_underscore_5 | drastic_remember_soda_fever_cancel |  
+| bip_39_word_underscore_6 | drastic_remember_soda_fever_cancel_shop |  
+| bip_39_word_underscore_7 | drastic_remember_soda_fever_cancel_shop_problem |  
+| bip_39_word_underscore_8 | drastic_remember_soda_fever_cancel_shop_problem_gesture |  
+| bip_39_word_underscore_9 | drastic_remember_soda_fever_cancel_shop_problem_gesture_carpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

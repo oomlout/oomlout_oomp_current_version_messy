@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pride |  
+| bip_39_word_dash_10 | pride-outside-dash-day-lion-rabbit-tone-element-sure-bonus |  
+| bip_39_word_dash_11 | pride-outside-dash-day-lion-rabbit-tone-element-sure-bonus-supreme |  
+| bip_39_word_dash_12 | pride-outside-dash-day-lion-rabbit-tone-element-sure-bonus-supreme-allow |  
+| bip_39_word_dash_2 | pride-outside |  
+| bip_39_word_dash_3 | pride-outside-dash |  
+| bip_39_word_dash_4 | pride-outside-dash-day |  
+| bip_39_word_dash_5 | pride-outside-dash-day-lion |  
+| bip_39_word_dash_6 | pride-outside-dash-day-lion-rabbit |  
+| bip_39_word_dash_7 | pride-outside-dash-day-lion-rabbit-tone |  
+| bip_39_word_dash_8 | pride-outside-dash-day-lion-rabbit-tone-element |  
+| bip_39_word_dash_9 | pride-outside-dash-day-lion-rabbit-tone-element-sure |  
 | bip_39_word_new_br_1 | pride |  
 | bip_39_word_new_br_10 | pride<br>outside<br>dash<br>day<br>lion<br>rabbit<br>tone<br>element<br>sure<br>bonus |  
 | bip_39_word_new_br_11 | pride<br>outside<br>dash<br>day<br>lion<br>rabbit<br>tone<br>element<br>sure<br>bonus<br>supreme |  
@@ -147,6 +159,18 @@ sure |
 | bip_39_word_space_7 | pride outside dash day lion rabbit tone |  
 | bip_39_word_space_8 | pride outside dash day lion rabbit tone element |  
 | bip_39_word_space_9 | pride outside dash day lion rabbit tone element sure |  
+| bip_39_word_underscore_1 | pride |  
+| bip_39_word_underscore_10 | pride_outside_dash_day_lion_rabbit_tone_element_sure_bonus |  
+| bip_39_word_underscore_11 | pride_outside_dash_day_lion_rabbit_tone_element_sure_bonus_supreme |  
+| bip_39_word_underscore_12 | pride_outside_dash_day_lion_rabbit_tone_element_sure_bonus_supreme_allow |  
+| bip_39_word_underscore_2 | pride_outside |  
+| bip_39_word_underscore_3 | pride_outside_dash |  
+| bip_39_word_underscore_4 | pride_outside_dash_day |  
+| bip_39_word_underscore_5 | pride_outside_dash_day_lion |  
+| bip_39_word_underscore_6 | pride_outside_dash_day_lion_rabbit |  
+| bip_39_word_underscore_7 | pride_outside_dash_day_lion_rabbit_tone |  
+| bip_39_word_underscore_8 | pride_outside_dash_day_lion_rabbit_tone_element |  
+| bip_39_word_underscore_9 | pride_outside_dash_day_lion_rabbit_tone_element_sure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

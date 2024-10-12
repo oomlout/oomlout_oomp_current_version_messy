@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | surface |  
+| bip_39_word_dash_10 | surface-wheel-more-knife-kiwi-achieve-egg-afraid-enjoy-today |  
+| bip_39_word_dash_11 | surface-wheel-more-knife-kiwi-achieve-egg-afraid-enjoy-today-bunker |  
+| bip_39_word_dash_12 | surface-wheel-more-knife-kiwi-achieve-egg-afraid-enjoy-today-bunker-arch |  
+| bip_39_word_dash_2 | surface-wheel |  
+| bip_39_word_dash_3 | surface-wheel-more |  
+| bip_39_word_dash_4 | surface-wheel-more-knife |  
+| bip_39_word_dash_5 | surface-wheel-more-knife-kiwi |  
+| bip_39_word_dash_6 | surface-wheel-more-knife-kiwi-achieve |  
+| bip_39_word_dash_7 | surface-wheel-more-knife-kiwi-achieve-egg |  
+| bip_39_word_dash_8 | surface-wheel-more-knife-kiwi-achieve-egg-afraid |  
+| bip_39_word_dash_9 | surface-wheel-more-knife-kiwi-achieve-egg-afraid-enjoy |  
 | bip_39_word_new_br_1 | surface |  
 | bip_39_word_new_br_10 | surface<br>wheel<br>more<br>knife<br>kiwi<br>achieve<br>egg<br>afraid<br>enjoy<br>today |  
 | bip_39_word_new_br_11 | surface<br>wheel<br>more<br>knife<br>kiwi<br>achieve<br>egg<br>afraid<br>enjoy<br>today<br>bunker |  
@@ -147,6 +159,18 @@ enjoy |
 | bip_39_word_space_7 | surface wheel more knife kiwi achieve egg |  
 | bip_39_word_space_8 | surface wheel more knife kiwi achieve egg afraid |  
 | bip_39_word_space_9 | surface wheel more knife kiwi achieve egg afraid enjoy |  
+| bip_39_word_underscore_1 | surface |  
+| bip_39_word_underscore_10 | surface_wheel_more_knife_kiwi_achieve_egg_afraid_enjoy_today |  
+| bip_39_word_underscore_11 | surface_wheel_more_knife_kiwi_achieve_egg_afraid_enjoy_today_bunker |  
+| bip_39_word_underscore_12 | surface_wheel_more_knife_kiwi_achieve_egg_afraid_enjoy_today_bunker_arch |  
+| bip_39_word_underscore_2 | surface_wheel |  
+| bip_39_word_underscore_3 | surface_wheel_more |  
+| bip_39_word_underscore_4 | surface_wheel_more_knife |  
+| bip_39_word_underscore_5 | surface_wheel_more_knife_kiwi |  
+| bip_39_word_underscore_6 | surface_wheel_more_knife_kiwi_achieve |  
+| bip_39_word_underscore_7 | surface_wheel_more_knife_kiwi_achieve_egg |  
+| bip_39_word_underscore_8 | surface_wheel_more_knife_kiwi_achieve_egg_afraid |  
+| bip_39_word_underscore_9 | surface_wheel_more_knife_kiwi_achieve_egg_afraid_enjoy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

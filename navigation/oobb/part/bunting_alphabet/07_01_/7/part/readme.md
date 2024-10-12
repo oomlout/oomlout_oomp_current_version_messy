@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sponsor |  
+| bip_39_word_dash_10 | sponsor-copy-life-goose-tenant-panic-thing-chase-boost-wear |  
+| bip_39_word_dash_11 | sponsor-copy-life-goose-tenant-panic-thing-chase-boost-wear-all |  
+| bip_39_word_dash_12 | sponsor-copy-life-goose-tenant-panic-thing-chase-boost-wear-all-above |  
+| bip_39_word_dash_2 | sponsor-copy |  
+| bip_39_word_dash_3 | sponsor-copy-life |  
+| bip_39_word_dash_4 | sponsor-copy-life-goose |  
+| bip_39_word_dash_5 | sponsor-copy-life-goose-tenant |  
+| bip_39_word_dash_6 | sponsor-copy-life-goose-tenant-panic |  
+| bip_39_word_dash_7 | sponsor-copy-life-goose-tenant-panic-thing |  
+| bip_39_word_dash_8 | sponsor-copy-life-goose-tenant-panic-thing-chase |  
+| bip_39_word_dash_9 | sponsor-copy-life-goose-tenant-panic-thing-chase-boost |  
 | bip_39_word_new_br_1 | sponsor |  
 | bip_39_word_new_br_10 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear |  
 | bip_39_word_new_br_11 | sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear<br>all |  
@@ -147,6 +159,18 @@ boost |
 | bip_39_word_space_7 | sponsor copy life goose tenant panic thing |  
 | bip_39_word_space_8 | sponsor copy life goose tenant panic thing chase |  
 | bip_39_word_space_9 | sponsor copy life goose tenant panic thing chase boost |  
+| bip_39_word_underscore_1 | sponsor |  
+| bip_39_word_underscore_10 | sponsor_copy_life_goose_tenant_panic_thing_chase_boost_wear |  
+| bip_39_word_underscore_11 | sponsor_copy_life_goose_tenant_panic_thing_chase_boost_wear_all |  
+| bip_39_word_underscore_12 | sponsor_copy_life_goose_tenant_panic_thing_chase_boost_wear_all_above |  
+| bip_39_word_underscore_2 | sponsor_copy |  
+| bip_39_word_underscore_3 | sponsor_copy_life |  
+| bip_39_word_underscore_4 | sponsor_copy_life_goose |  
+| bip_39_word_underscore_5 | sponsor_copy_life_goose_tenant |  
+| bip_39_word_underscore_6 | sponsor_copy_life_goose_tenant_panic |  
+| bip_39_word_underscore_7 | sponsor_copy_life_goose_tenant_panic_thing |  
+| bip_39_word_underscore_8 | sponsor_copy_life_goose_tenant_panic_thing_chase |  
+| bip_39_word_underscore_9 | sponsor_copy_life_goose_tenant_panic_thing_chase_boost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unfold |  
+| bip_39_word_dash_10 | unfold-acquire-fold-minute-gym-pudding-episode-want-curve-account |  
+| bip_39_word_dash_11 | unfold-acquire-fold-minute-gym-pudding-episode-want-curve-account-satoshi |  
+| bip_39_word_dash_12 | unfold-acquire-fold-minute-gym-pudding-episode-want-curve-account-satoshi-attack |  
+| bip_39_word_dash_2 | unfold-acquire |  
+| bip_39_word_dash_3 | unfold-acquire-fold |  
+| bip_39_word_dash_4 | unfold-acquire-fold-minute |  
+| bip_39_word_dash_5 | unfold-acquire-fold-minute-gym |  
+| bip_39_word_dash_6 | unfold-acquire-fold-minute-gym-pudding |  
+| bip_39_word_dash_7 | unfold-acquire-fold-minute-gym-pudding-episode |  
+| bip_39_word_dash_8 | unfold-acquire-fold-minute-gym-pudding-episode-want |  
+| bip_39_word_dash_9 | unfold-acquire-fold-minute-gym-pudding-episode-want-curve |  
 | bip_39_word_new_br_1 | unfold |  
 | bip_39_word_new_br_10 | unfold<br>acquire<br>fold<br>minute<br>gym<br>pudding<br>episode<br>want<br>curve<br>account |  
 | bip_39_word_new_br_11 | unfold<br>acquire<br>fold<br>minute<br>gym<br>pudding<br>episode<br>want<br>curve<br>account<br>satoshi |  
@@ -147,6 +159,18 @@ curve |
 | bip_39_word_space_7 | unfold acquire fold minute gym pudding episode |  
 | bip_39_word_space_8 | unfold acquire fold minute gym pudding episode want |  
 | bip_39_word_space_9 | unfold acquire fold minute gym pudding episode want curve |  
+| bip_39_word_underscore_1 | unfold |  
+| bip_39_word_underscore_10 | unfold_acquire_fold_minute_gym_pudding_episode_want_curve_account |  
+| bip_39_word_underscore_11 | unfold_acquire_fold_minute_gym_pudding_episode_want_curve_account_satoshi |  
+| bip_39_word_underscore_12 | unfold_acquire_fold_minute_gym_pudding_episode_want_curve_account_satoshi_attack |  
+| bip_39_word_underscore_2 | unfold_acquire |  
+| bip_39_word_underscore_3 | unfold_acquire_fold |  
+| bip_39_word_underscore_4 | unfold_acquire_fold_minute |  
+| bip_39_word_underscore_5 | unfold_acquire_fold_minute_gym |  
+| bip_39_word_underscore_6 | unfold_acquire_fold_minute_gym_pudding |  
+| bip_39_word_underscore_7 | unfold_acquire_fold_minute_gym_pudding_episode |  
+| bip_39_word_underscore_8 | unfold_acquire_fold_minute_gym_pudding_episode_want |  
+| bip_39_word_underscore_9 | unfold_acquire_fold_minute_gym_pudding_episode_want_curve |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

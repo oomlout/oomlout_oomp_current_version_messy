@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | limb |  
+| bip_39_word_dash_10 | limb-divide-give-fog-fantasy-tell-goose-portion-cover-group |  
+| bip_39_word_dash_11 | limb-divide-give-fog-fantasy-tell-goose-portion-cover-group-shoe |  
+| bip_39_word_dash_12 | limb-divide-give-fog-fantasy-tell-goose-portion-cover-group-shoe-alter |  
+| bip_39_word_dash_2 | limb-divide |  
+| bip_39_word_dash_3 | limb-divide-give |  
+| bip_39_word_dash_4 | limb-divide-give-fog |  
+| bip_39_word_dash_5 | limb-divide-give-fog-fantasy |  
+| bip_39_word_dash_6 | limb-divide-give-fog-fantasy-tell |  
+| bip_39_word_dash_7 | limb-divide-give-fog-fantasy-tell-goose |  
+| bip_39_word_dash_8 | limb-divide-give-fog-fantasy-tell-goose-portion |  
+| bip_39_word_dash_9 | limb-divide-give-fog-fantasy-tell-goose-portion-cover |  
 | bip_39_word_new_br_1 | limb |  
 | bip_39_word_new_br_10 | limb<br>divide<br>give<br>fog<br>fantasy<br>tell<br>goose<br>portion<br>cover<br>group |  
 | bip_39_word_new_br_11 | limb<br>divide<br>give<br>fog<br>fantasy<br>tell<br>goose<br>portion<br>cover<br>group<br>shoe |  
@@ -147,6 +159,18 @@ cover |
 | bip_39_word_space_7 | limb divide give fog fantasy tell goose |  
 | bip_39_word_space_8 | limb divide give fog fantasy tell goose portion |  
 | bip_39_word_space_9 | limb divide give fog fantasy tell goose portion cover |  
+| bip_39_word_underscore_1 | limb |  
+| bip_39_word_underscore_10 | limb_divide_give_fog_fantasy_tell_goose_portion_cover_group |  
+| bip_39_word_underscore_11 | limb_divide_give_fog_fantasy_tell_goose_portion_cover_group_shoe |  
+| bip_39_word_underscore_12 | limb_divide_give_fog_fantasy_tell_goose_portion_cover_group_shoe_alter |  
+| bip_39_word_underscore_2 | limb_divide |  
+| bip_39_word_underscore_3 | limb_divide_give |  
+| bip_39_word_underscore_4 | limb_divide_give_fog |  
+| bip_39_word_underscore_5 | limb_divide_give_fog_fantasy |  
+| bip_39_word_underscore_6 | limb_divide_give_fog_fantasy_tell |  
+| bip_39_word_underscore_7 | limb_divide_give_fog_fantasy_tell_goose |  
+| bip_39_word_underscore_8 | limb_divide_give_fog_fantasy_tell_goose_portion |  
+| bip_39_word_underscore_9 | limb_divide_give_fog_fantasy_tell_goose_portion_cover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

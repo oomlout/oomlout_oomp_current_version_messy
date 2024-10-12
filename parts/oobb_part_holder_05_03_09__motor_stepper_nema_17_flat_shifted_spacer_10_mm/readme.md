@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | angry |  
+| bip_39_word_dash_10 | angry-tribe-version-intact-insane-avoid-short-bomb-wage-dynamic |  
+| bip_39_word_dash_11 | angry-tribe-version-intact-insane-avoid-short-bomb-wage-dynamic-farm |  
+| bip_39_word_dash_12 | angry-tribe-version-intact-insane-avoid-short-bomb-wage-dynamic-farm-almost |  
+| bip_39_word_dash_2 | angry-tribe |  
+| bip_39_word_dash_3 | angry-tribe-version |  
+| bip_39_word_dash_4 | angry-tribe-version-intact |  
+| bip_39_word_dash_5 | angry-tribe-version-intact-insane |  
+| bip_39_word_dash_6 | angry-tribe-version-intact-insane-avoid |  
+| bip_39_word_dash_7 | angry-tribe-version-intact-insane-avoid-short |  
+| bip_39_word_dash_8 | angry-tribe-version-intact-insane-avoid-short-bomb |  
+| bip_39_word_dash_9 | angry-tribe-version-intact-insane-avoid-short-bomb-wage |  
 | bip_39_word_new_br_1 | angry |  
 | bip_39_word_new_br_10 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic |  
 | bip_39_word_new_br_11 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic<br>farm |  
@@ -147,6 +159,18 @@ wage |
 | bip_39_word_space_7 | angry tribe version intact insane avoid short |  
 | bip_39_word_space_8 | angry tribe version intact insane avoid short bomb |  
 | bip_39_word_space_9 | angry tribe version intact insane avoid short bomb wage |  
+| bip_39_word_underscore_1 | angry |  
+| bip_39_word_underscore_10 | angry_tribe_version_intact_insane_avoid_short_bomb_wage_dynamic |  
+| bip_39_word_underscore_11 | angry_tribe_version_intact_insane_avoid_short_bomb_wage_dynamic_farm |  
+| bip_39_word_underscore_12 | angry_tribe_version_intact_insane_avoid_short_bomb_wage_dynamic_farm_almost |  
+| bip_39_word_underscore_2 | angry_tribe |  
+| bip_39_word_underscore_3 | angry_tribe_version |  
+| bip_39_word_underscore_4 | angry_tribe_version_intact |  
+| bip_39_word_underscore_5 | angry_tribe_version_intact_insane |  
+| bip_39_word_underscore_6 | angry_tribe_version_intact_insane_avoid |  
+| bip_39_word_underscore_7 | angry_tribe_version_intact_insane_avoid_short |  
+| bip_39_word_underscore_8 | angry_tribe_version_intact_insane_avoid_short_bomb |  
+| bip_39_word_underscore_9 | angry_tribe_version_intact_insane_avoid_short_bomb_wage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

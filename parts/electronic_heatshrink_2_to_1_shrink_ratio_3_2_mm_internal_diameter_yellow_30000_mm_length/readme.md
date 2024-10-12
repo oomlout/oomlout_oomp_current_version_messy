@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wink |  
+| bip_39_word_dash_10 | wink-sail-recycle-item-usage-immense-usage-later-include-cover |  
+| bip_39_word_dash_11 | wink-sail-recycle-item-usage-immense-usage-later-include-cover-gesture |  
+| bip_39_word_dash_12 | wink-sail-recycle-item-usage-immense-usage-later-include-cover-gesture-absent |  
+| bip_39_word_dash_2 | wink-sail |  
+| bip_39_word_dash_3 | wink-sail-recycle |  
+| bip_39_word_dash_4 | wink-sail-recycle-item |  
+| bip_39_word_dash_5 | wink-sail-recycle-item-usage |  
+| bip_39_word_dash_6 | wink-sail-recycle-item-usage-immense |  
+| bip_39_word_dash_7 | wink-sail-recycle-item-usage-immense-usage |  
+| bip_39_word_dash_8 | wink-sail-recycle-item-usage-immense-usage-later |  
+| bip_39_word_dash_9 | wink-sail-recycle-item-usage-immense-usage-later-include |  
 | bip_39_word_new_br_1 | wink |  
 | bip_39_word_new_br_10 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later<br>include<br>cover |  
 | bip_39_word_new_br_11 | wink<br>sail<br>recycle<br>item<br>usage<br>immense<br>usage<br>later<br>include<br>cover<br>gesture |  
@@ -147,6 +159,18 @@ include |
 | bip_39_word_space_7 | wink sail recycle item usage immense usage |  
 | bip_39_word_space_8 | wink sail recycle item usage immense usage later |  
 | bip_39_word_space_9 | wink sail recycle item usage immense usage later include |  
+| bip_39_word_underscore_1 | wink |  
+| bip_39_word_underscore_10 | wink_sail_recycle_item_usage_immense_usage_later_include_cover |  
+| bip_39_word_underscore_11 | wink_sail_recycle_item_usage_immense_usage_later_include_cover_gesture |  
+| bip_39_word_underscore_12 | wink_sail_recycle_item_usage_immense_usage_later_include_cover_gesture_absent |  
+| bip_39_word_underscore_2 | wink_sail |  
+| bip_39_word_underscore_3 | wink_sail_recycle |  
+| bip_39_word_underscore_4 | wink_sail_recycle_item |  
+| bip_39_word_underscore_5 | wink_sail_recycle_item_usage |  
+| bip_39_word_underscore_6 | wink_sail_recycle_item_usage_immense |  
+| bip_39_word_underscore_7 | wink_sail_recycle_item_usage_immense_usage |  
+| bip_39_word_underscore_8 | wink_sail_recycle_item_usage_immense_usage_later |  
+| bip_39_word_underscore_9 | wink_sail_recycle_item_usage_immense_usage_later_include |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

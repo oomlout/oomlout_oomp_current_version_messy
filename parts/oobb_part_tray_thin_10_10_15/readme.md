@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | perfect |  
+| bip_39_word_dash_10 | perfect-answer-odor-insane-rose-town-basket-cube-spoil-earth |  
+| bip_39_word_dash_11 | perfect-answer-odor-insane-rose-town-basket-cube-spoil-earth-extra |  
+| bip_39_word_dash_12 | perfect-answer-odor-insane-rose-town-basket-cube-spoil-earth-extra-afraid |  
+| bip_39_word_dash_2 | perfect-answer |  
+| bip_39_word_dash_3 | perfect-answer-odor |  
+| bip_39_word_dash_4 | perfect-answer-odor-insane |  
+| bip_39_word_dash_5 | perfect-answer-odor-insane-rose |  
+| bip_39_word_dash_6 | perfect-answer-odor-insane-rose-town |  
+| bip_39_word_dash_7 | perfect-answer-odor-insane-rose-town-basket |  
+| bip_39_word_dash_8 | perfect-answer-odor-insane-rose-town-basket-cube |  
+| bip_39_word_dash_9 | perfect-answer-odor-insane-rose-town-basket-cube-spoil |  
 | bip_39_word_new_br_1 | perfect |  
 | bip_39_word_new_br_10 | perfect<br>answer<br>odor<br>insane<br>rose<br>town<br>basket<br>cube<br>spoil<br>earth |  
 | bip_39_word_new_br_11 | perfect<br>answer<br>odor<br>insane<br>rose<br>town<br>basket<br>cube<br>spoil<br>earth<br>extra |  
@@ -147,6 +159,18 @@ spoil |
 | bip_39_word_space_7 | perfect answer odor insane rose town basket |  
 | bip_39_word_space_8 | perfect answer odor insane rose town basket cube |  
 | bip_39_word_space_9 | perfect answer odor insane rose town basket cube spoil |  
+| bip_39_word_underscore_1 | perfect |  
+| bip_39_word_underscore_10 | perfect_answer_odor_insane_rose_town_basket_cube_spoil_earth |  
+| bip_39_word_underscore_11 | perfect_answer_odor_insane_rose_town_basket_cube_spoil_earth_extra |  
+| bip_39_word_underscore_12 | perfect_answer_odor_insane_rose_town_basket_cube_spoil_earth_extra_afraid |  
+| bip_39_word_underscore_2 | perfect_answer |  
+| bip_39_word_underscore_3 | perfect_answer_odor |  
+| bip_39_word_underscore_4 | perfect_answer_odor_insane |  
+| bip_39_word_underscore_5 | perfect_answer_odor_insane_rose |  
+| bip_39_word_underscore_6 | perfect_answer_odor_insane_rose_town |  
+| bip_39_word_underscore_7 | perfect_answer_odor_insane_rose_town_basket |  
+| bip_39_word_underscore_8 | perfect_answer_odor_insane_rose_town_basket_cube |  
+| bip_39_word_underscore_9 | perfect_answer_odor_insane_rose_town_basket_cube_spoil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

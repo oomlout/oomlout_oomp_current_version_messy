@@ -1,3 +1,15 @@
+bip_39_word_dash_1: menu
+bip_39_word_dash_10: menu-narrow-motor-rose-ozone-laundry-bean-purity-source-base
+bip_39_word_dash_11: menu-narrow-motor-rose-ozone-laundry-bean-purity-source-base-person
+bip_39_word_dash_12: menu-narrow-motor-rose-ozone-laundry-bean-purity-source-base-person-august
+bip_39_word_dash_2: menu-narrow
+bip_39_word_dash_3: menu-narrow-motor
+bip_39_word_dash_4: menu-narrow-motor-rose
+bip_39_word_dash_5: menu-narrow-motor-rose-ozone
+bip_39_word_dash_6: menu-narrow-motor-rose-ozone-laundry
+bip_39_word_dash_7: menu-narrow-motor-rose-ozone-laundry-bean
+bip_39_word_dash_8: menu-narrow-motor-rose-ozone-laundry-bean-purity
+bip_39_word_dash_9: menu-narrow-motor-rose-ozone-laundry-bean-purity-source
 bip_39_word_new_br_1: menu
 bip_39_word_new_br_10: menu<br>narrow<br>motor<br>rose<br>ozone<br>laundry<br>bean<br>purity<br>source<br>base
 bip_39_word_new_br_11: menu<br>narrow<br>motor<br>rose<br>ozone<br>laundry<br>bean<br>purity<br>source<br>base<br>person
@@ -193,6 +205,18 @@ bip_39_word_space_6: menu narrow motor rose ozone laundry
 bip_39_word_space_7: menu narrow motor rose ozone laundry bean
 bip_39_word_space_8: menu narrow motor rose ozone laundry bean purity
 bip_39_word_space_9: menu narrow motor rose ozone laundry bean purity source
+bip_39_word_underscore_1: menu
+bip_39_word_underscore_10: menu_narrow_motor_rose_ozone_laundry_bean_purity_source_base
+bip_39_word_underscore_11: menu_narrow_motor_rose_ozone_laundry_bean_purity_source_base_person
+bip_39_word_underscore_12: menu_narrow_motor_rose_ozone_laundry_bean_purity_source_base_person_august
+bip_39_word_underscore_2: menu_narrow
+bip_39_word_underscore_3: menu_narrow_motor
+bip_39_word_underscore_4: menu_narrow_motor_rose
+bip_39_word_underscore_5: menu_narrow_motor_rose_ozone
+bip_39_word_underscore_6: menu_narrow_motor_rose_ozone_laundry
+bip_39_word_underscore_7: menu_narrow_motor_rose_ozone_laundry_bean
+bip_39_word_underscore_8: menu_narrow_motor_rose_ozone_laundry_bean_purity
+bip_39_word_underscore_9: menu_narrow_motor_rose_ozone_laundry_bean_purity_source
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

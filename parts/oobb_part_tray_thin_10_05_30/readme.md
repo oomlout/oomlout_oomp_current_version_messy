@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loud |  
+| bip_39_word_dash_10 | loud-leave-alcohol-ahead-live-taxi-floor-brief-fee-kangaroo |  
+| bip_39_word_dash_11 | loud-leave-alcohol-ahead-live-taxi-floor-brief-fee-kangaroo-leopard |  
+| bip_39_word_dash_12 | loud-leave-alcohol-ahead-live-taxi-floor-brief-fee-kangaroo-leopard-assume |  
+| bip_39_word_dash_2 | loud-leave |  
+| bip_39_word_dash_3 | loud-leave-alcohol |  
+| bip_39_word_dash_4 | loud-leave-alcohol-ahead |  
+| bip_39_word_dash_5 | loud-leave-alcohol-ahead-live |  
+| bip_39_word_dash_6 | loud-leave-alcohol-ahead-live-taxi |  
+| bip_39_word_dash_7 | loud-leave-alcohol-ahead-live-taxi-floor |  
+| bip_39_word_dash_8 | loud-leave-alcohol-ahead-live-taxi-floor-brief |  
+| bip_39_word_dash_9 | loud-leave-alcohol-ahead-live-taxi-floor-brief-fee |  
 | bip_39_word_new_br_1 | loud |  
 | bip_39_word_new_br_10 | loud<br>leave<br>alcohol<br>ahead<br>live<br>taxi<br>floor<br>brief<br>fee<br>kangaroo |  
 | bip_39_word_new_br_11 | loud<br>leave<br>alcohol<br>ahead<br>live<br>taxi<br>floor<br>brief<br>fee<br>kangaroo<br>leopard |  
@@ -147,6 +159,18 @@ fee |
 | bip_39_word_space_7 | loud leave alcohol ahead live taxi floor |  
 | bip_39_word_space_8 | loud leave alcohol ahead live taxi floor brief |  
 | bip_39_word_space_9 | loud leave alcohol ahead live taxi floor brief fee |  
+| bip_39_word_underscore_1 | loud |  
+| bip_39_word_underscore_10 | loud_leave_alcohol_ahead_live_taxi_floor_brief_fee_kangaroo |  
+| bip_39_word_underscore_11 | loud_leave_alcohol_ahead_live_taxi_floor_brief_fee_kangaroo_leopard |  
+| bip_39_word_underscore_12 | loud_leave_alcohol_ahead_live_taxi_floor_brief_fee_kangaroo_leopard_assume |  
+| bip_39_word_underscore_2 | loud_leave |  
+| bip_39_word_underscore_3 | loud_leave_alcohol |  
+| bip_39_word_underscore_4 | loud_leave_alcohol_ahead |  
+| bip_39_word_underscore_5 | loud_leave_alcohol_ahead_live |  
+| bip_39_word_underscore_6 | loud_leave_alcohol_ahead_live_taxi |  
+| bip_39_word_underscore_7 | loud_leave_alcohol_ahead_live_taxi_floor |  
+| bip_39_word_underscore_8 | loud_leave_alcohol_ahead_live_taxi_floor_brief |  
+| bip_39_word_underscore_9 | loud_leave_alcohol_ahead_live_taxi_floor_brief_fee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

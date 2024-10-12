@@ -1,3 +1,15 @@
+bip_39_word_dash_1: barrel
+bip_39_word_dash_10: barrel-drum-chicken-window-dress-history-kingdom-noodle-dentist-beach
+bip_39_word_dash_11: barrel-drum-chicken-window-dress-history-kingdom-noodle-dentist-beach-erosion
+bip_39_word_dash_12: barrel-drum-chicken-window-dress-history-kingdom-noodle-dentist-beach-erosion-abstract
+bip_39_word_dash_2: barrel-drum
+bip_39_word_dash_3: barrel-drum-chicken
+bip_39_word_dash_4: barrel-drum-chicken-window
+bip_39_word_dash_5: barrel-drum-chicken-window-dress
+bip_39_word_dash_6: barrel-drum-chicken-window-dress-history
+bip_39_word_dash_7: barrel-drum-chicken-window-dress-history-kingdom
+bip_39_word_dash_8: barrel-drum-chicken-window-dress-history-kingdom-noodle
+bip_39_word_dash_9: barrel-drum-chicken-window-dress-history-kingdom-noodle-dentist
 bip_39_word_new_br_1: barrel
 bip_39_word_new_br_10: barrel<br>drum<br>chicken<br>window<br>dress<br>history<br>kingdom<br>noodle<br>dentist<br>beach
 bip_39_word_new_br_11: barrel<br>drum<br>chicken<br>window<br>dress<br>history<br>kingdom<br>noodle<br>dentist<br>beach<br>erosion
@@ -194,6 +206,18 @@ bip_39_word_space_6: barrel drum chicken window dress history
 bip_39_word_space_7: barrel drum chicken window dress history kingdom
 bip_39_word_space_8: barrel drum chicken window dress history kingdom noodle
 bip_39_word_space_9: barrel drum chicken window dress history kingdom noodle dentist
+bip_39_word_underscore_1: barrel
+bip_39_word_underscore_10: barrel_drum_chicken_window_dress_history_kingdom_noodle_dentist_beach
+bip_39_word_underscore_11: barrel_drum_chicken_window_dress_history_kingdom_noodle_dentist_beach_erosion
+bip_39_word_underscore_12: barrel_drum_chicken_window_dress_history_kingdom_noodle_dentist_beach_erosion_abstract
+bip_39_word_underscore_2: barrel_drum
+bip_39_word_underscore_3: barrel_drum_chicken
+bip_39_word_underscore_4: barrel_drum_chicken_window
+bip_39_word_underscore_5: barrel_drum_chicken_window_dress
+bip_39_word_underscore_6: barrel_drum_chicken_window_dress_history
+bip_39_word_underscore_7: barrel_drum_chicken_window_dress_history_kingdom
+bip_39_word_underscore_8: barrel_drum_chicken_window_dress_history_kingdom_noodle
+bip_39_word_underscore_9: barrel_drum_chicken_window_dress_history_kingdom_noodle_dentist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

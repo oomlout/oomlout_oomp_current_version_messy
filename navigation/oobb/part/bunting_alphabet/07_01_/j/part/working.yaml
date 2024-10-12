@@ -1,3 +1,15 @@
+bip_39_word_dash_1: glare
+bip_39_word_dash_10: glare-merry-insect-simple-giggle-hidden-badge-vehicle-return-fortune
+bip_39_word_dash_11: glare-merry-insect-simple-giggle-hidden-badge-vehicle-return-fortune-short
+bip_39_word_dash_12: glare-merry-insect-simple-giggle-hidden-badge-vehicle-return-fortune-short-arm
+bip_39_word_dash_2: glare-merry
+bip_39_word_dash_3: glare-merry-insect
+bip_39_word_dash_4: glare-merry-insect-simple
+bip_39_word_dash_5: glare-merry-insect-simple-giggle
+bip_39_word_dash_6: glare-merry-insect-simple-giggle-hidden
+bip_39_word_dash_7: glare-merry-insect-simple-giggle-hidden-badge
+bip_39_word_dash_8: glare-merry-insect-simple-giggle-hidden-badge-vehicle
+bip_39_word_dash_9: glare-merry-insect-simple-giggle-hidden-badge-vehicle-return
 bip_39_word_new_br_1: glare
 bip_39_word_new_br_10: glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle<br>return<br>fortune
 bip_39_word_new_br_11: glare<br>merry<br>insect<br>simple<br>giggle<br>hidden<br>badge<br>vehicle<br>return<br>fortune<br>short
@@ -194,6 +206,18 @@ bip_39_word_space_6: glare merry insect simple giggle hidden
 bip_39_word_space_7: glare merry insect simple giggle hidden badge
 bip_39_word_space_8: glare merry insect simple giggle hidden badge vehicle
 bip_39_word_space_9: glare merry insect simple giggle hidden badge vehicle return
+bip_39_word_underscore_1: glare
+bip_39_word_underscore_10: glare_merry_insect_simple_giggle_hidden_badge_vehicle_return_fortune
+bip_39_word_underscore_11: glare_merry_insect_simple_giggle_hidden_badge_vehicle_return_fortune_short
+bip_39_word_underscore_12: glare_merry_insect_simple_giggle_hidden_badge_vehicle_return_fortune_short_arm
+bip_39_word_underscore_2: glare_merry
+bip_39_word_underscore_3: glare_merry_insect
+bip_39_word_underscore_4: glare_merry_insect_simple
+bip_39_word_underscore_5: glare_merry_insect_simple_giggle
+bip_39_word_underscore_6: glare_merry_insect_simple_giggle_hidden
+bip_39_word_underscore_7: glare_merry_insect_simple_giggle_hidden_badge
+bip_39_word_underscore_8: glare_merry_insect_simple_giggle_hidden_badge_vehicle
+bip_39_word_underscore_9: glare_merry_insect_simple_giggle_hidden_badge_vehicle_return
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

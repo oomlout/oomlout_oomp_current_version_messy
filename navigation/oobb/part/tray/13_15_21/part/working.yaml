@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brush
+bip_39_word_dash_10: brush-canal-audit-review-dragon-shuffle-shrug-assist-employ-toe
+bip_39_word_dash_11: brush-canal-audit-review-dragon-shuffle-shrug-assist-employ-toe-dinner
+bip_39_word_dash_12: brush-canal-audit-review-dragon-shuffle-shrug-assist-employ-toe-dinner-aunt
+bip_39_word_dash_2: brush-canal
+bip_39_word_dash_3: brush-canal-audit
+bip_39_word_dash_4: brush-canal-audit-review
+bip_39_word_dash_5: brush-canal-audit-review-dragon
+bip_39_word_dash_6: brush-canal-audit-review-dragon-shuffle
+bip_39_word_dash_7: brush-canal-audit-review-dragon-shuffle-shrug
+bip_39_word_dash_8: brush-canal-audit-review-dragon-shuffle-shrug-assist
+bip_39_word_dash_9: brush-canal-audit-review-dragon-shuffle-shrug-assist-employ
 bip_39_word_new_br_1: brush
 bip_39_word_new_br_10: brush<br>canal<br>audit<br>review<br>dragon<br>shuffle<br>shrug<br>assist<br>employ<br>toe
 bip_39_word_new_br_11: brush<br>canal<br>audit<br>review<br>dragon<br>shuffle<br>shrug<br>assist<br>employ<br>toe<br>dinner
@@ -194,6 +206,18 @@ bip_39_word_space_6: brush canal audit review dragon shuffle
 bip_39_word_space_7: brush canal audit review dragon shuffle shrug
 bip_39_word_space_8: brush canal audit review dragon shuffle shrug assist
 bip_39_word_space_9: brush canal audit review dragon shuffle shrug assist employ
+bip_39_word_underscore_1: brush
+bip_39_word_underscore_10: brush_canal_audit_review_dragon_shuffle_shrug_assist_employ_toe
+bip_39_word_underscore_11: brush_canal_audit_review_dragon_shuffle_shrug_assist_employ_toe_dinner
+bip_39_word_underscore_12: brush_canal_audit_review_dragon_shuffle_shrug_assist_employ_toe_dinner_aunt
+bip_39_word_underscore_2: brush_canal
+bip_39_word_underscore_3: brush_canal_audit
+bip_39_word_underscore_4: brush_canal_audit_review
+bip_39_word_underscore_5: brush_canal_audit_review_dragon
+bip_39_word_underscore_6: brush_canal_audit_review_dragon_shuffle
+bip_39_word_underscore_7: brush_canal_audit_review_dragon_shuffle_shrug
+bip_39_word_underscore_8: brush_canal_audit_review_dragon_shuffle_shrug_assist
+bip_39_word_underscore_9: brush_canal_audit_review_dragon_shuffle_shrug_assist_employ
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

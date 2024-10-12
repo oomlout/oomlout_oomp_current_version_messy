@@ -1,3 +1,15 @@
+bip_39_word_dash_1: access
+bip_39_word_dash_10: access-fuel-private-hand-boost-soda-issue-multiply-digital-wall
+bip_39_word_dash_11: access-fuel-private-hand-boost-soda-issue-multiply-digital-wall-cake
+bip_39_word_dash_12: access-fuel-private-hand-boost-soda-issue-multiply-digital-wall-cake-auction
+bip_39_word_dash_2: access-fuel
+bip_39_word_dash_3: access-fuel-private
+bip_39_word_dash_4: access-fuel-private-hand
+bip_39_word_dash_5: access-fuel-private-hand-boost
+bip_39_word_dash_6: access-fuel-private-hand-boost-soda
+bip_39_word_dash_7: access-fuel-private-hand-boost-soda-issue
+bip_39_word_dash_8: access-fuel-private-hand-boost-soda-issue-multiply
+bip_39_word_dash_9: access-fuel-private-hand-boost-soda-issue-multiply-digital
 bip_39_word_new_br_1: access
 bip_39_word_new_br_10: access<br>fuel<br>private<br>hand<br>boost<br>soda<br>issue<br>multiply<br>digital<br>wall
 bip_39_word_new_br_11: access<br>fuel<br>private<br>hand<br>boost<br>soda<br>issue<br>multiply<br>digital<br>wall<br>cake
@@ -193,6 +205,18 @@ bip_39_word_space_6: access fuel private hand boost soda
 bip_39_word_space_7: access fuel private hand boost soda issue
 bip_39_word_space_8: access fuel private hand boost soda issue multiply
 bip_39_word_space_9: access fuel private hand boost soda issue multiply digital
+bip_39_word_underscore_1: access
+bip_39_word_underscore_10: access_fuel_private_hand_boost_soda_issue_multiply_digital_wall
+bip_39_word_underscore_11: access_fuel_private_hand_boost_soda_issue_multiply_digital_wall_cake
+bip_39_word_underscore_12: access_fuel_private_hand_boost_soda_issue_multiply_digital_wall_cake_auction
+bip_39_word_underscore_2: access_fuel
+bip_39_word_underscore_3: access_fuel_private
+bip_39_word_underscore_4: access_fuel_private_hand
+bip_39_word_underscore_5: access_fuel_private_hand_boost
+bip_39_word_underscore_6: access_fuel_private_hand_boost_soda
+bip_39_word_underscore_7: access_fuel_private_hand_boost_soda_issue
+bip_39_word_underscore_8: access_fuel_private_hand_boost_soda_issue_multiply
+bip_39_word_underscore_9: access_fuel_private_hand_boost_soda_issue_multiply_digital
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

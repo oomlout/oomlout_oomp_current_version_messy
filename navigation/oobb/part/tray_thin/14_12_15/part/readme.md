@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spike |  
+| bip_39_word_dash_10 | spike-bridge-dilemma-wheat-cable-east-safe-famous-crouch-lobster |  
+| bip_39_word_dash_11 | spike-bridge-dilemma-wheat-cable-east-safe-famous-crouch-lobster-business |  
+| bip_39_word_dash_12 | spike-bridge-dilemma-wheat-cable-east-safe-famous-crouch-lobster-business-among |  
+| bip_39_word_dash_2 | spike-bridge |  
+| bip_39_word_dash_3 | spike-bridge-dilemma |  
+| bip_39_word_dash_4 | spike-bridge-dilemma-wheat |  
+| bip_39_word_dash_5 | spike-bridge-dilemma-wheat-cable |  
+| bip_39_word_dash_6 | spike-bridge-dilemma-wheat-cable-east |  
+| bip_39_word_dash_7 | spike-bridge-dilemma-wheat-cable-east-safe |  
+| bip_39_word_dash_8 | spike-bridge-dilemma-wheat-cable-east-safe-famous |  
+| bip_39_word_dash_9 | spike-bridge-dilemma-wheat-cable-east-safe-famous-crouch |  
 | bip_39_word_new_br_1 | spike |  
 | bip_39_word_new_br_10 | spike<br>bridge<br>dilemma<br>wheat<br>cable<br>east<br>safe<br>famous<br>crouch<br>lobster |  
 | bip_39_word_new_br_11 | spike<br>bridge<br>dilemma<br>wheat<br>cable<br>east<br>safe<br>famous<br>crouch<br>lobster<br>business |  
@@ -147,6 +159,18 @@ crouch |
 | bip_39_word_space_7 | spike bridge dilemma wheat cable east safe |  
 | bip_39_word_space_8 | spike bridge dilemma wheat cable east safe famous |  
 | bip_39_word_space_9 | spike bridge dilemma wheat cable east safe famous crouch |  
+| bip_39_word_underscore_1 | spike |  
+| bip_39_word_underscore_10 | spike_bridge_dilemma_wheat_cable_east_safe_famous_crouch_lobster |  
+| bip_39_word_underscore_11 | spike_bridge_dilemma_wheat_cable_east_safe_famous_crouch_lobster_business |  
+| bip_39_word_underscore_12 | spike_bridge_dilemma_wheat_cable_east_safe_famous_crouch_lobster_business_among |  
+| bip_39_word_underscore_2 | spike_bridge |  
+| bip_39_word_underscore_3 | spike_bridge_dilemma |  
+| bip_39_word_underscore_4 | spike_bridge_dilemma_wheat |  
+| bip_39_word_underscore_5 | spike_bridge_dilemma_wheat_cable |  
+| bip_39_word_underscore_6 | spike_bridge_dilemma_wheat_cable_east |  
+| bip_39_word_underscore_7 | spike_bridge_dilemma_wheat_cable_east_safe |  
+| bip_39_word_underscore_8 | spike_bridge_dilemma_wheat_cable_east_safe_famous |  
+| bip_39_word_underscore_9 | spike_bridge_dilemma_wheat_cable_east_safe_famous_crouch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

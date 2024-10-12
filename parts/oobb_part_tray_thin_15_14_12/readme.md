@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | minor |  
+| bip_39_word_dash_10 | minor-limit-total-humble-legend-random-choose-must-notice-useful |  
+| bip_39_word_dash_11 | minor-limit-total-humble-legend-random-choose-must-notice-useful-erosion |  
+| bip_39_word_dash_12 | minor-limit-total-humble-legend-random-choose-must-notice-useful-erosion-annual |  
+| bip_39_word_dash_2 | minor-limit |  
+| bip_39_word_dash_3 | minor-limit-total |  
+| bip_39_word_dash_4 | minor-limit-total-humble |  
+| bip_39_word_dash_5 | minor-limit-total-humble-legend |  
+| bip_39_word_dash_6 | minor-limit-total-humble-legend-random |  
+| bip_39_word_dash_7 | minor-limit-total-humble-legend-random-choose |  
+| bip_39_word_dash_8 | minor-limit-total-humble-legend-random-choose-must |  
+| bip_39_word_dash_9 | minor-limit-total-humble-legend-random-choose-must-notice |  
 | bip_39_word_new_br_1 | minor |  
 | bip_39_word_new_br_10 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful |  
 | bip_39_word_new_br_11 | minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful<br>erosion |  
@@ -147,6 +159,18 @@ notice |
 | bip_39_word_space_7 | minor limit total humble legend random choose |  
 | bip_39_word_space_8 | minor limit total humble legend random choose must |  
 | bip_39_word_space_9 | minor limit total humble legend random choose must notice |  
+| bip_39_word_underscore_1 | minor |  
+| bip_39_word_underscore_10 | minor_limit_total_humble_legend_random_choose_must_notice_useful |  
+| bip_39_word_underscore_11 | minor_limit_total_humble_legend_random_choose_must_notice_useful_erosion |  
+| bip_39_word_underscore_12 | minor_limit_total_humble_legend_random_choose_must_notice_useful_erosion_annual |  
+| bip_39_word_underscore_2 | minor_limit |  
+| bip_39_word_underscore_3 | minor_limit_total |  
+| bip_39_word_underscore_4 | minor_limit_total_humble |  
+| bip_39_word_underscore_5 | minor_limit_total_humble_legend |  
+| bip_39_word_underscore_6 | minor_limit_total_humble_legend_random |  
+| bip_39_word_underscore_7 | minor_limit_total_humble_legend_random_choose |  
+| bip_39_word_underscore_8 | minor_limit_total_humble_legend_random_choose_must |  
+| bip_39_word_underscore_9 | minor_limit_total_humble_legend_random_choose_must_notice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

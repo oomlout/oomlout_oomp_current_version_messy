@@ -1,3 +1,15 @@
+bip_39_word_dash_1: income
+bip_39_word_dash_10: income-demise-devote-praise-tree-admit-essence-picture-promote-blue
+bip_39_word_dash_11: income-demise-devote-praise-tree-admit-essence-picture-promote-blue-essence
+bip_39_word_dash_12: income-demise-devote-praise-tree-admit-essence-picture-promote-blue-essence-account
+bip_39_word_dash_2: income-demise
+bip_39_word_dash_3: income-demise-devote
+bip_39_word_dash_4: income-demise-devote-praise
+bip_39_word_dash_5: income-demise-devote-praise-tree
+bip_39_word_dash_6: income-demise-devote-praise-tree-admit
+bip_39_word_dash_7: income-demise-devote-praise-tree-admit-essence
+bip_39_word_dash_8: income-demise-devote-praise-tree-admit-essence-picture
+bip_39_word_dash_9: income-demise-devote-praise-tree-admit-essence-picture-promote
 bip_39_word_new_br_1: income
 bip_39_word_new_br_10: income<br>demise<br>devote<br>praise<br>tree<br>admit<br>essence<br>picture<br>promote<br>blue
 bip_39_word_new_br_11: income<br>demise<br>devote<br>praise<br>tree<br>admit<br>essence<br>picture<br>promote<br>blue<br>essence
@@ -194,6 +206,18 @@ bip_39_word_space_6: income demise devote praise tree admit
 bip_39_word_space_7: income demise devote praise tree admit essence
 bip_39_word_space_8: income demise devote praise tree admit essence picture
 bip_39_word_space_9: income demise devote praise tree admit essence picture promote
+bip_39_word_underscore_1: income
+bip_39_word_underscore_10: income_demise_devote_praise_tree_admit_essence_picture_promote_blue
+bip_39_word_underscore_11: income_demise_devote_praise_tree_admit_essence_picture_promote_blue_essence
+bip_39_word_underscore_12: income_demise_devote_praise_tree_admit_essence_picture_promote_blue_essence_account
+bip_39_word_underscore_2: income_demise
+bip_39_word_underscore_3: income_demise_devote
+bip_39_word_underscore_4: income_demise_devote_praise
+bip_39_word_underscore_5: income_demise_devote_praise_tree
+bip_39_word_underscore_6: income_demise_devote_praise_tree_admit
+bip_39_word_underscore_7: income_demise_devote_praise_tree_admit_essence
+bip_39_word_underscore_8: income_demise_devote_praise_tree_admit_essence_picture
+bip_39_word_underscore_9: income_demise_devote_praise_tree_admit_essence_picture_promote
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: round
+bip_39_word_dash_10: round-add-truly-garlic-zebra-add-follow-spend-bicycle-photo
+bip_39_word_dash_11: round-add-truly-garlic-zebra-add-follow-spend-bicycle-photo-topple
+bip_39_word_dash_12: round-add-truly-garlic-zebra-add-follow-spend-bicycle-photo-topple-agree
+bip_39_word_dash_2: round-add
+bip_39_word_dash_3: round-add-truly
+bip_39_word_dash_4: round-add-truly-garlic
+bip_39_word_dash_5: round-add-truly-garlic-zebra
+bip_39_word_dash_6: round-add-truly-garlic-zebra-add
+bip_39_word_dash_7: round-add-truly-garlic-zebra-add-follow
+bip_39_word_dash_8: round-add-truly-garlic-zebra-add-follow-spend
+bip_39_word_dash_9: round-add-truly-garlic-zebra-add-follow-spend-bicycle
 bip_39_word_new_br_1: round
 bip_39_word_new_br_10: round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo
 bip_39_word_new_br_11: round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo<br>topple
@@ -193,6 +205,18 @@ bip_39_word_space_6: round add truly garlic zebra add
 bip_39_word_space_7: round add truly garlic zebra add follow
 bip_39_word_space_8: round add truly garlic zebra add follow spend
 bip_39_word_space_9: round add truly garlic zebra add follow spend bicycle
+bip_39_word_underscore_1: round
+bip_39_word_underscore_10: round_add_truly_garlic_zebra_add_follow_spend_bicycle_photo
+bip_39_word_underscore_11: round_add_truly_garlic_zebra_add_follow_spend_bicycle_photo_topple
+bip_39_word_underscore_12: round_add_truly_garlic_zebra_add_follow_spend_bicycle_photo_topple_agree
+bip_39_word_underscore_2: round_add
+bip_39_word_underscore_3: round_add_truly
+bip_39_word_underscore_4: round_add_truly_garlic
+bip_39_word_underscore_5: round_add_truly_garlic_zebra
+bip_39_word_underscore_6: round_add_truly_garlic_zebra_add
+bip_39_word_underscore_7: round_add_truly_garlic_zebra_add_follow
+bip_39_word_underscore_8: round_add_truly_garlic_zebra_add_follow_spend
+bip_39_word_underscore_9: round_add_truly_garlic_zebra_add_follow_spend_bicycle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

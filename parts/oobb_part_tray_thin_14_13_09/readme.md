@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | song |  
+| bip_39_word_dash_10 | song-ancient-wrong-project-receive-regular-wood-wait-donkey-mail |  
+| bip_39_word_dash_11 | song-ancient-wrong-project-receive-regular-wood-wait-donkey-mail-release |  
+| bip_39_word_dash_12 | song-ancient-wrong-project-receive-regular-wood-wait-donkey-mail-release-apart |  
+| bip_39_word_dash_2 | song-ancient |  
+| bip_39_word_dash_3 | song-ancient-wrong |  
+| bip_39_word_dash_4 | song-ancient-wrong-project |  
+| bip_39_word_dash_5 | song-ancient-wrong-project-receive |  
+| bip_39_word_dash_6 | song-ancient-wrong-project-receive-regular |  
+| bip_39_word_dash_7 | song-ancient-wrong-project-receive-regular-wood |  
+| bip_39_word_dash_8 | song-ancient-wrong-project-receive-regular-wood-wait |  
+| bip_39_word_dash_9 | song-ancient-wrong-project-receive-regular-wood-wait-donkey |  
 | bip_39_word_new_br_1 | song |  
 | bip_39_word_new_br_10 | song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail |  
 | bip_39_word_new_br_11 | song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail<br>release |  
@@ -147,6 +159,18 @@ donkey |
 | bip_39_word_space_7 | song ancient wrong project receive regular wood |  
 | bip_39_word_space_8 | song ancient wrong project receive regular wood wait |  
 | bip_39_word_space_9 | song ancient wrong project receive regular wood wait donkey |  
+| bip_39_word_underscore_1 | song |  
+| bip_39_word_underscore_10 | song_ancient_wrong_project_receive_regular_wood_wait_donkey_mail |  
+| bip_39_word_underscore_11 | song_ancient_wrong_project_receive_regular_wood_wait_donkey_mail_release |  
+| bip_39_word_underscore_12 | song_ancient_wrong_project_receive_regular_wood_wait_donkey_mail_release_apart |  
+| bip_39_word_underscore_2 | song_ancient |  
+| bip_39_word_underscore_3 | song_ancient_wrong |  
+| bip_39_word_underscore_4 | song_ancient_wrong_project |  
+| bip_39_word_underscore_5 | song_ancient_wrong_project_receive |  
+| bip_39_word_underscore_6 | song_ancient_wrong_project_receive_regular |  
+| bip_39_word_underscore_7 | song_ancient_wrong_project_receive_regular_wood |  
+| bip_39_word_underscore_8 | song_ancient_wrong_project_receive_regular_wood_wait |  
+| bip_39_word_underscore_9 | song_ancient_wrong_project_receive_regular_wood_wait_donkey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

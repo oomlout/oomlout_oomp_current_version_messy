@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | polar |  
+| bip_39_word_dash_10 | polar-now-girl-pulse-route-chronic-capable-quantum-extend-blossom |  
+| bip_39_word_dash_11 | polar-now-girl-pulse-route-chronic-capable-quantum-extend-blossom-spike |  
+| bip_39_word_dash_12 | polar-now-girl-pulse-route-chronic-capable-quantum-extend-blossom-spike-arctic |  
+| bip_39_word_dash_2 | polar-now |  
+| bip_39_word_dash_3 | polar-now-girl |  
+| bip_39_word_dash_4 | polar-now-girl-pulse |  
+| bip_39_word_dash_5 | polar-now-girl-pulse-route |  
+| bip_39_word_dash_6 | polar-now-girl-pulse-route-chronic |  
+| bip_39_word_dash_7 | polar-now-girl-pulse-route-chronic-capable |  
+| bip_39_word_dash_8 | polar-now-girl-pulse-route-chronic-capable-quantum |  
+| bip_39_word_dash_9 | polar-now-girl-pulse-route-chronic-capable-quantum-extend |  
 | bip_39_word_new_br_1 | polar |  
 | bip_39_word_new_br_10 | polar<br>now<br>girl<br>pulse<br>route<br>chronic<br>capable<br>quantum<br>extend<br>blossom |  
 | bip_39_word_new_br_11 | polar<br>now<br>girl<br>pulse<br>route<br>chronic<br>capable<br>quantum<br>extend<br>blossom<br>spike |  
@@ -147,6 +159,18 @@ extend |
 | bip_39_word_space_7 | polar now girl pulse route chronic capable |  
 | bip_39_word_space_8 | polar now girl pulse route chronic capable quantum |  
 | bip_39_word_space_9 | polar now girl pulse route chronic capable quantum extend |  
+| bip_39_word_underscore_1 | polar |  
+| bip_39_word_underscore_10 | polar_now_girl_pulse_route_chronic_capable_quantum_extend_blossom |  
+| bip_39_word_underscore_11 | polar_now_girl_pulse_route_chronic_capable_quantum_extend_blossom_spike |  
+| bip_39_word_underscore_12 | polar_now_girl_pulse_route_chronic_capable_quantum_extend_blossom_spike_arctic |  
+| bip_39_word_underscore_2 | polar_now |  
+| bip_39_word_underscore_3 | polar_now_girl |  
+| bip_39_word_underscore_4 | polar_now_girl_pulse |  
+| bip_39_word_underscore_5 | polar_now_girl_pulse_route |  
+| bip_39_word_underscore_6 | polar_now_girl_pulse_route_chronic |  
+| bip_39_word_underscore_7 | polar_now_girl_pulse_route_chronic_capable |  
+| bip_39_word_underscore_8 | polar_now_girl_pulse_route_chronic_capable_quantum |  
+| bip_39_word_underscore_9 | polar_now_girl_pulse_route_chronic_capable_quantum_extend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

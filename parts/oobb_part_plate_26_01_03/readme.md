@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | since |  
+| bip_39_word_dash_10 | since-drum-emotion-cart-primary-only-beyond-what-next-across |  
+| bip_39_word_dash_11 | since-drum-emotion-cart-primary-only-beyond-what-next-across-poem |  
+| bip_39_word_dash_12 | since-drum-emotion-cart-primary-only-beyond-what-next-across-poem-alcohol |  
+| bip_39_word_dash_2 | since-drum |  
+| bip_39_word_dash_3 | since-drum-emotion |  
+| bip_39_word_dash_4 | since-drum-emotion-cart |  
+| bip_39_word_dash_5 | since-drum-emotion-cart-primary |  
+| bip_39_word_dash_6 | since-drum-emotion-cart-primary-only |  
+| bip_39_word_dash_7 | since-drum-emotion-cart-primary-only-beyond |  
+| bip_39_word_dash_8 | since-drum-emotion-cart-primary-only-beyond-what |  
+| bip_39_word_dash_9 | since-drum-emotion-cart-primary-only-beyond-what-next |  
 | bip_39_word_new_br_1 | since |  
 | bip_39_word_new_br_10 | since<br>drum<br>emotion<br>cart<br>primary<br>only<br>beyond<br>what<br>next<br>across |  
 | bip_39_word_new_br_11 | since<br>drum<br>emotion<br>cart<br>primary<br>only<br>beyond<br>what<br>next<br>across<br>poem |  
@@ -147,6 +159,18 @@ next |
 | bip_39_word_space_7 | since drum emotion cart primary only beyond |  
 | bip_39_word_space_8 | since drum emotion cart primary only beyond what |  
 | bip_39_word_space_9 | since drum emotion cart primary only beyond what next |  
+| bip_39_word_underscore_1 | since |  
+| bip_39_word_underscore_10 | since_drum_emotion_cart_primary_only_beyond_what_next_across |  
+| bip_39_word_underscore_11 | since_drum_emotion_cart_primary_only_beyond_what_next_across_poem |  
+| bip_39_word_underscore_12 | since_drum_emotion_cart_primary_only_beyond_what_next_across_poem_alcohol |  
+| bip_39_word_underscore_2 | since_drum |  
+| bip_39_word_underscore_3 | since_drum_emotion |  
+| bip_39_word_underscore_4 | since_drum_emotion_cart |  
+| bip_39_word_underscore_5 | since_drum_emotion_cart_primary |  
+| bip_39_word_underscore_6 | since_drum_emotion_cart_primary_only |  
+| bip_39_word_underscore_7 | since_drum_emotion_cart_primary_only_beyond |  
+| bip_39_word_underscore_8 | since_drum_emotion_cart_primary_only_beyond_what |  
+| bip_39_word_underscore_9 | since_drum_emotion_cart_primary_only_beyond_what_next |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

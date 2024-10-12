@@ -1,3 +1,15 @@
+bip_39_word_dash_1: risk
+bip_39_word_dash_10: risk-amount-bright-onion-abuse-month-poverty-taste-slot-artefact
+bip_39_word_dash_11: risk-amount-bright-onion-abuse-month-poverty-taste-slot-artefact-pudding
+bip_39_word_dash_12: risk-amount-bright-onion-abuse-month-poverty-taste-slot-artefact-pudding-arrange
+bip_39_word_dash_2: risk-amount
+bip_39_word_dash_3: risk-amount-bright
+bip_39_word_dash_4: risk-amount-bright-onion
+bip_39_word_dash_5: risk-amount-bright-onion-abuse
+bip_39_word_dash_6: risk-amount-bright-onion-abuse-month
+bip_39_word_dash_7: risk-amount-bright-onion-abuse-month-poverty
+bip_39_word_dash_8: risk-amount-bright-onion-abuse-month-poverty-taste
+bip_39_word_dash_9: risk-amount-bright-onion-abuse-month-poverty-taste-slot
 bip_39_word_new_br_1: risk
 bip_39_word_new_br_10: risk<br>amount<br>bright<br>onion<br>abuse<br>month<br>poverty<br>taste<br>slot<br>artefact
 bip_39_word_new_br_11: risk<br>amount<br>bright<br>onion<br>abuse<br>month<br>poverty<br>taste<br>slot<br>artefact<br>pudding
@@ -193,6 +205,18 @@ bip_39_word_space_6: risk amount bright onion abuse month
 bip_39_word_space_7: risk amount bright onion abuse month poverty
 bip_39_word_space_8: risk amount bright onion abuse month poverty taste
 bip_39_word_space_9: risk amount bright onion abuse month poverty taste slot
+bip_39_word_underscore_1: risk
+bip_39_word_underscore_10: risk_amount_bright_onion_abuse_month_poverty_taste_slot_artefact
+bip_39_word_underscore_11: risk_amount_bright_onion_abuse_month_poverty_taste_slot_artefact_pudding
+bip_39_word_underscore_12: risk_amount_bright_onion_abuse_month_poverty_taste_slot_artefact_pudding_arrange
+bip_39_word_underscore_2: risk_amount
+bip_39_word_underscore_3: risk_amount_bright
+bip_39_word_underscore_4: risk_amount_bright_onion
+bip_39_word_underscore_5: risk_amount_bright_onion_abuse
+bip_39_word_underscore_6: risk_amount_bright_onion_abuse_month
+bip_39_word_underscore_7: risk_amount_bright_onion_abuse_month_poverty
+bip_39_word_underscore_8: risk_amount_bright_onion_abuse_month_poverty_taste
+bip_39_word_underscore_9: risk_amount_bright_onion_abuse_month_poverty_taste_slot
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

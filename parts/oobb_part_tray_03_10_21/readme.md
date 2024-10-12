@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shock |  
+| bip_39_word_dash_10 | shock-essence-scout-best-prosper-garment-riot-spatial-remember-wheat |  
+| bip_39_word_dash_11 | shock-essence-scout-best-prosper-garment-riot-spatial-remember-wheat-scatter |  
+| bip_39_word_dash_12 | shock-essence-scout-best-prosper-garment-riot-spatial-remember-wheat-scatter-access |  
+| bip_39_word_dash_2 | shock-essence |  
+| bip_39_word_dash_3 | shock-essence-scout |  
+| bip_39_word_dash_4 | shock-essence-scout-best |  
+| bip_39_word_dash_5 | shock-essence-scout-best-prosper |  
+| bip_39_word_dash_6 | shock-essence-scout-best-prosper-garment |  
+| bip_39_word_dash_7 | shock-essence-scout-best-prosper-garment-riot |  
+| bip_39_word_dash_8 | shock-essence-scout-best-prosper-garment-riot-spatial |  
+| bip_39_word_dash_9 | shock-essence-scout-best-prosper-garment-riot-spatial-remember |  
 | bip_39_word_new_br_1 | shock |  
 | bip_39_word_new_br_10 | shock<br>essence<br>scout<br>best<br>prosper<br>garment<br>riot<br>spatial<br>remember<br>wheat |  
 | bip_39_word_new_br_11 | shock<br>essence<br>scout<br>best<br>prosper<br>garment<br>riot<br>spatial<br>remember<br>wheat<br>scatter |  
@@ -147,6 +159,18 @@ remember |
 | bip_39_word_space_7 | shock essence scout best prosper garment riot |  
 | bip_39_word_space_8 | shock essence scout best prosper garment riot spatial |  
 | bip_39_word_space_9 | shock essence scout best prosper garment riot spatial remember |  
+| bip_39_word_underscore_1 | shock |  
+| bip_39_word_underscore_10 | shock_essence_scout_best_prosper_garment_riot_spatial_remember_wheat |  
+| bip_39_word_underscore_11 | shock_essence_scout_best_prosper_garment_riot_spatial_remember_wheat_scatter |  
+| bip_39_word_underscore_12 | shock_essence_scout_best_prosper_garment_riot_spatial_remember_wheat_scatter_access |  
+| bip_39_word_underscore_2 | shock_essence |  
+| bip_39_word_underscore_3 | shock_essence_scout |  
+| bip_39_word_underscore_4 | shock_essence_scout_best |  
+| bip_39_word_underscore_5 | shock_essence_scout_best_prosper |  
+| bip_39_word_underscore_6 | shock_essence_scout_best_prosper_garment |  
+| bip_39_word_underscore_7 | shock_essence_scout_best_prosper_garment_riot |  
+| bip_39_word_underscore_8 | shock_essence_scout_best_prosper_garment_riot_spatial |  
+| bip_39_word_underscore_9 | shock_essence_scout_best_prosper_garment_riot_spatial_remember |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

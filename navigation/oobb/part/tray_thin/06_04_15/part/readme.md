@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pretty |  
+| bip_39_word_dash_10 | pretty-brass-fancy-thank-join-shoe-cannon-problem-cushion-slush |  
+| bip_39_word_dash_11 | pretty-brass-fancy-thank-join-shoe-cannon-problem-cushion-slush-search |  
+| bip_39_word_dash_12 | pretty-brass-fancy-thank-join-shoe-cannon-problem-cushion-slush-search-apart |  
+| bip_39_word_dash_2 | pretty-brass |  
+| bip_39_word_dash_3 | pretty-brass-fancy |  
+| bip_39_word_dash_4 | pretty-brass-fancy-thank |  
+| bip_39_word_dash_5 | pretty-brass-fancy-thank-join |  
+| bip_39_word_dash_6 | pretty-brass-fancy-thank-join-shoe |  
+| bip_39_word_dash_7 | pretty-brass-fancy-thank-join-shoe-cannon |  
+| bip_39_word_dash_8 | pretty-brass-fancy-thank-join-shoe-cannon-problem |  
+| bip_39_word_dash_9 | pretty-brass-fancy-thank-join-shoe-cannon-problem-cushion |  
 | bip_39_word_new_br_1 | pretty |  
 | bip_39_word_new_br_10 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem<br>cushion<br>slush |  
 | bip_39_word_new_br_11 | pretty<br>brass<br>fancy<br>thank<br>join<br>shoe<br>cannon<br>problem<br>cushion<br>slush<br>search |  
@@ -147,6 +159,18 @@ cushion |
 | bip_39_word_space_7 | pretty brass fancy thank join shoe cannon |  
 | bip_39_word_space_8 | pretty brass fancy thank join shoe cannon problem |  
 | bip_39_word_space_9 | pretty brass fancy thank join shoe cannon problem cushion |  
+| bip_39_word_underscore_1 | pretty |  
+| bip_39_word_underscore_10 | pretty_brass_fancy_thank_join_shoe_cannon_problem_cushion_slush |  
+| bip_39_word_underscore_11 | pretty_brass_fancy_thank_join_shoe_cannon_problem_cushion_slush_search |  
+| bip_39_word_underscore_12 | pretty_brass_fancy_thank_join_shoe_cannon_problem_cushion_slush_search_apart |  
+| bip_39_word_underscore_2 | pretty_brass |  
+| bip_39_word_underscore_3 | pretty_brass_fancy |  
+| bip_39_word_underscore_4 | pretty_brass_fancy_thank |  
+| bip_39_word_underscore_5 | pretty_brass_fancy_thank_join |  
+| bip_39_word_underscore_6 | pretty_brass_fancy_thank_join_shoe |  
+| bip_39_word_underscore_7 | pretty_brass_fancy_thank_join_shoe_cannon |  
+| bip_39_word_underscore_8 | pretty_brass_fancy_thank_join_shoe_cannon_problem |  
+| bip_39_word_underscore_9 | pretty_brass_fancy_thank_join_shoe_cannon_problem_cushion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

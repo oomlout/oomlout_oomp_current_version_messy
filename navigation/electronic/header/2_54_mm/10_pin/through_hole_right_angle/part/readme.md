@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cart |  
+| bip_39_word_dash_10 | cart-draft-galaxy-help-horror-transfer-stable-defense-raccoon-corn |  
+| bip_39_word_dash_11 | cart-draft-galaxy-help-horror-transfer-stable-defense-raccoon-corn-fossil |  
+| bip_39_word_dash_12 | cart-draft-galaxy-help-horror-transfer-stable-defense-raccoon-corn-fossil-actress |  
+| bip_39_word_dash_2 | cart-draft |  
+| bip_39_word_dash_3 | cart-draft-galaxy |  
+| bip_39_word_dash_4 | cart-draft-galaxy-help |  
+| bip_39_word_dash_5 | cart-draft-galaxy-help-horror |  
+| bip_39_word_dash_6 | cart-draft-galaxy-help-horror-transfer |  
+| bip_39_word_dash_7 | cart-draft-galaxy-help-horror-transfer-stable |  
+| bip_39_word_dash_8 | cart-draft-galaxy-help-horror-transfer-stable-defense |  
+| bip_39_word_dash_9 | cart-draft-galaxy-help-horror-transfer-stable-defense-raccoon |  
 | bip_39_word_new_br_1 | cart |  
 | bip_39_word_new_br_10 | cart<br>draft<br>galaxy<br>help<br>horror<br>transfer<br>stable<br>defense<br>raccoon<br>corn |  
 | bip_39_word_new_br_11 | cart<br>draft<br>galaxy<br>help<br>horror<br>transfer<br>stable<br>defense<br>raccoon<br>corn<br>fossil |  
@@ -147,6 +159,18 @@ raccoon |
 | bip_39_word_space_7 | cart draft galaxy help horror transfer stable |  
 | bip_39_word_space_8 | cart draft galaxy help horror transfer stable defense |  
 | bip_39_word_space_9 | cart draft galaxy help horror transfer stable defense raccoon |  
+| bip_39_word_underscore_1 | cart |  
+| bip_39_word_underscore_10 | cart_draft_galaxy_help_horror_transfer_stable_defense_raccoon_corn |  
+| bip_39_word_underscore_11 | cart_draft_galaxy_help_horror_transfer_stable_defense_raccoon_corn_fossil |  
+| bip_39_word_underscore_12 | cart_draft_galaxy_help_horror_transfer_stable_defense_raccoon_corn_fossil_actress |  
+| bip_39_word_underscore_2 | cart_draft |  
+| bip_39_word_underscore_3 | cart_draft_galaxy |  
+| bip_39_word_underscore_4 | cart_draft_galaxy_help |  
+| bip_39_word_underscore_5 | cart_draft_galaxy_help_horror |  
+| bip_39_word_underscore_6 | cart_draft_galaxy_help_horror_transfer |  
+| bip_39_word_underscore_7 | cart_draft_galaxy_help_horror_transfer_stable |  
+| bip_39_word_underscore_8 | cart_draft_galaxy_help_horror_transfer_stable_defense |  
+| bip_39_word_underscore_9 | cart_draft_galaxy_help_horror_transfer_stable_defense_raccoon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | season |  
+| bip_39_word_dash_10 | season-click-pool-pet-flush-ski-hurry-humble-erosion-novel |  
+| bip_39_word_dash_11 | season-click-pool-pet-flush-ski-hurry-humble-erosion-novel-album |  
+| bip_39_word_dash_12 | season-click-pool-pet-flush-ski-hurry-humble-erosion-novel-album-aisle |  
+| bip_39_word_dash_2 | season-click |  
+| bip_39_word_dash_3 | season-click-pool |  
+| bip_39_word_dash_4 | season-click-pool-pet |  
+| bip_39_word_dash_5 | season-click-pool-pet-flush |  
+| bip_39_word_dash_6 | season-click-pool-pet-flush-ski |  
+| bip_39_word_dash_7 | season-click-pool-pet-flush-ski-hurry |  
+| bip_39_word_dash_8 | season-click-pool-pet-flush-ski-hurry-humble |  
+| bip_39_word_dash_9 | season-click-pool-pet-flush-ski-hurry-humble-erosion |  
 | bip_39_word_new_br_1 | season |  
 | bip_39_word_new_br_10 | season<br>click<br>pool<br>pet<br>flush<br>ski<br>hurry<br>humble<br>erosion<br>novel |  
 | bip_39_word_new_br_11 | season<br>click<br>pool<br>pet<br>flush<br>ski<br>hurry<br>humble<br>erosion<br>novel<br>album |  
@@ -147,6 +159,18 @@ erosion |
 | bip_39_word_space_7 | season click pool pet flush ski hurry |  
 | bip_39_word_space_8 | season click pool pet flush ski hurry humble |  
 | bip_39_word_space_9 | season click pool pet flush ski hurry humble erosion |  
+| bip_39_word_underscore_1 | season |  
+| bip_39_word_underscore_10 | season_click_pool_pet_flush_ski_hurry_humble_erosion_novel |  
+| bip_39_word_underscore_11 | season_click_pool_pet_flush_ski_hurry_humble_erosion_novel_album |  
+| bip_39_word_underscore_12 | season_click_pool_pet_flush_ski_hurry_humble_erosion_novel_album_aisle |  
+| bip_39_word_underscore_2 | season_click |  
+| bip_39_word_underscore_3 | season_click_pool |  
+| bip_39_word_underscore_4 | season_click_pool_pet |  
+| bip_39_word_underscore_5 | season_click_pool_pet_flush |  
+| bip_39_word_underscore_6 | season_click_pool_pet_flush_ski |  
+| bip_39_word_underscore_7 | season_click_pool_pet_flush_ski_hurry |  
+| bip_39_word_underscore_8 | season_click_pool_pet_flush_ski_hurry_humble |  
+| bip_39_word_underscore_9 | season_click_pool_pet_flush_ski_hurry_humble_erosion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

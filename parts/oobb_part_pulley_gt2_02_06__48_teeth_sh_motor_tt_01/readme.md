@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grant |  
+| bip_39_word_dash_10 | grant-submit-vacant-bag-crack-great-include-pig-garage-leader |  
+| bip_39_word_dash_11 | grant-submit-vacant-bag-crack-great-include-pig-garage-leader-invest |  
+| bip_39_word_dash_12 | grant-submit-vacant-bag-crack-great-include-pig-garage-leader-invest-acquire |  
+| bip_39_word_dash_2 | grant-submit |  
+| bip_39_word_dash_3 | grant-submit-vacant |  
+| bip_39_word_dash_4 | grant-submit-vacant-bag |  
+| bip_39_word_dash_5 | grant-submit-vacant-bag-crack |  
+| bip_39_word_dash_6 | grant-submit-vacant-bag-crack-great |  
+| bip_39_word_dash_7 | grant-submit-vacant-bag-crack-great-include |  
+| bip_39_word_dash_8 | grant-submit-vacant-bag-crack-great-include-pig |  
+| bip_39_word_dash_9 | grant-submit-vacant-bag-crack-great-include-pig-garage |  
 | bip_39_word_new_br_1 | grant |  
 | bip_39_word_new_br_10 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig<br>garage<br>leader |  
 | bip_39_word_new_br_11 | grant<br>submit<br>vacant<br>bag<br>crack<br>great<br>include<br>pig<br>garage<br>leader<br>invest |  
@@ -147,6 +159,18 @@ garage |
 | bip_39_word_space_7 | grant submit vacant bag crack great include |  
 | bip_39_word_space_8 | grant submit vacant bag crack great include pig |  
 | bip_39_word_space_9 | grant submit vacant bag crack great include pig garage |  
+| bip_39_word_underscore_1 | grant |  
+| bip_39_word_underscore_10 | grant_submit_vacant_bag_crack_great_include_pig_garage_leader |  
+| bip_39_word_underscore_11 | grant_submit_vacant_bag_crack_great_include_pig_garage_leader_invest |  
+| bip_39_word_underscore_12 | grant_submit_vacant_bag_crack_great_include_pig_garage_leader_invest_acquire |  
+| bip_39_word_underscore_2 | grant_submit |  
+| bip_39_word_underscore_3 | grant_submit_vacant |  
+| bip_39_word_underscore_4 | grant_submit_vacant_bag |  
+| bip_39_word_underscore_5 | grant_submit_vacant_bag_crack |  
+| bip_39_word_underscore_6 | grant_submit_vacant_bag_crack_great |  
+| bip_39_word_underscore_7 | grant_submit_vacant_bag_crack_great_include |  
+| bip_39_word_underscore_8 | grant_submit_vacant_bag_crack_great_include_pig |  
+| bip_39_word_underscore_9 | grant_submit_vacant_bag_crack_great_include_pig_garage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

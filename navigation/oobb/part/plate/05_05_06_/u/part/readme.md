@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | control |  
+| bip_39_word_dash_10 | control-master-ready-write-urge-attitude-love-duty-voice-slide |  
+| bip_39_word_dash_11 | control-master-ready-write-urge-attitude-love-duty-voice-slide-shop |  
+| bip_39_word_dash_12 | control-master-ready-write-urge-attitude-love-duty-voice-slide-shop-album |  
+| bip_39_word_dash_2 | control-master |  
+| bip_39_word_dash_3 | control-master-ready |  
+| bip_39_word_dash_4 | control-master-ready-write |  
+| bip_39_word_dash_5 | control-master-ready-write-urge |  
+| bip_39_word_dash_6 | control-master-ready-write-urge-attitude |  
+| bip_39_word_dash_7 | control-master-ready-write-urge-attitude-love |  
+| bip_39_word_dash_8 | control-master-ready-write-urge-attitude-love-duty |  
+| bip_39_word_dash_9 | control-master-ready-write-urge-attitude-love-duty-voice |  
 | bip_39_word_new_br_1 | control |  
 | bip_39_word_new_br_10 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty<br>voice<br>slide |  
 | bip_39_word_new_br_11 | control<br>master<br>ready<br>write<br>urge<br>attitude<br>love<br>duty<br>voice<br>slide<br>shop |  
@@ -147,6 +159,18 @@ voice |
 | bip_39_word_space_7 | control master ready write urge attitude love |  
 | bip_39_word_space_8 | control master ready write urge attitude love duty |  
 | bip_39_word_space_9 | control master ready write urge attitude love duty voice |  
+| bip_39_word_underscore_1 | control |  
+| bip_39_word_underscore_10 | control_master_ready_write_urge_attitude_love_duty_voice_slide |  
+| bip_39_word_underscore_11 | control_master_ready_write_urge_attitude_love_duty_voice_slide_shop |  
+| bip_39_word_underscore_12 | control_master_ready_write_urge_attitude_love_duty_voice_slide_shop_album |  
+| bip_39_word_underscore_2 | control_master |  
+| bip_39_word_underscore_3 | control_master_ready |  
+| bip_39_word_underscore_4 | control_master_ready_write |  
+| bip_39_word_underscore_5 | control_master_ready_write_urge |  
+| bip_39_word_underscore_6 | control_master_ready_write_urge_attitude |  
+| bip_39_word_underscore_7 | control_master_ready_write_urge_attitude_love |  
+| bip_39_word_underscore_8 | control_master_ready_write_urge_attitude_love_duty |  
+| bip_39_word_underscore_9 | control_master_ready_write_urge_attitude_love_duty_voice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

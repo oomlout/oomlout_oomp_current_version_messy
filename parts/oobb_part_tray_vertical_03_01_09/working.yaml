@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shaft
+bip_39_word_dash_10: shaft-fatigue-menu-neither-middle-focus-crowd-good-axis-echo
+bip_39_word_dash_11: shaft-fatigue-menu-neither-middle-focus-crowd-good-axis-echo-window
+bip_39_word_dash_12: shaft-fatigue-menu-neither-middle-focus-crowd-good-axis-echo-window-atom
+bip_39_word_dash_2: shaft-fatigue
+bip_39_word_dash_3: shaft-fatigue-menu
+bip_39_word_dash_4: shaft-fatigue-menu-neither
+bip_39_word_dash_5: shaft-fatigue-menu-neither-middle
+bip_39_word_dash_6: shaft-fatigue-menu-neither-middle-focus
+bip_39_word_dash_7: shaft-fatigue-menu-neither-middle-focus-crowd
+bip_39_word_dash_8: shaft-fatigue-menu-neither-middle-focus-crowd-good
+bip_39_word_dash_9: shaft-fatigue-menu-neither-middle-focus-crowd-good-axis
 bip_39_word_new_br_1: shaft
 bip_39_word_new_br_10: shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good<br>axis<br>echo
 bip_39_word_new_br_11: shaft<br>fatigue<br>menu<br>neither<br>middle<br>focus<br>crowd<br>good<br>axis<br>echo<br>window
@@ -193,6 +205,18 @@ bip_39_word_space_6: shaft fatigue menu neither middle focus
 bip_39_word_space_7: shaft fatigue menu neither middle focus crowd
 bip_39_word_space_8: shaft fatigue menu neither middle focus crowd good
 bip_39_word_space_9: shaft fatigue menu neither middle focus crowd good axis
+bip_39_word_underscore_1: shaft
+bip_39_word_underscore_10: shaft_fatigue_menu_neither_middle_focus_crowd_good_axis_echo
+bip_39_word_underscore_11: shaft_fatigue_menu_neither_middle_focus_crowd_good_axis_echo_window
+bip_39_word_underscore_12: shaft_fatigue_menu_neither_middle_focus_crowd_good_axis_echo_window_atom
+bip_39_word_underscore_2: shaft_fatigue
+bip_39_word_underscore_3: shaft_fatigue_menu
+bip_39_word_underscore_4: shaft_fatigue_menu_neither
+bip_39_word_underscore_5: shaft_fatigue_menu_neither_middle
+bip_39_word_underscore_6: shaft_fatigue_menu_neither_middle_focus
+bip_39_word_underscore_7: shaft_fatigue_menu_neither_middle_focus_crowd
+bip_39_word_underscore_8: shaft_fatigue_menu_neither_middle_focus_crowd_good
+bip_39_word_underscore_9: shaft_fatigue_menu_neither_middle_focus_crowd_good_axis
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

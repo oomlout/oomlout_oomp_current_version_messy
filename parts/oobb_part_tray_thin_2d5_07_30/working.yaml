@@ -1,3 +1,15 @@
+bip_39_word_dash_1: method
+bip_39_word_dash_10: method-mirror-suspect-violin-slogan-room-tourist-turtle-beef-slide
+bip_39_word_dash_11: method-mirror-suspect-violin-slogan-room-tourist-turtle-beef-slide-advice
+bip_39_word_dash_12: method-mirror-suspect-violin-slogan-room-tourist-turtle-beef-slide-advice-audit
+bip_39_word_dash_2: method-mirror
+bip_39_word_dash_3: method-mirror-suspect
+bip_39_word_dash_4: method-mirror-suspect-violin
+bip_39_word_dash_5: method-mirror-suspect-violin-slogan
+bip_39_word_dash_6: method-mirror-suspect-violin-slogan-room
+bip_39_word_dash_7: method-mirror-suspect-violin-slogan-room-tourist
+bip_39_word_dash_8: method-mirror-suspect-violin-slogan-room-tourist-turtle
+bip_39_word_dash_9: method-mirror-suspect-violin-slogan-room-tourist-turtle-beef
 bip_39_word_new_br_1: method
 bip_39_word_new_br_10: method<br>mirror<br>suspect<br>violin<br>slogan<br>room<br>tourist<br>turtle<br>beef<br>slide
 bip_39_word_new_br_11: method<br>mirror<br>suspect<br>violin<br>slogan<br>room<br>tourist<br>turtle<br>beef<br>slide<br>advice
@@ -194,6 +206,18 @@ bip_39_word_space_6: method mirror suspect violin slogan room
 bip_39_word_space_7: method mirror suspect violin slogan room tourist
 bip_39_word_space_8: method mirror suspect violin slogan room tourist turtle
 bip_39_word_space_9: method mirror suspect violin slogan room tourist turtle beef
+bip_39_word_underscore_1: method
+bip_39_word_underscore_10: method_mirror_suspect_violin_slogan_room_tourist_turtle_beef_slide
+bip_39_word_underscore_11: method_mirror_suspect_violin_slogan_room_tourist_turtle_beef_slide_advice
+bip_39_word_underscore_12: method_mirror_suspect_violin_slogan_room_tourist_turtle_beef_slide_advice_audit
+bip_39_word_underscore_2: method_mirror
+bip_39_word_underscore_3: method_mirror_suspect
+bip_39_word_underscore_4: method_mirror_suspect_violin
+bip_39_word_underscore_5: method_mirror_suspect_violin_slogan
+bip_39_word_underscore_6: method_mirror_suspect_violin_slogan_room
+bip_39_word_underscore_7: method_mirror_suspect_violin_slogan_room_tourist
+bip_39_word_underscore_8: method_mirror_suspect_violin_slogan_room_tourist_turtle
+bip_39_word_underscore_9: method_mirror_suspect_violin_slogan_room_tourist_turtle_beef
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

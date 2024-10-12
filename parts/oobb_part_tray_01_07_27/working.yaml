@@ -1,3 +1,15 @@
+bip_39_word_dash_1: basic
+bip_39_word_dash_10: basic-view-sand-seven-guitar-velvet-bone-essence-pole-throw
+bip_39_word_dash_11: basic-view-sand-seven-guitar-velvet-bone-essence-pole-throw-gentle
+bip_39_word_dash_12: basic-view-sand-seven-guitar-velvet-bone-essence-pole-throw-gentle-alert
+bip_39_word_dash_2: basic-view
+bip_39_word_dash_3: basic-view-sand
+bip_39_word_dash_4: basic-view-sand-seven
+bip_39_word_dash_5: basic-view-sand-seven-guitar
+bip_39_word_dash_6: basic-view-sand-seven-guitar-velvet
+bip_39_word_dash_7: basic-view-sand-seven-guitar-velvet-bone
+bip_39_word_dash_8: basic-view-sand-seven-guitar-velvet-bone-essence
+bip_39_word_dash_9: basic-view-sand-seven-guitar-velvet-bone-essence-pole
 bip_39_word_new_br_1: basic
 bip_39_word_new_br_10: basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw
 bip_39_word_new_br_11: basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw<br>gentle
@@ -193,6 +205,18 @@ bip_39_word_space_6: basic view sand seven guitar velvet
 bip_39_word_space_7: basic view sand seven guitar velvet bone
 bip_39_word_space_8: basic view sand seven guitar velvet bone essence
 bip_39_word_space_9: basic view sand seven guitar velvet bone essence pole
+bip_39_word_underscore_1: basic
+bip_39_word_underscore_10: basic_view_sand_seven_guitar_velvet_bone_essence_pole_throw
+bip_39_word_underscore_11: basic_view_sand_seven_guitar_velvet_bone_essence_pole_throw_gentle
+bip_39_word_underscore_12: basic_view_sand_seven_guitar_velvet_bone_essence_pole_throw_gentle_alert
+bip_39_word_underscore_2: basic_view
+bip_39_word_underscore_3: basic_view_sand
+bip_39_word_underscore_4: basic_view_sand_seven
+bip_39_word_underscore_5: basic_view_sand_seven_guitar
+bip_39_word_underscore_6: basic_view_sand_seven_guitar_velvet
+bip_39_word_underscore_7: basic_view_sand_seven_guitar_velvet_bone
+bip_39_word_underscore_8: basic_view_sand_seven_guitar_velvet_bone_essence
+bip_39_word_underscore_9: basic_view_sand_seven_guitar_velvet_bone_essence_pole
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

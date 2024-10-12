@@ -1,3 +1,15 @@
+bip_39_word_dash_1: guess
+bip_39_word_dash_10: guess-aspect-tape-volcano-dream-rib-journey-knee-scout-buyer
+bip_39_word_dash_11: guess-aspect-tape-volcano-dream-rib-journey-knee-scout-buyer-sausage
+bip_39_word_dash_12: guess-aspect-tape-volcano-dream-rib-journey-knee-scout-buyer-sausage-apart
+bip_39_word_dash_2: guess-aspect
+bip_39_word_dash_3: guess-aspect-tape
+bip_39_word_dash_4: guess-aspect-tape-volcano
+bip_39_word_dash_5: guess-aspect-tape-volcano-dream
+bip_39_word_dash_6: guess-aspect-tape-volcano-dream-rib
+bip_39_word_dash_7: guess-aspect-tape-volcano-dream-rib-journey
+bip_39_word_dash_8: guess-aspect-tape-volcano-dream-rib-journey-knee
+bip_39_word_dash_9: guess-aspect-tape-volcano-dream-rib-journey-knee-scout
 bip_39_word_new_br_1: guess
 bip_39_word_new_br_10: guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee<br>scout<br>buyer
 bip_39_word_new_br_11: guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee<br>scout<br>buyer<br>sausage
@@ -193,6 +205,18 @@ bip_39_word_space_6: guess aspect tape volcano dream rib
 bip_39_word_space_7: guess aspect tape volcano dream rib journey
 bip_39_word_space_8: guess aspect tape volcano dream rib journey knee
 bip_39_word_space_9: guess aspect tape volcano dream rib journey knee scout
+bip_39_word_underscore_1: guess
+bip_39_word_underscore_10: guess_aspect_tape_volcano_dream_rib_journey_knee_scout_buyer
+bip_39_word_underscore_11: guess_aspect_tape_volcano_dream_rib_journey_knee_scout_buyer_sausage
+bip_39_word_underscore_12: guess_aspect_tape_volcano_dream_rib_journey_knee_scout_buyer_sausage_apart
+bip_39_word_underscore_2: guess_aspect
+bip_39_word_underscore_3: guess_aspect_tape
+bip_39_word_underscore_4: guess_aspect_tape_volcano
+bip_39_word_underscore_5: guess_aspect_tape_volcano_dream
+bip_39_word_underscore_6: guess_aspect_tape_volcano_dream_rib
+bip_39_word_underscore_7: guess_aspect_tape_volcano_dream_rib_journey
+bip_39_word_underscore_8: guess_aspect_tape_volcano_dream_rib_journey_knee
+bip_39_word_underscore_9: guess_aspect_tape_volcano_dream_rib_journey_knee_scout
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

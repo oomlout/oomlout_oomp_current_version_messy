@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mouse |  
+| bip_39_word_dash_10 | mouse-whale-tent-month-crime-game-seek-enter-load-special |  
+| bip_39_word_dash_11 | mouse-whale-tent-month-crime-game-seek-enter-load-special-annual |  
+| bip_39_word_dash_12 | mouse-whale-tent-month-crime-game-seek-enter-load-special-annual-album |  
+| bip_39_word_dash_2 | mouse-whale |  
+| bip_39_word_dash_3 | mouse-whale-tent |  
+| bip_39_word_dash_4 | mouse-whale-tent-month |  
+| bip_39_word_dash_5 | mouse-whale-tent-month-crime |  
+| bip_39_word_dash_6 | mouse-whale-tent-month-crime-game |  
+| bip_39_word_dash_7 | mouse-whale-tent-month-crime-game-seek |  
+| bip_39_word_dash_8 | mouse-whale-tent-month-crime-game-seek-enter |  
+| bip_39_word_dash_9 | mouse-whale-tent-month-crime-game-seek-enter-load |  
 | bip_39_word_new_br_1 | mouse |  
 | bip_39_word_new_br_10 | mouse<br>whale<br>tent<br>month<br>crime<br>game<br>seek<br>enter<br>load<br>special |  
 | bip_39_word_new_br_11 | mouse<br>whale<br>tent<br>month<br>crime<br>game<br>seek<br>enter<br>load<br>special<br>annual |  
@@ -147,6 +159,18 @@ load |
 | bip_39_word_space_7 | mouse whale tent month crime game seek |  
 | bip_39_word_space_8 | mouse whale tent month crime game seek enter |  
 | bip_39_word_space_9 | mouse whale tent month crime game seek enter load |  
+| bip_39_word_underscore_1 | mouse |  
+| bip_39_word_underscore_10 | mouse_whale_tent_month_crime_game_seek_enter_load_special |  
+| bip_39_word_underscore_11 | mouse_whale_tent_month_crime_game_seek_enter_load_special_annual |  
+| bip_39_word_underscore_12 | mouse_whale_tent_month_crime_game_seek_enter_load_special_annual_album |  
+| bip_39_word_underscore_2 | mouse_whale |  
+| bip_39_word_underscore_3 | mouse_whale_tent |  
+| bip_39_word_underscore_4 | mouse_whale_tent_month |  
+| bip_39_word_underscore_5 | mouse_whale_tent_month_crime |  
+| bip_39_word_underscore_6 | mouse_whale_tent_month_crime_game |  
+| bip_39_word_underscore_7 | mouse_whale_tent_month_crime_game_seek |  
+| bip_39_word_underscore_8 | mouse_whale_tent_month_crime_game_seek_enter |  
+| bip_39_word_underscore_9 | mouse_whale_tent_month_crime_game_seek_enter_load |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quiz |  
+| bip_39_word_dash_10 | quiz-average-risk-any-tonight-brown-bean-film-pluck-blush |  
+| bip_39_word_dash_11 | quiz-average-risk-any-tonight-brown-bean-film-pluck-blush-curve |  
+| bip_39_word_dash_12 | quiz-average-risk-any-tonight-brown-bean-film-pluck-blush-curve-always |  
+| bip_39_word_dash_2 | quiz-average |  
+| bip_39_word_dash_3 | quiz-average-risk |  
+| bip_39_word_dash_4 | quiz-average-risk-any |  
+| bip_39_word_dash_5 | quiz-average-risk-any-tonight |  
+| bip_39_word_dash_6 | quiz-average-risk-any-tonight-brown |  
+| bip_39_word_dash_7 | quiz-average-risk-any-tonight-brown-bean |  
+| bip_39_word_dash_8 | quiz-average-risk-any-tonight-brown-bean-film |  
+| bip_39_word_dash_9 | quiz-average-risk-any-tonight-brown-bean-film-pluck |  
 | bip_39_word_new_br_1 | quiz |  
 | bip_39_word_new_br_10 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film<br>pluck<br>blush |  
 | bip_39_word_new_br_11 | quiz<br>average<br>risk<br>any<br>tonight<br>brown<br>bean<br>film<br>pluck<br>blush<br>curve |  
@@ -147,6 +159,18 @@ pluck |
 | bip_39_word_space_7 | quiz average risk any tonight brown bean |  
 | bip_39_word_space_8 | quiz average risk any tonight brown bean film |  
 | bip_39_word_space_9 | quiz average risk any tonight brown bean film pluck |  
+| bip_39_word_underscore_1 | quiz |  
+| bip_39_word_underscore_10 | quiz_average_risk_any_tonight_brown_bean_film_pluck_blush |  
+| bip_39_word_underscore_11 | quiz_average_risk_any_tonight_brown_bean_film_pluck_blush_curve |  
+| bip_39_word_underscore_12 | quiz_average_risk_any_tonight_brown_bean_film_pluck_blush_curve_always |  
+| bip_39_word_underscore_2 | quiz_average |  
+| bip_39_word_underscore_3 | quiz_average_risk |  
+| bip_39_word_underscore_4 | quiz_average_risk_any |  
+| bip_39_word_underscore_5 | quiz_average_risk_any_tonight |  
+| bip_39_word_underscore_6 | quiz_average_risk_any_tonight_brown |  
+| bip_39_word_underscore_7 | quiz_average_risk_any_tonight_brown_bean |  
+| bip_39_word_underscore_8 | quiz_average_risk_any_tonight_brown_bean_film |  
+| bip_39_word_underscore_9 | quiz_average_risk_any_tonight_brown_bean_film_pluck |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

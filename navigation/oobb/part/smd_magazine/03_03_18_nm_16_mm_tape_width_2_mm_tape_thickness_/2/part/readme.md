@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mountain |  
+| bip_39_word_dash_10 | mountain-panda-hint-fury-material-tongue-actress-tuition-assume-admit |  
+| bip_39_word_dash_11 | mountain-panda-hint-fury-material-tongue-actress-tuition-assume-admit-photo |  
+| bip_39_word_dash_12 | mountain-panda-hint-fury-material-tongue-actress-tuition-assume-admit-photo-again |  
+| bip_39_word_dash_2 | mountain-panda |  
+| bip_39_word_dash_3 | mountain-panda-hint |  
+| bip_39_word_dash_4 | mountain-panda-hint-fury |  
+| bip_39_word_dash_5 | mountain-panda-hint-fury-material |  
+| bip_39_word_dash_6 | mountain-panda-hint-fury-material-tongue |  
+| bip_39_word_dash_7 | mountain-panda-hint-fury-material-tongue-actress |  
+| bip_39_word_dash_8 | mountain-panda-hint-fury-material-tongue-actress-tuition |  
+| bip_39_word_dash_9 | mountain-panda-hint-fury-material-tongue-actress-tuition-assume |  
 | bip_39_word_new_br_1 | mountain |  
 | bip_39_word_new_br_10 | mountain<br>panda<br>hint<br>fury<br>material<br>tongue<br>actress<br>tuition<br>assume<br>admit |  
 | bip_39_word_new_br_11 | mountain<br>panda<br>hint<br>fury<br>material<br>tongue<br>actress<br>tuition<br>assume<br>admit<br>photo |  
@@ -147,6 +159,18 @@ assume |
 | bip_39_word_space_7 | mountain panda hint fury material tongue actress |  
 | bip_39_word_space_8 | mountain panda hint fury material tongue actress tuition |  
 | bip_39_word_space_9 | mountain panda hint fury material tongue actress tuition assume |  
+| bip_39_word_underscore_1 | mountain |  
+| bip_39_word_underscore_10 | mountain_panda_hint_fury_material_tongue_actress_tuition_assume_admit |  
+| bip_39_word_underscore_11 | mountain_panda_hint_fury_material_tongue_actress_tuition_assume_admit_photo |  
+| bip_39_word_underscore_12 | mountain_panda_hint_fury_material_tongue_actress_tuition_assume_admit_photo_again |  
+| bip_39_word_underscore_2 | mountain_panda |  
+| bip_39_word_underscore_3 | mountain_panda_hint |  
+| bip_39_word_underscore_4 | mountain_panda_hint_fury |  
+| bip_39_word_underscore_5 | mountain_panda_hint_fury_material |  
+| bip_39_word_underscore_6 | mountain_panda_hint_fury_material_tongue |  
+| bip_39_word_underscore_7 | mountain_panda_hint_fury_material_tongue_actress |  
+| bip_39_word_underscore_8 | mountain_panda_hint_fury_material_tongue_actress_tuition |  
+| bip_39_word_underscore_9 | mountain_panda_hint_fury_material_tongue_actress_tuition_assume |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

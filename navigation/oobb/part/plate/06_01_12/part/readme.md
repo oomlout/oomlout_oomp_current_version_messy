@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | citizen |  
+| bip_39_word_dash_10 | citizen-inherit-range-uniform-deliver-dizzy-sure-mixture-brand-alcohol |  
+| bip_39_word_dash_11 | citizen-inherit-range-uniform-deliver-dizzy-sure-mixture-brand-alcohol-subject |  
+| bip_39_word_dash_12 | citizen-inherit-range-uniform-deliver-dizzy-sure-mixture-brand-alcohol-subject-amount |  
+| bip_39_word_dash_2 | citizen-inherit |  
+| bip_39_word_dash_3 | citizen-inherit-range |  
+| bip_39_word_dash_4 | citizen-inherit-range-uniform |  
+| bip_39_word_dash_5 | citizen-inherit-range-uniform-deliver |  
+| bip_39_word_dash_6 | citizen-inherit-range-uniform-deliver-dizzy |  
+| bip_39_word_dash_7 | citizen-inherit-range-uniform-deliver-dizzy-sure |  
+| bip_39_word_dash_8 | citizen-inherit-range-uniform-deliver-dizzy-sure-mixture |  
+| bip_39_word_dash_9 | citizen-inherit-range-uniform-deliver-dizzy-sure-mixture-brand |  
 | bip_39_word_new_br_1 | citizen |  
 | bip_39_word_new_br_10 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol |  
 | bip_39_word_new_br_11 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol<br>subject |  
@@ -147,6 +159,18 @@ brand |
 | bip_39_word_space_7 | citizen inherit range uniform deliver dizzy sure |  
 | bip_39_word_space_8 | citizen inherit range uniform deliver dizzy sure mixture |  
 | bip_39_word_space_9 | citizen inherit range uniform deliver dizzy sure mixture brand |  
+| bip_39_word_underscore_1 | citizen |  
+| bip_39_word_underscore_10 | citizen_inherit_range_uniform_deliver_dizzy_sure_mixture_brand_alcohol |  
+| bip_39_word_underscore_11 | citizen_inherit_range_uniform_deliver_dizzy_sure_mixture_brand_alcohol_subject |  
+| bip_39_word_underscore_12 | citizen_inherit_range_uniform_deliver_dizzy_sure_mixture_brand_alcohol_subject_amount |  
+| bip_39_word_underscore_2 | citizen_inherit |  
+| bip_39_word_underscore_3 | citizen_inherit_range |  
+| bip_39_word_underscore_4 | citizen_inherit_range_uniform |  
+| bip_39_word_underscore_5 | citizen_inherit_range_uniform_deliver |  
+| bip_39_word_underscore_6 | citizen_inherit_range_uniform_deliver_dizzy |  
+| bip_39_word_underscore_7 | citizen_inherit_range_uniform_deliver_dizzy_sure |  
+| bip_39_word_underscore_8 | citizen_inherit_range_uniform_deliver_dizzy_sure_mixture |  
+| bip_39_word_underscore_9 | citizen_inherit_range_uniform_deliver_dizzy_sure_mixture_brand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

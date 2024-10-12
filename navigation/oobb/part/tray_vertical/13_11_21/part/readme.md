@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | conduct |  
+| bip_39_word_dash_10 | conduct-pride-raise-member-swim-town-funny-eyebrow-inside-price |  
+| bip_39_word_dash_11 | conduct-pride-raise-member-swim-town-funny-eyebrow-inside-price-gentle |  
+| bip_39_word_dash_12 | conduct-pride-raise-member-swim-town-funny-eyebrow-inside-price-gentle-almost |  
+| bip_39_word_dash_2 | conduct-pride |  
+| bip_39_word_dash_3 | conduct-pride-raise |  
+| bip_39_word_dash_4 | conduct-pride-raise-member |  
+| bip_39_word_dash_5 | conduct-pride-raise-member-swim |  
+| bip_39_word_dash_6 | conduct-pride-raise-member-swim-town |  
+| bip_39_word_dash_7 | conduct-pride-raise-member-swim-town-funny |  
+| bip_39_word_dash_8 | conduct-pride-raise-member-swim-town-funny-eyebrow |  
+| bip_39_word_dash_9 | conduct-pride-raise-member-swim-town-funny-eyebrow-inside |  
 | bip_39_word_new_br_1 | conduct |  
 | bip_39_word_new_br_10 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow<br>inside<br>price |  
 | bip_39_word_new_br_11 | conduct<br>pride<br>raise<br>member<br>swim<br>town<br>funny<br>eyebrow<br>inside<br>price<br>gentle |  
@@ -147,6 +159,18 @@ inside |
 | bip_39_word_space_7 | conduct pride raise member swim town funny |  
 | bip_39_word_space_8 | conduct pride raise member swim town funny eyebrow |  
 | bip_39_word_space_9 | conduct pride raise member swim town funny eyebrow inside |  
+| bip_39_word_underscore_1 | conduct |  
+| bip_39_word_underscore_10 | conduct_pride_raise_member_swim_town_funny_eyebrow_inside_price |  
+| bip_39_word_underscore_11 | conduct_pride_raise_member_swim_town_funny_eyebrow_inside_price_gentle |  
+| bip_39_word_underscore_12 | conduct_pride_raise_member_swim_town_funny_eyebrow_inside_price_gentle_almost |  
+| bip_39_word_underscore_2 | conduct_pride |  
+| bip_39_word_underscore_3 | conduct_pride_raise |  
+| bip_39_word_underscore_4 | conduct_pride_raise_member |  
+| bip_39_word_underscore_5 | conduct_pride_raise_member_swim |  
+| bip_39_word_underscore_6 | conduct_pride_raise_member_swim_town |  
+| bip_39_word_underscore_7 | conduct_pride_raise_member_swim_town_funny |  
+| bip_39_word_underscore_8 | conduct_pride_raise_member_swim_town_funny_eyebrow |  
+| bip_39_word_underscore_9 | conduct_pride_raise_member_swim_town_funny_eyebrow_inside |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

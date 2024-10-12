@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | segment |  
+| bip_39_word_dash_10 | segment-wrist-urban-grid-profit-execute-little-economy-small-jealous |  
+| bip_39_word_dash_11 | segment-wrist-urban-grid-profit-execute-little-economy-small-jealous-grit |  
+| bip_39_word_dash_12 | segment-wrist-urban-grid-profit-execute-little-economy-small-jealous-grit-another |  
+| bip_39_word_dash_2 | segment-wrist |  
+| bip_39_word_dash_3 | segment-wrist-urban |  
+| bip_39_word_dash_4 | segment-wrist-urban-grid |  
+| bip_39_word_dash_5 | segment-wrist-urban-grid-profit |  
+| bip_39_word_dash_6 | segment-wrist-urban-grid-profit-execute |  
+| bip_39_word_dash_7 | segment-wrist-urban-grid-profit-execute-little |  
+| bip_39_word_dash_8 | segment-wrist-urban-grid-profit-execute-little-economy |  
+| bip_39_word_dash_9 | segment-wrist-urban-grid-profit-execute-little-economy-small |  
 | bip_39_word_new_br_1 | segment |  
 | bip_39_word_new_br_10 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy<br>small<br>jealous |  
 | bip_39_word_new_br_11 | segment<br>wrist<br>urban<br>grid<br>profit<br>execute<br>little<br>economy<br>small<br>jealous<br>grit |  
@@ -147,6 +159,18 @@ small |
 | bip_39_word_space_7 | segment wrist urban grid profit execute little |  
 | bip_39_word_space_8 | segment wrist urban grid profit execute little economy |  
 | bip_39_word_space_9 | segment wrist urban grid profit execute little economy small |  
+| bip_39_word_underscore_1 | segment |  
+| bip_39_word_underscore_10 | segment_wrist_urban_grid_profit_execute_little_economy_small_jealous |  
+| bip_39_word_underscore_11 | segment_wrist_urban_grid_profit_execute_little_economy_small_jealous_grit |  
+| bip_39_word_underscore_12 | segment_wrist_urban_grid_profit_execute_little_economy_small_jealous_grit_another |  
+| bip_39_word_underscore_2 | segment_wrist |  
+| bip_39_word_underscore_3 | segment_wrist_urban |  
+| bip_39_word_underscore_4 | segment_wrist_urban_grid |  
+| bip_39_word_underscore_5 | segment_wrist_urban_grid_profit |  
+| bip_39_word_underscore_6 | segment_wrist_urban_grid_profit_execute |  
+| bip_39_word_underscore_7 | segment_wrist_urban_grid_profit_execute_little |  
+| bip_39_word_underscore_8 | segment_wrist_urban_grid_profit_execute_little_economy |  
+| bip_39_word_underscore_9 | segment_wrist_urban_grid_profit_execute_little_economy_small |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

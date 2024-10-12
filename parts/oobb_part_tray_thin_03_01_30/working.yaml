@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gentle
+bip_39_word_dash_10: gentle-midnight-way-various-index-silent-room-never-blade-still
+bip_39_word_dash_11: gentle-midnight-way-various-index-silent-room-never-blade-still-load
+bip_39_word_dash_12: gentle-midnight-way-various-index-silent-room-never-blade-still-load-athlete
+bip_39_word_dash_2: gentle-midnight
+bip_39_word_dash_3: gentle-midnight-way
+bip_39_word_dash_4: gentle-midnight-way-various
+bip_39_word_dash_5: gentle-midnight-way-various-index
+bip_39_word_dash_6: gentle-midnight-way-various-index-silent
+bip_39_word_dash_7: gentle-midnight-way-various-index-silent-room
+bip_39_word_dash_8: gentle-midnight-way-various-index-silent-room-never
+bip_39_word_dash_9: gentle-midnight-way-various-index-silent-room-never-blade
 bip_39_word_new_br_1: gentle
 bip_39_word_new_br_10: gentle<br>midnight<br>way<br>various<br>index<br>silent<br>room<br>never<br>blade<br>still
 bip_39_word_new_br_11: gentle<br>midnight<br>way<br>various<br>index<br>silent<br>room<br>never<br>blade<br>still<br>load
@@ -193,6 +205,18 @@ bip_39_word_space_6: gentle midnight way various index silent
 bip_39_word_space_7: gentle midnight way various index silent room
 bip_39_word_space_8: gentle midnight way various index silent room never
 bip_39_word_space_9: gentle midnight way various index silent room never blade
+bip_39_word_underscore_1: gentle
+bip_39_word_underscore_10: gentle_midnight_way_various_index_silent_room_never_blade_still
+bip_39_word_underscore_11: gentle_midnight_way_various_index_silent_room_never_blade_still_load
+bip_39_word_underscore_12: gentle_midnight_way_various_index_silent_room_never_blade_still_load_athlete
+bip_39_word_underscore_2: gentle_midnight
+bip_39_word_underscore_3: gentle_midnight_way
+bip_39_word_underscore_4: gentle_midnight_way_various
+bip_39_word_underscore_5: gentle_midnight_way_various_index
+bip_39_word_underscore_6: gentle_midnight_way_various_index_silent
+bip_39_word_underscore_7: gentle_midnight_way_various_index_silent_room
+bip_39_word_underscore_8: gentle_midnight_way_various_index_silent_room_never
+bip_39_word_underscore_9: gentle_midnight_way_various_index_silent_room_never_blade
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

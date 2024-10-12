@@ -1,3 +1,15 @@
+bip_39_word_dash_1: process
+bip_39_word_dash_10: process-nest-girl-today-grid-word-lens-found-hint-small
+bip_39_word_dash_11: process-nest-girl-today-grid-word-lens-found-hint-small-armed
+bip_39_word_dash_12: process-nest-girl-today-grid-word-lens-found-hint-small-armed-also
+bip_39_word_dash_2: process-nest
+bip_39_word_dash_3: process-nest-girl
+bip_39_word_dash_4: process-nest-girl-today
+bip_39_word_dash_5: process-nest-girl-today-grid
+bip_39_word_dash_6: process-nest-girl-today-grid-word
+bip_39_word_dash_7: process-nest-girl-today-grid-word-lens
+bip_39_word_dash_8: process-nest-girl-today-grid-word-lens-found
+bip_39_word_dash_9: process-nest-girl-today-grid-word-lens-found-hint
 bip_39_word_new_br_1: process
 bip_39_word_new_br_10: process<br>nest<br>girl<br>today<br>grid<br>word<br>lens<br>found<br>hint<br>small
 bip_39_word_new_br_11: process<br>nest<br>girl<br>today<br>grid<br>word<br>lens<br>found<br>hint<br>small<br>armed
@@ -192,6 +204,18 @@ bip_39_word_space_6: process nest girl today grid word
 bip_39_word_space_7: process nest girl today grid word lens
 bip_39_word_space_8: process nest girl today grid word lens found
 bip_39_word_space_9: process nest girl today grid word lens found hint
+bip_39_word_underscore_1: process
+bip_39_word_underscore_10: process_nest_girl_today_grid_word_lens_found_hint_small
+bip_39_word_underscore_11: process_nest_girl_today_grid_word_lens_found_hint_small_armed
+bip_39_word_underscore_12: process_nest_girl_today_grid_word_lens_found_hint_small_armed_also
+bip_39_word_underscore_2: process_nest
+bip_39_word_underscore_3: process_nest_girl
+bip_39_word_underscore_4: process_nest_girl_today
+bip_39_word_underscore_5: process_nest_girl_today_grid
+bip_39_word_underscore_6: process_nest_girl_today_grid_word
+bip_39_word_underscore_7: process_nest_girl_today_grid_word_lens
+bip_39_word_underscore_8: process_nest_girl_today_grid_word_lens_found
+bip_39_word_underscore_9: process_nest_girl_today_grid_word_lens_found_hint
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

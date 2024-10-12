@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | yellow |  
+| bip_39_word_dash_10 | yellow-gesture-science-lumber-jelly-theory-series-sand-indoor-devote |  
+| bip_39_word_dash_11 | yellow-gesture-science-lumber-jelly-theory-series-sand-indoor-devote-six |  
+| bip_39_word_dash_12 | yellow-gesture-science-lumber-jelly-theory-series-sand-indoor-devote-six-adapt |  
+| bip_39_word_dash_2 | yellow-gesture |  
+| bip_39_word_dash_3 | yellow-gesture-science |  
+| bip_39_word_dash_4 | yellow-gesture-science-lumber |  
+| bip_39_word_dash_5 | yellow-gesture-science-lumber-jelly |  
+| bip_39_word_dash_6 | yellow-gesture-science-lumber-jelly-theory |  
+| bip_39_word_dash_7 | yellow-gesture-science-lumber-jelly-theory-series |  
+| bip_39_word_dash_8 | yellow-gesture-science-lumber-jelly-theory-series-sand |  
+| bip_39_word_dash_9 | yellow-gesture-science-lumber-jelly-theory-series-sand-indoor |  
 | bip_39_word_new_br_1 | yellow |  
 | bip_39_word_new_br_10 | yellow<br>gesture<br>science<br>lumber<br>jelly<br>theory<br>series<br>sand<br>indoor<br>devote |  
 | bip_39_word_new_br_11 | yellow<br>gesture<br>science<br>lumber<br>jelly<br>theory<br>series<br>sand<br>indoor<br>devote<br>six |  
@@ -147,6 +159,18 @@ indoor |
 | bip_39_word_space_7 | yellow gesture science lumber jelly theory series |  
 | bip_39_word_space_8 | yellow gesture science lumber jelly theory series sand |  
 | bip_39_word_space_9 | yellow gesture science lumber jelly theory series sand indoor |  
+| bip_39_word_underscore_1 | yellow |  
+| bip_39_word_underscore_10 | yellow_gesture_science_lumber_jelly_theory_series_sand_indoor_devote |  
+| bip_39_word_underscore_11 | yellow_gesture_science_lumber_jelly_theory_series_sand_indoor_devote_six |  
+| bip_39_word_underscore_12 | yellow_gesture_science_lumber_jelly_theory_series_sand_indoor_devote_six_adapt |  
+| bip_39_word_underscore_2 | yellow_gesture |  
+| bip_39_word_underscore_3 | yellow_gesture_science |  
+| bip_39_word_underscore_4 | yellow_gesture_science_lumber |  
+| bip_39_word_underscore_5 | yellow_gesture_science_lumber_jelly |  
+| bip_39_word_underscore_6 | yellow_gesture_science_lumber_jelly_theory |  
+| bip_39_word_underscore_7 | yellow_gesture_science_lumber_jelly_theory_series |  
+| bip_39_word_underscore_8 | yellow_gesture_science_lumber_jelly_theory_series_sand |  
+| bip_39_word_underscore_9 | yellow_gesture_science_lumber_jelly_theory_series_sand_indoor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

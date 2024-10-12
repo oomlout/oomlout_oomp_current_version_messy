@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | floor |  
+| bip_39_word_dash_10 | floor-winner-hamster-latin-fatigue-bring-vintage-brick-spend-duty |  
+| bip_39_word_dash_11 | floor-winner-hamster-latin-fatigue-bring-vintage-brick-spend-duty-coffee |  
+| bip_39_word_dash_12 | floor-winner-hamster-latin-fatigue-bring-vintage-brick-spend-duty-coffee-aerobic |  
+| bip_39_word_dash_2 | floor-winner |  
+| bip_39_word_dash_3 | floor-winner-hamster |  
+| bip_39_word_dash_4 | floor-winner-hamster-latin |  
+| bip_39_word_dash_5 | floor-winner-hamster-latin-fatigue |  
+| bip_39_word_dash_6 | floor-winner-hamster-latin-fatigue-bring |  
+| bip_39_word_dash_7 | floor-winner-hamster-latin-fatigue-bring-vintage |  
+| bip_39_word_dash_8 | floor-winner-hamster-latin-fatigue-bring-vintage-brick |  
+| bip_39_word_dash_9 | floor-winner-hamster-latin-fatigue-bring-vintage-brick-spend |  
 | bip_39_word_new_br_1 | floor |  
 | bip_39_word_new_br_10 | floor<br>winner<br>hamster<br>latin<br>fatigue<br>bring<br>vintage<br>brick<br>spend<br>duty |  
 | bip_39_word_new_br_11 | floor<br>winner<br>hamster<br>latin<br>fatigue<br>bring<br>vintage<br>brick<br>spend<br>duty<br>coffee |  
@@ -147,6 +159,18 @@ spend |
 | bip_39_word_space_7 | floor winner hamster latin fatigue bring vintage |  
 | bip_39_word_space_8 | floor winner hamster latin fatigue bring vintage brick |  
 | bip_39_word_space_9 | floor winner hamster latin fatigue bring vintage brick spend |  
+| bip_39_word_underscore_1 | floor |  
+| bip_39_word_underscore_10 | floor_winner_hamster_latin_fatigue_bring_vintage_brick_spend_duty |  
+| bip_39_word_underscore_11 | floor_winner_hamster_latin_fatigue_bring_vintage_brick_spend_duty_coffee |  
+| bip_39_word_underscore_12 | floor_winner_hamster_latin_fatigue_bring_vintage_brick_spend_duty_coffee_aerobic |  
+| bip_39_word_underscore_2 | floor_winner |  
+| bip_39_word_underscore_3 | floor_winner_hamster |  
+| bip_39_word_underscore_4 | floor_winner_hamster_latin |  
+| bip_39_word_underscore_5 | floor_winner_hamster_latin_fatigue |  
+| bip_39_word_underscore_6 | floor_winner_hamster_latin_fatigue_bring |  
+| bip_39_word_underscore_7 | floor_winner_hamster_latin_fatigue_bring_vintage |  
+| bip_39_word_underscore_8 | floor_winner_hamster_latin_fatigue_bring_vintage_brick |  
+| bip_39_word_underscore_9 | floor_winner_hamster_latin_fatigue_bring_vintage_brick_spend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

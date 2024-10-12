@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spice |  
+| bip_39_word_dash_10 | spice-initial-grain-van-slight-inflict-crane-disagree-balcony-sibling |  
+| bip_39_word_dash_11 | spice-initial-grain-van-slight-inflict-crane-disagree-balcony-sibling-advice |  
+| bip_39_word_dash_12 | spice-initial-grain-van-slight-inflict-crane-disagree-balcony-sibling-advice-afford |  
+| bip_39_word_dash_2 | spice-initial |  
+| bip_39_word_dash_3 | spice-initial-grain |  
+| bip_39_word_dash_4 | spice-initial-grain-van |  
+| bip_39_word_dash_5 | spice-initial-grain-van-slight |  
+| bip_39_word_dash_6 | spice-initial-grain-van-slight-inflict |  
+| bip_39_word_dash_7 | spice-initial-grain-van-slight-inflict-crane |  
+| bip_39_word_dash_8 | spice-initial-grain-van-slight-inflict-crane-disagree |  
+| bip_39_word_dash_9 | spice-initial-grain-van-slight-inflict-crane-disagree-balcony |  
 | bip_39_word_new_br_1 | spice |  
 | bip_39_word_new_br_10 | spice<br>initial<br>grain<br>van<br>slight<br>inflict<br>crane<br>disagree<br>balcony<br>sibling |  
 | bip_39_word_new_br_11 | spice<br>initial<br>grain<br>van<br>slight<br>inflict<br>crane<br>disagree<br>balcony<br>sibling<br>advice |  
@@ -147,6 +159,18 @@ balcony |
 | bip_39_word_space_7 | spice initial grain van slight inflict crane |  
 | bip_39_word_space_8 | spice initial grain van slight inflict crane disagree |  
 | bip_39_word_space_9 | spice initial grain van slight inflict crane disagree balcony |  
+| bip_39_word_underscore_1 | spice |  
+| bip_39_word_underscore_10 | spice_initial_grain_van_slight_inflict_crane_disagree_balcony_sibling |  
+| bip_39_word_underscore_11 | spice_initial_grain_van_slight_inflict_crane_disagree_balcony_sibling_advice |  
+| bip_39_word_underscore_12 | spice_initial_grain_van_slight_inflict_crane_disagree_balcony_sibling_advice_afford |  
+| bip_39_word_underscore_2 | spice_initial |  
+| bip_39_word_underscore_3 | spice_initial_grain |  
+| bip_39_word_underscore_4 | spice_initial_grain_van |  
+| bip_39_word_underscore_5 | spice_initial_grain_van_slight |  
+| bip_39_word_underscore_6 | spice_initial_grain_van_slight_inflict |  
+| bip_39_word_underscore_7 | spice_initial_grain_van_slight_inflict_crane |  
+| bip_39_word_underscore_8 | spice_initial_grain_van_slight_inflict_crane_disagree |  
+| bip_39_word_underscore_9 | spice_initial_grain_van_slight_inflict_crane_disagree_balcony |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

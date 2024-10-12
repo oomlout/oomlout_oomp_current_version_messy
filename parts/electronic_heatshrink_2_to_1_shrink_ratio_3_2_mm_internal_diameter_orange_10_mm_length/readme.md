@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soda |  
+| bip_39_word_dash_10 | soda-pool-never-dune-brisk-fruit-hamster-pony-reward-reflect |  
+| bip_39_word_dash_11 | soda-pool-never-dune-brisk-fruit-hamster-pony-reward-reflect-maple |  
+| bip_39_word_dash_12 | soda-pool-never-dune-brisk-fruit-hamster-pony-reward-reflect-maple-advice |  
+| bip_39_word_dash_2 | soda-pool |  
+| bip_39_word_dash_3 | soda-pool-never |  
+| bip_39_word_dash_4 | soda-pool-never-dune |  
+| bip_39_word_dash_5 | soda-pool-never-dune-brisk |  
+| bip_39_word_dash_6 | soda-pool-never-dune-brisk-fruit |  
+| bip_39_word_dash_7 | soda-pool-never-dune-brisk-fruit-hamster |  
+| bip_39_word_dash_8 | soda-pool-never-dune-brisk-fruit-hamster-pony |  
+| bip_39_word_dash_9 | soda-pool-never-dune-brisk-fruit-hamster-pony-reward |  
 | bip_39_word_new_br_1 | soda |  
 | bip_39_word_new_br_10 | soda<br>pool<br>never<br>dune<br>brisk<br>fruit<br>hamster<br>pony<br>reward<br>reflect |  
 | bip_39_word_new_br_11 | soda<br>pool<br>never<br>dune<br>brisk<br>fruit<br>hamster<br>pony<br>reward<br>reflect<br>maple |  
@@ -147,6 +159,18 @@ reward |
 | bip_39_word_space_7 | soda pool never dune brisk fruit hamster |  
 | bip_39_word_space_8 | soda pool never dune brisk fruit hamster pony |  
 | bip_39_word_space_9 | soda pool never dune brisk fruit hamster pony reward |  
+| bip_39_word_underscore_1 | soda |  
+| bip_39_word_underscore_10 | soda_pool_never_dune_brisk_fruit_hamster_pony_reward_reflect |  
+| bip_39_word_underscore_11 | soda_pool_never_dune_brisk_fruit_hamster_pony_reward_reflect_maple |  
+| bip_39_word_underscore_12 | soda_pool_never_dune_brisk_fruit_hamster_pony_reward_reflect_maple_advice |  
+| bip_39_word_underscore_2 | soda_pool |  
+| bip_39_word_underscore_3 | soda_pool_never |  
+| bip_39_word_underscore_4 | soda_pool_never_dune |  
+| bip_39_word_underscore_5 | soda_pool_never_dune_brisk |  
+| bip_39_word_underscore_6 | soda_pool_never_dune_brisk_fruit |  
+| bip_39_word_underscore_7 | soda_pool_never_dune_brisk_fruit_hamster |  
+| bip_39_word_underscore_8 | soda_pool_never_dune_brisk_fruit_hamster_pony |  
+| bip_39_word_underscore_9 | soda_pool_never_dune_brisk_fruit_hamster_pony_reward |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | giant |  
+| bip_39_word_dash_10 | giant-frown-journey-double-sustain-health-arch-cupboard-together-strong |  
+| bip_39_word_dash_11 | giant-frown-journey-double-sustain-health-arch-cupboard-together-strong-collect |  
+| bip_39_word_dash_12 | giant-frown-journey-double-sustain-health-arch-cupboard-together-strong-collect-audit |  
+| bip_39_word_dash_2 | giant-frown |  
+| bip_39_word_dash_3 | giant-frown-journey |  
+| bip_39_word_dash_4 | giant-frown-journey-double |  
+| bip_39_word_dash_5 | giant-frown-journey-double-sustain |  
+| bip_39_word_dash_6 | giant-frown-journey-double-sustain-health |  
+| bip_39_word_dash_7 | giant-frown-journey-double-sustain-health-arch |  
+| bip_39_word_dash_8 | giant-frown-journey-double-sustain-health-arch-cupboard |  
+| bip_39_word_dash_9 | giant-frown-journey-double-sustain-health-arch-cupboard-together |  
 | bip_39_word_new_br_1 | giant |  
 | bip_39_word_new_br_10 | giant<br>frown<br>journey<br>double<br>sustain<br>health<br>arch<br>cupboard<br>together<br>strong |  
 | bip_39_word_new_br_11 | giant<br>frown<br>journey<br>double<br>sustain<br>health<br>arch<br>cupboard<br>together<br>strong<br>collect |  
@@ -147,6 +159,18 @@ together |
 | bip_39_word_space_7 | giant frown journey double sustain health arch |  
 | bip_39_word_space_8 | giant frown journey double sustain health arch cupboard |  
 | bip_39_word_space_9 | giant frown journey double sustain health arch cupboard together |  
+| bip_39_word_underscore_1 | giant |  
+| bip_39_word_underscore_10 | giant_frown_journey_double_sustain_health_arch_cupboard_together_strong |  
+| bip_39_word_underscore_11 | giant_frown_journey_double_sustain_health_arch_cupboard_together_strong_collect |  
+| bip_39_word_underscore_12 | giant_frown_journey_double_sustain_health_arch_cupboard_together_strong_collect_audit |  
+| bip_39_word_underscore_2 | giant_frown |  
+| bip_39_word_underscore_3 | giant_frown_journey |  
+| bip_39_word_underscore_4 | giant_frown_journey_double |  
+| bip_39_word_underscore_5 | giant_frown_journey_double_sustain |  
+| bip_39_word_underscore_6 | giant_frown_journey_double_sustain_health |  
+| bip_39_word_underscore_7 | giant_frown_journey_double_sustain_health_arch |  
+| bip_39_word_underscore_8 | giant_frown_journey_double_sustain_health_arch_cupboard |  
+| bip_39_word_underscore_9 | giant_frown_journey_double_sustain_health_arch_cupboard_together |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

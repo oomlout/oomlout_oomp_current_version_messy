@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | night |  
+| bip_39_word_dash_10 | night-desert-black-menu-cluster-envelope-wedding-bone-outdoor-luxury |  
+| bip_39_word_dash_11 | night-desert-black-menu-cluster-envelope-wedding-bone-outdoor-luxury-shallow |  
+| bip_39_word_dash_12 | night-desert-black-menu-cluster-envelope-wedding-bone-outdoor-luxury-shallow-answer |  
+| bip_39_word_dash_2 | night-desert |  
+| bip_39_word_dash_3 | night-desert-black |  
+| bip_39_word_dash_4 | night-desert-black-menu |  
+| bip_39_word_dash_5 | night-desert-black-menu-cluster |  
+| bip_39_word_dash_6 | night-desert-black-menu-cluster-envelope |  
+| bip_39_word_dash_7 | night-desert-black-menu-cluster-envelope-wedding |  
+| bip_39_word_dash_8 | night-desert-black-menu-cluster-envelope-wedding-bone |  
+| bip_39_word_dash_9 | night-desert-black-menu-cluster-envelope-wedding-bone-outdoor |  
 | bip_39_word_new_br_1 | night |  
 | bip_39_word_new_br_10 | night<br>desert<br>black<br>menu<br>cluster<br>envelope<br>wedding<br>bone<br>outdoor<br>luxury |  
 | bip_39_word_new_br_11 | night<br>desert<br>black<br>menu<br>cluster<br>envelope<br>wedding<br>bone<br>outdoor<br>luxury<br>shallow |  
@@ -147,6 +159,18 @@ outdoor |
 | bip_39_word_space_7 | night desert black menu cluster envelope wedding |  
 | bip_39_word_space_8 | night desert black menu cluster envelope wedding bone |  
 | bip_39_word_space_9 | night desert black menu cluster envelope wedding bone outdoor |  
+| bip_39_word_underscore_1 | night |  
+| bip_39_word_underscore_10 | night_desert_black_menu_cluster_envelope_wedding_bone_outdoor_luxury |  
+| bip_39_word_underscore_11 | night_desert_black_menu_cluster_envelope_wedding_bone_outdoor_luxury_shallow |  
+| bip_39_word_underscore_12 | night_desert_black_menu_cluster_envelope_wedding_bone_outdoor_luxury_shallow_answer |  
+| bip_39_word_underscore_2 | night_desert |  
+| bip_39_word_underscore_3 | night_desert_black |  
+| bip_39_word_underscore_4 | night_desert_black_menu |  
+| bip_39_word_underscore_5 | night_desert_black_menu_cluster |  
+| bip_39_word_underscore_6 | night_desert_black_menu_cluster_envelope |  
+| bip_39_word_underscore_7 | night_desert_black_menu_cluster_envelope_wedding |  
+| bip_39_word_underscore_8 | night_desert_black_menu_cluster_envelope_wedding_bone |  
+| bip_39_word_underscore_9 | night_desert_black_menu_cluster_envelope_wedding_bone_outdoor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

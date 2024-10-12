@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | remove |  
+| bip_39_word_dash_10 | remove-enrich-hope-mobile-enemy-spy-ten-melody-upset-fragile |  
+| bip_39_word_dash_11 | remove-enrich-hope-mobile-enemy-spy-ten-melody-upset-fragile-police |  
+| bip_39_word_dash_12 | remove-enrich-hope-mobile-enemy-spy-ten-melody-upset-fragile-police-author |  
+| bip_39_word_dash_2 | remove-enrich |  
+| bip_39_word_dash_3 | remove-enrich-hope |  
+| bip_39_word_dash_4 | remove-enrich-hope-mobile |  
+| bip_39_word_dash_5 | remove-enrich-hope-mobile-enemy |  
+| bip_39_word_dash_6 | remove-enrich-hope-mobile-enemy-spy |  
+| bip_39_word_dash_7 | remove-enrich-hope-mobile-enemy-spy-ten |  
+| bip_39_word_dash_8 | remove-enrich-hope-mobile-enemy-spy-ten-melody |  
+| bip_39_word_dash_9 | remove-enrich-hope-mobile-enemy-spy-ten-melody-upset |  
 | bip_39_word_new_br_1 | remove |  
 | bip_39_word_new_br_10 | remove<br>enrich<br>hope<br>mobile<br>enemy<br>spy<br>ten<br>melody<br>upset<br>fragile |  
 | bip_39_word_new_br_11 | remove<br>enrich<br>hope<br>mobile<br>enemy<br>spy<br>ten<br>melody<br>upset<br>fragile<br>police |  
@@ -147,6 +159,18 @@ upset |
 | bip_39_word_space_7 | remove enrich hope mobile enemy spy ten |  
 | bip_39_word_space_8 | remove enrich hope mobile enemy spy ten melody |  
 | bip_39_word_space_9 | remove enrich hope mobile enemy spy ten melody upset |  
+| bip_39_word_underscore_1 | remove |  
+| bip_39_word_underscore_10 | remove_enrich_hope_mobile_enemy_spy_ten_melody_upset_fragile |  
+| bip_39_word_underscore_11 | remove_enrich_hope_mobile_enemy_spy_ten_melody_upset_fragile_police |  
+| bip_39_word_underscore_12 | remove_enrich_hope_mobile_enemy_spy_ten_melody_upset_fragile_police_author |  
+| bip_39_word_underscore_2 | remove_enrich |  
+| bip_39_word_underscore_3 | remove_enrich_hope |  
+| bip_39_word_underscore_4 | remove_enrich_hope_mobile |  
+| bip_39_word_underscore_5 | remove_enrich_hope_mobile_enemy |  
+| bip_39_word_underscore_6 | remove_enrich_hope_mobile_enemy_spy |  
+| bip_39_word_underscore_7 | remove_enrich_hope_mobile_enemy_spy_ten |  
+| bip_39_word_underscore_8 | remove_enrich_hope_mobile_enemy_spy_ten_melody |  
+| bip_39_word_underscore_9 | remove_enrich_hope_mobile_enemy_spy_ten_melody_upset |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

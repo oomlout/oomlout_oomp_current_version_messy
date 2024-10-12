@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cabbage |  
+| bip_39_word_dash_10 | cabbage-gift-double-weird-keen-pulp-acoustic-wild-debris-peanut |  
+| bip_39_word_dash_11 | cabbage-gift-double-weird-keen-pulp-acoustic-wild-debris-peanut-impose |  
+| bip_39_word_dash_12 | cabbage-gift-double-weird-keen-pulp-acoustic-wild-debris-peanut-impose-apple |  
+| bip_39_word_dash_2 | cabbage-gift |  
+| bip_39_word_dash_3 | cabbage-gift-double |  
+| bip_39_word_dash_4 | cabbage-gift-double-weird |  
+| bip_39_word_dash_5 | cabbage-gift-double-weird-keen |  
+| bip_39_word_dash_6 | cabbage-gift-double-weird-keen-pulp |  
+| bip_39_word_dash_7 | cabbage-gift-double-weird-keen-pulp-acoustic |  
+| bip_39_word_dash_8 | cabbage-gift-double-weird-keen-pulp-acoustic-wild |  
+| bip_39_word_dash_9 | cabbage-gift-double-weird-keen-pulp-acoustic-wild-debris |  
 | bip_39_word_new_br_1 | cabbage |  
 | bip_39_word_new_br_10 | cabbage<br>gift<br>double<br>weird<br>keen<br>pulp<br>acoustic<br>wild<br>debris<br>peanut |  
 | bip_39_word_new_br_11 | cabbage<br>gift<br>double<br>weird<br>keen<br>pulp<br>acoustic<br>wild<br>debris<br>peanut<br>impose |  
@@ -147,6 +159,18 @@ debris |
 | bip_39_word_space_7 | cabbage gift double weird keen pulp acoustic |  
 | bip_39_word_space_8 | cabbage gift double weird keen pulp acoustic wild |  
 | bip_39_word_space_9 | cabbage gift double weird keen pulp acoustic wild debris |  
+| bip_39_word_underscore_1 | cabbage |  
+| bip_39_word_underscore_10 | cabbage_gift_double_weird_keen_pulp_acoustic_wild_debris_peanut |  
+| bip_39_word_underscore_11 | cabbage_gift_double_weird_keen_pulp_acoustic_wild_debris_peanut_impose |  
+| bip_39_word_underscore_12 | cabbage_gift_double_weird_keen_pulp_acoustic_wild_debris_peanut_impose_apple |  
+| bip_39_word_underscore_2 | cabbage_gift |  
+| bip_39_word_underscore_3 | cabbage_gift_double |  
+| bip_39_word_underscore_4 | cabbage_gift_double_weird |  
+| bip_39_word_underscore_5 | cabbage_gift_double_weird_keen |  
+| bip_39_word_underscore_6 | cabbage_gift_double_weird_keen_pulp |  
+| bip_39_word_underscore_7 | cabbage_gift_double_weird_keen_pulp_acoustic |  
+| bip_39_word_underscore_8 | cabbage_gift_double_weird_keen_pulp_acoustic_wild |  
+| bip_39_word_underscore_9 | cabbage_gift_double_weird_keen_pulp_acoustic_wild_debris |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

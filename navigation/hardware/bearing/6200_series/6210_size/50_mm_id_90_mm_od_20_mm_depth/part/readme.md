@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tip |  
+| bip_39_word_dash_10 | tip-voice-scatter-budget-border-blast-soul-toss-close-squeeze |  
+| bip_39_word_dash_11 | tip-voice-scatter-budget-border-blast-soul-toss-close-squeeze-tribe |  
+| bip_39_word_dash_12 | tip-voice-scatter-budget-border-blast-soul-toss-close-squeeze-tribe-assist |  
+| bip_39_word_dash_2 | tip-voice |  
+| bip_39_word_dash_3 | tip-voice-scatter |  
+| bip_39_word_dash_4 | tip-voice-scatter-budget |  
+| bip_39_word_dash_5 | tip-voice-scatter-budget-border |  
+| bip_39_word_dash_6 | tip-voice-scatter-budget-border-blast |  
+| bip_39_word_dash_7 | tip-voice-scatter-budget-border-blast-soul |  
+| bip_39_word_dash_8 | tip-voice-scatter-budget-border-blast-soul-toss |  
+| bip_39_word_dash_9 | tip-voice-scatter-budget-border-blast-soul-toss-close |  
 | bip_39_word_new_br_1 | tip |  
 | bip_39_word_new_br_10 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze |  
 | bip_39_word_new_br_11 | tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze<br>tribe |  
@@ -147,6 +159,18 @@ close |
 | bip_39_word_space_7 | tip voice scatter budget border blast soul |  
 | bip_39_word_space_8 | tip voice scatter budget border blast soul toss |  
 | bip_39_word_space_9 | tip voice scatter budget border blast soul toss close |  
+| bip_39_word_underscore_1 | tip |  
+| bip_39_word_underscore_10 | tip_voice_scatter_budget_border_blast_soul_toss_close_squeeze |  
+| bip_39_word_underscore_11 | tip_voice_scatter_budget_border_blast_soul_toss_close_squeeze_tribe |  
+| bip_39_word_underscore_12 | tip_voice_scatter_budget_border_blast_soul_toss_close_squeeze_tribe_assist |  
+| bip_39_word_underscore_2 | tip_voice |  
+| bip_39_word_underscore_3 | tip_voice_scatter |  
+| bip_39_word_underscore_4 | tip_voice_scatter_budget |  
+| bip_39_word_underscore_5 | tip_voice_scatter_budget_border |  
+| bip_39_word_underscore_6 | tip_voice_scatter_budget_border_blast |  
+| bip_39_word_underscore_7 | tip_voice_scatter_budget_border_blast_soul |  
+| bip_39_word_underscore_8 | tip_voice_scatter_budget_border_blast_soul_toss |  
+| bip_39_word_underscore_9 | tip_voice_scatter_budget_border_blast_soul_toss_close |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

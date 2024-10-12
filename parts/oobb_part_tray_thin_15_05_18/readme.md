@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | neck |  
+| bip_39_word_dash_10 | neck-length-roast-strategy-fashion-curve-accuse-length-injury-give |  
+| bip_39_word_dash_11 | neck-length-roast-strategy-fashion-curve-accuse-length-injury-give-expire |  
+| bip_39_word_dash_12 | neck-length-roast-strategy-fashion-curve-accuse-length-injury-give-expire-advice |  
+| bip_39_word_dash_2 | neck-length |  
+| bip_39_word_dash_3 | neck-length-roast |  
+| bip_39_word_dash_4 | neck-length-roast-strategy |  
+| bip_39_word_dash_5 | neck-length-roast-strategy-fashion |  
+| bip_39_word_dash_6 | neck-length-roast-strategy-fashion-curve |  
+| bip_39_word_dash_7 | neck-length-roast-strategy-fashion-curve-accuse |  
+| bip_39_word_dash_8 | neck-length-roast-strategy-fashion-curve-accuse-length |  
+| bip_39_word_dash_9 | neck-length-roast-strategy-fashion-curve-accuse-length-injury |  
 | bip_39_word_new_br_1 | neck |  
 | bip_39_word_new_br_10 | neck<br>length<br>roast<br>strategy<br>fashion<br>curve<br>accuse<br>length<br>injury<br>give |  
 | bip_39_word_new_br_11 | neck<br>length<br>roast<br>strategy<br>fashion<br>curve<br>accuse<br>length<br>injury<br>give<br>expire |  
@@ -147,6 +159,18 @@ injury |
 | bip_39_word_space_7 | neck length roast strategy fashion curve accuse |  
 | bip_39_word_space_8 | neck length roast strategy fashion curve accuse length |  
 | bip_39_word_space_9 | neck length roast strategy fashion curve accuse length injury |  
+| bip_39_word_underscore_1 | neck |  
+| bip_39_word_underscore_10 | neck_length_roast_strategy_fashion_curve_accuse_length_injury_give |  
+| bip_39_word_underscore_11 | neck_length_roast_strategy_fashion_curve_accuse_length_injury_give_expire |  
+| bip_39_word_underscore_12 | neck_length_roast_strategy_fashion_curve_accuse_length_injury_give_expire_advice |  
+| bip_39_word_underscore_2 | neck_length |  
+| bip_39_word_underscore_3 | neck_length_roast |  
+| bip_39_word_underscore_4 | neck_length_roast_strategy |  
+| bip_39_word_underscore_5 | neck_length_roast_strategy_fashion |  
+| bip_39_word_underscore_6 | neck_length_roast_strategy_fashion_curve |  
+| bip_39_word_underscore_7 | neck_length_roast_strategy_fashion_curve_accuse |  
+| bip_39_word_underscore_8 | neck_length_roast_strategy_fashion_curve_accuse_length |  
+| bip_39_word_underscore_9 | neck_length_roast_strategy_fashion_curve_accuse_length_injury |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

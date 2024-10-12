@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gift |  
+| bip_39_word_dash_10 | gift-fluid-laundry-ivory-curtain-horn-behave-shift-potato-weekend |  
+| bip_39_word_dash_11 | gift-fluid-laundry-ivory-curtain-horn-behave-shift-potato-weekend-shoe |  
+| bip_39_word_dash_12 | gift-fluid-laundry-ivory-curtain-horn-behave-shift-potato-weekend-shoe-august |  
+| bip_39_word_dash_2 | gift-fluid |  
+| bip_39_word_dash_3 | gift-fluid-laundry |  
+| bip_39_word_dash_4 | gift-fluid-laundry-ivory |  
+| bip_39_word_dash_5 | gift-fluid-laundry-ivory-curtain |  
+| bip_39_word_dash_6 | gift-fluid-laundry-ivory-curtain-horn |  
+| bip_39_word_dash_7 | gift-fluid-laundry-ivory-curtain-horn-behave |  
+| bip_39_word_dash_8 | gift-fluid-laundry-ivory-curtain-horn-behave-shift |  
+| bip_39_word_dash_9 | gift-fluid-laundry-ivory-curtain-horn-behave-shift-potato |  
 | bip_39_word_new_br_1 | gift |  
 | bip_39_word_new_br_10 | gift<br>fluid<br>laundry<br>ivory<br>curtain<br>horn<br>behave<br>shift<br>potato<br>weekend |  
 | bip_39_word_new_br_11 | gift<br>fluid<br>laundry<br>ivory<br>curtain<br>horn<br>behave<br>shift<br>potato<br>weekend<br>shoe |  
@@ -147,6 +159,18 @@ potato |
 | bip_39_word_space_7 | gift fluid laundry ivory curtain horn behave |  
 | bip_39_word_space_8 | gift fluid laundry ivory curtain horn behave shift |  
 | bip_39_word_space_9 | gift fluid laundry ivory curtain horn behave shift potato |  
+| bip_39_word_underscore_1 | gift |  
+| bip_39_word_underscore_10 | gift_fluid_laundry_ivory_curtain_horn_behave_shift_potato_weekend |  
+| bip_39_word_underscore_11 | gift_fluid_laundry_ivory_curtain_horn_behave_shift_potato_weekend_shoe |  
+| bip_39_word_underscore_12 | gift_fluid_laundry_ivory_curtain_horn_behave_shift_potato_weekend_shoe_august |  
+| bip_39_word_underscore_2 | gift_fluid |  
+| bip_39_word_underscore_3 | gift_fluid_laundry |  
+| bip_39_word_underscore_4 | gift_fluid_laundry_ivory |  
+| bip_39_word_underscore_5 | gift_fluid_laundry_ivory_curtain |  
+| bip_39_word_underscore_6 | gift_fluid_laundry_ivory_curtain_horn |  
+| bip_39_word_underscore_7 | gift_fluid_laundry_ivory_curtain_horn_behave |  
+| bip_39_word_underscore_8 | gift_fluid_laundry_ivory_curtain_horn_behave_shift |  
+| bip_39_word_underscore_9 | gift_fluid_laundry_ivory_curtain_horn_behave_shift_potato |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

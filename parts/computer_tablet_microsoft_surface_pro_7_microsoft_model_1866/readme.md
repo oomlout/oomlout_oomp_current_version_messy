@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assault |  
+| bip_39_word_dash_10 | assault-copy-arrive-margin-sugar-split-protect-fruit-insane-coffee |  
+| bip_39_word_dash_11 | assault-copy-arrive-margin-sugar-split-protect-fruit-insane-coffee-employ |  
+| bip_39_word_dash_12 | assault-copy-arrive-margin-sugar-split-protect-fruit-insane-coffee-employ-ahead |  
+| bip_39_word_dash_2 | assault-copy |  
+| bip_39_word_dash_3 | assault-copy-arrive |  
+| bip_39_word_dash_4 | assault-copy-arrive-margin |  
+| bip_39_word_dash_5 | assault-copy-arrive-margin-sugar |  
+| bip_39_word_dash_6 | assault-copy-arrive-margin-sugar-split |  
+| bip_39_word_dash_7 | assault-copy-arrive-margin-sugar-split-protect |  
+| bip_39_word_dash_8 | assault-copy-arrive-margin-sugar-split-protect-fruit |  
+| bip_39_word_dash_9 | assault-copy-arrive-margin-sugar-split-protect-fruit-insane |  
 | bip_39_word_new_br_1 | assault |  
 | bip_39_word_new_br_10 | assault<br>copy<br>arrive<br>margin<br>sugar<br>split<br>protect<br>fruit<br>insane<br>coffee |  
 | bip_39_word_new_br_11 | assault<br>copy<br>arrive<br>margin<br>sugar<br>split<br>protect<br>fruit<br>insane<br>coffee<br>employ |  
@@ -147,6 +159,18 @@ insane |
 | bip_39_word_space_7 | assault copy arrive margin sugar split protect |  
 | bip_39_word_space_8 | assault copy arrive margin sugar split protect fruit |  
 | bip_39_word_space_9 | assault copy arrive margin sugar split protect fruit insane |  
+| bip_39_word_underscore_1 | assault |  
+| bip_39_word_underscore_10 | assault_copy_arrive_margin_sugar_split_protect_fruit_insane_coffee |  
+| bip_39_word_underscore_11 | assault_copy_arrive_margin_sugar_split_protect_fruit_insane_coffee_employ |  
+| bip_39_word_underscore_12 | assault_copy_arrive_margin_sugar_split_protect_fruit_insane_coffee_employ_ahead |  
+| bip_39_word_underscore_2 | assault_copy |  
+| bip_39_word_underscore_3 | assault_copy_arrive |  
+| bip_39_word_underscore_4 | assault_copy_arrive_margin |  
+| bip_39_word_underscore_5 | assault_copy_arrive_margin_sugar |  
+| bip_39_word_underscore_6 | assault_copy_arrive_margin_sugar_split |  
+| bip_39_word_underscore_7 | assault_copy_arrive_margin_sugar_split_protect |  
+| bip_39_word_underscore_8 | assault_copy_arrive_margin_sugar_split_protect_fruit |  
+| bip_39_word_underscore_9 | assault_copy_arrive_margin_sugar_split_protect_fruit_insane |  
 | classification | computer |  
 | classification_capital | Computer |  
 | classification_first_letter | c |  

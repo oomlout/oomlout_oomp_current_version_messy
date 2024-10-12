@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shop |  
+| bip_39_word_dash_10 | shop-glance-clap-home-chest-blast-chicken-finish-just-lab |  
+| bip_39_word_dash_11 | shop-glance-clap-home-chest-blast-chicken-finish-just-lab-fuel |  
+| bip_39_word_dash_12 | shop-glance-clap-home-chest-blast-chicken-finish-just-lab-fuel-advice |  
+| bip_39_word_dash_2 | shop-glance |  
+| bip_39_word_dash_3 | shop-glance-clap |  
+| bip_39_word_dash_4 | shop-glance-clap-home |  
+| bip_39_word_dash_5 | shop-glance-clap-home-chest |  
+| bip_39_word_dash_6 | shop-glance-clap-home-chest-blast |  
+| bip_39_word_dash_7 | shop-glance-clap-home-chest-blast-chicken |  
+| bip_39_word_dash_8 | shop-glance-clap-home-chest-blast-chicken-finish |  
+| bip_39_word_dash_9 | shop-glance-clap-home-chest-blast-chicken-finish-just |  
 | bip_39_word_new_br_1 | shop |  
 | bip_39_word_new_br_10 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish<br>just<br>lab |  
 | bip_39_word_new_br_11 | shop<br>glance<br>clap<br>home<br>chest<br>blast<br>chicken<br>finish<br>just<br>lab<br>fuel |  
@@ -147,6 +159,18 @@ just |
 | bip_39_word_space_7 | shop glance clap home chest blast chicken |  
 | bip_39_word_space_8 | shop glance clap home chest blast chicken finish |  
 | bip_39_word_space_9 | shop glance clap home chest blast chicken finish just |  
+| bip_39_word_underscore_1 | shop |  
+| bip_39_word_underscore_10 | shop_glance_clap_home_chest_blast_chicken_finish_just_lab |  
+| bip_39_word_underscore_11 | shop_glance_clap_home_chest_blast_chicken_finish_just_lab_fuel |  
+| bip_39_word_underscore_12 | shop_glance_clap_home_chest_blast_chicken_finish_just_lab_fuel_advice |  
+| bip_39_word_underscore_2 | shop_glance |  
+| bip_39_word_underscore_3 | shop_glance_clap |  
+| bip_39_word_underscore_4 | shop_glance_clap_home |  
+| bip_39_word_underscore_5 | shop_glance_clap_home_chest |  
+| bip_39_word_underscore_6 | shop_glance_clap_home_chest_blast |  
+| bip_39_word_underscore_7 | shop_glance_clap_home_chest_blast_chicken |  
+| bip_39_word_underscore_8 | shop_glance_clap_home_chest_blast_chicken_finish |  
+| bip_39_word_underscore_9 | shop_glance_clap_home_chest_blast_chicken_finish_just |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

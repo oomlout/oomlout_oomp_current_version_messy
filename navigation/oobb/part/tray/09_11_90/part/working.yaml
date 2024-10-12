@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trim
+bip_39_word_dash_10: trim-series-rate-march-hub-alarm-grass-token-toilet-mosquito
+bip_39_word_dash_11: trim-series-rate-march-hub-alarm-grass-token-toilet-mosquito-web
+bip_39_word_dash_12: trim-series-rate-march-hub-alarm-grass-token-toilet-mosquito-web-amused
+bip_39_word_dash_2: trim-series
+bip_39_word_dash_3: trim-series-rate
+bip_39_word_dash_4: trim-series-rate-march
+bip_39_word_dash_5: trim-series-rate-march-hub
+bip_39_word_dash_6: trim-series-rate-march-hub-alarm
+bip_39_word_dash_7: trim-series-rate-march-hub-alarm-grass
+bip_39_word_dash_8: trim-series-rate-march-hub-alarm-grass-token
+bip_39_word_dash_9: trim-series-rate-march-hub-alarm-grass-token-toilet
 bip_39_word_new_br_1: trim
 bip_39_word_new_br_10: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token<br>toilet<br>mosquito
 bip_39_word_new_br_11: trim<br>series<br>rate<br>march<br>hub<br>alarm<br>grass<br>token<br>toilet<br>mosquito<br>web
@@ -193,6 +205,18 @@ bip_39_word_space_6: trim series rate march hub alarm
 bip_39_word_space_7: trim series rate march hub alarm grass
 bip_39_word_space_8: trim series rate march hub alarm grass token
 bip_39_word_space_9: trim series rate march hub alarm grass token toilet
+bip_39_word_underscore_1: trim
+bip_39_word_underscore_10: trim_series_rate_march_hub_alarm_grass_token_toilet_mosquito
+bip_39_word_underscore_11: trim_series_rate_march_hub_alarm_grass_token_toilet_mosquito_web
+bip_39_word_underscore_12: trim_series_rate_march_hub_alarm_grass_token_toilet_mosquito_web_amused
+bip_39_word_underscore_2: trim_series
+bip_39_word_underscore_3: trim_series_rate
+bip_39_word_underscore_4: trim_series_rate_march
+bip_39_word_underscore_5: trim_series_rate_march_hub
+bip_39_word_underscore_6: trim_series_rate_march_hub_alarm
+bip_39_word_underscore_7: trim_series_rate_march_hub_alarm_grass
+bip_39_word_underscore_8: trim_series_rate_march_hub_alarm_grass_token
+bip_39_word_underscore_9: trim_series_rate_march_hub_alarm_grass_token_toilet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | regret |  
+| bip_39_word_dash_10 | regret-then-plastic-remember-limit-dish-ugly-reveal-trade-winner |  
+| bip_39_word_dash_11 | regret-then-plastic-remember-limit-dish-ugly-reveal-trade-winner-eagle |  
+| bip_39_word_dash_12 | regret-then-plastic-remember-limit-dish-ugly-reveal-trade-winner-eagle-appear |  
+| bip_39_word_dash_2 | regret-then |  
+| bip_39_word_dash_3 | regret-then-plastic |  
+| bip_39_word_dash_4 | regret-then-plastic-remember |  
+| bip_39_word_dash_5 | regret-then-plastic-remember-limit |  
+| bip_39_word_dash_6 | regret-then-plastic-remember-limit-dish |  
+| bip_39_word_dash_7 | regret-then-plastic-remember-limit-dish-ugly |  
+| bip_39_word_dash_8 | regret-then-plastic-remember-limit-dish-ugly-reveal |  
+| bip_39_word_dash_9 | regret-then-plastic-remember-limit-dish-ugly-reveal-trade |  
 | bip_39_word_new_br_1 | regret |  
 | bip_39_word_new_br_10 | regret<br>then<br>plastic<br>remember<br>limit<br>dish<br>ugly<br>reveal<br>trade<br>winner |  
 | bip_39_word_new_br_11 | regret<br>then<br>plastic<br>remember<br>limit<br>dish<br>ugly<br>reveal<br>trade<br>winner<br>eagle |  
@@ -147,6 +159,18 @@ trade |
 | bip_39_word_space_7 | regret then plastic remember limit dish ugly |  
 | bip_39_word_space_8 | regret then plastic remember limit dish ugly reveal |  
 | bip_39_word_space_9 | regret then plastic remember limit dish ugly reveal trade |  
+| bip_39_word_underscore_1 | regret |  
+| bip_39_word_underscore_10 | regret_then_plastic_remember_limit_dish_ugly_reveal_trade_winner |  
+| bip_39_word_underscore_11 | regret_then_plastic_remember_limit_dish_ugly_reveal_trade_winner_eagle |  
+| bip_39_word_underscore_12 | regret_then_plastic_remember_limit_dish_ugly_reveal_trade_winner_eagle_appear |  
+| bip_39_word_underscore_2 | regret_then |  
+| bip_39_word_underscore_3 | regret_then_plastic |  
+| bip_39_word_underscore_4 | regret_then_plastic_remember |  
+| bip_39_word_underscore_5 | regret_then_plastic_remember_limit |  
+| bip_39_word_underscore_6 | regret_then_plastic_remember_limit_dish |  
+| bip_39_word_underscore_7 | regret_then_plastic_remember_limit_dish_ugly |  
+| bip_39_word_underscore_8 | regret_then_plastic_remember_limit_dish_ugly_reveal |  
+| bip_39_word_underscore_9 | regret_then_plastic_remember_limit_dish_ugly_reveal_trade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

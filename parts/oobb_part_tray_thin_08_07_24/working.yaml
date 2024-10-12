@@ -1,3 +1,15 @@
+bip_39_word_dash_1: program
+bip_39_word_dash_10: program-husband-child-upgrade-train-cannon-season-hammer-egg-pair
+bip_39_word_dash_11: program-husband-child-upgrade-train-cannon-season-hammer-egg-pair-actor
+bip_39_word_dash_12: program-husband-child-upgrade-train-cannon-season-hammer-egg-pair-actor-about
+bip_39_word_dash_2: program-husband
+bip_39_word_dash_3: program-husband-child
+bip_39_word_dash_4: program-husband-child-upgrade
+bip_39_word_dash_5: program-husband-child-upgrade-train
+bip_39_word_dash_6: program-husband-child-upgrade-train-cannon
+bip_39_word_dash_7: program-husband-child-upgrade-train-cannon-season
+bip_39_word_dash_8: program-husband-child-upgrade-train-cannon-season-hammer
+bip_39_word_dash_9: program-husband-child-upgrade-train-cannon-season-hammer-egg
 bip_39_word_new_br_1: program
 bip_39_word_new_br_10: program<br>husband<br>child<br>upgrade<br>train<br>cannon<br>season<br>hammer<br>egg<br>pair
 bip_39_word_new_br_11: program<br>husband<br>child<br>upgrade<br>train<br>cannon<br>season<br>hammer<br>egg<br>pair<br>actor
@@ -194,6 +206,18 @@ bip_39_word_space_6: program husband child upgrade train cannon
 bip_39_word_space_7: program husband child upgrade train cannon season
 bip_39_word_space_8: program husband child upgrade train cannon season hammer
 bip_39_word_space_9: program husband child upgrade train cannon season hammer egg
+bip_39_word_underscore_1: program
+bip_39_word_underscore_10: program_husband_child_upgrade_train_cannon_season_hammer_egg_pair
+bip_39_word_underscore_11: program_husband_child_upgrade_train_cannon_season_hammer_egg_pair_actor
+bip_39_word_underscore_12: program_husband_child_upgrade_train_cannon_season_hammer_egg_pair_actor_about
+bip_39_word_underscore_2: program_husband
+bip_39_word_underscore_3: program_husband_child
+bip_39_word_underscore_4: program_husband_child_upgrade
+bip_39_word_underscore_5: program_husband_child_upgrade_train
+bip_39_word_underscore_6: program_husband_child_upgrade_train_cannon
+bip_39_word_underscore_7: program_husband_child_upgrade_train_cannon_season
+bip_39_word_underscore_8: program_husband_child_upgrade_train_cannon_season_hammer
+bip_39_word_underscore_9: program_husband_child_upgrade_train_cannon_season_hammer_egg
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

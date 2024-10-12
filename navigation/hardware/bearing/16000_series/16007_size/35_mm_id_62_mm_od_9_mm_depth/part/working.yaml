@@ -1,3 +1,15 @@
+bip_39_word_dash_1: omit
+bip_39_word_dash_10: omit-oxygen-devote-sport-blame-shoot-naive-plastic-slush-minute
+bip_39_word_dash_11: omit-oxygen-devote-sport-blame-shoot-naive-plastic-slush-minute-echo
+bip_39_word_dash_12: omit-oxygen-devote-sport-blame-shoot-naive-plastic-slush-minute-echo-area
+bip_39_word_dash_2: omit-oxygen
+bip_39_word_dash_3: omit-oxygen-devote
+bip_39_word_dash_4: omit-oxygen-devote-sport
+bip_39_word_dash_5: omit-oxygen-devote-sport-blame
+bip_39_word_dash_6: omit-oxygen-devote-sport-blame-shoot
+bip_39_word_dash_7: omit-oxygen-devote-sport-blame-shoot-naive
+bip_39_word_dash_8: omit-oxygen-devote-sport-blame-shoot-naive-plastic
+bip_39_word_dash_9: omit-oxygen-devote-sport-blame-shoot-naive-plastic-slush
 bip_39_word_new_br_1: omit
 bip_39_word_new_br_10: omit<br>oxygen<br>devote<br>sport<br>blame<br>shoot<br>naive<br>plastic<br>slush<br>minute
 bip_39_word_new_br_11: omit<br>oxygen<br>devote<br>sport<br>blame<br>shoot<br>naive<br>plastic<br>slush<br>minute<br>echo
@@ -193,6 +205,18 @@ bip_39_word_space_6: omit oxygen devote sport blame shoot
 bip_39_word_space_7: omit oxygen devote sport blame shoot naive
 bip_39_word_space_8: omit oxygen devote sport blame shoot naive plastic
 bip_39_word_space_9: omit oxygen devote sport blame shoot naive plastic slush
+bip_39_word_underscore_1: omit
+bip_39_word_underscore_10: omit_oxygen_devote_sport_blame_shoot_naive_plastic_slush_minute
+bip_39_word_underscore_11: omit_oxygen_devote_sport_blame_shoot_naive_plastic_slush_minute_echo
+bip_39_word_underscore_12: omit_oxygen_devote_sport_blame_shoot_naive_plastic_slush_minute_echo_area
+bip_39_word_underscore_2: omit_oxygen
+bip_39_word_underscore_3: omit_oxygen_devote
+bip_39_word_underscore_4: omit_oxygen_devote_sport
+bip_39_word_underscore_5: omit_oxygen_devote_sport_blame
+bip_39_word_underscore_6: omit_oxygen_devote_sport_blame_shoot
+bip_39_word_underscore_7: omit_oxygen_devote_sport_blame_shoot_naive
+bip_39_word_underscore_8: omit_oxygen_devote_sport_blame_shoot_naive_plastic
+bip_39_word_underscore_9: omit_oxygen_devote_sport_blame_shoot_naive_plastic_slush
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diary |  
+| bip_39_word_dash_10 | diary-charge-genius-lock-library-priority-destroy-dutch-jazz-humor |  
+| bip_39_word_dash_11 | diary-charge-genius-lock-library-priority-destroy-dutch-jazz-humor-feed |  
+| bip_39_word_dash_12 | diary-charge-genius-lock-library-priority-destroy-dutch-jazz-humor-feed-arrive |  
+| bip_39_word_dash_2 | diary-charge |  
+| bip_39_word_dash_3 | diary-charge-genius |  
+| bip_39_word_dash_4 | diary-charge-genius-lock |  
+| bip_39_word_dash_5 | diary-charge-genius-lock-library |  
+| bip_39_word_dash_6 | diary-charge-genius-lock-library-priority |  
+| bip_39_word_dash_7 | diary-charge-genius-lock-library-priority-destroy |  
+| bip_39_word_dash_8 | diary-charge-genius-lock-library-priority-destroy-dutch |  
+| bip_39_word_dash_9 | diary-charge-genius-lock-library-priority-destroy-dutch-jazz |  
 | bip_39_word_new_br_1 | diary |  
 | bip_39_word_new_br_10 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch<br>jazz<br>humor |  
 | bip_39_word_new_br_11 | diary<br>charge<br>genius<br>lock<br>library<br>priority<br>destroy<br>dutch<br>jazz<br>humor<br>feed |  
@@ -147,6 +159,18 @@ jazz |
 | bip_39_word_space_7 | diary charge genius lock library priority destroy |  
 | bip_39_word_space_8 | diary charge genius lock library priority destroy dutch |  
 | bip_39_word_space_9 | diary charge genius lock library priority destroy dutch jazz |  
+| bip_39_word_underscore_1 | diary |  
+| bip_39_word_underscore_10 | diary_charge_genius_lock_library_priority_destroy_dutch_jazz_humor |  
+| bip_39_word_underscore_11 | diary_charge_genius_lock_library_priority_destroy_dutch_jazz_humor_feed |  
+| bip_39_word_underscore_12 | diary_charge_genius_lock_library_priority_destroy_dutch_jazz_humor_feed_arrive |  
+| bip_39_word_underscore_2 | diary_charge |  
+| bip_39_word_underscore_3 | diary_charge_genius |  
+| bip_39_word_underscore_4 | diary_charge_genius_lock |  
+| bip_39_word_underscore_5 | diary_charge_genius_lock_library |  
+| bip_39_word_underscore_6 | diary_charge_genius_lock_library_priority |  
+| bip_39_word_underscore_7 | diary_charge_genius_lock_library_priority_destroy |  
+| bip_39_word_underscore_8 | diary_charge_genius_lock_library_priority_destroy_dutch |  
+| bip_39_word_underscore_9 | diary_charge_genius_lock_library_priority_destroy_dutch_jazz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

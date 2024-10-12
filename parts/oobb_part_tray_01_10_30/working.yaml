@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pair
+bip_39_word_dash_10: pair-crane-vicious-thumb-village-judge-ladder-cupboard-focus-diet
+bip_39_word_dash_11: pair-crane-vicious-thumb-village-judge-ladder-cupboard-focus-diet-jungle
+bip_39_word_dash_12: pair-crane-vicious-thumb-village-judge-ladder-cupboard-focus-diet-jungle-ability
+bip_39_word_dash_2: pair-crane
+bip_39_word_dash_3: pair-crane-vicious
+bip_39_word_dash_4: pair-crane-vicious-thumb
+bip_39_word_dash_5: pair-crane-vicious-thumb-village
+bip_39_word_dash_6: pair-crane-vicious-thumb-village-judge
+bip_39_word_dash_7: pair-crane-vicious-thumb-village-judge-ladder
+bip_39_word_dash_8: pair-crane-vicious-thumb-village-judge-ladder-cupboard
+bip_39_word_dash_9: pair-crane-vicious-thumb-village-judge-ladder-cupboard-focus
 bip_39_word_new_br_1: pair
 bip_39_word_new_br_10: pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet
 bip_39_word_new_br_11: pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet<br>jungle
@@ -194,6 +206,18 @@ bip_39_word_space_6: pair crane vicious thumb village judge
 bip_39_word_space_7: pair crane vicious thumb village judge ladder
 bip_39_word_space_8: pair crane vicious thumb village judge ladder cupboard
 bip_39_word_space_9: pair crane vicious thumb village judge ladder cupboard focus
+bip_39_word_underscore_1: pair
+bip_39_word_underscore_10: pair_crane_vicious_thumb_village_judge_ladder_cupboard_focus_diet
+bip_39_word_underscore_11: pair_crane_vicious_thumb_village_judge_ladder_cupboard_focus_diet_jungle
+bip_39_word_underscore_12: pair_crane_vicious_thumb_village_judge_ladder_cupboard_focus_diet_jungle_ability
+bip_39_word_underscore_2: pair_crane
+bip_39_word_underscore_3: pair_crane_vicious
+bip_39_word_underscore_4: pair_crane_vicious_thumb
+bip_39_word_underscore_5: pair_crane_vicious_thumb_village
+bip_39_word_underscore_6: pair_crane_vicious_thumb_village_judge
+bip_39_word_underscore_7: pair_crane_vicious_thumb_village_judge_ladder
+bip_39_word_underscore_8: pair_crane_vicious_thumb_village_judge_ladder_cupboard
+bip_39_word_underscore_9: pair_crane_vicious_thumb_village_judge_ladder_cupboard_focus
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

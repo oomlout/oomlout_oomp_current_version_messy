@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ticket |  
+| bip_39_word_dash_10 | ticket-erupt-people-summer-famous-often-distance-record-unaware-stable |  
+| bip_39_word_dash_11 | ticket-erupt-people-summer-famous-often-distance-record-unaware-stable-whip |  
+| bip_39_word_dash_12 | ticket-erupt-people-summer-famous-often-distance-record-unaware-stable-whip-another |  
+| bip_39_word_dash_2 | ticket-erupt |  
+| bip_39_word_dash_3 | ticket-erupt-people |  
+| bip_39_word_dash_4 | ticket-erupt-people-summer |  
+| bip_39_word_dash_5 | ticket-erupt-people-summer-famous |  
+| bip_39_word_dash_6 | ticket-erupt-people-summer-famous-often |  
+| bip_39_word_dash_7 | ticket-erupt-people-summer-famous-often-distance |  
+| bip_39_word_dash_8 | ticket-erupt-people-summer-famous-often-distance-record |  
+| bip_39_word_dash_9 | ticket-erupt-people-summer-famous-often-distance-record-unaware |  
 | bip_39_word_new_br_1 | ticket |  
 | bip_39_word_new_br_10 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable |  
 | bip_39_word_new_br_11 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable<br>whip |  
@@ -147,6 +159,18 @@ unaware |
 | bip_39_word_space_7 | ticket erupt people summer famous often distance |  
 | bip_39_word_space_8 | ticket erupt people summer famous often distance record |  
 | bip_39_word_space_9 | ticket erupt people summer famous often distance record unaware |  
+| bip_39_word_underscore_1 | ticket |  
+| bip_39_word_underscore_10 | ticket_erupt_people_summer_famous_often_distance_record_unaware_stable |  
+| bip_39_word_underscore_11 | ticket_erupt_people_summer_famous_often_distance_record_unaware_stable_whip |  
+| bip_39_word_underscore_12 | ticket_erupt_people_summer_famous_often_distance_record_unaware_stable_whip_another |  
+| bip_39_word_underscore_2 | ticket_erupt |  
+| bip_39_word_underscore_3 | ticket_erupt_people |  
+| bip_39_word_underscore_4 | ticket_erupt_people_summer |  
+| bip_39_word_underscore_5 | ticket_erupt_people_summer_famous |  
+| bip_39_word_underscore_6 | ticket_erupt_people_summer_famous_often |  
+| bip_39_word_underscore_7 | ticket_erupt_people_summer_famous_often_distance |  
+| bip_39_word_underscore_8 | ticket_erupt_people_summer_famous_often_distance_record |  
+| bip_39_word_underscore_9 | ticket_erupt_people_summer_famous_often_distance_record_unaware |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

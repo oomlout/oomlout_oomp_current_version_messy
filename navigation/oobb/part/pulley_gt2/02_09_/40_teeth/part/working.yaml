@@ -1,3 +1,15 @@
+bip_39_word_dash_1: used
+bip_39_word_dash_10: used-soap-ketchup-rare-total-gravity-property-session-ugly-hollow
+bip_39_word_dash_11: used-soap-ketchup-rare-total-gravity-property-session-ugly-hollow-birth
+bip_39_word_dash_12: used-soap-ketchup-rare-total-gravity-property-session-ugly-hollow-birth-actor
+bip_39_word_dash_2: used-soap
+bip_39_word_dash_3: used-soap-ketchup
+bip_39_word_dash_4: used-soap-ketchup-rare
+bip_39_word_dash_5: used-soap-ketchup-rare-total
+bip_39_word_dash_6: used-soap-ketchup-rare-total-gravity
+bip_39_word_dash_7: used-soap-ketchup-rare-total-gravity-property
+bip_39_word_dash_8: used-soap-ketchup-rare-total-gravity-property-session
+bip_39_word_dash_9: used-soap-ketchup-rare-total-gravity-property-session-ugly
 bip_39_word_new_br_1: used
 bip_39_word_new_br_10: used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow
 bip_39_word_new_br_11: used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow<br>birth
@@ -193,6 +205,18 @@ bip_39_word_space_6: used soap ketchup rare total gravity
 bip_39_word_space_7: used soap ketchup rare total gravity property
 bip_39_word_space_8: used soap ketchup rare total gravity property session
 bip_39_word_space_9: used soap ketchup rare total gravity property session ugly
+bip_39_word_underscore_1: used
+bip_39_word_underscore_10: used_soap_ketchup_rare_total_gravity_property_session_ugly_hollow
+bip_39_word_underscore_11: used_soap_ketchup_rare_total_gravity_property_session_ugly_hollow_birth
+bip_39_word_underscore_12: used_soap_ketchup_rare_total_gravity_property_session_ugly_hollow_birth_actor
+bip_39_word_underscore_2: used_soap
+bip_39_word_underscore_3: used_soap_ketchup
+bip_39_word_underscore_4: used_soap_ketchup_rare
+bip_39_word_underscore_5: used_soap_ketchup_rare_total
+bip_39_word_underscore_6: used_soap_ketchup_rare_total_gravity
+bip_39_word_underscore_7: used_soap_ketchup_rare_total_gravity_property
+bip_39_word_underscore_8: used_soap_ketchup_rare_total_gravity_property_session
+bip_39_word_underscore_9: used_soap_ketchup_rare_total_gravity_property_session_ugly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

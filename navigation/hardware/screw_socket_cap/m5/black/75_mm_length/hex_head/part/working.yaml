@@ -1,3 +1,15 @@
+bip_39_word_dash_1: faint
+bip_39_word_dash_10: faint-chapter-swift-gap-rally-enough-scout-drastic-green-power
+bip_39_word_dash_11: faint-chapter-swift-gap-rally-enough-scout-drastic-green-power-tell
+bip_39_word_dash_12: faint-chapter-swift-gap-rally-enough-scout-drastic-green-power-tell-avocado
+bip_39_word_dash_2: faint-chapter
+bip_39_word_dash_3: faint-chapter-swift
+bip_39_word_dash_4: faint-chapter-swift-gap
+bip_39_word_dash_5: faint-chapter-swift-gap-rally
+bip_39_word_dash_6: faint-chapter-swift-gap-rally-enough
+bip_39_word_dash_7: faint-chapter-swift-gap-rally-enough-scout
+bip_39_word_dash_8: faint-chapter-swift-gap-rally-enough-scout-drastic
+bip_39_word_dash_9: faint-chapter-swift-gap-rally-enough-scout-drastic-green
 bip_39_word_new_br_1: faint
 bip_39_word_new_br_10: faint<br>chapter<br>swift<br>gap<br>rally<br>enough<br>scout<br>drastic<br>green<br>power
 bip_39_word_new_br_11: faint<br>chapter<br>swift<br>gap<br>rally<br>enough<br>scout<br>drastic<br>green<br>power<br>tell
@@ -193,6 +205,18 @@ bip_39_word_space_6: faint chapter swift gap rally enough
 bip_39_word_space_7: faint chapter swift gap rally enough scout
 bip_39_word_space_8: faint chapter swift gap rally enough scout drastic
 bip_39_word_space_9: faint chapter swift gap rally enough scout drastic green
+bip_39_word_underscore_1: faint
+bip_39_word_underscore_10: faint_chapter_swift_gap_rally_enough_scout_drastic_green_power
+bip_39_word_underscore_11: faint_chapter_swift_gap_rally_enough_scout_drastic_green_power_tell
+bip_39_word_underscore_12: faint_chapter_swift_gap_rally_enough_scout_drastic_green_power_tell_avocado
+bip_39_word_underscore_2: faint_chapter
+bip_39_word_underscore_3: faint_chapter_swift
+bip_39_word_underscore_4: faint_chapter_swift_gap
+bip_39_word_underscore_5: faint_chapter_swift_gap_rally
+bip_39_word_underscore_6: faint_chapter_swift_gap_rally_enough
+bip_39_word_underscore_7: faint_chapter_swift_gap_rally_enough_scout
+bip_39_word_underscore_8: faint_chapter_swift_gap_rally_enough_scout_drastic
+bip_39_word_underscore_9: faint_chapter_swift_gap_rally_enough_scout_drastic_green
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

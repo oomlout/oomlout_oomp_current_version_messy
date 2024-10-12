@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wish |  
+| bip_39_word_dash_10 | wish-worry-surge-kidney-prize-crane-trap-dragon-since-fancy |  
+| bip_39_word_dash_11 | wish-worry-surge-kidney-prize-crane-trap-dragon-since-fancy-daughter |  
+| bip_39_word_dash_12 | wish-worry-surge-kidney-prize-crane-trap-dragon-since-fancy-daughter-access |  
+| bip_39_word_dash_2 | wish-worry |  
+| bip_39_word_dash_3 | wish-worry-surge |  
+| bip_39_word_dash_4 | wish-worry-surge-kidney |  
+| bip_39_word_dash_5 | wish-worry-surge-kidney-prize |  
+| bip_39_word_dash_6 | wish-worry-surge-kidney-prize-crane |  
+| bip_39_word_dash_7 | wish-worry-surge-kidney-prize-crane-trap |  
+| bip_39_word_dash_8 | wish-worry-surge-kidney-prize-crane-trap-dragon |  
+| bip_39_word_dash_9 | wish-worry-surge-kidney-prize-crane-trap-dragon-since |  
 | bip_39_word_new_br_1 | wish |  
 | bip_39_word_new_br_10 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon<br>since<br>fancy |  
 | bip_39_word_new_br_11 | wish<br>worry<br>surge<br>kidney<br>prize<br>crane<br>trap<br>dragon<br>since<br>fancy<br>daughter |  
@@ -147,6 +159,18 @@ since |
 | bip_39_word_space_7 | wish worry surge kidney prize crane trap |  
 | bip_39_word_space_8 | wish worry surge kidney prize crane trap dragon |  
 | bip_39_word_space_9 | wish worry surge kidney prize crane trap dragon since |  
+| bip_39_word_underscore_1 | wish |  
+| bip_39_word_underscore_10 | wish_worry_surge_kidney_prize_crane_trap_dragon_since_fancy |  
+| bip_39_word_underscore_11 | wish_worry_surge_kidney_prize_crane_trap_dragon_since_fancy_daughter |  
+| bip_39_word_underscore_12 | wish_worry_surge_kidney_prize_crane_trap_dragon_since_fancy_daughter_access |  
+| bip_39_word_underscore_2 | wish_worry |  
+| bip_39_word_underscore_3 | wish_worry_surge |  
+| bip_39_word_underscore_4 | wish_worry_surge_kidney |  
+| bip_39_word_underscore_5 | wish_worry_surge_kidney_prize |  
+| bip_39_word_underscore_6 | wish_worry_surge_kidney_prize_crane |  
+| bip_39_word_underscore_7 | wish_worry_surge_kidney_prize_crane_trap |  
+| bip_39_word_underscore_8 | wish_worry_surge_kidney_prize_crane_trap_dragon |  
+| bip_39_word_underscore_9 | wish_worry_surge_kidney_prize_crane_trap_dragon_since |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

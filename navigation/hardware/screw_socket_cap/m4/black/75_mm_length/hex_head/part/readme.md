@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deer |  
+| bip_39_word_dash_10 | deer-outside-test-achieve-guilt-cement-column-cry-inform-grass |  
+| bip_39_word_dash_11 | deer-outside-test-achieve-guilt-cement-column-cry-inform-grass-now |  
+| bip_39_word_dash_12 | deer-outside-test-achieve-guilt-cement-column-cry-inform-grass-now-alert |  
+| bip_39_word_dash_2 | deer-outside |  
+| bip_39_word_dash_3 | deer-outside-test |  
+| bip_39_word_dash_4 | deer-outside-test-achieve |  
+| bip_39_word_dash_5 | deer-outside-test-achieve-guilt |  
+| bip_39_word_dash_6 | deer-outside-test-achieve-guilt-cement |  
+| bip_39_word_dash_7 | deer-outside-test-achieve-guilt-cement-column |  
+| bip_39_word_dash_8 | deer-outside-test-achieve-guilt-cement-column-cry |  
+| bip_39_word_dash_9 | deer-outside-test-achieve-guilt-cement-column-cry-inform |  
 | bip_39_word_new_br_1 | deer |  
 | bip_39_word_new_br_10 | deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry<br>inform<br>grass |  
 | bip_39_word_new_br_11 | deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry<br>inform<br>grass<br>now |  
@@ -147,6 +159,18 @@ inform |
 | bip_39_word_space_7 | deer outside test achieve guilt cement column |  
 | bip_39_word_space_8 | deer outside test achieve guilt cement column cry |  
 | bip_39_word_space_9 | deer outside test achieve guilt cement column cry inform |  
+| bip_39_word_underscore_1 | deer |  
+| bip_39_word_underscore_10 | deer_outside_test_achieve_guilt_cement_column_cry_inform_grass |  
+| bip_39_word_underscore_11 | deer_outside_test_achieve_guilt_cement_column_cry_inform_grass_now |  
+| bip_39_word_underscore_12 | deer_outside_test_achieve_guilt_cement_column_cry_inform_grass_now_alert |  
+| bip_39_word_underscore_2 | deer_outside |  
+| bip_39_word_underscore_3 | deer_outside_test |  
+| bip_39_word_underscore_4 | deer_outside_test_achieve |  
+| bip_39_word_underscore_5 | deer_outside_test_achieve_guilt |  
+| bip_39_word_underscore_6 | deer_outside_test_achieve_guilt_cement |  
+| bip_39_word_underscore_7 | deer_outside_test_achieve_guilt_cement_column |  
+| bip_39_word_underscore_8 | deer_outside_test_achieve_guilt_cement_column_cry |  
+| bip_39_word_underscore_9 | deer_outside_test_achieve_guilt_cement_column_cry_inform |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

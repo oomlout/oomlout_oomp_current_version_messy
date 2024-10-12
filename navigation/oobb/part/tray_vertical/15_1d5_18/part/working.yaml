@@ -1,3 +1,15 @@
+bip_39_word_dash_1: uniform
+bip_39_word_dash_10: uniform-smoke-favorite-garlic-arctic-distance-country-music-hope-swing
+bip_39_word_dash_11: uniform-smoke-favorite-garlic-arctic-distance-country-music-hope-swing-robot
+bip_39_word_dash_12: uniform-smoke-favorite-garlic-arctic-distance-country-music-hope-swing-robot-address
+bip_39_word_dash_2: uniform-smoke
+bip_39_word_dash_3: uniform-smoke-favorite
+bip_39_word_dash_4: uniform-smoke-favorite-garlic
+bip_39_word_dash_5: uniform-smoke-favorite-garlic-arctic
+bip_39_word_dash_6: uniform-smoke-favorite-garlic-arctic-distance
+bip_39_word_dash_7: uniform-smoke-favorite-garlic-arctic-distance-country
+bip_39_word_dash_8: uniform-smoke-favorite-garlic-arctic-distance-country-music
+bip_39_word_dash_9: uniform-smoke-favorite-garlic-arctic-distance-country-music-hope
 bip_39_word_new_br_1: uniform
 bip_39_word_new_br_10: uniform<br>smoke<br>favorite<br>garlic<br>arctic<br>distance<br>country<br>music<br>hope<br>swing
 bip_39_word_new_br_11: uniform<br>smoke<br>favorite<br>garlic<br>arctic<br>distance<br>country<br>music<br>hope<br>swing<br>robot
@@ -194,6 +206,18 @@ bip_39_word_space_6: uniform smoke favorite garlic arctic distance
 bip_39_word_space_7: uniform smoke favorite garlic arctic distance country
 bip_39_word_space_8: uniform smoke favorite garlic arctic distance country music
 bip_39_word_space_9: uniform smoke favorite garlic arctic distance country music hope
+bip_39_word_underscore_1: uniform
+bip_39_word_underscore_10: uniform_smoke_favorite_garlic_arctic_distance_country_music_hope_swing
+bip_39_word_underscore_11: uniform_smoke_favorite_garlic_arctic_distance_country_music_hope_swing_robot
+bip_39_word_underscore_12: uniform_smoke_favorite_garlic_arctic_distance_country_music_hope_swing_robot_address
+bip_39_word_underscore_2: uniform_smoke
+bip_39_word_underscore_3: uniform_smoke_favorite
+bip_39_word_underscore_4: uniform_smoke_favorite_garlic
+bip_39_word_underscore_5: uniform_smoke_favorite_garlic_arctic
+bip_39_word_underscore_6: uniform_smoke_favorite_garlic_arctic_distance
+bip_39_word_underscore_7: uniform_smoke_favorite_garlic_arctic_distance_country
+bip_39_word_underscore_8: uniform_smoke_favorite_garlic_arctic_distance_country_music
+bip_39_word_underscore_9: uniform_smoke_favorite_garlic_arctic_distance_country_music_hope
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

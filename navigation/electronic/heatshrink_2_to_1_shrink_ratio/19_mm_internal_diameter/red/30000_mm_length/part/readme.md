@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | turkey |  
+| bip_39_word_dash_10 | turkey-price-account-sell-grit-lady-observe-shallow-phone-maximum |  
+| bip_39_word_dash_11 | turkey-price-account-sell-grit-lady-observe-shallow-phone-maximum-jaguar |  
+| bip_39_word_dash_12 | turkey-price-account-sell-grit-lady-observe-shallow-phone-maximum-jaguar-avocado |  
+| bip_39_word_dash_2 | turkey-price |  
+| bip_39_word_dash_3 | turkey-price-account |  
+| bip_39_word_dash_4 | turkey-price-account-sell |  
+| bip_39_word_dash_5 | turkey-price-account-sell-grit |  
+| bip_39_word_dash_6 | turkey-price-account-sell-grit-lady |  
+| bip_39_word_dash_7 | turkey-price-account-sell-grit-lady-observe |  
+| bip_39_word_dash_8 | turkey-price-account-sell-grit-lady-observe-shallow |  
+| bip_39_word_dash_9 | turkey-price-account-sell-grit-lady-observe-shallow-phone |  
 | bip_39_word_new_br_1 | turkey |  
 | bip_39_word_new_br_10 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum |  
 | bip_39_word_new_br_11 | turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum<br>jaguar |  
@@ -147,6 +159,18 @@ phone |
 | bip_39_word_space_7 | turkey price account sell grit lady observe |  
 | bip_39_word_space_8 | turkey price account sell grit lady observe shallow |  
 | bip_39_word_space_9 | turkey price account sell grit lady observe shallow phone |  
+| bip_39_word_underscore_1 | turkey |  
+| bip_39_word_underscore_10 | turkey_price_account_sell_grit_lady_observe_shallow_phone_maximum |  
+| bip_39_word_underscore_11 | turkey_price_account_sell_grit_lady_observe_shallow_phone_maximum_jaguar |  
+| bip_39_word_underscore_12 | turkey_price_account_sell_grit_lady_observe_shallow_phone_maximum_jaguar_avocado |  
+| bip_39_word_underscore_2 | turkey_price |  
+| bip_39_word_underscore_3 | turkey_price_account |  
+| bip_39_word_underscore_4 | turkey_price_account_sell |  
+| bip_39_word_underscore_5 | turkey_price_account_sell_grit |  
+| bip_39_word_underscore_6 | turkey_price_account_sell_grit_lady |  
+| bip_39_word_underscore_7 | turkey_price_account_sell_grit_lady_observe |  
+| bip_39_word_underscore_8 | turkey_price_account_sell_grit_lady_observe_shallow |  
+| bip_39_word_underscore_9 | turkey_price_account_sell_grit_lady_observe_shallow_phone |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

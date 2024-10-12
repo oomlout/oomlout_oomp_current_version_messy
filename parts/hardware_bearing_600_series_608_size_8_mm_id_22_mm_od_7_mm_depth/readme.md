@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | filter |  
+| bip_39_word_dash_10 | filter-segment-fiscal-pave-crime-account-wasp-credit-prison-pluck |  
+| bip_39_word_dash_11 | filter-segment-fiscal-pave-crime-account-wasp-credit-prison-pluck-beef |  
+| bip_39_word_dash_12 | filter-segment-fiscal-pave-crime-account-wasp-credit-prison-pluck-beef-across |  
+| bip_39_word_dash_2 | filter-segment |  
+| bip_39_word_dash_3 | filter-segment-fiscal |  
+| bip_39_word_dash_4 | filter-segment-fiscal-pave |  
+| bip_39_word_dash_5 | filter-segment-fiscal-pave-crime |  
+| bip_39_word_dash_6 | filter-segment-fiscal-pave-crime-account |  
+| bip_39_word_dash_7 | filter-segment-fiscal-pave-crime-account-wasp |  
+| bip_39_word_dash_8 | filter-segment-fiscal-pave-crime-account-wasp-credit |  
+| bip_39_word_dash_9 | filter-segment-fiscal-pave-crime-account-wasp-credit-prison |  
 | bip_39_word_new_br_1 | filter |  
 | bip_39_word_new_br_10 | filter<br>segment<br>fiscal<br>pave<br>crime<br>account<br>wasp<br>credit<br>prison<br>pluck |  
 | bip_39_word_new_br_11 | filter<br>segment<br>fiscal<br>pave<br>crime<br>account<br>wasp<br>credit<br>prison<br>pluck<br>beef |  
@@ -147,6 +159,18 @@ prison |
 | bip_39_word_space_7 | filter segment fiscal pave crime account wasp |  
 | bip_39_word_space_8 | filter segment fiscal pave crime account wasp credit |  
 | bip_39_word_space_9 | filter segment fiscal pave crime account wasp credit prison |  
+| bip_39_word_underscore_1 | filter |  
+| bip_39_word_underscore_10 | filter_segment_fiscal_pave_crime_account_wasp_credit_prison_pluck |  
+| bip_39_word_underscore_11 | filter_segment_fiscal_pave_crime_account_wasp_credit_prison_pluck_beef |  
+| bip_39_word_underscore_12 | filter_segment_fiscal_pave_crime_account_wasp_credit_prison_pluck_beef_across |  
+| bip_39_word_underscore_2 | filter_segment |  
+| bip_39_word_underscore_3 | filter_segment_fiscal |  
+| bip_39_word_underscore_4 | filter_segment_fiscal_pave |  
+| bip_39_word_underscore_5 | filter_segment_fiscal_pave_crime |  
+| bip_39_word_underscore_6 | filter_segment_fiscal_pave_crime_account |  
+| bip_39_word_underscore_7 | filter_segment_fiscal_pave_crime_account_wasp |  
+| bip_39_word_underscore_8 | filter_segment_fiscal_pave_crime_account_wasp_credit |  
+| bip_39_word_underscore_9 | filter_segment_fiscal_pave_crime_account_wasp_credit_prison |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

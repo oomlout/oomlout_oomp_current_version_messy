@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wagon |  
+| bip_39_word_dash_10 | wagon-trend-salad-attract-fat-glide-tray-uniform-earth-better |  
+| bip_39_word_dash_11 | wagon-trend-salad-attract-fat-glide-tray-uniform-earth-better-reason |  
+| bip_39_word_dash_12 | wagon-trend-salad-attract-fat-glide-tray-uniform-earth-better-reason-answer |  
+| bip_39_word_dash_2 | wagon-trend |  
+| bip_39_word_dash_3 | wagon-trend-salad |  
+| bip_39_word_dash_4 | wagon-trend-salad-attract |  
+| bip_39_word_dash_5 | wagon-trend-salad-attract-fat |  
+| bip_39_word_dash_6 | wagon-trend-salad-attract-fat-glide |  
+| bip_39_word_dash_7 | wagon-trend-salad-attract-fat-glide-tray |  
+| bip_39_word_dash_8 | wagon-trend-salad-attract-fat-glide-tray-uniform |  
+| bip_39_word_dash_9 | wagon-trend-salad-attract-fat-glide-tray-uniform-earth |  
 | bip_39_word_new_br_1 | wagon |  
 | bip_39_word_new_br_10 | wagon<br>trend<br>salad<br>attract<br>fat<br>glide<br>tray<br>uniform<br>earth<br>better |  
 | bip_39_word_new_br_11 | wagon<br>trend<br>salad<br>attract<br>fat<br>glide<br>tray<br>uniform<br>earth<br>better<br>reason |  
@@ -147,6 +159,18 @@ earth |
 | bip_39_word_space_7 | wagon trend salad attract fat glide tray |  
 | bip_39_word_space_8 | wagon trend salad attract fat glide tray uniform |  
 | bip_39_word_space_9 | wagon trend salad attract fat glide tray uniform earth |  
+| bip_39_word_underscore_1 | wagon |  
+| bip_39_word_underscore_10 | wagon_trend_salad_attract_fat_glide_tray_uniform_earth_better |  
+| bip_39_word_underscore_11 | wagon_trend_salad_attract_fat_glide_tray_uniform_earth_better_reason |  
+| bip_39_word_underscore_12 | wagon_trend_salad_attract_fat_glide_tray_uniform_earth_better_reason_answer |  
+| bip_39_word_underscore_2 | wagon_trend |  
+| bip_39_word_underscore_3 | wagon_trend_salad |  
+| bip_39_word_underscore_4 | wagon_trend_salad_attract |  
+| bip_39_word_underscore_5 | wagon_trend_salad_attract_fat |  
+| bip_39_word_underscore_6 | wagon_trend_salad_attract_fat_glide |  
+| bip_39_word_underscore_7 | wagon_trend_salad_attract_fat_glide_tray |  
+| bip_39_word_underscore_8 | wagon_trend_salad_attract_fat_glide_tray_uniform |  
+| bip_39_word_underscore_9 | wagon_trend_salad_attract_fat_glide_tray_uniform_earth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

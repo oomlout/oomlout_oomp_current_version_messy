@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cupboard |  
+| bip_39_word_dash_10 | cupboard-upon-script-right-version-ice-beauty-cricket-bacon-screen |  
+| bip_39_word_dash_11 | cupboard-upon-script-right-version-ice-beauty-cricket-bacon-screen-keen |  
+| bip_39_word_dash_12 | cupboard-upon-script-right-version-ice-beauty-cricket-bacon-screen-keen-arctic |  
+| bip_39_word_dash_2 | cupboard-upon |  
+| bip_39_word_dash_3 | cupboard-upon-script |  
+| bip_39_word_dash_4 | cupboard-upon-script-right |  
+| bip_39_word_dash_5 | cupboard-upon-script-right-version |  
+| bip_39_word_dash_6 | cupboard-upon-script-right-version-ice |  
+| bip_39_word_dash_7 | cupboard-upon-script-right-version-ice-beauty |  
+| bip_39_word_dash_8 | cupboard-upon-script-right-version-ice-beauty-cricket |  
+| bip_39_word_dash_9 | cupboard-upon-script-right-version-ice-beauty-cricket-bacon |  
 | bip_39_word_new_br_1 | cupboard |  
 | bip_39_word_new_br_10 | cupboard<br>upon<br>script<br>right<br>version<br>ice<br>beauty<br>cricket<br>bacon<br>screen |  
 | bip_39_word_new_br_11 | cupboard<br>upon<br>script<br>right<br>version<br>ice<br>beauty<br>cricket<br>bacon<br>screen<br>keen |  
@@ -147,6 +159,18 @@ bacon |
 | bip_39_word_space_7 | cupboard upon script right version ice beauty |  
 | bip_39_word_space_8 | cupboard upon script right version ice beauty cricket |  
 | bip_39_word_space_9 | cupboard upon script right version ice beauty cricket bacon |  
+| bip_39_word_underscore_1 | cupboard |  
+| bip_39_word_underscore_10 | cupboard_upon_script_right_version_ice_beauty_cricket_bacon_screen |  
+| bip_39_word_underscore_11 | cupboard_upon_script_right_version_ice_beauty_cricket_bacon_screen_keen |  
+| bip_39_word_underscore_12 | cupboard_upon_script_right_version_ice_beauty_cricket_bacon_screen_keen_arctic |  
+| bip_39_word_underscore_2 | cupboard_upon |  
+| bip_39_word_underscore_3 | cupboard_upon_script |  
+| bip_39_word_underscore_4 | cupboard_upon_script_right |  
+| bip_39_word_underscore_5 | cupboard_upon_script_right_version |  
+| bip_39_word_underscore_6 | cupboard_upon_script_right_version_ice |  
+| bip_39_word_underscore_7 | cupboard_upon_script_right_version_ice_beauty |  
+| bip_39_word_underscore_8 | cupboard_upon_script_right_version_ice_beauty_cricket |  
+| bip_39_word_underscore_9 | cupboard_upon_script_right_version_ice_beauty_cricket_bacon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

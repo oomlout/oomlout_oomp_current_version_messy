@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | addict |  
+| bip_39_word_dash_10 | addict-fringe-divert-object-field-devote-nominee-refuse-balcony-fragile |  
+| bip_39_word_dash_11 | addict-fringe-divert-object-field-devote-nominee-refuse-balcony-fragile-short |  
+| bip_39_word_dash_12 | addict-fringe-divert-object-field-devote-nominee-refuse-balcony-fragile-short-another |  
+| bip_39_word_dash_2 | addict-fringe |  
+| bip_39_word_dash_3 | addict-fringe-divert |  
+| bip_39_word_dash_4 | addict-fringe-divert-object |  
+| bip_39_word_dash_5 | addict-fringe-divert-object-field |  
+| bip_39_word_dash_6 | addict-fringe-divert-object-field-devote |  
+| bip_39_word_dash_7 | addict-fringe-divert-object-field-devote-nominee |  
+| bip_39_word_dash_8 | addict-fringe-divert-object-field-devote-nominee-refuse |  
+| bip_39_word_dash_9 | addict-fringe-divert-object-field-devote-nominee-refuse-balcony |  
 | bip_39_word_new_br_1 | addict |  
 | bip_39_word_new_br_10 | addict<br>fringe<br>divert<br>object<br>field<br>devote<br>nominee<br>refuse<br>balcony<br>fragile |  
 | bip_39_word_new_br_11 | addict<br>fringe<br>divert<br>object<br>field<br>devote<br>nominee<br>refuse<br>balcony<br>fragile<br>short |  
@@ -147,6 +159,18 @@ balcony |
 | bip_39_word_space_7 | addict fringe divert object field devote nominee |  
 | bip_39_word_space_8 | addict fringe divert object field devote nominee refuse |  
 | bip_39_word_space_9 | addict fringe divert object field devote nominee refuse balcony |  
+| bip_39_word_underscore_1 | addict |  
+| bip_39_word_underscore_10 | addict_fringe_divert_object_field_devote_nominee_refuse_balcony_fragile |  
+| bip_39_word_underscore_11 | addict_fringe_divert_object_field_devote_nominee_refuse_balcony_fragile_short |  
+| bip_39_word_underscore_12 | addict_fringe_divert_object_field_devote_nominee_refuse_balcony_fragile_short_another |  
+| bip_39_word_underscore_2 | addict_fringe |  
+| bip_39_word_underscore_3 | addict_fringe_divert |  
+| bip_39_word_underscore_4 | addict_fringe_divert_object |  
+| bip_39_word_underscore_5 | addict_fringe_divert_object_field |  
+| bip_39_word_underscore_6 | addict_fringe_divert_object_field_devote |  
+| bip_39_word_underscore_7 | addict_fringe_divert_object_field_devote_nominee |  
+| bip_39_word_underscore_8 | addict_fringe_divert_object_field_devote_nominee_refuse |  
+| bip_39_word_underscore_9 | addict_fringe_divert_object_field_devote_nominee_refuse_balcony |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pelican |  
+| bip_39_word_dash_10 | pelican-model-sock-circle-rely-thought-desert-alert-word-toward |  
+| bip_39_word_dash_11 | pelican-model-sock-circle-rely-thought-desert-alert-word-toward-rug |  
+| bip_39_word_dash_2 | pelican-model |  
+| bip_39_word_dash_3 | pelican-model-sock |  
+| bip_39_word_dash_4 | pelican-model-sock-circle |  
+| bip_39_word_dash_5 | pelican-model-sock-circle-rely |  
+| bip_39_word_dash_6 | pelican-model-sock-circle-rely-thought |  
+| bip_39_word_dash_7 | pelican-model-sock-circle-rely-thought-desert |  
+| bip_39_word_dash_8 | pelican-model-sock-circle-rely-thought-desert-alert |  
+| bip_39_word_dash_9 | pelican-model-sock-circle-rely-thought-desert-alert-word |  
 | bip_39_word_new_br_1 | pelican |  
 | bip_39_word_new_br_10 | pelican<br>model<br>sock<br>circle<br>rely<br>thought<br>desert<br>alert<br>word<br>toward |  
 | bip_39_word_new_br_11 | pelican<br>model<br>sock<br>circle<br>rely<br>thought<br>desert<br>alert<br>word<br>toward<br>rug |  
@@ -132,6 +143,17 @@ word |
 | bip_39_word_space_7 | pelican model sock circle rely thought desert |  
 | bip_39_word_space_8 | pelican model sock circle rely thought desert alert |  
 | bip_39_word_space_9 | pelican model sock circle rely thought desert alert word |  
+| bip_39_word_underscore_1 | pelican |  
+| bip_39_word_underscore_10 | pelican_model_sock_circle_rely_thought_desert_alert_word_toward |  
+| bip_39_word_underscore_11 | pelican_model_sock_circle_rely_thought_desert_alert_word_toward_rug |  
+| bip_39_word_underscore_2 | pelican_model |  
+| bip_39_word_underscore_3 | pelican_model_sock |  
+| bip_39_word_underscore_4 | pelican_model_sock_circle |  
+| bip_39_word_underscore_5 | pelican_model_sock_circle_rely |  
+| bip_39_word_underscore_6 | pelican_model_sock_circle_rely_thought |  
+| bip_39_word_underscore_7 | pelican_model_sock_circle_rely_thought_desert |  
+| bip_39_word_underscore_8 | pelican_model_sock_circle_rely_thought_desert_alert |  
+| bip_39_word_underscore_9 | pelican_model_sock_circle_rely_thought_desert_alert_word |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

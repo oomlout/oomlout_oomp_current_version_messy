@@ -1,3 +1,15 @@
+bip_39_word_dash_1: marble
+bip_39_word_dash_10: marble-shy-tomato-toilet-sleep-round-dress-board-ensure-unique
+bip_39_word_dash_11: marble-shy-tomato-toilet-sleep-round-dress-board-ensure-unique-volume
+bip_39_word_dash_12: marble-shy-tomato-toilet-sleep-round-dress-board-ensure-unique-volume-appear
+bip_39_word_dash_2: marble-shy
+bip_39_word_dash_3: marble-shy-tomato
+bip_39_word_dash_4: marble-shy-tomato-toilet
+bip_39_word_dash_5: marble-shy-tomato-toilet-sleep
+bip_39_word_dash_6: marble-shy-tomato-toilet-sleep-round
+bip_39_word_dash_7: marble-shy-tomato-toilet-sleep-round-dress
+bip_39_word_dash_8: marble-shy-tomato-toilet-sleep-round-dress-board
+bip_39_word_dash_9: marble-shy-tomato-toilet-sleep-round-dress-board-ensure
 bip_39_word_new_br_1: marble
 bip_39_word_new_br_10: marble<br>shy<br>tomato<br>toilet<br>sleep<br>round<br>dress<br>board<br>ensure<br>unique
 bip_39_word_new_br_11: marble<br>shy<br>tomato<br>toilet<br>sleep<br>round<br>dress<br>board<br>ensure<br>unique<br>volume
@@ -193,6 +205,18 @@ bip_39_word_space_6: marble shy tomato toilet sleep round
 bip_39_word_space_7: marble shy tomato toilet sleep round dress
 bip_39_word_space_8: marble shy tomato toilet sleep round dress board
 bip_39_word_space_9: marble shy tomato toilet sleep round dress board ensure
+bip_39_word_underscore_1: marble
+bip_39_word_underscore_10: marble_shy_tomato_toilet_sleep_round_dress_board_ensure_unique
+bip_39_word_underscore_11: marble_shy_tomato_toilet_sleep_round_dress_board_ensure_unique_volume
+bip_39_word_underscore_12: marble_shy_tomato_toilet_sleep_round_dress_board_ensure_unique_volume_appear
+bip_39_word_underscore_2: marble_shy
+bip_39_word_underscore_3: marble_shy_tomato
+bip_39_word_underscore_4: marble_shy_tomato_toilet
+bip_39_word_underscore_5: marble_shy_tomato_toilet_sleep
+bip_39_word_underscore_6: marble_shy_tomato_toilet_sleep_round
+bip_39_word_underscore_7: marble_shy_tomato_toilet_sleep_round_dress
+bip_39_word_underscore_8: marble_shy_tomato_toilet_sleep_round_dress_board
+bip_39_word_underscore_9: marble_shy_tomato_toilet_sleep_round_dress_board_ensure
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

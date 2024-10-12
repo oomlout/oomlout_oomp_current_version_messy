@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elegant |  
+| bip_39_word_dash_10 | elegant-tree-relax-skate-egg-busy-evidence-lottery-execute-analyst |  
+| bip_39_word_dash_11 | elegant-tree-relax-skate-egg-busy-evidence-lottery-execute-analyst-ball |  
+| bip_39_word_dash_12 | elegant-tree-relax-skate-egg-busy-evidence-lottery-execute-analyst-ball-abstract |  
+| bip_39_word_dash_2 | elegant-tree |  
+| bip_39_word_dash_3 | elegant-tree-relax |  
+| bip_39_word_dash_4 | elegant-tree-relax-skate |  
+| bip_39_word_dash_5 | elegant-tree-relax-skate-egg |  
+| bip_39_word_dash_6 | elegant-tree-relax-skate-egg-busy |  
+| bip_39_word_dash_7 | elegant-tree-relax-skate-egg-busy-evidence |  
+| bip_39_word_dash_8 | elegant-tree-relax-skate-egg-busy-evidence-lottery |  
+| bip_39_word_dash_9 | elegant-tree-relax-skate-egg-busy-evidence-lottery-execute |  
 | bip_39_word_new_br_1 | elegant |  
 | bip_39_word_new_br_10 | elegant<br>tree<br>relax<br>skate<br>egg<br>busy<br>evidence<br>lottery<br>execute<br>analyst |  
 | bip_39_word_new_br_11 | elegant<br>tree<br>relax<br>skate<br>egg<br>busy<br>evidence<br>lottery<br>execute<br>analyst<br>ball |  
@@ -147,6 +159,18 @@ execute |
 | bip_39_word_space_7 | elegant tree relax skate egg busy evidence |  
 | bip_39_word_space_8 | elegant tree relax skate egg busy evidence lottery |  
 | bip_39_word_space_9 | elegant tree relax skate egg busy evidence lottery execute |  
+| bip_39_word_underscore_1 | elegant |  
+| bip_39_word_underscore_10 | elegant_tree_relax_skate_egg_busy_evidence_lottery_execute_analyst |  
+| bip_39_word_underscore_11 | elegant_tree_relax_skate_egg_busy_evidence_lottery_execute_analyst_ball |  
+| bip_39_word_underscore_12 | elegant_tree_relax_skate_egg_busy_evidence_lottery_execute_analyst_ball_abstract |  
+| bip_39_word_underscore_2 | elegant_tree |  
+| bip_39_word_underscore_3 | elegant_tree_relax |  
+| bip_39_word_underscore_4 | elegant_tree_relax_skate |  
+| bip_39_word_underscore_5 | elegant_tree_relax_skate_egg |  
+| bip_39_word_underscore_6 | elegant_tree_relax_skate_egg_busy |  
+| bip_39_word_underscore_7 | elegant_tree_relax_skate_egg_busy_evidence |  
+| bip_39_word_underscore_8 | elegant_tree_relax_skate_egg_busy_evidence_lottery |  
+| bip_39_word_underscore_9 | elegant_tree_relax_skate_egg_busy_evidence_lottery_execute |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | traffic |  
+| bip_39_word_dash_10 | traffic-census-supreme-intact-brush-alien-rule-perfect-dynamic-outside |  
+| bip_39_word_dash_11 | traffic-census-supreme-intact-brush-alien-rule-perfect-dynamic-outside-rocket |  
+| bip_39_word_dash_12 | traffic-census-supreme-intact-brush-alien-rule-perfect-dynamic-outside-rocket-acquire |  
+| bip_39_word_dash_2 | traffic-census |  
+| bip_39_word_dash_3 | traffic-census-supreme |  
+| bip_39_word_dash_4 | traffic-census-supreme-intact |  
+| bip_39_word_dash_5 | traffic-census-supreme-intact-brush |  
+| bip_39_word_dash_6 | traffic-census-supreme-intact-brush-alien |  
+| bip_39_word_dash_7 | traffic-census-supreme-intact-brush-alien-rule |  
+| bip_39_word_dash_8 | traffic-census-supreme-intact-brush-alien-rule-perfect |  
+| bip_39_word_dash_9 | traffic-census-supreme-intact-brush-alien-rule-perfect-dynamic |  
 | bip_39_word_new_br_1 | traffic |  
 | bip_39_word_new_br_10 | traffic<br>census<br>supreme<br>intact<br>brush<br>alien<br>rule<br>perfect<br>dynamic<br>outside |  
 | bip_39_word_new_br_11 | traffic<br>census<br>supreme<br>intact<br>brush<br>alien<br>rule<br>perfect<br>dynamic<br>outside<br>rocket |  
@@ -147,6 +159,18 @@ dynamic |
 | bip_39_word_space_7 | traffic census supreme intact brush alien rule |  
 | bip_39_word_space_8 | traffic census supreme intact brush alien rule perfect |  
 | bip_39_word_space_9 | traffic census supreme intact brush alien rule perfect dynamic |  
+| bip_39_word_underscore_1 | traffic |  
+| bip_39_word_underscore_10 | traffic_census_supreme_intact_brush_alien_rule_perfect_dynamic_outside |  
+| bip_39_word_underscore_11 | traffic_census_supreme_intact_brush_alien_rule_perfect_dynamic_outside_rocket |  
+| bip_39_word_underscore_12 | traffic_census_supreme_intact_brush_alien_rule_perfect_dynamic_outside_rocket_acquire |  
+| bip_39_word_underscore_2 | traffic_census |  
+| bip_39_word_underscore_3 | traffic_census_supreme |  
+| bip_39_word_underscore_4 | traffic_census_supreme_intact |  
+| bip_39_word_underscore_5 | traffic_census_supreme_intact_brush |  
+| bip_39_word_underscore_6 | traffic_census_supreme_intact_brush_alien |  
+| bip_39_word_underscore_7 | traffic_census_supreme_intact_brush_alien_rule |  
+| bip_39_word_underscore_8 | traffic_census_supreme_intact_brush_alien_rule_perfect |  
+| bip_39_word_underscore_9 | traffic_census_supreme_intact_brush_alien_rule_perfect_dynamic |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

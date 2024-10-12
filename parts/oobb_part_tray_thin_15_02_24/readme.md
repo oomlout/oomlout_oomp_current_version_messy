@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | accident |  
+| bip_39_word_dash_10 | accident-know-assault-dose-seek-liquid-derive-plug-popular-staff |  
+| bip_39_word_dash_11 | accident-know-assault-dose-seek-liquid-derive-plug-popular-staff-balance |  
+| bip_39_word_dash_12 | accident-know-assault-dose-seek-liquid-derive-plug-popular-staff-balance-angry |  
+| bip_39_word_dash_2 | accident-know |  
+| bip_39_word_dash_3 | accident-know-assault |  
+| bip_39_word_dash_4 | accident-know-assault-dose |  
+| bip_39_word_dash_5 | accident-know-assault-dose-seek |  
+| bip_39_word_dash_6 | accident-know-assault-dose-seek-liquid |  
+| bip_39_word_dash_7 | accident-know-assault-dose-seek-liquid-derive |  
+| bip_39_word_dash_8 | accident-know-assault-dose-seek-liquid-derive-plug |  
+| bip_39_word_dash_9 | accident-know-assault-dose-seek-liquid-derive-plug-popular |  
 | bip_39_word_new_br_1 | accident |  
 | bip_39_word_new_br_10 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug<br>popular<br>staff |  
 | bip_39_word_new_br_11 | accident<br>know<br>assault<br>dose<br>seek<br>liquid<br>derive<br>plug<br>popular<br>staff<br>balance |  
@@ -147,6 +159,18 @@ popular |
 | bip_39_word_space_7 | accident know assault dose seek liquid derive |  
 | bip_39_word_space_8 | accident know assault dose seek liquid derive plug |  
 | bip_39_word_space_9 | accident know assault dose seek liquid derive plug popular |  
+| bip_39_word_underscore_1 | accident |  
+| bip_39_word_underscore_10 | accident_know_assault_dose_seek_liquid_derive_plug_popular_staff |  
+| bip_39_word_underscore_11 | accident_know_assault_dose_seek_liquid_derive_plug_popular_staff_balance |  
+| bip_39_word_underscore_12 | accident_know_assault_dose_seek_liquid_derive_plug_popular_staff_balance_angry |  
+| bip_39_word_underscore_2 | accident_know |  
+| bip_39_word_underscore_3 | accident_know_assault |  
+| bip_39_word_underscore_4 | accident_know_assault_dose |  
+| bip_39_word_underscore_5 | accident_know_assault_dose_seek |  
+| bip_39_word_underscore_6 | accident_know_assault_dose_seek_liquid |  
+| bip_39_word_underscore_7 | accident_know_assault_dose_seek_liquid_derive |  
+| bip_39_word_underscore_8 | accident_know_assault_dose_seek_liquid_derive_plug |  
+| bip_39_word_underscore_9 | accident_know_assault_dose_seek_liquid_derive_plug_popular |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

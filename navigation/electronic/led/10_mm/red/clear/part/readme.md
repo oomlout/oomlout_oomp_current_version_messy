@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mention |  
+| bip_39_word_dash_10 | mention-margin-guitar-nice-night-quarter-fault-gorilla-staff-feature |  
+| bip_39_word_dash_11 | mention-margin-guitar-nice-night-quarter-fault-gorilla-staff-feature-meat |  
+| bip_39_word_dash_12 | mention-margin-guitar-nice-night-quarter-fault-gorilla-staff-feature-meat-assist |  
+| bip_39_word_dash_2 | mention-margin |  
+| bip_39_word_dash_3 | mention-margin-guitar |  
+| bip_39_word_dash_4 | mention-margin-guitar-nice |  
+| bip_39_word_dash_5 | mention-margin-guitar-nice-night |  
+| bip_39_word_dash_6 | mention-margin-guitar-nice-night-quarter |  
+| bip_39_word_dash_7 | mention-margin-guitar-nice-night-quarter-fault |  
+| bip_39_word_dash_8 | mention-margin-guitar-nice-night-quarter-fault-gorilla |  
+| bip_39_word_dash_9 | mention-margin-guitar-nice-night-quarter-fault-gorilla-staff |  
 | bip_39_word_new_br_1 | mention |  
 | bip_39_word_new_br_10 | mention<br>margin<br>guitar<br>nice<br>night<br>quarter<br>fault<br>gorilla<br>staff<br>feature |  
 | bip_39_word_new_br_11 | mention<br>margin<br>guitar<br>nice<br>night<br>quarter<br>fault<br>gorilla<br>staff<br>feature<br>meat |  
@@ -147,6 +159,18 @@ staff |
 | bip_39_word_space_7 | mention margin guitar nice night quarter fault |  
 | bip_39_word_space_8 | mention margin guitar nice night quarter fault gorilla |  
 | bip_39_word_space_9 | mention margin guitar nice night quarter fault gorilla staff |  
+| bip_39_word_underscore_1 | mention |  
+| bip_39_word_underscore_10 | mention_margin_guitar_nice_night_quarter_fault_gorilla_staff_feature |  
+| bip_39_word_underscore_11 | mention_margin_guitar_nice_night_quarter_fault_gorilla_staff_feature_meat |  
+| bip_39_word_underscore_12 | mention_margin_guitar_nice_night_quarter_fault_gorilla_staff_feature_meat_assist |  
+| bip_39_word_underscore_2 | mention_margin |  
+| bip_39_word_underscore_3 | mention_margin_guitar |  
+| bip_39_word_underscore_4 | mention_margin_guitar_nice |  
+| bip_39_word_underscore_5 | mention_margin_guitar_nice_night |  
+| bip_39_word_underscore_6 | mention_margin_guitar_nice_night_quarter |  
+| bip_39_word_underscore_7 | mention_margin_guitar_nice_night_quarter_fault |  
+| bip_39_word_underscore_8 | mention_margin_guitar_nice_night_quarter_fault_gorilla |  
+| bip_39_word_underscore_9 | mention_margin_guitar_nice_night_quarter_fault_gorilla_staff |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

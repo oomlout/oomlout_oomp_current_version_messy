@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | expose |  
+| bip_39_word_dash_10 | expose-cargo-question-host-wall-chef-broccoli-endorse-winner-unfold |  
+| bip_39_word_dash_11 | expose-cargo-question-host-wall-chef-broccoli-endorse-winner-unfold-nurse |  
+| bip_39_word_dash_12 | expose-cargo-question-host-wall-chef-broccoli-endorse-winner-unfold-nurse-almost |  
+| bip_39_word_dash_2 | expose-cargo |  
+| bip_39_word_dash_3 | expose-cargo-question |  
+| bip_39_word_dash_4 | expose-cargo-question-host |  
+| bip_39_word_dash_5 | expose-cargo-question-host-wall |  
+| bip_39_word_dash_6 | expose-cargo-question-host-wall-chef |  
+| bip_39_word_dash_7 | expose-cargo-question-host-wall-chef-broccoli |  
+| bip_39_word_dash_8 | expose-cargo-question-host-wall-chef-broccoli-endorse |  
+| bip_39_word_dash_9 | expose-cargo-question-host-wall-chef-broccoli-endorse-winner |  
 | bip_39_word_new_br_1 | expose |  
 | bip_39_word_new_br_10 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse<br>winner<br>unfold |  
 | bip_39_word_new_br_11 | expose<br>cargo<br>question<br>host<br>wall<br>chef<br>broccoli<br>endorse<br>winner<br>unfold<br>nurse |  
@@ -147,6 +159,18 @@ winner |
 | bip_39_word_space_7 | expose cargo question host wall chef broccoli |  
 | bip_39_word_space_8 | expose cargo question host wall chef broccoli endorse |  
 | bip_39_word_space_9 | expose cargo question host wall chef broccoli endorse winner |  
+| bip_39_word_underscore_1 | expose |  
+| bip_39_word_underscore_10 | expose_cargo_question_host_wall_chef_broccoli_endorse_winner_unfold |  
+| bip_39_word_underscore_11 | expose_cargo_question_host_wall_chef_broccoli_endorse_winner_unfold_nurse |  
+| bip_39_word_underscore_12 | expose_cargo_question_host_wall_chef_broccoli_endorse_winner_unfold_nurse_almost |  
+| bip_39_word_underscore_2 | expose_cargo |  
+| bip_39_word_underscore_3 | expose_cargo_question |  
+| bip_39_word_underscore_4 | expose_cargo_question_host |  
+| bip_39_word_underscore_5 | expose_cargo_question_host_wall |  
+| bip_39_word_underscore_6 | expose_cargo_question_host_wall_chef |  
+| bip_39_word_underscore_7 | expose_cargo_question_host_wall_chef_broccoli |  
+| bip_39_word_underscore_8 | expose_cargo_question_host_wall_chef_broccoli_endorse |  
+| bip_39_word_underscore_9 | expose_cargo_question_host_wall_chef_broccoli_endorse_winner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

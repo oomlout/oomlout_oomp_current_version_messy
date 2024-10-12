@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | disagree |  
+| bip_39_word_dash_10 | disagree-small-ship-divert-relax-hidden-food-door-still-vacant |  
+| bip_39_word_dash_11 | disagree-small-ship-divert-relax-hidden-food-door-still-vacant-pumpkin |  
+| bip_39_word_dash_12 | disagree-small-ship-divert-relax-hidden-food-door-still-vacant-pumpkin-amazing |  
+| bip_39_word_dash_2 | disagree-small |  
+| bip_39_word_dash_3 | disagree-small-ship |  
+| bip_39_word_dash_4 | disagree-small-ship-divert |  
+| bip_39_word_dash_5 | disagree-small-ship-divert-relax |  
+| bip_39_word_dash_6 | disagree-small-ship-divert-relax-hidden |  
+| bip_39_word_dash_7 | disagree-small-ship-divert-relax-hidden-food |  
+| bip_39_word_dash_8 | disagree-small-ship-divert-relax-hidden-food-door |  
+| bip_39_word_dash_9 | disagree-small-ship-divert-relax-hidden-food-door-still |  
 | bip_39_word_new_br_1 | disagree |  
 | bip_39_word_new_br_10 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door<br>still<br>vacant |  
 | bip_39_word_new_br_11 | disagree<br>small<br>ship<br>divert<br>relax<br>hidden<br>food<br>door<br>still<br>vacant<br>pumpkin |  
@@ -147,6 +159,18 @@ still |
 | bip_39_word_space_7 | disagree small ship divert relax hidden food |  
 | bip_39_word_space_8 | disagree small ship divert relax hidden food door |  
 | bip_39_word_space_9 | disagree small ship divert relax hidden food door still |  
+| bip_39_word_underscore_1 | disagree |  
+| bip_39_word_underscore_10 | disagree_small_ship_divert_relax_hidden_food_door_still_vacant |  
+| bip_39_word_underscore_11 | disagree_small_ship_divert_relax_hidden_food_door_still_vacant_pumpkin |  
+| bip_39_word_underscore_12 | disagree_small_ship_divert_relax_hidden_food_door_still_vacant_pumpkin_amazing |  
+| bip_39_word_underscore_2 | disagree_small |  
+| bip_39_word_underscore_3 | disagree_small_ship |  
+| bip_39_word_underscore_4 | disagree_small_ship_divert |  
+| bip_39_word_underscore_5 | disagree_small_ship_divert_relax |  
+| bip_39_word_underscore_6 | disagree_small_ship_divert_relax_hidden |  
+| bip_39_word_underscore_7 | disagree_small_ship_divert_relax_hidden_food |  
+| bip_39_word_underscore_8 | disagree_small_ship_divert_relax_hidden_food_door |  
+| bip_39_word_underscore_9 | disagree_small_ship_divert_relax_hidden_food_door_still |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

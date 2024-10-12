@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | adult |  
+| bip_39_word_dash_10 | adult-alert-merit-comfort-blast-kingdom-neck-elder-field-allow |  
+| bip_39_word_dash_11 | adult-alert-merit-comfort-blast-kingdom-neck-elder-field-allow-ancient |  
+| bip_39_word_dash_12 | adult-alert-merit-comfort-blast-kingdom-neck-elder-field-allow-ancient-artwork |  
+| bip_39_word_dash_2 | adult-alert |  
+| bip_39_word_dash_3 | adult-alert-merit |  
+| bip_39_word_dash_4 | adult-alert-merit-comfort |  
+| bip_39_word_dash_5 | adult-alert-merit-comfort-blast |  
+| bip_39_word_dash_6 | adult-alert-merit-comfort-blast-kingdom |  
+| bip_39_word_dash_7 | adult-alert-merit-comfort-blast-kingdom-neck |  
+| bip_39_word_dash_8 | adult-alert-merit-comfort-blast-kingdom-neck-elder |  
+| bip_39_word_dash_9 | adult-alert-merit-comfort-blast-kingdom-neck-elder-field |  
 | bip_39_word_new_br_1 | adult |  
 | bip_39_word_new_br_10 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder<br>field<br>allow |  
 | bip_39_word_new_br_11 | adult<br>alert<br>merit<br>comfort<br>blast<br>kingdom<br>neck<br>elder<br>field<br>allow<br>ancient |  
@@ -147,6 +159,18 @@ field |
 | bip_39_word_space_7 | adult alert merit comfort blast kingdom neck |  
 | bip_39_word_space_8 | adult alert merit comfort blast kingdom neck elder |  
 | bip_39_word_space_9 | adult alert merit comfort blast kingdom neck elder field |  
+| bip_39_word_underscore_1 | adult |  
+| bip_39_word_underscore_10 | adult_alert_merit_comfort_blast_kingdom_neck_elder_field_allow |  
+| bip_39_word_underscore_11 | adult_alert_merit_comfort_blast_kingdom_neck_elder_field_allow_ancient |  
+| bip_39_word_underscore_12 | adult_alert_merit_comfort_blast_kingdom_neck_elder_field_allow_ancient_artwork |  
+| bip_39_word_underscore_2 | adult_alert |  
+| bip_39_word_underscore_3 | adult_alert_merit |  
+| bip_39_word_underscore_4 | adult_alert_merit_comfort |  
+| bip_39_word_underscore_5 | adult_alert_merit_comfort_blast |  
+| bip_39_word_underscore_6 | adult_alert_merit_comfort_blast_kingdom |  
+| bip_39_word_underscore_7 | adult_alert_merit_comfort_blast_kingdom_neck |  
+| bip_39_word_underscore_8 | adult_alert_merit_comfort_blast_kingdom_neck_elder |  
+| bip_39_word_underscore_9 | adult_alert_merit_comfort_blast_kingdom_neck_elder_field |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

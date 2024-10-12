@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | segment |  
+| bip_39_word_dash_10 | segment-erupt-woman-twin-hello-song-three-cost-audit-unknown |  
+| bip_39_word_dash_11 | segment-erupt-woman-twin-hello-song-three-cost-audit-unknown-cancel |  
+| bip_39_word_dash_12 | segment-erupt-woman-twin-hello-song-three-cost-audit-unknown-cancel-aspect |  
+| bip_39_word_dash_2 | segment-erupt |  
+| bip_39_word_dash_3 | segment-erupt-woman |  
+| bip_39_word_dash_4 | segment-erupt-woman-twin |  
+| bip_39_word_dash_5 | segment-erupt-woman-twin-hello |  
+| bip_39_word_dash_6 | segment-erupt-woman-twin-hello-song |  
+| bip_39_word_dash_7 | segment-erupt-woman-twin-hello-song-three |  
+| bip_39_word_dash_8 | segment-erupt-woman-twin-hello-song-three-cost |  
+| bip_39_word_dash_9 | segment-erupt-woman-twin-hello-song-three-cost-audit |  
 | bip_39_word_new_br_1 | segment |  
 | bip_39_word_new_br_10 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown |  
 | bip_39_word_new_br_11 | segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown<br>cancel |  
@@ -147,6 +159,18 @@ audit |
 | bip_39_word_space_7 | segment erupt woman twin hello song three |  
 | bip_39_word_space_8 | segment erupt woman twin hello song three cost |  
 | bip_39_word_space_9 | segment erupt woman twin hello song three cost audit |  
+| bip_39_word_underscore_1 | segment |  
+| bip_39_word_underscore_10 | segment_erupt_woman_twin_hello_song_three_cost_audit_unknown |  
+| bip_39_word_underscore_11 | segment_erupt_woman_twin_hello_song_three_cost_audit_unknown_cancel |  
+| bip_39_word_underscore_12 | segment_erupt_woman_twin_hello_song_three_cost_audit_unknown_cancel_aspect |  
+| bip_39_word_underscore_2 | segment_erupt |  
+| bip_39_word_underscore_3 | segment_erupt_woman |  
+| bip_39_word_underscore_4 | segment_erupt_woman_twin |  
+| bip_39_word_underscore_5 | segment_erupt_woman_twin_hello |  
+| bip_39_word_underscore_6 | segment_erupt_woman_twin_hello_song |  
+| bip_39_word_underscore_7 | segment_erupt_woman_twin_hello_song_three |  
+| bip_39_word_underscore_8 | segment_erupt_woman_twin_hello_song_three_cost |  
+| bip_39_word_underscore_9 | segment_erupt_woman_twin_hello_song_three_cost_audit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

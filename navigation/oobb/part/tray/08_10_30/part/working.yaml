@@ -1,3 +1,15 @@
+bip_39_word_dash_1: expire
+bip_39_word_dash_10: expire-whale-narrow-alert-learn-demand-make-mass-build-rude
+bip_39_word_dash_11: expire-whale-narrow-alert-learn-demand-make-mass-build-rude-violin
+bip_39_word_dash_12: expire-whale-narrow-alert-learn-demand-make-mass-build-rude-violin-ability
+bip_39_word_dash_2: expire-whale
+bip_39_word_dash_3: expire-whale-narrow
+bip_39_word_dash_4: expire-whale-narrow-alert
+bip_39_word_dash_5: expire-whale-narrow-alert-learn
+bip_39_word_dash_6: expire-whale-narrow-alert-learn-demand
+bip_39_word_dash_7: expire-whale-narrow-alert-learn-demand-make
+bip_39_word_dash_8: expire-whale-narrow-alert-learn-demand-make-mass
+bip_39_word_dash_9: expire-whale-narrow-alert-learn-demand-make-mass-build
 bip_39_word_new_br_1: expire
 bip_39_word_new_br_10: expire<br>whale<br>narrow<br>alert<br>learn<br>demand<br>make<br>mass<br>build<br>rude
 bip_39_word_new_br_11: expire<br>whale<br>narrow<br>alert<br>learn<br>demand<br>make<br>mass<br>build<br>rude<br>violin
@@ -193,6 +205,18 @@ bip_39_word_space_6: expire whale narrow alert learn demand
 bip_39_word_space_7: expire whale narrow alert learn demand make
 bip_39_word_space_8: expire whale narrow alert learn demand make mass
 bip_39_word_space_9: expire whale narrow alert learn demand make mass build
+bip_39_word_underscore_1: expire
+bip_39_word_underscore_10: expire_whale_narrow_alert_learn_demand_make_mass_build_rude
+bip_39_word_underscore_11: expire_whale_narrow_alert_learn_demand_make_mass_build_rude_violin
+bip_39_word_underscore_12: expire_whale_narrow_alert_learn_demand_make_mass_build_rude_violin_ability
+bip_39_word_underscore_2: expire_whale
+bip_39_word_underscore_3: expire_whale_narrow
+bip_39_word_underscore_4: expire_whale_narrow_alert
+bip_39_word_underscore_5: expire_whale_narrow_alert_learn
+bip_39_word_underscore_6: expire_whale_narrow_alert_learn_demand
+bip_39_word_underscore_7: expire_whale_narrow_alert_learn_demand_make
+bip_39_word_underscore_8: expire_whale_narrow_alert_learn_demand_make_mass
+bip_39_word_underscore_9: expire_whale_narrow_alert_learn_demand_make_mass_build
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

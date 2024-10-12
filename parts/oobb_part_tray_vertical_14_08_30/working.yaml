@@ -1,3 +1,15 @@
+bip_39_word_dash_1: old
+bip_39_word_dash_10: old-execute-unhappy-arctic-wink-crane-chair-museum-razor-pulp
+bip_39_word_dash_11: old-execute-unhappy-arctic-wink-crane-chair-museum-razor-pulp-armed
+bip_39_word_dash_12: old-execute-unhappy-arctic-wink-crane-chair-museum-razor-pulp-armed-ankle
+bip_39_word_dash_2: old-execute
+bip_39_word_dash_3: old-execute-unhappy
+bip_39_word_dash_4: old-execute-unhappy-arctic
+bip_39_word_dash_5: old-execute-unhappy-arctic-wink
+bip_39_word_dash_6: old-execute-unhappy-arctic-wink-crane
+bip_39_word_dash_7: old-execute-unhappy-arctic-wink-crane-chair
+bip_39_word_dash_8: old-execute-unhappy-arctic-wink-crane-chair-museum
+bip_39_word_dash_9: old-execute-unhappy-arctic-wink-crane-chair-museum-razor
 bip_39_word_new_br_1: old
 bip_39_word_new_br_10: old<br>execute<br>unhappy<br>arctic<br>wink<br>crane<br>chair<br>museum<br>razor<br>pulp
 bip_39_word_new_br_11: old<br>execute<br>unhappy<br>arctic<br>wink<br>crane<br>chair<br>museum<br>razor<br>pulp<br>armed
@@ -193,6 +205,18 @@ bip_39_word_space_6: old execute unhappy arctic wink crane
 bip_39_word_space_7: old execute unhappy arctic wink crane chair
 bip_39_word_space_8: old execute unhappy arctic wink crane chair museum
 bip_39_word_space_9: old execute unhappy arctic wink crane chair museum razor
+bip_39_word_underscore_1: old
+bip_39_word_underscore_10: old_execute_unhappy_arctic_wink_crane_chair_museum_razor_pulp
+bip_39_word_underscore_11: old_execute_unhappy_arctic_wink_crane_chair_museum_razor_pulp_armed
+bip_39_word_underscore_12: old_execute_unhappy_arctic_wink_crane_chair_museum_razor_pulp_armed_ankle
+bip_39_word_underscore_2: old_execute
+bip_39_word_underscore_3: old_execute_unhappy
+bip_39_word_underscore_4: old_execute_unhappy_arctic
+bip_39_word_underscore_5: old_execute_unhappy_arctic_wink
+bip_39_word_underscore_6: old_execute_unhappy_arctic_wink_crane
+bip_39_word_underscore_7: old_execute_unhappy_arctic_wink_crane_chair
+bip_39_word_underscore_8: old_execute_unhappy_arctic_wink_crane_chair_museum
+bip_39_word_underscore_9: old_execute_unhappy_arctic_wink_crane_chair_museum_razor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

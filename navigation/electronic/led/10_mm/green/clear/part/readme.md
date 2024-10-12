@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | attitude |  
+| bip_39_word_dash_10 | attitude-dice-boat-moment-remind-mule-own-fine-box-elite |  
+| bip_39_word_dash_11 | attitude-dice-boat-moment-remind-mule-own-fine-box-elite-monitor |  
+| bip_39_word_dash_12 | attitude-dice-boat-moment-remind-mule-own-fine-box-elite-monitor-air |  
+| bip_39_word_dash_2 | attitude-dice |  
+| bip_39_word_dash_3 | attitude-dice-boat |  
+| bip_39_word_dash_4 | attitude-dice-boat-moment |  
+| bip_39_word_dash_5 | attitude-dice-boat-moment-remind |  
+| bip_39_word_dash_6 | attitude-dice-boat-moment-remind-mule |  
+| bip_39_word_dash_7 | attitude-dice-boat-moment-remind-mule-own |  
+| bip_39_word_dash_8 | attitude-dice-boat-moment-remind-mule-own-fine |  
+| bip_39_word_dash_9 | attitude-dice-boat-moment-remind-mule-own-fine-box |  
 | bip_39_word_new_br_1 | attitude |  
 | bip_39_word_new_br_10 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine<br>box<br>elite |  
 | bip_39_word_new_br_11 | attitude<br>dice<br>boat<br>moment<br>remind<br>mule<br>own<br>fine<br>box<br>elite<br>monitor |  
@@ -147,6 +159,18 @@ box |
 | bip_39_word_space_7 | attitude dice boat moment remind mule own |  
 | bip_39_word_space_8 | attitude dice boat moment remind mule own fine |  
 | bip_39_word_space_9 | attitude dice boat moment remind mule own fine box |  
+| bip_39_word_underscore_1 | attitude |  
+| bip_39_word_underscore_10 | attitude_dice_boat_moment_remind_mule_own_fine_box_elite |  
+| bip_39_word_underscore_11 | attitude_dice_boat_moment_remind_mule_own_fine_box_elite_monitor |  
+| bip_39_word_underscore_12 | attitude_dice_boat_moment_remind_mule_own_fine_box_elite_monitor_air |  
+| bip_39_word_underscore_2 | attitude_dice |  
+| bip_39_word_underscore_3 | attitude_dice_boat |  
+| bip_39_word_underscore_4 | attitude_dice_boat_moment |  
+| bip_39_word_underscore_5 | attitude_dice_boat_moment_remind |  
+| bip_39_word_underscore_6 | attitude_dice_boat_moment_remind_mule |  
+| bip_39_word_underscore_7 | attitude_dice_boat_moment_remind_mule_own |  
+| bip_39_word_underscore_8 | attitude_dice_boat_moment_remind_mule_own_fine |  
+| bip_39_word_underscore_9 | attitude_dice_boat_moment_remind_mule_own_fine_box |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

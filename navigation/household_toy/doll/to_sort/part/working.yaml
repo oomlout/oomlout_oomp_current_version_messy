@@ -1,3 +1,15 @@
+bip_39_word_dash_1: now
+bip_39_word_dash_10: now-cradle-record-inform-affair-boost-tomato-thing-describe-obey
+bip_39_word_dash_11: now-cradle-record-inform-affair-boost-tomato-thing-describe-obey-ride
+bip_39_word_dash_12: now-cradle-record-inform-affair-boost-tomato-thing-describe-obey-ride-arrow
+bip_39_word_dash_2: now-cradle
+bip_39_word_dash_3: now-cradle-record
+bip_39_word_dash_4: now-cradle-record-inform
+bip_39_word_dash_5: now-cradle-record-inform-affair
+bip_39_word_dash_6: now-cradle-record-inform-affair-boost
+bip_39_word_dash_7: now-cradle-record-inform-affair-boost-tomato
+bip_39_word_dash_8: now-cradle-record-inform-affair-boost-tomato-thing
+bip_39_word_dash_9: now-cradle-record-inform-affair-boost-tomato-thing-describe
 bip_39_word_new_br_1: now
 bip_39_word_new_br_10: now<br>cradle<br>record<br>inform<br>affair<br>boost<br>tomato<br>thing<br>describe<br>obey
 bip_39_word_new_br_11: now<br>cradle<br>record<br>inform<br>affair<br>boost<br>tomato<br>thing<br>describe<br>obey<br>ride
@@ -194,6 +206,18 @@ bip_39_word_space_6: now cradle record inform affair boost
 bip_39_word_space_7: now cradle record inform affair boost tomato
 bip_39_word_space_8: now cradle record inform affair boost tomato thing
 bip_39_word_space_9: now cradle record inform affair boost tomato thing describe
+bip_39_word_underscore_1: now
+bip_39_word_underscore_10: now_cradle_record_inform_affair_boost_tomato_thing_describe_obey
+bip_39_word_underscore_11: now_cradle_record_inform_affair_boost_tomato_thing_describe_obey_ride
+bip_39_word_underscore_12: now_cradle_record_inform_affair_boost_tomato_thing_describe_obey_ride_arrow
+bip_39_word_underscore_2: now_cradle
+bip_39_word_underscore_3: now_cradle_record
+bip_39_word_underscore_4: now_cradle_record_inform
+bip_39_word_underscore_5: now_cradle_record_inform_affair
+bip_39_word_underscore_6: now_cradle_record_inform_affair_boost
+bip_39_word_underscore_7: now_cradle_record_inform_affair_boost_tomato
+bip_39_word_underscore_8: now_cradle_record_inform_affair_boost_tomato_thing
+bip_39_word_underscore_9: now_cradle_record_inform_affair_boost_tomato_thing_describe
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

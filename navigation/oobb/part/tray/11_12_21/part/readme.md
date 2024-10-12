@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gossip |  
+| bip_39_word_dash_10 | gossip-column-way-swear-letter-kitchen-boil-follow-edge-slim |  
+| bip_39_word_dash_11 | gossip-column-way-swear-letter-kitchen-boil-follow-edge-slim-night |  
+| bip_39_word_dash_12 | gossip-column-way-swear-letter-kitchen-boil-follow-edge-slim-night-affair |  
+| bip_39_word_dash_2 | gossip-column |  
+| bip_39_word_dash_3 | gossip-column-way |  
+| bip_39_word_dash_4 | gossip-column-way-swear |  
+| bip_39_word_dash_5 | gossip-column-way-swear-letter |  
+| bip_39_word_dash_6 | gossip-column-way-swear-letter-kitchen |  
+| bip_39_word_dash_7 | gossip-column-way-swear-letter-kitchen-boil |  
+| bip_39_word_dash_8 | gossip-column-way-swear-letter-kitchen-boil-follow |  
+| bip_39_word_dash_9 | gossip-column-way-swear-letter-kitchen-boil-follow-edge |  
 | bip_39_word_new_br_1 | gossip |  
 | bip_39_word_new_br_10 | gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim |  
 | bip_39_word_new_br_11 | gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim<br>night |  
@@ -147,6 +159,18 @@ edge |
 | bip_39_word_space_7 | gossip column way swear letter kitchen boil |  
 | bip_39_word_space_8 | gossip column way swear letter kitchen boil follow |  
 | bip_39_word_space_9 | gossip column way swear letter kitchen boil follow edge |  
+| bip_39_word_underscore_1 | gossip |  
+| bip_39_word_underscore_10 | gossip_column_way_swear_letter_kitchen_boil_follow_edge_slim |  
+| bip_39_word_underscore_11 | gossip_column_way_swear_letter_kitchen_boil_follow_edge_slim_night |  
+| bip_39_word_underscore_12 | gossip_column_way_swear_letter_kitchen_boil_follow_edge_slim_night_affair |  
+| bip_39_word_underscore_2 | gossip_column |  
+| bip_39_word_underscore_3 | gossip_column_way |  
+| bip_39_word_underscore_4 | gossip_column_way_swear |  
+| bip_39_word_underscore_5 | gossip_column_way_swear_letter |  
+| bip_39_word_underscore_6 | gossip_column_way_swear_letter_kitchen |  
+| bip_39_word_underscore_7 | gossip_column_way_swear_letter_kitchen_boil |  
+| bip_39_word_underscore_8 | gossip_column_way_swear_letter_kitchen_boil_follow |  
+| bip_39_word_underscore_9 | gossip_column_way_swear_letter_kitchen_boil_follow_edge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: helmet
+bip_39_word_dash_10: helmet-syrup-already-club-quality-style-liberty-liar-sugar-price
+bip_39_word_dash_11: helmet-syrup-already-club-quality-style-liberty-liar-sugar-price-ethics
+bip_39_word_dash_12: helmet-syrup-already-club-quality-style-liberty-liar-sugar-price-ethics-army
+bip_39_word_dash_2: helmet-syrup
+bip_39_word_dash_3: helmet-syrup-already
+bip_39_word_dash_4: helmet-syrup-already-club
+bip_39_word_dash_5: helmet-syrup-already-club-quality
+bip_39_word_dash_6: helmet-syrup-already-club-quality-style
+bip_39_word_dash_7: helmet-syrup-already-club-quality-style-liberty
+bip_39_word_dash_8: helmet-syrup-already-club-quality-style-liberty-liar
+bip_39_word_dash_9: helmet-syrup-already-club-quality-style-liberty-liar-sugar
 bip_39_word_new_br_1: helmet
 bip_39_word_new_br_10: helmet<br>syrup<br>already<br>club<br>quality<br>style<br>liberty<br>liar<br>sugar<br>price
 bip_39_word_new_br_11: helmet<br>syrup<br>already<br>club<br>quality<br>style<br>liberty<br>liar<br>sugar<br>price<br>ethics
@@ -193,6 +205,18 @@ bip_39_word_space_6: helmet syrup already club quality style
 bip_39_word_space_7: helmet syrup already club quality style liberty
 bip_39_word_space_8: helmet syrup already club quality style liberty liar
 bip_39_word_space_9: helmet syrup already club quality style liberty liar sugar
+bip_39_word_underscore_1: helmet
+bip_39_word_underscore_10: helmet_syrup_already_club_quality_style_liberty_liar_sugar_price
+bip_39_word_underscore_11: helmet_syrup_already_club_quality_style_liberty_liar_sugar_price_ethics
+bip_39_word_underscore_12: helmet_syrup_already_club_quality_style_liberty_liar_sugar_price_ethics_army
+bip_39_word_underscore_2: helmet_syrup
+bip_39_word_underscore_3: helmet_syrup_already
+bip_39_word_underscore_4: helmet_syrup_already_club
+bip_39_word_underscore_5: helmet_syrup_already_club_quality
+bip_39_word_underscore_6: helmet_syrup_already_club_quality_style
+bip_39_word_underscore_7: helmet_syrup_already_club_quality_style_liberty
+bip_39_word_underscore_8: helmet_syrup_already_club_quality_style_liberty_liar
+bip_39_word_underscore_9: helmet_syrup_already_club_quality_style_liberty_liar_sugar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

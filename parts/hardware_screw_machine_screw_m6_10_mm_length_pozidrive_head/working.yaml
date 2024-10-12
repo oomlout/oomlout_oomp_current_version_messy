@@ -1,3 +1,14 @@
+bip_39_word_dash_1: pause
+bip_39_word_dash_10: pause-romance-wasp-strategy-poet-narrow-wash-firm-cloth-surge
+bip_39_word_dash_11: pause-romance-wasp-strategy-poet-narrow-wash-firm-cloth-surge-rifle
+bip_39_word_dash_2: pause-romance
+bip_39_word_dash_3: pause-romance-wasp
+bip_39_word_dash_4: pause-romance-wasp-strategy
+bip_39_word_dash_5: pause-romance-wasp-strategy-poet
+bip_39_word_dash_6: pause-romance-wasp-strategy-poet-narrow
+bip_39_word_dash_7: pause-romance-wasp-strategy-poet-narrow-wash
+bip_39_word_dash_8: pause-romance-wasp-strategy-poet-narrow-wash-firm
+bip_39_word_dash_9: pause-romance-wasp-strategy-poet-narrow-wash-firm-cloth
 bip_39_word_new_br_1: pause
 bip_39_word_new_br_10: pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth<br>surge
 bip_39_word_new_br_11: pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth<br>surge<br>rifle
@@ -165,6 +176,17 @@ bip_39_word_space_6: pause romance wasp strategy poet narrow
 bip_39_word_space_7: pause romance wasp strategy poet narrow wash
 bip_39_word_space_8: pause romance wasp strategy poet narrow wash firm
 bip_39_word_space_9: pause romance wasp strategy poet narrow wash firm cloth
+bip_39_word_underscore_1: pause
+bip_39_word_underscore_10: pause_romance_wasp_strategy_poet_narrow_wash_firm_cloth_surge
+bip_39_word_underscore_11: pause_romance_wasp_strategy_poet_narrow_wash_firm_cloth_surge_rifle
+bip_39_word_underscore_2: pause_romance
+bip_39_word_underscore_3: pause_romance_wasp
+bip_39_word_underscore_4: pause_romance_wasp_strategy
+bip_39_word_underscore_5: pause_romance_wasp_strategy_poet
+bip_39_word_underscore_6: pause_romance_wasp_strategy_poet_narrow
+bip_39_word_underscore_7: pause_romance_wasp_strategy_poet_narrow_wash
+bip_39_word_underscore_8: pause_romance_wasp_strategy_poet_narrow_wash_firm
+bip_39_word_underscore_9: pause_romance_wasp_strategy_poet_narrow_wash_firm_cloth
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

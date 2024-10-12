@@ -1,3 +1,15 @@
+bip_39_word_dash_1: devote
+bip_39_word_dash_10: devote-enforce-mansion-random-mushroom-stamp-fix-bronze-race-blush
+bip_39_word_dash_11: devote-enforce-mansion-random-mushroom-stamp-fix-bronze-race-blush-yard
+bip_39_word_dash_12: devote-enforce-mansion-random-mushroom-stamp-fix-bronze-race-blush-yard-artefact
+bip_39_word_dash_2: devote-enforce
+bip_39_word_dash_3: devote-enforce-mansion
+bip_39_word_dash_4: devote-enforce-mansion-random
+bip_39_word_dash_5: devote-enforce-mansion-random-mushroom
+bip_39_word_dash_6: devote-enforce-mansion-random-mushroom-stamp
+bip_39_word_dash_7: devote-enforce-mansion-random-mushroom-stamp-fix
+bip_39_word_dash_8: devote-enforce-mansion-random-mushroom-stamp-fix-bronze
+bip_39_word_dash_9: devote-enforce-mansion-random-mushroom-stamp-fix-bronze-race
 bip_39_word_new_br_1: devote
 bip_39_word_new_br_10: devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze<br>race<br>blush
 bip_39_word_new_br_11: devote<br>enforce<br>mansion<br>random<br>mushroom<br>stamp<br>fix<br>bronze<br>race<br>blush<br>yard
@@ -194,6 +206,18 @@ bip_39_word_space_6: devote enforce mansion random mushroom stamp
 bip_39_word_space_7: devote enforce mansion random mushroom stamp fix
 bip_39_word_space_8: devote enforce mansion random mushroom stamp fix bronze
 bip_39_word_space_9: devote enforce mansion random mushroom stamp fix bronze race
+bip_39_word_underscore_1: devote
+bip_39_word_underscore_10: devote_enforce_mansion_random_mushroom_stamp_fix_bronze_race_blush
+bip_39_word_underscore_11: devote_enforce_mansion_random_mushroom_stamp_fix_bronze_race_blush_yard
+bip_39_word_underscore_12: devote_enforce_mansion_random_mushroom_stamp_fix_bronze_race_blush_yard_artefact
+bip_39_word_underscore_2: devote_enforce
+bip_39_word_underscore_3: devote_enforce_mansion
+bip_39_word_underscore_4: devote_enforce_mansion_random
+bip_39_word_underscore_5: devote_enforce_mansion_random_mushroom
+bip_39_word_underscore_6: devote_enforce_mansion_random_mushroom_stamp
+bip_39_word_underscore_7: devote_enforce_mansion_random_mushroom_stamp_fix
+bip_39_word_underscore_8: devote_enforce_mansion_random_mushroom_stamp_fix_bronze
+bip_39_word_underscore_9: devote_enforce_mansion_random_mushroom_stamp_fix_bronze_race
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

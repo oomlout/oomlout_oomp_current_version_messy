@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | true |  
+| bip_39_word_dash_10 | true-ring-say-suffer-owner-nation-bind-grab-useless-inside |  
+| bip_39_word_dash_11 | true-ring-say-suffer-owner-nation-bind-grab-useless-inside-hospital |  
+| bip_39_word_dash_12 | true-ring-say-suffer-owner-nation-bind-grab-useless-inside-hospital-august |  
+| bip_39_word_dash_2 | true-ring |  
+| bip_39_word_dash_3 | true-ring-say |  
+| bip_39_word_dash_4 | true-ring-say-suffer |  
+| bip_39_word_dash_5 | true-ring-say-suffer-owner |  
+| bip_39_word_dash_6 | true-ring-say-suffer-owner-nation |  
+| bip_39_word_dash_7 | true-ring-say-suffer-owner-nation-bind |  
+| bip_39_word_dash_8 | true-ring-say-suffer-owner-nation-bind-grab |  
+| bip_39_word_dash_9 | true-ring-say-suffer-owner-nation-bind-grab-useless |  
 | bip_39_word_new_br_1 | true |  
 | bip_39_word_new_br_10 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside |  
 | bip_39_word_new_br_11 | true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside<br>hospital |  
@@ -147,6 +159,18 @@ useless |
 | bip_39_word_space_7 | true ring say suffer owner nation bind |  
 | bip_39_word_space_8 | true ring say suffer owner nation bind grab |  
 | bip_39_word_space_9 | true ring say suffer owner nation bind grab useless |  
+| bip_39_word_underscore_1 | true |  
+| bip_39_word_underscore_10 | true_ring_say_suffer_owner_nation_bind_grab_useless_inside |  
+| bip_39_word_underscore_11 | true_ring_say_suffer_owner_nation_bind_grab_useless_inside_hospital |  
+| bip_39_word_underscore_12 | true_ring_say_suffer_owner_nation_bind_grab_useless_inside_hospital_august |  
+| bip_39_word_underscore_2 | true_ring |  
+| bip_39_word_underscore_3 | true_ring_say |  
+| bip_39_word_underscore_4 | true_ring_say_suffer |  
+| bip_39_word_underscore_5 | true_ring_say_suffer_owner |  
+| bip_39_word_underscore_6 | true_ring_say_suffer_owner_nation |  
+| bip_39_word_underscore_7 | true_ring_say_suffer_owner_nation_bind |  
+| bip_39_word_underscore_8 | true_ring_say_suffer_owner_nation_bind_grab |  
+| bip_39_word_underscore_9 | true_ring_say_suffer_owner_nation_bind_grab_useless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

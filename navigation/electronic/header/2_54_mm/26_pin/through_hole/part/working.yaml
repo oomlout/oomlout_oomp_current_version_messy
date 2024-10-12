@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stomach
+bip_39_word_dash_10: stomach-group-enroll-flock-leopard-elbow-tribe-unusual-output-random
+bip_39_word_dash_11: stomach-group-enroll-flock-leopard-elbow-tribe-unusual-output-random-describe
+bip_39_word_dash_12: stomach-group-enroll-flock-leopard-elbow-tribe-unusual-output-random-describe-actual
+bip_39_word_dash_2: stomach-group
+bip_39_word_dash_3: stomach-group-enroll
+bip_39_word_dash_4: stomach-group-enroll-flock
+bip_39_word_dash_5: stomach-group-enroll-flock-leopard
+bip_39_word_dash_6: stomach-group-enroll-flock-leopard-elbow
+bip_39_word_dash_7: stomach-group-enroll-flock-leopard-elbow-tribe
+bip_39_word_dash_8: stomach-group-enroll-flock-leopard-elbow-tribe-unusual
+bip_39_word_dash_9: stomach-group-enroll-flock-leopard-elbow-tribe-unusual-output
 bip_39_word_new_br_1: stomach
 bip_39_word_new_br_10: stomach<br>group<br>enroll<br>flock<br>leopard<br>elbow<br>tribe<br>unusual<br>output<br>random
 bip_39_word_new_br_11: stomach<br>group<br>enroll<br>flock<br>leopard<br>elbow<br>tribe<br>unusual<br>output<br>random<br>describe
@@ -194,6 +206,18 @@ bip_39_word_space_6: stomach group enroll flock leopard elbow
 bip_39_word_space_7: stomach group enroll flock leopard elbow tribe
 bip_39_word_space_8: stomach group enroll flock leopard elbow tribe unusual
 bip_39_word_space_9: stomach group enroll flock leopard elbow tribe unusual output
+bip_39_word_underscore_1: stomach
+bip_39_word_underscore_10: stomach_group_enroll_flock_leopard_elbow_tribe_unusual_output_random
+bip_39_word_underscore_11: stomach_group_enroll_flock_leopard_elbow_tribe_unusual_output_random_describe
+bip_39_word_underscore_12: stomach_group_enroll_flock_leopard_elbow_tribe_unusual_output_random_describe_actual
+bip_39_word_underscore_2: stomach_group
+bip_39_word_underscore_3: stomach_group_enroll
+bip_39_word_underscore_4: stomach_group_enroll_flock
+bip_39_word_underscore_5: stomach_group_enroll_flock_leopard
+bip_39_word_underscore_6: stomach_group_enroll_flock_leopard_elbow
+bip_39_word_underscore_7: stomach_group_enroll_flock_leopard_elbow_tribe
+bip_39_word_underscore_8: stomach_group_enroll_flock_leopard_elbow_tribe_unusual
+bip_39_word_underscore_9: stomach_group_enroll_flock_leopard_elbow_tribe_unusual_output
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

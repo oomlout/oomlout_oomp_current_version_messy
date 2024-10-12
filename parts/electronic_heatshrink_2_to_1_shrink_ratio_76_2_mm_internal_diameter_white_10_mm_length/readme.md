@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | visual |  
+| bip_39_word_dash_10 | visual-tobacco-journey-outside-summer-flame-funny-depth-salute-top |  
+| bip_39_word_dash_11 | visual-tobacco-journey-outside-summer-flame-funny-depth-salute-top-feed |  
+| bip_39_word_dash_12 | visual-tobacco-journey-outside-summer-flame-funny-depth-salute-top-feed-apple |  
+| bip_39_word_dash_2 | visual-tobacco |  
+| bip_39_word_dash_3 | visual-tobacco-journey |  
+| bip_39_word_dash_4 | visual-tobacco-journey-outside |  
+| bip_39_word_dash_5 | visual-tobacco-journey-outside-summer |  
+| bip_39_word_dash_6 | visual-tobacco-journey-outside-summer-flame |  
+| bip_39_word_dash_7 | visual-tobacco-journey-outside-summer-flame-funny |  
+| bip_39_word_dash_8 | visual-tobacco-journey-outside-summer-flame-funny-depth |  
+| bip_39_word_dash_9 | visual-tobacco-journey-outside-summer-flame-funny-depth-salute |  
 | bip_39_word_new_br_1 | visual |  
 | bip_39_word_new_br_10 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top |  
 | bip_39_word_new_br_11 | visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top<br>feed |  
@@ -147,6 +159,18 @@ salute |
 | bip_39_word_space_7 | visual tobacco journey outside summer flame funny |  
 | bip_39_word_space_8 | visual tobacco journey outside summer flame funny depth |  
 | bip_39_word_space_9 | visual tobacco journey outside summer flame funny depth salute |  
+| bip_39_word_underscore_1 | visual |  
+| bip_39_word_underscore_10 | visual_tobacco_journey_outside_summer_flame_funny_depth_salute_top |  
+| bip_39_word_underscore_11 | visual_tobacco_journey_outside_summer_flame_funny_depth_salute_top_feed |  
+| bip_39_word_underscore_12 | visual_tobacco_journey_outside_summer_flame_funny_depth_salute_top_feed_apple |  
+| bip_39_word_underscore_2 | visual_tobacco |  
+| bip_39_word_underscore_3 | visual_tobacco_journey |  
+| bip_39_word_underscore_4 | visual_tobacco_journey_outside |  
+| bip_39_word_underscore_5 | visual_tobacco_journey_outside_summer |  
+| bip_39_word_underscore_6 | visual_tobacco_journey_outside_summer_flame |  
+| bip_39_word_underscore_7 | visual_tobacco_journey_outside_summer_flame_funny |  
+| bip_39_word_underscore_8 | visual_tobacco_journey_outside_summer_flame_funny_depth |  
+| bip_39_word_underscore_9 | visual_tobacco_journey_outside_summer_flame_funny_depth_salute |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

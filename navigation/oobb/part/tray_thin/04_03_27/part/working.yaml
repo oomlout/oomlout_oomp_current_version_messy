@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spider
+bip_39_word_dash_10: spider-devote-purpose-tortoise-worth-wet-believe-polar-trial-asthma
+bip_39_word_dash_11: spider-devote-purpose-tortoise-worth-wet-believe-polar-trial-asthma-merit
+bip_39_word_dash_12: spider-devote-purpose-tortoise-worth-wet-believe-polar-trial-asthma-merit-access
+bip_39_word_dash_2: spider-devote
+bip_39_word_dash_3: spider-devote-purpose
+bip_39_word_dash_4: spider-devote-purpose-tortoise
+bip_39_word_dash_5: spider-devote-purpose-tortoise-worth
+bip_39_word_dash_6: spider-devote-purpose-tortoise-worth-wet
+bip_39_word_dash_7: spider-devote-purpose-tortoise-worth-wet-believe
+bip_39_word_dash_8: spider-devote-purpose-tortoise-worth-wet-believe-polar
+bip_39_word_dash_9: spider-devote-purpose-tortoise-worth-wet-believe-polar-trial
 bip_39_word_new_br_1: spider
 bip_39_word_new_br_10: spider<br>devote<br>purpose<br>tortoise<br>worth<br>wet<br>believe<br>polar<br>trial<br>asthma
 bip_39_word_new_br_11: spider<br>devote<br>purpose<br>tortoise<br>worth<br>wet<br>believe<br>polar<br>trial<br>asthma<br>merit
@@ -194,6 +206,18 @@ bip_39_word_space_6: spider devote purpose tortoise worth wet
 bip_39_word_space_7: spider devote purpose tortoise worth wet believe
 bip_39_word_space_8: spider devote purpose tortoise worth wet believe polar
 bip_39_word_space_9: spider devote purpose tortoise worth wet believe polar trial
+bip_39_word_underscore_1: spider
+bip_39_word_underscore_10: spider_devote_purpose_tortoise_worth_wet_believe_polar_trial_asthma
+bip_39_word_underscore_11: spider_devote_purpose_tortoise_worth_wet_believe_polar_trial_asthma_merit
+bip_39_word_underscore_12: spider_devote_purpose_tortoise_worth_wet_believe_polar_trial_asthma_merit_access
+bip_39_word_underscore_2: spider_devote
+bip_39_word_underscore_3: spider_devote_purpose
+bip_39_word_underscore_4: spider_devote_purpose_tortoise
+bip_39_word_underscore_5: spider_devote_purpose_tortoise_worth
+bip_39_word_underscore_6: spider_devote_purpose_tortoise_worth_wet
+bip_39_word_underscore_7: spider_devote_purpose_tortoise_worth_wet_believe
+bip_39_word_underscore_8: spider_devote_purpose_tortoise_worth_wet_believe_polar
+bip_39_word_underscore_9: spider_devote_purpose_tortoise_worth_wet_believe_polar_trial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

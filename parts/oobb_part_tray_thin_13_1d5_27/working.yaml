@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cute
+bip_39_word_dash_10: cute-fish-move-engage-thunder-broken-vicious-chase-advance-labor
+bip_39_word_dash_11: cute-fish-move-engage-thunder-broken-vicious-chase-advance-labor-casual
+bip_39_word_dash_12: cute-fish-move-engage-thunder-broken-vicious-chase-advance-labor-casual-audit
+bip_39_word_dash_2: cute-fish
+bip_39_word_dash_3: cute-fish-move
+bip_39_word_dash_4: cute-fish-move-engage
+bip_39_word_dash_5: cute-fish-move-engage-thunder
+bip_39_word_dash_6: cute-fish-move-engage-thunder-broken
+bip_39_word_dash_7: cute-fish-move-engage-thunder-broken-vicious
+bip_39_word_dash_8: cute-fish-move-engage-thunder-broken-vicious-chase
+bip_39_word_dash_9: cute-fish-move-engage-thunder-broken-vicious-chase-advance
 bip_39_word_new_br_1: cute
 bip_39_word_new_br_10: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor
 bip_39_word_new_br_11: cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor<br>casual
@@ -193,6 +205,18 @@ bip_39_word_space_6: cute fish move engage thunder broken
 bip_39_word_space_7: cute fish move engage thunder broken vicious
 bip_39_word_space_8: cute fish move engage thunder broken vicious chase
 bip_39_word_space_9: cute fish move engage thunder broken vicious chase advance
+bip_39_word_underscore_1: cute
+bip_39_word_underscore_10: cute_fish_move_engage_thunder_broken_vicious_chase_advance_labor
+bip_39_word_underscore_11: cute_fish_move_engage_thunder_broken_vicious_chase_advance_labor_casual
+bip_39_word_underscore_12: cute_fish_move_engage_thunder_broken_vicious_chase_advance_labor_casual_audit
+bip_39_word_underscore_2: cute_fish
+bip_39_word_underscore_3: cute_fish_move
+bip_39_word_underscore_4: cute_fish_move_engage
+bip_39_word_underscore_5: cute_fish_move_engage_thunder
+bip_39_word_underscore_6: cute_fish_move_engage_thunder_broken
+bip_39_word_underscore_7: cute_fish_move_engage_thunder_broken_vicious
+bip_39_word_underscore_8: cute_fish_move_engage_thunder_broken_vicious_chase
+bip_39_word_underscore_9: cute_fish_move_engage_thunder_broken_vicious_chase_advance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: practice
+bip_39_word_dash_10: practice-soap-outer-vintage-ceiling-fault-place-garage-capable-donate
+bip_39_word_dash_11: practice-soap-outer-vintage-ceiling-fault-place-garage-capable-donate-summer
+bip_39_word_dash_12: practice-soap-outer-vintage-ceiling-fault-place-garage-capable-donate-summer-aisle
+bip_39_word_dash_2: practice-soap
+bip_39_word_dash_3: practice-soap-outer
+bip_39_word_dash_4: practice-soap-outer-vintage
+bip_39_word_dash_5: practice-soap-outer-vintage-ceiling
+bip_39_word_dash_6: practice-soap-outer-vintage-ceiling-fault
+bip_39_word_dash_7: practice-soap-outer-vintage-ceiling-fault-place
+bip_39_word_dash_8: practice-soap-outer-vintage-ceiling-fault-place-garage
+bip_39_word_dash_9: practice-soap-outer-vintage-ceiling-fault-place-garage-capable
 bip_39_word_new_br_1: practice
 bip_39_word_new_br_10: practice<br>soap<br>outer<br>vintage<br>ceiling<br>fault<br>place<br>garage<br>capable<br>donate
 bip_39_word_new_br_11: practice<br>soap<br>outer<br>vintage<br>ceiling<br>fault<br>place<br>garage<br>capable<br>donate<br>summer
@@ -194,6 +206,18 @@ bip_39_word_space_6: practice soap outer vintage ceiling fault
 bip_39_word_space_7: practice soap outer vintage ceiling fault place
 bip_39_word_space_8: practice soap outer vintage ceiling fault place garage
 bip_39_word_space_9: practice soap outer vintage ceiling fault place garage capable
+bip_39_word_underscore_1: practice
+bip_39_word_underscore_10: practice_soap_outer_vintage_ceiling_fault_place_garage_capable_donate
+bip_39_word_underscore_11: practice_soap_outer_vintage_ceiling_fault_place_garage_capable_donate_summer
+bip_39_word_underscore_12: practice_soap_outer_vintage_ceiling_fault_place_garage_capable_donate_summer_aisle
+bip_39_word_underscore_2: practice_soap
+bip_39_word_underscore_3: practice_soap_outer
+bip_39_word_underscore_4: practice_soap_outer_vintage
+bip_39_word_underscore_5: practice_soap_outer_vintage_ceiling
+bip_39_word_underscore_6: practice_soap_outer_vintage_ceiling_fault
+bip_39_word_underscore_7: practice_soap_outer_vintage_ceiling_fault_place
+bip_39_word_underscore_8: practice_soap_outer_vintage_ceiling_fault_place_garage
+bip_39_word_underscore_9: practice_soap_outer_vintage_ceiling_fault_place_garage_capable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

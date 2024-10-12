@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | layer |  
+| bip_39_word_dash_10 | layer-steak-impose-ignore-horn-manage-slot-employ-match-author |  
+| bip_39_word_dash_11 | layer-steak-impose-ignore-horn-manage-slot-employ-match-author-category |  
+| bip_39_word_dash_12 | layer-steak-impose-ignore-horn-manage-slot-employ-match-author-category-advice |  
+| bip_39_word_dash_2 | layer-steak |  
+| bip_39_word_dash_3 | layer-steak-impose |  
+| bip_39_word_dash_4 | layer-steak-impose-ignore |  
+| bip_39_word_dash_5 | layer-steak-impose-ignore-horn |  
+| bip_39_word_dash_6 | layer-steak-impose-ignore-horn-manage |  
+| bip_39_word_dash_7 | layer-steak-impose-ignore-horn-manage-slot |  
+| bip_39_word_dash_8 | layer-steak-impose-ignore-horn-manage-slot-employ |  
+| bip_39_word_dash_9 | layer-steak-impose-ignore-horn-manage-slot-employ-match |  
 | bip_39_word_new_br_1 | layer |  
 | bip_39_word_new_br_10 | layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ<br>match<br>author |  
 | bip_39_word_new_br_11 | layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ<br>match<br>author<br>category |  
@@ -147,6 +159,18 @@ match |
 | bip_39_word_space_7 | layer steak impose ignore horn manage slot |  
 | bip_39_word_space_8 | layer steak impose ignore horn manage slot employ |  
 | bip_39_word_space_9 | layer steak impose ignore horn manage slot employ match |  
+| bip_39_word_underscore_1 | layer |  
+| bip_39_word_underscore_10 | layer_steak_impose_ignore_horn_manage_slot_employ_match_author |  
+| bip_39_word_underscore_11 | layer_steak_impose_ignore_horn_manage_slot_employ_match_author_category |  
+| bip_39_word_underscore_12 | layer_steak_impose_ignore_horn_manage_slot_employ_match_author_category_advice |  
+| bip_39_word_underscore_2 | layer_steak |  
+| bip_39_word_underscore_3 | layer_steak_impose |  
+| bip_39_word_underscore_4 | layer_steak_impose_ignore |  
+| bip_39_word_underscore_5 | layer_steak_impose_ignore_horn |  
+| bip_39_word_underscore_6 | layer_steak_impose_ignore_horn_manage |  
+| bip_39_word_underscore_7 | layer_steak_impose_ignore_horn_manage_slot |  
+| bip_39_word_underscore_8 | layer_steak_impose_ignore_horn_manage_slot_employ |  
+| bip_39_word_underscore_9 | layer_steak_impose_ignore_horn_manage_slot_employ_match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

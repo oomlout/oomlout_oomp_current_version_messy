@@ -1,3 +1,15 @@
+bip_39_word_dash_1: citizen
+bip_39_word_dash_10: citizen-endless-lady-clay-mandate-benefit-month-spawn-dove-twice
+bip_39_word_dash_11: citizen-endless-lady-clay-mandate-benefit-month-spawn-dove-twice-spray
+bip_39_word_dash_12: citizen-endless-lady-clay-mandate-benefit-month-spawn-dove-twice-spray-apology
+bip_39_word_dash_2: citizen-endless
+bip_39_word_dash_3: citizen-endless-lady
+bip_39_word_dash_4: citizen-endless-lady-clay
+bip_39_word_dash_5: citizen-endless-lady-clay-mandate
+bip_39_word_dash_6: citizen-endless-lady-clay-mandate-benefit
+bip_39_word_dash_7: citizen-endless-lady-clay-mandate-benefit-month
+bip_39_word_dash_8: citizen-endless-lady-clay-mandate-benefit-month-spawn
+bip_39_word_dash_9: citizen-endless-lady-clay-mandate-benefit-month-spawn-dove
 bip_39_word_new_br_1: citizen
 bip_39_word_new_br_10: citizen<br>endless<br>lady<br>clay<br>mandate<br>benefit<br>month<br>spawn<br>dove<br>twice
 bip_39_word_new_br_11: citizen<br>endless<br>lady<br>clay<br>mandate<br>benefit<br>month<br>spawn<br>dove<br>twice<br>spray
@@ -193,6 +205,18 @@ bip_39_word_space_6: citizen endless lady clay mandate benefit
 bip_39_word_space_7: citizen endless lady clay mandate benefit month
 bip_39_word_space_8: citizen endless lady clay mandate benefit month spawn
 bip_39_word_space_9: citizen endless lady clay mandate benefit month spawn dove
+bip_39_word_underscore_1: citizen
+bip_39_word_underscore_10: citizen_endless_lady_clay_mandate_benefit_month_spawn_dove_twice
+bip_39_word_underscore_11: citizen_endless_lady_clay_mandate_benefit_month_spawn_dove_twice_spray
+bip_39_word_underscore_12: citizen_endless_lady_clay_mandate_benefit_month_spawn_dove_twice_spray_apology
+bip_39_word_underscore_2: citizen_endless
+bip_39_word_underscore_3: citizen_endless_lady
+bip_39_word_underscore_4: citizen_endless_lady_clay
+bip_39_word_underscore_5: citizen_endless_lady_clay_mandate
+bip_39_word_underscore_6: citizen_endless_lady_clay_mandate_benefit
+bip_39_word_underscore_7: citizen_endless_lady_clay_mandate_benefit_month
+bip_39_word_underscore_8: citizen_endless_lady_clay_mandate_benefit_month_spawn
+bip_39_word_underscore_9: citizen_endless_lady_clay_mandate_benefit_month_spawn_dove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

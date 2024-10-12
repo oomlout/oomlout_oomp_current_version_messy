@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bid |  
+| bip_39_word_dash_10 | bid-opinion-affair-attend-detail-table-stamp-alter-average-pottery |  
+| bip_39_word_dash_11 | bid-opinion-affair-attend-detail-table-stamp-alter-average-pottery-phrase |  
+| bip_39_word_dash_12 | bid-opinion-affair-attend-detail-table-stamp-alter-average-pottery-phrase-access |  
+| bip_39_word_dash_2 | bid-opinion |  
+| bip_39_word_dash_3 | bid-opinion-affair |  
+| bip_39_word_dash_4 | bid-opinion-affair-attend |  
+| bip_39_word_dash_5 | bid-opinion-affair-attend-detail |  
+| bip_39_word_dash_6 | bid-opinion-affair-attend-detail-table |  
+| bip_39_word_dash_7 | bid-opinion-affair-attend-detail-table-stamp |  
+| bip_39_word_dash_8 | bid-opinion-affair-attend-detail-table-stamp-alter |  
+| bip_39_word_dash_9 | bid-opinion-affair-attend-detail-table-stamp-alter-average |  
 | bip_39_word_new_br_1 | bid |  
 | bip_39_word_new_br_10 | bid<br>opinion<br>affair<br>attend<br>detail<br>table<br>stamp<br>alter<br>average<br>pottery |  
 | bip_39_word_new_br_11 | bid<br>opinion<br>affair<br>attend<br>detail<br>table<br>stamp<br>alter<br>average<br>pottery<br>phrase |  
@@ -147,6 +159,18 @@ average |
 | bip_39_word_space_7 | bid opinion affair attend detail table stamp |  
 | bip_39_word_space_8 | bid opinion affair attend detail table stamp alter |  
 | bip_39_word_space_9 | bid opinion affair attend detail table stamp alter average |  
+| bip_39_word_underscore_1 | bid |  
+| bip_39_word_underscore_10 | bid_opinion_affair_attend_detail_table_stamp_alter_average_pottery |  
+| bip_39_word_underscore_11 | bid_opinion_affair_attend_detail_table_stamp_alter_average_pottery_phrase |  
+| bip_39_word_underscore_12 | bid_opinion_affair_attend_detail_table_stamp_alter_average_pottery_phrase_access |  
+| bip_39_word_underscore_2 | bid_opinion |  
+| bip_39_word_underscore_3 | bid_opinion_affair |  
+| bip_39_word_underscore_4 | bid_opinion_affair_attend |  
+| bip_39_word_underscore_5 | bid_opinion_affair_attend_detail |  
+| bip_39_word_underscore_6 | bid_opinion_affair_attend_detail_table |  
+| bip_39_word_underscore_7 | bid_opinion_affair_attend_detail_table_stamp |  
+| bip_39_word_underscore_8 | bid_opinion_affair_attend_detail_table_stamp_alter |  
+| bip_39_word_underscore_9 | bid_opinion_affair_attend_detail_table_stamp_alter_average |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

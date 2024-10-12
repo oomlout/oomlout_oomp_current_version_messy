@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shine |  
+| bip_39_word_dash_10 | shine-erode-shoulder-gravity-air-trial-meadow-mushroom-inhale-quarter |  
+| bip_39_word_dash_11 | shine-erode-shoulder-gravity-air-trial-meadow-mushroom-inhale-quarter-damp |  
+| bip_39_word_dash_12 | shine-erode-shoulder-gravity-air-trial-meadow-mushroom-inhale-quarter-damp-artefact |  
+| bip_39_word_dash_2 | shine-erode |  
+| bip_39_word_dash_3 | shine-erode-shoulder |  
+| bip_39_word_dash_4 | shine-erode-shoulder-gravity |  
+| bip_39_word_dash_5 | shine-erode-shoulder-gravity-air |  
+| bip_39_word_dash_6 | shine-erode-shoulder-gravity-air-trial |  
+| bip_39_word_dash_7 | shine-erode-shoulder-gravity-air-trial-meadow |  
+| bip_39_word_dash_8 | shine-erode-shoulder-gravity-air-trial-meadow-mushroom |  
+| bip_39_word_dash_9 | shine-erode-shoulder-gravity-air-trial-meadow-mushroom-inhale |  
 | bip_39_word_new_br_1 | shine |  
 | bip_39_word_new_br_10 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter |  
 | bip_39_word_new_br_11 | shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter<br>damp |  
@@ -147,6 +159,18 @@ inhale |
 | bip_39_word_space_7 | shine erode shoulder gravity air trial meadow |  
 | bip_39_word_space_8 | shine erode shoulder gravity air trial meadow mushroom |  
 | bip_39_word_space_9 | shine erode shoulder gravity air trial meadow mushroom inhale |  
+| bip_39_word_underscore_1 | shine |  
+| bip_39_word_underscore_10 | shine_erode_shoulder_gravity_air_trial_meadow_mushroom_inhale_quarter |  
+| bip_39_word_underscore_11 | shine_erode_shoulder_gravity_air_trial_meadow_mushroom_inhale_quarter_damp |  
+| bip_39_word_underscore_12 | shine_erode_shoulder_gravity_air_trial_meadow_mushroom_inhale_quarter_damp_artefact |  
+| bip_39_word_underscore_2 | shine_erode |  
+| bip_39_word_underscore_3 | shine_erode_shoulder |  
+| bip_39_word_underscore_4 | shine_erode_shoulder_gravity |  
+| bip_39_word_underscore_5 | shine_erode_shoulder_gravity_air |  
+| bip_39_word_underscore_6 | shine_erode_shoulder_gravity_air_trial |  
+| bip_39_word_underscore_7 | shine_erode_shoulder_gravity_air_trial_meadow |  
+| bip_39_word_underscore_8 | shine_erode_shoulder_gravity_air_trial_meadow_mushroom |  
+| bip_39_word_underscore_9 | shine_erode_shoulder_gravity_air_trial_meadow_mushroom_inhale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jazz |  
+| bip_39_word_dash_10 | jazz-summer-upgrade-cruel-top-unhappy-pilot-private-fence-invite |  
+| bip_39_word_dash_11 | jazz-summer-upgrade-cruel-top-unhappy-pilot-private-fence-invite-admit |  
+| bip_39_word_dash_12 | jazz-summer-upgrade-cruel-top-unhappy-pilot-private-fence-invite-admit-all |  
+| bip_39_word_dash_2 | jazz-summer |  
+| bip_39_word_dash_3 | jazz-summer-upgrade |  
+| bip_39_word_dash_4 | jazz-summer-upgrade-cruel |  
+| bip_39_word_dash_5 | jazz-summer-upgrade-cruel-top |  
+| bip_39_word_dash_6 | jazz-summer-upgrade-cruel-top-unhappy |  
+| bip_39_word_dash_7 | jazz-summer-upgrade-cruel-top-unhappy-pilot |  
+| bip_39_word_dash_8 | jazz-summer-upgrade-cruel-top-unhappy-pilot-private |  
+| bip_39_word_dash_9 | jazz-summer-upgrade-cruel-top-unhappy-pilot-private-fence |  
 | bip_39_word_new_br_1 | jazz |  
 | bip_39_word_new_br_10 | jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private<br>fence<br>invite |  
 | bip_39_word_new_br_11 | jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private<br>fence<br>invite<br>admit |  
@@ -147,6 +159,18 @@ fence |
 | bip_39_word_space_7 | jazz summer upgrade cruel top unhappy pilot |  
 | bip_39_word_space_8 | jazz summer upgrade cruel top unhappy pilot private |  
 | bip_39_word_space_9 | jazz summer upgrade cruel top unhappy pilot private fence |  
+| bip_39_word_underscore_1 | jazz |  
+| bip_39_word_underscore_10 | jazz_summer_upgrade_cruel_top_unhappy_pilot_private_fence_invite |  
+| bip_39_word_underscore_11 | jazz_summer_upgrade_cruel_top_unhappy_pilot_private_fence_invite_admit |  
+| bip_39_word_underscore_12 | jazz_summer_upgrade_cruel_top_unhappy_pilot_private_fence_invite_admit_all |  
+| bip_39_word_underscore_2 | jazz_summer |  
+| bip_39_word_underscore_3 | jazz_summer_upgrade |  
+| bip_39_word_underscore_4 | jazz_summer_upgrade_cruel |  
+| bip_39_word_underscore_5 | jazz_summer_upgrade_cruel_top |  
+| bip_39_word_underscore_6 | jazz_summer_upgrade_cruel_top_unhappy |  
+| bip_39_word_underscore_7 | jazz_summer_upgrade_cruel_top_unhappy_pilot |  
+| bip_39_word_underscore_8 | jazz_summer_upgrade_cruel_top_unhappy_pilot_private |  
+| bip_39_word_underscore_9 | jazz_summer_upgrade_cruel_top_unhappy_pilot_private_fence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

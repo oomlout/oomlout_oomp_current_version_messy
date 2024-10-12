@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | smart |  
+| bip_39_word_dash_10 | smart-wealth-emotion-man-love-unique-raven-immense-razor-spoil |  
+| bip_39_word_dash_11 | smart-wealth-emotion-man-love-unique-raven-immense-razor-spoil-champion |  
+| bip_39_word_dash_12 | smart-wealth-emotion-man-love-unique-raven-immense-razor-spoil-champion-aspect |  
+| bip_39_word_dash_2 | smart-wealth |  
+| bip_39_word_dash_3 | smart-wealth-emotion |  
+| bip_39_word_dash_4 | smart-wealth-emotion-man |  
+| bip_39_word_dash_5 | smart-wealth-emotion-man-love |  
+| bip_39_word_dash_6 | smart-wealth-emotion-man-love-unique |  
+| bip_39_word_dash_7 | smart-wealth-emotion-man-love-unique-raven |  
+| bip_39_word_dash_8 | smart-wealth-emotion-man-love-unique-raven-immense |  
+| bip_39_word_dash_9 | smart-wealth-emotion-man-love-unique-raven-immense-razor |  
 | bip_39_word_new_br_1 | smart |  
 | bip_39_word_new_br_10 | smart<br>wealth<br>emotion<br>man<br>love<br>unique<br>raven<br>immense<br>razor<br>spoil |  
 | bip_39_word_new_br_11 | smart<br>wealth<br>emotion<br>man<br>love<br>unique<br>raven<br>immense<br>razor<br>spoil<br>champion |  
@@ -147,6 +159,18 @@ razor |
 | bip_39_word_space_7 | smart wealth emotion man love unique raven |  
 | bip_39_word_space_8 | smart wealth emotion man love unique raven immense |  
 | bip_39_word_space_9 | smart wealth emotion man love unique raven immense razor |  
+| bip_39_word_underscore_1 | smart |  
+| bip_39_word_underscore_10 | smart_wealth_emotion_man_love_unique_raven_immense_razor_spoil |  
+| bip_39_word_underscore_11 | smart_wealth_emotion_man_love_unique_raven_immense_razor_spoil_champion |  
+| bip_39_word_underscore_12 | smart_wealth_emotion_man_love_unique_raven_immense_razor_spoil_champion_aspect |  
+| bip_39_word_underscore_2 | smart_wealth |  
+| bip_39_word_underscore_3 | smart_wealth_emotion |  
+| bip_39_word_underscore_4 | smart_wealth_emotion_man |  
+| bip_39_word_underscore_5 | smart_wealth_emotion_man_love |  
+| bip_39_word_underscore_6 | smart_wealth_emotion_man_love_unique |  
+| bip_39_word_underscore_7 | smart_wealth_emotion_man_love_unique_raven |  
+| bip_39_word_underscore_8 | smart_wealth_emotion_man_love_unique_raven_immense |  
+| bip_39_word_underscore_9 | smart_wealth_emotion_man_love_unique_raven_immense_razor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

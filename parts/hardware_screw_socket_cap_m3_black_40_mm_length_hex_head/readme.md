@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | length |  
+| bip_39_word_dash_10 | length-city-tape-chaos-repair-domain-govern-lecture-tomato-ribbon |  
+| bip_39_word_dash_11 | length-city-tape-chaos-repair-domain-govern-lecture-tomato-ribbon-opinion |  
+| bip_39_word_dash_12 | length-city-tape-chaos-repair-domain-govern-lecture-tomato-ribbon-opinion-anger |  
+| bip_39_word_dash_2 | length-city |  
+| bip_39_word_dash_3 | length-city-tape |  
+| bip_39_word_dash_4 | length-city-tape-chaos |  
+| bip_39_word_dash_5 | length-city-tape-chaos-repair |  
+| bip_39_word_dash_6 | length-city-tape-chaos-repair-domain |  
+| bip_39_word_dash_7 | length-city-tape-chaos-repair-domain-govern |  
+| bip_39_word_dash_8 | length-city-tape-chaos-repair-domain-govern-lecture |  
+| bip_39_word_dash_9 | length-city-tape-chaos-repair-domain-govern-lecture-tomato |  
 | bip_39_word_new_br_1 | length |  
 | bip_39_word_new_br_10 | length<br>city<br>tape<br>chaos<br>repair<br>domain<br>govern<br>lecture<br>tomato<br>ribbon |  
 | bip_39_word_new_br_11 | length<br>city<br>tape<br>chaos<br>repair<br>domain<br>govern<br>lecture<br>tomato<br>ribbon<br>opinion |  
@@ -147,6 +159,18 @@ tomato |
 | bip_39_word_space_7 | length city tape chaos repair domain govern |  
 | bip_39_word_space_8 | length city tape chaos repair domain govern lecture |  
 | bip_39_word_space_9 | length city tape chaos repair domain govern lecture tomato |  
+| bip_39_word_underscore_1 | length |  
+| bip_39_word_underscore_10 | length_city_tape_chaos_repair_domain_govern_lecture_tomato_ribbon |  
+| bip_39_word_underscore_11 | length_city_tape_chaos_repair_domain_govern_lecture_tomato_ribbon_opinion |  
+| bip_39_word_underscore_12 | length_city_tape_chaos_repair_domain_govern_lecture_tomato_ribbon_opinion_anger |  
+| bip_39_word_underscore_2 | length_city |  
+| bip_39_word_underscore_3 | length_city_tape |  
+| bip_39_word_underscore_4 | length_city_tape_chaos |  
+| bip_39_word_underscore_5 | length_city_tape_chaos_repair |  
+| bip_39_word_underscore_6 | length_city_tape_chaos_repair_domain |  
+| bip_39_word_underscore_7 | length_city_tape_chaos_repair_domain_govern |  
+| bip_39_word_underscore_8 | length_city_tape_chaos_repair_domain_govern_lecture |  
+| bip_39_word_underscore_9 | length_city_tape_chaos_repair_domain_govern_lecture_tomato |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | giant |  
+| bip_39_word_dash_10 | giant-domain-risk-stuff-similar-jeans-arm-boring-security-travel |  
+| bip_39_word_dash_11 | giant-domain-risk-stuff-similar-jeans-arm-boring-security-travel-misery |  
+| bip_39_word_dash_12 | giant-domain-risk-stuff-similar-jeans-arm-boring-security-travel-misery-approve |  
+| bip_39_word_dash_2 | giant-domain |  
+| bip_39_word_dash_3 | giant-domain-risk |  
+| bip_39_word_dash_4 | giant-domain-risk-stuff |  
+| bip_39_word_dash_5 | giant-domain-risk-stuff-similar |  
+| bip_39_word_dash_6 | giant-domain-risk-stuff-similar-jeans |  
+| bip_39_word_dash_7 | giant-domain-risk-stuff-similar-jeans-arm |  
+| bip_39_word_dash_8 | giant-domain-risk-stuff-similar-jeans-arm-boring |  
+| bip_39_word_dash_9 | giant-domain-risk-stuff-similar-jeans-arm-boring-security |  
 | bip_39_word_new_br_1 | giant |  
 | bip_39_word_new_br_10 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring<br>security<br>travel |  
 | bip_39_word_new_br_11 | giant<br>domain<br>risk<br>stuff<br>similar<br>jeans<br>arm<br>boring<br>security<br>travel<br>misery |  
@@ -147,6 +159,18 @@ security |
 | bip_39_word_space_7 | giant domain risk stuff similar jeans arm |  
 | bip_39_word_space_8 | giant domain risk stuff similar jeans arm boring |  
 | bip_39_word_space_9 | giant domain risk stuff similar jeans arm boring security |  
+| bip_39_word_underscore_1 | giant |  
+| bip_39_word_underscore_10 | giant_domain_risk_stuff_similar_jeans_arm_boring_security_travel |  
+| bip_39_word_underscore_11 | giant_domain_risk_stuff_similar_jeans_arm_boring_security_travel_misery |  
+| bip_39_word_underscore_12 | giant_domain_risk_stuff_similar_jeans_arm_boring_security_travel_misery_approve |  
+| bip_39_word_underscore_2 | giant_domain |  
+| bip_39_word_underscore_3 | giant_domain_risk |  
+| bip_39_word_underscore_4 | giant_domain_risk_stuff |  
+| bip_39_word_underscore_5 | giant_domain_risk_stuff_similar |  
+| bip_39_word_underscore_6 | giant_domain_risk_stuff_similar_jeans |  
+| bip_39_word_underscore_7 | giant_domain_risk_stuff_similar_jeans_arm |  
+| bip_39_word_underscore_8 | giant_domain_risk_stuff_similar_jeans_arm_boring |  
+| bip_39_word_underscore_9 | giant_domain_risk_stuff_similar_jeans_arm_boring_security |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

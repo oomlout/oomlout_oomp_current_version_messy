@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mansion
+bip_39_word_dash_10: mansion-borrow-quality-wild-armed-pepper-brave-paper-syrup-void
+bip_39_word_dash_11: mansion-borrow-quality-wild-armed-pepper-brave-paper-syrup-void-slender
+bip_39_word_dash_12: mansion-borrow-quality-wild-armed-pepper-brave-paper-syrup-void-slender-armor
+bip_39_word_dash_2: mansion-borrow
+bip_39_word_dash_3: mansion-borrow-quality
+bip_39_word_dash_4: mansion-borrow-quality-wild
+bip_39_word_dash_5: mansion-borrow-quality-wild-armed
+bip_39_word_dash_6: mansion-borrow-quality-wild-armed-pepper
+bip_39_word_dash_7: mansion-borrow-quality-wild-armed-pepper-brave
+bip_39_word_dash_8: mansion-borrow-quality-wild-armed-pepper-brave-paper
+bip_39_word_dash_9: mansion-borrow-quality-wild-armed-pepper-brave-paper-syrup
 bip_39_word_new_br_1: mansion
 bip_39_word_new_br_10: mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper<br>syrup<br>void
 bip_39_word_new_br_11: mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper<br>syrup<br>void<br>slender
@@ -193,6 +205,18 @@ bip_39_word_space_6: mansion borrow quality wild armed pepper
 bip_39_word_space_7: mansion borrow quality wild armed pepper brave
 bip_39_word_space_8: mansion borrow quality wild armed pepper brave paper
 bip_39_word_space_9: mansion borrow quality wild armed pepper brave paper syrup
+bip_39_word_underscore_1: mansion
+bip_39_word_underscore_10: mansion_borrow_quality_wild_armed_pepper_brave_paper_syrup_void
+bip_39_word_underscore_11: mansion_borrow_quality_wild_armed_pepper_brave_paper_syrup_void_slender
+bip_39_word_underscore_12: mansion_borrow_quality_wild_armed_pepper_brave_paper_syrup_void_slender_armor
+bip_39_word_underscore_2: mansion_borrow
+bip_39_word_underscore_3: mansion_borrow_quality
+bip_39_word_underscore_4: mansion_borrow_quality_wild
+bip_39_word_underscore_5: mansion_borrow_quality_wild_armed
+bip_39_word_underscore_6: mansion_borrow_quality_wild_armed_pepper
+bip_39_word_underscore_7: mansion_borrow_quality_wild_armed_pepper_brave
+bip_39_word_underscore_8: mansion_borrow_quality_wild_armed_pepper_brave_paper
+bip_39_word_underscore_9: mansion_borrow_quality_wild_armed_pepper_brave_paper_syrup
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

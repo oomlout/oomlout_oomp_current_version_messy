@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wire |  
+| bip_39_word_dash_10 | wire-canvas-palm-practice-parade-endorse-involve-mushroom-toilet-indoor |  
+| bip_39_word_dash_11 | wire-canvas-palm-practice-parade-endorse-involve-mushroom-toilet-indoor-urge |  
+| bip_39_word_dash_12 | wire-canvas-palm-practice-parade-endorse-involve-mushroom-toilet-indoor-urge-auto |  
+| bip_39_word_dash_2 | wire-canvas |  
+| bip_39_word_dash_3 | wire-canvas-palm |  
+| bip_39_word_dash_4 | wire-canvas-palm-practice |  
+| bip_39_word_dash_5 | wire-canvas-palm-practice-parade |  
+| bip_39_word_dash_6 | wire-canvas-palm-practice-parade-endorse |  
+| bip_39_word_dash_7 | wire-canvas-palm-practice-parade-endorse-involve |  
+| bip_39_word_dash_8 | wire-canvas-palm-practice-parade-endorse-involve-mushroom |  
+| bip_39_word_dash_9 | wire-canvas-palm-practice-parade-endorse-involve-mushroom-toilet |  
 | bip_39_word_new_br_1 | wire |  
 | bip_39_word_new_br_10 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom<br>toilet<br>indoor |  
 | bip_39_word_new_br_11 | wire<br>canvas<br>palm<br>practice<br>parade<br>endorse<br>involve<br>mushroom<br>toilet<br>indoor<br>urge |  
@@ -147,6 +159,18 @@ toilet |
 | bip_39_word_space_7 | wire canvas palm practice parade endorse involve |  
 | bip_39_word_space_8 | wire canvas palm practice parade endorse involve mushroom |  
 | bip_39_word_space_9 | wire canvas palm practice parade endorse involve mushroom toilet |  
+| bip_39_word_underscore_1 | wire |  
+| bip_39_word_underscore_10 | wire_canvas_palm_practice_parade_endorse_involve_mushroom_toilet_indoor |  
+| bip_39_word_underscore_11 | wire_canvas_palm_practice_parade_endorse_involve_mushroom_toilet_indoor_urge |  
+| bip_39_word_underscore_12 | wire_canvas_palm_practice_parade_endorse_involve_mushroom_toilet_indoor_urge_auto |  
+| bip_39_word_underscore_2 | wire_canvas |  
+| bip_39_word_underscore_3 | wire_canvas_palm |  
+| bip_39_word_underscore_4 | wire_canvas_palm_practice |  
+| bip_39_word_underscore_5 | wire_canvas_palm_practice_parade |  
+| bip_39_word_underscore_6 | wire_canvas_palm_practice_parade_endorse |  
+| bip_39_word_underscore_7 | wire_canvas_palm_practice_parade_endorse_involve |  
+| bip_39_word_underscore_8 | wire_canvas_palm_practice_parade_endorse_involve_mushroom |  
+| bip_39_word_underscore_9 | wire_canvas_palm_practice_parade_endorse_involve_mushroom_toilet |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

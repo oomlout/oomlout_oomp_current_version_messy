@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bike |  
+| bip_39_word_dash_10 | bike-pumpkin-gold-knock-myth-exotic-inch-sister-artwork-silly |  
+| bip_39_word_dash_11 | bike-pumpkin-gold-knock-myth-exotic-inch-sister-artwork-silly-boss |  
+| bip_39_word_dash_12 | bike-pumpkin-gold-knock-myth-exotic-inch-sister-artwork-silly-boss-ability |  
+| bip_39_word_dash_2 | bike-pumpkin |  
+| bip_39_word_dash_3 | bike-pumpkin-gold |  
+| bip_39_word_dash_4 | bike-pumpkin-gold-knock |  
+| bip_39_word_dash_5 | bike-pumpkin-gold-knock-myth |  
+| bip_39_word_dash_6 | bike-pumpkin-gold-knock-myth-exotic |  
+| bip_39_word_dash_7 | bike-pumpkin-gold-knock-myth-exotic-inch |  
+| bip_39_word_dash_8 | bike-pumpkin-gold-knock-myth-exotic-inch-sister |  
+| bip_39_word_dash_9 | bike-pumpkin-gold-knock-myth-exotic-inch-sister-artwork |  
 | bip_39_word_new_br_1 | bike |  
 | bip_39_word_new_br_10 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister<br>artwork<br>silly |  
 | bip_39_word_new_br_11 | bike<br>pumpkin<br>gold<br>knock<br>myth<br>exotic<br>inch<br>sister<br>artwork<br>silly<br>boss |  
@@ -147,6 +159,18 @@ artwork |
 | bip_39_word_space_7 | bike pumpkin gold knock myth exotic inch |  
 | bip_39_word_space_8 | bike pumpkin gold knock myth exotic inch sister |  
 | bip_39_word_space_9 | bike pumpkin gold knock myth exotic inch sister artwork |  
+| bip_39_word_underscore_1 | bike |  
+| bip_39_word_underscore_10 | bike_pumpkin_gold_knock_myth_exotic_inch_sister_artwork_silly |  
+| bip_39_word_underscore_11 | bike_pumpkin_gold_knock_myth_exotic_inch_sister_artwork_silly_boss |  
+| bip_39_word_underscore_12 | bike_pumpkin_gold_knock_myth_exotic_inch_sister_artwork_silly_boss_ability |  
+| bip_39_word_underscore_2 | bike_pumpkin |  
+| bip_39_word_underscore_3 | bike_pumpkin_gold |  
+| bip_39_word_underscore_4 | bike_pumpkin_gold_knock |  
+| bip_39_word_underscore_5 | bike_pumpkin_gold_knock_myth |  
+| bip_39_word_underscore_6 | bike_pumpkin_gold_knock_myth_exotic |  
+| bip_39_word_underscore_7 | bike_pumpkin_gold_knock_myth_exotic_inch |  
+| bip_39_word_underscore_8 | bike_pumpkin_gold_knock_myth_exotic_inch_sister |  
+| bip_39_word_underscore_9 | bike_pumpkin_gold_knock_myth_exotic_inch_sister_artwork |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

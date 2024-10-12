@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | august |  
+| bip_39_word_dash_10 | august-practice-tomorrow-author-legal-eagle-rare-narrow-tribe-ensure |  
+| bip_39_word_dash_11 | august-practice-tomorrow-author-legal-eagle-rare-narrow-tribe-ensure-rib |  
+| bip_39_word_dash_12 | august-practice-tomorrow-author-legal-eagle-rare-narrow-tribe-ensure-rib-arrange |  
+| bip_39_word_dash_2 | august-practice |  
+| bip_39_word_dash_3 | august-practice-tomorrow |  
+| bip_39_word_dash_4 | august-practice-tomorrow-author |  
+| bip_39_word_dash_5 | august-practice-tomorrow-author-legal |  
+| bip_39_word_dash_6 | august-practice-tomorrow-author-legal-eagle |  
+| bip_39_word_dash_7 | august-practice-tomorrow-author-legal-eagle-rare |  
+| bip_39_word_dash_8 | august-practice-tomorrow-author-legal-eagle-rare-narrow |  
+| bip_39_word_dash_9 | august-practice-tomorrow-author-legal-eagle-rare-narrow-tribe |  
 | bip_39_word_new_br_1 | august |  
 | bip_39_word_new_br_10 | august<br>practice<br>tomorrow<br>author<br>legal<br>eagle<br>rare<br>narrow<br>tribe<br>ensure |  
 | bip_39_word_new_br_11 | august<br>practice<br>tomorrow<br>author<br>legal<br>eagle<br>rare<br>narrow<br>tribe<br>ensure<br>rib |  
@@ -147,6 +159,18 @@ tribe |
 | bip_39_word_space_7 | august practice tomorrow author legal eagle rare |  
 | bip_39_word_space_8 | august practice tomorrow author legal eagle rare narrow |  
 | bip_39_word_space_9 | august practice tomorrow author legal eagle rare narrow tribe |  
+| bip_39_word_underscore_1 | august |  
+| bip_39_word_underscore_10 | august_practice_tomorrow_author_legal_eagle_rare_narrow_tribe_ensure |  
+| bip_39_word_underscore_11 | august_practice_tomorrow_author_legal_eagle_rare_narrow_tribe_ensure_rib |  
+| bip_39_word_underscore_12 | august_practice_tomorrow_author_legal_eagle_rare_narrow_tribe_ensure_rib_arrange |  
+| bip_39_word_underscore_2 | august_practice |  
+| bip_39_word_underscore_3 | august_practice_tomorrow |  
+| bip_39_word_underscore_4 | august_practice_tomorrow_author |  
+| bip_39_word_underscore_5 | august_practice_tomorrow_author_legal |  
+| bip_39_word_underscore_6 | august_practice_tomorrow_author_legal_eagle |  
+| bip_39_word_underscore_7 | august_practice_tomorrow_author_legal_eagle_rare |  
+| bip_39_word_underscore_8 | august_practice_tomorrow_author_legal_eagle_rare_narrow |  
+| bip_39_word_underscore_9 | august_practice_tomorrow_author_legal_eagle_rare_narrow_tribe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | desk |  
+| bip_39_word_dash_10 | desk-people-describe-stairs-word-call-quiz-hole-universe-silly |  
+| bip_39_word_dash_11 | desk-people-describe-stairs-word-call-quiz-hole-universe-silly-rude |  
+| bip_39_word_dash_12 | desk-people-describe-stairs-word-call-quiz-hole-universe-silly-rude-adjust |  
+| bip_39_word_dash_2 | desk-people |  
+| bip_39_word_dash_3 | desk-people-describe |  
+| bip_39_word_dash_4 | desk-people-describe-stairs |  
+| bip_39_word_dash_5 | desk-people-describe-stairs-word |  
+| bip_39_word_dash_6 | desk-people-describe-stairs-word-call |  
+| bip_39_word_dash_7 | desk-people-describe-stairs-word-call-quiz |  
+| bip_39_word_dash_8 | desk-people-describe-stairs-word-call-quiz-hole |  
+| bip_39_word_dash_9 | desk-people-describe-stairs-word-call-quiz-hole-universe |  
 | bip_39_word_new_br_1 | desk |  
 | bip_39_word_new_br_10 | desk<br>people<br>describe<br>stairs<br>word<br>call<br>quiz<br>hole<br>universe<br>silly |  
 | bip_39_word_new_br_11 | desk<br>people<br>describe<br>stairs<br>word<br>call<br>quiz<br>hole<br>universe<br>silly<br>rude |  
@@ -147,6 +159,18 @@ universe |
 | bip_39_word_space_7 | desk people describe stairs word call quiz |  
 | bip_39_word_space_8 | desk people describe stairs word call quiz hole |  
 | bip_39_word_space_9 | desk people describe stairs word call quiz hole universe |  
+| bip_39_word_underscore_1 | desk |  
+| bip_39_word_underscore_10 | desk_people_describe_stairs_word_call_quiz_hole_universe_silly |  
+| bip_39_word_underscore_11 | desk_people_describe_stairs_word_call_quiz_hole_universe_silly_rude |  
+| bip_39_word_underscore_12 | desk_people_describe_stairs_word_call_quiz_hole_universe_silly_rude_adjust |  
+| bip_39_word_underscore_2 | desk_people |  
+| bip_39_word_underscore_3 | desk_people_describe |  
+| bip_39_word_underscore_4 | desk_people_describe_stairs |  
+| bip_39_word_underscore_5 | desk_people_describe_stairs_word |  
+| bip_39_word_underscore_6 | desk_people_describe_stairs_word_call |  
+| bip_39_word_underscore_7 | desk_people_describe_stairs_word_call_quiz |  
+| bip_39_word_underscore_8 | desk_people_describe_stairs_word_call_quiz_hole |  
+| bip_39_word_underscore_9 | desk_people_describe_stairs_word_call_quiz_hole_universe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

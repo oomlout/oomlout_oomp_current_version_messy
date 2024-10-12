@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wrong |  
+| bip_39_word_dash_10 | wrong-language-protect-apple-such-debate-rebel-wasp-never-grief |  
+| bip_39_word_dash_11 | wrong-language-protect-apple-such-debate-rebel-wasp-never-grief-power |  
+| bip_39_word_dash_2 | wrong-language |  
+| bip_39_word_dash_3 | wrong-language-protect |  
+| bip_39_word_dash_4 | wrong-language-protect-apple |  
+| bip_39_word_dash_5 | wrong-language-protect-apple-such |  
+| bip_39_word_dash_6 | wrong-language-protect-apple-such-debate |  
+| bip_39_word_dash_7 | wrong-language-protect-apple-such-debate-rebel |  
+| bip_39_word_dash_8 | wrong-language-protect-apple-such-debate-rebel-wasp |  
+| bip_39_word_dash_9 | wrong-language-protect-apple-such-debate-rebel-wasp-never |  
 | bip_39_word_new_br_1 | wrong |  
 | bip_39_word_new_br_10 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel<br>wasp<br>never<br>grief |  
 | bip_39_word_new_br_11 | wrong<br>language<br>protect<br>apple<br>such<br>debate<br>rebel<br>wasp<br>never<br>grief<br>power |  
@@ -132,6 +143,17 @@ never |
 | bip_39_word_space_7 | wrong language protect apple such debate rebel |  
 | bip_39_word_space_8 | wrong language protect apple such debate rebel wasp |  
 | bip_39_word_space_9 | wrong language protect apple such debate rebel wasp never |  
+| bip_39_word_underscore_1 | wrong |  
+| bip_39_word_underscore_10 | wrong_language_protect_apple_such_debate_rebel_wasp_never_grief |  
+| bip_39_word_underscore_11 | wrong_language_protect_apple_such_debate_rebel_wasp_never_grief_power |  
+| bip_39_word_underscore_2 | wrong_language |  
+| bip_39_word_underscore_3 | wrong_language_protect |  
+| bip_39_word_underscore_4 | wrong_language_protect_apple |  
+| bip_39_word_underscore_5 | wrong_language_protect_apple_such |  
+| bip_39_word_underscore_6 | wrong_language_protect_apple_such_debate |  
+| bip_39_word_underscore_7 | wrong_language_protect_apple_such_debate_rebel |  
+| bip_39_word_underscore_8 | wrong_language_protect_apple_such_debate_rebel_wasp |  
+| bip_39_word_underscore_9 | wrong_language_protect_apple_such_debate_rebel_wasp_never |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: punch
+bip_39_word_dash_10: punch-hour-give-field-magnet-desert-few-theory-system-first
+bip_39_word_dash_11: punch-hour-give-field-magnet-desert-few-theory-system-first-clip
+bip_39_word_dash_12: punch-hour-give-field-magnet-desert-few-theory-system-first-clip-alarm
+bip_39_word_dash_2: punch-hour
+bip_39_word_dash_3: punch-hour-give
+bip_39_word_dash_4: punch-hour-give-field
+bip_39_word_dash_5: punch-hour-give-field-magnet
+bip_39_word_dash_6: punch-hour-give-field-magnet-desert
+bip_39_word_dash_7: punch-hour-give-field-magnet-desert-few
+bip_39_word_dash_8: punch-hour-give-field-magnet-desert-few-theory
+bip_39_word_dash_9: punch-hour-give-field-magnet-desert-few-theory-system
 bip_39_word_new_br_1: punch
 bip_39_word_new_br_10: punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory<br>system<br>first
 bip_39_word_new_br_11: punch<br>hour<br>give<br>field<br>magnet<br>desert<br>few<br>theory<br>system<br>first<br>clip
@@ -193,6 +205,18 @@ bip_39_word_space_6: punch hour give field magnet desert
 bip_39_word_space_7: punch hour give field magnet desert few
 bip_39_word_space_8: punch hour give field magnet desert few theory
 bip_39_word_space_9: punch hour give field magnet desert few theory system
+bip_39_word_underscore_1: punch
+bip_39_word_underscore_10: punch_hour_give_field_magnet_desert_few_theory_system_first
+bip_39_word_underscore_11: punch_hour_give_field_magnet_desert_few_theory_system_first_clip
+bip_39_word_underscore_12: punch_hour_give_field_magnet_desert_few_theory_system_first_clip_alarm
+bip_39_word_underscore_2: punch_hour
+bip_39_word_underscore_3: punch_hour_give
+bip_39_word_underscore_4: punch_hour_give_field
+bip_39_word_underscore_5: punch_hour_give_field_magnet
+bip_39_word_underscore_6: punch_hour_give_field_magnet_desert
+bip_39_word_underscore_7: punch_hour_give_field_magnet_desert_few
+bip_39_word_underscore_8: punch_hour_give_field_magnet_desert_few_theory
+bip_39_word_underscore_9: punch_hour_give_field_magnet_desert_few_theory_system
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ice |  
+| bip_39_word_dash_10 | ice-rough-stock-exhibit-all-retire-shuffle-shrimp-assault-liar |  
+| bip_39_word_dash_11 | ice-rough-stock-exhibit-all-retire-shuffle-shrimp-assault-liar-disorder |  
+| bip_39_word_dash_12 | ice-rough-stock-exhibit-all-retire-shuffle-shrimp-assault-liar-disorder-arrest |  
+| bip_39_word_dash_2 | ice-rough |  
+| bip_39_word_dash_3 | ice-rough-stock |  
+| bip_39_word_dash_4 | ice-rough-stock-exhibit |  
+| bip_39_word_dash_5 | ice-rough-stock-exhibit-all |  
+| bip_39_word_dash_6 | ice-rough-stock-exhibit-all-retire |  
+| bip_39_word_dash_7 | ice-rough-stock-exhibit-all-retire-shuffle |  
+| bip_39_word_dash_8 | ice-rough-stock-exhibit-all-retire-shuffle-shrimp |  
+| bip_39_word_dash_9 | ice-rough-stock-exhibit-all-retire-shuffle-shrimp-assault |  
 | bip_39_word_new_br_1 | ice |  
 | bip_39_word_new_br_10 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar |  
 | bip_39_word_new_br_11 | ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar<br>disorder |  
@@ -147,6 +159,18 @@ assault |
 | bip_39_word_space_7 | ice rough stock exhibit all retire shuffle |  
 | bip_39_word_space_8 | ice rough stock exhibit all retire shuffle shrimp |  
 | bip_39_word_space_9 | ice rough stock exhibit all retire shuffle shrimp assault |  
+| bip_39_word_underscore_1 | ice |  
+| bip_39_word_underscore_10 | ice_rough_stock_exhibit_all_retire_shuffle_shrimp_assault_liar |  
+| bip_39_word_underscore_11 | ice_rough_stock_exhibit_all_retire_shuffle_shrimp_assault_liar_disorder |  
+| bip_39_word_underscore_12 | ice_rough_stock_exhibit_all_retire_shuffle_shrimp_assault_liar_disorder_arrest |  
+| bip_39_word_underscore_2 | ice_rough |  
+| bip_39_word_underscore_3 | ice_rough_stock |  
+| bip_39_word_underscore_4 | ice_rough_stock_exhibit |  
+| bip_39_word_underscore_5 | ice_rough_stock_exhibit_all |  
+| bip_39_word_underscore_6 | ice_rough_stock_exhibit_all_retire |  
+| bip_39_word_underscore_7 | ice_rough_stock_exhibit_all_retire_shuffle |  
+| bip_39_word_underscore_8 | ice_rough_stock_exhibit_all_retire_shuffle_shrimp |  
+| bip_39_word_underscore_9 | ice_rough_stock_exhibit_all_retire_shuffle_shrimp_assault |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

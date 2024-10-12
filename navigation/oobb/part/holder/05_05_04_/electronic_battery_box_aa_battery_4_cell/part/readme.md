@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | item |  
+| bip_39_word_dash_10 | item-mother-leisure-oak-account-suspect-ensure-shine-parent-warfare |  
+| bip_39_word_dash_11 | item-mother-leisure-oak-account-suspect-ensure-shine-parent-warfare-march |  
+| bip_39_word_dash_12 | item-mother-leisure-oak-account-suspect-ensure-shine-parent-warfare-march-aerobic |  
+| bip_39_word_dash_2 | item-mother |  
+| bip_39_word_dash_3 | item-mother-leisure |  
+| bip_39_word_dash_4 | item-mother-leisure-oak |  
+| bip_39_word_dash_5 | item-mother-leisure-oak-account |  
+| bip_39_word_dash_6 | item-mother-leisure-oak-account-suspect |  
+| bip_39_word_dash_7 | item-mother-leisure-oak-account-suspect-ensure |  
+| bip_39_word_dash_8 | item-mother-leisure-oak-account-suspect-ensure-shine |  
+| bip_39_word_dash_9 | item-mother-leisure-oak-account-suspect-ensure-shine-parent |  
 | bip_39_word_new_br_1 | item |  
 | bip_39_word_new_br_10 | item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare |  
 | bip_39_word_new_br_11 | item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare<br>march |  
@@ -147,6 +159,18 @@ parent |
 | bip_39_word_space_7 | item mother leisure oak account suspect ensure |  
 | bip_39_word_space_8 | item mother leisure oak account suspect ensure shine |  
 | bip_39_word_space_9 | item mother leisure oak account suspect ensure shine parent |  
+| bip_39_word_underscore_1 | item |  
+| bip_39_word_underscore_10 | item_mother_leisure_oak_account_suspect_ensure_shine_parent_warfare |  
+| bip_39_word_underscore_11 | item_mother_leisure_oak_account_suspect_ensure_shine_parent_warfare_march |  
+| bip_39_word_underscore_12 | item_mother_leisure_oak_account_suspect_ensure_shine_parent_warfare_march_aerobic |  
+| bip_39_word_underscore_2 | item_mother |  
+| bip_39_word_underscore_3 | item_mother_leisure |  
+| bip_39_word_underscore_4 | item_mother_leisure_oak |  
+| bip_39_word_underscore_5 | item_mother_leisure_oak_account |  
+| bip_39_word_underscore_6 | item_mother_leisure_oak_account_suspect |  
+| bip_39_word_underscore_7 | item_mother_leisure_oak_account_suspect_ensure |  
+| bip_39_word_underscore_8 | item_mother_leisure_oak_account_suspect_ensure_shine |  
+| bip_39_word_underscore_9 | item_mother_leisure_oak_account_suspect_ensure_shine_parent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

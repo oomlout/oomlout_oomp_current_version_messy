@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | icon |  
+| bip_39_word_dash_10 | icon-toy-tennis-hover-tissue-desert-ranch-hood-palace-hand |  
+| bip_39_word_dash_11 | icon-toy-tennis-hover-tissue-desert-ranch-hood-palace-hand-food |  
+| bip_39_word_dash_12 | icon-toy-tennis-hover-tissue-desert-ranch-hood-palace-hand-food-allow |  
+| bip_39_word_dash_2 | icon-toy |  
+| bip_39_word_dash_3 | icon-toy-tennis |  
+| bip_39_word_dash_4 | icon-toy-tennis-hover |  
+| bip_39_word_dash_5 | icon-toy-tennis-hover-tissue |  
+| bip_39_word_dash_6 | icon-toy-tennis-hover-tissue-desert |  
+| bip_39_word_dash_7 | icon-toy-tennis-hover-tissue-desert-ranch |  
+| bip_39_word_dash_8 | icon-toy-tennis-hover-tissue-desert-ranch-hood |  
+| bip_39_word_dash_9 | icon-toy-tennis-hover-tissue-desert-ranch-hood-palace |  
 | bip_39_word_new_br_1 | icon |  
 | bip_39_word_new_br_10 | icon<br>toy<br>tennis<br>hover<br>tissue<br>desert<br>ranch<br>hood<br>palace<br>hand |  
 | bip_39_word_new_br_11 | icon<br>toy<br>tennis<br>hover<br>tissue<br>desert<br>ranch<br>hood<br>palace<br>hand<br>food |  
@@ -147,6 +159,18 @@ palace |
 | bip_39_word_space_7 | icon toy tennis hover tissue desert ranch |  
 | bip_39_word_space_8 | icon toy tennis hover tissue desert ranch hood |  
 | bip_39_word_space_9 | icon toy tennis hover tissue desert ranch hood palace |  
+| bip_39_word_underscore_1 | icon |  
+| bip_39_word_underscore_10 | icon_toy_tennis_hover_tissue_desert_ranch_hood_palace_hand |  
+| bip_39_word_underscore_11 | icon_toy_tennis_hover_tissue_desert_ranch_hood_palace_hand_food |  
+| bip_39_word_underscore_12 | icon_toy_tennis_hover_tissue_desert_ranch_hood_palace_hand_food_allow |  
+| bip_39_word_underscore_2 | icon_toy |  
+| bip_39_word_underscore_3 | icon_toy_tennis |  
+| bip_39_word_underscore_4 | icon_toy_tennis_hover |  
+| bip_39_word_underscore_5 | icon_toy_tennis_hover_tissue |  
+| bip_39_word_underscore_6 | icon_toy_tennis_hover_tissue_desert |  
+| bip_39_word_underscore_7 | icon_toy_tennis_hover_tissue_desert_ranch |  
+| bip_39_word_underscore_8 | icon_toy_tennis_hover_tissue_desert_ranch_hood |  
+| bip_39_word_underscore_9 | icon_toy_tennis_hover_tissue_desert_ranch_hood_palace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

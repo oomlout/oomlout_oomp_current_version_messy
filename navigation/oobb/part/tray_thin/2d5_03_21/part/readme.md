@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | month |  
+| bip_39_word_dash_10 | month-hospital-diesel-fatigue-fancy-social-cheap-symbol-polar-loop |  
+| bip_39_word_dash_11 | month-hospital-diesel-fatigue-fancy-social-cheap-symbol-polar-loop-capital |  
+| bip_39_word_dash_12 | month-hospital-diesel-fatigue-fancy-social-cheap-symbol-polar-loop-capital-assume |  
+| bip_39_word_dash_2 | month-hospital |  
+| bip_39_word_dash_3 | month-hospital-diesel |  
+| bip_39_word_dash_4 | month-hospital-diesel-fatigue |  
+| bip_39_word_dash_5 | month-hospital-diesel-fatigue-fancy |  
+| bip_39_word_dash_6 | month-hospital-diesel-fatigue-fancy-social |  
+| bip_39_word_dash_7 | month-hospital-diesel-fatigue-fancy-social-cheap |  
+| bip_39_word_dash_8 | month-hospital-diesel-fatigue-fancy-social-cheap-symbol |  
+| bip_39_word_dash_9 | month-hospital-diesel-fatigue-fancy-social-cheap-symbol-polar |  
 | bip_39_word_new_br_1 | month |  
 | bip_39_word_new_br_10 | month<br>hospital<br>diesel<br>fatigue<br>fancy<br>social<br>cheap<br>symbol<br>polar<br>loop |  
 | bip_39_word_new_br_11 | month<br>hospital<br>diesel<br>fatigue<br>fancy<br>social<br>cheap<br>symbol<br>polar<br>loop<br>capital |  
@@ -147,6 +159,18 @@ polar |
 | bip_39_word_space_7 | month hospital diesel fatigue fancy social cheap |  
 | bip_39_word_space_8 | month hospital diesel fatigue fancy social cheap symbol |  
 | bip_39_word_space_9 | month hospital diesel fatigue fancy social cheap symbol polar |  
+| bip_39_word_underscore_1 | month |  
+| bip_39_word_underscore_10 | month_hospital_diesel_fatigue_fancy_social_cheap_symbol_polar_loop |  
+| bip_39_word_underscore_11 | month_hospital_diesel_fatigue_fancy_social_cheap_symbol_polar_loop_capital |  
+| bip_39_word_underscore_12 | month_hospital_diesel_fatigue_fancy_social_cheap_symbol_polar_loop_capital_assume |  
+| bip_39_word_underscore_2 | month_hospital |  
+| bip_39_word_underscore_3 | month_hospital_diesel |  
+| bip_39_word_underscore_4 | month_hospital_diesel_fatigue |  
+| bip_39_word_underscore_5 | month_hospital_diesel_fatigue_fancy |  
+| bip_39_word_underscore_6 | month_hospital_diesel_fatigue_fancy_social |  
+| bip_39_word_underscore_7 | month_hospital_diesel_fatigue_fancy_social_cheap |  
+| bip_39_word_underscore_8 | month_hospital_diesel_fatigue_fancy_social_cheap_symbol |  
+| bip_39_word_underscore_9 | month_hospital_diesel_fatigue_fancy_social_cheap_symbol_polar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gun |  
+| bip_39_word_dash_10 | gun-fluid-history-model-divide-decline-melt-drum-shell-sick |  
+| bip_39_word_dash_11 | gun-fluid-history-model-divide-decline-melt-drum-shell-sick-weekend |  
+| bip_39_word_dash_12 | gun-fluid-history-model-divide-decline-melt-drum-shell-sick-weekend-ancient |  
+| bip_39_word_dash_2 | gun-fluid |  
+| bip_39_word_dash_3 | gun-fluid-history |  
+| bip_39_word_dash_4 | gun-fluid-history-model |  
+| bip_39_word_dash_5 | gun-fluid-history-model-divide |  
+| bip_39_word_dash_6 | gun-fluid-history-model-divide-decline |  
+| bip_39_word_dash_7 | gun-fluid-history-model-divide-decline-melt |  
+| bip_39_word_dash_8 | gun-fluid-history-model-divide-decline-melt-drum |  
+| bip_39_word_dash_9 | gun-fluid-history-model-divide-decline-melt-drum-shell |  
 | bip_39_word_new_br_1 | gun |  
 | bip_39_word_new_br_10 | gun<br>fluid<br>history<br>model<br>divide<br>decline<br>melt<br>drum<br>shell<br>sick |  
 | bip_39_word_new_br_11 | gun<br>fluid<br>history<br>model<br>divide<br>decline<br>melt<br>drum<br>shell<br>sick<br>weekend |  
@@ -147,6 +159,18 @@ shell |
 | bip_39_word_space_7 | gun fluid history model divide decline melt |  
 | bip_39_word_space_8 | gun fluid history model divide decline melt drum |  
 | bip_39_word_space_9 | gun fluid history model divide decline melt drum shell |  
+| bip_39_word_underscore_1 | gun |  
+| bip_39_word_underscore_10 | gun_fluid_history_model_divide_decline_melt_drum_shell_sick |  
+| bip_39_word_underscore_11 | gun_fluid_history_model_divide_decline_melt_drum_shell_sick_weekend |  
+| bip_39_word_underscore_12 | gun_fluid_history_model_divide_decline_melt_drum_shell_sick_weekend_ancient |  
+| bip_39_word_underscore_2 | gun_fluid |  
+| bip_39_word_underscore_3 | gun_fluid_history |  
+| bip_39_word_underscore_4 | gun_fluid_history_model |  
+| bip_39_word_underscore_5 | gun_fluid_history_model_divide |  
+| bip_39_word_underscore_6 | gun_fluid_history_model_divide_decline |  
+| bip_39_word_underscore_7 | gun_fluid_history_model_divide_decline_melt |  
+| bip_39_word_underscore_8 | gun_fluid_history_model_divide_decline_melt_drum |  
+| bip_39_word_underscore_9 | gun_fluid_history_model_divide_decline_melt_drum_shell |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

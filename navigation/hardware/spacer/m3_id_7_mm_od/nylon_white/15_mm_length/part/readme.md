@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pear |  
+| bip_39_word_dash_10 | pear-diagram-parade-riot-sustain-deer-tide-faith-upon-noodle |  
+| bip_39_word_dash_11 | pear-diagram-parade-riot-sustain-deer-tide-faith-upon-noodle-dune |  
+| bip_39_word_dash_12 | pear-diagram-parade-riot-sustain-deer-tide-faith-upon-noodle-dune-apple |  
+| bip_39_word_dash_2 | pear-diagram |  
+| bip_39_word_dash_3 | pear-diagram-parade |  
+| bip_39_word_dash_4 | pear-diagram-parade-riot |  
+| bip_39_word_dash_5 | pear-diagram-parade-riot-sustain |  
+| bip_39_word_dash_6 | pear-diagram-parade-riot-sustain-deer |  
+| bip_39_word_dash_7 | pear-diagram-parade-riot-sustain-deer-tide |  
+| bip_39_word_dash_8 | pear-diagram-parade-riot-sustain-deer-tide-faith |  
+| bip_39_word_dash_9 | pear-diagram-parade-riot-sustain-deer-tide-faith-upon |  
 | bip_39_word_new_br_1 | pear |  
 | bip_39_word_new_br_10 | pear<br>diagram<br>parade<br>riot<br>sustain<br>deer<br>tide<br>faith<br>upon<br>noodle |  
 | bip_39_word_new_br_11 | pear<br>diagram<br>parade<br>riot<br>sustain<br>deer<br>tide<br>faith<br>upon<br>noodle<br>dune |  
@@ -147,6 +159,18 @@ upon |
 | bip_39_word_space_7 | pear diagram parade riot sustain deer tide |  
 | bip_39_word_space_8 | pear diagram parade riot sustain deer tide faith |  
 | bip_39_word_space_9 | pear diagram parade riot sustain deer tide faith upon |  
+| bip_39_word_underscore_1 | pear |  
+| bip_39_word_underscore_10 | pear_diagram_parade_riot_sustain_deer_tide_faith_upon_noodle |  
+| bip_39_word_underscore_11 | pear_diagram_parade_riot_sustain_deer_tide_faith_upon_noodle_dune |  
+| bip_39_word_underscore_12 | pear_diagram_parade_riot_sustain_deer_tide_faith_upon_noodle_dune_apple |  
+| bip_39_word_underscore_2 | pear_diagram |  
+| bip_39_word_underscore_3 | pear_diagram_parade |  
+| bip_39_word_underscore_4 | pear_diagram_parade_riot |  
+| bip_39_word_underscore_5 | pear_diagram_parade_riot_sustain |  
+| bip_39_word_underscore_6 | pear_diagram_parade_riot_sustain_deer |  
+| bip_39_word_underscore_7 | pear_diagram_parade_riot_sustain_deer_tide |  
+| bip_39_word_underscore_8 | pear_diagram_parade_riot_sustain_deer_tide_faith |  
+| bip_39_word_underscore_9 | pear_diagram_parade_riot_sustain_deer_tide_faith_upon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

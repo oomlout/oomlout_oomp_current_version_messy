@@ -1,3 +1,15 @@
+bip_39_word_dash_1: source
+bip_39_word_dash_10: source-faint-elite-surge-legend-gaze-scene-street-saddle-pistol
+bip_39_word_dash_11: source-faint-elite-surge-legend-gaze-scene-street-saddle-pistol-travel
+bip_39_word_dash_12: source-faint-elite-surge-legend-gaze-scene-street-saddle-pistol-travel-art
+bip_39_word_dash_2: source-faint
+bip_39_word_dash_3: source-faint-elite
+bip_39_word_dash_4: source-faint-elite-surge
+bip_39_word_dash_5: source-faint-elite-surge-legend
+bip_39_word_dash_6: source-faint-elite-surge-legend-gaze
+bip_39_word_dash_7: source-faint-elite-surge-legend-gaze-scene
+bip_39_word_dash_8: source-faint-elite-surge-legend-gaze-scene-street
+bip_39_word_dash_9: source-faint-elite-surge-legend-gaze-scene-street-saddle
 bip_39_word_new_br_1: source
 bip_39_word_new_br_10: source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol
 bip_39_word_new_br_11: source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol<br>travel
@@ -193,6 +205,18 @@ bip_39_word_space_6: source faint elite surge legend gaze
 bip_39_word_space_7: source faint elite surge legend gaze scene
 bip_39_word_space_8: source faint elite surge legend gaze scene street
 bip_39_word_space_9: source faint elite surge legend gaze scene street saddle
+bip_39_word_underscore_1: source
+bip_39_word_underscore_10: source_faint_elite_surge_legend_gaze_scene_street_saddle_pistol
+bip_39_word_underscore_11: source_faint_elite_surge_legend_gaze_scene_street_saddle_pistol_travel
+bip_39_word_underscore_12: source_faint_elite_surge_legend_gaze_scene_street_saddle_pistol_travel_art
+bip_39_word_underscore_2: source_faint
+bip_39_word_underscore_3: source_faint_elite
+bip_39_word_underscore_4: source_faint_elite_surge
+bip_39_word_underscore_5: source_faint_elite_surge_legend
+bip_39_word_underscore_6: source_faint_elite_surge_legend_gaze
+bip_39_word_underscore_7: source_faint_elite_surge_legend_gaze_scene
+bip_39_word_underscore_8: source_faint_elite_surge_legend_gaze_scene_street
+bip_39_word_underscore_9: source_faint_elite_surge_legend_gaze_scene_street_saddle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

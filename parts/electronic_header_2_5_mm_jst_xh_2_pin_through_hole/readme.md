@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cluster |  
+| bip_39_word_dash_10 | cluster-file-rude-abandon-jeans-damage-negative-aim-unfair-force |  
+| bip_39_word_dash_11 | cluster-file-rude-abandon-jeans-damage-negative-aim-unfair-force-melody |  
+| bip_39_word_dash_12 | cluster-file-rude-abandon-jeans-damage-negative-aim-unfair-force-melody-anxiety |  
+| bip_39_word_dash_2 | cluster-file |  
+| bip_39_word_dash_3 | cluster-file-rude |  
+| bip_39_word_dash_4 | cluster-file-rude-abandon |  
+| bip_39_word_dash_5 | cluster-file-rude-abandon-jeans |  
+| bip_39_word_dash_6 | cluster-file-rude-abandon-jeans-damage |  
+| bip_39_word_dash_7 | cluster-file-rude-abandon-jeans-damage-negative |  
+| bip_39_word_dash_8 | cluster-file-rude-abandon-jeans-damage-negative-aim |  
+| bip_39_word_dash_9 | cluster-file-rude-abandon-jeans-damage-negative-aim-unfair |  
 | bip_39_word_new_br_1 | cluster |  
 | bip_39_word_new_br_10 | cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force |  
 | bip_39_word_new_br_11 | cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force<br>melody |  
@@ -147,6 +159,18 @@ unfair |
 | bip_39_word_space_7 | cluster file rude abandon jeans damage negative |  
 | bip_39_word_space_8 | cluster file rude abandon jeans damage negative aim |  
 | bip_39_word_space_9 | cluster file rude abandon jeans damage negative aim unfair |  
+| bip_39_word_underscore_1 | cluster |  
+| bip_39_word_underscore_10 | cluster_file_rude_abandon_jeans_damage_negative_aim_unfair_force |  
+| bip_39_word_underscore_11 | cluster_file_rude_abandon_jeans_damage_negative_aim_unfair_force_melody |  
+| bip_39_word_underscore_12 | cluster_file_rude_abandon_jeans_damage_negative_aim_unfair_force_melody_anxiety |  
+| bip_39_word_underscore_2 | cluster_file |  
+| bip_39_word_underscore_3 | cluster_file_rude |  
+| bip_39_word_underscore_4 | cluster_file_rude_abandon |  
+| bip_39_word_underscore_5 | cluster_file_rude_abandon_jeans |  
+| bip_39_word_underscore_6 | cluster_file_rude_abandon_jeans_damage |  
+| bip_39_word_underscore_7 | cluster_file_rude_abandon_jeans_damage_negative |  
+| bip_39_word_underscore_8 | cluster_file_rude_abandon_jeans_damage_negative_aim |  
+| bip_39_word_underscore_9 | cluster_file_rude_abandon_jeans_damage_negative_aim_unfair |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

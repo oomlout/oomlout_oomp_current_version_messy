@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dial |  
+| bip_39_word_dash_10 | dial-bike-dutch-taste-lunch-decorate-decade-blanket-oval-maze |  
+| bip_39_word_dash_11 | dial-bike-dutch-taste-lunch-decorate-decade-blanket-oval-maze-truly |  
+| bip_39_word_dash_12 | dial-bike-dutch-taste-lunch-decorate-decade-blanket-oval-maze-truly-appear |  
+| bip_39_word_dash_2 | dial-bike |  
+| bip_39_word_dash_3 | dial-bike-dutch |  
+| bip_39_word_dash_4 | dial-bike-dutch-taste |  
+| bip_39_word_dash_5 | dial-bike-dutch-taste-lunch |  
+| bip_39_word_dash_6 | dial-bike-dutch-taste-lunch-decorate |  
+| bip_39_word_dash_7 | dial-bike-dutch-taste-lunch-decorate-decade |  
+| bip_39_word_dash_8 | dial-bike-dutch-taste-lunch-decorate-decade-blanket |  
+| bip_39_word_dash_9 | dial-bike-dutch-taste-lunch-decorate-decade-blanket-oval |  
 | bip_39_word_new_br_1 | dial |  
 | bip_39_word_new_br_10 | dial<br>bike<br>dutch<br>taste<br>lunch<br>decorate<br>decade<br>blanket<br>oval<br>maze |  
 | bip_39_word_new_br_11 | dial<br>bike<br>dutch<br>taste<br>lunch<br>decorate<br>decade<br>blanket<br>oval<br>maze<br>truly |  
@@ -147,6 +159,18 @@ oval |
 | bip_39_word_space_7 | dial bike dutch taste lunch decorate decade |  
 | bip_39_word_space_8 | dial bike dutch taste lunch decorate decade blanket |  
 | bip_39_word_space_9 | dial bike dutch taste lunch decorate decade blanket oval |  
+| bip_39_word_underscore_1 | dial |  
+| bip_39_word_underscore_10 | dial_bike_dutch_taste_lunch_decorate_decade_blanket_oval_maze |  
+| bip_39_word_underscore_11 | dial_bike_dutch_taste_lunch_decorate_decade_blanket_oval_maze_truly |  
+| bip_39_word_underscore_12 | dial_bike_dutch_taste_lunch_decorate_decade_blanket_oval_maze_truly_appear |  
+| bip_39_word_underscore_2 | dial_bike |  
+| bip_39_word_underscore_3 | dial_bike_dutch |  
+| bip_39_word_underscore_4 | dial_bike_dutch_taste |  
+| bip_39_word_underscore_5 | dial_bike_dutch_taste_lunch |  
+| bip_39_word_underscore_6 | dial_bike_dutch_taste_lunch_decorate |  
+| bip_39_word_underscore_7 | dial_bike_dutch_taste_lunch_decorate_decade |  
+| bip_39_word_underscore_8 | dial_bike_dutch_taste_lunch_decorate_decade_blanket |  
+| bip_39_word_underscore_9 | dial_bike_dutch_taste_lunch_decorate_decade_blanket_oval |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

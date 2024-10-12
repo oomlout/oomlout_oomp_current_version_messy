@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mountain |  
+| bip_39_word_dash_10 | mountain-catalog-order-stock-surround-believe-stock-mule-office-peace |  
+| bip_39_word_dash_11 | mountain-catalog-order-stock-surround-believe-stock-mule-office-peace-tuition |  
+| bip_39_word_dash_12 | mountain-catalog-order-stock-surround-believe-stock-mule-office-peace-tuition-annual |  
+| bip_39_word_dash_2 | mountain-catalog |  
+| bip_39_word_dash_3 | mountain-catalog-order |  
+| bip_39_word_dash_4 | mountain-catalog-order-stock |  
+| bip_39_word_dash_5 | mountain-catalog-order-stock-surround |  
+| bip_39_word_dash_6 | mountain-catalog-order-stock-surround-believe |  
+| bip_39_word_dash_7 | mountain-catalog-order-stock-surround-believe-stock |  
+| bip_39_word_dash_8 | mountain-catalog-order-stock-surround-believe-stock-mule |  
+| bip_39_word_dash_9 | mountain-catalog-order-stock-surround-believe-stock-mule-office |  
 | bip_39_word_new_br_1 | mountain |  
 | bip_39_word_new_br_10 | mountain<br>catalog<br>order<br>stock<br>surround<br>believe<br>stock<br>mule<br>office<br>peace |  
 | bip_39_word_new_br_11 | mountain<br>catalog<br>order<br>stock<br>surround<br>believe<br>stock<br>mule<br>office<br>peace<br>tuition |  
@@ -147,6 +159,18 @@ office |
 | bip_39_word_space_7 | mountain catalog order stock surround believe stock |  
 | bip_39_word_space_8 | mountain catalog order stock surround believe stock mule |  
 | bip_39_word_space_9 | mountain catalog order stock surround believe stock mule office |  
+| bip_39_word_underscore_1 | mountain |  
+| bip_39_word_underscore_10 | mountain_catalog_order_stock_surround_believe_stock_mule_office_peace |  
+| bip_39_word_underscore_11 | mountain_catalog_order_stock_surround_believe_stock_mule_office_peace_tuition |  
+| bip_39_word_underscore_12 | mountain_catalog_order_stock_surround_believe_stock_mule_office_peace_tuition_annual |  
+| bip_39_word_underscore_2 | mountain_catalog |  
+| bip_39_word_underscore_3 | mountain_catalog_order |  
+| bip_39_word_underscore_4 | mountain_catalog_order_stock |  
+| bip_39_word_underscore_5 | mountain_catalog_order_stock_surround |  
+| bip_39_word_underscore_6 | mountain_catalog_order_stock_surround_believe |  
+| bip_39_word_underscore_7 | mountain_catalog_order_stock_surround_believe_stock |  
+| bip_39_word_underscore_8 | mountain_catalog_order_stock_surround_believe_stock_mule |  
+| bip_39_word_underscore_9 | mountain_catalog_order_stock_surround_believe_stock_mule_office |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

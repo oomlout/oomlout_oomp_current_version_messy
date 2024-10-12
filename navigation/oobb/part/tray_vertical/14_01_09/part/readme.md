@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lemon |  
+| bip_39_word_dash_10 | lemon-skill-pause-potato-pool-canoe-boring-orange-outer-science |  
+| bip_39_word_dash_11 | lemon-skill-pause-potato-pool-canoe-boring-orange-outer-science-glove |  
+| bip_39_word_dash_12 | lemon-skill-pause-potato-pool-canoe-boring-orange-outer-science-glove-about |  
+| bip_39_word_dash_2 | lemon-skill |  
+| bip_39_word_dash_3 | lemon-skill-pause |  
+| bip_39_word_dash_4 | lemon-skill-pause-potato |  
+| bip_39_word_dash_5 | lemon-skill-pause-potato-pool |  
+| bip_39_word_dash_6 | lemon-skill-pause-potato-pool-canoe |  
+| bip_39_word_dash_7 | lemon-skill-pause-potato-pool-canoe-boring |  
+| bip_39_word_dash_8 | lemon-skill-pause-potato-pool-canoe-boring-orange |  
+| bip_39_word_dash_9 | lemon-skill-pause-potato-pool-canoe-boring-orange-outer |  
 | bip_39_word_new_br_1 | lemon |  
 | bip_39_word_new_br_10 | lemon<br>skill<br>pause<br>potato<br>pool<br>canoe<br>boring<br>orange<br>outer<br>science |  
 | bip_39_word_new_br_11 | lemon<br>skill<br>pause<br>potato<br>pool<br>canoe<br>boring<br>orange<br>outer<br>science<br>glove |  
@@ -147,6 +159,18 @@ outer |
 | bip_39_word_space_7 | lemon skill pause potato pool canoe boring |  
 | bip_39_word_space_8 | lemon skill pause potato pool canoe boring orange |  
 | bip_39_word_space_9 | lemon skill pause potato pool canoe boring orange outer |  
+| bip_39_word_underscore_1 | lemon |  
+| bip_39_word_underscore_10 | lemon_skill_pause_potato_pool_canoe_boring_orange_outer_science |  
+| bip_39_word_underscore_11 | lemon_skill_pause_potato_pool_canoe_boring_orange_outer_science_glove |  
+| bip_39_word_underscore_12 | lemon_skill_pause_potato_pool_canoe_boring_orange_outer_science_glove_about |  
+| bip_39_word_underscore_2 | lemon_skill |  
+| bip_39_word_underscore_3 | lemon_skill_pause |  
+| bip_39_word_underscore_4 | lemon_skill_pause_potato |  
+| bip_39_word_underscore_5 | lemon_skill_pause_potato_pool |  
+| bip_39_word_underscore_6 | lemon_skill_pause_potato_pool_canoe |  
+| bip_39_word_underscore_7 | lemon_skill_pause_potato_pool_canoe_boring |  
+| bip_39_word_underscore_8 | lemon_skill_pause_potato_pool_canoe_boring_orange |  
+| bip_39_word_underscore_9 | lemon_skill_pause_potato_pool_canoe_boring_orange_outer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

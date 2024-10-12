@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | source |  
+| bip_39_word_dash_10 | source-input-remain-flash-try-surge-shrimp-rebel-access-frequent |  
+| bip_39_word_dash_11 | source-input-remain-flash-try-surge-shrimp-rebel-access-frequent-attract |  
+| bip_39_word_dash_12 | source-input-remain-flash-try-surge-shrimp-rebel-access-frequent-attract-advance |  
+| bip_39_word_dash_2 | source-input |  
+| bip_39_word_dash_3 | source-input-remain |  
+| bip_39_word_dash_4 | source-input-remain-flash |  
+| bip_39_word_dash_5 | source-input-remain-flash-try |  
+| bip_39_word_dash_6 | source-input-remain-flash-try-surge |  
+| bip_39_word_dash_7 | source-input-remain-flash-try-surge-shrimp |  
+| bip_39_word_dash_8 | source-input-remain-flash-try-surge-shrimp-rebel |  
+| bip_39_word_dash_9 | source-input-remain-flash-try-surge-shrimp-rebel-access |  
 | bip_39_word_new_br_1 | source |  
 | bip_39_word_new_br_10 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel<br>access<br>frequent |  
 | bip_39_word_new_br_11 | source<br>input<br>remain<br>flash<br>try<br>surge<br>shrimp<br>rebel<br>access<br>frequent<br>attract |  
@@ -147,6 +159,18 @@ access |
 | bip_39_word_space_7 | source input remain flash try surge shrimp |  
 | bip_39_word_space_8 | source input remain flash try surge shrimp rebel |  
 | bip_39_word_space_9 | source input remain flash try surge shrimp rebel access |  
+| bip_39_word_underscore_1 | source |  
+| bip_39_word_underscore_10 | source_input_remain_flash_try_surge_shrimp_rebel_access_frequent |  
+| bip_39_word_underscore_11 | source_input_remain_flash_try_surge_shrimp_rebel_access_frequent_attract |  
+| bip_39_word_underscore_12 | source_input_remain_flash_try_surge_shrimp_rebel_access_frequent_attract_advance |  
+| bip_39_word_underscore_2 | source_input |  
+| bip_39_word_underscore_3 | source_input_remain |  
+| bip_39_word_underscore_4 | source_input_remain_flash |  
+| bip_39_word_underscore_5 | source_input_remain_flash_try |  
+| bip_39_word_underscore_6 | source_input_remain_flash_try_surge |  
+| bip_39_word_underscore_7 | source_input_remain_flash_try_surge_shrimp |  
+| bip_39_word_underscore_8 | source_input_remain_flash_try_surge_shrimp_rebel |  
+| bip_39_word_underscore_9 | source_input_remain_flash_try_surge_shrimp_rebel_access |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

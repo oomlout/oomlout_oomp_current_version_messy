@@ -1,3 +1,15 @@
+bip_39_word_dash_1: key
+bip_39_word_dash_10: key-later-indoor-become-enter-shoulder-strategy-very-stable-margin
+bip_39_word_dash_11: key-later-indoor-become-enter-shoulder-strategy-very-stable-margin-this
+bip_39_word_dash_12: key-later-indoor-become-enter-shoulder-strategy-very-stable-margin-this-add
+bip_39_word_dash_2: key-later
+bip_39_word_dash_3: key-later-indoor
+bip_39_word_dash_4: key-later-indoor-become
+bip_39_word_dash_5: key-later-indoor-become-enter
+bip_39_word_dash_6: key-later-indoor-become-enter-shoulder
+bip_39_word_dash_7: key-later-indoor-become-enter-shoulder-strategy
+bip_39_word_dash_8: key-later-indoor-become-enter-shoulder-strategy-very
+bip_39_word_dash_9: key-later-indoor-become-enter-shoulder-strategy-very-stable
 bip_39_word_new_br_1: key
 bip_39_word_new_br_10: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin
 bip_39_word_new_br_11: key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin<br>this
@@ -194,6 +206,18 @@ bip_39_word_space_6: key later indoor become enter shoulder
 bip_39_word_space_7: key later indoor become enter shoulder strategy
 bip_39_word_space_8: key later indoor become enter shoulder strategy very
 bip_39_word_space_9: key later indoor become enter shoulder strategy very stable
+bip_39_word_underscore_1: key
+bip_39_word_underscore_10: key_later_indoor_become_enter_shoulder_strategy_very_stable_margin
+bip_39_word_underscore_11: key_later_indoor_become_enter_shoulder_strategy_very_stable_margin_this
+bip_39_word_underscore_12: key_later_indoor_become_enter_shoulder_strategy_very_stable_margin_this_add
+bip_39_word_underscore_2: key_later
+bip_39_word_underscore_3: key_later_indoor
+bip_39_word_underscore_4: key_later_indoor_become
+bip_39_word_underscore_5: key_later_indoor_become_enter
+bip_39_word_underscore_6: key_later_indoor_become_enter_shoulder
+bip_39_word_underscore_7: key_later_indoor_become_enter_shoulder_strategy
+bip_39_word_underscore_8: key_later_indoor_become_enter_shoulder_strategy_very
+bip_39_word_underscore_9: key_later_indoor_become_enter_shoulder_strategy_very_stable
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

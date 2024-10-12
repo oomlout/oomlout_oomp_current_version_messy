@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wet
+bip_39_word_dash_10: wet-accident-until-diagram-will-glad-hurt-squeeze-today-awake
+bip_39_word_dash_11: wet-accident-until-diagram-will-glad-hurt-squeeze-today-awake-venture
+bip_39_word_dash_12: wet-accident-until-diagram-will-glad-hurt-squeeze-today-awake-venture-average
+bip_39_word_dash_2: wet-accident
+bip_39_word_dash_3: wet-accident-until
+bip_39_word_dash_4: wet-accident-until-diagram
+bip_39_word_dash_5: wet-accident-until-diagram-will
+bip_39_word_dash_6: wet-accident-until-diagram-will-glad
+bip_39_word_dash_7: wet-accident-until-diagram-will-glad-hurt
+bip_39_word_dash_8: wet-accident-until-diagram-will-glad-hurt-squeeze
+bip_39_word_dash_9: wet-accident-until-diagram-will-glad-hurt-squeeze-today
 bip_39_word_new_br_1: wet
 bip_39_word_new_br_10: wet<br>accident<br>until<br>diagram<br>will<br>glad<br>hurt<br>squeeze<br>today<br>awake
 bip_39_word_new_br_11: wet<br>accident<br>until<br>diagram<br>will<br>glad<br>hurt<br>squeeze<br>today<br>awake<br>venture
@@ -193,6 +205,18 @@ bip_39_word_space_6: wet accident until diagram will glad
 bip_39_word_space_7: wet accident until diagram will glad hurt
 bip_39_word_space_8: wet accident until diagram will glad hurt squeeze
 bip_39_word_space_9: wet accident until diagram will glad hurt squeeze today
+bip_39_word_underscore_1: wet
+bip_39_word_underscore_10: wet_accident_until_diagram_will_glad_hurt_squeeze_today_awake
+bip_39_word_underscore_11: wet_accident_until_diagram_will_glad_hurt_squeeze_today_awake_venture
+bip_39_word_underscore_12: wet_accident_until_diagram_will_glad_hurt_squeeze_today_awake_venture_average
+bip_39_word_underscore_2: wet_accident
+bip_39_word_underscore_3: wet_accident_until
+bip_39_word_underscore_4: wet_accident_until_diagram
+bip_39_word_underscore_5: wet_accident_until_diagram_will
+bip_39_word_underscore_6: wet_accident_until_diagram_will_glad
+bip_39_word_underscore_7: wet_accident_until_diagram_will_glad_hurt
+bip_39_word_underscore_8: wet_accident_until_diagram_will_glad_hurt_squeeze
+bip_39_word_underscore_9: wet_accident_until_diagram_will_glad_hurt_squeeze_today
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

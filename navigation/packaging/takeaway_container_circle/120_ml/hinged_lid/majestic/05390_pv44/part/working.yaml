@@ -1,3 +1,15 @@
+bip_39_word_dash_1: merit
+bip_39_word_dash_10: merit-sponsor-nephew-vendor-bench-gas-color-young-monitor-turkey
+bip_39_word_dash_11: merit-sponsor-nephew-vendor-bench-gas-color-young-monitor-turkey-salon
+bip_39_word_dash_12: merit-sponsor-nephew-vendor-bench-gas-color-young-monitor-turkey-salon-attitude
+bip_39_word_dash_2: merit-sponsor
+bip_39_word_dash_3: merit-sponsor-nephew
+bip_39_word_dash_4: merit-sponsor-nephew-vendor
+bip_39_word_dash_5: merit-sponsor-nephew-vendor-bench
+bip_39_word_dash_6: merit-sponsor-nephew-vendor-bench-gas
+bip_39_word_dash_7: merit-sponsor-nephew-vendor-bench-gas-color
+bip_39_word_dash_8: merit-sponsor-nephew-vendor-bench-gas-color-young
+bip_39_word_dash_9: merit-sponsor-nephew-vendor-bench-gas-color-young-monitor
 bip_39_word_new_br_1: merit
 bip_39_word_new_br_10: merit<br>sponsor<br>nephew<br>vendor<br>bench<br>gas<br>color<br>young<br>monitor<br>turkey
 bip_39_word_new_br_11: merit<br>sponsor<br>nephew<br>vendor<br>bench<br>gas<br>color<br>young<br>monitor<br>turkey<br>salon
@@ -193,6 +205,18 @@ bip_39_word_space_6: merit sponsor nephew vendor bench gas
 bip_39_word_space_7: merit sponsor nephew vendor bench gas color
 bip_39_word_space_8: merit sponsor nephew vendor bench gas color young
 bip_39_word_space_9: merit sponsor nephew vendor bench gas color young monitor
+bip_39_word_underscore_1: merit
+bip_39_word_underscore_10: merit_sponsor_nephew_vendor_bench_gas_color_young_monitor_turkey
+bip_39_word_underscore_11: merit_sponsor_nephew_vendor_bench_gas_color_young_monitor_turkey_salon
+bip_39_word_underscore_12: merit_sponsor_nephew_vendor_bench_gas_color_young_monitor_turkey_salon_attitude
+bip_39_word_underscore_2: merit_sponsor
+bip_39_word_underscore_3: merit_sponsor_nephew
+bip_39_word_underscore_4: merit_sponsor_nephew_vendor
+bip_39_word_underscore_5: merit_sponsor_nephew_vendor_bench
+bip_39_word_underscore_6: merit_sponsor_nephew_vendor_bench_gas
+bip_39_word_underscore_7: merit_sponsor_nephew_vendor_bench_gas_color
+bip_39_word_underscore_8: merit_sponsor_nephew_vendor_bench_gas_color_young
+bip_39_word_underscore_9: merit_sponsor_nephew_vendor_bench_gas_color_young_monitor
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

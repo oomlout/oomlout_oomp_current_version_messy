@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brief
+bip_39_word_dash_10: brief-toilet-charge-core-allow-trigger-grid-mixture-need-exchange
+bip_39_word_dash_11: brief-toilet-charge-core-allow-trigger-grid-mixture-need-exchange-increase
+bip_39_word_dash_12: brief-toilet-charge-core-allow-trigger-grid-mixture-need-exchange-increase-advice
+bip_39_word_dash_2: brief-toilet
+bip_39_word_dash_3: brief-toilet-charge
+bip_39_word_dash_4: brief-toilet-charge-core
+bip_39_word_dash_5: brief-toilet-charge-core-allow
+bip_39_word_dash_6: brief-toilet-charge-core-allow-trigger
+bip_39_word_dash_7: brief-toilet-charge-core-allow-trigger-grid
+bip_39_word_dash_8: brief-toilet-charge-core-allow-trigger-grid-mixture
+bip_39_word_dash_9: brief-toilet-charge-core-allow-trigger-grid-mixture-need
 bip_39_word_new_br_1: brief
 bip_39_word_new_br_10: brief<br>toilet<br>charge<br>core<br>allow<br>trigger<br>grid<br>mixture<br>need<br>exchange
 bip_39_word_new_br_11: brief<br>toilet<br>charge<br>core<br>allow<br>trigger<br>grid<br>mixture<br>need<br>exchange<br>increase
@@ -193,6 +205,18 @@ bip_39_word_space_6: brief toilet charge core allow trigger
 bip_39_word_space_7: brief toilet charge core allow trigger grid
 bip_39_word_space_8: brief toilet charge core allow trigger grid mixture
 bip_39_word_space_9: brief toilet charge core allow trigger grid mixture need
+bip_39_word_underscore_1: brief
+bip_39_word_underscore_10: brief_toilet_charge_core_allow_trigger_grid_mixture_need_exchange
+bip_39_word_underscore_11: brief_toilet_charge_core_allow_trigger_grid_mixture_need_exchange_increase
+bip_39_word_underscore_12: brief_toilet_charge_core_allow_trigger_grid_mixture_need_exchange_increase_advice
+bip_39_word_underscore_2: brief_toilet
+bip_39_word_underscore_3: brief_toilet_charge
+bip_39_word_underscore_4: brief_toilet_charge_core
+bip_39_word_underscore_5: brief_toilet_charge_core_allow
+bip_39_word_underscore_6: brief_toilet_charge_core_allow_trigger
+bip_39_word_underscore_7: brief_toilet_charge_core_allow_trigger_grid
+bip_39_word_underscore_8: brief_toilet_charge_core_allow_trigger_grid_mixture
+bip_39_word_underscore_9: brief_toilet_charge_core_allow_trigger_grid_mixture_need
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

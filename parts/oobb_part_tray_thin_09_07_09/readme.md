@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coast |  
+| bip_39_word_dash_10 | coast-cute-toss-gentle-banana-sock-kick-twelve-stomach-doll |  
+| bip_39_word_dash_11 | coast-cute-toss-gentle-banana-sock-kick-twelve-stomach-doll-token |  
+| bip_39_word_dash_12 | coast-cute-toss-gentle-banana-sock-kick-twelve-stomach-doll-token-asset |  
+| bip_39_word_dash_2 | coast-cute |  
+| bip_39_word_dash_3 | coast-cute-toss |  
+| bip_39_word_dash_4 | coast-cute-toss-gentle |  
+| bip_39_word_dash_5 | coast-cute-toss-gentle-banana |  
+| bip_39_word_dash_6 | coast-cute-toss-gentle-banana-sock |  
+| bip_39_word_dash_7 | coast-cute-toss-gentle-banana-sock-kick |  
+| bip_39_word_dash_8 | coast-cute-toss-gentle-banana-sock-kick-twelve |  
+| bip_39_word_dash_9 | coast-cute-toss-gentle-banana-sock-kick-twelve-stomach |  
 | bip_39_word_new_br_1 | coast |  
 | bip_39_word_new_br_10 | coast<br>cute<br>toss<br>gentle<br>banana<br>sock<br>kick<br>twelve<br>stomach<br>doll |  
 | bip_39_word_new_br_11 | coast<br>cute<br>toss<br>gentle<br>banana<br>sock<br>kick<br>twelve<br>stomach<br>doll<br>token |  
@@ -147,6 +159,18 @@ stomach |
 | bip_39_word_space_7 | coast cute toss gentle banana sock kick |  
 | bip_39_word_space_8 | coast cute toss gentle banana sock kick twelve |  
 | bip_39_word_space_9 | coast cute toss gentle banana sock kick twelve stomach |  
+| bip_39_word_underscore_1 | coast |  
+| bip_39_word_underscore_10 | coast_cute_toss_gentle_banana_sock_kick_twelve_stomach_doll |  
+| bip_39_word_underscore_11 | coast_cute_toss_gentle_banana_sock_kick_twelve_stomach_doll_token |  
+| bip_39_word_underscore_12 | coast_cute_toss_gentle_banana_sock_kick_twelve_stomach_doll_token_asset |  
+| bip_39_word_underscore_2 | coast_cute |  
+| bip_39_word_underscore_3 | coast_cute_toss |  
+| bip_39_word_underscore_4 | coast_cute_toss_gentle |  
+| bip_39_word_underscore_5 | coast_cute_toss_gentle_banana |  
+| bip_39_word_underscore_6 | coast_cute_toss_gentle_banana_sock |  
+| bip_39_word_underscore_7 | coast_cute_toss_gentle_banana_sock_kick |  
+| bip_39_word_underscore_8 | coast_cute_toss_gentle_banana_sock_kick_twelve |  
+| bip_39_word_underscore_9 | coast_cute_toss_gentle_banana_sock_kick_twelve_stomach |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

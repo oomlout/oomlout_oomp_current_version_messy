@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | claw |  
+| bip_39_word_dash_10 | claw-oxygen-diesel-vacant-pave-drip-draft-document-eye-any |  
+| bip_39_word_dash_11 | claw-oxygen-diesel-vacant-pave-drip-draft-document-eye-any-rural |  
+| bip_39_word_dash_12 | claw-oxygen-diesel-vacant-pave-drip-draft-document-eye-any-rural-angle |  
+| bip_39_word_dash_2 | claw-oxygen |  
+| bip_39_word_dash_3 | claw-oxygen-diesel |  
+| bip_39_word_dash_4 | claw-oxygen-diesel-vacant |  
+| bip_39_word_dash_5 | claw-oxygen-diesel-vacant-pave |  
+| bip_39_word_dash_6 | claw-oxygen-diesel-vacant-pave-drip |  
+| bip_39_word_dash_7 | claw-oxygen-diesel-vacant-pave-drip-draft |  
+| bip_39_word_dash_8 | claw-oxygen-diesel-vacant-pave-drip-draft-document |  
+| bip_39_word_dash_9 | claw-oxygen-diesel-vacant-pave-drip-draft-document-eye |  
 | bip_39_word_new_br_1 | claw |  
 | bip_39_word_new_br_10 | claw<br>oxygen<br>diesel<br>vacant<br>pave<br>drip<br>draft<br>document<br>eye<br>any |  
 | bip_39_word_new_br_11 | claw<br>oxygen<br>diesel<br>vacant<br>pave<br>drip<br>draft<br>document<br>eye<br>any<br>rural |  
@@ -147,6 +159,18 @@ eye |
 | bip_39_word_space_7 | claw oxygen diesel vacant pave drip draft |  
 | bip_39_word_space_8 | claw oxygen diesel vacant pave drip draft document |  
 | bip_39_word_space_9 | claw oxygen diesel vacant pave drip draft document eye |  
+| bip_39_word_underscore_1 | claw |  
+| bip_39_word_underscore_10 | claw_oxygen_diesel_vacant_pave_drip_draft_document_eye_any |  
+| bip_39_word_underscore_11 | claw_oxygen_diesel_vacant_pave_drip_draft_document_eye_any_rural |  
+| bip_39_word_underscore_12 | claw_oxygen_diesel_vacant_pave_drip_draft_document_eye_any_rural_angle |  
+| bip_39_word_underscore_2 | claw_oxygen |  
+| bip_39_word_underscore_3 | claw_oxygen_diesel |  
+| bip_39_word_underscore_4 | claw_oxygen_diesel_vacant |  
+| bip_39_word_underscore_5 | claw_oxygen_diesel_vacant_pave |  
+| bip_39_word_underscore_6 | claw_oxygen_diesel_vacant_pave_drip |  
+| bip_39_word_underscore_7 | claw_oxygen_diesel_vacant_pave_drip_draft |  
+| bip_39_word_underscore_8 | claw_oxygen_diesel_vacant_pave_drip_draft_document |  
+| bip_39_word_underscore_9 | claw_oxygen_diesel_vacant_pave_drip_draft_document_eye |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

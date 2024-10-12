@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rule
+bip_39_word_dash_10: rule-donkey-exercise-expect-best-glove-cable-trust-liquid-resource
+bip_39_word_dash_11: rule-donkey-exercise-expect-best-glove-cable-trust-liquid-resource-unable
+bip_39_word_dash_12: rule-donkey-exercise-expect-best-glove-cable-trust-liquid-resource-unable-alcohol
+bip_39_word_dash_2: rule-donkey
+bip_39_word_dash_3: rule-donkey-exercise
+bip_39_word_dash_4: rule-donkey-exercise-expect
+bip_39_word_dash_5: rule-donkey-exercise-expect-best
+bip_39_word_dash_6: rule-donkey-exercise-expect-best-glove
+bip_39_word_dash_7: rule-donkey-exercise-expect-best-glove-cable
+bip_39_word_dash_8: rule-donkey-exercise-expect-best-glove-cable-trust
+bip_39_word_dash_9: rule-donkey-exercise-expect-best-glove-cable-trust-liquid
 bip_39_word_new_br_1: rule
 bip_39_word_new_br_10: rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust<br>liquid<br>resource
 bip_39_word_new_br_11: rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust<br>liquid<br>resource<br>unable
@@ -193,6 +205,18 @@ bip_39_word_space_6: rule donkey exercise expect best glove
 bip_39_word_space_7: rule donkey exercise expect best glove cable
 bip_39_word_space_8: rule donkey exercise expect best glove cable trust
 bip_39_word_space_9: rule donkey exercise expect best glove cable trust liquid
+bip_39_word_underscore_1: rule
+bip_39_word_underscore_10: rule_donkey_exercise_expect_best_glove_cable_trust_liquid_resource
+bip_39_word_underscore_11: rule_donkey_exercise_expect_best_glove_cable_trust_liquid_resource_unable
+bip_39_word_underscore_12: rule_donkey_exercise_expect_best_glove_cable_trust_liquid_resource_unable_alcohol
+bip_39_word_underscore_2: rule_donkey
+bip_39_word_underscore_3: rule_donkey_exercise
+bip_39_word_underscore_4: rule_donkey_exercise_expect
+bip_39_word_underscore_5: rule_donkey_exercise_expect_best
+bip_39_word_underscore_6: rule_donkey_exercise_expect_best_glove
+bip_39_word_underscore_7: rule_donkey_exercise_expect_best_glove_cable
+bip_39_word_underscore_8: rule_donkey_exercise_expect_best_glove_cable_trust
+bip_39_word_underscore_9: rule_donkey_exercise_expect_best_glove_cable_trust_liquid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | attack |  
+| bip_39_word_dash_10 | attack-park-elephant-piano-wisdom-ivory-discover-face-toilet-rent |  
+| bip_39_word_dash_11 | attack-park-elephant-piano-wisdom-ivory-discover-face-toilet-rent-attend |  
+| bip_39_word_dash_12 | attack-park-elephant-piano-wisdom-ivory-discover-face-toilet-rent-attend-alter |  
+| bip_39_word_dash_2 | attack-park |  
+| bip_39_word_dash_3 | attack-park-elephant |  
+| bip_39_word_dash_4 | attack-park-elephant-piano |  
+| bip_39_word_dash_5 | attack-park-elephant-piano-wisdom |  
+| bip_39_word_dash_6 | attack-park-elephant-piano-wisdom-ivory |  
+| bip_39_word_dash_7 | attack-park-elephant-piano-wisdom-ivory-discover |  
+| bip_39_word_dash_8 | attack-park-elephant-piano-wisdom-ivory-discover-face |  
+| bip_39_word_dash_9 | attack-park-elephant-piano-wisdom-ivory-discover-face-toilet |  
 | bip_39_word_new_br_1 | attack |  
 | bip_39_word_new_br_10 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face<br>toilet<br>rent |  
 | bip_39_word_new_br_11 | attack<br>park<br>elephant<br>piano<br>wisdom<br>ivory<br>discover<br>face<br>toilet<br>rent<br>attend |  
@@ -147,6 +159,18 @@ toilet |
 | bip_39_word_space_7 | attack park elephant piano wisdom ivory discover |  
 | bip_39_word_space_8 | attack park elephant piano wisdom ivory discover face |  
 | bip_39_word_space_9 | attack park elephant piano wisdom ivory discover face toilet |  
+| bip_39_word_underscore_1 | attack |  
+| bip_39_word_underscore_10 | attack_park_elephant_piano_wisdom_ivory_discover_face_toilet_rent |  
+| bip_39_word_underscore_11 | attack_park_elephant_piano_wisdom_ivory_discover_face_toilet_rent_attend |  
+| bip_39_word_underscore_12 | attack_park_elephant_piano_wisdom_ivory_discover_face_toilet_rent_attend_alter |  
+| bip_39_word_underscore_2 | attack_park |  
+| bip_39_word_underscore_3 | attack_park_elephant |  
+| bip_39_word_underscore_4 | attack_park_elephant_piano |  
+| bip_39_word_underscore_5 | attack_park_elephant_piano_wisdom |  
+| bip_39_word_underscore_6 | attack_park_elephant_piano_wisdom_ivory |  
+| bip_39_word_underscore_7 | attack_park_elephant_piano_wisdom_ivory_discover |  
+| bip_39_word_underscore_8 | attack_park_elephant_piano_wisdom_ivory_discover_face |  
+| bip_39_word_underscore_9 | attack_park_elephant_piano_wisdom_ivory_discover_face_toilet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: country
+bip_39_word_dash_10: country-suggest-very-junior-note-staff-learn-always-mimic-civil
+bip_39_word_dash_11: country-suggest-very-junior-note-staff-learn-always-mimic-civil-speak
+bip_39_word_dash_12: country-suggest-very-junior-note-staff-learn-always-mimic-civil-speak-average
+bip_39_word_dash_2: country-suggest
+bip_39_word_dash_3: country-suggest-very
+bip_39_word_dash_4: country-suggest-very-junior
+bip_39_word_dash_5: country-suggest-very-junior-note
+bip_39_word_dash_6: country-suggest-very-junior-note-staff
+bip_39_word_dash_7: country-suggest-very-junior-note-staff-learn
+bip_39_word_dash_8: country-suggest-very-junior-note-staff-learn-always
+bip_39_word_dash_9: country-suggest-very-junior-note-staff-learn-always-mimic
 bip_39_word_new_br_1: country
 bip_39_word_new_br_10: country<br>suggest<br>very<br>junior<br>note<br>staff<br>learn<br>always<br>mimic<br>civil
 bip_39_word_new_br_11: country<br>suggest<br>very<br>junior<br>note<br>staff<br>learn<br>always<br>mimic<br>civil<br>speak
@@ -193,6 +205,18 @@ bip_39_word_space_6: country suggest very junior note staff
 bip_39_word_space_7: country suggest very junior note staff learn
 bip_39_word_space_8: country suggest very junior note staff learn always
 bip_39_word_space_9: country suggest very junior note staff learn always mimic
+bip_39_word_underscore_1: country
+bip_39_word_underscore_10: country_suggest_very_junior_note_staff_learn_always_mimic_civil
+bip_39_word_underscore_11: country_suggest_very_junior_note_staff_learn_always_mimic_civil_speak
+bip_39_word_underscore_12: country_suggest_very_junior_note_staff_learn_always_mimic_civil_speak_average
+bip_39_word_underscore_2: country_suggest
+bip_39_word_underscore_3: country_suggest_very
+bip_39_word_underscore_4: country_suggest_very_junior
+bip_39_word_underscore_5: country_suggest_very_junior_note
+bip_39_word_underscore_6: country_suggest_very_junior_note_staff
+bip_39_word_underscore_7: country_suggest_very_junior_note_staff_learn
+bip_39_word_underscore_8: country_suggest_very_junior_note_staff_learn_always
+bip_39_word_underscore_9: country_suggest_very_junior_note_staff_learn_always_mimic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

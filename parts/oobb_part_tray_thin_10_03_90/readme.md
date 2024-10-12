@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | acoustic |  
+| bip_39_word_dash_10 | acoustic-boat-aunt-staff-future-know-warm-camp-guard-happy |  
+| bip_39_word_dash_11 | acoustic-boat-aunt-staff-future-know-warm-camp-guard-happy-oven |  
+| bip_39_word_dash_12 | acoustic-boat-aunt-staff-future-know-warm-camp-guard-happy-oven-amazing |  
+| bip_39_word_dash_2 | acoustic-boat |  
+| bip_39_word_dash_3 | acoustic-boat-aunt |  
+| bip_39_word_dash_4 | acoustic-boat-aunt-staff |  
+| bip_39_word_dash_5 | acoustic-boat-aunt-staff-future |  
+| bip_39_word_dash_6 | acoustic-boat-aunt-staff-future-know |  
+| bip_39_word_dash_7 | acoustic-boat-aunt-staff-future-know-warm |  
+| bip_39_word_dash_8 | acoustic-boat-aunt-staff-future-know-warm-camp |  
+| bip_39_word_dash_9 | acoustic-boat-aunt-staff-future-know-warm-camp-guard |  
 | bip_39_word_new_br_1 | acoustic |  
 | bip_39_word_new_br_10 | acoustic<br>boat<br>aunt<br>staff<br>future<br>know<br>warm<br>camp<br>guard<br>happy |  
 | bip_39_word_new_br_11 | acoustic<br>boat<br>aunt<br>staff<br>future<br>know<br>warm<br>camp<br>guard<br>happy<br>oven |  
@@ -147,6 +159,18 @@ guard |
 | bip_39_word_space_7 | acoustic boat aunt staff future know warm |  
 | bip_39_word_space_8 | acoustic boat aunt staff future know warm camp |  
 | bip_39_word_space_9 | acoustic boat aunt staff future know warm camp guard |  
+| bip_39_word_underscore_1 | acoustic |  
+| bip_39_word_underscore_10 | acoustic_boat_aunt_staff_future_know_warm_camp_guard_happy |  
+| bip_39_word_underscore_11 | acoustic_boat_aunt_staff_future_know_warm_camp_guard_happy_oven |  
+| bip_39_word_underscore_12 | acoustic_boat_aunt_staff_future_know_warm_camp_guard_happy_oven_amazing |  
+| bip_39_word_underscore_2 | acoustic_boat |  
+| bip_39_word_underscore_3 | acoustic_boat_aunt |  
+| bip_39_word_underscore_4 | acoustic_boat_aunt_staff |  
+| bip_39_word_underscore_5 | acoustic_boat_aunt_staff_future |  
+| bip_39_word_underscore_6 | acoustic_boat_aunt_staff_future_know |  
+| bip_39_word_underscore_7 | acoustic_boat_aunt_staff_future_know_warm |  
+| bip_39_word_underscore_8 | acoustic_boat_aunt_staff_future_know_warm_camp |  
+| bip_39_word_underscore_9 | acoustic_boat_aunt_staff_future_know_warm_camp_guard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | twenty |  
+| bip_39_word_dash_10 | twenty-entry-modify-ice-lesson-jump-sick-hurt-flip-sniff |  
+| bip_39_word_dash_11 | twenty-entry-modify-ice-lesson-jump-sick-hurt-flip-sniff-easily |  
+| bip_39_word_dash_12 | twenty-entry-modify-ice-lesson-jump-sick-hurt-flip-sniff-easily-able |  
+| bip_39_word_dash_2 | twenty-entry |  
+| bip_39_word_dash_3 | twenty-entry-modify |  
+| bip_39_word_dash_4 | twenty-entry-modify-ice |  
+| bip_39_word_dash_5 | twenty-entry-modify-ice-lesson |  
+| bip_39_word_dash_6 | twenty-entry-modify-ice-lesson-jump |  
+| bip_39_word_dash_7 | twenty-entry-modify-ice-lesson-jump-sick |  
+| bip_39_word_dash_8 | twenty-entry-modify-ice-lesson-jump-sick-hurt |  
+| bip_39_word_dash_9 | twenty-entry-modify-ice-lesson-jump-sick-hurt-flip |  
 | bip_39_word_new_br_1 | twenty |  
 | bip_39_word_new_br_10 | twenty<br>entry<br>modify<br>ice<br>lesson<br>jump<br>sick<br>hurt<br>flip<br>sniff |  
 | bip_39_word_new_br_11 | twenty<br>entry<br>modify<br>ice<br>lesson<br>jump<br>sick<br>hurt<br>flip<br>sniff<br>easily |  
@@ -147,6 +159,18 @@ flip |
 | bip_39_word_space_7 | twenty entry modify ice lesson jump sick |  
 | bip_39_word_space_8 | twenty entry modify ice lesson jump sick hurt |  
 | bip_39_word_space_9 | twenty entry modify ice lesson jump sick hurt flip |  
+| bip_39_word_underscore_1 | twenty |  
+| bip_39_word_underscore_10 | twenty_entry_modify_ice_lesson_jump_sick_hurt_flip_sniff |  
+| bip_39_word_underscore_11 | twenty_entry_modify_ice_lesson_jump_sick_hurt_flip_sniff_easily |  
+| bip_39_word_underscore_12 | twenty_entry_modify_ice_lesson_jump_sick_hurt_flip_sniff_easily_able |  
+| bip_39_word_underscore_2 | twenty_entry |  
+| bip_39_word_underscore_3 | twenty_entry_modify |  
+| bip_39_word_underscore_4 | twenty_entry_modify_ice |  
+| bip_39_word_underscore_5 | twenty_entry_modify_ice_lesson |  
+| bip_39_word_underscore_6 | twenty_entry_modify_ice_lesson_jump |  
+| bip_39_word_underscore_7 | twenty_entry_modify_ice_lesson_jump_sick |  
+| bip_39_word_underscore_8 | twenty_entry_modify_ice_lesson_jump_sick_hurt |  
+| bip_39_word_underscore_9 | twenty_entry_modify_ice_lesson_jump_sick_hurt_flip |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sense
+bip_39_word_dash_10: sense-fortune-lumber-almost-pull-range-crop-deputy-crouch-orbit
+bip_39_word_dash_11: sense-fortune-lumber-almost-pull-range-crop-deputy-crouch-orbit-deny
+bip_39_word_dash_12: sense-fortune-lumber-almost-pull-range-crop-deputy-crouch-orbit-deny-auto
+bip_39_word_dash_2: sense-fortune
+bip_39_word_dash_3: sense-fortune-lumber
+bip_39_word_dash_4: sense-fortune-lumber-almost
+bip_39_word_dash_5: sense-fortune-lumber-almost-pull
+bip_39_word_dash_6: sense-fortune-lumber-almost-pull-range
+bip_39_word_dash_7: sense-fortune-lumber-almost-pull-range-crop
+bip_39_word_dash_8: sense-fortune-lumber-almost-pull-range-crop-deputy
+bip_39_word_dash_9: sense-fortune-lumber-almost-pull-range-crop-deputy-crouch
 bip_39_word_new_br_1: sense
 bip_39_word_new_br_10: sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit
 bip_39_word_new_br_11: sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit<br>deny
@@ -193,6 +205,18 @@ bip_39_word_space_6: sense fortune lumber almost pull range
 bip_39_word_space_7: sense fortune lumber almost pull range crop
 bip_39_word_space_8: sense fortune lumber almost pull range crop deputy
 bip_39_word_space_9: sense fortune lumber almost pull range crop deputy crouch
+bip_39_word_underscore_1: sense
+bip_39_word_underscore_10: sense_fortune_lumber_almost_pull_range_crop_deputy_crouch_orbit
+bip_39_word_underscore_11: sense_fortune_lumber_almost_pull_range_crop_deputy_crouch_orbit_deny
+bip_39_word_underscore_12: sense_fortune_lumber_almost_pull_range_crop_deputy_crouch_orbit_deny_auto
+bip_39_word_underscore_2: sense_fortune
+bip_39_word_underscore_3: sense_fortune_lumber
+bip_39_word_underscore_4: sense_fortune_lumber_almost
+bip_39_word_underscore_5: sense_fortune_lumber_almost_pull
+bip_39_word_underscore_6: sense_fortune_lumber_almost_pull_range
+bip_39_word_underscore_7: sense_fortune_lumber_almost_pull_range_crop
+bip_39_word_underscore_8: sense_fortune_lumber_almost_pull_range_crop_deputy
+bip_39_word_underscore_9: sense_fortune_lumber_almost_pull_range_crop_deputy_crouch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

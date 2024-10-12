@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tomorrow |  
+| bip_39_word_dash_10 | tomorrow-box-ivory-equal-verb-bread-sad-oval-biology-online |  
+| bip_39_word_dash_11 | tomorrow-box-ivory-equal-verb-bread-sad-oval-biology-online-reason |  
+| bip_39_word_dash_12 | tomorrow-box-ivory-equal-verb-bread-sad-oval-biology-online-reason-arctic |  
+| bip_39_word_dash_2 | tomorrow-box |  
+| bip_39_word_dash_3 | tomorrow-box-ivory |  
+| bip_39_word_dash_4 | tomorrow-box-ivory-equal |  
+| bip_39_word_dash_5 | tomorrow-box-ivory-equal-verb |  
+| bip_39_word_dash_6 | tomorrow-box-ivory-equal-verb-bread |  
+| bip_39_word_dash_7 | tomorrow-box-ivory-equal-verb-bread-sad |  
+| bip_39_word_dash_8 | tomorrow-box-ivory-equal-verb-bread-sad-oval |  
+| bip_39_word_dash_9 | tomorrow-box-ivory-equal-verb-bread-sad-oval-biology |  
 | bip_39_word_new_br_1 | tomorrow |  
 | bip_39_word_new_br_10 | tomorrow<br>box<br>ivory<br>equal<br>verb<br>bread<br>sad<br>oval<br>biology<br>online |  
 | bip_39_word_new_br_11 | tomorrow<br>box<br>ivory<br>equal<br>verb<br>bread<br>sad<br>oval<br>biology<br>online<br>reason |  
@@ -147,6 +159,18 @@ biology |
 | bip_39_word_space_7 | tomorrow box ivory equal verb bread sad |  
 | bip_39_word_space_8 | tomorrow box ivory equal verb bread sad oval |  
 | bip_39_word_space_9 | tomorrow box ivory equal verb bread sad oval biology |  
+| bip_39_word_underscore_1 | tomorrow |  
+| bip_39_word_underscore_10 | tomorrow_box_ivory_equal_verb_bread_sad_oval_biology_online |  
+| bip_39_word_underscore_11 | tomorrow_box_ivory_equal_verb_bread_sad_oval_biology_online_reason |  
+| bip_39_word_underscore_12 | tomorrow_box_ivory_equal_verb_bread_sad_oval_biology_online_reason_arctic |  
+| bip_39_word_underscore_2 | tomorrow_box |  
+| bip_39_word_underscore_3 | tomorrow_box_ivory |  
+| bip_39_word_underscore_4 | tomorrow_box_ivory_equal |  
+| bip_39_word_underscore_5 | tomorrow_box_ivory_equal_verb |  
+| bip_39_word_underscore_6 | tomorrow_box_ivory_equal_verb_bread |  
+| bip_39_word_underscore_7 | tomorrow_box_ivory_equal_verb_bread_sad |  
+| bip_39_word_underscore_8 | tomorrow_box_ivory_equal_verb_bread_sad_oval |  
+| bip_39_word_underscore_9 | tomorrow_box_ivory_equal_verb_bread_sad_oval_biology |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unlock
+bip_39_word_dash_10: unlock-palace-vast-text-danger-myth-cloud-flock-million-nut
+bip_39_word_dash_11: unlock-palace-vast-text-danger-myth-cloud-flock-million-nut-super
+bip_39_word_dash_12: unlock-palace-vast-text-danger-myth-cloud-flock-million-nut-super-august
+bip_39_word_dash_2: unlock-palace
+bip_39_word_dash_3: unlock-palace-vast
+bip_39_word_dash_4: unlock-palace-vast-text
+bip_39_word_dash_5: unlock-palace-vast-text-danger
+bip_39_word_dash_6: unlock-palace-vast-text-danger-myth
+bip_39_word_dash_7: unlock-palace-vast-text-danger-myth-cloud
+bip_39_word_dash_8: unlock-palace-vast-text-danger-myth-cloud-flock
+bip_39_word_dash_9: unlock-palace-vast-text-danger-myth-cloud-flock-million
 bip_39_word_new_br_1: unlock
 bip_39_word_new_br_10: unlock<br>palace<br>vast<br>text<br>danger<br>myth<br>cloud<br>flock<br>million<br>nut
 bip_39_word_new_br_11: unlock<br>palace<br>vast<br>text<br>danger<br>myth<br>cloud<br>flock<br>million<br>nut<br>super
@@ -193,6 +205,18 @@ bip_39_word_space_6: unlock palace vast text danger myth
 bip_39_word_space_7: unlock palace vast text danger myth cloud
 bip_39_word_space_8: unlock palace vast text danger myth cloud flock
 bip_39_word_space_9: unlock palace vast text danger myth cloud flock million
+bip_39_word_underscore_1: unlock
+bip_39_word_underscore_10: unlock_palace_vast_text_danger_myth_cloud_flock_million_nut
+bip_39_word_underscore_11: unlock_palace_vast_text_danger_myth_cloud_flock_million_nut_super
+bip_39_word_underscore_12: unlock_palace_vast_text_danger_myth_cloud_flock_million_nut_super_august
+bip_39_word_underscore_2: unlock_palace
+bip_39_word_underscore_3: unlock_palace_vast
+bip_39_word_underscore_4: unlock_palace_vast_text
+bip_39_word_underscore_5: unlock_palace_vast_text_danger
+bip_39_word_underscore_6: unlock_palace_vast_text_danger_myth
+bip_39_word_underscore_7: unlock_palace_vast_text_danger_myth_cloud
+bip_39_word_underscore_8: unlock_palace_vast_text_danger_myth_cloud_flock
+bip_39_word_underscore_9: unlock_palace_vast_text_danger_myth_cloud_flock_million
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

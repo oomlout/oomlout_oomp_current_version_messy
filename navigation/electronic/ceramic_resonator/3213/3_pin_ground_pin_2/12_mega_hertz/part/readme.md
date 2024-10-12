@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mean |  
+| bip_39_word_dash_10 | mean-exchange-promote-kingdom-truly-monkey-climb-unfair-clown-fence |  
+| bip_39_word_dash_11 | mean-exchange-promote-kingdom-truly-monkey-climb-unfair-clown-fence-credit |  
+| bip_39_word_dash_12 | mean-exchange-promote-kingdom-truly-monkey-climb-unfair-clown-fence-credit-amateur |  
+| bip_39_word_dash_2 | mean-exchange |  
+| bip_39_word_dash_3 | mean-exchange-promote |  
+| bip_39_word_dash_4 | mean-exchange-promote-kingdom |  
+| bip_39_word_dash_5 | mean-exchange-promote-kingdom-truly |  
+| bip_39_word_dash_6 | mean-exchange-promote-kingdom-truly-monkey |  
+| bip_39_word_dash_7 | mean-exchange-promote-kingdom-truly-monkey-climb |  
+| bip_39_word_dash_8 | mean-exchange-promote-kingdom-truly-monkey-climb-unfair |  
+| bip_39_word_dash_9 | mean-exchange-promote-kingdom-truly-monkey-climb-unfair-clown |  
 | bip_39_word_new_br_1 | mean |  
 | bip_39_word_new_br_10 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown<br>fence |  
 | bip_39_word_new_br_11 | mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown<br>fence<br>credit |  
@@ -147,6 +159,18 @@ clown |
 | bip_39_word_space_7 | mean exchange promote kingdom truly monkey climb |  
 | bip_39_word_space_8 | mean exchange promote kingdom truly monkey climb unfair |  
 | bip_39_word_space_9 | mean exchange promote kingdom truly monkey climb unfair clown |  
+| bip_39_word_underscore_1 | mean |  
+| bip_39_word_underscore_10 | mean_exchange_promote_kingdom_truly_monkey_climb_unfair_clown_fence |  
+| bip_39_word_underscore_11 | mean_exchange_promote_kingdom_truly_monkey_climb_unfair_clown_fence_credit |  
+| bip_39_word_underscore_12 | mean_exchange_promote_kingdom_truly_monkey_climb_unfair_clown_fence_credit_amateur |  
+| bip_39_word_underscore_2 | mean_exchange |  
+| bip_39_word_underscore_3 | mean_exchange_promote |  
+| bip_39_word_underscore_4 | mean_exchange_promote_kingdom |  
+| bip_39_word_underscore_5 | mean_exchange_promote_kingdom_truly |  
+| bip_39_word_underscore_6 | mean_exchange_promote_kingdom_truly_monkey |  
+| bip_39_word_underscore_7 | mean_exchange_promote_kingdom_truly_monkey_climb |  
+| bip_39_word_underscore_8 | mean_exchange_promote_kingdom_truly_monkey_climb_unfair |  
+| bip_39_word_underscore_9 | mean_exchange_promote_kingdom_truly_monkey_climb_unfair_clown |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

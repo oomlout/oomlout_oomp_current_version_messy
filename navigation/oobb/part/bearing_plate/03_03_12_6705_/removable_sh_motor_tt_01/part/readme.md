@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | relief |  
+| bip_39_word_dash_10 | relief-flag-host-excess-energy-army-disease-expose-valley-faith |  
+| bip_39_word_dash_11 | relief-flag-host-excess-energy-army-disease-expose-valley-faith-promote |  
+| bip_39_word_dash_12 | relief-flag-host-excess-energy-army-disease-expose-valley-faith-promote-abstract |  
+| bip_39_word_dash_2 | relief-flag |  
+| bip_39_word_dash_3 | relief-flag-host |  
+| bip_39_word_dash_4 | relief-flag-host-excess |  
+| bip_39_word_dash_5 | relief-flag-host-excess-energy |  
+| bip_39_word_dash_6 | relief-flag-host-excess-energy-army |  
+| bip_39_word_dash_7 | relief-flag-host-excess-energy-army-disease |  
+| bip_39_word_dash_8 | relief-flag-host-excess-energy-army-disease-expose |  
+| bip_39_word_dash_9 | relief-flag-host-excess-energy-army-disease-expose-valley |  
 | bip_39_word_new_br_1 | relief |  
 | bip_39_word_new_br_10 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose<br>valley<br>faith |  
 | bip_39_word_new_br_11 | relief<br>flag<br>host<br>excess<br>energy<br>army<br>disease<br>expose<br>valley<br>faith<br>promote |  
@@ -147,6 +159,18 @@ valley |
 | bip_39_word_space_7 | relief flag host excess energy army disease |  
 | bip_39_word_space_8 | relief flag host excess energy army disease expose |  
 | bip_39_word_space_9 | relief flag host excess energy army disease expose valley |  
+| bip_39_word_underscore_1 | relief |  
+| bip_39_word_underscore_10 | relief_flag_host_excess_energy_army_disease_expose_valley_faith |  
+| bip_39_word_underscore_11 | relief_flag_host_excess_energy_army_disease_expose_valley_faith_promote |  
+| bip_39_word_underscore_12 | relief_flag_host_excess_energy_army_disease_expose_valley_faith_promote_abstract |  
+| bip_39_word_underscore_2 | relief_flag |  
+| bip_39_word_underscore_3 | relief_flag_host |  
+| bip_39_word_underscore_4 | relief_flag_host_excess |  
+| bip_39_word_underscore_5 | relief_flag_host_excess_energy |  
+| bip_39_word_underscore_6 | relief_flag_host_excess_energy_army |  
+| bip_39_word_underscore_7 | relief_flag_host_excess_energy_army_disease |  
+| bip_39_word_underscore_8 | relief_flag_host_excess_energy_army_disease_expose |  
+| bip_39_word_underscore_9 | relief_flag_host_excess_energy_army_disease_expose_valley |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

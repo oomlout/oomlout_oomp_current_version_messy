@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | add |  
+| bip_39_word_dash_10 | add-off-awesome-please-dust-galaxy-custom-youth-art-disease |  
+| bip_39_word_dash_11 | add-off-awesome-please-dust-galaxy-custom-youth-art-disease-session |  
+| bip_39_word_dash_12 | add-off-awesome-please-dust-galaxy-custom-youth-art-disease-session-afford |  
+| bip_39_word_dash_2 | add-off |  
+| bip_39_word_dash_3 | add-off-awesome |  
+| bip_39_word_dash_4 | add-off-awesome-please |  
+| bip_39_word_dash_5 | add-off-awesome-please-dust |  
+| bip_39_word_dash_6 | add-off-awesome-please-dust-galaxy |  
+| bip_39_word_dash_7 | add-off-awesome-please-dust-galaxy-custom |  
+| bip_39_word_dash_8 | add-off-awesome-please-dust-galaxy-custom-youth |  
+| bip_39_word_dash_9 | add-off-awesome-please-dust-galaxy-custom-youth-art |  
 | bip_39_word_new_br_1 | add |  
 | bip_39_word_new_br_10 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease |  
 | bip_39_word_new_br_11 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease<br>session |  
@@ -147,6 +159,18 @@ art |
 | bip_39_word_space_7 | add off awesome please dust galaxy custom |  
 | bip_39_word_space_8 | add off awesome please dust galaxy custom youth |  
 | bip_39_word_space_9 | add off awesome please dust galaxy custom youth art |  
+| bip_39_word_underscore_1 | add |  
+| bip_39_word_underscore_10 | add_off_awesome_please_dust_galaxy_custom_youth_art_disease |  
+| bip_39_word_underscore_11 | add_off_awesome_please_dust_galaxy_custom_youth_art_disease_session |  
+| bip_39_word_underscore_12 | add_off_awesome_please_dust_galaxy_custom_youth_art_disease_session_afford |  
+| bip_39_word_underscore_2 | add_off |  
+| bip_39_word_underscore_3 | add_off_awesome |  
+| bip_39_word_underscore_4 | add_off_awesome_please |  
+| bip_39_word_underscore_5 | add_off_awesome_please_dust |  
+| bip_39_word_underscore_6 | add_off_awesome_please_dust_galaxy |  
+| bip_39_word_underscore_7 | add_off_awesome_please_dust_galaxy_custom |  
+| bip_39_word_underscore_8 | add_off_awesome_please_dust_galaxy_custom_youth |  
+| bip_39_word_underscore_9 | add_off_awesome_please_dust_galaxy_custom_youth_art |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

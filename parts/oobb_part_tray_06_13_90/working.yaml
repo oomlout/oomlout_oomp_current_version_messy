@@ -1,3 +1,15 @@
+bip_39_word_dash_1: useful
+bip_39_word_dash_10: useful-multiply-giraffe-powder-gun-beach-faint-visual-useful-cluster
+bip_39_word_dash_11: useful-multiply-giraffe-powder-gun-beach-faint-visual-useful-cluster-daring
+bip_39_word_dash_12: useful-multiply-giraffe-powder-gun-beach-faint-visual-useful-cluster-daring-add
+bip_39_word_dash_2: useful-multiply
+bip_39_word_dash_3: useful-multiply-giraffe
+bip_39_word_dash_4: useful-multiply-giraffe-powder
+bip_39_word_dash_5: useful-multiply-giraffe-powder-gun
+bip_39_word_dash_6: useful-multiply-giraffe-powder-gun-beach
+bip_39_word_dash_7: useful-multiply-giraffe-powder-gun-beach-faint
+bip_39_word_dash_8: useful-multiply-giraffe-powder-gun-beach-faint-visual
+bip_39_word_dash_9: useful-multiply-giraffe-powder-gun-beach-faint-visual-useful
 bip_39_word_new_br_1: useful
 bip_39_word_new_br_10: useful<br>multiply<br>giraffe<br>powder<br>gun<br>beach<br>faint<br>visual<br>useful<br>cluster
 bip_39_word_new_br_11: useful<br>multiply<br>giraffe<br>powder<br>gun<br>beach<br>faint<br>visual<br>useful<br>cluster<br>daring
@@ -194,6 +206,18 @@ bip_39_word_space_6: useful multiply giraffe powder gun beach
 bip_39_word_space_7: useful multiply giraffe powder gun beach faint
 bip_39_word_space_8: useful multiply giraffe powder gun beach faint visual
 bip_39_word_space_9: useful multiply giraffe powder gun beach faint visual useful
+bip_39_word_underscore_1: useful
+bip_39_word_underscore_10: useful_multiply_giraffe_powder_gun_beach_faint_visual_useful_cluster
+bip_39_word_underscore_11: useful_multiply_giraffe_powder_gun_beach_faint_visual_useful_cluster_daring
+bip_39_word_underscore_12: useful_multiply_giraffe_powder_gun_beach_faint_visual_useful_cluster_daring_add
+bip_39_word_underscore_2: useful_multiply
+bip_39_word_underscore_3: useful_multiply_giraffe
+bip_39_word_underscore_4: useful_multiply_giraffe_powder
+bip_39_word_underscore_5: useful_multiply_giraffe_powder_gun
+bip_39_word_underscore_6: useful_multiply_giraffe_powder_gun_beach
+bip_39_word_underscore_7: useful_multiply_giraffe_powder_gun_beach_faint
+bip_39_word_underscore_8: useful_multiply_giraffe_powder_gun_beach_faint_visual
+bip_39_word_underscore_9: useful_multiply_giraffe_powder_gun_beach_faint_visual_useful
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

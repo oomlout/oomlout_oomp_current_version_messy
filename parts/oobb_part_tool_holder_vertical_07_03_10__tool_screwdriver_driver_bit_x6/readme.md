@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | merit |  
+| bip_39_word_dash_10 | merit-leader-sell-farm-mammal-fancy-state-nominee-pen-pepper |  
+| bip_39_word_dash_11 | merit-leader-sell-farm-mammal-fancy-state-nominee-pen-pepper-north |  
+| bip_39_word_dash_12 | merit-leader-sell-farm-mammal-fancy-state-nominee-pen-pepper-north-arrest |  
+| bip_39_word_dash_2 | merit-leader |  
+| bip_39_word_dash_3 | merit-leader-sell |  
+| bip_39_word_dash_4 | merit-leader-sell-farm |  
+| bip_39_word_dash_5 | merit-leader-sell-farm-mammal |  
+| bip_39_word_dash_6 | merit-leader-sell-farm-mammal-fancy |  
+| bip_39_word_dash_7 | merit-leader-sell-farm-mammal-fancy-state |  
+| bip_39_word_dash_8 | merit-leader-sell-farm-mammal-fancy-state-nominee |  
+| bip_39_word_dash_9 | merit-leader-sell-farm-mammal-fancy-state-nominee-pen |  
 | bip_39_word_new_br_1 | merit |  
 | bip_39_word_new_br_10 | merit<br>leader<br>sell<br>farm<br>mammal<br>fancy<br>state<br>nominee<br>pen<br>pepper |  
 | bip_39_word_new_br_11 | merit<br>leader<br>sell<br>farm<br>mammal<br>fancy<br>state<br>nominee<br>pen<br>pepper<br>north |  
@@ -147,6 +159,18 @@ pen |
 | bip_39_word_space_7 | merit leader sell farm mammal fancy state |  
 | bip_39_word_space_8 | merit leader sell farm mammal fancy state nominee |  
 | bip_39_word_space_9 | merit leader sell farm mammal fancy state nominee pen |  
+| bip_39_word_underscore_1 | merit |  
+| bip_39_word_underscore_10 | merit_leader_sell_farm_mammal_fancy_state_nominee_pen_pepper |  
+| bip_39_word_underscore_11 | merit_leader_sell_farm_mammal_fancy_state_nominee_pen_pepper_north |  
+| bip_39_word_underscore_12 | merit_leader_sell_farm_mammal_fancy_state_nominee_pen_pepper_north_arrest |  
+| bip_39_word_underscore_2 | merit_leader |  
+| bip_39_word_underscore_3 | merit_leader_sell |  
+| bip_39_word_underscore_4 | merit_leader_sell_farm |  
+| bip_39_word_underscore_5 | merit_leader_sell_farm_mammal |  
+| bip_39_word_underscore_6 | merit_leader_sell_farm_mammal_fancy |  
+| bip_39_word_underscore_7 | merit_leader_sell_farm_mammal_fancy_state |  
+| bip_39_word_underscore_8 | merit_leader_sell_farm_mammal_fancy_state_nominee |  
+| bip_39_word_underscore_9 | merit_leader_sell_farm_mammal_fancy_state_nominee_pen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

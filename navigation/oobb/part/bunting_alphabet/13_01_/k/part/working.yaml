@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fatal
+bip_39_word_dash_10: fatal-envelope-satisfy-they-purpose-monitor-credit-news-amount-chronic
+bip_39_word_dash_11: fatal-envelope-satisfy-they-purpose-monitor-credit-news-amount-chronic-explain
+bip_39_word_dash_12: fatal-envelope-satisfy-they-purpose-monitor-credit-news-amount-chronic-explain-any
+bip_39_word_dash_2: fatal-envelope
+bip_39_word_dash_3: fatal-envelope-satisfy
+bip_39_word_dash_4: fatal-envelope-satisfy-they
+bip_39_word_dash_5: fatal-envelope-satisfy-they-purpose
+bip_39_word_dash_6: fatal-envelope-satisfy-they-purpose-monitor
+bip_39_word_dash_7: fatal-envelope-satisfy-they-purpose-monitor-credit
+bip_39_word_dash_8: fatal-envelope-satisfy-they-purpose-monitor-credit-news
+bip_39_word_dash_9: fatal-envelope-satisfy-they-purpose-monitor-credit-news-amount
 bip_39_word_new_br_1: fatal
 bip_39_word_new_br_10: fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic
 bip_39_word_new_br_11: fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic<br>explain
@@ -194,6 +206,18 @@ bip_39_word_space_6: fatal envelope satisfy they purpose monitor
 bip_39_word_space_7: fatal envelope satisfy they purpose monitor credit
 bip_39_word_space_8: fatal envelope satisfy they purpose monitor credit news
 bip_39_word_space_9: fatal envelope satisfy they purpose monitor credit news amount
+bip_39_word_underscore_1: fatal
+bip_39_word_underscore_10: fatal_envelope_satisfy_they_purpose_monitor_credit_news_amount_chronic
+bip_39_word_underscore_11: fatal_envelope_satisfy_they_purpose_monitor_credit_news_amount_chronic_explain
+bip_39_word_underscore_12: fatal_envelope_satisfy_they_purpose_monitor_credit_news_amount_chronic_explain_any
+bip_39_word_underscore_2: fatal_envelope
+bip_39_word_underscore_3: fatal_envelope_satisfy
+bip_39_word_underscore_4: fatal_envelope_satisfy_they
+bip_39_word_underscore_5: fatal_envelope_satisfy_they_purpose
+bip_39_word_underscore_6: fatal_envelope_satisfy_they_purpose_monitor
+bip_39_word_underscore_7: fatal_envelope_satisfy_they_purpose_monitor_credit
+bip_39_word_underscore_8: fatal_envelope_satisfy_they_purpose_monitor_credit_news
+bip_39_word_underscore_9: fatal_envelope_satisfy_they_purpose_monitor_credit_news_amount
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

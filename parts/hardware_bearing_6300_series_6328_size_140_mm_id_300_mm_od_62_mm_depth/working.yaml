@@ -1,3 +1,15 @@
+bip_39_word_dash_1: kangaroo
+bip_39_word_dash_10: kangaroo-finish-vacuum-pelican-dismiss-miss-ready-fork-rough-come
+bip_39_word_dash_11: kangaroo-finish-vacuum-pelican-dismiss-miss-ready-fork-rough-come-multiply
+bip_39_word_dash_12: kangaroo-finish-vacuum-pelican-dismiss-miss-ready-fork-rough-come-multiply-adapt
+bip_39_word_dash_2: kangaroo-finish
+bip_39_word_dash_3: kangaroo-finish-vacuum
+bip_39_word_dash_4: kangaroo-finish-vacuum-pelican
+bip_39_word_dash_5: kangaroo-finish-vacuum-pelican-dismiss
+bip_39_word_dash_6: kangaroo-finish-vacuum-pelican-dismiss-miss
+bip_39_word_dash_7: kangaroo-finish-vacuum-pelican-dismiss-miss-ready
+bip_39_word_dash_8: kangaroo-finish-vacuum-pelican-dismiss-miss-ready-fork
+bip_39_word_dash_9: kangaroo-finish-vacuum-pelican-dismiss-miss-ready-fork-rough
 bip_39_word_new_br_1: kangaroo
 bip_39_word_new_br_10: kangaroo<br>finish<br>vacuum<br>pelican<br>dismiss<br>miss<br>ready<br>fork<br>rough<br>come
 bip_39_word_new_br_11: kangaroo<br>finish<br>vacuum<br>pelican<br>dismiss<br>miss<br>ready<br>fork<br>rough<br>come<br>multiply
@@ -194,6 +206,18 @@ bip_39_word_space_6: kangaroo finish vacuum pelican dismiss miss
 bip_39_word_space_7: kangaroo finish vacuum pelican dismiss miss ready
 bip_39_word_space_8: kangaroo finish vacuum pelican dismiss miss ready fork
 bip_39_word_space_9: kangaroo finish vacuum pelican dismiss miss ready fork rough
+bip_39_word_underscore_1: kangaroo
+bip_39_word_underscore_10: kangaroo_finish_vacuum_pelican_dismiss_miss_ready_fork_rough_come
+bip_39_word_underscore_11: kangaroo_finish_vacuum_pelican_dismiss_miss_ready_fork_rough_come_multiply
+bip_39_word_underscore_12: kangaroo_finish_vacuum_pelican_dismiss_miss_ready_fork_rough_come_multiply_adapt
+bip_39_word_underscore_2: kangaroo_finish
+bip_39_word_underscore_3: kangaroo_finish_vacuum
+bip_39_word_underscore_4: kangaroo_finish_vacuum_pelican
+bip_39_word_underscore_5: kangaroo_finish_vacuum_pelican_dismiss
+bip_39_word_underscore_6: kangaroo_finish_vacuum_pelican_dismiss_miss
+bip_39_word_underscore_7: kangaroo_finish_vacuum_pelican_dismiss_miss_ready
+bip_39_word_underscore_8: kangaroo_finish_vacuum_pelican_dismiss_miss_ready_fork
+bip_39_word_underscore_9: kangaroo_finish_vacuum_pelican_dismiss_miss_ready_fork_rough
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

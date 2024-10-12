@@ -1,3 +1,15 @@
+bip_39_word_dash_1: amount
+bip_39_word_dash_10: amount-receive-fun-review-confirm-magic-soldier-text-note-melody
+bip_39_word_dash_11: amount-receive-fun-review-confirm-magic-soldier-text-note-melody-mansion
+bip_39_word_dash_12: amount-receive-fun-review-confirm-magic-soldier-text-note-melody-mansion-antique
+bip_39_word_dash_2: amount-receive
+bip_39_word_dash_3: amount-receive-fun
+bip_39_word_dash_4: amount-receive-fun-review
+bip_39_word_dash_5: amount-receive-fun-review-confirm
+bip_39_word_dash_6: amount-receive-fun-review-confirm-magic
+bip_39_word_dash_7: amount-receive-fun-review-confirm-magic-soldier
+bip_39_word_dash_8: amount-receive-fun-review-confirm-magic-soldier-text
+bip_39_word_dash_9: amount-receive-fun-review-confirm-magic-soldier-text-note
 bip_39_word_new_br_1: amount
 bip_39_word_new_br_10: amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text<br>note<br>melody
 bip_39_word_new_br_11: amount<br>receive<br>fun<br>review<br>confirm<br>magic<br>soldier<br>text<br>note<br>melody<br>mansion
@@ -193,6 +205,18 @@ bip_39_word_space_6: amount receive fun review confirm magic
 bip_39_word_space_7: amount receive fun review confirm magic soldier
 bip_39_word_space_8: amount receive fun review confirm magic soldier text
 bip_39_word_space_9: amount receive fun review confirm magic soldier text note
+bip_39_word_underscore_1: amount
+bip_39_word_underscore_10: amount_receive_fun_review_confirm_magic_soldier_text_note_melody
+bip_39_word_underscore_11: amount_receive_fun_review_confirm_magic_soldier_text_note_melody_mansion
+bip_39_word_underscore_12: amount_receive_fun_review_confirm_magic_soldier_text_note_melody_mansion_antique
+bip_39_word_underscore_2: amount_receive
+bip_39_word_underscore_3: amount_receive_fun
+bip_39_word_underscore_4: amount_receive_fun_review
+bip_39_word_underscore_5: amount_receive_fun_review_confirm
+bip_39_word_underscore_6: amount_receive_fun_review_confirm_magic
+bip_39_word_underscore_7: amount_receive_fun_review_confirm_magic_soldier
+bip_39_word_underscore_8: amount_receive_fun_review_confirm_magic_soldier_text
+bip_39_word_underscore_9: amount_receive_fun_review_confirm_magic_soldier_text_note
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

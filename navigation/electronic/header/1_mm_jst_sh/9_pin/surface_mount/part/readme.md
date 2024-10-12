@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | polar |  
+| bip_39_word_dash_10 | polar-forest-tide-action-gap-word-analyst-pen-recycle-disease |  
+| bip_39_word_dash_11 | polar-forest-tide-action-gap-word-analyst-pen-recycle-disease-siren |  
+| bip_39_word_dash_12 | polar-forest-tide-action-gap-word-analyst-pen-recycle-disease-siren-add |  
+| bip_39_word_dash_2 | polar-forest |  
+| bip_39_word_dash_3 | polar-forest-tide |  
+| bip_39_word_dash_4 | polar-forest-tide-action |  
+| bip_39_word_dash_5 | polar-forest-tide-action-gap |  
+| bip_39_word_dash_6 | polar-forest-tide-action-gap-word |  
+| bip_39_word_dash_7 | polar-forest-tide-action-gap-word-analyst |  
+| bip_39_word_dash_8 | polar-forest-tide-action-gap-word-analyst-pen |  
+| bip_39_word_dash_9 | polar-forest-tide-action-gap-word-analyst-pen-recycle |  
 | bip_39_word_new_br_1 | polar |  
 | bip_39_word_new_br_10 | polar<br>forest<br>tide<br>action<br>gap<br>word<br>analyst<br>pen<br>recycle<br>disease |  
 | bip_39_word_new_br_11 | polar<br>forest<br>tide<br>action<br>gap<br>word<br>analyst<br>pen<br>recycle<br>disease<br>siren |  
@@ -147,6 +159,18 @@ recycle |
 | bip_39_word_space_7 | polar forest tide action gap word analyst |  
 | bip_39_word_space_8 | polar forest tide action gap word analyst pen |  
 | bip_39_word_space_9 | polar forest tide action gap word analyst pen recycle |  
+| bip_39_word_underscore_1 | polar |  
+| bip_39_word_underscore_10 | polar_forest_tide_action_gap_word_analyst_pen_recycle_disease |  
+| bip_39_word_underscore_11 | polar_forest_tide_action_gap_word_analyst_pen_recycle_disease_siren |  
+| bip_39_word_underscore_12 | polar_forest_tide_action_gap_word_analyst_pen_recycle_disease_siren_add |  
+| bip_39_word_underscore_2 | polar_forest |  
+| bip_39_word_underscore_3 | polar_forest_tide |  
+| bip_39_word_underscore_4 | polar_forest_tide_action |  
+| bip_39_word_underscore_5 | polar_forest_tide_action_gap |  
+| bip_39_word_underscore_6 | polar_forest_tide_action_gap_word |  
+| bip_39_word_underscore_7 | polar_forest_tide_action_gap_word_analyst |  
+| bip_39_word_underscore_8 | polar_forest_tide_action_gap_word_analyst_pen |  
+| bip_39_word_underscore_9 | polar_forest_tide_action_gap_word_analyst_pen_recycle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

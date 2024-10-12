@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | puzzle |  
+| bip_39_word_dash_10 | puzzle-barely-prevent-engage-hire-dry-large-pave-impose-state |  
+| bip_39_word_dash_11 | puzzle-barely-prevent-engage-hire-dry-large-pave-impose-state-roof |  
+| bip_39_word_dash_12 | puzzle-barely-prevent-engage-hire-dry-large-pave-impose-state-roof-appear |  
+| bip_39_word_dash_2 | puzzle-barely |  
+| bip_39_word_dash_3 | puzzle-barely-prevent |  
+| bip_39_word_dash_4 | puzzle-barely-prevent-engage |  
+| bip_39_word_dash_5 | puzzle-barely-prevent-engage-hire |  
+| bip_39_word_dash_6 | puzzle-barely-prevent-engage-hire-dry |  
+| bip_39_word_dash_7 | puzzle-barely-prevent-engage-hire-dry-large |  
+| bip_39_word_dash_8 | puzzle-barely-prevent-engage-hire-dry-large-pave |  
+| bip_39_word_dash_9 | puzzle-barely-prevent-engage-hire-dry-large-pave-impose |  
 | bip_39_word_new_br_1 | puzzle |  
 | bip_39_word_new_br_10 | puzzle<br>barely<br>prevent<br>engage<br>hire<br>dry<br>large<br>pave<br>impose<br>state |  
 | bip_39_word_new_br_11 | puzzle<br>barely<br>prevent<br>engage<br>hire<br>dry<br>large<br>pave<br>impose<br>state<br>roof |  
@@ -147,6 +159,18 @@ impose |
 | bip_39_word_space_7 | puzzle barely prevent engage hire dry large |  
 | bip_39_word_space_8 | puzzle barely prevent engage hire dry large pave |  
 | bip_39_word_space_9 | puzzle barely prevent engage hire dry large pave impose |  
+| bip_39_word_underscore_1 | puzzle |  
+| bip_39_word_underscore_10 | puzzle_barely_prevent_engage_hire_dry_large_pave_impose_state |  
+| bip_39_word_underscore_11 | puzzle_barely_prevent_engage_hire_dry_large_pave_impose_state_roof |  
+| bip_39_word_underscore_12 | puzzle_barely_prevent_engage_hire_dry_large_pave_impose_state_roof_appear |  
+| bip_39_word_underscore_2 | puzzle_barely |  
+| bip_39_word_underscore_3 | puzzle_barely_prevent |  
+| bip_39_word_underscore_4 | puzzle_barely_prevent_engage |  
+| bip_39_word_underscore_5 | puzzle_barely_prevent_engage_hire |  
+| bip_39_word_underscore_6 | puzzle_barely_prevent_engage_hire_dry |  
+| bip_39_word_underscore_7 | puzzle_barely_prevent_engage_hire_dry_large |  
+| bip_39_word_underscore_8 | puzzle_barely_prevent_engage_hire_dry_large_pave |  
+| bip_39_word_underscore_9 | puzzle_barely_prevent_engage_hire_dry_large_pave_impose |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

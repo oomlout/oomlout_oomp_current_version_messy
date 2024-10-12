@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | legend |  
+| bip_39_word_dash_10 | legend-coffee-boil-vague-win-radio-meadow-tumble-problem-embark |  
+| bip_39_word_dash_11 | legend-coffee-boil-vague-win-radio-meadow-tumble-problem-embark-guilt |  
+| bip_39_word_dash_12 | legend-coffee-boil-vague-win-radio-meadow-tumble-problem-embark-guilt-athlete |  
+| bip_39_word_dash_2 | legend-coffee |  
+| bip_39_word_dash_3 | legend-coffee-boil |  
+| bip_39_word_dash_4 | legend-coffee-boil-vague |  
+| bip_39_word_dash_5 | legend-coffee-boil-vague-win |  
+| bip_39_word_dash_6 | legend-coffee-boil-vague-win-radio |  
+| bip_39_word_dash_7 | legend-coffee-boil-vague-win-radio-meadow |  
+| bip_39_word_dash_8 | legend-coffee-boil-vague-win-radio-meadow-tumble |  
+| bip_39_word_dash_9 | legend-coffee-boil-vague-win-radio-meadow-tumble-problem |  
 | bip_39_word_new_br_1 | legend |  
 | bip_39_word_new_br_10 | legend<br>coffee<br>boil<br>vague<br>win<br>radio<br>meadow<br>tumble<br>problem<br>embark |  
 | bip_39_word_new_br_11 | legend<br>coffee<br>boil<br>vague<br>win<br>radio<br>meadow<br>tumble<br>problem<br>embark<br>guilt |  
@@ -147,6 +159,18 @@ problem |
 | bip_39_word_space_7 | legend coffee boil vague win radio meadow |  
 | bip_39_word_space_8 | legend coffee boil vague win radio meadow tumble |  
 | bip_39_word_space_9 | legend coffee boil vague win radio meadow tumble problem |  
+| bip_39_word_underscore_1 | legend |  
+| bip_39_word_underscore_10 | legend_coffee_boil_vague_win_radio_meadow_tumble_problem_embark |  
+| bip_39_word_underscore_11 | legend_coffee_boil_vague_win_radio_meadow_tumble_problem_embark_guilt |  
+| bip_39_word_underscore_12 | legend_coffee_boil_vague_win_radio_meadow_tumble_problem_embark_guilt_athlete |  
+| bip_39_word_underscore_2 | legend_coffee |  
+| bip_39_word_underscore_3 | legend_coffee_boil |  
+| bip_39_word_underscore_4 | legend_coffee_boil_vague |  
+| bip_39_word_underscore_5 | legend_coffee_boil_vague_win |  
+| bip_39_word_underscore_6 | legend_coffee_boil_vague_win_radio |  
+| bip_39_word_underscore_7 | legend_coffee_boil_vague_win_radio_meadow |  
+| bip_39_word_underscore_8 | legend_coffee_boil_vague_win_radio_meadow_tumble |  
+| bip_39_word_underscore_9 | legend_coffee_boil_vague_win_radio_meadow_tumble_problem |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | solve |  
+| bip_39_word_dash_10 | solve-age-husband-hope-blossom-observe-success-bird-empower-step |  
+| bip_39_word_dash_11 | solve-age-husband-hope-blossom-observe-success-bird-empower-step-fan |  
+| bip_39_word_dash_12 | solve-age-husband-hope-blossom-observe-success-bird-empower-step-fan-art |  
+| bip_39_word_dash_2 | solve-age |  
+| bip_39_word_dash_3 | solve-age-husband |  
+| bip_39_word_dash_4 | solve-age-husband-hope |  
+| bip_39_word_dash_5 | solve-age-husband-hope-blossom |  
+| bip_39_word_dash_6 | solve-age-husband-hope-blossom-observe |  
+| bip_39_word_dash_7 | solve-age-husband-hope-blossom-observe-success |  
+| bip_39_word_dash_8 | solve-age-husband-hope-blossom-observe-success-bird |  
+| bip_39_word_dash_9 | solve-age-husband-hope-blossom-observe-success-bird-empower |  
 | bip_39_word_new_br_1 | solve |  
 | bip_39_word_new_br_10 | solve<br>age<br>husband<br>hope<br>blossom<br>observe<br>success<br>bird<br>empower<br>step |  
 | bip_39_word_new_br_11 | solve<br>age<br>husband<br>hope<br>blossom<br>observe<br>success<br>bird<br>empower<br>step<br>fan |  
@@ -147,6 +159,18 @@ empower |
 | bip_39_word_space_7 | solve age husband hope blossom observe success |  
 | bip_39_word_space_8 | solve age husband hope blossom observe success bird |  
 | bip_39_word_space_9 | solve age husband hope blossom observe success bird empower |  
+| bip_39_word_underscore_1 | solve |  
+| bip_39_word_underscore_10 | solve_age_husband_hope_blossom_observe_success_bird_empower_step |  
+| bip_39_word_underscore_11 | solve_age_husband_hope_blossom_observe_success_bird_empower_step_fan |  
+| bip_39_word_underscore_12 | solve_age_husband_hope_blossom_observe_success_bird_empower_step_fan_art |  
+| bip_39_word_underscore_2 | solve_age |  
+| bip_39_word_underscore_3 | solve_age_husband |  
+| bip_39_word_underscore_4 | solve_age_husband_hope |  
+| bip_39_word_underscore_5 | solve_age_husband_hope_blossom |  
+| bip_39_word_underscore_6 | solve_age_husband_hope_blossom_observe |  
+| bip_39_word_underscore_7 | solve_age_husband_hope_blossom_observe_success |  
+| bip_39_word_underscore_8 | solve_age_husband_hope_blossom_observe_success_bird |  
+| bip_39_word_underscore_9 | solve_age_husband_hope_blossom_observe_success_bird_empower |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

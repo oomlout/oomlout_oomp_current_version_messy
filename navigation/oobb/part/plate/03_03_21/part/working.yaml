@@ -1,3 +1,15 @@
+bip_39_word_dash_1: august
+bip_39_word_dash_10: august-dog-pigeon-junk-machine-document-donkey-begin-sudden-garment
+bip_39_word_dash_11: august-dog-pigeon-junk-machine-document-donkey-begin-sudden-garment-decrease
+bip_39_word_dash_12: august-dog-pigeon-junk-machine-document-donkey-begin-sudden-garment-decrease-apple
+bip_39_word_dash_2: august-dog
+bip_39_word_dash_3: august-dog-pigeon
+bip_39_word_dash_4: august-dog-pigeon-junk
+bip_39_word_dash_5: august-dog-pigeon-junk-machine
+bip_39_word_dash_6: august-dog-pigeon-junk-machine-document
+bip_39_word_dash_7: august-dog-pigeon-junk-machine-document-donkey
+bip_39_word_dash_8: august-dog-pigeon-junk-machine-document-donkey-begin
+bip_39_word_dash_9: august-dog-pigeon-junk-machine-document-donkey-begin-sudden
 bip_39_word_new_br_1: august
 bip_39_word_new_br_10: august<br>dog<br>pigeon<br>junk<br>machine<br>document<br>donkey<br>begin<br>sudden<br>garment
 bip_39_word_new_br_11: august<br>dog<br>pigeon<br>junk<br>machine<br>document<br>donkey<br>begin<br>sudden<br>garment<br>decrease
@@ -194,6 +206,18 @@ bip_39_word_space_6: august dog pigeon junk machine document
 bip_39_word_space_7: august dog pigeon junk machine document donkey
 bip_39_word_space_8: august dog pigeon junk machine document donkey begin
 bip_39_word_space_9: august dog pigeon junk machine document donkey begin sudden
+bip_39_word_underscore_1: august
+bip_39_word_underscore_10: august_dog_pigeon_junk_machine_document_donkey_begin_sudden_garment
+bip_39_word_underscore_11: august_dog_pigeon_junk_machine_document_donkey_begin_sudden_garment_decrease
+bip_39_word_underscore_12: august_dog_pigeon_junk_machine_document_donkey_begin_sudden_garment_decrease_apple
+bip_39_word_underscore_2: august_dog
+bip_39_word_underscore_3: august_dog_pigeon
+bip_39_word_underscore_4: august_dog_pigeon_junk
+bip_39_word_underscore_5: august_dog_pigeon_junk_machine
+bip_39_word_underscore_6: august_dog_pigeon_junk_machine_document
+bip_39_word_underscore_7: august_dog_pigeon_junk_machine_document_donkey
+bip_39_word_underscore_8: august_dog_pigeon_junk_machine_document_donkey_begin
+bip_39_word_underscore_9: august_dog_pigeon_junk_machine_document_donkey_begin_sudden
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

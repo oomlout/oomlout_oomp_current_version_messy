@@ -1,3 +1,15 @@
+bip_39_word_dash_1: song
+bip_39_word_dash_10: song-please-advance-evidence-reveal-lend-hamster-awake-burst-hungry
+bip_39_word_dash_11: song-please-advance-evidence-reveal-lend-hamster-awake-burst-hungry-bunker
+bip_39_word_dash_12: song-please-advance-evidence-reveal-lend-hamster-awake-burst-hungry-bunker-aisle
+bip_39_word_dash_2: song-please
+bip_39_word_dash_3: song-please-advance
+bip_39_word_dash_4: song-please-advance-evidence
+bip_39_word_dash_5: song-please-advance-evidence-reveal
+bip_39_word_dash_6: song-please-advance-evidence-reveal-lend
+bip_39_word_dash_7: song-please-advance-evidence-reveal-lend-hamster
+bip_39_word_dash_8: song-please-advance-evidence-reveal-lend-hamster-awake
+bip_39_word_dash_9: song-please-advance-evidence-reveal-lend-hamster-awake-burst
 bip_39_word_new_br_1: song
 bip_39_word_new_br_10: song<br>please<br>advance<br>evidence<br>reveal<br>lend<br>hamster<br>awake<br>burst<br>hungry
 bip_39_word_new_br_11: song<br>please<br>advance<br>evidence<br>reveal<br>lend<br>hamster<br>awake<br>burst<br>hungry<br>bunker
@@ -194,6 +206,18 @@ bip_39_word_space_6: song please advance evidence reveal lend
 bip_39_word_space_7: song please advance evidence reveal lend hamster
 bip_39_word_space_8: song please advance evidence reveal lend hamster awake
 bip_39_word_space_9: song please advance evidence reveal lend hamster awake burst
+bip_39_word_underscore_1: song
+bip_39_word_underscore_10: song_please_advance_evidence_reveal_lend_hamster_awake_burst_hungry
+bip_39_word_underscore_11: song_please_advance_evidence_reveal_lend_hamster_awake_burst_hungry_bunker
+bip_39_word_underscore_12: song_please_advance_evidence_reveal_lend_hamster_awake_burst_hungry_bunker_aisle
+bip_39_word_underscore_2: song_please
+bip_39_word_underscore_3: song_please_advance
+bip_39_word_underscore_4: song_please_advance_evidence
+bip_39_word_underscore_5: song_please_advance_evidence_reveal
+bip_39_word_underscore_6: song_please_advance_evidence_reveal_lend
+bip_39_word_underscore_7: song_please_advance_evidence_reveal_lend_hamster
+bip_39_word_underscore_8: song_please_advance_evidence_reveal_lend_hamster_awake
+bip_39_word_underscore_9: song_please_advance_evidence_reveal_lend_hamster_awake_burst
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skin |  
+| bip_39_word_dash_10 | skin-dirt-system-exit-recipe-mimic-trial-powder-tenant-cactus |  
+| bip_39_word_dash_11 | skin-dirt-system-exit-recipe-mimic-trial-powder-tenant-cactus-state |  
+| bip_39_word_dash_12 | skin-dirt-system-exit-recipe-mimic-trial-powder-tenant-cactus-state-audit |  
+| bip_39_word_dash_2 | skin-dirt |  
+| bip_39_word_dash_3 | skin-dirt-system |  
+| bip_39_word_dash_4 | skin-dirt-system-exit |  
+| bip_39_word_dash_5 | skin-dirt-system-exit-recipe |  
+| bip_39_word_dash_6 | skin-dirt-system-exit-recipe-mimic |  
+| bip_39_word_dash_7 | skin-dirt-system-exit-recipe-mimic-trial |  
+| bip_39_word_dash_8 | skin-dirt-system-exit-recipe-mimic-trial-powder |  
+| bip_39_word_dash_9 | skin-dirt-system-exit-recipe-mimic-trial-powder-tenant |  
 | bip_39_word_new_br_1 | skin |  
 | bip_39_word_new_br_10 | skin<br>dirt<br>system<br>exit<br>recipe<br>mimic<br>trial<br>powder<br>tenant<br>cactus |  
 | bip_39_word_new_br_11 | skin<br>dirt<br>system<br>exit<br>recipe<br>mimic<br>trial<br>powder<br>tenant<br>cactus<br>state |  
@@ -147,6 +159,18 @@ tenant |
 | bip_39_word_space_7 | skin dirt system exit recipe mimic trial |  
 | bip_39_word_space_8 | skin dirt system exit recipe mimic trial powder |  
 | bip_39_word_space_9 | skin dirt system exit recipe mimic trial powder tenant |  
+| bip_39_word_underscore_1 | skin |  
+| bip_39_word_underscore_10 | skin_dirt_system_exit_recipe_mimic_trial_powder_tenant_cactus |  
+| bip_39_word_underscore_11 | skin_dirt_system_exit_recipe_mimic_trial_powder_tenant_cactus_state |  
+| bip_39_word_underscore_12 | skin_dirt_system_exit_recipe_mimic_trial_powder_tenant_cactus_state_audit |  
+| bip_39_word_underscore_2 | skin_dirt |  
+| bip_39_word_underscore_3 | skin_dirt_system |  
+| bip_39_word_underscore_4 | skin_dirt_system_exit |  
+| bip_39_word_underscore_5 | skin_dirt_system_exit_recipe |  
+| bip_39_word_underscore_6 | skin_dirt_system_exit_recipe_mimic |  
+| bip_39_word_underscore_7 | skin_dirt_system_exit_recipe_mimic_trial |  
+| bip_39_word_underscore_8 | skin_dirt_system_exit_recipe_mimic_trial_powder |  
+| bip_39_word_underscore_9 | skin_dirt_system_exit_recipe_mimic_trial_powder_tenant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wall |  
+| bip_39_word_dash_10 | wall-hurry-sphere-vendor-yard-blouse-vibrant-jelly-abandon-insane |  
+| bip_39_word_dash_11 | wall-hurry-sphere-vendor-yard-blouse-vibrant-jelly-abandon-insane-swing |  
+| bip_39_word_dash_12 | wall-hurry-sphere-vendor-yard-blouse-vibrant-jelly-abandon-insane-swing-advice |  
+| bip_39_word_dash_2 | wall-hurry |  
+| bip_39_word_dash_3 | wall-hurry-sphere |  
+| bip_39_word_dash_4 | wall-hurry-sphere-vendor |  
+| bip_39_word_dash_5 | wall-hurry-sphere-vendor-yard |  
+| bip_39_word_dash_6 | wall-hurry-sphere-vendor-yard-blouse |  
+| bip_39_word_dash_7 | wall-hurry-sphere-vendor-yard-blouse-vibrant |  
+| bip_39_word_dash_8 | wall-hurry-sphere-vendor-yard-blouse-vibrant-jelly |  
+| bip_39_word_dash_9 | wall-hurry-sphere-vendor-yard-blouse-vibrant-jelly-abandon |  
 | bip_39_word_new_br_1 | wall |  
 | bip_39_word_new_br_10 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly<br>abandon<br>insane |  
 | bip_39_word_new_br_11 | wall<br>hurry<br>sphere<br>vendor<br>yard<br>blouse<br>vibrant<br>jelly<br>abandon<br>insane<br>swing |  
@@ -147,6 +159,18 @@ abandon |
 | bip_39_word_space_7 | wall hurry sphere vendor yard blouse vibrant |  
 | bip_39_word_space_8 | wall hurry sphere vendor yard blouse vibrant jelly |  
 | bip_39_word_space_9 | wall hurry sphere vendor yard blouse vibrant jelly abandon |  
+| bip_39_word_underscore_1 | wall |  
+| bip_39_word_underscore_10 | wall_hurry_sphere_vendor_yard_blouse_vibrant_jelly_abandon_insane |  
+| bip_39_word_underscore_11 | wall_hurry_sphere_vendor_yard_blouse_vibrant_jelly_abandon_insane_swing |  
+| bip_39_word_underscore_12 | wall_hurry_sphere_vendor_yard_blouse_vibrant_jelly_abandon_insane_swing_advice |  
+| bip_39_word_underscore_2 | wall_hurry |  
+| bip_39_word_underscore_3 | wall_hurry_sphere |  
+| bip_39_word_underscore_4 | wall_hurry_sphere_vendor |  
+| bip_39_word_underscore_5 | wall_hurry_sphere_vendor_yard |  
+| bip_39_word_underscore_6 | wall_hurry_sphere_vendor_yard_blouse |  
+| bip_39_word_underscore_7 | wall_hurry_sphere_vendor_yard_blouse_vibrant |  
+| bip_39_word_underscore_8 | wall_hurry_sphere_vendor_yard_blouse_vibrant_jelly |  
+| bip_39_word_underscore_9 | wall_hurry_sphere_vendor_yard_blouse_vibrant_jelly_abandon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

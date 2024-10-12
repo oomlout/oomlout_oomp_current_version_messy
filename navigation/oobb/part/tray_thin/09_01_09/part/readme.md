@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hard |  
+| bip_39_word_dash_10 | hard-cactus-spin-siege-joke-renew-churn-balance-note-apart |  
+| bip_39_word_dash_11 | hard-cactus-spin-siege-joke-renew-churn-balance-note-apart-current |  
+| bip_39_word_dash_12 | hard-cactus-spin-siege-joke-renew-churn-balance-note-apart-current-artefact |  
+| bip_39_word_dash_2 | hard-cactus |  
+| bip_39_word_dash_3 | hard-cactus-spin |  
+| bip_39_word_dash_4 | hard-cactus-spin-siege |  
+| bip_39_word_dash_5 | hard-cactus-spin-siege-joke |  
+| bip_39_word_dash_6 | hard-cactus-spin-siege-joke-renew |  
+| bip_39_word_dash_7 | hard-cactus-spin-siege-joke-renew-churn |  
+| bip_39_word_dash_8 | hard-cactus-spin-siege-joke-renew-churn-balance |  
+| bip_39_word_dash_9 | hard-cactus-spin-siege-joke-renew-churn-balance-note |  
 | bip_39_word_new_br_1 | hard |  
 | bip_39_word_new_br_10 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart |  
 | bip_39_word_new_br_11 | hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart<br>current |  
@@ -147,6 +159,18 @@ note |
 | bip_39_word_space_7 | hard cactus spin siege joke renew churn |  
 | bip_39_word_space_8 | hard cactus spin siege joke renew churn balance |  
 | bip_39_word_space_9 | hard cactus spin siege joke renew churn balance note |  
+| bip_39_word_underscore_1 | hard |  
+| bip_39_word_underscore_10 | hard_cactus_spin_siege_joke_renew_churn_balance_note_apart |  
+| bip_39_word_underscore_11 | hard_cactus_spin_siege_joke_renew_churn_balance_note_apart_current |  
+| bip_39_word_underscore_12 | hard_cactus_spin_siege_joke_renew_churn_balance_note_apart_current_artefact |  
+| bip_39_word_underscore_2 | hard_cactus |  
+| bip_39_word_underscore_3 | hard_cactus_spin |  
+| bip_39_word_underscore_4 | hard_cactus_spin_siege |  
+| bip_39_word_underscore_5 | hard_cactus_spin_siege_joke |  
+| bip_39_word_underscore_6 | hard_cactus_spin_siege_joke_renew |  
+| bip_39_word_underscore_7 | hard_cactus_spin_siege_joke_renew_churn |  
+| bip_39_word_underscore_8 | hard_cactus_spin_siege_joke_renew_churn_balance |  
+| bip_39_word_underscore_9 | hard_cactus_spin_siege_joke_renew_churn_balance_note |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

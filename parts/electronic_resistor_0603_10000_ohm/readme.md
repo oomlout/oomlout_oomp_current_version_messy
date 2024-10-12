@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | order |  
+| bip_39_word_dash_10 | order-federal-valve-action-latin-sport-little-leisure-lottery-churn |  
+| bip_39_word_dash_11 | order-federal-valve-action-latin-sport-little-leisure-lottery-churn-friend |  
+| bip_39_word_dash_12 | order-federal-valve-action-latin-sport-little-leisure-lottery-churn-friend-another |  
+| bip_39_word_dash_2 | order-federal |  
+| bip_39_word_dash_3 | order-federal-valve |  
+| bip_39_word_dash_4 | order-federal-valve-action |  
+| bip_39_word_dash_5 | order-federal-valve-action-latin |  
+| bip_39_word_dash_6 | order-federal-valve-action-latin-sport |  
+| bip_39_word_dash_7 | order-federal-valve-action-latin-sport-little |  
+| bip_39_word_dash_8 | order-federal-valve-action-latin-sport-little-leisure |  
+| bip_39_word_dash_9 | order-federal-valve-action-latin-sport-little-leisure-lottery |  
 | bip_39_word_new_br_1 | order |  
 | bip_39_word_new_br_10 | order<br>federal<br>valve<br>action<br>latin<br>sport<br>little<br>leisure<br>lottery<br>churn |  
 | bip_39_word_new_br_11 | order<br>federal<br>valve<br>action<br>latin<br>sport<br>little<br>leisure<br>lottery<br>churn<br>friend |  
@@ -147,6 +159,18 @@ lottery |
 | bip_39_word_space_7 | order federal valve action latin sport little |  
 | bip_39_word_space_8 | order federal valve action latin sport little leisure |  
 | bip_39_word_space_9 | order federal valve action latin sport little leisure lottery |  
+| bip_39_word_underscore_1 | order |  
+| bip_39_word_underscore_10 | order_federal_valve_action_latin_sport_little_leisure_lottery_churn |  
+| bip_39_word_underscore_11 | order_federal_valve_action_latin_sport_little_leisure_lottery_churn_friend |  
+| bip_39_word_underscore_12 | order_federal_valve_action_latin_sport_little_leisure_lottery_churn_friend_another |  
+| bip_39_word_underscore_2 | order_federal |  
+| bip_39_word_underscore_3 | order_federal_valve |  
+| bip_39_word_underscore_4 | order_federal_valve_action |  
+| bip_39_word_underscore_5 | order_federal_valve_action_latin |  
+| bip_39_word_underscore_6 | order_federal_valve_action_latin_sport |  
+| bip_39_word_underscore_7 | order_federal_valve_action_latin_sport_little |  
+| bip_39_word_underscore_8 | order_federal_valve_action_latin_sport_little_leisure |  
+| bip_39_word_underscore_9 | order_federal_valve_action_latin_sport_little_leisure_lottery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fine |  
+| bip_39_word_dash_10 | fine-sense-tissue-term-hidden-blame-dawn-exhaust-now-pulp |  
+| bip_39_word_dash_11 | fine-sense-tissue-term-hidden-blame-dawn-exhaust-now-pulp-carpet |  
+| bip_39_word_dash_12 | fine-sense-tissue-term-hidden-blame-dawn-exhaust-now-pulp-carpet-able |  
+| bip_39_word_dash_2 | fine-sense |  
+| bip_39_word_dash_3 | fine-sense-tissue |  
+| bip_39_word_dash_4 | fine-sense-tissue-term |  
+| bip_39_word_dash_5 | fine-sense-tissue-term-hidden |  
+| bip_39_word_dash_6 | fine-sense-tissue-term-hidden-blame |  
+| bip_39_word_dash_7 | fine-sense-tissue-term-hidden-blame-dawn |  
+| bip_39_word_dash_8 | fine-sense-tissue-term-hidden-blame-dawn-exhaust |  
+| bip_39_word_dash_9 | fine-sense-tissue-term-hidden-blame-dawn-exhaust-now |  
 | bip_39_word_new_br_1 | fine |  
 | bip_39_word_new_br_10 | fine<br>sense<br>tissue<br>term<br>hidden<br>blame<br>dawn<br>exhaust<br>now<br>pulp |  
 | bip_39_word_new_br_11 | fine<br>sense<br>tissue<br>term<br>hidden<br>blame<br>dawn<br>exhaust<br>now<br>pulp<br>carpet |  
@@ -147,6 +159,18 @@ now |
 | bip_39_word_space_7 | fine sense tissue term hidden blame dawn |  
 | bip_39_word_space_8 | fine sense tissue term hidden blame dawn exhaust |  
 | bip_39_word_space_9 | fine sense tissue term hidden blame dawn exhaust now |  
+| bip_39_word_underscore_1 | fine |  
+| bip_39_word_underscore_10 | fine_sense_tissue_term_hidden_blame_dawn_exhaust_now_pulp |  
+| bip_39_word_underscore_11 | fine_sense_tissue_term_hidden_blame_dawn_exhaust_now_pulp_carpet |  
+| bip_39_word_underscore_12 | fine_sense_tissue_term_hidden_blame_dawn_exhaust_now_pulp_carpet_able |  
+| bip_39_word_underscore_2 | fine_sense |  
+| bip_39_word_underscore_3 | fine_sense_tissue |  
+| bip_39_word_underscore_4 | fine_sense_tissue_term |  
+| bip_39_word_underscore_5 | fine_sense_tissue_term_hidden |  
+| bip_39_word_underscore_6 | fine_sense_tissue_term_hidden_blame |  
+| bip_39_word_underscore_7 | fine_sense_tissue_term_hidden_blame_dawn |  
+| bip_39_word_underscore_8 | fine_sense_tissue_term_hidden_blame_dawn_exhaust |  
+| bip_39_word_underscore_9 | fine_sense_tissue_term_hidden_blame_dawn_exhaust_now |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

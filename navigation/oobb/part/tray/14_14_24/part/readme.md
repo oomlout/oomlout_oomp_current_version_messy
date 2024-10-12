@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | empty |  
+| bip_39_word_dash_10 | empty-lava-giraffe-travel-young-dream-open-jungle-exhibit-include |  
+| bip_39_word_dash_11 | empty-lava-giraffe-travel-young-dream-open-jungle-exhibit-include-dinosaur |  
+| bip_39_word_dash_12 | empty-lava-giraffe-travel-young-dream-open-jungle-exhibit-include-dinosaur-actor |  
+| bip_39_word_dash_2 | empty-lava |  
+| bip_39_word_dash_3 | empty-lava-giraffe |  
+| bip_39_word_dash_4 | empty-lava-giraffe-travel |  
+| bip_39_word_dash_5 | empty-lava-giraffe-travel-young |  
+| bip_39_word_dash_6 | empty-lava-giraffe-travel-young-dream |  
+| bip_39_word_dash_7 | empty-lava-giraffe-travel-young-dream-open |  
+| bip_39_word_dash_8 | empty-lava-giraffe-travel-young-dream-open-jungle |  
+| bip_39_word_dash_9 | empty-lava-giraffe-travel-young-dream-open-jungle-exhibit |  
 | bip_39_word_new_br_1 | empty |  
 | bip_39_word_new_br_10 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include |  
 | bip_39_word_new_br_11 | empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include<br>dinosaur |  
@@ -147,6 +159,18 @@ exhibit |
 | bip_39_word_space_7 | empty lava giraffe travel young dream open |  
 | bip_39_word_space_8 | empty lava giraffe travel young dream open jungle |  
 | bip_39_word_space_9 | empty lava giraffe travel young dream open jungle exhibit |  
+| bip_39_word_underscore_1 | empty |  
+| bip_39_word_underscore_10 | empty_lava_giraffe_travel_young_dream_open_jungle_exhibit_include |  
+| bip_39_word_underscore_11 | empty_lava_giraffe_travel_young_dream_open_jungle_exhibit_include_dinosaur |  
+| bip_39_word_underscore_12 | empty_lava_giraffe_travel_young_dream_open_jungle_exhibit_include_dinosaur_actor |  
+| bip_39_word_underscore_2 | empty_lava |  
+| bip_39_word_underscore_3 | empty_lava_giraffe |  
+| bip_39_word_underscore_4 | empty_lava_giraffe_travel |  
+| bip_39_word_underscore_5 | empty_lava_giraffe_travel_young |  
+| bip_39_word_underscore_6 | empty_lava_giraffe_travel_young_dream |  
+| bip_39_word_underscore_7 | empty_lava_giraffe_travel_young_dream_open |  
+| bip_39_word_underscore_8 | empty_lava_giraffe_travel_young_dream_open_jungle |  
+| bip_39_word_underscore_9 | empty_lava_giraffe_travel_young_dream_open_jungle_exhibit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

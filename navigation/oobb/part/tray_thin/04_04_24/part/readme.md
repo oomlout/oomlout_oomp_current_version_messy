@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slow |  
+| bip_39_word_dash_10 | slow-tattoo-fringe-seminar-pipe-width-symptom-wrap-confirm-range |  
+| bip_39_word_dash_11 | slow-tattoo-fringe-seminar-pipe-width-symptom-wrap-confirm-range-boss |  
+| bip_39_word_dash_12 | slow-tattoo-fringe-seminar-pipe-width-symptom-wrap-confirm-range-boss-assault |  
+| bip_39_word_dash_2 | slow-tattoo |  
+| bip_39_word_dash_3 | slow-tattoo-fringe |  
+| bip_39_word_dash_4 | slow-tattoo-fringe-seminar |  
+| bip_39_word_dash_5 | slow-tattoo-fringe-seminar-pipe |  
+| bip_39_word_dash_6 | slow-tattoo-fringe-seminar-pipe-width |  
+| bip_39_word_dash_7 | slow-tattoo-fringe-seminar-pipe-width-symptom |  
+| bip_39_word_dash_8 | slow-tattoo-fringe-seminar-pipe-width-symptom-wrap |  
+| bip_39_word_dash_9 | slow-tattoo-fringe-seminar-pipe-width-symptom-wrap-confirm |  
 | bip_39_word_new_br_1 | slow |  
 | bip_39_word_new_br_10 | slow<br>tattoo<br>fringe<br>seminar<br>pipe<br>width<br>symptom<br>wrap<br>confirm<br>range |  
 | bip_39_word_new_br_11 | slow<br>tattoo<br>fringe<br>seminar<br>pipe<br>width<br>symptom<br>wrap<br>confirm<br>range<br>boss |  
@@ -147,6 +159,18 @@ confirm |
 | bip_39_word_space_7 | slow tattoo fringe seminar pipe width symptom |  
 | bip_39_word_space_8 | slow tattoo fringe seminar pipe width symptom wrap |  
 | bip_39_word_space_9 | slow tattoo fringe seminar pipe width symptom wrap confirm |  
+| bip_39_word_underscore_1 | slow |  
+| bip_39_word_underscore_10 | slow_tattoo_fringe_seminar_pipe_width_symptom_wrap_confirm_range |  
+| bip_39_word_underscore_11 | slow_tattoo_fringe_seminar_pipe_width_symptom_wrap_confirm_range_boss |  
+| bip_39_word_underscore_12 | slow_tattoo_fringe_seminar_pipe_width_symptom_wrap_confirm_range_boss_assault |  
+| bip_39_word_underscore_2 | slow_tattoo |  
+| bip_39_word_underscore_3 | slow_tattoo_fringe |  
+| bip_39_word_underscore_4 | slow_tattoo_fringe_seminar |  
+| bip_39_word_underscore_5 | slow_tattoo_fringe_seminar_pipe |  
+| bip_39_word_underscore_6 | slow_tattoo_fringe_seminar_pipe_width |  
+| bip_39_word_underscore_7 | slow_tattoo_fringe_seminar_pipe_width_symptom |  
+| bip_39_word_underscore_8 | slow_tattoo_fringe_seminar_pipe_width_symptom_wrap |  
+| bip_39_word_underscore_9 | slow_tattoo_fringe_seminar_pipe_width_symptom_wrap_confirm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pact |  
+| bip_39_word_dash_10 | pact-already-maximum-virtual-spy-treat-crumble-print-process-transfer |  
+| bip_39_word_dash_11 | pact-already-maximum-virtual-spy-treat-crumble-print-process-transfer-push |  
+| bip_39_word_dash_12 | pact-already-maximum-virtual-spy-treat-crumble-print-process-transfer-push-alarm |  
+| bip_39_word_dash_2 | pact-already |  
+| bip_39_word_dash_3 | pact-already-maximum |  
+| bip_39_word_dash_4 | pact-already-maximum-virtual |  
+| bip_39_word_dash_5 | pact-already-maximum-virtual-spy |  
+| bip_39_word_dash_6 | pact-already-maximum-virtual-spy-treat |  
+| bip_39_word_dash_7 | pact-already-maximum-virtual-spy-treat-crumble |  
+| bip_39_word_dash_8 | pact-already-maximum-virtual-spy-treat-crumble-print |  
+| bip_39_word_dash_9 | pact-already-maximum-virtual-spy-treat-crumble-print-process |  
 | bip_39_word_new_br_1 | pact |  
 | bip_39_word_new_br_10 | pact<br>already<br>maximum<br>virtual<br>spy<br>treat<br>crumble<br>print<br>process<br>transfer |  
 | bip_39_word_new_br_11 | pact<br>already<br>maximum<br>virtual<br>spy<br>treat<br>crumble<br>print<br>process<br>transfer<br>push |  
@@ -147,6 +159,18 @@ process |
 | bip_39_word_space_7 | pact already maximum virtual spy treat crumble |  
 | bip_39_word_space_8 | pact already maximum virtual spy treat crumble print |  
 | bip_39_word_space_9 | pact already maximum virtual spy treat crumble print process |  
+| bip_39_word_underscore_1 | pact |  
+| bip_39_word_underscore_10 | pact_already_maximum_virtual_spy_treat_crumble_print_process_transfer |  
+| bip_39_word_underscore_11 | pact_already_maximum_virtual_spy_treat_crumble_print_process_transfer_push |  
+| bip_39_word_underscore_12 | pact_already_maximum_virtual_spy_treat_crumble_print_process_transfer_push_alarm |  
+| bip_39_word_underscore_2 | pact_already |  
+| bip_39_word_underscore_3 | pact_already_maximum |  
+| bip_39_word_underscore_4 | pact_already_maximum_virtual |  
+| bip_39_word_underscore_5 | pact_already_maximum_virtual_spy |  
+| bip_39_word_underscore_6 | pact_already_maximum_virtual_spy_treat |  
+| bip_39_word_underscore_7 | pact_already_maximum_virtual_spy_treat_crumble |  
+| bip_39_word_underscore_8 | pact_already_maximum_virtual_spy_treat_crumble_print |  
+| bip_39_word_underscore_9 | pact_already_maximum_virtual_spy_treat_crumble_print_process |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

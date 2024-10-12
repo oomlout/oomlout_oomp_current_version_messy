@@ -1,3 +1,15 @@
+bip_39_word_dash_1: intact
+bip_39_word_dash_10: intact-transfer-local-wrestle-stand-appear-safe-erosion-cotton-hip
+bip_39_word_dash_11: intact-transfer-local-wrestle-stand-appear-safe-erosion-cotton-hip-unfair
+bip_39_word_dash_12: intact-transfer-local-wrestle-stand-appear-safe-erosion-cotton-hip-unfair-auction
+bip_39_word_dash_2: intact-transfer
+bip_39_word_dash_3: intact-transfer-local
+bip_39_word_dash_4: intact-transfer-local-wrestle
+bip_39_word_dash_5: intact-transfer-local-wrestle-stand
+bip_39_word_dash_6: intact-transfer-local-wrestle-stand-appear
+bip_39_word_dash_7: intact-transfer-local-wrestle-stand-appear-safe
+bip_39_word_dash_8: intact-transfer-local-wrestle-stand-appear-safe-erosion
+bip_39_word_dash_9: intact-transfer-local-wrestle-stand-appear-safe-erosion-cotton
 bip_39_word_new_br_1: intact
 bip_39_word_new_br_10: intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion<br>cotton<br>hip
 bip_39_word_new_br_11: intact<br>transfer<br>local<br>wrestle<br>stand<br>appear<br>safe<br>erosion<br>cotton<br>hip<br>unfair
@@ -194,6 +206,18 @@ bip_39_word_space_6: intact transfer local wrestle stand appear
 bip_39_word_space_7: intact transfer local wrestle stand appear safe
 bip_39_word_space_8: intact transfer local wrestle stand appear safe erosion
 bip_39_word_space_9: intact transfer local wrestle stand appear safe erosion cotton
+bip_39_word_underscore_1: intact
+bip_39_word_underscore_10: intact_transfer_local_wrestle_stand_appear_safe_erosion_cotton_hip
+bip_39_word_underscore_11: intact_transfer_local_wrestle_stand_appear_safe_erosion_cotton_hip_unfair
+bip_39_word_underscore_12: intact_transfer_local_wrestle_stand_appear_safe_erosion_cotton_hip_unfair_auction
+bip_39_word_underscore_2: intact_transfer
+bip_39_word_underscore_3: intact_transfer_local
+bip_39_word_underscore_4: intact_transfer_local_wrestle
+bip_39_word_underscore_5: intact_transfer_local_wrestle_stand
+bip_39_word_underscore_6: intact_transfer_local_wrestle_stand_appear
+bip_39_word_underscore_7: intact_transfer_local_wrestle_stand_appear_safe
+bip_39_word_underscore_8: intact_transfer_local_wrestle_stand_appear_safe_erosion
+bip_39_word_underscore_9: intact_transfer_local_wrestle_stand_appear_safe_erosion_cotton
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

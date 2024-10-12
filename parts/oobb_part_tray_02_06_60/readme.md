@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | suffer |  
+| bip_39_word_dash_10 | suffer-eight-elegant-name-rescue-deputy-welcome-anxiety-excite-cool |  
+| bip_39_word_dash_11 | suffer-eight-elegant-name-rescue-deputy-welcome-anxiety-excite-cool-hazard |  
+| bip_39_word_dash_12 | suffer-eight-elegant-name-rescue-deputy-welcome-anxiety-excite-cool-hazard-apology |  
+| bip_39_word_dash_2 | suffer-eight |  
+| bip_39_word_dash_3 | suffer-eight-elegant |  
+| bip_39_word_dash_4 | suffer-eight-elegant-name |  
+| bip_39_word_dash_5 | suffer-eight-elegant-name-rescue |  
+| bip_39_word_dash_6 | suffer-eight-elegant-name-rescue-deputy |  
+| bip_39_word_dash_7 | suffer-eight-elegant-name-rescue-deputy-welcome |  
+| bip_39_word_dash_8 | suffer-eight-elegant-name-rescue-deputy-welcome-anxiety |  
+| bip_39_word_dash_9 | suffer-eight-elegant-name-rescue-deputy-welcome-anxiety-excite |  
 | bip_39_word_new_br_1 | suffer |  
 | bip_39_word_new_br_10 | suffer<br>eight<br>elegant<br>name<br>rescue<br>deputy<br>welcome<br>anxiety<br>excite<br>cool |  
 | bip_39_word_new_br_11 | suffer<br>eight<br>elegant<br>name<br>rescue<br>deputy<br>welcome<br>anxiety<br>excite<br>cool<br>hazard |  
@@ -147,6 +159,18 @@ excite |
 | bip_39_word_space_7 | suffer eight elegant name rescue deputy welcome |  
 | bip_39_word_space_8 | suffer eight elegant name rescue deputy welcome anxiety |  
 | bip_39_word_space_9 | suffer eight elegant name rescue deputy welcome anxiety excite |  
+| bip_39_word_underscore_1 | suffer |  
+| bip_39_word_underscore_10 | suffer_eight_elegant_name_rescue_deputy_welcome_anxiety_excite_cool |  
+| bip_39_word_underscore_11 | suffer_eight_elegant_name_rescue_deputy_welcome_anxiety_excite_cool_hazard |  
+| bip_39_word_underscore_12 | suffer_eight_elegant_name_rescue_deputy_welcome_anxiety_excite_cool_hazard_apology |  
+| bip_39_word_underscore_2 | suffer_eight |  
+| bip_39_word_underscore_3 | suffer_eight_elegant |  
+| bip_39_word_underscore_4 | suffer_eight_elegant_name |  
+| bip_39_word_underscore_5 | suffer_eight_elegant_name_rescue |  
+| bip_39_word_underscore_6 | suffer_eight_elegant_name_rescue_deputy |  
+| bip_39_word_underscore_7 | suffer_eight_elegant_name_rescue_deputy_welcome |  
+| bip_39_word_underscore_8 | suffer_eight_elegant_name_rescue_deputy_welcome_anxiety |  
+| bip_39_word_underscore_9 | suffer_eight_elegant_name_rescue_deputy_welcome_anxiety_excite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

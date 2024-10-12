@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | woman |  
+| bip_39_word_dash_10 | woman-moon-bread-lava-method-potato-surface-caught-equal-eye |  
+| bip_39_word_dash_11 | woman-moon-bread-lava-method-potato-surface-caught-equal-eye-differ |  
+| bip_39_word_dash_12 | woman-moon-bread-lava-method-potato-surface-caught-equal-eye-differ-anxiety |  
+| bip_39_word_dash_2 | woman-moon |  
+| bip_39_word_dash_3 | woman-moon-bread |  
+| bip_39_word_dash_4 | woman-moon-bread-lava |  
+| bip_39_word_dash_5 | woman-moon-bread-lava-method |  
+| bip_39_word_dash_6 | woman-moon-bread-lava-method-potato |  
+| bip_39_word_dash_7 | woman-moon-bread-lava-method-potato-surface |  
+| bip_39_word_dash_8 | woman-moon-bread-lava-method-potato-surface-caught |  
+| bip_39_word_dash_9 | woman-moon-bread-lava-method-potato-surface-caught-equal |  
 | bip_39_word_new_br_1 | woman |  
 | bip_39_word_new_br_10 | woman<br>moon<br>bread<br>lava<br>method<br>potato<br>surface<br>caught<br>equal<br>eye |  
 | bip_39_word_new_br_11 | woman<br>moon<br>bread<br>lava<br>method<br>potato<br>surface<br>caught<br>equal<br>eye<br>differ |  
@@ -147,6 +159,18 @@ equal |
 | bip_39_word_space_7 | woman moon bread lava method potato surface |  
 | bip_39_word_space_8 | woman moon bread lava method potato surface caught |  
 | bip_39_word_space_9 | woman moon bread lava method potato surface caught equal |  
+| bip_39_word_underscore_1 | woman |  
+| bip_39_word_underscore_10 | woman_moon_bread_lava_method_potato_surface_caught_equal_eye |  
+| bip_39_word_underscore_11 | woman_moon_bread_lava_method_potato_surface_caught_equal_eye_differ |  
+| bip_39_word_underscore_12 | woman_moon_bread_lava_method_potato_surface_caught_equal_eye_differ_anxiety |  
+| bip_39_word_underscore_2 | woman_moon |  
+| bip_39_word_underscore_3 | woman_moon_bread |  
+| bip_39_word_underscore_4 | woman_moon_bread_lava |  
+| bip_39_word_underscore_5 | woman_moon_bread_lava_method |  
+| bip_39_word_underscore_6 | woman_moon_bread_lava_method_potato |  
+| bip_39_word_underscore_7 | woman_moon_bread_lava_method_potato_surface |  
+| bip_39_word_underscore_8 | woman_moon_bread_lava_method_potato_surface_caught |  
+| bip_39_word_underscore_9 | woman_moon_bread_lava_method_potato_surface_caught_equal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

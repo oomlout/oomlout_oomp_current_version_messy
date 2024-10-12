@@ -1,3 +1,15 @@
+bip_39_word_dash_1: welcome
+bip_39_word_dash_10: welcome-belt-music-stem-soon-also-garment-denial-audit-unit
+bip_39_word_dash_11: welcome-belt-music-stem-soon-also-garment-denial-audit-unit-exclude
+bip_39_word_dash_12: welcome-belt-music-stem-soon-also-garment-denial-audit-unit-exclude-action
+bip_39_word_dash_2: welcome-belt
+bip_39_word_dash_3: welcome-belt-music
+bip_39_word_dash_4: welcome-belt-music-stem
+bip_39_word_dash_5: welcome-belt-music-stem-soon
+bip_39_word_dash_6: welcome-belt-music-stem-soon-also
+bip_39_word_dash_7: welcome-belt-music-stem-soon-also-garment
+bip_39_word_dash_8: welcome-belt-music-stem-soon-also-garment-denial
+bip_39_word_dash_9: welcome-belt-music-stem-soon-also-garment-denial-audit
 bip_39_word_new_br_1: welcome
 bip_39_word_new_br_10: welcome<br>belt<br>music<br>stem<br>soon<br>also<br>garment<br>denial<br>audit<br>unit
 bip_39_word_new_br_11: welcome<br>belt<br>music<br>stem<br>soon<br>also<br>garment<br>denial<br>audit<br>unit<br>exclude
@@ -193,6 +205,18 @@ bip_39_word_space_6: welcome belt music stem soon also
 bip_39_word_space_7: welcome belt music stem soon also garment
 bip_39_word_space_8: welcome belt music stem soon also garment denial
 bip_39_word_space_9: welcome belt music stem soon also garment denial audit
+bip_39_word_underscore_1: welcome
+bip_39_word_underscore_10: welcome_belt_music_stem_soon_also_garment_denial_audit_unit
+bip_39_word_underscore_11: welcome_belt_music_stem_soon_also_garment_denial_audit_unit_exclude
+bip_39_word_underscore_12: welcome_belt_music_stem_soon_also_garment_denial_audit_unit_exclude_action
+bip_39_word_underscore_2: welcome_belt
+bip_39_word_underscore_3: welcome_belt_music
+bip_39_word_underscore_4: welcome_belt_music_stem
+bip_39_word_underscore_5: welcome_belt_music_stem_soon
+bip_39_word_underscore_6: welcome_belt_music_stem_soon_also
+bip_39_word_underscore_7: welcome_belt_music_stem_soon_also_garment
+bip_39_word_underscore_8: welcome_belt_music_stem_soon_also_garment_denial
+bip_39_word_underscore_9: welcome_belt_music_stem_soon_also_garment_denial_audit
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

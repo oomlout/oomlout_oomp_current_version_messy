@@ -1,3 +1,15 @@
+bip_39_word_dash_1: boy
+bip_39_word_dash_10: boy-spell-mosquito-strong-provide-sick-ranch-siege-arrive-garbage
+bip_39_word_dash_11: boy-spell-mosquito-strong-provide-sick-ranch-siege-arrive-garbage-pledge
+bip_39_word_dash_12: boy-spell-mosquito-strong-provide-sick-ranch-siege-arrive-garbage-pledge-ankle
+bip_39_word_dash_2: boy-spell
+bip_39_word_dash_3: boy-spell-mosquito
+bip_39_word_dash_4: boy-spell-mosquito-strong
+bip_39_word_dash_5: boy-spell-mosquito-strong-provide
+bip_39_word_dash_6: boy-spell-mosquito-strong-provide-sick
+bip_39_word_dash_7: boy-spell-mosquito-strong-provide-sick-ranch
+bip_39_word_dash_8: boy-spell-mosquito-strong-provide-sick-ranch-siege
+bip_39_word_dash_9: boy-spell-mosquito-strong-provide-sick-ranch-siege-arrive
 bip_39_word_new_br_1: boy
 bip_39_word_new_br_10: boy<br>spell<br>mosquito<br>strong<br>provide<br>sick<br>ranch<br>siege<br>arrive<br>garbage
 bip_39_word_new_br_11: boy<br>spell<br>mosquito<br>strong<br>provide<br>sick<br>ranch<br>siege<br>arrive<br>garbage<br>pledge
@@ -193,6 +205,18 @@ bip_39_word_space_6: boy spell mosquito strong provide sick
 bip_39_word_space_7: boy spell mosquito strong provide sick ranch
 bip_39_word_space_8: boy spell mosquito strong provide sick ranch siege
 bip_39_word_space_9: boy spell mosquito strong provide sick ranch siege arrive
+bip_39_word_underscore_1: boy
+bip_39_word_underscore_10: boy_spell_mosquito_strong_provide_sick_ranch_siege_arrive_garbage
+bip_39_word_underscore_11: boy_spell_mosquito_strong_provide_sick_ranch_siege_arrive_garbage_pledge
+bip_39_word_underscore_12: boy_spell_mosquito_strong_provide_sick_ranch_siege_arrive_garbage_pledge_ankle
+bip_39_word_underscore_2: boy_spell
+bip_39_word_underscore_3: boy_spell_mosquito
+bip_39_word_underscore_4: boy_spell_mosquito_strong
+bip_39_word_underscore_5: boy_spell_mosquito_strong_provide
+bip_39_word_underscore_6: boy_spell_mosquito_strong_provide_sick
+bip_39_word_underscore_7: boy_spell_mosquito_strong_provide_sick_ranch
+bip_39_word_underscore_8: boy_spell_mosquito_strong_provide_sick_ranch_siege
+bip_39_word_underscore_9: boy_spell_mosquito_strong_provide_sick_ranch_siege_arrive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

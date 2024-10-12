@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dutch |  
+| bip_39_word_dash_10 | dutch-diet-grief-control-monkey-music-harbor-soldier-engine-expose |  
+| bip_39_word_dash_11 | dutch-diet-grief-control-monkey-music-harbor-soldier-engine-expose-urban |  
+| bip_39_word_dash_12 | dutch-diet-grief-control-monkey-music-harbor-soldier-engine-expose-urban-actress |  
+| bip_39_word_dash_2 | dutch-diet |  
+| bip_39_word_dash_3 | dutch-diet-grief |  
+| bip_39_word_dash_4 | dutch-diet-grief-control |  
+| bip_39_word_dash_5 | dutch-diet-grief-control-monkey |  
+| bip_39_word_dash_6 | dutch-diet-grief-control-monkey-music |  
+| bip_39_word_dash_7 | dutch-diet-grief-control-monkey-music-harbor |  
+| bip_39_word_dash_8 | dutch-diet-grief-control-monkey-music-harbor-soldier |  
+| bip_39_word_dash_9 | dutch-diet-grief-control-monkey-music-harbor-soldier-engine |  
 | bip_39_word_new_br_1 | dutch |  
 | bip_39_word_new_br_10 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier<br>engine<br>expose |  
 | bip_39_word_new_br_11 | dutch<br>diet<br>grief<br>control<br>monkey<br>music<br>harbor<br>soldier<br>engine<br>expose<br>urban |  
@@ -147,6 +159,18 @@ engine |
 | bip_39_word_space_7 | dutch diet grief control monkey music harbor |  
 | bip_39_word_space_8 | dutch diet grief control monkey music harbor soldier |  
 | bip_39_word_space_9 | dutch diet grief control monkey music harbor soldier engine |  
+| bip_39_word_underscore_1 | dutch |  
+| bip_39_word_underscore_10 | dutch_diet_grief_control_monkey_music_harbor_soldier_engine_expose |  
+| bip_39_word_underscore_11 | dutch_diet_grief_control_monkey_music_harbor_soldier_engine_expose_urban |  
+| bip_39_word_underscore_12 | dutch_diet_grief_control_monkey_music_harbor_soldier_engine_expose_urban_actress |  
+| bip_39_word_underscore_2 | dutch_diet |  
+| bip_39_word_underscore_3 | dutch_diet_grief |  
+| bip_39_word_underscore_4 | dutch_diet_grief_control |  
+| bip_39_word_underscore_5 | dutch_diet_grief_control_monkey |  
+| bip_39_word_underscore_6 | dutch_diet_grief_control_monkey_music |  
+| bip_39_word_underscore_7 | dutch_diet_grief_control_monkey_music_harbor |  
+| bip_39_word_underscore_8 | dutch_diet_grief_control_monkey_music_harbor_soldier |  
+| bip_39_word_underscore_9 | dutch_diet_grief_control_monkey_music_harbor_soldier_engine |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

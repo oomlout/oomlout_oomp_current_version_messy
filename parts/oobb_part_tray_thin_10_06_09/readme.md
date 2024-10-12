@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cash |  
+| bip_39_word_dash_10 | cash-poet-notable-shoot-jazz-extra-crowd-afraid-october-gate |  
+| bip_39_word_dash_11 | cash-poet-notable-shoot-jazz-extra-crowd-afraid-october-gate-million |  
+| bip_39_word_dash_12 | cash-poet-notable-shoot-jazz-extra-crowd-afraid-october-gate-million-airport |  
+| bip_39_word_dash_2 | cash-poet |  
+| bip_39_word_dash_3 | cash-poet-notable |  
+| bip_39_word_dash_4 | cash-poet-notable-shoot |  
+| bip_39_word_dash_5 | cash-poet-notable-shoot-jazz |  
+| bip_39_word_dash_6 | cash-poet-notable-shoot-jazz-extra |  
+| bip_39_word_dash_7 | cash-poet-notable-shoot-jazz-extra-crowd |  
+| bip_39_word_dash_8 | cash-poet-notable-shoot-jazz-extra-crowd-afraid |  
+| bip_39_word_dash_9 | cash-poet-notable-shoot-jazz-extra-crowd-afraid-october |  
 | bip_39_word_new_br_1 | cash |  
 | bip_39_word_new_br_10 | cash<br>poet<br>notable<br>shoot<br>jazz<br>extra<br>crowd<br>afraid<br>october<br>gate |  
 | bip_39_word_new_br_11 | cash<br>poet<br>notable<br>shoot<br>jazz<br>extra<br>crowd<br>afraid<br>october<br>gate<br>million |  
@@ -147,6 +159,18 @@ october |
 | bip_39_word_space_7 | cash poet notable shoot jazz extra crowd |  
 | bip_39_word_space_8 | cash poet notable shoot jazz extra crowd afraid |  
 | bip_39_word_space_9 | cash poet notable shoot jazz extra crowd afraid october |  
+| bip_39_word_underscore_1 | cash |  
+| bip_39_word_underscore_10 | cash_poet_notable_shoot_jazz_extra_crowd_afraid_october_gate |  
+| bip_39_word_underscore_11 | cash_poet_notable_shoot_jazz_extra_crowd_afraid_october_gate_million |  
+| bip_39_word_underscore_12 | cash_poet_notable_shoot_jazz_extra_crowd_afraid_october_gate_million_airport |  
+| bip_39_word_underscore_2 | cash_poet |  
+| bip_39_word_underscore_3 | cash_poet_notable |  
+| bip_39_word_underscore_4 | cash_poet_notable_shoot |  
+| bip_39_word_underscore_5 | cash_poet_notable_shoot_jazz |  
+| bip_39_word_underscore_6 | cash_poet_notable_shoot_jazz_extra |  
+| bip_39_word_underscore_7 | cash_poet_notable_shoot_jazz_extra_crowd |  
+| bip_39_word_underscore_8 | cash_poet_notable_shoot_jazz_extra_crowd_afraid |  
+| bip_39_word_underscore_9 | cash_poet_notable_shoot_jazz_extra_crowd_afraid_october |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

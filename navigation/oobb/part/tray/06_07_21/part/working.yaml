@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unknown
+bip_39_word_dash_10: unknown-rose-science-above-word-census-spin-amazing-bargain-make
+bip_39_word_dash_11: unknown-rose-science-above-word-census-spin-amazing-bargain-make-foster
+bip_39_word_dash_12: unknown-rose-science-above-word-census-spin-amazing-bargain-make-foster-art
+bip_39_word_dash_2: unknown-rose
+bip_39_word_dash_3: unknown-rose-science
+bip_39_word_dash_4: unknown-rose-science-above
+bip_39_word_dash_5: unknown-rose-science-above-word
+bip_39_word_dash_6: unknown-rose-science-above-word-census
+bip_39_word_dash_7: unknown-rose-science-above-word-census-spin
+bip_39_word_dash_8: unknown-rose-science-above-word-census-spin-amazing
+bip_39_word_dash_9: unknown-rose-science-above-word-census-spin-amazing-bargain
 bip_39_word_new_br_1: unknown
 bip_39_word_new_br_10: unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing<br>bargain<br>make
 bip_39_word_new_br_11: unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing<br>bargain<br>make<br>foster
@@ -194,6 +206,18 @@ bip_39_word_space_6: unknown rose science above word census
 bip_39_word_space_7: unknown rose science above word census spin
 bip_39_word_space_8: unknown rose science above word census spin amazing
 bip_39_word_space_9: unknown rose science above word census spin amazing bargain
+bip_39_word_underscore_1: unknown
+bip_39_word_underscore_10: unknown_rose_science_above_word_census_spin_amazing_bargain_make
+bip_39_word_underscore_11: unknown_rose_science_above_word_census_spin_amazing_bargain_make_foster
+bip_39_word_underscore_12: unknown_rose_science_above_word_census_spin_amazing_bargain_make_foster_art
+bip_39_word_underscore_2: unknown_rose
+bip_39_word_underscore_3: unknown_rose_science
+bip_39_word_underscore_4: unknown_rose_science_above
+bip_39_word_underscore_5: unknown_rose_science_above_word
+bip_39_word_underscore_6: unknown_rose_science_above_word_census
+bip_39_word_underscore_7: unknown_rose_science_above_word_census_spin
+bip_39_word_underscore_8: unknown_rose_science_above_word_census_spin_amazing
+bip_39_word_underscore_9: unknown_rose_science_above_word_census_spin_amazing_bargain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

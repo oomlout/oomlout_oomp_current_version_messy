@@ -1,3 +1,15 @@
+bip_39_word_dash_1: donate
+bip_39_word_dash_10: donate-tornado-warfare-afford-vehicle-reopen-item-scatter-chair-fortune
+bip_39_word_dash_11: donate-tornado-warfare-afford-vehicle-reopen-item-scatter-chair-fortune-nominee
+bip_39_word_dash_12: donate-tornado-warfare-afford-vehicle-reopen-item-scatter-chair-fortune-nominee-afraid
+bip_39_word_dash_2: donate-tornado
+bip_39_word_dash_3: donate-tornado-warfare
+bip_39_word_dash_4: donate-tornado-warfare-afford
+bip_39_word_dash_5: donate-tornado-warfare-afford-vehicle
+bip_39_word_dash_6: donate-tornado-warfare-afford-vehicle-reopen
+bip_39_word_dash_7: donate-tornado-warfare-afford-vehicle-reopen-item
+bip_39_word_dash_8: donate-tornado-warfare-afford-vehicle-reopen-item-scatter
+bip_39_word_dash_9: donate-tornado-warfare-afford-vehicle-reopen-item-scatter-chair
 bip_39_word_new_br_1: donate
 bip_39_word_new_br_10: donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune
 bip_39_word_new_br_11: donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune<br>nominee
@@ -194,6 +206,18 @@ bip_39_word_space_6: donate tornado warfare afford vehicle reopen
 bip_39_word_space_7: donate tornado warfare afford vehicle reopen item
 bip_39_word_space_8: donate tornado warfare afford vehicle reopen item scatter
 bip_39_word_space_9: donate tornado warfare afford vehicle reopen item scatter chair
+bip_39_word_underscore_1: donate
+bip_39_word_underscore_10: donate_tornado_warfare_afford_vehicle_reopen_item_scatter_chair_fortune
+bip_39_word_underscore_11: donate_tornado_warfare_afford_vehicle_reopen_item_scatter_chair_fortune_nominee
+bip_39_word_underscore_12: donate_tornado_warfare_afford_vehicle_reopen_item_scatter_chair_fortune_nominee_afraid
+bip_39_word_underscore_2: donate_tornado
+bip_39_word_underscore_3: donate_tornado_warfare
+bip_39_word_underscore_4: donate_tornado_warfare_afford
+bip_39_word_underscore_5: donate_tornado_warfare_afford_vehicle
+bip_39_word_underscore_6: donate_tornado_warfare_afford_vehicle_reopen
+bip_39_word_underscore_7: donate_tornado_warfare_afford_vehicle_reopen_item
+bip_39_word_underscore_8: donate_tornado_warfare_afford_vehicle_reopen_item_scatter
+bip_39_word_underscore_9: donate_tornado_warfare_afford_vehicle_reopen_item_scatter_chair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

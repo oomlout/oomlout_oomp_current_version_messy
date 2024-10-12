@@ -1,3 +1,15 @@
+bip_39_word_dash_1: twenty
+bip_39_word_dash_10: twenty-trim-turtle-spoon-stock-evil-short-cry-dignity-siren
+bip_39_word_dash_11: twenty-trim-turtle-spoon-stock-evil-short-cry-dignity-siren-please
+bip_39_word_dash_12: twenty-trim-turtle-spoon-stock-evil-short-cry-dignity-siren-please-assume
+bip_39_word_dash_2: twenty-trim
+bip_39_word_dash_3: twenty-trim-turtle
+bip_39_word_dash_4: twenty-trim-turtle-spoon
+bip_39_word_dash_5: twenty-trim-turtle-spoon-stock
+bip_39_word_dash_6: twenty-trim-turtle-spoon-stock-evil
+bip_39_word_dash_7: twenty-trim-turtle-spoon-stock-evil-short
+bip_39_word_dash_8: twenty-trim-turtle-spoon-stock-evil-short-cry
+bip_39_word_dash_9: twenty-trim-turtle-spoon-stock-evil-short-cry-dignity
 bip_39_word_new_br_1: twenty
 bip_39_word_new_br_10: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren
 bip_39_word_new_br_11: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren<br>please
@@ -193,6 +205,18 @@ bip_39_word_space_6: twenty trim turtle spoon stock evil
 bip_39_word_space_7: twenty trim turtle spoon stock evil short
 bip_39_word_space_8: twenty trim turtle spoon stock evil short cry
 bip_39_word_space_9: twenty trim turtle spoon stock evil short cry dignity
+bip_39_word_underscore_1: twenty
+bip_39_word_underscore_10: twenty_trim_turtle_spoon_stock_evil_short_cry_dignity_siren
+bip_39_word_underscore_11: twenty_trim_turtle_spoon_stock_evil_short_cry_dignity_siren_please
+bip_39_word_underscore_12: twenty_trim_turtle_spoon_stock_evil_short_cry_dignity_siren_please_assume
+bip_39_word_underscore_2: twenty_trim
+bip_39_word_underscore_3: twenty_trim_turtle
+bip_39_word_underscore_4: twenty_trim_turtle_spoon
+bip_39_word_underscore_5: twenty_trim_turtle_spoon_stock
+bip_39_word_underscore_6: twenty_trim_turtle_spoon_stock_evil
+bip_39_word_underscore_7: twenty_trim_turtle_spoon_stock_evil_short
+bip_39_word_underscore_8: twenty_trim_turtle_spoon_stock_evil_short_cry
+bip_39_word_underscore_9: twenty_trim_turtle_spoon_stock_evil_short_cry_dignity
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orange |  
+| bip_39_word_dash_10 | orange-tooth-aware-silent-angry-tornado-tag-copper-basket-question |  
+| bip_39_word_dash_11 | orange-tooth-aware-silent-angry-tornado-tag-copper-basket-question-visit |  
+| bip_39_word_dash_12 | orange-tooth-aware-silent-angry-tornado-tag-copper-basket-question-visit-amount |  
+| bip_39_word_dash_2 | orange-tooth |  
+| bip_39_word_dash_3 | orange-tooth-aware |  
+| bip_39_word_dash_4 | orange-tooth-aware-silent |  
+| bip_39_word_dash_5 | orange-tooth-aware-silent-angry |  
+| bip_39_word_dash_6 | orange-tooth-aware-silent-angry-tornado |  
+| bip_39_word_dash_7 | orange-tooth-aware-silent-angry-tornado-tag |  
+| bip_39_word_dash_8 | orange-tooth-aware-silent-angry-tornado-tag-copper |  
+| bip_39_word_dash_9 | orange-tooth-aware-silent-angry-tornado-tag-copper-basket |  
 | bip_39_word_new_br_1 | orange |  
 | bip_39_word_new_br_10 | orange<br>tooth<br>aware<br>silent<br>angry<br>tornado<br>tag<br>copper<br>basket<br>question |  
 | bip_39_word_new_br_11 | orange<br>tooth<br>aware<br>silent<br>angry<br>tornado<br>tag<br>copper<br>basket<br>question<br>visit |  
@@ -147,6 +159,18 @@ basket |
 | bip_39_word_space_7 | orange tooth aware silent angry tornado tag |  
 | bip_39_word_space_8 | orange tooth aware silent angry tornado tag copper |  
 | bip_39_word_space_9 | orange tooth aware silent angry tornado tag copper basket |  
+| bip_39_word_underscore_1 | orange |  
+| bip_39_word_underscore_10 | orange_tooth_aware_silent_angry_tornado_tag_copper_basket_question |  
+| bip_39_word_underscore_11 | orange_tooth_aware_silent_angry_tornado_tag_copper_basket_question_visit |  
+| bip_39_word_underscore_12 | orange_tooth_aware_silent_angry_tornado_tag_copper_basket_question_visit_amount |  
+| bip_39_word_underscore_2 | orange_tooth |  
+| bip_39_word_underscore_3 | orange_tooth_aware |  
+| bip_39_word_underscore_4 | orange_tooth_aware_silent |  
+| bip_39_word_underscore_5 | orange_tooth_aware_silent_angry |  
+| bip_39_word_underscore_6 | orange_tooth_aware_silent_angry_tornado |  
+| bip_39_word_underscore_7 | orange_tooth_aware_silent_angry_tornado_tag |  
+| bip_39_word_underscore_8 | orange_tooth_aware_silent_angry_tornado_tag_copper |  
+| bip_39_word_underscore_9 | orange_tooth_aware_silent_angry_tornado_tag_copper_basket |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

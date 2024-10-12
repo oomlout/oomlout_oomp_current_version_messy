@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tumble
+bip_39_word_dash_10: tumble-nose-peasant-meat-wear-rose-dirt-glove-crop-seed
+bip_39_word_dash_11: tumble-nose-peasant-meat-wear-rose-dirt-glove-crop-seed-slot
+bip_39_word_dash_12: tumble-nose-peasant-meat-wear-rose-dirt-glove-crop-seed-slot-able
+bip_39_word_dash_2: tumble-nose
+bip_39_word_dash_3: tumble-nose-peasant
+bip_39_word_dash_4: tumble-nose-peasant-meat
+bip_39_word_dash_5: tumble-nose-peasant-meat-wear
+bip_39_word_dash_6: tumble-nose-peasant-meat-wear-rose
+bip_39_word_dash_7: tumble-nose-peasant-meat-wear-rose-dirt
+bip_39_word_dash_8: tumble-nose-peasant-meat-wear-rose-dirt-glove
+bip_39_word_dash_9: tumble-nose-peasant-meat-wear-rose-dirt-glove-crop
 bip_39_word_new_br_1: tumble
 bip_39_word_new_br_10: tumble<br>nose<br>peasant<br>meat<br>wear<br>rose<br>dirt<br>glove<br>crop<br>seed
 bip_39_word_new_br_11: tumble<br>nose<br>peasant<br>meat<br>wear<br>rose<br>dirt<br>glove<br>crop<br>seed<br>slot
@@ -192,6 +204,18 @@ bip_39_word_space_6: tumble nose peasant meat wear rose
 bip_39_word_space_7: tumble nose peasant meat wear rose dirt
 bip_39_word_space_8: tumble nose peasant meat wear rose dirt glove
 bip_39_word_space_9: tumble nose peasant meat wear rose dirt glove crop
+bip_39_word_underscore_1: tumble
+bip_39_word_underscore_10: tumble_nose_peasant_meat_wear_rose_dirt_glove_crop_seed
+bip_39_word_underscore_11: tumble_nose_peasant_meat_wear_rose_dirt_glove_crop_seed_slot
+bip_39_word_underscore_12: tumble_nose_peasant_meat_wear_rose_dirt_glove_crop_seed_slot_able
+bip_39_word_underscore_2: tumble_nose
+bip_39_word_underscore_3: tumble_nose_peasant
+bip_39_word_underscore_4: tumble_nose_peasant_meat
+bip_39_word_underscore_5: tumble_nose_peasant_meat_wear
+bip_39_word_underscore_6: tumble_nose_peasant_meat_wear_rose
+bip_39_word_underscore_7: tumble_nose_peasant_meat_wear_rose_dirt
+bip_39_word_underscore_8: tumble_nose_peasant_meat_wear_rose_dirt_glove
+bip_39_word_underscore_9: tumble_nose_peasant_meat_wear_rose_dirt_glove_crop
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

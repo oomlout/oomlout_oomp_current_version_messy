@@ -1,3 +1,15 @@
+bip_39_word_dash_1: whale
+bip_39_word_dash_10: whale-knee-armed-best-hurt-super-tiger-load-glance-habit
+bip_39_word_dash_11: whale-knee-armed-best-hurt-super-tiger-load-glance-habit-envelope
+bip_39_word_dash_12: whale-knee-armed-best-hurt-super-tiger-load-glance-habit-envelope-about
+bip_39_word_dash_2: whale-knee
+bip_39_word_dash_3: whale-knee-armed
+bip_39_word_dash_4: whale-knee-armed-best
+bip_39_word_dash_5: whale-knee-armed-best-hurt
+bip_39_word_dash_6: whale-knee-armed-best-hurt-super
+bip_39_word_dash_7: whale-knee-armed-best-hurt-super-tiger
+bip_39_word_dash_8: whale-knee-armed-best-hurt-super-tiger-load
+bip_39_word_dash_9: whale-knee-armed-best-hurt-super-tiger-load-glance
 bip_39_word_new_br_1: whale
 bip_39_word_new_br_10: whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit
 bip_39_word_new_br_11: whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit<br>envelope
@@ -192,6 +204,18 @@ bip_39_word_space_6: whale knee armed best hurt super
 bip_39_word_space_7: whale knee armed best hurt super tiger
 bip_39_word_space_8: whale knee armed best hurt super tiger load
 bip_39_word_space_9: whale knee armed best hurt super tiger load glance
+bip_39_word_underscore_1: whale
+bip_39_word_underscore_10: whale_knee_armed_best_hurt_super_tiger_load_glance_habit
+bip_39_word_underscore_11: whale_knee_armed_best_hurt_super_tiger_load_glance_habit_envelope
+bip_39_word_underscore_12: whale_knee_armed_best_hurt_super_tiger_load_glance_habit_envelope_about
+bip_39_word_underscore_2: whale_knee
+bip_39_word_underscore_3: whale_knee_armed
+bip_39_word_underscore_4: whale_knee_armed_best
+bip_39_word_underscore_5: whale_knee_armed_best_hurt
+bip_39_word_underscore_6: whale_knee_armed_best_hurt_super
+bip_39_word_underscore_7: whale_knee_armed_best_hurt_super_tiger
+bip_39_word_underscore_8: whale_knee_armed_best_hurt_super_tiger_load
+bip_39_word_underscore_9: whale_knee_armed_best_hurt_super_tiger_load_glance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

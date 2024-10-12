@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | join |  
+| bip_39_word_dash_10 | join-verify-private-middle-across-call-pupil-radio-other-south |  
+| bip_39_word_dash_11 | join-verify-private-middle-across-call-pupil-radio-other-south-special |  
+| bip_39_word_dash_12 | join-verify-private-middle-across-call-pupil-radio-other-south-special-admit |  
+| bip_39_word_dash_2 | join-verify |  
+| bip_39_word_dash_3 | join-verify-private |  
+| bip_39_word_dash_4 | join-verify-private-middle |  
+| bip_39_word_dash_5 | join-verify-private-middle-across |  
+| bip_39_word_dash_6 | join-verify-private-middle-across-call |  
+| bip_39_word_dash_7 | join-verify-private-middle-across-call-pupil |  
+| bip_39_word_dash_8 | join-verify-private-middle-across-call-pupil-radio |  
+| bip_39_word_dash_9 | join-verify-private-middle-across-call-pupil-radio-other |  
 | bip_39_word_new_br_1 | join |  
 | bip_39_word_new_br_10 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio<br>other<br>south |  
 | bip_39_word_new_br_11 | join<br>verify<br>private<br>middle<br>across<br>call<br>pupil<br>radio<br>other<br>south<br>special |  
@@ -147,6 +159,18 @@ other |
 | bip_39_word_space_7 | join verify private middle across call pupil |  
 | bip_39_word_space_8 | join verify private middle across call pupil radio |  
 | bip_39_word_space_9 | join verify private middle across call pupil radio other |  
+| bip_39_word_underscore_1 | join |  
+| bip_39_word_underscore_10 | join_verify_private_middle_across_call_pupil_radio_other_south |  
+| bip_39_word_underscore_11 | join_verify_private_middle_across_call_pupil_radio_other_south_special |  
+| bip_39_word_underscore_12 | join_verify_private_middle_across_call_pupil_radio_other_south_special_admit |  
+| bip_39_word_underscore_2 | join_verify |  
+| bip_39_word_underscore_3 | join_verify_private |  
+| bip_39_word_underscore_4 | join_verify_private_middle |  
+| bip_39_word_underscore_5 | join_verify_private_middle_across |  
+| bip_39_word_underscore_6 | join_verify_private_middle_across_call |  
+| bip_39_word_underscore_7 | join_verify_private_middle_across_call_pupil |  
+| bip_39_word_underscore_8 | join_verify_private_middle_across_call_pupil_radio |  
+| bip_39_word_underscore_9 | join_verify_private_middle_across_call_pupil_radio_other |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | potato |  
+| bip_39_word_dash_10 | potato-warfare-nose-quality-salmon-injury-true-toe-dust-alpha |  
+| bip_39_word_dash_11 | potato-warfare-nose-quality-salmon-injury-true-toe-dust-alpha-worth |  
+| bip_39_word_dash_12 | potato-warfare-nose-quality-salmon-injury-true-toe-dust-alpha-worth-athlete |  
+| bip_39_word_dash_2 | potato-warfare |  
+| bip_39_word_dash_3 | potato-warfare-nose |  
+| bip_39_word_dash_4 | potato-warfare-nose-quality |  
+| bip_39_word_dash_5 | potato-warfare-nose-quality-salmon |  
+| bip_39_word_dash_6 | potato-warfare-nose-quality-salmon-injury |  
+| bip_39_word_dash_7 | potato-warfare-nose-quality-salmon-injury-true |  
+| bip_39_word_dash_8 | potato-warfare-nose-quality-salmon-injury-true-toe |  
+| bip_39_word_dash_9 | potato-warfare-nose-quality-salmon-injury-true-toe-dust |  
 | bip_39_word_new_br_1 | potato |  
 | bip_39_word_new_br_10 | potato<br>warfare<br>nose<br>quality<br>salmon<br>injury<br>true<br>toe<br>dust<br>alpha |  
 | bip_39_word_new_br_11 | potato<br>warfare<br>nose<br>quality<br>salmon<br>injury<br>true<br>toe<br>dust<br>alpha<br>worth |  
@@ -147,6 +159,18 @@ dust |
 | bip_39_word_space_7 | potato warfare nose quality salmon injury true |  
 | bip_39_word_space_8 | potato warfare nose quality salmon injury true toe |  
 | bip_39_word_space_9 | potato warfare nose quality salmon injury true toe dust |  
+| bip_39_word_underscore_1 | potato |  
+| bip_39_word_underscore_10 | potato_warfare_nose_quality_salmon_injury_true_toe_dust_alpha |  
+| bip_39_word_underscore_11 | potato_warfare_nose_quality_salmon_injury_true_toe_dust_alpha_worth |  
+| bip_39_word_underscore_12 | potato_warfare_nose_quality_salmon_injury_true_toe_dust_alpha_worth_athlete |  
+| bip_39_word_underscore_2 | potato_warfare |  
+| bip_39_word_underscore_3 | potato_warfare_nose |  
+| bip_39_word_underscore_4 | potato_warfare_nose_quality |  
+| bip_39_word_underscore_5 | potato_warfare_nose_quality_salmon |  
+| bip_39_word_underscore_6 | potato_warfare_nose_quality_salmon_injury |  
+| bip_39_word_underscore_7 | potato_warfare_nose_quality_salmon_injury_true |  
+| bip_39_word_underscore_8 | potato_warfare_nose_quality_salmon_injury_true_toe |  
+| bip_39_word_underscore_9 | potato_warfare_nose_quality_salmon_injury_true_toe_dust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

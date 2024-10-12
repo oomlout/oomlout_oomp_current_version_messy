@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | major |  
+| bip_39_word_dash_10 | major-power-beauty-pyramid-language-eagle-staff-kind-path-like |  
+| bip_39_word_dash_11 | major-power-beauty-pyramid-language-eagle-staff-kind-path-like-track |  
+| bip_39_word_dash_12 | major-power-beauty-pyramid-language-eagle-staff-kind-path-like-track-anchor |  
+| bip_39_word_dash_2 | major-power |  
+| bip_39_word_dash_3 | major-power-beauty |  
+| bip_39_word_dash_4 | major-power-beauty-pyramid |  
+| bip_39_word_dash_5 | major-power-beauty-pyramid-language |  
+| bip_39_word_dash_6 | major-power-beauty-pyramid-language-eagle |  
+| bip_39_word_dash_7 | major-power-beauty-pyramid-language-eagle-staff |  
+| bip_39_word_dash_8 | major-power-beauty-pyramid-language-eagle-staff-kind |  
+| bip_39_word_dash_9 | major-power-beauty-pyramid-language-eagle-staff-kind-path |  
 | bip_39_word_new_br_1 | major |  
 | bip_39_word_new_br_10 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind<br>path<br>like |  
 | bip_39_word_new_br_11 | major<br>power<br>beauty<br>pyramid<br>language<br>eagle<br>staff<br>kind<br>path<br>like<br>track |  
@@ -147,6 +159,18 @@ path |
 | bip_39_word_space_7 | major power beauty pyramid language eagle staff |  
 | bip_39_word_space_8 | major power beauty pyramid language eagle staff kind |  
 | bip_39_word_space_9 | major power beauty pyramid language eagle staff kind path |  
+| bip_39_word_underscore_1 | major |  
+| bip_39_word_underscore_10 | major_power_beauty_pyramid_language_eagle_staff_kind_path_like |  
+| bip_39_word_underscore_11 | major_power_beauty_pyramid_language_eagle_staff_kind_path_like_track |  
+| bip_39_word_underscore_12 | major_power_beauty_pyramid_language_eagle_staff_kind_path_like_track_anchor |  
+| bip_39_word_underscore_2 | major_power |  
+| bip_39_word_underscore_3 | major_power_beauty |  
+| bip_39_word_underscore_4 | major_power_beauty_pyramid |  
+| bip_39_word_underscore_5 | major_power_beauty_pyramid_language |  
+| bip_39_word_underscore_6 | major_power_beauty_pyramid_language_eagle |  
+| bip_39_word_underscore_7 | major_power_beauty_pyramid_language_eagle_staff |  
+| bip_39_word_underscore_8 | major_power_beauty_pyramid_language_eagle_staff_kind |  
+| bip_39_word_underscore_9 | major_power_beauty_pyramid_language_eagle_staff_kind_path |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

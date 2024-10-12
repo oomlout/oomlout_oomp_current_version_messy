@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | west |  
+| bip_39_word_dash_10 | west-world-afford-release-aunt-prison-orbit-ethics-hole-green |  
+| bip_39_word_dash_11 | west-world-afford-release-aunt-prison-orbit-ethics-hole-green-route |  
+| bip_39_word_dash_12 | west-world-afford-release-aunt-prison-orbit-ethics-hole-green-route-access |  
+| bip_39_word_dash_2 | west-world |  
+| bip_39_word_dash_3 | west-world-afford |  
+| bip_39_word_dash_4 | west-world-afford-release |  
+| bip_39_word_dash_5 | west-world-afford-release-aunt |  
+| bip_39_word_dash_6 | west-world-afford-release-aunt-prison |  
+| bip_39_word_dash_7 | west-world-afford-release-aunt-prison-orbit |  
+| bip_39_word_dash_8 | west-world-afford-release-aunt-prison-orbit-ethics |  
+| bip_39_word_dash_9 | west-world-afford-release-aunt-prison-orbit-ethics-hole |  
 | bip_39_word_new_br_1 | west |  
 | bip_39_word_new_br_10 | west<br>world<br>afford<br>release<br>aunt<br>prison<br>orbit<br>ethics<br>hole<br>green |  
 | bip_39_word_new_br_11 | west<br>world<br>afford<br>release<br>aunt<br>prison<br>orbit<br>ethics<br>hole<br>green<br>route |  
@@ -147,6 +159,18 @@ hole |
 | bip_39_word_space_7 | west world afford release aunt prison orbit |  
 | bip_39_word_space_8 | west world afford release aunt prison orbit ethics |  
 | bip_39_word_space_9 | west world afford release aunt prison orbit ethics hole |  
+| bip_39_word_underscore_1 | west |  
+| bip_39_word_underscore_10 | west_world_afford_release_aunt_prison_orbit_ethics_hole_green |  
+| bip_39_word_underscore_11 | west_world_afford_release_aunt_prison_orbit_ethics_hole_green_route |  
+| bip_39_word_underscore_12 | west_world_afford_release_aunt_prison_orbit_ethics_hole_green_route_access |  
+| bip_39_word_underscore_2 | west_world |  
+| bip_39_word_underscore_3 | west_world_afford |  
+| bip_39_word_underscore_4 | west_world_afford_release |  
+| bip_39_word_underscore_5 | west_world_afford_release_aunt |  
+| bip_39_word_underscore_6 | west_world_afford_release_aunt_prison |  
+| bip_39_word_underscore_7 | west_world_afford_release_aunt_prison_orbit |  
+| bip_39_word_underscore_8 | west_world_afford_release_aunt_prison_orbit_ethics |  
+| bip_39_word_underscore_9 | west_world_afford_release_aunt_prison_orbit_ethics_hole |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

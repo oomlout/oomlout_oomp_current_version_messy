@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resource |  
+| bip_39_word_dash_10 | resource-weather-physical-flame-lava-daughter-grief-fame-hero-cash |  
+| bip_39_word_dash_11 | resource-weather-physical-flame-lava-daughter-grief-fame-hero-cash-age |  
+| bip_39_word_dash_12 | resource-weather-physical-flame-lava-daughter-grief-fame-hero-cash-age-april |  
+| bip_39_word_dash_2 | resource-weather |  
+| bip_39_word_dash_3 | resource-weather-physical |  
+| bip_39_word_dash_4 | resource-weather-physical-flame |  
+| bip_39_word_dash_5 | resource-weather-physical-flame-lava |  
+| bip_39_word_dash_6 | resource-weather-physical-flame-lava-daughter |  
+| bip_39_word_dash_7 | resource-weather-physical-flame-lava-daughter-grief |  
+| bip_39_word_dash_8 | resource-weather-physical-flame-lava-daughter-grief-fame |  
+| bip_39_word_dash_9 | resource-weather-physical-flame-lava-daughter-grief-fame-hero |  
 | bip_39_word_new_br_1 | resource |  
 | bip_39_word_new_br_10 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash |  
 | bip_39_word_new_br_11 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash<br>age |  
@@ -147,6 +159,18 @@ hero |
 | bip_39_word_space_7 | resource weather physical flame lava daughter grief |  
 | bip_39_word_space_8 | resource weather physical flame lava daughter grief fame |  
 | bip_39_word_space_9 | resource weather physical flame lava daughter grief fame hero |  
+| bip_39_word_underscore_1 | resource |  
+| bip_39_word_underscore_10 | resource_weather_physical_flame_lava_daughter_grief_fame_hero_cash |  
+| bip_39_word_underscore_11 | resource_weather_physical_flame_lava_daughter_grief_fame_hero_cash_age |  
+| bip_39_word_underscore_12 | resource_weather_physical_flame_lava_daughter_grief_fame_hero_cash_age_april |  
+| bip_39_word_underscore_2 | resource_weather |  
+| bip_39_word_underscore_3 | resource_weather_physical |  
+| bip_39_word_underscore_4 | resource_weather_physical_flame |  
+| bip_39_word_underscore_5 | resource_weather_physical_flame_lava |  
+| bip_39_word_underscore_6 | resource_weather_physical_flame_lava_daughter |  
+| bip_39_word_underscore_7 | resource_weather_physical_flame_lava_daughter_grief |  
+| bip_39_word_underscore_8 | resource_weather_physical_flame_lava_daughter_grief_fame |  
+| bip_39_word_underscore_9 | resource_weather_physical_flame_lava_daughter_grief_fame_hero |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

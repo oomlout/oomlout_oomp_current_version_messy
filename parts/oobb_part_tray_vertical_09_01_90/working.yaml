@@ -1,3 +1,15 @@
+bip_39_word_dash_1: economy
+bip_39_word_dash_10: economy-plastic-special-debate-bounce-artwork-client-because-broken-midnight
+bip_39_word_dash_11: economy-plastic-special-debate-bounce-artwork-client-because-broken-midnight-danger
+bip_39_word_dash_12: economy-plastic-special-debate-bounce-artwork-client-because-broken-midnight-danger-about
+bip_39_word_dash_2: economy-plastic
+bip_39_word_dash_3: economy-plastic-special
+bip_39_word_dash_4: economy-plastic-special-debate
+bip_39_word_dash_5: economy-plastic-special-debate-bounce
+bip_39_word_dash_6: economy-plastic-special-debate-bounce-artwork
+bip_39_word_dash_7: economy-plastic-special-debate-bounce-artwork-client
+bip_39_word_dash_8: economy-plastic-special-debate-bounce-artwork-client-because
+bip_39_word_dash_9: economy-plastic-special-debate-bounce-artwork-client-because-broken
 bip_39_word_new_br_1: economy
 bip_39_word_new_br_10: economy<br>plastic<br>special<br>debate<br>bounce<br>artwork<br>client<br>because<br>broken<br>midnight
 bip_39_word_new_br_11: economy<br>plastic<br>special<br>debate<br>bounce<br>artwork<br>client<br>because<br>broken<br>midnight<br>danger
@@ -195,6 +207,18 @@ bip_39_word_space_7: economy plastic special debate bounce artwork client
 bip_39_word_space_8: economy plastic special debate bounce artwork client because
 bip_39_word_space_9: economy plastic special debate bounce artwork client because
   broken
+bip_39_word_underscore_1: economy
+bip_39_word_underscore_10: economy_plastic_special_debate_bounce_artwork_client_because_broken_midnight
+bip_39_word_underscore_11: economy_plastic_special_debate_bounce_artwork_client_because_broken_midnight_danger
+bip_39_word_underscore_12: economy_plastic_special_debate_bounce_artwork_client_because_broken_midnight_danger_about
+bip_39_word_underscore_2: economy_plastic
+bip_39_word_underscore_3: economy_plastic_special
+bip_39_word_underscore_4: economy_plastic_special_debate
+bip_39_word_underscore_5: economy_plastic_special_debate_bounce
+bip_39_word_underscore_6: economy_plastic_special_debate_bounce_artwork
+bip_39_word_underscore_7: economy_plastic_special_debate_bounce_artwork_client
+bip_39_word_underscore_8: economy_plastic_special_debate_bounce_artwork_client_because
+bip_39_word_underscore_9: economy_plastic_special_debate_bounce_artwork_client_because_broken
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

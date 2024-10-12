@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swim |  
+| bip_39_word_dash_10 | swim-slot-stamp-danger-decorate-tuition-gold-priority-gadget-early |  
+| bip_39_word_dash_11 | swim-slot-stamp-danger-decorate-tuition-gold-priority-gadget-early-stem |  
+| bip_39_word_dash_12 | swim-slot-stamp-danger-decorate-tuition-gold-priority-gadget-early-stem-address |  
+| bip_39_word_dash_2 | swim-slot |  
+| bip_39_word_dash_3 | swim-slot-stamp |  
+| bip_39_word_dash_4 | swim-slot-stamp-danger |  
+| bip_39_word_dash_5 | swim-slot-stamp-danger-decorate |  
+| bip_39_word_dash_6 | swim-slot-stamp-danger-decorate-tuition |  
+| bip_39_word_dash_7 | swim-slot-stamp-danger-decorate-tuition-gold |  
+| bip_39_word_dash_8 | swim-slot-stamp-danger-decorate-tuition-gold-priority |  
+| bip_39_word_dash_9 | swim-slot-stamp-danger-decorate-tuition-gold-priority-gadget |  
 | bip_39_word_new_br_1 | swim |  
 | bip_39_word_new_br_10 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early |  
 | bip_39_word_new_br_11 | swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early<br>stem |  
@@ -147,6 +159,18 @@ gadget |
 | bip_39_word_space_7 | swim slot stamp danger decorate tuition gold |  
 | bip_39_word_space_8 | swim slot stamp danger decorate tuition gold priority |  
 | bip_39_word_space_9 | swim slot stamp danger decorate tuition gold priority gadget |  
+| bip_39_word_underscore_1 | swim |  
+| bip_39_word_underscore_10 | swim_slot_stamp_danger_decorate_tuition_gold_priority_gadget_early |  
+| bip_39_word_underscore_11 | swim_slot_stamp_danger_decorate_tuition_gold_priority_gadget_early_stem |  
+| bip_39_word_underscore_12 | swim_slot_stamp_danger_decorate_tuition_gold_priority_gadget_early_stem_address |  
+| bip_39_word_underscore_2 | swim_slot |  
+| bip_39_word_underscore_3 | swim_slot_stamp |  
+| bip_39_word_underscore_4 | swim_slot_stamp_danger |  
+| bip_39_word_underscore_5 | swim_slot_stamp_danger_decorate |  
+| bip_39_word_underscore_6 | swim_slot_stamp_danger_decorate_tuition |  
+| bip_39_word_underscore_7 | swim_slot_stamp_danger_decorate_tuition_gold |  
+| bip_39_word_underscore_8 | swim_slot_stamp_danger_decorate_tuition_gold_priority |  
+| bip_39_word_underscore_9 | swim_slot_stamp_danger_decorate_tuition_gold_priority_gadget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

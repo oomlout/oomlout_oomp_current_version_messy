@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dismiss
+bip_39_word_dash_10: dismiss-wagon-disease-across-depend-crush-unaware-crash-fragile-entire
+bip_39_word_dash_11: dismiss-wagon-disease-across-depend-crush-unaware-crash-fragile-entire-shy
+bip_39_word_dash_12: dismiss-wagon-disease-across-depend-crush-unaware-crash-fragile-entire-shy-advice
+bip_39_word_dash_2: dismiss-wagon
+bip_39_word_dash_3: dismiss-wagon-disease
+bip_39_word_dash_4: dismiss-wagon-disease-across
+bip_39_word_dash_5: dismiss-wagon-disease-across-depend
+bip_39_word_dash_6: dismiss-wagon-disease-across-depend-crush
+bip_39_word_dash_7: dismiss-wagon-disease-across-depend-crush-unaware
+bip_39_word_dash_8: dismiss-wagon-disease-across-depend-crush-unaware-crash
+bip_39_word_dash_9: dismiss-wagon-disease-across-depend-crush-unaware-crash-fragile
 bip_39_word_new_br_1: dismiss
 bip_39_word_new_br_10: dismiss<br>wagon<br>disease<br>across<br>depend<br>crush<br>unaware<br>crash<br>fragile<br>entire
 bip_39_word_new_br_11: dismiss<br>wagon<br>disease<br>across<br>depend<br>crush<br>unaware<br>crash<br>fragile<br>entire<br>shy
@@ -194,6 +206,18 @@ bip_39_word_space_6: dismiss wagon disease across depend crush
 bip_39_word_space_7: dismiss wagon disease across depend crush unaware
 bip_39_word_space_8: dismiss wagon disease across depend crush unaware crash
 bip_39_word_space_9: dismiss wagon disease across depend crush unaware crash fragile
+bip_39_word_underscore_1: dismiss
+bip_39_word_underscore_10: dismiss_wagon_disease_across_depend_crush_unaware_crash_fragile_entire
+bip_39_word_underscore_11: dismiss_wagon_disease_across_depend_crush_unaware_crash_fragile_entire_shy
+bip_39_word_underscore_12: dismiss_wagon_disease_across_depend_crush_unaware_crash_fragile_entire_shy_advice
+bip_39_word_underscore_2: dismiss_wagon
+bip_39_word_underscore_3: dismiss_wagon_disease
+bip_39_word_underscore_4: dismiss_wagon_disease_across
+bip_39_word_underscore_5: dismiss_wagon_disease_across_depend
+bip_39_word_underscore_6: dismiss_wagon_disease_across_depend_crush
+bip_39_word_underscore_7: dismiss_wagon_disease_across_depend_crush_unaware
+bip_39_word_underscore_8: dismiss_wagon_disease_across_depend_crush_unaware_crash
+bip_39_word_underscore_9: dismiss_wagon_disease_across_depend_crush_unaware_crash_fragile
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | super |  
+| bip_39_word_dash_10 | super-speed-chest-column-isolate-sorry-vanish-book-rather-demand |  
+| bip_39_word_dash_11 | super-speed-chest-column-isolate-sorry-vanish-book-rather-demand-pet |  
+| bip_39_word_dash_12 | super-speed-chest-column-isolate-sorry-vanish-book-rather-demand-pet-advice |  
+| bip_39_word_dash_2 | super-speed |  
+| bip_39_word_dash_3 | super-speed-chest |  
+| bip_39_word_dash_4 | super-speed-chest-column |  
+| bip_39_word_dash_5 | super-speed-chest-column-isolate |  
+| bip_39_word_dash_6 | super-speed-chest-column-isolate-sorry |  
+| bip_39_word_dash_7 | super-speed-chest-column-isolate-sorry-vanish |  
+| bip_39_word_dash_8 | super-speed-chest-column-isolate-sorry-vanish-book |  
+| bip_39_word_dash_9 | super-speed-chest-column-isolate-sorry-vanish-book-rather |  
 | bip_39_word_new_br_1 | super |  
 | bip_39_word_new_br_10 | super<br>speed<br>chest<br>column<br>isolate<br>sorry<br>vanish<br>book<br>rather<br>demand |  
 | bip_39_word_new_br_11 | super<br>speed<br>chest<br>column<br>isolate<br>sorry<br>vanish<br>book<br>rather<br>demand<br>pet |  
@@ -147,6 +159,18 @@ rather |
 | bip_39_word_space_7 | super speed chest column isolate sorry vanish |  
 | bip_39_word_space_8 | super speed chest column isolate sorry vanish book |  
 | bip_39_word_space_9 | super speed chest column isolate sorry vanish book rather |  
+| bip_39_word_underscore_1 | super |  
+| bip_39_word_underscore_10 | super_speed_chest_column_isolate_sorry_vanish_book_rather_demand |  
+| bip_39_word_underscore_11 | super_speed_chest_column_isolate_sorry_vanish_book_rather_demand_pet |  
+| bip_39_word_underscore_12 | super_speed_chest_column_isolate_sorry_vanish_book_rather_demand_pet_advice |  
+| bip_39_word_underscore_2 | super_speed |  
+| bip_39_word_underscore_3 | super_speed_chest |  
+| bip_39_word_underscore_4 | super_speed_chest_column |  
+| bip_39_word_underscore_5 | super_speed_chest_column_isolate |  
+| bip_39_word_underscore_6 | super_speed_chest_column_isolate_sorry |  
+| bip_39_word_underscore_7 | super_speed_chest_column_isolate_sorry_vanish |  
+| bip_39_word_underscore_8 | super_speed_chest_column_isolate_sorry_vanish_book |  
+| bip_39_word_underscore_9 | super_speed_chest_column_isolate_sorry_vanish_book_rather |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

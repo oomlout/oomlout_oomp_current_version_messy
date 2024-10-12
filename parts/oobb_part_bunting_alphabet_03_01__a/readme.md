@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hurry |  
+| bip_39_word_dash_10 | hurry-boil-jeans-squeeze-high-empty-blame-bind-trick-finger |  
+| bip_39_word_dash_11 | hurry-boil-jeans-squeeze-high-empty-blame-bind-trick-finger-monitor |  
+| bip_39_word_dash_12 | hurry-boil-jeans-squeeze-high-empty-blame-bind-trick-finger-monitor-appear |  
+| bip_39_word_dash_2 | hurry-boil |  
+| bip_39_word_dash_3 | hurry-boil-jeans |  
+| bip_39_word_dash_4 | hurry-boil-jeans-squeeze |  
+| bip_39_word_dash_5 | hurry-boil-jeans-squeeze-high |  
+| bip_39_word_dash_6 | hurry-boil-jeans-squeeze-high-empty |  
+| bip_39_word_dash_7 | hurry-boil-jeans-squeeze-high-empty-blame |  
+| bip_39_word_dash_8 | hurry-boil-jeans-squeeze-high-empty-blame-bind |  
+| bip_39_word_dash_9 | hurry-boil-jeans-squeeze-high-empty-blame-bind-trick |  
 | bip_39_word_new_br_1 | hurry |  
 | bip_39_word_new_br_10 | hurry<br>boil<br>jeans<br>squeeze<br>high<br>empty<br>blame<br>bind<br>trick<br>finger |  
 | bip_39_word_new_br_11 | hurry<br>boil<br>jeans<br>squeeze<br>high<br>empty<br>blame<br>bind<br>trick<br>finger<br>monitor |  
@@ -147,6 +159,18 @@ trick |
 | bip_39_word_space_7 | hurry boil jeans squeeze high empty blame |  
 | bip_39_word_space_8 | hurry boil jeans squeeze high empty blame bind |  
 | bip_39_word_space_9 | hurry boil jeans squeeze high empty blame bind trick |  
+| bip_39_word_underscore_1 | hurry |  
+| bip_39_word_underscore_10 | hurry_boil_jeans_squeeze_high_empty_blame_bind_trick_finger |  
+| bip_39_word_underscore_11 | hurry_boil_jeans_squeeze_high_empty_blame_bind_trick_finger_monitor |  
+| bip_39_word_underscore_12 | hurry_boil_jeans_squeeze_high_empty_blame_bind_trick_finger_monitor_appear |  
+| bip_39_word_underscore_2 | hurry_boil |  
+| bip_39_word_underscore_3 | hurry_boil_jeans |  
+| bip_39_word_underscore_4 | hurry_boil_jeans_squeeze |  
+| bip_39_word_underscore_5 | hurry_boil_jeans_squeeze_high |  
+| bip_39_word_underscore_6 | hurry_boil_jeans_squeeze_high_empty |  
+| bip_39_word_underscore_7 | hurry_boil_jeans_squeeze_high_empty_blame |  
+| bip_39_word_underscore_8 | hurry_boil_jeans_squeeze_high_empty_blame_bind |  
+| bip_39_word_underscore_9 | hurry_boil_jeans_squeeze_high_empty_blame_bind_trick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

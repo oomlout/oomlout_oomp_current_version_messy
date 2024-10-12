@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | salad |  
+| bip_39_word_dash_10 | salad-mule-repeat-all-walnut-during-remember-provide-below-win |  
+| bip_39_word_dash_11 | salad-mule-repeat-all-walnut-during-remember-provide-below-win-stock |  
+| bip_39_word_dash_12 | salad-mule-repeat-all-walnut-during-remember-provide-below-win-stock-accident |  
+| bip_39_word_dash_2 | salad-mule |  
+| bip_39_word_dash_3 | salad-mule-repeat |  
+| bip_39_word_dash_4 | salad-mule-repeat-all |  
+| bip_39_word_dash_5 | salad-mule-repeat-all-walnut |  
+| bip_39_word_dash_6 | salad-mule-repeat-all-walnut-during |  
+| bip_39_word_dash_7 | salad-mule-repeat-all-walnut-during-remember |  
+| bip_39_word_dash_8 | salad-mule-repeat-all-walnut-during-remember-provide |  
+| bip_39_word_dash_9 | salad-mule-repeat-all-walnut-during-remember-provide-below |  
 | bip_39_word_new_br_1 | salad |  
 | bip_39_word_new_br_10 | salad<br>mule<br>repeat<br>all<br>walnut<br>during<br>remember<br>provide<br>below<br>win |  
 | bip_39_word_new_br_11 | salad<br>mule<br>repeat<br>all<br>walnut<br>during<br>remember<br>provide<br>below<br>win<br>stock |  
@@ -147,6 +159,18 @@ below |
 | bip_39_word_space_7 | salad mule repeat all walnut during remember |  
 | bip_39_word_space_8 | salad mule repeat all walnut during remember provide |  
 | bip_39_word_space_9 | salad mule repeat all walnut during remember provide below |  
+| bip_39_word_underscore_1 | salad |  
+| bip_39_word_underscore_10 | salad_mule_repeat_all_walnut_during_remember_provide_below_win |  
+| bip_39_word_underscore_11 | salad_mule_repeat_all_walnut_during_remember_provide_below_win_stock |  
+| bip_39_word_underscore_12 | salad_mule_repeat_all_walnut_during_remember_provide_below_win_stock_accident |  
+| bip_39_word_underscore_2 | salad_mule |  
+| bip_39_word_underscore_3 | salad_mule_repeat |  
+| bip_39_word_underscore_4 | salad_mule_repeat_all |  
+| bip_39_word_underscore_5 | salad_mule_repeat_all_walnut |  
+| bip_39_word_underscore_6 | salad_mule_repeat_all_walnut_during |  
+| bip_39_word_underscore_7 | salad_mule_repeat_all_walnut_during_remember |  
+| bip_39_word_underscore_8 | salad_mule_repeat_all_walnut_during_remember_provide |  
+| bip_39_word_underscore_9 | salad_mule_repeat_all_walnut_during_remember_provide_below |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

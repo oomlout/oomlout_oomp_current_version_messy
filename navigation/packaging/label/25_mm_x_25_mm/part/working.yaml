@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wedding
+bip_39_word_dash_10: wedding-marine-asset-leaf-then-need-together-atom-brush-uncover
+bip_39_word_dash_11: wedding-marine-asset-leaf-then-need-together-atom-brush-uncover-walk
+bip_39_word_dash_12: wedding-marine-asset-leaf-then-need-together-atom-brush-uncover-walk-able
+bip_39_word_dash_2: wedding-marine
+bip_39_word_dash_3: wedding-marine-asset
+bip_39_word_dash_4: wedding-marine-asset-leaf
+bip_39_word_dash_5: wedding-marine-asset-leaf-then
+bip_39_word_dash_6: wedding-marine-asset-leaf-then-need
+bip_39_word_dash_7: wedding-marine-asset-leaf-then-need-together
+bip_39_word_dash_8: wedding-marine-asset-leaf-then-need-together-atom
+bip_39_word_dash_9: wedding-marine-asset-leaf-then-need-together-atom-brush
 bip_39_word_new_br_1: wedding
 bip_39_word_new_br_10: wedding<br>marine<br>asset<br>leaf<br>then<br>need<br>together<br>atom<br>brush<br>uncover
 bip_39_word_new_br_11: wedding<br>marine<br>asset<br>leaf<br>then<br>need<br>together<br>atom<br>brush<br>uncover<br>walk
@@ -193,6 +205,18 @@ bip_39_word_space_6: wedding marine asset leaf then need
 bip_39_word_space_7: wedding marine asset leaf then need together
 bip_39_word_space_8: wedding marine asset leaf then need together atom
 bip_39_word_space_9: wedding marine asset leaf then need together atom brush
+bip_39_word_underscore_1: wedding
+bip_39_word_underscore_10: wedding_marine_asset_leaf_then_need_together_atom_brush_uncover
+bip_39_word_underscore_11: wedding_marine_asset_leaf_then_need_together_atom_brush_uncover_walk
+bip_39_word_underscore_12: wedding_marine_asset_leaf_then_need_together_atom_brush_uncover_walk_able
+bip_39_word_underscore_2: wedding_marine
+bip_39_word_underscore_3: wedding_marine_asset
+bip_39_word_underscore_4: wedding_marine_asset_leaf
+bip_39_word_underscore_5: wedding_marine_asset_leaf_then
+bip_39_word_underscore_6: wedding_marine_asset_leaf_then_need
+bip_39_word_underscore_7: wedding_marine_asset_leaf_then_need_together
+bip_39_word_underscore_8: wedding_marine_asset_leaf_then_need_together_atom
+bip_39_word_underscore_9: wedding_marine_asset_leaf_then_need_together_atom_brush
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

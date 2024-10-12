@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leaf |  
+| bip_39_word_dash_10 | leaf-amazing-eight-sniff-meadow-adult-business-solid-busy-butter |  
+| bip_39_word_dash_11 | leaf-amazing-eight-sniff-meadow-adult-business-solid-busy-butter-boil |  
+| bip_39_word_dash_12 | leaf-amazing-eight-sniff-meadow-adult-business-solid-busy-butter-boil-ancient |  
+| bip_39_word_dash_2 | leaf-amazing |  
+| bip_39_word_dash_3 | leaf-amazing-eight |  
+| bip_39_word_dash_4 | leaf-amazing-eight-sniff |  
+| bip_39_word_dash_5 | leaf-amazing-eight-sniff-meadow |  
+| bip_39_word_dash_6 | leaf-amazing-eight-sniff-meadow-adult |  
+| bip_39_word_dash_7 | leaf-amazing-eight-sniff-meadow-adult-business |  
+| bip_39_word_dash_8 | leaf-amazing-eight-sniff-meadow-adult-business-solid |  
+| bip_39_word_dash_9 | leaf-amazing-eight-sniff-meadow-adult-business-solid-busy |  
 | bip_39_word_new_br_1 | leaf |  
 | bip_39_word_new_br_10 | leaf<br>amazing<br>eight<br>sniff<br>meadow<br>adult<br>business<br>solid<br>busy<br>butter |  
 | bip_39_word_new_br_11 | leaf<br>amazing<br>eight<br>sniff<br>meadow<br>adult<br>business<br>solid<br>busy<br>butter<br>boil |  
@@ -147,6 +159,18 @@ busy |
 | bip_39_word_space_7 | leaf amazing eight sniff meadow adult business |  
 | bip_39_word_space_8 | leaf amazing eight sniff meadow adult business solid |  
 | bip_39_word_space_9 | leaf amazing eight sniff meadow adult business solid busy |  
+| bip_39_word_underscore_1 | leaf |  
+| bip_39_word_underscore_10 | leaf_amazing_eight_sniff_meadow_adult_business_solid_busy_butter |  
+| bip_39_word_underscore_11 | leaf_amazing_eight_sniff_meadow_adult_business_solid_busy_butter_boil |  
+| bip_39_word_underscore_12 | leaf_amazing_eight_sniff_meadow_adult_business_solid_busy_butter_boil_ancient |  
+| bip_39_word_underscore_2 | leaf_amazing |  
+| bip_39_word_underscore_3 | leaf_amazing_eight |  
+| bip_39_word_underscore_4 | leaf_amazing_eight_sniff |  
+| bip_39_word_underscore_5 | leaf_amazing_eight_sniff_meadow |  
+| bip_39_word_underscore_6 | leaf_amazing_eight_sniff_meadow_adult |  
+| bip_39_word_underscore_7 | leaf_amazing_eight_sniff_meadow_adult_business |  
+| bip_39_word_underscore_8 | leaf_amazing_eight_sniff_meadow_adult_business_solid |  
+| bip_39_word_underscore_9 | leaf_amazing_eight_sniff_meadow_adult_business_solid_busy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

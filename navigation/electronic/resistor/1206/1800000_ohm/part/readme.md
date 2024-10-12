@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | feature |  
+| bip_39_word_dash_10 | feature-pizza-rate-popular-recall-ribbon-swamp-adult-learn-sort |  
+| bip_39_word_dash_11 | feature-pizza-rate-popular-recall-ribbon-swamp-adult-learn-sort-nuclear |  
+| bip_39_word_dash_12 | feature-pizza-rate-popular-recall-ribbon-swamp-adult-learn-sort-nuclear-atom |  
+| bip_39_word_dash_2 | feature-pizza |  
+| bip_39_word_dash_3 | feature-pizza-rate |  
+| bip_39_word_dash_4 | feature-pizza-rate-popular |  
+| bip_39_word_dash_5 | feature-pizza-rate-popular-recall |  
+| bip_39_word_dash_6 | feature-pizza-rate-popular-recall-ribbon |  
+| bip_39_word_dash_7 | feature-pizza-rate-popular-recall-ribbon-swamp |  
+| bip_39_word_dash_8 | feature-pizza-rate-popular-recall-ribbon-swamp-adult |  
+| bip_39_word_dash_9 | feature-pizza-rate-popular-recall-ribbon-swamp-adult-learn |  
 | bip_39_word_new_br_1 | feature |  
 | bip_39_word_new_br_10 | feature<br>pizza<br>rate<br>popular<br>recall<br>ribbon<br>swamp<br>adult<br>learn<br>sort |  
 | bip_39_word_new_br_11 | feature<br>pizza<br>rate<br>popular<br>recall<br>ribbon<br>swamp<br>adult<br>learn<br>sort<br>nuclear |  
@@ -147,6 +159,18 @@ learn |
 | bip_39_word_space_7 | feature pizza rate popular recall ribbon swamp |  
 | bip_39_word_space_8 | feature pizza rate popular recall ribbon swamp adult |  
 | bip_39_word_space_9 | feature pizza rate popular recall ribbon swamp adult learn |  
+| bip_39_word_underscore_1 | feature |  
+| bip_39_word_underscore_10 | feature_pizza_rate_popular_recall_ribbon_swamp_adult_learn_sort |  
+| bip_39_word_underscore_11 | feature_pizza_rate_popular_recall_ribbon_swamp_adult_learn_sort_nuclear |  
+| bip_39_word_underscore_12 | feature_pizza_rate_popular_recall_ribbon_swamp_adult_learn_sort_nuclear_atom |  
+| bip_39_word_underscore_2 | feature_pizza |  
+| bip_39_word_underscore_3 | feature_pizza_rate |  
+| bip_39_word_underscore_4 | feature_pizza_rate_popular |  
+| bip_39_word_underscore_5 | feature_pizza_rate_popular_recall |  
+| bip_39_word_underscore_6 | feature_pizza_rate_popular_recall_ribbon |  
+| bip_39_word_underscore_7 | feature_pizza_rate_popular_recall_ribbon_swamp |  
+| bip_39_word_underscore_8 | feature_pizza_rate_popular_recall_ribbon_swamp_adult |  
+| bip_39_word_underscore_9 | feature_pizza_rate_popular_recall_ribbon_swamp_adult_learn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

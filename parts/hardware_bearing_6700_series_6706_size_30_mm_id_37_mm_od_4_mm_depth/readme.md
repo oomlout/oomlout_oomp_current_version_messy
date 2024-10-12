@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | idea |  
+| bip_39_word_dash_10 | idea-senior-social-pass-square-clinic-together-either-slam-scan |  
+| bip_39_word_dash_11 | idea-senior-social-pass-square-clinic-together-either-slam-scan-cannon |  
+| bip_39_word_dash_12 | idea-senior-social-pass-square-clinic-together-either-slam-scan-cannon-ask |  
+| bip_39_word_dash_2 | idea-senior |  
+| bip_39_word_dash_3 | idea-senior-social |  
+| bip_39_word_dash_4 | idea-senior-social-pass |  
+| bip_39_word_dash_5 | idea-senior-social-pass-square |  
+| bip_39_word_dash_6 | idea-senior-social-pass-square-clinic |  
+| bip_39_word_dash_7 | idea-senior-social-pass-square-clinic-together |  
+| bip_39_word_dash_8 | idea-senior-social-pass-square-clinic-together-either |  
+| bip_39_word_dash_9 | idea-senior-social-pass-square-clinic-together-either-slam |  
 | bip_39_word_new_br_1 | idea |  
 | bip_39_word_new_br_10 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan |  
 | bip_39_word_new_br_11 | idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan<br>cannon |  
@@ -147,6 +159,18 @@ slam |
 | bip_39_word_space_7 | idea senior social pass square clinic together |  
 | bip_39_word_space_8 | idea senior social pass square clinic together either |  
 | bip_39_word_space_9 | idea senior social pass square clinic together either slam |  
+| bip_39_word_underscore_1 | idea |  
+| bip_39_word_underscore_10 | idea_senior_social_pass_square_clinic_together_either_slam_scan |  
+| bip_39_word_underscore_11 | idea_senior_social_pass_square_clinic_together_either_slam_scan_cannon |  
+| bip_39_word_underscore_12 | idea_senior_social_pass_square_clinic_together_either_slam_scan_cannon_ask |  
+| bip_39_word_underscore_2 | idea_senior |  
+| bip_39_word_underscore_3 | idea_senior_social |  
+| bip_39_word_underscore_4 | idea_senior_social_pass |  
+| bip_39_word_underscore_5 | idea_senior_social_pass_square |  
+| bip_39_word_underscore_6 | idea_senior_social_pass_square_clinic |  
+| bip_39_word_underscore_7 | idea_senior_social_pass_square_clinic_together |  
+| bip_39_word_underscore_8 | idea_senior_social_pass_square_clinic_together_either |  
+| bip_39_word_underscore_9 | idea_senior_social_pass_square_clinic_together_either_slam |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scout |  
+| bip_39_word_dash_10 | scout-insane-achieve-acoustic-morning-celery-shy-upper-property-mass |  
+| bip_39_word_dash_11 | scout-insane-achieve-acoustic-morning-celery-shy-upper-property-mass-flower |  
+| bip_39_word_dash_12 | scout-insane-achieve-acoustic-morning-celery-shy-upper-property-mass-flower-auction |  
+| bip_39_word_dash_2 | scout-insane |  
+| bip_39_word_dash_3 | scout-insane-achieve |  
+| bip_39_word_dash_4 | scout-insane-achieve-acoustic |  
+| bip_39_word_dash_5 | scout-insane-achieve-acoustic-morning |  
+| bip_39_word_dash_6 | scout-insane-achieve-acoustic-morning-celery |  
+| bip_39_word_dash_7 | scout-insane-achieve-acoustic-morning-celery-shy |  
+| bip_39_word_dash_8 | scout-insane-achieve-acoustic-morning-celery-shy-upper |  
+| bip_39_word_dash_9 | scout-insane-achieve-acoustic-morning-celery-shy-upper-property |  
 | bip_39_word_new_br_1 | scout |  
 | bip_39_word_new_br_10 | scout<br>insane<br>achieve<br>acoustic<br>morning<br>celery<br>shy<br>upper<br>property<br>mass |  
 | bip_39_word_new_br_11 | scout<br>insane<br>achieve<br>acoustic<br>morning<br>celery<br>shy<br>upper<br>property<br>mass<br>flower |  
@@ -147,6 +159,18 @@ property |
 | bip_39_word_space_7 | scout insane achieve acoustic morning celery shy |  
 | bip_39_word_space_8 | scout insane achieve acoustic morning celery shy upper |  
 | bip_39_word_space_9 | scout insane achieve acoustic morning celery shy upper property |  
+| bip_39_word_underscore_1 | scout |  
+| bip_39_word_underscore_10 | scout_insane_achieve_acoustic_morning_celery_shy_upper_property_mass |  
+| bip_39_word_underscore_11 | scout_insane_achieve_acoustic_morning_celery_shy_upper_property_mass_flower |  
+| bip_39_word_underscore_12 | scout_insane_achieve_acoustic_morning_celery_shy_upper_property_mass_flower_auction |  
+| bip_39_word_underscore_2 | scout_insane |  
+| bip_39_word_underscore_3 | scout_insane_achieve |  
+| bip_39_word_underscore_4 | scout_insane_achieve_acoustic |  
+| bip_39_word_underscore_5 | scout_insane_achieve_acoustic_morning |  
+| bip_39_word_underscore_6 | scout_insane_achieve_acoustic_morning_celery |  
+| bip_39_word_underscore_7 | scout_insane_achieve_acoustic_morning_celery_shy |  
+| bip_39_word_underscore_8 | scout_insane_achieve_acoustic_morning_celery_shy_upper |  
+| bip_39_word_underscore_9 | scout_insane_achieve_acoustic_morning_celery_shy_upper_property |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

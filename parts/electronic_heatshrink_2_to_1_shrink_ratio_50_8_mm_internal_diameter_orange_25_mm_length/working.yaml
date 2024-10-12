@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cloud
+bip_39_word_dash_10: cloud-spatial-caution-endless-warm-learn-vehicle-phrase-hybrid-adult
+bip_39_word_dash_11: cloud-spatial-caution-endless-warm-learn-vehicle-phrase-hybrid-adult-diagram
+bip_39_word_dash_12: cloud-spatial-caution-endless-warm-learn-vehicle-phrase-hybrid-adult-diagram-arena
+bip_39_word_dash_2: cloud-spatial
+bip_39_word_dash_3: cloud-spatial-caution
+bip_39_word_dash_4: cloud-spatial-caution-endless
+bip_39_word_dash_5: cloud-spatial-caution-endless-warm
+bip_39_word_dash_6: cloud-spatial-caution-endless-warm-learn
+bip_39_word_dash_7: cloud-spatial-caution-endless-warm-learn-vehicle
+bip_39_word_dash_8: cloud-spatial-caution-endless-warm-learn-vehicle-phrase
+bip_39_word_dash_9: cloud-spatial-caution-endless-warm-learn-vehicle-phrase-hybrid
 bip_39_word_new_br_1: cloud
 bip_39_word_new_br_10: cloud<br>spatial<br>caution<br>endless<br>warm<br>learn<br>vehicle<br>phrase<br>hybrid<br>adult
 bip_39_word_new_br_11: cloud<br>spatial<br>caution<br>endless<br>warm<br>learn<br>vehicle<br>phrase<br>hybrid<br>adult<br>diagram
@@ -194,6 +206,18 @@ bip_39_word_space_6: cloud spatial caution endless warm learn
 bip_39_word_space_7: cloud spatial caution endless warm learn vehicle
 bip_39_word_space_8: cloud spatial caution endless warm learn vehicle phrase
 bip_39_word_space_9: cloud spatial caution endless warm learn vehicle phrase hybrid
+bip_39_word_underscore_1: cloud
+bip_39_word_underscore_10: cloud_spatial_caution_endless_warm_learn_vehicle_phrase_hybrid_adult
+bip_39_word_underscore_11: cloud_spatial_caution_endless_warm_learn_vehicle_phrase_hybrid_adult_diagram
+bip_39_word_underscore_12: cloud_spatial_caution_endless_warm_learn_vehicle_phrase_hybrid_adult_diagram_arena
+bip_39_word_underscore_2: cloud_spatial
+bip_39_word_underscore_3: cloud_spatial_caution
+bip_39_word_underscore_4: cloud_spatial_caution_endless
+bip_39_word_underscore_5: cloud_spatial_caution_endless_warm
+bip_39_word_underscore_6: cloud_spatial_caution_endless_warm_learn
+bip_39_word_underscore_7: cloud_spatial_caution_endless_warm_learn_vehicle
+bip_39_word_underscore_8: cloud_spatial_caution_endless_warm_learn_vehicle_phrase
+bip_39_word_underscore_9: cloud_spatial_caution_endless_warm_learn_vehicle_phrase_hybrid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

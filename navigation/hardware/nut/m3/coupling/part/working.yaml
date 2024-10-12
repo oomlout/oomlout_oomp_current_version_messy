@@ -1,3 +1,15 @@
+bip_39_word_dash_1: monkey
+bip_39_word_dash_10: monkey-rib-turkey-profit-together-other-mushroom-captain-atom-harvest
+bip_39_word_dash_11: monkey-rib-turkey-profit-together-other-mushroom-captain-atom-harvest-kidney
+bip_39_word_dash_12: monkey-rib-turkey-profit-together-other-mushroom-captain-atom-harvest-kidney-absorb
+bip_39_word_dash_2: monkey-rib
+bip_39_word_dash_3: monkey-rib-turkey
+bip_39_word_dash_4: monkey-rib-turkey-profit
+bip_39_word_dash_5: monkey-rib-turkey-profit-together
+bip_39_word_dash_6: monkey-rib-turkey-profit-together-other
+bip_39_word_dash_7: monkey-rib-turkey-profit-together-other-mushroom
+bip_39_word_dash_8: monkey-rib-turkey-profit-together-other-mushroom-captain
+bip_39_word_dash_9: monkey-rib-turkey-profit-together-other-mushroom-captain-atom
 bip_39_word_new_br_1: monkey
 bip_39_word_new_br_10: monkey<br>rib<br>turkey<br>profit<br>together<br>other<br>mushroom<br>captain<br>atom<br>harvest
 bip_39_word_new_br_11: monkey<br>rib<br>turkey<br>profit<br>together<br>other<br>mushroom<br>captain<br>atom<br>harvest<br>kidney
@@ -194,6 +206,18 @@ bip_39_word_space_6: monkey rib turkey profit together other
 bip_39_word_space_7: monkey rib turkey profit together other mushroom
 bip_39_word_space_8: monkey rib turkey profit together other mushroom captain
 bip_39_word_space_9: monkey rib turkey profit together other mushroom captain atom
+bip_39_word_underscore_1: monkey
+bip_39_word_underscore_10: monkey_rib_turkey_profit_together_other_mushroom_captain_atom_harvest
+bip_39_word_underscore_11: monkey_rib_turkey_profit_together_other_mushroom_captain_atom_harvest_kidney
+bip_39_word_underscore_12: monkey_rib_turkey_profit_together_other_mushroom_captain_atom_harvest_kidney_absorb
+bip_39_word_underscore_2: monkey_rib
+bip_39_word_underscore_3: monkey_rib_turkey
+bip_39_word_underscore_4: monkey_rib_turkey_profit
+bip_39_word_underscore_5: monkey_rib_turkey_profit_together
+bip_39_word_underscore_6: monkey_rib_turkey_profit_together_other
+bip_39_word_underscore_7: monkey_rib_turkey_profit_together_other_mushroom
+bip_39_word_underscore_8: monkey_rib_turkey_profit_together_other_mushroom_captain
+bip_39_word_underscore_9: monkey_rib_turkey_profit_together_other_mushroom_captain_atom
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

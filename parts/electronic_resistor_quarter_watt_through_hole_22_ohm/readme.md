@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leopard |  
+| bip_39_word_dash_10 | leopard-scheme-only-grant-swamp-quote-thunder-donate-company-such |  
+| bip_39_word_dash_11 | leopard-scheme-only-grant-swamp-quote-thunder-donate-company-such-pet |  
+| bip_39_word_dash_12 | leopard-scheme-only-grant-swamp-quote-thunder-donate-company-such-pet-always |  
+| bip_39_word_dash_2 | leopard-scheme |  
+| bip_39_word_dash_3 | leopard-scheme-only |  
+| bip_39_word_dash_4 | leopard-scheme-only-grant |  
+| bip_39_word_dash_5 | leopard-scheme-only-grant-swamp |  
+| bip_39_word_dash_6 | leopard-scheme-only-grant-swamp-quote |  
+| bip_39_word_dash_7 | leopard-scheme-only-grant-swamp-quote-thunder |  
+| bip_39_word_dash_8 | leopard-scheme-only-grant-swamp-quote-thunder-donate |  
+| bip_39_word_dash_9 | leopard-scheme-only-grant-swamp-quote-thunder-donate-company |  
 | bip_39_word_new_br_1 | leopard |  
 | bip_39_word_new_br_10 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate<br>company<br>such |  
 | bip_39_word_new_br_11 | leopard<br>scheme<br>only<br>grant<br>swamp<br>quote<br>thunder<br>donate<br>company<br>such<br>pet |  
@@ -147,6 +159,18 @@ company |
 | bip_39_word_space_7 | leopard scheme only grant swamp quote thunder |  
 | bip_39_word_space_8 | leopard scheme only grant swamp quote thunder donate |  
 | bip_39_word_space_9 | leopard scheme only grant swamp quote thunder donate company |  
+| bip_39_word_underscore_1 | leopard |  
+| bip_39_word_underscore_10 | leopard_scheme_only_grant_swamp_quote_thunder_donate_company_such |  
+| bip_39_word_underscore_11 | leopard_scheme_only_grant_swamp_quote_thunder_donate_company_such_pet |  
+| bip_39_word_underscore_12 | leopard_scheme_only_grant_swamp_quote_thunder_donate_company_such_pet_always |  
+| bip_39_word_underscore_2 | leopard_scheme |  
+| bip_39_word_underscore_3 | leopard_scheme_only |  
+| bip_39_word_underscore_4 | leopard_scheme_only_grant |  
+| bip_39_word_underscore_5 | leopard_scheme_only_grant_swamp |  
+| bip_39_word_underscore_6 | leopard_scheme_only_grant_swamp_quote |  
+| bip_39_word_underscore_7 | leopard_scheme_only_grant_swamp_quote_thunder |  
+| bip_39_word_underscore_8 | leopard_scheme_only_grant_swamp_quote_thunder_donate |  
+| bip_39_word_underscore_9 | leopard_scheme_only_grant_swamp_quote_thunder_donate_company |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

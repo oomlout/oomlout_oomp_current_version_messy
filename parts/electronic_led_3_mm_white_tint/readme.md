@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | area |  
+| bip_39_word_dash_10 | area-kangaroo-access-draft-violin-cupboard-obvious-sock-brown-forget |  
+| bip_39_word_dash_11 | area-kangaroo-access-draft-violin-cupboard-obvious-sock-brown-forget-seek |  
+| bip_39_word_dash_12 | area-kangaroo-access-draft-violin-cupboard-obvious-sock-brown-forget-seek-assume |  
+| bip_39_word_dash_2 | area-kangaroo |  
+| bip_39_word_dash_3 | area-kangaroo-access |  
+| bip_39_word_dash_4 | area-kangaroo-access-draft |  
+| bip_39_word_dash_5 | area-kangaroo-access-draft-violin |  
+| bip_39_word_dash_6 | area-kangaroo-access-draft-violin-cupboard |  
+| bip_39_word_dash_7 | area-kangaroo-access-draft-violin-cupboard-obvious |  
+| bip_39_word_dash_8 | area-kangaroo-access-draft-violin-cupboard-obvious-sock |  
+| bip_39_word_dash_9 | area-kangaroo-access-draft-violin-cupboard-obvious-sock-brown |  
 | bip_39_word_new_br_1 | area |  
 | bip_39_word_new_br_10 | area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock<br>brown<br>forget |  
 | bip_39_word_new_br_11 | area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock<br>brown<br>forget<br>seek |  
@@ -147,6 +159,18 @@ brown |
 | bip_39_word_space_7 | area kangaroo access draft violin cupboard obvious |  
 | bip_39_word_space_8 | area kangaroo access draft violin cupboard obvious sock |  
 | bip_39_word_space_9 | area kangaroo access draft violin cupboard obvious sock brown |  
+| bip_39_word_underscore_1 | area |  
+| bip_39_word_underscore_10 | area_kangaroo_access_draft_violin_cupboard_obvious_sock_brown_forget |  
+| bip_39_word_underscore_11 | area_kangaroo_access_draft_violin_cupboard_obvious_sock_brown_forget_seek |  
+| bip_39_word_underscore_12 | area_kangaroo_access_draft_violin_cupboard_obvious_sock_brown_forget_seek_assume |  
+| bip_39_word_underscore_2 | area_kangaroo |  
+| bip_39_word_underscore_3 | area_kangaroo_access |  
+| bip_39_word_underscore_4 | area_kangaroo_access_draft |  
+| bip_39_word_underscore_5 | area_kangaroo_access_draft_violin |  
+| bip_39_word_underscore_6 | area_kangaroo_access_draft_violin_cupboard |  
+| bip_39_word_underscore_7 | area_kangaroo_access_draft_violin_cupboard_obvious |  
+| bip_39_word_underscore_8 | area_kangaroo_access_draft_violin_cupboard_obvious_sock |  
+| bip_39_word_underscore_9 | area_kangaroo_access_draft_violin_cupboard_obvious_sock_brown |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

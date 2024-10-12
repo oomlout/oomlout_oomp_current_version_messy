@@ -1,3 +1,15 @@
+bip_39_word_dash_1: salmon
+bip_39_word_dash_10: salmon-cousin-void-summer-honey-acquire-duty-antique-purity-unusual
+bip_39_word_dash_11: salmon-cousin-void-summer-honey-acquire-duty-antique-purity-unusual-below
+bip_39_word_dash_12: salmon-cousin-void-summer-honey-acquire-duty-antique-purity-unusual-below-act
+bip_39_word_dash_2: salmon-cousin
+bip_39_word_dash_3: salmon-cousin-void
+bip_39_word_dash_4: salmon-cousin-void-summer
+bip_39_word_dash_5: salmon-cousin-void-summer-honey
+bip_39_word_dash_6: salmon-cousin-void-summer-honey-acquire
+bip_39_word_dash_7: salmon-cousin-void-summer-honey-acquire-duty
+bip_39_word_dash_8: salmon-cousin-void-summer-honey-acquire-duty-antique
+bip_39_word_dash_9: salmon-cousin-void-summer-honey-acquire-duty-antique-purity
 bip_39_word_new_br_1: salmon
 bip_39_word_new_br_10: salmon<br>cousin<br>void<br>summer<br>honey<br>acquire<br>duty<br>antique<br>purity<br>unusual
 bip_39_word_new_br_11: salmon<br>cousin<br>void<br>summer<br>honey<br>acquire<br>duty<br>antique<br>purity<br>unusual<br>below
@@ -194,6 +206,18 @@ bip_39_word_space_6: salmon cousin void summer honey acquire
 bip_39_word_space_7: salmon cousin void summer honey acquire duty
 bip_39_word_space_8: salmon cousin void summer honey acquire duty antique
 bip_39_word_space_9: salmon cousin void summer honey acquire duty antique purity
+bip_39_word_underscore_1: salmon
+bip_39_word_underscore_10: salmon_cousin_void_summer_honey_acquire_duty_antique_purity_unusual
+bip_39_word_underscore_11: salmon_cousin_void_summer_honey_acquire_duty_antique_purity_unusual_below
+bip_39_word_underscore_12: salmon_cousin_void_summer_honey_acquire_duty_antique_purity_unusual_below_act
+bip_39_word_underscore_2: salmon_cousin
+bip_39_word_underscore_3: salmon_cousin_void
+bip_39_word_underscore_4: salmon_cousin_void_summer
+bip_39_word_underscore_5: salmon_cousin_void_summer_honey
+bip_39_word_underscore_6: salmon_cousin_void_summer_honey_acquire
+bip_39_word_underscore_7: salmon_cousin_void_summer_honey_acquire_duty
+bip_39_word_underscore_8: salmon_cousin_void_summer_honey_acquire_duty_antique
+bip_39_word_underscore_9: salmon_cousin_void_summer_honey_acquire_duty_antique_purity
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

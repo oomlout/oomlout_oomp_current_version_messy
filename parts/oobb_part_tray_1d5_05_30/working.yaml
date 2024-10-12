@@ -1,3 +1,15 @@
+bip_39_word_dash_1: client
+bip_39_word_dash_10: client-draft-arch-exhibit-giraffe-echo-olympic-hazard-country-maid
+bip_39_word_dash_11: client-draft-arch-exhibit-giraffe-echo-olympic-hazard-country-maid-luggage
+bip_39_word_dash_12: client-draft-arch-exhibit-giraffe-echo-olympic-hazard-country-maid-luggage-aerobic
+bip_39_word_dash_2: client-draft
+bip_39_word_dash_3: client-draft-arch
+bip_39_word_dash_4: client-draft-arch-exhibit
+bip_39_word_dash_5: client-draft-arch-exhibit-giraffe
+bip_39_word_dash_6: client-draft-arch-exhibit-giraffe-echo
+bip_39_word_dash_7: client-draft-arch-exhibit-giraffe-echo-olympic
+bip_39_word_dash_8: client-draft-arch-exhibit-giraffe-echo-olympic-hazard
+bip_39_word_dash_9: client-draft-arch-exhibit-giraffe-echo-olympic-hazard-country
 bip_39_word_new_br_1: client
 bip_39_word_new_br_10: client<br>draft<br>arch<br>exhibit<br>giraffe<br>echo<br>olympic<br>hazard<br>country<br>maid
 bip_39_word_new_br_11: client<br>draft<br>arch<br>exhibit<br>giraffe<br>echo<br>olympic<br>hazard<br>country<br>maid<br>luggage
@@ -194,6 +206,18 @@ bip_39_word_space_6: client draft arch exhibit giraffe echo
 bip_39_word_space_7: client draft arch exhibit giraffe echo olympic
 bip_39_word_space_8: client draft arch exhibit giraffe echo olympic hazard
 bip_39_word_space_9: client draft arch exhibit giraffe echo olympic hazard country
+bip_39_word_underscore_1: client
+bip_39_word_underscore_10: client_draft_arch_exhibit_giraffe_echo_olympic_hazard_country_maid
+bip_39_word_underscore_11: client_draft_arch_exhibit_giraffe_echo_olympic_hazard_country_maid_luggage
+bip_39_word_underscore_12: client_draft_arch_exhibit_giraffe_echo_olympic_hazard_country_maid_luggage_aerobic
+bip_39_word_underscore_2: client_draft
+bip_39_word_underscore_3: client_draft_arch
+bip_39_word_underscore_4: client_draft_arch_exhibit
+bip_39_word_underscore_5: client_draft_arch_exhibit_giraffe
+bip_39_word_underscore_6: client_draft_arch_exhibit_giraffe_echo
+bip_39_word_underscore_7: client_draft_arch_exhibit_giraffe_echo_olympic
+bip_39_word_underscore_8: client_draft_arch_exhibit_giraffe_echo_olympic_hazard
+bip_39_word_underscore_9: client_draft_arch_exhibit_giraffe_echo_olympic_hazard_country
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

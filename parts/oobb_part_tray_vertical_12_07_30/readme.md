@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wolf |  
+| bip_39_word_dash_10 | wolf-wild-wear-range-edge-corn-program-helmet-immune-material |  
+| bip_39_word_dash_11 | wolf-wild-wear-range-edge-corn-program-helmet-immune-material-just |  
+| bip_39_word_dash_12 | wolf-wild-wear-range-edge-corn-program-helmet-immune-material-just-accuse |  
+| bip_39_word_dash_2 | wolf-wild |  
+| bip_39_word_dash_3 | wolf-wild-wear |  
+| bip_39_word_dash_4 | wolf-wild-wear-range |  
+| bip_39_word_dash_5 | wolf-wild-wear-range-edge |  
+| bip_39_word_dash_6 | wolf-wild-wear-range-edge-corn |  
+| bip_39_word_dash_7 | wolf-wild-wear-range-edge-corn-program |  
+| bip_39_word_dash_8 | wolf-wild-wear-range-edge-corn-program-helmet |  
+| bip_39_word_dash_9 | wolf-wild-wear-range-edge-corn-program-helmet-immune |  
 | bip_39_word_new_br_1 | wolf |  
 | bip_39_word_new_br_10 | wolf<br>wild<br>wear<br>range<br>edge<br>corn<br>program<br>helmet<br>immune<br>material |  
 | bip_39_word_new_br_11 | wolf<br>wild<br>wear<br>range<br>edge<br>corn<br>program<br>helmet<br>immune<br>material<br>just |  
@@ -147,6 +159,18 @@ immune |
 | bip_39_word_space_7 | wolf wild wear range edge corn program |  
 | bip_39_word_space_8 | wolf wild wear range edge corn program helmet |  
 | bip_39_word_space_9 | wolf wild wear range edge corn program helmet immune |  
+| bip_39_word_underscore_1 | wolf |  
+| bip_39_word_underscore_10 | wolf_wild_wear_range_edge_corn_program_helmet_immune_material |  
+| bip_39_word_underscore_11 | wolf_wild_wear_range_edge_corn_program_helmet_immune_material_just |  
+| bip_39_word_underscore_12 | wolf_wild_wear_range_edge_corn_program_helmet_immune_material_just_accuse |  
+| bip_39_word_underscore_2 | wolf_wild |  
+| bip_39_word_underscore_3 | wolf_wild_wear |  
+| bip_39_word_underscore_4 | wolf_wild_wear_range |  
+| bip_39_word_underscore_5 | wolf_wild_wear_range_edge |  
+| bip_39_word_underscore_6 | wolf_wild_wear_range_edge_corn |  
+| bip_39_word_underscore_7 | wolf_wild_wear_range_edge_corn_program |  
+| bip_39_word_underscore_8 | wolf_wild_wear_range_edge_corn_program_helmet |  
+| bip_39_word_underscore_9 | wolf_wild_wear_range_edge_corn_program_helmet_immune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

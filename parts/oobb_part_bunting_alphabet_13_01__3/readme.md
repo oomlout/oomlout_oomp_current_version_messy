@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | meat |  
+| bip_39_word_dash_10 | meat-knee-three-hotel-multiply-flush-you-gown-spring-chuckle |  
+| bip_39_word_dash_11 | meat-knee-three-hotel-multiply-flush-you-gown-spring-chuckle-soldier |  
+| bip_39_word_dash_12 | meat-knee-three-hotel-multiply-flush-you-gown-spring-chuckle-soldier-actor |  
+| bip_39_word_dash_2 | meat-knee |  
+| bip_39_word_dash_3 | meat-knee-three |  
+| bip_39_word_dash_4 | meat-knee-three-hotel |  
+| bip_39_word_dash_5 | meat-knee-three-hotel-multiply |  
+| bip_39_word_dash_6 | meat-knee-three-hotel-multiply-flush |  
+| bip_39_word_dash_7 | meat-knee-three-hotel-multiply-flush-you |  
+| bip_39_word_dash_8 | meat-knee-three-hotel-multiply-flush-you-gown |  
+| bip_39_word_dash_9 | meat-knee-three-hotel-multiply-flush-you-gown-spring |  
 | bip_39_word_new_br_1 | meat |  
 | bip_39_word_new_br_10 | meat<br>knee<br>three<br>hotel<br>multiply<br>flush<br>you<br>gown<br>spring<br>chuckle |  
 | bip_39_word_new_br_11 | meat<br>knee<br>three<br>hotel<br>multiply<br>flush<br>you<br>gown<br>spring<br>chuckle<br>soldier |  
@@ -147,6 +159,18 @@ spring |
 | bip_39_word_space_7 | meat knee three hotel multiply flush you |  
 | bip_39_word_space_8 | meat knee three hotel multiply flush you gown |  
 | bip_39_word_space_9 | meat knee three hotel multiply flush you gown spring |  
+| bip_39_word_underscore_1 | meat |  
+| bip_39_word_underscore_10 | meat_knee_three_hotel_multiply_flush_you_gown_spring_chuckle |  
+| bip_39_word_underscore_11 | meat_knee_three_hotel_multiply_flush_you_gown_spring_chuckle_soldier |  
+| bip_39_word_underscore_12 | meat_knee_three_hotel_multiply_flush_you_gown_spring_chuckle_soldier_actor |  
+| bip_39_word_underscore_2 | meat_knee |  
+| bip_39_word_underscore_3 | meat_knee_three |  
+| bip_39_word_underscore_4 | meat_knee_three_hotel |  
+| bip_39_word_underscore_5 | meat_knee_three_hotel_multiply |  
+| bip_39_word_underscore_6 | meat_knee_three_hotel_multiply_flush |  
+| bip_39_word_underscore_7 | meat_knee_three_hotel_multiply_flush_you |  
+| bip_39_word_underscore_8 | meat_knee_three_hotel_multiply_flush_you_gown |  
+| bip_39_word_underscore_9 | meat_knee_three_hotel_multiply_flush_you_gown_spring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

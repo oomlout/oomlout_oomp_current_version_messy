@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | remain |  
+| bip_39_word_dash_10 | remain-scheme-off-vibrant-capital-taste-grape-catalog-box-vital |  
+| bip_39_word_dash_11 | remain-scheme-off-vibrant-capital-taste-grape-catalog-box-vital-series |  
+| bip_39_word_dash_12 | remain-scheme-off-vibrant-capital-taste-grape-catalog-box-vital-series-advice |  
+| bip_39_word_dash_2 | remain-scheme |  
+| bip_39_word_dash_3 | remain-scheme-off |  
+| bip_39_word_dash_4 | remain-scheme-off-vibrant |  
+| bip_39_word_dash_5 | remain-scheme-off-vibrant-capital |  
+| bip_39_word_dash_6 | remain-scheme-off-vibrant-capital-taste |  
+| bip_39_word_dash_7 | remain-scheme-off-vibrant-capital-taste-grape |  
+| bip_39_word_dash_8 | remain-scheme-off-vibrant-capital-taste-grape-catalog |  
+| bip_39_word_dash_9 | remain-scheme-off-vibrant-capital-taste-grape-catalog-box |  
 | bip_39_word_new_br_1 | remain |  
 | bip_39_word_new_br_10 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog<br>box<br>vital |  
 | bip_39_word_new_br_11 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog<br>box<br>vital<br>series |  
@@ -147,6 +159,18 @@ box |
 | bip_39_word_space_7 | remain scheme off vibrant capital taste grape |  
 | bip_39_word_space_8 | remain scheme off vibrant capital taste grape catalog |  
 | bip_39_word_space_9 | remain scheme off vibrant capital taste grape catalog box |  
+| bip_39_word_underscore_1 | remain |  
+| bip_39_word_underscore_10 | remain_scheme_off_vibrant_capital_taste_grape_catalog_box_vital |  
+| bip_39_word_underscore_11 | remain_scheme_off_vibrant_capital_taste_grape_catalog_box_vital_series |  
+| bip_39_word_underscore_12 | remain_scheme_off_vibrant_capital_taste_grape_catalog_box_vital_series_advice |  
+| bip_39_word_underscore_2 | remain_scheme |  
+| bip_39_word_underscore_3 | remain_scheme_off |  
+| bip_39_word_underscore_4 | remain_scheme_off_vibrant |  
+| bip_39_word_underscore_5 | remain_scheme_off_vibrant_capital |  
+| bip_39_word_underscore_6 | remain_scheme_off_vibrant_capital_taste |  
+| bip_39_word_underscore_7 | remain_scheme_off_vibrant_capital_taste_grape |  
+| bip_39_word_underscore_8 | remain_scheme_off_vibrant_capital_taste_grape_catalog |  
+| bip_39_word_underscore_9 | remain_scheme_off_vibrant_capital_taste_grape_catalog_box |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | capital |  
+| bip_39_word_dash_10 | capital-rain-bounce-audit-assist-poet-find-poverty-soul-multiply |  
+| bip_39_word_dash_11 | capital-rain-bounce-audit-assist-poet-find-poverty-soul-multiply-swarm |  
+| bip_39_word_dash_12 | capital-rain-bounce-audit-assist-poet-find-poverty-soul-multiply-swarm-announce |  
+| bip_39_word_dash_2 | capital-rain |  
+| bip_39_word_dash_3 | capital-rain-bounce |  
+| bip_39_word_dash_4 | capital-rain-bounce-audit |  
+| bip_39_word_dash_5 | capital-rain-bounce-audit-assist |  
+| bip_39_word_dash_6 | capital-rain-bounce-audit-assist-poet |  
+| bip_39_word_dash_7 | capital-rain-bounce-audit-assist-poet-find |  
+| bip_39_word_dash_8 | capital-rain-bounce-audit-assist-poet-find-poverty |  
+| bip_39_word_dash_9 | capital-rain-bounce-audit-assist-poet-find-poverty-soul |  
 | bip_39_word_new_br_1 | capital |  
 | bip_39_word_new_br_10 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply |  
 | bip_39_word_new_br_11 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply<br>swarm |  
@@ -147,6 +159,18 @@ soul |
 | bip_39_word_space_7 | capital rain bounce audit assist poet find |  
 | bip_39_word_space_8 | capital rain bounce audit assist poet find poverty |  
 | bip_39_word_space_9 | capital rain bounce audit assist poet find poverty soul |  
+| bip_39_word_underscore_1 | capital |  
+| bip_39_word_underscore_10 | capital_rain_bounce_audit_assist_poet_find_poverty_soul_multiply |  
+| bip_39_word_underscore_11 | capital_rain_bounce_audit_assist_poet_find_poverty_soul_multiply_swarm |  
+| bip_39_word_underscore_12 | capital_rain_bounce_audit_assist_poet_find_poverty_soul_multiply_swarm_announce |  
+| bip_39_word_underscore_2 | capital_rain |  
+| bip_39_word_underscore_3 | capital_rain_bounce |  
+| bip_39_word_underscore_4 | capital_rain_bounce_audit |  
+| bip_39_word_underscore_5 | capital_rain_bounce_audit_assist |  
+| bip_39_word_underscore_6 | capital_rain_bounce_audit_assist_poet |  
+| bip_39_word_underscore_7 | capital_rain_bounce_audit_assist_poet_find |  
+| bip_39_word_underscore_8 | capital_rain_bounce_audit_assist_poet_find_poverty |  
+| bip_39_word_underscore_9 | capital_rain_bounce_audit_assist_poet_find_poverty_soul |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

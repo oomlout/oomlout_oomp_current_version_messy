@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | industry |  
+| bip_39_word_dash_10 | industry-verify-net-situate-pig-heavy-large-protect-fine-load |  
+| bip_39_word_dash_11 | industry-verify-net-situate-pig-heavy-large-protect-fine-load-check |  
+| bip_39_word_dash_12 | industry-verify-net-situate-pig-heavy-large-protect-fine-load-check-aunt |  
+| bip_39_word_dash_2 | industry-verify |  
+| bip_39_word_dash_3 | industry-verify-net |  
+| bip_39_word_dash_4 | industry-verify-net-situate |  
+| bip_39_word_dash_5 | industry-verify-net-situate-pig |  
+| bip_39_word_dash_6 | industry-verify-net-situate-pig-heavy |  
+| bip_39_word_dash_7 | industry-verify-net-situate-pig-heavy-large |  
+| bip_39_word_dash_8 | industry-verify-net-situate-pig-heavy-large-protect |  
+| bip_39_word_dash_9 | industry-verify-net-situate-pig-heavy-large-protect-fine |  
 | bip_39_word_new_br_1 | industry |  
 | bip_39_word_new_br_10 | industry<br>verify<br>net<br>situate<br>pig<br>heavy<br>large<br>protect<br>fine<br>load |  
 | bip_39_word_new_br_11 | industry<br>verify<br>net<br>situate<br>pig<br>heavy<br>large<br>protect<br>fine<br>load<br>check |  
@@ -147,6 +159,18 @@ fine |
 | bip_39_word_space_7 | industry verify net situate pig heavy large |  
 | bip_39_word_space_8 | industry verify net situate pig heavy large protect |  
 | bip_39_word_space_9 | industry verify net situate pig heavy large protect fine |  
+| bip_39_word_underscore_1 | industry |  
+| bip_39_word_underscore_10 | industry_verify_net_situate_pig_heavy_large_protect_fine_load |  
+| bip_39_word_underscore_11 | industry_verify_net_situate_pig_heavy_large_protect_fine_load_check |  
+| bip_39_word_underscore_12 | industry_verify_net_situate_pig_heavy_large_protect_fine_load_check_aunt |  
+| bip_39_word_underscore_2 | industry_verify |  
+| bip_39_word_underscore_3 | industry_verify_net |  
+| bip_39_word_underscore_4 | industry_verify_net_situate |  
+| bip_39_word_underscore_5 | industry_verify_net_situate_pig |  
+| bip_39_word_underscore_6 | industry_verify_net_situate_pig_heavy |  
+| bip_39_word_underscore_7 | industry_verify_net_situate_pig_heavy_large |  
+| bip_39_word_underscore_8 | industry_verify_net_situate_pig_heavy_large_protect |  
+| bip_39_word_underscore_9 | industry_verify_net_situate_pig_heavy_large_protect_fine |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

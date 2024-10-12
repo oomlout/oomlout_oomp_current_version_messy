@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ranch
+bip_39_word_dash_10: ranch-build-banner-wonder-wide-mansion-pair-insane-refuse-trap
+bip_39_word_dash_11: ranch-build-banner-wonder-wide-mansion-pair-insane-refuse-trap-olympic
+bip_39_word_dash_12: ranch-build-banner-wonder-wide-mansion-pair-insane-refuse-trap-olympic-among
+bip_39_word_dash_2: ranch-build
+bip_39_word_dash_3: ranch-build-banner
+bip_39_word_dash_4: ranch-build-banner-wonder
+bip_39_word_dash_5: ranch-build-banner-wonder-wide
+bip_39_word_dash_6: ranch-build-banner-wonder-wide-mansion
+bip_39_word_dash_7: ranch-build-banner-wonder-wide-mansion-pair
+bip_39_word_dash_8: ranch-build-banner-wonder-wide-mansion-pair-insane
+bip_39_word_dash_9: ranch-build-banner-wonder-wide-mansion-pair-insane-refuse
 bip_39_word_new_br_1: ranch
 bip_39_word_new_br_10: ranch<br>build<br>banner<br>wonder<br>wide<br>mansion<br>pair<br>insane<br>refuse<br>trap
 bip_39_word_new_br_11: ranch<br>build<br>banner<br>wonder<br>wide<br>mansion<br>pair<br>insane<br>refuse<br>trap<br>olympic
@@ -193,6 +205,18 @@ bip_39_word_space_6: ranch build banner wonder wide mansion
 bip_39_word_space_7: ranch build banner wonder wide mansion pair
 bip_39_word_space_8: ranch build banner wonder wide mansion pair insane
 bip_39_word_space_9: ranch build banner wonder wide mansion pair insane refuse
+bip_39_word_underscore_1: ranch
+bip_39_word_underscore_10: ranch_build_banner_wonder_wide_mansion_pair_insane_refuse_trap
+bip_39_word_underscore_11: ranch_build_banner_wonder_wide_mansion_pair_insane_refuse_trap_olympic
+bip_39_word_underscore_12: ranch_build_banner_wonder_wide_mansion_pair_insane_refuse_trap_olympic_among
+bip_39_word_underscore_2: ranch_build
+bip_39_word_underscore_3: ranch_build_banner
+bip_39_word_underscore_4: ranch_build_banner_wonder
+bip_39_word_underscore_5: ranch_build_banner_wonder_wide
+bip_39_word_underscore_6: ranch_build_banner_wonder_wide_mansion
+bip_39_word_underscore_7: ranch_build_banner_wonder_wide_mansion_pair
+bip_39_word_underscore_8: ranch_build_banner_wonder_wide_mansion_pair_insane
+bip_39_word_underscore_9: ranch_build_banner_wonder_wide_mansion_pair_insane_refuse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

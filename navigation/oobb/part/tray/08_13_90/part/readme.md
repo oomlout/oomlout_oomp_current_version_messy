@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mistake |  
+| bip_39_word_dash_10 | mistake-elephant-sunny-place-fly-target-track-rate-speak-common |  
+| bip_39_word_dash_11 | mistake-elephant-sunny-place-fly-target-track-rate-speak-common-emotion |  
+| bip_39_word_dash_12 | mistake-elephant-sunny-place-fly-target-track-rate-speak-common-emotion-armed |  
+| bip_39_word_dash_2 | mistake-elephant |  
+| bip_39_word_dash_3 | mistake-elephant-sunny |  
+| bip_39_word_dash_4 | mistake-elephant-sunny-place |  
+| bip_39_word_dash_5 | mistake-elephant-sunny-place-fly |  
+| bip_39_word_dash_6 | mistake-elephant-sunny-place-fly-target |  
+| bip_39_word_dash_7 | mistake-elephant-sunny-place-fly-target-track |  
+| bip_39_word_dash_8 | mistake-elephant-sunny-place-fly-target-track-rate |  
+| bip_39_word_dash_9 | mistake-elephant-sunny-place-fly-target-track-rate-speak |  
 | bip_39_word_new_br_1 | mistake |  
 | bip_39_word_new_br_10 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate<br>speak<br>common |  
 | bip_39_word_new_br_11 | mistake<br>elephant<br>sunny<br>place<br>fly<br>target<br>track<br>rate<br>speak<br>common<br>emotion |  
@@ -147,6 +159,18 @@ speak |
 | bip_39_word_space_7 | mistake elephant sunny place fly target track |  
 | bip_39_word_space_8 | mistake elephant sunny place fly target track rate |  
 | bip_39_word_space_9 | mistake elephant sunny place fly target track rate speak |  
+| bip_39_word_underscore_1 | mistake |  
+| bip_39_word_underscore_10 | mistake_elephant_sunny_place_fly_target_track_rate_speak_common |  
+| bip_39_word_underscore_11 | mistake_elephant_sunny_place_fly_target_track_rate_speak_common_emotion |  
+| bip_39_word_underscore_12 | mistake_elephant_sunny_place_fly_target_track_rate_speak_common_emotion_armed |  
+| bip_39_word_underscore_2 | mistake_elephant |  
+| bip_39_word_underscore_3 | mistake_elephant_sunny |  
+| bip_39_word_underscore_4 | mistake_elephant_sunny_place |  
+| bip_39_word_underscore_5 | mistake_elephant_sunny_place_fly |  
+| bip_39_word_underscore_6 | mistake_elephant_sunny_place_fly_target |  
+| bip_39_word_underscore_7 | mistake_elephant_sunny_place_fly_target_track |  
+| bip_39_word_underscore_8 | mistake_elephant_sunny_place_fly_target_track_rate |  
+| bip_39_word_underscore_9 | mistake_elephant_sunny_place_fly_target_track_rate_speak |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

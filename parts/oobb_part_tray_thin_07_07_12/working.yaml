@@ -1,3 +1,15 @@
+bip_39_word_dash_1: predict
+bip_39_word_dash_10: predict-smart-skull-unveil-mango-barrel-notable-tissue-furnace-deny
+bip_39_word_dash_11: predict-smart-skull-unveil-mango-barrel-notable-tissue-furnace-deny-useful
+bip_39_word_dash_12: predict-smart-skull-unveil-mango-barrel-notable-tissue-furnace-deny-useful-anchor
+bip_39_word_dash_2: predict-smart
+bip_39_word_dash_3: predict-smart-skull
+bip_39_word_dash_4: predict-smart-skull-unveil
+bip_39_word_dash_5: predict-smart-skull-unveil-mango
+bip_39_word_dash_6: predict-smart-skull-unveil-mango-barrel
+bip_39_word_dash_7: predict-smart-skull-unveil-mango-barrel-notable
+bip_39_word_dash_8: predict-smart-skull-unveil-mango-barrel-notable-tissue
+bip_39_word_dash_9: predict-smart-skull-unveil-mango-barrel-notable-tissue-furnace
 bip_39_word_new_br_1: predict
 bip_39_word_new_br_10: predict<br>smart<br>skull<br>unveil<br>mango<br>barrel<br>notable<br>tissue<br>furnace<br>deny
 bip_39_word_new_br_11: predict<br>smart<br>skull<br>unveil<br>mango<br>barrel<br>notable<br>tissue<br>furnace<br>deny<br>useful
@@ -194,6 +206,18 @@ bip_39_word_space_6: predict smart skull unveil mango barrel
 bip_39_word_space_7: predict smart skull unveil mango barrel notable
 bip_39_word_space_8: predict smart skull unveil mango barrel notable tissue
 bip_39_word_space_9: predict smart skull unveil mango barrel notable tissue furnace
+bip_39_word_underscore_1: predict
+bip_39_word_underscore_10: predict_smart_skull_unveil_mango_barrel_notable_tissue_furnace_deny
+bip_39_word_underscore_11: predict_smart_skull_unveil_mango_barrel_notable_tissue_furnace_deny_useful
+bip_39_word_underscore_12: predict_smart_skull_unveil_mango_barrel_notable_tissue_furnace_deny_useful_anchor
+bip_39_word_underscore_2: predict_smart
+bip_39_word_underscore_3: predict_smart_skull
+bip_39_word_underscore_4: predict_smart_skull_unveil
+bip_39_word_underscore_5: predict_smart_skull_unveil_mango
+bip_39_word_underscore_6: predict_smart_skull_unveil_mango_barrel
+bip_39_word_underscore_7: predict_smart_skull_unveil_mango_barrel_notable
+bip_39_word_underscore_8: predict_smart_skull_unveil_mango_barrel_notable_tissue
+bip_39_word_underscore_9: predict_smart_skull_unveil_mango_barrel_notable_tissue_furnace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

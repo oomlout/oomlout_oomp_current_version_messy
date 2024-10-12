@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | afford |  
+| bip_39_word_dash_10 | afford-lion-risk-bitter-rally-evoke-pig-leader-staff-ship |  
+| bip_39_word_dash_11 | afford-lion-risk-bitter-rally-evoke-pig-leader-staff-ship-suit |  
+| bip_39_word_dash_12 | afford-lion-risk-bitter-rally-evoke-pig-leader-staff-ship-suit-amused |  
+| bip_39_word_dash_2 | afford-lion |  
+| bip_39_word_dash_3 | afford-lion-risk |  
+| bip_39_word_dash_4 | afford-lion-risk-bitter |  
+| bip_39_word_dash_5 | afford-lion-risk-bitter-rally |  
+| bip_39_word_dash_6 | afford-lion-risk-bitter-rally-evoke |  
+| bip_39_word_dash_7 | afford-lion-risk-bitter-rally-evoke-pig |  
+| bip_39_word_dash_8 | afford-lion-risk-bitter-rally-evoke-pig-leader |  
+| bip_39_word_dash_9 | afford-lion-risk-bitter-rally-evoke-pig-leader-staff |  
 | bip_39_word_new_br_1 | afford |  
 | bip_39_word_new_br_10 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader<br>staff<br>ship |  
 | bip_39_word_new_br_11 | afford<br>lion<br>risk<br>bitter<br>rally<br>evoke<br>pig<br>leader<br>staff<br>ship<br>suit |  
@@ -147,6 +159,18 @@ staff |
 | bip_39_word_space_7 | afford lion risk bitter rally evoke pig |  
 | bip_39_word_space_8 | afford lion risk bitter rally evoke pig leader |  
 | bip_39_word_space_9 | afford lion risk bitter rally evoke pig leader staff |  
+| bip_39_word_underscore_1 | afford |  
+| bip_39_word_underscore_10 | afford_lion_risk_bitter_rally_evoke_pig_leader_staff_ship |  
+| bip_39_word_underscore_11 | afford_lion_risk_bitter_rally_evoke_pig_leader_staff_ship_suit |  
+| bip_39_word_underscore_12 | afford_lion_risk_bitter_rally_evoke_pig_leader_staff_ship_suit_amused |  
+| bip_39_word_underscore_2 | afford_lion |  
+| bip_39_word_underscore_3 | afford_lion_risk |  
+| bip_39_word_underscore_4 | afford_lion_risk_bitter |  
+| bip_39_word_underscore_5 | afford_lion_risk_bitter_rally |  
+| bip_39_word_underscore_6 | afford_lion_risk_bitter_rally_evoke |  
+| bip_39_word_underscore_7 | afford_lion_risk_bitter_rally_evoke_pig |  
+| bip_39_word_underscore_8 | afford_lion_risk_bitter_rally_evoke_pig_leader |  
+| bip_39_word_underscore_9 | afford_lion_risk_bitter_rally_evoke_pig_leader_staff |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

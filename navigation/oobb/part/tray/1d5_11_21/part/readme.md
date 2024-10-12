@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | defense |  
+| bip_39_word_dash_10 | defense-piece-sunny-salon-van-custom-foil-update-since-donkey |  
+| bip_39_word_dash_11 | defense-piece-sunny-salon-van-custom-foil-update-since-donkey-remind |  
+| bip_39_word_dash_12 | defense-piece-sunny-salon-van-custom-foil-update-since-donkey-remind-ask |  
+| bip_39_word_dash_2 | defense-piece |  
+| bip_39_word_dash_3 | defense-piece-sunny |  
+| bip_39_word_dash_4 | defense-piece-sunny-salon |  
+| bip_39_word_dash_5 | defense-piece-sunny-salon-van |  
+| bip_39_word_dash_6 | defense-piece-sunny-salon-van-custom |  
+| bip_39_word_dash_7 | defense-piece-sunny-salon-van-custom-foil |  
+| bip_39_word_dash_8 | defense-piece-sunny-salon-van-custom-foil-update |  
+| bip_39_word_dash_9 | defense-piece-sunny-salon-van-custom-foil-update-since |  
 | bip_39_word_new_br_1 | defense |  
 | bip_39_word_new_br_10 | defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update<br>since<br>donkey |  
 | bip_39_word_new_br_11 | defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update<br>since<br>donkey<br>remind |  
@@ -147,6 +159,18 @@ since |
 | bip_39_word_space_7 | defense piece sunny salon van custom foil |  
 | bip_39_word_space_8 | defense piece sunny salon van custom foil update |  
 | bip_39_word_space_9 | defense piece sunny salon van custom foil update since |  
+| bip_39_word_underscore_1 | defense |  
+| bip_39_word_underscore_10 | defense_piece_sunny_salon_van_custom_foil_update_since_donkey |  
+| bip_39_word_underscore_11 | defense_piece_sunny_salon_van_custom_foil_update_since_donkey_remind |  
+| bip_39_word_underscore_12 | defense_piece_sunny_salon_van_custom_foil_update_since_donkey_remind_ask |  
+| bip_39_word_underscore_2 | defense_piece |  
+| bip_39_word_underscore_3 | defense_piece_sunny |  
+| bip_39_word_underscore_4 | defense_piece_sunny_salon |  
+| bip_39_word_underscore_5 | defense_piece_sunny_salon_van |  
+| bip_39_word_underscore_6 | defense_piece_sunny_salon_van_custom |  
+| bip_39_word_underscore_7 | defense_piece_sunny_salon_van_custom_foil |  
+| bip_39_word_underscore_8 | defense_piece_sunny_salon_van_custom_foil_update |  
+| bip_39_word_underscore_9 | defense_piece_sunny_salon_van_custom_foil_update_since |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

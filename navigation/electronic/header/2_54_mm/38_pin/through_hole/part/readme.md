@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rail |  
+| bip_39_word_dash_10 | rail-raven-share-sound-market-fossil-hedgehog-reunion-depth-conduct |  
+| bip_39_word_dash_11 | rail-raven-share-sound-market-fossil-hedgehog-reunion-depth-conduct-stool |  
+| bip_39_word_dash_12 | rail-raven-share-sound-market-fossil-hedgehog-reunion-depth-conduct-stool-actor |  
+| bip_39_word_dash_2 | rail-raven |  
+| bip_39_word_dash_3 | rail-raven-share |  
+| bip_39_word_dash_4 | rail-raven-share-sound |  
+| bip_39_word_dash_5 | rail-raven-share-sound-market |  
+| bip_39_word_dash_6 | rail-raven-share-sound-market-fossil |  
+| bip_39_word_dash_7 | rail-raven-share-sound-market-fossil-hedgehog |  
+| bip_39_word_dash_8 | rail-raven-share-sound-market-fossil-hedgehog-reunion |  
+| bip_39_word_dash_9 | rail-raven-share-sound-market-fossil-hedgehog-reunion-depth |  
 | bip_39_word_new_br_1 | rail |  
 | bip_39_word_new_br_10 | rail<br>raven<br>share<br>sound<br>market<br>fossil<br>hedgehog<br>reunion<br>depth<br>conduct |  
 | bip_39_word_new_br_11 | rail<br>raven<br>share<br>sound<br>market<br>fossil<br>hedgehog<br>reunion<br>depth<br>conduct<br>stool |  
@@ -147,6 +159,18 @@ depth |
 | bip_39_word_space_7 | rail raven share sound market fossil hedgehog |  
 | bip_39_word_space_8 | rail raven share sound market fossil hedgehog reunion |  
 | bip_39_word_space_9 | rail raven share sound market fossil hedgehog reunion depth |  
+| bip_39_word_underscore_1 | rail |  
+| bip_39_word_underscore_10 | rail_raven_share_sound_market_fossil_hedgehog_reunion_depth_conduct |  
+| bip_39_word_underscore_11 | rail_raven_share_sound_market_fossil_hedgehog_reunion_depth_conduct_stool |  
+| bip_39_word_underscore_12 | rail_raven_share_sound_market_fossil_hedgehog_reunion_depth_conduct_stool_actor |  
+| bip_39_word_underscore_2 | rail_raven |  
+| bip_39_word_underscore_3 | rail_raven_share |  
+| bip_39_word_underscore_4 | rail_raven_share_sound |  
+| bip_39_word_underscore_5 | rail_raven_share_sound_market |  
+| bip_39_word_underscore_6 | rail_raven_share_sound_market_fossil |  
+| bip_39_word_underscore_7 | rail_raven_share_sound_market_fossil_hedgehog |  
+| bip_39_word_underscore_8 | rail_raven_share_sound_market_fossil_hedgehog_reunion |  
+| bip_39_word_underscore_9 | rail_raven_share_sound_market_fossil_hedgehog_reunion_depth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | monster |  
+| bip_39_word_dash_10 | monster-assault-manual-want-despair-dismiss-bind-senior-peanut-picnic |  
+| bip_39_word_dash_11 | monster-assault-manual-want-despair-dismiss-bind-senior-peanut-picnic-exact |  
+| bip_39_word_dash_12 | monster-assault-manual-want-despair-dismiss-bind-senior-peanut-picnic-exact-acid |  
+| bip_39_word_dash_2 | monster-assault |  
+| bip_39_word_dash_3 | monster-assault-manual |  
+| bip_39_word_dash_4 | monster-assault-manual-want |  
+| bip_39_word_dash_5 | monster-assault-manual-want-despair |  
+| bip_39_word_dash_6 | monster-assault-manual-want-despair-dismiss |  
+| bip_39_word_dash_7 | monster-assault-manual-want-despair-dismiss-bind |  
+| bip_39_word_dash_8 | monster-assault-manual-want-despair-dismiss-bind-senior |  
+| bip_39_word_dash_9 | monster-assault-manual-want-despair-dismiss-bind-senior-peanut |  
 | bip_39_word_new_br_1 | monster |  
 | bip_39_word_new_br_10 | monster<br>assault<br>manual<br>want<br>despair<br>dismiss<br>bind<br>senior<br>peanut<br>picnic |  
 | bip_39_word_new_br_11 | monster<br>assault<br>manual<br>want<br>despair<br>dismiss<br>bind<br>senior<br>peanut<br>picnic<br>exact |  
@@ -147,6 +159,18 @@ peanut |
 | bip_39_word_space_7 | monster assault manual want despair dismiss bind |  
 | bip_39_word_space_8 | monster assault manual want despair dismiss bind senior |  
 | bip_39_word_space_9 | monster assault manual want despair dismiss bind senior peanut |  
+| bip_39_word_underscore_1 | monster |  
+| bip_39_word_underscore_10 | monster_assault_manual_want_despair_dismiss_bind_senior_peanut_picnic |  
+| bip_39_word_underscore_11 | monster_assault_manual_want_despair_dismiss_bind_senior_peanut_picnic_exact |  
+| bip_39_word_underscore_12 | monster_assault_manual_want_despair_dismiss_bind_senior_peanut_picnic_exact_acid |  
+| bip_39_word_underscore_2 | monster_assault |  
+| bip_39_word_underscore_3 | monster_assault_manual |  
+| bip_39_word_underscore_4 | monster_assault_manual_want |  
+| bip_39_word_underscore_5 | monster_assault_manual_want_despair |  
+| bip_39_word_underscore_6 | monster_assault_manual_want_despair_dismiss |  
+| bip_39_word_underscore_7 | monster_assault_manual_want_despair_dismiss_bind |  
+| bip_39_word_underscore_8 | monster_assault_manual_want_despair_dismiss_bind_senior |  
+| bip_39_word_underscore_9 | monster_assault_manual_want_despair_dismiss_bind_senior_peanut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

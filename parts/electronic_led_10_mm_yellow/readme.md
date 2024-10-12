@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | little |  
+| bip_39_word_dash_10 | little-cherry-air-buyer-deputy-pattern-thrive-stand-enroll-actress |  
+| bip_39_word_dash_11 | little-cherry-air-buyer-deputy-pattern-thrive-stand-enroll-actress-salt |  
+| bip_39_word_dash_12 | little-cherry-air-buyer-deputy-pattern-thrive-stand-enroll-actress-salt-arrange |  
+| bip_39_word_dash_2 | little-cherry |  
+| bip_39_word_dash_3 | little-cherry-air |  
+| bip_39_word_dash_4 | little-cherry-air-buyer |  
+| bip_39_word_dash_5 | little-cherry-air-buyer-deputy |  
+| bip_39_word_dash_6 | little-cherry-air-buyer-deputy-pattern |  
+| bip_39_word_dash_7 | little-cherry-air-buyer-deputy-pattern-thrive |  
+| bip_39_word_dash_8 | little-cherry-air-buyer-deputy-pattern-thrive-stand |  
+| bip_39_word_dash_9 | little-cherry-air-buyer-deputy-pattern-thrive-stand-enroll |  
 | bip_39_word_new_br_1 | little |  
 | bip_39_word_new_br_10 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand<br>enroll<br>actress |  
 | bip_39_word_new_br_11 | little<br>cherry<br>air<br>buyer<br>deputy<br>pattern<br>thrive<br>stand<br>enroll<br>actress<br>salt |  
@@ -147,6 +159,18 @@ enroll |
 | bip_39_word_space_7 | little cherry air buyer deputy pattern thrive |  
 | bip_39_word_space_8 | little cherry air buyer deputy pattern thrive stand |  
 | bip_39_word_space_9 | little cherry air buyer deputy pattern thrive stand enroll |  
+| bip_39_word_underscore_1 | little |  
+| bip_39_word_underscore_10 | little_cherry_air_buyer_deputy_pattern_thrive_stand_enroll_actress |  
+| bip_39_word_underscore_11 | little_cherry_air_buyer_deputy_pattern_thrive_stand_enroll_actress_salt |  
+| bip_39_word_underscore_12 | little_cherry_air_buyer_deputy_pattern_thrive_stand_enroll_actress_salt_arrange |  
+| bip_39_word_underscore_2 | little_cherry |  
+| bip_39_word_underscore_3 | little_cherry_air |  
+| bip_39_word_underscore_4 | little_cherry_air_buyer |  
+| bip_39_word_underscore_5 | little_cherry_air_buyer_deputy |  
+| bip_39_word_underscore_6 | little_cherry_air_buyer_deputy_pattern |  
+| bip_39_word_underscore_7 | little_cherry_air_buyer_deputy_pattern_thrive |  
+| bip_39_word_underscore_8 | little_cherry_air_buyer_deputy_pattern_thrive_stand |  
+| bip_39_word_underscore_9 | little_cherry_air_buyer_deputy_pattern_thrive_stand_enroll |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

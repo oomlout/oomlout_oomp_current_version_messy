@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | argue |  
+| bip_39_word_dash_10 | argue-banner-solve-youth-near-enroll-butter-smile-inherit-shield |  
+| bip_39_word_dash_11 | argue-banner-solve-youth-near-enroll-butter-smile-inherit-shield-critic |  
+| bip_39_word_dash_12 | argue-banner-solve-youth-near-enroll-butter-smile-inherit-shield-critic-apple |  
+| bip_39_word_dash_2 | argue-banner |  
+| bip_39_word_dash_3 | argue-banner-solve |  
+| bip_39_word_dash_4 | argue-banner-solve-youth |  
+| bip_39_word_dash_5 | argue-banner-solve-youth-near |  
+| bip_39_word_dash_6 | argue-banner-solve-youth-near-enroll |  
+| bip_39_word_dash_7 | argue-banner-solve-youth-near-enroll-butter |  
+| bip_39_word_dash_8 | argue-banner-solve-youth-near-enroll-butter-smile |  
+| bip_39_word_dash_9 | argue-banner-solve-youth-near-enroll-butter-smile-inherit |  
 | bip_39_word_new_br_1 | argue |  
 | bip_39_word_new_br_10 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile<br>inherit<br>shield |  
 | bip_39_word_new_br_11 | argue<br>banner<br>solve<br>youth<br>near<br>enroll<br>butter<br>smile<br>inherit<br>shield<br>critic |  
@@ -147,6 +159,18 @@ inherit |
 | bip_39_word_space_7 | argue banner solve youth near enroll butter |  
 | bip_39_word_space_8 | argue banner solve youth near enroll butter smile |  
 | bip_39_word_space_9 | argue banner solve youth near enroll butter smile inherit |  
+| bip_39_word_underscore_1 | argue |  
+| bip_39_word_underscore_10 | argue_banner_solve_youth_near_enroll_butter_smile_inherit_shield |  
+| bip_39_word_underscore_11 | argue_banner_solve_youth_near_enroll_butter_smile_inherit_shield_critic |  
+| bip_39_word_underscore_12 | argue_banner_solve_youth_near_enroll_butter_smile_inherit_shield_critic_apple |  
+| bip_39_word_underscore_2 | argue_banner |  
+| bip_39_word_underscore_3 | argue_banner_solve |  
+| bip_39_word_underscore_4 | argue_banner_solve_youth |  
+| bip_39_word_underscore_5 | argue_banner_solve_youth_near |  
+| bip_39_word_underscore_6 | argue_banner_solve_youth_near_enroll |  
+| bip_39_word_underscore_7 | argue_banner_solve_youth_near_enroll_butter |  
+| bip_39_word_underscore_8 | argue_banner_solve_youth_near_enroll_butter_smile |  
+| bip_39_word_underscore_9 | argue_banner_solve_youth_near_enroll_butter_smile_inherit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

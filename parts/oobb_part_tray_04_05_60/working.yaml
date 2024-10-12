@@ -1,3 +1,15 @@
+bip_39_word_dash_1: type
+bip_39_word_dash_10: type-timber-portion-idle-spot-lake-below-provide-ability-cherry
+bip_39_word_dash_11: type-timber-portion-idle-spot-lake-below-provide-ability-cherry-demise
+bip_39_word_dash_12: type-timber-portion-idle-spot-lake-below-provide-ability-cherry-demise-amused
+bip_39_word_dash_2: type-timber
+bip_39_word_dash_3: type-timber-portion
+bip_39_word_dash_4: type-timber-portion-idle
+bip_39_word_dash_5: type-timber-portion-idle-spot
+bip_39_word_dash_6: type-timber-portion-idle-spot-lake
+bip_39_word_dash_7: type-timber-portion-idle-spot-lake-below
+bip_39_word_dash_8: type-timber-portion-idle-spot-lake-below-provide
+bip_39_word_dash_9: type-timber-portion-idle-spot-lake-below-provide-ability
 bip_39_word_new_br_1: type
 bip_39_word_new_br_10: type<br>timber<br>portion<br>idle<br>spot<br>lake<br>below<br>provide<br>ability<br>cherry
 bip_39_word_new_br_11: type<br>timber<br>portion<br>idle<br>spot<br>lake<br>below<br>provide<br>ability<br>cherry<br>demise
@@ -193,6 +205,18 @@ bip_39_word_space_6: type timber portion idle spot lake
 bip_39_word_space_7: type timber portion idle spot lake below
 bip_39_word_space_8: type timber portion idle spot lake below provide
 bip_39_word_space_9: type timber portion idle spot lake below provide ability
+bip_39_word_underscore_1: type
+bip_39_word_underscore_10: type_timber_portion_idle_spot_lake_below_provide_ability_cherry
+bip_39_word_underscore_11: type_timber_portion_idle_spot_lake_below_provide_ability_cherry_demise
+bip_39_word_underscore_12: type_timber_portion_idle_spot_lake_below_provide_ability_cherry_demise_amused
+bip_39_word_underscore_2: type_timber
+bip_39_word_underscore_3: type_timber_portion
+bip_39_word_underscore_4: type_timber_portion_idle
+bip_39_word_underscore_5: type_timber_portion_idle_spot
+bip_39_word_underscore_6: type_timber_portion_idle_spot_lake
+bip_39_word_underscore_7: type_timber_portion_idle_spot_lake_below
+bip_39_word_underscore_8: type_timber_portion_idle_spot_lake_below_provide
+bip_39_word_underscore_9: type_timber_portion_idle_spot_lake_below_provide_ability
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

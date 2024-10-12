@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gold
+bip_39_word_dash_10: gold-fringe-finger-rhythm-issue-side-habit-flavor-general-once
+bip_39_word_dash_11: gold-fringe-finger-rhythm-issue-side-habit-flavor-general-once-word
+bip_39_word_dash_12: gold-fringe-finger-rhythm-issue-side-habit-flavor-general-once-word-agree
+bip_39_word_dash_2: gold-fringe
+bip_39_word_dash_3: gold-fringe-finger
+bip_39_word_dash_4: gold-fringe-finger-rhythm
+bip_39_word_dash_5: gold-fringe-finger-rhythm-issue
+bip_39_word_dash_6: gold-fringe-finger-rhythm-issue-side
+bip_39_word_dash_7: gold-fringe-finger-rhythm-issue-side-habit
+bip_39_word_dash_8: gold-fringe-finger-rhythm-issue-side-habit-flavor
+bip_39_word_dash_9: gold-fringe-finger-rhythm-issue-side-habit-flavor-general
 bip_39_word_new_br_1: gold
 bip_39_word_new_br_10: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor<br>general<br>once
 bip_39_word_new_br_11: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor<br>general<br>once<br>word
@@ -193,6 +205,18 @@ bip_39_word_space_6: gold fringe finger rhythm issue side
 bip_39_word_space_7: gold fringe finger rhythm issue side habit
 bip_39_word_space_8: gold fringe finger rhythm issue side habit flavor
 bip_39_word_space_9: gold fringe finger rhythm issue side habit flavor general
+bip_39_word_underscore_1: gold
+bip_39_word_underscore_10: gold_fringe_finger_rhythm_issue_side_habit_flavor_general_once
+bip_39_word_underscore_11: gold_fringe_finger_rhythm_issue_side_habit_flavor_general_once_word
+bip_39_word_underscore_12: gold_fringe_finger_rhythm_issue_side_habit_flavor_general_once_word_agree
+bip_39_word_underscore_2: gold_fringe
+bip_39_word_underscore_3: gold_fringe_finger
+bip_39_word_underscore_4: gold_fringe_finger_rhythm
+bip_39_word_underscore_5: gold_fringe_finger_rhythm_issue
+bip_39_word_underscore_6: gold_fringe_finger_rhythm_issue_side
+bip_39_word_underscore_7: gold_fringe_finger_rhythm_issue_side_habit
+bip_39_word_underscore_8: gold_fringe_finger_rhythm_issue_side_habit_flavor
+bip_39_word_underscore_9: gold_fringe_finger_rhythm_issue_side_habit_flavor_general
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

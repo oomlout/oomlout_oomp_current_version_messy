@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enact |  
+| bip_39_word_dash_10 | enact-camera-alarm-wire-engage-property-frog-female-immense-history |  
+| bip_39_word_dash_11 | enact-camera-alarm-wire-engage-property-frog-female-immense-history-industry |  
+| bip_39_word_dash_12 | enact-camera-alarm-wire-engage-property-frog-female-immense-history-industry-autumn |  
+| bip_39_word_dash_2 | enact-camera |  
+| bip_39_word_dash_3 | enact-camera-alarm |  
+| bip_39_word_dash_4 | enact-camera-alarm-wire |  
+| bip_39_word_dash_5 | enact-camera-alarm-wire-engage |  
+| bip_39_word_dash_6 | enact-camera-alarm-wire-engage-property |  
+| bip_39_word_dash_7 | enact-camera-alarm-wire-engage-property-frog |  
+| bip_39_word_dash_8 | enact-camera-alarm-wire-engage-property-frog-female |  
+| bip_39_word_dash_9 | enact-camera-alarm-wire-engage-property-frog-female-immense |  
 | bip_39_word_new_br_1 | enact |  
 | bip_39_word_new_br_10 | enact<br>camera<br>alarm<br>wire<br>engage<br>property<br>frog<br>female<br>immense<br>history |  
 | bip_39_word_new_br_11 | enact<br>camera<br>alarm<br>wire<br>engage<br>property<br>frog<br>female<br>immense<br>history<br>industry |  
@@ -147,6 +159,18 @@ immense |
 | bip_39_word_space_7 | enact camera alarm wire engage property frog |  
 | bip_39_word_space_8 | enact camera alarm wire engage property frog female |  
 | bip_39_word_space_9 | enact camera alarm wire engage property frog female immense |  
+| bip_39_word_underscore_1 | enact |  
+| bip_39_word_underscore_10 | enact_camera_alarm_wire_engage_property_frog_female_immense_history |  
+| bip_39_word_underscore_11 | enact_camera_alarm_wire_engage_property_frog_female_immense_history_industry |  
+| bip_39_word_underscore_12 | enact_camera_alarm_wire_engage_property_frog_female_immense_history_industry_autumn |  
+| bip_39_word_underscore_2 | enact_camera |  
+| bip_39_word_underscore_3 | enact_camera_alarm |  
+| bip_39_word_underscore_4 | enact_camera_alarm_wire |  
+| bip_39_word_underscore_5 | enact_camera_alarm_wire_engage |  
+| bip_39_word_underscore_6 | enact_camera_alarm_wire_engage_property |  
+| bip_39_word_underscore_7 | enact_camera_alarm_wire_engage_property_frog |  
+| bip_39_word_underscore_8 | enact_camera_alarm_wire_engage_property_frog_female |  
+| bip_39_word_underscore_9 | enact_camera_alarm_wire_engage_property_frog_female_immense |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

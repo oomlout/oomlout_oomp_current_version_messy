@@ -1,3 +1,15 @@
+bip_39_word_dash_1: among
+bip_39_word_dash_10: among-welcome-text-wrap-menu-clown-december-gasp-advice-bamboo
+bip_39_word_dash_11: among-welcome-text-wrap-menu-clown-december-gasp-advice-bamboo-stove
+bip_39_word_dash_12: among-welcome-text-wrap-menu-clown-december-gasp-advice-bamboo-stove-assist
+bip_39_word_dash_2: among-welcome
+bip_39_word_dash_3: among-welcome-text
+bip_39_word_dash_4: among-welcome-text-wrap
+bip_39_word_dash_5: among-welcome-text-wrap-menu
+bip_39_word_dash_6: among-welcome-text-wrap-menu-clown
+bip_39_word_dash_7: among-welcome-text-wrap-menu-clown-december
+bip_39_word_dash_8: among-welcome-text-wrap-menu-clown-december-gasp
+bip_39_word_dash_9: among-welcome-text-wrap-menu-clown-december-gasp-advice
 bip_39_word_new_br_1: among
 bip_39_word_new_br_10: among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp<br>advice<br>bamboo
 bip_39_word_new_br_11: among<br>welcome<br>text<br>wrap<br>menu<br>clown<br>december<br>gasp<br>advice<br>bamboo<br>stove
@@ -193,6 +205,18 @@ bip_39_word_space_6: among welcome text wrap menu clown
 bip_39_word_space_7: among welcome text wrap menu clown december
 bip_39_word_space_8: among welcome text wrap menu clown december gasp
 bip_39_word_space_9: among welcome text wrap menu clown december gasp advice
+bip_39_word_underscore_1: among
+bip_39_word_underscore_10: among_welcome_text_wrap_menu_clown_december_gasp_advice_bamboo
+bip_39_word_underscore_11: among_welcome_text_wrap_menu_clown_december_gasp_advice_bamboo_stove
+bip_39_word_underscore_12: among_welcome_text_wrap_menu_clown_december_gasp_advice_bamboo_stove_assist
+bip_39_word_underscore_2: among_welcome
+bip_39_word_underscore_3: among_welcome_text
+bip_39_word_underscore_4: among_welcome_text_wrap
+bip_39_word_underscore_5: among_welcome_text_wrap_menu
+bip_39_word_underscore_6: among_welcome_text_wrap_menu_clown
+bip_39_word_underscore_7: among_welcome_text_wrap_menu_clown_december
+bip_39_word_underscore_8: among_welcome_text_wrap_menu_clown_december_gasp
+bip_39_word_underscore_9: among_welcome_text_wrap_menu_clown_december_gasp_advice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

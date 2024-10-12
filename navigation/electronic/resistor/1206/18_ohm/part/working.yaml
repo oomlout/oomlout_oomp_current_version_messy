@@ -1,3 +1,15 @@
+bip_39_word_dash_1: favorite
+bip_39_word_dash_10: favorite-nuclear-truly-unhappy-hover-dinosaur-chef-juice-gown-slim
+bip_39_word_dash_11: favorite-nuclear-truly-unhappy-hover-dinosaur-chef-juice-gown-slim-rice
+bip_39_word_dash_12: favorite-nuclear-truly-unhappy-hover-dinosaur-chef-juice-gown-slim-rice-alley
+bip_39_word_dash_2: favorite-nuclear
+bip_39_word_dash_3: favorite-nuclear-truly
+bip_39_word_dash_4: favorite-nuclear-truly-unhappy
+bip_39_word_dash_5: favorite-nuclear-truly-unhappy-hover
+bip_39_word_dash_6: favorite-nuclear-truly-unhappy-hover-dinosaur
+bip_39_word_dash_7: favorite-nuclear-truly-unhappy-hover-dinosaur-chef
+bip_39_word_dash_8: favorite-nuclear-truly-unhappy-hover-dinosaur-chef-juice
+bip_39_word_dash_9: favorite-nuclear-truly-unhappy-hover-dinosaur-chef-juice-gown
 bip_39_word_new_br_1: favorite
 bip_39_word_new_br_10: favorite<br>nuclear<br>truly<br>unhappy<br>hover<br>dinosaur<br>chef<br>juice<br>gown<br>slim
 bip_39_word_new_br_11: favorite<br>nuclear<br>truly<br>unhappy<br>hover<br>dinosaur<br>chef<br>juice<br>gown<br>slim<br>rice
@@ -194,6 +206,18 @@ bip_39_word_space_6: favorite nuclear truly unhappy hover dinosaur
 bip_39_word_space_7: favorite nuclear truly unhappy hover dinosaur chef
 bip_39_word_space_8: favorite nuclear truly unhappy hover dinosaur chef juice
 bip_39_word_space_9: favorite nuclear truly unhappy hover dinosaur chef juice gown
+bip_39_word_underscore_1: favorite
+bip_39_word_underscore_10: favorite_nuclear_truly_unhappy_hover_dinosaur_chef_juice_gown_slim
+bip_39_word_underscore_11: favorite_nuclear_truly_unhappy_hover_dinosaur_chef_juice_gown_slim_rice
+bip_39_word_underscore_12: favorite_nuclear_truly_unhappy_hover_dinosaur_chef_juice_gown_slim_rice_alley
+bip_39_word_underscore_2: favorite_nuclear
+bip_39_word_underscore_3: favorite_nuclear_truly
+bip_39_word_underscore_4: favorite_nuclear_truly_unhappy
+bip_39_word_underscore_5: favorite_nuclear_truly_unhappy_hover
+bip_39_word_underscore_6: favorite_nuclear_truly_unhappy_hover_dinosaur
+bip_39_word_underscore_7: favorite_nuclear_truly_unhappy_hover_dinosaur_chef
+bip_39_word_underscore_8: favorite_nuclear_truly_unhappy_hover_dinosaur_chef_juice
+bip_39_word_underscore_9: favorite_nuclear_truly_unhappy_hover_dinosaur_chef_juice_gown
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

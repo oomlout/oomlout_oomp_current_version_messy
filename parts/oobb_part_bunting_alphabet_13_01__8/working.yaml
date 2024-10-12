@@ -1,3 +1,15 @@
+bip_39_word_dash_1: abandon
+bip_39_word_dash_10: abandon-belt-waste-tape-alcohol-friend-doctor-boss-deliver-scorpion
+bip_39_word_dash_11: abandon-belt-waste-tape-alcohol-friend-doctor-boss-deliver-scorpion-tube
+bip_39_word_dash_12: abandon-belt-waste-tape-alcohol-friend-doctor-boss-deliver-scorpion-tube-attack
+bip_39_word_dash_2: abandon-belt
+bip_39_word_dash_3: abandon-belt-waste
+bip_39_word_dash_4: abandon-belt-waste-tape
+bip_39_word_dash_5: abandon-belt-waste-tape-alcohol
+bip_39_word_dash_6: abandon-belt-waste-tape-alcohol-friend
+bip_39_word_dash_7: abandon-belt-waste-tape-alcohol-friend-doctor
+bip_39_word_dash_8: abandon-belt-waste-tape-alcohol-friend-doctor-boss
+bip_39_word_dash_9: abandon-belt-waste-tape-alcohol-friend-doctor-boss-deliver
 bip_39_word_new_br_1: abandon
 bip_39_word_new_br_10: abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion
 bip_39_word_new_br_11: abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion<br>tube
@@ -193,6 +205,18 @@ bip_39_word_space_6: abandon belt waste tape alcohol friend
 bip_39_word_space_7: abandon belt waste tape alcohol friend doctor
 bip_39_word_space_8: abandon belt waste tape alcohol friend doctor boss
 bip_39_word_space_9: abandon belt waste tape alcohol friend doctor boss deliver
+bip_39_word_underscore_1: abandon
+bip_39_word_underscore_10: abandon_belt_waste_tape_alcohol_friend_doctor_boss_deliver_scorpion
+bip_39_word_underscore_11: abandon_belt_waste_tape_alcohol_friend_doctor_boss_deliver_scorpion_tube
+bip_39_word_underscore_12: abandon_belt_waste_tape_alcohol_friend_doctor_boss_deliver_scorpion_tube_attack
+bip_39_word_underscore_2: abandon_belt
+bip_39_word_underscore_3: abandon_belt_waste
+bip_39_word_underscore_4: abandon_belt_waste_tape
+bip_39_word_underscore_5: abandon_belt_waste_tape_alcohol
+bip_39_word_underscore_6: abandon_belt_waste_tape_alcohol_friend
+bip_39_word_underscore_7: abandon_belt_waste_tape_alcohol_friend_doctor
+bip_39_word_underscore_8: abandon_belt_waste_tape_alcohol_friend_doctor_boss
+bip_39_word_underscore_9: abandon_belt_waste_tape_alcohol_friend_doctor_boss_deliver
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

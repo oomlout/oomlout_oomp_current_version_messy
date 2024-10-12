@@ -1,3 +1,15 @@
+bip_39_word_dash_1: injury
+bip_39_word_dash_10: injury-eagle-lady-inner-gadget-hip-eight-master-south-fun
+bip_39_word_dash_11: injury-eagle-lady-inner-gadget-hip-eight-master-south-fun-sorry
+bip_39_word_dash_12: injury-eagle-lady-inner-gadget-hip-eight-master-south-fun-sorry-approve
+bip_39_word_dash_2: injury-eagle
+bip_39_word_dash_3: injury-eagle-lady
+bip_39_word_dash_4: injury-eagle-lady-inner
+bip_39_word_dash_5: injury-eagle-lady-inner-gadget
+bip_39_word_dash_6: injury-eagle-lady-inner-gadget-hip
+bip_39_word_dash_7: injury-eagle-lady-inner-gadget-hip-eight
+bip_39_word_dash_8: injury-eagle-lady-inner-gadget-hip-eight-master
+bip_39_word_dash_9: injury-eagle-lady-inner-gadget-hip-eight-master-south
 bip_39_word_new_br_1: injury
 bip_39_word_new_br_10: injury<br>eagle<br>lady<br>inner<br>gadget<br>hip<br>eight<br>master<br>south<br>fun
 bip_39_word_new_br_11: injury<br>eagle<br>lady<br>inner<br>gadget<br>hip<br>eight<br>master<br>south<br>fun<br>sorry
@@ -192,6 +204,18 @@ bip_39_word_space_6: injury eagle lady inner gadget hip
 bip_39_word_space_7: injury eagle lady inner gadget hip eight
 bip_39_word_space_8: injury eagle lady inner gadget hip eight master
 bip_39_word_space_9: injury eagle lady inner gadget hip eight master south
+bip_39_word_underscore_1: injury
+bip_39_word_underscore_10: injury_eagle_lady_inner_gadget_hip_eight_master_south_fun
+bip_39_word_underscore_11: injury_eagle_lady_inner_gadget_hip_eight_master_south_fun_sorry
+bip_39_word_underscore_12: injury_eagle_lady_inner_gadget_hip_eight_master_south_fun_sorry_approve
+bip_39_word_underscore_2: injury_eagle
+bip_39_word_underscore_3: injury_eagle_lady
+bip_39_word_underscore_4: injury_eagle_lady_inner
+bip_39_word_underscore_5: injury_eagle_lady_inner_gadget
+bip_39_word_underscore_6: injury_eagle_lady_inner_gadget_hip
+bip_39_word_underscore_7: injury_eagle_lady_inner_gadget_hip_eight
+bip_39_word_underscore_8: injury_eagle_lady_inner_gadget_hip_eight_master
+bip_39_word_underscore_9: injury_eagle_lady_inner_gadget_hip_eight_master_south
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

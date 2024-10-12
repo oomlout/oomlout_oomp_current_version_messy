@@ -1,3 +1,15 @@
+bip_39_word_dash_1: smooth
+bip_39_word_dash_10: smooth-video-pencil-monkey-believe-laptop-glass-reflect-ordinary-eye
+bip_39_word_dash_11: smooth-video-pencil-monkey-believe-laptop-glass-reflect-ordinary-eye-rude
+bip_39_word_dash_12: smooth-video-pencil-monkey-believe-laptop-glass-reflect-ordinary-eye-rude-audit
+bip_39_word_dash_2: smooth-video
+bip_39_word_dash_3: smooth-video-pencil
+bip_39_word_dash_4: smooth-video-pencil-monkey
+bip_39_word_dash_5: smooth-video-pencil-monkey-believe
+bip_39_word_dash_6: smooth-video-pencil-monkey-believe-laptop
+bip_39_word_dash_7: smooth-video-pencil-monkey-believe-laptop-glass
+bip_39_word_dash_8: smooth-video-pencil-monkey-believe-laptop-glass-reflect
+bip_39_word_dash_9: smooth-video-pencil-monkey-believe-laptop-glass-reflect-ordinary
 bip_39_word_new_br_1: smooth
 bip_39_word_new_br_10: smooth<br>video<br>pencil<br>monkey<br>believe<br>laptop<br>glass<br>reflect<br>ordinary<br>eye
 bip_39_word_new_br_11: smooth<br>video<br>pencil<br>monkey<br>believe<br>laptop<br>glass<br>reflect<br>ordinary<br>eye<br>rude
@@ -194,6 +206,18 @@ bip_39_word_space_6: smooth video pencil monkey believe laptop
 bip_39_word_space_7: smooth video pencil monkey believe laptop glass
 bip_39_word_space_8: smooth video pencil monkey believe laptop glass reflect
 bip_39_word_space_9: smooth video pencil monkey believe laptop glass reflect ordinary
+bip_39_word_underscore_1: smooth
+bip_39_word_underscore_10: smooth_video_pencil_monkey_believe_laptop_glass_reflect_ordinary_eye
+bip_39_word_underscore_11: smooth_video_pencil_monkey_believe_laptop_glass_reflect_ordinary_eye_rude
+bip_39_word_underscore_12: smooth_video_pencil_monkey_believe_laptop_glass_reflect_ordinary_eye_rude_audit
+bip_39_word_underscore_2: smooth_video
+bip_39_word_underscore_3: smooth_video_pencil
+bip_39_word_underscore_4: smooth_video_pencil_monkey
+bip_39_word_underscore_5: smooth_video_pencil_monkey_believe
+bip_39_word_underscore_6: smooth_video_pencil_monkey_believe_laptop
+bip_39_word_underscore_7: smooth_video_pencil_monkey_believe_laptop_glass
+bip_39_word_underscore_8: smooth_video_pencil_monkey_believe_laptop_glass_reflect
+bip_39_word_underscore_9: smooth_video_pencil_monkey_believe_laptop_glass_reflect_ordinary
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

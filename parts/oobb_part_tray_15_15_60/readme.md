@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tube |  
+| bip_39_word_dash_10 | tube-negative-protect-license-sudden-wrestle-audit-drop-solve-soccer |  
+| bip_39_word_dash_11 | tube-negative-protect-license-sudden-wrestle-audit-drop-solve-soccer-loyal |  
+| bip_39_word_dash_12 | tube-negative-protect-license-sudden-wrestle-audit-drop-solve-soccer-loyal-angle |  
+| bip_39_word_dash_2 | tube-negative |  
+| bip_39_word_dash_3 | tube-negative-protect |  
+| bip_39_word_dash_4 | tube-negative-protect-license |  
+| bip_39_word_dash_5 | tube-negative-protect-license-sudden |  
+| bip_39_word_dash_6 | tube-negative-protect-license-sudden-wrestle |  
+| bip_39_word_dash_7 | tube-negative-protect-license-sudden-wrestle-audit |  
+| bip_39_word_dash_8 | tube-negative-protect-license-sudden-wrestle-audit-drop |  
+| bip_39_word_dash_9 | tube-negative-protect-license-sudden-wrestle-audit-drop-solve |  
 | bip_39_word_new_br_1 | tube |  
 | bip_39_word_new_br_10 | tube<br>negative<br>protect<br>license<br>sudden<br>wrestle<br>audit<br>drop<br>solve<br>soccer |  
 | bip_39_word_new_br_11 | tube<br>negative<br>protect<br>license<br>sudden<br>wrestle<br>audit<br>drop<br>solve<br>soccer<br>loyal |  
@@ -147,6 +159,18 @@ solve |
 | bip_39_word_space_7 | tube negative protect license sudden wrestle audit |  
 | bip_39_word_space_8 | tube negative protect license sudden wrestle audit drop |  
 | bip_39_word_space_9 | tube negative protect license sudden wrestle audit drop solve |  
+| bip_39_word_underscore_1 | tube |  
+| bip_39_word_underscore_10 | tube_negative_protect_license_sudden_wrestle_audit_drop_solve_soccer |  
+| bip_39_word_underscore_11 | tube_negative_protect_license_sudden_wrestle_audit_drop_solve_soccer_loyal |  
+| bip_39_word_underscore_12 | tube_negative_protect_license_sudden_wrestle_audit_drop_solve_soccer_loyal_angle |  
+| bip_39_word_underscore_2 | tube_negative |  
+| bip_39_word_underscore_3 | tube_negative_protect |  
+| bip_39_word_underscore_4 | tube_negative_protect_license |  
+| bip_39_word_underscore_5 | tube_negative_protect_license_sudden |  
+| bip_39_word_underscore_6 | tube_negative_protect_license_sudden_wrestle |  
+| bip_39_word_underscore_7 | tube_negative_protect_license_sudden_wrestle_audit |  
+| bip_39_word_underscore_8 | tube_negative_protect_license_sudden_wrestle_audit_drop |  
+| bip_39_word_underscore_9 | tube_negative_protect_license_sudden_wrestle_audit_drop_solve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

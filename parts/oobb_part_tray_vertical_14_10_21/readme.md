@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crumble |  
+| bip_39_word_dash_10 | crumble-night-member-hunt-daring-radio-dry-illegal-bullet-arm |  
+| bip_39_word_dash_11 | crumble-night-member-hunt-daring-radio-dry-illegal-bullet-arm-pair |  
+| bip_39_word_dash_12 | crumble-night-member-hunt-daring-radio-dry-illegal-bullet-arm-pair-across |  
+| bip_39_word_dash_2 | crumble-night |  
+| bip_39_word_dash_3 | crumble-night-member |  
+| bip_39_word_dash_4 | crumble-night-member-hunt |  
+| bip_39_word_dash_5 | crumble-night-member-hunt-daring |  
+| bip_39_word_dash_6 | crumble-night-member-hunt-daring-radio |  
+| bip_39_word_dash_7 | crumble-night-member-hunt-daring-radio-dry |  
+| bip_39_word_dash_8 | crumble-night-member-hunt-daring-radio-dry-illegal |  
+| bip_39_word_dash_9 | crumble-night-member-hunt-daring-radio-dry-illegal-bullet |  
 | bip_39_word_new_br_1 | crumble |  
 | bip_39_word_new_br_10 | crumble<br>night<br>member<br>hunt<br>daring<br>radio<br>dry<br>illegal<br>bullet<br>arm |  
 | bip_39_word_new_br_11 | crumble<br>night<br>member<br>hunt<br>daring<br>radio<br>dry<br>illegal<br>bullet<br>arm<br>pair |  
@@ -147,6 +159,18 @@ bullet |
 | bip_39_word_space_7 | crumble night member hunt daring radio dry |  
 | bip_39_word_space_8 | crumble night member hunt daring radio dry illegal |  
 | bip_39_word_space_9 | crumble night member hunt daring radio dry illegal bullet |  
+| bip_39_word_underscore_1 | crumble |  
+| bip_39_word_underscore_10 | crumble_night_member_hunt_daring_radio_dry_illegal_bullet_arm |  
+| bip_39_word_underscore_11 | crumble_night_member_hunt_daring_radio_dry_illegal_bullet_arm_pair |  
+| bip_39_word_underscore_12 | crumble_night_member_hunt_daring_radio_dry_illegal_bullet_arm_pair_across |  
+| bip_39_word_underscore_2 | crumble_night |  
+| bip_39_word_underscore_3 | crumble_night_member |  
+| bip_39_word_underscore_4 | crumble_night_member_hunt |  
+| bip_39_word_underscore_5 | crumble_night_member_hunt_daring |  
+| bip_39_word_underscore_6 | crumble_night_member_hunt_daring_radio |  
+| bip_39_word_underscore_7 | crumble_night_member_hunt_daring_radio_dry |  
+| bip_39_word_underscore_8 | crumble_night_member_hunt_daring_radio_dry_illegal |  
+| bip_39_word_underscore_9 | crumble_night_member_hunt_daring_radio_dry_illegal_bullet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

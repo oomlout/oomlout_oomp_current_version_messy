@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oak |  
+| bip_39_word_dash_10 | oak-slam-renew-awake-exchange-cave-today-fluid-soon-jump |  
+| bip_39_word_dash_11 | oak-slam-renew-awake-exchange-cave-today-fluid-soon-jump-future |  
+| bip_39_word_dash_12 | oak-slam-renew-awake-exchange-cave-today-fluid-soon-jump-future-approve |  
+| bip_39_word_dash_2 | oak-slam |  
+| bip_39_word_dash_3 | oak-slam-renew |  
+| bip_39_word_dash_4 | oak-slam-renew-awake |  
+| bip_39_word_dash_5 | oak-slam-renew-awake-exchange |  
+| bip_39_word_dash_6 | oak-slam-renew-awake-exchange-cave |  
+| bip_39_word_dash_7 | oak-slam-renew-awake-exchange-cave-today |  
+| bip_39_word_dash_8 | oak-slam-renew-awake-exchange-cave-today-fluid |  
+| bip_39_word_dash_9 | oak-slam-renew-awake-exchange-cave-today-fluid-soon |  
 | bip_39_word_new_br_1 | oak |  
 | bip_39_word_new_br_10 | oak<br>slam<br>renew<br>awake<br>exchange<br>cave<br>today<br>fluid<br>soon<br>jump |  
 | bip_39_word_new_br_11 | oak<br>slam<br>renew<br>awake<br>exchange<br>cave<br>today<br>fluid<br>soon<br>jump<br>future |  
@@ -147,6 +159,18 @@ soon |
 | bip_39_word_space_7 | oak slam renew awake exchange cave today |  
 | bip_39_word_space_8 | oak slam renew awake exchange cave today fluid |  
 | bip_39_word_space_9 | oak slam renew awake exchange cave today fluid soon |  
+| bip_39_word_underscore_1 | oak |  
+| bip_39_word_underscore_10 | oak_slam_renew_awake_exchange_cave_today_fluid_soon_jump |  
+| bip_39_word_underscore_11 | oak_slam_renew_awake_exchange_cave_today_fluid_soon_jump_future |  
+| bip_39_word_underscore_12 | oak_slam_renew_awake_exchange_cave_today_fluid_soon_jump_future_approve |  
+| bip_39_word_underscore_2 | oak_slam |  
+| bip_39_word_underscore_3 | oak_slam_renew |  
+| bip_39_word_underscore_4 | oak_slam_renew_awake |  
+| bip_39_word_underscore_5 | oak_slam_renew_awake_exchange |  
+| bip_39_word_underscore_6 | oak_slam_renew_awake_exchange_cave |  
+| bip_39_word_underscore_7 | oak_slam_renew_awake_exchange_cave_today |  
+| bip_39_word_underscore_8 | oak_slam_renew_awake_exchange_cave_today_fluid |  
+| bip_39_word_underscore_9 | oak_slam_renew_awake_exchange_cave_today_fluid_soon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

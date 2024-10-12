@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dawn |  
+| bip_39_word_dash_10 | dawn-angry-dose-spend-nice-extend-bonus-example-describe-tip |  
+| bip_39_word_dash_11 | dawn-angry-dose-spend-nice-extend-bonus-example-describe-tip-donor |  
+| bip_39_word_dash_12 | dawn-angry-dose-spend-nice-extend-bonus-example-describe-tip-donor-always |  
+| bip_39_word_dash_2 | dawn-angry |  
+| bip_39_word_dash_3 | dawn-angry-dose |  
+| bip_39_word_dash_4 | dawn-angry-dose-spend |  
+| bip_39_word_dash_5 | dawn-angry-dose-spend-nice |  
+| bip_39_word_dash_6 | dawn-angry-dose-spend-nice-extend |  
+| bip_39_word_dash_7 | dawn-angry-dose-spend-nice-extend-bonus |  
+| bip_39_word_dash_8 | dawn-angry-dose-spend-nice-extend-bonus-example |  
+| bip_39_word_dash_9 | dawn-angry-dose-spend-nice-extend-bonus-example-describe |  
 | bip_39_word_new_br_1 | dawn |  
 | bip_39_word_new_br_10 | dawn<br>angry<br>dose<br>spend<br>nice<br>extend<br>bonus<br>example<br>describe<br>tip |  
 | bip_39_word_new_br_11 | dawn<br>angry<br>dose<br>spend<br>nice<br>extend<br>bonus<br>example<br>describe<br>tip<br>donor |  
@@ -147,6 +159,18 @@ describe |
 | bip_39_word_space_7 | dawn angry dose spend nice extend bonus |  
 | bip_39_word_space_8 | dawn angry dose spend nice extend bonus example |  
 | bip_39_word_space_9 | dawn angry dose spend nice extend bonus example describe |  
+| bip_39_word_underscore_1 | dawn |  
+| bip_39_word_underscore_10 | dawn_angry_dose_spend_nice_extend_bonus_example_describe_tip |  
+| bip_39_word_underscore_11 | dawn_angry_dose_spend_nice_extend_bonus_example_describe_tip_donor |  
+| bip_39_word_underscore_12 | dawn_angry_dose_spend_nice_extend_bonus_example_describe_tip_donor_always |  
+| bip_39_word_underscore_2 | dawn_angry |  
+| bip_39_word_underscore_3 | dawn_angry_dose |  
+| bip_39_word_underscore_4 | dawn_angry_dose_spend |  
+| bip_39_word_underscore_5 | dawn_angry_dose_spend_nice |  
+| bip_39_word_underscore_6 | dawn_angry_dose_spend_nice_extend |  
+| bip_39_word_underscore_7 | dawn_angry_dose_spend_nice_extend_bonus |  
+| bip_39_word_underscore_8 | dawn_angry_dose_spend_nice_extend_bonus_example |  
+| bip_39_word_underscore_9 | dawn_angry_dose_spend_nice_extend_bonus_example_describe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

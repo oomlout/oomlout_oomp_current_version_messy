@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | answer |  
+| bip_39_word_dash_10 | answer-talent-cave-season-stand-gas-frozen-obtain-hurdle-apple |  
+| bip_39_word_dash_11 | answer-talent-cave-season-stand-gas-frozen-obtain-hurdle-apple-cliff |  
+| bip_39_word_dash_12 | answer-talent-cave-season-stand-gas-frozen-obtain-hurdle-apple-cliff-armor |  
+| bip_39_word_dash_2 | answer-talent |  
+| bip_39_word_dash_3 | answer-talent-cave |  
+| bip_39_word_dash_4 | answer-talent-cave-season |  
+| bip_39_word_dash_5 | answer-talent-cave-season-stand |  
+| bip_39_word_dash_6 | answer-talent-cave-season-stand-gas |  
+| bip_39_word_dash_7 | answer-talent-cave-season-stand-gas-frozen |  
+| bip_39_word_dash_8 | answer-talent-cave-season-stand-gas-frozen-obtain |  
+| bip_39_word_dash_9 | answer-talent-cave-season-stand-gas-frozen-obtain-hurdle |  
 | bip_39_word_new_br_1 | answer |  
 | bip_39_word_new_br_10 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple |  
 | bip_39_word_new_br_11 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple<br>cliff |  
@@ -147,6 +159,18 @@ hurdle |
 | bip_39_word_space_7 | answer talent cave season stand gas frozen |  
 | bip_39_word_space_8 | answer talent cave season stand gas frozen obtain |  
 | bip_39_word_space_9 | answer talent cave season stand gas frozen obtain hurdle |  
+| bip_39_word_underscore_1 | answer |  
+| bip_39_word_underscore_10 | answer_talent_cave_season_stand_gas_frozen_obtain_hurdle_apple |  
+| bip_39_word_underscore_11 | answer_talent_cave_season_stand_gas_frozen_obtain_hurdle_apple_cliff |  
+| bip_39_word_underscore_12 | answer_talent_cave_season_stand_gas_frozen_obtain_hurdle_apple_cliff_armor |  
+| bip_39_word_underscore_2 | answer_talent |  
+| bip_39_word_underscore_3 | answer_talent_cave |  
+| bip_39_word_underscore_4 | answer_talent_cave_season |  
+| bip_39_word_underscore_5 | answer_talent_cave_season_stand |  
+| bip_39_word_underscore_6 | answer_talent_cave_season_stand_gas |  
+| bip_39_word_underscore_7 | answer_talent_cave_season_stand_gas_frozen |  
+| bip_39_word_underscore_8 | answer_talent_cave_season_stand_gas_frozen_obtain |  
+| bip_39_word_underscore_9 | answer_talent_cave_season_stand_gas_frozen_obtain_hurdle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

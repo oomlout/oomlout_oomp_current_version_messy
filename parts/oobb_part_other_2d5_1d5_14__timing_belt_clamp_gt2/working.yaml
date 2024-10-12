@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tuna
+bip_39_word_dash_10: tuna-vocal-shallow-faculty-sense-burden-situate-fantasy-member-myth
+bip_39_word_dash_11: tuna-vocal-shallow-faculty-sense-burden-situate-fantasy-member-myth-verb
+bip_39_word_dash_12: tuna-vocal-shallow-faculty-sense-burden-situate-fantasy-member-myth-verb-arrive
+bip_39_word_dash_2: tuna-vocal
+bip_39_word_dash_3: tuna-vocal-shallow
+bip_39_word_dash_4: tuna-vocal-shallow-faculty
+bip_39_word_dash_5: tuna-vocal-shallow-faculty-sense
+bip_39_word_dash_6: tuna-vocal-shallow-faculty-sense-burden
+bip_39_word_dash_7: tuna-vocal-shallow-faculty-sense-burden-situate
+bip_39_word_dash_8: tuna-vocal-shallow-faculty-sense-burden-situate-fantasy
+bip_39_word_dash_9: tuna-vocal-shallow-faculty-sense-burden-situate-fantasy-member
 bip_39_word_new_br_1: tuna
 bip_39_word_new_br_10: tuna<br>vocal<br>shallow<br>faculty<br>sense<br>burden<br>situate<br>fantasy<br>member<br>myth
 bip_39_word_new_br_11: tuna<br>vocal<br>shallow<br>faculty<br>sense<br>burden<br>situate<br>fantasy<br>member<br>myth<br>verb
@@ -194,6 +206,18 @@ bip_39_word_space_6: tuna vocal shallow faculty sense burden
 bip_39_word_space_7: tuna vocal shallow faculty sense burden situate
 bip_39_word_space_8: tuna vocal shallow faculty sense burden situate fantasy
 bip_39_word_space_9: tuna vocal shallow faculty sense burden situate fantasy member
+bip_39_word_underscore_1: tuna
+bip_39_word_underscore_10: tuna_vocal_shallow_faculty_sense_burden_situate_fantasy_member_myth
+bip_39_word_underscore_11: tuna_vocal_shallow_faculty_sense_burden_situate_fantasy_member_myth_verb
+bip_39_word_underscore_12: tuna_vocal_shallow_faculty_sense_burden_situate_fantasy_member_myth_verb_arrive
+bip_39_word_underscore_2: tuna_vocal
+bip_39_word_underscore_3: tuna_vocal_shallow
+bip_39_word_underscore_4: tuna_vocal_shallow_faculty
+bip_39_word_underscore_5: tuna_vocal_shallow_faculty_sense
+bip_39_word_underscore_6: tuna_vocal_shallow_faculty_sense_burden
+bip_39_word_underscore_7: tuna_vocal_shallow_faculty_sense_burden_situate
+bip_39_word_underscore_8: tuna_vocal_shallow_faculty_sense_burden_situate_fantasy
+bip_39_word_underscore_9: tuna_vocal_shallow_faculty_sense_burden_situate_fantasy_member
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

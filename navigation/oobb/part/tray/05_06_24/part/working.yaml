@@ -1,3 +1,15 @@
+bip_39_word_dash_1: candy
+bip_39_word_dash_10: candy-amazing-mansion-still-real-stock-caught-wool-burden-boring
+bip_39_word_dash_11: candy-amazing-mansion-still-real-stock-caught-wool-burden-boring-exchange
+bip_39_word_dash_12: candy-amazing-mansion-still-real-stock-caught-wool-burden-boring-exchange-announce
+bip_39_word_dash_2: candy-amazing
+bip_39_word_dash_3: candy-amazing-mansion
+bip_39_word_dash_4: candy-amazing-mansion-still
+bip_39_word_dash_5: candy-amazing-mansion-still-real
+bip_39_word_dash_6: candy-amazing-mansion-still-real-stock
+bip_39_word_dash_7: candy-amazing-mansion-still-real-stock-caught
+bip_39_word_dash_8: candy-amazing-mansion-still-real-stock-caught-wool
+bip_39_word_dash_9: candy-amazing-mansion-still-real-stock-caught-wool-burden
 bip_39_word_new_br_1: candy
 bip_39_word_new_br_10: candy<br>amazing<br>mansion<br>still<br>real<br>stock<br>caught<br>wool<br>burden<br>boring
 bip_39_word_new_br_11: candy<br>amazing<br>mansion<br>still<br>real<br>stock<br>caught<br>wool<br>burden<br>boring<br>exchange
@@ -193,6 +205,18 @@ bip_39_word_space_6: candy amazing mansion still real stock
 bip_39_word_space_7: candy amazing mansion still real stock caught
 bip_39_word_space_8: candy amazing mansion still real stock caught wool
 bip_39_word_space_9: candy amazing mansion still real stock caught wool burden
+bip_39_word_underscore_1: candy
+bip_39_word_underscore_10: candy_amazing_mansion_still_real_stock_caught_wool_burden_boring
+bip_39_word_underscore_11: candy_amazing_mansion_still_real_stock_caught_wool_burden_boring_exchange
+bip_39_word_underscore_12: candy_amazing_mansion_still_real_stock_caught_wool_burden_boring_exchange_announce
+bip_39_word_underscore_2: candy_amazing
+bip_39_word_underscore_3: candy_amazing_mansion
+bip_39_word_underscore_4: candy_amazing_mansion_still
+bip_39_word_underscore_5: candy_amazing_mansion_still_real
+bip_39_word_underscore_6: candy_amazing_mansion_still_real_stock
+bip_39_word_underscore_7: candy_amazing_mansion_still_real_stock_caught
+bip_39_word_underscore_8: candy_amazing_mansion_still_real_stock_caught_wool
+bip_39_word_underscore_9: candy_amazing_mansion_still_real_stock_caught_wool_burden
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

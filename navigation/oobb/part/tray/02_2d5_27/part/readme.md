@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | box |  
+| bip_39_word_dash_10 | box-laptop-patch-bottom-deposit-gown-shoulder-palm-fame-crisp |  
+| bip_39_word_dash_11 | box-laptop-patch-bottom-deposit-gown-shoulder-palm-fame-crisp-close |  
+| bip_39_word_dash_12 | box-laptop-patch-bottom-deposit-gown-shoulder-palm-fame-crisp-close-alone |  
+| bip_39_word_dash_2 | box-laptop |  
+| bip_39_word_dash_3 | box-laptop-patch |  
+| bip_39_word_dash_4 | box-laptop-patch-bottom |  
+| bip_39_word_dash_5 | box-laptop-patch-bottom-deposit |  
+| bip_39_word_dash_6 | box-laptop-patch-bottom-deposit-gown |  
+| bip_39_word_dash_7 | box-laptop-patch-bottom-deposit-gown-shoulder |  
+| bip_39_word_dash_8 | box-laptop-patch-bottom-deposit-gown-shoulder-palm |  
+| bip_39_word_dash_9 | box-laptop-patch-bottom-deposit-gown-shoulder-palm-fame |  
 | bip_39_word_new_br_1 | box |  
 | bip_39_word_new_br_10 | box<br>laptop<br>patch<br>bottom<br>deposit<br>gown<br>shoulder<br>palm<br>fame<br>crisp |  
 | bip_39_word_new_br_11 | box<br>laptop<br>patch<br>bottom<br>deposit<br>gown<br>shoulder<br>palm<br>fame<br>crisp<br>close |  
@@ -147,6 +159,18 @@ fame |
 | bip_39_word_space_7 | box laptop patch bottom deposit gown shoulder |  
 | bip_39_word_space_8 | box laptop patch bottom deposit gown shoulder palm |  
 | bip_39_word_space_9 | box laptop patch bottom deposit gown shoulder palm fame |  
+| bip_39_word_underscore_1 | box |  
+| bip_39_word_underscore_10 | box_laptop_patch_bottom_deposit_gown_shoulder_palm_fame_crisp |  
+| bip_39_word_underscore_11 | box_laptop_patch_bottom_deposit_gown_shoulder_palm_fame_crisp_close |  
+| bip_39_word_underscore_12 | box_laptop_patch_bottom_deposit_gown_shoulder_palm_fame_crisp_close_alone |  
+| bip_39_word_underscore_2 | box_laptop |  
+| bip_39_word_underscore_3 | box_laptop_patch |  
+| bip_39_word_underscore_4 | box_laptop_patch_bottom |  
+| bip_39_word_underscore_5 | box_laptop_patch_bottom_deposit |  
+| bip_39_word_underscore_6 | box_laptop_patch_bottom_deposit_gown |  
+| bip_39_word_underscore_7 | box_laptop_patch_bottom_deposit_gown_shoulder |  
+| bip_39_word_underscore_8 | box_laptop_patch_bottom_deposit_gown_shoulder_palm |  
+| bip_39_word_underscore_9 | box_laptop_patch_bottom_deposit_gown_shoulder_palm_fame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

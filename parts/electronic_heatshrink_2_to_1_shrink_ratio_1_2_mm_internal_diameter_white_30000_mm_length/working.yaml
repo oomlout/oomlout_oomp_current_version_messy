@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gadget
+bip_39_word_dash_10: gadget-model-crazy-fancy-there-wing-old-attend-later-shy
+bip_39_word_dash_11: gadget-model-crazy-fancy-there-wing-old-attend-later-shy-assume
+bip_39_word_dash_12: gadget-model-crazy-fancy-there-wing-old-attend-later-shy-assume-approve
+bip_39_word_dash_2: gadget-model
+bip_39_word_dash_3: gadget-model-crazy
+bip_39_word_dash_4: gadget-model-crazy-fancy
+bip_39_word_dash_5: gadget-model-crazy-fancy-there
+bip_39_word_dash_6: gadget-model-crazy-fancy-there-wing
+bip_39_word_dash_7: gadget-model-crazy-fancy-there-wing-old
+bip_39_word_dash_8: gadget-model-crazy-fancy-there-wing-old-attend
+bip_39_word_dash_9: gadget-model-crazy-fancy-there-wing-old-attend-later
 bip_39_word_new_br_1: gadget
 bip_39_word_new_br_10: gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy
 bip_39_word_new_br_11: gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy<br>assume
@@ -192,6 +204,18 @@ bip_39_word_space_6: gadget model crazy fancy there wing
 bip_39_word_space_7: gadget model crazy fancy there wing old
 bip_39_word_space_8: gadget model crazy fancy there wing old attend
 bip_39_word_space_9: gadget model crazy fancy there wing old attend later
+bip_39_word_underscore_1: gadget
+bip_39_word_underscore_10: gadget_model_crazy_fancy_there_wing_old_attend_later_shy
+bip_39_word_underscore_11: gadget_model_crazy_fancy_there_wing_old_attend_later_shy_assume
+bip_39_word_underscore_12: gadget_model_crazy_fancy_there_wing_old_attend_later_shy_assume_approve
+bip_39_word_underscore_2: gadget_model
+bip_39_word_underscore_3: gadget_model_crazy
+bip_39_word_underscore_4: gadget_model_crazy_fancy
+bip_39_word_underscore_5: gadget_model_crazy_fancy_there
+bip_39_word_underscore_6: gadget_model_crazy_fancy_there_wing
+bip_39_word_underscore_7: gadget_model_crazy_fancy_there_wing_old
+bip_39_word_underscore_8: gadget_model_crazy_fancy_there_wing_old_attend
+bip_39_word_underscore_9: gadget_model_crazy_fancy_there_wing_old_attend_later
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

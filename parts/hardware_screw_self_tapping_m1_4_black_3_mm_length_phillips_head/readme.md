@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | awesome |  
+| bip_39_word_dash_10 | awesome-myth-sleep-galaxy-lobster-wolf-potato-skate-pattern-west |  
+| bip_39_word_dash_11 | awesome-myth-sleep-galaxy-lobster-wolf-potato-skate-pattern-west-shadow |  
+| bip_39_word_dash_12 | awesome-myth-sleep-galaxy-lobster-wolf-potato-skate-pattern-west-shadow-abstract |  
+| bip_39_word_dash_2 | awesome-myth |  
+| bip_39_word_dash_3 | awesome-myth-sleep |  
+| bip_39_word_dash_4 | awesome-myth-sleep-galaxy |  
+| bip_39_word_dash_5 | awesome-myth-sleep-galaxy-lobster |  
+| bip_39_word_dash_6 | awesome-myth-sleep-galaxy-lobster-wolf |  
+| bip_39_word_dash_7 | awesome-myth-sleep-galaxy-lobster-wolf-potato |  
+| bip_39_word_dash_8 | awesome-myth-sleep-galaxy-lobster-wolf-potato-skate |  
+| bip_39_word_dash_9 | awesome-myth-sleep-galaxy-lobster-wolf-potato-skate-pattern |  
 | bip_39_word_new_br_1 | awesome |  
 | bip_39_word_new_br_10 | awesome<br>myth<br>sleep<br>galaxy<br>lobster<br>wolf<br>potato<br>skate<br>pattern<br>west |  
 | bip_39_word_new_br_11 | awesome<br>myth<br>sleep<br>galaxy<br>lobster<br>wolf<br>potato<br>skate<br>pattern<br>west<br>shadow |  
@@ -147,6 +159,18 @@ pattern |
 | bip_39_word_space_7 | awesome myth sleep galaxy lobster wolf potato |  
 | bip_39_word_space_8 | awesome myth sleep galaxy lobster wolf potato skate |  
 | bip_39_word_space_9 | awesome myth sleep galaxy lobster wolf potato skate pattern |  
+| bip_39_word_underscore_1 | awesome |  
+| bip_39_word_underscore_10 | awesome_myth_sleep_galaxy_lobster_wolf_potato_skate_pattern_west |  
+| bip_39_word_underscore_11 | awesome_myth_sleep_galaxy_lobster_wolf_potato_skate_pattern_west_shadow |  
+| bip_39_word_underscore_12 | awesome_myth_sleep_galaxy_lobster_wolf_potato_skate_pattern_west_shadow_abstract |  
+| bip_39_word_underscore_2 | awesome_myth |  
+| bip_39_word_underscore_3 | awesome_myth_sleep |  
+| bip_39_word_underscore_4 | awesome_myth_sleep_galaxy |  
+| bip_39_word_underscore_5 | awesome_myth_sleep_galaxy_lobster |  
+| bip_39_word_underscore_6 | awesome_myth_sleep_galaxy_lobster_wolf |  
+| bip_39_word_underscore_7 | awesome_myth_sleep_galaxy_lobster_wolf_potato |  
+| bip_39_word_underscore_8 | awesome_myth_sleep_galaxy_lobster_wolf_potato_skate |  
+| bip_39_word_underscore_9 | awesome_myth_sleep_galaxy_lobster_wolf_potato_skate_pattern |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

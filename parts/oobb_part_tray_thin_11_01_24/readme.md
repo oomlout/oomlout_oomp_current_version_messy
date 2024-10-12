@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | creek |  
+| bip_39_word_dash_10 | creek-pilot-pond-season-catalog-divide-clarify-hello-alcohol-awful |  
+| bip_39_word_dash_11 | creek-pilot-pond-season-catalog-divide-clarify-hello-alcohol-awful-find |  
+| bip_39_word_dash_12 | creek-pilot-pond-season-catalog-divide-clarify-hello-alcohol-awful-find-absorb |  
+| bip_39_word_dash_2 | creek-pilot |  
+| bip_39_word_dash_3 | creek-pilot-pond |  
+| bip_39_word_dash_4 | creek-pilot-pond-season |  
+| bip_39_word_dash_5 | creek-pilot-pond-season-catalog |  
+| bip_39_word_dash_6 | creek-pilot-pond-season-catalog-divide |  
+| bip_39_word_dash_7 | creek-pilot-pond-season-catalog-divide-clarify |  
+| bip_39_word_dash_8 | creek-pilot-pond-season-catalog-divide-clarify-hello |  
+| bip_39_word_dash_9 | creek-pilot-pond-season-catalog-divide-clarify-hello-alcohol |  
 | bip_39_word_new_br_1 | creek |  
 | bip_39_word_new_br_10 | creek<br>pilot<br>pond<br>season<br>catalog<br>divide<br>clarify<br>hello<br>alcohol<br>awful |  
 | bip_39_word_new_br_11 | creek<br>pilot<br>pond<br>season<br>catalog<br>divide<br>clarify<br>hello<br>alcohol<br>awful<br>find |  
@@ -147,6 +159,18 @@ alcohol |
 | bip_39_word_space_7 | creek pilot pond season catalog divide clarify |  
 | bip_39_word_space_8 | creek pilot pond season catalog divide clarify hello |  
 | bip_39_word_space_9 | creek pilot pond season catalog divide clarify hello alcohol |  
+| bip_39_word_underscore_1 | creek |  
+| bip_39_word_underscore_10 | creek_pilot_pond_season_catalog_divide_clarify_hello_alcohol_awful |  
+| bip_39_word_underscore_11 | creek_pilot_pond_season_catalog_divide_clarify_hello_alcohol_awful_find |  
+| bip_39_word_underscore_12 | creek_pilot_pond_season_catalog_divide_clarify_hello_alcohol_awful_find_absorb |  
+| bip_39_word_underscore_2 | creek_pilot |  
+| bip_39_word_underscore_3 | creek_pilot_pond |  
+| bip_39_word_underscore_4 | creek_pilot_pond_season |  
+| bip_39_word_underscore_5 | creek_pilot_pond_season_catalog |  
+| bip_39_word_underscore_6 | creek_pilot_pond_season_catalog_divide |  
+| bip_39_word_underscore_7 | creek_pilot_pond_season_catalog_divide_clarify |  
+| bip_39_word_underscore_8 | creek_pilot_pond_season_catalog_divide_clarify_hello |  
+| bip_39_word_underscore_9 | creek_pilot_pond_season_catalog_divide_clarify_hello_alcohol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

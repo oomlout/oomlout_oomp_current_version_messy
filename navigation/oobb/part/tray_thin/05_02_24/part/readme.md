@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oak |  
+| bip_39_word_dash_10 | oak-cactus-drive-hour-unhappy-approve-noodle-sample-price-property |  
+| bip_39_word_dash_11 | oak-cactus-drive-hour-unhappy-approve-noodle-sample-price-property-minute |  
+| bip_39_word_dash_12 | oak-cactus-drive-hour-unhappy-approve-noodle-sample-price-property-minute-always |  
+| bip_39_word_dash_2 | oak-cactus |  
+| bip_39_word_dash_3 | oak-cactus-drive |  
+| bip_39_word_dash_4 | oak-cactus-drive-hour |  
+| bip_39_word_dash_5 | oak-cactus-drive-hour-unhappy |  
+| bip_39_word_dash_6 | oak-cactus-drive-hour-unhappy-approve |  
+| bip_39_word_dash_7 | oak-cactus-drive-hour-unhappy-approve-noodle |  
+| bip_39_word_dash_8 | oak-cactus-drive-hour-unhappy-approve-noodle-sample |  
+| bip_39_word_dash_9 | oak-cactus-drive-hour-unhappy-approve-noodle-sample-price |  
 | bip_39_word_new_br_1 | oak |  
 | bip_39_word_new_br_10 | oak<br>cactus<br>drive<br>hour<br>unhappy<br>approve<br>noodle<br>sample<br>price<br>property |  
 | bip_39_word_new_br_11 | oak<br>cactus<br>drive<br>hour<br>unhappy<br>approve<br>noodle<br>sample<br>price<br>property<br>minute |  
@@ -147,6 +159,18 @@ price |
 | bip_39_word_space_7 | oak cactus drive hour unhappy approve noodle |  
 | bip_39_word_space_8 | oak cactus drive hour unhappy approve noodle sample |  
 | bip_39_word_space_9 | oak cactus drive hour unhappy approve noodle sample price |  
+| bip_39_word_underscore_1 | oak |  
+| bip_39_word_underscore_10 | oak_cactus_drive_hour_unhappy_approve_noodle_sample_price_property |  
+| bip_39_word_underscore_11 | oak_cactus_drive_hour_unhappy_approve_noodle_sample_price_property_minute |  
+| bip_39_word_underscore_12 | oak_cactus_drive_hour_unhappy_approve_noodle_sample_price_property_minute_always |  
+| bip_39_word_underscore_2 | oak_cactus |  
+| bip_39_word_underscore_3 | oak_cactus_drive |  
+| bip_39_word_underscore_4 | oak_cactus_drive_hour |  
+| bip_39_word_underscore_5 | oak_cactus_drive_hour_unhappy |  
+| bip_39_word_underscore_6 | oak_cactus_drive_hour_unhappy_approve |  
+| bip_39_word_underscore_7 | oak_cactus_drive_hour_unhappy_approve_noodle |  
+| bip_39_word_underscore_8 | oak_cactus_drive_hour_unhappy_approve_noodle_sample |  
+| bip_39_word_underscore_9 | oak_cactus_drive_hour_unhappy_approve_noodle_sample_price |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

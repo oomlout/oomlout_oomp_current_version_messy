@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burden |  
+| bip_39_word_dash_10 | burden-early-fade-sea-angry-budget-topic-gallery-action-inspire |  
+| bip_39_word_dash_11 | burden-early-fade-sea-angry-budget-topic-gallery-action-inspire-inspire |  
+| bip_39_word_dash_12 | burden-early-fade-sea-angry-budget-topic-gallery-action-inspire-inspire-agree |  
+| bip_39_word_dash_2 | burden-early |  
+| bip_39_word_dash_3 | burden-early-fade |  
+| bip_39_word_dash_4 | burden-early-fade-sea |  
+| bip_39_word_dash_5 | burden-early-fade-sea-angry |  
+| bip_39_word_dash_6 | burden-early-fade-sea-angry-budget |  
+| bip_39_word_dash_7 | burden-early-fade-sea-angry-budget-topic |  
+| bip_39_word_dash_8 | burden-early-fade-sea-angry-budget-topic-gallery |  
+| bip_39_word_dash_9 | burden-early-fade-sea-angry-budget-topic-gallery-action |  
 | bip_39_word_new_br_1 | burden |  
 | bip_39_word_new_br_10 | burden<br>early<br>fade<br>sea<br>angry<br>budget<br>topic<br>gallery<br>action<br>inspire |  
 | bip_39_word_new_br_11 | burden<br>early<br>fade<br>sea<br>angry<br>budget<br>topic<br>gallery<br>action<br>inspire<br>inspire |  
@@ -147,6 +159,18 @@ action |
 | bip_39_word_space_7 | burden early fade sea angry budget topic |  
 | bip_39_word_space_8 | burden early fade sea angry budget topic gallery |  
 | bip_39_word_space_9 | burden early fade sea angry budget topic gallery action |  
+| bip_39_word_underscore_1 | burden |  
+| bip_39_word_underscore_10 | burden_early_fade_sea_angry_budget_topic_gallery_action_inspire |  
+| bip_39_word_underscore_11 | burden_early_fade_sea_angry_budget_topic_gallery_action_inspire_inspire |  
+| bip_39_word_underscore_12 | burden_early_fade_sea_angry_budget_topic_gallery_action_inspire_inspire_agree |  
+| bip_39_word_underscore_2 | burden_early |  
+| bip_39_word_underscore_3 | burden_early_fade |  
+| bip_39_word_underscore_4 | burden_early_fade_sea |  
+| bip_39_word_underscore_5 | burden_early_fade_sea_angry |  
+| bip_39_word_underscore_6 | burden_early_fade_sea_angry_budget |  
+| bip_39_word_underscore_7 | burden_early_fade_sea_angry_budget_topic |  
+| bip_39_word_underscore_8 | burden_early_fade_sea_angry_budget_topic_gallery |  
+| bip_39_word_underscore_9 | burden_early_fade_sea_angry_budget_topic_gallery_action |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

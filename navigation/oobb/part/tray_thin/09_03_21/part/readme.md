@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brick |  
+| bip_39_word_dash_10 | brick-athlete-anger-unhappy-book-pepper-stick-long-robot-eager |  
+| bip_39_word_dash_11 | brick-athlete-anger-unhappy-book-pepper-stick-long-robot-eager-minimum |  
+| bip_39_word_dash_12 | brick-athlete-anger-unhappy-book-pepper-stick-long-robot-eager-minimum-arrow |  
+| bip_39_word_dash_2 | brick-athlete |  
+| bip_39_word_dash_3 | brick-athlete-anger |  
+| bip_39_word_dash_4 | brick-athlete-anger-unhappy |  
+| bip_39_word_dash_5 | brick-athlete-anger-unhappy-book |  
+| bip_39_word_dash_6 | brick-athlete-anger-unhappy-book-pepper |  
+| bip_39_word_dash_7 | brick-athlete-anger-unhappy-book-pepper-stick |  
+| bip_39_word_dash_8 | brick-athlete-anger-unhappy-book-pepper-stick-long |  
+| bip_39_word_dash_9 | brick-athlete-anger-unhappy-book-pepper-stick-long-robot |  
 | bip_39_word_new_br_1 | brick |  
 | bip_39_word_new_br_10 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager |  
 | bip_39_word_new_br_11 | brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager<br>minimum |  
@@ -147,6 +159,18 @@ robot |
 | bip_39_word_space_7 | brick athlete anger unhappy book pepper stick |  
 | bip_39_word_space_8 | brick athlete anger unhappy book pepper stick long |  
 | bip_39_word_space_9 | brick athlete anger unhappy book pepper stick long robot |  
+| bip_39_word_underscore_1 | brick |  
+| bip_39_word_underscore_10 | brick_athlete_anger_unhappy_book_pepper_stick_long_robot_eager |  
+| bip_39_word_underscore_11 | brick_athlete_anger_unhappy_book_pepper_stick_long_robot_eager_minimum |  
+| bip_39_word_underscore_12 | brick_athlete_anger_unhappy_book_pepper_stick_long_robot_eager_minimum_arrow |  
+| bip_39_word_underscore_2 | brick_athlete |  
+| bip_39_word_underscore_3 | brick_athlete_anger |  
+| bip_39_word_underscore_4 | brick_athlete_anger_unhappy |  
+| bip_39_word_underscore_5 | brick_athlete_anger_unhappy_book |  
+| bip_39_word_underscore_6 | brick_athlete_anger_unhappy_book_pepper |  
+| bip_39_word_underscore_7 | brick_athlete_anger_unhappy_book_pepper_stick |  
+| bip_39_word_underscore_8 | brick_athlete_anger_unhappy_book_pepper_stick_long |  
+| bip_39_word_underscore_9 | brick_athlete_anger_unhappy_book_pepper_stick_long_robot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

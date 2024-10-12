@@ -1,3 +1,15 @@
+bip_39_word_dash_1: limit
+bip_39_word_dash_10: limit-buzz-depth-only-coffee-claim-wise-fork-van-tag
+bip_39_word_dash_11: limit-buzz-depth-only-coffee-claim-wise-fork-van-tag-nose
+bip_39_word_dash_12: limit-buzz-depth-only-coffee-claim-wise-fork-van-tag-nose-auction
+bip_39_word_dash_2: limit-buzz
+bip_39_word_dash_3: limit-buzz-depth
+bip_39_word_dash_4: limit-buzz-depth-only
+bip_39_word_dash_5: limit-buzz-depth-only-coffee
+bip_39_word_dash_6: limit-buzz-depth-only-coffee-claim
+bip_39_word_dash_7: limit-buzz-depth-only-coffee-claim-wise
+bip_39_word_dash_8: limit-buzz-depth-only-coffee-claim-wise-fork
+bip_39_word_dash_9: limit-buzz-depth-only-coffee-claim-wise-fork-van
 bip_39_word_new_br_1: limit
 bip_39_word_new_br_10: limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag
 bip_39_word_new_br_11: limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag<br>nose
@@ -191,6 +203,18 @@ bip_39_word_space_6: limit buzz depth only coffee claim
 bip_39_word_space_7: limit buzz depth only coffee claim wise
 bip_39_word_space_8: limit buzz depth only coffee claim wise fork
 bip_39_word_space_9: limit buzz depth only coffee claim wise fork van
+bip_39_word_underscore_1: limit
+bip_39_word_underscore_10: limit_buzz_depth_only_coffee_claim_wise_fork_van_tag
+bip_39_word_underscore_11: limit_buzz_depth_only_coffee_claim_wise_fork_van_tag_nose
+bip_39_word_underscore_12: limit_buzz_depth_only_coffee_claim_wise_fork_van_tag_nose_auction
+bip_39_word_underscore_2: limit_buzz
+bip_39_word_underscore_3: limit_buzz_depth
+bip_39_word_underscore_4: limit_buzz_depth_only
+bip_39_word_underscore_5: limit_buzz_depth_only_coffee
+bip_39_word_underscore_6: limit_buzz_depth_only_coffee_claim
+bip_39_word_underscore_7: limit_buzz_depth_only_coffee_claim_wise
+bip_39_word_underscore_8: limit_buzz_depth_only_coffee_claim_wise_fork
+bip_39_word_underscore_9: limit_buzz_depth_only_coffee_claim_wise_fork_van
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

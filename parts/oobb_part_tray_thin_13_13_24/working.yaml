@@ -1,3 +1,15 @@
+bip_39_word_dash_1: reunion
+bip_39_word_dash_10: reunion-palm-erupt-sun-ketchup-leave-kick-peace-worry-twice
+bip_39_word_dash_11: reunion-palm-erupt-sun-ketchup-leave-kick-peace-worry-twice-flock
+bip_39_word_dash_12: reunion-palm-erupt-sun-ketchup-leave-kick-peace-worry-twice-flock-argue
+bip_39_word_dash_2: reunion-palm
+bip_39_word_dash_3: reunion-palm-erupt
+bip_39_word_dash_4: reunion-palm-erupt-sun
+bip_39_word_dash_5: reunion-palm-erupt-sun-ketchup
+bip_39_word_dash_6: reunion-palm-erupt-sun-ketchup-leave
+bip_39_word_dash_7: reunion-palm-erupt-sun-ketchup-leave-kick
+bip_39_word_dash_8: reunion-palm-erupt-sun-ketchup-leave-kick-peace
+bip_39_word_dash_9: reunion-palm-erupt-sun-ketchup-leave-kick-peace-worry
 bip_39_word_new_br_1: reunion
 bip_39_word_new_br_10: reunion<br>palm<br>erupt<br>sun<br>ketchup<br>leave<br>kick<br>peace<br>worry<br>twice
 bip_39_word_new_br_11: reunion<br>palm<br>erupt<br>sun<br>ketchup<br>leave<br>kick<br>peace<br>worry<br>twice<br>flock
@@ -193,6 +205,18 @@ bip_39_word_space_6: reunion palm erupt sun ketchup leave
 bip_39_word_space_7: reunion palm erupt sun ketchup leave kick
 bip_39_word_space_8: reunion palm erupt sun ketchup leave kick peace
 bip_39_word_space_9: reunion palm erupt sun ketchup leave kick peace worry
+bip_39_word_underscore_1: reunion
+bip_39_word_underscore_10: reunion_palm_erupt_sun_ketchup_leave_kick_peace_worry_twice
+bip_39_word_underscore_11: reunion_palm_erupt_sun_ketchup_leave_kick_peace_worry_twice_flock
+bip_39_word_underscore_12: reunion_palm_erupt_sun_ketchup_leave_kick_peace_worry_twice_flock_argue
+bip_39_word_underscore_2: reunion_palm
+bip_39_word_underscore_3: reunion_palm_erupt
+bip_39_word_underscore_4: reunion_palm_erupt_sun
+bip_39_word_underscore_5: reunion_palm_erupt_sun_ketchup
+bip_39_word_underscore_6: reunion_palm_erupt_sun_ketchup_leave
+bip_39_word_underscore_7: reunion_palm_erupt_sun_ketchup_leave_kick
+bip_39_word_underscore_8: reunion_palm_erupt_sun_ketchup_leave_kick_peace
+bip_39_word_underscore_9: reunion_palm_erupt_sun_ketchup_leave_kick_peace_worry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

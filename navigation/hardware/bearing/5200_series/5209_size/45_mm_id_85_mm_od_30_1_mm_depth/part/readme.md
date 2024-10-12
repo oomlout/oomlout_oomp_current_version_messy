@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reform |  
+| bip_39_word_dash_10 | reform-cool-ball-dose-obscure-current-candy-exit-dial-artist |  
+| bip_39_word_dash_11 | reform-cool-ball-dose-obscure-current-candy-exit-dial-artist-mystery |  
+| bip_39_word_dash_12 | reform-cool-ball-dose-obscure-current-candy-exit-dial-artist-mystery-alter |  
+| bip_39_word_dash_2 | reform-cool |  
+| bip_39_word_dash_3 | reform-cool-ball |  
+| bip_39_word_dash_4 | reform-cool-ball-dose |  
+| bip_39_word_dash_5 | reform-cool-ball-dose-obscure |  
+| bip_39_word_dash_6 | reform-cool-ball-dose-obscure-current |  
+| bip_39_word_dash_7 | reform-cool-ball-dose-obscure-current-candy |  
+| bip_39_word_dash_8 | reform-cool-ball-dose-obscure-current-candy-exit |  
+| bip_39_word_dash_9 | reform-cool-ball-dose-obscure-current-candy-exit-dial |  
 | bip_39_word_new_br_1 | reform |  
 | bip_39_word_new_br_10 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist |  
 | bip_39_word_new_br_11 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist<br>mystery |  
@@ -147,6 +159,18 @@ dial |
 | bip_39_word_space_7 | reform cool ball dose obscure current candy |  
 | bip_39_word_space_8 | reform cool ball dose obscure current candy exit |  
 | bip_39_word_space_9 | reform cool ball dose obscure current candy exit dial |  
+| bip_39_word_underscore_1 | reform |  
+| bip_39_word_underscore_10 | reform_cool_ball_dose_obscure_current_candy_exit_dial_artist |  
+| bip_39_word_underscore_11 | reform_cool_ball_dose_obscure_current_candy_exit_dial_artist_mystery |  
+| bip_39_word_underscore_12 | reform_cool_ball_dose_obscure_current_candy_exit_dial_artist_mystery_alter |  
+| bip_39_word_underscore_2 | reform_cool |  
+| bip_39_word_underscore_3 | reform_cool_ball |  
+| bip_39_word_underscore_4 | reform_cool_ball_dose |  
+| bip_39_word_underscore_5 | reform_cool_ball_dose_obscure |  
+| bip_39_word_underscore_6 | reform_cool_ball_dose_obscure_current |  
+| bip_39_word_underscore_7 | reform_cool_ball_dose_obscure_current_candy |  
+| bip_39_word_underscore_8 | reform_cool_ball_dose_obscure_current_candy_exit |  
+| bip_39_word_underscore_9 | reform_cool_ball_dose_obscure_current_candy_exit_dial |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

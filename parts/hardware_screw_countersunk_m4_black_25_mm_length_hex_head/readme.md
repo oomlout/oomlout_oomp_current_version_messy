@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | poem |  
+| bip_39_word_dash_10 | poem-maze-indoor-novel-label-dizzy-print-glide-wheel-try |  
+| bip_39_word_dash_11 | poem-maze-indoor-novel-label-dizzy-print-glide-wheel-try-mosquito |  
+| bip_39_word_dash_12 | poem-maze-indoor-novel-label-dizzy-print-glide-wheel-try-mosquito-artefact |  
+| bip_39_word_dash_2 | poem-maze |  
+| bip_39_word_dash_3 | poem-maze-indoor |  
+| bip_39_word_dash_4 | poem-maze-indoor-novel |  
+| bip_39_word_dash_5 | poem-maze-indoor-novel-label |  
+| bip_39_word_dash_6 | poem-maze-indoor-novel-label-dizzy |  
+| bip_39_word_dash_7 | poem-maze-indoor-novel-label-dizzy-print |  
+| bip_39_word_dash_8 | poem-maze-indoor-novel-label-dizzy-print-glide |  
+| bip_39_word_dash_9 | poem-maze-indoor-novel-label-dizzy-print-glide-wheel |  
 | bip_39_word_new_br_1 | poem |  
 | bip_39_word_new_br_10 | poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try |  
 | bip_39_word_new_br_11 | poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try<br>mosquito |  
@@ -147,6 +159,18 @@ wheel |
 | bip_39_word_space_7 | poem maze indoor novel label dizzy print |  
 | bip_39_word_space_8 | poem maze indoor novel label dizzy print glide |  
 | bip_39_word_space_9 | poem maze indoor novel label dizzy print glide wheel |  
+| bip_39_word_underscore_1 | poem |  
+| bip_39_word_underscore_10 | poem_maze_indoor_novel_label_dizzy_print_glide_wheel_try |  
+| bip_39_word_underscore_11 | poem_maze_indoor_novel_label_dizzy_print_glide_wheel_try_mosquito |  
+| bip_39_word_underscore_12 | poem_maze_indoor_novel_label_dizzy_print_glide_wheel_try_mosquito_artefact |  
+| bip_39_word_underscore_2 | poem_maze |  
+| bip_39_word_underscore_3 | poem_maze_indoor |  
+| bip_39_word_underscore_4 | poem_maze_indoor_novel |  
+| bip_39_word_underscore_5 | poem_maze_indoor_novel_label |  
+| bip_39_word_underscore_6 | poem_maze_indoor_novel_label_dizzy |  
+| bip_39_word_underscore_7 | poem_maze_indoor_novel_label_dizzy_print |  
+| bip_39_word_underscore_8 | poem_maze_indoor_novel_label_dizzy_print_glide |  
+| bip_39_word_underscore_9 | poem_maze_indoor_novel_label_dizzy_print_glide_wheel |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

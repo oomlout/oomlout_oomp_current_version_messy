@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burger |  
+| bip_39_word_dash_10 | burger-ball-blood-quit-sibling-strategy-supreme-increase-lens-demise |  
+| bip_39_word_dash_11 | burger-ball-blood-quit-sibling-strategy-supreme-increase-lens-demise-cry |  
+| bip_39_word_dash_12 | burger-ball-blood-quit-sibling-strategy-supreme-increase-lens-demise-cry-animal |  
+| bip_39_word_dash_2 | burger-ball |  
+| bip_39_word_dash_3 | burger-ball-blood |  
+| bip_39_word_dash_4 | burger-ball-blood-quit |  
+| bip_39_word_dash_5 | burger-ball-blood-quit-sibling |  
+| bip_39_word_dash_6 | burger-ball-blood-quit-sibling-strategy |  
+| bip_39_word_dash_7 | burger-ball-blood-quit-sibling-strategy-supreme |  
+| bip_39_word_dash_8 | burger-ball-blood-quit-sibling-strategy-supreme-increase |  
+| bip_39_word_dash_9 | burger-ball-blood-quit-sibling-strategy-supreme-increase-lens |  
 | bip_39_word_new_br_1 | burger |  
 | bip_39_word_new_br_10 | burger<br>ball<br>blood<br>quit<br>sibling<br>strategy<br>supreme<br>increase<br>lens<br>demise |  
 | bip_39_word_new_br_11 | burger<br>ball<br>blood<br>quit<br>sibling<br>strategy<br>supreme<br>increase<br>lens<br>demise<br>cry |  
@@ -147,6 +159,18 @@ lens |
 | bip_39_word_space_7 | burger ball blood quit sibling strategy supreme |  
 | bip_39_word_space_8 | burger ball blood quit sibling strategy supreme increase |  
 | bip_39_word_space_9 | burger ball blood quit sibling strategy supreme increase lens |  
+| bip_39_word_underscore_1 | burger |  
+| bip_39_word_underscore_10 | burger_ball_blood_quit_sibling_strategy_supreme_increase_lens_demise |  
+| bip_39_word_underscore_11 | burger_ball_blood_quit_sibling_strategy_supreme_increase_lens_demise_cry |  
+| bip_39_word_underscore_12 | burger_ball_blood_quit_sibling_strategy_supreme_increase_lens_demise_cry_animal |  
+| bip_39_word_underscore_2 | burger_ball |  
+| bip_39_word_underscore_3 | burger_ball_blood |  
+| bip_39_word_underscore_4 | burger_ball_blood_quit |  
+| bip_39_word_underscore_5 | burger_ball_blood_quit_sibling |  
+| bip_39_word_underscore_6 | burger_ball_blood_quit_sibling_strategy |  
+| bip_39_word_underscore_7 | burger_ball_blood_quit_sibling_strategy_supreme |  
+| bip_39_word_underscore_8 | burger_ball_blood_quit_sibling_strategy_supreme_increase |  
+| bip_39_word_underscore_9 | burger_ball_blood_quit_sibling_strategy_supreme_increase_lens |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

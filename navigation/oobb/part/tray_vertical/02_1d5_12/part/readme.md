@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exotic |  
+| bip_39_word_dash_10 | exotic-meat-surge-twice-change-accident-salt-clean-inherit-film |  
+| bip_39_word_dash_11 | exotic-meat-surge-twice-change-accident-salt-clean-inherit-film-erase |  
+| bip_39_word_dash_12 | exotic-meat-surge-twice-change-accident-salt-clean-inherit-film-erase-actor |  
+| bip_39_word_dash_2 | exotic-meat |  
+| bip_39_word_dash_3 | exotic-meat-surge |  
+| bip_39_word_dash_4 | exotic-meat-surge-twice |  
+| bip_39_word_dash_5 | exotic-meat-surge-twice-change |  
+| bip_39_word_dash_6 | exotic-meat-surge-twice-change-accident |  
+| bip_39_word_dash_7 | exotic-meat-surge-twice-change-accident-salt |  
+| bip_39_word_dash_8 | exotic-meat-surge-twice-change-accident-salt-clean |  
+| bip_39_word_dash_9 | exotic-meat-surge-twice-change-accident-salt-clean-inherit |  
 | bip_39_word_new_br_1 | exotic |  
 | bip_39_word_new_br_10 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean<br>inherit<br>film |  
 | bip_39_word_new_br_11 | exotic<br>meat<br>surge<br>twice<br>change<br>accident<br>salt<br>clean<br>inherit<br>film<br>erase |  
@@ -147,6 +159,18 @@ inherit |
 | bip_39_word_space_7 | exotic meat surge twice change accident salt |  
 | bip_39_word_space_8 | exotic meat surge twice change accident salt clean |  
 | bip_39_word_space_9 | exotic meat surge twice change accident salt clean inherit |  
+| bip_39_word_underscore_1 | exotic |  
+| bip_39_word_underscore_10 | exotic_meat_surge_twice_change_accident_salt_clean_inherit_film |  
+| bip_39_word_underscore_11 | exotic_meat_surge_twice_change_accident_salt_clean_inherit_film_erase |  
+| bip_39_word_underscore_12 | exotic_meat_surge_twice_change_accident_salt_clean_inherit_film_erase_actor |  
+| bip_39_word_underscore_2 | exotic_meat |  
+| bip_39_word_underscore_3 | exotic_meat_surge |  
+| bip_39_word_underscore_4 | exotic_meat_surge_twice |  
+| bip_39_word_underscore_5 | exotic_meat_surge_twice_change |  
+| bip_39_word_underscore_6 | exotic_meat_surge_twice_change_accident |  
+| bip_39_word_underscore_7 | exotic_meat_surge_twice_change_accident_salt |  
+| bip_39_word_underscore_8 | exotic_meat_surge_twice_change_accident_salt_clean |  
+| bip_39_word_underscore_9 | exotic_meat_surge_twice_change_accident_salt_clean_inherit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

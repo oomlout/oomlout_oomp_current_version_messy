@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drill |  
+| bip_39_word_dash_10 | drill-body-hill-risk-impulse-decrease-wrong-error-risk-cream |  
+| bip_39_word_dash_11 | drill-body-hill-risk-impulse-decrease-wrong-error-risk-cream-spatial |  
+| bip_39_word_dash_12 | drill-body-hill-risk-impulse-decrease-wrong-error-risk-cream-spatial-august |  
+| bip_39_word_dash_2 | drill-body |  
+| bip_39_word_dash_3 | drill-body-hill |  
+| bip_39_word_dash_4 | drill-body-hill-risk |  
+| bip_39_word_dash_5 | drill-body-hill-risk-impulse |  
+| bip_39_word_dash_6 | drill-body-hill-risk-impulse-decrease |  
+| bip_39_word_dash_7 | drill-body-hill-risk-impulse-decrease-wrong |  
+| bip_39_word_dash_8 | drill-body-hill-risk-impulse-decrease-wrong-error |  
+| bip_39_word_dash_9 | drill-body-hill-risk-impulse-decrease-wrong-error-risk |  
 | bip_39_word_new_br_1 | drill |  
 | bip_39_word_new_br_10 | drill<br>body<br>hill<br>risk<br>impulse<br>decrease<br>wrong<br>error<br>risk<br>cream |  
 | bip_39_word_new_br_11 | drill<br>body<br>hill<br>risk<br>impulse<br>decrease<br>wrong<br>error<br>risk<br>cream<br>spatial |  
@@ -147,6 +159,18 @@ risk |
 | bip_39_word_space_7 | drill body hill risk impulse decrease wrong |  
 | bip_39_word_space_8 | drill body hill risk impulse decrease wrong error |  
 | bip_39_word_space_9 | drill body hill risk impulse decrease wrong error risk |  
+| bip_39_word_underscore_1 | drill |  
+| bip_39_word_underscore_10 | drill_body_hill_risk_impulse_decrease_wrong_error_risk_cream |  
+| bip_39_word_underscore_11 | drill_body_hill_risk_impulse_decrease_wrong_error_risk_cream_spatial |  
+| bip_39_word_underscore_12 | drill_body_hill_risk_impulse_decrease_wrong_error_risk_cream_spatial_august |  
+| bip_39_word_underscore_2 | drill_body |  
+| bip_39_word_underscore_3 | drill_body_hill |  
+| bip_39_word_underscore_4 | drill_body_hill_risk |  
+| bip_39_word_underscore_5 | drill_body_hill_risk_impulse |  
+| bip_39_word_underscore_6 | drill_body_hill_risk_impulse_decrease |  
+| bip_39_word_underscore_7 | drill_body_hill_risk_impulse_decrease_wrong |  
+| bip_39_word_underscore_8 | drill_body_hill_risk_impulse_decrease_wrong_error |  
+| bip_39_word_underscore_9 | drill_body_hill_risk_impulse_decrease_wrong_error_risk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | harvest |  
+| bip_39_word_dash_10 | harvest-prison-kingdom-gain-visa-volume-trap-tennis-dignity-game |  
+| bip_39_word_dash_11 | harvest-prison-kingdom-gain-visa-volume-trap-tennis-dignity-game-want |  
+| bip_39_word_dash_12 | harvest-prison-kingdom-gain-visa-volume-trap-tennis-dignity-game-want-ahead |  
+| bip_39_word_dash_2 | harvest-prison |  
+| bip_39_word_dash_3 | harvest-prison-kingdom |  
+| bip_39_word_dash_4 | harvest-prison-kingdom-gain |  
+| bip_39_word_dash_5 | harvest-prison-kingdom-gain-visa |  
+| bip_39_word_dash_6 | harvest-prison-kingdom-gain-visa-volume |  
+| bip_39_word_dash_7 | harvest-prison-kingdom-gain-visa-volume-trap |  
+| bip_39_word_dash_8 | harvest-prison-kingdom-gain-visa-volume-trap-tennis |  
+| bip_39_word_dash_9 | harvest-prison-kingdom-gain-visa-volume-trap-tennis-dignity |  
 | bip_39_word_new_br_1 | harvest |  
 | bip_39_word_new_br_10 | harvest<br>prison<br>kingdom<br>gain<br>visa<br>volume<br>trap<br>tennis<br>dignity<br>game |  
 | bip_39_word_new_br_11 | harvest<br>prison<br>kingdom<br>gain<br>visa<br>volume<br>trap<br>tennis<br>dignity<br>game<br>want |  
@@ -147,6 +159,18 @@ dignity |
 | bip_39_word_space_7 | harvest prison kingdom gain visa volume trap |  
 | bip_39_word_space_8 | harvest prison kingdom gain visa volume trap tennis |  
 | bip_39_word_space_9 | harvest prison kingdom gain visa volume trap tennis dignity |  
+| bip_39_word_underscore_1 | harvest |  
+| bip_39_word_underscore_10 | harvest_prison_kingdom_gain_visa_volume_trap_tennis_dignity_game |  
+| bip_39_word_underscore_11 | harvest_prison_kingdom_gain_visa_volume_trap_tennis_dignity_game_want |  
+| bip_39_word_underscore_12 | harvest_prison_kingdom_gain_visa_volume_trap_tennis_dignity_game_want_ahead |  
+| bip_39_word_underscore_2 | harvest_prison |  
+| bip_39_word_underscore_3 | harvest_prison_kingdom |  
+| bip_39_word_underscore_4 | harvest_prison_kingdom_gain |  
+| bip_39_word_underscore_5 | harvest_prison_kingdom_gain_visa |  
+| bip_39_word_underscore_6 | harvest_prison_kingdom_gain_visa_volume |  
+| bip_39_word_underscore_7 | harvest_prison_kingdom_gain_visa_volume_trap |  
+| bip_39_word_underscore_8 | harvest_prison_kingdom_gain_visa_volume_trap_tennis |  
+| bip_39_word_underscore_9 | harvest_prison_kingdom_gain_visa_volume_trap_tennis_dignity |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

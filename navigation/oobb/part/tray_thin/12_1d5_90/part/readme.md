@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | few |  
+| bip_39_word_dash_10 | few-industry-scare-couple-noodle-drum-degree-clinic-pipe-desert |  
+| bip_39_word_dash_11 | few-industry-scare-couple-noodle-drum-degree-clinic-pipe-desert-fancy |  
+| bip_39_word_dash_12 | few-industry-scare-couple-noodle-drum-degree-clinic-pipe-desert-fancy-area |  
+| bip_39_word_dash_2 | few-industry |  
+| bip_39_word_dash_3 | few-industry-scare |  
+| bip_39_word_dash_4 | few-industry-scare-couple |  
+| bip_39_word_dash_5 | few-industry-scare-couple-noodle |  
+| bip_39_word_dash_6 | few-industry-scare-couple-noodle-drum |  
+| bip_39_word_dash_7 | few-industry-scare-couple-noodle-drum-degree |  
+| bip_39_word_dash_8 | few-industry-scare-couple-noodle-drum-degree-clinic |  
+| bip_39_word_dash_9 | few-industry-scare-couple-noodle-drum-degree-clinic-pipe |  
 | bip_39_word_new_br_1 | few |  
 | bip_39_word_new_br_10 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic<br>pipe<br>desert |  
 | bip_39_word_new_br_11 | few<br>industry<br>scare<br>couple<br>noodle<br>drum<br>degree<br>clinic<br>pipe<br>desert<br>fancy |  
@@ -147,6 +159,18 @@ pipe |
 | bip_39_word_space_7 | few industry scare couple noodle drum degree |  
 | bip_39_word_space_8 | few industry scare couple noodle drum degree clinic |  
 | bip_39_word_space_9 | few industry scare couple noodle drum degree clinic pipe |  
+| bip_39_word_underscore_1 | few |  
+| bip_39_word_underscore_10 | few_industry_scare_couple_noodle_drum_degree_clinic_pipe_desert |  
+| bip_39_word_underscore_11 | few_industry_scare_couple_noodle_drum_degree_clinic_pipe_desert_fancy |  
+| bip_39_word_underscore_12 | few_industry_scare_couple_noodle_drum_degree_clinic_pipe_desert_fancy_area |  
+| bip_39_word_underscore_2 | few_industry |  
+| bip_39_word_underscore_3 | few_industry_scare |  
+| bip_39_word_underscore_4 | few_industry_scare_couple |  
+| bip_39_word_underscore_5 | few_industry_scare_couple_noodle |  
+| bip_39_word_underscore_6 | few_industry_scare_couple_noodle_drum |  
+| bip_39_word_underscore_7 | few_industry_scare_couple_noodle_drum_degree |  
+| bip_39_word_underscore_8 | few_industry_scare_couple_noodle_drum_degree_clinic |  
+| bip_39_word_underscore_9 | few_industry_scare_couple_noodle_drum_degree_clinic_pipe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

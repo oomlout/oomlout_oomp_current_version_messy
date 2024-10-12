@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shoe |  
+| bip_39_word_dash_10 | shoe-rifle-betray-orange-slice-junk-vital-draft-problem-grief |  
+| bip_39_word_dash_11 | shoe-rifle-betray-orange-slice-junk-vital-draft-problem-grief-tower |  
+| bip_39_word_dash_12 | shoe-rifle-betray-orange-slice-junk-vital-draft-problem-grief-tower-argue |  
+| bip_39_word_dash_2 | shoe-rifle |  
+| bip_39_word_dash_3 | shoe-rifle-betray |  
+| bip_39_word_dash_4 | shoe-rifle-betray-orange |  
+| bip_39_word_dash_5 | shoe-rifle-betray-orange-slice |  
+| bip_39_word_dash_6 | shoe-rifle-betray-orange-slice-junk |  
+| bip_39_word_dash_7 | shoe-rifle-betray-orange-slice-junk-vital |  
+| bip_39_word_dash_8 | shoe-rifle-betray-orange-slice-junk-vital-draft |  
+| bip_39_word_dash_9 | shoe-rifle-betray-orange-slice-junk-vital-draft-problem |  
 | bip_39_word_new_br_1 | shoe |  
 | bip_39_word_new_br_10 | shoe<br>rifle<br>betray<br>orange<br>slice<br>junk<br>vital<br>draft<br>problem<br>grief |  
 | bip_39_word_new_br_11 | shoe<br>rifle<br>betray<br>orange<br>slice<br>junk<br>vital<br>draft<br>problem<br>grief<br>tower |  
@@ -147,6 +159,18 @@ problem |
 | bip_39_word_space_7 | shoe rifle betray orange slice junk vital |  
 | bip_39_word_space_8 | shoe rifle betray orange slice junk vital draft |  
 | bip_39_word_space_9 | shoe rifle betray orange slice junk vital draft problem |  
+| bip_39_word_underscore_1 | shoe |  
+| bip_39_word_underscore_10 | shoe_rifle_betray_orange_slice_junk_vital_draft_problem_grief |  
+| bip_39_word_underscore_11 | shoe_rifle_betray_orange_slice_junk_vital_draft_problem_grief_tower |  
+| bip_39_word_underscore_12 | shoe_rifle_betray_orange_slice_junk_vital_draft_problem_grief_tower_argue |  
+| bip_39_word_underscore_2 | shoe_rifle |  
+| bip_39_word_underscore_3 | shoe_rifle_betray |  
+| bip_39_word_underscore_4 | shoe_rifle_betray_orange |  
+| bip_39_word_underscore_5 | shoe_rifle_betray_orange_slice |  
+| bip_39_word_underscore_6 | shoe_rifle_betray_orange_slice_junk |  
+| bip_39_word_underscore_7 | shoe_rifle_betray_orange_slice_junk_vital |  
+| bip_39_word_underscore_8 | shoe_rifle_betray_orange_slice_junk_vital_draft |  
+| bip_39_word_underscore_9 | shoe_rifle_betray_orange_slice_junk_vital_draft_problem |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

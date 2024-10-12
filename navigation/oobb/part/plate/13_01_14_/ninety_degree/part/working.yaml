@@ -1,3 +1,15 @@
+bip_39_word_dash_1: defy
+bip_39_word_dash_10: defy-deal-solid-loop-pupil-reveal-million-normal-story-coil
+bip_39_word_dash_11: defy-deal-solid-loop-pupil-reveal-million-normal-story-coil-notable
+bip_39_word_dash_12: defy-deal-solid-loop-pupil-reveal-million-normal-story-coil-notable-ability
+bip_39_word_dash_2: defy-deal
+bip_39_word_dash_3: defy-deal-solid
+bip_39_word_dash_4: defy-deal-solid-loop
+bip_39_word_dash_5: defy-deal-solid-loop-pupil
+bip_39_word_dash_6: defy-deal-solid-loop-pupil-reveal
+bip_39_word_dash_7: defy-deal-solid-loop-pupil-reveal-million
+bip_39_word_dash_8: defy-deal-solid-loop-pupil-reveal-million-normal
+bip_39_word_dash_9: defy-deal-solid-loop-pupil-reveal-million-normal-story
 bip_39_word_new_br_1: defy
 bip_39_word_new_br_10: defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal<br>story<br>coil
 bip_39_word_new_br_11: defy<br>deal<br>solid<br>loop<br>pupil<br>reveal<br>million<br>normal<br>story<br>coil<br>notable
@@ -193,6 +205,18 @@ bip_39_word_space_6: defy deal solid loop pupil reveal
 bip_39_word_space_7: defy deal solid loop pupil reveal million
 bip_39_word_space_8: defy deal solid loop pupil reveal million normal
 bip_39_word_space_9: defy deal solid loop pupil reveal million normal story
+bip_39_word_underscore_1: defy
+bip_39_word_underscore_10: defy_deal_solid_loop_pupil_reveal_million_normal_story_coil
+bip_39_word_underscore_11: defy_deal_solid_loop_pupil_reveal_million_normal_story_coil_notable
+bip_39_word_underscore_12: defy_deal_solid_loop_pupil_reveal_million_normal_story_coil_notable_ability
+bip_39_word_underscore_2: defy_deal
+bip_39_word_underscore_3: defy_deal_solid
+bip_39_word_underscore_4: defy_deal_solid_loop
+bip_39_word_underscore_5: defy_deal_solid_loop_pupil
+bip_39_word_underscore_6: defy_deal_solid_loop_pupil_reveal
+bip_39_word_underscore_7: defy_deal_solid_loop_pupil_reveal_million
+bip_39_word_underscore_8: defy_deal_solid_loop_pupil_reveal_million_normal
+bip_39_word_underscore_9: defy_deal_solid_loop_pupil_reveal_million_normal_story
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | barely |  
+| bip_39_word_dash_10 | barely-click-pumpkin-ocean-shallow-swim-badge-monster-permit-shuffle |  
+| bip_39_word_dash_11 | barely-click-pumpkin-ocean-shallow-swim-badge-monster-permit-shuffle-board |  
+| bip_39_word_dash_12 | barely-click-pumpkin-ocean-shallow-swim-badge-monster-permit-shuffle-board-afford |  
+| bip_39_word_dash_2 | barely-click |  
+| bip_39_word_dash_3 | barely-click-pumpkin |  
+| bip_39_word_dash_4 | barely-click-pumpkin-ocean |  
+| bip_39_word_dash_5 | barely-click-pumpkin-ocean-shallow |  
+| bip_39_word_dash_6 | barely-click-pumpkin-ocean-shallow-swim |  
+| bip_39_word_dash_7 | barely-click-pumpkin-ocean-shallow-swim-badge |  
+| bip_39_word_dash_8 | barely-click-pumpkin-ocean-shallow-swim-badge-monster |  
+| bip_39_word_dash_9 | barely-click-pumpkin-ocean-shallow-swim-badge-monster-permit |  
 | bip_39_word_new_br_1 | barely |  
 | bip_39_word_new_br_10 | barely<br>click<br>pumpkin<br>ocean<br>shallow<br>swim<br>badge<br>monster<br>permit<br>shuffle |  
 | bip_39_word_new_br_11 | barely<br>click<br>pumpkin<br>ocean<br>shallow<br>swim<br>badge<br>monster<br>permit<br>shuffle<br>board |  
@@ -147,6 +159,18 @@ permit |
 | bip_39_word_space_7 | barely click pumpkin ocean shallow swim badge |  
 | bip_39_word_space_8 | barely click pumpkin ocean shallow swim badge monster |  
 | bip_39_word_space_9 | barely click pumpkin ocean shallow swim badge monster permit |  
+| bip_39_word_underscore_1 | barely |  
+| bip_39_word_underscore_10 | barely_click_pumpkin_ocean_shallow_swim_badge_monster_permit_shuffle |  
+| bip_39_word_underscore_11 | barely_click_pumpkin_ocean_shallow_swim_badge_monster_permit_shuffle_board |  
+| bip_39_word_underscore_12 | barely_click_pumpkin_ocean_shallow_swim_badge_monster_permit_shuffle_board_afford |  
+| bip_39_word_underscore_2 | barely_click |  
+| bip_39_word_underscore_3 | barely_click_pumpkin |  
+| bip_39_word_underscore_4 | barely_click_pumpkin_ocean |  
+| bip_39_word_underscore_5 | barely_click_pumpkin_ocean_shallow |  
+| bip_39_word_underscore_6 | barely_click_pumpkin_ocean_shallow_swim |  
+| bip_39_word_underscore_7 | barely_click_pumpkin_ocean_shallow_swim_badge |  
+| bip_39_word_underscore_8 | barely_click_pumpkin_ocean_shallow_swim_badge_monster |  
+| bip_39_word_underscore_9 | barely_click_pumpkin_ocean_shallow_swim_badge_monster_permit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

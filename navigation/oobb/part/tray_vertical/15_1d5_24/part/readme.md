@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | come |  
+| bip_39_word_dash_10 | come-sort-mesh-ordinary-property-smart-update-shiver-shallow-dynamic |  
+| bip_39_word_dash_11 | come-sort-mesh-ordinary-property-smart-update-shiver-shallow-dynamic-person |  
+| bip_39_word_dash_12 | come-sort-mesh-ordinary-property-smart-update-shiver-shallow-dynamic-person-actual |  
+| bip_39_word_dash_2 | come-sort |  
+| bip_39_word_dash_3 | come-sort-mesh |  
+| bip_39_word_dash_4 | come-sort-mesh-ordinary |  
+| bip_39_word_dash_5 | come-sort-mesh-ordinary-property |  
+| bip_39_word_dash_6 | come-sort-mesh-ordinary-property-smart |  
+| bip_39_word_dash_7 | come-sort-mesh-ordinary-property-smart-update |  
+| bip_39_word_dash_8 | come-sort-mesh-ordinary-property-smart-update-shiver |  
+| bip_39_word_dash_9 | come-sort-mesh-ordinary-property-smart-update-shiver-shallow |  
 | bip_39_word_new_br_1 | come |  
 | bip_39_word_new_br_10 | come<br>sort<br>mesh<br>ordinary<br>property<br>smart<br>update<br>shiver<br>shallow<br>dynamic |  
 | bip_39_word_new_br_11 | come<br>sort<br>mesh<br>ordinary<br>property<br>smart<br>update<br>shiver<br>shallow<br>dynamic<br>person |  
@@ -147,6 +159,18 @@ shallow |
 | bip_39_word_space_7 | come sort mesh ordinary property smart update |  
 | bip_39_word_space_8 | come sort mesh ordinary property smart update shiver |  
 | bip_39_word_space_9 | come sort mesh ordinary property smart update shiver shallow |  
+| bip_39_word_underscore_1 | come |  
+| bip_39_word_underscore_10 | come_sort_mesh_ordinary_property_smart_update_shiver_shallow_dynamic |  
+| bip_39_word_underscore_11 | come_sort_mesh_ordinary_property_smart_update_shiver_shallow_dynamic_person |  
+| bip_39_word_underscore_12 | come_sort_mesh_ordinary_property_smart_update_shiver_shallow_dynamic_person_actual |  
+| bip_39_word_underscore_2 | come_sort |  
+| bip_39_word_underscore_3 | come_sort_mesh |  
+| bip_39_word_underscore_4 | come_sort_mesh_ordinary |  
+| bip_39_word_underscore_5 | come_sort_mesh_ordinary_property |  
+| bip_39_word_underscore_6 | come_sort_mesh_ordinary_property_smart |  
+| bip_39_word_underscore_7 | come_sort_mesh_ordinary_property_smart_update |  
+| bip_39_word_underscore_8 | come_sort_mesh_ordinary_property_smart_update_shiver |  
+| bip_39_word_underscore_9 | come_sort_mesh_ordinary_property_smart_update_shiver_shallow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

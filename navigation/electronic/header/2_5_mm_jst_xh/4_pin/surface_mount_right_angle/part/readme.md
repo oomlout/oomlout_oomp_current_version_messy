@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | heavy |  
+| bip_39_word_dash_10 | heavy-water-alert-current-pyramid-flight-budget-initial-sausage-medal |  
+| bip_39_word_dash_11 | heavy-water-alert-current-pyramid-flight-budget-initial-sausage-medal-gentle |  
+| bip_39_word_dash_12 | heavy-water-alert-current-pyramid-flight-budget-initial-sausage-medal-gentle-abstract |  
+| bip_39_word_dash_2 | heavy-water |  
+| bip_39_word_dash_3 | heavy-water-alert |  
+| bip_39_word_dash_4 | heavy-water-alert-current |  
+| bip_39_word_dash_5 | heavy-water-alert-current-pyramid |  
+| bip_39_word_dash_6 | heavy-water-alert-current-pyramid-flight |  
+| bip_39_word_dash_7 | heavy-water-alert-current-pyramid-flight-budget |  
+| bip_39_word_dash_8 | heavy-water-alert-current-pyramid-flight-budget-initial |  
+| bip_39_word_dash_9 | heavy-water-alert-current-pyramid-flight-budget-initial-sausage |  
 | bip_39_word_new_br_1 | heavy |  
 | bip_39_word_new_br_10 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal |  
 | bip_39_word_new_br_11 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal<br>gentle |  
@@ -147,6 +159,18 @@ sausage |
 | bip_39_word_space_7 | heavy water alert current pyramid flight budget |  
 | bip_39_word_space_8 | heavy water alert current pyramid flight budget initial |  
 | bip_39_word_space_9 | heavy water alert current pyramid flight budget initial sausage |  
+| bip_39_word_underscore_1 | heavy |  
+| bip_39_word_underscore_10 | heavy_water_alert_current_pyramid_flight_budget_initial_sausage_medal |  
+| bip_39_word_underscore_11 | heavy_water_alert_current_pyramid_flight_budget_initial_sausage_medal_gentle |  
+| bip_39_word_underscore_12 | heavy_water_alert_current_pyramid_flight_budget_initial_sausage_medal_gentle_abstract |  
+| bip_39_word_underscore_2 | heavy_water |  
+| bip_39_word_underscore_3 | heavy_water_alert |  
+| bip_39_word_underscore_4 | heavy_water_alert_current |  
+| bip_39_word_underscore_5 | heavy_water_alert_current_pyramid |  
+| bip_39_word_underscore_6 | heavy_water_alert_current_pyramid_flight |  
+| bip_39_word_underscore_7 | heavy_water_alert_current_pyramid_flight_budget |  
+| bip_39_word_underscore_8 | heavy_water_alert_current_pyramid_flight_budget_initial |  
+| bip_39_word_underscore_9 | heavy_water_alert_current_pyramid_flight_budget_initial_sausage |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

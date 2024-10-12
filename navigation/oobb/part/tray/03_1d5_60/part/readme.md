@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rhythm |  
+| bip_39_word_dash_10 | rhythm-cannon-fine-broken-close-sentence-sphere-size-sister-lava |  
+| bip_39_word_dash_11 | rhythm-cannon-fine-broken-close-sentence-sphere-size-sister-lava-fat |  
+| bip_39_word_dash_12 | rhythm-cannon-fine-broken-close-sentence-sphere-size-sister-lava-fat-alcohol |  
+| bip_39_word_dash_2 | rhythm-cannon |  
+| bip_39_word_dash_3 | rhythm-cannon-fine |  
+| bip_39_word_dash_4 | rhythm-cannon-fine-broken |  
+| bip_39_word_dash_5 | rhythm-cannon-fine-broken-close |  
+| bip_39_word_dash_6 | rhythm-cannon-fine-broken-close-sentence |  
+| bip_39_word_dash_7 | rhythm-cannon-fine-broken-close-sentence-sphere |  
+| bip_39_word_dash_8 | rhythm-cannon-fine-broken-close-sentence-sphere-size |  
+| bip_39_word_dash_9 | rhythm-cannon-fine-broken-close-sentence-sphere-size-sister |  
 | bip_39_word_new_br_1 | rhythm |  
 | bip_39_word_new_br_10 | rhythm<br>cannon<br>fine<br>broken<br>close<br>sentence<br>sphere<br>size<br>sister<br>lava |  
 | bip_39_word_new_br_11 | rhythm<br>cannon<br>fine<br>broken<br>close<br>sentence<br>sphere<br>size<br>sister<br>lava<br>fat |  
@@ -147,6 +159,18 @@ sister |
 | bip_39_word_space_7 | rhythm cannon fine broken close sentence sphere |  
 | bip_39_word_space_8 | rhythm cannon fine broken close sentence sphere size |  
 | bip_39_word_space_9 | rhythm cannon fine broken close sentence sphere size sister |  
+| bip_39_word_underscore_1 | rhythm |  
+| bip_39_word_underscore_10 | rhythm_cannon_fine_broken_close_sentence_sphere_size_sister_lava |  
+| bip_39_word_underscore_11 | rhythm_cannon_fine_broken_close_sentence_sphere_size_sister_lava_fat |  
+| bip_39_word_underscore_12 | rhythm_cannon_fine_broken_close_sentence_sphere_size_sister_lava_fat_alcohol |  
+| bip_39_word_underscore_2 | rhythm_cannon |  
+| bip_39_word_underscore_3 | rhythm_cannon_fine |  
+| bip_39_word_underscore_4 | rhythm_cannon_fine_broken |  
+| bip_39_word_underscore_5 | rhythm_cannon_fine_broken_close |  
+| bip_39_word_underscore_6 | rhythm_cannon_fine_broken_close_sentence |  
+| bip_39_word_underscore_7 | rhythm_cannon_fine_broken_close_sentence_sphere |  
+| bip_39_word_underscore_8 | rhythm_cannon_fine_broken_close_sentence_sphere_size |  
+| bip_39_word_underscore_9 | rhythm_cannon_fine_broken_close_sentence_sphere_size_sister |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

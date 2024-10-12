@@ -1,3 +1,15 @@
+bip_39_word_dash_1: slot
+bip_39_word_dash_10: slot-april-welcome-easy-steak-wrestle-amateur-east-pipe-ship
+bip_39_word_dash_11: slot-april-welcome-easy-steak-wrestle-amateur-east-pipe-ship-smile
+bip_39_word_dash_12: slot-april-welcome-easy-steak-wrestle-amateur-east-pipe-ship-smile-adapt
+bip_39_word_dash_2: slot-april
+bip_39_word_dash_3: slot-april-welcome
+bip_39_word_dash_4: slot-april-welcome-easy
+bip_39_word_dash_5: slot-april-welcome-easy-steak
+bip_39_word_dash_6: slot-april-welcome-easy-steak-wrestle
+bip_39_word_dash_7: slot-april-welcome-easy-steak-wrestle-amateur
+bip_39_word_dash_8: slot-april-welcome-easy-steak-wrestle-amateur-east
+bip_39_word_dash_9: slot-april-welcome-easy-steak-wrestle-amateur-east-pipe
 bip_39_word_new_br_1: slot
 bip_39_word_new_br_10: slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east<br>pipe<br>ship
 bip_39_word_new_br_11: slot<br>april<br>welcome<br>easy<br>steak<br>wrestle<br>amateur<br>east<br>pipe<br>ship<br>smile
@@ -193,6 +205,18 @@ bip_39_word_space_6: slot april welcome easy steak wrestle
 bip_39_word_space_7: slot april welcome easy steak wrestle amateur
 bip_39_word_space_8: slot april welcome easy steak wrestle amateur east
 bip_39_word_space_9: slot april welcome easy steak wrestle amateur east pipe
+bip_39_word_underscore_1: slot
+bip_39_word_underscore_10: slot_april_welcome_easy_steak_wrestle_amateur_east_pipe_ship
+bip_39_word_underscore_11: slot_april_welcome_easy_steak_wrestle_amateur_east_pipe_ship_smile
+bip_39_word_underscore_12: slot_april_welcome_easy_steak_wrestle_amateur_east_pipe_ship_smile_adapt
+bip_39_word_underscore_2: slot_april
+bip_39_word_underscore_3: slot_april_welcome
+bip_39_word_underscore_4: slot_april_welcome_easy
+bip_39_word_underscore_5: slot_april_welcome_easy_steak
+bip_39_word_underscore_6: slot_april_welcome_easy_steak_wrestle
+bip_39_word_underscore_7: slot_april_welcome_easy_steak_wrestle_amateur
+bip_39_word_underscore_8: slot_april_welcome_easy_steak_wrestle_amateur_east
+bip_39_word_underscore_9: slot_april_welcome_easy_steak_wrestle_amateur_east_pipe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

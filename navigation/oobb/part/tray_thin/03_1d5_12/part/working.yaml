@@ -1,3 +1,15 @@
+bip_39_word_dash_1: consider
+bip_39_word_dash_10: consider-polar-nominee-blur-wish-rural-deputy-young-guard-urban
+bip_39_word_dash_11: consider-polar-nominee-blur-wish-rural-deputy-young-guard-urban-raw
+bip_39_word_dash_12: consider-polar-nominee-blur-wish-rural-deputy-young-guard-urban-raw-add
+bip_39_word_dash_2: consider-polar
+bip_39_word_dash_3: consider-polar-nominee
+bip_39_word_dash_4: consider-polar-nominee-blur
+bip_39_word_dash_5: consider-polar-nominee-blur-wish
+bip_39_word_dash_6: consider-polar-nominee-blur-wish-rural
+bip_39_word_dash_7: consider-polar-nominee-blur-wish-rural-deputy
+bip_39_word_dash_8: consider-polar-nominee-blur-wish-rural-deputy-young
+bip_39_word_dash_9: consider-polar-nominee-blur-wish-rural-deputy-young-guard
 bip_39_word_new_br_1: consider
 bip_39_word_new_br_10: consider<br>polar<br>nominee<br>blur<br>wish<br>rural<br>deputy<br>young<br>guard<br>urban
 bip_39_word_new_br_11: consider<br>polar<br>nominee<br>blur<br>wish<br>rural<br>deputy<br>young<br>guard<br>urban<br>raw
@@ -193,6 +205,18 @@ bip_39_word_space_6: consider polar nominee blur wish rural
 bip_39_word_space_7: consider polar nominee blur wish rural deputy
 bip_39_word_space_8: consider polar nominee blur wish rural deputy young
 bip_39_word_space_9: consider polar nominee blur wish rural deputy young guard
+bip_39_word_underscore_1: consider
+bip_39_word_underscore_10: consider_polar_nominee_blur_wish_rural_deputy_young_guard_urban
+bip_39_word_underscore_11: consider_polar_nominee_blur_wish_rural_deputy_young_guard_urban_raw
+bip_39_word_underscore_12: consider_polar_nominee_blur_wish_rural_deputy_young_guard_urban_raw_add
+bip_39_word_underscore_2: consider_polar
+bip_39_word_underscore_3: consider_polar_nominee
+bip_39_word_underscore_4: consider_polar_nominee_blur
+bip_39_word_underscore_5: consider_polar_nominee_blur_wish
+bip_39_word_underscore_6: consider_polar_nominee_blur_wish_rural
+bip_39_word_underscore_7: consider_polar_nominee_blur_wish_rural_deputy
+bip_39_word_underscore_8: consider_polar_nominee_blur_wish_rural_deputy_young
+bip_39_word_underscore_9: consider_polar_nominee_blur_wish_rural_deputy_young_guard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

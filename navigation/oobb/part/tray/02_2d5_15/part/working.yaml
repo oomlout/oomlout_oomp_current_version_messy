@@ -1,3 +1,15 @@
+bip_39_word_dash_1: genius
+bip_39_word_dash_10: genius-bachelor-hood-dirt-tomorrow-almost-hip-depend-weird-wing
+bip_39_word_dash_11: genius-bachelor-hood-dirt-tomorrow-almost-hip-depend-weird-wing-force
+bip_39_word_dash_12: genius-bachelor-hood-dirt-tomorrow-almost-hip-depend-weird-wing-force-ability
+bip_39_word_dash_2: genius-bachelor
+bip_39_word_dash_3: genius-bachelor-hood
+bip_39_word_dash_4: genius-bachelor-hood-dirt
+bip_39_word_dash_5: genius-bachelor-hood-dirt-tomorrow
+bip_39_word_dash_6: genius-bachelor-hood-dirt-tomorrow-almost
+bip_39_word_dash_7: genius-bachelor-hood-dirt-tomorrow-almost-hip
+bip_39_word_dash_8: genius-bachelor-hood-dirt-tomorrow-almost-hip-depend
+bip_39_word_dash_9: genius-bachelor-hood-dirt-tomorrow-almost-hip-depend-weird
 bip_39_word_new_br_1: genius
 bip_39_word_new_br_10: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing
 bip_39_word_new_br_11: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing<br>force
@@ -193,6 +205,18 @@ bip_39_word_space_6: genius bachelor hood dirt tomorrow almost
 bip_39_word_space_7: genius bachelor hood dirt tomorrow almost hip
 bip_39_word_space_8: genius bachelor hood dirt tomorrow almost hip depend
 bip_39_word_space_9: genius bachelor hood dirt tomorrow almost hip depend weird
+bip_39_word_underscore_1: genius
+bip_39_word_underscore_10: genius_bachelor_hood_dirt_tomorrow_almost_hip_depend_weird_wing
+bip_39_word_underscore_11: genius_bachelor_hood_dirt_tomorrow_almost_hip_depend_weird_wing_force
+bip_39_word_underscore_12: genius_bachelor_hood_dirt_tomorrow_almost_hip_depend_weird_wing_force_ability
+bip_39_word_underscore_2: genius_bachelor
+bip_39_word_underscore_3: genius_bachelor_hood
+bip_39_word_underscore_4: genius_bachelor_hood_dirt
+bip_39_word_underscore_5: genius_bachelor_hood_dirt_tomorrow
+bip_39_word_underscore_6: genius_bachelor_hood_dirt_tomorrow_almost
+bip_39_word_underscore_7: genius_bachelor_hood_dirt_tomorrow_almost_hip
+bip_39_word_underscore_8: genius_bachelor_hood_dirt_tomorrow_almost_hip_depend
+bip_39_word_underscore_9: genius_bachelor_hood_dirt_tomorrow_almost_hip_depend_weird
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

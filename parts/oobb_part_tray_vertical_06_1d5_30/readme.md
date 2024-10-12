@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | egg |  
+| bip_39_word_dash_10 | egg-cliff-wool-joy-double-between-turn-hint-throw-humble |  
+| bip_39_word_dash_11 | egg-cliff-wool-joy-double-between-turn-hint-throw-humble-language |  
+| bip_39_word_dash_12 | egg-cliff-wool-joy-double-between-turn-hint-throw-humble-language-aunt |  
+| bip_39_word_dash_2 | egg-cliff |  
+| bip_39_word_dash_3 | egg-cliff-wool |  
+| bip_39_word_dash_4 | egg-cliff-wool-joy |  
+| bip_39_word_dash_5 | egg-cliff-wool-joy-double |  
+| bip_39_word_dash_6 | egg-cliff-wool-joy-double-between |  
+| bip_39_word_dash_7 | egg-cliff-wool-joy-double-between-turn |  
+| bip_39_word_dash_8 | egg-cliff-wool-joy-double-between-turn-hint |  
+| bip_39_word_dash_9 | egg-cliff-wool-joy-double-between-turn-hint-throw |  
 | bip_39_word_new_br_1 | egg |  
 | bip_39_word_new_br_10 | egg<br>cliff<br>wool<br>joy<br>double<br>between<br>turn<br>hint<br>throw<br>humble |  
 | bip_39_word_new_br_11 | egg<br>cliff<br>wool<br>joy<br>double<br>between<br>turn<br>hint<br>throw<br>humble<br>language |  
@@ -147,6 +159,18 @@ throw |
 | bip_39_word_space_7 | egg cliff wool joy double between turn |  
 | bip_39_word_space_8 | egg cliff wool joy double between turn hint |  
 | bip_39_word_space_9 | egg cliff wool joy double between turn hint throw |  
+| bip_39_word_underscore_1 | egg |  
+| bip_39_word_underscore_10 | egg_cliff_wool_joy_double_between_turn_hint_throw_humble |  
+| bip_39_word_underscore_11 | egg_cliff_wool_joy_double_between_turn_hint_throw_humble_language |  
+| bip_39_word_underscore_12 | egg_cliff_wool_joy_double_between_turn_hint_throw_humble_language_aunt |  
+| bip_39_word_underscore_2 | egg_cliff |  
+| bip_39_word_underscore_3 | egg_cliff_wool |  
+| bip_39_word_underscore_4 | egg_cliff_wool_joy |  
+| bip_39_word_underscore_5 | egg_cliff_wool_joy_double |  
+| bip_39_word_underscore_6 | egg_cliff_wool_joy_double_between |  
+| bip_39_word_underscore_7 | egg_cliff_wool_joy_double_between_turn |  
+| bip_39_word_underscore_8 | egg_cliff_wool_joy_double_between_turn_hint |  
+| bip_39_word_underscore_9 | egg_cliff_wool_joy_double_between_turn_hint_throw |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ladder
+bip_39_word_dash_10: ladder-pact-fruit-brother-stable-genuine-analyst-already-common-wool
+bip_39_word_dash_11: ladder-pact-fruit-brother-stable-genuine-analyst-already-common-wool-strategy
+bip_39_word_dash_12: ladder-pact-fruit-brother-stable-genuine-analyst-already-common-wool-strategy-apple
+bip_39_word_dash_2: ladder-pact
+bip_39_word_dash_3: ladder-pact-fruit
+bip_39_word_dash_4: ladder-pact-fruit-brother
+bip_39_word_dash_5: ladder-pact-fruit-brother-stable
+bip_39_word_dash_6: ladder-pact-fruit-brother-stable-genuine
+bip_39_word_dash_7: ladder-pact-fruit-brother-stable-genuine-analyst
+bip_39_word_dash_8: ladder-pact-fruit-brother-stable-genuine-analyst-already
+bip_39_word_dash_9: ladder-pact-fruit-brother-stable-genuine-analyst-already-common
 bip_39_word_new_br_1: ladder
 bip_39_word_new_br_10: ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already<br>common<br>wool
 bip_39_word_new_br_11: ladder<br>pact<br>fruit<br>brother<br>stable<br>genuine<br>analyst<br>already<br>common<br>wool<br>strategy
@@ -194,6 +206,18 @@ bip_39_word_space_6: ladder pact fruit brother stable genuine
 bip_39_word_space_7: ladder pact fruit brother stable genuine analyst
 bip_39_word_space_8: ladder pact fruit brother stable genuine analyst already
 bip_39_word_space_9: ladder pact fruit brother stable genuine analyst already common
+bip_39_word_underscore_1: ladder
+bip_39_word_underscore_10: ladder_pact_fruit_brother_stable_genuine_analyst_already_common_wool
+bip_39_word_underscore_11: ladder_pact_fruit_brother_stable_genuine_analyst_already_common_wool_strategy
+bip_39_word_underscore_12: ladder_pact_fruit_brother_stable_genuine_analyst_already_common_wool_strategy_apple
+bip_39_word_underscore_2: ladder_pact
+bip_39_word_underscore_3: ladder_pact_fruit
+bip_39_word_underscore_4: ladder_pact_fruit_brother
+bip_39_word_underscore_5: ladder_pact_fruit_brother_stable
+bip_39_word_underscore_6: ladder_pact_fruit_brother_stable_genuine
+bip_39_word_underscore_7: ladder_pact_fruit_brother_stable_genuine_analyst
+bip_39_word_underscore_8: ladder_pact_fruit_brother_stable_genuine_analyst_already
+bip_39_word_underscore_9: ladder_pact_fruit_brother_stable_genuine_analyst_already_common
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

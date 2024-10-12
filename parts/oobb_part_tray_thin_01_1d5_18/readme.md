@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brown |  
+| bip_39_word_dash_10 | brown-gorilla-estate-rhythm-tattoo-quit-capital-afraid-depend-blind |  
+| bip_39_word_dash_11 | brown-gorilla-estate-rhythm-tattoo-quit-capital-afraid-depend-blind-wild |  
+| bip_39_word_dash_12 | brown-gorilla-estate-rhythm-tattoo-quit-capital-afraid-depend-blind-wild-alter |  
+| bip_39_word_dash_2 | brown-gorilla |  
+| bip_39_word_dash_3 | brown-gorilla-estate |  
+| bip_39_word_dash_4 | brown-gorilla-estate-rhythm |  
+| bip_39_word_dash_5 | brown-gorilla-estate-rhythm-tattoo |  
+| bip_39_word_dash_6 | brown-gorilla-estate-rhythm-tattoo-quit |  
+| bip_39_word_dash_7 | brown-gorilla-estate-rhythm-tattoo-quit-capital |  
+| bip_39_word_dash_8 | brown-gorilla-estate-rhythm-tattoo-quit-capital-afraid |  
+| bip_39_word_dash_9 | brown-gorilla-estate-rhythm-tattoo-quit-capital-afraid-depend |  
 | bip_39_word_new_br_1 | brown |  
 | bip_39_word_new_br_10 | brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid<br>depend<br>blind |  
 | bip_39_word_new_br_11 | brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid<br>depend<br>blind<br>wild |  
@@ -147,6 +159,18 @@ depend |
 | bip_39_word_space_7 | brown gorilla estate rhythm tattoo quit capital |  
 | bip_39_word_space_8 | brown gorilla estate rhythm tattoo quit capital afraid |  
 | bip_39_word_space_9 | brown gorilla estate rhythm tattoo quit capital afraid depend |  
+| bip_39_word_underscore_1 | brown |  
+| bip_39_word_underscore_10 | brown_gorilla_estate_rhythm_tattoo_quit_capital_afraid_depend_blind |  
+| bip_39_word_underscore_11 | brown_gorilla_estate_rhythm_tattoo_quit_capital_afraid_depend_blind_wild |  
+| bip_39_word_underscore_12 | brown_gorilla_estate_rhythm_tattoo_quit_capital_afraid_depend_blind_wild_alter |  
+| bip_39_word_underscore_2 | brown_gorilla |  
+| bip_39_word_underscore_3 | brown_gorilla_estate |  
+| bip_39_word_underscore_4 | brown_gorilla_estate_rhythm |  
+| bip_39_word_underscore_5 | brown_gorilla_estate_rhythm_tattoo |  
+| bip_39_word_underscore_6 | brown_gorilla_estate_rhythm_tattoo_quit |  
+| bip_39_word_underscore_7 | brown_gorilla_estate_rhythm_tattoo_quit_capital |  
+| bip_39_word_underscore_8 | brown_gorilla_estate_rhythm_tattoo_quit_capital_afraid |  
+| bip_39_word_underscore_9 | brown_gorilla_estate_rhythm_tattoo_quit_capital_afraid_depend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: goat
+bip_39_word_dash_10: goat-sentence-rebuild-drop-option-retreat-mirror-reason-muscle-stick
+bip_39_word_dash_11: goat-sentence-rebuild-drop-option-retreat-mirror-reason-muscle-stick-guilt
+bip_39_word_dash_12: goat-sentence-rebuild-drop-option-retreat-mirror-reason-muscle-stick-guilt-antique
+bip_39_word_dash_2: goat-sentence
+bip_39_word_dash_3: goat-sentence-rebuild
+bip_39_word_dash_4: goat-sentence-rebuild-drop
+bip_39_word_dash_5: goat-sentence-rebuild-drop-option
+bip_39_word_dash_6: goat-sentence-rebuild-drop-option-retreat
+bip_39_word_dash_7: goat-sentence-rebuild-drop-option-retreat-mirror
+bip_39_word_dash_8: goat-sentence-rebuild-drop-option-retreat-mirror-reason
+bip_39_word_dash_9: goat-sentence-rebuild-drop-option-retreat-mirror-reason-muscle
 bip_39_word_new_br_1: goat
 bip_39_word_new_br_10: goat<br>sentence<br>rebuild<br>drop<br>option<br>retreat<br>mirror<br>reason<br>muscle<br>stick
 bip_39_word_new_br_11: goat<br>sentence<br>rebuild<br>drop<br>option<br>retreat<br>mirror<br>reason<br>muscle<br>stick<br>guilt
@@ -194,6 +206,18 @@ bip_39_word_space_6: goat sentence rebuild drop option retreat
 bip_39_word_space_7: goat sentence rebuild drop option retreat mirror
 bip_39_word_space_8: goat sentence rebuild drop option retreat mirror reason
 bip_39_word_space_9: goat sentence rebuild drop option retreat mirror reason muscle
+bip_39_word_underscore_1: goat
+bip_39_word_underscore_10: goat_sentence_rebuild_drop_option_retreat_mirror_reason_muscle_stick
+bip_39_word_underscore_11: goat_sentence_rebuild_drop_option_retreat_mirror_reason_muscle_stick_guilt
+bip_39_word_underscore_12: goat_sentence_rebuild_drop_option_retreat_mirror_reason_muscle_stick_guilt_antique
+bip_39_word_underscore_2: goat_sentence
+bip_39_word_underscore_3: goat_sentence_rebuild
+bip_39_word_underscore_4: goat_sentence_rebuild_drop
+bip_39_word_underscore_5: goat_sentence_rebuild_drop_option
+bip_39_word_underscore_6: goat_sentence_rebuild_drop_option_retreat
+bip_39_word_underscore_7: goat_sentence_rebuild_drop_option_retreat_mirror
+bip_39_word_underscore_8: goat_sentence_rebuild_drop_option_retreat_mirror_reason
+bip_39_word_underscore_9: goat_sentence_rebuild_drop_option_retreat_mirror_reason_muscle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

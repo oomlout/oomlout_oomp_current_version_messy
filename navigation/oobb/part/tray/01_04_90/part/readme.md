@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toss |  
+| bip_39_word_dash_10 | toss-tackle-evidence-guess-vintage-dune-edge-cabin-fetch-deputy |  
+| bip_39_word_dash_11 | toss-tackle-evidence-guess-vintage-dune-edge-cabin-fetch-deputy-under |  
+| bip_39_word_dash_12 | toss-tackle-evidence-guess-vintage-dune-edge-cabin-fetch-deputy-under-alter |  
+| bip_39_word_dash_2 | toss-tackle |  
+| bip_39_word_dash_3 | toss-tackle-evidence |  
+| bip_39_word_dash_4 | toss-tackle-evidence-guess |  
+| bip_39_word_dash_5 | toss-tackle-evidence-guess-vintage |  
+| bip_39_word_dash_6 | toss-tackle-evidence-guess-vintage-dune |  
+| bip_39_word_dash_7 | toss-tackle-evidence-guess-vintage-dune-edge |  
+| bip_39_word_dash_8 | toss-tackle-evidence-guess-vintage-dune-edge-cabin |  
+| bip_39_word_dash_9 | toss-tackle-evidence-guess-vintage-dune-edge-cabin-fetch |  
 | bip_39_word_new_br_1 | toss |  
 | bip_39_word_new_br_10 | toss<br>tackle<br>evidence<br>guess<br>vintage<br>dune<br>edge<br>cabin<br>fetch<br>deputy |  
 | bip_39_word_new_br_11 | toss<br>tackle<br>evidence<br>guess<br>vintage<br>dune<br>edge<br>cabin<br>fetch<br>deputy<br>under |  
@@ -147,6 +159,18 @@ fetch |
 | bip_39_word_space_7 | toss tackle evidence guess vintage dune edge |  
 | bip_39_word_space_8 | toss tackle evidence guess vintage dune edge cabin |  
 | bip_39_word_space_9 | toss tackle evidence guess vintage dune edge cabin fetch |  
+| bip_39_word_underscore_1 | toss |  
+| bip_39_word_underscore_10 | toss_tackle_evidence_guess_vintage_dune_edge_cabin_fetch_deputy |  
+| bip_39_word_underscore_11 | toss_tackle_evidence_guess_vintage_dune_edge_cabin_fetch_deputy_under |  
+| bip_39_word_underscore_12 | toss_tackle_evidence_guess_vintage_dune_edge_cabin_fetch_deputy_under_alter |  
+| bip_39_word_underscore_2 | toss_tackle |  
+| bip_39_word_underscore_3 | toss_tackle_evidence |  
+| bip_39_word_underscore_4 | toss_tackle_evidence_guess |  
+| bip_39_word_underscore_5 | toss_tackle_evidence_guess_vintage |  
+| bip_39_word_underscore_6 | toss_tackle_evidence_guess_vintage_dune |  
+| bip_39_word_underscore_7 | toss_tackle_evidence_guess_vintage_dune_edge |  
+| bip_39_word_underscore_8 | toss_tackle_evidence_guess_vintage_dune_edge_cabin |  
+| bip_39_word_underscore_9 | toss_tackle_evidence_guess_vintage_dune_edge_cabin_fetch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

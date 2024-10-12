@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | equal |  
+| bip_39_word_dash_10 | equal-clown-panda-pact-crack-between-someone-essay-section-brother |  
+| bip_39_word_dash_11 | equal-clown-panda-pact-crack-between-someone-essay-section-brother-million |  
+| bip_39_word_dash_12 | equal-clown-panda-pact-crack-between-someone-essay-section-brother-million-ankle |  
+| bip_39_word_dash_2 | equal-clown |  
+| bip_39_word_dash_3 | equal-clown-panda |  
+| bip_39_word_dash_4 | equal-clown-panda-pact |  
+| bip_39_word_dash_5 | equal-clown-panda-pact-crack |  
+| bip_39_word_dash_6 | equal-clown-panda-pact-crack-between |  
+| bip_39_word_dash_7 | equal-clown-panda-pact-crack-between-someone |  
+| bip_39_word_dash_8 | equal-clown-panda-pact-crack-between-someone-essay |  
+| bip_39_word_dash_9 | equal-clown-panda-pact-crack-between-someone-essay-section |  
 | bip_39_word_new_br_1 | equal |  
 | bip_39_word_new_br_10 | equal<br>clown<br>panda<br>pact<br>crack<br>between<br>someone<br>essay<br>section<br>brother |  
 | bip_39_word_new_br_11 | equal<br>clown<br>panda<br>pact<br>crack<br>between<br>someone<br>essay<br>section<br>brother<br>million |  
@@ -147,6 +159,18 @@ section |
 | bip_39_word_space_7 | equal clown panda pact crack between someone |  
 | bip_39_word_space_8 | equal clown panda pact crack between someone essay |  
 | bip_39_word_space_9 | equal clown panda pact crack between someone essay section |  
+| bip_39_word_underscore_1 | equal |  
+| bip_39_word_underscore_10 | equal_clown_panda_pact_crack_between_someone_essay_section_brother |  
+| bip_39_word_underscore_11 | equal_clown_panda_pact_crack_between_someone_essay_section_brother_million |  
+| bip_39_word_underscore_12 | equal_clown_panda_pact_crack_between_someone_essay_section_brother_million_ankle |  
+| bip_39_word_underscore_2 | equal_clown |  
+| bip_39_word_underscore_3 | equal_clown_panda |  
+| bip_39_word_underscore_4 | equal_clown_panda_pact |  
+| bip_39_word_underscore_5 | equal_clown_panda_pact_crack |  
+| bip_39_word_underscore_6 | equal_clown_panda_pact_crack_between |  
+| bip_39_word_underscore_7 | equal_clown_panda_pact_crack_between_someone |  
+| bip_39_word_underscore_8 | equal_clown_panda_pact_crack_between_someone_essay |  
+| bip_39_word_underscore_9 | equal_clown_panda_pact_crack_between_someone_essay_section |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

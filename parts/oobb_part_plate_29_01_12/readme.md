@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | antenna |  
+| bip_39_word_dash_10 | antenna-goat-drill-iron-faculty-moon-potato-abuse-effort-case |  
+| bip_39_word_dash_11 | antenna-goat-drill-iron-faculty-moon-potato-abuse-effort-case-area |  
+| bip_39_word_dash_12 | antenna-goat-drill-iron-faculty-moon-potato-abuse-effort-case-area-anxiety |  
+| bip_39_word_dash_2 | antenna-goat |  
+| bip_39_word_dash_3 | antenna-goat-drill |  
+| bip_39_word_dash_4 | antenna-goat-drill-iron |  
+| bip_39_word_dash_5 | antenna-goat-drill-iron-faculty |  
+| bip_39_word_dash_6 | antenna-goat-drill-iron-faculty-moon |  
+| bip_39_word_dash_7 | antenna-goat-drill-iron-faculty-moon-potato |  
+| bip_39_word_dash_8 | antenna-goat-drill-iron-faculty-moon-potato-abuse |  
+| bip_39_word_dash_9 | antenna-goat-drill-iron-faculty-moon-potato-abuse-effort |  
 | bip_39_word_new_br_1 | antenna |  
 | bip_39_word_new_br_10 | antenna<br>goat<br>drill<br>iron<br>faculty<br>moon<br>potato<br>abuse<br>effort<br>case |  
 | bip_39_word_new_br_11 | antenna<br>goat<br>drill<br>iron<br>faculty<br>moon<br>potato<br>abuse<br>effort<br>case<br>area |  
@@ -147,6 +159,18 @@ effort |
 | bip_39_word_space_7 | antenna goat drill iron faculty moon potato |  
 | bip_39_word_space_8 | antenna goat drill iron faculty moon potato abuse |  
 | bip_39_word_space_9 | antenna goat drill iron faculty moon potato abuse effort |  
+| bip_39_word_underscore_1 | antenna |  
+| bip_39_word_underscore_10 | antenna_goat_drill_iron_faculty_moon_potato_abuse_effort_case |  
+| bip_39_word_underscore_11 | antenna_goat_drill_iron_faculty_moon_potato_abuse_effort_case_area |  
+| bip_39_word_underscore_12 | antenna_goat_drill_iron_faculty_moon_potato_abuse_effort_case_area_anxiety |  
+| bip_39_word_underscore_2 | antenna_goat |  
+| bip_39_word_underscore_3 | antenna_goat_drill |  
+| bip_39_word_underscore_4 | antenna_goat_drill_iron |  
+| bip_39_word_underscore_5 | antenna_goat_drill_iron_faculty |  
+| bip_39_word_underscore_6 | antenna_goat_drill_iron_faculty_moon |  
+| bip_39_word_underscore_7 | antenna_goat_drill_iron_faculty_moon_potato |  
+| bip_39_word_underscore_8 | antenna_goat_drill_iron_faculty_moon_potato_abuse |  
+| bip_39_word_underscore_9 | antenna_goat_drill_iron_faculty_moon_potato_abuse_effort |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

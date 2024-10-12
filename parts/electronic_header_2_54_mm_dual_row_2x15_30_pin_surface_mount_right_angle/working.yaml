@@ -1,3 +1,15 @@
+bip_39_word_dash_1: obey
+bip_39_word_dash_10: obey-turn-defense-face-pill-team-medal-roof-evil-shoot
+bip_39_word_dash_11: obey-turn-defense-face-pill-team-medal-roof-evil-shoot-believe
+bip_39_word_dash_12: obey-turn-defense-face-pill-team-medal-roof-evil-shoot-believe-ask
+bip_39_word_dash_2: obey-turn
+bip_39_word_dash_3: obey-turn-defense
+bip_39_word_dash_4: obey-turn-defense-face
+bip_39_word_dash_5: obey-turn-defense-face-pill
+bip_39_word_dash_6: obey-turn-defense-face-pill-team
+bip_39_word_dash_7: obey-turn-defense-face-pill-team-medal
+bip_39_word_dash_8: obey-turn-defense-face-pill-team-medal-roof
+bip_39_word_dash_9: obey-turn-defense-face-pill-team-medal-roof-evil
 bip_39_word_new_br_1: obey
 bip_39_word_new_br_10: obey<br>turn<br>defense<br>face<br>pill<br>team<br>medal<br>roof<br>evil<br>shoot
 bip_39_word_new_br_11: obey<br>turn<br>defense<br>face<br>pill<br>team<br>medal<br>roof<br>evil<br>shoot<br>believe
@@ -192,6 +204,18 @@ bip_39_word_space_6: obey turn defense face pill team
 bip_39_word_space_7: obey turn defense face pill team medal
 bip_39_word_space_8: obey turn defense face pill team medal roof
 bip_39_word_space_9: obey turn defense face pill team medal roof evil
+bip_39_word_underscore_1: obey
+bip_39_word_underscore_10: obey_turn_defense_face_pill_team_medal_roof_evil_shoot
+bip_39_word_underscore_11: obey_turn_defense_face_pill_team_medal_roof_evil_shoot_believe
+bip_39_word_underscore_12: obey_turn_defense_face_pill_team_medal_roof_evil_shoot_believe_ask
+bip_39_word_underscore_2: obey_turn
+bip_39_word_underscore_3: obey_turn_defense
+bip_39_word_underscore_4: obey_turn_defense_face
+bip_39_word_underscore_5: obey_turn_defense_face_pill
+bip_39_word_underscore_6: obey_turn_defense_face_pill_team
+bip_39_word_underscore_7: obey_turn_defense_face_pill_team_medal
+bip_39_word_underscore_8: obey_turn_defense_face_pill_team_medal_roof
+bip_39_word_underscore_9: obey_turn_defense_face_pill_team_medal_roof_evil
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

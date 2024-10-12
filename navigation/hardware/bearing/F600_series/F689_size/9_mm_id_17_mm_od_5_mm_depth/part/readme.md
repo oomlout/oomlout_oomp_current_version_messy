@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decide |  
+| bip_39_word_dash_10 | decide-female-label-alien-sweet-donkey-patch-drama-salad-language |  
+| bip_39_word_dash_11 | decide-female-label-alien-sweet-donkey-patch-drama-salad-language-chef |  
+| bip_39_word_dash_12 | decide-female-label-alien-sweet-donkey-patch-drama-salad-language-chef-assist |  
+| bip_39_word_dash_2 | decide-female |  
+| bip_39_word_dash_3 | decide-female-label |  
+| bip_39_word_dash_4 | decide-female-label-alien |  
+| bip_39_word_dash_5 | decide-female-label-alien-sweet |  
+| bip_39_word_dash_6 | decide-female-label-alien-sweet-donkey |  
+| bip_39_word_dash_7 | decide-female-label-alien-sweet-donkey-patch |  
+| bip_39_word_dash_8 | decide-female-label-alien-sweet-donkey-patch-drama |  
+| bip_39_word_dash_9 | decide-female-label-alien-sweet-donkey-patch-drama-salad |  
 | bip_39_word_new_br_1 | decide |  
 | bip_39_word_new_br_10 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama<br>salad<br>language |  
 | bip_39_word_new_br_11 | decide<br>female<br>label<br>alien<br>sweet<br>donkey<br>patch<br>drama<br>salad<br>language<br>chef |  
@@ -147,6 +159,18 @@ salad |
 | bip_39_word_space_7 | decide female label alien sweet donkey patch |  
 | bip_39_word_space_8 | decide female label alien sweet donkey patch drama |  
 | bip_39_word_space_9 | decide female label alien sweet donkey patch drama salad |  
+| bip_39_word_underscore_1 | decide |  
+| bip_39_word_underscore_10 | decide_female_label_alien_sweet_donkey_patch_drama_salad_language |  
+| bip_39_word_underscore_11 | decide_female_label_alien_sweet_donkey_patch_drama_salad_language_chef |  
+| bip_39_word_underscore_12 | decide_female_label_alien_sweet_donkey_patch_drama_salad_language_chef_assist |  
+| bip_39_word_underscore_2 | decide_female |  
+| bip_39_word_underscore_3 | decide_female_label |  
+| bip_39_word_underscore_4 | decide_female_label_alien |  
+| bip_39_word_underscore_5 | decide_female_label_alien_sweet |  
+| bip_39_word_underscore_6 | decide_female_label_alien_sweet_donkey |  
+| bip_39_word_underscore_7 | decide_female_label_alien_sweet_donkey_patch |  
+| bip_39_word_underscore_8 | decide_female_label_alien_sweet_donkey_patch_drama |  
+| bip_39_word_underscore_9 | decide_female_label_alien_sweet_donkey_patch_drama_salad |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

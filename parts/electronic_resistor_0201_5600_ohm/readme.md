@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rapid |  
+| bip_39_word_dash_10 | rapid-trial-estate-smoke-blue-room-security-jump-clinic-hair |  
+| bip_39_word_dash_11 | rapid-trial-estate-smoke-blue-room-security-jump-clinic-hair-novel |  
+| bip_39_word_dash_12 | rapid-trial-estate-smoke-blue-room-security-jump-clinic-hair-novel-airport |  
+| bip_39_word_dash_2 | rapid-trial |  
+| bip_39_word_dash_3 | rapid-trial-estate |  
+| bip_39_word_dash_4 | rapid-trial-estate-smoke |  
+| bip_39_word_dash_5 | rapid-trial-estate-smoke-blue |  
+| bip_39_word_dash_6 | rapid-trial-estate-smoke-blue-room |  
+| bip_39_word_dash_7 | rapid-trial-estate-smoke-blue-room-security |  
+| bip_39_word_dash_8 | rapid-trial-estate-smoke-blue-room-security-jump |  
+| bip_39_word_dash_9 | rapid-trial-estate-smoke-blue-room-security-jump-clinic |  
 | bip_39_word_new_br_1 | rapid |  
 | bip_39_word_new_br_10 | rapid<br>trial<br>estate<br>smoke<br>blue<br>room<br>security<br>jump<br>clinic<br>hair |  
 | bip_39_word_new_br_11 | rapid<br>trial<br>estate<br>smoke<br>blue<br>room<br>security<br>jump<br>clinic<br>hair<br>novel |  
@@ -147,6 +159,18 @@ clinic |
 | bip_39_word_space_7 | rapid trial estate smoke blue room security |  
 | bip_39_word_space_8 | rapid trial estate smoke blue room security jump |  
 | bip_39_word_space_9 | rapid trial estate smoke blue room security jump clinic |  
+| bip_39_word_underscore_1 | rapid |  
+| bip_39_word_underscore_10 | rapid_trial_estate_smoke_blue_room_security_jump_clinic_hair |  
+| bip_39_word_underscore_11 | rapid_trial_estate_smoke_blue_room_security_jump_clinic_hair_novel |  
+| bip_39_word_underscore_12 | rapid_trial_estate_smoke_blue_room_security_jump_clinic_hair_novel_airport |  
+| bip_39_word_underscore_2 | rapid_trial |  
+| bip_39_word_underscore_3 | rapid_trial_estate |  
+| bip_39_word_underscore_4 | rapid_trial_estate_smoke |  
+| bip_39_word_underscore_5 | rapid_trial_estate_smoke_blue |  
+| bip_39_word_underscore_6 | rapid_trial_estate_smoke_blue_room |  
+| bip_39_word_underscore_7 | rapid_trial_estate_smoke_blue_room_security |  
+| bip_39_word_underscore_8 | rapid_trial_estate_smoke_blue_room_security_jump |  
+| bip_39_word_underscore_9 | rapid_trial_estate_smoke_blue_room_security_jump_clinic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

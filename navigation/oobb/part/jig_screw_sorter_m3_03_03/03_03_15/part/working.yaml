@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vivid
+bip_39_word_dash_10: vivid-wheel-ice-fiscal-same-replace-exhaust-true-tower-ill
+bip_39_word_dash_11: vivid-wheel-ice-fiscal-same-replace-exhaust-true-tower-ill-mushroom
+bip_39_word_dash_12: vivid-wheel-ice-fiscal-same-replace-exhaust-true-tower-ill-mushroom-already
+bip_39_word_dash_2: vivid-wheel
+bip_39_word_dash_3: vivid-wheel-ice
+bip_39_word_dash_4: vivid-wheel-ice-fiscal
+bip_39_word_dash_5: vivid-wheel-ice-fiscal-same
+bip_39_word_dash_6: vivid-wheel-ice-fiscal-same-replace
+bip_39_word_dash_7: vivid-wheel-ice-fiscal-same-replace-exhaust
+bip_39_word_dash_8: vivid-wheel-ice-fiscal-same-replace-exhaust-true
+bip_39_word_dash_9: vivid-wheel-ice-fiscal-same-replace-exhaust-true-tower
 bip_39_word_new_br_1: vivid
 bip_39_word_new_br_10: vivid<br>wheel<br>ice<br>fiscal<br>same<br>replace<br>exhaust<br>true<br>tower<br>ill
 bip_39_word_new_br_11: vivid<br>wheel<br>ice<br>fiscal<br>same<br>replace<br>exhaust<br>true<br>tower<br>ill<br>mushroom
@@ -192,6 +204,18 @@ bip_39_word_space_6: vivid wheel ice fiscal same replace
 bip_39_word_space_7: vivid wheel ice fiscal same replace exhaust
 bip_39_word_space_8: vivid wheel ice fiscal same replace exhaust true
 bip_39_word_space_9: vivid wheel ice fiscal same replace exhaust true tower
+bip_39_word_underscore_1: vivid
+bip_39_word_underscore_10: vivid_wheel_ice_fiscal_same_replace_exhaust_true_tower_ill
+bip_39_word_underscore_11: vivid_wheel_ice_fiscal_same_replace_exhaust_true_tower_ill_mushroom
+bip_39_word_underscore_12: vivid_wheel_ice_fiscal_same_replace_exhaust_true_tower_ill_mushroom_already
+bip_39_word_underscore_2: vivid_wheel
+bip_39_word_underscore_3: vivid_wheel_ice
+bip_39_word_underscore_4: vivid_wheel_ice_fiscal
+bip_39_word_underscore_5: vivid_wheel_ice_fiscal_same
+bip_39_word_underscore_6: vivid_wheel_ice_fiscal_same_replace
+bip_39_word_underscore_7: vivid_wheel_ice_fiscal_same_replace_exhaust
+bip_39_word_underscore_8: vivid_wheel_ice_fiscal_same_replace_exhaust_true
+bip_39_word_underscore_9: vivid_wheel_ice_fiscal_same_replace_exhaust_true_tower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

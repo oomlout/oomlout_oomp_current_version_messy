@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blast
+bip_39_word_dash_10: blast-chase-pear-obey-try-amused-erase-canoe-wasp-warfare
+bip_39_word_dash_11: blast-chase-pear-obey-try-amused-erase-canoe-wasp-warfare-census
+bip_39_word_dash_12: blast-chase-pear-obey-try-amused-erase-canoe-wasp-warfare-census-adapt
+bip_39_word_dash_2: blast-chase
+bip_39_word_dash_3: blast-chase-pear
+bip_39_word_dash_4: blast-chase-pear-obey
+bip_39_word_dash_5: blast-chase-pear-obey-try
+bip_39_word_dash_6: blast-chase-pear-obey-try-amused
+bip_39_word_dash_7: blast-chase-pear-obey-try-amused-erase
+bip_39_word_dash_8: blast-chase-pear-obey-try-amused-erase-canoe
+bip_39_word_dash_9: blast-chase-pear-obey-try-amused-erase-canoe-wasp
 bip_39_word_new_br_1: blast
 bip_39_word_new_br_10: blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe<br>wasp<br>warfare
 bip_39_word_new_br_11: blast<br>chase<br>pear<br>obey<br>try<br>amused<br>erase<br>canoe<br>wasp<br>warfare<br>census
@@ -192,6 +204,18 @@ bip_39_word_space_6: blast chase pear obey try amused
 bip_39_word_space_7: blast chase pear obey try amused erase
 bip_39_word_space_8: blast chase pear obey try amused erase canoe
 bip_39_word_space_9: blast chase pear obey try amused erase canoe wasp
+bip_39_word_underscore_1: blast
+bip_39_word_underscore_10: blast_chase_pear_obey_try_amused_erase_canoe_wasp_warfare
+bip_39_word_underscore_11: blast_chase_pear_obey_try_amused_erase_canoe_wasp_warfare_census
+bip_39_word_underscore_12: blast_chase_pear_obey_try_amused_erase_canoe_wasp_warfare_census_adapt
+bip_39_word_underscore_2: blast_chase
+bip_39_word_underscore_3: blast_chase_pear
+bip_39_word_underscore_4: blast_chase_pear_obey
+bip_39_word_underscore_5: blast_chase_pear_obey_try
+bip_39_word_underscore_6: blast_chase_pear_obey_try_amused
+bip_39_word_underscore_7: blast_chase_pear_obey_try_amused_erase
+bip_39_word_underscore_8: blast_chase_pear_obey_try_amused_erase_canoe
+bip_39_word_underscore_9: blast_chase_pear_obey_try_amused_erase_canoe_wasp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

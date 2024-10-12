@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bracket |  
+| bip_39_word_dash_10 | bracket-romance-alpha-simple-water-forget-recipe-glass-blood-law |  
+| bip_39_word_dash_11 | bracket-romance-alpha-simple-water-forget-recipe-glass-blood-law-innocent |  
+| bip_39_word_dash_12 | bracket-romance-alpha-simple-water-forget-recipe-glass-blood-law-innocent-absurd |  
+| bip_39_word_dash_2 | bracket-romance |  
+| bip_39_word_dash_3 | bracket-romance-alpha |  
+| bip_39_word_dash_4 | bracket-romance-alpha-simple |  
+| bip_39_word_dash_5 | bracket-romance-alpha-simple-water |  
+| bip_39_word_dash_6 | bracket-romance-alpha-simple-water-forget |  
+| bip_39_word_dash_7 | bracket-romance-alpha-simple-water-forget-recipe |  
+| bip_39_word_dash_8 | bracket-romance-alpha-simple-water-forget-recipe-glass |  
+| bip_39_word_dash_9 | bracket-romance-alpha-simple-water-forget-recipe-glass-blood |  
 | bip_39_word_new_br_1 | bracket |  
 | bip_39_word_new_br_10 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law |  
 | bip_39_word_new_br_11 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law<br>innocent |  
@@ -147,6 +159,18 @@ blood |
 | bip_39_word_space_7 | bracket romance alpha simple water forget recipe |  
 | bip_39_word_space_8 | bracket romance alpha simple water forget recipe glass |  
 | bip_39_word_space_9 | bracket romance alpha simple water forget recipe glass blood |  
+| bip_39_word_underscore_1 | bracket |  
+| bip_39_word_underscore_10 | bracket_romance_alpha_simple_water_forget_recipe_glass_blood_law |  
+| bip_39_word_underscore_11 | bracket_romance_alpha_simple_water_forget_recipe_glass_blood_law_innocent |  
+| bip_39_word_underscore_12 | bracket_romance_alpha_simple_water_forget_recipe_glass_blood_law_innocent_absurd |  
+| bip_39_word_underscore_2 | bracket_romance |  
+| bip_39_word_underscore_3 | bracket_romance_alpha |  
+| bip_39_word_underscore_4 | bracket_romance_alpha_simple |  
+| bip_39_word_underscore_5 | bracket_romance_alpha_simple_water |  
+| bip_39_word_underscore_6 | bracket_romance_alpha_simple_water_forget |  
+| bip_39_word_underscore_7 | bracket_romance_alpha_simple_water_forget_recipe |  
+| bip_39_word_underscore_8 | bracket_romance_alpha_simple_water_forget_recipe_glass |  
+| bip_39_word_underscore_9 | bracket_romance_alpha_simple_water_forget_recipe_glass_blood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: abstract
+bip_39_word_dash_10: abstract-car-slogan-salad-cram-vault-blast-devote-book-key
+bip_39_word_dash_11: abstract-car-slogan-salad-cram-vault-blast-devote-book-key-jeans
+bip_39_word_dash_12: abstract-car-slogan-salad-cram-vault-blast-devote-book-key-jeans-arctic
+bip_39_word_dash_2: abstract-car
+bip_39_word_dash_3: abstract-car-slogan
+bip_39_word_dash_4: abstract-car-slogan-salad
+bip_39_word_dash_5: abstract-car-slogan-salad-cram
+bip_39_word_dash_6: abstract-car-slogan-salad-cram-vault
+bip_39_word_dash_7: abstract-car-slogan-salad-cram-vault-blast
+bip_39_word_dash_8: abstract-car-slogan-salad-cram-vault-blast-devote
+bip_39_word_dash_9: abstract-car-slogan-salad-cram-vault-blast-devote-book
 bip_39_word_new_br_1: abstract
 bip_39_word_new_br_10: abstract<br>car<br>slogan<br>salad<br>cram<br>vault<br>blast<br>devote<br>book<br>key
 bip_39_word_new_br_11: abstract<br>car<br>slogan<br>salad<br>cram<br>vault<br>blast<br>devote<br>book<br>key<br>jeans
@@ -192,6 +204,18 @@ bip_39_word_space_6: abstract car slogan salad cram vault
 bip_39_word_space_7: abstract car slogan salad cram vault blast
 bip_39_word_space_8: abstract car slogan salad cram vault blast devote
 bip_39_word_space_9: abstract car slogan salad cram vault blast devote book
+bip_39_word_underscore_1: abstract
+bip_39_word_underscore_10: abstract_car_slogan_salad_cram_vault_blast_devote_book_key
+bip_39_word_underscore_11: abstract_car_slogan_salad_cram_vault_blast_devote_book_key_jeans
+bip_39_word_underscore_12: abstract_car_slogan_salad_cram_vault_blast_devote_book_key_jeans_arctic
+bip_39_word_underscore_2: abstract_car
+bip_39_word_underscore_3: abstract_car_slogan
+bip_39_word_underscore_4: abstract_car_slogan_salad
+bip_39_word_underscore_5: abstract_car_slogan_salad_cram
+bip_39_word_underscore_6: abstract_car_slogan_salad_cram_vault
+bip_39_word_underscore_7: abstract_car_slogan_salad_cram_vault_blast
+bip_39_word_underscore_8: abstract_car_slogan_salad_cram_vault_blast_devote
+bip_39_word_underscore_9: abstract_car_slogan_salad_cram_vault_blast_devote_book
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crack |  
+| bip_39_word_dash_10 | crack-nothing-wine-board-earn-gadget-group-kit-lounge-program |  
+| bip_39_word_dash_11 | crack-nothing-wine-board-earn-gadget-group-kit-lounge-program-kind |  
+| bip_39_word_dash_12 | crack-nothing-wine-board-earn-gadget-group-kit-lounge-program-kind-athlete |  
+| bip_39_word_dash_2 | crack-nothing |  
+| bip_39_word_dash_3 | crack-nothing-wine |  
+| bip_39_word_dash_4 | crack-nothing-wine-board |  
+| bip_39_word_dash_5 | crack-nothing-wine-board-earn |  
+| bip_39_word_dash_6 | crack-nothing-wine-board-earn-gadget |  
+| bip_39_word_dash_7 | crack-nothing-wine-board-earn-gadget-group |  
+| bip_39_word_dash_8 | crack-nothing-wine-board-earn-gadget-group-kit |  
+| bip_39_word_dash_9 | crack-nothing-wine-board-earn-gadget-group-kit-lounge |  
 | bip_39_word_new_br_1 | crack |  
 | bip_39_word_new_br_10 | crack<br>nothing<br>wine<br>board<br>earn<br>gadget<br>group<br>kit<br>lounge<br>program |  
 | bip_39_word_new_br_11 | crack<br>nothing<br>wine<br>board<br>earn<br>gadget<br>group<br>kit<br>lounge<br>program<br>kind |  
@@ -147,6 +159,18 @@ lounge |
 | bip_39_word_space_7 | crack nothing wine board earn gadget group |  
 | bip_39_word_space_8 | crack nothing wine board earn gadget group kit |  
 | bip_39_word_space_9 | crack nothing wine board earn gadget group kit lounge |  
+| bip_39_word_underscore_1 | crack |  
+| bip_39_word_underscore_10 | crack_nothing_wine_board_earn_gadget_group_kit_lounge_program |  
+| bip_39_word_underscore_11 | crack_nothing_wine_board_earn_gadget_group_kit_lounge_program_kind |  
+| bip_39_word_underscore_12 | crack_nothing_wine_board_earn_gadget_group_kit_lounge_program_kind_athlete |  
+| bip_39_word_underscore_2 | crack_nothing |  
+| bip_39_word_underscore_3 | crack_nothing_wine |  
+| bip_39_word_underscore_4 | crack_nothing_wine_board |  
+| bip_39_word_underscore_5 | crack_nothing_wine_board_earn |  
+| bip_39_word_underscore_6 | crack_nothing_wine_board_earn_gadget |  
+| bip_39_word_underscore_7 | crack_nothing_wine_board_earn_gadget_group |  
+| bip_39_word_underscore_8 | crack_nothing_wine_board_earn_gadget_group_kit |  
+| bip_39_word_underscore_9 | crack_nothing_wine_board_earn_gadget_group_kit_lounge |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

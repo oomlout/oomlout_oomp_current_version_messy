@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fold
+bip_39_word_dash_10: fold-skirt-snake-oppose-bounce-worth-myself-fit-science-rifle
+bip_39_word_dash_11: fold-skirt-snake-oppose-bounce-worth-myself-fit-science-rifle-north
+bip_39_word_dash_12: fold-skirt-snake-oppose-bounce-worth-myself-fit-science-rifle-north-act
+bip_39_word_dash_2: fold-skirt
+bip_39_word_dash_3: fold-skirt-snake
+bip_39_word_dash_4: fold-skirt-snake-oppose
+bip_39_word_dash_5: fold-skirt-snake-oppose-bounce
+bip_39_word_dash_6: fold-skirt-snake-oppose-bounce-worth
+bip_39_word_dash_7: fold-skirt-snake-oppose-bounce-worth-myself
+bip_39_word_dash_8: fold-skirt-snake-oppose-bounce-worth-myself-fit
+bip_39_word_dash_9: fold-skirt-snake-oppose-bounce-worth-myself-fit-science
 bip_39_word_new_br_1: fold
 bip_39_word_new_br_10: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle
 bip_39_word_new_br_11: fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle<br>north
@@ -193,6 +205,18 @@ bip_39_word_space_6: fold skirt snake oppose bounce worth
 bip_39_word_space_7: fold skirt snake oppose bounce worth myself
 bip_39_word_space_8: fold skirt snake oppose bounce worth myself fit
 bip_39_word_space_9: fold skirt snake oppose bounce worth myself fit science
+bip_39_word_underscore_1: fold
+bip_39_word_underscore_10: fold_skirt_snake_oppose_bounce_worth_myself_fit_science_rifle
+bip_39_word_underscore_11: fold_skirt_snake_oppose_bounce_worth_myself_fit_science_rifle_north
+bip_39_word_underscore_12: fold_skirt_snake_oppose_bounce_worth_myself_fit_science_rifle_north_act
+bip_39_word_underscore_2: fold_skirt
+bip_39_word_underscore_3: fold_skirt_snake
+bip_39_word_underscore_4: fold_skirt_snake_oppose
+bip_39_word_underscore_5: fold_skirt_snake_oppose_bounce
+bip_39_word_underscore_6: fold_skirt_snake_oppose_bounce_worth
+bip_39_word_underscore_7: fold_skirt_snake_oppose_bounce_worth_myself
+bip_39_word_underscore_8: fold_skirt_snake_oppose_bounce_worth_myself_fit
+bip_39_word_underscore_9: fold_skirt_snake_oppose_bounce_worth_myself_fit_science
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

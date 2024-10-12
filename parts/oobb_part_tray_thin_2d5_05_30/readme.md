@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bubble |  
+| bip_39_word_dash_10 | bubble-quarter-reform-sunny-fatigue-problem-boost-plate-neutral-van |  
+| bip_39_word_dash_11 | bubble-quarter-reform-sunny-fatigue-problem-boost-plate-neutral-van-more |  
+| bip_39_word_dash_12 | bubble-quarter-reform-sunny-fatigue-problem-boost-plate-neutral-van-more-alone |  
+| bip_39_word_dash_2 | bubble-quarter |  
+| bip_39_word_dash_3 | bubble-quarter-reform |  
+| bip_39_word_dash_4 | bubble-quarter-reform-sunny |  
+| bip_39_word_dash_5 | bubble-quarter-reform-sunny-fatigue |  
+| bip_39_word_dash_6 | bubble-quarter-reform-sunny-fatigue-problem |  
+| bip_39_word_dash_7 | bubble-quarter-reform-sunny-fatigue-problem-boost |  
+| bip_39_word_dash_8 | bubble-quarter-reform-sunny-fatigue-problem-boost-plate |  
+| bip_39_word_dash_9 | bubble-quarter-reform-sunny-fatigue-problem-boost-plate-neutral |  
 | bip_39_word_new_br_1 | bubble |  
 | bip_39_word_new_br_10 | bubble<br>quarter<br>reform<br>sunny<br>fatigue<br>problem<br>boost<br>plate<br>neutral<br>van |  
 | bip_39_word_new_br_11 | bubble<br>quarter<br>reform<br>sunny<br>fatigue<br>problem<br>boost<br>plate<br>neutral<br>van<br>more |  
@@ -147,6 +159,18 @@ neutral |
 | bip_39_word_space_7 | bubble quarter reform sunny fatigue problem boost |  
 | bip_39_word_space_8 | bubble quarter reform sunny fatigue problem boost plate |  
 | bip_39_word_space_9 | bubble quarter reform sunny fatigue problem boost plate neutral |  
+| bip_39_word_underscore_1 | bubble |  
+| bip_39_word_underscore_10 | bubble_quarter_reform_sunny_fatigue_problem_boost_plate_neutral_van |  
+| bip_39_word_underscore_11 | bubble_quarter_reform_sunny_fatigue_problem_boost_plate_neutral_van_more |  
+| bip_39_word_underscore_12 | bubble_quarter_reform_sunny_fatigue_problem_boost_plate_neutral_van_more_alone |  
+| bip_39_word_underscore_2 | bubble_quarter |  
+| bip_39_word_underscore_3 | bubble_quarter_reform |  
+| bip_39_word_underscore_4 | bubble_quarter_reform_sunny |  
+| bip_39_word_underscore_5 | bubble_quarter_reform_sunny_fatigue |  
+| bip_39_word_underscore_6 | bubble_quarter_reform_sunny_fatigue_problem |  
+| bip_39_word_underscore_7 | bubble_quarter_reform_sunny_fatigue_problem_boost |  
+| bip_39_word_underscore_8 | bubble_quarter_reform_sunny_fatigue_problem_boost_plate |  
+| bip_39_word_underscore_9 | bubble_quarter_reform_sunny_fatigue_problem_boost_plate_neutral |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

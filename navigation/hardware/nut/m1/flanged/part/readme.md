@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mass |  
+| bip_39_word_dash_10 | mass-song-enforce-enemy-indicate-erupt-ahead-input-truck-mammal |  
+| bip_39_word_dash_11 | mass-song-enforce-enemy-indicate-erupt-ahead-input-truck-mammal-sleep |  
+| bip_39_word_dash_12 | mass-song-enforce-enemy-indicate-erupt-ahead-input-truck-mammal-sleep-auto |  
+| bip_39_word_dash_2 | mass-song |  
+| bip_39_word_dash_3 | mass-song-enforce |  
+| bip_39_word_dash_4 | mass-song-enforce-enemy |  
+| bip_39_word_dash_5 | mass-song-enforce-enemy-indicate |  
+| bip_39_word_dash_6 | mass-song-enforce-enemy-indicate-erupt |  
+| bip_39_word_dash_7 | mass-song-enforce-enemy-indicate-erupt-ahead |  
+| bip_39_word_dash_8 | mass-song-enforce-enemy-indicate-erupt-ahead-input |  
+| bip_39_word_dash_9 | mass-song-enforce-enemy-indicate-erupt-ahead-input-truck |  
 | bip_39_word_new_br_1 | mass |  
 | bip_39_word_new_br_10 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal |  
 | bip_39_word_new_br_11 | mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal<br>sleep |  
@@ -147,6 +159,18 @@ truck |
 | bip_39_word_space_7 | mass song enforce enemy indicate erupt ahead |  
 | bip_39_word_space_8 | mass song enforce enemy indicate erupt ahead input |  
 | bip_39_word_space_9 | mass song enforce enemy indicate erupt ahead input truck |  
+| bip_39_word_underscore_1 | mass |  
+| bip_39_word_underscore_10 | mass_song_enforce_enemy_indicate_erupt_ahead_input_truck_mammal |  
+| bip_39_word_underscore_11 | mass_song_enforce_enemy_indicate_erupt_ahead_input_truck_mammal_sleep |  
+| bip_39_word_underscore_12 | mass_song_enforce_enemy_indicate_erupt_ahead_input_truck_mammal_sleep_auto |  
+| bip_39_word_underscore_2 | mass_song |  
+| bip_39_word_underscore_3 | mass_song_enforce |  
+| bip_39_word_underscore_4 | mass_song_enforce_enemy |  
+| bip_39_word_underscore_5 | mass_song_enforce_enemy_indicate |  
+| bip_39_word_underscore_6 | mass_song_enforce_enemy_indicate_erupt |  
+| bip_39_word_underscore_7 | mass_song_enforce_enemy_indicate_erupt_ahead |  
+| bip_39_word_underscore_8 | mass_song_enforce_enemy_indicate_erupt_ahead_input |  
+| bip_39_word_underscore_9 | mass_song_enforce_enemy_indicate_erupt_ahead_input_truck |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

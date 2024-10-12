@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | include |  
+| bip_39_word_dash_10 | include-shoulder-green-science-major-endorse-join-dolphin-cinnamon-master |  
+| bip_39_word_dash_11 | include-shoulder-green-science-major-endorse-join-dolphin-cinnamon-master-muffin |  
+| bip_39_word_dash_12 | include-shoulder-green-science-major-endorse-join-dolphin-cinnamon-master-muffin-across |  
+| bip_39_word_dash_2 | include-shoulder |  
+| bip_39_word_dash_3 | include-shoulder-green |  
+| bip_39_word_dash_4 | include-shoulder-green-science |  
+| bip_39_word_dash_5 | include-shoulder-green-science-major |  
+| bip_39_word_dash_6 | include-shoulder-green-science-major-endorse |  
+| bip_39_word_dash_7 | include-shoulder-green-science-major-endorse-join |  
+| bip_39_word_dash_8 | include-shoulder-green-science-major-endorse-join-dolphin |  
+| bip_39_word_dash_9 | include-shoulder-green-science-major-endorse-join-dolphin-cinnamon |  
 | bip_39_word_new_br_1 | include |  
 | bip_39_word_new_br_10 | include<br>shoulder<br>green<br>science<br>major<br>endorse<br>join<br>dolphin<br>cinnamon<br>master |  
 | bip_39_word_new_br_11 | include<br>shoulder<br>green<br>science<br>major<br>endorse<br>join<br>dolphin<br>cinnamon<br>master<br>muffin |  
@@ -147,6 +159,18 @@ cinnamon |
 | bip_39_word_space_7 | include shoulder green science major endorse join |  
 | bip_39_word_space_8 | include shoulder green science major endorse join dolphin |  
 | bip_39_word_space_9 | include shoulder green science major endorse join dolphin cinnamon |  
+| bip_39_word_underscore_1 | include |  
+| bip_39_word_underscore_10 | include_shoulder_green_science_major_endorse_join_dolphin_cinnamon_master |  
+| bip_39_word_underscore_11 | include_shoulder_green_science_major_endorse_join_dolphin_cinnamon_master_muffin |  
+| bip_39_word_underscore_12 | include_shoulder_green_science_major_endorse_join_dolphin_cinnamon_master_muffin_across |  
+| bip_39_word_underscore_2 | include_shoulder |  
+| bip_39_word_underscore_3 | include_shoulder_green |  
+| bip_39_word_underscore_4 | include_shoulder_green_science |  
+| bip_39_word_underscore_5 | include_shoulder_green_science_major |  
+| bip_39_word_underscore_6 | include_shoulder_green_science_major_endorse |  
+| bip_39_word_underscore_7 | include_shoulder_green_science_major_endorse_join |  
+| bip_39_word_underscore_8 | include_shoulder_green_science_major_endorse_join_dolphin |  
+| bip_39_word_underscore_9 | include_shoulder_green_science_major_endorse_join_dolphin_cinnamon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

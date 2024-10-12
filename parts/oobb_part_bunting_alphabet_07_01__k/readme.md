@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | together |  
+| bip_39_word_dash_10 | together-elbow-card-sunset-once-ostrich-hip-ribbon-neck-loop |  
+| bip_39_word_dash_11 | together-elbow-card-sunset-once-ostrich-hip-ribbon-neck-loop-illness |  
+| bip_39_word_dash_12 | together-elbow-card-sunset-once-ostrich-hip-ribbon-neck-loop-illness-author |  
+| bip_39_word_dash_2 | together-elbow |  
+| bip_39_word_dash_3 | together-elbow-card |  
+| bip_39_word_dash_4 | together-elbow-card-sunset |  
+| bip_39_word_dash_5 | together-elbow-card-sunset-once |  
+| bip_39_word_dash_6 | together-elbow-card-sunset-once-ostrich |  
+| bip_39_word_dash_7 | together-elbow-card-sunset-once-ostrich-hip |  
+| bip_39_word_dash_8 | together-elbow-card-sunset-once-ostrich-hip-ribbon |  
+| bip_39_word_dash_9 | together-elbow-card-sunset-once-ostrich-hip-ribbon-neck |  
 | bip_39_word_new_br_1 | together |  
 | bip_39_word_new_br_10 | together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon<br>neck<br>loop |  
 | bip_39_word_new_br_11 | together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon<br>neck<br>loop<br>illness |  
@@ -147,6 +159,18 @@ neck |
 | bip_39_word_space_7 | together elbow card sunset once ostrich hip |  
 | bip_39_word_space_8 | together elbow card sunset once ostrich hip ribbon |  
 | bip_39_word_space_9 | together elbow card sunset once ostrich hip ribbon neck |  
+| bip_39_word_underscore_1 | together |  
+| bip_39_word_underscore_10 | together_elbow_card_sunset_once_ostrich_hip_ribbon_neck_loop |  
+| bip_39_word_underscore_11 | together_elbow_card_sunset_once_ostrich_hip_ribbon_neck_loop_illness |  
+| bip_39_word_underscore_12 | together_elbow_card_sunset_once_ostrich_hip_ribbon_neck_loop_illness_author |  
+| bip_39_word_underscore_2 | together_elbow |  
+| bip_39_word_underscore_3 | together_elbow_card |  
+| bip_39_word_underscore_4 | together_elbow_card_sunset |  
+| bip_39_word_underscore_5 | together_elbow_card_sunset_once |  
+| bip_39_word_underscore_6 | together_elbow_card_sunset_once_ostrich |  
+| bip_39_word_underscore_7 | together_elbow_card_sunset_once_ostrich_hip |  
+| bip_39_word_underscore_8 | together_elbow_card_sunset_once_ostrich_hip_ribbon |  
+| bip_39_word_underscore_9 | together_elbow_card_sunset_once_ostrich_hip_ribbon_neck |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

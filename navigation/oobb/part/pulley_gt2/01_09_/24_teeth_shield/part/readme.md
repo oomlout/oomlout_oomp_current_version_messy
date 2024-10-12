@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | issue |  
+| bip_39_word_dash_10 | issue-team-slide-company-recycle-glide-arena-session-curtain-strategy |  
+| bip_39_word_dash_11 | issue-team-slide-company-recycle-glide-arena-session-curtain-strategy-toe |  
+| bip_39_word_dash_12 | issue-team-slide-company-recycle-glide-arena-session-curtain-strategy-toe-ahead |  
+| bip_39_word_dash_2 | issue-team |  
+| bip_39_word_dash_3 | issue-team-slide |  
+| bip_39_word_dash_4 | issue-team-slide-company |  
+| bip_39_word_dash_5 | issue-team-slide-company-recycle |  
+| bip_39_word_dash_6 | issue-team-slide-company-recycle-glide |  
+| bip_39_word_dash_7 | issue-team-slide-company-recycle-glide-arena |  
+| bip_39_word_dash_8 | issue-team-slide-company-recycle-glide-arena-session |  
+| bip_39_word_dash_9 | issue-team-slide-company-recycle-glide-arena-session-curtain |  
 | bip_39_word_new_br_1 | issue |  
 | bip_39_word_new_br_10 | issue<br>team<br>slide<br>company<br>recycle<br>glide<br>arena<br>session<br>curtain<br>strategy |  
 | bip_39_word_new_br_11 | issue<br>team<br>slide<br>company<br>recycle<br>glide<br>arena<br>session<br>curtain<br>strategy<br>toe |  
@@ -147,6 +159,18 @@ curtain |
 | bip_39_word_space_7 | issue team slide company recycle glide arena |  
 | bip_39_word_space_8 | issue team slide company recycle glide arena session |  
 | bip_39_word_space_9 | issue team slide company recycle glide arena session curtain |  
+| bip_39_word_underscore_1 | issue |  
+| bip_39_word_underscore_10 | issue_team_slide_company_recycle_glide_arena_session_curtain_strategy |  
+| bip_39_word_underscore_11 | issue_team_slide_company_recycle_glide_arena_session_curtain_strategy_toe |  
+| bip_39_word_underscore_12 | issue_team_slide_company_recycle_glide_arena_session_curtain_strategy_toe_ahead |  
+| bip_39_word_underscore_2 | issue_team |  
+| bip_39_word_underscore_3 | issue_team_slide |  
+| bip_39_word_underscore_4 | issue_team_slide_company |  
+| bip_39_word_underscore_5 | issue_team_slide_company_recycle |  
+| bip_39_word_underscore_6 | issue_team_slide_company_recycle_glide |  
+| bip_39_word_underscore_7 | issue_team_slide_company_recycle_glide_arena |  
+| bip_39_word_underscore_8 | issue_team_slide_company_recycle_glide_arena_session |  
+| bip_39_word_underscore_9 | issue_team_slide_company_recycle_glide_arena_session_curtain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | foot |  
+| bip_39_word_dash_10 | foot-glimpse-quiz-orange-hundred-trumpet-ancient-sentence-expire-member |  
+| bip_39_word_dash_11 | foot-glimpse-quiz-orange-hundred-trumpet-ancient-sentence-expire-member-write |  
+| bip_39_word_dash_12 | foot-glimpse-quiz-orange-hundred-trumpet-ancient-sentence-expire-member-write-asthma |  
+| bip_39_word_dash_2 | foot-glimpse |  
+| bip_39_word_dash_3 | foot-glimpse-quiz |  
+| bip_39_word_dash_4 | foot-glimpse-quiz-orange |  
+| bip_39_word_dash_5 | foot-glimpse-quiz-orange-hundred |  
+| bip_39_word_dash_6 | foot-glimpse-quiz-orange-hundred-trumpet |  
+| bip_39_word_dash_7 | foot-glimpse-quiz-orange-hundred-trumpet-ancient |  
+| bip_39_word_dash_8 | foot-glimpse-quiz-orange-hundred-trumpet-ancient-sentence |  
+| bip_39_word_dash_9 | foot-glimpse-quiz-orange-hundred-trumpet-ancient-sentence-expire |  
 | bip_39_word_new_br_1 | foot |  
 | bip_39_word_new_br_10 | foot<br>glimpse<br>quiz<br>orange<br>hundred<br>trumpet<br>ancient<br>sentence<br>expire<br>member |  
 | bip_39_word_new_br_11 | foot<br>glimpse<br>quiz<br>orange<br>hundred<br>trumpet<br>ancient<br>sentence<br>expire<br>member<br>write |  
@@ -147,6 +159,18 @@ expire |
 | bip_39_word_space_7 | foot glimpse quiz orange hundred trumpet ancient |  
 | bip_39_word_space_8 | foot glimpse quiz orange hundred trumpet ancient sentence |  
 | bip_39_word_space_9 | foot glimpse quiz orange hundred trumpet ancient sentence expire |  
+| bip_39_word_underscore_1 | foot |  
+| bip_39_word_underscore_10 | foot_glimpse_quiz_orange_hundred_trumpet_ancient_sentence_expire_member |  
+| bip_39_word_underscore_11 | foot_glimpse_quiz_orange_hundred_trumpet_ancient_sentence_expire_member_write |  
+| bip_39_word_underscore_12 | foot_glimpse_quiz_orange_hundred_trumpet_ancient_sentence_expire_member_write_asthma |  
+| bip_39_word_underscore_2 | foot_glimpse |  
+| bip_39_word_underscore_3 | foot_glimpse_quiz |  
+| bip_39_word_underscore_4 | foot_glimpse_quiz_orange |  
+| bip_39_word_underscore_5 | foot_glimpse_quiz_orange_hundred |  
+| bip_39_word_underscore_6 | foot_glimpse_quiz_orange_hundred_trumpet |  
+| bip_39_word_underscore_7 | foot_glimpse_quiz_orange_hundred_trumpet_ancient |  
+| bip_39_word_underscore_8 | foot_glimpse_quiz_orange_hundred_trumpet_ancient_sentence |  
+| bip_39_word_underscore_9 | foot_glimpse_quiz_orange_hundred_trumpet_ancient_sentence_expire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

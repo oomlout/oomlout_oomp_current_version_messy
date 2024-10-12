@@ -1,3 +1,15 @@
+bip_39_word_dash_1: refuse
+bip_39_word_dash_10: refuse-artwork-coin-can-raise-reward-spend-region-vital-siege
+bip_39_word_dash_11: refuse-artwork-coin-can-raise-reward-spend-region-vital-siege-target
+bip_39_word_dash_12: refuse-artwork-coin-can-raise-reward-spend-region-vital-siege-target-addict
+bip_39_word_dash_2: refuse-artwork
+bip_39_word_dash_3: refuse-artwork-coin
+bip_39_word_dash_4: refuse-artwork-coin-can
+bip_39_word_dash_5: refuse-artwork-coin-can-raise
+bip_39_word_dash_6: refuse-artwork-coin-can-raise-reward
+bip_39_word_dash_7: refuse-artwork-coin-can-raise-reward-spend
+bip_39_word_dash_8: refuse-artwork-coin-can-raise-reward-spend-region
+bip_39_word_dash_9: refuse-artwork-coin-can-raise-reward-spend-region-vital
 bip_39_word_new_br_1: refuse
 bip_39_word_new_br_10: refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region<br>vital<br>siege
 bip_39_word_new_br_11: refuse<br>artwork<br>coin<br>can<br>raise<br>reward<br>spend<br>region<br>vital<br>siege<br>target
@@ -193,6 +205,18 @@ bip_39_word_space_6: refuse artwork coin can raise reward
 bip_39_word_space_7: refuse artwork coin can raise reward spend
 bip_39_word_space_8: refuse artwork coin can raise reward spend region
 bip_39_word_space_9: refuse artwork coin can raise reward spend region vital
+bip_39_word_underscore_1: refuse
+bip_39_word_underscore_10: refuse_artwork_coin_can_raise_reward_spend_region_vital_siege
+bip_39_word_underscore_11: refuse_artwork_coin_can_raise_reward_spend_region_vital_siege_target
+bip_39_word_underscore_12: refuse_artwork_coin_can_raise_reward_spend_region_vital_siege_target_addict
+bip_39_word_underscore_2: refuse_artwork
+bip_39_word_underscore_3: refuse_artwork_coin
+bip_39_word_underscore_4: refuse_artwork_coin_can
+bip_39_word_underscore_5: refuse_artwork_coin_can_raise
+bip_39_word_underscore_6: refuse_artwork_coin_can_raise_reward
+bip_39_word_underscore_7: refuse_artwork_coin_can_raise_reward_spend
+bip_39_word_underscore_8: refuse_artwork_coin_can_raise_reward_spend_region
+bip_39_word_underscore_9: refuse_artwork_coin_can_raise_reward_spend_region_vital
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

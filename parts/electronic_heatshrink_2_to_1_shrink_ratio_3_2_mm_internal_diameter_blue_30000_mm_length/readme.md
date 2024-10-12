@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | typical |  
+| bip_39_word_dash_10 | typical-quit-comfort-shiver-oak-misery-clarify-burger-ankle-snack |  
+| bip_39_word_dash_11 | typical-quit-comfort-shiver-oak-misery-clarify-burger-ankle-snack-badge |  
+| bip_39_word_dash_12 | typical-quit-comfort-shiver-oak-misery-clarify-burger-ankle-snack-badge-almost |  
+| bip_39_word_dash_2 | typical-quit |  
+| bip_39_word_dash_3 | typical-quit-comfort |  
+| bip_39_word_dash_4 | typical-quit-comfort-shiver |  
+| bip_39_word_dash_5 | typical-quit-comfort-shiver-oak |  
+| bip_39_word_dash_6 | typical-quit-comfort-shiver-oak-misery |  
+| bip_39_word_dash_7 | typical-quit-comfort-shiver-oak-misery-clarify |  
+| bip_39_word_dash_8 | typical-quit-comfort-shiver-oak-misery-clarify-burger |  
+| bip_39_word_dash_9 | typical-quit-comfort-shiver-oak-misery-clarify-burger-ankle |  
 | bip_39_word_new_br_1 | typical |  
 | bip_39_word_new_br_10 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack |  
 | bip_39_word_new_br_11 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack<br>badge |  
@@ -147,6 +159,18 @@ ankle |
 | bip_39_word_space_7 | typical quit comfort shiver oak misery clarify |  
 | bip_39_word_space_8 | typical quit comfort shiver oak misery clarify burger |  
 | bip_39_word_space_9 | typical quit comfort shiver oak misery clarify burger ankle |  
+| bip_39_word_underscore_1 | typical |  
+| bip_39_word_underscore_10 | typical_quit_comfort_shiver_oak_misery_clarify_burger_ankle_snack |  
+| bip_39_word_underscore_11 | typical_quit_comfort_shiver_oak_misery_clarify_burger_ankle_snack_badge |  
+| bip_39_word_underscore_12 | typical_quit_comfort_shiver_oak_misery_clarify_burger_ankle_snack_badge_almost |  
+| bip_39_word_underscore_2 | typical_quit |  
+| bip_39_word_underscore_3 | typical_quit_comfort |  
+| bip_39_word_underscore_4 | typical_quit_comfort_shiver |  
+| bip_39_word_underscore_5 | typical_quit_comfort_shiver_oak |  
+| bip_39_word_underscore_6 | typical_quit_comfort_shiver_oak_misery |  
+| bip_39_word_underscore_7 | typical_quit_comfort_shiver_oak_misery_clarify |  
+| bip_39_word_underscore_8 | typical_quit_comfort_shiver_oak_misery_clarify_burger |  
+| bip_39_word_underscore_9 | typical_quit_comfort_shiver_oak_misery_clarify_burger_ankle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

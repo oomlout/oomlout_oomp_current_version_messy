@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | service |  
+| bip_39_word_dash_10 | service-mixed-glimpse-chunk-ice-purity-link-memory-enlist-faint |  
+| bip_39_word_dash_11 | service-mixed-glimpse-chunk-ice-purity-link-memory-enlist-faint-bring |  
+| bip_39_word_dash_12 | service-mixed-glimpse-chunk-ice-purity-link-memory-enlist-faint-bring-area |  
+| bip_39_word_dash_2 | service-mixed |  
+| bip_39_word_dash_3 | service-mixed-glimpse |  
+| bip_39_word_dash_4 | service-mixed-glimpse-chunk |  
+| bip_39_word_dash_5 | service-mixed-glimpse-chunk-ice |  
+| bip_39_word_dash_6 | service-mixed-glimpse-chunk-ice-purity |  
+| bip_39_word_dash_7 | service-mixed-glimpse-chunk-ice-purity-link |  
+| bip_39_word_dash_8 | service-mixed-glimpse-chunk-ice-purity-link-memory |  
+| bip_39_word_dash_9 | service-mixed-glimpse-chunk-ice-purity-link-memory-enlist |  
 | bip_39_word_new_br_1 | service |  
 | bip_39_word_new_br_10 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint |  
 | bip_39_word_new_br_11 | service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint<br>bring |  
@@ -147,6 +159,18 @@ enlist |
 | bip_39_word_space_7 | service mixed glimpse chunk ice purity link |  
 | bip_39_word_space_8 | service mixed glimpse chunk ice purity link memory |  
 | bip_39_word_space_9 | service mixed glimpse chunk ice purity link memory enlist |  
+| bip_39_word_underscore_1 | service |  
+| bip_39_word_underscore_10 | service_mixed_glimpse_chunk_ice_purity_link_memory_enlist_faint |  
+| bip_39_word_underscore_11 | service_mixed_glimpse_chunk_ice_purity_link_memory_enlist_faint_bring |  
+| bip_39_word_underscore_12 | service_mixed_glimpse_chunk_ice_purity_link_memory_enlist_faint_bring_area |  
+| bip_39_word_underscore_2 | service_mixed |  
+| bip_39_word_underscore_3 | service_mixed_glimpse |  
+| bip_39_word_underscore_4 | service_mixed_glimpse_chunk |  
+| bip_39_word_underscore_5 | service_mixed_glimpse_chunk_ice |  
+| bip_39_word_underscore_6 | service_mixed_glimpse_chunk_ice_purity |  
+| bip_39_word_underscore_7 | service_mixed_glimpse_chunk_ice_purity_link |  
+| bip_39_word_underscore_8 | service_mixed_glimpse_chunk_ice_purity_link_memory |  
+| bip_39_word_underscore_9 | service_mixed_glimpse_chunk_ice_purity_link_memory_enlist |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

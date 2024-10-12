@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | modify |  
+| bip_39_word_dash_10 | modify-adapt-oil-verify-sister-blanket-column-problem-photo-result |  
+| bip_39_word_dash_11 | modify-adapt-oil-verify-sister-blanket-column-problem-photo-result-shadow |  
+| bip_39_word_dash_12 | modify-adapt-oil-verify-sister-blanket-column-problem-photo-result-shadow-artist |  
+| bip_39_word_dash_2 | modify-adapt |  
+| bip_39_word_dash_3 | modify-adapt-oil |  
+| bip_39_word_dash_4 | modify-adapt-oil-verify |  
+| bip_39_word_dash_5 | modify-adapt-oil-verify-sister |  
+| bip_39_word_dash_6 | modify-adapt-oil-verify-sister-blanket |  
+| bip_39_word_dash_7 | modify-adapt-oil-verify-sister-blanket-column |  
+| bip_39_word_dash_8 | modify-adapt-oil-verify-sister-blanket-column-problem |  
+| bip_39_word_dash_9 | modify-adapt-oil-verify-sister-blanket-column-problem-photo |  
 | bip_39_word_new_br_1 | modify |  
 | bip_39_word_new_br_10 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem<br>photo<br>result |  
 | bip_39_word_new_br_11 | modify<br>adapt<br>oil<br>verify<br>sister<br>blanket<br>column<br>problem<br>photo<br>result<br>shadow |  
@@ -147,6 +159,18 @@ photo |
 | bip_39_word_space_7 | modify adapt oil verify sister blanket column |  
 | bip_39_word_space_8 | modify adapt oil verify sister blanket column problem |  
 | bip_39_word_space_9 | modify adapt oil verify sister blanket column problem photo |  
+| bip_39_word_underscore_1 | modify |  
+| bip_39_word_underscore_10 | modify_adapt_oil_verify_sister_blanket_column_problem_photo_result |  
+| bip_39_word_underscore_11 | modify_adapt_oil_verify_sister_blanket_column_problem_photo_result_shadow |  
+| bip_39_word_underscore_12 | modify_adapt_oil_verify_sister_blanket_column_problem_photo_result_shadow_artist |  
+| bip_39_word_underscore_2 | modify_adapt |  
+| bip_39_word_underscore_3 | modify_adapt_oil |  
+| bip_39_word_underscore_4 | modify_adapt_oil_verify |  
+| bip_39_word_underscore_5 | modify_adapt_oil_verify_sister |  
+| bip_39_word_underscore_6 | modify_adapt_oil_verify_sister_blanket |  
+| bip_39_word_underscore_7 | modify_adapt_oil_verify_sister_blanket_column |  
+| bip_39_word_underscore_8 | modify_adapt_oil_verify_sister_blanket_column_problem |  
+| bip_39_word_underscore_9 | modify_adapt_oil_verify_sister_blanket_column_problem_photo |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

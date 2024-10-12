@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | forum |  
+| bip_39_word_dash_10 | forum-idea-volcano-three-lucky-diesel-wonder-lawsuit-resemble-art |  
+| bip_39_word_dash_11 | forum-idea-volcano-three-lucky-diesel-wonder-lawsuit-resemble-art-they |  
+| bip_39_word_dash_12 | forum-idea-volcano-three-lucky-diesel-wonder-lawsuit-resemble-art-they-ankle |  
+| bip_39_word_dash_2 | forum-idea |  
+| bip_39_word_dash_3 | forum-idea-volcano |  
+| bip_39_word_dash_4 | forum-idea-volcano-three |  
+| bip_39_word_dash_5 | forum-idea-volcano-three-lucky |  
+| bip_39_word_dash_6 | forum-idea-volcano-three-lucky-diesel |  
+| bip_39_word_dash_7 | forum-idea-volcano-three-lucky-diesel-wonder |  
+| bip_39_word_dash_8 | forum-idea-volcano-three-lucky-diesel-wonder-lawsuit |  
+| bip_39_word_dash_9 | forum-idea-volcano-three-lucky-diesel-wonder-lawsuit-resemble |  
 | bip_39_word_new_br_1 | forum |  
 | bip_39_word_new_br_10 | forum<br>idea<br>volcano<br>three<br>lucky<br>diesel<br>wonder<br>lawsuit<br>resemble<br>art |  
 | bip_39_word_new_br_11 | forum<br>idea<br>volcano<br>three<br>lucky<br>diesel<br>wonder<br>lawsuit<br>resemble<br>art<br>they |  
@@ -147,6 +159,18 @@ resemble |
 | bip_39_word_space_7 | forum idea volcano three lucky diesel wonder |  
 | bip_39_word_space_8 | forum idea volcano three lucky diesel wonder lawsuit |  
 | bip_39_word_space_9 | forum idea volcano three lucky diesel wonder lawsuit resemble |  
+| bip_39_word_underscore_1 | forum |  
+| bip_39_word_underscore_10 | forum_idea_volcano_three_lucky_diesel_wonder_lawsuit_resemble_art |  
+| bip_39_word_underscore_11 | forum_idea_volcano_three_lucky_diesel_wonder_lawsuit_resemble_art_they |  
+| bip_39_word_underscore_12 | forum_idea_volcano_three_lucky_diesel_wonder_lawsuit_resemble_art_they_ankle |  
+| bip_39_word_underscore_2 | forum_idea |  
+| bip_39_word_underscore_3 | forum_idea_volcano |  
+| bip_39_word_underscore_4 | forum_idea_volcano_three |  
+| bip_39_word_underscore_5 | forum_idea_volcano_three_lucky |  
+| bip_39_word_underscore_6 | forum_idea_volcano_three_lucky_diesel |  
+| bip_39_word_underscore_7 | forum_idea_volcano_three_lucky_diesel_wonder |  
+| bip_39_word_underscore_8 | forum_idea_volcano_three_lucky_diesel_wonder_lawsuit |  
+| bip_39_word_underscore_9 | forum_idea_volcano_three_lucky_diesel_wonder_lawsuit_resemble |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

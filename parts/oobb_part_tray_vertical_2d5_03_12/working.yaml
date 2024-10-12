@@ -1,3 +1,15 @@
+bip_39_word_dash_1: renew
+bip_39_word_dash_10: renew-found-steel-music-defy-drill-source-exist-bottom-outside
+bip_39_word_dash_11: renew-found-steel-music-defy-drill-source-exist-bottom-outside-short
+bip_39_word_dash_12: renew-found-steel-music-defy-drill-source-exist-bottom-outside-short-apple
+bip_39_word_dash_2: renew-found
+bip_39_word_dash_3: renew-found-steel
+bip_39_word_dash_4: renew-found-steel-music
+bip_39_word_dash_5: renew-found-steel-music-defy
+bip_39_word_dash_6: renew-found-steel-music-defy-drill
+bip_39_word_dash_7: renew-found-steel-music-defy-drill-source
+bip_39_word_dash_8: renew-found-steel-music-defy-drill-source-exist
+bip_39_word_dash_9: renew-found-steel-music-defy-drill-source-exist-bottom
 bip_39_word_new_br_1: renew
 bip_39_word_new_br_10: renew<br>found<br>steel<br>music<br>defy<br>drill<br>source<br>exist<br>bottom<br>outside
 bip_39_word_new_br_11: renew<br>found<br>steel<br>music<br>defy<br>drill<br>source<br>exist<br>bottom<br>outside<br>short
@@ -193,6 +205,18 @@ bip_39_word_space_6: renew found steel music defy drill
 bip_39_word_space_7: renew found steel music defy drill source
 bip_39_word_space_8: renew found steel music defy drill source exist
 bip_39_word_space_9: renew found steel music defy drill source exist bottom
+bip_39_word_underscore_1: renew
+bip_39_word_underscore_10: renew_found_steel_music_defy_drill_source_exist_bottom_outside
+bip_39_word_underscore_11: renew_found_steel_music_defy_drill_source_exist_bottom_outside_short
+bip_39_word_underscore_12: renew_found_steel_music_defy_drill_source_exist_bottom_outside_short_apple
+bip_39_word_underscore_2: renew_found
+bip_39_word_underscore_3: renew_found_steel
+bip_39_word_underscore_4: renew_found_steel_music
+bip_39_word_underscore_5: renew_found_steel_music_defy
+bip_39_word_underscore_6: renew_found_steel_music_defy_drill
+bip_39_word_underscore_7: renew_found_steel_music_defy_drill_source
+bip_39_word_underscore_8: renew_found_steel_music_defy_drill_source_exist
+bip_39_word_underscore_9: renew_found_steel_music_defy_drill_source_exist_bottom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

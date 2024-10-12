@@ -1,3 +1,15 @@
+bip_39_word_dash_1: world
+bip_39_word_dash_10: world-prosper-midnight-property-find-kick-axis-sustain-news-bottom
+bip_39_word_dash_11: world-prosper-midnight-property-find-kick-axis-sustain-news-bottom-goddess
+bip_39_word_dash_12: world-prosper-midnight-property-find-kick-axis-sustain-news-bottom-goddess-arrange
+bip_39_word_dash_2: world-prosper
+bip_39_word_dash_3: world-prosper-midnight
+bip_39_word_dash_4: world-prosper-midnight-property
+bip_39_word_dash_5: world-prosper-midnight-property-find
+bip_39_word_dash_6: world-prosper-midnight-property-find-kick
+bip_39_word_dash_7: world-prosper-midnight-property-find-kick-axis
+bip_39_word_dash_8: world-prosper-midnight-property-find-kick-axis-sustain
+bip_39_word_dash_9: world-prosper-midnight-property-find-kick-axis-sustain-news
 bip_39_word_new_br_1: world
 bip_39_word_new_br_10: world<br>prosper<br>midnight<br>property<br>find<br>kick<br>axis<br>sustain<br>news<br>bottom
 bip_39_word_new_br_11: world<br>prosper<br>midnight<br>property<br>find<br>kick<br>axis<br>sustain<br>news<br>bottom<br>goddess
@@ -194,6 +206,18 @@ bip_39_word_space_6: world prosper midnight property find kick
 bip_39_word_space_7: world prosper midnight property find kick axis
 bip_39_word_space_8: world prosper midnight property find kick axis sustain
 bip_39_word_space_9: world prosper midnight property find kick axis sustain news
+bip_39_word_underscore_1: world
+bip_39_word_underscore_10: world_prosper_midnight_property_find_kick_axis_sustain_news_bottom
+bip_39_word_underscore_11: world_prosper_midnight_property_find_kick_axis_sustain_news_bottom_goddess
+bip_39_word_underscore_12: world_prosper_midnight_property_find_kick_axis_sustain_news_bottom_goddess_arrange
+bip_39_word_underscore_2: world_prosper
+bip_39_word_underscore_3: world_prosper_midnight
+bip_39_word_underscore_4: world_prosper_midnight_property
+bip_39_word_underscore_5: world_prosper_midnight_property_find
+bip_39_word_underscore_6: world_prosper_midnight_property_find_kick
+bip_39_word_underscore_7: world_prosper_midnight_property_find_kick_axis
+bip_39_word_underscore_8: world_prosper_midnight_property_find_kick_axis_sustain
+bip_39_word_underscore_9: world_prosper_midnight_property_find_kick_axis_sustain_news
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arena |  
+| bip_39_word_dash_10 | arena-cart-virus-uniform-tourist-amount-receive-option-point-ill |  
+| bip_39_word_dash_11 | arena-cart-virus-uniform-tourist-amount-receive-option-point-ill-kingdom |  
+| bip_39_word_dash_12 | arena-cart-virus-uniform-tourist-amount-receive-option-point-ill-kingdom-act |  
+| bip_39_word_dash_2 | arena-cart |  
+| bip_39_word_dash_3 | arena-cart-virus |  
+| bip_39_word_dash_4 | arena-cart-virus-uniform |  
+| bip_39_word_dash_5 | arena-cart-virus-uniform-tourist |  
+| bip_39_word_dash_6 | arena-cart-virus-uniform-tourist-amount |  
+| bip_39_word_dash_7 | arena-cart-virus-uniform-tourist-amount-receive |  
+| bip_39_word_dash_8 | arena-cart-virus-uniform-tourist-amount-receive-option |  
+| bip_39_word_dash_9 | arena-cart-virus-uniform-tourist-amount-receive-option-point |  
 | bip_39_word_new_br_1 | arena |  
 | bip_39_word_new_br_10 | arena<br>cart<br>virus<br>uniform<br>tourist<br>amount<br>receive<br>option<br>point<br>ill |  
 | bip_39_word_new_br_11 | arena<br>cart<br>virus<br>uniform<br>tourist<br>amount<br>receive<br>option<br>point<br>ill<br>kingdom |  
@@ -147,6 +159,18 @@ point |
 | bip_39_word_space_7 | arena cart virus uniform tourist amount receive |  
 | bip_39_word_space_8 | arena cart virus uniform tourist amount receive option |  
 | bip_39_word_space_9 | arena cart virus uniform tourist amount receive option point |  
+| bip_39_word_underscore_1 | arena |  
+| bip_39_word_underscore_10 | arena_cart_virus_uniform_tourist_amount_receive_option_point_ill |  
+| bip_39_word_underscore_11 | arena_cart_virus_uniform_tourist_amount_receive_option_point_ill_kingdom |  
+| bip_39_word_underscore_12 | arena_cart_virus_uniform_tourist_amount_receive_option_point_ill_kingdom_act |  
+| bip_39_word_underscore_2 | arena_cart |  
+| bip_39_word_underscore_3 | arena_cart_virus |  
+| bip_39_word_underscore_4 | arena_cart_virus_uniform |  
+| bip_39_word_underscore_5 | arena_cart_virus_uniform_tourist |  
+| bip_39_word_underscore_6 | arena_cart_virus_uniform_tourist_amount |  
+| bip_39_word_underscore_7 | arena_cart_virus_uniform_tourist_amount_receive |  
+| bip_39_word_underscore_8 | arena_cart_virus_uniform_tourist_amount_receive_option |  
+| bip_39_word_underscore_9 | arena_cart_virus_uniform_tourist_amount_receive_option_point |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

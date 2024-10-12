@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | minimum |  
+| bip_39_word_dash_10 | minimum-antique-screen-payment-urban-twin-spend-detail-dance-gospel |  
+| bip_39_word_dash_11 | minimum-antique-screen-payment-urban-twin-spend-detail-dance-gospel-exercise |  
+| bip_39_word_dash_12 | minimum-antique-screen-payment-urban-twin-spend-detail-dance-gospel-exercise-alley |  
+| bip_39_word_dash_2 | minimum-antique |  
+| bip_39_word_dash_3 | minimum-antique-screen |  
+| bip_39_word_dash_4 | minimum-antique-screen-payment |  
+| bip_39_word_dash_5 | minimum-antique-screen-payment-urban |  
+| bip_39_word_dash_6 | minimum-antique-screen-payment-urban-twin |  
+| bip_39_word_dash_7 | minimum-antique-screen-payment-urban-twin-spend |  
+| bip_39_word_dash_8 | minimum-antique-screen-payment-urban-twin-spend-detail |  
+| bip_39_word_dash_9 | minimum-antique-screen-payment-urban-twin-spend-detail-dance |  
 | bip_39_word_new_br_1 | minimum |  
 | bip_39_word_new_br_10 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel |  
 | bip_39_word_new_br_11 | minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel<br>exercise |  
@@ -147,6 +159,18 @@ dance |
 | bip_39_word_space_7 | minimum antique screen payment urban twin spend |  
 | bip_39_word_space_8 | minimum antique screen payment urban twin spend detail |  
 | bip_39_word_space_9 | minimum antique screen payment urban twin spend detail dance |  
+| bip_39_word_underscore_1 | minimum |  
+| bip_39_word_underscore_10 | minimum_antique_screen_payment_urban_twin_spend_detail_dance_gospel |  
+| bip_39_word_underscore_11 | minimum_antique_screen_payment_urban_twin_spend_detail_dance_gospel_exercise |  
+| bip_39_word_underscore_12 | minimum_antique_screen_payment_urban_twin_spend_detail_dance_gospel_exercise_alley |  
+| bip_39_word_underscore_2 | minimum_antique |  
+| bip_39_word_underscore_3 | minimum_antique_screen |  
+| bip_39_word_underscore_4 | minimum_antique_screen_payment |  
+| bip_39_word_underscore_5 | minimum_antique_screen_payment_urban |  
+| bip_39_word_underscore_6 | minimum_antique_screen_payment_urban_twin |  
+| bip_39_word_underscore_7 | minimum_antique_screen_payment_urban_twin_spend |  
+| bip_39_word_underscore_8 | minimum_antique_screen_payment_urban_twin_spend_detail |  
+| bip_39_word_underscore_9 | minimum_antique_screen_payment_urban_twin_spend_detail_dance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

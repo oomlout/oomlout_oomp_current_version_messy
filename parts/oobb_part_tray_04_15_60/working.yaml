@@ -1,3 +1,15 @@
+bip_39_word_dash_1: relief
+bip_39_word_dash_10: relief-blush-usage-refuse-object-large-cry-oblige-struggle-this
+bip_39_word_dash_11: relief-blush-usage-refuse-object-large-cry-oblige-struggle-this-vacant
+bip_39_word_dash_12: relief-blush-usage-refuse-object-large-cry-oblige-struggle-this-vacant-again
+bip_39_word_dash_2: relief-blush
+bip_39_word_dash_3: relief-blush-usage
+bip_39_word_dash_4: relief-blush-usage-refuse
+bip_39_word_dash_5: relief-blush-usage-refuse-object
+bip_39_word_dash_6: relief-blush-usage-refuse-object-large
+bip_39_word_dash_7: relief-blush-usage-refuse-object-large-cry
+bip_39_word_dash_8: relief-blush-usage-refuse-object-large-cry-oblige
+bip_39_word_dash_9: relief-blush-usage-refuse-object-large-cry-oblige-struggle
 bip_39_word_new_br_1: relief
 bip_39_word_new_br_10: relief<br>blush<br>usage<br>refuse<br>object<br>large<br>cry<br>oblige<br>struggle<br>this
 bip_39_word_new_br_11: relief<br>blush<br>usage<br>refuse<br>object<br>large<br>cry<br>oblige<br>struggle<br>this<br>vacant
@@ -193,6 +205,18 @@ bip_39_word_space_6: relief blush usage refuse object large
 bip_39_word_space_7: relief blush usage refuse object large cry
 bip_39_word_space_8: relief blush usage refuse object large cry oblige
 bip_39_word_space_9: relief blush usage refuse object large cry oblige struggle
+bip_39_word_underscore_1: relief
+bip_39_word_underscore_10: relief_blush_usage_refuse_object_large_cry_oblige_struggle_this
+bip_39_word_underscore_11: relief_blush_usage_refuse_object_large_cry_oblige_struggle_this_vacant
+bip_39_word_underscore_12: relief_blush_usage_refuse_object_large_cry_oblige_struggle_this_vacant_again
+bip_39_word_underscore_2: relief_blush
+bip_39_word_underscore_3: relief_blush_usage
+bip_39_word_underscore_4: relief_blush_usage_refuse
+bip_39_word_underscore_5: relief_blush_usage_refuse_object
+bip_39_word_underscore_6: relief_blush_usage_refuse_object_large
+bip_39_word_underscore_7: relief_blush_usage_refuse_object_large_cry
+bip_39_word_underscore_8: relief_blush_usage_refuse_object_large_cry_oblige
+bip_39_word_underscore_9: relief_blush_usage_refuse_object_large_cry_oblige_struggle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cream |  
+| bip_39_word_dash_10 | cream-style-finger-accuse-enforce-climb-young-soap-best-zebra |  
+| bip_39_word_dash_11 | cream-style-finger-accuse-enforce-climb-young-soap-best-zebra-empty |  
+| bip_39_word_dash_12 | cream-style-finger-accuse-enforce-climb-young-soap-best-zebra-empty-afraid |  
+| bip_39_word_dash_2 | cream-style |  
+| bip_39_word_dash_3 | cream-style-finger |  
+| bip_39_word_dash_4 | cream-style-finger-accuse |  
+| bip_39_word_dash_5 | cream-style-finger-accuse-enforce |  
+| bip_39_word_dash_6 | cream-style-finger-accuse-enforce-climb |  
+| bip_39_word_dash_7 | cream-style-finger-accuse-enforce-climb-young |  
+| bip_39_word_dash_8 | cream-style-finger-accuse-enforce-climb-young-soap |  
+| bip_39_word_dash_9 | cream-style-finger-accuse-enforce-climb-young-soap-best |  
 | bip_39_word_new_br_1 | cream |  
 | bip_39_word_new_br_10 | cream<br>style<br>finger<br>accuse<br>enforce<br>climb<br>young<br>soap<br>best<br>zebra |  
 | bip_39_word_new_br_11 | cream<br>style<br>finger<br>accuse<br>enforce<br>climb<br>young<br>soap<br>best<br>zebra<br>empty |  
@@ -147,6 +159,18 @@ best |
 | bip_39_word_space_7 | cream style finger accuse enforce climb young |  
 | bip_39_word_space_8 | cream style finger accuse enforce climb young soap |  
 | bip_39_word_space_9 | cream style finger accuse enforce climb young soap best |  
+| bip_39_word_underscore_1 | cream |  
+| bip_39_word_underscore_10 | cream_style_finger_accuse_enforce_climb_young_soap_best_zebra |  
+| bip_39_word_underscore_11 | cream_style_finger_accuse_enforce_climb_young_soap_best_zebra_empty |  
+| bip_39_word_underscore_12 | cream_style_finger_accuse_enforce_climb_young_soap_best_zebra_empty_afraid |  
+| bip_39_word_underscore_2 | cream_style |  
+| bip_39_word_underscore_3 | cream_style_finger |  
+| bip_39_word_underscore_4 | cream_style_finger_accuse |  
+| bip_39_word_underscore_5 | cream_style_finger_accuse_enforce |  
+| bip_39_word_underscore_6 | cream_style_finger_accuse_enforce_climb |  
+| bip_39_word_underscore_7 | cream_style_finger_accuse_enforce_climb_young |  
+| bip_39_word_underscore_8 | cream_style_finger_accuse_enforce_climb_young_soap |  
+| bip_39_word_underscore_9 | cream_style_finger_accuse_enforce_climb_young_soap_best |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

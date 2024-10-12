@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kangaroo |  
+| bip_39_word_dash_10 | kangaroo-shoot-crime-exhibit-bus-stable-rocket-sail-deny-ordinary |  
+| bip_39_word_dash_11 | kangaroo-shoot-crime-exhibit-bus-stable-rocket-sail-deny-ordinary-regular |  
+| bip_39_word_dash_12 | kangaroo-shoot-crime-exhibit-bus-stable-rocket-sail-deny-ordinary-regular-anger |  
+| bip_39_word_dash_2 | kangaroo-shoot |  
+| bip_39_word_dash_3 | kangaroo-shoot-crime |  
+| bip_39_word_dash_4 | kangaroo-shoot-crime-exhibit |  
+| bip_39_word_dash_5 | kangaroo-shoot-crime-exhibit-bus |  
+| bip_39_word_dash_6 | kangaroo-shoot-crime-exhibit-bus-stable |  
+| bip_39_word_dash_7 | kangaroo-shoot-crime-exhibit-bus-stable-rocket |  
+| bip_39_word_dash_8 | kangaroo-shoot-crime-exhibit-bus-stable-rocket-sail |  
+| bip_39_word_dash_9 | kangaroo-shoot-crime-exhibit-bus-stable-rocket-sail-deny |  
 | bip_39_word_new_br_1 | kangaroo |  
 | bip_39_word_new_br_10 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail<br>deny<br>ordinary |  
 | bip_39_word_new_br_11 | kangaroo<br>shoot<br>crime<br>exhibit<br>bus<br>stable<br>rocket<br>sail<br>deny<br>ordinary<br>regular |  
@@ -147,6 +159,18 @@ deny |
 | bip_39_word_space_7 | kangaroo shoot crime exhibit bus stable rocket |  
 | bip_39_word_space_8 | kangaroo shoot crime exhibit bus stable rocket sail |  
 | bip_39_word_space_9 | kangaroo shoot crime exhibit bus stable rocket sail deny |  
+| bip_39_word_underscore_1 | kangaroo |  
+| bip_39_word_underscore_10 | kangaroo_shoot_crime_exhibit_bus_stable_rocket_sail_deny_ordinary |  
+| bip_39_word_underscore_11 | kangaroo_shoot_crime_exhibit_bus_stable_rocket_sail_deny_ordinary_regular |  
+| bip_39_word_underscore_12 | kangaroo_shoot_crime_exhibit_bus_stable_rocket_sail_deny_ordinary_regular_anger |  
+| bip_39_word_underscore_2 | kangaroo_shoot |  
+| bip_39_word_underscore_3 | kangaroo_shoot_crime |  
+| bip_39_word_underscore_4 | kangaroo_shoot_crime_exhibit |  
+| bip_39_word_underscore_5 | kangaroo_shoot_crime_exhibit_bus |  
+| bip_39_word_underscore_6 | kangaroo_shoot_crime_exhibit_bus_stable |  
+| bip_39_word_underscore_7 | kangaroo_shoot_crime_exhibit_bus_stable_rocket |  
+| bip_39_word_underscore_8 | kangaroo_shoot_crime_exhibit_bus_stable_rocket_sail |  
+| bip_39_word_underscore_9 | kangaroo_shoot_crime_exhibit_bus_stable_rocket_sail_deny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

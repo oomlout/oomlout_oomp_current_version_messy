@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tissue
+bip_39_word_dash_10: tissue-rubber-romance-absent-street-wrist-liquid-engine-response-conduct
+bip_39_word_dash_11: tissue-rubber-romance-absent-street-wrist-liquid-engine-response-conduct-truly
+bip_39_word_dash_12: tissue-rubber-romance-absent-street-wrist-liquid-engine-response-conduct-truly-anger
+bip_39_word_dash_2: tissue-rubber
+bip_39_word_dash_3: tissue-rubber-romance
+bip_39_word_dash_4: tissue-rubber-romance-absent
+bip_39_word_dash_5: tissue-rubber-romance-absent-street
+bip_39_word_dash_6: tissue-rubber-romance-absent-street-wrist
+bip_39_word_dash_7: tissue-rubber-romance-absent-street-wrist-liquid
+bip_39_word_dash_8: tissue-rubber-romance-absent-street-wrist-liquid-engine
+bip_39_word_dash_9: tissue-rubber-romance-absent-street-wrist-liquid-engine-response
 bip_39_word_new_br_1: tissue
 bip_39_word_new_br_10: tissue<br>rubber<br>romance<br>absent<br>street<br>wrist<br>liquid<br>engine<br>response<br>conduct
 bip_39_word_new_br_11: tissue<br>rubber<br>romance<br>absent<br>street<br>wrist<br>liquid<br>engine<br>response<br>conduct<br>truly
@@ -194,6 +206,18 @@ bip_39_word_space_6: tissue rubber romance absent street wrist
 bip_39_word_space_7: tissue rubber romance absent street wrist liquid
 bip_39_word_space_8: tissue rubber romance absent street wrist liquid engine
 bip_39_word_space_9: tissue rubber romance absent street wrist liquid engine response
+bip_39_word_underscore_1: tissue
+bip_39_word_underscore_10: tissue_rubber_romance_absent_street_wrist_liquid_engine_response_conduct
+bip_39_word_underscore_11: tissue_rubber_romance_absent_street_wrist_liquid_engine_response_conduct_truly
+bip_39_word_underscore_12: tissue_rubber_romance_absent_street_wrist_liquid_engine_response_conduct_truly_anger
+bip_39_word_underscore_2: tissue_rubber
+bip_39_word_underscore_3: tissue_rubber_romance
+bip_39_word_underscore_4: tissue_rubber_romance_absent
+bip_39_word_underscore_5: tissue_rubber_romance_absent_street
+bip_39_word_underscore_6: tissue_rubber_romance_absent_street_wrist
+bip_39_word_underscore_7: tissue_rubber_romance_absent_street_wrist_liquid
+bip_39_word_underscore_8: tissue_rubber_romance_absent_street_wrist_liquid_engine
+bip_39_word_underscore_9: tissue_rubber_romance_absent_street_wrist_liquid_engine_response
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

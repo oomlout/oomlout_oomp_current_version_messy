@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | draft |  
+| bip_39_word_dash_10 | draft-exile-marble-foam-future-direct-guide-frown-van-exile |  
+| bip_39_word_dash_11 | draft-exile-marble-foam-future-direct-guide-frown-van-exile-rural |  
+| bip_39_word_dash_12 | draft-exile-marble-foam-future-direct-guide-frown-van-exile-rural-acquire |  
+| bip_39_word_dash_2 | draft-exile |  
+| bip_39_word_dash_3 | draft-exile-marble |  
+| bip_39_word_dash_4 | draft-exile-marble-foam |  
+| bip_39_word_dash_5 | draft-exile-marble-foam-future |  
+| bip_39_word_dash_6 | draft-exile-marble-foam-future-direct |  
+| bip_39_word_dash_7 | draft-exile-marble-foam-future-direct-guide |  
+| bip_39_word_dash_8 | draft-exile-marble-foam-future-direct-guide-frown |  
+| bip_39_word_dash_9 | draft-exile-marble-foam-future-direct-guide-frown-van |  
 | bip_39_word_new_br_1 | draft |  
 | bip_39_word_new_br_10 | draft<br>exile<br>marble<br>foam<br>future<br>direct<br>guide<br>frown<br>van<br>exile |  
 | bip_39_word_new_br_11 | draft<br>exile<br>marble<br>foam<br>future<br>direct<br>guide<br>frown<br>van<br>exile<br>rural |  
@@ -147,6 +159,18 @@ van |
 | bip_39_word_space_7 | draft exile marble foam future direct guide |  
 | bip_39_word_space_8 | draft exile marble foam future direct guide frown |  
 | bip_39_word_space_9 | draft exile marble foam future direct guide frown van |  
+| bip_39_word_underscore_1 | draft |  
+| bip_39_word_underscore_10 | draft_exile_marble_foam_future_direct_guide_frown_van_exile |  
+| bip_39_word_underscore_11 | draft_exile_marble_foam_future_direct_guide_frown_van_exile_rural |  
+| bip_39_word_underscore_12 | draft_exile_marble_foam_future_direct_guide_frown_van_exile_rural_acquire |  
+| bip_39_word_underscore_2 | draft_exile |  
+| bip_39_word_underscore_3 | draft_exile_marble |  
+| bip_39_word_underscore_4 | draft_exile_marble_foam |  
+| bip_39_word_underscore_5 | draft_exile_marble_foam_future |  
+| bip_39_word_underscore_6 | draft_exile_marble_foam_future_direct |  
+| bip_39_word_underscore_7 | draft_exile_marble_foam_future_direct_guide |  
+| bip_39_word_underscore_8 | draft_exile_marble_foam_future_direct_guide_frown |  
+| bip_39_word_underscore_9 | draft_exile_marble_foam_future_direct_guide_frown_van |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

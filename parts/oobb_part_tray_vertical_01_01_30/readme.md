@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bachelor |  
+| bip_39_word_dash_10 | bachelor-hybrid-climb-problem-cat-scissors-universe-century-refuse-antenna |  
+| bip_39_word_dash_11 | bachelor-hybrid-climb-problem-cat-scissors-universe-century-refuse-antenna-safe |  
+| bip_39_word_dash_12 | bachelor-hybrid-climb-problem-cat-scissors-universe-century-refuse-antenna-safe-alley |  
+| bip_39_word_dash_2 | bachelor-hybrid |  
+| bip_39_word_dash_3 | bachelor-hybrid-climb |  
+| bip_39_word_dash_4 | bachelor-hybrid-climb-problem |  
+| bip_39_word_dash_5 | bachelor-hybrid-climb-problem-cat |  
+| bip_39_word_dash_6 | bachelor-hybrid-climb-problem-cat-scissors |  
+| bip_39_word_dash_7 | bachelor-hybrid-climb-problem-cat-scissors-universe |  
+| bip_39_word_dash_8 | bachelor-hybrid-climb-problem-cat-scissors-universe-century |  
+| bip_39_word_dash_9 | bachelor-hybrid-climb-problem-cat-scissors-universe-century-refuse |  
 | bip_39_word_new_br_1 | bachelor |  
 | bip_39_word_new_br_10 | bachelor<br>hybrid<br>climb<br>problem<br>cat<br>scissors<br>universe<br>century<br>refuse<br>antenna |  
 | bip_39_word_new_br_11 | bachelor<br>hybrid<br>climb<br>problem<br>cat<br>scissors<br>universe<br>century<br>refuse<br>antenna<br>safe |  
@@ -147,6 +159,18 @@ refuse |
 | bip_39_word_space_7 | bachelor hybrid climb problem cat scissors universe |  
 | bip_39_word_space_8 | bachelor hybrid climb problem cat scissors universe century |  
 | bip_39_word_space_9 | bachelor hybrid climb problem cat scissors universe century refuse |  
+| bip_39_word_underscore_1 | bachelor |  
+| bip_39_word_underscore_10 | bachelor_hybrid_climb_problem_cat_scissors_universe_century_refuse_antenna |  
+| bip_39_word_underscore_11 | bachelor_hybrid_climb_problem_cat_scissors_universe_century_refuse_antenna_safe |  
+| bip_39_word_underscore_12 | bachelor_hybrid_climb_problem_cat_scissors_universe_century_refuse_antenna_safe_alley |  
+| bip_39_word_underscore_2 | bachelor_hybrid |  
+| bip_39_word_underscore_3 | bachelor_hybrid_climb |  
+| bip_39_word_underscore_4 | bachelor_hybrid_climb_problem |  
+| bip_39_word_underscore_5 | bachelor_hybrid_climb_problem_cat |  
+| bip_39_word_underscore_6 | bachelor_hybrid_climb_problem_cat_scissors |  
+| bip_39_word_underscore_7 | bachelor_hybrid_climb_problem_cat_scissors_universe |  
+| bip_39_word_underscore_8 | bachelor_hybrid_climb_problem_cat_scissors_universe_century |  
+| bip_39_word_underscore_9 | bachelor_hybrid_climb_problem_cat_scissors_universe_century_refuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

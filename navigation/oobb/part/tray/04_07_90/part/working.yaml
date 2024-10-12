@@ -1,3 +1,15 @@
+bip_39_word_dash_1: match
+bip_39_word_dash_10: match-future-health-equip-tip-dutch-trust-cruel-feature-jungle
+bip_39_word_dash_11: match-future-health-equip-tip-dutch-trust-cruel-feature-jungle-ketchup
+bip_39_word_dash_12: match-future-health-equip-tip-dutch-trust-cruel-feature-jungle-ketchup-across
+bip_39_word_dash_2: match-future
+bip_39_word_dash_3: match-future-health
+bip_39_word_dash_4: match-future-health-equip
+bip_39_word_dash_5: match-future-health-equip-tip
+bip_39_word_dash_6: match-future-health-equip-tip-dutch
+bip_39_word_dash_7: match-future-health-equip-tip-dutch-trust
+bip_39_word_dash_8: match-future-health-equip-tip-dutch-trust-cruel
+bip_39_word_dash_9: match-future-health-equip-tip-dutch-trust-cruel-feature
 bip_39_word_new_br_1: match
 bip_39_word_new_br_10: match<br>future<br>health<br>equip<br>tip<br>dutch<br>trust<br>cruel<br>feature<br>jungle
 bip_39_word_new_br_11: match<br>future<br>health<br>equip<br>tip<br>dutch<br>trust<br>cruel<br>feature<br>jungle<br>ketchup
@@ -193,6 +205,18 @@ bip_39_word_space_6: match future health equip tip dutch
 bip_39_word_space_7: match future health equip tip dutch trust
 bip_39_word_space_8: match future health equip tip dutch trust cruel
 bip_39_word_space_9: match future health equip tip dutch trust cruel feature
+bip_39_word_underscore_1: match
+bip_39_word_underscore_10: match_future_health_equip_tip_dutch_trust_cruel_feature_jungle
+bip_39_word_underscore_11: match_future_health_equip_tip_dutch_trust_cruel_feature_jungle_ketchup
+bip_39_word_underscore_12: match_future_health_equip_tip_dutch_trust_cruel_feature_jungle_ketchup_across
+bip_39_word_underscore_2: match_future
+bip_39_word_underscore_3: match_future_health
+bip_39_word_underscore_4: match_future_health_equip
+bip_39_word_underscore_5: match_future_health_equip_tip
+bip_39_word_underscore_6: match_future_health_equip_tip_dutch
+bip_39_word_underscore_7: match_future_health_equip_tip_dutch_trust
+bip_39_word_underscore_8: match_future_health_equip_tip_dutch_trust_cruel
+bip_39_word_underscore_9: match_future_health_equip_tip_dutch_trust_cruel_feature
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

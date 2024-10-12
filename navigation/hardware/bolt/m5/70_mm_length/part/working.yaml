@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pretty
+bip_39_word_dash_10: pretty-blast-recycle-city-divorce-radio-grace-industry-tray-only
+bip_39_word_dash_11: pretty-blast-recycle-city-divorce-radio-grace-industry-tray-only-issue
+bip_39_word_dash_12: pretty-blast-recycle-city-divorce-radio-grace-industry-tray-only-issue-affair
+bip_39_word_dash_2: pretty-blast
+bip_39_word_dash_3: pretty-blast-recycle
+bip_39_word_dash_4: pretty-blast-recycle-city
+bip_39_word_dash_5: pretty-blast-recycle-city-divorce
+bip_39_word_dash_6: pretty-blast-recycle-city-divorce-radio
+bip_39_word_dash_7: pretty-blast-recycle-city-divorce-radio-grace
+bip_39_word_dash_8: pretty-blast-recycle-city-divorce-radio-grace-industry
+bip_39_word_dash_9: pretty-blast-recycle-city-divorce-radio-grace-industry-tray
 bip_39_word_new_br_1: pretty
 bip_39_word_new_br_10: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only
 bip_39_word_new_br_11: pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only<br>issue
@@ -194,6 +206,18 @@ bip_39_word_space_6: pretty blast recycle city divorce radio
 bip_39_word_space_7: pretty blast recycle city divorce radio grace
 bip_39_word_space_8: pretty blast recycle city divorce radio grace industry
 bip_39_word_space_9: pretty blast recycle city divorce radio grace industry tray
+bip_39_word_underscore_1: pretty
+bip_39_word_underscore_10: pretty_blast_recycle_city_divorce_radio_grace_industry_tray_only
+bip_39_word_underscore_11: pretty_blast_recycle_city_divorce_radio_grace_industry_tray_only_issue
+bip_39_word_underscore_12: pretty_blast_recycle_city_divorce_radio_grace_industry_tray_only_issue_affair
+bip_39_word_underscore_2: pretty_blast
+bip_39_word_underscore_3: pretty_blast_recycle
+bip_39_word_underscore_4: pretty_blast_recycle_city
+bip_39_word_underscore_5: pretty_blast_recycle_city_divorce
+bip_39_word_underscore_6: pretty_blast_recycle_city_divorce_radio
+bip_39_word_underscore_7: pretty_blast_recycle_city_divorce_radio_grace
+bip_39_word_underscore_8: pretty_blast_recycle_city_divorce_radio_grace_industry
+bip_39_word_underscore_9: pretty_blast_recycle_city_divorce_radio_grace_industry_tray
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

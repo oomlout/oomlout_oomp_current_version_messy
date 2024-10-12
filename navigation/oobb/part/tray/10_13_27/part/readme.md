@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nature |  
+| bip_39_word_dash_10 | nature-idle-ocean-first-cash-crop-history-smart-silk-ostrich |  
+| bip_39_word_dash_11 | nature-idle-ocean-first-cash-crop-history-smart-silk-ostrich-wolf |  
+| bip_39_word_dash_12 | nature-idle-ocean-first-cash-crop-history-smart-silk-ostrich-wolf-approve |  
+| bip_39_word_dash_2 | nature-idle |  
+| bip_39_word_dash_3 | nature-idle-ocean |  
+| bip_39_word_dash_4 | nature-idle-ocean-first |  
+| bip_39_word_dash_5 | nature-idle-ocean-first-cash |  
+| bip_39_word_dash_6 | nature-idle-ocean-first-cash-crop |  
+| bip_39_word_dash_7 | nature-idle-ocean-first-cash-crop-history |  
+| bip_39_word_dash_8 | nature-idle-ocean-first-cash-crop-history-smart |  
+| bip_39_word_dash_9 | nature-idle-ocean-first-cash-crop-history-smart-silk |  
 | bip_39_word_new_br_1 | nature |  
 | bip_39_word_new_br_10 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart<br>silk<br>ostrich |  
 | bip_39_word_new_br_11 | nature<br>idle<br>ocean<br>first<br>cash<br>crop<br>history<br>smart<br>silk<br>ostrich<br>wolf |  
@@ -147,6 +159,18 @@ silk |
 | bip_39_word_space_7 | nature idle ocean first cash crop history |  
 | bip_39_word_space_8 | nature idle ocean first cash crop history smart |  
 | bip_39_word_space_9 | nature idle ocean first cash crop history smart silk |  
+| bip_39_word_underscore_1 | nature |  
+| bip_39_word_underscore_10 | nature_idle_ocean_first_cash_crop_history_smart_silk_ostrich |  
+| bip_39_word_underscore_11 | nature_idle_ocean_first_cash_crop_history_smart_silk_ostrich_wolf |  
+| bip_39_word_underscore_12 | nature_idle_ocean_first_cash_crop_history_smart_silk_ostrich_wolf_approve |  
+| bip_39_word_underscore_2 | nature_idle |  
+| bip_39_word_underscore_3 | nature_idle_ocean |  
+| bip_39_word_underscore_4 | nature_idle_ocean_first |  
+| bip_39_word_underscore_5 | nature_idle_ocean_first_cash |  
+| bip_39_word_underscore_6 | nature_idle_ocean_first_cash_crop |  
+| bip_39_word_underscore_7 | nature_idle_ocean_first_cash_crop_history |  
+| bip_39_word_underscore_8 | nature_idle_ocean_first_cash_crop_history_smart |  
+| bip_39_word_underscore_9 | nature_idle_ocean_first_cash_crop_history_smart_silk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

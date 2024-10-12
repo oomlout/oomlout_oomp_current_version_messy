@@ -1,3 +1,15 @@
+bip_39_word_dash_1: juice
+bip_39_word_dash_10: juice-august-voyage-visa-raw-taste-license-peace-excuse-brother
+bip_39_word_dash_11: juice-august-voyage-visa-raw-taste-license-peace-excuse-brother-cool
+bip_39_word_dash_12: juice-august-voyage-visa-raw-taste-license-peace-excuse-brother-cool-action
+bip_39_word_dash_2: juice-august
+bip_39_word_dash_3: juice-august-voyage
+bip_39_word_dash_4: juice-august-voyage-visa
+bip_39_word_dash_5: juice-august-voyage-visa-raw
+bip_39_word_dash_6: juice-august-voyage-visa-raw-taste
+bip_39_word_dash_7: juice-august-voyage-visa-raw-taste-license
+bip_39_word_dash_8: juice-august-voyage-visa-raw-taste-license-peace
+bip_39_word_dash_9: juice-august-voyage-visa-raw-taste-license-peace-excuse
 bip_39_word_new_br_1: juice
 bip_39_word_new_br_10: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother
 bip_39_word_new_br_11: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother<br>cool
@@ -193,6 +205,18 @@ bip_39_word_space_6: juice august voyage visa raw taste
 bip_39_word_space_7: juice august voyage visa raw taste license
 bip_39_word_space_8: juice august voyage visa raw taste license peace
 bip_39_word_space_9: juice august voyage visa raw taste license peace excuse
+bip_39_word_underscore_1: juice
+bip_39_word_underscore_10: juice_august_voyage_visa_raw_taste_license_peace_excuse_brother
+bip_39_word_underscore_11: juice_august_voyage_visa_raw_taste_license_peace_excuse_brother_cool
+bip_39_word_underscore_12: juice_august_voyage_visa_raw_taste_license_peace_excuse_brother_cool_action
+bip_39_word_underscore_2: juice_august
+bip_39_word_underscore_3: juice_august_voyage
+bip_39_word_underscore_4: juice_august_voyage_visa
+bip_39_word_underscore_5: juice_august_voyage_visa_raw
+bip_39_word_underscore_6: juice_august_voyage_visa_raw_taste
+bip_39_word_underscore_7: juice_august_voyage_visa_raw_taste_license
+bip_39_word_underscore_8: juice_august_voyage_visa_raw_taste_license_peace
+bip_39_word_underscore_9: juice_august_voyage_visa_raw_taste_license_peace_excuse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

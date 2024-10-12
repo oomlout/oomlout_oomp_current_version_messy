@@ -1,3 +1,15 @@
+bip_39_word_dash_1: reveal
+bip_39_word_dash_10: reveal-antenna-grass-mother-left-intact-token-sheriff-diet-happy
+bip_39_word_dash_11: reveal-antenna-grass-mother-left-intact-token-sheriff-diet-happy-mail
+bip_39_word_dash_12: reveal-antenna-grass-mother-left-intact-token-sheriff-diet-happy-mail-ancient
+bip_39_word_dash_2: reveal-antenna
+bip_39_word_dash_3: reveal-antenna-grass
+bip_39_word_dash_4: reveal-antenna-grass-mother
+bip_39_word_dash_5: reveal-antenna-grass-mother-left
+bip_39_word_dash_6: reveal-antenna-grass-mother-left-intact
+bip_39_word_dash_7: reveal-antenna-grass-mother-left-intact-token
+bip_39_word_dash_8: reveal-antenna-grass-mother-left-intact-token-sheriff
+bip_39_word_dash_9: reveal-antenna-grass-mother-left-intact-token-sheriff-diet
 bip_39_word_new_br_1: reveal
 bip_39_word_new_br_10: reveal<br>antenna<br>grass<br>mother<br>left<br>intact<br>token<br>sheriff<br>diet<br>happy
 bip_39_word_new_br_11: reveal<br>antenna<br>grass<br>mother<br>left<br>intact<br>token<br>sheriff<br>diet<br>happy<br>mail
@@ -193,6 +205,18 @@ bip_39_word_space_6: reveal antenna grass mother left intact
 bip_39_word_space_7: reveal antenna grass mother left intact token
 bip_39_word_space_8: reveal antenna grass mother left intact token sheriff
 bip_39_word_space_9: reveal antenna grass mother left intact token sheriff diet
+bip_39_word_underscore_1: reveal
+bip_39_word_underscore_10: reveal_antenna_grass_mother_left_intact_token_sheriff_diet_happy
+bip_39_word_underscore_11: reveal_antenna_grass_mother_left_intact_token_sheriff_diet_happy_mail
+bip_39_word_underscore_12: reveal_antenna_grass_mother_left_intact_token_sheriff_diet_happy_mail_ancient
+bip_39_word_underscore_2: reveal_antenna
+bip_39_word_underscore_3: reveal_antenna_grass
+bip_39_word_underscore_4: reveal_antenna_grass_mother
+bip_39_word_underscore_5: reveal_antenna_grass_mother_left
+bip_39_word_underscore_6: reveal_antenna_grass_mother_left_intact
+bip_39_word_underscore_7: reveal_antenna_grass_mother_left_intact_token
+bip_39_word_underscore_8: reveal_antenna_grass_mother_left_intact_token_sheriff
+bip_39_word_underscore_9: reveal_antenna_grass_mother_left_intact_token_sheriff_diet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

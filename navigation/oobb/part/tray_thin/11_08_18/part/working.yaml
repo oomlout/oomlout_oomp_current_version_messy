@@ -1,3 +1,15 @@
+bip_39_word_dash_1: theory
+bip_39_word_dash_10: theory-melody-guilt-nasty-transfer-cruel-kiwi-account-wave-carpet
+bip_39_word_dash_11: theory-melody-guilt-nasty-transfer-cruel-kiwi-account-wave-carpet-pulse
+bip_39_word_dash_12: theory-melody-guilt-nasty-transfer-cruel-kiwi-account-wave-carpet-pulse-action
+bip_39_word_dash_2: theory-melody
+bip_39_word_dash_3: theory-melody-guilt
+bip_39_word_dash_4: theory-melody-guilt-nasty
+bip_39_word_dash_5: theory-melody-guilt-nasty-transfer
+bip_39_word_dash_6: theory-melody-guilt-nasty-transfer-cruel
+bip_39_word_dash_7: theory-melody-guilt-nasty-transfer-cruel-kiwi
+bip_39_word_dash_8: theory-melody-guilt-nasty-transfer-cruel-kiwi-account
+bip_39_word_dash_9: theory-melody-guilt-nasty-transfer-cruel-kiwi-account-wave
 bip_39_word_new_br_1: theory
 bip_39_word_new_br_10: theory<br>melody<br>guilt<br>nasty<br>transfer<br>cruel<br>kiwi<br>account<br>wave<br>carpet
 bip_39_word_new_br_11: theory<br>melody<br>guilt<br>nasty<br>transfer<br>cruel<br>kiwi<br>account<br>wave<br>carpet<br>pulse
@@ -193,6 +205,18 @@ bip_39_word_space_6: theory melody guilt nasty transfer cruel
 bip_39_word_space_7: theory melody guilt nasty transfer cruel kiwi
 bip_39_word_space_8: theory melody guilt nasty transfer cruel kiwi account
 bip_39_word_space_9: theory melody guilt nasty transfer cruel kiwi account wave
+bip_39_word_underscore_1: theory
+bip_39_word_underscore_10: theory_melody_guilt_nasty_transfer_cruel_kiwi_account_wave_carpet
+bip_39_word_underscore_11: theory_melody_guilt_nasty_transfer_cruel_kiwi_account_wave_carpet_pulse
+bip_39_word_underscore_12: theory_melody_guilt_nasty_transfer_cruel_kiwi_account_wave_carpet_pulse_action
+bip_39_word_underscore_2: theory_melody
+bip_39_word_underscore_3: theory_melody_guilt
+bip_39_word_underscore_4: theory_melody_guilt_nasty
+bip_39_word_underscore_5: theory_melody_guilt_nasty_transfer
+bip_39_word_underscore_6: theory_melody_guilt_nasty_transfer_cruel
+bip_39_word_underscore_7: theory_melody_guilt_nasty_transfer_cruel_kiwi
+bip_39_word_underscore_8: theory_melody_guilt_nasty_transfer_cruel_kiwi_account
+bip_39_word_underscore_9: theory_melody_guilt_nasty_transfer_cruel_kiwi_account_wave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

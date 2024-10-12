@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dirt
+bip_39_word_dash_10: dirt-actual-wear-purse-cloud-worry-sister-dress-response-receive
+bip_39_word_dash_11: dirt-actual-wear-purse-cloud-worry-sister-dress-response-receive-ripple
+bip_39_word_dash_12: dirt-actual-wear-purse-cloud-worry-sister-dress-response-receive-ripple-absurd
+bip_39_word_dash_2: dirt-actual
+bip_39_word_dash_3: dirt-actual-wear
+bip_39_word_dash_4: dirt-actual-wear-purse
+bip_39_word_dash_5: dirt-actual-wear-purse-cloud
+bip_39_word_dash_6: dirt-actual-wear-purse-cloud-worry
+bip_39_word_dash_7: dirt-actual-wear-purse-cloud-worry-sister
+bip_39_word_dash_8: dirt-actual-wear-purse-cloud-worry-sister-dress
+bip_39_word_dash_9: dirt-actual-wear-purse-cloud-worry-sister-dress-response
 bip_39_word_new_br_1: dirt
 bip_39_word_new_br_10: dirt<br>actual<br>wear<br>purse<br>cloud<br>worry<br>sister<br>dress<br>response<br>receive
 bip_39_word_new_br_11: dirt<br>actual<br>wear<br>purse<br>cloud<br>worry<br>sister<br>dress<br>response<br>receive<br>ripple
@@ -193,6 +205,18 @@ bip_39_word_space_6: dirt actual wear purse cloud worry
 bip_39_word_space_7: dirt actual wear purse cloud worry sister
 bip_39_word_space_8: dirt actual wear purse cloud worry sister dress
 bip_39_word_space_9: dirt actual wear purse cloud worry sister dress response
+bip_39_word_underscore_1: dirt
+bip_39_word_underscore_10: dirt_actual_wear_purse_cloud_worry_sister_dress_response_receive
+bip_39_word_underscore_11: dirt_actual_wear_purse_cloud_worry_sister_dress_response_receive_ripple
+bip_39_word_underscore_12: dirt_actual_wear_purse_cloud_worry_sister_dress_response_receive_ripple_absurd
+bip_39_word_underscore_2: dirt_actual
+bip_39_word_underscore_3: dirt_actual_wear
+bip_39_word_underscore_4: dirt_actual_wear_purse
+bip_39_word_underscore_5: dirt_actual_wear_purse_cloud
+bip_39_word_underscore_6: dirt_actual_wear_purse_cloud_worry
+bip_39_word_underscore_7: dirt_actual_wear_purse_cloud_worry_sister
+bip_39_word_underscore_8: dirt_actual_wear_purse_cloud_worry_sister_dress
+bip_39_word_underscore_9: dirt_actual_wear_purse_cloud_worry_sister_dress_response
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

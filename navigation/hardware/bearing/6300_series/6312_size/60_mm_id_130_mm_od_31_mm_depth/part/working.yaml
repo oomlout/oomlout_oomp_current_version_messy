@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rely
+bip_39_word_dash_10: rely-wash-quit-pool-vehicle-adapt-will-april-alien-steak
+bip_39_word_dash_11: rely-wash-quit-pool-vehicle-adapt-will-april-alien-steak-frown
+bip_39_word_dash_12: rely-wash-quit-pool-vehicle-adapt-will-april-alien-steak-frown-anxiety
+bip_39_word_dash_2: rely-wash
+bip_39_word_dash_3: rely-wash-quit
+bip_39_word_dash_4: rely-wash-quit-pool
+bip_39_word_dash_5: rely-wash-quit-pool-vehicle
+bip_39_word_dash_6: rely-wash-quit-pool-vehicle-adapt
+bip_39_word_dash_7: rely-wash-quit-pool-vehicle-adapt-will
+bip_39_word_dash_8: rely-wash-quit-pool-vehicle-adapt-will-april
+bip_39_word_dash_9: rely-wash-quit-pool-vehicle-adapt-will-april-alien
 bip_39_word_new_br_1: rely
 bip_39_word_new_br_10: rely<br>wash<br>quit<br>pool<br>vehicle<br>adapt<br>will<br>april<br>alien<br>steak
 bip_39_word_new_br_11: rely<br>wash<br>quit<br>pool<br>vehicle<br>adapt<br>will<br>april<br>alien<br>steak<br>frown
@@ -192,6 +204,18 @@ bip_39_word_space_6: rely wash quit pool vehicle adapt
 bip_39_word_space_7: rely wash quit pool vehicle adapt will
 bip_39_word_space_8: rely wash quit pool vehicle adapt will april
 bip_39_word_space_9: rely wash quit pool vehicle adapt will april alien
+bip_39_word_underscore_1: rely
+bip_39_word_underscore_10: rely_wash_quit_pool_vehicle_adapt_will_april_alien_steak
+bip_39_word_underscore_11: rely_wash_quit_pool_vehicle_adapt_will_april_alien_steak_frown
+bip_39_word_underscore_12: rely_wash_quit_pool_vehicle_adapt_will_april_alien_steak_frown_anxiety
+bip_39_word_underscore_2: rely_wash
+bip_39_word_underscore_3: rely_wash_quit
+bip_39_word_underscore_4: rely_wash_quit_pool
+bip_39_word_underscore_5: rely_wash_quit_pool_vehicle
+bip_39_word_underscore_6: rely_wash_quit_pool_vehicle_adapt
+bip_39_word_underscore_7: rely_wash_quit_pool_vehicle_adapt_will
+bip_39_word_underscore_8: rely_wash_quit_pool_vehicle_adapt_will_april
+bip_39_word_underscore_9: rely_wash_quit_pool_vehicle_adapt_will_april_alien
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

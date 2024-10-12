@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | naive |  
+| bip_39_word_dash_10 | naive-amused-draw-arena-enable-coil-orphan-cousin-caught-observe |  
+| bip_39_word_dash_11 | naive-amused-draw-arena-enable-coil-orphan-cousin-caught-observe-noodle |  
+| bip_39_word_dash_12 | naive-amused-draw-arena-enable-coil-orphan-cousin-caught-observe-noodle-acoustic |  
+| bip_39_word_dash_2 | naive-amused |  
+| bip_39_word_dash_3 | naive-amused-draw |  
+| bip_39_word_dash_4 | naive-amused-draw-arena |  
+| bip_39_word_dash_5 | naive-amused-draw-arena-enable |  
+| bip_39_word_dash_6 | naive-amused-draw-arena-enable-coil |  
+| bip_39_word_dash_7 | naive-amused-draw-arena-enable-coil-orphan |  
+| bip_39_word_dash_8 | naive-amused-draw-arena-enable-coil-orphan-cousin |  
+| bip_39_word_dash_9 | naive-amused-draw-arena-enable-coil-orphan-cousin-caught |  
 | bip_39_word_new_br_1 | naive |  
 | bip_39_word_new_br_10 | naive<br>amused<br>draw<br>arena<br>enable<br>coil<br>orphan<br>cousin<br>caught<br>observe |  
 | bip_39_word_new_br_11 | naive<br>amused<br>draw<br>arena<br>enable<br>coil<br>orphan<br>cousin<br>caught<br>observe<br>noodle |  
@@ -147,6 +159,18 @@ caught |
 | bip_39_word_space_7 | naive amused draw arena enable coil orphan |  
 | bip_39_word_space_8 | naive amused draw arena enable coil orphan cousin |  
 | bip_39_word_space_9 | naive amused draw arena enable coil orphan cousin caught |  
+| bip_39_word_underscore_1 | naive |  
+| bip_39_word_underscore_10 | naive_amused_draw_arena_enable_coil_orphan_cousin_caught_observe |  
+| bip_39_word_underscore_11 | naive_amused_draw_arena_enable_coil_orphan_cousin_caught_observe_noodle |  
+| bip_39_word_underscore_12 | naive_amused_draw_arena_enable_coil_orphan_cousin_caught_observe_noodle_acoustic |  
+| bip_39_word_underscore_2 | naive_amused |  
+| bip_39_word_underscore_3 | naive_amused_draw |  
+| bip_39_word_underscore_4 | naive_amused_draw_arena |  
+| bip_39_word_underscore_5 | naive_amused_draw_arena_enable |  
+| bip_39_word_underscore_6 | naive_amused_draw_arena_enable_coil |  
+| bip_39_word_underscore_7 | naive_amused_draw_arena_enable_coil_orphan |  
+| bip_39_word_underscore_8 | naive_amused_draw_arena_enable_coil_orphan_cousin |  
+| bip_39_word_underscore_9 | naive_amused_draw_arena_enable_coil_orphan_cousin_caught |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

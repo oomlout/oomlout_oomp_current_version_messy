@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | board |  
+| bip_39_word_dash_10 | board-flavor-primary-next-sketch-salmon-steak-remain-panther-measure |  
+| bip_39_word_dash_11 | board-flavor-primary-next-sketch-salmon-steak-remain-panther-measure-valve |  
+| bip_39_word_dash_12 | board-flavor-primary-next-sketch-salmon-steak-remain-panther-measure-valve-art |  
+| bip_39_word_dash_2 | board-flavor |  
+| bip_39_word_dash_3 | board-flavor-primary |  
+| bip_39_word_dash_4 | board-flavor-primary-next |  
+| bip_39_word_dash_5 | board-flavor-primary-next-sketch |  
+| bip_39_word_dash_6 | board-flavor-primary-next-sketch-salmon |  
+| bip_39_word_dash_7 | board-flavor-primary-next-sketch-salmon-steak |  
+| bip_39_word_dash_8 | board-flavor-primary-next-sketch-salmon-steak-remain |  
+| bip_39_word_dash_9 | board-flavor-primary-next-sketch-salmon-steak-remain-panther |  
 | bip_39_word_new_br_1 | board |  
 | bip_39_word_new_br_10 | board<br>flavor<br>primary<br>next<br>sketch<br>salmon<br>steak<br>remain<br>panther<br>measure |  
 | bip_39_word_new_br_11 | board<br>flavor<br>primary<br>next<br>sketch<br>salmon<br>steak<br>remain<br>panther<br>measure<br>valve |  
@@ -147,6 +159,18 @@ panther |
 | bip_39_word_space_7 | board flavor primary next sketch salmon steak |  
 | bip_39_word_space_8 | board flavor primary next sketch salmon steak remain |  
 | bip_39_word_space_9 | board flavor primary next sketch salmon steak remain panther |  
+| bip_39_word_underscore_1 | board |  
+| bip_39_word_underscore_10 | board_flavor_primary_next_sketch_salmon_steak_remain_panther_measure |  
+| bip_39_word_underscore_11 | board_flavor_primary_next_sketch_salmon_steak_remain_panther_measure_valve |  
+| bip_39_word_underscore_12 | board_flavor_primary_next_sketch_salmon_steak_remain_panther_measure_valve_art |  
+| bip_39_word_underscore_2 | board_flavor |  
+| bip_39_word_underscore_3 | board_flavor_primary |  
+| bip_39_word_underscore_4 | board_flavor_primary_next |  
+| bip_39_word_underscore_5 | board_flavor_primary_next_sketch |  
+| bip_39_word_underscore_6 | board_flavor_primary_next_sketch_salmon |  
+| bip_39_word_underscore_7 | board_flavor_primary_next_sketch_salmon_steak |  
+| bip_39_word_underscore_8 | board_flavor_primary_next_sketch_salmon_steak_remain |  
+| bip_39_word_underscore_9 | board_flavor_primary_next_sketch_salmon_steak_remain_panther |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

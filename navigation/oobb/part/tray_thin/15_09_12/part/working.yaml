@@ -1,3 +1,15 @@
+bip_39_word_dash_1: walnut
+bip_39_word_dash_10: walnut-horse-ocean-year-option-acid-explain-lecture-talent-galaxy
+bip_39_word_dash_11: walnut-horse-ocean-year-option-acid-explain-lecture-talent-galaxy-erupt
+bip_39_word_dash_12: walnut-horse-ocean-year-option-acid-explain-lecture-talent-galaxy-erupt-ask
+bip_39_word_dash_2: walnut-horse
+bip_39_word_dash_3: walnut-horse-ocean
+bip_39_word_dash_4: walnut-horse-ocean-year
+bip_39_word_dash_5: walnut-horse-ocean-year-option
+bip_39_word_dash_6: walnut-horse-ocean-year-option-acid
+bip_39_word_dash_7: walnut-horse-ocean-year-option-acid-explain
+bip_39_word_dash_8: walnut-horse-ocean-year-option-acid-explain-lecture
+bip_39_word_dash_9: walnut-horse-ocean-year-option-acid-explain-lecture-talent
 bip_39_word_new_br_1: walnut
 bip_39_word_new_br_10: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy
 bip_39_word_new_br_11: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy<br>erupt
@@ -193,6 +205,18 @@ bip_39_word_space_6: walnut horse ocean year option acid
 bip_39_word_space_7: walnut horse ocean year option acid explain
 bip_39_word_space_8: walnut horse ocean year option acid explain lecture
 bip_39_word_space_9: walnut horse ocean year option acid explain lecture talent
+bip_39_word_underscore_1: walnut
+bip_39_word_underscore_10: walnut_horse_ocean_year_option_acid_explain_lecture_talent_galaxy
+bip_39_word_underscore_11: walnut_horse_ocean_year_option_acid_explain_lecture_talent_galaxy_erupt
+bip_39_word_underscore_12: walnut_horse_ocean_year_option_acid_explain_lecture_talent_galaxy_erupt_ask
+bip_39_word_underscore_2: walnut_horse
+bip_39_word_underscore_3: walnut_horse_ocean
+bip_39_word_underscore_4: walnut_horse_ocean_year
+bip_39_word_underscore_5: walnut_horse_ocean_year_option
+bip_39_word_underscore_6: walnut_horse_ocean_year_option_acid
+bip_39_word_underscore_7: walnut_horse_ocean_year_option_acid_explain
+bip_39_word_underscore_8: walnut_horse_ocean_year_option_acid_explain_lecture
+bip_39_word_underscore_9: walnut_horse_ocean_year_option_acid_explain_lecture_talent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

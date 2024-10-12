@@ -1,3 +1,15 @@
+bip_39_word_dash_1: measure
+bip_39_word_dash_10: measure-hobby-enlist-yellow-cradle-fix-fish-before-page-notice
+bip_39_word_dash_11: measure-hobby-enlist-yellow-cradle-fix-fish-before-page-notice-album
+bip_39_word_dash_12: measure-hobby-enlist-yellow-cradle-fix-fish-before-page-notice-album-atom
+bip_39_word_dash_2: measure-hobby
+bip_39_word_dash_3: measure-hobby-enlist
+bip_39_word_dash_4: measure-hobby-enlist-yellow
+bip_39_word_dash_5: measure-hobby-enlist-yellow-cradle
+bip_39_word_dash_6: measure-hobby-enlist-yellow-cradle-fix
+bip_39_word_dash_7: measure-hobby-enlist-yellow-cradle-fix-fish
+bip_39_word_dash_8: measure-hobby-enlist-yellow-cradle-fix-fish-before
+bip_39_word_dash_9: measure-hobby-enlist-yellow-cradle-fix-fish-before-page
 bip_39_word_new_br_1: measure
 bip_39_word_new_br_10: measure<br>hobby<br>enlist<br>yellow<br>cradle<br>fix<br>fish<br>before<br>page<br>notice
 bip_39_word_new_br_11: measure<br>hobby<br>enlist<br>yellow<br>cradle<br>fix<br>fish<br>before<br>page<br>notice<br>album
@@ -193,6 +205,18 @@ bip_39_word_space_6: measure hobby enlist yellow cradle fix
 bip_39_word_space_7: measure hobby enlist yellow cradle fix fish
 bip_39_word_space_8: measure hobby enlist yellow cradle fix fish before
 bip_39_word_space_9: measure hobby enlist yellow cradle fix fish before page
+bip_39_word_underscore_1: measure
+bip_39_word_underscore_10: measure_hobby_enlist_yellow_cradle_fix_fish_before_page_notice
+bip_39_word_underscore_11: measure_hobby_enlist_yellow_cradle_fix_fish_before_page_notice_album
+bip_39_word_underscore_12: measure_hobby_enlist_yellow_cradle_fix_fish_before_page_notice_album_atom
+bip_39_word_underscore_2: measure_hobby
+bip_39_word_underscore_3: measure_hobby_enlist
+bip_39_word_underscore_4: measure_hobby_enlist_yellow
+bip_39_word_underscore_5: measure_hobby_enlist_yellow_cradle
+bip_39_word_underscore_6: measure_hobby_enlist_yellow_cradle_fix
+bip_39_word_underscore_7: measure_hobby_enlist_yellow_cradle_fix_fish
+bip_39_word_underscore_8: measure_hobby_enlist_yellow_cradle_fix_fish_before
+bip_39_word_underscore_9: measure_hobby_enlist_yellow_cradle_fix_fish_before_page
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

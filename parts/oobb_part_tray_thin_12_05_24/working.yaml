@@ -1,3 +1,15 @@
+bip_39_word_dash_1: envelope
+bip_39_word_dash_10: envelope-romance-parent-venue-arrest-enjoy-holiday-amused-police-label
+bip_39_word_dash_11: envelope-romance-parent-venue-arrest-enjoy-holiday-amused-police-label-write
+bip_39_word_dash_12: envelope-romance-parent-venue-arrest-enjoy-holiday-amused-police-label-write-animal
+bip_39_word_dash_2: envelope-romance
+bip_39_word_dash_3: envelope-romance-parent
+bip_39_word_dash_4: envelope-romance-parent-venue
+bip_39_word_dash_5: envelope-romance-parent-venue-arrest
+bip_39_word_dash_6: envelope-romance-parent-venue-arrest-enjoy
+bip_39_word_dash_7: envelope-romance-parent-venue-arrest-enjoy-holiday
+bip_39_word_dash_8: envelope-romance-parent-venue-arrest-enjoy-holiday-amused
+bip_39_word_dash_9: envelope-romance-parent-venue-arrest-enjoy-holiday-amused-police
 bip_39_word_new_br_1: envelope
 bip_39_word_new_br_10: envelope<br>romance<br>parent<br>venue<br>arrest<br>enjoy<br>holiday<br>amused<br>police<br>label
 bip_39_word_new_br_11: envelope<br>romance<br>parent<br>venue<br>arrest<br>enjoy<br>holiday<br>amused<br>police<br>label<br>write
@@ -194,6 +206,18 @@ bip_39_word_space_6: envelope romance parent venue arrest enjoy
 bip_39_word_space_7: envelope romance parent venue arrest enjoy holiday
 bip_39_word_space_8: envelope romance parent venue arrest enjoy holiday amused
 bip_39_word_space_9: envelope romance parent venue arrest enjoy holiday amused police
+bip_39_word_underscore_1: envelope
+bip_39_word_underscore_10: envelope_romance_parent_venue_arrest_enjoy_holiday_amused_police_label
+bip_39_word_underscore_11: envelope_romance_parent_venue_arrest_enjoy_holiday_amused_police_label_write
+bip_39_word_underscore_12: envelope_romance_parent_venue_arrest_enjoy_holiday_amused_police_label_write_animal
+bip_39_word_underscore_2: envelope_romance
+bip_39_word_underscore_3: envelope_romance_parent
+bip_39_word_underscore_4: envelope_romance_parent_venue
+bip_39_word_underscore_5: envelope_romance_parent_venue_arrest
+bip_39_word_underscore_6: envelope_romance_parent_venue_arrest_enjoy
+bip_39_word_underscore_7: envelope_romance_parent_venue_arrest_enjoy_holiday
+bip_39_word_underscore_8: envelope_romance_parent_venue_arrest_enjoy_holiday_amused
+bip_39_word_underscore_9: envelope_romance_parent_venue_arrest_enjoy_holiday_amused_police
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

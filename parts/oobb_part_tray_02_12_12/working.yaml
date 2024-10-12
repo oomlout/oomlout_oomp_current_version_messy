@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mobile
+bip_39_word_dash_10: mobile-what-nut-junk-alpha-stay-ritual-shoulder-together-road
+bip_39_word_dash_11: mobile-what-nut-junk-alpha-stay-ritual-shoulder-together-road-hamster
+bip_39_word_dash_12: mobile-what-nut-junk-alpha-stay-ritual-shoulder-together-road-hamster-alter
+bip_39_word_dash_2: mobile-what
+bip_39_word_dash_3: mobile-what-nut
+bip_39_word_dash_4: mobile-what-nut-junk
+bip_39_word_dash_5: mobile-what-nut-junk-alpha
+bip_39_word_dash_6: mobile-what-nut-junk-alpha-stay
+bip_39_word_dash_7: mobile-what-nut-junk-alpha-stay-ritual
+bip_39_word_dash_8: mobile-what-nut-junk-alpha-stay-ritual-shoulder
+bip_39_word_dash_9: mobile-what-nut-junk-alpha-stay-ritual-shoulder-together
 bip_39_word_new_br_1: mobile
 bip_39_word_new_br_10: mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road
 bip_39_word_new_br_11: mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road<br>hamster
@@ -193,6 +205,18 @@ bip_39_word_space_6: mobile what nut junk alpha stay
 bip_39_word_space_7: mobile what nut junk alpha stay ritual
 bip_39_word_space_8: mobile what nut junk alpha stay ritual shoulder
 bip_39_word_space_9: mobile what nut junk alpha stay ritual shoulder together
+bip_39_word_underscore_1: mobile
+bip_39_word_underscore_10: mobile_what_nut_junk_alpha_stay_ritual_shoulder_together_road
+bip_39_word_underscore_11: mobile_what_nut_junk_alpha_stay_ritual_shoulder_together_road_hamster
+bip_39_word_underscore_12: mobile_what_nut_junk_alpha_stay_ritual_shoulder_together_road_hamster_alter
+bip_39_word_underscore_2: mobile_what
+bip_39_word_underscore_3: mobile_what_nut
+bip_39_word_underscore_4: mobile_what_nut_junk
+bip_39_word_underscore_5: mobile_what_nut_junk_alpha
+bip_39_word_underscore_6: mobile_what_nut_junk_alpha_stay
+bip_39_word_underscore_7: mobile_what_nut_junk_alpha_stay_ritual
+bip_39_word_underscore_8: mobile_what_nut_junk_alpha_stay_ritual_shoulder
+bip_39_word_underscore_9: mobile_what_nut_junk_alpha_stay_ritual_shoulder_together
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

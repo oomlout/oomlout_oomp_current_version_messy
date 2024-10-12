@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mansion |  
+| bip_39_word_dash_10 | mansion-pumpkin-tenant-sign-bus-talk-protect-now-tool-track |  
+| bip_39_word_dash_11 | mansion-pumpkin-tenant-sign-bus-talk-protect-now-tool-track-road |  
+| bip_39_word_dash_12 | mansion-pumpkin-tenant-sign-bus-talk-protect-now-tool-track-road-affair |  
+| bip_39_word_dash_2 | mansion-pumpkin |  
+| bip_39_word_dash_3 | mansion-pumpkin-tenant |  
+| bip_39_word_dash_4 | mansion-pumpkin-tenant-sign |  
+| bip_39_word_dash_5 | mansion-pumpkin-tenant-sign-bus |  
+| bip_39_word_dash_6 | mansion-pumpkin-tenant-sign-bus-talk |  
+| bip_39_word_dash_7 | mansion-pumpkin-tenant-sign-bus-talk-protect |  
+| bip_39_word_dash_8 | mansion-pumpkin-tenant-sign-bus-talk-protect-now |  
+| bip_39_word_dash_9 | mansion-pumpkin-tenant-sign-bus-talk-protect-now-tool |  
 | bip_39_word_new_br_1 | mansion |  
 | bip_39_word_new_br_10 | mansion<br>pumpkin<br>tenant<br>sign<br>bus<br>talk<br>protect<br>now<br>tool<br>track |  
 | bip_39_word_new_br_11 | mansion<br>pumpkin<br>tenant<br>sign<br>bus<br>talk<br>protect<br>now<br>tool<br>track<br>road |  
@@ -147,6 +159,18 @@ tool |
 | bip_39_word_space_7 | mansion pumpkin tenant sign bus talk protect |  
 | bip_39_word_space_8 | mansion pumpkin tenant sign bus talk protect now |  
 | bip_39_word_space_9 | mansion pumpkin tenant sign bus talk protect now tool |  
+| bip_39_word_underscore_1 | mansion |  
+| bip_39_word_underscore_10 | mansion_pumpkin_tenant_sign_bus_talk_protect_now_tool_track |  
+| bip_39_word_underscore_11 | mansion_pumpkin_tenant_sign_bus_talk_protect_now_tool_track_road |  
+| bip_39_word_underscore_12 | mansion_pumpkin_tenant_sign_bus_talk_protect_now_tool_track_road_affair |  
+| bip_39_word_underscore_2 | mansion_pumpkin |  
+| bip_39_word_underscore_3 | mansion_pumpkin_tenant |  
+| bip_39_word_underscore_4 | mansion_pumpkin_tenant_sign |  
+| bip_39_word_underscore_5 | mansion_pumpkin_tenant_sign_bus |  
+| bip_39_word_underscore_6 | mansion_pumpkin_tenant_sign_bus_talk |  
+| bip_39_word_underscore_7 | mansion_pumpkin_tenant_sign_bus_talk_protect |  
+| bip_39_word_underscore_8 | mansion_pumpkin_tenant_sign_bus_talk_protect_now |  
+| bip_39_word_underscore_9 | mansion_pumpkin_tenant_sign_bus_talk_protect_now_tool |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

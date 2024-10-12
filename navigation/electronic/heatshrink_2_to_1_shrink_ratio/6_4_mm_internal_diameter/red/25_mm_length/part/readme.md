@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hen |  
+| bip_39_word_dash_10 | hen-awkward-venture-game-slush-awesome-stamp-vanish-essence-ugly |  
+| bip_39_word_dash_11 | hen-awkward-venture-game-slush-awesome-stamp-vanish-essence-ugly-cinnamon |  
+| bip_39_word_dash_12 | hen-awkward-venture-game-slush-awesome-stamp-vanish-essence-ugly-cinnamon-album |  
+| bip_39_word_dash_2 | hen-awkward |  
+| bip_39_word_dash_3 | hen-awkward-venture |  
+| bip_39_word_dash_4 | hen-awkward-venture-game |  
+| bip_39_word_dash_5 | hen-awkward-venture-game-slush |  
+| bip_39_word_dash_6 | hen-awkward-venture-game-slush-awesome |  
+| bip_39_word_dash_7 | hen-awkward-venture-game-slush-awesome-stamp |  
+| bip_39_word_dash_8 | hen-awkward-venture-game-slush-awesome-stamp-vanish |  
+| bip_39_word_dash_9 | hen-awkward-venture-game-slush-awesome-stamp-vanish-essence |  
 | bip_39_word_new_br_1 | hen |  
 | bip_39_word_new_br_10 | hen<br>awkward<br>venture<br>game<br>slush<br>awesome<br>stamp<br>vanish<br>essence<br>ugly |  
 | bip_39_word_new_br_11 | hen<br>awkward<br>venture<br>game<br>slush<br>awesome<br>stamp<br>vanish<br>essence<br>ugly<br>cinnamon |  
@@ -147,6 +159,18 @@ essence |
 | bip_39_word_space_7 | hen awkward venture game slush awesome stamp |  
 | bip_39_word_space_8 | hen awkward venture game slush awesome stamp vanish |  
 | bip_39_word_space_9 | hen awkward venture game slush awesome stamp vanish essence |  
+| bip_39_word_underscore_1 | hen |  
+| bip_39_word_underscore_10 | hen_awkward_venture_game_slush_awesome_stamp_vanish_essence_ugly |  
+| bip_39_word_underscore_11 | hen_awkward_venture_game_slush_awesome_stamp_vanish_essence_ugly_cinnamon |  
+| bip_39_word_underscore_12 | hen_awkward_venture_game_slush_awesome_stamp_vanish_essence_ugly_cinnamon_album |  
+| bip_39_word_underscore_2 | hen_awkward |  
+| bip_39_word_underscore_3 | hen_awkward_venture |  
+| bip_39_word_underscore_4 | hen_awkward_venture_game |  
+| bip_39_word_underscore_5 | hen_awkward_venture_game_slush |  
+| bip_39_word_underscore_6 | hen_awkward_venture_game_slush_awesome |  
+| bip_39_word_underscore_7 | hen_awkward_venture_game_slush_awesome_stamp |  
+| bip_39_word_underscore_8 | hen_awkward_venture_game_slush_awesome_stamp_vanish |  
+| bip_39_word_underscore_9 | hen_awkward_venture_game_slush_awesome_stamp_vanish_essence |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

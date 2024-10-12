@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | false |  
+| bip_39_word_dash_10 | false-scare-guitar-final-discover-depth-grid-poverty-tunnel-blouse |  
+| bip_39_word_dash_11 | false-scare-guitar-final-discover-depth-grid-poverty-tunnel-blouse-accident |  
+| bip_39_word_dash_12 | false-scare-guitar-final-discover-depth-grid-poverty-tunnel-blouse-accident-age |  
+| bip_39_word_dash_2 | false-scare |  
+| bip_39_word_dash_3 | false-scare-guitar |  
+| bip_39_word_dash_4 | false-scare-guitar-final |  
+| bip_39_word_dash_5 | false-scare-guitar-final-discover |  
+| bip_39_word_dash_6 | false-scare-guitar-final-discover-depth |  
+| bip_39_word_dash_7 | false-scare-guitar-final-discover-depth-grid |  
+| bip_39_word_dash_8 | false-scare-guitar-final-discover-depth-grid-poverty |  
+| bip_39_word_dash_9 | false-scare-guitar-final-discover-depth-grid-poverty-tunnel |  
 | bip_39_word_new_br_1 | false |  
 | bip_39_word_new_br_10 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty<br>tunnel<br>blouse |  
 | bip_39_word_new_br_11 | false<br>scare<br>guitar<br>final<br>discover<br>depth<br>grid<br>poverty<br>tunnel<br>blouse<br>accident |  
@@ -147,6 +159,18 @@ tunnel |
 | bip_39_word_space_7 | false scare guitar final discover depth grid |  
 | bip_39_word_space_8 | false scare guitar final discover depth grid poverty |  
 | bip_39_word_space_9 | false scare guitar final discover depth grid poverty tunnel |  
+| bip_39_word_underscore_1 | false |  
+| bip_39_word_underscore_10 | false_scare_guitar_final_discover_depth_grid_poverty_tunnel_blouse |  
+| bip_39_word_underscore_11 | false_scare_guitar_final_discover_depth_grid_poverty_tunnel_blouse_accident |  
+| bip_39_word_underscore_12 | false_scare_guitar_final_discover_depth_grid_poverty_tunnel_blouse_accident_age |  
+| bip_39_word_underscore_2 | false_scare |  
+| bip_39_word_underscore_3 | false_scare_guitar |  
+| bip_39_word_underscore_4 | false_scare_guitar_final |  
+| bip_39_word_underscore_5 | false_scare_guitar_final_discover |  
+| bip_39_word_underscore_6 | false_scare_guitar_final_discover_depth |  
+| bip_39_word_underscore_7 | false_scare_guitar_final_discover_depth_grid |  
+| bip_39_word_underscore_8 | false_scare_guitar_final_discover_depth_grid_poverty |  
+| bip_39_word_underscore_9 | false_scare_guitar_final_discover_depth_grid_poverty_tunnel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

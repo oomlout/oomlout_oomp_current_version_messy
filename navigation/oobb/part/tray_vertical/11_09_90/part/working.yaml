@@ -1,3 +1,15 @@
+bip_39_word_dash_1: today
+bip_39_word_dash_10: today-reflect-bubble-impact-snack-tent-occur-maple-fiscal-usage
+bip_39_word_dash_11: today-reflect-bubble-impact-snack-tent-occur-maple-fiscal-usage-capital
+bip_39_word_dash_12: today-reflect-bubble-impact-snack-tent-occur-maple-fiscal-usage-capital-attend
+bip_39_word_dash_2: today-reflect
+bip_39_word_dash_3: today-reflect-bubble
+bip_39_word_dash_4: today-reflect-bubble-impact
+bip_39_word_dash_5: today-reflect-bubble-impact-snack
+bip_39_word_dash_6: today-reflect-bubble-impact-snack-tent
+bip_39_word_dash_7: today-reflect-bubble-impact-snack-tent-occur
+bip_39_word_dash_8: today-reflect-bubble-impact-snack-tent-occur-maple
+bip_39_word_dash_9: today-reflect-bubble-impact-snack-tent-occur-maple-fiscal
 bip_39_word_new_br_1: today
 bip_39_word_new_br_10: today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple<br>fiscal<br>usage
 bip_39_word_new_br_11: today<br>reflect<br>bubble<br>impact<br>snack<br>tent<br>occur<br>maple<br>fiscal<br>usage<br>capital
@@ -193,6 +205,18 @@ bip_39_word_space_6: today reflect bubble impact snack tent
 bip_39_word_space_7: today reflect bubble impact snack tent occur
 bip_39_word_space_8: today reflect bubble impact snack tent occur maple
 bip_39_word_space_9: today reflect bubble impact snack tent occur maple fiscal
+bip_39_word_underscore_1: today
+bip_39_word_underscore_10: today_reflect_bubble_impact_snack_tent_occur_maple_fiscal_usage
+bip_39_word_underscore_11: today_reflect_bubble_impact_snack_tent_occur_maple_fiscal_usage_capital
+bip_39_word_underscore_12: today_reflect_bubble_impact_snack_tent_occur_maple_fiscal_usage_capital_attend
+bip_39_word_underscore_2: today_reflect
+bip_39_word_underscore_3: today_reflect_bubble
+bip_39_word_underscore_4: today_reflect_bubble_impact
+bip_39_word_underscore_5: today_reflect_bubble_impact_snack
+bip_39_word_underscore_6: today_reflect_bubble_impact_snack_tent
+bip_39_word_underscore_7: today_reflect_bubble_impact_snack_tent_occur
+bip_39_word_underscore_8: today_reflect_bubble_impact_snack_tent_occur_maple
+bip_39_word_underscore_9: today_reflect_bubble_impact_snack_tent_occur_maple_fiscal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

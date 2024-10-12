@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dash |  
+| bip_39_word_dash_10 | dash-digital-gas-own-eye-hip-junk-skull-motor-travel |  
+| bip_39_word_dash_11 | dash-digital-gas-own-eye-hip-junk-skull-motor-travel-bottom |  
+| bip_39_word_dash_12 | dash-digital-gas-own-eye-hip-junk-skull-motor-travel-bottom-alert |  
+| bip_39_word_dash_2 | dash-digital |  
+| bip_39_word_dash_3 | dash-digital-gas |  
+| bip_39_word_dash_4 | dash-digital-gas-own |  
+| bip_39_word_dash_5 | dash-digital-gas-own-eye |  
+| bip_39_word_dash_6 | dash-digital-gas-own-eye-hip |  
+| bip_39_word_dash_7 | dash-digital-gas-own-eye-hip-junk |  
+| bip_39_word_dash_8 | dash-digital-gas-own-eye-hip-junk-skull |  
+| bip_39_word_dash_9 | dash-digital-gas-own-eye-hip-junk-skull-motor |  
 | bip_39_word_new_br_1 | dash |  
 | bip_39_word_new_br_10 | dash<br>digital<br>gas<br>own<br>eye<br>hip<br>junk<br>skull<br>motor<br>travel |  
 | bip_39_word_new_br_11 | dash<br>digital<br>gas<br>own<br>eye<br>hip<br>junk<br>skull<br>motor<br>travel<br>bottom |  
@@ -147,6 +159,18 @@ motor |
 | bip_39_word_space_7 | dash digital gas own eye hip junk |  
 | bip_39_word_space_8 | dash digital gas own eye hip junk skull |  
 | bip_39_word_space_9 | dash digital gas own eye hip junk skull motor |  
+| bip_39_word_underscore_1 | dash |  
+| bip_39_word_underscore_10 | dash_digital_gas_own_eye_hip_junk_skull_motor_travel |  
+| bip_39_word_underscore_11 | dash_digital_gas_own_eye_hip_junk_skull_motor_travel_bottom |  
+| bip_39_word_underscore_12 | dash_digital_gas_own_eye_hip_junk_skull_motor_travel_bottom_alert |  
+| bip_39_word_underscore_2 | dash_digital |  
+| bip_39_word_underscore_3 | dash_digital_gas |  
+| bip_39_word_underscore_4 | dash_digital_gas_own |  
+| bip_39_word_underscore_5 | dash_digital_gas_own_eye |  
+| bip_39_word_underscore_6 | dash_digital_gas_own_eye_hip |  
+| bip_39_word_underscore_7 | dash_digital_gas_own_eye_hip_junk |  
+| bip_39_word_underscore_8 | dash_digital_gas_own_eye_hip_junk_skull |  
+| bip_39_word_underscore_9 | dash_digital_gas_own_eye_hip_junk_skull_motor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

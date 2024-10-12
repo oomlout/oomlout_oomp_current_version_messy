@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nation
+bip_39_word_dash_10: nation-object-awful-ozone-modify-equip-walnut-wealth-identify-escape
+bip_39_word_dash_11: nation-object-awful-ozone-modify-equip-walnut-wealth-identify-escape-permit
+bip_39_word_dash_12: nation-object-awful-ozone-modify-equip-walnut-wealth-identify-escape-permit-act
+bip_39_word_dash_2: nation-object
+bip_39_word_dash_3: nation-object-awful
+bip_39_word_dash_4: nation-object-awful-ozone
+bip_39_word_dash_5: nation-object-awful-ozone-modify
+bip_39_word_dash_6: nation-object-awful-ozone-modify-equip
+bip_39_word_dash_7: nation-object-awful-ozone-modify-equip-walnut
+bip_39_word_dash_8: nation-object-awful-ozone-modify-equip-walnut-wealth
+bip_39_word_dash_9: nation-object-awful-ozone-modify-equip-walnut-wealth-identify
 bip_39_word_new_br_1: nation
 bip_39_word_new_br_10: nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape
 bip_39_word_new_br_11: nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape<br>permit
@@ -194,6 +206,18 @@ bip_39_word_space_6: nation object awful ozone modify equip
 bip_39_word_space_7: nation object awful ozone modify equip walnut
 bip_39_word_space_8: nation object awful ozone modify equip walnut wealth
 bip_39_word_space_9: nation object awful ozone modify equip walnut wealth identify
+bip_39_word_underscore_1: nation
+bip_39_word_underscore_10: nation_object_awful_ozone_modify_equip_walnut_wealth_identify_escape
+bip_39_word_underscore_11: nation_object_awful_ozone_modify_equip_walnut_wealth_identify_escape_permit
+bip_39_word_underscore_12: nation_object_awful_ozone_modify_equip_walnut_wealth_identify_escape_permit_act
+bip_39_word_underscore_2: nation_object
+bip_39_word_underscore_3: nation_object_awful
+bip_39_word_underscore_4: nation_object_awful_ozone
+bip_39_word_underscore_5: nation_object_awful_ozone_modify
+bip_39_word_underscore_6: nation_object_awful_ozone_modify_equip
+bip_39_word_underscore_7: nation_object_awful_ozone_modify_equip_walnut
+bip_39_word_underscore_8: nation_object_awful_ozone_modify_equip_walnut_wealth
+bip_39_word_underscore_9: nation_object_awful_ozone_modify_equip_walnut_wealth_identify
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

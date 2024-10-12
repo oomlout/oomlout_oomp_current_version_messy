@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | post |  
+| bip_39_word_dash_10 | post-shiver-drift-myth-alpha-oyster-powder-creek-seven-bean |  
+| bip_39_word_dash_11 | post-shiver-drift-myth-alpha-oyster-powder-creek-seven-bean-nuclear |  
+| bip_39_word_dash_12 | post-shiver-drift-myth-alpha-oyster-powder-creek-seven-bean-nuclear-alpha |  
+| bip_39_word_dash_2 | post-shiver |  
+| bip_39_word_dash_3 | post-shiver-drift |  
+| bip_39_word_dash_4 | post-shiver-drift-myth |  
+| bip_39_word_dash_5 | post-shiver-drift-myth-alpha |  
+| bip_39_word_dash_6 | post-shiver-drift-myth-alpha-oyster |  
+| bip_39_word_dash_7 | post-shiver-drift-myth-alpha-oyster-powder |  
+| bip_39_word_dash_8 | post-shiver-drift-myth-alpha-oyster-powder-creek |  
+| bip_39_word_dash_9 | post-shiver-drift-myth-alpha-oyster-powder-creek-seven |  
 | bip_39_word_new_br_1 | post |  
 | bip_39_word_new_br_10 | post<br>shiver<br>drift<br>myth<br>alpha<br>oyster<br>powder<br>creek<br>seven<br>bean |  
 | bip_39_word_new_br_11 | post<br>shiver<br>drift<br>myth<br>alpha<br>oyster<br>powder<br>creek<br>seven<br>bean<br>nuclear |  
@@ -147,6 +159,18 @@ seven |
 | bip_39_word_space_7 | post shiver drift myth alpha oyster powder |  
 | bip_39_word_space_8 | post shiver drift myth alpha oyster powder creek |  
 | bip_39_word_space_9 | post shiver drift myth alpha oyster powder creek seven |  
+| bip_39_word_underscore_1 | post |  
+| bip_39_word_underscore_10 | post_shiver_drift_myth_alpha_oyster_powder_creek_seven_bean |  
+| bip_39_word_underscore_11 | post_shiver_drift_myth_alpha_oyster_powder_creek_seven_bean_nuclear |  
+| bip_39_word_underscore_12 | post_shiver_drift_myth_alpha_oyster_powder_creek_seven_bean_nuclear_alpha |  
+| bip_39_word_underscore_2 | post_shiver |  
+| bip_39_word_underscore_3 | post_shiver_drift |  
+| bip_39_word_underscore_4 | post_shiver_drift_myth |  
+| bip_39_word_underscore_5 | post_shiver_drift_myth_alpha |  
+| bip_39_word_underscore_6 | post_shiver_drift_myth_alpha_oyster |  
+| bip_39_word_underscore_7 | post_shiver_drift_myth_alpha_oyster_powder |  
+| bip_39_word_underscore_8 | post_shiver_drift_myth_alpha_oyster_powder_creek |  
+| bip_39_word_underscore_9 | post_shiver_drift_myth_alpha_oyster_powder_creek_seven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

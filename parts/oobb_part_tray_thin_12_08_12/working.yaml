@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chest
+bip_39_word_dash_10: chest-outer-voyage-muffin-hair-resemble-notice-cabin-cycle-gold
+bip_39_word_dash_11: chest-outer-voyage-muffin-hair-resemble-notice-cabin-cycle-gold-electric
+bip_39_word_dash_12: chest-outer-voyage-muffin-hair-resemble-notice-cabin-cycle-gold-electric-ankle
+bip_39_word_dash_2: chest-outer
+bip_39_word_dash_3: chest-outer-voyage
+bip_39_word_dash_4: chest-outer-voyage-muffin
+bip_39_word_dash_5: chest-outer-voyage-muffin-hair
+bip_39_word_dash_6: chest-outer-voyage-muffin-hair-resemble
+bip_39_word_dash_7: chest-outer-voyage-muffin-hair-resemble-notice
+bip_39_word_dash_8: chest-outer-voyage-muffin-hair-resemble-notice-cabin
+bip_39_word_dash_9: chest-outer-voyage-muffin-hair-resemble-notice-cabin-cycle
 bip_39_word_new_br_1: chest
 bip_39_word_new_br_10: chest<br>outer<br>voyage<br>muffin<br>hair<br>resemble<br>notice<br>cabin<br>cycle<br>gold
 bip_39_word_new_br_11: chest<br>outer<br>voyage<br>muffin<br>hair<br>resemble<br>notice<br>cabin<br>cycle<br>gold<br>electric
@@ -193,6 +205,18 @@ bip_39_word_space_6: chest outer voyage muffin hair resemble
 bip_39_word_space_7: chest outer voyage muffin hair resemble notice
 bip_39_word_space_8: chest outer voyage muffin hair resemble notice cabin
 bip_39_word_space_9: chest outer voyage muffin hair resemble notice cabin cycle
+bip_39_word_underscore_1: chest
+bip_39_word_underscore_10: chest_outer_voyage_muffin_hair_resemble_notice_cabin_cycle_gold
+bip_39_word_underscore_11: chest_outer_voyage_muffin_hair_resemble_notice_cabin_cycle_gold_electric
+bip_39_word_underscore_12: chest_outer_voyage_muffin_hair_resemble_notice_cabin_cycle_gold_electric_ankle
+bip_39_word_underscore_2: chest_outer
+bip_39_word_underscore_3: chest_outer_voyage
+bip_39_word_underscore_4: chest_outer_voyage_muffin
+bip_39_word_underscore_5: chest_outer_voyage_muffin_hair
+bip_39_word_underscore_6: chest_outer_voyage_muffin_hair_resemble
+bip_39_word_underscore_7: chest_outer_voyage_muffin_hair_resemble_notice
+bip_39_word_underscore_8: chest_outer_voyage_muffin_hair_resemble_notice_cabin
+bip_39_word_underscore_9: chest_outer_voyage_muffin_hair_resemble_notice_cabin_cycle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

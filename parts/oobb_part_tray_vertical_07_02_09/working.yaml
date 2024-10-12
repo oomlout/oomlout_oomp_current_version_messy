@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pioneer
+bip_39_word_dash_10: pioneer-wrist-enrich-prosper-call-sadness-fabric-mask-float-train
+bip_39_word_dash_11: pioneer-wrist-enrich-prosper-call-sadness-fabric-mask-float-train-noise
+bip_39_word_dash_12: pioneer-wrist-enrich-prosper-call-sadness-fabric-mask-float-train-noise-abuse
+bip_39_word_dash_2: pioneer-wrist
+bip_39_word_dash_3: pioneer-wrist-enrich
+bip_39_word_dash_4: pioneer-wrist-enrich-prosper
+bip_39_word_dash_5: pioneer-wrist-enrich-prosper-call
+bip_39_word_dash_6: pioneer-wrist-enrich-prosper-call-sadness
+bip_39_word_dash_7: pioneer-wrist-enrich-prosper-call-sadness-fabric
+bip_39_word_dash_8: pioneer-wrist-enrich-prosper-call-sadness-fabric-mask
+bip_39_word_dash_9: pioneer-wrist-enrich-prosper-call-sadness-fabric-mask-float
 bip_39_word_new_br_1: pioneer
 bip_39_word_new_br_10: pioneer<br>wrist<br>enrich<br>prosper<br>call<br>sadness<br>fabric<br>mask<br>float<br>train
 bip_39_word_new_br_11: pioneer<br>wrist<br>enrich<br>prosper<br>call<br>sadness<br>fabric<br>mask<br>float<br>train<br>noise
@@ -194,6 +206,18 @@ bip_39_word_space_6: pioneer wrist enrich prosper call sadness
 bip_39_word_space_7: pioneer wrist enrich prosper call sadness fabric
 bip_39_word_space_8: pioneer wrist enrich prosper call sadness fabric mask
 bip_39_word_space_9: pioneer wrist enrich prosper call sadness fabric mask float
+bip_39_word_underscore_1: pioneer
+bip_39_word_underscore_10: pioneer_wrist_enrich_prosper_call_sadness_fabric_mask_float_train
+bip_39_word_underscore_11: pioneer_wrist_enrich_prosper_call_sadness_fabric_mask_float_train_noise
+bip_39_word_underscore_12: pioneer_wrist_enrich_prosper_call_sadness_fabric_mask_float_train_noise_abuse
+bip_39_word_underscore_2: pioneer_wrist
+bip_39_word_underscore_3: pioneer_wrist_enrich
+bip_39_word_underscore_4: pioneer_wrist_enrich_prosper
+bip_39_word_underscore_5: pioneer_wrist_enrich_prosper_call
+bip_39_word_underscore_6: pioneer_wrist_enrich_prosper_call_sadness
+bip_39_word_underscore_7: pioneer_wrist_enrich_prosper_call_sadness_fabric
+bip_39_word_underscore_8: pioneer_wrist_enrich_prosper_call_sadness_fabric_mask
+bip_39_word_underscore_9: pioneer_wrist_enrich_prosper_call_sadness_fabric_mask_float
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

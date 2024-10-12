@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | usage |  
+| bip_39_word_dash_10 | usage-afford-infant-hood-leave-again-expand-ritual-resemble-draw |  
+| bip_39_word_dash_11 | usage-afford-infant-hood-leave-again-expand-ritual-resemble-draw-month |  
+| bip_39_word_dash_12 | usage-afford-infant-hood-leave-again-expand-ritual-resemble-draw-month-artefact |  
+| bip_39_word_dash_2 | usage-afford |  
+| bip_39_word_dash_3 | usage-afford-infant |  
+| bip_39_word_dash_4 | usage-afford-infant-hood |  
+| bip_39_word_dash_5 | usage-afford-infant-hood-leave |  
+| bip_39_word_dash_6 | usage-afford-infant-hood-leave-again |  
+| bip_39_word_dash_7 | usage-afford-infant-hood-leave-again-expand |  
+| bip_39_word_dash_8 | usage-afford-infant-hood-leave-again-expand-ritual |  
+| bip_39_word_dash_9 | usage-afford-infant-hood-leave-again-expand-ritual-resemble |  
 | bip_39_word_new_br_1 | usage |  
 | bip_39_word_new_br_10 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw |  
 | bip_39_word_new_br_11 | usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw<br>month |  
@@ -147,6 +159,18 @@ resemble |
 | bip_39_word_space_7 | usage afford infant hood leave again expand |  
 | bip_39_word_space_8 | usage afford infant hood leave again expand ritual |  
 | bip_39_word_space_9 | usage afford infant hood leave again expand ritual resemble |  
+| bip_39_word_underscore_1 | usage |  
+| bip_39_word_underscore_10 | usage_afford_infant_hood_leave_again_expand_ritual_resemble_draw |  
+| bip_39_word_underscore_11 | usage_afford_infant_hood_leave_again_expand_ritual_resemble_draw_month |  
+| bip_39_word_underscore_12 | usage_afford_infant_hood_leave_again_expand_ritual_resemble_draw_month_artefact |  
+| bip_39_word_underscore_2 | usage_afford |  
+| bip_39_word_underscore_3 | usage_afford_infant |  
+| bip_39_word_underscore_4 | usage_afford_infant_hood |  
+| bip_39_word_underscore_5 | usage_afford_infant_hood_leave |  
+| bip_39_word_underscore_6 | usage_afford_infant_hood_leave_again |  
+| bip_39_word_underscore_7 | usage_afford_infant_hood_leave_again_expand |  
+| bip_39_word_underscore_8 | usage_afford_infant_hood_leave_again_expand_ritual |  
+| bip_39_word_underscore_9 | usage_afford_infant_hood_leave_again_expand_ritual_resemble |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

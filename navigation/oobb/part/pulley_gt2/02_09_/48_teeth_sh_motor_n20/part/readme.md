@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silly |  
+| bip_39_word_dash_10 | silly-analyst-document-kitchen-cloud-item-oval-rely-force-vital |  
+| bip_39_word_dash_11 | silly-analyst-document-kitchen-cloud-item-oval-rely-force-vital-plate |  
+| bip_39_word_dash_12 | silly-analyst-document-kitchen-cloud-item-oval-rely-force-vital-plate-auction |  
+| bip_39_word_dash_2 | silly-analyst |  
+| bip_39_word_dash_3 | silly-analyst-document |  
+| bip_39_word_dash_4 | silly-analyst-document-kitchen |  
+| bip_39_word_dash_5 | silly-analyst-document-kitchen-cloud |  
+| bip_39_word_dash_6 | silly-analyst-document-kitchen-cloud-item |  
+| bip_39_word_dash_7 | silly-analyst-document-kitchen-cloud-item-oval |  
+| bip_39_word_dash_8 | silly-analyst-document-kitchen-cloud-item-oval-rely |  
+| bip_39_word_dash_9 | silly-analyst-document-kitchen-cloud-item-oval-rely-force |  
 | bip_39_word_new_br_1 | silly |  
 | bip_39_word_new_br_10 | silly<br>analyst<br>document<br>kitchen<br>cloud<br>item<br>oval<br>rely<br>force<br>vital |  
 | bip_39_word_new_br_11 | silly<br>analyst<br>document<br>kitchen<br>cloud<br>item<br>oval<br>rely<br>force<br>vital<br>plate |  
@@ -147,6 +159,18 @@ force |
 | bip_39_word_space_7 | silly analyst document kitchen cloud item oval |  
 | bip_39_word_space_8 | silly analyst document kitchen cloud item oval rely |  
 | bip_39_word_space_9 | silly analyst document kitchen cloud item oval rely force |  
+| bip_39_word_underscore_1 | silly |  
+| bip_39_word_underscore_10 | silly_analyst_document_kitchen_cloud_item_oval_rely_force_vital |  
+| bip_39_word_underscore_11 | silly_analyst_document_kitchen_cloud_item_oval_rely_force_vital_plate |  
+| bip_39_word_underscore_12 | silly_analyst_document_kitchen_cloud_item_oval_rely_force_vital_plate_auction |  
+| bip_39_word_underscore_2 | silly_analyst |  
+| bip_39_word_underscore_3 | silly_analyst_document |  
+| bip_39_word_underscore_4 | silly_analyst_document_kitchen |  
+| bip_39_word_underscore_5 | silly_analyst_document_kitchen_cloud |  
+| bip_39_word_underscore_6 | silly_analyst_document_kitchen_cloud_item |  
+| bip_39_word_underscore_7 | silly_analyst_document_kitchen_cloud_item_oval |  
+| bip_39_word_underscore_8 | silly_analyst_document_kitchen_cloud_item_oval_rely |  
+| bip_39_word_underscore_9 | silly_analyst_document_kitchen_cloud_item_oval_rely_force |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

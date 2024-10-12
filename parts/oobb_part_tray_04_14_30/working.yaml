@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hood
+bip_39_word_dash_10: hood-grocery-borrow-joke-east-topple-patch-inmate-audit-eagle
+bip_39_word_dash_11: hood-grocery-borrow-joke-east-topple-patch-inmate-audit-eagle-arrange
+bip_39_word_dash_12: hood-grocery-borrow-joke-east-topple-patch-inmate-audit-eagle-arrange-assist
+bip_39_word_dash_2: hood-grocery
+bip_39_word_dash_3: hood-grocery-borrow
+bip_39_word_dash_4: hood-grocery-borrow-joke
+bip_39_word_dash_5: hood-grocery-borrow-joke-east
+bip_39_word_dash_6: hood-grocery-borrow-joke-east-topple
+bip_39_word_dash_7: hood-grocery-borrow-joke-east-topple-patch
+bip_39_word_dash_8: hood-grocery-borrow-joke-east-topple-patch-inmate
+bip_39_word_dash_9: hood-grocery-borrow-joke-east-topple-patch-inmate-audit
 bip_39_word_new_br_1: hood
 bip_39_word_new_br_10: hood<br>grocery<br>borrow<br>joke<br>east<br>topple<br>patch<br>inmate<br>audit<br>eagle
 bip_39_word_new_br_11: hood<br>grocery<br>borrow<br>joke<br>east<br>topple<br>patch<br>inmate<br>audit<br>eagle<br>arrange
@@ -193,6 +205,18 @@ bip_39_word_space_6: hood grocery borrow joke east topple
 bip_39_word_space_7: hood grocery borrow joke east topple patch
 bip_39_word_space_8: hood grocery borrow joke east topple patch inmate
 bip_39_word_space_9: hood grocery borrow joke east topple patch inmate audit
+bip_39_word_underscore_1: hood
+bip_39_word_underscore_10: hood_grocery_borrow_joke_east_topple_patch_inmate_audit_eagle
+bip_39_word_underscore_11: hood_grocery_borrow_joke_east_topple_patch_inmate_audit_eagle_arrange
+bip_39_word_underscore_12: hood_grocery_borrow_joke_east_topple_patch_inmate_audit_eagle_arrange_assist
+bip_39_word_underscore_2: hood_grocery
+bip_39_word_underscore_3: hood_grocery_borrow
+bip_39_word_underscore_4: hood_grocery_borrow_joke
+bip_39_word_underscore_5: hood_grocery_borrow_joke_east
+bip_39_word_underscore_6: hood_grocery_borrow_joke_east_topple
+bip_39_word_underscore_7: hood_grocery_borrow_joke_east_topple_patch
+bip_39_word_underscore_8: hood_grocery_borrow_joke_east_topple_patch_inmate
+bip_39_word_underscore_9: hood_grocery_borrow_joke_east_topple_patch_inmate_audit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

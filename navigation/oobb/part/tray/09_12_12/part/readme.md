@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wire |  
+| bip_39_word_dash_10 | wire-sniff-audit-abstract-jungle-situate-cupboard-strategy-reduce-quick |  
+| bip_39_word_dash_11 | wire-sniff-audit-abstract-jungle-situate-cupboard-strategy-reduce-quick-bullet |  
+| bip_39_word_dash_12 | wire-sniff-audit-abstract-jungle-situate-cupboard-strategy-reduce-quick-bullet-amount |  
+| bip_39_word_dash_2 | wire-sniff |  
+| bip_39_word_dash_3 | wire-sniff-audit |  
+| bip_39_word_dash_4 | wire-sniff-audit-abstract |  
+| bip_39_word_dash_5 | wire-sniff-audit-abstract-jungle |  
+| bip_39_word_dash_6 | wire-sniff-audit-abstract-jungle-situate |  
+| bip_39_word_dash_7 | wire-sniff-audit-abstract-jungle-situate-cupboard |  
+| bip_39_word_dash_8 | wire-sniff-audit-abstract-jungle-situate-cupboard-strategy |  
+| bip_39_word_dash_9 | wire-sniff-audit-abstract-jungle-situate-cupboard-strategy-reduce |  
 | bip_39_word_new_br_1 | wire |  
 | bip_39_word_new_br_10 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick |  
 | bip_39_word_new_br_11 | wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick<br>bullet |  
@@ -147,6 +159,18 @@ reduce |
 | bip_39_word_space_7 | wire sniff audit abstract jungle situate cupboard |  
 | bip_39_word_space_8 | wire sniff audit abstract jungle situate cupboard strategy |  
 | bip_39_word_space_9 | wire sniff audit abstract jungle situate cupboard strategy reduce |  
+| bip_39_word_underscore_1 | wire |  
+| bip_39_word_underscore_10 | wire_sniff_audit_abstract_jungle_situate_cupboard_strategy_reduce_quick |  
+| bip_39_word_underscore_11 | wire_sniff_audit_abstract_jungle_situate_cupboard_strategy_reduce_quick_bullet |  
+| bip_39_word_underscore_12 | wire_sniff_audit_abstract_jungle_situate_cupboard_strategy_reduce_quick_bullet_amount |  
+| bip_39_word_underscore_2 | wire_sniff |  
+| bip_39_word_underscore_3 | wire_sniff_audit |  
+| bip_39_word_underscore_4 | wire_sniff_audit_abstract |  
+| bip_39_word_underscore_5 | wire_sniff_audit_abstract_jungle |  
+| bip_39_word_underscore_6 | wire_sniff_audit_abstract_jungle_situate |  
+| bip_39_word_underscore_7 | wire_sniff_audit_abstract_jungle_situate_cupboard |  
+| bip_39_word_underscore_8 | wire_sniff_audit_abstract_jungle_situate_cupboard_strategy |  
+| bip_39_word_underscore_9 | wire_sniff_audit_abstract_jungle_situate_cupboard_strategy_reduce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

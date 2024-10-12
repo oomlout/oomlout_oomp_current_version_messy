@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sword
+bip_39_word_dash_10: sword-happy-such-below-poet-parrot-ozone-plug-music-cool
+bip_39_word_dash_11: sword-happy-such-below-poet-parrot-ozone-plug-music-cool-primary
+bip_39_word_dash_12: sword-happy-such-below-poet-parrot-ozone-plug-music-cool-primary-amazing
+bip_39_word_dash_2: sword-happy
+bip_39_word_dash_3: sword-happy-such
+bip_39_word_dash_4: sword-happy-such-below
+bip_39_word_dash_5: sword-happy-such-below-poet
+bip_39_word_dash_6: sword-happy-such-below-poet-parrot
+bip_39_word_dash_7: sword-happy-such-below-poet-parrot-ozone
+bip_39_word_dash_8: sword-happy-such-below-poet-parrot-ozone-plug
+bip_39_word_dash_9: sword-happy-such-below-poet-parrot-ozone-plug-music
 bip_39_word_new_br_1: sword
 bip_39_word_new_br_10: sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug<br>music<br>cool
 bip_39_word_new_br_11: sword<br>happy<br>such<br>below<br>poet<br>parrot<br>ozone<br>plug<br>music<br>cool<br>primary
@@ -192,6 +204,18 @@ bip_39_word_space_6: sword happy such below poet parrot
 bip_39_word_space_7: sword happy such below poet parrot ozone
 bip_39_word_space_8: sword happy such below poet parrot ozone plug
 bip_39_word_space_9: sword happy such below poet parrot ozone plug music
+bip_39_word_underscore_1: sword
+bip_39_word_underscore_10: sword_happy_such_below_poet_parrot_ozone_plug_music_cool
+bip_39_word_underscore_11: sword_happy_such_below_poet_parrot_ozone_plug_music_cool_primary
+bip_39_word_underscore_12: sword_happy_such_below_poet_parrot_ozone_plug_music_cool_primary_amazing
+bip_39_word_underscore_2: sword_happy
+bip_39_word_underscore_3: sword_happy_such
+bip_39_word_underscore_4: sword_happy_such_below
+bip_39_word_underscore_5: sword_happy_such_below_poet
+bip_39_word_underscore_6: sword_happy_such_below_poet_parrot
+bip_39_word_underscore_7: sword_happy_such_below_poet_parrot_ozone
+bip_39_word_underscore_8: sword_happy_such_below_poet_parrot_ozone_plug
+bip_39_word_underscore_9: sword_happy_such_below_poet_parrot_ozone_plug_music
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

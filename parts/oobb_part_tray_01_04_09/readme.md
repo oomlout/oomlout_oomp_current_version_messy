@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | secret |  
+| bip_39_word_dash_10 | secret-analyst-ridge-unable-muffin-high-worry-knee-you-escape |  
+| bip_39_word_dash_11 | secret-analyst-ridge-unable-muffin-high-worry-knee-you-escape-list |  
+| bip_39_word_dash_12 | secret-analyst-ridge-unable-muffin-high-worry-knee-you-escape-list-across |  
+| bip_39_word_dash_2 | secret-analyst |  
+| bip_39_word_dash_3 | secret-analyst-ridge |  
+| bip_39_word_dash_4 | secret-analyst-ridge-unable |  
+| bip_39_word_dash_5 | secret-analyst-ridge-unable-muffin |  
+| bip_39_word_dash_6 | secret-analyst-ridge-unable-muffin-high |  
+| bip_39_word_dash_7 | secret-analyst-ridge-unable-muffin-high-worry |  
+| bip_39_word_dash_8 | secret-analyst-ridge-unable-muffin-high-worry-knee |  
+| bip_39_word_dash_9 | secret-analyst-ridge-unable-muffin-high-worry-knee-you |  
 | bip_39_word_new_br_1 | secret |  
 | bip_39_word_new_br_10 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee<br>you<br>escape |  
 | bip_39_word_new_br_11 | secret<br>analyst<br>ridge<br>unable<br>muffin<br>high<br>worry<br>knee<br>you<br>escape<br>list |  
@@ -147,6 +159,18 @@ you |
 | bip_39_word_space_7 | secret analyst ridge unable muffin high worry |  
 | bip_39_word_space_8 | secret analyst ridge unable muffin high worry knee |  
 | bip_39_word_space_9 | secret analyst ridge unable muffin high worry knee you |  
+| bip_39_word_underscore_1 | secret |  
+| bip_39_word_underscore_10 | secret_analyst_ridge_unable_muffin_high_worry_knee_you_escape |  
+| bip_39_word_underscore_11 | secret_analyst_ridge_unable_muffin_high_worry_knee_you_escape_list |  
+| bip_39_word_underscore_12 | secret_analyst_ridge_unable_muffin_high_worry_knee_you_escape_list_across |  
+| bip_39_word_underscore_2 | secret_analyst |  
+| bip_39_word_underscore_3 | secret_analyst_ridge |  
+| bip_39_word_underscore_4 | secret_analyst_ridge_unable |  
+| bip_39_word_underscore_5 | secret_analyst_ridge_unable_muffin |  
+| bip_39_word_underscore_6 | secret_analyst_ridge_unable_muffin_high |  
+| bip_39_word_underscore_7 | secret_analyst_ridge_unable_muffin_high_worry |  
+| bip_39_word_underscore_8 | secret_analyst_ridge_unable_muffin_high_worry_knee |  
+| bip_39_word_underscore_9 | secret_analyst_ridge_unable_muffin_high_worry_knee_you |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

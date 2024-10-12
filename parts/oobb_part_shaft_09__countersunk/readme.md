@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | state |  
+| bip_39_word_dash_10 | state-lazy-syrup-good-intact-arrow-village-eager-illegal-bamboo |  
+| bip_39_word_dash_11 | state-lazy-syrup-good-intact-arrow-village-eager-illegal-bamboo-retire |  
+| bip_39_word_dash_12 | state-lazy-syrup-good-intact-arrow-village-eager-illegal-bamboo-retire-apart |  
+| bip_39_word_dash_2 | state-lazy |  
+| bip_39_word_dash_3 | state-lazy-syrup |  
+| bip_39_word_dash_4 | state-lazy-syrup-good |  
+| bip_39_word_dash_5 | state-lazy-syrup-good-intact |  
+| bip_39_word_dash_6 | state-lazy-syrup-good-intact-arrow |  
+| bip_39_word_dash_7 | state-lazy-syrup-good-intact-arrow-village |  
+| bip_39_word_dash_8 | state-lazy-syrup-good-intact-arrow-village-eager |  
+| bip_39_word_dash_9 | state-lazy-syrup-good-intact-arrow-village-eager-illegal |  
 | bip_39_word_new_br_1 | state |  
 | bip_39_word_new_br_10 | state<br>lazy<br>syrup<br>good<br>intact<br>arrow<br>village<br>eager<br>illegal<br>bamboo |  
 | bip_39_word_new_br_11 | state<br>lazy<br>syrup<br>good<br>intact<br>arrow<br>village<br>eager<br>illegal<br>bamboo<br>retire |  
@@ -147,6 +159,18 @@ illegal |
 | bip_39_word_space_7 | state lazy syrup good intact arrow village |  
 | bip_39_word_space_8 | state lazy syrup good intact arrow village eager |  
 | bip_39_word_space_9 | state lazy syrup good intact arrow village eager illegal |  
+| bip_39_word_underscore_1 | state |  
+| bip_39_word_underscore_10 | state_lazy_syrup_good_intact_arrow_village_eager_illegal_bamboo |  
+| bip_39_word_underscore_11 | state_lazy_syrup_good_intact_arrow_village_eager_illegal_bamboo_retire |  
+| bip_39_word_underscore_12 | state_lazy_syrup_good_intact_arrow_village_eager_illegal_bamboo_retire_apart |  
+| bip_39_word_underscore_2 | state_lazy |  
+| bip_39_word_underscore_3 | state_lazy_syrup |  
+| bip_39_word_underscore_4 | state_lazy_syrup_good |  
+| bip_39_word_underscore_5 | state_lazy_syrup_good_intact |  
+| bip_39_word_underscore_6 | state_lazy_syrup_good_intact_arrow |  
+| bip_39_word_underscore_7 | state_lazy_syrup_good_intact_arrow_village |  
+| bip_39_word_underscore_8 | state_lazy_syrup_good_intact_arrow_village_eager |  
+| bip_39_word_underscore_9 | state_lazy_syrup_good_intact_arrow_village_eager_illegal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

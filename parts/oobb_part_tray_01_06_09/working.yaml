@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jewel
+bip_39_word_dash_10: jewel-foil-report-glimpse-color-monitor-mother-false-clump-name
+bip_39_word_dash_11: jewel-foil-report-glimpse-color-monitor-mother-false-clump-name-flash
+bip_39_word_dash_12: jewel-foil-report-glimpse-color-monitor-mother-false-clump-name-flash-amused
+bip_39_word_dash_2: jewel-foil
+bip_39_word_dash_3: jewel-foil-report
+bip_39_word_dash_4: jewel-foil-report-glimpse
+bip_39_word_dash_5: jewel-foil-report-glimpse-color
+bip_39_word_dash_6: jewel-foil-report-glimpse-color-monitor
+bip_39_word_dash_7: jewel-foil-report-glimpse-color-monitor-mother
+bip_39_word_dash_8: jewel-foil-report-glimpse-color-monitor-mother-false
+bip_39_word_dash_9: jewel-foil-report-glimpse-color-monitor-mother-false-clump
 bip_39_word_new_br_1: jewel
 bip_39_word_new_br_10: jewel<br>foil<br>report<br>glimpse<br>color<br>monitor<br>mother<br>false<br>clump<br>name
 bip_39_word_new_br_11: jewel<br>foil<br>report<br>glimpse<br>color<br>monitor<br>mother<br>false<br>clump<br>name<br>flash
@@ -193,6 +205,18 @@ bip_39_word_space_6: jewel foil report glimpse color monitor
 bip_39_word_space_7: jewel foil report glimpse color monitor mother
 bip_39_word_space_8: jewel foil report glimpse color monitor mother false
 bip_39_word_space_9: jewel foil report glimpse color monitor mother false clump
+bip_39_word_underscore_1: jewel
+bip_39_word_underscore_10: jewel_foil_report_glimpse_color_monitor_mother_false_clump_name
+bip_39_word_underscore_11: jewel_foil_report_glimpse_color_monitor_mother_false_clump_name_flash
+bip_39_word_underscore_12: jewel_foil_report_glimpse_color_monitor_mother_false_clump_name_flash_amused
+bip_39_word_underscore_2: jewel_foil
+bip_39_word_underscore_3: jewel_foil_report
+bip_39_word_underscore_4: jewel_foil_report_glimpse
+bip_39_word_underscore_5: jewel_foil_report_glimpse_color
+bip_39_word_underscore_6: jewel_foil_report_glimpse_color_monitor
+bip_39_word_underscore_7: jewel_foil_report_glimpse_color_monitor_mother
+bip_39_word_underscore_8: jewel_foil_report_glimpse_color_monitor_mother_false
+bip_39_word_underscore_9: jewel_foil_report_glimpse_color_monitor_mother_false_clump
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

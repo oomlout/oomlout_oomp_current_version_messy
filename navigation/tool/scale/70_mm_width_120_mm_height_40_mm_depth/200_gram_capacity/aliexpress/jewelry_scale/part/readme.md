@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | viable |  
+| bip_39_word_dash_10 | viable-bunker-size-derive-toilet-permit-average-sure-broken-crush |  
+| bip_39_word_dash_11 | viable-bunker-size-derive-toilet-permit-average-sure-broken-crush-diary |  
+| bip_39_word_dash_12 | viable-bunker-size-derive-toilet-permit-average-sure-broken-crush-diary-angle |  
+| bip_39_word_dash_2 | viable-bunker |  
+| bip_39_word_dash_3 | viable-bunker-size |  
+| bip_39_word_dash_4 | viable-bunker-size-derive |  
+| bip_39_word_dash_5 | viable-bunker-size-derive-toilet |  
+| bip_39_word_dash_6 | viable-bunker-size-derive-toilet-permit |  
+| bip_39_word_dash_7 | viable-bunker-size-derive-toilet-permit-average |  
+| bip_39_word_dash_8 | viable-bunker-size-derive-toilet-permit-average-sure |  
+| bip_39_word_dash_9 | viable-bunker-size-derive-toilet-permit-average-sure-broken |  
 | bip_39_word_new_br_1 | viable |  
 | bip_39_word_new_br_10 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure<br>broken<br>crush |  
 | bip_39_word_new_br_11 | viable<br>bunker<br>size<br>derive<br>toilet<br>permit<br>average<br>sure<br>broken<br>crush<br>diary |  
@@ -147,6 +159,18 @@ broken |
 | bip_39_word_space_7 | viable bunker size derive toilet permit average |  
 | bip_39_word_space_8 | viable bunker size derive toilet permit average sure |  
 | bip_39_word_space_9 | viable bunker size derive toilet permit average sure broken |  
+| bip_39_word_underscore_1 | viable |  
+| bip_39_word_underscore_10 | viable_bunker_size_derive_toilet_permit_average_sure_broken_crush |  
+| bip_39_word_underscore_11 | viable_bunker_size_derive_toilet_permit_average_sure_broken_crush_diary |  
+| bip_39_word_underscore_12 | viable_bunker_size_derive_toilet_permit_average_sure_broken_crush_diary_angle |  
+| bip_39_word_underscore_2 | viable_bunker |  
+| bip_39_word_underscore_3 | viable_bunker_size |  
+| bip_39_word_underscore_4 | viable_bunker_size_derive |  
+| bip_39_word_underscore_5 | viable_bunker_size_derive_toilet |  
+| bip_39_word_underscore_6 | viable_bunker_size_derive_toilet_permit |  
+| bip_39_word_underscore_7 | viable_bunker_size_derive_toilet_permit_average |  
+| bip_39_word_underscore_8 | viable_bunker_size_derive_toilet_permit_average_sure |  
+| bip_39_word_underscore_9 | viable_bunker_size_derive_toilet_permit_average_sure_broken |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

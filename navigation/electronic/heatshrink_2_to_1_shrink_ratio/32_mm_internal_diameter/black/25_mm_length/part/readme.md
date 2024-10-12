@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | approve |  
+| bip_39_word_dash_10 | approve-congress-clerk-salute-fix-latin-submit-ginger-tilt-know |  
+| bip_39_word_dash_11 | approve-congress-clerk-salute-fix-latin-submit-ginger-tilt-know-miss |  
+| bip_39_word_dash_12 | approve-congress-clerk-salute-fix-latin-submit-ginger-tilt-know-miss-adjust |  
+| bip_39_word_dash_2 | approve-congress |  
+| bip_39_word_dash_3 | approve-congress-clerk |  
+| bip_39_word_dash_4 | approve-congress-clerk-salute |  
+| bip_39_word_dash_5 | approve-congress-clerk-salute-fix |  
+| bip_39_word_dash_6 | approve-congress-clerk-salute-fix-latin |  
+| bip_39_word_dash_7 | approve-congress-clerk-salute-fix-latin-submit |  
+| bip_39_word_dash_8 | approve-congress-clerk-salute-fix-latin-submit-ginger |  
+| bip_39_word_dash_9 | approve-congress-clerk-salute-fix-latin-submit-ginger-tilt |  
 | bip_39_word_new_br_1 | approve |  
 | bip_39_word_new_br_10 | approve<br>congress<br>clerk<br>salute<br>fix<br>latin<br>submit<br>ginger<br>tilt<br>know |  
 | bip_39_word_new_br_11 | approve<br>congress<br>clerk<br>salute<br>fix<br>latin<br>submit<br>ginger<br>tilt<br>know<br>miss |  
@@ -147,6 +159,18 @@ tilt |
 | bip_39_word_space_7 | approve congress clerk salute fix latin submit |  
 | bip_39_word_space_8 | approve congress clerk salute fix latin submit ginger |  
 | bip_39_word_space_9 | approve congress clerk salute fix latin submit ginger tilt |  
+| bip_39_word_underscore_1 | approve |  
+| bip_39_word_underscore_10 | approve_congress_clerk_salute_fix_latin_submit_ginger_tilt_know |  
+| bip_39_word_underscore_11 | approve_congress_clerk_salute_fix_latin_submit_ginger_tilt_know_miss |  
+| bip_39_word_underscore_12 | approve_congress_clerk_salute_fix_latin_submit_ginger_tilt_know_miss_adjust |  
+| bip_39_word_underscore_2 | approve_congress |  
+| bip_39_word_underscore_3 | approve_congress_clerk |  
+| bip_39_word_underscore_4 | approve_congress_clerk_salute |  
+| bip_39_word_underscore_5 | approve_congress_clerk_salute_fix |  
+| bip_39_word_underscore_6 | approve_congress_clerk_salute_fix_latin |  
+| bip_39_word_underscore_7 | approve_congress_clerk_salute_fix_latin_submit |  
+| bip_39_word_underscore_8 | approve_congress_clerk_salute_fix_latin_submit_ginger |  
+| bip_39_word_underscore_9 | approve_congress_clerk_salute_fix_latin_submit_ginger_tilt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

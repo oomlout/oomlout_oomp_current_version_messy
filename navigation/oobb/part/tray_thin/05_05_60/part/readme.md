@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | repair |  
+| bip_39_word_dash_10 | repair-grocery-mushroom-myself-donkey-split-immense-baby-clean-spend |  
+| bip_39_word_dash_11 | repair-grocery-mushroom-myself-donkey-split-immense-baby-clean-spend-unusual |  
+| bip_39_word_dash_12 | repair-grocery-mushroom-myself-donkey-split-immense-baby-clean-spend-unusual-age |  
+| bip_39_word_dash_2 | repair-grocery |  
+| bip_39_word_dash_3 | repair-grocery-mushroom |  
+| bip_39_word_dash_4 | repair-grocery-mushroom-myself |  
+| bip_39_word_dash_5 | repair-grocery-mushroom-myself-donkey |  
+| bip_39_word_dash_6 | repair-grocery-mushroom-myself-donkey-split |  
+| bip_39_word_dash_7 | repair-grocery-mushroom-myself-donkey-split-immense |  
+| bip_39_word_dash_8 | repair-grocery-mushroom-myself-donkey-split-immense-baby |  
+| bip_39_word_dash_9 | repair-grocery-mushroom-myself-donkey-split-immense-baby-clean |  
 | bip_39_word_new_br_1 | repair |  
 | bip_39_word_new_br_10 | repair<br>grocery<br>mushroom<br>myself<br>donkey<br>split<br>immense<br>baby<br>clean<br>spend |  
 | bip_39_word_new_br_11 | repair<br>grocery<br>mushroom<br>myself<br>donkey<br>split<br>immense<br>baby<br>clean<br>spend<br>unusual |  
@@ -147,6 +159,18 @@ clean |
 | bip_39_word_space_7 | repair grocery mushroom myself donkey split immense |  
 | bip_39_word_space_8 | repair grocery mushroom myself donkey split immense baby |  
 | bip_39_word_space_9 | repair grocery mushroom myself donkey split immense baby clean |  
+| bip_39_word_underscore_1 | repair |  
+| bip_39_word_underscore_10 | repair_grocery_mushroom_myself_donkey_split_immense_baby_clean_spend |  
+| bip_39_word_underscore_11 | repair_grocery_mushroom_myself_donkey_split_immense_baby_clean_spend_unusual |  
+| bip_39_word_underscore_12 | repair_grocery_mushroom_myself_donkey_split_immense_baby_clean_spend_unusual_age |  
+| bip_39_word_underscore_2 | repair_grocery |  
+| bip_39_word_underscore_3 | repair_grocery_mushroom |  
+| bip_39_word_underscore_4 | repair_grocery_mushroom_myself |  
+| bip_39_word_underscore_5 | repair_grocery_mushroom_myself_donkey |  
+| bip_39_word_underscore_6 | repair_grocery_mushroom_myself_donkey_split |  
+| bip_39_word_underscore_7 | repair_grocery_mushroom_myself_donkey_split_immense |  
+| bip_39_word_underscore_8 | repair_grocery_mushroom_myself_donkey_split_immense_baby |  
+| bip_39_word_underscore_9 | repair_grocery_mushroom_myself_donkey_split_immense_baby_clean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

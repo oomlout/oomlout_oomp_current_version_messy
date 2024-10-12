@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flush |  
+| bip_39_word_dash_10 | flush-tide-announce-receive-reduce-guilt-review-nerve-patient-prevent |  
+| bip_39_word_dash_11 | flush-tide-announce-receive-reduce-guilt-review-nerve-patient-prevent-omit |  
+| bip_39_word_dash_12 | flush-tide-announce-receive-reduce-guilt-review-nerve-patient-prevent-omit-alley |  
+| bip_39_word_dash_2 | flush-tide |  
+| bip_39_word_dash_3 | flush-tide-announce |  
+| bip_39_word_dash_4 | flush-tide-announce-receive |  
+| bip_39_word_dash_5 | flush-tide-announce-receive-reduce |  
+| bip_39_word_dash_6 | flush-tide-announce-receive-reduce-guilt |  
+| bip_39_word_dash_7 | flush-tide-announce-receive-reduce-guilt-review |  
+| bip_39_word_dash_8 | flush-tide-announce-receive-reduce-guilt-review-nerve |  
+| bip_39_word_dash_9 | flush-tide-announce-receive-reduce-guilt-review-nerve-patient |  
 | bip_39_word_new_br_1 | flush |  
 | bip_39_word_new_br_10 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve<br>patient<br>prevent |  
 | bip_39_word_new_br_11 | flush<br>tide<br>announce<br>receive<br>reduce<br>guilt<br>review<br>nerve<br>patient<br>prevent<br>omit |  
@@ -147,6 +159,18 @@ patient |
 | bip_39_word_space_7 | flush tide announce receive reduce guilt review |  
 | bip_39_word_space_8 | flush tide announce receive reduce guilt review nerve |  
 | bip_39_word_space_9 | flush tide announce receive reduce guilt review nerve patient |  
+| bip_39_word_underscore_1 | flush |  
+| bip_39_word_underscore_10 | flush_tide_announce_receive_reduce_guilt_review_nerve_patient_prevent |  
+| bip_39_word_underscore_11 | flush_tide_announce_receive_reduce_guilt_review_nerve_patient_prevent_omit |  
+| bip_39_word_underscore_12 | flush_tide_announce_receive_reduce_guilt_review_nerve_patient_prevent_omit_alley |  
+| bip_39_word_underscore_2 | flush_tide |  
+| bip_39_word_underscore_3 | flush_tide_announce |  
+| bip_39_word_underscore_4 | flush_tide_announce_receive |  
+| bip_39_word_underscore_5 | flush_tide_announce_receive_reduce |  
+| bip_39_word_underscore_6 | flush_tide_announce_receive_reduce_guilt |  
+| bip_39_word_underscore_7 | flush_tide_announce_receive_reduce_guilt_review |  
+| bip_39_word_underscore_8 | flush_tide_announce_receive_reduce_guilt_review_nerve |  
+| bip_39_word_underscore_9 | flush_tide_announce_receive_reduce_guilt_review_nerve_patient |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

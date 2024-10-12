@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | renew |  
+| bip_39_word_dash_10 | renew-party-anger-either-rebel-march-bleak-brief-walk-slice |  
+| bip_39_word_dash_11 | renew-party-anger-either-rebel-march-bleak-brief-walk-slice-detail |  
+| bip_39_word_dash_12 | renew-party-anger-either-rebel-march-bleak-brief-walk-slice-detail-another |  
+| bip_39_word_dash_2 | renew-party |  
+| bip_39_word_dash_3 | renew-party-anger |  
+| bip_39_word_dash_4 | renew-party-anger-either |  
+| bip_39_word_dash_5 | renew-party-anger-either-rebel |  
+| bip_39_word_dash_6 | renew-party-anger-either-rebel-march |  
+| bip_39_word_dash_7 | renew-party-anger-either-rebel-march-bleak |  
+| bip_39_word_dash_8 | renew-party-anger-either-rebel-march-bleak-brief |  
+| bip_39_word_dash_9 | renew-party-anger-either-rebel-march-bleak-brief-walk |  
 | bip_39_word_new_br_1 | renew |  
 | bip_39_word_new_br_10 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice |  
 | bip_39_word_new_br_11 | renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice<br>detail |  
@@ -147,6 +159,18 @@ walk |
 | bip_39_word_space_7 | renew party anger either rebel march bleak |  
 | bip_39_word_space_8 | renew party anger either rebel march bleak brief |  
 | bip_39_word_space_9 | renew party anger either rebel march bleak brief walk |  
+| bip_39_word_underscore_1 | renew |  
+| bip_39_word_underscore_10 | renew_party_anger_either_rebel_march_bleak_brief_walk_slice |  
+| bip_39_word_underscore_11 | renew_party_anger_either_rebel_march_bleak_brief_walk_slice_detail |  
+| bip_39_word_underscore_12 | renew_party_anger_either_rebel_march_bleak_brief_walk_slice_detail_another |  
+| bip_39_word_underscore_2 | renew_party |  
+| bip_39_word_underscore_3 | renew_party_anger |  
+| bip_39_word_underscore_4 | renew_party_anger_either |  
+| bip_39_word_underscore_5 | renew_party_anger_either_rebel |  
+| bip_39_word_underscore_6 | renew_party_anger_either_rebel_march |  
+| bip_39_word_underscore_7 | renew_party_anger_either_rebel_march_bleak |  
+| bip_39_word_underscore_8 | renew_party_anger_either_rebel_march_bleak_brief |  
+| bip_39_word_underscore_9 | renew_party_anger_either_rebel_march_bleak_brief_walk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

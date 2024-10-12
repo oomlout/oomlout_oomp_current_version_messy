@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cave
+bip_39_word_dash_10: cave-scissors-disagree-token-vendor-right-news-surround-much-avocado
+bip_39_word_dash_11: cave-scissors-disagree-token-vendor-right-news-surround-much-avocado-man
+bip_39_word_dash_12: cave-scissors-disagree-token-vendor-right-news-surround-much-avocado-man-actress
+bip_39_word_dash_2: cave-scissors
+bip_39_word_dash_3: cave-scissors-disagree
+bip_39_word_dash_4: cave-scissors-disagree-token
+bip_39_word_dash_5: cave-scissors-disagree-token-vendor
+bip_39_word_dash_6: cave-scissors-disagree-token-vendor-right
+bip_39_word_dash_7: cave-scissors-disagree-token-vendor-right-news
+bip_39_word_dash_8: cave-scissors-disagree-token-vendor-right-news-surround
+bip_39_word_dash_9: cave-scissors-disagree-token-vendor-right-news-surround-much
 bip_39_word_new_br_1: cave
 bip_39_word_new_br_10: cave<br>scissors<br>disagree<br>token<br>vendor<br>right<br>news<br>surround<br>much<br>avocado
 bip_39_word_new_br_11: cave<br>scissors<br>disagree<br>token<br>vendor<br>right<br>news<br>surround<br>much<br>avocado<br>man
@@ -194,6 +206,18 @@ bip_39_word_space_6: cave scissors disagree token vendor right
 bip_39_word_space_7: cave scissors disagree token vendor right news
 bip_39_word_space_8: cave scissors disagree token vendor right news surround
 bip_39_word_space_9: cave scissors disagree token vendor right news surround much
+bip_39_word_underscore_1: cave
+bip_39_word_underscore_10: cave_scissors_disagree_token_vendor_right_news_surround_much_avocado
+bip_39_word_underscore_11: cave_scissors_disagree_token_vendor_right_news_surround_much_avocado_man
+bip_39_word_underscore_12: cave_scissors_disagree_token_vendor_right_news_surround_much_avocado_man_actress
+bip_39_word_underscore_2: cave_scissors
+bip_39_word_underscore_3: cave_scissors_disagree
+bip_39_word_underscore_4: cave_scissors_disagree_token
+bip_39_word_underscore_5: cave_scissors_disagree_token_vendor
+bip_39_word_underscore_6: cave_scissors_disagree_token_vendor_right
+bip_39_word_underscore_7: cave_scissors_disagree_token_vendor_right_news
+bip_39_word_underscore_8: cave_scissors_disagree_token_vendor_right_news_surround
+bip_39_word_underscore_9: cave_scissors_disagree_token_vendor_right_news_surround_much
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

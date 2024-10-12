@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pen
+bip_39_word_dash_10: pen-mobile-media-visa-ridge-maid-always-amount-clown-hobby
+bip_39_word_dash_11: pen-mobile-media-visa-ridge-maid-always-amount-clown-hobby-again
+bip_39_word_dash_12: pen-mobile-media-visa-ridge-maid-always-amount-clown-hobby-again-argue
+bip_39_word_dash_2: pen-mobile
+bip_39_word_dash_3: pen-mobile-media
+bip_39_word_dash_4: pen-mobile-media-visa
+bip_39_word_dash_5: pen-mobile-media-visa-ridge
+bip_39_word_dash_6: pen-mobile-media-visa-ridge-maid
+bip_39_word_dash_7: pen-mobile-media-visa-ridge-maid-always
+bip_39_word_dash_8: pen-mobile-media-visa-ridge-maid-always-amount
+bip_39_word_dash_9: pen-mobile-media-visa-ridge-maid-always-amount-clown
 bip_39_word_new_br_1: pen
 bip_39_word_new_br_10: pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby
 bip_39_word_new_br_11: pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby<br>again
@@ -192,6 +204,18 @@ bip_39_word_space_6: pen mobile media visa ridge maid
 bip_39_word_space_7: pen mobile media visa ridge maid always
 bip_39_word_space_8: pen mobile media visa ridge maid always amount
 bip_39_word_space_9: pen mobile media visa ridge maid always amount clown
+bip_39_word_underscore_1: pen
+bip_39_word_underscore_10: pen_mobile_media_visa_ridge_maid_always_amount_clown_hobby
+bip_39_word_underscore_11: pen_mobile_media_visa_ridge_maid_always_amount_clown_hobby_again
+bip_39_word_underscore_12: pen_mobile_media_visa_ridge_maid_always_amount_clown_hobby_again_argue
+bip_39_word_underscore_2: pen_mobile
+bip_39_word_underscore_3: pen_mobile_media
+bip_39_word_underscore_4: pen_mobile_media_visa
+bip_39_word_underscore_5: pen_mobile_media_visa_ridge
+bip_39_word_underscore_6: pen_mobile_media_visa_ridge_maid
+bip_39_word_underscore_7: pen_mobile_media_visa_ridge_maid_always
+bip_39_word_underscore_8: pen_mobile_media_visa_ridge_maid_always_amount
+bip_39_word_underscore_9: pen_mobile_media_visa_ridge_maid_always_amount_clown
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

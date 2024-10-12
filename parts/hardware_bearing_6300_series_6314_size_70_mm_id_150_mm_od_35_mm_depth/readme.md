@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | print |  
+| bip_39_word_dash_10 | print-actual-enter-mean-october-shadow-own-broken-flower-cinnamon |  
+| bip_39_word_dash_11 | print-actual-enter-mean-october-shadow-own-broken-flower-cinnamon-choose |  
+| bip_39_word_dash_12 | print-actual-enter-mean-october-shadow-own-broken-flower-cinnamon-choose-actor |  
+| bip_39_word_dash_2 | print-actual |  
+| bip_39_word_dash_3 | print-actual-enter |  
+| bip_39_word_dash_4 | print-actual-enter-mean |  
+| bip_39_word_dash_5 | print-actual-enter-mean-october |  
+| bip_39_word_dash_6 | print-actual-enter-mean-october-shadow |  
+| bip_39_word_dash_7 | print-actual-enter-mean-october-shadow-own |  
+| bip_39_word_dash_8 | print-actual-enter-mean-october-shadow-own-broken |  
+| bip_39_word_dash_9 | print-actual-enter-mean-october-shadow-own-broken-flower |  
 | bip_39_word_new_br_1 | print |  
 | bip_39_word_new_br_10 | print<br>actual<br>enter<br>mean<br>october<br>shadow<br>own<br>broken<br>flower<br>cinnamon |  
 | bip_39_word_new_br_11 | print<br>actual<br>enter<br>mean<br>october<br>shadow<br>own<br>broken<br>flower<br>cinnamon<br>choose |  
@@ -147,6 +159,18 @@ flower |
 | bip_39_word_space_7 | print actual enter mean october shadow own |  
 | bip_39_word_space_8 | print actual enter mean october shadow own broken |  
 | bip_39_word_space_9 | print actual enter mean october shadow own broken flower |  
+| bip_39_word_underscore_1 | print |  
+| bip_39_word_underscore_10 | print_actual_enter_mean_october_shadow_own_broken_flower_cinnamon |  
+| bip_39_word_underscore_11 | print_actual_enter_mean_october_shadow_own_broken_flower_cinnamon_choose |  
+| bip_39_word_underscore_12 | print_actual_enter_mean_october_shadow_own_broken_flower_cinnamon_choose_actor |  
+| bip_39_word_underscore_2 | print_actual |  
+| bip_39_word_underscore_3 | print_actual_enter |  
+| bip_39_word_underscore_4 | print_actual_enter_mean |  
+| bip_39_word_underscore_5 | print_actual_enter_mean_october |  
+| bip_39_word_underscore_6 | print_actual_enter_mean_october_shadow |  
+| bip_39_word_underscore_7 | print_actual_enter_mean_october_shadow_own |  
+| bip_39_word_underscore_8 | print_actual_enter_mean_october_shadow_own_broken |  
+| bip_39_word_underscore_9 | print_actual_enter_mean_october_shadow_own_broken_flower |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

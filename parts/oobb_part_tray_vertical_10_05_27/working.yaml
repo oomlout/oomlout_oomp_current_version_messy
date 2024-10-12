@@ -1,3 +1,15 @@
+bip_39_word_dash_1: diet
+bip_39_word_dash_10: diet-life-inner-noodle-rude-coyote-oil-horn-calm-riot
+bip_39_word_dash_11: diet-life-inner-noodle-rude-coyote-oil-horn-calm-riot-vehicle
+bip_39_word_dash_12: diet-life-inner-noodle-rude-coyote-oil-horn-calm-riot-vehicle-alter
+bip_39_word_dash_2: diet-life
+bip_39_word_dash_3: diet-life-inner
+bip_39_word_dash_4: diet-life-inner-noodle
+bip_39_word_dash_5: diet-life-inner-noodle-rude
+bip_39_word_dash_6: diet-life-inner-noodle-rude-coyote
+bip_39_word_dash_7: diet-life-inner-noodle-rude-coyote-oil
+bip_39_word_dash_8: diet-life-inner-noodle-rude-coyote-oil-horn
+bip_39_word_dash_9: diet-life-inner-noodle-rude-coyote-oil-horn-calm
 bip_39_word_new_br_1: diet
 bip_39_word_new_br_10: diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot
 bip_39_word_new_br_11: diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot<br>vehicle
@@ -192,6 +204,18 @@ bip_39_word_space_6: diet life inner noodle rude coyote
 bip_39_word_space_7: diet life inner noodle rude coyote oil
 bip_39_word_space_8: diet life inner noodle rude coyote oil horn
 bip_39_word_space_9: diet life inner noodle rude coyote oil horn calm
+bip_39_word_underscore_1: diet
+bip_39_word_underscore_10: diet_life_inner_noodle_rude_coyote_oil_horn_calm_riot
+bip_39_word_underscore_11: diet_life_inner_noodle_rude_coyote_oil_horn_calm_riot_vehicle
+bip_39_word_underscore_12: diet_life_inner_noodle_rude_coyote_oil_horn_calm_riot_vehicle_alter
+bip_39_word_underscore_2: diet_life
+bip_39_word_underscore_3: diet_life_inner
+bip_39_word_underscore_4: diet_life_inner_noodle
+bip_39_word_underscore_5: diet_life_inner_noodle_rude
+bip_39_word_underscore_6: diet_life_inner_noodle_rude_coyote
+bip_39_word_underscore_7: diet_life_inner_noodle_rude_coyote_oil
+bip_39_word_underscore_8: diet_life_inner_noodle_rude_coyote_oil_horn
+bip_39_word_underscore_9: diet_life_inner_noodle_rude_coyote_oil_horn_calm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

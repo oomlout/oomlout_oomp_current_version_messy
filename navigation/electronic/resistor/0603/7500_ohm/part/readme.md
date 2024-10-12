@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pizza |  
+| bip_39_word_dash_10 | pizza-tobacco-easily-chest-armed-else-auction-pottery-laugh-frost |  
+| bip_39_word_dash_11 | pizza-tobacco-easily-chest-armed-else-auction-pottery-laugh-frost-power |  
+| bip_39_word_dash_12 | pizza-tobacco-easily-chest-armed-else-auction-pottery-laugh-frost-power-album |  
+| bip_39_word_dash_2 | pizza-tobacco |  
+| bip_39_word_dash_3 | pizza-tobacco-easily |  
+| bip_39_word_dash_4 | pizza-tobacco-easily-chest |  
+| bip_39_word_dash_5 | pizza-tobacco-easily-chest-armed |  
+| bip_39_word_dash_6 | pizza-tobacco-easily-chest-armed-else |  
+| bip_39_word_dash_7 | pizza-tobacco-easily-chest-armed-else-auction |  
+| bip_39_word_dash_8 | pizza-tobacco-easily-chest-armed-else-auction-pottery |  
+| bip_39_word_dash_9 | pizza-tobacco-easily-chest-armed-else-auction-pottery-laugh |  
 | bip_39_word_new_br_1 | pizza |  
 | bip_39_word_new_br_10 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery<br>laugh<br>frost |  
 | bip_39_word_new_br_11 | pizza<br>tobacco<br>easily<br>chest<br>armed<br>else<br>auction<br>pottery<br>laugh<br>frost<br>power |  
@@ -147,6 +159,18 @@ laugh |
 | bip_39_word_space_7 | pizza tobacco easily chest armed else auction |  
 | bip_39_word_space_8 | pizza tobacco easily chest armed else auction pottery |  
 | bip_39_word_space_9 | pizza tobacco easily chest armed else auction pottery laugh |  
+| bip_39_word_underscore_1 | pizza |  
+| bip_39_word_underscore_10 | pizza_tobacco_easily_chest_armed_else_auction_pottery_laugh_frost |  
+| bip_39_word_underscore_11 | pizza_tobacco_easily_chest_armed_else_auction_pottery_laugh_frost_power |  
+| bip_39_word_underscore_12 | pizza_tobacco_easily_chest_armed_else_auction_pottery_laugh_frost_power_album |  
+| bip_39_word_underscore_2 | pizza_tobacco |  
+| bip_39_word_underscore_3 | pizza_tobacco_easily |  
+| bip_39_word_underscore_4 | pizza_tobacco_easily_chest |  
+| bip_39_word_underscore_5 | pizza_tobacco_easily_chest_armed |  
+| bip_39_word_underscore_6 | pizza_tobacco_easily_chest_armed_else |  
+| bip_39_word_underscore_7 | pizza_tobacco_easily_chest_armed_else_auction |  
+| bip_39_word_underscore_8 | pizza_tobacco_easily_chest_armed_else_auction_pottery |  
+| bip_39_word_underscore_9 | pizza_tobacco_easily_chest_armed_else_auction_pottery_laugh |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

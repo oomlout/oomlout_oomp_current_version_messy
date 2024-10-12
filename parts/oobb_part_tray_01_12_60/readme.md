@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drive |  
+| bip_39_word_dash_10 | drive-fiber-divide-ceiling-predict-split-mobile-magic-defy-focus |  
+| bip_39_word_dash_11 | drive-fiber-divide-ceiling-predict-split-mobile-magic-defy-focus-security |  
+| bip_39_word_dash_12 | drive-fiber-divide-ceiling-predict-split-mobile-magic-defy-focus-security-also |  
+| bip_39_word_dash_2 | drive-fiber |  
+| bip_39_word_dash_3 | drive-fiber-divide |  
+| bip_39_word_dash_4 | drive-fiber-divide-ceiling |  
+| bip_39_word_dash_5 | drive-fiber-divide-ceiling-predict |  
+| bip_39_word_dash_6 | drive-fiber-divide-ceiling-predict-split |  
+| bip_39_word_dash_7 | drive-fiber-divide-ceiling-predict-split-mobile |  
+| bip_39_word_dash_8 | drive-fiber-divide-ceiling-predict-split-mobile-magic |  
+| bip_39_word_dash_9 | drive-fiber-divide-ceiling-predict-split-mobile-magic-defy |  
 | bip_39_word_new_br_1 | drive |  
 | bip_39_word_new_br_10 | drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus |  
 | bip_39_word_new_br_11 | drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus<br>security |  
@@ -147,6 +159,18 @@ defy |
 | bip_39_word_space_7 | drive fiber divide ceiling predict split mobile |  
 | bip_39_word_space_8 | drive fiber divide ceiling predict split mobile magic |  
 | bip_39_word_space_9 | drive fiber divide ceiling predict split mobile magic defy |  
+| bip_39_word_underscore_1 | drive |  
+| bip_39_word_underscore_10 | drive_fiber_divide_ceiling_predict_split_mobile_magic_defy_focus |  
+| bip_39_word_underscore_11 | drive_fiber_divide_ceiling_predict_split_mobile_magic_defy_focus_security |  
+| bip_39_word_underscore_12 | drive_fiber_divide_ceiling_predict_split_mobile_magic_defy_focus_security_also |  
+| bip_39_word_underscore_2 | drive_fiber |  
+| bip_39_word_underscore_3 | drive_fiber_divide |  
+| bip_39_word_underscore_4 | drive_fiber_divide_ceiling |  
+| bip_39_word_underscore_5 | drive_fiber_divide_ceiling_predict |  
+| bip_39_word_underscore_6 | drive_fiber_divide_ceiling_predict_split |  
+| bip_39_word_underscore_7 | drive_fiber_divide_ceiling_predict_split_mobile |  
+| bip_39_word_underscore_8 | drive_fiber_divide_ceiling_predict_split_mobile_magic |  
+| bip_39_word_underscore_9 | drive_fiber_divide_ceiling_predict_split_mobile_magic_defy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

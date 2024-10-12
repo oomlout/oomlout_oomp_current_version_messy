@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | juice |  
+| bip_39_word_dash_10 | juice-story-between-grow-grow-charge-capable-nuclear-census-trend |  
+| bip_39_word_dash_11 | juice-story-between-grow-grow-charge-capable-nuclear-census-trend-sister |  
+| bip_39_word_dash_12 | juice-story-between-grow-grow-charge-capable-nuclear-census-trend-sister-artwork |  
+| bip_39_word_dash_2 | juice-story |  
+| bip_39_word_dash_3 | juice-story-between |  
+| bip_39_word_dash_4 | juice-story-between-grow |  
+| bip_39_word_dash_5 | juice-story-between-grow-grow |  
+| bip_39_word_dash_6 | juice-story-between-grow-grow-charge |  
+| bip_39_word_dash_7 | juice-story-between-grow-grow-charge-capable |  
+| bip_39_word_dash_8 | juice-story-between-grow-grow-charge-capable-nuclear |  
+| bip_39_word_dash_9 | juice-story-between-grow-grow-charge-capable-nuclear-census |  
 | bip_39_word_new_br_1 | juice |  
 | bip_39_word_new_br_10 | juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend |  
 | bip_39_word_new_br_11 | juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend<br>sister |  
@@ -147,6 +159,18 @@ census |
 | bip_39_word_space_7 | juice story between grow grow charge capable |  
 | bip_39_word_space_8 | juice story between grow grow charge capable nuclear |  
 | bip_39_word_space_9 | juice story between grow grow charge capable nuclear census |  
+| bip_39_word_underscore_1 | juice |  
+| bip_39_word_underscore_10 | juice_story_between_grow_grow_charge_capable_nuclear_census_trend |  
+| bip_39_word_underscore_11 | juice_story_between_grow_grow_charge_capable_nuclear_census_trend_sister |  
+| bip_39_word_underscore_12 | juice_story_between_grow_grow_charge_capable_nuclear_census_trend_sister_artwork |  
+| bip_39_word_underscore_2 | juice_story |  
+| bip_39_word_underscore_3 | juice_story_between |  
+| bip_39_word_underscore_4 | juice_story_between_grow |  
+| bip_39_word_underscore_5 | juice_story_between_grow_grow |  
+| bip_39_word_underscore_6 | juice_story_between_grow_grow_charge |  
+| bip_39_word_underscore_7 | juice_story_between_grow_grow_charge_capable |  
+| bip_39_word_underscore_8 | juice_story_between_grow_grow_charge_capable_nuclear |  
+| bip_39_word_underscore_9 | juice_story_between_grow_grow_charge_capable_nuclear_census |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

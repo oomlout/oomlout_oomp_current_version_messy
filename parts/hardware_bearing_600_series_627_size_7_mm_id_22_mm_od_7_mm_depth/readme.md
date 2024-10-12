@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrange |  
+| bip_39_word_dash_10 | arrange-box-casual-release-remember-spread-curious-never-accident-unable |  
+| bip_39_word_dash_11 | arrange-box-casual-release-remember-spread-curious-never-accident-unable-boil |  
+| bip_39_word_dash_12 | arrange-box-casual-release-remember-spread-curious-never-accident-unable-boil-alone |  
+| bip_39_word_dash_2 | arrange-box |  
+| bip_39_word_dash_3 | arrange-box-casual |  
+| bip_39_word_dash_4 | arrange-box-casual-release |  
+| bip_39_word_dash_5 | arrange-box-casual-release-remember |  
+| bip_39_word_dash_6 | arrange-box-casual-release-remember-spread |  
+| bip_39_word_dash_7 | arrange-box-casual-release-remember-spread-curious |  
+| bip_39_word_dash_8 | arrange-box-casual-release-remember-spread-curious-never |  
+| bip_39_word_dash_9 | arrange-box-casual-release-remember-spread-curious-never-accident |  
 | bip_39_word_new_br_1 | arrange |  
 | bip_39_word_new_br_10 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable |  
 | bip_39_word_new_br_11 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable<br>boil |  
@@ -147,6 +159,18 @@ accident |
 | bip_39_word_space_7 | arrange box casual release remember spread curious |  
 | bip_39_word_space_8 | arrange box casual release remember spread curious never |  
 | bip_39_word_space_9 | arrange box casual release remember spread curious never accident |  
+| bip_39_word_underscore_1 | arrange |  
+| bip_39_word_underscore_10 | arrange_box_casual_release_remember_spread_curious_never_accident_unable |  
+| bip_39_word_underscore_11 | arrange_box_casual_release_remember_spread_curious_never_accident_unable_boil |  
+| bip_39_word_underscore_12 | arrange_box_casual_release_remember_spread_curious_never_accident_unable_boil_alone |  
+| bip_39_word_underscore_2 | arrange_box |  
+| bip_39_word_underscore_3 | arrange_box_casual |  
+| bip_39_word_underscore_4 | arrange_box_casual_release |  
+| bip_39_word_underscore_5 | arrange_box_casual_release_remember |  
+| bip_39_word_underscore_6 | arrange_box_casual_release_remember_spread |  
+| bip_39_word_underscore_7 | arrange_box_casual_release_remember_spread_curious |  
+| bip_39_word_underscore_8 | arrange_box_casual_release_remember_spread_curious_never |  
+| bip_39_word_underscore_9 | arrange_box_casual_release_remember_spread_curious_never_accident |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

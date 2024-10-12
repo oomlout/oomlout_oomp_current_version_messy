@@ -1,3 +1,15 @@
+bip_39_word_dash_1: subway
+bip_39_word_dash_10: subway-spray-narrow-mansion-feel-pitch-raven-rude-palace-stick
+bip_39_word_dash_11: subway-spray-narrow-mansion-feel-pitch-raven-rude-palace-stick-account
+bip_39_word_dash_12: subway-spray-narrow-mansion-feel-pitch-raven-rude-palace-stick-account-angry
+bip_39_word_dash_2: subway-spray
+bip_39_word_dash_3: subway-spray-narrow
+bip_39_word_dash_4: subway-spray-narrow-mansion
+bip_39_word_dash_5: subway-spray-narrow-mansion-feel
+bip_39_word_dash_6: subway-spray-narrow-mansion-feel-pitch
+bip_39_word_dash_7: subway-spray-narrow-mansion-feel-pitch-raven
+bip_39_word_dash_8: subway-spray-narrow-mansion-feel-pitch-raven-rude
+bip_39_word_dash_9: subway-spray-narrow-mansion-feel-pitch-raven-rude-palace
 bip_39_word_new_br_1: subway
 bip_39_word_new_br_10: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick
 bip_39_word_new_br_11: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick<br>account
@@ -193,6 +205,18 @@ bip_39_word_space_6: subway spray narrow mansion feel pitch
 bip_39_word_space_7: subway spray narrow mansion feel pitch raven
 bip_39_word_space_8: subway spray narrow mansion feel pitch raven rude
 bip_39_word_space_9: subway spray narrow mansion feel pitch raven rude palace
+bip_39_word_underscore_1: subway
+bip_39_word_underscore_10: subway_spray_narrow_mansion_feel_pitch_raven_rude_palace_stick
+bip_39_word_underscore_11: subway_spray_narrow_mansion_feel_pitch_raven_rude_palace_stick_account
+bip_39_word_underscore_12: subway_spray_narrow_mansion_feel_pitch_raven_rude_palace_stick_account_angry
+bip_39_word_underscore_2: subway_spray
+bip_39_word_underscore_3: subway_spray_narrow
+bip_39_word_underscore_4: subway_spray_narrow_mansion
+bip_39_word_underscore_5: subway_spray_narrow_mansion_feel
+bip_39_word_underscore_6: subway_spray_narrow_mansion_feel_pitch
+bip_39_word_underscore_7: subway_spray_narrow_mansion_feel_pitch_raven
+bip_39_word_underscore_8: subway_spray_narrow_mansion_feel_pitch_raven_rude
+bip_39_word_underscore_9: subway_spray_narrow_mansion_feel_pitch_raven_rude_palace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

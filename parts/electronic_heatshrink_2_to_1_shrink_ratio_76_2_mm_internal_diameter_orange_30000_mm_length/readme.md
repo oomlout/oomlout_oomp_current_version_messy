@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scorpion |  
+| bip_39_word_dash_10 | scorpion-inmate-coffee-mango-ghost-brush-enlist-hen-grid-uniform |  
+| bip_39_word_dash_11 | scorpion-inmate-coffee-mango-ghost-brush-enlist-hen-grid-uniform-aerobic |  
+| bip_39_word_dash_12 | scorpion-inmate-coffee-mango-ghost-brush-enlist-hen-grid-uniform-aerobic-aunt |  
+| bip_39_word_dash_2 | scorpion-inmate |  
+| bip_39_word_dash_3 | scorpion-inmate-coffee |  
+| bip_39_word_dash_4 | scorpion-inmate-coffee-mango |  
+| bip_39_word_dash_5 | scorpion-inmate-coffee-mango-ghost |  
+| bip_39_word_dash_6 | scorpion-inmate-coffee-mango-ghost-brush |  
+| bip_39_word_dash_7 | scorpion-inmate-coffee-mango-ghost-brush-enlist |  
+| bip_39_word_dash_8 | scorpion-inmate-coffee-mango-ghost-brush-enlist-hen |  
+| bip_39_word_dash_9 | scorpion-inmate-coffee-mango-ghost-brush-enlist-hen-grid |  
 | bip_39_word_new_br_1 | scorpion |  
 | bip_39_word_new_br_10 | scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen<br>grid<br>uniform |  
 | bip_39_word_new_br_11 | scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen<br>grid<br>uniform<br>aerobic |  
@@ -147,6 +159,18 @@ grid |
 | bip_39_word_space_7 | scorpion inmate coffee mango ghost brush enlist |  
 | bip_39_word_space_8 | scorpion inmate coffee mango ghost brush enlist hen |  
 | bip_39_word_space_9 | scorpion inmate coffee mango ghost brush enlist hen grid |  
+| bip_39_word_underscore_1 | scorpion |  
+| bip_39_word_underscore_10 | scorpion_inmate_coffee_mango_ghost_brush_enlist_hen_grid_uniform |  
+| bip_39_word_underscore_11 | scorpion_inmate_coffee_mango_ghost_brush_enlist_hen_grid_uniform_aerobic |  
+| bip_39_word_underscore_12 | scorpion_inmate_coffee_mango_ghost_brush_enlist_hen_grid_uniform_aerobic_aunt |  
+| bip_39_word_underscore_2 | scorpion_inmate |  
+| bip_39_word_underscore_3 | scorpion_inmate_coffee |  
+| bip_39_word_underscore_4 | scorpion_inmate_coffee_mango |  
+| bip_39_word_underscore_5 | scorpion_inmate_coffee_mango_ghost |  
+| bip_39_word_underscore_6 | scorpion_inmate_coffee_mango_ghost_brush |  
+| bip_39_word_underscore_7 | scorpion_inmate_coffee_mango_ghost_brush_enlist |  
+| bip_39_word_underscore_8 | scorpion_inmate_coffee_mango_ghost_brush_enlist_hen |  
+| bip_39_word_underscore_9 | scorpion_inmate_coffee_mango_ghost_brush_enlist_hen_grid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

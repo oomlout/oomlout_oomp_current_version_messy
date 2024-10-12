@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | carry |  
+| bip_39_word_dash_10 | carry-sad-orphan-witness-erupt-spread-merry-coil-eager-tag |  
+| bip_39_word_dash_11 | carry-sad-orphan-witness-erupt-spread-merry-coil-eager-tag-merge |  
+| bip_39_word_dash_12 | carry-sad-orphan-witness-erupt-spread-merry-coil-eager-tag-merge-apology |  
+| bip_39_word_dash_2 | carry-sad |  
+| bip_39_word_dash_3 | carry-sad-orphan |  
+| bip_39_word_dash_4 | carry-sad-orphan-witness |  
+| bip_39_word_dash_5 | carry-sad-orphan-witness-erupt |  
+| bip_39_word_dash_6 | carry-sad-orphan-witness-erupt-spread |  
+| bip_39_word_dash_7 | carry-sad-orphan-witness-erupt-spread-merry |  
+| bip_39_word_dash_8 | carry-sad-orphan-witness-erupt-spread-merry-coil |  
+| bip_39_word_dash_9 | carry-sad-orphan-witness-erupt-spread-merry-coil-eager |  
 | bip_39_word_new_br_1 | carry |  
 | bip_39_word_new_br_10 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag |  
 | bip_39_word_new_br_11 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag<br>merge |  
@@ -147,6 +159,18 @@ eager |
 | bip_39_word_space_7 | carry sad orphan witness erupt spread merry |  
 | bip_39_word_space_8 | carry sad orphan witness erupt spread merry coil |  
 | bip_39_word_space_9 | carry sad orphan witness erupt spread merry coil eager |  
+| bip_39_word_underscore_1 | carry |  
+| bip_39_word_underscore_10 | carry_sad_orphan_witness_erupt_spread_merry_coil_eager_tag |  
+| bip_39_word_underscore_11 | carry_sad_orphan_witness_erupt_spread_merry_coil_eager_tag_merge |  
+| bip_39_word_underscore_12 | carry_sad_orphan_witness_erupt_spread_merry_coil_eager_tag_merge_apology |  
+| bip_39_word_underscore_2 | carry_sad |  
+| bip_39_word_underscore_3 | carry_sad_orphan |  
+| bip_39_word_underscore_4 | carry_sad_orphan_witness |  
+| bip_39_word_underscore_5 | carry_sad_orphan_witness_erupt |  
+| bip_39_word_underscore_6 | carry_sad_orphan_witness_erupt_spread |  
+| bip_39_word_underscore_7 | carry_sad_orphan_witness_erupt_spread_merry |  
+| bip_39_word_underscore_8 | carry_sad_orphan_witness_erupt_spread_merry_coil |  
+| bip_39_word_underscore_9 | carry_sad_orphan_witness_erupt_spread_merry_coil_eager |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

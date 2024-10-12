@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | limit |  
+| bip_39_word_dash_10 | limit-lobster-view-rotate-face-sing-expose-tube-supply-system |  
+| bip_39_word_dash_11 | limit-lobster-view-rotate-face-sing-expose-tube-supply-system-organ |  
+| bip_39_word_dash_12 | limit-lobster-view-rotate-face-sing-expose-tube-supply-system-organ-acid |  
+| bip_39_word_dash_2 | limit-lobster |  
+| bip_39_word_dash_3 | limit-lobster-view |  
+| bip_39_word_dash_4 | limit-lobster-view-rotate |  
+| bip_39_word_dash_5 | limit-lobster-view-rotate-face |  
+| bip_39_word_dash_6 | limit-lobster-view-rotate-face-sing |  
+| bip_39_word_dash_7 | limit-lobster-view-rotate-face-sing-expose |  
+| bip_39_word_dash_8 | limit-lobster-view-rotate-face-sing-expose-tube |  
+| bip_39_word_dash_9 | limit-lobster-view-rotate-face-sing-expose-tube-supply |  
 | bip_39_word_new_br_1 | limit |  
 | bip_39_word_new_br_10 | limit<br>lobster<br>view<br>rotate<br>face<br>sing<br>expose<br>tube<br>supply<br>system |  
 | bip_39_word_new_br_11 | limit<br>lobster<br>view<br>rotate<br>face<br>sing<br>expose<br>tube<br>supply<br>system<br>organ |  
@@ -147,6 +159,18 @@ supply |
 | bip_39_word_space_7 | limit lobster view rotate face sing expose |  
 | bip_39_word_space_8 | limit lobster view rotate face sing expose tube |  
 | bip_39_word_space_9 | limit lobster view rotate face sing expose tube supply |  
+| bip_39_word_underscore_1 | limit |  
+| bip_39_word_underscore_10 | limit_lobster_view_rotate_face_sing_expose_tube_supply_system |  
+| bip_39_word_underscore_11 | limit_lobster_view_rotate_face_sing_expose_tube_supply_system_organ |  
+| bip_39_word_underscore_12 | limit_lobster_view_rotate_face_sing_expose_tube_supply_system_organ_acid |  
+| bip_39_word_underscore_2 | limit_lobster |  
+| bip_39_word_underscore_3 | limit_lobster_view |  
+| bip_39_word_underscore_4 | limit_lobster_view_rotate |  
+| bip_39_word_underscore_5 | limit_lobster_view_rotate_face |  
+| bip_39_word_underscore_6 | limit_lobster_view_rotate_face_sing |  
+| bip_39_word_underscore_7 | limit_lobster_view_rotate_face_sing_expose |  
+| bip_39_word_underscore_8 | limit_lobster_view_rotate_face_sing_expose_tube |  
+| bip_39_word_underscore_9 | limit_lobster_view_rotate_face_sing_expose_tube_supply |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

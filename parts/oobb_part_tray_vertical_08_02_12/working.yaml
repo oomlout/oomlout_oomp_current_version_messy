@@ -1,3 +1,15 @@
+bip_39_word_dash_1: net
+bip_39_word_dash_10: net-detect-vacant-dilemma-grid-gas-spirit-wave-crisp-merry
+bip_39_word_dash_11: net-detect-vacant-dilemma-grid-gas-spirit-wave-crisp-merry-father
+bip_39_word_dash_12: net-detect-vacant-dilemma-grid-gas-spirit-wave-crisp-merry-father-again
+bip_39_word_dash_2: net-detect
+bip_39_word_dash_3: net-detect-vacant
+bip_39_word_dash_4: net-detect-vacant-dilemma
+bip_39_word_dash_5: net-detect-vacant-dilemma-grid
+bip_39_word_dash_6: net-detect-vacant-dilemma-grid-gas
+bip_39_word_dash_7: net-detect-vacant-dilemma-grid-gas-spirit
+bip_39_word_dash_8: net-detect-vacant-dilemma-grid-gas-spirit-wave
+bip_39_word_dash_9: net-detect-vacant-dilemma-grid-gas-spirit-wave-crisp
 bip_39_word_new_br_1: net
 bip_39_word_new_br_10: net<br>detect<br>vacant<br>dilemma<br>grid<br>gas<br>spirit<br>wave<br>crisp<br>merry
 bip_39_word_new_br_11: net<br>detect<br>vacant<br>dilemma<br>grid<br>gas<br>spirit<br>wave<br>crisp<br>merry<br>father
@@ -192,6 +204,18 @@ bip_39_word_space_6: net detect vacant dilemma grid gas
 bip_39_word_space_7: net detect vacant dilemma grid gas spirit
 bip_39_word_space_8: net detect vacant dilemma grid gas spirit wave
 bip_39_word_space_9: net detect vacant dilemma grid gas spirit wave crisp
+bip_39_word_underscore_1: net
+bip_39_word_underscore_10: net_detect_vacant_dilemma_grid_gas_spirit_wave_crisp_merry
+bip_39_word_underscore_11: net_detect_vacant_dilemma_grid_gas_spirit_wave_crisp_merry_father
+bip_39_word_underscore_12: net_detect_vacant_dilemma_grid_gas_spirit_wave_crisp_merry_father_again
+bip_39_word_underscore_2: net_detect
+bip_39_word_underscore_3: net_detect_vacant
+bip_39_word_underscore_4: net_detect_vacant_dilemma
+bip_39_word_underscore_5: net_detect_vacant_dilemma_grid
+bip_39_word_underscore_6: net_detect_vacant_dilemma_grid_gas
+bip_39_word_underscore_7: net_detect_vacant_dilemma_grid_gas_spirit
+bip_39_word_underscore_8: net_detect_vacant_dilemma_grid_gas_spirit_wave
+bip_39_word_underscore_9: net_detect_vacant_dilemma_grid_gas_spirit_wave_crisp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: van
+bip_39_word_dash_10: van-town-alley-shaft-help-depend-concert-wrap-math-attack
+bip_39_word_dash_11: van-town-alley-shaft-help-depend-concert-wrap-math-attack-minimum
+bip_39_word_dash_12: van-town-alley-shaft-help-depend-concert-wrap-math-attack-minimum-alter
+bip_39_word_dash_2: van-town
+bip_39_word_dash_3: van-town-alley
+bip_39_word_dash_4: van-town-alley-shaft
+bip_39_word_dash_5: van-town-alley-shaft-help
+bip_39_word_dash_6: van-town-alley-shaft-help-depend
+bip_39_word_dash_7: van-town-alley-shaft-help-depend-concert
+bip_39_word_dash_8: van-town-alley-shaft-help-depend-concert-wrap
+bip_39_word_dash_9: van-town-alley-shaft-help-depend-concert-wrap-math
 bip_39_word_new_br_1: van
 bip_39_word_new_br_10: van<br>town<br>alley<br>shaft<br>help<br>depend<br>concert<br>wrap<br>math<br>attack
 bip_39_word_new_br_11: van<br>town<br>alley<br>shaft<br>help<br>depend<br>concert<br>wrap<br>math<br>attack<br>minimum
@@ -192,6 +204,18 @@ bip_39_word_space_6: van town alley shaft help depend
 bip_39_word_space_7: van town alley shaft help depend concert
 bip_39_word_space_8: van town alley shaft help depend concert wrap
 bip_39_word_space_9: van town alley shaft help depend concert wrap math
+bip_39_word_underscore_1: van
+bip_39_word_underscore_10: van_town_alley_shaft_help_depend_concert_wrap_math_attack
+bip_39_word_underscore_11: van_town_alley_shaft_help_depend_concert_wrap_math_attack_minimum
+bip_39_word_underscore_12: van_town_alley_shaft_help_depend_concert_wrap_math_attack_minimum_alter
+bip_39_word_underscore_2: van_town
+bip_39_word_underscore_3: van_town_alley
+bip_39_word_underscore_4: van_town_alley_shaft
+bip_39_word_underscore_5: van_town_alley_shaft_help
+bip_39_word_underscore_6: van_town_alley_shaft_help_depend
+bip_39_word_underscore_7: van_town_alley_shaft_help_depend_concert
+bip_39_word_underscore_8: van_town_alley_shaft_help_depend_concert_wrap
+bip_39_word_underscore_9: van_town_alley_shaft_help_depend_concert_wrap_math
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

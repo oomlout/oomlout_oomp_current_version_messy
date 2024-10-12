@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | note |  
+| bip_39_word_dash_10 | note-genre-token-cart-wish-mutual-tone-limb-crowd-royal |  
+| bip_39_word_dash_11 | note-genre-token-cart-wish-mutual-tone-limb-crowd-royal-wish |  
+| bip_39_word_dash_12 | note-genre-token-cart-wish-mutual-tone-limb-crowd-royal-wish-alcohol |  
+| bip_39_word_dash_2 | note-genre |  
+| bip_39_word_dash_3 | note-genre-token |  
+| bip_39_word_dash_4 | note-genre-token-cart |  
+| bip_39_word_dash_5 | note-genre-token-cart-wish |  
+| bip_39_word_dash_6 | note-genre-token-cart-wish-mutual |  
+| bip_39_word_dash_7 | note-genre-token-cart-wish-mutual-tone |  
+| bip_39_word_dash_8 | note-genre-token-cart-wish-mutual-tone-limb |  
+| bip_39_word_dash_9 | note-genre-token-cart-wish-mutual-tone-limb-crowd |  
 | bip_39_word_new_br_1 | note |  
 | bip_39_word_new_br_10 | note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb<br>crowd<br>royal |  
 | bip_39_word_new_br_11 | note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb<br>crowd<br>royal<br>wish |  
@@ -147,6 +159,18 @@ crowd |
 | bip_39_word_space_7 | note genre token cart wish mutual tone |  
 | bip_39_word_space_8 | note genre token cart wish mutual tone limb |  
 | bip_39_word_space_9 | note genre token cart wish mutual tone limb crowd |  
+| bip_39_word_underscore_1 | note |  
+| bip_39_word_underscore_10 | note_genre_token_cart_wish_mutual_tone_limb_crowd_royal |  
+| bip_39_word_underscore_11 | note_genre_token_cart_wish_mutual_tone_limb_crowd_royal_wish |  
+| bip_39_word_underscore_12 | note_genre_token_cart_wish_mutual_tone_limb_crowd_royal_wish_alcohol |  
+| bip_39_word_underscore_2 | note_genre |  
+| bip_39_word_underscore_3 | note_genre_token |  
+| bip_39_word_underscore_4 | note_genre_token_cart |  
+| bip_39_word_underscore_5 | note_genre_token_cart_wish |  
+| bip_39_word_underscore_6 | note_genre_token_cart_wish_mutual |  
+| bip_39_word_underscore_7 | note_genre_token_cart_wish_mutual_tone |  
+| bip_39_word_underscore_8 | note_genre_token_cart_wish_mutual_tone_limb |  
+| bip_39_word_underscore_9 | note_genre_token_cart_wish_mutual_tone_limb_crowd |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

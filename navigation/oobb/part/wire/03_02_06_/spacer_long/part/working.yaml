@@ -1,3 +1,15 @@
+bip_39_word_dash_1: radio
+bip_39_word_dash_10: radio-broccoli-cheap-grape-gasp-hire-kid-quit-spider-remove
+bip_39_word_dash_11: radio-broccoli-cheap-grape-gasp-hire-kid-quit-spider-remove-since
+bip_39_word_dash_12: radio-broccoli-cheap-grape-gasp-hire-kid-quit-spider-remove-since-again
+bip_39_word_dash_2: radio-broccoli
+bip_39_word_dash_3: radio-broccoli-cheap
+bip_39_word_dash_4: radio-broccoli-cheap-grape
+bip_39_word_dash_5: radio-broccoli-cheap-grape-gasp
+bip_39_word_dash_6: radio-broccoli-cheap-grape-gasp-hire
+bip_39_word_dash_7: radio-broccoli-cheap-grape-gasp-hire-kid
+bip_39_word_dash_8: radio-broccoli-cheap-grape-gasp-hire-kid-quit
+bip_39_word_dash_9: radio-broccoli-cheap-grape-gasp-hire-kid-quit-spider
 bip_39_word_new_br_1: radio
 bip_39_word_new_br_10: radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit<br>spider<br>remove
 bip_39_word_new_br_11: radio<br>broccoli<br>cheap<br>grape<br>gasp<br>hire<br>kid<br>quit<br>spider<br>remove<br>since
@@ -193,6 +205,18 @@ bip_39_word_space_6: radio broccoli cheap grape gasp hire
 bip_39_word_space_7: radio broccoli cheap grape gasp hire kid
 bip_39_word_space_8: radio broccoli cheap grape gasp hire kid quit
 bip_39_word_space_9: radio broccoli cheap grape gasp hire kid quit spider
+bip_39_word_underscore_1: radio
+bip_39_word_underscore_10: radio_broccoli_cheap_grape_gasp_hire_kid_quit_spider_remove
+bip_39_word_underscore_11: radio_broccoli_cheap_grape_gasp_hire_kid_quit_spider_remove_since
+bip_39_word_underscore_12: radio_broccoli_cheap_grape_gasp_hire_kid_quit_spider_remove_since_again
+bip_39_word_underscore_2: radio_broccoli
+bip_39_word_underscore_3: radio_broccoli_cheap
+bip_39_word_underscore_4: radio_broccoli_cheap_grape
+bip_39_word_underscore_5: radio_broccoli_cheap_grape_gasp
+bip_39_word_underscore_6: radio_broccoli_cheap_grape_gasp_hire
+bip_39_word_underscore_7: radio_broccoli_cheap_grape_gasp_hire_kid
+bip_39_word_underscore_8: radio_broccoli_cheap_grape_gasp_hire_kid_quit
+bip_39_word_underscore_9: radio_broccoli_cheap_grape_gasp_hire_kid_quit_spider
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

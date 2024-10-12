@@ -1,3 +1,15 @@
+bip_39_word_dash_1: library
+bip_39_word_dash_10: library-inflict-enforce-veteran-prosper-link-erupt-code-library-deer
+bip_39_word_dash_11: library-inflict-enforce-veteran-prosper-link-erupt-code-library-deer-frame
+bip_39_word_dash_12: library-inflict-enforce-veteran-prosper-link-erupt-code-library-deer-frame-account
+bip_39_word_dash_2: library-inflict
+bip_39_word_dash_3: library-inflict-enforce
+bip_39_word_dash_4: library-inflict-enforce-veteran
+bip_39_word_dash_5: library-inflict-enforce-veteran-prosper
+bip_39_word_dash_6: library-inflict-enforce-veteran-prosper-link
+bip_39_word_dash_7: library-inflict-enforce-veteran-prosper-link-erupt
+bip_39_word_dash_8: library-inflict-enforce-veteran-prosper-link-erupt-code
+bip_39_word_dash_9: library-inflict-enforce-veteran-prosper-link-erupt-code-library
 bip_39_word_new_br_1: library
 bip_39_word_new_br_10: library<br>inflict<br>enforce<br>veteran<br>prosper<br>link<br>erupt<br>code<br>library<br>deer
 bip_39_word_new_br_11: library<br>inflict<br>enforce<br>veteran<br>prosper<br>link<br>erupt<br>code<br>library<br>deer<br>frame
@@ -194,6 +206,18 @@ bip_39_word_space_6: library inflict enforce veteran prosper link
 bip_39_word_space_7: library inflict enforce veteran prosper link erupt
 bip_39_word_space_8: library inflict enforce veteran prosper link erupt code
 bip_39_word_space_9: library inflict enforce veteran prosper link erupt code library
+bip_39_word_underscore_1: library
+bip_39_word_underscore_10: library_inflict_enforce_veteran_prosper_link_erupt_code_library_deer
+bip_39_word_underscore_11: library_inflict_enforce_veteran_prosper_link_erupt_code_library_deer_frame
+bip_39_word_underscore_12: library_inflict_enforce_veteran_prosper_link_erupt_code_library_deer_frame_account
+bip_39_word_underscore_2: library_inflict
+bip_39_word_underscore_3: library_inflict_enforce
+bip_39_word_underscore_4: library_inflict_enforce_veteran
+bip_39_word_underscore_5: library_inflict_enforce_veteran_prosper
+bip_39_word_underscore_6: library_inflict_enforce_veteran_prosper_link
+bip_39_word_underscore_7: library_inflict_enforce_veteran_prosper_link_erupt
+bip_39_word_underscore_8: library_inflict_enforce_veteran_prosper_link_erupt_code
+bip_39_word_underscore_9: library_inflict_enforce_veteran_prosper_link_erupt_code_library
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

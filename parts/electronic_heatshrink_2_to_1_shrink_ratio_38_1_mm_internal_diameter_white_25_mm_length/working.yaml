@@ -1,3 +1,15 @@
+bip_39_word_dash_1: guilt
+bip_39_word_dash_10: guilt-hollow-caution-later-portion-all-build-afraid-empower-power
+bip_39_word_dash_11: guilt-hollow-caution-later-portion-all-build-afraid-empower-power-cattle
+bip_39_word_dash_12: guilt-hollow-caution-later-portion-all-build-afraid-empower-power-cattle-assist
+bip_39_word_dash_2: guilt-hollow
+bip_39_word_dash_3: guilt-hollow-caution
+bip_39_word_dash_4: guilt-hollow-caution-later
+bip_39_word_dash_5: guilt-hollow-caution-later-portion
+bip_39_word_dash_6: guilt-hollow-caution-later-portion-all
+bip_39_word_dash_7: guilt-hollow-caution-later-portion-all-build
+bip_39_word_dash_8: guilt-hollow-caution-later-portion-all-build-afraid
+bip_39_word_dash_9: guilt-hollow-caution-later-portion-all-build-afraid-empower
 bip_39_word_new_br_1: guilt
 bip_39_word_new_br_10: guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid<br>empower<br>power
 bip_39_word_new_br_11: guilt<br>hollow<br>caution<br>later<br>portion<br>all<br>build<br>afraid<br>empower<br>power<br>cattle
@@ -194,6 +206,18 @@ bip_39_word_space_6: guilt hollow caution later portion all
 bip_39_word_space_7: guilt hollow caution later portion all build
 bip_39_word_space_8: guilt hollow caution later portion all build afraid
 bip_39_word_space_9: guilt hollow caution later portion all build afraid empower
+bip_39_word_underscore_1: guilt
+bip_39_word_underscore_10: guilt_hollow_caution_later_portion_all_build_afraid_empower_power
+bip_39_word_underscore_11: guilt_hollow_caution_later_portion_all_build_afraid_empower_power_cattle
+bip_39_word_underscore_12: guilt_hollow_caution_later_portion_all_build_afraid_empower_power_cattle_assist
+bip_39_word_underscore_2: guilt_hollow
+bip_39_word_underscore_3: guilt_hollow_caution
+bip_39_word_underscore_4: guilt_hollow_caution_later
+bip_39_word_underscore_5: guilt_hollow_caution_later_portion
+bip_39_word_underscore_6: guilt_hollow_caution_later_portion_all
+bip_39_word_underscore_7: guilt_hollow_caution_later_portion_all_build
+bip_39_word_underscore_8: guilt_hollow_caution_later_portion_all_build_afraid
+bip_39_word_underscore_9: guilt_hollow_caution_later_portion_all_build_afraid_empower
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

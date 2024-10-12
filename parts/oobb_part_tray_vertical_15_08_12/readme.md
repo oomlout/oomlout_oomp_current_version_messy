@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | donate |  
+| bip_39_word_dash_10 | donate-sad-oval-shed-alpha-file-dad-possible-decline-cause |  
+| bip_39_word_dash_11 | donate-sad-oval-shed-alpha-file-dad-possible-decline-cause-together |  
+| bip_39_word_dash_12 | donate-sad-oval-shed-alpha-file-dad-possible-decline-cause-together-auto |  
+| bip_39_word_dash_2 | donate-sad |  
+| bip_39_word_dash_3 | donate-sad-oval |  
+| bip_39_word_dash_4 | donate-sad-oval-shed |  
+| bip_39_word_dash_5 | donate-sad-oval-shed-alpha |  
+| bip_39_word_dash_6 | donate-sad-oval-shed-alpha-file |  
+| bip_39_word_dash_7 | donate-sad-oval-shed-alpha-file-dad |  
+| bip_39_word_dash_8 | donate-sad-oval-shed-alpha-file-dad-possible |  
+| bip_39_word_dash_9 | donate-sad-oval-shed-alpha-file-dad-possible-decline |  
 | bip_39_word_new_br_1 | donate |  
 | bip_39_word_new_br_10 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible<br>decline<br>cause |  
 | bip_39_word_new_br_11 | donate<br>sad<br>oval<br>shed<br>alpha<br>file<br>dad<br>possible<br>decline<br>cause<br>together |  
@@ -147,6 +159,18 @@ decline |
 | bip_39_word_space_7 | donate sad oval shed alpha file dad |  
 | bip_39_word_space_8 | donate sad oval shed alpha file dad possible |  
 | bip_39_word_space_9 | donate sad oval shed alpha file dad possible decline |  
+| bip_39_word_underscore_1 | donate |  
+| bip_39_word_underscore_10 | donate_sad_oval_shed_alpha_file_dad_possible_decline_cause |  
+| bip_39_word_underscore_11 | donate_sad_oval_shed_alpha_file_dad_possible_decline_cause_together |  
+| bip_39_word_underscore_12 | donate_sad_oval_shed_alpha_file_dad_possible_decline_cause_together_auto |  
+| bip_39_word_underscore_2 | donate_sad |  
+| bip_39_word_underscore_3 | donate_sad_oval |  
+| bip_39_word_underscore_4 | donate_sad_oval_shed |  
+| bip_39_word_underscore_5 | donate_sad_oval_shed_alpha |  
+| bip_39_word_underscore_6 | donate_sad_oval_shed_alpha_file |  
+| bip_39_word_underscore_7 | donate_sad_oval_shed_alpha_file_dad |  
+| bip_39_word_underscore_8 | donate_sad_oval_shed_alpha_file_dad_possible |  
+| bip_39_word_underscore_9 | donate_sad_oval_shed_alpha_file_dad_possible_decline |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

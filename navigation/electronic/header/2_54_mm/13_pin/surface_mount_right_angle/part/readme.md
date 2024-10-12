@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | maze |  
+| bip_39_word_dash_10 | maze-enable-average-abuse-ankle-pull-away-baby-head-swing |  
+| bip_39_word_dash_11 | maze-enable-average-abuse-ankle-pull-away-baby-head-swing-spend |  
+| bip_39_word_dash_12 | maze-enable-average-abuse-ankle-pull-away-baby-head-swing-spend-aisle |  
+| bip_39_word_dash_2 | maze-enable |  
+| bip_39_word_dash_3 | maze-enable-average |  
+| bip_39_word_dash_4 | maze-enable-average-abuse |  
+| bip_39_word_dash_5 | maze-enable-average-abuse-ankle |  
+| bip_39_word_dash_6 | maze-enable-average-abuse-ankle-pull |  
+| bip_39_word_dash_7 | maze-enable-average-abuse-ankle-pull-away |  
+| bip_39_word_dash_8 | maze-enable-average-abuse-ankle-pull-away-baby |  
+| bip_39_word_dash_9 | maze-enable-average-abuse-ankle-pull-away-baby-head |  
 | bip_39_word_new_br_1 | maze |  
 | bip_39_word_new_br_10 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing |  
 | bip_39_word_new_br_11 | maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing<br>spend |  
@@ -147,6 +159,18 @@ head |
 | bip_39_word_space_7 | maze enable average abuse ankle pull away |  
 | bip_39_word_space_8 | maze enable average abuse ankle pull away baby |  
 | bip_39_word_space_9 | maze enable average abuse ankle pull away baby head |  
+| bip_39_word_underscore_1 | maze |  
+| bip_39_word_underscore_10 | maze_enable_average_abuse_ankle_pull_away_baby_head_swing |  
+| bip_39_word_underscore_11 | maze_enable_average_abuse_ankle_pull_away_baby_head_swing_spend |  
+| bip_39_word_underscore_12 | maze_enable_average_abuse_ankle_pull_away_baby_head_swing_spend_aisle |  
+| bip_39_word_underscore_2 | maze_enable |  
+| bip_39_word_underscore_3 | maze_enable_average |  
+| bip_39_word_underscore_4 | maze_enable_average_abuse |  
+| bip_39_word_underscore_5 | maze_enable_average_abuse_ankle |  
+| bip_39_word_underscore_6 | maze_enable_average_abuse_ankle_pull |  
+| bip_39_word_underscore_7 | maze_enable_average_abuse_ankle_pull_away |  
+| bip_39_word_underscore_8 | maze_enable_average_abuse_ankle_pull_away_baby |  
+| bip_39_word_underscore_9 | maze_enable_average_abuse_ankle_pull_away_baby_head |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

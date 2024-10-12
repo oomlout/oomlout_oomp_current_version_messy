@@ -1,3 +1,15 @@
+bip_39_word_dash_1: good
+bip_39_word_dash_10: good-angry-pave-analyst-common-squirrel-common-shift-sound-account
+bip_39_word_dash_11: good-angry-pave-analyst-common-squirrel-common-shift-sound-account-sort
+bip_39_word_dash_12: good-angry-pave-analyst-common-squirrel-common-shift-sound-account-sort-antique
+bip_39_word_dash_2: good-angry
+bip_39_word_dash_3: good-angry-pave
+bip_39_word_dash_4: good-angry-pave-analyst
+bip_39_word_dash_5: good-angry-pave-analyst-common
+bip_39_word_dash_6: good-angry-pave-analyst-common-squirrel
+bip_39_word_dash_7: good-angry-pave-analyst-common-squirrel-common
+bip_39_word_dash_8: good-angry-pave-analyst-common-squirrel-common-shift
+bip_39_word_dash_9: good-angry-pave-analyst-common-squirrel-common-shift-sound
 bip_39_word_new_br_1: good
 bip_39_word_new_br_10: good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift<br>sound<br>account
 bip_39_word_new_br_11: good<br>angry<br>pave<br>analyst<br>common<br>squirrel<br>common<br>shift<br>sound<br>account<br>sort
@@ -193,6 +205,18 @@ bip_39_word_space_6: good angry pave analyst common squirrel
 bip_39_word_space_7: good angry pave analyst common squirrel common
 bip_39_word_space_8: good angry pave analyst common squirrel common shift
 bip_39_word_space_9: good angry pave analyst common squirrel common shift sound
+bip_39_word_underscore_1: good
+bip_39_word_underscore_10: good_angry_pave_analyst_common_squirrel_common_shift_sound_account
+bip_39_word_underscore_11: good_angry_pave_analyst_common_squirrel_common_shift_sound_account_sort
+bip_39_word_underscore_12: good_angry_pave_analyst_common_squirrel_common_shift_sound_account_sort_antique
+bip_39_word_underscore_2: good_angry
+bip_39_word_underscore_3: good_angry_pave
+bip_39_word_underscore_4: good_angry_pave_analyst
+bip_39_word_underscore_5: good_angry_pave_analyst_common
+bip_39_word_underscore_6: good_angry_pave_analyst_common_squirrel
+bip_39_word_underscore_7: good_angry_pave_analyst_common_squirrel_common
+bip_39_word_underscore_8: good_angry_pave_analyst_common_squirrel_common_shift
+bip_39_word_underscore_9: good_angry_pave_analyst_common_squirrel_common_shift_sound
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

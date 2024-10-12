@@ -1,3 +1,15 @@
+bip_39_word_dash_1: surprise
+bip_39_word_dash_10: surprise-doll-idea-canal-impulse-entry-mean-wash-topic-fish
+bip_39_word_dash_11: surprise-doll-idea-canal-impulse-entry-mean-wash-topic-fish-soda
+bip_39_word_dash_12: surprise-doll-idea-canal-impulse-entry-mean-wash-topic-fish-soda-angle
+bip_39_word_dash_2: surprise-doll
+bip_39_word_dash_3: surprise-doll-idea
+bip_39_word_dash_4: surprise-doll-idea-canal
+bip_39_word_dash_5: surprise-doll-idea-canal-impulse
+bip_39_word_dash_6: surprise-doll-idea-canal-impulse-entry
+bip_39_word_dash_7: surprise-doll-idea-canal-impulse-entry-mean
+bip_39_word_dash_8: surprise-doll-idea-canal-impulse-entry-mean-wash
+bip_39_word_dash_9: surprise-doll-idea-canal-impulse-entry-mean-wash-topic
 bip_39_word_new_br_1: surprise
 bip_39_word_new_br_10: surprise<br>doll<br>idea<br>canal<br>impulse<br>entry<br>mean<br>wash<br>topic<br>fish
 bip_39_word_new_br_11: surprise<br>doll<br>idea<br>canal<br>impulse<br>entry<br>mean<br>wash<br>topic<br>fish<br>soda
@@ -193,6 +205,18 @@ bip_39_word_space_6: surprise doll idea canal impulse entry
 bip_39_word_space_7: surprise doll idea canal impulse entry mean
 bip_39_word_space_8: surprise doll idea canal impulse entry mean wash
 bip_39_word_space_9: surprise doll idea canal impulse entry mean wash topic
+bip_39_word_underscore_1: surprise
+bip_39_word_underscore_10: surprise_doll_idea_canal_impulse_entry_mean_wash_topic_fish
+bip_39_word_underscore_11: surprise_doll_idea_canal_impulse_entry_mean_wash_topic_fish_soda
+bip_39_word_underscore_12: surprise_doll_idea_canal_impulse_entry_mean_wash_topic_fish_soda_angle
+bip_39_word_underscore_2: surprise_doll
+bip_39_word_underscore_3: surprise_doll_idea
+bip_39_word_underscore_4: surprise_doll_idea_canal
+bip_39_word_underscore_5: surprise_doll_idea_canal_impulse
+bip_39_word_underscore_6: surprise_doll_idea_canal_impulse_entry
+bip_39_word_underscore_7: surprise_doll_idea_canal_impulse_entry_mean
+bip_39_word_underscore_8: surprise_doll_idea_canal_impulse_entry_mean_wash
+bip_39_word_underscore_9: surprise_doll_idea_canal_impulse_entry_mean_wash_topic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

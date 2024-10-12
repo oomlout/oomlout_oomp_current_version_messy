@@ -1,3 +1,15 @@
+bip_39_word_dash_1: firm
+bip_39_word_dash_10: firm-plastic-civil-discover-tilt-layer-kidney-question-quit-flavor
+bip_39_word_dash_11: firm-plastic-civil-discover-tilt-layer-kidney-question-quit-flavor-unaware
+bip_39_word_dash_12: firm-plastic-civil-discover-tilt-layer-kidney-question-quit-flavor-unaware-apart
+bip_39_word_dash_2: firm-plastic
+bip_39_word_dash_3: firm-plastic-civil
+bip_39_word_dash_4: firm-plastic-civil-discover
+bip_39_word_dash_5: firm-plastic-civil-discover-tilt
+bip_39_word_dash_6: firm-plastic-civil-discover-tilt-layer
+bip_39_word_dash_7: firm-plastic-civil-discover-tilt-layer-kidney
+bip_39_word_dash_8: firm-plastic-civil-discover-tilt-layer-kidney-question
+bip_39_word_dash_9: firm-plastic-civil-discover-tilt-layer-kidney-question-quit
 bip_39_word_new_br_1: firm
 bip_39_word_new_br_10: firm<br>plastic<br>civil<br>discover<br>tilt<br>layer<br>kidney<br>question<br>quit<br>flavor
 bip_39_word_new_br_11: firm<br>plastic<br>civil<br>discover<br>tilt<br>layer<br>kidney<br>question<br>quit<br>flavor<br>unaware
@@ -194,6 +206,18 @@ bip_39_word_space_6: firm plastic civil discover tilt layer
 bip_39_word_space_7: firm plastic civil discover tilt layer kidney
 bip_39_word_space_8: firm plastic civil discover tilt layer kidney question
 bip_39_word_space_9: firm plastic civil discover tilt layer kidney question quit
+bip_39_word_underscore_1: firm
+bip_39_word_underscore_10: firm_plastic_civil_discover_tilt_layer_kidney_question_quit_flavor
+bip_39_word_underscore_11: firm_plastic_civil_discover_tilt_layer_kidney_question_quit_flavor_unaware
+bip_39_word_underscore_12: firm_plastic_civil_discover_tilt_layer_kidney_question_quit_flavor_unaware_apart
+bip_39_word_underscore_2: firm_plastic
+bip_39_word_underscore_3: firm_plastic_civil
+bip_39_word_underscore_4: firm_plastic_civil_discover
+bip_39_word_underscore_5: firm_plastic_civil_discover_tilt
+bip_39_word_underscore_6: firm_plastic_civil_discover_tilt_layer
+bip_39_word_underscore_7: firm_plastic_civil_discover_tilt_layer_kidney
+bip_39_word_underscore_8: firm_plastic_civil_discover_tilt_layer_kidney_question
+bip_39_word_underscore_9: firm_plastic_civil_discover_tilt_layer_kidney_question_quit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

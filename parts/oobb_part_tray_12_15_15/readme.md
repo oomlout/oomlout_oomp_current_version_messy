@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | banana |  
+| bip_39_word_dash_10 | banana-sick-muscle-top-chat-vivid-taste-hazard-whale-auction |  
+| bip_39_word_dash_11 | banana-sick-muscle-top-chat-vivid-taste-hazard-whale-auction-regret |  
+| bip_39_word_dash_12 | banana-sick-muscle-top-chat-vivid-taste-hazard-whale-auction-regret-advance |  
+| bip_39_word_dash_2 | banana-sick |  
+| bip_39_word_dash_3 | banana-sick-muscle |  
+| bip_39_word_dash_4 | banana-sick-muscle-top |  
+| bip_39_word_dash_5 | banana-sick-muscle-top-chat |  
+| bip_39_word_dash_6 | banana-sick-muscle-top-chat-vivid |  
+| bip_39_word_dash_7 | banana-sick-muscle-top-chat-vivid-taste |  
+| bip_39_word_dash_8 | banana-sick-muscle-top-chat-vivid-taste-hazard |  
+| bip_39_word_dash_9 | banana-sick-muscle-top-chat-vivid-taste-hazard-whale |  
 | bip_39_word_new_br_1 | banana |  
 | bip_39_word_new_br_10 | banana<br>sick<br>muscle<br>top<br>chat<br>vivid<br>taste<br>hazard<br>whale<br>auction |  
 | bip_39_word_new_br_11 | banana<br>sick<br>muscle<br>top<br>chat<br>vivid<br>taste<br>hazard<br>whale<br>auction<br>regret |  
@@ -147,6 +159,18 @@ whale |
 | bip_39_word_space_7 | banana sick muscle top chat vivid taste |  
 | bip_39_word_space_8 | banana sick muscle top chat vivid taste hazard |  
 | bip_39_word_space_9 | banana sick muscle top chat vivid taste hazard whale |  
+| bip_39_word_underscore_1 | banana |  
+| bip_39_word_underscore_10 | banana_sick_muscle_top_chat_vivid_taste_hazard_whale_auction |  
+| bip_39_word_underscore_11 | banana_sick_muscle_top_chat_vivid_taste_hazard_whale_auction_regret |  
+| bip_39_word_underscore_12 | banana_sick_muscle_top_chat_vivid_taste_hazard_whale_auction_regret_advance |  
+| bip_39_word_underscore_2 | banana_sick |  
+| bip_39_word_underscore_3 | banana_sick_muscle |  
+| bip_39_word_underscore_4 | banana_sick_muscle_top |  
+| bip_39_word_underscore_5 | banana_sick_muscle_top_chat |  
+| bip_39_word_underscore_6 | banana_sick_muscle_top_chat_vivid |  
+| bip_39_word_underscore_7 | banana_sick_muscle_top_chat_vivid_taste |  
+| bip_39_word_underscore_8 | banana_sick_muscle_top_chat_vivid_taste_hazard |  
+| bip_39_word_underscore_9 | banana_sick_muscle_top_chat_vivid_taste_hazard_whale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

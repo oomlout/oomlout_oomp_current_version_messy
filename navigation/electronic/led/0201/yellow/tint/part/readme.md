@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | limit |  
+| bip_39_word_dash_10 | limit-pave-jaguar-lobster-prison-crouch-lucky-picnic-invest-lens |  
+| bip_39_word_dash_11 | limit-pave-jaguar-lobster-prison-crouch-lucky-picnic-invest-lens-cross |  
+| bip_39_word_dash_12 | limit-pave-jaguar-lobster-prison-crouch-lucky-picnic-invest-lens-cross-add |  
+| bip_39_word_dash_2 | limit-pave |  
+| bip_39_word_dash_3 | limit-pave-jaguar |  
+| bip_39_word_dash_4 | limit-pave-jaguar-lobster |  
+| bip_39_word_dash_5 | limit-pave-jaguar-lobster-prison |  
+| bip_39_word_dash_6 | limit-pave-jaguar-lobster-prison-crouch |  
+| bip_39_word_dash_7 | limit-pave-jaguar-lobster-prison-crouch-lucky |  
+| bip_39_word_dash_8 | limit-pave-jaguar-lobster-prison-crouch-lucky-picnic |  
+| bip_39_word_dash_9 | limit-pave-jaguar-lobster-prison-crouch-lucky-picnic-invest |  
 | bip_39_word_new_br_1 | limit |  
 | bip_39_word_new_br_10 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic<br>invest<br>lens |  
 | bip_39_word_new_br_11 | limit<br>pave<br>jaguar<br>lobster<br>prison<br>crouch<br>lucky<br>picnic<br>invest<br>lens<br>cross |  
@@ -147,6 +159,18 @@ invest |
 | bip_39_word_space_7 | limit pave jaguar lobster prison crouch lucky |  
 | bip_39_word_space_8 | limit pave jaguar lobster prison crouch lucky picnic |  
 | bip_39_word_space_9 | limit pave jaguar lobster prison crouch lucky picnic invest |  
+| bip_39_word_underscore_1 | limit |  
+| bip_39_word_underscore_10 | limit_pave_jaguar_lobster_prison_crouch_lucky_picnic_invest_lens |  
+| bip_39_word_underscore_11 | limit_pave_jaguar_lobster_prison_crouch_lucky_picnic_invest_lens_cross |  
+| bip_39_word_underscore_12 | limit_pave_jaguar_lobster_prison_crouch_lucky_picnic_invest_lens_cross_add |  
+| bip_39_word_underscore_2 | limit_pave |  
+| bip_39_word_underscore_3 | limit_pave_jaguar |  
+| bip_39_word_underscore_4 | limit_pave_jaguar_lobster |  
+| bip_39_word_underscore_5 | limit_pave_jaguar_lobster_prison |  
+| bip_39_word_underscore_6 | limit_pave_jaguar_lobster_prison_crouch |  
+| bip_39_word_underscore_7 | limit_pave_jaguar_lobster_prison_crouch_lucky |  
+| bip_39_word_underscore_8 | limit_pave_jaguar_lobster_prison_crouch_lucky_picnic |  
+| bip_39_word_underscore_9 | limit_pave_jaguar_lobster_prison_crouch_lucky_picnic_invest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

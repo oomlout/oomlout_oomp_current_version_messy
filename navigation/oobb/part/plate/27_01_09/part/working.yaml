@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dad
+bip_39_word_dash_10: dad-custom-slogan-burger-civil-rally-bread-swallow-cook-lottery
+bip_39_word_dash_11: dad-custom-slogan-burger-civil-rally-bread-swallow-cook-lottery-goat
+bip_39_word_dash_12: dad-custom-slogan-burger-civil-rally-bread-swallow-cook-lottery-goat-absent
+bip_39_word_dash_2: dad-custom
+bip_39_word_dash_3: dad-custom-slogan
+bip_39_word_dash_4: dad-custom-slogan-burger
+bip_39_word_dash_5: dad-custom-slogan-burger-civil
+bip_39_word_dash_6: dad-custom-slogan-burger-civil-rally
+bip_39_word_dash_7: dad-custom-slogan-burger-civil-rally-bread
+bip_39_word_dash_8: dad-custom-slogan-burger-civil-rally-bread-swallow
+bip_39_word_dash_9: dad-custom-slogan-burger-civil-rally-bread-swallow-cook
 bip_39_word_new_br_1: dad
 bip_39_word_new_br_10: dad<br>custom<br>slogan<br>burger<br>civil<br>rally<br>bread<br>swallow<br>cook<br>lottery
 bip_39_word_new_br_11: dad<br>custom<br>slogan<br>burger<br>civil<br>rally<br>bread<br>swallow<br>cook<br>lottery<br>goat
@@ -193,6 +205,18 @@ bip_39_word_space_6: dad custom slogan burger civil rally
 bip_39_word_space_7: dad custom slogan burger civil rally bread
 bip_39_word_space_8: dad custom slogan burger civil rally bread swallow
 bip_39_word_space_9: dad custom slogan burger civil rally bread swallow cook
+bip_39_word_underscore_1: dad
+bip_39_word_underscore_10: dad_custom_slogan_burger_civil_rally_bread_swallow_cook_lottery
+bip_39_word_underscore_11: dad_custom_slogan_burger_civil_rally_bread_swallow_cook_lottery_goat
+bip_39_word_underscore_12: dad_custom_slogan_burger_civil_rally_bread_swallow_cook_lottery_goat_absent
+bip_39_word_underscore_2: dad_custom
+bip_39_word_underscore_3: dad_custom_slogan
+bip_39_word_underscore_4: dad_custom_slogan_burger
+bip_39_word_underscore_5: dad_custom_slogan_burger_civil
+bip_39_word_underscore_6: dad_custom_slogan_burger_civil_rally
+bip_39_word_underscore_7: dad_custom_slogan_burger_civil_rally_bread
+bip_39_word_underscore_8: dad_custom_slogan_burger_civil_rally_bread_swallow
+bip_39_word_underscore_9: dad_custom_slogan_burger_civil_rally_bread_swallow_cook
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: glue
+bip_39_word_dash_10: glue-rich-pen-jump-mixed-brief-climb-bright-reflect-shaft
+bip_39_word_dash_11: glue-rich-pen-jump-mixed-brief-climb-bright-reflect-shaft-future
+bip_39_word_dash_12: glue-rich-pen-jump-mixed-brief-climb-bright-reflect-shaft-future-analyst
+bip_39_word_dash_2: glue-rich
+bip_39_word_dash_3: glue-rich-pen
+bip_39_word_dash_4: glue-rich-pen-jump
+bip_39_word_dash_5: glue-rich-pen-jump-mixed
+bip_39_word_dash_6: glue-rich-pen-jump-mixed-brief
+bip_39_word_dash_7: glue-rich-pen-jump-mixed-brief-climb
+bip_39_word_dash_8: glue-rich-pen-jump-mixed-brief-climb-bright
+bip_39_word_dash_9: glue-rich-pen-jump-mixed-brief-climb-bright-reflect
 bip_39_word_new_br_1: glue
 bip_39_word_new_br_10: glue<br>rich<br>pen<br>jump<br>mixed<br>brief<br>climb<br>bright<br>reflect<br>shaft
 bip_39_word_new_br_11: glue<br>rich<br>pen<br>jump<br>mixed<br>brief<br>climb<br>bright<br>reflect<br>shaft<br>future
@@ -192,6 +204,18 @@ bip_39_word_space_6: glue rich pen jump mixed brief
 bip_39_word_space_7: glue rich pen jump mixed brief climb
 bip_39_word_space_8: glue rich pen jump mixed brief climb bright
 bip_39_word_space_9: glue rich pen jump mixed brief climb bright reflect
+bip_39_word_underscore_1: glue
+bip_39_word_underscore_10: glue_rich_pen_jump_mixed_brief_climb_bright_reflect_shaft
+bip_39_word_underscore_11: glue_rich_pen_jump_mixed_brief_climb_bright_reflect_shaft_future
+bip_39_word_underscore_12: glue_rich_pen_jump_mixed_brief_climb_bright_reflect_shaft_future_analyst
+bip_39_word_underscore_2: glue_rich
+bip_39_word_underscore_3: glue_rich_pen
+bip_39_word_underscore_4: glue_rich_pen_jump
+bip_39_word_underscore_5: glue_rich_pen_jump_mixed
+bip_39_word_underscore_6: glue_rich_pen_jump_mixed_brief
+bip_39_word_underscore_7: glue_rich_pen_jump_mixed_brief_climb
+bip_39_word_underscore_8: glue_rich_pen_jump_mixed_brief_climb_bright
+bip_39_word_underscore_9: glue_rich_pen_jump_mixed_brief_climb_bright_reflect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

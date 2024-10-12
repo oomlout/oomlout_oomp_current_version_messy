@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hat |  
+| bip_39_word_dash_10 | hat-swim-sun-submit-candy-stumble-asthma-text-embody-guess |  
+| bip_39_word_dash_11 | hat-swim-sun-submit-candy-stumble-asthma-text-embody-guess-vicious |  
+| bip_39_word_dash_12 | hat-swim-sun-submit-candy-stumble-asthma-text-embody-guess-vicious-annual |  
+| bip_39_word_dash_2 | hat-swim |  
+| bip_39_word_dash_3 | hat-swim-sun |  
+| bip_39_word_dash_4 | hat-swim-sun-submit |  
+| bip_39_word_dash_5 | hat-swim-sun-submit-candy |  
+| bip_39_word_dash_6 | hat-swim-sun-submit-candy-stumble |  
+| bip_39_word_dash_7 | hat-swim-sun-submit-candy-stumble-asthma |  
+| bip_39_word_dash_8 | hat-swim-sun-submit-candy-stumble-asthma-text |  
+| bip_39_word_dash_9 | hat-swim-sun-submit-candy-stumble-asthma-text-embody |  
 | bip_39_word_new_br_1 | hat |  
 | bip_39_word_new_br_10 | hat<br>swim<br>sun<br>submit<br>candy<br>stumble<br>asthma<br>text<br>embody<br>guess |  
 | bip_39_word_new_br_11 | hat<br>swim<br>sun<br>submit<br>candy<br>stumble<br>asthma<br>text<br>embody<br>guess<br>vicious |  
@@ -147,6 +159,18 @@ embody |
 | bip_39_word_space_7 | hat swim sun submit candy stumble asthma |  
 | bip_39_word_space_8 | hat swim sun submit candy stumble asthma text |  
 | bip_39_word_space_9 | hat swim sun submit candy stumble asthma text embody |  
+| bip_39_word_underscore_1 | hat |  
+| bip_39_word_underscore_10 | hat_swim_sun_submit_candy_stumble_asthma_text_embody_guess |  
+| bip_39_word_underscore_11 | hat_swim_sun_submit_candy_stumble_asthma_text_embody_guess_vicious |  
+| bip_39_word_underscore_12 | hat_swim_sun_submit_candy_stumble_asthma_text_embody_guess_vicious_annual |  
+| bip_39_word_underscore_2 | hat_swim |  
+| bip_39_word_underscore_3 | hat_swim_sun |  
+| bip_39_word_underscore_4 | hat_swim_sun_submit |  
+| bip_39_word_underscore_5 | hat_swim_sun_submit_candy |  
+| bip_39_word_underscore_6 | hat_swim_sun_submit_candy_stumble |  
+| bip_39_word_underscore_7 | hat_swim_sun_submit_candy_stumble_asthma |  
+| bip_39_word_underscore_8 | hat_swim_sun_submit_candy_stumble_asthma_text |  
+| bip_39_word_underscore_9 | hat_swim_sun_submit_candy_stumble_asthma_text_embody |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

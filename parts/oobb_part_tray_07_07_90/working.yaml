@@ -1,3 +1,15 @@
+bip_39_word_dash_1: combine
+bip_39_word_dash_10: combine-become-pepper-dynamic-train-adult-garage-gift-sponsor-rural
+bip_39_word_dash_11: combine-become-pepper-dynamic-train-adult-garage-gift-sponsor-rural-lake
+bip_39_word_dash_12: combine-become-pepper-dynamic-train-adult-garage-gift-sponsor-rural-lake-alpha
+bip_39_word_dash_2: combine-become
+bip_39_word_dash_3: combine-become-pepper
+bip_39_word_dash_4: combine-become-pepper-dynamic
+bip_39_word_dash_5: combine-become-pepper-dynamic-train
+bip_39_word_dash_6: combine-become-pepper-dynamic-train-adult
+bip_39_word_dash_7: combine-become-pepper-dynamic-train-adult-garage
+bip_39_word_dash_8: combine-become-pepper-dynamic-train-adult-garage-gift
+bip_39_word_dash_9: combine-become-pepper-dynamic-train-adult-garage-gift-sponsor
 bip_39_word_new_br_1: combine
 bip_39_word_new_br_10: combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift<br>sponsor<br>rural
 bip_39_word_new_br_11: combine<br>become<br>pepper<br>dynamic<br>train<br>adult<br>garage<br>gift<br>sponsor<br>rural<br>lake
@@ -194,6 +206,18 @@ bip_39_word_space_6: combine become pepper dynamic train adult
 bip_39_word_space_7: combine become pepper dynamic train adult garage
 bip_39_word_space_8: combine become pepper dynamic train adult garage gift
 bip_39_word_space_9: combine become pepper dynamic train adult garage gift sponsor
+bip_39_word_underscore_1: combine
+bip_39_word_underscore_10: combine_become_pepper_dynamic_train_adult_garage_gift_sponsor_rural
+bip_39_word_underscore_11: combine_become_pepper_dynamic_train_adult_garage_gift_sponsor_rural_lake
+bip_39_word_underscore_12: combine_become_pepper_dynamic_train_adult_garage_gift_sponsor_rural_lake_alpha
+bip_39_word_underscore_2: combine_become
+bip_39_word_underscore_3: combine_become_pepper
+bip_39_word_underscore_4: combine_become_pepper_dynamic
+bip_39_word_underscore_5: combine_become_pepper_dynamic_train
+bip_39_word_underscore_6: combine_become_pepper_dynamic_train_adult
+bip_39_word_underscore_7: combine_become_pepper_dynamic_train_adult_garage
+bip_39_word_underscore_8: combine_become_pepper_dynamic_train_adult_garage_gift
+bip_39_word_underscore_9: combine_become_pepper_dynamic_train_adult_garage_gift_sponsor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: room
+bip_39_word_dash_10: room-shed-box-bracket-turtle-adjust-dust-february-interest-goose
+bip_39_word_dash_11: room-shed-box-bracket-turtle-adjust-dust-february-interest-goose-various
+bip_39_word_dash_12: room-shed-box-bracket-turtle-adjust-dust-february-interest-goose-various-armed
+bip_39_word_dash_2: room-shed
+bip_39_word_dash_3: room-shed-box
+bip_39_word_dash_4: room-shed-box-bracket
+bip_39_word_dash_5: room-shed-box-bracket-turtle
+bip_39_word_dash_6: room-shed-box-bracket-turtle-adjust
+bip_39_word_dash_7: room-shed-box-bracket-turtle-adjust-dust
+bip_39_word_dash_8: room-shed-box-bracket-turtle-adjust-dust-february
+bip_39_word_dash_9: room-shed-box-bracket-turtle-adjust-dust-february-interest
 bip_39_word_new_br_1: room
 bip_39_word_new_br_10: room<br>shed<br>box<br>bracket<br>turtle<br>adjust<br>dust<br>february<br>interest<br>goose
 bip_39_word_new_br_11: room<br>shed<br>box<br>bracket<br>turtle<br>adjust<br>dust<br>february<br>interest<br>goose<br>various
@@ -193,6 +205,18 @@ bip_39_word_space_6: room shed box bracket turtle adjust
 bip_39_word_space_7: room shed box bracket turtle adjust dust
 bip_39_word_space_8: room shed box bracket turtle adjust dust february
 bip_39_word_space_9: room shed box bracket turtle adjust dust february interest
+bip_39_word_underscore_1: room
+bip_39_word_underscore_10: room_shed_box_bracket_turtle_adjust_dust_february_interest_goose
+bip_39_word_underscore_11: room_shed_box_bracket_turtle_adjust_dust_february_interest_goose_various
+bip_39_word_underscore_12: room_shed_box_bracket_turtle_adjust_dust_february_interest_goose_various_armed
+bip_39_word_underscore_2: room_shed
+bip_39_word_underscore_3: room_shed_box
+bip_39_word_underscore_4: room_shed_box_bracket
+bip_39_word_underscore_5: room_shed_box_bracket_turtle
+bip_39_word_underscore_6: room_shed_box_bracket_turtle_adjust
+bip_39_word_underscore_7: room_shed_box_bracket_turtle_adjust_dust
+bip_39_word_underscore_8: room_shed_box_bracket_turtle_adjust_dust_february
+bip_39_word_underscore_9: room_shed_box_bracket_turtle_adjust_dust_february_interest
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

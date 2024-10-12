@@ -1,3 +1,15 @@
+bip_39_word_dash_1: direct
+bip_39_word_dash_10: direct-bulk-artist-kite-mushroom-autumn-sudden-deliver-safe-galaxy
+bip_39_word_dash_11: direct-bulk-artist-kite-mushroom-autumn-sudden-deliver-safe-galaxy-orbit
+bip_39_word_dash_12: direct-bulk-artist-kite-mushroom-autumn-sudden-deliver-safe-galaxy-orbit-attack
+bip_39_word_dash_2: direct-bulk
+bip_39_word_dash_3: direct-bulk-artist
+bip_39_word_dash_4: direct-bulk-artist-kite
+bip_39_word_dash_5: direct-bulk-artist-kite-mushroom
+bip_39_word_dash_6: direct-bulk-artist-kite-mushroom-autumn
+bip_39_word_dash_7: direct-bulk-artist-kite-mushroom-autumn-sudden
+bip_39_word_dash_8: direct-bulk-artist-kite-mushroom-autumn-sudden-deliver
+bip_39_word_dash_9: direct-bulk-artist-kite-mushroom-autumn-sudden-deliver-safe
 bip_39_word_new_br_1: direct
 bip_39_word_new_br_10: direct<br>bulk<br>artist<br>kite<br>mushroom<br>autumn<br>sudden<br>deliver<br>safe<br>galaxy
 bip_39_word_new_br_11: direct<br>bulk<br>artist<br>kite<br>mushroom<br>autumn<br>sudden<br>deliver<br>safe<br>galaxy<br>orbit
@@ -194,6 +206,18 @@ bip_39_word_space_6: direct bulk artist kite mushroom autumn
 bip_39_word_space_7: direct bulk artist kite mushroom autumn sudden
 bip_39_word_space_8: direct bulk artist kite mushroom autumn sudden deliver
 bip_39_word_space_9: direct bulk artist kite mushroom autumn sudden deliver safe
+bip_39_word_underscore_1: direct
+bip_39_word_underscore_10: direct_bulk_artist_kite_mushroom_autumn_sudden_deliver_safe_galaxy
+bip_39_word_underscore_11: direct_bulk_artist_kite_mushroom_autumn_sudden_deliver_safe_galaxy_orbit
+bip_39_word_underscore_12: direct_bulk_artist_kite_mushroom_autumn_sudden_deliver_safe_galaxy_orbit_attack
+bip_39_word_underscore_2: direct_bulk
+bip_39_word_underscore_3: direct_bulk_artist
+bip_39_word_underscore_4: direct_bulk_artist_kite
+bip_39_word_underscore_5: direct_bulk_artist_kite_mushroom
+bip_39_word_underscore_6: direct_bulk_artist_kite_mushroom_autumn
+bip_39_word_underscore_7: direct_bulk_artist_kite_mushroom_autumn_sudden
+bip_39_word_underscore_8: direct_bulk_artist_kite_mushroom_autumn_sudden_deliver
+bip_39_word_underscore_9: direct_bulk_artist_kite_mushroom_autumn_sudden_deliver_safe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

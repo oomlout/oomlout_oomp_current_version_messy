@@ -1,3 +1,15 @@
+bip_39_word_dash_1: snap
+bip_39_word_dash_10: snap-have-attend-myself-hood-mandate-blur-bus-jazz-ocean
+bip_39_word_dash_11: snap-have-attend-myself-hood-mandate-blur-bus-jazz-ocean-kiwi
+bip_39_word_dash_12: snap-have-attend-myself-hood-mandate-blur-bus-jazz-ocean-kiwi-approve
+bip_39_word_dash_2: snap-have
+bip_39_word_dash_3: snap-have-attend
+bip_39_word_dash_4: snap-have-attend-myself
+bip_39_word_dash_5: snap-have-attend-myself-hood
+bip_39_word_dash_6: snap-have-attend-myself-hood-mandate
+bip_39_word_dash_7: snap-have-attend-myself-hood-mandate-blur
+bip_39_word_dash_8: snap-have-attend-myself-hood-mandate-blur-bus
+bip_39_word_dash_9: snap-have-attend-myself-hood-mandate-blur-bus-jazz
 bip_39_word_new_br_1: snap
 bip_39_word_new_br_10: snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean
 bip_39_word_new_br_11: snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean<br>kiwi
@@ -192,6 +204,18 @@ bip_39_word_space_6: snap have attend myself hood mandate
 bip_39_word_space_7: snap have attend myself hood mandate blur
 bip_39_word_space_8: snap have attend myself hood mandate blur bus
 bip_39_word_space_9: snap have attend myself hood mandate blur bus jazz
+bip_39_word_underscore_1: snap
+bip_39_word_underscore_10: snap_have_attend_myself_hood_mandate_blur_bus_jazz_ocean
+bip_39_word_underscore_11: snap_have_attend_myself_hood_mandate_blur_bus_jazz_ocean_kiwi
+bip_39_word_underscore_12: snap_have_attend_myself_hood_mandate_blur_bus_jazz_ocean_kiwi_approve
+bip_39_word_underscore_2: snap_have
+bip_39_word_underscore_3: snap_have_attend
+bip_39_word_underscore_4: snap_have_attend_myself
+bip_39_word_underscore_5: snap_have_attend_myself_hood
+bip_39_word_underscore_6: snap_have_attend_myself_hood_mandate
+bip_39_word_underscore_7: snap_have_attend_myself_hood_mandate_blur
+bip_39_word_underscore_8: snap_have_attend_myself_hood_mandate_blur_bus
+bip_39_word_underscore_9: snap_have_attend_myself_hood_mandate_blur_bus_jazz
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

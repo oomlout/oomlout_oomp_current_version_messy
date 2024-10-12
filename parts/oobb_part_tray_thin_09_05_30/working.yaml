@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rely
+bip_39_word_dash_10: rely-work-vacuum-equal-police-second-noble-escape-breeze-all
+bip_39_word_dash_11: rely-work-vacuum-equal-police-second-noble-escape-breeze-all-slow
+bip_39_word_dash_12: rely-work-vacuum-equal-police-second-noble-escape-breeze-all-slow-apple
+bip_39_word_dash_2: rely-work
+bip_39_word_dash_3: rely-work-vacuum
+bip_39_word_dash_4: rely-work-vacuum-equal
+bip_39_word_dash_5: rely-work-vacuum-equal-police
+bip_39_word_dash_6: rely-work-vacuum-equal-police-second
+bip_39_word_dash_7: rely-work-vacuum-equal-police-second-noble
+bip_39_word_dash_8: rely-work-vacuum-equal-police-second-noble-escape
+bip_39_word_dash_9: rely-work-vacuum-equal-police-second-noble-escape-breeze
 bip_39_word_new_br_1: rely
 bip_39_word_new_br_10: rely<br>work<br>vacuum<br>equal<br>police<br>second<br>noble<br>escape<br>breeze<br>all
 bip_39_word_new_br_11: rely<br>work<br>vacuum<br>equal<br>police<br>second<br>noble<br>escape<br>breeze<br>all<br>slow
@@ -193,6 +205,18 @@ bip_39_word_space_6: rely work vacuum equal police second
 bip_39_word_space_7: rely work vacuum equal police second noble
 bip_39_word_space_8: rely work vacuum equal police second noble escape
 bip_39_word_space_9: rely work vacuum equal police second noble escape breeze
+bip_39_word_underscore_1: rely
+bip_39_word_underscore_10: rely_work_vacuum_equal_police_second_noble_escape_breeze_all
+bip_39_word_underscore_11: rely_work_vacuum_equal_police_second_noble_escape_breeze_all_slow
+bip_39_word_underscore_12: rely_work_vacuum_equal_police_second_noble_escape_breeze_all_slow_apple
+bip_39_word_underscore_2: rely_work
+bip_39_word_underscore_3: rely_work_vacuum
+bip_39_word_underscore_4: rely_work_vacuum_equal
+bip_39_word_underscore_5: rely_work_vacuum_equal_police
+bip_39_word_underscore_6: rely_work_vacuum_equal_police_second
+bip_39_word_underscore_7: rely_work_vacuum_equal_police_second_noble
+bip_39_word_underscore_8: rely_work_vacuum_equal_police_second_noble_escape
+bip_39_word_underscore_9: rely_work_vacuum_equal_police_second_noble_escape_breeze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

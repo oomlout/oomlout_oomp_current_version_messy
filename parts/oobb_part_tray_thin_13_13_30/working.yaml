@@ -1,3 +1,15 @@
+bip_39_word_dash_1: main
+bip_39_word_dash_10: main-dolphin-broom-detail-glad-champion-excess-asthma-shop-audit
+bip_39_word_dash_11: main-dolphin-broom-detail-glad-champion-excess-asthma-shop-audit-cactus
+bip_39_word_dash_12: main-dolphin-broom-detail-glad-champion-excess-asthma-shop-audit-cactus-alert
+bip_39_word_dash_2: main-dolphin
+bip_39_word_dash_3: main-dolphin-broom
+bip_39_word_dash_4: main-dolphin-broom-detail
+bip_39_word_dash_5: main-dolphin-broom-detail-glad
+bip_39_word_dash_6: main-dolphin-broom-detail-glad-champion
+bip_39_word_dash_7: main-dolphin-broom-detail-glad-champion-excess
+bip_39_word_dash_8: main-dolphin-broom-detail-glad-champion-excess-asthma
+bip_39_word_dash_9: main-dolphin-broom-detail-glad-champion-excess-asthma-shop
 bip_39_word_new_br_1: main
 bip_39_word_new_br_10: main<br>dolphin<br>broom<br>detail<br>glad<br>champion<br>excess<br>asthma<br>shop<br>audit
 bip_39_word_new_br_11: main<br>dolphin<br>broom<br>detail<br>glad<br>champion<br>excess<br>asthma<br>shop<br>audit<br>cactus
@@ -193,6 +205,18 @@ bip_39_word_space_6: main dolphin broom detail glad champion
 bip_39_word_space_7: main dolphin broom detail glad champion excess
 bip_39_word_space_8: main dolphin broom detail glad champion excess asthma
 bip_39_word_space_9: main dolphin broom detail glad champion excess asthma shop
+bip_39_word_underscore_1: main
+bip_39_word_underscore_10: main_dolphin_broom_detail_glad_champion_excess_asthma_shop_audit
+bip_39_word_underscore_11: main_dolphin_broom_detail_glad_champion_excess_asthma_shop_audit_cactus
+bip_39_word_underscore_12: main_dolphin_broom_detail_glad_champion_excess_asthma_shop_audit_cactus_alert
+bip_39_word_underscore_2: main_dolphin
+bip_39_word_underscore_3: main_dolphin_broom
+bip_39_word_underscore_4: main_dolphin_broom_detail
+bip_39_word_underscore_5: main_dolphin_broom_detail_glad
+bip_39_word_underscore_6: main_dolphin_broom_detail_glad_champion
+bip_39_word_underscore_7: main_dolphin_broom_detail_glad_champion_excess
+bip_39_word_underscore_8: main_dolphin_broom_detail_glad_champion_excess_asthma
+bip_39_word_underscore_9: main_dolphin_broom_detail_glad_champion_excess_asthma_shop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

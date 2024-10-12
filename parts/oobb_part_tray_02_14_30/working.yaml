@@ -1,3 +1,15 @@
+bip_39_word_dash_1: water
+bip_39_word_dash_10: water-clump-soda-drama-wrong-negative-logic-burden-shed-mother
+bip_39_word_dash_11: water-clump-soda-drama-wrong-negative-logic-burden-shed-mother-despair
+bip_39_word_dash_12: water-clump-soda-drama-wrong-negative-logic-burden-shed-mother-despair-aspect
+bip_39_word_dash_2: water-clump
+bip_39_word_dash_3: water-clump-soda
+bip_39_word_dash_4: water-clump-soda-drama
+bip_39_word_dash_5: water-clump-soda-drama-wrong
+bip_39_word_dash_6: water-clump-soda-drama-wrong-negative
+bip_39_word_dash_7: water-clump-soda-drama-wrong-negative-logic
+bip_39_word_dash_8: water-clump-soda-drama-wrong-negative-logic-burden
+bip_39_word_dash_9: water-clump-soda-drama-wrong-negative-logic-burden-shed
 bip_39_word_new_br_1: water
 bip_39_word_new_br_10: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother
 bip_39_word_new_br_11: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother<br>despair
@@ -193,6 +205,18 @@ bip_39_word_space_6: water clump soda drama wrong negative
 bip_39_word_space_7: water clump soda drama wrong negative logic
 bip_39_word_space_8: water clump soda drama wrong negative logic burden
 bip_39_word_space_9: water clump soda drama wrong negative logic burden shed
+bip_39_word_underscore_1: water
+bip_39_word_underscore_10: water_clump_soda_drama_wrong_negative_logic_burden_shed_mother
+bip_39_word_underscore_11: water_clump_soda_drama_wrong_negative_logic_burden_shed_mother_despair
+bip_39_word_underscore_12: water_clump_soda_drama_wrong_negative_logic_burden_shed_mother_despair_aspect
+bip_39_word_underscore_2: water_clump
+bip_39_word_underscore_3: water_clump_soda
+bip_39_word_underscore_4: water_clump_soda_drama
+bip_39_word_underscore_5: water_clump_soda_drama_wrong
+bip_39_word_underscore_6: water_clump_soda_drama_wrong_negative
+bip_39_word_underscore_7: water_clump_soda_drama_wrong_negative_logic
+bip_39_word_underscore_8: water_clump_soda_drama_wrong_negative_logic_burden
+bip_39_word_underscore_9: water_clump_soda_drama_wrong_negative_logic_burden_shed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

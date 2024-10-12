@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | funny |  
+| bip_39_word_dash_10 | funny-mixed-verb-plunge-subject-hello-document-time-danger-timber |  
+| bip_39_word_dash_11 | funny-mixed-verb-plunge-subject-hello-document-time-danger-timber-token |  
+| bip_39_word_dash_12 | funny-mixed-verb-plunge-subject-hello-document-time-danger-timber-token-acquire |  
+| bip_39_word_dash_2 | funny-mixed |  
+| bip_39_word_dash_3 | funny-mixed-verb |  
+| bip_39_word_dash_4 | funny-mixed-verb-plunge |  
+| bip_39_word_dash_5 | funny-mixed-verb-plunge-subject |  
+| bip_39_word_dash_6 | funny-mixed-verb-plunge-subject-hello |  
+| bip_39_word_dash_7 | funny-mixed-verb-plunge-subject-hello-document |  
+| bip_39_word_dash_8 | funny-mixed-verb-plunge-subject-hello-document-time |  
+| bip_39_word_dash_9 | funny-mixed-verb-plunge-subject-hello-document-time-danger |  
 | bip_39_word_new_br_1 | funny |  
 | bip_39_word_new_br_10 | funny<br>mixed<br>verb<br>plunge<br>subject<br>hello<br>document<br>time<br>danger<br>timber |  
 | bip_39_word_new_br_11 | funny<br>mixed<br>verb<br>plunge<br>subject<br>hello<br>document<br>time<br>danger<br>timber<br>token |  
@@ -147,6 +159,18 @@ danger |
 | bip_39_word_space_7 | funny mixed verb plunge subject hello document |  
 | bip_39_word_space_8 | funny mixed verb plunge subject hello document time |  
 | bip_39_word_space_9 | funny mixed verb plunge subject hello document time danger |  
+| bip_39_word_underscore_1 | funny |  
+| bip_39_word_underscore_10 | funny_mixed_verb_plunge_subject_hello_document_time_danger_timber |  
+| bip_39_word_underscore_11 | funny_mixed_verb_plunge_subject_hello_document_time_danger_timber_token |  
+| bip_39_word_underscore_12 | funny_mixed_verb_plunge_subject_hello_document_time_danger_timber_token_acquire |  
+| bip_39_word_underscore_2 | funny_mixed |  
+| bip_39_word_underscore_3 | funny_mixed_verb |  
+| bip_39_word_underscore_4 | funny_mixed_verb_plunge |  
+| bip_39_word_underscore_5 | funny_mixed_verb_plunge_subject |  
+| bip_39_word_underscore_6 | funny_mixed_verb_plunge_subject_hello |  
+| bip_39_word_underscore_7 | funny_mixed_verb_plunge_subject_hello_document |  
+| bip_39_word_underscore_8 | funny_mixed_verb_plunge_subject_hello_document_time |  
+| bip_39_word_underscore_9 | funny_mixed_verb_plunge_subject_hello_document_time_danger |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

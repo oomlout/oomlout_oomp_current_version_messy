@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glove |  
+| bip_39_word_dash_10 | glove-year-hundred-boat-indoor-canvas-clog-couch-plate-method |  
+| bip_39_word_dash_11 | glove-year-hundred-boat-indoor-canvas-clog-couch-plate-method-alert |  
+| bip_39_word_dash_12 | glove-year-hundred-boat-indoor-canvas-clog-couch-plate-method-alert-afford |  
+| bip_39_word_dash_2 | glove-year |  
+| bip_39_word_dash_3 | glove-year-hundred |  
+| bip_39_word_dash_4 | glove-year-hundred-boat |  
+| bip_39_word_dash_5 | glove-year-hundred-boat-indoor |  
+| bip_39_word_dash_6 | glove-year-hundred-boat-indoor-canvas |  
+| bip_39_word_dash_7 | glove-year-hundred-boat-indoor-canvas-clog |  
+| bip_39_word_dash_8 | glove-year-hundred-boat-indoor-canvas-clog-couch |  
+| bip_39_word_dash_9 | glove-year-hundred-boat-indoor-canvas-clog-couch-plate |  
 | bip_39_word_new_br_1 | glove |  
 | bip_39_word_new_br_10 | glove<br>year<br>hundred<br>boat<br>indoor<br>canvas<br>clog<br>couch<br>plate<br>method |  
 | bip_39_word_new_br_11 | glove<br>year<br>hundred<br>boat<br>indoor<br>canvas<br>clog<br>couch<br>plate<br>method<br>alert |  
@@ -147,6 +159,18 @@ plate |
 | bip_39_word_space_7 | glove year hundred boat indoor canvas clog |  
 | bip_39_word_space_8 | glove year hundred boat indoor canvas clog couch |  
 | bip_39_word_space_9 | glove year hundred boat indoor canvas clog couch plate |  
+| bip_39_word_underscore_1 | glove |  
+| bip_39_word_underscore_10 | glove_year_hundred_boat_indoor_canvas_clog_couch_plate_method |  
+| bip_39_word_underscore_11 | glove_year_hundred_boat_indoor_canvas_clog_couch_plate_method_alert |  
+| bip_39_word_underscore_12 | glove_year_hundred_boat_indoor_canvas_clog_couch_plate_method_alert_afford |  
+| bip_39_word_underscore_2 | glove_year |  
+| bip_39_word_underscore_3 | glove_year_hundred |  
+| bip_39_word_underscore_4 | glove_year_hundred_boat |  
+| bip_39_word_underscore_5 | glove_year_hundred_boat_indoor |  
+| bip_39_word_underscore_6 | glove_year_hundred_boat_indoor_canvas |  
+| bip_39_word_underscore_7 | glove_year_hundred_boat_indoor_canvas_clog |  
+| bip_39_word_underscore_8 | glove_year_hundred_boat_indoor_canvas_clog_couch |  
+| bip_39_word_underscore_9 | glove_year_hundred_boat_indoor_canvas_clog_couch_plate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | country |  
+| bip_39_word_dash_10 | country-shine-violin-food-clinic-spider-brain-force-gentle-miracle |  
+| bip_39_word_dash_11 | country-shine-violin-food-clinic-spider-brain-force-gentle-miracle-catch |  
+| bip_39_word_dash_12 | country-shine-violin-food-clinic-spider-brain-force-gentle-miracle-catch-alarm |  
+| bip_39_word_dash_2 | country-shine |  
+| bip_39_word_dash_3 | country-shine-violin |  
+| bip_39_word_dash_4 | country-shine-violin-food |  
+| bip_39_word_dash_5 | country-shine-violin-food-clinic |  
+| bip_39_word_dash_6 | country-shine-violin-food-clinic-spider |  
+| bip_39_word_dash_7 | country-shine-violin-food-clinic-spider-brain |  
+| bip_39_word_dash_8 | country-shine-violin-food-clinic-spider-brain-force |  
+| bip_39_word_dash_9 | country-shine-violin-food-clinic-spider-brain-force-gentle |  
 | bip_39_word_new_br_1 | country |  
 | bip_39_word_new_br_10 | country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force<br>gentle<br>miracle |  
 | bip_39_word_new_br_11 | country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force<br>gentle<br>miracle<br>catch |  
@@ -147,6 +159,18 @@ gentle |
 | bip_39_word_space_7 | country shine violin food clinic spider brain |  
 | bip_39_word_space_8 | country shine violin food clinic spider brain force |  
 | bip_39_word_space_9 | country shine violin food clinic spider brain force gentle |  
+| bip_39_word_underscore_1 | country |  
+| bip_39_word_underscore_10 | country_shine_violin_food_clinic_spider_brain_force_gentle_miracle |  
+| bip_39_word_underscore_11 | country_shine_violin_food_clinic_spider_brain_force_gentle_miracle_catch |  
+| bip_39_word_underscore_12 | country_shine_violin_food_clinic_spider_brain_force_gentle_miracle_catch_alarm |  
+| bip_39_word_underscore_2 | country_shine |  
+| bip_39_word_underscore_3 | country_shine_violin |  
+| bip_39_word_underscore_4 | country_shine_violin_food |  
+| bip_39_word_underscore_5 | country_shine_violin_food_clinic |  
+| bip_39_word_underscore_6 | country_shine_violin_food_clinic_spider |  
+| bip_39_word_underscore_7 | country_shine_violin_food_clinic_spider_brain |  
+| bip_39_word_underscore_8 | country_shine_violin_food_clinic_spider_brain_force |  
+| bip_39_word_underscore_9 | country_shine_violin_food_clinic_spider_brain_force_gentle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

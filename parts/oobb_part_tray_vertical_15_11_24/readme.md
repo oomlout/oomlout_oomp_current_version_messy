@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | neglect |  
+| bip_39_word_dash_10 | neglect-valley-voice-spray-lend-exotic-beauty-ozone-mosquito-song |  
+| bip_39_word_dash_11 | neglect-valley-voice-spray-lend-exotic-beauty-ozone-mosquito-song-ancient |  
+| bip_39_word_dash_12 | neglect-valley-voice-spray-lend-exotic-beauty-ozone-mosquito-song-ancient-any |  
+| bip_39_word_dash_2 | neglect-valley |  
+| bip_39_word_dash_3 | neglect-valley-voice |  
+| bip_39_word_dash_4 | neglect-valley-voice-spray |  
+| bip_39_word_dash_5 | neglect-valley-voice-spray-lend |  
+| bip_39_word_dash_6 | neglect-valley-voice-spray-lend-exotic |  
+| bip_39_word_dash_7 | neglect-valley-voice-spray-lend-exotic-beauty |  
+| bip_39_word_dash_8 | neglect-valley-voice-spray-lend-exotic-beauty-ozone |  
+| bip_39_word_dash_9 | neglect-valley-voice-spray-lend-exotic-beauty-ozone-mosquito |  
 | bip_39_word_new_br_1 | neglect |  
 | bip_39_word_new_br_10 | neglect<br>valley<br>voice<br>spray<br>lend<br>exotic<br>beauty<br>ozone<br>mosquito<br>song |  
 | bip_39_word_new_br_11 | neglect<br>valley<br>voice<br>spray<br>lend<br>exotic<br>beauty<br>ozone<br>mosquito<br>song<br>ancient |  
@@ -147,6 +159,18 @@ mosquito |
 | bip_39_word_space_7 | neglect valley voice spray lend exotic beauty |  
 | bip_39_word_space_8 | neglect valley voice spray lend exotic beauty ozone |  
 | bip_39_word_space_9 | neglect valley voice spray lend exotic beauty ozone mosquito |  
+| bip_39_word_underscore_1 | neglect |  
+| bip_39_word_underscore_10 | neglect_valley_voice_spray_lend_exotic_beauty_ozone_mosquito_song |  
+| bip_39_word_underscore_11 | neglect_valley_voice_spray_lend_exotic_beauty_ozone_mosquito_song_ancient |  
+| bip_39_word_underscore_12 | neglect_valley_voice_spray_lend_exotic_beauty_ozone_mosquito_song_ancient_any |  
+| bip_39_word_underscore_2 | neglect_valley |  
+| bip_39_word_underscore_3 | neglect_valley_voice |  
+| bip_39_word_underscore_4 | neglect_valley_voice_spray |  
+| bip_39_word_underscore_5 | neglect_valley_voice_spray_lend |  
+| bip_39_word_underscore_6 | neglect_valley_voice_spray_lend_exotic |  
+| bip_39_word_underscore_7 | neglect_valley_voice_spray_lend_exotic_beauty |  
+| bip_39_word_underscore_8 | neglect_valley_voice_spray_lend_exotic_beauty_ozone |  
+| bip_39_word_underscore_9 | neglect_valley_voice_spray_lend_exotic_beauty_ozone_mosquito |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

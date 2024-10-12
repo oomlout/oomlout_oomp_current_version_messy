@@ -1,3 +1,15 @@
+bip_39_word_dash_1: forget
+bip_39_word_dash_10: forget-evolve-benefit-session-chalk-vessel-end-weekend-smile-mirror
+bip_39_word_dash_11: forget-evolve-benefit-session-chalk-vessel-end-weekend-smile-mirror-girl
+bip_39_word_dash_12: forget-evolve-benefit-session-chalk-vessel-end-weekend-smile-mirror-girl-aisle
+bip_39_word_dash_2: forget-evolve
+bip_39_word_dash_3: forget-evolve-benefit
+bip_39_word_dash_4: forget-evolve-benefit-session
+bip_39_word_dash_5: forget-evolve-benefit-session-chalk
+bip_39_word_dash_6: forget-evolve-benefit-session-chalk-vessel
+bip_39_word_dash_7: forget-evolve-benefit-session-chalk-vessel-end
+bip_39_word_dash_8: forget-evolve-benefit-session-chalk-vessel-end-weekend
+bip_39_word_dash_9: forget-evolve-benefit-session-chalk-vessel-end-weekend-smile
 bip_39_word_new_br_1: forget
 bip_39_word_new_br_10: forget<br>evolve<br>benefit<br>session<br>chalk<br>vessel<br>end<br>weekend<br>smile<br>mirror
 bip_39_word_new_br_11: forget<br>evolve<br>benefit<br>session<br>chalk<br>vessel<br>end<br>weekend<br>smile<br>mirror<br>girl
@@ -194,6 +206,18 @@ bip_39_word_space_6: forget evolve benefit session chalk vessel
 bip_39_word_space_7: forget evolve benefit session chalk vessel end
 bip_39_word_space_8: forget evolve benefit session chalk vessel end weekend
 bip_39_word_space_9: forget evolve benefit session chalk vessel end weekend smile
+bip_39_word_underscore_1: forget
+bip_39_word_underscore_10: forget_evolve_benefit_session_chalk_vessel_end_weekend_smile_mirror
+bip_39_word_underscore_11: forget_evolve_benefit_session_chalk_vessel_end_weekend_smile_mirror_girl
+bip_39_word_underscore_12: forget_evolve_benefit_session_chalk_vessel_end_weekend_smile_mirror_girl_aisle
+bip_39_word_underscore_2: forget_evolve
+bip_39_word_underscore_3: forget_evolve_benefit
+bip_39_word_underscore_4: forget_evolve_benefit_session
+bip_39_word_underscore_5: forget_evolve_benefit_session_chalk
+bip_39_word_underscore_6: forget_evolve_benefit_session_chalk_vessel
+bip_39_word_underscore_7: forget_evolve_benefit_session_chalk_vessel_end
+bip_39_word_underscore_8: forget_evolve_benefit_session_chalk_vessel_end_weekend
+bip_39_word_underscore_9: forget_evolve_benefit_session_chalk_vessel_end_weekend_smile
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

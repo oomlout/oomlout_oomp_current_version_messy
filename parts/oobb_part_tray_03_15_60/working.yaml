@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sand
+bip_39_word_dash_10: sand-embrace-surge-title-valid-theme-melt-resource-flee-seek
+bip_39_word_dash_11: sand-embrace-surge-title-valid-theme-melt-resource-flee-seek-peasant
+bip_39_word_dash_12: sand-embrace-surge-title-valid-theme-melt-resource-flee-seek-peasant-assault
+bip_39_word_dash_2: sand-embrace
+bip_39_word_dash_3: sand-embrace-surge
+bip_39_word_dash_4: sand-embrace-surge-title
+bip_39_word_dash_5: sand-embrace-surge-title-valid
+bip_39_word_dash_6: sand-embrace-surge-title-valid-theme
+bip_39_word_dash_7: sand-embrace-surge-title-valid-theme-melt
+bip_39_word_dash_8: sand-embrace-surge-title-valid-theme-melt-resource
+bip_39_word_dash_9: sand-embrace-surge-title-valid-theme-melt-resource-flee
 bip_39_word_new_br_1: sand
 bip_39_word_new_br_10: sand<br>embrace<br>surge<br>title<br>valid<br>theme<br>melt<br>resource<br>flee<br>seek
 bip_39_word_new_br_11: sand<br>embrace<br>surge<br>title<br>valid<br>theme<br>melt<br>resource<br>flee<br>seek<br>peasant
@@ -193,6 +205,18 @@ bip_39_word_space_6: sand embrace surge title valid theme
 bip_39_word_space_7: sand embrace surge title valid theme melt
 bip_39_word_space_8: sand embrace surge title valid theme melt resource
 bip_39_word_space_9: sand embrace surge title valid theme melt resource flee
+bip_39_word_underscore_1: sand
+bip_39_word_underscore_10: sand_embrace_surge_title_valid_theme_melt_resource_flee_seek
+bip_39_word_underscore_11: sand_embrace_surge_title_valid_theme_melt_resource_flee_seek_peasant
+bip_39_word_underscore_12: sand_embrace_surge_title_valid_theme_melt_resource_flee_seek_peasant_assault
+bip_39_word_underscore_2: sand_embrace
+bip_39_word_underscore_3: sand_embrace_surge
+bip_39_word_underscore_4: sand_embrace_surge_title
+bip_39_word_underscore_5: sand_embrace_surge_title_valid
+bip_39_word_underscore_6: sand_embrace_surge_title_valid_theme
+bip_39_word_underscore_7: sand_embrace_surge_title_valid_theme_melt
+bip_39_word_underscore_8: sand_embrace_surge_title_valid_theme_melt_resource
+bip_39_word_underscore_9: sand_embrace_surge_title_valid_theme_melt_resource_flee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

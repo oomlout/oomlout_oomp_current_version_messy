@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hour |  
+| bip_39_word_dash_10 | hour-birth-kitten-goose-antenna-embody-neither-attend-empower-elder |  
+| bip_39_word_dash_11 | hour-birth-kitten-goose-antenna-embody-neither-attend-empower-elder-settle |  
+| bip_39_word_dash_12 | hour-birth-kitten-goose-antenna-embody-neither-attend-empower-elder-settle-alien |  
+| bip_39_word_dash_2 | hour-birth |  
+| bip_39_word_dash_3 | hour-birth-kitten |  
+| bip_39_word_dash_4 | hour-birth-kitten-goose |  
+| bip_39_word_dash_5 | hour-birth-kitten-goose-antenna |  
+| bip_39_word_dash_6 | hour-birth-kitten-goose-antenna-embody |  
+| bip_39_word_dash_7 | hour-birth-kitten-goose-antenna-embody-neither |  
+| bip_39_word_dash_8 | hour-birth-kitten-goose-antenna-embody-neither-attend |  
+| bip_39_word_dash_9 | hour-birth-kitten-goose-antenna-embody-neither-attend-empower |  
 | bip_39_word_new_br_1 | hour |  
 | bip_39_word_new_br_10 | hour<br>birth<br>kitten<br>goose<br>antenna<br>embody<br>neither<br>attend<br>empower<br>elder |  
 | bip_39_word_new_br_11 | hour<br>birth<br>kitten<br>goose<br>antenna<br>embody<br>neither<br>attend<br>empower<br>elder<br>settle |  
@@ -147,6 +159,18 @@ empower |
 | bip_39_word_space_7 | hour birth kitten goose antenna embody neither |  
 | bip_39_word_space_8 | hour birth kitten goose antenna embody neither attend |  
 | bip_39_word_space_9 | hour birth kitten goose antenna embody neither attend empower |  
+| bip_39_word_underscore_1 | hour |  
+| bip_39_word_underscore_10 | hour_birth_kitten_goose_antenna_embody_neither_attend_empower_elder |  
+| bip_39_word_underscore_11 | hour_birth_kitten_goose_antenna_embody_neither_attend_empower_elder_settle |  
+| bip_39_word_underscore_12 | hour_birth_kitten_goose_antenna_embody_neither_attend_empower_elder_settle_alien |  
+| bip_39_word_underscore_2 | hour_birth |  
+| bip_39_word_underscore_3 | hour_birth_kitten |  
+| bip_39_word_underscore_4 | hour_birth_kitten_goose |  
+| bip_39_word_underscore_5 | hour_birth_kitten_goose_antenna |  
+| bip_39_word_underscore_6 | hour_birth_kitten_goose_antenna_embody |  
+| bip_39_word_underscore_7 | hour_birth_kitten_goose_antenna_embody_neither |  
+| bip_39_word_underscore_8 | hour_birth_kitten_goose_antenna_embody_neither_attend |  
+| bip_39_word_underscore_9 | hour_birth_kitten_goose_antenna_embody_neither_attend_empower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rebuild
+bip_39_word_dash_10: rebuild-clog-cruise-gentle-cook-midnight-mistake-swap-finish-cart
+bip_39_word_dash_11: rebuild-clog-cruise-gentle-cook-midnight-mistake-swap-finish-cart-office
+bip_39_word_dash_12: rebuild-clog-cruise-gentle-cook-midnight-mistake-swap-finish-cart-office-antenna
+bip_39_word_dash_2: rebuild-clog
+bip_39_word_dash_3: rebuild-clog-cruise
+bip_39_word_dash_4: rebuild-clog-cruise-gentle
+bip_39_word_dash_5: rebuild-clog-cruise-gentle-cook
+bip_39_word_dash_6: rebuild-clog-cruise-gentle-cook-midnight
+bip_39_word_dash_7: rebuild-clog-cruise-gentle-cook-midnight-mistake
+bip_39_word_dash_8: rebuild-clog-cruise-gentle-cook-midnight-mistake-swap
+bip_39_word_dash_9: rebuild-clog-cruise-gentle-cook-midnight-mistake-swap-finish
 bip_39_word_new_br_1: rebuild
 bip_39_word_new_br_10: rebuild<br>clog<br>cruise<br>gentle<br>cook<br>midnight<br>mistake<br>swap<br>finish<br>cart
 bip_39_word_new_br_11: rebuild<br>clog<br>cruise<br>gentle<br>cook<br>midnight<br>mistake<br>swap<br>finish<br>cart<br>office
@@ -194,6 +206,18 @@ bip_39_word_space_6: rebuild clog cruise gentle cook midnight
 bip_39_word_space_7: rebuild clog cruise gentle cook midnight mistake
 bip_39_word_space_8: rebuild clog cruise gentle cook midnight mistake swap
 bip_39_word_space_9: rebuild clog cruise gentle cook midnight mistake swap finish
+bip_39_word_underscore_1: rebuild
+bip_39_word_underscore_10: rebuild_clog_cruise_gentle_cook_midnight_mistake_swap_finish_cart
+bip_39_word_underscore_11: rebuild_clog_cruise_gentle_cook_midnight_mistake_swap_finish_cart_office
+bip_39_word_underscore_12: rebuild_clog_cruise_gentle_cook_midnight_mistake_swap_finish_cart_office_antenna
+bip_39_word_underscore_2: rebuild_clog
+bip_39_word_underscore_3: rebuild_clog_cruise
+bip_39_word_underscore_4: rebuild_clog_cruise_gentle
+bip_39_word_underscore_5: rebuild_clog_cruise_gentle_cook
+bip_39_word_underscore_6: rebuild_clog_cruise_gentle_cook_midnight
+bip_39_word_underscore_7: rebuild_clog_cruise_gentle_cook_midnight_mistake
+bip_39_word_underscore_8: rebuild_clog_cruise_gentle_cook_midnight_mistake_swap
+bip_39_word_underscore_9: rebuild_clog_cruise_gentle_cook_midnight_mistake_swap_finish
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

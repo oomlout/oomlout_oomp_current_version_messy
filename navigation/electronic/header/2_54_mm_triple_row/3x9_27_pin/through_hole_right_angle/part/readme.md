@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | attitude |  
+| bip_39_word_dash_10 | attitude-dune-very-office-legal-adjust-require-ticket-staff-unknown |  
+| bip_39_word_dash_11 | attitude-dune-very-office-legal-adjust-require-ticket-staff-unknown-wheat |  
+| bip_39_word_dash_12 | attitude-dune-very-office-legal-adjust-require-ticket-staff-unknown-wheat-all |  
+| bip_39_word_dash_2 | attitude-dune |  
+| bip_39_word_dash_3 | attitude-dune-very |  
+| bip_39_word_dash_4 | attitude-dune-very-office |  
+| bip_39_word_dash_5 | attitude-dune-very-office-legal |  
+| bip_39_word_dash_6 | attitude-dune-very-office-legal-adjust |  
+| bip_39_word_dash_7 | attitude-dune-very-office-legal-adjust-require |  
+| bip_39_word_dash_8 | attitude-dune-very-office-legal-adjust-require-ticket |  
+| bip_39_word_dash_9 | attitude-dune-very-office-legal-adjust-require-ticket-staff |  
 | bip_39_word_new_br_1 | attitude |  
 | bip_39_word_new_br_10 | attitude<br>dune<br>very<br>office<br>legal<br>adjust<br>require<br>ticket<br>staff<br>unknown |  
 | bip_39_word_new_br_11 | attitude<br>dune<br>very<br>office<br>legal<br>adjust<br>require<br>ticket<br>staff<br>unknown<br>wheat |  
@@ -147,6 +159,18 @@ staff |
 | bip_39_word_space_7 | attitude dune very office legal adjust require |  
 | bip_39_word_space_8 | attitude dune very office legal adjust require ticket |  
 | bip_39_word_space_9 | attitude dune very office legal adjust require ticket staff |  
+| bip_39_word_underscore_1 | attitude |  
+| bip_39_word_underscore_10 | attitude_dune_very_office_legal_adjust_require_ticket_staff_unknown |  
+| bip_39_word_underscore_11 | attitude_dune_very_office_legal_adjust_require_ticket_staff_unknown_wheat |  
+| bip_39_word_underscore_12 | attitude_dune_very_office_legal_adjust_require_ticket_staff_unknown_wheat_all |  
+| bip_39_word_underscore_2 | attitude_dune |  
+| bip_39_word_underscore_3 | attitude_dune_very |  
+| bip_39_word_underscore_4 | attitude_dune_very_office |  
+| bip_39_word_underscore_5 | attitude_dune_very_office_legal |  
+| bip_39_word_underscore_6 | attitude_dune_very_office_legal_adjust |  
+| bip_39_word_underscore_7 | attitude_dune_very_office_legal_adjust_require |  
+| bip_39_word_underscore_8 | attitude_dune_very_office_legal_adjust_require_ticket |  
+| bip_39_word_underscore_9 | attitude_dune_very_office_legal_adjust_require_ticket_staff |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

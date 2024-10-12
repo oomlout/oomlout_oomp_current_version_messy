@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | canoe |  
+| bip_39_word_dash_10 | canoe-diesel-world-hand-actual-parade-reason-acoustic-fiber-decorate |  
+| bip_39_word_dash_11 | canoe-diesel-world-hand-actual-parade-reason-acoustic-fiber-decorate-between |  
+| bip_39_word_dash_12 | canoe-diesel-world-hand-actual-parade-reason-acoustic-fiber-decorate-between-addict |  
+| bip_39_word_dash_2 | canoe-diesel |  
+| bip_39_word_dash_3 | canoe-diesel-world |  
+| bip_39_word_dash_4 | canoe-diesel-world-hand |  
+| bip_39_word_dash_5 | canoe-diesel-world-hand-actual |  
+| bip_39_word_dash_6 | canoe-diesel-world-hand-actual-parade |  
+| bip_39_word_dash_7 | canoe-diesel-world-hand-actual-parade-reason |  
+| bip_39_word_dash_8 | canoe-diesel-world-hand-actual-parade-reason-acoustic |  
+| bip_39_word_dash_9 | canoe-diesel-world-hand-actual-parade-reason-acoustic-fiber |  
 | bip_39_word_new_br_1 | canoe |  
 | bip_39_word_new_br_10 | canoe<br>diesel<br>world<br>hand<br>actual<br>parade<br>reason<br>acoustic<br>fiber<br>decorate |  
 | bip_39_word_new_br_11 | canoe<br>diesel<br>world<br>hand<br>actual<br>parade<br>reason<br>acoustic<br>fiber<br>decorate<br>between |  
@@ -147,6 +159,18 @@ fiber |
 | bip_39_word_space_7 | canoe diesel world hand actual parade reason |  
 | bip_39_word_space_8 | canoe diesel world hand actual parade reason acoustic |  
 | bip_39_word_space_9 | canoe diesel world hand actual parade reason acoustic fiber |  
+| bip_39_word_underscore_1 | canoe |  
+| bip_39_word_underscore_10 | canoe_diesel_world_hand_actual_parade_reason_acoustic_fiber_decorate |  
+| bip_39_word_underscore_11 | canoe_diesel_world_hand_actual_parade_reason_acoustic_fiber_decorate_between |  
+| bip_39_word_underscore_12 | canoe_diesel_world_hand_actual_parade_reason_acoustic_fiber_decorate_between_addict |  
+| bip_39_word_underscore_2 | canoe_diesel |  
+| bip_39_word_underscore_3 | canoe_diesel_world |  
+| bip_39_word_underscore_4 | canoe_diesel_world_hand |  
+| bip_39_word_underscore_5 | canoe_diesel_world_hand_actual |  
+| bip_39_word_underscore_6 | canoe_diesel_world_hand_actual_parade |  
+| bip_39_word_underscore_7 | canoe_diesel_world_hand_actual_parade_reason |  
+| bip_39_word_underscore_8 | canoe_diesel_world_hand_actual_parade_reason_acoustic |  
+| bip_39_word_underscore_9 | canoe_diesel_world_hand_actual_parade_reason_acoustic_fiber |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

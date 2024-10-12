@@ -1,3 +1,15 @@
+bip_39_word_dash_1: salon
+bip_39_word_dash_10: salon-chimney-foil-color-chief-pony-satoshi-there-off-poverty
+bip_39_word_dash_11: salon-chimney-foil-color-chief-pony-satoshi-there-off-poverty-misery
+bip_39_word_dash_12: salon-chimney-foil-color-chief-pony-satoshi-there-off-poverty-misery-allow
+bip_39_word_dash_2: salon-chimney
+bip_39_word_dash_3: salon-chimney-foil
+bip_39_word_dash_4: salon-chimney-foil-color
+bip_39_word_dash_5: salon-chimney-foil-color-chief
+bip_39_word_dash_6: salon-chimney-foil-color-chief-pony
+bip_39_word_dash_7: salon-chimney-foil-color-chief-pony-satoshi
+bip_39_word_dash_8: salon-chimney-foil-color-chief-pony-satoshi-there
+bip_39_word_dash_9: salon-chimney-foil-color-chief-pony-satoshi-there-off
 bip_39_word_new_br_1: salon
 bip_39_word_new_br_10: salon<br>chimney<br>foil<br>color<br>chief<br>pony<br>satoshi<br>there<br>off<br>poverty
 bip_39_word_new_br_11: salon<br>chimney<br>foil<br>color<br>chief<br>pony<br>satoshi<br>there<br>off<br>poverty<br>misery
@@ -193,6 +205,18 @@ bip_39_word_space_6: salon chimney foil color chief pony
 bip_39_word_space_7: salon chimney foil color chief pony satoshi
 bip_39_word_space_8: salon chimney foil color chief pony satoshi there
 bip_39_word_space_9: salon chimney foil color chief pony satoshi there off
+bip_39_word_underscore_1: salon
+bip_39_word_underscore_10: salon_chimney_foil_color_chief_pony_satoshi_there_off_poverty
+bip_39_word_underscore_11: salon_chimney_foil_color_chief_pony_satoshi_there_off_poverty_misery
+bip_39_word_underscore_12: salon_chimney_foil_color_chief_pony_satoshi_there_off_poverty_misery_allow
+bip_39_word_underscore_2: salon_chimney
+bip_39_word_underscore_3: salon_chimney_foil
+bip_39_word_underscore_4: salon_chimney_foil_color
+bip_39_word_underscore_5: salon_chimney_foil_color_chief
+bip_39_word_underscore_6: salon_chimney_foil_color_chief_pony
+bip_39_word_underscore_7: salon_chimney_foil_color_chief_pony_satoshi
+bip_39_word_underscore_8: salon_chimney_foil_color_chief_pony_satoshi_there
+bip_39_word_underscore_9: salon_chimney_foil_color_chief_pony_satoshi_there_off
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

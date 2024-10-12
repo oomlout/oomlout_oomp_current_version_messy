@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lecture |  
+| bip_39_word_dash_10 | lecture-stamp-cup-absent-hobby-joy-casual-when-fox-grass |  
+| bip_39_word_dash_11 | lecture-stamp-cup-absent-hobby-joy-casual-when-fox-grass-want |  
+| bip_39_word_dash_12 | lecture-stamp-cup-absent-hobby-joy-casual-when-fox-grass-want-album |  
+| bip_39_word_dash_2 | lecture-stamp |  
+| bip_39_word_dash_3 | lecture-stamp-cup |  
+| bip_39_word_dash_4 | lecture-stamp-cup-absent |  
+| bip_39_word_dash_5 | lecture-stamp-cup-absent-hobby |  
+| bip_39_word_dash_6 | lecture-stamp-cup-absent-hobby-joy |  
+| bip_39_word_dash_7 | lecture-stamp-cup-absent-hobby-joy-casual |  
+| bip_39_word_dash_8 | lecture-stamp-cup-absent-hobby-joy-casual-when |  
+| bip_39_word_dash_9 | lecture-stamp-cup-absent-hobby-joy-casual-when-fox |  
 | bip_39_word_new_br_1 | lecture |  
 | bip_39_word_new_br_10 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when<br>fox<br>grass |  
 | bip_39_word_new_br_11 | lecture<br>stamp<br>cup<br>absent<br>hobby<br>joy<br>casual<br>when<br>fox<br>grass<br>want |  
@@ -147,6 +159,18 @@ fox |
 | bip_39_word_space_7 | lecture stamp cup absent hobby joy casual |  
 | bip_39_word_space_8 | lecture stamp cup absent hobby joy casual when |  
 | bip_39_word_space_9 | lecture stamp cup absent hobby joy casual when fox |  
+| bip_39_word_underscore_1 | lecture |  
+| bip_39_word_underscore_10 | lecture_stamp_cup_absent_hobby_joy_casual_when_fox_grass |  
+| bip_39_word_underscore_11 | lecture_stamp_cup_absent_hobby_joy_casual_when_fox_grass_want |  
+| bip_39_word_underscore_12 | lecture_stamp_cup_absent_hobby_joy_casual_when_fox_grass_want_album |  
+| bip_39_word_underscore_2 | lecture_stamp |  
+| bip_39_word_underscore_3 | lecture_stamp_cup |  
+| bip_39_word_underscore_4 | lecture_stamp_cup_absent |  
+| bip_39_word_underscore_5 | lecture_stamp_cup_absent_hobby |  
+| bip_39_word_underscore_6 | lecture_stamp_cup_absent_hobby_joy |  
+| bip_39_word_underscore_7 | lecture_stamp_cup_absent_hobby_joy_casual |  
+| bip_39_word_underscore_8 | lecture_stamp_cup_absent_hobby_joy_casual_when |  
+| bip_39_word_underscore_9 | lecture_stamp_cup_absent_hobby_joy_casual_when_fox |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

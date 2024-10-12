@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | magnet |  
+| bip_39_word_dash_10 | magnet-lake-ordinary-half-sister-sadness-rose-foil-despair-glory |  
+| bip_39_word_dash_11 | magnet-lake-ordinary-half-sister-sadness-rose-foil-despair-glory-company |  
+| bip_39_word_dash_12 | magnet-lake-ordinary-half-sister-sadness-rose-foil-despair-glory-company-avocado |  
+| bip_39_word_dash_2 | magnet-lake |  
+| bip_39_word_dash_3 | magnet-lake-ordinary |  
+| bip_39_word_dash_4 | magnet-lake-ordinary-half |  
+| bip_39_word_dash_5 | magnet-lake-ordinary-half-sister |  
+| bip_39_word_dash_6 | magnet-lake-ordinary-half-sister-sadness |  
+| bip_39_word_dash_7 | magnet-lake-ordinary-half-sister-sadness-rose |  
+| bip_39_word_dash_8 | magnet-lake-ordinary-half-sister-sadness-rose-foil |  
+| bip_39_word_dash_9 | magnet-lake-ordinary-half-sister-sadness-rose-foil-despair |  
 | bip_39_word_new_br_1 | magnet |  
 | bip_39_word_new_br_10 | magnet<br>lake<br>ordinary<br>half<br>sister<br>sadness<br>rose<br>foil<br>despair<br>glory |  
 | bip_39_word_new_br_11 | magnet<br>lake<br>ordinary<br>half<br>sister<br>sadness<br>rose<br>foil<br>despair<br>glory<br>company |  
@@ -147,6 +159,18 @@ despair |
 | bip_39_word_space_7 | magnet lake ordinary half sister sadness rose |  
 | bip_39_word_space_8 | magnet lake ordinary half sister sadness rose foil |  
 | bip_39_word_space_9 | magnet lake ordinary half sister sadness rose foil despair |  
+| bip_39_word_underscore_1 | magnet |  
+| bip_39_word_underscore_10 | magnet_lake_ordinary_half_sister_sadness_rose_foil_despair_glory |  
+| bip_39_word_underscore_11 | magnet_lake_ordinary_half_sister_sadness_rose_foil_despair_glory_company |  
+| bip_39_word_underscore_12 | magnet_lake_ordinary_half_sister_sadness_rose_foil_despair_glory_company_avocado |  
+| bip_39_word_underscore_2 | magnet_lake |  
+| bip_39_word_underscore_3 | magnet_lake_ordinary |  
+| bip_39_word_underscore_4 | magnet_lake_ordinary_half |  
+| bip_39_word_underscore_5 | magnet_lake_ordinary_half_sister |  
+| bip_39_word_underscore_6 | magnet_lake_ordinary_half_sister_sadness |  
+| bip_39_word_underscore_7 | magnet_lake_ordinary_half_sister_sadness_rose |  
+| bip_39_word_underscore_8 | magnet_lake_ordinary_half_sister_sadness_rose_foil |  
+| bip_39_word_underscore_9 | magnet_lake_ordinary_half_sister_sadness_rose_foil_despair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: maple
+bip_39_word_dash_10: maple-stairs-march-lawsuit-grab-rib-cabbage-pledge-fiscal-island
+bip_39_word_dash_11: maple-stairs-march-lawsuit-grab-rib-cabbage-pledge-fiscal-island-convince
+bip_39_word_dash_12: maple-stairs-march-lawsuit-grab-rib-cabbage-pledge-fiscal-island-convince-auto
+bip_39_word_dash_2: maple-stairs
+bip_39_word_dash_3: maple-stairs-march
+bip_39_word_dash_4: maple-stairs-march-lawsuit
+bip_39_word_dash_5: maple-stairs-march-lawsuit-grab
+bip_39_word_dash_6: maple-stairs-march-lawsuit-grab-rib
+bip_39_word_dash_7: maple-stairs-march-lawsuit-grab-rib-cabbage
+bip_39_word_dash_8: maple-stairs-march-lawsuit-grab-rib-cabbage-pledge
+bip_39_word_dash_9: maple-stairs-march-lawsuit-grab-rib-cabbage-pledge-fiscal
 bip_39_word_new_br_1: maple
 bip_39_word_new_br_10: maple<br>stairs<br>march<br>lawsuit<br>grab<br>rib<br>cabbage<br>pledge<br>fiscal<br>island
 bip_39_word_new_br_11: maple<br>stairs<br>march<br>lawsuit<br>grab<br>rib<br>cabbage<br>pledge<br>fiscal<br>island<br>convince
@@ -193,6 +205,18 @@ bip_39_word_space_6: maple stairs march lawsuit grab rib
 bip_39_word_space_7: maple stairs march lawsuit grab rib cabbage
 bip_39_word_space_8: maple stairs march lawsuit grab rib cabbage pledge
 bip_39_word_space_9: maple stairs march lawsuit grab rib cabbage pledge fiscal
+bip_39_word_underscore_1: maple
+bip_39_word_underscore_10: maple_stairs_march_lawsuit_grab_rib_cabbage_pledge_fiscal_island
+bip_39_word_underscore_11: maple_stairs_march_lawsuit_grab_rib_cabbage_pledge_fiscal_island_convince
+bip_39_word_underscore_12: maple_stairs_march_lawsuit_grab_rib_cabbage_pledge_fiscal_island_convince_auto
+bip_39_word_underscore_2: maple_stairs
+bip_39_word_underscore_3: maple_stairs_march
+bip_39_word_underscore_4: maple_stairs_march_lawsuit
+bip_39_word_underscore_5: maple_stairs_march_lawsuit_grab
+bip_39_word_underscore_6: maple_stairs_march_lawsuit_grab_rib
+bip_39_word_underscore_7: maple_stairs_march_lawsuit_grab_rib_cabbage
+bip_39_word_underscore_8: maple_stairs_march_lawsuit_grab_rib_cabbage_pledge
+bip_39_word_underscore_9: maple_stairs_march_lawsuit_grab_rib_cabbage_pledge_fiscal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

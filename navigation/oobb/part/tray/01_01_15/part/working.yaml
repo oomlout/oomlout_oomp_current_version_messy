@@ -1,3 +1,15 @@
+bip_39_word_dash_1: local
+bip_39_word_dash_10: local-bonus-problem-boss-dismiss-valley-armor-advance-bullet-certain
+bip_39_word_dash_11: local-bonus-problem-boss-dismiss-valley-armor-advance-bullet-certain-book
+bip_39_word_dash_12: local-bonus-problem-boss-dismiss-valley-armor-advance-bullet-certain-book-affair
+bip_39_word_dash_2: local-bonus
+bip_39_word_dash_3: local-bonus-problem
+bip_39_word_dash_4: local-bonus-problem-boss
+bip_39_word_dash_5: local-bonus-problem-boss-dismiss
+bip_39_word_dash_6: local-bonus-problem-boss-dismiss-valley
+bip_39_word_dash_7: local-bonus-problem-boss-dismiss-valley-armor
+bip_39_word_dash_8: local-bonus-problem-boss-dismiss-valley-armor-advance
+bip_39_word_dash_9: local-bonus-problem-boss-dismiss-valley-armor-advance-bullet
 bip_39_word_new_br_1: local
 bip_39_word_new_br_10: local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain
 bip_39_word_new_br_11: local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain<br>book
@@ -194,6 +206,18 @@ bip_39_word_space_6: local bonus problem boss dismiss valley
 bip_39_word_space_7: local bonus problem boss dismiss valley armor
 bip_39_word_space_8: local bonus problem boss dismiss valley armor advance
 bip_39_word_space_9: local bonus problem boss dismiss valley armor advance bullet
+bip_39_word_underscore_1: local
+bip_39_word_underscore_10: local_bonus_problem_boss_dismiss_valley_armor_advance_bullet_certain
+bip_39_word_underscore_11: local_bonus_problem_boss_dismiss_valley_armor_advance_bullet_certain_book
+bip_39_word_underscore_12: local_bonus_problem_boss_dismiss_valley_armor_advance_bullet_certain_book_affair
+bip_39_word_underscore_2: local_bonus
+bip_39_word_underscore_3: local_bonus_problem
+bip_39_word_underscore_4: local_bonus_problem_boss
+bip_39_word_underscore_5: local_bonus_problem_boss_dismiss
+bip_39_word_underscore_6: local_bonus_problem_boss_dismiss_valley
+bip_39_word_underscore_7: local_bonus_problem_boss_dismiss_valley_armor
+bip_39_word_underscore_8: local_bonus_problem_boss_dismiss_valley_armor_advance
+bip_39_word_underscore_9: local_bonus_problem_boss_dismiss_valley_armor_advance_bullet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

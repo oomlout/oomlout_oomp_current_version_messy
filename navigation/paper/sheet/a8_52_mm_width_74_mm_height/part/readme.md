@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | number |  
+| bip_39_word_dash_10 | number-inmate-feature-hello-radio-bread-matter-guilt-squirrel-balcony |  
+| bip_39_word_dash_11 | number-inmate-feature-hello-radio-bread-matter-guilt-squirrel-balcony-must |  
+| bip_39_word_dash_12 | number-inmate-feature-hello-radio-bread-matter-guilt-squirrel-balcony-must-antenna |  
+| bip_39_word_dash_2 | number-inmate |  
+| bip_39_word_dash_3 | number-inmate-feature |  
+| bip_39_word_dash_4 | number-inmate-feature-hello |  
+| bip_39_word_dash_5 | number-inmate-feature-hello-radio |  
+| bip_39_word_dash_6 | number-inmate-feature-hello-radio-bread |  
+| bip_39_word_dash_7 | number-inmate-feature-hello-radio-bread-matter |  
+| bip_39_word_dash_8 | number-inmate-feature-hello-radio-bread-matter-guilt |  
+| bip_39_word_dash_9 | number-inmate-feature-hello-radio-bread-matter-guilt-squirrel |  
 | bip_39_word_new_br_1 | number |  
 | bip_39_word_new_br_10 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt<br>squirrel<br>balcony |  
 | bip_39_word_new_br_11 | number<br>inmate<br>feature<br>hello<br>radio<br>bread<br>matter<br>guilt<br>squirrel<br>balcony<br>must |  
@@ -147,6 +159,18 @@ squirrel |
 | bip_39_word_space_7 | number inmate feature hello radio bread matter |  
 | bip_39_word_space_8 | number inmate feature hello radio bread matter guilt |  
 | bip_39_word_space_9 | number inmate feature hello radio bread matter guilt squirrel |  
+| bip_39_word_underscore_1 | number |  
+| bip_39_word_underscore_10 | number_inmate_feature_hello_radio_bread_matter_guilt_squirrel_balcony |  
+| bip_39_word_underscore_11 | number_inmate_feature_hello_radio_bread_matter_guilt_squirrel_balcony_must |  
+| bip_39_word_underscore_12 | number_inmate_feature_hello_radio_bread_matter_guilt_squirrel_balcony_must_antenna |  
+| bip_39_word_underscore_2 | number_inmate |  
+| bip_39_word_underscore_3 | number_inmate_feature |  
+| bip_39_word_underscore_4 | number_inmate_feature_hello |  
+| bip_39_word_underscore_5 | number_inmate_feature_hello_radio |  
+| bip_39_word_underscore_6 | number_inmate_feature_hello_radio_bread |  
+| bip_39_word_underscore_7 | number_inmate_feature_hello_radio_bread_matter |  
+| bip_39_word_underscore_8 | number_inmate_feature_hello_radio_bread_matter_guilt |  
+| bip_39_word_underscore_9 | number_inmate_feature_hello_radio_bread_matter_guilt_squirrel |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

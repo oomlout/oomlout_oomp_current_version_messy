@@ -1,3 +1,15 @@
+bip_39_word_dash_1: recipe
+bip_39_word_dash_10: recipe-elegant-tree-pyramid-main-letter-under-message-social-kid
+bip_39_word_dash_11: recipe-elegant-tree-pyramid-main-letter-under-message-social-kid-leg
+bip_39_word_dash_12: recipe-elegant-tree-pyramid-main-letter-under-message-social-kid-leg-affair
+bip_39_word_dash_2: recipe-elegant
+bip_39_word_dash_3: recipe-elegant-tree
+bip_39_word_dash_4: recipe-elegant-tree-pyramid
+bip_39_word_dash_5: recipe-elegant-tree-pyramid-main
+bip_39_word_dash_6: recipe-elegant-tree-pyramid-main-letter
+bip_39_word_dash_7: recipe-elegant-tree-pyramid-main-letter-under
+bip_39_word_dash_8: recipe-elegant-tree-pyramid-main-letter-under-message
+bip_39_word_dash_9: recipe-elegant-tree-pyramid-main-letter-under-message-social
 bip_39_word_new_br_1: recipe
 bip_39_word_new_br_10: recipe<br>elegant<br>tree<br>pyramid<br>main<br>letter<br>under<br>message<br>social<br>kid
 bip_39_word_new_br_11: recipe<br>elegant<br>tree<br>pyramid<br>main<br>letter<br>under<br>message<br>social<br>kid<br>leg
@@ -194,6 +206,18 @@ bip_39_word_space_6: recipe elegant tree pyramid main letter
 bip_39_word_space_7: recipe elegant tree pyramid main letter under
 bip_39_word_space_8: recipe elegant tree pyramid main letter under message
 bip_39_word_space_9: recipe elegant tree pyramid main letter under message social
+bip_39_word_underscore_1: recipe
+bip_39_word_underscore_10: recipe_elegant_tree_pyramid_main_letter_under_message_social_kid
+bip_39_word_underscore_11: recipe_elegant_tree_pyramid_main_letter_under_message_social_kid_leg
+bip_39_word_underscore_12: recipe_elegant_tree_pyramid_main_letter_under_message_social_kid_leg_affair
+bip_39_word_underscore_2: recipe_elegant
+bip_39_word_underscore_3: recipe_elegant_tree
+bip_39_word_underscore_4: recipe_elegant_tree_pyramid
+bip_39_word_underscore_5: recipe_elegant_tree_pyramid_main
+bip_39_word_underscore_6: recipe_elegant_tree_pyramid_main_letter
+bip_39_word_underscore_7: recipe_elegant_tree_pyramid_main_letter_under
+bip_39_word_underscore_8: recipe_elegant_tree_pyramid_main_letter_under_message
+bip_39_word_underscore_9: recipe_elegant_tree_pyramid_main_letter_under_message_social
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

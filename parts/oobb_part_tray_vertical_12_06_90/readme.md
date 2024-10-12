@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | screen |  
+| bip_39_word_dash_10 | screen-analyst-awake-across-lumber-have-alone-wire-asthma-fiber |  
+| bip_39_word_dash_11 | screen-analyst-awake-across-lumber-have-alone-wire-asthma-fiber-any |  
+| bip_39_word_dash_12 | screen-analyst-awake-across-lumber-have-alone-wire-asthma-fiber-any-area |  
+| bip_39_word_dash_2 | screen-analyst |  
+| bip_39_word_dash_3 | screen-analyst-awake |  
+| bip_39_word_dash_4 | screen-analyst-awake-across |  
+| bip_39_word_dash_5 | screen-analyst-awake-across-lumber |  
+| bip_39_word_dash_6 | screen-analyst-awake-across-lumber-have |  
+| bip_39_word_dash_7 | screen-analyst-awake-across-lumber-have-alone |  
+| bip_39_word_dash_8 | screen-analyst-awake-across-lumber-have-alone-wire |  
+| bip_39_word_dash_9 | screen-analyst-awake-across-lumber-have-alone-wire-asthma |  
 | bip_39_word_new_br_1 | screen |  
 | bip_39_word_new_br_10 | screen<br>analyst<br>awake<br>across<br>lumber<br>have<br>alone<br>wire<br>asthma<br>fiber |  
 | bip_39_word_new_br_11 | screen<br>analyst<br>awake<br>across<br>lumber<br>have<br>alone<br>wire<br>asthma<br>fiber<br>any |  
@@ -147,6 +159,18 @@ asthma |
 | bip_39_word_space_7 | screen analyst awake across lumber have alone |  
 | bip_39_word_space_8 | screen analyst awake across lumber have alone wire |  
 | bip_39_word_space_9 | screen analyst awake across lumber have alone wire asthma |  
+| bip_39_word_underscore_1 | screen |  
+| bip_39_word_underscore_10 | screen_analyst_awake_across_lumber_have_alone_wire_asthma_fiber |  
+| bip_39_word_underscore_11 | screen_analyst_awake_across_lumber_have_alone_wire_asthma_fiber_any |  
+| bip_39_word_underscore_12 | screen_analyst_awake_across_lumber_have_alone_wire_asthma_fiber_any_area |  
+| bip_39_word_underscore_2 | screen_analyst |  
+| bip_39_word_underscore_3 | screen_analyst_awake |  
+| bip_39_word_underscore_4 | screen_analyst_awake_across |  
+| bip_39_word_underscore_5 | screen_analyst_awake_across_lumber |  
+| bip_39_word_underscore_6 | screen_analyst_awake_across_lumber_have |  
+| bip_39_word_underscore_7 | screen_analyst_awake_across_lumber_have_alone |  
+| bip_39_word_underscore_8 | screen_analyst_awake_across_lumber_have_alone_wire |  
+| bip_39_word_underscore_9 | screen_analyst_awake_across_lumber_have_alone_wire_asthma |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

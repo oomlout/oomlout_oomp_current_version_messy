@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enable
+bip_39_word_dash_10: enable-cloth-broom-bracket-metal-modify-health-skin-arrow-hair
+bip_39_word_dash_11: enable-cloth-broom-bracket-metal-modify-health-skin-arrow-hair-fashion
+bip_39_word_dash_12: enable-cloth-broom-bracket-metal-modify-health-skin-arrow-hair-fashion-annual
+bip_39_word_dash_2: enable-cloth
+bip_39_word_dash_3: enable-cloth-broom
+bip_39_word_dash_4: enable-cloth-broom-bracket
+bip_39_word_dash_5: enable-cloth-broom-bracket-metal
+bip_39_word_dash_6: enable-cloth-broom-bracket-metal-modify
+bip_39_word_dash_7: enable-cloth-broom-bracket-metal-modify-health
+bip_39_word_dash_8: enable-cloth-broom-bracket-metal-modify-health-skin
+bip_39_word_dash_9: enable-cloth-broom-bracket-metal-modify-health-skin-arrow
 bip_39_word_new_br_1: enable
 bip_39_word_new_br_10: enable<br>cloth<br>broom<br>bracket<br>metal<br>modify<br>health<br>skin<br>arrow<br>hair
 bip_39_word_new_br_11: enable<br>cloth<br>broom<br>bracket<br>metal<br>modify<br>health<br>skin<br>arrow<br>hair<br>fashion
@@ -193,6 +205,18 @@ bip_39_word_space_6: enable cloth broom bracket metal modify
 bip_39_word_space_7: enable cloth broom bracket metal modify health
 bip_39_word_space_8: enable cloth broom bracket metal modify health skin
 bip_39_word_space_9: enable cloth broom bracket metal modify health skin arrow
+bip_39_word_underscore_1: enable
+bip_39_word_underscore_10: enable_cloth_broom_bracket_metal_modify_health_skin_arrow_hair
+bip_39_word_underscore_11: enable_cloth_broom_bracket_metal_modify_health_skin_arrow_hair_fashion
+bip_39_word_underscore_12: enable_cloth_broom_bracket_metal_modify_health_skin_arrow_hair_fashion_annual
+bip_39_word_underscore_2: enable_cloth
+bip_39_word_underscore_3: enable_cloth_broom
+bip_39_word_underscore_4: enable_cloth_broom_bracket
+bip_39_word_underscore_5: enable_cloth_broom_bracket_metal
+bip_39_word_underscore_6: enable_cloth_broom_bracket_metal_modify
+bip_39_word_underscore_7: enable_cloth_broom_bracket_metal_modify_health
+bip_39_word_underscore_8: enable_cloth_broom_bracket_metal_modify_health_skin
+bip_39_word_underscore_9: enable_cloth_broom_bracket_metal_modify_health_skin_arrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

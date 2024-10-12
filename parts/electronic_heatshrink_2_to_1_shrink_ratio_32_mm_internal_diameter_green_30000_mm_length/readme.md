@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grain |  
+| bip_39_word_dash_10 | grain-photo-hub-bag-zero-fan-wrestle-race-sand-shoe |  
+| bip_39_word_dash_11 | grain-photo-hub-bag-zero-fan-wrestle-race-sand-shoe-athlete |  
+| bip_39_word_dash_12 | grain-photo-hub-bag-zero-fan-wrestle-race-sand-shoe-athlete-arctic |  
+| bip_39_word_dash_2 | grain-photo |  
+| bip_39_word_dash_3 | grain-photo-hub |  
+| bip_39_word_dash_4 | grain-photo-hub-bag |  
+| bip_39_word_dash_5 | grain-photo-hub-bag-zero |  
+| bip_39_word_dash_6 | grain-photo-hub-bag-zero-fan |  
+| bip_39_word_dash_7 | grain-photo-hub-bag-zero-fan-wrestle |  
+| bip_39_word_dash_8 | grain-photo-hub-bag-zero-fan-wrestle-race |  
+| bip_39_word_dash_9 | grain-photo-hub-bag-zero-fan-wrestle-race-sand |  
 | bip_39_word_new_br_1 | grain |  
 | bip_39_word_new_br_10 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race<br>sand<br>shoe |  
 | bip_39_word_new_br_11 | grain<br>photo<br>hub<br>bag<br>zero<br>fan<br>wrestle<br>race<br>sand<br>shoe<br>athlete |  
@@ -147,6 +159,18 @@ sand |
 | bip_39_word_space_7 | grain photo hub bag zero fan wrestle |  
 | bip_39_word_space_8 | grain photo hub bag zero fan wrestle race |  
 | bip_39_word_space_9 | grain photo hub bag zero fan wrestle race sand |  
+| bip_39_word_underscore_1 | grain |  
+| bip_39_word_underscore_10 | grain_photo_hub_bag_zero_fan_wrestle_race_sand_shoe |  
+| bip_39_word_underscore_11 | grain_photo_hub_bag_zero_fan_wrestle_race_sand_shoe_athlete |  
+| bip_39_word_underscore_12 | grain_photo_hub_bag_zero_fan_wrestle_race_sand_shoe_athlete_arctic |  
+| bip_39_word_underscore_2 | grain_photo |  
+| bip_39_word_underscore_3 | grain_photo_hub |  
+| bip_39_word_underscore_4 | grain_photo_hub_bag |  
+| bip_39_word_underscore_5 | grain_photo_hub_bag_zero |  
+| bip_39_word_underscore_6 | grain_photo_hub_bag_zero_fan |  
+| bip_39_word_underscore_7 | grain_photo_hub_bag_zero_fan_wrestle |  
+| bip_39_word_underscore_8 | grain_photo_hub_bag_zero_fan_wrestle_race |  
+| bip_39_word_underscore_9 | grain_photo_hub_bag_zero_fan_wrestle_race_sand |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

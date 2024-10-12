@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | edit |  
+| bip_39_word_dash_10 | edit-appear-trumpet-acquire-capital-skate-foil-catalog-solid-gather |  
+| bip_39_word_dash_11 | edit-appear-trumpet-acquire-capital-skate-foil-catalog-solid-gather-day |  
+| bip_39_word_dash_12 | edit-appear-trumpet-acquire-capital-skate-foil-catalog-solid-gather-day-asthma |  
+| bip_39_word_dash_2 | edit-appear |  
+| bip_39_word_dash_3 | edit-appear-trumpet |  
+| bip_39_word_dash_4 | edit-appear-trumpet-acquire |  
+| bip_39_word_dash_5 | edit-appear-trumpet-acquire-capital |  
+| bip_39_word_dash_6 | edit-appear-trumpet-acquire-capital-skate |  
+| bip_39_word_dash_7 | edit-appear-trumpet-acquire-capital-skate-foil |  
+| bip_39_word_dash_8 | edit-appear-trumpet-acquire-capital-skate-foil-catalog |  
+| bip_39_word_dash_9 | edit-appear-trumpet-acquire-capital-skate-foil-catalog-solid |  
 | bip_39_word_new_br_1 | edit |  
 | bip_39_word_new_br_10 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather |  
 | bip_39_word_new_br_11 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather<br>day |  
@@ -147,6 +159,18 @@ solid |
 | bip_39_word_space_7 | edit appear trumpet acquire capital skate foil |  
 | bip_39_word_space_8 | edit appear trumpet acquire capital skate foil catalog |  
 | bip_39_word_space_9 | edit appear trumpet acquire capital skate foil catalog solid |  
+| bip_39_word_underscore_1 | edit |  
+| bip_39_word_underscore_10 | edit_appear_trumpet_acquire_capital_skate_foil_catalog_solid_gather |  
+| bip_39_word_underscore_11 | edit_appear_trumpet_acquire_capital_skate_foil_catalog_solid_gather_day |  
+| bip_39_word_underscore_12 | edit_appear_trumpet_acquire_capital_skate_foil_catalog_solid_gather_day_asthma |  
+| bip_39_word_underscore_2 | edit_appear |  
+| bip_39_word_underscore_3 | edit_appear_trumpet |  
+| bip_39_word_underscore_4 | edit_appear_trumpet_acquire |  
+| bip_39_word_underscore_5 | edit_appear_trumpet_acquire_capital |  
+| bip_39_word_underscore_6 | edit_appear_trumpet_acquire_capital_skate |  
+| bip_39_word_underscore_7 | edit_appear_trumpet_acquire_capital_skate_foil |  
+| bip_39_word_underscore_8 | edit_appear_trumpet_acquire_capital_skate_foil_catalog |  
+| bip_39_word_underscore_9 | edit_appear_trumpet_acquire_capital_skate_foil_catalog_solid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hub |  
+| bip_39_word_dash_10 | hub-pig-column-enemy-toy-aunt-lift-penalty-chuckle-crazy |  
+| bip_39_word_dash_11 | hub-pig-column-enemy-toy-aunt-lift-penalty-chuckle-crazy-success |  
+| bip_39_word_dash_12 | hub-pig-column-enemy-toy-aunt-lift-penalty-chuckle-crazy-success-athlete |  
+| bip_39_word_dash_2 | hub-pig |  
+| bip_39_word_dash_3 | hub-pig-column |  
+| bip_39_word_dash_4 | hub-pig-column-enemy |  
+| bip_39_word_dash_5 | hub-pig-column-enemy-toy |  
+| bip_39_word_dash_6 | hub-pig-column-enemy-toy-aunt |  
+| bip_39_word_dash_7 | hub-pig-column-enemy-toy-aunt-lift |  
+| bip_39_word_dash_8 | hub-pig-column-enemy-toy-aunt-lift-penalty |  
+| bip_39_word_dash_9 | hub-pig-column-enemy-toy-aunt-lift-penalty-chuckle |  
 | bip_39_word_new_br_1 | hub |  
 | bip_39_word_new_br_10 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty<br>chuckle<br>crazy |  
 | bip_39_word_new_br_11 | hub<br>pig<br>column<br>enemy<br>toy<br>aunt<br>lift<br>penalty<br>chuckle<br>crazy<br>success |  
@@ -147,6 +159,18 @@ chuckle |
 | bip_39_word_space_7 | hub pig column enemy toy aunt lift |  
 | bip_39_word_space_8 | hub pig column enemy toy aunt lift penalty |  
 | bip_39_word_space_9 | hub pig column enemy toy aunt lift penalty chuckle |  
+| bip_39_word_underscore_1 | hub |  
+| bip_39_word_underscore_10 | hub_pig_column_enemy_toy_aunt_lift_penalty_chuckle_crazy |  
+| bip_39_word_underscore_11 | hub_pig_column_enemy_toy_aunt_lift_penalty_chuckle_crazy_success |  
+| bip_39_word_underscore_12 | hub_pig_column_enemy_toy_aunt_lift_penalty_chuckle_crazy_success_athlete |  
+| bip_39_word_underscore_2 | hub_pig |  
+| bip_39_word_underscore_3 | hub_pig_column |  
+| bip_39_word_underscore_4 | hub_pig_column_enemy |  
+| bip_39_word_underscore_5 | hub_pig_column_enemy_toy |  
+| bip_39_word_underscore_6 | hub_pig_column_enemy_toy_aunt |  
+| bip_39_word_underscore_7 | hub_pig_column_enemy_toy_aunt_lift |  
+| bip_39_word_underscore_8 | hub_pig_column_enemy_toy_aunt_lift_penalty |  
+| bip_39_word_underscore_9 | hub_pig_column_enemy_toy_aunt_lift_penalty_chuckle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: merry
+bip_39_word_dash_10: merry-raw-mercy-teach-lawn-cruise-silver-antique-audit-orbit
+bip_39_word_dash_11: merry-raw-mercy-teach-lawn-cruise-silver-antique-audit-orbit-yellow
+bip_39_word_dash_12: merry-raw-mercy-teach-lawn-cruise-silver-antique-audit-orbit-yellow-anxiety
+bip_39_word_dash_2: merry-raw
+bip_39_word_dash_3: merry-raw-mercy
+bip_39_word_dash_4: merry-raw-mercy-teach
+bip_39_word_dash_5: merry-raw-mercy-teach-lawn
+bip_39_word_dash_6: merry-raw-mercy-teach-lawn-cruise
+bip_39_word_dash_7: merry-raw-mercy-teach-lawn-cruise-silver
+bip_39_word_dash_8: merry-raw-mercy-teach-lawn-cruise-silver-antique
+bip_39_word_dash_9: merry-raw-mercy-teach-lawn-cruise-silver-antique-audit
 bip_39_word_new_br_1: merry
 bip_39_word_new_br_10: merry<br>raw<br>mercy<br>teach<br>lawn<br>cruise<br>silver<br>antique<br>audit<br>orbit
 bip_39_word_new_br_11: merry<br>raw<br>mercy<br>teach<br>lawn<br>cruise<br>silver<br>antique<br>audit<br>orbit<br>yellow
@@ -193,6 +205,18 @@ bip_39_word_space_6: merry raw mercy teach lawn cruise
 bip_39_word_space_7: merry raw mercy teach lawn cruise silver
 bip_39_word_space_8: merry raw mercy teach lawn cruise silver antique
 bip_39_word_space_9: merry raw mercy teach lawn cruise silver antique audit
+bip_39_word_underscore_1: merry
+bip_39_word_underscore_10: merry_raw_mercy_teach_lawn_cruise_silver_antique_audit_orbit
+bip_39_word_underscore_11: merry_raw_mercy_teach_lawn_cruise_silver_antique_audit_orbit_yellow
+bip_39_word_underscore_12: merry_raw_mercy_teach_lawn_cruise_silver_antique_audit_orbit_yellow_anxiety
+bip_39_word_underscore_2: merry_raw
+bip_39_word_underscore_3: merry_raw_mercy
+bip_39_word_underscore_4: merry_raw_mercy_teach
+bip_39_word_underscore_5: merry_raw_mercy_teach_lawn
+bip_39_word_underscore_6: merry_raw_mercy_teach_lawn_cruise
+bip_39_word_underscore_7: merry_raw_mercy_teach_lawn_cruise_silver
+bip_39_word_underscore_8: merry_raw_mercy_teach_lawn_cruise_silver_antique
+bip_39_word_underscore_9: merry_raw_mercy_teach_lawn_cruise_silver_antique_audit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

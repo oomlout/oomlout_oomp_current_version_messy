@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hammer |  
+| bip_39_word_dash_10 | hammer-kiss-acid-crush-shine-myth-require-beyond-cabin-outdoor |  
+| bip_39_word_dash_11 | hammer-kiss-acid-crush-shine-myth-require-beyond-cabin-outdoor-stable |  
+| bip_39_word_dash_12 | hammer-kiss-acid-crush-shine-myth-require-beyond-cabin-outdoor-stable-anchor |  
+| bip_39_word_dash_2 | hammer-kiss |  
+| bip_39_word_dash_3 | hammer-kiss-acid |  
+| bip_39_word_dash_4 | hammer-kiss-acid-crush |  
+| bip_39_word_dash_5 | hammer-kiss-acid-crush-shine |  
+| bip_39_word_dash_6 | hammer-kiss-acid-crush-shine-myth |  
+| bip_39_word_dash_7 | hammer-kiss-acid-crush-shine-myth-require |  
+| bip_39_word_dash_8 | hammer-kiss-acid-crush-shine-myth-require-beyond |  
+| bip_39_word_dash_9 | hammer-kiss-acid-crush-shine-myth-require-beyond-cabin |  
 | bip_39_word_new_br_1 | hammer |  
 | bip_39_word_new_br_10 | hammer<br>kiss<br>acid<br>crush<br>shine<br>myth<br>require<br>beyond<br>cabin<br>outdoor |  
 | bip_39_word_new_br_11 | hammer<br>kiss<br>acid<br>crush<br>shine<br>myth<br>require<br>beyond<br>cabin<br>outdoor<br>stable |  
@@ -147,6 +159,18 @@ cabin |
 | bip_39_word_space_7 | hammer kiss acid crush shine myth require |  
 | bip_39_word_space_8 | hammer kiss acid crush shine myth require beyond |  
 | bip_39_word_space_9 | hammer kiss acid crush shine myth require beyond cabin |  
+| bip_39_word_underscore_1 | hammer |  
+| bip_39_word_underscore_10 | hammer_kiss_acid_crush_shine_myth_require_beyond_cabin_outdoor |  
+| bip_39_word_underscore_11 | hammer_kiss_acid_crush_shine_myth_require_beyond_cabin_outdoor_stable |  
+| bip_39_word_underscore_12 | hammer_kiss_acid_crush_shine_myth_require_beyond_cabin_outdoor_stable_anchor |  
+| bip_39_word_underscore_2 | hammer_kiss |  
+| bip_39_word_underscore_3 | hammer_kiss_acid |  
+| bip_39_word_underscore_4 | hammer_kiss_acid_crush |  
+| bip_39_word_underscore_5 | hammer_kiss_acid_crush_shine |  
+| bip_39_word_underscore_6 | hammer_kiss_acid_crush_shine_myth |  
+| bip_39_word_underscore_7 | hammer_kiss_acid_crush_shine_myth_require |  
+| bip_39_word_underscore_8 | hammer_kiss_acid_crush_shine_myth_require_beyond |  
+| bip_39_word_underscore_9 | hammer_kiss_acid_crush_shine_myth_require_beyond_cabin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

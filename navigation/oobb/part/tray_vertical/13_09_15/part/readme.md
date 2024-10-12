@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kid |  
+| bip_39_word_dash_10 | kid-dad-question-beauty-bonus-month-horse-cradle-fiscal-super |  
+| bip_39_word_dash_11 | kid-dad-question-beauty-bonus-month-horse-cradle-fiscal-super-again |  
+| bip_39_word_dash_12 | kid-dad-question-beauty-bonus-month-horse-cradle-fiscal-super-again-around |  
+| bip_39_word_dash_2 | kid-dad |  
+| bip_39_word_dash_3 | kid-dad-question |  
+| bip_39_word_dash_4 | kid-dad-question-beauty |  
+| bip_39_word_dash_5 | kid-dad-question-beauty-bonus |  
+| bip_39_word_dash_6 | kid-dad-question-beauty-bonus-month |  
+| bip_39_word_dash_7 | kid-dad-question-beauty-bonus-month-horse |  
+| bip_39_word_dash_8 | kid-dad-question-beauty-bonus-month-horse-cradle |  
+| bip_39_word_dash_9 | kid-dad-question-beauty-bonus-month-horse-cradle-fiscal |  
 | bip_39_word_new_br_1 | kid |  
 | bip_39_word_new_br_10 | kid<br>dad<br>question<br>beauty<br>bonus<br>month<br>horse<br>cradle<br>fiscal<br>super |  
 | bip_39_word_new_br_11 | kid<br>dad<br>question<br>beauty<br>bonus<br>month<br>horse<br>cradle<br>fiscal<br>super<br>again |  
@@ -147,6 +159,18 @@ fiscal |
 | bip_39_word_space_7 | kid dad question beauty bonus month horse |  
 | bip_39_word_space_8 | kid dad question beauty bonus month horse cradle |  
 | bip_39_word_space_9 | kid dad question beauty bonus month horse cradle fiscal |  
+| bip_39_word_underscore_1 | kid |  
+| bip_39_word_underscore_10 | kid_dad_question_beauty_bonus_month_horse_cradle_fiscal_super |  
+| bip_39_word_underscore_11 | kid_dad_question_beauty_bonus_month_horse_cradle_fiscal_super_again |  
+| bip_39_word_underscore_12 | kid_dad_question_beauty_bonus_month_horse_cradle_fiscal_super_again_around |  
+| bip_39_word_underscore_2 | kid_dad |  
+| bip_39_word_underscore_3 | kid_dad_question |  
+| bip_39_word_underscore_4 | kid_dad_question_beauty |  
+| bip_39_word_underscore_5 | kid_dad_question_beauty_bonus |  
+| bip_39_word_underscore_6 | kid_dad_question_beauty_bonus_month |  
+| bip_39_word_underscore_7 | kid_dad_question_beauty_bonus_month_horse |  
+| bip_39_word_underscore_8 | kid_dad_question_beauty_bonus_month_horse_cradle |  
+| bip_39_word_underscore_9 | kid_dad_question_beauty_bonus_month_horse_cradle_fiscal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

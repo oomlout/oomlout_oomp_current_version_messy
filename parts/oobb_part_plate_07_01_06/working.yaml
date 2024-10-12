@@ -1,3 +1,15 @@
+bip_39_word_dash_1: burden
+bip_39_word_dash_10: burden-issue-zone-patch-disorder-frown-sample-stay-maze-enhance
+bip_39_word_dash_11: burden-issue-zone-patch-disorder-frown-sample-stay-maze-enhance-rigid
+bip_39_word_dash_12: burden-issue-zone-patch-disorder-frown-sample-stay-maze-enhance-rigid-accuse
+bip_39_word_dash_2: burden-issue
+bip_39_word_dash_3: burden-issue-zone
+bip_39_word_dash_4: burden-issue-zone-patch
+bip_39_word_dash_5: burden-issue-zone-patch-disorder
+bip_39_word_dash_6: burden-issue-zone-patch-disorder-frown
+bip_39_word_dash_7: burden-issue-zone-patch-disorder-frown-sample
+bip_39_word_dash_8: burden-issue-zone-patch-disorder-frown-sample-stay
+bip_39_word_dash_9: burden-issue-zone-patch-disorder-frown-sample-stay-maze
 bip_39_word_new_br_1: burden
 bip_39_word_new_br_10: burden<br>issue<br>zone<br>patch<br>disorder<br>frown<br>sample<br>stay<br>maze<br>enhance
 bip_39_word_new_br_11: burden<br>issue<br>zone<br>patch<br>disorder<br>frown<br>sample<br>stay<br>maze<br>enhance<br>rigid
@@ -193,6 +205,18 @@ bip_39_word_space_6: burden issue zone patch disorder frown
 bip_39_word_space_7: burden issue zone patch disorder frown sample
 bip_39_word_space_8: burden issue zone patch disorder frown sample stay
 bip_39_word_space_9: burden issue zone patch disorder frown sample stay maze
+bip_39_word_underscore_1: burden
+bip_39_word_underscore_10: burden_issue_zone_patch_disorder_frown_sample_stay_maze_enhance
+bip_39_word_underscore_11: burden_issue_zone_patch_disorder_frown_sample_stay_maze_enhance_rigid
+bip_39_word_underscore_12: burden_issue_zone_patch_disorder_frown_sample_stay_maze_enhance_rigid_accuse
+bip_39_word_underscore_2: burden_issue
+bip_39_word_underscore_3: burden_issue_zone
+bip_39_word_underscore_4: burden_issue_zone_patch
+bip_39_word_underscore_5: burden_issue_zone_patch_disorder
+bip_39_word_underscore_6: burden_issue_zone_patch_disorder_frown
+bip_39_word_underscore_7: burden_issue_zone_patch_disorder_frown_sample
+bip_39_word_underscore_8: burden_issue_zone_patch_disorder_frown_sample_stay
+bip_39_word_underscore_9: burden_issue_zone_patch_disorder_frown_sample_stay_maze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

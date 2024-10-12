@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grief
+bip_39_word_dash_10: grief-balance-city-drastic-eternal-avoid-chunk-december-main-sentence
+bip_39_word_dash_11: grief-balance-city-drastic-eternal-avoid-chunk-december-main-sentence-swift
+bip_39_word_dash_12: grief-balance-city-drastic-eternal-avoid-chunk-december-main-sentence-swift-album
+bip_39_word_dash_2: grief-balance
+bip_39_word_dash_3: grief-balance-city
+bip_39_word_dash_4: grief-balance-city-drastic
+bip_39_word_dash_5: grief-balance-city-drastic-eternal
+bip_39_word_dash_6: grief-balance-city-drastic-eternal-avoid
+bip_39_word_dash_7: grief-balance-city-drastic-eternal-avoid-chunk
+bip_39_word_dash_8: grief-balance-city-drastic-eternal-avoid-chunk-december
+bip_39_word_dash_9: grief-balance-city-drastic-eternal-avoid-chunk-december-main
 bip_39_word_new_br_1: grief
 bip_39_word_new_br_10: grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december<br>main<br>sentence
 bip_39_word_new_br_11: grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december<br>main<br>sentence<br>swift
@@ -194,6 +206,18 @@ bip_39_word_space_6: grief balance city drastic eternal avoid
 bip_39_word_space_7: grief balance city drastic eternal avoid chunk
 bip_39_word_space_8: grief balance city drastic eternal avoid chunk december
 bip_39_word_space_9: grief balance city drastic eternal avoid chunk december main
+bip_39_word_underscore_1: grief
+bip_39_word_underscore_10: grief_balance_city_drastic_eternal_avoid_chunk_december_main_sentence
+bip_39_word_underscore_11: grief_balance_city_drastic_eternal_avoid_chunk_december_main_sentence_swift
+bip_39_word_underscore_12: grief_balance_city_drastic_eternal_avoid_chunk_december_main_sentence_swift_album
+bip_39_word_underscore_2: grief_balance
+bip_39_word_underscore_3: grief_balance_city
+bip_39_word_underscore_4: grief_balance_city_drastic
+bip_39_word_underscore_5: grief_balance_city_drastic_eternal
+bip_39_word_underscore_6: grief_balance_city_drastic_eternal_avoid
+bip_39_word_underscore_7: grief_balance_city_drastic_eternal_avoid_chunk
+bip_39_word_underscore_8: grief_balance_city_drastic_eternal_avoid_chunk_december
+bip_39_word_underscore_9: grief_balance_city_drastic_eternal_avoid_chunk_december_main
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | town |  
+| bip_39_word_dash_10 | town-attitude-head-genre-horse-artefact-like-oven-fancy-behind |  
+| bip_39_word_dash_11 | town-attitude-head-genre-horse-artefact-like-oven-fancy-behind-icon |  
+| bip_39_word_dash_12 | town-attitude-head-genre-horse-artefact-like-oven-fancy-behind-icon-artist |  
+| bip_39_word_dash_2 | town-attitude |  
+| bip_39_word_dash_3 | town-attitude-head |  
+| bip_39_word_dash_4 | town-attitude-head-genre |  
+| bip_39_word_dash_5 | town-attitude-head-genre-horse |  
+| bip_39_word_dash_6 | town-attitude-head-genre-horse-artefact |  
+| bip_39_word_dash_7 | town-attitude-head-genre-horse-artefact-like |  
+| bip_39_word_dash_8 | town-attitude-head-genre-horse-artefact-like-oven |  
+| bip_39_word_dash_9 | town-attitude-head-genre-horse-artefact-like-oven-fancy |  
 | bip_39_word_new_br_1 | town |  
 | bip_39_word_new_br_10 | town<br>attitude<br>head<br>genre<br>horse<br>artefact<br>like<br>oven<br>fancy<br>behind |  
 | bip_39_word_new_br_11 | town<br>attitude<br>head<br>genre<br>horse<br>artefact<br>like<br>oven<br>fancy<br>behind<br>icon |  
@@ -147,6 +159,18 @@ fancy |
 | bip_39_word_space_7 | town attitude head genre horse artefact like |  
 | bip_39_word_space_8 | town attitude head genre horse artefact like oven |  
 | bip_39_word_space_9 | town attitude head genre horse artefact like oven fancy |  
+| bip_39_word_underscore_1 | town |  
+| bip_39_word_underscore_10 | town_attitude_head_genre_horse_artefact_like_oven_fancy_behind |  
+| bip_39_word_underscore_11 | town_attitude_head_genre_horse_artefact_like_oven_fancy_behind_icon |  
+| bip_39_word_underscore_12 | town_attitude_head_genre_horse_artefact_like_oven_fancy_behind_icon_artist |  
+| bip_39_word_underscore_2 | town_attitude |  
+| bip_39_word_underscore_3 | town_attitude_head |  
+| bip_39_word_underscore_4 | town_attitude_head_genre |  
+| bip_39_word_underscore_5 | town_attitude_head_genre_horse |  
+| bip_39_word_underscore_6 | town_attitude_head_genre_horse_artefact |  
+| bip_39_word_underscore_7 | town_attitude_head_genre_horse_artefact_like |  
+| bip_39_word_underscore_8 | town_attitude_head_genre_horse_artefact_like_oven |  
+| bip_39_word_underscore_9 | town_attitude_head_genre_horse_artefact_like_oven_fancy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

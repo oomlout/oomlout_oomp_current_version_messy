@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exile
+bip_39_word_dash_10: exile-profit-myself-potato-neutral-weasel-unit-glue-sustain-parade
+bip_39_word_dash_11: exile-profit-myself-potato-neutral-weasel-unit-glue-sustain-parade-relief
+bip_39_word_dash_12: exile-profit-myself-potato-neutral-weasel-unit-glue-sustain-parade-relief-any
+bip_39_word_dash_2: exile-profit
+bip_39_word_dash_3: exile-profit-myself
+bip_39_word_dash_4: exile-profit-myself-potato
+bip_39_word_dash_5: exile-profit-myself-potato-neutral
+bip_39_word_dash_6: exile-profit-myself-potato-neutral-weasel
+bip_39_word_dash_7: exile-profit-myself-potato-neutral-weasel-unit
+bip_39_word_dash_8: exile-profit-myself-potato-neutral-weasel-unit-glue
+bip_39_word_dash_9: exile-profit-myself-potato-neutral-weasel-unit-glue-sustain
 bip_39_word_new_br_1: exile
 bip_39_word_new_br_10: exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue<br>sustain<br>parade
 bip_39_word_new_br_11: exile<br>profit<br>myself<br>potato<br>neutral<br>weasel<br>unit<br>glue<br>sustain<br>parade<br>relief
@@ -194,6 +206,18 @@ bip_39_word_space_6: exile profit myself potato neutral weasel
 bip_39_word_space_7: exile profit myself potato neutral weasel unit
 bip_39_word_space_8: exile profit myself potato neutral weasel unit glue
 bip_39_word_space_9: exile profit myself potato neutral weasel unit glue sustain
+bip_39_word_underscore_1: exile
+bip_39_word_underscore_10: exile_profit_myself_potato_neutral_weasel_unit_glue_sustain_parade
+bip_39_word_underscore_11: exile_profit_myself_potato_neutral_weasel_unit_glue_sustain_parade_relief
+bip_39_word_underscore_12: exile_profit_myself_potato_neutral_weasel_unit_glue_sustain_parade_relief_any
+bip_39_word_underscore_2: exile_profit
+bip_39_word_underscore_3: exile_profit_myself
+bip_39_word_underscore_4: exile_profit_myself_potato
+bip_39_word_underscore_5: exile_profit_myself_potato_neutral
+bip_39_word_underscore_6: exile_profit_myself_potato_neutral_weasel
+bip_39_word_underscore_7: exile_profit_myself_potato_neutral_weasel_unit
+bip_39_word_underscore_8: exile_profit_myself_potato_neutral_weasel_unit_glue
+bip_39_word_underscore_9: exile_profit_myself_potato_neutral_weasel_unit_glue_sustain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

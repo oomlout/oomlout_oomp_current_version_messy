@@ -1,3 +1,15 @@
+bip_39_word_dash_1: aisle
+bip_39_word_dash_10: aisle-treat-potato-enter-this-key-three-shed-question-duty
+bip_39_word_dash_11: aisle-treat-potato-enter-this-key-three-shed-question-duty-safe
+bip_39_word_dash_12: aisle-treat-potato-enter-this-key-three-shed-question-duty-safe-alley
+bip_39_word_dash_2: aisle-treat
+bip_39_word_dash_3: aisle-treat-potato
+bip_39_word_dash_4: aisle-treat-potato-enter
+bip_39_word_dash_5: aisle-treat-potato-enter-this
+bip_39_word_dash_6: aisle-treat-potato-enter-this-key
+bip_39_word_dash_7: aisle-treat-potato-enter-this-key-three
+bip_39_word_dash_8: aisle-treat-potato-enter-this-key-three-shed
+bip_39_word_dash_9: aisle-treat-potato-enter-this-key-three-shed-question
 bip_39_word_new_br_1: aisle
 bip_39_word_new_br_10: aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty
 bip_39_word_new_br_11: aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty<br>safe
@@ -192,6 +204,18 @@ bip_39_word_space_6: aisle treat potato enter this key
 bip_39_word_space_7: aisle treat potato enter this key three
 bip_39_word_space_8: aisle treat potato enter this key three shed
 bip_39_word_space_9: aisle treat potato enter this key three shed question
+bip_39_word_underscore_1: aisle
+bip_39_word_underscore_10: aisle_treat_potato_enter_this_key_three_shed_question_duty
+bip_39_word_underscore_11: aisle_treat_potato_enter_this_key_three_shed_question_duty_safe
+bip_39_word_underscore_12: aisle_treat_potato_enter_this_key_three_shed_question_duty_safe_alley
+bip_39_word_underscore_2: aisle_treat
+bip_39_word_underscore_3: aisle_treat_potato
+bip_39_word_underscore_4: aisle_treat_potato_enter
+bip_39_word_underscore_5: aisle_treat_potato_enter_this
+bip_39_word_underscore_6: aisle_treat_potato_enter_this_key
+bip_39_word_underscore_7: aisle_treat_potato_enter_this_key_three
+bip_39_word_underscore_8: aisle_treat_potato_enter_this_key_three_shed
+bip_39_word_underscore_9: aisle_treat_potato_enter_this_key_three_shed_question
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t

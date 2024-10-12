@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | roast |  
+| bip_39_word_dash_10 | roast-idle-else-six-devote-setup-piece-dust-year-lawn |  
+| bip_39_word_dash_11 | roast-idle-else-six-devote-setup-piece-dust-year-lawn-invest |  
+| bip_39_word_dash_12 | roast-idle-else-six-devote-setup-piece-dust-year-lawn-invest-alone |  
+| bip_39_word_dash_2 | roast-idle |  
+| bip_39_word_dash_3 | roast-idle-else |  
+| bip_39_word_dash_4 | roast-idle-else-six |  
+| bip_39_word_dash_5 | roast-idle-else-six-devote |  
+| bip_39_word_dash_6 | roast-idle-else-six-devote-setup |  
+| bip_39_word_dash_7 | roast-idle-else-six-devote-setup-piece |  
+| bip_39_word_dash_8 | roast-idle-else-six-devote-setup-piece-dust |  
+| bip_39_word_dash_9 | roast-idle-else-six-devote-setup-piece-dust-year |  
 | bip_39_word_new_br_1 | roast |  
 | bip_39_word_new_br_10 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn |  
 | bip_39_word_new_br_11 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn<br>invest |  
@@ -147,6 +159,18 @@ year |
 | bip_39_word_space_7 | roast idle else six devote setup piece |  
 | bip_39_word_space_8 | roast idle else six devote setup piece dust |  
 | bip_39_word_space_9 | roast idle else six devote setup piece dust year |  
+| bip_39_word_underscore_1 | roast |  
+| bip_39_word_underscore_10 | roast_idle_else_six_devote_setup_piece_dust_year_lawn |  
+| bip_39_word_underscore_11 | roast_idle_else_six_devote_setup_piece_dust_year_lawn_invest |  
+| bip_39_word_underscore_12 | roast_idle_else_six_devote_setup_piece_dust_year_lawn_invest_alone |  
+| bip_39_word_underscore_2 | roast_idle |  
+| bip_39_word_underscore_3 | roast_idle_else |  
+| bip_39_word_underscore_4 | roast_idle_else_six |  
+| bip_39_word_underscore_5 | roast_idle_else_six_devote |  
+| bip_39_word_underscore_6 | roast_idle_else_six_devote_setup |  
+| bip_39_word_underscore_7 | roast_idle_else_six_devote_setup_piece |  
+| bip_39_word_underscore_8 | roast_idle_else_six_devote_setup_piece_dust |  
+| bip_39_word_underscore_9 | roast_idle_else_six_devote_setup_piece_dust_year |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

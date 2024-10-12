@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | can |  
+| bip_39_word_dash_10 | can-tongue-rebuild-certain-one-opinion-beyond-belt-rate-silk |  
+| bip_39_word_dash_11 | can-tongue-rebuild-certain-one-opinion-beyond-belt-rate-silk-deposit |  
+| bip_39_word_dash_12 | can-tongue-rebuild-certain-one-opinion-beyond-belt-rate-silk-deposit-arrest |  
+| bip_39_word_dash_2 | can-tongue |  
+| bip_39_word_dash_3 | can-tongue-rebuild |  
+| bip_39_word_dash_4 | can-tongue-rebuild-certain |  
+| bip_39_word_dash_5 | can-tongue-rebuild-certain-one |  
+| bip_39_word_dash_6 | can-tongue-rebuild-certain-one-opinion |  
+| bip_39_word_dash_7 | can-tongue-rebuild-certain-one-opinion-beyond |  
+| bip_39_word_dash_8 | can-tongue-rebuild-certain-one-opinion-beyond-belt |  
+| bip_39_word_dash_9 | can-tongue-rebuild-certain-one-opinion-beyond-belt-rate |  
 | bip_39_word_new_br_1 | can |  
 | bip_39_word_new_br_10 | can<br>tongue<br>rebuild<br>certain<br>one<br>opinion<br>beyond<br>belt<br>rate<br>silk |  
 | bip_39_word_new_br_11 | can<br>tongue<br>rebuild<br>certain<br>one<br>opinion<br>beyond<br>belt<br>rate<br>silk<br>deposit |  
@@ -147,6 +159,18 @@ rate |
 | bip_39_word_space_7 | can tongue rebuild certain one opinion beyond |  
 | bip_39_word_space_8 | can tongue rebuild certain one opinion beyond belt |  
 | bip_39_word_space_9 | can tongue rebuild certain one opinion beyond belt rate |  
+| bip_39_word_underscore_1 | can |  
+| bip_39_word_underscore_10 | can_tongue_rebuild_certain_one_opinion_beyond_belt_rate_silk |  
+| bip_39_word_underscore_11 | can_tongue_rebuild_certain_one_opinion_beyond_belt_rate_silk_deposit |  
+| bip_39_word_underscore_12 | can_tongue_rebuild_certain_one_opinion_beyond_belt_rate_silk_deposit_arrest |  
+| bip_39_word_underscore_2 | can_tongue |  
+| bip_39_word_underscore_3 | can_tongue_rebuild |  
+| bip_39_word_underscore_4 | can_tongue_rebuild_certain |  
+| bip_39_word_underscore_5 | can_tongue_rebuild_certain_one |  
+| bip_39_word_underscore_6 | can_tongue_rebuild_certain_one_opinion |  
+| bip_39_word_underscore_7 | can_tongue_rebuild_certain_one_opinion_beyond |  
+| bip_39_word_underscore_8 | can_tongue_rebuild_certain_one_opinion_beyond_belt |  
+| bip_39_word_underscore_9 | can_tongue_rebuild_certain_one_opinion_beyond_belt_rate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

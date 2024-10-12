@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | only |  
+| bip_39_word_dash_10 | only-foil-safe-tobacco-walk-invest-pupil-filter-skill-glove |  
+| bip_39_word_dash_11 | only-foil-safe-tobacco-walk-invest-pupil-filter-skill-glove-census |  
+| bip_39_word_dash_12 | only-foil-safe-tobacco-walk-invest-pupil-filter-skill-glove-census-album |  
+| bip_39_word_dash_2 | only-foil |  
+| bip_39_word_dash_3 | only-foil-safe |  
+| bip_39_word_dash_4 | only-foil-safe-tobacco |  
+| bip_39_word_dash_5 | only-foil-safe-tobacco-walk |  
+| bip_39_word_dash_6 | only-foil-safe-tobacco-walk-invest |  
+| bip_39_word_dash_7 | only-foil-safe-tobacco-walk-invest-pupil |  
+| bip_39_word_dash_8 | only-foil-safe-tobacco-walk-invest-pupil-filter |  
+| bip_39_word_dash_9 | only-foil-safe-tobacco-walk-invest-pupil-filter-skill |  
 | bip_39_word_new_br_1 | only |  
 | bip_39_word_new_br_10 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter<br>skill<br>glove |  
 | bip_39_word_new_br_11 | only<br>foil<br>safe<br>tobacco<br>walk<br>invest<br>pupil<br>filter<br>skill<br>glove<br>census |  
@@ -147,6 +159,18 @@ skill |
 | bip_39_word_space_7 | only foil safe tobacco walk invest pupil |  
 | bip_39_word_space_8 | only foil safe tobacco walk invest pupil filter |  
 | bip_39_word_space_9 | only foil safe tobacco walk invest pupil filter skill |  
+| bip_39_word_underscore_1 | only |  
+| bip_39_word_underscore_10 | only_foil_safe_tobacco_walk_invest_pupil_filter_skill_glove |  
+| bip_39_word_underscore_11 | only_foil_safe_tobacco_walk_invest_pupil_filter_skill_glove_census |  
+| bip_39_word_underscore_12 | only_foil_safe_tobacco_walk_invest_pupil_filter_skill_glove_census_album |  
+| bip_39_word_underscore_2 | only_foil |  
+| bip_39_word_underscore_3 | only_foil_safe |  
+| bip_39_word_underscore_4 | only_foil_safe_tobacco |  
+| bip_39_word_underscore_5 | only_foil_safe_tobacco_walk |  
+| bip_39_word_underscore_6 | only_foil_safe_tobacco_walk_invest |  
+| bip_39_word_underscore_7 | only_foil_safe_tobacco_walk_invest_pupil |  
+| bip_39_word_underscore_8 | only_foil_safe_tobacco_walk_invest_pupil_filter |  
+| bip_39_word_underscore_9 | only_foil_safe_tobacco_walk_invest_pupil_filter_skill |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

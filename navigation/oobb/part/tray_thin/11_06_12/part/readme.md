@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rally |  
+| bip_39_word_dash_10 | rally-mix-border-safe-ignore-faint-conduct-puppy-alarm-poem |  
+| bip_39_word_dash_11 | rally-mix-border-safe-ignore-faint-conduct-puppy-alarm-poem-nephew |  
+| bip_39_word_dash_12 | rally-mix-border-safe-ignore-faint-conduct-puppy-alarm-poem-nephew-airport |  
+| bip_39_word_dash_2 | rally-mix |  
+| bip_39_word_dash_3 | rally-mix-border |  
+| bip_39_word_dash_4 | rally-mix-border-safe |  
+| bip_39_word_dash_5 | rally-mix-border-safe-ignore |  
+| bip_39_word_dash_6 | rally-mix-border-safe-ignore-faint |  
+| bip_39_word_dash_7 | rally-mix-border-safe-ignore-faint-conduct |  
+| bip_39_word_dash_8 | rally-mix-border-safe-ignore-faint-conduct-puppy |  
+| bip_39_word_dash_9 | rally-mix-border-safe-ignore-faint-conduct-puppy-alarm |  
 | bip_39_word_new_br_1 | rally |  
 | bip_39_word_new_br_10 | rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy<br>alarm<br>poem |  
 | bip_39_word_new_br_11 | rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy<br>alarm<br>poem<br>nephew |  
@@ -147,6 +159,18 @@ alarm |
 | bip_39_word_space_7 | rally mix border safe ignore faint conduct |  
 | bip_39_word_space_8 | rally mix border safe ignore faint conduct puppy |  
 | bip_39_word_space_9 | rally mix border safe ignore faint conduct puppy alarm |  
+| bip_39_word_underscore_1 | rally |  
+| bip_39_word_underscore_10 | rally_mix_border_safe_ignore_faint_conduct_puppy_alarm_poem |  
+| bip_39_word_underscore_11 | rally_mix_border_safe_ignore_faint_conduct_puppy_alarm_poem_nephew |  
+| bip_39_word_underscore_12 | rally_mix_border_safe_ignore_faint_conduct_puppy_alarm_poem_nephew_airport |  
+| bip_39_word_underscore_2 | rally_mix |  
+| bip_39_word_underscore_3 | rally_mix_border |  
+| bip_39_word_underscore_4 | rally_mix_border_safe |  
+| bip_39_word_underscore_5 | rally_mix_border_safe_ignore |  
+| bip_39_word_underscore_6 | rally_mix_border_safe_ignore_faint |  
+| bip_39_word_underscore_7 | rally_mix_border_safe_ignore_faint_conduct |  
+| bip_39_word_underscore_8 | rally_mix_border_safe_ignore_faint_conduct_puppy |  
+| bip_39_word_underscore_9 | rally_mix_border_safe_ignore_faint_conduct_puppy_alarm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

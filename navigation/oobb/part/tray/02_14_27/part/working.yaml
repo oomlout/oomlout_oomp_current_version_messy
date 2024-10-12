@@ -1,3 +1,14 @@
+bip_39_word_dash_1: palace
+bip_39_word_dash_10: palace-provide-expand-beauty-erode-catch-soccer-tragic-erode-vocal
+bip_39_word_dash_11: palace-provide-expand-beauty-erode-catch-soccer-tragic-erode-vocal-orchard
+bip_39_word_dash_2: palace-provide
+bip_39_word_dash_3: palace-provide-expand
+bip_39_word_dash_4: palace-provide-expand-beauty
+bip_39_word_dash_5: palace-provide-expand-beauty-erode
+bip_39_word_dash_6: palace-provide-expand-beauty-erode-catch
+bip_39_word_dash_7: palace-provide-expand-beauty-erode-catch-soccer
+bip_39_word_dash_8: palace-provide-expand-beauty-erode-catch-soccer-tragic
+bip_39_word_dash_9: palace-provide-expand-beauty-erode-catch-soccer-tragic-erode
 bip_39_word_new_br_1: palace
 bip_39_word_new_br_10: palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode<br>vocal
 bip_39_word_new_br_11: palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode<br>vocal<br>orchard
@@ -166,6 +177,17 @@ bip_39_word_space_6: palace provide expand beauty erode catch
 bip_39_word_space_7: palace provide expand beauty erode catch soccer
 bip_39_word_space_8: palace provide expand beauty erode catch soccer tragic
 bip_39_word_space_9: palace provide expand beauty erode catch soccer tragic erode
+bip_39_word_underscore_1: palace
+bip_39_word_underscore_10: palace_provide_expand_beauty_erode_catch_soccer_tragic_erode_vocal
+bip_39_word_underscore_11: palace_provide_expand_beauty_erode_catch_soccer_tragic_erode_vocal_orchard
+bip_39_word_underscore_2: palace_provide
+bip_39_word_underscore_3: palace_provide_expand
+bip_39_word_underscore_4: palace_provide_expand_beauty
+bip_39_word_underscore_5: palace_provide_expand_beauty_erode
+bip_39_word_underscore_6: palace_provide_expand_beauty_erode_catch
+bip_39_word_underscore_7: palace_provide_expand_beauty_erode_catch_soccer
+bip_39_word_underscore_8: palace_provide_expand_beauty_erode_catch_soccer_tragic
+bip_39_word_underscore_9: palace_provide_expand_beauty_erode_catch_soccer_tragic_erode
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

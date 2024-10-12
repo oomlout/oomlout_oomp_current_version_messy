@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reform |  
+| bip_39_word_dash_10 | reform-hospital-shell-easy-envelope-half-mad-gym-citizen-curve |  
+| bip_39_word_dash_11 | reform-hospital-shell-easy-envelope-half-mad-gym-citizen-curve-document |  
+| bip_39_word_dash_12 | reform-hospital-shell-easy-envelope-half-mad-gym-citizen-curve-document-album |  
+| bip_39_word_dash_2 | reform-hospital |  
+| bip_39_word_dash_3 | reform-hospital-shell |  
+| bip_39_word_dash_4 | reform-hospital-shell-easy |  
+| bip_39_word_dash_5 | reform-hospital-shell-easy-envelope |  
+| bip_39_word_dash_6 | reform-hospital-shell-easy-envelope-half |  
+| bip_39_word_dash_7 | reform-hospital-shell-easy-envelope-half-mad |  
+| bip_39_word_dash_8 | reform-hospital-shell-easy-envelope-half-mad-gym |  
+| bip_39_word_dash_9 | reform-hospital-shell-easy-envelope-half-mad-gym-citizen |  
 | bip_39_word_new_br_1 | reform |  
 | bip_39_word_new_br_10 | reform<br>hospital<br>shell<br>easy<br>envelope<br>half<br>mad<br>gym<br>citizen<br>curve |  
 | bip_39_word_new_br_11 | reform<br>hospital<br>shell<br>easy<br>envelope<br>half<br>mad<br>gym<br>citizen<br>curve<br>document |  
@@ -147,6 +159,18 @@ citizen |
 | bip_39_word_space_7 | reform hospital shell easy envelope half mad |  
 | bip_39_word_space_8 | reform hospital shell easy envelope half mad gym |  
 | bip_39_word_space_9 | reform hospital shell easy envelope half mad gym citizen |  
+| bip_39_word_underscore_1 | reform |  
+| bip_39_word_underscore_10 | reform_hospital_shell_easy_envelope_half_mad_gym_citizen_curve |  
+| bip_39_word_underscore_11 | reform_hospital_shell_easy_envelope_half_mad_gym_citizen_curve_document |  
+| bip_39_word_underscore_12 | reform_hospital_shell_easy_envelope_half_mad_gym_citizen_curve_document_album |  
+| bip_39_word_underscore_2 | reform_hospital |  
+| bip_39_word_underscore_3 | reform_hospital_shell |  
+| bip_39_word_underscore_4 | reform_hospital_shell_easy |  
+| bip_39_word_underscore_5 | reform_hospital_shell_easy_envelope |  
+| bip_39_word_underscore_6 | reform_hospital_shell_easy_envelope_half |  
+| bip_39_word_underscore_7 | reform_hospital_shell_easy_envelope_half_mad |  
+| bip_39_word_underscore_8 | reform_hospital_shell_easy_envelope_half_mad_gym |  
+| bip_39_word_underscore_9 | reform_hospital_shell_easy_envelope_half_mad_gym_citizen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

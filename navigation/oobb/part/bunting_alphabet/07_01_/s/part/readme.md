@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boost |  
+| bip_39_word_dash_10 | boost-uncover-mutual-view-flame-destroy-rigid-oval-paper-march |  
+| bip_39_word_dash_11 | boost-uncover-mutual-view-flame-destroy-rigid-oval-paper-march-umbrella |  
+| bip_39_word_dash_12 | boost-uncover-mutual-view-flame-destroy-rigid-oval-paper-march-umbrella-appear |  
+| bip_39_word_dash_2 | boost-uncover |  
+| bip_39_word_dash_3 | boost-uncover-mutual |  
+| bip_39_word_dash_4 | boost-uncover-mutual-view |  
+| bip_39_word_dash_5 | boost-uncover-mutual-view-flame |  
+| bip_39_word_dash_6 | boost-uncover-mutual-view-flame-destroy |  
+| bip_39_word_dash_7 | boost-uncover-mutual-view-flame-destroy-rigid |  
+| bip_39_word_dash_8 | boost-uncover-mutual-view-flame-destroy-rigid-oval |  
+| bip_39_word_dash_9 | boost-uncover-mutual-view-flame-destroy-rigid-oval-paper |  
 | bip_39_word_new_br_1 | boost |  
 | bip_39_word_new_br_10 | boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval<br>paper<br>march |  
 | bip_39_word_new_br_11 | boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval<br>paper<br>march<br>umbrella |  
@@ -147,6 +159,18 @@ paper |
 | bip_39_word_space_7 | boost uncover mutual view flame destroy rigid |  
 | bip_39_word_space_8 | boost uncover mutual view flame destroy rigid oval |  
 | bip_39_word_space_9 | boost uncover mutual view flame destroy rigid oval paper |  
+| bip_39_word_underscore_1 | boost |  
+| bip_39_word_underscore_10 | boost_uncover_mutual_view_flame_destroy_rigid_oval_paper_march |  
+| bip_39_word_underscore_11 | boost_uncover_mutual_view_flame_destroy_rigid_oval_paper_march_umbrella |  
+| bip_39_word_underscore_12 | boost_uncover_mutual_view_flame_destroy_rigid_oval_paper_march_umbrella_appear |  
+| bip_39_word_underscore_2 | boost_uncover |  
+| bip_39_word_underscore_3 | boost_uncover_mutual |  
+| bip_39_word_underscore_4 | boost_uncover_mutual_view |  
+| bip_39_word_underscore_5 | boost_uncover_mutual_view_flame |  
+| bip_39_word_underscore_6 | boost_uncover_mutual_view_flame_destroy |  
+| bip_39_word_underscore_7 | boost_uncover_mutual_view_flame_destroy_rigid |  
+| bip_39_word_underscore_8 | boost_uncover_mutual_view_flame_destroy_rigid_oval |  
+| bip_39_word_underscore_9 | boost_uncover_mutual_view_flame_destroy_rigid_oval_paper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

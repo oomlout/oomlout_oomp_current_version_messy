@@ -1,3 +1,15 @@
+bip_39_word_dash_1: critic
+bip_39_word_dash_10: critic-midnight-wagon-enroll-piano-more-art-tail-stumble-illegal
+bip_39_word_dash_11: critic-midnight-wagon-enroll-piano-more-art-tail-stumble-illegal-wheat
+bip_39_word_dash_12: critic-midnight-wagon-enroll-piano-more-art-tail-stumble-illegal-wheat-accuse
+bip_39_word_dash_2: critic-midnight
+bip_39_word_dash_3: critic-midnight-wagon
+bip_39_word_dash_4: critic-midnight-wagon-enroll
+bip_39_word_dash_5: critic-midnight-wagon-enroll-piano
+bip_39_word_dash_6: critic-midnight-wagon-enroll-piano-more
+bip_39_word_dash_7: critic-midnight-wagon-enroll-piano-more-art
+bip_39_word_dash_8: critic-midnight-wagon-enroll-piano-more-art-tail
+bip_39_word_dash_9: critic-midnight-wagon-enroll-piano-more-art-tail-stumble
 bip_39_word_new_br_1: critic
 bip_39_word_new_br_10: critic<br>midnight<br>wagon<br>enroll<br>piano<br>more<br>art<br>tail<br>stumble<br>illegal
 bip_39_word_new_br_11: critic<br>midnight<br>wagon<br>enroll<br>piano<br>more<br>art<br>tail<br>stumble<br>illegal<br>wheat
@@ -193,6 +205,18 @@ bip_39_word_space_6: critic midnight wagon enroll piano more
 bip_39_word_space_7: critic midnight wagon enroll piano more art
 bip_39_word_space_8: critic midnight wagon enroll piano more art tail
 bip_39_word_space_9: critic midnight wagon enroll piano more art tail stumble
+bip_39_word_underscore_1: critic
+bip_39_word_underscore_10: critic_midnight_wagon_enroll_piano_more_art_tail_stumble_illegal
+bip_39_word_underscore_11: critic_midnight_wagon_enroll_piano_more_art_tail_stumble_illegal_wheat
+bip_39_word_underscore_12: critic_midnight_wagon_enroll_piano_more_art_tail_stumble_illegal_wheat_accuse
+bip_39_word_underscore_2: critic_midnight
+bip_39_word_underscore_3: critic_midnight_wagon
+bip_39_word_underscore_4: critic_midnight_wagon_enroll
+bip_39_word_underscore_5: critic_midnight_wagon_enroll_piano
+bip_39_word_underscore_6: critic_midnight_wagon_enroll_piano_more
+bip_39_word_underscore_7: critic_midnight_wagon_enroll_piano_more_art
+bip_39_word_underscore_8: critic_midnight_wagon_enroll_piano_more_art_tail
+bip_39_word_underscore_9: critic_midnight_wagon_enroll_piano_more_art_tail_stumble
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

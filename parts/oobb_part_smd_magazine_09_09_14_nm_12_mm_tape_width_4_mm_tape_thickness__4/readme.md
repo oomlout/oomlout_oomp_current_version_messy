@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | outside |  
+| bip_39_word_dash_10 | outside-baby-labor-trash-thrive-paper-wash-choose-elevator-spatial |  
+| bip_39_word_dash_11 | outside-baby-labor-trash-thrive-paper-wash-choose-elevator-spatial-corn |  
+| bip_39_word_dash_12 | outside-baby-labor-trash-thrive-paper-wash-choose-elevator-spatial-corn-afraid |  
+| bip_39_word_dash_2 | outside-baby |  
+| bip_39_word_dash_3 | outside-baby-labor |  
+| bip_39_word_dash_4 | outside-baby-labor-trash |  
+| bip_39_word_dash_5 | outside-baby-labor-trash-thrive |  
+| bip_39_word_dash_6 | outside-baby-labor-trash-thrive-paper |  
+| bip_39_word_dash_7 | outside-baby-labor-trash-thrive-paper-wash |  
+| bip_39_word_dash_8 | outside-baby-labor-trash-thrive-paper-wash-choose |  
+| bip_39_word_dash_9 | outside-baby-labor-trash-thrive-paper-wash-choose-elevator |  
 | bip_39_word_new_br_1 | outside |  
 | bip_39_word_new_br_10 | outside<br>baby<br>labor<br>trash<br>thrive<br>paper<br>wash<br>choose<br>elevator<br>spatial |  
 | bip_39_word_new_br_11 | outside<br>baby<br>labor<br>trash<br>thrive<br>paper<br>wash<br>choose<br>elevator<br>spatial<br>corn |  
@@ -147,6 +159,18 @@ elevator |
 | bip_39_word_space_7 | outside baby labor trash thrive paper wash |  
 | bip_39_word_space_8 | outside baby labor trash thrive paper wash choose |  
 | bip_39_word_space_9 | outside baby labor trash thrive paper wash choose elevator |  
+| bip_39_word_underscore_1 | outside |  
+| bip_39_word_underscore_10 | outside_baby_labor_trash_thrive_paper_wash_choose_elevator_spatial |  
+| bip_39_word_underscore_11 | outside_baby_labor_trash_thrive_paper_wash_choose_elevator_spatial_corn |  
+| bip_39_word_underscore_12 | outside_baby_labor_trash_thrive_paper_wash_choose_elevator_spatial_corn_afraid |  
+| bip_39_word_underscore_2 | outside_baby |  
+| bip_39_word_underscore_3 | outside_baby_labor |  
+| bip_39_word_underscore_4 | outside_baby_labor_trash |  
+| bip_39_word_underscore_5 | outside_baby_labor_trash_thrive |  
+| bip_39_word_underscore_6 | outside_baby_labor_trash_thrive_paper |  
+| bip_39_word_underscore_7 | outside_baby_labor_trash_thrive_paper_wash |  
+| bip_39_word_underscore_8 | outside_baby_labor_trash_thrive_paper_wash_choose |  
+| bip_39_word_underscore_9 | outside_baby_labor_trash_thrive_paper_wash_choose_elevator |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: few
+bip_39_word_dash_10: few-pencil-health-cook-appear-column-oak-nephew-cinnamon-leader
+bip_39_word_dash_11: few-pencil-health-cook-appear-column-oak-nephew-cinnamon-leader-spike
+bip_39_word_dash_12: few-pencil-health-cook-appear-column-oak-nephew-cinnamon-leader-spike-attract
+bip_39_word_dash_2: few-pencil
+bip_39_word_dash_3: few-pencil-health
+bip_39_word_dash_4: few-pencil-health-cook
+bip_39_word_dash_5: few-pencil-health-cook-appear
+bip_39_word_dash_6: few-pencil-health-cook-appear-column
+bip_39_word_dash_7: few-pencil-health-cook-appear-column-oak
+bip_39_word_dash_8: few-pencil-health-cook-appear-column-oak-nephew
+bip_39_word_dash_9: few-pencil-health-cook-appear-column-oak-nephew-cinnamon
 bip_39_word_new_br_1: few
 bip_39_word_new_br_10: few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader
 bip_39_word_new_br_11: few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader<br>spike
@@ -193,6 +205,18 @@ bip_39_word_space_6: few pencil health cook appear column
 bip_39_word_space_7: few pencil health cook appear column oak
 bip_39_word_space_8: few pencil health cook appear column oak nephew
 bip_39_word_space_9: few pencil health cook appear column oak nephew cinnamon
+bip_39_word_underscore_1: few
+bip_39_word_underscore_10: few_pencil_health_cook_appear_column_oak_nephew_cinnamon_leader
+bip_39_word_underscore_11: few_pencil_health_cook_appear_column_oak_nephew_cinnamon_leader_spike
+bip_39_word_underscore_12: few_pencil_health_cook_appear_column_oak_nephew_cinnamon_leader_spike_attract
+bip_39_word_underscore_2: few_pencil
+bip_39_word_underscore_3: few_pencil_health
+bip_39_word_underscore_4: few_pencil_health_cook
+bip_39_word_underscore_5: few_pencil_health_cook_appear
+bip_39_word_underscore_6: few_pencil_health_cook_appear_column
+bip_39_word_underscore_7: few_pencil_health_cook_appear_column_oak
+bip_39_word_underscore_8: few_pencil_health_cook_appear_column_oak_nephew
+bip_39_word_underscore_9: few_pencil_health_cook_appear_column_oak_nephew_cinnamon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

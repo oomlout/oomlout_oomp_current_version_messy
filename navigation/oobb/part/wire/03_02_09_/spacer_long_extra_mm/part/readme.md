@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vanish |  
+| bip_39_word_dash_10 | vanish-simple-comfort-afford-can-cloth-quality-moral-census-impact |  
+| bip_39_word_dash_11 | vanish-simple-comfort-afford-can-cloth-quality-moral-census-impact-mule |  
+| bip_39_word_dash_12 | vanish-simple-comfort-afford-can-cloth-quality-moral-census-impact-mule-arrow |  
+| bip_39_word_dash_2 | vanish-simple |  
+| bip_39_word_dash_3 | vanish-simple-comfort |  
+| bip_39_word_dash_4 | vanish-simple-comfort-afford |  
+| bip_39_word_dash_5 | vanish-simple-comfort-afford-can |  
+| bip_39_word_dash_6 | vanish-simple-comfort-afford-can-cloth |  
+| bip_39_word_dash_7 | vanish-simple-comfort-afford-can-cloth-quality |  
+| bip_39_word_dash_8 | vanish-simple-comfort-afford-can-cloth-quality-moral |  
+| bip_39_word_dash_9 | vanish-simple-comfort-afford-can-cloth-quality-moral-census |  
 | bip_39_word_new_br_1 | vanish |  
 | bip_39_word_new_br_10 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral<br>census<br>impact |  
 | bip_39_word_new_br_11 | vanish<br>simple<br>comfort<br>afford<br>can<br>cloth<br>quality<br>moral<br>census<br>impact<br>mule |  
@@ -147,6 +159,18 @@ census |
 | bip_39_word_space_7 | vanish simple comfort afford can cloth quality |  
 | bip_39_word_space_8 | vanish simple comfort afford can cloth quality moral |  
 | bip_39_word_space_9 | vanish simple comfort afford can cloth quality moral census |  
+| bip_39_word_underscore_1 | vanish |  
+| bip_39_word_underscore_10 | vanish_simple_comfort_afford_can_cloth_quality_moral_census_impact |  
+| bip_39_word_underscore_11 | vanish_simple_comfort_afford_can_cloth_quality_moral_census_impact_mule |  
+| bip_39_word_underscore_12 | vanish_simple_comfort_afford_can_cloth_quality_moral_census_impact_mule_arrow |  
+| bip_39_word_underscore_2 | vanish_simple |  
+| bip_39_word_underscore_3 | vanish_simple_comfort |  
+| bip_39_word_underscore_4 | vanish_simple_comfort_afford |  
+| bip_39_word_underscore_5 | vanish_simple_comfort_afford_can |  
+| bip_39_word_underscore_6 | vanish_simple_comfort_afford_can_cloth |  
+| bip_39_word_underscore_7 | vanish_simple_comfort_afford_can_cloth_quality |  
+| bip_39_word_underscore_8 | vanish_simple_comfort_afford_can_cloth_quality_moral |  
+| bip_39_word_underscore_9 | vanish_simple_comfort_afford_can_cloth_quality_moral_census |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

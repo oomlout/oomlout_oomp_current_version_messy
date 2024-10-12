@@ -1,3 +1,15 @@
+bip_39_word_dash_1: apart
+bip_39_word_dash_10: apart-flush-minute-excuse-rotate-fold-spider-air-guard-scorpion
+bip_39_word_dash_11: apart-flush-minute-excuse-rotate-fold-spider-air-guard-scorpion-lounge
+bip_39_word_dash_12: apart-flush-minute-excuse-rotate-fold-spider-air-guard-scorpion-lounge-arch
+bip_39_word_dash_2: apart-flush
+bip_39_word_dash_3: apart-flush-minute
+bip_39_word_dash_4: apart-flush-minute-excuse
+bip_39_word_dash_5: apart-flush-minute-excuse-rotate
+bip_39_word_dash_6: apart-flush-minute-excuse-rotate-fold
+bip_39_word_dash_7: apart-flush-minute-excuse-rotate-fold-spider
+bip_39_word_dash_8: apart-flush-minute-excuse-rotate-fold-spider-air
+bip_39_word_dash_9: apart-flush-minute-excuse-rotate-fold-spider-air-guard
 bip_39_word_new_br_1: apart
 bip_39_word_new_br_10: apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air<br>guard<br>scorpion
 bip_39_word_new_br_11: apart<br>flush<br>minute<br>excuse<br>rotate<br>fold<br>spider<br>air<br>guard<br>scorpion<br>lounge
@@ -193,6 +205,18 @@ bip_39_word_space_6: apart flush minute excuse rotate fold
 bip_39_word_space_7: apart flush minute excuse rotate fold spider
 bip_39_word_space_8: apart flush minute excuse rotate fold spider air
 bip_39_word_space_9: apart flush minute excuse rotate fold spider air guard
+bip_39_word_underscore_1: apart
+bip_39_word_underscore_10: apart_flush_minute_excuse_rotate_fold_spider_air_guard_scorpion
+bip_39_word_underscore_11: apart_flush_minute_excuse_rotate_fold_spider_air_guard_scorpion_lounge
+bip_39_word_underscore_12: apart_flush_minute_excuse_rotate_fold_spider_air_guard_scorpion_lounge_arch
+bip_39_word_underscore_2: apart_flush
+bip_39_word_underscore_3: apart_flush_minute
+bip_39_word_underscore_4: apart_flush_minute_excuse
+bip_39_word_underscore_5: apart_flush_minute_excuse_rotate
+bip_39_word_underscore_6: apart_flush_minute_excuse_rotate_fold
+bip_39_word_underscore_7: apart_flush_minute_excuse_rotate_fold_spider
+bip_39_word_underscore_8: apart_flush_minute_excuse_rotate_fold_spider_air
+bip_39_word_underscore_9: apart_flush_minute_excuse_rotate_fold_spider_air_guard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

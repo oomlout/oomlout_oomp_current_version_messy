@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | embrace |  
+| bip_39_word_dash_10 | embrace-mesh-twist-night-detect-reopen-alert-chunk-simple-reopen |  
+| bip_39_word_dash_11 | embrace-mesh-twist-night-detect-reopen-alert-chunk-simple-reopen-pistol |  
+| bip_39_word_dash_12 | embrace-mesh-twist-night-detect-reopen-alert-chunk-simple-reopen-pistol-another |  
+| bip_39_word_dash_2 | embrace-mesh |  
+| bip_39_word_dash_3 | embrace-mesh-twist |  
+| bip_39_word_dash_4 | embrace-mesh-twist-night |  
+| bip_39_word_dash_5 | embrace-mesh-twist-night-detect |  
+| bip_39_word_dash_6 | embrace-mesh-twist-night-detect-reopen |  
+| bip_39_word_dash_7 | embrace-mesh-twist-night-detect-reopen-alert |  
+| bip_39_word_dash_8 | embrace-mesh-twist-night-detect-reopen-alert-chunk |  
+| bip_39_word_dash_9 | embrace-mesh-twist-night-detect-reopen-alert-chunk-simple |  
 | bip_39_word_new_br_1 | embrace |  
 | bip_39_word_new_br_10 | embrace<br>mesh<br>twist<br>night<br>detect<br>reopen<br>alert<br>chunk<br>simple<br>reopen |  
 | bip_39_word_new_br_11 | embrace<br>mesh<br>twist<br>night<br>detect<br>reopen<br>alert<br>chunk<br>simple<br>reopen<br>pistol |  
@@ -147,6 +159,18 @@ simple |
 | bip_39_word_space_7 | embrace mesh twist night detect reopen alert |  
 | bip_39_word_space_8 | embrace mesh twist night detect reopen alert chunk |  
 | bip_39_word_space_9 | embrace mesh twist night detect reopen alert chunk simple |  
+| bip_39_word_underscore_1 | embrace |  
+| bip_39_word_underscore_10 | embrace_mesh_twist_night_detect_reopen_alert_chunk_simple_reopen |  
+| bip_39_word_underscore_11 | embrace_mesh_twist_night_detect_reopen_alert_chunk_simple_reopen_pistol |  
+| bip_39_word_underscore_12 | embrace_mesh_twist_night_detect_reopen_alert_chunk_simple_reopen_pistol_another |  
+| bip_39_word_underscore_2 | embrace_mesh |  
+| bip_39_word_underscore_3 | embrace_mesh_twist |  
+| bip_39_word_underscore_4 | embrace_mesh_twist_night |  
+| bip_39_word_underscore_5 | embrace_mesh_twist_night_detect |  
+| bip_39_word_underscore_6 | embrace_mesh_twist_night_detect_reopen |  
+| bip_39_word_underscore_7 | embrace_mesh_twist_night_detect_reopen_alert |  
+| bip_39_word_underscore_8 | embrace_mesh_twist_night_detect_reopen_alert_chunk |  
+| bip_39_word_underscore_9 | embrace_mesh_twist_night_detect_reopen_alert_chunk_simple |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

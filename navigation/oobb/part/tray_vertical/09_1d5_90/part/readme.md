@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | already |  
+| bip_39_word_dash_10 | already-before-test-carbon-lounge-hover-more-cargo-rule-inch |  
+| bip_39_word_dash_11 | already-before-test-carbon-lounge-hover-more-cargo-rule-inch-imitate |  
+| bip_39_word_dash_12 | already-before-test-carbon-lounge-hover-more-cargo-rule-inch-imitate-amateur |  
+| bip_39_word_dash_2 | already-before |  
+| bip_39_word_dash_3 | already-before-test |  
+| bip_39_word_dash_4 | already-before-test-carbon |  
+| bip_39_word_dash_5 | already-before-test-carbon-lounge |  
+| bip_39_word_dash_6 | already-before-test-carbon-lounge-hover |  
+| bip_39_word_dash_7 | already-before-test-carbon-lounge-hover-more |  
+| bip_39_word_dash_8 | already-before-test-carbon-lounge-hover-more-cargo |  
+| bip_39_word_dash_9 | already-before-test-carbon-lounge-hover-more-cargo-rule |  
 | bip_39_word_new_br_1 | already |  
 | bip_39_word_new_br_10 | already<br>before<br>test<br>carbon<br>lounge<br>hover<br>more<br>cargo<br>rule<br>inch |  
 | bip_39_word_new_br_11 | already<br>before<br>test<br>carbon<br>lounge<br>hover<br>more<br>cargo<br>rule<br>inch<br>imitate |  
@@ -147,6 +159,18 @@ rule |
 | bip_39_word_space_7 | already before test carbon lounge hover more |  
 | bip_39_word_space_8 | already before test carbon lounge hover more cargo |  
 | bip_39_word_space_9 | already before test carbon lounge hover more cargo rule |  
+| bip_39_word_underscore_1 | already |  
+| bip_39_word_underscore_10 | already_before_test_carbon_lounge_hover_more_cargo_rule_inch |  
+| bip_39_word_underscore_11 | already_before_test_carbon_lounge_hover_more_cargo_rule_inch_imitate |  
+| bip_39_word_underscore_12 | already_before_test_carbon_lounge_hover_more_cargo_rule_inch_imitate_amateur |  
+| bip_39_word_underscore_2 | already_before |  
+| bip_39_word_underscore_3 | already_before_test |  
+| bip_39_word_underscore_4 | already_before_test_carbon |  
+| bip_39_word_underscore_5 | already_before_test_carbon_lounge |  
+| bip_39_word_underscore_6 | already_before_test_carbon_lounge_hover |  
+| bip_39_word_underscore_7 | already_before_test_carbon_lounge_hover_more |  
+| bip_39_word_underscore_8 | already_before_test_carbon_lounge_hover_more_cargo |  
+| bip_39_word_underscore_9 | already_before_test_carbon_lounge_hover_more_cargo_rule |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

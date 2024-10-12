@@ -1,3 +1,15 @@
+bip_39_word_dash_1: soldier
+bip_39_word_dash_10: soldier-cool-dash-chat-this-review-eight-apart-vivid-hint
+bip_39_word_dash_11: soldier-cool-dash-chat-this-review-eight-apart-vivid-hint-uniform
+bip_39_word_dash_12: soldier-cool-dash-chat-this-review-eight-apart-vivid-hint-uniform-angle
+bip_39_word_dash_2: soldier-cool
+bip_39_word_dash_3: soldier-cool-dash
+bip_39_word_dash_4: soldier-cool-dash-chat
+bip_39_word_dash_5: soldier-cool-dash-chat-this
+bip_39_word_dash_6: soldier-cool-dash-chat-this-review
+bip_39_word_dash_7: soldier-cool-dash-chat-this-review-eight
+bip_39_word_dash_8: soldier-cool-dash-chat-this-review-eight-apart
+bip_39_word_dash_9: soldier-cool-dash-chat-this-review-eight-apart-vivid
 bip_39_word_new_br_1: soldier
 bip_39_word_new_br_10: soldier<br>cool<br>dash<br>chat<br>this<br>review<br>eight<br>apart<br>vivid<br>hint
 bip_39_word_new_br_11: soldier<br>cool<br>dash<br>chat<br>this<br>review<br>eight<br>apart<br>vivid<br>hint<br>uniform
@@ -192,6 +204,18 @@ bip_39_word_space_6: soldier cool dash chat this review
 bip_39_word_space_7: soldier cool dash chat this review eight
 bip_39_word_space_8: soldier cool dash chat this review eight apart
 bip_39_word_space_9: soldier cool dash chat this review eight apart vivid
+bip_39_word_underscore_1: soldier
+bip_39_word_underscore_10: soldier_cool_dash_chat_this_review_eight_apart_vivid_hint
+bip_39_word_underscore_11: soldier_cool_dash_chat_this_review_eight_apart_vivid_hint_uniform
+bip_39_word_underscore_12: soldier_cool_dash_chat_this_review_eight_apart_vivid_hint_uniform_angle
+bip_39_word_underscore_2: soldier_cool
+bip_39_word_underscore_3: soldier_cool_dash
+bip_39_word_underscore_4: soldier_cool_dash_chat
+bip_39_word_underscore_5: soldier_cool_dash_chat_this
+bip_39_word_underscore_6: soldier_cool_dash_chat_this_review
+bip_39_word_underscore_7: soldier_cool_dash_chat_this_review_eight
+bip_39_word_underscore_8: soldier_cool_dash_chat_this_review_eight_apart
+bip_39_word_underscore_9: soldier_cool_dash_chat_this_review_eight_apart_vivid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

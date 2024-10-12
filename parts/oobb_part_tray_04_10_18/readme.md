@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tree |  
+| bip_39_word_dash_10 | tree-wagon-siren-observe-bicycle-chapter-zebra-sibling-whisper-elite |  
+| bip_39_word_dash_11 | tree-wagon-siren-observe-bicycle-chapter-zebra-sibling-whisper-elite-lounge |  
+| bip_39_word_dash_12 | tree-wagon-siren-observe-bicycle-chapter-zebra-sibling-whisper-elite-lounge-auction |  
+| bip_39_word_dash_2 | tree-wagon |  
+| bip_39_word_dash_3 | tree-wagon-siren |  
+| bip_39_word_dash_4 | tree-wagon-siren-observe |  
+| bip_39_word_dash_5 | tree-wagon-siren-observe-bicycle |  
+| bip_39_word_dash_6 | tree-wagon-siren-observe-bicycle-chapter |  
+| bip_39_word_dash_7 | tree-wagon-siren-observe-bicycle-chapter-zebra |  
+| bip_39_word_dash_8 | tree-wagon-siren-observe-bicycle-chapter-zebra-sibling |  
+| bip_39_word_dash_9 | tree-wagon-siren-observe-bicycle-chapter-zebra-sibling-whisper |  
 | bip_39_word_new_br_1 | tree |  
 | bip_39_word_new_br_10 | tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling<br>whisper<br>elite |  
 | bip_39_word_new_br_11 | tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling<br>whisper<br>elite<br>lounge |  
@@ -147,6 +159,18 @@ whisper |
 | bip_39_word_space_7 | tree wagon siren observe bicycle chapter zebra |  
 | bip_39_word_space_8 | tree wagon siren observe bicycle chapter zebra sibling |  
 | bip_39_word_space_9 | tree wagon siren observe bicycle chapter zebra sibling whisper |  
+| bip_39_word_underscore_1 | tree |  
+| bip_39_word_underscore_10 | tree_wagon_siren_observe_bicycle_chapter_zebra_sibling_whisper_elite |  
+| bip_39_word_underscore_11 | tree_wagon_siren_observe_bicycle_chapter_zebra_sibling_whisper_elite_lounge |  
+| bip_39_word_underscore_12 | tree_wagon_siren_observe_bicycle_chapter_zebra_sibling_whisper_elite_lounge_auction |  
+| bip_39_word_underscore_2 | tree_wagon |  
+| bip_39_word_underscore_3 | tree_wagon_siren |  
+| bip_39_word_underscore_4 | tree_wagon_siren_observe |  
+| bip_39_word_underscore_5 | tree_wagon_siren_observe_bicycle |  
+| bip_39_word_underscore_6 | tree_wagon_siren_observe_bicycle_chapter |  
+| bip_39_word_underscore_7 | tree_wagon_siren_observe_bicycle_chapter_zebra |  
+| bip_39_word_underscore_8 | tree_wagon_siren_observe_bicycle_chapter_zebra_sibling |  
+| bip_39_word_underscore_9 | tree_wagon_siren_observe_bicycle_chapter_zebra_sibling_whisper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

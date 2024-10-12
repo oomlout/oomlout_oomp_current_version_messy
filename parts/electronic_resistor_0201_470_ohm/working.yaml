@@ -1,3 +1,15 @@
+bip_39_word_dash_1: thrive
+bip_39_word_dash_10: thrive-apart-bleak-nation-duck-snake-engine-arrest-fluid-unveil
+bip_39_word_dash_11: thrive-apart-bleak-nation-duck-snake-engine-arrest-fluid-unveil-front
+bip_39_word_dash_12: thrive-apart-bleak-nation-duck-snake-engine-arrest-fluid-unveil-front-attend
+bip_39_word_dash_2: thrive-apart
+bip_39_word_dash_3: thrive-apart-bleak
+bip_39_word_dash_4: thrive-apart-bleak-nation
+bip_39_word_dash_5: thrive-apart-bleak-nation-duck
+bip_39_word_dash_6: thrive-apart-bleak-nation-duck-snake
+bip_39_word_dash_7: thrive-apart-bleak-nation-duck-snake-engine
+bip_39_word_dash_8: thrive-apart-bleak-nation-duck-snake-engine-arrest
+bip_39_word_dash_9: thrive-apart-bleak-nation-duck-snake-engine-arrest-fluid
 bip_39_word_new_br_1: thrive
 bip_39_word_new_br_10: thrive<br>apart<br>bleak<br>nation<br>duck<br>snake<br>engine<br>arrest<br>fluid<br>unveil
 bip_39_word_new_br_11: thrive<br>apart<br>bleak<br>nation<br>duck<br>snake<br>engine<br>arrest<br>fluid<br>unveil<br>front
@@ -193,6 +205,18 @@ bip_39_word_space_6: thrive apart bleak nation duck snake
 bip_39_word_space_7: thrive apart bleak nation duck snake engine
 bip_39_word_space_8: thrive apart bleak nation duck snake engine arrest
 bip_39_word_space_9: thrive apart bleak nation duck snake engine arrest fluid
+bip_39_word_underscore_1: thrive
+bip_39_word_underscore_10: thrive_apart_bleak_nation_duck_snake_engine_arrest_fluid_unveil
+bip_39_word_underscore_11: thrive_apart_bleak_nation_duck_snake_engine_arrest_fluid_unveil_front
+bip_39_word_underscore_12: thrive_apart_bleak_nation_duck_snake_engine_arrest_fluid_unveil_front_attend
+bip_39_word_underscore_2: thrive_apart
+bip_39_word_underscore_3: thrive_apart_bleak
+bip_39_word_underscore_4: thrive_apart_bleak_nation
+bip_39_word_underscore_5: thrive_apart_bleak_nation_duck
+bip_39_word_underscore_6: thrive_apart_bleak_nation_duck_snake
+bip_39_word_underscore_7: thrive_apart_bleak_nation_duck_snake_engine
+bip_39_word_underscore_8: thrive_apart_bleak_nation_duck_snake_engine_arrest
+bip_39_word_underscore_9: thrive_apart_bleak_nation_duck_snake_engine_arrest_fluid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

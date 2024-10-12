@@ -1,3 +1,15 @@
+bip_39_word_dash_1: region
+bip_39_word_dash_10: region-orchard-ghost-body-farm-globe-small-update-pride-piano
+bip_39_word_dash_11: region-orchard-ghost-body-farm-globe-small-update-pride-piano-someone
+bip_39_word_dash_12: region-orchard-ghost-body-farm-globe-small-update-pride-piano-someone-appear
+bip_39_word_dash_2: region-orchard
+bip_39_word_dash_3: region-orchard-ghost
+bip_39_word_dash_4: region-orchard-ghost-body
+bip_39_word_dash_5: region-orchard-ghost-body-farm
+bip_39_word_dash_6: region-orchard-ghost-body-farm-globe
+bip_39_word_dash_7: region-orchard-ghost-body-farm-globe-small
+bip_39_word_dash_8: region-orchard-ghost-body-farm-globe-small-update
+bip_39_word_dash_9: region-orchard-ghost-body-farm-globe-small-update-pride
 bip_39_word_new_br_1: region
 bip_39_word_new_br_10: region<br>orchard<br>ghost<br>body<br>farm<br>globe<br>small<br>update<br>pride<br>piano
 bip_39_word_new_br_11: region<br>orchard<br>ghost<br>body<br>farm<br>globe<br>small<br>update<br>pride<br>piano<br>someone
@@ -193,6 +205,18 @@ bip_39_word_space_6: region orchard ghost body farm globe
 bip_39_word_space_7: region orchard ghost body farm globe small
 bip_39_word_space_8: region orchard ghost body farm globe small update
 bip_39_word_space_9: region orchard ghost body farm globe small update pride
+bip_39_word_underscore_1: region
+bip_39_word_underscore_10: region_orchard_ghost_body_farm_globe_small_update_pride_piano
+bip_39_word_underscore_11: region_orchard_ghost_body_farm_globe_small_update_pride_piano_someone
+bip_39_word_underscore_12: region_orchard_ghost_body_farm_globe_small_update_pride_piano_someone_appear
+bip_39_word_underscore_2: region_orchard
+bip_39_word_underscore_3: region_orchard_ghost
+bip_39_word_underscore_4: region_orchard_ghost_body
+bip_39_word_underscore_5: region_orchard_ghost_body_farm
+bip_39_word_underscore_6: region_orchard_ghost_body_farm_globe
+bip_39_word_underscore_7: region_orchard_ghost_body_farm_globe_small
+bip_39_word_underscore_8: region_orchard_ghost_body_farm_globe_small_update
+bip_39_word_underscore_9: region_orchard_ghost_body_farm_globe_small_update_pride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

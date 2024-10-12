@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | problem |  
+| bip_39_word_dash_10 | problem-property-excess-daughter-timber-chat-twice-question-liberty-brown |  
+| bip_39_word_dash_11 | problem-property-excess-daughter-timber-chat-twice-question-liberty-brown-kiss |  
+| bip_39_word_dash_12 | problem-property-excess-daughter-timber-chat-twice-question-liberty-brown-kiss-alcohol |  
+| bip_39_word_dash_2 | problem-property |  
+| bip_39_word_dash_3 | problem-property-excess |  
+| bip_39_word_dash_4 | problem-property-excess-daughter |  
+| bip_39_word_dash_5 | problem-property-excess-daughter-timber |  
+| bip_39_word_dash_6 | problem-property-excess-daughter-timber-chat |  
+| bip_39_word_dash_7 | problem-property-excess-daughter-timber-chat-twice |  
+| bip_39_word_dash_8 | problem-property-excess-daughter-timber-chat-twice-question |  
+| bip_39_word_dash_9 | problem-property-excess-daughter-timber-chat-twice-question-liberty |  
 | bip_39_word_new_br_1 | problem |  
 | bip_39_word_new_br_10 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown |  
 | bip_39_word_new_br_11 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown<br>kiss |  
@@ -147,6 +159,18 @@ liberty |
 | bip_39_word_space_7 | problem property excess daughter timber chat twice |  
 | bip_39_word_space_8 | problem property excess daughter timber chat twice question |  
 | bip_39_word_space_9 | problem property excess daughter timber chat twice question liberty |  
+| bip_39_word_underscore_1 | problem |  
+| bip_39_word_underscore_10 | problem_property_excess_daughter_timber_chat_twice_question_liberty_brown |  
+| bip_39_word_underscore_11 | problem_property_excess_daughter_timber_chat_twice_question_liberty_brown_kiss |  
+| bip_39_word_underscore_12 | problem_property_excess_daughter_timber_chat_twice_question_liberty_brown_kiss_alcohol |  
+| bip_39_word_underscore_2 | problem_property |  
+| bip_39_word_underscore_3 | problem_property_excess |  
+| bip_39_word_underscore_4 | problem_property_excess_daughter |  
+| bip_39_word_underscore_5 | problem_property_excess_daughter_timber |  
+| bip_39_word_underscore_6 | problem_property_excess_daughter_timber_chat |  
+| bip_39_word_underscore_7 | problem_property_excess_daughter_timber_chat_twice |  
+| bip_39_word_underscore_8 | problem_property_excess_daughter_timber_chat_twice_question |  
+| bip_39_word_underscore_9 | problem_property_excess_daughter_timber_chat_twice_question_liberty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

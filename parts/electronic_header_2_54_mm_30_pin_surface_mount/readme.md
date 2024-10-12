@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lounge |  
+| bip_39_word_dash_10 | lounge-fuel-cliff-jar-brand-brown-youth-earn-drastic-dance |  
+| bip_39_word_dash_11 | lounge-fuel-cliff-jar-brand-brown-youth-earn-drastic-dance-dad |  
+| bip_39_word_dash_12 | lounge-fuel-cliff-jar-brand-brown-youth-earn-drastic-dance-dad-autumn |  
+| bip_39_word_dash_2 | lounge-fuel |  
+| bip_39_word_dash_3 | lounge-fuel-cliff |  
+| bip_39_word_dash_4 | lounge-fuel-cliff-jar |  
+| bip_39_word_dash_5 | lounge-fuel-cliff-jar-brand |  
+| bip_39_word_dash_6 | lounge-fuel-cliff-jar-brand-brown |  
+| bip_39_word_dash_7 | lounge-fuel-cliff-jar-brand-brown-youth |  
+| bip_39_word_dash_8 | lounge-fuel-cliff-jar-brand-brown-youth-earn |  
+| bip_39_word_dash_9 | lounge-fuel-cliff-jar-brand-brown-youth-earn-drastic |  
 | bip_39_word_new_br_1 | lounge |  
 | bip_39_word_new_br_10 | lounge<br>fuel<br>cliff<br>jar<br>brand<br>brown<br>youth<br>earn<br>drastic<br>dance |  
 | bip_39_word_new_br_11 | lounge<br>fuel<br>cliff<br>jar<br>brand<br>brown<br>youth<br>earn<br>drastic<br>dance<br>dad |  
@@ -147,6 +159,18 @@ drastic |
 | bip_39_word_space_7 | lounge fuel cliff jar brand brown youth |  
 | bip_39_word_space_8 | lounge fuel cliff jar brand brown youth earn |  
 | bip_39_word_space_9 | lounge fuel cliff jar brand brown youth earn drastic |  
+| bip_39_word_underscore_1 | lounge |  
+| bip_39_word_underscore_10 | lounge_fuel_cliff_jar_brand_brown_youth_earn_drastic_dance |  
+| bip_39_word_underscore_11 | lounge_fuel_cliff_jar_brand_brown_youth_earn_drastic_dance_dad |  
+| bip_39_word_underscore_12 | lounge_fuel_cliff_jar_brand_brown_youth_earn_drastic_dance_dad_autumn |  
+| bip_39_word_underscore_2 | lounge_fuel |  
+| bip_39_word_underscore_3 | lounge_fuel_cliff |  
+| bip_39_word_underscore_4 | lounge_fuel_cliff_jar |  
+| bip_39_word_underscore_5 | lounge_fuel_cliff_jar_brand |  
+| bip_39_word_underscore_6 | lounge_fuel_cliff_jar_brand_brown |  
+| bip_39_word_underscore_7 | lounge_fuel_cliff_jar_brand_brown_youth |  
+| bip_39_word_underscore_8 | lounge_fuel_cliff_jar_brand_brown_youth_earn |  
+| bip_39_word_underscore_9 | lounge_fuel_cliff_jar_brand_brown_youth_earn_drastic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

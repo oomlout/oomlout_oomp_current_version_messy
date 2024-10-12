@@ -1,3 +1,15 @@
+bip_39_word_dash_1: moon
+bip_39_word_dash_10: moon-guard-narrow-nation-nominee-chronic-struggle-kite-fatal-enroll
+bip_39_word_dash_11: moon-guard-narrow-nation-nominee-chronic-struggle-kite-fatal-enroll-hammer
+bip_39_word_dash_12: moon-guard-narrow-nation-nominee-chronic-struggle-kite-fatal-enroll-hammer-adjust
+bip_39_word_dash_2: moon-guard
+bip_39_word_dash_3: moon-guard-narrow
+bip_39_word_dash_4: moon-guard-narrow-nation
+bip_39_word_dash_5: moon-guard-narrow-nation-nominee
+bip_39_word_dash_6: moon-guard-narrow-nation-nominee-chronic
+bip_39_word_dash_7: moon-guard-narrow-nation-nominee-chronic-struggle
+bip_39_word_dash_8: moon-guard-narrow-nation-nominee-chronic-struggle-kite
+bip_39_word_dash_9: moon-guard-narrow-nation-nominee-chronic-struggle-kite-fatal
 bip_39_word_new_br_1: moon
 bip_39_word_new_br_10: moon<br>guard<br>narrow<br>nation<br>nominee<br>chronic<br>struggle<br>kite<br>fatal<br>enroll
 bip_39_word_new_br_11: moon<br>guard<br>narrow<br>nation<br>nominee<br>chronic<br>struggle<br>kite<br>fatal<br>enroll<br>hammer
@@ -194,6 +206,18 @@ bip_39_word_space_6: moon guard narrow nation nominee chronic
 bip_39_word_space_7: moon guard narrow nation nominee chronic struggle
 bip_39_word_space_8: moon guard narrow nation nominee chronic struggle kite
 bip_39_word_space_9: moon guard narrow nation nominee chronic struggle kite fatal
+bip_39_word_underscore_1: moon
+bip_39_word_underscore_10: moon_guard_narrow_nation_nominee_chronic_struggle_kite_fatal_enroll
+bip_39_word_underscore_11: moon_guard_narrow_nation_nominee_chronic_struggle_kite_fatal_enroll_hammer
+bip_39_word_underscore_12: moon_guard_narrow_nation_nominee_chronic_struggle_kite_fatal_enroll_hammer_adjust
+bip_39_word_underscore_2: moon_guard
+bip_39_word_underscore_3: moon_guard_narrow
+bip_39_word_underscore_4: moon_guard_narrow_nation
+bip_39_word_underscore_5: moon_guard_narrow_nation_nominee
+bip_39_word_underscore_6: moon_guard_narrow_nation_nominee_chronic
+bip_39_word_underscore_7: moon_guard_narrow_nation_nominee_chronic_struggle
+bip_39_word_underscore_8: moon_guard_narrow_nation_nominee_chronic_struggle_kite
+bip_39_word_underscore_9: moon_guard_narrow_nation_nominee_chronic_struggle_kite_fatal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

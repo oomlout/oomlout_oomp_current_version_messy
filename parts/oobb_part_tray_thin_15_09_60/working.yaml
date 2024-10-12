@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crazy
+bip_39_word_dash_10: crazy-fame-practice-room-sun-section-since-hospital-dust-entire
+bip_39_word_dash_11: crazy-fame-practice-room-sun-section-since-hospital-dust-entire-improve
+bip_39_word_dash_12: crazy-fame-practice-room-sun-section-since-hospital-dust-entire-improve-april
+bip_39_word_dash_2: crazy-fame
+bip_39_word_dash_3: crazy-fame-practice
+bip_39_word_dash_4: crazy-fame-practice-room
+bip_39_word_dash_5: crazy-fame-practice-room-sun
+bip_39_word_dash_6: crazy-fame-practice-room-sun-section
+bip_39_word_dash_7: crazy-fame-practice-room-sun-section-since
+bip_39_word_dash_8: crazy-fame-practice-room-sun-section-since-hospital
+bip_39_word_dash_9: crazy-fame-practice-room-sun-section-since-hospital-dust
 bip_39_word_new_br_1: crazy
 bip_39_word_new_br_10: crazy<br>fame<br>practice<br>room<br>sun<br>section<br>since<br>hospital<br>dust<br>entire
 bip_39_word_new_br_11: crazy<br>fame<br>practice<br>room<br>sun<br>section<br>since<br>hospital<br>dust<br>entire<br>improve
@@ -193,6 +205,18 @@ bip_39_word_space_6: crazy fame practice room sun section
 bip_39_word_space_7: crazy fame practice room sun section since
 bip_39_word_space_8: crazy fame practice room sun section since hospital
 bip_39_word_space_9: crazy fame practice room sun section since hospital dust
+bip_39_word_underscore_1: crazy
+bip_39_word_underscore_10: crazy_fame_practice_room_sun_section_since_hospital_dust_entire
+bip_39_word_underscore_11: crazy_fame_practice_room_sun_section_since_hospital_dust_entire_improve
+bip_39_word_underscore_12: crazy_fame_practice_room_sun_section_since_hospital_dust_entire_improve_april
+bip_39_word_underscore_2: crazy_fame
+bip_39_word_underscore_3: crazy_fame_practice
+bip_39_word_underscore_4: crazy_fame_practice_room
+bip_39_word_underscore_5: crazy_fame_practice_room_sun
+bip_39_word_underscore_6: crazy_fame_practice_room_sun_section
+bip_39_word_underscore_7: crazy_fame_practice_room_sun_section_since
+bip_39_word_underscore_8: crazy_fame_practice_room_sun_section_since_hospital
+bip_39_word_underscore_9: crazy_fame_practice_room_sun_section_since_hospital_dust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | degree |  
+| bip_39_word_dash_10 | degree-inquiry-ready-radio-grab-april-romance-creek-crunch-kite |  
+| bip_39_word_dash_11 | degree-inquiry-ready-radio-grab-april-romance-creek-crunch-kite-certain |  
+| bip_39_word_dash_12 | degree-inquiry-ready-radio-grab-april-romance-creek-crunch-kite-certain-acid |  
+| bip_39_word_dash_2 | degree-inquiry |  
+| bip_39_word_dash_3 | degree-inquiry-ready |  
+| bip_39_word_dash_4 | degree-inquiry-ready-radio |  
+| bip_39_word_dash_5 | degree-inquiry-ready-radio-grab |  
+| bip_39_word_dash_6 | degree-inquiry-ready-radio-grab-april |  
+| bip_39_word_dash_7 | degree-inquiry-ready-radio-grab-april-romance |  
+| bip_39_word_dash_8 | degree-inquiry-ready-radio-grab-april-romance-creek |  
+| bip_39_word_dash_9 | degree-inquiry-ready-radio-grab-april-romance-creek-crunch |  
 | bip_39_word_new_br_1 | degree |  
 | bip_39_word_new_br_10 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite |  
 | bip_39_word_new_br_11 | degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite<br>certain |  
@@ -147,6 +159,18 @@ crunch |
 | bip_39_word_space_7 | degree inquiry ready radio grab april romance |  
 | bip_39_word_space_8 | degree inquiry ready radio grab april romance creek |  
 | bip_39_word_space_9 | degree inquiry ready radio grab april romance creek crunch |  
+| bip_39_word_underscore_1 | degree |  
+| bip_39_word_underscore_10 | degree_inquiry_ready_radio_grab_april_romance_creek_crunch_kite |  
+| bip_39_word_underscore_11 | degree_inquiry_ready_radio_grab_april_romance_creek_crunch_kite_certain |  
+| bip_39_word_underscore_12 | degree_inquiry_ready_radio_grab_april_romance_creek_crunch_kite_certain_acid |  
+| bip_39_word_underscore_2 | degree_inquiry |  
+| bip_39_word_underscore_3 | degree_inquiry_ready |  
+| bip_39_word_underscore_4 | degree_inquiry_ready_radio |  
+| bip_39_word_underscore_5 | degree_inquiry_ready_radio_grab |  
+| bip_39_word_underscore_6 | degree_inquiry_ready_radio_grab_april |  
+| bip_39_word_underscore_7 | degree_inquiry_ready_radio_grab_april_romance |  
+| bip_39_word_underscore_8 | degree_inquiry_ready_radio_grab_april_romance_creek |  
+| bip_39_word_underscore_9 | degree_inquiry_ready_radio_grab_april_romance_creek_crunch |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

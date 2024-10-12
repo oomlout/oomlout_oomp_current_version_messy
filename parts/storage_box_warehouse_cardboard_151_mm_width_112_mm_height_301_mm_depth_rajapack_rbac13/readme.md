@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fatal |  
+| bip_39_word_dash_10 | fatal-suggest-firm-almost-play-pride-inject-meat-canal-joke |  
+| bip_39_word_dash_11 | fatal-suggest-firm-almost-play-pride-inject-meat-canal-joke-end |  
+| bip_39_word_dash_12 | fatal-suggest-firm-almost-play-pride-inject-meat-canal-joke-end-addict |  
+| bip_39_word_dash_2 | fatal-suggest |  
+| bip_39_word_dash_3 | fatal-suggest-firm |  
+| bip_39_word_dash_4 | fatal-suggest-firm-almost |  
+| bip_39_word_dash_5 | fatal-suggest-firm-almost-play |  
+| bip_39_word_dash_6 | fatal-suggest-firm-almost-play-pride |  
+| bip_39_word_dash_7 | fatal-suggest-firm-almost-play-pride-inject |  
+| bip_39_word_dash_8 | fatal-suggest-firm-almost-play-pride-inject-meat |  
+| bip_39_word_dash_9 | fatal-suggest-firm-almost-play-pride-inject-meat-canal |  
 | bip_39_word_new_br_1 | fatal |  
 | bip_39_word_new_br_10 | fatal<br>suggest<br>firm<br>almost<br>play<br>pride<br>inject<br>meat<br>canal<br>joke |  
 | bip_39_word_new_br_11 | fatal<br>suggest<br>firm<br>almost<br>play<br>pride<br>inject<br>meat<br>canal<br>joke<br>end |  
@@ -147,6 +159,18 @@ canal |
 | bip_39_word_space_7 | fatal suggest firm almost play pride inject |  
 | bip_39_word_space_8 | fatal suggest firm almost play pride inject meat |  
 | bip_39_word_space_9 | fatal suggest firm almost play pride inject meat canal |  
+| bip_39_word_underscore_1 | fatal |  
+| bip_39_word_underscore_10 | fatal_suggest_firm_almost_play_pride_inject_meat_canal_joke |  
+| bip_39_word_underscore_11 | fatal_suggest_firm_almost_play_pride_inject_meat_canal_joke_end |  
+| bip_39_word_underscore_12 | fatal_suggest_firm_almost_play_pride_inject_meat_canal_joke_end_addict |  
+| bip_39_word_underscore_2 | fatal_suggest |  
+| bip_39_word_underscore_3 | fatal_suggest_firm |  
+| bip_39_word_underscore_4 | fatal_suggest_firm_almost |  
+| bip_39_word_underscore_5 | fatal_suggest_firm_almost_play |  
+| bip_39_word_underscore_6 | fatal_suggest_firm_almost_play_pride |  
+| bip_39_word_underscore_7 | fatal_suggest_firm_almost_play_pride_inject |  
+| bip_39_word_underscore_8 | fatal_suggest_firm_almost_play_pride_inject_meat |  
+| bip_39_word_underscore_9 | fatal_suggest_firm_almost_play_pride_inject_meat_canal |  
 | classification | storage |  
 | classification_capital | Storage |  
 | classification_first_letter | s |  

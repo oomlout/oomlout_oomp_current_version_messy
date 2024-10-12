@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | memory |  
+| bip_39_word_dash_10 | memory-tired-together-champion-entry-allow-elevator-obscure-solar-forum |  
+| bip_39_word_dash_11 | memory-tired-together-champion-entry-allow-elevator-obscure-solar-forum-cheap |  
+| bip_39_word_dash_12 | memory-tired-together-champion-entry-allow-elevator-obscure-solar-forum-cheap-alley |  
+| bip_39_word_dash_2 | memory-tired |  
+| bip_39_word_dash_3 | memory-tired-together |  
+| bip_39_word_dash_4 | memory-tired-together-champion |  
+| bip_39_word_dash_5 | memory-tired-together-champion-entry |  
+| bip_39_word_dash_6 | memory-tired-together-champion-entry-allow |  
+| bip_39_word_dash_7 | memory-tired-together-champion-entry-allow-elevator |  
+| bip_39_word_dash_8 | memory-tired-together-champion-entry-allow-elevator-obscure |  
+| bip_39_word_dash_9 | memory-tired-together-champion-entry-allow-elevator-obscure-solar |  
 | bip_39_word_new_br_1 | memory |  
 | bip_39_word_new_br_10 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum |  
 | bip_39_word_new_br_11 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum<br>cheap |  
@@ -147,6 +159,18 @@ solar |
 | bip_39_word_space_7 | memory tired together champion entry allow elevator |  
 | bip_39_word_space_8 | memory tired together champion entry allow elevator obscure |  
 | bip_39_word_space_9 | memory tired together champion entry allow elevator obscure solar |  
+| bip_39_word_underscore_1 | memory |  
+| bip_39_word_underscore_10 | memory_tired_together_champion_entry_allow_elevator_obscure_solar_forum |  
+| bip_39_word_underscore_11 | memory_tired_together_champion_entry_allow_elevator_obscure_solar_forum_cheap |  
+| bip_39_word_underscore_12 | memory_tired_together_champion_entry_allow_elevator_obscure_solar_forum_cheap_alley |  
+| bip_39_word_underscore_2 | memory_tired |  
+| bip_39_word_underscore_3 | memory_tired_together |  
+| bip_39_word_underscore_4 | memory_tired_together_champion |  
+| bip_39_word_underscore_5 | memory_tired_together_champion_entry |  
+| bip_39_word_underscore_6 | memory_tired_together_champion_entry_allow |  
+| bip_39_word_underscore_7 | memory_tired_together_champion_entry_allow_elevator |  
+| bip_39_word_underscore_8 | memory_tired_together_champion_entry_allow_elevator_obscure |  
+| bip_39_word_underscore_9 | memory_tired_together_champion_entry_allow_elevator_obscure_solar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

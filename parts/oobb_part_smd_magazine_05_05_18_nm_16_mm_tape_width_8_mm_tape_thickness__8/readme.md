@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eye |  
+| bip_39_word_dash_10 | eye-trade-electric-razor-rescue-smart-trouble-comfort-absorb-almost |  
+| bip_39_word_dash_11 | eye-trade-electric-razor-rescue-smart-trouble-comfort-absorb-almost-special |  
+| bip_39_word_dash_12 | eye-trade-electric-razor-rescue-smart-trouble-comfort-absorb-almost-special-animal |  
+| bip_39_word_dash_2 | eye-trade |  
+| bip_39_word_dash_3 | eye-trade-electric |  
+| bip_39_word_dash_4 | eye-trade-electric-razor |  
+| bip_39_word_dash_5 | eye-trade-electric-razor-rescue |  
+| bip_39_word_dash_6 | eye-trade-electric-razor-rescue-smart |  
+| bip_39_word_dash_7 | eye-trade-electric-razor-rescue-smart-trouble |  
+| bip_39_word_dash_8 | eye-trade-electric-razor-rescue-smart-trouble-comfort |  
+| bip_39_word_dash_9 | eye-trade-electric-razor-rescue-smart-trouble-comfort-absorb |  
 | bip_39_word_new_br_1 | eye |  
 | bip_39_word_new_br_10 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost |  
 | bip_39_word_new_br_11 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost<br>special |  
@@ -147,6 +159,18 @@ absorb |
 | bip_39_word_space_7 | eye trade electric razor rescue smart trouble |  
 | bip_39_word_space_8 | eye trade electric razor rescue smart trouble comfort |  
 | bip_39_word_space_9 | eye trade electric razor rescue smart trouble comfort absorb |  
+| bip_39_word_underscore_1 | eye |  
+| bip_39_word_underscore_10 | eye_trade_electric_razor_rescue_smart_trouble_comfort_absorb_almost |  
+| bip_39_word_underscore_11 | eye_trade_electric_razor_rescue_smart_trouble_comfort_absorb_almost_special |  
+| bip_39_word_underscore_12 | eye_trade_electric_razor_rescue_smart_trouble_comfort_absorb_almost_special_animal |  
+| bip_39_word_underscore_2 | eye_trade |  
+| bip_39_word_underscore_3 | eye_trade_electric |  
+| bip_39_word_underscore_4 | eye_trade_electric_razor |  
+| bip_39_word_underscore_5 | eye_trade_electric_razor_rescue |  
+| bip_39_word_underscore_6 | eye_trade_electric_razor_rescue_smart |  
+| bip_39_word_underscore_7 | eye_trade_electric_razor_rescue_smart_trouble |  
+| bip_39_word_underscore_8 | eye_trade_electric_razor_rescue_smart_trouble_comfort |  
+| bip_39_word_underscore_9 | eye_trade_electric_razor_rescue_smart_trouble_comfort_absorb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

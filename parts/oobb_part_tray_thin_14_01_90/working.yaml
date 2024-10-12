@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wood
+bip_39_word_dash_10: wood-churn-hour-menu-amount-tower-fat-letter-foot-seven
+bip_39_word_dash_11: wood-churn-hour-menu-amount-tower-fat-letter-foot-seven-holiday
+bip_39_word_dash_12: wood-churn-hour-menu-amount-tower-fat-letter-foot-seven-holiday-attitude
+bip_39_word_dash_2: wood-churn
+bip_39_word_dash_3: wood-churn-hour
+bip_39_word_dash_4: wood-churn-hour-menu
+bip_39_word_dash_5: wood-churn-hour-menu-amount
+bip_39_word_dash_6: wood-churn-hour-menu-amount-tower
+bip_39_word_dash_7: wood-churn-hour-menu-amount-tower-fat
+bip_39_word_dash_8: wood-churn-hour-menu-amount-tower-fat-letter
+bip_39_word_dash_9: wood-churn-hour-menu-amount-tower-fat-letter-foot
 bip_39_word_new_br_1: wood
 bip_39_word_new_br_10: wood<br>churn<br>hour<br>menu<br>amount<br>tower<br>fat<br>letter<br>foot<br>seven
 bip_39_word_new_br_11: wood<br>churn<br>hour<br>menu<br>amount<br>tower<br>fat<br>letter<br>foot<br>seven<br>holiday
@@ -192,6 +204,18 @@ bip_39_word_space_6: wood churn hour menu amount tower
 bip_39_word_space_7: wood churn hour menu amount tower fat
 bip_39_word_space_8: wood churn hour menu amount tower fat letter
 bip_39_word_space_9: wood churn hour menu amount tower fat letter foot
+bip_39_word_underscore_1: wood
+bip_39_word_underscore_10: wood_churn_hour_menu_amount_tower_fat_letter_foot_seven
+bip_39_word_underscore_11: wood_churn_hour_menu_amount_tower_fat_letter_foot_seven_holiday
+bip_39_word_underscore_12: wood_churn_hour_menu_amount_tower_fat_letter_foot_seven_holiday_attitude
+bip_39_word_underscore_2: wood_churn
+bip_39_word_underscore_3: wood_churn_hour
+bip_39_word_underscore_4: wood_churn_hour_menu
+bip_39_word_underscore_5: wood_churn_hour_menu_amount
+bip_39_word_underscore_6: wood_churn_hour_menu_amount_tower
+bip_39_word_underscore_7: wood_churn_hour_menu_amount_tower_fat
+bip_39_word_underscore_8: wood_churn_hour_menu_amount_tower_fat_letter
+bip_39_word_underscore_9: wood_churn_hour_menu_amount_tower_fat_letter_foot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

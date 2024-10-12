@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vital |  
+| bip_39_word_dash_10 | vital-egg-disagree-bicycle-sketch-bargain-van-crouch-long-harbor |  
+| bip_39_word_dash_11 | vital-egg-disagree-bicycle-sketch-bargain-van-crouch-long-harbor-damage |  
+| bip_39_word_dash_12 | vital-egg-disagree-bicycle-sketch-bargain-van-crouch-long-harbor-damage-art |  
+| bip_39_word_dash_2 | vital-egg |  
+| bip_39_word_dash_3 | vital-egg-disagree |  
+| bip_39_word_dash_4 | vital-egg-disagree-bicycle |  
+| bip_39_word_dash_5 | vital-egg-disagree-bicycle-sketch |  
+| bip_39_word_dash_6 | vital-egg-disagree-bicycle-sketch-bargain |  
+| bip_39_word_dash_7 | vital-egg-disagree-bicycle-sketch-bargain-van |  
+| bip_39_word_dash_8 | vital-egg-disagree-bicycle-sketch-bargain-van-crouch |  
+| bip_39_word_dash_9 | vital-egg-disagree-bicycle-sketch-bargain-van-crouch-long |  
 | bip_39_word_new_br_1 | vital |  
 | bip_39_word_new_br_10 | vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor |  
 | bip_39_word_new_br_11 | vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor<br>damage |  
@@ -147,6 +159,18 @@ long |
 | bip_39_word_space_7 | vital egg disagree bicycle sketch bargain van |  
 | bip_39_word_space_8 | vital egg disagree bicycle sketch bargain van crouch |  
 | bip_39_word_space_9 | vital egg disagree bicycle sketch bargain van crouch long |  
+| bip_39_word_underscore_1 | vital |  
+| bip_39_word_underscore_10 | vital_egg_disagree_bicycle_sketch_bargain_van_crouch_long_harbor |  
+| bip_39_word_underscore_11 | vital_egg_disagree_bicycle_sketch_bargain_van_crouch_long_harbor_damage |  
+| bip_39_word_underscore_12 | vital_egg_disagree_bicycle_sketch_bargain_van_crouch_long_harbor_damage_art |  
+| bip_39_word_underscore_2 | vital_egg |  
+| bip_39_word_underscore_3 | vital_egg_disagree |  
+| bip_39_word_underscore_4 | vital_egg_disagree_bicycle |  
+| bip_39_word_underscore_5 | vital_egg_disagree_bicycle_sketch |  
+| bip_39_word_underscore_6 | vital_egg_disagree_bicycle_sketch_bargain |  
+| bip_39_word_underscore_7 | vital_egg_disagree_bicycle_sketch_bargain_van |  
+| bip_39_word_underscore_8 | vital_egg_disagree_bicycle_sketch_bargain_van_crouch |  
+| bip_39_word_underscore_9 | vital_egg_disagree_bicycle_sketch_bargain_van_crouch_long |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

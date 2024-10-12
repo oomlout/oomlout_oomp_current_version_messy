@@ -1,3 +1,15 @@
+bip_39_word_dash_1: oyster
+bip_39_word_dash_10: oyster-young-gasp-gravity-start-journey-drink-spring-core-critic
+bip_39_word_dash_11: oyster-young-gasp-gravity-start-journey-drink-spring-core-critic-girl
+bip_39_word_dash_12: oyster-young-gasp-gravity-start-journey-drink-spring-core-critic-girl-apart
+bip_39_word_dash_2: oyster-young
+bip_39_word_dash_3: oyster-young-gasp
+bip_39_word_dash_4: oyster-young-gasp-gravity
+bip_39_word_dash_5: oyster-young-gasp-gravity-start
+bip_39_word_dash_6: oyster-young-gasp-gravity-start-journey
+bip_39_word_dash_7: oyster-young-gasp-gravity-start-journey-drink
+bip_39_word_dash_8: oyster-young-gasp-gravity-start-journey-drink-spring
+bip_39_word_dash_9: oyster-young-gasp-gravity-start-journey-drink-spring-core
 bip_39_word_new_br_1: oyster
 bip_39_word_new_br_10: oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic
 bip_39_word_new_br_11: oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic<br>girl
@@ -193,6 +205,18 @@ bip_39_word_space_6: oyster young gasp gravity start journey
 bip_39_word_space_7: oyster young gasp gravity start journey drink
 bip_39_word_space_8: oyster young gasp gravity start journey drink spring
 bip_39_word_space_9: oyster young gasp gravity start journey drink spring core
+bip_39_word_underscore_1: oyster
+bip_39_word_underscore_10: oyster_young_gasp_gravity_start_journey_drink_spring_core_critic
+bip_39_word_underscore_11: oyster_young_gasp_gravity_start_journey_drink_spring_core_critic_girl
+bip_39_word_underscore_12: oyster_young_gasp_gravity_start_journey_drink_spring_core_critic_girl_apart
+bip_39_word_underscore_2: oyster_young
+bip_39_word_underscore_3: oyster_young_gasp
+bip_39_word_underscore_4: oyster_young_gasp_gravity
+bip_39_word_underscore_5: oyster_young_gasp_gravity_start
+bip_39_word_underscore_6: oyster_young_gasp_gravity_start_journey
+bip_39_word_underscore_7: oyster_young_gasp_gravity_start_journey_drink
+bip_39_word_underscore_8: oyster_young_gasp_gravity_start_journey_drink_spring
+bip_39_word_underscore_9: oyster_young_gasp_gravity_start_journey_drink_spring_core
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | man |  
+| bip_39_word_dash_10 | man-lemon-vote-tennis-point-rely-purity-advance-rate-claw |  
+| bip_39_word_dash_11 | man-lemon-vote-tennis-point-rely-purity-advance-rate-claw-casino |  
+| bip_39_word_dash_12 | man-lemon-vote-tennis-point-rely-purity-advance-rate-claw-casino-accident |  
+| bip_39_word_dash_2 | man-lemon |  
+| bip_39_word_dash_3 | man-lemon-vote |  
+| bip_39_word_dash_4 | man-lemon-vote-tennis |  
+| bip_39_word_dash_5 | man-lemon-vote-tennis-point |  
+| bip_39_word_dash_6 | man-lemon-vote-tennis-point-rely |  
+| bip_39_word_dash_7 | man-lemon-vote-tennis-point-rely-purity |  
+| bip_39_word_dash_8 | man-lemon-vote-tennis-point-rely-purity-advance |  
+| bip_39_word_dash_9 | man-lemon-vote-tennis-point-rely-purity-advance-rate |  
 | bip_39_word_new_br_1 | man |  
 | bip_39_word_new_br_10 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance<br>rate<br>claw |  
 | bip_39_word_new_br_11 | man<br>lemon<br>vote<br>tennis<br>point<br>rely<br>purity<br>advance<br>rate<br>claw<br>casino |  
@@ -147,6 +159,18 @@ rate |
 | bip_39_word_space_7 | man lemon vote tennis point rely purity |  
 | bip_39_word_space_8 | man lemon vote tennis point rely purity advance |  
 | bip_39_word_space_9 | man lemon vote tennis point rely purity advance rate |  
+| bip_39_word_underscore_1 | man |  
+| bip_39_word_underscore_10 | man_lemon_vote_tennis_point_rely_purity_advance_rate_claw |  
+| bip_39_word_underscore_11 | man_lemon_vote_tennis_point_rely_purity_advance_rate_claw_casino |  
+| bip_39_word_underscore_12 | man_lemon_vote_tennis_point_rely_purity_advance_rate_claw_casino_accident |  
+| bip_39_word_underscore_2 | man_lemon |  
+| bip_39_word_underscore_3 | man_lemon_vote |  
+| bip_39_word_underscore_4 | man_lemon_vote_tennis |  
+| bip_39_word_underscore_5 | man_lemon_vote_tennis_point |  
+| bip_39_word_underscore_6 | man_lemon_vote_tennis_point_rely |  
+| bip_39_word_underscore_7 | man_lemon_vote_tennis_point_rely_purity |  
+| bip_39_word_underscore_8 | man_lemon_vote_tennis_point_rely_purity_advance |  
+| bip_39_word_underscore_9 | man_lemon_vote_tennis_point_rely_purity_advance_rate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

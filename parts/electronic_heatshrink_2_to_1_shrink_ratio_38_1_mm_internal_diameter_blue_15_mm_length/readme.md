@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | agree |  
+| bip_39_word_dash_10 | agree-valid-soda-unfair-giggle-illness-swallow-gym-scan-ten |  
+| bip_39_word_dash_11 | agree-valid-soda-unfair-giggle-illness-swallow-gym-scan-ten-flush |  
+| bip_39_word_dash_12 | agree-valid-soda-unfair-giggle-illness-swallow-gym-scan-ten-flush-absent |  
+| bip_39_word_dash_2 | agree-valid |  
+| bip_39_word_dash_3 | agree-valid-soda |  
+| bip_39_word_dash_4 | agree-valid-soda-unfair |  
+| bip_39_word_dash_5 | agree-valid-soda-unfair-giggle |  
+| bip_39_word_dash_6 | agree-valid-soda-unfair-giggle-illness |  
+| bip_39_word_dash_7 | agree-valid-soda-unfair-giggle-illness-swallow |  
+| bip_39_word_dash_8 | agree-valid-soda-unfair-giggle-illness-swallow-gym |  
+| bip_39_word_dash_9 | agree-valid-soda-unfair-giggle-illness-swallow-gym-scan |  
 | bip_39_word_new_br_1 | agree |  
 | bip_39_word_new_br_10 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten |  
 | bip_39_word_new_br_11 | agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten<br>flush |  
@@ -147,6 +159,18 @@ scan |
 | bip_39_word_space_7 | agree valid soda unfair giggle illness swallow |  
 | bip_39_word_space_8 | agree valid soda unfair giggle illness swallow gym |  
 | bip_39_word_space_9 | agree valid soda unfair giggle illness swallow gym scan |  
+| bip_39_word_underscore_1 | agree |  
+| bip_39_word_underscore_10 | agree_valid_soda_unfair_giggle_illness_swallow_gym_scan_ten |  
+| bip_39_word_underscore_11 | agree_valid_soda_unfair_giggle_illness_swallow_gym_scan_ten_flush |  
+| bip_39_word_underscore_12 | agree_valid_soda_unfair_giggle_illness_swallow_gym_scan_ten_flush_absent |  
+| bip_39_word_underscore_2 | agree_valid |  
+| bip_39_word_underscore_3 | agree_valid_soda |  
+| bip_39_word_underscore_4 | agree_valid_soda_unfair |  
+| bip_39_word_underscore_5 | agree_valid_soda_unfair_giggle |  
+| bip_39_word_underscore_6 | agree_valid_soda_unfair_giggle_illness |  
+| bip_39_word_underscore_7 | agree_valid_soda_unfair_giggle_illness_swallow |  
+| bip_39_word_underscore_8 | agree_valid_soda_unfair_giggle_illness_swallow_gym |  
+| bip_39_word_underscore_9 | agree_valid_soda_unfair_giggle_illness_swallow_gym_scan |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

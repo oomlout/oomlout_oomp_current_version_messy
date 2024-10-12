@@ -1,3 +1,15 @@
+bip_39_word_dash_1: joy
+bip_39_word_dash_10: joy-west-razor-stone-example-uncle-region-swift-kiwi-brave
+bip_39_word_dash_11: joy-west-razor-stone-example-uncle-region-swift-kiwi-brave-garage
+bip_39_word_dash_12: joy-west-razor-stone-example-uncle-region-swift-kiwi-brave-garage-asset
+bip_39_word_dash_2: joy-west
+bip_39_word_dash_3: joy-west-razor
+bip_39_word_dash_4: joy-west-razor-stone
+bip_39_word_dash_5: joy-west-razor-stone-example
+bip_39_word_dash_6: joy-west-razor-stone-example-uncle
+bip_39_word_dash_7: joy-west-razor-stone-example-uncle-region
+bip_39_word_dash_8: joy-west-razor-stone-example-uncle-region-swift
+bip_39_word_dash_9: joy-west-razor-stone-example-uncle-region-swift-kiwi
 bip_39_word_new_br_1: joy
 bip_39_word_new_br_10: joy<br>west<br>razor<br>stone<br>example<br>uncle<br>region<br>swift<br>kiwi<br>brave
 bip_39_word_new_br_11: joy<br>west<br>razor<br>stone<br>example<br>uncle<br>region<br>swift<br>kiwi<br>brave<br>garage
@@ -192,6 +204,18 @@ bip_39_word_space_6: joy west razor stone example uncle
 bip_39_word_space_7: joy west razor stone example uncle region
 bip_39_word_space_8: joy west razor stone example uncle region swift
 bip_39_word_space_9: joy west razor stone example uncle region swift kiwi
+bip_39_word_underscore_1: joy
+bip_39_word_underscore_10: joy_west_razor_stone_example_uncle_region_swift_kiwi_brave
+bip_39_word_underscore_11: joy_west_razor_stone_example_uncle_region_swift_kiwi_brave_garage
+bip_39_word_underscore_12: joy_west_razor_stone_example_uncle_region_swift_kiwi_brave_garage_asset
+bip_39_word_underscore_2: joy_west
+bip_39_word_underscore_3: joy_west_razor
+bip_39_word_underscore_4: joy_west_razor_stone
+bip_39_word_underscore_5: joy_west_razor_stone_example
+bip_39_word_underscore_6: joy_west_razor_stone_example_uncle
+bip_39_word_underscore_7: joy_west_razor_stone_example_uncle_region
+bip_39_word_underscore_8: joy_west_razor_stone_example_uncle_region_swift
+bip_39_word_underscore_9: joy_west_razor_stone_example_uncle_region_swift_kiwi
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

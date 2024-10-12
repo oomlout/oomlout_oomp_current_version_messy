@@ -1,3 +1,15 @@
+bip_39_word_dash_1: supply
+bip_39_word_dash_10: supply-wear-story-snack-tennis-run-endless-color-inform-stool
+bip_39_word_dash_11: supply-wear-story-snack-tennis-run-endless-color-inform-stool-link
+bip_39_word_dash_12: supply-wear-story-snack-tennis-run-endless-color-inform-stool-link-antique
+bip_39_word_dash_2: supply-wear
+bip_39_word_dash_3: supply-wear-story
+bip_39_word_dash_4: supply-wear-story-snack
+bip_39_word_dash_5: supply-wear-story-snack-tennis
+bip_39_word_dash_6: supply-wear-story-snack-tennis-run
+bip_39_word_dash_7: supply-wear-story-snack-tennis-run-endless
+bip_39_word_dash_8: supply-wear-story-snack-tennis-run-endless-color
+bip_39_word_dash_9: supply-wear-story-snack-tennis-run-endless-color-inform
 bip_39_word_new_br_1: supply
 bip_39_word_new_br_10: supply<br>wear<br>story<br>snack<br>tennis<br>run<br>endless<br>color<br>inform<br>stool
 bip_39_word_new_br_11: supply<br>wear<br>story<br>snack<br>tennis<br>run<br>endless<br>color<br>inform<br>stool<br>link
@@ -193,6 +205,18 @@ bip_39_word_space_6: supply wear story snack tennis run
 bip_39_word_space_7: supply wear story snack tennis run endless
 bip_39_word_space_8: supply wear story snack tennis run endless color
 bip_39_word_space_9: supply wear story snack tennis run endless color inform
+bip_39_word_underscore_1: supply
+bip_39_word_underscore_10: supply_wear_story_snack_tennis_run_endless_color_inform_stool
+bip_39_word_underscore_11: supply_wear_story_snack_tennis_run_endless_color_inform_stool_link
+bip_39_word_underscore_12: supply_wear_story_snack_tennis_run_endless_color_inform_stool_link_antique
+bip_39_word_underscore_2: supply_wear
+bip_39_word_underscore_3: supply_wear_story
+bip_39_word_underscore_4: supply_wear_story_snack
+bip_39_word_underscore_5: supply_wear_story_snack_tennis
+bip_39_word_underscore_6: supply_wear_story_snack_tennis_run
+bip_39_word_underscore_7: supply_wear_story_snack_tennis_run_endless
+bip_39_word_underscore_8: supply_wear_story_snack_tennis_run_endless_color
+bip_39_word_underscore_9: supply_wear_story_snack_tennis_run_endless_color_inform
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wisdom |  
+| bip_39_word_dash_10 | wisdom-east-rabbit-middle-state-track-any-danger-gown-bargain |  
+| bip_39_word_dash_11 | wisdom-east-rabbit-middle-state-track-any-danger-gown-bargain-float |  
+| bip_39_word_dash_12 | wisdom-east-rabbit-middle-state-track-any-danger-gown-bargain-float-arrange |  
+| bip_39_word_dash_2 | wisdom-east |  
+| bip_39_word_dash_3 | wisdom-east-rabbit |  
+| bip_39_word_dash_4 | wisdom-east-rabbit-middle |  
+| bip_39_word_dash_5 | wisdom-east-rabbit-middle-state |  
+| bip_39_word_dash_6 | wisdom-east-rabbit-middle-state-track |  
+| bip_39_word_dash_7 | wisdom-east-rabbit-middle-state-track-any |  
+| bip_39_word_dash_8 | wisdom-east-rabbit-middle-state-track-any-danger |  
+| bip_39_word_dash_9 | wisdom-east-rabbit-middle-state-track-any-danger-gown |  
 | bip_39_word_new_br_1 | wisdom |  
 | bip_39_word_new_br_10 | wisdom<br>east<br>rabbit<br>middle<br>state<br>track<br>any<br>danger<br>gown<br>bargain |  
 | bip_39_word_new_br_11 | wisdom<br>east<br>rabbit<br>middle<br>state<br>track<br>any<br>danger<br>gown<br>bargain<br>float |  
@@ -147,6 +159,18 @@ gown |
 | bip_39_word_space_7 | wisdom east rabbit middle state track any |  
 | bip_39_word_space_8 | wisdom east rabbit middle state track any danger |  
 | bip_39_word_space_9 | wisdom east rabbit middle state track any danger gown |  
+| bip_39_word_underscore_1 | wisdom |  
+| bip_39_word_underscore_10 | wisdom_east_rabbit_middle_state_track_any_danger_gown_bargain |  
+| bip_39_word_underscore_11 | wisdom_east_rabbit_middle_state_track_any_danger_gown_bargain_float |  
+| bip_39_word_underscore_12 | wisdom_east_rabbit_middle_state_track_any_danger_gown_bargain_float_arrange |  
+| bip_39_word_underscore_2 | wisdom_east |  
+| bip_39_word_underscore_3 | wisdom_east_rabbit |  
+| bip_39_word_underscore_4 | wisdom_east_rabbit_middle |  
+| bip_39_word_underscore_5 | wisdom_east_rabbit_middle_state |  
+| bip_39_word_underscore_6 | wisdom_east_rabbit_middle_state_track |  
+| bip_39_word_underscore_7 | wisdom_east_rabbit_middle_state_track_any |  
+| bip_39_word_underscore_8 | wisdom_east_rabbit_middle_state_track_any_danger |  
+| bip_39_word_underscore_9 | wisdom_east_rabbit_middle_state_track_any_danger_gown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: taxi
+bip_39_word_dash_10: taxi-injury-parrot-boy-monkey-achieve-drop-polar-erase-wife
+bip_39_word_dash_11: taxi-injury-parrot-boy-monkey-achieve-drop-polar-erase-wife-minute
+bip_39_word_dash_12: taxi-injury-parrot-boy-monkey-achieve-drop-polar-erase-wife-minute-access
+bip_39_word_dash_2: taxi-injury
+bip_39_word_dash_3: taxi-injury-parrot
+bip_39_word_dash_4: taxi-injury-parrot-boy
+bip_39_word_dash_5: taxi-injury-parrot-boy-monkey
+bip_39_word_dash_6: taxi-injury-parrot-boy-monkey-achieve
+bip_39_word_dash_7: taxi-injury-parrot-boy-monkey-achieve-drop
+bip_39_word_dash_8: taxi-injury-parrot-boy-monkey-achieve-drop-polar
+bip_39_word_dash_9: taxi-injury-parrot-boy-monkey-achieve-drop-polar-erase
 bip_39_word_new_br_1: taxi
 bip_39_word_new_br_10: taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar<br>erase<br>wife
 bip_39_word_new_br_11: taxi<br>injury<br>parrot<br>boy<br>monkey<br>achieve<br>drop<br>polar<br>erase<br>wife<br>minute
@@ -193,6 +205,18 @@ bip_39_word_space_6: taxi injury parrot boy monkey achieve
 bip_39_word_space_7: taxi injury parrot boy monkey achieve drop
 bip_39_word_space_8: taxi injury parrot boy monkey achieve drop polar
 bip_39_word_space_9: taxi injury parrot boy monkey achieve drop polar erase
+bip_39_word_underscore_1: taxi
+bip_39_word_underscore_10: taxi_injury_parrot_boy_monkey_achieve_drop_polar_erase_wife
+bip_39_word_underscore_11: taxi_injury_parrot_boy_monkey_achieve_drop_polar_erase_wife_minute
+bip_39_word_underscore_12: taxi_injury_parrot_boy_monkey_achieve_drop_polar_erase_wife_minute_access
+bip_39_word_underscore_2: taxi_injury
+bip_39_word_underscore_3: taxi_injury_parrot
+bip_39_word_underscore_4: taxi_injury_parrot_boy
+bip_39_word_underscore_5: taxi_injury_parrot_boy_monkey
+bip_39_word_underscore_6: taxi_injury_parrot_boy_monkey_achieve
+bip_39_word_underscore_7: taxi_injury_parrot_boy_monkey_achieve_drop
+bip_39_word_underscore_8: taxi_injury_parrot_boy_monkey_achieve_drop_polar
+bip_39_word_underscore_9: taxi_injury_parrot_boy_monkey_achieve_drop_polar_erase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

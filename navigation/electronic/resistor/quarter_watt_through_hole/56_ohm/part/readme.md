@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | destroy |  
+| bip_39_word_dash_10 | destroy-december-kingdom-loop-private-better-omit-eagle-index-minimum |  
+| bip_39_word_dash_11 | destroy-december-kingdom-loop-private-better-omit-eagle-index-minimum-region |  
+| bip_39_word_dash_12 | destroy-december-kingdom-loop-private-better-omit-eagle-index-minimum-region-aisle |  
+| bip_39_word_dash_2 | destroy-december |  
+| bip_39_word_dash_3 | destroy-december-kingdom |  
+| bip_39_word_dash_4 | destroy-december-kingdom-loop |  
+| bip_39_word_dash_5 | destroy-december-kingdom-loop-private |  
+| bip_39_word_dash_6 | destroy-december-kingdom-loop-private-better |  
+| bip_39_word_dash_7 | destroy-december-kingdom-loop-private-better-omit |  
+| bip_39_word_dash_8 | destroy-december-kingdom-loop-private-better-omit-eagle |  
+| bip_39_word_dash_9 | destroy-december-kingdom-loop-private-better-omit-eagle-index |  
 | bip_39_word_new_br_1 | destroy |  
 | bip_39_word_new_br_10 | destroy<br>december<br>kingdom<br>loop<br>private<br>better<br>omit<br>eagle<br>index<br>minimum |  
 | bip_39_word_new_br_11 | destroy<br>december<br>kingdom<br>loop<br>private<br>better<br>omit<br>eagle<br>index<br>minimum<br>region |  
@@ -147,6 +159,18 @@ index |
 | bip_39_word_space_7 | destroy december kingdom loop private better omit |  
 | bip_39_word_space_8 | destroy december kingdom loop private better omit eagle |  
 | bip_39_word_space_9 | destroy december kingdom loop private better omit eagle index |  
+| bip_39_word_underscore_1 | destroy |  
+| bip_39_word_underscore_10 | destroy_december_kingdom_loop_private_better_omit_eagle_index_minimum |  
+| bip_39_word_underscore_11 | destroy_december_kingdom_loop_private_better_omit_eagle_index_minimum_region |  
+| bip_39_word_underscore_12 | destroy_december_kingdom_loop_private_better_omit_eagle_index_minimum_region_aisle |  
+| bip_39_word_underscore_2 | destroy_december |  
+| bip_39_word_underscore_3 | destroy_december_kingdom |  
+| bip_39_word_underscore_4 | destroy_december_kingdom_loop |  
+| bip_39_word_underscore_5 | destroy_december_kingdom_loop_private |  
+| bip_39_word_underscore_6 | destroy_december_kingdom_loop_private_better |  
+| bip_39_word_underscore_7 | destroy_december_kingdom_loop_private_better_omit |  
+| bip_39_word_underscore_8 | destroy_december_kingdom_loop_private_better_omit_eagle |  
+| bip_39_word_underscore_9 | destroy_december_kingdom_loop_private_better_omit_eagle_index |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chef |  
+| bip_39_word_dash_10 | chef-license-gather-slim-chicken-flat-agree-nasty-slogan-move |  
+| bip_39_word_dash_11 | chef-license-gather-slim-chicken-flat-agree-nasty-slogan-move-good |  
+| bip_39_word_dash_12 | chef-license-gather-slim-chicken-flat-agree-nasty-slogan-move-good-address |  
+| bip_39_word_dash_2 | chef-license |  
+| bip_39_word_dash_3 | chef-license-gather |  
+| bip_39_word_dash_4 | chef-license-gather-slim |  
+| bip_39_word_dash_5 | chef-license-gather-slim-chicken |  
+| bip_39_word_dash_6 | chef-license-gather-slim-chicken-flat |  
+| bip_39_word_dash_7 | chef-license-gather-slim-chicken-flat-agree |  
+| bip_39_word_dash_8 | chef-license-gather-slim-chicken-flat-agree-nasty |  
+| bip_39_word_dash_9 | chef-license-gather-slim-chicken-flat-agree-nasty-slogan |  
 | bip_39_word_new_br_1 | chef |  
 | bip_39_word_new_br_10 | chef<br>license<br>gather<br>slim<br>chicken<br>flat<br>agree<br>nasty<br>slogan<br>move |  
 | bip_39_word_new_br_11 | chef<br>license<br>gather<br>slim<br>chicken<br>flat<br>agree<br>nasty<br>slogan<br>move<br>good |  
@@ -147,6 +159,18 @@ slogan |
 | bip_39_word_space_7 | chef license gather slim chicken flat agree |  
 | bip_39_word_space_8 | chef license gather slim chicken flat agree nasty |  
 | bip_39_word_space_9 | chef license gather slim chicken flat agree nasty slogan |  
+| bip_39_word_underscore_1 | chef |  
+| bip_39_word_underscore_10 | chef_license_gather_slim_chicken_flat_agree_nasty_slogan_move |  
+| bip_39_word_underscore_11 | chef_license_gather_slim_chicken_flat_agree_nasty_slogan_move_good |  
+| bip_39_word_underscore_12 | chef_license_gather_slim_chicken_flat_agree_nasty_slogan_move_good_address |  
+| bip_39_word_underscore_2 | chef_license |  
+| bip_39_word_underscore_3 | chef_license_gather |  
+| bip_39_word_underscore_4 | chef_license_gather_slim |  
+| bip_39_word_underscore_5 | chef_license_gather_slim_chicken |  
+| bip_39_word_underscore_6 | chef_license_gather_slim_chicken_flat |  
+| bip_39_word_underscore_7 | chef_license_gather_slim_chicken_flat_agree |  
+| bip_39_word_underscore_8 | chef_license_gather_slim_chicken_flat_agree_nasty |  
+| bip_39_word_underscore_9 | chef_license_gather_slim_chicken_flat_agree_nasty_slogan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

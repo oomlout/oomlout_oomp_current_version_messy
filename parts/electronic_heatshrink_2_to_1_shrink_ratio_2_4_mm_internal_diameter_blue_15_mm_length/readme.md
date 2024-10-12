@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | impose |  
+| bip_39_word_dash_10 | impose-yard-beauty-indoor-cook-divert-uncle-sunset-struggle-finger |  
+| bip_39_word_dash_11 | impose-yard-beauty-indoor-cook-divert-uncle-sunset-struggle-finger-fruit |  
+| bip_39_word_dash_12 | impose-yard-beauty-indoor-cook-divert-uncle-sunset-struggle-finger-fruit-action |  
+| bip_39_word_dash_2 | impose-yard |  
+| bip_39_word_dash_3 | impose-yard-beauty |  
+| bip_39_word_dash_4 | impose-yard-beauty-indoor |  
+| bip_39_word_dash_5 | impose-yard-beauty-indoor-cook |  
+| bip_39_word_dash_6 | impose-yard-beauty-indoor-cook-divert |  
+| bip_39_word_dash_7 | impose-yard-beauty-indoor-cook-divert-uncle |  
+| bip_39_word_dash_8 | impose-yard-beauty-indoor-cook-divert-uncle-sunset |  
+| bip_39_word_dash_9 | impose-yard-beauty-indoor-cook-divert-uncle-sunset-struggle |  
 | bip_39_word_new_br_1 | impose |  
 | bip_39_word_new_br_10 | impose<br>yard<br>beauty<br>indoor<br>cook<br>divert<br>uncle<br>sunset<br>struggle<br>finger |  
 | bip_39_word_new_br_11 | impose<br>yard<br>beauty<br>indoor<br>cook<br>divert<br>uncle<br>sunset<br>struggle<br>finger<br>fruit |  
@@ -147,6 +159,18 @@ struggle |
 | bip_39_word_space_7 | impose yard beauty indoor cook divert uncle |  
 | bip_39_word_space_8 | impose yard beauty indoor cook divert uncle sunset |  
 | bip_39_word_space_9 | impose yard beauty indoor cook divert uncle sunset struggle |  
+| bip_39_word_underscore_1 | impose |  
+| bip_39_word_underscore_10 | impose_yard_beauty_indoor_cook_divert_uncle_sunset_struggle_finger |  
+| bip_39_word_underscore_11 | impose_yard_beauty_indoor_cook_divert_uncle_sunset_struggle_finger_fruit |  
+| bip_39_word_underscore_12 | impose_yard_beauty_indoor_cook_divert_uncle_sunset_struggle_finger_fruit_action |  
+| bip_39_word_underscore_2 | impose_yard |  
+| bip_39_word_underscore_3 | impose_yard_beauty |  
+| bip_39_word_underscore_4 | impose_yard_beauty_indoor |  
+| bip_39_word_underscore_5 | impose_yard_beauty_indoor_cook |  
+| bip_39_word_underscore_6 | impose_yard_beauty_indoor_cook_divert |  
+| bip_39_word_underscore_7 | impose_yard_beauty_indoor_cook_divert_uncle |  
+| bip_39_word_underscore_8 | impose_yard_beauty_indoor_cook_divert_uncle_sunset |  
+| bip_39_word_underscore_9 | impose_yard_beauty_indoor_cook_divert_uncle_sunset_struggle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

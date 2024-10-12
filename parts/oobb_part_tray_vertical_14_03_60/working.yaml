@@ -1,3 +1,15 @@
+bip_39_word_dash_1: local
+bip_39_word_dash_10: local-industry-nature-smile-ribbon-eternal-secret-surface-canal-census
+bip_39_word_dash_11: local-industry-nature-smile-ribbon-eternal-secret-surface-canal-census-civil
+bip_39_word_dash_12: local-industry-nature-smile-ribbon-eternal-secret-surface-canal-census-civil-angle
+bip_39_word_dash_2: local-industry
+bip_39_word_dash_3: local-industry-nature
+bip_39_word_dash_4: local-industry-nature-smile
+bip_39_word_dash_5: local-industry-nature-smile-ribbon
+bip_39_word_dash_6: local-industry-nature-smile-ribbon-eternal
+bip_39_word_dash_7: local-industry-nature-smile-ribbon-eternal-secret
+bip_39_word_dash_8: local-industry-nature-smile-ribbon-eternal-secret-surface
+bip_39_word_dash_9: local-industry-nature-smile-ribbon-eternal-secret-surface-canal
 bip_39_word_new_br_1: local
 bip_39_word_new_br_10: local<br>industry<br>nature<br>smile<br>ribbon<br>eternal<br>secret<br>surface<br>canal<br>census
 bip_39_word_new_br_11: local<br>industry<br>nature<br>smile<br>ribbon<br>eternal<br>secret<br>surface<br>canal<br>census<br>civil
@@ -194,6 +206,18 @@ bip_39_word_space_6: local industry nature smile ribbon eternal
 bip_39_word_space_7: local industry nature smile ribbon eternal secret
 bip_39_word_space_8: local industry nature smile ribbon eternal secret surface
 bip_39_word_space_9: local industry nature smile ribbon eternal secret surface canal
+bip_39_word_underscore_1: local
+bip_39_word_underscore_10: local_industry_nature_smile_ribbon_eternal_secret_surface_canal_census
+bip_39_word_underscore_11: local_industry_nature_smile_ribbon_eternal_secret_surface_canal_census_civil
+bip_39_word_underscore_12: local_industry_nature_smile_ribbon_eternal_secret_surface_canal_census_civil_angle
+bip_39_word_underscore_2: local_industry
+bip_39_word_underscore_3: local_industry_nature
+bip_39_word_underscore_4: local_industry_nature_smile
+bip_39_word_underscore_5: local_industry_nature_smile_ribbon
+bip_39_word_underscore_6: local_industry_nature_smile_ribbon_eternal
+bip_39_word_underscore_7: local_industry_nature_smile_ribbon_eternal_secret
+bip_39_word_underscore_8: local_industry_nature_smile_ribbon_eternal_secret_surface
+bip_39_word_underscore_9: local_industry_nature_smile_ribbon_eternal_secret_surface_canal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

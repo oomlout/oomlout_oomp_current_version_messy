@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | away |  
+| bip_39_word_dash_10 | away-baby-zoo-surround-elite-august-define-mimic-mercy-energy |  
+| bip_39_word_dash_11 | away-baby-zoo-surround-elite-august-define-mimic-mercy-energy-morning |  
+| bip_39_word_dash_12 | away-baby-zoo-surround-elite-august-define-mimic-mercy-energy-morning-account |  
+| bip_39_word_dash_2 | away-baby |  
+| bip_39_word_dash_3 | away-baby-zoo |  
+| bip_39_word_dash_4 | away-baby-zoo-surround |  
+| bip_39_word_dash_5 | away-baby-zoo-surround-elite |  
+| bip_39_word_dash_6 | away-baby-zoo-surround-elite-august |  
+| bip_39_word_dash_7 | away-baby-zoo-surround-elite-august-define |  
+| bip_39_word_dash_8 | away-baby-zoo-surround-elite-august-define-mimic |  
+| bip_39_word_dash_9 | away-baby-zoo-surround-elite-august-define-mimic-mercy |  
 | bip_39_word_new_br_1 | away |  
 | bip_39_word_new_br_10 | away<br>baby<br>zoo<br>surround<br>elite<br>august<br>define<br>mimic<br>mercy<br>energy |  
 | bip_39_word_new_br_11 | away<br>baby<br>zoo<br>surround<br>elite<br>august<br>define<br>mimic<br>mercy<br>energy<br>morning |  
@@ -147,6 +159,18 @@ mercy |
 | bip_39_word_space_7 | away baby zoo surround elite august define |  
 | bip_39_word_space_8 | away baby zoo surround elite august define mimic |  
 | bip_39_word_space_9 | away baby zoo surround elite august define mimic mercy |  
+| bip_39_word_underscore_1 | away |  
+| bip_39_word_underscore_10 | away_baby_zoo_surround_elite_august_define_mimic_mercy_energy |  
+| bip_39_word_underscore_11 | away_baby_zoo_surround_elite_august_define_mimic_mercy_energy_morning |  
+| bip_39_word_underscore_12 | away_baby_zoo_surround_elite_august_define_mimic_mercy_energy_morning_account |  
+| bip_39_word_underscore_2 | away_baby |  
+| bip_39_word_underscore_3 | away_baby_zoo |  
+| bip_39_word_underscore_4 | away_baby_zoo_surround |  
+| bip_39_word_underscore_5 | away_baby_zoo_surround_elite |  
+| bip_39_word_underscore_6 | away_baby_zoo_surround_elite_august |  
+| bip_39_word_underscore_7 | away_baby_zoo_surround_elite_august_define |  
+| bip_39_word_underscore_8 | away_baby_zoo_surround_elite_august_define_mimic |  
+| bip_39_word_underscore_9 | away_baby_zoo_surround_elite_august_define_mimic_mercy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

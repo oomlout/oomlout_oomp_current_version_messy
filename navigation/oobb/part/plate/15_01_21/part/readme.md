@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kitten |  
+| bip_39_word_dash_10 | kitten-ride-federal-result-rabbit-farm-seek-receive-swift-appear |  
+| bip_39_word_dash_11 | kitten-ride-federal-result-rabbit-farm-seek-receive-swift-appear-milk |  
+| bip_39_word_dash_12 | kitten-ride-federal-result-rabbit-farm-seek-receive-swift-appear-milk-apology |  
+| bip_39_word_dash_2 | kitten-ride |  
+| bip_39_word_dash_3 | kitten-ride-federal |  
+| bip_39_word_dash_4 | kitten-ride-federal-result |  
+| bip_39_word_dash_5 | kitten-ride-federal-result-rabbit |  
+| bip_39_word_dash_6 | kitten-ride-federal-result-rabbit-farm |  
+| bip_39_word_dash_7 | kitten-ride-federal-result-rabbit-farm-seek |  
+| bip_39_word_dash_8 | kitten-ride-federal-result-rabbit-farm-seek-receive |  
+| bip_39_word_dash_9 | kitten-ride-federal-result-rabbit-farm-seek-receive-swift |  
 | bip_39_word_new_br_1 | kitten |  
 | bip_39_word_new_br_10 | kitten<br>ride<br>federal<br>result<br>rabbit<br>farm<br>seek<br>receive<br>swift<br>appear |  
 | bip_39_word_new_br_11 | kitten<br>ride<br>federal<br>result<br>rabbit<br>farm<br>seek<br>receive<br>swift<br>appear<br>milk |  
@@ -147,6 +159,18 @@ swift |
 | bip_39_word_space_7 | kitten ride federal result rabbit farm seek |  
 | bip_39_word_space_8 | kitten ride federal result rabbit farm seek receive |  
 | bip_39_word_space_9 | kitten ride federal result rabbit farm seek receive swift |  
+| bip_39_word_underscore_1 | kitten |  
+| bip_39_word_underscore_10 | kitten_ride_federal_result_rabbit_farm_seek_receive_swift_appear |  
+| bip_39_word_underscore_11 | kitten_ride_federal_result_rabbit_farm_seek_receive_swift_appear_milk |  
+| bip_39_word_underscore_12 | kitten_ride_federal_result_rabbit_farm_seek_receive_swift_appear_milk_apology |  
+| bip_39_word_underscore_2 | kitten_ride |  
+| bip_39_word_underscore_3 | kitten_ride_federal |  
+| bip_39_word_underscore_4 | kitten_ride_federal_result |  
+| bip_39_word_underscore_5 | kitten_ride_federal_result_rabbit |  
+| bip_39_word_underscore_6 | kitten_ride_federal_result_rabbit_farm |  
+| bip_39_word_underscore_7 | kitten_ride_federal_result_rabbit_farm_seek |  
+| bip_39_word_underscore_8 | kitten_ride_federal_result_rabbit_farm_seek_receive |  
+| bip_39_word_underscore_9 | kitten_ride_federal_result_rabbit_farm_seek_receive_swift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

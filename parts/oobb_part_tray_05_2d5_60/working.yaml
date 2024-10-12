@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brain
+bip_39_word_dash_10: brain-middle-nurse-chalk-wire-prison-spy-right-gravity-immune
+bip_39_word_dash_11: brain-middle-nurse-chalk-wire-prison-spy-right-gravity-immune-doctor
+bip_39_word_dash_12: brain-middle-nurse-chalk-wire-prison-spy-right-gravity-immune-doctor-above
+bip_39_word_dash_2: brain-middle
+bip_39_word_dash_3: brain-middle-nurse
+bip_39_word_dash_4: brain-middle-nurse-chalk
+bip_39_word_dash_5: brain-middle-nurse-chalk-wire
+bip_39_word_dash_6: brain-middle-nurse-chalk-wire-prison
+bip_39_word_dash_7: brain-middle-nurse-chalk-wire-prison-spy
+bip_39_word_dash_8: brain-middle-nurse-chalk-wire-prison-spy-right
+bip_39_word_dash_9: brain-middle-nurse-chalk-wire-prison-spy-right-gravity
 bip_39_word_new_br_1: brain
 bip_39_word_new_br_10: brain<br>middle<br>nurse<br>chalk<br>wire<br>prison<br>spy<br>right<br>gravity<br>immune
 bip_39_word_new_br_11: brain<br>middle<br>nurse<br>chalk<br>wire<br>prison<br>spy<br>right<br>gravity<br>immune<br>doctor
@@ -193,6 +205,18 @@ bip_39_word_space_6: brain middle nurse chalk wire prison
 bip_39_word_space_7: brain middle nurse chalk wire prison spy
 bip_39_word_space_8: brain middle nurse chalk wire prison spy right
 bip_39_word_space_9: brain middle nurse chalk wire prison spy right gravity
+bip_39_word_underscore_1: brain
+bip_39_word_underscore_10: brain_middle_nurse_chalk_wire_prison_spy_right_gravity_immune
+bip_39_word_underscore_11: brain_middle_nurse_chalk_wire_prison_spy_right_gravity_immune_doctor
+bip_39_word_underscore_12: brain_middle_nurse_chalk_wire_prison_spy_right_gravity_immune_doctor_above
+bip_39_word_underscore_2: brain_middle
+bip_39_word_underscore_3: brain_middle_nurse
+bip_39_word_underscore_4: brain_middle_nurse_chalk
+bip_39_word_underscore_5: brain_middle_nurse_chalk_wire
+bip_39_word_underscore_6: brain_middle_nurse_chalk_wire_prison
+bip_39_word_underscore_7: brain_middle_nurse_chalk_wire_prison_spy
+bip_39_word_underscore_8: brain_middle_nurse_chalk_wire_prison_spy_right
+bip_39_word_underscore_9: brain_middle_nurse_chalk_wire_prison_spy_right_gravity
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

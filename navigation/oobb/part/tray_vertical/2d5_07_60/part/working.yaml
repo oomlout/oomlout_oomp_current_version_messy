@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trophy
+bip_39_word_dash_10: trophy-know-guitar-angle-accident-wagon-fog-heart-grab-review
+bip_39_word_dash_11: trophy-know-guitar-angle-accident-wagon-fog-heart-grab-review-sample
+bip_39_word_dash_12: trophy-know-guitar-angle-accident-wagon-fog-heart-grab-review-sample-add
+bip_39_word_dash_2: trophy-know
+bip_39_word_dash_3: trophy-know-guitar
+bip_39_word_dash_4: trophy-know-guitar-angle
+bip_39_word_dash_5: trophy-know-guitar-angle-accident
+bip_39_word_dash_6: trophy-know-guitar-angle-accident-wagon
+bip_39_word_dash_7: trophy-know-guitar-angle-accident-wagon-fog
+bip_39_word_dash_8: trophy-know-guitar-angle-accident-wagon-fog-heart
+bip_39_word_dash_9: trophy-know-guitar-angle-accident-wagon-fog-heart-grab
 bip_39_word_new_br_1: trophy
 bip_39_word_new_br_10: trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review
 bip_39_word_new_br_11: trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review<br>sample
@@ -193,6 +205,18 @@ bip_39_word_space_6: trophy know guitar angle accident wagon
 bip_39_word_space_7: trophy know guitar angle accident wagon fog
 bip_39_word_space_8: trophy know guitar angle accident wagon fog heart
 bip_39_word_space_9: trophy know guitar angle accident wagon fog heart grab
+bip_39_word_underscore_1: trophy
+bip_39_word_underscore_10: trophy_know_guitar_angle_accident_wagon_fog_heart_grab_review
+bip_39_word_underscore_11: trophy_know_guitar_angle_accident_wagon_fog_heart_grab_review_sample
+bip_39_word_underscore_12: trophy_know_guitar_angle_accident_wagon_fog_heart_grab_review_sample_add
+bip_39_word_underscore_2: trophy_know
+bip_39_word_underscore_3: trophy_know_guitar
+bip_39_word_underscore_4: trophy_know_guitar_angle
+bip_39_word_underscore_5: trophy_know_guitar_angle_accident
+bip_39_word_underscore_6: trophy_know_guitar_angle_accident_wagon
+bip_39_word_underscore_7: trophy_know_guitar_angle_accident_wagon_fog
+bip_39_word_underscore_8: trophy_know_guitar_angle_accident_wagon_fog_heart
+bip_39_word_underscore_9: trophy_know_guitar_angle_accident_wagon_fog_heart_grab
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

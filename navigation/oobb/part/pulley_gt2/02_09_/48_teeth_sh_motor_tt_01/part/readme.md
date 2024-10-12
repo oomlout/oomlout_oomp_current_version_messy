@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fence |  
+| bip_39_word_dash_10 | fence-tank-reject-thank-creek-slush-spend-riot-walk-steel |  
+| bip_39_word_dash_11 | fence-tank-reject-thank-creek-slush-spend-riot-walk-steel-elder |  
+| bip_39_word_dash_12 | fence-tank-reject-thank-creek-slush-spend-riot-walk-steel-elder-alpha |  
+| bip_39_word_dash_2 | fence-tank |  
+| bip_39_word_dash_3 | fence-tank-reject |  
+| bip_39_word_dash_4 | fence-tank-reject-thank |  
+| bip_39_word_dash_5 | fence-tank-reject-thank-creek |  
+| bip_39_word_dash_6 | fence-tank-reject-thank-creek-slush |  
+| bip_39_word_dash_7 | fence-tank-reject-thank-creek-slush-spend |  
+| bip_39_word_dash_8 | fence-tank-reject-thank-creek-slush-spend-riot |  
+| bip_39_word_dash_9 | fence-tank-reject-thank-creek-slush-spend-riot-walk |  
 | bip_39_word_new_br_1 | fence |  
 | bip_39_word_new_br_10 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot<br>walk<br>steel |  
 | bip_39_word_new_br_11 | fence<br>tank<br>reject<br>thank<br>creek<br>slush<br>spend<br>riot<br>walk<br>steel<br>elder |  
@@ -147,6 +159,18 @@ walk |
 | bip_39_word_space_7 | fence tank reject thank creek slush spend |  
 | bip_39_word_space_8 | fence tank reject thank creek slush spend riot |  
 | bip_39_word_space_9 | fence tank reject thank creek slush spend riot walk |  
+| bip_39_word_underscore_1 | fence |  
+| bip_39_word_underscore_10 | fence_tank_reject_thank_creek_slush_spend_riot_walk_steel |  
+| bip_39_word_underscore_11 | fence_tank_reject_thank_creek_slush_spend_riot_walk_steel_elder |  
+| bip_39_word_underscore_12 | fence_tank_reject_thank_creek_slush_spend_riot_walk_steel_elder_alpha |  
+| bip_39_word_underscore_2 | fence_tank |  
+| bip_39_word_underscore_3 | fence_tank_reject |  
+| bip_39_word_underscore_4 | fence_tank_reject_thank |  
+| bip_39_word_underscore_5 | fence_tank_reject_thank_creek |  
+| bip_39_word_underscore_6 | fence_tank_reject_thank_creek_slush |  
+| bip_39_word_underscore_7 | fence_tank_reject_thank_creek_slush_spend |  
+| bip_39_word_underscore_8 | fence_tank_reject_thank_creek_slush_spend_riot |  
+| bip_39_word_underscore_9 | fence_tank_reject_thank_creek_slush_spend_riot_walk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

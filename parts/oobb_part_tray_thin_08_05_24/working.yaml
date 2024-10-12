@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brown
+bip_39_word_dash_10: brown-talent-awesome-drama-photo-combine-blast-trend-thank-filter
+bip_39_word_dash_11: brown-talent-awesome-drama-photo-combine-blast-trend-thank-filter-fine
+bip_39_word_dash_12: brown-talent-awesome-drama-photo-combine-blast-trend-thank-filter-fine-artefact
+bip_39_word_dash_2: brown-talent
+bip_39_word_dash_3: brown-talent-awesome
+bip_39_word_dash_4: brown-talent-awesome-drama
+bip_39_word_dash_5: brown-talent-awesome-drama-photo
+bip_39_word_dash_6: brown-talent-awesome-drama-photo-combine
+bip_39_word_dash_7: brown-talent-awesome-drama-photo-combine-blast
+bip_39_word_dash_8: brown-talent-awesome-drama-photo-combine-blast-trend
+bip_39_word_dash_9: brown-talent-awesome-drama-photo-combine-blast-trend-thank
 bip_39_word_new_br_1: brown
 bip_39_word_new_br_10: brown<br>talent<br>awesome<br>drama<br>photo<br>combine<br>blast<br>trend<br>thank<br>filter
 bip_39_word_new_br_11: brown<br>talent<br>awesome<br>drama<br>photo<br>combine<br>blast<br>trend<br>thank<br>filter<br>fine
@@ -193,6 +205,18 @@ bip_39_word_space_6: brown talent awesome drama photo combine
 bip_39_word_space_7: brown talent awesome drama photo combine blast
 bip_39_word_space_8: brown talent awesome drama photo combine blast trend
 bip_39_word_space_9: brown talent awesome drama photo combine blast trend thank
+bip_39_word_underscore_1: brown
+bip_39_word_underscore_10: brown_talent_awesome_drama_photo_combine_blast_trend_thank_filter
+bip_39_word_underscore_11: brown_talent_awesome_drama_photo_combine_blast_trend_thank_filter_fine
+bip_39_word_underscore_12: brown_talent_awesome_drama_photo_combine_blast_trend_thank_filter_fine_artefact
+bip_39_word_underscore_2: brown_talent
+bip_39_word_underscore_3: brown_talent_awesome
+bip_39_word_underscore_4: brown_talent_awesome_drama
+bip_39_word_underscore_5: brown_talent_awesome_drama_photo
+bip_39_word_underscore_6: brown_talent_awesome_drama_photo_combine
+bip_39_word_underscore_7: brown_talent_awesome_drama_photo_combine_blast
+bip_39_word_underscore_8: brown_talent_awesome_drama_photo_combine_blast_trend
+bip_39_word_underscore_9: brown_talent_awesome_drama_photo_combine_blast_trend_thank
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

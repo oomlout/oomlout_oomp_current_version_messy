@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ill |  
+| bip_39_word_dash_10 | ill-okay-come-flat-athlete-illegal-mistake-door-dad-east |  
+| bip_39_word_dash_11 | ill-okay-come-flat-athlete-illegal-mistake-door-dad-east-legend |  
+| bip_39_word_dash_12 | ill-okay-come-flat-athlete-illegal-mistake-door-dad-east-legend-anger |  
+| bip_39_word_dash_2 | ill-okay |  
+| bip_39_word_dash_3 | ill-okay-come |  
+| bip_39_word_dash_4 | ill-okay-come-flat |  
+| bip_39_word_dash_5 | ill-okay-come-flat-athlete |  
+| bip_39_word_dash_6 | ill-okay-come-flat-athlete-illegal |  
+| bip_39_word_dash_7 | ill-okay-come-flat-athlete-illegal-mistake |  
+| bip_39_word_dash_8 | ill-okay-come-flat-athlete-illegal-mistake-door |  
+| bip_39_word_dash_9 | ill-okay-come-flat-athlete-illegal-mistake-door-dad |  
 | bip_39_word_new_br_1 | ill |  
 | bip_39_word_new_br_10 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door<br>dad<br>east |  
 | bip_39_word_new_br_11 | ill<br>okay<br>come<br>flat<br>athlete<br>illegal<br>mistake<br>door<br>dad<br>east<br>legend |  
@@ -147,6 +159,18 @@ dad |
 | bip_39_word_space_7 | ill okay come flat athlete illegal mistake |  
 | bip_39_word_space_8 | ill okay come flat athlete illegal mistake door |  
 | bip_39_word_space_9 | ill okay come flat athlete illegal mistake door dad |  
+| bip_39_word_underscore_1 | ill |  
+| bip_39_word_underscore_10 | ill_okay_come_flat_athlete_illegal_mistake_door_dad_east |  
+| bip_39_word_underscore_11 | ill_okay_come_flat_athlete_illegal_mistake_door_dad_east_legend |  
+| bip_39_word_underscore_12 | ill_okay_come_flat_athlete_illegal_mistake_door_dad_east_legend_anger |  
+| bip_39_word_underscore_2 | ill_okay |  
+| bip_39_word_underscore_3 | ill_okay_come |  
+| bip_39_word_underscore_4 | ill_okay_come_flat |  
+| bip_39_word_underscore_5 | ill_okay_come_flat_athlete |  
+| bip_39_word_underscore_6 | ill_okay_come_flat_athlete_illegal |  
+| bip_39_word_underscore_7 | ill_okay_come_flat_athlete_illegal_mistake |  
+| bip_39_word_underscore_8 | ill_okay_come_flat_athlete_illegal_mistake_door |  
+| bip_39_word_underscore_9 | ill_okay_come_flat_athlete_illegal_mistake_door_dad |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

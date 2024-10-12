@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | art |  
+| bip_39_word_dash_10 | art-frog-frame-fantasy-assist-believe-disease-output-tiny-shoot |  
+| bip_39_word_dash_11 | art-frog-frame-fantasy-assist-believe-disease-output-tiny-shoot-gravity |  
+| bip_39_word_dash_12 | art-frog-frame-fantasy-assist-believe-disease-output-tiny-shoot-gravity-attend |  
+| bip_39_word_dash_2 | art-frog |  
+| bip_39_word_dash_3 | art-frog-frame |  
+| bip_39_word_dash_4 | art-frog-frame-fantasy |  
+| bip_39_word_dash_5 | art-frog-frame-fantasy-assist |  
+| bip_39_word_dash_6 | art-frog-frame-fantasy-assist-believe |  
+| bip_39_word_dash_7 | art-frog-frame-fantasy-assist-believe-disease |  
+| bip_39_word_dash_8 | art-frog-frame-fantasy-assist-believe-disease-output |  
+| bip_39_word_dash_9 | art-frog-frame-fantasy-assist-believe-disease-output-tiny |  
 | bip_39_word_new_br_1 | art |  
 | bip_39_word_new_br_10 | art<br>frog<br>frame<br>fantasy<br>assist<br>believe<br>disease<br>output<br>tiny<br>shoot |  
 | bip_39_word_new_br_11 | art<br>frog<br>frame<br>fantasy<br>assist<br>believe<br>disease<br>output<br>tiny<br>shoot<br>gravity |  
@@ -147,6 +159,18 @@ tiny |
 | bip_39_word_space_7 | art frog frame fantasy assist believe disease |  
 | bip_39_word_space_8 | art frog frame fantasy assist believe disease output |  
 | bip_39_word_space_9 | art frog frame fantasy assist believe disease output tiny |  
+| bip_39_word_underscore_1 | art |  
+| bip_39_word_underscore_10 | art_frog_frame_fantasy_assist_believe_disease_output_tiny_shoot |  
+| bip_39_word_underscore_11 | art_frog_frame_fantasy_assist_believe_disease_output_tiny_shoot_gravity |  
+| bip_39_word_underscore_12 | art_frog_frame_fantasy_assist_believe_disease_output_tiny_shoot_gravity_attend |  
+| bip_39_word_underscore_2 | art_frog |  
+| bip_39_word_underscore_3 | art_frog_frame |  
+| bip_39_word_underscore_4 | art_frog_frame_fantasy |  
+| bip_39_word_underscore_5 | art_frog_frame_fantasy_assist |  
+| bip_39_word_underscore_6 | art_frog_frame_fantasy_assist_believe |  
+| bip_39_word_underscore_7 | art_frog_frame_fantasy_assist_believe_disease |  
+| bip_39_word_underscore_8 | art_frog_frame_fantasy_assist_believe_disease_output |  
+| bip_39_word_underscore_9 | art_frog_frame_fantasy_assist_believe_disease_output_tiny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

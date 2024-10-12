@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scorpion
+bip_39_word_dash_10: scorpion-street-water-awful-under-pitch-today-penalty-notice-brief
+bip_39_word_dash_11: scorpion-street-water-awful-under-pitch-today-penalty-notice-brief-blame
+bip_39_word_dash_12: scorpion-street-water-awful-under-pitch-today-penalty-notice-brief-blame-arena
+bip_39_word_dash_2: scorpion-street
+bip_39_word_dash_3: scorpion-street-water
+bip_39_word_dash_4: scorpion-street-water-awful
+bip_39_word_dash_5: scorpion-street-water-awful-under
+bip_39_word_dash_6: scorpion-street-water-awful-under-pitch
+bip_39_word_dash_7: scorpion-street-water-awful-under-pitch-today
+bip_39_word_dash_8: scorpion-street-water-awful-under-pitch-today-penalty
+bip_39_word_dash_9: scorpion-street-water-awful-under-pitch-today-penalty-notice
 bip_39_word_new_br_1: scorpion
 bip_39_word_new_br_10: scorpion<br>street<br>water<br>awful<br>under<br>pitch<br>today<br>penalty<br>notice<br>brief
 bip_39_word_new_br_11: scorpion<br>street<br>water<br>awful<br>under<br>pitch<br>today<br>penalty<br>notice<br>brief<br>blame
@@ -194,6 +206,18 @@ bip_39_word_space_6: scorpion street water awful under pitch
 bip_39_word_space_7: scorpion street water awful under pitch today
 bip_39_word_space_8: scorpion street water awful under pitch today penalty
 bip_39_word_space_9: scorpion street water awful under pitch today penalty notice
+bip_39_word_underscore_1: scorpion
+bip_39_word_underscore_10: scorpion_street_water_awful_under_pitch_today_penalty_notice_brief
+bip_39_word_underscore_11: scorpion_street_water_awful_under_pitch_today_penalty_notice_brief_blame
+bip_39_word_underscore_12: scorpion_street_water_awful_under_pitch_today_penalty_notice_brief_blame_arena
+bip_39_word_underscore_2: scorpion_street
+bip_39_word_underscore_3: scorpion_street_water
+bip_39_word_underscore_4: scorpion_street_water_awful
+bip_39_word_underscore_5: scorpion_street_water_awful_under
+bip_39_word_underscore_6: scorpion_street_water_awful_under_pitch
+bip_39_word_underscore_7: scorpion_street_water_awful_under_pitch_today
+bip_39_word_underscore_8: scorpion_street_water_awful_under_pitch_today_penalty
+bip_39_word_underscore_9: scorpion_street_water_awful_under_pitch_today_penalty_notice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

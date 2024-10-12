@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | royal |  
+| bip_39_word_dash_10 | royal-shy-rebel-hello-half-art-alien-furnace-cactus-faint |  
+| bip_39_word_dash_11 | royal-shy-rebel-hello-half-art-alien-furnace-cactus-faint-token |  
+| bip_39_word_dash_12 | royal-shy-rebel-hello-half-art-alien-furnace-cactus-faint-token-accident |  
+| bip_39_word_dash_2 | royal-shy |  
+| bip_39_word_dash_3 | royal-shy-rebel |  
+| bip_39_word_dash_4 | royal-shy-rebel-hello |  
+| bip_39_word_dash_5 | royal-shy-rebel-hello-half |  
+| bip_39_word_dash_6 | royal-shy-rebel-hello-half-art |  
+| bip_39_word_dash_7 | royal-shy-rebel-hello-half-art-alien |  
+| bip_39_word_dash_8 | royal-shy-rebel-hello-half-art-alien-furnace |  
+| bip_39_word_dash_9 | royal-shy-rebel-hello-half-art-alien-furnace-cactus |  
 | bip_39_word_new_br_1 | royal |  
 | bip_39_word_new_br_10 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint |  
 | bip_39_word_new_br_11 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint<br>token |  
@@ -147,6 +159,18 @@ cactus |
 | bip_39_word_space_7 | royal shy rebel hello half art alien |  
 | bip_39_word_space_8 | royal shy rebel hello half art alien furnace |  
 | bip_39_word_space_9 | royal shy rebel hello half art alien furnace cactus |  
+| bip_39_word_underscore_1 | royal |  
+| bip_39_word_underscore_10 | royal_shy_rebel_hello_half_art_alien_furnace_cactus_faint |  
+| bip_39_word_underscore_11 | royal_shy_rebel_hello_half_art_alien_furnace_cactus_faint_token |  
+| bip_39_word_underscore_12 | royal_shy_rebel_hello_half_art_alien_furnace_cactus_faint_token_accident |  
+| bip_39_word_underscore_2 | royal_shy |  
+| bip_39_word_underscore_3 | royal_shy_rebel |  
+| bip_39_word_underscore_4 | royal_shy_rebel_hello |  
+| bip_39_word_underscore_5 | royal_shy_rebel_hello_half |  
+| bip_39_word_underscore_6 | royal_shy_rebel_hello_half_art |  
+| bip_39_word_underscore_7 | royal_shy_rebel_hello_half_art_alien |  
+| bip_39_word_underscore_8 | royal_shy_rebel_hello_half_art_alien_furnace |  
+| bip_39_word_underscore_9 | royal_shy_rebel_hello_half_art_alien_furnace_cactus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

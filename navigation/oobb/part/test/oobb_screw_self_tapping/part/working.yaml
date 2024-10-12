@@ -1,3 +1,15 @@
+bip_39_word_dash_1: skill
+bip_39_word_dash_10: skill-veteran-oppose-frost-cat-pretty-crazy-earn-wash-glare
+bip_39_word_dash_11: skill-veteran-oppose-frost-cat-pretty-crazy-earn-wash-glare-scale
+bip_39_word_dash_12: skill-veteran-oppose-frost-cat-pretty-crazy-earn-wash-glare-scale-acid
+bip_39_word_dash_2: skill-veteran
+bip_39_word_dash_3: skill-veteran-oppose
+bip_39_word_dash_4: skill-veteran-oppose-frost
+bip_39_word_dash_5: skill-veteran-oppose-frost-cat
+bip_39_word_dash_6: skill-veteran-oppose-frost-cat-pretty
+bip_39_word_dash_7: skill-veteran-oppose-frost-cat-pretty-crazy
+bip_39_word_dash_8: skill-veteran-oppose-frost-cat-pretty-crazy-earn
+bip_39_word_dash_9: skill-veteran-oppose-frost-cat-pretty-crazy-earn-wash
 bip_39_word_new_br_1: skill
 bip_39_word_new_br_10: skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn<br>wash<br>glare
 bip_39_word_new_br_11: skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn<br>wash<br>glare<br>scale
@@ -193,6 +205,18 @@ bip_39_word_space_6: skill veteran oppose frost cat pretty
 bip_39_word_space_7: skill veteran oppose frost cat pretty crazy
 bip_39_word_space_8: skill veteran oppose frost cat pretty crazy earn
 bip_39_word_space_9: skill veteran oppose frost cat pretty crazy earn wash
+bip_39_word_underscore_1: skill
+bip_39_word_underscore_10: skill_veteran_oppose_frost_cat_pretty_crazy_earn_wash_glare
+bip_39_word_underscore_11: skill_veteran_oppose_frost_cat_pretty_crazy_earn_wash_glare_scale
+bip_39_word_underscore_12: skill_veteran_oppose_frost_cat_pretty_crazy_earn_wash_glare_scale_acid
+bip_39_word_underscore_2: skill_veteran
+bip_39_word_underscore_3: skill_veteran_oppose
+bip_39_word_underscore_4: skill_veteran_oppose_frost
+bip_39_word_underscore_5: skill_veteran_oppose_frost_cat
+bip_39_word_underscore_6: skill_veteran_oppose_frost_cat_pretty
+bip_39_word_underscore_7: skill_veteran_oppose_frost_cat_pretty_crazy
+bip_39_word_underscore_8: skill_veteran_oppose_frost_cat_pretty_crazy_earn
+bip_39_word_underscore_9: skill_veteran_oppose_frost_cat_pretty_crazy_earn_wash
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

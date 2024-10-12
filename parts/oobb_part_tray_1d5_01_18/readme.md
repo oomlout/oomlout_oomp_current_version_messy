@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rather |  
+| bip_39_word_dash_10 | rather-scheme-ancient-bicycle-goddess-secret-muscle-modify-dutch-talent |  
+| bip_39_word_dash_11 | rather-scheme-ancient-bicycle-goddess-secret-muscle-modify-dutch-talent-climb |  
+| bip_39_word_dash_12 | rather-scheme-ancient-bicycle-goddess-secret-muscle-modify-dutch-talent-climb-assist |  
+| bip_39_word_dash_2 | rather-scheme |  
+| bip_39_word_dash_3 | rather-scheme-ancient |  
+| bip_39_word_dash_4 | rather-scheme-ancient-bicycle |  
+| bip_39_word_dash_5 | rather-scheme-ancient-bicycle-goddess |  
+| bip_39_word_dash_6 | rather-scheme-ancient-bicycle-goddess-secret |  
+| bip_39_word_dash_7 | rather-scheme-ancient-bicycle-goddess-secret-muscle |  
+| bip_39_word_dash_8 | rather-scheme-ancient-bicycle-goddess-secret-muscle-modify |  
+| bip_39_word_dash_9 | rather-scheme-ancient-bicycle-goddess-secret-muscle-modify-dutch |  
 | bip_39_word_new_br_1 | rather |  
 | bip_39_word_new_br_10 | rather<br>scheme<br>ancient<br>bicycle<br>goddess<br>secret<br>muscle<br>modify<br>dutch<br>talent |  
 | bip_39_word_new_br_11 | rather<br>scheme<br>ancient<br>bicycle<br>goddess<br>secret<br>muscle<br>modify<br>dutch<br>talent<br>climb |  
@@ -147,6 +159,18 @@ dutch |
 | bip_39_word_space_7 | rather scheme ancient bicycle goddess secret muscle |  
 | bip_39_word_space_8 | rather scheme ancient bicycle goddess secret muscle modify |  
 | bip_39_word_space_9 | rather scheme ancient bicycle goddess secret muscle modify dutch |  
+| bip_39_word_underscore_1 | rather |  
+| bip_39_word_underscore_10 | rather_scheme_ancient_bicycle_goddess_secret_muscle_modify_dutch_talent |  
+| bip_39_word_underscore_11 | rather_scheme_ancient_bicycle_goddess_secret_muscle_modify_dutch_talent_climb |  
+| bip_39_word_underscore_12 | rather_scheme_ancient_bicycle_goddess_secret_muscle_modify_dutch_talent_climb_assist |  
+| bip_39_word_underscore_2 | rather_scheme |  
+| bip_39_word_underscore_3 | rather_scheme_ancient |  
+| bip_39_word_underscore_4 | rather_scheme_ancient_bicycle |  
+| bip_39_word_underscore_5 | rather_scheme_ancient_bicycle_goddess |  
+| bip_39_word_underscore_6 | rather_scheme_ancient_bicycle_goddess_secret |  
+| bip_39_word_underscore_7 | rather_scheme_ancient_bicycle_goddess_secret_muscle |  
+| bip_39_word_underscore_8 | rather_scheme_ancient_bicycle_goddess_secret_muscle_modify |  
+| bip_39_word_underscore_9 | rather_scheme_ancient_bicycle_goddess_secret_muscle_modify_dutch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

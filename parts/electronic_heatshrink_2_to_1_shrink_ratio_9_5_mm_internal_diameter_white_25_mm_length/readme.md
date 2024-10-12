@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vanish |  
+| bip_39_word_dash_10 | vanish-diet-latin-clay-salmon-liquid-fancy-viable-brisk-boost |  
+| bip_39_word_dash_11 | vanish-diet-latin-clay-salmon-liquid-fancy-viable-brisk-boost-bind |  
+| bip_39_word_dash_12 | vanish-diet-latin-clay-salmon-liquid-fancy-viable-brisk-boost-bind-alcohol |  
+| bip_39_word_dash_2 | vanish-diet |  
+| bip_39_word_dash_3 | vanish-diet-latin |  
+| bip_39_word_dash_4 | vanish-diet-latin-clay |  
+| bip_39_word_dash_5 | vanish-diet-latin-clay-salmon |  
+| bip_39_word_dash_6 | vanish-diet-latin-clay-salmon-liquid |  
+| bip_39_word_dash_7 | vanish-diet-latin-clay-salmon-liquid-fancy |  
+| bip_39_word_dash_8 | vanish-diet-latin-clay-salmon-liquid-fancy-viable |  
+| bip_39_word_dash_9 | vanish-diet-latin-clay-salmon-liquid-fancy-viable-brisk |  
 | bip_39_word_new_br_1 | vanish |  
 | bip_39_word_new_br_10 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost |  
 | bip_39_word_new_br_11 | vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost<br>bind |  
@@ -147,6 +159,18 @@ brisk |
 | bip_39_word_space_7 | vanish diet latin clay salmon liquid fancy |  
 | bip_39_word_space_8 | vanish diet latin clay salmon liquid fancy viable |  
 | bip_39_word_space_9 | vanish diet latin clay salmon liquid fancy viable brisk |  
+| bip_39_word_underscore_1 | vanish |  
+| bip_39_word_underscore_10 | vanish_diet_latin_clay_salmon_liquid_fancy_viable_brisk_boost |  
+| bip_39_word_underscore_11 | vanish_diet_latin_clay_salmon_liquid_fancy_viable_brisk_boost_bind |  
+| bip_39_word_underscore_12 | vanish_diet_latin_clay_salmon_liquid_fancy_viable_brisk_boost_bind_alcohol |  
+| bip_39_word_underscore_2 | vanish_diet |  
+| bip_39_word_underscore_3 | vanish_diet_latin |  
+| bip_39_word_underscore_4 | vanish_diet_latin_clay |  
+| bip_39_word_underscore_5 | vanish_diet_latin_clay_salmon |  
+| bip_39_word_underscore_6 | vanish_diet_latin_clay_salmon_liquid |  
+| bip_39_word_underscore_7 | vanish_diet_latin_clay_salmon_liquid_fancy |  
+| bip_39_word_underscore_8 | vanish_diet_latin_clay_salmon_liquid_fancy_viable |  
+| bip_39_word_underscore_9 | vanish_diet_latin_clay_salmon_liquid_fancy_viable_brisk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

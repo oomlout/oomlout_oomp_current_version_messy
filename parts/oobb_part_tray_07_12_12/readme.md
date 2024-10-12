@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scatter |  
+| bip_39_word_dash_10 | scatter-lab-burden-absurd-help-access-lunch-surround-video-major |  
+| bip_39_word_dash_11 | scatter-lab-burden-absurd-help-access-lunch-surround-video-major-vacuum |  
+| bip_39_word_dash_12 | scatter-lab-burden-absurd-help-access-lunch-surround-video-major-vacuum-afford |  
+| bip_39_word_dash_2 | scatter-lab |  
+| bip_39_word_dash_3 | scatter-lab-burden |  
+| bip_39_word_dash_4 | scatter-lab-burden-absurd |  
+| bip_39_word_dash_5 | scatter-lab-burden-absurd-help |  
+| bip_39_word_dash_6 | scatter-lab-burden-absurd-help-access |  
+| bip_39_word_dash_7 | scatter-lab-burden-absurd-help-access-lunch |  
+| bip_39_word_dash_8 | scatter-lab-burden-absurd-help-access-lunch-surround |  
+| bip_39_word_dash_9 | scatter-lab-burden-absurd-help-access-lunch-surround-video |  
 | bip_39_word_new_br_1 | scatter |  
 | bip_39_word_new_br_10 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround<br>video<br>major |  
 | bip_39_word_new_br_11 | scatter<br>lab<br>burden<br>absurd<br>help<br>access<br>lunch<br>surround<br>video<br>major<br>vacuum |  
@@ -147,6 +159,18 @@ video |
 | bip_39_word_space_7 | scatter lab burden absurd help access lunch |  
 | bip_39_word_space_8 | scatter lab burden absurd help access lunch surround |  
 | bip_39_word_space_9 | scatter lab burden absurd help access lunch surround video |  
+| bip_39_word_underscore_1 | scatter |  
+| bip_39_word_underscore_10 | scatter_lab_burden_absurd_help_access_lunch_surround_video_major |  
+| bip_39_word_underscore_11 | scatter_lab_burden_absurd_help_access_lunch_surround_video_major_vacuum |  
+| bip_39_word_underscore_12 | scatter_lab_burden_absurd_help_access_lunch_surround_video_major_vacuum_afford |  
+| bip_39_word_underscore_2 | scatter_lab |  
+| bip_39_word_underscore_3 | scatter_lab_burden |  
+| bip_39_word_underscore_4 | scatter_lab_burden_absurd |  
+| bip_39_word_underscore_5 | scatter_lab_burden_absurd_help |  
+| bip_39_word_underscore_6 | scatter_lab_burden_absurd_help_access |  
+| bip_39_word_underscore_7 | scatter_lab_burden_absurd_help_access_lunch |  
+| bip_39_word_underscore_8 | scatter_lab_burden_absurd_help_access_lunch_surround |  
+| bip_39_word_underscore_9 | scatter_lab_burden_absurd_help_access_lunch_surround_video |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

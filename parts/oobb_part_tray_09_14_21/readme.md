@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | keep |  
+| bip_39_word_dash_10 | keep-define-finger-theory-correct-brother-right-anchor-spin-mansion |  
+| bip_39_word_dash_11 | keep-define-finger-theory-correct-brother-right-anchor-spin-mansion-window |  
+| bip_39_word_dash_12 | keep-define-finger-theory-correct-brother-right-anchor-spin-mansion-window-able |  
+| bip_39_word_dash_2 | keep-define |  
+| bip_39_word_dash_3 | keep-define-finger |  
+| bip_39_word_dash_4 | keep-define-finger-theory |  
+| bip_39_word_dash_5 | keep-define-finger-theory-correct |  
+| bip_39_word_dash_6 | keep-define-finger-theory-correct-brother |  
+| bip_39_word_dash_7 | keep-define-finger-theory-correct-brother-right |  
+| bip_39_word_dash_8 | keep-define-finger-theory-correct-brother-right-anchor |  
+| bip_39_word_dash_9 | keep-define-finger-theory-correct-brother-right-anchor-spin |  
 | bip_39_word_new_br_1 | keep |  
 | bip_39_word_new_br_10 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor<br>spin<br>mansion |  
 | bip_39_word_new_br_11 | keep<br>define<br>finger<br>theory<br>correct<br>brother<br>right<br>anchor<br>spin<br>mansion<br>window |  
@@ -147,6 +159,18 @@ spin |
 | bip_39_word_space_7 | keep define finger theory correct brother right |  
 | bip_39_word_space_8 | keep define finger theory correct brother right anchor |  
 | bip_39_word_space_9 | keep define finger theory correct brother right anchor spin |  
+| bip_39_word_underscore_1 | keep |  
+| bip_39_word_underscore_10 | keep_define_finger_theory_correct_brother_right_anchor_spin_mansion |  
+| bip_39_word_underscore_11 | keep_define_finger_theory_correct_brother_right_anchor_spin_mansion_window |  
+| bip_39_word_underscore_12 | keep_define_finger_theory_correct_brother_right_anchor_spin_mansion_window_able |  
+| bip_39_word_underscore_2 | keep_define |  
+| bip_39_word_underscore_3 | keep_define_finger |  
+| bip_39_word_underscore_4 | keep_define_finger_theory |  
+| bip_39_word_underscore_5 | keep_define_finger_theory_correct |  
+| bip_39_word_underscore_6 | keep_define_finger_theory_correct_brother |  
+| bip_39_word_underscore_7 | keep_define_finger_theory_correct_brother_right |  
+| bip_39_word_underscore_8 | keep_define_finger_theory_correct_brother_right_anchor |  
+| bip_39_word_underscore_9 | keep_define_finger_theory_correct_brother_right_anchor_spin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

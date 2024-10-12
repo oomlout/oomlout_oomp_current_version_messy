@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | excuse |  
+| bip_39_word_dash_10 | excuse-wrestle-glory-ordinary-weird-over-donkey-deposit-tortoise-choose |  
+| bip_39_word_dash_11 | excuse-wrestle-glory-ordinary-weird-over-donkey-deposit-tortoise-choose-wealth |  
+| bip_39_word_dash_12 | excuse-wrestle-glory-ordinary-weird-over-donkey-deposit-tortoise-choose-wealth-ankle |  
+| bip_39_word_dash_2 | excuse-wrestle |  
+| bip_39_word_dash_3 | excuse-wrestle-glory |  
+| bip_39_word_dash_4 | excuse-wrestle-glory-ordinary |  
+| bip_39_word_dash_5 | excuse-wrestle-glory-ordinary-weird |  
+| bip_39_word_dash_6 | excuse-wrestle-glory-ordinary-weird-over |  
+| bip_39_word_dash_7 | excuse-wrestle-glory-ordinary-weird-over-donkey |  
+| bip_39_word_dash_8 | excuse-wrestle-glory-ordinary-weird-over-donkey-deposit |  
+| bip_39_word_dash_9 | excuse-wrestle-glory-ordinary-weird-over-donkey-deposit-tortoise |  
 | bip_39_word_new_br_1 | excuse |  
 | bip_39_word_new_br_10 | excuse<br>wrestle<br>glory<br>ordinary<br>weird<br>over<br>donkey<br>deposit<br>tortoise<br>choose |  
 | bip_39_word_new_br_11 | excuse<br>wrestle<br>glory<br>ordinary<br>weird<br>over<br>donkey<br>deposit<br>tortoise<br>choose<br>wealth |  
@@ -147,6 +159,18 @@ tortoise |
 | bip_39_word_space_7 | excuse wrestle glory ordinary weird over donkey |  
 | bip_39_word_space_8 | excuse wrestle glory ordinary weird over donkey deposit |  
 | bip_39_word_space_9 | excuse wrestle glory ordinary weird over donkey deposit tortoise |  
+| bip_39_word_underscore_1 | excuse |  
+| bip_39_word_underscore_10 | excuse_wrestle_glory_ordinary_weird_over_donkey_deposit_tortoise_choose |  
+| bip_39_word_underscore_11 | excuse_wrestle_glory_ordinary_weird_over_donkey_deposit_tortoise_choose_wealth |  
+| bip_39_word_underscore_12 | excuse_wrestle_glory_ordinary_weird_over_donkey_deposit_tortoise_choose_wealth_ankle |  
+| bip_39_word_underscore_2 | excuse_wrestle |  
+| bip_39_word_underscore_3 | excuse_wrestle_glory |  
+| bip_39_word_underscore_4 | excuse_wrestle_glory_ordinary |  
+| bip_39_word_underscore_5 | excuse_wrestle_glory_ordinary_weird |  
+| bip_39_word_underscore_6 | excuse_wrestle_glory_ordinary_weird_over |  
+| bip_39_word_underscore_7 | excuse_wrestle_glory_ordinary_weird_over_donkey |  
+| bip_39_word_underscore_8 | excuse_wrestle_glory_ordinary_weird_over_donkey_deposit |  
+| bip_39_word_underscore_9 | excuse_wrestle_glory_ordinary_weird_over_donkey_deposit_tortoise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glove |  
+| bip_39_word_dash_10 | glove-vapor-fold-royal-dash-intact-advice-awkward-clog-zoo |  
+| bip_39_word_dash_11 | glove-vapor-fold-royal-dash-intact-advice-awkward-clog-zoo-blade |  
+| bip_39_word_dash_12 | glove-vapor-fold-royal-dash-intact-advice-awkward-clog-zoo-blade-apart |  
+| bip_39_word_dash_2 | glove-vapor |  
+| bip_39_word_dash_3 | glove-vapor-fold |  
+| bip_39_word_dash_4 | glove-vapor-fold-royal |  
+| bip_39_word_dash_5 | glove-vapor-fold-royal-dash |  
+| bip_39_word_dash_6 | glove-vapor-fold-royal-dash-intact |  
+| bip_39_word_dash_7 | glove-vapor-fold-royal-dash-intact-advice |  
+| bip_39_word_dash_8 | glove-vapor-fold-royal-dash-intact-advice-awkward |  
+| bip_39_word_dash_9 | glove-vapor-fold-royal-dash-intact-advice-awkward-clog |  
 | bip_39_word_new_br_1 | glove |  
 | bip_39_word_new_br_10 | glove<br>vapor<br>fold<br>royal<br>dash<br>intact<br>advice<br>awkward<br>clog<br>zoo |  
 | bip_39_word_new_br_11 | glove<br>vapor<br>fold<br>royal<br>dash<br>intact<br>advice<br>awkward<br>clog<br>zoo<br>blade |  
@@ -147,6 +159,18 @@ clog |
 | bip_39_word_space_7 | glove vapor fold royal dash intact advice |  
 | bip_39_word_space_8 | glove vapor fold royal dash intact advice awkward |  
 | bip_39_word_space_9 | glove vapor fold royal dash intact advice awkward clog |  
+| bip_39_word_underscore_1 | glove |  
+| bip_39_word_underscore_10 | glove_vapor_fold_royal_dash_intact_advice_awkward_clog_zoo |  
+| bip_39_word_underscore_11 | glove_vapor_fold_royal_dash_intact_advice_awkward_clog_zoo_blade |  
+| bip_39_word_underscore_12 | glove_vapor_fold_royal_dash_intact_advice_awkward_clog_zoo_blade_apart |  
+| bip_39_word_underscore_2 | glove_vapor |  
+| bip_39_word_underscore_3 | glove_vapor_fold |  
+| bip_39_word_underscore_4 | glove_vapor_fold_royal |  
+| bip_39_word_underscore_5 | glove_vapor_fold_royal_dash |  
+| bip_39_word_underscore_6 | glove_vapor_fold_royal_dash_intact |  
+| bip_39_word_underscore_7 | glove_vapor_fold_royal_dash_intact_advice |  
+| bip_39_word_underscore_8 | glove_vapor_fold_royal_dash_intact_advice_awkward |  
+| bip_39_word_underscore_9 | glove_vapor_fold_royal_dash_intact_advice_awkward_clog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

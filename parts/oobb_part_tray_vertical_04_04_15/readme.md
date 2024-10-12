@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rug |  
+| bip_39_word_dash_10 | rug-alarm-robust-code-bind-scheme-strike-hero-oppose-pet |  
+| bip_39_word_dash_11 | rug-alarm-robust-code-bind-scheme-strike-hero-oppose-pet-rabbit |  
+| bip_39_word_dash_12 | rug-alarm-robust-code-bind-scheme-strike-hero-oppose-pet-rabbit-assist |  
+| bip_39_word_dash_2 | rug-alarm |  
+| bip_39_word_dash_3 | rug-alarm-robust |  
+| bip_39_word_dash_4 | rug-alarm-robust-code |  
+| bip_39_word_dash_5 | rug-alarm-robust-code-bind |  
+| bip_39_word_dash_6 | rug-alarm-robust-code-bind-scheme |  
+| bip_39_word_dash_7 | rug-alarm-robust-code-bind-scheme-strike |  
+| bip_39_word_dash_8 | rug-alarm-robust-code-bind-scheme-strike-hero |  
+| bip_39_word_dash_9 | rug-alarm-robust-code-bind-scheme-strike-hero-oppose |  
 | bip_39_word_new_br_1 | rug |  
 | bip_39_word_new_br_10 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet |  
 | bip_39_word_new_br_11 | rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet<br>rabbit |  
@@ -147,6 +159,18 @@ oppose |
 | bip_39_word_space_7 | rug alarm robust code bind scheme strike |  
 | bip_39_word_space_8 | rug alarm robust code bind scheme strike hero |  
 | bip_39_word_space_9 | rug alarm robust code bind scheme strike hero oppose |  
+| bip_39_word_underscore_1 | rug |  
+| bip_39_word_underscore_10 | rug_alarm_robust_code_bind_scheme_strike_hero_oppose_pet |  
+| bip_39_word_underscore_11 | rug_alarm_robust_code_bind_scheme_strike_hero_oppose_pet_rabbit |  
+| bip_39_word_underscore_12 | rug_alarm_robust_code_bind_scheme_strike_hero_oppose_pet_rabbit_assist |  
+| bip_39_word_underscore_2 | rug_alarm |  
+| bip_39_word_underscore_3 | rug_alarm_robust |  
+| bip_39_word_underscore_4 | rug_alarm_robust_code |  
+| bip_39_word_underscore_5 | rug_alarm_robust_code_bind |  
+| bip_39_word_underscore_6 | rug_alarm_robust_code_bind_scheme |  
+| bip_39_word_underscore_7 | rug_alarm_robust_code_bind_scheme_strike |  
+| bip_39_word_underscore_8 | rug_alarm_robust_code_bind_scheme_strike_hero |  
+| bip_39_word_underscore_9 | rug_alarm_robust_code_bind_scheme_strike_hero_oppose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

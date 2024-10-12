@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | into |  
+| bip_39_word_dash_10 | into-select-fresh-twelve-increase-rare-front-orchard-protect-tenant |  
+| bip_39_word_dash_11 | into-select-fresh-twelve-increase-rare-front-orchard-protect-tenant-antenna |  
+| bip_39_word_dash_12 | into-select-fresh-twelve-increase-rare-front-orchard-protect-tenant-antenna-also |  
+| bip_39_word_dash_2 | into-select |  
+| bip_39_word_dash_3 | into-select-fresh |  
+| bip_39_word_dash_4 | into-select-fresh-twelve |  
+| bip_39_word_dash_5 | into-select-fresh-twelve-increase |  
+| bip_39_word_dash_6 | into-select-fresh-twelve-increase-rare |  
+| bip_39_word_dash_7 | into-select-fresh-twelve-increase-rare-front |  
+| bip_39_word_dash_8 | into-select-fresh-twelve-increase-rare-front-orchard |  
+| bip_39_word_dash_9 | into-select-fresh-twelve-increase-rare-front-orchard-protect |  
 | bip_39_word_new_br_1 | into |  
 | bip_39_word_new_br_10 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard<br>protect<br>tenant |  
 | bip_39_word_new_br_11 | into<br>select<br>fresh<br>twelve<br>increase<br>rare<br>front<br>orchard<br>protect<br>tenant<br>antenna |  
@@ -147,6 +159,18 @@ protect |
 | bip_39_word_space_7 | into select fresh twelve increase rare front |  
 | bip_39_word_space_8 | into select fresh twelve increase rare front orchard |  
 | bip_39_word_space_9 | into select fresh twelve increase rare front orchard protect |  
+| bip_39_word_underscore_1 | into |  
+| bip_39_word_underscore_10 | into_select_fresh_twelve_increase_rare_front_orchard_protect_tenant |  
+| bip_39_word_underscore_11 | into_select_fresh_twelve_increase_rare_front_orchard_protect_tenant_antenna |  
+| bip_39_word_underscore_12 | into_select_fresh_twelve_increase_rare_front_orchard_protect_tenant_antenna_also |  
+| bip_39_word_underscore_2 | into_select |  
+| bip_39_word_underscore_3 | into_select_fresh |  
+| bip_39_word_underscore_4 | into_select_fresh_twelve |  
+| bip_39_word_underscore_5 | into_select_fresh_twelve_increase |  
+| bip_39_word_underscore_6 | into_select_fresh_twelve_increase_rare |  
+| bip_39_word_underscore_7 | into_select_fresh_twelve_increase_rare_front |  
+| bip_39_word_underscore_8 | into_select_fresh_twelve_increase_rare_front_orchard |  
+| bip_39_word_underscore_9 | into_select_fresh_twelve_increase_rare_front_orchard_protect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

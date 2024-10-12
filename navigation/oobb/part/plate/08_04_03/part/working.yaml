@@ -1,3 +1,15 @@
+bip_39_word_dash_1: galaxy
+bip_39_word_dash_10: galaxy-beyond-mandate-pluck-brave-month-recycle-ginger-tube-sail
+bip_39_word_dash_11: galaxy-beyond-mandate-pluck-brave-month-recycle-ginger-tube-sail-other
+bip_39_word_dash_12: galaxy-beyond-mandate-pluck-brave-month-recycle-ginger-tube-sail-other-all
+bip_39_word_dash_2: galaxy-beyond
+bip_39_word_dash_3: galaxy-beyond-mandate
+bip_39_word_dash_4: galaxy-beyond-mandate-pluck
+bip_39_word_dash_5: galaxy-beyond-mandate-pluck-brave
+bip_39_word_dash_6: galaxy-beyond-mandate-pluck-brave-month
+bip_39_word_dash_7: galaxy-beyond-mandate-pluck-brave-month-recycle
+bip_39_word_dash_8: galaxy-beyond-mandate-pluck-brave-month-recycle-ginger
+bip_39_word_dash_9: galaxy-beyond-mandate-pluck-brave-month-recycle-ginger-tube
 bip_39_word_new_br_1: galaxy
 bip_39_word_new_br_10: galaxy<br>beyond<br>mandate<br>pluck<br>brave<br>month<br>recycle<br>ginger<br>tube<br>sail
 bip_39_word_new_br_11: galaxy<br>beyond<br>mandate<br>pluck<br>brave<br>month<br>recycle<br>ginger<br>tube<br>sail<br>other
@@ -194,6 +206,18 @@ bip_39_word_space_6: galaxy beyond mandate pluck brave month
 bip_39_word_space_7: galaxy beyond mandate pluck brave month recycle
 bip_39_word_space_8: galaxy beyond mandate pluck brave month recycle ginger
 bip_39_word_space_9: galaxy beyond mandate pluck brave month recycle ginger tube
+bip_39_word_underscore_1: galaxy
+bip_39_word_underscore_10: galaxy_beyond_mandate_pluck_brave_month_recycle_ginger_tube_sail
+bip_39_word_underscore_11: galaxy_beyond_mandate_pluck_brave_month_recycle_ginger_tube_sail_other
+bip_39_word_underscore_12: galaxy_beyond_mandate_pluck_brave_month_recycle_ginger_tube_sail_other_all
+bip_39_word_underscore_2: galaxy_beyond
+bip_39_word_underscore_3: galaxy_beyond_mandate
+bip_39_word_underscore_4: galaxy_beyond_mandate_pluck
+bip_39_word_underscore_5: galaxy_beyond_mandate_pluck_brave
+bip_39_word_underscore_6: galaxy_beyond_mandate_pluck_brave_month
+bip_39_word_underscore_7: galaxy_beyond_mandate_pluck_brave_month_recycle
+bip_39_word_underscore_8: galaxy_beyond_mandate_pluck_brave_month_recycle_ginger
+bip_39_word_underscore_9: galaxy_beyond_mandate_pluck_brave_month_recycle_ginger_tube
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

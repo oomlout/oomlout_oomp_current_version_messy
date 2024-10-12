@@ -1,3 +1,15 @@
+bip_39_word_dash_1: small
+bip_39_word_dash_10: small-conduct-earn-vehicle-coyote-net-exchange-cake-polar-plastic
+bip_39_word_dash_11: small-conduct-earn-vehicle-coyote-net-exchange-cake-polar-plastic-feel
+bip_39_word_dash_12: small-conduct-earn-vehicle-coyote-net-exchange-cake-polar-plastic-feel-assume
+bip_39_word_dash_2: small-conduct
+bip_39_word_dash_3: small-conduct-earn
+bip_39_word_dash_4: small-conduct-earn-vehicle
+bip_39_word_dash_5: small-conduct-earn-vehicle-coyote
+bip_39_word_dash_6: small-conduct-earn-vehicle-coyote-net
+bip_39_word_dash_7: small-conduct-earn-vehicle-coyote-net-exchange
+bip_39_word_dash_8: small-conduct-earn-vehicle-coyote-net-exchange-cake
+bip_39_word_dash_9: small-conduct-earn-vehicle-coyote-net-exchange-cake-polar
 bip_39_word_new_br_1: small
 bip_39_word_new_br_10: small<br>conduct<br>earn<br>vehicle<br>coyote<br>net<br>exchange<br>cake<br>polar<br>plastic
 bip_39_word_new_br_11: small<br>conduct<br>earn<br>vehicle<br>coyote<br>net<br>exchange<br>cake<br>polar<br>plastic<br>feel
@@ -193,6 +205,18 @@ bip_39_word_space_6: small conduct earn vehicle coyote net
 bip_39_word_space_7: small conduct earn vehicle coyote net exchange
 bip_39_word_space_8: small conduct earn vehicle coyote net exchange cake
 bip_39_word_space_9: small conduct earn vehicle coyote net exchange cake polar
+bip_39_word_underscore_1: small
+bip_39_word_underscore_10: small_conduct_earn_vehicle_coyote_net_exchange_cake_polar_plastic
+bip_39_word_underscore_11: small_conduct_earn_vehicle_coyote_net_exchange_cake_polar_plastic_feel
+bip_39_word_underscore_12: small_conduct_earn_vehicle_coyote_net_exchange_cake_polar_plastic_feel_assume
+bip_39_word_underscore_2: small_conduct
+bip_39_word_underscore_3: small_conduct_earn
+bip_39_word_underscore_4: small_conduct_earn_vehicle
+bip_39_word_underscore_5: small_conduct_earn_vehicle_coyote
+bip_39_word_underscore_6: small_conduct_earn_vehicle_coyote_net
+bip_39_word_underscore_7: small_conduct_earn_vehicle_coyote_net_exchange
+bip_39_word_underscore_8: small_conduct_earn_vehicle_coyote_net_exchange_cake
+bip_39_word_underscore_9: small_conduct_earn_vehicle_coyote_net_exchange_cake_polar
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

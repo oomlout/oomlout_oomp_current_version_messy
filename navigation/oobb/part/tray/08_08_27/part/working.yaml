@@ -1,3 +1,15 @@
+bip_39_word_dash_1: equal
+bip_39_word_dash_10: equal-post-work-connect-gold-frame-color-away-tool-casino
+bip_39_word_dash_11: equal-post-work-connect-gold-frame-color-away-tool-casino-wood
+bip_39_word_dash_12: equal-post-work-connect-gold-frame-color-away-tool-casino-wood-annual
+bip_39_word_dash_2: equal-post
+bip_39_word_dash_3: equal-post-work
+bip_39_word_dash_4: equal-post-work-connect
+bip_39_word_dash_5: equal-post-work-connect-gold
+bip_39_word_dash_6: equal-post-work-connect-gold-frame
+bip_39_word_dash_7: equal-post-work-connect-gold-frame-color
+bip_39_word_dash_8: equal-post-work-connect-gold-frame-color-away
+bip_39_word_dash_9: equal-post-work-connect-gold-frame-color-away-tool
 bip_39_word_new_br_1: equal
 bip_39_word_new_br_10: equal<br>post<br>work<br>connect<br>gold<br>frame<br>color<br>away<br>tool<br>casino
 bip_39_word_new_br_11: equal<br>post<br>work<br>connect<br>gold<br>frame<br>color<br>away<br>tool<br>casino<br>wood
@@ -192,6 +204,18 @@ bip_39_word_space_6: equal post work connect gold frame
 bip_39_word_space_7: equal post work connect gold frame color
 bip_39_word_space_8: equal post work connect gold frame color away
 bip_39_word_space_9: equal post work connect gold frame color away tool
+bip_39_word_underscore_1: equal
+bip_39_word_underscore_10: equal_post_work_connect_gold_frame_color_away_tool_casino
+bip_39_word_underscore_11: equal_post_work_connect_gold_frame_color_away_tool_casino_wood
+bip_39_word_underscore_12: equal_post_work_connect_gold_frame_color_away_tool_casino_wood_annual
+bip_39_word_underscore_2: equal_post
+bip_39_word_underscore_3: equal_post_work
+bip_39_word_underscore_4: equal_post_work_connect
+bip_39_word_underscore_5: equal_post_work_connect_gold
+bip_39_word_underscore_6: equal_post_work_connect_gold_frame
+bip_39_word_underscore_7: equal_post_work_connect_gold_frame_color
+bip_39_word_underscore_8: equal_post_work_connect_gold_frame_color_away
+bip_39_word_underscore_9: equal_post_work_connect_gold_frame_color_away_tool
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

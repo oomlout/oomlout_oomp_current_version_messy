@@ -1,3 +1,15 @@
+bip_39_word_dash_1: yellow
+bip_39_word_dash_10: yellow-easily-kangaroo-arm-verify-orbit-chuckle-short-raise-fever
+bip_39_word_dash_11: yellow-easily-kangaroo-arm-verify-orbit-chuckle-short-raise-fever-person
+bip_39_word_dash_12: yellow-easily-kangaroo-arm-verify-orbit-chuckle-short-raise-fever-person-army
+bip_39_word_dash_2: yellow-easily
+bip_39_word_dash_3: yellow-easily-kangaroo
+bip_39_word_dash_4: yellow-easily-kangaroo-arm
+bip_39_word_dash_5: yellow-easily-kangaroo-arm-verify
+bip_39_word_dash_6: yellow-easily-kangaroo-arm-verify-orbit
+bip_39_word_dash_7: yellow-easily-kangaroo-arm-verify-orbit-chuckle
+bip_39_word_dash_8: yellow-easily-kangaroo-arm-verify-orbit-chuckle-short
+bip_39_word_dash_9: yellow-easily-kangaroo-arm-verify-orbit-chuckle-short-raise
 bip_39_word_new_br_1: yellow
 bip_39_word_new_br_10: yellow<br>easily<br>kangaroo<br>arm<br>verify<br>orbit<br>chuckle<br>short<br>raise<br>fever
 bip_39_word_new_br_11: yellow<br>easily<br>kangaroo<br>arm<br>verify<br>orbit<br>chuckle<br>short<br>raise<br>fever<br>person
@@ -194,6 +206,18 @@ bip_39_word_space_6: yellow easily kangaroo arm verify orbit
 bip_39_word_space_7: yellow easily kangaroo arm verify orbit chuckle
 bip_39_word_space_8: yellow easily kangaroo arm verify orbit chuckle short
 bip_39_word_space_9: yellow easily kangaroo arm verify orbit chuckle short raise
+bip_39_word_underscore_1: yellow
+bip_39_word_underscore_10: yellow_easily_kangaroo_arm_verify_orbit_chuckle_short_raise_fever
+bip_39_word_underscore_11: yellow_easily_kangaroo_arm_verify_orbit_chuckle_short_raise_fever_person
+bip_39_word_underscore_12: yellow_easily_kangaroo_arm_verify_orbit_chuckle_short_raise_fever_person_army
+bip_39_word_underscore_2: yellow_easily
+bip_39_word_underscore_3: yellow_easily_kangaroo
+bip_39_word_underscore_4: yellow_easily_kangaroo_arm
+bip_39_word_underscore_5: yellow_easily_kangaroo_arm_verify
+bip_39_word_underscore_6: yellow_easily_kangaroo_arm_verify_orbit
+bip_39_word_underscore_7: yellow_easily_kangaroo_arm_verify_orbit_chuckle
+bip_39_word_underscore_8: yellow_easily_kangaroo_arm_verify_orbit_chuckle_short
+bip_39_word_underscore_9: yellow_easily_kangaroo_arm_verify_orbit_chuckle_short_raise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

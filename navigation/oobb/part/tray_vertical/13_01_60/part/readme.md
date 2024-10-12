@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | visa |  
+| bip_39_word_dash_10 | visa-unhappy-turkey-axis-offer-suggest-unfold-potato-talk-cave |  
+| bip_39_word_dash_11 | visa-unhappy-turkey-axis-offer-suggest-unfold-potato-talk-cave-rotate |  
+| bip_39_word_dash_2 | visa-unhappy |  
+| bip_39_word_dash_3 | visa-unhappy-turkey |  
+| bip_39_word_dash_4 | visa-unhappy-turkey-axis |  
+| bip_39_word_dash_5 | visa-unhappy-turkey-axis-offer |  
+| bip_39_word_dash_6 | visa-unhappy-turkey-axis-offer-suggest |  
+| bip_39_word_dash_7 | visa-unhappy-turkey-axis-offer-suggest-unfold |  
+| bip_39_word_dash_8 | visa-unhappy-turkey-axis-offer-suggest-unfold-potato |  
+| bip_39_word_dash_9 | visa-unhappy-turkey-axis-offer-suggest-unfold-potato-talk |  
 | bip_39_word_new_br_1 | visa |  
 | bip_39_word_new_br_10 | visa<br>unhappy<br>turkey<br>axis<br>offer<br>suggest<br>unfold<br>potato<br>talk<br>cave |  
 | bip_39_word_new_br_11 | visa<br>unhappy<br>turkey<br>axis<br>offer<br>suggest<br>unfold<br>potato<br>talk<br>cave<br>rotate |  
@@ -132,6 +143,17 @@ talk |
 | bip_39_word_space_7 | visa unhappy turkey axis offer suggest unfold |  
 | bip_39_word_space_8 | visa unhappy turkey axis offer suggest unfold potato |  
 | bip_39_word_space_9 | visa unhappy turkey axis offer suggest unfold potato talk |  
+| bip_39_word_underscore_1 | visa |  
+| bip_39_word_underscore_10 | visa_unhappy_turkey_axis_offer_suggest_unfold_potato_talk_cave |  
+| bip_39_word_underscore_11 | visa_unhappy_turkey_axis_offer_suggest_unfold_potato_talk_cave_rotate |  
+| bip_39_word_underscore_2 | visa_unhappy |  
+| bip_39_word_underscore_3 | visa_unhappy_turkey |  
+| bip_39_word_underscore_4 | visa_unhappy_turkey_axis |  
+| bip_39_word_underscore_5 | visa_unhappy_turkey_axis_offer |  
+| bip_39_word_underscore_6 | visa_unhappy_turkey_axis_offer_suggest |  
+| bip_39_word_underscore_7 | visa_unhappy_turkey_axis_offer_suggest_unfold |  
+| bip_39_word_underscore_8 | visa_unhappy_turkey_axis_offer_suggest_unfold_potato |  
+| bip_39_word_underscore_9 | visa_unhappy_turkey_axis_offer_suggest_unfold_potato_talk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | volcano |  
+| bip_39_word_dash_10 | volcano-satoshi-trick-brief-repair-crouch-romance-law-trust-jeans |  
+| bip_39_word_dash_11 | volcano-satoshi-trick-brief-repair-crouch-romance-law-trust-jeans-mobile |  
+| bip_39_word_dash_12 | volcano-satoshi-trick-brief-repair-crouch-romance-law-trust-jeans-mobile-alpha |  
+| bip_39_word_dash_2 | volcano-satoshi |  
+| bip_39_word_dash_3 | volcano-satoshi-trick |  
+| bip_39_word_dash_4 | volcano-satoshi-trick-brief |  
+| bip_39_word_dash_5 | volcano-satoshi-trick-brief-repair |  
+| bip_39_word_dash_6 | volcano-satoshi-trick-brief-repair-crouch |  
+| bip_39_word_dash_7 | volcano-satoshi-trick-brief-repair-crouch-romance |  
+| bip_39_word_dash_8 | volcano-satoshi-trick-brief-repair-crouch-romance-law |  
+| bip_39_word_dash_9 | volcano-satoshi-trick-brief-repair-crouch-romance-law-trust |  
 | bip_39_word_new_br_1 | volcano |  
 | bip_39_word_new_br_10 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans |  
 | bip_39_word_new_br_11 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans<br>mobile |  
@@ -147,6 +159,18 @@ trust |
 | bip_39_word_space_7 | volcano satoshi trick brief repair crouch romance |  
 | bip_39_word_space_8 | volcano satoshi trick brief repair crouch romance law |  
 | bip_39_word_space_9 | volcano satoshi trick brief repair crouch romance law trust |  
+| bip_39_word_underscore_1 | volcano |  
+| bip_39_word_underscore_10 | volcano_satoshi_trick_brief_repair_crouch_romance_law_trust_jeans |  
+| bip_39_word_underscore_11 | volcano_satoshi_trick_brief_repair_crouch_romance_law_trust_jeans_mobile |  
+| bip_39_word_underscore_12 | volcano_satoshi_trick_brief_repair_crouch_romance_law_trust_jeans_mobile_alpha |  
+| bip_39_word_underscore_2 | volcano_satoshi |  
+| bip_39_word_underscore_3 | volcano_satoshi_trick |  
+| bip_39_word_underscore_4 | volcano_satoshi_trick_brief |  
+| bip_39_word_underscore_5 | volcano_satoshi_trick_brief_repair |  
+| bip_39_word_underscore_6 | volcano_satoshi_trick_brief_repair_crouch |  
+| bip_39_word_underscore_7 | volcano_satoshi_trick_brief_repair_crouch_romance |  
+| bip_39_word_underscore_8 | volcano_satoshi_trick_brief_repair_crouch_romance_law |  
+| bip_39_word_underscore_9 | volcano_satoshi_trick_brief_repair_crouch_romance_law_trust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

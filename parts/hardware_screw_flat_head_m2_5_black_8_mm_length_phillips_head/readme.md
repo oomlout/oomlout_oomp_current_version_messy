@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stone |  
+| bip_39_word_dash_10 | stone-element-salt-music-admit-off-alley-fancy-catalog-consider |  
+| bip_39_word_dash_11 | stone-element-salt-music-admit-off-alley-fancy-catalog-consider-monkey |  
+| bip_39_word_dash_12 | stone-element-salt-music-admit-off-alley-fancy-catalog-consider-monkey-ancient |  
+| bip_39_word_dash_2 | stone-element |  
+| bip_39_word_dash_3 | stone-element-salt |  
+| bip_39_word_dash_4 | stone-element-salt-music |  
+| bip_39_word_dash_5 | stone-element-salt-music-admit |  
+| bip_39_word_dash_6 | stone-element-salt-music-admit-off |  
+| bip_39_word_dash_7 | stone-element-salt-music-admit-off-alley |  
+| bip_39_word_dash_8 | stone-element-salt-music-admit-off-alley-fancy |  
+| bip_39_word_dash_9 | stone-element-salt-music-admit-off-alley-fancy-catalog |  
 | bip_39_word_new_br_1 | stone |  
 | bip_39_word_new_br_10 | stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy<br>catalog<br>consider |  
 | bip_39_word_new_br_11 | stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy<br>catalog<br>consider<br>monkey |  
@@ -147,6 +159,18 @@ catalog |
 | bip_39_word_space_7 | stone element salt music admit off alley |  
 | bip_39_word_space_8 | stone element salt music admit off alley fancy |  
 | bip_39_word_space_9 | stone element salt music admit off alley fancy catalog |  
+| bip_39_word_underscore_1 | stone |  
+| bip_39_word_underscore_10 | stone_element_salt_music_admit_off_alley_fancy_catalog_consider |  
+| bip_39_word_underscore_11 | stone_element_salt_music_admit_off_alley_fancy_catalog_consider_monkey |  
+| bip_39_word_underscore_12 | stone_element_salt_music_admit_off_alley_fancy_catalog_consider_monkey_ancient |  
+| bip_39_word_underscore_2 | stone_element |  
+| bip_39_word_underscore_3 | stone_element_salt |  
+| bip_39_word_underscore_4 | stone_element_salt_music |  
+| bip_39_word_underscore_5 | stone_element_salt_music_admit |  
+| bip_39_word_underscore_6 | stone_element_salt_music_admit_off |  
+| bip_39_word_underscore_7 | stone_element_salt_music_admit_off_alley |  
+| bip_39_word_underscore_8 | stone_element_salt_music_admit_off_alley_fancy |  
+| bip_39_word_underscore_9 | stone_element_salt_music_admit_off_alley_fancy_catalog |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

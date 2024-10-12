@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | weird |  
+| bip_39_word_dash_10 | weird-adult-couch-sponsor-seat-asset-holiday-camera-pizza-puzzle |  
+| bip_39_word_dash_11 | weird-adult-couch-sponsor-seat-asset-holiday-camera-pizza-puzzle-tobacco |  
+| bip_39_word_dash_12 | weird-adult-couch-sponsor-seat-asset-holiday-camera-pizza-puzzle-tobacco-affair |  
+| bip_39_word_dash_2 | weird-adult |  
+| bip_39_word_dash_3 | weird-adult-couch |  
+| bip_39_word_dash_4 | weird-adult-couch-sponsor |  
+| bip_39_word_dash_5 | weird-adult-couch-sponsor-seat |  
+| bip_39_word_dash_6 | weird-adult-couch-sponsor-seat-asset |  
+| bip_39_word_dash_7 | weird-adult-couch-sponsor-seat-asset-holiday |  
+| bip_39_word_dash_8 | weird-adult-couch-sponsor-seat-asset-holiday-camera |  
+| bip_39_word_dash_9 | weird-adult-couch-sponsor-seat-asset-holiday-camera-pizza |  
 | bip_39_word_new_br_1 | weird |  
 | bip_39_word_new_br_10 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera<br>pizza<br>puzzle |  
 | bip_39_word_new_br_11 | weird<br>adult<br>couch<br>sponsor<br>seat<br>asset<br>holiday<br>camera<br>pizza<br>puzzle<br>tobacco |  
@@ -147,6 +159,18 @@ pizza |
 | bip_39_word_space_7 | weird adult couch sponsor seat asset holiday |  
 | bip_39_word_space_8 | weird adult couch sponsor seat asset holiday camera |  
 | bip_39_word_space_9 | weird adult couch sponsor seat asset holiday camera pizza |  
+| bip_39_word_underscore_1 | weird |  
+| bip_39_word_underscore_10 | weird_adult_couch_sponsor_seat_asset_holiday_camera_pizza_puzzle |  
+| bip_39_word_underscore_11 | weird_adult_couch_sponsor_seat_asset_holiday_camera_pizza_puzzle_tobacco |  
+| bip_39_word_underscore_12 | weird_adult_couch_sponsor_seat_asset_holiday_camera_pizza_puzzle_tobacco_affair |  
+| bip_39_word_underscore_2 | weird_adult |  
+| bip_39_word_underscore_3 | weird_adult_couch |  
+| bip_39_word_underscore_4 | weird_adult_couch_sponsor |  
+| bip_39_word_underscore_5 | weird_adult_couch_sponsor_seat |  
+| bip_39_word_underscore_6 | weird_adult_couch_sponsor_seat_asset |  
+| bip_39_word_underscore_7 | weird_adult_couch_sponsor_seat_asset_holiday |  
+| bip_39_word_underscore_8 | weird_adult_couch_sponsor_seat_asset_holiday_camera |  
+| bip_39_word_underscore_9 | weird_adult_couch_sponsor_seat_asset_holiday_camera_pizza |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

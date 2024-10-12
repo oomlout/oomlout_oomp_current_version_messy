@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dawn |  
+| bip_39_word_dash_10 | dawn-carpet-chase-hunt-negative-silent-curtain-maid-coin-bridge |  
+| bip_39_word_dash_11 | dawn-carpet-chase-hunt-negative-silent-curtain-maid-coin-bridge-bottom |  
+| bip_39_word_dash_12 | dawn-carpet-chase-hunt-negative-silent-curtain-maid-coin-bridge-bottom-absorb |  
+| bip_39_word_dash_2 | dawn-carpet |  
+| bip_39_word_dash_3 | dawn-carpet-chase |  
+| bip_39_word_dash_4 | dawn-carpet-chase-hunt |  
+| bip_39_word_dash_5 | dawn-carpet-chase-hunt-negative |  
+| bip_39_word_dash_6 | dawn-carpet-chase-hunt-negative-silent |  
+| bip_39_word_dash_7 | dawn-carpet-chase-hunt-negative-silent-curtain |  
+| bip_39_word_dash_8 | dawn-carpet-chase-hunt-negative-silent-curtain-maid |  
+| bip_39_word_dash_9 | dawn-carpet-chase-hunt-negative-silent-curtain-maid-coin |  
 | bip_39_word_new_br_1 | dawn |  
 | bip_39_word_new_br_10 | dawn<br>carpet<br>chase<br>hunt<br>negative<br>silent<br>curtain<br>maid<br>coin<br>bridge |  
 | bip_39_word_new_br_11 | dawn<br>carpet<br>chase<br>hunt<br>negative<br>silent<br>curtain<br>maid<br>coin<br>bridge<br>bottom |  
@@ -147,6 +159,18 @@ coin |
 | bip_39_word_space_7 | dawn carpet chase hunt negative silent curtain |  
 | bip_39_word_space_8 | dawn carpet chase hunt negative silent curtain maid |  
 | bip_39_word_space_9 | dawn carpet chase hunt negative silent curtain maid coin |  
+| bip_39_word_underscore_1 | dawn |  
+| bip_39_word_underscore_10 | dawn_carpet_chase_hunt_negative_silent_curtain_maid_coin_bridge |  
+| bip_39_word_underscore_11 | dawn_carpet_chase_hunt_negative_silent_curtain_maid_coin_bridge_bottom |  
+| bip_39_word_underscore_12 | dawn_carpet_chase_hunt_negative_silent_curtain_maid_coin_bridge_bottom_absorb |  
+| bip_39_word_underscore_2 | dawn_carpet |  
+| bip_39_word_underscore_3 | dawn_carpet_chase |  
+| bip_39_word_underscore_4 | dawn_carpet_chase_hunt |  
+| bip_39_word_underscore_5 | dawn_carpet_chase_hunt_negative |  
+| bip_39_word_underscore_6 | dawn_carpet_chase_hunt_negative_silent |  
+| bip_39_word_underscore_7 | dawn_carpet_chase_hunt_negative_silent_curtain |  
+| bip_39_word_underscore_8 | dawn_carpet_chase_hunt_negative_silent_curtain_maid |  
+| bip_39_word_underscore_9 | dawn_carpet_chase_hunt_negative_silent_curtain_maid_coin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

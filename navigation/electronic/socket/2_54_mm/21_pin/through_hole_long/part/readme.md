@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hundred |  
+| bip_39_word_dash_10 | hundred-vocal-run-one-recipe-social-chat-pass-fuel-range |  
+| bip_39_word_dash_11 | hundred-vocal-run-one-recipe-social-chat-pass-fuel-range-adult |  
+| bip_39_word_dash_12 | hundred-vocal-run-one-recipe-social-chat-pass-fuel-range-adult-afraid |  
+| bip_39_word_dash_2 | hundred-vocal |  
+| bip_39_word_dash_3 | hundred-vocal-run |  
+| bip_39_word_dash_4 | hundred-vocal-run-one |  
+| bip_39_word_dash_5 | hundred-vocal-run-one-recipe |  
+| bip_39_word_dash_6 | hundred-vocal-run-one-recipe-social |  
+| bip_39_word_dash_7 | hundred-vocal-run-one-recipe-social-chat |  
+| bip_39_word_dash_8 | hundred-vocal-run-one-recipe-social-chat-pass |  
+| bip_39_word_dash_9 | hundred-vocal-run-one-recipe-social-chat-pass-fuel |  
 | bip_39_word_new_br_1 | hundred |  
 | bip_39_word_new_br_10 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass<br>fuel<br>range |  
 | bip_39_word_new_br_11 | hundred<br>vocal<br>run<br>one<br>recipe<br>social<br>chat<br>pass<br>fuel<br>range<br>adult |  
@@ -147,6 +159,18 @@ fuel |
 | bip_39_word_space_7 | hundred vocal run one recipe social chat |  
 | bip_39_word_space_8 | hundred vocal run one recipe social chat pass |  
 | bip_39_word_space_9 | hundred vocal run one recipe social chat pass fuel |  
+| bip_39_word_underscore_1 | hundred |  
+| bip_39_word_underscore_10 | hundred_vocal_run_one_recipe_social_chat_pass_fuel_range |  
+| bip_39_word_underscore_11 | hundred_vocal_run_one_recipe_social_chat_pass_fuel_range_adult |  
+| bip_39_word_underscore_12 | hundred_vocal_run_one_recipe_social_chat_pass_fuel_range_adult_afraid |  
+| bip_39_word_underscore_2 | hundred_vocal |  
+| bip_39_word_underscore_3 | hundred_vocal_run |  
+| bip_39_word_underscore_4 | hundred_vocal_run_one |  
+| bip_39_word_underscore_5 | hundred_vocal_run_one_recipe |  
+| bip_39_word_underscore_6 | hundred_vocal_run_one_recipe_social |  
+| bip_39_word_underscore_7 | hundred_vocal_run_one_recipe_social_chat |  
+| bip_39_word_underscore_8 | hundred_vocal_run_one_recipe_social_chat_pass |  
+| bip_39_word_underscore_9 | hundred_vocal_run_one_recipe_social_chat_pass_fuel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

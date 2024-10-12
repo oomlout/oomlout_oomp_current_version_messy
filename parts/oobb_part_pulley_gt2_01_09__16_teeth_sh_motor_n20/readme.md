@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coffee |  
+| bip_39_word_dash_10 | coffee-always-build-chuckle-smooth-menu-rack-demise-memory-neglect |  
+| bip_39_word_dash_11 | coffee-always-build-chuckle-smooth-menu-rack-demise-memory-neglect-river |  
+| bip_39_word_dash_12 | coffee-always-build-chuckle-smooth-menu-rack-demise-memory-neglect-river-attract |  
+| bip_39_word_dash_2 | coffee-always |  
+| bip_39_word_dash_3 | coffee-always-build |  
+| bip_39_word_dash_4 | coffee-always-build-chuckle |  
+| bip_39_word_dash_5 | coffee-always-build-chuckle-smooth |  
+| bip_39_word_dash_6 | coffee-always-build-chuckle-smooth-menu |  
+| bip_39_word_dash_7 | coffee-always-build-chuckle-smooth-menu-rack |  
+| bip_39_word_dash_8 | coffee-always-build-chuckle-smooth-menu-rack-demise |  
+| bip_39_word_dash_9 | coffee-always-build-chuckle-smooth-menu-rack-demise-memory |  
 | bip_39_word_new_br_1 | coffee |  
 | bip_39_word_new_br_10 | coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise<br>memory<br>neglect |  
 | bip_39_word_new_br_11 | coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise<br>memory<br>neglect<br>river |  
@@ -147,6 +159,18 @@ memory |
 | bip_39_word_space_7 | coffee always build chuckle smooth menu rack |  
 | bip_39_word_space_8 | coffee always build chuckle smooth menu rack demise |  
 | bip_39_word_space_9 | coffee always build chuckle smooth menu rack demise memory |  
+| bip_39_word_underscore_1 | coffee |  
+| bip_39_word_underscore_10 | coffee_always_build_chuckle_smooth_menu_rack_demise_memory_neglect |  
+| bip_39_word_underscore_11 | coffee_always_build_chuckle_smooth_menu_rack_demise_memory_neglect_river |  
+| bip_39_word_underscore_12 | coffee_always_build_chuckle_smooth_menu_rack_demise_memory_neglect_river_attract |  
+| bip_39_word_underscore_2 | coffee_always |  
+| bip_39_word_underscore_3 | coffee_always_build |  
+| bip_39_word_underscore_4 | coffee_always_build_chuckle |  
+| bip_39_word_underscore_5 | coffee_always_build_chuckle_smooth |  
+| bip_39_word_underscore_6 | coffee_always_build_chuckle_smooth_menu |  
+| bip_39_word_underscore_7 | coffee_always_build_chuckle_smooth_menu_rack |  
+| bip_39_word_underscore_8 | coffee_always_build_chuckle_smooth_menu_rack_demise |  
+| bip_39_word_underscore_9 | coffee_always_build_chuckle_smooth_menu_rack_demise_memory |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

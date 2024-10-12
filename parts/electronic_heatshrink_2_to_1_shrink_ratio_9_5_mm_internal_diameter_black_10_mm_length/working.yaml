@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cream
+bip_39_word_dash_10: cream-boil-wealth-frost-salute-enough-cause-laugh-misery-switch
+bip_39_word_dash_11: cream-boil-wealth-frost-salute-enough-cause-laugh-misery-switch-powder
+bip_39_word_dash_12: cream-boil-wealth-frost-salute-enough-cause-laugh-misery-switch-powder-arctic
+bip_39_word_dash_2: cream-boil
+bip_39_word_dash_3: cream-boil-wealth
+bip_39_word_dash_4: cream-boil-wealth-frost
+bip_39_word_dash_5: cream-boil-wealth-frost-salute
+bip_39_word_dash_6: cream-boil-wealth-frost-salute-enough
+bip_39_word_dash_7: cream-boil-wealth-frost-salute-enough-cause
+bip_39_word_dash_8: cream-boil-wealth-frost-salute-enough-cause-laugh
+bip_39_word_dash_9: cream-boil-wealth-frost-salute-enough-cause-laugh-misery
 bip_39_word_new_br_1: cream
 bip_39_word_new_br_10: cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh<br>misery<br>switch
 bip_39_word_new_br_11: cream<br>boil<br>wealth<br>frost<br>salute<br>enough<br>cause<br>laugh<br>misery<br>switch<br>powder
@@ -193,6 +205,18 @@ bip_39_word_space_6: cream boil wealth frost salute enough
 bip_39_word_space_7: cream boil wealth frost salute enough cause
 bip_39_word_space_8: cream boil wealth frost salute enough cause laugh
 bip_39_word_space_9: cream boil wealth frost salute enough cause laugh misery
+bip_39_word_underscore_1: cream
+bip_39_word_underscore_10: cream_boil_wealth_frost_salute_enough_cause_laugh_misery_switch
+bip_39_word_underscore_11: cream_boil_wealth_frost_salute_enough_cause_laugh_misery_switch_powder
+bip_39_word_underscore_12: cream_boil_wealth_frost_salute_enough_cause_laugh_misery_switch_powder_arctic
+bip_39_word_underscore_2: cream_boil
+bip_39_word_underscore_3: cream_boil_wealth
+bip_39_word_underscore_4: cream_boil_wealth_frost
+bip_39_word_underscore_5: cream_boil_wealth_frost_salute
+bip_39_word_underscore_6: cream_boil_wealth_frost_salute_enough
+bip_39_word_underscore_7: cream_boil_wealth_frost_salute_enough_cause
+bip_39_word_underscore_8: cream_boil_wealth_frost_salute_enough_cause_laugh
+bip_39_word_underscore_9: cream_boil_wealth_frost_salute_enough_cause_laugh_misery
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

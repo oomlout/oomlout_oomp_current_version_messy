@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diagram |  
+| bip_39_word_dash_10 | diagram-soon-vibrant-lawn-life-electric-stable-elevator-total-example |  
+| bip_39_word_dash_11 | diagram-soon-vibrant-lawn-life-electric-stable-elevator-total-example-tribe |  
+| bip_39_word_dash_12 | diagram-soon-vibrant-lawn-life-electric-stable-elevator-total-example-tribe-air |  
+| bip_39_word_dash_2 | diagram-soon |  
+| bip_39_word_dash_3 | diagram-soon-vibrant |  
+| bip_39_word_dash_4 | diagram-soon-vibrant-lawn |  
+| bip_39_word_dash_5 | diagram-soon-vibrant-lawn-life |  
+| bip_39_word_dash_6 | diagram-soon-vibrant-lawn-life-electric |  
+| bip_39_word_dash_7 | diagram-soon-vibrant-lawn-life-electric-stable |  
+| bip_39_word_dash_8 | diagram-soon-vibrant-lawn-life-electric-stable-elevator |  
+| bip_39_word_dash_9 | diagram-soon-vibrant-lawn-life-electric-stable-elevator-total |  
 | bip_39_word_new_br_1 | diagram |  
 | bip_39_word_new_br_10 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator<br>total<br>example |  
 | bip_39_word_new_br_11 | diagram<br>soon<br>vibrant<br>lawn<br>life<br>electric<br>stable<br>elevator<br>total<br>example<br>tribe |  
@@ -147,6 +159,18 @@ total |
 | bip_39_word_space_7 | diagram soon vibrant lawn life electric stable |  
 | bip_39_word_space_8 | diagram soon vibrant lawn life electric stable elevator |  
 | bip_39_word_space_9 | diagram soon vibrant lawn life electric stable elevator total |  
+| bip_39_word_underscore_1 | diagram |  
+| bip_39_word_underscore_10 | diagram_soon_vibrant_lawn_life_electric_stable_elevator_total_example |  
+| bip_39_word_underscore_11 | diagram_soon_vibrant_lawn_life_electric_stable_elevator_total_example_tribe |  
+| bip_39_word_underscore_12 | diagram_soon_vibrant_lawn_life_electric_stable_elevator_total_example_tribe_air |  
+| bip_39_word_underscore_2 | diagram_soon |  
+| bip_39_word_underscore_3 | diagram_soon_vibrant |  
+| bip_39_word_underscore_4 | diagram_soon_vibrant_lawn |  
+| bip_39_word_underscore_5 | diagram_soon_vibrant_lawn_life |  
+| bip_39_word_underscore_6 | diagram_soon_vibrant_lawn_life_electric |  
+| bip_39_word_underscore_7 | diagram_soon_vibrant_lawn_life_electric_stable |  
+| bip_39_word_underscore_8 | diagram_soon_vibrant_lawn_life_electric_stable_elevator |  
+| bip_39_word_underscore_9 | diagram_soon_vibrant_lawn_life_electric_stable_elevator_total |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

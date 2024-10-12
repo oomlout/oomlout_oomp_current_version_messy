@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sea |  
+| bip_39_word_dash_10 | sea-mule-unique-polar-annual-tuna-shift-amount-asthma-age |  
+| bip_39_word_dash_11 | sea-mule-unique-polar-annual-tuna-shift-amount-asthma-age-bracket |  
+| bip_39_word_dash_12 | sea-mule-unique-polar-annual-tuna-shift-amount-asthma-age-bracket-answer |  
+| bip_39_word_dash_2 | sea-mule |  
+| bip_39_word_dash_3 | sea-mule-unique |  
+| bip_39_word_dash_4 | sea-mule-unique-polar |  
+| bip_39_word_dash_5 | sea-mule-unique-polar-annual |  
+| bip_39_word_dash_6 | sea-mule-unique-polar-annual-tuna |  
+| bip_39_word_dash_7 | sea-mule-unique-polar-annual-tuna-shift |  
+| bip_39_word_dash_8 | sea-mule-unique-polar-annual-tuna-shift-amount |  
+| bip_39_word_dash_9 | sea-mule-unique-polar-annual-tuna-shift-amount-asthma |  
 | bip_39_word_new_br_1 | sea |  
 | bip_39_word_new_br_10 | sea<br>mule<br>unique<br>polar<br>annual<br>tuna<br>shift<br>amount<br>asthma<br>age |  
 | bip_39_word_new_br_11 | sea<br>mule<br>unique<br>polar<br>annual<br>tuna<br>shift<br>amount<br>asthma<br>age<br>bracket |  
@@ -147,6 +159,18 @@ asthma |
 | bip_39_word_space_7 | sea mule unique polar annual tuna shift |  
 | bip_39_word_space_8 | sea mule unique polar annual tuna shift amount |  
 | bip_39_word_space_9 | sea mule unique polar annual tuna shift amount asthma |  
+| bip_39_word_underscore_1 | sea |  
+| bip_39_word_underscore_10 | sea_mule_unique_polar_annual_tuna_shift_amount_asthma_age |  
+| bip_39_word_underscore_11 | sea_mule_unique_polar_annual_tuna_shift_amount_asthma_age_bracket |  
+| bip_39_word_underscore_12 | sea_mule_unique_polar_annual_tuna_shift_amount_asthma_age_bracket_answer |  
+| bip_39_word_underscore_2 | sea_mule |  
+| bip_39_word_underscore_3 | sea_mule_unique |  
+| bip_39_word_underscore_4 | sea_mule_unique_polar |  
+| bip_39_word_underscore_5 | sea_mule_unique_polar_annual |  
+| bip_39_word_underscore_6 | sea_mule_unique_polar_annual_tuna |  
+| bip_39_word_underscore_7 | sea_mule_unique_polar_annual_tuna_shift |  
+| bip_39_word_underscore_8 | sea_mule_unique_polar_annual_tuna_shift_amount |  
+| bip_39_word_underscore_9 | sea_mule_unique_polar_annual_tuna_shift_amount_asthma |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

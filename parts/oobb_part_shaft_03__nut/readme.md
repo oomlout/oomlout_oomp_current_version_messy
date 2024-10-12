@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | render |  
+| bip_39_word_dash_10 | render-snow-lend-sheriff-trophy-catalog-debate-keen-boss-once |  
+| bip_39_word_dash_11 | render-snow-lend-sheriff-trophy-catalog-debate-keen-boss-once-neutral |  
+| bip_39_word_dash_12 | render-snow-lend-sheriff-trophy-catalog-debate-keen-boss-once-neutral-adjust |  
+| bip_39_word_dash_2 | render-snow |  
+| bip_39_word_dash_3 | render-snow-lend |  
+| bip_39_word_dash_4 | render-snow-lend-sheriff |  
+| bip_39_word_dash_5 | render-snow-lend-sheriff-trophy |  
+| bip_39_word_dash_6 | render-snow-lend-sheriff-trophy-catalog |  
+| bip_39_word_dash_7 | render-snow-lend-sheriff-trophy-catalog-debate |  
+| bip_39_word_dash_8 | render-snow-lend-sheriff-trophy-catalog-debate-keen |  
+| bip_39_word_dash_9 | render-snow-lend-sheriff-trophy-catalog-debate-keen-boss |  
 | bip_39_word_new_br_1 | render |  
 | bip_39_word_new_br_10 | render<br>snow<br>lend<br>sheriff<br>trophy<br>catalog<br>debate<br>keen<br>boss<br>once |  
 | bip_39_word_new_br_11 | render<br>snow<br>lend<br>sheriff<br>trophy<br>catalog<br>debate<br>keen<br>boss<br>once<br>neutral |  
@@ -147,6 +159,18 @@ boss |
 | bip_39_word_space_7 | render snow lend sheriff trophy catalog debate |  
 | bip_39_word_space_8 | render snow lend sheriff trophy catalog debate keen |  
 | bip_39_word_space_9 | render snow lend sheriff trophy catalog debate keen boss |  
+| bip_39_word_underscore_1 | render |  
+| bip_39_word_underscore_10 | render_snow_lend_sheriff_trophy_catalog_debate_keen_boss_once |  
+| bip_39_word_underscore_11 | render_snow_lend_sheriff_trophy_catalog_debate_keen_boss_once_neutral |  
+| bip_39_word_underscore_12 | render_snow_lend_sheriff_trophy_catalog_debate_keen_boss_once_neutral_adjust |  
+| bip_39_word_underscore_2 | render_snow |  
+| bip_39_word_underscore_3 | render_snow_lend |  
+| bip_39_word_underscore_4 | render_snow_lend_sheriff |  
+| bip_39_word_underscore_5 | render_snow_lend_sheriff_trophy |  
+| bip_39_word_underscore_6 | render_snow_lend_sheriff_trophy_catalog |  
+| bip_39_word_underscore_7 | render_snow_lend_sheriff_trophy_catalog_debate |  
+| bip_39_word_underscore_8 | render_snow_lend_sheriff_trophy_catalog_debate_keen |  
+| bip_39_word_underscore_9 | render_snow_lend_sheriff_trophy_catalog_debate_keen_boss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

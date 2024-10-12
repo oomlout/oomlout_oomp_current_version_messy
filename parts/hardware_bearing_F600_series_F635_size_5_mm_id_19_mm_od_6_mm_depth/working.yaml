@@ -1,3 +1,15 @@
+bip_39_word_dash_1: put
+bip_39_word_dash_10: put-brick-during-ability-teach-swear-connect-surprise-mention-inhale
+bip_39_word_dash_11: put-brick-during-ability-teach-swear-connect-surprise-mention-inhale-earth
+bip_39_word_dash_12: put-brick-during-ability-teach-swear-connect-surprise-mention-inhale-earth-above
+bip_39_word_dash_2: put-brick
+bip_39_word_dash_3: put-brick-during
+bip_39_word_dash_4: put-brick-during-ability
+bip_39_word_dash_5: put-brick-during-ability-teach
+bip_39_word_dash_6: put-brick-during-ability-teach-swear
+bip_39_word_dash_7: put-brick-during-ability-teach-swear-connect
+bip_39_word_dash_8: put-brick-during-ability-teach-swear-connect-surprise
+bip_39_word_dash_9: put-brick-during-ability-teach-swear-connect-surprise-mention
 bip_39_word_new_br_1: put
 bip_39_word_new_br_10: put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale
 bip_39_word_new_br_11: put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale<br>earth
@@ -194,6 +206,18 @@ bip_39_word_space_6: put brick during ability teach swear
 bip_39_word_space_7: put brick during ability teach swear connect
 bip_39_word_space_8: put brick during ability teach swear connect surprise
 bip_39_word_space_9: put brick during ability teach swear connect surprise mention
+bip_39_word_underscore_1: put
+bip_39_word_underscore_10: put_brick_during_ability_teach_swear_connect_surprise_mention_inhale
+bip_39_word_underscore_11: put_brick_during_ability_teach_swear_connect_surprise_mention_inhale_earth
+bip_39_word_underscore_12: put_brick_during_ability_teach_swear_connect_surprise_mention_inhale_earth_above
+bip_39_word_underscore_2: put_brick
+bip_39_word_underscore_3: put_brick_during
+bip_39_word_underscore_4: put_brick_during_ability
+bip_39_word_underscore_5: put_brick_during_ability_teach
+bip_39_word_underscore_6: put_brick_during_ability_teach_swear
+bip_39_word_underscore_7: put_brick_during_ability_teach_swear_connect
+bip_39_word_underscore_8: put_brick_during_ability_teach_swear_connect_surprise
+bip_39_word_underscore_9: put_brick_during_ability_teach_swear_connect_surprise_mention
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

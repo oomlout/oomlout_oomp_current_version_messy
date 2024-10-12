@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | remember |  
+| bip_39_word_dash_10 | remember-actor-scorpion-need-desert-helmet-bridge-sing-remain-always |  
+| bip_39_word_dash_11 | remember-actor-scorpion-need-desert-helmet-bridge-sing-remain-always-old |  
+| bip_39_word_dash_12 | remember-actor-scorpion-need-desert-helmet-bridge-sing-remain-always-old-april |  
+| bip_39_word_dash_2 | remember-actor |  
+| bip_39_word_dash_3 | remember-actor-scorpion |  
+| bip_39_word_dash_4 | remember-actor-scorpion-need |  
+| bip_39_word_dash_5 | remember-actor-scorpion-need-desert |  
+| bip_39_word_dash_6 | remember-actor-scorpion-need-desert-helmet |  
+| bip_39_word_dash_7 | remember-actor-scorpion-need-desert-helmet-bridge |  
+| bip_39_word_dash_8 | remember-actor-scorpion-need-desert-helmet-bridge-sing |  
+| bip_39_word_dash_9 | remember-actor-scorpion-need-desert-helmet-bridge-sing-remain |  
 | bip_39_word_new_br_1 | remember |  
 | bip_39_word_new_br_10 | remember<br>actor<br>scorpion<br>need<br>desert<br>helmet<br>bridge<br>sing<br>remain<br>always |  
 | bip_39_word_new_br_11 | remember<br>actor<br>scorpion<br>need<br>desert<br>helmet<br>bridge<br>sing<br>remain<br>always<br>old |  
@@ -147,6 +159,18 @@ remain |
 | bip_39_word_space_7 | remember actor scorpion need desert helmet bridge |  
 | bip_39_word_space_8 | remember actor scorpion need desert helmet bridge sing |  
 | bip_39_word_space_9 | remember actor scorpion need desert helmet bridge sing remain |  
+| bip_39_word_underscore_1 | remember |  
+| bip_39_word_underscore_10 | remember_actor_scorpion_need_desert_helmet_bridge_sing_remain_always |  
+| bip_39_word_underscore_11 | remember_actor_scorpion_need_desert_helmet_bridge_sing_remain_always_old |  
+| bip_39_word_underscore_12 | remember_actor_scorpion_need_desert_helmet_bridge_sing_remain_always_old_april |  
+| bip_39_word_underscore_2 | remember_actor |  
+| bip_39_word_underscore_3 | remember_actor_scorpion |  
+| bip_39_word_underscore_4 | remember_actor_scorpion_need |  
+| bip_39_word_underscore_5 | remember_actor_scorpion_need_desert |  
+| bip_39_word_underscore_6 | remember_actor_scorpion_need_desert_helmet |  
+| bip_39_word_underscore_7 | remember_actor_scorpion_need_desert_helmet_bridge |  
+| bip_39_word_underscore_8 | remember_actor_scorpion_need_desert_helmet_bridge_sing |  
+| bip_39_word_underscore_9 | remember_actor_scorpion_need_desert_helmet_bridge_sing_remain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grape
+bip_39_word_dash_10: grape-birth-tornado-season-entire-gasp-clinic-marble-middle-dice
+bip_39_word_dash_11: grape-birth-tornado-season-entire-gasp-clinic-marble-middle-dice-empower
+bip_39_word_dash_12: grape-birth-tornado-season-entire-gasp-clinic-marble-middle-dice-empower-angle
+bip_39_word_dash_2: grape-birth
+bip_39_word_dash_3: grape-birth-tornado
+bip_39_word_dash_4: grape-birth-tornado-season
+bip_39_word_dash_5: grape-birth-tornado-season-entire
+bip_39_word_dash_6: grape-birth-tornado-season-entire-gasp
+bip_39_word_dash_7: grape-birth-tornado-season-entire-gasp-clinic
+bip_39_word_dash_8: grape-birth-tornado-season-entire-gasp-clinic-marble
+bip_39_word_dash_9: grape-birth-tornado-season-entire-gasp-clinic-marble-middle
 bip_39_word_new_br_1: grape
 bip_39_word_new_br_10: grape<br>birth<br>tornado<br>season<br>entire<br>gasp<br>clinic<br>marble<br>middle<br>dice
 bip_39_word_new_br_11: grape<br>birth<br>tornado<br>season<br>entire<br>gasp<br>clinic<br>marble<br>middle<br>dice<br>empower
@@ -194,6 +206,18 @@ bip_39_word_space_6: grape birth tornado season entire gasp
 bip_39_word_space_7: grape birth tornado season entire gasp clinic
 bip_39_word_space_8: grape birth tornado season entire gasp clinic marble
 bip_39_word_space_9: grape birth tornado season entire gasp clinic marble middle
+bip_39_word_underscore_1: grape
+bip_39_word_underscore_10: grape_birth_tornado_season_entire_gasp_clinic_marble_middle_dice
+bip_39_word_underscore_11: grape_birth_tornado_season_entire_gasp_clinic_marble_middle_dice_empower
+bip_39_word_underscore_12: grape_birth_tornado_season_entire_gasp_clinic_marble_middle_dice_empower_angle
+bip_39_word_underscore_2: grape_birth
+bip_39_word_underscore_3: grape_birth_tornado
+bip_39_word_underscore_4: grape_birth_tornado_season
+bip_39_word_underscore_5: grape_birth_tornado_season_entire
+bip_39_word_underscore_6: grape_birth_tornado_season_entire_gasp
+bip_39_word_underscore_7: grape_birth_tornado_season_entire_gasp_clinic
+bip_39_word_underscore_8: grape_birth_tornado_season_entire_gasp_clinic_marble
+bip_39_word_underscore_9: grape_birth_tornado_season_entire_gasp_clinic_marble_middle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

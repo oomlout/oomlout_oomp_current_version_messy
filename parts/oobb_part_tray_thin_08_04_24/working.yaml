@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tomato
+bip_39_word_dash_10: tomato-ice-club-mosquito-novel-twice-gas-devote-stove-dirt
+bip_39_word_dash_11: tomato-ice-club-mosquito-novel-twice-gas-devote-stove-dirt-degree
+bip_39_word_dash_12: tomato-ice-club-mosquito-novel-twice-gas-devote-stove-dirt-degree-assault
+bip_39_word_dash_2: tomato-ice
+bip_39_word_dash_3: tomato-ice-club
+bip_39_word_dash_4: tomato-ice-club-mosquito
+bip_39_word_dash_5: tomato-ice-club-mosquito-novel
+bip_39_word_dash_6: tomato-ice-club-mosquito-novel-twice
+bip_39_word_dash_7: tomato-ice-club-mosquito-novel-twice-gas
+bip_39_word_dash_8: tomato-ice-club-mosquito-novel-twice-gas-devote
+bip_39_word_dash_9: tomato-ice-club-mosquito-novel-twice-gas-devote-stove
 bip_39_word_new_br_1: tomato
 bip_39_word_new_br_10: tomato<br>ice<br>club<br>mosquito<br>novel<br>twice<br>gas<br>devote<br>stove<br>dirt
 bip_39_word_new_br_11: tomato<br>ice<br>club<br>mosquito<br>novel<br>twice<br>gas<br>devote<br>stove<br>dirt<br>degree
@@ -192,6 +204,18 @@ bip_39_word_space_6: tomato ice club mosquito novel twice
 bip_39_word_space_7: tomato ice club mosquito novel twice gas
 bip_39_word_space_8: tomato ice club mosquito novel twice gas devote
 bip_39_word_space_9: tomato ice club mosquito novel twice gas devote stove
+bip_39_word_underscore_1: tomato
+bip_39_word_underscore_10: tomato_ice_club_mosquito_novel_twice_gas_devote_stove_dirt
+bip_39_word_underscore_11: tomato_ice_club_mosquito_novel_twice_gas_devote_stove_dirt_degree
+bip_39_word_underscore_12: tomato_ice_club_mosquito_novel_twice_gas_devote_stove_dirt_degree_assault
+bip_39_word_underscore_2: tomato_ice
+bip_39_word_underscore_3: tomato_ice_club
+bip_39_word_underscore_4: tomato_ice_club_mosquito
+bip_39_word_underscore_5: tomato_ice_club_mosquito_novel
+bip_39_word_underscore_6: tomato_ice_club_mosquito_novel_twice
+bip_39_word_underscore_7: tomato_ice_club_mosquito_novel_twice_gas
+bip_39_word_underscore_8: tomato_ice_club_mosquito_novel_twice_gas_devote
+bip_39_word_underscore_9: tomato_ice_club_mosquito_novel_twice_gas_devote_stove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

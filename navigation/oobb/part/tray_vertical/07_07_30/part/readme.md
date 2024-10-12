@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boat |  
+| bip_39_word_dash_10 | boat-old-giant-bone-bullet-hour-zone-wool-glare-alcohol |  
+| bip_39_word_dash_11 | boat-old-giant-bone-bullet-hour-zone-wool-glare-alcohol-duck |  
+| bip_39_word_dash_12 | boat-old-giant-bone-bullet-hour-zone-wool-glare-alcohol-duck-acquire |  
+| bip_39_word_dash_2 | boat-old |  
+| bip_39_word_dash_3 | boat-old-giant |  
+| bip_39_word_dash_4 | boat-old-giant-bone |  
+| bip_39_word_dash_5 | boat-old-giant-bone-bullet |  
+| bip_39_word_dash_6 | boat-old-giant-bone-bullet-hour |  
+| bip_39_word_dash_7 | boat-old-giant-bone-bullet-hour-zone |  
+| bip_39_word_dash_8 | boat-old-giant-bone-bullet-hour-zone-wool |  
+| bip_39_word_dash_9 | boat-old-giant-bone-bullet-hour-zone-wool-glare |  
 | bip_39_word_new_br_1 | boat |  
 | bip_39_word_new_br_10 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol |  
 | bip_39_word_new_br_11 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol<br>duck |  
@@ -147,6 +159,18 @@ glare |
 | bip_39_word_space_7 | boat old giant bone bullet hour zone |  
 | bip_39_word_space_8 | boat old giant bone bullet hour zone wool |  
 | bip_39_word_space_9 | boat old giant bone bullet hour zone wool glare |  
+| bip_39_word_underscore_1 | boat |  
+| bip_39_word_underscore_10 | boat_old_giant_bone_bullet_hour_zone_wool_glare_alcohol |  
+| bip_39_word_underscore_11 | boat_old_giant_bone_bullet_hour_zone_wool_glare_alcohol_duck |  
+| bip_39_word_underscore_12 | boat_old_giant_bone_bullet_hour_zone_wool_glare_alcohol_duck_acquire |  
+| bip_39_word_underscore_2 | boat_old |  
+| bip_39_word_underscore_3 | boat_old_giant |  
+| bip_39_word_underscore_4 | boat_old_giant_bone |  
+| bip_39_word_underscore_5 | boat_old_giant_bone_bullet |  
+| bip_39_word_underscore_6 | boat_old_giant_bone_bullet_hour |  
+| bip_39_word_underscore_7 | boat_old_giant_bone_bullet_hour_zone |  
+| bip_39_word_underscore_8 | boat_old_giant_bone_bullet_hour_zone_wool |  
+| bip_39_word_underscore_9 | boat_old_giant_bone_bullet_hour_zone_wool_glare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

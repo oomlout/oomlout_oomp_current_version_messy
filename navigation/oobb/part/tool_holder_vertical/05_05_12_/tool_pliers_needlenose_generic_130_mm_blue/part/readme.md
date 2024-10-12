@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | define |  
+| bip_39_word_dash_10 | define-solution-kingdom-crisp-again-thunder-clock-city-outer-pattern |  
+| bip_39_word_dash_11 | define-solution-kingdom-crisp-again-thunder-clock-city-outer-pattern-floor |  
+| bip_39_word_dash_12 | define-solution-kingdom-crisp-again-thunder-clock-city-outer-pattern-floor-achieve |  
+| bip_39_word_dash_2 | define-solution |  
+| bip_39_word_dash_3 | define-solution-kingdom |  
+| bip_39_word_dash_4 | define-solution-kingdom-crisp |  
+| bip_39_word_dash_5 | define-solution-kingdom-crisp-again |  
+| bip_39_word_dash_6 | define-solution-kingdom-crisp-again-thunder |  
+| bip_39_word_dash_7 | define-solution-kingdom-crisp-again-thunder-clock |  
+| bip_39_word_dash_8 | define-solution-kingdom-crisp-again-thunder-clock-city |  
+| bip_39_word_dash_9 | define-solution-kingdom-crisp-again-thunder-clock-city-outer |  
 | bip_39_word_new_br_1 | define |  
 | bip_39_word_new_br_10 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city<br>outer<br>pattern |  
 | bip_39_word_new_br_11 | define<br>solution<br>kingdom<br>crisp<br>again<br>thunder<br>clock<br>city<br>outer<br>pattern<br>floor |  
@@ -147,6 +159,18 @@ outer |
 | bip_39_word_space_7 | define solution kingdom crisp again thunder clock |  
 | bip_39_word_space_8 | define solution kingdom crisp again thunder clock city |  
 | bip_39_word_space_9 | define solution kingdom crisp again thunder clock city outer |  
+| bip_39_word_underscore_1 | define |  
+| bip_39_word_underscore_10 | define_solution_kingdom_crisp_again_thunder_clock_city_outer_pattern |  
+| bip_39_word_underscore_11 | define_solution_kingdom_crisp_again_thunder_clock_city_outer_pattern_floor |  
+| bip_39_word_underscore_12 | define_solution_kingdom_crisp_again_thunder_clock_city_outer_pattern_floor_achieve |  
+| bip_39_word_underscore_2 | define_solution |  
+| bip_39_word_underscore_3 | define_solution_kingdom |  
+| bip_39_word_underscore_4 | define_solution_kingdom_crisp |  
+| bip_39_word_underscore_5 | define_solution_kingdom_crisp_again |  
+| bip_39_word_underscore_6 | define_solution_kingdom_crisp_again_thunder |  
+| bip_39_word_underscore_7 | define_solution_kingdom_crisp_again_thunder_clock |  
+| bip_39_word_underscore_8 | define_solution_kingdom_crisp_again_thunder_clock_city |  
+| bip_39_word_underscore_9 | define_solution_kingdom_crisp_again_thunder_clock_city_outer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

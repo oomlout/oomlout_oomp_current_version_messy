@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unable |  
+| bip_39_word_dash_10 | unable-raven-fly-sunset-comic-start-fold-glimpse-pole-leader |  
+| bip_39_word_dash_11 | unable-raven-fly-sunset-comic-start-fold-glimpse-pole-leader-coast |  
+| bip_39_word_dash_12 | unable-raven-fly-sunset-comic-start-fold-glimpse-pole-leader-coast-alone |  
+| bip_39_word_dash_2 | unable-raven |  
+| bip_39_word_dash_3 | unable-raven-fly |  
+| bip_39_word_dash_4 | unable-raven-fly-sunset |  
+| bip_39_word_dash_5 | unable-raven-fly-sunset-comic |  
+| bip_39_word_dash_6 | unable-raven-fly-sunset-comic-start |  
+| bip_39_word_dash_7 | unable-raven-fly-sunset-comic-start-fold |  
+| bip_39_word_dash_8 | unable-raven-fly-sunset-comic-start-fold-glimpse |  
+| bip_39_word_dash_9 | unable-raven-fly-sunset-comic-start-fold-glimpse-pole |  
 | bip_39_word_new_br_1 | unable |  
 | bip_39_word_new_br_10 | unable<br>raven<br>fly<br>sunset<br>comic<br>start<br>fold<br>glimpse<br>pole<br>leader |  
 | bip_39_word_new_br_11 | unable<br>raven<br>fly<br>sunset<br>comic<br>start<br>fold<br>glimpse<br>pole<br>leader<br>coast |  
@@ -147,6 +159,18 @@ pole |
 | bip_39_word_space_7 | unable raven fly sunset comic start fold |  
 | bip_39_word_space_8 | unable raven fly sunset comic start fold glimpse |  
 | bip_39_word_space_9 | unable raven fly sunset comic start fold glimpse pole |  
+| bip_39_word_underscore_1 | unable |  
+| bip_39_word_underscore_10 | unable_raven_fly_sunset_comic_start_fold_glimpse_pole_leader |  
+| bip_39_word_underscore_11 | unable_raven_fly_sunset_comic_start_fold_glimpse_pole_leader_coast |  
+| bip_39_word_underscore_12 | unable_raven_fly_sunset_comic_start_fold_glimpse_pole_leader_coast_alone |  
+| bip_39_word_underscore_2 | unable_raven |  
+| bip_39_word_underscore_3 | unable_raven_fly |  
+| bip_39_word_underscore_4 | unable_raven_fly_sunset |  
+| bip_39_word_underscore_5 | unable_raven_fly_sunset_comic |  
+| bip_39_word_underscore_6 | unable_raven_fly_sunset_comic_start |  
+| bip_39_word_underscore_7 | unable_raven_fly_sunset_comic_start_fold |  
+| bip_39_word_underscore_8 | unable_raven_fly_sunset_comic_start_fold_glimpse |  
+| bip_39_word_underscore_9 | unable_raven_fly_sunset_comic_start_fold_glimpse_pole |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

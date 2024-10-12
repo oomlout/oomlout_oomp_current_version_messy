@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | round |  
+| bip_39_word_dash_10 | round-allow-crush-detect-tobacco-garage-business-lemon-bounce-expect |  
+| bip_39_word_dash_11 | round-allow-crush-detect-tobacco-garage-business-lemon-bounce-expect-ribbon |  
+| bip_39_word_dash_12 | round-allow-crush-detect-tobacco-garage-business-lemon-bounce-expect-ribbon-another |  
+| bip_39_word_dash_2 | round-allow |  
+| bip_39_word_dash_3 | round-allow-crush |  
+| bip_39_word_dash_4 | round-allow-crush-detect |  
+| bip_39_word_dash_5 | round-allow-crush-detect-tobacco |  
+| bip_39_word_dash_6 | round-allow-crush-detect-tobacco-garage |  
+| bip_39_word_dash_7 | round-allow-crush-detect-tobacco-garage-business |  
+| bip_39_word_dash_8 | round-allow-crush-detect-tobacco-garage-business-lemon |  
+| bip_39_word_dash_9 | round-allow-crush-detect-tobacco-garage-business-lemon-bounce |  
 | bip_39_word_new_br_1 | round |  
 | bip_39_word_new_br_10 | round<br>allow<br>crush<br>detect<br>tobacco<br>garage<br>business<br>lemon<br>bounce<br>expect |  
 | bip_39_word_new_br_11 | round<br>allow<br>crush<br>detect<br>tobacco<br>garage<br>business<br>lemon<br>bounce<br>expect<br>ribbon |  
@@ -147,6 +159,18 @@ bounce |
 | bip_39_word_space_7 | round allow crush detect tobacco garage business |  
 | bip_39_word_space_8 | round allow crush detect tobacco garage business lemon |  
 | bip_39_word_space_9 | round allow crush detect tobacco garage business lemon bounce |  
+| bip_39_word_underscore_1 | round |  
+| bip_39_word_underscore_10 | round_allow_crush_detect_tobacco_garage_business_lemon_bounce_expect |  
+| bip_39_word_underscore_11 | round_allow_crush_detect_tobacco_garage_business_lemon_bounce_expect_ribbon |  
+| bip_39_word_underscore_12 | round_allow_crush_detect_tobacco_garage_business_lemon_bounce_expect_ribbon_another |  
+| bip_39_word_underscore_2 | round_allow |  
+| bip_39_word_underscore_3 | round_allow_crush |  
+| bip_39_word_underscore_4 | round_allow_crush_detect |  
+| bip_39_word_underscore_5 | round_allow_crush_detect_tobacco |  
+| bip_39_word_underscore_6 | round_allow_crush_detect_tobacco_garage |  
+| bip_39_word_underscore_7 | round_allow_crush_detect_tobacco_garage_business |  
+| bip_39_word_underscore_8 | round_allow_crush_detect_tobacco_garage_business_lemon |  
+| bip_39_word_underscore_9 | round_allow_crush_detect_tobacco_garage_business_lemon_bounce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

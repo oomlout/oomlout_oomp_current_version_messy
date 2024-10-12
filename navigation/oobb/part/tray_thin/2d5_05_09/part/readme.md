@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | potato |  
+| bip_39_word_dash_10 | potato-jump-exercise-adult-joy-abandon-crystal-dog-clock-distance |  
+| bip_39_word_dash_11 | potato-jump-exercise-adult-joy-abandon-crystal-dog-clock-distance-elbow |  
+| bip_39_word_dash_12 | potato-jump-exercise-adult-joy-abandon-crystal-dog-clock-distance-elbow-amused |  
+| bip_39_word_dash_2 | potato-jump |  
+| bip_39_word_dash_3 | potato-jump-exercise |  
+| bip_39_word_dash_4 | potato-jump-exercise-adult |  
+| bip_39_word_dash_5 | potato-jump-exercise-adult-joy |  
+| bip_39_word_dash_6 | potato-jump-exercise-adult-joy-abandon |  
+| bip_39_word_dash_7 | potato-jump-exercise-adult-joy-abandon-crystal |  
+| bip_39_word_dash_8 | potato-jump-exercise-adult-joy-abandon-crystal-dog |  
+| bip_39_word_dash_9 | potato-jump-exercise-adult-joy-abandon-crystal-dog-clock |  
 | bip_39_word_new_br_1 | potato |  
 | bip_39_word_new_br_10 | potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog<br>clock<br>distance |  
 | bip_39_word_new_br_11 | potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog<br>clock<br>distance<br>elbow |  
@@ -147,6 +159,18 @@ clock |
 | bip_39_word_space_7 | potato jump exercise adult joy abandon crystal |  
 | bip_39_word_space_8 | potato jump exercise adult joy abandon crystal dog |  
 | bip_39_word_space_9 | potato jump exercise adult joy abandon crystal dog clock |  
+| bip_39_word_underscore_1 | potato |  
+| bip_39_word_underscore_10 | potato_jump_exercise_adult_joy_abandon_crystal_dog_clock_distance |  
+| bip_39_word_underscore_11 | potato_jump_exercise_adult_joy_abandon_crystal_dog_clock_distance_elbow |  
+| bip_39_word_underscore_12 | potato_jump_exercise_adult_joy_abandon_crystal_dog_clock_distance_elbow_amused |  
+| bip_39_word_underscore_2 | potato_jump |  
+| bip_39_word_underscore_3 | potato_jump_exercise |  
+| bip_39_word_underscore_4 | potato_jump_exercise_adult |  
+| bip_39_word_underscore_5 | potato_jump_exercise_adult_joy |  
+| bip_39_word_underscore_6 | potato_jump_exercise_adult_joy_abandon |  
+| bip_39_word_underscore_7 | potato_jump_exercise_adult_joy_abandon_crystal |  
+| bip_39_word_underscore_8 | potato_jump_exercise_adult_joy_abandon_crystal_dog |  
+| bip_39_word_underscore_9 | potato_jump_exercise_adult_joy_abandon_crystal_dog_clock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

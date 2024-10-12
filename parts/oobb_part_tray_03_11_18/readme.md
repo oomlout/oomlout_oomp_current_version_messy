@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brisk |  
+| bip_39_word_dash_10 | brisk-love-trust-legal-cactus-wedding-damage-pupil-used-album |  
+| bip_39_word_dash_11 | brisk-love-trust-legal-cactus-wedding-damage-pupil-used-album-build |  
+| bip_39_word_dash_12 | brisk-love-trust-legal-cactus-wedding-damage-pupil-used-album-build-asset |  
+| bip_39_word_dash_2 | brisk-love |  
+| bip_39_word_dash_3 | brisk-love-trust |  
+| bip_39_word_dash_4 | brisk-love-trust-legal |  
+| bip_39_word_dash_5 | brisk-love-trust-legal-cactus |  
+| bip_39_word_dash_6 | brisk-love-trust-legal-cactus-wedding |  
+| bip_39_word_dash_7 | brisk-love-trust-legal-cactus-wedding-damage |  
+| bip_39_word_dash_8 | brisk-love-trust-legal-cactus-wedding-damage-pupil |  
+| bip_39_word_dash_9 | brisk-love-trust-legal-cactus-wedding-damage-pupil-used |  
 | bip_39_word_new_br_1 | brisk |  
 | bip_39_word_new_br_10 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album |  
 | bip_39_word_new_br_11 | brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album<br>build |  
@@ -147,6 +159,18 @@ used |
 | bip_39_word_space_7 | brisk love trust legal cactus wedding damage |  
 | bip_39_word_space_8 | brisk love trust legal cactus wedding damage pupil |  
 | bip_39_word_space_9 | brisk love trust legal cactus wedding damage pupil used |  
+| bip_39_word_underscore_1 | brisk |  
+| bip_39_word_underscore_10 | brisk_love_trust_legal_cactus_wedding_damage_pupil_used_album |  
+| bip_39_word_underscore_11 | brisk_love_trust_legal_cactus_wedding_damage_pupil_used_album_build |  
+| bip_39_word_underscore_12 | brisk_love_trust_legal_cactus_wedding_damage_pupil_used_album_build_asset |  
+| bip_39_word_underscore_2 | brisk_love |  
+| bip_39_word_underscore_3 | brisk_love_trust |  
+| bip_39_word_underscore_4 | brisk_love_trust_legal |  
+| bip_39_word_underscore_5 | brisk_love_trust_legal_cactus |  
+| bip_39_word_underscore_6 | brisk_love_trust_legal_cactus_wedding |  
+| bip_39_word_underscore_7 | brisk_love_trust_legal_cactus_wedding_damage |  
+| bip_39_word_underscore_8 | brisk_love_trust_legal_cactus_wedding_damage_pupil |  
+| bip_39_word_underscore_9 | brisk_love_trust_legal_cactus_wedding_damage_pupil_used |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

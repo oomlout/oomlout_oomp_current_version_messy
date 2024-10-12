@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | search |  
+| bip_39_word_dash_10 | search-chef-estate-income-oppose-infant-slam-copy-emerge-casual |  
+| bip_39_word_dash_11 | search-chef-estate-income-oppose-infant-slam-copy-emerge-casual-direct |  
+| bip_39_word_dash_12 | search-chef-estate-income-oppose-infant-slam-copy-emerge-casual-direct-arm |  
+| bip_39_word_dash_2 | search-chef |  
+| bip_39_word_dash_3 | search-chef-estate |  
+| bip_39_word_dash_4 | search-chef-estate-income |  
+| bip_39_word_dash_5 | search-chef-estate-income-oppose |  
+| bip_39_word_dash_6 | search-chef-estate-income-oppose-infant |  
+| bip_39_word_dash_7 | search-chef-estate-income-oppose-infant-slam |  
+| bip_39_word_dash_8 | search-chef-estate-income-oppose-infant-slam-copy |  
+| bip_39_word_dash_9 | search-chef-estate-income-oppose-infant-slam-copy-emerge |  
 | bip_39_word_new_br_1 | search |  
 | bip_39_word_new_br_10 | search<br>chef<br>estate<br>income<br>oppose<br>infant<br>slam<br>copy<br>emerge<br>casual |  
 | bip_39_word_new_br_11 | search<br>chef<br>estate<br>income<br>oppose<br>infant<br>slam<br>copy<br>emerge<br>casual<br>direct |  
@@ -147,6 +159,18 @@ emerge |
 | bip_39_word_space_7 | search chef estate income oppose infant slam |  
 | bip_39_word_space_8 | search chef estate income oppose infant slam copy |  
 | bip_39_word_space_9 | search chef estate income oppose infant slam copy emerge |  
+| bip_39_word_underscore_1 | search |  
+| bip_39_word_underscore_10 | search_chef_estate_income_oppose_infant_slam_copy_emerge_casual |  
+| bip_39_word_underscore_11 | search_chef_estate_income_oppose_infant_slam_copy_emerge_casual_direct |  
+| bip_39_word_underscore_12 | search_chef_estate_income_oppose_infant_slam_copy_emerge_casual_direct_arm |  
+| bip_39_word_underscore_2 | search_chef |  
+| bip_39_word_underscore_3 | search_chef_estate |  
+| bip_39_word_underscore_4 | search_chef_estate_income |  
+| bip_39_word_underscore_5 | search_chef_estate_income_oppose |  
+| bip_39_word_underscore_6 | search_chef_estate_income_oppose_infant |  
+| bip_39_word_underscore_7 | search_chef_estate_income_oppose_infant_slam |  
+| bip_39_word_underscore_8 | search_chef_estate_income_oppose_infant_slam_copy |  
+| bip_39_word_underscore_9 | search_chef_estate_income_oppose_infant_slam_copy_emerge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

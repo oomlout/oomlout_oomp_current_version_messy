@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bind |  
+| bip_39_word_dash_10 | bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law |  
+| bip_39_word_dash_11 | bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law-program |  
+| bip_39_word_dash_12 | bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law-program-ankle |  
+| bip_39_word_dash_2 | bind-enemy |  
+| bip_39_word_dash_3 | bind-enemy-ramp |  
+| bip_39_word_dash_4 | bind-enemy-ramp-pumpkin |  
+| bip_39_word_dash_5 | bind-enemy-ramp-pumpkin-under |  
+| bip_39_word_dash_6 | bind-enemy-ramp-pumpkin-under-black |  
+| bip_39_word_dash_7 | bind-enemy-ramp-pumpkin-under-black-picnic |  
+| bip_39_word_dash_8 | bind-enemy-ramp-pumpkin-under-black-picnic-oven |  
+| bip_39_word_dash_9 | bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine |  
 | bip_39_word_new_br_1 | bind |  
 | bip_39_word_new_br_10 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law |  
 | bip_39_word_new_br_11 | bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law<br>program |  
@@ -147,6 +159,18 @@ wine |
 | bip_39_word_space_7 | bind enemy ramp pumpkin under black picnic |  
 | bip_39_word_space_8 | bind enemy ramp pumpkin under black picnic oven |  
 | bip_39_word_space_9 | bind enemy ramp pumpkin under black picnic oven wine |  
+| bip_39_word_underscore_1 | bind |  
+| bip_39_word_underscore_10 | bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine_law |  
+| bip_39_word_underscore_11 | bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine_law_program |  
+| bip_39_word_underscore_12 | bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine_law_program_ankle |  
+| bip_39_word_underscore_2 | bind_enemy |  
+| bip_39_word_underscore_3 | bind_enemy_ramp |  
+| bip_39_word_underscore_4 | bind_enemy_ramp_pumpkin |  
+| bip_39_word_underscore_5 | bind_enemy_ramp_pumpkin_under |  
+| bip_39_word_underscore_6 | bind_enemy_ramp_pumpkin_under_black |  
+| bip_39_word_underscore_7 | bind_enemy_ramp_pumpkin_under_black_picnic |  
+| bip_39_word_underscore_8 | bind_enemy_ramp_pumpkin_under_black_picnic_oven |  
+| bip_39_word_underscore_9 | bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

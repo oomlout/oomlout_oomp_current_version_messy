@@ -1,3 +1,15 @@
+bip_39_word_dash_1: snap
+bip_39_word_dash_10: snap-seminar-rug-stove-inflict-prefer-kiss-slight-book-dog
+bip_39_word_dash_11: snap-seminar-rug-stove-inflict-prefer-kiss-slight-book-dog-burger
+bip_39_word_dash_12: snap-seminar-rug-stove-inflict-prefer-kiss-slight-book-dog-burger-access
+bip_39_word_dash_2: snap-seminar
+bip_39_word_dash_3: snap-seminar-rug
+bip_39_word_dash_4: snap-seminar-rug-stove
+bip_39_word_dash_5: snap-seminar-rug-stove-inflict
+bip_39_word_dash_6: snap-seminar-rug-stove-inflict-prefer
+bip_39_word_dash_7: snap-seminar-rug-stove-inflict-prefer-kiss
+bip_39_word_dash_8: snap-seminar-rug-stove-inflict-prefer-kiss-slight
+bip_39_word_dash_9: snap-seminar-rug-stove-inflict-prefer-kiss-slight-book
 bip_39_word_new_br_1: snap
 bip_39_word_new_br_10: snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight<br>book<br>dog
 bip_39_word_new_br_11: snap<br>seminar<br>rug<br>stove<br>inflict<br>prefer<br>kiss<br>slight<br>book<br>dog<br>burger
@@ -192,6 +204,18 @@ bip_39_word_space_6: snap seminar rug stove inflict prefer
 bip_39_word_space_7: snap seminar rug stove inflict prefer kiss
 bip_39_word_space_8: snap seminar rug stove inflict prefer kiss slight
 bip_39_word_space_9: snap seminar rug stove inflict prefer kiss slight book
+bip_39_word_underscore_1: snap
+bip_39_word_underscore_10: snap_seminar_rug_stove_inflict_prefer_kiss_slight_book_dog
+bip_39_word_underscore_11: snap_seminar_rug_stove_inflict_prefer_kiss_slight_book_dog_burger
+bip_39_word_underscore_12: snap_seminar_rug_stove_inflict_prefer_kiss_slight_book_dog_burger_access
+bip_39_word_underscore_2: snap_seminar
+bip_39_word_underscore_3: snap_seminar_rug
+bip_39_word_underscore_4: snap_seminar_rug_stove
+bip_39_word_underscore_5: snap_seminar_rug_stove_inflict
+bip_39_word_underscore_6: snap_seminar_rug_stove_inflict_prefer
+bip_39_word_underscore_7: snap_seminar_rug_stove_inflict_prefer_kiss
+bip_39_word_underscore_8: snap_seminar_rug_stove_inflict_prefer_kiss_slight
+bip_39_word_underscore_9: snap_seminar_rug_stove_inflict_prefer_kiss_slight_book
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

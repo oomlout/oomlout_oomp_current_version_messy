@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | net |  
+| bip_39_word_dash_10 | net-miss-capable-panda-brain-begin-crucial-joke-logic-taxi |  
+| bip_39_word_dash_11 | net-miss-capable-panda-brain-begin-crucial-joke-logic-taxi-ask |  
+| bip_39_word_dash_12 | net-miss-capable-panda-brain-begin-crucial-joke-logic-taxi-ask-army |  
+| bip_39_word_dash_2 | net-miss |  
+| bip_39_word_dash_3 | net-miss-capable |  
+| bip_39_word_dash_4 | net-miss-capable-panda |  
+| bip_39_word_dash_5 | net-miss-capable-panda-brain |  
+| bip_39_word_dash_6 | net-miss-capable-panda-brain-begin |  
+| bip_39_word_dash_7 | net-miss-capable-panda-brain-begin-crucial |  
+| bip_39_word_dash_8 | net-miss-capable-panda-brain-begin-crucial-joke |  
+| bip_39_word_dash_9 | net-miss-capable-panda-brain-begin-crucial-joke-logic |  
 | bip_39_word_new_br_1 | net |  
 | bip_39_word_new_br_10 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke<br>logic<br>taxi |  
 | bip_39_word_new_br_11 | net<br>miss<br>capable<br>panda<br>brain<br>begin<br>crucial<br>joke<br>logic<br>taxi<br>ask |  
@@ -147,6 +159,18 @@ logic |
 | bip_39_word_space_7 | net miss capable panda brain begin crucial |  
 | bip_39_word_space_8 | net miss capable panda brain begin crucial joke |  
 | bip_39_word_space_9 | net miss capable panda brain begin crucial joke logic |  
+| bip_39_word_underscore_1 | net |  
+| bip_39_word_underscore_10 | net_miss_capable_panda_brain_begin_crucial_joke_logic_taxi |  
+| bip_39_word_underscore_11 | net_miss_capable_panda_brain_begin_crucial_joke_logic_taxi_ask |  
+| bip_39_word_underscore_12 | net_miss_capable_panda_brain_begin_crucial_joke_logic_taxi_ask_army |  
+| bip_39_word_underscore_2 | net_miss |  
+| bip_39_word_underscore_3 | net_miss_capable |  
+| bip_39_word_underscore_4 | net_miss_capable_panda |  
+| bip_39_word_underscore_5 | net_miss_capable_panda_brain |  
+| bip_39_word_underscore_6 | net_miss_capable_panda_brain_begin |  
+| bip_39_word_underscore_7 | net_miss_capable_panda_brain_begin_crucial |  
+| bip_39_word_underscore_8 | net_miss_capable_panda_brain_begin_crucial_joke |  
+| bip_39_word_underscore_9 | net_miss_capable_panda_brain_begin_crucial_joke_logic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

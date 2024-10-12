@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | angry |  
+| bip_39_word_dash_10 | angry-eager-shuffle-rib-reopen-panel-already-popular-lady-make |  
+| bip_39_word_dash_11 | angry-eager-shuffle-rib-reopen-panel-already-popular-lady-make-focus |  
+| bip_39_word_dash_12 | angry-eager-shuffle-rib-reopen-panel-already-popular-lady-make-focus-aunt |  
+| bip_39_word_dash_2 | angry-eager |  
+| bip_39_word_dash_3 | angry-eager-shuffle |  
+| bip_39_word_dash_4 | angry-eager-shuffle-rib |  
+| bip_39_word_dash_5 | angry-eager-shuffle-rib-reopen |  
+| bip_39_word_dash_6 | angry-eager-shuffle-rib-reopen-panel |  
+| bip_39_word_dash_7 | angry-eager-shuffle-rib-reopen-panel-already |  
+| bip_39_word_dash_8 | angry-eager-shuffle-rib-reopen-panel-already-popular |  
+| bip_39_word_dash_9 | angry-eager-shuffle-rib-reopen-panel-already-popular-lady |  
 | bip_39_word_new_br_1 | angry |  
 | bip_39_word_new_br_10 | angry<br>eager<br>shuffle<br>rib<br>reopen<br>panel<br>already<br>popular<br>lady<br>make |  
 | bip_39_word_new_br_11 | angry<br>eager<br>shuffle<br>rib<br>reopen<br>panel<br>already<br>popular<br>lady<br>make<br>focus |  
@@ -147,6 +159,18 @@ lady |
 | bip_39_word_space_7 | angry eager shuffle rib reopen panel already |  
 | bip_39_word_space_8 | angry eager shuffle rib reopen panel already popular |  
 | bip_39_word_space_9 | angry eager shuffle rib reopen panel already popular lady |  
+| bip_39_word_underscore_1 | angry |  
+| bip_39_word_underscore_10 | angry_eager_shuffle_rib_reopen_panel_already_popular_lady_make |  
+| bip_39_word_underscore_11 | angry_eager_shuffle_rib_reopen_panel_already_popular_lady_make_focus |  
+| bip_39_word_underscore_12 | angry_eager_shuffle_rib_reopen_panel_already_popular_lady_make_focus_aunt |  
+| bip_39_word_underscore_2 | angry_eager |  
+| bip_39_word_underscore_3 | angry_eager_shuffle |  
+| bip_39_word_underscore_4 | angry_eager_shuffle_rib |  
+| bip_39_word_underscore_5 | angry_eager_shuffle_rib_reopen |  
+| bip_39_word_underscore_6 | angry_eager_shuffle_rib_reopen_panel |  
+| bip_39_word_underscore_7 | angry_eager_shuffle_rib_reopen_panel_already |  
+| bip_39_word_underscore_8 | angry_eager_shuffle_rib_reopen_panel_already_popular |  
+| bip_39_word_underscore_9 | angry_eager_shuffle_rib_reopen_panel_already_popular_lady |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

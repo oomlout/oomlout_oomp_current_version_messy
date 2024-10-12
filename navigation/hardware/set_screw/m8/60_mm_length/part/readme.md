@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | caught |  
+| bip_39_word_dash_10 | caught-orbit-else-either-loop-coin-all-you-pipe-grape |  
+| bip_39_word_dash_11 | caught-orbit-else-either-loop-coin-all-you-pipe-grape-biology |  
+| bip_39_word_dash_12 | caught-orbit-else-either-loop-coin-all-you-pipe-grape-biology-almost |  
+| bip_39_word_dash_2 | caught-orbit |  
+| bip_39_word_dash_3 | caught-orbit-else |  
+| bip_39_word_dash_4 | caught-orbit-else-either |  
+| bip_39_word_dash_5 | caught-orbit-else-either-loop |  
+| bip_39_word_dash_6 | caught-orbit-else-either-loop-coin |  
+| bip_39_word_dash_7 | caught-orbit-else-either-loop-coin-all |  
+| bip_39_word_dash_8 | caught-orbit-else-either-loop-coin-all-you |  
+| bip_39_word_dash_9 | caught-orbit-else-either-loop-coin-all-you-pipe |  
 | bip_39_word_new_br_1 | caught |  
 | bip_39_word_new_br_10 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you<br>pipe<br>grape |  
 | bip_39_word_new_br_11 | caught<br>orbit<br>else<br>either<br>loop<br>coin<br>all<br>you<br>pipe<br>grape<br>biology |  
@@ -147,6 +159,18 @@ pipe |
 | bip_39_word_space_7 | caught orbit else either loop coin all |  
 | bip_39_word_space_8 | caught orbit else either loop coin all you |  
 | bip_39_word_space_9 | caught orbit else either loop coin all you pipe |  
+| bip_39_word_underscore_1 | caught |  
+| bip_39_word_underscore_10 | caught_orbit_else_either_loop_coin_all_you_pipe_grape |  
+| bip_39_word_underscore_11 | caught_orbit_else_either_loop_coin_all_you_pipe_grape_biology |  
+| bip_39_word_underscore_12 | caught_orbit_else_either_loop_coin_all_you_pipe_grape_biology_almost |  
+| bip_39_word_underscore_2 | caught_orbit |  
+| bip_39_word_underscore_3 | caught_orbit_else |  
+| bip_39_word_underscore_4 | caught_orbit_else_either |  
+| bip_39_word_underscore_5 | caught_orbit_else_either_loop |  
+| bip_39_word_underscore_6 | caught_orbit_else_either_loop_coin |  
+| bip_39_word_underscore_7 | caught_orbit_else_either_loop_coin_all |  
+| bip_39_word_underscore_8 | caught_orbit_else_either_loop_coin_all_you |  
+| bip_39_word_underscore_9 | caught_orbit_else_either_loop_coin_all_you_pipe |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: olympic
+bip_39_word_dash_10: olympic-allow-man-rain-tone-basket-merry-foot-sail-shield
+bip_39_word_dash_11: olympic-allow-man-rain-tone-basket-merry-foot-sail-shield-tissue
+bip_39_word_dash_12: olympic-allow-man-rain-tone-basket-merry-foot-sail-shield-tissue-absent
+bip_39_word_dash_2: olympic-allow
+bip_39_word_dash_3: olympic-allow-man
+bip_39_word_dash_4: olympic-allow-man-rain
+bip_39_word_dash_5: olympic-allow-man-rain-tone
+bip_39_word_dash_6: olympic-allow-man-rain-tone-basket
+bip_39_word_dash_7: olympic-allow-man-rain-tone-basket-merry
+bip_39_word_dash_8: olympic-allow-man-rain-tone-basket-merry-foot
+bip_39_word_dash_9: olympic-allow-man-rain-tone-basket-merry-foot-sail
 bip_39_word_new_br_1: olympic
 bip_39_word_new_br_10: olympic<br>allow<br>man<br>rain<br>tone<br>basket<br>merry<br>foot<br>sail<br>shield
 bip_39_word_new_br_11: olympic<br>allow<br>man<br>rain<br>tone<br>basket<br>merry<br>foot<br>sail<br>shield<br>tissue
@@ -192,6 +204,18 @@ bip_39_word_space_6: olympic allow man rain tone basket
 bip_39_word_space_7: olympic allow man rain tone basket merry
 bip_39_word_space_8: olympic allow man rain tone basket merry foot
 bip_39_word_space_9: olympic allow man rain tone basket merry foot sail
+bip_39_word_underscore_1: olympic
+bip_39_word_underscore_10: olympic_allow_man_rain_tone_basket_merry_foot_sail_shield
+bip_39_word_underscore_11: olympic_allow_man_rain_tone_basket_merry_foot_sail_shield_tissue
+bip_39_word_underscore_12: olympic_allow_man_rain_tone_basket_merry_foot_sail_shield_tissue_absent
+bip_39_word_underscore_2: olympic_allow
+bip_39_word_underscore_3: olympic_allow_man
+bip_39_word_underscore_4: olympic_allow_man_rain
+bip_39_word_underscore_5: olympic_allow_man_rain_tone
+bip_39_word_underscore_6: olympic_allow_man_rain_tone_basket
+bip_39_word_underscore_7: olympic_allow_man_rain_tone_basket_merry
+bip_39_word_underscore_8: olympic_allow_man_rain_tone_basket_merry_foot
+bip_39_word_underscore_9: olympic_allow_man_rain_tone_basket_merry_foot_sail
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

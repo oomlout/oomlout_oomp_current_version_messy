@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | garage |  
+| bip_39_word_dash_10 | garage-grass-smile-pig-labor-perfect-document-trophy-inherit-smooth |  
+| bip_39_word_dash_11 | garage-grass-smile-pig-labor-perfect-document-trophy-inherit-smooth-ribbon |  
+| bip_39_word_dash_12 | garage-grass-smile-pig-labor-perfect-document-trophy-inherit-smooth-ribbon-ask |  
+| bip_39_word_dash_2 | garage-grass |  
+| bip_39_word_dash_3 | garage-grass-smile |  
+| bip_39_word_dash_4 | garage-grass-smile-pig |  
+| bip_39_word_dash_5 | garage-grass-smile-pig-labor |  
+| bip_39_word_dash_6 | garage-grass-smile-pig-labor-perfect |  
+| bip_39_word_dash_7 | garage-grass-smile-pig-labor-perfect-document |  
+| bip_39_word_dash_8 | garage-grass-smile-pig-labor-perfect-document-trophy |  
+| bip_39_word_dash_9 | garage-grass-smile-pig-labor-perfect-document-trophy-inherit |  
 | bip_39_word_new_br_1 | garage |  
 | bip_39_word_new_br_10 | garage<br>grass<br>smile<br>pig<br>labor<br>perfect<br>document<br>trophy<br>inherit<br>smooth |  
 | bip_39_word_new_br_11 | garage<br>grass<br>smile<br>pig<br>labor<br>perfect<br>document<br>trophy<br>inherit<br>smooth<br>ribbon |  
@@ -147,6 +159,18 @@ inherit |
 | bip_39_word_space_7 | garage grass smile pig labor perfect document |  
 | bip_39_word_space_8 | garage grass smile pig labor perfect document trophy |  
 | bip_39_word_space_9 | garage grass smile pig labor perfect document trophy inherit |  
+| bip_39_word_underscore_1 | garage |  
+| bip_39_word_underscore_10 | garage_grass_smile_pig_labor_perfect_document_trophy_inherit_smooth |  
+| bip_39_word_underscore_11 | garage_grass_smile_pig_labor_perfect_document_trophy_inherit_smooth_ribbon |  
+| bip_39_word_underscore_12 | garage_grass_smile_pig_labor_perfect_document_trophy_inherit_smooth_ribbon_ask |  
+| bip_39_word_underscore_2 | garage_grass |  
+| bip_39_word_underscore_3 | garage_grass_smile |  
+| bip_39_word_underscore_4 | garage_grass_smile_pig |  
+| bip_39_word_underscore_5 | garage_grass_smile_pig_labor |  
+| bip_39_word_underscore_6 | garage_grass_smile_pig_labor_perfect |  
+| bip_39_word_underscore_7 | garage_grass_smile_pig_labor_perfect_document |  
+| bip_39_word_underscore_8 | garage_grass_smile_pig_labor_perfect_document_trophy |  
+| bip_39_word_underscore_9 | garage_grass_smile_pig_labor_perfect_document_trophy_inherit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

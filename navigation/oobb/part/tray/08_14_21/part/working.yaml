@@ -1,3 +1,15 @@
+bip_39_word_dash_1: patrol
+bip_39_word_dash_10: patrol-certain-gesture-also-define-cinnamon-express-lobster-slogan-meat
+bip_39_word_dash_11: patrol-certain-gesture-also-define-cinnamon-express-lobster-slogan-meat-spring
+bip_39_word_dash_12: patrol-certain-gesture-also-define-cinnamon-express-lobster-slogan-meat-spring-across
+bip_39_word_dash_2: patrol-certain
+bip_39_word_dash_3: patrol-certain-gesture
+bip_39_word_dash_4: patrol-certain-gesture-also
+bip_39_word_dash_5: patrol-certain-gesture-also-define
+bip_39_word_dash_6: patrol-certain-gesture-also-define-cinnamon
+bip_39_word_dash_7: patrol-certain-gesture-also-define-cinnamon-express
+bip_39_word_dash_8: patrol-certain-gesture-also-define-cinnamon-express-lobster
+bip_39_word_dash_9: patrol-certain-gesture-also-define-cinnamon-express-lobster-slogan
 bip_39_word_new_br_1: patrol
 bip_39_word_new_br_10: patrol<br>certain<br>gesture<br>also<br>define<br>cinnamon<br>express<br>lobster<br>slogan<br>meat
 bip_39_word_new_br_11: patrol<br>certain<br>gesture<br>also<br>define<br>cinnamon<br>express<br>lobster<br>slogan<br>meat<br>spring
@@ -194,6 +206,18 @@ bip_39_word_space_6: patrol certain gesture also define cinnamon
 bip_39_word_space_7: patrol certain gesture also define cinnamon express
 bip_39_word_space_8: patrol certain gesture also define cinnamon express lobster
 bip_39_word_space_9: patrol certain gesture also define cinnamon express lobster slogan
+bip_39_word_underscore_1: patrol
+bip_39_word_underscore_10: patrol_certain_gesture_also_define_cinnamon_express_lobster_slogan_meat
+bip_39_word_underscore_11: patrol_certain_gesture_also_define_cinnamon_express_lobster_slogan_meat_spring
+bip_39_word_underscore_12: patrol_certain_gesture_also_define_cinnamon_express_lobster_slogan_meat_spring_across
+bip_39_word_underscore_2: patrol_certain
+bip_39_word_underscore_3: patrol_certain_gesture
+bip_39_word_underscore_4: patrol_certain_gesture_also
+bip_39_word_underscore_5: patrol_certain_gesture_also_define
+bip_39_word_underscore_6: patrol_certain_gesture_also_define_cinnamon
+bip_39_word_underscore_7: patrol_certain_gesture_also_define_cinnamon_express
+bip_39_word_underscore_8: patrol_certain_gesture_also_define_cinnamon_express_lobster
+bip_39_word_underscore_9: patrol_certain_gesture_also_define_cinnamon_express_lobster_slogan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

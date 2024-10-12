@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enter |  
+| bip_39_word_dash_10 | enter-confirm-panther-bacon-guard-kick-royal-always-brown-always |  
+| bip_39_word_dash_11 | enter-confirm-panther-bacon-guard-kick-royal-always-brown-always-another |  
+| bip_39_word_dash_12 | enter-confirm-panther-bacon-guard-kick-royal-always-brown-always-another-attitude |  
+| bip_39_word_dash_2 | enter-confirm |  
+| bip_39_word_dash_3 | enter-confirm-panther |  
+| bip_39_word_dash_4 | enter-confirm-panther-bacon |  
+| bip_39_word_dash_5 | enter-confirm-panther-bacon-guard |  
+| bip_39_word_dash_6 | enter-confirm-panther-bacon-guard-kick |  
+| bip_39_word_dash_7 | enter-confirm-panther-bacon-guard-kick-royal |  
+| bip_39_word_dash_8 | enter-confirm-panther-bacon-guard-kick-royal-always |  
+| bip_39_word_dash_9 | enter-confirm-panther-bacon-guard-kick-royal-always-brown |  
 | bip_39_word_new_br_1 | enter |  
 | bip_39_word_new_br_10 | enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always<br>brown<br>always |  
 | bip_39_word_new_br_11 | enter<br>confirm<br>panther<br>bacon<br>guard<br>kick<br>royal<br>always<br>brown<br>always<br>another |  
@@ -147,6 +159,18 @@ brown |
 | bip_39_word_space_7 | enter confirm panther bacon guard kick royal |  
 | bip_39_word_space_8 | enter confirm panther bacon guard kick royal always |  
 | bip_39_word_space_9 | enter confirm panther bacon guard kick royal always brown |  
+| bip_39_word_underscore_1 | enter |  
+| bip_39_word_underscore_10 | enter_confirm_panther_bacon_guard_kick_royal_always_brown_always |  
+| bip_39_word_underscore_11 | enter_confirm_panther_bacon_guard_kick_royal_always_brown_always_another |  
+| bip_39_word_underscore_12 | enter_confirm_panther_bacon_guard_kick_royal_always_brown_always_another_attitude |  
+| bip_39_word_underscore_2 | enter_confirm |  
+| bip_39_word_underscore_3 | enter_confirm_panther |  
+| bip_39_word_underscore_4 | enter_confirm_panther_bacon |  
+| bip_39_word_underscore_5 | enter_confirm_panther_bacon_guard |  
+| bip_39_word_underscore_6 | enter_confirm_panther_bacon_guard_kick |  
+| bip_39_word_underscore_7 | enter_confirm_panther_bacon_guard_kick_royal |  
+| bip_39_word_underscore_8 | enter_confirm_panther_bacon_guard_kick_royal_always |  
+| bip_39_word_underscore_9 | enter_confirm_panther_bacon_guard_kick_royal_always_brown |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

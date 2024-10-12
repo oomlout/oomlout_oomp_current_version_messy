@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leader
+bip_39_word_dash_10: leader-panel-bean-symptom-friend-put-another-grain-protect-ribbon
+bip_39_word_dash_11: leader-panel-bean-symptom-friend-put-another-grain-protect-ribbon-garage
+bip_39_word_dash_12: leader-panel-bean-symptom-friend-put-another-grain-protect-ribbon-garage-alpha
+bip_39_word_dash_2: leader-panel
+bip_39_word_dash_3: leader-panel-bean
+bip_39_word_dash_4: leader-panel-bean-symptom
+bip_39_word_dash_5: leader-panel-bean-symptom-friend
+bip_39_word_dash_6: leader-panel-bean-symptom-friend-put
+bip_39_word_dash_7: leader-panel-bean-symptom-friend-put-another
+bip_39_word_dash_8: leader-panel-bean-symptom-friend-put-another-grain
+bip_39_word_dash_9: leader-panel-bean-symptom-friend-put-another-grain-protect
 bip_39_word_new_br_1: leader
 bip_39_word_new_br_10: leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain<br>protect<br>ribbon
 bip_39_word_new_br_11: leader<br>panel<br>bean<br>symptom<br>friend<br>put<br>another<br>grain<br>protect<br>ribbon<br>garage
@@ -193,6 +205,18 @@ bip_39_word_space_6: leader panel bean symptom friend put
 bip_39_word_space_7: leader panel bean symptom friend put another
 bip_39_word_space_8: leader panel bean symptom friend put another grain
 bip_39_word_space_9: leader panel bean symptom friend put another grain protect
+bip_39_word_underscore_1: leader
+bip_39_word_underscore_10: leader_panel_bean_symptom_friend_put_another_grain_protect_ribbon
+bip_39_word_underscore_11: leader_panel_bean_symptom_friend_put_another_grain_protect_ribbon_garage
+bip_39_word_underscore_12: leader_panel_bean_symptom_friend_put_another_grain_protect_ribbon_garage_alpha
+bip_39_word_underscore_2: leader_panel
+bip_39_word_underscore_3: leader_panel_bean
+bip_39_word_underscore_4: leader_panel_bean_symptom
+bip_39_word_underscore_5: leader_panel_bean_symptom_friend
+bip_39_word_underscore_6: leader_panel_bean_symptom_friend_put
+bip_39_word_underscore_7: leader_panel_bean_symptom_friend_put_another
+bip_39_word_underscore_8: leader_panel_bean_symptom_friend_put_another_grain
+bip_39_word_underscore_9: leader_panel_bean_symptom_friend_put_another_grain_protect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

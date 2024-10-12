@@ -1,3 +1,15 @@
+bip_39_word_dash_1: choose
+bip_39_word_dash_10: choose-delay-manual-orphan-latin-animal-south-blossom-ten-employ
+bip_39_word_dash_11: choose-delay-manual-orphan-latin-animal-south-blossom-ten-employ-provide
+bip_39_word_dash_12: choose-delay-manual-orphan-latin-animal-south-blossom-ten-employ-provide-amazing
+bip_39_word_dash_2: choose-delay
+bip_39_word_dash_3: choose-delay-manual
+bip_39_word_dash_4: choose-delay-manual-orphan
+bip_39_word_dash_5: choose-delay-manual-orphan-latin
+bip_39_word_dash_6: choose-delay-manual-orphan-latin-animal
+bip_39_word_dash_7: choose-delay-manual-orphan-latin-animal-south
+bip_39_word_dash_8: choose-delay-manual-orphan-latin-animal-south-blossom
+bip_39_word_dash_9: choose-delay-manual-orphan-latin-animal-south-blossom-ten
 bip_39_word_new_br_1: choose
 bip_39_word_new_br_10: choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ
 bip_39_word_new_br_11: choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ<br>provide
@@ -193,6 +205,18 @@ bip_39_word_space_6: choose delay manual orphan latin animal
 bip_39_word_space_7: choose delay manual orphan latin animal south
 bip_39_word_space_8: choose delay manual orphan latin animal south blossom
 bip_39_word_space_9: choose delay manual orphan latin animal south blossom ten
+bip_39_word_underscore_1: choose
+bip_39_word_underscore_10: choose_delay_manual_orphan_latin_animal_south_blossom_ten_employ
+bip_39_word_underscore_11: choose_delay_manual_orphan_latin_animal_south_blossom_ten_employ_provide
+bip_39_word_underscore_12: choose_delay_manual_orphan_latin_animal_south_blossom_ten_employ_provide_amazing
+bip_39_word_underscore_2: choose_delay
+bip_39_word_underscore_3: choose_delay_manual
+bip_39_word_underscore_4: choose_delay_manual_orphan
+bip_39_word_underscore_5: choose_delay_manual_orphan_latin
+bip_39_word_underscore_6: choose_delay_manual_orphan_latin_animal
+bip_39_word_underscore_7: choose_delay_manual_orphan_latin_animal_south
+bip_39_word_underscore_8: choose_delay_manual_orphan_latin_animal_south_blossom
+bip_39_word_underscore_9: choose_delay_manual_orphan_latin_animal_south_blossom_ten
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

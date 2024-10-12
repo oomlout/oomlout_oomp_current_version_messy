@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dog
+bip_39_word_dash_10: dog-such-symbol-harbor-observe-easy-teach-smooth-canoe-alter
+bip_39_word_dash_11: dog-such-symbol-harbor-observe-easy-teach-smooth-canoe-alter-patrol
+bip_39_word_dash_12: dog-such-symbol-harbor-observe-easy-teach-smooth-canoe-alter-patrol-area
+bip_39_word_dash_2: dog-such
+bip_39_word_dash_3: dog-such-symbol
+bip_39_word_dash_4: dog-such-symbol-harbor
+bip_39_word_dash_5: dog-such-symbol-harbor-observe
+bip_39_word_dash_6: dog-such-symbol-harbor-observe-easy
+bip_39_word_dash_7: dog-such-symbol-harbor-observe-easy-teach
+bip_39_word_dash_8: dog-such-symbol-harbor-observe-easy-teach-smooth
+bip_39_word_dash_9: dog-such-symbol-harbor-observe-easy-teach-smooth-canoe
 bip_39_word_new_br_1: dog
 bip_39_word_new_br_10: dog<br>such<br>symbol<br>harbor<br>observe<br>easy<br>teach<br>smooth<br>canoe<br>alter
 bip_39_word_new_br_11: dog<br>such<br>symbol<br>harbor<br>observe<br>easy<br>teach<br>smooth<br>canoe<br>alter<br>patrol
@@ -193,6 +205,18 @@ bip_39_word_space_6: dog such symbol harbor observe easy
 bip_39_word_space_7: dog such symbol harbor observe easy teach
 bip_39_word_space_8: dog such symbol harbor observe easy teach smooth
 bip_39_word_space_9: dog such symbol harbor observe easy teach smooth canoe
+bip_39_word_underscore_1: dog
+bip_39_word_underscore_10: dog_such_symbol_harbor_observe_easy_teach_smooth_canoe_alter
+bip_39_word_underscore_11: dog_such_symbol_harbor_observe_easy_teach_smooth_canoe_alter_patrol
+bip_39_word_underscore_12: dog_such_symbol_harbor_observe_easy_teach_smooth_canoe_alter_patrol_area
+bip_39_word_underscore_2: dog_such
+bip_39_word_underscore_3: dog_such_symbol
+bip_39_word_underscore_4: dog_such_symbol_harbor
+bip_39_word_underscore_5: dog_such_symbol_harbor_observe
+bip_39_word_underscore_6: dog_such_symbol_harbor_observe_easy
+bip_39_word_underscore_7: dog_such_symbol_harbor_observe_easy_teach
+bip_39_word_underscore_8: dog_such_symbol_harbor_observe_easy_teach_smooth
+bip_39_word_underscore_9: dog_such_symbol_harbor_observe_easy_teach_smooth_canoe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

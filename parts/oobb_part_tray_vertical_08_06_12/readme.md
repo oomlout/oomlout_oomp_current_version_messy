@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | repair |  
+| bip_39_word_dash_10 | repair-shoe-blue-blind-top-remember-praise-indoor-used-attack |  
+| bip_39_word_dash_11 | repair-shoe-blue-blind-top-remember-praise-indoor-used-attack-code |  
+| bip_39_word_dash_12 | repair-shoe-blue-blind-top-remember-praise-indoor-used-attack-code-armed |  
+| bip_39_word_dash_2 | repair-shoe |  
+| bip_39_word_dash_3 | repair-shoe-blue |  
+| bip_39_word_dash_4 | repair-shoe-blue-blind |  
+| bip_39_word_dash_5 | repair-shoe-blue-blind-top |  
+| bip_39_word_dash_6 | repair-shoe-blue-blind-top-remember |  
+| bip_39_word_dash_7 | repair-shoe-blue-blind-top-remember-praise |  
+| bip_39_word_dash_8 | repair-shoe-blue-blind-top-remember-praise-indoor |  
+| bip_39_word_dash_9 | repair-shoe-blue-blind-top-remember-praise-indoor-used |  
 | bip_39_word_new_br_1 | repair |  
 | bip_39_word_new_br_10 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack |  
 | bip_39_word_new_br_11 | repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack<br>code |  
@@ -147,6 +159,18 @@ used |
 | bip_39_word_space_7 | repair shoe blue blind top remember praise |  
 | bip_39_word_space_8 | repair shoe blue blind top remember praise indoor |  
 | bip_39_word_space_9 | repair shoe blue blind top remember praise indoor used |  
+| bip_39_word_underscore_1 | repair |  
+| bip_39_word_underscore_10 | repair_shoe_blue_blind_top_remember_praise_indoor_used_attack |  
+| bip_39_word_underscore_11 | repair_shoe_blue_blind_top_remember_praise_indoor_used_attack_code |  
+| bip_39_word_underscore_12 | repair_shoe_blue_blind_top_remember_praise_indoor_used_attack_code_armed |  
+| bip_39_word_underscore_2 | repair_shoe |  
+| bip_39_word_underscore_3 | repair_shoe_blue |  
+| bip_39_word_underscore_4 | repair_shoe_blue_blind |  
+| bip_39_word_underscore_5 | repair_shoe_blue_blind_top |  
+| bip_39_word_underscore_6 | repair_shoe_blue_blind_top_remember |  
+| bip_39_word_underscore_7 | repair_shoe_blue_blind_top_remember_praise |  
+| bip_39_word_underscore_8 | repair_shoe_blue_blind_top_remember_praise_indoor |  
+| bip_39_word_underscore_9 | repair_shoe_blue_blind_top_remember_praise_indoor_used |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

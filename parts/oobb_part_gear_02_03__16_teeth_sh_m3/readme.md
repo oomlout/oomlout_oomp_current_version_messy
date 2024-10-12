@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | item |  
+| bip_39_word_dash_10 | item-soccer-push-peanut-pizza-notable-abstract-claw-boil-appear |  
+| bip_39_word_dash_11 | item-soccer-push-peanut-pizza-notable-abstract-claw-boil-appear-vapor |  
+| bip_39_word_dash_12 | item-soccer-push-peanut-pizza-notable-abstract-claw-boil-appear-vapor-across |  
+| bip_39_word_dash_2 | item-soccer |  
+| bip_39_word_dash_3 | item-soccer-push |  
+| bip_39_word_dash_4 | item-soccer-push-peanut |  
+| bip_39_word_dash_5 | item-soccer-push-peanut-pizza |  
+| bip_39_word_dash_6 | item-soccer-push-peanut-pizza-notable |  
+| bip_39_word_dash_7 | item-soccer-push-peanut-pizza-notable-abstract |  
+| bip_39_word_dash_8 | item-soccer-push-peanut-pizza-notable-abstract-claw |  
+| bip_39_word_dash_9 | item-soccer-push-peanut-pizza-notable-abstract-claw-boil |  
 | bip_39_word_new_br_1 | item |  
 | bip_39_word_new_br_10 | item<br>soccer<br>push<br>peanut<br>pizza<br>notable<br>abstract<br>claw<br>boil<br>appear |  
 | bip_39_word_new_br_11 | item<br>soccer<br>push<br>peanut<br>pizza<br>notable<br>abstract<br>claw<br>boil<br>appear<br>vapor |  
@@ -147,6 +159,18 @@ boil |
 | bip_39_word_space_7 | item soccer push peanut pizza notable abstract |  
 | bip_39_word_space_8 | item soccer push peanut pizza notable abstract claw |  
 | bip_39_word_space_9 | item soccer push peanut pizza notable abstract claw boil |  
+| bip_39_word_underscore_1 | item |  
+| bip_39_word_underscore_10 | item_soccer_push_peanut_pizza_notable_abstract_claw_boil_appear |  
+| bip_39_word_underscore_11 | item_soccer_push_peanut_pizza_notable_abstract_claw_boil_appear_vapor |  
+| bip_39_word_underscore_12 | item_soccer_push_peanut_pizza_notable_abstract_claw_boil_appear_vapor_across |  
+| bip_39_word_underscore_2 | item_soccer |  
+| bip_39_word_underscore_3 | item_soccer_push |  
+| bip_39_word_underscore_4 | item_soccer_push_peanut |  
+| bip_39_word_underscore_5 | item_soccer_push_peanut_pizza |  
+| bip_39_word_underscore_6 | item_soccer_push_peanut_pizza_notable |  
+| bip_39_word_underscore_7 | item_soccer_push_peanut_pizza_notable_abstract |  
+| bip_39_word_underscore_8 | item_soccer_push_peanut_pizza_notable_abstract_claw |  
+| bip_39_word_underscore_9 | item_soccer_push_peanut_pizza_notable_abstract_claw_boil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | input |  
+| bip_39_word_dash_10 | input-soap-dose-point-autumn-soccer-edge-cupboard-room-bonus |  
+| bip_39_word_dash_11 | input-soap-dose-point-autumn-soccer-edge-cupboard-room-bonus-sand |  
+| bip_39_word_dash_12 | input-soap-dose-point-autumn-soccer-edge-cupboard-room-bonus-sand-animal |  
+| bip_39_word_dash_2 | input-soap |  
+| bip_39_word_dash_3 | input-soap-dose |  
+| bip_39_word_dash_4 | input-soap-dose-point |  
+| bip_39_word_dash_5 | input-soap-dose-point-autumn |  
+| bip_39_word_dash_6 | input-soap-dose-point-autumn-soccer |  
+| bip_39_word_dash_7 | input-soap-dose-point-autumn-soccer-edge |  
+| bip_39_word_dash_8 | input-soap-dose-point-autumn-soccer-edge-cupboard |  
+| bip_39_word_dash_9 | input-soap-dose-point-autumn-soccer-edge-cupboard-room |  
 | bip_39_word_new_br_1 | input |  
 | bip_39_word_new_br_10 | input<br>soap<br>dose<br>point<br>autumn<br>soccer<br>edge<br>cupboard<br>room<br>bonus |  
 | bip_39_word_new_br_11 | input<br>soap<br>dose<br>point<br>autumn<br>soccer<br>edge<br>cupboard<br>room<br>bonus<br>sand |  
@@ -147,6 +159,18 @@ room |
 | bip_39_word_space_7 | input soap dose point autumn soccer edge |  
 | bip_39_word_space_8 | input soap dose point autumn soccer edge cupboard |  
 | bip_39_word_space_9 | input soap dose point autumn soccer edge cupboard room |  
+| bip_39_word_underscore_1 | input |  
+| bip_39_word_underscore_10 | input_soap_dose_point_autumn_soccer_edge_cupboard_room_bonus |  
+| bip_39_word_underscore_11 | input_soap_dose_point_autumn_soccer_edge_cupboard_room_bonus_sand |  
+| bip_39_word_underscore_12 | input_soap_dose_point_autumn_soccer_edge_cupboard_room_bonus_sand_animal |  
+| bip_39_word_underscore_2 | input_soap |  
+| bip_39_word_underscore_3 | input_soap_dose |  
+| bip_39_word_underscore_4 | input_soap_dose_point |  
+| bip_39_word_underscore_5 | input_soap_dose_point_autumn |  
+| bip_39_word_underscore_6 | input_soap_dose_point_autumn_soccer |  
+| bip_39_word_underscore_7 | input_soap_dose_point_autumn_soccer_edge |  
+| bip_39_word_underscore_8 | input_soap_dose_point_autumn_soccer_edge_cupboard |  
+| bip_39_word_underscore_9 | input_soap_dose_point_autumn_soccer_edge_cupboard_room |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

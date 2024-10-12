@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | estate |  
+| bip_39_word_dash_10 | estate-motion-equal-behind-leader-sea-must-believe-wish-example |  
+| bip_39_word_dash_11 | estate-motion-equal-behind-leader-sea-must-believe-wish-example-ball |  
+| bip_39_word_dash_12 | estate-motion-equal-behind-leader-sea-must-believe-wish-example-ball-attend |  
+| bip_39_word_dash_2 | estate-motion |  
+| bip_39_word_dash_3 | estate-motion-equal |  
+| bip_39_word_dash_4 | estate-motion-equal-behind |  
+| bip_39_word_dash_5 | estate-motion-equal-behind-leader |  
+| bip_39_word_dash_6 | estate-motion-equal-behind-leader-sea |  
+| bip_39_word_dash_7 | estate-motion-equal-behind-leader-sea-must |  
+| bip_39_word_dash_8 | estate-motion-equal-behind-leader-sea-must-believe |  
+| bip_39_word_dash_9 | estate-motion-equal-behind-leader-sea-must-believe-wish |  
 | bip_39_word_new_br_1 | estate |  
 | bip_39_word_new_br_10 | estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe<br>wish<br>example |  
 | bip_39_word_new_br_11 | estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe<br>wish<br>example<br>ball |  
@@ -147,6 +159,18 @@ wish |
 | bip_39_word_space_7 | estate motion equal behind leader sea must |  
 | bip_39_word_space_8 | estate motion equal behind leader sea must believe |  
 | bip_39_word_space_9 | estate motion equal behind leader sea must believe wish |  
+| bip_39_word_underscore_1 | estate |  
+| bip_39_word_underscore_10 | estate_motion_equal_behind_leader_sea_must_believe_wish_example |  
+| bip_39_word_underscore_11 | estate_motion_equal_behind_leader_sea_must_believe_wish_example_ball |  
+| bip_39_word_underscore_12 | estate_motion_equal_behind_leader_sea_must_believe_wish_example_ball_attend |  
+| bip_39_word_underscore_2 | estate_motion |  
+| bip_39_word_underscore_3 | estate_motion_equal |  
+| bip_39_word_underscore_4 | estate_motion_equal_behind |  
+| bip_39_word_underscore_5 | estate_motion_equal_behind_leader |  
+| bip_39_word_underscore_6 | estate_motion_equal_behind_leader_sea |  
+| bip_39_word_underscore_7 | estate_motion_equal_behind_leader_sea_must |  
+| bip_39_word_underscore_8 | estate_motion_equal_behind_leader_sea_must_believe |  
+| bip_39_word_underscore_9 | estate_motion_equal_behind_leader_sea_must_believe_wish |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: neck
+bip_39_word_dash_10: neck-error-humble-once-actor-venture-just-stem-erosion-pony
+bip_39_word_dash_11: neck-error-humble-once-actor-venture-just-stem-erosion-pony-place
+bip_39_word_dash_12: neck-error-humble-once-actor-venture-just-stem-erosion-pony-place-absurd
+bip_39_word_dash_2: neck-error
+bip_39_word_dash_3: neck-error-humble
+bip_39_word_dash_4: neck-error-humble-once
+bip_39_word_dash_5: neck-error-humble-once-actor
+bip_39_word_dash_6: neck-error-humble-once-actor-venture
+bip_39_word_dash_7: neck-error-humble-once-actor-venture-just
+bip_39_word_dash_8: neck-error-humble-once-actor-venture-just-stem
+bip_39_word_dash_9: neck-error-humble-once-actor-venture-just-stem-erosion
 bip_39_word_new_br_1: neck
 bip_39_word_new_br_10: neck<br>error<br>humble<br>once<br>actor<br>venture<br>just<br>stem<br>erosion<br>pony
 bip_39_word_new_br_11: neck<br>error<br>humble<br>once<br>actor<br>venture<br>just<br>stem<br>erosion<br>pony<br>place
@@ -193,6 +205,18 @@ bip_39_word_space_6: neck error humble once actor venture
 bip_39_word_space_7: neck error humble once actor venture just
 bip_39_word_space_8: neck error humble once actor venture just stem
 bip_39_word_space_9: neck error humble once actor venture just stem erosion
+bip_39_word_underscore_1: neck
+bip_39_word_underscore_10: neck_error_humble_once_actor_venture_just_stem_erosion_pony
+bip_39_word_underscore_11: neck_error_humble_once_actor_venture_just_stem_erosion_pony_place
+bip_39_word_underscore_12: neck_error_humble_once_actor_venture_just_stem_erosion_pony_place_absurd
+bip_39_word_underscore_2: neck_error
+bip_39_word_underscore_3: neck_error_humble
+bip_39_word_underscore_4: neck_error_humble_once
+bip_39_word_underscore_5: neck_error_humble_once_actor
+bip_39_word_underscore_6: neck_error_humble_once_actor_venture
+bip_39_word_underscore_7: neck_error_humble_once_actor_venture_just
+bip_39_word_underscore_8: neck_error_humble_once_actor_venture_just_stem
+bip_39_word_underscore_9: neck_error_humble_once_actor_venture_just_stem_erosion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

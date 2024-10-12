@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | way |  
+| bip_39_word_dash_10 | way-excess-trade-surface-cheese-friend-meadow-north-audit-lamp |  
+| bip_39_word_dash_11 | way-excess-trade-surface-cheese-friend-meadow-north-audit-lamp-skate |  
+| bip_39_word_dash_12 | way-excess-trade-surface-cheese-friend-meadow-north-audit-lamp-skate-assume |  
+| bip_39_word_dash_2 | way-excess |  
+| bip_39_word_dash_3 | way-excess-trade |  
+| bip_39_word_dash_4 | way-excess-trade-surface |  
+| bip_39_word_dash_5 | way-excess-trade-surface-cheese |  
+| bip_39_word_dash_6 | way-excess-trade-surface-cheese-friend |  
+| bip_39_word_dash_7 | way-excess-trade-surface-cheese-friend-meadow |  
+| bip_39_word_dash_8 | way-excess-trade-surface-cheese-friend-meadow-north |  
+| bip_39_word_dash_9 | way-excess-trade-surface-cheese-friend-meadow-north-audit |  
 | bip_39_word_new_br_1 | way |  
 | bip_39_word_new_br_10 | way<br>excess<br>trade<br>surface<br>cheese<br>friend<br>meadow<br>north<br>audit<br>lamp |  
 | bip_39_word_new_br_11 | way<br>excess<br>trade<br>surface<br>cheese<br>friend<br>meadow<br>north<br>audit<br>lamp<br>skate |  
@@ -147,6 +159,18 @@ audit |
 | bip_39_word_space_7 | way excess trade surface cheese friend meadow |  
 | bip_39_word_space_8 | way excess trade surface cheese friend meadow north |  
 | bip_39_word_space_9 | way excess trade surface cheese friend meadow north audit |  
+| bip_39_word_underscore_1 | way |  
+| bip_39_word_underscore_10 | way_excess_trade_surface_cheese_friend_meadow_north_audit_lamp |  
+| bip_39_word_underscore_11 | way_excess_trade_surface_cheese_friend_meadow_north_audit_lamp_skate |  
+| bip_39_word_underscore_12 | way_excess_trade_surface_cheese_friend_meadow_north_audit_lamp_skate_assume |  
+| bip_39_word_underscore_2 | way_excess |  
+| bip_39_word_underscore_3 | way_excess_trade |  
+| bip_39_word_underscore_4 | way_excess_trade_surface |  
+| bip_39_word_underscore_5 | way_excess_trade_surface_cheese |  
+| bip_39_word_underscore_6 | way_excess_trade_surface_cheese_friend |  
+| bip_39_word_underscore_7 | way_excess_trade_surface_cheese_friend_meadow |  
+| bip_39_word_underscore_8 | way_excess_trade_surface_cheese_friend_meadow_north |  
+| bip_39_word_underscore_9 | way_excess_trade_surface_cheese_friend_meadow_north_audit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

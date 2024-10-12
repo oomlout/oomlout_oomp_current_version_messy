@@ -1,3 +1,15 @@
+bip_39_word_dash_1: library
+bip_39_word_dash_10: library-book-artefact-wrist-convince-same-wool-more-object-run
+bip_39_word_dash_11: library-book-artefact-wrist-convince-same-wool-more-object-run-menu
+bip_39_word_dash_12: library-book-artefact-wrist-convince-same-wool-more-object-run-menu-airport
+bip_39_word_dash_2: library-book
+bip_39_word_dash_3: library-book-artefact
+bip_39_word_dash_4: library-book-artefact-wrist
+bip_39_word_dash_5: library-book-artefact-wrist-convince
+bip_39_word_dash_6: library-book-artefact-wrist-convince-same
+bip_39_word_dash_7: library-book-artefact-wrist-convince-same-wool
+bip_39_word_dash_8: library-book-artefact-wrist-convince-same-wool-more
+bip_39_word_dash_9: library-book-artefact-wrist-convince-same-wool-more-object
 bip_39_word_new_br_1: library
 bip_39_word_new_br_10: library<br>book<br>artefact<br>wrist<br>convince<br>same<br>wool<br>more<br>object<br>run
 bip_39_word_new_br_11: library<br>book<br>artefact<br>wrist<br>convince<br>same<br>wool<br>more<br>object<br>run<br>menu
@@ -193,6 +205,18 @@ bip_39_word_space_6: library book artefact wrist convince same
 bip_39_word_space_7: library book artefact wrist convince same wool
 bip_39_word_space_8: library book artefact wrist convince same wool more
 bip_39_word_space_9: library book artefact wrist convince same wool more object
+bip_39_word_underscore_1: library
+bip_39_word_underscore_10: library_book_artefact_wrist_convince_same_wool_more_object_run
+bip_39_word_underscore_11: library_book_artefact_wrist_convince_same_wool_more_object_run_menu
+bip_39_word_underscore_12: library_book_artefact_wrist_convince_same_wool_more_object_run_menu_airport
+bip_39_word_underscore_2: library_book
+bip_39_word_underscore_3: library_book_artefact
+bip_39_word_underscore_4: library_book_artefact_wrist
+bip_39_word_underscore_5: library_book_artefact_wrist_convince
+bip_39_word_underscore_6: library_book_artefact_wrist_convince_same
+bip_39_word_underscore_7: library_book_artefact_wrist_convince_same_wool
+bip_39_word_underscore_8: library_book_artefact_wrist_convince_same_wool_more
+bip_39_word_underscore_9: library_book_artefact_wrist_convince_same_wool_more_object
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

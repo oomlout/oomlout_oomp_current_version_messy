@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | easy |  
+| bip_39_word_dash_10 | easy-sister-like-utility-dynamic-element-violin-swing-jewel-urban |  
+| bip_39_word_dash_11 | easy-sister-like-utility-dynamic-element-violin-swing-jewel-urban-begin |  
+| bip_39_word_dash_12 | easy-sister-like-utility-dynamic-element-violin-swing-jewel-urban-begin-amateur |  
+| bip_39_word_dash_2 | easy-sister |  
+| bip_39_word_dash_3 | easy-sister-like |  
+| bip_39_word_dash_4 | easy-sister-like-utility |  
+| bip_39_word_dash_5 | easy-sister-like-utility-dynamic |  
+| bip_39_word_dash_6 | easy-sister-like-utility-dynamic-element |  
+| bip_39_word_dash_7 | easy-sister-like-utility-dynamic-element-violin |  
+| bip_39_word_dash_8 | easy-sister-like-utility-dynamic-element-violin-swing |  
+| bip_39_word_dash_9 | easy-sister-like-utility-dynamic-element-violin-swing-jewel |  
 | bip_39_word_new_br_1 | easy |  
 | bip_39_word_new_br_10 | easy<br>sister<br>like<br>utility<br>dynamic<br>element<br>violin<br>swing<br>jewel<br>urban |  
 | bip_39_word_new_br_11 | easy<br>sister<br>like<br>utility<br>dynamic<br>element<br>violin<br>swing<br>jewel<br>urban<br>begin |  
@@ -147,6 +159,18 @@ jewel |
 | bip_39_word_space_7 | easy sister like utility dynamic element violin |  
 | bip_39_word_space_8 | easy sister like utility dynamic element violin swing |  
 | bip_39_word_space_9 | easy sister like utility dynamic element violin swing jewel |  
+| bip_39_word_underscore_1 | easy |  
+| bip_39_word_underscore_10 | easy_sister_like_utility_dynamic_element_violin_swing_jewel_urban |  
+| bip_39_word_underscore_11 | easy_sister_like_utility_dynamic_element_violin_swing_jewel_urban_begin |  
+| bip_39_word_underscore_12 | easy_sister_like_utility_dynamic_element_violin_swing_jewel_urban_begin_amateur |  
+| bip_39_word_underscore_2 | easy_sister |  
+| bip_39_word_underscore_3 | easy_sister_like |  
+| bip_39_word_underscore_4 | easy_sister_like_utility |  
+| bip_39_word_underscore_5 | easy_sister_like_utility_dynamic |  
+| bip_39_word_underscore_6 | easy_sister_like_utility_dynamic_element |  
+| bip_39_word_underscore_7 | easy_sister_like_utility_dynamic_element_violin |  
+| bip_39_word_underscore_8 | easy_sister_like_utility_dynamic_element_violin_swing |  
+| bip_39_word_underscore_9 | easy_sister_like_utility_dynamic_element_violin_swing_jewel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

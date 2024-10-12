@@ -1,3 +1,15 @@
+bip_39_word_dash_1: patch
+bip_39_word_dash_10: patch-assist-duck-edge-omit-dash-critic-train-attend-expand
+bip_39_word_dash_11: patch-assist-duck-edge-omit-dash-critic-train-attend-expand-poem
+bip_39_word_dash_12: patch-assist-duck-edge-omit-dash-critic-train-attend-expand-poem-actress
+bip_39_word_dash_2: patch-assist
+bip_39_word_dash_3: patch-assist-duck
+bip_39_word_dash_4: patch-assist-duck-edge
+bip_39_word_dash_5: patch-assist-duck-edge-omit
+bip_39_word_dash_6: patch-assist-duck-edge-omit-dash
+bip_39_word_dash_7: patch-assist-duck-edge-omit-dash-critic
+bip_39_word_dash_8: patch-assist-duck-edge-omit-dash-critic-train
+bip_39_word_dash_9: patch-assist-duck-edge-omit-dash-critic-train-attend
 bip_39_word_new_br_1: patch
 bip_39_word_new_br_10: patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand
 bip_39_word_new_br_11: patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand<br>poem
@@ -193,6 +205,18 @@ bip_39_word_space_6: patch assist duck edge omit dash
 bip_39_word_space_7: patch assist duck edge omit dash critic
 bip_39_word_space_8: patch assist duck edge omit dash critic train
 bip_39_word_space_9: patch assist duck edge omit dash critic train attend
+bip_39_word_underscore_1: patch
+bip_39_word_underscore_10: patch_assist_duck_edge_omit_dash_critic_train_attend_expand
+bip_39_word_underscore_11: patch_assist_duck_edge_omit_dash_critic_train_attend_expand_poem
+bip_39_word_underscore_12: patch_assist_duck_edge_omit_dash_critic_train_attend_expand_poem_actress
+bip_39_word_underscore_2: patch_assist
+bip_39_word_underscore_3: patch_assist_duck
+bip_39_word_underscore_4: patch_assist_duck_edge
+bip_39_word_underscore_5: patch_assist_duck_edge_omit
+bip_39_word_underscore_6: patch_assist_duck_edge_omit_dash
+bip_39_word_underscore_7: patch_assist_duck_edge_omit_dash_critic
+bip_39_word_underscore_8: patch_assist_duck_edge_omit_dash_critic_train
+bip_39_word_underscore_9: patch_assist_duck_edge_omit_dash_critic_train_attend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

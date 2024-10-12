@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | evoke |  
+| bip_39_word_dash_10 | evoke-hammer-soda-misery-attitude-embark-offer-flag-thought-limit |  
+| bip_39_word_dash_11 | evoke-hammer-soda-misery-attitude-embark-offer-flag-thought-limit-coil |  
+| bip_39_word_dash_12 | evoke-hammer-soda-misery-attitude-embark-offer-flag-thought-limit-coil-absorb |  
+| bip_39_word_dash_2 | evoke-hammer |  
+| bip_39_word_dash_3 | evoke-hammer-soda |  
+| bip_39_word_dash_4 | evoke-hammer-soda-misery |  
+| bip_39_word_dash_5 | evoke-hammer-soda-misery-attitude |  
+| bip_39_word_dash_6 | evoke-hammer-soda-misery-attitude-embark |  
+| bip_39_word_dash_7 | evoke-hammer-soda-misery-attitude-embark-offer |  
+| bip_39_word_dash_8 | evoke-hammer-soda-misery-attitude-embark-offer-flag |  
+| bip_39_word_dash_9 | evoke-hammer-soda-misery-attitude-embark-offer-flag-thought |  
 | bip_39_word_new_br_1 | evoke |  
 | bip_39_word_new_br_10 | evoke<br>hammer<br>soda<br>misery<br>attitude<br>embark<br>offer<br>flag<br>thought<br>limit |  
 | bip_39_word_new_br_11 | evoke<br>hammer<br>soda<br>misery<br>attitude<br>embark<br>offer<br>flag<br>thought<br>limit<br>coil |  
@@ -147,6 +159,18 @@ thought |
 | bip_39_word_space_7 | evoke hammer soda misery attitude embark offer |  
 | bip_39_word_space_8 | evoke hammer soda misery attitude embark offer flag |  
 | bip_39_word_space_9 | evoke hammer soda misery attitude embark offer flag thought |  
+| bip_39_word_underscore_1 | evoke |  
+| bip_39_word_underscore_10 | evoke_hammer_soda_misery_attitude_embark_offer_flag_thought_limit |  
+| bip_39_word_underscore_11 | evoke_hammer_soda_misery_attitude_embark_offer_flag_thought_limit_coil |  
+| bip_39_word_underscore_12 | evoke_hammer_soda_misery_attitude_embark_offer_flag_thought_limit_coil_absorb |  
+| bip_39_word_underscore_2 | evoke_hammer |  
+| bip_39_word_underscore_3 | evoke_hammer_soda |  
+| bip_39_word_underscore_4 | evoke_hammer_soda_misery |  
+| bip_39_word_underscore_5 | evoke_hammer_soda_misery_attitude |  
+| bip_39_word_underscore_6 | evoke_hammer_soda_misery_attitude_embark |  
+| bip_39_word_underscore_7 | evoke_hammer_soda_misery_attitude_embark_offer |  
+| bip_39_word_underscore_8 | evoke_hammer_soda_misery_attitude_embark_offer_flag |  
+| bip_39_word_underscore_9 | evoke_hammer_soda_misery_attitude_embark_offer_flag_thought |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

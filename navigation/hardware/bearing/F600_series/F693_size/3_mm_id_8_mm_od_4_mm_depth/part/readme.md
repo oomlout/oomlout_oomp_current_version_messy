@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | music |  
+| bip_39_word_dash_10 | music-hybrid-runway-cradle-nasty-rude-type-gentle-drive-hair |  
+| bip_39_word_dash_11 | music-hybrid-runway-cradle-nasty-rude-type-gentle-drive-hair-image |  
+| bip_39_word_dash_12 | music-hybrid-runway-cradle-nasty-rude-type-gentle-drive-hair-image-ability |  
+| bip_39_word_dash_2 | music-hybrid |  
+| bip_39_word_dash_3 | music-hybrid-runway |  
+| bip_39_word_dash_4 | music-hybrid-runway-cradle |  
+| bip_39_word_dash_5 | music-hybrid-runway-cradle-nasty |  
+| bip_39_word_dash_6 | music-hybrid-runway-cradle-nasty-rude |  
+| bip_39_word_dash_7 | music-hybrid-runway-cradle-nasty-rude-type |  
+| bip_39_word_dash_8 | music-hybrid-runway-cradle-nasty-rude-type-gentle |  
+| bip_39_word_dash_9 | music-hybrid-runway-cradle-nasty-rude-type-gentle-drive |  
 | bip_39_word_new_br_1 | music |  
 | bip_39_word_new_br_10 | music<br>hybrid<br>runway<br>cradle<br>nasty<br>rude<br>type<br>gentle<br>drive<br>hair |  
 | bip_39_word_new_br_11 | music<br>hybrid<br>runway<br>cradle<br>nasty<br>rude<br>type<br>gentle<br>drive<br>hair<br>image |  
@@ -147,6 +159,18 @@ drive |
 | bip_39_word_space_7 | music hybrid runway cradle nasty rude type |  
 | bip_39_word_space_8 | music hybrid runway cradle nasty rude type gentle |  
 | bip_39_word_space_9 | music hybrid runway cradle nasty rude type gentle drive |  
+| bip_39_word_underscore_1 | music |  
+| bip_39_word_underscore_10 | music_hybrid_runway_cradle_nasty_rude_type_gentle_drive_hair |  
+| bip_39_word_underscore_11 | music_hybrid_runway_cradle_nasty_rude_type_gentle_drive_hair_image |  
+| bip_39_word_underscore_12 | music_hybrid_runway_cradle_nasty_rude_type_gentle_drive_hair_image_ability |  
+| bip_39_word_underscore_2 | music_hybrid |  
+| bip_39_word_underscore_3 | music_hybrid_runway |  
+| bip_39_word_underscore_4 | music_hybrid_runway_cradle |  
+| bip_39_word_underscore_5 | music_hybrid_runway_cradle_nasty |  
+| bip_39_word_underscore_6 | music_hybrid_runway_cradle_nasty_rude |  
+| bip_39_word_underscore_7 | music_hybrid_runway_cradle_nasty_rude_type |  
+| bip_39_word_underscore_8 | music_hybrid_runway_cradle_nasty_rude_type_gentle |  
+| bip_39_word_underscore_9 | music_hybrid_runway_cradle_nasty_rude_type_gentle_drive |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

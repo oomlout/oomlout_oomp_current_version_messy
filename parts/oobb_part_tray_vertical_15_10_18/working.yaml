@@ -1,3 +1,15 @@
+bip_39_word_dash_1: menu
+bip_39_word_dash_10: menu-mother-wait-injury-vote-meadow-whip-solution-guilt-float
+bip_39_word_dash_11: menu-mother-wait-injury-vote-meadow-whip-solution-guilt-float-can
+bip_39_word_dash_12: menu-mother-wait-injury-vote-meadow-whip-solution-guilt-float-can-action
+bip_39_word_dash_2: menu-mother
+bip_39_word_dash_3: menu-mother-wait
+bip_39_word_dash_4: menu-mother-wait-injury
+bip_39_word_dash_5: menu-mother-wait-injury-vote
+bip_39_word_dash_6: menu-mother-wait-injury-vote-meadow
+bip_39_word_dash_7: menu-mother-wait-injury-vote-meadow-whip
+bip_39_word_dash_8: menu-mother-wait-injury-vote-meadow-whip-solution
+bip_39_word_dash_9: menu-mother-wait-injury-vote-meadow-whip-solution-guilt
 bip_39_word_new_br_1: menu
 bip_39_word_new_br_10: menu<br>mother<br>wait<br>injury<br>vote<br>meadow<br>whip<br>solution<br>guilt<br>float
 bip_39_word_new_br_11: menu<br>mother<br>wait<br>injury<br>vote<br>meadow<br>whip<br>solution<br>guilt<br>float<br>can
@@ -193,6 +205,18 @@ bip_39_word_space_6: menu mother wait injury vote meadow
 bip_39_word_space_7: menu mother wait injury vote meadow whip
 bip_39_word_space_8: menu mother wait injury vote meadow whip solution
 bip_39_word_space_9: menu mother wait injury vote meadow whip solution guilt
+bip_39_word_underscore_1: menu
+bip_39_word_underscore_10: menu_mother_wait_injury_vote_meadow_whip_solution_guilt_float
+bip_39_word_underscore_11: menu_mother_wait_injury_vote_meadow_whip_solution_guilt_float_can
+bip_39_word_underscore_12: menu_mother_wait_injury_vote_meadow_whip_solution_guilt_float_can_action
+bip_39_word_underscore_2: menu_mother
+bip_39_word_underscore_3: menu_mother_wait
+bip_39_word_underscore_4: menu_mother_wait_injury
+bip_39_word_underscore_5: menu_mother_wait_injury_vote
+bip_39_word_underscore_6: menu_mother_wait_injury_vote_meadow
+bip_39_word_underscore_7: menu_mother_wait_injury_vote_meadow_whip
+bip_39_word_underscore_8: menu_mother_wait_injury_vote_meadow_whip_solution
+bip_39_word_underscore_9: menu_mother_wait_injury_vote_meadow_whip_solution_guilt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

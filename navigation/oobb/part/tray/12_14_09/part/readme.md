@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ski |  
+| bip_39_word_dash_10 | ski-practice-attack-purity-ladder-embrace-calm-panther-blouse-scrub |  
+| bip_39_word_dash_11 | ski-practice-attack-purity-ladder-embrace-calm-panther-blouse-scrub-permit |  
+| bip_39_word_dash_12 | ski-practice-attack-purity-ladder-embrace-calm-panther-blouse-scrub-permit-adult |  
+| bip_39_word_dash_2 | ski-practice |  
+| bip_39_word_dash_3 | ski-practice-attack |  
+| bip_39_word_dash_4 | ski-practice-attack-purity |  
+| bip_39_word_dash_5 | ski-practice-attack-purity-ladder |  
+| bip_39_word_dash_6 | ski-practice-attack-purity-ladder-embrace |  
+| bip_39_word_dash_7 | ski-practice-attack-purity-ladder-embrace-calm |  
+| bip_39_word_dash_8 | ski-practice-attack-purity-ladder-embrace-calm-panther |  
+| bip_39_word_dash_9 | ski-practice-attack-purity-ladder-embrace-calm-panther-blouse |  
 | bip_39_word_new_br_1 | ski |  
 | bip_39_word_new_br_10 | ski<br>practice<br>attack<br>purity<br>ladder<br>embrace<br>calm<br>panther<br>blouse<br>scrub |  
 | bip_39_word_new_br_11 | ski<br>practice<br>attack<br>purity<br>ladder<br>embrace<br>calm<br>panther<br>blouse<br>scrub<br>permit |  
@@ -147,6 +159,18 @@ blouse |
 | bip_39_word_space_7 | ski practice attack purity ladder embrace calm |  
 | bip_39_word_space_8 | ski practice attack purity ladder embrace calm panther |  
 | bip_39_word_space_9 | ski practice attack purity ladder embrace calm panther blouse |  
+| bip_39_word_underscore_1 | ski |  
+| bip_39_word_underscore_10 | ski_practice_attack_purity_ladder_embrace_calm_panther_blouse_scrub |  
+| bip_39_word_underscore_11 | ski_practice_attack_purity_ladder_embrace_calm_panther_blouse_scrub_permit |  
+| bip_39_word_underscore_12 | ski_practice_attack_purity_ladder_embrace_calm_panther_blouse_scrub_permit_adult |  
+| bip_39_word_underscore_2 | ski_practice |  
+| bip_39_word_underscore_3 | ski_practice_attack |  
+| bip_39_word_underscore_4 | ski_practice_attack_purity |  
+| bip_39_word_underscore_5 | ski_practice_attack_purity_ladder |  
+| bip_39_word_underscore_6 | ski_practice_attack_purity_ladder_embrace |  
+| bip_39_word_underscore_7 | ski_practice_attack_purity_ladder_embrace_calm |  
+| bip_39_word_underscore_8 | ski_practice_attack_purity_ladder_embrace_calm_panther |  
+| bip_39_word_underscore_9 | ski_practice_attack_purity_ladder_embrace_calm_panther_blouse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

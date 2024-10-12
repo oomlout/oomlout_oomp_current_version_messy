@@ -1,3 +1,15 @@
+bip_39_word_dash_1: outer
+bip_39_word_dash_10: outer-spider-learn-fresh-practice-acquire-certain-bottom-squeeze-squeeze
+bip_39_word_dash_11: outer-spider-learn-fresh-practice-acquire-certain-bottom-squeeze-squeeze-bleak
+bip_39_word_dash_12: outer-spider-learn-fresh-practice-acquire-certain-bottom-squeeze-squeeze-bleak-alone
+bip_39_word_dash_2: outer-spider
+bip_39_word_dash_3: outer-spider-learn
+bip_39_word_dash_4: outer-spider-learn-fresh
+bip_39_word_dash_5: outer-spider-learn-fresh-practice
+bip_39_word_dash_6: outer-spider-learn-fresh-practice-acquire
+bip_39_word_dash_7: outer-spider-learn-fresh-practice-acquire-certain
+bip_39_word_dash_8: outer-spider-learn-fresh-practice-acquire-certain-bottom
+bip_39_word_dash_9: outer-spider-learn-fresh-practice-acquire-certain-bottom-squeeze
 bip_39_word_new_br_1: outer
 bip_39_word_new_br_10: outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom<br>squeeze<br>squeeze
 bip_39_word_new_br_11: outer<br>spider<br>learn<br>fresh<br>practice<br>acquire<br>certain<br>bottom<br>squeeze<br>squeeze<br>bleak
@@ -194,6 +206,18 @@ bip_39_word_space_6: outer spider learn fresh practice acquire
 bip_39_word_space_7: outer spider learn fresh practice acquire certain
 bip_39_word_space_8: outer spider learn fresh practice acquire certain bottom
 bip_39_word_space_9: outer spider learn fresh practice acquire certain bottom squeeze
+bip_39_word_underscore_1: outer
+bip_39_word_underscore_10: outer_spider_learn_fresh_practice_acquire_certain_bottom_squeeze_squeeze
+bip_39_word_underscore_11: outer_spider_learn_fresh_practice_acquire_certain_bottom_squeeze_squeeze_bleak
+bip_39_word_underscore_12: outer_spider_learn_fresh_practice_acquire_certain_bottom_squeeze_squeeze_bleak_alone
+bip_39_word_underscore_2: outer_spider
+bip_39_word_underscore_3: outer_spider_learn
+bip_39_word_underscore_4: outer_spider_learn_fresh
+bip_39_word_underscore_5: outer_spider_learn_fresh_practice
+bip_39_word_underscore_6: outer_spider_learn_fresh_practice_acquire
+bip_39_word_underscore_7: outer_spider_learn_fresh_practice_acquire_certain
+bip_39_word_underscore_8: outer_spider_learn_fresh_practice_acquire_certain_bottom
+bip_39_word_underscore_9: outer_spider_learn_fresh_practice_acquire_certain_bottom_squeeze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

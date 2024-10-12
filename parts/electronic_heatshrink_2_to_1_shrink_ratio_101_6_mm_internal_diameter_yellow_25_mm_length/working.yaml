@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nothing
+bip_39_word_dash_10: nothing-dance-disease-throw-girl-smooth-visual-champion-approve-knock
+bip_39_word_dash_11: nothing-dance-disease-throw-girl-smooth-visual-champion-approve-knock-north
+bip_39_word_dash_12: nothing-dance-disease-throw-girl-smooth-visual-champion-approve-knock-north-apart
+bip_39_word_dash_2: nothing-dance
+bip_39_word_dash_3: nothing-dance-disease
+bip_39_word_dash_4: nothing-dance-disease-throw
+bip_39_word_dash_5: nothing-dance-disease-throw-girl
+bip_39_word_dash_6: nothing-dance-disease-throw-girl-smooth
+bip_39_word_dash_7: nothing-dance-disease-throw-girl-smooth-visual
+bip_39_word_dash_8: nothing-dance-disease-throw-girl-smooth-visual-champion
+bip_39_word_dash_9: nothing-dance-disease-throw-girl-smooth-visual-champion-approve
 bip_39_word_new_br_1: nothing
 bip_39_word_new_br_10: nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion<br>approve<br>knock
 bip_39_word_new_br_11: nothing<br>dance<br>disease<br>throw<br>girl<br>smooth<br>visual<br>champion<br>approve<br>knock<br>north
@@ -194,6 +206,18 @@ bip_39_word_space_6: nothing dance disease throw girl smooth
 bip_39_word_space_7: nothing dance disease throw girl smooth visual
 bip_39_word_space_8: nothing dance disease throw girl smooth visual champion
 bip_39_word_space_9: nothing dance disease throw girl smooth visual champion approve
+bip_39_word_underscore_1: nothing
+bip_39_word_underscore_10: nothing_dance_disease_throw_girl_smooth_visual_champion_approve_knock
+bip_39_word_underscore_11: nothing_dance_disease_throw_girl_smooth_visual_champion_approve_knock_north
+bip_39_word_underscore_12: nothing_dance_disease_throw_girl_smooth_visual_champion_approve_knock_north_apart
+bip_39_word_underscore_2: nothing_dance
+bip_39_word_underscore_3: nothing_dance_disease
+bip_39_word_underscore_4: nothing_dance_disease_throw
+bip_39_word_underscore_5: nothing_dance_disease_throw_girl
+bip_39_word_underscore_6: nothing_dance_disease_throw_girl_smooth
+bip_39_word_underscore_7: nothing_dance_disease_throw_girl_smooth_visual
+bip_39_word_underscore_8: nothing_dance_disease_throw_girl_smooth_visual_champion
+bip_39_word_underscore_9: nothing_dance_disease_throw_girl_smooth_visual_champion_approve
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hockey
+bip_39_word_dash_10: hockey-age-gravity-perfect-rich-reject-spoil-hero-canal-fee
+bip_39_word_dash_11: hockey-age-gravity-perfect-rich-reject-spoil-hero-canal-fee-mixture
+bip_39_word_dash_12: hockey-age-gravity-perfect-rich-reject-spoil-hero-canal-fee-mixture-aunt
+bip_39_word_dash_2: hockey-age
+bip_39_word_dash_3: hockey-age-gravity
+bip_39_word_dash_4: hockey-age-gravity-perfect
+bip_39_word_dash_5: hockey-age-gravity-perfect-rich
+bip_39_word_dash_6: hockey-age-gravity-perfect-rich-reject
+bip_39_word_dash_7: hockey-age-gravity-perfect-rich-reject-spoil
+bip_39_word_dash_8: hockey-age-gravity-perfect-rich-reject-spoil-hero
+bip_39_word_dash_9: hockey-age-gravity-perfect-rich-reject-spoil-hero-canal
 bip_39_word_new_br_1: hockey
 bip_39_word_new_br_10: hockey<br>age<br>gravity<br>perfect<br>rich<br>reject<br>spoil<br>hero<br>canal<br>fee
 bip_39_word_new_br_11: hockey<br>age<br>gravity<br>perfect<br>rich<br>reject<br>spoil<br>hero<br>canal<br>fee<br>mixture
@@ -193,6 +205,18 @@ bip_39_word_space_6: hockey age gravity perfect rich reject
 bip_39_word_space_7: hockey age gravity perfect rich reject spoil
 bip_39_word_space_8: hockey age gravity perfect rich reject spoil hero
 bip_39_word_space_9: hockey age gravity perfect rich reject spoil hero canal
+bip_39_word_underscore_1: hockey
+bip_39_word_underscore_10: hockey_age_gravity_perfect_rich_reject_spoil_hero_canal_fee
+bip_39_word_underscore_11: hockey_age_gravity_perfect_rich_reject_spoil_hero_canal_fee_mixture
+bip_39_word_underscore_12: hockey_age_gravity_perfect_rich_reject_spoil_hero_canal_fee_mixture_aunt
+bip_39_word_underscore_2: hockey_age
+bip_39_word_underscore_3: hockey_age_gravity
+bip_39_word_underscore_4: hockey_age_gravity_perfect
+bip_39_word_underscore_5: hockey_age_gravity_perfect_rich
+bip_39_word_underscore_6: hockey_age_gravity_perfect_rich_reject
+bip_39_word_underscore_7: hockey_age_gravity_perfect_rich_reject_spoil
+bip_39_word_underscore_8: hockey_age_gravity_perfect_rich_reject_spoil_hero
+bip_39_word_underscore_9: hockey_age_gravity_perfect_rich_reject_spoil_hero_canal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

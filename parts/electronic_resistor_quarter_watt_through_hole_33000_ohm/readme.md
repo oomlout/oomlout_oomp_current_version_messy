@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | metal |  
+| bip_39_word_dash_10 | metal-earn-diagram-affair-galaxy-ancient-order-fork-bunker-they |  
+| bip_39_word_dash_11 | metal-earn-diagram-affair-galaxy-ancient-order-fork-bunker-they-benefit |  
+| bip_39_word_dash_12 | metal-earn-diagram-affair-galaxy-ancient-order-fork-bunker-they-benefit-april |  
+| bip_39_word_dash_2 | metal-earn |  
+| bip_39_word_dash_3 | metal-earn-diagram |  
+| bip_39_word_dash_4 | metal-earn-diagram-affair |  
+| bip_39_word_dash_5 | metal-earn-diagram-affair-galaxy |  
+| bip_39_word_dash_6 | metal-earn-diagram-affair-galaxy-ancient |  
+| bip_39_word_dash_7 | metal-earn-diagram-affair-galaxy-ancient-order |  
+| bip_39_word_dash_8 | metal-earn-diagram-affair-galaxy-ancient-order-fork |  
+| bip_39_word_dash_9 | metal-earn-diagram-affair-galaxy-ancient-order-fork-bunker |  
 | bip_39_word_new_br_1 | metal |  
 | bip_39_word_new_br_10 | metal<br>earn<br>diagram<br>affair<br>galaxy<br>ancient<br>order<br>fork<br>bunker<br>they |  
 | bip_39_word_new_br_11 | metal<br>earn<br>diagram<br>affair<br>galaxy<br>ancient<br>order<br>fork<br>bunker<br>they<br>benefit |  
@@ -147,6 +159,18 @@ bunker |
 | bip_39_word_space_7 | metal earn diagram affair galaxy ancient order |  
 | bip_39_word_space_8 | metal earn diagram affair galaxy ancient order fork |  
 | bip_39_word_space_9 | metal earn diagram affair galaxy ancient order fork bunker |  
+| bip_39_word_underscore_1 | metal |  
+| bip_39_word_underscore_10 | metal_earn_diagram_affair_galaxy_ancient_order_fork_bunker_they |  
+| bip_39_word_underscore_11 | metal_earn_diagram_affair_galaxy_ancient_order_fork_bunker_they_benefit |  
+| bip_39_word_underscore_12 | metal_earn_diagram_affair_galaxy_ancient_order_fork_bunker_they_benefit_april |  
+| bip_39_word_underscore_2 | metal_earn |  
+| bip_39_word_underscore_3 | metal_earn_diagram |  
+| bip_39_word_underscore_4 | metal_earn_diagram_affair |  
+| bip_39_word_underscore_5 | metal_earn_diagram_affair_galaxy |  
+| bip_39_word_underscore_6 | metal_earn_diagram_affair_galaxy_ancient |  
+| bip_39_word_underscore_7 | metal_earn_diagram_affair_galaxy_ancient_order |  
+| bip_39_word_underscore_8 | metal_earn_diagram_affair_galaxy_ancient_order_fork |  
+| bip_39_word_underscore_9 | metal_earn_diagram_affair_galaxy_ancient_order_fork_bunker |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

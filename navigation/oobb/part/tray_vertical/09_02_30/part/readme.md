@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sponsor |  
+| bip_39_word_dash_10 | sponsor-goat-hobby-between-bronze-divide-town-mix-priority-tortoise |  
+| bip_39_word_dash_11 | sponsor-goat-hobby-between-bronze-divide-town-mix-priority-tortoise-mixed |  
+| bip_39_word_dash_12 | sponsor-goat-hobby-between-bronze-divide-town-mix-priority-tortoise-mixed-army |  
+| bip_39_word_dash_2 | sponsor-goat |  
+| bip_39_word_dash_3 | sponsor-goat-hobby |  
+| bip_39_word_dash_4 | sponsor-goat-hobby-between |  
+| bip_39_word_dash_5 | sponsor-goat-hobby-between-bronze |  
+| bip_39_word_dash_6 | sponsor-goat-hobby-between-bronze-divide |  
+| bip_39_word_dash_7 | sponsor-goat-hobby-between-bronze-divide-town |  
+| bip_39_word_dash_8 | sponsor-goat-hobby-between-bronze-divide-town-mix |  
+| bip_39_word_dash_9 | sponsor-goat-hobby-between-bronze-divide-town-mix-priority |  
 | bip_39_word_new_br_1 | sponsor |  
 | bip_39_word_new_br_10 | sponsor<br>goat<br>hobby<br>between<br>bronze<br>divide<br>town<br>mix<br>priority<br>tortoise |  
 | bip_39_word_new_br_11 | sponsor<br>goat<br>hobby<br>between<br>bronze<br>divide<br>town<br>mix<br>priority<br>tortoise<br>mixed |  
@@ -147,6 +159,18 @@ priority |
 | bip_39_word_space_7 | sponsor goat hobby between bronze divide town |  
 | bip_39_word_space_8 | sponsor goat hobby between bronze divide town mix |  
 | bip_39_word_space_9 | sponsor goat hobby between bronze divide town mix priority |  
+| bip_39_word_underscore_1 | sponsor |  
+| bip_39_word_underscore_10 | sponsor_goat_hobby_between_bronze_divide_town_mix_priority_tortoise |  
+| bip_39_word_underscore_11 | sponsor_goat_hobby_between_bronze_divide_town_mix_priority_tortoise_mixed |  
+| bip_39_word_underscore_12 | sponsor_goat_hobby_between_bronze_divide_town_mix_priority_tortoise_mixed_army |  
+| bip_39_word_underscore_2 | sponsor_goat |  
+| bip_39_word_underscore_3 | sponsor_goat_hobby |  
+| bip_39_word_underscore_4 | sponsor_goat_hobby_between |  
+| bip_39_word_underscore_5 | sponsor_goat_hobby_between_bronze |  
+| bip_39_word_underscore_6 | sponsor_goat_hobby_between_bronze_divide |  
+| bip_39_word_underscore_7 | sponsor_goat_hobby_between_bronze_divide_town |  
+| bip_39_word_underscore_8 | sponsor_goat_hobby_between_bronze_divide_town_mix |  
+| bip_39_word_underscore_9 | sponsor_goat_hobby_between_bronze_divide_town_mix_priority |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

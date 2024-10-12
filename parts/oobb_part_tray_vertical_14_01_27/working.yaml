@@ -1,3 +1,15 @@
+bip_39_word_dash_1: return
+bip_39_word_dash_10: return-name-drive-cook-decline-before-boring-stuff-laugh-check
+bip_39_word_dash_11: return-name-drive-cook-decline-before-boring-stuff-laugh-check-tone
+bip_39_word_dash_12: return-name-drive-cook-decline-before-boring-stuff-laugh-check-tone-attract
+bip_39_word_dash_2: return-name
+bip_39_word_dash_3: return-name-drive
+bip_39_word_dash_4: return-name-drive-cook
+bip_39_word_dash_5: return-name-drive-cook-decline
+bip_39_word_dash_6: return-name-drive-cook-decline-before
+bip_39_word_dash_7: return-name-drive-cook-decline-before-boring
+bip_39_word_dash_8: return-name-drive-cook-decline-before-boring-stuff
+bip_39_word_dash_9: return-name-drive-cook-decline-before-boring-stuff-laugh
 bip_39_word_new_br_1: return
 bip_39_word_new_br_10: return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff<br>laugh<br>check
 bip_39_word_new_br_11: return<br>name<br>drive<br>cook<br>decline<br>before<br>boring<br>stuff<br>laugh<br>check<br>tone
@@ -193,6 +205,18 @@ bip_39_word_space_6: return name drive cook decline before
 bip_39_word_space_7: return name drive cook decline before boring
 bip_39_word_space_8: return name drive cook decline before boring stuff
 bip_39_word_space_9: return name drive cook decline before boring stuff laugh
+bip_39_word_underscore_1: return
+bip_39_word_underscore_10: return_name_drive_cook_decline_before_boring_stuff_laugh_check
+bip_39_word_underscore_11: return_name_drive_cook_decline_before_boring_stuff_laugh_check_tone
+bip_39_word_underscore_12: return_name_drive_cook_decline_before_boring_stuff_laugh_check_tone_attract
+bip_39_word_underscore_2: return_name
+bip_39_word_underscore_3: return_name_drive
+bip_39_word_underscore_4: return_name_drive_cook
+bip_39_word_underscore_5: return_name_drive_cook_decline
+bip_39_word_underscore_6: return_name_drive_cook_decline_before
+bip_39_word_underscore_7: return_name_drive_cook_decline_before_boring
+bip_39_word_underscore_8: return_name_drive_cook_decline_before_boring_stuff
+bip_39_word_underscore_9: return_name_drive_cook_decline_before_boring_stuff_laugh
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

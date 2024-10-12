@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sure |  
+| bip_39_word_dash_10 | sure-small-arena-portion-patrol-object-now-knee-frequent-surround |  
+| bip_39_word_dash_11 | sure-small-arena-portion-patrol-object-now-knee-frequent-surround-capable |  
+| bip_39_word_dash_12 | sure-small-arena-portion-patrol-object-now-knee-frequent-surround-capable-apple |  
+| bip_39_word_dash_2 | sure-small |  
+| bip_39_word_dash_3 | sure-small-arena |  
+| bip_39_word_dash_4 | sure-small-arena-portion |  
+| bip_39_word_dash_5 | sure-small-arena-portion-patrol |  
+| bip_39_word_dash_6 | sure-small-arena-portion-patrol-object |  
+| bip_39_word_dash_7 | sure-small-arena-portion-patrol-object-now |  
+| bip_39_word_dash_8 | sure-small-arena-portion-patrol-object-now-knee |  
+| bip_39_word_dash_9 | sure-small-arena-portion-patrol-object-now-knee-frequent |  
 | bip_39_word_new_br_1 | sure |  
 | bip_39_word_new_br_10 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee<br>frequent<br>surround |  
 | bip_39_word_new_br_11 | sure<br>small<br>arena<br>portion<br>patrol<br>object<br>now<br>knee<br>frequent<br>surround<br>capable |  
@@ -147,6 +159,18 @@ frequent |
 | bip_39_word_space_7 | sure small arena portion patrol object now |  
 | bip_39_word_space_8 | sure small arena portion patrol object now knee |  
 | bip_39_word_space_9 | sure small arena portion patrol object now knee frequent |  
+| bip_39_word_underscore_1 | sure |  
+| bip_39_word_underscore_10 | sure_small_arena_portion_patrol_object_now_knee_frequent_surround |  
+| bip_39_word_underscore_11 | sure_small_arena_portion_patrol_object_now_knee_frequent_surround_capable |  
+| bip_39_word_underscore_12 | sure_small_arena_portion_patrol_object_now_knee_frequent_surround_capable_apple |  
+| bip_39_word_underscore_2 | sure_small |  
+| bip_39_word_underscore_3 | sure_small_arena |  
+| bip_39_word_underscore_4 | sure_small_arena_portion |  
+| bip_39_word_underscore_5 | sure_small_arena_portion_patrol |  
+| bip_39_word_underscore_6 | sure_small_arena_portion_patrol_object |  
+| bip_39_word_underscore_7 | sure_small_arena_portion_patrol_object_now |  
+| bip_39_word_underscore_8 | sure_small_arena_portion_patrol_object_now_knee |  
+| bip_39_word_underscore_9 | sure_small_arena_portion_patrol_object_now_knee_frequent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

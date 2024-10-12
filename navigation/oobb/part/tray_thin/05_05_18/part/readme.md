@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | much |  
+| bip_39_word_dash_10 | much-critic-parent-magnet-diesel-purse-banner-random-build-maple |  
+| bip_39_word_dash_11 | much-critic-parent-magnet-diesel-purse-banner-random-build-maple-enemy |  
+| bip_39_word_dash_12 | much-critic-parent-magnet-diesel-purse-banner-random-build-maple-enemy-addict |  
+| bip_39_word_dash_2 | much-critic |  
+| bip_39_word_dash_3 | much-critic-parent |  
+| bip_39_word_dash_4 | much-critic-parent-magnet |  
+| bip_39_word_dash_5 | much-critic-parent-magnet-diesel |  
+| bip_39_word_dash_6 | much-critic-parent-magnet-diesel-purse |  
+| bip_39_word_dash_7 | much-critic-parent-magnet-diesel-purse-banner |  
+| bip_39_word_dash_8 | much-critic-parent-magnet-diesel-purse-banner-random |  
+| bip_39_word_dash_9 | much-critic-parent-magnet-diesel-purse-banner-random-build |  
 | bip_39_word_new_br_1 | much |  
 | bip_39_word_new_br_10 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random<br>build<br>maple |  
 | bip_39_word_new_br_11 | much<br>critic<br>parent<br>magnet<br>diesel<br>purse<br>banner<br>random<br>build<br>maple<br>enemy |  
@@ -147,6 +159,18 @@ build |
 | bip_39_word_space_7 | much critic parent magnet diesel purse banner |  
 | bip_39_word_space_8 | much critic parent magnet diesel purse banner random |  
 | bip_39_word_space_9 | much critic parent magnet diesel purse banner random build |  
+| bip_39_word_underscore_1 | much |  
+| bip_39_word_underscore_10 | much_critic_parent_magnet_diesel_purse_banner_random_build_maple |  
+| bip_39_word_underscore_11 | much_critic_parent_magnet_diesel_purse_banner_random_build_maple_enemy |  
+| bip_39_word_underscore_12 | much_critic_parent_magnet_diesel_purse_banner_random_build_maple_enemy_addict |  
+| bip_39_word_underscore_2 | much_critic |  
+| bip_39_word_underscore_3 | much_critic_parent |  
+| bip_39_word_underscore_4 | much_critic_parent_magnet |  
+| bip_39_word_underscore_5 | much_critic_parent_magnet_diesel |  
+| bip_39_word_underscore_6 | much_critic_parent_magnet_diesel_purse |  
+| bip_39_word_underscore_7 | much_critic_parent_magnet_diesel_purse_banner |  
+| bip_39_word_underscore_8 | much_critic_parent_magnet_diesel_purse_banner_random |  
+| bip_39_word_underscore_9 | much_critic_parent_magnet_diesel_purse_banner_random_build |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

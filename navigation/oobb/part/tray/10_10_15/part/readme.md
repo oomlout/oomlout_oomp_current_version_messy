@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mandate |  
+| bip_39_word_dash_10 | mandate-sun-chuckle-decline-plug-glow-accuse-soldier-exclude-talk |  
+| bip_39_word_dash_11 | mandate-sun-chuckle-decline-plug-glow-accuse-soldier-exclude-talk-enjoy |  
+| bip_39_word_dash_12 | mandate-sun-chuckle-decline-plug-glow-accuse-soldier-exclude-talk-enjoy-agent |  
+| bip_39_word_dash_2 | mandate-sun |  
+| bip_39_word_dash_3 | mandate-sun-chuckle |  
+| bip_39_word_dash_4 | mandate-sun-chuckle-decline |  
+| bip_39_word_dash_5 | mandate-sun-chuckle-decline-plug |  
+| bip_39_word_dash_6 | mandate-sun-chuckle-decline-plug-glow |  
+| bip_39_word_dash_7 | mandate-sun-chuckle-decline-plug-glow-accuse |  
+| bip_39_word_dash_8 | mandate-sun-chuckle-decline-plug-glow-accuse-soldier |  
+| bip_39_word_dash_9 | mandate-sun-chuckle-decline-plug-glow-accuse-soldier-exclude |  
 | bip_39_word_new_br_1 | mandate |  
 | bip_39_word_new_br_10 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier<br>exclude<br>talk |  
 | bip_39_word_new_br_11 | mandate<br>sun<br>chuckle<br>decline<br>plug<br>glow<br>accuse<br>soldier<br>exclude<br>talk<br>enjoy |  
@@ -147,6 +159,18 @@ exclude |
 | bip_39_word_space_7 | mandate sun chuckle decline plug glow accuse |  
 | bip_39_word_space_8 | mandate sun chuckle decline plug glow accuse soldier |  
 | bip_39_word_space_9 | mandate sun chuckle decline plug glow accuse soldier exclude |  
+| bip_39_word_underscore_1 | mandate |  
+| bip_39_word_underscore_10 | mandate_sun_chuckle_decline_plug_glow_accuse_soldier_exclude_talk |  
+| bip_39_word_underscore_11 | mandate_sun_chuckle_decline_plug_glow_accuse_soldier_exclude_talk_enjoy |  
+| bip_39_word_underscore_12 | mandate_sun_chuckle_decline_plug_glow_accuse_soldier_exclude_talk_enjoy_agent |  
+| bip_39_word_underscore_2 | mandate_sun |  
+| bip_39_word_underscore_3 | mandate_sun_chuckle |  
+| bip_39_word_underscore_4 | mandate_sun_chuckle_decline |  
+| bip_39_word_underscore_5 | mandate_sun_chuckle_decline_plug |  
+| bip_39_word_underscore_6 | mandate_sun_chuckle_decline_plug_glow |  
+| bip_39_word_underscore_7 | mandate_sun_chuckle_decline_plug_glow_accuse |  
+| bip_39_word_underscore_8 | mandate_sun_chuckle_decline_plug_glow_accuse_soldier |  
+| bip_39_word_underscore_9 | mandate_sun_chuckle_decline_plug_glow_accuse_soldier_exclude |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

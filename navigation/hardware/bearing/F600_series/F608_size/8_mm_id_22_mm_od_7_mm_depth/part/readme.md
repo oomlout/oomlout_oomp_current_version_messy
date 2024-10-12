@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stage |  
+| bip_39_word_dash_10 | stage-saddle-ginger-erase-upon-educate-naive-galaxy-copper-vocal |  
+| bip_39_word_dash_11 | stage-saddle-ginger-erase-upon-educate-naive-galaxy-copper-vocal-neglect |  
+| bip_39_word_dash_12 | stage-saddle-ginger-erase-upon-educate-naive-galaxy-copper-vocal-neglect-adult |  
+| bip_39_word_dash_2 | stage-saddle |  
+| bip_39_word_dash_3 | stage-saddle-ginger |  
+| bip_39_word_dash_4 | stage-saddle-ginger-erase |  
+| bip_39_word_dash_5 | stage-saddle-ginger-erase-upon |  
+| bip_39_word_dash_6 | stage-saddle-ginger-erase-upon-educate |  
+| bip_39_word_dash_7 | stage-saddle-ginger-erase-upon-educate-naive |  
+| bip_39_word_dash_8 | stage-saddle-ginger-erase-upon-educate-naive-galaxy |  
+| bip_39_word_dash_9 | stage-saddle-ginger-erase-upon-educate-naive-galaxy-copper |  
 | bip_39_word_new_br_1 | stage |  
 | bip_39_word_new_br_10 | stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal |  
 | bip_39_word_new_br_11 | stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal<br>neglect |  
@@ -147,6 +159,18 @@ copper |
 | bip_39_word_space_7 | stage saddle ginger erase upon educate naive |  
 | bip_39_word_space_8 | stage saddle ginger erase upon educate naive galaxy |  
 | bip_39_word_space_9 | stage saddle ginger erase upon educate naive galaxy copper |  
+| bip_39_word_underscore_1 | stage |  
+| bip_39_word_underscore_10 | stage_saddle_ginger_erase_upon_educate_naive_galaxy_copper_vocal |  
+| bip_39_word_underscore_11 | stage_saddle_ginger_erase_upon_educate_naive_galaxy_copper_vocal_neglect |  
+| bip_39_word_underscore_12 | stage_saddle_ginger_erase_upon_educate_naive_galaxy_copper_vocal_neglect_adult |  
+| bip_39_word_underscore_2 | stage_saddle |  
+| bip_39_word_underscore_3 | stage_saddle_ginger |  
+| bip_39_word_underscore_4 | stage_saddle_ginger_erase |  
+| bip_39_word_underscore_5 | stage_saddle_ginger_erase_upon |  
+| bip_39_word_underscore_6 | stage_saddle_ginger_erase_upon_educate |  
+| bip_39_word_underscore_7 | stage_saddle_ginger_erase_upon_educate_naive |  
+| bip_39_word_underscore_8 | stage_saddle_ginger_erase_upon_educate_naive_galaxy |  
+| bip_39_word_underscore_9 | stage_saddle_ginger_erase_upon_educate_naive_galaxy_copper |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

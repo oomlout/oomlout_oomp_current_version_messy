@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alley |  
+| bip_39_word_dash_10 | alley-curious-arch-topic-other-forget-afraid-script-dumb-diary |  
+| bip_39_word_dash_11 | alley-curious-arch-topic-other-forget-afraid-script-dumb-diary-blouse |  
+| bip_39_word_dash_12 | alley-curious-arch-topic-other-forget-afraid-script-dumb-diary-blouse-amount |  
+| bip_39_word_dash_2 | alley-curious |  
+| bip_39_word_dash_3 | alley-curious-arch |  
+| bip_39_word_dash_4 | alley-curious-arch-topic |  
+| bip_39_word_dash_5 | alley-curious-arch-topic-other |  
+| bip_39_word_dash_6 | alley-curious-arch-topic-other-forget |  
+| bip_39_word_dash_7 | alley-curious-arch-topic-other-forget-afraid |  
+| bip_39_word_dash_8 | alley-curious-arch-topic-other-forget-afraid-script |  
+| bip_39_word_dash_9 | alley-curious-arch-topic-other-forget-afraid-script-dumb |  
 | bip_39_word_new_br_1 | alley |  
 | bip_39_word_new_br_10 | alley<br>curious<br>arch<br>topic<br>other<br>forget<br>afraid<br>script<br>dumb<br>diary |  
 | bip_39_word_new_br_11 | alley<br>curious<br>arch<br>topic<br>other<br>forget<br>afraid<br>script<br>dumb<br>diary<br>blouse |  
@@ -147,6 +159,18 @@ dumb |
 | bip_39_word_space_7 | alley curious arch topic other forget afraid |  
 | bip_39_word_space_8 | alley curious arch topic other forget afraid script |  
 | bip_39_word_space_9 | alley curious arch topic other forget afraid script dumb |  
+| bip_39_word_underscore_1 | alley |  
+| bip_39_word_underscore_10 | alley_curious_arch_topic_other_forget_afraid_script_dumb_diary |  
+| bip_39_word_underscore_11 | alley_curious_arch_topic_other_forget_afraid_script_dumb_diary_blouse |  
+| bip_39_word_underscore_12 | alley_curious_arch_topic_other_forget_afraid_script_dumb_diary_blouse_amount |  
+| bip_39_word_underscore_2 | alley_curious |  
+| bip_39_word_underscore_3 | alley_curious_arch |  
+| bip_39_word_underscore_4 | alley_curious_arch_topic |  
+| bip_39_word_underscore_5 | alley_curious_arch_topic_other |  
+| bip_39_word_underscore_6 | alley_curious_arch_topic_other_forget |  
+| bip_39_word_underscore_7 | alley_curious_arch_topic_other_forget_afraid |  
+| bip_39_word_underscore_8 | alley_curious_arch_topic_other_forget_afraid_script |  
+| bip_39_word_underscore_9 | alley_curious_arch_topic_other_forget_afraid_script_dumb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

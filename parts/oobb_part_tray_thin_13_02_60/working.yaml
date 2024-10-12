@@ -1,3 +1,15 @@
+bip_39_word_dash_1: asthma
+bip_39_word_dash_10: asthma-tissue-vanish-wreck-rubber-multiply-tuna-giraffe-vibrant-fancy
+bip_39_word_dash_11: asthma-tissue-vanish-wreck-rubber-multiply-tuna-giraffe-vibrant-fancy-cloth
+bip_39_word_dash_12: asthma-tissue-vanish-wreck-rubber-multiply-tuna-giraffe-vibrant-fancy-cloth-art
+bip_39_word_dash_2: asthma-tissue
+bip_39_word_dash_3: asthma-tissue-vanish
+bip_39_word_dash_4: asthma-tissue-vanish-wreck
+bip_39_word_dash_5: asthma-tissue-vanish-wreck-rubber
+bip_39_word_dash_6: asthma-tissue-vanish-wreck-rubber-multiply
+bip_39_word_dash_7: asthma-tissue-vanish-wreck-rubber-multiply-tuna
+bip_39_word_dash_8: asthma-tissue-vanish-wreck-rubber-multiply-tuna-giraffe
+bip_39_word_dash_9: asthma-tissue-vanish-wreck-rubber-multiply-tuna-giraffe-vibrant
 bip_39_word_new_br_1: asthma
 bip_39_word_new_br_10: asthma<br>tissue<br>vanish<br>wreck<br>rubber<br>multiply<br>tuna<br>giraffe<br>vibrant<br>fancy
 bip_39_word_new_br_11: asthma<br>tissue<br>vanish<br>wreck<br>rubber<br>multiply<br>tuna<br>giraffe<br>vibrant<br>fancy<br>cloth
@@ -194,6 +206,18 @@ bip_39_word_space_6: asthma tissue vanish wreck rubber multiply
 bip_39_word_space_7: asthma tissue vanish wreck rubber multiply tuna
 bip_39_word_space_8: asthma tissue vanish wreck rubber multiply tuna giraffe
 bip_39_word_space_9: asthma tissue vanish wreck rubber multiply tuna giraffe vibrant
+bip_39_word_underscore_1: asthma
+bip_39_word_underscore_10: asthma_tissue_vanish_wreck_rubber_multiply_tuna_giraffe_vibrant_fancy
+bip_39_word_underscore_11: asthma_tissue_vanish_wreck_rubber_multiply_tuna_giraffe_vibrant_fancy_cloth
+bip_39_word_underscore_12: asthma_tissue_vanish_wreck_rubber_multiply_tuna_giraffe_vibrant_fancy_cloth_art
+bip_39_word_underscore_2: asthma_tissue
+bip_39_word_underscore_3: asthma_tissue_vanish
+bip_39_word_underscore_4: asthma_tissue_vanish_wreck
+bip_39_word_underscore_5: asthma_tissue_vanish_wreck_rubber
+bip_39_word_underscore_6: asthma_tissue_vanish_wreck_rubber_multiply
+bip_39_word_underscore_7: asthma_tissue_vanish_wreck_rubber_multiply_tuna
+bip_39_word_underscore_8: asthma_tissue_vanish_wreck_rubber_multiply_tuna_giraffe
+bip_39_word_underscore_9: asthma_tissue_vanish_wreck_rubber_multiply_tuna_giraffe_vibrant
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

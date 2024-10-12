@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cheese |  
+| bip_39_word_dash_10 | cheese-steak-obvious-process-bunker-canoe-wave-market-toss-ski |  
+| bip_39_word_dash_11 | cheese-steak-obvious-process-bunker-canoe-wave-market-toss-ski-use |  
+| bip_39_word_dash_12 | cheese-steak-obvious-process-bunker-canoe-wave-market-toss-ski-use-abuse |  
+| bip_39_word_dash_2 | cheese-steak |  
+| bip_39_word_dash_3 | cheese-steak-obvious |  
+| bip_39_word_dash_4 | cheese-steak-obvious-process |  
+| bip_39_word_dash_5 | cheese-steak-obvious-process-bunker |  
+| bip_39_word_dash_6 | cheese-steak-obvious-process-bunker-canoe |  
+| bip_39_word_dash_7 | cheese-steak-obvious-process-bunker-canoe-wave |  
+| bip_39_word_dash_8 | cheese-steak-obvious-process-bunker-canoe-wave-market |  
+| bip_39_word_dash_9 | cheese-steak-obvious-process-bunker-canoe-wave-market-toss |  
 | bip_39_word_new_br_1 | cheese |  
 | bip_39_word_new_br_10 | cheese<br>steak<br>obvious<br>process<br>bunker<br>canoe<br>wave<br>market<br>toss<br>ski |  
 | bip_39_word_new_br_11 | cheese<br>steak<br>obvious<br>process<br>bunker<br>canoe<br>wave<br>market<br>toss<br>ski<br>use |  
@@ -147,6 +159,18 @@ toss |
 | bip_39_word_space_7 | cheese steak obvious process bunker canoe wave |  
 | bip_39_word_space_8 | cheese steak obvious process bunker canoe wave market |  
 | bip_39_word_space_9 | cheese steak obvious process bunker canoe wave market toss |  
+| bip_39_word_underscore_1 | cheese |  
+| bip_39_word_underscore_10 | cheese_steak_obvious_process_bunker_canoe_wave_market_toss_ski |  
+| bip_39_word_underscore_11 | cheese_steak_obvious_process_bunker_canoe_wave_market_toss_ski_use |  
+| bip_39_word_underscore_12 | cheese_steak_obvious_process_bunker_canoe_wave_market_toss_ski_use_abuse |  
+| bip_39_word_underscore_2 | cheese_steak |  
+| bip_39_word_underscore_3 | cheese_steak_obvious |  
+| bip_39_word_underscore_4 | cheese_steak_obvious_process |  
+| bip_39_word_underscore_5 | cheese_steak_obvious_process_bunker |  
+| bip_39_word_underscore_6 | cheese_steak_obvious_process_bunker_canoe |  
+| bip_39_word_underscore_7 | cheese_steak_obvious_process_bunker_canoe_wave |  
+| bip_39_word_underscore_8 | cheese_steak_obvious_process_bunker_canoe_wave_market |  
+| bip_39_word_underscore_9 | cheese_steak_obvious_process_bunker_canoe_wave_market_toss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: country
+bip_39_word_dash_10: country-title-stay-undo-index-decline-twin-range-away-chronic
+bip_39_word_dash_11: country-title-stay-undo-index-decline-twin-range-away-chronic-enemy
+bip_39_word_dash_12: country-title-stay-undo-index-decline-twin-range-away-chronic-enemy-account
+bip_39_word_dash_2: country-title
+bip_39_word_dash_3: country-title-stay
+bip_39_word_dash_4: country-title-stay-undo
+bip_39_word_dash_5: country-title-stay-undo-index
+bip_39_word_dash_6: country-title-stay-undo-index-decline
+bip_39_word_dash_7: country-title-stay-undo-index-decline-twin
+bip_39_word_dash_8: country-title-stay-undo-index-decline-twin-range
+bip_39_word_dash_9: country-title-stay-undo-index-decline-twin-range-away
 bip_39_word_new_br_1: country
 bip_39_word_new_br_10: country<br>title<br>stay<br>undo<br>index<br>decline<br>twin<br>range<br>away<br>chronic
 bip_39_word_new_br_11: country<br>title<br>stay<br>undo<br>index<br>decline<br>twin<br>range<br>away<br>chronic<br>enemy
@@ -193,6 +205,18 @@ bip_39_word_space_6: country title stay undo index decline
 bip_39_word_space_7: country title stay undo index decline twin
 bip_39_word_space_8: country title stay undo index decline twin range
 bip_39_word_space_9: country title stay undo index decline twin range away
+bip_39_word_underscore_1: country
+bip_39_word_underscore_10: country_title_stay_undo_index_decline_twin_range_away_chronic
+bip_39_word_underscore_11: country_title_stay_undo_index_decline_twin_range_away_chronic_enemy
+bip_39_word_underscore_12: country_title_stay_undo_index_decline_twin_range_away_chronic_enemy_account
+bip_39_word_underscore_2: country_title
+bip_39_word_underscore_3: country_title_stay
+bip_39_word_underscore_4: country_title_stay_undo
+bip_39_word_underscore_5: country_title_stay_undo_index
+bip_39_word_underscore_6: country_title_stay_undo_index_decline
+bip_39_word_underscore_7: country_title_stay_undo_index_decline_twin
+bip_39_word_underscore_8: country_title_stay_undo_index_decline_twin_range
+bip_39_word_underscore_9: country_title_stay_undo_index_decline_twin_range_away
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

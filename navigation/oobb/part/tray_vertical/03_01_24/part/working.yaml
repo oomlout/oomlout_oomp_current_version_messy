@@ -1,3 +1,15 @@
+bip_39_word_dash_1: boat
+bip_39_word_dash_10: boat-conduct-dignity-acid-hammer-then-lava-focus-rice-panel
+bip_39_word_dash_11: boat-conduct-dignity-acid-hammer-then-lava-focus-rice-panel-travel
+bip_39_word_dash_12: boat-conduct-dignity-acid-hammer-then-lava-focus-rice-panel-travel-across
+bip_39_word_dash_2: boat-conduct
+bip_39_word_dash_3: boat-conduct-dignity
+bip_39_word_dash_4: boat-conduct-dignity-acid
+bip_39_word_dash_5: boat-conduct-dignity-acid-hammer
+bip_39_word_dash_6: boat-conduct-dignity-acid-hammer-then
+bip_39_word_dash_7: boat-conduct-dignity-acid-hammer-then-lava
+bip_39_word_dash_8: boat-conduct-dignity-acid-hammer-then-lava-focus
+bip_39_word_dash_9: boat-conduct-dignity-acid-hammer-then-lava-focus-rice
 bip_39_word_new_br_1: boat
 bip_39_word_new_br_10: boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel
 bip_39_word_new_br_11: boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel<br>travel
@@ -193,6 +205,18 @@ bip_39_word_space_6: boat conduct dignity acid hammer then
 bip_39_word_space_7: boat conduct dignity acid hammer then lava
 bip_39_word_space_8: boat conduct dignity acid hammer then lava focus
 bip_39_word_space_9: boat conduct dignity acid hammer then lava focus rice
+bip_39_word_underscore_1: boat
+bip_39_word_underscore_10: boat_conduct_dignity_acid_hammer_then_lava_focus_rice_panel
+bip_39_word_underscore_11: boat_conduct_dignity_acid_hammer_then_lava_focus_rice_panel_travel
+bip_39_word_underscore_12: boat_conduct_dignity_acid_hammer_then_lava_focus_rice_panel_travel_across
+bip_39_word_underscore_2: boat_conduct
+bip_39_word_underscore_3: boat_conduct_dignity
+bip_39_word_underscore_4: boat_conduct_dignity_acid
+bip_39_word_underscore_5: boat_conduct_dignity_acid_hammer
+bip_39_word_underscore_6: boat_conduct_dignity_acid_hammer_then
+bip_39_word_underscore_7: boat_conduct_dignity_acid_hammer_then_lava
+bip_39_word_underscore_8: boat_conduct_dignity_acid_hammer_then_lava_focus
+bip_39_word_underscore_9: boat_conduct_dignity_acid_hammer_then_lava_focus_rice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

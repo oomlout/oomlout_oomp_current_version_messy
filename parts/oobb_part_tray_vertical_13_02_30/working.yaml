@@ -1,3 +1,15 @@
+bip_39_word_dash_1: salad
+bip_39_word_dash_10: salad-street-social-inhale-melt-harbor-purse-initial-jelly-multiply
+bip_39_word_dash_11: salad-street-social-inhale-melt-harbor-purse-initial-jelly-multiply-theory
+bip_39_word_dash_12: salad-street-social-inhale-melt-harbor-purse-initial-jelly-multiply-theory-apple
+bip_39_word_dash_2: salad-street
+bip_39_word_dash_3: salad-street-social
+bip_39_word_dash_4: salad-street-social-inhale
+bip_39_word_dash_5: salad-street-social-inhale-melt
+bip_39_word_dash_6: salad-street-social-inhale-melt-harbor
+bip_39_word_dash_7: salad-street-social-inhale-melt-harbor-purse
+bip_39_word_dash_8: salad-street-social-inhale-melt-harbor-purse-initial
+bip_39_word_dash_9: salad-street-social-inhale-melt-harbor-purse-initial-jelly
 bip_39_word_new_br_1: salad
 bip_39_word_new_br_10: salad<br>street<br>social<br>inhale<br>melt<br>harbor<br>purse<br>initial<br>jelly<br>multiply
 bip_39_word_new_br_11: salad<br>street<br>social<br>inhale<br>melt<br>harbor<br>purse<br>initial<br>jelly<br>multiply<br>theory
@@ -193,6 +205,18 @@ bip_39_word_space_6: salad street social inhale melt harbor
 bip_39_word_space_7: salad street social inhale melt harbor purse
 bip_39_word_space_8: salad street social inhale melt harbor purse initial
 bip_39_word_space_9: salad street social inhale melt harbor purse initial jelly
+bip_39_word_underscore_1: salad
+bip_39_word_underscore_10: salad_street_social_inhale_melt_harbor_purse_initial_jelly_multiply
+bip_39_word_underscore_11: salad_street_social_inhale_melt_harbor_purse_initial_jelly_multiply_theory
+bip_39_word_underscore_12: salad_street_social_inhale_melt_harbor_purse_initial_jelly_multiply_theory_apple
+bip_39_word_underscore_2: salad_street
+bip_39_word_underscore_3: salad_street_social
+bip_39_word_underscore_4: salad_street_social_inhale
+bip_39_word_underscore_5: salad_street_social_inhale_melt
+bip_39_word_underscore_6: salad_street_social_inhale_melt_harbor
+bip_39_word_underscore_7: salad_street_social_inhale_melt_harbor_purse
+bip_39_word_underscore_8: salad_street_social_inhale_melt_harbor_purse_initial
+bip_39_word_underscore_9: salad_street_social_inhale_melt_harbor_purse_initial_jelly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | behave |  
+| bip_39_word_dash_10 | behave-comic-client-matter-laptop-already-lawsuit-utility-life-item |  
+| bip_39_word_dash_11 | behave-comic-client-matter-laptop-already-lawsuit-utility-life-item-base |  
+| bip_39_word_dash_12 | behave-comic-client-matter-laptop-already-lawsuit-utility-life-item-base-artist |  
+| bip_39_word_dash_2 | behave-comic |  
+| bip_39_word_dash_3 | behave-comic-client |  
+| bip_39_word_dash_4 | behave-comic-client-matter |  
+| bip_39_word_dash_5 | behave-comic-client-matter-laptop |  
+| bip_39_word_dash_6 | behave-comic-client-matter-laptop-already |  
+| bip_39_word_dash_7 | behave-comic-client-matter-laptop-already-lawsuit |  
+| bip_39_word_dash_8 | behave-comic-client-matter-laptop-already-lawsuit-utility |  
+| bip_39_word_dash_9 | behave-comic-client-matter-laptop-already-lawsuit-utility-life |  
 | bip_39_word_new_br_1 | behave |  
 | bip_39_word_new_br_10 | behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility<br>life<br>item |  
 | bip_39_word_new_br_11 | behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility<br>life<br>item<br>base |  
@@ -147,6 +159,18 @@ life |
 | bip_39_word_space_7 | behave comic client matter laptop already lawsuit |  
 | bip_39_word_space_8 | behave comic client matter laptop already lawsuit utility |  
 | bip_39_word_space_9 | behave comic client matter laptop already lawsuit utility life |  
+| bip_39_word_underscore_1 | behave |  
+| bip_39_word_underscore_10 | behave_comic_client_matter_laptop_already_lawsuit_utility_life_item |  
+| bip_39_word_underscore_11 | behave_comic_client_matter_laptop_already_lawsuit_utility_life_item_base |  
+| bip_39_word_underscore_12 | behave_comic_client_matter_laptop_already_lawsuit_utility_life_item_base_artist |  
+| bip_39_word_underscore_2 | behave_comic |  
+| bip_39_word_underscore_3 | behave_comic_client |  
+| bip_39_word_underscore_4 | behave_comic_client_matter |  
+| bip_39_word_underscore_5 | behave_comic_client_matter_laptop |  
+| bip_39_word_underscore_6 | behave_comic_client_matter_laptop_already |  
+| bip_39_word_underscore_7 | behave_comic_client_matter_laptop_already_lawsuit |  
+| bip_39_word_underscore_8 | behave_comic_client_matter_laptop_already_lawsuit_utility |  
+| bip_39_word_underscore_9 | behave_comic_client_matter_laptop_already_lawsuit_utility_life |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

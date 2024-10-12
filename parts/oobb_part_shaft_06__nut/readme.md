@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clean |  
+| bip_39_word_dash_10 | clean-emotion-love-asset-helmet-royal-suspect-steak-town-call |  
+| bip_39_word_dash_11 | clean-emotion-love-asset-helmet-royal-suspect-steak-town-call-suggest |  
+| bip_39_word_dash_12 | clean-emotion-love-asset-helmet-royal-suspect-steak-town-call-suggest-ankle |  
+| bip_39_word_dash_2 | clean-emotion |  
+| bip_39_word_dash_3 | clean-emotion-love |  
+| bip_39_word_dash_4 | clean-emotion-love-asset |  
+| bip_39_word_dash_5 | clean-emotion-love-asset-helmet |  
+| bip_39_word_dash_6 | clean-emotion-love-asset-helmet-royal |  
+| bip_39_word_dash_7 | clean-emotion-love-asset-helmet-royal-suspect |  
+| bip_39_word_dash_8 | clean-emotion-love-asset-helmet-royal-suspect-steak |  
+| bip_39_word_dash_9 | clean-emotion-love-asset-helmet-royal-suspect-steak-town |  
 | bip_39_word_new_br_1 | clean |  
 | bip_39_word_new_br_10 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call |  
 | bip_39_word_new_br_11 | clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call<br>suggest |  
@@ -147,6 +159,18 @@ town |
 | bip_39_word_space_7 | clean emotion love asset helmet royal suspect |  
 | bip_39_word_space_8 | clean emotion love asset helmet royal suspect steak |  
 | bip_39_word_space_9 | clean emotion love asset helmet royal suspect steak town |  
+| bip_39_word_underscore_1 | clean |  
+| bip_39_word_underscore_10 | clean_emotion_love_asset_helmet_royal_suspect_steak_town_call |  
+| bip_39_word_underscore_11 | clean_emotion_love_asset_helmet_royal_suspect_steak_town_call_suggest |  
+| bip_39_word_underscore_12 | clean_emotion_love_asset_helmet_royal_suspect_steak_town_call_suggest_ankle |  
+| bip_39_word_underscore_2 | clean_emotion |  
+| bip_39_word_underscore_3 | clean_emotion_love |  
+| bip_39_word_underscore_4 | clean_emotion_love_asset |  
+| bip_39_word_underscore_5 | clean_emotion_love_asset_helmet |  
+| bip_39_word_underscore_6 | clean_emotion_love_asset_helmet_royal |  
+| bip_39_word_underscore_7 | clean_emotion_love_asset_helmet_royal_suspect |  
+| bip_39_word_underscore_8 | clean_emotion_love_asset_helmet_royal_suspect_steak |  
+| bip_39_word_underscore_9 | clean_emotion_love_asset_helmet_royal_suspect_steak_town |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

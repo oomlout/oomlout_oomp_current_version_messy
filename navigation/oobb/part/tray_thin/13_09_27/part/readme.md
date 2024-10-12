@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | edge |  
+| bip_39_word_dash_10 | edge-icon-monster-bargain-liberty-distance-crane-major-lava-sun |  
+| bip_39_word_dash_11 | edge-icon-monster-bargain-liberty-distance-crane-major-lava-sun-retreat |  
+| bip_39_word_dash_12 | edge-icon-monster-bargain-liberty-distance-crane-major-lava-sun-retreat-attack |  
+| bip_39_word_dash_2 | edge-icon |  
+| bip_39_word_dash_3 | edge-icon-monster |  
+| bip_39_word_dash_4 | edge-icon-monster-bargain |  
+| bip_39_word_dash_5 | edge-icon-monster-bargain-liberty |  
+| bip_39_word_dash_6 | edge-icon-monster-bargain-liberty-distance |  
+| bip_39_word_dash_7 | edge-icon-monster-bargain-liberty-distance-crane |  
+| bip_39_word_dash_8 | edge-icon-monster-bargain-liberty-distance-crane-major |  
+| bip_39_word_dash_9 | edge-icon-monster-bargain-liberty-distance-crane-major-lava |  
 | bip_39_word_new_br_1 | edge |  
 | bip_39_word_new_br_10 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major<br>lava<br>sun |  
 | bip_39_word_new_br_11 | edge<br>icon<br>monster<br>bargain<br>liberty<br>distance<br>crane<br>major<br>lava<br>sun<br>retreat |  
@@ -147,6 +159,18 @@ lava |
 | bip_39_word_space_7 | edge icon monster bargain liberty distance crane |  
 | bip_39_word_space_8 | edge icon monster bargain liberty distance crane major |  
 | bip_39_word_space_9 | edge icon monster bargain liberty distance crane major lava |  
+| bip_39_word_underscore_1 | edge |  
+| bip_39_word_underscore_10 | edge_icon_monster_bargain_liberty_distance_crane_major_lava_sun |  
+| bip_39_word_underscore_11 | edge_icon_monster_bargain_liberty_distance_crane_major_lava_sun_retreat |  
+| bip_39_word_underscore_12 | edge_icon_monster_bargain_liberty_distance_crane_major_lava_sun_retreat_attack |  
+| bip_39_word_underscore_2 | edge_icon |  
+| bip_39_word_underscore_3 | edge_icon_monster |  
+| bip_39_word_underscore_4 | edge_icon_monster_bargain |  
+| bip_39_word_underscore_5 | edge_icon_monster_bargain_liberty |  
+| bip_39_word_underscore_6 | edge_icon_monster_bargain_liberty_distance |  
+| bip_39_word_underscore_7 | edge_icon_monster_bargain_liberty_distance_crane |  
+| bip_39_word_underscore_8 | edge_icon_monster_bargain_liberty_distance_crane_major |  
+| bip_39_word_underscore_9 | edge_icon_monster_bargain_liberty_distance_crane_major_lava |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | runway |  
+| bip_39_word_dash_10 | runway-material-bird-fall-brother-erode-pizza-language-edge-shoulder |  
+| bip_39_word_dash_11 | runway-material-bird-fall-brother-erode-pizza-language-edge-shoulder-paddle |  
+| bip_39_word_dash_12 | runway-material-bird-fall-brother-erode-pizza-language-edge-shoulder-paddle-always |  
+| bip_39_word_dash_2 | runway-material |  
+| bip_39_word_dash_3 | runway-material-bird |  
+| bip_39_word_dash_4 | runway-material-bird-fall |  
+| bip_39_word_dash_5 | runway-material-bird-fall-brother |  
+| bip_39_word_dash_6 | runway-material-bird-fall-brother-erode |  
+| bip_39_word_dash_7 | runway-material-bird-fall-brother-erode-pizza |  
+| bip_39_word_dash_8 | runway-material-bird-fall-brother-erode-pizza-language |  
+| bip_39_word_dash_9 | runway-material-bird-fall-brother-erode-pizza-language-edge |  
 | bip_39_word_new_br_1 | runway |  
 | bip_39_word_new_br_10 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language<br>edge<br>shoulder |  
 | bip_39_word_new_br_11 | runway<br>material<br>bird<br>fall<br>brother<br>erode<br>pizza<br>language<br>edge<br>shoulder<br>paddle |  
@@ -147,6 +159,18 @@ edge |
 | bip_39_word_space_7 | runway material bird fall brother erode pizza |  
 | bip_39_word_space_8 | runway material bird fall brother erode pizza language |  
 | bip_39_word_space_9 | runway material bird fall brother erode pizza language edge |  
+| bip_39_word_underscore_1 | runway |  
+| bip_39_word_underscore_10 | runway_material_bird_fall_brother_erode_pizza_language_edge_shoulder |  
+| bip_39_word_underscore_11 | runway_material_bird_fall_brother_erode_pizza_language_edge_shoulder_paddle |  
+| bip_39_word_underscore_12 | runway_material_bird_fall_brother_erode_pizza_language_edge_shoulder_paddle_always |  
+| bip_39_word_underscore_2 | runway_material |  
+| bip_39_word_underscore_3 | runway_material_bird |  
+| bip_39_word_underscore_4 | runway_material_bird_fall |  
+| bip_39_word_underscore_5 | runway_material_bird_fall_brother |  
+| bip_39_word_underscore_6 | runway_material_bird_fall_brother_erode |  
+| bip_39_word_underscore_7 | runway_material_bird_fall_brother_erode_pizza |  
+| bip_39_word_underscore_8 | runway_material_bird_fall_brother_erode_pizza_language |  
+| bip_39_word_underscore_9 | runway_material_bird_fall_brother_erode_pizza_language_edge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | excess |  
+| bip_39_word_dash_10 | excess-stereo-parent-fiscal-arch-alone-tunnel-ill-mixed-doctor |  
+| bip_39_word_dash_11 | excess-stereo-parent-fiscal-arch-alone-tunnel-ill-mixed-doctor-grape |  
+| bip_39_word_dash_12 | excess-stereo-parent-fiscal-arch-alone-tunnel-ill-mixed-doctor-grape-accident |  
+| bip_39_word_dash_2 | excess-stereo |  
+| bip_39_word_dash_3 | excess-stereo-parent |  
+| bip_39_word_dash_4 | excess-stereo-parent-fiscal |  
+| bip_39_word_dash_5 | excess-stereo-parent-fiscal-arch |  
+| bip_39_word_dash_6 | excess-stereo-parent-fiscal-arch-alone |  
+| bip_39_word_dash_7 | excess-stereo-parent-fiscal-arch-alone-tunnel |  
+| bip_39_word_dash_8 | excess-stereo-parent-fiscal-arch-alone-tunnel-ill |  
+| bip_39_word_dash_9 | excess-stereo-parent-fiscal-arch-alone-tunnel-ill-mixed |  
 | bip_39_word_new_br_1 | excess |  
 | bip_39_word_new_br_10 | excess<br>stereo<br>parent<br>fiscal<br>arch<br>alone<br>tunnel<br>ill<br>mixed<br>doctor |  
 | bip_39_word_new_br_11 | excess<br>stereo<br>parent<br>fiscal<br>arch<br>alone<br>tunnel<br>ill<br>mixed<br>doctor<br>grape |  
@@ -147,6 +159,18 @@ mixed |
 | bip_39_word_space_7 | excess stereo parent fiscal arch alone tunnel |  
 | bip_39_word_space_8 | excess stereo parent fiscal arch alone tunnel ill |  
 | bip_39_word_space_9 | excess stereo parent fiscal arch alone tunnel ill mixed |  
+| bip_39_word_underscore_1 | excess |  
+| bip_39_word_underscore_10 | excess_stereo_parent_fiscal_arch_alone_tunnel_ill_mixed_doctor |  
+| bip_39_word_underscore_11 | excess_stereo_parent_fiscal_arch_alone_tunnel_ill_mixed_doctor_grape |  
+| bip_39_word_underscore_12 | excess_stereo_parent_fiscal_arch_alone_tunnel_ill_mixed_doctor_grape_accident |  
+| bip_39_word_underscore_2 | excess_stereo |  
+| bip_39_word_underscore_3 | excess_stereo_parent |  
+| bip_39_word_underscore_4 | excess_stereo_parent_fiscal |  
+| bip_39_word_underscore_5 | excess_stereo_parent_fiscal_arch |  
+| bip_39_word_underscore_6 | excess_stereo_parent_fiscal_arch_alone |  
+| bip_39_word_underscore_7 | excess_stereo_parent_fiscal_arch_alone_tunnel |  
+| bip_39_word_underscore_8 | excess_stereo_parent_fiscal_arch_alone_tunnel_ill |  
+| bip_39_word_underscore_9 | excess_stereo_parent_fiscal_arch_alone_tunnel_ill_mixed |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

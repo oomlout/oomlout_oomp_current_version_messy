@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gift |  
+| bip_39_word_dash_10 | gift-illegal-column-thunder-tube-cliff-develop-fruit-typical-mirror |  
+| bip_39_word_dash_11 | gift-illegal-column-thunder-tube-cliff-develop-fruit-typical-mirror-mule |  
+| bip_39_word_dash_12 | gift-illegal-column-thunder-tube-cliff-develop-fruit-typical-mirror-mule-abstract |  
+| bip_39_word_dash_2 | gift-illegal |  
+| bip_39_word_dash_3 | gift-illegal-column |  
+| bip_39_word_dash_4 | gift-illegal-column-thunder |  
+| bip_39_word_dash_5 | gift-illegal-column-thunder-tube |  
+| bip_39_word_dash_6 | gift-illegal-column-thunder-tube-cliff |  
+| bip_39_word_dash_7 | gift-illegal-column-thunder-tube-cliff-develop |  
+| bip_39_word_dash_8 | gift-illegal-column-thunder-tube-cliff-develop-fruit |  
+| bip_39_word_dash_9 | gift-illegal-column-thunder-tube-cliff-develop-fruit-typical |  
 | bip_39_word_new_br_1 | gift |  
 | bip_39_word_new_br_10 | gift<br>illegal<br>column<br>thunder<br>tube<br>cliff<br>develop<br>fruit<br>typical<br>mirror |  
 | bip_39_word_new_br_11 | gift<br>illegal<br>column<br>thunder<br>tube<br>cliff<br>develop<br>fruit<br>typical<br>mirror<br>mule |  
@@ -147,6 +159,18 @@ typical |
 | bip_39_word_space_7 | gift illegal column thunder tube cliff develop |  
 | bip_39_word_space_8 | gift illegal column thunder tube cliff develop fruit |  
 | bip_39_word_space_9 | gift illegal column thunder tube cliff develop fruit typical |  
+| bip_39_word_underscore_1 | gift |  
+| bip_39_word_underscore_10 | gift_illegal_column_thunder_tube_cliff_develop_fruit_typical_mirror |  
+| bip_39_word_underscore_11 | gift_illegal_column_thunder_tube_cliff_develop_fruit_typical_mirror_mule |  
+| bip_39_word_underscore_12 | gift_illegal_column_thunder_tube_cliff_develop_fruit_typical_mirror_mule_abstract |  
+| bip_39_word_underscore_2 | gift_illegal |  
+| bip_39_word_underscore_3 | gift_illegal_column |  
+| bip_39_word_underscore_4 | gift_illegal_column_thunder |  
+| bip_39_word_underscore_5 | gift_illegal_column_thunder_tube |  
+| bip_39_word_underscore_6 | gift_illegal_column_thunder_tube_cliff |  
+| bip_39_word_underscore_7 | gift_illegal_column_thunder_tube_cliff_develop |  
+| bip_39_word_underscore_8 | gift_illegal_column_thunder_tube_cliff_develop_fruit |  
+| bip_39_word_underscore_9 | gift_illegal_column_thunder_tube_cliff_develop_fruit_typical |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

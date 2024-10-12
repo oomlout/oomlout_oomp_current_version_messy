@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | foil |  
+| bip_39_word_dash_10 | foil-police-minute-one-useful-cement-live-build-fiscal-girl |  
+| bip_39_word_dash_11 | foil-police-minute-one-useful-cement-live-build-fiscal-girl-random |  
+| bip_39_word_dash_12 | foil-police-minute-one-useful-cement-live-build-fiscal-girl-random-alarm |  
+| bip_39_word_dash_2 | foil-police |  
+| bip_39_word_dash_3 | foil-police-minute |  
+| bip_39_word_dash_4 | foil-police-minute-one |  
+| bip_39_word_dash_5 | foil-police-minute-one-useful |  
+| bip_39_word_dash_6 | foil-police-minute-one-useful-cement |  
+| bip_39_word_dash_7 | foil-police-minute-one-useful-cement-live |  
+| bip_39_word_dash_8 | foil-police-minute-one-useful-cement-live-build |  
+| bip_39_word_dash_9 | foil-police-minute-one-useful-cement-live-build-fiscal |  
 | bip_39_word_new_br_1 | foil |  
 | bip_39_word_new_br_10 | foil<br>police<br>minute<br>one<br>useful<br>cement<br>live<br>build<br>fiscal<br>girl |  
 | bip_39_word_new_br_11 | foil<br>police<br>minute<br>one<br>useful<br>cement<br>live<br>build<br>fiscal<br>girl<br>random |  
@@ -147,6 +159,18 @@ fiscal |
 | bip_39_word_space_7 | foil police minute one useful cement live |  
 | bip_39_word_space_8 | foil police minute one useful cement live build |  
 | bip_39_word_space_9 | foil police minute one useful cement live build fiscal |  
+| bip_39_word_underscore_1 | foil |  
+| bip_39_word_underscore_10 | foil_police_minute_one_useful_cement_live_build_fiscal_girl |  
+| bip_39_word_underscore_11 | foil_police_minute_one_useful_cement_live_build_fiscal_girl_random |  
+| bip_39_word_underscore_12 | foil_police_minute_one_useful_cement_live_build_fiscal_girl_random_alarm |  
+| bip_39_word_underscore_2 | foil_police |  
+| bip_39_word_underscore_3 | foil_police_minute |  
+| bip_39_word_underscore_4 | foil_police_minute_one |  
+| bip_39_word_underscore_5 | foil_police_minute_one_useful |  
+| bip_39_word_underscore_6 | foil_police_minute_one_useful_cement |  
+| bip_39_word_underscore_7 | foil_police_minute_one_useful_cement_live |  
+| bip_39_word_underscore_8 | foil_police_minute_one_useful_cement_live_build |  
+| bip_39_word_underscore_9 | foil_police_minute_one_useful_cement_live_build_fiscal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

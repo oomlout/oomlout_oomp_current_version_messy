@@ -1,3 +1,15 @@
+bip_39_word_dash_1: novel
+bip_39_word_dash_10: novel-orchard-echo-rhythm-galaxy-cool-party-brief-improve-wage
+bip_39_word_dash_11: novel-orchard-echo-rhythm-galaxy-cool-party-brief-improve-wage-stomach
+bip_39_word_dash_12: novel-orchard-echo-rhythm-galaxy-cool-party-brief-improve-wage-stomach-abstract
+bip_39_word_dash_2: novel-orchard
+bip_39_word_dash_3: novel-orchard-echo
+bip_39_word_dash_4: novel-orchard-echo-rhythm
+bip_39_word_dash_5: novel-orchard-echo-rhythm-galaxy
+bip_39_word_dash_6: novel-orchard-echo-rhythm-galaxy-cool
+bip_39_word_dash_7: novel-orchard-echo-rhythm-galaxy-cool-party
+bip_39_word_dash_8: novel-orchard-echo-rhythm-galaxy-cool-party-brief
+bip_39_word_dash_9: novel-orchard-echo-rhythm-galaxy-cool-party-brief-improve
 bip_39_word_new_br_1: novel
 bip_39_word_new_br_10: novel<br>orchard<br>echo<br>rhythm<br>galaxy<br>cool<br>party<br>brief<br>improve<br>wage
 bip_39_word_new_br_11: novel<br>orchard<br>echo<br>rhythm<br>galaxy<br>cool<br>party<br>brief<br>improve<br>wage<br>stomach
@@ -193,6 +205,18 @@ bip_39_word_space_6: novel orchard echo rhythm galaxy cool
 bip_39_word_space_7: novel orchard echo rhythm galaxy cool party
 bip_39_word_space_8: novel orchard echo rhythm galaxy cool party brief
 bip_39_word_space_9: novel orchard echo rhythm galaxy cool party brief improve
+bip_39_word_underscore_1: novel
+bip_39_word_underscore_10: novel_orchard_echo_rhythm_galaxy_cool_party_brief_improve_wage
+bip_39_word_underscore_11: novel_orchard_echo_rhythm_galaxy_cool_party_brief_improve_wage_stomach
+bip_39_word_underscore_12: novel_orchard_echo_rhythm_galaxy_cool_party_brief_improve_wage_stomach_abstract
+bip_39_word_underscore_2: novel_orchard
+bip_39_word_underscore_3: novel_orchard_echo
+bip_39_word_underscore_4: novel_orchard_echo_rhythm
+bip_39_word_underscore_5: novel_orchard_echo_rhythm_galaxy
+bip_39_word_underscore_6: novel_orchard_echo_rhythm_galaxy_cool
+bip_39_word_underscore_7: novel_orchard_echo_rhythm_galaxy_cool_party
+bip_39_word_underscore_8: novel_orchard_echo_rhythm_galaxy_cool_party_brief
+bip_39_word_underscore_9: novel_orchard_echo_rhythm_galaxy_cool_party_brief_improve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

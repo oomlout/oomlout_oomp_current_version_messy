@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exercise |  
+| bip_39_word_dash_10 | exercise-awesome-truth-awful-finish-claim-solve-trial-wheat-scorpion |  
+| bip_39_word_dash_11 | exercise-awesome-truth-awful-finish-claim-solve-trial-wheat-scorpion-woman |  
+| bip_39_word_dash_12 | exercise-awesome-truth-awful-finish-claim-solve-trial-wheat-scorpion-woman-act |  
+| bip_39_word_dash_2 | exercise-awesome |  
+| bip_39_word_dash_3 | exercise-awesome-truth |  
+| bip_39_word_dash_4 | exercise-awesome-truth-awful |  
+| bip_39_word_dash_5 | exercise-awesome-truth-awful-finish |  
+| bip_39_word_dash_6 | exercise-awesome-truth-awful-finish-claim |  
+| bip_39_word_dash_7 | exercise-awesome-truth-awful-finish-claim-solve |  
+| bip_39_word_dash_8 | exercise-awesome-truth-awful-finish-claim-solve-trial |  
+| bip_39_word_dash_9 | exercise-awesome-truth-awful-finish-claim-solve-trial-wheat |  
 | bip_39_word_new_br_1 | exercise |  
 | bip_39_word_new_br_10 | exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial<br>wheat<br>scorpion |  
 | bip_39_word_new_br_11 | exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial<br>wheat<br>scorpion<br>woman |  
@@ -147,6 +159,18 @@ wheat |
 | bip_39_word_space_7 | exercise awesome truth awful finish claim solve |  
 | bip_39_word_space_8 | exercise awesome truth awful finish claim solve trial |  
 | bip_39_word_space_9 | exercise awesome truth awful finish claim solve trial wheat |  
+| bip_39_word_underscore_1 | exercise |  
+| bip_39_word_underscore_10 | exercise_awesome_truth_awful_finish_claim_solve_trial_wheat_scorpion |  
+| bip_39_word_underscore_11 | exercise_awesome_truth_awful_finish_claim_solve_trial_wheat_scorpion_woman |  
+| bip_39_word_underscore_12 | exercise_awesome_truth_awful_finish_claim_solve_trial_wheat_scorpion_woman_act |  
+| bip_39_word_underscore_2 | exercise_awesome |  
+| bip_39_word_underscore_3 | exercise_awesome_truth |  
+| bip_39_word_underscore_4 | exercise_awesome_truth_awful |  
+| bip_39_word_underscore_5 | exercise_awesome_truth_awful_finish |  
+| bip_39_word_underscore_6 | exercise_awesome_truth_awful_finish_claim |  
+| bip_39_word_underscore_7 | exercise_awesome_truth_awful_finish_claim_solve |  
+| bip_39_word_underscore_8 | exercise_awesome_truth_awful_finish_claim_solve_trial |  
+| bip_39_word_underscore_9 | exercise_awesome_truth_awful_finish_claim_solve_trial_wheat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

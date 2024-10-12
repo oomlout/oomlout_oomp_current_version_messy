@@ -1,3 +1,15 @@
+bip_39_word_dash_1: often
+bip_39_word_dash_10: often-festival-song-tired-identify-parade-comic-kiwi-find-maple
+bip_39_word_dash_11: often-festival-song-tired-identify-parade-comic-kiwi-find-maple-amount
+bip_39_word_dash_12: often-festival-song-tired-identify-parade-comic-kiwi-find-maple-amount-alarm
+bip_39_word_dash_2: often-festival
+bip_39_word_dash_3: often-festival-song
+bip_39_word_dash_4: often-festival-song-tired
+bip_39_word_dash_5: often-festival-song-tired-identify
+bip_39_word_dash_6: often-festival-song-tired-identify-parade
+bip_39_word_dash_7: often-festival-song-tired-identify-parade-comic
+bip_39_word_dash_8: often-festival-song-tired-identify-parade-comic-kiwi
+bip_39_word_dash_9: often-festival-song-tired-identify-parade-comic-kiwi-find
 bip_39_word_new_br_1: often
 bip_39_word_new_br_10: often<br>festival<br>song<br>tired<br>identify<br>parade<br>comic<br>kiwi<br>find<br>maple
 bip_39_word_new_br_11: often<br>festival<br>song<br>tired<br>identify<br>parade<br>comic<br>kiwi<br>find<br>maple<br>amount
@@ -193,6 +205,18 @@ bip_39_word_space_6: often festival song tired identify parade
 bip_39_word_space_7: often festival song tired identify parade comic
 bip_39_word_space_8: often festival song tired identify parade comic kiwi
 bip_39_word_space_9: often festival song tired identify parade comic kiwi find
+bip_39_word_underscore_1: often
+bip_39_word_underscore_10: often_festival_song_tired_identify_parade_comic_kiwi_find_maple
+bip_39_word_underscore_11: often_festival_song_tired_identify_parade_comic_kiwi_find_maple_amount
+bip_39_word_underscore_12: often_festival_song_tired_identify_parade_comic_kiwi_find_maple_amount_alarm
+bip_39_word_underscore_2: often_festival
+bip_39_word_underscore_3: often_festival_song
+bip_39_word_underscore_4: often_festival_song_tired
+bip_39_word_underscore_5: often_festival_song_tired_identify
+bip_39_word_underscore_6: often_festival_song_tired_identify_parade
+bip_39_word_underscore_7: often_festival_song_tired_identify_parade_comic
+bip_39_word_underscore_8: often_festival_song_tired_identify_parade_comic_kiwi
+bip_39_word_underscore_9: often_festival_song_tired_identify_parade_comic_kiwi_find
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

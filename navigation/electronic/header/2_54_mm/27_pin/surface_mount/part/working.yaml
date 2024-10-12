@@ -1,3 +1,15 @@
+bip_39_word_dash_1: noise
+bip_39_word_dash_10: noise-region-alpha-soul-sand-around-lonely-climb-fold-edge
+bip_39_word_dash_11: noise-region-alpha-soul-sand-around-lonely-climb-fold-edge-nest
+bip_39_word_dash_12: noise-region-alpha-soul-sand-around-lonely-climb-fold-edge-nest-amateur
+bip_39_word_dash_2: noise-region
+bip_39_word_dash_3: noise-region-alpha
+bip_39_word_dash_4: noise-region-alpha-soul
+bip_39_word_dash_5: noise-region-alpha-soul-sand
+bip_39_word_dash_6: noise-region-alpha-soul-sand-around
+bip_39_word_dash_7: noise-region-alpha-soul-sand-around-lonely
+bip_39_word_dash_8: noise-region-alpha-soul-sand-around-lonely-climb
+bip_39_word_dash_9: noise-region-alpha-soul-sand-around-lonely-climb-fold
 bip_39_word_new_br_1: noise
 bip_39_word_new_br_10: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge
 bip_39_word_new_br_11: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge<br>nest
@@ -192,6 +204,18 @@ bip_39_word_space_6: noise region alpha soul sand around
 bip_39_word_space_7: noise region alpha soul sand around lonely
 bip_39_word_space_8: noise region alpha soul sand around lonely climb
 bip_39_word_space_9: noise region alpha soul sand around lonely climb fold
+bip_39_word_underscore_1: noise
+bip_39_word_underscore_10: noise_region_alpha_soul_sand_around_lonely_climb_fold_edge
+bip_39_word_underscore_11: noise_region_alpha_soul_sand_around_lonely_climb_fold_edge_nest
+bip_39_word_underscore_12: noise_region_alpha_soul_sand_around_lonely_climb_fold_edge_nest_amateur
+bip_39_word_underscore_2: noise_region
+bip_39_word_underscore_3: noise_region_alpha
+bip_39_word_underscore_4: noise_region_alpha_soul
+bip_39_word_underscore_5: noise_region_alpha_soul_sand
+bip_39_word_underscore_6: noise_region_alpha_soul_sand_around
+bip_39_word_underscore_7: noise_region_alpha_soul_sand_around_lonely
+bip_39_word_underscore_8: noise_region_alpha_soul_sand_around_lonely_climb
+bip_39_word_underscore_9: noise_region_alpha_soul_sand_around_lonely_climb_fold
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

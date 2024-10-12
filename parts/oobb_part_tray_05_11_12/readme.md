@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sign |  
+| bip_39_word_dash_10 | sign-onion-used-injury-reason-avocado-float-talent-nut-increase |  
+| bip_39_word_dash_11 | sign-onion-used-injury-reason-avocado-float-talent-nut-increase-just |  
+| bip_39_word_dash_12 | sign-onion-used-injury-reason-avocado-float-talent-nut-increase-just-appear |  
+| bip_39_word_dash_2 | sign-onion |  
+| bip_39_word_dash_3 | sign-onion-used |  
+| bip_39_word_dash_4 | sign-onion-used-injury |  
+| bip_39_word_dash_5 | sign-onion-used-injury-reason |  
+| bip_39_word_dash_6 | sign-onion-used-injury-reason-avocado |  
+| bip_39_word_dash_7 | sign-onion-used-injury-reason-avocado-float |  
+| bip_39_word_dash_8 | sign-onion-used-injury-reason-avocado-float-talent |  
+| bip_39_word_dash_9 | sign-onion-used-injury-reason-avocado-float-talent-nut |  
 | bip_39_word_new_br_1 | sign |  
 | bip_39_word_new_br_10 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent<br>nut<br>increase |  
 | bip_39_word_new_br_11 | sign<br>onion<br>used<br>injury<br>reason<br>avocado<br>float<br>talent<br>nut<br>increase<br>just |  
@@ -147,6 +159,18 @@ nut |
 | bip_39_word_space_7 | sign onion used injury reason avocado float |  
 | bip_39_word_space_8 | sign onion used injury reason avocado float talent |  
 | bip_39_word_space_9 | sign onion used injury reason avocado float talent nut |  
+| bip_39_word_underscore_1 | sign |  
+| bip_39_word_underscore_10 | sign_onion_used_injury_reason_avocado_float_talent_nut_increase |  
+| bip_39_word_underscore_11 | sign_onion_used_injury_reason_avocado_float_talent_nut_increase_just |  
+| bip_39_word_underscore_12 | sign_onion_used_injury_reason_avocado_float_talent_nut_increase_just_appear |  
+| bip_39_word_underscore_2 | sign_onion |  
+| bip_39_word_underscore_3 | sign_onion_used |  
+| bip_39_word_underscore_4 | sign_onion_used_injury |  
+| bip_39_word_underscore_5 | sign_onion_used_injury_reason |  
+| bip_39_word_underscore_6 | sign_onion_used_injury_reason_avocado |  
+| bip_39_word_underscore_7 | sign_onion_used_injury_reason_avocado_float |  
+| bip_39_word_underscore_8 | sign_onion_used_injury_reason_avocado_float_talent |  
+| bip_39_word_underscore_9 | sign_onion_used_injury_reason_avocado_float_talent_nut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

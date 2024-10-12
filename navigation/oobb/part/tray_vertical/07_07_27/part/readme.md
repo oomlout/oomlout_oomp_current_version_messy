@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | retire |  
+| bip_39_word_dash_10 | retire-poem-save-invest-usual-valid-kit-broccoli-calm-chapter |  
+| bip_39_word_dash_11 | retire-poem-save-invest-usual-valid-kit-broccoli-calm-chapter-emerge |  
+| bip_39_word_dash_12 | retire-poem-save-invest-usual-valid-kit-broccoli-calm-chapter-emerge-access |  
+| bip_39_word_dash_2 | retire-poem |  
+| bip_39_word_dash_3 | retire-poem-save |  
+| bip_39_word_dash_4 | retire-poem-save-invest |  
+| bip_39_word_dash_5 | retire-poem-save-invest-usual |  
+| bip_39_word_dash_6 | retire-poem-save-invest-usual-valid |  
+| bip_39_word_dash_7 | retire-poem-save-invest-usual-valid-kit |  
+| bip_39_word_dash_8 | retire-poem-save-invest-usual-valid-kit-broccoli |  
+| bip_39_word_dash_9 | retire-poem-save-invest-usual-valid-kit-broccoli-calm |  
 | bip_39_word_new_br_1 | retire |  
 | bip_39_word_new_br_10 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli<br>calm<br>chapter |  
 | bip_39_word_new_br_11 | retire<br>poem<br>save<br>invest<br>usual<br>valid<br>kit<br>broccoli<br>calm<br>chapter<br>emerge |  
@@ -147,6 +159,18 @@ calm |
 | bip_39_word_space_7 | retire poem save invest usual valid kit |  
 | bip_39_word_space_8 | retire poem save invest usual valid kit broccoli |  
 | bip_39_word_space_9 | retire poem save invest usual valid kit broccoli calm |  
+| bip_39_word_underscore_1 | retire |  
+| bip_39_word_underscore_10 | retire_poem_save_invest_usual_valid_kit_broccoli_calm_chapter |  
+| bip_39_word_underscore_11 | retire_poem_save_invest_usual_valid_kit_broccoli_calm_chapter_emerge |  
+| bip_39_word_underscore_12 | retire_poem_save_invest_usual_valid_kit_broccoli_calm_chapter_emerge_access |  
+| bip_39_word_underscore_2 | retire_poem |  
+| bip_39_word_underscore_3 | retire_poem_save |  
+| bip_39_word_underscore_4 | retire_poem_save_invest |  
+| bip_39_word_underscore_5 | retire_poem_save_invest_usual |  
+| bip_39_word_underscore_6 | retire_poem_save_invest_usual_valid |  
+| bip_39_word_underscore_7 | retire_poem_save_invest_usual_valid_kit |  
+| bip_39_word_underscore_8 | retire_poem_save_invest_usual_valid_kit_broccoli |  
+| bip_39_word_underscore_9 | retire_poem_save_invest_usual_valid_kit_broccoli_calm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

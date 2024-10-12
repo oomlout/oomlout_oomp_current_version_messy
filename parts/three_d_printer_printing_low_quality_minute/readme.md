@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | physical |  
+| bip_39_word_dash_10 | physical-eager-hungry-virus-finger-notice-west-hood-lawn-phrase |  
+| bip_39_word_dash_11 | physical-eager-hungry-virus-finger-notice-west-hood-lawn-phrase-choose |  
+| bip_39_word_dash_12 | physical-eager-hungry-virus-finger-notice-west-hood-lawn-phrase-choose-angry |  
+| bip_39_word_dash_2 | physical-eager |  
+| bip_39_word_dash_3 | physical-eager-hungry |  
+| bip_39_word_dash_4 | physical-eager-hungry-virus |  
+| bip_39_word_dash_5 | physical-eager-hungry-virus-finger |  
+| bip_39_word_dash_6 | physical-eager-hungry-virus-finger-notice |  
+| bip_39_word_dash_7 | physical-eager-hungry-virus-finger-notice-west |  
+| bip_39_word_dash_8 | physical-eager-hungry-virus-finger-notice-west-hood |  
+| bip_39_word_dash_9 | physical-eager-hungry-virus-finger-notice-west-hood-lawn |  
 | bip_39_word_new_br_1 | physical |  
 | bip_39_word_new_br_10 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase |  
 | bip_39_word_new_br_11 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase<br>choose |  
@@ -147,6 +159,18 @@ lawn |
 | bip_39_word_space_7 | physical eager hungry virus finger notice west |  
 | bip_39_word_space_8 | physical eager hungry virus finger notice west hood |  
 | bip_39_word_space_9 | physical eager hungry virus finger notice west hood lawn |  
+| bip_39_word_underscore_1 | physical |  
+| bip_39_word_underscore_10 | physical_eager_hungry_virus_finger_notice_west_hood_lawn_phrase |  
+| bip_39_word_underscore_11 | physical_eager_hungry_virus_finger_notice_west_hood_lawn_phrase_choose |  
+| bip_39_word_underscore_12 | physical_eager_hungry_virus_finger_notice_west_hood_lawn_phrase_choose_angry |  
+| bip_39_word_underscore_2 | physical_eager |  
+| bip_39_word_underscore_3 | physical_eager_hungry |  
+| bip_39_word_underscore_4 | physical_eager_hungry_virus |  
+| bip_39_word_underscore_5 | physical_eager_hungry_virus_finger |  
+| bip_39_word_underscore_6 | physical_eager_hungry_virus_finger_notice |  
+| bip_39_word_underscore_7 | physical_eager_hungry_virus_finger_notice_west |  
+| bip_39_word_underscore_8 | physical_eager_hungry_virus_finger_notice_west_hood |  
+| bip_39_word_underscore_9 | physical_eager_hungry_virus_finger_notice_west_hood_lawn |  
 | classification | three_d_printer |  
 | classification_capital | Three D Printer |  
 | classification_first_letter | t |  

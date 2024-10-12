@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | begin |  
+| bip_39_word_dash_10 | begin-history-magic-axis-stock-genius-armed-goose-prosper-satoshi |  
+| bip_39_word_dash_11 | begin-history-magic-axis-stock-genius-armed-goose-prosper-satoshi-genre |  
+| bip_39_word_dash_12 | begin-history-magic-axis-stock-genius-armed-goose-prosper-satoshi-genre-avocado |  
+| bip_39_word_dash_2 | begin-history |  
+| bip_39_word_dash_3 | begin-history-magic |  
+| bip_39_word_dash_4 | begin-history-magic-axis |  
+| bip_39_word_dash_5 | begin-history-magic-axis-stock |  
+| bip_39_word_dash_6 | begin-history-magic-axis-stock-genius |  
+| bip_39_word_dash_7 | begin-history-magic-axis-stock-genius-armed |  
+| bip_39_word_dash_8 | begin-history-magic-axis-stock-genius-armed-goose |  
+| bip_39_word_dash_9 | begin-history-magic-axis-stock-genius-armed-goose-prosper |  
 | bip_39_word_new_br_1 | begin |  
 | bip_39_word_new_br_10 | begin<br>history<br>magic<br>axis<br>stock<br>genius<br>armed<br>goose<br>prosper<br>satoshi |  
 | bip_39_word_new_br_11 | begin<br>history<br>magic<br>axis<br>stock<br>genius<br>armed<br>goose<br>prosper<br>satoshi<br>genre |  
@@ -147,6 +159,18 @@ prosper |
 | bip_39_word_space_7 | begin history magic axis stock genius armed |  
 | bip_39_word_space_8 | begin history magic axis stock genius armed goose |  
 | bip_39_word_space_9 | begin history magic axis stock genius armed goose prosper |  
+| bip_39_word_underscore_1 | begin |  
+| bip_39_word_underscore_10 | begin_history_magic_axis_stock_genius_armed_goose_prosper_satoshi |  
+| bip_39_word_underscore_11 | begin_history_magic_axis_stock_genius_armed_goose_prosper_satoshi_genre |  
+| bip_39_word_underscore_12 | begin_history_magic_axis_stock_genius_armed_goose_prosper_satoshi_genre_avocado |  
+| bip_39_word_underscore_2 | begin_history |  
+| bip_39_word_underscore_3 | begin_history_magic |  
+| bip_39_word_underscore_4 | begin_history_magic_axis |  
+| bip_39_word_underscore_5 | begin_history_magic_axis_stock |  
+| bip_39_word_underscore_6 | begin_history_magic_axis_stock_genius |  
+| bip_39_word_underscore_7 | begin_history_magic_axis_stock_genius_armed |  
+| bip_39_word_underscore_8 | begin_history_magic_axis_stock_genius_armed_goose |  
+| bip_39_word_underscore_9 | begin_history_magic_axis_stock_genius_armed_goose_prosper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

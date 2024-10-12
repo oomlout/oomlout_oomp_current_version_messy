@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wife |  
+| bip_39_word_dash_10 | wife-aisle-permit-march-quantum-sure-vessel-joy-pet-illness |  
+| bip_39_word_dash_11 | wife-aisle-permit-march-quantum-sure-vessel-joy-pet-illness-purchase |  
+| bip_39_word_dash_12 | wife-aisle-permit-march-quantum-sure-vessel-joy-pet-illness-purchase-also |  
+| bip_39_word_dash_2 | wife-aisle |  
+| bip_39_word_dash_3 | wife-aisle-permit |  
+| bip_39_word_dash_4 | wife-aisle-permit-march |  
+| bip_39_word_dash_5 | wife-aisle-permit-march-quantum |  
+| bip_39_word_dash_6 | wife-aisle-permit-march-quantum-sure |  
+| bip_39_word_dash_7 | wife-aisle-permit-march-quantum-sure-vessel |  
+| bip_39_word_dash_8 | wife-aisle-permit-march-quantum-sure-vessel-joy |  
+| bip_39_word_dash_9 | wife-aisle-permit-march-quantum-sure-vessel-joy-pet |  
 | bip_39_word_new_br_1 | wife |  
 | bip_39_word_new_br_10 | wife<br>aisle<br>permit<br>march<br>quantum<br>sure<br>vessel<br>joy<br>pet<br>illness |  
 | bip_39_word_new_br_11 | wife<br>aisle<br>permit<br>march<br>quantum<br>sure<br>vessel<br>joy<br>pet<br>illness<br>purchase |  
@@ -147,6 +159,18 @@ pet |
 | bip_39_word_space_7 | wife aisle permit march quantum sure vessel |  
 | bip_39_word_space_8 | wife aisle permit march quantum sure vessel joy |  
 | bip_39_word_space_9 | wife aisle permit march quantum sure vessel joy pet |  
+| bip_39_word_underscore_1 | wife |  
+| bip_39_word_underscore_10 | wife_aisle_permit_march_quantum_sure_vessel_joy_pet_illness |  
+| bip_39_word_underscore_11 | wife_aisle_permit_march_quantum_sure_vessel_joy_pet_illness_purchase |  
+| bip_39_word_underscore_12 | wife_aisle_permit_march_quantum_sure_vessel_joy_pet_illness_purchase_also |  
+| bip_39_word_underscore_2 | wife_aisle |  
+| bip_39_word_underscore_3 | wife_aisle_permit |  
+| bip_39_word_underscore_4 | wife_aisle_permit_march |  
+| bip_39_word_underscore_5 | wife_aisle_permit_march_quantum |  
+| bip_39_word_underscore_6 | wife_aisle_permit_march_quantum_sure |  
+| bip_39_word_underscore_7 | wife_aisle_permit_march_quantum_sure_vessel |  
+| bip_39_word_underscore_8 | wife_aisle_permit_march_quantum_sure_vessel_joy |  
+| bip_39_word_underscore_9 | wife_aisle_permit_march_quantum_sure_vessel_joy_pet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

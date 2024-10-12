@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grab |  
+| bip_39_word_dash_10 | grab-scout-squeeze-skull-gold-merge-what-gentle-genius-century |  
+| bip_39_word_dash_11 | grab-scout-squeeze-skull-gold-merge-what-gentle-genius-century-account |  
+| bip_39_word_dash_12 | grab-scout-squeeze-skull-gold-merge-what-gentle-genius-century-account-admit |  
+| bip_39_word_dash_2 | grab-scout |  
+| bip_39_word_dash_3 | grab-scout-squeeze |  
+| bip_39_word_dash_4 | grab-scout-squeeze-skull |  
+| bip_39_word_dash_5 | grab-scout-squeeze-skull-gold |  
+| bip_39_word_dash_6 | grab-scout-squeeze-skull-gold-merge |  
+| bip_39_word_dash_7 | grab-scout-squeeze-skull-gold-merge-what |  
+| bip_39_word_dash_8 | grab-scout-squeeze-skull-gold-merge-what-gentle |  
+| bip_39_word_dash_9 | grab-scout-squeeze-skull-gold-merge-what-gentle-genius |  
 | bip_39_word_new_br_1 | grab |  
 | bip_39_word_new_br_10 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century |  
 | bip_39_word_new_br_11 | grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century<br>account |  
@@ -147,6 +159,18 @@ genius |
 | bip_39_word_space_7 | grab scout squeeze skull gold merge what |  
 | bip_39_word_space_8 | grab scout squeeze skull gold merge what gentle |  
 | bip_39_word_space_9 | grab scout squeeze skull gold merge what gentle genius |  
+| bip_39_word_underscore_1 | grab |  
+| bip_39_word_underscore_10 | grab_scout_squeeze_skull_gold_merge_what_gentle_genius_century |  
+| bip_39_word_underscore_11 | grab_scout_squeeze_skull_gold_merge_what_gentle_genius_century_account |  
+| bip_39_word_underscore_12 | grab_scout_squeeze_skull_gold_merge_what_gentle_genius_century_account_admit |  
+| bip_39_word_underscore_2 | grab_scout |  
+| bip_39_word_underscore_3 | grab_scout_squeeze |  
+| bip_39_word_underscore_4 | grab_scout_squeeze_skull |  
+| bip_39_word_underscore_5 | grab_scout_squeeze_skull_gold |  
+| bip_39_word_underscore_6 | grab_scout_squeeze_skull_gold_merge |  
+| bip_39_word_underscore_7 | grab_scout_squeeze_skull_gold_merge_what |  
+| bip_39_word_underscore_8 | grab_scout_squeeze_skull_gold_merge_what_gentle |  
+| bip_39_word_underscore_9 | grab_scout_squeeze_skull_gold_merge_what_gentle_genius |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

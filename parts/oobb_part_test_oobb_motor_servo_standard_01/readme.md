@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bless |  
+| bip_39_word_dash_10 | bless-belt-exhibit-talent-home-night-bench-hair-scorpion-festival |  
+| bip_39_word_dash_11 | bless-belt-exhibit-talent-home-night-bench-hair-scorpion-festival-offer |  
+| bip_39_word_dash_12 | bless-belt-exhibit-talent-home-night-bench-hair-scorpion-festival-offer-attitude |  
+| bip_39_word_dash_2 | bless-belt |  
+| bip_39_word_dash_3 | bless-belt-exhibit |  
+| bip_39_word_dash_4 | bless-belt-exhibit-talent |  
+| bip_39_word_dash_5 | bless-belt-exhibit-talent-home |  
+| bip_39_word_dash_6 | bless-belt-exhibit-talent-home-night |  
+| bip_39_word_dash_7 | bless-belt-exhibit-talent-home-night-bench |  
+| bip_39_word_dash_8 | bless-belt-exhibit-talent-home-night-bench-hair |  
+| bip_39_word_dash_9 | bless-belt-exhibit-talent-home-night-bench-hair-scorpion |  
 | bip_39_word_new_br_1 | bless |  
 | bip_39_word_new_br_10 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair<br>scorpion<br>festival |  
 | bip_39_word_new_br_11 | bless<br>belt<br>exhibit<br>talent<br>home<br>night<br>bench<br>hair<br>scorpion<br>festival<br>offer |  
@@ -147,6 +159,18 @@ scorpion |
 | bip_39_word_space_7 | bless belt exhibit talent home night bench |  
 | bip_39_word_space_8 | bless belt exhibit talent home night bench hair |  
 | bip_39_word_space_9 | bless belt exhibit talent home night bench hair scorpion |  
+| bip_39_word_underscore_1 | bless |  
+| bip_39_word_underscore_10 | bless_belt_exhibit_talent_home_night_bench_hair_scorpion_festival |  
+| bip_39_word_underscore_11 | bless_belt_exhibit_talent_home_night_bench_hair_scorpion_festival_offer |  
+| bip_39_word_underscore_12 | bless_belt_exhibit_talent_home_night_bench_hair_scorpion_festival_offer_attitude |  
+| bip_39_word_underscore_2 | bless_belt |  
+| bip_39_word_underscore_3 | bless_belt_exhibit |  
+| bip_39_word_underscore_4 | bless_belt_exhibit_talent |  
+| bip_39_word_underscore_5 | bless_belt_exhibit_talent_home |  
+| bip_39_word_underscore_6 | bless_belt_exhibit_talent_home_night |  
+| bip_39_word_underscore_7 | bless_belt_exhibit_talent_home_night_bench |  
+| bip_39_word_underscore_8 | bless_belt_exhibit_talent_home_night_bench_hair |  
+| bip_39_word_underscore_9 | bless_belt_exhibit_talent_home_night_bench_hair_scorpion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

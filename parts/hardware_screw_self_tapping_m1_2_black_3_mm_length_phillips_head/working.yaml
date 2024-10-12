@@ -1,3 +1,15 @@
+bip_39_word_dash_1: myself
+bip_39_word_dash_10: myself-reunion-slab-glory-swim-deny-lake-ski-file-child
+bip_39_word_dash_11: myself-reunion-slab-glory-swim-deny-lake-ski-file-child-response
+bip_39_word_dash_12: myself-reunion-slab-glory-swim-deny-lake-ski-file-child-response-agent
+bip_39_word_dash_2: myself-reunion
+bip_39_word_dash_3: myself-reunion-slab
+bip_39_word_dash_4: myself-reunion-slab-glory
+bip_39_word_dash_5: myself-reunion-slab-glory-swim
+bip_39_word_dash_6: myself-reunion-slab-glory-swim-deny
+bip_39_word_dash_7: myself-reunion-slab-glory-swim-deny-lake
+bip_39_word_dash_8: myself-reunion-slab-glory-swim-deny-lake-ski
+bip_39_word_dash_9: myself-reunion-slab-glory-swim-deny-lake-ski-file
 bip_39_word_new_br_1: myself
 bip_39_word_new_br_10: myself<br>reunion<br>slab<br>glory<br>swim<br>deny<br>lake<br>ski<br>file<br>child
 bip_39_word_new_br_11: myself<br>reunion<br>slab<br>glory<br>swim<br>deny<br>lake<br>ski<br>file<br>child<br>response
@@ -192,6 +204,18 @@ bip_39_word_space_6: myself reunion slab glory swim deny
 bip_39_word_space_7: myself reunion slab glory swim deny lake
 bip_39_word_space_8: myself reunion slab glory swim deny lake ski
 bip_39_word_space_9: myself reunion slab glory swim deny lake ski file
+bip_39_word_underscore_1: myself
+bip_39_word_underscore_10: myself_reunion_slab_glory_swim_deny_lake_ski_file_child
+bip_39_word_underscore_11: myself_reunion_slab_glory_swim_deny_lake_ski_file_child_response
+bip_39_word_underscore_12: myself_reunion_slab_glory_swim_deny_lake_ski_file_child_response_agent
+bip_39_word_underscore_2: myself_reunion
+bip_39_word_underscore_3: myself_reunion_slab
+bip_39_word_underscore_4: myself_reunion_slab_glory
+bip_39_word_underscore_5: myself_reunion_slab_glory_swim
+bip_39_word_underscore_6: myself_reunion_slab_glory_swim_deny
+bip_39_word_underscore_7: myself_reunion_slab_glory_swim_deny_lake
+bip_39_word_underscore_8: myself_reunion_slab_glory_swim_deny_lake_ski
+bip_39_word_underscore_9: myself_reunion_slab_glory_swim_deny_lake_ski_file
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

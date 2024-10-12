@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | achieve |  
+| bip_39_word_dash_10 | achieve-puppy-topic-salon-around-dynamic-staff-crater-catalog-young |  
+| bip_39_word_dash_11 | achieve-puppy-topic-salon-around-dynamic-staff-crater-catalog-young-general |  
+| bip_39_word_dash_12 | achieve-puppy-topic-salon-around-dynamic-staff-crater-catalog-young-general-assist |  
+| bip_39_word_dash_2 | achieve-puppy |  
+| bip_39_word_dash_3 | achieve-puppy-topic |  
+| bip_39_word_dash_4 | achieve-puppy-topic-salon |  
+| bip_39_word_dash_5 | achieve-puppy-topic-salon-around |  
+| bip_39_word_dash_6 | achieve-puppy-topic-salon-around-dynamic |  
+| bip_39_word_dash_7 | achieve-puppy-topic-salon-around-dynamic-staff |  
+| bip_39_word_dash_8 | achieve-puppy-topic-salon-around-dynamic-staff-crater |  
+| bip_39_word_dash_9 | achieve-puppy-topic-salon-around-dynamic-staff-crater-catalog |  
 | bip_39_word_new_br_1 | achieve |  
 | bip_39_word_new_br_10 | achieve<br>puppy<br>topic<br>salon<br>around<br>dynamic<br>staff<br>crater<br>catalog<br>young |  
 | bip_39_word_new_br_11 | achieve<br>puppy<br>topic<br>salon<br>around<br>dynamic<br>staff<br>crater<br>catalog<br>young<br>general |  
@@ -147,6 +159,18 @@ catalog |
 | bip_39_word_space_7 | achieve puppy topic salon around dynamic staff |  
 | bip_39_word_space_8 | achieve puppy topic salon around dynamic staff crater |  
 | bip_39_word_space_9 | achieve puppy topic salon around dynamic staff crater catalog |  
+| bip_39_word_underscore_1 | achieve |  
+| bip_39_word_underscore_10 | achieve_puppy_topic_salon_around_dynamic_staff_crater_catalog_young |  
+| bip_39_word_underscore_11 | achieve_puppy_topic_salon_around_dynamic_staff_crater_catalog_young_general |  
+| bip_39_word_underscore_12 | achieve_puppy_topic_salon_around_dynamic_staff_crater_catalog_young_general_assist |  
+| bip_39_word_underscore_2 | achieve_puppy |  
+| bip_39_word_underscore_3 | achieve_puppy_topic |  
+| bip_39_word_underscore_4 | achieve_puppy_topic_salon |  
+| bip_39_word_underscore_5 | achieve_puppy_topic_salon_around |  
+| bip_39_word_underscore_6 | achieve_puppy_topic_salon_around_dynamic |  
+| bip_39_word_underscore_7 | achieve_puppy_topic_salon_around_dynamic_staff |  
+| bip_39_word_underscore_8 | achieve_puppy_topic_salon_around_dynamic_staff_crater |  
+| bip_39_word_underscore_9 | achieve_puppy_topic_salon_around_dynamic_staff_crater_catalog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

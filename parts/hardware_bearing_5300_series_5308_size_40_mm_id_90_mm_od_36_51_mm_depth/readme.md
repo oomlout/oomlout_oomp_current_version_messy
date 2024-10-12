@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | breeze |  
+| bip_39_word_dash_10 | breeze-theory-guide-audit-stand-fade-oyster-spatial-elder-valve |  
+| bip_39_word_dash_11 | breeze-theory-guide-audit-stand-fade-oyster-spatial-elder-valve-soda |  
+| bip_39_word_dash_12 | breeze-theory-guide-audit-stand-fade-oyster-spatial-elder-valve-soda-actor |  
+| bip_39_word_dash_2 | breeze-theory |  
+| bip_39_word_dash_3 | breeze-theory-guide |  
+| bip_39_word_dash_4 | breeze-theory-guide-audit |  
+| bip_39_word_dash_5 | breeze-theory-guide-audit-stand |  
+| bip_39_word_dash_6 | breeze-theory-guide-audit-stand-fade |  
+| bip_39_word_dash_7 | breeze-theory-guide-audit-stand-fade-oyster |  
+| bip_39_word_dash_8 | breeze-theory-guide-audit-stand-fade-oyster-spatial |  
+| bip_39_word_dash_9 | breeze-theory-guide-audit-stand-fade-oyster-spatial-elder |  
 | bip_39_word_new_br_1 | breeze |  
 | bip_39_word_new_br_10 | breeze<br>theory<br>guide<br>audit<br>stand<br>fade<br>oyster<br>spatial<br>elder<br>valve |  
 | bip_39_word_new_br_11 | breeze<br>theory<br>guide<br>audit<br>stand<br>fade<br>oyster<br>spatial<br>elder<br>valve<br>soda |  
@@ -147,6 +159,18 @@ elder |
 | bip_39_word_space_7 | breeze theory guide audit stand fade oyster |  
 | bip_39_word_space_8 | breeze theory guide audit stand fade oyster spatial |  
 | bip_39_word_space_9 | breeze theory guide audit stand fade oyster spatial elder |  
+| bip_39_word_underscore_1 | breeze |  
+| bip_39_word_underscore_10 | breeze_theory_guide_audit_stand_fade_oyster_spatial_elder_valve |  
+| bip_39_word_underscore_11 | breeze_theory_guide_audit_stand_fade_oyster_spatial_elder_valve_soda |  
+| bip_39_word_underscore_12 | breeze_theory_guide_audit_stand_fade_oyster_spatial_elder_valve_soda_actor |  
+| bip_39_word_underscore_2 | breeze_theory |  
+| bip_39_word_underscore_3 | breeze_theory_guide |  
+| bip_39_word_underscore_4 | breeze_theory_guide_audit |  
+| bip_39_word_underscore_5 | breeze_theory_guide_audit_stand |  
+| bip_39_word_underscore_6 | breeze_theory_guide_audit_stand_fade |  
+| bip_39_word_underscore_7 | breeze_theory_guide_audit_stand_fade_oyster |  
+| bip_39_word_underscore_8 | breeze_theory_guide_audit_stand_fade_oyster_spatial |  
+| bip_39_word_underscore_9 | breeze_theory_guide_audit_stand_fade_oyster_spatial_elder |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

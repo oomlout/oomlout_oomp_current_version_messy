@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | axis |  
+| bip_39_word_dash_10 | axis-cover-nasty-stuff-puzzle-spatial-priority-position-argue-drum |  
+| bip_39_word_dash_11 | axis-cover-nasty-stuff-puzzle-spatial-priority-position-argue-drum-crunch |  
+| bip_39_word_dash_12 | axis-cover-nasty-stuff-puzzle-spatial-priority-position-argue-drum-crunch-always |  
+| bip_39_word_dash_2 | axis-cover |  
+| bip_39_word_dash_3 | axis-cover-nasty |  
+| bip_39_word_dash_4 | axis-cover-nasty-stuff |  
+| bip_39_word_dash_5 | axis-cover-nasty-stuff-puzzle |  
+| bip_39_word_dash_6 | axis-cover-nasty-stuff-puzzle-spatial |  
+| bip_39_word_dash_7 | axis-cover-nasty-stuff-puzzle-spatial-priority |  
+| bip_39_word_dash_8 | axis-cover-nasty-stuff-puzzle-spatial-priority-position |  
+| bip_39_word_dash_9 | axis-cover-nasty-stuff-puzzle-spatial-priority-position-argue |  
 | bip_39_word_new_br_1 | axis |  
 | bip_39_word_new_br_10 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum |  
 | bip_39_word_new_br_11 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum<br>crunch |  
@@ -147,6 +159,18 @@ argue |
 | bip_39_word_space_7 | axis cover nasty stuff puzzle spatial priority |  
 | bip_39_word_space_8 | axis cover nasty stuff puzzle spatial priority position |  
 | bip_39_word_space_9 | axis cover nasty stuff puzzle spatial priority position argue |  
+| bip_39_word_underscore_1 | axis |  
+| bip_39_word_underscore_10 | axis_cover_nasty_stuff_puzzle_spatial_priority_position_argue_drum |  
+| bip_39_word_underscore_11 | axis_cover_nasty_stuff_puzzle_spatial_priority_position_argue_drum_crunch |  
+| bip_39_word_underscore_12 | axis_cover_nasty_stuff_puzzle_spatial_priority_position_argue_drum_crunch_always |  
+| bip_39_word_underscore_2 | axis_cover |  
+| bip_39_word_underscore_3 | axis_cover_nasty |  
+| bip_39_word_underscore_4 | axis_cover_nasty_stuff |  
+| bip_39_word_underscore_5 | axis_cover_nasty_stuff_puzzle |  
+| bip_39_word_underscore_6 | axis_cover_nasty_stuff_puzzle_spatial |  
+| bip_39_word_underscore_7 | axis_cover_nasty_stuff_puzzle_spatial_priority |  
+| bip_39_word_underscore_8 | axis_cover_nasty_stuff_puzzle_spatial_priority_position |  
+| bip_39_word_underscore_9 | axis_cover_nasty_stuff_puzzle_spatial_priority_position_argue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

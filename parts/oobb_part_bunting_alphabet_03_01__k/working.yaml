@@ -1,3 +1,15 @@
+bip_39_word_dash_1: danger
+bip_39_word_dash_10: danger-century-clerk-inherit-afford-planet-six-sleep-sock-correct
+bip_39_word_dash_11: danger-century-clerk-inherit-afford-planet-six-sleep-sock-correct-ritual
+bip_39_word_dash_12: danger-century-clerk-inherit-afford-planet-six-sleep-sock-correct-ritual-anchor
+bip_39_word_dash_2: danger-century
+bip_39_word_dash_3: danger-century-clerk
+bip_39_word_dash_4: danger-century-clerk-inherit
+bip_39_word_dash_5: danger-century-clerk-inherit-afford
+bip_39_word_dash_6: danger-century-clerk-inherit-afford-planet
+bip_39_word_dash_7: danger-century-clerk-inherit-afford-planet-six
+bip_39_word_dash_8: danger-century-clerk-inherit-afford-planet-six-sleep
+bip_39_word_dash_9: danger-century-clerk-inherit-afford-planet-six-sleep-sock
 bip_39_word_new_br_1: danger
 bip_39_word_new_br_10: danger<br>century<br>clerk<br>inherit<br>afford<br>planet<br>six<br>sleep<br>sock<br>correct
 bip_39_word_new_br_11: danger<br>century<br>clerk<br>inherit<br>afford<br>planet<br>six<br>sleep<br>sock<br>correct<br>ritual
@@ -193,6 +205,18 @@ bip_39_word_space_6: danger century clerk inherit afford planet
 bip_39_word_space_7: danger century clerk inherit afford planet six
 bip_39_word_space_8: danger century clerk inherit afford planet six sleep
 bip_39_word_space_9: danger century clerk inherit afford planet six sleep sock
+bip_39_word_underscore_1: danger
+bip_39_word_underscore_10: danger_century_clerk_inherit_afford_planet_six_sleep_sock_correct
+bip_39_word_underscore_11: danger_century_clerk_inherit_afford_planet_six_sleep_sock_correct_ritual
+bip_39_word_underscore_12: danger_century_clerk_inherit_afford_planet_six_sleep_sock_correct_ritual_anchor
+bip_39_word_underscore_2: danger_century
+bip_39_word_underscore_3: danger_century_clerk
+bip_39_word_underscore_4: danger_century_clerk_inherit
+bip_39_word_underscore_5: danger_century_clerk_inherit_afford
+bip_39_word_underscore_6: danger_century_clerk_inherit_afford_planet
+bip_39_word_underscore_7: danger_century_clerk_inherit_afford_planet_six
+bip_39_word_underscore_8: danger_century_clerk_inherit_afford_planet_six_sleep
+bip_39_word_underscore_9: danger_century_clerk_inherit_afford_planet_six_sleep_sock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

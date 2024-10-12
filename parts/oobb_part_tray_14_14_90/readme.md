@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tumble |  
+| bip_39_word_dash_10 | tumble-hungry-boil-stomach-glance-fluid-under-inform-lizard-differ |  
+| bip_39_word_dash_11 | tumble-hungry-boil-stomach-glance-fluid-under-inform-lizard-differ-flee |  
+| bip_39_word_dash_12 | tumble-hungry-boil-stomach-glance-fluid-under-inform-lizard-differ-flee-attitude |  
+| bip_39_word_dash_2 | tumble-hungry |  
+| bip_39_word_dash_3 | tumble-hungry-boil |  
+| bip_39_word_dash_4 | tumble-hungry-boil-stomach |  
+| bip_39_word_dash_5 | tumble-hungry-boil-stomach-glance |  
+| bip_39_word_dash_6 | tumble-hungry-boil-stomach-glance-fluid |  
+| bip_39_word_dash_7 | tumble-hungry-boil-stomach-glance-fluid-under |  
+| bip_39_word_dash_8 | tumble-hungry-boil-stomach-glance-fluid-under-inform |  
+| bip_39_word_dash_9 | tumble-hungry-boil-stomach-glance-fluid-under-inform-lizard |  
 | bip_39_word_new_br_1 | tumble |  
 | bip_39_word_new_br_10 | tumble<br>hungry<br>boil<br>stomach<br>glance<br>fluid<br>under<br>inform<br>lizard<br>differ |  
 | bip_39_word_new_br_11 | tumble<br>hungry<br>boil<br>stomach<br>glance<br>fluid<br>under<br>inform<br>lizard<br>differ<br>flee |  
@@ -147,6 +159,18 @@ lizard |
 | bip_39_word_space_7 | tumble hungry boil stomach glance fluid under |  
 | bip_39_word_space_8 | tumble hungry boil stomach glance fluid under inform |  
 | bip_39_word_space_9 | tumble hungry boil stomach glance fluid under inform lizard |  
+| bip_39_word_underscore_1 | tumble |  
+| bip_39_word_underscore_10 | tumble_hungry_boil_stomach_glance_fluid_under_inform_lizard_differ |  
+| bip_39_word_underscore_11 | tumble_hungry_boil_stomach_glance_fluid_under_inform_lizard_differ_flee |  
+| bip_39_word_underscore_12 | tumble_hungry_boil_stomach_glance_fluid_under_inform_lizard_differ_flee_attitude |  
+| bip_39_word_underscore_2 | tumble_hungry |  
+| bip_39_word_underscore_3 | tumble_hungry_boil |  
+| bip_39_word_underscore_4 | tumble_hungry_boil_stomach |  
+| bip_39_word_underscore_5 | tumble_hungry_boil_stomach_glance |  
+| bip_39_word_underscore_6 | tumble_hungry_boil_stomach_glance_fluid |  
+| bip_39_word_underscore_7 | tumble_hungry_boil_stomach_glance_fluid_under |  
+| bip_39_word_underscore_8 | tumble_hungry_boil_stomach_glance_fluid_under_inform |  
+| bip_39_word_underscore_9 | tumble_hungry_boil_stomach_glance_fluid_under_inform_lizard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

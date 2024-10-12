@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deer
+bip_39_word_dash_10: deer-tobacco-voice-hamster-burden-prevent-slush-permit-around-brush
+bip_39_word_dash_11: deer-tobacco-voice-hamster-burden-prevent-slush-permit-around-brush-awful
+bip_39_word_dash_12: deer-tobacco-voice-hamster-burden-prevent-slush-permit-around-brush-awful-actual
+bip_39_word_dash_2: deer-tobacco
+bip_39_word_dash_3: deer-tobacco-voice
+bip_39_word_dash_4: deer-tobacco-voice-hamster
+bip_39_word_dash_5: deer-tobacco-voice-hamster-burden
+bip_39_word_dash_6: deer-tobacco-voice-hamster-burden-prevent
+bip_39_word_dash_7: deer-tobacco-voice-hamster-burden-prevent-slush
+bip_39_word_dash_8: deer-tobacco-voice-hamster-burden-prevent-slush-permit
+bip_39_word_dash_9: deer-tobacco-voice-hamster-burden-prevent-slush-permit-around
 bip_39_word_new_br_1: deer
 bip_39_word_new_br_10: deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit<br>around<br>brush
 bip_39_word_new_br_11: deer<br>tobacco<br>voice<br>hamster<br>burden<br>prevent<br>slush<br>permit<br>around<br>brush<br>awful
@@ -194,6 +206,18 @@ bip_39_word_space_6: deer tobacco voice hamster burden prevent
 bip_39_word_space_7: deer tobacco voice hamster burden prevent slush
 bip_39_word_space_8: deer tobacco voice hamster burden prevent slush permit
 bip_39_word_space_9: deer tobacco voice hamster burden prevent slush permit around
+bip_39_word_underscore_1: deer
+bip_39_word_underscore_10: deer_tobacco_voice_hamster_burden_prevent_slush_permit_around_brush
+bip_39_word_underscore_11: deer_tobacco_voice_hamster_burden_prevent_slush_permit_around_brush_awful
+bip_39_word_underscore_12: deer_tobacco_voice_hamster_burden_prevent_slush_permit_around_brush_awful_actual
+bip_39_word_underscore_2: deer_tobacco
+bip_39_word_underscore_3: deer_tobacco_voice
+bip_39_word_underscore_4: deer_tobacco_voice_hamster
+bip_39_word_underscore_5: deer_tobacco_voice_hamster_burden
+bip_39_word_underscore_6: deer_tobacco_voice_hamster_burden_prevent
+bip_39_word_underscore_7: deer_tobacco_voice_hamster_burden_prevent_slush
+bip_39_word_underscore_8: deer_tobacco_voice_hamster_burden_prevent_slush_permit
+bip_39_word_underscore_9: deer_tobacco_voice_hamster_burden_prevent_slush_permit_around
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

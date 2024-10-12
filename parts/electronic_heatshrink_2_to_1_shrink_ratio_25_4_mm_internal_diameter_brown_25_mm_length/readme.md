@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orient |  
+| bip_39_word_dash_10 | orient-clap-extend-empower-earn-fat-ankle-antenna-random-submit |  
+| bip_39_word_dash_11 | orient-clap-extend-empower-earn-fat-ankle-antenna-random-submit-claw |  
+| bip_39_word_dash_12 | orient-clap-extend-empower-earn-fat-ankle-antenna-random-submit-claw-allow |  
+| bip_39_word_dash_2 | orient-clap |  
+| bip_39_word_dash_3 | orient-clap-extend |  
+| bip_39_word_dash_4 | orient-clap-extend-empower |  
+| bip_39_word_dash_5 | orient-clap-extend-empower-earn |  
+| bip_39_word_dash_6 | orient-clap-extend-empower-earn-fat |  
+| bip_39_word_dash_7 | orient-clap-extend-empower-earn-fat-ankle |  
+| bip_39_word_dash_8 | orient-clap-extend-empower-earn-fat-ankle-antenna |  
+| bip_39_word_dash_9 | orient-clap-extend-empower-earn-fat-ankle-antenna-random |  
 | bip_39_word_new_br_1 | orient |  
 | bip_39_word_new_br_10 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit |  
 | bip_39_word_new_br_11 | orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit<br>claw |  
@@ -147,6 +159,18 @@ random |
 | bip_39_word_space_7 | orient clap extend empower earn fat ankle |  
 | bip_39_word_space_8 | orient clap extend empower earn fat ankle antenna |  
 | bip_39_word_space_9 | orient clap extend empower earn fat ankle antenna random |  
+| bip_39_word_underscore_1 | orient |  
+| bip_39_word_underscore_10 | orient_clap_extend_empower_earn_fat_ankle_antenna_random_submit |  
+| bip_39_word_underscore_11 | orient_clap_extend_empower_earn_fat_ankle_antenna_random_submit_claw |  
+| bip_39_word_underscore_12 | orient_clap_extend_empower_earn_fat_ankle_antenna_random_submit_claw_allow |  
+| bip_39_word_underscore_2 | orient_clap |  
+| bip_39_word_underscore_3 | orient_clap_extend |  
+| bip_39_word_underscore_4 | orient_clap_extend_empower |  
+| bip_39_word_underscore_5 | orient_clap_extend_empower_earn |  
+| bip_39_word_underscore_6 | orient_clap_extend_empower_earn_fat |  
+| bip_39_word_underscore_7 | orient_clap_extend_empower_earn_fat_ankle |  
+| bip_39_word_underscore_8 | orient_clap_extend_empower_earn_fat_ankle_antenna |  
+| bip_39_word_underscore_9 | orient_clap_extend_empower_earn_fat_ankle_antenna_random |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

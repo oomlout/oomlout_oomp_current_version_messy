@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swap |  
+| bip_39_word_dash_10 | swap-remind-tunnel-inquiry-whip-oven-crouch-someone-used-lava |  
+| bip_39_word_dash_11 | swap-remind-tunnel-inquiry-whip-oven-crouch-someone-used-lava-scout |  
+| bip_39_word_dash_12 | swap-remind-tunnel-inquiry-whip-oven-crouch-someone-used-lava-scout-almost |  
+| bip_39_word_dash_2 | swap-remind |  
+| bip_39_word_dash_3 | swap-remind-tunnel |  
+| bip_39_word_dash_4 | swap-remind-tunnel-inquiry |  
+| bip_39_word_dash_5 | swap-remind-tunnel-inquiry-whip |  
+| bip_39_word_dash_6 | swap-remind-tunnel-inquiry-whip-oven |  
+| bip_39_word_dash_7 | swap-remind-tunnel-inquiry-whip-oven-crouch |  
+| bip_39_word_dash_8 | swap-remind-tunnel-inquiry-whip-oven-crouch-someone |  
+| bip_39_word_dash_9 | swap-remind-tunnel-inquiry-whip-oven-crouch-someone-used |  
 | bip_39_word_new_br_1 | swap |  
 | bip_39_word_new_br_10 | swap<br>remind<br>tunnel<br>inquiry<br>whip<br>oven<br>crouch<br>someone<br>used<br>lava |  
 | bip_39_word_new_br_11 | swap<br>remind<br>tunnel<br>inquiry<br>whip<br>oven<br>crouch<br>someone<br>used<br>lava<br>scout |  
@@ -147,6 +159,18 @@ used |
 | bip_39_word_space_7 | swap remind tunnel inquiry whip oven crouch |  
 | bip_39_word_space_8 | swap remind tunnel inquiry whip oven crouch someone |  
 | bip_39_word_space_9 | swap remind tunnel inquiry whip oven crouch someone used |  
+| bip_39_word_underscore_1 | swap |  
+| bip_39_word_underscore_10 | swap_remind_tunnel_inquiry_whip_oven_crouch_someone_used_lava |  
+| bip_39_word_underscore_11 | swap_remind_tunnel_inquiry_whip_oven_crouch_someone_used_lava_scout |  
+| bip_39_word_underscore_12 | swap_remind_tunnel_inquiry_whip_oven_crouch_someone_used_lava_scout_almost |  
+| bip_39_word_underscore_2 | swap_remind |  
+| bip_39_word_underscore_3 | swap_remind_tunnel |  
+| bip_39_word_underscore_4 | swap_remind_tunnel_inquiry |  
+| bip_39_word_underscore_5 | swap_remind_tunnel_inquiry_whip |  
+| bip_39_word_underscore_6 | swap_remind_tunnel_inquiry_whip_oven |  
+| bip_39_word_underscore_7 | swap_remind_tunnel_inquiry_whip_oven_crouch |  
+| bip_39_word_underscore_8 | swap_remind_tunnel_inquiry_whip_oven_crouch_someone |  
+| bip_39_word_underscore_9 | swap_remind_tunnel_inquiry_whip_oven_crouch_someone_used |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

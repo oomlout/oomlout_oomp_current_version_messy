@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | neither |  
+| bip_39_word_dash_10 | neither-bottom-camera-wear-cousin-whisper-culture-hidden-ghost-horse |  
+| bip_39_word_dash_11 | neither-bottom-camera-wear-cousin-whisper-culture-hidden-ghost-horse-tube |  
+| bip_39_word_dash_12 | neither-bottom-camera-wear-cousin-whisper-culture-hidden-ghost-horse-tube-allow |  
+| bip_39_word_dash_2 | neither-bottom |  
+| bip_39_word_dash_3 | neither-bottom-camera |  
+| bip_39_word_dash_4 | neither-bottom-camera-wear |  
+| bip_39_word_dash_5 | neither-bottom-camera-wear-cousin |  
+| bip_39_word_dash_6 | neither-bottom-camera-wear-cousin-whisper |  
+| bip_39_word_dash_7 | neither-bottom-camera-wear-cousin-whisper-culture |  
+| bip_39_word_dash_8 | neither-bottom-camera-wear-cousin-whisper-culture-hidden |  
+| bip_39_word_dash_9 | neither-bottom-camera-wear-cousin-whisper-culture-hidden-ghost |  
 | bip_39_word_new_br_1 | neither |  
 | bip_39_word_new_br_10 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden<br>ghost<br>horse |  
 | bip_39_word_new_br_11 | neither<br>bottom<br>camera<br>wear<br>cousin<br>whisper<br>culture<br>hidden<br>ghost<br>horse<br>tube |  
@@ -147,6 +159,18 @@ ghost |
 | bip_39_word_space_7 | neither bottom camera wear cousin whisper culture |  
 | bip_39_word_space_8 | neither bottom camera wear cousin whisper culture hidden |  
 | bip_39_word_space_9 | neither bottom camera wear cousin whisper culture hidden ghost |  
+| bip_39_word_underscore_1 | neither |  
+| bip_39_word_underscore_10 | neither_bottom_camera_wear_cousin_whisper_culture_hidden_ghost_horse |  
+| bip_39_word_underscore_11 | neither_bottom_camera_wear_cousin_whisper_culture_hidden_ghost_horse_tube |  
+| bip_39_word_underscore_12 | neither_bottom_camera_wear_cousin_whisper_culture_hidden_ghost_horse_tube_allow |  
+| bip_39_word_underscore_2 | neither_bottom |  
+| bip_39_word_underscore_3 | neither_bottom_camera |  
+| bip_39_word_underscore_4 | neither_bottom_camera_wear |  
+| bip_39_word_underscore_5 | neither_bottom_camera_wear_cousin |  
+| bip_39_word_underscore_6 | neither_bottom_camera_wear_cousin_whisper |  
+| bip_39_word_underscore_7 | neither_bottom_camera_wear_cousin_whisper_culture |  
+| bip_39_word_underscore_8 | neither_bottom_camera_wear_cousin_whisper_culture_hidden |  
+| bip_39_word_underscore_9 | neither_bottom_camera_wear_cousin_whisper_culture_hidden_ghost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | super |  
+| bip_39_word_dash_10 | super-tissue-brother-bronze-piano-trash-act-struggle-cinnamon-situate |  
+| bip_39_word_dash_11 | super-tissue-brother-bronze-piano-trash-act-struggle-cinnamon-situate-cat |  
+| bip_39_word_dash_12 | super-tissue-brother-bronze-piano-trash-act-struggle-cinnamon-situate-cat-auction |  
+| bip_39_word_dash_2 | super-tissue |  
+| bip_39_word_dash_3 | super-tissue-brother |  
+| bip_39_word_dash_4 | super-tissue-brother-bronze |  
+| bip_39_word_dash_5 | super-tissue-brother-bronze-piano |  
+| bip_39_word_dash_6 | super-tissue-brother-bronze-piano-trash |  
+| bip_39_word_dash_7 | super-tissue-brother-bronze-piano-trash-act |  
+| bip_39_word_dash_8 | super-tissue-brother-bronze-piano-trash-act-struggle |  
+| bip_39_word_dash_9 | super-tissue-brother-bronze-piano-trash-act-struggle-cinnamon |  
 | bip_39_word_new_br_1 | super |  
 | bip_39_word_new_br_10 | super<br>tissue<br>brother<br>bronze<br>piano<br>trash<br>act<br>struggle<br>cinnamon<br>situate |  
 | bip_39_word_new_br_11 | super<br>tissue<br>brother<br>bronze<br>piano<br>trash<br>act<br>struggle<br>cinnamon<br>situate<br>cat |  
@@ -147,6 +159,18 @@ cinnamon |
 | bip_39_word_space_7 | super tissue brother bronze piano trash act |  
 | bip_39_word_space_8 | super tissue brother bronze piano trash act struggle |  
 | bip_39_word_space_9 | super tissue brother bronze piano trash act struggle cinnamon |  
+| bip_39_word_underscore_1 | super |  
+| bip_39_word_underscore_10 | super_tissue_brother_bronze_piano_trash_act_struggle_cinnamon_situate |  
+| bip_39_word_underscore_11 | super_tissue_brother_bronze_piano_trash_act_struggle_cinnamon_situate_cat |  
+| bip_39_word_underscore_12 | super_tissue_brother_bronze_piano_trash_act_struggle_cinnamon_situate_cat_auction |  
+| bip_39_word_underscore_2 | super_tissue |  
+| bip_39_word_underscore_3 | super_tissue_brother |  
+| bip_39_word_underscore_4 | super_tissue_brother_bronze |  
+| bip_39_word_underscore_5 | super_tissue_brother_bronze_piano |  
+| bip_39_word_underscore_6 | super_tissue_brother_bronze_piano_trash |  
+| bip_39_word_underscore_7 | super_tissue_brother_bronze_piano_trash_act |  
+| bip_39_word_underscore_8 | super_tissue_brother_bronze_piano_trash_act_struggle |  
+| bip_39_word_underscore_9 | super_tissue_brother_bronze_piano_trash_act_struggle_cinnamon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

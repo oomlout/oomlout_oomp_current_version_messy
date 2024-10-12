@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | merry |  
+| bip_39_word_dash_10 | merry-region-creek-ignore-shiver-pony-walnut-this-solution-vague |  
+| bip_39_word_dash_11 | merry-region-creek-ignore-shiver-pony-walnut-this-solution-vague-struggle |  
+| bip_39_word_dash_12 | merry-region-creek-ignore-shiver-pony-walnut-this-solution-vague-struggle-apart |  
+| bip_39_word_dash_2 | merry-region |  
+| bip_39_word_dash_3 | merry-region-creek |  
+| bip_39_word_dash_4 | merry-region-creek-ignore |  
+| bip_39_word_dash_5 | merry-region-creek-ignore-shiver |  
+| bip_39_word_dash_6 | merry-region-creek-ignore-shiver-pony |  
+| bip_39_word_dash_7 | merry-region-creek-ignore-shiver-pony-walnut |  
+| bip_39_word_dash_8 | merry-region-creek-ignore-shiver-pony-walnut-this |  
+| bip_39_word_dash_9 | merry-region-creek-ignore-shiver-pony-walnut-this-solution |  
 | bip_39_word_new_br_1 | merry |  
 | bip_39_word_new_br_10 | merry<br>region<br>creek<br>ignore<br>shiver<br>pony<br>walnut<br>this<br>solution<br>vague |  
 | bip_39_word_new_br_11 | merry<br>region<br>creek<br>ignore<br>shiver<br>pony<br>walnut<br>this<br>solution<br>vague<br>struggle |  
@@ -147,6 +159,18 @@ solution |
 | bip_39_word_space_7 | merry region creek ignore shiver pony walnut |  
 | bip_39_word_space_8 | merry region creek ignore shiver pony walnut this |  
 | bip_39_word_space_9 | merry region creek ignore shiver pony walnut this solution |  
+| bip_39_word_underscore_1 | merry |  
+| bip_39_word_underscore_10 | merry_region_creek_ignore_shiver_pony_walnut_this_solution_vague |  
+| bip_39_word_underscore_11 | merry_region_creek_ignore_shiver_pony_walnut_this_solution_vague_struggle |  
+| bip_39_word_underscore_12 | merry_region_creek_ignore_shiver_pony_walnut_this_solution_vague_struggle_apart |  
+| bip_39_word_underscore_2 | merry_region |  
+| bip_39_word_underscore_3 | merry_region_creek |  
+| bip_39_word_underscore_4 | merry_region_creek_ignore |  
+| bip_39_word_underscore_5 | merry_region_creek_ignore_shiver |  
+| bip_39_word_underscore_6 | merry_region_creek_ignore_shiver_pony |  
+| bip_39_word_underscore_7 | merry_region_creek_ignore_shiver_pony_walnut |  
+| bip_39_word_underscore_8 | merry_region_creek_ignore_shiver_pony_walnut_this |  
+| bip_39_word_underscore_9 | merry_region_creek_ignore_shiver_pony_walnut_this_solution |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pattern
+bip_39_word_dash_10: pattern-lady-book-upset-drift-dose-spirit-evolve-resemble-banana
+bip_39_word_dash_11: pattern-lady-book-upset-drift-dose-spirit-evolve-resemble-banana-dress
+bip_39_word_dash_12: pattern-lady-book-upset-drift-dose-spirit-evolve-resemble-banana-dress-amazing
+bip_39_word_dash_2: pattern-lady
+bip_39_word_dash_3: pattern-lady-book
+bip_39_word_dash_4: pattern-lady-book-upset
+bip_39_word_dash_5: pattern-lady-book-upset-drift
+bip_39_word_dash_6: pattern-lady-book-upset-drift-dose
+bip_39_word_dash_7: pattern-lady-book-upset-drift-dose-spirit
+bip_39_word_dash_8: pattern-lady-book-upset-drift-dose-spirit-evolve
+bip_39_word_dash_9: pattern-lady-book-upset-drift-dose-spirit-evolve-resemble
 bip_39_word_new_br_1: pattern
 bip_39_word_new_br_10: pattern<br>lady<br>book<br>upset<br>drift<br>dose<br>spirit<br>evolve<br>resemble<br>banana
 bip_39_word_new_br_11: pattern<br>lady<br>book<br>upset<br>drift<br>dose<br>spirit<br>evolve<br>resemble<br>banana<br>dress
@@ -193,6 +205,18 @@ bip_39_word_space_6: pattern lady book upset drift dose
 bip_39_word_space_7: pattern lady book upset drift dose spirit
 bip_39_word_space_8: pattern lady book upset drift dose spirit evolve
 bip_39_word_space_9: pattern lady book upset drift dose spirit evolve resemble
+bip_39_word_underscore_1: pattern
+bip_39_word_underscore_10: pattern_lady_book_upset_drift_dose_spirit_evolve_resemble_banana
+bip_39_word_underscore_11: pattern_lady_book_upset_drift_dose_spirit_evolve_resemble_banana_dress
+bip_39_word_underscore_12: pattern_lady_book_upset_drift_dose_spirit_evolve_resemble_banana_dress_amazing
+bip_39_word_underscore_2: pattern_lady
+bip_39_word_underscore_3: pattern_lady_book
+bip_39_word_underscore_4: pattern_lady_book_upset
+bip_39_word_underscore_5: pattern_lady_book_upset_drift
+bip_39_word_underscore_6: pattern_lady_book_upset_drift_dose
+bip_39_word_underscore_7: pattern_lady_book_upset_drift_dose_spirit
+bip_39_word_underscore_8: pattern_lady_book_upset_drift_dose_spirit_evolve
+bip_39_word_underscore_9: pattern_lady_book_upset_drift_dose_spirit_evolve_resemble
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

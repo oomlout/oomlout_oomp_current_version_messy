@@ -1,3 +1,15 @@
+bip_39_word_dash_1: health
+bip_39_word_dash_10: health-accident-grain-treat-advance-soup-badge-hunt-agent-enroll
+bip_39_word_dash_11: health-accident-grain-treat-advance-soup-badge-hunt-agent-enroll-doll
+bip_39_word_dash_12: health-accident-grain-treat-advance-soup-badge-hunt-agent-enroll-doll-among
+bip_39_word_dash_2: health-accident
+bip_39_word_dash_3: health-accident-grain
+bip_39_word_dash_4: health-accident-grain-treat
+bip_39_word_dash_5: health-accident-grain-treat-advance
+bip_39_word_dash_6: health-accident-grain-treat-advance-soup
+bip_39_word_dash_7: health-accident-grain-treat-advance-soup-badge
+bip_39_word_dash_8: health-accident-grain-treat-advance-soup-badge-hunt
+bip_39_word_dash_9: health-accident-grain-treat-advance-soup-badge-hunt-agent
 bip_39_word_new_br_1: health
 bip_39_word_new_br_10: health<br>accident<br>grain<br>treat<br>advance<br>soup<br>badge<br>hunt<br>agent<br>enroll
 bip_39_word_new_br_11: health<br>accident<br>grain<br>treat<br>advance<br>soup<br>badge<br>hunt<br>agent<br>enroll<br>doll
@@ -193,6 +205,18 @@ bip_39_word_space_6: health accident grain treat advance soup
 bip_39_word_space_7: health accident grain treat advance soup badge
 bip_39_word_space_8: health accident grain treat advance soup badge hunt
 bip_39_word_space_9: health accident grain treat advance soup badge hunt agent
+bip_39_word_underscore_1: health
+bip_39_word_underscore_10: health_accident_grain_treat_advance_soup_badge_hunt_agent_enroll
+bip_39_word_underscore_11: health_accident_grain_treat_advance_soup_badge_hunt_agent_enroll_doll
+bip_39_word_underscore_12: health_accident_grain_treat_advance_soup_badge_hunt_agent_enroll_doll_among
+bip_39_word_underscore_2: health_accident
+bip_39_word_underscore_3: health_accident_grain
+bip_39_word_underscore_4: health_accident_grain_treat
+bip_39_word_underscore_5: health_accident_grain_treat_advance
+bip_39_word_underscore_6: health_accident_grain_treat_advance_soup
+bip_39_word_underscore_7: health_accident_grain_treat_advance_soup_badge
+bip_39_word_underscore_8: health_accident_grain_treat_advance_soup_badge_hunt
+bip_39_word_underscore_9: health_accident_grain_treat_advance_soup_badge_hunt_agent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

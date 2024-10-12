@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deer
+bip_39_word_dash_10: deer-three-knock-floor-chunk-fade-flower-rival-weasel-neither
+bip_39_word_dash_11: deer-three-knock-floor-chunk-fade-flower-rival-weasel-neither-cactus
+bip_39_word_dash_12: deer-three-knock-floor-chunk-fade-flower-rival-weasel-neither-cactus-arch
+bip_39_word_dash_2: deer-three
+bip_39_word_dash_3: deer-three-knock
+bip_39_word_dash_4: deer-three-knock-floor
+bip_39_word_dash_5: deer-three-knock-floor-chunk
+bip_39_word_dash_6: deer-three-knock-floor-chunk-fade
+bip_39_word_dash_7: deer-three-knock-floor-chunk-fade-flower
+bip_39_word_dash_8: deer-three-knock-floor-chunk-fade-flower-rival
+bip_39_word_dash_9: deer-three-knock-floor-chunk-fade-flower-rival-weasel
 bip_39_word_new_br_1: deer
 bip_39_word_new_br_10: deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither
 bip_39_word_new_br_11: deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither<br>cactus
@@ -193,6 +205,18 @@ bip_39_word_space_6: deer three knock floor chunk fade
 bip_39_word_space_7: deer three knock floor chunk fade flower
 bip_39_word_space_8: deer three knock floor chunk fade flower rival
 bip_39_word_space_9: deer three knock floor chunk fade flower rival weasel
+bip_39_word_underscore_1: deer
+bip_39_word_underscore_10: deer_three_knock_floor_chunk_fade_flower_rival_weasel_neither
+bip_39_word_underscore_11: deer_three_knock_floor_chunk_fade_flower_rival_weasel_neither_cactus
+bip_39_word_underscore_12: deer_three_knock_floor_chunk_fade_flower_rival_weasel_neither_cactus_arch
+bip_39_word_underscore_2: deer_three
+bip_39_word_underscore_3: deer_three_knock
+bip_39_word_underscore_4: deer_three_knock_floor
+bip_39_word_underscore_5: deer_three_knock_floor_chunk
+bip_39_word_underscore_6: deer_three_knock_floor_chunk_fade
+bip_39_word_underscore_7: deer_three_knock_floor_chunk_fade_flower
+bip_39_word_underscore_8: deer_three_knock_floor_chunk_fade_flower_rival
+bip_39_word_underscore_9: deer_three_knock_floor_chunk_fade_flower_rival_weasel
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

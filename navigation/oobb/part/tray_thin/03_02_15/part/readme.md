@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slight |  
+| bip_39_word_dash_10 | slight-reopen-purse-half-fossil-humble-mechanic-sock-trial-shield |  
+| bip_39_word_dash_11 | slight-reopen-purse-half-fossil-humble-mechanic-sock-trial-shield-pupil |  
+| bip_39_word_dash_12 | slight-reopen-purse-half-fossil-humble-mechanic-sock-trial-shield-pupil-arm |  
+| bip_39_word_dash_2 | slight-reopen |  
+| bip_39_word_dash_3 | slight-reopen-purse |  
+| bip_39_word_dash_4 | slight-reopen-purse-half |  
+| bip_39_word_dash_5 | slight-reopen-purse-half-fossil |  
+| bip_39_word_dash_6 | slight-reopen-purse-half-fossil-humble |  
+| bip_39_word_dash_7 | slight-reopen-purse-half-fossil-humble-mechanic |  
+| bip_39_word_dash_8 | slight-reopen-purse-half-fossil-humble-mechanic-sock |  
+| bip_39_word_dash_9 | slight-reopen-purse-half-fossil-humble-mechanic-sock-trial |  
 | bip_39_word_new_br_1 | slight |  
 | bip_39_word_new_br_10 | slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock<br>trial<br>shield |  
 | bip_39_word_new_br_11 | slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock<br>trial<br>shield<br>pupil |  
@@ -147,6 +159,18 @@ trial |
 | bip_39_word_space_7 | slight reopen purse half fossil humble mechanic |  
 | bip_39_word_space_8 | slight reopen purse half fossil humble mechanic sock |  
 | bip_39_word_space_9 | slight reopen purse half fossil humble mechanic sock trial |  
+| bip_39_word_underscore_1 | slight |  
+| bip_39_word_underscore_10 | slight_reopen_purse_half_fossil_humble_mechanic_sock_trial_shield |  
+| bip_39_word_underscore_11 | slight_reopen_purse_half_fossil_humble_mechanic_sock_trial_shield_pupil |  
+| bip_39_word_underscore_12 | slight_reopen_purse_half_fossil_humble_mechanic_sock_trial_shield_pupil_arm |  
+| bip_39_word_underscore_2 | slight_reopen |  
+| bip_39_word_underscore_3 | slight_reopen_purse |  
+| bip_39_word_underscore_4 | slight_reopen_purse_half |  
+| bip_39_word_underscore_5 | slight_reopen_purse_half_fossil |  
+| bip_39_word_underscore_6 | slight_reopen_purse_half_fossil_humble |  
+| bip_39_word_underscore_7 | slight_reopen_purse_half_fossil_humble_mechanic |  
+| bip_39_word_underscore_8 | slight_reopen_purse_half_fossil_humble_mechanic_sock |  
+| bip_39_word_underscore_9 | slight_reopen_purse_half_fossil_humble_mechanic_sock_trial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ritual |  
+| bip_39_word_dash_10 | ritual-sponsor-three-metal-coral-youth-into-deny-rally-bunker |  
+| bip_39_word_dash_11 | ritual-sponsor-three-metal-coral-youth-into-deny-rally-bunker-exist |  
+| bip_39_word_dash_12 | ritual-sponsor-three-metal-coral-youth-into-deny-rally-bunker-exist-alpha |  
+| bip_39_word_dash_2 | ritual-sponsor |  
+| bip_39_word_dash_3 | ritual-sponsor-three |  
+| bip_39_word_dash_4 | ritual-sponsor-three-metal |  
+| bip_39_word_dash_5 | ritual-sponsor-three-metal-coral |  
+| bip_39_word_dash_6 | ritual-sponsor-three-metal-coral-youth |  
+| bip_39_word_dash_7 | ritual-sponsor-three-metal-coral-youth-into |  
+| bip_39_word_dash_8 | ritual-sponsor-three-metal-coral-youth-into-deny |  
+| bip_39_word_dash_9 | ritual-sponsor-three-metal-coral-youth-into-deny-rally |  
 | bip_39_word_new_br_1 | ritual |  
 | bip_39_word_new_br_10 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny<br>rally<br>bunker |  
 | bip_39_word_new_br_11 | ritual<br>sponsor<br>three<br>metal<br>coral<br>youth<br>into<br>deny<br>rally<br>bunker<br>exist |  
@@ -147,6 +159,18 @@ rally |
 | bip_39_word_space_7 | ritual sponsor three metal coral youth into |  
 | bip_39_word_space_8 | ritual sponsor three metal coral youth into deny |  
 | bip_39_word_space_9 | ritual sponsor three metal coral youth into deny rally |  
+| bip_39_word_underscore_1 | ritual |  
+| bip_39_word_underscore_10 | ritual_sponsor_three_metal_coral_youth_into_deny_rally_bunker |  
+| bip_39_word_underscore_11 | ritual_sponsor_three_metal_coral_youth_into_deny_rally_bunker_exist |  
+| bip_39_word_underscore_12 | ritual_sponsor_three_metal_coral_youth_into_deny_rally_bunker_exist_alpha |  
+| bip_39_word_underscore_2 | ritual_sponsor |  
+| bip_39_word_underscore_3 | ritual_sponsor_three |  
+| bip_39_word_underscore_4 | ritual_sponsor_three_metal |  
+| bip_39_word_underscore_5 | ritual_sponsor_three_metal_coral |  
+| bip_39_word_underscore_6 | ritual_sponsor_three_metal_coral_youth |  
+| bip_39_word_underscore_7 | ritual_sponsor_three_metal_coral_youth_into |  
+| bip_39_word_underscore_8 | ritual_sponsor_three_metal_coral_youth_into_deny |  
+| bip_39_word_underscore_9 | ritual_sponsor_three_metal_coral_youth_into_deny_rally |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | doll |  
+| bip_39_word_dash_10 | doll-nephew-juice-rebuild-thank-search-leader-load-anger-very |  
+| bip_39_word_dash_11 | doll-nephew-juice-rebuild-thank-search-leader-load-anger-very-culture |  
+| bip_39_word_dash_12 | doll-nephew-juice-rebuild-thank-search-leader-load-anger-very-culture-agent |  
+| bip_39_word_dash_2 | doll-nephew |  
+| bip_39_word_dash_3 | doll-nephew-juice |  
+| bip_39_word_dash_4 | doll-nephew-juice-rebuild |  
+| bip_39_word_dash_5 | doll-nephew-juice-rebuild-thank |  
+| bip_39_word_dash_6 | doll-nephew-juice-rebuild-thank-search |  
+| bip_39_word_dash_7 | doll-nephew-juice-rebuild-thank-search-leader |  
+| bip_39_word_dash_8 | doll-nephew-juice-rebuild-thank-search-leader-load |  
+| bip_39_word_dash_9 | doll-nephew-juice-rebuild-thank-search-leader-load-anger |  
 | bip_39_word_new_br_1 | doll |  
 | bip_39_word_new_br_10 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very |  
 | bip_39_word_new_br_11 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very<br>culture |  
@@ -147,6 +159,18 @@ anger |
 | bip_39_word_space_7 | doll nephew juice rebuild thank search leader |  
 | bip_39_word_space_8 | doll nephew juice rebuild thank search leader load |  
 | bip_39_word_space_9 | doll nephew juice rebuild thank search leader load anger |  
+| bip_39_word_underscore_1 | doll |  
+| bip_39_word_underscore_10 | doll_nephew_juice_rebuild_thank_search_leader_load_anger_very |  
+| bip_39_word_underscore_11 | doll_nephew_juice_rebuild_thank_search_leader_load_anger_very_culture |  
+| bip_39_word_underscore_12 | doll_nephew_juice_rebuild_thank_search_leader_load_anger_very_culture_agent |  
+| bip_39_word_underscore_2 | doll_nephew |  
+| bip_39_word_underscore_3 | doll_nephew_juice |  
+| bip_39_word_underscore_4 | doll_nephew_juice_rebuild |  
+| bip_39_word_underscore_5 | doll_nephew_juice_rebuild_thank |  
+| bip_39_word_underscore_6 | doll_nephew_juice_rebuild_thank_search |  
+| bip_39_word_underscore_7 | doll_nephew_juice_rebuild_thank_search_leader |  
+| bip_39_word_underscore_8 | doll_nephew_juice_rebuild_thank_search_leader_load |  
+| bip_39_word_underscore_9 | doll_nephew_juice_rebuild_thank_search_leader_load_anger |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

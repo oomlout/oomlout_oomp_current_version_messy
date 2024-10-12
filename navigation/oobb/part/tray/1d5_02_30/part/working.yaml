@@ -1,3 +1,15 @@
+bip_39_word_dash_1: upper
+bip_39_word_dash_10: upper-wrist-flush-giggle-position-leaf-hurdle-cabin-mutual-crew
+bip_39_word_dash_11: upper-wrist-flush-giggle-position-leaf-hurdle-cabin-mutual-crew-strong
+bip_39_word_dash_12: upper-wrist-flush-giggle-position-leaf-hurdle-cabin-mutual-crew-strong-author
+bip_39_word_dash_2: upper-wrist
+bip_39_word_dash_3: upper-wrist-flush
+bip_39_word_dash_4: upper-wrist-flush-giggle
+bip_39_word_dash_5: upper-wrist-flush-giggle-position
+bip_39_word_dash_6: upper-wrist-flush-giggle-position-leaf
+bip_39_word_dash_7: upper-wrist-flush-giggle-position-leaf-hurdle
+bip_39_word_dash_8: upper-wrist-flush-giggle-position-leaf-hurdle-cabin
+bip_39_word_dash_9: upper-wrist-flush-giggle-position-leaf-hurdle-cabin-mutual
 bip_39_word_new_br_1: upper
 bip_39_word_new_br_10: upper<br>wrist<br>flush<br>giggle<br>position<br>leaf<br>hurdle<br>cabin<br>mutual<br>crew
 bip_39_word_new_br_11: upper<br>wrist<br>flush<br>giggle<br>position<br>leaf<br>hurdle<br>cabin<br>mutual<br>crew<br>strong
@@ -193,6 +205,18 @@ bip_39_word_space_6: upper wrist flush giggle position leaf
 bip_39_word_space_7: upper wrist flush giggle position leaf hurdle
 bip_39_word_space_8: upper wrist flush giggle position leaf hurdle cabin
 bip_39_word_space_9: upper wrist flush giggle position leaf hurdle cabin mutual
+bip_39_word_underscore_1: upper
+bip_39_word_underscore_10: upper_wrist_flush_giggle_position_leaf_hurdle_cabin_mutual_crew
+bip_39_word_underscore_11: upper_wrist_flush_giggle_position_leaf_hurdle_cabin_mutual_crew_strong
+bip_39_word_underscore_12: upper_wrist_flush_giggle_position_leaf_hurdle_cabin_mutual_crew_strong_author
+bip_39_word_underscore_2: upper_wrist
+bip_39_word_underscore_3: upper_wrist_flush
+bip_39_word_underscore_4: upper_wrist_flush_giggle
+bip_39_word_underscore_5: upper_wrist_flush_giggle_position
+bip_39_word_underscore_6: upper_wrist_flush_giggle_position_leaf
+bip_39_word_underscore_7: upper_wrist_flush_giggle_position_leaf_hurdle
+bip_39_word_underscore_8: upper_wrist_flush_giggle_position_leaf_hurdle_cabin
+bip_39_word_underscore_9: upper_wrist_flush_giggle_position_leaf_hurdle_cabin_mutual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

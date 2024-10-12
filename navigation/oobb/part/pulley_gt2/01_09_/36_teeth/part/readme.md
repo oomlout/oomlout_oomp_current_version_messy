@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | script |  
+| bip_39_word_dash_10 | script-catch-lake-merge-finish-armed-pipe-merit-what-sketch |  
+| bip_39_word_dash_11 | script-catch-lake-merge-finish-armed-pipe-merit-what-sketch-powder |  
+| bip_39_word_dash_12 | script-catch-lake-merge-finish-armed-pipe-merit-what-sketch-powder-announce |  
+| bip_39_word_dash_2 | script-catch |  
+| bip_39_word_dash_3 | script-catch-lake |  
+| bip_39_word_dash_4 | script-catch-lake-merge |  
+| bip_39_word_dash_5 | script-catch-lake-merge-finish |  
+| bip_39_word_dash_6 | script-catch-lake-merge-finish-armed |  
+| bip_39_word_dash_7 | script-catch-lake-merge-finish-armed-pipe |  
+| bip_39_word_dash_8 | script-catch-lake-merge-finish-armed-pipe-merit |  
+| bip_39_word_dash_9 | script-catch-lake-merge-finish-armed-pipe-merit-what |  
 | bip_39_word_new_br_1 | script |  
 | bip_39_word_new_br_10 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch |  
 | bip_39_word_new_br_11 | script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch<br>powder |  
@@ -147,6 +159,18 @@ what |
 | bip_39_word_space_7 | script catch lake merge finish armed pipe |  
 | bip_39_word_space_8 | script catch lake merge finish armed pipe merit |  
 | bip_39_word_space_9 | script catch lake merge finish armed pipe merit what |  
+| bip_39_word_underscore_1 | script |  
+| bip_39_word_underscore_10 | script_catch_lake_merge_finish_armed_pipe_merit_what_sketch |  
+| bip_39_word_underscore_11 | script_catch_lake_merge_finish_armed_pipe_merit_what_sketch_powder |  
+| bip_39_word_underscore_12 | script_catch_lake_merge_finish_armed_pipe_merit_what_sketch_powder_announce |  
+| bip_39_word_underscore_2 | script_catch |  
+| bip_39_word_underscore_3 | script_catch_lake |  
+| bip_39_word_underscore_4 | script_catch_lake_merge |  
+| bip_39_word_underscore_5 | script_catch_lake_merge_finish |  
+| bip_39_word_underscore_6 | script_catch_lake_merge_finish_armed |  
+| bip_39_word_underscore_7 | script_catch_lake_merge_finish_armed_pipe |  
+| bip_39_word_underscore_8 | script_catch_lake_merge_finish_armed_pipe_merit |  
+| bip_39_word_underscore_9 | script_catch_lake_merge_finish_armed_pipe_merit_what |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

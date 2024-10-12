@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gas |  
+| bip_39_word_dash_10 | gas-rubber-entry-enact-miss-chest-skill-shoulder-banner-reject |  
+| bip_39_word_dash_11 | gas-rubber-entry-enact-miss-chest-skill-shoulder-banner-reject-velvet |  
+| bip_39_word_dash_12 | gas-rubber-entry-enact-miss-chest-skill-shoulder-banner-reject-velvet-acid |  
+| bip_39_word_dash_2 | gas-rubber |  
+| bip_39_word_dash_3 | gas-rubber-entry |  
+| bip_39_word_dash_4 | gas-rubber-entry-enact |  
+| bip_39_word_dash_5 | gas-rubber-entry-enact-miss |  
+| bip_39_word_dash_6 | gas-rubber-entry-enact-miss-chest |  
+| bip_39_word_dash_7 | gas-rubber-entry-enact-miss-chest-skill |  
+| bip_39_word_dash_8 | gas-rubber-entry-enact-miss-chest-skill-shoulder |  
+| bip_39_word_dash_9 | gas-rubber-entry-enact-miss-chest-skill-shoulder-banner |  
 | bip_39_word_new_br_1 | gas |  
 | bip_39_word_new_br_10 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder<br>banner<br>reject |  
 | bip_39_word_new_br_11 | gas<br>rubber<br>entry<br>enact<br>miss<br>chest<br>skill<br>shoulder<br>banner<br>reject<br>velvet |  
@@ -147,6 +159,18 @@ banner |
 | bip_39_word_space_7 | gas rubber entry enact miss chest skill |  
 | bip_39_word_space_8 | gas rubber entry enact miss chest skill shoulder |  
 | bip_39_word_space_9 | gas rubber entry enact miss chest skill shoulder banner |  
+| bip_39_word_underscore_1 | gas |  
+| bip_39_word_underscore_10 | gas_rubber_entry_enact_miss_chest_skill_shoulder_banner_reject |  
+| bip_39_word_underscore_11 | gas_rubber_entry_enact_miss_chest_skill_shoulder_banner_reject_velvet |  
+| bip_39_word_underscore_12 | gas_rubber_entry_enact_miss_chest_skill_shoulder_banner_reject_velvet_acid |  
+| bip_39_word_underscore_2 | gas_rubber |  
+| bip_39_word_underscore_3 | gas_rubber_entry |  
+| bip_39_word_underscore_4 | gas_rubber_entry_enact |  
+| bip_39_word_underscore_5 | gas_rubber_entry_enact_miss |  
+| bip_39_word_underscore_6 | gas_rubber_entry_enact_miss_chest |  
+| bip_39_word_underscore_7 | gas_rubber_entry_enact_miss_chest_skill |  
+| bip_39_word_underscore_8 | gas_rubber_entry_enact_miss_chest_skill_shoulder |  
+| bip_39_word_underscore_9 | gas_rubber_entry_enact_miss_chest_skill_shoulder_banner |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

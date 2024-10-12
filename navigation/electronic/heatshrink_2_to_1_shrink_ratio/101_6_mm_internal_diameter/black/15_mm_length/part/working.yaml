@@ -1,3 +1,15 @@
+bip_39_word_dash_1: veteran
+bip_39_word_dash_10: veteran-zebra-easy-master-okay-royal-genre-jazz-iron-decline
+bip_39_word_dash_11: veteran-zebra-easy-master-okay-royal-genre-jazz-iron-decline-happy
+bip_39_word_dash_12: veteran-zebra-easy-master-okay-royal-genre-jazz-iron-decline-happy-avocado
+bip_39_word_dash_2: veteran-zebra
+bip_39_word_dash_3: veteran-zebra-easy
+bip_39_word_dash_4: veteran-zebra-easy-master
+bip_39_word_dash_5: veteran-zebra-easy-master-okay
+bip_39_word_dash_6: veteran-zebra-easy-master-okay-royal
+bip_39_word_dash_7: veteran-zebra-easy-master-okay-royal-genre
+bip_39_word_dash_8: veteran-zebra-easy-master-okay-royal-genre-jazz
+bip_39_word_dash_9: veteran-zebra-easy-master-okay-royal-genre-jazz-iron
 bip_39_word_new_br_1: veteran
 bip_39_word_new_br_10: veteran<br>zebra<br>easy<br>master<br>okay<br>royal<br>genre<br>jazz<br>iron<br>decline
 bip_39_word_new_br_11: veteran<br>zebra<br>easy<br>master<br>okay<br>royal<br>genre<br>jazz<br>iron<br>decline<br>happy
@@ -193,6 +205,18 @@ bip_39_word_space_6: veteran zebra easy master okay royal
 bip_39_word_space_7: veteran zebra easy master okay royal genre
 bip_39_word_space_8: veteran zebra easy master okay royal genre jazz
 bip_39_word_space_9: veteran zebra easy master okay royal genre jazz iron
+bip_39_word_underscore_1: veteran
+bip_39_word_underscore_10: veteran_zebra_easy_master_okay_royal_genre_jazz_iron_decline
+bip_39_word_underscore_11: veteran_zebra_easy_master_okay_royal_genre_jazz_iron_decline_happy
+bip_39_word_underscore_12: veteran_zebra_easy_master_okay_royal_genre_jazz_iron_decline_happy_avocado
+bip_39_word_underscore_2: veteran_zebra
+bip_39_word_underscore_3: veteran_zebra_easy
+bip_39_word_underscore_4: veteran_zebra_easy_master
+bip_39_word_underscore_5: veteran_zebra_easy_master_okay
+bip_39_word_underscore_6: veteran_zebra_easy_master_okay_royal
+bip_39_word_underscore_7: veteran_zebra_easy_master_okay_royal_genre
+bip_39_word_underscore_8: veteran_zebra_easy_master_okay_royal_genre_jazz
+bip_39_word_underscore_9: veteran_zebra_easy_master_okay_royal_genre_jazz_iron
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

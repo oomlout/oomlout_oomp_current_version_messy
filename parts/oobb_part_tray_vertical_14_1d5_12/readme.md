@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | saddle |  
+| bip_39_word_dash_10 | saddle-label-velvet-candy-agent-trade-express-cliff-razor-shoulder |  
+| bip_39_word_dash_11 | saddle-label-velvet-candy-agent-trade-express-cliff-razor-shoulder-moral |  
+| bip_39_word_dash_12 | saddle-label-velvet-candy-agent-trade-express-cliff-razor-shoulder-moral-art |  
+| bip_39_word_dash_2 | saddle-label |  
+| bip_39_word_dash_3 | saddle-label-velvet |  
+| bip_39_word_dash_4 | saddle-label-velvet-candy |  
+| bip_39_word_dash_5 | saddle-label-velvet-candy-agent |  
+| bip_39_word_dash_6 | saddle-label-velvet-candy-agent-trade |  
+| bip_39_word_dash_7 | saddle-label-velvet-candy-agent-trade-express |  
+| bip_39_word_dash_8 | saddle-label-velvet-candy-agent-trade-express-cliff |  
+| bip_39_word_dash_9 | saddle-label-velvet-candy-agent-trade-express-cliff-razor |  
 | bip_39_word_new_br_1 | saddle |  
 | bip_39_word_new_br_10 | saddle<br>label<br>velvet<br>candy<br>agent<br>trade<br>express<br>cliff<br>razor<br>shoulder |  
 | bip_39_word_new_br_11 | saddle<br>label<br>velvet<br>candy<br>agent<br>trade<br>express<br>cliff<br>razor<br>shoulder<br>moral |  
@@ -147,6 +159,18 @@ razor |
 | bip_39_word_space_7 | saddle label velvet candy agent trade express |  
 | bip_39_word_space_8 | saddle label velvet candy agent trade express cliff |  
 | bip_39_word_space_9 | saddle label velvet candy agent trade express cliff razor |  
+| bip_39_word_underscore_1 | saddle |  
+| bip_39_word_underscore_10 | saddle_label_velvet_candy_agent_trade_express_cliff_razor_shoulder |  
+| bip_39_word_underscore_11 | saddle_label_velvet_candy_agent_trade_express_cliff_razor_shoulder_moral |  
+| bip_39_word_underscore_12 | saddle_label_velvet_candy_agent_trade_express_cliff_razor_shoulder_moral_art |  
+| bip_39_word_underscore_2 | saddle_label |  
+| bip_39_word_underscore_3 | saddle_label_velvet |  
+| bip_39_word_underscore_4 | saddle_label_velvet_candy |  
+| bip_39_word_underscore_5 | saddle_label_velvet_candy_agent |  
+| bip_39_word_underscore_6 | saddle_label_velvet_candy_agent_trade |  
+| bip_39_word_underscore_7 | saddle_label_velvet_candy_agent_trade_express |  
+| bip_39_word_underscore_8 | saddle_label_velvet_candy_agent_trade_express_cliff |  
+| bip_39_word_underscore_9 | saddle_label_velvet_candy_agent_trade_express_cliff_razor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

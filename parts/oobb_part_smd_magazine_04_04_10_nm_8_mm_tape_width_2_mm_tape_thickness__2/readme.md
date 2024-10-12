@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | throw |  
+| bip_39_word_dash_10 | throw-token-unfold-accuse-roof-traffic-typical-rabbit-remove-piece |  
+| bip_39_word_dash_11 | throw-token-unfold-accuse-roof-traffic-typical-rabbit-remove-piece-leaf |  
+| bip_39_word_dash_12 | throw-token-unfold-accuse-roof-traffic-typical-rabbit-remove-piece-leaf-antique |  
+| bip_39_word_dash_2 | throw-token |  
+| bip_39_word_dash_3 | throw-token-unfold |  
+| bip_39_word_dash_4 | throw-token-unfold-accuse |  
+| bip_39_word_dash_5 | throw-token-unfold-accuse-roof |  
+| bip_39_word_dash_6 | throw-token-unfold-accuse-roof-traffic |  
+| bip_39_word_dash_7 | throw-token-unfold-accuse-roof-traffic-typical |  
+| bip_39_word_dash_8 | throw-token-unfold-accuse-roof-traffic-typical-rabbit |  
+| bip_39_word_dash_9 | throw-token-unfold-accuse-roof-traffic-typical-rabbit-remove |  
 | bip_39_word_new_br_1 | throw |  
 | bip_39_word_new_br_10 | throw<br>token<br>unfold<br>accuse<br>roof<br>traffic<br>typical<br>rabbit<br>remove<br>piece |  
 | bip_39_word_new_br_11 | throw<br>token<br>unfold<br>accuse<br>roof<br>traffic<br>typical<br>rabbit<br>remove<br>piece<br>leaf |  
@@ -147,6 +159,18 @@ remove |
 | bip_39_word_space_7 | throw token unfold accuse roof traffic typical |  
 | bip_39_word_space_8 | throw token unfold accuse roof traffic typical rabbit |  
 | bip_39_word_space_9 | throw token unfold accuse roof traffic typical rabbit remove |  
+| bip_39_word_underscore_1 | throw |  
+| bip_39_word_underscore_10 | throw_token_unfold_accuse_roof_traffic_typical_rabbit_remove_piece |  
+| bip_39_word_underscore_11 | throw_token_unfold_accuse_roof_traffic_typical_rabbit_remove_piece_leaf |  
+| bip_39_word_underscore_12 | throw_token_unfold_accuse_roof_traffic_typical_rabbit_remove_piece_leaf_antique |  
+| bip_39_word_underscore_2 | throw_token |  
+| bip_39_word_underscore_3 | throw_token_unfold |  
+| bip_39_word_underscore_4 | throw_token_unfold_accuse |  
+| bip_39_word_underscore_5 | throw_token_unfold_accuse_roof |  
+| bip_39_word_underscore_6 | throw_token_unfold_accuse_roof_traffic |  
+| bip_39_word_underscore_7 | throw_token_unfold_accuse_roof_traffic_typical |  
+| bip_39_word_underscore_8 | throw_token_unfold_accuse_roof_traffic_typical_rabbit |  
+| bip_39_word_underscore_9 | throw_token_unfold_accuse_roof_traffic_typical_rabbit_remove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

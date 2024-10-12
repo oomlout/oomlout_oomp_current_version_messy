@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | east |  
+| bip_39_word_dash_10 | east-drip-picture-edge-appear-now-repeat-silly-demise-naive |  
+| bip_39_word_dash_11 | east-drip-picture-edge-appear-now-repeat-silly-demise-naive-seminar |  
+| bip_39_word_dash_12 | east-drip-picture-edge-appear-now-repeat-silly-demise-naive-seminar-adult |  
+| bip_39_word_dash_2 | east-drip |  
+| bip_39_word_dash_3 | east-drip-picture |  
+| bip_39_word_dash_4 | east-drip-picture-edge |  
+| bip_39_word_dash_5 | east-drip-picture-edge-appear |  
+| bip_39_word_dash_6 | east-drip-picture-edge-appear-now |  
+| bip_39_word_dash_7 | east-drip-picture-edge-appear-now-repeat |  
+| bip_39_word_dash_8 | east-drip-picture-edge-appear-now-repeat-silly |  
+| bip_39_word_dash_9 | east-drip-picture-edge-appear-now-repeat-silly-demise |  
 | bip_39_word_new_br_1 | east |  
 | bip_39_word_new_br_10 | east<br>drip<br>picture<br>edge<br>appear<br>now<br>repeat<br>silly<br>demise<br>naive |  
 | bip_39_word_new_br_11 | east<br>drip<br>picture<br>edge<br>appear<br>now<br>repeat<br>silly<br>demise<br>naive<br>seminar |  
@@ -147,6 +159,18 @@ demise |
 | bip_39_word_space_7 | east drip picture edge appear now repeat |  
 | bip_39_word_space_8 | east drip picture edge appear now repeat silly |  
 | bip_39_word_space_9 | east drip picture edge appear now repeat silly demise |  
+| bip_39_word_underscore_1 | east |  
+| bip_39_word_underscore_10 | east_drip_picture_edge_appear_now_repeat_silly_demise_naive |  
+| bip_39_word_underscore_11 | east_drip_picture_edge_appear_now_repeat_silly_demise_naive_seminar |  
+| bip_39_word_underscore_12 | east_drip_picture_edge_appear_now_repeat_silly_demise_naive_seminar_adult |  
+| bip_39_word_underscore_2 | east_drip |  
+| bip_39_word_underscore_3 | east_drip_picture |  
+| bip_39_word_underscore_4 | east_drip_picture_edge |  
+| bip_39_word_underscore_5 | east_drip_picture_edge_appear |  
+| bip_39_word_underscore_6 | east_drip_picture_edge_appear_now |  
+| bip_39_word_underscore_7 | east_drip_picture_edge_appear_now_repeat |  
+| bip_39_word_underscore_8 | east_drip_picture_edge_appear_now_repeat_silly |  
+| bip_39_word_underscore_9 | east_drip_picture_edge_appear_now_repeat_silly_demise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

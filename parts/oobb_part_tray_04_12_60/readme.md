@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glance |  
+| bip_39_word_dash_10 | glance-wink-misery-female-swing-remove-heavy-mutual-remove-shift |  
+| bip_39_word_dash_11 | glance-wink-misery-female-swing-remove-heavy-mutual-remove-shift-chaos |  
+| bip_39_word_dash_12 | glance-wink-misery-female-swing-remove-heavy-mutual-remove-shift-chaos-antenna |  
+| bip_39_word_dash_2 | glance-wink |  
+| bip_39_word_dash_3 | glance-wink-misery |  
+| bip_39_word_dash_4 | glance-wink-misery-female |  
+| bip_39_word_dash_5 | glance-wink-misery-female-swing |  
+| bip_39_word_dash_6 | glance-wink-misery-female-swing-remove |  
+| bip_39_word_dash_7 | glance-wink-misery-female-swing-remove-heavy |  
+| bip_39_word_dash_8 | glance-wink-misery-female-swing-remove-heavy-mutual |  
+| bip_39_word_dash_9 | glance-wink-misery-female-swing-remove-heavy-mutual-remove |  
 | bip_39_word_new_br_1 | glance |  
 | bip_39_word_new_br_10 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual<br>remove<br>shift |  
 | bip_39_word_new_br_11 | glance<br>wink<br>misery<br>female<br>swing<br>remove<br>heavy<br>mutual<br>remove<br>shift<br>chaos |  
@@ -147,6 +159,18 @@ remove |
 | bip_39_word_space_7 | glance wink misery female swing remove heavy |  
 | bip_39_word_space_8 | glance wink misery female swing remove heavy mutual |  
 | bip_39_word_space_9 | glance wink misery female swing remove heavy mutual remove |  
+| bip_39_word_underscore_1 | glance |  
+| bip_39_word_underscore_10 | glance_wink_misery_female_swing_remove_heavy_mutual_remove_shift |  
+| bip_39_word_underscore_11 | glance_wink_misery_female_swing_remove_heavy_mutual_remove_shift_chaos |  
+| bip_39_word_underscore_12 | glance_wink_misery_female_swing_remove_heavy_mutual_remove_shift_chaos_antenna |  
+| bip_39_word_underscore_2 | glance_wink |  
+| bip_39_word_underscore_3 | glance_wink_misery |  
+| bip_39_word_underscore_4 | glance_wink_misery_female |  
+| bip_39_word_underscore_5 | glance_wink_misery_female_swing |  
+| bip_39_word_underscore_6 | glance_wink_misery_female_swing_remove |  
+| bip_39_word_underscore_7 | glance_wink_misery_female_swing_remove_heavy |  
+| bip_39_word_underscore_8 | glance_wink_misery_female_swing_remove_heavy_mutual |  
+| bip_39_word_underscore_9 | glance_wink_misery_female_swing_remove_heavy_mutual_remove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flock |  
+| bip_39_word_dash_10 | flock-vehicle-sing-soda-logic-chunk-chase-recycle-topple-address |  
+| bip_39_word_dash_11 | flock-vehicle-sing-soda-logic-chunk-chase-recycle-topple-address-will |  
+| bip_39_word_dash_12 | flock-vehicle-sing-soda-logic-chunk-chase-recycle-topple-address-will-across |  
+| bip_39_word_dash_2 | flock-vehicle |  
+| bip_39_word_dash_3 | flock-vehicle-sing |  
+| bip_39_word_dash_4 | flock-vehicle-sing-soda |  
+| bip_39_word_dash_5 | flock-vehicle-sing-soda-logic |  
+| bip_39_word_dash_6 | flock-vehicle-sing-soda-logic-chunk |  
+| bip_39_word_dash_7 | flock-vehicle-sing-soda-logic-chunk-chase |  
+| bip_39_word_dash_8 | flock-vehicle-sing-soda-logic-chunk-chase-recycle |  
+| bip_39_word_dash_9 | flock-vehicle-sing-soda-logic-chunk-chase-recycle-topple |  
 | bip_39_word_new_br_1 | flock |  
 | bip_39_word_new_br_10 | flock<br>vehicle<br>sing<br>soda<br>logic<br>chunk<br>chase<br>recycle<br>topple<br>address |  
 | bip_39_word_new_br_11 | flock<br>vehicle<br>sing<br>soda<br>logic<br>chunk<br>chase<br>recycle<br>topple<br>address<br>will |  
@@ -147,6 +159,18 @@ topple |
 | bip_39_word_space_7 | flock vehicle sing soda logic chunk chase |  
 | bip_39_word_space_8 | flock vehicle sing soda logic chunk chase recycle |  
 | bip_39_word_space_9 | flock vehicle sing soda logic chunk chase recycle topple |  
+| bip_39_word_underscore_1 | flock |  
+| bip_39_word_underscore_10 | flock_vehicle_sing_soda_logic_chunk_chase_recycle_topple_address |  
+| bip_39_word_underscore_11 | flock_vehicle_sing_soda_logic_chunk_chase_recycle_topple_address_will |  
+| bip_39_word_underscore_12 | flock_vehicle_sing_soda_logic_chunk_chase_recycle_topple_address_will_across |  
+| bip_39_word_underscore_2 | flock_vehicle |  
+| bip_39_word_underscore_3 | flock_vehicle_sing |  
+| bip_39_word_underscore_4 | flock_vehicle_sing_soda |  
+| bip_39_word_underscore_5 | flock_vehicle_sing_soda_logic |  
+| bip_39_word_underscore_6 | flock_vehicle_sing_soda_logic_chunk |  
+| bip_39_word_underscore_7 | flock_vehicle_sing_soda_logic_chunk_chase |  
+| bip_39_word_underscore_8 | flock_vehicle_sing_soda_logic_chunk_chase_recycle |  
+| bip_39_word_underscore_9 | flock_vehicle_sing_soda_logic_chunk_chase_recycle_topple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

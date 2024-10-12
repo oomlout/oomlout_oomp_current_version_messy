@@ -1,3 +1,15 @@
+bip_39_word_dash_1: opera
+bip_39_word_dash_10: opera-reflect-boy-autumn-powder-insane-annual-alcohol-green-fiscal
+bip_39_word_dash_11: opera-reflect-boy-autumn-powder-insane-annual-alcohol-green-fiscal-demise
+bip_39_word_dash_12: opera-reflect-boy-autumn-powder-insane-annual-alcohol-green-fiscal-demise-absent
+bip_39_word_dash_2: opera-reflect
+bip_39_word_dash_3: opera-reflect-boy
+bip_39_word_dash_4: opera-reflect-boy-autumn
+bip_39_word_dash_5: opera-reflect-boy-autumn-powder
+bip_39_word_dash_6: opera-reflect-boy-autumn-powder-insane
+bip_39_word_dash_7: opera-reflect-boy-autumn-powder-insane-annual
+bip_39_word_dash_8: opera-reflect-boy-autumn-powder-insane-annual-alcohol
+bip_39_word_dash_9: opera-reflect-boy-autumn-powder-insane-annual-alcohol-green
 bip_39_word_new_br_1: opera
 bip_39_word_new_br_10: opera<br>reflect<br>boy<br>autumn<br>powder<br>insane<br>annual<br>alcohol<br>green<br>fiscal
 bip_39_word_new_br_11: opera<br>reflect<br>boy<br>autumn<br>powder<br>insane<br>annual<br>alcohol<br>green<br>fiscal<br>demise
@@ -194,6 +206,18 @@ bip_39_word_space_6: opera reflect boy autumn powder insane
 bip_39_word_space_7: opera reflect boy autumn powder insane annual
 bip_39_word_space_8: opera reflect boy autumn powder insane annual alcohol
 bip_39_word_space_9: opera reflect boy autumn powder insane annual alcohol green
+bip_39_word_underscore_1: opera
+bip_39_word_underscore_10: opera_reflect_boy_autumn_powder_insane_annual_alcohol_green_fiscal
+bip_39_word_underscore_11: opera_reflect_boy_autumn_powder_insane_annual_alcohol_green_fiscal_demise
+bip_39_word_underscore_12: opera_reflect_boy_autumn_powder_insane_annual_alcohol_green_fiscal_demise_absent
+bip_39_word_underscore_2: opera_reflect
+bip_39_word_underscore_3: opera_reflect_boy
+bip_39_word_underscore_4: opera_reflect_boy_autumn
+bip_39_word_underscore_5: opera_reflect_boy_autumn_powder
+bip_39_word_underscore_6: opera_reflect_boy_autumn_powder_insane
+bip_39_word_underscore_7: opera_reflect_boy_autumn_powder_insane_annual
+bip_39_word_underscore_8: opera_reflect_boy_autumn_powder_insane_annual_alcohol
+bip_39_word_underscore_9: opera_reflect_boy_autumn_powder_insane_annual_alcohol_green
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

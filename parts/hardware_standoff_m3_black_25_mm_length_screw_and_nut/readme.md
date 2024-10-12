@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clog |  
+| bip_39_word_dash_10 | clog-bubble-vital-enter-figure-oven-ladder-suspect-enact-cram |  
+| bip_39_word_dash_11 | clog-bubble-vital-enter-figure-oven-ladder-suspect-enact-cram-carbon |  
+| bip_39_word_dash_12 | clog-bubble-vital-enter-figure-oven-ladder-suspect-enact-cram-carbon-arena |  
+| bip_39_word_dash_2 | clog-bubble |  
+| bip_39_word_dash_3 | clog-bubble-vital |  
+| bip_39_word_dash_4 | clog-bubble-vital-enter |  
+| bip_39_word_dash_5 | clog-bubble-vital-enter-figure |  
+| bip_39_word_dash_6 | clog-bubble-vital-enter-figure-oven |  
+| bip_39_word_dash_7 | clog-bubble-vital-enter-figure-oven-ladder |  
+| bip_39_word_dash_8 | clog-bubble-vital-enter-figure-oven-ladder-suspect |  
+| bip_39_word_dash_9 | clog-bubble-vital-enter-figure-oven-ladder-suspect-enact |  
 | bip_39_word_new_br_1 | clog |  
 | bip_39_word_new_br_10 | clog<br>bubble<br>vital<br>enter<br>figure<br>oven<br>ladder<br>suspect<br>enact<br>cram |  
 | bip_39_word_new_br_11 | clog<br>bubble<br>vital<br>enter<br>figure<br>oven<br>ladder<br>suspect<br>enact<br>cram<br>carbon |  
@@ -147,6 +159,18 @@ enact |
 | bip_39_word_space_7 | clog bubble vital enter figure oven ladder |  
 | bip_39_word_space_8 | clog bubble vital enter figure oven ladder suspect |  
 | bip_39_word_space_9 | clog bubble vital enter figure oven ladder suspect enact |  
+| bip_39_word_underscore_1 | clog |  
+| bip_39_word_underscore_10 | clog_bubble_vital_enter_figure_oven_ladder_suspect_enact_cram |  
+| bip_39_word_underscore_11 | clog_bubble_vital_enter_figure_oven_ladder_suspect_enact_cram_carbon |  
+| bip_39_word_underscore_12 | clog_bubble_vital_enter_figure_oven_ladder_suspect_enact_cram_carbon_arena |  
+| bip_39_word_underscore_2 | clog_bubble |  
+| bip_39_word_underscore_3 | clog_bubble_vital |  
+| bip_39_word_underscore_4 | clog_bubble_vital_enter |  
+| bip_39_word_underscore_5 | clog_bubble_vital_enter_figure |  
+| bip_39_word_underscore_6 | clog_bubble_vital_enter_figure_oven |  
+| bip_39_word_underscore_7 | clog_bubble_vital_enter_figure_oven_ladder |  
+| bip_39_word_underscore_8 | clog_bubble_vital_enter_figure_oven_ladder_suspect |  
+| bip_39_word_underscore_9 | clog_bubble_vital_enter_figure_oven_ladder_suspect_enact |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

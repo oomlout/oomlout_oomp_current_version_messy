@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hurdle
+bip_39_word_dash_10: hurdle-floor-debate-planet-point-science-access-apart-toast-female
+bip_39_word_dash_11: hurdle-floor-debate-planet-point-science-access-apart-toast-female-give
+bip_39_word_dash_12: hurdle-floor-debate-planet-point-science-access-apart-toast-female-give-artist
+bip_39_word_dash_2: hurdle-floor
+bip_39_word_dash_3: hurdle-floor-debate
+bip_39_word_dash_4: hurdle-floor-debate-planet
+bip_39_word_dash_5: hurdle-floor-debate-planet-point
+bip_39_word_dash_6: hurdle-floor-debate-planet-point-science
+bip_39_word_dash_7: hurdle-floor-debate-planet-point-science-access
+bip_39_word_dash_8: hurdle-floor-debate-planet-point-science-access-apart
+bip_39_word_dash_9: hurdle-floor-debate-planet-point-science-access-apart-toast
 bip_39_word_new_br_1: hurdle
 bip_39_word_new_br_10: hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female
 bip_39_word_new_br_11: hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female<br>give
@@ -194,6 +206,18 @@ bip_39_word_space_6: hurdle floor debate planet point science
 bip_39_word_space_7: hurdle floor debate planet point science access
 bip_39_word_space_8: hurdle floor debate planet point science access apart
 bip_39_word_space_9: hurdle floor debate planet point science access apart toast
+bip_39_word_underscore_1: hurdle
+bip_39_word_underscore_10: hurdle_floor_debate_planet_point_science_access_apart_toast_female
+bip_39_word_underscore_11: hurdle_floor_debate_planet_point_science_access_apart_toast_female_give
+bip_39_word_underscore_12: hurdle_floor_debate_planet_point_science_access_apart_toast_female_give_artist
+bip_39_word_underscore_2: hurdle_floor
+bip_39_word_underscore_3: hurdle_floor_debate
+bip_39_word_underscore_4: hurdle_floor_debate_planet
+bip_39_word_underscore_5: hurdle_floor_debate_planet_point
+bip_39_word_underscore_6: hurdle_floor_debate_planet_point_science
+bip_39_word_underscore_7: hurdle_floor_debate_planet_point_science_access
+bip_39_word_underscore_8: hurdle_floor_debate_planet_point_science_access_apart
+bip_39_word_underscore_9: hurdle_floor_debate_planet_point_science_access_apart_toast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

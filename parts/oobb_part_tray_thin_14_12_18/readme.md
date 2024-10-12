@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coin |  
+| bip_39_word_dash_10 | coin-chalk-clutch-way-alien-mercy-despair-duty-payment-dust |  
+| bip_39_word_dash_11 | coin-chalk-clutch-way-alien-mercy-despair-duty-payment-dust-scout |  
+| bip_39_word_dash_12 | coin-chalk-clutch-way-alien-mercy-despair-duty-payment-dust-scout-afford |  
+| bip_39_word_dash_2 | coin-chalk |  
+| bip_39_word_dash_3 | coin-chalk-clutch |  
+| bip_39_word_dash_4 | coin-chalk-clutch-way |  
+| bip_39_word_dash_5 | coin-chalk-clutch-way-alien |  
+| bip_39_word_dash_6 | coin-chalk-clutch-way-alien-mercy |  
+| bip_39_word_dash_7 | coin-chalk-clutch-way-alien-mercy-despair |  
+| bip_39_word_dash_8 | coin-chalk-clutch-way-alien-mercy-despair-duty |  
+| bip_39_word_dash_9 | coin-chalk-clutch-way-alien-mercy-despair-duty-payment |  
 | bip_39_word_new_br_1 | coin |  
 | bip_39_word_new_br_10 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty<br>payment<br>dust |  
 | bip_39_word_new_br_11 | coin<br>chalk<br>clutch<br>way<br>alien<br>mercy<br>despair<br>duty<br>payment<br>dust<br>scout |  
@@ -147,6 +159,18 @@ payment |
 | bip_39_word_space_7 | coin chalk clutch way alien mercy despair |  
 | bip_39_word_space_8 | coin chalk clutch way alien mercy despair duty |  
 | bip_39_word_space_9 | coin chalk clutch way alien mercy despair duty payment |  
+| bip_39_word_underscore_1 | coin |  
+| bip_39_word_underscore_10 | coin_chalk_clutch_way_alien_mercy_despair_duty_payment_dust |  
+| bip_39_word_underscore_11 | coin_chalk_clutch_way_alien_mercy_despair_duty_payment_dust_scout |  
+| bip_39_word_underscore_12 | coin_chalk_clutch_way_alien_mercy_despair_duty_payment_dust_scout_afford |  
+| bip_39_word_underscore_2 | coin_chalk |  
+| bip_39_word_underscore_3 | coin_chalk_clutch |  
+| bip_39_word_underscore_4 | coin_chalk_clutch_way |  
+| bip_39_word_underscore_5 | coin_chalk_clutch_way_alien |  
+| bip_39_word_underscore_6 | coin_chalk_clutch_way_alien_mercy |  
+| bip_39_word_underscore_7 | coin_chalk_clutch_way_alien_mercy_despair |  
+| bip_39_word_underscore_8 | coin_chalk_clutch_way_alien_mercy_despair_duty |  
+| bip_39_word_underscore_9 | coin_chalk_clutch_way_alien_mercy_despair_duty_payment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

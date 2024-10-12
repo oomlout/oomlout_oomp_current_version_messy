@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ostrich |  
+| bip_39_word_dash_10 | ostrich-deer-elegant-broken-transfer-dutch-vapor-wait-deputy-occur |  
+| bip_39_word_dash_11 | ostrich-deer-elegant-broken-transfer-dutch-vapor-wait-deputy-occur-inmate |  
+| bip_39_word_dash_12 | ostrich-deer-elegant-broken-transfer-dutch-vapor-wait-deputy-occur-inmate-advice |  
+| bip_39_word_dash_2 | ostrich-deer |  
+| bip_39_word_dash_3 | ostrich-deer-elegant |  
+| bip_39_word_dash_4 | ostrich-deer-elegant-broken |  
+| bip_39_word_dash_5 | ostrich-deer-elegant-broken-transfer |  
+| bip_39_word_dash_6 | ostrich-deer-elegant-broken-transfer-dutch |  
+| bip_39_word_dash_7 | ostrich-deer-elegant-broken-transfer-dutch-vapor |  
+| bip_39_word_dash_8 | ostrich-deer-elegant-broken-transfer-dutch-vapor-wait |  
+| bip_39_word_dash_9 | ostrich-deer-elegant-broken-transfer-dutch-vapor-wait-deputy |  
 | bip_39_word_new_br_1 | ostrich |  
 | bip_39_word_new_br_10 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait<br>deputy<br>occur |  
 | bip_39_word_new_br_11 | ostrich<br>deer<br>elegant<br>broken<br>transfer<br>dutch<br>vapor<br>wait<br>deputy<br>occur<br>inmate |  
@@ -147,6 +159,18 @@ deputy |
 | bip_39_word_space_7 | ostrich deer elegant broken transfer dutch vapor |  
 | bip_39_word_space_8 | ostrich deer elegant broken transfer dutch vapor wait |  
 | bip_39_word_space_9 | ostrich deer elegant broken transfer dutch vapor wait deputy |  
+| bip_39_word_underscore_1 | ostrich |  
+| bip_39_word_underscore_10 | ostrich_deer_elegant_broken_transfer_dutch_vapor_wait_deputy_occur |  
+| bip_39_word_underscore_11 | ostrich_deer_elegant_broken_transfer_dutch_vapor_wait_deputy_occur_inmate |  
+| bip_39_word_underscore_12 | ostrich_deer_elegant_broken_transfer_dutch_vapor_wait_deputy_occur_inmate_advice |  
+| bip_39_word_underscore_2 | ostrich_deer |  
+| bip_39_word_underscore_3 | ostrich_deer_elegant |  
+| bip_39_word_underscore_4 | ostrich_deer_elegant_broken |  
+| bip_39_word_underscore_5 | ostrich_deer_elegant_broken_transfer |  
+| bip_39_word_underscore_6 | ostrich_deer_elegant_broken_transfer_dutch |  
+| bip_39_word_underscore_7 | ostrich_deer_elegant_broken_transfer_dutch_vapor |  
+| bip_39_word_underscore_8 | ostrich_deer_elegant_broken_transfer_dutch_vapor_wait |  
+| bip_39_word_underscore_9 | ostrich_deer_elegant_broken_transfer_dutch_vapor_wait_deputy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

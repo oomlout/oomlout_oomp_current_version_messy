@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | knee |  
+| bip_39_word_dash_10 | knee-high-alarm-gun-pet-this-sun-february-movie-crowd |  
+| bip_39_word_dash_11 | knee-high-alarm-gun-pet-this-sun-february-movie-crowd-merry |  
+| bip_39_word_dash_12 | knee-high-alarm-gun-pet-this-sun-february-movie-crowd-merry-again |  
+| bip_39_word_dash_2 | knee-high |  
+| bip_39_word_dash_3 | knee-high-alarm |  
+| bip_39_word_dash_4 | knee-high-alarm-gun |  
+| bip_39_word_dash_5 | knee-high-alarm-gun-pet |  
+| bip_39_word_dash_6 | knee-high-alarm-gun-pet-this |  
+| bip_39_word_dash_7 | knee-high-alarm-gun-pet-this-sun |  
+| bip_39_word_dash_8 | knee-high-alarm-gun-pet-this-sun-february |  
+| bip_39_word_dash_9 | knee-high-alarm-gun-pet-this-sun-february-movie |  
 | bip_39_word_new_br_1 | knee |  
 | bip_39_word_new_br_10 | knee<br>high<br>alarm<br>gun<br>pet<br>this<br>sun<br>february<br>movie<br>crowd |  
 | bip_39_word_new_br_11 | knee<br>high<br>alarm<br>gun<br>pet<br>this<br>sun<br>february<br>movie<br>crowd<br>merry |  
@@ -147,6 +159,18 @@ movie |
 | bip_39_word_space_7 | knee high alarm gun pet this sun |  
 | bip_39_word_space_8 | knee high alarm gun pet this sun february |  
 | bip_39_word_space_9 | knee high alarm gun pet this sun february movie |  
+| bip_39_word_underscore_1 | knee |  
+| bip_39_word_underscore_10 | knee_high_alarm_gun_pet_this_sun_february_movie_crowd |  
+| bip_39_word_underscore_11 | knee_high_alarm_gun_pet_this_sun_february_movie_crowd_merry |  
+| bip_39_word_underscore_12 | knee_high_alarm_gun_pet_this_sun_february_movie_crowd_merry_again |  
+| bip_39_word_underscore_2 | knee_high |  
+| bip_39_word_underscore_3 | knee_high_alarm |  
+| bip_39_word_underscore_4 | knee_high_alarm_gun |  
+| bip_39_word_underscore_5 | knee_high_alarm_gun_pet |  
+| bip_39_word_underscore_6 | knee_high_alarm_gun_pet_this |  
+| bip_39_word_underscore_7 | knee_high_alarm_gun_pet_this_sun |  
+| bip_39_word_underscore_8 | knee_high_alarm_gun_pet_this_sun_february |  
+| bip_39_word_underscore_9 | knee_high_alarm_gun_pet_this_sun_february_movie |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: raise
+bip_39_word_dash_10: raise-club-grab-cram-random-wood-aim-rebel-ill-night
+bip_39_word_dash_11: raise-club-grab-cram-random-wood-aim-rebel-ill-night-cotton
+bip_39_word_dash_12: raise-club-grab-cram-random-wood-aim-rebel-ill-night-cotton-alley
+bip_39_word_dash_2: raise-club
+bip_39_word_dash_3: raise-club-grab
+bip_39_word_dash_4: raise-club-grab-cram
+bip_39_word_dash_5: raise-club-grab-cram-random
+bip_39_word_dash_6: raise-club-grab-cram-random-wood
+bip_39_word_dash_7: raise-club-grab-cram-random-wood-aim
+bip_39_word_dash_8: raise-club-grab-cram-random-wood-aim-rebel
+bip_39_word_dash_9: raise-club-grab-cram-random-wood-aim-rebel-ill
 bip_39_word_new_br_1: raise
 bip_39_word_new_br_10: raise<br>club<br>grab<br>cram<br>random<br>wood<br>aim<br>rebel<br>ill<br>night
 bip_39_word_new_br_11: raise<br>club<br>grab<br>cram<br>random<br>wood<br>aim<br>rebel<br>ill<br>night<br>cotton
@@ -192,6 +204,18 @@ bip_39_word_space_6: raise club grab cram random wood
 bip_39_word_space_7: raise club grab cram random wood aim
 bip_39_word_space_8: raise club grab cram random wood aim rebel
 bip_39_word_space_9: raise club grab cram random wood aim rebel ill
+bip_39_word_underscore_1: raise
+bip_39_word_underscore_10: raise_club_grab_cram_random_wood_aim_rebel_ill_night
+bip_39_word_underscore_11: raise_club_grab_cram_random_wood_aim_rebel_ill_night_cotton
+bip_39_word_underscore_12: raise_club_grab_cram_random_wood_aim_rebel_ill_night_cotton_alley
+bip_39_word_underscore_2: raise_club
+bip_39_word_underscore_3: raise_club_grab
+bip_39_word_underscore_4: raise_club_grab_cram
+bip_39_word_underscore_5: raise_club_grab_cram_random
+bip_39_word_underscore_6: raise_club_grab_cram_random_wood
+bip_39_word_underscore_7: raise_club_grab_cram_random_wood_aim
+bip_39_word_underscore_8: raise_club_grab_cram_random_wood_aim_rebel
+bip_39_word_underscore_9: raise_club_grab_cram_random_wood_aim_rebel_ill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

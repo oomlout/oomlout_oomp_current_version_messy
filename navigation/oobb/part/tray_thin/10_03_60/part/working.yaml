@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mom
+bip_39_word_dash_10: mom-quick-luxury-vast-swear-dignity-answer-behave-champion-snow
+bip_39_word_dash_11: mom-quick-luxury-vast-swear-dignity-answer-behave-champion-snow-seed
+bip_39_word_dash_12: mom-quick-luxury-vast-swear-dignity-answer-behave-champion-snow-seed-afraid
+bip_39_word_dash_2: mom-quick
+bip_39_word_dash_3: mom-quick-luxury
+bip_39_word_dash_4: mom-quick-luxury-vast
+bip_39_word_dash_5: mom-quick-luxury-vast-swear
+bip_39_word_dash_6: mom-quick-luxury-vast-swear-dignity
+bip_39_word_dash_7: mom-quick-luxury-vast-swear-dignity-answer
+bip_39_word_dash_8: mom-quick-luxury-vast-swear-dignity-answer-behave
+bip_39_word_dash_9: mom-quick-luxury-vast-swear-dignity-answer-behave-champion
 bip_39_word_new_br_1: mom
 bip_39_word_new_br_10: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow
 bip_39_word_new_br_11: mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow<br>seed
@@ -193,6 +205,18 @@ bip_39_word_space_6: mom quick luxury vast swear dignity
 bip_39_word_space_7: mom quick luxury vast swear dignity answer
 bip_39_word_space_8: mom quick luxury vast swear dignity answer behave
 bip_39_word_space_9: mom quick luxury vast swear dignity answer behave champion
+bip_39_word_underscore_1: mom
+bip_39_word_underscore_10: mom_quick_luxury_vast_swear_dignity_answer_behave_champion_snow
+bip_39_word_underscore_11: mom_quick_luxury_vast_swear_dignity_answer_behave_champion_snow_seed
+bip_39_word_underscore_12: mom_quick_luxury_vast_swear_dignity_answer_behave_champion_snow_seed_afraid
+bip_39_word_underscore_2: mom_quick
+bip_39_word_underscore_3: mom_quick_luxury
+bip_39_word_underscore_4: mom_quick_luxury_vast
+bip_39_word_underscore_5: mom_quick_luxury_vast_swear
+bip_39_word_underscore_6: mom_quick_luxury_vast_swear_dignity
+bip_39_word_underscore_7: mom_quick_luxury_vast_swear_dignity_answer
+bip_39_word_underscore_8: mom_quick_luxury_vast_swear_dignity_answer_behave
+bip_39_word_underscore_9: mom_quick_luxury_vast_swear_dignity_answer_behave_champion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

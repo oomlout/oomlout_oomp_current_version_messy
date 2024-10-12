@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orbit |  
+| bip_39_word_dash_10 | orbit-copper-iron-label-bone-rookie-fiscal-clump-impact-popular |  
+| bip_39_word_dash_11 | orbit-copper-iron-label-bone-rookie-fiscal-clump-impact-popular-either |  
+| bip_39_word_dash_12 | orbit-copper-iron-label-bone-rookie-fiscal-clump-impact-popular-either-absorb |  
+| bip_39_word_dash_2 | orbit-copper |  
+| bip_39_word_dash_3 | orbit-copper-iron |  
+| bip_39_word_dash_4 | orbit-copper-iron-label |  
+| bip_39_word_dash_5 | orbit-copper-iron-label-bone |  
+| bip_39_word_dash_6 | orbit-copper-iron-label-bone-rookie |  
+| bip_39_word_dash_7 | orbit-copper-iron-label-bone-rookie-fiscal |  
+| bip_39_word_dash_8 | orbit-copper-iron-label-bone-rookie-fiscal-clump |  
+| bip_39_word_dash_9 | orbit-copper-iron-label-bone-rookie-fiscal-clump-impact |  
 | bip_39_word_new_br_1 | orbit |  
 | bip_39_word_new_br_10 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump<br>impact<br>popular |  
 | bip_39_word_new_br_11 | orbit<br>copper<br>iron<br>label<br>bone<br>rookie<br>fiscal<br>clump<br>impact<br>popular<br>either |  
@@ -147,6 +159,18 @@ impact |
 | bip_39_word_space_7 | orbit copper iron label bone rookie fiscal |  
 | bip_39_word_space_8 | orbit copper iron label bone rookie fiscal clump |  
 | bip_39_word_space_9 | orbit copper iron label bone rookie fiscal clump impact |  
+| bip_39_word_underscore_1 | orbit |  
+| bip_39_word_underscore_10 | orbit_copper_iron_label_bone_rookie_fiscal_clump_impact_popular |  
+| bip_39_word_underscore_11 | orbit_copper_iron_label_bone_rookie_fiscal_clump_impact_popular_either |  
+| bip_39_word_underscore_12 | orbit_copper_iron_label_bone_rookie_fiscal_clump_impact_popular_either_absorb |  
+| bip_39_word_underscore_2 | orbit_copper |  
+| bip_39_word_underscore_3 | orbit_copper_iron |  
+| bip_39_word_underscore_4 | orbit_copper_iron_label |  
+| bip_39_word_underscore_5 | orbit_copper_iron_label_bone |  
+| bip_39_word_underscore_6 | orbit_copper_iron_label_bone_rookie |  
+| bip_39_word_underscore_7 | orbit_copper_iron_label_bone_rookie_fiscal |  
+| bip_39_word_underscore_8 | orbit_copper_iron_label_bone_rookie_fiscal_clump |  
+| bip_39_word_underscore_9 | orbit_copper_iron_label_bone_rookie_fiscal_clump_impact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

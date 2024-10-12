@@ -1,3 +1,15 @@
+bip_39_word_dash_1: special
+bip_39_word_dash_10: special-jump-cattle-wisdom-hurry-tuna-vacant-fringe-alien-apology
+bip_39_word_dash_11: special-jump-cattle-wisdom-hurry-tuna-vacant-fringe-alien-apology-vague
+bip_39_word_dash_12: special-jump-cattle-wisdom-hurry-tuna-vacant-fringe-alien-apology-vague-arrow
+bip_39_word_dash_2: special-jump
+bip_39_word_dash_3: special-jump-cattle
+bip_39_word_dash_4: special-jump-cattle-wisdom
+bip_39_word_dash_5: special-jump-cattle-wisdom-hurry
+bip_39_word_dash_6: special-jump-cattle-wisdom-hurry-tuna
+bip_39_word_dash_7: special-jump-cattle-wisdom-hurry-tuna-vacant
+bip_39_word_dash_8: special-jump-cattle-wisdom-hurry-tuna-vacant-fringe
+bip_39_word_dash_9: special-jump-cattle-wisdom-hurry-tuna-vacant-fringe-alien
 bip_39_word_new_br_1: special
 bip_39_word_new_br_10: special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology
 bip_39_word_new_br_11: special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology<br>vague
@@ -193,6 +205,18 @@ bip_39_word_space_6: special jump cattle wisdom hurry tuna
 bip_39_word_space_7: special jump cattle wisdom hurry tuna vacant
 bip_39_word_space_8: special jump cattle wisdom hurry tuna vacant fringe
 bip_39_word_space_9: special jump cattle wisdom hurry tuna vacant fringe alien
+bip_39_word_underscore_1: special
+bip_39_word_underscore_10: special_jump_cattle_wisdom_hurry_tuna_vacant_fringe_alien_apology
+bip_39_word_underscore_11: special_jump_cattle_wisdom_hurry_tuna_vacant_fringe_alien_apology_vague
+bip_39_word_underscore_12: special_jump_cattle_wisdom_hurry_tuna_vacant_fringe_alien_apology_vague_arrow
+bip_39_word_underscore_2: special_jump
+bip_39_word_underscore_3: special_jump_cattle
+bip_39_word_underscore_4: special_jump_cattle_wisdom
+bip_39_word_underscore_5: special_jump_cattle_wisdom_hurry
+bip_39_word_underscore_6: special_jump_cattle_wisdom_hurry_tuna
+bip_39_word_underscore_7: special_jump_cattle_wisdom_hurry_tuna_vacant
+bip_39_word_underscore_8: special_jump_cattle_wisdom_hurry_tuna_vacant_fringe
+bip_39_word_underscore_9: special_jump_cattle_wisdom_hurry_tuna_vacant_fringe_alien
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

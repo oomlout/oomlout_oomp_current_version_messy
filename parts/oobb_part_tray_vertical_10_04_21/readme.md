@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rely |  
+| bip_39_word_dash_10 | rely-aunt-predict-attack-skate-hill-damage-pear-wall-absent |  
+| bip_39_word_dash_11 | rely-aunt-predict-attack-skate-hill-damage-pear-wall-absent-bleak |  
+| bip_39_word_dash_12 | rely-aunt-predict-attack-skate-hill-damage-pear-wall-absent-bleak-arrow |  
+| bip_39_word_dash_2 | rely-aunt |  
+| bip_39_word_dash_3 | rely-aunt-predict |  
+| bip_39_word_dash_4 | rely-aunt-predict-attack |  
+| bip_39_word_dash_5 | rely-aunt-predict-attack-skate |  
+| bip_39_word_dash_6 | rely-aunt-predict-attack-skate-hill |  
+| bip_39_word_dash_7 | rely-aunt-predict-attack-skate-hill-damage |  
+| bip_39_word_dash_8 | rely-aunt-predict-attack-skate-hill-damage-pear |  
+| bip_39_word_dash_9 | rely-aunt-predict-attack-skate-hill-damage-pear-wall |  
 | bip_39_word_new_br_1 | rely |  
 | bip_39_word_new_br_10 | rely<br>aunt<br>predict<br>attack<br>skate<br>hill<br>damage<br>pear<br>wall<br>absent |  
 | bip_39_word_new_br_11 | rely<br>aunt<br>predict<br>attack<br>skate<br>hill<br>damage<br>pear<br>wall<br>absent<br>bleak |  
@@ -147,6 +159,18 @@ wall |
 | bip_39_word_space_7 | rely aunt predict attack skate hill damage |  
 | bip_39_word_space_8 | rely aunt predict attack skate hill damage pear |  
 | bip_39_word_space_9 | rely aunt predict attack skate hill damage pear wall |  
+| bip_39_word_underscore_1 | rely |  
+| bip_39_word_underscore_10 | rely_aunt_predict_attack_skate_hill_damage_pear_wall_absent |  
+| bip_39_word_underscore_11 | rely_aunt_predict_attack_skate_hill_damage_pear_wall_absent_bleak |  
+| bip_39_word_underscore_12 | rely_aunt_predict_attack_skate_hill_damage_pear_wall_absent_bleak_arrow |  
+| bip_39_word_underscore_2 | rely_aunt |  
+| bip_39_word_underscore_3 | rely_aunt_predict |  
+| bip_39_word_underscore_4 | rely_aunt_predict_attack |  
+| bip_39_word_underscore_5 | rely_aunt_predict_attack_skate |  
+| bip_39_word_underscore_6 | rely_aunt_predict_attack_skate_hill |  
+| bip_39_word_underscore_7 | rely_aunt_predict_attack_skate_hill_damage |  
+| bip_39_word_underscore_8 | rely_aunt_predict_attack_skate_hill_damage_pear |  
+| bip_39_word_underscore_9 | rely_aunt_predict_attack_skate_hill_damage_pear_wall |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

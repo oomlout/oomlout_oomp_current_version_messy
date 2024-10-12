@@ -1,3 +1,14 @@
+bip_39_word_dash_1: blossom
+bip_39_word_dash_10: blossom-split-length-other-loan-mail-myself-tomato-foil-rate
+bip_39_word_dash_11: blossom-split-length-other-loan-mail-myself-tomato-foil-rate-trash
+bip_39_word_dash_2: blossom-split
+bip_39_word_dash_3: blossom-split-length
+bip_39_word_dash_4: blossom-split-length-other
+bip_39_word_dash_5: blossom-split-length-other-loan
+bip_39_word_dash_6: blossom-split-length-other-loan-mail
+bip_39_word_dash_7: blossom-split-length-other-loan-mail-myself
+bip_39_word_dash_8: blossom-split-length-other-loan-mail-myself-tomato
+bip_39_word_dash_9: blossom-split-length-other-loan-mail-myself-tomato-foil
 bip_39_word_new_br_1: blossom
 bip_39_word_new_br_10: blossom<br>split<br>length<br>other<br>loan<br>mail<br>myself<br>tomato<br>foil<br>rate
 bip_39_word_new_br_11: blossom<br>split<br>length<br>other<br>loan<br>mail<br>myself<br>tomato<br>foil<br>rate<br>trash
@@ -165,6 +176,17 @@ bip_39_word_space_6: blossom split length other loan mail
 bip_39_word_space_7: blossom split length other loan mail myself
 bip_39_word_space_8: blossom split length other loan mail myself tomato
 bip_39_word_space_9: blossom split length other loan mail myself tomato foil
+bip_39_word_underscore_1: blossom
+bip_39_word_underscore_10: blossom_split_length_other_loan_mail_myself_tomato_foil_rate
+bip_39_word_underscore_11: blossom_split_length_other_loan_mail_myself_tomato_foil_rate_trash
+bip_39_word_underscore_2: blossom_split
+bip_39_word_underscore_3: blossom_split_length
+bip_39_word_underscore_4: blossom_split_length_other
+bip_39_word_underscore_5: blossom_split_length_other_loan
+bip_39_word_underscore_6: blossom_split_length_other_loan_mail
+bip_39_word_underscore_7: blossom_split_length_other_loan_mail_myself
+bip_39_word_underscore_8: blossom_split_length_other_loan_mail_myself_tomato
+bip_39_word_underscore_9: blossom_split_length_other_loan_mail_myself_tomato_foil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | detect |  
+| bip_39_word_dash_10 | detect-buyer-humble-diary-void-trigger-risk-among-civil-latin |  
+| bip_39_word_dash_11 | detect-buyer-humble-diary-void-trigger-risk-among-civil-latin-chimney |  
+| bip_39_word_dash_12 | detect-buyer-humble-diary-void-trigger-risk-among-civil-latin-chimney-area |  
+| bip_39_word_dash_2 | detect-buyer |  
+| bip_39_word_dash_3 | detect-buyer-humble |  
+| bip_39_word_dash_4 | detect-buyer-humble-diary |  
+| bip_39_word_dash_5 | detect-buyer-humble-diary-void |  
+| bip_39_word_dash_6 | detect-buyer-humble-diary-void-trigger |  
+| bip_39_word_dash_7 | detect-buyer-humble-diary-void-trigger-risk |  
+| bip_39_word_dash_8 | detect-buyer-humble-diary-void-trigger-risk-among |  
+| bip_39_word_dash_9 | detect-buyer-humble-diary-void-trigger-risk-among-civil |  
 | bip_39_word_new_br_1 | detect |  
 | bip_39_word_new_br_10 | detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among<br>civil<br>latin |  
 | bip_39_word_new_br_11 | detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among<br>civil<br>latin<br>chimney |  
@@ -147,6 +159,18 @@ civil |
 | bip_39_word_space_7 | detect buyer humble diary void trigger risk |  
 | bip_39_word_space_8 | detect buyer humble diary void trigger risk among |  
 | bip_39_word_space_9 | detect buyer humble diary void trigger risk among civil |  
+| bip_39_word_underscore_1 | detect |  
+| bip_39_word_underscore_10 | detect_buyer_humble_diary_void_trigger_risk_among_civil_latin |  
+| bip_39_word_underscore_11 | detect_buyer_humble_diary_void_trigger_risk_among_civil_latin_chimney |  
+| bip_39_word_underscore_12 | detect_buyer_humble_diary_void_trigger_risk_among_civil_latin_chimney_area |  
+| bip_39_word_underscore_2 | detect_buyer |  
+| bip_39_word_underscore_3 | detect_buyer_humble |  
+| bip_39_word_underscore_4 | detect_buyer_humble_diary |  
+| bip_39_word_underscore_5 | detect_buyer_humble_diary_void |  
+| bip_39_word_underscore_6 | detect_buyer_humble_diary_void_trigger |  
+| bip_39_word_underscore_7 | detect_buyer_humble_diary_void_trigger_risk |  
+| bip_39_word_underscore_8 | detect_buyer_humble_diary_void_trigger_risk_among |  
+| bip_39_word_underscore_9 | detect_buyer_humble_diary_void_trigger_risk_among_civil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

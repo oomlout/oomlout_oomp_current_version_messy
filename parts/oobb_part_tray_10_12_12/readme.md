@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | milk |  
+| bip_39_word_dash_10 | milk-glass-film-plunge-winter-mammal-town-behave-message-scan |  
+| bip_39_word_dash_11 | milk-glass-film-plunge-winter-mammal-town-behave-message-scan-smooth |  
+| bip_39_word_dash_12 | milk-glass-film-plunge-winter-mammal-town-behave-message-scan-smooth-attract |  
+| bip_39_word_dash_2 | milk-glass |  
+| bip_39_word_dash_3 | milk-glass-film |  
+| bip_39_word_dash_4 | milk-glass-film-plunge |  
+| bip_39_word_dash_5 | milk-glass-film-plunge-winter |  
+| bip_39_word_dash_6 | milk-glass-film-plunge-winter-mammal |  
+| bip_39_word_dash_7 | milk-glass-film-plunge-winter-mammal-town |  
+| bip_39_word_dash_8 | milk-glass-film-plunge-winter-mammal-town-behave |  
+| bip_39_word_dash_9 | milk-glass-film-plunge-winter-mammal-town-behave-message |  
 | bip_39_word_new_br_1 | milk |  
 | bip_39_word_new_br_10 | milk<br>glass<br>film<br>plunge<br>winter<br>mammal<br>town<br>behave<br>message<br>scan |  
 | bip_39_word_new_br_11 | milk<br>glass<br>film<br>plunge<br>winter<br>mammal<br>town<br>behave<br>message<br>scan<br>smooth |  
@@ -147,6 +159,18 @@ message |
 | bip_39_word_space_7 | milk glass film plunge winter mammal town |  
 | bip_39_word_space_8 | milk glass film plunge winter mammal town behave |  
 | bip_39_word_space_9 | milk glass film plunge winter mammal town behave message |  
+| bip_39_word_underscore_1 | milk |  
+| bip_39_word_underscore_10 | milk_glass_film_plunge_winter_mammal_town_behave_message_scan |  
+| bip_39_word_underscore_11 | milk_glass_film_plunge_winter_mammal_town_behave_message_scan_smooth |  
+| bip_39_word_underscore_12 | milk_glass_film_plunge_winter_mammal_town_behave_message_scan_smooth_attract |  
+| bip_39_word_underscore_2 | milk_glass |  
+| bip_39_word_underscore_3 | milk_glass_film |  
+| bip_39_word_underscore_4 | milk_glass_film_plunge |  
+| bip_39_word_underscore_5 | milk_glass_film_plunge_winter |  
+| bip_39_word_underscore_6 | milk_glass_film_plunge_winter_mammal |  
+| bip_39_word_underscore_7 | milk_glass_film_plunge_winter_mammal_town |  
+| bip_39_word_underscore_8 | milk_glass_film_plunge_winter_mammal_town_behave |  
+| bip_39_word_underscore_9 | milk_glass_film_plunge_winter_mammal_town_behave_message |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

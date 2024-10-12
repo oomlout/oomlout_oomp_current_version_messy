@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | post |  
+| bip_39_word_dash_10 | post-duty-awesome-cinnamon-gentle-foster-exhaust-rival-stamp-that |  
+| bip_39_word_dash_11 | post-duty-awesome-cinnamon-gentle-foster-exhaust-rival-stamp-that-gravity |  
+| bip_39_word_dash_12 | post-duty-awesome-cinnamon-gentle-foster-exhaust-rival-stamp-that-gravity-apart |  
+| bip_39_word_dash_2 | post-duty |  
+| bip_39_word_dash_3 | post-duty-awesome |  
+| bip_39_word_dash_4 | post-duty-awesome-cinnamon |  
+| bip_39_word_dash_5 | post-duty-awesome-cinnamon-gentle |  
+| bip_39_word_dash_6 | post-duty-awesome-cinnamon-gentle-foster |  
+| bip_39_word_dash_7 | post-duty-awesome-cinnamon-gentle-foster-exhaust |  
+| bip_39_word_dash_8 | post-duty-awesome-cinnamon-gentle-foster-exhaust-rival |  
+| bip_39_word_dash_9 | post-duty-awesome-cinnamon-gentle-foster-exhaust-rival-stamp |  
 | bip_39_word_new_br_1 | post |  
 | bip_39_word_new_br_10 | post<br>duty<br>awesome<br>cinnamon<br>gentle<br>foster<br>exhaust<br>rival<br>stamp<br>that |  
 | bip_39_word_new_br_11 | post<br>duty<br>awesome<br>cinnamon<br>gentle<br>foster<br>exhaust<br>rival<br>stamp<br>that<br>gravity |  
@@ -147,6 +159,18 @@ stamp |
 | bip_39_word_space_7 | post duty awesome cinnamon gentle foster exhaust |  
 | bip_39_word_space_8 | post duty awesome cinnamon gentle foster exhaust rival |  
 | bip_39_word_space_9 | post duty awesome cinnamon gentle foster exhaust rival stamp |  
+| bip_39_word_underscore_1 | post |  
+| bip_39_word_underscore_10 | post_duty_awesome_cinnamon_gentle_foster_exhaust_rival_stamp_that |  
+| bip_39_word_underscore_11 | post_duty_awesome_cinnamon_gentle_foster_exhaust_rival_stamp_that_gravity |  
+| bip_39_word_underscore_12 | post_duty_awesome_cinnamon_gentle_foster_exhaust_rival_stamp_that_gravity_apart |  
+| bip_39_word_underscore_2 | post_duty |  
+| bip_39_word_underscore_3 | post_duty_awesome |  
+| bip_39_word_underscore_4 | post_duty_awesome_cinnamon |  
+| bip_39_word_underscore_5 | post_duty_awesome_cinnamon_gentle |  
+| bip_39_word_underscore_6 | post_duty_awesome_cinnamon_gentle_foster |  
+| bip_39_word_underscore_7 | post_duty_awesome_cinnamon_gentle_foster_exhaust |  
+| bip_39_word_underscore_8 | post_duty_awesome_cinnamon_gentle_foster_exhaust_rival |  
+| bip_39_word_underscore_9 | post_duty_awesome_cinnamon_gentle_foster_exhaust_rival_stamp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

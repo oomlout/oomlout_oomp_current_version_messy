@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | settle |  
+| bip_39_word_dash_10 | settle-awkward-father-capital-truck-radar-pelican-describe-simple-uniform |  
+| bip_39_word_dash_11 | settle-awkward-father-capital-truck-radar-pelican-describe-simple-uniform-horror |  
+| bip_39_word_dash_12 | settle-awkward-father-capital-truck-radar-pelican-describe-simple-uniform-horror-abstract |  
+| bip_39_word_dash_2 | settle-awkward |  
+| bip_39_word_dash_3 | settle-awkward-father |  
+| bip_39_word_dash_4 | settle-awkward-father-capital |  
+| bip_39_word_dash_5 | settle-awkward-father-capital-truck |  
+| bip_39_word_dash_6 | settle-awkward-father-capital-truck-radar |  
+| bip_39_word_dash_7 | settle-awkward-father-capital-truck-radar-pelican |  
+| bip_39_word_dash_8 | settle-awkward-father-capital-truck-radar-pelican-describe |  
+| bip_39_word_dash_9 | settle-awkward-father-capital-truck-radar-pelican-describe-simple |  
 | bip_39_word_new_br_1 | settle |  
 | bip_39_word_new_br_10 | settle<br>awkward<br>father<br>capital<br>truck<br>radar<br>pelican<br>describe<br>simple<br>uniform |  
 | bip_39_word_new_br_11 | settle<br>awkward<br>father<br>capital<br>truck<br>radar<br>pelican<br>describe<br>simple<br>uniform<br>horror |  
@@ -147,6 +159,18 @@ simple |
 | bip_39_word_space_7 | settle awkward father capital truck radar pelican |  
 | bip_39_word_space_8 | settle awkward father capital truck radar pelican describe |  
 | bip_39_word_space_9 | settle awkward father capital truck radar pelican describe simple |  
+| bip_39_word_underscore_1 | settle |  
+| bip_39_word_underscore_10 | settle_awkward_father_capital_truck_radar_pelican_describe_simple_uniform |  
+| bip_39_word_underscore_11 | settle_awkward_father_capital_truck_radar_pelican_describe_simple_uniform_horror |  
+| bip_39_word_underscore_12 | settle_awkward_father_capital_truck_radar_pelican_describe_simple_uniform_horror_abstract |  
+| bip_39_word_underscore_2 | settle_awkward |  
+| bip_39_word_underscore_3 | settle_awkward_father |  
+| bip_39_word_underscore_4 | settle_awkward_father_capital |  
+| bip_39_word_underscore_5 | settle_awkward_father_capital_truck |  
+| bip_39_word_underscore_6 | settle_awkward_father_capital_truck_radar |  
+| bip_39_word_underscore_7 | settle_awkward_father_capital_truck_radar_pelican |  
+| bip_39_word_underscore_8 | settle_awkward_father_capital_truck_radar_pelican_describe |  
+| bip_39_word_underscore_9 | settle_awkward_father_capital_truck_radar_pelican_describe_simple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

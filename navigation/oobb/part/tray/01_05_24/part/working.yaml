@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rural
+bip_39_word_dash_10: rural-afraid-axis-range-cannon-enlist-special-bronze-will-solar
+bip_39_word_dash_11: rural-afraid-axis-range-cannon-enlist-special-bronze-will-solar-uphold
+bip_39_word_dash_12: rural-afraid-axis-range-cannon-enlist-special-bronze-will-solar-uphold-alone
+bip_39_word_dash_2: rural-afraid
+bip_39_word_dash_3: rural-afraid-axis
+bip_39_word_dash_4: rural-afraid-axis-range
+bip_39_word_dash_5: rural-afraid-axis-range-cannon
+bip_39_word_dash_6: rural-afraid-axis-range-cannon-enlist
+bip_39_word_dash_7: rural-afraid-axis-range-cannon-enlist-special
+bip_39_word_dash_8: rural-afraid-axis-range-cannon-enlist-special-bronze
+bip_39_word_dash_9: rural-afraid-axis-range-cannon-enlist-special-bronze-will
 bip_39_word_new_br_1: rural
 bip_39_word_new_br_10: rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze<br>will<br>solar
 bip_39_word_new_br_11: rural<br>afraid<br>axis<br>range<br>cannon<br>enlist<br>special<br>bronze<br>will<br>solar<br>uphold
@@ -193,6 +205,18 @@ bip_39_word_space_6: rural afraid axis range cannon enlist
 bip_39_word_space_7: rural afraid axis range cannon enlist special
 bip_39_word_space_8: rural afraid axis range cannon enlist special bronze
 bip_39_word_space_9: rural afraid axis range cannon enlist special bronze will
+bip_39_word_underscore_1: rural
+bip_39_word_underscore_10: rural_afraid_axis_range_cannon_enlist_special_bronze_will_solar
+bip_39_word_underscore_11: rural_afraid_axis_range_cannon_enlist_special_bronze_will_solar_uphold
+bip_39_word_underscore_12: rural_afraid_axis_range_cannon_enlist_special_bronze_will_solar_uphold_alone
+bip_39_word_underscore_2: rural_afraid
+bip_39_word_underscore_3: rural_afraid_axis
+bip_39_word_underscore_4: rural_afraid_axis_range
+bip_39_word_underscore_5: rural_afraid_axis_range_cannon
+bip_39_word_underscore_6: rural_afraid_axis_range_cannon_enlist
+bip_39_word_underscore_7: rural_afraid_axis_range_cannon_enlist_special
+bip_39_word_underscore_8: rural_afraid_axis_range_cannon_enlist_special_bronze
+bip_39_word_underscore_9: rural_afraid_axis_range_cannon_enlist_special_bronze_will
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

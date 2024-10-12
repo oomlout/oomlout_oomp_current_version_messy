@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | supply |  
+| bip_39_word_dash_10 | supply-art-census-domain-pudding-toast-umbrella-word-cheese-inherit |  
+| bip_39_word_dash_11 | supply-art-census-domain-pudding-toast-umbrella-word-cheese-inherit-noise |  
+| bip_39_word_dash_12 | supply-art-census-domain-pudding-toast-umbrella-word-cheese-inherit-noise-arctic |  
+| bip_39_word_dash_2 | supply-art |  
+| bip_39_word_dash_3 | supply-art-census |  
+| bip_39_word_dash_4 | supply-art-census-domain |  
+| bip_39_word_dash_5 | supply-art-census-domain-pudding |  
+| bip_39_word_dash_6 | supply-art-census-domain-pudding-toast |  
+| bip_39_word_dash_7 | supply-art-census-domain-pudding-toast-umbrella |  
+| bip_39_word_dash_8 | supply-art-census-domain-pudding-toast-umbrella-word |  
+| bip_39_word_dash_9 | supply-art-census-domain-pudding-toast-umbrella-word-cheese |  
 | bip_39_word_new_br_1 | supply |  
 | bip_39_word_new_br_10 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit |  
 | bip_39_word_new_br_11 | supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit<br>noise |  
@@ -147,6 +159,18 @@ cheese |
 | bip_39_word_space_7 | supply art census domain pudding toast umbrella |  
 | bip_39_word_space_8 | supply art census domain pudding toast umbrella word |  
 | bip_39_word_space_9 | supply art census domain pudding toast umbrella word cheese |  
+| bip_39_word_underscore_1 | supply |  
+| bip_39_word_underscore_10 | supply_art_census_domain_pudding_toast_umbrella_word_cheese_inherit |  
+| bip_39_word_underscore_11 | supply_art_census_domain_pudding_toast_umbrella_word_cheese_inherit_noise |  
+| bip_39_word_underscore_12 | supply_art_census_domain_pudding_toast_umbrella_word_cheese_inherit_noise_arctic |  
+| bip_39_word_underscore_2 | supply_art |  
+| bip_39_word_underscore_3 | supply_art_census |  
+| bip_39_word_underscore_4 | supply_art_census_domain |  
+| bip_39_word_underscore_5 | supply_art_census_domain_pudding |  
+| bip_39_word_underscore_6 | supply_art_census_domain_pudding_toast |  
+| bip_39_word_underscore_7 | supply_art_census_domain_pudding_toast_umbrella |  
+| bip_39_word_underscore_8 | supply_art_census_domain_pudding_toast_umbrella_word |  
+| bip_39_word_underscore_9 | supply_art_census_domain_pudding_toast_umbrella_word_cheese |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

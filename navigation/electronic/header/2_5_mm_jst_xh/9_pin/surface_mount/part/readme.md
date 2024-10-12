@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mistake |  
+| bip_39_word_dash_10 | mistake-neck-fame-boil-oil-dream-book-group-pipe-inch |  
+| bip_39_word_dash_11 | mistake-neck-fame-boil-oil-dream-book-group-pipe-inch-wise |  
+| bip_39_word_dash_12 | mistake-neck-fame-boil-oil-dream-book-group-pipe-inch-wise-august |  
+| bip_39_word_dash_2 | mistake-neck |  
+| bip_39_word_dash_3 | mistake-neck-fame |  
+| bip_39_word_dash_4 | mistake-neck-fame-boil |  
+| bip_39_word_dash_5 | mistake-neck-fame-boil-oil |  
+| bip_39_word_dash_6 | mistake-neck-fame-boil-oil-dream |  
+| bip_39_word_dash_7 | mistake-neck-fame-boil-oil-dream-book |  
+| bip_39_word_dash_8 | mistake-neck-fame-boil-oil-dream-book-group |  
+| bip_39_word_dash_9 | mistake-neck-fame-boil-oil-dream-book-group-pipe |  
 | bip_39_word_new_br_1 | mistake |  
 | bip_39_word_new_br_10 | mistake<br>neck<br>fame<br>boil<br>oil<br>dream<br>book<br>group<br>pipe<br>inch |  
 | bip_39_word_new_br_11 | mistake<br>neck<br>fame<br>boil<br>oil<br>dream<br>book<br>group<br>pipe<br>inch<br>wise |  
@@ -147,6 +159,18 @@ pipe |
 | bip_39_word_space_7 | mistake neck fame boil oil dream book |  
 | bip_39_word_space_8 | mistake neck fame boil oil dream book group |  
 | bip_39_word_space_9 | mistake neck fame boil oil dream book group pipe |  
+| bip_39_word_underscore_1 | mistake |  
+| bip_39_word_underscore_10 | mistake_neck_fame_boil_oil_dream_book_group_pipe_inch |  
+| bip_39_word_underscore_11 | mistake_neck_fame_boil_oil_dream_book_group_pipe_inch_wise |  
+| bip_39_word_underscore_12 | mistake_neck_fame_boil_oil_dream_book_group_pipe_inch_wise_august |  
+| bip_39_word_underscore_2 | mistake_neck |  
+| bip_39_word_underscore_3 | mistake_neck_fame |  
+| bip_39_word_underscore_4 | mistake_neck_fame_boil |  
+| bip_39_word_underscore_5 | mistake_neck_fame_boil_oil |  
+| bip_39_word_underscore_6 | mistake_neck_fame_boil_oil_dream |  
+| bip_39_word_underscore_7 | mistake_neck_fame_boil_oil_dream_book |  
+| bip_39_word_underscore_8 | mistake_neck_fame_boil_oil_dream_book_group |  
+| bip_39_word_underscore_9 | mistake_neck_fame_boil_oil_dream_book_group_pipe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

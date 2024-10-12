@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cave
+bip_39_word_dash_10: cave-page-sugar-grief-tiny-very-cattle-either-employ-pave
+bip_39_word_dash_11: cave-page-sugar-grief-tiny-very-cattle-either-employ-pave-correct
+bip_39_word_dash_12: cave-page-sugar-grief-tiny-very-cattle-either-employ-pave-correct-ankle
+bip_39_word_dash_2: cave-page
+bip_39_word_dash_3: cave-page-sugar
+bip_39_word_dash_4: cave-page-sugar-grief
+bip_39_word_dash_5: cave-page-sugar-grief-tiny
+bip_39_word_dash_6: cave-page-sugar-grief-tiny-very
+bip_39_word_dash_7: cave-page-sugar-grief-tiny-very-cattle
+bip_39_word_dash_8: cave-page-sugar-grief-tiny-very-cattle-either
+bip_39_word_dash_9: cave-page-sugar-grief-tiny-very-cattle-either-employ
 bip_39_word_new_br_1: cave
 bip_39_word_new_br_10: cave<br>page<br>sugar<br>grief<br>tiny<br>very<br>cattle<br>either<br>employ<br>pave
 bip_39_word_new_br_11: cave<br>page<br>sugar<br>grief<br>tiny<br>very<br>cattle<br>either<br>employ<br>pave<br>correct
@@ -192,6 +204,18 @@ bip_39_word_space_6: cave page sugar grief tiny very
 bip_39_word_space_7: cave page sugar grief tiny very cattle
 bip_39_word_space_8: cave page sugar grief tiny very cattle either
 bip_39_word_space_9: cave page sugar grief tiny very cattle either employ
+bip_39_word_underscore_1: cave
+bip_39_word_underscore_10: cave_page_sugar_grief_tiny_very_cattle_either_employ_pave
+bip_39_word_underscore_11: cave_page_sugar_grief_tiny_very_cattle_either_employ_pave_correct
+bip_39_word_underscore_12: cave_page_sugar_grief_tiny_very_cattle_either_employ_pave_correct_ankle
+bip_39_word_underscore_2: cave_page
+bip_39_word_underscore_3: cave_page_sugar
+bip_39_word_underscore_4: cave_page_sugar_grief
+bip_39_word_underscore_5: cave_page_sugar_grief_tiny
+bip_39_word_underscore_6: cave_page_sugar_grief_tiny_very
+bip_39_word_underscore_7: cave_page_sugar_grief_tiny_very_cattle
+bip_39_word_underscore_8: cave_page_sugar_grief_tiny_very_cattle_either
+bip_39_word_underscore_9: cave_page_sugar_grief_tiny_very_cattle_either_employ
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

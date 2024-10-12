@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | direct |  
+| bip_39_word_dash_10 | direct-subway-zone-usage-fork-stand-record-cable-pioneer-idea |  
+| bip_39_word_dash_11 | direct-subway-zone-usage-fork-stand-record-cable-pioneer-idea-chronic |  
+| bip_39_word_dash_12 | direct-subway-zone-usage-fork-stand-record-cable-pioneer-idea-chronic-accuse |  
+| bip_39_word_dash_2 | direct-subway |  
+| bip_39_word_dash_3 | direct-subway-zone |  
+| bip_39_word_dash_4 | direct-subway-zone-usage |  
+| bip_39_word_dash_5 | direct-subway-zone-usage-fork |  
+| bip_39_word_dash_6 | direct-subway-zone-usage-fork-stand |  
+| bip_39_word_dash_7 | direct-subway-zone-usage-fork-stand-record |  
+| bip_39_word_dash_8 | direct-subway-zone-usage-fork-stand-record-cable |  
+| bip_39_word_dash_9 | direct-subway-zone-usage-fork-stand-record-cable-pioneer |  
 | bip_39_word_new_br_1 | direct |  
 | bip_39_word_new_br_10 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable<br>pioneer<br>idea |  
 | bip_39_word_new_br_11 | direct<br>subway<br>zone<br>usage<br>fork<br>stand<br>record<br>cable<br>pioneer<br>idea<br>chronic |  
@@ -147,6 +159,18 @@ pioneer |
 | bip_39_word_space_7 | direct subway zone usage fork stand record |  
 | bip_39_word_space_8 | direct subway zone usage fork stand record cable |  
 | bip_39_word_space_9 | direct subway zone usage fork stand record cable pioneer |  
+| bip_39_word_underscore_1 | direct |  
+| bip_39_word_underscore_10 | direct_subway_zone_usage_fork_stand_record_cable_pioneer_idea |  
+| bip_39_word_underscore_11 | direct_subway_zone_usage_fork_stand_record_cable_pioneer_idea_chronic |  
+| bip_39_word_underscore_12 | direct_subway_zone_usage_fork_stand_record_cable_pioneer_idea_chronic_accuse |  
+| bip_39_word_underscore_2 | direct_subway |  
+| bip_39_word_underscore_3 | direct_subway_zone |  
+| bip_39_word_underscore_4 | direct_subway_zone_usage |  
+| bip_39_word_underscore_5 | direct_subway_zone_usage_fork |  
+| bip_39_word_underscore_6 | direct_subway_zone_usage_fork_stand |  
+| bip_39_word_underscore_7 | direct_subway_zone_usage_fork_stand_record |  
+| bip_39_word_underscore_8 | direct_subway_zone_usage_fork_stand_record_cable |  
+| bip_39_word_underscore_9 | direct_subway_zone_usage_fork_stand_record_cable_pioneer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

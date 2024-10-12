@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | calm |  
+| bip_39_word_dash_10 | calm-survey-conduct-visa-expand-proud-tilt-earn-frown-account |  
+| bip_39_word_dash_11 | calm-survey-conduct-visa-expand-proud-tilt-earn-frown-account-card |  
+| bip_39_word_dash_12 | calm-survey-conduct-visa-expand-proud-tilt-earn-frown-account-card-address |  
+| bip_39_word_dash_2 | calm-survey |  
+| bip_39_word_dash_3 | calm-survey-conduct |  
+| bip_39_word_dash_4 | calm-survey-conduct-visa |  
+| bip_39_word_dash_5 | calm-survey-conduct-visa-expand |  
+| bip_39_word_dash_6 | calm-survey-conduct-visa-expand-proud |  
+| bip_39_word_dash_7 | calm-survey-conduct-visa-expand-proud-tilt |  
+| bip_39_word_dash_8 | calm-survey-conduct-visa-expand-proud-tilt-earn |  
+| bip_39_word_dash_9 | calm-survey-conduct-visa-expand-proud-tilt-earn-frown |  
 | bip_39_word_new_br_1 | calm |  
 | bip_39_word_new_br_10 | calm<br>survey<br>conduct<br>visa<br>expand<br>proud<br>tilt<br>earn<br>frown<br>account |  
 | bip_39_word_new_br_11 | calm<br>survey<br>conduct<br>visa<br>expand<br>proud<br>tilt<br>earn<br>frown<br>account<br>card |  
@@ -147,6 +159,18 @@ frown |
 | bip_39_word_space_7 | calm survey conduct visa expand proud tilt |  
 | bip_39_word_space_8 | calm survey conduct visa expand proud tilt earn |  
 | bip_39_word_space_9 | calm survey conduct visa expand proud tilt earn frown |  
+| bip_39_word_underscore_1 | calm |  
+| bip_39_word_underscore_10 | calm_survey_conduct_visa_expand_proud_tilt_earn_frown_account |  
+| bip_39_word_underscore_11 | calm_survey_conduct_visa_expand_proud_tilt_earn_frown_account_card |  
+| bip_39_word_underscore_12 | calm_survey_conduct_visa_expand_proud_tilt_earn_frown_account_card_address |  
+| bip_39_word_underscore_2 | calm_survey |  
+| bip_39_word_underscore_3 | calm_survey_conduct |  
+| bip_39_word_underscore_4 | calm_survey_conduct_visa |  
+| bip_39_word_underscore_5 | calm_survey_conduct_visa_expand |  
+| bip_39_word_underscore_6 | calm_survey_conduct_visa_expand_proud |  
+| bip_39_word_underscore_7 | calm_survey_conduct_visa_expand_proud_tilt |  
+| bip_39_word_underscore_8 | calm_survey_conduct_visa_expand_proud_tilt_earn |  
+| bip_39_word_underscore_9 | calm_survey_conduct_visa_expand_proud_tilt_earn_frown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

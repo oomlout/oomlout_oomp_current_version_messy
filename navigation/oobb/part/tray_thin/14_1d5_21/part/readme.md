@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | proof |  
+| bip_39_word_dash_10 | proof-there-absorb-topic-release-skin-decrease-wool-flower-timber |  
+| bip_39_word_dash_11 | proof-there-absorb-topic-release-skin-decrease-wool-flower-timber-final |  
+| bip_39_word_dash_12 | proof-there-absorb-topic-release-skin-decrease-wool-flower-timber-final-achieve |  
+| bip_39_word_dash_2 | proof-there |  
+| bip_39_word_dash_3 | proof-there-absorb |  
+| bip_39_word_dash_4 | proof-there-absorb-topic |  
+| bip_39_word_dash_5 | proof-there-absorb-topic-release |  
+| bip_39_word_dash_6 | proof-there-absorb-topic-release-skin |  
+| bip_39_word_dash_7 | proof-there-absorb-topic-release-skin-decrease |  
+| bip_39_word_dash_8 | proof-there-absorb-topic-release-skin-decrease-wool |  
+| bip_39_word_dash_9 | proof-there-absorb-topic-release-skin-decrease-wool-flower |  
 | bip_39_word_new_br_1 | proof |  
 | bip_39_word_new_br_10 | proof<br>there<br>absorb<br>topic<br>release<br>skin<br>decrease<br>wool<br>flower<br>timber |  
 | bip_39_word_new_br_11 | proof<br>there<br>absorb<br>topic<br>release<br>skin<br>decrease<br>wool<br>flower<br>timber<br>final |  
@@ -147,6 +159,18 @@ flower |
 | bip_39_word_space_7 | proof there absorb topic release skin decrease |  
 | bip_39_word_space_8 | proof there absorb topic release skin decrease wool |  
 | bip_39_word_space_9 | proof there absorb topic release skin decrease wool flower |  
+| bip_39_word_underscore_1 | proof |  
+| bip_39_word_underscore_10 | proof_there_absorb_topic_release_skin_decrease_wool_flower_timber |  
+| bip_39_word_underscore_11 | proof_there_absorb_topic_release_skin_decrease_wool_flower_timber_final |  
+| bip_39_word_underscore_12 | proof_there_absorb_topic_release_skin_decrease_wool_flower_timber_final_achieve |  
+| bip_39_word_underscore_2 | proof_there |  
+| bip_39_word_underscore_3 | proof_there_absorb |  
+| bip_39_word_underscore_4 | proof_there_absorb_topic |  
+| bip_39_word_underscore_5 | proof_there_absorb_topic_release |  
+| bip_39_word_underscore_6 | proof_there_absorb_topic_release_skin |  
+| bip_39_word_underscore_7 | proof_there_absorb_topic_release_skin_decrease |  
+| bip_39_word_underscore_8 | proof_there_absorb_topic_release_skin_decrease_wool |  
+| bip_39_word_underscore_9 | proof_there_absorb_topic_release_skin_decrease_wool_flower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

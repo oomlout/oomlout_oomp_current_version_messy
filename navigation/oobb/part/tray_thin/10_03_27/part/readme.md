@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sorry |  
+| bip_39_word_dash_10 | sorry-vague-start-trash-clutch-camp-bounce-super-type-strike |  
+| bip_39_word_dash_11 | sorry-vague-start-trash-clutch-camp-bounce-super-type-strike-survey |  
+| bip_39_word_dash_12 | sorry-vague-start-trash-clutch-camp-bounce-super-type-strike-survey-absurd |  
+| bip_39_word_dash_2 | sorry-vague |  
+| bip_39_word_dash_3 | sorry-vague-start |  
+| bip_39_word_dash_4 | sorry-vague-start-trash |  
+| bip_39_word_dash_5 | sorry-vague-start-trash-clutch |  
+| bip_39_word_dash_6 | sorry-vague-start-trash-clutch-camp |  
+| bip_39_word_dash_7 | sorry-vague-start-trash-clutch-camp-bounce |  
+| bip_39_word_dash_8 | sorry-vague-start-trash-clutch-camp-bounce-super |  
+| bip_39_word_dash_9 | sorry-vague-start-trash-clutch-camp-bounce-super-type |  
 | bip_39_word_new_br_1 | sorry |  
 | bip_39_word_new_br_10 | sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike |  
 | bip_39_word_new_br_11 | sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike<br>survey |  
@@ -147,6 +159,18 @@ type |
 | bip_39_word_space_7 | sorry vague start trash clutch camp bounce |  
 | bip_39_word_space_8 | sorry vague start trash clutch camp bounce super |  
 | bip_39_word_space_9 | sorry vague start trash clutch camp bounce super type |  
+| bip_39_word_underscore_1 | sorry |  
+| bip_39_word_underscore_10 | sorry_vague_start_trash_clutch_camp_bounce_super_type_strike |  
+| bip_39_word_underscore_11 | sorry_vague_start_trash_clutch_camp_bounce_super_type_strike_survey |  
+| bip_39_word_underscore_12 | sorry_vague_start_trash_clutch_camp_bounce_super_type_strike_survey_absurd |  
+| bip_39_word_underscore_2 | sorry_vague |  
+| bip_39_word_underscore_3 | sorry_vague_start |  
+| bip_39_word_underscore_4 | sorry_vague_start_trash |  
+| bip_39_word_underscore_5 | sorry_vague_start_trash_clutch |  
+| bip_39_word_underscore_6 | sorry_vague_start_trash_clutch_camp |  
+| bip_39_word_underscore_7 | sorry_vague_start_trash_clutch_camp_bounce |  
+| bip_39_word_underscore_8 | sorry_vague_start_trash_clutch_camp_bounce_super |  
+| bip_39_word_underscore_9 | sorry_vague_start_trash_clutch_camp_bounce_super_type |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

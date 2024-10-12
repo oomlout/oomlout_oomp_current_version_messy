@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spot
+bip_39_word_dash_10: spot-symptom-accuse-casino-famous-joy-aisle-happy-advice-lab
+bip_39_word_dash_11: spot-symptom-accuse-casino-famous-joy-aisle-happy-advice-lab-away
+bip_39_word_dash_12: spot-symptom-accuse-casino-famous-joy-aisle-happy-advice-lab-away-army
+bip_39_word_dash_2: spot-symptom
+bip_39_word_dash_3: spot-symptom-accuse
+bip_39_word_dash_4: spot-symptom-accuse-casino
+bip_39_word_dash_5: spot-symptom-accuse-casino-famous
+bip_39_word_dash_6: spot-symptom-accuse-casino-famous-joy
+bip_39_word_dash_7: spot-symptom-accuse-casino-famous-joy-aisle
+bip_39_word_dash_8: spot-symptom-accuse-casino-famous-joy-aisle-happy
+bip_39_word_dash_9: spot-symptom-accuse-casino-famous-joy-aisle-happy-advice
 bip_39_word_new_br_1: spot
 bip_39_word_new_br_10: spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab
 bip_39_word_new_br_11: spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab<br>away
@@ -193,6 +205,18 @@ bip_39_word_space_6: spot symptom accuse casino famous joy
 bip_39_word_space_7: spot symptom accuse casino famous joy aisle
 bip_39_word_space_8: spot symptom accuse casino famous joy aisle happy
 bip_39_word_space_9: spot symptom accuse casino famous joy aisle happy advice
+bip_39_word_underscore_1: spot
+bip_39_word_underscore_10: spot_symptom_accuse_casino_famous_joy_aisle_happy_advice_lab
+bip_39_word_underscore_11: spot_symptom_accuse_casino_famous_joy_aisle_happy_advice_lab_away
+bip_39_word_underscore_12: spot_symptom_accuse_casino_famous_joy_aisle_happy_advice_lab_away_army
+bip_39_word_underscore_2: spot_symptom
+bip_39_word_underscore_3: spot_symptom_accuse
+bip_39_word_underscore_4: spot_symptom_accuse_casino
+bip_39_word_underscore_5: spot_symptom_accuse_casino_famous
+bip_39_word_underscore_6: spot_symptom_accuse_casino_famous_joy
+bip_39_word_underscore_7: spot_symptom_accuse_casino_famous_joy_aisle
+bip_39_word_underscore_8: spot_symptom_accuse_casino_famous_joy_aisle_happy
+bip_39_word_underscore_9: spot_symptom_accuse_casino_famous_joy_aisle_happy_advice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prize |  
+| bip_39_word_dash_10 | prize-donkey-scrub-media-degree-manage-borrow-series-repeat-conduct |  
+| bip_39_word_dash_11 | prize-donkey-scrub-media-degree-manage-borrow-series-repeat-conduct-couple |  
+| bip_39_word_dash_12 | prize-donkey-scrub-media-degree-manage-borrow-series-repeat-conduct-couple-amused |  
+| bip_39_word_dash_2 | prize-donkey |  
+| bip_39_word_dash_3 | prize-donkey-scrub |  
+| bip_39_word_dash_4 | prize-donkey-scrub-media |  
+| bip_39_word_dash_5 | prize-donkey-scrub-media-degree |  
+| bip_39_word_dash_6 | prize-donkey-scrub-media-degree-manage |  
+| bip_39_word_dash_7 | prize-donkey-scrub-media-degree-manage-borrow |  
+| bip_39_word_dash_8 | prize-donkey-scrub-media-degree-manage-borrow-series |  
+| bip_39_word_dash_9 | prize-donkey-scrub-media-degree-manage-borrow-series-repeat |  
 | bip_39_word_new_br_1 | prize |  
 | bip_39_word_new_br_10 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct |  
 | bip_39_word_new_br_11 | prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct<br>couple |  
@@ -147,6 +159,18 @@ repeat |
 | bip_39_word_space_7 | prize donkey scrub media degree manage borrow |  
 | bip_39_word_space_8 | prize donkey scrub media degree manage borrow series |  
 | bip_39_word_space_9 | prize donkey scrub media degree manage borrow series repeat |  
+| bip_39_word_underscore_1 | prize |  
+| bip_39_word_underscore_10 | prize_donkey_scrub_media_degree_manage_borrow_series_repeat_conduct |  
+| bip_39_word_underscore_11 | prize_donkey_scrub_media_degree_manage_borrow_series_repeat_conduct_couple |  
+| bip_39_word_underscore_12 | prize_donkey_scrub_media_degree_manage_borrow_series_repeat_conduct_couple_amused |  
+| bip_39_word_underscore_2 | prize_donkey |  
+| bip_39_word_underscore_3 | prize_donkey_scrub |  
+| bip_39_word_underscore_4 | prize_donkey_scrub_media |  
+| bip_39_word_underscore_5 | prize_donkey_scrub_media_degree |  
+| bip_39_word_underscore_6 | prize_donkey_scrub_media_degree_manage |  
+| bip_39_word_underscore_7 | prize_donkey_scrub_media_degree_manage_borrow |  
+| bip_39_word_underscore_8 | prize_donkey_scrub_media_degree_manage_borrow_series |  
+| bip_39_word_underscore_9 | prize_donkey_scrub_media_degree_manage_borrow_series_repeat |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | space |  
+| bip_39_word_dash_10 | space-next-acoustic-language-identify-family-sick-predict-finger-fat |  
+| bip_39_word_dash_11 | space-next-acoustic-language-identify-family-sick-predict-finger-fat-when |  
+| bip_39_word_dash_12 | space-next-acoustic-language-identify-family-sick-predict-finger-fat-when-almost |  
+| bip_39_word_dash_2 | space-next |  
+| bip_39_word_dash_3 | space-next-acoustic |  
+| bip_39_word_dash_4 | space-next-acoustic-language |  
+| bip_39_word_dash_5 | space-next-acoustic-language-identify |  
+| bip_39_word_dash_6 | space-next-acoustic-language-identify-family |  
+| bip_39_word_dash_7 | space-next-acoustic-language-identify-family-sick |  
+| bip_39_word_dash_8 | space-next-acoustic-language-identify-family-sick-predict |  
+| bip_39_word_dash_9 | space-next-acoustic-language-identify-family-sick-predict-finger |  
 | bip_39_word_new_br_1 | space |  
 | bip_39_word_new_br_10 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict<br>finger<br>fat |  
 | bip_39_word_new_br_11 | space<br>next<br>acoustic<br>language<br>identify<br>family<br>sick<br>predict<br>finger<br>fat<br>when |  
@@ -147,6 +159,18 @@ finger |
 | bip_39_word_space_7 | space next acoustic language identify family sick |  
 | bip_39_word_space_8 | space next acoustic language identify family sick predict |  
 | bip_39_word_space_9 | space next acoustic language identify family sick predict finger |  
+| bip_39_word_underscore_1 | space |  
+| bip_39_word_underscore_10 | space_next_acoustic_language_identify_family_sick_predict_finger_fat |  
+| bip_39_word_underscore_11 | space_next_acoustic_language_identify_family_sick_predict_finger_fat_when |  
+| bip_39_word_underscore_12 | space_next_acoustic_language_identify_family_sick_predict_finger_fat_when_almost |  
+| bip_39_word_underscore_2 | space_next |  
+| bip_39_word_underscore_3 | space_next_acoustic |  
+| bip_39_word_underscore_4 | space_next_acoustic_language |  
+| bip_39_word_underscore_5 | space_next_acoustic_language_identify |  
+| bip_39_word_underscore_6 | space_next_acoustic_language_identify_family |  
+| bip_39_word_underscore_7 | space_next_acoustic_language_identify_family_sick |  
+| bip_39_word_underscore_8 | space_next_acoustic_language_identify_family_sick_predict |  
+| bip_39_word_underscore_9 | space_next_acoustic_language_identify_family_sick_predict_finger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cruel |  
+| bip_39_word_dash_10 | cruel-all-gift-stereo-join-divert-hard-pattern-half-clown |  
+| bip_39_word_dash_11 | cruel-all-gift-stereo-join-divert-hard-pattern-half-clown-journey |  
+| bip_39_word_dash_12 | cruel-all-gift-stereo-join-divert-hard-pattern-half-clown-journey-advice |  
+| bip_39_word_dash_2 | cruel-all |  
+| bip_39_word_dash_3 | cruel-all-gift |  
+| bip_39_word_dash_4 | cruel-all-gift-stereo |  
+| bip_39_word_dash_5 | cruel-all-gift-stereo-join |  
+| bip_39_word_dash_6 | cruel-all-gift-stereo-join-divert |  
+| bip_39_word_dash_7 | cruel-all-gift-stereo-join-divert-hard |  
+| bip_39_word_dash_8 | cruel-all-gift-stereo-join-divert-hard-pattern |  
+| bip_39_word_dash_9 | cruel-all-gift-stereo-join-divert-hard-pattern-half |  
 | bip_39_word_new_br_1 | cruel |  
 | bip_39_word_new_br_10 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern<br>half<br>clown |  
 | bip_39_word_new_br_11 | cruel<br>all<br>gift<br>stereo<br>join<br>divert<br>hard<br>pattern<br>half<br>clown<br>journey |  
@@ -147,6 +159,18 @@ half |
 | bip_39_word_space_7 | cruel all gift stereo join divert hard |  
 | bip_39_word_space_8 | cruel all gift stereo join divert hard pattern |  
 | bip_39_word_space_9 | cruel all gift stereo join divert hard pattern half |  
+| bip_39_word_underscore_1 | cruel |  
+| bip_39_word_underscore_10 | cruel_all_gift_stereo_join_divert_hard_pattern_half_clown |  
+| bip_39_word_underscore_11 | cruel_all_gift_stereo_join_divert_hard_pattern_half_clown_journey |  
+| bip_39_word_underscore_12 | cruel_all_gift_stereo_join_divert_hard_pattern_half_clown_journey_advice |  
+| bip_39_word_underscore_2 | cruel_all |  
+| bip_39_word_underscore_3 | cruel_all_gift |  
+| bip_39_word_underscore_4 | cruel_all_gift_stereo |  
+| bip_39_word_underscore_5 | cruel_all_gift_stereo_join |  
+| bip_39_word_underscore_6 | cruel_all_gift_stereo_join_divert |  
+| bip_39_word_underscore_7 | cruel_all_gift_stereo_join_divert_hard |  
+| bip_39_word_underscore_8 | cruel_all_gift_stereo_join_divert_hard_pattern |  
+| bip_39_word_underscore_9 | cruel_all_gift_stereo_join_divert_hard_pattern_half |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

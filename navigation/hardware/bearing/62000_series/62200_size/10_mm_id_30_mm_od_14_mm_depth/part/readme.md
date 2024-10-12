@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rail |  
+| bip_39_word_dash_10 | rail-cousin-salad-hat-street-visit-depth-lounge-own-draft |  
+| bip_39_word_dash_11 | rail-cousin-salad-hat-street-visit-depth-lounge-own-draft-pond |  
+| bip_39_word_dash_12 | rail-cousin-salad-hat-street-visit-depth-lounge-own-draft-pond-afraid |  
+| bip_39_word_dash_2 | rail-cousin |  
+| bip_39_word_dash_3 | rail-cousin-salad |  
+| bip_39_word_dash_4 | rail-cousin-salad-hat |  
+| bip_39_word_dash_5 | rail-cousin-salad-hat-street |  
+| bip_39_word_dash_6 | rail-cousin-salad-hat-street-visit |  
+| bip_39_word_dash_7 | rail-cousin-salad-hat-street-visit-depth |  
+| bip_39_word_dash_8 | rail-cousin-salad-hat-street-visit-depth-lounge |  
+| bip_39_word_dash_9 | rail-cousin-salad-hat-street-visit-depth-lounge-own |  
 | bip_39_word_new_br_1 | rail |  
 | bip_39_word_new_br_10 | rail<br>cousin<br>salad<br>hat<br>street<br>visit<br>depth<br>lounge<br>own<br>draft |  
 | bip_39_word_new_br_11 | rail<br>cousin<br>salad<br>hat<br>street<br>visit<br>depth<br>lounge<br>own<br>draft<br>pond |  
@@ -147,6 +159,18 @@ own |
 | bip_39_word_space_7 | rail cousin salad hat street visit depth |  
 | bip_39_word_space_8 | rail cousin salad hat street visit depth lounge |  
 | bip_39_word_space_9 | rail cousin salad hat street visit depth lounge own |  
+| bip_39_word_underscore_1 | rail |  
+| bip_39_word_underscore_10 | rail_cousin_salad_hat_street_visit_depth_lounge_own_draft |  
+| bip_39_word_underscore_11 | rail_cousin_salad_hat_street_visit_depth_lounge_own_draft_pond |  
+| bip_39_word_underscore_12 | rail_cousin_salad_hat_street_visit_depth_lounge_own_draft_pond_afraid |  
+| bip_39_word_underscore_2 | rail_cousin |  
+| bip_39_word_underscore_3 | rail_cousin_salad |  
+| bip_39_word_underscore_4 | rail_cousin_salad_hat |  
+| bip_39_word_underscore_5 | rail_cousin_salad_hat_street |  
+| bip_39_word_underscore_6 | rail_cousin_salad_hat_street_visit |  
+| bip_39_word_underscore_7 | rail_cousin_salad_hat_street_visit_depth |  
+| bip_39_word_underscore_8 | rail_cousin_salad_hat_street_visit_depth_lounge |  
+| bip_39_word_underscore_9 | rail_cousin_salad_hat_street_visit_depth_lounge_own |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

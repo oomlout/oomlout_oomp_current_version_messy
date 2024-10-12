@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ski |  
+| bip_39_word_dash_10 | ski-unknown-valley-cool-mobile-scatter-picture-safe-dry-return |  
+| bip_39_word_dash_11 | ski-unknown-valley-cool-mobile-scatter-picture-safe-dry-return-exact |  
+| bip_39_word_dash_12 | ski-unknown-valley-cool-mobile-scatter-picture-safe-dry-return-exact-act |  
+| bip_39_word_dash_2 | ski-unknown |  
+| bip_39_word_dash_3 | ski-unknown-valley |  
+| bip_39_word_dash_4 | ski-unknown-valley-cool |  
+| bip_39_word_dash_5 | ski-unknown-valley-cool-mobile |  
+| bip_39_word_dash_6 | ski-unknown-valley-cool-mobile-scatter |  
+| bip_39_word_dash_7 | ski-unknown-valley-cool-mobile-scatter-picture |  
+| bip_39_word_dash_8 | ski-unknown-valley-cool-mobile-scatter-picture-safe |  
+| bip_39_word_dash_9 | ski-unknown-valley-cool-mobile-scatter-picture-safe-dry |  
 | bip_39_word_new_br_1 | ski |  
 | bip_39_word_new_br_10 | ski<br>unknown<br>valley<br>cool<br>mobile<br>scatter<br>picture<br>safe<br>dry<br>return |  
 | bip_39_word_new_br_11 | ski<br>unknown<br>valley<br>cool<br>mobile<br>scatter<br>picture<br>safe<br>dry<br>return<br>exact |  
@@ -147,6 +159,18 @@ dry |
 | bip_39_word_space_7 | ski unknown valley cool mobile scatter picture |  
 | bip_39_word_space_8 | ski unknown valley cool mobile scatter picture safe |  
 | bip_39_word_space_9 | ski unknown valley cool mobile scatter picture safe dry |  
+| bip_39_word_underscore_1 | ski |  
+| bip_39_word_underscore_10 | ski_unknown_valley_cool_mobile_scatter_picture_safe_dry_return |  
+| bip_39_word_underscore_11 | ski_unknown_valley_cool_mobile_scatter_picture_safe_dry_return_exact |  
+| bip_39_word_underscore_12 | ski_unknown_valley_cool_mobile_scatter_picture_safe_dry_return_exact_act |  
+| bip_39_word_underscore_2 | ski_unknown |  
+| bip_39_word_underscore_3 | ski_unknown_valley |  
+| bip_39_word_underscore_4 | ski_unknown_valley_cool |  
+| bip_39_word_underscore_5 | ski_unknown_valley_cool_mobile |  
+| bip_39_word_underscore_6 | ski_unknown_valley_cool_mobile_scatter |  
+| bip_39_word_underscore_7 | ski_unknown_valley_cool_mobile_scatter_picture |  
+| bip_39_word_underscore_8 | ski_unknown_valley_cool_mobile_scatter_picture_safe |  
+| bip_39_word_underscore_9 | ski_unknown_valley_cool_mobile_scatter_picture_safe_dry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

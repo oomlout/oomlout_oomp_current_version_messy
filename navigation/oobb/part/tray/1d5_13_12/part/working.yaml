@@ -1,3 +1,15 @@
+bip_39_word_dash_1: proof
+bip_39_word_dash_10: proof-problem-kangaroo-hair-summer-glow-soul-become-office-term
+bip_39_word_dash_11: proof-problem-kangaroo-hair-summer-glow-soul-become-office-term-image
+bip_39_word_dash_12: proof-problem-kangaroo-hair-summer-glow-soul-become-office-term-image-audit
+bip_39_word_dash_2: proof-problem
+bip_39_word_dash_3: proof-problem-kangaroo
+bip_39_word_dash_4: proof-problem-kangaroo-hair
+bip_39_word_dash_5: proof-problem-kangaroo-hair-summer
+bip_39_word_dash_6: proof-problem-kangaroo-hair-summer-glow
+bip_39_word_dash_7: proof-problem-kangaroo-hair-summer-glow-soul
+bip_39_word_dash_8: proof-problem-kangaroo-hair-summer-glow-soul-become
+bip_39_word_dash_9: proof-problem-kangaroo-hair-summer-glow-soul-become-office
 bip_39_word_new_br_1: proof
 bip_39_word_new_br_10: proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become<br>office<br>term
 bip_39_word_new_br_11: proof<br>problem<br>kangaroo<br>hair<br>summer<br>glow<br>soul<br>become<br>office<br>term<br>image
@@ -193,6 +205,18 @@ bip_39_word_space_6: proof problem kangaroo hair summer glow
 bip_39_word_space_7: proof problem kangaroo hair summer glow soul
 bip_39_word_space_8: proof problem kangaroo hair summer glow soul become
 bip_39_word_space_9: proof problem kangaroo hair summer glow soul become office
+bip_39_word_underscore_1: proof
+bip_39_word_underscore_10: proof_problem_kangaroo_hair_summer_glow_soul_become_office_term
+bip_39_word_underscore_11: proof_problem_kangaroo_hair_summer_glow_soul_become_office_term_image
+bip_39_word_underscore_12: proof_problem_kangaroo_hair_summer_glow_soul_become_office_term_image_audit
+bip_39_word_underscore_2: proof_problem
+bip_39_word_underscore_3: proof_problem_kangaroo
+bip_39_word_underscore_4: proof_problem_kangaroo_hair
+bip_39_word_underscore_5: proof_problem_kangaroo_hair_summer
+bip_39_word_underscore_6: proof_problem_kangaroo_hair_summer_glow
+bip_39_word_underscore_7: proof_problem_kangaroo_hair_summer_glow_soul
+bip_39_word_underscore_8: proof_problem_kangaroo_hair_summer_glow_soul_become
+bip_39_word_underscore_9: proof_problem_kangaroo_hair_summer_glow_soul_become_office
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

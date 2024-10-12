@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fan
+bip_39_word_dash_10: fan-pepper-west-ketchup-seed-buyer-couple-gown-merit-error
+bip_39_word_dash_11: fan-pepper-west-ketchup-seed-buyer-couple-gown-merit-error-phrase
+bip_39_word_dash_12: fan-pepper-west-ketchup-seed-buyer-couple-gown-merit-error-phrase-afraid
+bip_39_word_dash_2: fan-pepper
+bip_39_word_dash_3: fan-pepper-west
+bip_39_word_dash_4: fan-pepper-west-ketchup
+bip_39_word_dash_5: fan-pepper-west-ketchup-seed
+bip_39_word_dash_6: fan-pepper-west-ketchup-seed-buyer
+bip_39_word_dash_7: fan-pepper-west-ketchup-seed-buyer-couple
+bip_39_word_dash_8: fan-pepper-west-ketchup-seed-buyer-couple-gown
+bip_39_word_dash_9: fan-pepper-west-ketchup-seed-buyer-couple-gown-merit
 bip_39_word_new_br_1: fan
 bip_39_word_new_br_10: fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown<br>merit<br>error
 bip_39_word_new_br_11: fan<br>pepper<br>west<br>ketchup<br>seed<br>buyer<br>couple<br>gown<br>merit<br>error<br>phrase
@@ -192,6 +204,18 @@ bip_39_word_space_6: fan pepper west ketchup seed buyer
 bip_39_word_space_7: fan pepper west ketchup seed buyer couple
 bip_39_word_space_8: fan pepper west ketchup seed buyer couple gown
 bip_39_word_space_9: fan pepper west ketchup seed buyer couple gown merit
+bip_39_word_underscore_1: fan
+bip_39_word_underscore_10: fan_pepper_west_ketchup_seed_buyer_couple_gown_merit_error
+bip_39_word_underscore_11: fan_pepper_west_ketchup_seed_buyer_couple_gown_merit_error_phrase
+bip_39_word_underscore_12: fan_pepper_west_ketchup_seed_buyer_couple_gown_merit_error_phrase_afraid
+bip_39_word_underscore_2: fan_pepper
+bip_39_word_underscore_3: fan_pepper_west
+bip_39_word_underscore_4: fan_pepper_west_ketchup
+bip_39_word_underscore_5: fan_pepper_west_ketchup_seed
+bip_39_word_underscore_6: fan_pepper_west_ketchup_seed_buyer
+bip_39_word_underscore_7: fan_pepper_west_ketchup_seed_buyer_couple
+bip_39_word_underscore_8: fan_pepper_west_ketchup_seed_buyer_couple_gown
+bip_39_word_underscore_9: fan_pepper_west_ketchup_seed_buyer_couple_gown_merit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

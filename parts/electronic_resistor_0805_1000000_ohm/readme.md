@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | card |  
+| bip_39_word_dash_10 | card-main-rent-outdoor-gadget-fault-various-poem-industry-salmon |  
+| bip_39_word_dash_11 | card-main-rent-outdoor-gadget-fault-various-poem-industry-salmon-dial |  
+| bip_39_word_dash_12 | card-main-rent-outdoor-gadget-fault-various-poem-industry-salmon-dial-around |  
+| bip_39_word_dash_2 | card-main |  
+| bip_39_word_dash_3 | card-main-rent |  
+| bip_39_word_dash_4 | card-main-rent-outdoor |  
+| bip_39_word_dash_5 | card-main-rent-outdoor-gadget |  
+| bip_39_word_dash_6 | card-main-rent-outdoor-gadget-fault |  
+| bip_39_word_dash_7 | card-main-rent-outdoor-gadget-fault-various |  
+| bip_39_word_dash_8 | card-main-rent-outdoor-gadget-fault-various-poem |  
+| bip_39_word_dash_9 | card-main-rent-outdoor-gadget-fault-various-poem-industry |  
 | bip_39_word_new_br_1 | card |  
 | bip_39_word_new_br_10 | card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry<br>salmon |  
 | bip_39_word_new_br_11 | card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry<br>salmon<br>dial |  
@@ -147,6 +159,18 @@ industry |
 | bip_39_word_space_7 | card main rent outdoor gadget fault various |  
 | bip_39_word_space_8 | card main rent outdoor gadget fault various poem |  
 | bip_39_word_space_9 | card main rent outdoor gadget fault various poem industry |  
+| bip_39_word_underscore_1 | card |  
+| bip_39_word_underscore_10 | card_main_rent_outdoor_gadget_fault_various_poem_industry_salmon |  
+| bip_39_word_underscore_11 | card_main_rent_outdoor_gadget_fault_various_poem_industry_salmon_dial |  
+| bip_39_word_underscore_12 | card_main_rent_outdoor_gadget_fault_various_poem_industry_salmon_dial_around |  
+| bip_39_word_underscore_2 | card_main |  
+| bip_39_word_underscore_3 | card_main_rent |  
+| bip_39_word_underscore_4 | card_main_rent_outdoor |  
+| bip_39_word_underscore_5 | card_main_rent_outdoor_gadget |  
+| bip_39_word_underscore_6 | card_main_rent_outdoor_gadget_fault |  
+| bip_39_word_underscore_7 | card_main_rent_outdoor_gadget_fault_various |  
+| bip_39_word_underscore_8 | card_main_rent_outdoor_gadget_fault_various_poem |  
+| bip_39_word_underscore_9 | card_main_rent_outdoor_gadget_fault_various_poem_industry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

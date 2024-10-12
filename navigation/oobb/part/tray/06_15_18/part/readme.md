@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | remove |  
+| bip_39_word_dash_10 | remove-exclude-mixed-avocado-infant-scorpion-news-twin-shoe-quick |  
+| bip_39_word_dash_11 | remove-exclude-mixed-avocado-infant-scorpion-news-twin-shoe-quick-banana |  
+| bip_39_word_dash_12 | remove-exclude-mixed-avocado-infant-scorpion-news-twin-shoe-quick-banana-august |  
+| bip_39_word_dash_2 | remove-exclude |  
+| bip_39_word_dash_3 | remove-exclude-mixed |  
+| bip_39_word_dash_4 | remove-exclude-mixed-avocado |  
+| bip_39_word_dash_5 | remove-exclude-mixed-avocado-infant |  
+| bip_39_word_dash_6 | remove-exclude-mixed-avocado-infant-scorpion |  
+| bip_39_word_dash_7 | remove-exclude-mixed-avocado-infant-scorpion-news |  
+| bip_39_word_dash_8 | remove-exclude-mixed-avocado-infant-scorpion-news-twin |  
+| bip_39_word_dash_9 | remove-exclude-mixed-avocado-infant-scorpion-news-twin-shoe |  
 | bip_39_word_new_br_1 | remove |  
 | bip_39_word_new_br_10 | remove<br>exclude<br>mixed<br>avocado<br>infant<br>scorpion<br>news<br>twin<br>shoe<br>quick |  
 | bip_39_word_new_br_11 | remove<br>exclude<br>mixed<br>avocado<br>infant<br>scorpion<br>news<br>twin<br>shoe<br>quick<br>banana |  
@@ -147,6 +159,18 @@ shoe |
 | bip_39_word_space_7 | remove exclude mixed avocado infant scorpion news |  
 | bip_39_word_space_8 | remove exclude mixed avocado infant scorpion news twin |  
 | bip_39_word_space_9 | remove exclude mixed avocado infant scorpion news twin shoe |  
+| bip_39_word_underscore_1 | remove |  
+| bip_39_word_underscore_10 | remove_exclude_mixed_avocado_infant_scorpion_news_twin_shoe_quick |  
+| bip_39_word_underscore_11 | remove_exclude_mixed_avocado_infant_scorpion_news_twin_shoe_quick_banana |  
+| bip_39_word_underscore_12 | remove_exclude_mixed_avocado_infant_scorpion_news_twin_shoe_quick_banana_august |  
+| bip_39_word_underscore_2 | remove_exclude |  
+| bip_39_word_underscore_3 | remove_exclude_mixed |  
+| bip_39_word_underscore_4 | remove_exclude_mixed_avocado |  
+| bip_39_word_underscore_5 | remove_exclude_mixed_avocado_infant |  
+| bip_39_word_underscore_6 | remove_exclude_mixed_avocado_infant_scorpion |  
+| bip_39_word_underscore_7 | remove_exclude_mixed_avocado_infant_scorpion_news |  
+| bip_39_word_underscore_8 | remove_exclude_mixed_avocado_infant_scorpion_news_twin |  
+| bip_39_word_underscore_9 | remove_exclude_mixed_avocado_infant_scorpion_news_twin_shoe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

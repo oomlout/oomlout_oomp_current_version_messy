@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lazy |  
+| bip_39_word_dash_10 | lazy-head-enforce-unaware-stamp-dutch-moon-tooth-carbon-tell |  
+| bip_39_word_dash_11 | lazy-head-enforce-unaware-stamp-dutch-moon-tooth-carbon-tell-anxiety |  
+| bip_39_word_dash_12 | lazy-head-enforce-unaware-stamp-dutch-moon-tooth-carbon-tell-anxiety-adult |  
+| bip_39_word_dash_2 | lazy-head |  
+| bip_39_word_dash_3 | lazy-head-enforce |  
+| bip_39_word_dash_4 | lazy-head-enforce-unaware |  
+| bip_39_word_dash_5 | lazy-head-enforce-unaware-stamp |  
+| bip_39_word_dash_6 | lazy-head-enforce-unaware-stamp-dutch |  
+| bip_39_word_dash_7 | lazy-head-enforce-unaware-stamp-dutch-moon |  
+| bip_39_word_dash_8 | lazy-head-enforce-unaware-stamp-dutch-moon-tooth |  
+| bip_39_word_dash_9 | lazy-head-enforce-unaware-stamp-dutch-moon-tooth-carbon |  
 | bip_39_word_new_br_1 | lazy |  
 | bip_39_word_new_br_10 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell |  
 | bip_39_word_new_br_11 | lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell<br>anxiety |  
@@ -147,6 +159,18 @@ carbon |
 | bip_39_word_space_7 | lazy head enforce unaware stamp dutch moon |  
 | bip_39_word_space_8 | lazy head enforce unaware stamp dutch moon tooth |  
 | bip_39_word_space_9 | lazy head enforce unaware stamp dutch moon tooth carbon |  
+| bip_39_word_underscore_1 | lazy |  
+| bip_39_word_underscore_10 | lazy_head_enforce_unaware_stamp_dutch_moon_tooth_carbon_tell |  
+| bip_39_word_underscore_11 | lazy_head_enforce_unaware_stamp_dutch_moon_tooth_carbon_tell_anxiety |  
+| bip_39_word_underscore_12 | lazy_head_enforce_unaware_stamp_dutch_moon_tooth_carbon_tell_anxiety_adult |  
+| bip_39_word_underscore_2 | lazy_head |  
+| bip_39_word_underscore_3 | lazy_head_enforce |  
+| bip_39_word_underscore_4 | lazy_head_enforce_unaware |  
+| bip_39_word_underscore_5 | lazy_head_enforce_unaware_stamp |  
+| bip_39_word_underscore_6 | lazy_head_enforce_unaware_stamp_dutch |  
+| bip_39_word_underscore_7 | lazy_head_enforce_unaware_stamp_dutch_moon |  
+| bip_39_word_underscore_8 | lazy_head_enforce_unaware_stamp_dutch_moon_tooth |  
+| bip_39_word_underscore_9 | lazy_head_enforce_unaware_stamp_dutch_moon_tooth_carbon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

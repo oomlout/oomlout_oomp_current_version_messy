@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cube |  
+| bip_39_word_dash_10 | cube-purse-motion-eager-kangaroo-spin-sort-vendor-speed-prepare |  
+| bip_39_word_dash_11 | cube-purse-motion-eager-kangaroo-spin-sort-vendor-speed-prepare-pistol |  
+| bip_39_word_dash_12 | cube-purse-motion-eager-kangaroo-spin-sort-vendor-speed-prepare-pistol-assume |  
+| bip_39_word_dash_2 | cube-purse |  
+| bip_39_word_dash_3 | cube-purse-motion |  
+| bip_39_word_dash_4 | cube-purse-motion-eager |  
+| bip_39_word_dash_5 | cube-purse-motion-eager-kangaroo |  
+| bip_39_word_dash_6 | cube-purse-motion-eager-kangaroo-spin |  
+| bip_39_word_dash_7 | cube-purse-motion-eager-kangaroo-spin-sort |  
+| bip_39_word_dash_8 | cube-purse-motion-eager-kangaroo-spin-sort-vendor |  
+| bip_39_word_dash_9 | cube-purse-motion-eager-kangaroo-spin-sort-vendor-speed |  
 | bip_39_word_new_br_1 | cube |  
 | bip_39_word_new_br_10 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare |  
 | bip_39_word_new_br_11 | cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare<br>pistol |  
@@ -147,6 +159,18 @@ speed |
 | bip_39_word_space_7 | cube purse motion eager kangaroo spin sort |  
 | bip_39_word_space_8 | cube purse motion eager kangaroo spin sort vendor |  
 | bip_39_word_space_9 | cube purse motion eager kangaroo spin sort vendor speed |  
+| bip_39_word_underscore_1 | cube |  
+| bip_39_word_underscore_10 | cube_purse_motion_eager_kangaroo_spin_sort_vendor_speed_prepare |  
+| bip_39_word_underscore_11 | cube_purse_motion_eager_kangaroo_spin_sort_vendor_speed_prepare_pistol |  
+| bip_39_word_underscore_12 | cube_purse_motion_eager_kangaroo_spin_sort_vendor_speed_prepare_pistol_assume |  
+| bip_39_word_underscore_2 | cube_purse |  
+| bip_39_word_underscore_3 | cube_purse_motion |  
+| bip_39_word_underscore_4 | cube_purse_motion_eager |  
+| bip_39_word_underscore_5 | cube_purse_motion_eager_kangaroo |  
+| bip_39_word_underscore_6 | cube_purse_motion_eager_kangaroo_spin |  
+| bip_39_word_underscore_7 | cube_purse_motion_eager_kangaroo_spin_sort |  
+| bip_39_word_underscore_8 | cube_purse_motion_eager_kangaroo_spin_sort_vendor |  
+| bip_39_word_underscore_9 | cube_purse_motion_eager_kangaroo_spin_sort_vendor_speed |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

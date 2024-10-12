@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stamp |  
+| bip_39_word_dash_10 | stamp-deny-rookie-unusual-scrub-narrow-fan-spike-receive-laugh |  
+| bip_39_word_dash_11 | stamp-deny-rookie-unusual-scrub-narrow-fan-spike-receive-laugh-column |  
+| bip_39_word_dash_12 | stamp-deny-rookie-unusual-scrub-narrow-fan-spike-receive-laugh-column-acoustic |  
+| bip_39_word_dash_2 | stamp-deny |  
+| bip_39_word_dash_3 | stamp-deny-rookie |  
+| bip_39_word_dash_4 | stamp-deny-rookie-unusual |  
+| bip_39_word_dash_5 | stamp-deny-rookie-unusual-scrub |  
+| bip_39_word_dash_6 | stamp-deny-rookie-unusual-scrub-narrow |  
+| bip_39_word_dash_7 | stamp-deny-rookie-unusual-scrub-narrow-fan |  
+| bip_39_word_dash_8 | stamp-deny-rookie-unusual-scrub-narrow-fan-spike |  
+| bip_39_word_dash_9 | stamp-deny-rookie-unusual-scrub-narrow-fan-spike-receive |  
 | bip_39_word_new_br_1 | stamp |  
 | bip_39_word_new_br_10 | stamp<br>deny<br>rookie<br>unusual<br>scrub<br>narrow<br>fan<br>spike<br>receive<br>laugh |  
 | bip_39_word_new_br_11 | stamp<br>deny<br>rookie<br>unusual<br>scrub<br>narrow<br>fan<br>spike<br>receive<br>laugh<br>column |  
@@ -147,6 +159,18 @@ receive |
 | bip_39_word_space_7 | stamp deny rookie unusual scrub narrow fan |  
 | bip_39_word_space_8 | stamp deny rookie unusual scrub narrow fan spike |  
 | bip_39_word_space_9 | stamp deny rookie unusual scrub narrow fan spike receive |  
+| bip_39_word_underscore_1 | stamp |  
+| bip_39_word_underscore_10 | stamp_deny_rookie_unusual_scrub_narrow_fan_spike_receive_laugh |  
+| bip_39_word_underscore_11 | stamp_deny_rookie_unusual_scrub_narrow_fan_spike_receive_laugh_column |  
+| bip_39_word_underscore_12 | stamp_deny_rookie_unusual_scrub_narrow_fan_spike_receive_laugh_column_acoustic |  
+| bip_39_word_underscore_2 | stamp_deny |  
+| bip_39_word_underscore_3 | stamp_deny_rookie |  
+| bip_39_word_underscore_4 | stamp_deny_rookie_unusual |  
+| bip_39_word_underscore_5 | stamp_deny_rookie_unusual_scrub |  
+| bip_39_word_underscore_6 | stamp_deny_rookie_unusual_scrub_narrow |  
+| bip_39_word_underscore_7 | stamp_deny_rookie_unusual_scrub_narrow_fan |  
+| bip_39_word_underscore_8 | stamp_deny_rookie_unusual_scrub_narrow_fan_spike |  
+| bip_39_word_underscore_9 | stamp_deny_rookie_unusual_scrub_narrow_fan_spike_receive |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

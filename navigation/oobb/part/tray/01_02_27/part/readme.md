@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inner |  
+| bip_39_word_dash_10 | inner-grain-left-gas-merry-time-kiwi-mule-uncle-deer |  
+| bip_39_word_dash_11 | inner-grain-left-gas-merry-time-kiwi-mule-uncle-deer-theory |  
+| bip_39_word_dash_12 | inner-grain-left-gas-merry-time-kiwi-mule-uncle-deer-theory-average |  
+| bip_39_word_dash_2 | inner-grain |  
+| bip_39_word_dash_3 | inner-grain-left |  
+| bip_39_word_dash_4 | inner-grain-left-gas |  
+| bip_39_word_dash_5 | inner-grain-left-gas-merry |  
+| bip_39_word_dash_6 | inner-grain-left-gas-merry-time |  
+| bip_39_word_dash_7 | inner-grain-left-gas-merry-time-kiwi |  
+| bip_39_word_dash_8 | inner-grain-left-gas-merry-time-kiwi-mule |  
+| bip_39_word_dash_9 | inner-grain-left-gas-merry-time-kiwi-mule-uncle |  
 | bip_39_word_new_br_1 | inner |  
 | bip_39_word_new_br_10 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer |  
 | bip_39_word_new_br_11 | inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer<br>theory |  
@@ -147,6 +159,18 @@ uncle |
 | bip_39_word_space_7 | inner grain left gas merry time kiwi |  
 | bip_39_word_space_8 | inner grain left gas merry time kiwi mule |  
 | bip_39_word_space_9 | inner grain left gas merry time kiwi mule uncle |  
+| bip_39_word_underscore_1 | inner |  
+| bip_39_word_underscore_10 | inner_grain_left_gas_merry_time_kiwi_mule_uncle_deer |  
+| bip_39_word_underscore_11 | inner_grain_left_gas_merry_time_kiwi_mule_uncle_deer_theory |  
+| bip_39_word_underscore_12 | inner_grain_left_gas_merry_time_kiwi_mule_uncle_deer_theory_average |  
+| bip_39_word_underscore_2 | inner_grain |  
+| bip_39_word_underscore_3 | inner_grain_left |  
+| bip_39_word_underscore_4 | inner_grain_left_gas |  
+| bip_39_word_underscore_5 | inner_grain_left_gas_merry |  
+| bip_39_word_underscore_6 | inner_grain_left_gas_merry_time |  
+| bip_39_word_underscore_7 | inner_grain_left_gas_merry_time_kiwi |  
+| bip_39_word_underscore_8 | inner_grain_left_gas_merry_time_kiwi_mule |  
+| bip_39_word_underscore_9 | inner_grain_left_gas_merry_time_kiwi_mule_uncle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

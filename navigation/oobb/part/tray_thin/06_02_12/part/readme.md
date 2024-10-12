@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | act |  
+| bip_39_word_dash_10 | act-valve-vanish-pledge-oak-fan-address-daughter-devote-sunset |  
+| bip_39_word_dash_11 | act-valve-vanish-pledge-oak-fan-address-daughter-devote-sunset-lemon |  
+| bip_39_word_dash_12 | act-valve-vanish-pledge-oak-fan-address-daughter-devote-sunset-lemon-art |  
+| bip_39_word_dash_2 | act-valve |  
+| bip_39_word_dash_3 | act-valve-vanish |  
+| bip_39_word_dash_4 | act-valve-vanish-pledge |  
+| bip_39_word_dash_5 | act-valve-vanish-pledge-oak |  
+| bip_39_word_dash_6 | act-valve-vanish-pledge-oak-fan |  
+| bip_39_word_dash_7 | act-valve-vanish-pledge-oak-fan-address |  
+| bip_39_word_dash_8 | act-valve-vanish-pledge-oak-fan-address-daughter |  
+| bip_39_word_dash_9 | act-valve-vanish-pledge-oak-fan-address-daughter-devote |  
 | bip_39_word_new_br_1 | act |  
 | bip_39_word_new_br_10 | act<br>valve<br>vanish<br>pledge<br>oak<br>fan<br>address<br>daughter<br>devote<br>sunset |  
 | bip_39_word_new_br_11 | act<br>valve<br>vanish<br>pledge<br>oak<br>fan<br>address<br>daughter<br>devote<br>sunset<br>lemon |  
@@ -147,6 +159,18 @@ devote |
 | bip_39_word_space_7 | act valve vanish pledge oak fan address |  
 | bip_39_word_space_8 | act valve vanish pledge oak fan address daughter |  
 | bip_39_word_space_9 | act valve vanish pledge oak fan address daughter devote |  
+| bip_39_word_underscore_1 | act |  
+| bip_39_word_underscore_10 | act_valve_vanish_pledge_oak_fan_address_daughter_devote_sunset |  
+| bip_39_word_underscore_11 | act_valve_vanish_pledge_oak_fan_address_daughter_devote_sunset_lemon |  
+| bip_39_word_underscore_12 | act_valve_vanish_pledge_oak_fan_address_daughter_devote_sunset_lemon_art |  
+| bip_39_word_underscore_2 | act_valve |  
+| bip_39_word_underscore_3 | act_valve_vanish |  
+| bip_39_word_underscore_4 | act_valve_vanish_pledge |  
+| bip_39_word_underscore_5 | act_valve_vanish_pledge_oak |  
+| bip_39_word_underscore_6 | act_valve_vanish_pledge_oak_fan |  
+| bip_39_word_underscore_7 | act_valve_vanish_pledge_oak_fan_address |  
+| bip_39_word_underscore_8 | act_valve_vanish_pledge_oak_fan_address_daughter |  
+| bip_39_word_underscore_9 | act_valve_vanish_pledge_oak_fan_address_daughter_devote |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

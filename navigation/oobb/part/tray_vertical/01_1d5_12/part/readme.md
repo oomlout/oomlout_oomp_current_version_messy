@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | auto |  
+| bip_39_word_dash_10 | auto-prosper-visual-rely-kingdom-scene-chat-spare-confirm-they |  
+| bip_39_word_dash_11 | auto-prosper-visual-rely-kingdom-scene-chat-spare-confirm-they-shock |  
+| bip_39_word_dash_12 | auto-prosper-visual-rely-kingdom-scene-chat-spare-confirm-they-shock-antique |  
+| bip_39_word_dash_2 | auto-prosper |  
+| bip_39_word_dash_3 | auto-prosper-visual |  
+| bip_39_word_dash_4 | auto-prosper-visual-rely |  
+| bip_39_word_dash_5 | auto-prosper-visual-rely-kingdom |  
+| bip_39_word_dash_6 | auto-prosper-visual-rely-kingdom-scene |  
+| bip_39_word_dash_7 | auto-prosper-visual-rely-kingdom-scene-chat |  
+| bip_39_word_dash_8 | auto-prosper-visual-rely-kingdom-scene-chat-spare |  
+| bip_39_word_dash_9 | auto-prosper-visual-rely-kingdom-scene-chat-spare-confirm |  
 | bip_39_word_new_br_1 | auto |  
 | bip_39_word_new_br_10 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare<br>confirm<br>they |  
 | bip_39_word_new_br_11 | auto<br>prosper<br>visual<br>rely<br>kingdom<br>scene<br>chat<br>spare<br>confirm<br>they<br>shock |  
@@ -147,6 +159,18 @@ confirm |
 | bip_39_word_space_7 | auto prosper visual rely kingdom scene chat |  
 | bip_39_word_space_8 | auto prosper visual rely kingdom scene chat spare |  
 | bip_39_word_space_9 | auto prosper visual rely kingdom scene chat spare confirm |  
+| bip_39_word_underscore_1 | auto |  
+| bip_39_word_underscore_10 | auto_prosper_visual_rely_kingdom_scene_chat_spare_confirm_they |  
+| bip_39_word_underscore_11 | auto_prosper_visual_rely_kingdom_scene_chat_spare_confirm_they_shock |  
+| bip_39_word_underscore_12 | auto_prosper_visual_rely_kingdom_scene_chat_spare_confirm_they_shock_antique |  
+| bip_39_word_underscore_2 | auto_prosper |  
+| bip_39_word_underscore_3 | auto_prosper_visual |  
+| bip_39_word_underscore_4 | auto_prosper_visual_rely |  
+| bip_39_word_underscore_5 | auto_prosper_visual_rely_kingdom |  
+| bip_39_word_underscore_6 | auto_prosper_visual_rely_kingdom_scene |  
+| bip_39_word_underscore_7 | auto_prosper_visual_rely_kingdom_scene_chat |  
+| bip_39_word_underscore_8 | auto_prosper_visual_rely_kingdom_scene_chat_spare |  
+| bip_39_word_underscore_9 | auto_prosper_visual_rely_kingdom_scene_chat_spare_confirm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

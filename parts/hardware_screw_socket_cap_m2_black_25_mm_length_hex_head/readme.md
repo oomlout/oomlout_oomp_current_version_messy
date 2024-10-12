@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | network |  
+| bip_39_word_dash_10 | network-bronze-sun-ring-speed-bean-supply-cool-recall-prison |  
+| bip_39_word_dash_11 | network-bronze-sun-ring-speed-bean-supply-cool-recall-prison-credit |  
+| bip_39_word_dash_12 | network-bronze-sun-ring-speed-bean-supply-cool-recall-prison-credit-average |  
+| bip_39_word_dash_2 | network-bronze |  
+| bip_39_word_dash_3 | network-bronze-sun |  
+| bip_39_word_dash_4 | network-bronze-sun-ring |  
+| bip_39_word_dash_5 | network-bronze-sun-ring-speed |  
+| bip_39_word_dash_6 | network-bronze-sun-ring-speed-bean |  
+| bip_39_word_dash_7 | network-bronze-sun-ring-speed-bean-supply |  
+| bip_39_word_dash_8 | network-bronze-sun-ring-speed-bean-supply-cool |  
+| bip_39_word_dash_9 | network-bronze-sun-ring-speed-bean-supply-cool-recall |  
 | bip_39_word_new_br_1 | network |  
 | bip_39_word_new_br_10 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison |  
 | bip_39_word_new_br_11 | network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison<br>credit |  
@@ -147,6 +159,18 @@ recall |
 | bip_39_word_space_7 | network bronze sun ring speed bean supply |  
 | bip_39_word_space_8 | network bronze sun ring speed bean supply cool |  
 | bip_39_word_space_9 | network bronze sun ring speed bean supply cool recall |  
+| bip_39_word_underscore_1 | network |  
+| bip_39_word_underscore_10 | network_bronze_sun_ring_speed_bean_supply_cool_recall_prison |  
+| bip_39_word_underscore_11 | network_bronze_sun_ring_speed_bean_supply_cool_recall_prison_credit |  
+| bip_39_word_underscore_12 | network_bronze_sun_ring_speed_bean_supply_cool_recall_prison_credit_average |  
+| bip_39_word_underscore_2 | network_bronze |  
+| bip_39_word_underscore_3 | network_bronze_sun |  
+| bip_39_word_underscore_4 | network_bronze_sun_ring |  
+| bip_39_word_underscore_5 | network_bronze_sun_ring_speed |  
+| bip_39_word_underscore_6 | network_bronze_sun_ring_speed_bean |  
+| bip_39_word_underscore_7 | network_bronze_sun_ring_speed_bean_supply |  
+| bip_39_word_underscore_8 | network_bronze_sun_ring_speed_bean_supply_cool |  
+| bip_39_word_underscore_9 | network_bronze_sun_ring_speed_bean_supply_cool_recall |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

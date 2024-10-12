@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | small |  
+| bip_39_word_dash_10 | small-buyer-useful-dinner-despair-service-skill-roast-kangaroo-boy |  
+| bip_39_word_dash_11 | small-buyer-useful-dinner-despair-service-skill-roast-kangaroo-boy-jazz |  
+| bip_39_word_dash_12 | small-buyer-useful-dinner-despair-service-skill-roast-kangaroo-boy-jazz-age |  
+| bip_39_word_dash_2 | small-buyer |  
+| bip_39_word_dash_3 | small-buyer-useful |  
+| bip_39_word_dash_4 | small-buyer-useful-dinner |  
+| bip_39_word_dash_5 | small-buyer-useful-dinner-despair |  
+| bip_39_word_dash_6 | small-buyer-useful-dinner-despair-service |  
+| bip_39_word_dash_7 | small-buyer-useful-dinner-despair-service-skill |  
+| bip_39_word_dash_8 | small-buyer-useful-dinner-despair-service-skill-roast |  
+| bip_39_word_dash_9 | small-buyer-useful-dinner-despair-service-skill-roast-kangaroo |  
 | bip_39_word_new_br_1 | small |  
 | bip_39_word_new_br_10 | small<br>buyer<br>useful<br>dinner<br>despair<br>service<br>skill<br>roast<br>kangaroo<br>boy |  
 | bip_39_word_new_br_11 | small<br>buyer<br>useful<br>dinner<br>despair<br>service<br>skill<br>roast<br>kangaroo<br>boy<br>jazz |  
@@ -147,6 +159,18 @@ kangaroo |
 | bip_39_word_space_7 | small buyer useful dinner despair service skill |  
 | bip_39_word_space_8 | small buyer useful dinner despair service skill roast |  
 | bip_39_word_space_9 | small buyer useful dinner despair service skill roast kangaroo |  
+| bip_39_word_underscore_1 | small |  
+| bip_39_word_underscore_10 | small_buyer_useful_dinner_despair_service_skill_roast_kangaroo_boy |  
+| bip_39_word_underscore_11 | small_buyer_useful_dinner_despair_service_skill_roast_kangaroo_boy_jazz |  
+| bip_39_word_underscore_12 | small_buyer_useful_dinner_despair_service_skill_roast_kangaroo_boy_jazz_age |  
+| bip_39_word_underscore_2 | small_buyer |  
+| bip_39_word_underscore_3 | small_buyer_useful |  
+| bip_39_word_underscore_4 | small_buyer_useful_dinner |  
+| bip_39_word_underscore_5 | small_buyer_useful_dinner_despair |  
+| bip_39_word_underscore_6 | small_buyer_useful_dinner_despair_service |  
+| bip_39_word_underscore_7 | small_buyer_useful_dinner_despair_service_skill |  
+| bip_39_word_underscore_8 | small_buyer_useful_dinner_despair_service_skill_roast |  
+| bip_39_word_underscore_9 | small_buyer_useful_dinner_despair_service_skill_roast_kangaroo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

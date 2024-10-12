@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ripple |  
+| bip_39_word_dash_10 | ripple-powder-force-narrow-parent-solution-danger-gain-smile-wool |  
+| bip_39_word_dash_11 | ripple-powder-force-narrow-parent-solution-danger-gain-smile-wool-flat |  
+| bip_39_word_dash_12 | ripple-powder-force-narrow-parent-solution-danger-gain-smile-wool-flat-among |  
+| bip_39_word_dash_2 | ripple-powder |  
+| bip_39_word_dash_3 | ripple-powder-force |  
+| bip_39_word_dash_4 | ripple-powder-force-narrow |  
+| bip_39_word_dash_5 | ripple-powder-force-narrow-parent |  
+| bip_39_word_dash_6 | ripple-powder-force-narrow-parent-solution |  
+| bip_39_word_dash_7 | ripple-powder-force-narrow-parent-solution-danger |  
+| bip_39_word_dash_8 | ripple-powder-force-narrow-parent-solution-danger-gain |  
+| bip_39_word_dash_9 | ripple-powder-force-narrow-parent-solution-danger-gain-smile |  
 | bip_39_word_new_br_1 | ripple |  
 | bip_39_word_new_br_10 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain<br>smile<br>wool |  
 | bip_39_word_new_br_11 | ripple<br>powder<br>force<br>narrow<br>parent<br>solution<br>danger<br>gain<br>smile<br>wool<br>flat |  
@@ -147,6 +159,18 @@ smile |
 | bip_39_word_space_7 | ripple powder force narrow parent solution danger |  
 | bip_39_word_space_8 | ripple powder force narrow parent solution danger gain |  
 | bip_39_word_space_9 | ripple powder force narrow parent solution danger gain smile |  
+| bip_39_word_underscore_1 | ripple |  
+| bip_39_word_underscore_10 | ripple_powder_force_narrow_parent_solution_danger_gain_smile_wool |  
+| bip_39_word_underscore_11 | ripple_powder_force_narrow_parent_solution_danger_gain_smile_wool_flat |  
+| bip_39_word_underscore_12 | ripple_powder_force_narrow_parent_solution_danger_gain_smile_wool_flat_among |  
+| bip_39_word_underscore_2 | ripple_powder |  
+| bip_39_word_underscore_3 | ripple_powder_force |  
+| bip_39_word_underscore_4 | ripple_powder_force_narrow |  
+| bip_39_word_underscore_5 | ripple_powder_force_narrow_parent |  
+| bip_39_word_underscore_6 | ripple_powder_force_narrow_parent_solution |  
+| bip_39_word_underscore_7 | ripple_powder_force_narrow_parent_solution_danger |  
+| bip_39_word_underscore_8 | ripple_powder_force_narrow_parent_solution_danger_gain |  
+| bip_39_word_underscore_9 | ripple_powder_force_narrow_parent_solution_danger_gain_smile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

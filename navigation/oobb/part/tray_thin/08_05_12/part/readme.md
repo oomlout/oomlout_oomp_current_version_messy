@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | idea |  
+| bip_39_word_dash_10 | idea-setup-odor-small-damp-oxygen-forward-aware-settle-property |  
+| bip_39_word_dash_11 | idea-setup-odor-small-damp-oxygen-forward-aware-settle-property-deliver |  
+| bip_39_word_dash_12 | idea-setup-odor-small-damp-oxygen-forward-aware-settle-property-deliver-apple |  
+| bip_39_word_dash_2 | idea-setup |  
+| bip_39_word_dash_3 | idea-setup-odor |  
+| bip_39_word_dash_4 | idea-setup-odor-small |  
+| bip_39_word_dash_5 | idea-setup-odor-small-damp |  
+| bip_39_word_dash_6 | idea-setup-odor-small-damp-oxygen |  
+| bip_39_word_dash_7 | idea-setup-odor-small-damp-oxygen-forward |  
+| bip_39_word_dash_8 | idea-setup-odor-small-damp-oxygen-forward-aware |  
+| bip_39_word_dash_9 | idea-setup-odor-small-damp-oxygen-forward-aware-settle |  
 | bip_39_word_new_br_1 | idea |  
 | bip_39_word_new_br_10 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property |  
 | bip_39_word_new_br_11 | idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property<br>deliver |  
@@ -147,6 +159,18 @@ settle |
 | bip_39_word_space_7 | idea setup odor small damp oxygen forward |  
 | bip_39_word_space_8 | idea setup odor small damp oxygen forward aware |  
 | bip_39_word_space_9 | idea setup odor small damp oxygen forward aware settle |  
+| bip_39_word_underscore_1 | idea |  
+| bip_39_word_underscore_10 | idea_setup_odor_small_damp_oxygen_forward_aware_settle_property |  
+| bip_39_word_underscore_11 | idea_setup_odor_small_damp_oxygen_forward_aware_settle_property_deliver |  
+| bip_39_word_underscore_12 | idea_setup_odor_small_damp_oxygen_forward_aware_settle_property_deliver_apple |  
+| bip_39_word_underscore_2 | idea_setup |  
+| bip_39_word_underscore_3 | idea_setup_odor |  
+| bip_39_word_underscore_4 | idea_setup_odor_small |  
+| bip_39_word_underscore_5 | idea_setup_odor_small_damp |  
+| bip_39_word_underscore_6 | idea_setup_odor_small_damp_oxygen |  
+| bip_39_word_underscore_7 | idea_setup_odor_small_damp_oxygen_forward |  
+| bip_39_word_underscore_8 | idea_setup_odor_small_damp_oxygen_forward_aware |  
+| bip_39_word_underscore_9 | idea_setup_odor_small_damp_oxygen_forward_aware_settle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

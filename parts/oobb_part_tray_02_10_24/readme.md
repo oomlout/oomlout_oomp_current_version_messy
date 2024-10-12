@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | night |  
+| bip_39_word_dash_10 | night-motor-fuel-parade-kid-ramp-elder-picnic-slide-hill |  
+| bip_39_word_dash_11 | night-motor-fuel-parade-kid-ramp-elder-picnic-slide-hill-rare |  
+| bip_39_word_dash_12 | night-motor-fuel-parade-kid-ramp-elder-picnic-slide-hill-rare-accident |  
+| bip_39_word_dash_2 | night-motor |  
+| bip_39_word_dash_3 | night-motor-fuel |  
+| bip_39_word_dash_4 | night-motor-fuel-parade |  
+| bip_39_word_dash_5 | night-motor-fuel-parade-kid |  
+| bip_39_word_dash_6 | night-motor-fuel-parade-kid-ramp |  
+| bip_39_word_dash_7 | night-motor-fuel-parade-kid-ramp-elder |  
+| bip_39_word_dash_8 | night-motor-fuel-parade-kid-ramp-elder-picnic |  
+| bip_39_word_dash_9 | night-motor-fuel-parade-kid-ramp-elder-picnic-slide |  
 | bip_39_word_new_br_1 | night |  
 | bip_39_word_new_br_10 | night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic<br>slide<br>hill |  
 | bip_39_word_new_br_11 | night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic<br>slide<br>hill<br>rare |  
@@ -147,6 +159,18 @@ slide |
 | bip_39_word_space_7 | night motor fuel parade kid ramp elder |  
 | bip_39_word_space_8 | night motor fuel parade kid ramp elder picnic |  
 | bip_39_word_space_9 | night motor fuel parade kid ramp elder picnic slide |  
+| bip_39_word_underscore_1 | night |  
+| bip_39_word_underscore_10 | night_motor_fuel_parade_kid_ramp_elder_picnic_slide_hill |  
+| bip_39_word_underscore_11 | night_motor_fuel_parade_kid_ramp_elder_picnic_slide_hill_rare |  
+| bip_39_word_underscore_12 | night_motor_fuel_parade_kid_ramp_elder_picnic_slide_hill_rare_accident |  
+| bip_39_word_underscore_2 | night_motor |  
+| bip_39_word_underscore_3 | night_motor_fuel |  
+| bip_39_word_underscore_4 | night_motor_fuel_parade |  
+| bip_39_word_underscore_5 | night_motor_fuel_parade_kid |  
+| bip_39_word_underscore_6 | night_motor_fuel_parade_kid_ramp |  
+| bip_39_word_underscore_7 | night_motor_fuel_parade_kid_ramp_elder |  
+| bip_39_word_underscore_8 | night_motor_fuel_parade_kid_ramp_elder_picnic |  
+| bip_39_word_underscore_9 | night_motor_fuel_parade_kid_ramp_elder_picnic_slide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

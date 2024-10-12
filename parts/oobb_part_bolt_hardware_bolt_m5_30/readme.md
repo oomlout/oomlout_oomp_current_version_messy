@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glory |  
+| bip_39_word_dash_10 | glory-already-feel-satisfy-double-version-hint-flight-want-burden |  
+| bip_39_word_dash_11 | glory-already-feel-satisfy-double-version-hint-flight-want-burden-offer |  
+| bip_39_word_dash_12 | glory-already-feel-satisfy-double-version-hint-flight-want-burden-offer-arm |  
+| bip_39_word_dash_2 | glory-already |  
+| bip_39_word_dash_3 | glory-already-feel |  
+| bip_39_word_dash_4 | glory-already-feel-satisfy |  
+| bip_39_word_dash_5 | glory-already-feel-satisfy-double |  
+| bip_39_word_dash_6 | glory-already-feel-satisfy-double-version |  
+| bip_39_word_dash_7 | glory-already-feel-satisfy-double-version-hint |  
+| bip_39_word_dash_8 | glory-already-feel-satisfy-double-version-hint-flight |  
+| bip_39_word_dash_9 | glory-already-feel-satisfy-double-version-hint-flight-want |  
 | bip_39_word_new_br_1 | glory |  
 | bip_39_word_new_br_10 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden |  
 | bip_39_word_new_br_11 | glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden<br>offer |  
@@ -147,6 +159,18 @@ want |
 | bip_39_word_space_7 | glory already feel satisfy double version hint |  
 | bip_39_word_space_8 | glory already feel satisfy double version hint flight |  
 | bip_39_word_space_9 | glory already feel satisfy double version hint flight want |  
+| bip_39_word_underscore_1 | glory |  
+| bip_39_word_underscore_10 | glory_already_feel_satisfy_double_version_hint_flight_want_burden |  
+| bip_39_word_underscore_11 | glory_already_feel_satisfy_double_version_hint_flight_want_burden_offer |  
+| bip_39_word_underscore_12 | glory_already_feel_satisfy_double_version_hint_flight_want_burden_offer_arm |  
+| bip_39_word_underscore_2 | glory_already |  
+| bip_39_word_underscore_3 | glory_already_feel |  
+| bip_39_word_underscore_4 | glory_already_feel_satisfy |  
+| bip_39_word_underscore_5 | glory_already_feel_satisfy_double |  
+| bip_39_word_underscore_6 | glory_already_feel_satisfy_double_version |  
+| bip_39_word_underscore_7 | glory_already_feel_satisfy_double_version_hint |  
+| bip_39_word_underscore_8 | glory_already_feel_satisfy_double_version_hint_flight |  
+| bip_39_word_underscore_9 | glory_already_feel_satisfy_double_version_hint_flight_want |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

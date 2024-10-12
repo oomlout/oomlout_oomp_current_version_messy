@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nose
+bip_39_word_dash_10: nose-hard-cousin-vessel-gun-belt-priority-exclude-come-agent
+bip_39_word_dash_11: nose-hard-cousin-vessel-gun-belt-priority-exclude-come-agent-excite
+bip_39_word_dash_12: nose-hard-cousin-vessel-gun-belt-priority-exclude-come-agent-excite-animal
+bip_39_word_dash_2: nose-hard
+bip_39_word_dash_3: nose-hard-cousin
+bip_39_word_dash_4: nose-hard-cousin-vessel
+bip_39_word_dash_5: nose-hard-cousin-vessel-gun
+bip_39_word_dash_6: nose-hard-cousin-vessel-gun-belt
+bip_39_word_dash_7: nose-hard-cousin-vessel-gun-belt-priority
+bip_39_word_dash_8: nose-hard-cousin-vessel-gun-belt-priority-exclude
+bip_39_word_dash_9: nose-hard-cousin-vessel-gun-belt-priority-exclude-come
 bip_39_word_new_br_1: nose
 bip_39_word_new_br_10: nose<br>hard<br>cousin<br>vessel<br>gun<br>belt<br>priority<br>exclude<br>come<br>agent
 bip_39_word_new_br_11: nose<br>hard<br>cousin<br>vessel<br>gun<br>belt<br>priority<br>exclude<br>come<br>agent<br>excite
@@ -193,6 +205,18 @@ bip_39_word_space_6: nose hard cousin vessel gun belt
 bip_39_word_space_7: nose hard cousin vessel gun belt priority
 bip_39_word_space_8: nose hard cousin vessel gun belt priority exclude
 bip_39_word_space_9: nose hard cousin vessel gun belt priority exclude come
+bip_39_word_underscore_1: nose
+bip_39_word_underscore_10: nose_hard_cousin_vessel_gun_belt_priority_exclude_come_agent
+bip_39_word_underscore_11: nose_hard_cousin_vessel_gun_belt_priority_exclude_come_agent_excite
+bip_39_word_underscore_12: nose_hard_cousin_vessel_gun_belt_priority_exclude_come_agent_excite_animal
+bip_39_word_underscore_2: nose_hard
+bip_39_word_underscore_3: nose_hard_cousin
+bip_39_word_underscore_4: nose_hard_cousin_vessel
+bip_39_word_underscore_5: nose_hard_cousin_vessel_gun
+bip_39_word_underscore_6: nose_hard_cousin_vessel_gun_belt
+bip_39_word_underscore_7: nose_hard_cousin_vessel_gun_belt_priority
+bip_39_word_underscore_8: nose_hard_cousin_vessel_gun_belt_priority_exclude
+bip_39_word_underscore_9: nose_hard_cousin_vessel_gun_belt_priority_exclude_come
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

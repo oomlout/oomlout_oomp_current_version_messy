@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toward |  
+| bip_39_word_dash_10 | toward-marine-try-dance-junior-sad-weird-alien-area-wear |  
+| bip_39_word_dash_11 | toward-marine-try-dance-junior-sad-weird-alien-area-wear-shine |  
+| bip_39_word_dash_12 | toward-marine-try-dance-junior-sad-weird-alien-area-wear-shine-admit |  
+| bip_39_word_dash_2 | toward-marine |  
+| bip_39_word_dash_3 | toward-marine-try |  
+| bip_39_word_dash_4 | toward-marine-try-dance |  
+| bip_39_word_dash_5 | toward-marine-try-dance-junior |  
+| bip_39_word_dash_6 | toward-marine-try-dance-junior-sad |  
+| bip_39_word_dash_7 | toward-marine-try-dance-junior-sad-weird |  
+| bip_39_word_dash_8 | toward-marine-try-dance-junior-sad-weird-alien |  
+| bip_39_word_dash_9 | toward-marine-try-dance-junior-sad-weird-alien-area |  
 | bip_39_word_new_br_1 | toward |  
 | bip_39_word_new_br_10 | toward<br>marine<br>try<br>dance<br>junior<br>sad<br>weird<br>alien<br>area<br>wear |  
 | bip_39_word_new_br_11 | toward<br>marine<br>try<br>dance<br>junior<br>sad<br>weird<br>alien<br>area<br>wear<br>shine |  
@@ -147,6 +159,18 @@ area |
 | bip_39_word_space_7 | toward marine try dance junior sad weird |  
 | bip_39_word_space_8 | toward marine try dance junior sad weird alien |  
 | bip_39_word_space_9 | toward marine try dance junior sad weird alien area |  
+| bip_39_word_underscore_1 | toward |  
+| bip_39_word_underscore_10 | toward_marine_try_dance_junior_sad_weird_alien_area_wear |  
+| bip_39_word_underscore_11 | toward_marine_try_dance_junior_sad_weird_alien_area_wear_shine |  
+| bip_39_word_underscore_12 | toward_marine_try_dance_junior_sad_weird_alien_area_wear_shine_admit |  
+| bip_39_word_underscore_2 | toward_marine |  
+| bip_39_word_underscore_3 | toward_marine_try |  
+| bip_39_word_underscore_4 | toward_marine_try_dance |  
+| bip_39_word_underscore_5 | toward_marine_try_dance_junior |  
+| bip_39_word_underscore_6 | toward_marine_try_dance_junior_sad |  
+| bip_39_word_underscore_7 | toward_marine_try_dance_junior_sad_weird |  
+| bip_39_word_underscore_8 | toward_marine_try_dance_junior_sad_weird_alien |  
+| bip_39_word_underscore_9 | toward_marine_try_dance_junior_sad_weird_alien_area |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

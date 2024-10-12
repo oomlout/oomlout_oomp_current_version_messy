@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lyrics |  
+| bip_39_word_dash_10 | lyrics-bench-auction-fee-panic-record-act-risk-please-program |  
+| bip_39_word_dash_11 | lyrics-bench-auction-fee-panic-record-act-risk-please-program-sting |  
+| bip_39_word_dash_12 | lyrics-bench-auction-fee-panic-record-act-risk-please-program-sting-again |  
+| bip_39_word_dash_2 | lyrics-bench |  
+| bip_39_word_dash_3 | lyrics-bench-auction |  
+| bip_39_word_dash_4 | lyrics-bench-auction-fee |  
+| bip_39_word_dash_5 | lyrics-bench-auction-fee-panic |  
+| bip_39_word_dash_6 | lyrics-bench-auction-fee-panic-record |  
+| bip_39_word_dash_7 | lyrics-bench-auction-fee-panic-record-act |  
+| bip_39_word_dash_8 | lyrics-bench-auction-fee-panic-record-act-risk |  
+| bip_39_word_dash_9 | lyrics-bench-auction-fee-panic-record-act-risk-please |  
 | bip_39_word_new_br_1 | lyrics |  
 | bip_39_word_new_br_10 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk<br>please<br>program |  
 | bip_39_word_new_br_11 | lyrics<br>bench<br>auction<br>fee<br>panic<br>record<br>act<br>risk<br>please<br>program<br>sting |  
@@ -147,6 +159,18 @@ please |
 | bip_39_word_space_7 | lyrics bench auction fee panic record act |  
 | bip_39_word_space_8 | lyrics bench auction fee panic record act risk |  
 | bip_39_word_space_9 | lyrics bench auction fee panic record act risk please |  
+| bip_39_word_underscore_1 | lyrics |  
+| bip_39_word_underscore_10 | lyrics_bench_auction_fee_panic_record_act_risk_please_program |  
+| bip_39_word_underscore_11 | lyrics_bench_auction_fee_panic_record_act_risk_please_program_sting |  
+| bip_39_word_underscore_12 | lyrics_bench_auction_fee_panic_record_act_risk_please_program_sting_again |  
+| bip_39_word_underscore_2 | lyrics_bench |  
+| bip_39_word_underscore_3 | lyrics_bench_auction |  
+| bip_39_word_underscore_4 | lyrics_bench_auction_fee |  
+| bip_39_word_underscore_5 | lyrics_bench_auction_fee_panic |  
+| bip_39_word_underscore_6 | lyrics_bench_auction_fee_panic_record |  
+| bip_39_word_underscore_7 | lyrics_bench_auction_fee_panic_record_act |  
+| bip_39_word_underscore_8 | lyrics_bench_auction_fee_panic_record_act_risk |  
+| bip_39_word_underscore_9 | lyrics_bench_auction_fee_panic_record_act_risk_please |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

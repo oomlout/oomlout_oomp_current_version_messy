@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | double |  
+| bip_39_word_dash_10 | double-baby-brand-frost-phone-surge-toilet-useless-cigar-remind |  
+| bip_39_word_dash_11 | double-baby-brand-frost-phone-surge-toilet-useless-cigar-remind-armor |  
+| bip_39_word_dash_12 | double-baby-brand-frost-phone-surge-toilet-useless-cigar-remind-armor-auction |  
+| bip_39_word_dash_2 | double-baby |  
+| bip_39_word_dash_3 | double-baby-brand |  
+| bip_39_word_dash_4 | double-baby-brand-frost |  
+| bip_39_word_dash_5 | double-baby-brand-frost-phone |  
+| bip_39_word_dash_6 | double-baby-brand-frost-phone-surge |  
+| bip_39_word_dash_7 | double-baby-brand-frost-phone-surge-toilet |  
+| bip_39_word_dash_8 | double-baby-brand-frost-phone-surge-toilet-useless |  
+| bip_39_word_dash_9 | double-baby-brand-frost-phone-surge-toilet-useless-cigar |  
 | bip_39_word_new_br_1 | double |  
 | bip_39_word_new_br_10 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind |  
 | bip_39_word_new_br_11 | double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind<br>armor |  
@@ -147,6 +159,18 @@ cigar |
 | bip_39_word_space_7 | double baby brand frost phone surge toilet |  
 | bip_39_word_space_8 | double baby brand frost phone surge toilet useless |  
 | bip_39_word_space_9 | double baby brand frost phone surge toilet useless cigar |  
+| bip_39_word_underscore_1 | double |  
+| bip_39_word_underscore_10 | double_baby_brand_frost_phone_surge_toilet_useless_cigar_remind |  
+| bip_39_word_underscore_11 | double_baby_brand_frost_phone_surge_toilet_useless_cigar_remind_armor |  
+| bip_39_word_underscore_12 | double_baby_brand_frost_phone_surge_toilet_useless_cigar_remind_armor_auction |  
+| bip_39_word_underscore_2 | double_baby |  
+| bip_39_word_underscore_3 | double_baby_brand |  
+| bip_39_word_underscore_4 | double_baby_brand_frost |  
+| bip_39_word_underscore_5 | double_baby_brand_frost_phone |  
+| bip_39_word_underscore_6 | double_baby_brand_frost_phone_surge |  
+| bip_39_word_underscore_7 | double_baby_brand_frost_phone_surge_toilet |  
+| bip_39_word_underscore_8 | double_baby_brand_frost_phone_surge_toilet_useless |  
+| bip_39_word_underscore_9 | double_baby_brand_frost_phone_surge_toilet_useless_cigar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

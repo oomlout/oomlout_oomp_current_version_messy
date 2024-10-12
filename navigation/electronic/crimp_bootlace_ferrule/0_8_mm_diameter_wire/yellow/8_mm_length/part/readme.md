@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tank |  
+| bip_39_word_dash_10 | tank-vicious-invite-umbrella-general-engage-extend-ready-entire-melt |  
+| bip_39_word_dash_11 | tank-vicious-invite-umbrella-general-engage-extend-ready-entire-melt-ugly |  
+| bip_39_word_dash_12 | tank-vicious-invite-umbrella-general-engage-extend-ready-entire-melt-ugly-attract |  
+| bip_39_word_dash_2 | tank-vicious |  
+| bip_39_word_dash_3 | tank-vicious-invite |  
+| bip_39_word_dash_4 | tank-vicious-invite-umbrella |  
+| bip_39_word_dash_5 | tank-vicious-invite-umbrella-general |  
+| bip_39_word_dash_6 | tank-vicious-invite-umbrella-general-engage |  
+| bip_39_word_dash_7 | tank-vicious-invite-umbrella-general-engage-extend |  
+| bip_39_word_dash_8 | tank-vicious-invite-umbrella-general-engage-extend-ready |  
+| bip_39_word_dash_9 | tank-vicious-invite-umbrella-general-engage-extend-ready-entire |  
 | bip_39_word_new_br_1 | tank |  
 | bip_39_word_new_br_10 | tank<br>vicious<br>invite<br>umbrella<br>general<br>engage<br>extend<br>ready<br>entire<br>melt |  
 | bip_39_word_new_br_11 | tank<br>vicious<br>invite<br>umbrella<br>general<br>engage<br>extend<br>ready<br>entire<br>melt<br>ugly |  
@@ -147,6 +159,18 @@ entire |
 | bip_39_word_space_7 | tank vicious invite umbrella general engage extend |  
 | bip_39_word_space_8 | tank vicious invite umbrella general engage extend ready |  
 | bip_39_word_space_9 | tank vicious invite umbrella general engage extend ready entire |  
+| bip_39_word_underscore_1 | tank |  
+| bip_39_word_underscore_10 | tank_vicious_invite_umbrella_general_engage_extend_ready_entire_melt |  
+| bip_39_word_underscore_11 | tank_vicious_invite_umbrella_general_engage_extend_ready_entire_melt_ugly |  
+| bip_39_word_underscore_12 | tank_vicious_invite_umbrella_general_engage_extend_ready_entire_melt_ugly_attract |  
+| bip_39_word_underscore_2 | tank_vicious |  
+| bip_39_word_underscore_3 | tank_vicious_invite |  
+| bip_39_word_underscore_4 | tank_vicious_invite_umbrella |  
+| bip_39_word_underscore_5 | tank_vicious_invite_umbrella_general |  
+| bip_39_word_underscore_6 | tank_vicious_invite_umbrella_general_engage |  
+| bip_39_word_underscore_7 | tank_vicious_invite_umbrella_general_engage_extend |  
+| bip_39_word_underscore_8 | tank_vicious_invite_umbrella_general_engage_extend_ready |  
+| bip_39_word_underscore_9 | tank_vicious_invite_umbrella_general_engage_extend_ready_entire |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

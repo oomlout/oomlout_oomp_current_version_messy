@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bicycle |  
+| bip_39_word_dash_10 | bicycle-lyrics-normal-embrace-hunt-dragon-image-history-alley-catch |  
+| bip_39_word_dash_11 | bicycle-lyrics-normal-embrace-hunt-dragon-image-history-alley-catch-disorder |  
+| bip_39_word_dash_12 | bicycle-lyrics-normal-embrace-hunt-dragon-image-history-alley-catch-disorder-actual |  
+| bip_39_word_dash_2 | bicycle-lyrics |  
+| bip_39_word_dash_3 | bicycle-lyrics-normal |  
+| bip_39_word_dash_4 | bicycle-lyrics-normal-embrace |  
+| bip_39_word_dash_5 | bicycle-lyrics-normal-embrace-hunt |  
+| bip_39_word_dash_6 | bicycle-lyrics-normal-embrace-hunt-dragon |  
+| bip_39_word_dash_7 | bicycle-lyrics-normal-embrace-hunt-dragon-image |  
+| bip_39_word_dash_8 | bicycle-lyrics-normal-embrace-hunt-dragon-image-history |  
+| bip_39_word_dash_9 | bicycle-lyrics-normal-embrace-hunt-dragon-image-history-alley |  
 | bip_39_word_new_br_1 | bicycle |  
 | bip_39_word_new_br_10 | bicycle<br>lyrics<br>normal<br>embrace<br>hunt<br>dragon<br>image<br>history<br>alley<br>catch |  
 | bip_39_word_new_br_11 | bicycle<br>lyrics<br>normal<br>embrace<br>hunt<br>dragon<br>image<br>history<br>alley<br>catch<br>disorder |  
@@ -147,6 +159,18 @@ alley |
 | bip_39_word_space_7 | bicycle lyrics normal embrace hunt dragon image |  
 | bip_39_word_space_8 | bicycle lyrics normal embrace hunt dragon image history |  
 | bip_39_word_space_9 | bicycle lyrics normal embrace hunt dragon image history alley |  
+| bip_39_word_underscore_1 | bicycle |  
+| bip_39_word_underscore_10 | bicycle_lyrics_normal_embrace_hunt_dragon_image_history_alley_catch |  
+| bip_39_word_underscore_11 | bicycle_lyrics_normal_embrace_hunt_dragon_image_history_alley_catch_disorder |  
+| bip_39_word_underscore_12 | bicycle_lyrics_normal_embrace_hunt_dragon_image_history_alley_catch_disorder_actual |  
+| bip_39_word_underscore_2 | bicycle_lyrics |  
+| bip_39_word_underscore_3 | bicycle_lyrics_normal |  
+| bip_39_word_underscore_4 | bicycle_lyrics_normal_embrace |  
+| bip_39_word_underscore_5 | bicycle_lyrics_normal_embrace_hunt |  
+| bip_39_word_underscore_6 | bicycle_lyrics_normal_embrace_hunt_dragon |  
+| bip_39_word_underscore_7 | bicycle_lyrics_normal_embrace_hunt_dragon_image |  
+| bip_39_word_underscore_8 | bicycle_lyrics_normal_embrace_hunt_dragon_image_history |  
+| bip_39_word_underscore_9 | bicycle_lyrics_normal_embrace_hunt_dragon_image_history_alley |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

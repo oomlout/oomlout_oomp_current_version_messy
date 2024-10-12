@@ -1,3 +1,15 @@
+bip_39_word_dash_1: census
+bip_39_word_dash_10: census-question-enough-lizard-number-barely-indicate-speak-chaos-ribbon
+bip_39_word_dash_11: census-question-enough-lizard-number-barely-indicate-speak-chaos-ribbon-odor
+bip_39_word_dash_12: census-question-enough-lizard-number-barely-indicate-speak-chaos-ribbon-odor-approve
+bip_39_word_dash_2: census-question
+bip_39_word_dash_3: census-question-enough
+bip_39_word_dash_4: census-question-enough-lizard
+bip_39_word_dash_5: census-question-enough-lizard-number
+bip_39_word_dash_6: census-question-enough-lizard-number-barely
+bip_39_word_dash_7: census-question-enough-lizard-number-barely-indicate
+bip_39_word_dash_8: census-question-enough-lizard-number-barely-indicate-speak
+bip_39_word_dash_9: census-question-enough-lizard-number-barely-indicate-speak-chaos
 bip_39_word_new_br_1: census
 bip_39_word_new_br_10: census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak<br>chaos<br>ribbon
 bip_39_word_new_br_11: census<br>question<br>enough<br>lizard<br>number<br>barely<br>indicate<br>speak<br>chaos<br>ribbon<br>odor
@@ -194,6 +206,18 @@ bip_39_word_space_6: census question enough lizard number barely
 bip_39_word_space_7: census question enough lizard number barely indicate
 bip_39_word_space_8: census question enough lizard number barely indicate speak
 bip_39_word_space_9: census question enough lizard number barely indicate speak chaos
+bip_39_word_underscore_1: census
+bip_39_word_underscore_10: census_question_enough_lizard_number_barely_indicate_speak_chaos_ribbon
+bip_39_word_underscore_11: census_question_enough_lizard_number_barely_indicate_speak_chaos_ribbon_odor
+bip_39_word_underscore_12: census_question_enough_lizard_number_barely_indicate_speak_chaos_ribbon_odor_approve
+bip_39_word_underscore_2: census_question
+bip_39_word_underscore_3: census_question_enough
+bip_39_word_underscore_4: census_question_enough_lizard
+bip_39_word_underscore_5: census_question_enough_lizard_number
+bip_39_word_underscore_6: census_question_enough_lizard_number_barely
+bip_39_word_underscore_7: census_question_enough_lizard_number_barely_indicate
+bip_39_word_underscore_8: census_question_enough_lizard_number_barely_indicate_speak
+bip_39_word_underscore_9: census_question_enough_lizard_number_barely_indicate_speak_chaos
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

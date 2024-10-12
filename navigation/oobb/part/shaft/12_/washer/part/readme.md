@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | meat |  
+| bip_39_word_dash_10 | meat-plate-soon-dice-much-kid-winter-slight-cruise-spread |  
+| bip_39_word_dash_11 | meat-plate-soon-dice-much-kid-winter-slight-cruise-spread-bacon |  
+| bip_39_word_dash_12 | meat-plate-soon-dice-much-kid-winter-slight-cruise-spread-bacon-ask |  
+| bip_39_word_dash_2 | meat-plate |  
+| bip_39_word_dash_3 | meat-plate-soon |  
+| bip_39_word_dash_4 | meat-plate-soon-dice |  
+| bip_39_word_dash_5 | meat-plate-soon-dice-much |  
+| bip_39_word_dash_6 | meat-plate-soon-dice-much-kid |  
+| bip_39_word_dash_7 | meat-plate-soon-dice-much-kid-winter |  
+| bip_39_word_dash_8 | meat-plate-soon-dice-much-kid-winter-slight |  
+| bip_39_word_dash_9 | meat-plate-soon-dice-much-kid-winter-slight-cruise |  
 | bip_39_word_new_br_1 | meat |  
 | bip_39_word_new_br_10 | meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread |  
 | bip_39_word_new_br_11 | meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread<br>bacon |  
@@ -147,6 +159,18 @@ cruise |
 | bip_39_word_space_7 | meat plate soon dice much kid winter |  
 | bip_39_word_space_8 | meat plate soon dice much kid winter slight |  
 | bip_39_word_space_9 | meat plate soon dice much kid winter slight cruise |  
+| bip_39_word_underscore_1 | meat |  
+| bip_39_word_underscore_10 | meat_plate_soon_dice_much_kid_winter_slight_cruise_spread |  
+| bip_39_word_underscore_11 | meat_plate_soon_dice_much_kid_winter_slight_cruise_spread_bacon |  
+| bip_39_word_underscore_12 | meat_plate_soon_dice_much_kid_winter_slight_cruise_spread_bacon_ask |  
+| bip_39_word_underscore_2 | meat_plate |  
+| bip_39_word_underscore_3 | meat_plate_soon |  
+| bip_39_word_underscore_4 | meat_plate_soon_dice |  
+| bip_39_word_underscore_5 | meat_plate_soon_dice_much |  
+| bip_39_word_underscore_6 | meat_plate_soon_dice_much_kid |  
+| bip_39_word_underscore_7 | meat_plate_soon_dice_much_kid_winter |  
+| bip_39_word_underscore_8 | meat_plate_soon_dice_much_kid_winter_slight |  
+| bip_39_word_underscore_9 | meat_plate_soon_dice_much_kid_winter_slight_cruise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

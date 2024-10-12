@@ -1,3 +1,15 @@
+bip_39_word_dash_1: era
+bip_39_word_dash_10: era-bird-neglect-kick-mask-news-metal-canoe-little-couch
+bip_39_word_dash_11: era-bird-neglect-kick-mask-news-metal-canoe-little-couch-decorate
+bip_39_word_dash_12: era-bird-neglect-kick-mask-news-metal-canoe-little-couch-decorate-above
+bip_39_word_dash_2: era-bird
+bip_39_word_dash_3: era-bird-neglect
+bip_39_word_dash_4: era-bird-neglect-kick
+bip_39_word_dash_5: era-bird-neglect-kick-mask
+bip_39_word_dash_6: era-bird-neglect-kick-mask-news
+bip_39_word_dash_7: era-bird-neglect-kick-mask-news-metal
+bip_39_word_dash_8: era-bird-neglect-kick-mask-news-metal-canoe
+bip_39_word_dash_9: era-bird-neglect-kick-mask-news-metal-canoe-little
 bip_39_word_new_br_1: era
 bip_39_word_new_br_10: era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch
 bip_39_word_new_br_11: era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch<br>decorate
@@ -192,6 +204,18 @@ bip_39_word_space_6: era bird neglect kick mask news
 bip_39_word_space_7: era bird neglect kick mask news metal
 bip_39_word_space_8: era bird neglect kick mask news metal canoe
 bip_39_word_space_9: era bird neglect kick mask news metal canoe little
+bip_39_word_underscore_1: era
+bip_39_word_underscore_10: era_bird_neglect_kick_mask_news_metal_canoe_little_couch
+bip_39_word_underscore_11: era_bird_neglect_kick_mask_news_metal_canoe_little_couch_decorate
+bip_39_word_underscore_12: era_bird_neglect_kick_mask_news_metal_canoe_little_couch_decorate_above
+bip_39_word_underscore_2: era_bird
+bip_39_word_underscore_3: era_bird_neglect
+bip_39_word_underscore_4: era_bird_neglect_kick
+bip_39_word_underscore_5: era_bird_neglect_kick_mask
+bip_39_word_underscore_6: era_bird_neglect_kick_mask_news
+bip_39_word_underscore_7: era_bird_neglect_kick_mask_news_metal
+bip_39_word_underscore_8: era_bird_neglect_kick_mask_news_metal_canoe
+bip_39_word_underscore_9: era_bird_neglect_kick_mask_news_metal_canoe_little
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

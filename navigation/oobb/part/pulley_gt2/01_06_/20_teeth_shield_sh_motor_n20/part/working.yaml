@@ -1,3 +1,15 @@
+bip_39_word_dash_1: decide
+bip_39_word_dash_10: decide-cargo-rival-stumble-play-profit-panda-brush-ring-submit
+bip_39_word_dash_11: decide-cargo-rival-stumble-play-profit-panda-brush-ring-submit-aerobic
+bip_39_word_dash_12: decide-cargo-rival-stumble-play-profit-panda-brush-ring-submit-aerobic-agent
+bip_39_word_dash_2: decide-cargo
+bip_39_word_dash_3: decide-cargo-rival
+bip_39_word_dash_4: decide-cargo-rival-stumble
+bip_39_word_dash_5: decide-cargo-rival-stumble-play
+bip_39_word_dash_6: decide-cargo-rival-stumble-play-profit
+bip_39_word_dash_7: decide-cargo-rival-stumble-play-profit-panda
+bip_39_word_dash_8: decide-cargo-rival-stumble-play-profit-panda-brush
+bip_39_word_dash_9: decide-cargo-rival-stumble-play-profit-panda-brush-ring
 bip_39_word_new_br_1: decide
 bip_39_word_new_br_10: decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit
 bip_39_word_new_br_11: decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit<br>aerobic
@@ -193,6 +205,18 @@ bip_39_word_space_6: decide cargo rival stumble play profit
 bip_39_word_space_7: decide cargo rival stumble play profit panda
 bip_39_word_space_8: decide cargo rival stumble play profit panda brush
 bip_39_word_space_9: decide cargo rival stumble play profit panda brush ring
+bip_39_word_underscore_1: decide
+bip_39_word_underscore_10: decide_cargo_rival_stumble_play_profit_panda_brush_ring_submit
+bip_39_word_underscore_11: decide_cargo_rival_stumble_play_profit_panda_brush_ring_submit_aerobic
+bip_39_word_underscore_12: decide_cargo_rival_stumble_play_profit_panda_brush_ring_submit_aerobic_agent
+bip_39_word_underscore_2: decide_cargo
+bip_39_word_underscore_3: decide_cargo_rival
+bip_39_word_underscore_4: decide_cargo_rival_stumble
+bip_39_word_underscore_5: decide_cargo_rival_stumble_play
+bip_39_word_underscore_6: decide_cargo_rival_stumble_play_profit
+bip_39_word_underscore_7: decide_cargo_rival_stumble_play_profit_panda
+bip_39_word_underscore_8: decide_cargo_rival_stumble_play_profit_panda_brush
+bip_39_word_underscore_9: decide_cargo_rival_stumble_play_profit_panda_brush_ring
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

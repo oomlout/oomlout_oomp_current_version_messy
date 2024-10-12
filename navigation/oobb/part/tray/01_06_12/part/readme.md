@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | balcony |  
+| bip_39_word_dash_10 | balcony-ignore-ski-mule-solution-still-goose-celery-quit-hurdle |  
+| bip_39_word_dash_11 | balcony-ignore-ski-mule-solution-still-goose-celery-quit-hurdle-spoil |  
+| bip_39_word_dash_12 | balcony-ignore-ski-mule-solution-still-goose-celery-quit-hurdle-spoil-airport |  
+| bip_39_word_dash_2 | balcony-ignore |  
+| bip_39_word_dash_3 | balcony-ignore-ski |  
+| bip_39_word_dash_4 | balcony-ignore-ski-mule |  
+| bip_39_word_dash_5 | balcony-ignore-ski-mule-solution |  
+| bip_39_word_dash_6 | balcony-ignore-ski-mule-solution-still |  
+| bip_39_word_dash_7 | balcony-ignore-ski-mule-solution-still-goose |  
+| bip_39_word_dash_8 | balcony-ignore-ski-mule-solution-still-goose-celery |  
+| bip_39_word_dash_9 | balcony-ignore-ski-mule-solution-still-goose-celery-quit |  
 | bip_39_word_new_br_1 | balcony |  
 | bip_39_word_new_br_10 | balcony<br>ignore<br>ski<br>mule<br>solution<br>still<br>goose<br>celery<br>quit<br>hurdle |  
 | bip_39_word_new_br_11 | balcony<br>ignore<br>ski<br>mule<br>solution<br>still<br>goose<br>celery<br>quit<br>hurdle<br>spoil |  
@@ -147,6 +159,18 @@ quit |
 | bip_39_word_space_7 | balcony ignore ski mule solution still goose |  
 | bip_39_word_space_8 | balcony ignore ski mule solution still goose celery |  
 | bip_39_word_space_9 | balcony ignore ski mule solution still goose celery quit |  
+| bip_39_word_underscore_1 | balcony |  
+| bip_39_word_underscore_10 | balcony_ignore_ski_mule_solution_still_goose_celery_quit_hurdle |  
+| bip_39_word_underscore_11 | balcony_ignore_ski_mule_solution_still_goose_celery_quit_hurdle_spoil |  
+| bip_39_word_underscore_12 | balcony_ignore_ski_mule_solution_still_goose_celery_quit_hurdle_spoil_airport |  
+| bip_39_word_underscore_2 | balcony_ignore |  
+| bip_39_word_underscore_3 | balcony_ignore_ski |  
+| bip_39_word_underscore_4 | balcony_ignore_ski_mule |  
+| bip_39_word_underscore_5 | balcony_ignore_ski_mule_solution |  
+| bip_39_word_underscore_6 | balcony_ignore_ski_mule_solution_still |  
+| bip_39_word_underscore_7 | balcony_ignore_ski_mule_solution_still_goose |  
+| bip_39_word_underscore_8 | balcony_ignore_ski_mule_solution_still_goose_celery |  
+| bip_39_word_underscore_9 | balcony_ignore_ski_mule_solution_still_goose_celery_quit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

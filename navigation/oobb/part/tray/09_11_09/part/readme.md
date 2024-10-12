@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stand |  
+| bip_39_word_dash_10 | stand-bargain-weather-enroll-wash-engage-inject-fantasy-mom-inspire |  
+| bip_39_word_dash_11 | stand-bargain-weather-enroll-wash-engage-inject-fantasy-mom-inspire-sell |  
+| bip_39_word_dash_12 | stand-bargain-weather-enroll-wash-engage-inject-fantasy-mom-inspire-sell-amateur |  
+| bip_39_word_dash_2 | stand-bargain |  
+| bip_39_word_dash_3 | stand-bargain-weather |  
+| bip_39_word_dash_4 | stand-bargain-weather-enroll |  
+| bip_39_word_dash_5 | stand-bargain-weather-enroll-wash |  
+| bip_39_word_dash_6 | stand-bargain-weather-enroll-wash-engage |  
+| bip_39_word_dash_7 | stand-bargain-weather-enroll-wash-engage-inject |  
+| bip_39_word_dash_8 | stand-bargain-weather-enroll-wash-engage-inject-fantasy |  
+| bip_39_word_dash_9 | stand-bargain-weather-enroll-wash-engage-inject-fantasy-mom |  
 | bip_39_word_new_br_1 | stand |  
 | bip_39_word_new_br_10 | stand<br>bargain<br>weather<br>enroll<br>wash<br>engage<br>inject<br>fantasy<br>mom<br>inspire |  
 | bip_39_word_new_br_11 | stand<br>bargain<br>weather<br>enroll<br>wash<br>engage<br>inject<br>fantasy<br>mom<br>inspire<br>sell |  
@@ -147,6 +159,18 @@ mom |
 | bip_39_word_space_7 | stand bargain weather enroll wash engage inject |  
 | bip_39_word_space_8 | stand bargain weather enroll wash engage inject fantasy |  
 | bip_39_word_space_9 | stand bargain weather enroll wash engage inject fantasy mom |  
+| bip_39_word_underscore_1 | stand |  
+| bip_39_word_underscore_10 | stand_bargain_weather_enroll_wash_engage_inject_fantasy_mom_inspire |  
+| bip_39_word_underscore_11 | stand_bargain_weather_enroll_wash_engage_inject_fantasy_mom_inspire_sell |  
+| bip_39_word_underscore_12 | stand_bargain_weather_enroll_wash_engage_inject_fantasy_mom_inspire_sell_amateur |  
+| bip_39_word_underscore_2 | stand_bargain |  
+| bip_39_word_underscore_3 | stand_bargain_weather |  
+| bip_39_word_underscore_4 | stand_bargain_weather_enroll |  
+| bip_39_word_underscore_5 | stand_bargain_weather_enroll_wash |  
+| bip_39_word_underscore_6 | stand_bargain_weather_enroll_wash_engage |  
+| bip_39_word_underscore_7 | stand_bargain_weather_enroll_wash_engage_inject |  
+| bip_39_word_underscore_8 | stand_bargain_weather_enroll_wash_engage_inject_fantasy |  
+| bip_39_word_underscore_9 | stand_bargain_weather_enroll_wash_engage_inject_fantasy_mom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | logic |  
+| bip_39_word_dash_10 | logic-innocent-dance-diagram-gentle-depth-balcony-pretty-elbow-apple |  
+| bip_39_word_dash_11 | logic-innocent-dance-diagram-gentle-depth-balcony-pretty-elbow-apple-tumble |  
+| bip_39_word_dash_12 | logic-innocent-dance-diagram-gentle-depth-balcony-pretty-elbow-apple-tumble-attract |  
+| bip_39_word_dash_2 | logic-innocent |  
+| bip_39_word_dash_3 | logic-innocent-dance |  
+| bip_39_word_dash_4 | logic-innocent-dance-diagram |  
+| bip_39_word_dash_5 | logic-innocent-dance-diagram-gentle |  
+| bip_39_word_dash_6 | logic-innocent-dance-diagram-gentle-depth |  
+| bip_39_word_dash_7 | logic-innocent-dance-diagram-gentle-depth-balcony |  
+| bip_39_word_dash_8 | logic-innocent-dance-diagram-gentle-depth-balcony-pretty |  
+| bip_39_word_dash_9 | logic-innocent-dance-diagram-gentle-depth-balcony-pretty-elbow |  
 | bip_39_word_new_br_1 | logic |  
 | bip_39_word_new_br_10 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple |  
 | bip_39_word_new_br_11 | logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple<br>tumble |  
@@ -147,6 +159,18 @@ elbow |
 | bip_39_word_space_7 | logic innocent dance diagram gentle depth balcony |  
 | bip_39_word_space_8 | logic innocent dance diagram gentle depth balcony pretty |  
 | bip_39_word_space_9 | logic innocent dance diagram gentle depth balcony pretty elbow |  
+| bip_39_word_underscore_1 | logic |  
+| bip_39_word_underscore_10 | logic_innocent_dance_diagram_gentle_depth_balcony_pretty_elbow_apple |  
+| bip_39_word_underscore_11 | logic_innocent_dance_diagram_gentle_depth_balcony_pretty_elbow_apple_tumble |  
+| bip_39_word_underscore_12 | logic_innocent_dance_diagram_gentle_depth_balcony_pretty_elbow_apple_tumble_attract |  
+| bip_39_word_underscore_2 | logic_innocent |  
+| bip_39_word_underscore_3 | logic_innocent_dance |  
+| bip_39_word_underscore_4 | logic_innocent_dance_diagram |  
+| bip_39_word_underscore_5 | logic_innocent_dance_diagram_gentle |  
+| bip_39_word_underscore_6 | logic_innocent_dance_diagram_gentle_depth |  
+| bip_39_word_underscore_7 | logic_innocent_dance_diagram_gentle_depth_balcony |  
+| bip_39_word_underscore_8 | logic_innocent_dance_diagram_gentle_depth_balcony_pretty |  
+| bip_39_word_underscore_9 | logic_innocent_dance_diagram_gentle_depth_balcony_pretty_elbow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bitter |  
+| bip_39_word_dash_10 | bitter-token-robust-trend-embark-sound-paddle-music-arrest-stomach |  
+| bip_39_word_dash_11 | bitter-token-robust-trend-embark-sound-paddle-music-arrest-stomach-fat |  
+| bip_39_word_dash_12 | bitter-token-robust-trend-embark-sound-paddle-music-arrest-stomach-fat-act |  
+| bip_39_word_dash_2 | bitter-token |  
+| bip_39_word_dash_3 | bitter-token-robust |  
+| bip_39_word_dash_4 | bitter-token-robust-trend |  
+| bip_39_word_dash_5 | bitter-token-robust-trend-embark |  
+| bip_39_word_dash_6 | bitter-token-robust-trend-embark-sound |  
+| bip_39_word_dash_7 | bitter-token-robust-trend-embark-sound-paddle |  
+| bip_39_word_dash_8 | bitter-token-robust-trend-embark-sound-paddle-music |  
+| bip_39_word_dash_9 | bitter-token-robust-trend-embark-sound-paddle-music-arrest |  
 | bip_39_word_new_br_1 | bitter |  
 | bip_39_word_new_br_10 | bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music<br>arrest<br>stomach |  
 | bip_39_word_new_br_11 | bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music<br>arrest<br>stomach<br>fat |  
@@ -147,6 +159,18 @@ arrest |
 | bip_39_word_space_7 | bitter token robust trend embark sound paddle |  
 | bip_39_word_space_8 | bitter token robust trend embark sound paddle music |  
 | bip_39_word_space_9 | bitter token robust trend embark sound paddle music arrest |  
+| bip_39_word_underscore_1 | bitter |  
+| bip_39_word_underscore_10 | bitter_token_robust_trend_embark_sound_paddle_music_arrest_stomach |  
+| bip_39_word_underscore_11 | bitter_token_robust_trend_embark_sound_paddle_music_arrest_stomach_fat |  
+| bip_39_word_underscore_12 | bitter_token_robust_trend_embark_sound_paddle_music_arrest_stomach_fat_act |  
+| bip_39_word_underscore_2 | bitter_token |  
+| bip_39_word_underscore_3 | bitter_token_robust |  
+| bip_39_word_underscore_4 | bitter_token_robust_trend |  
+| bip_39_word_underscore_5 | bitter_token_robust_trend_embark |  
+| bip_39_word_underscore_6 | bitter_token_robust_trend_embark_sound |  
+| bip_39_word_underscore_7 | bitter_token_robust_trend_embark_sound_paddle |  
+| bip_39_word_underscore_8 | bitter_token_robust_trend_embark_sound_paddle_music |  
+| bip_39_word_underscore_9 | bitter_token_robust_trend_embark_sound_paddle_music_arrest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

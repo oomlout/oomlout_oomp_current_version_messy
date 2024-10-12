@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shove |  
+| bip_39_word_dash_10 | shove-crystal-bulb-author-intact-insect-shoot-crazy-robot-wool |  
+| bip_39_word_dash_11 | shove-crystal-bulb-author-intact-insect-shoot-crazy-robot-wool-minute |  
+| bip_39_word_dash_12 | shove-crystal-bulb-author-intact-insect-shoot-crazy-robot-wool-minute-allow |  
+| bip_39_word_dash_2 | shove-crystal |  
+| bip_39_word_dash_3 | shove-crystal-bulb |  
+| bip_39_word_dash_4 | shove-crystal-bulb-author |  
+| bip_39_word_dash_5 | shove-crystal-bulb-author-intact |  
+| bip_39_word_dash_6 | shove-crystal-bulb-author-intact-insect |  
+| bip_39_word_dash_7 | shove-crystal-bulb-author-intact-insect-shoot |  
+| bip_39_word_dash_8 | shove-crystal-bulb-author-intact-insect-shoot-crazy |  
+| bip_39_word_dash_9 | shove-crystal-bulb-author-intact-insect-shoot-crazy-robot |  
 | bip_39_word_new_br_1 | shove |  
 | bip_39_word_new_br_10 | shove<br>crystal<br>bulb<br>author<br>intact<br>insect<br>shoot<br>crazy<br>robot<br>wool |  
 | bip_39_word_new_br_11 | shove<br>crystal<br>bulb<br>author<br>intact<br>insect<br>shoot<br>crazy<br>robot<br>wool<br>minute |  
@@ -147,6 +159,18 @@ robot |
 | bip_39_word_space_7 | shove crystal bulb author intact insect shoot |  
 | bip_39_word_space_8 | shove crystal bulb author intact insect shoot crazy |  
 | bip_39_word_space_9 | shove crystal bulb author intact insect shoot crazy robot |  
+| bip_39_word_underscore_1 | shove |  
+| bip_39_word_underscore_10 | shove_crystal_bulb_author_intact_insect_shoot_crazy_robot_wool |  
+| bip_39_word_underscore_11 | shove_crystal_bulb_author_intact_insect_shoot_crazy_robot_wool_minute |  
+| bip_39_word_underscore_12 | shove_crystal_bulb_author_intact_insect_shoot_crazy_robot_wool_minute_allow |  
+| bip_39_word_underscore_2 | shove_crystal |  
+| bip_39_word_underscore_3 | shove_crystal_bulb |  
+| bip_39_word_underscore_4 | shove_crystal_bulb_author |  
+| bip_39_word_underscore_5 | shove_crystal_bulb_author_intact |  
+| bip_39_word_underscore_6 | shove_crystal_bulb_author_intact_insect |  
+| bip_39_word_underscore_7 | shove_crystal_bulb_author_intact_insect_shoot |  
+| bip_39_word_underscore_8 | shove_crystal_bulb_author_intact_insect_shoot_crazy |  
+| bip_39_word_underscore_9 | shove_crystal_bulb_author_intact_insect_shoot_crazy_robot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

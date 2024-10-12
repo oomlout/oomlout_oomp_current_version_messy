@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stomach
+bip_39_word_dash_10: stomach-monkey-enable-cattle-come-champion-soon-flip-impose-crisp
+bip_39_word_dash_11: stomach-monkey-enable-cattle-come-champion-soon-flip-impose-crisp-depend
+bip_39_word_dash_12: stomach-monkey-enable-cattle-come-champion-soon-flip-impose-crisp-depend-alert
+bip_39_word_dash_2: stomach-monkey
+bip_39_word_dash_3: stomach-monkey-enable
+bip_39_word_dash_4: stomach-monkey-enable-cattle
+bip_39_word_dash_5: stomach-monkey-enable-cattle-come
+bip_39_word_dash_6: stomach-monkey-enable-cattle-come-champion
+bip_39_word_dash_7: stomach-monkey-enable-cattle-come-champion-soon
+bip_39_word_dash_8: stomach-monkey-enable-cattle-come-champion-soon-flip
+bip_39_word_dash_9: stomach-monkey-enable-cattle-come-champion-soon-flip-impose
 bip_39_word_new_br_1: stomach
 bip_39_word_new_br_10: stomach<br>monkey<br>enable<br>cattle<br>come<br>champion<br>soon<br>flip<br>impose<br>crisp
 bip_39_word_new_br_11: stomach<br>monkey<br>enable<br>cattle<br>come<br>champion<br>soon<br>flip<br>impose<br>crisp<br>depend
@@ -194,6 +206,18 @@ bip_39_word_space_6: stomach monkey enable cattle come champion
 bip_39_word_space_7: stomach monkey enable cattle come champion soon
 bip_39_word_space_8: stomach monkey enable cattle come champion soon flip
 bip_39_word_space_9: stomach monkey enable cattle come champion soon flip impose
+bip_39_word_underscore_1: stomach
+bip_39_word_underscore_10: stomach_monkey_enable_cattle_come_champion_soon_flip_impose_crisp
+bip_39_word_underscore_11: stomach_monkey_enable_cattle_come_champion_soon_flip_impose_crisp_depend
+bip_39_word_underscore_12: stomach_monkey_enable_cattle_come_champion_soon_flip_impose_crisp_depend_alert
+bip_39_word_underscore_2: stomach_monkey
+bip_39_word_underscore_3: stomach_monkey_enable
+bip_39_word_underscore_4: stomach_monkey_enable_cattle
+bip_39_word_underscore_5: stomach_monkey_enable_cattle_come
+bip_39_word_underscore_6: stomach_monkey_enable_cattle_come_champion
+bip_39_word_underscore_7: stomach_monkey_enable_cattle_come_champion_soon
+bip_39_word_underscore_8: stomach_monkey_enable_cattle_come_champion_soon_flip
+bip_39_word_underscore_9: stomach_monkey_enable_cattle_come_champion_soon_flip_impose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | circle |  
+| bip_39_word_dash_10 | circle-salt-blind-half-dove-glass-rival-broccoli-interest-pyramid |  
+| bip_39_word_dash_11 | circle-salt-blind-half-dove-glass-rival-broccoli-interest-pyramid-visit |  
+| bip_39_word_dash_2 | circle-salt |  
+| bip_39_word_dash_3 | circle-salt-blind |  
+| bip_39_word_dash_4 | circle-salt-blind-half |  
+| bip_39_word_dash_5 | circle-salt-blind-half-dove |  
+| bip_39_word_dash_6 | circle-salt-blind-half-dove-glass |  
+| bip_39_word_dash_7 | circle-salt-blind-half-dove-glass-rival |  
+| bip_39_word_dash_8 | circle-salt-blind-half-dove-glass-rival-broccoli |  
+| bip_39_word_dash_9 | circle-salt-blind-half-dove-glass-rival-broccoli-interest |  
 | bip_39_word_new_br_1 | circle |  
 | bip_39_word_new_br_10 | circle<br>salt<br>blind<br>half<br>dove<br>glass<br>rival<br>broccoli<br>interest<br>pyramid |  
 | bip_39_word_new_br_11 | circle<br>salt<br>blind<br>half<br>dove<br>glass<br>rival<br>broccoli<br>interest<br>pyramid<br>visit |  
@@ -132,6 +143,17 @@ interest |
 | bip_39_word_space_7 | circle salt blind half dove glass rival |  
 | bip_39_word_space_8 | circle salt blind half dove glass rival broccoli |  
 | bip_39_word_space_9 | circle salt blind half dove glass rival broccoli interest |  
+| bip_39_word_underscore_1 | circle |  
+| bip_39_word_underscore_10 | circle_salt_blind_half_dove_glass_rival_broccoli_interest_pyramid |  
+| bip_39_word_underscore_11 | circle_salt_blind_half_dove_glass_rival_broccoli_interest_pyramid_visit |  
+| bip_39_word_underscore_2 | circle_salt |  
+| bip_39_word_underscore_3 | circle_salt_blind |  
+| bip_39_word_underscore_4 | circle_salt_blind_half |  
+| bip_39_word_underscore_5 | circle_salt_blind_half_dove |  
+| bip_39_word_underscore_6 | circle_salt_blind_half_dove_glass |  
+| bip_39_word_underscore_7 | circle_salt_blind_half_dove_glass_rival |  
+| bip_39_word_underscore_8 | circle_salt_blind_half_dove_glass_rival_broccoli |  
+| bip_39_word_underscore_9 | circle_salt_blind_half_dove_glass_rival_broccoli_interest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

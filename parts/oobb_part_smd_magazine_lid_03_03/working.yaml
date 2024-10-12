@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tomato
+bip_39_word_dash_10: tomato-prison-easy-receive-penalty-defense-salute-tackle-stem-letter
+bip_39_word_dash_11: tomato-prison-easy-receive-penalty-defense-salute-tackle-stem-letter-region
+bip_39_word_dash_12: tomato-prison-easy-receive-penalty-defense-salute-tackle-stem-letter-region-actual
+bip_39_word_dash_2: tomato-prison
+bip_39_word_dash_3: tomato-prison-easy
+bip_39_word_dash_4: tomato-prison-easy-receive
+bip_39_word_dash_5: tomato-prison-easy-receive-penalty
+bip_39_word_dash_6: tomato-prison-easy-receive-penalty-defense
+bip_39_word_dash_7: tomato-prison-easy-receive-penalty-defense-salute
+bip_39_word_dash_8: tomato-prison-easy-receive-penalty-defense-salute-tackle
+bip_39_word_dash_9: tomato-prison-easy-receive-penalty-defense-salute-tackle-stem
 bip_39_word_new_br_1: tomato
 bip_39_word_new_br_10: tomato<br>prison<br>easy<br>receive<br>penalty<br>defense<br>salute<br>tackle<br>stem<br>letter
 bip_39_word_new_br_11: tomato<br>prison<br>easy<br>receive<br>penalty<br>defense<br>salute<br>tackle<br>stem<br>letter<br>region
@@ -194,6 +206,18 @@ bip_39_word_space_6: tomato prison easy receive penalty defense
 bip_39_word_space_7: tomato prison easy receive penalty defense salute
 bip_39_word_space_8: tomato prison easy receive penalty defense salute tackle
 bip_39_word_space_9: tomato prison easy receive penalty defense salute tackle stem
+bip_39_word_underscore_1: tomato
+bip_39_word_underscore_10: tomato_prison_easy_receive_penalty_defense_salute_tackle_stem_letter
+bip_39_word_underscore_11: tomato_prison_easy_receive_penalty_defense_salute_tackle_stem_letter_region
+bip_39_word_underscore_12: tomato_prison_easy_receive_penalty_defense_salute_tackle_stem_letter_region_actual
+bip_39_word_underscore_2: tomato_prison
+bip_39_word_underscore_3: tomato_prison_easy
+bip_39_word_underscore_4: tomato_prison_easy_receive
+bip_39_word_underscore_5: tomato_prison_easy_receive_penalty
+bip_39_word_underscore_6: tomato_prison_easy_receive_penalty_defense
+bip_39_word_underscore_7: tomato_prison_easy_receive_penalty_defense_salute
+bip_39_word_underscore_8: tomato_prison_easy_receive_penalty_defense_salute_tackle
+bip_39_word_underscore_9: tomato_prison_easy_receive_penalty_defense_salute_tackle_stem
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

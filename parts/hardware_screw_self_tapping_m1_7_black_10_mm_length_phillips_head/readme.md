@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drill |  
+| bip_39_word_dash_10 | drill-salad-soldier-area-model-oak-lunch-common-pledge-pear |  
+| bip_39_word_dash_11 | drill-salad-soldier-area-model-oak-lunch-common-pledge-pear-saddle |  
+| bip_39_word_dash_12 | drill-salad-soldier-area-model-oak-lunch-common-pledge-pear-saddle-accident |  
+| bip_39_word_dash_2 | drill-salad |  
+| bip_39_word_dash_3 | drill-salad-soldier |  
+| bip_39_word_dash_4 | drill-salad-soldier-area |  
+| bip_39_word_dash_5 | drill-salad-soldier-area-model |  
+| bip_39_word_dash_6 | drill-salad-soldier-area-model-oak |  
+| bip_39_word_dash_7 | drill-salad-soldier-area-model-oak-lunch |  
+| bip_39_word_dash_8 | drill-salad-soldier-area-model-oak-lunch-common |  
+| bip_39_word_dash_9 | drill-salad-soldier-area-model-oak-lunch-common-pledge |  
 | bip_39_word_new_br_1 | drill |  
 | bip_39_word_new_br_10 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common<br>pledge<br>pear |  
 | bip_39_word_new_br_11 | drill<br>salad<br>soldier<br>area<br>model<br>oak<br>lunch<br>common<br>pledge<br>pear<br>saddle |  
@@ -147,6 +159,18 @@ pledge |
 | bip_39_word_space_7 | drill salad soldier area model oak lunch |  
 | bip_39_word_space_8 | drill salad soldier area model oak lunch common |  
 | bip_39_word_space_9 | drill salad soldier area model oak lunch common pledge |  
+| bip_39_word_underscore_1 | drill |  
+| bip_39_word_underscore_10 | drill_salad_soldier_area_model_oak_lunch_common_pledge_pear |  
+| bip_39_word_underscore_11 | drill_salad_soldier_area_model_oak_lunch_common_pledge_pear_saddle |  
+| bip_39_word_underscore_12 | drill_salad_soldier_area_model_oak_lunch_common_pledge_pear_saddle_accident |  
+| bip_39_word_underscore_2 | drill_salad |  
+| bip_39_word_underscore_3 | drill_salad_soldier |  
+| bip_39_word_underscore_4 | drill_salad_soldier_area |  
+| bip_39_word_underscore_5 | drill_salad_soldier_area_model |  
+| bip_39_word_underscore_6 | drill_salad_soldier_area_model_oak |  
+| bip_39_word_underscore_7 | drill_salad_soldier_area_model_oak_lunch |  
+| bip_39_word_underscore_8 | drill_salad_soldier_area_model_oak_lunch_common |  
+| bip_39_word_underscore_9 | drill_salad_soldier_area_model_oak_lunch_common_pledge |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

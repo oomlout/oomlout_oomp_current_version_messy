@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wall |  
+| bip_39_word_dash_10 | wall-glass-soldier-desert-leader-people-fringe-mistake-neglect-ivory |  
+| bip_39_word_dash_11 | wall-glass-soldier-desert-leader-people-fringe-mistake-neglect-ivory-recycle |  
+| bip_39_word_dash_12 | wall-glass-soldier-desert-leader-people-fringe-mistake-neglect-ivory-recycle-also |  
+| bip_39_word_dash_2 | wall-glass |  
+| bip_39_word_dash_3 | wall-glass-soldier |  
+| bip_39_word_dash_4 | wall-glass-soldier-desert |  
+| bip_39_word_dash_5 | wall-glass-soldier-desert-leader |  
+| bip_39_word_dash_6 | wall-glass-soldier-desert-leader-people |  
+| bip_39_word_dash_7 | wall-glass-soldier-desert-leader-people-fringe |  
+| bip_39_word_dash_8 | wall-glass-soldier-desert-leader-people-fringe-mistake |  
+| bip_39_word_dash_9 | wall-glass-soldier-desert-leader-people-fringe-mistake-neglect |  
 | bip_39_word_new_br_1 | wall |  
 | bip_39_word_new_br_10 | wall<br>glass<br>soldier<br>desert<br>leader<br>people<br>fringe<br>mistake<br>neglect<br>ivory |  
 | bip_39_word_new_br_11 | wall<br>glass<br>soldier<br>desert<br>leader<br>people<br>fringe<br>mistake<br>neglect<br>ivory<br>recycle |  
@@ -147,6 +159,18 @@ neglect |
 | bip_39_word_space_7 | wall glass soldier desert leader people fringe |  
 | bip_39_word_space_8 | wall glass soldier desert leader people fringe mistake |  
 | bip_39_word_space_9 | wall glass soldier desert leader people fringe mistake neglect |  
+| bip_39_word_underscore_1 | wall |  
+| bip_39_word_underscore_10 | wall_glass_soldier_desert_leader_people_fringe_mistake_neglect_ivory |  
+| bip_39_word_underscore_11 | wall_glass_soldier_desert_leader_people_fringe_mistake_neglect_ivory_recycle |  
+| bip_39_word_underscore_12 | wall_glass_soldier_desert_leader_people_fringe_mistake_neglect_ivory_recycle_also |  
+| bip_39_word_underscore_2 | wall_glass |  
+| bip_39_word_underscore_3 | wall_glass_soldier |  
+| bip_39_word_underscore_4 | wall_glass_soldier_desert |  
+| bip_39_word_underscore_5 | wall_glass_soldier_desert_leader |  
+| bip_39_word_underscore_6 | wall_glass_soldier_desert_leader_people |  
+| bip_39_word_underscore_7 | wall_glass_soldier_desert_leader_people_fringe |  
+| bip_39_word_underscore_8 | wall_glass_soldier_desert_leader_people_fringe_mistake |  
+| bip_39_word_underscore_9 | wall_glass_soldier_desert_leader_people_fringe_mistake_neglect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

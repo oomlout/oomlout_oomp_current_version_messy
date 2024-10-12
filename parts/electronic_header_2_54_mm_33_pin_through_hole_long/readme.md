@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clump |  
+| bip_39_word_dash_10 | clump-ticket-title-worth-universe-emotion-roast-obtain-gown-cradle |  
+| bip_39_word_dash_11 | clump-ticket-title-worth-universe-emotion-roast-obtain-gown-cradle-orange |  
+| bip_39_word_dash_12 | clump-ticket-title-worth-universe-emotion-roast-obtain-gown-cradle-orange-audit |  
+| bip_39_word_dash_2 | clump-ticket |  
+| bip_39_word_dash_3 | clump-ticket-title |  
+| bip_39_word_dash_4 | clump-ticket-title-worth |  
+| bip_39_word_dash_5 | clump-ticket-title-worth-universe |  
+| bip_39_word_dash_6 | clump-ticket-title-worth-universe-emotion |  
+| bip_39_word_dash_7 | clump-ticket-title-worth-universe-emotion-roast |  
+| bip_39_word_dash_8 | clump-ticket-title-worth-universe-emotion-roast-obtain |  
+| bip_39_word_dash_9 | clump-ticket-title-worth-universe-emotion-roast-obtain-gown |  
 | bip_39_word_new_br_1 | clump |  
 | bip_39_word_new_br_10 | clump<br>ticket<br>title<br>worth<br>universe<br>emotion<br>roast<br>obtain<br>gown<br>cradle |  
 | bip_39_word_new_br_11 | clump<br>ticket<br>title<br>worth<br>universe<br>emotion<br>roast<br>obtain<br>gown<br>cradle<br>orange |  
@@ -147,6 +159,18 @@ gown |
 | bip_39_word_space_7 | clump ticket title worth universe emotion roast |  
 | bip_39_word_space_8 | clump ticket title worth universe emotion roast obtain |  
 | bip_39_word_space_9 | clump ticket title worth universe emotion roast obtain gown |  
+| bip_39_word_underscore_1 | clump |  
+| bip_39_word_underscore_10 | clump_ticket_title_worth_universe_emotion_roast_obtain_gown_cradle |  
+| bip_39_word_underscore_11 | clump_ticket_title_worth_universe_emotion_roast_obtain_gown_cradle_orange |  
+| bip_39_word_underscore_12 | clump_ticket_title_worth_universe_emotion_roast_obtain_gown_cradle_orange_audit |  
+| bip_39_word_underscore_2 | clump_ticket |  
+| bip_39_word_underscore_3 | clump_ticket_title |  
+| bip_39_word_underscore_4 | clump_ticket_title_worth |  
+| bip_39_word_underscore_5 | clump_ticket_title_worth_universe |  
+| bip_39_word_underscore_6 | clump_ticket_title_worth_universe_emotion |  
+| bip_39_word_underscore_7 | clump_ticket_title_worth_universe_emotion_roast |  
+| bip_39_word_underscore_8 | clump_ticket_title_worth_universe_emotion_roast_obtain |  
+| bip_39_word_underscore_9 | clump_ticket_title_worth_universe_emotion_roast_obtain_gown |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

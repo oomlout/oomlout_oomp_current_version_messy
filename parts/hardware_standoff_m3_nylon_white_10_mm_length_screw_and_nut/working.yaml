@@ -1,3 +1,15 @@
+bip_39_word_dash_1: energy
+bip_39_word_dash_10: energy-phrase-south-child-spider-appear-grunt-calm-need-sing
+bip_39_word_dash_11: energy-phrase-south-child-spider-appear-grunt-calm-need-sing-lesson
+bip_39_word_dash_12: energy-phrase-south-child-spider-appear-grunt-calm-need-sing-lesson-aerobic
+bip_39_word_dash_2: energy-phrase
+bip_39_word_dash_3: energy-phrase-south
+bip_39_word_dash_4: energy-phrase-south-child
+bip_39_word_dash_5: energy-phrase-south-child-spider
+bip_39_word_dash_6: energy-phrase-south-child-spider-appear
+bip_39_word_dash_7: energy-phrase-south-child-spider-appear-grunt
+bip_39_word_dash_8: energy-phrase-south-child-spider-appear-grunt-calm
+bip_39_word_dash_9: energy-phrase-south-child-spider-appear-grunt-calm-need
 bip_39_word_new_br_1: energy
 bip_39_word_new_br_10: energy<br>phrase<br>south<br>child<br>spider<br>appear<br>grunt<br>calm<br>need<br>sing
 bip_39_word_new_br_11: energy<br>phrase<br>south<br>child<br>spider<br>appear<br>grunt<br>calm<br>need<br>sing<br>lesson
@@ -193,6 +205,18 @@ bip_39_word_space_6: energy phrase south child spider appear
 bip_39_word_space_7: energy phrase south child spider appear grunt
 bip_39_word_space_8: energy phrase south child spider appear grunt calm
 bip_39_word_space_9: energy phrase south child spider appear grunt calm need
+bip_39_word_underscore_1: energy
+bip_39_word_underscore_10: energy_phrase_south_child_spider_appear_grunt_calm_need_sing
+bip_39_word_underscore_11: energy_phrase_south_child_spider_appear_grunt_calm_need_sing_lesson
+bip_39_word_underscore_12: energy_phrase_south_child_spider_appear_grunt_calm_need_sing_lesson_aerobic
+bip_39_word_underscore_2: energy_phrase
+bip_39_word_underscore_3: energy_phrase_south
+bip_39_word_underscore_4: energy_phrase_south_child
+bip_39_word_underscore_5: energy_phrase_south_child_spider
+bip_39_word_underscore_6: energy_phrase_south_child_spider_appear
+bip_39_word_underscore_7: energy_phrase_south_child_spider_appear_grunt
+bip_39_word_underscore_8: energy_phrase_south_child_spider_appear_grunt_calm
+bip_39_word_underscore_9: energy_phrase_south_child_spider_appear_grunt_calm_need
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

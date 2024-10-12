@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vast |  
+| bip_39_word_dash_10 | vast-buyer-have-index-man-orchard-scout-acquire-beyond-roast |  
+| bip_39_word_dash_11 | vast-buyer-have-index-man-orchard-scout-acquire-beyond-roast-apart |  
+| bip_39_word_dash_12 | vast-buyer-have-index-man-orchard-scout-acquire-beyond-roast-apart-advance |  
+| bip_39_word_dash_2 | vast-buyer |  
+| bip_39_word_dash_3 | vast-buyer-have |  
+| bip_39_word_dash_4 | vast-buyer-have-index |  
+| bip_39_word_dash_5 | vast-buyer-have-index-man |  
+| bip_39_word_dash_6 | vast-buyer-have-index-man-orchard |  
+| bip_39_word_dash_7 | vast-buyer-have-index-man-orchard-scout |  
+| bip_39_word_dash_8 | vast-buyer-have-index-man-orchard-scout-acquire |  
+| bip_39_word_dash_9 | vast-buyer-have-index-man-orchard-scout-acquire-beyond |  
 | bip_39_word_new_br_1 | vast |  
 | bip_39_word_new_br_10 | vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire<br>beyond<br>roast |  
 | bip_39_word_new_br_11 | vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire<br>beyond<br>roast<br>apart |  
@@ -147,6 +159,18 @@ beyond |
 | bip_39_word_space_7 | vast buyer have index man orchard scout |  
 | bip_39_word_space_8 | vast buyer have index man orchard scout acquire |  
 | bip_39_word_space_9 | vast buyer have index man orchard scout acquire beyond |  
+| bip_39_word_underscore_1 | vast |  
+| bip_39_word_underscore_10 | vast_buyer_have_index_man_orchard_scout_acquire_beyond_roast |  
+| bip_39_word_underscore_11 | vast_buyer_have_index_man_orchard_scout_acquire_beyond_roast_apart |  
+| bip_39_word_underscore_12 | vast_buyer_have_index_man_orchard_scout_acquire_beyond_roast_apart_advance |  
+| bip_39_word_underscore_2 | vast_buyer |  
+| bip_39_word_underscore_3 | vast_buyer_have |  
+| bip_39_word_underscore_4 | vast_buyer_have_index |  
+| bip_39_word_underscore_5 | vast_buyer_have_index_man |  
+| bip_39_word_underscore_6 | vast_buyer_have_index_man_orchard |  
+| bip_39_word_underscore_7 | vast_buyer_have_index_man_orchard_scout |  
+| bip_39_word_underscore_8 | vast_buyer_have_index_man_orchard_scout_acquire |  
+| bip_39_word_underscore_9 | vast_buyer_have_index_man_orchard_scout_acquire_beyond |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

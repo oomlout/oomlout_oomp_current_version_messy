@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rent
+bip_39_word_dash_10: rent-whisper-ladder-taste-defense-chase-lawn-fork-quote-cram
+bip_39_word_dash_11: rent-whisper-ladder-taste-defense-chase-lawn-fork-quote-cram-regret
+bip_39_word_dash_12: rent-whisper-ladder-taste-defense-chase-lawn-fork-quote-cram-regret-air
+bip_39_word_dash_2: rent-whisper
+bip_39_word_dash_3: rent-whisper-ladder
+bip_39_word_dash_4: rent-whisper-ladder-taste
+bip_39_word_dash_5: rent-whisper-ladder-taste-defense
+bip_39_word_dash_6: rent-whisper-ladder-taste-defense-chase
+bip_39_word_dash_7: rent-whisper-ladder-taste-defense-chase-lawn
+bip_39_word_dash_8: rent-whisper-ladder-taste-defense-chase-lawn-fork
+bip_39_word_dash_9: rent-whisper-ladder-taste-defense-chase-lawn-fork-quote
 bip_39_word_new_br_1: rent
 bip_39_word_new_br_10: rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork<br>quote<br>cram
 bip_39_word_new_br_11: rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork<br>quote<br>cram<br>regret
@@ -193,6 +205,18 @@ bip_39_word_space_6: rent whisper ladder taste defense chase
 bip_39_word_space_7: rent whisper ladder taste defense chase lawn
 bip_39_word_space_8: rent whisper ladder taste defense chase lawn fork
 bip_39_word_space_9: rent whisper ladder taste defense chase lawn fork quote
+bip_39_word_underscore_1: rent
+bip_39_word_underscore_10: rent_whisper_ladder_taste_defense_chase_lawn_fork_quote_cram
+bip_39_word_underscore_11: rent_whisper_ladder_taste_defense_chase_lawn_fork_quote_cram_regret
+bip_39_word_underscore_12: rent_whisper_ladder_taste_defense_chase_lawn_fork_quote_cram_regret_air
+bip_39_word_underscore_2: rent_whisper
+bip_39_word_underscore_3: rent_whisper_ladder
+bip_39_word_underscore_4: rent_whisper_ladder_taste
+bip_39_word_underscore_5: rent_whisper_ladder_taste_defense
+bip_39_word_underscore_6: rent_whisper_ladder_taste_defense_chase
+bip_39_word_underscore_7: rent_whisper_ladder_taste_defense_chase_lawn
+bip_39_word_underscore_8: rent_whisper_ladder_taste_defense_chase_lawn_fork
+bip_39_word_underscore_9: rent_whisper_ladder_taste_defense_chase_lawn_fork_quote
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

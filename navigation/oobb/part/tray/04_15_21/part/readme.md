@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | green |  
+| bip_39_word_dash_10 | green-umbrella-screen-hazard-music-bread-mirror-select-purpose-table |  
+| bip_39_word_dash_11 | green-umbrella-screen-hazard-music-bread-mirror-select-purpose-table-nasty |  
+| bip_39_word_dash_12 | green-umbrella-screen-hazard-music-bread-mirror-select-purpose-table-nasty-area |  
+| bip_39_word_dash_2 | green-umbrella |  
+| bip_39_word_dash_3 | green-umbrella-screen |  
+| bip_39_word_dash_4 | green-umbrella-screen-hazard |  
+| bip_39_word_dash_5 | green-umbrella-screen-hazard-music |  
+| bip_39_word_dash_6 | green-umbrella-screen-hazard-music-bread |  
+| bip_39_word_dash_7 | green-umbrella-screen-hazard-music-bread-mirror |  
+| bip_39_word_dash_8 | green-umbrella-screen-hazard-music-bread-mirror-select |  
+| bip_39_word_dash_9 | green-umbrella-screen-hazard-music-bread-mirror-select-purpose |  
 | bip_39_word_new_br_1 | green |  
 | bip_39_word_new_br_10 | green<br>umbrella<br>screen<br>hazard<br>music<br>bread<br>mirror<br>select<br>purpose<br>table |  
 | bip_39_word_new_br_11 | green<br>umbrella<br>screen<br>hazard<br>music<br>bread<br>mirror<br>select<br>purpose<br>table<br>nasty |  
@@ -147,6 +159,18 @@ purpose |
 | bip_39_word_space_7 | green umbrella screen hazard music bread mirror |  
 | bip_39_word_space_8 | green umbrella screen hazard music bread mirror select |  
 | bip_39_word_space_9 | green umbrella screen hazard music bread mirror select purpose |  
+| bip_39_word_underscore_1 | green |  
+| bip_39_word_underscore_10 | green_umbrella_screen_hazard_music_bread_mirror_select_purpose_table |  
+| bip_39_word_underscore_11 | green_umbrella_screen_hazard_music_bread_mirror_select_purpose_table_nasty |  
+| bip_39_word_underscore_12 | green_umbrella_screen_hazard_music_bread_mirror_select_purpose_table_nasty_area |  
+| bip_39_word_underscore_2 | green_umbrella |  
+| bip_39_word_underscore_3 | green_umbrella_screen |  
+| bip_39_word_underscore_4 | green_umbrella_screen_hazard |  
+| bip_39_word_underscore_5 | green_umbrella_screen_hazard_music |  
+| bip_39_word_underscore_6 | green_umbrella_screen_hazard_music_bread |  
+| bip_39_word_underscore_7 | green_umbrella_screen_hazard_music_bread_mirror |  
+| bip_39_word_underscore_8 | green_umbrella_screen_hazard_music_bread_mirror_select |  
+| bip_39_word_underscore_9 | green_umbrella_screen_hazard_music_bread_mirror_select_purpose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

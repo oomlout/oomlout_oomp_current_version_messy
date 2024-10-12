@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | uncover |  
+| bip_39_word_dash_10 | uncover-business-capable-mandate-library-gentle-faith-assist-flower-food |  
+| bip_39_word_dash_11 | uncover-business-capable-mandate-library-gentle-faith-assist-flower-food-aware |  
+| bip_39_word_dash_12 | uncover-business-capable-mandate-library-gentle-faith-assist-flower-food-aware-acquire |  
+| bip_39_word_dash_2 | uncover-business |  
+| bip_39_word_dash_3 | uncover-business-capable |  
+| bip_39_word_dash_4 | uncover-business-capable-mandate |  
+| bip_39_word_dash_5 | uncover-business-capable-mandate-library |  
+| bip_39_word_dash_6 | uncover-business-capable-mandate-library-gentle |  
+| bip_39_word_dash_7 | uncover-business-capable-mandate-library-gentle-faith |  
+| bip_39_word_dash_8 | uncover-business-capable-mandate-library-gentle-faith-assist |  
+| bip_39_word_dash_9 | uncover-business-capable-mandate-library-gentle-faith-assist-flower |  
 | bip_39_word_new_br_1 | uncover |  
 | bip_39_word_new_br_10 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist<br>flower<br>food |  
 | bip_39_word_new_br_11 | uncover<br>business<br>capable<br>mandate<br>library<br>gentle<br>faith<br>assist<br>flower<br>food<br>aware |  
@@ -147,6 +159,18 @@ flower |
 | bip_39_word_space_7 | uncover business capable mandate library gentle faith |  
 | bip_39_word_space_8 | uncover business capable mandate library gentle faith assist |  
 | bip_39_word_space_9 | uncover business capable mandate library gentle faith assist flower |  
+| bip_39_word_underscore_1 | uncover |  
+| bip_39_word_underscore_10 | uncover_business_capable_mandate_library_gentle_faith_assist_flower_food |  
+| bip_39_word_underscore_11 | uncover_business_capable_mandate_library_gentle_faith_assist_flower_food_aware |  
+| bip_39_word_underscore_12 | uncover_business_capable_mandate_library_gentle_faith_assist_flower_food_aware_acquire |  
+| bip_39_word_underscore_2 | uncover_business |  
+| bip_39_word_underscore_3 | uncover_business_capable |  
+| bip_39_word_underscore_4 | uncover_business_capable_mandate |  
+| bip_39_word_underscore_5 | uncover_business_capable_mandate_library |  
+| bip_39_word_underscore_6 | uncover_business_capable_mandate_library_gentle |  
+| bip_39_word_underscore_7 | uncover_business_capable_mandate_library_gentle_faith |  
+| bip_39_word_underscore_8 | uncover_business_capable_mandate_library_gentle_faith_assist |  
+| bip_39_word_underscore_9 | uncover_business_capable_mandate_library_gentle_faith_assist_flower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

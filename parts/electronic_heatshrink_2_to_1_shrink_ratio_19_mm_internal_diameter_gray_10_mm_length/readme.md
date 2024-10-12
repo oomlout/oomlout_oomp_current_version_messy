@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | what |  
+| bip_39_word_dash_10 | what-upgrade-permit-live-useless-biology-kidney-impulse-sugar-awake |  
+| bip_39_word_dash_11 | what-upgrade-permit-live-useless-biology-kidney-impulse-sugar-awake-nation |  
+| bip_39_word_dash_12 | what-upgrade-permit-live-useless-biology-kidney-impulse-sugar-awake-nation-about |  
+| bip_39_word_dash_2 | what-upgrade |  
+| bip_39_word_dash_3 | what-upgrade-permit |  
+| bip_39_word_dash_4 | what-upgrade-permit-live |  
+| bip_39_word_dash_5 | what-upgrade-permit-live-useless |  
+| bip_39_word_dash_6 | what-upgrade-permit-live-useless-biology |  
+| bip_39_word_dash_7 | what-upgrade-permit-live-useless-biology-kidney |  
+| bip_39_word_dash_8 | what-upgrade-permit-live-useless-biology-kidney-impulse |  
+| bip_39_word_dash_9 | what-upgrade-permit-live-useless-biology-kidney-impulse-sugar |  
 | bip_39_word_new_br_1 | what |  
 | bip_39_word_new_br_10 | what<br>upgrade<br>permit<br>live<br>useless<br>biology<br>kidney<br>impulse<br>sugar<br>awake |  
 | bip_39_word_new_br_11 | what<br>upgrade<br>permit<br>live<br>useless<br>biology<br>kidney<br>impulse<br>sugar<br>awake<br>nation |  
@@ -147,6 +159,18 @@ sugar |
 | bip_39_word_space_7 | what upgrade permit live useless biology kidney |  
 | bip_39_word_space_8 | what upgrade permit live useless biology kidney impulse |  
 | bip_39_word_space_9 | what upgrade permit live useless biology kidney impulse sugar |  
+| bip_39_word_underscore_1 | what |  
+| bip_39_word_underscore_10 | what_upgrade_permit_live_useless_biology_kidney_impulse_sugar_awake |  
+| bip_39_word_underscore_11 | what_upgrade_permit_live_useless_biology_kidney_impulse_sugar_awake_nation |  
+| bip_39_word_underscore_12 | what_upgrade_permit_live_useless_biology_kidney_impulse_sugar_awake_nation_about |  
+| bip_39_word_underscore_2 | what_upgrade |  
+| bip_39_word_underscore_3 | what_upgrade_permit |  
+| bip_39_word_underscore_4 | what_upgrade_permit_live |  
+| bip_39_word_underscore_5 | what_upgrade_permit_live_useless |  
+| bip_39_word_underscore_6 | what_upgrade_permit_live_useless_biology |  
+| bip_39_word_underscore_7 | what_upgrade_permit_live_useless_biology_kidney |  
+| bip_39_word_underscore_8 | what_upgrade_permit_live_useless_biology_kidney_impulse |  
+| bip_39_word_underscore_9 | what_upgrade_permit_live_useless_biology_kidney_impulse_sugar |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

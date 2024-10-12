@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quarter
+bip_39_word_dash_10: quarter-female-pigeon-wool-black-picture-catch-force-drama-pupil
+bip_39_word_dash_11: quarter-female-pigeon-wool-black-picture-catch-force-drama-pupil-ski
+bip_39_word_dash_12: quarter-female-pigeon-wool-black-picture-catch-force-drama-pupil-ski-acid
+bip_39_word_dash_2: quarter-female
+bip_39_word_dash_3: quarter-female-pigeon
+bip_39_word_dash_4: quarter-female-pigeon-wool
+bip_39_word_dash_5: quarter-female-pigeon-wool-black
+bip_39_word_dash_6: quarter-female-pigeon-wool-black-picture
+bip_39_word_dash_7: quarter-female-pigeon-wool-black-picture-catch
+bip_39_word_dash_8: quarter-female-pigeon-wool-black-picture-catch-force
+bip_39_word_dash_9: quarter-female-pigeon-wool-black-picture-catch-force-drama
 bip_39_word_new_br_1: quarter
 bip_39_word_new_br_10: quarter<br>female<br>pigeon<br>wool<br>black<br>picture<br>catch<br>force<br>drama<br>pupil
 bip_39_word_new_br_11: quarter<br>female<br>pigeon<br>wool<br>black<br>picture<br>catch<br>force<br>drama<br>pupil<br>ski
@@ -193,6 +205,18 @@ bip_39_word_space_6: quarter female pigeon wool black picture
 bip_39_word_space_7: quarter female pigeon wool black picture catch
 bip_39_word_space_8: quarter female pigeon wool black picture catch force
 bip_39_word_space_9: quarter female pigeon wool black picture catch force drama
+bip_39_word_underscore_1: quarter
+bip_39_word_underscore_10: quarter_female_pigeon_wool_black_picture_catch_force_drama_pupil
+bip_39_word_underscore_11: quarter_female_pigeon_wool_black_picture_catch_force_drama_pupil_ski
+bip_39_word_underscore_12: quarter_female_pigeon_wool_black_picture_catch_force_drama_pupil_ski_acid
+bip_39_word_underscore_2: quarter_female
+bip_39_word_underscore_3: quarter_female_pigeon
+bip_39_word_underscore_4: quarter_female_pigeon_wool
+bip_39_word_underscore_5: quarter_female_pigeon_wool_black
+bip_39_word_underscore_6: quarter_female_pigeon_wool_black_picture
+bip_39_word_underscore_7: quarter_female_pigeon_wool_black_picture_catch
+bip_39_word_underscore_8: quarter_female_pigeon_wool_black_picture_catch_force
+bip_39_word_underscore_9: quarter_female_pigeon_wool_black_picture_catch_force_drama
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

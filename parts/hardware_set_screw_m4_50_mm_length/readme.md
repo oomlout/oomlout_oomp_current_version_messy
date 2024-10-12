@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diesel |  
+| bip_39_word_dash_10 | diesel-bulb-ahead-jelly-chronic-hunt-utility-crisp-lemon-float |  
+| bip_39_word_dash_11 | diesel-bulb-ahead-jelly-chronic-hunt-utility-crisp-lemon-float-can |  
+| bip_39_word_dash_12 | diesel-bulb-ahead-jelly-chronic-hunt-utility-crisp-lemon-float-can-achieve |  
+| bip_39_word_dash_2 | diesel-bulb |  
+| bip_39_word_dash_3 | diesel-bulb-ahead |  
+| bip_39_word_dash_4 | diesel-bulb-ahead-jelly |  
+| bip_39_word_dash_5 | diesel-bulb-ahead-jelly-chronic |  
+| bip_39_word_dash_6 | diesel-bulb-ahead-jelly-chronic-hunt |  
+| bip_39_word_dash_7 | diesel-bulb-ahead-jelly-chronic-hunt-utility |  
+| bip_39_word_dash_8 | diesel-bulb-ahead-jelly-chronic-hunt-utility-crisp |  
+| bip_39_word_dash_9 | diesel-bulb-ahead-jelly-chronic-hunt-utility-crisp-lemon |  
 | bip_39_word_new_br_1 | diesel |  
 | bip_39_word_new_br_10 | diesel<br>bulb<br>ahead<br>jelly<br>chronic<br>hunt<br>utility<br>crisp<br>lemon<br>float |  
 | bip_39_word_new_br_11 | diesel<br>bulb<br>ahead<br>jelly<br>chronic<br>hunt<br>utility<br>crisp<br>lemon<br>float<br>can |  
@@ -147,6 +159,18 @@ lemon |
 | bip_39_word_space_7 | diesel bulb ahead jelly chronic hunt utility |  
 | bip_39_word_space_8 | diesel bulb ahead jelly chronic hunt utility crisp |  
 | bip_39_word_space_9 | diesel bulb ahead jelly chronic hunt utility crisp lemon |  
+| bip_39_word_underscore_1 | diesel |  
+| bip_39_word_underscore_10 | diesel_bulb_ahead_jelly_chronic_hunt_utility_crisp_lemon_float |  
+| bip_39_word_underscore_11 | diesel_bulb_ahead_jelly_chronic_hunt_utility_crisp_lemon_float_can |  
+| bip_39_word_underscore_12 | diesel_bulb_ahead_jelly_chronic_hunt_utility_crisp_lemon_float_can_achieve |  
+| bip_39_word_underscore_2 | diesel_bulb |  
+| bip_39_word_underscore_3 | diesel_bulb_ahead |  
+| bip_39_word_underscore_4 | diesel_bulb_ahead_jelly |  
+| bip_39_word_underscore_5 | diesel_bulb_ahead_jelly_chronic |  
+| bip_39_word_underscore_6 | diesel_bulb_ahead_jelly_chronic_hunt |  
+| bip_39_word_underscore_7 | diesel_bulb_ahead_jelly_chronic_hunt_utility |  
+| bip_39_word_underscore_8 | diesel_bulb_ahead_jelly_chronic_hunt_utility_crisp |  
+| bip_39_word_underscore_9 | diesel_bulb_ahead_jelly_chronic_hunt_utility_crisp_lemon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

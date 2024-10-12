@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | morning |  
+| bip_39_word_dash_10 | morning-glue-voice-reopen-erupt-anger-elegant-zero-polar-permit |  
+| bip_39_word_dash_11 | morning-glue-voice-reopen-erupt-anger-elegant-zero-polar-permit-forum |  
+| bip_39_word_dash_12 | morning-glue-voice-reopen-erupt-anger-elegant-zero-polar-permit-forum-antique |  
+| bip_39_word_dash_2 | morning-glue |  
+| bip_39_word_dash_3 | morning-glue-voice |  
+| bip_39_word_dash_4 | morning-glue-voice-reopen |  
+| bip_39_word_dash_5 | morning-glue-voice-reopen-erupt |  
+| bip_39_word_dash_6 | morning-glue-voice-reopen-erupt-anger |  
+| bip_39_word_dash_7 | morning-glue-voice-reopen-erupt-anger-elegant |  
+| bip_39_word_dash_8 | morning-glue-voice-reopen-erupt-anger-elegant-zero |  
+| bip_39_word_dash_9 | morning-glue-voice-reopen-erupt-anger-elegant-zero-polar |  
 | bip_39_word_new_br_1 | morning |  
 | bip_39_word_new_br_10 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit |  
 | bip_39_word_new_br_11 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit<br>forum |  
@@ -147,6 +159,18 @@ polar |
 | bip_39_word_space_7 | morning glue voice reopen erupt anger elegant |  
 | bip_39_word_space_8 | morning glue voice reopen erupt anger elegant zero |  
 | bip_39_word_space_9 | morning glue voice reopen erupt anger elegant zero polar |  
+| bip_39_word_underscore_1 | morning |  
+| bip_39_word_underscore_10 | morning_glue_voice_reopen_erupt_anger_elegant_zero_polar_permit |  
+| bip_39_word_underscore_11 | morning_glue_voice_reopen_erupt_anger_elegant_zero_polar_permit_forum |  
+| bip_39_word_underscore_12 | morning_glue_voice_reopen_erupt_anger_elegant_zero_polar_permit_forum_antique |  
+| bip_39_word_underscore_2 | morning_glue |  
+| bip_39_word_underscore_3 | morning_glue_voice |  
+| bip_39_word_underscore_4 | morning_glue_voice_reopen |  
+| bip_39_word_underscore_5 | morning_glue_voice_reopen_erupt |  
+| bip_39_word_underscore_6 | morning_glue_voice_reopen_erupt_anger |  
+| bip_39_word_underscore_7 | morning_glue_voice_reopen_erupt_anger_elegant |  
+| bip_39_word_underscore_8 | morning_glue_voice_reopen_erupt_anger_elegant_zero |  
+| bip_39_word_underscore_9 | morning_glue_voice_reopen_erupt_anger_elegant_zero_polar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

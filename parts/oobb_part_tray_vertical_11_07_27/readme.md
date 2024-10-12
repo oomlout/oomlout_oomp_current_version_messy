@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | can |  
+| bip_39_word_dash_10 | can-sail-season-innocent-quick-palm-extend-thought-avoid-teach |  
+| bip_39_word_dash_11 | can-sail-season-innocent-quick-palm-extend-thought-avoid-teach-embark |  
+| bip_39_word_dash_12 | can-sail-season-innocent-quick-palm-extend-thought-avoid-teach-embark-arrow |  
+| bip_39_word_dash_2 | can-sail |  
+| bip_39_word_dash_3 | can-sail-season |  
+| bip_39_word_dash_4 | can-sail-season-innocent |  
+| bip_39_word_dash_5 | can-sail-season-innocent-quick |  
+| bip_39_word_dash_6 | can-sail-season-innocent-quick-palm |  
+| bip_39_word_dash_7 | can-sail-season-innocent-quick-palm-extend |  
+| bip_39_word_dash_8 | can-sail-season-innocent-quick-palm-extend-thought |  
+| bip_39_word_dash_9 | can-sail-season-innocent-quick-palm-extend-thought-avoid |  
 | bip_39_word_new_br_1 | can |  
 | bip_39_word_new_br_10 | can<br>sail<br>season<br>innocent<br>quick<br>palm<br>extend<br>thought<br>avoid<br>teach |  
 | bip_39_word_new_br_11 | can<br>sail<br>season<br>innocent<br>quick<br>palm<br>extend<br>thought<br>avoid<br>teach<br>embark |  
@@ -147,6 +159,18 @@ avoid |
 | bip_39_word_space_7 | can sail season innocent quick palm extend |  
 | bip_39_word_space_8 | can sail season innocent quick palm extend thought |  
 | bip_39_word_space_9 | can sail season innocent quick palm extend thought avoid |  
+| bip_39_word_underscore_1 | can |  
+| bip_39_word_underscore_10 | can_sail_season_innocent_quick_palm_extend_thought_avoid_teach |  
+| bip_39_word_underscore_11 | can_sail_season_innocent_quick_palm_extend_thought_avoid_teach_embark |  
+| bip_39_word_underscore_12 | can_sail_season_innocent_quick_palm_extend_thought_avoid_teach_embark_arrow |  
+| bip_39_word_underscore_2 | can_sail |  
+| bip_39_word_underscore_3 | can_sail_season |  
+| bip_39_word_underscore_4 | can_sail_season_innocent |  
+| bip_39_word_underscore_5 | can_sail_season_innocent_quick |  
+| bip_39_word_underscore_6 | can_sail_season_innocent_quick_palm |  
+| bip_39_word_underscore_7 | can_sail_season_innocent_quick_palm_extend |  
+| bip_39_word_underscore_8 | can_sail_season_innocent_quick_palm_extend_thought |  
+| bip_39_word_underscore_9 | can_sail_season_innocent_quick_palm_extend_thought_avoid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

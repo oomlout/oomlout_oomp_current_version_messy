@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | risk |  
+| bip_39_word_dash_10 | risk-debate-embody-dad-harvest-bag-paddle-wheat-feature-hero |  
+| bip_39_word_dash_11 | risk-debate-embody-dad-harvest-bag-paddle-wheat-feature-hero-summer |  
+| bip_39_word_dash_12 | risk-debate-embody-dad-harvest-bag-paddle-wheat-feature-hero-summer-account |  
+| bip_39_word_dash_2 | risk-debate |  
+| bip_39_word_dash_3 | risk-debate-embody |  
+| bip_39_word_dash_4 | risk-debate-embody-dad |  
+| bip_39_word_dash_5 | risk-debate-embody-dad-harvest |  
+| bip_39_word_dash_6 | risk-debate-embody-dad-harvest-bag |  
+| bip_39_word_dash_7 | risk-debate-embody-dad-harvest-bag-paddle |  
+| bip_39_word_dash_8 | risk-debate-embody-dad-harvest-bag-paddle-wheat |  
+| bip_39_word_dash_9 | risk-debate-embody-dad-harvest-bag-paddle-wheat-feature |  
 | bip_39_word_new_br_1 | risk |  
 | bip_39_word_new_br_10 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat<br>feature<br>hero |  
 | bip_39_word_new_br_11 | risk<br>debate<br>embody<br>dad<br>harvest<br>bag<br>paddle<br>wheat<br>feature<br>hero<br>summer |  
@@ -147,6 +159,18 @@ feature |
 | bip_39_word_space_7 | risk debate embody dad harvest bag paddle |  
 | bip_39_word_space_8 | risk debate embody dad harvest bag paddle wheat |  
 | bip_39_word_space_9 | risk debate embody dad harvest bag paddle wheat feature |  
+| bip_39_word_underscore_1 | risk |  
+| bip_39_word_underscore_10 | risk_debate_embody_dad_harvest_bag_paddle_wheat_feature_hero |  
+| bip_39_word_underscore_11 | risk_debate_embody_dad_harvest_bag_paddle_wheat_feature_hero_summer |  
+| bip_39_word_underscore_12 | risk_debate_embody_dad_harvest_bag_paddle_wheat_feature_hero_summer_account |  
+| bip_39_word_underscore_2 | risk_debate |  
+| bip_39_word_underscore_3 | risk_debate_embody |  
+| bip_39_word_underscore_4 | risk_debate_embody_dad |  
+| bip_39_word_underscore_5 | risk_debate_embody_dad_harvest |  
+| bip_39_word_underscore_6 | risk_debate_embody_dad_harvest_bag |  
+| bip_39_word_underscore_7 | risk_debate_embody_dad_harvest_bag_paddle |  
+| bip_39_word_underscore_8 | risk_debate_embody_dad_harvest_bag_paddle_wheat |  
+| bip_39_word_underscore_9 | risk_debate_embody_dad_harvest_bag_paddle_wheat_feature |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

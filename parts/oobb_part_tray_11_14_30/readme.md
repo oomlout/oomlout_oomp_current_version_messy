@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | best |  
+| bip_39_word_dash_10 | best-kitten-nasty-syrup-fiction-voice-size-when-render-certain |  
+| bip_39_word_dash_11 | best-kitten-nasty-syrup-fiction-voice-size-when-render-certain-amateur |  
+| bip_39_word_dash_12 | best-kitten-nasty-syrup-fiction-voice-size-when-render-certain-amateur-atom |  
+| bip_39_word_dash_2 | best-kitten |  
+| bip_39_word_dash_3 | best-kitten-nasty |  
+| bip_39_word_dash_4 | best-kitten-nasty-syrup |  
+| bip_39_word_dash_5 | best-kitten-nasty-syrup-fiction |  
+| bip_39_word_dash_6 | best-kitten-nasty-syrup-fiction-voice |  
+| bip_39_word_dash_7 | best-kitten-nasty-syrup-fiction-voice-size |  
+| bip_39_word_dash_8 | best-kitten-nasty-syrup-fiction-voice-size-when |  
+| bip_39_word_dash_9 | best-kitten-nasty-syrup-fiction-voice-size-when-render |  
 | bip_39_word_new_br_1 | best |  
 | bip_39_word_new_br_10 | best<br>kitten<br>nasty<br>syrup<br>fiction<br>voice<br>size<br>when<br>render<br>certain |  
 | bip_39_word_new_br_11 | best<br>kitten<br>nasty<br>syrup<br>fiction<br>voice<br>size<br>when<br>render<br>certain<br>amateur |  
@@ -147,6 +159,18 @@ render |
 | bip_39_word_space_7 | best kitten nasty syrup fiction voice size |  
 | bip_39_word_space_8 | best kitten nasty syrup fiction voice size when |  
 | bip_39_word_space_9 | best kitten nasty syrup fiction voice size when render |  
+| bip_39_word_underscore_1 | best |  
+| bip_39_word_underscore_10 | best_kitten_nasty_syrup_fiction_voice_size_when_render_certain |  
+| bip_39_word_underscore_11 | best_kitten_nasty_syrup_fiction_voice_size_when_render_certain_amateur |  
+| bip_39_word_underscore_12 | best_kitten_nasty_syrup_fiction_voice_size_when_render_certain_amateur_atom |  
+| bip_39_word_underscore_2 | best_kitten |  
+| bip_39_word_underscore_3 | best_kitten_nasty |  
+| bip_39_word_underscore_4 | best_kitten_nasty_syrup |  
+| bip_39_word_underscore_5 | best_kitten_nasty_syrup_fiction |  
+| bip_39_word_underscore_6 | best_kitten_nasty_syrup_fiction_voice |  
+| bip_39_word_underscore_7 | best_kitten_nasty_syrup_fiction_voice_size |  
+| bip_39_word_underscore_8 | best_kitten_nasty_syrup_fiction_voice_size_when |  
+| bip_39_word_underscore_9 | best_kitten_nasty_syrup_fiction_voice_size_when_render |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

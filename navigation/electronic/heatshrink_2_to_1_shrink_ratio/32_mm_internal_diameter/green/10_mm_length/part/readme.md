@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bird |  
+| bip_39_word_dash_10 | bird-silent-next-author-exchange-sibling-habit-brief-require-reveal |  
+| bip_39_word_dash_11 | bird-silent-next-author-exchange-sibling-habit-brief-require-reveal-wave |  
+| bip_39_word_dash_12 | bird-silent-next-author-exchange-sibling-habit-brief-require-reveal-wave-arrest |  
+| bip_39_word_dash_2 | bird-silent |  
+| bip_39_word_dash_3 | bird-silent-next |  
+| bip_39_word_dash_4 | bird-silent-next-author |  
+| bip_39_word_dash_5 | bird-silent-next-author-exchange |  
+| bip_39_word_dash_6 | bird-silent-next-author-exchange-sibling |  
+| bip_39_word_dash_7 | bird-silent-next-author-exchange-sibling-habit |  
+| bip_39_word_dash_8 | bird-silent-next-author-exchange-sibling-habit-brief |  
+| bip_39_word_dash_9 | bird-silent-next-author-exchange-sibling-habit-brief-require |  
 | bip_39_word_new_br_1 | bird |  
 | bip_39_word_new_br_10 | bird<br>silent<br>next<br>author<br>exchange<br>sibling<br>habit<br>brief<br>require<br>reveal |  
 | bip_39_word_new_br_11 | bird<br>silent<br>next<br>author<br>exchange<br>sibling<br>habit<br>brief<br>require<br>reveal<br>wave |  
@@ -147,6 +159,18 @@ require |
 | bip_39_word_space_7 | bird silent next author exchange sibling habit |  
 | bip_39_word_space_8 | bird silent next author exchange sibling habit brief |  
 | bip_39_word_space_9 | bird silent next author exchange sibling habit brief require |  
+| bip_39_word_underscore_1 | bird |  
+| bip_39_word_underscore_10 | bird_silent_next_author_exchange_sibling_habit_brief_require_reveal |  
+| bip_39_word_underscore_11 | bird_silent_next_author_exchange_sibling_habit_brief_require_reveal_wave |  
+| bip_39_word_underscore_12 | bird_silent_next_author_exchange_sibling_habit_brief_require_reveal_wave_arrest |  
+| bip_39_word_underscore_2 | bird_silent |  
+| bip_39_word_underscore_3 | bird_silent_next |  
+| bip_39_word_underscore_4 | bird_silent_next_author |  
+| bip_39_word_underscore_5 | bird_silent_next_author_exchange |  
+| bip_39_word_underscore_6 | bird_silent_next_author_exchange_sibling |  
+| bip_39_word_underscore_7 | bird_silent_next_author_exchange_sibling_habit |  
+| bip_39_word_underscore_8 | bird_silent_next_author_exchange_sibling_habit_brief |  
+| bip_39_word_underscore_9 | bird_silent_next_author_exchange_sibling_habit_brief_require |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

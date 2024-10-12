@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jealous |  
+| bip_39_word_dash_10 | jealous-noise-motor-creek-chase-struggle-wave-region-cotton-soccer |  
+| bip_39_word_dash_11 | jealous-noise-motor-creek-chase-struggle-wave-region-cotton-soccer-solar |  
+| bip_39_word_dash_12 | jealous-noise-motor-creek-chase-struggle-wave-region-cotton-soccer-solar-affair |  
+| bip_39_word_dash_2 | jealous-noise |  
+| bip_39_word_dash_3 | jealous-noise-motor |  
+| bip_39_word_dash_4 | jealous-noise-motor-creek |  
+| bip_39_word_dash_5 | jealous-noise-motor-creek-chase |  
+| bip_39_word_dash_6 | jealous-noise-motor-creek-chase-struggle |  
+| bip_39_word_dash_7 | jealous-noise-motor-creek-chase-struggle-wave |  
+| bip_39_word_dash_8 | jealous-noise-motor-creek-chase-struggle-wave-region |  
+| bip_39_word_dash_9 | jealous-noise-motor-creek-chase-struggle-wave-region-cotton |  
 | bip_39_word_new_br_1 | jealous |  
 | bip_39_word_new_br_10 | jealous<br>noise<br>motor<br>creek<br>chase<br>struggle<br>wave<br>region<br>cotton<br>soccer |  
 | bip_39_word_new_br_11 | jealous<br>noise<br>motor<br>creek<br>chase<br>struggle<br>wave<br>region<br>cotton<br>soccer<br>solar |  
@@ -147,6 +159,18 @@ cotton |
 | bip_39_word_space_7 | jealous noise motor creek chase struggle wave |  
 | bip_39_word_space_8 | jealous noise motor creek chase struggle wave region |  
 | bip_39_word_space_9 | jealous noise motor creek chase struggle wave region cotton |  
+| bip_39_word_underscore_1 | jealous |  
+| bip_39_word_underscore_10 | jealous_noise_motor_creek_chase_struggle_wave_region_cotton_soccer |  
+| bip_39_word_underscore_11 | jealous_noise_motor_creek_chase_struggle_wave_region_cotton_soccer_solar |  
+| bip_39_word_underscore_12 | jealous_noise_motor_creek_chase_struggle_wave_region_cotton_soccer_solar_affair |  
+| bip_39_word_underscore_2 | jealous_noise |  
+| bip_39_word_underscore_3 | jealous_noise_motor |  
+| bip_39_word_underscore_4 | jealous_noise_motor_creek |  
+| bip_39_word_underscore_5 | jealous_noise_motor_creek_chase |  
+| bip_39_word_underscore_6 | jealous_noise_motor_creek_chase_struggle |  
+| bip_39_word_underscore_7 | jealous_noise_motor_creek_chase_struggle_wave |  
+| bip_39_word_underscore_8 | jealous_noise_motor_creek_chase_struggle_wave_region |  
+| bip_39_word_underscore_9 | jealous_noise_motor_creek_chase_struggle_wave_region_cotton |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

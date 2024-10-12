@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | outside |  
+| bip_39_word_dash_10 | outside-nasty-donor-drink-major-youth-used-purpose-empower-play |  
+| bip_39_word_dash_11 | outside-nasty-donor-drink-major-youth-used-purpose-empower-play-play |  
+| bip_39_word_dash_12 | outside-nasty-donor-drink-major-youth-used-purpose-empower-play-play-album |  
+| bip_39_word_dash_2 | outside-nasty |  
+| bip_39_word_dash_3 | outside-nasty-donor |  
+| bip_39_word_dash_4 | outside-nasty-donor-drink |  
+| bip_39_word_dash_5 | outside-nasty-donor-drink-major |  
+| bip_39_word_dash_6 | outside-nasty-donor-drink-major-youth |  
+| bip_39_word_dash_7 | outside-nasty-donor-drink-major-youth-used |  
+| bip_39_word_dash_8 | outside-nasty-donor-drink-major-youth-used-purpose |  
+| bip_39_word_dash_9 | outside-nasty-donor-drink-major-youth-used-purpose-empower |  
 | bip_39_word_new_br_1 | outside |  
 | bip_39_word_new_br_10 | outside<br>nasty<br>donor<br>drink<br>major<br>youth<br>used<br>purpose<br>empower<br>play |  
 | bip_39_word_new_br_11 | outside<br>nasty<br>donor<br>drink<br>major<br>youth<br>used<br>purpose<br>empower<br>play<br>play |  
@@ -147,6 +159,18 @@ empower |
 | bip_39_word_space_7 | outside nasty donor drink major youth used |  
 | bip_39_word_space_8 | outside nasty donor drink major youth used purpose |  
 | bip_39_word_space_9 | outside nasty donor drink major youth used purpose empower |  
+| bip_39_word_underscore_1 | outside |  
+| bip_39_word_underscore_10 | outside_nasty_donor_drink_major_youth_used_purpose_empower_play |  
+| bip_39_word_underscore_11 | outside_nasty_donor_drink_major_youth_used_purpose_empower_play_play |  
+| bip_39_word_underscore_12 | outside_nasty_donor_drink_major_youth_used_purpose_empower_play_play_album |  
+| bip_39_word_underscore_2 | outside_nasty |  
+| bip_39_word_underscore_3 | outside_nasty_donor |  
+| bip_39_word_underscore_4 | outside_nasty_donor_drink |  
+| bip_39_word_underscore_5 | outside_nasty_donor_drink_major |  
+| bip_39_word_underscore_6 | outside_nasty_donor_drink_major_youth |  
+| bip_39_word_underscore_7 | outside_nasty_donor_drink_major_youth_used |  
+| bip_39_word_underscore_8 | outside_nasty_donor_drink_major_youth_used_purpose |  
+| bip_39_word_underscore_9 | outside_nasty_donor_drink_major_youth_used_purpose_empower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

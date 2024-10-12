@@ -1,3 +1,15 @@
+bip_39_word_dash_1: advice
+bip_39_word_dash_10: advice-blind-label-wheat-aware-jeans-wide-promote-document-license
+bip_39_word_dash_11: advice-blind-label-wheat-aware-jeans-wide-promote-document-license-chicken
+bip_39_word_dash_12: advice-blind-label-wheat-aware-jeans-wide-promote-document-license-chicken-above
+bip_39_word_dash_2: advice-blind
+bip_39_word_dash_3: advice-blind-label
+bip_39_word_dash_4: advice-blind-label-wheat
+bip_39_word_dash_5: advice-blind-label-wheat-aware
+bip_39_word_dash_6: advice-blind-label-wheat-aware-jeans
+bip_39_word_dash_7: advice-blind-label-wheat-aware-jeans-wide
+bip_39_word_dash_8: advice-blind-label-wheat-aware-jeans-wide-promote
+bip_39_word_dash_9: advice-blind-label-wheat-aware-jeans-wide-promote-document
 bip_39_word_new_br_1: advice
 bip_39_word_new_br_10: advice<br>blind<br>label<br>wheat<br>aware<br>jeans<br>wide<br>promote<br>document<br>license
 bip_39_word_new_br_11: advice<br>blind<br>label<br>wheat<br>aware<br>jeans<br>wide<br>promote<br>document<br>license<br>chicken
@@ -193,6 +205,18 @@ bip_39_word_space_6: advice blind label wheat aware jeans
 bip_39_word_space_7: advice blind label wheat aware jeans wide
 bip_39_word_space_8: advice blind label wheat aware jeans wide promote
 bip_39_word_space_9: advice blind label wheat aware jeans wide promote document
+bip_39_word_underscore_1: advice
+bip_39_word_underscore_10: advice_blind_label_wheat_aware_jeans_wide_promote_document_license
+bip_39_word_underscore_11: advice_blind_label_wheat_aware_jeans_wide_promote_document_license_chicken
+bip_39_word_underscore_12: advice_blind_label_wheat_aware_jeans_wide_promote_document_license_chicken_above
+bip_39_word_underscore_2: advice_blind
+bip_39_word_underscore_3: advice_blind_label
+bip_39_word_underscore_4: advice_blind_label_wheat
+bip_39_word_underscore_5: advice_blind_label_wheat_aware
+bip_39_word_underscore_6: advice_blind_label_wheat_aware_jeans
+bip_39_word_underscore_7: advice_blind_label_wheat_aware_jeans_wide
+bip_39_word_underscore_8: advice_blind_label_wheat_aware_jeans_wide_promote
+bip_39_word_underscore_9: advice_blind_label_wheat_aware_jeans_wide_promote_document
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

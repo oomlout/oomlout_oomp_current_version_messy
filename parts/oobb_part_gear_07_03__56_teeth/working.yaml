@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quick
+bip_39_word_dash_10: quick-fiction-unveil-clump-repair-quit-cube-leaf-develop-muscle
+bip_39_word_dash_11: quick-fiction-unveil-clump-repair-quit-cube-leaf-develop-muscle-fork
+bip_39_word_dash_12: quick-fiction-unveil-clump-repair-quit-cube-leaf-develop-muscle-fork-acoustic
+bip_39_word_dash_2: quick-fiction
+bip_39_word_dash_3: quick-fiction-unveil
+bip_39_word_dash_4: quick-fiction-unveil-clump
+bip_39_word_dash_5: quick-fiction-unveil-clump-repair
+bip_39_word_dash_6: quick-fiction-unveil-clump-repair-quit
+bip_39_word_dash_7: quick-fiction-unveil-clump-repair-quit-cube
+bip_39_word_dash_8: quick-fiction-unveil-clump-repair-quit-cube-leaf
+bip_39_word_dash_9: quick-fiction-unveil-clump-repair-quit-cube-leaf-develop
 bip_39_word_new_br_1: quick
 bip_39_word_new_br_10: quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf<br>develop<br>muscle
 bip_39_word_new_br_11: quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf<br>develop<br>muscle<br>fork
@@ -193,6 +205,18 @@ bip_39_word_space_6: quick fiction unveil clump repair quit
 bip_39_word_space_7: quick fiction unveil clump repair quit cube
 bip_39_word_space_8: quick fiction unveil clump repair quit cube leaf
 bip_39_word_space_9: quick fiction unveil clump repair quit cube leaf develop
+bip_39_word_underscore_1: quick
+bip_39_word_underscore_10: quick_fiction_unveil_clump_repair_quit_cube_leaf_develop_muscle
+bip_39_word_underscore_11: quick_fiction_unveil_clump_repair_quit_cube_leaf_develop_muscle_fork
+bip_39_word_underscore_12: quick_fiction_unveil_clump_repair_quit_cube_leaf_develop_muscle_fork_acoustic
+bip_39_word_underscore_2: quick_fiction
+bip_39_word_underscore_3: quick_fiction_unveil
+bip_39_word_underscore_4: quick_fiction_unveil_clump
+bip_39_word_underscore_5: quick_fiction_unveil_clump_repair
+bip_39_word_underscore_6: quick_fiction_unveil_clump_repair_quit
+bip_39_word_underscore_7: quick_fiction_unveil_clump_repair_quit_cube
+bip_39_word_underscore_8: quick_fiction_unveil_clump_repair_quit_cube_leaf
+bip_39_word_underscore_9: quick_fiction_unveil_clump_repair_quit_cube_leaf_develop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

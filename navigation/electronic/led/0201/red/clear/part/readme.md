@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | motor |  
+| bip_39_word_dash_10 | motor-memory-patient-choice-siege-mobile-lazy-mouse-mosquito-grow |  
+| bip_39_word_dash_11 | motor-memory-patient-choice-siege-mobile-lazy-mouse-mosquito-grow-truck |  
+| bip_39_word_dash_12 | motor-memory-patient-choice-siege-mobile-lazy-mouse-mosquito-grow-truck-address |  
+| bip_39_word_dash_2 | motor-memory |  
+| bip_39_word_dash_3 | motor-memory-patient |  
+| bip_39_word_dash_4 | motor-memory-patient-choice |  
+| bip_39_word_dash_5 | motor-memory-patient-choice-siege |  
+| bip_39_word_dash_6 | motor-memory-patient-choice-siege-mobile |  
+| bip_39_word_dash_7 | motor-memory-patient-choice-siege-mobile-lazy |  
+| bip_39_word_dash_8 | motor-memory-patient-choice-siege-mobile-lazy-mouse |  
+| bip_39_word_dash_9 | motor-memory-patient-choice-siege-mobile-lazy-mouse-mosquito |  
 | bip_39_word_new_br_1 | motor |  
 | bip_39_word_new_br_10 | motor<br>memory<br>patient<br>choice<br>siege<br>mobile<br>lazy<br>mouse<br>mosquito<br>grow |  
 | bip_39_word_new_br_11 | motor<br>memory<br>patient<br>choice<br>siege<br>mobile<br>lazy<br>mouse<br>mosquito<br>grow<br>truck |  
@@ -147,6 +159,18 @@ mosquito |
 | bip_39_word_space_7 | motor memory patient choice siege mobile lazy |  
 | bip_39_word_space_8 | motor memory patient choice siege mobile lazy mouse |  
 | bip_39_word_space_9 | motor memory patient choice siege mobile lazy mouse mosquito |  
+| bip_39_word_underscore_1 | motor |  
+| bip_39_word_underscore_10 | motor_memory_patient_choice_siege_mobile_lazy_mouse_mosquito_grow |  
+| bip_39_word_underscore_11 | motor_memory_patient_choice_siege_mobile_lazy_mouse_mosquito_grow_truck |  
+| bip_39_word_underscore_12 | motor_memory_patient_choice_siege_mobile_lazy_mouse_mosquito_grow_truck_address |  
+| bip_39_word_underscore_2 | motor_memory |  
+| bip_39_word_underscore_3 | motor_memory_patient |  
+| bip_39_word_underscore_4 | motor_memory_patient_choice |  
+| bip_39_word_underscore_5 | motor_memory_patient_choice_siege |  
+| bip_39_word_underscore_6 | motor_memory_patient_choice_siege_mobile |  
+| bip_39_word_underscore_7 | motor_memory_patient_choice_siege_mobile_lazy |  
+| bip_39_word_underscore_8 | motor_memory_patient_choice_siege_mobile_lazy_mouse |  
+| bip_39_word_underscore_9 | motor_memory_patient_choice_siege_mobile_lazy_mouse_mosquito |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

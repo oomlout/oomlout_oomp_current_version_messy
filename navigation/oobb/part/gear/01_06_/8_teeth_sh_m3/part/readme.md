@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flower |  
+| bip_39_word_dash_10 | flower-poet-claw-afraid-front-ancient-height-virtual-ignore-six |  
+| bip_39_word_dash_11 | flower-poet-claw-afraid-front-ancient-height-virtual-ignore-six-flavor |  
+| bip_39_word_dash_12 | flower-poet-claw-afraid-front-ancient-height-virtual-ignore-six-flavor-able |  
+| bip_39_word_dash_2 | flower-poet |  
+| bip_39_word_dash_3 | flower-poet-claw |  
+| bip_39_word_dash_4 | flower-poet-claw-afraid |  
+| bip_39_word_dash_5 | flower-poet-claw-afraid-front |  
+| bip_39_word_dash_6 | flower-poet-claw-afraid-front-ancient |  
+| bip_39_word_dash_7 | flower-poet-claw-afraid-front-ancient-height |  
+| bip_39_word_dash_8 | flower-poet-claw-afraid-front-ancient-height-virtual |  
+| bip_39_word_dash_9 | flower-poet-claw-afraid-front-ancient-height-virtual-ignore |  
 | bip_39_word_new_br_1 | flower |  
 | bip_39_word_new_br_10 | flower<br>poet<br>claw<br>afraid<br>front<br>ancient<br>height<br>virtual<br>ignore<br>six |  
 | bip_39_word_new_br_11 | flower<br>poet<br>claw<br>afraid<br>front<br>ancient<br>height<br>virtual<br>ignore<br>six<br>flavor |  
@@ -147,6 +159,18 @@ ignore |
 | bip_39_word_space_7 | flower poet claw afraid front ancient height |  
 | bip_39_word_space_8 | flower poet claw afraid front ancient height virtual |  
 | bip_39_word_space_9 | flower poet claw afraid front ancient height virtual ignore |  
+| bip_39_word_underscore_1 | flower |  
+| bip_39_word_underscore_10 | flower_poet_claw_afraid_front_ancient_height_virtual_ignore_six |  
+| bip_39_word_underscore_11 | flower_poet_claw_afraid_front_ancient_height_virtual_ignore_six_flavor |  
+| bip_39_word_underscore_12 | flower_poet_claw_afraid_front_ancient_height_virtual_ignore_six_flavor_able |  
+| bip_39_word_underscore_2 | flower_poet |  
+| bip_39_word_underscore_3 | flower_poet_claw |  
+| bip_39_word_underscore_4 | flower_poet_claw_afraid |  
+| bip_39_word_underscore_5 | flower_poet_claw_afraid_front |  
+| bip_39_word_underscore_6 | flower_poet_claw_afraid_front_ancient |  
+| bip_39_word_underscore_7 | flower_poet_claw_afraid_front_ancient_height |  
+| bip_39_word_underscore_8 | flower_poet_claw_afraid_front_ancient_height_virtual |  
+| bip_39_word_underscore_9 | flower_poet_claw_afraid_front_ancient_height_virtual_ignore |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

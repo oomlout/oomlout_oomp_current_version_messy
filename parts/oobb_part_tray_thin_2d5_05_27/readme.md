@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | labor |  
+| bip_39_word_dash_10 | labor-volcano-category-rack-road-enforce-major-size-protect-sell |  
+| bip_39_word_dash_11 | labor-volcano-category-rack-road-enforce-major-size-protect-sell-canoe |  
+| bip_39_word_dash_12 | labor-volcano-category-rack-road-enforce-major-size-protect-sell-canoe-animal |  
+| bip_39_word_dash_2 | labor-volcano |  
+| bip_39_word_dash_3 | labor-volcano-category |  
+| bip_39_word_dash_4 | labor-volcano-category-rack |  
+| bip_39_word_dash_5 | labor-volcano-category-rack-road |  
+| bip_39_word_dash_6 | labor-volcano-category-rack-road-enforce |  
+| bip_39_word_dash_7 | labor-volcano-category-rack-road-enforce-major |  
+| bip_39_word_dash_8 | labor-volcano-category-rack-road-enforce-major-size |  
+| bip_39_word_dash_9 | labor-volcano-category-rack-road-enforce-major-size-protect |  
 | bip_39_word_new_br_1 | labor |  
 | bip_39_word_new_br_10 | labor<br>volcano<br>category<br>rack<br>road<br>enforce<br>major<br>size<br>protect<br>sell |  
 | bip_39_word_new_br_11 | labor<br>volcano<br>category<br>rack<br>road<br>enforce<br>major<br>size<br>protect<br>sell<br>canoe |  
@@ -147,6 +159,18 @@ protect |
 | bip_39_word_space_7 | labor volcano category rack road enforce major |  
 | bip_39_word_space_8 | labor volcano category rack road enforce major size |  
 | bip_39_word_space_9 | labor volcano category rack road enforce major size protect |  
+| bip_39_word_underscore_1 | labor |  
+| bip_39_word_underscore_10 | labor_volcano_category_rack_road_enforce_major_size_protect_sell |  
+| bip_39_word_underscore_11 | labor_volcano_category_rack_road_enforce_major_size_protect_sell_canoe |  
+| bip_39_word_underscore_12 | labor_volcano_category_rack_road_enforce_major_size_protect_sell_canoe_animal |  
+| bip_39_word_underscore_2 | labor_volcano |  
+| bip_39_word_underscore_3 | labor_volcano_category |  
+| bip_39_word_underscore_4 | labor_volcano_category_rack |  
+| bip_39_word_underscore_5 | labor_volcano_category_rack_road |  
+| bip_39_word_underscore_6 | labor_volcano_category_rack_road_enforce |  
+| bip_39_word_underscore_7 | labor_volcano_category_rack_road_enforce_major |  
+| bip_39_word_underscore_8 | labor_volcano_category_rack_road_enforce_major_size |  
+| bip_39_word_underscore_9 | labor_volcano_category_rack_road_enforce_major_size_protect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

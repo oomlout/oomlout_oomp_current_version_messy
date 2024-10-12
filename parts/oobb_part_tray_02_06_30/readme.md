@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gap |  
+| bip_39_word_dash_10 | gap-foot-scatter-bounce-cash-decade-jaguar-travel-cage-cool |  
+| bip_39_word_dash_11 | gap-foot-scatter-bounce-cash-decade-jaguar-travel-cage-cool-despair |  
+| bip_39_word_dash_12 | gap-foot-scatter-bounce-cash-decade-jaguar-travel-cage-cool-despair-arctic |  
+| bip_39_word_dash_2 | gap-foot |  
+| bip_39_word_dash_3 | gap-foot-scatter |  
+| bip_39_word_dash_4 | gap-foot-scatter-bounce |  
+| bip_39_word_dash_5 | gap-foot-scatter-bounce-cash |  
+| bip_39_word_dash_6 | gap-foot-scatter-bounce-cash-decade |  
+| bip_39_word_dash_7 | gap-foot-scatter-bounce-cash-decade-jaguar |  
+| bip_39_word_dash_8 | gap-foot-scatter-bounce-cash-decade-jaguar-travel |  
+| bip_39_word_dash_9 | gap-foot-scatter-bounce-cash-decade-jaguar-travel-cage |  
 | bip_39_word_new_br_1 | gap |  
 | bip_39_word_new_br_10 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool |  
 | bip_39_word_new_br_11 | gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool<br>despair |  
@@ -147,6 +159,18 @@ cage |
 | bip_39_word_space_7 | gap foot scatter bounce cash decade jaguar |  
 | bip_39_word_space_8 | gap foot scatter bounce cash decade jaguar travel |  
 | bip_39_word_space_9 | gap foot scatter bounce cash decade jaguar travel cage |  
+| bip_39_word_underscore_1 | gap |  
+| bip_39_word_underscore_10 | gap_foot_scatter_bounce_cash_decade_jaguar_travel_cage_cool |  
+| bip_39_word_underscore_11 | gap_foot_scatter_bounce_cash_decade_jaguar_travel_cage_cool_despair |  
+| bip_39_word_underscore_12 | gap_foot_scatter_bounce_cash_decade_jaguar_travel_cage_cool_despair_arctic |  
+| bip_39_word_underscore_2 | gap_foot |  
+| bip_39_word_underscore_3 | gap_foot_scatter |  
+| bip_39_word_underscore_4 | gap_foot_scatter_bounce |  
+| bip_39_word_underscore_5 | gap_foot_scatter_bounce_cash |  
+| bip_39_word_underscore_6 | gap_foot_scatter_bounce_cash_decade |  
+| bip_39_word_underscore_7 | gap_foot_scatter_bounce_cash_decade_jaguar |  
+| bip_39_word_underscore_8 | gap_foot_scatter_bounce_cash_decade_jaguar_travel |  
+| bip_39_word_underscore_9 | gap_foot_scatter_bounce_cash_decade_jaguar_travel_cage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

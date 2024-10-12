@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | other |  
+| bip_39_word_dash_10 | other-raccoon-lawn-spoon-trade-before-enforce-fame-auto-horn |  
+| bip_39_word_dash_11 | other-raccoon-lawn-spoon-trade-before-enforce-fame-auto-horn-hat |  
+| bip_39_word_dash_12 | other-raccoon-lawn-spoon-trade-before-enforce-fame-auto-horn-hat-amount |  
+| bip_39_word_dash_2 | other-raccoon |  
+| bip_39_word_dash_3 | other-raccoon-lawn |  
+| bip_39_word_dash_4 | other-raccoon-lawn-spoon |  
+| bip_39_word_dash_5 | other-raccoon-lawn-spoon-trade |  
+| bip_39_word_dash_6 | other-raccoon-lawn-spoon-trade-before |  
+| bip_39_word_dash_7 | other-raccoon-lawn-spoon-trade-before-enforce |  
+| bip_39_word_dash_8 | other-raccoon-lawn-spoon-trade-before-enforce-fame |  
+| bip_39_word_dash_9 | other-raccoon-lawn-spoon-trade-before-enforce-fame-auto |  
 | bip_39_word_new_br_1 | other |  
 | bip_39_word_new_br_10 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn |  
 | bip_39_word_new_br_11 | other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn<br>hat |  
@@ -147,6 +159,18 @@ auto |
 | bip_39_word_space_7 | other raccoon lawn spoon trade before enforce |  
 | bip_39_word_space_8 | other raccoon lawn spoon trade before enforce fame |  
 | bip_39_word_space_9 | other raccoon lawn spoon trade before enforce fame auto |  
+| bip_39_word_underscore_1 | other |  
+| bip_39_word_underscore_10 | other_raccoon_lawn_spoon_trade_before_enforce_fame_auto_horn |  
+| bip_39_word_underscore_11 | other_raccoon_lawn_spoon_trade_before_enforce_fame_auto_horn_hat |  
+| bip_39_word_underscore_12 | other_raccoon_lawn_spoon_trade_before_enforce_fame_auto_horn_hat_amount |  
+| bip_39_word_underscore_2 | other_raccoon |  
+| bip_39_word_underscore_3 | other_raccoon_lawn |  
+| bip_39_word_underscore_4 | other_raccoon_lawn_spoon |  
+| bip_39_word_underscore_5 | other_raccoon_lawn_spoon_trade |  
+| bip_39_word_underscore_6 | other_raccoon_lawn_spoon_trade_before |  
+| bip_39_word_underscore_7 | other_raccoon_lawn_spoon_trade_before_enforce |  
+| bip_39_word_underscore_8 | other_raccoon_lawn_spoon_trade_before_enforce_fame |  
+| bip_39_word_underscore_9 | other_raccoon_lawn_spoon_trade_before_enforce_fame_auto |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: height
+bip_39_word_dash_10: height-disorder-multiply-stairs-raven-clog-episode-famous-coral-crucial
+bip_39_word_dash_11: height-disorder-multiply-stairs-raven-clog-episode-famous-coral-crucial-hungry
+bip_39_word_dash_12: height-disorder-multiply-stairs-raven-clog-episode-famous-coral-crucial-hungry-april
+bip_39_word_dash_2: height-disorder
+bip_39_word_dash_3: height-disorder-multiply
+bip_39_word_dash_4: height-disorder-multiply-stairs
+bip_39_word_dash_5: height-disorder-multiply-stairs-raven
+bip_39_word_dash_6: height-disorder-multiply-stairs-raven-clog
+bip_39_word_dash_7: height-disorder-multiply-stairs-raven-clog-episode
+bip_39_word_dash_8: height-disorder-multiply-stairs-raven-clog-episode-famous
+bip_39_word_dash_9: height-disorder-multiply-stairs-raven-clog-episode-famous-coral
 bip_39_word_new_br_1: height
 bip_39_word_new_br_10: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous<br>coral<br>crucial
 bip_39_word_new_br_11: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous<br>coral<br>crucial<br>hungry
@@ -194,6 +206,18 @@ bip_39_word_space_6: height disorder multiply stairs raven clog
 bip_39_word_space_7: height disorder multiply stairs raven clog episode
 bip_39_word_space_8: height disorder multiply stairs raven clog episode famous
 bip_39_word_space_9: height disorder multiply stairs raven clog episode famous coral
+bip_39_word_underscore_1: height
+bip_39_word_underscore_10: height_disorder_multiply_stairs_raven_clog_episode_famous_coral_crucial
+bip_39_word_underscore_11: height_disorder_multiply_stairs_raven_clog_episode_famous_coral_crucial_hungry
+bip_39_word_underscore_12: height_disorder_multiply_stairs_raven_clog_episode_famous_coral_crucial_hungry_april
+bip_39_word_underscore_2: height_disorder
+bip_39_word_underscore_3: height_disorder_multiply
+bip_39_word_underscore_4: height_disorder_multiply_stairs
+bip_39_word_underscore_5: height_disorder_multiply_stairs_raven
+bip_39_word_underscore_6: height_disorder_multiply_stairs_raven_clog
+bip_39_word_underscore_7: height_disorder_multiply_stairs_raven_clog_episode
+bip_39_word_underscore_8: height_disorder_multiply_stairs_raven_clog_episode_famous
+bip_39_word_underscore_9: height_disorder_multiply_stairs_raven_clog_episode_famous_coral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

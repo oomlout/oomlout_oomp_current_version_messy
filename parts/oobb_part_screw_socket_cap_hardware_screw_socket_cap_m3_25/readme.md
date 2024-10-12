@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aim |  
+| bip_39_word_dash_10 | aim-uphold-napkin-imitate-kit-timber-crucial-insect-language-deputy |  
+| bip_39_word_dash_11 | aim-uphold-napkin-imitate-kit-timber-crucial-insect-language-deputy-rare |  
+| bip_39_word_dash_12 | aim-uphold-napkin-imitate-kit-timber-crucial-insect-language-deputy-rare-abstract |  
+| bip_39_word_dash_2 | aim-uphold |  
+| bip_39_word_dash_3 | aim-uphold-napkin |  
+| bip_39_word_dash_4 | aim-uphold-napkin-imitate |  
+| bip_39_word_dash_5 | aim-uphold-napkin-imitate-kit |  
+| bip_39_word_dash_6 | aim-uphold-napkin-imitate-kit-timber |  
+| bip_39_word_dash_7 | aim-uphold-napkin-imitate-kit-timber-crucial |  
+| bip_39_word_dash_8 | aim-uphold-napkin-imitate-kit-timber-crucial-insect |  
+| bip_39_word_dash_9 | aim-uphold-napkin-imitate-kit-timber-crucial-insect-language |  
 | bip_39_word_new_br_1 | aim |  
 | bip_39_word_new_br_10 | aim<br>uphold<br>napkin<br>imitate<br>kit<br>timber<br>crucial<br>insect<br>language<br>deputy |  
 | bip_39_word_new_br_11 | aim<br>uphold<br>napkin<br>imitate<br>kit<br>timber<br>crucial<br>insect<br>language<br>deputy<br>rare |  
@@ -147,6 +159,18 @@ language |
 | bip_39_word_space_7 | aim uphold napkin imitate kit timber crucial |  
 | bip_39_word_space_8 | aim uphold napkin imitate kit timber crucial insect |  
 | bip_39_word_space_9 | aim uphold napkin imitate kit timber crucial insect language |  
+| bip_39_word_underscore_1 | aim |  
+| bip_39_word_underscore_10 | aim_uphold_napkin_imitate_kit_timber_crucial_insect_language_deputy |  
+| bip_39_word_underscore_11 | aim_uphold_napkin_imitate_kit_timber_crucial_insect_language_deputy_rare |  
+| bip_39_word_underscore_12 | aim_uphold_napkin_imitate_kit_timber_crucial_insect_language_deputy_rare_abstract |  
+| bip_39_word_underscore_2 | aim_uphold |  
+| bip_39_word_underscore_3 | aim_uphold_napkin |  
+| bip_39_word_underscore_4 | aim_uphold_napkin_imitate |  
+| bip_39_word_underscore_5 | aim_uphold_napkin_imitate_kit |  
+| bip_39_word_underscore_6 | aim_uphold_napkin_imitate_kit_timber |  
+| bip_39_word_underscore_7 | aim_uphold_napkin_imitate_kit_timber_crucial |  
+| bip_39_word_underscore_8 | aim_uphold_napkin_imitate_kit_timber_crucial_insect |  
+| bip_39_word_underscore_9 | aim_uphold_napkin_imitate_kit_timber_crucial_insect_language |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

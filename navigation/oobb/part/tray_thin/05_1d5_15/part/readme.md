@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tunnel |  
+| bip_39_word_dash_10 | tunnel-bubble-early-cram-arena-tray-plastic-bird-toilet-music |  
+| bip_39_word_dash_11 | tunnel-bubble-early-cram-arena-tray-plastic-bird-toilet-music-render |  
+| bip_39_word_dash_12 | tunnel-bubble-early-cram-arena-tray-plastic-bird-toilet-music-render-alter |  
+| bip_39_word_dash_2 | tunnel-bubble |  
+| bip_39_word_dash_3 | tunnel-bubble-early |  
+| bip_39_word_dash_4 | tunnel-bubble-early-cram |  
+| bip_39_word_dash_5 | tunnel-bubble-early-cram-arena |  
+| bip_39_word_dash_6 | tunnel-bubble-early-cram-arena-tray |  
+| bip_39_word_dash_7 | tunnel-bubble-early-cram-arena-tray-plastic |  
+| bip_39_word_dash_8 | tunnel-bubble-early-cram-arena-tray-plastic-bird |  
+| bip_39_word_dash_9 | tunnel-bubble-early-cram-arena-tray-plastic-bird-toilet |  
 | bip_39_word_new_br_1 | tunnel |  
 | bip_39_word_new_br_10 | tunnel<br>bubble<br>early<br>cram<br>arena<br>tray<br>plastic<br>bird<br>toilet<br>music |  
 | bip_39_word_new_br_11 | tunnel<br>bubble<br>early<br>cram<br>arena<br>tray<br>plastic<br>bird<br>toilet<br>music<br>render |  
@@ -147,6 +159,18 @@ toilet |
 | bip_39_word_space_7 | tunnel bubble early cram arena tray plastic |  
 | bip_39_word_space_8 | tunnel bubble early cram arena tray plastic bird |  
 | bip_39_word_space_9 | tunnel bubble early cram arena tray plastic bird toilet |  
+| bip_39_word_underscore_1 | tunnel |  
+| bip_39_word_underscore_10 | tunnel_bubble_early_cram_arena_tray_plastic_bird_toilet_music |  
+| bip_39_word_underscore_11 | tunnel_bubble_early_cram_arena_tray_plastic_bird_toilet_music_render |  
+| bip_39_word_underscore_12 | tunnel_bubble_early_cram_arena_tray_plastic_bird_toilet_music_render_alter |  
+| bip_39_word_underscore_2 | tunnel_bubble |  
+| bip_39_word_underscore_3 | tunnel_bubble_early |  
+| bip_39_word_underscore_4 | tunnel_bubble_early_cram |  
+| bip_39_word_underscore_5 | tunnel_bubble_early_cram_arena |  
+| bip_39_word_underscore_6 | tunnel_bubble_early_cram_arena_tray |  
+| bip_39_word_underscore_7 | tunnel_bubble_early_cram_arena_tray_plastic |  
+| bip_39_word_underscore_8 | tunnel_bubble_early_cram_arena_tray_plastic_bird |  
+| bip_39_word_underscore_9 | tunnel_bubble_early_cram_arena_tray_plastic_bird_toilet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gap
+bip_39_word_dash_10: gap-correct-toy-bag-island-place-grape-seminar-eagle-delay
+bip_39_word_dash_11: gap-correct-toy-bag-island-place-grape-seminar-eagle-delay-obvious
+bip_39_word_dash_12: gap-correct-toy-bag-island-place-grape-seminar-eagle-delay-obvious-above
+bip_39_word_dash_2: gap-correct
+bip_39_word_dash_3: gap-correct-toy
+bip_39_word_dash_4: gap-correct-toy-bag
+bip_39_word_dash_5: gap-correct-toy-bag-island
+bip_39_word_dash_6: gap-correct-toy-bag-island-place
+bip_39_word_dash_7: gap-correct-toy-bag-island-place-grape
+bip_39_word_dash_8: gap-correct-toy-bag-island-place-grape-seminar
+bip_39_word_dash_9: gap-correct-toy-bag-island-place-grape-seminar-eagle
 bip_39_word_new_br_1: gap
 bip_39_word_new_br_10: gap<br>correct<br>toy<br>bag<br>island<br>place<br>grape<br>seminar<br>eagle<br>delay
 bip_39_word_new_br_11: gap<br>correct<br>toy<br>bag<br>island<br>place<br>grape<br>seminar<br>eagle<br>delay<br>obvious
@@ -192,6 +204,18 @@ bip_39_word_space_6: gap correct toy bag island place
 bip_39_word_space_7: gap correct toy bag island place grape
 bip_39_word_space_8: gap correct toy bag island place grape seminar
 bip_39_word_space_9: gap correct toy bag island place grape seminar eagle
+bip_39_word_underscore_1: gap
+bip_39_word_underscore_10: gap_correct_toy_bag_island_place_grape_seminar_eagle_delay
+bip_39_word_underscore_11: gap_correct_toy_bag_island_place_grape_seminar_eagle_delay_obvious
+bip_39_word_underscore_12: gap_correct_toy_bag_island_place_grape_seminar_eagle_delay_obvious_above
+bip_39_word_underscore_2: gap_correct
+bip_39_word_underscore_3: gap_correct_toy
+bip_39_word_underscore_4: gap_correct_toy_bag
+bip_39_word_underscore_5: gap_correct_toy_bag_island
+bip_39_word_underscore_6: gap_correct_toy_bag_island_place
+bip_39_word_underscore_7: gap_correct_toy_bag_island_place_grape
+bip_39_word_underscore_8: gap_correct_toy_bag_island_place_grape_seminar
+bip_39_word_underscore_9: gap_correct_toy_bag_island_place_grape_seminar_eagle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

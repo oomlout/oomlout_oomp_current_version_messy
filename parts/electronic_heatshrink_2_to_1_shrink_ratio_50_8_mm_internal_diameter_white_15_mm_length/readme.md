@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | doll |  
+| bip_39_word_dash_10 | doll-section-mad-lunar-forget-raw-film-mixed-lonely-wrong |  
+| bip_39_word_dash_11 | doll-section-mad-lunar-forget-raw-film-mixed-lonely-wrong-topic |  
+| bip_39_word_dash_12 | doll-section-mad-lunar-forget-raw-film-mixed-lonely-wrong-topic-arrest |  
+| bip_39_word_dash_2 | doll-section |  
+| bip_39_word_dash_3 | doll-section-mad |  
+| bip_39_word_dash_4 | doll-section-mad-lunar |  
+| bip_39_word_dash_5 | doll-section-mad-lunar-forget |  
+| bip_39_word_dash_6 | doll-section-mad-lunar-forget-raw |  
+| bip_39_word_dash_7 | doll-section-mad-lunar-forget-raw-film |  
+| bip_39_word_dash_8 | doll-section-mad-lunar-forget-raw-film-mixed |  
+| bip_39_word_dash_9 | doll-section-mad-lunar-forget-raw-film-mixed-lonely |  
 | bip_39_word_new_br_1 | doll |  
 | bip_39_word_new_br_10 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed<br>lonely<br>wrong |  
 | bip_39_word_new_br_11 | doll<br>section<br>mad<br>lunar<br>forget<br>raw<br>film<br>mixed<br>lonely<br>wrong<br>topic |  
@@ -147,6 +159,18 @@ lonely |
 | bip_39_word_space_7 | doll section mad lunar forget raw film |  
 | bip_39_word_space_8 | doll section mad lunar forget raw film mixed |  
 | bip_39_word_space_9 | doll section mad lunar forget raw film mixed lonely |  
+| bip_39_word_underscore_1 | doll |  
+| bip_39_word_underscore_10 | doll_section_mad_lunar_forget_raw_film_mixed_lonely_wrong |  
+| bip_39_word_underscore_11 | doll_section_mad_lunar_forget_raw_film_mixed_lonely_wrong_topic |  
+| bip_39_word_underscore_12 | doll_section_mad_lunar_forget_raw_film_mixed_lonely_wrong_topic_arrest |  
+| bip_39_word_underscore_2 | doll_section |  
+| bip_39_word_underscore_3 | doll_section_mad |  
+| bip_39_word_underscore_4 | doll_section_mad_lunar |  
+| bip_39_word_underscore_5 | doll_section_mad_lunar_forget |  
+| bip_39_word_underscore_6 | doll_section_mad_lunar_forget_raw |  
+| bip_39_word_underscore_7 | doll_section_mad_lunar_forget_raw_film |  
+| bip_39_word_underscore_8 | doll_section_mad_lunar_forget_raw_film_mixed |  
+| bip_39_word_underscore_9 | doll_section_mad_lunar_forget_raw_film_mixed_lonely |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

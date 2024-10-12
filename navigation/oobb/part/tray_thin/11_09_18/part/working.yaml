@@ -1,3 +1,15 @@
+bip_39_word_dash_1: address
+bip_39_word_dash_10: address-east-enact-fun-control-soft-raven-stairs-cool-about
+bip_39_word_dash_11: address-east-enact-fun-control-soft-raven-stairs-cool-about-similar
+bip_39_word_dash_12: address-east-enact-fun-control-soft-raven-stairs-cool-about-similar-afford
+bip_39_word_dash_2: address-east
+bip_39_word_dash_3: address-east-enact
+bip_39_word_dash_4: address-east-enact-fun
+bip_39_word_dash_5: address-east-enact-fun-control
+bip_39_word_dash_6: address-east-enact-fun-control-soft
+bip_39_word_dash_7: address-east-enact-fun-control-soft-raven
+bip_39_word_dash_8: address-east-enact-fun-control-soft-raven-stairs
+bip_39_word_dash_9: address-east-enact-fun-control-soft-raven-stairs-cool
 bip_39_word_new_br_1: address
 bip_39_word_new_br_10: address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs<br>cool<br>about
 bip_39_word_new_br_11: address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs<br>cool<br>about<br>similar
@@ -193,6 +205,18 @@ bip_39_word_space_6: address east enact fun control soft
 bip_39_word_space_7: address east enact fun control soft raven
 bip_39_word_space_8: address east enact fun control soft raven stairs
 bip_39_word_space_9: address east enact fun control soft raven stairs cool
+bip_39_word_underscore_1: address
+bip_39_word_underscore_10: address_east_enact_fun_control_soft_raven_stairs_cool_about
+bip_39_word_underscore_11: address_east_enact_fun_control_soft_raven_stairs_cool_about_similar
+bip_39_word_underscore_12: address_east_enact_fun_control_soft_raven_stairs_cool_about_similar_afford
+bip_39_word_underscore_2: address_east
+bip_39_word_underscore_3: address_east_enact
+bip_39_word_underscore_4: address_east_enact_fun
+bip_39_word_underscore_5: address_east_enact_fun_control
+bip_39_word_underscore_6: address_east_enact_fun_control_soft
+bip_39_word_underscore_7: address_east_enact_fun_control_soft_raven
+bip_39_word_underscore_8: address_east_enact_fun_control_soft_raven_stairs
+bip_39_word_underscore_9: address_east_enact_fun_control_soft_raven_stairs_cool
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

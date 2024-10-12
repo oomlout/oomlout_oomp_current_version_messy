@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rather |  
+| bip_39_word_dash_10 | rather-render-cram-popular-six-lift-unfold-talk-vicious-nephew |  
+| bip_39_word_dash_11 | rather-render-cram-popular-six-lift-unfold-talk-vicious-nephew-much |  
+| bip_39_word_dash_12 | rather-render-cram-popular-six-lift-unfold-talk-vicious-nephew-much-agree |  
+| bip_39_word_dash_2 | rather-render |  
+| bip_39_word_dash_3 | rather-render-cram |  
+| bip_39_word_dash_4 | rather-render-cram-popular |  
+| bip_39_word_dash_5 | rather-render-cram-popular-six |  
+| bip_39_word_dash_6 | rather-render-cram-popular-six-lift |  
+| bip_39_word_dash_7 | rather-render-cram-popular-six-lift-unfold |  
+| bip_39_word_dash_8 | rather-render-cram-popular-six-lift-unfold-talk |  
+| bip_39_word_dash_9 | rather-render-cram-popular-six-lift-unfold-talk-vicious |  
 | bip_39_word_new_br_1 | rather |  
 | bip_39_word_new_br_10 | rather<br>render<br>cram<br>popular<br>six<br>lift<br>unfold<br>talk<br>vicious<br>nephew |  
 | bip_39_word_new_br_11 | rather<br>render<br>cram<br>popular<br>six<br>lift<br>unfold<br>talk<br>vicious<br>nephew<br>much |  
@@ -147,6 +159,18 @@ vicious |
 | bip_39_word_space_7 | rather render cram popular six lift unfold |  
 | bip_39_word_space_8 | rather render cram popular six lift unfold talk |  
 | bip_39_word_space_9 | rather render cram popular six lift unfold talk vicious |  
+| bip_39_word_underscore_1 | rather |  
+| bip_39_word_underscore_10 | rather_render_cram_popular_six_lift_unfold_talk_vicious_nephew |  
+| bip_39_word_underscore_11 | rather_render_cram_popular_six_lift_unfold_talk_vicious_nephew_much |  
+| bip_39_word_underscore_12 | rather_render_cram_popular_six_lift_unfold_talk_vicious_nephew_much_agree |  
+| bip_39_word_underscore_2 | rather_render |  
+| bip_39_word_underscore_3 | rather_render_cram |  
+| bip_39_word_underscore_4 | rather_render_cram_popular |  
+| bip_39_word_underscore_5 | rather_render_cram_popular_six |  
+| bip_39_word_underscore_6 | rather_render_cram_popular_six_lift |  
+| bip_39_word_underscore_7 | rather_render_cram_popular_six_lift_unfold |  
+| bip_39_word_underscore_8 | rather_render_cram_popular_six_lift_unfold_talk |  
+| bip_39_word_underscore_9 | rather_render_cram_popular_six_lift_unfold_talk_vicious |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

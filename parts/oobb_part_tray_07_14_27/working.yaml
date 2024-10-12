@@ -1,3 +1,15 @@
+bip_39_word_dash_1: plate
+bip_39_word_dash_10: plate-dismiss-minute-drink-gospel-analyst-cute-raise-mix-ticket
+bip_39_word_dash_11: plate-dismiss-minute-drink-gospel-analyst-cute-raise-mix-ticket-chief
+bip_39_word_dash_12: plate-dismiss-minute-drink-gospel-analyst-cute-raise-mix-ticket-chief-almost
+bip_39_word_dash_2: plate-dismiss
+bip_39_word_dash_3: plate-dismiss-minute
+bip_39_word_dash_4: plate-dismiss-minute-drink
+bip_39_word_dash_5: plate-dismiss-minute-drink-gospel
+bip_39_word_dash_6: plate-dismiss-minute-drink-gospel-analyst
+bip_39_word_dash_7: plate-dismiss-minute-drink-gospel-analyst-cute
+bip_39_word_dash_8: plate-dismiss-minute-drink-gospel-analyst-cute-raise
+bip_39_word_dash_9: plate-dismiss-minute-drink-gospel-analyst-cute-raise-mix
 bip_39_word_new_br_1: plate
 bip_39_word_new_br_10: plate<br>dismiss<br>minute<br>drink<br>gospel<br>analyst<br>cute<br>raise<br>mix<br>ticket
 bip_39_word_new_br_11: plate<br>dismiss<br>minute<br>drink<br>gospel<br>analyst<br>cute<br>raise<br>mix<br>ticket<br>chief
@@ -193,6 +205,18 @@ bip_39_word_space_6: plate dismiss minute drink gospel analyst
 bip_39_word_space_7: plate dismiss minute drink gospel analyst cute
 bip_39_word_space_8: plate dismiss minute drink gospel analyst cute raise
 bip_39_word_space_9: plate dismiss minute drink gospel analyst cute raise mix
+bip_39_word_underscore_1: plate
+bip_39_word_underscore_10: plate_dismiss_minute_drink_gospel_analyst_cute_raise_mix_ticket
+bip_39_word_underscore_11: plate_dismiss_minute_drink_gospel_analyst_cute_raise_mix_ticket_chief
+bip_39_word_underscore_12: plate_dismiss_minute_drink_gospel_analyst_cute_raise_mix_ticket_chief_almost
+bip_39_word_underscore_2: plate_dismiss
+bip_39_word_underscore_3: plate_dismiss_minute
+bip_39_word_underscore_4: plate_dismiss_minute_drink
+bip_39_word_underscore_5: plate_dismiss_minute_drink_gospel
+bip_39_word_underscore_6: plate_dismiss_minute_drink_gospel_analyst
+bip_39_word_underscore_7: plate_dismiss_minute_drink_gospel_analyst_cute
+bip_39_word_underscore_8: plate_dismiss_minute_drink_gospel_analyst_cute_raise
+bip_39_word_underscore_9: plate_dismiss_minute_drink_gospel_analyst_cute_raise_mix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

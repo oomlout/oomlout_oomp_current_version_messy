@@ -1,3 +1,15 @@
+bip_39_word_dash_1: foam
+bip_39_word_dash_10: foam-position-critic-token-cement-mobile-approve-lunar-okay-swim
+bip_39_word_dash_11: foam-position-critic-token-cement-mobile-approve-lunar-okay-swim-front
+bip_39_word_dash_12: foam-position-critic-token-cement-mobile-approve-lunar-okay-swim-front-album
+bip_39_word_dash_2: foam-position
+bip_39_word_dash_3: foam-position-critic
+bip_39_word_dash_4: foam-position-critic-token
+bip_39_word_dash_5: foam-position-critic-token-cement
+bip_39_word_dash_6: foam-position-critic-token-cement-mobile
+bip_39_word_dash_7: foam-position-critic-token-cement-mobile-approve
+bip_39_word_dash_8: foam-position-critic-token-cement-mobile-approve-lunar
+bip_39_word_dash_9: foam-position-critic-token-cement-mobile-approve-lunar-okay
 bip_39_word_new_br_1: foam
 bip_39_word_new_br_10: foam<br>position<br>critic<br>token<br>cement<br>mobile<br>approve<br>lunar<br>okay<br>swim
 bip_39_word_new_br_11: foam<br>position<br>critic<br>token<br>cement<br>mobile<br>approve<br>lunar<br>okay<br>swim<br>front
@@ -194,6 +206,18 @@ bip_39_word_space_6: foam position critic token cement mobile
 bip_39_word_space_7: foam position critic token cement mobile approve
 bip_39_word_space_8: foam position critic token cement mobile approve lunar
 bip_39_word_space_9: foam position critic token cement mobile approve lunar okay
+bip_39_word_underscore_1: foam
+bip_39_word_underscore_10: foam_position_critic_token_cement_mobile_approve_lunar_okay_swim
+bip_39_word_underscore_11: foam_position_critic_token_cement_mobile_approve_lunar_okay_swim_front
+bip_39_word_underscore_12: foam_position_critic_token_cement_mobile_approve_lunar_okay_swim_front_album
+bip_39_word_underscore_2: foam_position
+bip_39_word_underscore_3: foam_position_critic
+bip_39_word_underscore_4: foam_position_critic_token
+bip_39_word_underscore_5: foam_position_critic_token_cement
+bip_39_word_underscore_6: foam_position_critic_token_cement_mobile
+bip_39_word_underscore_7: foam_position_critic_token_cement_mobile_approve
+bip_39_word_underscore_8: foam_position_critic_token_cement_mobile_approve_lunar
+bip_39_word_underscore_9: foam_position_critic_token_cement_mobile_approve_lunar_okay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

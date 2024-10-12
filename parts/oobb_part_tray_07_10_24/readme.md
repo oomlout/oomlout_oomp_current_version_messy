@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tip |  
+| bip_39_word_dash_10 | tip-section-oyster-grass-left-end-slogan-sudden-slot-slush |  
+| bip_39_word_dash_11 | tip-section-oyster-grass-left-end-slogan-sudden-slot-slush-garage |  
+| bip_39_word_dash_12 | tip-section-oyster-grass-left-end-slogan-sudden-slot-slush-garage-amazing |  
+| bip_39_word_dash_2 | tip-section |  
+| bip_39_word_dash_3 | tip-section-oyster |  
+| bip_39_word_dash_4 | tip-section-oyster-grass |  
+| bip_39_word_dash_5 | tip-section-oyster-grass-left |  
+| bip_39_word_dash_6 | tip-section-oyster-grass-left-end |  
+| bip_39_word_dash_7 | tip-section-oyster-grass-left-end-slogan |  
+| bip_39_word_dash_8 | tip-section-oyster-grass-left-end-slogan-sudden |  
+| bip_39_word_dash_9 | tip-section-oyster-grass-left-end-slogan-sudden-slot |  
 | bip_39_word_new_br_1 | tip |  
 | bip_39_word_new_br_10 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush |  
 | bip_39_word_new_br_11 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush<br>garage |  
@@ -147,6 +159,18 @@ slot |
 | bip_39_word_space_7 | tip section oyster grass left end slogan |  
 | bip_39_word_space_8 | tip section oyster grass left end slogan sudden |  
 | bip_39_word_space_9 | tip section oyster grass left end slogan sudden slot |  
+| bip_39_word_underscore_1 | tip |  
+| bip_39_word_underscore_10 | tip_section_oyster_grass_left_end_slogan_sudden_slot_slush |  
+| bip_39_word_underscore_11 | tip_section_oyster_grass_left_end_slogan_sudden_slot_slush_garage |  
+| bip_39_word_underscore_12 | tip_section_oyster_grass_left_end_slogan_sudden_slot_slush_garage_amazing |  
+| bip_39_word_underscore_2 | tip_section |  
+| bip_39_word_underscore_3 | tip_section_oyster |  
+| bip_39_word_underscore_4 | tip_section_oyster_grass |  
+| bip_39_word_underscore_5 | tip_section_oyster_grass_left |  
+| bip_39_word_underscore_6 | tip_section_oyster_grass_left_end |  
+| bip_39_word_underscore_7 | tip_section_oyster_grass_left_end_slogan |  
+| bip_39_word_underscore_8 | tip_section_oyster_grass_left_end_slogan_sudden |  
+| bip_39_word_underscore_9 | tip_section_oyster_grass_left_end_slogan_sudden_slot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

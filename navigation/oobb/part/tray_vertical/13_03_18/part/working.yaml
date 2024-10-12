@@ -1,3 +1,15 @@
+bip_39_word_dash_1: web
+bip_39_word_dash_10: web-tilt-mistake-wild-nut-trim-fog-farm-film-occur
+bip_39_word_dash_11: web-tilt-mistake-wild-nut-trim-fog-farm-film-occur-talent
+bip_39_word_dash_12: web-tilt-mistake-wild-nut-trim-fog-farm-film-occur-talent-action
+bip_39_word_dash_2: web-tilt
+bip_39_word_dash_3: web-tilt-mistake
+bip_39_word_dash_4: web-tilt-mistake-wild
+bip_39_word_dash_5: web-tilt-mistake-wild-nut
+bip_39_word_dash_6: web-tilt-mistake-wild-nut-trim
+bip_39_word_dash_7: web-tilt-mistake-wild-nut-trim-fog
+bip_39_word_dash_8: web-tilt-mistake-wild-nut-trim-fog-farm
+bip_39_word_dash_9: web-tilt-mistake-wild-nut-trim-fog-farm-film
 bip_39_word_new_br_1: web
 bip_39_word_new_br_10: web<br>tilt<br>mistake<br>wild<br>nut<br>trim<br>fog<br>farm<br>film<br>occur
 bip_39_word_new_br_11: web<br>tilt<br>mistake<br>wild<br>nut<br>trim<br>fog<br>farm<br>film<br>occur<br>talent
@@ -191,6 +203,18 @@ bip_39_word_space_6: web tilt mistake wild nut trim
 bip_39_word_space_7: web tilt mistake wild nut trim fog
 bip_39_word_space_8: web tilt mistake wild nut trim fog farm
 bip_39_word_space_9: web tilt mistake wild nut trim fog farm film
+bip_39_word_underscore_1: web
+bip_39_word_underscore_10: web_tilt_mistake_wild_nut_trim_fog_farm_film_occur
+bip_39_word_underscore_11: web_tilt_mistake_wild_nut_trim_fog_farm_film_occur_talent
+bip_39_word_underscore_12: web_tilt_mistake_wild_nut_trim_fog_farm_film_occur_talent_action
+bip_39_word_underscore_2: web_tilt
+bip_39_word_underscore_3: web_tilt_mistake
+bip_39_word_underscore_4: web_tilt_mistake_wild
+bip_39_word_underscore_5: web_tilt_mistake_wild_nut
+bip_39_word_underscore_6: web_tilt_mistake_wild_nut_trim
+bip_39_word_underscore_7: web_tilt_mistake_wild_nut_trim_fog
+bip_39_word_underscore_8: web_tilt_mistake_wild_nut_trim_fog_farm
+bip_39_word_underscore_9: web_tilt_mistake_wild_nut_trim_fog_farm_film
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | polar |  
+| bip_39_word_dash_10 | polar-salt-guide-frequent-diagram-hire-harvest-extra-girl-electric |  
+| bip_39_word_dash_11 | polar-salt-guide-frequent-diagram-hire-harvest-extra-girl-electric-rail |  
+| bip_39_word_dash_12 | polar-salt-guide-frequent-diagram-hire-harvest-extra-girl-electric-rail-april |  
+| bip_39_word_dash_2 | polar-salt |  
+| bip_39_word_dash_3 | polar-salt-guide |  
+| bip_39_word_dash_4 | polar-salt-guide-frequent |  
+| bip_39_word_dash_5 | polar-salt-guide-frequent-diagram |  
+| bip_39_word_dash_6 | polar-salt-guide-frequent-diagram-hire |  
+| bip_39_word_dash_7 | polar-salt-guide-frequent-diagram-hire-harvest |  
+| bip_39_word_dash_8 | polar-salt-guide-frequent-diagram-hire-harvest-extra |  
+| bip_39_word_dash_9 | polar-salt-guide-frequent-diagram-hire-harvest-extra-girl |  
 | bip_39_word_new_br_1 | polar |  
 | bip_39_word_new_br_10 | polar<br>salt<br>guide<br>frequent<br>diagram<br>hire<br>harvest<br>extra<br>girl<br>electric |  
 | bip_39_word_new_br_11 | polar<br>salt<br>guide<br>frequent<br>diagram<br>hire<br>harvest<br>extra<br>girl<br>electric<br>rail |  
@@ -147,6 +159,18 @@ girl |
 | bip_39_word_space_7 | polar salt guide frequent diagram hire harvest |  
 | bip_39_word_space_8 | polar salt guide frequent diagram hire harvest extra |  
 | bip_39_word_space_9 | polar salt guide frequent diagram hire harvest extra girl |  
+| bip_39_word_underscore_1 | polar |  
+| bip_39_word_underscore_10 | polar_salt_guide_frequent_diagram_hire_harvest_extra_girl_electric |  
+| bip_39_word_underscore_11 | polar_salt_guide_frequent_diagram_hire_harvest_extra_girl_electric_rail |  
+| bip_39_word_underscore_12 | polar_salt_guide_frequent_diagram_hire_harvest_extra_girl_electric_rail_april |  
+| bip_39_word_underscore_2 | polar_salt |  
+| bip_39_word_underscore_3 | polar_salt_guide |  
+| bip_39_word_underscore_4 | polar_salt_guide_frequent |  
+| bip_39_word_underscore_5 | polar_salt_guide_frequent_diagram |  
+| bip_39_word_underscore_6 | polar_salt_guide_frequent_diagram_hire |  
+| bip_39_word_underscore_7 | polar_salt_guide_frequent_diagram_hire_harvest |  
+| bip_39_word_underscore_8 | polar_salt_guide_frequent_diagram_hire_harvest_extra |  
+| bip_39_word_underscore_9 | polar_salt_guide_frequent_diagram_hire_harvest_extra_girl |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

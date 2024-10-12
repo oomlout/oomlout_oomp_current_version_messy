@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | like |  
+| bip_39_word_dash_10 | like-initial-palace-history-rely-snake-before-lumber-surge-curve |  
+| bip_39_word_dash_11 | like-initial-palace-history-rely-snake-before-lumber-surge-curve-bacon |  
+| bip_39_word_dash_12 | like-initial-palace-history-rely-snake-before-lumber-surge-curve-bacon-acid |  
+| bip_39_word_dash_2 | like-initial |  
+| bip_39_word_dash_3 | like-initial-palace |  
+| bip_39_word_dash_4 | like-initial-palace-history |  
+| bip_39_word_dash_5 | like-initial-palace-history-rely |  
+| bip_39_word_dash_6 | like-initial-palace-history-rely-snake |  
+| bip_39_word_dash_7 | like-initial-palace-history-rely-snake-before |  
+| bip_39_word_dash_8 | like-initial-palace-history-rely-snake-before-lumber |  
+| bip_39_word_dash_9 | like-initial-palace-history-rely-snake-before-lumber-surge |  
 | bip_39_word_new_br_1 | like |  
 | bip_39_word_new_br_10 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber<br>surge<br>curve |  
 | bip_39_word_new_br_11 | like<br>initial<br>palace<br>history<br>rely<br>snake<br>before<br>lumber<br>surge<br>curve<br>bacon |  
@@ -147,6 +159,18 @@ surge |
 | bip_39_word_space_7 | like initial palace history rely snake before |  
 | bip_39_word_space_8 | like initial palace history rely snake before lumber |  
 | bip_39_word_space_9 | like initial palace history rely snake before lumber surge |  
+| bip_39_word_underscore_1 | like |  
+| bip_39_word_underscore_10 | like_initial_palace_history_rely_snake_before_lumber_surge_curve |  
+| bip_39_word_underscore_11 | like_initial_palace_history_rely_snake_before_lumber_surge_curve_bacon |  
+| bip_39_word_underscore_12 | like_initial_palace_history_rely_snake_before_lumber_surge_curve_bacon_acid |  
+| bip_39_word_underscore_2 | like_initial |  
+| bip_39_word_underscore_3 | like_initial_palace |  
+| bip_39_word_underscore_4 | like_initial_palace_history |  
+| bip_39_word_underscore_5 | like_initial_palace_history_rely |  
+| bip_39_word_underscore_6 | like_initial_palace_history_rely_snake |  
+| bip_39_word_underscore_7 | like_initial_palace_history_rely_snake_before |  
+| bip_39_word_underscore_8 | like_initial_palace_history_rely_snake_before_lumber |  
+| bip_39_word_underscore_9 | like_initial_palace_history_rely_snake_before_lumber_surge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

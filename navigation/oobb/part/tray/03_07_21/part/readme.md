@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ring |  
+| bip_39_word_dash_10 | ring-fox-loan-rigid-equal-street-lonely-hair-immune-document |  
+| bip_39_word_dash_11 | ring-fox-loan-rigid-equal-street-lonely-hair-immune-document-island |  
+| bip_39_word_dash_12 | ring-fox-loan-rigid-equal-street-lonely-hair-immune-document-island-artist |  
+| bip_39_word_dash_2 | ring-fox |  
+| bip_39_word_dash_3 | ring-fox-loan |  
+| bip_39_word_dash_4 | ring-fox-loan-rigid |  
+| bip_39_word_dash_5 | ring-fox-loan-rigid-equal |  
+| bip_39_word_dash_6 | ring-fox-loan-rigid-equal-street |  
+| bip_39_word_dash_7 | ring-fox-loan-rigid-equal-street-lonely |  
+| bip_39_word_dash_8 | ring-fox-loan-rigid-equal-street-lonely-hair |  
+| bip_39_word_dash_9 | ring-fox-loan-rigid-equal-street-lonely-hair-immune |  
 | bip_39_word_new_br_1 | ring |  
 | bip_39_word_new_br_10 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document |  
 | bip_39_word_new_br_11 | ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document<br>island |  
@@ -147,6 +159,18 @@ immune |
 | bip_39_word_space_7 | ring fox loan rigid equal street lonely |  
 | bip_39_word_space_8 | ring fox loan rigid equal street lonely hair |  
 | bip_39_word_space_9 | ring fox loan rigid equal street lonely hair immune |  
+| bip_39_word_underscore_1 | ring |  
+| bip_39_word_underscore_10 | ring_fox_loan_rigid_equal_street_lonely_hair_immune_document |  
+| bip_39_word_underscore_11 | ring_fox_loan_rigid_equal_street_lonely_hair_immune_document_island |  
+| bip_39_word_underscore_12 | ring_fox_loan_rigid_equal_street_lonely_hair_immune_document_island_artist |  
+| bip_39_word_underscore_2 | ring_fox |  
+| bip_39_word_underscore_3 | ring_fox_loan |  
+| bip_39_word_underscore_4 | ring_fox_loan_rigid |  
+| bip_39_word_underscore_5 | ring_fox_loan_rigid_equal |  
+| bip_39_word_underscore_6 | ring_fox_loan_rigid_equal_street |  
+| bip_39_word_underscore_7 | ring_fox_loan_rigid_equal_street_lonely |  
+| bip_39_word_underscore_8 | ring_fox_loan_rigid_equal_street_lonely_hair |  
+| bip_39_word_underscore_9 | ring_fox_loan_rigid_equal_street_lonely_hair_immune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | struggle |  
+| bip_39_word_dash_10 | struggle-horse-wire-toddler-there-abstract-tomato-approve-sell-coast |  
+| bip_39_word_dash_11 | struggle-horse-wire-toddler-there-abstract-tomato-approve-sell-coast-unfair |  
+| bip_39_word_dash_12 | struggle-horse-wire-toddler-there-abstract-tomato-approve-sell-coast-unfair-advice |  
+| bip_39_word_dash_2 | struggle-horse |  
+| bip_39_word_dash_3 | struggle-horse-wire |  
+| bip_39_word_dash_4 | struggle-horse-wire-toddler |  
+| bip_39_word_dash_5 | struggle-horse-wire-toddler-there |  
+| bip_39_word_dash_6 | struggle-horse-wire-toddler-there-abstract |  
+| bip_39_word_dash_7 | struggle-horse-wire-toddler-there-abstract-tomato |  
+| bip_39_word_dash_8 | struggle-horse-wire-toddler-there-abstract-tomato-approve |  
+| bip_39_word_dash_9 | struggle-horse-wire-toddler-there-abstract-tomato-approve-sell |  
 | bip_39_word_new_br_1 | struggle |  
 | bip_39_word_new_br_10 | struggle<br>horse<br>wire<br>toddler<br>there<br>abstract<br>tomato<br>approve<br>sell<br>coast |  
 | bip_39_word_new_br_11 | struggle<br>horse<br>wire<br>toddler<br>there<br>abstract<br>tomato<br>approve<br>sell<br>coast<br>unfair |  
@@ -147,6 +159,18 @@ sell |
 | bip_39_word_space_7 | struggle horse wire toddler there abstract tomato |  
 | bip_39_word_space_8 | struggle horse wire toddler there abstract tomato approve |  
 | bip_39_word_space_9 | struggle horse wire toddler there abstract tomato approve sell |  
+| bip_39_word_underscore_1 | struggle |  
+| bip_39_word_underscore_10 | struggle_horse_wire_toddler_there_abstract_tomato_approve_sell_coast |  
+| bip_39_word_underscore_11 | struggle_horse_wire_toddler_there_abstract_tomato_approve_sell_coast_unfair |  
+| bip_39_word_underscore_12 | struggle_horse_wire_toddler_there_abstract_tomato_approve_sell_coast_unfair_advice |  
+| bip_39_word_underscore_2 | struggle_horse |  
+| bip_39_word_underscore_3 | struggle_horse_wire |  
+| bip_39_word_underscore_4 | struggle_horse_wire_toddler |  
+| bip_39_word_underscore_5 | struggle_horse_wire_toddler_there |  
+| bip_39_word_underscore_6 | struggle_horse_wire_toddler_there_abstract |  
+| bip_39_word_underscore_7 | struggle_horse_wire_toddler_there_abstract_tomato |  
+| bip_39_word_underscore_8 | struggle_horse_wire_toddler_there_abstract_tomato_approve |  
+| bip_39_word_underscore_9 | struggle_horse_wire_toddler_there_abstract_tomato_approve_sell |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

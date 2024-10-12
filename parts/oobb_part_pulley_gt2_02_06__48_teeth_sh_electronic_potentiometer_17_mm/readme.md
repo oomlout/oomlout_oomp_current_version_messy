@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gas |  
+| bip_39_word_dash_10 | gas-wink-oppose-penalty-crucial-quantum-buffalo-pelican-two-example |  
+| bip_39_word_dash_11 | gas-wink-oppose-penalty-crucial-quantum-buffalo-pelican-two-example-receive |  
+| bip_39_word_dash_12 | gas-wink-oppose-penalty-crucial-quantum-buffalo-pelican-two-example-receive-antenna |  
+| bip_39_word_dash_2 | gas-wink |  
+| bip_39_word_dash_3 | gas-wink-oppose |  
+| bip_39_word_dash_4 | gas-wink-oppose-penalty |  
+| bip_39_word_dash_5 | gas-wink-oppose-penalty-crucial |  
+| bip_39_word_dash_6 | gas-wink-oppose-penalty-crucial-quantum |  
+| bip_39_word_dash_7 | gas-wink-oppose-penalty-crucial-quantum-buffalo |  
+| bip_39_word_dash_8 | gas-wink-oppose-penalty-crucial-quantum-buffalo-pelican |  
+| bip_39_word_dash_9 | gas-wink-oppose-penalty-crucial-quantum-buffalo-pelican-two |  
 | bip_39_word_new_br_1 | gas |  
 | bip_39_word_new_br_10 | gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican<br>two<br>example |  
 | bip_39_word_new_br_11 | gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican<br>two<br>example<br>receive |  
@@ -147,6 +159,18 @@ two |
 | bip_39_word_space_7 | gas wink oppose penalty crucial quantum buffalo |  
 | bip_39_word_space_8 | gas wink oppose penalty crucial quantum buffalo pelican |  
 | bip_39_word_space_9 | gas wink oppose penalty crucial quantum buffalo pelican two |  
+| bip_39_word_underscore_1 | gas |  
+| bip_39_word_underscore_10 | gas_wink_oppose_penalty_crucial_quantum_buffalo_pelican_two_example |  
+| bip_39_word_underscore_11 | gas_wink_oppose_penalty_crucial_quantum_buffalo_pelican_two_example_receive |  
+| bip_39_word_underscore_12 | gas_wink_oppose_penalty_crucial_quantum_buffalo_pelican_two_example_receive_antenna |  
+| bip_39_word_underscore_2 | gas_wink |  
+| bip_39_word_underscore_3 | gas_wink_oppose |  
+| bip_39_word_underscore_4 | gas_wink_oppose_penalty |  
+| bip_39_word_underscore_5 | gas_wink_oppose_penalty_crucial |  
+| bip_39_word_underscore_6 | gas_wink_oppose_penalty_crucial_quantum |  
+| bip_39_word_underscore_7 | gas_wink_oppose_penalty_crucial_quantum_buffalo |  
+| bip_39_word_underscore_8 | gas_wink_oppose_penalty_crucial_quantum_buffalo_pelican |  
+| bip_39_word_underscore_9 | gas_wink_oppose_penalty_crucial_quantum_buffalo_pelican_two |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

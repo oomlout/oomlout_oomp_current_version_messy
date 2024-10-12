@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | west |  
+| bip_39_word_dash_10 | west-rally-copy-oval-involve-knife-labor-lottery-actor-sniff |  
+| bip_39_word_dash_11 | west-rally-copy-oval-involve-knife-labor-lottery-actor-sniff-dolphin |  
+| bip_39_word_dash_12 | west-rally-copy-oval-involve-knife-labor-lottery-actor-sniff-dolphin-approve |  
+| bip_39_word_dash_2 | west-rally |  
+| bip_39_word_dash_3 | west-rally-copy |  
+| bip_39_word_dash_4 | west-rally-copy-oval |  
+| bip_39_word_dash_5 | west-rally-copy-oval-involve |  
+| bip_39_word_dash_6 | west-rally-copy-oval-involve-knife |  
+| bip_39_word_dash_7 | west-rally-copy-oval-involve-knife-labor |  
+| bip_39_word_dash_8 | west-rally-copy-oval-involve-knife-labor-lottery |  
+| bip_39_word_dash_9 | west-rally-copy-oval-involve-knife-labor-lottery-actor |  
 | bip_39_word_new_br_1 | west |  
 | bip_39_word_new_br_10 | west<br>rally<br>copy<br>oval<br>involve<br>knife<br>labor<br>lottery<br>actor<br>sniff |  
 | bip_39_word_new_br_11 | west<br>rally<br>copy<br>oval<br>involve<br>knife<br>labor<br>lottery<br>actor<br>sniff<br>dolphin |  
@@ -147,6 +159,18 @@ actor |
 | bip_39_word_space_7 | west rally copy oval involve knife labor |  
 | bip_39_word_space_8 | west rally copy oval involve knife labor lottery |  
 | bip_39_word_space_9 | west rally copy oval involve knife labor lottery actor |  
+| bip_39_word_underscore_1 | west |  
+| bip_39_word_underscore_10 | west_rally_copy_oval_involve_knife_labor_lottery_actor_sniff |  
+| bip_39_word_underscore_11 | west_rally_copy_oval_involve_knife_labor_lottery_actor_sniff_dolphin |  
+| bip_39_word_underscore_12 | west_rally_copy_oval_involve_knife_labor_lottery_actor_sniff_dolphin_approve |  
+| bip_39_word_underscore_2 | west_rally |  
+| bip_39_word_underscore_3 | west_rally_copy |  
+| bip_39_word_underscore_4 | west_rally_copy_oval |  
+| bip_39_word_underscore_5 | west_rally_copy_oval_involve |  
+| bip_39_word_underscore_6 | west_rally_copy_oval_involve_knife |  
+| bip_39_word_underscore_7 | west_rally_copy_oval_involve_knife_labor |  
+| bip_39_word_underscore_8 | west_rally_copy_oval_involve_knife_labor_lottery |  
+| bip_39_word_underscore_9 | west_rally_copy_oval_involve_knife_labor_lottery_actor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: extend
+bip_39_word_dash_10: extend-roof-circle-novel-three-select-limit-noble-door-twin
+bip_39_word_dash_11: extend-roof-circle-novel-three-select-limit-noble-door-twin-rigid
+bip_39_word_dash_12: extend-roof-circle-novel-three-select-limit-noble-door-twin-rigid-another
+bip_39_word_dash_2: extend-roof
+bip_39_word_dash_3: extend-roof-circle
+bip_39_word_dash_4: extend-roof-circle-novel
+bip_39_word_dash_5: extend-roof-circle-novel-three
+bip_39_word_dash_6: extend-roof-circle-novel-three-select
+bip_39_word_dash_7: extend-roof-circle-novel-three-select-limit
+bip_39_word_dash_8: extend-roof-circle-novel-three-select-limit-noble
+bip_39_word_dash_9: extend-roof-circle-novel-three-select-limit-noble-door
 bip_39_word_new_br_1: extend
 bip_39_word_new_br_10: extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin
 bip_39_word_new_br_11: extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin<br>rigid
@@ -193,6 +205,18 @@ bip_39_word_space_6: extend roof circle novel three select
 bip_39_word_space_7: extend roof circle novel three select limit
 bip_39_word_space_8: extend roof circle novel three select limit noble
 bip_39_word_space_9: extend roof circle novel three select limit noble door
+bip_39_word_underscore_1: extend
+bip_39_word_underscore_10: extend_roof_circle_novel_three_select_limit_noble_door_twin
+bip_39_word_underscore_11: extend_roof_circle_novel_three_select_limit_noble_door_twin_rigid
+bip_39_word_underscore_12: extend_roof_circle_novel_three_select_limit_noble_door_twin_rigid_another
+bip_39_word_underscore_2: extend_roof
+bip_39_word_underscore_3: extend_roof_circle
+bip_39_word_underscore_4: extend_roof_circle_novel
+bip_39_word_underscore_5: extend_roof_circle_novel_three
+bip_39_word_underscore_6: extend_roof_circle_novel_three_select
+bip_39_word_underscore_7: extend_roof_circle_novel_three_select_limit
+bip_39_word_underscore_8: extend_roof_circle_novel_three_select_limit_noble
+bip_39_word_underscore_9: extend_roof_circle_novel_three_select_limit_noble_door
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

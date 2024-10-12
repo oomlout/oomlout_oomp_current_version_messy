@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | join |  
+| bip_39_word_dash_10 | join-access-rifle-vacant-valve-gain-oil-flat-exhaust-hand |  
+| bip_39_word_dash_11 | join-access-rifle-vacant-valve-gain-oil-flat-exhaust-hand-unknown |  
+| bip_39_word_dash_12 | join-access-rifle-vacant-valve-gain-oil-flat-exhaust-hand-unknown-abuse |  
+| bip_39_word_dash_2 | join-access |  
+| bip_39_word_dash_3 | join-access-rifle |  
+| bip_39_word_dash_4 | join-access-rifle-vacant |  
+| bip_39_word_dash_5 | join-access-rifle-vacant-valve |  
+| bip_39_word_dash_6 | join-access-rifle-vacant-valve-gain |  
+| bip_39_word_dash_7 | join-access-rifle-vacant-valve-gain-oil |  
+| bip_39_word_dash_8 | join-access-rifle-vacant-valve-gain-oil-flat |  
+| bip_39_word_dash_9 | join-access-rifle-vacant-valve-gain-oil-flat-exhaust |  
 | bip_39_word_new_br_1 | join |  
 | bip_39_word_new_br_10 | join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand |  
 | bip_39_word_new_br_11 | join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand<br>unknown |  
@@ -147,6 +159,18 @@ exhaust |
 | bip_39_word_space_7 | join access rifle vacant valve gain oil |  
 | bip_39_word_space_8 | join access rifle vacant valve gain oil flat |  
 | bip_39_word_space_9 | join access rifle vacant valve gain oil flat exhaust |  
+| bip_39_word_underscore_1 | join |  
+| bip_39_word_underscore_10 | join_access_rifle_vacant_valve_gain_oil_flat_exhaust_hand |  
+| bip_39_word_underscore_11 | join_access_rifle_vacant_valve_gain_oil_flat_exhaust_hand_unknown |  
+| bip_39_word_underscore_12 | join_access_rifle_vacant_valve_gain_oil_flat_exhaust_hand_unknown_abuse |  
+| bip_39_word_underscore_2 | join_access |  
+| bip_39_word_underscore_3 | join_access_rifle |  
+| bip_39_word_underscore_4 | join_access_rifle_vacant |  
+| bip_39_word_underscore_5 | join_access_rifle_vacant_valve |  
+| bip_39_word_underscore_6 | join_access_rifle_vacant_valve_gain |  
+| bip_39_word_underscore_7 | join_access_rifle_vacant_valve_gain_oil |  
+| bip_39_word_underscore_8 | join_access_rifle_vacant_valve_gain_oil_flat |  
+| bip_39_word_underscore_9 | join_access_rifle_vacant_valve_gain_oil_flat_exhaust |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

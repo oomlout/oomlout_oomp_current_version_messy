@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spy
+bip_39_word_dash_10: spy-fluid-resist-floor-enlist-join-dove-blush-chimney-east
+bip_39_word_dash_11: spy-fluid-resist-floor-enlist-join-dove-blush-chimney-east-private
+bip_39_word_dash_12: spy-fluid-resist-floor-enlist-join-dove-blush-chimney-east-private-arm
+bip_39_word_dash_2: spy-fluid
+bip_39_word_dash_3: spy-fluid-resist
+bip_39_word_dash_4: spy-fluid-resist-floor
+bip_39_word_dash_5: spy-fluid-resist-floor-enlist
+bip_39_word_dash_6: spy-fluid-resist-floor-enlist-join
+bip_39_word_dash_7: spy-fluid-resist-floor-enlist-join-dove
+bip_39_word_dash_8: spy-fluid-resist-floor-enlist-join-dove-blush
+bip_39_word_dash_9: spy-fluid-resist-floor-enlist-join-dove-blush-chimney
 bip_39_word_new_br_1: spy
 bip_39_word_new_br_10: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush<br>chimney<br>east
 bip_39_word_new_br_11: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush<br>chimney<br>east<br>private
@@ -192,6 +204,18 @@ bip_39_word_space_6: spy fluid resist floor enlist join
 bip_39_word_space_7: spy fluid resist floor enlist join dove
 bip_39_word_space_8: spy fluid resist floor enlist join dove blush
 bip_39_word_space_9: spy fluid resist floor enlist join dove blush chimney
+bip_39_word_underscore_1: spy
+bip_39_word_underscore_10: spy_fluid_resist_floor_enlist_join_dove_blush_chimney_east
+bip_39_word_underscore_11: spy_fluid_resist_floor_enlist_join_dove_blush_chimney_east_private
+bip_39_word_underscore_12: spy_fluid_resist_floor_enlist_join_dove_blush_chimney_east_private_arm
+bip_39_word_underscore_2: spy_fluid
+bip_39_word_underscore_3: spy_fluid_resist
+bip_39_word_underscore_4: spy_fluid_resist_floor
+bip_39_word_underscore_5: spy_fluid_resist_floor_enlist
+bip_39_word_underscore_6: spy_fluid_resist_floor_enlist_join
+bip_39_word_underscore_7: spy_fluid_resist_floor_enlist_join_dove
+bip_39_word_underscore_8: spy_fluid_resist_floor_enlist_join_dove_blush
+bip_39_word_underscore_9: spy_fluid_resist_floor_enlist_join_dove_blush_chimney
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

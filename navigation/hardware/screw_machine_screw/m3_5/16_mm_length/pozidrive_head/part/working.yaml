@@ -1,3 +1,15 @@
+bip_39_word_dash_1: draw
+bip_39_word_dash_10: draw-elite-primary-assist-pony-finger-palm-custom-perfect-swing
+bip_39_word_dash_11: draw-elite-primary-assist-pony-finger-palm-custom-perfect-swing-chat
+bip_39_word_dash_12: draw-elite-primary-assist-pony-finger-palm-custom-perfect-swing-chat-achieve
+bip_39_word_dash_2: draw-elite
+bip_39_word_dash_3: draw-elite-primary
+bip_39_word_dash_4: draw-elite-primary-assist
+bip_39_word_dash_5: draw-elite-primary-assist-pony
+bip_39_word_dash_6: draw-elite-primary-assist-pony-finger
+bip_39_word_dash_7: draw-elite-primary-assist-pony-finger-palm
+bip_39_word_dash_8: draw-elite-primary-assist-pony-finger-palm-custom
+bip_39_word_dash_9: draw-elite-primary-assist-pony-finger-palm-custom-perfect
 bip_39_word_new_br_1: draw
 bip_39_word_new_br_10: draw<br>elite<br>primary<br>assist<br>pony<br>finger<br>palm<br>custom<br>perfect<br>swing
 bip_39_word_new_br_11: draw<br>elite<br>primary<br>assist<br>pony<br>finger<br>palm<br>custom<br>perfect<br>swing<br>chat
@@ -193,6 +205,18 @@ bip_39_word_space_6: draw elite primary assist pony finger
 bip_39_word_space_7: draw elite primary assist pony finger palm
 bip_39_word_space_8: draw elite primary assist pony finger palm custom
 bip_39_word_space_9: draw elite primary assist pony finger palm custom perfect
+bip_39_word_underscore_1: draw
+bip_39_word_underscore_10: draw_elite_primary_assist_pony_finger_palm_custom_perfect_swing
+bip_39_word_underscore_11: draw_elite_primary_assist_pony_finger_palm_custom_perfect_swing_chat
+bip_39_word_underscore_12: draw_elite_primary_assist_pony_finger_palm_custom_perfect_swing_chat_achieve
+bip_39_word_underscore_2: draw_elite
+bip_39_word_underscore_3: draw_elite_primary
+bip_39_word_underscore_4: draw_elite_primary_assist
+bip_39_word_underscore_5: draw_elite_primary_assist_pony
+bip_39_word_underscore_6: draw_elite_primary_assist_pony_finger
+bip_39_word_underscore_7: draw_elite_primary_assist_pony_finger_palm
+bip_39_word_underscore_8: draw_elite_primary_assist_pony_finger_palm_custom
+bip_39_word_underscore_9: draw_elite_primary_assist_pony_finger_palm_custom_perfect
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

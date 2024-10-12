@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | board |  
+| bip_39_word_dash_10 | board-pride-cry-equal-long-glimpse-power-novel-hold-dove |  
+| bip_39_word_dash_11 | board-pride-cry-equal-long-glimpse-power-novel-hold-dove-above |  
+| bip_39_word_dash_12 | board-pride-cry-equal-long-glimpse-power-novel-hold-dove-above-absent |  
+| bip_39_word_dash_2 | board-pride |  
+| bip_39_word_dash_3 | board-pride-cry |  
+| bip_39_word_dash_4 | board-pride-cry-equal |  
+| bip_39_word_dash_5 | board-pride-cry-equal-long |  
+| bip_39_word_dash_6 | board-pride-cry-equal-long-glimpse |  
+| bip_39_word_dash_7 | board-pride-cry-equal-long-glimpse-power |  
+| bip_39_word_dash_8 | board-pride-cry-equal-long-glimpse-power-novel |  
+| bip_39_word_dash_9 | board-pride-cry-equal-long-glimpse-power-novel-hold |  
 | bip_39_word_new_br_1 | board |  
 | bip_39_word_new_br_10 | board<br>pride<br>cry<br>equal<br>long<br>glimpse<br>power<br>novel<br>hold<br>dove |  
 | bip_39_word_new_br_11 | board<br>pride<br>cry<br>equal<br>long<br>glimpse<br>power<br>novel<br>hold<br>dove<br>above |  
@@ -147,6 +159,18 @@ hold |
 | bip_39_word_space_7 | board pride cry equal long glimpse power |  
 | bip_39_word_space_8 | board pride cry equal long glimpse power novel |  
 | bip_39_word_space_9 | board pride cry equal long glimpse power novel hold |  
+| bip_39_word_underscore_1 | board |  
+| bip_39_word_underscore_10 | board_pride_cry_equal_long_glimpse_power_novel_hold_dove |  
+| bip_39_word_underscore_11 | board_pride_cry_equal_long_glimpse_power_novel_hold_dove_above |  
+| bip_39_word_underscore_12 | board_pride_cry_equal_long_glimpse_power_novel_hold_dove_above_absent |  
+| bip_39_word_underscore_2 | board_pride |  
+| bip_39_word_underscore_3 | board_pride_cry |  
+| bip_39_word_underscore_4 | board_pride_cry_equal |  
+| bip_39_word_underscore_5 | board_pride_cry_equal_long |  
+| bip_39_word_underscore_6 | board_pride_cry_equal_long_glimpse |  
+| bip_39_word_underscore_7 | board_pride_cry_equal_long_glimpse_power |  
+| bip_39_word_underscore_8 | board_pride_cry_equal_long_glimpse_power_novel |  
+| bip_39_word_underscore_9 | board_pride_cry_equal_long_glimpse_power_novel_hold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

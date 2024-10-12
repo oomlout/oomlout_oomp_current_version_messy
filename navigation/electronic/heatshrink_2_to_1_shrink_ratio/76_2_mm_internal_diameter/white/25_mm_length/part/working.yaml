@@ -1,3 +1,15 @@
+bip_39_word_dash_1: electric
+bip_39_word_dash_10: electric-uncle-elder-history-minimum-room-blade-orchard-praise-evil
+bip_39_word_dash_11: electric-uncle-elder-history-minimum-room-blade-orchard-praise-evil-mean
+bip_39_word_dash_12: electric-uncle-elder-history-minimum-room-blade-orchard-praise-evil-mean-arch
+bip_39_word_dash_2: electric-uncle
+bip_39_word_dash_3: electric-uncle-elder
+bip_39_word_dash_4: electric-uncle-elder-history
+bip_39_word_dash_5: electric-uncle-elder-history-minimum
+bip_39_word_dash_6: electric-uncle-elder-history-minimum-room
+bip_39_word_dash_7: electric-uncle-elder-history-minimum-room-blade
+bip_39_word_dash_8: electric-uncle-elder-history-minimum-room-blade-orchard
+bip_39_word_dash_9: electric-uncle-elder-history-minimum-room-blade-orchard-praise
 bip_39_word_new_br_1: electric
 bip_39_word_new_br_10: electric<br>uncle<br>elder<br>history<br>minimum<br>room<br>blade<br>orchard<br>praise<br>evil
 bip_39_word_new_br_11: electric<br>uncle<br>elder<br>history<br>minimum<br>room<br>blade<br>orchard<br>praise<br>evil<br>mean
@@ -194,6 +206,18 @@ bip_39_word_space_6: electric uncle elder history minimum room
 bip_39_word_space_7: electric uncle elder history minimum room blade
 bip_39_word_space_8: electric uncle elder history minimum room blade orchard
 bip_39_word_space_9: electric uncle elder history minimum room blade orchard praise
+bip_39_word_underscore_1: electric
+bip_39_word_underscore_10: electric_uncle_elder_history_minimum_room_blade_orchard_praise_evil
+bip_39_word_underscore_11: electric_uncle_elder_history_minimum_room_blade_orchard_praise_evil_mean
+bip_39_word_underscore_12: electric_uncle_elder_history_minimum_room_blade_orchard_praise_evil_mean_arch
+bip_39_word_underscore_2: electric_uncle
+bip_39_word_underscore_3: electric_uncle_elder
+bip_39_word_underscore_4: electric_uncle_elder_history
+bip_39_word_underscore_5: electric_uncle_elder_history_minimum
+bip_39_word_underscore_6: electric_uncle_elder_history_minimum_room
+bip_39_word_underscore_7: electric_uncle_elder_history_minimum_room_blade
+bip_39_word_underscore_8: electric_uncle_elder_history_minimum_room_blade_orchard
+bip_39_word_underscore_9: electric_uncle_elder_history_minimum_room_blade_orchard_praise
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

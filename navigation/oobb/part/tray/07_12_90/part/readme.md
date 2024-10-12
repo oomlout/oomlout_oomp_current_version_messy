@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | echo |  
+| bip_39_word_dash_10 | echo-where-shy-unable-ring-desk-okay-title-sudden-paper |  
+| bip_39_word_dash_11 | echo-where-shy-unable-ring-desk-okay-title-sudden-paper-parade |  
+| bip_39_word_dash_12 | echo-where-shy-unable-ring-desk-okay-title-sudden-paper-parade-asthma |  
+| bip_39_word_dash_2 | echo-where |  
+| bip_39_word_dash_3 | echo-where-shy |  
+| bip_39_word_dash_4 | echo-where-shy-unable |  
+| bip_39_word_dash_5 | echo-where-shy-unable-ring |  
+| bip_39_word_dash_6 | echo-where-shy-unable-ring-desk |  
+| bip_39_word_dash_7 | echo-where-shy-unable-ring-desk-okay |  
+| bip_39_word_dash_8 | echo-where-shy-unable-ring-desk-okay-title |  
+| bip_39_word_dash_9 | echo-where-shy-unable-ring-desk-okay-title-sudden |  
 | bip_39_word_new_br_1 | echo |  
 | bip_39_word_new_br_10 | echo<br>where<br>shy<br>unable<br>ring<br>desk<br>okay<br>title<br>sudden<br>paper |  
 | bip_39_word_new_br_11 | echo<br>where<br>shy<br>unable<br>ring<br>desk<br>okay<br>title<br>sudden<br>paper<br>parade |  
@@ -147,6 +159,18 @@ sudden |
 | bip_39_word_space_7 | echo where shy unable ring desk okay |  
 | bip_39_word_space_8 | echo where shy unable ring desk okay title |  
 | bip_39_word_space_9 | echo where shy unable ring desk okay title sudden |  
+| bip_39_word_underscore_1 | echo |  
+| bip_39_word_underscore_10 | echo_where_shy_unable_ring_desk_okay_title_sudden_paper |  
+| bip_39_word_underscore_11 | echo_where_shy_unable_ring_desk_okay_title_sudden_paper_parade |  
+| bip_39_word_underscore_12 | echo_where_shy_unable_ring_desk_okay_title_sudden_paper_parade_asthma |  
+| bip_39_word_underscore_2 | echo_where |  
+| bip_39_word_underscore_3 | echo_where_shy |  
+| bip_39_word_underscore_4 | echo_where_shy_unable |  
+| bip_39_word_underscore_5 | echo_where_shy_unable_ring |  
+| bip_39_word_underscore_6 | echo_where_shy_unable_ring_desk |  
+| bip_39_word_underscore_7 | echo_where_shy_unable_ring_desk_okay |  
+| bip_39_word_underscore_8 | echo_where_shy_unable_ring_desk_okay_title |  
+| bip_39_word_underscore_9 | echo_where_shy_unable_ring_desk_okay_title_sudden |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

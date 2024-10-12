@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | garage |  
+| bip_39_word_dash_10 | garage-aim-empower-april-negative-fruit-liar-noise-armed-expect |  
+| bip_39_word_dash_11 | garage-aim-empower-april-negative-fruit-liar-noise-armed-expect-arrest |  
+| bip_39_word_dash_12 | garage-aim-empower-april-negative-fruit-liar-noise-armed-expect-arrest-accuse |  
+| bip_39_word_dash_2 | garage-aim |  
+| bip_39_word_dash_3 | garage-aim-empower |  
+| bip_39_word_dash_4 | garage-aim-empower-april |  
+| bip_39_word_dash_5 | garage-aim-empower-april-negative |  
+| bip_39_word_dash_6 | garage-aim-empower-april-negative-fruit |  
+| bip_39_word_dash_7 | garage-aim-empower-april-negative-fruit-liar |  
+| bip_39_word_dash_8 | garage-aim-empower-april-negative-fruit-liar-noise |  
+| bip_39_word_dash_9 | garage-aim-empower-april-negative-fruit-liar-noise-armed |  
 | bip_39_word_new_br_1 | garage |  
 | bip_39_word_new_br_10 | garage<br>aim<br>empower<br>april<br>negative<br>fruit<br>liar<br>noise<br>armed<br>expect |  
 | bip_39_word_new_br_11 | garage<br>aim<br>empower<br>april<br>negative<br>fruit<br>liar<br>noise<br>armed<br>expect<br>arrest |  
@@ -147,6 +159,18 @@ armed |
 | bip_39_word_space_7 | garage aim empower april negative fruit liar |  
 | bip_39_word_space_8 | garage aim empower april negative fruit liar noise |  
 | bip_39_word_space_9 | garage aim empower april negative fruit liar noise armed |  
+| bip_39_word_underscore_1 | garage |  
+| bip_39_word_underscore_10 | garage_aim_empower_april_negative_fruit_liar_noise_armed_expect |  
+| bip_39_word_underscore_11 | garage_aim_empower_april_negative_fruit_liar_noise_armed_expect_arrest |  
+| bip_39_word_underscore_12 | garage_aim_empower_april_negative_fruit_liar_noise_armed_expect_arrest_accuse |  
+| bip_39_word_underscore_2 | garage_aim |  
+| bip_39_word_underscore_3 | garage_aim_empower |  
+| bip_39_word_underscore_4 | garage_aim_empower_april |  
+| bip_39_word_underscore_5 | garage_aim_empower_april_negative |  
+| bip_39_word_underscore_6 | garage_aim_empower_april_negative_fruit |  
+| bip_39_word_underscore_7 | garage_aim_empower_april_negative_fruit_liar |  
+| bip_39_word_underscore_8 | garage_aim_empower_april_negative_fruit_liar_noise |  
+| bip_39_word_underscore_9 | garage_aim_empower_april_negative_fruit_liar_noise_armed |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

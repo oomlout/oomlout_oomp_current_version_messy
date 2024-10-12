@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | warm |  
+| bip_39_word_dash_10 | warm-hour-sadness-cost-resemble-iron-drop-net-blur-segment |  
+| bip_39_word_dash_11 | warm-hour-sadness-cost-resemble-iron-drop-net-blur-segment-winner |  
+| bip_39_word_dash_12 | warm-hour-sadness-cost-resemble-iron-drop-net-blur-segment-winner-annual |  
+| bip_39_word_dash_2 | warm-hour |  
+| bip_39_word_dash_3 | warm-hour-sadness |  
+| bip_39_word_dash_4 | warm-hour-sadness-cost |  
+| bip_39_word_dash_5 | warm-hour-sadness-cost-resemble |  
+| bip_39_word_dash_6 | warm-hour-sadness-cost-resemble-iron |  
+| bip_39_word_dash_7 | warm-hour-sadness-cost-resemble-iron-drop |  
+| bip_39_word_dash_8 | warm-hour-sadness-cost-resemble-iron-drop-net |  
+| bip_39_word_dash_9 | warm-hour-sadness-cost-resemble-iron-drop-net-blur |  
 | bip_39_word_new_br_1 | warm |  
 | bip_39_word_new_br_10 | warm<br>hour<br>sadness<br>cost<br>resemble<br>iron<br>drop<br>net<br>blur<br>segment |  
 | bip_39_word_new_br_11 | warm<br>hour<br>sadness<br>cost<br>resemble<br>iron<br>drop<br>net<br>blur<br>segment<br>winner |  
@@ -147,6 +159,18 @@ blur |
 | bip_39_word_space_7 | warm hour sadness cost resemble iron drop |  
 | bip_39_word_space_8 | warm hour sadness cost resemble iron drop net |  
 | bip_39_word_space_9 | warm hour sadness cost resemble iron drop net blur |  
+| bip_39_word_underscore_1 | warm |  
+| bip_39_word_underscore_10 | warm_hour_sadness_cost_resemble_iron_drop_net_blur_segment |  
+| bip_39_word_underscore_11 | warm_hour_sadness_cost_resemble_iron_drop_net_blur_segment_winner |  
+| bip_39_word_underscore_12 | warm_hour_sadness_cost_resemble_iron_drop_net_blur_segment_winner_annual |  
+| bip_39_word_underscore_2 | warm_hour |  
+| bip_39_word_underscore_3 | warm_hour_sadness |  
+| bip_39_word_underscore_4 | warm_hour_sadness_cost |  
+| bip_39_word_underscore_5 | warm_hour_sadness_cost_resemble |  
+| bip_39_word_underscore_6 | warm_hour_sadness_cost_resemble_iron |  
+| bip_39_word_underscore_7 | warm_hour_sadness_cost_resemble_iron_drop |  
+| bip_39_word_underscore_8 | warm_hour_sadness_cost_resemble_iron_drop_net |  
+| bip_39_word_underscore_9 | warm_hour_sadness_cost_resemble_iron_drop_net_blur |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

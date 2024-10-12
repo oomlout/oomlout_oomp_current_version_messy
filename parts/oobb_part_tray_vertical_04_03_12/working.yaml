@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ankle
+bip_39_word_dash_10: ankle-dismiss-expand-where-tortoise-keep-mutual-old-adult-cross
+bip_39_word_dash_11: ankle-dismiss-expand-where-tortoise-keep-mutual-old-adult-cross-common
+bip_39_word_dash_12: ankle-dismiss-expand-where-tortoise-keep-mutual-old-adult-cross-common-art
+bip_39_word_dash_2: ankle-dismiss
+bip_39_word_dash_3: ankle-dismiss-expand
+bip_39_word_dash_4: ankle-dismiss-expand-where
+bip_39_word_dash_5: ankle-dismiss-expand-where-tortoise
+bip_39_word_dash_6: ankle-dismiss-expand-where-tortoise-keep
+bip_39_word_dash_7: ankle-dismiss-expand-where-tortoise-keep-mutual
+bip_39_word_dash_8: ankle-dismiss-expand-where-tortoise-keep-mutual-old
+bip_39_word_dash_9: ankle-dismiss-expand-where-tortoise-keep-mutual-old-adult
 bip_39_word_new_br_1: ankle
 bip_39_word_new_br_10: ankle<br>dismiss<br>expand<br>where<br>tortoise<br>keep<br>mutual<br>old<br>adult<br>cross
 bip_39_word_new_br_11: ankle<br>dismiss<br>expand<br>where<br>tortoise<br>keep<br>mutual<br>old<br>adult<br>cross<br>common
@@ -193,6 +205,18 @@ bip_39_word_space_6: ankle dismiss expand where tortoise keep
 bip_39_word_space_7: ankle dismiss expand where tortoise keep mutual
 bip_39_word_space_8: ankle dismiss expand where tortoise keep mutual old
 bip_39_word_space_9: ankle dismiss expand where tortoise keep mutual old adult
+bip_39_word_underscore_1: ankle
+bip_39_word_underscore_10: ankle_dismiss_expand_where_tortoise_keep_mutual_old_adult_cross
+bip_39_word_underscore_11: ankle_dismiss_expand_where_tortoise_keep_mutual_old_adult_cross_common
+bip_39_word_underscore_12: ankle_dismiss_expand_where_tortoise_keep_mutual_old_adult_cross_common_art
+bip_39_word_underscore_2: ankle_dismiss
+bip_39_word_underscore_3: ankle_dismiss_expand
+bip_39_word_underscore_4: ankle_dismiss_expand_where
+bip_39_word_underscore_5: ankle_dismiss_expand_where_tortoise
+bip_39_word_underscore_6: ankle_dismiss_expand_where_tortoise_keep
+bip_39_word_underscore_7: ankle_dismiss_expand_where_tortoise_keep_mutual
+bip_39_word_underscore_8: ankle_dismiss_expand_where_tortoise_keep_mutual_old
+bip_39_word_underscore_9: ankle_dismiss_expand_where_tortoise_keep_mutual_old_adult
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

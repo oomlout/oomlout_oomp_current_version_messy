@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | worth |  
+| bip_39_word_dash_10 | worth-outer-cost-half-umbrella-artist-trash-guitar-vicious-bracket |  
+| bip_39_word_dash_11 | worth-outer-cost-half-umbrella-artist-trash-guitar-vicious-bracket-screen |  
+| bip_39_word_dash_12 | worth-outer-cost-half-umbrella-artist-trash-guitar-vicious-bracket-screen-author |  
+| bip_39_word_dash_2 | worth-outer |  
+| bip_39_word_dash_3 | worth-outer-cost |  
+| bip_39_word_dash_4 | worth-outer-cost-half |  
+| bip_39_word_dash_5 | worth-outer-cost-half-umbrella |  
+| bip_39_word_dash_6 | worth-outer-cost-half-umbrella-artist |  
+| bip_39_word_dash_7 | worth-outer-cost-half-umbrella-artist-trash |  
+| bip_39_word_dash_8 | worth-outer-cost-half-umbrella-artist-trash-guitar |  
+| bip_39_word_dash_9 | worth-outer-cost-half-umbrella-artist-trash-guitar-vicious |  
 | bip_39_word_new_br_1 | worth |  
 | bip_39_word_new_br_10 | worth<br>outer<br>cost<br>half<br>umbrella<br>artist<br>trash<br>guitar<br>vicious<br>bracket |  
 | bip_39_word_new_br_11 | worth<br>outer<br>cost<br>half<br>umbrella<br>artist<br>trash<br>guitar<br>vicious<br>bracket<br>screen |  
@@ -147,6 +159,18 @@ vicious |
 | bip_39_word_space_7 | worth outer cost half umbrella artist trash |  
 | bip_39_word_space_8 | worth outer cost half umbrella artist trash guitar |  
 | bip_39_word_space_9 | worth outer cost half umbrella artist trash guitar vicious |  
+| bip_39_word_underscore_1 | worth |  
+| bip_39_word_underscore_10 | worth_outer_cost_half_umbrella_artist_trash_guitar_vicious_bracket |  
+| bip_39_word_underscore_11 | worth_outer_cost_half_umbrella_artist_trash_guitar_vicious_bracket_screen |  
+| bip_39_word_underscore_12 | worth_outer_cost_half_umbrella_artist_trash_guitar_vicious_bracket_screen_author |  
+| bip_39_word_underscore_2 | worth_outer |  
+| bip_39_word_underscore_3 | worth_outer_cost |  
+| bip_39_word_underscore_4 | worth_outer_cost_half |  
+| bip_39_word_underscore_5 | worth_outer_cost_half_umbrella |  
+| bip_39_word_underscore_6 | worth_outer_cost_half_umbrella_artist |  
+| bip_39_word_underscore_7 | worth_outer_cost_half_umbrella_artist_trash |  
+| bip_39_word_underscore_8 | worth_outer_cost_half_umbrella_artist_trash_guitar |  
+| bip_39_word_underscore_9 | worth_outer_cost_half_umbrella_artist_trash_guitar_vicious |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | public |  
+| bip_39_word_dash_10 | public-leopard-sea-person-bone-inform-scheme-own-trash-motor |  
+| bip_39_word_dash_11 | public-leopard-sea-person-bone-inform-scheme-own-trash-motor-seminar |  
+| bip_39_word_dash_12 | public-leopard-sea-person-bone-inform-scheme-own-trash-motor-seminar-antique |  
+| bip_39_word_dash_2 | public-leopard |  
+| bip_39_word_dash_3 | public-leopard-sea |  
+| bip_39_word_dash_4 | public-leopard-sea-person |  
+| bip_39_word_dash_5 | public-leopard-sea-person-bone |  
+| bip_39_word_dash_6 | public-leopard-sea-person-bone-inform |  
+| bip_39_word_dash_7 | public-leopard-sea-person-bone-inform-scheme |  
+| bip_39_word_dash_8 | public-leopard-sea-person-bone-inform-scheme-own |  
+| bip_39_word_dash_9 | public-leopard-sea-person-bone-inform-scheme-own-trash |  
 | bip_39_word_new_br_1 | public |  
 | bip_39_word_new_br_10 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own<br>trash<br>motor |  
 | bip_39_word_new_br_11 | public<br>leopard<br>sea<br>person<br>bone<br>inform<br>scheme<br>own<br>trash<br>motor<br>seminar |  
@@ -147,6 +159,18 @@ trash |
 | bip_39_word_space_7 | public leopard sea person bone inform scheme |  
 | bip_39_word_space_8 | public leopard sea person bone inform scheme own |  
 | bip_39_word_space_9 | public leopard sea person bone inform scheme own trash |  
+| bip_39_word_underscore_1 | public |  
+| bip_39_word_underscore_10 | public_leopard_sea_person_bone_inform_scheme_own_trash_motor |  
+| bip_39_word_underscore_11 | public_leopard_sea_person_bone_inform_scheme_own_trash_motor_seminar |  
+| bip_39_word_underscore_12 | public_leopard_sea_person_bone_inform_scheme_own_trash_motor_seminar_antique |  
+| bip_39_word_underscore_2 | public_leopard |  
+| bip_39_word_underscore_3 | public_leopard_sea |  
+| bip_39_word_underscore_4 | public_leopard_sea_person |  
+| bip_39_word_underscore_5 | public_leopard_sea_person_bone |  
+| bip_39_word_underscore_6 | public_leopard_sea_person_bone_inform |  
+| bip_39_word_underscore_7 | public_leopard_sea_person_bone_inform_scheme |  
+| bip_39_word_underscore_8 | public_leopard_sea_person_bone_inform_scheme_own |  
+| bip_39_word_underscore_9 | public_leopard_sea_person_bone_inform_scheme_own_trash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

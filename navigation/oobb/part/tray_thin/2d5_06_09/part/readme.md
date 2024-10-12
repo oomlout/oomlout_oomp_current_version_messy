@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hockey |  
+| bip_39_word_dash_10 | hockey-broken-sentence-abstract-tip-gaze-again-brush-gym-local |  
+| bip_39_word_dash_11 | hockey-broken-sentence-abstract-tip-gaze-again-brush-gym-local-success |  
+| bip_39_word_dash_12 | hockey-broken-sentence-abstract-tip-gaze-again-brush-gym-local-success-author |  
+| bip_39_word_dash_2 | hockey-broken |  
+| bip_39_word_dash_3 | hockey-broken-sentence |  
+| bip_39_word_dash_4 | hockey-broken-sentence-abstract |  
+| bip_39_word_dash_5 | hockey-broken-sentence-abstract-tip |  
+| bip_39_word_dash_6 | hockey-broken-sentence-abstract-tip-gaze |  
+| bip_39_word_dash_7 | hockey-broken-sentence-abstract-tip-gaze-again |  
+| bip_39_word_dash_8 | hockey-broken-sentence-abstract-tip-gaze-again-brush |  
+| bip_39_word_dash_9 | hockey-broken-sentence-abstract-tip-gaze-again-brush-gym |  
 | bip_39_word_new_br_1 | hockey |  
 | bip_39_word_new_br_10 | hockey<br>broken<br>sentence<br>abstract<br>tip<br>gaze<br>again<br>brush<br>gym<br>local |  
 | bip_39_word_new_br_11 | hockey<br>broken<br>sentence<br>abstract<br>tip<br>gaze<br>again<br>brush<br>gym<br>local<br>success |  
@@ -147,6 +159,18 @@ gym |
 | bip_39_word_space_7 | hockey broken sentence abstract tip gaze again |  
 | bip_39_word_space_8 | hockey broken sentence abstract tip gaze again brush |  
 | bip_39_word_space_9 | hockey broken sentence abstract tip gaze again brush gym |  
+| bip_39_word_underscore_1 | hockey |  
+| bip_39_word_underscore_10 | hockey_broken_sentence_abstract_tip_gaze_again_brush_gym_local |  
+| bip_39_word_underscore_11 | hockey_broken_sentence_abstract_tip_gaze_again_brush_gym_local_success |  
+| bip_39_word_underscore_12 | hockey_broken_sentence_abstract_tip_gaze_again_brush_gym_local_success_author |  
+| bip_39_word_underscore_2 | hockey_broken |  
+| bip_39_word_underscore_3 | hockey_broken_sentence |  
+| bip_39_word_underscore_4 | hockey_broken_sentence_abstract |  
+| bip_39_word_underscore_5 | hockey_broken_sentence_abstract_tip |  
+| bip_39_word_underscore_6 | hockey_broken_sentence_abstract_tip_gaze |  
+| bip_39_word_underscore_7 | hockey_broken_sentence_abstract_tip_gaze_again |  
+| bip_39_word_underscore_8 | hockey_broken_sentence_abstract_tip_gaze_again_brush |  
+| bip_39_word_underscore_9 | hockey_broken_sentence_abstract_tip_gaze_again_brush_gym |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

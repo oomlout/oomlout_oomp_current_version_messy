@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reveal |  
+| bip_39_word_dash_10 | reveal-screen-envelope-matter-trip-vintage-immense-expand-february-forward |  
+| bip_39_word_dash_11 | reveal-screen-envelope-matter-trip-vintage-immense-expand-february-forward-board |  
+| bip_39_word_dash_12 | reveal-screen-envelope-matter-trip-vintage-immense-expand-february-forward-board-alpha |  
+| bip_39_word_dash_2 | reveal-screen |  
+| bip_39_word_dash_3 | reveal-screen-envelope |  
+| bip_39_word_dash_4 | reveal-screen-envelope-matter |  
+| bip_39_word_dash_5 | reveal-screen-envelope-matter-trip |  
+| bip_39_word_dash_6 | reveal-screen-envelope-matter-trip-vintage |  
+| bip_39_word_dash_7 | reveal-screen-envelope-matter-trip-vintage-immense |  
+| bip_39_word_dash_8 | reveal-screen-envelope-matter-trip-vintage-immense-expand |  
+| bip_39_word_dash_9 | reveal-screen-envelope-matter-trip-vintage-immense-expand-february |  
 | bip_39_word_new_br_1 | reveal |  
 | bip_39_word_new_br_10 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand<br>february<br>forward |  
 | bip_39_word_new_br_11 | reveal<br>screen<br>envelope<br>matter<br>trip<br>vintage<br>immense<br>expand<br>february<br>forward<br>board |  
@@ -147,6 +159,18 @@ february |
 | bip_39_word_space_7 | reveal screen envelope matter trip vintage immense |  
 | bip_39_word_space_8 | reveal screen envelope matter trip vintage immense expand |  
 | bip_39_word_space_9 | reveal screen envelope matter trip vintage immense expand february |  
+| bip_39_word_underscore_1 | reveal |  
+| bip_39_word_underscore_10 | reveal_screen_envelope_matter_trip_vintage_immense_expand_february_forward |  
+| bip_39_word_underscore_11 | reveal_screen_envelope_matter_trip_vintage_immense_expand_february_forward_board |  
+| bip_39_word_underscore_12 | reveal_screen_envelope_matter_trip_vintage_immense_expand_february_forward_board_alpha |  
+| bip_39_word_underscore_2 | reveal_screen |  
+| bip_39_word_underscore_3 | reveal_screen_envelope |  
+| bip_39_word_underscore_4 | reveal_screen_envelope_matter |  
+| bip_39_word_underscore_5 | reveal_screen_envelope_matter_trip |  
+| bip_39_word_underscore_6 | reveal_screen_envelope_matter_trip_vintage |  
+| bip_39_word_underscore_7 | reveal_screen_envelope_matter_trip_vintage_immense |  
+| bip_39_word_underscore_8 | reveal_screen_envelope_matter_trip_vintage_immense_expand |  
+| bip_39_word_underscore_9 | reveal_screen_envelope_matter_trip_vintage_immense_expand_february |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

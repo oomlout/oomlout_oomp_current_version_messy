@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wreck
+bip_39_word_dash_10: wreck-mom-north-debate-decorate-exist-spin-improve-style-vapor
+bip_39_word_dash_11: wreck-mom-north-debate-decorate-exist-spin-improve-style-vapor-dynamic
+bip_39_word_dash_12: wreck-mom-north-debate-decorate-exist-spin-improve-style-vapor-dynamic-around
+bip_39_word_dash_2: wreck-mom
+bip_39_word_dash_3: wreck-mom-north
+bip_39_word_dash_4: wreck-mom-north-debate
+bip_39_word_dash_5: wreck-mom-north-debate-decorate
+bip_39_word_dash_6: wreck-mom-north-debate-decorate-exist
+bip_39_word_dash_7: wreck-mom-north-debate-decorate-exist-spin
+bip_39_word_dash_8: wreck-mom-north-debate-decorate-exist-spin-improve
+bip_39_word_dash_9: wreck-mom-north-debate-decorate-exist-spin-improve-style
 bip_39_word_new_br_1: wreck
 bip_39_word_new_br_10: wreck<br>mom<br>north<br>debate<br>decorate<br>exist<br>spin<br>improve<br>style<br>vapor
 bip_39_word_new_br_11: wreck<br>mom<br>north<br>debate<br>decorate<br>exist<br>spin<br>improve<br>style<br>vapor<br>dynamic
@@ -193,6 +205,18 @@ bip_39_word_space_6: wreck mom north debate decorate exist
 bip_39_word_space_7: wreck mom north debate decorate exist spin
 bip_39_word_space_8: wreck mom north debate decorate exist spin improve
 bip_39_word_space_9: wreck mom north debate decorate exist spin improve style
+bip_39_word_underscore_1: wreck
+bip_39_word_underscore_10: wreck_mom_north_debate_decorate_exist_spin_improve_style_vapor
+bip_39_word_underscore_11: wreck_mom_north_debate_decorate_exist_spin_improve_style_vapor_dynamic
+bip_39_word_underscore_12: wreck_mom_north_debate_decorate_exist_spin_improve_style_vapor_dynamic_around
+bip_39_word_underscore_2: wreck_mom
+bip_39_word_underscore_3: wreck_mom_north
+bip_39_word_underscore_4: wreck_mom_north_debate
+bip_39_word_underscore_5: wreck_mom_north_debate_decorate
+bip_39_word_underscore_6: wreck_mom_north_debate_decorate_exist
+bip_39_word_underscore_7: wreck_mom_north_debate_decorate_exist_spin
+bip_39_word_underscore_8: wreck_mom_north_debate_decorate_exist_spin_improve
+bip_39_word_underscore_9: wreck_mom_north_debate_decorate_exist_spin_improve_style
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

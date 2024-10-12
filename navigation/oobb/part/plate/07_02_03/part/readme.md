@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dragon |  
+| bip_39_word_dash_10 | dragon-crack-liquid-approve-violin-bulb-drum-black-true-shoot |  
+| bip_39_word_dash_11 | dragon-crack-liquid-approve-violin-bulb-drum-black-true-shoot-web |  
+| bip_39_word_dash_12 | dragon-crack-liquid-approve-violin-bulb-drum-black-true-shoot-web-absorb |  
+| bip_39_word_dash_2 | dragon-crack |  
+| bip_39_word_dash_3 | dragon-crack-liquid |  
+| bip_39_word_dash_4 | dragon-crack-liquid-approve |  
+| bip_39_word_dash_5 | dragon-crack-liquid-approve-violin |  
+| bip_39_word_dash_6 | dragon-crack-liquid-approve-violin-bulb |  
+| bip_39_word_dash_7 | dragon-crack-liquid-approve-violin-bulb-drum |  
+| bip_39_word_dash_8 | dragon-crack-liquid-approve-violin-bulb-drum-black |  
+| bip_39_word_dash_9 | dragon-crack-liquid-approve-violin-bulb-drum-black-true |  
 | bip_39_word_new_br_1 | dragon |  
 | bip_39_word_new_br_10 | dragon<br>crack<br>liquid<br>approve<br>violin<br>bulb<br>drum<br>black<br>true<br>shoot |  
 | bip_39_word_new_br_11 | dragon<br>crack<br>liquid<br>approve<br>violin<br>bulb<br>drum<br>black<br>true<br>shoot<br>web |  
@@ -147,6 +159,18 @@ true |
 | bip_39_word_space_7 | dragon crack liquid approve violin bulb drum |  
 | bip_39_word_space_8 | dragon crack liquid approve violin bulb drum black |  
 | bip_39_word_space_9 | dragon crack liquid approve violin bulb drum black true |  
+| bip_39_word_underscore_1 | dragon |  
+| bip_39_word_underscore_10 | dragon_crack_liquid_approve_violin_bulb_drum_black_true_shoot |  
+| bip_39_word_underscore_11 | dragon_crack_liquid_approve_violin_bulb_drum_black_true_shoot_web |  
+| bip_39_word_underscore_12 | dragon_crack_liquid_approve_violin_bulb_drum_black_true_shoot_web_absorb |  
+| bip_39_word_underscore_2 | dragon_crack |  
+| bip_39_word_underscore_3 | dragon_crack_liquid |  
+| bip_39_word_underscore_4 | dragon_crack_liquid_approve |  
+| bip_39_word_underscore_5 | dragon_crack_liquid_approve_violin |  
+| bip_39_word_underscore_6 | dragon_crack_liquid_approve_violin_bulb |  
+| bip_39_word_underscore_7 | dragon_crack_liquid_approve_violin_bulb_drum |  
+| bip_39_word_underscore_8 | dragon_crack_liquid_approve_violin_bulb_drum_black |  
+| bip_39_word_underscore_9 | dragon_crack_liquid_approve_violin_bulb_drum_black_true |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | degree |  
+| bip_39_word_dash_10 | degree-bulb-better-floor-history-sister-fortune-inspire-course-auto |  
+| bip_39_word_dash_11 | degree-bulb-better-floor-history-sister-fortune-inspire-course-auto-loud |  
+| bip_39_word_dash_12 | degree-bulb-better-floor-history-sister-fortune-inspire-course-auto-loud-aspect |  
+| bip_39_word_dash_2 | degree-bulb |  
+| bip_39_word_dash_3 | degree-bulb-better |  
+| bip_39_word_dash_4 | degree-bulb-better-floor |  
+| bip_39_word_dash_5 | degree-bulb-better-floor-history |  
+| bip_39_word_dash_6 | degree-bulb-better-floor-history-sister |  
+| bip_39_word_dash_7 | degree-bulb-better-floor-history-sister-fortune |  
+| bip_39_word_dash_8 | degree-bulb-better-floor-history-sister-fortune-inspire |  
+| bip_39_word_dash_9 | degree-bulb-better-floor-history-sister-fortune-inspire-course |  
 | bip_39_word_new_br_1 | degree |  
 | bip_39_word_new_br_10 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto |  
 | bip_39_word_new_br_11 | degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto<br>loud |  
@@ -147,6 +159,18 @@ course |
 | bip_39_word_space_7 | degree bulb better floor history sister fortune |  
 | bip_39_word_space_8 | degree bulb better floor history sister fortune inspire |  
 | bip_39_word_space_9 | degree bulb better floor history sister fortune inspire course |  
+| bip_39_word_underscore_1 | degree |  
+| bip_39_word_underscore_10 | degree_bulb_better_floor_history_sister_fortune_inspire_course_auto |  
+| bip_39_word_underscore_11 | degree_bulb_better_floor_history_sister_fortune_inspire_course_auto_loud |  
+| bip_39_word_underscore_12 | degree_bulb_better_floor_history_sister_fortune_inspire_course_auto_loud_aspect |  
+| bip_39_word_underscore_2 | degree_bulb |  
+| bip_39_word_underscore_3 | degree_bulb_better |  
+| bip_39_word_underscore_4 | degree_bulb_better_floor |  
+| bip_39_word_underscore_5 | degree_bulb_better_floor_history |  
+| bip_39_word_underscore_6 | degree_bulb_better_floor_history_sister |  
+| bip_39_word_underscore_7 | degree_bulb_better_floor_history_sister_fortune |  
+| bip_39_word_underscore_8 | degree_bulb_better_floor_history_sister_fortune_inspire |  
+| bip_39_word_underscore_9 | degree_bulb_better_floor_history_sister_fortune_inspire_course |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

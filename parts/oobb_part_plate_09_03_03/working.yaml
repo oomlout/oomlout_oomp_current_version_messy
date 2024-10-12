@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clinic
+bip_39_word_dash_10: clinic-dial-rule-common-lift-struggle-scorpion-elephant-maximum-wish
+bip_39_word_dash_11: clinic-dial-rule-common-lift-struggle-scorpion-elephant-maximum-wish-quality
+bip_39_word_dash_12: clinic-dial-rule-common-lift-struggle-scorpion-elephant-maximum-wish-quality-amused
+bip_39_word_dash_2: clinic-dial
+bip_39_word_dash_3: clinic-dial-rule
+bip_39_word_dash_4: clinic-dial-rule-common
+bip_39_word_dash_5: clinic-dial-rule-common-lift
+bip_39_word_dash_6: clinic-dial-rule-common-lift-struggle
+bip_39_word_dash_7: clinic-dial-rule-common-lift-struggle-scorpion
+bip_39_word_dash_8: clinic-dial-rule-common-lift-struggle-scorpion-elephant
+bip_39_word_dash_9: clinic-dial-rule-common-lift-struggle-scorpion-elephant-maximum
 bip_39_word_new_br_1: clinic
 bip_39_word_new_br_10: clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish
 bip_39_word_new_br_11: clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish<br>quality
@@ -194,6 +206,18 @@ bip_39_word_space_6: clinic dial rule common lift struggle
 bip_39_word_space_7: clinic dial rule common lift struggle scorpion
 bip_39_word_space_8: clinic dial rule common lift struggle scorpion elephant
 bip_39_word_space_9: clinic dial rule common lift struggle scorpion elephant maximum
+bip_39_word_underscore_1: clinic
+bip_39_word_underscore_10: clinic_dial_rule_common_lift_struggle_scorpion_elephant_maximum_wish
+bip_39_word_underscore_11: clinic_dial_rule_common_lift_struggle_scorpion_elephant_maximum_wish_quality
+bip_39_word_underscore_12: clinic_dial_rule_common_lift_struggle_scorpion_elephant_maximum_wish_quality_amused
+bip_39_word_underscore_2: clinic_dial
+bip_39_word_underscore_3: clinic_dial_rule
+bip_39_word_underscore_4: clinic_dial_rule_common
+bip_39_word_underscore_5: clinic_dial_rule_common_lift
+bip_39_word_underscore_6: clinic_dial_rule_common_lift_struggle
+bip_39_word_underscore_7: clinic_dial_rule_common_lift_struggle_scorpion
+bip_39_word_underscore_8: clinic_dial_rule_common_lift_struggle_scorpion_elephant
+bip_39_word_underscore_9: clinic_dial_rule_common_lift_struggle_scorpion_elephant_maximum
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

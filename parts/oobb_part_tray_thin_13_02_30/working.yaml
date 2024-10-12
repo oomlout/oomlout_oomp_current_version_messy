@@ -1,3 +1,15 @@
+bip_39_word_dash_1: supply
+bip_39_word_dash_10: supply-dash-script-equal-category-ugly-short-burger-rubber-move
+bip_39_word_dash_11: supply-dash-script-equal-category-ugly-short-burger-rubber-move-intact
+bip_39_word_dash_12: supply-dash-script-equal-category-ugly-short-burger-rubber-move-intact-admit
+bip_39_word_dash_2: supply-dash
+bip_39_word_dash_3: supply-dash-script
+bip_39_word_dash_4: supply-dash-script-equal
+bip_39_word_dash_5: supply-dash-script-equal-category
+bip_39_word_dash_6: supply-dash-script-equal-category-ugly
+bip_39_word_dash_7: supply-dash-script-equal-category-ugly-short
+bip_39_word_dash_8: supply-dash-script-equal-category-ugly-short-burger
+bip_39_word_dash_9: supply-dash-script-equal-category-ugly-short-burger-rubber
 bip_39_word_new_br_1: supply
 bip_39_word_new_br_10: supply<br>dash<br>script<br>equal<br>category<br>ugly<br>short<br>burger<br>rubber<br>move
 bip_39_word_new_br_11: supply<br>dash<br>script<br>equal<br>category<br>ugly<br>short<br>burger<br>rubber<br>move<br>intact
@@ -193,6 +205,18 @@ bip_39_word_space_6: supply dash script equal category ugly
 bip_39_word_space_7: supply dash script equal category ugly short
 bip_39_word_space_8: supply dash script equal category ugly short burger
 bip_39_word_space_9: supply dash script equal category ugly short burger rubber
+bip_39_word_underscore_1: supply
+bip_39_word_underscore_10: supply_dash_script_equal_category_ugly_short_burger_rubber_move
+bip_39_word_underscore_11: supply_dash_script_equal_category_ugly_short_burger_rubber_move_intact
+bip_39_word_underscore_12: supply_dash_script_equal_category_ugly_short_burger_rubber_move_intact_admit
+bip_39_word_underscore_2: supply_dash
+bip_39_word_underscore_3: supply_dash_script
+bip_39_word_underscore_4: supply_dash_script_equal
+bip_39_word_underscore_5: supply_dash_script_equal_category
+bip_39_word_underscore_6: supply_dash_script_equal_category_ugly
+bip_39_word_underscore_7: supply_dash_script_equal_category_ugly_short
+bip_39_word_underscore_8: supply_dash_script_equal_category_ugly_short_burger
+bip_39_word_underscore_9: supply_dash_script_equal_category_ugly_short_burger_rubber
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

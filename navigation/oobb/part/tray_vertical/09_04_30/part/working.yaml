@@ -1,3 +1,15 @@
+bip_39_word_dash_1: victory
+bip_39_word_dash_10: victory-boy-wisdom-other-act-youth-check-undo-chunk-mother
+bip_39_word_dash_11: victory-boy-wisdom-other-act-youth-check-undo-chunk-mother-usual
+bip_39_word_dash_12: victory-boy-wisdom-other-act-youth-check-undo-chunk-mother-usual-across
+bip_39_word_dash_2: victory-boy
+bip_39_word_dash_3: victory-boy-wisdom
+bip_39_word_dash_4: victory-boy-wisdom-other
+bip_39_word_dash_5: victory-boy-wisdom-other-act
+bip_39_word_dash_6: victory-boy-wisdom-other-act-youth
+bip_39_word_dash_7: victory-boy-wisdom-other-act-youth-check
+bip_39_word_dash_8: victory-boy-wisdom-other-act-youth-check-undo
+bip_39_word_dash_9: victory-boy-wisdom-other-act-youth-check-undo-chunk
 bip_39_word_new_br_1: victory
 bip_39_word_new_br_10: victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother
 bip_39_word_new_br_11: victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother<br>usual
@@ -192,6 +204,18 @@ bip_39_word_space_6: victory boy wisdom other act youth
 bip_39_word_space_7: victory boy wisdom other act youth check
 bip_39_word_space_8: victory boy wisdom other act youth check undo
 bip_39_word_space_9: victory boy wisdom other act youth check undo chunk
+bip_39_word_underscore_1: victory
+bip_39_word_underscore_10: victory_boy_wisdom_other_act_youth_check_undo_chunk_mother
+bip_39_word_underscore_11: victory_boy_wisdom_other_act_youth_check_undo_chunk_mother_usual
+bip_39_word_underscore_12: victory_boy_wisdom_other_act_youth_check_undo_chunk_mother_usual_across
+bip_39_word_underscore_2: victory_boy
+bip_39_word_underscore_3: victory_boy_wisdom
+bip_39_word_underscore_4: victory_boy_wisdom_other
+bip_39_word_underscore_5: victory_boy_wisdom_other_act
+bip_39_word_underscore_6: victory_boy_wisdom_other_act_youth
+bip_39_word_underscore_7: victory_boy_wisdom_other_act_youth_check
+bip_39_word_underscore_8: victory_boy_wisdom_other_act_youth_check_undo
+bip_39_word_underscore_9: victory_boy_wisdom_other_act_youth_check_undo_chunk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

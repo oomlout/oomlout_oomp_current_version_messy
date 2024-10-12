@@ -1,3 +1,15 @@
+bip_39_word_dash_1: transfer
+bip_39_word_dash_10: transfer-typical-law-lucky-sort-brisk-expose-slender-grant-position
+bip_39_word_dash_11: transfer-typical-law-lucky-sort-brisk-expose-slender-grant-position-mail
+bip_39_word_dash_12: transfer-typical-law-lucky-sort-brisk-expose-slender-grant-position-mail-angry
+bip_39_word_dash_2: transfer-typical
+bip_39_word_dash_3: transfer-typical-law
+bip_39_word_dash_4: transfer-typical-law-lucky
+bip_39_word_dash_5: transfer-typical-law-lucky-sort
+bip_39_word_dash_6: transfer-typical-law-lucky-sort-brisk
+bip_39_word_dash_7: transfer-typical-law-lucky-sort-brisk-expose
+bip_39_word_dash_8: transfer-typical-law-lucky-sort-brisk-expose-slender
+bip_39_word_dash_9: transfer-typical-law-lucky-sort-brisk-expose-slender-grant
 bip_39_word_new_br_1: transfer
 bip_39_word_new_br_10: transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender<br>grant<br>position
 bip_39_word_new_br_11: transfer<br>typical<br>law<br>lucky<br>sort<br>brisk<br>expose<br>slender<br>grant<br>position<br>mail
@@ -193,6 +205,18 @@ bip_39_word_space_6: transfer typical law lucky sort brisk
 bip_39_word_space_7: transfer typical law lucky sort brisk expose
 bip_39_word_space_8: transfer typical law lucky sort brisk expose slender
 bip_39_word_space_9: transfer typical law lucky sort brisk expose slender grant
+bip_39_word_underscore_1: transfer
+bip_39_word_underscore_10: transfer_typical_law_lucky_sort_brisk_expose_slender_grant_position
+bip_39_word_underscore_11: transfer_typical_law_lucky_sort_brisk_expose_slender_grant_position_mail
+bip_39_word_underscore_12: transfer_typical_law_lucky_sort_brisk_expose_slender_grant_position_mail_angry
+bip_39_word_underscore_2: transfer_typical
+bip_39_word_underscore_3: transfer_typical_law
+bip_39_word_underscore_4: transfer_typical_law_lucky
+bip_39_word_underscore_5: transfer_typical_law_lucky_sort
+bip_39_word_underscore_6: transfer_typical_law_lucky_sort_brisk
+bip_39_word_underscore_7: transfer_typical_law_lucky_sort_brisk_expose
+bip_39_word_underscore_8: transfer_typical_law_lucky_sort_brisk_expose_slender
+bip_39_word_underscore_9: transfer_typical_law_lucky_sort_brisk_expose_slender_grant
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

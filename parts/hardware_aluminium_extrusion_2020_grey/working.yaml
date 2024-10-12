@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stem
+bip_39_word_dash_10: stem-island-foil-result-forget-once-wall-obvious-cruise-envelope
+bip_39_word_dash_11: stem-island-foil-result-forget-once-wall-obvious-cruise-envelope-vital
+bip_39_word_dash_12: stem-island-foil-result-forget-once-wall-obvious-cruise-envelope-vital-address
+bip_39_word_dash_2: stem-island
+bip_39_word_dash_3: stem-island-foil
+bip_39_word_dash_4: stem-island-foil-result
+bip_39_word_dash_5: stem-island-foil-result-forget
+bip_39_word_dash_6: stem-island-foil-result-forget-once
+bip_39_word_dash_7: stem-island-foil-result-forget-once-wall
+bip_39_word_dash_8: stem-island-foil-result-forget-once-wall-obvious
+bip_39_word_dash_9: stem-island-foil-result-forget-once-wall-obvious-cruise
 bip_39_word_new_br_1: stem
 bip_39_word_new_br_10: stem<br>island<br>foil<br>result<br>forget<br>once<br>wall<br>obvious<br>cruise<br>envelope
 bip_39_word_new_br_11: stem<br>island<br>foil<br>result<br>forget<br>once<br>wall<br>obvious<br>cruise<br>envelope<br>vital
@@ -193,6 +205,18 @@ bip_39_word_space_6: stem island foil result forget once
 bip_39_word_space_7: stem island foil result forget once wall
 bip_39_word_space_8: stem island foil result forget once wall obvious
 bip_39_word_space_9: stem island foil result forget once wall obvious cruise
+bip_39_word_underscore_1: stem
+bip_39_word_underscore_10: stem_island_foil_result_forget_once_wall_obvious_cruise_envelope
+bip_39_word_underscore_11: stem_island_foil_result_forget_once_wall_obvious_cruise_envelope_vital
+bip_39_word_underscore_12: stem_island_foil_result_forget_once_wall_obvious_cruise_envelope_vital_address
+bip_39_word_underscore_2: stem_island
+bip_39_word_underscore_3: stem_island_foil
+bip_39_word_underscore_4: stem_island_foil_result
+bip_39_word_underscore_5: stem_island_foil_result_forget
+bip_39_word_underscore_6: stem_island_foil_result_forget_once
+bip_39_word_underscore_7: stem_island_foil_result_forget_once_wall
+bip_39_word_underscore_8: stem_island_foil_result_forget_once_wall_obvious
+bip_39_word_underscore_9: stem_island_foil_result_forget_once_wall_obvious_cruise
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: twist
+bip_39_word_dash_10: twist-cousin-pilot-lion-bridge-long-midnight-crush-album-course
+bip_39_word_dash_11: twist-cousin-pilot-lion-bridge-long-midnight-crush-album-course-focus
+bip_39_word_dash_12: twist-cousin-pilot-lion-bridge-long-midnight-crush-album-course-focus-amount
+bip_39_word_dash_2: twist-cousin
+bip_39_word_dash_3: twist-cousin-pilot
+bip_39_word_dash_4: twist-cousin-pilot-lion
+bip_39_word_dash_5: twist-cousin-pilot-lion-bridge
+bip_39_word_dash_6: twist-cousin-pilot-lion-bridge-long
+bip_39_word_dash_7: twist-cousin-pilot-lion-bridge-long-midnight
+bip_39_word_dash_8: twist-cousin-pilot-lion-bridge-long-midnight-crush
+bip_39_word_dash_9: twist-cousin-pilot-lion-bridge-long-midnight-crush-album
 bip_39_word_new_br_1: twist
 bip_39_word_new_br_10: twist<br>cousin<br>pilot<br>lion<br>bridge<br>long<br>midnight<br>crush<br>album<br>course
 bip_39_word_new_br_11: twist<br>cousin<br>pilot<br>lion<br>bridge<br>long<br>midnight<br>crush<br>album<br>course<br>focus
@@ -193,6 +205,18 @@ bip_39_word_space_6: twist cousin pilot lion bridge long
 bip_39_word_space_7: twist cousin pilot lion bridge long midnight
 bip_39_word_space_8: twist cousin pilot lion bridge long midnight crush
 bip_39_word_space_9: twist cousin pilot lion bridge long midnight crush album
+bip_39_word_underscore_1: twist
+bip_39_word_underscore_10: twist_cousin_pilot_lion_bridge_long_midnight_crush_album_course
+bip_39_word_underscore_11: twist_cousin_pilot_lion_bridge_long_midnight_crush_album_course_focus
+bip_39_word_underscore_12: twist_cousin_pilot_lion_bridge_long_midnight_crush_album_course_focus_amount
+bip_39_word_underscore_2: twist_cousin
+bip_39_word_underscore_3: twist_cousin_pilot
+bip_39_word_underscore_4: twist_cousin_pilot_lion
+bip_39_word_underscore_5: twist_cousin_pilot_lion_bridge
+bip_39_word_underscore_6: twist_cousin_pilot_lion_bridge_long
+bip_39_word_underscore_7: twist_cousin_pilot_lion_bridge_long_midnight
+bip_39_word_underscore_8: twist_cousin_pilot_lion_bridge_long_midnight_crush
+bip_39_word_underscore_9: twist_cousin_pilot_lion_bridge_long_midnight_crush_album
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

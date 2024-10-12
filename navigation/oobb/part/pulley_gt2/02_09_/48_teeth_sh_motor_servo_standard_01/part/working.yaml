@@ -1,3 +1,14 @@
+bip_39_word_dash_1: ship
+bip_39_word_dash_10: ship-slush-gadget-time-wink-upgrade-nurse-near-exit-couch
+bip_39_word_dash_11: ship-slush-gadget-time-wink-upgrade-nurse-near-exit-couch-vast
+bip_39_word_dash_2: ship-slush
+bip_39_word_dash_3: ship-slush-gadget
+bip_39_word_dash_4: ship-slush-gadget-time
+bip_39_word_dash_5: ship-slush-gadget-time-wink
+bip_39_word_dash_6: ship-slush-gadget-time-wink-upgrade
+bip_39_word_dash_7: ship-slush-gadget-time-wink-upgrade-nurse
+bip_39_word_dash_8: ship-slush-gadget-time-wink-upgrade-nurse-near
+bip_39_word_dash_9: ship-slush-gadget-time-wink-upgrade-nurse-near-exit
 bip_39_word_new_br_1: ship
 bip_39_word_new_br_10: ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit<br>couch
 bip_39_word_new_br_11: ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit<br>couch<br>vast
@@ -164,6 +175,17 @@ bip_39_word_space_6: ship slush gadget time wink upgrade
 bip_39_word_space_7: ship slush gadget time wink upgrade nurse
 bip_39_word_space_8: ship slush gadget time wink upgrade nurse near
 bip_39_word_space_9: ship slush gadget time wink upgrade nurse near exit
+bip_39_word_underscore_1: ship
+bip_39_word_underscore_10: ship_slush_gadget_time_wink_upgrade_nurse_near_exit_couch
+bip_39_word_underscore_11: ship_slush_gadget_time_wink_upgrade_nurse_near_exit_couch_vast
+bip_39_word_underscore_2: ship_slush
+bip_39_word_underscore_3: ship_slush_gadget
+bip_39_word_underscore_4: ship_slush_gadget_time
+bip_39_word_underscore_5: ship_slush_gadget_time_wink
+bip_39_word_underscore_6: ship_slush_gadget_time_wink_upgrade
+bip_39_word_underscore_7: ship_slush_gadget_time_wink_upgrade_nurse
+bip_39_word_underscore_8: ship_slush_gadget_time_wink_upgrade_nurse_near
+bip_39_word_underscore_9: ship_slush_gadget_time_wink_upgrade_nurse_near_exit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

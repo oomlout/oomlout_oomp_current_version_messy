@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swap |  
+| bip_39_word_dash_10 | swap-have-transfer-wheel-crouch-nation-ladder-stone-board-clump |  
+| bip_39_word_dash_11 | swap-have-transfer-wheel-crouch-nation-ladder-stone-board-clump-dish |  
+| bip_39_word_dash_12 | swap-have-transfer-wheel-crouch-nation-ladder-stone-board-clump-dish-aim |  
+| bip_39_word_dash_2 | swap-have |  
+| bip_39_word_dash_3 | swap-have-transfer |  
+| bip_39_word_dash_4 | swap-have-transfer-wheel |  
+| bip_39_word_dash_5 | swap-have-transfer-wheel-crouch |  
+| bip_39_word_dash_6 | swap-have-transfer-wheel-crouch-nation |  
+| bip_39_word_dash_7 | swap-have-transfer-wheel-crouch-nation-ladder |  
+| bip_39_word_dash_8 | swap-have-transfer-wheel-crouch-nation-ladder-stone |  
+| bip_39_word_dash_9 | swap-have-transfer-wheel-crouch-nation-ladder-stone-board |  
 | bip_39_word_new_br_1 | swap |  
 | bip_39_word_new_br_10 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump |  
 | bip_39_word_new_br_11 | swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump<br>dish |  
@@ -147,6 +159,18 @@ board |
 | bip_39_word_space_7 | swap have transfer wheel crouch nation ladder |  
 | bip_39_word_space_8 | swap have transfer wheel crouch nation ladder stone |  
 | bip_39_word_space_9 | swap have transfer wheel crouch nation ladder stone board |  
+| bip_39_word_underscore_1 | swap |  
+| bip_39_word_underscore_10 | swap_have_transfer_wheel_crouch_nation_ladder_stone_board_clump |  
+| bip_39_word_underscore_11 | swap_have_transfer_wheel_crouch_nation_ladder_stone_board_clump_dish |  
+| bip_39_word_underscore_12 | swap_have_transfer_wheel_crouch_nation_ladder_stone_board_clump_dish_aim |  
+| bip_39_word_underscore_2 | swap_have |  
+| bip_39_word_underscore_3 | swap_have_transfer |  
+| bip_39_word_underscore_4 | swap_have_transfer_wheel |  
+| bip_39_word_underscore_5 | swap_have_transfer_wheel_crouch |  
+| bip_39_word_underscore_6 | swap_have_transfer_wheel_crouch_nation |  
+| bip_39_word_underscore_7 | swap_have_transfer_wheel_crouch_nation_ladder |  
+| bip_39_word_underscore_8 | swap_have_transfer_wheel_crouch_nation_ladder_stone |  
+| bip_39_word_underscore_9 | swap_have_transfer_wheel_crouch_nation_ladder_stone_board |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

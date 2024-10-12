@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bubble
+bip_39_word_dash_10: bubble-glass-laugh-judge-picnic-junior-spring-response-able-diamond
+bip_39_word_dash_11: bubble-glass-laugh-judge-picnic-junior-spring-response-able-diamond-stumble
+bip_39_word_dash_12: bubble-glass-laugh-judge-picnic-junior-spring-response-able-diamond-stumble-author
+bip_39_word_dash_2: bubble-glass
+bip_39_word_dash_3: bubble-glass-laugh
+bip_39_word_dash_4: bubble-glass-laugh-judge
+bip_39_word_dash_5: bubble-glass-laugh-judge-picnic
+bip_39_word_dash_6: bubble-glass-laugh-judge-picnic-junior
+bip_39_word_dash_7: bubble-glass-laugh-judge-picnic-junior-spring
+bip_39_word_dash_8: bubble-glass-laugh-judge-picnic-junior-spring-response
+bip_39_word_dash_9: bubble-glass-laugh-judge-picnic-junior-spring-response-able
 bip_39_word_new_br_1: bubble
 bip_39_word_new_br_10: bubble<br>glass<br>laugh<br>judge<br>picnic<br>junior<br>spring<br>response<br>able<br>diamond
 bip_39_word_new_br_11: bubble<br>glass<br>laugh<br>judge<br>picnic<br>junior<br>spring<br>response<br>able<br>diamond<br>stumble
@@ -194,6 +206,18 @@ bip_39_word_space_6: bubble glass laugh judge picnic junior
 bip_39_word_space_7: bubble glass laugh judge picnic junior spring
 bip_39_word_space_8: bubble glass laugh judge picnic junior spring response
 bip_39_word_space_9: bubble glass laugh judge picnic junior spring response able
+bip_39_word_underscore_1: bubble
+bip_39_word_underscore_10: bubble_glass_laugh_judge_picnic_junior_spring_response_able_diamond
+bip_39_word_underscore_11: bubble_glass_laugh_judge_picnic_junior_spring_response_able_diamond_stumble
+bip_39_word_underscore_12: bubble_glass_laugh_judge_picnic_junior_spring_response_able_diamond_stumble_author
+bip_39_word_underscore_2: bubble_glass
+bip_39_word_underscore_3: bubble_glass_laugh
+bip_39_word_underscore_4: bubble_glass_laugh_judge
+bip_39_word_underscore_5: bubble_glass_laugh_judge_picnic
+bip_39_word_underscore_6: bubble_glass_laugh_judge_picnic_junior
+bip_39_word_underscore_7: bubble_glass_laugh_judge_picnic_junior_spring
+bip_39_word_underscore_8: bubble_glass_laugh_judge_picnic_junior_spring_response
+bip_39_word_underscore_9: bubble_glass_laugh_judge_picnic_junior_spring_response_able
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

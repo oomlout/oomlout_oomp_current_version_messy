@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bamboo |  
+| bip_39_word_dash_10 | bamboo-glare-can-start-front-code-group-proof-inform-stairs |  
+| bip_39_word_dash_11 | bamboo-glare-can-start-front-code-group-proof-inform-stairs-oxygen |  
+| bip_39_word_dash_12 | bamboo-glare-can-start-front-code-group-proof-inform-stairs-oxygen-acoustic |  
+| bip_39_word_dash_2 | bamboo-glare |  
+| bip_39_word_dash_3 | bamboo-glare-can |  
+| bip_39_word_dash_4 | bamboo-glare-can-start |  
+| bip_39_word_dash_5 | bamboo-glare-can-start-front |  
+| bip_39_word_dash_6 | bamboo-glare-can-start-front-code |  
+| bip_39_word_dash_7 | bamboo-glare-can-start-front-code-group |  
+| bip_39_word_dash_8 | bamboo-glare-can-start-front-code-group-proof |  
+| bip_39_word_dash_9 | bamboo-glare-can-start-front-code-group-proof-inform |  
 | bip_39_word_new_br_1 | bamboo |  
 | bip_39_word_new_br_10 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs |  
 | bip_39_word_new_br_11 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs<br>oxygen |  
@@ -147,6 +159,18 @@ inform |
 | bip_39_word_space_7 | bamboo glare can start front code group |  
 | bip_39_word_space_8 | bamboo glare can start front code group proof |  
 | bip_39_word_space_9 | bamboo glare can start front code group proof inform |  
+| bip_39_word_underscore_1 | bamboo |  
+| bip_39_word_underscore_10 | bamboo_glare_can_start_front_code_group_proof_inform_stairs |  
+| bip_39_word_underscore_11 | bamboo_glare_can_start_front_code_group_proof_inform_stairs_oxygen |  
+| bip_39_word_underscore_12 | bamboo_glare_can_start_front_code_group_proof_inform_stairs_oxygen_acoustic |  
+| bip_39_word_underscore_2 | bamboo_glare |  
+| bip_39_word_underscore_3 | bamboo_glare_can |  
+| bip_39_word_underscore_4 | bamboo_glare_can_start |  
+| bip_39_word_underscore_5 | bamboo_glare_can_start_front |  
+| bip_39_word_underscore_6 | bamboo_glare_can_start_front_code |  
+| bip_39_word_underscore_7 | bamboo_glare_can_start_front_code_group |  
+| bip_39_word_underscore_8 | bamboo_glare_can_start_front_code_group_proof |  
+| bip_39_word_underscore_9 | bamboo_glare_can_start_front_code_group_proof_inform |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

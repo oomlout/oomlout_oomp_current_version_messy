@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | that |  
+| bip_39_word_dash_10 | that-analyst-web-bone-piece-crash-shiver-art-home-motor |  
+| bip_39_word_dash_11 | that-analyst-web-bone-piece-crash-shiver-art-home-motor-monkey |  
+| bip_39_word_dash_12 | that-analyst-web-bone-piece-crash-shiver-art-home-motor-monkey-agent |  
+| bip_39_word_dash_2 | that-analyst |  
+| bip_39_word_dash_3 | that-analyst-web |  
+| bip_39_word_dash_4 | that-analyst-web-bone |  
+| bip_39_word_dash_5 | that-analyst-web-bone-piece |  
+| bip_39_word_dash_6 | that-analyst-web-bone-piece-crash |  
+| bip_39_word_dash_7 | that-analyst-web-bone-piece-crash-shiver |  
+| bip_39_word_dash_8 | that-analyst-web-bone-piece-crash-shiver-art |  
+| bip_39_word_dash_9 | that-analyst-web-bone-piece-crash-shiver-art-home |  
 | bip_39_word_new_br_1 | that |  
 | bip_39_word_new_br_10 | that<br>analyst<br>web<br>bone<br>piece<br>crash<br>shiver<br>art<br>home<br>motor |  
 | bip_39_word_new_br_11 | that<br>analyst<br>web<br>bone<br>piece<br>crash<br>shiver<br>art<br>home<br>motor<br>monkey |  
@@ -147,6 +159,18 @@ home |
 | bip_39_word_space_7 | that analyst web bone piece crash shiver |  
 | bip_39_word_space_8 | that analyst web bone piece crash shiver art |  
 | bip_39_word_space_9 | that analyst web bone piece crash shiver art home |  
+| bip_39_word_underscore_1 | that |  
+| bip_39_word_underscore_10 | that_analyst_web_bone_piece_crash_shiver_art_home_motor |  
+| bip_39_word_underscore_11 | that_analyst_web_bone_piece_crash_shiver_art_home_motor_monkey |  
+| bip_39_word_underscore_12 | that_analyst_web_bone_piece_crash_shiver_art_home_motor_monkey_agent |  
+| bip_39_word_underscore_2 | that_analyst |  
+| bip_39_word_underscore_3 | that_analyst_web |  
+| bip_39_word_underscore_4 | that_analyst_web_bone |  
+| bip_39_word_underscore_5 | that_analyst_web_bone_piece |  
+| bip_39_word_underscore_6 | that_analyst_web_bone_piece_crash |  
+| bip_39_word_underscore_7 | that_analyst_web_bone_piece_crash_shiver |  
+| bip_39_word_underscore_8 | that_analyst_web_bone_piece_crash_shiver_art |  
+| bip_39_word_underscore_9 | that_analyst_web_bone_piece_crash_shiver_art_home |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

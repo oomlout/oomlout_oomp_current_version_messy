@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | idea |  
+| bip_39_word_dash_10 | idea-morning-panel-energy-usage-that-edit-bamboo-anger-climb |  
+| bip_39_word_dash_11 | idea-morning-panel-energy-usage-that-edit-bamboo-anger-climb-donkey |  
+| bip_39_word_dash_12 | idea-morning-panel-energy-usage-that-edit-bamboo-anger-climb-donkey-above |  
+| bip_39_word_dash_2 | idea-morning |  
+| bip_39_word_dash_3 | idea-morning-panel |  
+| bip_39_word_dash_4 | idea-morning-panel-energy |  
+| bip_39_word_dash_5 | idea-morning-panel-energy-usage |  
+| bip_39_word_dash_6 | idea-morning-panel-energy-usage-that |  
+| bip_39_word_dash_7 | idea-morning-panel-energy-usage-that-edit |  
+| bip_39_word_dash_8 | idea-morning-panel-energy-usage-that-edit-bamboo |  
+| bip_39_word_dash_9 | idea-morning-panel-energy-usage-that-edit-bamboo-anger |  
 | bip_39_word_new_br_1 | idea |  
 | bip_39_word_new_br_10 | idea<br>morning<br>panel<br>energy<br>usage<br>that<br>edit<br>bamboo<br>anger<br>climb |  
 | bip_39_word_new_br_11 | idea<br>morning<br>panel<br>energy<br>usage<br>that<br>edit<br>bamboo<br>anger<br>climb<br>donkey |  
@@ -147,6 +159,18 @@ anger |
 | bip_39_word_space_7 | idea morning panel energy usage that edit |  
 | bip_39_word_space_8 | idea morning panel energy usage that edit bamboo |  
 | bip_39_word_space_9 | idea morning panel energy usage that edit bamboo anger |  
+| bip_39_word_underscore_1 | idea |  
+| bip_39_word_underscore_10 | idea_morning_panel_energy_usage_that_edit_bamboo_anger_climb |  
+| bip_39_word_underscore_11 | idea_morning_panel_energy_usage_that_edit_bamboo_anger_climb_donkey |  
+| bip_39_word_underscore_12 | idea_morning_panel_energy_usage_that_edit_bamboo_anger_climb_donkey_above |  
+| bip_39_word_underscore_2 | idea_morning |  
+| bip_39_word_underscore_3 | idea_morning_panel |  
+| bip_39_word_underscore_4 | idea_morning_panel_energy |  
+| bip_39_word_underscore_5 | idea_morning_panel_energy_usage |  
+| bip_39_word_underscore_6 | idea_morning_panel_energy_usage_that |  
+| bip_39_word_underscore_7 | idea_morning_panel_energy_usage_that_edit |  
+| bip_39_word_underscore_8 | idea_morning_panel_energy_usage_that_edit_bamboo |  
+| bip_39_word_underscore_9 | idea_morning_panel_energy_usage_that_edit_bamboo_anger |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

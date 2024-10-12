@@ -1,3 +1,15 @@
+bip_39_word_dash_1: badge
+bip_39_word_dash_10: badge-ribbon-ability-busy-wedding-better-prize-pizza-wealth-myth
+bip_39_word_dash_11: badge-ribbon-ability-busy-wedding-better-prize-pizza-wealth-myth-replace
+bip_39_word_dash_12: badge-ribbon-ability-busy-wedding-better-prize-pizza-wealth-myth-replace-apart
+bip_39_word_dash_2: badge-ribbon
+bip_39_word_dash_3: badge-ribbon-ability
+bip_39_word_dash_4: badge-ribbon-ability-busy
+bip_39_word_dash_5: badge-ribbon-ability-busy-wedding
+bip_39_word_dash_6: badge-ribbon-ability-busy-wedding-better
+bip_39_word_dash_7: badge-ribbon-ability-busy-wedding-better-prize
+bip_39_word_dash_8: badge-ribbon-ability-busy-wedding-better-prize-pizza
+bip_39_word_dash_9: badge-ribbon-ability-busy-wedding-better-prize-pizza-wealth
 bip_39_word_new_br_1: badge
 bip_39_word_new_br_10: badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza<br>wealth<br>myth
 bip_39_word_new_br_11: badge<br>ribbon<br>ability<br>busy<br>wedding<br>better<br>prize<br>pizza<br>wealth<br>myth<br>replace
@@ -194,6 +206,18 @@ bip_39_word_space_6: badge ribbon ability busy wedding better
 bip_39_word_space_7: badge ribbon ability busy wedding better prize
 bip_39_word_space_8: badge ribbon ability busy wedding better prize pizza
 bip_39_word_space_9: badge ribbon ability busy wedding better prize pizza wealth
+bip_39_word_underscore_1: badge
+bip_39_word_underscore_10: badge_ribbon_ability_busy_wedding_better_prize_pizza_wealth_myth
+bip_39_word_underscore_11: badge_ribbon_ability_busy_wedding_better_prize_pizza_wealth_myth_replace
+bip_39_word_underscore_12: badge_ribbon_ability_busy_wedding_better_prize_pizza_wealth_myth_replace_apart
+bip_39_word_underscore_2: badge_ribbon
+bip_39_word_underscore_3: badge_ribbon_ability
+bip_39_word_underscore_4: badge_ribbon_ability_busy
+bip_39_word_underscore_5: badge_ribbon_ability_busy_wedding
+bip_39_word_underscore_6: badge_ribbon_ability_busy_wedding_better
+bip_39_word_underscore_7: badge_ribbon_ability_busy_wedding_better_prize
+bip_39_word_underscore_8: badge_ribbon_ability_busy_wedding_better_prize_pizza
+bip_39_word_underscore_9: badge_ribbon_ability_busy_wedding_better_prize_pizza_wealth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

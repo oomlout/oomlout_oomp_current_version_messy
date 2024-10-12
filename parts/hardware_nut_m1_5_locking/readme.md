@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | left |  
+| bip_39_word_dash_10 | left-mountain-top-evoke-sort-wash-cannon-uncle-satoshi-unaware |  
+| bip_39_word_dash_11 | left-mountain-top-evoke-sort-wash-cannon-uncle-satoshi-unaware-crew |  
+| bip_39_word_dash_12 | left-mountain-top-evoke-sort-wash-cannon-uncle-satoshi-unaware-crew-already |  
+| bip_39_word_dash_2 | left-mountain |  
+| bip_39_word_dash_3 | left-mountain-top |  
+| bip_39_word_dash_4 | left-mountain-top-evoke |  
+| bip_39_word_dash_5 | left-mountain-top-evoke-sort |  
+| bip_39_word_dash_6 | left-mountain-top-evoke-sort-wash |  
+| bip_39_word_dash_7 | left-mountain-top-evoke-sort-wash-cannon |  
+| bip_39_word_dash_8 | left-mountain-top-evoke-sort-wash-cannon-uncle |  
+| bip_39_word_dash_9 | left-mountain-top-evoke-sort-wash-cannon-uncle-satoshi |  
 | bip_39_word_new_br_1 | left |  
 | bip_39_word_new_br_10 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware |  
 | bip_39_word_new_br_11 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware<br>crew |  
@@ -147,6 +159,18 @@ satoshi |
 | bip_39_word_space_7 | left mountain top evoke sort wash cannon |  
 | bip_39_word_space_8 | left mountain top evoke sort wash cannon uncle |  
 | bip_39_word_space_9 | left mountain top evoke sort wash cannon uncle satoshi |  
+| bip_39_word_underscore_1 | left |  
+| bip_39_word_underscore_10 | left_mountain_top_evoke_sort_wash_cannon_uncle_satoshi_unaware |  
+| bip_39_word_underscore_11 | left_mountain_top_evoke_sort_wash_cannon_uncle_satoshi_unaware_crew |  
+| bip_39_word_underscore_12 | left_mountain_top_evoke_sort_wash_cannon_uncle_satoshi_unaware_crew_already |  
+| bip_39_word_underscore_2 | left_mountain |  
+| bip_39_word_underscore_3 | left_mountain_top |  
+| bip_39_word_underscore_4 | left_mountain_top_evoke |  
+| bip_39_word_underscore_5 | left_mountain_top_evoke_sort |  
+| bip_39_word_underscore_6 | left_mountain_top_evoke_sort_wash |  
+| bip_39_word_underscore_7 | left_mountain_top_evoke_sort_wash_cannon |  
+| bip_39_word_underscore_8 | left_mountain_top_evoke_sort_wash_cannon_uncle |  
+| bip_39_word_underscore_9 | left_mountain_top_evoke_sort_wash_cannon_uncle_satoshi |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

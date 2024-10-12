@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clock |  
+| bip_39_word_dash_10 | clock-found-glass-never-since-split-weasel-auto-vibrant-good |  
+| bip_39_word_dash_11 | clock-found-glass-never-since-split-weasel-auto-vibrant-good-hidden |  
+| bip_39_word_dash_12 | clock-found-glass-never-since-split-weasel-auto-vibrant-good-hidden-across |  
+| bip_39_word_dash_2 | clock-found |  
+| bip_39_word_dash_3 | clock-found-glass |  
+| bip_39_word_dash_4 | clock-found-glass-never |  
+| bip_39_word_dash_5 | clock-found-glass-never-since |  
+| bip_39_word_dash_6 | clock-found-glass-never-since-split |  
+| bip_39_word_dash_7 | clock-found-glass-never-since-split-weasel |  
+| bip_39_word_dash_8 | clock-found-glass-never-since-split-weasel-auto |  
+| bip_39_word_dash_9 | clock-found-glass-never-since-split-weasel-auto-vibrant |  
 | bip_39_word_new_br_1 | clock |  
 | bip_39_word_new_br_10 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good |  
 | bip_39_word_new_br_11 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good<br>hidden |  
@@ -147,6 +159,18 @@ vibrant |
 | bip_39_word_space_7 | clock found glass never since split weasel |  
 | bip_39_word_space_8 | clock found glass never since split weasel auto |  
 | bip_39_word_space_9 | clock found glass never since split weasel auto vibrant |  
+| bip_39_word_underscore_1 | clock |  
+| bip_39_word_underscore_10 | clock_found_glass_never_since_split_weasel_auto_vibrant_good |  
+| bip_39_word_underscore_11 | clock_found_glass_never_since_split_weasel_auto_vibrant_good_hidden |  
+| bip_39_word_underscore_12 | clock_found_glass_never_since_split_weasel_auto_vibrant_good_hidden_across |  
+| bip_39_word_underscore_2 | clock_found |  
+| bip_39_word_underscore_3 | clock_found_glass |  
+| bip_39_word_underscore_4 | clock_found_glass_never |  
+| bip_39_word_underscore_5 | clock_found_glass_never_since |  
+| bip_39_word_underscore_6 | clock_found_glass_never_since_split |  
+| bip_39_word_underscore_7 | clock_found_glass_never_since_split_weasel |  
+| bip_39_word_underscore_8 | clock_found_glass_never_since_split_weasel_auto |  
+| bip_39_word_underscore_9 | clock_found_glass_never_since_split_weasel_auto_vibrant |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

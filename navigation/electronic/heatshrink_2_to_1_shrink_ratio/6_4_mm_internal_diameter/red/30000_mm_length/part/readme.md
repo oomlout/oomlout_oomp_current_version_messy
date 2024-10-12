@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | antique |  
+| bip_39_word_dash_10 | antique-noodle-provide-lion-six-fame-walnut-decorate-ship-zero |  
+| bip_39_word_dash_11 | antique-noodle-provide-lion-six-fame-walnut-decorate-ship-zero-glide |  
+| bip_39_word_dash_12 | antique-noodle-provide-lion-six-fame-walnut-decorate-ship-zero-glide-artist |  
+| bip_39_word_dash_2 | antique-noodle |  
+| bip_39_word_dash_3 | antique-noodle-provide |  
+| bip_39_word_dash_4 | antique-noodle-provide-lion |  
+| bip_39_word_dash_5 | antique-noodle-provide-lion-six |  
+| bip_39_word_dash_6 | antique-noodle-provide-lion-six-fame |  
+| bip_39_word_dash_7 | antique-noodle-provide-lion-six-fame-walnut |  
+| bip_39_word_dash_8 | antique-noodle-provide-lion-six-fame-walnut-decorate |  
+| bip_39_word_dash_9 | antique-noodle-provide-lion-six-fame-walnut-decorate-ship |  
 | bip_39_word_new_br_1 | antique |  
 | bip_39_word_new_br_10 | antique<br>noodle<br>provide<br>lion<br>six<br>fame<br>walnut<br>decorate<br>ship<br>zero |  
 | bip_39_word_new_br_11 | antique<br>noodle<br>provide<br>lion<br>six<br>fame<br>walnut<br>decorate<br>ship<br>zero<br>glide |  
@@ -147,6 +159,18 @@ ship |
 | bip_39_word_space_7 | antique noodle provide lion six fame walnut |  
 | bip_39_word_space_8 | antique noodle provide lion six fame walnut decorate |  
 | bip_39_word_space_9 | antique noodle provide lion six fame walnut decorate ship |  
+| bip_39_word_underscore_1 | antique |  
+| bip_39_word_underscore_10 | antique_noodle_provide_lion_six_fame_walnut_decorate_ship_zero |  
+| bip_39_word_underscore_11 | antique_noodle_provide_lion_six_fame_walnut_decorate_ship_zero_glide |  
+| bip_39_word_underscore_12 | antique_noodle_provide_lion_six_fame_walnut_decorate_ship_zero_glide_artist |  
+| bip_39_word_underscore_2 | antique_noodle |  
+| bip_39_word_underscore_3 | antique_noodle_provide |  
+| bip_39_word_underscore_4 | antique_noodle_provide_lion |  
+| bip_39_word_underscore_5 | antique_noodle_provide_lion_six |  
+| bip_39_word_underscore_6 | antique_noodle_provide_lion_six_fame |  
+| bip_39_word_underscore_7 | antique_noodle_provide_lion_six_fame_walnut |  
+| bip_39_word_underscore_8 | antique_noodle_provide_lion_six_fame_walnut_decorate |  
+| bip_39_word_underscore_9 | antique_noodle_provide_lion_six_fame_walnut_decorate_ship |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

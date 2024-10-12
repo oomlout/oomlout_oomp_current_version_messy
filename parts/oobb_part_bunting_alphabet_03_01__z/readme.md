@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chronic |  
+| bip_39_word_dash_10 | chronic-valley-exist-swarm-suggest-season-sort-glare-jelly-grunt |  
+| bip_39_word_dash_11 | chronic-valley-exist-swarm-suggest-season-sort-glare-jelly-grunt-trip |  
+| bip_39_word_dash_12 | chronic-valley-exist-swarm-suggest-season-sort-glare-jelly-grunt-trip-alone |  
+| bip_39_word_dash_2 | chronic-valley |  
+| bip_39_word_dash_3 | chronic-valley-exist |  
+| bip_39_word_dash_4 | chronic-valley-exist-swarm |  
+| bip_39_word_dash_5 | chronic-valley-exist-swarm-suggest |  
+| bip_39_word_dash_6 | chronic-valley-exist-swarm-suggest-season |  
+| bip_39_word_dash_7 | chronic-valley-exist-swarm-suggest-season-sort |  
+| bip_39_word_dash_8 | chronic-valley-exist-swarm-suggest-season-sort-glare |  
+| bip_39_word_dash_9 | chronic-valley-exist-swarm-suggest-season-sort-glare-jelly |  
 | bip_39_word_new_br_1 | chronic |  
 | bip_39_word_new_br_10 | chronic<br>valley<br>exist<br>swarm<br>suggest<br>season<br>sort<br>glare<br>jelly<br>grunt |  
 | bip_39_word_new_br_11 | chronic<br>valley<br>exist<br>swarm<br>suggest<br>season<br>sort<br>glare<br>jelly<br>grunt<br>trip |  
@@ -147,6 +159,18 @@ jelly |
 | bip_39_word_space_7 | chronic valley exist swarm suggest season sort |  
 | bip_39_word_space_8 | chronic valley exist swarm suggest season sort glare |  
 | bip_39_word_space_9 | chronic valley exist swarm suggest season sort glare jelly |  
+| bip_39_word_underscore_1 | chronic |  
+| bip_39_word_underscore_10 | chronic_valley_exist_swarm_suggest_season_sort_glare_jelly_grunt |  
+| bip_39_word_underscore_11 | chronic_valley_exist_swarm_suggest_season_sort_glare_jelly_grunt_trip |  
+| bip_39_word_underscore_12 | chronic_valley_exist_swarm_suggest_season_sort_glare_jelly_grunt_trip_alone |  
+| bip_39_word_underscore_2 | chronic_valley |  
+| bip_39_word_underscore_3 | chronic_valley_exist |  
+| bip_39_word_underscore_4 | chronic_valley_exist_swarm |  
+| bip_39_word_underscore_5 | chronic_valley_exist_swarm_suggest |  
+| bip_39_word_underscore_6 | chronic_valley_exist_swarm_suggest_season |  
+| bip_39_word_underscore_7 | chronic_valley_exist_swarm_suggest_season_sort |  
+| bip_39_word_underscore_8 | chronic_valley_exist_swarm_suggest_season_sort_glare |  
+| bip_39_word_underscore_9 | chronic_valley_exist_swarm_suggest_season_sort_glare_jelly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

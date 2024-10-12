@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | maximum |  
+| bip_39_word_dash_10 | maximum-stomach-beef-insect-blanket-broccoli-shrimp-hope-rude-walnut |  
+| bip_39_word_dash_11 | maximum-stomach-beef-insect-blanket-broccoli-shrimp-hope-rude-walnut-wink |  
+| bip_39_word_dash_12 | maximum-stomach-beef-insect-blanket-broccoli-shrimp-hope-rude-walnut-wink-action |  
+| bip_39_word_dash_2 | maximum-stomach |  
+| bip_39_word_dash_3 | maximum-stomach-beef |  
+| bip_39_word_dash_4 | maximum-stomach-beef-insect |  
+| bip_39_word_dash_5 | maximum-stomach-beef-insect-blanket |  
+| bip_39_word_dash_6 | maximum-stomach-beef-insect-blanket-broccoli |  
+| bip_39_word_dash_7 | maximum-stomach-beef-insect-blanket-broccoli-shrimp |  
+| bip_39_word_dash_8 | maximum-stomach-beef-insect-blanket-broccoli-shrimp-hope |  
+| bip_39_word_dash_9 | maximum-stomach-beef-insect-blanket-broccoli-shrimp-hope-rude |  
 | bip_39_word_new_br_1 | maximum |  
 | bip_39_word_new_br_10 | maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope<br>rude<br>walnut |  
 | bip_39_word_new_br_11 | maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope<br>rude<br>walnut<br>wink |  
@@ -147,6 +159,18 @@ rude |
 | bip_39_word_space_7 | maximum stomach beef insect blanket broccoli shrimp |  
 | bip_39_word_space_8 | maximum stomach beef insect blanket broccoli shrimp hope |  
 | bip_39_word_space_9 | maximum stomach beef insect blanket broccoli shrimp hope rude |  
+| bip_39_word_underscore_1 | maximum |  
+| bip_39_word_underscore_10 | maximum_stomach_beef_insect_blanket_broccoli_shrimp_hope_rude_walnut |  
+| bip_39_word_underscore_11 | maximum_stomach_beef_insect_blanket_broccoli_shrimp_hope_rude_walnut_wink |  
+| bip_39_word_underscore_12 | maximum_stomach_beef_insect_blanket_broccoli_shrimp_hope_rude_walnut_wink_action |  
+| bip_39_word_underscore_2 | maximum_stomach |  
+| bip_39_word_underscore_3 | maximum_stomach_beef |  
+| bip_39_word_underscore_4 | maximum_stomach_beef_insect |  
+| bip_39_word_underscore_5 | maximum_stomach_beef_insect_blanket |  
+| bip_39_word_underscore_6 | maximum_stomach_beef_insect_blanket_broccoli |  
+| bip_39_word_underscore_7 | maximum_stomach_beef_insect_blanket_broccoli_shrimp |  
+| bip_39_word_underscore_8 | maximum_stomach_beef_insect_blanket_broccoli_shrimp_hope |  
+| bip_39_word_underscore_9 | maximum_stomach_beef_insect_blanket_broccoli_shrimp_hope_rude |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

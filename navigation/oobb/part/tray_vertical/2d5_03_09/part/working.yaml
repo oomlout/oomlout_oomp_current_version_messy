@@ -1,3 +1,15 @@
+bip_39_word_dash_1: purpose
+bip_39_word_dash_10: purpose-lamp-stage-normal-glad-advance-grow-lounge-access-carry
+bip_39_word_dash_11: purpose-lamp-stage-normal-glad-advance-grow-lounge-access-carry-faint
+bip_39_word_dash_12: purpose-lamp-stage-normal-glad-advance-grow-lounge-access-carry-faint-artefact
+bip_39_word_dash_2: purpose-lamp
+bip_39_word_dash_3: purpose-lamp-stage
+bip_39_word_dash_4: purpose-lamp-stage-normal
+bip_39_word_dash_5: purpose-lamp-stage-normal-glad
+bip_39_word_dash_6: purpose-lamp-stage-normal-glad-advance
+bip_39_word_dash_7: purpose-lamp-stage-normal-glad-advance-grow
+bip_39_word_dash_8: purpose-lamp-stage-normal-glad-advance-grow-lounge
+bip_39_word_dash_9: purpose-lamp-stage-normal-glad-advance-grow-lounge-access
 bip_39_word_new_br_1: purpose
 bip_39_word_new_br_10: purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge<br>access<br>carry
 bip_39_word_new_br_11: purpose<br>lamp<br>stage<br>normal<br>glad<br>advance<br>grow<br>lounge<br>access<br>carry<br>faint
@@ -193,6 +205,18 @@ bip_39_word_space_6: purpose lamp stage normal glad advance
 bip_39_word_space_7: purpose lamp stage normal glad advance grow
 bip_39_word_space_8: purpose lamp stage normal glad advance grow lounge
 bip_39_word_space_9: purpose lamp stage normal glad advance grow lounge access
+bip_39_word_underscore_1: purpose
+bip_39_word_underscore_10: purpose_lamp_stage_normal_glad_advance_grow_lounge_access_carry
+bip_39_word_underscore_11: purpose_lamp_stage_normal_glad_advance_grow_lounge_access_carry_faint
+bip_39_word_underscore_12: purpose_lamp_stage_normal_glad_advance_grow_lounge_access_carry_faint_artefact
+bip_39_word_underscore_2: purpose_lamp
+bip_39_word_underscore_3: purpose_lamp_stage
+bip_39_word_underscore_4: purpose_lamp_stage_normal
+bip_39_word_underscore_5: purpose_lamp_stage_normal_glad
+bip_39_word_underscore_6: purpose_lamp_stage_normal_glad_advance
+bip_39_word_underscore_7: purpose_lamp_stage_normal_glad_advance_grow
+bip_39_word_underscore_8: purpose_lamp_stage_normal_glad_advance_grow_lounge
+bip_39_word_underscore_9: purpose_lamp_stage_normal_glad_advance_grow_lounge_access
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | moon |  
+| bip_39_word_dash_10 | moon-rubber-devote-token-city-repeat-clutch-company-shoot-hub |  
+| bip_39_word_dash_11 | moon-rubber-devote-token-city-repeat-clutch-company-shoot-hub-fix |  
+| bip_39_word_dash_12 | moon-rubber-devote-token-city-repeat-clutch-company-shoot-hub-fix-album |  
+| bip_39_word_dash_2 | moon-rubber |  
+| bip_39_word_dash_3 | moon-rubber-devote |  
+| bip_39_word_dash_4 | moon-rubber-devote-token |  
+| bip_39_word_dash_5 | moon-rubber-devote-token-city |  
+| bip_39_word_dash_6 | moon-rubber-devote-token-city-repeat |  
+| bip_39_word_dash_7 | moon-rubber-devote-token-city-repeat-clutch |  
+| bip_39_word_dash_8 | moon-rubber-devote-token-city-repeat-clutch-company |  
+| bip_39_word_dash_9 | moon-rubber-devote-token-city-repeat-clutch-company-shoot |  
 | bip_39_word_new_br_1 | moon |  
 | bip_39_word_new_br_10 | moon<br>rubber<br>devote<br>token<br>city<br>repeat<br>clutch<br>company<br>shoot<br>hub |  
 | bip_39_word_new_br_11 | moon<br>rubber<br>devote<br>token<br>city<br>repeat<br>clutch<br>company<br>shoot<br>hub<br>fix |  
@@ -147,6 +159,18 @@ shoot |
 | bip_39_word_space_7 | moon rubber devote token city repeat clutch |  
 | bip_39_word_space_8 | moon rubber devote token city repeat clutch company |  
 | bip_39_word_space_9 | moon rubber devote token city repeat clutch company shoot |  
+| bip_39_word_underscore_1 | moon |  
+| bip_39_word_underscore_10 | moon_rubber_devote_token_city_repeat_clutch_company_shoot_hub |  
+| bip_39_word_underscore_11 | moon_rubber_devote_token_city_repeat_clutch_company_shoot_hub_fix |  
+| bip_39_word_underscore_12 | moon_rubber_devote_token_city_repeat_clutch_company_shoot_hub_fix_album |  
+| bip_39_word_underscore_2 | moon_rubber |  
+| bip_39_word_underscore_3 | moon_rubber_devote |  
+| bip_39_word_underscore_4 | moon_rubber_devote_token |  
+| bip_39_word_underscore_5 | moon_rubber_devote_token_city |  
+| bip_39_word_underscore_6 | moon_rubber_devote_token_city_repeat |  
+| bip_39_word_underscore_7 | moon_rubber_devote_token_city_repeat_clutch |  
+| bip_39_word_underscore_8 | moon_rubber_devote_token_city_repeat_clutch_company |  
+| bip_39_word_underscore_9 | moon_rubber_devote_token_city_repeat_clutch_company_shoot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

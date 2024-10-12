@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hole |  
+| bip_39_word_dash_10 | hole-coast-stage-act-initial-leisure-bulb-swim-taste-cabbage |  
+| bip_39_word_dash_11 | hole-coast-stage-act-initial-leisure-bulb-swim-taste-cabbage-throw |  
+| bip_39_word_dash_12 | hole-coast-stage-act-initial-leisure-bulb-swim-taste-cabbage-throw-aerobic |  
+| bip_39_word_dash_2 | hole-coast |  
+| bip_39_word_dash_3 | hole-coast-stage |  
+| bip_39_word_dash_4 | hole-coast-stage-act |  
+| bip_39_word_dash_5 | hole-coast-stage-act-initial |  
+| bip_39_word_dash_6 | hole-coast-stage-act-initial-leisure |  
+| bip_39_word_dash_7 | hole-coast-stage-act-initial-leisure-bulb |  
+| bip_39_word_dash_8 | hole-coast-stage-act-initial-leisure-bulb-swim |  
+| bip_39_word_dash_9 | hole-coast-stage-act-initial-leisure-bulb-swim-taste |  
 | bip_39_word_new_br_1 | hole |  
 | bip_39_word_new_br_10 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim<br>taste<br>cabbage |  
 | bip_39_word_new_br_11 | hole<br>coast<br>stage<br>act<br>initial<br>leisure<br>bulb<br>swim<br>taste<br>cabbage<br>throw |  
@@ -147,6 +159,18 @@ taste |
 | bip_39_word_space_7 | hole coast stage act initial leisure bulb |  
 | bip_39_word_space_8 | hole coast stage act initial leisure bulb swim |  
 | bip_39_word_space_9 | hole coast stage act initial leisure bulb swim taste |  
+| bip_39_word_underscore_1 | hole |  
+| bip_39_word_underscore_10 | hole_coast_stage_act_initial_leisure_bulb_swim_taste_cabbage |  
+| bip_39_word_underscore_11 | hole_coast_stage_act_initial_leisure_bulb_swim_taste_cabbage_throw |  
+| bip_39_word_underscore_12 | hole_coast_stage_act_initial_leisure_bulb_swim_taste_cabbage_throw_aerobic |  
+| bip_39_word_underscore_2 | hole_coast |  
+| bip_39_word_underscore_3 | hole_coast_stage |  
+| bip_39_word_underscore_4 | hole_coast_stage_act |  
+| bip_39_word_underscore_5 | hole_coast_stage_act_initial |  
+| bip_39_word_underscore_6 | hole_coast_stage_act_initial_leisure |  
+| bip_39_word_underscore_7 | hole_coast_stage_act_initial_leisure_bulb |  
+| bip_39_word_underscore_8 | hole_coast_stage_act_initial_leisure_bulb_swim |  
+| bip_39_word_underscore_9 | hole_coast_stage_act_initial_leisure_bulb_swim_taste |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

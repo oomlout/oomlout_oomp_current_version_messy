@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hip |  
+| bip_39_word_dash_10 | hip-resource-sentence-hawk-gym-hair-victory-online-road-coil |  
+| bip_39_word_dash_11 | hip-resource-sentence-hawk-gym-hair-victory-online-road-coil-lion |  
+| bip_39_word_dash_12 | hip-resource-sentence-hawk-gym-hair-victory-online-road-coil-lion-abstract |  
+| bip_39_word_dash_2 | hip-resource |  
+| bip_39_word_dash_3 | hip-resource-sentence |  
+| bip_39_word_dash_4 | hip-resource-sentence-hawk |  
+| bip_39_word_dash_5 | hip-resource-sentence-hawk-gym |  
+| bip_39_word_dash_6 | hip-resource-sentence-hawk-gym-hair |  
+| bip_39_word_dash_7 | hip-resource-sentence-hawk-gym-hair-victory |  
+| bip_39_word_dash_8 | hip-resource-sentence-hawk-gym-hair-victory-online |  
+| bip_39_word_dash_9 | hip-resource-sentence-hawk-gym-hair-victory-online-road |  
 | bip_39_word_new_br_1 | hip |  
 | bip_39_word_new_br_10 | hip<br>resource<br>sentence<br>hawk<br>gym<br>hair<br>victory<br>online<br>road<br>coil |  
 | bip_39_word_new_br_11 | hip<br>resource<br>sentence<br>hawk<br>gym<br>hair<br>victory<br>online<br>road<br>coil<br>lion |  
@@ -147,6 +159,18 @@ road |
 | bip_39_word_space_7 | hip resource sentence hawk gym hair victory |  
 | bip_39_word_space_8 | hip resource sentence hawk gym hair victory online |  
 | bip_39_word_space_9 | hip resource sentence hawk gym hair victory online road |  
+| bip_39_word_underscore_1 | hip |  
+| bip_39_word_underscore_10 | hip_resource_sentence_hawk_gym_hair_victory_online_road_coil |  
+| bip_39_word_underscore_11 | hip_resource_sentence_hawk_gym_hair_victory_online_road_coil_lion |  
+| bip_39_word_underscore_12 | hip_resource_sentence_hawk_gym_hair_victory_online_road_coil_lion_abstract |  
+| bip_39_word_underscore_2 | hip_resource |  
+| bip_39_word_underscore_3 | hip_resource_sentence |  
+| bip_39_word_underscore_4 | hip_resource_sentence_hawk |  
+| bip_39_word_underscore_5 | hip_resource_sentence_hawk_gym |  
+| bip_39_word_underscore_6 | hip_resource_sentence_hawk_gym_hair |  
+| bip_39_word_underscore_7 | hip_resource_sentence_hawk_gym_hair_victory |  
+| bip_39_word_underscore_8 | hip_resource_sentence_hawk_gym_hair_victory_online |  
+| bip_39_word_underscore_9 | hip_resource_sentence_hawk_gym_hair_victory_online_road |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

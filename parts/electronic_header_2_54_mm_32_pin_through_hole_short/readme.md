@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chase |  
+| bip_39_word_dash_10 | chase-siren-unusual-tower-kick-confirm-permit-game-fiction-brave |  
+| bip_39_word_dash_11 | chase-siren-unusual-tower-kick-confirm-permit-game-fiction-brave-radar |  
+| bip_39_word_dash_12 | chase-siren-unusual-tower-kick-confirm-permit-game-fiction-brave-radar-author |  
+| bip_39_word_dash_2 | chase-siren |  
+| bip_39_word_dash_3 | chase-siren-unusual |  
+| bip_39_word_dash_4 | chase-siren-unusual-tower |  
+| bip_39_word_dash_5 | chase-siren-unusual-tower-kick |  
+| bip_39_word_dash_6 | chase-siren-unusual-tower-kick-confirm |  
+| bip_39_word_dash_7 | chase-siren-unusual-tower-kick-confirm-permit |  
+| bip_39_word_dash_8 | chase-siren-unusual-tower-kick-confirm-permit-game |  
+| bip_39_word_dash_9 | chase-siren-unusual-tower-kick-confirm-permit-game-fiction |  
 | bip_39_word_new_br_1 | chase |  
 | bip_39_word_new_br_10 | chase<br>siren<br>unusual<br>tower<br>kick<br>confirm<br>permit<br>game<br>fiction<br>brave |  
 | bip_39_word_new_br_11 | chase<br>siren<br>unusual<br>tower<br>kick<br>confirm<br>permit<br>game<br>fiction<br>brave<br>radar |  
@@ -147,6 +159,18 @@ fiction |
 | bip_39_word_space_7 | chase siren unusual tower kick confirm permit |  
 | bip_39_word_space_8 | chase siren unusual tower kick confirm permit game |  
 | bip_39_word_space_9 | chase siren unusual tower kick confirm permit game fiction |  
+| bip_39_word_underscore_1 | chase |  
+| bip_39_word_underscore_10 | chase_siren_unusual_tower_kick_confirm_permit_game_fiction_brave |  
+| bip_39_word_underscore_11 | chase_siren_unusual_tower_kick_confirm_permit_game_fiction_brave_radar |  
+| bip_39_word_underscore_12 | chase_siren_unusual_tower_kick_confirm_permit_game_fiction_brave_radar_author |  
+| bip_39_word_underscore_2 | chase_siren |  
+| bip_39_word_underscore_3 | chase_siren_unusual |  
+| bip_39_word_underscore_4 | chase_siren_unusual_tower |  
+| bip_39_word_underscore_5 | chase_siren_unusual_tower_kick |  
+| bip_39_word_underscore_6 | chase_siren_unusual_tower_kick_confirm |  
+| bip_39_word_underscore_7 | chase_siren_unusual_tower_kick_confirm_permit |  
+| bip_39_word_underscore_8 | chase_siren_unusual_tower_kick_confirm_permit_game |  
+| bip_39_word_underscore_9 | chase_siren_unusual_tower_kick_confirm_permit_game_fiction |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

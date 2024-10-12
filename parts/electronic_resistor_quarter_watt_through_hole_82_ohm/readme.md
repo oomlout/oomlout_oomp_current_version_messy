@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | faint |  
+| bip_39_word_dash_10 | faint-aerobic-bean-analyst-maximum-unique-depend-spirit-kitten-faint |  
+| bip_39_word_dash_11 | faint-aerobic-bean-analyst-maximum-unique-depend-spirit-kitten-faint-chronic |  
+| bip_39_word_dash_12 | faint-aerobic-bean-analyst-maximum-unique-depend-spirit-kitten-faint-chronic-addict |  
+| bip_39_word_dash_2 | faint-aerobic |  
+| bip_39_word_dash_3 | faint-aerobic-bean |  
+| bip_39_word_dash_4 | faint-aerobic-bean-analyst |  
+| bip_39_word_dash_5 | faint-aerobic-bean-analyst-maximum |  
+| bip_39_word_dash_6 | faint-aerobic-bean-analyst-maximum-unique |  
+| bip_39_word_dash_7 | faint-aerobic-bean-analyst-maximum-unique-depend |  
+| bip_39_word_dash_8 | faint-aerobic-bean-analyst-maximum-unique-depend-spirit |  
+| bip_39_word_dash_9 | faint-aerobic-bean-analyst-maximum-unique-depend-spirit-kitten |  
 | bip_39_word_new_br_1 | faint |  
 | bip_39_word_new_br_10 | faint<br>aerobic<br>bean<br>analyst<br>maximum<br>unique<br>depend<br>spirit<br>kitten<br>faint |  
 | bip_39_word_new_br_11 | faint<br>aerobic<br>bean<br>analyst<br>maximum<br>unique<br>depend<br>spirit<br>kitten<br>faint<br>chronic |  
@@ -147,6 +159,18 @@ kitten |
 | bip_39_word_space_7 | faint aerobic bean analyst maximum unique depend |  
 | bip_39_word_space_8 | faint aerobic bean analyst maximum unique depend spirit |  
 | bip_39_word_space_9 | faint aerobic bean analyst maximum unique depend spirit kitten |  
+| bip_39_word_underscore_1 | faint |  
+| bip_39_word_underscore_10 | faint_aerobic_bean_analyst_maximum_unique_depend_spirit_kitten_faint |  
+| bip_39_word_underscore_11 | faint_aerobic_bean_analyst_maximum_unique_depend_spirit_kitten_faint_chronic |  
+| bip_39_word_underscore_12 | faint_aerobic_bean_analyst_maximum_unique_depend_spirit_kitten_faint_chronic_addict |  
+| bip_39_word_underscore_2 | faint_aerobic |  
+| bip_39_word_underscore_3 | faint_aerobic_bean |  
+| bip_39_word_underscore_4 | faint_aerobic_bean_analyst |  
+| bip_39_word_underscore_5 | faint_aerobic_bean_analyst_maximum |  
+| bip_39_word_underscore_6 | faint_aerobic_bean_analyst_maximum_unique |  
+| bip_39_word_underscore_7 | faint_aerobic_bean_analyst_maximum_unique_depend |  
+| bip_39_word_underscore_8 | faint_aerobic_bean_analyst_maximum_unique_depend_spirit |  
+| bip_39_word_underscore_9 | faint_aerobic_bean_analyst_maximum_unique_depend_spirit_kitten |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

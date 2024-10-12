@@ -1,3 +1,15 @@
+bip_39_word_dash_1: section
+bip_39_word_dash_10: section-fiction-live-remind-void-prosper-trade-return-kangaroo-cheese
+bip_39_word_dash_11: section-fiction-live-remind-void-prosper-trade-return-kangaroo-cheese-near
+bip_39_word_dash_12: section-fiction-live-remind-void-prosper-trade-return-kangaroo-cheese-near-allow
+bip_39_word_dash_2: section-fiction
+bip_39_word_dash_3: section-fiction-live
+bip_39_word_dash_4: section-fiction-live-remind
+bip_39_word_dash_5: section-fiction-live-remind-void
+bip_39_word_dash_6: section-fiction-live-remind-void-prosper
+bip_39_word_dash_7: section-fiction-live-remind-void-prosper-trade
+bip_39_word_dash_8: section-fiction-live-remind-void-prosper-trade-return
+bip_39_word_dash_9: section-fiction-live-remind-void-prosper-trade-return-kangaroo
 bip_39_word_new_br_1: section
 bip_39_word_new_br_10: section<br>fiction<br>live<br>remind<br>void<br>prosper<br>trade<br>return<br>kangaroo<br>cheese
 bip_39_word_new_br_11: section<br>fiction<br>live<br>remind<br>void<br>prosper<br>trade<br>return<br>kangaroo<br>cheese<br>near
@@ -194,6 +206,18 @@ bip_39_word_space_6: section fiction live remind void prosper
 bip_39_word_space_7: section fiction live remind void prosper trade
 bip_39_word_space_8: section fiction live remind void prosper trade return
 bip_39_word_space_9: section fiction live remind void prosper trade return kangaroo
+bip_39_word_underscore_1: section
+bip_39_word_underscore_10: section_fiction_live_remind_void_prosper_trade_return_kangaroo_cheese
+bip_39_word_underscore_11: section_fiction_live_remind_void_prosper_trade_return_kangaroo_cheese_near
+bip_39_word_underscore_12: section_fiction_live_remind_void_prosper_trade_return_kangaroo_cheese_near_allow
+bip_39_word_underscore_2: section_fiction
+bip_39_word_underscore_3: section_fiction_live
+bip_39_word_underscore_4: section_fiction_live_remind
+bip_39_word_underscore_5: section_fiction_live_remind_void
+bip_39_word_underscore_6: section_fiction_live_remind_void_prosper
+bip_39_word_underscore_7: section_fiction_live_remind_void_prosper_trade
+bip_39_word_underscore_8: section_fiction_live_remind_void_prosper_trade_return
+bip_39_word_underscore_9: section_fiction_live_remind_void_prosper_trade_return_kangaroo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

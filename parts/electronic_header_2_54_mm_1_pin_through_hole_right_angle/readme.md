@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grace |  
+| bip_39_word_dash_10 | grace-shop-lab-magnet-jungle-copy-detect-seven-quit-devote |  
+| bip_39_word_dash_11 | grace-shop-lab-magnet-jungle-copy-detect-seven-quit-devote-club |  
+| bip_39_word_dash_12 | grace-shop-lab-magnet-jungle-copy-detect-seven-quit-devote-club-act |  
+| bip_39_word_dash_2 | grace-shop |  
+| bip_39_word_dash_3 | grace-shop-lab |  
+| bip_39_word_dash_4 | grace-shop-lab-magnet |  
+| bip_39_word_dash_5 | grace-shop-lab-magnet-jungle |  
+| bip_39_word_dash_6 | grace-shop-lab-magnet-jungle-copy |  
+| bip_39_word_dash_7 | grace-shop-lab-magnet-jungle-copy-detect |  
+| bip_39_word_dash_8 | grace-shop-lab-magnet-jungle-copy-detect-seven |  
+| bip_39_word_dash_9 | grace-shop-lab-magnet-jungle-copy-detect-seven-quit |  
 | bip_39_word_new_br_1 | grace |  
 | bip_39_word_new_br_10 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote |  
 | bip_39_word_new_br_11 | grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote<br>club |  
@@ -147,6 +159,18 @@ quit |
 | bip_39_word_space_7 | grace shop lab magnet jungle copy detect |  
 | bip_39_word_space_8 | grace shop lab magnet jungle copy detect seven |  
 | bip_39_word_space_9 | grace shop lab magnet jungle copy detect seven quit |  
+| bip_39_word_underscore_1 | grace |  
+| bip_39_word_underscore_10 | grace_shop_lab_magnet_jungle_copy_detect_seven_quit_devote |  
+| bip_39_word_underscore_11 | grace_shop_lab_magnet_jungle_copy_detect_seven_quit_devote_club |  
+| bip_39_word_underscore_12 | grace_shop_lab_magnet_jungle_copy_detect_seven_quit_devote_club_act |  
+| bip_39_word_underscore_2 | grace_shop |  
+| bip_39_word_underscore_3 | grace_shop_lab |  
+| bip_39_word_underscore_4 | grace_shop_lab_magnet |  
+| bip_39_word_underscore_5 | grace_shop_lab_magnet_jungle |  
+| bip_39_word_underscore_6 | grace_shop_lab_magnet_jungle_copy |  
+| bip_39_word_underscore_7 | grace_shop_lab_magnet_jungle_copy_detect |  
+| bip_39_word_underscore_8 | grace_shop_lab_magnet_jungle_copy_detect_seven |  
+| bip_39_word_underscore_9 | grace_shop_lab_magnet_jungle_copy_detect_seven_quit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

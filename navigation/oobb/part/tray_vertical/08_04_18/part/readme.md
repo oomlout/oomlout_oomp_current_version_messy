@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | then |  
+| bip_39_word_dash_10 | then-such-parent-guess-title-huge-panel-card-miracle-ozone |  
+| bip_39_word_dash_11 | then-such-parent-guess-title-huge-panel-card-miracle-ozone-broom |  
+| bip_39_word_dash_12 | then-such-parent-guess-title-huge-panel-card-miracle-ozone-broom-august |  
+| bip_39_word_dash_2 | then-such |  
+| bip_39_word_dash_3 | then-such-parent |  
+| bip_39_word_dash_4 | then-such-parent-guess |  
+| bip_39_word_dash_5 | then-such-parent-guess-title |  
+| bip_39_word_dash_6 | then-such-parent-guess-title-huge |  
+| bip_39_word_dash_7 | then-such-parent-guess-title-huge-panel |  
+| bip_39_word_dash_8 | then-such-parent-guess-title-huge-panel-card |  
+| bip_39_word_dash_9 | then-such-parent-guess-title-huge-panel-card-miracle |  
 | bip_39_word_new_br_1 | then |  
 | bip_39_word_new_br_10 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone |  
 | bip_39_word_new_br_11 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone<br>broom |  
@@ -147,6 +159,18 @@ miracle |
 | bip_39_word_space_7 | then such parent guess title huge panel |  
 | bip_39_word_space_8 | then such parent guess title huge panel card |  
 | bip_39_word_space_9 | then such parent guess title huge panel card miracle |  
+| bip_39_word_underscore_1 | then |  
+| bip_39_word_underscore_10 | then_such_parent_guess_title_huge_panel_card_miracle_ozone |  
+| bip_39_word_underscore_11 | then_such_parent_guess_title_huge_panel_card_miracle_ozone_broom |  
+| bip_39_word_underscore_12 | then_such_parent_guess_title_huge_panel_card_miracle_ozone_broom_august |  
+| bip_39_word_underscore_2 | then_such |  
+| bip_39_word_underscore_3 | then_such_parent |  
+| bip_39_word_underscore_4 | then_such_parent_guess |  
+| bip_39_word_underscore_5 | then_such_parent_guess_title |  
+| bip_39_word_underscore_6 | then_such_parent_guess_title_huge |  
+| bip_39_word_underscore_7 | then_such_parent_guess_title_huge_panel |  
+| bip_39_word_underscore_8 | then_such_parent_guess_title_huge_panel_card |  
+| bip_39_word_underscore_9 | then_such_parent_guess_title_huge_panel_card_miracle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

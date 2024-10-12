@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pilot |  
+| bip_39_word_dash_10 | pilot-enjoy-special-relief-amount-insane-throw-practice-orphan-easy |  
+| bip_39_word_dash_11 | pilot-enjoy-special-relief-amount-insane-throw-practice-orphan-easy-conduct |  
+| bip_39_word_dash_12 | pilot-enjoy-special-relief-amount-insane-throw-practice-orphan-easy-conduct-alien |  
+| bip_39_word_dash_2 | pilot-enjoy |  
+| bip_39_word_dash_3 | pilot-enjoy-special |  
+| bip_39_word_dash_4 | pilot-enjoy-special-relief |  
+| bip_39_word_dash_5 | pilot-enjoy-special-relief-amount |  
+| bip_39_word_dash_6 | pilot-enjoy-special-relief-amount-insane |  
+| bip_39_word_dash_7 | pilot-enjoy-special-relief-amount-insane-throw |  
+| bip_39_word_dash_8 | pilot-enjoy-special-relief-amount-insane-throw-practice |  
+| bip_39_word_dash_9 | pilot-enjoy-special-relief-amount-insane-throw-practice-orphan |  
 | bip_39_word_new_br_1 | pilot |  
 | bip_39_word_new_br_10 | pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice<br>orphan<br>easy |  
 | bip_39_word_new_br_11 | pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice<br>orphan<br>easy<br>conduct |  
@@ -147,6 +159,18 @@ orphan |
 | bip_39_word_space_7 | pilot enjoy special relief amount insane throw |  
 | bip_39_word_space_8 | pilot enjoy special relief amount insane throw practice |  
 | bip_39_word_space_9 | pilot enjoy special relief amount insane throw practice orphan |  
+| bip_39_word_underscore_1 | pilot |  
+| bip_39_word_underscore_10 | pilot_enjoy_special_relief_amount_insane_throw_practice_orphan_easy |  
+| bip_39_word_underscore_11 | pilot_enjoy_special_relief_amount_insane_throw_practice_orphan_easy_conduct |  
+| bip_39_word_underscore_12 | pilot_enjoy_special_relief_amount_insane_throw_practice_orphan_easy_conduct_alien |  
+| bip_39_word_underscore_2 | pilot_enjoy |  
+| bip_39_word_underscore_3 | pilot_enjoy_special |  
+| bip_39_word_underscore_4 | pilot_enjoy_special_relief |  
+| bip_39_word_underscore_5 | pilot_enjoy_special_relief_amount |  
+| bip_39_word_underscore_6 | pilot_enjoy_special_relief_amount_insane |  
+| bip_39_word_underscore_7 | pilot_enjoy_special_relief_amount_insane_throw |  
+| bip_39_word_underscore_8 | pilot_enjoy_special_relief_amount_insane_throw_practice |  
+| bip_39_word_underscore_9 | pilot_enjoy_special_relief_amount_insane_throw_practice_orphan |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

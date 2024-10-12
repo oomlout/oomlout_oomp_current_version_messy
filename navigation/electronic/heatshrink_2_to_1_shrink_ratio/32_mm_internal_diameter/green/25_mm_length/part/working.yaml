@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unique
+bip_39_word_dash_10: unique-dwarf-daring-clap-october-captain-expire-prefer-indicate-between
+bip_39_word_dash_11: unique-dwarf-daring-clap-october-captain-expire-prefer-indicate-between-blossom
+bip_39_word_dash_12: unique-dwarf-daring-clap-october-captain-expire-prefer-indicate-between-blossom-agree
+bip_39_word_dash_2: unique-dwarf
+bip_39_word_dash_3: unique-dwarf-daring
+bip_39_word_dash_4: unique-dwarf-daring-clap
+bip_39_word_dash_5: unique-dwarf-daring-clap-october
+bip_39_word_dash_6: unique-dwarf-daring-clap-october-captain
+bip_39_word_dash_7: unique-dwarf-daring-clap-october-captain-expire
+bip_39_word_dash_8: unique-dwarf-daring-clap-october-captain-expire-prefer
+bip_39_word_dash_9: unique-dwarf-daring-clap-october-captain-expire-prefer-indicate
 bip_39_word_new_br_1: unique
 bip_39_word_new_br_10: unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between
 bip_39_word_new_br_11: unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between<br>blossom
@@ -194,6 +206,18 @@ bip_39_word_space_6: unique dwarf daring clap october captain
 bip_39_word_space_7: unique dwarf daring clap october captain expire
 bip_39_word_space_8: unique dwarf daring clap october captain expire prefer
 bip_39_word_space_9: unique dwarf daring clap october captain expire prefer indicate
+bip_39_word_underscore_1: unique
+bip_39_word_underscore_10: unique_dwarf_daring_clap_october_captain_expire_prefer_indicate_between
+bip_39_word_underscore_11: unique_dwarf_daring_clap_october_captain_expire_prefer_indicate_between_blossom
+bip_39_word_underscore_12: unique_dwarf_daring_clap_october_captain_expire_prefer_indicate_between_blossom_agree
+bip_39_word_underscore_2: unique_dwarf
+bip_39_word_underscore_3: unique_dwarf_daring
+bip_39_word_underscore_4: unique_dwarf_daring_clap
+bip_39_word_underscore_5: unique_dwarf_daring_clap_october
+bip_39_word_underscore_6: unique_dwarf_daring_clap_october_captain
+bip_39_word_underscore_7: unique_dwarf_daring_clap_october_captain_expire
+bip_39_word_underscore_8: unique_dwarf_daring_clap_october_captain_expire_prefer
+bip_39_word_underscore_9: unique_dwarf_daring_clap_october_captain_expire_prefer_indicate
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

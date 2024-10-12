@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deny |  
+| bip_39_word_dash_10 | deny-output-muffin-castle-book-pupil-jealous-eye-shed-begin |  
+| bip_39_word_dash_11 | deny-output-muffin-castle-book-pupil-jealous-eye-shed-begin-where |  
+| bip_39_word_dash_12 | deny-output-muffin-castle-book-pupil-jealous-eye-shed-begin-where-amazing |  
+| bip_39_word_dash_2 | deny-output |  
+| bip_39_word_dash_3 | deny-output-muffin |  
+| bip_39_word_dash_4 | deny-output-muffin-castle |  
+| bip_39_word_dash_5 | deny-output-muffin-castle-book |  
+| bip_39_word_dash_6 | deny-output-muffin-castle-book-pupil |  
+| bip_39_word_dash_7 | deny-output-muffin-castle-book-pupil-jealous |  
+| bip_39_word_dash_8 | deny-output-muffin-castle-book-pupil-jealous-eye |  
+| bip_39_word_dash_9 | deny-output-muffin-castle-book-pupil-jealous-eye-shed |  
 | bip_39_word_new_br_1 | deny |  
 | bip_39_word_new_br_10 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin |  
 | bip_39_word_new_br_11 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin<br>where |  
@@ -147,6 +159,18 @@ shed |
 | bip_39_word_space_7 | deny output muffin castle book pupil jealous |  
 | bip_39_word_space_8 | deny output muffin castle book pupil jealous eye |  
 | bip_39_word_space_9 | deny output muffin castle book pupil jealous eye shed |  
+| bip_39_word_underscore_1 | deny |  
+| bip_39_word_underscore_10 | deny_output_muffin_castle_book_pupil_jealous_eye_shed_begin |  
+| bip_39_word_underscore_11 | deny_output_muffin_castle_book_pupil_jealous_eye_shed_begin_where |  
+| bip_39_word_underscore_12 | deny_output_muffin_castle_book_pupil_jealous_eye_shed_begin_where_amazing |  
+| bip_39_word_underscore_2 | deny_output |  
+| bip_39_word_underscore_3 | deny_output_muffin |  
+| bip_39_word_underscore_4 | deny_output_muffin_castle |  
+| bip_39_word_underscore_5 | deny_output_muffin_castle_book |  
+| bip_39_word_underscore_6 | deny_output_muffin_castle_book_pupil |  
+| bip_39_word_underscore_7 | deny_output_muffin_castle_book_pupil_jealous |  
+| bip_39_word_underscore_8 | deny_output_muffin_castle_book_pupil_jealous_eye |  
+| bip_39_word_underscore_9 | deny_output_muffin_castle_book_pupil_jealous_eye_shed |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

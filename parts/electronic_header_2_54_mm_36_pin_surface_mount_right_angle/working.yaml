@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stage
+bip_39_word_dash_10: stage-arrest-earth-tool-glance-near-awake-cruel-gas-canoe
+bip_39_word_dash_11: stage-arrest-earth-tool-glance-near-awake-cruel-gas-canoe-wire
+bip_39_word_dash_12: stage-arrest-earth-tool-glance-near-awake-cruel-gas-canoe-wire-alert
+bip_39_word_dash_2: stage-arrest
+bip_39_word_dash_3: stage-arrest-earth
+bip_39_word_dash_4: stage-arrest-earth-tool
+bip_39_word_dash_5: stage-arrest-earth-tool-glance
+bip_39_word_dash_6: stage-arrest-earth-tool-glance-near
+bip_39_word_dash_7: stage-arrest-earth-tool-glance-near-awake
+bip_39_word_dash_8: stage-arrest-earth-tool-glance-near-awake-cruel
+bip_39_word_dash_9: stage-arrest-earth-tool-glance-near-awake-cruel-gas
 bip_39_word_new_br_1: stage
 bip_39_word_new_br_10: stage<br>arrest<br>earth<br>tool<br>glance<br>near<br>awake<br>cruel<br>gas<br>canoe
 bip_39_word_new_br_11: stage<br>arrest<br>earth<br>tool<br>glance<br>near<br>awake<br>cruel<br>gas<br>canoe<br>wire
@@ -192,6 +204,18 @@ bip_39_word_space_6: stage arrest earth tool glance near
 bip_39_word_space_7: stage arrest earth tool glance near awake
 bip_39_word_space_8: stage arrest earth tool glance near awake cruel
 bip_39_word_space_9: stage arrest earth tool glance near awake cruel gas
+bip_39_word_underscore_1: stage
+bip_39_word_underscore_10: stage_arrest_earth_tool_glance_near_awake_cruel_gas_canoe
+bip_39_word_underscore_11: stage_arrest_earth_tool_glance_near_awake_cruel_gas_canoe_wire
+bip_39_word_underscore_12: stage_arrest_earth_tool_glance_near_awake_cruel_gas_canoe_wire_alert
+bip_39_word_underscore_2: stage_arrest
+bip_39_word_underscore_3: stage_arrest_earth
+bip_39_word_underscore_4: stage_arrest_earth_tool
+bip_39_word_underscore_5: stage_arrest_earth_tool_glance
+bip_39_word_underscore_6: stage_arrest_earth_tool_glance_near
+bip_39_word_underscore_7: stage_arrest_earth_tool_glance_near_awake
+bip_39_word_underscore_8: stage_arrest_earth_tool_glance_near_awake_cruel
+bip_39_word_underscore_9: stage_arrest_earth_tool_glance_near_awake_cruel_gas
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

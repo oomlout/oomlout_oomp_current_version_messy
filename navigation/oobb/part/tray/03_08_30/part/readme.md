@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fold |  
+| bip_39_word_dash_10 | fold-say-yard-permit-excess-decrease-caution-foil-spatial-main |  
+| bip_39_word_dash_11 | fold-say-yard-permit-excess-decrease-caution-foil-spatial-main-version |  
+| bip_39_word_dash_12 | fold-say-yard-permit-excess-decrease-caution-foil-spatial-main-version-august |  
+| bip_39_word_dash_2 | fold-say |  
+| bip_39_word_dash_3 | fold-say-yard |  
+| bip_39_word_dash_4 | fold-say-yard-permit |  
+| bip_39_word_dash_5 | fold-say-yard-permit-excess |  
+| bip_39_word_dash_6 | fold-say-yard-permit-excess-decrease |  
+| bip_39_word_dash_7 | fold-say-yard-permit-excess-decrease-caution |  
+| bip_39_word_dash_8 | fold-say-yard-permit-excess-decrease-caution-foil |  
+| bip_39_word_dash_9 | fold-say-yard-permit-excess-decrease-caution-foil-spatial |  
 | bip_39_word_new_br_1 | fold |  
 | bip_39_word_new_br_10 | fold<br>say<br>yard<br>permit<br>excess<br>decrease<br>caution<br>foil<br>spatial<br>main |  
 | bip_39_word_new_br_11 | fold<br>say<br>yard<br>permit<br>excess<br>decrease<br>caution<br>foil<br>spatial<br>main<br>version |  
@@ -147,6 +159,18 @@ spatial |
 | bip_39_word_space_7 | fold say yard permit excess decrease caution |  
 | bip_39_word_space_8 | fold say yard permit excess decrease caution foil |  
 | bip_39_word_space_9 | fold say yard permit excess decrease caution foil spatial |  
+| bip_39_word_underscore_1 | fold |  
+| bip_39_word_underscore_10 | fold_say_yard_permit_excess_decrease_caution_foil_spatial_main |  
+| bip_39_word_underscore_11 | fold_say_yard_permit_excess_decrease_caution_foil_spatial_main_version |  
+| bip_39_word_underscore_12 | fold_say_yard_permit_excess_decrease_caution_foil_spatial_main_version_august |  
+| bip_39_word_underscore_2 | fold_say |  
+| bip_39_word_underscore_3 | fold_say_yard |  
+| bip_39_word_underscore_4 | fold_say_yard_permit |  
+| bip_39_word_underscore_5 | fold_say_yard_permit_excess |  
+| bip_39_word_underscore_6 | fold_say_yard_permit_excess_decrease |  
+| bip_39_word_underscore_7 | fold_say_yard_permit_excess_decrease_caution |  
+| bip_39_word_underscore_8 | fold_say_yard_permit_excess_decrease_caution_foil |  
+| bip_39_word_underscore_9 | fold_say_yard_permit_excess_decrease_caution_foil_spatial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

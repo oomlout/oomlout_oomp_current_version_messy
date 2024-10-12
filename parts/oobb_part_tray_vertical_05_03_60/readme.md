@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | topple |  
+| bip_39_word_dash_10 | topple-tongue-flat-fiscal-column-bean-very-wish-vendor-ignore |  
+| bip_39_word_dash_11 | topple-tongue-flat-fiscal-column-bean-very-wish-vendor-ignore-ketchup |  
+| bip_39_word_dash_12 | topple-tongue-flat-fiscal-column-bean-very-wish-vendor-ignore-ketchup-alert |  
+| bip_39_word_dash_2 | topple-tongue |  
+| bip_39_word_dash_3 | topple-tongue-flat |  
+| bip_39_word_dash_4 | topple-tongue-flat-fiscal |  
+| bip_39_word_dash_5 | topple-tongue-flat-fiscal-column |  
+| bip_39_word_dash_6 | topple-tongue-flat-fiscal-column-bean |  
+| bip_39_word_dash_7 | topple-tongue-flat-fiscal-column-bean-very |  
+| bip_39_word_dash_8 | topple-tongue-flat-fiscal-column-bean-very-wish |  
+| bip_39_word_dash_9 | topple-tongue-flat-fiscal-column-bean-very-wish-vendor |  
 | bip_39_word_new_br_1 | topple |  
 | bip_39_word_new_br_10 | topple<br>tongue<br>flat<br>fiscal<br>column<br>bean<br>very<br>wish<br>vendor<br>ignore |  
 | bip_39_word_new_br_11 | topple<br>tongue<br>flat<br>fiscal<br>column<br>bean<br>very<br>wish<br>vendor<br>ignore<br>ketchup |  
@@ -147,6 +159,18 @@ vendor |
 | bip_39_word_space_7 | topple tongue flat fiscal column bean very |  
 | bip_39_word_space_8 | topple tongue flat fiscal column bean very wish |  
 | bip_39_word_space_9 | topple tongue flat fiscal column bean very wish vendor |  
+| bip_39_word_underscore_1 | topple |  
+| bip_39_word_underscore_10 | topple_tongue_flat_fiscal_column_bean_very_wish_vendor_ignore |  
+| bip_39_word_underscore_11 | topple_tongue_flat_fiscal_column_bean_very_wish_vendor_ignore_ketchup |  
+| bip_39_word_underscore_12 | topple_tongue_flat_fiscal_column_bean_very_wish_vendor_ignore_ketchup_alert |  
+| bip_39_word_underscore_2 | topple_tongue |  
+| bip_39_word_underscore_3 | topple_tongue_flat |  
+| bip_39_word_underscore_4 | topple_tongue_flat_fiscal |  
+| bip_39_word_underscore_5 | topple_tongue_flat_fiscal_column |  
+| bip_39_word_underscore_6 | topple_tongue_flat_fiscal_column_bean |  
+| bip_39_word_underscore_7 | topple_tongue_flat_fiscal_column_bean_very |  
+| bip_39_word_underscore_8 | topple_tongue_flat_fiscal_column_bean_very_wish |  
+| bip_39_word_underscore_9 | topple_tongue_flat_fiscal_column_bean_very_wish_vendor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

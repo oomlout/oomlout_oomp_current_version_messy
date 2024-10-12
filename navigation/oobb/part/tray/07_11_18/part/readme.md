@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | uncover |  
+| bip_39_word_dash_10 | uncover-junior-wrist-silver-hotel-camera-shoe-victory-eagle-beef |  
+| bip_39_word_dash_11 | uncover-junior-wrist-silver-hotel-camera-shoe-victory-eagle-beef-pass |  
+| bip_39_word_dash_12 | uncover-junior-wrist-silver-hotel-camera-shoe-victory-eagle-beef-pass-adult |  
+| bip_39_word_dash_2 | uncover-junior |  
+| bip_39_word_dash_3 | uncover-junior-wrist |  
+| bip_39_word_dash_4 | uncover-junior-wrist-silver |  
+| bip_39_word_dash_5 | uncover-junior-wrist-silver-hotel |  
+| bip_39_word_dash_6 | uncover-junior-wrist-silver-hotel-camera |  
+| bip_39_word_dash_7 | uncover-junior-wrist-silver-hotel-camera-shoe |  
+| bip_39_word_dash_8 | uncover-junior-wrist-silver-hotel-camera-shoe-victory |  
+| bip_39_word_dash_9 | uncover-junior-wrist-silver-hotel-camera-shoe-victory-eagle |  
 | bip_39_word_new_br_1 | uncover |  
 | bip_39_word_new_br_10 | uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory<br>eagle<br>beef |  
 | bip_39_word_new_br_11 | uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory<br>eagle<br>beef<br>pass |  
@@ -147,6 +159,18 @@ eagle |
 | bip_39_word_space_7 | uncover junior wrist silver hotel camera shoe |  
 | bip_39_word_space_8 | uncover junior wrist silver hotel camera shoe victory |  
 | bip_39_word_space_9 | uncover junior wrist silver hotel camera shoe victory eagle |  
+| bip_39_word_underscore_1 | uncover |  
+| bip_39_word_underscore_10 | uncover_junior_wrist_silver_hotel_camera_shoe_victory_eagle_beef |  
+| bip_39_word_underscore_11 | uncover_junior_wrist_silver_hotel_camera_shoe_victory_eagle_beef_pass |  
+| bip_39_word_underscore_12 | uncover_junior_wrist_silver_hotel_camera_shoe_victory_eagle_beef_pass_adult |  
+| bip_39_word_underscore_2 | uncover_junior |  
+| bip_39_word_underscore_3 | uncover_junior_wrist |  
+| bip_39_word_underscore_4 | uncover_junior_wrist_silver |  
+| bip_39_word_underscore_5 | uncover_junior_wrist_silver_hotel |  
+| bip_39_word_underscore_6 | uncover_junior_wrist_silver_hotel_camera |  
+| bip_39_word_underscore_7 | uncover_junior_wrist_silver_hotel_camera_shoe |  
+| bip_39_word_underscore_8 | uncover_junior_wrist_silver_hotel_camera_shoe_victory |  
+| bip_39_word_underscore_9 | uncover_junior_wrist_silver_hotel_camera_shoe_victory_eagle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

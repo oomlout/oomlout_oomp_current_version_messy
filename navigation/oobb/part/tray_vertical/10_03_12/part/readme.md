@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diet |  
+| bip_39_word_dash_10 | diet-pioneer-busy-garbage-design-hard-rapid-wrestle-person-inherit |  
+| bip_39_word_dash_11 | diet-pioneer-busy-garbage-design-hard-rapid-wrestle-person-inherit-tired |  
+| bip_39_word_dash_12 | diet-pioneer-busy-garbage-design-hard-rapid-wrestle-person-inherit-tired-adjust |  
+| bip_39_word_dash_2 | diet-pioneer |  
+| bip_39_word_dash_3 | diet-pioneer-busy |  
+| bip_39_word_dash_4 | diet-pioneer-busy-garbage |  
+| bip_39_word_dash_5 | diet-pioneer-busy-garbage-design |  
+| bip_39_word_dash_6 | diet-pioneer-busy-garbage-design-hard |  
+| bip_39_word_dash_7 | diet-pioneer-busy-garbage-design-hard-rapid |  
+| bip_39_word_dash_8 | diet-pioneer-busy-garbage-design-hard-rapid-wrestle |  
+| bip_39_word_dash_9 | diet-pioneer-busy-garbage-design-hard-rapid-wrestle-person |  
 | bip_39_word_new_br_1 | diet |  
 | bip_39_word_new_br_10 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit |  
 | bip_39_word_new_br_11 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit<br>tired |  
@@ -147,6 +159,18 @@ person |
 | bip_39_word_space_7 | diet pioneer busy garbage design hard rapid |  
 | bip_39_word_space_8 | diet pioneer busy garbage design hard rapid wrestle |  
 | bip_39_word_space_9 | diet pioneer busy garbage design hard rapid wrestle person |  
+| bip_39_word_underscore_1 | diet |  
+| bip_39_word_underscore_10 | diet_pioneer_busy_garbage_design_hard_rapid_wrestle_person_inherit |  
+| bip_39_word_underscore_11 | diet_pioneer_busy_garbage_design_hard_rapid_wrestle_person_inherit_tired |  
+| bip_39_word_underscore_12 | diet_pioneer_busy_garbage_design_hard_rapid_wrestle_person_inherit_tired_adjust |  
+| bip_39_word_underscore_2 | diet_pioneer |  
+| bip_39_word_underscore_3 | diet_pioneer_busy |  
+| bip_39_word_underscore_4 | diet_pioneer_busy_garbage |  
+| bip_39_word_underscore_5 | diet_pioneer_busy_garbage_design |  
+| bip_39_word_underscore_6 | diet_pioneer_busy_garbage_design_hard |  
+| bip_39_word_underscore_7 | diet_pioneer_busy_garbage_design_hard_rapid |  
+| bip_39_word_underscore_8 | diet_pioneer_busy_garbage_design_hard_rapid_wrestle |  
+| bip_39_word_underscore_9 | diet_pioneer_busy_garbage_design_hard_rapid_wrestle_person |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

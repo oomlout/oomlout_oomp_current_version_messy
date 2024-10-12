@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | piano |  
+| bip_39_word_dash_10 | piano-super-twice-ecology-hobby-arch-scout-sketch-siege-delay |  
+| bip_39_word_dash_11 | piano-super-twice-ecology-hobby-arch-scout-sketch-siege-delay-horn |  
+| bip_39_word_dash_12 | piano-super-twice-ecology-hobby-arch-scout-sketch-siege-delay-horn-attract |  
+| bip_39_word_dash_2 | piano-super |  
+| bip_39_word_dash_3 | piano-super-twice |  
+| bip_39_word_dash_4 | piano-super-twice-ecology |  
+| bip_39_word_dash_5 | piano-super-twice-ecology-hobby |  
+| bip_39_word_dash_6 | piano-super-twice-ecology-hobby-arch |  
+| bip_39_word_dash_7 | piano-super-twice-ecology-hobby-arch-scout |  
+| bip_39_word_dash_8 | piano-super-twice-ecology-hobby-arch-scout-sketch |  
+| bip_39_word_dash_9 | piano-super-twice-ecology-hobby-arch-scout-sketch-siege |  
 | bip_39_word_new_br_1 | piano |  
 | bip_39_word_new_br_10 | piano<br>super<br>twice<br>ecology<br>hobby<br>arch<br>scout<br>sketch<br>siege<br>delay |  
 | bip_39_word_new_br_11 | piano<br>super<br>twice<br>ecology<br>hobby<br>arch<br>scout<br>sketch<br>siege<br>delay<br>horn |  
@@ -147,6 +159,18 @@ siege |
 | bip_39_word_space_7 | piano super twice ecology hobby arch scout |  
 | bip_39_word_space_8 | piano super twice ecology hobby arch scout sketch |  
 | bip_39_word_space_9 | piano super twice ecology hobby arch scout sketch siege |  
+| bip_39_word_underscore_1 | piano |  
+| bip_39_word_underscore_10 | piano_super_twice_ecology_hobby_arch_scout_sketch_siege_delay |  
+| bip_39_word_underscore_11 | piano_super_twice_ecology_hobby_arch_scout_sketch_siege_delay_horn |  
+| bip_39_word_underscore_12 | piano_super_twice_ecology_hobby_arch_scout_sketch_siege_delay_horn_attract |  
+| bip_39_word_underscore_2 | piano_super |  
+| bip_39_word_underscore_3 | piano_super_twice |  
+| bip_39_word_underscore_4 | piano_super_twice_ecology |  
+| bip_39_word_underscore_5 | piano_super_twice_ecology_hobby |  
+| bip_39_word_underscore_6 | piano_super_twice_ecology_hobby_arch |  
+| bip_39_word_underscore_7 | piano_super_twice_ecology_hobby_arch_scout |  
+| bip_39_word_underscore_8 | piano_super_twice_ecology_hobby_arch_scout_sketch |  
+| bip_39_word_underscore_9 | piano_super_twice_ecology_hobby_arch_scout_sketch_siege |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

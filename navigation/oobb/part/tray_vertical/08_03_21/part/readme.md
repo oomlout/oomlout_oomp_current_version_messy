@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | topic |  
+| bip_39_word_dash_10 | topic-whip-denial-jeans-before-brain-jar-tragic-tiny-stereo |  
+| bip_39_word_dash_11 | topic-whip-denial-jeans-before-brain-jar-tragic-tiny-stereo-matter |  
+| bip_39_word_dash_12 | topic-whip-denial-jeans-before-brain-jar-tragic-tiny-stereo-matter-arrive |  
+| bip_39_word_dash_2 | topic-whip |  
+| bip_39_word_dash_3 | topic-whip-denial |  
+| bip_39_word_dash_4 | topic-whip-denial-jeans |  
+| bip_39_word_dash_5 | topic-whip-denial-jeans-before |  
+| bip_39_word_dash_6 | topic-whip-denial-jeans-before-brain |  
+| bip_39_word_dash_7 | topic-whip-denial-jeans-before-brain-jar |  
+| bip_39_word_dash_8 | topic-whip-denial-jeans-before-brain-jar-tragic |  
+| bip_39_word_dash_9 | topic-whip-denial-jeans-before-brain-jar-tragic-tiny |  
 | bip_39_word_new_br_1 | topic |  
 | bip_39_word_new_br_10 | topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo |  
 | bip_39_word_new_br_11 | topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo<br>matter |  
@@ -147,6 +159,18 @@ tiny |
 | bip_39_word_space_7 | topic whip denial jeans before brain jar |  
 | bip_39_word_space_8 | topic whip denial jeans before brain jar tragic |  
 | bip_39_word_space_9 | topic whip denial jeans before brain jar tragic tiny |  
+| bip_39_word_underscore_1 | topic |  
+| bip_39_word_underscore_10 | topic_whip_denial_jeans_before_brain_jar_tragic_tiny_stereo |  
+| bip_39_word_underscore_11 | topic_whip_denial_jeans_before_brain_jar_tragic_tiny_stereo_matter |  
+| bip_39_word_underscore_12 | topic_whip_denial_jeans_before_brain_jar_tragic_tiny_stereo_matter_arrive |  
+| bip_39_word_underscore_2 | topic_whip |  
+| bip_39_word_underscore_3 | topic_whip_denial |  
+| bip_39_word_underscore_4 | topic_whip_denial_jeans |  
+| bip_39_word_underscore_5 | topic_whip_denial_jeans_before |  
+| bip_39_word_underscore_6 | topic_whip_denial_jeans_before_brain |  
+| bip_39_word_underscore_7 | topic_whip_denial_jeans_before_brain_jar |  
+| bip_39_word_underscore_8 | topic_whip_denial_jeans_before_brain_jar_tragic |  
+| bip_39_word_underscore_9 | topic_whip_denial_jeans_before_brain_jar_tragic_tiny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

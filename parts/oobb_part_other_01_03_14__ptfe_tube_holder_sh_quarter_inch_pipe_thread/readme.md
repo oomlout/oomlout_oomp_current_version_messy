@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | beauty |  
+| bip_39_word_dash_10 | beauty-near-body-shift-narrow-lab-cargo-index-pipe-bamboo |  
+| bip_39_word_dash_11 | beauty-near-body-shift-narrow-lab-cargo-index-pipe-bamboo-phone |  
+| bip_39_word_dash_12 | beauty-near-body-shift-narrow-lab-cargo-index-pipe-bamboo-phone-all |  
+| bip_39_word_dash_2 | beauty-near |  
+| bip_39_word_dash_3 | beauty-near-body |  
+| bip_39_word_dash_4 | beauty-near-body-shift |  
+| bip_39_word_dash_5 | beauty-near-body-shift-narrow |  
+| bip_39_word_dash_6 | beauty-near-body-shift-narrow-lab |  
+| bip_39_word_dash_7 | beauty-near-body-shift-narrow-lab-cargo |  
+| bip_39_word_dash_8 | beauty-near-body-shift-narrow-lab-cargo-index |  
+| bip_39_word_dash_9 | beauty-near-body-shift-narrow-lab-cargo-index-pipe |  
 | bip_39_word_new_br_1 | beauty |  
 | bip_39_word_new_br_10 | beauty<br>near<br>body<br>shift<br>narrow<br>lab<br>cargo<br>index<br>pipe<br>bamboo |  
 | bip_39_word_new_br_11 | beauty<br>near<br>body<br>shift<br>narrow<br>lab<br>cargo<br>index<br>pipe<br>bamboo<br>phone |  
@@ -147,6 +159,18 @@ pipe |
 | bip_39_word_space_7 | beauty near body shift narrow lab cargo |  
 | bip_39_word_space_8 | beauty near body shift narrow lab cargo index |  
 | bip_39_word_space_9 | beauty near body shift narrow lab cargo index pipe |  
+| bip_39_word_underscore_1 | beauty |  
+| bip_39_word_underscore_10 | beauty_near_body_shift_narrow_lab_cargo_index_pipe_bamboo |  
+| bip_39_word_underscore_11 | beauty_near_body_shift_narrow_lab_cargo_index_pipe_bamboo_phone |  
+| bip_39_word_underscore_12 | beauty_near_body_shift_narrow_lab_cargo_index_pipe_bamboo_phone_all |  
+| bip_39_word_underscore_2 | beauty_near |  
+| bip_39_word_underscore_3 | beauty_near_body |  
+| bip_39_word_underscore_4 | beauty_near_body_shift |  
+| bip_39_word_underscore_5 | beauty_near_body_shift_narrow |  
+| bip_39_word_underscore_6 | beauty_near_body_shift_narrow_lab |  
+| bip_39_word_underscore_7 | beauty_near_body_shift_narrow_lab_cargo |  
+| bip_39_word_underscore_8 | beauty_near_body_shift_narrow_lab_cargo_index |  
+| bip_39_word_underscore_9 | beauty_near_body_shift_narrow_lab_cargo_index_pipe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | problem |  
+| bip_39_word_dash_10 | problem-box-illness-wide-pill-side-gym-wine-legal-earn |  
+| bip_39_word_dash_11 | problem-box-illness-wide-pill-side-gym-wine-legal-earn-lock |  
+| bip_39_word_dash_12 | problem-box-illness-wide-pill-side-gym-wine-legal-earn-lock-arrive |  
+| bip_39_word_dash_2 | problem-box |  
+| bip_39_word_dash_3 | problem-box-illness |  
+| bip_39_word_dash_4 | problem-box-illness-wide |  
+| bip_39_word_dash_5 | problem-box-illness-wide-pill |  
+| bip_39_word_dash_6 | problem-box-illness-wide-pill-side |  
+| bip_39_word_dash_7 | problem-box-illness-wide-pill-side-gym |  
+| bip_39_word_dash_8 | problem-box-illness-wide-pill-side-gym-wine |  
+| bip_39_word_dash_9 | problem-box-illness-wide-pill-side-gym-wine-legal |  
 | bip_39_word_new_br_1 | problem |  
 | bip_39_word_new_br_10 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine<br>legal<br>earn |  
 | bip_39_word_new_br_11 | problem<br>box<br>illness<br>wide<br>pill<br>side<br>gym<br>wine<br>legal<br>earn<br>lock |  
@@ -147,6 +159,18 @@ legal |
 | bip_39_word_space_7 | problem box illness wide pill side gym |  
 | bip_39_word_space_8 | problem box illness wide pill side gym wine |  
 | bip_39_word_space_9 | problem box illness wide pill side gym wine legal |  
+| bip_39_word_underscore_1 | problem |  
+| bip_39_word_underscore_10 | problem_box_illness_wide_pill_side_gym_wine_legal_earn |  
+| bip_39_word_underscore_11 | problem_box_illness_wide_pill_side_gym_wine_legal_earn_lock |  
+| bip_39_word_underscore_12 | problem_box_illness_wide_pill_side_gym_wine_legal_earn_lock_arrive |  
+| bip_39_word_underscore_2 | problem_box |  
+| bip_39_word_underscore_3 | problem_box_illness |  
+| bip_39_word_underscore_4 | problem_box_illness_wide |  
+| bip_39_word_underscore_5 | problem_box_illness_wide_pill |  
+| bip_39_word_underscore_6 | problem_box_illness_wide_pill_side |  
+| bip_39_word_underscore_7 | problem_box_illness_wide_pill_side_gym |  
+| bip_39_word_underscore_8 | problem_box_illness_wide_pill_side_gym_wine |  
+| bip_39_word_underscore_9 | problem_box_illness_wide_pill_side_gym_wine_legal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

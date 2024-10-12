@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pen |  
+| bip_39_word_dash_10 | pen-spell-enough-inhale-nose-wolf-arrive-poet-destroy-inhale |  
+| bip_39_word_dash_11 | pen-spell-enough-inhale-nose-wolf-arrive-poet-destroy-inhale-together |  
+| bip_39_word_dash_12 | pen-spell-enough-inhale-nose-wolf-arrive-poet-destroy-inhale-together-actress |  
+| bip_39_word_dash_2 | pen-spell |  
+| bip_39_word_dash_3 | pen-spell-enough |  
+| bip_39_word_dash_4 | pen-spell-enough-inhale |  
+| bip_39_word_dash_5 | pen-spell-enough-inhale-nose |  
+| bip_39_word_dash_6 | pen-spell-enough-inhale-nose-wolf |  
+| bip_39_word_dash_7 | pen-spell-enough-inhale-nose-wolf-arrive |  
+| bip_39_word_dash_8 | pen-spell-enough-inhale-nose-wolf-arrive-poet |  
+| bip_39_word_dash_9 | pen-spell-enough-inhale-nose-wolf-arrive-poet-destroy |  
 | bip_39_word_new_br_1 | pen |  
 | bip_39_word_new_br_10 | pen<br>spell<br>enough<br>inhale<br>nose<br>wolf<br>arrive<br>poet<br>destroy<br>inhale |  
 | bip_39_word_new_br_11 | pen<br>spell<br>enough<br>inhale<br>nose<br>wolf<br>arrive<br>poet<br>destroy<br>inhale<br>together |  
@@ -147,6 +159,18 @@ destroy |
 | bip_39_word_space_7 | pen spell enough inhale nose wolf arrive |  
 | bip_39_word_space_8 | pen spell enough inhale nose wolf arrive poet |  
 | bip_39_word_space_9 | pen spell enough inhale nose wolf arrive poet destroy |  
+| bip_39_word_underscore_1 | pen |  
+| bip_39_word_underscore_10 | pen_spell_enough_inhale_nose_wolf_arrive_poet_destroy_inhale |  
+| bip_39_word_underscore_11 | pen_spell_enough_inhale_nose_wolf_arrive_poet_destroy_inhale_together |  
+| bip_39_word_underscore_12 | pen_spell_enough_inhale_nose_wolf_arrive_poet_destroy_inhale_together_actress |  
+| bip_39_word_underscore_2 | pen_spell |  
+| bip_39_word_underscore_3 | pen_spell_enough |  
+| bip_39_word_underscore_4 | pen_spell_enough_inhale |  
+| bip_39_word_underscore_5 | pen_spell_enough_inhale_nose |  
+| bip_39_word_underscore_6 | pen_spell_enough_inhale_nose_wolf |  
+| bip_39_word_underscore_7 | pen_spell_enough_inhale_nose_wolf_arrive |  
+| bip_39_word_underscore_8 | pen_spell_enough_inhale_nose_wolf_arrive_poet |  
+| bip_39_word_underscore_9 | pen_spell_enough_inhale_nose_wolf_arrive_poet_destroy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

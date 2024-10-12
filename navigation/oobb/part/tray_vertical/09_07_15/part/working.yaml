@@ -1,3 +1,15 @@
+bip_39_word_dash_1: glide
+bip_39_word_dash_10: glide-symptom-explain-drill-search-valley-primary-empower-shield-either
+bip_39_word_dash_11: glide-symptom-explain-drill-search-valley-primary-empower-shield-either-build
+bip_39_word_dash_12: glide-symptom-explain-drill-search-valley-primary-empower-shield-either-build-acquire
+bip_39_word_dash_2: glide-symptom
+bip_39_word_dash_3: glide-symptom-explain
+bip_39_word_dash_4: glide-symptom-explain-drill
+bip_39_word_dash_5: glide-symptom-explain-drill-search
+bip_39_word_dash_6: glide-symptom-explain-drill-search-valley
+bip_39_word_dash_7: glide-symptom-explain-drill-search-valley-primary
+bip_39_word_dash_8: glide-symptom-explain-drill-search-valley-primary-empower
+bip_39_word_dash_9: glide-symptom-explain-drill-search-valley-primary-empower-shield
 bip_39_word_new_br_1: glide
 bip_39_word_new_br_10: glide<br>symptom<br>explain<br>drill<br>search<br>valley<br>primary<br>empower<br>shield<br>either
 bip_39_word_new_br_11: glide<br>symptom<br>explain<br>drill<br>search<br>valley<br>primary<br>empower<br>shield<br>either<br>build
@@ -194,6 +206,18 @@ bip_39_word_space_6: glide symptom explain drill search valley
 bip_39_word_space_7: glide symptom explain drill search valley primary
 bip_39_word_space_8: glide symptom explain drill search valley primary empower
 bip_39_word_space_9: glide symptom explain drill search valley primary empower shield
+bip_39_word_underscore_1: glide
+bip_39_word_underscore_10: glide_symptom_explain_drill_search_valley_primary_empower_shield_either
+bip_39_word_underscore_11: glide_symptom_explain_drill_search_valley_primary_empower_shield_either_build
+bip_39_word_underscore_12: glide_symptom_explain_drill_search_valley_primary_empower_shield_either_build_acquire
+bip_39_word_underscore_2: glide_symptom
+bip_39_word_underscore_3: glide_symptom_explain
+bip_39_word_underscore_4: glide_symptom_explain_drill
+bip_39_word_underscore_5: glide_symptom_explain_drill_search
+bip_39_word_underscore_6: glide_symptom_explain_drill_search_valley
+bip_39_word_underscore_7: glide_symptom_explain_drill_search_valley_primary
+bip_39_word_underscore_8: glide_symptom_explain_drill_search_valley_primary_empower
+bip_39_word_underscore_9: glide_symptom_explain_drill_search_valley_primary_empower_shield
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

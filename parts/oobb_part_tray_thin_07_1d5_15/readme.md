@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | throw |  
+| bip_39_word_dash_10 | throw-mind-horse-dinner-risk-agent-solar-state-tube-frame |  
+| bip_39_word_dash_11 | throw-mind-horse-dinner-risk-agent-solar-state-tube-frame-boil |  
+| bip_39_word_dash_12 | throw-mind-horse-dinner-risk-agent-solar-state-tube-frame-boil-attitude |  
+| bip_39_word_dash_2 | throw-mind |  
+| bip_39_word_dash_3 | throw-mind-horse |  
+| bip_39_word_dash_4 | throw-mind-horse-dinner |  
+| bip_39_word_dash_5 | throw-mind-horse-dinner-risk |  
+| bip_39_word_dash_6 | throw-mind-horse-dinner-risk-agent |  
+| bip_39_word_dash_7 | throw-mind-horse-dinner-risk-agent-solar |  
+| bip_39_word_dash_8 | throw-mind-horse-dinner-risk-agent-solar-state |  
+| bip_39_word_dash_9 | throw-mind-horse-dinner-risk-agent-solar-state-tube |  
 | bip_39_word_new_br_1 | throw |  
 | bip_39_word_new_br_10 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame |  
 | bip_39_word_new_br_11 | throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame<br>boil |  
@@ -147,6 +159,18 @@ tube |
 | bip_39_word_space_7 | throw mind horse dinner risk agent solar |  
 | bip_39_word_space_8 | throw mind horse dinner risk agent solar state |  
 | bip_39_word_space_9 | throw mind horse dinner risk agent solar state tube |  
+| bip_39_word_underscore_1 | throw |  
+| bip_39_word_underscore_10 | throw_mind_horse_dinner_risk_agent_solar_state_tube_frame |  
+| bip_39_word_underscore_11 | throw_mind_horse_dinner_risk_agent_solar_state_tube_frame_boil |  
+| bip_39_word_underscore_12 | throw_mind_horse_dinner_risk_agent_solar_state_tube_frame_boil_attitude |  
+| bip_39_word_underscore_2 | throw_mind |  
+| bip_39_word_underscore_3 | throw_mind_horse |  
+| bip_39_word_underscore_4 | throw_mind_horse_dinner |  
+| bip_39_word_underscore_5 | throw_mind_horse_dinner_risk |  
+| bip_39_word_underscore_6 | throw_mind_horse_dinner_risk_agent |  
+| bip_39_word_underscore_7 | throw_mind_horse_dinner_risk_agent_solar |  
+| bip_39_word_underscore_8 | throw_mind_horse_dinner_risk_agent_solar_state |  
+| bip_39_word_underscore_9 | throw_mind_horse_dinner_risk_agent_solar_state_tube |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

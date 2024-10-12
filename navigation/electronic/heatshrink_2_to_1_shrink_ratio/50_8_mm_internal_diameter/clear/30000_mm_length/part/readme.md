@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | welcome |  
+| bip_39_word_dash_10 | welcome-basket-surround-strong-snow-torch-stamp-alter-champion-buddy |  
+| bip_39_word_dash_11 | welcome-basket-surround-strong-snow-torch-stamp-alter-champion-buddy-topple |  
+| bip_39_word_dash_12 | welcome-basket-surround-strong-snow-torch-stamp-alter-champion-buddy-topple-arrow |  
+| bip_39_word_dash_2 | welcome-basket |  
+| bip_39_word_dash_3 | welcome-basket-surround |  
+| bip_39_word_dash_4 | welcome-basket-surround-strong |  
+| bip_39_word_dash_5 | welcome-basket-surround-strong-snow |  
+| bip_39_word_dash_6 | welcome-basket-surround-strong-snow-torch |  
+| bip_39_word_dash_7 | welcome-basket-surround-strong-snow-torch-stamp |  
+| bip_39_word_dash_8 | welcome-basket-surround-strong-snow-torch-stamp-alter |  
+| bip_39_word_dash_9 | welcome-basket-surround-strong-snow-torch-stamp-alter-champion |  
 | bip_39_word_new_br_1 | welcome |  
 | bip_39_word_new_br_10 | welcome<br>basket<br>surround<br>strong<br>snow<br>torch<br>stamp<br>alter<br>champion<br>buddy |  
 | bip_39_word_new_br_11 | welcome<br>basket<br>surround<br>strong<br>snow<br>torch<br>stamp<br>alter<br>champion<br>buddy<br>topple |  
@@ -147,6 +159,18 @@ champion |
 | bip_39_word_space_7 | welcome basket surround strong snow torch stamp |  
 | bip_39_word_space_8 | welcome basket surround strong snow torch stamp alter |  
 | bip_39_word_space_9 | welcome basket surround strong snow torch stamp alter champion |  
+| bip_39_word_underscore_1 | welcome |  
+| bip_39_word_underscore_10 | welcome_basket_surround_strong_snow_torch_stamp_alter_champion_buddy |  
+| bip_39_word_underscore_11 | welcome_basket_surround_strong_snow_torch_stamp_alter_champion_buddy_topple |  
+| bip_39_word_underscore_12 | welcome_basket_surround_strong_snow_torch_stamp_alter_champion_buddy_topple_arrow |  
+| bip_39_word_underscore_2 | welcome_basket |  
+| bip_39_word_underscore_3 | welcome_basket_surround |  
+| bip_39_word_underscore_4 | welcome_basket_surround_strong |  
+| bip_39_word_underscore_5 | welcome_basket_surround_strong_snow |  
+| bip_39_word_underscore_6 | welcome_basket_surround_strong_snow_torch |  
+| bip_39_word_underscore_7 | welcome_basket_surround_strong_snow_torch_stamp |  
+| bip_39_word_underscore_8 | welcome_basket_surround_strong_snow_torch_stamp_alter |  
+| bip_39_word_underscore_9 | welcome_basket_surround_strong_snow_torch_stamp_alter_champion |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

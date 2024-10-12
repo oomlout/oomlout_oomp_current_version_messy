@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pattern |  
+| bip_39_word_dash_10 | pattern-very-include-sing-sick-suffer-put-captain-kiwi-caution |  
+| bip_39_word_dash_11 | pattern-very-include-sing-sick-suffer-put-captain-kiwi-caution-scorpion |  
+| bip_39_word_dash_12 | pattern-very-include-sing-sick-suffer-put-captain-kiwi-caution-scorpion-appear |  
+| bip_39_word_dash_2 | pattern-very |  
+| bip_39_word_dash_3 | pattern-very-include |  
+| bip_39_word_dash_4 | pattern-very-include-sing |  
+| bip_39_word_dash_5 | pattern-very-include-sing-sick |  
+| bip_39_word_dash_6 | pattern-very-include-sing-sick-suffer |  
+| bip_39_word_dash_7 | pattern-very-include-sing-sick-suffer-put |  
+| bip_39_word_dash_8 | pattern-very-include-sing-sick-suffer-put-captain |  
+| bip_39_word_dash_9 | pattern-very-include-sing-sick-suffer-put-captain-kiwi |  
 | bip_39_word_new_br_1 | pattern |  
 | bip_39_word_new_br_10 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution |  
 | bip_39_word_new_br_11 | pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution<br>scorpion |  
@@ -147,6 +159,18 @@ kiwi |
 | bip_39_word_space_7 | pattern very include sing sick suffer put |  
 | bip_39_word_space_8 | pattern very include sing sick suffer put captain |  
 | bip_39_word_space_9 | pattern very include sing sick suffer put captain kiwi |  
+| bip_39_word_underscore_1 | pattern |  
+| bip_39_word_underscore_10 | pattern_very_include_sing_sick_suffer_put_captain_kiwi_caution |  
+| bip_39_word_underscore_11 | pattern_very_include_sing_sick_suffer_put_captain_kiwi_caution_scorpion |  
+| bip_39_word_underscore_12 | pattern_very_include_sing_sick_suffer_put_captain_kiwi_caution_scorpion_appear |  
+| bip_39_word_underscore_2 | pattern_very |  
+| bip_39_word_underscore_3 | pattern_very_include |  
+| bip_39_word_underscore_4 | pattern_very_include_sing |  
+| bip_39_word_underscore_5 | pattern_very_include_sing_sick |  
+| bip_39_word_underscore_6 | pattern_very_include_sing_sick_suffer |  
+| bip_39_word_underscore_7 | pattern_very_include_sing_sick_suffer_put |  
+| bip_39_word_underscore_8 | pattern_very_include_sing_sick_suffer_put_captain |  
+| bip_39_word_underscore_9 | pattern_very_include_sing_sick_suffer_put_captain_kiwi |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

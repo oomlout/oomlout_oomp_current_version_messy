@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sunny |  
+| bip_39_word_dash_10 | sunny-egg-build-elephant-miss-virtual-denial-broken-churn-nothing |  
+| bip_39_word_dash_11 | sunny-egg-build-elephant-miss-virtual-denial-broken-churn-nothing-lab |  
+| bip_39_word_dash_12 | sunny-egg-build-elephant-miss-virtual-denial-broken-churn-nothing-lab-athlete |  
+| bip_39_word_dash_2 | sunny-egg |  
+| bip_39_word_dash_3 | sunny-egg-build |  
+| bip_39_word_dash_4 | sunny-egg-build-elephant |  
+| bip_39_word_dash_5 | sunny-egg-build-elephant-miss |  
+| bip_39_word_dash_6 | sunny-egg-build-elephant-miss-virtual |  
+| bip_39_word_dash_7 | sunny-egg-build-elephant-miss-virtual-denial |  
+| bip_39_word_dash_8 | sunny-egg-build-elephant-miss-virtual-denial-broken |  
+| bip_39_word_dash_9 | sunny-egg-build-elephant-miss-virtual-denial-broken-churn |  
 | bip_39_word_new_br_1 | sunny |  
 | bip_39_word_new_br_10 | sunny<br>egg<br>build<br>elephant<br>miss<br>virtual<br>denial<br>broken<br>churn<br>nothing |  
 | bip_39_word_new_br_11 | sunny<br>egg<br>build<br>elephant<br>miss<br>virtual<br>denial<br>broken<br>churn<br>nothing<br>lab |  
@@ -147,6 +159,18 @@ churn |
 | bip_39_word_space_7 | sunny egg build elephant miss virtual denial |  
 | bip_39_word_space_8 | sunny egg build elephant miss virtual denial broken |  
 | bip_39_word_space_9 | sunny egg build elephant miss virtual denial broken churn |  
+| bip_39_word_underscore_1 | sunny |  
+| bip_39_word_underscore_10 | sunny_egg_build_elephant_miss_virtual_denial_broken_churn_nothing |  
+| bip_39_word_underscore_11 | sunny_egg_build_elephant_miss_virtual_denial_broken_churn_nothing_lab |  
+| bip_39_word_underscore_12 | sunny_egg_build_elephant_miss_virtual_denial_broken_churn_nothing_lab_athlete |  
+| bip_39_word_underscore_2 | sunny_egg |  
+| bip_39_word_underscore_3 | sunny_egg_build |  
+| bip_39_word_underscore_4 | sunny_egg_build_elephant |  
+| bip_39_word_underscore_5 | sunny_egg_build_elephant_miss |  
+| bip_39_word_underscore_6 | sunny_egg_build_elephant_miss_virtual |  
+| bip_39_word_underscore_7 | sunny_egg_build_elephant_miss_virtual_denial |  
+| bip_39_word_underscore_8 | sunny_egg_build_elephant_miss_virtual_denial_broken |  
+| bip_39_word_underscore_9 | sunny_egg_build_elephant_miss_virtual_denial_broken_churn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

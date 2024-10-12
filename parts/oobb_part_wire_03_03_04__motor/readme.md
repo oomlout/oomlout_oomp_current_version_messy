@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | desk |  
+| bip_39_word_dash_10 | desk-output-boil-attitude-powder-office-right-frequent-mansion-ridge |  
+| bip_39_word_dash_11 | desk-output-boil-attitude-powder-office-right-frequent-mansion-ridge-vessel |  
+| bip_39_word_dash_12 | desk-output-boil-attitude-powder-office-right-frequent-mansion-ridge-vessel-among |  
+| bip_39_word_dash_2 | desk-output |  
+| bip_39_word_dash_3 | desk-output-boil |  
+| bip_39_word_dash_4 | desk-output-boil-attitude |  
+| bip_39_word_dash_5 | desk-output-boil-attitude-powder |  
+| bip_39_word_dash_6 | desk-output-boil-attitude-powder-office |  
+| bip_39_word_dash_7 | desk-output-boil-attitude-powder-office-right |  
+| bip_39_word_dash_8 | desk-output-boil-attitude-powder-office-right-frequent |  
+| bip_39_word_dash_9 | desk-output-boil-attitude-powder-office-right-frequent-mansion |  
 | bip_39_word_new_br_1 | desk |  
 | bip_39_word_new_br_10 | desk<br>output<br>boil<br>attitude<br>powder<br>office<br>right<br>frequent<br>mansion<br>ridge |  
 | bip_39_word_new_br_11 | desk<br>output<br>boil<br>attitude<br>powder<br>office<br>right<br>frequent<br>mansion<br>ridge<br>vessel |  
@@ -147,6 +159,18 @@ mansion |
 | bip_39_word_space_7 | desk output boil attitude powder office right |  
 | bip_39_word_space_8 | desk output boil attitude powder office right frequent |  
 | bip_39_word_space_9 | desk output boil attitude powder office right frequent mansion |  
+| bip_39_word_underscore_1 | desk |  
+| bip_39_word_underscore_10 | desk_output_boil_attitude_powder_office_right_frequent_mansion_ridge |  
+| bip_39_word_underscore_11 | desk_output_boil_attitude_powder_office_right_frequent_mansion_ridge_vessel |  
+| bip_39_word_underscore_12 | desk_output_boil_attitude_powder_office_right_frequent_mansion_ridge_vessel_among |  
+| bip_39_word_underscore_2 | desk_output |  
+| bip_39_word_underscore_3 | desk_output_boil |  
+| bip_39_word_underscore_4 | desk_output_boil_attitude |  
+| bip_39_word_underscore_5 | desk_output_boil_attitude_powder |  
+| bip_39_word_underscore_6 | desk_output_boil_attitude_powder_office |  
+| bip_39_word_underscore_7 | desk_output_boil_attitude_powder_office_right |  
+| bip_39_word_underscore_8 | desk_output_boil_attitude_powder_office_right_frequent |  
+| bip_39_word_underscore_9 | desk_output_boil_attitude_powder_office_right_frequent_mansion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

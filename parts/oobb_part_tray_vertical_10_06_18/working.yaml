@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rifle
+bip_39_word_dash_10: rifle-volcano-youth-struggle-robot-chef-toy-reason-spatial-half
+bip_39_word_dash_11: rifle-volcano-youth-struggle-robot-chef-toy-reason-spatial-half-hello
+bip_39_word_dash_12: rifle-volcano-youth-struggle-robot-chef-toy-reason-spatial-half-hello-avocado
+bip_39_word_dash_2: rifle-volcano
+bip_39_word_dash_3: rifle-volcano-youth
+bip_39_word_dash_4: rifle-volcano-youth-struggle
+bip_39_word_dash_5: rifle-volcano-youth-struggle-robot
+bip_39_word_dash_6: rifle-volcano-youth-struggle-robot-chef
+bip_39_word_dash_7: rifle-volcano-youth-struggle-robot-chef-toy
+bip_39_word_dash_8: rifle-volcano-youth-struggle-robot-chef-toy-reason
+bip_39_word_dash_9: rifle-volcano-youth-struggle-robot-chef-toy-reason-spatial
 bip_39_word_new_br_1: rifle
 bip_39_word_new_br_10: rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason<br>spatial<br>half
 bip_39_word_new_br_11: rifle<br>volcano<br>youth<br>struggle<br>robot<br>chef<br>toy<br>reason<br>spatial<br>half<br>hello
@@ -193,6 +205,18 @@ bip_39_word_space_6: rifle volcano youth struggle robot chef
 bip_39_word_space_7: rifle volcano youth struggle robot chef toy
 bip_39_word_space_8: rifle volcano youth struggle robot chef toy reason
 bip_39_word_space_9: rifle volcano youth struggle robot chef toy reason spatial
+bip_39_word_underscore_1: rifle
+bip_39_word_underscore_10: rifle_volcano_youth_struggle_robot_chef_toy_reason_spatial_half
+bip_39_word_underscore_11: rifle_volcano_youth_struggle_robot_chef_toy_reason_spatial_half_hello
+bip_39_word_underscore_12: rifle_volcano_youth_struggle_robot_chef_toy_reason_spatial_half_hello_avocado
+bip_39_word_underscore_2: rifle_volcano
+bip_39_word_underscore_3: rifle_volcano_youth
+bip_39_word_underscore_4: rifle_volcano_youth_struggle
+bip_39_word_underscore_5: rifle_volcano_youth_struggle_robot
+bip_39_word_underscore_6: rifle_volcano_youth_struggle_robot_chef
+bip_39_word_underscore_7: rifle_volcano_youth_struggle_robot_chef_toy
+bip_39_word_underscore_8: rifle_volcano_youth_struggle_robot_chef_toy_reason
+bip_39_word_underscore_9: rifle_volcano_youth_struggle_robot_chef_toy_reason_spatial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | solid |  
+| bip_39_word_dash_10 | solid-decrease-van-noise-remember-zoo-razor-chalk-destroy-long |  
+| bip_39_word_dash_11 | solid-decrease-van-noise-remember-zoo-razor-chalk-destroy-long-jar |  
+| bip_39_word_dash_12 | solid-decrease-van-noise-remember-zoo-razor-chalk-destroy-long-jar-ask |  
+| bip_39_word_dash_2 | solid-decrease |  
+| bip_39_word_dash_3 | solid-decrease-van |  
+| bip_39_word_dash_4 | solid-decrease-van-noise |  
+| bip_39_word_dash_5 | solid-decrease-van-noise-remember |  
+| bip_39_word_dash_6 | solid-decrease-van-noise-remember-zoo |  
+| bip_39_word_dash_7 | solid-decrease-van-noise-remember-zoo-razor |  
+| bip_39_word_dash_8 | solid-decrease-van-noise-remember-zoo-razor-chalk |  
+| bip_39_word_dash_9 | solid-decrease-van-noise-remember-zoo-razor-chalk-destroy |  
 | bip_39_word_new_br_1 | solid |  
 | bip_39_word_new_br_10 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long |  
 | bip_39_word_new_br_11 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long<br>jar |  
@@ -147,6 +159,18 @@ destroy |
 | bip_39_word_space_7 | solid decrease van noise remember zoo razor |  
 | bip_39_word_space_8 | solid decrease van noise remember zoo razor chalk |  
 | bip_39_word_space_9 | solid decrease van noise remember zoo razor chalk destroy |  
+| bip_39_word_underscore_1 | solid |  
+| bip_39_word_underscore_10 | solid_decrease_van_noise_remember_zoo_razor_chalk_destroy_long |  
+| bip_39_word_underscore_11 | solid_decrease_van_noise_remember_zoo_razor_chalk_destroy_long_jar |  
+| bip_39_word_underscore_12 | solid_decrease_van_noise_remember_zoo_razor_chalk_destroy_long_jar_ask |  
+| bip_39_word_underscore_2 | solid_decrease |  
+| bip_39_word_underscore_3 | solid_decrease_van |  
+| bip_39_word_underscore_4 | solid_decrease_van_noise |  
+| bip_39_word_underscore_5 | solid_decrease_van_noise_remember |  
+| bip_39_word_underscore_6 | solid_decrease_van_noise_remember_zoo |  
+| bip_39_word_underscore_7 | solid_decrease_van_noise_remember_zoo_razor |  
+| bip_39_word_underscore_8 | solid_decrease_van_noise_remember_zoo_razor_chalk |  
+| bip_39_word_underscore_9 | solid_decrease_van_noise_remember_zoo_razor_chalk_destroy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

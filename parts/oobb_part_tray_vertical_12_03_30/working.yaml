@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cake
+bip_39_word_dash_10: cake-indicate-upgrade-another-then-siren-car-start-glide-spawn
+bip_39_word_dash_11: cake-indicate-upgrade-another-then-siren-car-start-glide-spawn-sample
+bip_39_word_dash_12: cake-indicate-upgrade-another-then-siren-car-start-glide-spawn-sample-ancient
+bip_39_word_dash_2: cake-indicate
+bip_39_word_dash_3: cake-indicate-upgrade
+bip_39_word_dash_4: cake-indicate-upgrade-another
+bip_39_word_dash_5: cake-indicate-upgrade-another-then
+bip_39_word_dash_6: cake-indicate-upgrade-another-then-siren
+bip_39_word_dash_7: cake-indicate-upgrade-another-then-siren-car
+bip_39_word_dash_8: cake-indicate-upgrade-another-then-siren-car-start
+bip_39_word_dash_9: cake-indicate-upgrade-another-then-siren-car-start-glide
 bip_39_word_new_br_1: cake
 bip_39_word_new_br_10: cake<br>indicate<br>upgrade<br>another<br>then<br>siren<br>car<br>start<br>glide<br>spawn
 bip_39_word_new_br_11: cake<br>indicate<br>upgrade<br>another<br>then<br>siren<br>car<br>start<br>glide<br>spawn<br>sample
@@ -193,6 +205,18 @@ bip_39_word_space_6: cake indicate upgrade another then siren
 bip_39_word_space_7: cake indicate upgrade another then siren car
 bip_39_word_space_8: cake indicate upgrade another then siren car start
 bip_39_word_space_9: cake indicate upgrade another then siren car start glide
+bip_39_word_underscore_1: cake
+bip_39_word_underscore_10: cake_indicate_upgrade_another_then_siren_car_start_glide_spawn
+bip_39_word_underscore_11: cake_indicate_upgrade_another_then_siren_car_start_glide_spawn_sample
+bip_39_word_underscore_12: cake_indicate_upgrade_another_then_siren_car_start_glide_spawn_sample_ancient
+bip_39_word_underscore_2: cake_indicate
+bip_39_word_underscore_3: cake_indicate_upgrade
+bip_39_word_underscore_4: cake_indicate_upgrade_another
+bip_39_word_underscore_5: cake_indicate_upgrade_another_then
+bip_39_word_underscore_6: cake_indicate_upgrade_another_then_siren
+bip_39_word_underscore_7: cake_indicate_upgrade_another_then_siren_car
+bip_39_word_underscore_8: cake_indicate_upgrade_another_then_siren_car_start
+bip_39_word_underscore_9: cake_indicate_upgrade_another_then_siren_car_start_glide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

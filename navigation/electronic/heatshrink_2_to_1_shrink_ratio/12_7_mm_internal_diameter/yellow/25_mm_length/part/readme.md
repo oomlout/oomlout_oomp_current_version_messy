@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | giggle |  
+| bip_39_word_dash_10 | giggle-champion-exchange-bread-arrow-around-wheat-churn-birth-permit |  
+| bip_39_word_dash_11 | giggle-champion-exchange-bread-arrow-around-wheat-churn-birth-permit-spread |  
+| bip_39_word_dash_12 | giggle-champion-exchange-bread-arrow-around-wheat-churn-birth-permit-spread-anchor |  
+| bip_39_word_dash_2 | giggle-champion |  
+| bip_39_word_dash_3 | giggle-champion-exchange |  
+| bip_39_word_dash_4 | giggle-champion-exchange-bread |  
+| bip_39_word_dash_5 | giggle-champion-exchange-bread-arrow |  
+| bip_39_word_dash_6 | giggle-champion-exchange-bread-arrow-around |  
+| bip_39_word_dash_7 | giggle-champion-exchange-bread-arrow-around-wheat |  
+| bip_39_word_dash_8 | giggle-champion-exchange-bread-arrow-around-wheat-churn |  
+| bip_39_word_dash_9 | giggle-champion-exchange-bread-arrow-around-wheat-churn-birth |  
 | bip_39_word_new_br_1 | giggle |  
 | bip_39_word_new_br_10 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn<br>birth<br>permit |  
 | bip_39_word_new_br_11 | giggle<br>champion<br>exchange<br>bread<br>arrow<br>around<br>wheat<br>churn<br>birth<br>permit<br>spread |  
@@ -147,6 +159,18 @@ birth |
 | bip_39_word_space_7 | giggle champion exchange bread arrow around wheat |  
 | bip_39_word_space_8 | giggle champion exchange bread arrow around wheat churn |  
 | bip_39_word_space_9 | giggle champion exchange bread arrow around wheat churn birth |  
+| bip_39_word_underscore_1 | giggle |  
+| bip_39_word_underscore_10 | giggle_champion_exchange_bread_arrow_around_wheat_churn_birth_permit |  
+| bip_39_word_underscore_11 | giggle_champion_exchange_bread_arrow_around_wheat_churn_birth_permit_spread |  
+| bip_39_word_underscore_12 | giggle_champion_exchange_bread_arrow_around_wheat_churn_birth_permit_spread_anchor |  
+| bip_39_word_underscore_2 | giggle_champion |  
+| bip_39_word_underscore_3 | giggle_champion_exchange |  
+| bip_39_word_underscore_4 | giggle_champion_exchange_bread |  
+| bip_39_word_underscore_5 | giggle_champion_exchange_bread_arrow |  
+| bip_39_word_underscore_6 | giggle_champion_exchange_bread_arrow_around |  
+| bip_39_word_underscore_7 | giggle_champion_exchange_bread_arrow_around_wheat |  
+| bip_39_word_underscore_8 | giggle_champion_exchange_bread_arrow_around_wheat_churn |  
+| bip_39_word_underscore_9 | giggle_champion_exchange_bread_arrow_around_wheat_churn_birth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

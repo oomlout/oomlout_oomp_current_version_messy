@@ -1,3 +1,15 @@
+bip_39_word_dash_1: anchor
+bip_39_word_dash_10: anchor-pepper-matrix-regular-divorce-weird-island-entry-romance-average
+bip_39_word_dash_11: anchor-pepper-matrix-regular-divorce-weird-island-entry-romance-average-flip
+bip_39_word_dash_12: anchor-pepper-matrix-regular-divorce-weird-island-entry-romance-average-flip-access
+bip_39_word_dash_2: anchor-pepper
+bip_39_word_dash_3: anchor-pepper-matrix
+bip_39_word_dash_4: anchor-pepper-matrix-regular
+bip_39_word_dash_5: anchor-pepper-matrix-regular-divorce
+bip_39_word_dash_6: anchor-pepper-matrix-regular-divorce-weird
+bip_39_word_dash_7: anchor-pepper-matrix-regular-divorce-weird-island
+bip_39_word_dash_8: anchor-pepper-matrix-regular-divorce-weird-island-entry
+bip_39_word_dash_9: anchor-pepper-matrix-regular-divorce-weird-island-entry-romance
 bip_39_word_new_br_1: anchor
 bip_39_word_new_br_10: anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry<br>romance<br>average
 bip_39_word_new_br_11: anchor<br>pepper<br>matrix<br>regular<br>divorce<br>weird<br>island<br>entry<br>romance<br>average<br>flip
@@ -194,6 +206,18 @@ bip_39_word_space_6: anchor pepper matrix regular divorce weird
 bip_39_word_space_7: anchor pepper matrix regular divorce weird island
 bip_39_word_space_8: anchor pepper matrix regular divorce weird island entry
 bip_39_word_space_9: anchor pepper matrix regular divorce weird island entry romance
+bip_39_word_underscore_1: anchor
+bip_39_word_underscore_10: anchor_pepper_matrix_regular_divorce_weird_island_entry_romance_average
+bip_39_word_underscore_11: anchor_pepper_matrix_regular_divorce_weird_island_entry_romance_average_flip
+bip_39_word_underscore_12: anchor_pepper_matrix_regular_divorce_weird_island_entry_romance_average_flip_access
+bip_39_word_underscore_2: anchor_pepper
+bip_39_word_underscore_3: anchor_pepper_matrix
+bip_39_word_underscore_4: anchor_pepper_matrix_regular
+bip_39_word_underscore_5: anchor_pepper_matrix_regular_divorce
+bip_39_word_underscore_6: anchor_pepper_matrix_regular_divorce_weird
+bip_39_word_underscore_7: anchor_pepper_matrix_regular_divorce_weird_island
+bip_39_word_underscore_8: anchor_pepper_matrix_regular_divorce_weird_island_entry
+bip_39_word_underscore_9: anchor_pepper_matrix_regular_divorce_weird_island_entry_romance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

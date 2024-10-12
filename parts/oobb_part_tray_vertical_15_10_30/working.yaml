@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crash
+bip_39_word_dash_10: crash-grunt-cake-rabbit-alcohol-whisper-host-example-physical-gadget
+bip_39_word_dash_11: crash-grunt-cake-rabbit-alcohol-whisper-host-example-physical-gadget-fire
+bip_39_word_dash_12: crash-grunt-cake-rabbit-alcohol-whisper-host-example-physical-gadget-fire-area
+bip_39_word_dash_2: crash-grunt
+bip_39_word_dash_3: crash-grunt-cake
+bip_39_word_dash_4: crash-grunt-cake-rabbit
+bip_39_word_dash_5: crash-grunt-cake-rabbit-alcohol
+bip_39_word_dash_6: crash-grunt-cake-rabbit-alcohol-whisper
+bip_39_word_dash_7: crash-grunt-cake-rabbit-alcohol-whisper-host
+bip_39_word_dash_8: crash-grunt-cake-rabbit-alcohol-whisper-host-example
+bip_39_word_dash_9: crash-grunt-cake-rabbit-alcohol-whisper-host-example-physical
 bip_39_word_new_br_1: crash
 bip_39_word_new_br_10: crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget
 bip_39_word_new_br_11: crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget<br>fire
@@ -194,6 +206,18 @@ bip_39_word_space_6: crash grunt cake rabbit alcohol whisper
 bip_39_word_space_7: crash grunt cake rabbit alcohol whisper host
 bip_39_word_space_8: crash grunt cake rabbit alcohol whisper host example
 bip_39_word_space_9: crash grunt cake rabbit alcohol whisper host example physical
+bip_39_word_underscore_1: crash
+bip_39_word_underscore_10: crash_grunt_cake_rabbit_alcohol_whisper_host_example_physical_gadget
+bip_39_word_underscore_11: crash_grunt_cake_rabbit_alcohol_whisper_host_example_physical_gadget_fire
+bip_39_word_underscore_12: crash_grunt_cake_rabbit_alcohol_whisper_host_example_physical_gadget_fire_area
+bip_39_word_underscore_2: crash_grunt
+bip_39_word_underscore_3: crash_grunt_cake
+bip_39_word_underscore_4: crash_grunt_cake_rabbit
+bip_39_word_underscore_5: crash_grunt_cake_rabbit_alcohol
+bip_39_word_underscore_6: crash_grunt_cake_rabbit_alcohol_whisper
+bip_39_word_underscore_7: crash_grunt_cake_rabbit_alcohol_whisper_host
+bip_39_word_underscore_8: crash_grunt_cake_rabbit_alcohol_whisper_host_example
+bip_39_word_underscore_9: crash_grunt_cake_rabbit_alcohol_whisper_host_example_physical
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | awkward |  
+| bip_39_word_dash_10 | awkward-naive-behave-wall-fiscal-vital-clown-april-tooth-poverty |  
+| bip_39_word_dash_11 | awkward-naive-behave-wall-fiscal-vital-clown-april-tooth-poverty-scene |  
+| bip_39_word_dash_12 | awkward-naive-behave-wall-fiscal-vital-clown-april-tooth-poverty-scene-absurd |  
+| bip_39_word_dash_2 | awkward-naive |  
+| bip_39_word_dash_3 | awkward-naive-behave |  
+| bip_39_word_dash_4 | awkward-naive-behave-wall |  
+| bip_39_word_dash_5 | awkward-naive-behave-wall-fiscal |  
+| bip_39_word_dash_6 | awkward-naive-behave-wall-fiscal-vital |  
+| bip_39_word_dash_7 | awkward-naive-behave-wall-fiscal-vital-clown |  
+| bip_39_word_dash_8 | awkward-naive-behave-wall-fiscal-vital-clown-april |  
+| bip_39_word_dash_9 | awkward-naive-behave-wall-fiscal-vital-clown-april-tooth |  
 | bip_39_word_new_br_1 | awkward |  
 | bip_39_word_new_br_10 | awkward<br>naive<br>behave<br>wall<br>fiscal<br>vital<br>clown<br>april<br>tooth<br>poverty |  
 | bip_39_word_new_br_11 | awkward<br>naive<br>behave<br>wall<br>fiscal<br>vital<br>clown<br>april<br>tooth<br>poverty<br>scene |  
@@ -147,6 +159,18 @@ tooth |
 | bip_39_word_space_7 | awkward naive behave wall fiscal vital clown |  
 | bip_39_word_space_8 | awkward naive behave wall fiscal vital clown april |  
 | bip_39_word_space_9 | awkward naive behave wall fiscal vital clown april tooth |  
+| bip_39_word_underscore_1 | awkward |  
+| bip_39_word_underscore_10 | awkward_naive_behave_wall_fiscal_vital_clown_april_tooth_poverty |  
+| bip_39_word_underscore_11 | awkward_naive_behave_wall_fiscal_vital_clown_april_tooth_poverty_scene |  
+| bip_39_word_underscore_12 | awkward_naive_behave_wall_fiscal_vital_clown_april_tooth_poverty_scene_absurd |  
+| bip_39_word_underscore_2 | awkward_naive |  
+| bip_39_word_underscore_3 | awkward_naive_behave |  
+| bip_39_word_underscore_4 | awkward_naive_behave_wall |  
+| bip_39_word_underscore_5 | awkward_naive_behave_wall_fiscal |  
+| bip_39_word_underscore_6 | awkward_naive_behave_wall_fiscal_vital |  
+| bip_39_word_underscore_7 | awkward_naive_behave_wall_fiscal_vital_clown |  
+| bip_39_word_underscore_8 | awkward_naive_behave_wall_fiscal_vital_clown_april |  
+| bip_39_word_underscore_9 | awkward_naive_behave_wall_fiscal_vital_clown_april_tooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

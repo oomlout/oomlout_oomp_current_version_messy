@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | volume |  
+| bip_39_word_dash_10 | volume-dismiss-slim-river-manual-affair-flash-provide-phrase-gesture |  
+| bip_39_word_dash_11 | volume-dismiss-slim-river-manual-affair-flash-provide-phrase-gesture-plate |  
+| bip_39_word_dash_12 | volume-dismiss-slim-river-manual-affair-flash-provide-phrase-gesture-plate-appear |  
+| bip_39_word_dash_2 | volume-dismiss |  
+| bip_39_word_dash_3 | volume-dismiss-slim |  
+| bip_39_word_dash_4 | volume-dismiss-slim-river |  
+| bip_39_word_dash_5 | volume-dismiss-slim-river-manual |  
+| bip_39_word_dash_6 | volume-dismiss-slim-river-manual-affair |  
+| bip_39_word_dash_7 | volume-dismiss-slim-river-manual-affair-flash |  
+| bip_39_word_dash_8 | volume-dismiss-slim-river-manual-affair-flash-provide |  
+| bip_39_word_dash_9 | volume-dismiss-slim-river-manual-affair-flash-provide-phrase |  
 | bip_39_word_new_br_1 | volume |  
 | bip_39_word_new_br_10 | volume<br>dismiss<br>slim<br>river<br>manual<br>affair<br>flash<br>provide<br>phrase<br>gesture |  
 | bip_39_word_new_br_11 | volume<br>dismiss<br>slim<br>river<br>manual<br>affair<br>flash<br>provide<br>phrase<br>gesture<br>plate |  
@@ -147,6 +159,18 @@ phrase |
 | bip_39_word_space_7 | volume dismiss slim river manual affair flash |  
 | bip_39_word_space_8 | volume dismiss slim river manual affair flash provide |  
 | bip_39_word_space_9 | volume dismiss slim river manual affair flash provide phrase |  
+| bip_39_word_underscore_1 | volume |  
+| bip_39_word_underscore_10 | volume_dismiss_slim_river_manual_affair_flash_provide_phrase_gesture |  
+| bip_39_word_underscore_11 | volume_dismiss_slim_river_manual_affair_flash_provide_phrase_gesture_plate |  
+| bip_39_word_underscore_12 | volume_dismiss_slim_river_manual_affair_flash_provide_phrase_gesture_plate_appear |  
+| bip_39_word_underscore_2 | volume_dismiss |  
+| bip_39_word_underscore_3 | volume_dismiss_slim |  
+| bip_39_word_underscore_4 | volume_dismiss_slim_river |  
+| bip_39_word_underscore_5 | volume_dismiss_slim_river_manual |  
+| bip_39_word_underscore_6 | volume_dismiss_slim_river_manual_affair |  
+| bip_39_word_underscore_7 | volume_dismiss_slim_river_manual_affair_flash |  
+| bip_39_word_underscore_8 | volume_dismiss_slim_river_manual_affair_flash_provide |  
+| bip_39_word_underscore_9 | volume_dismiss_slim_river_manual_affair_flash_provide_phrase |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

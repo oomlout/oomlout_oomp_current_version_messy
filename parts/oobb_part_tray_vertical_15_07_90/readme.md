@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unhappy |  
+| bip_39_word_dash_10 | unhappy-insane-mango-best-remind-retire-april-brave-kangaroo-famous |  
+| bip_39_word_dash_11 | unhappy-insane-mango-best-remind-retire-april-brave-kangaroo-famous-general |  
+| bip_39_word_dash_12 | unhappy-insane-mango-best-remind-retire-april-brave-kangaroo-famous-general-aisle |  
+| bip_39_word_dash_2 | unhappy-insane |  
+| bip_39_word_dash_3 | unhappy-insane-mango |  
+| bip_39_word_dash_4 | unhappy-insane-mango-best |  
+| bip_39_word_dash_5 | unhappy-insane-mango-best-remind |  
+| bip_39_word_dash_6 | unhappy-insane-mango-best-remind-retire |  
+| bip_39_word_dash_7 | unhappy-insane-mango-best-remind-retire-april |  
+| bip_39_word_dash_8 | unhappy-insane-mango-best-remind-retire-april-brave |  
+| bip_39_word_dash_9 | unhappy-insane-mango-best-remind-retire-april-brave-kangaroo |  
 | bip_39_word_new_br_1 | unhappy |  
 | bip_39_word_new_br_10 | unhappy<br>insane<br>mango<br>best<br>remind<br>retire<br>april<br>brave<br>kangaroo<br>famous |  
 | bip_39_word_new_br_11 | unhappy<br>insane<br>mango<br>best<br>remind<br>retire<br>april<br>brave<br>kangaroo<br>famous<br>general |  
@@ -147,6 +159,18 @@ kangaroo |
 | bip_39_word_space_7 | unhappy insane mango best remind retire april |  
 | bip_39_word_space_8 | unhappy insane mango best remind retire april brave |  
 | bip_39_word_space_9 | unhappy insane mango best remind retire april brave kangaroo |  
+| bip_39_word_underscore_1 | unhappy |  
+| bip_39_word_underscore_10 | unhappy_insane_mango_best_remind_retire_april_brave_kangaroo_famous |  
+| bip_39_word_underscore_11 | unhappy_insane_mango_best_remind_retire_april_brave_kangaroo_famous_general |  
+| bip_39_word_underscore_12 | unhappy_insane_mango_best_remind_retire_april_brave_kangaroo_famous_general_aisle |  
+| bip_39_word_underscore_2 | unhappy_insane |  
+| bip_39_word_underscore_3 | unhappy_insane_mango |  
+| bip_39_word_underscore_4 | unhappy_insane_mango_best |  
+| bip_39_word_underscore_5 | unhappy_insane_mango_best_remind |  
+| bip_39_word_underscore_6 | unhappy_insane_mango_best_remind_retire |  
+| bip_39_word_underscore_7 | unhappy_insane_mango_best_remind_retire_april |  
+| bip_39_word_underscore_8 | unhappy_insane_mango_best_remind_retire_april_brave |  
+| bip_39_word_underscore_9 | unhappy_insane_mango_best_remind_retire_april_brave_kangaroo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

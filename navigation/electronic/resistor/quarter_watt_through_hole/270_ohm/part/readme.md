@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | garment |  
+| bip_39_word_dash_10 | garment-laptop-trouble-feature-cage-remain-guess-cargo-ski-beef |  
+| bip_39_word_dash_11 | garment-laptop-trouble-feature-cage-remain-guess-cargo-ski-beef-like |  
+| bip_39_word_dash_12 | garment-laptop-trouble-feature-cage-remain-guess-cargo-ski-beef-like-access |  
+| bip_39_word_dash_2 | garment-laptop |  
+| bip_39_word_dash_3 | garment-laptop-trouble |  
+| bip_39_word_dash_4 | garment-laptop-trouble-feature |  
+| bip_39_word_dash_5 | garment-laptop-trouble-feature-cage |  
+| bip_39_word_dash_6 | garment-laptop-trouble-feature-cage-remain |  
+| bip_39_word_dash_7 | garment-laptop-trouble-feature-cage-remain-guess |  
+| bip_39_word_dash_8 | garment-laptop-trouble-feature-cage-remain-guess-cargo |  
+| bip_39_word_dash_9 | garment-laptop-trouble-feature-cage-remain-guess-cargo-ski |  
 | bip_39_word_new_br_1 | garment |  
 | bip_39_word_new_br_10 | garment<br>laptop<br>trouble<br>feature<br>cage<br>remain<br>guess<br>cargo<br>ski<br>beef |  
 | bip_39_word_new_br_11 | garment<br>laptop<br>trouble<br>feature<br>cage<br>remain<br>guess<br>cargo<br>ski<br>beef<br>like |  
@@ -147,6 +159,18 @@ ski |
 | bip_39_word_space_7 | garment laptop trouble feature cage remain guess |  
 | bip_39_word_space_8 | garment laptop trouble feature cage remain guess cargo |  
 | bip_39_word_space_9 | garment laptop trouble feature cage remain guess cargo ski |  
+| bip_39_word_underscore_1 | garment |  
+| bip_39_word_underscore_10 | garment_laptop_trouble_feature_cage_remain_guess_cargo_ski_beef |  
+| bip_39_word_underscore_11 | garment_laptop_trouble_feature_cage_remain_guess_cargo_ski_beef_like |  
+| bip_39_word_underscore_12 | garment_laptop_trouble_feature_cage_remain_guess_cargo_ski_beef_like_access |  
+| bip_39_word_underscore_2 | garment_laptop |  
+| bip_39_word_underscore_3 | garment_laptop_trouble |  
+| bip_39_word_underscore_4 | garment_laptop_trouble_feature |  
+| bip_39_word_underscore_5 | garment_laptop_trouble_feature_cage |  
+| bip_39_word_underscore_6 | garment_laptop_trouble_feature_cage_remain |  
+| bip_39_word_underscore_7 | garment_laptop_trouble_feature_cage_remain_guess |  
+| bip_39_word_underscore_8 | garment_laptop_trouble_feature_cage_remain_guess_cargo |  
+| bip_39_word_underscore_9 | garment_laptop_trouble_feature_cage_remain_guess_cargo_ski |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

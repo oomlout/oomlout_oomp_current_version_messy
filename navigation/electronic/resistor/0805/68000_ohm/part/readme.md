@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tone |  
+| bip_39_word_dash_10 | tone-valley-pepper-hockey-invite-pelican-curve-ticket-diesel-penalty |  
+| bip_39_word_dash_11 | tone-valley-pepper-hockey-invite-pelican-curve-ticket-diesel-penalty-crawl |  
+| bip_39_word_dash_12 | tone-valley-pepper-hockey-invite-pelican-curve-ticket-diesel-penalty-crawl-alter |  
+| bip_39_word_dash_2 | tone-valley |  
+| bip_39_word_dash_3 | tone-valley-pepper |  
+| bip_39_word_dash_4 | tone-valley-pepper-hockey |  
+| bip_39_word_dash_5 | tone-valley-pepper-hockey-invite |  
+| bip_39_word_dash_6 | tone-valley-pepper-hockey-invite-pelican |  
+| bip_39_word_dash_7 | tone-valley-pepper-hockey-invite-pelican-curve |  
+| bip_39_word_dash_8 | tone-valley-pepper-hockey-invite-pelican-curve-ticket |  
+| bip_39_word_dash_9 | tone-valley-pepper-hockey-invite-pelican-curve-ticket-diesel |  
 | bip_39_word_new_br_1 | tone |  
 | bip_39_word_new_br_10 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty |  
 | bip_39_word_new_br_11 | tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty<br>crawl |  
@@ -147,6 +159,18 @@ diesel |
 | bip_39_word_space_7 | tone valley pepper hockey invite pelican curve |  
 | bip_39_word_space_8 | tone valley pepper hockey invite pelican curve ticket |  
 | bip_39_word_space_9 | tone valley pepper hockey invite pelican curve ticket diesel |  
+| bip_39_word_underscore_1 | tone |  
+| bip_39_word_underscore_10 | tone_valley_pepper_hockey_invite_pelican_curve_ticket_diesel_penalty |  
+| bip_39_word_underscore_11 | tone_valley_pepper_hockey_invite_pelican_curve_ticket_diesel_penalty_crawl |  
+| bip_39_word_underscore_12 | tone_valley_pepper_hockey_invite_pelican_curve_ticket_diesel_penalty_crawl_alter |  
+| bip_39_word_underscore_2 | tone_valley |  
+| bip_39_word_underscore_3 | tone_valley_pepper |  
+| bip_39_word_underscore_4 | tone_valley_pepper_hockey |  
+| bip_39_word_underscore_5 | tone_valley_pepper_hockey_invite |  
+| bip_39_word_underscore_6 | tone_valley_pepper_hockey_invite_pelican |  
+| bip_39_word_underscore_7 | tone_valley_pepper_hockey_invite_pelican_curve |  
+| bip_39_word_underscore_8 | tone_valley_pepper_hockey_invite_pelican_curve_ticket |  
+| bip_39_word_underscore_9 | tone_valley_pepper_hockey_invite_pelican_curve_ticket_diesel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

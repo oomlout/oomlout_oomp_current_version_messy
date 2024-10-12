@@ -1,3 +1,15 @@
+bip_39_word_dash_1: accuse
+bip_39_word_dash_10: accuse-border-noble-please-issue-tissue-oil-protect-found-account
+bip_39_word_dash_11: accuse-border-noble-please-issue-tissue-oil-protect-found-account-idea
+bip_39_word_dash_12: accuse-border-noble-please-issue-tissue-oil-protect-found-account-idea-alert
+bip_39_word_dash_2: accuse-border
+bip_39_word_dash_3: accuse-border-noble
+bip_39_word_dash_4: accuse-border-noble-please
+bip_39_word_dash_5: accuse-border-noble-please-issue
+bip_39_word_dash_6: accuse-border-noble-please-issue-tissue
+bip_39_word_dash_7: accuse-border-noble-please-issue-tissue-oil
+bip_39_word_dash_8: accuse-border-noble-please-issue-tissue-oil-protect
+bip_39_word_dash_9: accuse-border-noble-please-issue-tissue-oil-protect-found
 bip_39_word_new_br_1: accuse
 bip_39_word_new_br_10: accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect<br>found<br>account
 bip_39_word_new_br_11: accuse<br>border<br>noble<br>please<br>issue<br>tissue<br>oil<br>protect<br>found<br>account<br>idea
@@ -193,6 +205,18 @@ bip_39_word_space_6: accuse border noble please issue tissue
 bip_39_word_space_7: accuse border noble please issue tissue oil
 bip_39_word_space_8: accuse border noble please issue tissue oil protect
 bip_39_word_space_9: accuse border noble please issue tissue oil protect found
+bip_39_word_underscore_1: accuse
+bip_39_word_underscore_10: accuse_border_noble_please_issue_tissue_oil_protect_found_account
+bip_39_word_underscore_11: accuse_border_noble_please_issue_tissue_oil_protect_found_account_idea
+bip_39_word_underscore_12: accuse_border_noble_please_issue_tissue_oil_protect_found_account_idea_alert
+bip_39_word_underscore_2: accuse_border
+bip_39_word_underscore_3: accuse_border_noble
+bip_39_word_underscore_4: accuse_border_noble_please
+bip_39_word_underscore_5: accuse_border_noble_please_issue
+bip_39_word_underscore_6: accuse_border_noble_please_issue_tissue
+bip_39_word_underscore_7: accuse_border_noble_please_issue_tissue_oil
+bip_39_word_underscore_8: accuse_border_noble_please_issue_tissue_oil_protect
+bip_39_word_underscore_9: accuse_border_noble_please_issue_tissue_oil_protect_found
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

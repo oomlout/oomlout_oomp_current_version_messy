@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | across |  
+| bip_39_word_dash_10 | across-mosquito-absorb-moon-pelican-night-little-escape-onion-void |  
+| bip_39_word_dash_11 | across-mosquito-absorb-moon-pelican-night-little-escape-onion-void-deliver |  
+| bip_39_word_dash_12 | across-mosquito-absorb-moon-pelican-night-little-escape-onion-void-deliver-aunt |  
+| bip_39_word_dash_2 | across-mosquito |  
+| bip_39_word_dash_3 | across-mosquito-absorb |  
+| bip_39_word_dash_4 | across-mosquito-absorb-moon |  
+| bip_39_word_dash_5 | across-mosquito-absorb-moon-pelican |  
+| bip_39_word_dash_6 | across-mosquito-absorb-moon-pelican-night |  
+| bip_39_word_dash_7 | across-mosquito-absorb-moon-pelican-night-little |  
+| bip_39_word_dash_8 | across-mosquito-absorb-moon-pelican-night-little-escape |  
+| bip_39_word_dash_9 | across-mosquito-absorb-moon-pelican-night-little-escape-onion |  
 | bip_39_word_new_br_1 | across |  
 | bip_39_word_new_br_10 | across<br>mosquito<br>absorb<br>moon<br>pelican<br>night<br>little<br>escape<br>onion<br>void |  
 | bip_39_word_new_br_11 | across<br>mosquito<br>absorb<br>moon<br>pelican<br>night<br>little<br>escape<br>onion<br>void<br>deliver |  
@@ -147,6 +159,18 @@ onion |
 | bip_39_word_space_7 | across mosquito absorb moon pelican night little |  
 | bip_39_word_space_8 | across mosquito absorb moon pelican night little escape |  
 | bip_39_word_space_9 | across mosquito absorb moon pelican night little escape onion |  
+| bip_39_word_underscore_1 | across |  
+| bip_39_word_underscore_10 | across_mosquito_absorb_moon_pelican_night_little_escape_onion_void |  
+| bip_39_word_underscore_11 | across_mosquito_absorb_moon_pelican_night_little_escape_onion_void_deliver |  
+| bip_39_word_underscore_12 | across_mosquito_absorb_moon_pelican_night_little_escape_onion_void_deliver_aunt |  
+| bip_39_word_underscore_2 | across_mosquito |  
+| bip_39_word_underscore_3 | across_mosquito_absorb |  
+| bip_39_word_underscore_4 | across_mosquito_absorb_moon |  
+| bip_39_word_underscore_5 | across_mosquito_absorb_moon_pelican |  
+| bip_39_word_underscore_6 | across_mosquito_absorb_moon_pelican_night |  
+| bip_39_word_underscore_7 | across_mosquito_absorb_moon_pelican_night_little |  
+| bip_39_word_underscore_8 | across_mosquito_absorb_moon_pelican_night_little_escape |  
+| bip_39_word_underscore_9 | across_mosquito_absorb_moon_pelican_night_little_escape_onion |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

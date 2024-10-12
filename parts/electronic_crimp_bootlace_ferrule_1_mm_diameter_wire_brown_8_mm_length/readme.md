@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | giggle |  
+| bip_39_word_dash_10 | giggle-wave-donor-peace-ahead-century-strategy-solve-umbrella-expand |  
+| bip_39_word_dash_11 | giggle-wave-donor-peace-ahead-century-strategy-solve-umbrella-expand-security |  
+| bip_39_word_dash_12 | giggle-wave-donor-peace-ahead-century-strategy-solve-umbrella-expand-security-advance |  
+| bip_39_word_dash_2 | giggle-wave |  
+| bip_39_word_dash_3 | giggle-wave-donor |  
+| bip_39_word_dash_4 | giggle-wave-donor-peace |  
+| bip_39_word_dash_5 | giggle-wave-donor-peace-ahead |  
+| bip_39_word_dash_6 | giggle-wave-donor-peace-ahead-century |  
+| bip_39_word_dash_7 | giggle-wave-donor-peace-ahead-century-strategy |  
+| bip_39_word_dash_8 | giggle-wave-donor-peace-ahead-century-strategy-solve |  
+| bip_39_word_dash_9 | giggle-wave-donor-peace-ahead-century-strategy-solve-umbrella |  
 | bip_39_word_new_br_1 | giggle |  
 | bip_39_word_new_br_10 | giggle<br>wave<br>donor<br>peace<br>ahead<br>century<br>strategy<br>solve<br>umbrella<br>expand |  
 | bip_39_word_new_br_11 | giggle<br>wave<br>donor<br>peace<br>ahead<br>century<br>strategy<br>solve<br>umbrella<br>expand<br>security |  
@@ -147,6 +159,18 @@ umbrella |
 | bip_39_word_space_7 | giggle wave donor peace ahead century strategy |  
 | bip_39_word_space_8 | giggle wave donor peace ahead century strategy solve |  
 | bip_39_word_space_9 | giggle wave donor peace ahead century strategy solve umbrella |  
+| bip_39_word_underscore_1 | giggle |  
+| bip_39_word_underscore_10 | giggle_wave_donor_peace_ahead_century_strategy_solve_umbrella_expand |  
+| bip_39_word_underscore_11 | giggle_wave_donor_peace_ahead_century_strategy_solve_umbrella_expand_security |  
+| bip_39_word_underscore_12 | giggle_wave_donor_peace_ahead_century_strategy_solve_umbrella_expand_security_advance |  
+| bip_39_word_underscore_2 | giggle_wave |  
+| bip_39_word_underscore_3 | giggle_wave_donor |  
+| bip_39_word_underscore_4 | giggle_wave_donor_peace |  
+| bip_39_word_underscore_5 | giggle_wave_donor_peace_ahead |  
+| bip_39_word_underscore_6 | giggle_wave_donor_peace_ahead_century |  
+| bip_39_word_underscore_7 | giggle_wave_donor_peace_ahead_century_strategy |  
+| bip_39_word_underscore_8 | giggle_wave_donor_peace_ahead_century_strategy_solve |  
+| bip_39_word_underscore_9 | giggle_wave_donor_peace_ahead_century_strategy_solve_umbrella |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mouse
+bip_39_word_dash_10: mouse-pipe-blur-genuine-minute-long-acquire-benefit-lamp-weekend
+bip_39_word_dash_11: mouse-pipe-blur-genuine-minute-long-acquire-benefit-lamp-weekend-reject
+bip_39_word_dash_12: mouse-pipe-blur-genuine-minute-long-acquire-benefit-lamp-weekend-reject-afraid
+bip_39_word_dash_2: mouse-pipe
+bip_39_word_dash_3: mouse-pipe-blur
+bip_39_word_dash_4: mouse-pipe-blur-genuine
+bip_39_word_dash_5: mouse-pipe-blur-genuine-minute
+bip_39_word_dash_6: mouse-pipe-blur-genuine-minute-long
+bip_39_word_dash_7: mouse-pipe-blur-genuine-minute-long-acquire
+bip_39_word_dash_8: mouse-pipe-blur-genuine-minute-long-acquire-benefit
+bip_39_word_dash_9: mouse-pipe-blur-genuine-minute-long-acquire-benefit-lamp
 bip_39_word_new_br_1: mouse
 bip_39_word_new_br_10: mouse<br>pipe<br>blur<br>genuine<br>minute<br>long<br>acquire<br>benefit<br>lamp<br>weekend
 bip_39_word_new_br_11: mouse<br>pipe<br>blur<br>genuine<br>minute<br>long<br>acquire<br>benefit<br>lamp<br>weekend<br>reject
@@ -193,6 +205,18 @@ bip_39_word_space_6: mouse pipe blur genuine minute long
 bip_39_word_space_7: mouse pipe blur genuine minute long acquire
 bip_39_word_space_8: mouse pipe blur genuine minute long acquire benefit
 bip_39_word_space_9: mouse pipe blur genuine minute long acquire benefit lamp
+bip_39_word_underscore_1: mouse
+bip_39_word_underscore_10: mouse_pipe_blur_genuine_minute_long_acquire_benefit_lamp_weekend
+bip_39_word_underscore_11: mouse_pipe_blur_genuine_minute_long_acquire_benefit_lamp_weekend_reject
+bip_39_word_underscore_12: mouse_pipe_blur_genuine_minute_long_acquire_benefit_lamp_weekend_reject_afraid
+bip_39_word_underscore_2: mouse_pipe
+bip_39_word_underscore_3: mouse_pipe_blur
+bip_39_word_underscore_4: mouse_pipe_blur_genuine
+bip_39_word_underscore_5: mouse_pipe_blur_genuine_minute
+bip_39_word_underscore_6: mouse_pipe_blur_genuine_minute_long
+bip_39_word_underscore_7: mouse_pipe_blur_genuine_minute_long_acquire
+bip_39_word_underscore_8: mouse_pipe_blur_genuine_minute_long_acquire_benefit
+bip_39_word_underscore_9: mouse_pipe_blur_genuine_minute_long_acquire_benefit_lamp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

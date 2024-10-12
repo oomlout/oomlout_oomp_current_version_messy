@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toast |  
+| bip_39_word_dash_10 | toast-evolve-hybrid-impact-exact-kangaroo-that-fabric-saddle-oblige |  
+| bip_39_word_dash_11 | toast-evolve-hybrid-impact-exact-kangaroo-that-fabric-saddle-oblige-nerve |  
+| bip_39_word_dash_12 | toast-evolve-hybrid-impact-exact-kangaroo-that-fabric-saddle-oblige-nerve-actress |  
+| bip_39_word_dash_2 | toast-evolve |  
+| bip_39_word_dash_3 | toast-evolve-hybrid |  
+| bip_39_word_dash_4 | toast-evolve-hybrid-impact |  
+| bip_39_word_dash_5 | toast-evolve-hybrid-impact-exact |  
+| bip_39_word_dash_6 | toast-evolve-hybrid-impact-exact-kangaroo |  
+| bip_39_word_dash_7 | toast-evolve-hybrid-impact-exact-kangaroo-that |  
+| bip_39_word_dash_8 | toast-evolve-hybrid-impact-exact-kangaroo-that-fabric |  
+| bip_39_word_dash_9 | toast-evolve-hybrid-impact-exact-kangaroo-that-fabric-saddle |  
 | bip_39_word_new_br_1 | toast |  
 | bip_39_word_new_br_10 | toast<br>evolve<br>hybrid<br>impact<br>exact<br>kangaroo<br>that<br>fabric<br>saddle<br>oblige |  
 | bip_39_word_new_br_11 | toast<br>evolve<br>hybrid<br>impact<br>exact<br>kangaroo<br>that<br>fabric<br>saddle<br>oblige<br>nerve |  
@@ -147,6 +159,18 @@ saddle |
 | bip_39_word_space_7 | toast evolve hybrid impact exact kangaroo that |  
 | bip_39_word_space_8 | toast evolve hybrid impact exact kangaroo that fabric |  
 | bip_39_word_space_9 | toast evolve hybrid impact exact kangaroo that fabric saddle |  
+| bip_39_word_underscore_1 | toast |  
+| bip_39_word_underscore_10 | toast_evolve_hybrid_impact_exact_kangaroo_that_fabric_saddle_oblige |  
+| bip_39_word_underscore_11 | toast_evolve_hybrid_impact_exact_kangaroo_that_fabric_saddle_oblige_nerve |  
+| bip_39_word_underscore_12 | toast_evolve_hybrid_impact_exact_kangaroo_that_fabric_saddle_oblige_nerve_actress |  
+| bip_39_word_underscore_2 | toast_evolve |  
+| bip_39_word_underscore_3 | toast_evolve_hybrid |  
+| bip_39_word_underscore_4 | toast_evolve_hybrid_impact |  
+| bip_39_word_underscore_5 | toast_evolve_hybrid_impact_exact |  
+| bip_39_word_underscore_6 | toast_evolve_hybrid_impact_exact_kangaroo |  
+| bip_39_word_underscore_7 | toast_evolve_hybrid_impact_exact_kangaroo_that |  
+| bip_39_word_underscore_8 | toast_evolve_hybrid_impact_exact_kangaroo_that_fabric |  
+| bip_39_word_underscore_9 | toast_evolve_hybrid_impact_exact_kangaroo_that_fabric_saddle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

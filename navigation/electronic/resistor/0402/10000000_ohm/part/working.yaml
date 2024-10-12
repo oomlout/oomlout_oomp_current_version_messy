@@ -1,3 +1,15 @@
+bip_39_word_dash_1: radio
+bip_39_word_dash_10: radio-bike-immense-fantasy-can-tourist-client-gun-girl-economy
+bip_39_word_dash_11: radio-bike-immense-fantasy-can-tourist-client-gun-girl-economy-earth
+bip_39_word_dash_12: radio-bike-immense-fantasy-can-tourist-client-gun-girl-economy-earth-among
+bip_39_word_dash_2: radio-bike
+bip_39_word_dash_3: radio-bike-immense
+bip_39_word_dash_4: radio-bike-immense-fantasy
+bip_39_word_dash_5: radio-bike-immense-fantasy-can
+bip_39_word_dash_6: radio-bike-immense-fantasy-can-tourist
+bip_39_word_dash_7: radio-bike-immense-fantasy-can-tourist-client
+bip_39_word_dash_8: radio-bike-immense-fantasy-can-tourist-client-gun
+bip_39_word_dash_9: radio-bike-immense-fantasy-can-tourist-client-gun-girl
 bip_39_word_new_br_1: radio
 bip_39_word_new_br_10: radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy
 bip_39_word_new_br_11: radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy<br>earth
@@ -193,6 +205,18 @@ bip_39_word_space_6: radio bike immense fantasy can tourist
 bip_39_word_space_7: radio bike immense fantasy can tourist client
 bip_39_word_space_8: radio bike immense fantasy can tourist client gun
 bip_39_word_space_9: radio bike immense fantasy can tourist client gun girl
+bip_39_word_underscore_1: radio
+bip_39_word_underscore_10: radio_bike_immense_fantasy_can_tourist_client_gun_girl_economy
+bip_39_word_underscore_11: radio_bike_immense_fantasy_can_tourist_client_gun_girl_economy_earth
+bip_39_word_underscore_12: radio_bike_immense_fantasy_can_tourist_client_gun_girl_economy_earth_among
+bip_39_word_underscore_2: radio_bike
+bip_39_word_underscore_3: radio_bike_immense
+bip_39_word_underscore_4: radio_bike_immense_fantasy
+bip_39_word_underscore_5: radio_bike_immense_fantasy_can
+bip_39_word_underscore_6: radio_bike_immense_fantasy_can_tourist
+bip_39_word_underscore_7: radio_bike_immense_fantasy_can_tourist_client
+bip_39_word_underscore_8: radio_bike_immense_fantasy_can_tourist_client_gun
+bip_39_word_underscore_9: radio_bike_immense_fantasy_can_tourist_client_gun_girl
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

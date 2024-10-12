@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | energy |  
+| bip_39_word_dash_10 | energy-noise-poem-pelican-claw-unusual-usual-traffic-hen-silent |  
+| bip_39_word_dash_11 | energy-noise-poem-pelican-claw-unusual-usual-traffic-hen-silent-dream |  
+| bip_39_word_dash_12 | energy-noise-poem-pelican-claw-unusual-usual-traffic-hen-silent-dream-assume |  
+| bip_39_word_dash_2 | energy-noise |  
+| bip_39_word_dash_3 | energy-noise-poem |  
+| bip_39_word_dash_4 | energy-noise-poem-pelican |  
+| bip_39_word_dash_5 | energy-noise-poem-pelican-claw |  
+| bip_39_word_dash_6 | energy-noise-poem-pelican-claw-unusual |  
+| bip_39_word_dash_7 | energy-noise-poem-pelican-claw-unusual-usual |  
+| bip_39_word_dash_8 | energy-noise-poem-pelican-claw-unusual-usual-traffic |  
+| bip_39_word_dash_9 | energy-noise-poem-pelican-claw-unusual-usual-traffic-hen |  
 | bip_39_word_new_br_1 | energy |  
 | bip_39_word_new_br_10 | energy<br>noise<br>poem<br>pelican<br>claw<br>unusual<br>usual<br>traffic<br>hen<br>silent |  
 | bip_39_word_new_br_11 | energy<br>noise<br>poem<br>pelican<br>claw<br>unusual<br>usual<br>traffic<br>hen<br>silent<br>dream |  
@@ -147,6 +159,18 @@ hen |
 | bip_39_word_space_7 | energy noise poem pelican claw unusual usual |  
 | bip_39_word_space_8 | energy noise poem pelican claw unusual usual traffic |  
 | bip_39_word_space_9 | energy noise poem pelican claw unusual usual traffic hen |  
+| bip_39_word_underscore_1 | energy |  
+| bip_39_word_underscore_10 | energy_noise_poem_pelican_claw_unusual_usual_traffic_hen_silent |  
+| bip_39_word_underscore_11 | energy_noise_poem_pelican_claw_unusual_usual_traffic_hen_silent_dream |  
+| bip_39_word_underscore_12 | energy_noise_poem_pelican_claw_unusual_usual_traffic_hen_silent_dream_assume |  
+| bip_39_word_underscore_2 | energy_noise |  
+| bip_39_word_underscore_3 | energy_noise_poem |  
+| bip_39_word_underscore_4 | energy_noise_poem_pelican |  
+| bip_39_word_underscore_5 | energy_noise_poem_pelican_claw |  
+| bip_39_word_underscore_6 | energy_noise_poem_pelican_claw_unusual |  
+| bip_39_word_underscore_7 | energy_noise_poem_pelican_claw_unusual_usual |  
+| bip_39_word_underscore_8 | energy_noise_poem_pelican_claw_unusual_usual_traffic |  
+| bip_39_word_underscore_9 | energy_noise_poem_pelican_claw_unusual_usual_traffic_hen |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

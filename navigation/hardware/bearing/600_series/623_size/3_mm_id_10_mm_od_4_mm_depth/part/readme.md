@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boring |  
+| bip_39_word_dash_10 | boring-despair-road-nasty-broccoli-own-split-fall-inch-voice |  
+| bip_39_word_dash_11 | boring-despair-road-nasty-broccoli-own-split-fall-inch-voice-master |  
+| bip_39_word_dash_12 | boring-despair-road-nasty-broccoli-own-split-fall-inch-voice-master-anger |  
+| bip_39_word_dash_2 | boring-despair |  
+| bip_39_word_dash_3 | boring-despair-road |  
+| bip_39_word_dash_4 | boring-despair-road-nasty |  
+| bip_39_word_dash_5 | boring-despair-road-nasty-broccoli |  
+| bip_39_word_dash_6 | boring-despair-road-nasty-broccoli-own |  
+| bip_39_word_dash_7 | boring-despair-road-nasty-broccoli-own-split |  
+| bip_39_word_dash_8 | boring-despair-road-nasty-broccoli-own-split-fall |  
+| bip_39_word_dash_9 | boring-despair-road-nasty-broccoli-own-split-fall-inch |  
 | bip_39_word_new_br_1 | boring |  
 | bip_39_word_new_br_10 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall<br>inch<br>voice |  
 | bip_39_word_new_br_11 | boring<br>despair<br>road<br>nasty<br>broccoli<br>own<br>split<br>fall<br>inch<br>voice<br>master |  
@@ -147,6 +159,18 @@ inch |
 | bip_39_word_space_7 | boring despair road nasty broccoli own split |  
 | bip_39_word_space_8 | boring despair road nasty broccoli own split fall |  
 | bip_39_word_space_9 | boring despair road nasty broccoli own split fall inch |  
+| bip_39_word_underscore_1 | boring |  
+| bip_39_word_underscore_10 | boring_despair_road_nasty_broccoli_own_split_fall_inch_voice |  
+| bip_39_word_underscore_11 | boring_despair_road_nasty_broccoli_own_split_fall_inch_voice_master |  
+| bip_39_word_underscore_12 | boring_despair_road_nasty_broccoli_own_split_fall_inch_voice_master_anger |  
+| bip_39_word_underscore_2 | boring_despair |  
+| bip_39_word_underscore_3 | boring_despair_road |  
+| bip_39_word_underscore_4 | boring_despair_road_nasty |  
+| bip_39_word_underscore_5 | boring_despair_road_nasty_broccoli |  
+| bip_39_word_underscore_6 | boring_despair_road_nasty_broccoli_own |  
+| bip_39_word_underscore_7 | boring_despair_road_nasty_broccoli_own_split |  
+| bip_39_word_underscore_8 | boring_despair_road_nasty_broccoli_own_split_fall |  
+| bip_39_word_underscore_9 | boring_despair_road_nasty_broccoli_own_split_fall_inch |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

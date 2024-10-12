@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | penalty |  
+| bip_39_word_dash_10 | penalty-fluid-cinnamon-worth-float-elite-wolf-runway-sea-truck |  
+| bip_39_word_dash_11 | penalty-fluid-cinnamon-worth-float-elite-wolf-runway-sea-truck-glove |  
+| bip_39_word_dash_12 | penalty-fluid-cinnamon-worth-float-elite-wolf-runway-sea-truck-glove-account |  
+| bip_39_word_dash_2 | penalty-fluid |  
+| bip_39_word_dash_3 | penalty-fluid-cinnamon |  
+| bip_39_word_dash_4 | penalty-fluid-cinnamon-worth |  
+| bip_39_word_dash_5 | penalty-fluid-cinnamon-worth-float |  
+| bip_39_word_dash_6 | penalty-fluid-cinnamon-worth-float-elite |  
+| bip_39_word_dash_7 | penalty-fluid-cinnamon-worth-float-elite-wolf |  
+| bip_39_word_dash_8 | penalty-fluid-cinnamon-worth-float-elite-wolf-runway |  
+| bip_39_word_dash_9 | penalty-fluid-cinnamon-worth-float-elite-wolf-runway-sea |  
 | bip_39_word_new_br_1 | penalty |  
 | bip_39_word_new_br_10 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck |  
 | bip_39_word_new_br_11 | penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck<br>glove |  
@@ -147,6 +159,18 @@ sea |
 | bip_39_word_space_7 | penalty fluid cinnamon worth float elite wolf |  
 | bip_39_word_space_8 | penalty fluid cinnamon worth float elite wolf runway |  
 | bip_39_word_space_9 | penalty fluid cinnamon worth float elite wolf runway sea |  
+| bip_39_word_underscore_1 | penalty |  
+| bip_39_word_underscore_10 | penalty_fluid_cinnamon_worth_float_elite_wolf_runway_sea_truck |  
+| bip_39_word_underscore_11 | penalty_fluid_cinnamon_worth_float_elite_wolf_runway_sea_truck_glove |  
+| bip_39_word_underscore_12 | penalty_fluid_cinnamon_worth_float_elite_wolf_runway_sea_truck_glove_account |  
+| bip_39_word_underscore_2 | penalty_fluid |  
+| bip_39_word_underscore_3 | penalty_fluid_cinnamon |  
+| bip_39_word_underscore_4 | penalty_fluid_cinnamon_worth |  
+| bip_39_word_underscore_5 | penalty_fluid_cinnamon_worth_float |  
+| bip_39_word_underscore_6 | penalty_fluid_cinnamon_worth_float_elite |  
+| bip_39_word_underscore_7 | penalty_fluid_cinnamon_worth_float_elite_wolf |  
+| bip_39_word_underscore_8 | penalty_fluid_cinnamon_worth_float_elite_wolf_runway |  
+| bip_39_word_underscore_9 | penalty_fluid_cinnamon_worth_float_elite_wolf_runway_sea |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

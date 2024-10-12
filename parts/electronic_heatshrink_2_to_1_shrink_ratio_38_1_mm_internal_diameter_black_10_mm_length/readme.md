@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | helmet |  
+| bip_39_word_dash_10 | helmet-turtle-cupboard-icon-siege-genuine-relief-evoke-shaft-small |  
+| bip_39_word_dash_11 | helmet-turtle-cupboard-icon-siege-genuine-relief-evoke-shaft-small-review |  
+| bip_39_word_dash_12 | helmet-turtle-cupboard-icon-siege-genuine-relief-evoke-shaft-small-review-allow |  
+| bip_39_word_dash_2 | helmet-turtle |  
+| bip_39_word_dash_3 | helmet-turtle-cupboard |  
+| bip_39_word_dash_4 | helmet-turtle-cupboard-icon |  
+| bip_39_word_dash_5 | helmet-turtle-cupboard-icon-siege |  
+| bip_39_word_dash_6 | helmet-turtle-cupboard-icon-siege-genuine |  
+| bip_39_word_dash_7 | helmet-turtle-cupboard-icon-siege-genuine-relief |  
+| bip_39_word_dash_8 | helmet-turtle-cupboard-icon-siege-genuine-relief-evoke |  
+| bip_39_word_dash_9 | helmet-turtle-cupboard-icon-siege-genuine-relief-evoke-shaft |  
 | bip_39_word_new_br_1 | helmet |  
 | bip_39_word_new_br_10 | helmet<br>turtle<br>cupboard<br>icon<br>siege<br>genuine<br>relief<br>evoke<br>shaft<br>small |  
 | bip_39_word_new_br_11 | helmet<br>turtle<br>cupboard<br>icon<br>siege<br>genuine<br>relief<br>evoke<br>shaft<br>small<br>review |  
@@ -147,6 +159,18 @@ shaft |
 | bip_39_word_space_7 | helmet turtle cupboard icon siege genuine relief |  
 | bip_39_word_space_8 | helmet turtle cupboard icon siege genuine relief evoke |  
 | bip_39_word_space_9 | helmet turtle cupboard icon siege genuine relief evoke shaft |  
+| bip_39_word_underscore_1 | helmet |  
+| bip_39_word_underscore_10 | helmet_turtle_cupboard_icon_siege_genuine_relief_evoke_shaft_small |  
+| bip_39_word_underscore_11 | helmet_turtle_cupboard_icon_siege_genuine_relief_evoke_shaft_small_review |  
+| bip_39_word_underscore_12 | helmet_turtle_cupboard_icon_siege_genuine_relief_evoke_shaft_small_review_allow |  
+| bip_39_word_underscore_2 | helmet_turtle |  
+| bip_39_word_underscore_3 | helmet_turtle_cupboard |  
+| bip_39_word_underscore_4 | helmet_turtle_cupboard_icon |  
+| bip_39_word_underscore_5 | helmet_turtle_cupboard_icon_siege |  
+| bip_39_word_underscore_6 | helmet_turtle_cupboard_icon_siege_genuine |  
+| bip_39_word_underscore_7 | helmet_turtle_cupboard_icon_siege_genuine_relief |  
+| bip_39_word_underscore_8 | helmet_turtle_cupboard_icon_siege_genuine_relief_evoke |  
+| bip_39_word_underscore_9 | helmet_turtle_cupboard_icon_siege_genuine_relief_evoke_shaft |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

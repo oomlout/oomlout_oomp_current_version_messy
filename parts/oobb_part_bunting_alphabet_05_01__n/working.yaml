@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wrestle
+bip_39_word_dash_10: wrestle-design-awesome-gadget-duck-monkey-resemble-ignore-pig-room
+bip_39_word_dash_11: wrestle-design-awesome-gadget-duck-monkey-resemble-ignore-pig-room-olympic
+bip_39_word_dash_12: wrestle-design-awesome-gadget-duck-monkey-resemble-ignore-pig-room-olympic-ahead
+bip_39_word_dash_2: wrestle-design
+bip_39_word_dash_3: wrestle-design-awesome
+bip_39_word_dash_4: wrestle-design-awesome-gadget
+bip_39_word_dash_5: wrestle-design-awesome-gadget-duck
+bip_39_word_dash_6: wrestle-design-awesome-gadget-duck-monkey
+bip_39_word_dash_7: wrestle-design-awesome-gadget-duck-monkey-resemble
+bip_39_word_dash_8: wrestle-design-awesome-gadget-duck-monkey-resemble-ignore
+bip_39_word_dash_9: wrestle-design-awesome-gadget-duck-monkey-resemble-ignore-pig
 bip_39_word_new_br_1: wrestle
 bip_39_word_new_br_10: wrestle<br>design<br>awesome<br>gadget<br>duck<br>monkey<br>resemble<br>ignore<br>pig<br>room
 bip_39_word_new_br_11: wrestle<br>design<br>awesome<br>gadget<br>duck<br>monkey<br>resemble<br>ignore<br>pig<br>room<br>olympic
@@ -194,6 +206,18 @@ bip_39_word_space_6: wrestle design awesome gadget duck monkey
 bip_39_word_space_7: wrestle design awesome gadget duck monkey resemble
 bip_39_word_space_8: wrestle design awesome gadget duck monkey resemble ignore
 bip_39_word_space_9: wrestle design awesome gadget duck monkey resemble ignore pig
+bip_39_word_underscore_1: wrestle
+bip_39_word_underscore_10: wrestle_design_awesome_gadget_duck_monkey_resemble_ignore_pig_room
+bip_39_word_underscore_11: wrestle_design_awesome_gadget_duck_monkey_resemble_ignore_pig_room_olympic
+bip_39_word_underscore_12: wrestle_design_awesome_gadget_duck_monkey_resemble_ignore_pig_room_olympic_ahead
+bip_39_word_underscore_2: wrestle_design
+bip_39_word_underscore_3: wrestle_design_awesome
+bip_39_word_underscore_4: wrestle_design_awesome_gadget
+bip_39_word_underscore_5: wrestle_design_awesome_gadget_duck
+bip_39_word_underscore_6: wrestle_design_awesome_gadget_duck_monkey
+bip_39_word_underscore_7: wrestle_design_awesome_gadget_duck_monkey_resemble
+bip_39_word_underscore_8: wrestle_design_awesome_gadget_duck_monkey_resemble_ignore
+bip_39_word_underscore_9: wrestle_design_awesome_gadget_duck_monkey_resemble_ignore_pig
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

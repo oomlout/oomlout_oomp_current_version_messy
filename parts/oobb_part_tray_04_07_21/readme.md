@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | giraffe |  
+| bip_39_word_dash_10 | giraffe-office-champion-artist-zero-table-enough-laptop-visual-rule |  
+| bip_39_word_dash_11 | giraffe-office-champion-artist-zero-table-enough-laptop-visual-rule-silly |  
+| bip_39_word_dash_12 | giraffe-office-champion-artist-zero-table-enough-laptop-visual-rule-silly-adapt |  
+| bip_39_word_dash_2 | giraffe-office |  
+| bip_39_word_dash_3 | giraffe-office-champion |  
+| bip_39_word_dash_4 | giraffe-office-champion-artist |  
+| bip_39_word_dash_5 | giraffe-office-champion-artist-zero |  
+| bip_39_word_dash_6 | giraffe-office-champion-artist-zero-table |  
+| bip_39_word_dash_7 | giraffe-office-champion-artist-zero-table-enough |  
+| bip_39_word_dash_8 | giraffe-office-champion-artist-zero-table-enough-laptop |  
+| bip_39_word_dash_9 | giraffe-office-champion-artist-zero-table-enough-laptop-visual |  
 | bip_39_word_new_br_1 | giraffe |  
 | bip_39_word_new_br_10 | giraffe<br>office<br>champion<br>artist<br>zero<br>table<br>enough<br>laptop<br>visual<br>rule |  
 | bip_39_word_new_br_11 | giraffe<br>office<br>champion<br>artist<br>zero<br>table<br>enough<br>laptop<br>visual<br>rule<br>silly |  
@@ -147,6 +159,18 @@ visual |
 | bip_39_word_space_7 | giraffe office champion artist zero table enough |  
 | bip_39_word_space_8 | giraffe office champion artist zero table enough laptop |  
 | bip_39_word_space_9 | giraffe office champion artist zero table enough laptop visual |  
+| bip_39_word_underscore_1 | giraffe |  
+| bip_39_word_underscore_10 | giraffe_office_champion_artist_zero_table_enough_laptop_visual_rule |  
+| bip_39_word_underscore_11 | giraffe_office_champion_artist_zero_table_enough_laptop_visual_rule_silly |  
+| bip_39_word_underscore_12 | giraffe_office_champion_artist_zero_table_enough_laptop_visual_rule_silly_adapt |  
+| bip_39_word_underscore_2 | giraffe_office |  
+| bip_39_word_underscore_3 | giraffe_office_champion |  
+| bip_39_word_underscore_4 | giraffe_office_champion_artist |  
+| bip_39_word_underscore_5 | giraffe_office_champion_artist_zero |  
+| bip_39_word_underscore_6 | giraffe_office_champion_artist_zero_table |  
+| bip_39_word_underscore_7 | giraffe_office_champion_artist_zero_table_enough |  
+| bip_39_word_underscore_8 | giraffe_office_champion_artist_zero_table_enough_laptop |  
+| bip_39_word_underscore_9 | giraffe_office_champion_artist_zero_table_enough_laptop_visual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

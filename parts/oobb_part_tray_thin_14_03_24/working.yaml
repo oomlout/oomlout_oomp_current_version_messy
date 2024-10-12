@@ -1,3 +1,15 @@
+bip_39_word_dash_1: prosper
+bip_39_word_dash_10: prosper-soul-window-wise-captain-tomato-street-record-unlock-penalty
+bip_39_word_dash_11: prosper-soul-window-wise-captain-tomato-street-record-unlock-penalty-impulse
+bip_39_word_dash_12: prosper-soul-window-wise-captain-tomato-street-record-unlock-penalty-impulse-april
+bip_39_word_dash_2: prosper-soul
+bip_39_word_dash_3: prosper-soul-window
+bip_39_word_dash_4: prosper-soul-window-wise
+bip_39_word_dash_5: prosper-soul-window-wise-captain
+bip_39_word_dash_6: prosper-soul-window-wise-captain-tomato
+bip_39_word_dash_7: prosper-soul-window-wise-captain-tomato-street
+bip_39_word_dash_8: prosper-soul-window-wise-captain-tomato-street-record
+bip_39_word_dash_9: prosper-soul-window-wise-captain-tomato-street-record-unlock
 bip_39_word_new_br_1: prosper
 bip_39_word_new_br_10: prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record<br>unlock<br>penalty
 bip_39_word_new_br_11: prosper<br>soul<br>window<br>wise<br>captain<br>tomato<br>street<br>record<br>unlock<br>penalty<br>impulse
@@ -194,6 +206,18 @@ bip_39_word_space_6: prosper soul window wise captain tomato
 bip_39_word_space_7: prosper soul window wise captain tomato street
 bip_39_word_space_8: prosper soul window wise captain tomato street record
 bip_39_word_space_9: prosper soul window wise captain tomato street record unlock
+bip_39_word_underscore_1: prosper
+bip_39_word_underscore_10: prosper_soul_window_wise_captain_tomato_street_record_unlock_penalty
+bip_39_word_underscore_11: prosper_soul_window_wise_captain_tomato_street_record_unlock_penalty_impulse
+bip_39_word_underscore_12: prosper_soul_window_wise_captain_tomato_street_record_unlock_penalty_impulse_april
+bip_39_word_underscore_2: prosper_soul
+bip_39_word_underscore_3: prosper_soul_window
+bip_39_word_underscore_4: prosper_soul_window_wise
+bip_39_word_underscore_5: prosper_soul_window_wise_captain
+bip_39_word_underscore_6: prosper_soul_window_wise_captain_tomato
+bip_39_word_underscore_7: prosper_soul_window_wise_captain_tomato_street
+bip_39_word_underscore_8: prosper_soul_window_wise_captain_tomato_street_record
+bip_39_word_underscore_9: prosper_soul_window_wise_captain_tomato_street_record_unlock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

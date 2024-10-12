@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | call |  
+| bip_39_word_dash_10 | call-engine-elite-marriage-tell-oyster-radar-water-uphold-novel |  
+| bip_39_word_dash_11 | call-engine-elite-marriage-tell-oyster-radar-water-uphold-novel-begin |  
+| bip_39_word_dash_12 | call-engine-elite-marriage-tell-oyster-radar-water-uphold-novel-begin-average |  
+| bip_39_word_dash_2 | call-engine |  
+| bip_39_word_dash_3 | call-engine-elite |  
+| bip_39_word_dash_4 | call-engine-elite-marriage |  
+| bip_39_word_dash_5 | call-engine-elite-marriage-tell |  
+| bip_39_word_dash_6 | call-engine-elite-marriage-tell-oyster |  
+| bip_39_word_dash_7 | call-engine-elite-marriage-tell-oyster-radar |  
+| bip_39_word_dash_8 | call-engine-elite-marriage-tell-oyster-radar-water |  
+| bip_39_word_dash_9 | call-engine-elite-marriage-tell-oyster-radar-water-uphold |  
 | bip_39_word_new_br_1 | call |  
 | bip_39_word_new_br_10 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel |  
 | bip_39_word_new_br_11 | call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel<br>begin |  
@@ -147,6 +159,18 @@ uphold |
 | bip_39_word_space_7 | call engine elite marriage tell oyster radar |  
 | bip_39_word_space_8 | call engine elite marriage tell oyster radar water |  
 | bip_39_word_space_9 | call engine elite marriage tell oyster radar water uphold |  
+| bip_39_word_underscore_1 | call |  
+| bip_39_word_underscore_10 | call_engine_elite_marriage_tell_oyster_radar_water_uphold_novel |  
+| bip_39_word_underscore_11 | call_engine_elite_marriage_tell_oyster_radar_water_uphold_novel_begin |  
+| bip_39_word_underscore_12 | call_engine_elite_marriage_tell_oyster_radar_water_uphold_novel_begin_average |  
+| bip_39_word_underscore_2 | call_engine |  
+| bip_39_word_underscore_3 | call_engine_elite |  
+| bip_39_word_underscore_4 | call_engine_elite_marriage |  
+| bip_39_word_underscore_5 | call_engine_elite_marriage_tell |  
+| bip_39_word_underscore_6 | call_engine_elite_marriage_tell_oyster |  
+| bip_39_word_underscore_7 | call_engine_elite_marriage_tell_oyster_radar |  
+| bip_39_word_underscore_8 | call_engine_elite_marriage_tell_oyster_radar_water |  
+| bip_39_word_underscore_9 | call_engine_elite_marriage_tell_oyster_radar_water_uphold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ribbon |  
+| bip_39_word_dash_10 | ribbon-nerve-choice-tornado-evidence-nation-disorder-initial-place-nerve |  
+| bip_39_word_dash_11 | ribbon-nerve-choice-tornado-evidence-nation-disorder-initial-place-nerve-loan |  
+| bip_39_word_dash_12 | ribbon-nerve-choice-tornado-evidence-nation-disorder-initial-place-nerve-loan-assist |  
+| bip_39_word_dash_2 | ribbon-nerve |  
+| bip_39_word_dash_3 | ribbon-nerve-choice |  
+| bip_39_word_dash_4 | ribbon-nerve-choice-tornado |  
+| bip_39_word_dash_5 | ribbon-nerve-choice-tornado-evidence |  
+| bip_39_word_dash_6 | ribbon-nerve-choice-tornado-evidence-nation |  
+| bip_39_word_dash_7 | ribbon-nerve-choice-tornado-evidence-nation-disorder |  
+| bip_39_word_dash_8 | ribbon-nerve-choice-tornado-evidence-nation-disorder-initial |  
+| bip_39_word_dash_9 | ribbon-nerve-choice-tornado-evidence-nation-disorder-initial-place |  
 | bip_39_word_new_br_1 | ribbon |  
 | bip_39_word_new_br_10 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial<br>place<br>nerve |  
 | bip_39_word_new_br_11 | ribbon<br>nerve<br>choice<br>tornado<br>evidence<br>nation<br>disorder<br>initial<br>place<br>nerve<br>loan |  
@@ -147,6 +159,18 @@ place |
 | bip_39_word_space_7 | ribbon nerve choice tornado evidence nation disorder |  
 | bip_39_word_space_8 | ribbon nerve choice tornado evidence nation disorder initial |  
 | bip_39_word_space_9 | ribbon nerve choice tornado evidence nation disorder initial place |  
+| bip_39_word_underscore_1 | ribbon |  
+| bip_39_word_underscore_10 | ribbon_nerve_choice_tornado_evidence_nation_disorder_initial_place_nerve |  
+| bip_39_word_underscore_11 | ribbon_nerve_choice_tornado_evidence_nation_disorder_initial_place_nerve_loan |  
+| bip_39_word_underscore_12 | ribbon_nerve_choice_tornado_evidence_nation_disorder_initial_place_nerve_loan_assist |  
+| bip_39_word_underscore_2 | ribbon_nerve |  
+| bip_39_word_underscore_3 | ribbon_nerve_choice |  
+| bip_39_word_underscore_4 | ribbon_nerve_choice_tornado |  
+| bip_39_word_underscore_5 | ribbon_nerve_choice_tornado_evidence |  
+| bip_39_word_underscore_6 | ribbon_nerve_choice_tornado_evidence_nation |  
+| bip_39_word_underscore_7 | ribbon_nerve_choice_tornado_evidence_nation_disorder |  
+| bip_39_word_underscore_8 | ribbon_nerve_choice_tornado_evidence_nation_disorder_initial |  
+| bip_39_word_underscore_9 | ribbon_nerve_choice_tornado_evidence_nation_disorder_initial_place |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

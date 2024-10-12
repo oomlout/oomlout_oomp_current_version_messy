@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | check |  
+| bip_39_word_dash_10 | check-knock-october-upon-roof-road-uncle-gold-sample-fiscal |  
+| bip_39_word_dash_11 | check-knock-october-upon-roof-road-uncle-gold-sample-fiscal-honey |  
+| bip_39_word_dash_12 | check-knock-october-upon-roof-road-uncle-gold-sample-fiscal-honey-ability |  
+| bip_39_word_dash_2 | check-knock |  
+| bip_39_word_dash_3 | check-knock-october |  
+| bip_39_word_dash_4 | check-knock-october-upon |  
+| bip_39_word_dash_5 | check-knock-october-upon-roof |  
+| bip_39_word_dash_6 | check-knock-october-upon-roof-road |  
+| bip_39_word_dash_7 | check-knock-october-upon-roof-road-uncle |  
+| bip_39_word_dash_8 | check-knock-october-upon-roof-road-uncle-gold |  
+| bip_39_word_dash_9 | check-knock-october-upon-roof-road-uncle-gold-sample |  
 | bip_39_word_new_br_1 | check |  
 | bip_39_word_new_br_10 | check<br>knock<br>october<br>upon<br>roof<br>road<br>uncle<br>gold<br>sample<br>fiscal |  
 | bip_39_word_new_br_11 | check<br>knock<br>october<br>upon<br>roof<br>road<br>uncle<br>gold<br>sample<br>fiscal<br>honey |  
@@ -147,6 +159,18 @@ sample |
 | bip_39_word_space_7 | check knock october upon roof road uncle |  
 | bip_39_word_space_8 | check knock october upon roof road uncle gold |  
 | bip_39_word_space_9 | check knock october upon roof road uncle gold sample |  
+| bip_39_word_underscore_1 | check |  
+| bip_39_word_underscore_10 | check_knock_october_upon_roof_road_uncle_gold_sample_fiscal |  
+| bip_39_word_underscore_11 | check_knock_october_upon_roof_road_uncle_gold_sample_fiscal_honey |  
+| bip_39_word_underscore_12 | check_knock_october_upon_roof_road_uncle_gold_sample_fiscal_honey_ability |  
+| bip_39_word_underscore_2 | check_knock |  
+| bip_39_word_underscore_3 | check_knock_october |  
+| bip_39_word_underscore_4 | check_knock_october_upon |  
+| bip_39_word_underscore_5 | check_knock_october_upon_roof |  
+| bip_39_word_underscore_6 | check_knock_october_upon_roof_road |  
+| bip_39_word_underscore_7 | check_knock_october_upon_roof_road_uncle |  
+| bip_39_word_underscore_8 | check_knock_october_upon_roof_road_uncle_gold |  
+| bip_39_word_underscore_9 | check_knock_october_upon_roof_road_uncle_gold_sample |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

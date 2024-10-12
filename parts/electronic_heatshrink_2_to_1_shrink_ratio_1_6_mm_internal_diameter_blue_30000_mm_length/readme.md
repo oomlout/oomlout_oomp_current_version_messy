@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mystery |  
+| bip_39_word_dash_10 | mystery-jump-fit-run-whisper-mansion-alley-install-legend-find |  
+| bip_39_word_dash_11 | mystery-jump-fit-run-whisper-mansion-alley-install-legend-find-annual |  
+| bip_39_word_dash_12 | mystery-jump-fit-run-whisper-mansion-alley-install-legend-find-annual-accuse |  
+| bip_39_word_dash_2 | mystery-jump |  
+| bip_39_word_dash_3 | mystery-jump-fit |  
+| bip_39_word_dash_4 | mystery-jump-fit-run |  
+| bip_39_word_dash_5 | mystery-jump-fit-run-whisper |  
+| bip_39_word_dash_6 | mystery-jump-fit-run-whisper-mansion |  
+| bip_39_word_dash_7 | mystery-jump-fit-run-whisper-mansion-alley |  
+| bip_39_word_dash_8 | mystery-jump-fit-run-whisper-mansion-alley-install |  
+| bip_39_word_dash_9 | mystery-jump-fit-run-whisper-mansion-alley-install-legend |  
 | bip_39_word_new_br_1 | mystery |  
 | bip_39_word_new_br_10 | mystery<br>jump<br>fit<br>run<br>whisper<br>mansion<br>alley<br>install<br>legend<br>find |  
 | bip_39_word_new_br_11 | mystery<br>jump<br>fit<br>run<br>whisper<br>mansion<br>alley<br>install<br>legend<br>find<br>annual |  
@@ -147,6 +159,18 @@ legend |
 | bip_39_word_space_7 | mystery jump fit run whisper mansion alley |  
 | bip_39_word_space_8 | mystery jump fit run whisper mansion alley install |  
 | bip_39_word_space_9 | mystery jump fit run whisper mansion alley install legend |  
+| bip_39_word_underscore_1 | mystery |  
+| bip_39_word_underscore_10 | mystery_jump_fit_run_whisper_mansion_alley_install_legend_find |  
+| bip_39_word_underscore_11 | mystery_jump_fit_run_whisper_mansion_alley_install_legend_find_annual |  
+| bip_39_word_underscore_12 | mystery_jump_fit_run_whisper_mansion_alley_install_legend_find_annual_accuse |  
+| bip_39_word_underscore_2 | mystery_jump |  
+| bip_39_word_underscore_3 | mystery_jump_fit |  
+| bip_39_word_underscore_4 | mystery_jump_fit_run |  
+| bip_39_word_underscore_5 | mystery_jump_fit_run_whisper |  
+| bip_39_word_underscore_6 | mystery_jump_fit_run_whisper_mansion |  
+| bip_39_word_underscore_7 | mystery_jump_fit_run_whisper_mansion_alley |  
+| bip_39_word_underscore_8 | mystery_jump_fit_run_whisper_mansion_alley_install |  
+| bip_39_word_underscore_9 | mystery_jump_fit_run_whisper_mansion_alley_install_legend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

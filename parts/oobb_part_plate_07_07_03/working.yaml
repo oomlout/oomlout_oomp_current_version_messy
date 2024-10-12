@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spike
+bip_39_word_dash_10: spike-cake-version-floor-same-skill-require-patch-order-control
+bip_39_word_dash_11: spike-cake-version-floor-same-skill-require-patch-order-control-cage
+bip_39_word_dash_12: spike-cake-version-floor-same-skill-require-patch-order-control-cage-august
+bip_39_word_dash_2: spike-cake
+bip_39_word_dash_3: spike-cake-version
+bip_39_word_dash_4: spike-cake-version-floor
+bip_39_word_dash_5: spike-cake-version-floor-same
+bip_39_word_dash_6: spike-cake-version-floor-same-skill
+bip_39_word_dash_7: spike-cake-version-floor-same-skill-require
+bip_39_word_dash_8: spike-cake-version-floor-same-skill-require-patch
+bip_39_word_dash_9: spike-cake-version-floor-same-skill-require-patch-order
 bip_39_word_new_br_1: spike
 bip_39_word_new_br_10: spike<br>cake<br>version<br>floor<br>same<br>skill<br>require<br>patch<br>order<br>control
 bip_39_word_new_br_11: spike<br>cake<br>version<br>floor<br>same<br>skill<br>require<br>patch<br>order<br>control<br>cage
@@ -193,6 +205,18 @@ bip_39_word_space_6: spike cake version floor same skill
 bip_39_word_space_7: spike cake version floor same skill require
 bip_39_word_space_8: spike cake version floor same skill require patch
 bip_39_word_space_9: spike cake version floor same skill require patch order
+bip_39_word_underscore_1: spike
+bip_39_word_underscore_10: spike_cake_version_floor_same_skill_require_patch_order_control
+bip_39_word_underscore_11: spike_cake_version_floor_same_skill_require_patch_order_control_cage
+bip_39_word_underscore_12: spike_cake_version_floor_same_skill_require_patch_order_control_cage_august
+bip_39_word_underscore_2: spike_cake
+bip_39_word_underscore_3: spike_cake_version
+bip_39_word_underscore_4: spike_cake_version_floor
+bip_39_word_underscore_5: spike_cake_version_floor_same
+bip_39_word_underscore_6: spike_cake_version_floor_same_skill
+bip_39_word_underscore_7: spike_cake_version_floor_same_skill_require
+bip_39_word_underscore_8: spike_cake_version_floor_same_skill_require_patch
+bip_39_word_underscore_9: spike_cake_version_floor_same_skill_require_patch_order
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

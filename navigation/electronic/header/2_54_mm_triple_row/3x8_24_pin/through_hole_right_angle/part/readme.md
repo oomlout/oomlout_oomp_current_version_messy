@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sudden |  
+| bip_39_word_dash_10 | sudden-ivory-bicycle-aspect-argue-early-congress-dash-prison-offer |  
+| bip_39_word_dash_11 | sudden-ivory-bicycle-aspect-argue-early-congress-dash-prison-offer-sail |  
+| bip_39_word_dash_12 | sudden-ivory-bicycle-aspect-argue-early-congress-dash-prison-offer-sail-attract |  
+| bip_39_word_dash_2 | sudden-ivory |  
+| bip_39_word_dash_3 | sudden-ivory-bicycle |  
+| bip_39_word_dash_4 | sudden-ivory-bicycle-aspect |  
+| bip_39_word_dash_5 | sudden-ivory-bicycle-aspect-argue |  
+| bip_39_word_dash_6 | sudden-ivory-bicycle-aspect-argue-early |  
+| bip_39_word_dash_7 | sudden-ivory-bicycle-aspect-argue-early-congress |  
+| bip_39_word_dash_8 | sudden-ivory-bicycle-aspect-argue-early-congress-dash |  
+| bip_39_word_dash_9 | sudden-ivory-bicycle-aspect-argue-early-congress-dash-prison |  
 | bip_39_word_new_br_1 | sudden |  
 | bip_39_word_new_br_10 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash<br>prison<br>offer |  
 | bip_39_word_new_br_11 | sudden<br>ivory<br>bicycle<br>aspect<br>argue<br>early<br>congress<br>dash<br>prison<br>offer<br>sail |  
@@ -147,6 +159,18 @@ prison |
 | bip_39_word_space_7 | sudden ivory bicycle aspect argue early congress |  
 | bip_39_word_space_8 | sudden ivory bicycle aspect argue early congress dash |  
 | bip_39_word_space_9 | sudden ivory bicycle aspect argue early congress dash prison |  
+| bip_39_word_underscore_1 | sudden |  
+| bip_39_word_underscore_10 | sudden_ivory_bicycle_aspect_argue_early_congress_dash_prison_offer |  
+| bip_39_word_underscore_11 | sudden_ivory_bicycle_aspect_argue_early_congress_dash_prison_offer_sail |  
+| bip_39_word_underscore_12 | sudden_ivory_bicycle_aspect_argue_early_congress_dash_prison_offer_sail_attract |  
+| bip_39_word_underscore_2 | sudden_ivory |  
+| bip_39_word_underscore_3 | sudden_ivory_bicycle |  
+| bip_39_word_underscore_4 | sudden_ivory_bicycle_aspect |  
+| bip_39_word_underscore_5 | sudden_ivory_bicycle_aspect_argue |  
+| bip_39_word_underscore_6 | sudden_ivory_bicycle_aspect_argue_early |  
+| bip_39_word_underscore_7 | sudden_ivory_bicycle_aspect_argue_early_congress |  
+| bip_39_word_underscore_8 | sudden_ivory_bicycle_aspect_argue_early_congress_dash |  
+| bip_39_word_underscore_9 | sudden_ivory_bicycle_aspect_argue_early_congress_dash_prison |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

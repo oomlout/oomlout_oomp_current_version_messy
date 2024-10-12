@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shallow |  
+| bip_39_word_dash_10 | shallow-place-school-orange-fiber-earn-grab-link-vote-price |  
+| bip_39_word_dash_11 | shallow-place-school-orange-fiber-earn-grab-link-vote-price-evolve |  
+| bip_39_word_dash_2 | shallow-place |  
+| bip_39_word_dash_3 | shallow-place-school |  
+| bip_39_word_dash_4 | shallow-place-school-orange |  
+| bip_39_word_dash_5 | shallow-place-school-orange-fiber |  
+| bip_39_word_dash_6 | shallow-place-school-orange-fiber-earn |  
+| bip_39_word_dash_7 | shallow-place-school-orange-fiber-earn-grab |  
+| bip_39_word_dash_8 | shallow-place-school-orange-fiber-earn-grab-link |  
+| bip_39_word_dash_9 | shallow-place-school-orange-fiber-earn-grab-link-vote |  
 | bip_39_word_new_br_1 | shallow |  
 | bip_39_word_new_br_10 | shallow<br>place<br>school<br>orange<br>fiber<br>earn<br>grab<br>link<br>vote<br>price |  
 | bip_39_word_new_br_11 | shallow<br>place<br>school<br>orange<br>fiber<br>earn<br>grab<br>link<br>vote<br>price<br>evolve |  
@@ -132,6 +143,17 @@ vote |
 | bip_39_word_space_7 | shallow place school orange fiber earn grab |  
 | bip_39_word_space_8 | shallow place school orange fiber earn grab link |  
 | bip_39_word_space_9 | shallow place school orange fiber earn grab link vote |  
+| bip_39_word_underscore_1 | shallow |  
+| bip_39_word_underscore_10 | shallow_place_school_orange_fiber_earn_grab_link_vote_price |  
+| bip_39_word_underscore_11 | shallow_place_school_orange_fiber_earn_grab_link_vote_price_evolve |  
+| bip_39_word_underscore_2 | shallow_place |  
+| bip_39_word_underscore_3 | shallow_place_school |  
+| bip_39_word_underscore_4 | shallow_place_school_orange |  
+| bip_39_word_underscore_5 | shallow_place_school_orange_fiber |  
+| bip_39_word_underscore_6 | shallow_place_school_orange_fiber_earn |  
+| bip_39_word_underscore_7 | shallow_place_school_orange_fiber_earn_grab |  
+| bip_39_word_underscore_8 | shallow_place_school_orange_fiber_earn_grab_link |  
+| bip_39_word_underscore_9 | shallow_place_school_orange_fiber_earn_grab_link_vote |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

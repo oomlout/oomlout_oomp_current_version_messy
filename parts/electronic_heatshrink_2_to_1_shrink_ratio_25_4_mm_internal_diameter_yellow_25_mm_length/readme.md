@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rib |  
+| bip_39_word_dash_10 | rib-guilt-mesh-gallery-people-mixed-ritual-tip-usage-allow |  
+| bip_39_word_dash_11 | rib-guilt-mesh-gallery-people-mixed-ritual-tip-usage-allow-disorder |  
+| bip_39_word_dash_12 | rib-guilt-mesh-gallery-people-mixed-ritual-tip-usage-allow-disorder-arrive |  
+| bip_39_word_dash_2 | rib-guilt |  
+| bip_39_word_dash_3 | rib-guilt-mesh |  
+| bip_39_word_dash_4 | rib-guilt-mesh-gallery |  
+| bip_39_word_dash_5 | rib-guilt-mesh-gallery-people |  
+| bip_39_word_dash_6 | rib-guilt-mesh-gallery-people-mixed |  
+| bip_39_word_dash_7 | rib-guilt-mesh-gallery-people-mixed-ritual |  
+| bip_39_word_dash_8 | rib-guilt-mesh-gallery-people-mixed-ritual-tip |  
+| bip_39_word_dash_9 | rib-guilt-mesh-gallery-people-mixed-ritual-tip-usage |  
 | bip_39_word_new_br_1 | rib |  
 | bip_39_word_new_br_10 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip<br>usage<br>allow |  
 | bip_39_word_new_br_11 | rib<br>guilt<br>mesh<br>gallery<br>people<br>mixed<br>ritual<br>tip<br>usage<br>allow<br>disorder |  
@@ -147,6 +159,18 @@ usage |
 | bip_39_word_space_7 | rib guilt mesh gallery people mixed ritual |  
 | bip_39_word_space_8 | rib guilt mesh gallery people mixed ritual tip |  
 | bip_39_word_space_9 | rib guilt mesh gallery people mixed ritual tip usage |  
+| bip_39_word_underscore_1 | rib |  
+| bip_39_word_underscore_10 | rib_guilt_mesh_gallery_people_mixed_ritual_tip_usage_allow |  
+| bip_39_word_underscore_11 | rib_guilt_mesh_gallery_people_mixed_ritual_tip_usage_allow_disorder |  
+| bip_39_word_underscore_12 | rib_guilt_mesh_gallery_people_mixed_ritual_tip_usage_allow_disorder_arrive |  
+| bip_39_word_underscore_2 | rib_guilt |  
+| bip_39_word_underscore_3 | rib_guilt_mesh |  
+| bip_39_word_underscore_4 | rib_guilt_mesh_gallery |  
+| bip_39_word_underscore_5 | rib_guilt_mesh_gallery_people |  
+| bip_39_word_underscore_6 | rib_guilt_mesh_gallery_people_mixed |  
+| bip_39_word_underscore_7 | rib_guilt_mesh_gallery_people_mixed_ritual |  
+| bip_39_word_underscore_8 | rib_guilt_mesh_gallery_people_mixed_ritual_tip |  
+| bip_39_word_underscore_9 | rib_guilt_mesh_gallery_people_mixed_ritual_tip_usage |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

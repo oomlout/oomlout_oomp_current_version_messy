@@ -1,3 +1,15 @@
+bip_39_word_dash_1: strong
+bip_39_word_dash_10: strong-spoon-there-ship-tumble-search-witness-diary-choose-skill
+bip_39_word_dash_11: strong-spoon-there-ship-tumble-search-witness-diary-choose-skill-pioneer
+bip_39_word_dash_12: strong-spoon-there-ship-tumble-search-witness-diary-choose-skill-pioneer-access
+bip_39_word_dash_2: strong-spoon
+bip_39_word_dash_3: strong-spoon-there
+bip_39_word_dash_4: strong-spoon-there-ship
+bip_39_word_dash_5: strong-spoon-there-ship-tumble
+bip_39_word_dash_6: strong-spoon-there-ship-tumble-search
+bip_39_word_dash_7: strong-spoon-there-ship-tumble-search-witness
+bip_39_word_dash_8: strong-spoon-there-ship-tumble-search-witness-diary
+bip_39_word_dash_9: strong-spoon-there-ship-tumble-search-witness-diary-choose
 bip_39_word_new_br_1: strong
 bip_39_word_new_br_10: strong<br>spoon<br>there<br>ship<br>tumble<br>search<br>witness<br>diary<br>choose<br>skill
 bip_39_word_new_br_11: strong<br>spoon<br>there<br>ship<br>tumble<br>search<br>witness<br>diary<br>choose<br>skill<br>pioneer
@@ -193,6 +205,18 @@ bip_39_word_space_6: strong spoon there ship tumble search
 bip_39_word_space_7: strong spoon there ship tumble search witness
 bip_39_word_space_8: strong spoon there ship tumble search witness diary
 bip_39_word_space_9: strong spoon there ship tumble search witness diary choose
+bip_39_word_underscore_1: strong
+bip_39_word_underscore_10: strong_spoon_there_ship_tumble_search_witness_diary_choose_skill
+bip_39_word_underscore_11: strong_spoon_there_ship_tumble_search_witness_diary_choose_skill_pioneer
+bip_39_word_underscore_12: strong_spoon_there_ship_tumble_search_witness_diary_choose_skill_pioneer_access
+bip_39_word_underscore_2: strong_spoon
+bip_39_word_underscore_3: strong_spoon_there
+bip_39_word_underscore_4: strong_spoon_there_ship
+bip_39_word_underscore_5: strong_spoon_there_ship_tumble
+bip_39_word_underscore_6: strong_spoon_there_ship_tumble_search
+bip_39_word_underscore_7: strong_spoon_there_ship_tumble_search_witness
+bip_39_word_underscore_8: strong_spoon_there_ship_tumble_search_witness_diary
+bip_39_word_underscore_9: strong_spoon_there_ship_tumble_search_witness_diary_choose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

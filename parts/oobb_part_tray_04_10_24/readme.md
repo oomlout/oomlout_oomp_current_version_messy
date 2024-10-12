@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reduce |  
+| bip_39_word_dash_10 | reduce-ladder-illness-utility-ticket-ripple-melody-figure-endorse-script |  
+| bip_39_word_dash_11 | reduce-ladder-illness-utility-ticket-ripple-melody-figure-endorse-script-invite |  
+| bip_39_word_dash_12 | reduce-ladder-illness-utility-ticket-ripple-melody-figure-endorse-script-invite-around |  
+| bip_39_word_dash_2 | reduce-ladder |  
+| bip_39_word_dash_3 | reduce-ladder-illness |  
+| bip_39_word_dash_4 | reduce-ladder-illness-utility |  
+| bip_39_word_dash_5 | reduce-ladder-illness-utility-ticket |  
+| bip_39_word_dash_6 | reduce-ladder-illness-utility-ticket-ripple |  
+| bip_39_word_dash_7 | reduce-ladder-illness-utility-ticket-ripple-melody |  
+| bip_39_word_dash_8 | reduce-ladder-illness-utility-ticket-ripple-melody-figure |  
+| bip_39_word_dash_9 | reduce-ladder-illness-utility-ticket-ripple-melody-figure-endorse |  
 | bip_39_word_new_br_1 | reduce |  
 | bip_39_word_new_br_10 | reduce<br>ladder<br>illness<br>utility<br>ticket<br>ripple<br>melody<br>figure<br>endorse<br>script |  
 | bip_39_word_new_br_11 | reduce<br>ladder<br>illness<br>utility<br>ticket<br>ripple<br>melody<br>figure<br>endorse<br>script<br>invite |  
@@ -147,6 +159,18 @@ endorse |
 | bip_39_word_space_7 | reduce ladder illness utility ticket ripple melody |  
 | bip_39_word_space_8 | reduce ladder illness utility ticket ripple melody figure |  
 | bip_39_word_space_9 | reduce ladder illness utility ticket ripple melody figure endorse |  
+| bip_39_word_underscore_1 | reduce |  
+| bip_39_word_underscore_10 | reduce_ladder_illness_utility_ticket_ripple_melody_figure_endorse_script |  
+| bip_39_word_underscore_11 | reduce_ladder_illness_utility_ticket_ripple_melody_figure_endorse_script_invite |  
+| bip_39_word_underscore_12 | reduce_ladder_illness_utility_ticket_ripple_melody_figure_endorse_script_invite_around |  
+| bip_39_word_underscore_2 | reduce_ladder |  
+| bip_39_word_underscore_3 | reduce_ladder_illness |  
+| bip_39_word_underscore_4 | reduce_ladder_illness_utility |  
+| bip_39_word_underscore_5 | reduce_ladder_illness_utility_ticket |  
+| bip_39_word_underscore_6 | reduce_ladder_illness_utility_ticket_ripple |  
+| bip_39_word_underscore_7 | reduce_ladder_illness_utility_ticket_ripple_melody |  
+| bip_39_word_underscore_8 | reduce_ladder_illness_utility_ticket_ripple_melody_figure |  
+| bip_39_word_underscore_9 | reduce_ladder_illness_utility_ticket_ripple_melody_figure_endorse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

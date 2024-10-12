@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | melody |  
+| bip_39_word_dash_10 | melody-fall-use-spring-betray-rival-above-web-live-gap |  
+| bip_39_word_dash_11 | melody-fall-use-spring-betray-rival-above-web-live-gap-depend |  
+| bip_39_word_dash_12 | melody-fall-use-spring-betray-rival-above-web-live-gap-depend-area |  
+| bip_39_word_dash_2 | melody-fall |  
+| bip_39_word_dash_3 | melody-fall-use |  
+| bip_39_word_dash_4 | melody-fall-use-spring |  
+| bip_39_word_dash_5 | melody-fall-use-spring-betray |  
+| bip_39_word_dash_6 | melody-fall-use-spring-betray-rival |  
+| bip_39_word_dash_7 | melody-fall-use-spring-betray-rival-above |  
+| bip_39_word_dash_8 | melody-fall-use-spring-betray-rival-above-web |  
+| bip_39_word_dash_9 | melody-fall-use-spring-betray-rival-above-web-live |  
 | bip_39_word_new_br_1 | melody |  
 | bip_39_word_new_br_10 | melody<br>fall<br>use<br>spring<br>betray<br>rival<br>above<br>web<br>live<br>gap |  
 | bip_39_word_new_br_11 | melody<br>fall<br>use<br>spring<br>betray<br>rival<br>above<br>web<br>live<br>gap<br>depend |  
@@ -147,6 +159,18 @@ live |
 | bip_39_word_space_7 | melody fall use spring betray rival above |  
 | bip_39_word_space_8 | melody fall use spring betray rival above web |  
 | bip_39_word_space_9 | melody fall use spring betray rival above web live |  
+| bip_39_word_underscore_1 | melody |  
+| bip_39_word_underscore_10 | melody_fall_use_spring_betray_rival_above_web_live_gap |  
+| bip_39_word_underscore_11 | melody_fall_use_spring_betray_rival_above_web_live_gap_depend |  
+| bip_39_word_underscore_12 | melody_fall_use_spring_betray_rival_above_web_live_gap_depend_area |  
+| bip_39_word_underscore_2 | melody_fall |  
+| bip_39_word_underscore_3 | melody_fall_use |  
+| bip_39_word_underscore_4 | melody_fall_use_spring |  
+| bip_39_word_underscore_5 | melody_fall_use_spring_betray |  
+| bip_39_word_underscore_6 | melody_fall_use_spring_betray_rival |  
+| bip_39_word_underscore_7 | melody_fall_use_spring_betray_rival_above |  
+| bip_39_word_underscore_8 | melody_fall_use_spring_betray_rival_above_web |  
+| bip_39_word_underscore_9 | melody_fall_use_spring_betray_rival_above_web_live |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

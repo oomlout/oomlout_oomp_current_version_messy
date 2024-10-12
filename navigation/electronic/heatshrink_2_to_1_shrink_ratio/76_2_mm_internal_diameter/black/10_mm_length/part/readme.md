@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chest |  
+| bip_39_word_dash_10 | chest-achieve-crunch-coconut-orbit-eternal-size-type-fence-approve |  
+| bip_39_word_dash_11 | chest-achieve-crunch-coconut-orbit-eternal-size-type-fence-approve-antenna |  
+| bip_39_word_dash_12 | chest-achieve-crunch-coconut-orbit-eternal-size-type-fence-approve-antenna-arch |  
+| bip_39_word_dash_2 | chest-achieve |  
+| bip_39_word_dash_3 | chest-achieve-crunch |  
+| bip_39_word_dash_4 | chest-achieve-crunch-coconut |  
+| bip_39_word_dash_5 | chest-achieve-crunch-coconut-orbit |  
+| bip_39_word_dash_6 | chest-achieve-crunch-coconut-orbit-eternal |  
+| bip_39_word_dash_7 | chest-achieve-crunch-coconut-orbit-eternal-size |  
+| bip_39_word_dash_8 | chest-achieve-crunch-coconut-orbit-eternal-size-type |  
+| bip_39_word_dash_9 | chest-achieve-crunch-coconut-orbit-eternal-size-type-fence |  
 | bip_39_word_new_br_1 | chest |  
 | bip_39_word_new_br_10 | chest<br>achieve<br>crunch<br>coconut<br>orbit<br>eternal<br>size<br>type<br>fence<br>approve |  
 | bip_39_word_new_br_11 | chest<br>achieve<br>crunch<br>coconut<br>orbit<br>eternal<br>size<br>type<br>fence<br>approve<br>antenna |  
@@ -147,6 +159,18 @@ fence |
 | bip_39_word_space_7 | chest achieve crunch coconut orbit eternal size |  
 | bip_39_word_space_8 | chest achieve crunch coconut orbit eternal size type |  
 | bip_39_word_space_9 | chest achieve crunch coconut orbit eternal size type fence |  
+| bip_39_word_underscore_1 | chest |  
+| bip_39_word_underscore_10 | chest_achieve_crunch_coconut_orbit_eternal_size_type_fence_approve |  
+| bip_39_word_underscore_11 | chest_achieve_crunch_coconut_orbit_eternal_size_type_fence_approve_antenna |  
+| bip_39_word_underscore_12 | chest_achieve_crunch_coconut_orbit_eternal_size_type_fence_approve_antenna_arch |  
+| bip_39_word_underscore_2 | chest_achieve |  
+| bip_39_word_underscore_3 | chest_achieve_crunch |  
+| bip_39_word_underscore_4 | chest_achieve_crunch_coconut |  
+| bip_39_word_underscore_5 | chest_achieve_crunch_coconut_orbit |  
+| bip_39_word_underscore_6 | chest_achieve_crunch_coconut_orbit_eternal |  
+| bip_39_word_underscore_7 | chest_achieve_crunch_coconut_orbit_eternal_size |  
+| bip_39_word_underscore_8 | chest_achieve_crunch_coconut_orbit_eternal_size_type |  
+| bip_39_word_underscore_9 | chest_achieve_crunch_coconut_orbit_eternal_size_type_fence |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

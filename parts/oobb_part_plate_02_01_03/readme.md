@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flower |  
+| bip_39_word_dash_10 | flower-nurse-large-stumble-action-draft-warfare-behind-depart-pigeon |  
+| bip_39_word_dash_11 | flower-nurse-large-stumble-action-draft-warfare-behind-depart-pigeon-hint |  
+| bip_39_word_dash_12 | flower-nurse-large-stumble-action-draft-warfare-behind-depart-pigeon-hint-actress |  
+| bip_39_word_dash_2 | flower-nurse |  
+| bip_39_word_dash_3 | flower-nurse-large |  
+| bip_39_word_dash_4 | flower-nurse-large-stumble |  
+| bip_39_word_dash_5 | flower-nurse-large-stumble-action |  
+| bip_39_word_dash_6 | flower-nurse-large-stumble-action-draft |  
+| bip_39_word_dash_7 | flower-nurse-large-stumble-action-draft-warfare |  
+| bip_39_word_dash_8 | flower-nurse-large-stumble-action-draft-warfare-behind |  
+| bip_39_word_dash_9 | flower-nurse-large-stumble-action-draft-warfare-behind-depart |  
 | bip_39_word_new_br_1 | flower |  
 | bip_39_word_new_br_10 | flower<br>nurse<br>large<br>stumble<br>action<br>draft<br>warfare<br>behind<br>depart<br>pigeon |  
 | bip_39_word_new_br_11 | flower<br>nurse<br>large<br>stumble<br>action<br>draft<br>warfare<br>behind<br>depart<br>pigeon<br>hint |  
@@ -147,6 +159,18 @@ depart |
 | bip_39_word_space_7 | flower nurse large stumble action draft warfare |  
 | bip_39_word_space_8 | flower nurse large stumble action draft warfare behind |  
 | bip_39_word_space_9 | flower nurse large stumble action draft warfare behind depart |  
+| bip_39_word_underscore_1 | flower |  
+| bip_39_word_underscore_10 | flower_nurse_large_stumble_action_draft_warfare_behind_depart_pigeon |  
+| bip_39_word_underscore_11 | flower_nurse_large_stumble_action_draft_warfare_behind_depart_pigeon_hint |  
+| bip_39_word_underscore_12 | flower_nurse_large_stumble_action_draft_warfare_behind_depart_pigeon_hint_actress |  
+| bip_39_word_underscore_2 | flower_nurse |  
+| bip_39_word_underscore_3 | flower_nurse_large |  
+| bip_39_word_underscore_4 | flower_nurse_large_stumble |  
+| bip_39_word_underscore_5 | flower_nurse_large_stumble_action |  
+| bip_39_word_underscore_6 | flower_nurse_large_stumble_action_draft |  
+| bip_39_word_underscore_7 | flower_nurse_large_stumble_action_draft_warfare |  
+| bip_39_word_underscore_8 | flower_nurse_large_stumble_action_draft_warfare_behind |  
+| bip_39_word_underscore_9 | flower_nurse_large_stumble_action_draft_warfare_behind_depart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | update |  
+| bip_39_word_dash_10 | update-barely-east-sock-radar-hand-idle-crucial-chicken-female |  
+| bip_39_word_dash_11 | update-barely-east-sock-radar-hand-idle-crucial-chicken-female-chalk |  
+| bip_39_word_dash_12 | update-barely-east-sock-radar-hand-idle-crucial-chicken-female-chalk-autumn |  
+| bip_39_word_dash_2 | update-barely |  
+| bip_39_word_dash_3 | update-barely-east |  
+| bip_39_word_dash_4 | update-barely-east-sock |  
+| bip_39_word_dash_5 | update-barely-east-sock-radar |  
+| bip_39_word_dash_6 | update-barely-east-sock-radar-hand |  
+| bip_39_word_dash_7 | update-barely-east-sock-radar-hand-idle |  
+| bip_39_word_dash_8 | update-barely-east-sock-radar-hand-idle-crucial |  
+| bip_39_word_dash_9 | update-barely-east-sock-radar-hand-idle-crucial-chicken |  
 | bip_39_word_new_br_1 | update |  
 | bip_39_word_new_br_10 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female |  
 | bip_39_word_new_br_11 | update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female<br>chalk |  
@@ -147,6 +159,18 @@ chicken |
 | bip_39_word_space_7 | update barely east sock radar hand idle |  
 | bip_39_word_space_8 | update barely east sock radar hand idle crucial |  
 | bip_39_word_space_9 | update barely east sock radar hand idle crucial chicken |  
+| bip_39_word_underscore_1 | update |  
+| bip_39_word_underscore_10 | update_barely_east_sock_radar_hand_idle_crucial_chicken_female |  
+| bip_39_word_underscore_11 | update_barely_east_sock_radar_hand_idle_crucial_chicken_female_chalk |  
+| bip_39_word_underscore_12 | update_barely_east_sock_radar_hand_idle_crucial_chicken_female_chalk_autumn |  
+| bip_39_word_underscore_2 | update_barely |  
+| bip_39_word_underscore_3 | update_barely_east |  
+| bip_39_word_underscore_4 | update_barely_east_sock |  
+| bip_39_word_underscore_5 | update_barely_east_sock_radar |  
+| bip_39_word_underscore_6 | update_barely_east_sock_radar_hand |  
+| bip_39_word_underscore_7 | update_barely_east_sock_radar_hand_idle |  
+| bip_39_word_underscore_8 | update_barely_east_sock_radar_hand_idle_crucial |  
+| bip_39_word_underscore_9 | update_barely_east_sock_radar_hand_idle_crucial_chicken |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

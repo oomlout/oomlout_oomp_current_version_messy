@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | surprise |  
+| bip_39_word_dash_10 | surprise-digital-advance-hire-enforce-agent-south-accuse-simple-blur |  
+| bip_39_word_dash_11 | surprise-digital-advance-hire-enforce-agent-south-accuse-simple-blur-release |  
+| bip_39_word_dash_12 | surprise-digital-advance-hire-enforce-agent-south-accuse-simple-blur-release-amount |  
+| bip_39_word_dash_2 | surprise-digital |  
+| bip_39_word_dash_3 | surprise-digital-advance |  
+| bip_39_word_dash_4 | surprise-digital-advance-hire |  
+| bip_39_word_dash_5 | surprise-digital-advance-hire-enforce |  
+| bip_39_word_dash_6 | surprise-digital-advance-hire-enforce-agent |  
+| bip_39_word_dash_7 | surprise-digital-advance-hire-enforce-agent-south |  
+| bip_39_word_dash_8 | surprise-digital-advance-hire-enforce-agent-south-accuse |  
+| bip_39_word_dash_9 | surprise-digital-advance-hire-enforce-agent-south-accuse-simple |  
 | bip_39_word_new_br_1 | surprise |  
 | bip_39_word_new_br_10 | surprise<br>digital<br>advance<br>hire<br>enforce<br>agent<br>south<br>accuse<br>simple<br>blur |  
 | bip_39_word_new_br_11 | surprise<br>digital<br>advance<br>hire<br>enforce<br>agent<br>south<br>accuse<br>simple<br>blur<br>release |  
@@ -147,6 +159,18 @@ simple |
 | bip_39_word_space_7 | surprise digital advance hire enforce agent south |  
 | bip_39_word_space_8 | surprise digital advance hire enforce agent south accuse |  
 | bip_39_word_space_9 | surprise digital advance hire enforce agent south accuse simple |  
+| bip_39_word_underscore_1 | surprise |  
+| bip_39_word_underscore_10 | surprise_digital_advance_hire_enforce_agent_south_accuse_simple_blur |  
+| bip_39_word_underscore_11 | surprise_digital_advance_hire_enforce_agent_south_accuse_simple_blur_release |  
+| bip_39_word_underscore_12 | surprise_digital_advance_hire_enforce_agent_south_accuse_simple_blur_release_amount |  
+| bip_39_word_underscore_2 | surprise_digital |  
+| bip_39_word_underscore_3 | surprise_digital_advance |  
+| bip_39_word_underscore_4 | surprise_digital_advance_hire |  
+| bip_39_word_underscore_5 | surprise_digital_advance_hire_enforce |  
+| bip_39_word_underscore_6 | surprise_digital_advance_hire_enforce_agent |  
+| bip_39_word_underscore_7 | surprise_digital_advance_hire_enforce_agent_south |  
+| bip_39_word_underscore_8 | surprise_digital_advance_hire_enforce_agent_south_accuse |  
+| bip_39_word_underscore_9 | surprise_digital_advance_hire_enforce_agent_south_accuse_simple |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

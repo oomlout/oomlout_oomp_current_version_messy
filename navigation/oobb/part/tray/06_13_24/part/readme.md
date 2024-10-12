@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decline |  
+| bip_39_word_dash_10 | decline-swamp-toast-scene-tooth-hope-sea-book-cover-caution |  
+| bip_39_word_dash_11 | decline-swamp-toast-scene-tooth-hope-sea-book-cover-caution-gesture |  
+| bip_39_word_dash_12 | decline-swamp-toast-scene-tooth-hope-sea-book-cover-caution-gesture-amused |  
+| bip_39_word_dash_2 | decline-swamp |  
+| bip_39_word_dash_3 | decline-swamp-toast |  
+| bip_39_word_dash_4 | decline-swamp-toast-scene |  
+| bip_39_word_dash_5 | decline-swamp-toast-scene-tooth |  
+| bip_39_word_dash_6 | decline-swamp-toast-scene-tooth-hope |  
+| bip_39_word_dash_7 | decline-swamp-toast-scene-tooth-hope-sea |  
+| bip_39_word_dash_8 | decline-swamp-toast-scene-tooth-hope-sea-book |  
+| bip_39_word_dash_9 | decline-swamp-toast-scene-tooth-hope-sea-book-cover |  
 | bip_39_word_new_br_1 | decline |  
 | bip_39_word_new_br_10 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution |  
 | bip_39_word_new_br_11 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution<br>gesture |  
@@ -147,6 +159,18 @@ cover |
 | bip_39_word_space_7 | decline swamp toast scene tooth hope sea |  
 | bip_39_word_space_8 | decline swamp toast scene tooth hope sea book |  
 | bip_39_word_space_9 | decline swamp toast scene tooth hope sea book cover |  
+| bip_39_word_underscore_1 | decline |  
+| bip_39_word_underscore_10 | decline_swamp_toast_scene_tooth_hope_sea_book_cover_caution |  
+| bip_39_word_underscore_11 | decline_swamp_toast_scene_tooth_hope_sea_book_cover_caution_gesture |  
+| bip_39_word_underscore_12 | decline_swamp_toast_scene_tooth_hope_sea_book_cover_caution_gesture_amused |  
+| bip_39_word_underscore_2 | decline_swamp |  
+| bip_39_word_underscore_3 | decline_swamp_toast |  
+| bip_39_word_underscore_4 | decline_swamp_toast_scene |  
+| bip_39_word_underscore_5 | decline_swamp_toast_scene_tooth |  
+| bip_39_word_underscore_6 | decline_swamp_toast_scene_tooth_hope |  
+| bip_39_word_underscore_7 | decline_swamp_toast_scene_tooth_hope_sea |  
+| bip_39_word_underscore_8 | decline_swamp_toast_scene_tooth_hope_sea_book |  
+| bip_39_word_underscore_9 | decline_swamp_toast_scene_tooth_hope_sea_book_cover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

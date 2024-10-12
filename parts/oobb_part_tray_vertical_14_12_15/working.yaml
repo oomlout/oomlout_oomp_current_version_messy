@@ -1,3 +1,15 @@
+bip_39_word_dash_1: buffalo
+bip_39_word_dash_10: buffalo-vacuum-leisure-sea-diesel-street-truck-arrange-split-top
+bip_39_word_dash_11: buffalo-vacuum-leisure-sea-diesel-street-truck-arrange-split-top-cheap
+bip_39_word_dash_12: buffalo-vacuum-leisure-sea-diesel-street-truck-arrange-split-top-cheap-assault
+bip_39_word_dash_2: buffalo-vacuum
+bip_39_word_dash_3: buffalo-vacuum-leisure
+bip_39_word_dash_4: buffalo-vacuum-leisure-sea
+bip_39_word_dash_5: buffalo-vacuum-leisure-sea-diesel
+bip_39_word_dash_6: buffalo-vacuum-leisure-sea-diesel-street
+bip_39_word_dash_7: buffalo-vacuum-leisure-sea-diesel-street-truck
+bip_39_word_dash_8: buffalo-vacuum-leisure-sea-diesel-street-truck-arrange
+bip_39_word_dash_9: buffalo-vacuum-leisure-sea-diesel-street-truck-arrange-split
 bip_39_word_new_br_1: buffalo
 bip_39_word_new_br_10: buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top
 bip_39_word_new_br_11: buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top<br>cheap
@@ -194,6 +206,18 @@ bip_39_word_space_6: buffalo vacuum leisure sea diesel street
 bip_39_word_space_7: buffalo vacuum leisure sea diesel street truck
 bip_39_word_space_8: buffalo vacuum leisure sea diesel street truck arrange
 bip_39_word_space_9: buffalo vacuum leisure sea diesel street truck arrange split
+bip_39_word_underscore_1: buffalo
+bip_39_word_underscore_10: buffalo_vacuum_leisure_sea_diesel_street_truck_arrange_split_top
+bip_39_word_underscore_11: buffalo_vacuum_leisure_sea_diesel_street_truck_arrange_split_top_cheap
+bip_39_word_underscore_12: buffalo_vacuum_leisure_sea_diesel_street_truck_arrange_split_top_cheap_assault
+bip_39_word_underscore_2: buffalo_vacuum
+bip_39_word_underscore_3: buffalo_vacuum_leisure
+bip_39_word_underscore_4: buffalo_vacuum_leisure_sea
+bip_39_word_underscore_5: buffalo_vacuum_leisure_sea_diesel
+bip_39_word_underscore_6: buffalo_vacuum_leisure_sea_diesel_street
+bip_39_word_underscore_7: buffalo_vacuum_leisure_sea_diesel_street_truck
+bip_39_word_underscore_8: buffalo_vacuum_leisure_sea_diesel_street_truck_arrange
+bip_39_word_underscore_9: buffalo_vacuum_leisure_sea_diesel_street_truck_arrange_split
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

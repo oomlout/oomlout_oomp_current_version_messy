@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hurt |  
+| bip_39_word_dash_10 | hurt-woman-erase-consider-logic-barrel-bulb-flash-universe-purpose |  
+| bip_39_word_dash_11 | hurt-woman-erase-consider-logic-barrel-bulb-flash-universe-purpose-trophy |  
+| bip_39_word_dash_12 | hurt-woman-erase-consider-logic-barrel-bulb-flash-universe-purpose-trophy-angry |  
+| bip_39_word_dash_2 | hurt-woman |  
+| bip_39_word_dash_3 | hurt-woman-erase |  
+| bip_39_word_dash_4 | hurt-woman-erase-consider |  
+| bip_39_word_dash_5 | hurt-woman-erase-consider-logic |  
+| bip_39_word_dash_6 | hurt-woman-erase-consider-logic-barrel |  
+| bip_39_word_dash_7 | hurt-woman-erase-consider-logic-barrel-bulb |  
+| bip_39_word_dash_8 | hurt-woman-erase-consider-logic-barrel-bulb-flash |  
+| bip_39_word_dash_9 | hurt-woman-erase-consider-logic-barrel-bulb-flash-universe |  
 | bip_39_word_new_br_1 | hurt |  
 | bip_39_word_new_br_10 | hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose |  
 | bip_39_word_new_br_11 | hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose<br>trophy |  
@@ -147,6 +159,18 @@ universe |
 | bip_39_word_space_7 | hurt woman erase consider logic barrel bulb |  
 | bip_39_word_space_8 | hurt woman erase consider logic barrel bulb flash |  
 | bip_39_word_space_9 | hurt woman erase consider logic barrel bulb flash universe |  
+| bip_39_word_underscore_1 | hurt |  
+| bip_39_word_underscore_10 | hurt_woman_erase_consider_logic_barrel_bulb_flash_universe_purpose |  
+| bip_39_word_underscore_11 | hurt_woman_erase_consider_logic_barrel_bulb_flash_universe_purpose_trophy |  
+| bip_39_word_underscore_12 | hurt_woman_erase_consider_logic_barrel_bulb_flash_universe_purpose_trophy_angry |  
+| bip_39_word_underscore_2 | hurt_woman |  
+| bip_39_word_underscore_3 | hurt_woman_erase |  
+| bip_39_word_underscore_4 | hurt_woman_erase_consider |  
+| bip_39_word_underscore_5 | hurt_woman_erase_consider_logic |  
+| bip_39_word_underscore_6 | hurt_woman_erase_consider_logic_barrel |  
+| bip_39_word_underscore_7 | hurt_woman_erase_consider_logic_barrel_bulb |  
+| bip_39_word_underscore_8 | hurt_woman_erase_consider_logic_barrel_bulb_flash |  
+| bip_39_word_underscore_9 | hurt_woman_erase_consider_logic_barrel_bulb_flash_universe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

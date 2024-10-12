@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrow |  
+| bip_39_word_dash_10 | arrow-rally-quote-sea-spell-run-legal-wood-audit-soap |  
+| bip_39_word_dash_11 | arrow-rally-quote-sea-spell-run-legal-wood-audit-soap-census |  
+| bip_39_word_dash_12 | arrow-rally-quote-sea-spell-run-legal-wood-audit-soap-census-acoustic |  
+| bip_39_word_dash_2 | arrow-rally |  
+| bip_39_word_dash_3 | arrow-rally-quote |  
+| bip_39_word_dash_4 | arrow-rally-quote-sea |  
+| bip_39_word_dash_5 | arrow-rally-quote-sea-spell |  
+| bip_39_word_dash_6 | arrow-rally-quote-sea-spell-run |  
+| bip_39_word_dash_7 | arrow-rally-quote-sea-spell-run-legal |  
+| bip_39_word_dash_8 | arrow-rally-quote-sea-spell-run-legal-wood |  
+| bip_39_word_dash_9 | arrow-rally-quote-sea-spell-run-legal-wood-audit |  
 | bip_39_word_new_br_1 | arrow |  
 | bip_39_word_new_br_10 | arrow<br>rally<br>quote<br>sea<br>spell<br>run<br>legal<br>wood<br>audit<br>soap |  
 | bip_39_word_new_br_11 | arrow<br>rally<br>quote<br>sea<br>spell<br>run<br>legal<br>wood<br>audit<br>soap<br>census |  
@@ -147,6 +159,18 @@ audit |
 | bip_39_word_space_7 | arrow rally quote sea spell run legal |  
 | bip_39_word_space_8 | arrow rally quote sea spell run legal wood |  
 | bip_39_word_space_9 | arrow rally quote sea spell run legal wood audit |  
+| bip_39_word_underscore_1 | arrow |  
+| bip_39_word_underscore_10 | arrow_rally_quote_sea_spell_run_legal_wood_audit_soap |  
+| bip_39_word_underscore_11 | arrow_rally_quote_sea_spell_run_legal_wood_audit_soap_census |  
+| bip_39_word_underscore_12 | arrow_rally_quote_sea_spell_run_legal_wood_audit_soap_census_acoustic |  
+| bip_39_word_underscore_2 | arrow_rally |  
+| bip_39_word_underscore_3 | arrow_rally_quote |  
+| bip_39_word_underscore_4 | arrow_rally_quote_sea |  
+| bip_39_word_underscore_5 | arrow_rally_quote_sea_spell |  
+| bip_39_word_underscore_6 | arrow_rally_quote_sea_spell_run |  
+| bip_39_word_underscore_7 | arrow_rally_quote_sea_spell_run_legal |  
+| bip_39_word_underscore_8 | arrow_rally_quote_sea_spell_run_legal_wood |  
+| bip_39_word_underscore_9 | arrow_rally_quote_sea_spell_run_legal_wood_audit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

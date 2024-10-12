@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | monitor |  
+| bip_39_word_dash_10 | monitor-cargo-play-essay-zoo-fat-region-wave-delay-kiss |  
+| bip_39_word_dash_11 | monitor-cargo-play-essay-zoo-fat-region-wave-delay-kiss-silk |  
+| bip_39_word_dash_12 | monitor-cargo-play-essay-zoo-fat-region-wave-delay-kiss-silk-among |  
+| bip_39_word_dash_2 | monitor-cargo |  
+| bip_39_word_dash_3 | monitor-cargo-play |  
+| bip_39_word_dash_4 | monitor-cargo-play-essay |  
+| bip_39_word_dash_5 | monitor-cargo-play-essay-zoo |  
+| bip_39_word_dash_6 | monitor-cargo-play-essay-zoo-fat |  
+| bip_39_word_dash_7 | monitor-cargo-play-essay-zoo-fat-region |  
+| bip_39_word_dash_8 | monitor-cargo-play-essay-zoo-fat-region-wave |  
+| bip_39_word_dash_9 | monitor-cargo-play-essay-zoo-fat-region-wave-delay |  
 | bip_39_word_new_br_1 | monitor |  
 | bip_39_word_new_br_10 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss |  
 | bip_39_word_new_br_11 | monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss<br>silk |  
@@ -147,6 +159,18 @@ delay |
 | bip_39_word_space_7 | monitor cargo play essay zoo fat region |  
 | bip_39_word_space_8 | monitor cargo play essay zoo fat region wave |  
 | bip_39_word_space_9 | monitor cargo play essay zoo fat region wave delay |  
+| bip_39_word_underscore_1 | monitor |  
+| bip_39_word_underscore_10 | monitor_cargo_play_essay_zoo_fat_region_wave_delay_kiss |  
+| bip_39_word_underscore_11 | monitor_cargo_play_essay_zoo_fat_region_wave_delay_kiss_silk |  
+| bip_39_word_underscore_12 | monitor_cargo_play_essay_zoo_fat_region_wave_delay_kiss_silk_among |  
+| bip_39_word_underscore_2 | monitor_cargo |  
+| bip_39_word_underscore_3 | monitor_cargo_play |  
+| bip_39_word_underscore_4 | monitor_cargo_play_essay |  
+| bip_39_word_underscore_5 | monitor_cargo_play_essay_zoo |  
+| bip_39_word_underscore_6 | monitor_cargo_play_essay_zoo_fat |  
+| bip_39_word_underscore_7 | monitor_cargo_play_essay_zoo_fat_region |  
+| bip_39_word_underscore_8 | monitor_cargo_play_essay_zoo_fat_region_wave |  
+| bip_39_word_underscore_9 | monitor_cargo_play_essay_zoo_fat_region_wave_delay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

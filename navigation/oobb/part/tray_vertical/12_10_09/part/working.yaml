@@ -1,3 +1,15 @@
+bip_39_word_dash_1: belt
+bip_39_word_dash_10: belt-extend-thought-measure-radio-turtle-scale-globe-produce-giraffe
+bip_39_word_dash_11: belt-extend-thought-measure-radio-turtle-scale-globe-produce-giraffe-treat
+bip_39_word_dash_12: belt-extend-thought-measure-radio-turtle-scale-globe-produce-giraffe-treat-air
+bip_39_word_dash_2: belt-extend
+bip_39_word_dash_3: belt-extend-thought
+bip_39_word_dash_4: belt-extend-thought-measure
+bip_39_word_dash_5: belt-extend-thought-measure-radio
+bip_39_word_dash_6: belt-extend-thought-measure-radio-turtle
+bip_39_word_dash_7: belt-extend-thought-measure-radio-turtle-scale
+bip_39_word_dash_8: belt-extend-thought-measure-radio-turtle-scale-globe
+bip_39_word_dash_9: belt-extend-thought-measure-radio-turtle-scale-globe-produce
 bip_39_word_new_br_1: belt
 bip_39_word_new_br_10: belt<br>extend<br>thought<br>measure<br>radio<br>turtle<br>scale<br>globe<br>produce<br>giraffe
 bip_39_word_new_br_11: belt<br>extend<br>thought<br>measure<br>radio<br>turtle<br>scale<br>globe<br>produce<br>giraffe<br>treat
@@ -194,6 +206,18 @@ bip_39_word_space_6: belt extend thought measure radio turtle
 bip_39_word_space_7: belt extend thought measure radio turtle scale
 bip_39_word_space_8: belt extend thought measure radio turtle scale globe
 bip_39_word_space_9: belt extend thought measure radio turtle scale globe produce
+bip_39_word_underscore_1: belt
+bip_39_word_underscore_10: belt_extend_thought_measure_radio_turtle_scale_globe_produce_giraffe
+bip_39_word_underscore_11: belt_extend_thought_measure_radio_turtle_scale_globe_produce_giraffe_treat
+bip_39_word_underscore_12: belt_extend_thought_measure_radio_turtle_scale_globe_produce_giraffe_treat_air
+bip_39_word_underscore_2: belt_extend
+bip_39_word_underscore_3: belt_extend_thought
+bip_39_word_underscore_4: belt_extend_thought_measure
+bip_39_word_underscore_5: belt_extend_thought_measure_radio
+bip_39_word_underscore_6: belt_extend_thought_measure_radio_turtle
+bip_39_word_underscore_7: belt_extend_thought_measure_radio_turtle_scale
+bip_39_word_underscore_8: belt_extend_thought_measure_radio_turtle_scale_globe
+bip_39_word_underscore_9: belt_extend_thought_measure_radio_turtle_scale_globe_produce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

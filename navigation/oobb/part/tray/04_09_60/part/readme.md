@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enroll |  
+| bip_39_word_dash_10 | enroll-fluid-start-rhythm-bottom-weekend-nut-book-choose-shine |  
+| bip_39_word_dash_11 | enroll-fluid-start-rhythm-bottom-weekend-nut-book-choose-shine-beauty |  
+| bip_39_word_dash_12 | enroll-fluid-start-rhythm-bottom-weekend-nut-book-choose-shine-beauty-agree |  
+| bip_39_word_dash_2 | enroll-fluid |  
+| bip_39_word_dash_3 | enroll-fluid-start |  
+| bip_39_word_dash_4 | enroll-fluid-start-rhythm |  
+| bip_39_word_dash_5 | enroll-fluid-start-rhythm-bottom |  
+| bip_39_word_dash_6 | enroll-fluid-start-rhythm-bottom-weekend |  
+| bip_39_word_dash_7 | enroll-fluid-start-rhythm-bottom-weekend-nut |  
+| bip_39_word_dash_8 | enroll-fluid-start-rhythm-bottom-weekend-nut-book |  
+| bip_39_word_dash_9 | enroll-fluid-start-rhythm-bottom-weekend-nut-book-choose |  
 | bip_39_word_new_br_1 | enroll |  
 | bip_39_word_new_br_10 | enroll<br>fluid<br>start<br>rhythm<br>bottom<br>weekend<br>nut<br>book<br>choose<br>shine |  
 | bip_39_word_new_br_11 | enroll<br>fluid<br>start<br>rhythm<br>bottom<br>weekend<br>nut<br>book<br>choose<br>shine<br>beauty |  
@@ -147,6 +159,18 @@ choose |
 | bip_39_word_space_7 | enroll fluid start rhythm bottom weekend nut |  
 | bip_39_word_space_8 | enroll fluid start rhythm bottom weekend nut book |  
 | bip_39_word_space_9 | enroll fluid start rhythm bottom weekend nut book choose |  
+| bip_39_word_underscore_1 | enroll |  
+| bip_39_word_underscore_10 | enroll_fluid_start_rhythm_bottom_weekend_nut_book_choose_shine |  
+| bip_39_word_underscore_11 | enroll_fluid_start_rhythm_bottom_weekend_nut_book_choose_shine_beauty |  
+| bip_39_word_underscore_12 | enroll_fluid_start_rhythm_bottom_weekend_nut_book_choose_shine_beauty_agree |  
+| bip_39_word_underscore_2 | enroll_fluid |  
+| bip_39_word_underscore_3 | enroll_fluid_start |  
+| bip_39_word_underscore_4 | enroll_fluid_start_rhythm |  
+| bip_39_word_underscore_5 | enroll_fluid_start_rhythm_bottom |  
+| bip_39_word_underscore_6 | enroll_fluid_start_rhythm_bottom_weekend |  
+| bip_39_word_underscore_7 | enroll_fluid_start_rhythm_bottom_weekend_nut |  
+| bip_39_word_underscore_8 | enroll_fluid_start_rhythm_bottom_weekend_nut_book |  
+| bip_39_word_underscore_9 | enroll_fluid_start_rhythm_bottom_weekend_nut_book_choose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

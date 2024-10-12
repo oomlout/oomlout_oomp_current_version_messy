@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | steel |  
+| bip_39_word_dash_10 | steel-loan-pact-stuff-also-brush-express-open-hobby-false |  
+| bip_39_word_dash_11 | steel-loan-pact-stuff-also-brush-express-open-hobby-false-silver |  
+| bip_39_word_dash_12 | steel-loan-pact-stuff-also-brush-express-open-hobby-false-silver-athlete |  
+| bip_39_word_dash_2 | steel-loan |  
+| bip_39_word_dash_3 | steel-loan-pact |  
+| bip_39_word_dash_4 | steel-loan-pact-stuff |  
+| bip_39_word_dash_5 | steel-loan-pact-stuff-also |  
+| bip_39_word_dash_6 | steel-loan-pact-stuff-also-brush |  
+| bip_39_word_dash_7 | steel-loan-pact-stuff-also-brush-express |  
+| bip_39_word_dash_8 | steel-loan-pact-stuff-also-brush-express-open |  
+| bip_39_word_dash_9 | steel-loan-pact-stuff-also-brush-express-open-hobby |  
 | bip_39_word_new_br_1 | steel |  
 | bip_39_word_new_br_10 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open<br>hobby<br>false |  
 | bip_39_word_new_br_11 | steel<br>loan<br>pact<br>stuff<br>also<br>brush<br>express<br>open<br>hobby<br>false<br>silver |  
@@ -147,6 +159,18 @@ hobby |
 | bip_39_word_space_7 | steel loan pact stuff also brush express |  
 | bip_39_word_space_8 | steel loan pact stuff also brush express open |  
 | bip_39_word_space_9 | steel loan pact stuff also brush express open hobby |  
+| bip_39_word_underscore_1 | steel |  
+| bip_39_word_underscore_10 | steel_loan_pact_stuff_also_brush_express_open_hobby_false |  
+| bip_39_word_underscore_11 | steel_loan_pact_stuff_also_brush_express_open_hobby_false_silver |  
+| bip_39_word_underscore_12 | steel_loan_pact_stuff_also_brush_express_open_hobby_false_silver_athlete |  
+| bip_39_word_underscore_2 | steel_loan |  
+| bip_39_word_underscore_3 | steel_loan_pact |  
+| bip_39_word_underscore_4 | steel_loan_pact_stuff |  
+| bip_39_word_underscore_5 | steel_loan_pact_stuff_also |  
+| bip_39_word_underscore_6 | steel_loan_pact_stuff_also_brush |  
+| bip_39_word_underscore_7 | steel_loan_pact_stuff_also_brush_express |  
+| bip_39_word_underscore_8 | steel_loan_pact_stuff_also_brush_express_open |  
+| bip_39_word_underscore_9 | steel_loan_pact_stuff_also_brush_express_open_hobby |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

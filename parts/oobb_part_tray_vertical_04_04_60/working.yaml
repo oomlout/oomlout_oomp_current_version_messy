@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trade
+bip_39_word_dash_10: trade-junior-elephant-lake-fade-satoshi-race-witness-curve-arrive
+bip_39_word_dash_11: trade-junior-elephant-lake-fade-satoshi-race-witness-curve-arrive-demise
+bip_39_word_dash_12: trade-junior-elephant-lake-fade-satoshi-race-witness-curve-arrive-demise-advance
+bip_39_word_dash_2: trade-junior
+bip_39_word_dash_3: trade-junior-elephant
+bip_39_word_dash_4: trade-junior-elephant-lake
+bip_39_word_dash_5: trade-junior-elephant-lake-fade
+bip_39_word_dash_6: trade-junior-elephant-lake-fade-satoshi
+bip_39_word_dash_7: trade-junior-elephant-lake-fade-satoshi-race
+bip_39_word_dash_8: trade-junior-elephant-lake-fade-satoshi-race-witness
+bip_39_word_dash_9: trade-junior-elephant-lake-fade-satoshi-race-witness-curve
 bip_39_word_new_br_1: trade
 bip_39_word_new_br_10: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive
 bip_39_word_new_br_11: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive<br>demise
@@ -193,6 +205,18 @@ bip_39_word_space_6: trade junior elephant lake fade satoshi
 bip_39_word_space_7: trade junior elephant lake fade satoshi race
 bip_39_word_space_8: trade junior elephant lake fade satoshi race witness
 bip_39_word_space_9: trade junior elephant lake fade satoshi race witness curve
+bip_39_word_underscore_1: trade
+bip_39_word_underscore_10: trade_junior_elephant_lake_fade_satoshi_race_witness_curve_arrive
+bip_39_word_underscore_11: trade_junior_elephant_lake_fade_satoshi_race_witness_curve_arrive_demise
+bip_39_word_underscore_12: trade_junior_elephant_lake_fade_satoshi_race_witness_curve_arrive_demise_advance
+bip_39_word_underscore_2: trade_junior
+bip_39_word_underscore_3: trade_junior_elephant
+bip_39_word_underscore_4: trade_junior_elephant_lake
+bip_39_word_underscore_5: trade_junior_elephant_lake_fade
+bip_39_word_underscore_6: trade_junior_elephant_lake_fade_satoshi
+bip_39_word_underscore_7: trade_junior_elephant_lake_fade_satoshi_race
+bip_39_word_underscore_8: trade_junior_elephant_lake_fade_satoshi_race_witness
+bip_39_word_underscore_9: trade_junior_elephant_lake_fade_satoshi_race_witness_curve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

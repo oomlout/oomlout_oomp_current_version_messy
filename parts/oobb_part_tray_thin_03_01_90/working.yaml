@@ -1,3 +1,15 @@
+bip_39_word_dash_1: various
+bip_39_word_dash_10: various-nest-nurse-gather-poet-erosion-plastic-double-ladder-solve
+bip_39_word_dash_11: various-nest-nurse-gather-poet-erosion-plastic-double-ladder-solve-joke
+bip_39_word_dash_12: various-nest-nurse-gather-poet-erosion-plastic-double-ladder-solve-joke-april
+bip_39_word_dash_2: various-nest
+bip_39_word_dash_3: various-nest-nurse
+bip_39_word_dash_4: various-nest-nurse-gather
+bip_39_word_dash_5: various-nest-nurse-gather-poet
+bip_39_word_dash_6: various-nest-nurse-gather-poet-erosion
+bip_39_word_dash_7: various-nest-nurse-gather-poet-erosion-plastic
+bip_39_word_dash_8: various-nest-nurse-gather-poet-erosion-plastic-double
+bip_39_word_dash_9: various-nest-nurse-gather-poet-erosion-plastic-double-ladder
 bip_39_word_new_br_1: various
 bip_39_word_new_br_10: various<br>nest<br>nurse<br>gather<br>poet<br>erosion<br>plastic<br>double<br>ladder<br>solve
 bip_39_word_new_br_11: various<br>nest<br>nurse<br>gather<br>poet<br>erosion<br>plastic<br>double<br>ladder<br>solve<br>joke
@@ -194,6 +206,18 @@ bip_39_word_space_6: various nest nurse gather poet erosion
 bip_39_word_space_7: various nest nurse gather poet erosion plastic
 bip_39_word_space_8: various nest nurse gather poet erosion plastic double
 bip_39_word_space_9: various nest nurse gather poet erosion plastic double ladder
+bip_39_word_underscore_1: various
+bip_39_word_underscore_10: various_nest_nurse_gather_poet_erosion_plastic_double_ladder_solve
+bip_39_word_underscore_11: various_nest_nurse_gather_poet_erosion_plastic_double_ladder_solve_joke
+bip_39_word_underscore_12: various_nest_nurse_gather_poet_erosion_plastic_double_ladder_solve_joke_april
+bip_39_word_underscore_2: various_nest
+bip_39_word_underscore_3: various_nest_nurse
+bip_39_word_underscore_4: various_nest_nurse_gather
+bip_39_word_underscore_5: various_nest_nurse_gather_poet
+bip_39_word_underscore_6: various_nest_nurse_gather_poet_erosion
+bip_39_word_underscore_7: various_nest_nurse_gather_poet_erosion_plastic
+bip_39_word_underscore_8: various_nest_nurse_gather_poet_erosion_plastic_double
+bip_39_word_underscore_9: various_nest_nurse_gather_poet_erosion_plastic_double_ladder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

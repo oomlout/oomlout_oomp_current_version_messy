@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lesson |  
+| bip_39_word_dash_10 | lesson-iron-they-option-clinic-gallery-occur-estate-digital-destroy |  
+| bip_39_word_dash_11 | lesson-iron-they-option-clinic-gallery-occur-estate-digital-destroy-forum |  
+| bip_39_word_dash_12 | lesson-iron-they-option-clinic-gallery-occur-estate-digital-destroy-forum-across |  
+| bip_39_word_dash_2 | lesson-iron |  
+| bip_39_word_dash_3 | lesson-iron-they |  
+| bip_39_word_dash_4 | lesson-iron-they-option |  
+| bip_39_word_dash_5 | lesson-iron-they-option-clinic |  
+| bip_39_word_dash_6 | lesson-iron-they-option-clinic-gallery |  
+| bip_39_word_dash_7 | lesson-iron-they-option-clinic-gallery-occur |  
+| bip_39_word_dash_8 | lesson-iron-they-option-clinic-gallery-occur-estate |  
+| bip_39_word_dash_9 | lesson-iron-they-option-clinic-gallery-occur-estate-digital |  
 | bip_39_word_new_br_1 | lesson |  
 | bip_39_word_new_br_10 | lesson<br>iron<br>they<br>option<br>clinic<br>gallery<br>occur<br>estate<br>digital<br>destroy |  
 | bip_39_word_new_br_11 | lesson<br>iron<br>they<br>option<br>clinic<br>gallery<br>occur<br>estate<br>digital<br>destroy<br>forum |  
@@ -147,6 +159,18 @@ digital |
 | bip_39_word_space_7 | lesson iron they option clinic gallery occur |  
 | bip_39_word_space_8 | lesson iron they option clinic gallery occur estate |  
 | bip_39_word_space_9 | lesson iron they option clinic gallery occur estate digital |  
+| bip_39_word_underscore_1 | lesson |  
+| bip_39_word_underscore_10 | lesson_iron_they_option_clinic_gallery_occur_estate_digital_destroy |  
+| bip_39_word_underscore_11 | lesson_iron_they_option_clinic_gallery_occur_estate_digital_destroy_forum |  
+| bip_39_word_underscore_12 | lesson_iron_they_option_clinic_gallery_occur_estate_digital_destroy_forum_across |  
+| bip_39_word_underscore_2 | lesson_iron |  
+| bip_39_word_underscore_3 | lesson_iron_they |  
+| bip_39_word_underscore_4 | lesson_iron_they_option |  
+| bip_39_word_underscore_5 | lesson_iron_they_option_clinic |  
+| bip_39_word_underscore_6 | lesson_iron_they_option_clinic_gallery |  
+| bip_39_word_underscore_7 | lesson_iron_they_option_clinic_gallery_occur |  
+| bip_39_word_underscore_8 | lesson_iron_they_option_clinic_gallery_occur_estate |  
+| bip_39_word_underscore_9 | lesson_iron_they_option_clinic_gallery_occur_estate_digital |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

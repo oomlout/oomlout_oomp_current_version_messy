@@ -1,3 +1,15 @@
+bip_39_word_dash_1: seven
+bip_39_word_dash_10: seven-good-tuna-useful-cigar-poem-girl-clever-chimney-cook
+bip_39_word_dash_11: seven-good-tuna-useful-cigar-poem-girl-clever-chimney-cook-small
+bip_39_word_dash_12: seven-good-tuna-useful-cigar-poem-girl-clever-chimney-cook-small-aunt
+bip_39_word_dash_2: seven-good
+bip_39_word_dash_3: seven-good-tuna
+bip_39_word_dash_4: seven-good-tuna-useful
+bip_39_word_dash_5: seven-good-tuna-useful-cigar
+bip_39_word_dash_6: seven-good-tuna-useful-cigar-poem
+bip_39_word_dash_7: seven-good-tuna-useful-cigar-poem-girl
+bip_39_word_dash_8: seven-good-tuna-useful-cigar-poem-girl-clever
+bip_39_word_dash_9: seven-good-tuna-useful-cigar-poem-girl-clever-chimney
 bip_39_word_new_br_1: seven
 bip_39_word_new_br_10: seven<br>good<br>tuna<br>useful<br>cigar<br>poem<br>girl<br>clever<br>chimney<br>cook
 bip_39_word_new_br_11: seven<br>good<br>tuna<br>useful<br>cigar<br>poem<br>girl<br>clever<br>chimney<br>cook<br>small
@@ -192,6 +204,18 @@ bip_39_word_space_6: seven good tuna useful cigar poem
 bip_39_word_space_7: seven good tuna useful cigar poem girl
 bip_39_word_space_8: seven good tuna useful cigar poem girl clever
 bip_39_word_space_9: seven good tuna useful cigar poem girl clever chimney
+bip_39_word_underscore_1: seven
+bip_39_word_underscore_10: seven_good_tuna_useful_cigar_poem_girl_clever_chimney_cook
+bip_39_word_underscore_11: seven_good_tuna_useful_cigar_poem_girl_clever_chimney_cook_small
+bip_39_word_underscore_12: seven_good_tuna_useful_cigar_poem_girl_clever_chimney_cook_small_aunt
+bip_39_word_underscore_2: seven_good
+bip_39_word_underscore_3: seven_good_tuna
+bip_39_word_underscore_4: seven_good_tuna_useful
+bip_39_word_underscore_5: seven_good_tuna_useful_cigar
+bip_39_word_underscore_6: seven_good_tuna_useful_cigar_poem
+bip_39_word_underscore_7: seven_good_tuna_useful_cigar_poem_girl
+bip_39_word_underscore_8: seven_good_tuna_useful_cigar_poem_girl_clever
+bip_39_word_underscore_9: seven_good_tuna_useful_cigar_poem_girl_clever_chimney
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

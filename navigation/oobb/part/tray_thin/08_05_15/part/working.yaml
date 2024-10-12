@@ -1,3 +1,15 @@
+bip_39_word_dash_1: actress
+bip_39_word_dash_10: actress-hospital-crisp-unable-offer-door-glide-sound-unit-gather
+bip_39_word_dash_11: actress-hospital-crisp-unable-offer-door-glide-sound-unit-gather-person
+bip_39_word_dash_12: actress-hospital-crisp-unable-offer-door-glide-sound-unit-gather-person-approve
+bip_39_word_dash_2: actress-hospital
+bip_39_word_dash_3: actress-hospital-crisp
+bip_39_word_dash_4: actress-hospital-crisp-unable
+bip_39_word_dash_5: actress-hospital-crisp-unable-offer
+bip_39_word_dash_6: actress-hospital-crisp-unable-offer-door
+bip_39_word_dash_7: actress-hospital-crisp-unable-offer-door-glide
+bip_39_word_dash_8: actress-hospital-crisp-unable-offer-door-glide-sound
+bip_39_word_dash_9: actress-hospital-crisp-unable-offer-door-glide-sound-unit
 bip_39_word_new_br_1: actress
 bip_39_word_new_br_10: actress<br>hospital<br>crisp<br>unable<br>offer<br>door<br>glide<br>sound<br>unit<br>gather
 bip_39_word_new_br_11: actress<br>hospital<br>crisp<br>unable<br>offer<br>door<br>glide<br>sound<br>unit<br>gather<br>person
@@ -193,6 +205,18 @@ bip_39_word_space_6: actress hospital crisp unable offer door
 bip_39_word_space_7: actress hospital crisp unable offer door glide
 bip_39_word_space_8: actress hospital crisp unable offer door glide sound
 bip_39_word_space_9: actress hospital crisp unable offer door glide sound unit
+bip_39_word_underscore_1: actress
+bip_39_word_underscore_10: actress_hospital_crisp_unable_offer_door_glide_sound_unit_gather
+bip_39_word_underscore_11: actress_hospital_crisp_unable_offer_door_glide_sound_unit_gather_person
+bip_39_word_underscore_12: actress_hospital_crisp_unable_offer_door_glide_sound_unit_gather_person_approve
+bip_39_word_underscore_2: actress_hospital
+bip_39_word_underscore_3: actress_hospital_crisp
+bip_39_word_underscore_4: actress_hospital_crisp_unable
+bip_39_word_underscore_5: actress_hospital_crisp_unable_offer
+bip_39_word_underscore_6: actress_hospital_crisp_unable_offer_door
+bip_39_word_underscore_7: actress_hospital_crisp_unable_offer_door_glide
+bip_39_word_underscore_8: actress_hospital_crisp_unable_offer_door_glide_sound
+bip_39_word_underscore_9: actress_hospital_crisp_unable_offer_door_glide_sound_unit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

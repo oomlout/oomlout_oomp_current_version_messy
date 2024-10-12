@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | minute |  
+| bip_39_word_dash_10 | minute-tiger-few-silly-air-immense-mule-peace-ahead-twice |  
+| bip_39_word_dash_11 | minute-tiger-few-silly-air-immense-mule-peace-ahead-twice-young |  
+| bip_39_word_dash_12 | minute-tiger-few-silly-air-immense-mule-peace-ahead-twice-young-alien |  
+| bip_39_word_dash_2 | minute-tiger |  
+| bip_39_word_dash_3 | minute-tiger-few |  
+| bip_39_word_dash_4 | minute-tiger-few-silly |  
+| bip_39_word_dash_5 | minute-tiger-few-silly-air |  
+| bip_39_word_dash_6 | minute-tiger-few-silly-air-immense |  
+| bip_39_word_dash_7 | minute-tiger-few-silly-air-immense-mule |  
+| bip_39_word_dash_8 | minute-tiger-few-silly-air-immense-mule-peace |  
+| bip_39_word_dash_9 | minute-tiger-few-silly-air-immense-mule-peace-ahead |  
 | bip_39_word_new_br_1 | minute |  
 | bip_39_word_new_br_10 | minute<br>tiger<br>few<br>silly<br>air<br>immense<br>mule<br>peace<br>ahead<br>twice |  
 | bip_39_word_new_br_11 | minute<br>tiger<br>few<br>silly<br>air<br>immense<br>mule<br>peace<br>ahead<br>twice<br>young |  
@@ -147,6 +159,18 @@ ahead |
 | bip_39_word_space_7 | minute tiger few silly air immense mule |  
 | bip_39_word_space_8 | minute tiger few silly air immense mule peace |  
 | bip_39_word_space_9 | minute tiger few silly air immense mule peace ahead |  
+| bip_39_word_underscore_1 | minute |  
+| bip_39_word_underscore_10 | minute_tiger_few_silly_air_immense_mule_peace_ahead_twice |  
+| bip_39_word_underscore_11 | minute_tiger_few_silly_air_immense_mule_peace_ahead_twice_young |  
+| bip_39_word_underscore_12 | minute_tiger_few_silly_air_immense_mule_peace_ahead_twice_young_alien |  
+| bip_39_word_underscore_2 | minute_tiger |  
+| bip_39_word_underscore_3 | minute_tiger_few |  
+| bip_39_word_underscore_4 | minute_tiger_few_silly |  
+| bip_39_word_underscore_5 | minute_tiger_few_silly_air |  
+| bip_39_word_underscore_6 | minute_tiger_few_silly_air_immense |  
+| bip_39_word_underscore_7 | minute_tiger_few_silly_air_immense_mule |  
+| bip_39_word_underscore_8 | minute_tiger_few_silly_air_immense_mule_peace |  
+| bip_39_word_underscore_9 | minute_tiger_few_silly_air_immense_mule_peace_ahead |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

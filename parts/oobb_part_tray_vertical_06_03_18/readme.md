@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exact |  
+| bip_39_word_dash_10 | exact-spider-manual-sponsor-learn-twenty-super-bacon-cupboard-blouse |  
+| bip_39_word_dash_11 | exact-spider-manual-sponsor-learn-twenty-super-bacon-cupboard-blouse-acid |  
+| bip_39_word_dash_12 | exact-spider-manual-sponsor-learn-twenty-super-bacon-cupboard-blouse-acid-antenna |  
+| bip_39_word_dash_2 | exact-spider |  
+| bip_39_word_dash_3 | exact-spider-manual |  
+| bip_39_word_dash_4 | exact-spider-manual-sponsor |  
+| bip_39_word_dash_5 | exact-spider-manual-sponsor-learn |  
+| bip_39_word_dash_6 | exact-spider-manual-sponsor-learn-twenty |  
+| bip_39_word_dash_7 | exact-spider-manual-sponsor-learn-twenty-super |  
+| bip_39_word_dash_8 | exact-spider-manual-sponsor-learn-twenty-super-bacon |  
+| bip_39_word_dash_9 | exact-spider-manual-sponsor-learn-twenty-super-bacon-cupboard |  
 | bip_39_word_new_br_1 | exact |  
 | bip_39_word_new_br_10 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse |  
 | bip_39_word_new_br_11 | exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse<br>acid |  
@@ -147,6 +159,18 @@ cupboard |
 | bip_39_word_space_7 | exact spider manual sponsor learn twenty super |  
 | bip_39_word_space_8 | exact spider manual sponsor learn twenty super bacon |  
 | bip_39_word_space_9 | exact spider manual sponsor learn twenty super bacon cupboard |  
+| bip_39_word_underscore_1 | exact |  
+| bip_39_word_underscore_10 | exact_spider_manual_sponsor_learn_twenty_super_bacon_cupboard_blouse |  
+| bip_39_word_underscore_11 | exact_spider_manual_sponsor_learn_twenty_super_bacon_cupboard_blouse_acid |  
+| bip_39_word_underscore_12 | exact_spider_manual_sponsor_learn_twenty_super_bacon_cupboard_blouse_acid_antenna |  
+| bip_39_word_underscore_2 | exact_spider |  
+| bip_39_word_underscore_3 | exact_spider_manual |  
+| bip_39_word_underscore_4 | exact_spider_manual_sponsor |  
+| bip_39_word_underscore_5 | exact_spider_manual_sponsor_learn |  
+| bip_39_word_underscore_6 | exact_spider_manual_sponsor_learn_twenty |  
+| bip_39_word_underscore_7 | exact_spider_manual_sponsor_learn_twenty_super |  
+| bip_39_word_underscore_8 | exact_spider_manual_sponsor_learn_twenty_super_bacon |  
+| bip_39_word_underscore_9 | exact_spider_manual_sponsor_learn_twenty_super_bacon_cupboard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

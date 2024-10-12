@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dutch
+bip_39_word_dash_10: dutch-ripple-security-gas-floor-orbit-west-twenty-host-ocean
+bip_39_word_dash_11: dutch-ripple-security-gas-floor-orbit-west-twenty-host-ocean-fine
+bip_39_word_dash_12: dutch-ripple-security-gas-floor-orbit-west-twenty-host-ocean-fine-ability
+bip_39_word_dash_2: dutch-ripple
+bip_39_word_dash_3: dutch-ripple-security
+bip_39_word_dash_4: dutch-ripple-security-gas
+bip_39_word_dash_5: dutch-ripple-security-gas-floor
+bip_39_word_dash_6: dutch-ripple-security-gas-floor-orbit
+bip_39_word_dash_7: dutch-ripple-security-gas-floor-orbit-west
+bip_39_word_dash_8: dutch-ripple-security-gas-floor-orbit-west-twenty
+bip_39_word_dash_9: dutch-ripple-security-gas-floor-orbit-west-twenty-host
 bip_39_word_new_br_1: dutch
 bip_39_word_new_br_10: dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean
 bip_39_word_new_br_11: dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean<br>fine
@@ -193,6 +205,18 @@ bip_39_word_space_6: dutch ripple security gas floor orbit
 bip_39_word_space_7: dutch ripple security gas floor orbit west
 bip_39_word_space_8: dutch ripple security gas floor orbit west twenty
 bip_39_word_space_9: dutch ripple security gas floor orbit west twenty host
+bip_39_word_underscore_1: dutch
+bip_39_word_underscore_10: dutch_ripple_security_gas_floor_orbit_west_twenty_host_ocean
+bip_39_word_underscore_11: dutch_ripple_security_gas_floor_orbit_west_twenty_host_ocean_fine
+bip_39_word_underscore_12: dutch_ripple_security_gas_floor_orbit_west_twenty_host_ocean_fine_ability
+bip_39_word_underscore_2: dutch_ripple
+bip_39_word_underscore_3: dutch_ripple_security
+bip_39_word_underscore_4: dutch_ripple_security_gas
+bip_39_word_underscore_5: dutch_ripple_security_gas_floor
+bip_39_word_underscore_6: dutch_ripple_security_gas_floor_orbit
+bip_39_word_underscore_7: dutch_ripple_security_gas_floor_orbit_west
+bip_39_word_underscore_8: dutch_ripple_security_gas_floor_orbit_west_twenty
+bip_39_word_underscore_9: dutch_ripple_security_gas_floor_orbit_west_twenty_host
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

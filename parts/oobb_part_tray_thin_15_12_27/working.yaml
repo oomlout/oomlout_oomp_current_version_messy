@@ -1,3 +1,15 @@
+bip_39_word_dash_1: harbor
+bip_39_word_dash_10: harbor-pledge-trash-patrol-neutral-mad-song-park-fee-worth
+bip_39_word_dash_11: harbor-pledge-trash-patrol-neutral-mad-song-park-fee-worth-finger
+bip_39_word_dash_12: harbor-pledge-trash-patrol-neutral-mad-song-park-fee-worth-finger-august
+bip_39_word_dash_2: harbor-pledge
+bip_39_word_dash_3: harbor-pledge-trash
+bip_39_word_dash_4: harbor-pledge-trash-patrol
+bip_39_word_dash_5: harbor-pledge-trash-patrol-neutral
+bip_39_word_dash_6: harbor-pledge-trash-patrol-neutral-mad
+bip_39_word_dash_7: harbor-pledge-trash-patrol-neutral-mad-song
+bip_39_word_dash_8: harbor-pledge-trash-patrol-neutral-mad-song-park
+bip_39_word_dash_9: harbor-pledge-trash-patrol-neutral-mad-song-park-fee
 bip_39_word_new_br_1: harbor
 bip_39_word_new_br_10: harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park<br>fee<br>worth
 bip_39_word_new_br_11: harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park<br>fee<br>worth<br>finger
@@ -192,6 +204,18 @@ bip_39_word_space_6: harbor pledge trash patrol neutral mad
 bip_39_word_space_7: harbor pledge trash patrol neutral mad song
 bip_39_word_space_8: harbor pledge trash patrol neutral mad song park
 bip_39_word_space_9: harbor pledge trash patrol neutral mad song park fee
+bip_39_word_underscore_1: harbor
+bip_39_word_underscore_10: harbor_pledge_trash_patrol_neutral_mad_song_park_fee_worth
+bip_39_word_underscore_11: harbor_pledge_trash_patrol_neutral_mad_song_park_fee_worth_finger
+bip_39_word_underscore_12: harbor_pledge_trash_patrol_neutral_mad_song_park_fee_worth_finger_august
+bip_39_word_underscore_2: harbor_pledge
+bip_39_word_underscore_3: harbor_pledge_trash
+bip_39_word_underscore_4: harbor_pledge_trash_patrol
+bip_39_word_underscore_5: harbor_pledge_trash_patrol_neutral
+bip_39_word_underscore_6: harbor_pledge_trash_patrol_neutral_mad
+bip_39_word_underscore_7: harbor_pledge_trash_patrol_neutral_mad_song
+bip_39_word_underscore_8: harbor_pledge_trash_patrol_neutral_mad_song_park
+bip_39_word_underscore_9: harbor_pledge_trash_patrol_neutral_mad_song_park_fee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

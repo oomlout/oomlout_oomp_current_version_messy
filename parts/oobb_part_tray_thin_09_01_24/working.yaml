@@ -1,3 +1,15 @@
+bip_39_word_dash_1: erosion
+bip_39_word_dash_10: erosion-loud-again-dolphin-rail-artefact-jealous-permit-hire-humor
+bip_39_word_dash_11: erosion-loud-again-dolphin-rail-artefact-jealous-permit-hire-humor-good
+bip_39_word_dash_12: erosion-loud-again-dolphin-rail-artefact-jealous-permit-hire-humor-good-arctic
+bip_39_word_dash_2: erosion-loud
+bip_39_word_dash_3: erosion-loud-again
+bip_39_word_dash_4: erosion-loud-again-dolphin
+bip_39_word_dash_5: erosion-loud-again-dolphin-rail
+bip_39_word_dash_6: erosion-loud-again-dolphin-rail-artefact
+bip_39_word_dash_7: erosion-loud-again-dolphin-rail-artefact-jealous
+bip_39_word_dash_8: erosion-loud-again-dolphin-rail-artefact-jealous-permit
+bip_39_word_dash_9: erosion-loud-again-dolphin-rail-artefact-jealous-permit-hire
 bip_39_word_new_br_1: erosion
 bip_39_word_new_br_10: erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor
 bip_39_word_new_br_11: erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor<br>good
@@ -194,6 +206,18 @@ bip_39_word_space_6: erosion loud again dolphin rail artefact
 bip_39_word_space_7: erosion loud again dolphin rail artefact jealous
 bip_39_word_space_8: erosion loud again dolphin rail artefact jealous permit
 bip_39_word_space_9: erosion loud again dolphin rail artefact jealous permit hire
+bip_39_word_underscore_1: erosion
+bip_39_word_underscore_10: erosion_loud_again_dolphin_rail_artefact_jealous_permit_hire_humor
+bip_39_word_underscore_11: erosion_loud_again_dolphin_rail_artefact_jealous_permit_hire_humor_good
+bip_39_word_underscore_12: erosion_loud_again_dolphin_rail_artefact_jealous_permit_hire_humor_good_arctic
+bip_39_word_underscore_2: erosion_loud
+bip_39_word_underscore_3: erosion_loud_again
+bip_39_word_underscore_4: erosion_loud_again_dolphin
+bip_39_word_underscore_5: erosion_loud_again_dolphin_rail
+bip_39_word_underscore_6: erosion_loud_again_dolphin_rail_artefact
+bip_39_word_underscore_7: erosion_loud_again_dolphin_rail_artefact_jealous
+bip_39_word_underscore_8: erosion_loud_again_dolphin_rail_artefact_jealous_permit
+bip_39_word_underscore_9: erosion_loud_again_dolphin_rail_artefact_jealous_permit_hire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

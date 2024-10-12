@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | put |  
+| bip_39_word_dash_10 | put-twist-frown-unique-erase-alarm-bless-sort-canoe-chunk |  
+| bip_39_word_dash_11 | put-twist-frown-unique-erase-alarm-bless-sort-canoe-chunk-volcano |  
+| bip_39_word_dash_12 | put-twist-frown-unique-erase-alarm-bless-sort-canoe-chunk-volcano-analyst |  
+| bip_39_word_dash_2 | put-twist |  
+| bip_39_word_dash_3 | put-twist-frown |  
+| bip_39_word_dash_4 | put-twist-frown-unique |  
+| bip_39_word_dash_5 | put-twist-frown-unique-erase |  
+| bip_39_word_dash_6 | put-twist-frown-unique-erase-alarm |  
+| bip_39_word_dash_7 | put-twist-frown-unique-erase-alarm-bless |  
+| bip_39_word_dash_8 | put-twist-frown-unique-erase-alarm-bless-sort |  
+| bip_39_word_dash_9 | put-twist-frown-unique-erase-alarm-bless-sort-canoe |  
 | bip_39_word_new_br_1 | put |  
 | bip_39_word_new_br_10 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort<br>canoe<br>chunk |  
 | bip_39_word_new_br_11 | put<br>twist<br>frown<br>unique<br>erase<br>alarm<br>bless<br>sort<br>canoe<br>chunk<br>volcano |  
@@ -147,6 +159,18 @@ canoe |
 | bip_39_word_space_7 | put twist frown unique erase alarm bless |  
 | bip_39_word_space_8 | put twist frown unique erase alarm bless sort |  
 | bip_39_word_space_9 | put twist frown unique erase alarm bless sort canoe |  
+| bip_39_word_underscore_1 | put |  
+| bip_39_word_underscore_10 | put_twist_frown_unique_erase_alarm_bless_sort_canoe_chunk |  
+| bip_39_word_underscore_11 | put_twist_frown_unique_erase_alarm_bless_sort_canoe_chunk_volcano |  
+| bip_39_word_underscore_12 | put_twist_frown_unique_erase_alarm_bless_sort_canoe_chunk_volcano_analyst |  
+| bip_39_word_underscore_2 | put_twist |  
+| bip_39_word_underscore_3 | put_twist_frown |  
+| bip_39_word_underscore_4 | put_twist_frown_unique |  
+| bip_39_word_underscore_5 | put_twist_frown_unique_erase |  
+| bip_39_word_underscore_6 | put_twist_frown_unique_erase_alarm |  
+| bip_39_word_underscore_7 | put_twist_frown_unique_erase_alarm_bless |  
+| bip_39_word_underscore_8 | put_twist_frown_unique_erase_alarm_bless_sort |  
+| bip_39_word_underscore_9 | put_twist_frown_unique_erase_alarm_bless_sort_canoe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

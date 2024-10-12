@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | member |  
+| bip_39_word_dash_10 | member-shoulder-zoo-beach-bracket-zero-sense-fresh-because-discover |  
+| bip_39_word_dash_11 | member-shoulder-zoo-beach-bracket-zero-sense-fresh-because-discover-such |  
+| bip_39_word_dash_12 | member-shoulder-zoo-beach-bracket-zero-sense-fresh-because-discover-such-acid |  
+| bip_39_word_dash_2 | member-shoulder |  
+| bip_39_word_dash_3 | member-shoulder-zoo |  
+| bip_39_word_dash_4 | member-shoulder-zoo-beach |  
+| bip_39_word_dash_5 | member-shoulder-zoo-beach-bracket |  
+| bip_39_word_dash_6 | member-shoulder-zoo-beach-bracket-zero |  
+| bip_39_word_dash_7 | member-shoulder-zoo-beach-bracket-zero-sense |  
+| bip_39_word_dash_8 | member-shoulder-zoo-beach-bracket-zero-sense-fresh |  
+| bip_39_word_dash_9 | member-shoulder-zoo-beach-bracket-zero-sense-fresh-because |  
 | bip_39_word_new_br_1 | member |  
 | bip_39_word_new_br_10 | member<br>shoulder<br>zoo<br>beach<br>bracket<br>zero<br>sense<br>fresh<br>because<br>discover |  
 | bip_39_word_new_br_11 | member<br>shoulder<br>zoo<br>beach<br>bracket<br>zero<br>sense<br>fresh<br>because<br>discover<br>such |  
@@ -147,6 +159,18 @@ because |
 | bip_39_word_space_7 | member shoulder zoo beach bracket zero sense |  
 | bip_39_word_space_8 | member shoulder zoo beach bracket zero sense fresh |  
 | bip_39_word_space_9 | member shoulder zoo beach bracket zero sense fresh because |  
+| bip_39_word_underscore_1 | member |  
+| bip_39_word_underscore_10 | member_shoulder_zoo_beach_bracket_zero_sense_fresh_because_discover |  
+| bip_39_word_underscore_11 | member_shoulder_zoo_beach_bracket_zero_sense_fresh_because_discover_such |  
+| bip_39_word_underscore_12 | member_shoulder_zoo_beach_bracket_zero_sense_fresh_because_discover_such_acid |  
+| bip_39_word_underscore_2 | member_shoulder |  
+| bip_39_word_underscore_3 | member_shoulder_zoo |  
+| bip_39_word_underscore_4 | member_shoulder_zoo_beach |  
+| bip_39_word_underscore_5 | member_shoulder_zoo_beach_bracket |  
+| bip_39_word_underscore_6 | member_shoulder_zoo_beach_bracket_zero |  
+| bip_39_word_underscore_7 | member_shoulder_zoo_beach_bracket_zero_sense |  
+| bip_39_word_underscore_8 | member_shoulder_zoo_beach_bracket_zero_sense_fresh |  
+| bip_39_word_underscore_9 | member_shoulder_zoo_beach_bracket_zero_sense_fresh_because |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | suffer |  
+| bip_39_word_dash_10 | suffer-dance-defy-worth-defy-media-multiply-police-endless-urge |  
+| bip_39_word_dash_11 | suffer-dance-defy-worth-defy-media-multiply-police-endless-urge-aspect |  
+| bip_39_word_dash_12 | suffer-dance-defy-worth-defy-media-multiply-police-endless-urge-aspect-annual |  
+| bip_39_word_dash_2 | suffer-dance |  
+| bip_39_word_dash_3 | suffer-dance-defy |  
+| bip_39_word_dash_4 | suffer-dance-defy-worth |  
+| bip_39_word_dash_5 | suffer-dance-defy-worth-defy |  
+| bip_39_word_dash_6 | suffer-dance-defy-worth-defy-media |  
+| bip_39_word_dash_7 | suffer-dance-defy-worth-defy-media-multiply |  
+| bip_39_word_dash_8 | suffer-dance-defy-worth-defy-media-multiply-police |  
+| bip_39_word_dash_9 | suffer-dance-defy-worth-defy-media-multiply-police-endless |  
 | bip_39_word_new_br_1 | suffer |  
 | bip_39_word_new_br_10 | suffer<br>dance<br>defy<br>worth<br>defy<br>media<br>multiply<br>police<br>endless<br>urge |  
 | bip_39_word_new_br_11 | suffer<br>dance<br>defy<br>worth<br>defy<br>media<br>multiply<br>police<br>endless<br>urge<br>aspect |  
@@ -147,6 +159,18 @@ endless |
 | bip_39_word_space_7 | suffer dance defy worth defy media multiply |  
 | bip_39_word_space_8 | suffer dance defy worth defy media multiply police |  
 | bip_39_word_space_9 | suffer dance defy worth defy media multiply police endless |  
+| bip_39_word_underscore_1 | suffer |  
+| bip_39_word_underscore_10 | suffer_dance_defy_worth_defy_media_multiply_police_endless_urge |  
+| bip_39_word_underscore_11 | suffer_dance_defy_worth_defy_media_multiply_police_endless_urge_aspect |  
+| bip_39_word_underscore_12 | suffer_dance_defy_worth_defy_media_multiply_police_endless_urge_aspect_annual |  
+| bip_39_word_underscore_2 | suffer_dance |  
+| bip_39_word_underscore_3 | suffer_dance_defy |  
+| bip_39_word_underscore_4 | suffer_dance_defy_worth |  
+| bip_39_word_underscore_5 | suffer_dance_defy_worth_defy |  
+| bip_39_word_underscore_6 | suffer_dance_defy_worth_defy_media |  
+| bip_39_word_underscore_7 | suffer_dance_defy_worth_defy_media_multiply |  
+| bip_39_word_underscore_8 | suffer_dance_defy_worth_defy_media_multiply_police |  
+| bip_39_word_underscore_9 | suffer_dance_defy_worth_defy_media_multiply_police_endless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | magic |  
+| bip_39_word_dash_10 | magic-bright-property-deposit-pink-radar-milk-pattern-blossom-simple |  
+| bip_39_word_dash_11 | magic-bright-property-deposit-pink-radar-milk-pattern-blossom-simple-daring |  
+| bip_39_word_dash_12 | magic-bright-property-deposit-pink-radar-milk-pattern-blossom-simple-daring-arch |  
+| bip_39_word_dash_2 | magic-bright |  
+| bip_39_word_dash_3 | magic-bright-property |  
+| bip_39_word_dash_4 | magic-bright-property-deposit |  
+| bip_39_word_dash_5 | magic-bright-property-deposit-pink |  
+| bip_39_word_dash_6 | magic-bright-property-deposit-pink-radar |  
+| bip_39_word_dash_7 | magic-bright-property-deposit-pink-radar-milk |  
+| bip_39_word_dash_8 | magic-bright-property-deposit-pink-radar-milk-pattern |  
+| bip_39_word_dash_9 | magic-bright-property-deposit-pink-radar-milk-pattern-blossom |  
 | bip_39_word_new_br_1 | magic |  
 | bip_39_word_new_br_10 | magic<br>bright<br>property<br>deposit<br>pink<br>radar<br>milk<br>pattern<br>blossom<br>simple |  
 | bip_39_word_new_br_11 | magic<br>bright<br>property<br>deposit<br>pink<br>radar<br>milk<br>pattern<br>blossom<br>simple<br>daring |  
@@ -147,6 +159,18 @@ blossom |
 | bip_39_word_space_7 | magic bright property deposit pink radar milk |  
 | bip_39_word_space_8 | magic bright property deposit pink radar milk pattern |  
 | bip_39_word_space_9 | magic bright property deposit pink radar milk pattern blossom |  
+| bip_39_word_underscore_1 | magic |  
+| bip_39_word_underscore_10 | magic_bright_property_deposit_pink_radar_milk_pattern_blossom_simple |  
+| bip_39_word_underscore_11 | magic_bright_property_deposit_pink_radar_milk_pattern_blossom_simple_daring |  
+| bip_39_word_underscore_12 | magic_bright_property_deposit_pink_radar_milk_pattern_blossom_simple_daring_arch |  
+| bip_39_word_underscore_2 | magic_bright |  
+| bip_39_word_underscore_3 | magic_bright_property |  
+| bip_39_word_underscore_4 | magic_bright_property_deposit |  
+| bip_39_word_underscore_5 | magic_bright_property_deposit_pink |  
+| bip_39_word_underscore_6 | magic_bright_property_deposit_pink_radar |  
+| bip_39_word_underscore_7 | magic_bright_property_deposit_pink_radar_milk |  
+| bip_39_word_underscore_8 | magic_bright_property_deposit_pink_radar_milk_pattern |  
+| bip_39_word_underscore_9 | magic_bright_property_deposit_pink_radar_milk_pattern_blossom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

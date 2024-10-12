@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | funny |  
+| bip_39_word_dash_10 | funny-trim-music-aunt-nephew-gown-inhale-team-service-cry |  
+| bip_39_word_dash_11 | funny-trim-music-aunt-nephew-gown-inhale-team-service-cry-disease |  
+| bip_39_word_dash_12 | funny-trim-music-aunt-nephew-gown-inhale-team-service-cry-disease-angle |  
+| bip_39_word_dash_2 | funny-trim |  
+| bip_39_word_dash_3 | funny-trim-music |  
+| bip_39_word_dash_4 | funny-trim-music-aunt |  
+| bip_39_word_dash_5 | funny-trim-music-aunt-nephew |  
+| bip_39_word_dash_6 | funny-trim-music-aunt-nephew-gown |  
+| bip_39_word_dash_7 | funny-trim-music-aunt-nephew-gown-inhale |  
+| bip_39_word_dash_8 | funny-trim-music-aunt-nephew-gown-inhale-team |  
+| bip_39_word_dash_9 | funny-trim-music-aunt-nephew-gown-inhale-team-service |  
 | bip_39_word_new_br_1 | funny |  
 | bip_39_word_new_br_10 | funny<br>trim<br>music<br>aunt<br>nephew<br>gown<br>inhale<br>team<br>service<br>cry |  
 | bip_39_word_new_br_11 | funny<br>trim<br>music<br>aunt<br>nephew<br>gown<br>inhale<br>team<br>service<br>cry<br>disease |  
@@ -147,6 +159,18 @@ service |
 | bip_39_word_space_7 | funny trim music aunt nephew gown inhale |  
 | bip_39_word_space_8 | funny trim music aunt nephew gown inhale team |  
 | bip_39_word_space_9 | funny trim music aunt nephew gown inhale team service |  
+| bip_39_word_underscore_1 | funny |  
+| bip_39_word_underscore_10 | funny_trim_music_aunt_nephew_gown_inhale_team_service_cry |  
+| bip_39_word_underscore_11 | funny_trim_music_aunt_nephew_gown_inhale_team_service_cry_disease |  
+| bip_39_word_underscore_12 | funny_trim_music_aunt_nephew_gown_inhale_team_service_cry_disease_angle |  
+| bip_39_word_underscore_2 | funny_trim |  
+| bip_39_word_underscore_3 | funny_trim_music |  
+| bip_39_word_underscore_4 | funny_trim_music_aunt |  
+| bip_39_word_underscore_5 | funny_trim_music_aunt_nephew |  
+| bip_39_word_underscore_6 | funny_trim_music_aunt_nephew_gown |  
+| bip_39_word_underscore_7 | funny_trim_music_aunt_nephew_gown_inhale |  
+| bip_39_word_underscore_8 | funny_trim_music_aunt_nephew_gown_inhale_team |  
+| bip_39_word_underscore_9 | funny_trim_music_aunt_nephew_gown_inhale_team_service |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

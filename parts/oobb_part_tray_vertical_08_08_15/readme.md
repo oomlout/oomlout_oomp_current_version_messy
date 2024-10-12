@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rate |  
+| bip_39_word_dash_10 | rate-dwarf-fruit-lizard-dune-breeze-fatal-blush-reform-few |  
+| bip_39_word_dash_11 | rate-dwarf-fruit-lizard-dune-breeze-fatal-blush-reform-few-vivid |  
+| bip_39_word_dash_12 | rate-dwarf-fruit-lizard-dune-breeze-fatal-blush-reform-few-vivid-attract |  
+| bip_39_word_dash_2 | rate-dwarf |  
+| bip_39_word_dash_3 | rate-dwarf-fruit |  
+| bip_39_word_dash_4 | rate-dwarf-fruit-lizard |  
+| bip_39_word_dash_5 | rate-dwarf-fruit-lizard-dune |  
+| bip_39_word_dash_6 | rate-dwarf-fruit-lizard-dune-breeze |  
+| bip_39_word_dash_7 | rate-dwarf-fruit-lizard-dune-breeze-fatal |  
+| bip_39_word_dash_8 | rate-dwarf-fruit-lizard-dune-breeze-fatal-blush |  
+| bip_39_word_dash_9 | rate-dwarf-fruit-lizard-dune-breeze-fatal-blush-reform |  
 | bip_39_word_new_br_1 | rate |  
 | bip_39_word_new_br_10 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush<br>reform<br>few |  
 | bip_39_word_new_br_11 | rate<br>dwarf<br>fruit<br>lizard<br>dune<br>breeze<br>fatal<br>blush<br>reform<br>few<br>vivid |  
@@ -147,6 +159,18 @@ reform |
 | bip_39_word_space_7 | rate dwarf fruit lizard dune breeze fatal |  
 | bip_39_word_space_8 | rate dwarf fruit lizard dune breeze fatal blush |  
 | bip_39_word_space_9 | rate dwarf fruit lizard dune breeze fatal blush reform |  
+| bip_39_word_underscore_1 | rate |  
+| bip_39_word_underscore_10 | rate_dwarf_fruit_lizard_dune_breeze_fatal_blush_reform_few |  
+| bip_39_word_underscore_11 | rate_dwarf_fruit_lizard_dune_breeze_fatal_blush_reform_few_vivid |  
+| bip_39_word_underscore_12 | rate_dwarf_fruit_lizard_dune_breeze_fatal_blush_reform_few_vivid_attract |  
+| bip_39_word_underscore_2 | rate_dwarf |  
+| bip_39_word_underscore_3 | rate_dwarf_fruit |  
+| bip_39_word_underscore_4 | rate_dwarf_fruit_lizard |  
+| bip_39_word_underscore_5 | rate_dwarf_fruit_lizard_dune |  
+| bip_39_word_underscore_6 | rate_dwarf_fruit_lizard_dune_breeze |  
+| bip_39_word_underscore_7 | rate_dwarf_fruit_lizard_dune_breeze_fatal |  
+| bip_39_word_underscore_8 | rate_dwarf_fruit_lizard_dune_breeze_fatal_blush |  
+| bip_39_word_underscore_9 | rate_dwarf_fruit_lizard_dune_breeze_fatal_blush_reform |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

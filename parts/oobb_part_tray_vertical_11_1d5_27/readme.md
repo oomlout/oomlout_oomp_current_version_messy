@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bar |  
+| bip_39_word_dash_10 | bar-crumble-total-fix-trumpet-hard-alien-mystery-share-win |  
+| bip_39_word_dash_11 | bar-crumble-total-fix-trumpet-hard-alien-mystery-share-win-wrist |  
+| bip_39_word_dash_12 | bar-crumble-total-fix-trumpet-hard-alien-mystery-share-win-wrist-account |  
+| bip_39_word_dash_2 | bar-crumble |  
+| bip_39_word_dash_3 | bar-crumble-total |  
+| bip_39_word_dash_4 | bar-crumble-total-fix |  
+| bip_39_word_dash_5 | bar-crumble-total-fix-trumpet |  
+| bip_39_word_dash_6 | bar-crumble-total-fix-trumpet-hard |  
+| bip_39_word_dash_7 | bar-crumble-total-fix-trumpet-hard-alien |  
+| bip_39_word_dash_8 | bar-crumble-total-fix-trumpet-hard-alien-mystery |  
+| bip_39_word_dash_9 | bar-crumble-total-fix-trumpet-hard-alien-mystery-share |  
 | bip_39_word_new_br_1 | bar |  
 | bip_39_word_new_br_10 | bar<br>crumble<br>total<br>fix<br>trumpet<br>hard<br>alien<br>mystery<br>share<br>win |  
 | bip_39_word_new_br_11 | bar<br>crumble<br>total<br>fix<br>trumpet<br>hard<br>alien<br>mystery<br>share<br>win<br>wrist |  
@@ -147,6 +159,18 @@ share |
 | bip_39_word_space_7 | bar crumble total fix trumpet hard alien |  
 | bip_39_word_space_8 | bar crumble total fix trumpet hard alien mystery |  
 | bip_39_word_space_9 | bar crumble total fix trumpet hard alien mystery share |  
+| bip_39_word_underscore_1 | bar |  
+| bip_39_word_underscore_10 | bar_crumble_total_fix_trumpet_hard_alien_mystery_share_win |  
+| bip_39_word_underscore_11 | bar_crumble_total_fix_trumpet_hard_alien_mystery_share_win_wrist |  
+| bip_39_word_underscore_12 | bar_crumble_total_fix_trumpet_hard_alien_mystery_share_win_wrist_account |  
+| bip_39_word_underscore_2 | bar_crumble |  
+| bip_39_word_underscore_3 | bar_crumble_total |  
+| bip_39_word_underscore_4 | bar_crumble_total_fix |  
+| bip_39_word_underscore_5 | bar_crumble_total_fix_trumpet |  
+| bip_39_word_underscore_6 | bar_crumble_total_fix_trumpet_hard |  
+| bip_39_word_underscore_7 | bar_crumble_total_fix_trumpet_hard_alien |  
+| bip_39_word_underscore_8 | bar_crumble_total_fix_trumpet_hard_alien_mystery |  
+| bip_39_word_underscore_9 | bar_crumble_total_fix_trumpet_hard_alien_mystery_share |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

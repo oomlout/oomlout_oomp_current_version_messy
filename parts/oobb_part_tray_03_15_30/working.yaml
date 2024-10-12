@@ -1,3 +1,15 @@
+bip_39_word_dash_1: car
+bip_39_word_dash_10: car-stomach-neutral-devote-liquid-engine-fit-tiger-sail-auto
+bip_39_word_dash_11: car-stomach-neutral-devote-liquid-engine-fit-tiger-sail-auto-ability
+bip_39_word_dash_12: car-stomach-neutral-devote-liquid-engine-fit-tiger-sail-auto-ability-all
+bip_39_word_dash_2: car-stomach
+bip_39_word_dash_3: car-stomach-neutral
+bip_39_word_dash_4: car-stomach-neutral-devote
+bip_39_word_dash_5: car-stomach-neutral-devote-liquid
+bip_39_word_dash_6: car-stomach-neutral-devote-liquid-engine
+bip_39_word_dash_7: car-stomach-neutral-devote-liquid-engine-fit
+bip_39_word_dash_8: car-stomach-neutral-devote-liquid-engine-fit-tiger
+bip_39_word_dash_9: car-stomach-neutral-devote-liquid-engine-fit-tiger-sail
 bip_39_word_new_br_1: car
 bip_39_word_new_br_10: car<br>stomach<br>neutral<br>devote<br>liquid<br>engine<br>fit<br>tiger<br>sail<br>auto
 bip_39_word_new_br_11: car<br>stomach<br>neutral<br>devote<br>liquid<br>engine<br>fit<br>tiger<br>sail<br>auto<br>ability
@@ -193,6 +205,18 @@ bip_39_word_space_6: car stomach neutral devote liquid engine
 bip_39_word_space_7: car stomach neutral devote liquid engine fit
 bip_39_word_space_8: car stomach neutral devote liquid engine fit tiger
 bip_39_word_space_9: car stomach neutral devote liquid engine fit tiger sail
+bip_39_word_underscore_1: car
+bip_39_word_underscore_10: car_stomach_neutral_devote_liquid_engine_fit_tiger_sail_auto
+bip_39_word_underscore_11: car_stomach_neutral_devote_liquid_engine_fit_tiger_sail_auto_ability
+bip_39_word_underscore_12: car_stomach_neutral_devote_liquid_engine_fit_tiger_sail_auto_ability_all
+bip_39_word_underscore_2: car_stomach
+bip_39_word_underscore_3: car_stomach_neutral
+bip_39_word_underscore_4: car_stomach_neutral_devote
+bip_39_word_underscore_5: car_stomach_neutral_devote_liquid
+bip_39_word_underscore_6: car_stomach_neutral_devote_liquid_engine
+bip_39_word_underscore_7: car_stomach_neutral_devote_liquid_engine_fit
+bip_39_word_underscore_8: car_stomach_neutral_devote_liquid_engine_fit_tiger
+bip_39_word_underscore_9: car_stomach_neutral_devote_liquid_engine_fit_tiger_sail
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

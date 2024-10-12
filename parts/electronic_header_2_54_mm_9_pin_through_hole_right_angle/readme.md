@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pear |  
+| bip_39_word_dash_10 | pear-dignity-panda-airport-nice-muffin-until-latin-twenty-stove |  
+| bip_39_word_dash_11 | pear-dignity-panda-airport-nice-muffin-until-latin-twenty-stove-patrol |  
+| bip_39_word_dash_12 | pear-dignity-panda-airport-nice-muffin-until-latin-twenty-stove-patrol-allow |  
+| bip_39_word_dash_2 | pear-dignity |  
+| bip_39_word_dash_3 | pear-dignity-panda |  
+| bip_39_word_dash_4 | pear-dignity-panda-airport |  
+| bip_39_word_dash_5 | pear-dignity-panda-airport-nice |  
+| bip_39_word_dash_6 | pear-dignity-panda-airport-nice-muffin |  
+| bip_39_word_dash_7 | pear-dignity-panda-airport-nice-muffin-until |  
+| bip_39_word_dash_8 | pear-dignity-panda-airport-nice-muffin-until-latin |  
+| bip_39_word_dash_9 | pear-dignity-panda-airport-nice-muffin-until-latin-twenty |  
 | bip_39_word_new_br_1 | pear |  
 | bip_39_word_new_br_10 | pear<br>dignity<br>panda<br>airport<br>nice<br>muffin<br>until<br>latin<br>twenty<br>stove |  
 | bip_39_word_new_br_11 | pear<br>dignity<br>panda<br>airport<br>nice<br>muffin<br>until<br>latin<br>twenty<br>stove<br>patrol |  
@@ -147,6 +159,18 @@ twenty |
 | bip_39_word_space_7 | pear dignity panda airport nice muffin until |  
 | bip_39_word_space_8 | pear dignity panda airport nice muffin until latin |  
 | bip_39_word_space_9 | pear dignity panda airport nice muffin until latin twenty |  
+| bip_39_word_underscore_1 | pear |  
+| bip_39_word_underscore_10 | pear_dignity_panda_airport_nice_muffin_until_latin_twenty_stove |  
+| bip_39_word_underscore_11 | pear_dignity_panda_airport_nice_muffin_until_latin_twenty_stove_patrol |  
+| bip_39_word_underscore_12 | pear_dignity_panda_airport_nice_muffin_until_latin_twenty_stove_patrol_allow |  
+| bip_39_word_underscore_2 | pear_dignity |  
+| bip_39_word_underscore_3 | pear_dignity_panda |  
+| bip_39_word_underscore_4 | pear_dignity_panda_airport |  
+| bip_39_word_underscore_5 | pear_dignity_panda_airport_nice |  
+| bip_39_word_underscore_6 | pear_dignity_panda_airport_nice_muffin |  
+| bip_39_word_underscore_7 | pear_dignity_panda_airport_nice_muffin_until |  
+| bip_39_word_underscore_8 | pear_dignity_panda_airport_nice_muffin_until_latin |  
+| bip_39_word_underscore_9 | pear_dignity_panda_airport_nice_muffin_until_latin_twenty |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

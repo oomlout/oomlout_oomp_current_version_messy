@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lava |  
+| bip_39_word_dash_10 | lava-delay-turtle-coin-idle-detect-mercy-route-desert-swamp |  
+| bip_39_word_dash_11 | lava-delay-turtle-coin-idle-detect-mercy-route-desert-swamp-hen |  
+| bip_39_word_dash_12 | lava-delay-turtle-coin-idle-detect-mercy-route-desert-swamp-hen-air |  
+| bip_39_word_dash_2 | lava-delay |  
+| bip_39_word_dash_3 | lava-delay-turtle |  
+| bip_39_word_dash_4 | lava-delay-turtle-coin |  
+| bip_39_word_dash_5 | lava-delay-turtle-coin-idle |  
+| bip_39_word_dash_6 | lava-delay-turtle-coin-idle-detect |  
+| bip_39_word_dash_7 | lava-delay-turtle-coin-idle-detect-mercy |  
+| bip_39_word_dash_8 | lava-delay-turtle-coin-idle-detect-mercy-route |  
+| bip_39_word_dash_9 | lava-delay-turtle-coin-idle-detect-mercy-route-desert |  
 | bip_39_word_new_br_1 | lava |  
 | bip_39_word_new_br_10 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp |  
 | bip_39_word_new_br_11 | lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp<br>hen |  
@@ -147,6 +159,18 @@ desert |
 | bip_39_word_space_7 | lava delay turtle coin idle detect mercy |  
 | bip_39_word_space_8 | lava delay turtle coin idle detect mercy route |  
 | bip_39_word_space_9 | lava delay turtle coin idle detect mercy route desert |  
+| bip_39_word_underscore_1 | lava |  
+| bip_39_word_underscore_10 | lava_delay_turtle_coin_idle_detect_mercy_route_desert_swamp |  
+| bip_39_word_underscore_11 | lava_delay_turtle_coin_idle_detect_mercy_route_desert_swamp_hen |  
+| bip_39_word_underscore_12 | lava_delay_turtle_coin_idle_detect_mercy_route_desert_swamp_hen_air |  
+| bip_39_word_underscore_2 | lava_delay |  
+| bip_39_word_underscore_3 | lava_delay_turtle |  
+| bip_39_word_underscore_4 | lava_delay_turtle_coin |  
+| bip_39_word_underscore_5 | lava_delay_turtle_coin_idle |  
+| bip_39_word_underscore_6 | lava_delay_turtle_coin_idle_detect |  
+| bip_39_word_underscore_7 | lava_delay_turtle_coin_idle_detect_mercy |  
+| bip_39_word_underscore_8 | lava_delay_turtle_coin_idle_detect_mercy_route |  
+| bip_39_word_underscore_9 | lava_delay_turtle_coin_idle_detect_mercy_route_desert |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

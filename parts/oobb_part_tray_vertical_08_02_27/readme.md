@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cause |  
+| bip_39_word_dash_10 | cause-virtual-angle-opinion-planet-shallow-remind-awful-state-enter |  
+| bip_39_word_dash_11 | cause-virtual-angle-opinion-planet-shallow-remind-awful-state-enter-shy |  
+| bip_39_word_dash_12 | cause-virtual-angle-opinion-planet-shallow-remind-awful-state-enter-shy-argue |  
+| bip_39_word_dash_2 | cause-virtual |  
+| bip_39_word_dash_3 | cause-virtual-angle |  
+| bip_39_word_dash_4 | cause-virtual-angle-opinion |  
+| bip_39_word_dash_5 | cause-virtual-angle-opinion-planet |  
+| bip_39_word_dash_6 | cause-virtual-angle-opinion-planet-shallow |  
+| bip_39_word_dash_7 | cause-virtual-angle-opinion-planet-shallow-remind |  
+| bip_39_word_dash_8 | cause-virtual-angle-opinion-planet-shallow-remind-awful |  
+| bip_39_word_dash_9 | cause-virtual-angle-opinion-planet-shallow-remind-awful-state |  
 | bip_39_word_new_br_1 | cause |  
 | bip_39_word_new_br_10 | cause<br>virtual<br>angle<br>opinion<br>planet<br>shallow<br>remind<br>awful<br>state<br>enter |  
 | bip_39_word_new_br_11 | cause<br>virtual<br>angle<br>opinion<br>planet<br>shallow<br>remind<br>awful<br>state<br>enter<br>shy |  
@@ -147,6 +159,18 @@ state |
 | bip_39_word_space_7 | cause virtual angle opinion planet shallow remind |  
 | bip_39_word_space_8 | cause virtual angle opinion planet shallow remind awful |  
 | bip_39_word_space_9 | cause virtual angle opinion planet shallow remind awful state |  
+| bip_39_word_underscore_1 | cause |  
+| bip_39_word_underscore_10 | cause_virtual_angle_opinion_planet_shallow_remind_awful_state_enter |  
+| bip_39_word_underscore_11 | cause_virtual_angle_opinion_planet_shallow_remind_awful_state_enter_shy |  
+| bip_39_word_underscore_12 | cause_virtual_angle_opinion_planet_shallow_remind_awful_state_enter_shy_argue |  
+| bip_39_word_underscore_2 | cause_virtual |  
+| bip_39_word_underscore_3 | cause_virtual_angle |  
+| bip_39_word_underscore_4 | cause_virtual_angle_opinion |  
+| bip_39_word_underscore_5 | cause_virtual_angle_opinion_planet |  
+| bip_39_word_underscore_6 | cause_virtual_angle_opinion_planet_shallow |  
+| bip_39_word_underscore_7 | cause_virtual_angle_opinion_planet_shallow_remind |  
+| bip_39_word_underscore_8 | cause_virtual_angle_opinion_planet_shallow_remind_awful |  
+| bip_39_word_underscore_9 | cause_virtual_angle_opinion_planet_shallow_remind_awful_state |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

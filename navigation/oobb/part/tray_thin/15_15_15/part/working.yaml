@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tank
+bip_39_word_dash_10: tank-giggle-bind-above-busy-deputy-custom-bless-sword-wild
+bip_39_word_dash_11: tank-giggle-bind-above-busy-deputy-custom-bless-sword-wild-injury
+bip_39_word_dash_12: tank-giggle-bind-above-busy-deputy-custom-bless-sword-wild-injury-advance
+bip_39_word_dash_2: tank-giggle
+bip_39_word_dash_3: tank-giggle-bind
+bip_39_word_dash_4: tank-giggle-bind-above
+bip_39_word_dash_5: tank-giggle-bind-above-busy
+bip_39_word_dash_6: tank-giggle-bind-above-busy-deputy
+bip_39_word_dash_7: tank-giggle-bind-above-busy-deputy-custom
+bip_39_word_dash_8: tank-giggle-bind-above-busy-deputy-custom-bless
+bip_39_word_dash_9: tank-giggle-bind-above-busy-deputy-custom-bless-sword
 bip_39_word_new_br_1: tank
 bip_39_word_new_br_10: tank<br>giggle<br>bind<br>above<br>busy<br>deputy<br>custom<br>bless<br>sword<br>wild
 bip_39_word_new_br_11: tank<br>giggle<br>bind<br>above<br>busy<br>deputy<br>custom<br>bless<br>sword<br>wild<br>injury
@@ -192,6 +204,18 @@ bip_39_word_space_6: tank giggle bind above busy deputy
 bip_39_word_space_7: tank giggle bind above busy deputy custom
 bip_39_word_space_8: tank giggle bind above busy deputy custom bless
 bip_39_word_space_9: tank giggle bind above busy deputy custom bless sword
+bip_39_word_underscore_1: tank
+bip_39_word_underscore_10: tank_giggle_bind_above_busy_deputy_custom_bless_sword_wild
+bip_39_word_underscore_11: tank_giggle_bind_above_busy_deputy_custom_bless_sword_wild_injury
+bip_39_word_underscore_12: tank_giggle_bind_above_busy_deputy_custom_bless_sword_wild_injury_advance
+bip_39_word_underscore_2: tank_giggle
+bip_39_word_underscore_3: tank_giggle_bind
+bip_39_word_underscore_4: tank_giggle_bind_above
+bip_39_word_underscore_5: tank_giggle_bind_above_busy
+bip_39_word_underscore_6: tank_giggle_bind_above_busy_deputy
+bip_39_word_underscore_7: tank_giggle_bind_above_busy_deputy_custom
+bip_39_word_underscore_8: tank_giggle_bind_above_busy_deputy_custom_bless
+bip_39_word_underscore_9: tank_giggle_bind_above_busy_deputy_custom_bless_sword
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

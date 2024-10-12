@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diary |  
+| bip_39_word_dash_10 | diary-slab-mistake-narrow-flavor-toss-word-increase-economy-cricket |  
+| bip_39_word_dash_11 | diary-slab-mistake-narrow-flavor-toss-word-increase-economy-cricket-visual |  
+| bip_39_word_dash_12 | diary-slab-mistake-narrow-flavor-toss-word-increase-economy-cricket-visual-asset |  
+| bip_39_word_dash_2 | diary-slab |  
+| bip_39_word_dash_3 | diary-slab-mistake |  
+| bip_39_word_dash_4 | diary-slab-mistake-narrow |  
+| bip_39_word_dash_5 | diary-slab-mistake-narrow-flavor |  
+| bip_39_word_dash_6 | diary-slab-mistake-narrow-flavor-toss |  
+| bip_39_word_dash_7 | diary-slab-mistake-narrow-flavor-toss-word |  
+| bip_39_word_dash_8 | diary-slab-mistake-narrow-flavor-toss-word-increase |  
+| bip_39_word_dash_9 | diary-slab-mistake-narrow-flavor-toss-word-increase-economy |  
 | bip_39_word_new_br_1 | diary |  
 | bip_39_word_new_br_10 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase<br>economy<br>cricket |  
 | bip_39_word_new_br_11 | diary<br>slab<br>mistake<br>narrow<br>flavor<br>toss<br>word<br>increase<br>economy<br>cricket<br>visual |  
@@ -147,6 +159,18 @@ economy |
 | bip_39_word_space_7 | diary slab mistake narrow flavor toss word |  
 | bip_39_word_space_8 | diary slab mistake narrow flavor toss word increase |  
 | bip_39_word_space_9 | diary slab mistake narrow flavor toss word increase economy |  
+| bip_39_word_underscore_1 | diary |  
+| bip_39_word_underscore_10 | diary_slab_mistake_narrow_flavor_toss_word_increase_economy_cricket |  
+| bip_39_word_underscore_11 | diary_slab_mistake_narrow_flavor_toss_word_increase_economy_cricket_visual |  
+| bip_39_word_underscore_12 | diary_slab_mistake_narrow_flavor_toss_word_increase_economy_cricket_visual_asset |  
+| bip_39_word_underscore_2 | diary_slab |  
+| bip_39_word_underscore_3 | diary_slab_mistake |  
+| bip_39_word_underscore_4 | diary_slab_mistake_narrow |  
+| bip_39_word_underscore_5 | diary_slab_mistake_narrow_flavor |  
+| bip_39_word_underscore_6 | diary_slab_mistake_narrow_flavor_toss |  
+| bip_39_word_underscore_7 | diary_slab_mistake_narrow_flavor_toss_word |  
+| bip_39_word_underscore_8 | diary_slab_mistake_narrow_flavor_toss_word_increase |  
+| bip_39_word_underscore_9 | diary_slab_mistake_narrow_flavor_toss_word_increase_economy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

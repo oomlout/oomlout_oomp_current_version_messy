@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sport |  
+| bip_39_word_dash_10 | sport-predict-brave-creek-sphere-trigger-degree-junk-kind-swear |  
+| bip_39_word_dash_11 | sport-predict-brave-creek-sphere-trigger-degree-junk-kind-swear-cave |  
+| bip_39_word_dash_12 | sport-predict-brave-creek-sphere-trigger-degree-junk-kind-swear-cave-album |  
+| bip_39_word_dash_2 | sport-predict |  
+| bip_39_word_dash_3 | sport-predict-brave |  
+| bip_39_word_dash_4 | sport-predict-brave-creek |  
+| bip_39_word_dash_5 | sport-predict-brave-creek-sphere |  
+| bip_39_word_dash_6 | sport-predict-brave-creek-sphere-trigger |  
+| bip_39_word_dash_7 | sport-predict-brave-creek-sphere-trigger-degree |  
+| bip_39_word_dash_8 | sport-predict-brave-creek-sphere-trigger-degree-junk |  
+| bip_39_word_dash_9 | sport-predict-brave-creek-sphere-trigger-degree-junk-kind |  
 | bip_39_word_new_br_1 | sport |  
 | bip_39_word_new_br_10 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear |  
 | bip_39_word_new_br_11 | sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear<br>cave |  
@@ -147,6 +159,18 @@ kind |
 | bip_39_word_space_7 | sport predict brave creek sphere trigger degree |  
 | bip_39_word_space_8 | sport predict brave creek sphere trigger degree junk |  
 | bip_39_word_space_9 | sport predict brave creek sphere trigger degree junk kind |  
+| bip_39_word_underscore_1 | sport |  
+| bip_39_word_underscore_10 | sport_predict_brave_creek_sphere_trigger_degree_junk_kind_swear |  
+| bip_39_word_underscore_11 | sport_predict_brave_creek_sphere_trigger_degree_junk_kind_swear_cave |  
+| bip_39_word_underscore_12 | sport_predict_brave_creek_sphere_trigger_degree_junk_kind_swear_cave_album |  
+| bip_39_word_underscore_2 | sport_predict |  
+| bip_39_word_underscore_3 | sport_predict_brave |  
+| bip_39_word_underscore_4 | sport_predict_brave_creek |  
+| bip_39_word_underscore_5 | sport_predict_brave_creek_sphere |  
+| bip_39_word_underscore_6 | sport_predict_brave_creek_sphere_trigger |  
+| bip_39_word_underscore_7 | sport_predict_brave_creek_sphere_trigger_degree |  
+| bip_39_word_underscore_8 | sport_predict_brave_creek_sphere_trigger_degree_junk |  
+| bip_39_word_underscore_9 | sport_predict_brave_creek_sphere_trigger_degree_junk_kind |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

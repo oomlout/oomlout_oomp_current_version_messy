@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | display |  
+| bip_39_word_dash_10 | display-patient-witness-bracket-original-sugar-army-sick-output-south |  
+| bip_39_word_dash_11 | display-patient-witness-bracket-original-sugar-army-sick-output-south-embark |  
+| bip_39_word_dash_12 | display-patient-witness-bracket-original-sugar-army-sick-output-south-embark-april |  
+| bip_39_word_dash_2 | display-patient |  
+| bip_39_word_dash_3 | display-patient-witness |  
+| bip_39_word_dash_4 | display-patient-witness-bracket |  
+| bip_39_word_dash_5 | display-patient-witness-bracket-original |  
+| bip_39_word_dash_6 | display-patient-witness-bracket-original-sugar |  
+| bip_39_word_dash_7 | display-patient-witness-bracket-original-sugar-army |  
+| bip_39_word_dash_8 | display-patient-witness-bracket-original-sugar-army-sick |  
+| bip_39_word_dash_9 | display-patient-witness-bracket-original-sugar-army-sick-output |  
 | bip_39_word_new_br_1 | display |  
 | bip_39_word_new_br_10 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south |  
 | bip_39_word_new_br_11 | display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south<br>embark |  
@@ -147,6 +159,18 @@ output |
 | bip_39_word_space_7 | display patient witness bracket original sugar army |  
 | bip_39_word_space_8 | display patient witness bracket original sugar army sick |  
 | bip_39_word_space_9 | display patient witness bracket original sugar army sick output |  
+| bip_39_word_underscore_1 | display |  
+| bip_39_word_underscore_10 | display_patient_witness_bracket_original_sugar_army_sick_output_south |  
+| bip_39_word_underscore_11 | display_patient_witness_bracket_original_sugar_army_sick_output_south_embark |  
+| bip_39_word_underscore_12 | display_patient_witness_bracket_original_sugar_army_sick_output_south_embark_april |  
+| bip_39_word_underscore_2 | display_patient |  
+| bip_39_word_underscore_3 | display_patient_witness |  
+| bip_39_word_underscore_4 | display_patient_witness_bracket |  
+| bip_39_word_underscore_5 | display_patient_witness_bracket_original |  
+| bip_39_word_underscore_6 | display_patient_witness_bracket_original_sugar |  
+| bip_39_word_underscore_7 | display_patient_witness_bracket_original_sugar_army |  
+| bip_39_word_underscore_8 | display_patient_witness_bracket_original_sugar_army_sick |  
+| bip_39_word_underscore_9 | display_patient_witness_bracket_original_sugar_army_sick_output |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

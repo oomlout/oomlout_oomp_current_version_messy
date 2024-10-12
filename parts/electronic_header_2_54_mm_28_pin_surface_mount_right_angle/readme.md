@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kite |  
+| bip_39_word_dash_10 | kite-start-judge-recall-wasp-toward-cause-solid-trust-turkey |  
+| bip_39_word_dash_11 | kite-start-judge-recall-wasp-toward-cause-solid-trust-turkey-table |  
+| bip_39_word_dash_12 | kite-start-judge-recall-wasp-toward-cause-solid-trust-turkey-table-average |  
+| bip_39_word_dash_2 | kite-start |  
+| bip_39_word_dash_3 | kite-start-judge |  
+| bip_39_word_dash_4 | kite-start-judge-recall |  
+| bip_39_word_dash_5 | kite-start-judge-recall-wasp |  
+| bip_39_word_dash_6 | kite-start-judge-recall-wasp-toward |  
+| bip_39_word_dash_7 | kite-start-judge-recall-wasp-toward-cause |  
+| bip_39_word_dash_8 | kite-start-judge-recall-wasp-toward-cause-solid |  
+| bip_39_word_dash_9 | kite-start-judge-recall-wasp-toward-cause-solid-trust |  
 | bip_39_word_new_br_1 | kite |  
 | bip_39_word_new_br_10 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey |  
 | bip_39_word_new_br_11 | kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey<br>table |  
@@ -147,6 +159,18 @@ trust |
 | bip_39_word_space_7 | kite start judge recall wasp toward cause |  
 | bip_39_word_space_8 | kite start judge recall wasp toward cause solid |  
 | bip_39_word_space_9 | kite start judge recall wasp toward cause solid trust |  
+| bip_39_word_underscore_1 | kite |  
+| bip_39_word_underscore_10 | kite_start_judge_recall_wasp_toward_cause_solid_trust_turkey |  
+| bip_39_word_underscore_11 | kite_start_judge_recall_wasp_toward_cause_solid_trust_turkey_table |  
+| bip_39_word_underscore_12 | kite_start_judge_recall_wasp_toward_cause_solid_trust_turkey_table_average |  
+| bip_39_word_underscore_2 | kite_start |  
+| bip_39_word_underscore_3 | kite_start_judge |  
+| bip_39_word_underscore_4 | kite_start_judge_recall |  
+| bip_39_word_underscore_5 | kite_start_judge_recall_wasp |  
+| bip_39_word_underscore_6 | kite_start_judge_recall_wasp_toward |  
+| bip_39_word_underscore_7 | kite_start_judge_recall_wasp_toward_cause |  
+| bip_39_word_underscore_8 | kite_start_judge_recall_wasp_toward_cause_solid |  
+| bip_39_word_underscore_9 | kite_start_judge_recall_wasp_toward_cause_solid_trust |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shove |  
+| bip_39_word_dash_10 | shove-nominee-decrease-giraffe-collect-acid-logic-attitude-finger-power |  
+| bip_39_word_dash_11 | shove-nominee-decrease-giraffe-collect-acid-logic-attitude-finger-power-hello |  
+| bip_39_word_dash_12 | shove-nominee-decrease-giraffe-collect-acid-logic-attitude-finger-power-hello-able |  
+| bip_39_word_dash_2 | shove-nominee |  
+| bip_39_word_dash_3 | shove-nominee-decrease |  
+| bip_39_word_dash_4 | shove-nominee-decrease-giraffe |  
+| bip_39_word_dash_5 | shove-nominee-decrease-giraffe-collect |  
+| bip_39_word_dash_6 | shove-nominee-decrease-giraffe-collect-acid |  
+| bip_39_word_dash_7 | shove-nominee-decrease-giraffe-collect-acid-logic |  
+| bip_39_word_dash_8 | shove-nominee-decrease-giraffe-collect-acid-logic-attitude |  
+| bip_39_word_dash_9 | shove-nominee-decrease-giraffe-collect-acid-logic-attitude-finger |  
 | bip_39_word_new_br_1 | shove |  
 | bip_39_word_new_br_10 | shove<br>nominee<br>decrease<br>giraffe<br>collect<br>acid<br>logic<br>attitude<br>finger<br>power |  
 | bip_39_word_new_br_11 | shove<br>nominee<br>decrease<br>giraffe<br>collect<br>acid<br>logic<br>attitude<br>finger<br>power<br>hello |  
@@ -147,6 +159,18 @@ finger |
 | bip_39_word_space_7 | shove nominee decrease giraffe collect acid logic |  
 | bip_39_word_space_8 | shove nominee decrease giraffe collect acid logic attitude |  
 | bip_39_word_space_9 | shove nominee decrease giraffe collect acid logic attitude finger |  
+| bip_39_word_underscore_1 | shove |  
+| bip_39_word_underscore_10 | shove_nominee_decrease_giraffe_collect_acid_logic_attitude_finger_power |  
+| bip_39_word_underscore_11 | shove_nominee_decrease_giraffe_collect_acid_logic_attitude_finger_power_hello |  
+| bip_39_word_underscore_12 | shove_nominee_decrease_giraffe_collect_acid_logic_attitude_finger_power_hello_able |  
+| bip_39_word_underscore_2 | shove_nominee |  
+| bip_39_word_underscore_3 | shove_nominee_decrease |  
+| bip_39_word_underscore_4 | shove_nominee_decrease_giraffe |  
+| bip_39_word_underscore_5 | shove_nominee_decrease_giraffe_collect |  
+| bip_39_word_underscore_6 | shove_nominee_decrease_giraffe_collect_acid |  
+| bip_39_word_underscore_7 | shove_nominee_decrease_giraffe_collect_acid_logic |  
+| bip_39_word_underscore_8 | shove_nominee_decrease_giraffe_collect_acid_logic_attitude |  
+| bip_39_word_underscore_9 | shove_nominee_decrease_giraffe_collect_acid_logic_attitude_finger |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

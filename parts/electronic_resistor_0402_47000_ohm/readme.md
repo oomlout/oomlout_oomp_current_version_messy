@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | field |  
+| bip_39_word_dash_10 | field-rib-interest-sight-during-mesh-series-dentist-chase-bronze |  
+| bip_39_word_dash_11 | field-rib-interest-sight-during-mesh-series-dentist-chase-bronze-chair |  
+| bip_39_word_dash_12 | field-rib-interest-sight-during-mesh-series-dentist-chase-bronze-chair-attitude |  
+| bip_39_word_dash_2 | field-rib |  
+| bip_39_word_dash_3 | field-rib-interest |  
+| bip_39_word_dash_4 | field-rib-interest-sight |  
+| bip_39_word_dash_5 | field-rib-interest-sight-during |  
+| bip_39_word_dash_6 | field-rib-interest-sight-during-mesh |  
+| bip_39_word_dash_7 | field-rib-interest-sight-during-mesh-series |  
+| bip_39_word_dash_8 | field-rib-interest-sight-during-mesh-series-dentist |  
+| bip_39_word_dash_9 | field-rib-interest-sight-during-mesh-series-dentist-chase |  
 | bip_39_word_new_br_1 | field |  
 | bip_39_word_new_br_10 | field<br>rib<br>interest<br>sight<br>during<br>mesh<br>series<br>dentist<br>chase<br>bronze |  
 | bip_39_word_new_br_11 | field<br>rib<br>interest<br>sight<br>during<br>mesh<br>series<br>dentist<br>chase<br>bronze<br>chair |  
@@ -147,6 +159,18 @@ chase |
 | bip_39_word_space_7 | field rib interest sight during mesh series |  
 | bip_39_word_space_8 | field rib interest sight during mesh series dentist |  
 | bip_39_word_space_9 | field rib interest sight during mesh series dentist chase |  
+| bip_39_word_underscore_1 | field |  
+| bip_39_word_underscore_10 | field_rib_interest_sight_during_mesh_series_dentist_chase_bronze |  
+| bip_39_word_underscore_11 | field_rib_interest_sight_during_mesh_series_dentist_chase_bronze_chair |  
+| bip_39_word_underscore_12 | field_rib_interest_sight_during_mesh_series_dentist_chase_bronze_chair_attitude |  
+| bip_39_word_underscore_2 | field_rib |  
+| bip_39_word_underscore_3 | field_rib_interest |  
+| bip_39_word_underscore_4 | field_rib_interest_sight |  
+| bip_39_word_underscore_5 | field_rib_interest_sight_during |  
+| bip_39_word_underscore_6 | field_rib_interest_sight_during_mesh |  
+| bip_39_word_underscore_7 | field_rib_interest_sight_during_mesh_series |  
+| bip_39_word_underscore_8 | field_rib_interest_sight_during_mesh_series_dentist |  
+| bip_39_word_underscore_9 | field_rib_interest_sight_during_mesh_series_dentist_chase |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

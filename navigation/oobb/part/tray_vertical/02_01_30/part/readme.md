@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | program |  
+| bip_39_word_dash_10 | program-drill-behind-device-machine-shop-noble-exist-extend-sudden |  
+| bip_39_word_dash_11 | program-drill-behind-device-machine-shop-noble-exist-extend-sudden-deal |  
+| bip_39_word_dash_12 | program-drill-behind-device-machine-shop-noble-exist-extend-sudden-deal-advance |  
+| bip_39_word_dash_2 | program-drill |  
+| bip_39_word_dash_3 | program-drill-behind |  
+| bip_39_word_dash_4 | program-drill-behind-device |  
+| bip_39_word_dash_5 | program-drill-behind-device-machine |  
+| bip_39_word_dash_6 | program-drill-behind-device-machine-shop |  
+| bip_39_word_dash_7 | program-drill-behind-device-machine-shop-noble |  
+| bip_39_word_dash_8 | program-drill-behind-device-machine-shop-noble-exist |  
+| bip_39_word_dash_9 | program-drill-behind-device-machine-shop-noble-exist-extend |  
 | bip_39_word_new_br_1 | program |  
 | bip_39_word_new_br_10 | program<br>drill<br>behind<br>device<br>machine<br>shop<br>noble<br>exist<br>extend<br>sudden |  
 | bip_39_word_new_br_11 | program<br>drill<br>behind<br>device<br>machine<br>shop<br>noble<br>exist<br>extend<br>sudden<br>deal |  
@@ -147,6 +159,18 @@ extend |
 | bip_39_word_space_7 | program drill behind device machine shop noble |  
 | bip_39_word_space_8 | program drill behind device machine shop noble exist |  
 | bip_39_word_space_9 | program drill behind device machine shop noble exist extend |  
+| bip_39_word_underscore_1 | program |  
+| bip_39_word_underscore_10 | program_drill_behind_device_machine_shop_noble_exist_extend_sudden |  
+| bip_39_word_underscore_11 | program_drill_behind_device_machine_shop_noble_exist_extend_sudden_deal |  
+| bip_39_word_underscore_12 | program_drill_behind_device_machine_shop_noble_exist_extend_sudden_deal_advance |  
+| bip_39_word_underscore_2 | program_drill |  
+| bip_39_word_underscore_3 | program_drill_behind |  
+| bip_39_word_underscore_4 | program_drill_behind_device |  
+| bip_39_word_underscore_5 | program_drill_behind_device_machine |  
+| bip_39_word_underscore_6 | program_drill_behind_device_machine_shop |  
+| bip_39_word_underscore_7 | program_drill_behind_device_machine_shop_noble |  
+| bip_39_word_underscore_8 | program_drill_behind_device_machine_shop_noble_exist |  
+| bip_39_word_underscore_9 | program_drill_behind_device_machine_shop_noble_exist_extend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

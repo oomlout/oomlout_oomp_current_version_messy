@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | common |  
+| bip_39_word_dash_10 | common-build-island-ring-age-wrestle-tortoise-build-impulse-gauge |  
+| bip_39_word_dash_11 | common-build-island-ring-age-wrestle-tortoise-build-impulse-gauge-glue |  
+| bip_39_word_dash_12 | common-build-island-ring-age-wrestle-tortoise-build-impulse-gauge-glue-attract |  
+| bip_39_word_dash_2 | common-build |  
+| bip_39_word_dash_3 | common-build-island |  
+| bip_39_word_dash_4 | common-build-island-ring |  
+| bip_39_word_dash_5 | common-build-island-ring-age |  
+| bip_39_word_dash_6 | common-build-island-ring-age-wrestle |  
+| bip_39_word_dash_7 | common-build-island-ring-age-wrestle-tortoise |  
+| bip_39_word_dash_8 | common-build-island-ring-age-wrestle-tortoise-build |  
+| bip_39_word_dash_9 | common-build-island-ring-age-wrestle-tortoise-build-impulse |  
 | bip_39_word_new_br_1 | common |  
 | bip_39_word_new_br_10 | common<br>build<br>island<br>ring<br>age<br>wrestle<br>tortoise<br>build<br>impulse<br>gauge |  
 | bip_39_word_new_br_11 | common<br>build<br>island<br>ring<br>age<br>wrestle<br>tortoise<br>build<br>impulse<br>gauge<br>glue |  
@@ -147,6 +159,18 @@ impulse |
 | bip_39_word_space_7 | common build island ring age wrestle tortoise |  
 | bip_39_word_space_8 | common build island ring age wrestle tortoise build |  
 | bip_39_word_space_9 | common build island ring age wrestle tortoise build impulse |  
+| bip_39_word_underscore_1 | common |  
+| bip_39_word_underscore_10 | common_build_island_ring_age_wrestle_tortoise_build_impulse_gauge |  
+| bip_39_word_underscore_11 | common_build_island_ring_age_wrestle_tortoise_build_impulse_gauge_glue |  
+| bip_39_word_underscore_12 | common_build_island_ring_age_wrestle_tortoise_build_impulse_gauge_glue_attract |  
+| bip_39_word_underscore_2 | common_build |  
+| bip_39_word_underscore_3 | common_build_island |  
+| bip_39_word_underscore_4 | common_build_island_ring |  
+| bip_39_word_underscore_5 | common_build_island_ring_age |  
+| bip_39_word_underscore_6 | common_build_island_ring_age_wrestle |  
+| bip_39_word_underscore_7 | common_build_island_ring_age_wrestle_tortoise |  
+| bip_39_word_underscore_8 | common_build_island_ring_age_wrestle_tortoise_build |  
+| bip_39_word_underscore_9 | common_build_island_ring_age_wrestle_tortoise_build_impulse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

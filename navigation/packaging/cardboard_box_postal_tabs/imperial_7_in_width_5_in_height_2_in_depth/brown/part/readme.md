@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | family |  
+| bip_39_word_dash_10 | family-weird-budget-casino-dignity-book-online-fox-bitter-omit |  
+| bip_39_word_dash_11 | family-weird-budget-casino-dignity-book-online-fox-bitter-omit-own |  
+| bip_39_word_dash_12 | family-weird-budget-casino-dignity-book-online-fox-bitter-omit-own-around |  
+| bip_39_word_dash_2 | family-weird |  
+| bip_39_word_dash_3 | family-weird-budget |  
+| bip_39_word_dash_4 | family-weird-budget-casino |  
+| bip_39_word_dash_5 | family-weird-budget-casino-dignity |  
+| bip_39_word_dash_6 | family-weird-budget-casino-dignity-book |  
+| bip_39_word_dash_7 | family-weird-budget-casino-dignity-book-online |  
+| bip_39_word_dash_8 | family-weird-budget-casino-dignity-book-online-fox |  
+| bip_39_word_dash_9 | family-weird-budget-casino-dignity-book-online-fox-bitter |  
 | bip_39_word_new_br_1 | family |  
 | bip_39_word_new_br_10 | family<br>weird<br>budget<br>casino<br>dignity<br>book<br>online<br>fox<br>bitter<br>omit |  
 | bip_39_word_new_br_11 | family<br>weird<br>budget<br>casino<br>dignity<br>book<br>online<br>fox<br>bitter<br>omit<br>own |  
@@ -147,6 +159,18 @@ bitter |
 | bip_39_word_space_7 | family weird budget casino dignity book online |  
 | bip_39_word_space_8 | family weird budget casino dignity book online fox |  
 | bip_39_word_space_9 | family weird budget casino dignity book online fox bitter |  
+| bip_39_word_underscore_1 | family |  
+| bip_39_word_underscore_10 | family_weird_budget_casino_dignity_book_online_fox_bitter_omit |  
+| bip_39_word_underscore_11 | family_weird_budget_casino_dignity_book_online_fox_bitter_omit_own |  
+| bip_39_word_underscore_12 | family_weird_budget_casino_dignity_book_online_fox_bitter_omit_own_around |  
+| bip_39_word_underscore_2 | family_weird |  
+| bip_39_word_underscore_3 | family_weird_budget |  
+| bip_39_word_underscore_4 | family_weird_budget_casino |  
+| bip_39_word_underscore_5 | family_weird_budget_casino_dignity |  
+| bip_39_word_underscore_6 | family_weird_budget_casino_dignity_book |  
+| bip_39_word_underscore_7 | family_weird_budget_casino_dignity_book_online |  
+| bip_39_word_underscore_8 | family_weird_budget_casino_dignity_book_online_fox |  
+| bip_39_word_underscore_9 | family_weird_budget_casino_dignity_book_online_fox_bitter |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

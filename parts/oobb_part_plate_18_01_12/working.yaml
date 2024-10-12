@@ -1,3 +1,15 @@
+bip_39_word_dash_1: prepare
+bip_39_word_dash_10: prepare-arctic-frog-unique-inherit-simple-humor-powder-blast-ankle
+bip_39_word_dash_11: prepare-arctic-frog-unique-inherit-simple-humor-powder-blast-ankle-flame
+bip_39_word_dash_12: prepare-arctic-frog-unique-inherit-simple-humor-powder-blast-ankle-flame-admit
+bip_39_word_dash_2: prepare-arctic
+bip_39_word_dash_3: prepare-arctic-frog
+bip_39_word_dash_4: prepare-arctic-frog-unique
+bip_39_word_dash_5: prepare-arctic-frog-unique-inherit
+bip_39_word_dash_6: prepare-arctic-frog-unique-inherit-simple
+bip_39_word_dash_7: prepare-arctic-frog-unique-inherit-simple-humor
+bip_39_word_dash_8: prepare-arctic-frog-unique-inherit-simple-humor-powder
+bip_39_word_dash_9: prepare-arctic-frog-unique-inherit-simple-humor-powder-blast
 bip_39_word_new_br_1: prepare
 bip_39_word_new_br_10: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle
 bip_39_word_new_br_11: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle<br>flame
@@ -194,6 +206,18 @@ bip_39_word_space_6: prepare arctic frog unique inherit simple
 bip_39_word_space_7: prepare arctic frog unique inherit simple humor
 bip_39_word_space_8: prepare arctic frog unique inherit simple humor powder
 bip_39_word_space_9: prepare arctic frog unique inherit simple humor powder blast
+bip_39_word_underscore_1: prepare
+bip_39_word_underscore_10: prepare_arctic_frog_unique_inherit_simple_humor_powder_blast_ankle
+bip_39_word_underscore_11: prepare_arctic_frog_unique_inherit_simple_humor_powder_blast_ankle_flame
+bip_39_word_underscore_12: prepare_arctic_frog_unique_inherit_simple_humor_powder_blast_ankle_flame_admit
+bip_39_word_underscore_2: prepare_arctic
+bip_39_word_underscore_3: prepare_arctic_frog
+bip_39_word_underscore_4: prepare_arctic_frog_unique
+bip_39_word_underscore_5: prepare_arctic_frog_unique_inherit
+bip_39_word_underscore_6: prepare_arctic_frog_unique_inherit_simple
+bip_39_word_underscore_7: prepare_arctic_frog_unique_inherit_simple_humor
+bip_39_word_underscore_8: prepare_arctic_frog_unique_inherit_simple_humor_powder
+bip_39_word_underscore_9: prepare_arctic_frog_unique_inherit_simple_humor_powder_blast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

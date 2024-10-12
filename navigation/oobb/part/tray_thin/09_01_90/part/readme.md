@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sample |  
+| bip_39_word_dash_10 | sample-pioneer-march-morning-insane-convince-auto-flash-grab-oxygen |  
+| bip_39_word_dash_11 | sample-pioneer-march-morning-insane-convince-auto-flash-grab-oxygen-snake |  
+| bip_39_word_dash_12 | sample-pioneer-march-morning-insane-convince-auto-flash-grab-oxygen-snake-author |  
+| bip_39_word_dash_2 | sample-pioneer |  
+| bip_39_word_dash_3 | sample-pioneer-march |  
+| bip_39_word_dash_4 | sample-pioneer-march-morning |  
+| bip_39_word_dash_5 | sample-pioneer-march-morning-insane |  
+| bip_39_word_dash_6 | sample-pioneer-march-morning-insane-convince |  
+| bip_39_word_dash_7 | sample-pioneer-march-morning-insane-convince-auto |  
+| bip_39_word_dash_8 | sample-pioneer-march-morning-insane-convince-auto-flash |  
+| bip_39_word_dash_9 | sample-pioneer-march-morning-insane-convince-auto-flash-grab |  
 | bip_39_word_new_br_1 | sample |  
 | bip_39_word_new_br_10 | sample<br>pioneer<br>march<br>morning<br>insane<br>convince<br>auto<br>flash<br>grab<br>oxygen |  
 | bip_39_word_new_br_11 | sample<br>pioneer<br>march<br>morning<br>insane<br>convince<br>auto<br>flash<br>grab<br>oxygen<br>snake |  
@@ -147,6 +159,18 @@ grab |
 | bip_39_word_space_7 | sample pioneer march morning insane convince auto |  
 | bip_39_word_space_8 | sample pioneer march morning insane convince auto flash |  
 | bip_39_word_space_9 | sample pioneer march morning insane convince auto flash grab |  
+| bip_39_word_underscore_1 | sample |  
+| bip_39_word_underscore_10 | sample_pioneer_march_morning_insane_convince_auto_flash_grab_oxygen |  
+| bip_39_word_underscore_11 | sample_pioneer_march_morning_insane_convince_auto_flash_grab_oxygen_snake |  
+| bip_39_word_underscore_12 | sample_pioneer_march_morning_insane_convince_auto_flash_grab_oxygen_snake_author |  
+| bip_39_word_underscore_2 | sample_pioneer |  
+| bip_39_word_underscore_3 | sample_pioneer_march |  
+| bip_39_word_underscore_4 | sample_pioneer_march_morning |  
+| bip_39_word_underscore_5 | sample_pioneer_march_morning_insane |  
+| bip_39_word_underscore_6 | sample_pioneer_march_morning_insane_convince |  
+| bip_39_word_underscore_7 | sample_pioneer_march_morning_insane_convince_auto |  
+| bip_39_word_underscore_8 | sample_pioneer_march_morning_insane_convince_auto_flash |  
+| bip_39_word_underscore_9 | sample_pioneer_march_morning_insane_convince_auto_flash_grab |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

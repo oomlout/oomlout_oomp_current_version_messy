@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | good |  
+| bip_39_word_dash_10 | good-shiver-circle-salt-jungle-hungry-three-worry-vehicle-daughter |  
+| bip_39_word_dash_11 | good-shiver-circle-salt-jungle-hungry-three-worry-vehicle-daughter-cement |  
+| bip_39_word_dash_12 | good-shiver-circle-salt-jungle-hungry-three-worry-vehicle-daughter-cement-almost |  
+| bip_39_word_dash_2 | good-shiver |  
+| bip_39_word_dash_3 | good-shiver-circle |  
+| bip_39_word_dash_4 | good-shiver-circle-salt |  
+| bip_39_word_dash_5 | good-shiver-circle-salt-jungle |  
+| bip_39_word_dash_6 | good-shiver-circle-salt-jungle-hungry |  
+| bip_39_word_dash_7 | good-shiver-circle-salt-jungle-hungry-three |  
+| bip_39_word_dash_8 | good-shiver-circle-salt-jungle-hungry-three-worry |  
+| bip_39_word_dash_9 | good-shiver-circle-salt-jungle-hungry-three-worry-vehicle |  
 | bip_39_word_new_br_1 | good |  
 | bip_39_word_new_br_10 | good<br>shiver<br>circle<br>salt<br>jungle<br>hungry<br>three<br>worry<br>vehicle<br>daughter |  
 | bip_39_word_new_br_11 | good<br>shiver<br>circle<br>salt<br>jungle<br>hungry<br>three<br>worry<br>vehicle<br>daughter<br>cement |  
@@ -147,6 +159,18 @@ vehicle |
 | bip_39_word_space_7 | good shiver circle salt jungle hungry three |  
 | bip_39_word_space_8 | good shiver circle salt jungle hungry three worry |  
 | bip_39_word_space_9 | good shiver circle salt jungle hungry three worry vehicle |  
+| bip_39_word_underscore_1 | good |  
+| bip_39_word_underscore_10 | good_shiver_circle_salt_jungle_hungry_three_worry_vehicle_daughter |  
+| bip_39_word_underscore_11 | good_shiver_circle_salt_jungle_hungry_three_worry_vehicle_daughter_cement |  
+| bip_39_word_underscore_12 | good_shiver_circle_salt_jungle_hungry_three_worry_vehicle_daughter_cement_almost |  
+| bip_39_word_underscore_2 | good_shiver |  
+| bip_39_word_underscore_3 | good_shiver_circle |  
+| bip_39_word_underscore_4 | good_shiver_circle_salt |  
+| bip_39_word_underscore_5 | good_shiver_circle_salt_jungle |  
+| bip_39_word_underscore_6 | good_shiver_circle_salt_jungle_hungry |  
+| bip_39_word_underscore_7 | good_shiver_circle_salt_jungle_hungry_three |  
+| bip_39_word_underscore_8 | good_shiver_circle_salt_jungle_hungry_three_worry |  
+| bip_39_word_underscore_9 | good_shiver_circle_salt_jungle_hungry_three_worry_vehicle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

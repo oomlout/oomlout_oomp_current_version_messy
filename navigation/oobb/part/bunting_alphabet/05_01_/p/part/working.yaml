@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hat
+bip_39_word_dash_10: hat-race-version-tackle-drama-canyon-lady-banana-earth-maple
+bip_39_word_dash_11: hat-race-version-tackle-drama-canyon-lady-banana-earth-maple-lobster
+bip_39_word_dash_12: hat-race-version-tackle-drama-canyon-lady-banana-earth-maple-lobster-aerobic
+bip_39_word_dash_2: hat-race
+bip_39_word_dash_3: hat-race-version
+bip_39_word_dash_4: hat-race-version-tackle
+bip_39_word_dash_5: hat-race-version-tackle-drama
+bip_39_word_dash_6: hat-race-version-tackle-drama-canyon
+bip_39_word_dash_7: hat-race-version-tackle-drama-canyon-lady
+bip_39_word_dash_8: hat-race-version-tackle-drama-canyon-lady-banana
+bip_39_word_dash_9: hat-race-version-tackle-drama-canyon-lady-banana-earth
 bip_39_word_new_br_1: hat
 bip_39_word_new_br_10: hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple
 bip_39_word_new_br_11: hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple<br>lobster
@@ -193,6 +205,18 @@ bip_39_word_space_6: hat race version tackle drama canyon
 bip_39_word_space_7: hat race version tackle drama canyon lady
 bip_39_word_space_8: hat race version tackle drama canyon lady banana
 bip_39_word_space_9: hat race version tackle drama canyon lady banana earth
+bip_39_word_underscore_1: hat
+bip_39_word_underscore_10: hat_race_version_tackle_drama_canyon_lady_banana_earth_maple
+bip_39_word_underscore_11: hat_race_version_tackle_drama_canyon_lady_banana_earth_maple_lobster
+bip_39_word_underscore_12: hat_race_version_tackle_drama_canyon_lady_banana_earth_maple_lobster_aerobic
+bip_39_word_underscore_2: hat_race
+bip_39_word_underscore_3: hat_race_version
+bip_39_word_underscore_4: hat_race_version_tackle
+bip_39_word_underscore_5: hat_race_version_tackle_drama
+bip_39_word_underscore_6: hat_race_version_tackle_drama_canyon
+bip_39_word_underscore_7: hat_race_version_tackle_drama_canyon_lady
+bip_39_word_underscore_8: hat_race_version_tackle_drama_canyon_lady_banana
+bip_39_word_underscore_9: hat_race_version_tackle_drama_canyon_lady_banana_earth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chicken |  
+| bip_39_word_dash_10 | chicken-chalk-two-divorce-item-goat-bounce-indoor-ostrich-hammer |  
+| bip_39_word_dash_11 | chicken-chalk-two-divorce-item-goat-bounce-indoor-ostrich-hammer-print |  
+| bip_39_word_dash_12 | chicken-chalk-two-divorce-item-goat-bounce-indoor-ostrich-hammer-print-abuse |  
+| bip_39_word_dash_2 | chicken-chalk |  
+| bip_39_word_dash_3 | chicken-chalk-two |  
+| bip_39_word_dash_4 | chicken-chalk-two-divorce |  
+| bip_39_word_dash_5 | chicken-chalk-two-divorce-item |  
+| bip_39_word_dash_6 | chicken-chalk-two-divorce-item-goat |  
+| bip_39_word_dash_7 | chicken-chalk-two-divorce-item-goat-bounce |  
+| bip_39_word_dash_8 | chicken-chalk-two-divorce-item-goat-bounce-indoor |  
+| bip_39_word_dash_9 | chicken-chalk-two-divorce-item-goat-bounce-indoor-ostrich |  
 | bip_39_word_new_br_1 | chicken |  
 | bip_39_word_new_br_10 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor<br>ostrich<br>hammer |  
 | bip_39_word_new_br_11 | chicken<br>chalk<br>two<br>divorce<br>item<br>goat<br>bounce<br>indoor<br>ostrich<br>hammer<br>print |  
@@ -147,6 +159,18 @@ ostrich |
 | bip_39_word_space_7 | chicken chalk two divorce item goat bounce |  
 | bip_39_word_space_8 | chicken chalk two divorce item goat bounce indoor |  
 | bip_39_word_space_9 | chicken chalk two divorce item goat bounce indoor ostrich |  
+| bip_39_word_underscore_1 | chicken |  
+| bip_39_word_underscore_10 | chicken_chalk_two_divorce_item_goat_bounce_indoor_ostrich_hammer |  
+| bip_39_word_underscore_11 | chicken_chalk_two_divorce_item_goat_bounce_indoor_ostrich_hammer_print |  
+| bip_39_word_underscore_12 | chicken_chalk_two_divorce_item_goat_bounce_indoor_ostrich_hammer_print_abuse |  
+| bip_39_word_underscore_2 | chicken_chalk |  
+| bip_39_word_underscore_3 | chicken_chalk_two |  
+| bip_39_word_underscore_4 | chicken_chalk_two_divorce |  
+| bip_39_word_underscore_5 | chicken_chalk_two_divorce_item |  
+| bip_39_word_underscore_6 | chicken_chalk_two_divorce_item_goat |  
+| bip_39_word_underscore_7 | chicken_chalk_two_divorce_item_goat_bounce |  
+| bip_39_word_underscore_8 | chicken_chalk_two_divorce_item_goat_bounce_indoor |  
+| bip_39_word_underscore_9 | chicken_chalk_two_divorce_item_goat_bounce_indoor_ostrich |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

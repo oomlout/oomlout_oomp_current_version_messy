@@ -1,3 +1,15 @@
+bip_39_word_dash_1: two
+bip_39_word_dash_10: two-spawn-recipe-host-damage-where-sell-such-furnace-shop
+bip_39_word_dash_11: two-spawn-recipe-host-damage-where-sell-such-furnace-shop-matter
+bip_39_word_dash_12: two-spawn-recipe-host-damage-where-sell-such-furnace-shop-matter-all
+bip_39_word_dash_2: two-spawn
+bip_39_word_dash_3: two-spawn-recipe
+bip_39_word_dash_4: two-spawn-recipe-host
+bip_39_word_dash_5: two-spawn-recipe-host-damage
+bip_39_word_dash_6: two-spawn-recipe-host-damage-where
+bip_39_word_dash_7: two-spawn-recipe-host-damage-where-sell
+bip_39_word_dash_8: two-spawn-recipe-host-damage-where-sell-such
+bip_39_word_dash_9: two-spawn-recipe-host-damage-where-sell-such-furnace
 bip_39_word_new_br_1: two
 bip_39_word_new_br_10: two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop
 bip_39_word_new_br_11: two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop<br>matter
@@ -192,6 +204,18 @@ bip_39_word_space_6: two spawn recipe host damage where
 bip_39_word_space_7: two spawn recipe host damage where sell
 bip_39_word_space_8: two spawn recipe host damage where sell such
 bip_39_word_space_9: two spawn recipe host damage where sell such furnace
+bip_39_word_underscore_1: two
+bip_39_word_underscore_10: two_spawn_recipe_host_damage_where_sell_such_furnace_shop
+bip_39_word_underscore_11: two_spawn_recipe_host_damage_where_sell_such_furnace_shop_matter
+bip_39_word_underscore_12: two_spawn_recipe_host_damage_where_sell_such_furnace_shop_matter_all
+bip_39_word_underscore_2: two_spawn
+bip_39_word_underscore_3: two_spawn_recipe
+bip_39_word_underscore_4: two_spawn_recipe_host
+bip_39_word_underscore_5: two_spawn_recipe_host_damage
+bip_39_word_underscore_6: two_spawn_recipe_host_damage_where
+bip_39_word_underscore_7: two_spawn_recipe_host_damage_where_sell
+bip_39_word_underscore_8: two_spawn_recipe_host_damage_where_sell_such
+bip_39_word_underscore_9: two_spawn_recipe_host_damage_where_sell_such_furnace
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dawn
+bip_39_word_dash_10: dawn-forest-letter-satoshi-leader-fix-upper-found-shock-camp
+bip_39_word_dash_11: dawn-forest-letter-satoshi-leader-fix-upper-found-shock-camp-engage
+bip_39_word_dash_12: dawn-forest-letter-satoshi-leader-fix-upper-found-shock-camp-engage-aerobic
+bip_39_word_dash_2: dawn-forest
+bip_39_word_dash_3: dawn-forest-letter
+bip_39_word_dash_4: dawn-forest-letter-satoshi
+bip_39_word_dash_5: dawn-forest-letter-satoshi-leader
+bip_39_word_dash_6: dawn-forest-letter-satoshi-leader-fix
+bip_39_word_dash_7: dawn-forest-letter-satoshi-leader-fix-upper
+bip_39_word_dash_8: dawn-forest-letter-satoshi-leader-fix-upper-found
+bip_39_word_dash_9: dawn-forest-letter-satoshi-leader-fix-upper-found-shock
 bip_39_word_new_br_1: dawn
 bip_39_word_new_br_10: dawn<br>forest<br>letter<br>satoshi<br>leader<br>fix<br>upper<br>found<br>shock<br>camp
 bip_39_word_new_br_11: dawn<br>forest<br>letter<br>satoshi<br>leader<br>fix<br>upper<br>found<br>shock<br>camp<br>engage
@@ -193,6 +205,18 @@ bip_39_word_space_6: dawn forest letter satoshi leader fix
 bip_39_word_space_7: dawn forest letter satoshi leader fix upper
 bip_39_word_space_8: dawn forest letter satoshi leader fix upper found
 bip_39_word_space_9: dawn forest letter satoshi leader fix upper found shock
+bip_39_word_underscore_1: dawn
+bip_39_word_underscore_10: dawn_forest_letter_satoshi_leader_fix_upper_found_shock_camp
+bip_39_word_underscore_11: dawn_forest_letter_satoshi_leader_fix_upper_found_shock_camp_engage
+bip_39_word_underscore_12: dawn_forest_letter_satoshi_leader_fix_upper_found_shock_camp_engage_aerobic
+bip_39_word_underscore_2: dawn_forest
+bip_39_word_underscore_3: dawn_forest_letter
+bip_39_word_underscore_4: dawn_forest_letter_satoshi
+bip_39_word_underscore_5: dawn_forest_letter_satoshi_leader
+bip_39_word_underscore_6: dawn_forest_letter_satoshi_leader_fix
+bip_39_word_underscore_7: dawn_forest_letter_satoshi_leader_fix_upper
+bip_39_word_underscore_8: dawn_forest_letter_satoshi_leader_fix_upper_found
+bip_39_word_underscore_9: dawn_forest_letter_satoshi_leader_fix_upper_found_shock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

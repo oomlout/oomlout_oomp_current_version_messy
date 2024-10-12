@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toast
+bip_39_word_dash_10: toast-lottery-language-three-day-patrol-mass-tragic-donkey-power
+bip_39_word_dash_11: toast-lottery-language-three-day-patrol-mass-tragic-donkey-power-brick
+bip_39_word_dash_12: toast-lottery-language-three-day-patrol-mass-tragic-donkey-power-brick-animal
+bip_39_word_dash_2: toast-lottery
+bip_39_word_dash_3: toast-lottery-language
+bip_39_word_dash_4: toast-lottery-language-three
+bip_39_word_dash_5: toast-lottery-language-three-day
+bip_39_word_dash_6: toast-lottery-language-three-day-patrol
+bip_39_word_dash_7: toast-lottery-language-three-day-patrol-mass
+bip_39_word_dash_8: toast-lottery-language-three-day-patrol-mass-tragic
+bip_39_word_dash_9: toast-lottery-language-three-day-patrol-mass-tragic-donkey
 bip_39_word_new_br_1: toast
 bip_39_word_new_br_10: toast<br>lottery<br>language<br>three<br>day<br>patrol<br>mass<br>tragic<br>donkey<br>power
 bip_39_word_new_br_11: toast<br>lottery<br>language<br>three<br>day<br>patrol<br>mass<br>tragic<br>donkey<br>power<br>brick
@@ -193,6 +205,18 @@ bip_39_word_space_6: toast lottery language three day patrol
 bip_39_word_space_7: toast lottery language three day patrol mass
 bip_39_word_space_8: toast lottery language three day patrol mass tragic
 bip_39_word_space_9: toast lottery language three day patrol mass tragic donkey
+bip_39_word_underscore_1: toast
+bip_39_word_underscore_10: toast_lottery_language_three_day_patrol_mass_tragic_donkey_power
+bip_39_word_underscore_11: toast_lottery_language_three_day_patrol_mass_tragic_donkey_power_brick
+bip_39_word_underscore_12: toast_lottery_language_three_day_patrol_mass_tragic_donkey_power_brick_animal
+bip_39_word_underscore_2: toast_lottery
+bip_39_word_underscore_3: toast_lottery_language
+bip_39_word_underscore_4: toast_lottery_language_three
+bip_39_word_underscore_5: toast_lottery_language_three_day
+bip_39_word_underscore_6: toast_lottery_language_three_day_patrol
+bip_39_word_underscore_7: toast_lottery_language_three_day_patrol_mass
+bip_39_word_underscore_8: toast_lottery_language_three_day_patrol_mass_tragic
+bip_39_word_underscore_9: toast_lottery_language_three_day_patrol_mass_tragic_donkey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

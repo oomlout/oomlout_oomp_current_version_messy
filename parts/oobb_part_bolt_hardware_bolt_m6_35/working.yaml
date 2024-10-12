@@ -1,3 +1,15 @@
+bip_39_word_dash_1: general
+bip_39_word_dash_10: general-census-office-isolate-cargo-company-armed-brave-erode-inmate
+bip_39_word_dash_11: general-census-office-isolate-cargo-company-armed-brave-erode-inmate-gorilla
+bip_39_word_dash_12: general-census-office-isolate-cargo-company-armed-brave-erode-inmate-gorilla-armed
+bip_39_word_dash_2: general-census
+bip_39_word_dash_3: general-census-office
+bip_39_word_dash_4: general-census-office-isolate
+bip_39_word_dash_5: general-census-office-isolate-cargo
+bip_39_word_dash_6: general-census-office-isolate-cargo-company
+bip_39_word_dash_7: general-census-office-isolate-cargo-company-armed
+bip_39_word_dash_8: general-census-office-isolate-cargo-company-armed-brave
+bip_39_word_dash_9: general-census-office-isolate-cargo-company-armed-brave-erode
 bip_39_word_new_br_1: general
 bip_39_word_new_br_10: general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate
 bip_39_word_new_br_11: general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate<br>gorilla
@@ -194,6 +206,18 @@ bip_39_word_space_6: general census office isolate cargo company
 bip_39_word_space_7: general census office isolate cargo company armed
 bip_39_word_space_8: general census office isolate cargo company armed brave
 bip_39_word_space_9: general census office isolate cargo company armed brave erode
+bip_39_word_underscore_1: general
+bip_39_word_underscore_10: general_census_office_isolate_cargo_company_armed_brave_erode_inmate
+bip_39_word_underscore_11: general_census_office_isolate_cargo_company_armed_brave_erode_inmate_gorilla
+bip_39_word_underscore_12: general_census_office_isolate_cargo_company_armed_brave_erode_inmate_gorilla_armed
+bip_39_word_underscore_2: general_census
+bip_39_word_underscore_3: general_census_office
+bip_39_word_underscore_4: general_census_office_isolate
+bip_39_word_underscore_5: general_census_office_isolate_cargo
+bip_39_word_underscore_6: general_census_office_isolate_cargo_company
+bip_39_word_underscore_7: general_census_office_isolate_cargo_company_armed
+bip_39_word_underscore_8: general_census_office_isolate_cargo_company_armed_brave
+bip_39_word_underscore_9: general_census_office_isolate_cargo_company_armed_brave_erode
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

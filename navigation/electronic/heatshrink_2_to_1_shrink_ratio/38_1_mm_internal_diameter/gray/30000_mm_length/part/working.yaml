@@ -1,3 +1,15 @@
+bip_39_word_dash_1: maximum
+bip_39_word_dash_10: maximum-thought-seminar-furnace-unknown-sustain-pulse-web-rent-erase
+bip_39_word_dash_11: maximum-thought-seminar-furnace-unknown-sustain-pulse-web-rent-erase-slow
+bip_39_word_dash_12: maximum-thought-seminar-furnace-unknown-sustain-pulse-web-rent-erase-slow-abuse
+bip_39_word_dash_2: maximum-thought
+bip_39_word_dash_3: maximum-thought-seminar
+bip_39_word_dash_4: maximum-thought-seminar-furnace
+bip_39_word_dash_5: maximum-thought-seminar-furnace-unknown
+bip_39_word_dash_6: maximum-thought-seminar-furnace-unknown-sustain
+bip_39_word_dash_7: maximum-thought-seminar-furnace-unknown-sustain-pulse
+bip_39_word_dash_8: maximum-thought-seminar-furnace-unknown-sustain-pulse-web
+bip_39_word_dash_9: maximum-thought-seminar-furnace-unknown-sustain-pulse-web-rent
 bip_39_word_new_br_1: maximum
 bip_39_word_new_br_10: maximum<br>thought<br>seminar<br>furnace<br>unknown<br>sustain<br>pulse<br>web<br>rent<br>erase
 bip_39_word_new_br_11: maximum<br>thought<br>seminar<br>furnace<br>unknown<br>sustain<br>pulse<br>web<br>rent<br>erase<br>slow
@@ -194,6 +206,18 @@ bip_39_word_space_6: maximum thought seminar furnace unknown sustain
 bip_39_word_space_7: maximum thought seminar furnace unknown sustain pulse
 bip_39_word_space_8: maximum thought seminar furnace unknown sustain pulse web
 bip_39_word_space_9: maximum thought seminar furnace unknown sustain pulse web rent
+bip_39_word_underscore_1: maximum
+bip_39_word_underscore_10: maximum_thought_seminar_furnace_unknown_sustain_pulse_web_rent_erase
+bip_39_word_underscore_11: maximum_thought_seminar_furnace_unknown_sustain_pulse_web_rent_erase_slow
+bip_39_word_underscore_12: maximum_thought_seminar_furnace_unknown_sustain_pulse_web_rent_erase_slow_abuse
+bip_39_word_underscore_2: maximum_thought
+bip_39_word_underscore_3: maximum_thought_seminar
+bip_39_word_underscore_4: maximum_thought_seminar_furnace
+bip_39_word_underscore_5: maximum_thought_seminar_furnace_unknown
+bip_39_word_underscore_6: maximum_thought_seminar_furnace_unknown_sustain
+bip_39_word_underscore_7: maximum_thought_seminar_furnace_unknown_sustain_pulse
+bip_39_word_underscore_8: maximum_thought_seminar_furnace_unknown_sustain_pulse_web
+bip_39_word_underscore_9: maximum_thought_seminar_furnace_unknown_sustain_pulse_web_rent
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: maple
+bip_39_word_dash_10: maple-call-knife-pave-income-repair-system-retreat-spell-hobby
+bip_39_word_dash_11: maple-call-knife-pave-income-repair-system-retreat-spell-hobby-rain
+bip_39_word_dash_12: maple-call-knife-pave-income-repair-system-retreat-spell-hobby-rain-actor
+bip_39_word_dash_2: maple-call
+bip_39_word_dash_3: maple-call-knife
+bip_39_word_dash_4: maple-call-knife-pave
+bip_39_word_dash_5: maple-call-knife-pave-income
+bip_39_word_dash_6: maple-call-knife-pave-income-repair
+bip_39_word_dash_7: maple-call-knife-pave-income-repair-system
+bip_39_word_dash_8: maple-call-knife-pave-income-repair-system-retreat
+bip_39_word_dash_9: maple-call-knife-pave-income-repair-system-retreat-spell
 bip_39_word_new_br_1: maple
 bip_39_word_new_br_10: maple<br>call<br>knife<br>pave<br>income<br>repair<br>system<br>retreat<br>spell<br>hobby
 bip_39_word_new_br_11: maple<br>call<br>knife<br>pave<br>income<br>repair<br>system<br>retreat<br>spell<br>hobby<br>rain
@@ -193,6 +205,18 @@ bip_39_word_space_6: maple call knife pave income repair
 bip_39_word_space_7: maple call knife pave income repair system
 bip_39_word_space_8: maple call knife pave income repair system retreat
 bip_39_word_space_9: maple call knife pave income repair system retreat spell
+bip_39_word_underscore_1: maple
+bip_39_word_underscore_10: maple_call_knife_pave_income_repair_system_retreat_spell_hobby
+bip_39_word_underscore_11: maple_call_knife_pave_income_repair_system_retreat_spell_hobby_rain
+bip_39_word_underscore_12: maple_call_knife_pave_income_repair_system_retreat_spell_hobby_rain_actor
+bip_39_word_underscore_2: maple_call
+bip_39_word_underscore_3: maple_call_knife
+bip_39_word_underscore_4: maple_call_knife_pave
+bip_39_word_underscore_5: maple_call_knife_pave_income
+bip_39_word_underscore_6: maple_call_knife_pave_income_repair
+bip_39_word_underscore_7: maple_call_knife_pave_income_repair_system
+bip_39_word_underscore_8: maple_call_knife_pave_income_repair_system_retreat
+bip_39_word_underscore_9: maple_call_knife_pave_income_repair_system_retreat_spell
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

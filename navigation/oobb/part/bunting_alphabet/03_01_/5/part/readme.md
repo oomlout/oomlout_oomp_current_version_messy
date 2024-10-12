@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | buffalo |  
+| bip_39_word_dash_10 | buffalo-swarm-mobile-arch-ethics-jeans-exact-link-pony-dwarf |  
+| bip_39_word_dash_11 | buffalo-swarm-mobile-arch-ethics-jeans-exact-link-pony-dwarf-address |  
+| bip_39_word_dash_12 | buffalo-swarm-mobile-arch-ethics-jeans-exact-link-pony-dwarf-address-actor |  
+| bip_39_word_dash_2 | buffalo-swarm |  
+| bip_39_word_dash_3 | buffalo-swarm-mobile |  
+| bip_39_word_dash_4 | buffalo-swarm-mobile-arch |  
+| bip_39_word_dash_5 | buffalo-swarm-mobile-arch-ethics |  
+| bip_39_word_dash_6 | buffalo-swarm-mobile-arch-ethics-jeans |  
+| bip_39_word_dash_7 | buffalo-swarm-mobile-arch-ethics-jeans-exact |  
+| bip_39_word_dash_8 | buffalo-swarm-mobile-arch-ethics-jeans-exact-link |  
+| bip_39_word_dash_9 | buffalo-swarm-mobile-arch-ethics-jeans-exact-link-pony |  
 | bip_39_word_new_br_1 | buffalo |  
 | bip_39_word_new_br_10 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link<br>pony<br>dwarf |  
 | bip_39_word_new_br_11 | buffalo<br>swarm<br>mobile<br>arch<br>ethics<br>jeans<br>exact<br>link<br>pony<br>dwarf<br>address |  
@@ -147,6 +159,18 @@ pony |
 | bip_39_word_space_7 | buffalo swarm mobile arch ethics jeans exact |  
 | bip_39_word_space_8 | buffalo swarm mobile arch ethics jeans exact link |  
 | bip_39_word_space_9 | buffalo swarm mobile arch ethics jeans exact link pony |  
+| bip_39_word_underscore_1 | buffalo |  
+| bip_39_word_underscore_10 | buffalo_swarm_mobile_arch_ethics_jeans_exact_link_pony_dwarf |  
+| bip_39_word_underscore_11 | buffalo_swarm_mobile_arch_ethics_jeans_exact_link_pony_dwarf_address |  
+| bip_39_word_underscore_12 | buffalo_swarm_mobile_arch_ethics_jeans_exact_link_pony_dwarf_address_actor |  
+| bip_39_word_underscore_2 | buffalo_swarm |  
+| bip_39_word_underscore_3 | buffalo_swarm_mobile |  
+| bip_39_word_underscore_4 | buffalo_swarm_mobile_arch |  
+| bip_39_word_underscore_5 | buffalo_swarm_mobile_arch_ethics |  
+| bip_39_word_underscore_6 | buffalo_swarm_mobile_arch_ethics_jeans |  
+| bip_39_word_underscore_7 | buffalo_swarm_mobile_arch_ethics_jeans_exact |  
+| bip_39_word_underscore_8 | buffalo_swarm_mobile_arch_ethics_jeans_exact_link |  
+| bip_39_word_underscore_9 | buffalo_swarm_mobile_arch_ethics_jeans_exact_link_pony |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

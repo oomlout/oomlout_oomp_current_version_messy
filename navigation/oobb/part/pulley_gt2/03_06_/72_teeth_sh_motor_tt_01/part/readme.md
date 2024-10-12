@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erosion |  
+| bip_39_word_dash_10 | erosion-critic-heart-all-asthma-sting-subject-owner-area-goddess |  
+| bip_39_word_dash_11 | erosion-critic-heart-all-asthma-sting-subject-owner-area-goddess-error |  
+| bip_39_word_dash_12 | erosion-critic-heart-all-asthma-sting-subject-owner-area-goddess-error-angry |  
+| bip_39_word_dash_2 | erosion-critic |  
+| bip_39_word_dash_3 | erosion-critic-heart |  
+| bip_39_word_dash_4 | erosion-critic-heart-all |  
+| bip_39_word_dash_5 | erosion-critic-heart-all-asthma |  
+| bip_39_word_dash_6 | erosion-critic-heart-all-asthma-sting |  
+| bip_39_word_dash_7 | erosion-critic-heart-all-asthma-sting-subject |  
+| bip_39_word_dash_8 | erosion-critic-heart-all-asthma-sting-subject-owner |  
+| bip_39_word_dash_9 | erosion-critic-heart-all-asthma-sting-subject-owner-area |  
 | bip_39_word_new_br_1 | erosion |  
 | bip_39_word_new_br_10 | erosion<br>critic<br>heart<br>all<br>asthma<br>sting<br>subject<br>owner<br>area<br>goddess |  
 | bip_39_word_new_br_11 | erosion<br>critic<br>heart<br>all<br>asthma<br>sting<br>subject<br>owner<br>area<br>goddess<br>error |  
@@ -147,6 +159,18 @@ area |
 | bip_39_word_space_7 | erosion critic heart all asthma sting subject |  
 | bip_39_word_space_8 | erosion critic heart all asthma sting subject owner |  
 | bip_39_word_space_9 | erosion critic heart all asthma sting subject owner area |  
+| bip_39_word_underscore_1 | erosion |  
+| bip_39_word_underscore_10 | erosion_critic_heart_all_asthma_sting_subject_owner_area_goddess |  
+| bip_39_word_underscore_11 | erosion_critic_heart_all_asthma_sting_subject_owner_area_goddess_error |  
+| bip_39_word_underscore_12 | erosion_critic_heart_all_asthma_sting_subject_owner_area_goddess_error_angry |  
+| bip_39_word_underscore_2 | erosion_critic |  
+| bip_39_word_underscore_3 | erosion_critic_heart |  
+| bip_39_word_underscore_4 | erosion_critic_heart_all |  
+| bip_39_word_underscore_5 | erosion_critic_heart_all_asthma |  
+| bip_39_word_underscore_6 | erosion_critic_heart_all_asthma_sting |  
+| bip_39_word_underscore_7 | erosion_critic_heart_all_asthma_sting_subject |  
+| bip_39_word_underscore_8 | erosion_critic_heart_all_asthma_sting_subject_owner |  
+| bip_39_word_underscore_9 | erosion_critic_heart_all_asthma_sting_subject_owner_area |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

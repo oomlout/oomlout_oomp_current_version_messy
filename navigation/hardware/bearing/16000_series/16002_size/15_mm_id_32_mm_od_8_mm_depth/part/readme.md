@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | impose |  
+| bip_39_word_dash_10 | impose-excuse-luggage-snake-inner-whale-say-offer-gaze-once |  
+| bip_39_word_dash_11 | impose-excuse-luggage-snake-inner-whale-say-offer-gaze-once-dry |  
+| bip_39_word_dash_12 | impose-excuse-luggage-snake-inner-whale-say-offer-gaze-once-dry-adult |  
+| bip_39_word_dash_2 | impose-excuse |  
+| bip_39_word_dash_3 | impose-excuse-luggage |  
+| bip_39_word_dash_4 | impose-excuse-luggage-snake |  
+| bip_39_word_dash_5 | impose-excuse-luggage-snake-inner |  
+| bip_39_word_dash_6 | impose-excuse-luggage-snake-inner-whale |  
+| bip_39_word_dash_7 | impose-excuse-luggage-snake-inner-whale-say |  
+| bip_39_word_dash_8 | impose-excuse-luggage-snake-inner-whale-say-offer |  
+| bip_39_word_dash_9 | impose-excuse-luggage-snake-inner-whale-say-offer-gaze |  
 | bip_39_word_new_br_1 | impose |  
 | bip_39_word_new_br_10 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer<br>gaze<br>once |  
 | bip_39_word_new_br_11 | impose<br>excuse<br>luggage<br>snake<br>inner<br>whale<br>say<br>offer<br>gaze<br>once<br>dry |  
@@ -147,6 +159,18 @@ gaze |
 | bip_39_word_space_7 | impose excuse luggage snake inner whale say |  
 | bip_39_word_space_8 | impose excuse luggage snake inner whale say offer |  
 | bip_39_word_space_9 | impose excuse luggage snake inner whale say offer gaze |  
+| bip_39_word_underscore_1 | impose |  
+| bip_39_word_underscore_10 | impose_excuse_luggage_snake_inner_whale_say_offer_gaze_once |  
+| bip_39_word_underscore_11 | impose_excuse_luggage_snake_inner_whale_say_offer_gaze_once_dry |  
+| bip_39_word_underscore_12 | impose_excuse_luggage_snake_inner_whale_say_offer_gaze_once_dry_adult |  
+| bip_39_word_underscore_2 | impose_excuse |  
+| bip_39_word_underscore_3 | impose_excuse_luggage |  
+| bip_39_word_underscore_4 | impose_excuse_luggage_snake |  
+| bip_39_word_underscore_5 | impose_excuse_luggage_snake_inner |  
+| bip_39_word_underscore_6 | impose_excuse_luggage_snake_inner_whale |  
+| bip_39_word_underscore_7 | impose_excuse_luggage_snake_inner_whale_say |  
+| bip_39_word_underscore_8 | impose_excuse_luggage_snake_inner_whale_say_offer |  
+| bip_39_word_underscore_9 | impose_excuse_luggage_snake_inner_whale_say_offer_gaze |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

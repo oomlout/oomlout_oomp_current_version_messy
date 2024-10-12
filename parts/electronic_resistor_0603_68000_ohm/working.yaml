@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quit
+bip_39_word_dash_10: quit-arena-mansion-game-fabric-ripple-range-able-ship-marriage
+bip_39_word_dash_11: quit-arena-mansion-game-fabric-ripple-range-able-ship-marriage-enact
+bip_39_word_dash_12: quit-arena-mansion-game-fabric-ripple-range-able-ship-marriage-enact-allow
+bip_39_word_dash_2: quit-arena
+bip_39_word_dash_3: quit-arena-mansion
+bip_39_word_dash_4: quit-arena-mansion-game
+bip_39_word_dash_5: quit-arena-mansion-game-fabric
+bip_39_word_dash_6: quit-arena-mansion-game-fabric-ripple
+bip_39_word_dash_7: quit-arena-mansion-game-fabric-ripple-range
+bip_39_word_dash_8: quit-arena-mansion-game-fabric-ripple-range-able
+bip_39_word_dash_9: quit-arena-mansion-game-fabric-ripple-range-able-ship
 bip_39_word_new_br_1: quit
 bip_39_word_new_br_10: quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able<br>ship<br>marriage
 bip_39_word_new_br_11: quit<br>arena<br>mansion<br>game<br>fabric<br>ripple<br>range<br>able<br>ship<br>marriage<br>enact
@@ -193,6 +205,18 @@ bip_39_word_space_6: quit arena mansion game fabric ripple
 bip_39_word_space_7: quit arena mansion game fabric ripple range
 bip_39_word_space_8: quit arena mansion game fabric ripple range able
 bip_39_word_space_9: quit arena mansion game fabric ripple range able ship
+bip_39_word_underscore_1: quit
+bip_39_word_underscore_10: quit_arena_mansion_game_fabric_ripple_range_able_ship_marriage
+bip_39_word_underscore_11: quit_arena_mansion_game_fabric_ripple_range_able_ship_marriage_enact
+bip_39_word_underscore_12: quit_arena_mansion_game_fabric_ripple_range_able_ship_marriage_enact_allow
+bip_39_word_underscore_2: quit_arena
+bip_39_word_underscore_3: quit_arena_mansion
+bip_39_word_underscore_4: quit_arena_mansion_game
+bip_39_word_underscore_5: quit_arena_mansion_game_fabric
+bip_39_word_underscore_6: quit_arena_mansion_game_fabric_ripple
+bip_39_word_underscore_7: quit_arena_mansion_game_fabric_ripple_range
+bip_39_word_underscore_8: quit_arena_mansion_game_fabric_ripple_range_able
+bip_39_word_underscore_9: quit_arena_mansion_game_fabric_ripple_range_able_ship
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

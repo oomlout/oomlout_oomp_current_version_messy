@@ -1,3 +1,15 @@
+bip_39_word_dash_1: extra
+bip_39_word_dash_10: extra-young-buyer-army-donor-spot-spring-birth-ticket-catalog
+bip_39_word_dash_11: extra-young-buyer-army-donor-spot-spring-birth-ticket-catalog-pattern
+bip_39_word_dash_12: extra-young-buyer-army-donor-spot-spring-birth-ticket-catalog-pattern-age
+bip_39_word_dash_2: extra-young
+bip_39_word_dash_3: extra-young-buyer
+bip_39_word_dash_4: extra-young-buyer-army
+bip_39_word_dash_5: extra-young-buyer-army-donor
+bip_39_word_dash_6: extra-young-buyer-army-donor-spot
+bip_39_word_dash_7: extra-young-buyer-army-donor-spot-spring
+bip_39_word_dash_8: extra-young-buyer-army-donor-spot-spring-birth
+bip_39_word_dash_9: extra-young-buyer-army-donor-spot-spring-birth-ticket
 bip_39_word_new_br_1: extra
 bip_39_word_new_br_10: extra<br>young<br>buyer<br>army<br>donor<br>spot<br>spring<br>birth<br>ticket<br>catalog
 bip_39_word_new_br_11: extra<br>young<br>buyer<br>army<br>donor<br>spot<br>spring<br>birth<br>ticket<br>catalog<br>pattern
@@ -193,6 +205,18 @@ bip_39_word_space_6: extra young buyer army donor spot
 bip_39_word_space_7: extra young buyer army donor spot spring
 bip_39_word_space_8: extra young buyer army donor spot spring birth
 bip_39_word_space_9: extra young buyer army donor spot spring birth ticket
+bip_39_word_underscore_1: extra
+bip_39_word_underscore_10: extra_young_buyer_army_donor_spot_spring_birth_ticket_catalog
+bip_39_word_underscore_11: extra_young_buyer_army_donor_spot_spring_birth_ticket_catalog_pattern
+bip_39_word_underscore_12: extra_young_buyer_army_donor_spot_spring_birth_ticket_catalog_pattern_age
+bip_39_word_underscore_2: extra_young
+bip_39_word_underscore_3: extra_young_buyer
+bip_39_word_underscore_4: extra_young_buyer_army
+bip_39_word_underscore_5: extra_young_buyer_army_donor
+bip_39_word_underscore_6: extra_young_buyer_army_donor_spot
+bip_39_word_underscore_7: extra_young_buyer_army_donor_spot_spring
+bip_39_word_underscore_8: extra_young_buyer_army_donor_spot_spring_birth
+bip_39_word_underscore_9: extra_young_buyer_army_donor_spot_spring_birth_ticket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

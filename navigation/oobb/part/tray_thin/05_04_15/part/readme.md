@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prevent |  
+| bip_39_word_dash_10 | prevent-quote-absurd-book-quantum-able-letter-love-climb-promote |  
+| bip_39_word_dash_11 | prevent-quote-absurd-book-quantum-able-letter-love-climb-promote-umbrella |  
+| bip_39_word_dash_12 | prevent-quote-absurd-book-quantum-able-letter-love-climb-promote-umbrella-among |  
+| bip_39_word_dash_2 | prevent-quote |  
+| bip_39_word_dash_3 | prevent-quote-absurd |  
+| bip_39_word_dash_4 | prevent-quote-absurd-book |  
+| bip_39_word_dash_5 | prevent-quote-absurd-book-quantum |  
+| bip_39_word_dash_6 | prevent-quote-absurd-book-quantum-able |  
+| bip_39_word_dash_7 | prevent-quote-absurd-book-quantum-able-letter |  
+| bip_39_word_dash_8 | prevent-quote-absurd-book-quantum-able-letter-love |  
+| bip_39_word_dash_9 | prevent-quote-absurd-book-quantum-able-letter-love-climb |  
 | bip_39_word_new_br_1 | prevent |  
 | bip_39_word_new_br_10 | prevent<br>quote<br>absurd<br>book<br>quantum<br>able<br>letter<br>love<br>climb<br>promote |  
 | bip_39_word_new_br_11 | prevent<br>quote<br>absurd<br>book<br>quantum<br>able<br>letter<br>love<br>climb<br>promote<br>umbrella |  
@@ -147,6 +159,18 @@ climb |
 | bip_39_word_space_7 | prevent quote absurd book quantum able letter |  
 | bip_39_word_space_8 | prevent quote absurd book quantum able letter love |  
 | bip_39_word_space_9 | prevent quote absurd book quantum able letter love climb |  
+| bip_39_word_underscore_1 | prevent |  
+| bip_39_word_underscore_10 | prevent_quote_absurd_book_quantum_able_letter_love_climb_promote |  
+| bip_39_word_underscore_11 | prevent_quote_absurd_book_quantum_able_letter_love_climb_promote_umbrella |  
+| bip_39_word_underscore_12 | prevent_quote_absurd_book_quantum_able_letter_love_climb_promote_umbrella_among |  
+| bip_39_word_underscore_2 | prevent_quote |  
+| bip_39_word_underscore_3 | prevent_quote_absurd |  
+| bip_39_word_underscore_4 | prevent_quote_absurd_book |  
+| bip_39_word_underscore_5 | prevent_quote_absurd_book_quantum |  
+| bip_39_word_underscore_6 | prevent_quote_absurd_book_quantum_able |  
+| bip_39_word_underscore_7 | prevent_quote_absurd_book_quantum_able_letter |  
+| bip_39_word_underscore_8 | prevent_quote_absurd_book_quantum_able_letter_love |  
+| bip_39_word_underscore_9 | prevent_quote_absurd_book_quantum_able_letter_love_climb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

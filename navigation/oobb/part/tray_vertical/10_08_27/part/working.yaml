@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scene
+bip_39_word_dash_10: scene-rude-trim-dune-shell-nature-split-notable-train-matrix
+bip_39_word_dash_11: scene-rude-trim-dune-shell-nature-split-notable-train-matrix-parent
+bip_39_word_dash_12: scene-rude-trim-dune-shell-nature-split-notable-train-matrix-parent-auto
+bip_39_word_dash_2: scene-rude
+bip_39_word_dash_3: scene-rude-trim
+bip_39_word_dash_4: scene-rude-trim-dune
+bip_39_word_dash_5: scene-rude-trim-dune-shell
+bip_39_word_dash_6: scene-rude-trim-dune-shell-nature
+bip_39_word_dash_7: scene-rude-trim-dune-shell-nature-split
+bip_39_word_dash_8: scene-rude-trim-dune-shell-nature-split-notable
+bip_39_word_dash_9: scene-rude-trim-dune-shell-nature-split-notable-train
 bip_39_word_new_br_1: scene
 bip_39_word_new_br_10: scene<br>rude<br>trim<br>dune<br>shell<br>nature<br>split<br>notable<br>train<br>matrix
 bip_39_word_new_br_11: scene<br>rude<br>trim<br>dune<br>shell<br>nature<br>split<br>notable<br>train<br>matrix<br>parent
@@ -193,6 +205,18 @@ bip_39_word_space_6: scene rude trim dune shell nature
 bip_39_word_space_7: scene rude trim dune shell nature split
 bip_39_word_space_8: scene rude trim dune shell nature split notable
 bip_39_word_space_9: scene rude trim dune shell nature split notable train
+bip_39_word_underscore_1: scene
+bip_39_word_underscore_10: scene_rude_trim_dune_shell_nature_split_notable_train_matrix
+bip_39_word_underscore_11: scene_rude_trim_dune_shell_nature_split_notable_train_matrix_parent
+bip_39_word_underscore_12: scene_rude_trim_dune_shell_nature_split_notable_train_matrix_parent_auto
+bip_39_word_underscore_2: scene_rude
+bip_39_word_underscore_3: scene_rude_trim
+bip_39_word_underscore_4: scene_rude_trim_dune
+bip_39_word_underscore_5: scene_rude_trim_dune_shell
+bip_39_word_underscore_6: scene_rude_trim_dune_shell_nature
+bip_39_word_underscore_7: scene_rude_trim_dune_shell_nature_split
+bip_39_word_underscore_8: scene_rude_trim_dune_shell_nature_split_notable
+bip_39_word_underscore_9: scene_rude_trim_dune_shell_nature_split_notable_train
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: robot
+bip_39_word_dash_10: robot-mushroom-depart-okay-bench-dumb-change-tattoo-vapor-season
+bip_39_word_dash_11: robot-mushroom-depart-okay-bench-dumb-change-tattoo-vapor-season-expand
+bip_39_word_dash_12: robot-mushroom-depart-okay-bench-dumb-change-tattoo-vapor-season-expand-auction
+bip_39_word_dash_2: robot-mushroom
+bip_39_word_dash_3: robot-mushroom-depart
+bip_39_word_dash_4: robot-mushroom-depart-okay
+bip_39_word_dash_5: robot-mushroom-depart-okay-bench
+bip_39_word_dash_6: robot-mushroom-depart-okay-bench-dumb
+bip_39_word_dash_7: robot-mushroom-depart-okay-bench-dumb-change
+bip_39_word_dash_8: robot-mushroom-depart-okay-bench-dumb-change-tattoo
+bip_39_word_dash_9: robot-mushroom-depart-okay-bench-dumb-change-tattoo-vapor
 bip_39_word_new_br_1: robot
 bip_39_word_new_br_10: robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo<br>vapor<br>season
 bip_39_word_new_br_11: robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo<br>vapor<br>season<br>expand
@@ -193,6 +205,18 @@ bip_39_word_space_6: robot mushroom depart okay bench dumb
 bip_39_word_space_7: robot mushroom depart okay bench dumb change
 bip_39_word_space_8: robot mushroom depart okay bench dumb change tattoo
 bip_39_word_space_9: robot mushroom depart okay bench dumb change tattoo vapor
+bip_39_word_underscore_1: robot
+bip_39_word_underscore_10: robot_mushroom_depart_okay_bench_dumb_change_tattoo_vapor_season
+bip_39_word_underscore_11: robot_mushroom_depart_okay_bench_dumb_change_tattoo_vapor_season_expand
+bip_39_word_underscore_12: robot_mushroom_depart_okay_bench_dumb_change_tattoo_vapor_season_expand_auction
+bip_39_word_underscore_2: robot_mushroom
+bip_39_word_underscore_3: robot_mushroom_depart
+bip_39_word_underscore_4: robot_mushroom_depart_okay
+bip_39_word_underscore_5: robot_mushroom_depart_okay_bench
+bip_39_word_underscore_6: robot_mushroom_depart_okay_bench_dumb
+bip_39_word_underscore_7: robot_mushroom_depart_okay_bench_dumb_change
+bip_39_word_underscore_8: robot_mushroom_depart_okay_bench_dumb_change_tattoo
+bip_39_word_underscore_9: robot_mushroom_depart_okay_bench_dumb_change_tattoo_vapor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

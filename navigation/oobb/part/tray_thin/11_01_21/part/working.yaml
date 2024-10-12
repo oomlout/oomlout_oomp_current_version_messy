@@ -1,3 +1,15 @@
+bip_39_word_dash_1: page
+bip_39_word_dash_10: page-lift-morning-home-fancy-upon-divert-swap-mask-ginger
+bip_39_word_dash_11: page-lift-morning-home-fancy-upon-divert-swap-mask-ginger-script
+bip_39_word_dash_12: page-lift-morning-home-fancy-upon-divert-swap-mask-ginger-script-another
+bip_39_word_dash_2: page-lift
+bip_39_word_dash_3: page-lift-morning
+bip_39_word_dash_4: page-lift-morning-home
+bip_39_word_dash_5: page-lift-morning-home-fancy
+bip_39_word_dash_6: page-lift-morning-home-fancy-upon
+bip_39_word_dash_7: page-lift-morning-home-fancy-upon-divert
+bip_39_word_dash_8: page-lift-morning-home-fancy-upon-divert-swap
+bip_39_word_dash_9: page-lift-morning-home-fancy-upon-divert-swap-mask
 bip_39_word_new_br_1: page
 bip_39_word_new_br_10: page<br>lift<br>morning<br>home<br>fancy<br>upon<br>divert<br>swap<br>mask<br>ginger
 bip_39_word_new_br_11: page<br>lift<br>morning<br>home<br>fancy<br>upon<br>divert<br>swap<br>mask<br>ginger<br>script
@@ -192,6 +204,18 @@ bip_39_word_space_6: page lift morning home fancy upon
 bip_39_word_space_7: page lift morning home fancy upon divert
 bip_39_word_space_8: page lift morning home fancy upon divert swap
 bip_39_word_space_9: page lift morning home fancy upon divert swap mask
+bip_39_word_underscore_1: page
+bip_39_word_underscore_10: page_lift_morning_home_fancy_upon_divert_swap_mask_ginger
+bip_39_word_underscore_11: page_lift_morning_home_fancy_upon_divert_swap_mask_ginger_script
+bip_39_word_underscore_12: page_lift_morning_home_fancy_upon_divert_swap_mask_ginger_script_another
+bip_39_word_underscore_2: page_lift
+bip_39_word_underscore_3: page_lift_morning
+bip_39_word_underscore_4: page_lift_morning_home
+bip_39_word_underscore_5: page_lift_morning_home_fancy
+bip_39_word_underscore_6: page_lift_morning_home_fancy_upon
+bip_39_word_underscore_7: page_lift_morning_home_fancy_upon_divert
+bip_39_word_underscore_8: page_lift_morning_home_fancy_upon_divert_swap
+bip_39_word_underscore_9: page_lift_morning_home_fancy_upon_divert_swap_mask
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

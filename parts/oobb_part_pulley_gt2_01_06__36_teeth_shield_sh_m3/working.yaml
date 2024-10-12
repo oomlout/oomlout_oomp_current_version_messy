@@ -1,3 +1,15 @@
+bip_39_word_dash_1: endless
+bip_39_word_dash_10: endless-trip-prosper-remain-much-village-tired-head-slim-cattle
+bip_39_word_dash_11: endless-trip-prosper-remain-much-village-tired-head-slim-cattle-attack
+bip_39_word_dash_12: endless-trip-prosper-remain-much-village-tired-head-slim-cattle-attack-attend
+bip_39_word_dash_2: endless-trip
+bip_39_word_dash_3: endless-trip-prosper
+bip_39_word_dash_4: endless-trip-prosper-remain
+bip_39_word_dash_5: endless-trip-prosper-remain-much
+bip_39_word_dash_6: endless-trip-prosper-remain-much-village
+bip_39_word_dash_7: endless-trip-prosper-remain-much-village-tired
+bip_39_word_dash_8: endless-trip-prosper-remain-much-village-tired-head
+bip_39_word_dash_9: endless-trip-prosper-remain-much-village-tired-head-slim
 bip_39_word_new_br_1: endless
 bip_39_word_new_br_10: endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle
 bip_39_word_new_br_11: endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle<br>attack
@@ -193,6 +205,18 @@ bip_39_word_space_6: endless trip prosper remain much village
 bip_39_word_space_7: endless trip prosper remain much village tired
 bip_39_word_space_8: endless trip prosper remain much village tired head
 bip_39_word_space_9: endless trip prosper remain much village tired head slim
+bip_39_word_underscore_1: endless
+bip_39_word_underscore_10: endless_trip_prosper_remain_much_village_tired_head_slim_cattle
+bip_39_word_underscore_11: endless_trip_prosper_remain_much_village_tired_head_slim_cattle_attack
+bip_39_word_underscore_12: endless_trip_prosper_remain_much_village_tired_head_slim_cattle_attack_attend
+bip_39_word_underscore_2: endless_trip
+bip_39_word_underscore_3: endless_trip_prosper
+bip_39_word_underscore_4: endless_trip_prosper_remain
+bip_39_word_underscore_5: endless_trip_prosper_remain_much
+bip_39_word_underscore_6: endless_trip_prosper_remain_much_village
+bip_39_word_underscore_7: endless_trip_prosper_remain_much_village_tired
+bip_39_word_underscore_8: endless_trip_prosper_remain_much_village_tired_head
+bip_39_word_underscore_9: endless_trip_prosper_remain_much_village_tired_head_slim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

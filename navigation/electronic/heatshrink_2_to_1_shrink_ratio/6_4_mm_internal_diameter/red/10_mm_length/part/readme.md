@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diary |  
+| bip_39_word_dash_10 | diary-runway-heavy-pudding-north-cheese-hero-endorse-reopen-huge |  
+| bip_39_word_dash_11 | diary-runway-heavy-pudding-north-cheese-hero-endorse-reopen-huge-scare |  
+| bip_39_word_dash_12 | diary-runway-heavy-pudding-north-cheese-hero-endorse-reopen-huge-scare-ancient |  
+| bip_39_word_dash_2 | diary-runway |  
+| bip_39_word_dash_3 | diary-runway-heavy |  
+| bip_39_word_dash_4 | diary-runway-heavy-pudding |  
+| bip_39_word_dash_5 | diary-runway-heavy-pudding-north |  
+| bip_39_word_dash_6 | diary-runway-heavy-pudding-north-cheese |  
+| bip_39_word_dash_7 | diary-runway-heavy-pudding-north-cheese-hero |  
+| bip_39_word_dash_8 | diary-runway-heavy-pudding-north-cheese-hero-endorse |  
+| bip_39_word_dash_9 | diary-runway-heavy-pudding-north-cheese-hero-endorse-reopen |  
 | bip_39_word_new_br_1 | diary |  
 | bip_39_word_new_br_10 | diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse<br>reopen<br>huge |  
 | bip_39_word_new_br_11 | diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse<br>reopen<br>huge<br>scare |  
@@ -147,6 +159,18 @@ reopen |
 | bip_39_word_space_7 | diary runway heavy pudding north cheese hero |  
 | bip_39_word_space_8 | diary runway heavy pudding north cheese hero endorse |  
 | bip_39_word_space_9 | diary runway heavy pudding north cheese hero endorse reopen |  
+| bip_39_word_underscore_1 | diary |  
+| bip_39_word_underscore_10 | diary_runway_heavy_pudding_north_cheese_hero_endorse_reopen_huge |  
+| bip_39_word_underscore_11 | diary_runway_heavy_pudding_north_cheese_hero_endorse_reopen_huge_scare |  
+| bip_39_word_underscore_12 | diary_runway_heavy_pudding_north_cheese_hero_endorse_reopen_huge_scare_ancient |  
+| bip_39_word_underscore_2 | diary_runway |  
+| bip_39_word_underscore_3 | diary_runway_heavy |  
+| bip_39_word_underscore_4 | diary_runway_heavy_pudding |  
+| bip_39_word_underscore_5 | diary_runway_heavy_pudding_north |  
+| bip_39_word_underscore_6 | diary_runway_heavy_pudding_north_cheese |  
+| bip_39_word_underscore_7 | diary_runway_heavy_pudding_north_cheese_hero |  
+| bip_39_word_underscore_8 | diary_runway_heavy_pudding_north_cheese_hero_endorse |  
+| bip_39_word_underscore_9 | diary_runway_heavy_pudding_north_cheese_hero_endorse_reopen |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | special |  
+| bip_39_word_dash_10 | special-deposit-lake-gloom-ivory-crack-leaf-kite-bless-feel |  
+| bip_39_word_dash_11 | special-deposit-lake-gloom-ivory-crack-leaf-kite-bless-feel-behave |  
+| bip_39_word_dash_12 | special-deposit-lake-gloom-ivory-crack-leaf-kite-bless-feel-behave-antenna |  
+| bip_39_word_dash_2 | special-deposit |  
+| bip_39_word_dash_3 | special-deposit-lake |  
+| bip_39_word_dash_4 | special-deposit-lake-gloom |  
+| bip_39_word_dash_5 | special-deposit-lake-gloom-ivory |  
+| bip_39_word_dash_6 | special-deposit-lake-gloom-ivory-crack |  
+| bip_39_word_dash_7 | special-deposit-lake-gloom-ivory-crack-leaf |  
+| bip_39_word_dash_8 | special-deposit-lake-gloom-ivory-crack-leaf-kite |  
+| bip_39_word_dash_9 | special-deposit-lake-gloom-ivory-crack-leaf-kite-bless |  
 | bip_39_word_new_br_1 | special |  
 | bip_39_word_new_br_10 | special<br>deposit<br>lake<br>gloom<br>ivory<br>crack<br>leaf<br>kite<br>bless<br>feel |  
 | bip_39_word_new_br_11 | special<br>deposit<br>lake<br>gloom<br>ivory<br>crack<br>leaf<br>kite<br>bless<br>feel<br>behave |  
@@ -147,6 +159,18 @@ bless |
 | bip_39_word_space_7 | special deposit lake gloom ivory crack leaf |  
 | bip_39_word_space_8 | special deposit lake gloom ivory crack leaf kite |  
 | bip_39_word_space_9 | special deposit lake gloom ivory crack leaf kite bless |  
+| bip_39_word_underscore_1 | special |  
+| bip_39_word_underscore_10 | special_deposit_lake_gloom_ivory_crack_leaf_kite_bless_feel |  
+| bip_39_word_underscore_11 | special_deposit_lake_gloom_ivory_crack_leaf_kite_bless_feel_behave |  
+| bip_39_word_underscore_12 | special_deposit_lake_gloom_ivory_crack_leaf_kite_bless_feel_behave_antenna |  
+| bip_39_word_underscore_2 | special_deposit |  
+| bip_39_word_underscore_3 | special_deposit_lake |  
+| bip_39_word_underscore_4 | special_deposit_lake_gloom |  
+| bip_39_word_underscore_5 | special_deposit_lake_gloom_ivory |  
+| bip_39_word_underscore_6 | special_deposit_lake_gloom_ivory_crack |  
+| bip_39_word_underscore_7 | special_deposit_lake_gloom_ivory_crack_leaf |  
+| bip_39_word_underscore_8 | special_deposit_lake_gloom_ivory_crack_leaf_kite |  
+| bip_39_word_underscore_9 | special_deposit_lake_gloom_ivory_crack_leaf_kite_bless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

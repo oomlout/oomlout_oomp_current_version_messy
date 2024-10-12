@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sentence |  
+| bip_39_word_dash_10 | sentence-sure-hire-sentence-maid-fiber-divide-cliff-olympic-pet |  
+| bip_39_word_dash_11 | sentence-sure-hire-sentence-maid-fiber-divide-cliff-olympic-pet-gallery |  
+| bip_39_word_dash_12 | sentence-sure-hire-sentence-maid-fiber-divide-cliff-olympic-pet-gallery-absurd |  
+| bip_39_word_dash_2 | sentence-sure |  
+| bip_39_word_dash_3 | sentence-sure-hire |  
+| bip_39_word_dash_4 | sentence-sure-hire-sentence |  
+| bip_39_word_dash_5 | sentence-sure-hire-sentence-maid |  
+| bip_39_word_dash_6 | sentence-sure-hire-sentence-maid-fiber |  
+| bip_39_word_dash_7 | sentence-sure-hire-sentence-maid-fiber-divide |  
+| bip_39_word_dash_8 | sentence-sure-hire-sentence-maid-fiber-divide-cliff |  
+| bip_39_word_dash_9 | sentence-sure-hire-sentence-maid-fiber-divide-cliff-olympic |  
 | bip_39_word_new_br_1 | sentence |  
 | bip_39_word_new_br_10 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff<br>olympic<br>pet |  
 | bip_39_word_new_br_11 | sentence<br>sure<br>hire<br>sentence<br>maid<br>fiber<br>divide<br>cliff<br>olympic<br>pet<br>gallery |  
@@ -147,6 +159,18 @@ olympic |
 | bip_39_word_space_7 | sentence sure hire sentence maid fiber divide |  
 | bip_39_word_space_8 | sentence sure hire sentence maid fiber divide cliff |  
 | bip_39_word_space_9 | sentence sure hire sentence maid fiber divide cliff olympic |  
+| bip_39_word_underscore_1 | sentence |  
+| bip_39_word_underscore_10 | sentence_sure_hire_sentence_maid_fiber_divide_cliff_olympic_pet |  
+| bip_39_word_underscore_11 | sentence_sure_hire_sentence_maid_fiber_divide_cliff_olympic_pet_gallery |  
+| bip_39_word_underscore_12 | sentence_sure_hire_sentence_maid_fiber_divide_cliff_olympic_pet_gallery_absurd |  
+| bip_39_word_underscore_2 | sentence_sure |  
+| bip_39_word_underscore_3 | sentence_sure_hire |  
+| bip_39_word_underscore_4 | sentence_sure_hire_sentence |  
+| bip_39_word_underscore_5 | sentence_sure_hire_sentence_maid |  
+| bip_39_word_underscore_6 | sentence_sure_hire_sentence_maid_fiber |  
+| bip_39_word_underscore_7 | sentence_sure_hire_sentence_maid_fiber_divide |  
+| bip_39_word_underscore_8 | sentence_sure_hire_sentence_maid_fiber_divide_cliff |  
+| bip_39_word_underscore_9 | sentence_sure_hire_sentence_maid_fiber_divide_cliff_olympic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

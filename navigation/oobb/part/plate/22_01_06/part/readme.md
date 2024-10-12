@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fame |  
+| bip_39_word_dash_10 | fame-hover-book-case-merge-arena-wave-update-ethics-code |  
+| bip_39_word_dash_11 | fame-hover-book-case-merge-arena-wave-update-ethics-code-main |  
+| bip_39_word_dash_12 | fame-hover-book-case-merge-arena-wave-update-ethics-code-main-amateur |  
+| bip_39_word_dash_2 | fame-hover |  
+| bip_39_word_dash_3 | fame-hover-book |  
+| bip_39_word_dash_4 | fame-hover-book-case |  
+| bip_39_word_dash_5 | fame-hover-book-case-merge |  
+| bip_39_word_dash_6 | fame-hover-book-case-merge-arena |  
+| bip_39_word_dash_7 | fame-hover-book-case-merge-arena-wave |  
+| bip_39_word_dash_8 | fame-hover-book-case-merge-arena-wave-update |  
+| bip_39_word_dash_9 | fame-hover-book-case-merge-arena-wave-update-ethics |  
 | bip_39_word_new_br_1 | fame |  
 | bip_39_word_new_br_10 | fame<br>hover<br>book<br>case<br>merge<br>arena<br>wave<br>update<br>ethics<br>code |  
 | bip_39_word_new_br_11 | fame<br>hover<br>book<br>case<br>merge<br>arena<br>wave<br>update<br>ethics<br>code<br>main |  
@@ -147,6 +159,18 @@ ethics |
 | bip_39_word_space_7 | fame hover book case merge arena wave |  
 | bip_39_word_space_8 | fame hover book case merge arena wave update |  
 | bip_39_word_space_9 | fame hover book case merge arena wave update ethics |  
+| bip_39_word_underscore_1 | fame |  
+| bip_39_word_underscore_10 | fame_hover_book_case_merge_arena_wave_update_ethics_code |  
+| bip_39_word_underscore_11 | fame_hover_book_case_merge_arena_wave_update_ethics_code_main |  
+| bip_39_word_underscore_12 | fame_hover_book_case_merge_arena_wave_update_ethics_code_main_amateur |  
+| bip_39_word_underscore_2 | fame_hover |  
+| bip_39_word_underscore_3 | fame_hover_book |  
+| bip_39_word_underscore_4 | fame_hover_book_case |  
+| bip_39_word_underscore_5 | fame_hover_book_case_merge |  
+| bip_39_word_underscore_6 | fame_hover_book_case_merge_arena |  
+| bip_39_word_underscore_7 | fame_hover_book_case_merge_arena_wave |  
+| bip_39_word_underscore_8 | fame_hover_book_case_merge_arena_wave_update |  
+| bip_39_word_underscore_9 | fame_hover_book_case_merge_arena_wave_update_ethics |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

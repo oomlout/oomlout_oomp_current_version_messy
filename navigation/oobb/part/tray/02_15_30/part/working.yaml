@@ -1,3 +1,15 @@
+bip_39_word_dash_1: oyster
+bip_39_word_dash_10: oyster-crystal-jelly-elder-brand-air-alien-million-casual-have
+bip_39_word_dash_11: oyster-crystal-jelly-elder-brand-air-alien-million-casual-have-sister
+bip_39_word_dash_12: oyster-crystal-jelly-elder-brand-air-alien-million-casual-have-sister-argue
+bip_39_word_dash_2: oyster-crystal
+bip_39_word_dash_3: oyster-crystal-jelly
+bip_39_word_dash_4: oyster-crystal-jelly-elder
+bip_39_word_dash_5: oyster-crystal-jelly-elder-brand
+bip_39_word_dash_6: oyster-crystal-jelly-elder-brand-air
+bip_39_word_dash_7: oyster-crystal-jelly-elder-brand-air-alien
+bip_39_word_dash_8: oyster-crystal-jelly-elder-brand-air-alien-million
+bip_39_word_dash_9: oyster-crystal-jelly-elder-brand-air-alien-million-casual
 bip_39_word_new_br_1: oyster
 bip_39_word_new_br_10: oyster<br>crystal<br>jelly<br>elder<br>brand<br>air<br>alien<br>million<br>casual<br>have
 bip_39_word_new_br_11: oyster<br>crystal<br>jelly<br>elder<br>brand<br>air<br>alien<br>million<br>casual<br>have<br>sister
@@ -193,6 +205,18 @@ bip_39_word_space_6: oyster crystal jelly elder brand air
 bip_39_word_space_7: oyster crystal jelly elder brand air alien
 bip_39_word_space_8: oyster crystal jelly elder brand air alien million
 bip_39_word_space_9: oyster crystal jelly elder brand air alien million casual
+bip_39_word_underscore_1: oyster
+bip_39_word_underscore_10: oyster_crystal_jelly_elder_brand_air_alien_million_casual_have
+bip_39_word_underscore_11: oyster_crystal_jelly_elder_brand_air_alien_million_casual_have_sister
+bip_39_word_underscore_12: oyster_crystal_jelly_elder_brand_air_alien_million_casual_have_sister_argue
+bip_39_word_underscore_2: oyster_crystal
+bip_39_word_underscore_3: oyster_crystal_jelly
+bip_39_word_underscore_4: oyster_crystal_jelly_elder
+bip_39_word_underscore_5: oyster_crystal_jelly_elder_brand
+bip_39_word_underscore_6: oyster_crystal_jelly_elder_brand_air
+bip_39_word_underscore_7: oyster_crystal_jelly_elder_brand_air_alien
+bip_39_word_underscore_8: oyster_crystal_jelly_elder_brand_air_alien_million
+bip_39_word_underscore_9: oyster_crystal_jelly_elder_brand_air_alien_million_casual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

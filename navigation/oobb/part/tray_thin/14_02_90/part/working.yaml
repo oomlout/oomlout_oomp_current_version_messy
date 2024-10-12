@@ -1,3 +1,15 @@
+bip_39_word_dash_1: album
+bip_39_word_dash_10: album-cabin-giggle-suggest-need-crumble-struggle-cup-margin-winner
+bip_39_word_dash_11: album-cabin-giggle-suggest-need-crumble-struggle-cup-margin-winner-mule
+bip_39_word_dash_12: album-cabin-giggle-suggest-need-crumble-struggle-cup-margin-winner-mule-approve
+bip_39_word_dash_2: album-cabin
+bip_39_word_dash_3: album-cabin-giggle
+bip_39_word_dash_4: album-cabin-giggle-suggest
+bip_39_word_dash_5: album-cabin-giggle-suggest-need
+bip_39_word_dash_6: album-cabin-giggle-suggest-need-crumble
+bip_39_word_dash_7: album-cabin-giggle-suggest-need-crumble-struggle
+bip_39_word_dash_8: album-cabin-giggle-suggest-need-crumble-struggle-cup
+bip_39_word_dash_9: album-cabin-giggle-suggest-need-crumble-struggle-cup-margin
 bip_39_word_new_br_1: album
 bip_39_word_new_br_10: album<br>cabin<br>giggle<br>suggest<br>need<br>crumble<br>struggle<br>cup<br>margin<br>winner
 bip_39_word_new_br_11: album<br>cabin<br>giggle<br>suggest<br>need<br>crumble<br>struggle<br>cup<br>margin<br>winner<br>mule
@@ -194,6 +206,18 @@ bip_39_word_space_6: album cabin giggle suggest need crumble
 bip_39_word_space_7: album cabin giggle suggest need crumble struggle
 bip_39_word_space_8: album cabin giggle suggest need crumble struggle cup
 bip_39_word_space_9: album cabin giggle suggest need crumble struggle cup margin
+bip_39_word_underscore_1: album
+bip_39_word_underscore_10: album_cabin_giggle_suggest_need_crumble_struggle_cup_margin_winner
+bip_39_word_underscore_11: album_cabin_giggle_suggest_need_crumble_struggle_cup_margin_winner_mule
+bip_39_word_underscore_12: album_cabin_giggle_suggest_need_crumble_struggle_cup_margin_winner_mule_approve
+bip_39_word_underscore_2: album_cabin
+bip_39_word_underscore_3: album_cabin_giggle
+bip_39_word_underscore_4: album_cabin_giggle_suggest
+bip_39_word_underscore_5: album_cabin_giggle_suggest_need
+bip_39_word_underscore_6: album_cabin_giggle_suggest_need_crumble
+bip_39_word_underscore_7: album_cabin_giggle_suggest_need_crumble_struggle
+bip_39_word_underscore_8: album_cabin_giggle_suggest_need_crumble_struggle_cup
+bip_39_word_underscore_9: album_cabin_giggle_suggest_need_crumble_struggle_cup_margin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | column |  
+| bip_39_word_dash_10 | column-spice-farm-cup-time-balcony-demand-ghost-dove-carry |  
+| bip_39_word_dash_11 | column-spice-farm-cup-time-balcony-demand-ghost-dove-carry-exhaust |  
+| bip_39_word_dash_12 | column-spice-farm-cup-time-balcony-demand-ghost-dove-carry-exhaust-afraid |  
+| bip_39_word_dash_2 | column-spice |  
+| bip_39_word_dash_3 | column-spice-farm |  
+| bip_39_word_dash_4 | column-spice-farm-cup |  
+| bip_39_word_dash_5 | column-spice-farm-cup-time |  
+| bip_39_word_dash_6 | column-spice-farm-cup-time-balcony |  
+| bip_39_word_dash_7 | column-spice-farm-cup-time-balcony-demand |  
+| bip_39_word_dash_8 | column-spice-farm-cup-time-balcony-demand-ghost |  
+| bip_39_word_dash_9 | column-spice-farm-cup-time-balcony-demand-ghost-dove |  
 | bip_39_word_new_br_1 | column |  
 | bip_39_word_new_br_10 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry |  
 | bip_39_word_new_br_11 | column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry<br>exhaust |  
@@ -147,6 +159,18 @@ dove |
 | bip_39_word_space_7 | column spice farm cup time balcony demand |  
 | bip_39_word_space_8 | column spice farm cup time balcony demand ghost |  
 | bip_39_word_space_9 | column spice farm cup time balcony demand ghost dove |  
+| bip_39_word_underscore_1 | column |  
+| bip_39_word_underscore_10 | column_spice_farm_cup_time_balcony_demand_ghost_dove_carry |  
+| bip_39_word_underscore_11 | column_spice_farm_cup_time_balcony_demand_ghost_dove_carry_exhaust |  
+| bip_39_word_underscore_12 | column_spice_farm_cup_time_balcony_demand_ghost_dove_carry_exhaust_afraid |  
+| bip_39_word_underscore_2 | column_spice |  
+| bip_39_word_underscore_3 | column_spice_farm |  
+| bip_39_word_underscore_4 | column_spice_farm_cup |  
+| bip_39_word_underscore_5 | column_spice_farm_cup_time |  
+| bip_39_word_underscore_6 | column_spice_farm_cup_time_balcony |  
+| bip_39_word_underscore_7 | column_spice_farm_cup_time_balcony_demand |  
+| bip_39_word_underscore_8 | column_spice_farm_cup_time_balcony_demand_ghost |  
+| bip_39_word_underscore_9 | column_spice_farm_cup_time_balcony_demand_ghost_dove |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

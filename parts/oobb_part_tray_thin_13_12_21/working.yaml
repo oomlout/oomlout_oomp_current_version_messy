@@ -1,3 +1,15 @@
+bip_39_word_dash_1: once
+bip_39_word_dash_10: once-exhibit-color-trend-actor-crash-evoke-shrug-prepare-exhaust
+bip_39_word_dash_11: once-exhibit-color-trend-actor-crash-evoke-shrug-prepare-exhaust-legal
+bip_39_word_dash_12: once-exhibit-color-trend-actor-crash-evoke-shrug-prepare-exhaust-legal-affair
+bip_39_word_dash_2: once-exhibit
+bip_39_word_dash_3: once-exhibit-color
+bip_39_word_dash_4: once-exhibit-color-trend
+bip_39_word_dash_5: once-exhibit-color-trend-actor
+bip_39_word_dash_6: once-exhibit-color-trend-actor-crash
+bip_39_word_dash_7: once-exhibit-color-trend-actor-crash-evoke
+bip_39_word_dash_8: once-exhibit-color-trend-actor-crash-evoke-shrug
+bip_39_word_dash_9: once-exhibit-color-trend-actor-crash-evoke-shrug-prepare
 bip_39_word_new_br_1: once
 bip_39_word_new_br_10: once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust
 bip_39_word_new_br_11: once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust<br>legal
@@ -193,6 +205,18 @@ bip_39_word_space_6: once exhibit color trend actor crash
 bip_39_word_space_7: once exhibit color trend actor crash evoke
 bip_39_word_space_8: once exhibit color trend actor crash evoke shrug
 bip_39_word_space_9: once exhibit color trend actor crash evoke shrug prepare
+bip_39_word_underscore_1: once
+bip_39_word_underscore_10: once_exhibit_color_trend_actor_crash_evoke_shrug_prepare_exhaust
+bip_39_word_underscore_11: once_exhibit_color_trend_actor_crash_evoke_shrug_prepare_exhaust_legal
+bip_39_word_underscore_12: once_exhibit_color_trend_actor_crash_evoke_shrug_prepare_exhaust_legal_affair
+bip_39_word_underscore_2: once_exhibit
+bip_39_word_underscore_3: once_exhibit_color
+bip_39_word_underscore_4: once_exhibit_color_trend
+bip_39_word_underscore_5: once_exhibit_color_trend_actor
+bip_39_word_underscore_6: once_exhibit_color_trend_actor_crash
+bip_39_word_underscore_7: once_exhibit_color_trend_actor_crash_evoke
+bip_39_word_underscore_8: once_exhibit_color_trend_actor_crash_evoke_shrug
+bip_39_word_underscore_9: once_exhibit_color_trend_actor_crash_evoke_shrug_prepare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

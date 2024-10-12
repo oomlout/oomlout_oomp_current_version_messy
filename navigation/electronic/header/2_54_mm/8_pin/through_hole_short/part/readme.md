@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | identify |  
+| bip_39_word_dash_10 | identify-weather-biology-dial-other-language-basic-awake-silent-edge |  
+| bip_39_word_dash_11 | identify-weather-biology-dial-other-language-basic-awake-silent-edge-shift |  
+| bip_39_word_dash_12 | identify-weather-biology-dial-other-language-basic-awake-silent-edge-shift-air |  
+| bip_39_word_dash_2 | identify-weather |  
+| bip_39_word_dash_3 | identify-weather-biology |  
+| bip_39_word_dash_4 | identify-weather-biology-dial |  
+| bip_39_word_dash_5 | identify-weather-biology-dial-other |  
+| bip_39_word_dash_6 | identify-weather-biology-dial-other-language |  
+| bip_39_word_dash_7 | identify-weather-biology-dial-other-language-basic |  
+| bip_39_word_dash_8 | identify-weather-biology-dial-other-language-basic-awake |  
+| bip_39_word_dash_9 | identify-weather-biology-dial-other-language-basic-awake-silent |  
 | bip_39_word_new_br_1 | identify |  
 | bip_39_word_new_br_10 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake<br>silent<br>edge |  
 | bip_39_word_new_br_11 | identify<br>weather<br>biology<br>dial<br>other<br>language<br>basic<br>awake<br>silent<br>edge<br>shift |  
@@ -147,6 +159,18 @@ silent |
 | bip_39_word_space_7 | identify weather biology dial other language basic |  
 | bip_39_word_space_8 | identify weather biology dial other language basic awake |  
 | bip_39_word_space_9 | identify weather biology dial other language basic awake silent |  
+| bip_39_word_underscore_1 | identify |  
+| bip_39_word_underscore_10 | identify_weather_biology_dial_other_language_basic_awake_silent_edge |  
+| bip_39_word_underscore_11 | identify_weather_biology_dial_other_language_basic_awake_silent_edge_shift |  
+| bip_39_word_underscore_12 | identify_weather_biology_dial_other_language_basic_awake_silent_edge_shift_air |  
+| bip_39_word_underscore_2 | identify_weather |  
+| bip_39_word_underscore_3 | identify_weather_biology |  
+| bip_39_word_underscore_4 | identify_weather_biology_dial |  
+| bip_39_word_underscore_5 | identify_weather_biology_dial_other |  
+| bip_39_word_underscore_6 | identify_weather_biology_dial_other_language |  
+| bip_39_word_underscore_7 | identify_weather_biology_dial_other_language_basic |  
+| bip_39_word_underscore_8 | identify_weather_biology_dial_other_language_basic_awake |  
+| bip_39_word_underscore_9 | identify_weather_biology_dial_other_language_basic_awake_silent |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

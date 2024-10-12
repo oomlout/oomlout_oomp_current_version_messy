@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tone
+bip_39_word_dash_10: tone-assault-suggest-smile-coral-output-old-topic-grocery-pudding
+bip_39_word_dash_11: tone-assault-suggest-smile-coral-output-old-topic-grocery-pudding-quiz
+bip_39_word_dash_12: tone-assault-suggest-smile-coral-output-old-topic-grocery-pudding-quiz-attract
+bip_39_word_dash_2: tone-assault
+bip_39_word_dash_3: tone-assault-suggest
+bip_39_word_dash_4: tone-assault-suggest-smile
+bip_39_word_dash_5: tone-assault-suggest-smile-coral
+bip_39_word_dash_6: tone-assault-suggest-smile-coral-output
+bip_39_word_dash_7: tone-assault-suggest-smile-coral-output-old
+bip_39_word_dash_8: tone-assault-suggest-smile-coral-output-old-topic
+bip_39_word_dash_9: tone-assault-suggest-smile-coral-output-old-topic-grocery
 bip_39_word_new_br_1: tone
 bip_39_word_new_br_10: tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding
 bip_39_word_new_br_11: tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding<br>quiz
@@ -193,6 +205,18 @@ bip_39_word_space_6: tone assault suggest smile coral output
 bip_39_word_space_7: tone assault suggest smile coral output old
 bip_39_word_space_8: tone assault suggest smile coral output old topic
 bip_39_word_space_9: tone assault suggest smile coral output old topic grocery
+bip_39_word_underscore_1: tone
+bip_39_word_underscore_10: tone_assault_suggest_smile_coral_output_old_topic_grocery_pudding
+bip_39_word_underscore_11: tone_assault_suggest_smile_coral_output_old_topic_grocery_pudding_quiz
+bip_39_word_underscore_12: tone_assault_suggest_smile_coral_output_old_topic_grocery_pudding_quiz_attract
+bip_39_word_underscore_2: tone_assault
+bip_39_word_underscore_3: tone_assault_suggest
+bip_39_word_underscore_4: tone_assault_suggest_smile
+bip_39_word_underscore_5: tone_assault_suggest_smile_coral
+bip_39_word_underscore_6: tone_assault_suggest_smile_coral_output
+bip_39_word_underscore_7: tone_assault_suggest_smile_coral_output_old
+bip_39_word_underscore_8: tone_assault_suggest_smile_coral_output_old_topic
+bip_39_word_underscore_9: tone_assault_suggest_smile_coral_output_old_topic_grocery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

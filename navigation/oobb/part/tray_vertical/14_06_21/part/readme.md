@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | doll |  
+| bip_39_word_dash_10 | doll-skirt-owner-crystal-guard-slim-ivory-alarm-elbow-welcome |  
+| bip_39_word_dash_11 | doll-skirt-owner-crystal-guard-slim-ivory-alarm-elbow-welcome-awake |  
+| bip_39_word_dash_12 | doll-skirt-owner-crystal-guard-slim-ivory-alarm-elbow-welcome-awake-amount |  
+| bip_39_word_dash_2 | doll-skirt |  
+| bip_39_word_dash_3 | doll-skirt-owner |  
+| bip_39_word_dash_4 | doll-skirt-owner-crystal |  
+| bip_39_word_dash_5 | doll-skirt-owner-crystal-guard |  
+| bip_39_word_dash_6 | doll-skirt-owner-crystal-guard-slim |  
+| bip_39_word_dash_7 | doll-skirt-owner-crystal-guard-slim-ivory |  
+| bip_39_word_dash_8 | doll-skirt-owner-crystal-guard-slim-ivory-alarm |  
+| bip_39_word_dash_9 | doll-skirt-owner-crystal-guard-slim-ivory-alarm-elbow |  
 | bip_39_word_new_br_1 | doll |  
 | bip_39_word_new_br_10 | doll<br>skirt<br>owner<br>crystal<br>guard<br>slim<br>ivory<br>alarm<br>elbow<br>welcome |  
 | bip_39_word_new_br_11 | doll<br>skirt<br>owner<br>crystal<br>guard<br>slim<br>ivory<br>alarm<br>elbow<br>welcome<br>awake |  
@@ -147,6 +159,18 @@ elbow |
 | bip_39_word_space_7 | doll skirt owner crystal guard slim ivory |  
 | bip_39_word_space_8 | doll skirt owner crystal guard slim ivory alarm |  
 | bip_39_word_space_9 | doll skirt owner crystal guard slim ivory alarm elbow |  
+| bip_39_word_underscore_1 | doll |  
+| bip_39_word_underscore_10 | doll_skirt_owner_crystal_guard_slim_ivory_alarm_elbow_welcome |  
+| bip_39_word_underscore_11 | doll_skirt_owner_crystal_guard_slim_ivory_alarm_elbow_welcome_awake |  
+| bip_39_word_underscore_12 | doll_skirt_owner_crystal_guard_slim_ivory_alarm_elbow_welcome_awake_amount |  
+| bip_39_word_underscore_2 | doll_skirt |  
+| bip_39_word_underscore_3 | doll_skirt_owner |  
+| bip_39_word_underscore_4 | doll_skirt_owner_crystal |  
+| bip_39_word_underscore_5 | doll_skirt_owner_crystal_guard |  
+| bip_39_word_underscore_6 | doll_skirt_owner_crystal_guard_slim |  
+| bip_39_word_underscore_7 | doll_skirt_owner_crystal_guard_slim_ivory |  
+| bip_39_word_underscore_8 | doll_skirt_owner_crystal_guard_slim_ivory_alarm |  
+| bip_39_word_underscore_9 | doll_skirt_owner_crystal_guard_slim_ivory_alarm_elbow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

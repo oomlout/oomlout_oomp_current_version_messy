@@ -1,3 +1,15 @@
+bip_39_word_dash_1: old
+bip_39_word_dash_10: old-fringe-derive-glove-poverty-radio-ripple-two-choose-judge
+bip_39_word_dash_11: old-fringe-derive-glove-poverty-radio-ripple-two-choose-judge-theme
+bip_39_word_dash_12: old-fringe-derive-glove-poverty-radio-ripple-two-choose-judge-theme-auction
+bip_39_word_dash_2: old-fringe
+bip_39_word_dash_3: old-fringe-derive
+bip_39_word_dash_4: old-fringe-derive-glove
+bip_39_word_dash_5: old-fringe-derive-glove-poverty
+bip_39_word_dash_6: old-fringe-derive-glove-poverty-radio
+bip_39_word_dash_7: old-fringe-derive-glove-poverty-radio-ripple
+bip_39_word_dash_8: old-fringe-derive-glove-poverty-radio-ripple-two
+bip_39_word_dash_9: old-fringe-derive-glove-poverty-radio-ripple-two-choose
 bip_39_word_new_br_1: old
 bip_39_word_new_br_10: old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two<br>choose<br>judge
 bip_39_word_new_br_11: old<br>fringe<br>derive<br>glove<br>poverty<br>radio<br>ripple<br>two<br>choose<br>judge<br>theme
@@ -193,6 +205,18 @@ bip_39_word_space_6: old fringe derive glove poverty radio
 bip_39_word_space_7: old fringe derive glove poverty radio ripple
 bip_39_word_space_8: old fringe derive glove poverty radio ripple two
 bip_39_word_space_9: old fringe derive glove poverty radio ripple two choose
+bip_39_word_underscore_1: old
+bip_39_word_underscore_10: old_fringe_derive_glove_poverty_radio_ripple_two_choose_judge
+bip_39_word_underscore_11: old_fringe_derive_glove_poverty_radio_ripple_two_choose_judge_theme
+bip_39_word_underscore_12: old_fringe_derive_glove_poverty_radio_ripple_two_choose_judge_theme_auction
+bip_39_word_underscore_2: old_fringe
+bip_39_word_underscore_3: old_fringe_derive
+bip_39_word_underscore_4: old_fringe_derive_glove
+bip_39_word_underscore_5: old_fringe_derive_glove_poverty
+bip_39_word_underscore_6: old_fringe_derive_glove_poverty_radio
+bip_39_word_underscore_7: old_fringe_derive_glove_poverty_radio_ripple
+bip_39_word_underscore_8: old_fringe_derive_glove_poverty_radio_ripple_two
+bip_39_word_underscore_9: old_fringe_derive_glove_poverty_radio_ripple_two_choose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

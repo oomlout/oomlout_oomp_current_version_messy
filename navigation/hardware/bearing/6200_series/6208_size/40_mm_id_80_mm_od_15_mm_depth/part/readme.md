@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slab |  
+| bip_39_word_dash_10 | slab-auction-become-bulb-tooth-glad-tooth-cheese-catch-invite |  
+| bip_39_word_dash_11 | slab-auction-become-bulb-tooth-glad-tooth-cheese-catch-invite-solution |  
+| bip_39_word_dash_12 | slab-auction-become-bulb-tooth-glad-tooth-cheese-catch-invite-solution-alarm |  
+| bip_39_word_dash_2 | slab-auction |  
+| bip_39_word_dash_3 | slab-auction-become |  
+| bip_39_word_dash_4 | slab-auction-become-bulb |  
+| bip_39_word_dash_5 | slab-auction-become-bulb-tooth |  
+| bip_39_word_dash_6 | slab-auction-become-bulb-tooth-glad |  
+| bip_39_word_dash_7 | slab-auction-become-bulb-tooth-glad-tooth |  
+| bip_39_word_dash_8 | slab-auction-become-bulb-tooth-glad-tooth-cheese |  
+| bip_39_word_dash_9 | slab-auction-become-bulb-tooth-glad-tooth-cheese-catch |  
 | bip_39_word_new_br_1 | slab |  
 | bip_39_word_new_br_10 | slab<br>auction<br>become<br>bulb<br>tooth<br>glad<br>tooth<br>cheese<br>catch<br>invite |  
 | bip_39_word_new_br_11 | slab<br>auction<br>become<br>bulb<br>tooth<br>glad<br>tooth<br>cheese<br>catch<br>invite<br>solution |  
@@ -147,6 +159,18 @@ catch |
 | bip_39_word_space_7 | slab auction become bulb tooth glad tooth |  
 | bip_39_word_space_8 | slab auction become bulb tooth glad tooth cheese |  
 | bip_39_word_space_9 | slab auction become bulb tooth glad tooth cheese catch |  
+| bip_39_word_underscore_1 | slab |  
+| bip_39_word_underscore_10 | slab_auction_become_bulb_tooth_glad_tooth_cheese_catch_invite |  
+| bip_39_word_underscore_11 | slab_auction_become_bulb_tooth_glad_tooth_cheese_catch_invite_solution |  
+| bip_39_word_underscore_12 | slab_auction_become_bulb_tooth_glad_tooth_cheese_catch_invite_solution_alarm |  
+| bip_39_word_underscore_2 | slab_auction |  
+| bip_39_word_underscore_3 | slab_auction_become |  
+| bip_39_word_underscore_4 | slab_auction_become_bulb |  
+| bip_39_word_underscore_5 | slab_auction_become_bulb_tooth |  
+| bip_39_word_underscore_6 | slab_auction_become_bulb_tooth_glad |  
+| bip_39_word_underscore_7 | slab_auction_become_bulb_tooth_glad_tooth |  
+| bip_39_word_underscore_8 | slab_auction_become_bulb_tooth_glad_tooth_cheese |  
+| bip_39_word_underscore_9 | slab_auction_become_bulb_tooth_glad_tooth_cheese_catch |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

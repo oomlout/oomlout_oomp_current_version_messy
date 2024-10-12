@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dial
+bip_39_word_dash_10: dial-main-ill-panda-super-betray-foot-figure-sail-grunt
+bip_39_word_dash_11: dial-main-ill-panda-super-betray-foot-figure-sail-grunt-agree
+bip_39_word_dash_12: dial-main-ill-panda-super-betray-foot-figure-sail-grunt-agree-april
+bip_39_word_dash_2: dial-main
+bip_39_word_dash_3: dial-main-ill
+bip_39_word_dash_4: dial-main-ill-panda
+bip_39_word_dash_5: dial-main-ill-panda-super
+bip_39_word_dash_6: dial-main-ill-panda-super-betray
+bip_39_word_dash_7: dial-main-ill-panda-super-betray-foot
+bip_39_word_dash_8: dial-main-ill-panda-super-betray-foot-figure
+bip_39_word_dash_9: dial-main-ill-panda-super-betray-foot-figure-sail
 bip_39_word_new_br_1: dial
 bip_39_word_new_br_10: dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt
 bip_39_word_new_br_11: dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt<br>agree
@@ -192,6 +204,18 @@ bip_39_word_space_6: dial main ill panda super betray
 bip_39_word_space_7: dial main ill panda super betray foot
 bip_39_word_space_8: dial main ill panda super betray foot figure
 bip_39_word_space_9: dial main ill panda super betray foot figure sail
+bip_39_word_underscore_1: dial
+bip_39_word_underscore_10: dial_main_ill_panda_super_betray_foot_figure_sail_grunt
+bip_39_word_underscore_11: dial_main_ill_panda_super_betray_foot_figure_sail_grunt_agree
+bip_39_word_underscore_12: dial_main_ill_panda_super_betray_foot_figure_sail_grunt_agree_april
+bip_39_word_underscore_2: dial_main
+bip_39_word_underscore_3: dial_main_ill
+bip_39_word_underscore_4: dial_main_ill_panda
+bip_39_word_underscore_5: dial_main_ill_panda_super
+bip_39_word_underscore_6: dial_main_ill_panda_super_betray
+bip_39_word_underscore_7: dial_main_ill_panda_super_betray_foot
+bip_39_word_underscore_8: dial_main_ill_panda_super_betray_foot_figure
+bip_39_word_underscore_9: dial_main_ill_panda_super_betray_foot_figure_sail
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

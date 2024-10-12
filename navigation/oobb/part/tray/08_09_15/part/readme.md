@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mention |  
+| bip_39_word_dash_10 | mention-under-face-zoo-stove-cotton-hope-grass-utility-slender |  
+| bip_39_word_dash_11 | mention-under-face-zoo-stove-cotton-hope-grass-utility-slender-clump |  
+| bip_39_word_dash_12 | mention-under-face-zoo-stove-cotton-hope-grass-utility-slender-clump-amateur |  
+| bip_39_word_dash_2 | mention-under |  
+| bip_39_word_dash_3 | mention-under-face |  
+| bip_39_word_dash_4 | mention-under-face-zoo |  
+| bip_39_word_dash_5 | mention-under-face-zoo-stove |  
+| bip_39_word_dash_6 | mention-under-face-zoo-stove-cotton |  
+| bip_39_word_dash_7 | mention-under-face-zoo-stove-cotton-hope |  
+| bip_39_word_dash_8 | mention-under-face-zoo-stove-cotton-hope-grass |  
+| bip_39_word_dash_9 | mention-under-face-zoo-stove-cotton-hope-grass-utility |  
 | bip_39_word_new_br_1 | mention |  
 | bip_39_word_new_br_10 | mention<br>under<br>face<br>zoo<br>stove<br>cotton<br>hope<br>grass<br>utility<br>slender |  
 | bip_39_word_new_br_11 | mention<br>under<br>face<br>zoo<br>stove<br>cotton<br>hope<br>grass<br>utility<br>slender<br>clump |  
@@ -147,6 +159,18 @@ utility |
 | bip_39_word_space_7 | mention under face zoo stove cotton hope |  
 | bip_39_word_space_8 | mention under face zoo stove cotton hope grass |  
 | bip_39_word_space_9 | mention under face zoo stove cotton hope grass utility |  
+| bip_39_word_underscore_1 | mention |  
+| bip_39_word_underscore_10 | mention_under_face_zoo_stove_cotton_hope_grass_utility_slender |  
+| bip_39_word_underscore_11 | mention_under_face_zoo_stove_cotton_hope_grass_utility_slender_clump |  
+| bip_39_word_underscore_12 | mention_under_face_zoo_stove_cotton_hope_grass_utility_slender_clump_amateur |  
+| bip_39_word_underscore_2 | mention_under |  
+| bip_39_word_underscore_3 | mention_under_face |  
+| bip_39_word_underscore_4 | mention_under_face_zoo |  
+| bip_39_word_underscore_5 | mention_under_face_zoo_stove |  
+| bip_39_word_underscore_6 | mention_under_face_zoo_stove_cotton |  
+| bip_39_word_underscore_7 | mention_under_face_zoo_stove_cotton_hope |  
+| bip_39_word_underscore_8 | mention_under_face_zoo_stove_cotton_hope_grass |  
+| bip_39_word_underscore_9 | mention_under_face_zoo_stove_cotton_hope_grass_utility |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

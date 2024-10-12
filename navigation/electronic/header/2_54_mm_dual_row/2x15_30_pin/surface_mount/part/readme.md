@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mansion |  
+| bip_39_word_dash_10 | mansion-party-knife-typical-ahead-topic-please-situate-slow-margin |  
+| bip_39_word_dash_11 | mansion-party-knife-typical-ahead-topic-please-situate-slow-margin-drama |  
+| bip_39_word_dash_12 | mansion-party-knife-typical-ahead-topic-please-situate-slow-margin-drama-ankle |  
+| bip_39_word_dash_2 | mansion-party |  
+| bip_39_word_dash_3 | mansion-party-knife |  
+| bip_39_word_dash_4 | mansion-party-knife-typical |  
+| bip_39_word_dash_5 | mansion-party-knife-typical-ahead |  
+| bip_39_word_dash_6 | mansion-party-knife-typical-ahead-topic |  
+| bip_39_word_dash_7 | mansion-party-knife-typical-ahead-topic-please |  
+| bip_39_word_dash_8 | mansion-party-knife-typical-ahead-topic-please-situate |  
+| bip_39_word_dash_9 | mansion-party-knife-typical-ahead-topic-please-situate-slow |  
 | bip_39_word_new_br_1 | mansion |  
 | bip_39_word_new_br_10 | mansion<br>party<br>knife<br>typical<br>ahead<br>topic<br>please<br>situate<br>slow<br>margin |  
 | bip_39_word_new_br_11 | mansion<br>party<br>knife<br>typical<br>ahead<br>topic<br>please<br>situate<br>slow<br>margin<br>drama |  
@@ -147,6 +159,18 @@ slow |
 | bip_39_word_space_7 | mansion party knife typical ahead topic please |  
 | bip_39_word_space_8 | mansion party knife typical ahead topic please situate |  
 | bip_39_word_space_9 | mansion party knife typical ahead topic please situate slow |  
+| bip_39_word_underscore_1 | mansion |  
+| bip_39_word_underscore_10 | mansion_party_knife_typical_ahead_topic_please_situate_slow_margin |  
+| bip_39_word_underscore_11 | mansion_party_knife_typical_ahead_topic_please_situate_slow_margin_drama |  
+| bip_39_word_underscore_12 | mansion_party_knife_typical_ahead_topic_please_situate_slow_margin_drama_ankle |  
+| bip_39_word_underscore_2 | mansion_party |  
+| bip_39_word_underscore_3 | mansion_party_knife |  
+| bip_39_word_underscore_4 | mansion_party_knife_typical |  
+| bip_39_word_underscore_5 | mansion_party_knife_typical_ahead |  
+| bip_39_word_underscore_6 | mansion_party_knife_typical_ahead_topic |  
+| bip_39_word_underscore_7 | mansion_party_knife_typical_ahead_topic_please |  
+| bip_39_word_underscore_8 | mansion_party_knife_typical_ahead_topic_please_situate |  
+| bip_39_word_underscore_9 | mansion_party_knife_typical_ahead_topic_please_situate_slow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

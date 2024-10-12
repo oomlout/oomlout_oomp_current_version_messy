@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deliver |  
+| bip_39_word_dash_10 | deliver-hollow-trip-omit-cup-allow-absent-slight-island-depart |  
+| bip_39_word_dash_11 | deliver-hollow-trip-omit-cup-allow-absent-slight-island-depart-trade |  
+| bip_39_word_dash_12 | deliver-hollow-trip-omit-cup-allow-absent-slight-island-depart-trade-armed |  
+| bip_39_word_dash_2 | deliver-hollow |  
+| bip_39_word_dash_3 | deliver-hollow-trip |  
+| bip_39_word_dash_4 | deliver-hollow-trip-omit |  
+| bip_39_word_dash_5 | deliver-hollow-trip-omit-cup |  
+| bip_39_word_dash_6 | deliver-hollow-trip-omit-cup-allow |  
+| bip_39_word_dash_7 | deliver-hollow-trip-omit-cup-allow-absent |  
+| bip_39_word_dash_8 | deliver-hollow-trip-omit-cup-allow-absent-slight |  
+| bip_39_word_dash_9 | deliver-hollow-trip-omit-cup-allow-absent-slight-island |  
 | bip_39_word_new_br_1 | deliver |  
 | bip_39_word_new_br_10 | deliver<br>hollow<br>trip<br>omit<br>cup<br>allow<br>absent<br>slight<br>island<br>depart |  
 | bip_39_word_new_br_11 | deliver<br>hollow<br>trip<br>omit<br>cup<br>allow<br>absent<br>slight<br>island<br>depart<br>trade |  
@@ -147,6 +159,18 @@ island |
 | bip_39_word_space_7 | deliver hollow trip omit cup allow absent |  
 | bip_39_word_space_8 | deliver hollow trip omit cup allow absent slight |  
 | bip_39_word_space_9 | deliver hollow trip omit cup allow absent slight island |  
+| bip_39_word_underscore_1 | deliver |  
+| bip_39_word_underscore_10 | deliver_hollow_trip_omit_cup_allow_absent_slight_island_depart |  
+| bip_39_word_underscore_11 | deliver_hollow_trip_omit_cup_allow_absent_slight_island_depart_trade |  
+| bip_39_word_underscore_12 | deliver_hollow_trip_omit_cup_allow_absent_slight_island_depart_trade_armed |  
+| bip_39_word_underscore_2 | deliver_hollow |  
+| bip_39_word_underscore_3 | deliver_hollow_trip |  
+| bip_39_word_underscore_4 | deliver_hollow_trip_omit |  
+| bip_39_word_underscore_5 | deliver_hollow_trip_omit_cup |  
+| bip_39_word_underscore_6 | deliver_hollow_trip_omit_cup_allow |  
+| bip_39_word_underscore_7 | deliver_hollow_trip_omit_cup_allow_absent |  
+| bip_39_word_underscore_8 | deliver_hollow_trip_omit_cup_allow_absent_slight |  
+| bip_39_word_underscore_9 | deliver_hollow_trip_omit_cup_allow_absent_slight_island |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

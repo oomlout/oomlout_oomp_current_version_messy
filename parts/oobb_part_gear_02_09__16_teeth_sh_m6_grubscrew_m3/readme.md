@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mean |  
+| bip_39_word_dash_10 | mean-brave-strong-segment-obtain-owner-perfect-need-title-cheese |  
+| bip_39_word_dash_11 | mean-brave-strong-segment-obtain-owner-perfect-need-title-cheese-knee |  
+| bip_39_word_dash_12 | mean-brave-strong-segment-obtain-owner-perfect-need-title-cheese-knee-agent |  
+| bip_39_word_dash_2 | mean-brave |  
+| bip_39_word_dash_3 | mean-brave-strong |  
+| bip_39_word_dash_4 | mean-brave-strong-segment |  
+| bip_39_word_dash_5 | mean-brave-strong-segment-obtain |  
+| bip_39_word_dash_6 | mean-brave-strong-segment-obtain-owner |  
+| bip_39_word_dash_7 | mean-brave-strong-segment-obtain-owner-perfect |  
+| bip_39_word_dash_8 | mean-brave-strong-segment-obtain-owner-perfect-need |  
+| bip_39_word_dash_9 | mean-brave-strong-segment-obtain-owner-perfect-need-title |  
 | bip_39_word_new_br_1 | mean |  
 | bip_39_word_new_br_10 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese |  
 | bip_39_word_new_br_11 | mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese<br>knee |  
@@ -147,6 +159,18 @@ title |
 | bip_39_word_space_7 | mean brave strong segment obtain owner perfect |  
 | bip_39_word_space_8 | mean brave strong segment obtain owner perfect need |  
 | bip_39_word_space_9 | mean brave strong segment obtain owner perfect need title |  
+| bip_39_word_underscore_1 | mean |  
+| bip_39_word_underscore_10 | mean_brave_strong_segment_obtain_owner_perfect_need_title_cheese |  
+| bip_39_word_underscore_11 | mean_brave_strong_segment_obtain_owner_perfect_need_title_cheese_knee |  
+| bip_39_word_underscore_12 | mean_brave_strong_segment_obtain_owner_perfect_need_title_cheese_knee_agent |  
+| bip_39_word_underscore_2 | mean_brave |  
+| bip_39_word_underscore_3 | mean_brave_strong |  
+| bip_39_word_underscore_4 | mean_brave_strong_segment |  
+| bip_39_word_underscore_5 | mean_brave_strong_segment_obtain |  
+| bip_39_word_underscore_6 | mean_brave_strong_segment_obtain_owner |  
+| bip_39_word_underscore_7 | mean_brave_strong_segment_obtain_owner_perfect |  
+| bip_39_word_underscore_8 | mean_brave_strong_segment_obtain_owner_perfect_need |  
+| bip_39_word_underscore_9 | mean_brave_strong_segment_obtain_owner_perfect_need_title |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

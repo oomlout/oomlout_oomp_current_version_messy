@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sad |  
+| bip_39_word_dash_10 | sad-vehicle-mansion-pigeon-fruit-you-quick-sweet-can-indoor |  
+| bip_39_word_dash_11 | sad-vehicle-mansion-pigeon-fruit-you-quick-sweet-can-indoor-taxi |  
+| bip_39_word_dash_12 | sad-vehicle-mansion-pigeon-fruit-you-quick-sweet-can-indoor-taxi-army |  
+| bip_39_word_dash_2 | sad-vehicle |  
+| bip_39_word_dash_3 | sad-vehicle-mansion |  
+| bip_39_word_dash_4 | sad-vehicle-mansion-pigeon |  
+| bip_39_word_dash_5 | sad-vehicle-mansion-pigeon-fruit |  
+| bip_39_word_dash_6 | sad-vehicle-mansion-pigeon-fruit-you |  
+| bip_39_word_dash_7 | sad-vehicle-mansion-pigeon-fruit-you-quick |  
+| bip_39_word_dash_8 | sad-vehicle-mansion-pigeon-fruit-you-quick-sweet |  
+| bip_39_word_dash_9 | sad-vehicle-mansion-pigeon-fruit-you-quick-sweet-can |  
 | bip_39_word_new_br_1 | sad |  
 | bip_39_word_new_br_10 | sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet<br>can<br>indoor |  
 | bip_39_word_new_br_11 | sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet<br>can<br>indoor<br>taxi |  
@@ -147,6 +159,18 @@ can |
 | bip_39_word_space_7 | sad vehicle mansion pigeon fruit you quick |  
 | bip_39_word_space_8 | sad vehicle mansion pigeon fruit you quick sweet |  
 | bip_39_word_space_9 | sad vehicle mansion pigeon fruit you quick sweet can |  
+| bip_39_word_underscore_1 | sad |  
+| bip_39_word_underscore_10 | sad_vehicle_mansion_pigeon_fruit_you_quick_sweet_can_indoor |  
+| bip_39_word_underscore_11 | sad_vehicle_mansion_pigeon_fruit_you_quick_sweet_can_indoor_taxi |  
+| bip_39_word_underscore_12 | sad_vehicle_mansion_pigeon_fruit_you_quick_sweet_can_indoor_taxi_army |  
+| bip_39_word_underscore_2 | sad_vehicle |  
+| bip_39_word_underscore_3 | sad_vehicle_mansion |  
+| bip_39_word_underscore_4 | sad_vehicle_mansion_pigeon |  
+| bip_39_word_underscore_5 | sad_vehicle_mansion_pigeon_fruit |  
+| bip_39_word_underscore_6 | sad_vehicle_mansion_pigeon_fruit_you |  
+| bip_39_word_underscore_7 | sad_vehicle_mansion_pigeon_fruit_you_quick |  
+| bip_39_word_underscore_8 | sad_vehicle_mansion_pigeon_fruit_you_quick_sweet |  
+| bip_39_word_underscore_9 | sad_vehicle_mansion_pigeon_fruit_you_quick_sweet_can |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

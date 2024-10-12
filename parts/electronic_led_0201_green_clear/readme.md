@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | valley |  
+| bip_39_word_dash_10 | valley-crack-describe-swift-adapt-current-abstract-mom-radio-fragile |  
+| bip_39_word_dash_11 | valley-crack-describe-swift-adapt-current-abstract-mom-radio-fragile-scare |  
+| bip_39_word_dash_12 | valley-crack-describe-swift-adapt-current-abstract-mom-radio-fragile-scare-advance |  
+| bip_39_word_dash_2 | valley-crack |  
+| bip_39_word_dash_3 | valley-crack-describe |  
+| bip_39_word_dash_4 | valley-crack-describe-swift |  
+| bip_39_word_dash_5 | valley-crack-describe-swift-adapt |  
+| bip_39_word_dash_6 | valley-crack-describe-swift-adapt-current |  
+| bip_39_word_dash_7 | valley-crack-describe-swift-adapt-current-abstract |  
+| bip_39_word_dash_8 | valley-crack-describe-swift-adapt-current-abstract-mom |  
+| bip_39_word_dash_9 | valley-crack-describe-swift-adapt-current-abstract-mom-radio |  
 | bip_39_word_new_br_1 | valley |  
 | bip_39_word_new_br_10 | valley<br>crack<br>describe<br>swift<br>adapt<br>current<br>abstract<br>mom<br>radio<br>fragile |  
 | bip_39_word_new_br_11 | valley<br>crack<br>describe<br>swift<br>adapt<br>current<br>abstract<br>mom<br>radio<br>fragile<br>scare |  
@@ -147,6 +159,18 @@ radio |
 | bip_39_word_space_7 | valley crack describe swift adapt current abstract |  
 | bip_39_word_space_8 | valley crack describe swift adapt current abstract mom |  
 | bip_39_word_space_9 | valley crack describe swift adapt current abstract mom radio |  
+| bip_39_word_underscore_1 | valley |  
+| bip_39_word_underscore_10 | valley_crack_describe_swift_adapt_current_abstract_mom_radio_fragile |  
+| bip_39_word_underscore_11 | valley_crack_describe_swift_adapt_current_abstract_mom_radio_fragile_scare |  
+| bip_39_word_underscore_12 | valley_crack_describe_swift_adapt_current_abstract_mom_radio_fragile_scare_advance |  
+| bip_39_word_underscore_2 | valley_crack |  
+| bip_39_word_underscore_3 | valley_crack_describe |  
+| bip_39_word_underscore_4 | valley_crack_describe_swift |  
+| bip_39_word_underscore_5 | valley_crack_describe_swift_adapt |  
+| bip_39_word_underscore_6 | valley_crack_describe_swift_adapt_current |  
+| bip_39_word_underscore_7 | valley_crack_describe_swift_adapt_current_abstract |  
+| bip_39_word_underscore_8 | valley_crack_describe_swift_adapt_current_abstract_mom |  
+| bip_39_word_underscore_9 | valley_crack_describe_swift_adapt_current_abstract_mom_radio |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arch |  
+| bip_39_word_dash_10 | arch-timber-stage-object-left-immune-mobile-asthma-mad-session |  
+| bip_39_word_dash_11 | arch-timber-stage-object-left-immune-mobile-asthma-mad-session-indoor |  
+| bip_39_word_dash_12 | arch-timber-stage-object-left-immune-mobile-asthma-mad-session-indoor-already |  
+| bip_39_word_dash_2 | arch-timber |  
+| bip_39_word_dash_3 | arch-timber-stage |  
+| bip_39_word_dash_4 | arch-timber-stage-object |  
+| bip_39_word_dash_5 | arch-timber-stage-object-left |  
+| bip_39_word_dash_6 | arch-timber-stage-object-left-immune |  
+| bip_39_word_dash_7 | arch-timber-stage-object-left-immune-mobile |  
+| bip_39_word_dash_8 | arch-timber-stage-object-left-immune-mobile-asthma |  
+| bip_39_word_dash_9 | arch-timber-stage-object-left-immune-mobile-asthma-mad |  
 | bip_39_word_new_br_1 | arch |  
 | bip_39_word_new_br_10 | arch<br>timber<br>stage<br>object<br>left<br>immune<br>mobile<br>asthma<br>mad<br>session |  
 | bip_39_word_new_br_11 | arch<br>timber<br>stage<br>object<br>left<br>immune<br>mobile<br>asthma<br>mad<br>session<br>indoor |  
@@ -147,6 +159,18 @@ mad |
 | bip_39_word_space_7 | arch timber stage object left immune mobile |  
 | bip_39_word_space_8 | arch timber stage object left immune mobile asthma |  
 | bip_39_word_space_9 | arch timber stage object left immune mobile asthma mad |  
+| bip_39_word_underscore_1 | arch |  
+| bip_39_word_underscore_10 | arch_timber_stage_object_left_immune_mobile_asthma_mad_session |  
+| bip_39_word_underscore_11 | arch_timber_stage_object_left_immune_mobile_asthma_mad_session_indoor |  
+| bip_39_word_underscore_12 | arch_timber_stage_object_left_immune_mobile_asthma_mad_session_indoor_already |  
+| bip_39_word_underscore_2 | arch_timber |  
+| bip_39_word_underscore_3 | arch_timber_stage |  
+| bip_39_word_underscore_4 | arch_timber_stage_object |  
+| bip_39_word_underscore_5 | arch_timber_stage_object_left |  
+| bip_39_word_underscore_6 | arch_timber_stage_object_left_immune |  
+| bip_39_word_underscore_7 | arch_timber_stage_object_left_immune_mobile |  
+| bip_39_word_underscore_8 | arch_timber_stage_object_left_immune_mobile_asthma |  
+| bip_39_word_underscore_9 | arch_timber_stage_object_left_immune_mobile_asthma_mad |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

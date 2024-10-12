@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hammer
+bip_39_word_dash_10: hammer-steel-grief-curious-inhale-soul-luxury-drip-couple-endorse
+bip_39_word_dash_11: hammer-steel-grief-curious-inhale-soul-luxury-drip-couple-endorse-coffee
+bip_39_word_dash_12: hammer-steel-grief-curious-inhale-soul-luxury-drip-couple-endorse-coffee-ahead
+bip_39_word_dash_2: hammer-steel
+bip_39_word_dash_3: hammer-steel-grief
+bip_39_word_dash_4: hammer-steel-grief-curious
+bip_39_word_dash_5: hammer-steel-grief-curious-inhale
+bip_39_word_dash_6: hammer-steel-grief-curious-inhale-soul
+bip_39_word_dash_7: hammer-steel-grief-curious-inhale-soul-luxury
+bip_39_word_dash_8: hammer-steel-grief-curious-inhale-soul-luxury-drip
+bip_39_word_dash_9: hammer-steel-grief-curious-inhale-soul-luxury-drip-couple
 bip_39_word_new_br_1: hammer
 bip_39_word_new_br_10: hammer<br>steel<br>grief<br>curious<br>inhale<br>soul<br>luxury<br>drip<br>couple<br>endorse
 bip_39_word_new_br_11: hammer<br>steel<br>grief<br>curious<br>inhale<br>soul<br>luxury<br>drip<br>couple<br>endorse<br>coffee
@@ -193,6 +205,18 @@ bip_39_word_space_6: hammer steel grief curious inhale soul
 bip_39_word_space_7: hammer steel grief curious inhale soul luxury
 bip_39_word_space_8: hammer steel grief curious inhale soul luxury drip
 bip_39_word_space_9: hammer steel grief curious inhale soul luxury drip couple
+bip_39_word_underscore_1: hammer
+bip_39_word_underscore_10: hammer_steel_grief_curious_inhale_soul_luxury_drip_couple_endorse
+bip_39_word_underscore_11: hammer_steel_grief_curious_inhale_soul_luxury_drip_couple_endorse_coffee
+bip_39_word_underscore_12: hammer_steel_grief_curious_inhale_soul_luxury_drip_couple_endorse_coffee_ahead
+bip_39_word_underscore_2: hammer_steel
+bip_39_word_underscore_3: hammer_steel_grief
+bip_39_word_underscore_4: hammer_steel_grief_curious
+bip_39_word_underscore_5: hammer_steel_grief_curious_inhale
+bip_39_word_underscore_6: hammer_steel_grief_curious_inhale_soul
+bip_39_word_underscore_7: hammer_steel_grief_curious_inhale_soul_luxury
+bip_39_word_underscore_8: hammer_steel_grief_curious_inhale_soul_luxury_drip
+bip_39_word_underscore_9: hammer_steel_grief_curious_inhale_soul_luxury_drip_couple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

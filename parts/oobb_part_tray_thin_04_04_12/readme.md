@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | friend |  
+| bip_39_word_dash_10 | friend-invite-noble-outer-pact-lucky-enforce-riot-park-amused |  
+| bip_39_word_dash_11 | friend-invite-noble-outer-pact-lucky-enforce-riot-park-amused-turtle |  
+| bip_39_word_dash_12 | friend-invite-noble-outer-pact-lucky-enforce-riot-park-amused-turtle-above |  
+| bip_39_word_dash_2 | friend-invite |  
+| bip_39_word_dash_3 | friend-invite-noble |  
+| bip_39_word_dash_4 | friend-invite-noble-outer |  
+| bip_39_word_dash_5 | friend-invite-noble-outer-pact |  
+| bip_39_word_dash_6 | friend-invite-noble-outer-pact-lucky |  
+| bip_39_word_dash_7 | friend-invite-noble-outer-pact-lucky-enforce |  
+| bip_39_word_dash_8 | friend-invite-noble-outer-pact-lucky-enforce-riot |  
+| bip_39_word_dash_9 | friend-invite-noble-outer-pact-lucky-enforce-riot-park |  
 | bip_39_word_new_br_1 | friend |  
 | bip_39_word_new_br_10 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused |  
 | bip_39_word_new_br_11 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused<br>turtle |  
@@ -147,6 +159,18 @@ park |
 | bip_39_word_space_7 | friend invite noble outer pact lucky enforce |  
 | bip_39_word_space_8 | friend invite noble outer pact lucky enforce riot |  
 | bip_39_word_space_9 | friend invite noble outer pact lucky enforce riot park |  
+| bip_39_word_underscore_1 | friend |  
+| bip_39_word_underscore_10 | friend_invite_noble_outer_pact_lucky_enforce_riot_park_amused |  
+| bip_39_word_underscore_11 | friend_invite_noble_outer_pact_lucky_enforce_riot_park_amused_turtle |  
+| bip_39_word_underscore_12 | friend_invite_noble_outer_pact_lucky_enforce_riot_park_amused_turtle_above |  
+| bip_39_word_underscore_2 | friend_invite |  
+| bip_39_word_underscore_3 | friend_invite_noble |  
+| bip_39_word_underscore_4 | friend_invite_noble_outer |  
+| bip_39_word_underscore_5 | friend_invite_noble_outer_pact |  
+| bip_39_word_underscore_6 | friend_invite_noble_outer_pact_lucky |  
+| bip_39_word_underscore_7 | friend_invite_noble_outer_pact_lucky_enforce |  
+| bip_39_word_underscore_8 | friend_invite_noble_outer_pact_lucky_enforce_riot |  
+| bip_39_word_underscore_9 | friend_invite_noble_outer_pact_lucky_enforce_riot_park |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

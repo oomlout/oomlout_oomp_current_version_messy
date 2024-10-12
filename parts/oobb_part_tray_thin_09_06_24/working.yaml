@@ -1,3 +1,15 @@
+bip_39_word_dash_1: report
+bip_39_word_dash_10: report-subway-bid-latin-cousin-jelly-indicate-thunder-olympic-castle
+bip_39_word_dash_11: report-subway-bid-latin-cousin-jelly-indicate-thunder-olympic-castle-rebuild
+bip_39_word_dash_12: report-subway-bid-latin-cousin-jelly-indicate-thunder-olympic-castle-rebuild-act
+bip_39_word_dash_2: report-subway
+bip_39_word_dash_3: report-subway-bid
+bip_39_word_dash_4: report-subway-bid-latin
+bip_39_word_dash_5: report-subway-bid-latin-cousin
+bip_39_word_dash_6: report-subway-bid-latin-cousin-jelly
+bip_39_word_dash_7: report-subway-bid-latin-cousin-jelly-indicate
+bip_39_word_dash_8: report-subway-bid-latin-cousin-jelly-indicate-thunder
+bip_39_word_dash_9: report-subway-bid-latin-cousin-jelly-indicate-thunder-olympic
 bip_39_word_new_br_1: report
 bip_39_word_new_br_10: report<br>subway<br>bid<br>latin<br>cousin<br>jelly<br>indicate<br>thunder<br>olympic<br>castle
 bip_39_word_new_br_11: report<br>subway<br>bid<br>latin<br>cousin<br>jelly<br>indicate<br>thunder<br>olympic<br>castle<br>rebuild
@@ -194,6 +206,18 @@ bip_39_word_space_6: report subway bid latin cousin jelly
 bip_39_word_space_7: report subway bid latin cousin jelly indicate
 bip_39_word_space_8: report subway bid latin cousin jelly indicate thunder
 bip_39_word_space_9: report subway bid latin cousin jelly indicate thunder olympic
+bip_39_word_underscore_1: report
+bip_39_word_underscore_10: report_subway_bid_latin_cousin_jelly_indicate_thunder_olympic_castle
+bip_39_word_underscore_11: report_subway_bid_latin_cousin_jelly_indicate_thunder_olympic_castle_rebuild
+bip_39_word_underscore_12: report_subway_bid_latin_cousin_jelly_indicate_thunder_olympic_castle_rebuild_act
+bip_39_word_underscore_2: report_subway
+bip_39_word_underscore_3: report_subway_bid
+bip_39_word_underscore_4: report_subway_bid_latin
+bip_39_word_underscore_5: report_subway_bid_latin_cousin
+bip_39_word_underscore_6: report_subway_bid_latin_cousin_jelly
+bip_39_word_underscore_7: report_subway_bid_latin_cousin_jelly_indicate
+bip_39_word_underscore_8: report_subway_bid_latin_cousin_jelly_indicate_thunder
+bip_39_word_underscore_9: report_subway_bid_latin_cousin_jelly_indicate_thunder_olympic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

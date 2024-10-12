@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tattoo |  
+| bip_39_word_dash_10 | tattoo-tomorrow-vapor-cream-gloom-today-scout-simple-only-remind |  
+| bip_39_word_dash_11 | tattoo-tomorrow-vapor-cream-gloom-today-scout-simple-only-remind-target |  
+| bip_39_word_dash_12 | tattoo-tomorrow-vapor-cream-gloom-today-scout-simple-only-remind-target-among |  
+| bip_39_word_dash_2 | tattoo-tomorrow |  
+| bip_39_word_dash_3 | tattoo-tomorrow-vapor |  
+| bip_39_word_dash_4 | tattoo-tomorrow-vapor-cream |  
+| bip_39_word_dash_5 | tattoo-tomorrow-vapor-cream-gloom |  
+| bip_39_word_dash_6 | tattoo-tomorrow-vapor-cream-gloom-today |  
+| bip_39_word_dash_7 | tattoo-tomorrow-vapor-cream-gloom-today-scout |  
+| bip_39_word_dash_8 | tattoo-tomorrow-vapor-cream-gloom-today-scout-simple |  
+| bip_39_word_dash_9 | tattoo-tomorrow-vapor-cream-gloom-today-scout-simple-only |  
 | bip_39_word_new_br_1 | tattoo |  
 | bip_39_word_new_br_10 | tattoo<br>tomorrow<br>vapor<br>cream<br>gloom<br>today<br>scout<br>simple<br>only<br>remind |  
 | bip_39_word_new_br_11 | tattoo<br>tomorrow<br>vapor<br>cream<br>gloom<br>today<br>scout<br>simple<br>only<br>remind<br>target |  
@@ -147,6 +159,18 @@ only |
 | bip_39_word_space_7 | tattoo tomorrow vapor cream gloom today scout |  
 | bip_39_word_space_8 | tattoo tomorrow vapor cream gloom today scout simple |  
 | bip_39_word_space_9 | tattoo tomorrow vapor cream gloom today scout simple only |  
+| bip_39_word_underscore_1 | tattoo |  
+| bip_39_word_underscore_10 | tattoo_tomorrow_vapor_cream_gloom_today_scout_simple_only_remind |  
+| bip_39_word_underscore_11 | tattoo_tomorrow_vapor_cream_gloom_today_scout_simple_only_remind_target |  
+| bip_39_word_underscore_12 | tattoo_tomorrow_vapor_cream_gloom_today_scout_simple_only_remind_target_among |  
+| bip_39_word_underscore_2 | tattoo_tomorrow |  
+| bip_39_word_underscore_3 | tattoo_tomorrow_vapor |  
+| bip_39_word_underscore_4 | tattoo_tomorrow_vapor_cream |  
+| bip_39_word_underscore_5 | tattoo_tomorrow_vapor_cream_gloom |  
+| bip_39_word_underscore_6 | tattoo_tomorrow_vapor_cream_gloom_today |  
+| bip_39_word_underscore_7 | tattoo_tomorrow_vapor_cream_gloom_today_scout |  
+| bip_39_word_underscore_8 | tattoo_tomorrow_vapor_cream_gloom_today_scout_simple |  
+| bip_39_word_underscore_9 | tattoo_tomorrow_vapor_cream_gloom_today_scout_simple_only |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

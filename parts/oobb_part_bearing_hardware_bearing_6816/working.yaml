@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gentle
+bip_39_word_dash_10: gentle-merit-local-winter-mask-video-pepper-bright-inquiry-few
+bip_39_word_dash_11: gentle-merit-local-winter-mask-video-pepper-bright-inquiry-few-mechanic
+bip_39_word_dash_12: gentle-merit-local-winter-mask-video-pepper-bright-inquiry-few-mechanic-acoustic
+bip_39_word_dash_2: gentle-merit
+bip_39_word_dash_3: gentle-merit-local
+bip_39_word_dash_4: gentle-merit-local-winter
+bip_39_word_dash_5: gentle-merit-local-winter-mask
+bip_39_word_dash_6: gentle-merit-local-winter-mask-video
+bip_39_word_dash_7: gentle-merit-local-winter-mask-video-pepper
+bip_39_word_dash_8: gentle-merit-local-winter-mask-video-pepper-bright
+bip_39_word_dash_9: gentle-merit-local-winter-mask-video-pepper-bright-inquiry
 bip_39_word_new_br_1: gentle
 bip_39_word_new_br_10: gentle<br>merit<br>local<br>winter<br>mask<br>video<br>pepper<br>bright<br>inquiry<br>few
 bip_39_word_new_br_11: gentle<br>merit<br>local<br>winter<br>mask<br>video<br>pepper<br>bright<br>inquiry<br>few<br>mechanic
@@ -193,6 +205,18 @@ bip_39_word_space_6: gentle merit local winter mask video
 bip_39_word_space_7: gentle merit local winter mask video pepper
 bip_39_word_space_8: gentle merit local winter mask video pepper bright
 bip_39_word_space_9: gentle merit local winter mask video pepper bright inquiry
+bip_39_word_underscore_1: gentle
+bip_39_word_underscore_10: gentle_merit_local_winter_mask_video_pepper_bright_inquiry_few
+bip_39_word_underscore_11: gentle_merit_local_winter_mask_video_pepper_bright_inquiry_few_mechanic
+bip_39_word_underscore_12: gentle_merit_local_winter_mask_video_pepper_bright_inquiry_few_mechanic_acoustic
+bip_39_word_underscore_2: gentle_merit
+bip_39_word_underscore_3: gentle_merit_local
+bip_39_word_underscore_4: gentle_merit_local_winter
+bip_39_word_underscore_5: gentle_merit_local_winter_mask
+bip_39_word_underscore_6: gentle_merit_local_winter_mask_video
+bip_39_word_underscore_7: gentle_merit_local_winter_mask_video_pepper
+bip_39_word_underscore_8: gentle_merit_local_winter_mask_video_pepper_bright
+bip_39_word_underscore_9: gentle_merit_local_winter_mask_video_pepper_bright_inquiry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

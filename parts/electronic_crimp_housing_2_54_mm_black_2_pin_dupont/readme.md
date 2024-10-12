@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | move |  
+| bip_39_word_dash_10 | move-annual-choice-pulse-oppose-dad-forest-power-ripple-scare |  
+| bip_39_word_dash_11 | move-annual-choice-pulse-oppose-dad-forest-power-ripple-scare-update |  
+| bip_39_word_dash_12 | move-annual-choice-pulse-oppose-dad-forest-power-ripple-scare-update-again |  
+| bip_39_word_dash_2 | move-annual |  
+| bip_39_word_dash_3 | move-annual-choice |  
+| bip_39_word_dash_4 | move-annual-choice-pulse |  
+| bip_39_word_dash_5 | move-annual-choice-pulse-oppose |  
+| bip_39_word_dash_6 | move-annual-choice-pulse-oppose-dad |  
+| bip_39_word_dash_7 | move-annual-choice-pulse-oppose-dad-forest |  
+| bip_39_word_dash_8 | move-annual-choice-pulse-oppose-dad-forest-power |  
+| bip_39_word_dash_9 | move-annual-choice-pulse-oppose-dad-forest-power-ripple |  
 | bip_39_word_new_br_1 | move |  
 | bip_39_word_new_br_10 | move<br>annual<br>choice<br>pulse<br>oppose<br>dad<br>forest<br>power<br>ripple<br>scare |  
 | bip_39_word_new_br_11 | move<br>annual<br>choice<br>pulse<br>oppose<br>dad<br>forest<br>power<br>ripple<br>scare<br>update |  
@@ -147,6 +159,18 @@ ripple |
 | bip_39_word_space_7 | move annual choice pulse oppose dad forest |  
 | bip_39_word_space_8 | move annual choice pulse oppose dad forest power |  
 | bip_39_word_space_9 | move annual choice pulse oppose dad forest power ripple |  
+| bip_39_word_underscore_1 | move |  
+| bip_39_word_underscore_10 | move_annual_choice_pulse_oppose_dad_forest_power_ripple_scare |  
+| bip_39_word_underscore_11 | move_annual_choice_pulse_oppose_dad_forest_power_ripple_scare_update |  
+| bip_39_word_underscore_12 | move_annual_choice_pulse_oppose_dad_forest_power_ripple_scare_update_again |  
+| bip_39_word_underscore_2 | move_annual |  
+| bip_39_word_underscore_3 | move_annual_choice |  
+| bip_39_word_underscore_4 | move_annual_choice_pulse |  
+| bip_39_word_underscore_5 | move_annual_choice_pulse_oppose |  
+| bip_39_word_underscore_6 | move_annual_choice_pulse_oppose_dad |  
+| bip_39_word_underscore_7 | move_annual_choice_pulse_oppose_dad_forest |  
+| bip_39_word_underscore_8 | move_annual_choice_pulse_oppose_dad_forest_power |  
+| bip_39_word_underscore_9 | move_annual_choice_pulse_oppose_dad_forest_power_ripple |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

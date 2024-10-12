@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shoot
+bip_39_word_dash_10: shoot-cover-increase-copy-vendor-three-tired-dust-rescue-wage
+bip_39_word_dash_11: shoot-cover-increase-copy-vendor-three-tired-dust-rescue-wage-achieve
+bip_39_word_dash_12: shoot-cover-increase-copy-vendor-three-tired-dust-rescue-wage-achieve-allow
+bip_39_word_dash_2: shoot-cover
+bip_39_word_dash_3: shoot-cover-increase
+bip_39_word_dash_4: shoot-cover-increase-copy
+bip_39_word_dash_5: shoot-cover-increase-copy-vendor
+bip_39_word_dash_6: shoot-cover-increase-copy-vendor-three
+bip_39_word_dash_7: shoot-cover-increase-copy-vendor-three-tired
+bip_39_word_dash_8: shoot-cover-increase-copy-vendor-three-tired-dust
+bip_39_word_dash_9: shoot-cover-increase-copy-vendor-three-tired-dust-rescue
 bip_39_word_new_br_1: shoot
 bip_39_word_new_br_10: shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust<br>rescue<br>wage
 bip_39_word_new_br_11: shoot<br>cover<br>increase<br>copy<br>vendor<br>three<br>tired<br>dust<br>rescue<br>wage<br>achieve
@@ -193,6 +205,18 @@ bip_39_word_space_6: shoot cover increase copy vendor three
 bip_39_word_space_7: shoot cover increase copy vendor three tired
 bip_39_word_space_8: shoot cover increase copy vendor three tired dust
 bip_39_word_space_9: shoot cover increase copy vendor three tired dust rescue
+bip_39_word_underscore_1: shoot
+bip_39_word_underscore_10: shoot_cover_increase_copy_vendor_three_tired_dust_rescue_wage
+bip_39_word_underscore_11: shoot_cover_increase_copy_vendor_three_tired_dust_rescue_wage_achieve
+bip_39_word_underscore_12: shoot_cover_increase_copy_vendor_three_tired_dust_rescue_wage_achieve_allow
+bip_39_word_underscore_2: shoot_cover
+bip_39_word_underscore_3: shoot_cover_increase
+bip_39_word_underscore_4: shoot_cover_increase_copy
+bip_39_word_underscore_5: shoot_cover_increase_copy_vendor
+bip_39_word_underscore_6: shoot_cover_increase_copy_vendor_three
+bip_39_word_underscore_7: shoot_cover_increase_copy_vendor_three_tired
+bip_39_word_underscore_8: shoot_cover_increase_copy_vendor_three_tired_dust
+bip_39_word_underscore_9: shoot_cover_increase_copy_vendor_three_tired_dust_rescue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | february |  
+| bip_39_word_dash_10 | february-dismiss-where-electric-brain-combine-hold-praise-brown-cave |  
+| bip_39_word_dash_11 | february-dismiss-where-electric-brain-combine-hold-praise-brown-cave-two |  
+| bip_39_word_dash_12 | february-dismiss-where-electric-brain-combine-hold-praise-brown-cave-two-angle |  
+| bip_39_word_dash_2 | february-dismiss |  
+| bip_39_word_dash_3 | february-dismiss-where |  
+| bip_39_word_dash_4 | february-dismiss-where-electric |  
+| bip_39_word_dash_5 | february-dismiss-where-electric-brain |  
+| bip_39_word_dash_6 | february-dismiss-where-electric-brain-combine |  
+| bip_39_word_dash_7 | february-dismiss-where-electric-brain-combine-hold |  
+| bip_39_word_dash_8 | february-dismiss-where-electric-brain-combine-hold-praise |  
+| bip_39_word_dash_9 | february-dismiss-where-electric-brain-combine-hold-praise-brown |  
 | bip_39_word_new_br_1 | february |  
 | bip_39_word_new_br_10 | february<br>dismiss<br>where<br>electric<br>brain<br>combine<br>hold<br>praise<br>brown<br>cave |  
 | bip_39_word_new_br_11 | february<br>dismiss<br>where<br>electric<br>brain<br>combine<br>hold<br>praise<br>brown<br>cave<br>two |  
@@ -147,6 +159,18 @@ brown |
 | bip_39_word_space_7 | february dismiss where electric brain combine hold |  
 | bip_39_word_space_8 | february dismiss where electric brain combine hold praise |  
 | bip_39_word_space_9 | february dismiss where electric brain combine hold praise brown |  
+| bip_39_word_underscore_1 | february |  
+| bip_39_word_underscore_10 | february_dismiss_where_electric_brain_combine_hold_praise_brown_cave |  
+| bip_39_word_underscore_11 | february_dismiss_where_electric_brain_combine_hold_praise_brown_cave_two |  
+| bip_39_word_underscore_12 | february_dismiss_where_electric_brain_combine_hold_praise_brown_cave_two_angle |  
+| bip_39_word_underscore_2 | february_dismiss |  
+| bip_39_word_underscore_3 | february_dismiss_where |  
+| bip_39_word_underscore_4 | february_dismiss_where_electric |  
+| bip_39_word_underscore_5 | february_dismiss_where_electric_brain |  
+| bip_39_word_underscore_6 | february_dismiss_where_electric_brain_combine |  
+| bip_39_word_underscore_7 | february_dismiss_where_electric_brain_combine_hold |  
+| bip_39_word_underscore_8 | february_dismiss_where_electric_brain_combine_hold_praise |  
+| bip_39_word_underscore_9 | february_dismiss_where_electric_brain_combine_hold_praise_brown |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

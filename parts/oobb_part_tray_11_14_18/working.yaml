@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hen
+bip_39_word_dash_10: hen-lake-mean-unusual-second-kit-broken-column-armor-little
+bip_39_word_dash_11: hen-lake-mean-unusual-second-kit-broken-column-armor-little-admit
+bip_39_word_dash_12: hen-lake-mean-unusual-second-kit-broken-column-armor-little-admit-alcohol
+bip_39_word_dash_2: hen-lake
+bip_39_word_dash_3: hen-lake-mean
+bip_39_word_dash_4: hen-lake-mean-unusual
+bip_39_word_dash_5: hen-lake-mean-unusual-second
+bip_39_word_dash_6: hen-lake-mean-unusual-second-kit
+bip_39_word_dash_7: hen-lake-mean-unusual-second-kit-broken
+bip_39_word_dash_8: hen-lake-mean-unusual-second-kit-broken-column
+bip_39_word_dash_9: hen-lake-mean-unusual-second-kit-broken-column-armor
 bip_39_word_new_br_1: hen
 bip_39_word_new_br_10: hen<br>lake<br>mean<br>unusual<br>second<br>kit<br>broken<br>column<br>armor<br>little
 bip_39_word_new_br_11: hen<br>lake<br>mean<br>unusual<br>second<br>kit<br>broken<br>column<br>armor<br>little<br>admit
@@ -193,6 +205,18 @@ bip_39_word_space_6: hen lake mean unusual second kit
 bip_39_word_space_7: hen lake mean unusual second kit broken
 bip_39_word_space_8: hen lake mean unusual second kit broken column
 bip_39_word_space_9: hen lake mean unusual second kit broken column armor
+bip_39_word_underscore_1: hen
+bip_39_word_underscore_10: hen_lake_mean_unusual_second_kit_broken_column_armor_little
+bip_39_word_underscore_11: hen_lake_mean_unusual_second_kit_broken_column_armor_little_admit
+bip_39_word_underscore_12: hen_lake_mean_unusual_second_kit_broken_column_armor_little_admit_alcohol
+bip_39_word_underscore_2: hen_lake
+bip_39_word_underscore_3: hen_lake_mean
+bip_39_word_underscore_4: hen_lake_mean_unusual
+bip_39_word_underscore_5: hen_lake_mean_unusual_second
+bip_39_word_underscore_6: hen_lake_mean_unusual_second_kit
+bip_39_word_underscore_7: hen_lake_mean_unusual_second_kit_broken
+bip_39_word_underscore_8: hen_lake_mean_unusual_second_kit_broken_column
+bip_39_word_underscore_9: hen_lake_mean_unusual_second_kit_broken_column_armor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

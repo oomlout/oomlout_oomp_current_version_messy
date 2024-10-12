@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wet |  
+| bip_39_word_dash_10 | wet-gospel-victory-forward-ship-junior-yard-already-bleak-write |  
+| bip_39_word_dash_11 | wet-gospel-victory-forward-ship-junior-yard-already-bleak-write-essay |  
+| bip_39_word_dash_12 | wet-gospel-victory-forward-ship-junior-yard-already-bleak-write-essay-army |  
+| bip_39_word_dash_2 | wet-gospel |  
+| bip_39_word_dash_3 | wet-gospel-victory |  
+| bip_39_word_dash_4 | wet-gospel-victory-forward |  
+| bip_39_word_dash_5 | wet-gospel-victory-forward-ship |  
+| bip_39_word_dash_6 | wet-gospel-victory-forward-ship-junior |  
+| bip_39_word_dash_7 | wet-gospel-victory-forward-ship-junior-yard |  
+| bip_39_word_dash_8 | wet-gospel-victory-forward-ship-junior-yard-already |  
+| bip_39_word_dash_9 | wet-gospel-victory-forward-ship-junior-yard-already-bleak |  
 | bip_39_word_new_br_1 | wet |  
 | bip_39_word_new_br_10 | wet<br>gospel<br>victory<br>forward<br>ship<br>junior<br>yard<br>already<br>bleak<br>write |  
 | bip_39_word_new_br_11 | wet<br>gospel<br>victory<br>forward<br>ship<br>junior<br>yard<br>already<br>bleak<br>write<br>essay |  
@@ -147,6 +159,18 @@ bleak |
 | bip_39_word_space_7 | wet gospel victory forward ship junior yard |  
 | bip_39_word_space_8 | wet gospel victory forward ship junior yard already |  
 | bip_39_word_space_9 | wet gospel victory forward ship junior yard already bleak |  
+| bip_39_word_underscore_1 | wet |  
+| bip_39_word_underscore_10 | wet_gospel_victory_forward_ship_junior_yard_already_bleak_write |  
+| bip_39_word_underscore_11 | wet_gospel_victory_forward_ship_junior_yard_already_bleak_write_essay |  
+| bip_39_word_underscore_12 | wet_gospel_victory_forward_ship_junior_yard_already_bleak_write_essay_army |  
+| bip_39_word_underscore_2 | wet_gospel |  
+| bip_39_word_underscore_3 | wet_gospel_victory |  
+| bip_39_word_underscore_4 | wet_gospel_victory_forward |  
+| bip_39_word_underscore_5 | wet_gospel_victory_forward_ship |  
+| bip_39_word_underscore_6 | wet_gospel_victory_forward_ship_junior |  
+| bip_39_word_underscore_7 | wet_gospel_victory_forward_ship_junior_yard |  
+| bip_39_word_underscore_8 | wet_gospel_victory_forward_ship_junior_yard_already |  
+| bip_39_word_underscore_9 | wet_gospel_victory_forward_ship_junior_yard_already_bleak |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

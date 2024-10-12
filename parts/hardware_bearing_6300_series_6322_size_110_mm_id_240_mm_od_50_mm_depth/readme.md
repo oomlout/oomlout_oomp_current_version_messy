@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wedding |  
+| bip_39_word_dash_10 | wedding-weird-crush-custom-venture-abuse-model-satoshi-goat-check |  
+| bip_39_word_dash_11 | wedding-weird-crush-custom-venture-abuse-model-satoshi-goat-check-hungry |  
+| bip_39_word_dash_12 | wedding-weird-crush-custom-venture-abuse-model-satoshi-goat-check-hungry-abstract |  
+| bip_39_word_dash_2 | wedding-weird |  
+| bip_39_word_dash_3 | wedding-weird-crush |  
+| bip_39_word_dash_4 | wedding-weird-crush-custom |  
+| bip_39_word_dash_5 | wedding-weird-crush-custom-venture |  
+| bip_39_word_dash_6 | wedding-weird-crush-custom-venture-abuse |  
+| bip_39_word_dash_7 | wedding-weird-crush-custom-venture-abuse-model |  
+| bip_39_word_dash_8 | wedding-weird-crush-custom-venture-abuse-model-satoshi |  
+| bip_39_word_dash_9 | wedding-weird-crush-custom-venture-abuse-model-satoshi-goat |  
 | bip_39_word_new_br_1 | wedding |  
 | bip_39_word_new_br_10 | wedding<br>weird<br>crush<br>custom<br>venture<br>abuse<br>model<br>satoshi<br>goat<br>check |  
 | bip_39_word_new_br_11 | wedding<br>weird<br>crush<br>custom<br>venture<br>abuse<br>model<br>satoshi<br>goat<br>check<br>hungry |  
@@ -147,6 +159,18 @@ goat |
 | bip_39_word_space_7 | wedding weird crush custom venture abuse model |  
 | bip_39_word_space_8 | wedding weird crush custom venture abuse model satoshi |  
 | bip_39_word_space_9 | wedding weird crush custom venture abuse model satoshi goat |  
+| bip_39_word_underscore_1 | wedding |  
+| bip_39_word_underscore_10 | wedding_weird_crush_custom_venture_abuse_model_satoshi_goat_check |  
+| bip_39_word_underscore_11 | wedding_weird_crush_custom_venture_abuse_model_satoshi_goat_check_hungry |  
+| bip_39_word_underscore_12 | wedding_weird_crush_custom_venture_abuse_model_satoshi_goat_check_hungry_abstract |  
+| bip_39_word_underscore_2 | wedding_weird |  
+| bip_39_word_underscore_3 | wedding_weird_crush |  
+| bip_39_word_underscore_4 | wedding_weird_crush_custom |  
+| bip_39_word_underscore_5 | wedding_weird_crush_custom_venture |  
+| bip_39_word_underscore_6 | wedding_weird_crush_custom_venture_abuse |  
+| bip_39_word_underscore_7 | wedding_weird_crush_custom_venture_abuse_model |  
+| bip_39_word_underscore_8 | wedding_weird_crush_custom_venture_abuse_model_satoshi |  
+| bip_39_word_underscore_9 | wedding_weird_crush_custom_venture_abuse_model_satoshi_goat |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

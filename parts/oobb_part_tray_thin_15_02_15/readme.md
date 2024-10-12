@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spoon |  
+| bip_39_word_dash_10 | spoon-industry-street-ticket-middle-random-tell-volume-resist-liar |  
+| bip_39_word_dash_11 | spoon-industry-street-ticket-middle-random-tell-volume-resist-liar-leader |  
+| bip_39_word_dash_12 | spoon-industry-street-ticket-middle-random-tell-volume-resist-liar-leader-ability |  
+| bip_39_word_dash_2 | spoon-industry |  
+| bip_39_word_dash_3 | spoon-industry-street |  
+| bip_39_word_dash_4 | spoon-industry-street-ticket |  
+| bip_39_word_dash_5 | spoon-industry-street-ticket-middle |  
+| bip_39_word_dash_6 | spoon-industry-street-ticket-middle-random |  
+| bip_39_word_dash_7 | spoon-industry-street-ticket-middle-random-tell |  
+| bip_39_word_dash_8 | spoon-industry-street-ticket-middle-random-tell-volume |  
+| bip_39_word_dash_9 | spoon-industry-street-ticket-middle-random-tell-volume-resist |  
 | bip_39_word_new_br_1 | spoon |  
 | bip_39_word_new_br_10 | spoon<br>industry<br>street<br>ticket<br>middle<br>random<br>tell<br>volume<br>resist<br>liar |  
 | bip_39_word_new_br_11 | spoon<br>industry<br>street<br>ticket<br>middle<br>random<br>tell<br>volume<br>resist<br>liar<br>leader |  
@@ -147,6 +159,18 @@ resist |
 | bip_39_word_space_7 | spoon industry street ticket middle random tell |  
 | bip_39_word_space_8 | spoon industry street ticket middle random tell volume |  
 | bip_39_word_space_9 | spoon industry street ticket middle random tell volume resist |  
+| bip_39_word_underscore_1 | spoon |  
+| bip_39_word_underscore_10 | spoon_industry_street_ticket_middle_random_tell_volume_resist_liar |  
+| bip_39_word_underscore_11 | spoon_industry_street_ticket_middle_random_tell_volume_resist_liar_leader |  
+| bip_39_word_underscore_12 | spoon_industry_street_ticket_middle_random_tell_volume_resist_liar_leader_ability |  
+| bip_39_word_underscore_2 | spoon_industry |  
+| bip_39_word_underscore_3 | spoon_industry_street |  
+| bip_39_word_underscore_4 | spoon_industry_street_ticket |  
+| bip_39_word_underscore_5 | spoon_industry_street_ticket_middle |  
+| bip_39_word_underscore_6 | spoon_industry_street_ticket_middle_random |  
+| bip_39_word_underscore_7 | spoon_industry_street_ticket_middle_random_tell |  
+| bip_39_word_underscore_8 | spoon_industry_street_ticket_middle_random_tell_volume |  
+| bip_39_word_underscore_9 | spoon_industry_street_ticket_middle_random_tell_volume_resist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

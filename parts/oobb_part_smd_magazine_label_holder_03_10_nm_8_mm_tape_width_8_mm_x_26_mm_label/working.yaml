@@ -1,3 +1,15 @@
+bip_39_word_dash_1: custom
+bip_39_word_dash_10: custom-energy-wolf-aspect-analyst-garage-uncover-live-amount-bread
+bip_39_word_dash_11: custom-energy-wolf-aspect-analyst-garage-uncover-live-amount-bread-jar
+bip_39_word_dash_12: custom-energy-wolf-aspect-analyst-garage-uncover-live-amount-bread-jar-about
+bip_39_word_dash_2: custom-energy
+bip_39_word_dash_3: custom-energy-wolf
+bip_39_word_dash_4: custom-energy-wolf-aspect
+bip_39_word_dash_5: custom-energy-wolf-aspect-analyst
+bip_39_word_dash_6: custom-energy-wolf-aspect-analyst-garage
+bip_39_word_dash_7: custom-energy-wolf-aspect-analyst-garage-uncover
+bip_39_word_dash_8: custom-energy-wolf-aspect-analyst-garage-uncover-live
+bip_39_word_dash_9: custom-energy-wolf-aspect-analyst-garage-uncover-live-amount
 bip_39_word_new_br_1: custom
 bip_39_word_new_br_10: custom<br>energy<br>wolf<br>aspect<br>analyst<br>garage<br>uncover<br>live<br>amount<br>bread
 bip_39_word_new_br_11: custom<br>energy<br>wolf<br>aspect<br>analyst<br>garage<br>uncover<br>live<br>amount<br>bread<br>jar
@@ -194,6 +206,18 @@ bip_39_word_space_6: custom energy wolf aspect analyst garage
 bip_39_word_space_7: custom energy wolf aspect analyst garage uncover
 bip_39_word_space_8: custom energy wolf aspect analyst garage uncover live
 bip_39_word_space_9: custom energy wolf aspect analyst garage uncover live amount
+bip_39_word_underscore_1: custom
+bip_39_word_underscore_10: custom_energy_wolf_aspect_analyst_garage_uncover_live_amount_bread
+bip_39_word_underscore_11: custom_energy_wolf_aspect_analyst_garage_uncover_live_amount_bread_jar
+bip_39_word_underscore_12: custom_energy_wolf_aspect_analyst_garage_uncover_live_amount_bread_jar_about
+bip_39_word_underscore_2: custom_energy
+bip_39_word_underscore_3: custom_energy_wolf
+bip_39_word_underscore_4: custom_energy_wolf_aspect
+bip_39_word_underscore_5: custom_energy_wolf_aspect_analyst
+bip_39_word_underscore_6: custom_energy_wolf_aspect_analyst_garage
+bip_39_word_underscore_7: custom_energy_wolf_aspect_analyst_garage_uncover
+bip_39_word_underscore_8: custom_energy_wolf_aspect_analyst_garage_uncover_live
+bip_39_word_underscore_9: custom_energy_wolf_aspect_analyst_garage_uncover_live_amount
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

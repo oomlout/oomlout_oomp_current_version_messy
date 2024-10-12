@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rally |  
+| bip_39_word_dash_10 | rally-loud-wash-bacon-lecture-spell-omit-laundry-damage-champion |  
+| bip_39_word_dash_11 | rally-loud-wash-bacon-lecture-spell-omit-laundry-damage-champion-figure |  
+| bip_39_word_dash_12 | rally-loud-wash-bacon-lecture-spell-omit-laundry-damage-champion-figure-ankle |  
+| bip_39_word_dash_2 | rally-loud |  
+| bip_39_word_dash_3 | rally-loud-wash |  
+| bip_39_word_dash_4 | rally-loud-wash-bacon |  
+| bip_39_word_dash_5 | rally-loud-wash-bacon-lecture |  
+| bip_39_word_dash_6 | rally-loud-wash-bacon-lecture-spell |  
+| bip_39_word_dash_7 | rally-loud-wash-bacon-lecture-spell-omit |  
+| bip_39_word_dash_8 | rally-loud-wash-bacon-lecture-spell-omit-laundry |  
+| bip_39_word_dash_9 | rally-loud-wash-bacon-lecture-spell-omit-laundry-damage |  
 | bip_39_word_new_br_1 | rally |  
 | bip_39_word_new_br_10 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion |  
 | bip_39_word_new_br_11 | rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion<br>figure |  
@@ -147,6 +159,18 @@ damage |
 | bip_39_word_space_7 | rally loud wash bacon lecture spell omit |  
 | bip_39_word_space_8 | rally loud wash bacon lecture spell omit laundry |  
 | bip_39_word_space_9 | rally loud wash bacon lecture spell omit laundry damage |  
+| bip_39_word_underscore_1 | rally |  
+| bip_39_word_underscore_10 | rally_loud_wash_bacon_lecture_spell_omit_laundry_damage_champion |  
+| bip_39_word_underscore_11 | rally_loud_wash_bacon_lecture_spell_omit_laundry_damage_champion_figure |  
+| bip_39_word_underscore_12 | rally_loud_wash_bacon_lecture_spell_omit_laundry_damage_champion_figure_ankle |  
+| bip_39_word_underscore_2 | rally_loud |  
+| bip_39_word_underscore_3 | rally_loud_wash |  
+| bip_39_word_underscore_4 | rally_loud_wash_bacon |  
+| bip_39_word_underscore_5 | rally_loud_wash_bacon_lecture |  
+| bip_39_word_underscore_6 | rally_loud_wash_bacon_lecture_spell |  
+| bip_39_word_underscore_7 | rally_loud_wash_bacon_lecture_spell_omit |  
+| bip_39_word_underscore_8 | rally_loud_wash_bacon_lecture_spell_omit_laundry |  
+| bip_39_word_underscore_9 | rally_loud_wash_bacon_lecture_spell_omit_laundry_damage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

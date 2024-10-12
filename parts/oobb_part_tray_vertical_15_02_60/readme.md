@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | evoke |  
+| bip_39_word_dash_10 | evoke-december-world-dice-path-vintage-enforce-mesh-skate-arrange |  
+| bip_39_word_dash_11 | evoke-december-world-dice-path-vintage-enforce-mesh-skate-arrange-tonight |  
+| bip_39_word_dash_12 | evoke-december-world-dice-path-vintage-enforce-mesh-skate-arrange-tonight-adjust |  
+| bip_39_word_dash_2 | evoke-december |  
+| bip_39_word_dash_3 | evoke-december-world |  
+| bip_39_word_dash_4 | evoke-december-world-dice |  
+| bip_39_word_dash_5 | evoke-december-world-dice-path |  
+| bip_39_word_dash_6 | evoke-december-world-dice-path-vintage |  
+| bip_39_word_dash_7 | evoke-december-world-dice-path-vintage-enforce |  
+| bip_39_word_dash_8 | evoke-december-world-dice-path-vintage-enforce-mesh |  
+| bip_39_word_dash_9 | evoke-december-world-dice-path-vintage-enforce-mesh-skate |  
 | bip_39_word_new_br_1 | evoke |  
 | bip_39_word_new_br_10 | evoke<br>december<br>world<br>dice<br>path<br>vintage<br>enforce<br>mesh<br>skate<br>arrange |  
 | bip_39_word_new_br_11 | evoke<br>december<br>world<br>dice<br>path<br>vintage<br>enforce<br>mesh<br>skate<br>arrange<br>tonight |  
@@ -147,6 +159,18 @@ skate |
 | bip_39_word_space_7 | evoke december world dice path vintage enforce |  
 | bip_39_word_space_8 | evoke december world dice path vintage enforce mesh |  
 | bip_39_word_space_9 | evoke december world dice path vintage enforce mesh skate |  
+| bip_39_word_underscore_1 | evoke |  
+| bip_39_word_underscore_10 | evoke_december_world_dice_path_vintage_enforce_mesh_skate_arrange |  
+| bip_39_word_underscore_11 | evoke_december_world_dice_path_vintage_enforce_mesh_skate_arrange_tonight |  
+| bip_39_word_underscore_12 | evoke_december_world_dice_path_vintage_enforce_mesh_skate_arrange_tonight_adjust |  
+| bip_39_word_underscore_2 | evoke_december |  
+| bip_39_word_underscore_3 | evoke_december_world |  
+| bip_39_word_underscore_4 | evoke_december_world_dice |  
+| bip_39_word_underscore_5 | evoke_december_world_dice_path |  
+| bip_39_word_underscore_6 | evoke_december_world_dice_path_vintage |  
+| bip_39_word_underscore_7 | evoke_december_world_dice_path_vintage_enforce |  
+| bip_39_word_underscore_8 | evoke_december_world_dice_path_vintage_enforce_mesh |  
+| bip_39_word_underscore_9 | evoke_december_world_dice_path_vintage_enforce_mesh_skate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

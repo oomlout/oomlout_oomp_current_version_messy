@@ -1,3 +1,15 @@
+bip_39_word_dash_1: parrot
+bip_39_word_dash_10: parrot-thought-silly-text-erase-also-common-media-label-arrange
+bip_39_word_dash_11: parrot-thought-silly-text-erase-also-common-media-label-arrange-valid
+bip_39_word_dash_12: parrot-thought-silly-text-erase-also-common-media-label-arrange-valid-achieve
+bip_39_word_dash_2: parrot-thought
+bip_39_word_dash_3: parrot-thought-silly
+bip_39_word_dash_4: parrot-thought-silly-text
+bip_39_word_dash_5: parrot-thought-silly-text-erase
+bip_39_word_dash_6: parrot-thought-silly-text-erase-also
+bip_39_word_dash_7: parrot-thought-silly-text-erase-also-common
+bip_39_word_dash_8: parrot-thought-silly-text-erase-also-common-media
+bip_39_word_dash_9: parrot-thought-silly-text-erase-also-common-media-label
 bip_39_word_new_br_1: parrot
 bip_39_word_new_br_10: parrot<br>thought<br>silly<br>text<br>erase<br>also<br>common<br>media<br>label<br>arrange
 bip_39_word_new_br_11: parrot<br>thought<br>silly<br>text<br>erase<br>also<br>common<br>media<br>label<br>arrange<br>valid
@@ -193,6 +205,18 @@ bip_39_word_space_6: parrot thought silly text erase also
 bip_39_word_space_7: parrot thought silly text erase also common
 bip_39_word_space_8: parrot thought silly text erase also common media
 bip_39_word_space_9: parrot thought silly text erase also common media label
+bip_39_word_underscore_1: parrot
+bip_39_word_underscore_10: parrot_thought_silly_text_erase_also_common_media_label_arrange
+bip_39_word_underscore_11: parrot_thought_silly_text_erase_also_common_media_label_arrange_valid
+bip_39_word_underscore_12: parrot_thought_silly_text_erase_also_common_media_label_arrange_valid_achieve
+bip_39_word_underscore_2: parrot_thought
+bip_39_word_underscore_3: parrot_thought_silly
+bip_39_word_underscore_4: parrot_thought_silly_text
+bip_39_word_underscore_5: parrot_thought_silly_text_erase
+bip_39_word_underscore_6: parrot_thought_silly_text_erase_also
+bip_39_word_underscore_7: parrot_thought_silly_text_erase_also_common
+bip_39_word_underscore_8: parrot_thought_silly_text_erase_also_common_media
+bip_39_word_underscore_9: parrot_thought_silly_text_erase_also_common_media_label
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

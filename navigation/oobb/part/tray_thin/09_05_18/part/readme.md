@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | noise |  
+| bip_39_word_dash_10 | noise-foster-achieve-essence-leaf-render-liquid-economy-uncover-tray |  
+| bip_39_word_dash_11 | noise-foster-achieve-essence-leaf-render-liquid-economy-uncover-tray-glide |  
+| bip_39_word_dash_12 | noise-foster-achieve-essence-leaf-render-liquid-economy-uncover-tray-glide-alcohol |  
+| bip_39_word_dash_2 | noise-foster |  
+| bip_39_word_dash_3 | noise-foster-achieve |  
+| bip_39_word_dash_4 | noise-foster-achieve-essence |  
+| bip_39_word_dash_5 | noise-foster-achieve-essence-leaf |  
+| bip_39_word_dash_6 | noise-foster-achieve-essence-leaf-render |  
+| bip_39_word_dash_7 | noise-foster-achieve-essence-leaf-render-liquid |  
+| bip_39_word_dash_8 | noise-foster-achieve-essence-leaf-render-liquid-economy |  
+| bip_39_word_dash_9 | noise-foster-achieve-essence-leaf-render-liquid-economy-uncover |  
 | bip_39_word_new_br_1 | noise |  
 | bip_39_word_new_br_10 | noise<br>foster<br>achieve<br>essence<br>leaf<br>render<br>liquid<br>economy<br>uncover<br>tray |  
 | bip_39_word_new_br_11 | noise<br>foster<br>achieve<br>essence<br>leaf<br>render<br>liquid<br>economy<br>uncover<br>tray<br>glide |  
@@ -147,6 +159,18 @@ uncover |
 | bip_39_word_space_7 | noise foster achieve essence leaf render liquid |  
 | bip_39_word_space_8 | noise foster achieve essence leaf render liquid economy |  
 | bip_39_word_space_9 | noise foster achieve essence leaf render liquid economy uncover |  
+| bip_39_word_underscore_1 | noise |  
+| bip_39_word_underscore_10 | noise_foster_achieve_essence_leaf_render_liquid_economy_uncover_tray |  
+| bip_39_word_underscore_11 | noise_foster_achieve_essence_leaf_render_liquid_economy_uncover_tray_glide |  
+| bip_39_word_underscore_12 | noise_foster_achieve_essence_leaf_render_liquid_economy_uncover_tray_glide_alcohol |  
+| bip_39_word_underscore_2 | noise_foster |  
+| bip_39_word_underscore_3 | noise_foster_achieve |  
+| bip_39_word_underscore_4 | noise_foster_achieve_essence |  
+| bip_39_word_underscore_5 | noise_foster_achieve_essence_leaf |  
+| bip_39_word_underscore_6 | noise_foster_achieve_essence_leaf_render |  
+| bip_39_word_underscore_7 | noise_foster_achieve_essence_leaf_render_liquid |  
+| bip_39_word_underscore_8 | noise_foster_achieve_essence_leaf_render_liquid_economy |  
+| bip_39_word_underscore_9 | noise_foster_achieve_essence_leaf_render_liquid_economy_uncover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

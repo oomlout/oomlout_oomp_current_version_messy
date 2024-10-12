@@ -1,3 +1,15 @@
+bip_39_word_dash_1: miss
+bip_39_word_dash_10: miss-spring-shield-canal-solid-connect-anchor-minor-clog-way
+bip_39_word_dash_11: miss-spring-shield-canal-solid-connect-anchor-minor-clog-way-sorry
+bip_39_word_dash_12: miss-spring-shield-canal-solid-connect-anchor-minor-clog-way-sorry-actress
+bip_39_word_dash_2: miss-spring
+bip_39_word_dash_3: miss-spring-shield
+bip_39_word_dash_4: miss-spring-shield-canal
+bip_39_word_dash_5: miss-spring-shield-canal-solid
+bip_39_word_dash_6: miss-spring-shield-canal-solid-connect
+bip_39_word_dash_7: miss-spring-shield-canal-solid-connect-anchor
+bip_39_word_dash_8: miss-spring-shield-canal-solid-connect-anchor-minor
+bip_39_word_dash_9: miss-spring-shield-canal-solid-connect-anchor-minor-clog
 bip_39_word_new_br_1: miss
 bip_39_word_new_br_10: miss<br>spring<br>shield<br>canal<br>solid<br>connect<br>anchor<br>minor<br>clog<br>way
 bip_39_word_new_br_11: miss<br>spring<br>shield<br>canal<br>solid<br>connect<br>anchor<br>minor<br>clog<br>way<br>sorry
@@ -193,6 +205,18 @@ bip_39_word_space_6: miss spring shield canal solid connect
 bip_39_word_space_7: miss spring shield canal solid connect anchor
 bip_39_word_space_8: miss spring shield canal solid connect anchor minor
 bip_39_word_space_9: miss spring shield canal solid connect anchor minor clog
+bip_39_word_underscore_1: miss
+bip_39_word_underscore_10: miss_spring_shield_canal_solid_connect_anchor_minor_clog_way
+bip_39_word_underscore_11: miss_spring_shield_canal_solid_connect_anchor_minor_clog_way_sorry
+bip_39_word_underscore_12: miss_spring_shield_canal_solid_connect_anchor_minor_clog_way_sorry_actress
+bip_39_word_underscore_2: miss_spring
+bip_39_word_underscore_3: miss_spring_shield
+bip_39_word_underscore_4: miss_spring_shield_canal
+bip_39_word_underscore_5: miss_spring_shield_canal_solid
+bip_39_word_underscore_6: miss_spring_shield_canal_solid_connect
+bip_39_word_underscore_7: miss_spring_shield_canal_solid_connect_anchor
+bip_39_word_underscore_8: miss_spring_shield_canal_solid_connect_anchor_minor
+bip_39_word_underscore_9: miss_spring_shield_canal_solid_connect_anchor_minor_clog
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

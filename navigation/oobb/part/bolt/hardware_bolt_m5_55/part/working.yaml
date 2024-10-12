@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brown
+bip_39_word_dash_10: brown-obtain-friend-intact-sweet-early-near-ensure-want-problem
+bip_39_word_dash_11: brown-obtain-friend-intact-sweet-early-near-ensure-want-problem-author
+bip_39_word_dash_12: brown-obtain-friend-intact-sweet-early-near-ensure-want-problem-author-across
+bip_39_word_dash_2: brown-obtain
+bip_39_word_dash_3: brown-obtain-friend
+bip_39_word_dash_4: brown-obtain-friend-intact
+bip_39_word_dash_5: brown-obtain-friend-intact-sweet
+bip_39_word_dash_6: brown-obtain-friend-intact-sweet-early
+bip_39_word_dash_7: brown-obtain-friend-intact-sweet-early-near
+bip_39_word_dash_8: brown-obtain-friend-intact-sweet-early-near-ensure
+bip_39_word_dash_9: brown-obtain-friend-intact-sweet-early-near-ensure-want
 bip_39_word_new_br_1: brown
 bip_39_word_new_br_10: brown<br>obtain<br>friend<br>intact<br>sweet<br>early<br>near<br>ensure<br>want<br>problem
 bip_39_word_new_br_11: brown<br>obtain<br>friend<br>intact<br>sweet<br>early<br>near<br>ensure<br>want<br>problem<br>author
@@ -193,6 +205,18 @@ bip_39_word_space_6: brown obtain friend intact sweet early
 bip_39_word_space_7: brown obtain friend intact sweet early near
 bip_39_word_space_8: brown obtain friend intact sweet early near ensure
 bip_39_word_space_9: brown obtain friend intact sweet early near ensure want
+bip_39_word_underscore_1: brown
+bip_39_word_underscore_10: brown_obtain_friend_intact_sweet_early_near_ensure_want_problem
+bip_39_word_underscore_11: brown_obtain_friend_intact_sweet_early_near_ensure_want_problem_author
+bip_39_word_underscore_12: brown_obtain_friend_intact_sweet_early_near_ensure_want_problem_author_across
+bip_39_word_underscore_2: brown_obtain
+bip_39_word_underscore_3: brown_obtain_friend
+bip_39_word_underscore_4: brown_obtain_friend_intact
+bip_39_word_underscore_5: brown_obtain_friend_intact_sweet
+bip_39_word_underscore_6: brown_obtain_friend_intact_sweet_early
+bip_39_word_underscore_7: brown_obtain_friend_intact_sweet_early_near
+bip_39_word_underscore_8: brown_obtain_friend_intact_sweet_early_near_ensure
+bip_39_word_underscore_9: brown_obtain_friend_intact_sweet_early_near_ensure_want
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

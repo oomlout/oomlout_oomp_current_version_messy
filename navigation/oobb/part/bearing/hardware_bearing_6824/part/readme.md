@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | portion |  
+| bip_39_word_dash_10 | portion-reject-divert-hint-letter-wrestle-reason-scatter-quiz-decorate |  
+| bip_39_word_dash_11 | portion-reject-divert-hint-letter-wrestle-reason-scatter-quiz-decorate-have |  
+| bip_39_word_dash_12 | portion-reject-divert-hint-letter-wrestle-reason-scatter-quiz-decorate-have-adapt |  
+| bip_39_word_dash_2 | portion-reject |  
+| bip_39_word_dash_3 | portion-reject-divert |  
+| bip_39_word_dash_4 | portion-reject-divert-hint |  
+| bip_39_word_dash_5 | portion-reject-divert-hint-letter |  
+| bip_39_word_dash_6 | portion-reject-divert-hint-letter-wrestle |  
+| bip_39_word_dash_7 | portion-reject-divert-hint-letter-wrestle-reason |  
+| bip_39_word_dash_8 | portion-reject-divert-hint-letter-wrestle-reason-scatter |  
+| bip_39_word_dash_9 | portion-reject-divert-hint-letter-wrestle-reason-scatter-quiz |  
 | bip_39_word_new_br_1 | portion |  
 | bip_39_word_new_br_10 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter<br>quiz<br>decorate |  
 | bip_39_word_new_br_11 | portion<br>reject<br>divert<br>hint<br>letter<br>wrestle<br>reason<br>scatter<br>quiz<br>decorate<br>have |  
@@ -147,6 +159,18 @@ quiz |
 | bip_39_word_space_7 | portion reject divert hint letter wrestle reason |  
 | bip_39_word_space_8 | portion reject divert hint letter wrestle reason scatter |  
 | bip_39_word_space_9 | portion reject divert hint letter wrestle reason scatter quiz |  
+| bip_39_word_underscore_1 | portion |  
+| bip_39_word_underscore_10 | portion_reject_divert_hint_letter_wrestle_reason_scatter_quiz_decorate |  
+| bip_39_word_underscore_11 | portion_reject_divert_hint_letter_wrestle_reason_scatter_quiz_decorate_have |  
+| bip_39_word_underscore_12 | portion_reject_divert_hint_letter_wrestle_reason_scatter_quiz_decorate_have_adapt |  
+| bip_39_word_underscore_2 | portion_reject |  
+| bip_39_word_underscore_3 | portion_reject_divert |  
+| bip_39_word_underscore_4 | portion_reject_divert_hint |  
+| bip_39_word_underscore_5 | portion_reject_divert_hint_letter |  
+| bip_39_word_underscore_6 | portion_reject_divert_hint_letter_wrestle |  
+| bip_39_word_underscore_7 | portion_reject_divert_hint_letter_wrestle_reason |  
+| bip_39_word_underscore_8 | portion_reject_divert_hint_letter_wrestle_reason_scatter |  
+| bip_39_word_underscore_9 | portion_reject_divert_hint_letter_wrestle_reason_scatter_quiz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

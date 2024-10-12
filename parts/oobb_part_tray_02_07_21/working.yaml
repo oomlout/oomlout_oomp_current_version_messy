@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hold
+bip_39_word_dash_10: hold-coffee-diamond-acoustic-acquire-common-lottery-great-render-live
+bip_39_word_dash_11: hold-coffee-diamond-acoustic-acquire-common-lottery-great-render-live-clay
+bip_39_word_dash_12: hold-coffee-diamond-acoustic-acquire-common-lottery-great-render-live-clay-always
+bip_39_word_dash_2: hold-coffee
+bip_39_word_dash_3: hold-coffee-diamond
+bip_39_word_dash_4: hold-coffee-diamond-acoustic
+bip_39_word_dash_5: hold-coffee-diamond-acoustic-acquire
+bip_39_word_dash_6: hold-coffee-diamond-acoustic-acquire-common
+bip_39_word_dash_7: hold-coffee-diamond-acoustic-acquire-common-lottery
+bip_39_word_dash_8: hold-coffee-diamond-acoustic-acquire-common-lottery-great
+bip_39_word_dash_9: hold-coffee-diamond-acoustic-acquire-common-lottery-great-render
 bip_39_word_new_br_1: hold
 bip_39_word_new_br_10: hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live
 bip_39_word_new_br_11: hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live<br>clay
@@ -194,6 +206,18 @@ bip_39_word_space_6: hold coffee diamond acoustic acquire common
 bip_39_word_space_7: hold coffee diamond acoustic acquire common lottery
 bip_39_word_space_8: hold coffee diamond acoustic acquire common lottery great
 bip_39_word_space_9: hold coffee diamond acoustic acquire common lottery great render
+bip_39_word_underscore_1: hold
+bip_39_word_underscore_10: hold_coffee_diamond_acoustic_acquire_common_lottery_great_render_live
+bip_39_word_underscore_11: hold_coffee_diamond_acoustic_acquire_common_lottery_great_render_live_clay
+bip_39_word_underscore_12: hold_coffee_diamond_acoustic_acquire_common_lottery_great_render_live_clay_always
+bip_39_word_underscore_2: hold_coffee
+bip_39_word_underscore_3: hold_coffee_diamond
+bip_39_word_underscore_4: hold_coffee_diamond_acoustic
+bip_39_word_underscore_5: hold_coffee_diamond_acoustic_acquire
+bip_39_word_underscore_6: hold_coffee_diamond_acoustic_acquire_common
+bip_39_word_underscore_7: hold_coffee_diamond_acoustic_acquire_common_lottery
+bip_39_word_underscore_8: hold_coffee_diamond_acoustic_acquire_common_lottery_great
+bip_39_word_underscore_9: hold_coffee_diamond_acoustic_acquire_common_lottery_great_render
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

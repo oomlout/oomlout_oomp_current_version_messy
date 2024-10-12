@@ -1,3 +1,15 @@
+bip_39_word_dash_1: patient
+bip_39_word_dash_10: patient-animal-mail-balcony-various-poverty-soap-unable-minimum-kingdom
+bip_39_word_dash_11: patient-animal-mail-balcony-various-poverty-soap-unable-minimum-kingdom-blade
+bip_39_word_dash_12: patient-animal-mail-balcony-various-poverty-soap-unable-minimum-kingdom-blade-art
+bip_39_word_dash_2: patient-animal
+bip_39_word_dash_3: patient-animal-mail
+bip_39_word_dash_4: patient-animal-mail-balcony
+bip_39_word_dash_5: patient-animal-mail-balcony-various
+bip_39_word_dash_6: patient-animal-mail-balcony-various-poverty
+bip_39_word_dash_7: patient-animal-mail-balcony-various-poverty-soap
+bip_39_word_dash_8: patient-animal-mail-balcony-various-poverty-soap-unable
+bip_39_word_dash_9: patient-animal-mail-balcony-various-poverty-soap-unable-minimum
 bip_39_word_new_br_1: patient
 bip_39_word_new_br_10: patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom
 bip_39_word_new_br_11: patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom<br>blade
@@ -194,6 +206,18 @@ bip_39_word_space_6: patient animal mail balcony various poverty
 bip_39_word_space_7: patient animal mail balcony various poverty soap
 bip_39_word_space_8: patient animal mail balcony various poverty soap unable
 bip_39_word_space_9: patient animal mail balcony various poverty soap unable minimum
+bip_39_word_underscore_1: patient
+bip_39_word_underscore_10: patient_animal_mail_balcony_various_poverty_soap_unable_minimum_kingdom
+bip_39_word_underscore_11: patient_animal_mail_balcony_various_poverty_soap_unable_minimum_kingdom_blade
+bip_39_word_underscore_12: patient_animal_mail_balcony_various_poverty_soap_unable_minimum_kingdom_blade_art
+bip_39_word_underscore_2: patient_animal
+bip_39_word_underscore_3: patient_animal_mail
+bip_39_word_underscore_4: patient_animal_mail_balcony
+bip_39_word_underscore_5: patient_animal_mail_balcony_various
+bip_39_word_underscore_6: patient_animal_mail_balcony_various_poverty
+bip_39_word_underscore_7: patient_animal_mail_balcony_various_poverty_soap
+bip_39_word_underscore_8: patient_animal_mail_balcony_various_poverty_soap_unable
+bip_39_word_underscore_9: patient_animal_mail_balcony_various_poverty_soap_unable_minimum
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

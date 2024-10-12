@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | network |  
+| bip_39_word_dash_10 | network-outer-fit-broom-company-fun-rent-gasp-quick-yellow |  
+| bip_39_word_dash_11 | network-outer-fit-broom-company-fun-rent-gasp-quick-yellow-place |  
+| bip_39_word_dash_12 | network-outer-fit-broom-company-fun-rent-gasp-quick-yellow-place-ancient |  
+| bip_39_word_dash_2 | network-outer |  
+| bip_39_word_dash_3 | network-outer-fit |  
+| bip_39_word_dash_4 | network-outer-fit-broom |  
+| bip_39_word_dash_5 | network-outer-fit-broom-company |  
+| bip_39_word_dash_6 | network-outer-fit-broom-company-fun |  
+| bip_39_word_dash_7 | network-outer-fit-broom-company-fun-rent |  
+| bip_39_word_dash_8 | network-outer-fit-broom-company-fun-rent-gasp |  
+| bip_39_word_dash_9 | network-outer-fit-broom-company-fun-rent-gasp-quick |  
 | bip_39_word_new_br_1 | network |  
 | bip_39_word_new_br_10 | network<br>outer<br>fit<br>broom<br>company<br>fun<br>rent<br>gasp<br>quick<br>yellow |  
 | bip_39_word_new_br_11 | network<br>outer<br>fit<br>broom<br>company<br>fun<br>rent<br>gasp<br>quick<br>yellow<br>place |  
@@ -147,6 +159,18 @@ quick |
 | bip_39_word_space_7 | network outer fit broom company fun rent |  
 | bip_39_word_space_8 | network outer fit broom company fun rent gasp |  
 | bip_39_word_space_9 | network outer fit broom company fun rent gasp quick |  
+| bip_39_word_underscore_1 | network |  
+| bip_39_word_underscore_10 | network_outer_fit_broom_company_fun_rent_gasp_quick_yellow |  
+| bip_39_word_underscore_11 | network_outer_fit_broom_company_fun_rent_gasp_quick_yellow_place |  
+| bip_39_word_underscore_12 | network_outer_fit_broom_company_fun_rent_gasp_quick_yellow_place_ancient |  
+| bip_39_word_underscore_2 | network_outer |  
+| bip_39_word_underscore_3 | network_outer_fit |  
+| bip_39_word_underscore_4 | network_outer_fit_broom |  
+| bip_39_word_underscore_5 | network_outer_fit_broom_company |  
+| bip_39_word_underscore_6 | network_outer_fit_broom_company_fun |  
+| bip_39_word_underscore_7 | network_outer_fit_broom_company_fun_rent |  
+| bip_39_word_underscore_8 | network_outer_fit_broom_company_fun_rent_gasp |  
+| bip_39_word_underscore_9 | network_outer_fit_broom_company_fun_rent_gasp_quick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

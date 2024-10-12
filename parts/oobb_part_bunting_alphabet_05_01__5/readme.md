@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hip |  
+| bip_39_word_dash_10 | hip-fancy-chapter-merit-gift-napkin-mammal-vapor-frozen-minimum |  
+| bip_39_word_dash_11 | hip-fancy-chapter-merit-gift-napkin-mammal-vapor-frozen-minimum-snack |  
+| bip_39_word_dash_12 | hip-fancy-chapter-merit-gift-napkin-mammal-vapor-frozen-minimum-snack-all |  
+| bip_39_word_dash_2 | hip-fancy |  
+| bip_39_word_dash_3 | hip-fancy-chapter |  
+| bip_39_word_dash_4 | hip-fancy-chapter-merit |  
+| bip_39_word_dash_5 | hip-fancy-chapter-merit-gift |  
+| bip_39_word_dash_6 | hip-fancy-chapter-merit-gift-napkin |  
+| bip_39_word_dash_7 | hip-fancy-chapter-merit-gift-napkin-mammal |  
+| bip_39_word_dash_8 | hip-fancy-chapter-merit-gift-napkin-mammal-vapor |  
+| bip_39_word_dash_9 | hip-fancy-chapter-merit-gift-napkin-mammal-vapor-frozen |  
 | bip_39_word_new_br_1 | hip |  
 | bip_39_word_new_br_10 | hip<br>fancy<br>chapter<br>merit<br>gift<br>napkin<br>mammal<br>vapor<br>frozen<br>minimum |  
 | bip_39_word_new_br_11 | hip<br>fancy<br>chapter<br>merit<br>gift<br>napkin<br>mammal<br>vapor<br>frozen<br>minimum<br>snack |  
@@ -147,6 +159,18 @@ frozen |
 | bip_39_word_space_7 | hip fancy chapter merit gift napkin mammal |  
 | bip_39_word_space_8 | hip fancy chapter merit gift napkin mammal vapor |  
 | bip_39_word_space_9 | hip fancy chapter merit gift napkin mammal vapor frozen |  
+| bip_39_word_underscore_1 | hip |  
+| bip_39_word_underscore_10 | hip_fancy_chapter_merit_gift_napkin_mammal_vapor_frozen_minimum |  
+| bip_39_word_underscore_11 | hip_fancy_chapter_merit_gift_napkin_mammal_vapor_frozen_minimum_snack |  
+| bip_39_word_underscore_12 | hip_fancy_chapter_merit_gift_napkin_mammal_vapor_frozen_minimum_snack_all |  
+| bip_39_word_underscore_2 | hip_fancy |  
+| bip_39_word_underscore_3 | hip_fancy_chapter |  
+| bip_39_word_underscore_4 | hip_fancy_chapter_merit |  
+| bip_39_word_underscore_5 | hip_fancy_chapter_merit_gift |  
+| bip_39_word_underscore_6 | hip_fancy_chapter_merit_gift_napkin |  
+| bip_39_word_underscore_7 | hip_fancy_chapter_merit_gift_napkin_mammal |  
+| bip_39_word_underscore_8 | hip_fancy_chapter_merit_gift_napkin_mammal_vapor |  
+| bip_39_word_underscore_9 | hip_fancy_chapter_merit_gift_napkin_mammal_vapor_frozen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

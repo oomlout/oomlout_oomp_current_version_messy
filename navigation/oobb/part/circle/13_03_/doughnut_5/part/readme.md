@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cram |  
+| bip_39_word_dash_10 | cram-typical-oven-media-pole-best-basic-sustain-fork-clean |  
+| bip_39_word_dash_11 | cram-typical-oven-media-pole-best-basic-sustain-fork-clean-force |  
+| bip_39_word_dash_12 | cram-typical-oven-media-pole-best-basic-sustain-fork-clean-force-antique |  
+| bip_39_word_dash_2 | cram-typical |  
+| bip_39_word_dash_3 | cram-typical-oven |  
+| bip_39_word_dash_4 | cram-typical-oven-media |  
+| bip_39_word_dash_5 | cram-typical-oven-media-pole |  
+| bip_39_word_dash_6 | cram-typical-oven-media-pole-best |  
+| bip_39_word_dash_7 | cram-typical-oven-media-pole-best-basic |  
+| bip_39_word_dash_8 | cram-typical-oven-media-pole-best-basic-sustain |  
+| bip_39_word_dash_9 | cram-typical-oven-media-pole-best-basic-sustain-fork |  
 | bip_39_word_new_br_1 | cram |  
 | bip_39_word_new_br_10 | cram<br>typical<br>oven<br>media<br>pole<br>best<br>basic<br>sustain<br>fork<br>clean |  
 | bip_39_word_new_br_11 | cram<br>typical<br>oven<br>media<br>pole<br>best<br>basic<br>sustain<br>fork<br>clean<br>force |  
@@ -147,6 +159,18 @@ fork |
 | bip_39_word_space_7 | cram typical oven media pole best basic |  
 | bip_39_word_space_8 | cram typical oven media pole best basic sustain |  
 | bip_39_word_space_9 | cram typical oven media pole best basic sustain fork |  
+| bip_39_word_underscore_1 | cram |  
+| bip_39_word_underscore_10 | cram_typical_oven_media_pole_best_basic_sustain_fork_clean |  
+| bip_39_word_underscore_11 | cram_typical_oven_media_pole_best_basic_sustain_fork_clean_force |  
+| bip_39_word_underscore_12 | cram_typical_oven_media_pole_best_basic_sustain_fork_clean_force_antique |  
+| bip_39_word_underscore_2 | cram_typical |  
+| bip_39_word_underscore_3 | cram_typical_oven |  
+| bip_39_word_underscore_4 | cram_typical_oven_media |  
+| bip_39_word_underscore_5 | cram_typical_oven_media_pole |  
+| bip_39_word_underscore_6 | cram_typical_oven_media_pole_best |  
+| bip_39_word_underscore_7 | cram_typical_oven_media_pole_best_basic |  
+| bip_39_word_underscore_8 | cram_typical_oven_media_pole_best_basic_sustain |  
+| bip_39_word_underscore_9 | cram_typical_oven_media_pole_best_basic_sustain_fork |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

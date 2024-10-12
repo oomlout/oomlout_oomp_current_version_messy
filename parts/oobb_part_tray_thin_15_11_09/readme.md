@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ordinary |  
+| bip_39_word_dash_10 | ordinary-pet-list-snake-hedgehog-nasty-shy-glass-print-unusual |  
+| bip_39_word_dash_11 | ordinary-pet-list-snake-hedgehog-nasty-shy-glass-print-unusual-hazard |  
+| bip_39_word_dash_12 | ordinary-pet-list-snake-hedgehog-nasty-shy-glass-print-unusual-hazard-attract |  
+| bip_39_word_dash_2 | ordinary-pet |  
+| bip_39_word_dash_3 | ordinary-pet-list |  
+| bip_39_word_dash_4 | ordinary-pet-list-snake |  
+| bip_39_word_dash_5 | ordinary-pet-list-snake-hedgehog |  
+| bip_39_word_dash_6 | ordinary-pet-list-snake-hedgehog-nasty |  
+| bip_39_word_dash_7 | ordinary-pet-list-snake-hedgehog-nasty-shy |  
+| bip_39_word_dash_8 | ordinary-pet-list-snake-hedgehog-nasty-shy-glass |  
+| bip_39_word_dash_9 | ordinary-pet-list-snake-hedgehog-nasty-shy-glass-print |  
 | bip_39_word_new_br_1 | ordinary |  
 | bip_39_word_new_br_10 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual |  
 | bip_39_word_new_br_11 | ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual<br>hazard |  
@@ -147,6 +159,18 @@ print |
 | bip_39_word_space_7 | ordinary pet list snake hedgehog nasty shy |  
 | bip_39_word_space_8 | ordinary pet list snake hedgehog nasty shy glass |  
 | bip_39_word_space_9 | ordinary pet list snake hedgehog nasty shy glass print |  
+| bip_39_word_underscore_1 | ordinary |  
+| bip_39_word_underscore_10 | ordinary_pet_list_snake_hedgehog_nasty_shy_glass_print_unusual |  
+| bip_39_word_underscore_11 | ordinary_pet_list_snake_hedgehog_nasty_shy_glass_print_unusual_hazard |  
+| bip_39_word_underscore_12 | ordinary_pet_list_snake_hedgehog_nasty_shy_glass_print_unusual_hazard_attract |  
+| bip_39_word_underscore_2 | ordinary_pet |  
+| bip_39_word_underscore_3 | ordinary_pet_list |  
+| bip_39_word_underscore_4 | ordinary_pet_list_snake |  
+| bip_39_word_underscore_5 | ordinary_pet_list_snake_hedgehog |  
+| bip_39_word_underscore_6 | ordinary_pet_list_snake_hedgehog_nasty |  
+| bip_39_word_underscore_7 | ordinary_pet_list_snake_hedgehog_nasty_shy |  
+| bip_39_word_underscore_8 | ordinary_pet_list_snake_hedgehog_nasty_shy_glass |  
+| bip_39_word_underscore_9 | ordinary_pet_list_snake_hedgehog_nasty_shy_glass_print |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

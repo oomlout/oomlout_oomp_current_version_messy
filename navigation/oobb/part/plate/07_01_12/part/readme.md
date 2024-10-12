@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | right |  
+| bip_39_word_dash_10 | right-airport-barely-stomach-believe-snake-fit-lawn-twenty-observe |  
+| bip_39_word_dash_11 | right-airport-barely-stomach-believe-snake-fit-lawn-twenty-observe-record |  
+| bip_39_word_dash_12 | right-airport-barely-stomach-believe-snake-fit-lawn-twenty-observe-record-action |  
+| bip_39_word_dash_2 | right-airport |  
+| bip_39_word_dash_3 | right-airport-barely |  
+| bip_39_word_dash_4 | right-airport-barely-stomach |  
+| bip_39_word_dash_5 | right-airport-barely-stomach-believe |  
+| bip_39_word_dash_6 | right-airport-barely-stomach-believe-snake |  
+| bip_39_word_dash_7 | right-airport-barely-stomach-believe-snake-fit |  
+| bip_39_word_dash_8 | right-airport-barely-stomach-believe-snake-fit-lawn |  
+| bip_39_word_dash_9 | right-airport-barely-stomach-believe-snake-fit-lawn-twenty |  
 | bip_39_word_new_br_1 | right |  
 | bip_39_word_new_br_10 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn<br>twenty<br>observe |  
 | bip_39_word_new_br_11 | right<br>airport<br>barely<br>stomach<br>believe<br>snake<br>fit<br>lawn<br>twenty<br>observe<br>record |  
@@ -147,6 +159,18 @@ twenty |
 | bip_39_word_space_7 | right airport barely stomach believe snake fit |  
 | bip_39_word_space_8 | right airport barely stomach believe snake fit lawn |  
 | bip_39_word_space_9 | right airport barely stomach believe snake fit lawn twenty |  
+| bip_39_word_underscore_1 | right |  
+| bip_39_word_underscore_10 | right_airport_barely_stomach_believe_snake_fit_lawn_twenty_observe |  
+| bip_39_word_underscore_11 | right_airport_barely_stomach_believe_snake_fit_lawn_twenty_observe_record |  
+| bip_39_word_underscore_12 | right_airport_barely_stomach_believe_snake_fit_lawn_twenty_observe_record_action |  
+| bip_39_word_underscore_2 | right_airport |  
+| bip_39_word_underscore_3 | right_airport_barely |  
+| bip_39_word_underscore_4 | right_airport_barely_stomach |  
+| bip_39_word_underscore_5 | right_airport_barely_stomach_believe |  
+| bip_39_word_underscore_6 | right_airport_barely_stomach_believe_snake |  
+| bip_39_word_underscore_7 | right_airport_barely_stomach_believe_snake_fit |  
+| bip_39_word_underscore_8 | right_airport_barely_stomach_believe_snake_fit_lawn |  
+| bip_39_word_underscore_9 | right_airport_barely_stomach_believe_snake_fit_lawn_twenty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

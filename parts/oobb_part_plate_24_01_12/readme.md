@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | animal |  
+| bip_39_word_dash_10 | animal-pony-knee-position-average-moral-off-ice-earth-rival |  
+| bip_39_word_dash_11 | animal-pony-knee-position-average-moral-off-ice-earth-rival-boil |  
+| bip_39_word_dash_12 | animal-pony-knee-position-average-moral-off-ice-earth-rival-boil-ancient |  
+| bip_39_word_dash_2 | animal-pony |  
+| bip_39_word_dash_3 | animal-pony-knee |  
+| bip_39_word_dash_4 | animal-pony-knee-position |  
+| bip_39_word_dash_5 | animal-pony-knee-position-average |  
+| bip_39_word_dash_6 | animal-pony-knee-position-average-moral |  
+| bip_39_word_dash_7 | animal-pony-knee-position-average-moral-off |  
+| bip_39_word_dash_8 | animal-pony-knee-position-average-moral-off-ice |  
+| bip_39_word_dash_9 | animal-pony-knee-position-average-moral-off-ice-earth |  
 | bip_39_word_new_br_1 | animal |  
 | bip_39_word_new_br_10 | animal<br>pony<br>knee<br>position<br>average<br>moral<br>off<br>ice<br>earth<br>rival |  
 | bip_39_word_new_br_11 | animal<br>pony<br>knee<br>position<br>average<br>moral<br>off<br>ice<br>earth<br>rival<br>boil |  
@@ -147,6 +159,18 @@ earth |
 | bip_39_word_space_7 | animal pony knee position average moral off |  
 | bip_39_word_space_8 | animal pony knee position average moral off ice |  
 | bip_39_word_space_9 | animal pony knee position average moral off ice earth |  
+| bip_39_word_underscore_1 | animal |  
+| bip_39_word_underscore_10 | animal_pony_knee_position_average_moral_off_ice_earth_rival |  
+| bip_39_word_underscore_11 | animal_pony_knee_position_average_moral_off_ice_earth_rival_boil |  
+| bip_39_word_underscore_12 | animal_pony_knee_position_average_moral_off_ice_earth_rival_boil_ancient |  
+| bip_39_word_underscore_2 | animal_pony |  
+| bip_39_word_underscore_3 | animal_pony_knee |  
+| bip_39_word_underscore_4 | animal_pony_knee_position |  
+| bip_39_word_underscore_5 | animal_pony_knee_position_average |  
+| bip_39_word_underscore_6 | animal_pony_knee_position_average_moral |  
+| bip_39_word_underscore_7 | animal_pony_knee_position_average_moral_off |  
+| bip_39_word_underscore_8 | animal_pony_knee_position_average_moral_off_ice |  
+| bip_39_word_underscore_9 | animal_pony_knee_position_average_moral_off_ice_earth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

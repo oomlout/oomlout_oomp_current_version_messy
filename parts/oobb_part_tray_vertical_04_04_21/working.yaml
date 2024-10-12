@@ -1,3 +1,15 @@
+bip_39_word_dash_1: call
+bip_39_word_dash_10: call-walk-toddler-issue-lizard-tell-perfect-boss-when-cradle
+bip_39_word_dash_11: call-walk-toddler-issue-lizard-tell-perfect-boss-when-cradle-nut
+bip_39_word_dash_12: call-walk-toddler-issue-lizard-tell-perfect-boss-when-cradle-nut-amused
+bip_39_word_dash_2: call-walk
+bip_39_word_dash_3: call-walk-toddler
+bip_39_word_dash_4: call-walk-toddler-issue
+bip_39_word_dash_5: call-walk-toddler-issue-lizard
+bip_39_word_dash_6: call-walk-toddler-issue-lizard-tell
+bip_39_word_dash_7: call-walk-toddler-issue-lizard-tell-perfect
+bip_39_word_dash_8: call-walk-toddler-issue-lizard-tell-perfect-boss
+bip_39_word_dash_9: call-walk-toddler-issue-lizard-tell-perfect-boss-when
 bip_39_word_new_br_1: call
 bip_39_word_new_br_10: call<br>walk<br>toddler<br>issue<br>lizard<br>tell<br>perfect<br>boss<br>when<br>cradle
 bip_39_word_new_br_11: call<br>walk<br>toddler<br>issue<br>lizard<br>tell<br>perfect<br>boss<br>when<br>cradle<br>nut
@@ -193,6 +205,18 @@ bip_39_word_space_6: call walk toddler issue lizard tell
 bip_39_word_space_7: call walk toddler issue lizard tell perfect
 bip_39_word_space_8: call walk toddler issue lizard tell perfect boss
 bip_39_word_space_9: call walk toddler issue lizard tell perfect boss when
+bip_39_word_underscore_1: call
+bip_39_word_underscore_10: call_walk_toddler_issue_lizard_tell_perfect_boss_when_cradle
+bip_39_word_underscore_11: call_walk_toddler_issue_lizard_tell_perfect_boss_when_cradle_nut
+bip_39_word_underscore_12: call_walk_toddler_issue_lizard_tell_perfect_boss_when_cradle_nut_amused
+bip_39_word_underscore_2: call_walk
+bip_39_word_underscore_3: call_walk_toddler
+bip_39_word_underscore_4: call_walk_toddler_issue
+bip_39_word_underscore_5: call_walk_toddler_issue_lizard
+bip_39_word_underscore_6: call_walk_toddler_issue_lizard_tell
+bip_39_word_underscore_7: call_walk_toddler_issue_lizard_tell_perfect
+bip_39_word_underscore_8: call_walk_toddler_issue_lizard_tell_perfect_boss
+bip_39_word_underscore_9: call_walk_toddler_issue_lizard_tell_perfect_boss_when
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

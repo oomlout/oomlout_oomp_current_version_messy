@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frequent |  
+| bip_39_word_dash_10 | frequent-scare-bronze-clutch-purpose-glow-process-pitch-birth-virtual |  
+| bip_39_word_dash_11 | frequent-scare-bronze-clutch-purpose-glow-process-pitch-birth-virtual-engage |  
+| bip_39_word_dash_12 | frequent-scare-bronze-clutch-purpose-glow-process-pitch-birth-virtual-engage-ahead |  
+| bip_39_word_dash_2 | frequent-scare |  
+| bip_39_word_dash_3 | frequent-scare-bronze |  
+| bip_39_word_dash_4 | frequent-scare-bronze-clutch |  
+| bip_39_word_dash_5 | frequent-scare-bronze-clutch-purpose |  
+| bip_39_word_dash_6 | frequent-scare-bronze-clutch-purpose-glow |  
+| bip_39_word_dash_7 | frequent-scare-bronze-clutch-purpose-glow-process |  
+| bip_39_word_dash_8 | frequent-scare-bronze-clutch-purpose-glow-process-pitch |  
+| bip_39_word_dash_9 | frequent-scare-bronze-clutch-purpose-glow-process-pitch-birth |  
 | bip_39_word_new_br_1 | frequent |  
 | bip_39_word_new_br_10 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual |  
 | bip_39_word_new_br_11 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual<br>engage |  
@@ -147,6 +159,18 @@ birth |
 | bip_39_word_space_7 | frequent scare bronze clutch purpose glow process |  
 | bip_39_word_space_8 | frequent scare bronze clutch purpose glow process pitch |  
 | bip_39_word_space_9 | frequent scare bronze clutch purpose glow process pitch birth |  
+| bip_39_word_underscore_1 | frequent |  
+| bip_39_word_underscore_10 | frequent_scare_bronze_clutch_purpose_glow_process_pitch_birth_virtual |  
+| bip_39_word_underscore_11 | frequent_scare_bronze_clutch_purpose_glow_process_pitch_birth_virtual_engage |  
+| bip_39_word_underscore_12 | frequent_scare_bronze_clutch_purpose_glow_process_pitch_birth_virtual_engage_ahead |  
+| bip_39_word_underscore_2 | frequent_scare |  
+| bip_39_word_underscore_3 | frequent_scare_bronze |  
+| bip_39_word_underscore_4 | frequent_scare_bronze_clutch |  
+| bip_39_word_underscore_5 | frequent_scare_bronze_clutch_purpose |  
+| bip_39_word_underscore_6 | frequent_scare_bronze_clutch_purpose_glow |  
+| bip_39_word_underscore_7 | frequent_scare_bronze_clutch_purpose_glow_process |  
+| bip_39_word_underscore_8 | frequent_scare_bronze_clutch_purpose_glow_process_pitch |  
+| bip_39_word_underscore_9 | frequent_scare_bronze_clutch_purpose_glow_process_pitch_birth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

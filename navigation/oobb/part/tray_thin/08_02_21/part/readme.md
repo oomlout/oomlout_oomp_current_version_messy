@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | solution |  
+| bip_39_word_dash_10 | solution-winner-labor-profit-over-seed-crouch-sponsor-tuna-embrace |  
+| bip_39_word_dash_11 | solution-winner-labor-profit-over-seed-crouch-sponsor-tuna-embrace-discover |  
+| bip_39_word_dash_12 | solution-winner-labor-profit-over-seed-crouch-sponsor-tuna-embrace-discover-athlete |  
+| bip_39_word_dash_2 | solution-winner |  
+| bip_39_word_dash_3 | solution-winner-labor |  
+| bip_39_word_dash_4 | solution-winner-labor-profit |  
+| bip_39_word_dash_5 | solution-winner-labor-profit-over |  
+| bip_39_word_dash_6 | solution-winner-labor-profit-over-seed |  
+| bip_39_word_dash_7 | solution-winner-labor-profit-over-seed-crouch |  
+| bip_39_word_dash_8 | solution-winner-labor-profit-over-seed-crouch-sponsor |  
+| bip_39_word_dash_9 | solution-winner-labor-profit-over-seed-crouch-sponsor-tuna |  
 | bip_39_word_new_br_1 | solution |  
 | bip_39_word_new_br_10 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace |  
 | bip_39_word_new_br_11 | solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace<br>discover |  
@@ -147,6 +159,18 @@ tuna |
 | bip_39_word_space_7 | solution winner labor profit over seed crouch |  
 | bip_39_word_space_8 | solution winner labor profit over seed crouch sponsor |  
 | bip_39_word_space_9 | solution winner labor profit over seed crouch sponsor tuna |  
+| bip_39_word_underscore_1 | solution |  
+| bip_39_word_underscore_10 | solution_winner_labor_profit_over_seed_crouch_sponsor_tuna_embrace |  
+| bip_39_word_underscore_11 | solution_winner_labor_profit_over_seed_crouch_sponsor_tuna_embrace_discover |  
+| bip_39_word_underscore_12 | solution_winner_labor_profit_over_seed_crouch_sponsor_tuna_embrace_discover_athlete |  
+| bip_39_word_underscore_2 | solution_winner |  
+| bip_39_word_underscore_3 | solution_winner_labor |  
+| bip_39_word_underscore_4 | solution_winner_labor_profit |  
+| bip_39_word_underscore_5 | solution_winner_labor_profit_over |  
+| bip_39_word_underscore_6 | solution_winner_labor_profit_over_seed |  
+| bip_39_word_underscore_7 | solution_winner_labor_profit_over_seed_crouch |  
+| bip_39_word_underscore_8 | solution_winner_labor_profit_over_seed_crouch_sponsor |  
+| bip_39_word_underscore_9 | solution_winner_labor_profit_over_seed_crouch_sponsor_tuna |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

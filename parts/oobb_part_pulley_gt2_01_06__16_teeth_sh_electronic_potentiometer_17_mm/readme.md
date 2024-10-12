@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | donor |  
+| bip_39_word_dash_10 | donor-apology-general-bread-giggle-theme-man-slight-inherit-place |  
+| bip_39_word_dash_11 | donor-apology-general-bread-giggle-theme-man-slight-inherit-place-cement |  
+| bip_39_word_dash_12 | donor-apology-general-bread-giggle-theme-man-slight-inherit-place-cement-asthma |  
+| bip_39_word_dash_2 | donor-apology |  
+| bip_39_word_dash_3 | donor-apology-general |  
+| bip_39_word_dash_4 | donor-apology-general-bread |  
+| bip_39_word_dash_5 | donor-apology-general-bread-giggle |  
+| bip_39_word_dash_6 | donor-apology-general-bread-giggle-theme |  
+| bip_39_word_dash_7 | donor-apology-general-bread-giggle-theme-man |  
+| bip_39_word_dash_8 | donor-apology-general-bread-giggle-theme-man-slight |  
+| bip_39_word_dash_9 | donor-apology-general-bread-giggle-theme-man-slight-inherit |  
 | bip_39_word_new_br_1 | donor |  
 | bip_39_word_new_br_10 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place |  
 | bip_39_word_new_br_11 | donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place<br>cement |  
@@ -147,6 +159,18 @@ inherit |
 | bip_39_word_space_7 | donor apology general bread giggle theme man |  
 | bip_39_word_space_8 | donor apology general bread giggle theme man slight |  
 | bip_39_word_space_9 | donor apology general bread giggle theme man slight inherit |  
+| bip_39_word_underscore_1 | donor |  
+| bip_39_word_underscore_10 | donor_apology_general_bread_giggle_theme_man_slight_inherit_place |  
+| bip_39_word_underscore_11 | donor_apology_general_bread_giggle_theme_man_slight_inherit_place_cement |  
+| bip_39_word_underscore_12 | donor_apology_general_bread_giggle_theme_man_slight_inherit_place_cement_asthma |  
+| bip_39_word_underscore_2 | donor_apology |  
+| bip_39_word_underscore_3 | donor_apology_general |  
+| bip_39_word_underscore_4 | donor_apology_general_bread |  
+| bip_39_word_underscore_5 | donor_apology_general_bread_giggle |  
+| bip_39_word_underscore_6 | donor_apology_general_bread_giggle_theme |  
+| bip_39_word_underscore_7 | donor_apology_general_bread_giggle_theme_man |  
+| bip_39_word_underscore_8 | donor_apology_general_bread_giggle_theme_man_slight |  
+| bip_39_word_underscore_9 | donor_apology_general_bread_giggle_theme_man_slight_inherit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

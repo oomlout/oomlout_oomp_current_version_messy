@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bunker
+bip_39_word_dash_10: bunker-pipe-normal-wait-mistake-legend-tunnel-element-maze-hundred
+bip_39_word_dash_11: bunker-pipe-normal-wait-mistake-legend-tunnel-element-maze-hundred-sun
+bip_39_word_dash_12: bunker-pipe-normal-wait-mistake-legend-tunnel-element-maze-hundred-sun-arrange
+bip_39_word_dash_2: bunker-pipe
+bip_39_word_dash_3: bunker-pipe-normal
+bip_39_word_dash_4: bunker-pipe-normal-wait
+bip_39_word_dash_5: bunker-pipe-normal-wait-mistake
+bip_39_word_dash_6: bunker-pipe-normal-wait-mistake-legend
+bip_39_word_dash_7: bunker-pipe-normal-wait-mistake-legend-tunnel
+bip_39_word_dash_8: bunker-pipe-normal-wait-mistake-legend-tunnel-element
+bip_39_word_dash_9: bunker-pipe-normal-wait-mistake-legend-tunnel-element-maze
 bip_39_word_new_br_1: bunker
 bip_39_word_new_br_10: bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element<br>maze<br>hundred
 bip_39_word_new_br_11: bunker<br>pipe<br>normal<br>wait<br>mistake<br>legend<br>tunnel<br>element<br>maze<br>hundred<br>sun
@@ -193,6 +205,18 @@ bip_39_word_space_6: bunker pipe normal wait mistake legend
 bip_39_word_space_7: bunker pipe normal wait mistake legend tunnel
 bip_39_word_space_8: bunker pipe normal wait mistake legend tunnel element
 bip_39_word_space_9: bunker pipe normal wait mistake legend tunnel element maze
+bip_39_word_underscore_1: bunker
+bip_39_word_underscore_10: bunker_pipe_normal_wait_mistake_legend_tunnel_element_maze_hundred
+bip_39_word_underscore_11: bunker_pipe_normal_wait_mistake_legend_tunnel_element_maze_hundred_sun
+bip_39_word_underscore_12: bunker_pipe_normal_wait_mistake_legend_tunnel_element_maze_hundred_sun_arrange
+bip_39_word_underscore_2: bunker_pipe
+bip_39_word_underscore_3: bunker_pipe_normal
+bip_39_word_underscore_4: bunker_pipe_normal_wait
+bip_39_word_underscore_5: bunker_pipe_normal_wait_mistake
+bip_39_word_underscore_6: bunker_pipe_normal_wait_mistake_legend
+bip_39_word_underscore_7: bunker_pipe_normal_wait_mistake_legend_tunnel
+bip_39_word_underscore_8: bunker_pipe_normal_wait_mistake_legend_tunnel_element
+bip_39_word_underscore_9: bunker_pipe_normal_wait_mistake_legend_tunnel_element_maze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

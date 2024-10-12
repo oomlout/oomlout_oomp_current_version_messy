@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | claim |  
+| bip_39_word_dash_10 | claim-adult-axis-interest-social-all-stem-observe-inside-hospital |  
+| bip_39_word_dash_11 | claim-adult-axis-interest-social-all-stem-observe-inside-hospital-install |  
+| bip_39_word_dash_12 | claim-adult-axis-interest-social-all-stem-observe-inside-hospital-install-antenna |  
+| bip_39_word_dash_2 | claim-adult |  
+| bip_39_word_dash_3 | claim-adult-axis |  
+| bip_39_word_dash_4 | claim-adult-axis-interest |  
+| bip_39_word_dash_5 | claim-adult-axis-interest-social |  
+| bip_39_word_dash_6 | claim-adult-axis-interest-social-all |  
+| bip_39_word_dash_7 | claim-adult-axis-interest-social-all-stem |  
+| bip_39_word_dash_8 | claim-adult-axis-interest-social-all-stem-observe |  
+| bip_39_word_dash_9 | claim-adult-axis-interest-social-all-stem-observe-inside |  
 | bip_39_word_new_br_1 | claim |  
 | bip_39_word_new_br_10 | claim<br>adult<br>axis<br>interest<br>social<br>all<br>stem<br>observe<br>inside<br>hospital |  
 | bip_39_word_new_br_11 | claim<br>adult<br>axis<br>interest<br>social<br>all<br>stem<br>observe<br>inside<br>hospital<br>install |  
@@ -147,6 +159,18 @@ inside |
 | bip_39_word_space_7 | claim adult axis interest social all stem |  
 | bip_39_word_space_8 | claim adult axis interest social all stem observe |  
 | bip_39_word_space_9 | claim adult axis interest social all stem observe inside |  
+| bip_39_word_underscore_1 | claim |  
+| bip_39_word_underscore_10 | claim_adult_axis_interest_social_all_stem_observe_inside_hospital |  
+| bip_39_word_underscore_11 | claim_adult_axis_interest_social_all_stem_observe_inside_hospital_install |  
+| bip_39_word_underscore_12 | claim_adult_axis_interest_social_all_stem_observe_inside_hospital_install_antenna |  
+| bip_39_word_underscore_2 | claim_adult |  
+| bip_39_word_underscore_3 | claim_adult_axis |  
+| bip_39_word_underscore_4 | claim_adult_axis_interest |  
+| bip_39_word_underscore_5 | claim_adult_axis_interest_social |  
+| bip_39_word_underscore_6 | claim_adult_axis_interest_social_all |  
+| bip_39_word_underscore_7 | claim_adult_axis_interest_social_all_stem |  
+| bip_39_word_underscore_8 | claim_adult_axis_interest_social_all_stem_observe |  
+| bip_39_word_underscore_9 | claim_adult_axis_interest_social_all_stem_observe_inside |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

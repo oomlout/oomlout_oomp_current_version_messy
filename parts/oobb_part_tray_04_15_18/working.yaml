@@ -1,3 +1,15 @@
+bip_39_word_dash_1: venue
+bip_39_word_dash_10: venue-exhaust-nurse-jazz-razor-renew-leaf-address-again-leave
+bip_39_word_dash_11: venue-exhaust-nurse-jazz-razor-renew-leaf-address-again-leave-hybrid
+bip_39_word_dash_12: venue-exhaust-nurse-jazz-razor-renew-leaf-address-again-leave-hybrid-accuse
+bip_39_word_dash_2: venue-exhaust
+bip_39_word_dash_3: venue-exhaust-nurse
+bip_39_word_dash_4: venue-exhaust-nurse-jazz
+bip_39_word_dash_5: venue-exhaust-nurse-jazz-razor
+bip_39_word_dash_6: venue-exhaust-nurse-jazz-razor-renew
+bip_39_word_dash_7: venue-exhaust-nurse-jazz-razor-renew-leaf
+bip_39_word_dash_8: venue-exhaust-nurse-jazz-razor-renew-leaf-address
+bip_39_word_dash_9: venue-exhaust-nurse-jazz-razor-renew-leaf-address-again
 bip_39_word_new_br_1: venue
 bip_39_word_new_br_10: venue<br>exhaust<br>nurse<br>jazz<br>razor<br>renew<br>leaf<br>address<br>again<br>leave
 bip_39_word_new_br_11: venue<br>exhaust<br>nurse<br>jazz<br>razor<br>renew<br>leaf<br>address<br>again<br>leave<br>hybrid
@@ -193,6 +205,18 @@ bip_39_word_space_6: venue exhaust nurse jazz razor renew
 bip_39_word_space_7: venue exhaust nurse jazz razor renew leaf
 bip_39_word_space_8: venue exhaust nurse jazz razor renew leaf address
 bip_39_word_space_9: venue exhaust nurse jazz razor renew leaf address again
+bip_39_word_underscore_1: venue
+bip_39_word_underscore_10: venue_exhaust_nurse_jazz_razor_renew_leaf_address_again_leave
+bip_39_word_underscore_11: venue_exhaust_nurse_jazz_razor_renew_leaf_address_again_leave_hybrid
+bip_39_word_underscore_12: venue_exhaust_nurse_jazz_razor_renew_leaf_address_again_leave_hybrid_accuse
+bip_39_word_underscore_2: venue_exhaust
+bip_39_word_underscore_3: venue_exhaust_nurse
+bip_39_word_underscore_4: venue_exhaust_nurse_jazz
+bip_39_word_underscore_5: venue_exhaust_nurse_jazz_razor
+bip_39_word_underscore_6: venue_exhaust_nurse_jazz_razor_renew
+bip_39_word_underscore_7: venue_exhaust_nurse_jazz_razor_renew_leaf
+bip_39_word_underscore_8: venue_exhaust_nurse_jazz_razor_renew_leaf_address
+bip_39_word_underscore_9: venue_exhaust_nurse_jazz_razor_renew_leaf_address_again
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

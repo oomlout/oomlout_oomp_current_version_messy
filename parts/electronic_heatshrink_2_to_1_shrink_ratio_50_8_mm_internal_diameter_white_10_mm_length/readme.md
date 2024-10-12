@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rigid |  
+| bip_39_word_dash_10 | rigid-wheat-trick-plastic-nasty-balance-hobby-flavor-weekend-dwarf |  
+| bip_39_word_dash_11 | rigid-wheat-trick-plastic-nasty-balance-hobby-flavor-weekend-dwarf-ridge |  
+| bip_39_word_dash_12 | rigid-wheat-trick-plastic-nasty-balance-hobby-flavor-weekend-dwarf-ridge-analyst |  
+| bip_39_word_dash_2 | rigid-wheat |  
+| bip_39_word_dash_3 | rigid-wheat-trick |  
+| bip_39_word_dash_4 | rigid-wheat-trick-plastic |  
+| bip_39_word_dash_5 | rigid-wheat-trick-plastic-nasty |  
+| bip_39_word_dash_6 | rigid-wheat-trick-plastic-nasty-balance |  
+| bip_39_word_dash_7 | rigid-wheat-trick-plastic-nasty-balance-hobby |  
+| bip_39_word_dash_8 | rigid-wheat-trick-plastic-nasty-balance-hobby-flavor |  
+| bip_39_word_dash_9 | rigid-wheat-trick-plastic-nasty-balance-hobby-flavor-weekend |  
 | bip_39_word_new_br_1 | rigid |  
 | bip_39_word_new_br_10 | rigid<br>wheat<br>trick<br>plastic<br>nasty<br>balance<br>hobby<br>flavor<br>weekend<br>dwarf |  
 | bip_39_word_new_br_11 | rigid<br>wheat<br>trick<br>plastic<br>nasty<br>balance<br>hobby<br>flavor<br>weekend<br>dwarf<br>ridge |  
@@ -147,6 +159,18 @@ weekend |
 | bip_39_word_space_7 | rigid wheat trick plastic nasty balance hobby |  
 | bip_39_word_space_8 | rigid wheat trick plastic nasty balance hobby flavor |  
 | bip_39_word_space_9 | rigid wheat trick plastic nasty balance hobby flavor weekend |  
+| bip_39_word_underscore_1 | rigid |  
+| bip_39_word_underscore_10 | rigid_wheat_trick_plastic_nasty_balance_hobby_flavor_weekend_dwarf |  
+| bip_39_word_underscore_11 | rigid_wheat_trick_plastic_nasty_balance_hobby_flavor_weekend_dwarf_ridge |  
+| bip_39_word_underscore_12 | rigid_wheat_trick_plastic_nasty_balance_hobby_flavor_weekend_dwarf_ridge_analyst |  
+| bip_39_word_underscore_2 | rigid_wheat |  
+| bip_39_word_underscore_3 | rigid_wheat_trick |  
+| bip_39_word_underscore_4 | rigid_wheat_trick_plastic |  
+| bip_39_word_underscore_5 | rigid_wheat_trick_plastic_nasty |  
+| bip_39_word_underscore_6 | rigid_wheat_trick_plastic_nasty_balance |  
+| bip_39_word_underscore_7 | rigid_wheat_trick_plastic_nasty_balance_hobby |  
+| bip_39_word_underscore_8 | rigid_wheat_trick_plastic_nasty_balance_hobby_flavor |  
+| bip_39_word_underscore_9 | rigid_wheat_trick_plastic_nasty_balance_hobby_flavor_weekend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

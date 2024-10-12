@@ -1,3 +1,15 @@
+bip_39_word_dash_1: valley
+bip_39_word_dash_10: valley-hybrid-draft-engine-bird-horn-course-label-belt-lyrics
+bip_39_word_dash_11: valley-hybrid-draft-engine-bird-horn-course-label-belt-lyrics-omit
+bip_39_word_dash_12: valley-hybrid-draft-engine-bird-horn-course-label-belt-lyrics-omit-aerobic
+bip_39_word_dash_2: valley-hybrid
+bip_39_word_dash_3: valley-hybrid-draft
+bip_39_word_dash_4: valley-hybrid-draft-engine
+bip_39_word_dash_5: valley-hybrid-draft-engine-bird
+bip_39_word_dash_6: valley-hybrid-draft-engine-bird-horn
+bip_39_word_dash_7: valley-hybrid-draft-engine-bird-horn-course
+bip_39_word_dash_8: valley-hybrid-draft-engine-bird-horn-course-label
+bip_39_word_dash_9: valley-hybrid-draft-engine-bird-horn-course-label-belt
 bip_39_word_new_br_1: valley
 bip_39_word_new_br_10: valley<br>hybrid<br>draft<br>engine<br>bird<br>horn<br>course<br>label<br>belt<br>lyrics
 bip_39_word_new_br_11: valley<br>hybrid<br>draft<br>engine<br>bird<br>horn<br>course<br>label<br>belt<br>lyrics<br>omit
@@ -193,6 +205,18 @@ bip_39_word_space_6: valley hybrid draft engine bird horn
 bip_39_word_space_7: valley hybrid draft engine bird horn course
 bip_39_word_space_8: valley hybrid draft engine bird horn course label
 bip_39_word_space_9: valley hybrid draft engine bird horn course label belt
+bip_39_word_underscore_1: valley
+bip_39_word_underscore_10: valley_hybrid_draft_engine_bird_horn_course_label_belt_lyrics
+bip_39_word_underscore_11: valley_hybrid_draft_engine_bird_horn_course_label_belt_lyrics_omit
+bip_39_word_underscore_12: valley_hybrid_draft_engine_bird_horn_course_label_belt_lyrics_omit_aerobic
+bip_39_word_underscore_2: valley_hybrid
+bip_39_word_underscore_3: valley_hybrid_draft
+bip_39_word_underscore_4: valley_hybrid_draft_engine
+bip_39_word_underscore_5: valley_hybrid_draft_engine_bird
+bip_39_word_underscore_6: valley_hybrid_draft_engine_bird_horn
+bip_39_word_underscore_7: valley_hybrid_draft_engine_bird_horn_course
+bip_39_word_underscore_8: valley_hybrid_draft_engine_bird_horn_course_label
+bip_39_word_underscore_9: valley_hybrid_draft_engine_bird_horn_course_label_belt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

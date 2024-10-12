@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | yard |  
+| bip_39_word_dash_10 | yard-asthma-poet-window-silver-toe-wheat-cable-drip-total |  
+| bip_39_word_dash_11 | yard-asthma-poet-window-silver-toe-wheat-cable-drip-total-hat |  
+| bip_39_word_dash_12 | yard-asthma-poet-window-silver-toe-wheat-cable-drip-total-hat-amazing |  
+| bip_39_word_dash_2 | yard-asthma |  
+| bip_39_word_dash_3 | yard-asthma-poet |  
+| bip_39_word_dash_4 | yard-asthma-poet-window |  
+| bip_39_word_dash_5 | yard-asthma-poet-window-silver |  
+| bip_39_word_dash_6 | yard-asthma-poet-window-silver-toe |  
+| bip_39_word_dash_7 | yard-asthma-poet-window-silver-toe-wheat |  
+| bip_39_word_dash_8 | yard-asthma-poet-window-silver-toe-wheat-cable |  
+| bip_39_word_dash_9 | yard-asthma-poet-window-silver-toe-wheat-cable-drip |  
 | bip_39_word_new_br_1 | yard |  
 | bip_39_word_new_br_10 | yard<br>asthma<br>poet<br>window<br>silver<br>toe<br>wheat<br>cable<br>drip<br>total |  
 | bip_39_word_new_br_11 | yard<br>asthma<br>poet<br>window<br>silver<br>toe<br>wheat<br>cable<br>drip<br>total<br>hat |  
@@ -147,6 +159,18 @@ drip |
 | bip_39_word_space_7 | yard asthma poet window silver toe wheat |  
 | bip_39_word_space_8 | yard asthma poet window silver toe wheat cable |  
 | bip_39_word_space_9 | yard asthma poet window silver toe wheat cable drip |  
+| bip_39_word_underscore_1 | yard |  
+| bip_39_word_underscore_10 | yard_asthma_poet_window_silver_toe_wheat_cable_drip_total |  
+| bip_39_word_underscore_11 | yard_asthma_poet_window_silver_toe_wheat_cable_drip_total_hat |  
+| bip_39_word_underscore_12 | yard_asthma_poet_window_silver_toe_wheat_cable_drip_total_hat_amazing |  
+| bip_39_word_underscore_2 | yard_asthma |  
+| bip_39_word_underscore_3 | yard_asthma_poet |  
+| bip_39_word_underscore_4 | yard_asthma_poet_window |  
+| bip_39_word_underscore_5 | yard_asthma_poet_window_silver |  
+| bip_39_word_underscore_6 | yard_asthma_poet_window_silver_toe |  
+| bip_39_word_underscore_7 | yard_asthma_poet_window_silver_toe_wheat |  
+| bip_39_word_underscore_8 | yard_asthma_poet_window_silver_toe_wheat_cable |  
+| bip_39_word_underscore_9 | yard_asthma_poet_window_silver_toe_wheat_cable_drip |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

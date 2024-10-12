@@ -1,3 +1,15 @@
+bip_39_word_dash_1: people
+bip_39_word_dash_10: people-frequent-fragile-control-question-royal-category-patrol-drop-milk
+bip_39_word_dash_11: people-frequent-fragile-control-question-royal-category-patrol-drop-milk-october
+bip_39_word_dash_12: people-frequent-fragile-control-question-royal-category-patrol-drop-milk-october-assist
+bip_39_word_dash_2: people-frequent
+bip_39_word_dash_3: people-frequent-fragile
+bip_39_word_dash_4: people-frequent-fragile-control
+bip_39_word_dash_5: people-frequent-fragile-control-question
+bip_39_word_dash_6: people-frequent-fragile-control-question-royal
+bip_39_word_dash_7: people-frequent-fragile-control-question-royal-category
+bip_39_word_dash_8: people-frequent-fragile-control-question-royal-category-patrol
+bip_39_word_dash_9: people-frequent-fragile-control-question-royal-category-patrol-drop
 bip_39_word_new_br_1: people
 bip_39_word_new_br_10: people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk
 bip_39_word_new_br_11: people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk<br>october
@@ -195,6 +207,18 @@ bip_39_word_space_7: people frequent fragile control question royal category
 bip_39_word_space_8: people frequent fragile control question royal category patrol
 bip_39_word_space_9: people frequent fragile control question royal category patrol
   drop
+bip_39_word_underscore_1: people
+bip_39_word_underscore_10: people_frequent_fragile_control_question_royal_category_patrol_drop_milk
+bip_39_word_underscore_11: people_frequent_fragile_control_question_royal_category_patrol_drop_milk_october
+bip_39_word_underscore_12: people_frequent_fragile_control_question_royal_category_patrol_drop_milk_october_assist
+bip_39_word_underscore_2: people_frequent
+bip_39_word_underscore_3: people_frequent_fragile
+bip_39_word_underscore_4: people_frequent_fragile_control
+bip_39_word_underscore_5: people_frequent_fragile_control_question
+bip_39_word_underscore_6: people_frequent_fragile_control_question_royal
+bip_39_word_underscore_7: people_frequent_fragile_control_question_royal_category
+bip_39_word_underscore_8: people_frequent_fragile_control_question_royal_category_patrol
+bip_39_word_underscore_9: people_frequent_fragile_control_question_royal_category_patrol_drop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

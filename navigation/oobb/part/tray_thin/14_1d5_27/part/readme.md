@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | upper |  
+| bip_39_word_dash_10 | upper-embody-correct-tell-region-heart-dash-charge-lion-saddle |  
+| bip_39_word_dash_11 | upper-embody-correct-tell-region-heart-dash-charge-lion-saddle-wreck |  
+| bip_39_word_dash_12 | upper-embody-correct-tell-region-heart-dash-charge-lion-saddle-wreck-actress |  
+| bip_39_word_dash_2 | upper-embody |  
+| bip_39_word_dash_3 | upper-embody-correct |  
+| bip_39_word_dash_4 | upper-embody-correct-tell |  
+| bip_39_word_dash_5 | upper-embody-correct-tell-region |  
+| bip_39_word_dash_6 | upper-embody-correct-tell-region-heart |  
+| bip_39_word_dash_7 | upper-embody-correct-tell-region-heart-dash |  
+| bip_39_word_dash_8 | upper-embody-correct-tell-region-heart-dash-charge |  
+| bip_39_word_dash_9 | upper-embody-correct-tell-region-heart-dash-charge-lion |  
 | bip_39_word_new_br_1 | upper |  
 | bip_39_word_new_br_10 | upper<br>embody<br>correct<br>tell<br>region<br>heart<br>dash<br>charge<br>lion<br>saddle |  
 | bip_39_word_new_br_11 | upper<br>embody<br>correct<br>tell<br>region<br>heart<br>dash<br>charge<br>lion<br>saddle<br>wreck |  
@@ -147,6 +159,18 @@ lion |
 | bip_39_word_space_7 | upper embody correct tell region heart dash |  
 | bip_39_word_space_8 | upper embody correct tell region heart dash charge |  
 | bip_39_word_space_9 | upper embody correct tell region heart dash charge lion |  
+| bip_39_word_underscore_1 | upper |  
+| bip_39_word_underscore_10 | upper_embody_correct_tell_region_heart_dash_charge_lion_saddle |  
+| bip_39_word_underscore_11 | upper_embody_correct_tell_region_heart_dash_charge_lion_saddle_wreck |  
+| bip_39_word_underscore_12 | upper_embody_correct_tell_region_heart_dash_charge_lion_saddle_wreck_actress |  
+| bip_39_word_underscore_2 | upper_embody |  
+| bip_39_word_underscore_3 | upper_embody_correct |  
+| bip_39_word_underscore_4 | upper_embody_correct_tell |  
+| bip_39_word_underscore_5 | upper_embody_correct_tell_region |  
+| bip_39_word_underscore_6 | upper_embody_correct_tell_region_heart |  
+| bip_39_word_underscore_7 | upper_embody_correct_tell_region_heart_dash |  
+| bip_39_word_underscore_8 | upper_embody_correct_tell_region_heart_dash_charge |  
+| bip_39_word_underscore_9 | upper_embody_correct_tell_region_heart_dash_charge_lion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

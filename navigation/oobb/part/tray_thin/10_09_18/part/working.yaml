@@ -1,3 +1,15 @@
+bip_39_word_dash_1: attend
+bip_39_word_dash_10: attend-awesome-steel-fitness-fury-jar-jelly-awesome-club-learn
+bip_39_word_dash_11: attend-awesome-steel-fitness-fury-jar-jelly-awesome-club-learn-tiny
+bip_39_word_dash_12: attend-awesome-steel-fitness-fury-jar-jelly-awesome-club-learn-tiny-april
+bip_39_word_dash_2: attend-awesome
+bip_39_word_dash_3: attend-awesome-steel
+bip_39_word_dash_4: attend-awesome-steel-fitness
+bip_39_word_dash_5: attend-awesome-steel-fitness-fury
+bip_39_word_dash_6: attend-awesome-steel-fitness-fury-jar
+bip_39_word_dash_7: attend-awesome-steel-fitness-fury-jar-jelly
+bip_39_word_dash_8: attend-awesome-steel-fitness-fury-jar-jelly-awesome
+bip_39_word_dash_9: attend-awesome-steel-fitness-fury-jar-jelly-awesome-club
 bip_39_word_new_br_1: attend
 bip_39_word_new_br_10: attend<br>awesome<br>steel<br>fitness<br>fury<br>jar<br>jelly<br>awesome<br>club<br>learn
 bip_39_word_new_br_11: attend<br>awesome<br>steel<br>fitness<br>fury<br>jar<br>jelly<br>awesome<br>club<br>learn<br>tiny
@@ -193,6 +205,18 @@ bip_39_word_space_6: attend awesome steel fitness fury jar
 bip_39_word_space_7: attend awesome steel fitness fury jar jelly
 bip_39_word_space_8: attend awesome steel fitness fury jar jelly awesome
 bip_39_word_space_9: attend awesome steel fitness fury jar jelly awesome club
+bip_39_word_underscore_1: attend
+bip_39_word_underscore_10: attend_awesome_steel_fitness_fury_jar_jelly_awesome_club_learn
+bip_39_word_underscore_11: attend_awesome_steel_fitness_fury_jar_jelly_awesome_club_learn_tiny
+bip_39_word_underscore_12: attend_awesome_steel_fitness_fury_jar_jelly_awesome_club_learn_tiny_april
+bip_39_word_underscore_2: attend_awesome
+bip_39_word_underscore_3: attend_awesome_steel
+bip_39_word_underscore_4: attend_awesome_steel_fitness
+bip_39_word_underscore_5: attend_awesome_steel_fitness_fury
+bip_39_word_underscore_6: attend_awesome_steel_fitness_fury_jar
+bip_39_word_underscore_7: attend_awesome_steel_fitness_fury_jar_jelly
+bip_39_word_underscore_8: attend_awesome_steel_fitness_fury_jar_jelly_awesome
+bip_39_word_underscore_9: attend_awesome_steel_fitness_fury_jar_jelly_awesome_club
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

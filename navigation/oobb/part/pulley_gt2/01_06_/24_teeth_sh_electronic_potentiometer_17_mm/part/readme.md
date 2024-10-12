@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | name |  
+| bip_39_word_dash_10 | name-trial-enter-kitchen-mutual-lend-merit-sure-just-also |  
+| bip_39_word_dash_11 | name-trial-enter-kitchen-mutual-lend-merit-sure-just-also-cheap |  
+| bip_39_word_dash_12 | name-trial-enter-kitchen-mutual-lend-merit-sure-just-also-cheap-art |  
+| bip_39_word_dash_2 | name-trial |  
+| bip_39_word_dash_3 | name-trial-enter |  
+| bip_39_word_dash_4 | name-trial-enter-kitchen |  
+| bip_39_word_dash_5 | name-trial-enter-kitchen-mutual |  
+| bip_39_word_dash_6 | name-trial-enter-kitchen-mutual-lend |  
+| bip_39_word_dash_7 | name-trial-enter-kitchen-mutual-lend-merit |  
+| bip_39_word_dash_8 | name-trial-enter-kitchen-mutual-lend-merit-sure |  
+| bip_39_word_dash_9 | name-trial-enter-kitchen-mutual-lend-merit-sure-just |  
 | bip_39_word_new_br_1 | name |  
 | bip_39_word_new_br_10 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also |  
 | bip_39_word_new_br_11 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also<br>cheap |  
@@ -147,6 +159,18 @@ just |
 | bip_39_word_space_7 | name trial enter kitchen mutual lend merit |  
 | bip_39_word_space_8 | name trial enter kitchen mutual lend merit sure |  
 | bip_39_word_space_9 | name trial enter kitchen mutual lend merit sure just |  
+| bip_39_word_underscore_1 | name |  
+| bip_39_word_underscore_10 | name_trial_enter_kitchen_mutual_lend_merit_sure_just_also |  
+| bip_39_word_underscore_11 | name_trial_enter_kitchen_mutual_lend_merit_sure_just_also_cheap |  
+| bip_39_word_underscore_12 | name_trial_enter_kitchen_mutual_lend_merit_sure_just_also_cheap_art |  
+| bip_39_word_underscore_2 | name_trial |  
+| bip_39_word_underscore_3 | name_trial_enter |  
+| bip_39_word_underscore_4 | name_trial_enter_kitchen |  
+| bip_39_word_underscore_5 | name_trial_enter_kitchen_mutual |  
+| bip_39_word_underscore_6 | name_trial_enter_kitchen_mutual_lend |  
+| bip_39_word_underscore_7 | name_trial_enter_kitchen_mutual_lend_merit |  
+| bip_39_word_underscore_8 | name_trial_enter_kitchen_mutual_lend_merit_sure |  
+| bip_39_word_underscore_9 | name_trial_enter_kitchen_mutual_lend_merit_sure_just |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

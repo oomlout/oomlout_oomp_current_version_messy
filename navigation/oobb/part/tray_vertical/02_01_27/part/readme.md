@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrive |  
+| bip_39_word_dash_10 | arrive-cover-inform-tourist-worth-bleak-vanish-creek-document-start |  
+| bip_39_word_dash_11 | arrive-cover-inform-tourist-worth-bleak-vanish-creek-document-start-virus |  
+| bip_39_word_dash_12 | arrive-cover-inform-tourist-worth-bleak-vanish-creek-document-start-virus-asset |  
+| bip_39_word_dash_2 | arrive-cover |  
+| bip_39_word_dash_3 | arrive-cover-inform |  
+| bip_39_word_dash_4 | arrive-cover-inform-tourist |  
+| bip_39_word_dash_5 | arrive-cover-inform-tourist-worth |  
+| bip_39_word_dash_6 | arrive-cover-inform-tourist-worth-bleak |  
+| bip_39_word_dash_7 | arrive-cover-inform-tourist-worth-bleak-vanish |  
+| bip_39_word_dash_8 | arrive-cover-inform-tourist-worth-bleak-vanish-creek |  
+| bip_39_word_dash_9 | arrive-cover-inform-tourist-worth-bleak-vanish-creek-document |  
 | bip_39_word_new_br_1 | arrive |  
 | bip_39_word_new_br_10 | arrive<br>cover<br>inform<br>tourist<br>worth<br>bleak<br>vanish<br>creek<br>document<br>start |  
 | bip_39_word_new_br_11 | arrive<br>cover<br>inform<br>tourist<br>worth<br>bleak<br>vanish<br>creek<br>document<br>start<br>virus |  
@@ -147,6 +159,18 @@ document |
 | bip_39_word_space_7 | arrive cover inform tourist worth bleak vanish |  
 | bip_39_word_space_8 | arrive cover inform tourist worth bleak vanish creek |  
 | bip_39_word_space_9 | arrive cover inform tourist worth bleak vanish creek document |  
+| bip_39_word_underscore_1 | arrive |  
+| bip_39_word_underscore_10 | arrive_cover_inform_tourist_worth_bleak_vanish_creek_document_start |  
+| bip_39_word_underscore_11 | arrive_cover_inform_tourist_worth_bleak_vanish_creek_document_start_virus |  
+| bip_39_word_underscore_12 | arrive_cover_inform_tourist_worth_bleak_vanish_creek_document_start_virus_asset |  
+| bip_39_word_underscore_2 | arrive_cover |  
+| bip_39_word_underscore_3 | arrive_cover_inform |  
+| bip_39_word_underscore_4 | arrive_cover_inform_tourist |  
+| bip_39_word_underscore_5 | arrive_cover_inform_tourist_worth |  
+| bip_39_word_underscore_6 | arrive_cover_inform_tourist_worth_bleak |  
+| bip_39_word_underscore_7 | arrive_cover_inform_tourist_worth_bleak_vanish |  
+| bip_39_word_underscore_8 | arrive_cover_inform_tourist_worth_bleak_vanish_creek |  
+| bip_39_word_underscore_9 | arrive_cover_inform_tourist_worth_bleak_vanish_creek_document |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

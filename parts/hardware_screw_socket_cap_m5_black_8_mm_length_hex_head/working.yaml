@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ignore
+bip_39_word_dash_10: ignore-achieve-pizza-parent-forum-prefer-mammal-penalty-grocery-area
+bip_39_word_dash_11: ignore-achieve-pizza-parent-forum-prefer-mammal-penalty-grocery-area-order
+bip_39_word_dash_12: ignore-achieve-pizza-parent-forum-prefer-mammal-penalty-grocery-area-order-acid
+bip_39_word_dash_2: ignore-achieve
+bip_39_word_dash_3: ignore-achieve-pizza
+bip_39_word_dash_4: ignore-achieve-pizza-parent
+bip_39_word_dash_5: ignore-achieve-pizza-parent-forum
+bip_39_word_dash_6: ignore-achieve-pizza-parent-forum-prefer
+bip_39_word_dash_7: ignore-achieve-pizza-parent-forum-prefer-mammal
+bip_39_word_dash_8: ignore-achieve-pizza-parent-forum-prefer-mammal-penalty
+bip_39_word_dash_9: ignore-achieve-pizza-parent-forum-prefer-mammal-penalty-grocery
 bip_39_word_new_br_1: ignore
 bip_39_word_new_br_10: ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty<br>grocery<br>area
 bip_39_word_new_br_11: ignore<br>achieve<br>pizza<br>parent<br>forum<br>prefer<br>mammal<br>penalty<br>grocery<br>area<br>order
@@ -194,6 +206,18 @@ bip_39_word_space_6: ignore achieve pizza parent forum prefer
 bip_39_word_space_7: ignore achieve pizza parent forum prefer mammal
 bip_39_word_space_8: ignore achieve pizza parent forum prefer mammal penalty
 bip_39_word_space_9: ignore achieve pizza parent forum prefer mammal penalty grocery
+bip_39_word_underscore_1: ignore
+bip_39_word_underscore_10: ignore_achieve_pizza_parent_forum_prefer_mammal_penalty_grocery_area
+bip_39_word_underscore_11: ignore_achieve_pizza_parent_forum_prefer_mammal_penalty_grocery_area_order
+bip_39_word_underscore_12: ignore_achieve_pizza_parent_forum_prefer_mammal_penalty_grocery_area_order_acid
+bip_39_word_underscore_2: ignore_achieve
+bip_39_word_underscore_3: ignore_achieve_pizza
+bip_39_word_underscore_4: ignore_achieve_pizza_parent
+bip_39_word_underscore_5: ignore_achieve_pizza_parent_forum
+bip_39_word_underscore_6: ignore_achieve_pizza_parent_forum_prefer
+bip_39_word_underscore_7: ignore_achieve_pizza_parent_forum_prefer_mammal
+bip_39_word_underscore_8: ignore_achieve_pizza_parent_forum_prefer_mammal_penalty
+bip_39_word_underscore_9: ignore_achieve_pizza_parent_forum_prefer_mammal_penalty_grocery
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

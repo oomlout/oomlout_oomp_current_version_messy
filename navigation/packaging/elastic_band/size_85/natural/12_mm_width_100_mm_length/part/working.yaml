@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tilt
+bip_39_word_dash_10: tilt-develop-oval-illness-either-armor-tackle-pole-example-asthma
+bip_39_word_dash_11: tilt-develop-oval-illness-either-armor-tackle-pole-example-asthma-blade
+bip_39_word_dash_12: tilt-develop-oval-illness-either-armor-tackle-pole-example-asthma-blade-actual
+bip_39_word_dash_2: tilt-develop
+bip_39_word_dash_3: tilt-develop-oval
+bip_39_word_dash_4: tilt-develop-oval-illness
+bip_39_word_dash_5: tilt-develop-oval-illness-either
+bip_39_word_dash_6: tilt-develop-oval-illness-either-armor
+bip_39_word_dash_7: tilt-develop-oval-illness-either-armor-tackle
+bip_39_word_dash_8: tilt-develop-oval-illness-either-armor-tackle-pole
+bip_39_word_dash_9: tilt-develop-oval-illness-either-armor-tackle-pole-example
 bip_39_word_new_br_1: tilt
 bip_39_word_new_br_10: tilt<br>develop<br>oval<br>illness<br>either<br>armor<br>tackle<br>pole<br>example<br>asthma
 bip_39_word_new_br_11: tilt<br>develop<br>oval<br>illness<br>either<br>armor<br>tackle<br>pole<br>example<br>asthma<br>blade
@@ -193,6 +205,18 @@ bip_39_word_space_6: tilt develop oval illness either armor
 bip_39_word_space_7: tilt develop oval illness either armor tackle
 bip_39_word_space_8: tilt develop oval illness either armor tackle pole
 bip_39_word_space_9: tilt develop oval illness either armor tackle pole example
+bip_39_word_underscore_1: tilt
+bip_39_word_underscore_10: tilt_develop_oval_illness_either_armor_tackle_pole_example_asthma
+bip_39_word_underscore_11: tilt_develop_oval_illness_either_armor_tackle_pole_example_asthma_blade
+bip_39_word_underscore_12: tilt_develop_oval_illness_either_armor_tackle_pole_example_asthma_blade_actual
+bip_39_word_underscore_2: tilt_develop
+bip_39_word_underscore_3: tilt_develop_oval
+bip_39_word_underscore_4: tilt_develop_oval_illness
+bip_39_word_underscore_5: tilt_develop_oval_illness_either
+bip_39_word_underscore_6: tilt_develop_oval_illness_either_armor
+bip_39_word_underscore_7: tilt_develop_oval_illness_either_armor_tackle
+bip_39_word_underscore_8: tilt_develop_oval_illness_either_armor_tackle_pole
+bip_39_word_underscore_9: tilt_develop_oval_illness_either_armor_tackle_pole_example
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

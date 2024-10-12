@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | giant |  
+| bip_39_word_dash_10 | giant-polar-stage-during-cash-couple-system-load-drum-minute |  
+| bip_39_word_dash_11 | giant-polar-stage-during-cash-couple-system-load-drum-minute-cliff |  
+| bip_39_word_dash_12 | giant-polar-stage-during-cash-couple-system-load-drum-minute-cliff-anger |  
+| bip_39_word_dash_2 | giant-polar |  
+| bip_39_word_dash_3 | giant-polar-stage |  
+| bip_39_word_dash_4 | giant-polar-stage-during |  
+| bip_39_word_dash_5 | giant-polar-stage-during-cash |  
+| bip_39_word_dash_6 | giant-polar-stage-during-cash-couple |  
+| bip_39_word_dash_7 | giant-polar-stage-during-cash-couple-system |  
+| bip_39_word_dash_8 | giant-polar-stage-during-cash-couple-system-load |  
+| bip_39_word_dash_9 | giant-polar-stage-during-cash-couple-system-load-drum |  
 | bip_39_word_new_br_1 | giant |  
 | bip_39_word_new_br_10 | giant<br>polar<br>stage<br>during<br>cash<br>couple<br>system<br>load<br>drum<br>minute |  
 | bip_39_word_new_br_11 | giant<br>polar<br>stage<br>during<br>cash<br>couple<br>system<br>load<br>drum<br>minute<br>cliff |  
@@ -147,6 +159,18 @@ drum |
 | bip_39_word_space_7 | giant polar stage during cash couple system |  
 | bip_39_word_space_8 | giant polar stage during cash couple system load |  
 | bip_39_word_space_9 | giant polar stage during cash couple system load drum |  
+| bip_39_word_underscore_1 | giant |  
+| bip_39_word_underscore_10 | giant_polar_stage_during_cash_couple_system_load_drum_minute |  
+| bip_39_word_underscore_11 | giant_polar_stage_during_cash_couple_system_load_drum_minute_cliff |  
+| bip_39_word_underscore_12 | giant_polar_stage_during_cash_couple_system_load_drum_minute_cliff_anger |  
+| bip_39_word_underscore_2 | giant_polar |  
+| bip_39_word_underscore_3 | giant_polar_stage |  
+| bip_39_word_underscore_4 | giant_polar_stage_during |  
+| bip_39_word_underscore_5 | giant_polar_stage_during_cash |  
+| bip_39_word_underscore_6 | giant_polar_stage_during_cash_couple |  
+| bip_39_word_underscore_7 | giant_polar_stage_during_cash_couple_system |  
+| bip_39_word_underscore_8 | giant_polar_stage_during_cash_couple_system_load |  
+| bip_39_word_underscore_9 | giant_polar_stage_during_cash_couple_system_load_drum |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

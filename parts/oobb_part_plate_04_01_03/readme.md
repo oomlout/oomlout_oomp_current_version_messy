@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sort |  
+| bip_39_word_dash_10 | sort-grief-chaos-harbor-then-deposit-monkey-ride-can-surface |  
+| bip_39_word_dash_11 | sort-grief-chaos-harbor-then-deposit-monkey-ride-can-surface-lift |  
+| bip_39_word_dash_12 | sort-grief-chaos-harbor-then-deposit-monkey-ride-can-surface-lift-about |  
+| bip_39_word_dash_2 | sort-grief |  
+| bip_39_word_dash_3 | sort-grief-chaos |  
+| bip_39_word_dash_4 | sort-grief-chaos-harbor |  
+| bip_39_word_dash_5 | sort-grief-chaos-harbor-then |  
+| bip_39_word_dash_6 | sort-grief-chaos-harbor-then-deposit |  
+| bip_39_word_dash_7 | sort-grief-chaos-harbor-then-deposit-monkey |  
+| bip_39_word_dash_8 | sort-grief-chaos-harbor-then-deposit-monkey-ride |  
+| bip_39_word_dash_9 | sort-grief-chaos-harbor-then-deposit-monkey-ride-can |  
 | bip_39_word_new_br_1 | sort |  
 | bip_39_word_new_br_10 | sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride<br>can<br>surface |  
 | bip_39_word_new_br_11 | sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride<br>can<br>surface<br>lift |  
@@ -147,6 +159,18 @@ can |
 | bip_39_word_space_7 | sort grief chaos harbor then deposit monkey |  
 | bip_39_word_space_8 | sort grief chaos harbor then deposit monkey ride |  
 | bip_39_word_space_9 | sort grief chaos harbor then deposit monkey ride can |  
+| bip_39_word_underscore_1 | sort |  
+| bip_39_word_underscore_10 | sort_grief_chaos_harbor_then_deposit_monkey_ride_can_surface |  
+| bip_39_word_underscore_11 | sort_grief_chaos_harbor_then_deposit_monkey_ride_can_surface_lift |  
+| bip_39_word_underscore_12 | sort_grief_chaos_harbor_then_deposit_monkey_ride_can_surface_lift_about |  
+| bip_39_word_underscore_2 | sort_grief |  
+| bip_39_word_underscore_3 | sort_grief_chaos |  
+| bip_39_word_underscore_4 | sort_grief_chaos_harbor |  
+| bip_39_word_underscore_5 | sort_grief_chaos_harbor_then |  
+| bip_39_word_underscore_6 | sort_grief_chaos_harbor_then_deposit |  
+| bip_39_word_underscore_7 | sort_grief_chaos_harbor_then_deposit_monkey |  
+| bip_39_word_underscore_8 | sort_grief_chaos_harbor_then_deposit_monkey_ride |  
+| bip_39_word_underscore_9 | sort_grief_chaos_harbor_then_deposit_monkey_ride_can |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

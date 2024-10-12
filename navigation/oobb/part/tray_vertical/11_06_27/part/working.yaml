@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fashion
+bip_39_word_dash_10: fashion-neck-cabin-step-slow-icon-outside-bonus-quantum-army
+bip_39_word_dash_11: fashion-neck-cabin-step-slow-icon-outside-bonus-quantum-army-retire
+bip_39_word_dash_12: fashion-neck-cabin-step-slow-icon-outside-bonus-quantum-army-retire-antique
+bip_39_word_dash_2: fashion-neck
+bip_39_word_dash_3: fashion-neck-cabin
+bip_39_word_dash_4: fashion-neck-cabin-step
+bip_39_word_dash_5: fashion-neck-cabin-step-slow
+bip_39_word_dash_6: fashion-neck-cabin-step-slow-icon
+bip_39_word_dash_7: fashion-neck-cabin-step-slow-icon-outside
+bip_39_word_dash_8: fashion-neck-cabin-step-slow-icon-outside-bonus
+bip_39_word_dash_9: fashion-neck-cabin-step-slow-icon-outside-bonus-quantum
 bip_39_word_new_br_1: fashion
 bip_39_word_new_br_10: fashion<br>neck<br>cabin<br>step<br>slow<br>icon<br>outside<br>bonus<br>quantum<br>army
 bip_39_word_new_br_11: fashion<br>neck<br>cabin<br>step<br>slow<br>icon<br>outside<br>bonus<br>quantum<br>army<br>retire
@@ -193,6 +205,18 @@ bip_39_word_space_6: fashion neck cabin step slow icon
 bip_39_word_space_7: fashion neck cabin step slow icon outside
 bip_39_word_space_8: fashion neck cabin step slow icon outside bonus
 bip_39_word_space_9: fashion neck cabin step slow icon outside bonus quantum
+bip_39_word_underscore_1: fashion
+bip_39_word_underscore_10: fashion_neck_cabin_step_slow_icon_outside_bonus_quantum_army
+bip_39_word_underscore_11: fashion_neck_cabin_step_slow_icon_outside_bonus_quantum_army_retire
+bip_39_word_underscore_12: fashion_neck_cabin_step_slow_icon_outside_bonus_quantum_army_retire_antique
+bip_39_word_underscore_2: fashion_neck
+bip_39_word_underscore_3: fashion_neck_cabin
+bip_39_word_underscore_4: fashion_neck_cabin_step
+bip_39_word_underscore_5: fashion_neck_cabin_step_slow
+bip_39_word_underscore_6: fashion_neck_cabin_step_slow_icon
+bip_39_word_underscore_7: fashion_neck_cabin_step_slow_icon_outside
+bip_39_word_underscore_8: fashion_neck_cabin_step_slow_icon_outside_bonus
+bip_39_word_underscore_9: fashion_neck_cabin_step_slow_icon_outside_bonus_quantum
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

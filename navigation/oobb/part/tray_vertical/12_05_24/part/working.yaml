@@ -1,3 +1,15 @@
+bip_39_word_dash_1: water
+bip_39_word_dash_10: water-lady-turn-fortune-spike-depart-vehicle-lawsuit-swap-ozone
+bip_39_word_dash_11: water-lady-turn-fortune-spike-depart-vehicle-lawsuit-swap-ozone-install
+bip_39_word_dash_12: water-lady-turn-fortune-spike-depart-vehicle-lawsuit-swap-ozone-install-act
+bip_39_word_dash_2: water-lady
+bip_39_word_dash_3: water-lady-turn
+bip_39_word_dash_4: water-lady-turn-fortune
+bip_39_word_dash_5: water-lady-turn-fortune-spike
+bip_39_word_dash_6: water-lady-turn-fortune-spike-depart
+bip_39_word_dash_7: water-lady-turn-fortune-spike-depart-vehicle
+bip_39_word_dash_8: water-lady-turn-fortune-spike-depart-vehicle-lawsuit
+bip_39_word_dash_9: water-lady-turn-fortune-spike-depart-vehicle-lawsuit-swap
 bip_39_word_new_br_1: water
 bip_39_word_new_br_10: water<br>lady<br>turn<br>fortune<br>spike<br>depart<br>vehicle<br>lawsuit<br>swap<br>ozone
 bip_39_word_new_br_11: water<br>lady<br>turn<br>fortune<br>spike<br>depart<br>vehicle<br>lawsuit<br>swap<br>ozone<br>install
@@ -193,6 +205,18 @@ bip_39_word_space_6: water lady turn fortune spike depart
 bip_39_word_space_7: water lady turn fortune spike depart vehicle
 bip_39_word_space_8: water lady turn fortune spike depart vehicle lawsuit
 bip_39_word_space_9: water lady turn fortune spike depart vehicle lawsuit swap
+bip_39_word_underscore_1: water
+bip_39_word_underscore_10: water_lady_turn_fortune_spike_depart_vehicle_lawsuit_swap_ozone
+bip_39_word_underscore_11: water_lady_turn_fortune_spike_depart_vehicle_lawsuit_swap_ozone_install
+bip_39_word_underscore_12: water_lady_turn_fortune_spike_depart_vehicle_lawsuit_swap_ozone_install_act
+bip_39_word_underscore_2: water_lady
+bip_39_word_underscore_3: water_lady_turn
+bip_39_word_underscore_4: water_lady_turn_fortune
+bip_39_word_underscore_5: water_lady_turn_fortune_spike
+bip_39_word_underscore_6: water_lady_turn_fortune_spike_depart
+bip_39_word_underscore_7: water_lady_turn_fortune_spike_depart_vehicle
+bip_39_word_underscore_8: water_lady_turn_fortune_spike_depart_vehicle_lawsuit
+bip_39_word_underscore_9: water_lady_turn_fortune_spike_depart_vehicle_lawsuit_swap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

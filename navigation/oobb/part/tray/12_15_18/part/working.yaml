@@ -1,3 +1,15 @@
+bip_39_word_dash_1: disease
+bip_39_word_dash_10: disease-win-turn-banner-dry-program-spring-property-syrup-auction
+bip_39_word_dash_11: disease-win-turn-banner-dry-program-spring-property-syrup-auction-awful
+bip_39_word_dash_12: disease-win-turn-banner-dry-program-spring-property-syrup-auction-awful-ancient
+bip_39_word_dash_2: disease-win
+bip_39_word_dash_3: disease-win-turn
+bip_39_word_dash_4: disease-win-turn-banner
+bip_39_word_dash_5: disease-win-turn-banner-dry
+bip_39_word_dash_6: disease-win-turn-banner-dry-program
+bip_39_word_dash_7: disease-win-turn-banner-dry-program-spring
+bip_39_word_dash_8: disease-win-turn-banner-dry-program-spring-property
+bip_39_word_dash_9: disease-win-turn-banner-dry-program-spring-property-syrup
 bip_39_word_new_br_1: disease
 bip_39_word_new_br_10: disease<br>win<br>turn<br>banner<br>dry<br>program<br>spring<br>property<br>syrup<br>auction
 bip_39_word_new_br_11: disease<br>win<br>turn<br>banner<br>dry<br>program<br>spring<br>property<br>syrup<br>auction<br>awful
@@ -193,6 +205,18 @@ bip_39_word_space_6: disease win turn banner dry program
 bip_39_word_space_7: disease win turn banner dry program spring
 bip_39_word_space_8: disease win turn banner dry program spring property
 bip_39_word_space_9: disease win turn banner dry program spring property syrup
+bip_39_word_underscore_1: disease
+bip_39_word_underscore_10: disease_win_turn_banner_dry_program_spring_property_syrup_auction
+bip_39_word_underscore_11: disease_win_turn_banner_dry_program_spring_property_syrup_auction_awful
+bip_39_word_underscore_12: disease_win_turn_banner_dry_program_spring_property_syrup_auction_awful_ancient
+bip_39_word_underscore_2: disease_win
+bip_39_word_underscore_3: disease_win_turn
+bip_39_word_underscore_4: disease_win_turn_banner
+bip_39_word_underscore_5: disease_win_turn_banner_dry
+bip_39_word_underscore_6: disease_win_turn_banner_dry_program
+bip_39_word_underscore_7: disease_win_turn_banner_dry_program_spring
+bip_39_word_underscore_8: disease_win_turn_banner_dry_program_spring_property
+bip_39_word_underscore_9: disease_win_turn_banner_dry_program_spring_property_syrup
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

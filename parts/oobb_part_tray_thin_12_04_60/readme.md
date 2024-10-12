@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gloom |  
+| bip_39_word_dash_10 | gloom-erupt-boss-input-mansion-eternal-walk-siege-ready-project |  
+| bip_39_word_dash_11 | gloom-erupt-boss-input-mansion-eternal-walk-siege-ready-project-attract |  
+| bip_39_word_dash_12 | gloom-erupt-boss-input-mansion-eternal-walk-siege-ready-project-attract-armor |  
+| bip_39_word_dash_2 | gloom-erupt |  
+| bip_39_word_dash_3 | gloom-erupt-boss |  
+| bip_39_word_dash_4 | gloom-erupt-boss-input |  
+| bip_39_word_dash_5 | gloom-erupt-boss-input-mansion |  
+| bip_39_word_dash_6 | gloom-erupt-boss-input-mansion-eternal |  
+| bip_39_word_dash_7 | gloom-erupt-boss-input-mansion-eternal-walk |  
+| bip_39_word_dash_8 | gloom-erupt-boss-input-mansion-eternal-walk-siege |  
+| bip_39_word_dash_9 | gloom-erupt-boss-input-mansion-eternal-walk-siege-ready |  
 | bip_39_word_new_br_1 | gloom |  
 | bip_39_word_new_br_10 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege<br>ready<br>project |  
 | bip_39_word_new_br_11 | gloom<br>erupt<br>boss<br>input<br>mansion<br>eternal<br>walk<br>siege<br>ready<br>project<br>attract |  
@@ -147,6 +159,18 @@ ready |
 | bip_39_word_space_7 | gloom erupt boss input mansion eternal walk |  
 | bip_39_word_space_8 | gloom erupt boss input mansion eternal walk siege |  
 | bip_39_word_space_9 | gloom erupt boss input mansion eternal walk siege ready |  
+| bip_39_word_underscore_1 | gloom |  
+| bip_39_word_underscore_10 | gloom_erupt_boss_input_mansion_eternal_walk_siege_ready_project |  
+| bip_39_word_underscore_11 | gloom_erupt_boss_input_mansion_eternal_walk_siege_ready_project_attract |  
+| bip_39_word_underscore_12 | gloom_erupt_boss_input_mansion_eternal_walk_siege_ready_project_attract_armor |  
+| bip_39_word_underscore_2 | gloom_erupt |  
+| bip_39_word_underscore_3 | gloom_erupt_boss |  
+| bip_39_word_underscore_4 | gloom_erupt_boss_input |  
+| bip_39_word_underscore_5 | gloom_erupt_boss_input_mansion |  
+| bip_39_word_underscore_6 | gloom_erupt_boss_input_mansion_eternal |  
+| bip_39_word_underscore_7 | gloom_erupt_boss_input_mansion_eternal_walk |  
+| bip_39_word_underscore_8 | gloom_erupt_boss_input_mansion_eternal_walk_siege |  
+| bip_39_word_underscore_9 | gloom_erupt_boss_input_mansion_eternal_walk_siege_ready |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

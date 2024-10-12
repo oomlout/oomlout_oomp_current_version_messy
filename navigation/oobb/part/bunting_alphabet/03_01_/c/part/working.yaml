@@ -1,3 +1,15 @@
+bip_39_word_dash_1: anger
+bip_39_word_dash_10: anger-camp-track-lion-scout-tiny-core-give-install-script
+bip_39_word_dash_11: anger-camp-track-lion-scout-tiny-core-give-install-script-carry
+bip_39_word_dash_12: anger-camp-track-lion-scout-tiny-core-give-install-script-carry-action
+bip_39_word_dash_2: anger-camp
+bip_39_word_dash_3: anger-camp-track
+bip_39_word_dash_4: anger-camp-track-lion
+bip_39_word_dash_5: anger-camp-track-lion-scout
+bip_39_word_dash_6: anger-camp-track-lion-scout-tiny
+bip_39_word_dash_7: anger-camp-track-lion-scout-tiny-core
+bip_39_word_dash_8: anger-camp-track-lion-scout-tiny-core-give
+bip_39_word_dash_9: anger-camp-track-lion-scout-tiny-core-give-install
 bip_39_word_new_br_1: anger
 bip_39_word_new_br_10: anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give<br>install<br>script
 bip_39_word_new_br_11: anger<br>camp<br>track<br>lion<br>scout<br>tiny<br>core<br>give<br>install<br>script<br>carry
@@ -192,6 +204,18 @@ bip_39_word_space_6: anger camp track lion scout tiny
 bip_39_word_space_7: anger camp track lion scout tiny core
 bip_39_word_space_8: anger camp track lion scout tiny core give
 bip_39_word_space_9: anger camp track lion scout tiny core give install
+bip_39_word_underscore_1: anger
+bip_39_word_underscore_10: anger_camp_track_lion_scout_tiny_core_give_install_script
+bip_39_word_underscore_11: anger_camp_track_lion_scout_tiny_core_give_install_script_carry
+bip_39_word_underscore_12: anger_camp_track_lion_scout_tiny_core_give_install_script_carry_action
+bip_39_word_underscore_2: anger_camp
+bip_39_word_underscore_3: anger_camp_track
+bip_39_word_underscore_4: anger_camp_track_lion
+bip_39_word_underscore_5: anger_camp_track_lion_scout
+bip_39_word_underscore_6: anger_camp_track_lion_scout_tiny
+bip_39_word_underscore_7: anger_camp_track_lion_scout_tiny_core
+bip_39_word_underscore_8: anger_camp_track_lion_scout_tiny_core_give
+bip_39_word_underscore_9: anger_camp_track_lion_scout_tiny_core_give_install
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

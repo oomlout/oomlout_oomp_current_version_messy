@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | amazing |  
+| bip_39_word_dash_10 | amazing-allow-web-nasty-bless-love-art-sick-rotate-dolphin |  
+| bip_39_word_dash_11 | amazing-allow-web-nasty-bless-love-art-sick-rotate-dolphin-marriage |  
+| bip_39_word_dash_12 | amazing-allow-web-nasty-bless-love-art-sick-rotate-dolphin-marriage-attract |  
+| bip_39_word_dash_2 | amazing-allow |  
+| bip_39_word_dash_3 | amazing-allow-web |  
+| bip_39_word_dash_4 | amazing-allow-web-nasty |  
+| bip_39_word_dash_5 | amazing-allow-web-nasty-bless |  
+| bip_39_word_dash_6 | amazing-allow-web-nasty-bless-love |  
+| bip_39_word_dash_7 | amazing-allow-web-nasty-bless-love-art |  
+| bip_39_word_dash_8 | amazing-allow-web-nasty-bless-love-art-sick |  
+| bip_39_word_dash_9 | amazing-allow-web-nasty-bless-love-art-sick-rotate |  
 | bip_39_word_new_br_1 | amazing |  
 | bip_39_word_new_br_10 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin |  
 | bip_39_word_new_br_11 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin<br>marriage |  
@@ -147,6 +159,18 @@ rotate |
 | bip_39_word_space_7 | amazing allow web nasty bless love art |  
 | bip_39_word_space_8 | amazing allow web nasty bless love art sick |  
 | bip_39_word_space_9 | amazing allow web nasty bless love art sick rotate |  
+| bip_39_word_underscore_1 | amazing |  
+| bip_39_word_underscore_10 | amazing_allow_web_nasty_bless_love_art_sick_rotate_dolphin |  
+| bip_39_word_underscore_11 | amazing_allow_web_nasty_bless_love_art_sick_rotate_dolphin_marriage |  
+| bip_39_word_underscore_12 | amazing_allow_web_nasty_bless_love_art_sick_rotate_dolphin_marriage_attract |  
+| bip_39_word_underscore_2 | amazing_allow |  
+| bip_39_word_underscore_3 | amazing_allow_web |  
+| bip_39_word_underscore_4 | amazing_allow_web_nasty |  
+| bip_39_word_underscore_5 | amazing_allow_web_nasty_bless |  
+| bip_39_word_underscore_6 | amazing_allow_web_nasty_bless_love |  
+| bip_39_word_underscore_7 | amazing_allow_web_nasty_bless_love_art |  
+| bip_39_word_underscore_8 | amazing_allow_web_nasty_bless_love_art_sick |  
+| bip_39_word_underscore_9 | amazing_allow_web_nasty_bless_love_art_sick_rotate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

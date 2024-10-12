@@ -1,3 +1,15 @@
+bip_39_word_dash_1: street
+bip_39_word_dash_10: street-outer-casino-canoe-text-cash-upon-grit-differ-same
+bip_39_word_dash_11: street-outer-casino-canoe-text-cash-upon-grit-differ-same-tape
+bip_39_word_dash_12: street-outer-casino-canoe-text-cash-upon-grit-differ-same-tape-arm
+bip_39_word_dash_2: street-outer
+bip_39_word_dash_3: street-outer-casino
+bip_39_word_dash_4: street-outer-casino-canoe
+bip_39_word_dash_5: street-outer-casino-canoe-text
+bip_39_word_dash_6: street-outer-casino-canoe-text-cash
+bip_39_word_dash_7: street-outer-casino-canoe-text-cash-upon
+bip_39_word_dash_8: street-outer-casino-canoe-text-cash-upon-grit
+bip_39_word_dash_9: street-outer-casino-canoe-text-cash-upon-grit-differ
 bip_39_word_new_br_1: street
 bip_39_word_new_br_10: street<br>outer<br>casino<br>canoe<br>text<br>cash<br>upon<br>grit<br>differ<br>same
 bip_39_word_new_br_11: street<br>outer<br>casino<br>canoe<br>text<br>cash<br>upon<br>grit<br>differ<br>same<br>tape
@@ -192,6 +204,18 @@ bip_39_word_space_6: street outer casino canoe text cash
 bip_39_word_space_7: street outer casino canoe text cash upon
 bip_39_word_space_8: street outer casino canoe text cash upon grit
 bip_39_word_space_9: street outer casino canoe text cash upon grit differ
+bip_39_word_underscore_1: street
+bip_39_word_underscore_10: street_outer_casino_canoe_text_cash_upon_grit_differ_same
+bip_39_word_underscore_11: street_outer_casino_canoe_text_cash_upon_grit_differ_same_tape
+bip_39_word_underscore_12: street_outer_casino_canoe_text_cash_upon_grit_differ_same_tape_arm
+bip_39_word_underscore_2: street_outer
+bip_39_word_underscore_3: street_outer_casino
+bip_39_word_underscore_4: street_outer_casino_canoe
+bip_39_word_underscore_5: street_outer_casino_canoe_text
+bip_39_word_underscore_6: street_outer_casino_canoe_text_cash
+bip_39_word_underscore_7: street_outer_casino_canoe_text_cash_upon
+bip_39_word_underscore_8: street_outer_casino_canoe_text_cash_upon_grit
+bip_39_word_underscore_9: street_outer_casino_canoe_text_cash_upon_grit_differ
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

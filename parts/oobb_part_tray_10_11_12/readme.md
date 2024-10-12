@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blush |  
+| bip_39_word_dash_10 | blush-season-never-swallow-voice-verb-speak-lens-submit-genuine |  
+| bip_39_word_dash_11 | blush-season-never-swallow-voice-verb-speak-lens-submit-genuine-problem |  
+| bip_39_word_dash_12 | blush-season-never-swallow-voice-verb-speak-lens-submit-genuine-problem-aisle |  
+| bip_39_word_dash_2 | blush-season |  
+| bip_39_word_dash_3 | blush-season-never |  
+| bip_39_word_dash_4 | blush-season-never-swallow |  
+| bip_39_word_dash_5 | blush-season-never-swallow-voice |  
+| bip_39_word_dash_6 | blush-season-never-swallow-voice-verb |  
+| bip_39_word_dash_7 | blush-season-never-swallow-voice-verb-speak |  
+| bip_39_word_dash_8 | blush-season-never-swallow-voice-verb-speak-lens |  
+| bip_39_word_dash_9 | blush-season-never-swallow-voice-verb-speak-lens-submit |  
 | bip_39_word_new_br_1 | blush |  
 | bip_39_word_new_br_10 | blush<br>season<br>never<br>swallow<br>voice<br>verb<br>speak<br>lens<br>submit<br>genuine |  
 | bip_39_word_new_br_11 | blush<br>season<br>never<br>swallow<br>voice<br>verb<br>speak<br>lens<br>submit<br>genuine<br>problem |  
@@ -147,6 +159,18 @@ submit |
 | bip_39_word_space_7 | blush season never swallow voice verb speak |  
 | bip_39_word_space_8 | blush season never swallow voice verb speak lens |  
 | bip_39_word_space_9 | blush season never swallow voice verb speak lens submit |  
+| bip_39_word_underscore_1 | blush |  
+| bip_39_word_underscore_10 | blush_season_never_swallow_voice_verb_speak_lens_submit_genuine |  
+| bip_39_word_underscore_11 | blush_season_never_swallow_voice_verb_speak_lens_submit_genuine_problem |  
+| bip_39_word_underscore_12 | blush_season_never_swallow_voice_verb_speak_lens_submit_genuine_problem_aisle |  
+| bip_39_word_underscore_2 | blush_season |  
+| bip_39_word_underscore_3 | blush_season_never |  
+| bip_39_word_underscore_4 | blush_season_never_swallow |  
+| bip_39_word_underscore_5 | blush_season_never_swallow_voice |  
+| bip_39_word_underscore_6 | blush_season_never_swallow_voice_verb |  
+| bip_39_word_underscore_7 | blush_season_never_swallow_voice_verb_speak |  
+| bip_39_word_underscore_8 | blush_season_never_swallow_voice_verb_speak_lens |  
+| bip_39_word_underscore_9 | blush_season_never_swallow_voice_verb_speak_lens_submit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

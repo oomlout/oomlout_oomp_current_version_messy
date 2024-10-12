@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arch |  
+| bip_39_word_dash_10 | arch-wear-theory-primary-between-speak-august-october-bench-universe |  
+| bip_39_word_dash_11 | arch-wear-theory-primary-between-speak-august-october-bench-universe-letter |  
+| bip_39_word_dash_12 | arch-wear-theory-primary-between-speak-august-october-bench-universe-letter-aisle |  
+| bip_39_word_dash_2 | arch-wear |  
+| bip_39_word_dash_3 | arch-wear-theory |  
+| bip_39_word_dash_4 | arch-wear-theory-primary |  
+| bip_39_word_dash_5 | arch-wear-theory-primary-between |  
+| bip_39_word_dash_6 | arch-wear-theory-primary-between-speak |  
+| bip_39_word_dash_7 | arch-wear-theory-primary-between-speak-august |  
+| bip_39_word_dash_8 | arch-wear-theory-primary-between-speak-august-october |  
+| bip_39_word_dash_9 | arch-wear-theory-primary-between-speak-august-october-bench |  
 | bip_39_word_new_br_1 | arch |  
 | bip_39_word_new_br_10 | arch<br>wear<br>theory<br>primary<br>between<br>speak<br>august<br>october<br>bench<br>universe |  
 | bip_39_word_new_br_11 | arch<br>wear<br>theory<br>primary<br>between<br>speak<br>august<br>october<br>bench<br>universe<br>letter |  
@@ -147,6 +159,18 @@ bench |
 | bip_39_word_space_7 | arch wear theory primary between speak august |  
 | bip_39_word_space_8 | arch wear theory primary between speak august october |  
 | bip_39_word_space_9 | arch wear theory primary between speak august october bench |  
+| bip_39_word_underscore_1 | arch |  
+| bip_39_word_underscore_10 | arch_wear_theory_primary_between_speak_august_october_bench_universe |  
+| bip_39_word_underscore_11 | arch_wear_theory_primary_between_speak_august_october_bench_universe_letter |  
+| bip_39_word_underscore_12 | arch_wear_theory_primary_between_speak_august_october_bench_universe_letter_aisle |  
+| bip_39_word_underscore_2 | arch_wear |  
+| bip_39_word_underscore_3 | arch_wear_theory |  
+| bip_39_word_underscore_4 | arch_wear_theory_primary |  
+| bip_39_word_underscore_5 | arch_wear_theory_primary_between |  
+| bip_39_word_underscore_6 | arch_wear_theory_primary_between_speak |  
+| bip_39_word_underscore_7 | arch_wear_theory_primary_between_speak_august |  
+| bip_39_word_underscore_8 | arch_wear_theory_primary_between_speak_august_october |  
+| bip_39_word_underscore_9 | arch_wear_theory_primary_between_speak_august_october_bench |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

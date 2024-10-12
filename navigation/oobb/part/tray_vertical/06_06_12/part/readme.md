@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | envelope |  
+| bip_39_word_dash_10 | envelope-rebuild-promote-time-worry-what-trick-genuine-grit-endless |  
+| bip_39_word_dash_11 | envelope-rebuild-promote-time-worry-what-trick-genuine-grit-endless-near |  
+| bip_39_word_dash_12 | envelope-rebuild-promote-time-worry-what-trick-genuine-grit-endless-near-avocado |  
+| bip_39_word_dash_2 | envelope-rebuild |  
+| bip_39_word_dash_3 | envelope-rebuild-promote |  
+| bip_39_word_dash_4 | envelope-rebuild-promote-time |  
+| bip_39_word_dash_5 | envelope-rebuild-promote-time-worry |  
+| bip_39_word_dash_6 | envelope-rebuild-promote-time-worry-what |  
+| bip_39_word_dash_7 | envelope-rebuild-promote-time-worry-what-trick |  
+| bip_39_word_dash_8 | envelope-rebuild-promote-time-worry-what-trick-genuine |  
+| bip_39_word_dash_9 | envelope-rebuild-promote-time-worry-what-trick-genuine-grit |  
 | bip_39_word_new_br_1 | envelope |  
 | bip_39_word_new_br_10 | envelope<br>rebuild<br>promote<br>time<br>worry<br>what<br>trick<br>genuine<br>grit<br>endless |  
 | bip_39_word_new_br_11 | envelope<br>rebuild<br>promote<br>time<br>worry<br>what<br>trick<br>genuine<br>grit<br>endless<br>near |  
@@ -147,6 +159,18 @@ grit |
 | bip_39_word_space_7 | envelope rebuild promote time worry what trick |  
 | bip_39_word_space_8 | envelope rebuild promote time worry what trick genuine |  
 | bip_39_word_space_9 | envelope rebuild promote time worry what trick genuine grit |  
+| bip_39_word_underscore_1 | envelope |  
+| bip_39_word_underscore_10 | envelope_rebuild_promote_time_worry_what_trick_genuine_grit_endless |  
+| bip_39_word_underscore_11 | envelope_rebuild_promote_time_worry_what_trick_genuine_grit_endless_near |  
+| bip_39_word_underscore_12 | envelope_rebuild_promote_time_worry_what_trick_genuine_grit_endless_near_avocado |  
+| bip_39_word_underscore_2 | envelope_rebuild |  
+| bip_39_word_underscore_3 | envelope_rebuild_promote |  
+| bip_39_word_underscore_4 | envelope_rebuild_promote_time |  
+| bip_39_word_underscore_5 | envelope_rebuild_promote_time_worry |  
+| bip_39_word_underscore_6 | envelope_rebuild_promote_time_worry_what |  
+| bip_39_word_underscore_7 | envelope_rebuild_promote_time_worry_what_trick |  
+| bip_39_word_underscore_8 | envelope_rebuild_promote_time_worry_what_trick_genuine |  
+| bip_39_word_underscore_9 | envelope_rebuild_promote_time_worry_what_trick_genuine_grit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

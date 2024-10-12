@@ -1,3 +1,15 @@
+bip_39_word_dash_1: midnight
+bip_39_word_dash_10: midnight-glance-denial-brave-brain-waste-mix-account-energy-defy
+bip_39_word_dash_11: midnight-glance-denial-brave-brain-waste-mix-account-energy-defy-indicate
+bip_39_word_dash_12: midnight-glance-denial-brave-brain-waste-mix-account-energy-defy-indicate-aunt
+bip_39_word_dash_2: midnight-glance
+bip_39_word_dash_3: midnight-glance-denial
+bip_39_word_dash_4: midnight-glance-denial-brave
+bip_39_word_dash_5: midnight-glance-denial-brave-brain
+bip_39_word_dash_6: midnight-glance-denial-brave-brain-waste
+bip_39_word_dash_7: midnight-glance-denial-brave-brain-waste-mix
+bip_39_word_dash_8: midnight-glance-denial-brave-brain-waste-mix-account
+bip_39_word_dash_9: midnight-glance-denial-brave-brain-waste-mix-account-energy
 bip_39_word_new_br_1: midnight
 bip_39_word_new_br_10: midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy
 bip_39_word_new_br_11: midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy<br>indicate
@@ -194,6 +206,18 @@ bip_39_word_space_6: midnight glance denial brave brain waste
 bip_39_word_space_7: midnight glance denial brave brain waste mix
 bip_39_word_space_8: midnight glance denial brave brain waste mix account
 bip_39_word_space_9: midnight glance denial brave brain waste mix account energy
+bip_39_word_underscore_1: midnight
+bip_39_word_underscore_10: midnight_glance_denial_brave_brain_waste_mix_account_energy_defy
+bip_39_word_underscore_11: midnight_glance_denial_brave_brain_waste_mix_account_energy_defy_indicate
+bip_39_word_underscore_12: midnight_glance_denial_brave_brain_waste_mix_account_energy_defy_indicate_aunt
+bip_39_word_underscore_2: midnight_glance
+bip_39_word_underscore_3: midnight_glance_denial
+bip_39_word_underscore_4: midnight_glance_denial_brave
+bip_39_word_underscore_5: midnight_glance_denial_brave_brain
+bip_39_word_underscore_6: midnight_glance_denial_brave_brain_waste
+bip_39_word_underscore_7: midnight_glance_denial_brave_brain_waste_mix
+bip_39_word_underscore_8: midnight_glance_denial_brave_brain_waste_mix_account
+bip_39_word_underscore_9: midnight_glance_denial_brave_brain_waste_mix_account_energy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

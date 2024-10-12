@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lemon |  
+| bip_39_word_dash_10 | lemon-stool-general-virus-enjoy-sight-scrap-bag-naive-learn |  
+| bip_39_word_dash_11 | lemon-stool-general-virus-enjoy-sight-scrap-bag-naive-learn-giraffe |  
+| bip_39_word_dash_12 | lemon-stool-general-virus-enjoy-sight-scrap-bag-naive-learn-giraffe-adult |  
+| bip_39_word_dash_2 | lemon-stool |  
+| bip_39_word_dash_3 | lemon-stool-general |  
+| bip_39_word_dash_4 | lemon-stool-general-virus |  
+| bip_39_word_dash_5 | lemon-stool-general-virus-enjoy |  
+| bip_39_word_dash_6 | lemon-stool-general-virus-enjoy-sight |  
+| bip_39_word_dash_7 | lemon-stool-general-virus-enjoy-sight-scrap |  
+| bip_39_word_dash_8 | lemon-stool-general-virus-enjoy-sight-scrap-bag |  
+| bip_39_word_dash_9 | lemon-stool-general-virus-enjoy-sight-scrap-bag-naive |  
 | bip_39_word_new_br_1 | lemon |  
 | bip_39_word_new_br_10 | lemon<br>stool<br>general<br>virus<br>enjoy<br>sight<br>scrap<br>bag<br>naive<br>learn |  
 | bip_39_word_new_br_11 | lemon<br>stool<br>general<br>virus<br>enjoy<br>sight<br>scrap<br>bag<br>naive<br>learn<br>giraffe |  
@@ -147,6 +159,18 @@ naive |
 | bip_39_word_space_7 | lemon stool general virus enjoy sight scrap |  
 | bip_39_word_space_8 | lemon stool general virus enjoy sight scrap bag |  
 | bip_39_word_space_9 | lemon stool general virus enjoy sight scrap bag naive |  
+| bip_39_word_underscore_1 | lemon |  
+| bip_39_word_underscore_10 | lemon_stool_general_virus_enjoy_sight_scrap_bag_naive_learn |  
+| bip_39_word_underscore_11 | lemon_stool_general_virus_enjoy_sight_scrap_bag_naive_learn_giraffe |  
+| bip_39_word_underscore_12 | lemon_stool_general_virus_enjoy_sight_scrap_bag_naive_learn_giraffe_adult |  
+| bip_39_word_underscore_2 | lemon_stool |  
+| bip_39_word_underscore_3 | lemon_stool_general |  
+| bip_39_word_underscore_4 | lemon_stool_general_virus |  
+| bip_39_word_underscore_5 | lemon_stool_general_virus_enjoy |  
+| bip_39_word_underscore_6 | lemon_stool_general_virus_enjoy_sight |  
+| bip_39_word_underscore_7 | lemon_stool_general_virus_enjoy_sight_scrap |  
+| bip_39_word_underscore_8 | lemon_stool_general_virus_enjoy_sight_scrap_bag |  
+| bip_39_word_underscore_9 | lemon_stool_general_virus_enjoy_sight_scrap_bag_naive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

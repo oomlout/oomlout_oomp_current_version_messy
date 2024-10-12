@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chimney |  
+| bip_39_word_dash_10 | chimney-ghost-foam-divert-direct-finger-burger-immense-awesome-relief |  
+| bip_39_word_dash_11 | chimney-ghost-foam-divert-direct-finger-burger-immense-awesome-relief-alpha |  
+| bip_39_word_dash_12 | chimney-ghost-foam-divert-direct-finger-burger-immense-awesome-relief-alpha-auto |  
+| bip_39_word_dash_2 | chimney-ghost |  
+| bip_39_word_dash_3 | chimney-ghost-foam |  
+| bip_39_word_dash_4 | chimney-ghost-foam-divert |  
+| bip_39_word_dash_5 | chimney-ghost-foam-divert-direct |  
+| bip_39_word_dash_6 | chimney-ghost-foam-divert-direct-finger |  
+| bip_39_word_dash_7 | chimney-ghost-foam-divert-direct-finger-burger |  
+| bip_39_word_dash_8 | chimney-ghost-foam-divert-direct-finger-burger-immense |  
+| bip_39_word_dash_9 | chimney-ghost-foam-divert-direct-finger-burger-immense-awesome |  
 | bip_39_word_new_br_1 | chimney |  
 | bip_39_word_new_br_10 | chimney<br>ghost<br>foam<br>divert<br>direct<br>finger<br>burger<br>immense<br>awesome<br>relief |  
 | bip_39_word_new_br_11 | chimney<br>ghost<br>foam<br>divert<br>direct<br>finger<br>burger<br>immense<br>awesome<br>relief<br>alpha |  
@@ -147,6 +159,18 @@ awesome |
 | bip_39_word_space_7 | chimney ghost foam divert direct finger burger |  
 | bip_39_word_space_8 | chimney ghost foam divert direct finger burger immense |  
 | bip_39_word_space_9 | chimney ghost foam divert direct finger burger immense awesome |  
+| bip_39_word_underscore_1 | chimney |  
+| bip_39_word_underscore_10 | chimney_ghost_foam_divert_direct_finger_burger_immense_awesome_relief |  
+| bip_39_word_underscore_11 | chimney_ghost_foam_divert_direct_finger_burger_immense_awesome_relief_alpha |  
+| bip_39_word_underscore_12 | chimney_ghost_foam_divert_direct_finger_burger_immense_awesome_relief_alpha_auto |  
+| bip_39_word_underscore_2 | chimney_ghost |  
+| bip_39_word_underscore_3 | chimney_ghost_foam |  
+| bip_39_word_underscore_4 | chimney_ghost_foam_divert |  
+| bip_39_word_underscore_5 | chimney_ghost_foam_divert_direct |  
+| bip_39_word_underscore_6 | chimney_ghost_foam_divert_direct_finger |  
+| bip_39_word_underscore_7 | chimney_ghost_foam_divert_direct_finger_burger |  
+| bip_39_word_underscore_8 | chimney_ghost_foam_divert_direct_finger_burger_immense |  
+| bip_39_word_underscore_9 | chimney_ghost_foam_divert_direct_finger_burger_immense_awesome |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

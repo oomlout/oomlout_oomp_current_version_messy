@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | already |  
+| bip_39_word_dash_10 | already-drift-left-pencil-federal-perfect-crew-olympic-excuse-verify |  
+| bip_39_word_dash_11 | already-drift-left-pencil-federal-perfect-crew-olympic-excuse-verify-mail |  
+| bip_39_word_dash_12 | already-drift-left-pencil-federal-perfect-crew-olympic-excuse-verify-mail-actor |  
+| bip_39_word_dash_2 | already-drift |  
+| bip_39_word_dash_3 | already-drift-left |  
+| bip_39_word_dash_4 | already-drift-left-pencil |  
+| bip_39_word_dash_5 | already-drift-left-pencil-federal |  
+| bip_39_word_dash_6 | already-drift-left-pencil-federal-perfect |  
+| bip_39_word_dash_7 | already-drift-left-pencil-federal-perfect-crew |  
+| bip_39_word_dash_8 | already-drift-left-pencil-federal-perfect-crew-olympic |  
+| bip_39_word_dash_9 | already-drift-left-pencil-federal-perfect-crew-olympic-excuse |  
 | bip_39_word_new_br_1 | already |  
 | bip_39_word_new_br_10 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic<br>excuse<br>verify |  
 | bip_39_word_new_br_11 | already<br>drift<br>left<br>pencil<br>federal<br>perfect<br>crew<br>olympic<br>excuse<br>verify<br>mail |  
@@ -147,6 +159,18 @@ excuse |
 | bip_39_word_space_7 | already drift left pencil federal perfect crew |  
 | bip_39_word_space_8 | already drift left pencil federal perfect crew olympic |  
 | bip_39_word_space_9 | already drift left pencil federal perfect crew olympic excuse |  
+| bip_39_word_underscore_1 | already |  
+| bip_39_word_underscore_10 | already_drift_left_pencil_federal_perfect_crew_olympic_excuse_verify |  
+| bip_39_word_underscore_11 | already_drift_left_pencil_federal_perfect_crew_olympic_excuse_verify_mail |  
+| bip_39_word_underscore_12 | already_drift_left_pencil_federal_perfect_crew_olympic_excuse_verify_mail_actor |  
+| bip_39_word_underscore_2 | already_drift |  
+| bip_39_word_underscore_3 | already_drift_left |  
+| bip_39_word_underscore_4 | already_drift_left_pencil |  
+| bip_39_word_underscore_5 | already_drift_left_pencil_federal |  
+| bip_39_word_underscore_6 | already_drift_left_pencil_federal_perfect |  
+| bip_39_word_underscore_7 | already_drift_left_pencil_federal_perfect_crew |  
+| bip_39_word_underscore_8 | already_drift_left_pencil_federal_perfect_crew_olympic |  
+| bip_39_word_underscore_9 | already_drift_left_pencil_federal_perfect_crew_olympic_excuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

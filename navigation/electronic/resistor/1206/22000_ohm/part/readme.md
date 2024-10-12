@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | planet |  
+| bip_39_word_dash_10 | planet-capable-double-vocal-way-special-pelican-manage-lady-check |  
+| bip_39_word_dash_11 | planet-capable-double-vocal-way-special-pelican-manage-lady-check-razor |  
+| bip_39_word_dash_12 | planet-capable-double-vocal-way-special-pelican-manage-lady-check-razor-aim |  
+| bip_39_word_dash_2 | planet-capable |  
+| bip_39_word_dash_3 | planet-capable-double |  
+| bip_39_word_dash_4 | planet-capable-double-vocal |  
+| bip_39_word_dash_5 | planet-capable-double-vocal-way |  
+| bip_39_word_dash_6 | planet-capable-double-vocal-way-special |  
+| bip_39_word_dash_7 | planet-capable-double-vocal-way-special-pelican |  
+| bip_39_word_dash_8 | planet-capable-double-vocal-way-special-pelican-manage |  
+| bip_39_word_dash_9 | planet-capable-double-vocal-way-special-pelican-manage-lady |  
 | bip_39_word_new_br_1 | planet |  
 | bip_39_word_new_br_10 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check |  
 | bip_39_word_new_br_11 | planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check<br>razor |  
@@ -147,6 +159,18 @@ lady |
 | bip_39_word_space_7 | planet capable double vocal way special pelican |  
 | bip_39_word_space_8 | planet capable double vocal way special pelican manage |  
 | bip_39_word_space_9 | planet capable double vocal way special pelican manage lady |  
+| bip_39_word_underscore_1 | planet |  
+| bip_39_word_underscore_10 | planet_capable_double_vocal_way_special_pelican_manage_lady_check |  
+| bip_39_word_underscore_11 | planet_capable_double_vocal_way_special_pelican_manage_lady_check_razor |  
+| bip_39_word_underscore_12 | planet_capable_double_vocal_way_special_pelican_manage_lady_check_razor_aim |  
+| bip_39_word_underscore_2 | planet_capable |  
+| bip_39_word_underscore_3 | planet_capable_double |  
+| bip_39_word_underscore_4 | planet_capable_double_vocal |  
+| bip_39_word_underscore_5 | planet_capable_double_vocal_way |  
+| bip_39_word_underscore_6 | planet_capable_double_vocal_way_special |  
+| bip_39_word_underscore_7 | planet_capable_double_vocal_way_special_pelican |  
+| bip_39_word_underscore_8 | planet_capable_double_vocal_way_special_pelican_manage |  
+| bip_39_word_underscore_9 | planet_capable_double_vocal_way_special_pelican_manage_lady |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

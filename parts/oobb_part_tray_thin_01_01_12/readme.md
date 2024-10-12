@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elite |  
+| bip_39_word_dash_10 | elite-toe-client-slush-mask-meat-father-song-ahead-antique |  
+| bip_39_word_dash_11 | elite-toe-client-slush-mask-meat-father-song-ahead-antique-just |  
+| bip_39_word_dash_12 | elite-toe-client-slush-mask-meat-father-song-ahead-antique-just-atom |  
+| bip_39_word_dash_2 | elite-toe |  
+| bip_39_word_dash_3 | elite-toe-client |  
+| bip_39_word_dash_4 | elite-toe-client-slush |  
+| bip_39_word_dash_5 | elite-toe-client-slush-mask |  
+| bip_39_word_dash_6 | elite-toe-client-slush-mask-meat |  
+| bip_39_word_dash_7 | elite-toe-client-slush-mask-meat-father |  
+| bip_39_word_dash_8 | elite-toe-client-slush-mask-meat-father-song |  
+| bip_39_word_dash_9 | elite-toe-client-slush-mask-meat-father-song-ahead |  
 | bip_39_word_new_br_1 | elite |  
 | bip_39_word_new_br_10 | elite<br>toe<br>client<br>slush<br>mask<br>meat<br>father<br>song<br>ahead<br>antique |  
 | bip_39_word_new_br_11 | elite<br>toe<br>client<br>slush<br>mask<br>meat<br>father<br>song<br>ahead<br>antique<br>just |  
@@ -147,6 +159,18 @@ ahead |
 | bip_39_word_space_7 | elite toe client slush mask meat father |  
 | bip_39_word_space_8 | elite toe client slush mask meat father song |  
 | bip_39_word_space_9 | elite toe client slush mask meat father song ahead |  
+| bip_39_word_underscore_1 | elite |  
+| bip_39_word_underscore_10 | elite_toe_client_slush_mask_meat_father_song_ahead_antique |  
+| bip_39_word_underscore_11 | elite_toe_client_slush_mask_meat_father_song_ahead_antique_just |  
+| bip_39_word_underscore_12 | elite_toe_client_slush_mask_meat_father_song_ahead_antique_just_atom |  
+| bip_39_word_underscore_2 | elite_toe |  
+| bip_39_word_underscore_3 | elite_toe_client |  
+| bip_39_word_underscore_4 | elite_toe_client_slush |  
+| bip_39_word_underscore_5 | elite_toe_client_slush_mask |  
+| bip_39_word_underscore_6 | elite_toe_client_slush_mask_meat |  
+| bip_39_word_underscore_7 | elite_toe_client_slush_mask_meat_father |  
+| bip_39_word_underscore_8 | elite_toe_client_slush_mask_meat_father_song |  
+| bip_39_word_underscore_9 | elite_toe_client_slush_mask_meat_father_song_ahead |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lock |  
+| bip_39_word_dash_10 | lock-push-frame-cave-angle-edge-novel-must-address-path |  
+| bip_39_word_dash_11 | lock-push-frame-cave-angle-edge-novel-must-address-path-bubble |  
+| bip_39_word_dash_12 | lock-push-frame-cave-angle-edge-novel-must-address-path-bubble-artefact |  
+| bip_39_word_dash_2 | lock-push |  
+| bip_39_word_dash_3 | lock-push-frame |  
+| bip_39_word_dash_4 | lock-push-frame-cave |  
+| bip_39_word_dash_5 | lock-push-frame-cave-angle |  
+| bip_39_word_dash_6 | lock-push-frame-cave-angle-edge |  
+| bip_39_word_dash_7 | lock-push-frame-cave-angle-edge-novel |  
+| bip_39_word_dash_8 | lock-push-frame-cave-angle-edge-novel-must |  
+| bip_39_word_dash_9 | lock-push-frame-cave-angle-edge-novel-must-address |  
 | bip_39_word_new_br_1 | lock |  
 | bip_39_word_new_br_10 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must<br>address<br>path |  
 | bip_39_word_new_br_11 | lock<br>push<br>frame<br>cave<br>angle<br>edge<br>novel<br>must<br>address<br>path<br>bubble |  
@@ -147,6 +159,18 @@ address |
 | bip_39_word_space_7 | lock push frame cave angle edge novel |  
 | bip_39_word_space_8 | lock push frame cave angle edge novel must |  
 | bip_39_word_space_9 | lock push frame cave angle edge novel must address |  
+| bip_39_word_underscore_1 | lock |  
+| bip_39_word_underscore_10 | lock_push_frame_cave_angle_edge_novel_must_address_path |  
+| bip_39_word_underscore_11 | lock_push_frame_cave_angle_edge_novel_must_address_path_bubble |  
+| bip_39_word_underscore_12 | lock_push_frame_cave_angle_edge_novel_must_address_path_bubble_artefact |  
+| bip_39_word_underscore_2 | lock_push |  
+| bip_39_word_underscore_3 | lock_push_frame |  
+| bip_39_word_underscore_4 | lock_push_frame_cave |  
+| bip_39_word_underscore_5 | lock_push_frame_cave_angle |  
+| bip_39_word_underscore_6 | lock_push_frame_cave_angle_edge |  
+| bip_39_word_underscore_7 | lock_push_frame_cave_angle_edge_novel |  
+| bip_39_word_underscore_8 | lock_push_frame_cave_angle_edge_novel_must |  
+| bip_39_word_underscore_9 | lock_push_frame_cave_angle_edge_novel_must_address |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

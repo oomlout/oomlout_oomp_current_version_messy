@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stool |  
+| bip_39_word_dash_10 | stool-shy-outside-goat-permit-glance-labor-elder-fade-bus |  
+| bip_39_word_dash_11 | stool-shy-outside-goat-permit-glance-labor-elder-fade-bus-evolve |  
+| bip_39_word_dash_12 | stool-shy-outside-goat-permit-glance-labor-elder-fade-bus-evolve-annual |  
+| bip_39_word_dash_2 | stool-shy |  
+| bip_39_word_dash_3 | stool-shy-outside |  
+| bip_39_word_dash_4 | stool-shy-outside-goat |  
+| bip_39_word_dash_5 | stool-shy-outside-goat-permit |  
+| bip_39_word_dash_6 | stool-shy-outside-goat-permit-glance |  
+| bip_39_word_dash_7 | stool-shy-outside-goat-permit-glance-labor |  
+| bip_39_word_dash_8 | stool-shy-outside-goat-permit-glance-labor-elder |  
+| bip_39_word_dash_9 | stool-shy-outside-goat-permit-glance-labor-elder-fade |  
 | bip_39_word_new_br_1 | stool |  
 | bip_39_word_new_br_10 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus |  
 | bip_39_word_new_br_11 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus<br>evolve |  
@@ -147,6 +159,18 @@ fade |
 | bip_39_word_space_7 | stool shy outside goat permit glance labor |  
 | bip_39_word_space_8 | stool shy outside goat permit glance labor elder |  
 | bip_39_word_space_9 | stool shy outside goat permit glance labor elder fade |  
+| bip_39_word_underscore_1 | stool |  
+| bip_39_word_underscore_10 | stool_shy_outside_goat_permit_glance_labor_elder_fade_bus |  
+| bip_39_word_underscore_11 | stool_shy_outside_goat_permit_glance_labor_elder_fade_bus_evolve |  
+| bip_39_word_underscore_12 | stool_shy_outside_goat_permit_glance_labor_elder_fade_bus_evolve_annual |  
+| bip_39_word_underscore_2 | stool_shy |  
+| bip_39_word_underscore_3 | stool_shy_outside |  
+| bip_39_word_underscore_4 | stool_shy_outside_goat |  
+| bip_39_word_underscore_5 | stool_shy_outside_goat_permit |  
+| bip_39_word_underscore_6 | stool_shy_outside_goat_permit_glance |  
+| bip_39_word_underscore_7 | stool_shy_outside_goat_permit_glance_labor |  
+| bip_39_word_underscore_8 | stool_shy_outside_goat_permit_glance_labor_elder |  
+| bip_39_word_underscore_9 | stool_shy_outside_goat_permit_glance_labor_elder_fade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

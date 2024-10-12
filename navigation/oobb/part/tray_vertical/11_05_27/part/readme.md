@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | equip |  
+| bip_39_word_dash_10 | equip-noise-feed-say-wing-afraid-cigar-auction-barrel-aware |  
+| bip_39_word_dash_11 | equip-noise-feed-say-wing-afraid-cigar-auction-barrel-aware-awful |  
+| bip_39_word_dash_12 | equip-noise-feed-say-wing-afraid-cigar-auction-barrel-aware-awful-asthma |  
+| bip_39_word_dash_2 | equip-noise |  
+| bip_39_word_dash_3 | equip-noise-feed |  
+| bip_39_word_dash_4 | equip-noise-feed-say |  
+| bip_39_word_dash_5 | equip-noise-feed-say-wing |  
+| bip_39_word_dash_6 | equip-noise-feed-say-wing-afraid |  
+| bip_39_word_dash_7 | equip-noise-feed-say-wing-afraid-cigar |  
+| bip_39_word_dash_8 | equip-noise-feed-say-wing-afraid-cigar-auction |  
+| bip_39_word_dash_9 | equip-noise-feed-say-wing-afraid-cigar-auction-barrel |  
 | bip_39_word_new_br_1 | equip |  
 | bip_39_word_new_br_10 | equip<br>noise<br>feed<br>say<br>wing<br>afraid<br>cigar<br>auction<br>barrel<br>aware |  
 | bip_39_word_new_br_11 | equip<br>noise<br>feed<br>say<br>wing<br>afraid<br>cigar<br>auction<br>barrel<br>aware<br>awful |  
@@ -147,6 +159,18 @@ barrel |
 | bip_39_word_space_7 | equip noise feed say wing afraid cigar |  
 | bip_39_word_space_8 | equip noise feed say wing afraid cigar auction |  
 | bip_39_word_space_9 | equip noise feed say wing afraid cigar auction barrel |  
+| bip_39_word_underscore_1 | equip |  
+| bip_39_word_underscore_10 | equip_noise_feed_say_wing_afraid_cigar_auction_barrel_aware |  
+| bip_39_word_underscore_11 | equip_noise_feed_say_wing_afraid_cigar_auction_barrel_aware_awful |  
+| bip_39_word_underscore_12 | equip_noise_feed_say_wing_afraid_cigar_auction_barrel_aware_awful_asthma |  
+| bip_39_word_underscore_2 | equip_noise |  
+| bip_39_word_underscore_3 | equip_noise_feed |  
+| bip_39_word_underscore_4 | equip_noise_feed_say |  
+| bip_39_word_underscore_5 | equip_noise_feed_say_wing |  
+| bip_39_word_underscore_6 | equip_noise_feed_say_wing_afraid |  
+| bip_39_word_underscore_7 | equip_noise_feed_say_wing_afraid_cigar |  
+| bip_39_word_underscore_8 | equip_noise_feed_say_wing_afraid_cigar_auction |  
+| bip_39_word_underscore_9 | equip_noise_feed_say_wing_afraid_cigar_auction_barrel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

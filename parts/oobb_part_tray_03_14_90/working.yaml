@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chat
+bip_39_word_dash_10: chat-injury-risk-again-vehicle-auto-rally-that-onion-brown
+bip_39_word_dash_11: chat-injury-risk-again-vehicle-auto-rally-that-onion-brown-wreck
+bip_39_word_dash_12: chat-injury-risk-again-vehicle-auto-rally-that-onion-brown-wreck-amused
+bip_39_word_dash_2: chat-injury
+bip_39_word_dash_3: chat-injury-risk
+bip_39_word_dash_4: chat-injury-risk-again
+bip_39_word_dash_5: chat-injury-risk-again-vehicle
+bip_39_word_dash_6: chat-injury-risk-again-vehicle-auto
+bip_39_word_dash_7: chat-injury-risk-again-vehicle-auto-rally
+bip_39_word_dash_8: chat-injury-risk-again-vehicle-auto-rally-that
+bip_39_word_dash_9: chat-injury-risk-again-vehicle-auto-rally-that-onion
 bip_39_word_new_br_1: chat
 bip_39_word_new_br_10: chat<br>injury<br>risk<br>again<br>vehicle<br>auto<br>rally<br>that<br>onion<br>brown
 bip_39_word_new_br_11: chat<br>injury<br>risk<br>again<br>vehicle<br>auto<br>rally<br>that<br>onion<br>brown<br>wreck
@@ -192,6 +204,18 @@ bip_39_word_space_6: chat injury risk again vehicle auto
 bip_39_word_space_7: chat injury risk again vehicle auto rally
 bip_39_word_space_8: chat injury risk again vehicle auto rally that
 bip_39_word_space_9: chat injury risk again vehicle auto rally that onion
+bip_39_word_underscore_1: chat
+bip_39_word_underscore_10: chat_injury_risk_again_vehicle_auto_rally_that_onion_brown
+bip_39_word_underscore_11: chat_injury_risk_again_vehicle_auto_rally_that_onion_brown_wreck
+bip_39_word_underscore_12: chat_injury_risk_again_vehicle_auto_rally_that_onion_brown_wreck_amused
+bip_39_word_underscore_2: chat_injury
+bip_39_word_underscore_3: chat_injury_risk
+bip_39_word_underscore_4: chat_injury_risk_again
+bip_39_word_underscore_5: chat_injury_risk_again_vehicle
+bip_39_word_underscore_6: chat_injury_risk_again_vehicle_auto
+bip_39_word_underscore_7: chat_injury_risk_again_vehicle_auto_rally
+bip_39_word_underscore_8: chat_injury_risk_again_vehicle_auto_rally_that
+bip_39_word_underscore_9: chat_injury_risk_again_vehicle_auto_rally_that_onion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | buddy |  
+| bip_39_word_dash_10 | buddy-entry-vacant-ankle-skate-coconut-select-crunch-album-meat |  
+| bip_39_word_dash_11 | buddy-entry-vacant-ankle-skate-coconut-select-crunch-album-meat-cruise |  
+| bip_39_word_dash_12 | buddy-entry-vacant-ankle-skate-coconut-select-crunch-album-meat-cruise-also |  
+| bip_39_word_dash_2 | buddy-entry |  
+| bip_39_word_dash_3 | buddy-entry-vacant |  
+| bip_39_word_dash_4 | buddy-entry-vacant-ankle |  
+| bip_39_word_dash_5 | buddy-entry-vacant-ankle-skate |  
+| bip_39_word_dash_6 | buddy-entry-vacant-ankle-skate-coconut |  
+| bip_39_word_dash_7 | buddy-entry-vacant-ankle-skate-coconut-select |  
+| bip_39_word_dash_8 | buddy-entry-vacant-ankle-skate-coconut-select-crunch |  
+| bip_39_word_dash_9 | buddy-entry-vacant-ankle-skate-coconut-select-crunch-album |  
 | bip_39_word_new_br_1 | buddy |  
 | bip_39_word_new_br_10 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch<br>album<br>meat |  
 | bip_39_word_new_br_11 | buddy<br>entry<br>vacant<br>ankle<br>skate<br>coconut<br>select<br>crunch<br>album<br>meat<br>cruise |  
@@ -147,6 +159,18 @@ album |
 | bip_39_word_space_7 | buddy entry vacant ankle skate coconut select |  
 | bip_39_word_space_8 | buddy entry vacant ankle skate coconut select crunch |  
 | bip_39_word_space_9 | buddy entry vacant ankle skate coconut select crunch album |  
+| bip_39_word_underscore_1 | buddy |  
+| bip_39_word_underscore_10 | buddy_entry_vacant_ankle_skate_coconut_select_crunch_album_meat |  
+| bip_39_word_underscore_11 | buddy_entry_vacant_ankle_skate_coconut_select_crunch_album_meat_cruise |  
+| bip_39_word_underscore_12 | buddy_entry_vacant_ankle_skate_coconut_select_crunch_album_meat_cruise_also |  
+| bip_39_word_underscore_2 | buddy_entry |  
+| bip_39_word_underscore_3 | buddy_entry_vacant |  
+| bip_39_word_underscore_4 | buddy_entry_vacant_ankle |  
+| bip_39_word_underscore_5 | buddy_entry_vacant_ankle_skate |  
+| bip_39_word_underscore_6 | buddy_entry_vacant_ankle_skate_coconut |  
+| bip_39_word_underscore_7 | buddy_entry_vacant_ankle_skate_coconut_select |  
+| bip_39_word_underscore_8 | buddy_entry_vacant_ankle_skate_coconut_select_crunch |  
+| bip_39_word_underscore_9 | buddy_entry_vacant_ankle_skate_coconut_select_crunch_album |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

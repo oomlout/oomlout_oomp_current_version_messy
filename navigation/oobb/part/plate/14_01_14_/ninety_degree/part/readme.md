@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | series |  
+| bip_39_word_dash_10 | series-link-width-that-century-planet-order-series-escape-square |  
+| bip_39_word_dash_11 | series-link-width-that-century-planet-order-series-escape-square-change |  
+| bip_39_word_dash_12 | series-link-width-that-century-planet-order-series-escape-square-change-aim |  
+| bip_39_word_dash_2 | series-link |  
+| bip_39_word_dash_3 | series-link-width |  
+| bip_39_word_dash_4 | series-link-width-that |  
+| bip_39_word_dash_5 | series-link-width-that-century |  
+| bip_39_word_dash_6 | series-link-width-that-century-planet |  
+| bip_39_word_dash_7 | series-link-width-that-century-planet-order |  
+| bip_39_word_dash_8 | series-link-width-that-century-planet-order-series |  
+| bip_39_word_dash_9 | series-link-width-that-century-planet-order-series-escape |  
 | bip_39_word_new_br_1 | series |  
 | bip_39_word_new_br_10 | series<br>link<br>width<br>that<br>century<br>planet<br>order<br>series<br>escape<br>square |  
 | bip_39_word_new_br_11 | series<br>link<br>width<br>that<br>century<br>planet<br>order<br>series<br>escape<br>square<br>change |  
@@ -147,6 +159,18 @@ escape |
 | bip_39_word_space_7 | series link width that century planet order |  
 | bip_39_word_space_8 | series link width that century planet order series |  
 | bip_39_word_space_9 | series link width that century planet order series escape |  
+| bip_39_word_underscore_1 | series |  
+| bip_39_word_underscore_10 | series_link_width_that_century_planet_order_series_escape_square |  
+| bip_39_word_underscore_11 | series_link_width_that_century_planet_order_series_escape_square_change |  
+| bip_39_word_underscore_12 | series_link_width_that_century_planet_order_series_escape_square_change_aim |  
+| bip_39_word_underscore_2 | series_link |  
+| bip_39_word_underscore_3 | series_link_width |  
+| bip_39_word_underscore_4 | series_link_width_that |  
+| bip_39_word_underscore_5 | series_link_width_that_century |  
+| bip_39_word_underscore_6 | series_link_width_that_century_planet |  
+| bip_39_word_underscore_7 | series_link_width_that_century_planet_order |  
+| bip_39_word_underscore_8 | series_link_width_that_century_planet_order_series |  
+| bip_39_word_underscore_9 | series_link_width_that_century_planet_order_series_escape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

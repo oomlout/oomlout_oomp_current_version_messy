@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | antique |  
+| bip_39_word_dash_10 | antique-above-hospital-solution-process-budget-off-jeans-deer-hello |  
+| bip_39_word_dash_11 | antique-above-hospital-solution-process-budget-off-jeans-deer-hello-danger |  
+| bip_39_word_dash_2 | antique-above |  
+| bip_39_word_dash_3 | antique-above-hospital |  
+| bip_39_word_dash_4 | antique-above-hospital-solution |  
+| bip_39_word_dash_5 | antique-above-hospital-solution-process |  
+| bip_39_word_dash_6 | antique-above-hospital-solution-process-budget |  
+| bip_39_word_dash_7 | antique-above-hospital-solution-process-budget-off |  
+| bip_39_word_dash_8 | antique-above-hospital-solution-process-budget-off-jeans |  
+| bip_39_word_dash_9 | antique-above-hospital-solution-process-budget-off-jeans-deer |  
 | bip_39_word_new_br_1 | antique |  
 | bip_39_word_new_br_10 | antique<br>above<br>hospital<br>solution<br>process<br>budget<br>off<br>jeans<br>deer<br>hello |  
 | bip_39_word_new_br_11 | antique<br>above<br>hospital<br>solution<br>process<br>budget<br>off<br>jeans<br>deer<br>hello<br>danger |  
@@ -132,6 +143,17 @@ deer |
 | bip_39_word_space_7 | antique above hospital solution process budget off |  
 | bip_39_word_space_8 | antique above hospital solution process budget off jeans |  
 | bip_39_word_space_9 | antique above hospital solution process budget off jeans deer |  
+| bip_39_word_underscore_1 | antique |  
+| bip_39_word_underscore_10 | antique_above_hospital_solution_process_budget_off_jeans_deer_hello |  
+| bip_39_word_underscore_11 | antique_above_hospital_solution_process_budget_off_jeans_deer_hello_danger |  
+| bip_39_word_underscore_2 | antique_above |  
+| bip_39_word_underscore_3 | antique_above_hospital |  
+| bip_39_word_underscore_4 | antique_above_hospital_solution |  
+| bip_39_word_underscore_5 | antique_above_hospital_solution_process |  
+| bip_39_word_underscore_6 | antique_above_hospital_solution_process_budget |  
+| bip_39_word_underscore_7 | antique_above_hospital_solution_process_budget_off |  
+| bip_39_word_underscore_8 | antique_above_hospital_solution_process_budget_off_jeans |  
+| bip_39_word_underscore_9 | antique_above_hospital_solution_process_budget_off_jeans_deer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

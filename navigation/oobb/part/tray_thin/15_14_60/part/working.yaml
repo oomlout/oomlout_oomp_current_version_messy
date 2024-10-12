@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tragic
+bip_39_word_dash_10: tragic-foil-skin-cart-position-dolphin-typical-much-treat-little
+bip_39_word_dash_11: tragic-foil-skin-cart-position-dolphin-typical-much-treat-little-leg
+bip_39_word_dash_12: tragic-foil-skin-cart-position-dolphin-typical-much-treat-little-leg-arrange
+bip_39_word_dash_2: tragic-foil
+bip_39_word_dash_3: tragic-foil-skin
+bip_39_word_dash_4: tragic-foil-skin-cart
+bip_39_word_dash_5: tragic-foil-skin-cart-position
+bip_39_word_dash_6: tragic-foil-skin-cart-position-dolphin
+bip_39_word_dash_7: tragic-foil-skin-cart-position-dolphin-typical
+bip_39_word_dash_8: tragic-foil-skin-cart-position-dolphin-typical-much
+bip_39_word_dash_9: tragic-foil-skin-cart-position-dolphin-typical-much-treat
 bip_39_word_new_br_1: tragic
 bip_39_word_new_br_10: tragic<br>foil<br>skin<br>cart<br>position<br>dolphin<br>typical<br>much<br>treat<br>little
 bip_39_word_new_br_11: tragic<br>foil<br>skin<br>cart<br>position<br>dolphin<br>typical<br>much<br>treat<br>little<br>leg
@@ -193,6 +205,18 @@ bip_39_word_space_6: tragic foil skin cart position dolphin
 bip_39_word_space_7: tragic foil skin cart position dolphin typical
 bip_39_word_space_8: tragic foil skin cart position dolphin typical much
 bip_39_word_space_9: tragic foil skin cart position dolphin typical much treat
+bip_39_word_underscore_1: tragic
+bip_39_word_underscore_10: tragic_foil_skin_cart_position_dolphin_typical_much_treat_little
+bip_39_word_underscore_11: tragic_foil_skin_cart_position_dolphin_typical_much_treat_little_leg
+bip_39_word_underscore_12: tragic_foil_skin_cart_position_dolphin_typical_much_treat_little_leg_arrange
+bip_39_word_underscore_2: tragic_foil
+bip_39_word_underscore_3: tragic_foil_skin
+bip_39_word_underscore_4: tragic_foil_skin_cart
+bip_39_word_underscore_5: tragic_foil_skin_cart_position
+bip_39_word_underscore_6: tragic_foil_skin_cart_position_dolphin
+bip_39_word_underscore_7: tragic_foil_skin_cart_position_dolphin_typical
+bip_39_word_underscore_8: tragic_foil_skin_cart_position_dolphin_typical_much
+bip_39_word_underscore_9: tragic_foil_skin_cart_position_dolphin_typical_much_treat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

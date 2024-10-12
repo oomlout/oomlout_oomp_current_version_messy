@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inquiry
+bip_39_word_dash_10: inquiry-fog-account-alert-suspect-force-depth-vibrant-bacon-april
+bip_39_word_dash_11: inquiry-fog-account-alert-suspect-force-depth-vibrant-bacon-april-stairs
+bip_39_word_dash_12: inquiry-fog-account-alert-suspect-force-depth-vibrant-bacon-april-stairs-artist
+bip_39_word_dash_2: inquiry-fog
+bip_39_word_dash_3: inquiry-fog-account
+bip_39_word_dash_4: inquiry-fog-account-alert
+bip_39_word_dash_5: inquiry-fog-account-alert-suspect
+bip_39_word_dash_6: inquiry-fog-account-alert-suspect-force
+bip_39_word_dash_7: inquiry-fog-account-alert-suspect-force-depth
+bip_39_word_dash_8: inquiry-fog-account-alert-suspect-force-depth-vibrant
+bip_39_word_dash_9: inquiry-fog-account-alert-suspect-force-depth-vibrant-bacon
 bip_39_word_new_br_1: inquiry
 bip_39_word_new_br_10: inquiry<br>fog<br>account<br>alert<br>suspect<br>force<br>depth<br>vibrant<br>bacon<br>april
 bip_39_word_new_br_11: inquiry<br>fog<br>account<br>alert<br>suspect<br>force<br>depth<br>vibrant<br>bacon<br>april<br>stairs
@@ -194,6 +206,18 @@ bip_39_word_space_6: inquiry fog account alert suspect force
 bip_39_word_space_7: inquiry fog account alert suspect force depth
 bip_39_word_space_8: inquiry fog account alert suspect force depth vibrant
 bip_39_word_space_9: inquiry fog account alert suspect force depth vibrant bacon
+bip_39_word_underscore_1: inquiry
+bip_39_word_underscore_10: inquiry_fog_account_alert_suspect_force_depth_vibrant_bacon_april
+bip_39_word_underscore_11: inquiry_fog_account_alert_suspect_force_depth_vibrant_bacon_april_stairs
+bip_39_word_underscore_12: inquiry_fog_account_alert_suspect_force_depth_vibrant_bacon_april_stairs_artist
+bip_39_word_underscore_2: inquiry_fog
+bip_39_word_underscore_3: inquiry_fog_account
+bip_39_word_underscore_4: inquiry_fog_account_alert
+bip_39_word_underscore_5: inquiry_fog_account_alert_suspect
+bip_39_word_underscore_6: inquiry_fog_account_alert_suspect_force
+bip_39_word_underscore_7: inquiry_fog_account_alert_suspect_force_depth
+bip_39_word_underscore_8: inquiry_fog_account_alert_suspect_force_depth_vibrant
+bip_39_word_underscore_9: inquiry_fog_account_alert_suspect_force_depth_vibrant_bacon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

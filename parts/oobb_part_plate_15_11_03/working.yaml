@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cotton
+bip_39_word_dash_10: cotton-color-dynamic-relief-ozone-fade-caught-expand-boy-spike
+bip_39_word_dash_11: cotton-color-dynamic-relief-ozone-fade-caught-expand-boy-spike-cup
+bip_39_word_dash_12: cotton-color-dynamic-relief-ozone-fade-caught-expand-boy-spike-cup-arrow
+bip_39_word_dash_2: cotton-color
+bip_39_word_dash_3: cotton-color-dynamic
+bip_39_word_dash_4: cotton-color-dynamic-relief
+bip_39_word_dash_5: cotton-color-dynamic-relief-ozone
+bip_39_word_dash_6: cotton-color-dynamic-relief-ozone-fade
+bip_39_word_dash_7: cotton-color-dynamic-relief-ozone-fade-caught
+bip_39_word_dash_8: cotton-color-dynamic-relief-ozone-fade-caught-expand
+bip_39_word_dash_9: cotton-color-dynamic-relief-ozone-fade-caught-expand-boy
 bip_39_word_new_br_1: cotton
 bip_39_word_new_br_10: cotton<br>color<br>dynamic<br>relief<br>ozone<br>fade<br>caught<br>expand<br>boy<br>spike
 bip_39_word_new_br_11: cotton<br>color<br>dynamic<br>relief<br>ozone<br>fade<br>caught<br>expand<br>boy<br>spike<br>cup
@@ -193,6 +205,18 @@ bip_39_word_space_6: cotton color dynamic relief ozone fade
 bip_39_word_space_7: cotton color dynamic relief ozone fade caught
 bip_39_word_space_8: cotton color dynamic relief ozone fade caught expand
 bip_39_word_space_9: cotton color dynamic relief ozone fade caught expand boy
+bip_39_word_underscore_1: cotton
+bip_39_word_underscore_10: cotton_color_dynamic_relief_ozone_fade_caught_expand_boy_spike
+bip_39_word_underscore_11: cotton_color_dynamic_relief_ozone_fade_caught_expand_boy_spike_cup
+bip_39_word_underscore_12: cotton_color_dynamic_relief_ozone_fade_caught_expand_boy_spike_cup_arrow
+bip_39_word_underscore_2: cotton_color
+bip_39_word_underscore_3: cotton_color_dynamic
+bip_39_word_underscore_4: cotton_color_dynamic_relief
+bip_39_word_underscore_5: cotton_color_dynamic_relief_ozone
+bip_39_word_underscore_6: cotton_color_dynamic_relief_ozone_fade
+bip_39_word_underscore_7: cotton_color_dynamic_relief_ozone_fade_caught
+bip_39_word_underscore_8: cotton_color_dynamic_relief_ozone_fade_caught_expand
+bip_39_word_underscore_9: cotton_color_dynamic_relief_ozone_fade_caught_expand_boy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

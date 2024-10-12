@@ -1,3 +1,15 @@
+bip_39_word_dash_1: live
+bip_39_word_dash_10: live-thunder-retire-hair-water-loop-tonight-point-divide-blade
+bip_39_word_dash_11: live-thunder-retire-hair-water-loop-tonight-point-divide-blade-village
+bip_39_word_dash_12: live-thunder-retire-hair-water-loop-tonight-point-divide-blade-village-afford
+bip_39_word_dash_2: live-thunder
+bip_39_word_dash_3: live-thunder-retire
+bip_39_word_dash_4: live-thunder-retire-hair
+bip_39_word_dash_5: live-thunder-retire-hair-water
+bip_39_word_dash_6: live-thunder-retire-hair-water-loop
+bip_39_word_dash_7: live-thunder-retire-hair-water-loop-tonight
+bip_39_word_dash_8: live-thunder-retire-hair-water-loop-tonight-point
+bip_39_word_dash_9: live-thunder-retire-hair-water-loop-tonight-point-divide
 bip_39_word_new_br_1: live
 bip_39_word_new_br_10: live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade
 bip_39_word_new_br_11: live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade<br>village
@@ -193,6 +205,18 @@ bip_39_word_space_6: live thunder retire hair water loop
 bip_39_word_space_7: live thunder retire hair water loop tonight
 bip_39_word_space_8: live thunder retire hair water loop tonight point
 bip_39_word_space_9: live thunder retire hair water loop tonight point divide
+bip_39_word_underscore_1: live
+bip_39_word_underscore_10: live_thunder_retire_hair_water_loop_tonight_point_divide_blade
+bip_39_word_underscore_11: live_thunder_retire_hair_water_loop_tonight_point_divide_blade_village
+bip_39_word_underscore_12: live_thunder_retire_hair_water_loop_tonight_point_divide_blade_village_afford
+bip_39_word_underscore_2: live_thunder
+bip_39_word_underscore_3: live_thunder_retire
+bip_39_word_underscore_4: live_thunder_retire_hair
+bip_39_word_underscore_5: live_thunder_retire_hair_water
+bip_39_word_underscore_6: live_thunder_retire_hair_water_loop
+bip_39_word_underscore_7: live_thunder_retire_hair_water_loop_tonight
+bip_39_word_underscore_8: live_thunder_retire_hair_water_loop_tonight_point
+bip_39_word_underscore_9: live_thunder_retire_hair_water_loop_tonight_point_divide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

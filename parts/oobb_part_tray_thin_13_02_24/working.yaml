@@ -1,3 +1,15 @@
+bip_39_word_dash_1: addict
+bip_39_word_dash_10: addict-erosion-business-kick-remind-female-urge-best-pull-angle
+bip_39_word_dash_11: addict-erosion-business-kick-remind-female-urge-best-pull-angle-dinner
+bip_39_word_dash_12: addict-erosion-business-kick-remind-female-urge-best-pull-angle-dinner-assume
+bip_39_word_dash_2: addict-erosion
+bip_39_word_dash_3: addict-erosion-business
+bip_39_word_dash_4: addict-erosion-business-kick
+bip_39_word_dash_5: addict-erosion-business-kick-remind
+bip_39_word_dash_6: addict-erosion-business-kick-remind-female
+bip_39_word_dash_7: addict-erosion-business-kick-remind-female-urge
+bip_39_word_dash_8: addict-erosion-business-kick-remind-female-urge-best
+bip_39_word_dash_9: addict-erosion-business-kick-remind-female-urge-best-pull
 bip_39_word_new_br_1: addict
 bip_39_word_new_br_10: addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best<br>pull<br>angle
 bip_39_word_new_br_11: addict<br>erosion<br>business<br>kick<br>remind<br>female<br>urge<br>best<br>pull<br>angle<br>dinner
@@ -193,6 +205,18 @@ bip_39_word_space_6: addict erosion business kick remind female
 bip_39_word_space_7: addict erosion business kick remind female urge
 bip_39_word_space_8: addict erosion business kick remind female urge best
 bip_39_word_space_9: addict erosion business kick remind female urge best pull
+bip_39_word_underscore_1: addict
+bip_39_word_underscore_10: addict_erosion_business_kick_remind_female_urge_best_pull_angle
+bip_39_word_underscore_11: addict_erosion_business_kick_remind_female_urge_best_pull_angle_dinner
+bip_39_word_underscore_12: addict_erosion_business_kick_remind_female_urge_best_pull_angle_dinner_assume
+bip_39_word_underscore_2: addict_erosion
+bip_39_word_underscore_3: addict_erosion_business
+bip_39_word_underscore_4: addict_erosion_business_kick
+bip_39_word_underscore_5: addict_erosion_business_kick_remind
+bip_39_word_underscore_6: addict_erosion_business_kick_remind_female
+bip_39_word_underscore_7: addict_erosion_business_kick_remind_female_urge
+bip_39_word_underscore_8: addict_erosion_business_kick_remind_female_urge_best
+bip_39_word_underscore_9: addict_erosion_business_kick_remind_female_urge_best_pull
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

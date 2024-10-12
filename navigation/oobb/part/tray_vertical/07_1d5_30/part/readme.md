@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | net |  
+| bip_39_word_dash_10 | net-dirt-smooth-exact-little-speed-sister-glove-profit-spread |  
+| bip_39_word_dash_11 | net-dirt-smooth-exact-little-speed-sister-glove-profit-spread-income |  
+| bip_39_word_dash_12 | net-dirt-smooth-exact-little-speed-sister-glove-profit-spread-income-acquire |  
+| bip_39_word_dash_2 | net-dirt |  
+| bip_39_word_dash_3 | net-dirt-smooth |  
+| bip_39_word_dash_4 | net-dirt-smooth-exact |  
+| bip_39_word_dash_5 | net-dirt-smooth-exact-little |  
+| bip_39_word_dash_6 | net-dirt-smooth-exact-little-speed |  
+| bip_39_word_dash_7 | net-dirt-smooth-exact-little-speed-sister |  
+| bip_39_word_dash_8 | net-dirt-smooth-exact-little-speed-sister-glove |  
+| bip_39_word_dash_9 | net-dirt-smooth-exact-little-speed-sister-glove-profit |  
 | bip_39_word_new_br_1 | net |  
 | bip_39_word_new_br_10 | net<br>dirt<br>smooth<br>exact<br>little<br>speed<br>sister<br>glove<br>profit<br>spread |  
 | bip_39_word_new_br_11 | net<br>dirt<br>smooth<br>exact<br>little<br>speed<br>sister<br>glove<br>profit<br>spread<br>income |  
@@ -147,6 +159,18 @@ profit |
 | bip_39_word_space_7 | net dirt smooth exact little speed sister |  
 | bip_39_word_space_8 | net dirt smooth exact little speed sister glove |  
 | bip_39_word_space_9 | net dirt smooth exact little speed sister glove profit |  
+| bip_39_word_underscore_1 | net |  
+| bip_39_word_underscore_10 | net_dirt_smooth_exact_little_speed_sister_glove_profit_spread |  
+| bip_39_word_underscore_11 | net_dirt_smooth_exact_little_speed_sister_glove_profit_spread_income |  
+| bip_39_word_underscore_12 | net_dirt_smooth_exact_little_speed_sister_glove_profit_spread_income_acquire |  
+| bip_39_word_underscore_2 | net_dirt |  
+| bip_39_word_underscore_3 | net_dirt_smooth |  
+| bip_39_word_underscore_4 | net_dirt_smooth_exact |  
+| bip_39_word_underscore_5 | net_dirt_smooth_exact_little |  
+| bip_39_word_underscore_6 | net_dirt_smooth_exact_little_speed |  
+| bip_39_word_underscore_7 | net_dirt_smooth_exact_little_speed_sister |  
+| bip_39_word_underscore_8 | net_dirt_smooth_exact_little_speed_sister_glove |  
+| bip_39_word_underscore_9 | net_dirt_smooth_exact_little_speed_sister_glove_profit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tongue
+bip_39_word_dash_10: tongue-black-load-sign-envelope-depth-matrix-outer-equip-rapid
+bip_39_word_dash_11: tongue-black-load-sign-envelope-depth-matrix-outer-equip-rapid-vapor
+bip_39_word_dash_12: tongue-black-load-sign-envelope-depth-matrix-outer-equip-rapid-vapor-actor
+bip_39_word_dash_2: tongue-black
+bip_39_word_dash_3: tongue-black-load
+bip_39_word_dash_4: tongue-black-load-sign
+bip_39_word_dash_5: tongue-black-load-sign-envelope
+bip_39_word_dash_6: tongue-black-load-sign-envelope-depth
+bip_39_word_dash_7: tongue-black-load-sign-envelope-depth-matrix
+bip_39_word_dash_8: tongue-black-load-sign-envelope-depth-matrix-outer
+bip_39_word_dash_9: tongue-black-load-sign-envelope-depth-matrix-outer-equip
 bip_39_word_new_br_1: tongue
 bip_39_word_new_br_10: tongue<br>black<br>load<br>sign<br>envelope<br>depth<br>matrix<br>outer<br>equip<br>rapid
 bip_39_word_new_br_11: tongue<br>black<br>load<br>sign<br>envelope<br>depth<br>matrix<br>outer<br>equip<br>rapid<br>vapor
@@ -193,6 +205,18 @@ bip_39_word_space_6: tongue black load sign envelope depth
 bip_39_word_space_7: tongue black load sign envelope depth matrix
 bip_39_word_space_8: tongue black load sign envelope depth matrix outer
 bip_39_word_space_9: tongue black load sign envelope depth matrix outer equip
+bip_39_word_underscore_1: tongue
+bip_39_word_underscore_10: tongue_black_load_sign_envelope_depth_matrix_outer_equip_rapid
+bip_39_word_underscore_11: tongue_black_load_sign_envelope_depth_matrix_outer_equip_rapid_vapor
+bip_39_word_underscore_12: tongue_black_load_sign_envelope_depth_matrix_outer_equip_rapid_vapor_actor
+bip_39_word_underscore_2: tongue_black
+bip_39_word_underscore_3: tongue_black_load
+bip_39_word_underscore_4: tongue_black_load_sign
+bip_39_word_underscore_5: tongue_black_load_sign_envelope
+bip_39_word_underscore_6: tongue_black_load_sign_envelope_depth
+bip_39_word_underscore_7: tongue_black_load_sign_envelope_depth_matrix
+bip_39_word_underscore_8: tongue_black_load_sign_envelope_depth_matrix_outer
+bip_39_word_underscore_9: tongue_black_load_sign_envelope_depth_matrix_outer_equip
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

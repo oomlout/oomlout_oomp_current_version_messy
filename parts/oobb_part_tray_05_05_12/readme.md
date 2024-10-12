@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pole |  
+| bip_39_word_dash_10 | pole-route-until-grape-basic-wagon-nominee-sand-feed-weapon |  
+| bip_39_word_dash_11 | pole-route-until-grape-basic-wagon-nominee-sand-feed-weapon-leaf |  
+| bip_39_word_dash_12 | pole-route-until-grape-basic-wagon-nominee-sand-feed-weapon-leaf-above |  
+| bip_39_word_dash_2 | pole-route |  
+| bip_39_word_dash_3 | pole-route-until |  
+| bip_39_word_dash_4 | pole-route-until-grape |  
+| bip_39_word_dash_5 | pole-route-until-grape-basic |  
+| bip_39_word_dash_6 | pole-route-until-grape-basic-wagon |  
+| bip_39_word_dash_7 | pole-route-until-grape-basic-wagon-nominee |  
+| bip_39_word_dash_8 | pole-route-until-grape-basic-wagon-nominee-sand |  
+| bip_39_word_dash_9 | pole-route-until-grape-basic-wagon-nominee-sand-feed |  
 | bip_39_word_new_br_1 | pole |  
 | bip_39_word_new_br_10 | pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand<br>feed<br>weapon |  
 | bip_39_word_new_br_11 | pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand<br>feed<br>weapon<br>leaf |  
@@ -147,6 +159,18 @@ feed |
 | bip_39_word_space_7 | pole route until grape basic wagon nominee |  
 | bip_39_word_space_8 | pole route until grape basic wagon nominee sand |  
 | bip_39_word_space_9 | pole route until grape basic wagon nominee sand feed |  
+| bip_39_word_underscore_1 | pole |  
+| bip_39_word_underscore_10 | pole_route_until_grape_basic_wagon_nominee_sand_feed_weapon |  
+| bip_39_word_underscore_11 | pole_route_until_grape_basic_wagon_nominee_sand_feed_weapon_leaf |  
+| bip_39_word_underscore_12 | pole_route_until_grape_basic_wagon_nominee_sand_feed_weapon_leaf_above |  
+| bip_39_word_underscore_2 | pole_route |  
+| bip_39_word_underscore_3 | pole_route_until |  
+| bip_39_word_underscore_4 | pole_route_until_grape |  
+| bip_39_word_underscore_5 | pole_route_until_grape_basic |  
+| bip_39_word_underscore_6 | pole_route_until_grape_basic_wagon |  
+| bip_39_word_underscore_7 | pole_route_until_grape_basic_wagon_nominee |  
+| bip_39_word_underscore_8 | pole_route_until_grape_basic_wagon_nominee_sand |  
+| bip_39_word_underscore_9 | pole_route_until_grape_basic_wagon_nominee_sand_feed |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

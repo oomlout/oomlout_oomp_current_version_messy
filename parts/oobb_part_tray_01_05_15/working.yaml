@@ -1,3 +1,15 @@
+bip_39_word_dash_1: diagram
+bip_39_word_dash_10: diagram-throw-allow-thought-viable-area-kingdom-hub-convince-festival
+bip_39_word_dash_11: diagram-throw-allow-thought-viable-area-kingdom-hub-convince-festival-finish
+bip_39_word_dash_12: diagram-throw-allow-thought-viable-area-kingdom-hub-convince-festival-finish-arch
+bip_39_word_dash_2: diagram-throw
+bip_39_word_dash_3: diagram-throw-allow
+bip_39_word_dash_4: diagram-throw-allow-thought
+bip_39_word_dash_5: diagram-throw-allow-thought-viable
+bip_39_word_dash_6: diagram-throw-allow-thought-viable-area
+bip_39_word_dash_7: diagram-throw-allow-thought-viable-area-kingdom
+bip_39_word_dash_8: diagram-throw-allow-thought-viable-area-kingdom-hub
+bip_39_word_dash_9: diagram-throw-allow-thought-viable-area-kingdom-hub-convince
 bip_39_word_new_br_1: diagram
 bip_39_word_new_br_10: diagram<br>throw<br>allow<br>thought<br>viable<br>area<br>kingdom<br>hub<br>convince<br>festival
 bip_39_word_new_br_11: diagram<br>throw<br>allow<br>thought<br>viable<br>area<br>kingdom<br>hub<br>convince<br>festival<br>finish
@@ -194,6 +206,18 @@ bip_39_word_space_6: diagram throw allow thought viable area
 bip_39_word_space_7: diagram throw allow thought viable area kingdom
 bip_39_word_space_8: diagram throw allow thought viable area kingdom hub
 bip_39_word_space_9: diagram throw allow thought viable area kingdom hub convince
+bip_39_word_underscore_1: diagram
+bip_39_word_underscore_10: diagram_throw_allow_thought_viable_area_kingdom_hub_convince_festival
+bip_39_word_underscore_11: diagram_throw_allow_thought_viable_area_kingdom_hub_convince_festival_finish
+bip_39_word_underscore_12: diagram_throw_allow_thought_viable_area_kingdom_hub_convince_festival_finish_arch
+bip_39_word_underscore_2: diagram_throw
+bip_39_word_underscore_3: diagram_throw_allow
+bip_39_word_underscore_4: diagram_throw_allow_thought
+bip_39_word_underscore_5: diagram_throw_allow_thought_viable
+bip_39_word_underscore_6: diagram_throw_allow_thought_viable_area
+bip_39_word_underscore_7: diagram_throw_allow_thought_viable_area_kingdom
+bip_39_word_underscore_8: diagram_throw_allow_thought_viable_area_kingdom_hub
+bip_39_word_underscore_9: diagram_throw_allow_thought_viable_area_kingdom_hub_convince
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,14 @@
+bip_39_word_dash_1: leisure
+bip_39_word_dash_10: leisure-gown-bag-suffer-various-magnet-buffalo-snake-obvious-draw
+bip_39_word_dash_11: leisure-gown-bag-suffer-various-magnet-buffalo-snake-obvious-draw-figure
+bip_39_word_dash_2: leisure-gown
+bip_39_word_dash_3: leisure-gown-bag
+bip_39_word_dash_4: leisure-gown-bag-suffer
+bip_39_word_dash_5: leisure-gown-bag-suffer-various
+bip_39_word_dash_6: leisure-gown-bag-suffer-various-magnet
+bip_39_word_dash_7: leisure-gown-bag-suffer-various-magnet-buffalo
+bip_39_word_dash_8: leisure-gown-bag-suffer-various-magnet-buffalo-snake
+bip_39_word_dash_9: leisure-gown-bag-suffer-various-magnet-buffalo-snake-obvious
 bip_39_word_new_br_1: leisure
 bip_39_word_new_br_10: leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo<br>snake<br>obvious<br>draw
 bip_39_word_new_br_11: leisure<br>gown<br>bag<br>suffer<br>various<br>magnet<br>buffalo<br>snake<br>obvious<br>draw<br>figure
@@ -166,6 +177,17 @@ bip_39_word_space_6: leisure gown bag suffer various magnet
 bip_39_word_space_7: leisure gown bag suffer various magnet buffalo
 bip_39_word_space_8: leisure gown bag suffer various magnet buffalo snake
 bip_39_word_space_9: leisure gown bag suffer various magnet buffalo snake obvious
+bip_39_word_underscore_1: leisure
+bip_39_word_underscore_10: leisure_gown_bag_suffer_various_magnet_buffalo_snake_obvious_draw
+bip_39_word_underscore_11: leisure_gown_bag_suffer_various_magnet_buffalo_snake_obvious_draw_figure
+bip_39_word_underscore_2: leisure_gown
+bip_39_word_underscore_3: leisure_gown_bag
+bip_39_word_underscore_4: leisure_gown_bag_suffer
+bip_39_word_underscore_5: leisure_gown_bag_suffer_various
+bip_39_word_underscore_6: leisure_gown_bag_suffer_various_magnet
+bip_39_word_underscore_7: leisure_gown_bag_suffer_various_magnet_buffalo
+bip_39_word_underscore_8: leisure_gown_bag_suffer_various_magnet_buffalo_snake
+bip_39_word_underscore_9: leisure_gown_bag_suffer_various_magnet_buffalo_snake_obvious
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

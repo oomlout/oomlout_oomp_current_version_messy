@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stuff |  
+| bip_39_word_dash_10 | stuff-stem-suggest-unhappy-divide-pause-prefer-amazing-follow-proud |  
+| bip_39_word_dash_11 | stuff-stem-suggest-unhappy-divide-pause-prefer-amazing-follow-proud-ghost |  
+| bip_39_word_dash_12 | stuff-stem-suggest-unhappy-divide-pause-prefer-amazing-follow-proud-ghost-account |  
+| bip_39_word_dash_2 | stuff-stem |  
+| bip_39_word_dash_3 | stuff-stem-suggest |  
+| bip_39_word_dash_4 | stuff-stem-suggest-unhappy |  
+| bip_39_word_dash_5 | stuff-stem-suggest-unhappy-divide |  
+| bip_39_word_dash_6 | stuff-stem-suggest-unhappy-divide-pause |  
+| bip_39_word_dash_7 | stuff-stem-suggest-unhappy-divide-pause-prefer |  
+| bip_39_word_dash_8 | stuff-stem-suggest-unhappy-divide-pause-prefer-amazing |  
+| bip_39_word_dash_9 | stuff-stem-suggest-unhappy-divide-pause-prefer-amazing-follow |  
 | bip_39_word_new_br_1 | stuff |  
 | bip_39_word_new_br_10 | stuff<br>stem<br>suggest<br>unhappy<br>divide<br>pause<br>prefer<br>amazing<br>follow<br>proud |  
 | bip_39_word_new_br_11 | stuff<br>stem<br>suggest<br>unhappy<br>divide<br>pause<br>prefer<br>amazing<br>follow<br>proud<br>ghost |  
@@ -147,6 +159,18 @@ follow |
 | bip_39_word_space_7 | stuff stem suggest unhappy divide pause prefer |  
 | bip_39_word_space_8 | stuff stem suggest unhappy divide pause prefer amazing |  
 | bip_39_word_space_9 | stuff stem suggest unhappy divide pause prefer amazing follow |  
+| bip_39_word_underscore_1 | stuff |  
+| bip_39_word_underscore_10 | stuff_stem_suggest_unhappy_divide_pause_prefer_amazing_follow_proud |  
+| bip_39_word_underscore_11 | stuff_stem_suggest_unhappy_divide_pause_prefer_amazing_follow_proud_ghost |  
+| bip_39_word_underscore_12 | stuff_stem_suggest_unhappy_divide_pause_prefer_amazing_follow_proud_ghost_account |  
+| bip_39_word_underscore_2 | stuff_stem |  
+| bip_39_word_underscore_3 | stuff_stem_suggest |  
+| bip_39_word_underscore_4 | stuff_stem_suggest_unhappy |  
+| bip_39_word_underscore_5 | stuff_stem_suggest_unhappy_divide |  
+| bip_39_word_underscore_6 | stuff_stem_suggest_unhappy_divide_pause |  
+| bip_39_word_underscore_7 | stuff_stem_suggest_unhappy_divide_pause_prefer |  
+| bip_39_word_underscore_8 | stuff_stem_suggest_unhappy_divide_pause_prefer_amazing |  
+| bip_39_word_underscore_9 | stuff_stem_suggest_unhappy_divide_pause_prefer_amazing_follow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: echo
+bip_39_word_dash_10: echo-supreme-bird-ghost-someone-mean-region-bracket-drop-network
+bip_39_word_dash_11: echo-supreme-bird-ghost-someone-mean-region-bracket-drop-network-stone
+bip_39_word_dash_12: echo-supreme-bird-ghost-someone-mean-region-bracket-drop-network-stone-alley
+bip_39_word_dash_2: echo-supreme
+bip_39_word_dash_3: echo-supreme-bird
+bip_39_word_dash_4: echo-supreme-bird-ghost
+bip_39_word_dash_5: echo-supreme-bird-ghost-someone
+bip_39_word_dash_6: echo-supreme-bird-ghost-someone-mean
+bip_39_word_dash_7: echo-supreme-bird-ghost-someone-mean-region
+bip_39_word_dash_8: echo-supreme-bird-ghost-someone-mean-region-bracket
+bip_39_word_dash_9: echo-supreme-bird-ghost-someone-mean-region-bracket-drop
 bip_39_word_new_br_1: echo
 bip_39_word_new_br_10: echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network
 bip_39_word_new_br_11: echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network<br>stone
@@ -193,6 +205,18 @@ bip_39_word_space_6: echo supreme bird ghost someone mean
 bip_39_word_space_7: echo supreme bird ghost someone mean region
 bip_39_word_space_8: echo supreme bird ghost someone mean region bracket
 bip_39_word_space_9: echo supreme bird ghost someone mean region bracket drop
+bip_39_word_underscore_1: echo
+bip_39_word_underscore_10: echo_supreme_bird_ghost_someone_mean_region_bracket_drop_network
+bip_39_word_underscore_11: echo_supreme_bird_ghost_someone_mean_region_bracket_drop_network_stone
+bip_39_word_underscore_12: echo_supreme_bird_ghost_someone_mean_region_bracket_drop_network_stone_alley
+bip_39_word_underscore_2: echo_supreme
+bip_39_word_underscore_3: echo_supreme_bird
+bip_39_word_underscore_4: echo_supreme_bird_ghost
+bip_39_word_underscore_5: echo_supreme_bird_ghost_someone
+bip_39_word_underscore_6: echo_supreme_bird_ghost_someone_mean
+bip_39_word_underscore_7: echo_supreme_bird_ghost_someone_mean_region
+bip_39_word_underscore_8: echo_supreme_bird_ghost_someone_mean_region_bracket
+bip_39_word_underscore_9: echo_supreme_bird_ghost_someone_mean_region_bracket_drop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

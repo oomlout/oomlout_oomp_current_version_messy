@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tag
+bip_39_word_dash_10: tag-march-push-palace-miss-pepper-banana-rocket-stock-gift
+bip_39_word_dash_11: tag-march-push-palace-miss-pepper-banana-rocket-stock-gift-horror
+bip_39_word_dash_12: tag-march-push-palace-miss-pepper-banana-rocket-stock-gift-horror-absorb
+bip_39_word_dash_2: tag-march
+bip_39_word_dash_3: tag-march-push
+bip_39_word_dash_4: tag-march-push-palace
+bip_39_word_dash_5: tag-march-push-palace-miss
+bip_39_word_dash_6: tag-march-push-palace-miss-pepper
+bip_39_word_dash_7: tag-march-push-palace-miss-pepper-banana
+bip_39_word_dash_8: tag-march-push-palace-miss-pepper-banana-rocket
+bip_39_word_dash_9: tag-march-push-palace-miss-pepper-banana-rocket-stock
 bip_39_word_new_br_1: tag
 bip_39_word_new_br_10: tag<br>march<br>push<br>palace<br>miss<br>pepper<br>banana<br>rocket<br>stock<br>gift
 bip_39_word_new_br_11: tag<br>march<br>push<br>palace<br>miss<br>pepper<br>banana<br>rocket<br>stock<br>gift<br>horror
@@ -192,6 +204,18 @@ bip_39_word_space_6: tag march push palace miss pepper
 bip_39_word_space_7: tag march push palace miss pepper banana
 bip_39_word_space_8: tag march push palace miss pepper banana rocket
 bip_39_word_space_9: tag march push palace miss pepper banana rocket stock
+bip_39_word_underscore_1: tag
+bip_39_word_underscore_10: tag_march_push_palace_miss_pepper_banana_rocket_stock_gift
+bip_39_word_underscore_11: tag_march_push_palace_miss_pepper_banana_rocket_stock_gift_horror
+bip_39_word_underscore_12: tag_march_push_palace_miss_pepper_banana_rocket_stock_gift_horror_absorb
+bip_39_word_underscore_2: tag_march
+bip_39_word_underscore_3: tag_march_push
+bip_39_word_underscore_4: tag_march_push_palace
+bip_39_word_underscore_5: tag_march_push_palace_miss
+bip_39_word_underscore_6: tag_march_push_palace_miss_pepper
+bip_39_word_underscore_7: tag_march_push_palace_miss_pepper_banana
+bip_39_word_underscore_8: tag_march_push_palace_miss_pepper_banana_rocket
+bip_39_word_underscore_9: tag_march_push_palace_miss_pepper_banana_rocket_stock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

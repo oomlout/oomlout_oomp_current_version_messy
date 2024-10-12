@@ -1,3 +1,15 @@
+bip_39_word_dash_1: short
+bip_39_word_dash_10: short-symbol-uphold-sweet-frog-walk-parrot-visit-wealth-always
+bip_39_word_dash_11: short-symbol-uphold-sweet-frog-walk-parrot-visit-wealth-always-meadow
+bip_39_word_dash_12: short-symbol-uphold-sweet-frog-walk-parrot-visit-wealth-always-meadow-arrange
+bip_39_word_dash_2: short-symbol
+bip_39_word_dash_3: short-symbol-uphold
+bip_39_word_dash_4: short-symbol-uphold-sweet
+bip_39_word_dash_5: short-symbol-uphold-sweet-frog
+bip_39_word_dash_6: short-symbol-uphold-sweet-frog-walk
+bip_39_word_dash_7: short-symbol-uphold-sweet-frog-walk-parrot
+bip_39_word_dash_8: short-symbol-uphold-sweet-frog-walk-parrot-visit
+bip_39_word_dash_9: short-symbol-uphold-sweet-frog-walk-parrot-visit-wealth
 bip_39_word_new_br_1: short
 bip_39_word_new_br_10: short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always
 bip_39_word_new_br_11: short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always<br>meadow
@@ -193,6 +205,18 @@ bip_39_word_space_6: short symbol uphold sweet frog walk
 bip_39_word_space_7: short symbol uphold sweet frog walk parrot
 bip_39_word_space_8: short symbol uphold sweet frog walk parrot visit
 bip_39_word_space_9: short symbol uphold sweet frog walk parrot visit wealth
+bip_39_word_underscore_1: short
+bip_39_word_underscore_10: short_symbol_uphold_sweet_frog_walk_parrot_visit_wealth_always
+bip_39_word_underscore_11: short_symbol_uphold_sweet_frog_walk_parrot_visit_wealth_always_meadow
+bip_39_word_underscore_12: short_symbol_uphold_sweet_frog_walk_parrot_visit_wealth_always_meadow_arrange
+bip_39_word_underscore_2: short_symbol
+bip_39_word_underscore_3: short_symbol_uphold
+bip_39_word_underscore_4: short_symbol_uphold_sweet
+bip_39_word_underscore_5: short_symbol_uphold_sweet_frog
+bip_39_word_underscore_6: short_symbol_uphold_sweet_frog_walk
+bip_39_word_underscore_7: short_symbol_uphold_sweet_frog_walk_parrot
+bip_39_word_underscore_8: short_symbol_uphold_sweet_frog_walk_parrot_visit
+bip_39_word_underscore_9: short_symbol_uphold_sweet_frog_walk_parrot_visit_wealth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

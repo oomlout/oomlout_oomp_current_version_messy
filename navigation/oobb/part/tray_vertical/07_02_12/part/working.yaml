@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quote
+bip_39_word_dash_10: quote-immune-horse-jump-economy-crop-thought-meat-siege-assume
+bip_39_word_dash_11: quote-immune-horse-jump-economy-crop-thought-meat-siege-assume-mixed
+bip_39_word_dash_12: quote-immune-horse-jump-economy-crop-thought-meat-siege-assume-mixed-aerobic
+bip_39_word_dash_2: quote-immune
+bip_39_word_dash_3: quote-immune-horse
+bip_39_word_dash_4: quote-immune-horse-jump
+bip_39_word_dash_5: quote-immune-horse-jump-economy
+bip_39_word_dash_6: quote-immune-horse-jump-economy-crop
+bip_39_word_dash_7: quote-immune-horse-jump-economy-crop-thought
+bip_39_word_dash_8: quote-immune-horse-jump-economy-crop-thought-meat
+bip_39_word_dash_9: quote-immune-horse-jump-economy-crop-thought-meat-siege
 bip_39_word_new_br_1: quote
 bip_39_word_new_br_10: quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat<br>siege<br>assume
 bip_39_word_new_br_11: quote<br>immune<br>horse<br>jump<br>economy<br>crop<br>thought<br>meat<br>siege<br>assume<br>mixed
@@ -193,6 +205,18 @@ bip_39_word_space_6: quote immune horse jump economy crop
 bip_39_word_space_7: quote immune horse jump economy crop thought
 bip_39_word_space_8: quote immune horse jump economy crop thought meat
 bip_39_word_space_9: quote immune horse jump economy crop thought meat siege
+bip_39_word_underscore_1: quote
+bip_39_word_underscore_10: quote_immune_horse_jump_economy_crop_thought_meat_siege_assume
+bip_39_word_underscore_11: quote_immune_horse_jump_economy_crop_thought_meat_siege_assume_mixed
+bip_39_word_underscore_12: quote_immune_horse_jump_economy_crop_thought_meat_siege_assume_mixed_aerobic
+bip_39_word_underscore_2: quote_immune
+bip_39_word_underscore_3: quote_immune_horse
+bip_39_word_underscore_4: quote_immune_horse_jump
+bip_39_word_underscore_5: quote_immune_horse_jump_economy
+bip_39_word_underscore_6: quote_immune_horse_jump_economy_crop
+bip_39_word_underscore_7: quote_immune_horse_jump_economy_crop_thought
+bip_39_word_underscore_8: quote_immune_horse_jump_economy_crop_thought_meat
+bip_39_word_underscore_9: quote_immune_horse_jump_economy_crop_thought_meat_siege
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

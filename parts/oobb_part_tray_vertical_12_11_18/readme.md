@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stadium |  
+| bip_39_word_dash_10 | stadium-merge-library-neglect-praise-sunset-butter-glow-balance-attract |  
+| bip_39_word_dash_11 | stadium-merge-library-neglect-praise-sunset-butter-glow-balance-attract-scare |  
+| bip_39_word_dash_12 | stadium-merge-library-neglect-praise-sunset-butter-glow-balance-attract-scare-acquire |  
+| bip_39_word_dash_2 | stadium-merge |  
+| bip_39_word_dash_3 | stadium-merge-library |  
+| bip_39_word_dash_4 | stadium-merge-library-neglect |  
+| bip_39_word_dash_5 | stadium-merge-library-neglect-praise |  
+| bip_39_word_dash_6 | stadium-merge-library-neglect-praise-sunset |  
+| bip_39_word_dash_7 | stadium-merge-library-neglect-praise-sunset-butter |  
+| bip_39_word_dash_8 | stadium-merge-library-neglect-praise-sunset-butter-glow |  
+| bip_39_word_dash_9 | stadium-merge-library-neglect-praise-sunset-butter-glow-balance |  
 | bip_39_word_new_br_1 | stadium |  
 | bip_39_word_new_br_10 | stadium<br>merge<br>library<br>neglect<br>praise<br>sunset<br>butter<br>glow<br>balance<br>attract |  
 | bip_39_word_new_br_11 | stadium<br>merge<br>library<br>neglect<br>praise<br>sunset<br>butter<br>glow<br>balance<br>attract<br>scare |  
@@ -147,6 +159,18 @@ balance |
 | bip_39_word_space_7 | stadium merge library neglect praise sunset butter |  
 | bip_39_word_space_8 | stadium merge library neglect praise sunset butter glow |  
 | bip_39_word_space_9 | stadium merge library neglect praise sunset butter glow balance |  
+| bip_39_word_underscore_1 | stadium |  
+| bip_39_word_underscore_10 | stadium_merge_library_neglect_praise_sunset_butter_glow_balance_attract |  
+| bip_39_word_underscore_11 | stadium_merge_library_neglect_praise_sunset_butter_glow_balance_attract_scare |  
+| bip_39_word_underscore_12 | stadium_merge_library_neglect_praise_sunset_butter_glow_balance_attract_scare_acquire |  
+| bip_39_word_underscore_2 | stadium_merge |  
+| bip_39_word_underscore_3 | stadium_merge_library |  
+| bip_39_word_underscore_4 | stadium_merge_library_neglect |  
+| bip_39_word_underscore_5 | stadium_merge_library_neglect_praise |  
+| bip_39_word_underscore_6 | stadium_merge_library_neglect_praise_sunset |  
+| bip_39_word_underscore_7 | stadium_merge_library_neglect_praise_sunset_butter |  
+| bip_39_word_underscore_8 | stadium_merge_library_neglect_praise_sunset_butter_glow |  
+| bip_39_word_underscore_9 | stadium_merge_library_neglect_praise_sunset_butter_glow_balance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

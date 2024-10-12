@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grit |  
+| bip_39_word_dash_10 | grit-traffic-update-club-banana-crash-hold-response-fatal-naive |  
+| bip_39_word_dash_11 | grit-traffic-update-club-banana-crash-hold-response-fatal-naive-egg |  
+| bip_39_word_dash_12 | grit-traffic-update-club-banana-crash-hold-response-fatal-naive-egg-august |  
+| bip_39_word_dash_2 | grit-traffic |  
+| bip_39_word_dash_3 | grit-traffic-update |  
+| bip_39_word_dash_4 | grit-traffic-update-club |  
+| bip_39_word_dash_5 | grit-traffic-update-club-banana |  
+| bip_39_word_dash_6 | grit-traffic-update-club-banana-crash |  
+| bip_39_word_dash_7 | grit-traffic-update-club-banana-crash-hold |  
+| bip_39_word_dash_8 | grit-traffic-update-club-banana-crash-hold-response |  
+| bip_39_word_dash_9 | grit-traffic-update-club-banana-crash-hold-response-fatal |  
 | bip_39_word_new_br_1 | grit |  
 | bip_39_word_new_br_10 | grit<br>traffic<br>update<br>club<br>banana<br>crash<br>hold<br>response<br>fatal<br>naive |  
 | bip_39_word_new_br_11 | grit<br>traffic<br>update<br>club<br>banana<br>crash<br>hold<br>response<br>fatal<br>naive<br>egg |  
@@ -147,6 +159,18 @@ fatal |
 | bip_39_word_space_7 | grit traffic update club banana crash hold |  
 | bip_39_word_space_8 | grit traffic update club banana crash hold response |  
 | bip_39_word_space_9 | grit traffic update club banana crash hold response fatal |  
+| bip_39_word_underscore_1 | grit |  
+| bip_39_word_underscore_10 | grit_traffic_update_club_banana_crash_hold_response_fatal_naive |  
+| bip_39_word_underscore_11 | grit_traffic_update_club_banana_crash_hold_response_fatal_naive_egg |  
+| bip_39_word_underscore_12 | grit_traffic_update_club_banana_crash_hold_response_fatal_naive_egg_august |  
+| bip_39_word_underscore_2 | grit_traffic |  
+| bip_39_word_underscore_3 | grit_traffic_update |  
+| bip_39_word_underscore_4 | grit_traffic_update_club |  
+| bip_39_word_underscore_5 | grit_traffic_update_club_banana |  
+| bip_39_word_underscore_6 | grit_traffic_update_club_banana_crash |  
+| bip_39_word_underscore_7 | grit_traffic_update_club_banana_crash_hold |  
+| bip_39_word_underscore_8 | grit_traffic_update_club_banana_crash_hold_response |  
+| bip_39_word_underscore_9 | grit_traffic_update_club_banana_crash_hold_response_fatal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

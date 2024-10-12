@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bronze |  
+| bip_39_word_dash_10 | bronze-crack-toss-kidney-cube-meat-enrich-extend-stable-faith |  
+| bip_39_word_dash_11 | bronze-crack-toss-kidney-cube-meat-enrich-extend-stable-faith-top |  
+| bip_39_word_dash_12 | bronze-crack-toss-kidney-cube-meat-enrich-extend-stable-faith-top-assume |  
+| bip_39_word_dash_2 | bronze-crack |  
+| bip_39_word_dash_3 | bronze-crack-toss |  
+| bip_39_word_dash_4 | bronze-crack-toss-kidney |  
+| bip_39_word_dash_5 | bronze-crack-toss-kidney-cube |  
+| bip_39_word_dash_6 | bronze-crack-toss-kidney-cube-meat |  
+| bip_39_word_dash_7 | bronze-crack-toss-kidney-cube-meat-enrich |  
+| bip_39_word_dash_8 | bronze-crack-toss-kidney-cube-meat-enrich-extend |  
+| bip_39_word_dash_9 | bronze-crack-toss-kidney-cube-meat-enrich-extend-stable |  
 | bip_39_word_new_br_1 | bronze |  
 | bip_39_word_new_br_10 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend<br>stable<br>faith |  
 | bip_39_word_new_br_11 | bronze<br>crack<br>toss<br>kidney<br>cube<br>meat<br>enrich<br>extend<br>stable<br>faith<br>top |  
@@ -147,6 +159,18 @@ stable |
 | bip_39_word_space_7 | bronze crack toss kidney cube meat enrich |  
 | bip_39_word_space_8 | bronze crack toss kidney cube meat enrich extend |  
 | bip_39_word_space_9 | bronze crack toss kidney cube meat enrich extend stable |  
+| bip_39_word_underscore_1 | bronze |  
+| bip_39_word_underscore_10 | bronze_crack_toss_kidney_cube_meat_enrich_extend_stable_faith |  
+| bip_39_word_underscore_11 | bronze_crack_toss_kidney_cube_meat_enrich_extend_stable_faith_top |  
+| bip_39_word_underscore_12 | bronze_crack_toss_kidney_cube_meat_enrich_extend_stable_faith_top_assume |  
+| bip_39_word_underscore_2 | bronze_crack |  
+| bip_39_word_underscore_3 | bronze_crack_toss |  
+| bip_39_word_underscore_4 | bronze_crack_toss_kidney |  
+| bip_39_word_underscore_5 | bronze_crack_toss_kidney_cube |  
+| bip_39_word_underscore_6 | bronze_crack_toss_kidney_cube_meat |  
+| bip_39_word_underscore_7 | bronze_crack_toss_kidney_cube_meat_enrich |  
+| bip_39_word_underscore_8 | bronze_crack_toss_kidney_cube_meat_enrich_extend |  
+| bip_39_word_underscore_9 | bronze_crack_toss_kidney_cube_meat_enrich_extend_stable |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

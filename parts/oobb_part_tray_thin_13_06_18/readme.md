@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | track |  
+| bip_39_word_dash_10 | track-myth-yellow-merge-tomorrow-agent-addict-frog-when-duck |  
+| bip_39_word_dash_11 | track-myth-yellow-merge-tomorrow-agent-addict-frog-when-duck-purpose |  
+| bip_39_word_dash_12 | track-myth-yellow-merge-tomorrow-agent-addict-frog-when-duck-purpose-across |  
+| bip_39_word_dash_2 | track-myth |  
+| bip_39_word_dash_3 | track-myth-yellow |  
+| bip_39_word_dash_4 | track-myth-yellow-merge |  
+| bip_39_word_dash_5 | track-myth-yellow-merge-tomorrow |  
+| bip_39_word_dash_6 | track-myth-yellow-merge-tomorrow-agent |  
+| bip_39_word_dash_7 | track-myth-yellow-merge-tomorrow-agent-addict |  
+| bip_39_word_dash_8 | track-myth-yellow-merge-tomorrow-agent-addict-frog |  
+| bip_39_word_dash_9 | track-myth-yellow-merge-tomorrow-agent-addict-frog-when |  
 | bip_39_word_new_br_1 | track |  
 | bip_39_word_new_br_10 | track<br>myth<br>yellow<br>merge<br>tomorrow<br>agent<br>addict<br>frog<br>when<br>duck |  
 | bip_39_word_new_br_11 | track<br>myth<br>yellow<br>merge<br>tomorrow<br>agent<br>addict<br>frog<br>when<br>duck<br>purpose |  
@@ -147,6 +159,18 @@ when |
 | bip_39_word_space_7 | track myth yellow merge tomorrow agent addict |  
 | bip_39_word_space_8 | track myth yellow merge tomorrow agent addict frog |  
 | bip_39_word_space_9 | track myth yellow merge tomorrow agent addict frog when |  
+| bip_39_word_underscore_1 | track |  
+| bip_39_word_underscore_10 | track_myth_yellow_merge_tomorrow_agent_addict_frog_when_duck |  
+| bip_39_word_underscore_11 | track_myth_yellow_merge_tomorrow_agent_addict_frog_when_duck_purpose |  
+| bip_39_word_underscore_12 | track_myth_yellow_merge_tomorrow_agent_addict_frog_when_duck_purpose_across |  
+| bip_39_word_underscore_2 | track_myth |  
+| bip_39_word_underscore_3 | track_myth_yellow |  
+| bip_39_word_underscore_4 | track_myth_yellow_merge |  
+| bip_39_word_underscore_5 | track_myth_yellow_merge_tomorrow |  
+| bip_39_word_underscore_6 | track_myth_yellow_merge_tomorrow_agent |  
+| bip_39_word_underscore_7 | track_myth_yellow_merge_tomorrow_agent_addict |  
+| bip_39_word_underscore_8 | track_myth_yellow_merge_tomorrow_agent_addict_frog |  
+| bip_39_word_underscore_9 | track_myth_yellow_merge_tomorrow_agent_addict_frog_when |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brand |  
+| bip_39_word_dash_10 | brand-board-potato-market-oblige-hero-crash-bundle-mystery-material |  
+| bip_39_word_dash_11 | brand-board-potato-market-oblige-hero-crash-bundle-mystery-material-theory |  
+| bip_39_word_dash_12 | brand-board-potato-market-oblige-hero-crash-bundle-mystery-material-theory-announce |  
+| bip_39_word_dash_2 | brand-board |  
+| bip_39_word_dash_3 | brand-board-potato |  
+| bip_39_word_dash_4 | brand-board-potato-market |  
+| bip_39_word_dash_5 | brand-board-potato-market-oblige |  
+| bip_39_word_dash_6 | brand-board-potato-market-oblige-hero |  
+| bip_39_word_dash_7 | brand-board-potato-market-oblige-hero-crash |  
+| bip_39_word_dash_8 | brand-board-potato-market-oblige-hero-crash-bundle |  
+| bip_39_word_dash_9 | brand-board-potato-market-oblige-hero-crash-bundle-mystery |  
 | bip_39_word_new_br_1 | brand |  
 | bip_39_word_new_br_10 | brand<br>board<br>potato<br>market<br>oblige<br>hero<br>crash<br>bundle<br>mystery<br>material |  
 | bip_39_word_new_br_11 | brand<br>board<br>potato<br>market<br>oblige<br>hero<br>crash<br>bundle<br>mystery<br>material<br>theory |  
@@ -147,6 +159,18 @@ mystery |
 | bip_39_word_space_7 | brand board potato market oblige hero crash |  
 | bip_39_word_space_8 | brand board potato market oblige hero crash bundle |  
 | bip_39_word_space_9 | brand board potato market oblige hero crash bundle mystery |  
+| bip_39_word_underscore_1 | brand |  
+| bip_39_word_underscore_10 | brand_board_potato_market_oblige_hero_crash_bundle_mystery_material |  
+| bip_39_word_underscore_11 | brand_board_potato_market_oblige_hero_crash_bundle_mystery_material_theory |  
+| bip_39_word_underscore_12 | brand_board_potato_market_oblige_hero_crash_bundle_mystery_material_theory_announce |  
+| bip_39_word_underscore_2 | brand_board |  
+| bip_39_word_underscore_3 | brand_board_potato |  
+| bip_39_word_underscore_4 | brand_board_potato_market |  
+| bip_39_word_underscore_5 | brand_board_potato_market_oblige |  
+| bip_39_word_underscore_6 | brand_board_potato_market_oblige_hero |  
+| bip_39_word_underscore_7 | brand_board_potato_market_oblige_hero_crash |  
+| bip_39_word_underscore_8 | brand_board_potato_market_oblige_hero_crash_bundle |  
+| bip_39_word_underscore_9 | brand_board_potato_market_oblige_hero_crash_bundle_mystery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

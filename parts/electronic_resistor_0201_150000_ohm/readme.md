@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | syrup |  
+| bip_39_word_dash_10 | syrup-zone-shadow-zoo-option-autumn-cart-cart-blouse-wine |  
+| bip_39_word_dash_11 | syrup-zone-shadow-zoo-option-autumn-cart-cart-blouse-wine-glass |  
+| bip_39_word_dash_12 | syrup-zone-shadow-zoo-option-autumn-cart-cart-blouse-wine-glass-alien |  
+| bip_39_word_dash_2 | syrup-zone |  
+| bip_39_word_dash_3 | syrup-zone-shadow |  
+| bip_39_word_dash_4 | syrup-zone-shadow-zoo |  
+| bip_39_word_dash_5 | syrup-zone-shadow-zoo-option |  
+| bip_39_word_dash_6 | syrup-zone-shadow-zoo-option-autumn |  
+| bip_39_word_dash_7 | syrup-zone-shadow-zoo-option-autumn-cart |  
+| bip_39_word_dash_8 | syrup-zone-shadow-zoo-option-autumn-cart-cart |  
+| bip_39_word_dash_9 | syrup-zone-shadow-zoo-option-autumn-cart-cart-blouse |  
 | bip_39_word_new_br_1 | syrup |  
 | bip_39_word_new_br_10 | syrup<br>zone<br>shadow<br>zoo<br>option<br>autumn<br>cart<br>cart<br>blouse<br>wine |  
 | bip_39_word_new_br_11 | syrup<br>zone<br>shadow<br>zoo<br>option<br>autumn<br>cart<br>cart<br>blouse<br>wine<br>glass |  
@@ -147,6 +159,18 @@ blouse |
 | bip_39_word_space_7 | syrup zone shadow zoo option autumn cart |  
 | bip_39_word_space_8 | syrup zone shadow zoo option autumn cart cart |  
 | bip_39_word_space_9 | syrup zone shadow zoo option autumn cart cart blouse |  
+| bip_39_word_underscore_1 | syrup |  
+| bip_39_word_underscore_10 | syrup_zone_shadow_zoo_option_autumn_cart_cart_blouse_wine |  
+| bip_39_word_underscore_11 | syrup_zone_shadow_zoo_option_autumn_cart_cart_blouse_wine_glass |  
+| bip_39_word_underscore_12 | syrup_zone_shadow_zoo_option_autumn_cart_cart_blouse_wine_glass_alien |  
+| bip_39_word_underscore_2 | syrup_zone |  
+| bip_39_word_underscore_3 | syrup_zone_shadow |  
+| bip_39_word_underscore_4 | syrup_zone_shadow_zoo |  
+| bip_39_word_underscore_5 | syrup_zone_shadow_zoo_option |  
+| bip_39_word_underscore_6 | syrup_zone_shadow_zoo_option_autumn |  
+| bip_39_word_underscore_7 | syrup_zone_shadow_zoo_option_autumn_cart |  
+| bip_39_word_underscore_8 | syrup_zone_shadow_zoo_option_autumn_cart_cart |  
+| bip_39_word_underscore_9 | syrup_zone_shadow_zoo_option_autumn_cart_cart_blouse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

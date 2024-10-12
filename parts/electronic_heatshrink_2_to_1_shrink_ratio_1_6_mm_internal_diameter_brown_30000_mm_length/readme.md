@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inject |  
+| bip_39_word_dash_10 | inject-wise-adjust-release-arrow-depend-good-whip-leader-boy |  
+| bip_39_word_dash_11 | inject-wise-adjust-release-arrow-depend-good-whip-leader-boy-alarm |  
+| bip_39_word_dash_12 | inject-wise-adjust-release-arrow-depend-good-whip-leader-boy-alarm-allow |  
+| bip_39_word_dash_2 | inject-wise |  
+| bip_39_word_dash_3 | inject-wise-adjust |  
+| bip_39_word_dash_4 | inject-wise-adjust-release |  
+| bip_39_word_dash_5 | inject-wise-adjust-release-arrow |  
+| bip_39_word_dash_6 | inject-wise-adjust-release-arrow-depend |  
+| bip_39_word_dash_7 | inject-wise-adjust-release-arrow-depend-good |  
+| bip_39_word_dash_8 | inject-wise-adjust-release-arrow-depend-good-whip |  
+| bip_39_word_dash_9 | inject-wise-adjust-release-arrow-depend-good-whip-leader |  
 | bip_39_word_new_br_1 | inject |  
 | bip_39_word_new_br_10 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip<br>leader<br>boy |  
 | bip_39_word_new_br_11 | inject<br>wise<br>adjust<br>release<br>arrow<br>depend<br>good<br>whip<br>leader<br>boy<br>alarm |  
@@ -147,6 +159,18 @@ leader |
 | bip_39_word_space_7 | inject wise adjust release arrow depend good |  
 | bip_39_word_space_8 | inject wise adjust release arrow depend good whip |  
 | bip_39_word_space_9 | inject wise adjust release arrow depend good whip leader |  
+| bip_39_word_underscore_1 | inject |  
+| bip_39_word_underscore_10 | inject_wise_adjust_release_arrow_depend_good_whip_leader_boy |  
+| bip_39_word_underscore_11 | inject_wise_adjust_release_arrow_depend_good_whip_leader_boy_alarm |  
+| bip_39_word_underscore_12 | inject_wise_adjust_release_arrow_depend_good_whip_leader_boy_alarm_allow |  
+| bip_39_word_underscore_2 | inject_wise |  
+| bip_39_word_underscore_3 | inject_wise_adjust |  
+| bip_39_word_underscore_4 | inject_wise_adjust_release |  
+| bip_39_word_underscore_5 | inject_wise_adjust_release_arrow |  
+| bip_39_word_underscore_6 | inject_wise_adjust_release_arrow_depend |  
+| bip_39_word_underscore_7 | inject_wise_adjust_release_arrow_depend_good |  
+| bip_39_word_underscore_8 | inject_wise_adjust_release_arrow_depend_good_whip |  
+| bip_39_word_underscore_9 | inject_wise_adjust_release_arrow_depend_good_whip_leader |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

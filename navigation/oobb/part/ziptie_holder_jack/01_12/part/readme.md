@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | depend |  
+| bip_39_word_dash_10 | depend-foil-voyage-purity-script-lobster-diary-frozen-direct-physical |  
+| bip_39_word_dash_11 | depend-foil-voyage-purity-script-lobster-diary-frozen-direct-physical-lion |  
+| bip_39_word_dash_12 | depend-foil-voyage-purity-script-lobster-diary-frozen-direct-physical-lion-alcohol |  
+| bip_39_word_dash_2 | depend-foil |  
+| bip_39_word_dash_3 | depend-foil-voyage |  
+| bip_39_word_dash_4 | depend-foil-voyage-purity |  
+| bip_39_word_dash_5 | depend-foil-voyage-purity-script |  
+| bip_39_word_dash_6 | depend-foil-voyage-purity-script-lobster |  
+| bip_39_word_dash_7 | depend-foil-voyage-purity-script-lobster-diary |  
+| bip_39_word_dash_8 | depend-foil-voyage-purity-script-lobster-diary-frozen |  
+| bip_39_word_dash_9 | depend-foil-voyage-purity-script-lobster-diary-frozen-direct |  
 | bip_39_word_new_br_1 | depend |  
 | bip_39_word_new_br_10 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical |  
 | bip_39_word_new_br_11 | depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical<br>lion |  
@@ -147,6 +159,18 @@ direct |
 | bip_39_word_space_7 | depend foil voyage purity script lobster diary |  
 | bip_39_word_space_8 | depend foil voyage purity script lobster diary frozen |  
 | bip_39_word_space_9 | depend foil voyage purity script lobster diary frozen direct |  
+| bip_39_word_underscore_1 | depend |  
+| bip_39_word_underscore_10 | depend_foil_voyage_purity_script_lobster_diary_frozen_direct_physical |  
+| bip_39_word_underscore_11 | depend_foil_voyage_purity_script_lobster_diary_frozen_direct_physical_lion |  
+| bip_39_word_underscore_12 | depend_foil_voyage_purity_script_lobster_diary_frozen_direct_physical_lion_alcohol |  
+| bip_39_word_underscore_2 | depend_foil |  
+| bip_39_word_underscore_3 | depend_foil_voyage |  
+| bip_39_word_underscore_4 | depend_foil_voyage_purity |  
+| bip_39_word_underscore_5 | depend_foil_voyage_purity_script |  
+| bip_39_word_underscore_6 | depend_foil_voyage_purity_script_lobster |  
+| bip_39_word_underscore_7 | depend_foil_voyage_purity_script_lobster_diary |  
+| bip_39_word_underscore_8 | depend_foil_voyage_purity_script_lobster_diary_frozen |  
+| bip_39_word_underscore_9 | depend_foil_voyage_purity_script_lobster_diary_frozen_direct |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

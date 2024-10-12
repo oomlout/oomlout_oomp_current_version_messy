@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wool |  
+| bip_39_word_dash_10 | wool-sniff-north-note-run-sustain-control-arch-segment-inherit |  
+| bip_39_word_dash_11 | wool-sniff-north-note-run-sustain-control-arch-segment-inherit-glass |  
+| bip_39_word_dash_12 | wool-sniff-north-note-run-sustain-control-arch-segment-inherit-glass-admit |  
+| bip_39_word_dash_2 | wool-sniff |  
+| bip_39_word_dash_3 | wool-sniff-north |  
+| bip_39_word_dash_4 | wool-sniff-north-note |  
+| bip_39_word_dash_5 | wool-sniff-north-note-run |  
+| bip_39_word_dash_6 | wool-sniff-north-note-run-sustain |  
+| bip_39_word_dash_7 | wool-sniff-north-note-run-sustain-control |  
+| bip_39_word_dash_8 | wool-sniff-north-note-run-sustain-control-arch |  
+| bip_39_word_dash_9 | wool-sniff-north-note-run-sustain-control-arch-segment |  
 | bip_39_word_new_br_1 | wool |  
 | bip_39_word_new_br_10 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch<br>segment<br>inherit |  
 | bip_39_word_new_br_11 | wool<br>sniff<br>north<br>note<br>run<br>sustain<br>control<br>arch<br>segment<br>inherit<br>glass |  
@@ -147,6 +159,18 @@ segment |
 | bip_39_word_space_7 | wool sniff north note run sustain control |  
 | bip_39_word_space_8 | wool sniff north note run sustain control arch |  
 | bip_39_word_space_9 | wool sniff north note run sustain control arch segment |  
+| bip_39_word_underscore_1 | wool |  
+| bip_39_word_underscore_10 | wool_sniff_north_note_run_sustain_control_arch_segment_inherit |  
+| bip_39_word_underscore_11 | wool_sniff_north_note_run_sustain_control_arch_segment_inherit_glass |  
+| bip_39_word_underscore_12 | wool_sniff_north_note_run_sustain_control_arch_segment_inherit_glass_admit |  
+| bip_39_word_underscore_2 | wool_sniff |  
+| bip_39_word_underscore_3 | wool_sniff_north |  
+| bip_39_word_underscore_4 | wool_sniff_north_note |  
+| bip_39_word_underscore_5 | wool_sniff_north_note_run |  
+| bip_39_word_underscore_6 | wool_sniff_north_note_run_sustain |  
+| bip_39_word_underscore_7 | wool_sniff_north_note_run_sustain_control |  
+| bip_39_word_underscore_8 | wool_sniff_north_note_run_sustain_control_arch |  
+| bip_39_word_underscore_9 | wool_sniff_north_note_run_sustain_control_arch_segment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | what |  
+| bip_39_word_dash_10 | what-garage-amazing-great-exist-giant-age-brick-addict-fish |  
+| bip_39_word_dash_11 | what-garage-amazing-great-exist-giant-age-brick-addict-fish-future |  
+| bip_39_word_dash_12 | what-garage-amazing-great-exist-giant-age-brick-addict-fish-future-also |  
+| bip_39_word_dash_2 | what-garage |  
+| bip_39_word_dash_3 | what-garage-amazing |  
+| bip_39_word_dash_4 | what-garage-amazing-great |  
+| bip_39_word_dash_5 | what-garage-amazing-great-exist |  
+| bip_39_word_dash_6 | what-garage-amazing-great-exist-giant |  
+| bip_39_word_dash_7 | what-garage-amazing-great-exist-giant-age |  
+| bip_39_word_dash_8 | what-garage-amazing-great-exist-giant-age-brick |  
+| bip_39_word_dash_9 | what-garage-amazing-great-exist-giant-age-brick-addict |  
 | bip_39_word_new_br_1 | what |  
 | bip_39_word_new_br_10 | what<br>garage<br>amazing<br>great<br>exist<br>giant<br>age<br>brick<br>addict<br>fish |  
 | bip_39_word_new_br_11 | what<br>garage<br>amazing<br>great<br>exist<br>giant<br>age<br>brick<br>addict<br>fish<br>future |  
@@ -147,6 +159,18 @@ addict |
 | bip_39_word_space_7 | what garage amazing great exist giant age |  
 | bip_39_word_space_8 | what garage amazing great exist giant age brick |  
 | bip_39_word_space_9 | what garage amazing great exist giant age brick addict |  
+| bip_39_word_underscore_1 | what |  
+| bip_39_word_underscore_10 | what_garage_amazing_great_exist_giant_age_brick_addict_fish |  
+| bip_39_word_underscore_11 | what_garage_amazing_great_exist_giant_age_brick_addict_fish_future |  
+| bip_39_word_underscore_12 | what_garage_amazing_great_exist_giant_age_brick_addict_fish_future_also |  
+| bip_39_word_underscore_2 | what_garage |  
+| bip_39_word_underscore_3 | what_garage_amazing |  
+| bip_39_word_underscore_4 | what_garage_amazing_great |  
+| bip_39_word_underscore_5 | what_garage_amazing_great_exist |  
+| bip_39_word_underscore_6 | what_garage_amazing_great_exist_giant |  
+| bip_39_word_underscore_7 | what_garage_amazing_great_exist_giant_age |  
+| bip_39_word_underscore_8 | what_garage_amazing_great_exist_giant_age_brick |  
+| bip_39_word_underscore_9 | what_garage_amazing_great_exist_giant_age_brick_addict |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

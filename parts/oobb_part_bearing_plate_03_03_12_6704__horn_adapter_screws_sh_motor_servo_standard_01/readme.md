@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arena |  
+| bip_39_word_dash_10 | arena-tumble-dose-kiss-explain-addict-ship-vanish-switch-exit |  
+| bip_39_word_dash_11 | arena-tumble-dose-kiss-explain-addict-ship-vanish-switch-exit-mechanic |  
+| bip_39_word_dash_12 | arena-tumble-dose-kiss-explain-addict-ship-vanish-switch-exit-mechanic-across |  
+| bip_39_word_dash_2 | arena-tumble |  
+| bip_39_word_dash_3 | arena-tumble-dose |  
+| bip_39_word_dash_4 | arena-tumble-dose-kiss |  
+| bip_39_word_dash_5 | arena-tumble-dose-kiss-explain |  
+| bip_39_word_dash_6 | arena-tumble-dose-kiss-explain-addict |  
+| bip_39_word_dash_7 | arena-tumble-dose-kiss-explain-addict-ship |  
+| bip_39_word_dash_8 | arena-tumble-dose-kiss-explain-addict-ship-vanish |  
+| bip_39_word_dash_9 | arena-tumble-dose-kiss-explain-addict-ship-vanish-switch |  
 | bip_39_word_new_br_1 | arena |  
 | bip_39_word_new_br_10 | arena<br>tumble<br>dose<br>kiss<br>explain<br>addict<br>ship<br>vanish<br>switch<br>exit |  
 | bip_39_word_new_br_11 | arena<br>tumble<br>dose<br>kiss<br>explain<br>addict<br>ship<br>vanish<br>switch<br>exit<br>mechanic |  
@@ -147,6 +159,18 @@ switch |
 | bip_39_word_space_7 | arena tumble dose kiss explain addict ship |  
 | bip_39_word_space_8 | arena tumble dose kiss explain addict ship vanish |  
 | bip_39_word_space_9 | arena tumble dose kiss explain addict ship vanish switch |  
+| bip_39_word_underscore_1 | arena |  
+| bip_39_word_underscore_10 | arena_tumble_dose_kiss_explain_addict_ship_vanish_switch_exit |  
+| bip_39_word_underscore_11 | arena_tumble_dose_kiss_explain_addict_ship_vanish_switch_exit_mechanic |  
+| bip_39_word_underscore_12 | arena_tumble_dose_kiss_explain_addict_ship_vanish_switch_exit_mechanic_across |  
+| bip_39_word_underscore_2 | arena_tumble |  
+| bip_39_word_underscore_3 | arena_tumble_dose |  
+| bip_39_word_underscore_4 | arena_tumble_dose_kiss |  
+| bip_39_word_underscore_5 | arena_tumble_dose_kiss_explain |  
+| bip_39_word_underscore_6 | arena_tumble_dose_kiss_explain_addict |  
+| bip_39_word_underscore_7 | arena_tumble_dose_kiss_explain_addict_ship |  
+| bip_39_word_underscore_8 | arena_tumble_dose_kiss_explain_addict_ship_vanish |  
+| bip_39_word_underscore_9 | arena_tumble_dose_kiss_explain_addict_ship_vanish_switch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

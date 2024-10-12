@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bronze |  
+| bip_39_word_dash_10 | bronze-rebuild-practice-inspire-segment-please-copy-fitness-gloom-struggle |  
+| bip_39_word_dash_11 | bronze-rebuild-practice-inspire-segment-please-copy-fitness-gloom-struggle-noise |  
+| bip_39_word_dash_12 | bronze-rebuild-practice-inspire-segment-please-copy-fitness-gloom-struggle-noise-average |  
+| bip_39_word_dash_2 | bronze-rebuild |  
+| bip_39_word_dash_3 | bronze-rebuild-practice |  
+| bip_39_word_dash_4 | bronze-rebuild-practice-inspire |  
+| bip_39_word_dash_5 | bronze-rebuild-practice-inspire-segment |  
+| bip_39_word_dash_6 | bronze-rebuild-practice-inspire-segment-please |  
+| bip_39_word_dash_7 | bronze-rebuild-practice-inspire-segment-please-copy |  
+| bip_39_word_dash_8 | bronze-rebuild-practice-inspire-segment-please-copy-fitness |  
+| bip_39_word_dash_9 | bronze-rebuild-practice-inspire-segment-please-copy-fitness-gloom |  
 | bip_39_word_new_br_1 | bronze |  
 | bip_39_word_new_br_10 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness<br>gloom<br>struggle |  
 | bip_39_word_new_br_11 | bronze<br>rebuild<br>practice<br>inspire<br>segment<br>please<br>copy<br>fitness<br>gloom<br>struggle<br>noise |  
@@ -147,6 +159,18 @@ gloom |
 | bip_39_word_space_7 | bronze rebuild practice inspire segment please copy |  
 | bip_39_word_space_8 | bronze rebuild practice inspire segment please copy fitness |  
 | bip_39_word_space_9 | bronze rebuild practice inspire segment please copy fitness gloom |  
+| bip_39_word_underscore_1 | bronze |  
+| bip_39_word_underscore_10 | bronze_rebuild_practice_inspire_segment_please_copy_fitness_gloom_struggle |  
+| bip_39_word_underscore_11 | bronze_rebuild_practice_inspire_segment_please_copy_fitness_gloom_struggle_noise |  
+| bip_39_word_underscore_12 | bronze_rebuild_practice_inspire_segment_please_copy_fitness_gloom_struggle_noise_average |  
+| bip_39_word_underscore_2 | bronze_rebuild |  
+| bip_39_word_underscore_3 | bronze_rebuild_practice |  
+| bip_39_word_underscore_4 | bronze_rebuild_practice_inspire |  
+| bip_39_word_underscore_5 | bronze_rebuild_practice_inspire_segment |  
+| bip_39_word_underscore_6 | bronze_rebuild_practice_inspire_segment_please |  
+| bip_39_word_underscore_7 | bronze_rebuild_practice_inspire_segment_please_copy |  
+| bip_39_word_underscore_8 | bronze_rebuild_practice_inspire_segment_please_copy_fitness |  
+| bip_39_word_underscore_9 | bronze_rebuild_practice_inspire_segment_please_copy_fitness_gloom |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

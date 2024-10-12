@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tragic |  
+| bip_39_word_dash_10 | tragic-engage-useful-once-dune-dust-gap-flight-sport-bird |  
+| bip_39_word_dash_11 | tragic-engage-useful-once-dune-dust-gap-flight-sport-bird-mandate |  
+| bip_39_word_dash_12 | tragic-engage-useful-once-dune-dust-gap-flight-sport-bird-mandate-action |  
+| bip_39_word_dash_2 | tragic-engage |  
+| bip_39_word_dash_3 | tragic-engage-useful |  
+| bip_39_word_dash_4 | tragic-engage-useful-once |  
+| bip_39_word_dash_5 | tragic-engage-useful-once-dune |  
+| bip_39_word_dash_6 | tragic-engage-useful-once-dune-dust |  
+| bip_39_word_dash_7 | tragic-engage-useful-once-dune-dust-gap |  
+| bip_39_word_dash_8 | tragic-engage-useful-once-dune-dust-gap-flight |  
+| bip_39_word_dash_9 | tragic-engage-useful-once-dune-dust-gap-flight-sport |  
 | bip_39_word_new_br_1 | tragic |  
 | bip_39_word_new_br_10 | tragic<br>engage<br>useful<br>once<br>dune<br>dust<br>gap<br>flight<br>sport<br>bird |  
 | bip_39_word_new_br_11 | tragic<br>engage<br>useful<br>once<br>dune<br>dust<br>gap<br>flight<br>sport<br>bird<br>mandate |  
@@ -147,6 +159,18 @@ sport |
 | bip_39_word_space_7 | tragic engage useful once dune dust gap |  
 | bip_39_word_space_8 | tragic engage useful once dune dust gap flight |  
 | bip_39_word_space_9 | tragic engage useful once dune dust gap flight sport |  
+| bip_39_word_underscore_1 | tragic |  
+| bip_39_word_underscore_10 | tragic_engage_useful_once_dune_dust_gap_flight_sport_bird |  
+| bip_39_word_underscore_11 | tragic_engage_useful_once_dune_dust_gap_flight_sport_bird_mandate |  
+| bip_39_word_underscore_12 | tragic_engage_useful_once_dune_dust_gap_flight_sport_bird_mandate_action |  
+| bip_39_word_underscore_2 | tragic_engage |  
+| bip_39_word_underscore_3 | tragic_engage_useful |  
+| bip_39_word_underscore_4 | tragic_engage_useful_once |  
+| bip_39_word_underscore_5 | tragic_engage_useful_once_dune |  
+| bip_39_word_underscore_6 | tragic_engage_useful_once_dune_dust |  
+| bip_39_word_underscore_7 | tragic_engage_useful_once_dune_dust_gap |  
+| bip_39_word_underscore_8 | tragic_engage_useful_once_dune_dust_gap_flight |  
+| bip_39_word_underscore_9 | tragic_engage_useful_once_dune_dust_gap_flight_sport |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

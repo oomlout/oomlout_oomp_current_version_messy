@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | good |  
+| bip_39_word_dash_10 | good-double-grace-stadium-dizzy-cannon-lottery-plate-blush-sleep |  
+| bip_39_word_dash_11 | good-double-grace-stadium-dizzy-cannon-lottery-plate-blush-sleep-spray |  
+| bip_39_word_dash_12 | good-double-grace-stadium-dizzy-cannon-lottery-plate-blush-sleep-spray-also |  
+| bip_39_word_dash_2 | good-double |  
+| bip_39_word_dash_3 | good-double-grace |  
+| bip_39_word_dash_4 | good-double-grace-stadium |  
+| bip_39_word_dash_5 | good-double-grace-stadium-dizzy |  
+| bip_39_word_dash_6 | good-double-grace-stadium-dizzy-cannon |  
+| bip_39_word_dash_7 | good-double-grace-stadium-dizzy-cannon-lottery |  
+| bip_39_word_dash_8 | good-double-grace-stadium-dizzy-cannon-lottery-plate |  
+| bip_39_word_dash_9 | good-double-grace-stadium-dizzy-cannon-lottery-plate-blush |  
 | bip_39_word_new_br_1 | good |  
 | bip_39_word_new_br_10 | good<br>double<br>grace<br>stadium<br>dizzy<br>cannon<br>lottery<br>plate<br>blush<br>sleep |  
 | bip_39_word_new_br_11 | good<br>double<br>grace<br>stadium<br>dizzy<br>cannon<br>lottery<br>plate<br>blush<br>sleep<br>spray |  
@@ -147,6 +159,18 @@ blush |
 | bip_39_word_space_7 | good double grace stadium dizzy cannon lottery |  
 | bip_39_word_space_8 | good double grace stadium dizzy cannon lottery plate |  
 | bip_39_word_space_9 | good double grace stadium dizzy cannon lottery plate blush |  
+| bip_39_word_underscore_1 | good |  
+| bip_39_word_underscore_10 | good_double_grace_stadium_dizzy_cannon_lottery_plate_blush_sleep |  
+| bip_39_word_underscore_11 | good_double_grace_stadium_dizzy_cannon_lottery_plate_blush_sleep_spray |  
+| bip_39_word_underscore_12 | good_double_grace_stadium_dizzy_cannon_lottery_plate_blush_sleep_spray_also |  
+| bip_39_word_underscore_2 | good_double |  
+| bip_39_word_underscore_3 | good_double_grace |  
+| bip_39_word_underscore_4 | good_double_grace_stadium |  
+| bip_39_word_underscore_5 | good_double_grace_stadium_dizzy |  
+| bip_39_word_underscore_6 | good_double_grace_stadium_dizzy_cannon |  
+| bip_39_word_underscore_7 | good_double_grace_stadium_dizzy_cannon_lottery |  
+| bip_39_word_underscore_8 | good_double_grace_stadium_dizzy_cannon_lottery_plate |  
+| bip_39_word_underscore_9 | good_double_grace_stadium_dizzy_cannon_lottery_plate_blush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

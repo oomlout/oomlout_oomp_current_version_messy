@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | easy |  
+| bip_39_word_dash_10 | easy-quarter-this-salute-course-plate-dune-rug-world-slot |  
+| bip_39_word_dash_11 | easy-quarter-this-salute-course-plate-dune-rug-world-slot-brown |  
+| bip_39_word_dash_12 | easy-quarter-this-salute-course-plate-dune-rug-world-slot-brown-adult |  
+| bip_39_word_dash_2 | easy-quarter |  
+| bip_39_word_dash_3 | easy-quarter-this |  
+| bip_39_word_dash_4 | easy-quarter-this-salute |  
+| bip_39_word_dash_5 | easy-quarter-this-salute-course |  
+| bip_39_word_dash_6 | easy-quarter-this-salute-course-plate |  
+| bip_39_word_dash_7 | easy-quarter-this-salute-course-plate-dune |  
+| bip_39_word_dash_8 | easy-quarter-this-salute-course-plate-dune-rug |  
+| bip_39_word_dash_9 | easy-quarter-this-salute-course-plate-dune-rug-world |  
 | bip_39_word_new_br_1 | easy |  
 | bip_39_word_new_br_10 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot |  
 | bip_39_word_new_br_11 | easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot<br>brown |  
@@ -147,6 +159,18 @@ world |
 | bip_39_word_space_7 | easy quarter this salute course plate dune |  
 | bip_39_word_space_8 | easy quarter this salute course plate dune rug |  
 | bip_39_word_space_9 | easy quarter this salute course plate dune rug world |  
+| bip_39_word_underscore_1 | easy |  
+| bip_39_word_underscore_10 | easy_quarter_this_salute_course_plate_dune_rug_world_slot |  
+| bip_39_word_underscore_11 | easy_quarter_this_salute_course_plate_dune_rug_world_slot_brown |  
+| bip_39_word_underscore_12 | easy_quarter_this_salute_course_plate_dune_rug_world_slot_brown_adult |  
+| bip_39_word_underscore_2 | easy_quarter |  
+| bip_39_word_underscore_3 | easy_quarter_this |  
+| bip_39_word_underscore_4 | easy_quarter_this_salute |  
+| bip_39_word_underscore_5 | easy_quarter_this_salute_course |  
+| bip_39_word_underscore_6 | easy_quarter_this_salute_course_plate |  
+| bip_39_word_underscore_7 | easy_quarter_this_salute_course_plate_dune |  
+| bip_39_word_underscore_8 | easy_quarter_this_salute_course_plate_dune_rug |  
+| bip_39_word_underscore_9 | easy_quarter_this_salute_course_plate_dune_rug_world |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

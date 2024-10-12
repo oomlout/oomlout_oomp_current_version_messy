@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | powder |  
+| bip_39_word_dash_10 | powder-story-taxi-biology-vendor-coffee-crush-hover-life-rule |  
+| bip_39_word_dash_11 | powder-story-taxi-biology-vendor-coffee-crush-hover-life-rule-easily |  
+| bip_39_word_dash_12 | powder-story-taxi-biology-vendor-coffee-crush-hover-life-rule-easily-armor |  
+| bip_39_word_dash_2 | powder-story |  
+| bip_39_word_dash_3 | powder-story-taxi |  
+| bip_39_word_dash_4 | powder-story-taxi-biology |  
+| bip_39_word_dash_5 | powder-story-taxi-biology-vendor |  
+| bip_39_word_dash_6 | powder-story-taxi-biology-vendor-coffee |  
+| bip_39_word_dash_7 | powder-story-taxi-biology-vendor-coffee-crush |  
+| bip_39_word_dash_8 | powder-story-taxi-biology-vendor-coffee-crush-hover |  
+| bip_39_word_dash_9 | powder-story-taxi-biology-vendor-coffee-crush-hover-life |  
 | bip_39_word_new_br_1 | powder |  
 | bip_39_word_new_br_10 | powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover<br>life<br>rule |  
 | bip_39_word_new_br_11 | powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover<br>life<br>rule<br>easily |  
@@ -147,6 +159,18 @@ life |
 | bip_39_word_space_7 | powder story taxi biology vendor coffee crush |  
 | bip_39_word_space_8 | powder story taxi biology vendor coffee crush hover |  
 | bip_39_word_space_9 | powder story taxi biology vendor coffee crush hover life |  
+| bip_39_word_underscore_1 | powder |  
+| bip_39_word_underscore_10 | powder_story_taxi_biology_vendor_coffee_crush_hover_life_rule |  
+| bip_39_word_underscore_11 | powder_story_taxi_biology_vendor_coffee_crush_hover_life_rule_easily |  
+| bip_39_word_underscore_12 | powder_story_taxi_biology_vendor_coffee_crush_hover_life_rule_easily_armor |  
+| bip_39_word_underscore_2 | powder_story |  
+| bip_39_word_underscore_3 | powder_story_taxi |  
+| bip_39_word_underscore_4 | powder_story_taxi_biology |  
+| bip_39_word_underscore_5 | powder_story_taxi_biology_vendor |  
+| bip_39_word_underscore_6 | powder_story_taxi_biology_vendor_coffee |  
+| bip_39_word_underscore_7 | powder_story_taxi_biology_vendor_coffee_crush |  
+| bip_39_word_underscore_8 | powder_story_taxi_biology_vendor_coffee_crush_hover |  
+| bip_39_word_underscore_9 | powder_story_taxi_biology_vendor_coffee_crush_hover_life |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

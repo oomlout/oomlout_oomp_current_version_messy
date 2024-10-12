@@ -1,3 +1,15 @@
+bip_39_word_dash_1: either
+bip_39_word_dash_10: either-until-melody-finger-message-report-provide-lecture-cook-enter
+bip_39_word_dash_11: either-until-melody-finger-message-report-provide-lecture-cook-enter-trouble
+bip_39_word_dash_12: either-until-melody-finger-message-report-provide-lecture-cook-enter-trouble-attract
+bip_39_word_dash_2: either-until
+bip_39_word_dash_3: either-until-melody
+bip_39_word_dash_4: either-until-melody-finger
+bip_39_word_dash_5: either-until-melody-finger-message
+bip_39_word_dash_6: either-until-melody-finger-message-report
+bip_39_word_dash_7: either-until-melody-finger-message-report-provide
+bip_39_word_dash_8: either-until-melody-finger-message-report-provide-lecture
+bip_39_word_dash_9: either-until-melody-finger-message-report-provide-lecture-cook
 bip_39_word_new_br_1: either
 bip_39_word_new_br_10: either<br>until<br>melody<br>finger<br>message<br>report<br>provide<br>lecture<br>cook<br>enter
 bip_39_word_new_br_11: either<br>until<br>melody<br>finger<br>message<br>report<br>provide<br>lecture<br>cook<br>enter<br>trouble
@@ -194,6 +206,18 @@ bip_39_word_space_6: either until melody finger message report
 bip_39_word_space_7: either until melody finger message report provide
 bip_39_word_space_8: either until melody finger message report provide lecture
 bip_39_word_space_9: either until melody finger message report provide lecture cook
+bip_39_word_underscore_1: either
+bip_39_word_underscore_10: either_until_melody_finger_message_report_provide_lecture_cook_enter
+bip_39_word_underscore_11: either_until_melody_finger_message_report_provide_lecture_cook_enter_trouble
+bip_39_word_underscore_12: either_until_melody_finger_message_report_provide_lecture_cook_enter_trouble_attract
+bip_39_word_underscore_2: either_until
+bip_39_word_underscore_3: either_until_melody
+bip_39_word_underscore_4: either_until_melody_finger
+bip_39_word_underscore_5: either_until_melody_finger_message
+bip_39_word_underscore_6: either_until_melody_finger_message_report
+bip_39_word_underscore_7: either_until_melody_finger_message_report_provide
+bip_39_word_underscore_8: either_until_melody_finger_message_report_provide_lecture
+bip_39_word_underscore_9: either_until_melody_finger_message_report_provide_lecture_cook
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

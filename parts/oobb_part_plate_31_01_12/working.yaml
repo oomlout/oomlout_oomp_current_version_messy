@@ -1,3 +1,15 @@
+bip_39_word_dash_1: soon
+bip_39_word_dash_10: soon-crowd-hurt-silk-alarm-exhibit-crumble-guide-flame-crouch
+bip_39_word_dash_11: soon-crowd-hurt-silk-alarm-exhibit-crumble-guide-flame-crouch-mountain
+bip_39_word_dash_12: soon-crowd-hurt-silk-alarm-exhibit-crumble-guide-flame-crouch-mountain-audit
+bip_39_word_dash_2: soon-crowd
+bip_39_word_dash_3: soon-crowd-hurt
+bip_39_word_dash_4: soon-crowd-hurt-silk
+bip_39_word_dash_5: soon-crowd-hurt-silk-alarm
+bip_39_word_dash_6: soon-crowd-hurt-silk-alarm-exhibit
+bip_39_word_dash_7: soon-crowd-hurt-silk-alarm-exhibit-crumble
+bip_39_word_dash_8: soon-crowd-hurt-silk-alarm-exhibit-crumble-guide
+bip_39_word_dash_9: soon-crowd-hurt-silk-alarm-exhibit-crumble-guide-flame
 bip_39_word_new_br_1: soon
 bip_39_word_new_br_10: soon<br>crowd<br>hurt<br>silk<br>alarm<br>exhibit<br>crumble<br>guide<br>flame<br>crouch
 bip_39_word_new_br_11: soon<br>crowd<br>hurt<br>silk<br>alarm<br>exhibit<br>crumble<br>guide<br>flame<br>crouch<br>mountain
@@ -193,6 +205,18 @@ bip_39_word_space_6: soon crowd hurt silk alarm exhibit
 bip_39_word_space_7: soon crowd hurt silk alarm exhibit crumble
 bip_39_word_space_8: soon crowd hurt silk alarm exhibit crumble guide
 bip_39_word_space_9: soon crowd hurt silk alarm exhibit crumble guide flame
+bip_39_word_underscore_1: soon
+bip_39_word_underscore_10: soon_crowd_hurt_silk_alarm_exhibit_crumble_guide_flame_crouch
+bip_39_word_underscore_11: soon_crowd_hurt_silk_alarm_exhibit_crumble_guide_flame_crouch_mountain
+bip_39_word_underscore_12: soon_crowd_hurt_silk_alarm_exhibit_crumble_guide_flame_crouch_mountain_audit
+bip_39_word_underscore_2: soon_crowd
+bip_39_word_underscore_3: soon_crowd_hurt
+bip_39_word_underscore_4: soon_crowd_hurt_silk
+bip_39_word_underscore_5: soon_crowd_hurt_silk_alarm
+bip_39_word_underscore_6: soon_crowd_hurt_silk_alarm_exhibit
+bip_39_word_underscore_7: soon_crowd_hurt_silk_alarm_exhibit_crumble
+bip_39_word_underscore_8: soon_crowd_hurt_silk_alarm_exhibit_crumble_guide
+bip_39_word_underscore_9: soon_crowd_hurt_silk_alarm_exhibit_crumble_guide_flame
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

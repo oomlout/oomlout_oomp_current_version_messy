@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | walk |  
+| bip_39_word_dash_10 | walk-high-crucial-apple-multiply-surge-soon-length-multiply-race |  
+| bip_39_word_dash_11 | walk-high-crucial-apple-multiply-surge-soon-length-multiply-race-laundry |  
+| bip_39_word_dash_12 | walk-high-crucial-apple-multiply-surge-soon-length-multiply-race-laundry-apart |  
+| bip_39_word_dash_2 | walk-high |  
+| bip_39_word_dash_3 | walk-high-crucial |  
+| bip_39_word_dash_4 | walk-high-crucial-apple |  
+| bip_39_word_dash_5 | walk-high-crucial-apple-multiply |  
+| bip_39_word_dash_6 | walk-high-crucial-apple-multiply-surge |  
+| bip_39_word_dash_7 | walk-high-crucial-apple-multiply-surge-soon |  
+| bip_39_word_dash_8 | walk-high-crucial-apple-multiply-surge-soon-length |  
+| bip_39_word_dash_9 | walk-high-crucial-apple-multiply-surge-soon-length-multiply |  
 | bip_39_word_new_br_1 | walk |  
 | bip_39_word_new_br_10 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length<br>multiply<br>race |  
 | bip_39_word_new_br_11 | walk<br>high<br>crucial<br>apple<br>multiply<br>surge<br>soon<br>length<br>multiply<br>race<br>laundry |  
@@ -147,6 +159,18 @@ multiply |
 | bip_39_word_space_7 | walk high crucial apple multiply surge soon |  
 | bip_39_word_space_8 | walk high crucial apple multiply surge soon length |  
 | bip_39_word_space_9 | walk high crucial apple multiply surge soon length multiply |  
+| bip_39_word_underscore_1 | walk |  
+| bip_39_word_underscore_10 | walk_high_crucial_apple_multiply_surge_soon_length_multiply_race |  
+| bip_39_word_underscore_11 | walk_high_crucial_apple_multiply_surge_soon_length_multiply_race_laundry |  
+| bip_39_word_underscore_12 | walk_high_crucial_apple_multiply_surge_soon_length_multiply_race_laundry_apart |  
+| bip_39_word_underscore_2 | walk_high |  
+| bip_39_word_underscore_3 | walk_high_crucial |  
+| bip_39_word_underscore_4 | walk_high_crucial_apple |  
+| bip_39_word_underscore_5 | walk_high_crucial_apple_multiply |  
+| bip_39_word_underscore_6 | walk_high_crucial_apple_multiply_surge |  
+| bip_39_word_underscore_7 | walk_high_crucial_apple_multiply_surge_soon |  
+| bip_39_word_underscore_8 | walk_high_crucial_apple_multiply_surge_soon_length |  
+| bip_39_word_underscore_9 | walk_high_crucial_apple_multiply_surge_soon_length_multiply |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

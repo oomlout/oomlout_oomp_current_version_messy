@@ -1,3 +1,15 @@
+bip_39_word_dash_1: episode
+bip_39_word_dash_10: episode-dinosaur-hunt-sugar-fatal-lens-smile-feel-collect-false
+bip_39_word_dash_11: episode-dinosaur-hunt-sugar-fatal-lens-smile-feel-collect-false-camp
+bip_39_word_dash_12: episode-dinosaur-hunt-sugar-fatal-lens-smile-feel-collect-false-camp-athlete
+bip_39_word_dash_2: episode-dinosaur
+bip_39_word_dash_3: episode-dinosaur-hunt
+bip_39_word_dash_4: episode-dinosaur-hunt-sugar
+bip_39_word_dash_5: episode-dinosaur-hunt-sugar-fatal
+bip_39_word_dash_6: episode-dinosaur-hunt-sugar-fatal-lens
+bip_39_word_dash_7: episode-dinosaur-hunt-sugar-fatal-lens-smile
+bip_39_word_dash_8: episode-dinosaur-hunt-sugar-fatal-lens-smile-feel
+bip_39_word_dash_9: episode-dinosaur-hunt-sugar-fatal-lens-smile-feel-collect
 bip_39_word_new_br_1: episode
 bip_39_word_new_br_10: episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false
 bip_39_word_new_br_11: episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false<br>camp
@@ -193,6 +205,18 @@ bip_39_word_space_6: episode dinosaur hunt sugar fatal lens
 bip_39_word_space_7: episode dinosaur hunt sugar fatal lens smile
 bip_39_word_space_8: episode dinosaur hunt sugar fatal lens smile feel
 bip_39_word_space_9: episode dinosaur hunt sugar fatal lens smile feel collect
+bip_39_word_underscore_1: episode
+bip_39_word_underscore_10: episode_dinosaur_hunt_sugar_fatal_lens_smile_feel_collect_false
+bip_39_word_underscore_11: episode_dinosaur_hunt_sugar_fatal_lens_smile_feel_collect_false_camp
+bip_39_word_underscore_12: episode_dinosaur_hunt_sugar_fatal_lens_smile_feel_collect_false_camp_athlete
+bip_39_word_underscore_2: episode_dinosaur
+bip_39_word_underscore_3: episode_dinosaur_hunt
+bip_39_word_underscore_4: episode_dinosaur_hunt_sugar
+bip_39_word_underscore_5: episode_dinosaur_hunt_sugar_fatal
+bip_39_word_underscore_6: episode_dinosaur_hunt_sugar_fatal_lens
+bip_39_word_underscore_7: episode_dinosaur_hunt_sugar_fatal_lens_smile
+bip_39_word_underscore_8: episode_dinosaur_hunt_sugar_fatal_lens_smile_feel
+bip_39_word_underscore_9: episode_dinosaur_hunt_sugar_fatal_lens_smile_feel_collect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

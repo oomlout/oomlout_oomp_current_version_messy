@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kingdom |  
+| bip_39_word_dash_10 | kingdom-fluid-wheat-tail-click-shiver-toy-fit-pattern-nice |  
+| bip_39_word_dash_11 | kingdom-fluid-wheat-tail-click-shiver-toy-fit-pattern-nice-ranch |  
+| bip_39_word_dash_12 | kingdom-fluid-wheat-tail-click-shiver-toy-fit-pattern-nice-ranch-audit |  
+| bip_39_word_dash_2 | kingdom-fluid |  
+| bip_39_word_dash_3 | kingdom-fluid-wheat |  
+| bip_39_word_dash_4 | kingdom-fluid-wheat-tail |  
+| bip_39_word_dash_5 | kingdom-fluid-wheat-tail-click |  
+| bip_39_word_dash_6 | kingdom-fluid-wheat-tail-click-shiver |  
+| bip_39_word_dash_7 | kingdom-fluid-wheat-tail-click-shiver-toy |  
+| bip_39_word_dash_8 | kingdom-fluid-wheat-tail-click-shiver-toy-fit |  
+| bip_39_word_dash_9 | kingdom-fluid-wheat-tail-click-shiver-toy-fit-pattern |  
 | bip_39_word_new_br_1 | kingdom |  
 | bip_39_word_new_br_10 | kingdom<br>fluid<br>wheat<br>tail<br>click<br>shiver<br>toy<br>fit<br>pattern<br>nice |  
 | bip_39_word_new_br_11 | kingdom<br>fluid<br>wheat<br>tail<br>click<br>shiver<br>toy<br>fit<br>pattern<br>nice<br>ranch |  
@@ -147,6 +159,18 @@ pattern |
 | bip_39_word_space_7 | kingdom fluid wheat tail click shiver toy |  
 | bip_39_word_space_8 | kingdom fluid wheat tail click shiver toy fit |  
 | bip_39_word_space_9 | kingdom fluid wheat tail click shiver toy fit pattern |  
+| bip_39_word_underscore_1 | kingdom |  
+| bip_39_word_underscore_10 | kingdom_fluid_wheat_tail_click_shiver_toy_fit_pattern_nice |  
+| bip_39_word_underscore_11 | kingdom_fluid_wheat_tail_click_shiver_toy_fit_pattern_nice_ranch |  
+| bip_39_word_underscore_12 | kingdom_fluid_wheat_tail_click_shiver_toy_fit_pattern_nice_ranch_audit |  
+| bip_39_word_underscore_2 | kingdom_fluid |  
+| bip_39_word_underscore_3 | kingdom_fluid_wheat |  
+| bip_39_word_underscore_4 | kingdom_fluid_wheat_tail |  
+| bip_39_word_underscore_5 | kingdom_fluid_wheat_tail_click |  
+| bip_39_word_underscore_6 | kingdom_fluid_wheat_tail_click_shiver |  
+| bip_39_word_underscore_7 | kingdom_fluid_wheat_tail_click_shiver_toy |  
+| bip_39_word_underscore_8 | kingdom_fluid_wheat_tail_click_shiver_toy_fit |  
+| bip_39_word_underscore_9 | kingdom_fluid_wheat_tail_click_shiver_toy_fit_pattern |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

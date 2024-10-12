@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tobacco
+bip_39_word_dash_10: tobacco-photo-zero-matrix-visit-pet-deer-maid-employ-lock
+bip_39_word_dash_11: tobacco-photo-zero-matrix-visit-pet-deer-maid-employ-lock-tenant
+bip_39_word_dash_12: tobacco-photo-zero-matrix-visit-pet-deer-maid-employ-lock-tenant-act
+bip_39_word_dash_2: tobacco-photo
+bip_39_word_dash_3: tobacco-photo-zero
+bip_39_word_dash_4: tobacco-photo-zero-matrix
+bip_39_word_dash_5: tobacco-photo-zero-matrix-visit
+bip_39_word_dash_6: tobacco-photo-zero-matrix-visit-pet
+bip_39_word_dash_7: tobacco-photo-zero-matrix-visit-pet-deer
+bip_39_word_dash_8: tobacco-photo-zero-matrix-visit-pet-deer-maid
+bip_39_word_dash_9: tobacco-photo-zero-matrix-visit-pet-deer-maid-employ
 bip_39_word_new_br_1: tobacco
 bip_39_word_new_br_10: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock
 bip_39_word_new_br_11: tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock<br>tenant
@@ -192,6 +204,18 @@ bip_39_word_space_6: tobacco photo zero matrix visit pet
 bip_39_word_space_7: tobacco photo zero matrix visit pet deer
 bip_39_word_space_8: tobacco photo zero matrix visit pet deer maid
 bip_39_word_space_9: tobacco photo zero matrix visit pet deer maid employ
+bip_39_word_underscore_1: tobacco
+bip_39_word_underscore_10: tobacco_photo_zero_matrix_visit_pet_deer_maid_employ_lock
+bip_39_word_underscore_11: tobacco_photo_zero_matrix_visit_pet_deer_maid_employ_lock_tenant
+bip_39_word_underscore_12: tobacco_photo_zero_matrix_visit_pet_deer_maid_employ_lock_tenant_act
+bip_39_word_underscore_2: tobacco_photo
+bip_39_word_underscore_3: tobacco_photo_zero
+bip_39_word_underscore_4: tobacco_photo_zero_matrix
+bip_39_word_underscore_5: tobacco_photo_zero_matrix_visit
+bip_39_word_underscore_6: tobacco_photo_zero_matrix_visit_pet
+bip_39_word_underscore_7: tobacco_photo_zero_matrix_visit_pet_deer
+bip_39_word_underscore_8: tobacco_photo_zero_matrix_visit_pet_deer_maid
+bip_39_word_underscore_9: tobacco_photo_zero_matrix_visit_pet_deer_maid_employ
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

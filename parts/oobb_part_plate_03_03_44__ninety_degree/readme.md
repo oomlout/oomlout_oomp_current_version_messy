@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sphere |  
+| bip_39_word_dash_10 | sphere-exhaust-history-foam-grain-expect-uncle-remain-collect-regular |  
+| bip_39_word_dash_11 | sphere-exhaust-history-foam-grain-expect-uncle-remain-collect-regular-shallow |  
+| bip_39_word_dash_12 | sphere-exhaust-history-foam-grain-expect-uncle-remain-collect-regular-shallow-alone |  
+| bip_39_word_dash_2 | sphere-exhaust |  
+| bip_39_word_dash_3 | sphere-exhaust-history |  
+| bip_39_word_dash_4 | sphere-exhaust-history-foam |  
+| bip_39_word_dash_5 | sphere-exhaust-history-foam-grain |  
+| bip_39_word_dash_6 | sphere-exhaust-history-foam-grain-expect |  
+| bip_39_word_dash_7 | sphere-exhaust-history-foam-grain-expect-uncle |  
+| bip_39_word_dash_8 | sphere-exhaust-history-foam-grain-expect-uncle-remain |  
+| bip_39_word_dash_9 | sphere-exhaust-history-foam-grain-expect-uncle-remain-collect |  
 | bip_39_word_new_br_1 | sphere |  
 | bip_39_word_new_br_10 | sphere<br>exhaust<br>history<br>foam<br>grain<br>expect<br>uncle<br>remain<br>collect<br>regular |  
 | bip_39_word_new_br_11 | sphere<br>exhaust<br>history<br>foam<br>grain<br>expect<br>uncle<br>remain<br>collect<br>regular<br>shallow |  
@@ -147,6 +159,18 @@ collect |
 | bip_39_word_space_7 | sphere exhaust history foam grain expect uncle |  
 | bip_39_word_space_8 | sphere exhaust history foam grain expect uncle remain |  
 | bip_39_word_space_9 | sphere exhaust history foam grain expect uncle remain collect |  
+| bip_39_word_underscore_1 | sphere |  
+| bip_39_word_underscore_10 | sphere_exhaust_history_foam_grain_expect_uncle_remain_collect_regular |  
+| bip_39_word_underscore_11 | sphere_exhaust_history_foam_grain_expect_uncle_remain_collect_regular_shallow |  
+| bip_39_word_underscore_12 | sphere_exhaust_history_foam_grain_expect_uncle_remain_collect_regular_shallow_alone |  
+| bip_39_word_underscore_2 | sphere_exhaust |  
+| bip_39_word_underscore_3 | sphere_exhaust_history |  
+| bip_39_word_underscore_4 | sphere_exhaust_history_foam |  
+| bip_39_word_underscore_5 | sphere_exhaust_history_foam_grain |  
+| bip_39_word_underscore_6 | sphere_exhaust_history_foam_grain_expect |  
+| bip_39_word_underscore_7 | sphere_exhaust_history_foam_grain_expect_uncle |  
+| bip_39_word_underscore_8 | sphere_exhaust_history_foam_grain_expect_uncle_remain |  
+| bip_39_word_underscore_9 | sphere_exhaust_history_foam_grain_expect_uncle_remain_collect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

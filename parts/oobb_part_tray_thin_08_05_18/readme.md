@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | today |  
+| bip_39_word_dash_10 | today-dance-agree-glimpse-ice-dentist-rule-fury-possible-group |  
+| bip_39_word_dash_11 | today-dance-agree-glimpse-ice-dentist-rule-fury-possible-group-fossil |  
+| bip_39_word_dash_12 | today-dance-agree-glimpse-ice-dentist-rule-fury-possible-group-fossil-addict |  
+| bip_39_word_dash_2 | today-dance |  
+| bip_39_word_dash_3 | today-dance-agree |  
+| bip_39_word_dash_4 | today-dance-agree-glimpse |  
+| bip_39_word_dash_5 | today-dance-agree-glimpse-ice |  
+| bip_39_word_dash_6 | today-dance-agree-glimpse-ice-dentist |  
+| bip_39_word_dash_7 | today-dance-agree-glimpse-ice-dentist-rule |  
+| bip_39_word_dash_8 | today-dance-agree-glimpse-ice-dentist-rule-fury |  
+| bip_39_word_dash_9 | today-dance-agree-glimpse-ice-dentist-rule-fury-possible |  
 | bip_39_word_new_br_1 | today |  
 | bip_39_word_new_br_10 | today<br>dance<br>agree<br>glimpse<br>ice<br>dentist<br>rule<br>fury<br>possible<br>group |  
 | bip_39_word_new_br_11 | today<br>dance<br>agree<br>glimpse<br>ice<br>dentist<br>rule<br>fury<br>possible<br>group<br>fossil |  
@@ -147,6 +159,18 @@ possible |
 | bip_39_word_space_7 | today dance agree glimpse ice dentist rule |  
 | bip_39_word_space_8 | today dance agree glimpse ice dentist rule fury |  
 | bip_39_word_space_9 | today dance agree glimpse ice dentist rule fury possible |  
+| bip_39_word_underscore_1 | today |  
+| bip_39_word_underscore_10 | today_dance_agree_glimpse_ice_dentist_rule_fury_possible_group |  
+| bip_39_word_underscore_11 | today_dance_agree_glimpse_ice_dentist_rule_fury_possible_group_fossil |  
+| bip_39_word_underscore_12 | today_dance_agree_glimpse_ice_dentist_rule_fury_possible_group_fossil_addict |  
+| bip_39_word_underscore_2 | today_dance |  
+| bip_39_word_underscore_3 | today_dance_agree |  
+| bip_39_word_underscore_4 | today_dance_agree_glimpse |  
+| bip_39_word_underscore_5 | today_dance_agree_glimpse_ice |  
+| bip_39_word_underscore_6 | today_dance_agree_glimpse_ice_dentist |  
+| bip_39_word_underscore_7 | today_dance_agree_glimpse_ice_dentist_rule |  
+| bip_39_word_underscore_8 | today_dance_agree_glimpse_ice_dentist_rule_fury |  
+| bip_39_word_underscore_9 | today_dance_agree_glimpse_ice_dentist_rule_fury_possible |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

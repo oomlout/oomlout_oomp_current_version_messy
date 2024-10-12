@@ -1,3 +1,15 @@
+bip_39_word_dash_1: general
+bip_39_word_dash_10: general-traffic-crunch-treat-text-sample-battle-other-coconut-dilemma
+bip_39_word_dash_11: general-traffic-crunch-treat-text-sample-battle-other-coconut-dilemma-syrup
+bip_39_word_dash_12: general-traffic-crunch-treat-text-sample-battle-other-coconut-dilemma-syrup-avocado
+bip_39_word_dash_2: general-traffic
+bip_39_word_dash_3: general-traffic-crunch
+bip_39_word_dash_4: general-traffic-crunch-treat
+bip_39_word_dash_5: general-traffic-crunch-treat-text
+bip_39_word_dash_6: general-traffic-crunch-treat-text-sample
+bip_39_word_dash_7: general-traffic-crunch-treat-text-sample-battle
+bip_39_word_dash_8: general-traffic-crunch-treat-text-sample-battle-other
+bip_39_word_dash_9: general-traffic-crunch-treat-text-sample-battle-other-coconut
 bip_39_word_new_br_1: general
 bip_39_word_new_br_10: general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other<br>coconut<br>dilemma
 bip_39_word_new_br_11: general<br>traffic<br>crunch<br>treat<br>text<br>sample<br>battle<br>other<br>coconut<br>dilemma<br>syrup
@@ -194,6 +206,18 @@ bip_39_word_space_6: general traffic crunch treat text sample
 bip_39_word_space_7: general traffic crunch treat text sample battle
 bip_39_word_space_8: general traffic crunch treat text sample battle other
 bip_39_word_space_9: general traffic crunch treat text sample battle other coconut
+bip_39_word_underscore_1: general
+bip_39_word_underscore_10: general_traffic_crunch_treat_text_sample_battle_other_coconut_dilemma
+bip_39_word_underscore_11: general_traffic_crunch_treat_text_sample_battle_other_coconut_dilemma_syrup
+bip_39_word_underscore_12: general_traffic_crunch_treat_text_sample_battle_other_coconut_dilemma_syrup_avocado
+bip_39_word_underscore_2: general_traffic
+bip_39_word_underscore_3: general_traffic_crunch
+bip_39_word_underscore_4: general_traffic_crunch_treat
+bip_39_word_underscore_5: general_traffic_crunch_treat_text
+bip_39_word_underscore_6: general_traffic_crunch_treat_text_sample
+bip_39_word_underscore_7: general_traffic_crunch_treat_text_sample_battle
+bip_39_word_underscore_8: general_traffic_crunch_treat_text_sample_battle_other
+bip_39_word_underscore_9: general_traffic_crunch_treat_text_sample_battle_other_coconut
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

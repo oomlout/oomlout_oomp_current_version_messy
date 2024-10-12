@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | abstract |  
+| bip_39_word_dash_10 | abstract-end-book-alert-better-sting-resemble-imitate-lens-grape |  
+| bip_39_word_dash_11 | abstract-end-book-alert-better-sting-resemble-imitate-lens-grape-enroll |  
+| bip_39_word_dash_12 | abstract-end-book-alert-better-sting-resemble-imitate-lens-grape-enroll-argue |  
+| bip_39_word_dash_2 | abstract-end |  
+| bip_39_word_dash_3 | abstract-end-book |  
+| bip_39_word_dash_4 | abstract-end-book-alert |  
+| bip_39_word_dash_5 | abstract-end-book-alert-better |  
+| bip_39_word_dash_6 | abstract-end-book-alert-better-sting |  
+| bip_39_word_dash_7 | abstract-end-book-alert-better-sting-resemble |  
+| bip_39_word_dash_8 | abstract-end-book-alert-better-sting-resemble-imitate |  
+| bip_39_word_dash_9 | abstract-end-book-alert-better-sting-resemble-imitate-lens |  
 | bip_39_word_new_br_1 | abstract |  
 | bip_39_word_new_br_10 | abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate<br>lens<br>grape |  
 | bip_39_word_new_br_11 | abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate<br>lens<br>grape<br>enroll |  
@@ -147,6 +159,18 @@ lens |
 | bip_39_word_space_7 | abstract end book alert better sting resemble |  
 | bip_39_word_space_8 | abstract end book alert better sting resemble imitate |  
 | bip_39_word_space_9 | abstract end book alert better sting resemble imitate lens |  
+| bip_39_word_underscore_1 | abstract |  
+| bip_39_word_underscore_10 | abstract_end_book_alert_better_sting_resemble_imitate_lens_grape |  
+| bip_39_word_underscore_11 | abstract_end_book_alert_better_sting_resemble_imitate_lens_grape_enroll |  
+| bip_39_word_underscore_12 | abstract_end_book_alert_better_sting_resemble_imitate_lens_grape_enroll_argue |  
+| bip_39_word_underscore_2 | abstract_end |  
+| bip_39_word_underscore_3 | abstract_end_book |  
+| bip_39_word_underscore_4 | abstract_end_book_alert |  
+| bip_39_word_underscore_5 | abstract_end_book_alert_better |  
+| bip_39_word_underscore_6 | abstract_end_book_alert_better_sting |  
+| bip_39_word_underscore_7 | abstract_end_book_alert_better_sting_resemble |  
+| bip_39_word_underscore_8 | abstract_end_book_alert_better_sting_resemble_imitate |  
+| bip_39_word_underscore_9 | abstract_end_book_alert_better_sting_resemble_imitate_lens |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

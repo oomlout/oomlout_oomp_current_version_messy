@@ -1,3 +1,15 @@
+bip_39_word_dash_1: business
+bip_39_word_dash_10: business-stone-same-couple-man-alone-bring-course-chase-hope
+bip_39_word_dash_11: business-stone-same-couple-man-alone-bring-course-chase-hope-plug
+bip_39_word_dash_12: business-stone-same-couple-man-alone-bring-course-chase-hope-plug-album
+bip_39_word_dash_2: business-stone
+bip_39_word_dash_3: business-stone-same
+bip_39_word_dash_4: business-stone-same-couple
+bip_39_word_dash_5: business-stone-same-couple-man
+bip_39_word_dash_6: business-stone-same-couple-man-alone
+bip_39_word_dash_7: business-stone-same-couple-man-alone-bring
+bip_39_word_dash_8: business-stone-same-couple-man-alone-bring-course
+bip_39_word_dash_9: business-stone-same-couple-man-alone-bring-course-chase
 bip_39_word_new_br_1: business
 bip_39_word_new_br_10: business<br>stone<br>same<br>couple<br>man<br>alone<br>bring<br>course<br>chase<br>hope
 bip_39_word_new_br_11: business<br>stone<br>same<br>couple<br>man<br>alone<br>bring<br>course<br>chase<br>hope<br>plug
@@ -193,6 +205,18 @@ bip_39_word_space_6: business stone same couple man alone
 bip_39_word_space_7: business stone same couple man alone bring
 bip_39_word_space_8: business stone same couple man alone bring course
 bip_39_word_space_9: business stone same couple man alone bring course chase
+bip_39_word_underscore_1: business
+bip_39_word_underscore_10: business_stone_same_couple_man_alone_bring_course_chase_hope
+bip_39_word_underscore_11: business_stone_same_couple_man_alone_bring_course_chase_hope_plug
+bip_39_word_underscore_12: business_stone_same_couple_man_alone_bring_course_chase_hope_plug_album
+bip_39_word_underscore_2: business_stone
+bip_39_word_underscore_3: business_stone_same
+bip_39_word_underscore_4: business_stone_same_couple
+bip_39_word_underscore_5: business_stone_same_couple_man
+bip_39_word_underscore_6: business_stone_same_couple_man_alone
+bip_39_word_underscore_7: business_stone_same_couple_man_alone_bring
+bip_39_word_underscore_8: business_stone_same_couple_man_alone_bring_course
+bip_39_word_underscore_9: business_stone_same_couple_man_alone_bring_course_chase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | purchase |  
+| bip_39_word_dash_10 | purchase-gaze-viable-common-very-coconut-april-basket-news-tooth |  
+| bip_39_word_dash_11 | purchase-gaze-viable-common-very-coconut-april-basket-news-tooth-debate |  
+| bip_39_word_dash_12 | purchase-gaze-viable-common-very-coconut-april-basket-news-tooth-debate-april |  
+| bip_39_word_dash_2 | purchase-gaze |  
+| bip_39_word_dash_3 | purchase-gaze-viable |  
+| bip_39_word_dash_4 | purchase-gaze-viable-common |  
+| bip_39_word_dash_5 | purchase-gaze-viable-common-very |  
+| bip_39_word_dash_6 | purchase-gaze-viable-common-very-coconut |  
+| bip_39_word_dash_7 | purchase-gaze-viable-common-very-coconut-april |  
+| bip_39_word_dash_8 | purchase-gaze-viable-common-very-coconut-april-basket |  
+| bip_39_word_dash_9 | purchase-gaze-viable-common-very-coconut-april-basket-news |  
 | bip_39_word_new_br_1 | purchase |  
 | bip_39_word_new_br_10 | purchase<br>gaze<br>viable<br>common<br>very<br>coconut<br>april<br>basket<br>news<br>tooth |  
 | bip_39_word_new_br_11 | purchase<br>gaze<br>viable<br>common<br>very<br>coconut<br>april<br>basket<br>news<br>tooth<br>debate |  
@@ -147,6 +159,18 @@ news |
 | bip_39_word_space_7 | purchase gaze viable common very coconut april |  
 | bip_39_word_space_8 | purchase gaze viable common very coconut april basket |  
 | bip_39_word_space_9 | purchase gaze viable common very coconut april basket news |  
+| bip_39_word_underscore_1 | purchase |  
+| bip_39_word_underscore_10 | purchase_gaze_viable_common_very_coconut_april_basket_news_tooth |  
+| bip_39_word_underscore_11 | purchase_gaze_viable_common_very_coconut_april_basket_news_tooth_debate |  
+| bip_39_word_underscore_12 | purchase_gaze_viable_common_very_coconut_april_basket_news_tooth_debate_april |  
+| bip_39_word_underscore_2 | purchase_gaze |  
+| bip_39_word_underscore_3 | purchase_gaze_viable |  
+| bip_39_word_underscore_4 | purchase_gaze_viable_common |  
+| bip_39_word_underscore_5 | purchase_gaze_viable_common_very |  
+| bip_39_word_underscore_6 | purchase_gaze_viable_common_very_coconut |  
+| bip_39_word_underscore_7 | purchase_gaze_viable_common_very_coconut_april |  
+| bip_39_word_underscore_8 | purchase_gaze_viable_common_very_coconut_april_basket |  
+| bip_39_word_underscore_9 | purchase_gaze_viable_common_very_coconut_april_basket_news |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: buyer
+bip_39_word_dash_10: buyer-pencil-orange-usual-pudding-catch-suffer-general-black-symptom
+bip_39_word_dash_11: buyer-pencil-orange-usual-pudding-catch-suffer-general-black-symptom-find
+bip_39_word_dash_12: buyer-pencil-orange-usual-pudding-catch-suffer-general-black-symptom-find-ancient
+bip_39_word_dash_2: buyer-pencil
+bip_39_word_dash_3: buyer-pencil-orange
+bip_39_word_dash_4: buyer-pencil-orange-usual
+bip_39_word_dash_5: buyer-pencil-orange-usual-pudding
+bip_39_word_dash_6: buyer-pencil-orange-usual-pudding-catch
+bip_39_word_dash_7: buyer-pencil-orange-usual-pudding-catch-suffer
+bip_39_word_dash_8: buyer-pencil-orange-usual-pudding-catch-suffer-general
+bip_39_word_dash_9: buyer-pencil-orange-usual-pudding-catch-suffer-general-black
 bip_39_word_new_br_1: buyer
 bip_39_word_new_br_10: buyer<br>pencil<br>orange<br>usual<br>pudding<br>catch<br>suffer<br>general<br>black<br>symptom
 bip_39_word_new_br_11: buyer<br>pencil<br>orange<br>usual<br>pudding<br>catch<br>suffer<br>general<br>black<br>symptom<br>find
@@ -194,6 +206,18 @@ bip_39_word_space_6: buyer pencil orange usual pudding catch
 bip_39_word_space_7: buyer pencil orange usual pudding catch suffer
 bip_39_word_space_8: buyer pencil orange usual pudding catch suffer general
 bip_39_word_space_9: buyer pencil orange usual pudding catch suffer general black
+bip_39_word_underscore_1: buyer
+bip_39_word_underscore_10: buyer_pencil_orange_usual_pudding_catch_suffer_general_black_symptom
+bip_39_word_underscore_11: buyer_pencil_orange_usual_pudding_catch_suffer_general_black_symptom_find
+bip_39_word_underscore_12: buyer_pencil_orange_usual_pudding_catch_suffer_general_black_symptom_find_ancient
+bip_39_word_underscore_2: buyer_pencil
+bip_39_word_underscore_3: buyer_pencil_orange
+bip_39_word_underscore_4: buyer_pencil_orange_usual
+bip_39_word_underscore_5: buyer_pencil_orange_usual_pudding
+bip_39_word_underscore_6: buyer_pencil_orange_usual_pudding_catch
+bip_39_word_underscore_7: buyer_pencil_orange_usual_pudding_catch_suffer
+bip_39_word_underscore_8: buyer_pencil_orange_usual_pudding_catch_suffer_general
+bip_39_word_underscore_9: buyer_pencil_orange_usual_pudding_catch_suffer_general_black
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

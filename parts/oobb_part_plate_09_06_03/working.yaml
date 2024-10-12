@@ -1,3 +1,15 @@
+bip_39_word_dash_1: marriage
+bip_39_word_dash_10: marriage-public-skate-blast-false-nominee-teach-inner-sad-crumble
+bip_39_word_dash_11: marriage-public-skate-blast-false-nominee-teach-inner-sad-crumble-govern
+bip_39_word_dash_12: marriage-public-skate-blast-false-nominee-teach-inner-sad-crumble-govern-alarm
+bip_39_word_dash_2: marriage-public
+bip_39_word_dash_3: marriage-public-skate
+bip_39_word_dash_4: marriage-public-skate-blast
+bip_39_word_dash_5: marriage-public-skate-blast-false
+bip_39_word_dash_6: marriage-public-skate-blast-false-nominee
+bip_39_word_dash_7: marriage-public-skate-blast-false-nominee-teach
+bip_39_word_dash_8: marriage-public-skate-blast-false-nominee-teach-inner
+bip_39_word_dash_9: marriage-public-skate-blast-false-nominee-teach-inner-sad
 bip_39_word_new_br_1: marriage
 bip_39_word_new_br_10: marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner<br>sad<br>crumble
 bip_39_word_new_br_11: marriage<br>public<br>skate<br>blast<br>false<br>nominee<br>teach<br>inner<br>sad<br>crumble<br>govern
@@ -193,6 +205,18 @@ bip_39_word_space_6: marriage public skate blast false nominee
 bip_39_word_space_7: marriage public skate blast false nominee teach
 bip_39_word_space_8: marriage public skate blast false nominee teach inner
 bip_39_word_space_9: marriage public skate blast false nominee teach inner sad
+bip_39_word_underscore_1: marriage
+bip_39_word_underscore_10: marriage_public_skate_blast_false_nominee_teach_inner_sad_crumble
+bip_39_word_underscore_11: marriage_public_skate_blast_false_nominee_teach_inner_sad_crumble_govern
+bip_39_word_underscore_12: marriage_public_skate_blast_false_nominee_teach_inner_sad_crumble_govern_alarm
+bip_39_word_underscore_2: marriage_public
+bip_39_word_underscore_3: marriage_public_skate
+bip_39_word_underscore_4: marriage_public_skate_blast
+bip_39_word_underscore_5: marriage_public_skate_blast_false
+bip_39_word_underscore_6: marriage_public_skate_blast_false_nominee
+bip_39_word_underscore_7: marriage_public_skate_blast_false_nominee_teach
+bip_39_word_underscore_8: marriage_public_skate_blast_false_nominee_teach_inner
+bip_39_word_underscore_9: marriage_public_skate_blast_false_nominee_teach_inner_sad
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

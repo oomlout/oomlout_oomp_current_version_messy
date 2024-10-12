@@ -1,3 +1,15 @@
+bip_39_word_dash_1: process
+bip_39_word_dash_10: process-cry-possible-beauty-neglect-awkward-twin-march-rib-blue
+bip_39_word_dash_11: process-cry-possible-beauty-neglect-awkward-twin-march-rib-blue-flight
+bip_39_word_dash_12: process-cry-possible-beauty-neglect-awkward-twin-march-rib-blue-flight-another
+bip_39_word_dash_2: process-cry
+bip_39_word_dash_3: process-cry-possible
+bip_39_word_dash_4: process-cry-possible-beauty
+bip_39_word_dash_5: process-cry-possible-beauty-neglect
+bip_39_word_dash_6: process-cry-possible-beauty-neglect-awkward
+bip_39_word_dash_7: process-cry-possible-beauty-neglect-awkward-twin
+bip_39_word_dash_8: process-cry-possible-beauty-neglect-awkward-twin-march
+bip_39_word_dash_9: process-cry-possible-beauty-neglect-awkward-twin-march-rib
 bip_39_word_new_br_1: process
 bip_39_word_new_br_10: process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue
 bip_39_word_new_br_11: process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue<br>flight
@@ -193,6 +205,18 @@ bip_39_word_space_6: process cry possible beauty neglect awkward
 bip_39_word_space_7: process cry possible beauty neglect awkward twin
 bip_39_word_space_8: process cry possible beauty neglect awkward twin march
 bip_39_word_space_9: process cry possible beauty neglect awkward twin march rib
+bip_39_word_underscore_1: process
+bip_39_word_underscore_10: process_cry_possible_beauty_neglect_awkward_twin_march_rib_blue
+bip_39_word_underscore_11: process_cry_possible_beauty_neglect_awkward_twin_march_rib_blue_flight
+bip_39_word_underscore_12: process_cry_possible_beauty_neglect_awkward_twin_march_rib_blue_flight_another
+bip_39_word_underscore_2: process_cry
+bip_39_word_underscore_3: process_cry_possible
+bip_39_word_underscore_4: process_cry_possible_beauty
+bip_39_word_underscore_5: process_cry_possible_beauty_neglect
+bip_39_word_underscore_6: process_cry_possible_beauty_neglect_awkward
+bip_39_word_underscore_7: process_cry_possible_beauty_neglect_awkward_twin
+bip_39_word_underscore_8: process_cry_possible_beauty_neglect_awkward_twin_march
+bip_39_word_underscore_9: process_cry_possible_beauty_neglect_awkward_twin_march_rib
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

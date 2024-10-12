@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vocal |  
+| bip_39_word_dash_10 | vocal-member-minute-quiz-jacket-tree-ocean-divorce-engine-glad |  
+| bip_39_word_dash_11 | vocal-member-minute-quiz-jacket-tree-ocean-divorce-engine-glad-photo |  
+| bip_39_word_dash_12 | vocal-member-minute-quiz-jacket-tree-ocean-divorce-engine-glad-photo-able |  
+| bip_39_word_dash_2 | vocal-member |  
+| bip_39_word_dash_3 | vocal-member-minute |  
+| bip_39_word_dash_4 | vocal-member-minute-quiz |  
+| bip_39_word_dash_5 | vocal-member-minute-quiz-jacket |  
+| bip_39_word_dash_6 | vocal-member-minute-quiz-jacket-tree |  
+| bip_39_word_dash_7 | vocal-member-minute-quiz-jacket-tree-ocean |  
+| bip_39_word_dash_8 | vocal-member-minute-quiz-jacket-tree-ocean-divorce |  
+| bip_39_word_dash_9 | vocal-member-minute-quiz-jacket-tree-ocean-divorce-engine |  
 | bip_39_word_new_br_1 | vocal |  
 | bip_39_word_new_br_10 | vocal<br>member<br>minute<br>quiz<br>jacket<br>tree<br>ocean<br>divorce<br>engine<br>glad |  
 | bip_39_word_new_br_11 | vocal<br>member<br>minute<br>quiz<br>jacket<br>tree<br>ocean<br>divorce<br>engine<br>glad<br>photo |  
@@ -147,6 +159,18 @@ engine |
 | bip_39_word_space_7 | vocal member minute quiz jacket tree ocean |  
 | bip_39_word_space_8 | vocal member minute quiz jacket tree ocean divorce |  
 | bip_39_word_space_9 | vocal member minute quiz jacket tree ocean divorce engine |  
+| bip_39_word_underscore_1 | vocal |  
+| bip_39_word_underscore_10 | vocal_member_minute_quiz_jacket_tree_ocean_divorce_engine_glad |  
+| bip_39_word_underscore_11 | vocal_member_minute_quiz_jacket_tree_ocean_divorce_engine_glad_photo |  
+| bip_39_word_underscore_12 | vocal_member_minute_quiz_jacket_tree_ocean_divorce_engine_glad_photo_able |  
+| bip_39_word_underscore_2 | vocal_member |  
+| bip_39_word_underscore_3 | vocal_member_minute |  
+| bip_39_word_underscore_4 | vocal_member_minute_quiz |  
+| bip_39_word_underscore_5 | vocal_member_minute_quiz_jacket |  
+| bip_39_word_underscore_6 | vocal_member_minute_quiz_jacket_tree |  
+| bip_39_word_underscore_7 | vocal_member_minute_quiz_jacket_tree_ocean |  
+| bip_39_word_underscore_8 | vocal_member_minute_quiz_jacket_tree_ocean_divorce |  
+| bip_39_word_underscore_9 | vocal_member_minute_quiz_jacket_tree_ocean_divorce_engine |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

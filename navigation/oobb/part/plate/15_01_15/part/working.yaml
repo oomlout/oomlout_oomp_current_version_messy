@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clog
+bip_39_word_dash_10: clog-farm-fall-message-beach-turkey-august-audit-describe-rack
+bip_39_word_dash_11: clog-farm-fall-message-beach-turkey-august-audit-describe-rack-index
+bip_39_word_dash_12: clog-farm-fall-message-beach-turkey-august-audit-describe-rack-index-august
+bip_39_word_dash_2: clog-farm
+bip_39_word_dash_3: clog-farm-fall
+bip_39_word_dash_4: clog-farm-fall-message
+bip_39_word_dash_5: clog-farm-fall-message-beach
+bip_39_word_dash_6: clog-farm-fall-message-beach-turkey
+bip_39_word_dash_7: clog-farm-fall-message-beach-turkey-august
+bip_39_word_dash_8: clog-farm-fall-message-beach-turkey-august-audit
+bip_39_word_dash_9: clog-farm-fall-message-beach-turkey-august-audit-describe
 bip_39_word_new_br_1: clog
 bip_39_word_new_br_10: clog<br>farm<br>fall<br>message<br>beach<br>turkey<br>august<br>audit<br>describe<br>rack
 bip_39_word_new_br_11: clog<br>farm<br>fall<br>message<br>beach<br>turkey<br>august<br>audit<br>describe<br>rack<br>index
@@ -193,6 +205,18 @@ bip_39_word_space_6: clog farm fall message beach turkey
 bip_39_word_space_7: clog farm fall message beach turkey august
 bip_39_word_space_8: clog farm fall message beach turkey august audit
 bip_39_word_space_9: clog farm fall message beach turkey august audit describe
+bip_39_word_underscore_1: clog
+bip_39_word_underscore_10: clog_farm_fall_message_beach_turkey_august_audit_describe_rack
+bip_39_word_underscore_11: clog_farm_fall_message_beach_turkey_august_audit_describe_rack_index
+bip_39_word_underscore_12: clog_farm_fall_message_beach_turkey_august_audit_describe_rack_index_august
+bip_39_word_underscore_2: clog_farm
+bip_39_word_underscore_3: clog_farm_fall
+bip_39_word_underscore_4: clog_farm_fall_message
+bip_39_word_underscore_5: clog_farm_fall_message_beach
+bip_39_word_underscore_6: clog_farm_fall_message_beach_turkey
+bip_39_word_underscore_7: clog_farm_fall_message_beach_turkey_august
+bip_39_word_underscore_8: clog_farm_fall_message_beach_turkey_august_audit
+bip_39_word_underscore_9: clog_farm_fall_message_beach_turkey_august_audit_describe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

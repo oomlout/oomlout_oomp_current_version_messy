@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lava
+bip_39_word_dash_10: lava-verb-dilemma-lift-gown-oven-escape-fire-resist-myth
+bip_39_word_dash_11: lava-verb-dilemma-lift-gown-oven-escape-fire-resist-myth-into
+bip_39_word_dash_12: lava-verb-dilemma-lift-gown-oven-escape-fire-resist-myth-into-always
+bip_39_word_dash_2: lava-verb
+bip_39_word_dash_3: lava-verb-dilemma
+bip_39_word_dash_4: lava-verb-dilemma-lift
+bip_39_word_dash_5: lava-verb-dilemma-lift-gown
+bip_39_word_dash_6: lava-verb-dilemma-lift-gown-oven
+bip_39_word_dash_7: lava-verb-dilemma-lift-gown-oven-escape
+bip_39_word_dash_8: lava-verb-dilemma-lift-gown-oven-escape-fire
+bip_39_word_dash_9: lava-verb-dilemma-lift-gown-oven-escape-fire-resist
 bip_39_word_new_br_1: lava
 bip_39_word_new_br_10: lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire<br>resist<br>myth
 bip_39_word_new_br_11: lava<br>verb<br>dilemma<br>lift<br>gown<br>oven<br>escape<br>fire<br>resist<br>myth<br>into
@@ -192,6 +204,18 @@ bip_39_word_space_6: lava verb dilemma lift gown oven
 bip_39_word_space_7: lava verb dilemma lift gown oven escape
 bip_39_word_space_8: lava verb dilemma lift gown oven escape fire
 bip_39_word_space_9: lava verb dilemma lift gown oven escape fire resist
+bip_39_word_underscore_1: lava
+bip_39_word_underscore_10: lava_verb_dilemma_lift_gown_oven_escape_fire_resist_myth
+bip_39_word_underscore_11: lava_verb_dilemma_lift_gown_oven_escape_fire_resist_myth_into
+bip_39_word_underscore_12: lava_verb_dilemma_lift_gown_oven_escape_fire_resist_myth_into_always
+bip_39_word_underscore_2: lava_verb
+bip_39_word_underscore_3: lava_verb_dilemma
+bip_39_word_underscore_4: lava_verb_dilemma_lift
+bip_39_word_underscore_5: lava_verb_dilemma_lift_gown
+bip_39_word_underscore_6: lava_verb_dilemma_lift_gown_oven
+bip_39_word_underscore_7: lava_verb_dilemma_lift_gown_oven_escape
+bip_39_word_underscore_8: lava_verb_dilemma_lift_gown_oven_escape_fire
+bip_39_word_underscore_9: lava_verb_dilemma_lift_gown_oven_escape_fire_resist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

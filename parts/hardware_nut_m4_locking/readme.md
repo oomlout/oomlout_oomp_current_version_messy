@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | employ |  
+| bip_39_word_dash_10 | employ-mistake-join-forward-lounge-student-elbow-sausage-human-pipe |  
+| bip_39_word_dash_11 | employ-mistake-join-forward-lounge-student-elbow-sausage-human-pipe-monster |  
+| bip_39_word_dash_12 | employ-mistake-join-forward-lounge-student-elbow-sausage-human-pipe-monster-advance |  
+| bip_39_word_dash_2 | employ-mistake |  
+| bip_39_word_dash_3 | employ-mistake-join |  
+| bip_39_word_dash_4 | employ-mistake-join-forward |  
+| bip_39_word_dash_5 | employ-mistake-join-forward-lounge |  
+| bip_39_word_dash_6 | employ-mistake-join-forward-lounge-student |  
+| bip_39_word_dash_7 | employ-mistake-join-forward-lounge-student-elbow |  
+| bip_39_word_dash_8 | employ-mistake-join-forward-lounge-student-elbow-sausage |  
+| bip_39_word_dash_9 | employ-mistake-join-forward-lounge-student-elbow-sausage-human |  
 | bip_39_word_new_br_1 | employ |  
 | bip_39_word_new_br_10 | employ<br>mistake<br>join<br>forward<br>lounge<br>student<br>elbow<br>sausage<br>human<br>pipe |  
 | bip_39_word_new_br_11 | employ<br>mistake<br>join<br>forward<br>lounge<br>student<br>elbow<br>sausage<br>human<br>pipe<br>monster |  
@@ -147,6 +159,18 @@ human |
 | bip_39_word_space_7 | employ mistake join forward lounge student elbow |  
 | bip_39_word_space_8 | employ mistake join forward lounge student elbow sausage |  
 | bip_39_word_space_9 | employ mistake join forward lounge student elbow sausage human |  
+| bip_39_word_underscore_1 | employ |  
+| bip_39_word_underscore_10 | employ_mistake_join_forward_lounge_student_elbow_sausage_human_pipe |  
+| bip_39_word_underscore_11 | employ_mistake_join_forward_lounge_student_elbow_sausage_human_pipe_monster |  
+| bip_39_word_underscore_12 | employ_mistake_join_forward_lounge_student_elbow_sausage_human_pipe_monster_advance |  
+| bip_39_word_underscore_2 | employ_mistake |  
+| bip_39_word_underscore_3 | employ_mistake_join |  
+| bip_39_word_underscore_4 | employ_mistake_join_forward |  
+| bip_39_word_underscore_5 | employ_mistake_join_forward_lounge |  
+| bip_39_word_underscore_6 | employ_mistake_join_forward_lounge_student |  
+| bip_39_word_underscore_7 | employ_mistake_join_forward_lounge_student_elbow |  
+| bip_39_word_underscore_8 | employ_mistake_join_forward_lounge_student_elbow_sausage |  
+| bip_39_word_underscore_9 | employ_mistake_join_forward_lounge_student_elbow_sausage_human |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

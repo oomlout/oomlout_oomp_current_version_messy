@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slender |  
+| bip_39_word_dash_10 | slender-orchard-humor-bicycle-dawn-knock-model-swamp-sand-hazard |  
+| bip_39_word_dash_11 | slender-orchard-humor-bicycle-dawn-knock-model-swamp-sand-hazard-essay |  
+| bip_39_word_dash_12 | slender-orchard-humor-bicycle-dawn-knock-model-swamp-sand-hazard-essay-afraid |  
+| bip_39_word_dash_2 | slender-orchard |  
+| bip_39_word_dash_3 | slender-orchard-humor |  
+| bip_39_word_dash_4 | slender-orchard-humor-bicycle |  
+| bip_39_word_dash_5 | slender-orchard-humor-bicycle-dawn |  
+| bip_39_word_dash_6 | slender-orchard-humor-bicycle-dawn-knock |  
+| bip_39_word_dash_7 | slender-orchard-humor-bicycle-dawn-knock-model |  
+| bip_39_word_dash_8 | slender-orchard-humor-bicycle-dawn-knock-model-swamp |  
+| bip_39_word_dash_9 | slender-orchard-humor-bicycle-dawn-knock-model-swamp-sand |  
 | bip_39_word_new_br_1 | slender |  
 | bip_39_word_new_br_10 | slender<br>orchard<br>humor<br>bicycle<br>dawn<br>knock<br>model<br>swamp<br>sand<br>hazard |  
 | bip_39_word_new_br_11 | slender<br>orchard<br>humor<br>bicycle<br>dawn<br>knock<br>model<br>swamp<br>sand<br>hazard<br>essay |  
@@ -147,6 +159,18 @@ sand |
 | bip_39_word_space_7 | slender orchard humor bicycle dawn knock model |  
 | bip_39_word_space_8 | slender orchard humor bicycle dawn knock model swamp |  
 | bip_39_word_space_9 | slender orchard humor bicycle dawn knock model swamp sand |  
+| bip_39_word_underscore_1 | slender |  
+| bip_39_word_underscore_10 | slender_orchard_humor_bicycle_dawn_knock_model_swamp_sand_hazard |  
+| bip_39_word_underscore_11 | slender_orchard_humor_bicycle_dawn_knock_model_swamp_sand_hazard_essay |  
+| bip_39_word_underscore_12 | slender_orchard_humor_bicycle_dawn_knock_model_swamp_sand_hazard_essay_afraid |  
+| bip_39_word_underscore_2 | slender_orchard |  
+| bip_39_word_underscore_3 | slender_orchard_humor |  
+| bip_39_word_underscore_4 | slender_orchard_humor_bicycle |  
+| bip_39_word_underscore_5 | slender_orchard_humor_bicycle_dawn |  
+| bip_39_word_underscore_6 | slender_orchard_humor_bicycle_dawn_knock |  
+| bip_39_word_underscore_7 | slender_orchard_humor_bicycle_dawn_knock_model |  
+| bip_39_word_underscore_8 | slender_orchard_humor_bicycle_dawn_knock_model_swamp |  
+| bip_39_word_underscore_9 | slender_orchard_humor_bicycle_dawn_knock_model_swamp_sand |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

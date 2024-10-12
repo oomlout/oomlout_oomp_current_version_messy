@@ -1,3 +1,15 @@
+bip_39_word_dash_1: catalog
+bip_39_word_dash_10: catalog-eager-involve-jacket-secret-into-loop-mad-trust-mixture
+bip_39_word_dash_11: catalog-eager-involve-jacket-secret-into-loop-mad-trust-mixture-confirm
+bip_39_word_dash_12: catalog-eager-involve-jacket-secret-into-loop-mad-trust-mixture-confirm-abstract
+bip_39_word_dash_2: catalog-eager
+bip_39_word_dash_3: catalog-eager-involve
+bip_39_word_dash_4: catalog-eager-involve-jacket
+bip_39_word_dash_5: catalog-eager-involve-jacket-secret
+bip_39_word_dash_6: catalog-eager-involve-jacket-secret-into
+bip_39_word_dash_7: catalog-eager-involve-jacket-secret-into-loop
+bip_39_word_dash_8: catalog-eager-involve-jacket-secret-into-loop-mad
+bip_39_word_dash_9: catalog-eager-involve-jacket-secret-into-loop-mad-trust
 bip_39_word_new_br_1: catalog
 bip_39_word_new_br_10: catalog<br>eager<br>involve<br>jacket<br>secret<br>into<br>loop<br>mad<br>trust<br>mixture
 bip_39_word_new_br_11: catalog<br>eager<br>involve<br>jacket<br>secret<br>into<br>loop<br>mad<br>trust<br>mixture<br>confirm
@@ -193,6 +205,18 @@ bip_39_word_space_6: catalog eager involve jacket secret into
 bip_39_word_space_7: catalog eager involve jacket secret into loop
 bip_39_word_space_8: catalog eager involve jacket secret into loop mad
 bip_39_word_space_9: catalog eager involve jacket secret into loop mad trust
+bip_39_word_underscore_1: catalog
+bip_39_word_underscore_10: catalog_eager_involve_jacket_secret_into_loop_mad_trust_mixture
+bip_39_word_underscore_11: catalog_eager_involve_jacket_secret_into_loop_mad_trust_mixture_confirm
+bip_39_word_underscore_12: catalog_eager_involve_jacket_secret_into_loop_mad_trust_mixture_confirm_abstract
+bip_39_word_underscore_2: catalog_eager
+bip_39_word_underscore_3: catalog_eager_involve
+bip_39_word_underscore_4: catalog_eager_involve_jacket
+bip_39_word_underscore_5: catalog_eager_involve_jacket_secret
+bip_39_word_underscore_6: catalog_eager_involve_jacket_secret_into
+bip_39_word_underscore_7: catalog_eager_involve_jacket_secret_into_loop
+bip_39_word_underscore_8: catalog_eager_involve_jacket_secret_into_loop_mad
+bip_39_word_underscore_9: catalog_eager_involve_jacket_secret_into_loop_mad_trust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

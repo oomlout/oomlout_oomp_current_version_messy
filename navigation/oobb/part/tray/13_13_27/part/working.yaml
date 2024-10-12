@@ -1,3 +1,15 @@
+bip_39_word_dash_1: piano
+bip_39_word_dash_10: piano-top-success-punch-country-midnight-legal-earn-trust-undo
+bip_39_word_dash_11: piano-top-success-punch-country-midnight-legal-earn-trust-undo-exclude
+bip_39_word_dash_12: piano-top-success-punch-country-midnight-legal-earn-trust-undo-exclude-already
+bip_39_word_dash_2: piano-top
+bip_39_word_dash_3: piano-top-success
+bip_39_word_dash_4: piano-top-success-punch
+bip_39_word_dash_5: piano-top-success-punch-country
+bip_39_word_dash_6: piano-top-success-punch-country-midnight
+bip_39_word_dash_7: piano-top-success-punch-country-midnight-legal
+bip_39_word_dash_8: piano-top-success-punch-country-midnight-legal-earn
+bip_39_word_dash_9: piano-top-success-punch-country-midnight-legal-earn-trust
 bip_39_word_new_br_1: piano
 bip_39_word_new_br_10: piano<br>top<br>success<br>punch<br>country<br>midnight<br>legal<br>earn<br>trust<br>undo
 bip_39_word_new_br_11: piano<br>top<br>success<br>punch<br>country<br>midnight<br>legal<br>earn<br>trust<br>undo<br>exclude
@@ -193,6 +205,18 @@ bip_39_word_space_6: piano top success punch country midnight
 bip_39_word_space_7: piano top success punch country midnight legal
 bip_39_word_space_8: piano top success punch country midnight legal earn
 bip_39_word_space_9: piano top success punch country midnight legal earn trust
+bip_39_word_underscore_1: piano
+bip_39_word_underscore_10: piano_top_success_punch_country_midnight_legal_earn_trust_undo
+bip_39_word_underscore_11: piano_top_success_punch_country_midnight_legal_earn_trust_undo_exclude
+bip_39_word_underscore_12: piano_top_success_punch_country_midnight_legal_earn_trust_undo_exclude_already
+bip_39_word_underscore_2: piano_top
+bip_39_word_underscore_3: piano_top_success
+bip_39_word_underscore_4: piano_top_success_punch
+bip_39_word_underscore_5: piano_top_success_punch_country
+bip_39_word_underscore_6: piano_top_success_punch_country_midnight
+bip_39_word_underscore_7: piano_top_success_punch_country_midnight_legal
+bip_39_word_underscore_8: piano_top_success_punch_country_midnight_legal_earn
+bip_39_word_underscore_9: piano_top_success_punch_country_midnight_legal_earn_trust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

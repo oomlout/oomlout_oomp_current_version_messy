@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | furnace |  
+| bip_39_word_dash_10 | furnace-filter-carpet-say-relief-empower-file-prison-object-idle |  
+| bip_39_word_dash_11 | furnace-filter-carpet-say-relief-empower-file-prison-object-idle-youth |  
+| bip_39_word_dash_12 | furnace-filter-carpet-say-relief-empower-file-prison-object-idle-youth-admit |  
+| bip_39_word_dash_2 | furnace-filter |  
+| bip_39_word_dash_3 | furnace-filter-carpet |  
+| bip_39_word_dash_4 | furnace-filter-carpet-say |  
+| bip_39_word_dash_5 | furnace-filter-carpet-say-relief |  
+| bip_39_word_dash_6 | furnace-filter-carpet-say-relief-empower |  
+| bip_39_word_dash_7 | furnace-filter-carpet-say-relief-empower-file |  
+| bip_39_word_dash_8 | furnace-filter-carpet-say-relief-empower-file-prison |  
+| bip_39_word_dash_9 | furnace-filter-carpet-say-relief-empower-file-prison-object |  
 | bip_39_word_new_br_1 | furnace |  
 | bip_39_word_new_br_10 | furnace<br>filter<br>carpet<br>say<br>relief<br>empower<br>file<br>prison<br>object<br>idle |  
 | bip_39_word_new_br_11 | furnace<br>filter<br>carpet<br>say<br>relief<br>empower<br>file<br>prison<br>object<br>idle<br>youth |  
@@ -147,6 +159,18 @@ object |
 | bip_39_word_space_7 | furnace filter carpet say relief empower file |  
 | bip_39_word_space_8 | furnace filter carpet say relief empower file prison |  
 | bip_39_word_space_9 | furnace filter carpet say relief empower file prison object |  
+| bip_39_word_underscore_1 | furnace |  
+| bip_39_word_underscore_10 | furnace_filter_carpet_say_relief_empower_file_prison_object_idle |  
+| bip_39_word_underscore_11 | furnace_filter_carpet_say_relief_empower_file_prison_object_idle_youth |  
+| bip_39_word_underscore_12 | furnace_filter_carpet_say_relief_empower_file_prison_object_idle_youth_admit |  
+| bip_39_word_underscore_2 | furnace_filter |  
+| bip_39_word_underscore_3 | furnace_filter_carpet |  
+| bip_39_word_underscore_4 | furnace_filter_carpet_say |  
+| bip_39_word_underscore_5 | furnace_filter_carpet_say_relief |  
+| bip_39_word_underscore_6 | furnace_filter_carpet_say_relief_empower |  
+| bip_39_word_underscore_7 | furnace_filter_carpet_say_relief_empower_file |  
+| bip_39_word_underscore_8 | furnace_filter_carpet_say_relief_empower_file_prison |  
+| bip_39_word_underscore_9 | furnace_filter_carpet_say_relief_empower_file_prison_object |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

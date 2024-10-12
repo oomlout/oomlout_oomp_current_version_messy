@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | age |  
+| bip_39_word_dash_10 | age-usage-super-voice-verify-danger-fury-merit-bounce-rug |  
+| bip_39_word_dash_11 | age-usage-super-voice-verify-danger-fury-merit-bounce-rug-predict |  
+| bip_39_word_dash_12 | age-usage-super-voice-verify-danger-fury-merit-bounce-rug-predict-athlete |  
+| bip_39_word_dash_2 | age-usage |  
+| bip_39_word_dash_3 | age-usage-super |  
+| bip_39_word_dash_4 | age-usage-super-voice |  
+| bip_39_word_dash_5 | age-usage-super-voice-verify |  
+| bip_39_word_dash_6 | age-usage-super-voice-verify-danger |  
+| bip_39_word_dash_7 | age-usage-super-voice-verify-danger-fury |  
+| bip_39_word_dash_8 | age-usage-super-voice-verify-danger-fury-merit |  
+| bip_39_word_dash_9 | age-usage-super-voice-verify-danger-fury-merit-bounce |  
 | bip_39_word_new_br_1 | age |  
 | bip_39_word_new_br_10 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug |  
 | bip_39_word_new_br_11 | age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug<br>predict |  
@@ -147,6 +159,18 @@ bounce |
 | bip_39_word_space_7 | age usage super voice verify danger fury |  
 | bip_39_word_space_8 | age usage super voice verify danger fury merit |  
 | bip_39_word_space_9 | age usage super voice verify danger fury merit bounce |  
+| bip_39_word_underscore_1 | age |  
+| bip_39_word_underscore_10 | age_usage_super_voice_verify_danger_fury_merit_bounce_rug |  
+| bip_39_word_underscore_11 | age_usage_super_voice_verify_danger_fury_merit_bounce_rug_predict |  
+| bip_39_word_underscore_12 | age_usage_super_voice_verify_danger_fury_merit_bounce_rug_predict_athlete |  
+| bip_39_word_underscore_2 | age_usage |  
+| bip_39_word_underscore_3 | age_usage_super |  
+| bip_39_word_underscore_4 | age_usage_super_voice |  
+| bip_39_word_underscore_5 | age_usage_super_voice_verify |  
+| bip_39_word_underscore_6 | age_usage_super_voice_verify_danger |  
+| bip_39_word_underscore_7 | age_usage_super_voice_verify_danger_fury |  
+| bip_39_word_underscore_8 | age_usage_super_voice_verify_danger_fury_merit |  
+| bip_39_word_underscore_9 | age_usage_super_voice_verify_danger_fury_merit_bounce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

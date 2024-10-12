@@ -1,3 +1,15 @@
+bip_39_word_dash_1: illness
+bip_39_word_dash_10: illness-source-palm-nose-feature-derive-seven-razor-zero-either
+bip_39_word_dash_11: illness-source-palm-nose-feature-derive-seven-razor-zero-either-lawn
+bip_39_word_dash_12: illness-source-palm-nose-feature-derive-seven-razor-zero-either-lawn-anchor
+bip_39_word_dash_2: illness-source
+bip_39_word_dash_3: illness-source-palm
+bip_39_word_dash_4: illness-source-palm-nose
+bip_39_word_dash_5: illness-source-palm-nose-feature
+bip_39_word_dash_6: illness-source-palm-nose-feature-derive
+bip_39_word_dash_7: illness-source-palm-nose-feature-derive-seven
+bip_39_word_dash_8: illness-source-palm-nose-feature-derive-seven-razor
+bip_39_word_dash_9: illness-source-palm-nose-feature-derive-seven-razor-zero
 bip_39_word_new_br_1: illness
 bip_39_word_new_br_10: illness<br>source<br>palm<br>nose<br>feature<br>derive<br>seven<br>razor<br>zero<br>either
 bip_39_word_new_br_11: illness<br>source<br>palm<br>nose<br>feature<br>derive<br>seven<br>razor<br>zero<br>either<br>lawn
@@ -193,6 +205,18 @@ bip_39_word_space_6: illness source palm nose feature derive
 bip_39_word_space_7: illness source palm nose feature derive seven
 bip_39_word_space_8: illness source palm nose feature derive seven razor
 bip_39_word_space_9: illness source palm nose feature derive seven razor zero
+bip_39_word_underscore_1: illness
+bip_39_word_underscore_10: illness_source_palm_nose_feature_derive_seven_razor_zero_either
+bip_39_word_underscore_11: illness_source_palm_nose_feature_derive_seven_razor_zero_either_lawn
+bip_39_word_underscore_12: illness_source_palm_nose_feature_derive_seven_razor_zero_either_lawn_anchor
+bip_39_word_underscore_2: illness_source
+bip_39_word_underscore_3: illness_source_palm
+bip_39_word_underscore_4: illness_source_palm_nose
+bip_39_word_underscore_5: illness_source_palm_nose_feature
+bip_39_word_underscore_6: illness_source_palm_nose_feature_derive
+bip_39_word_underscore_7: illness_source_palm_nose_feature_derive_seven
+bip_39_word_underscore_8: illness_source_palm_nose_feature_derive_seven_razor
+bip_39_word_underscore_9: illness_source_palm_nose_feature_derive_seven_razor_zero
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

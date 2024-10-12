@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fee |  
+| bip_39_word_dash_10 | fee-photo-suspect-worth-stadium-second-avocado-receive-elephant-network |  
+| bip_39_word_dash_11 | fee-photo-suspect-worth-stadium-second-avocado-receive-elephant-network-tackle |  
+| bip_39_word_dash_12 | fee-photo-suspect-worth-stadium-second-avocado-receive-elephant-network-tackle-actress |  
+| bip_39_word_dash_2 | fee-photo |  
+| bip_39_word_dash_3 | fee-photo-suspect |  
+| bip_39_word_dash_4 | fee-photo-suspect-worth |  
+| bip_39_word_dash_5 | fee-photo-suspect-worth-stadium |  
+| bip_39_word_dash_6 | fee-photo-suspect-worth-stadium-second |  
+| bip_39_word_dash_7 | fee-photo-suspect-worth-stadium-second-avocado |  
+| bip_39_word_dash_8 | fee-photo-suspect-worth-stadium-second-avocado-receive |  
+| bip_39_word_dash_9 | fee-photo-suspect-worth-stadium-second-avocado-receive-elephant |  
 | bip_39_word_new_br_1 | fee |  
 | bip_39_word_new_br_10 | fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive<br>elephant<br>network |  
 | bip_39_word_new_br_11 | fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive<br>elephant<br>network<br>tackle |  
@@ -147,6 +159,18 @@ elephant |
 | bip_39_word_space_7 | fee photo suspect worth stadium second avocado |  
 | bip_39_word_space_8 | fee photo suspect worth stadium second avocado receive |  
 | bip_39_word_space_9 | fee photo suspect worth stadium second avocado receive elephant |  
+| bip_39_word_underscore_1 | fee |  
+| bip_39_word_underscore_10 | fee_photo_suspect_worth_stadium_second_avocado_receive_elephant_network |  
+| bip_39_word_underscore_11 | fee_photo_suspect_worth_stadium_second_avocado_receive_elephant_network_tackle |  
+| bip_39_word_underscore_12 | fee_photo_suspect_worth_stadium_second_avocado_receive_elephant_network_tackle_actress |  
+| bip_39_word_underscore_2 | fee_photo |  
+| bip_39_word_underscore_3 | fee_photo_suspect |  
+| bip_39_word_underscore_4 | fee_photo_suspect_worth |  
+| bip_39_word_underscore_5 | fee_photo_suspect_worth_stadium |  
+| bip_39_word_underscore_6 | fee_photo_suspect_worth_stadium_second |  
+| bip_39_word_underscore_7 | fee_photo_suspect_worth_stadium_second_avocado |  
+| bip_39_word_underscore_8 | fee_photo_suspect_worth_stadium_second_avocado_receive |  
+| bip_39_word_underscore_9 | fee_photo_suspect_worth_stadium_second_avocado_receive_elephant |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | this |  
+| bip_39_word_dash_10 | this-eternal-valve-seminar-bundle-eyebrow-egg-liar-problem-bachelor |  
+| bip_39_word_dash_11 | this-eternal-valve-seminar-bundle-eyebrow-egg-liar-problem-bachelor-festival |  
+| bip_39_word_dash_12 | this-eternal-valve-seminar-bundle-eyebrow-egg-liar-problem-bachelor-festival-approve |  
+| bip_39_word_dash_2 | this-eternal |  
+| bip_39_word_dash_3 | this-eternal-valve |  
+| bip_39_word_dash_4 | this-eternal-valve-seminar |  
+| bip_39_word_dash_5 | this-eternal-valve-seminar-bundle |  
+| bip_39_word_dash_6 | this-eternal-valve-seminar-bundle-eyebrow |  
+| bip_39_word_dash_7 | this-eternal-valve-seminar-bundle-eyebrow-egg |  
+| bip_39_word_dash_8 | this-eternal-valve-seminar-bundle-eyebrow-egg-liar |  
+| bip_39_word_dash_9 | this-eternal-valve-seminar-bundle-eyebrow-egg-liar-problem |  
 | bip_39_word_new_br_1 | this |  
 | bip_39_word_new_br_10 | this<br>eternal<br>valve<br>seminar<br>bundle<br>eyebrow<br>egg<br>liar<br>problem<br>bachelor |  
 | bip_39_word_new_br_11 | this<br>eternal<br>valve<br>seminar<br>bundle<br>eyebrow<br>egg<br>liar<br>problem<br>bachelor<br>festival |  
@@ -147,6 +159,18 @@ problem |
 | bip_39_word_space_7 | this eternal valve seminar bundle eyebrow egg |  
 | bip_39_word_space_8 | this eternal valve seminar bundle eyebrow egg liar |  
 | bip_39_word_space_9 | this eternal valve seminar bundle eyebrow egg liar problem |  
+| bip_39_word_underscore_1 | this |  
+| bip_39_word_underscore_10 | this_eternal_valve_seminar_bundle_eyebrow_egg_liar_problem_bachelor |  
+| bip_39_word_underscore_11 | this_eternal_valve_seminar_bundle_eyebrow_egg_liar_problem_bachelor_festival |  
+| bip_39_word_underscore_12 | this_eternal_valve_seminar_bundle_eyebrow_egg_liar_problem_bachelor_festival_approve |  
+| bip_39_word_underscore_2 | this_eternal |  
+| bip_39_word_underscore_3 | this_eternal_valve |  
+| bip_39_word_underscore_4 | this_eternal_valve_seminar |  
+| bip_39_word_underscore_5 | this_eternal_valve_seminar_bundle |  
+| bip_39_word_underscore_6 | this_eternal_valve_seminar_bundle_eyebrow |  
+| bip_39_word_underscore_7 | this_eternal_valve_seminar_bundle_eyebrow_egg |  
+| bip_39_word_underscore_8 | this_eternal_valve_seminar_bundle_eyebrow_egg_liar |  
+| bip_39_word_underscore_9 | this_eternal_valve_seminar_bundle_eyebrow_egg_liar_problem |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

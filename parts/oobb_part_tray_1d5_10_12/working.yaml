@@ -1,3 +1,15 @@
+bip_39_word_dash_1: daring
+bip_39_word_dash_10: daring-patient-demand-next-smart-anxiety-crisp-tragic-rail-pudding
+bip_39_word_dash_11: daring-patient-demand-next-smart-anxiety-crisp-tragic-rail-pudding-chapter
+bip_39_word_dash_12: daring-patient-demand-next-smart-anxiety-crisp-tragic-rail-pudding-chapter-assist
+bip_39_word_dash_2: daring-patient
+bip_39_word_dash_3: daring-patient-demand
+bip_39_word_dash_4: daring-patient-demand-next
+bip_39_word_dash_5: daring-patient-demand-next-smart
+bip_39_word_dash_6: daring-patient-demand-next-smart-anxiety
+bip_39_word_dash_7: daring-patient-demand-next-smart-anxiety-crisp
+bip_39_word_dash_8: daring-patient-demand-next-smart-anxiety-crisp-tragic
+bip_39_word_dash_9: daring-patient-demand-next-smart-anxiety-crisp-tragic-rail
 bip_39_word_new_br_1: daring
 bip_39_word_new_br_10: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding
 bip_39_word_new_br_11: daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding<br>chapter
@@ -193,6 +205,18 @@ bip_39_word_space_6: daring patient demand next smart anxiety
 bip_39_word_space_7: daring patient demand next smart anxiety crisp
 bip_39_word_space_8: daring patient demand next smart anxiety crisp tragic
 bip_39_word_space_9: daring patient demand next smart anxiety crisp tragic rail
+bip_39_word_underscore_1: daring
+bip_39_word_underscore_10: daring_patient_demand_next_smart_anxiety_crisp_tragic_rail_pudding
+bip_39_word_underscore_11: daring_patient_demand_next_smart_anxiety_crisp_tragic_rail_pudding_chapter
+bip_39_word_underscore_12: daring_patient_demand_next_smart_anxiety_crisp_tragic_rail_pudding_chapter_assist
+bip_39_word_underscore_2: daring_patient
+bip_39_word_underscore_3: daring_patient_demand
+bip_39_word_underscore_4: daring_patient_demand_next
+bip_39_word_underscore_5: daring_patient_demand_next_smart
+bip_39_word_underscore_6: daring_patient_demand_next_smart_anxiety
+bip_39_word_underscore_7: daring_patient_demand_next_smart_anxiety_crisp
+bip_39_word_underscore_8: daring_patient_demand_next_smart_anxiety_crisp_tragic
+bip_39_word_underscore_9: daring_patient_demand_next_smart_anxiety_crisp_tragic_rail
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

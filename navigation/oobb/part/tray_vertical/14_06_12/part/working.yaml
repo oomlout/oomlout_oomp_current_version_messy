@@ -1,3 +1,15 @@
+bip_39_word_dash_1: purse
+bip_39_word_dash_10: purse-spoil-siege-scrub-pet-session-issue-option-away-service
+bip_39_word_dash_11: purse-spoil-siege-scrub-pet-session-issue-option-away-service-crystal
+bip_39_word_dash_12: purse-spoil-siege-scrub-pet-session-issue-option-away-service-crystal-angry
+bip_39_word_dash_2: purse-spoil
+bip_39_word_dash_3: purse-spoil-siege
+bip_39_word_dash_4: purse-spoil-siege-scrub
+bip_39_word_dash_5: purse-spoil-siege-scrub-pet
+bip_39_word_dash_6: purse-spoil-siege-scrub-pet-session
+bip_39_word_dash_7: purse-spoil-siege-scrub-pet-session-issue
+bip_39_word_dash_8: purse-spoil-siege-scrub-pet-session-issue-option
+bip_39_word_dash_9: purse-spoil-siege-scrub-pet-session-issue-option-away
 bip_39_word_new_br_1: purse
 bip_39_word_new_br_10: purse<br>spoil<br>siege<br>scrub<br>pet<br>session<br>issue<br>option<br>away<br>service
 bip_39_word_new_br_11: purse<br>spoil<br>siege<br>scrub<br>pet<br>session<br>issue<br>option<br>away<br>service<br>crystal
@@ -193,6 +205,18 @@ bip_39_word_space_6: purse spoil siege scrub pet session
 bip_39_word_space_7: purse spoil siege scrub pet session issue
 bip_39_word_space_8: purse spoil siege scrub pet session issue option
 bip_39_word_space_9: purse spoil siege scrub pet session issue option away
+bip_39_word_underscore_1: purse
+bip_39_word_underscore_10: purse_spoil_siege_scrub_pet_session_issue_option_away_service
+bip_39_word_underscore_11: purse_spoil_siege_scrub_pet_session_issue_option_away_service_crystal
+bip_39_word_underscore_12: purse_spoil_siege_scrub_pet_session_issue_option_away_service_crystal_angry
+bip_39_word_underscore_2: purse_spoil
+bip_39_word_underscore_3: purse_spoil_siege
+bip_39_word_underscore_4: purse_spoil_siege_scrub
+bip_39_word_underscore_5: purse_spoil_siege_scrub_pet
+bip_39_word_underscore_6: purse_spoil_siege_scrub_pet_session
+bip_39_word_underscore_7: purse_spoil_siege_scrub_pet_session_issue
+bip_39_word_underscore_8: purse_spoil_siege_scrub_pet_session_issue_option
+bip_39_word_underscore_9: purse_spoil_siege_scrub_pet_session_issue_option_away
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

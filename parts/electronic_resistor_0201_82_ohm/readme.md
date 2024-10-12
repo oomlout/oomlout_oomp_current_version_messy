@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | muscle |  
+| bip_39_word_dash_10 | muscle-coach-wisdom-super-road-palm-clump-cinnamon-answer-rubber |  
+| bip_39_word_dash_11 | muscle-coach-wisdom-super-road-palm-clump-cinnamon-answer-rubber-dash |  
+| bip_39_word_dash_12 | muscle-coach-wisdom-super-road-palm-clump-cinnamon-answer-rubber-dash-ask |  
+| bip_39_word_dash_2 | muscle-coach |  
+| bip_39_word_dash_3 | muscle-coach-wisdom |  
+| bip_39_word_dash_4 | muscle-coach-wisdom-super |  
+| bip_39_word_dash_5 | muscle-coach-wisdom-super-road |  
+| bip_39_word_dash_6 | muscle-coach-wisdom-super-road-palm |  
+| bip_39_word_dash_7 | muscle-coach-wisdom-super-road-palm-clump |  
+| bip_39_word_dash_8 | muscle-coach-wisdom-super-road-palm-clump-cinnamon |  
+| bip_39_word_dash_9 | muscle-coach-wisdom-super-road-palm-clump-cinnamon-answer |  
 | bip_39_word_new_br_1 | muscle |  
 | bip_39_word_new_br_10 | muscle<br>coach<br>wisdom<br>super<br>road<br>palm<br>clump<br>cinnamon<br>answer<br>rubber |  
 | bip_39_word_new_br_11 | muscle<br>coach<br>wisdom<br>super<br>road<br>palm<br>clump<br>cinnamon<br>answer<br>rubber<br>dash |  
@@ -147,6 +159,18 @@ answer |
 | bip_39_word_space_7 | muscle coach wisdom super road palm clump |  
 | bip_39_word_space_8 | muscle coach wisdom super road palm clump cinnamon |  
 | bip_39_word_space_9 | muscle coach wisdom super road palm clump cinnamon answer |  
+| bip_39_word_underscore_1 | muscle |  
+| bip_39_word_underscore_10 | muscle_coach_wisdom_super_road_palm_clump_cinnamon_answer_rubber |  
+| bip_39_word_underscore_11 | muscle_coach_wisdom_super_road_palm_clump_cinnamon_answer_rubber_dash |  
+| bip_39_word_underscore_12 | muscle_coach_wisdom_super_road_palm_clump_cinnamon_answer_rubber_dash_ask |  
+| bip_39_word_underscore_2 | muscle_coach |  
+| bip_39_word_underscore_3 | muscle_coach_wisdom |  
+| bip_39_word_underscore_4 | muscle_coach_wisdom_super |  
+| bip_39_word_underscore_5 | muscle_coach_wisdom_super_road |  
+| bip_39_word_underscore_6 | muscle_coach_wisdom_super_road_palm |  
+| bip_39_word_underscore_7 | muscle_coach_wisdom_super_road_palm_clump |  
+| bip_39_word_underscore_8 | muscle_coach_wisdom_super_road_palm_clump_cinnamon |  
+| bip_39_word_underscore_9 | muscle_coach_wisdom_super_road_palm_clump_cinnamon_answer |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

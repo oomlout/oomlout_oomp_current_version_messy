@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | strategy |  
+| bip_39_word_dash_10 | strategy-sauce-burden-tackle-intact-dumb-elephant-frost-dish-morning |  
+| bip_39_word_dash_11 | strategy-sauce-burden-tackle-intact-dumb-elephant-frost-dish-morning-loop |  
+| bip_39_word_dash_12 | strategy-sauce-burden-tackle-intact-dumb-elephant-frost-dish-morning-loop-absorb |  
+| bip_39_word_dash_2 | strategy-sauce |  
+| bip_39_word_dash_3 | strategy-sauce-burden |  
+| bip_39_word_dash_4 | strategy-sauce-burden-tackle |  
+| bip_39_word_dash_5 | strategy-sauce-burden-tackle-intact |  
+| bip_39_word_dash_6 | strategy-sauce-burden-tackle-intact-dumb |  
+| bip_39_word_dash_7 | strategy-sauce-burden-tackle-intact-dumb-elephant |  
+| bip_39_word_dash_8 | strategy-sauce-burden-tackle-intact-dumb-elephant-frost |  
+| bip_39_word_dash_9 | strategy-sauce-burden-tackle-intact-dumb-elephant-frost-dish |  
 | bip_39_word_new_br_1 | strategy |  
 | bip_39_word_new_br_10 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning |  
 | bip_39_word_new_br_11 | strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning<br>loop |  
@@ -147,6 +159,18 @@ dish |
 | bip_39_word_space_7 | strategy sauce burden tackle intact dumb elephant |  
 | bip_39_word_space_8 | strategy sauce burden tackle intact dumb elephant frost |  
 | bip_39_word_space_9 | strategy sauce burden tackle intact dumb elephant frost dish |  
+| bip_39_word_underscore_1 | strategy |  
+| bip_39_word_underscore_10 | strategy_sauce_burden_tackle_intact_dumb_elephant_frost_dish_morning |  
+| bip_39_word_underscore_11 | strategy_sauce_burden_tackle_intact_dumb_elephant_frost_dish_morning_loop |  
+| bip_39_word_underscore_12 | strategy_sauce_burden_tackle_intact_dumb_elephant_frost_dish_morning_loop_absorb |  
+| bip_39_word_underscore_2 | strategy_sauce |  
+| bip_39_word_underscore_3 | strategy_sauce_burden |  
+| bip_39_word_underscore_4 | strategy_sauce_burden_tackle |  
+| bip_39_word_underscore_5 | strategy_sauce_burden_tackle_intact |  
+| bip_39_word_underscore_6 | strategy_sauce_burden_tackle_intact_dumb |  
+| bip_39_word_underscore_7 | strategy_sauce_burden_tackle_intact_dumb_elephant |  
+| bip_39_word_underscore_8 | strategy_sauce_burden_tackle_intact_dumb_elephant_frost |  
+| bip_39_word_underscore_9 | strategy_sauce_burden_tackle_intact_dumb_elephant_frost_dish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | victory |  
+| bip_39_word_dash_10 | victory-chronic-prosper-field-black-wife-connect-twice-sauce-easily |  
+| bip_39_word_dash_11 | victory-chronic-prosper-field-black-wife-connect-twice-sauce-easily-sister |  
+| bip_39_word_dash_12 | victory-chronic-prosper-field-black-wife-connect-twice-sauce-easily-sister-alien |  
+| bip_39_word_dash_2 | victory-chronic |  
+| bip_39_word_dash_3 | victory-chronic-prosper |  
+| bip_39_word_dash_4 | victory-chronic-prosper-field |  
+| bip_39_word_dash_5 | victory-chronic-prosper-field-black |  
+| bip_39_word_dash_6 | victory-chronic-prosper-field-black-wife |  
+| bip_39_word_dash_7 | victory-chronic-prosper-field-black-wife-connect |  
+| bip_39_word_dash_8 | victory-chronic-prosper-field-black-wife-connect-twice |  
+| bip_39_word_dash_9 | victory-chronic-prosper-field-black-wife-connect-twice-sauce |  
 | bip_39_word_new_br_1 | victory |  
 | bip_39_word_new_br_10 | victory<br>chronic<br>prosper<br>field<br>black<br>wife<br>connect<br>twice<br>sauce<br>easily |  
 | bip_39_word_new_br_11 | victory<br>chronic<br>prosper<br>field<br>black<br>wife<br>connect<br>twice<br>sauce<br>easily<br>sister |  
@@ -147,6 +159,18 @@ sauce |
 | bip_39_word_space_7 | victory chronic prosper field black wife connect |  
 | bip_39_word_space_8 | victory chronic prosper field black wife connect twice |  
 | bip_39_word_space_9 | victory chronic prosper field black wife connect twice sauce |  
+| bip_39_word_underscore_1 | victory |  
+| bip_39_word_underscore_10 | victory_chronic_prosper_field_black_wife_connect_twice_sauce_easily |  
+| bip_39_word_underscore_11 | victory_chronic_prosper_field_black_wife_connect_twice_sauce_easily_sister |  
+| bip_39_word_underscore_12 | victory_chronic_prosper_field_black_wife_connect_twice_sauce_easily_sister_alien |  
+| bip_39_word_underscore_2 | victory_chronic |  
+| bip_39_word_underscore_3 | victory_chronic_prosper |  
+| bip_39_word_underscore_4 | victory_chronic_prosper_field |  
+| bip_39_word_underscore_5 | victory_chronic_prosper_field_black |  
+| bip_39_word_underscore_6 | victory_chronic_prosper_field_black_wife |  
+| bip_39_word_underscore_7 | victory_chronic_prosper_field_black_wife_connect |  
+| bip_39_word_underscore_8 | victory_chronic_prosper_field_black_wife_connect_twice |  
+| bip_39_word_underscore_9 | victory_chronic_prosper_field_black_wife_connect_twice_sauce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

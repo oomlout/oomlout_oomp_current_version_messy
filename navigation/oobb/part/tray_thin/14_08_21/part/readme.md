@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | idle |  
+| bip_39_word_dash_10 | idle-easy-vague-must-mushroom-promote-size-glare-mistake-danger |  
+| bip_39_word_dash_11 | idle-easy-vague-must-mushroom-promote-size-glare-mistake-danger-reflect |  
+| bip_39_word_dash_12 | idle-easy-vague-must-mushroom-promote-size-glare-mistake-danger-reflect-august |  
+| bip_39_word_dash_2 | idle-easy |  
+| bip_39_word_dash_3 | idle-easy-vague |  
+| bip_39_word_dash_4 | idle-easy-vague-must |  
+| bip_39_word_dash_5 | idle-easy-vague-must-mushroom |  
+| bip_39_word_dash_6 | idle-easy-vague-must-mushroom-promote |  
+| bip_39_word_dash_7 | idle-easy-vague-must-mushroom-promote-size |  
+| bip_39_word_dash_8 | idle-easy-vague-must-mushroom-promote-size-glare |  
+| bip_39_word_dash_9 | idle-easy-vague-must-mushroom-promote-size-glare-mistake |  
 | bip_39_word_new_br_1 | idle |  
 | bip_39_word_new_br_10 | idle<br>easy<br>vague<br>must<br>mushroom<br>promote<br>size<br>glare<br>mistake<br>danger |  
 | bip_39_word_new_br_11 | idle<br>easy<br>vague<br>must<br>mushroom<br>promote<br>size<br>glare<br>mistake<br>danger<br>reflect |  
@@ -147,6 +159,18 @@ mistake |
 | bip_39_word_space_7 | idle easy vague must mushroom promote size |  
 | bip_39_word_space_8 | idle easy vague must mushroom promote size glare |  
 | bip_39_word_space_9 | idle easy vague must mushroom promote size glare mistake |  
+| bip_39_word_underscore_1 | idle |  
+| bip_39_word_underscore_10 | idle_easy_vague_must_mushroom_promote_size_glare_mistake_danger |  
+| bip_39_word_underscore_11 | idle_easy_vague_must_mushroom_promote_size_glare_mistake_danger_reflect |  
+| bip_39_word_underscore_12 | idle_easy_vague_must_mushroom_promote_size_glare_mistake_danger_reflect_august |  
+| bip_39_word_underscore_2 | idle_easy |  
+| bip_39_word_underscore_3 | idle_easy_vague |  
+| bip_39_word_underscore_4 | idle_easy_vague_must |  
+| bip_39_word_underscore_5 | idle_easy_vague_must_mushroom |  
+| bip_39_word_underscore_6 | idle_easy_vague_must_mushroom_promote |  
+| bip_39_word_underscore_7 | idle_easy_vague_must_mushroom_promote_size |  
+| bip_39_word_underscore_8 | idle_easy_vague_must_mushroom_promote_size_glare |  
+| bip_39_word_underscore_9 | idle_easy_vague_must_mushroom_promote_size_glare_mistake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | viable |  
+| bip_39_word_dash_10 | viable-vague-media-orient-rule-regular-dirt-enough-timber-trouble |  
+| bip_39_word_dash_11 | viable-vague-media-orient-rule-regular-dirt-enough-timber-trouble-tomato |  
+| bip_39_word_dash_12 | viable-vague-media-orient-rule-regular-dirt-enough-timber-trouble-tomato-armed |  
+| bip_39_word_dash_2 | viable-vague |  
+| bip_39_word_dash_3 | viable-vague-media |  
+| bip_39_word_dash_4 | viable-vague-media-orient |  
+| bip_39_word_dash_5 | viable-vague-media-orient-rule |  
+| bip_39_word_dash_6 | viable-vague-media-orient-rule-regular |  
+| bip_39_word_dash_7 | viable-vague-media-orient-rule-regular-dirt |  
+| bip_39_word_dash_8 | viable-vague-media-orient-rule-regular-dirt-enough |  
+| bip_39_word_dash_9 | viable-vague-media-orient-rule-regular-dirt-enough-timber |  
 | bip_39_word_new_br_1 | viable |  
 | bip_39_word_new_br_10 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble |  
 | bip_39_word_new_br_11 | viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble<br>tomato |  
@@ -147,6 +159,18 @@ timber |
 | bip_39_word_space_7 | viable vague media orient rule regular dirt |  
 | bip_39_word_space_8 | viable vague media orient rule regular dirt enough |  
 | bip_39_word_space_9 | viable vague media orient rule regular dirt enough timber |  
+| bip_39_word_underscore_1 | viable |  
+| bip_39_word_underscore_10 | viable_vague_media_orient_rule_regular_dirt_enough_timber_trouble |  
+| bip_39_word_underscore_11 | viable_vague_media_orient_rule_regular_dirt_enough_timber_trouble_tomato |  
+| bip_39_word_underscore_12 | viable_vague_media_orient_rule_regular_dirt_enough_timber_trouble_tomato_armed |  
+| bip_39_word_underscore_2 | viable_vague |  
+| bip_39_word_underscore_3 | viable_vague_media |  
+| bip_39_word_underscore_4 | viable_vague_media_orient |  
+| bip_39_word_underscore_5 | viable_vague_media_orient_rule |  
+| bip_39_word_underscore_6 | viable_vague_media_orient_rule_regular |  
+| bip_39_word_underscore_7 | viable_vague_media_orient_rule_regular_dirt |  
+| bip_39_word_underscore_8 | viable_vague_media_orient_rule_regular_dirt_enough |  
+| bip_39_word_underscore_9 | viable_vague_media_orient_rule_regular_dirt_enough_timber |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arctic |  
+| bip_39_word_dash_10 | arctic-ride-token-balance-skirt-protect-member-fire-vault-course |  
+| bip_39_word_dash_11 | arctic-ride-token-balance-skirt-protect-member-fire-vault-course-treat |  
+| bip_39_word_dash_12 | arctic-ride-token-balance-skirt-protect-member-fire-vault-course-treat-account |  
+| bip_39_word_dash_2 | arctic-ride |  
+| bip_39_word_dash_3 | arctic-ride-token |  
+| bip_39_word_dash_4 | arctic-ride-token-balance |  
+| bip_39_word_dash_5 | arctic-ride-token-balance-skirt |  
+| bip_39_word_dash_6 | arctic-ride-token-balance-skirt-protect |  
+| bip_39_word_dash_7 | arctic-ride-token-balance-skirt-protect-member |  
+| bip_39_word_dash_8 | arctic-ride-token-balance-skirt-protect-member-fire |  
+| bip_39_word_dash_9 | arctic-ride-token-balance-skirt-protect-member-fire-vault |  
 | bip_39_word_new_br_1 | arctic |  
 | bip_39_word_new_br_10 | arctic<br>ride<br>token<br>balance<br>skirt<br>protect<br>member<br>fire<br>vault<br>course |  
 | bip_39_word_new_br_11 | arctic<br>ride<br>token<br>balance<br>skirt<br>protect<br>member<br>fire<br>vault<br>course<br>treat |  
@@ -147,6 +159,18 @@ vault |
 | bip_39_word_space_7 | arctic ride token balance skirt protect member |  
 | bip_39_word_space_8 | arctic ride token balance skirt protect member fire |  
 | bip_39_word_space_9 | arctic ride token balance skirt protect member fire vault |  
+| bip_39_word_underscore_1 | arctic |  
+| bip_39_word_underscore_10 | arctic_ride_token_balance_skirt_protect_member_fire_vault_course |  
+| bip_39_word_underscore_11 | arctic_ride_token_balance_skirt_protect_member_fire_vault_course_treat |  
+| bip_39_word_underscore_12 | arctic_ride_token_balance_skirt_protect_member_fire_vault_course_treat_account |  
+| bip_39_word_underscore_2 | arctic_ride |  
+| bip_39_word_underscore_3 | arctic_ride_token |  
+| bip_39_word_underscore_4 | arctic_ride_token_balance |  
+| bip_39_word_underscore_5 | arctic_ride_token_balance_skirt |  
+| bip_39_word_underscore_6 | arctic_ride_token_balance_skirt_protect |  
+| bip_39_word_underscore_7 | arctic_ride_token_balance_skirt_protect_member |  
+| bip_39_word_underscore_8 | arctic_ride_token_balance_skirt_protect_member_fire |  
+| bip_39_word_underscore_9 | arctic_ride_token_balance_skirt_protect_member_fire_vault |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | term |  
+| bip_39_word_dash_10 | term-bubble-slab-outdoor-route-credit-mushroom-vital-salmon-culture |  
+| bip_39_word_dash_11 | term-bubble-slab-outdoor-route-credit-mushroom-vital-salmon-culture-squeeze |  
+| bip_39_word_dash_12 | term-bubble-slab-outdoor-route-credit-mushroom-vital-salmon-culture-squeeze-antenna |  
+| bip_39_word_dash_2 | term-bubble |  
+| bip_39_word_dash_3 | term-bubble-slab |  
+| bip_39_word_dash_4 | term-bubble-slab-outdoor |  
+| bip_39_word_dash_5 | term-bubble-slab-outdoor-route |  
+| bip_39_word_dash_6 | term-bubble-slab-outdoor-route-credit |  
+| bip_39_word_dash_7 | term-bubble-slab-outdoor-route-credit-mushroom |  
+| bip_39_word_dash_8 | term-bubble-slab-outdoor-route-credit-mushroom-vital |  
+| bip_39_word_dash_9 | term-bubble-slab-outdoor-route-credit-mushroom-vital-salmon |  
 | bip_39_word_new_br_1 | term |  
 | bip_39_word_new_br_10 | term<br>bubble<br>slab<br>outdoor<br>route<br>credit<br>mushroom<br>vital<br>salmon<br>culture |  
 | bip_39_word_new_br_11 | term<br>bubble<br>slab<br>outdoor<br>route<br>credit<br>mushroom<br>vital<br>salmon<br>culture<br>squeeze |  
@@ -147,6 +159,18 @@ salmon |
 | bip_39_word_space_7 | term bubble slab outdoor route credit mushroom |  
 | bip_39_word_space_8 | term bubble slab outdoor route credit mushroom vital |  
 | bip_39_word_space_9 | term bubble slab outdoor route credit mushroom vital salmon |  
+| bip_39_word_underscore_1 | term |  
+| bip_39_word_underscore_10 | term_bubble_slab_outdoor_route_credit_mushroom_vital_salmon_culture |  
+| bip_39_word_underscore_11 | term_bubble_slab_outdoor_route_credit_mushroom_vital_salmon_culture_squeeze |  
+| bip_39_word_underscore_12 | term_bubble_slab_outdoor_route_credit_mushroom_vital_salmon_culture_squeeze_antenna |  
+| bip_39_word_underscore_2 | term_bubble |  
+| bip_39_word_underscore_3 | term_bubble_slab |  
+| bip_39_word_underscore_4 | term_bubble_slab_outdoor |  
+| bip_39_word_underscore_5 | term_bubble_slab_outdoor_route |  
+| bip_39_word_underscore_6 | term_bubble_slab_outdoor_route_credit |  
+| bip_39_word_underscore_7 | term_bubble_slab_outdoor_route_credit_mushroom |  
+| bip_39_word_underscore_8 | term_bubble_slab_outdoor_route_credit_mushroom_vital |  
+| bip_39_word_underscore_9 | term_bubble_slab_outdoor_route_credit_mushroom_vital_salmon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

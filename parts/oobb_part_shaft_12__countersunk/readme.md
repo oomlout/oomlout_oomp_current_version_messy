@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | future |  
+| bip_39_word_dash_10 | future-find-phone-fiction-mean-trim-coast-view-bulk-volume |  
+| bip_39_word_dash_11 | future-find-phone-fiction-mean-trim-coast-view-bulk-volume-labor |  
+| bip_39_word_dash_12 | future-find-phone-fiction-mean-trim-coast-view-bulk-volume-labor-abuse |  
+| bip_39_word_dash_2 | future-find |  
+| bip_39_word_dash_3 | future-find-phone |  
+| bip_39_word_dash_4 | future-find-phone-fiction |  
+| bip_39_word_dash_5 | future-find-phone-fiction-mean |  
+| bip_39_word_dash_6 | future-find-phone-fiction-mean-trim |  
+| bip_39_word_dash_7 | future-find-phone-fiction-mean-trim-coast |  
+| bip_39_word_dash_8 | future-find-phone-fiction-mean-trim-coast-view |  
+| bip_39_word_dash_9 | future-find-phone-fiction-mean-trim-coast-view-bulk |  
 | bip_39_word_new_br_1 | future |  
 | bip_39_word_new_br_10 | future<br>find<br>phone<br>fiction<br>mean<br>trim<br>coast<br>view<br>bulk<br>volume |  
 | bip_39_word_new_br_11 | future<br>find<br>phone<br>fiction<br>mean<br>trim<br>coast<br>view<br>bulk<br>volume<br>labor |  
@@ -147,6 +159,18 @@ bulk |
 | bip_39_word_space_7 | future find phone fiction mean trim coast |  
 | bip_39_word_space_8 | future find phone fiction mean trim coast view |  
 | bip_39_word_space_9 | future find phone fiction mean trim coast view bulk |  
+| bip_39_word_underscore_1 | future |  
+| bip_39_word_underscore_10 | future_find_phone_fiction_mean_trim_coast_view_bulk_volume |  
+| bip_39_word_underscore_11 | future_find_phone_fiction_mean_trim_coast_view_bulk_volume_labor |  
+| bip_39_word_underscore_12 | future_find_phone_fiction_mean_trim_coast_view_bulk_volume_labor_abuse |  
+| bip_39_word_underscore_2 | future_find |  
+| bip_39_word_underscore_3 | future_find_phone |  
+| bip_39_word_underscore_4 | future_find_phone_fiction |  
+| bip_39_word_underscore_5 | future_find_phone_fiction_mean |  
+| bip_39_word_underscore_6 | future_find_phone_fiction_mean_trim |  
+| bip_39_word_underscore_7 | future_find_phone_fiction_mean_trim_coast |  
+| bip_39_word_underscore_8 | future_find_phone_fiction_mean_trim_coast_view |  
+| bip_39_word_underscore_9 | future_find_phone_fiction_mean_trim_coast_view_bulk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

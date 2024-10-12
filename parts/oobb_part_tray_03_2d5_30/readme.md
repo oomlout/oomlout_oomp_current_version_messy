@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | report |  
+| bip_39_word_dash_10 | report-auction-hockey-travel-ecology-trick-east-tuna-throw-more |  
+| bip_39_word_dash_11 | report-auction-hockey-travel-ecology-trick-east-tuna-throw-more-urban |  
+| bip_39_word_dash_12 | report-auction-hockey-travel-ecology-trick-east-tuna-throw-more-urban-alert |  
+| bip_39_word_dash_2 | report-auction |  
+| bip_39_word_dash_3 | report-auction-hockey |  
+| bip_39_word_dash_4 | report-auction-hockey-travel |  
+| bip_39_word_dash_5 | report-auction-hockey-travel-ecology |  
+| bip_39_word_dash_6 | report-auction-hockey-travel-ecology-trick |  
+| bip_39_word_dash_7 | report-auction-hockey-travel-ecology-trick-east |  
+| bip_39_word_dash_8 | report-auction-hockey-travel-ecology-trick-east-tuna |  
+| bip_39_word_dash_9 | report-auction-hockey-travel-ecology-trick-east-tuna-throw |  
 | bip_39_word_new_br_1 | report |  
 | bip_39_word_new_br_10 | report<br>auction<br>hockey<br>travel<br>ecology<br>trick<br>east<br>tuna<br>throw<br>more |  
 | bip_39_word_new_br_11 | report<br>auction<br>hockey<br>travel<br>ecology<br>trick<br>east<br>tuna<br>throw<br>more<br>urban |  
@@ -147,6 +159,18 @@ throw |
 | bip_39_word_space_7 | report auction hockey travel ecology trick east |  
 | bip_39_word_space_8 | report auction hockey travel ecology trick east tuna |  
 | bip_39_word_space_9 | report auction hockey travel ecology trick east tuna throw |  
+| bip_39_word_underscore_1 | report |  
+| bip_39_word_underscore_10 | report_auction_hockey_travel_ecology_trick_east_tuna_throw_more |  
+| bip_39_word_underscore_11 | report_auction_hockey_travel_ecology_trick_east_tuna_throw_more_urban |  
+| bip_39_word_underscore_12 | report_auction_hockey_travel_ecology_trick_east_tuna_throw_more_urban_alert |  
+| bip_39_word_underscore_2 | report_auction |  
+| bip_39_word_underscore_3 | report_auction_hockey |  
+| bip_39_word_underscore_4 | report_auction_hockey_travel |  
+| bip_39_word_underscore_5 | report_auction_hockey_travel_ecology |  
+| bip_39_word_underscore_6 | report_auction_hockey_travel_ecology_trick |  
+| bip_39_word_underscore_7 | report_auction_hockey_travel_ecology_trick_east |  
+| bip_39_word_underscore_8 | report_auction_hockey_travel_ecology_trick_east_tuna |  
+| bip_39_word_underscore_9 | report_auction_hockey_travel_ecology_trick_east_tuna_throw |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

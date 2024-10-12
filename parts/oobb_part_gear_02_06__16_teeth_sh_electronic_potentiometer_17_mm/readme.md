@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | input |  
+| bip_39_word_dash_10 | input-frog-shop-property-use-decline-fit-capital-churn-junior |  
+| bip_39_word_dash_11 | input-frog-shop-property-use-decline-fit-capital-churn-junior-vote |  
+| bip_39_word_dash_12 | input-frog-shop-property-use-decline-fit-capital-churn-junior-vote-argue |  
+| bip_39_word_dash_2 | input-frog |  
+| bip_39_word_dash_3 | input-frog-shop |  
+| bip_39_word_dash_4 | input-frog-shop-property |  
+| bip_39_word_dash_5 | input-frog-shop-property-use |  
+| bip_39_word_dash_6 | input-frog-shop-property-use-decline |  
+| bip_39_word_dash_7 | input-frog-shop-property-use-decline-fit |  
+| bip_39_word_dash_8 | input-frog-shop-property-use-decline-fit-capital |  
+| bip_39_word_dash_9 | input-frog-shop-property-use-decline-fit-capital-churn |  
 | bip_39_word_new_br_1 | input |  
 | bip_39_word_new_br_10 | input<br>frog<br>shop<br>property<br>use<br>decline<br>fit<br>capital<br>churn<br>junior |  
 | bip_39_word_new_br_11 | input<br>frog<br>shop<br>property<br>use<br>decline<br>fit<br>capital<br>churn<br>junior<br>vote |  
@@ -147,6 +159,18 @@ churn |
 | bip_39_word_space_7 | input frog shop property use decline fit |  
 | bip_39_word_space_8 | input frog shop property use decline fit capital |  
 | bip_39_word_space_9 | input frog shop property use decline fit capital churn |  
+| bip_39_word_underscore_1 | input |  
+| bip_39_word_underscore_10 | input_frog_shop_property_use_decline_fit_capital_churn_junior |  
+| bip_39_word_underscore_11 | input_frog_shop_property_use_decline_fit_capital_churn_junior_vote |  
+| bip_39_word_underscore_12 | input_frog_shop_property_use_decline_fit_capital_churn_junior_vote_argue |  
+| bip_39_word_underscore_2 | input_frog |  
+| bip_39_word_underscore_3 | input_frog_shop |  
+| bip_39_word_underscore_4 | input_frog_shop_property |  
+| bip_39_word_underscore_5 | input_frog_shop_property_use |  
+| bip_39_word_underscore_6 | input_frog_shop_property_use_decline |  
+| bip_39_word_underscore_7 | input_frog_shop_property_use_decline_fit |  
+| bip_39_word_underscore_8 | input_frog_shop_property_use_decline_fit_capital |  
+| bip_39_word_underscore_9 | input_frog_shop_property_use_decline_fit_capital_churn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

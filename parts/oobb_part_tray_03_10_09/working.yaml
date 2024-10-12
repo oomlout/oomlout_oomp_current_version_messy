@@ -1,3 +1,15 @@
+bip_39_word_dash_1: animal
+bip_39_word_dash_10: animal-zebra-copy-journey-deer-reduce-loop-goddess-roast-enough
+bip_39_word_dash_11: animal-zebra-copy-journey-deer-reduce-loop-goddess-roast-enough-rebel
+bip_39_word_dash_12: animal-zebra-copy-journey-deer-reduce-loop-goddess-roast-enough-rebel-april
+bip_39_word_dash_2: animal-zebra
+bip_39_word_dash_3: animal-zebra-copy
+bip_39_word_dash_4: animal-zebra-copy-journey
+bip_39_word_dash_5: animal-zebra-copy-journey-deer
+bip_39_word_dash_6: animal-zebra-copy-journey-deer-reduce
+bip_39_word_dash_7: animal-zebra-copy-journey-deer-reduce-loop
+bip_39_word_dash_8: animal-zebra-copy-journey-deer-reduce-loop-goddess
+bip_39_word_dash_9: animal-zebra-copy-journey-deer-reduce-loop-goddess-roast
 bip_39_word_new_br_1: animal
 bip_39_word_new_br_10: animal<br>zebra<br>copy<br>journey<br>deer<br>reduce<br>loop<br>goddess<br>roast<br>enough
 bip_39_word_new_br_11: animal<br>zebra<br>copy<br>journey<br>deer<br>reduce<br>loop<br>goddess<br>roast<br>enough<br>rebel
@@ -193,6 +205,18 @@ bip_39_word_space_6: animal zebra copy journey deer reduce
 bip_39_word_space_7: animal zebra copy journey deer reduce loop
 bip_39_word_space_8: animal zebra copy journey deer reduce loop goddess
 bip_39_word_space_9: animal zebra copy journey deer reduce loop goddess roast
+bip_39_word_underscore_1: animal
+bip_39_word_underscore_10: animal_zebra_copy_journey_deer_reduce_loop_goddess_roast_enough
+bip_39_word_underscore_11: animal_zebra_copy_journey_deer_reduce_loop_goddess_roast_enough_rebel
+bip_39_word_underscore_12: animal_zebra_copy_journey_deer_reduce_loop_goddess_roast_enough_rebel_april
+bip_39_word_underscore_2: animal_zebra
+bip_39_word_underscore_3: animal_zebra_copy
+bip_39_word_underscore_4: animal_zebra_copy_journey
+bip_39_word_underscore_5: animal_zebra_copy_journey_deer
+bip_39_word_underscore_6: animal_zebra_copy_journey_deer_reduce
+bip_39_word_underscore_7: animal_zebra_copy_journey_deer_reduce_loop
+bip_39_word_underscore_8: animal_zebra_copy_journey_deer_reduce_loop_goddess
+bip_39_word_underscore_9: animal_zebra_copy_journey_deer_reduce_loop_goddess_roast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

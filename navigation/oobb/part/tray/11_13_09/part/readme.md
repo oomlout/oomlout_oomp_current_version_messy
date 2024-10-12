@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inflict |  
+| bip_39_word_dash_10 | inflict-usual-victory-acoustic-spoil-cricket-sentence-leave-front-panther |  
+| bip_39_word_dash_11 | inflict-usual-victory-acoustic-spoil-cricket-sentence-leave-front-panther-around |  
+| bip_39_word_dash_12 | inflict-usual-victory-acoustic-spoil-cricket-sentence-leave-front-panther-around-antique |  
+| bip_39_word_dash_2 | inflict-usual |  
+| bip_39_word_dash_3 | inflict-usual-victory |  
+| bip_39_word_dash_4 | inflict-usual-victory-acoustic |  
+| bip_39_word_dash_5 | inflict-usual-victory-acoustic-spoil |  
+| bip_39_word_dash_6 | inflict-usual-victory-acoustic-spoil-cricket |  
+| bip_39_word_dash_7 | inflict-usual-victory-acoustic-spoil-cricket-sentence |  
+| bip_39_word_dash_8 | inflict-usual-victory-acoustic-spoil-cricket-sentence-leave |  
+| bip_39_word_dash_9 | inflict-usual-victory-acoustic-spoil-cricket-sentence-leave-front |  
 | bip_39_word_new_br_1 | inflict |  
 | bip_39_word_new_br_10 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave<br>front<br>panther |  
 | bip_39_word_new_br_11 | inflict<br>usual<br>victory<br>acoustic<br>spoil<br>cricket<br>sentence<br>leave<br>front<br>panther<br>around |  
@@ -147,6 +159,18 @@ front |
 | bip_39_word_space_7 | inflict usual victory acoustic spoil cricket sentence |  
 | bip_39_word_space_8 | inflict usual victory acoustic spoil cricket sentence leave |  
 | bip_39_word_space_9 | inflict usual victory acoustic spoil cricket sentence leave front |  
+| bip_39_word_underscore_1 | inflict |  
+| bip_39_word_underscore_10 | inflict_usual_victory_acoustic_spoil_cricket_sentence_leave_front_panther |  
+| bip_39_word_underscore_11 | inflict_usual_victory_acoustic_spoil_cricket_sentence_leave_front_panther_around |  
+| bip_39_word_underscore_12 | inflict_usual_victory_acoustic_spoil_cricket_sentence_leave_front_panther_around_antique |  
+| bip_39_word_underscore_2 | inflict_usual |  
+| bip_39_word_underscore_3 | inflict_usual_victory |  
+| bip_39_word_underscore_4 | inflict_usual_victory_acoustic |  
+| bip_39_word_underscore_5 | inflict_usual_victory_acoustic_spoil |  
+| bip_39_word_underscore_6 | inflict_usual_victory_acoustic_spoil_cricket |  
+| bip_39_word_underscore_7 | inflict_usual_victory_acoustic_spoil_cricket_sentence |  
+| bip_39_word_underscore_8 | inflict_usual_victory_acoustic_spoil_cricket_sentence_leave |  
+| bip_39_word_underscore_9 | inflict_usual_victory_acoustic_spoil_cricket_sentence_leave_front |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

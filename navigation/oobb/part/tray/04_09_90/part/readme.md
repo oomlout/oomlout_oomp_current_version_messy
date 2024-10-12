@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | age |  
+| bip_39_word_dash_10 | age-stage-occur-stamp-obvious-audit-enemy-lounge-arrow-around |  
+| bip_39_word_dash_11 | age-stage-occur-stamp-obvious-audit-enemy-lounge-arrow-around-intact |  
+| bip_39_word_dash_12 | age-stage-occur-stamp-obvious-audit-enemy-lounge-arrow-around-intact-around |  
+| bip_39_word_dash_2 | age-stage |  
+| bip_39_word_dash_3 | age-stage-occur |  
+| bip_39_word_dash_4 | age-stage-occur-stamp |  
+| bip_39_word_dash_5 | age-stage-occur-stamp-obvious |  
+| bip_39_word_dash_6 | age-stage-occur-stamp-obvious-audit |  
+| bip_39_word_dash_7 | age-stage-occur-stamp-obvious-audit-enemy |  
+| bip_39_word_dash_8 | age-stage-occur-stamp-obvious-audit-enemy-lounge |  
+| bip_39_word_dash_9 | age-stage-occur-stamp-obvious-audit-enemy-lounge-arrow |  
 | bip_39_word_new_br_1 | age |  
 | bip_39_word_new_br_10 | age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around |  
 | bip_39_word_new_br_11 | age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around<br>intact |  
@@ -147,6 +159,18 @@ arrow |
 | bip_39_word_space_7 | age stage occur stamp obvious audit enemy |  
 | bip_39_word_space_8 | age stage occur stamp obvious audit enemy lounge |  
 | bip_39_word_space_9 | age stage occur stamp obvious audit enemy lounge arrow |  
+| bip_39_word_underscore_1 | age |  
+| bip_39_word_underscore_10 | age_stage_occur_stamp_obvious_audit_enemy_lounge_arrow_around |  
+| bip_39_word_underscore_11 | age_stage_occur_stamp_obvious_audit_enemy_lounge_arrow_around_intact |  
+| bip_39_word_underscore_12 | age_stage_occur_stamp_obvious_audit_enemy_lounge_arrow_around_intact_around |  
+| bip_39_word_underscore_2 | age_stage |  
+| bip_39_word_underscore_3 | age_stage_occur |  
+| bip_39_word_underscore_4 | age_stage_occur_stamp |  
+| bip_39_word_underscore_5 | age_stage_occur_stamp_obvious |  
+| bip_39_word_underscore_6 | age_stage_occur_stamp_obvious_audit |  
+| bip_39_word_underscore_7 | age_stage_occur_stamp_obvious_audit_enemy |  
+| bip_39_word_underscore_8 | age_stage_occur_stamp_obvious_audit_enemy_lounge |  
+| bip_39_word_underscore_9 | age_stage_occur_stamp_obvious_audit_enemy_lounge_arrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

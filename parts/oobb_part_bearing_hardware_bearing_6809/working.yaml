@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crystal
+bip_39_word_dash_10: crystal-prize-copy-pitch-win-moment-fury-garden-section-mansion
+bip_39_word_dash_11: crystal-prize-copy-pitch-win-moment-fury-garden-section-mansion-shrug
+bip_39_word_dash_12: crystal-prize-copy-pitch-win-moment-fury-garden-section-mansion-shrug-address
+bip_39_word_dash_2: crystal-prize
+bip_39_word_dash_3: crystal-prize-copy
+bip_39_word_dash_4: crystal-prize-copy-pitch
+bip_39_word_dash_5: crystal-prize-copy-pitch-win
+bip_39_word_dash_6: crystal-prize-copy-pitch-win-moment
+bip_39_word_dash_7: crystal-prize-copy-pitch-win-moment-fury
+bip_39_word_dash_8: crystal-prize-copy-pitch-win-moment-fury-garden
+bip_39_word_dash_9: crystal-prize-copy-pitch-win-moment-fury-garden-section
 bip_39_word_new_br_1: crystal
 bip_39_word_new_br_10: crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion
 bip_39_word_new_br_11: crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion<br>shrug
@@ -193,6 +205,18 @@ bip_39_word_space_6: crystal prize copy pitch win moment
 bip_39_word_space_7: crystal prize copy pitch win moment fury
 bip_39_word_space_8: crystal prize copy pitch win moment fury garden
 bip_39_word_space_9: crystal prize copy pitch win moment fury garden section
+bip_39_word_underscore_1: crystal
+bip_39_word_underscore_10: crystal_prize_copy_pitch_win_moment_fury_garden_section_mansion
+bip_39_word_underscore_11: crystal_prize_copy_pitch_win_moment_fury_garden_section_mansion_shrug
+bip_39_word_underscore_12: crystal_prize_copy_pitch_win_moment_fury_garden_section_mansion_shrug_address
+bip_39_word_underscore_2: crystal_prize
+bip_39_word_underscore_3: crystal_prize_copy
+bip_39_word_underscore_4: crystal_prize_copy_pitch
+bip_39_word_underscore_5: crystal_prize_copy_pitch_win
+bip_39_word_underscore_6: crystal_prize_copy_pitch_win_moment
+bip_39_word_underscore_7: crystal_prize_copy_pitch_win_moment_fury
+bip_39_word_underscore_8: crystal_prize_copy_pitch_win_moment_fury_garden
+bip_39_word_underscore_9: crystal_prize_copy_pitch_win_moment_fury_garden_section
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

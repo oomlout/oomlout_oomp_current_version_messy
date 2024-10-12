@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sausage |  
+| bip_39_word_dash_10 | sausage-bean-undo-frost-keep-bread-tree-dose-edge-absurd |  
+| bip_39_word_dash_11 | sausage-bean-undo-frost-keep-bread-tree-dose-edge-absurd-render |  
+| bip_39_word_dash_12 | sausage-bean-undo-frost-keep-bread-tree-dose-edge-absurd-render-asthma |  
+| bip_39_word_dash_2 | sausage-bean |  
+| bip_39_word_dash_3 | sausage-bean-undo |  
+| bip_39_word_dash_4 | sausage-bean-undo-frost |  
+| bip_39_word_dash_5 | sausage-bean-undo-frost-keep |  
+| bip_39_word_dash_6 | sausage-bean-undo-frost-keep-bread |  
+| bip_39_word_dash_7 | sausage-bean-undo-frost-keep-bread-tree |  
+| bip_39_word_dash_8 | sausage-bean-undo-frost-keep-bread-tree-dose |  
+| bip_39_word_dash_9 | sausage-bean-undo-frost-keep-bread-tree-dose-edge |  
 | bip_39_word_new_br_1 | sausage |  
 | bip_39_word_new_br_10 | sausage<br>bean<br>undo<br>frost<br>keep<br>bread<br>tree<br>dose<br>edge<br>absurd |  
 | bip_39_word_new_br_11 | sausage<br>bean<br>undo<br>frost<br>keep<br>bread<br>tree<br>dose<br>edge<br>absurd<br>render |  
@@ -147,6 +159,18 @@ edge |
 | bip_39_word_space_7 | sausage bean undo frost keep bread tree |  
 | bip_39_word_space_8 | sausage bean undo frost keep bread tree dose |  
 | bip_39_word_space_9 | sausage bean undo frost keep bread tree dose edge |  
+| bip_39_word_underscore_1 | sausage |  
+| bip_39_word_underscore_10 | sausage_bean_undo_frost_keep_bread_tree_dose_edge_absurd |  
+| bip_39_word_underscore_11 | sausage_bean_undo_frost_keep_bread_tree_dose_edge_absurd_render |  
+| bip_39_word_underscore_12 | sausage_bean_undo_frost_keep_bread_tree_dose_edge_absurd_render_asthma |  
+| bip_39_word_underscore_2 | sausage_bean |  
+| bip_39_word_underscore_3 | sausage_bean_undo |  
+| bip_39_word_underscore_4 | sausage_bean_undo_frost |  
+| bip_39_word_underscore_5 | sausage_bean_undo_frost_keep |  
+| bip_39_word_underscore_6 | sausage_bean_undo_frost_keep_bread |  
+| bip_39_word_underscore_7 | sausage_bean_undo_frost_keep_bread_tree |  
+| bip_39_word_underscore_8 | sausage_bean_undo_frost_keep_bread_tree_dose |  
+| bip_39_word_underscore_9 | sausage_bean_undo_frost_keep_bread_tree_dose_edge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

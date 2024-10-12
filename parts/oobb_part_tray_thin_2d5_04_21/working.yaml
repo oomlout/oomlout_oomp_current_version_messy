@@ -1,3 +1,15 @@
+bip_39_word_dash_1: report
+bip_39_word_dash_10: report-measure-banner-pause-junior-excuse-fee-luggage-flee-dice
+bip_39_word_dash_11: report-measure-banner-pause-junior-excuse-fee-luggage-flee-dice-oppose
+bip_39_word_dash_12: report-measure-banner-pause-junior-excuse-fee-luggage-flee-dice-oppose-absent
+bip_39_word_dash_2: report-measure
+bip_39_word_dash_3: report-measure-banner
+bip_39_word_dash_4: report-measure-banner-pause
+bip_39_word_dash_5: report-measure-banner-pause-junior
+bip_39_word_dash_6: report-measure-banner-pause-junior-excuse
+bip_39_word_dash_7: report-measure-banner-pause-junior-excuse-fee
+bip_39_word_dash_8: report-measure-banner-pause-junior-excuse-fee-luggage
+bip_39_word_dash_9: report-measure-banner-pause-junior-excuse-fee-luggage-flee
 bip_39_word_new_br_1: report
 bip_39_word_new_br_10: report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage<br>flee<br>dice
 bip_39_word_new_br_11: report<br>measure<br>banner<br>pause<br>junior<br>excuse<br>fee<br>luggage<br>flee<br>dice<br>oppose
@@ -193,6 +205,18 @@ bip_39_word_space_6: report measure banner pause junior excuse
 bip_39_word_space_7: report measure banner pause junior excuse fee
 bip_39_word_space_8: report measure banner pause junior excuse fee luggage
 bip_39_word_space_9: report measure banner pause junior excuse fee luggage flee
+bip_39_word_underscore_1: report
+bip_39_word_underscore_10: report_measure_banner_pause_junior_excuse_fee_luggage_flee_dice
+bip_39_word_underscore_11: report_measure_banner_pause_junior_excuse_fee_luggage_flee_dice_oppose
+bip_39_word_underscore_12: report_measure_banner_pause_junior_excuse_fee_luggage_flee_dice_oppose_absent
+bip_39_word_underscore_2: report_measure
+bip_39_word_underscore_3: report_measure_banner
+bip_39_word_underscore_4: report_measure_banner_pause
+bip_39_word_underscore_5: report_measure_banner_pause_junior
+bip_39_word_underscore_6: report_measure_banner_pause_junior_excuse
+bip_39_word_underscore_7: report_measure_banner_pause_junior_excuse_fee
+bip_39_word_underscore_8: report_measure_banner_pause_junior_excuse_fee_luggage
+bip_39_word_underscore_9: report_measure_banner_pause_junior_excuse_fee_luggage_flee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

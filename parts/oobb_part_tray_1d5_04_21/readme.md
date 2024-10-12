@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | give |  
+| bip_39_word_dash_10 | give-leg-unknown-danger-pistol-girl-pioneer-twelve-captain-twelve |  
+| bip_39_word_dash_11 | give-leg-unknown-danger-pistol-girl-pioneer-twelve-captain-twelve-narrow |  
+| bip_39_word_dash_12 | give-leg-unknown-danger-pistol-girl-pioneer-twelve-captain-twelve-narrow-arrow |  
+| bip_39_word_dash_2 | give-leg |  
+| bip_39_word_dash_3 | give-leg-unknown |  
+| bip_39_word_dash_4 | give-leg-unknown-danger |  
+| bip_39_word_dash_5 | give-leg-unknown-danger-pistol |  
+| bip_39_word_dash_6 | give-leg-unknown-danger-pistol-girl |  
+| bip_39_word_dash_7 | give-leg-unknown-danger-pistol-girl-pioneer |  
+| bip_39_word_dash_8 | give-leg-unknown-danger-pistol-girl-pioneer-twelve |  
+| bip_39_word_dash_9 | give-leg-unknown-danger-pistol-girl-pioneer-twelve-captain |  
 | bip_39_word_new_br_1 | give |  
 | bip_39_word_new_br_10 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve<br>captain<br>twelve |  
 | bip_39_word_new_br_11 | give<br>leg<br>unknown<br>danger<br>pistol<br>girl<br>pioneer<br>twelve<br>captain<br>twelve<br>narrow |  
@@ -147,6 +159,18 @@ captain |
 | bip_39_word_space_7 | give leg unknown danger pistol girl pioneer |  
 | bip_39_word_space_8 | give leg unknown danger pistol girl pioneer twelve |  
 | bip_39_word_space_9 | give leg unknown danger pistol girl pioneer twelve captain |  
+| bip_39_word_underscore_1 | give |  
+| bip_39_word_underscore_10 | give_leg_unknown_danger_pistol_girl_pioneer_twelve_captain_twelve |  
+| bip_39_word_underscore_11 | give_leg_unknown_danger_pistol_girl_pioneer_twelve_captain_twelve_narrow |  
+| bip_39_word_underscore_12 | give_leg_unknown_danger_pistol_girl_pioneer_twelve_captain_twelve_narrow_arrow |  
+| bip_39_word_underscore_2 | give_leg |  
+| bip_39_word_underscore_3 | give_leg_unknown |  
+| bip_39_word_underscore_4 | give_leg_unknown_danger |  
+| bip_39_word_underscore_5 | give_leg_unknown_danger_pistol |  
+| bip_39_word_underscore_6 | give_leg_unknown_danger_pistol_girl |  
+| bip_39_word_underscore_7 | give_leg_unknown_danger_pistol_girl_pioneer |  
+| bip_39_word_underscore_8 | give_leg_unknown_danger_pistol_girl_pioneer_twelve |  
+| bip_39_word_underscore_9 | give_leg_unknown_danger_pistol_girl_pioneer_twelve_captain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: topic
+bip_39_word_dash_10: topic-believe-egg-garment-list-either-alter-urge-switch-slight
+bip_39_word_dash_11: topic-believe-egg-garment-list-either-alter-urge-switch-slight-arrest
+bip_39_word_dash_12: topic-believe-egg-garment-list-either-alter-urge-switch-slight-arrest-achieve
+bip_39_word_dash_2: topic-believe
+bip_39_word_dash_3: topic-believe-egg
+bip_39_word_dash_4: topic-believe-egg-garment
+bip_39_word_dash_5: topic-believe-egg-garment-list
+bip_39_word_dash_6: topic-believe-egg-garment-list-either
+bip_39_word_dash_7: topic-believe-egg-garment-list-either-alter
+bip_39_word_dash_8: topic-believe-egg-garment-list-either-alter-urge
+bip_39_word_dash_9: topic-believe-egg-garment-list-either-alter-urge-switch
 bip_39_word_new_br_1: topic
 bip_39_word_new_br_10: topic<br>believe<br>egg<br>garment<br>list<br>either<br>alter<br>urge<br>switch<br>slight
 bip_39_word_new_br_11: topic<br>believe<br>egg<br>garment<br>list<br>either<br>alter<br>urge<br>switch<br>slight<br>arrest
@@ -193,6 +205,18 @@ bip_39_word_space_6: topic believe egg garment list either
 bip_39_word_space_7: topic believe egg garment list either alter
 bip_39_word_space_8: topic believe egg garment list either alter urge
 bip_39_word_space_9: topic believe egg garment list either alter urge switch
+bip_39_word_underscore_1: topic
+bip_39_word_underscore_10: topic_believe_egg_garment_list_either_alter_urge_switch_slight
+bip_39_word_underscore_11: topic_believe_egg_garment_list_either_alter_urge_switch_slight_arrest
+bip_39_word_underscore_12: topic_believe_egg_garment_list_either_alter_urge_switch_slight_arrest_achieve
+bip_39_word_underscore_2: topic_believe
+bip_39_word_underscore_3: topic_believe_egg
+bip_39_word_underscore_4: topic_believe_egg_garment
+bip_39_word_underscore_5: topic_believe_egg_garment_list
+bip_39_word_underscore_6: topic_believe_egg_garment_list_either
+bip_39_word_underscore_7: topic_believe_egg_garment_list_either_alter
+bip_39_word_underscore_8: topic_believe_egg_garment_list_either_alter_urge
+bip_39_word_underscore_9: topic_believe_egg_garment_list_either_alter_urge_switch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dirt
+bip_39_word_dash_10: dirt-range-annual-when-trip-car-awake-tongue-harsh-misery
+bip_39_word_dash_11: dirt-range-annual-when-trip-car-awake-tongue-harsh-misery-walk
+bip_39_word_dash_12: dirt-range-annual-when-trip-car-awake-tongue-harsh-misery-walk-actor
+bip_39_word_dash_2: dirt-range
+bip_39_word_dash_3: dirt-range-annual
+bip_39_word_dash_4: dirt-range-annual-when
+bip_39_word_dash_5: dirt-range-annual-when-trip
+bip_39_word_dash_6: dirt-range-annual-when-trip-car
+bip_39_word_dash_7: dirt-range-annual-when-trip-car-awake
+bip_39_word_dash_8: dirt-range-annual-when-trip-car-awake-tongue
+bip_39_word_dash_9: dirt-range-annual-when-trip-car-awake-tongue-harsh
 bip_39_word_new_br_1: dirt
 bip_39_word_new_br_10: dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue<br>harsh<br>misery
 bip_39_word_new_br_11: dirt<br>range<br>annual<br>when<br>trip<br>car<br>awake<br>tongue<br>harsh<br>misery<br>walk
@@ -192,6 +204,18 @@ bip_39_word_space_6: dirt range annual when trip car
 bip_39_word_space_7: dirt range annual when trip car awake
 bip_39_word_space_8: dirt range annual when trip car awake tongue
 bip_39_word_space_9: dirt range annual when trip car awake tongue harsh
+bip_39_word_underscore_1: dirt
+bip_39_word_underscore_10: dirt_range_annual_when_trip_car_awake_tongue_harsh_misery
+bip_39_word_underscore_11: dirt_range_annual_when_trip_car_awake_tongue_harsh_misery_walk
+bip_39_word_underscore_12: dirt_range_annual_when_trip_car_awake_tongue_harsh_misery_walk_actor
+bip_39_word_underscore_2: dirt_range
+bip_39_word_underscore_3: dirt_range_annual
+bip_39_word_underscore_4: dirt_range_annual_when
+bip_39_word_underscore_5: dirt_range_annual_when_trip
+bip_39_word_underscore_6: dirt_range_annual_when_trip_car
+bip_39_word_underscore_7: dirt_range_annual_when_trip_car_awake
+bip_39_word_underscore_8: dirt_range_annual_when_trip_car_awake_tongue
+bip_39_word_underscore_9: dirt_range_annual_when_trip_car_awake_tongue_harsh
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

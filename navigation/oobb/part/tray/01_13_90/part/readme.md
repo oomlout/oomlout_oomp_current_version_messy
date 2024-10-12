@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plunge |  
+| bip_39_word_dash_10 | plunge-winter-ability-walnut-bundle-grace-infant-culture-mosquito-life |  
+| bip_39_word_dash_11 | plunge-winter-ability-walnut-bundle-grace-infant-culture-mosquito-life-suggest |  
+| bip_39_word_dash_12 | plunge-winter-ability-walnut-bundle-grace-infant-culture-mosquito-life-suggest-agent |  
+| bip_39_word_dash_2 | plunge-winter |  
+| bip_39_word_dash_3 | plunge-winter-ability |  
+| bip_39_word_dash_4 | plunge-winter-ability-walnut |  
+| bip_39_word_dash_5 | plunge-winter-ability-walnut-bundle |  
+| bip_39_word_dash_6 | plunge-winter-ability-walnut-bundle-grace |  
+| bip_39_word_dash_7 | plunge-winter-ability-walnut-bundle-grace-infant |  
+| bip_39_word_dash_8 | plunge-winter-ability-walnut-bundle-grace-infant-culture |  
+| bip_39_word_dash_9 | plunge-winter-ability-walnut-bundle-grace-infant-culture-mosquito |  
 | bip_39_word_new_br_1 | plunge |  
 | bip_39_word_new_br_10 | plunge<br>winter<br>ability<br>walnut<br>bundle<br>grace<br>infant<br>culture<br>mosquito<br>life |  
 | bip_39_word_new_br_11 | plunge<br>winter<br>ability<br>walnut<br>bundle<br>grace<br>infant<br>culture<br>mosquito<br>life<br>suggest |  
@@ -147,6 +159,18 @@ mosquito |
 | bip_39_word_space_7 | plunge winter ability walnut bundle grace infant |  
 | bip_39_word_space_8 | plunge winter ability walnut bundle grace infant culture |  
 | bip_39_word_space_9 | plunge winter ability walnut bundle grace infant culture mosquito |  
+| bip_39_word_underscore_1 | plunge |  
+| bip_39_word_underscore_10 | plunge_winter_ability_walnut_bundle_grace_infant_culture_mosquito_life |  
+| bip_39_word_underscore_11 | plunge_winter_ability_walnut_bundle_grace_infant_culture_mosquito_life_suggest |  
+| bip_39_word_underscore_12 | plunge_winter_ability_walnut_bundle_grace_infant_culture_mosquito_life_suggest_agent |  
+| bip_39_word_underscore_2 | plunge_winter |  
+| bip_39_word_underscore_3 | plunge_winter_ability |  
+| bip_39_word_underscore_4 | plunge_winter_ability_walnut |  
+| bip_39_word_underscore_5 | plunge_winter_ability_walnut_bundle |  
+| bip_39_word_underscore_6 | plunge_winter_ability_walnut_bundle_grace |  
+| bip_39_word_underscore_7 | plunge_winter_ability_walnut_bundle_grace_infant |  
+| bip_39_word_underscore_8 | plunge_winter_ability_walnut_bundle_grace_infant_culture |  
+| bip_39_word_underscore_9 | plunge_winter_ability_walnut_bundle_grace_infant_culture_mosquito |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

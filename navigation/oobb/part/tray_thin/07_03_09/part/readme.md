@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kitten |  
+| bip_39_word_dash_10 | kitten-section-seven-omit-advance-globe-ensure-thrive-whale-glimpse |  
+| bip_39_word_dash_11 | kitten-section-seven-omit-advance-globe-ensure-thrive-whale-glimpse-census |  
+| bip_39_word_dash_12 | kitten-section-seven-omit-advance-globe-ensure-thrive-whale-glimpse-census-antique |  
+| bip_39_word_dash_2 | kitten-section |  
+| bip_39_word_dash_3 | kitten-section-seven |  
+| bip_39_word_dash_4 | kitten-section-seven-omit |  
+| bip_39_word_dash_5 | kitten-section-seven-omit-advance |  
+| bip_39_word_dash_6 | kitten-section-seven-omit-advance-globe |  
+| bip_39_word_dash_7 | kitten-section-seven-omit-advance-globe-ensure |  
+| bip_39_word_dash_8 | kitten-section-seven-omit-advance-globe-ensure-thrive |  
+| bip_39_word_dash_9 | kitten-section-seven-omit-advance-globe-ensure-thrive-whale |  
 | bip_39_word_new_br_1 | kitten |  
 | bip_39_word_new_br_10 | kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive<br>whale<br>glimpse |  
 | bip_39_word_new_br_11 | kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive<br>whale<br>glimpse<br>census |  
@@ -147,6 +159,18 @@ whale |
 | bip_39_word_space_7 | kitten section seven omit advance globe ensure |  
 | bip_39_word_space_8 | kitten section seven omit advance globe ensure thrive |  
 | bip_39_word_space_9 | kitten section seven omit advance globe ensure thrive whale |  
+| bip_39_word_underscore_1 | kitten |  
+| bip_39_word_underscore_10 | kitten_section_seven_omit_advance_globe_ensure_thrive_whale_glimpse |  
+| bip_39_word_underscore_11 | kitten_section_seven_omit_advance_globe_ensure_thrive_whale_glimpse_census |  
+| bip_39_word_underscore_12 | kitten_section_seven_omit_advance_globe_ensure_thrive_whale_glimpse_census_antique |  
+| bip_39_word_underscore_2 | kitten_section |  
+| bip_39_word_underscore_3 | kitten_section_seven |  
+| bip_39_word_underscore_4 | kitten_section_seven_omit |  
+| bip_39_word_underscore_5 | kitten_section_seven_omit_advance |  
+| bip_39_word_underscore_6 | kitten_section_seven_omit_advance_globe |  
+| bip_39_word_underscore_7 | kitten_section_seven_omit_advance_globe_ensure |  
+| bip_39_word_underscore_8 | kitten_section_seven_omit_advance_globe_ensure_thrive |  
+| bip_39_word_underscore_9 | kitten_section_seven_omit_advance_globe_ensure_thrive_whale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

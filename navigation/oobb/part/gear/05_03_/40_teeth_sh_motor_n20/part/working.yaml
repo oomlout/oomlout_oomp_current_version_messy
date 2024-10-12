@@ -1,3 +1,15 @@
+bip_39_word_dash_1: current
+bip_39_word_dash_10: current-scene-clump-rib-vessel-steak-burden-file-palm-city
+bip_39_word_dash_11: current-scene-clump-rib-vessel-steak-burden-file-palm-city-medal
+bip_39_word_dash_12: current-scene-clump-rib-vessel-steak-burden-file-palm-city-medal-all
+bip_39_word_dash_2: current-scene
+bip_39_word_dash_3: current-scene-clump
+bip_39_word_dash_4: current-scene-clump-rib
+bip_39_word_dash_5: current-scene-clump-rib-vessel
+bip_39_word_dash_6: current-scene-clump-rib-vessel-steak
+bip_39_word_dash_7: current-scene-clump-rib-vessel-steak-burden
+bip_39_word_dash_8: current-scene-clump-rib-vessel-steak-burden-file
+bip_39_word_dash_9: current-scene-clump-rib-vessel-steak-burden-file-palm
 bip_39_word_new_br_1: current
 bip_39_word_new_br_10: current<br>scene<br>clump<br>rib<br>vessel<br>steak<br>burden<br>file<br>palm<br>city
 bip_39_word_new_br_11: current<br>scene<br>clump<br>rib<br>vessel<br>steak<br>burden<br>file<br>palm<br>city<br>medal
@@ -192,6 +204,18 @@ bip_39_word_space_6: current scene clump rib vessel steak
 bip_39_word_space_7: current scene clump rib vessel steak burden
 bip_39_word_space_8: current scene clump rib vessel steak burden file
 bip_39_word_space_9: current scene clump rib vessel steak burden file palm
+bip_39_word_underscore_1: current
+bip_39_word_underscore_10: current_scene_clump_rib_vessel_steak_burden_file_palm_city
+bip_39_word_underscore_11: current_scene_clump_rib_vessel_steak_burden_file_palm_city_medal
+bip_39_word_underscore_12: current_scene_clump_rib_vessel_steak_burden_file_palm_city_medal_all
+bip_39_word_underscore_2: current_scene
+bip_39_word_underscore_3: current_scene_clump
+bip_39_word_underscore_4: current_scene_clump_rib
+bip_39_word_underscore_5: current_scene_clump_rib_vessel
+bip_39_word_underscore_6: current_scene_clump_rib_vessel_steak
+bip_39_word_underscore_7: current_scene_clump_rib_vessel_steak_burden
+bip_39_word_underscore_8: current_scene_clump_rib_vessel_steak_burden_file
+bip_39_word_underscore_9: current_scene_clump_rib_vessel_steak_burden_file_palm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

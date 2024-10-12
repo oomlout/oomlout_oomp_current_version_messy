@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leopard |  
+| bip_39_word_dash_10 | leopard-cargo-run-occur-crystal-clip-success-bacon-rate-company |  
+| bip_39_word_dash_11 | leopard-cargo-run-occur-crystal-clip-success-bacon-rate-company-birth |  
+| bip_39_word_dash_12 | leopard-cargo-run-occur-crystal-clip-success-bacon-rate-company-birth-approve |  
+| bip_39_word_dash_2 | leopard-cargo |  
+| bip_39_word_dash_3 | leopard-cargo-run |  
+| bip_39_word_dash_4 | leopard-cargo-run-occur |  
+| bip_39_word_dash_5 | leopard-cargo-run-occur-crystal |  
+| bip_39_word_dash_6 | leopard-cargo-run-occur-crystal-clip |  
+| bip_39_word_dash_7 | leopard-cargo-run-occur-crystal-clip-success |  
+| bip_39_word_dash_8 | leopard-cargo-run-occur-crystal-clip-success-bacon |  
+| bip_39_word_dash_9 | leopard-cargo-run-occur-crystal-clip-success-bacon-rate |  
 | bip_39_word_new_br_1 | leopard |  
 | bip_39_word_new_br_10 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon<br>rate<br>company |  
 | bip_39_word_new_br_11 | leopard<br>cargo<br>run<br>occur<br>crystal<br>clip<br>success<br>bacon<br>rate<br>company<br>birth |  
@@ -147,6 +159,18 @@ rate |
 | bip_39_word_space_7 | leopard cargo run occur crystal clip success |  
 | bip_39_word_space_8 | leopard cargo run occur crystal clip success bacon |  
 | bip_39_word_space_9 | leopard cargo run occur crystal clip success bacon rate |  
+| bip_39_word_underscore_1 | leopard |  
+| bip_39_word_underscore_10 | leopard_cargo_run_occur_crystal_clip_success_bacon_rate_company |  
+| bip_39_word_underscore_11 | leopard_cargo_run_occur_crystal_clip_success_bacon_rate_company_birth |  
+| bip_39_word_underscore_12 | leopard_cargo_run_occur_crystal_clip_success_bacon_rate_company_birth_approve |  
+| bip_39_word_underscore_2 | leopard_cargo |  
+| bip_39_word_underscore_3 | leopard_cargo_run |  
+| bip_39_word_underscore_4 | leopard_cargo_run_occur |  
+| bip_39_word_underscore_5 | leopard_cargo_run_occur_crystal |  
+| bip_39_word_underscore_6 | leopard_cargo_run_occur_crystal_clip |  
+| bip_39_word_underscore_7 | leopard_cargo_run_occur_crystal_clip_success |  
+| bip_39_word_underscore_8 | leopard_cargo_run_occur_crystal_clip_success_bacon |  
+| bip_39_word_underscore_9 | leopard_cargo_run_occur_crystal_clip_success_bacon_rate |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

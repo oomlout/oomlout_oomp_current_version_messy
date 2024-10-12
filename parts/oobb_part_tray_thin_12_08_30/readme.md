@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | funny |  
+| bip_39_word_dash_10 | funny-result-gadget-sugar-puzzle-defy-naive-lucky-whisper-kitten |  
+| bip_39_word_dash_11 | funny-result-gadget-sugar-puzzle-defy-naive-lucky-whisper-kitten-elite |  
+| bip_39_word_dash_12 | funny-result-gadget-sugar-puzzle-defy-naive-lucky-whisper-kitten-elite-attend |  
+| bip_39_word_dash_2 | funny-result |  
+| bip_39_word_dash_3 | funny-result-gadget |  
+| bip_39_word_dash_4 | funny-result-gadget-sugar |  
+| bip_39_word_dash_5 | funny-result-gadget-sugar-puzzle |  
+| bip_39_word_dash_6 | funny-result-gadget-sugar-puzzle-defy |  
+| bip_39_word_dash_7 | funny-result-gadget-sugar-puzzle-defy-naive |  
+| bip_39_word_dash_8 | funny-result-gadget-sugar-puzzle-defy-naive-lucky |  
+| bip_39_word_dash_9 | funny-result-gadget-sugar-puzzle-defy-naive-lucky-whisper |  
 | bip_39_word_new_br_1 | funny |  
 | bip_39_word_new_br_10 | funny<br>result<br>gadget<br>sugar<br>puzzle<br>defy<br>naive<br>lucky<br>whisper<br>kitten |  
 | bip_39_word_new_br_11 | funny<br>result<br>gadget<br>sugar<br>puzzle<br>defy<br>naive<br>lucky<br>whisper<br>kitten<br>elite |  
@@ -147,6 +159,18 @@ whisper |
 | bip_39_word_space_7 | funny result gadget sugar puzzle defy naive |  
 | bip_39_word_space_8 | funny result gadget sugar puzzle defy naive lucky |  
 | bip_39_word_space_9 | funny result gadget sugar puzzle defy naive lucky whisper |  
+| bip_39_word_underscore_1 | funny |  
+| bip_39_word_underscore_10 | funny_result_gadget_sugar_puzzle_defy_naive_lucky_whisper_kitten |  
+| bip_39_word_underscore_11 | funny_result_gadget_sugar_puzzle_defy_naive_lucky_whisper_kitten_elite |  
+| bip_39_word_underscore_12 | funny_result_gadget_sugar_puzzle_defy_naive_lucky_whisper_kitten_elite_attend |  
+| bip_39_word_underscore_2 | funny_result |  
+| bip_39_word_underscore_3 | funny_result_gadget |  
+| bip_39_word_underscore_4 | funny_result_gadget_sugar |  
+| bip_39_word_underscore_5 | funny_result_gadget_sugar_puzzle |  
+| bip_39_word_underscore_6 | funny_result_gadget_sugar_puzzle_defy |  
+| bip_39_word_underscore_7 | funny_result_gadget_sugar_puzzle_defy_naive |  
+| bip_39_word_underscore_8 | funny_result_gadget_sugar_puzzle_defy_naive_lucky |  
+| bip_39_word_underscore_9 | funny_result_gadget_sugar_puzzle_defy_naive_lucky_whisper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

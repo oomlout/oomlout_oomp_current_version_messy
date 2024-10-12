@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | either |  
+| bip_39_word_dash_10 | either-ramp-daring-divide-unable-voice-million-warm-auto-mystery |  
+| bip_39_word_dash_11 | either-ramp-daring-divide-unable-voice-million-warm-auto-mystery-verb |  
+| bip_39_word_dash_12 | either-ramp-daring-divide-unable-voice-million-warm-auto-mystery-verb-ability |  
+| bip_39_word_dash_2 | either-ramp |  
+| bip_39_word_dash_3 | either-ramp-daring |  
+| bip_39_word_dash_4 | either-ramp-daring-divide |  
+| bip_39_word_dash_5 | either-ramp-daring-divide-unable |  
+| bip_39_word_dash_6 | either-ramp-daring-divide-unable-voice |  
+| bip_39_word_dash_7 | either-ramp-daring-divide-unable-voice-million |  
+| bip_39_word_dash_8 | either-ramp-daring-divide-unable-voice-million-warm |  
+| bip_39_word_dash_9 | either-ramp-daring-divide-unable-voice-million-warm-auto |  
 | bip_39_word_new_br_1 | either |  
 | bip_39_word_new_br_10 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery |  
 | bip_39_word_new_br_11 | either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery<br>verb |  
@@ -147,6 +159,18 @@ auto |
 | bip_39_word_space_7 | either ramp daring divide unable voice million |  
 | bip_39_word_space_8 | either ramp daring divide unable voice million warm |  
 | bip_39_word_space_9 | either ramp daring divide unable voice million warm auto |  
+| bip_39_word_underscore_1 | either |  
+| bip_39_word_underscore_10 | either_ramp_daring_divide_unable_voice_million_warm_auto_mystery |  
+| bip_39_word_underscore_11 | either_ramp_daring_divide_unable_voice_million_warm_auto_mystery_verb |  
+| bip_39_word_underscore_12 | either_ramp_daring_divide_unable_voice_million_warm_auto_mystery_verb_ability |  
+| bip_39_word_underscore_2 | either_ramp |  
+| bip_39_word_underscore_3 | either_ramp_daring |  
+| bip_39_word_underscore_4 | either_ramp_daring_divide |  
+| bip_39_word_underscore_5 | either_ramp_daring_divide_unable |  
+| bip_39_word_underscore_6 | either_ramp_daring_divide_unable_voice |  
+| bip_39_word_underscore_7 | either_ramp_daring_divide_unable_voice_million |  
+| bip_39_word_underscore_8 | either_ramp_daring_divide_unable_voice_million_warm |  
+| bip_39_word_underscore_9 | either_ramp_daring_divide_unable_voice_million_warm_auto |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

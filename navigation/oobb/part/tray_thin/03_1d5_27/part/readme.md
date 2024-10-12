@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | speak |  
+| bip_39_word_dash_10 | speak-fix-fog-slight-visa-army-math-cube-cliff-whale |  
+| bip_39_word_dash_11 | speak-fix-fog-slight-visa-army-math-cube-cliff-whale-cradle |  
+| bip_39_word_dash_12 | speak-fix-fog-slight-visa-army-math-cube-cliff-whale-cradle-anger |  
+| bip_39_word_dash_2 | speak-fix |  
+| bip_39_word_dash_3 | speak-fix-fog |  
+| bip_39_word_dash_4 | speak-fix-fog-slight |  
+| bip_39_word_dash_5 | speak-fix-fog-slight-visa |  
+| bip_39_word_dash_6 | speak-fix-fog-slight-visa-army |  
+| bip_39_word_dash_7 | speak-fix-fog-slight-visa-army-math |  
+| bip_39_word_dash_8 | speak-fix-fog-slight-visa-army-math-cube |  
+| bip_39_word_dash_9 | speak-fix-fog-slight-visa-army-math-cube-cliff |  
 | bip_39_word_new_br_1 | speak |  
 | bip_39_word_new_br_10 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube<br>cliff<br>whale |  
 | bip_39_word_new_br_11 | speak<br>fix<br>fog<br>slight<br>visa<br>army<br>math<br>cube<br>cliff<br>whale<br>cradle |  
@@ -147,6 +159,18 @@ cliff |
 | bip_39_word_space_7 | speak fix fog slight visa army math |  
 | bip_39_word_space_8 | speak fix fog slight visa army math cube |  
 | bip_39_word_space_9 | speak fix fog slight visa army math cube cliff |  
+| bip_39_word_underscore_1 | speak |  
+| bip_39_word_underscore_10 | speak_fix_fog_slight_visa_army_math_cube_cliff_whale |  
+| bip_39_word_underscore_11 | speak_fix_fog_slight_visa_army_math_cube_cliff_whale_cradle |  
+| bip_39_word_underscore_12 | speak_fix_fog_slight_visa_army_math_cube_cliff_whale_cradle_anger |  
+| bip_39_word_underscore_2 | speak_fix |  
+| bip_39_word_underscore_3 | speak_fix_fog |  
+| bip_39_word_underscore_4 | speak_fix_fog_slight |  
+| bip_39_word_underscore_5 | speak_fix_fog_slight_visa |  
+| bip_39_word_underscore_6 | speak_fix_fog_slight_visa_army |  
+| bip_39_word_underscore_7 | speak_fix_fog_slight_visa_army_math |  
+| bip_39_word_underscore_8 | speak_fix_fog_slight_visa_army_math_cube |  
+| bip_39_word_underscore_9 | speak_fix_fog_slight_visa_army_math_cube_cliff |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

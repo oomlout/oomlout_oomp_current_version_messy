@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mirror |  
+| bip_39_word_dash_10 | mirror-move-fantasy-noise-usage-fluid-broken-aerobic-aim-whisper |  
+| bip_39_word_dash_11 | mirror-move-fantasy-noise-usage-fluid-broken-aerobic-aim-whisper-inmate |  
+| bip_39_word_dash_12 | mirror-move-fantasy-noise-usage-fluid-broken-aerobic-aim-whisper-inmate-around |  
+| bip_39_word_dash_2 | mirror-move |  
+| bip_39_word_dash_3 | mirror-move-fantasy |  
+| bip_39_word_dash_4 | mirror-move-fantasy-noise |  
+| bip_39_word_dash_5 | mirror-move-fantasy-noise-usage |  
+| bip_39_word_dash_6 | mirror-move-fantasy-noise-usage-fluid |  
+| bip_39_word_dash_7 | mirror-move-fantasy-noise-usage-fluid-broken |  
+| bip_39_word_dash_8 | mirror-move-fantasy-noise-usage-fluid-broken-aerobic |  
+| bip_39_word_dash_9 | mirror-move-fantasy-noise-usage-fluid-broken-aerobic-aim |  
 | bip_39_word_new_br_1 | mirror |  
 | bip_39_word_new_br_10 | mirror<br>move<br>fantasy<br>noise<br>usage<br>fluid<br>broken<br>aerobic<br>aim<br>whisper |  
 | bip_39_word_new_br_11 | mirror<br>move<br>fantasy<br>noise<br>usage<br>fluid<br>broken<br>aerobic<br>aim<br>whisper<br>inmate |  
@@ -147,6 +159,18 @@ aim |
 | bip_39_word_space_7 | mirror move fantasy noise usage fluid broken |  
 | bip_39_word_space_8 | mirror move fantasy noise usage fluid broken aerobic |  
 | bip_39_word_space_9 | mirror move fantasy noise usage fluid broken aerobic aim |  
+| bip_39_word_underscore_1 | mirror |  
+| bip_39_word_underscore_10 | mirror_move_fantasy_noise_usage_fluid_broken_aerobic_aim_whisper |  
+| bip_39_word_underscore_11 | mirror_move_fantasy_noise_usage_fluid_broken_aerobic_aim_whisper_inmate |  
+| bip_39_word_underscore_12 | mirror_move_fantasy_noise_usage_fluid_broken_aerobic_aim_whisper_inmate_around |  
+| bip_39_word_underscore_2 | mirror_move |  
+| bip_39_word_underscore_3 | mirror_move_fantasy |  
+| bip_39_word_underscore_4 | mirror_move_fantasy_noise |  
+| bip_39_word_underscore_5 | mirror_move_fantasy_noise_usage |  
+| bip_39_word_underscore_6 | mirror_move_fantasy_noise_usage_fluid |  
+| bip_39_word_underscore_7 | mirror_move_fantasy_noise_usage_fluid_broken |  
+| bip_39_word_underscore_8 | mirror_move_fantasy_noise_usage_fluid_broken_aerobic |  
+| bip_39_word_underscore_9 | mirror_move_fantasy_noise_usage_fluid_broken_aerobic_aim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

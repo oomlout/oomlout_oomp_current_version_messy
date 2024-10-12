@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | asthma |  
+| bip_39_word_dash_10 | asthma-case-reveal-upon-energy-glove-invite-fantasy-wink-scrub |  
+| bip_39_word_dash_11 | asthma-case-reveal-upon-energy-glove-invite-fantasy-wink-scrub-palm |  
+| bip_39_word_dash_12 | asthma-case-reveal-upon-energy-glove-invite-fantasy-wink-scrub-palm-air |  
+| bip_39_word_dash_2 | asthma-case |  
+| bip_39_word_dash_3 | asthma-case-reveal |  
+| bip_39_word_dash_4 | asthma-case-reveal-upon |  
+| bip_39_word_dash_5 | asthma-case-reveal-upon-energy |  
+| bip_39_word_dash_6 | asthma-case-reveal-upon-energy-glove |  
+| bip_39_word_dash_7 | asthma-case-reveal-upon-energy-glove-invite |  
+| bip_39_word_dash_8 | asthma-case-reveal-upon-energy-glove-invite-fantasy |  
+| bip_39_word_dash_9 | asthma-case-reveal-upon-energy-glove-invite-fantasy-wink |  
 | bip_39_word_new_br_1 | asthma |  
 | bip_39_word_new_br_10 | asthma<br>case<br>reveal<br>upon<br>energy<br>glove<br>invite<br>fantasy<br>wink<br>scrub |  
 | bip_39_word_new_br_11 | asthma<br>case<br>reveal<br>upon<br>energy<br>glove<br>invite<br>fantasy<br>wink<br>scrub<br>palm |  
@@ -147,6 +159,18 @@ wink |
 | bip_39_word_space_7 | asthma case reveal upon energy glove invite |  
 | bip_39_word_space_8 | asthma case reveal upon energy glove invite fantasy |  
 | bip_39_word_space_9 | asthma case reveal upon energy glove invite fantasy wink |  
+| bip_39_word_underscore_1 | asthma |  
+| bip_39_word_underscore_10 | asthma_case_reveal_upon_energy_glove_invite_fantasy_wink_scrub |  
+| bip_39_word_underscore_11 | asthma_case_reveal_upon_energy_glove_invite_fantasy_wink_scrub_palm |  
+| bip_39_word_underscore_12 | asthma_case_reveal_upon_energy_glove_invite_fantasy_wink_scrub_palm_air |  
+| bip_39_word_underscore_2 | asthma_case |  
+| bip_39_word_underscore_3 | asthma_case_reveal |  
+| bip_39_word_underscore_4 | asthma_case_reveal_upon |  
+| bip_39_word_underscore_5 | asthma_case_reveal_upon_energy |  
+| bip_39_word_underscore_6 | asthma_case_reveal_upon_energy_glove |  
+| bip_39_word_underscore_7 | asthma_case_reveal_upon_energy_glove_invite |  
+| bip_39_word_underscore_8 | asthma_case_reveal_upon_energy_glove_invite_fantasy |  
+| bip_39_word_underscore_9 | asthma_case_reveal_upon_energy_glove_invite_fantasy_wink |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

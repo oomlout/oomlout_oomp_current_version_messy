@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | angle |  
+| bip_39_word_dash_10 | angle-frequent-divide-lava-six-fabric-kick-empower-duty-inhale |  
+| bip_39_word_dash_11 | angle-frequent-divide-lava-six-fabric-kick-empower-duty-inhale-lottery |  
+| bip_39_word_dash_12 | angle-frequent-divide-lava-six-fabric-kick-empower-duty-inhale-lottery-accident |  
+| bip_39_word_dash_2 | angle-frequent |  
+| bip_39_word_dash_3 | angle-frequent-divide |  
+| bip_39_word_dash_4 | angle-frequent-divide-lava |  
+| bip_39_word_dash_5 | angle-frequent-divide-lava-six |  
+| bip_39_word_dash_6 | angle-frequent-divide-lava-six-fabric |  
+| bip_39_word_dash_7 | angle-frequent-divide-lava-six-fabric-kick |  
+| bip_39_word_dash_8 | angle-frequent-divide-lava-six-fabric-kick-empower |  
+| bip_39_word_dash_9 | angle-frequent-divide-lava-six-fabric-kick-empower-duty |  
 | bip_39_word_new_br_1 | angle |  
 | bip_39_word_new_br_10 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale |  
 | bip_39_word_new_br_11 | angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale<br>lottery |  
@@ -147,6 +159,18 @@ duty |
 | bip_39_word_space_7 | angle frequent divide lava six fabric kick |  
 | bip_39_word_space_8 | angle frequent divide lava six fabric kick empower |  
 | bip_39_word_space_9 | angle frequent divide lava six fabric kick empower duty |  
+| bip_39_word_underscore_1 | angle |  
+| bip_39_word_underscore_10 | angle_frequent_divide_lava_six_fabric_kick_empower_duty_inhale |  
+| bip_39_word_underscore_11 | angle_frequent_divide_lava_six_fabric_kick_empower_duty_inhale_lottery |  
+| bip_39_word_underscore_12 | angle_frequent_divide_lava_six_fabric_kick_empower_duty_inhale_lottery_accident |  
+| bip_39_word_underscore_2 | angle_frequent |  
+| bip_39_word_underscore_3 | angle_frequent_divide |  
+| bip_39_word_underscore_4 | angle_frequent_divide_lava |  
+| bip_39_word_underscore_5 | angle_frequent_divide_lava_six |  
+| bip_39_word_underscore_6 | angle_frequent_divide_lava_six_fabric |  
+| bip_39_word_underscore_7 | angle_frequent_divide_lava_six_fabric_kick |  
+| bip_39_word_underscore_8 | angle_frequent_divide_lava_six_fabric_kick_empower |  
+| bip_39_word_underscore_9 | angle_frequent_divide_lava_six_fabric_kick_empower_duty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

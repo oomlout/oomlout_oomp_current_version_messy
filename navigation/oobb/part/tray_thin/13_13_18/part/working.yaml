@@ -1,3 +1,15 @@
+bip_39_word_dash_1: zoo
+bip_39_word_dash_10: zoo-display-nurse-skate-normal-own-often-ritual-stadium-celery
+bip_39_word_dash_11: zoo-display-nurse-skate-normal-own-often-ritual-stadium-celery-blur
+bip_39_word_dash_12: zoo-display-nurse-skate-normal-own-often-ritual-stadium-celery-blur-another
+bip_39_word_dash_2: zoo-display
+bip_39_word_dash_3: zoo-display-nurse
+bip_39_word_dash_4: zoo-display-nurse-skate
+bip_39_word_dash_5: zoo-display-nurse-skate-normal
+bip_39_word_dash_6: zoo-display-nurse-skate-normal-own
+bip_39_word_dash_7: zoo-display-nurse-skate-normal-own-often
+bip_39_word_dash_8: zoo-display-nurse-skate-normal-own-often-ritual
+bip_39_word_dash_9: zoo-display-nurse-skate-normal-own-often-ritual-stadium
 bip_39_word_new_br_1: zoo
 bip_39_word_new_br_10: zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery
 bip_39_word_new_br_11: zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery<br>blur
@@ -193,6 +205,18 @@ bip_39_word_space_6: zoo display nurse skate normal own
 bip_39_word_space_7: zoo display nurse skate normal own often
 bip_39_word_space_8: zoo display nurse skate normal own often ritual
 bip_39_word_space_9: zoo display nurse skate normal own often ritual stadium
+bip_39_word_underscore_1: zoo
+bip_39_word_underscore_10: zoo_display_nurse_skate_normal_own_often_ritual_stadium_celery
+bip_39_word_underscore_11: zoo_display_nurse_skate_normal_own_often_ritual_stadium_celery_blur
+bip_39_word_underscore_12: zoo_display_nurse_skate_normal_own_often_ritual_stadium_celery_blur_another
+bip_39_word_underscore_2: zoo_display
+bip_39_word_underscore_3: zoo_display_nurse
+bip_39_word_underscore_4: zoo_display_nurse_skate
+bip_39_word_underscore_5: zoo_display_nurse_skate_normal
+bip_39_word_underscore_6: zoo_display_nurse_skate_normal_own
+bip_39_word_underscore_7: zoo_display_nurse_skate_normal_own_often
+bip_39_word_underscore_8: zoo_display_nurse_skate_normal_own_often_ritual
+bip_39_word_underscore_9: zoo_display_nurse_skate_normal_own_often_ritual_stadium
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

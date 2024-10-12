@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wink |  
+| bip_39_word_dash_10 | wink-panic-chat-long-truly-gate-where-fault-rain-reject |  
+| bip_39_word_dash_11 | wink-panic-chat-long-truly-gate-where-fault-rain-reject-advice |  
+| bip_39_word_dash_12 | wink-panic-chat-long-truly-gate-where-fault-rain-reject-advice-assume |  
+| bip_39_word_dash_2 | wink-panic |  
+| bip_39_word_dash_3 | wink-panic-chat |  
+| bip_39_word_dash_4 | wink-panic-chat-long |  
+| bip_39_word_dash_5 | wink-panic-chat-long-truly |  
+| bip_39_word_dash_6 | wink-panic-chat-long-truly-gate |  
+| bip_39_word_dash_7 | wink-panic-chat-long-truly-gate-where |  
+| bip_39_word_dash_8 | wink-panic-chat-long-truly-gate-where-fault |  
+| bip_39_word_dash_9 | wink-panic-chat-long-truly-gate-where-fault-rain |  
 | bip_39_word_new_br_1 | wink |  
 | bip_39_word_new_br_10 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault<br>rain<br>reject |  
 | bip_39_word_new_br_11 | wink<br>panic<br>chat<br>long<br>truly<br>gate<br>where<br>fault<br>rain<br>reject<br>advice |  
@@ -147,6 +159,18 @@ rain |
 | bip_39_word_space_7 | wink panic chat long truly gate where |  
 | bip_39_word_space_8 | wink panic chat long truly gate where fault |  
 | bip_39_word_space_9 | wink panic chat long truly gate where fault rain |  
+| bip_39_word_underscore_1 | wink |  
+| bip_39_word_underscore_10 | wink_panic_chat_long_truly_gate_where_fault_rain_reject |  
+| bip_39_word_underscore_11 | wink_panic_chat_long_truly_gate_where_fault_rain_reject_advice |  
+| bip_39_word_underscore_12 | wink_panic_chat_long_truly_gate_where_fault_rain_reject_advice_assume |  
+| bip_39_word_underscore_2 | wink_panic |  
+| bip_39_word_underscore_3 | wink_panic_chat |  
+| bip_39_word_underscore_4 | wink_panic_chat_long |  
+| bip_39_word_underscore_5 | wink_panic_chat_long_truly |  
+| bip_39_word_underscore_6 | wink_panic_chat_long_truly_gate |  
+| bip_39_word_underscore_7 | wink_panic_chat_long_truly_gate_where |  
+| bip_39_word_underscore_8 | wink_panic_chat_long_truly_gate_where_fault |  
+| bip_39_word_underscore_9 | wink_panic_chat_long_truly_gate_where_fault_rain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

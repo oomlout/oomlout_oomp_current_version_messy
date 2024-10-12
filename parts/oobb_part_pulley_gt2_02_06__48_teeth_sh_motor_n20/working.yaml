@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sport
+bip_39_word_dash_10: sport-mammal-one-dinner-quantum-either-cancel-guess-client-dinosaur
+bip_39_word_dash_11: sport-mammal-one-dinner-quantum-either-cancel-guess-client-dinosaur-cage
+bip_39_word_dash_12: sport-mammal-one-dinner-quantum-either-cancel-guess-client-dinosaur-cage-affair
+bip_39_word_dash_2: sport-mammal
+bip_39_word_dash_3: sport-mammal-one
+bip_39_word_dash_4: sport-mammal-one-dinner
+bip_39_word_dash_5: sport-mammal-one-dinner-quantum
+bip_39_word_dash_6: sport-mammal-one-dinner-quantum-either
+bip_39_word_dash_7: sport-mammal-one-dinner-quantum-either-cancel
+bip_39_word_dash_8: sport-mammal-one-dinner-quantum-either-cancel-guess
+bip_39_word_dash_9: sport-mammal-one-dinner-quantum-either-cancel-guess-client
 bip_39_word_new_br_1: sport
 bip_39_word_new_br_10: sport<br>mammal<br>one<br>dinner<br>quantum<br>either<br>cancel<br>guess<br>client<br>dinosaur
 bip_39_word_new_br_11: sport<br>mammal<br>one<br>dinner<br>quantum<br>either<br>cancel<br>guess<br>client<br>dinosaur<br>cage
@@ -193,6 +205,18 @@ bip_39_word_space_6: sport mammal one dinner quantum either
 bip_39_word_space_7: sport mammal one dinner quantum either cancel
 bip_39_word_space_8: sport mammal one dinner quantum either cancel guess
 bip_39_word_space_9: sport mammal one dinner quantum either cancel guess client
+bip_39_word_underscore_1: sport
+bip_39_word_underscore_10: sport_mammal_one_dinner_quantum_either_cancel_guess_client_dinosaur
+bip_39_word_underscore_11: sport_mammal_one_dinner_quantum_either_cancel_guess_client_dinosaur_cage
+bip_39_word_underscore_12: sport_mammal_one_dinner_quantum_either_cancel_guess_client_dinosaur_cage_affair
+bip_39_word_underscore_2: sport_mammal
+bip_39_word_underscore_3: sport_mammal_one
+bip_39_word_underscore_4: sport_mammal_one_dinner
+bip_39_word_underscore_5: sport_mammal_one_dinner_quantum
+bip_39_word_underscore_6: sport_mammal_one_dinner_quantum_either
+bip_39_word_underscore_7: sport_mammal_one_dinner_quantum_either_cancel
+bip_39_word_underscore_8: sport_mammal_one_dinner_quantum_either_cancel_guess
+bip_39_word_underscore_9: sport_mammal_one_dinner_quantum_either_cancel_guess_client
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

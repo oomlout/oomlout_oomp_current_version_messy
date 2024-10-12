@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sing
+bip_39_word_dash_10: sing-aisle-repair-stool-summer-grit-basic-inside-midnight-monitor
+bip_39_word_dash_11: sing-aisle-repair-stool-summer-grit-basic-inside-midnight-monitor-fruit
+bip_39_word_dash_12: sing-aisle-repair-stool-summer-grit-basic-inside-midnight-monitor-fruit-area
+bip_39_word_dash_2: sing-aisle
+bip_39_word_dash_3: sing-aisle-repair
+bip_39_word_dash_4: sing-aisle-repair-stool
+bip_39_word_dash_5: sing-aisle-repair-stool-summer
+bip_39_word_dash_6: sing-aisle-repair-stool-summer-grit
+bip_39_word_dash_7: sing-aisle-repair-stool-summer-grit-basic
+bip_39_word_dash_8: sing-aisle-repair-stool-summer-grit-basic-inside
+bip_39_word_dash_9: sing-aisle-repair-stool-summer-grit-basic-inside-midnight
 bip_39_word_new_br_1: sing
 bip_39_word_new_br_10: sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor
 bip_39_word_new_br_11: sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor<br>fruit
@@ -193,6 +205,18 @@ bip_39_word_space_6: sing aisle repair stool summer grit
 bip_39_word_space_7: sing aisle repair stool summer grit basic
 bip_39_word_space_8: sing aisle repair stool summer grit basic inside
 bip_39_word_space_9: sing aisle repair stool summer grit basic inside midnight
+bip_39_word_underscore_1: sing
+bip_39_word_underscore_10: sing_aisle_repair_stool_summer_grit_basic_inside_midnight_monitor
+bip_39_word_underscore_11: sing_aisle_repair_stool_summer_grit_basic_inside_midnight_monitor_fruit
+bip_39_word_underscore_12: sing_aisle_repair_stool_summer_grit_basic_inside_midnight_monitor_fruit_area
+bip_39_word_underscore_2: sing_aisle
+bip_39_word_underscore_3: sing_aisle_repair
+bip_39_word_underscore_4: sing_aisle_repair_stool
+bip_39_word_underscore_5: sing_aisle_repair_stool_summer
+bip_39_word_underscore_6: sing_aisle_repair_stool_summer_grit
+bip_39_word_underscore_7: sing_aisle_repair_stool_summer_grit_basic
+bip_39_word_underscore_8: sing_aisle_repair_stool_summer_grit_basic_inside
+bip_39_word_underscore_9: sing_aisle_repair_stool_summer_grit_basic_inside_midnight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

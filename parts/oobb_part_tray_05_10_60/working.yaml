@@ -1,3 +1,15 @@
+bip_39_word_dash_1: puppy
+bip_39_word_dash_10: puppy-fragile-light-build-panther-void-shiver-frown-tennis-rain
+bip_39_word_dash_11: puppy-fragile-light-build-panther-void-shiver-frown-tennis-rain-scrap
+bip_39_word_dash_12: puppy-fragile-light-build-panther-void-shiver-frown-tennis-rain-scrap-almost
+bip_39_word_dash_2: puppy-fragile
+bip_39_word_dash_3: puppy-fragile-light
+bip_39_word_dash_4: puppy-fragile-light-build
+bip_39_word_dash_5: puppy-fragile-light-build-panther
+bip_39_word_dash_6: puppy-fragile-light-build-panther-void
+bip_39_word_dash_7: puppy-fragile-light-build-panther-void-shiver
+bip_39_word_dash_8: puppy-fragile-light-build-panther-void-shiver-frown
+bip_39_word_dash_9: puppy-fragile-light-build-panther-void-shiver-frown-tennis
 bip_39_word_new_br_1: puppy
 bip_39_word_new_br_10: puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown<br>tennis<br>rain
 bip_39_word_new_br_11: puppy<br>fragile<br>light<br>build<br>panther<br>void<br>shiver<br>frown<br>tennis<br>rain<br>scrap
@@ -193,6 +205,18 @@ bip_39_word_space_6: puppy fragile light build panther void
 bip_39_word_space_7: puppy fragile light build panther void shiver
 bip_39_word_space_8: puppy fragile light build panther void shiver frown
 bip_39_word_space_9: puppy fragile light build panther void shiver frown tennis
+bip_39_word_underscore_1: puppy
+bip_39_word_underscore_10: puppy_fragile_light_build_panther_void_shiver_frown_tennis_rain
+bip_39_word_underscore_11: puppy_fragile_light_build_panther_void_shiver_frown_tennis_rain_scrap
+bip_39_word_underscore_12: puppy_fragile_light_build_panther_void_shiver_frown_tennis_rain_scrap_almost
+bip_39_word_underscore_2: puppy_fragile
+bip_39_word_underscore_3: puppy_fragile_light
+bip_39_word_underscore_4: puppy_fragile_light_build
+bip_39_word_underscore_5: puppy_fragile_light_build_panther
+bip_39_word_underscore_6: puppy_fragile_light_build_panther_void
+bip_39_word_underscore_7: puppy_fragile_light_build_panther_void_shiver
+bip_39_word_underscore_8: puppy_fragile_light_build_panther_void_shiver_frown
+bip_39_word_underscore_9: puppy_fragile_light_build_panther_void_shiver_frown_tennis
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

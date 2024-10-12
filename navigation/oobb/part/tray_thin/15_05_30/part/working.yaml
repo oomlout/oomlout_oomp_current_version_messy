@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stomach
+bip_39_word_dash_10: stomach-alpha-vote-worry-cargo-indicate-escape-coast-useless-agent
+bip_39_word_dash_11: stomach-alpha-vote-worry-cargo-indicate-escape-coast-useless-agent-taxi
+bip_39_word_dash_12: stomach-alpha-vote-worry-cargo-indicate-escape-coast-useless-agent-taxi-around
+bip_39_word_dash_2: stomach-alpha
+bip_39_word_dash_3: stomach-alpha-vote
+bip_39_word_dash_4: stomach-alpha-vote-worry
+bip_39_word_dash_5: stomach-alpha-vote-worry-cargo
+bip_39_word_dash_6: stomach-alpha-vote-worry-cargo-indicate
+bip_39_word_dash_7: stomach-alpha-vote-worry-cargo-indicate-escape
+bip_39_word_dash_8: stomach-alpha-vote-worry-cargo-indicate-escape-coast
+bip_39_word_dash_9: stomach-alpha-vote-worry-cargo-indicate-escape-coast-useless
 bip_39_word_new_br_1: stomach
 bip_39_word_new_br_10: stomach<br>alpha<br>vote<br>worry<br>cargo<br>indicate<br>escape<br>coast<br>useless<br>agent
 bip_39_word_new_br_11: stomach<br>alpha<br>vote<br>worry<br>cargo<br>indicate<br>escape<br>coast<br>useless<br>agent<br>taxi
@@ -194,6 +206,18 @@ bip_39_word_space_6: stomach alpha vote worry cargo indicate
 bip_39_word_space_7: stomach alpha vote worry cargo indicate escape
 bip_39_word_space_8: stomach alpha vote worry cargo indicate escape coast
 bip_39_word_space_9: stomach alpha vote worry cargo indicate escape coast useless
+bip_39_word_underscore_1: stomach
+bip_39_word_underscore_10: stomach_alpha_vote_worry_cargo_indicate_escape_coast_useless_agent
+bip_39_word_underscore_11: stomach_alpha_vote_worry_cargo_indicate_escape_coast_useless_agent_taxi
+bip_39_word_underscore_12: stomach_alpha_vote_worry_cargo_indicate_escape_coast_useless_agent_taxi_around
+bip_39_word_underscore_2: stomach_alpha
+bip_39_word_underscore_3: stomach_alpha_vote
+bip_39_word_underscore_4: stomach_alpha_vote_worry
+bip_39_word_underscore_5: stomach_alpha_vote_worry_cargo
+bip_39_word_underscore_6: stomach_alpha_vote_worry_cargo_indicate
+bip_39_word_underscore_7: stomach_alpha_vote_worry_cargo_indicate_escape
+bip_39_word_underscore_8: stomach_alpha_vote_worry_cargo_indicate_escape_coast
+bip_39_word_underscore_9: stomach_alpha_vote_worry_cargo_indicate_escape_coast_useless
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

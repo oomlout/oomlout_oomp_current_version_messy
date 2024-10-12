@@ -1,3 +1,15 @@
+bip_39_word_dash_1: young
+bip_39_word_dash_10: young-govern-below-immense-nut-rebuild-frown-member-this-call
+bip_39_word_dash_11: young-govern-below-immense-nut-rebuild-frown-member-this-call-guitar
+bip_39_word_dash_12: young-govern-below-immense-nut-rebuild-frown-member-this-call-guitar-accident
+bip_39_word_dash_2: young-govern
+bip_39_word_dash_3: young-govern-below
+bip_39_word_dash_4: young-govern-below-immense
+bip_39_word_dash_5: young-govern-below-immense-nut
+bip_39_word_dash_6: young-govern-below-immense-nut-rebuild
+bip_39_word_dash_7: young-govern-below-immense-nut-rebuild-frown
+bip_39_word_dash_8: young-govern-below-immense-nut-rebuild-frown-member
+bip_39_word_dash_9: young-govern-below-immense-nut-rebuild-frown-member-this
 bip_39_word_new_br_1: young
 bip_39_word_new_br_10: young<br>govern<br>below<br>immense<br>nut<br>rebuild<br>frown<br>member<br>this<br>call
 bip_39_word_new_br_11: young<br>govern<br>below<br>immense<br>nut<br>rebuild<br>frown<br>member<br>this<br>call<br>guitar
@@ -193,6 +205,18 @@ bip_39_word_space_6: young govern below immense nut rebuild
 bip_39_word_space_7: young govern below immense nut rebuild frown
 bip_39_word_space_8: young govern below immense nut rebuild frown member
 bip_39_word_space_9: young govern below immense nut rebuild frown member this
+bip_39_word_underscore_1: young
+bip_39_word_underscore_10: young_govern_below_immense_nut_rebuild_frown_member_this_call
+bip_39_word_underscore_11: young_govern_below_immense_nut_rebuild_frown_member_this_call_guitar
+bip_39_word_underscore_12: young_govern_below_immense_nut_rebuild_frown_member_this_call_guitar_accident
+bip_39_word_underscore_2: young_govern
+bip_39_word_underscore_3: young_govern_below
+bip_39_word_underscore_4: young_govern_below_immense
+bip_39_word_underscore_5: young_govern_below_immense_nut
+bip_39_word_underscore_6: young_govern_below_immense_nut_rebuild
+bip_39_word_underscore_7: young_govern_below_immense_nut_rebuild_frown
+bip_39_word_underscore_8: young_govern_below_immense_nut_rebuild_frown_member
+bip_39_word_underscore_9: young_govern_below_immense_nut_rebuild_frown_member_this
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

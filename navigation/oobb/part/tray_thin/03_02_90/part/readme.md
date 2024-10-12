@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boost |  
+| bip_39_word_dash_10 | boost-pottery-main-mercy-chase-wasp-whisper-woman-maid-tell |  
+| bip_39_word_dash_11 | boost-pottery-main-mercy-chase-wasp-whisper-woman-maid-tell-copy |  
+| bip_39_word_dash_12 | boost-pottery-main-mercy-chase-wasp-whisper-woman-maid-tell-copy-access |  
+| bip_39_word_dash_2 | boost-pottery |  
+| bip_39_word_dash_3 | boost-pottery-main |  
+| bip_39_word_dash_4 | boost-pottery-main-mercy |  
+| bip_39_word_dash_5 | boost-pottery-main-mercy-chase |  
+| bip_39_word_dash_6 | boost-pottery-main-mercy-chase-wasp |  
+| bip_39_word_dash_7 | boost-pottery-main-mercy-chase-wasp-whisper |  
+| bip_39_word_dash_8 | boost-pottery-main-mercy-chase-wasp-whisper-woman |  
+| bip_39_word_dash_9 | boost-pottery-main-mercy-chase-wasp-whisper-woman-maid |  
 | bip_39_word_new_br_1 | boost |  
 | bip_39_word_new_br_10 | boost<br>pottery<br>main<br>mercy<br>chase<br>wasp<br>whisper<br>woman<br>maid<br>tell |  
 | bip_39_word_new_br_11 | boost<br>pottery<br>main<br>mercy<br>chase<br>wasp<br>whisper<br>woman<br>maid<br>tell<br>copy |  
@@ -147,6 +159,18 @@ maid |
 | bip_39_word_space_7 | boost pottery main mercy chase wasp whisper |  
 | bip_39_word_space_8 | boost pottery main mercy chase wasp whisper woman |  
 | bip_39_word_space_9 | boost pottery main mercy chase wasp whisper woman maid |  
+| bip_39_word_underscore_1 | boost |  
+| bip_39_word_underscore_10 | boost_pottery_main_mercy_chase_wasp_whisper_woman_maid_tell |  
+| bip_39_word_underscore_11 | boost_pottery_main_mercy_chase_wasp_whisper_woman_maid_tell_copy |  
+| bip_39_word_underscore_12 | boost_pottery_main_mercy_chase_wasp_whisper_woman_maid_tell_copy_access |  
+| bip_39_word_underscore_2 | boost_pottery |  
+| bip_39_word_underscore_3 | boost_pottery_main |  
+| bip_39_word_underscore_4 | boost_pottery_main_mercy |  
+| bip_39_word_underscore_5 | boost_pottery_main_mercy_chase |  
+| bip_39_word_underscore_6 | boost_pottery_main_mercy_chase_wasp |  
+| bip_39_word_underscore_7 | boost_pottery_main_mercy_chase_wasp_whisper |  
+| bip_39_word_underscore_8 | boost_pottery_main_mercy_chase_wasp_whisper_woman |  
+| bip_39_word_underscore_9 | boost_pottery_main_mercy_chase_wasp_whisper_woman_maid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

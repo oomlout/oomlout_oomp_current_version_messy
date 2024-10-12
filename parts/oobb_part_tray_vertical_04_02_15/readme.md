@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spring |  
+| bip_39_word_dash_10 | spring-domain-half-bulb-sword-orient-force-glad-figure-bonus |  
+| bip_39_word_dash_11 | spring-domain-half-bulb-sword-orient-force-glad-figure-bonus-access |  
+| bip_39_word_dash_12 | spring-domain-half-bulb-sword-orient-force-glad-figure-bonus-access-alter |  
+| bip_39_word_dash_2 | spring-domain |  
+| bip_39_word_dash_3 | spring-domain-half |  
+| bip_39_word_dash_4 | spring-domain-half-bulb |  
+| bip_39_word_dash_5 | spring-domain-half-bulb-sword |  
+| bip_39_word_dash_6 | spring-domain-half-bulb-sword-orient |  
+| bip_39_word_dash_7 | spring-domain-half-bulb-sword-orient-force |  
+| bip_39_word_dash_8 | spring-domain-half-bulb-sword-orient-force-glad |  
+| bip_39_word_dash_9 | spring-domain-half-bulb-sword-orient-force-glad-figure |  
 | bip_39_word_new_br_1 | spring |  
 | bip_39_word_new_br_10 | spring<br>domain<br>half<br>bulb<br>sword<br>orient<br>force<br>glad<br>figure<br>bonus |  
 | bip_39_word_new_br_11 | spring<br>domain<br>half<br>bulb<br>sword<br>orient<br>force<br>glad<br>figure<br>bonus<br>access |  
@@ -147,6 +159,18 @@ figure |
 | bip_39_word_space_7 | spring domain half bulb sword orient force |  
 | bip_39_word_space_8 | spring domain half bulb sword orient force glad |  
 | bip_39_word_space_9 | spring domain half bulb sword orient force glad figure |  
+| bip_39_word_underscore_1 | spring |  
+| bip_39_word_underscore_10 | spring_domain_half_bulb_sword_orient_force_glad_figure_bonus |  
+| bip_39_word_underscore_11 | spring_domain_half_bulb_sword_orient_force_glad_figure_bonus_access |  
+| bip_39_word_underscore_12 | spring_domain_half_bulb_sword_orient_force_glad_figure_bonus_access_alter |  
+| bip_39_word_underscore_2 | spring_domain |  
+| bip_39_word_underscore_3 | spring_domain_half |  
+| bip_39_word_underscore_4 | spring_domain_half_bulb |  
+| bip_39_word_underscore_5 | spring_domain_half_bulb_sword |  
+| bip_39_word_underscore_6 | spring_domain_half_bulb_sword_orient |  
+| bip_39_word_underscore_7 | spring_domain_half_bulb_sword_orient_force |  
+| bip_39_word_underscore_8 | spring_domain_half_bulb_sword_orient_force_glad |  
+| bip_39_word_underscore_9 | spring_domain_half_bulb_sword_orient_force_glad_figure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

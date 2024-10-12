@@ -1,3 +1,15 @@
+bip_39_word_dash_1: oxygen
+bip_39_word_dash_10: oxygen-venue-flower-bridge-age-sentence-kitten-sail-all-spot
+bip_39_word_dash_11: oxygen-venue-flower-bridge-age-sentence-kitten-sail-all-spot-path
+bip_39_word_dash_12: oxygen-venue-flower-bridge-age-sentence-kitten-sail-all-spot-path-all
+bip_39_word_dash_2: oxygen-venue
+bip_39_word_dash_3: oxygen-venue-flower
+bip_39_word_dash_4: oxygen-venue-flower-bridge
+bip_39_word_dash_5: oxygen-venue-flower-bridge-age
+bip_39_word_dash_6: oxygen-venue-flower-bridge-age-sentence
+bip_39_word_dash_7: oxygen-venue-flower-bridge-age-sentence-kitten
+bip_39_word_dash_8: oxygen-venue-flower-bridge-age-sentence-kitten-sail
+bip_39_word_dash_9: oxygen-venue-flower-bridge-age-sentence-kitten-sail-all
 bip_39_word_new_br_1: oxygen
 bip_39_word_new_br_10: oxygen<br>venue<br>flower<br>bridge<br>age<br>sentence<br>kitten<br>sail<br>all<br>spot
 bip_39_word_new_br_11: oxygen<br>venue<br>flower<br>bridge<br>age<br>sentence<br>kitten<br>sail<br>all<br>spot<br>path
@@ -193,6 +205,18 @@ bip_39_word_space_6: oxygen venue flower bridge age sentence
 bip_39_word_space_7: oxygen venue flower bridge age sentence kitten
 bip_39_word_space_8: oxygen venue flower bridge age sentence kitten sail
 bip_39_word_space_9: oxygen venue flower bridge age sentence kitten sail all
+bip_39_word_underscore_1: oxygen
+bip_39_word_underscore_10: oxygen_venue_flower_bridge_age_sentence_kitten_sail_all_spot
+bip_39_word_underscore_11: oxygen_venue_flower_bridge_age_sentence_kitten_sail_all_spot_path
+bip_39_word_underscore_12: oxygen_venue_flower_bridge_age_sentence_kitten_sail_all_spot_path_all
+bip_39_word_underscore_2: oxygen_venue
+bip_39_word_underscore_3: oxygen_venue_flower
+bip_39_word_underscore_4: oxygen_venue_flower_bridge
+bip_39_word_underscore_5: oxygen_venue_flower_bridge_age
+bip_39_word_underscore_6: oxygen_venue_flower_bridge_age_sentence
+bip_39_word_underscore_7: oxygen_venue_flower_bridge_age_sentence_kitten
+bip_39_word_underscore_8: oxygen_venue_flower_bridge_age_sentence_kitten_sail
+bip_39_word_underscore_9: oxygen_venue_flower_bridge_age_sentence_kitten_sail_all
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | whip |  
+| bip_39_word_dash_10 | whip-cruise-cave-volcano-pig-gas-almost-comfort-flash-consider |  
+| bip_39_word_dash_11 | whip-cruise-cave-volcano-pig-gas-almost-comfort-flash-consider-ball |  
+| bip_39_word_dash_12 | whip-cruise-cave-volcano-pig-gas-almost-comfort-flash-consider-ball-acoustic |  
+| bip_39_word_dash_2 | whip-cruise |  
+| bip_39_word_dash_3 | whip-cruise-cave |  
+| bip_39_word_dash_4 | whip-cruise-cave-volcano |  
+| bip_39_word_dash_5 | whip-cruise-cave-volcano-pig |  
+| bip_39_word_dash_6 | whip-cruise-cave-volcano-pig-gas |  
+| bip_39_word_dash_7 | whip-cruise-cave-volcano-pig-gas-almost |  
+| bip_39_word_dash_8 | whip-cruise-cave-volcano-pig-gas-almost-comfort |  
+| bip_39_word_dash_9 | whip-cruise-cave-volcano-pig-gas-almost-comfort-flash |  
 | bip_39_word_new_br_1 | whip |  
 | bip_39_word_new_br_10 | whip<br>cruise<br>cave<br>volcano<br>pig<br>gas<br>almost<br>comfort<br>flash<br>consider |  
 | bip_39_word_new_br_11 | whip<br>cruise<br>cave<br>volcano<br>pig<br>gas<br>almost<br>comfort<br>flash<br>consider<br>ball |  
@@ -147,6 +159,18 @@ flash |
 | bip_39_word_space_7 | whip cruise cave volcano pig gas almost |  
 | bip_39_word_space_8 | whip cruise cave volcano pig gas almost comfort |  
 | bip_39_word_space_9 | whip cruise cave volcano pig gas almost comfort flash |  
+| bip_39_word_underscore_1 | whip |  
+| bip_39_word_underscore_10 | whip_cruise_cave_volcano_pig_gas_almost_comfort_flash_consider |  
+| bip_39_word_underscore_11 | whip_cruise_cave_volcano_pig_gas_almost_comfort_flash_consider_ball |  
+| bip_39_word_underscore_12 | whip_cruise_cave_volcano_pig_gas_almost_comfort_flash_consider_ball_acoustic |  
+| bip_39_word_underscore_2 | whip_cruise |  
+| bip_39_word_underscore_3 | whip_cruise_cave |  
+| bip_39_word_underscore_4 | whip_cruise_cave_volcano |  
+| bip_39_word_underscore_5 | whip_cruise_cave_volcano_pig |  
+| bip_39_word_underscore_6 | whip_cruise_cave_volcano_pig_gas |  
+| bip_39_word_underscore_7 | whip_cruise_cave_volcano_pig_gas_almost |  
+| bip_39_word_underscore_8 | whip_cruise_cave_volcano_pig_gas_almost_comfort |  
+| bip_39_word_underscore_9 | whip_cruise_cave_volcano_pig_gas_almost_comfort_flash |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

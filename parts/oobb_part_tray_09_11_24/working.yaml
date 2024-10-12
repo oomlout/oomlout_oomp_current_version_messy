@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nurse
+bip_39_word_dash_10: nurse-fortune-final-unique-duck-sign-popular-receive-bracket-mercy
+bip_39_word_dash_11: nurse-fortune-final-unique-duck-sign-popular-receive-bracket-mercy-require
+bip_39_word_dash_12: nurse-fortune-final-unique-duck-sign-popular-receive-bracket-mercy-require-auction
+bip_39_word_dash_2: nurse-fortune
+bip_39_word_dash_3: nurse-fortune-final
+bip_39_word_dash_4: nurse-fortune-final-unique
+bip_39_word_dash_5: nurse-fortune-final-unique-duck
+bip_39_word_dash_6: nurse-fortune-final-unique-duck-sign
+bip_39_word_dash_7: nurse-fortune-final-unique-duck-sign-popular
+bip_39_word_dash_8: nurse-fortune-final-unique-duck-sign-popular-receive
+bip_39_word_dash_9: nurse-fortune-final-unique-duck-sign-popular-receive-bracket
 bip_39_word_new_br_1: nurse
 bip_39_word_new_br_10: nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive<br>bracket<br>mercy
 bip_39_word_new_br_11: nurse<br>fortune<br>final<br>unique<br>duck<br>sign<br>popular<br>receive<br>bracket<br>mercy<br>require
@@ -194,6 +206,18 @@ bip_39_word_space_6: nurse fortune final unique duck sign
 bip_39_word_space_7: nurse fortune final unique duck sign popular
 bip_39_word_space_8: nurse fortune final unique duck sign popular receive
 bip_39_word_space_9: nurse fortune final unique duck sign popular receive bracket
+bip_39_word_underscore_1: nurse
+bip_39_word_underscore_10: nurse_fortune_final_unique_duck_sign_popular_receive_bracket_mercy
+bip_39_word_underscore_11: nurse_fortune_final_unique_duck_sign_popular_receive_bracket_mercy_require
+bip_39_word_underscore_12: nurse_fortune_final_unique_duck_sign_popular_receive_bracket_mercy_require_auction
+bip_39_word_underscore_2: nurse_fortune
+bip_39_word_underscore_3: nurse_fortune_final
+bip_39_word_underscore_4: nurse_fortune_final_unique
+bip_39_word_underscore_5: nurse_fortune_final_unique_duck
+bip_39_word_underscore_6: nurse_fortune_final_unique_duck_sign
+bip_39_word_underscore_7: nurse_fortune_final_unique_duck_sign_popular
+bip_39_word_underscore_8: nurse_fortune_final_unique_duck_sign_popular_receive
+bip_39_word_underscore_9: nurse_fortune_final_unique_duck_sign_popular_receive_bracket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

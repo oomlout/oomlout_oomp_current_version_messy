@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | target |  
+| bip_39_word_dash_10 | target-wine-taste-fabric-wish-vocal-achieve-hollow-cereal-dress |  
+| bip_39_word_dash_11 | target-wine-taste-fabric-wish-vocal-achieve-hollow-cereal-dress-decade |  
+| bip_39_word_dash_12 | target-wine-taste-fabric-wish-vocal-achieve-hollow-cereal-dress-decade-august |  
+| bip_39_word_dash_2 | target-wine |  
+| bip_39_word_dash_3 | target-wine-taste |  
+| bip_39_word_dash_4 | target-wine-taste-fabric |  
+| bip_39_word_dash_5 | target-wine-taste-fabric-wish |  
+| bip_39_word_dash_6 | target-wine-taste-fabric-wish-vocal |  
+| bip_39_word_dash_7 | target-wine-taste-fabric-wish-vocal-achieve |  
+| bip_39_word_dash_8 | target-wine-taste-fabric-wish-vocal-achieve-hollow |  
+| bip_39_word_dash_9 | target-wine-taste-fabric-wish-vocal-achieve-hollow-cereal |  
 | bip_39_word_new_br_1 | target |  
 | bip_39_word_new_br_10 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow<br>cereal<br>dress |  
 | bip_39_word_new_br_11 | target<br>wine<br>taste<br>fabric<br>wish<br>vocal<br>achieve<br>hollow<br>cereal<br>dress<br>decade |  
@@ -147,6 +159,18 @@ cereal |
 | bip_39_word_space_7 | target wine taste fabric wish vocal achieve |  
 | bip_39_word_space_8 | target wine taste fabric wish vocal achieve hollow |  
 | bip_39_word_space_9 | target wine taste fabric wish vocal achieve hollow cereal |  
+| bip_39_word_underscore_1 | target |  
+| bip_39_word_underscore_10 | target_wine_taste_fabric_wish_vocal_achieve_hollow_cereal_dress |  
+| bip_39_word_underscore_11 | target_wine_taste_fabric_wish_vocal_achieve_hollow_cereal_dress_decade |  
+| bip_39_word_underscore_12 | target_wine_taste_fabric_wish_vocal_achieve_hollow_cereal_dress_decade_august |  
+| bip_39_word_underscore_2 | target_wine |  
+| bip_39_word_underscore_3 | target_wine_taste |  
+| bip_39_word_underscore_4 | target_wine_taste_fabric |  
+| bip_39_word_underscore_5 | target_wine_taste_fabric_wish |  
+| bip_39_word_underscore_6 | target_wine_taste_fabric_wish_vocal |  
+| bip_39_word_underscore_7 | target_wine_taste_fabric_wish_vocal_achieve |  
+| bip_39_word_underscore_8 | target_wine_taste_fabric_wish_vocal_achieve_hollow |  
+| bip_39_word_underscore_9 | target_wine_taste_fabric_wish_vocal_achieve_hollow_cereal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

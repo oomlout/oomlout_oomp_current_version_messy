@@ -1,3 +1,15 @@
+bip_39_word_dash_1: accuse
+bip_39_word_dash_10: accuse-protect-sight-upper-hour-room-debris-tragic-sugar-legal
+bip_39_word_dash_11: accuse-protect-sight-upper-hour-room-debris-tragic-sugar-legal-fashion
+bip_39_word_dash_12: accuse-protect-sight-upper-hour-room-debris-tragic-sugar-legal-fashion-alien
+bip_39_word_dash_2: accuse-protect
+bip_39_word_dash_3: accuse-protect-sight
+bip_39_word_dash_4: accuse-protect-sight-upper
+bip_39_word_dash_5: accuse-protect-sight-upper-hour
+bip_39_word_dash_6: accuse-protect-sight-upper-hour-room
+bip_39_word_dash_7: accuse-protect-sight-upper-hour-room-debris
+bip_39_word_dash_8: accuse-protect-sight-upper-hour-room-debris-tragic
+bip_39_word_dash_9: accuse-protect-sight-upper-hour-room-debris-tragic-sugar
 bip_39_word_new_br_1: accuse
 bip_39_word_new_br_10: accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal
 bip_39_word_new_br_11: accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal<br>fashion
@@ -193,6 +205,18 @@ bip_39_word_space_6: accuse protect sight upper hour room
 bip_39_word_space_7: accuse protect sight upper hour room debris
 bip_39_word_space_8: accuse protect sight upper hour room debris tragic
 bip_39_word_space_9: accuse protect sight upper hour room debris tragic sugar
+bip_39_word_underscore_1: accuse
+bip_39_word_underscore_10: accuse_protect_sight_upper_hour_room_debris_tragic_sugar_legal
+bip_39_word_underscore_11: accuse_protect_sight_upper_hour_room_debris_tragic_sugar_legal_fashion
+bip_39_word_underscore_12: accuse_protect_sight_upper_hour_room_debris_tragic_sugar_legal_fashion_alien
+bip_39_word_underscore_2: accuse_protect
+bip_39_word_underscore_3: accuse_protect_sight
+bip_39_word_underscore_4: accuse_protect_sight_upper
+bip_39_word_underscore_5: accuse_protect_sight_upper_hour
+bip_39_word_underscore_6: accuse_protect_sight_upper_hour_room
+bip_39_word_underscore_7: accuse_protect_sight_upper_hour_room_debris
+bip_39_word_underscore_8: accuse_protect_sight_upper_hour_room_debris_tragic
+bip_39_word_underscore_9: accuse_protect_sight_upper_hour_room_debris_tragic_sugar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

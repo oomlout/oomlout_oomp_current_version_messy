@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spatial |  
+| bip_39_word_dash_10 | spatial-grit-still-little-toe-flush-casino-purse-potato-acquire |  
+| bip_39_word_dash_11 | spatial-grit-still-little-toe-flush-casino-purse-potato-acquire-circle |  
+| bip_39_word_dash_12 | spatial-grit-still-little-toe-flush-casino-purse-potato-acquire-circle-appear |  
+| bip_39_word_dash_2 | spatial-grit |  
+| bip_39_word_dash_3 | spatial-grit-still |  
+| bip_39_word_dash_4 | spatial-grit-still-little |  
+| bip_39_word_dash_5 | spatial-grit-still-little-toe |  
+| bip_39_word_dash_6 | spatial-grit-still-little-toe-flush |  
+| bip_39_word_dash_7 | spatial-grit-still-little-toe-flush-casino |  
+| bip_39_word_dash_8 | spatial-grit-still-little-toe-flush-casino-purse |  
+| bip_39_word_dash_9 | spatial-grit-still-little-toe-flush-casino-purse-potato |  
 | bip_39_word_new_br_1 | spatial |  
 | bip_39_word_new_br_10 | spatial<br>grit<br>still<br>little<br>toe<br>flush<br>casino<br>purse<br>potato<br>acquire |  
 | bip_39_word_new_br_11 | spatial<br>grit<br>still<br>little<br>toe<br>flush<br>casino<br>purse<br>potato<br>acquire<br>circle |  
@@ -147,6 +159,18 @@ potato |
 | bip_39_word_space_7 | spatial grit still little toe flush casino |  
 | bip_39_word_space_8 | spatial grit still little toe flush casino purse |  
 | bip_39_word_space_9 | spatial grit still little toe flush casino purse potato |  
+| bip_39_word_underscore_1 | spatial |  
+| bip_39_word_underscore_10 | spatial_grit_still_little_toe_flush_casino_purse_potato_acquire |  
+| bip_39_word_underscore_11 | spatial_grit_still_little_toe_flush_casino_purse_potato_acquire_circle |  
+| bip_39_word_underscore_12 | spatial_grit_still_little_toe_flush_casino_purse_potato_acquire_circle_appear |  
+| bip_39_word_underscore_2 | spatial_grit |  
+| bip_39_word_underscore_3 | spatial_grit_still |  
+| bip_39_word_underscore_4 | spatial_grit_still_little |  
+| bip_39_word_underscore_5 | spatial_grit_still_little_toe |  
+| bip_39_word_underscore_6 | spatial_grit_still_little_toe_flush |  
+| bip_39_word_underscore_7 | spatial_grit_still_little_toe_flush_casino |  
+| bip_39_word_underscore_8 | spatial_grit_still_little_toe_flush_casino_purse |  
+| bip_39_word_underscore_9 | spatial_grit_still_little_toe_flush_casino_purse_potato |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

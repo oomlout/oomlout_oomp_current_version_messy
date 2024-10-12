@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inmate |  
+| bip_39_word_dash_10 | inmate-track-riot-six-friend-sting-any-review-faculty-soup |  
+| bip_39_word_dash_11 | inmate-track-riot-six-friend-sting-any-review-faculty-soup-broom |  
+| bip_39_word_dash_12 | inmate-track-riot-six-friend-sting-any-review-faculty-soup-broom-acquire |  
+| bip_39_word_dash_2 | inmate-track |  
+| bip_39_word_dash_3 | inmate-track-riot |  
+| bip_39_word_dash_4 | inmate-track-riot-six |  
+| bip_39_word_dash_5 | inmate-track-riot-six-friend |  
+| bip_39_word_dash_6 | inmate-track-riot-six-friend-sting |  
+| bip_39_word_dash_7 | inmate-track-riot-six-friend-sting-any |  
+| bip_39_word_dash_8 | inmate-track-riot-six-friend-sting-any-review |  
+| bip_39_word_dash_9 | inmate-track-riot-six-friend-sting-any-review-faculty |  
 | bip_39_word_new_br_1 | inmate |  
 | bip_39_word_new_br_10 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review<br>faculty<br>soup |  
 | bip_39_word_new_br_11 | inmate<br>track<br>riot<br>six<br>friend<br>sting<br>any<br>review<br>faculty<br>soup<br>broom |  
@@ -147,6 +159,18 @@ faculty |
 | bip_39_word_space_7 | inmate track riot six friend sting any |  
 | bip_39_word_space_8 | inmate track riot six friend sting any review |  
 | bip_39_word_space_9 | inmate track riot six friend sting any review faculty |  
+| bip_39_word_underscore_1 | inmate |  
+| bip_39_word_underscore_10 | inmate_track_riot_six_friend_sting_any_review_faculty_soup |  
+| bip_39_word_underscore_11 | inmate_track_riot_six_friend_sting_any_review_faculty_soup_broom |  
+| bip_39_word_underscore_12 | inmate_track_riot_six_friend_sting_any_review_faculty_soup_broom_acquire |  
+| bip_39_word_underscore_2 | inmate_track |  
+| bip_39_word_underscore_3 | inmate_track_riot |  
+| bip_39_word_underscore_4 | inmate_track_riot_six |  
+| bip_39_word_underscore_5 | inmate_track_riot_six_friend |  
+| bip_39_word_underscore_6 | inmate_track_riot_six_friend_sting |  
+| bip_39_word_underscore_7 | inmate_track_riot_six_friend_sting_any |  
+| bip_39_word_underscore_8 | inmate_track_riot_six_friend_sting_any_review |  
+| bip_39_word_underscore_9 | inmate_track_riot_six_friend_sting_any_review_faculty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

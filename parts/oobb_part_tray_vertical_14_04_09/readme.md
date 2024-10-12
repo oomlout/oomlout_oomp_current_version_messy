@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | call |  
+| bip_39_word_dash_10 | call-loan-purchase-hurt-praise-steel-road-actress-creek-divert |  
+| bip_39_word_dash_11 | call-loan-purchase-hurt-praise-steel-road-actress-creek-divert-inflict |  
+| bip_39_word_dash_12 | call-loan-purchase-hurt-praise-steel-road-actress-creek-divert-inflict-answer |  
+| bip_39_word_dash_2 | call-loan |  
+| bip_39_word_dash_3 | call-loan-purchase |  
+| bip_39_word_dash_4 | call-loan-purchase-hurt |  
+| bip_39_word_dash_5 | call-loan-purchase-hurt-praise |  
+| bip_39_word_dash_6 | call-loan-purchase-hurt-praise-steel |  
+| bip_39_word_dash_7 | call-loan-purchase-hurt-praise-steel-road |  
+| bip_39_word_dash_8 | call-loan-purchase-hurt-praise-steel-road-actress |  
+| bip_39_word_dash_9 | call-loan-purchase-hurt-praise-steel-road-actress-creek |  
 | bip_39_word_new_br_1 | call |  
 | bip_39_word_new_br_10 | call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert |  
 | bip_39_word_new_br_11 | call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert<br>inflict |  
@@ -147,6 +159,18 @@ creek |
 | bip_39_word_space_7 | call loan purchase hurt praise steel road |  
 | bip_39_word_space_8 | call loan purchase hurt praise steel road actress |  
 | bip_39_word_space_9 | call loan purchase hurt praise steel road actress creek |  
+| bip_39_word_underscore_1 | call |  
+| bip_39_word_underscore_10 | call_loan_purchase_hurt_praise_steel_road_actress_creek_divert |  
+| bip_39_word_underscore_11 | call_loan_purchase_hurt_praise_steel_road_actress_creek_divert_inflict |  
+| bip_39_word_underscore_12 | call_loan_purchase_hurt_praise_steel_road_actress_creek_divert_inflict_answer |  
+| bip_39_word_underscore_2 | call_loan |  
+| bip_39_word_underscore_3 | call_loan_purchase |  
+| bip_39_word_underscore_4 | call_loan_purchase_hurt |  
+| bip_39_word_underscore_5 | call_loan_purchase_hurt_praise |  
+| bip_39_word_underscore_6 | call_loan_purchase_hurt_praise_steel |  
+| bip_39_word_underscore_7 | call_loan_purchase_hurt_praise_steel_road |  
+| bip_39_word_underscore_8 | call_loan_purchase_hurt_praise_steel_road_actress |  
+| bip_39_word_underscore_9 | call_loan_purchase_hurt_praise_steel_road_actress_creek |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

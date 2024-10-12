@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aim |  
+| bip_39_word_dash_10 | aim-finish-genius-antique-stage-nuclear-shrug-patrol-excite-wealth |  
+| bip_39_word_dash_11 | aim-finish-genius-antique-stage-nuclear-shrug-patrol-excite-wealth-strong |  
+| bip_39_word_dash_12 | aim-finish-genius-antique-stage-nuclear-shrug-patrol-excite-wealth-strong-aisle |  
+| bip_39_word_dash_2 | aim-finish |  
+| bip_39_word_dash_3 | aim-finish-genius |  
+| bip_39_word_dash_4 | aim-finish-genius-antique |  
+| bip_39_word_dash_5 | aim-finish-genius-antique-stage |  
+| bip_39_word_dash_6 | aim-finish-genius-antique-stage-nuclear |  
+| bip_39_word_dash_7 | aim-finish-genius-antique-stage-nuclear-shrug |  
+| bip_39_word_dash_8 | aim-finish-genius-antique-stage-nuclear-shrug-patrol |  
+| bip_39_word_dash_9 | aim-finish-genius-antique-stage-nuclear-shrug-patrol-excite |  
 | bip_39_word_new_br_1 | aim |  
 | bip_39_word_new_br_10 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol<br>excite<br>wealth |  
 | bip_39_word_new_br_11 | aim<br>finish<br>genius<br>antique<br>stage<br>nuclear<br>shrug<br>patrol<br>excite<br>wealth<br>strong |  
@@ -147,6 +159,18 @@ excite |
 | bip_39_word_space_7 | aim finish genius antique stage nuclear shrug |  
 | bip_39_word_space_8 | aim finish genius antique stage nuclear shrug patrol |  
 | bip_39_word_space_9 | aim finish genius antique stage nuclear shrug patrol excite |  
+| bip_39_word_underscore_1 | aim |  
+| bip_39_word_underscore_10 | aim_finish_genius_antique_stage_nuclear_shrug_patrol_excite_wealth |  
+| bip_39_word_underscore_11 | aim_finish_genius_antique_stage_nuclear_shrug_patrol_excite_wealth_strong |  
+| bip_39_word_underscore_12 | aim_finish_genius_antique_stage_nuclear_shrug_patrol_excite_wealth_strong_aisle |  
+| bip_39_word_underscore_2 | aim_finish |  
+| bip_39_word_underscore_3 | aim_finish_genius |  
+| bip_39_word_underscore_4 | aim_finish_genius_antique |  
+| bip_39_word_underscore_5 | aim_finish_genius_antique_stage |  
+| bip_39_word_underscore_6 | aim_finish_genius_antique_stage_nuclear |  
+| bip_39_word_underscore_7 | aim_finish_genius_antique_stage_nuclear_shrug |  
+| bip_39_word_underscore_8 | aim_finish_genius_antique_stage_nuclear_shrug_patrol |  
+| bip_39_word_underscore_9 | aim_finish_genius_antique_stage_nuclear_shrug_patrol_excite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

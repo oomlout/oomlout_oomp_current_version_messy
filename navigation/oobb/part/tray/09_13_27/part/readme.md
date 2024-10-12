@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | worth |  
+| bip_39_word_dash_10 | worth-sound-ivory-number-rapid-clinic-chalk-bus-tiger-fuel |  
+| bip_39_word_dash_11 | worth-sound-ivory-number-rapid-clinic-chalk-bus-tiger-fuel-ramp |  
+| bip_39_word_dash_12 | worth-sound-ivory-number-rapid-clinic-chalk-bus-tiger-fuel-ramp-always |  
+| bip_39_word_dash_2 | worth-sound |  
+| bip_39_word_dash_3 | worth-sound-ivory |  
+| bip_39_word_dash_4 | worth-sound-ivory-number |  
+| bip_39_word_dash_5 | worth-sound-ivory-number-rapid |  
+| bip_39_word_dash_6 | worth-sound-ivory-number-rapid-clinic |  
+| bip_39_word_dash_7 | worth-sound-ivory-number-rapid-clinic-chalk |  
+| bip_39_word_dash_8 | worth-sound-ivory-number-rapid-clinic-chalk-bus |  
+| bip_39_word_dash_9 | worth-sound-ivory-number-rapid-clinic-chalk-bus-tiger |  
 | bip_39_word_new_br_1 | worth |  
 | bip_39_word_new_br_10 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel |  
 | bip_39_word_new_br_11 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel<br>ramp |  
@@ -147,6 +159,18 @@ tiger |
 | bip_39_word_space_7 | worth sound ivory number rapid clinic chalk |  
 | bip_39_word_space_8 | worth sound ivory number rapid clinic chalk bus |  
 | bip_39_word_space_9 | worth sound ivory number rapid clinic chalk bus tiger |  
+| bip_39_word_underscore_1 | worth |  
+| bip_39_word_underscore_10 | worth_sound_ivory_number_rapid_clinic_chalk_bus_tiger_fuel |  
+| bip_39_word_underscore_11 | worth_sound_ivory_number_rapid_clinic_chalk_bus_tiger_fuel_ramp |  
+| bip_39_word_underscore_12 | worth_sound_ivory_number_rapid_clinic_chalk_bus_tiger_fuel_ramp_always |  
+| bip_39_word_underscore_2 | worth_sound |  
+| bip_39_word_underscore_3 | worth_sound_ivory |  
+| bip_39_word_underscore_4 | worth_sound_ivory_number |  
+| bip_39_word_underscore_5 | worth_sound_ivory_number_rapid |  
+| bip_39_word_underscore_6 | worth_sound_ivory_number_rapid_clinic |  
+| bip_39_word_underscore_7 | worth_sound_ivory_number_rapid_clinic_chalk |  
+| bip_39_word_underscore_8 | worth_sound_ivory_number_rapid_clinic_chalk_bus |  
+| bip_39_word_underscore_9 | worth_sound_ivory_number_rapid_clinic_chalk_bus_tiger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

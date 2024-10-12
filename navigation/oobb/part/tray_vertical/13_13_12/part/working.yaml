@@ -1,3 +1,15 @@
+bip_39_word_dash_1: royal
+bip_39_word_dash_10: royal-must-arrange-general-slush-bone-panther-adapt-use-receive
+bip_39_word_dash_11: royal-must-arrange-general-slush-bone-panther-adapt-use-receive-scan
+bip_39_word_dash_12: royal-must-arrange-general-slush-bone-panther-adapt-use-receive-scan-another
+bip_39_word_dash_2: royal-must
+bip_39_word_dash_3: royal-must-arrange
+bip_39_word_dash_4: royal-must-arrange-general
+bip_39_word_dash_5: royal-must-arrange-general-slush
+bip_39_word_dash_6: royal-must-arrange-general-slush-bone
+bip_39_word_dash_7: royal-must-arrange-general-slush-bone-panther
+bip_39_word_dash_8: royal-must-arrange-general-slush-bone-panther-adapt
+bip_39_word_dash_9: royal-must-arrange-general-slush-bone-panther-adapt-use
 bip_39_word_new_br_1: royal
 bip_39_word_new_br_10: royal<br>must<br>arrange<br>general<br>slush<br>bone<br>panther<br>adapt<br>use<br>receive
 bip_39_word_new_br_11: royal<br>must<br>arrange<br>general<br>slush<br>bone<br>panther<br>adapt<br>use<br>receive<br>scan
@@ -193,6 +205,18 @@ bip_39_word_space_6: royal must arrange general slush bone
 bip_39_word_space_7: royal must arrange general slush bone panther
 bip_39_word_space_8: royal must arrange general slush bone panther adapt
 bip_39_word_space_9: royal must arrange general slush bone panther adapt use
+bip_39_word_underscore_1: royal
+bip_39_word_underscore_10: royal_must_arrange_general_slush_bone_panther_adapt_use_receive
+bip_39_word_underscore_11: royal_must_arrange_general_slush_bone_panther_adapt_use_receive_scan
+bip_39_word_underscore_12: royal_must_arrange_general_slush_bone_panther_adapt_use_receive_scan_another
+bip_39_word_underscore_2: royal_must
+bip_39_word_underscore_3: royal_must_arrange
+bip_39_word_underscore_4: royal_must_arrange_general
+bip_39_word_underscore_5: royal_must_arrange_general_slush
+bip_39_word_underscore_6: royal_must_arrange_general_slush_bone
+bip_39_word_underscore_7: royal_must_arrange_general_slush_bone_panther
+bip_39_word_underscore_8: royal_must_arrange_general_slush_bone_panther_adapt
+bip_39_word_underscore_9: royal_must_arrange_general_slush_bone_panther_adapt_use
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

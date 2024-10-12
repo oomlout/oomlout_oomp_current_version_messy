@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lounge |  
+| bip_39_word_dash_10 | lounge-artefact-equal-proof-gesture-topple-crisp-fine-scissors-curve |  
+| bip_39_word_dash_11 | lounge-artefact-equal-proof-gesture-topple-crisp-fine-scissors-curve-grief |  
+| bip_39_word_dash_12 | lounge-artefact-equal-proof-gesture-topple-crisp-fine-scissors-curve-grief-annual |  
+| bip_39_word_dash_2 | lounge-artefact |  
+| bip_39_word_dash_3 | lounge-artefact-equal |  
+| bip_39_word_dash_4 | lounge-artefact-equal-proof |  
+| bip_39_word_dash_5 | lounge-artefact-equal-proof-gesture |  
+| bip_39_word_dash_6 | lounge-artefact-equal-proof-gesture-topple |  
+| bip_39_word_dash_7 | lounge-artefact-equal-proof-gesture-topple-crisp |  
+| bip_39_word_dash_8 | lounge-artefact-equal-proof-gesture-topple-crisp-fine |  
+| bip_39_word_dash_9 | lounge-artefact-equal-proof-gesture-topple-crisp-fine-scissors |  
 | bip_39_word_new_br_1 | lounge |  
 | bip_39_word_new_br_10 | lounge<br>artefact<br>equal<br>proof<br>gesture<br>topple<br>crisp<br>fine<br>scissors<br>curve |  
 | bip_39_word_new_br_11 | lounge<br>artefact<br>equal<br>proof<br>gesture<br>topple<br>crisp<br>fine<br>scissors<br>curve<br>grief |  
@@ -147,6 +159,18 @@ scissors |
 | bip_39_word_space_7 | lounge artefact equal proof gesture topple crisp |  
 | bip_39_word_space_8 | lounge artefact equal proof gesture topple crisp fine |  
 | bip_39_word_space_9 | lounge artefact equal proof gesture topple crisp fine scissors |  
+| bip_39_word_underscore_1 | lounge |  
+| bip_39_word_underscore_10 | lounge_artefact_equal_proof_gesture_topple_crisp_fine_scissors_curve |  
+| bip_39_word_underscore_11 | lounge_artefact_equal_proof_gesture_topple_crisp_fine_scissors_curve_grief |  
+| bip_39_word_underscore_12 | lounge_artefact_equal_proof_gesture_topple_crisp_fine_scissors_curve_grief_annual |  
+| bip_39_word_underscore_2 | lounge_artefact |  
+| bip_39_word_underscore_3 | lounge_artefact_equal |  
+| bip_39_word_underscore_4 | lounge_artefact_equal_proof |  
+| bip_39_word_underscore_5 | lounge_artefact_equal_proof_gesture |  
+| bip_39_word_underscore_6 | lounge_artefact_equal_proof_gesture_topple |  
+| bip_39_word_underscore_7 | lounge_artefact_equal_proof_gesture_topple_crisp |  
+| bip_39_word_underscore_8 | lounge_artefact_equal_proof_gesture_topple_crisp_fine |  
+| bip_39_word_underscore_9 | lounge_artefact_equal_proof_gesture_topple_crisp_fine_scissors |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

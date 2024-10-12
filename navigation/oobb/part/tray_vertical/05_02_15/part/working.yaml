@@ -1,3 +1,15 @@
+bip_39_word_dash_1: later
+bip_39_word_dash_10: later-direct-bridge-method-know-usual-present-pledge-awake-afraid
+bip_39_word_dash_11: later-direct-bridge-method-know-usual-present-pledge-awake-afraid-dentist
+bip_39_word_dash_12: later-direct-bridge-method-know-usual-present-pledge-awake-afraid-dentist-alpha
+bip_39_word_dash_2: later-direct
+bip_39_word_dash_3: later-direct-bridge
+bip_39_word_dash_4: later-direct-bridge-method
+bip_39_word_dash_5: later-direct-bridge-method-know
+bip_39_word_dash_6: later-direct-bridge-method-know-usual
+bip_39_word_dash_7: later-direct-bridge-method-know-usual-present
+bip_39_word_dash_8: later-direct-bridge-method-know-usual-present-pledge
+bip_39_word_dash_9: later-direct-bridge-method-know-usual-present-pledge-awake
 bip_39_word_new_br_1: later
 bip_39_word_new_br_10: later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge<br>awake<br>afraid
 bip_39_word_new_br_11: later<br>direct<br>bridge<br>method<br>know<br>usual<br>present<br>pledge<br>awake<br>afraid<br>dentist
@@ -193,6 +205,18 @@ bip_39_word_space_6: later direct bridge method know usual
 bip_39_word_space_7: later direct bridge method know usual present
 bip_39_word_space_8: later direct bridge method know usual present pledge
 bip_39_word_space_9: later direct bridge method know usual present pledge awake
+bip_39_word_underscore_1: later
+bip_39_word_underscore_10: later_direct_bridge_method_know_usual_present_pledge_awake_afraid
+bip_39_word_underscore_11: later_direct_bridge_method_know_usual_present_pledge_awake_afraid_dentist
+bip_39_word_underscore_12: later_direct_bridge_method_know_usual_present_pledge_awake_afraid_dentist_alpha
+bip_39_word_underscore_2: later_direct
+bip_39_word_underscore_3: later_direct_bridge
+bip_39_word_underscore_4: later_direct_bridge_method
+bip_39_word_underscore_5: later_direct_bridge_method_know
+bip_39_word_underscore_6: later_direct_bridge_method_know_usual
+bip_39_word_underscore_7: later_direct_bridge_method_know_usual_present
+bip_39_word_underscore_8: later_direct_bridge_method_know_usual_present_pledge
+bip_39_word_underscore_9: later_direct_bridge_method_know_usual_present_pledge_awake
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

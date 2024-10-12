@@ -1,3 +1,15 @@
+bip_39_word_dash_1: habit
+bip_39_word_dash_10: habit-sunset-cup-occur-high-celery-olive-guess-upset-garlic
+bip_39_word_dash_11: habit-sunset-cup-occur-high-celery-olive-guess-upset-garlic-hurry
+bip_39_word_dash_12: habit-sunset-cup-occur-high-celery-olive-guess-upset-garlic-hurry-anger
+bip_39_word_dash_2: habit-sunset
+bip_39_word_dash_3: habit-sunset-cup
+bip_39_word_dash_4: habit-sunset-cup-occur
+bip_39_word_dash_5: habit-sunset-cup-occur-high
+bip_39_word_dash_6: habit-sunset-cup-occur-high-celery
+bip_39_word_dash_7: habit-sunset-cup-occur-high-celery-olive
+bip_39_word_dash_8: habit-sunset-cup-occur-high-celery-olive-guess
+bip_39_word_dash_9: habit-sunset-cup-occur-high-celery-olive-guess-upset
 bip_39_word_new_br_1: habit
 bip_39_word_new_br_10: habit<br>sunset<br>cup<br>occur<br>high<br>celery<br>olive<br>guess<br>upset<br>garlic
 bip_39_word_new_br_11: habit<br>sunset<br>cup<br>occur<br>high<br>celery<br>olive<br>guess<br>upset<br>garlic<br>hurry
@@ -193,6 +205,18 @@ bip_39_word_space_6: habit sunset cup occur high celery
 bip_39_word_space_7: habit sunset cup occur high celery olive
 bip_39_word_space_8: habit sunset cup occur high celery olive guess
 bip_39_word_space_9: habit sunset cup occur high celery olive guess upset
+bip_39_word_underscore_1: habit
+bip_39_word_underscore_10: habit_sunset_cup_occur_high_celery_olive_guess_upset_garlic
+bip_39_word_underscore_11: habit_sunset_cup_occur_high_celery_olive_guess_upset_garlic_hurry
+bip_39_word_underscore_12: habit_sunset_cup_occur_high_celery_olive_guess_upset_garlic_hurry_anger
+bip_39_word_underscore_2: habit_sunset
+bip_39_word_underscore_3: habit_sunset_cup
+bip_39_word_underscore_4: habit_sunset_cup_occur
+bip_39_word_underscore_5: habit_sunset_cup_occur_high
+bip_39_word_underscore_6: habit_sunset_cup_occur_high_celery
+bip_39_word_underscore_7: habit_sunset_cup_occur_high_celery_olive
+bip_39_word_underscore_8: habit_sunset_cup_occur_high_celery_olive_guess
+bip_39_word_underscore_9: habit_sunset_cup_occur_high_celery_olive_guess_upset
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

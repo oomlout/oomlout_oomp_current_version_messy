@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jelly |  
+| bip_39_word_dash_10 | jelly-peanut-basic-menu-urban-library-cash-robot-drill-board |  
+| bip_39_word_dash_11 | jelly-peanut-basic-menu-urban-library-cash-robot-drill-board-trigger |  
+| bip_39_word_dash_12 | jelly-peanut-basic-menu-urban-library-cash-robot-drill-board-trigger-addict |  
+| bip_39_word_dash_2 | jelly-peanut |  
+| bip_39_word_dash_3 | jelly-peanut-basic |  
+| bip_39_word_dash_4 | jelly-peanut-basic-menu |  
+| bip_39_word_dash_5 | jelly-peanut-basic-menu-urban |  
+| bip_39_word_dash_6 | jelly-peanut-basic-menu-urban-library |  
+| bip_39_word_dash_7 | jelly-peanut-basic-menu-urban-library-cash |  
+| bip_39_word_dash_8 | jelly-peanut-basic-menu-urban-library-cash-robot |  
+| bip_39_word_dash_9 | jelly-peanut-basic-menu-urban-library-cash-robot-drill |  
 | bip_39_word_new_br_1 | jelly |  
 | bip_39_word_new_br_10 | jelly<br>peanut<br>basic<br>menu<br>urban<br>library<br>cash<br>robot<br>drill<br>board |  
 | bip_39_word_new_br_11 | jelly<br>peanut<br>basic<br>menu<br>urban<br>library<br>cash<br>robot<br>drill<br>board<br>trigger |  
@@ -147,6 +159,18 @@ drill |
 | bip_39_word_space_7 | jelly peanut basic menu urban library cash |  
 | bip_39_word_space_8 | jelly peanut basic menu urban library cash robot |  
 | bip_39_word_space_9 | jelly peanut basic menu urban library cash robot drill |  
+| bip_39_word_underscore_1 | jelly |  
+| bip_39_word_underscore_10 | jelly_peanut_basic_menu_urban_library_cash_robot_drill_board |  
+| bip_39_word_underscore_11 | jelly_peanut_basic_menu_urban_library_cash_robot_drill_board_trigger |  
+| bip_39_word_underscore_12 | jelly_peanut_basic_menu_urban_library_cash_robot_drill_board_trigger_addict |  
+| bip_39_word_underscore_2 | jelly_peanut |  
+| bip_39_word_underscore_3 | jelly_peanut_basic |  
+| bip_39_word_underscore_4 | jelly_peanut_basic_menu |  
+| bip_39_word_underscore_5 | jelly_peanut_basic_menu_urban |  
+| bip_39_word_underscore_6 | jelly_peanut_basic_menu_urban_library |  
+| bip_39_word_underscore_7 | jelly_peanut_basic_menu_urban_library_cash |  
+| bip_39_word_underscore_8 | jelly_peanut_basic_menu_urban_library_cash_robot |  
+| bip_39_word_underscore_9 | jelly_peanut_basic_menu_urban_library_cash_robot_drill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

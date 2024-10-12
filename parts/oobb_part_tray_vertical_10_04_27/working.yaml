@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blossom
+bip_39_word_dash_10: blossom-kidney-bleak-bag-leave-place-science-smile-lazy-jeans
+bip_39_word_dash_11: blossom-kidney-bleak-bag-leave-place-science-smile-lazy-jeans-museum
+bip_39_word_dash_12: blossom-kidney-bleak-bag-leave-place-science-smile-lazy-jeans-museum-above
+bip_39_word_dash_2: blossom-kidney
+bip_39_word_dash_3: blossom-kidney-bleak
+bip_39_word_dash_4: blossom-kidney-bleak-bag
+bip_39_word_dash_5: blossom-kidney-bleak-bag-leave
+bip_39_word_dash_6: blossom-kidney-bleak-bag-leave-place
+bip_39_word_dash_7: blossom-kidney-bleak-bag-leave-place-science
+bip_39_word_dash_8: blossom-kidney-bleak-bag-leave-place-science-smile
+bip_39_word_dash_9: blossom-kidney-bleak-bag-leave-place-science-smile-lazy
 bip_39_word_new_br_1: blossom
 bip_39_word_new_br_10: blossom<br>kidney<br>bleak<br>bag<br>leave<br>place<br>science<br>smile<br>lazy<br>jeans
 bip_39_word_new_br_11: blossom<br>kidney<br>bleak<br>bag<br>leave<br>place<br>science<br>smile<br>lazy<br>jeans<br>museum
@@ -193,6 +205,18 @@ bip_39_word_space_6: blossom kidney bleak bag leave place
 bip_39_word_space_7: blossom kidney bleak bag leave place science
 bip_39_word_space_8: blossom kidney bleak bag leave place science smile
 bip_39_word_space_9: blossom kidney bleak bag leave place science smile lazy
+bip_39_word_underscore_1: blossom
+bip_39_word_underscore_10: blossom_kidney_bleak_bag_leave_place_science_smile_lazy_jeans
+bip_39_word_underscore_11: blossom_kidney_bleak_bag_leave_place_science_smile_lazy_jeans_museum
+bip_39_word_underscore_12: blossom_kidney_bleak_bag_leave_place_science_smile_lazy_jeans_museum_above
+bip_39_word_underscore_2: blossom_kidney
+bip_39_word_underscore_3: blossom_kidney_bleak
+bip_39_word_underscore_4: blossom_kidney_bleak_bag
+bip_39_word_underscore_5: blossom_kidney_bleak_bag_leave
+bip_39_word_underscore_6: blossom_kidney_bleak_bag_leave_place
+bip_39_word_underscore_7: blossom_kidney_bleak_bag_leave_place_science
+bip_39_word_underscore_8: blossom_kidney_bleak_bag_leave_place_science_smile
+bip_39_word_underscore_9: blossom_kidney_bleak_bag_leave_place_science_smile_lazy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

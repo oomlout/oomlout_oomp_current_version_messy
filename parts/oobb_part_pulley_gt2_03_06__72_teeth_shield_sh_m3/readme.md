@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kit |  
+| bip_39_word_dash_10 | kit-admit-family-axis-great-park-sad-shell-lake-differ |  
+| bip_39_word_dash_11 | kit-admit-family-axis-great-park-sad-shell-lake-differ-buddy |  
+| bip_39_word_dash_12 | kit-admit-family-axis-great-park-sad-shell-lake-differ-buddy-athlete |  
+| bip_39_word_dash_2 | kit-admit |  
+| bip_39_word_dash_3 | kit-admit-family |  
+| bip_39_word_dash_4 | kit-admit-family-axis |  
+| bip_39_word_dash_5 | kit-admit-family-axis-great |  
+| bip_39_word_dash_6 | kit-admit-family-axis-great-park |  
+| bip_39_word_dash_7 | kit-admit-family-axis-great-park-sad |  
+| bip_39_word_dash_8 | kit-admit-family-axis-great-park-sad-shell |  
+| bip_39_word_dash_9 | kit-admit-family-axis-great-park-sad-shell-lake |  
 | bip_39_word_new_br_1 | kit |  
 | bip_39_word_new_br_10 | kit<br>admit<br>family<br>axis<br>great<br>park<br>sad<br>shell<br>lake<br>differ |  
 | bip_39_word_new_br_11 | kit<br>admit<br>family<br>axis<br>great<br>park<br>sad<br>shell<br>lake<br>differ<br>buddy |  
@@ -147,6 +159,18 @@ lake |
 | bip_39_word_space_7 | kit admit family axis great park sad |  
 | bip_39_word_space_8 | kit admit family axis great park sad shell |  
 | bip_39_word_space_9 | kit admit family axis great park sad shell lake |  
+| bip_39_word_underscore_1 | kit |  
+| bip_39_word_underscore_10 | kit_admit_family_axis_great_park_sad_shell_lake_differ |  
+| bip_39_word_underscore_11 | kit_admit_family_axis_great_park_sad_shell_lake_differ_buddy |  
+| bip_39_word_underscore_12 | kit_admit_family_axis_great_park_sad_shell_lake_differ_buddy_athlete |  
+| bip_39_word_underscore_2 | kit_admit |  
+| bip_39_word_underscore_3 | kit_admit_family |  
+| bip_39_word_underscore_4 | kit_admit_family_axis |  
+| bip_39_word_underscore_5 | kit_admit_family_axis_great |  
+| bip_39_word_underscore_6 | kit_admit_family_axis_great_park |  
+| bip_39_word_underscore_7 | kit_admit_family_axis_great_park_sad |  
+| bip_39_word_underscore_8 | kit_admit_family_axis_great_park_sad_shell |  
+| bip_39_word_underscore_9 | kit_admit_family_axis_great_park_sad_shell_lake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

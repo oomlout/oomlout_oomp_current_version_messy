@@ -1,3 +1,15 @@
+bip_39_word_dash_1: faculty
+bip_39_word_dash_10: faculty-swing-tail-blame-cycle-okay-pretty-exile-loan-gossip
+bip_39_word_dash_11: faculty-swing-tail-blame-cycle-okay-pretty-exile-loan-gossip-deputy
+bip_39_word_dash_12: faculty-swing-tail-blame-cycle-okay-pretty-exile-loan-gossip-deputy-alpha
+bip_39_word_dash_2: faculty-swing
+bip_39_word_dash_3: faculty-swing-tail
+bip_39_word_dash_4: faculty-swing-tail-blame
+bip_39_word_dash_5: faculty-swing-tail-blame-cycle
+bip_39_word_dash_6: faculty-swing-tail-blame-cycle-okay
+bip_39_word_dash_7: faculty-swing-tail-blame-cycle-okay-pretty
+bip_39_word_dash_8: faculty-swing-tail-blame-cycle-okay-pretty-exile
+bip_39_word_dash_9: faculty-swing-tail-blame-cycle-okay-pretty-exile-loan
 bip_39_word_new_br_1: faculty
 bip_39_word_new_br_10: faculty<br>swing<br>tail<br>blame<br>cycle<br>okay<br>pretty<br>exile<br>loan<br>gossip
 bip_39_word_new_br_11: faculty<br>swing<br>tail<br>blame<br>cycle<br>okay<br>pretty<br>exile<br>loan<br>gossip<br>deputy
@@ -193,6 +205,18 @@ bip_39_word_space_6: faculty swing tail blame cycle okay
 bip_39_word_space_7: faculty swing tail blame cycle okay pretty
 bip_39_word_space_8: faculty swing tail blame cycle okay pretty exile
 bip_39_word_space_9: faculty swing tail blame cycle okay pretty exile loan
+bip_39_word_underscore_1: faculty
+bip_39_word_underscore_10: faculty_swing_tail_blame_cycle_okay_pretty_exile_loan_gossip
+bip_39_word_underscore_11: faculty_swing_tail_blame_cycle_okay_pretty_exile_loan_gossip_deputy
+bip_39_word_underscore_12: faculty_swing_tail_blame_cycle_okay_pretty_exile_loan_gossip_deputy_alpha
+bip_39_word_underscore_2: faculty_swing
+bip_39_word_underscore_3: faculty_swing_tail
+bip_39_word_underscore_4: faculty_swing_tail_blame
+bip_39_word_underscore_5: faculty_swing_tail_blame_cycle
+bip_39_word_underscore_6: faculty_swing_tail_blame_cycle_okay
+bip_39_word_underscore_7: faculty_swing_tail_blame_cycle_okay_pretty
+bip_39_word_underscore_8: faculty_swing_tail_blame_cycle_okay_pretty_exile
+bip_39_word_underscore_9: faculty_swing_tail_blame_cycle_okay_pretty_exile_loan
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

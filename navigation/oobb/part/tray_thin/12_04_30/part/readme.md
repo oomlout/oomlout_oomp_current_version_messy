@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | modify |  
+| bip_39_word_dash_10 | modify-hole-warrior-fly-vapor-fancy-capital-soldier-found-dream |  
+| bip_39_word_dash_11 | modify-hole-warrior-fly-vapor-fancy-capital-soldier-found-dream-animal |  
+| bip_39_word_dash_12 | modify-hole-warrior-fly-vapor-fancy-capital-soldier-found-dream-animal-analyst |  
+| bip_39_word_dash_2 | modify-hole |  
+| bip_39_word_dash_3 | modify-hole-warrior |  
+| bip_39_word_dash_4 | modify-hole-warrior-fly |  
+| bip_39_word_dash_5 | modify-hole-warrior-fly-vapor |  
+| bip_39_word_dash_6 | modify-hole-warrior-fly-vapor-fancy |  
+| bip_39_word_dash_7 | modify-hole-warrior-fly-vapor-fancy-capital |  
+| bip_39_word_dash_8 | modify-hole-warrior-fly-vapor-fancy-capital-soldier |  
+| bip_39_word_dash_9 | modify-hole-warrior-fly-vapor-fancy-capital-soldier-found |  
 | bip_39_word_new_br_1 | modify |  
 | bip_39_word_new_br_10 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier<br>found<br>dream |  
 | bip_39_word_new_br_11 | modify<br>hole<br>warrior<br>fly<br>vapor<br>fancy<br>capital<br>soldier<br>found<br>dream<br>animal |  
@@ -147,6 +159,18 @@ found |
 | bip_39_word_space_7 | modify hole warrior fly vapor fancy capital |  
 | bip_39_word_space_8 | modify hole warrior fly vapor fancy capital soldier |  
 | bip_39_word_space_9 | modify hole warrior fly vapor fancy capital soldier found |  
+| bip_39_word_underscore_1 | modify |  
+| bip_39_word_underscore_10 | modify_hole_warrior_fly_vapor_fancy_capital_soldier_found_dream |  
+| bip_39_word_underscore_11 | modify_hole_warrior_fly_vapor_fancy_capital_soldier_found_dream_animal |  
+| bip_39_word_underscore_12 | modify_hole_warrior_fly_vapor_fancy_capital_soldier_found_dream_animal_analyst |  
+| bip_39_word_underscore_2 | modify_hole |  
+| bip_39_word_underscore_3 | modify_hole_warrior |  
+| bip_39_word_underscore_4 | modify_hole_warrior_fly |  
+| bip_39_word_underscore_5 | modify_hole_warrior_fly_vapor |  
+| bip_39_word_underscore_6 | modify_hole_warrior_fly_vapor_fancy |  
+| bip_39_word_underscore_7 | modify_hole_warrior_fly_vapor_fancy_capital |  
+| bip_39_word_underscore_8 | modify_hole_warrior_fly_vapor_fancy_capital_soldier |  
+| bip_39_word_underscore_9 | modify_hole_warrior_fly_vapor_fancy_capital_soldier_found |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

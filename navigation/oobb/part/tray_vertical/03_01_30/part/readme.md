@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | club |  
+| bip_39_word_dash_10 | club-sun-gauge-basic-genuine-boat-jacket-guard-gather-glory |  
+| bip_39_word_dash_11 | club-sun-gauge-basic-genuine-boat-jacket-guard-gather-glory-ready |  
+| bip_39_word_dash_12 | club-sun-gauge-basic-genuine-boat-jacket-guard-gather-glory-ready-armor |  
+| bip_39_word_dash_2 | club-sun |  
+| bip_39_word_dash_3 | club-sun-gauge |  
+| bip_39_word_dash_4 | club-sun-gauge-basic |  
+| bip_39_word_dash_5 | club-sun-gauge-basic-genuine |  
+| bip_39_word_dash_6 | club-sun-gauge-basic-genuine-boat |  
+| bip_39_word_dash_7 | club-sun-gauge-basic-genuine-boat-jacket |  
+| bip_39_word_dash_8 | club-sun-gauge-basic-genuine-boat-jacket-guard |  
+| bip_39_word_dash_9 | club-sun-gauge-basic-genuine-boat-jacket-guard-gather |  
 | bip_39_word_new_br_1 | club |  
 | bip_39_word_new_br_10 | club<br>sun<br>gauge<br>basic<br>genuine<br>boat<br>jacket<br>guard<br>gather<br>glory |  
 | bip_39_word_new_br_11 | club<br>sun<br>gauge<br>basic<br>genuine<br>boat<br>jacket<br>guard<br>gather<br>glory<br>ready |  
@@ -147,6 +159,18 @@ gather |
 | bip_39_word_space_7 | club sun gauge basic genuine boat jacket |  
 | bip_39_word_space_8 | club sun gauge basic genuine boat jacket guard |  
 | bip_39_word_space_9 | club sun gauge basic genuine boat jacket guard gather |  
+| bip_39_word_underscore_1 | club |  
+| bip_39_word_underscore_10 | club_sun_gauge_basic_genuine_boat_jacket_guard_gather_glory |  
+| bip_39_word_underscore_11 | club_sun_gauge_basic_genuine_boat_jacket_guard_gather_glory_ready |  
+| bip_39_word_underscore_12 | club_sun_gauge_basic_genuine_boat_jacket_guard_gather_glory_ready_armor |  
+| bip_39_word_underscore_2 | club_sun |  
+| bip_39_word_underscore_3 | club_sun_gauge |  
+| bip_39_word_underscore_4 | club_sun_gauge_basic |  
+| bip_39_word_underscore_5 | club_sun_gauge_basic_genuine |  
+| bip_39_word_underscore_6 | club_sun_gauge_basic_genuine_boat |  
+| bip_39_word_underscore_7 | club_sun_gauge_basic_genuine_boat_jacket |  
+| bip_39_word_underscore_8 | club_sun_gauge_basic_genuine_boat_jacket_guard |  
+| bip_39_word_underscore_9 | club_sun_gauge_basic_genuine_boat_jacket_guard_gather |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | door |  
+| bip_39_word_dash_10 | door-embark-prosper-doll-autumn-pitch-half-achieve-there-toward |  
+| bip_39_word_dash_11 | door-embark-prosper-doll-autumn-pitch-half-achieve-there-toward-rent |  
+| bip_39_word_dash_12 | door-embark-prosper-doll-autumn-pitch-half-achieve-there-toward-rent-arrest |  
+| bip_39_word_dash_2 | door-embark |  
+| bip_39_word_dash_3 | door-embark-prosper |  
+| bip_39_word_dash_4 | door-embark-prosper-doll |  
+| bip_39_word_dash_5 | door-embark-prosper-doll-autumn |  
+| bip_39_word_dash_6 | door-embark-prosper-doll-autumn-pitch |  
+| bip_39_word_dash_7 | door-embark-prosper-doll-autumn-pitch-half |  
+| bip_39_word_dash_8 | door-embark-prosper-doll-autumn-pitch-half-achieve |  
+| bip_39_word_dash_9 | door-embark-prosper-doll-autumn-pitch-half-achieve-there |  
 | bip_39_word_new_br_1 | door |  
 | bip_39_word_new_br_10 | door<br>embark<br>prosper<br>doll<br>autumn<br>pitch<br>half<br>achieve<br>there<br>toward |  
 | bip_39_word_new_br_11 | door<br>embark<br>prosper<br>doll<br>autumn<br>pitch<br>half<br>achieve<br>there<br>toward<br>rent |  
@@ -147,6 +159,18 @@ there |
 | bip_39_word_space_7 | door embark prosper doll autumn pitch half |  
 | bip_39_word_space_8 | door embark prosper doll autumn pitch half achieve |  
 | bip_39_word_space_9 | door embark prosper doll autumn pitch half achieve there |  
+| bip_39_word_underscore_1 | door |  
+| bip_39_word_underscore_10 | door_embark_prosper_doll_autumn_pitch_half_achieve_there_toward |  
+| bip_39_word_underscore_11 | door_embark_prosper_doll_autumn_pitch_half_achieve_there_toward_rent |  
+| bip_39_word_underscore_12 | door_embark_prosper_doll_autumn_pitch_half_achieve_there_toward_rent_arrest |  
+| bip_39_word_underscore_2 | door_embark |  
+| bip_39_word_underscore_3 | door_embark_prosper |  
+| bip_39_word_underscore_4 | door_embark_prosper_doll |  
+| bip_39_word_underscore_5 | door_embark_prosper_doll_autumn |  
+| bip_39_word_underscore_6 | door_embark_prosper_doll_autumn_pitch |  
+| bip_39_word_underscore_7 | door_embark_prosper_doll_autumn_pitch_half |  
+| bip_39_word_underscore_8 | door_embark_prosper_doll_autumn_pitch_half_achieve |  
+| bip_39_word_underscore_9 | door_embark_prosper_doll_autumn_pitch_half_achieve_there |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

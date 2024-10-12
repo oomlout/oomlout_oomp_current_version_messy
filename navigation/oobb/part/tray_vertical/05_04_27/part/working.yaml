@@ -1,3 +1,15 @@
+bip_39_word_dash_1: debris
+bip_39_word_dash_10: debris-stadium-pair-shrimp-circle-opera-very-tag-loop-prison
+bip_39_word_dash_11: debris-stadium-pair-shrimp-circle-opera-very-tag-loop-prison-position
+bip_39_word_dash_12: debris-stadium-pair-shrimp-circle-opera-very-tag-loop-prison-position-arrive
+bip_39_word_dash_2: debris-stadium
+bip_39_word_dash_3: debris-stadium-pair
+bip_39_word_dash_4: debris-stadium-pair-shrimp
+bip_39_word_dash_5: debris-stadium-pair-shrimp-circle
+bip_39_word_dash_6: debris-stadium-pair-shrimp-circle-opera
+bip_39_word_dash_7: debris-stadium-pair-shrimp-circle-opera-very
+bip_39_word_dash_8: debris-stadium-pair-shrimp-circle-opera-very-tag
+bip_39_word_dash_9: debris-stadium-pair-shrimp-circle-opera-very-tag-loop
 bip_39_word_new_br_1: debris
 bip_39_word_new_br_10: debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag<br>loop<br>prison
 bip_39_word_new_br_11: debris<br>stadium<br>pair<br>shrimp<br>circle<br>opera<br>very<br>tag<br>loop<br>prison<br>position
@@ -193,6 +205,18 @@ bip_39_word_space_6: debris stadium pair shrimp circle opera
 bip_39_word_space_7: debris stadium pair shrimp circle opera very
 bip_39_word_space_8: debris stadium pair shrimp circle opera very tag
 bip_39_word_space_9: debris stadium pair shrimp circle opera very tag loop
+bip_39_word_underscore_1: debris
+bip_39_word_underscore_10: debris_stadium_pair_shrimp_circle_opera_very_tag_loop_prison
+bip_39_word_underscore_11: debris_stadium_pair_shrimp_circle_opera_very_tag_loop_prison_position
+bip_39_word_underscore_12: debris_stadium_pair_shrimp_circle_opera_very_tag_loop_prison_position_arrive
+bip_39_word_underscore_2: debris_stadium
+bip_39_word_underscore_3: debris_stadium_pair
+bip_39_word_underscore_4: debris_stadium_pair_shrimp
+bip_39_word_underscore_5: debris_stadium_pair_shrimp_circle
+bip_39_word_underscore_6: debris_stadium_pair_shrimp_circle_opera
+bip_39_word_underscore_7: debris_stadium_pair_shrimp_circle_opera_very
+bip_39_word_underscore_8: debris_stadium_pair_shrimp_circle_opera_very_tag
+bip_39_word_underscore_9: debris_stadium_pair_shrimp_circle_opera_very_tag_loop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

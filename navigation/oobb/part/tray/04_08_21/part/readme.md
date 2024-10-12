@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soccer |  
+| bip_39_word_dash_10 | soccer-tobacco-monkey-mango-delay-tide-nose-pond-chicken-prison |  
+| bip_39_word_dash_11 | soccer-tobacco-monkey-mango-delay-tide-nose-pond-chicken-prison-want |  
+| bip_39_word_dash_12 | soccer-tobacco-monkey-mango-delay-tide-nose-pond-chicken-prison-want-arrest |  
+| bip_39_word_dash_2 | soccer-tobacco |  
+| bip_39_word_dash_3 | soccer-tobacco-monkey |  
+| bip_39_word_dash_4 | soccer-tobacco-monkey-mango |  
+| bip_39_word_dash_5 | soccer-tobacco-monkey-mango-delay |  
+| bip_39_word_dash_6 | soccer-tobacco-monkey-mango-delay-tide |  
+| bip_39_word_dash_7 | soccer-tobacco-monkey-mango-delay-tide-nose |  
+| bip_39_word_dash_8 | soccer-tobacco-monkey-mango-delay-tide-nose-pond |  
+| bip_39_word_dash_9 | soccer-tobacco-monkey-mango-delay-tide-nose-pond-chicken |  
 | bip_39_word_new_br_1 | soccer |  
 | bip_39_word_new_br_10 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison |  
 | bip_39_word_new_br_11 | soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison<br>want |  
@@ -147,6 +159,18 @@ chicken |
 | bip_39_word_space_7 | soccer tobacco monkey mango delay tide nose |  
 | bip_39_word_space_8 | soccer tobacco monkey mango delay tide nose pond |  
 | bip_39_word_space_9 | soccer tobacco monkey mango delay tide nose pond chicken |  
+| bip_39_word_underscore_1 | soccer |  
+| bip_39_word_underscore_10 | soccer_tobacco_monkey_mango_delay_tide_nose_pond_chicken_prison |  
+| bip_39_word_underscore_11 | soccer_tobacco_monkey_mango_delay_tide_nose_pond_chicken_prison_want |  
+| bip_39_word_underscore_12 | soccer_tobacco_monkey_mango_delay_tide_nose_pond_chicken_prison_want_arrest |  
+| bip_39_word_underscore_2 | soccer_tobacco |  
+| bip_39_word_underscore_3 | soccer_tobacco_monkey |  
+| bip_39_word_underscore_4 | soccer_tobacco_monkey_mango |  
+| bip_39_word_underscore_5 | soccer_tobacco_monkey_mango_delay |  
+| bip_39_word_underscore_6 | soccer_tobacco_monkey_mango_delay_tide |  
+| bip_39_word_underscore_7 | soccer_tobacco_monkey_mango_delay_tide_nose |  
+| bip_39_word_underscore_8 | soccer_tobacco_monkey_mango_delay_tide_nose_pond |  
+| bip_39_word_underscore_9 | soccer_tobacco_monkey_mango_delay_tide_nose_pond_chicken |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

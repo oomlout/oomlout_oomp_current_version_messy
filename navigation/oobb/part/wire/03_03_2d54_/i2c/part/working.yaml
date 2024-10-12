@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bone
+bip_39_word_dash_10: bone-tortoise-face-stadium-skirt-travel-riot-gift-truth-trip
+bip_39_word_dash_11: bone-tortoise-face-stadium-skirt-travel-riot-gift-truth-trip-mention
+bip_39_word_dash_12: bone-tortoise-face-stadium-skirt-travel-riot-gift-truth-trip-mention-add
+bip_39_word_dash_2: bone-tortoise
+bip_39_word_dash_3: bone-tortoise-face
+bip_39_word_dash_4: bone-tortoise-face-stadium
+bip_39_word_dash_5: bone-tortoise-face-stadium-skirt
+bip_39_word_dash_6: bone-tortoise-face-stadium-skirt-travel
+bip_39_word_dash_7: bone-tortoise-face-stadium-skirt-travel-riot
+bip_39_word_dash_8: bone-tortoise-face-stadium-skirt-travel-riot-gift
+bip_39_word_dash_9: bone-tortoise-face-stadium-skirt-travel-riot-gift-truth
 bip_39_word_new_br_1: bone
 bip_39_word_new_br_10: bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip
 bip_39_word_new_br_11: bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip<br>mention
@@ -193,6 +205,18 @@ bip_39_word_space_6: bone tortoise face stadium skirt travel
 bip_39_word_space_7: bone tortoise face stadium skirt travel riot
 bip_39_word_space_8: bone tortoise face stadium skirt travel riot gift
 bip_39_word_space_9: bone tortoise face stadium skirt travel riot gift truth
+bip_39_word_underscore_1: bone
+bip_39_word_underscore_10: bone_tortoise_face_stadium_skirt_travel_riot_gift_truth_trip
+bip_39_word_underscore_11: bone_tortoise_face_stadium_skirt_travel_riot_gift_truth_trip_mention
+bip_39_word_underscore_12: bone_tortoise_face_stadium_skirt_travel_riot_gift_truth_trip_mention_add
+bip_39_word_underscore_2: bone_tortoise
+bip_39_word_underscore_3: bone_tortoise_face
+bip_39_word_underscore_4: bone_tortoise_face_stadium
+bip_39_word_underscore_5: bone_tortoise_face_stadium_skirt
+bip_39_word_underscore_6: bone_tortoise_face_stadium_skirt_travel
+bip_39_word_underscore_7: bone_tortoise_face_stadium_skirt_travel_riot
+bip_39_word_underscore_8: bone_tortoise_face_stadium_skirt_travel_riot_gift
+bip_39_word_underscore_9: bone_tortoise_face_stadium_skirt_travel_riot_gift_truth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: domain
+bip_39_word_dash_10: domain-absent-zone-trap-pen-able-foam-problem-certain-jeans
+bip_39_word_dash_11: domain-absent-zone-trap-pen-able-foam-problem-certain-jeans-year
+bip_39_word_dash_12: domain-absent-zone-trap-pen-able-foam-problem-certain-jeans-year-analyst
+bip_39_word_dash_2: domain-absent
+bip_39_word_dash_3: domain-absent-zone
+bip_39_word_dash_4: domain-absent-zone-trap
+bip_39_word_dash_5: domain-absent-zone-trap-pen
+bip_39_word_dash_6: domain-absent-zone-trap-pen-able
+bip_39_word_dash_7: domain-absent-zone-trap-pen-able-foam
+bip_39_word_dash_8: domain-absent-zone-trap-pen-able-foam-problem
+bip_39_word_dash_9: domain-absent-zone-trap-pen-able-foam-problem-certain
 bip_39_word_new_br_1: domain
 bip_39_word_new_br_10: domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem<br>certain<br>jeans
 bip_39_word_new_br_11: domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem<br>certain<br>jeans<br>year
@@ -193,6 +205,18 @@ bip_39_word_space_6: domain absent zone trap pen able
 bip_39_word_space_7: domain absent zone trap pen able foam
 bip_39_word_space_8: domain absent zone trap pen able foam problem
 bip_39_word_space_9: domain absent zone trap pen able foam problem certain
+bip_39_word_underscore_1: domain
+bip_39_word_underscore_10: domain_absent_zone_trap_pen_able_foam_problem_certain_jeans
+bip_39_word_underscore_11: domain_absent_zone_trap_pen_able_foam_problem_certain_jeans_year
+bip_39_word_underscore_12: domain_absent_zone_trap_pen_able_foam_problem_certain_jeans_year_analyst
+bip_39_word_underscore_2: domain_absent
+bip_39_word_underscore_3: domain_absent_zone
+bip_39_word_underscore_4: domain_absent_zone_trap
+bip_39_word_underscore_5: domain_absent_zone_trap_pen
+bip_39_word_underscore_6: domain_absent_zone_trap_pen_able
+bip_39_word_underscore_7: domain_absent_zone_trap_pen_able_foam
+bip_39_word_underscore_8: domain_absent_zone_trap_pen_able_foam_problem
+bip_39_word_underscore_9: domain_absent_zone_trap_pen_able_foam_problem_certain
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

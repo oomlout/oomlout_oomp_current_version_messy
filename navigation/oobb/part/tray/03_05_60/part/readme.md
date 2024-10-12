@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | build |  
+| bip_39_word_dash_10 | build-catch-diet-promote-brief-will-keen-age-olympic-sausage |  
+| bip_39_word_dash_11 | build-catch-diet-promote-brief-will-keen-age-olympic-sausage-segment |  
+| bip_39_word_dash_12 | build-catch-diet-promote-brief-will-keen-age-olympic-sausage-segment-arena |  
+| bip_39_word_dash_2 | build-catch |  
+| bip_39_word_dash_3 | build-catch-diet |  
+| bip_39_word_dash_4 | build-catch-diet-promote |  
+| bip_39_word_dash_5 | build-catch-diet-promote-brief |  
+| bip_39_word_dash_6 | build-catch-diet-promote-brief-will |  
+| bip_39_word_dash_7 | build-catch-diet-promote-brief-will-keen |  
+| bip_39_word_dash_8 | build-catch-diet-promote-brief-will-keen-age |  
+| bip_39_word_dash_9 | build-catch-diet-promote-brief-will-keen-age-olympic |  
 | bip_39_word_new_br_1 | build |  
 | bip_39_word_new_br_10 | build<br>catch<br>diet<br>promote<br>brief<br>will<br>keen<br>age<br>olympic<br>sausage |  
 | bip_39_word_new_br_11 | build<br>catch<br>diet<br>promote<br>brief<br>will<br>keen<br>age<br>olympic<br>sausage<br>segment |  
@@ -147,6 +159,18 @@ olympic |
 | bip_39_word_space_7 | build catch diet promote brief will keen |  
 | bip_39_word_space_8 | build catch diet promote brief will keen age |  
 | bip_39_word_space_9 | build catch diet promote brief will keen age olympic |  
+| bip_39_word_underscore_1 | build |  
+| bip_39_word_underscore_10 | build_catch_diet_promote_brief_will_keen_age_olympic_sausage |  
+| bip_39_word_underscore_11 | build_catch_diet_promote_brief_will_keen_age_olympic_sausage_segment |  
+| bip_39_word_underscore_12 | build_catch_diet_promote_brief_will_keen_age_olympic_sausage_segment_arena |  
+| bip_39_word_underscore_2 | build_catch |  
+| bip_39_word_underscore_3 | build_catch_diet |  
+| bip_39_word_underscore_4 | build_catch_diet_promote |  
+| bip_39_word_underscore_5 | build_catch_diet_promote_brief |  
+| bip_39_word_underscore_6 | build_catch_diet_promote_brief_will |  
+| bip_39_word_underscore_7 | build_catch_diet_promote_brief_will_keen |  
+| bip_39_word_underscore_8 | build_catch_diet_promote_brief_will_keen_age |  
+| bip_39_word_underscore_9 | build_catch_diet_promote_brief_will_keen_age_olympic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decide |  
+| bip_39_word_dash_10 | decide-hold-quiz-emotion-vendor-erode-amateur-lava-jazz-illness |  
+| bip_39_word_dash_11 | decide-hold-quiz-emotion-vendor-erode-amateur-lava-jazz-illness-nest |  
+| bip_39_word_dash_12 | decide-hold-quiz-emotion-vendor-erode-amateur-lava-jazz-illness-nest-ability |  
+| bip_39_word_dash_2 | decide-hold |  
+| bip_39_word_dash_3 | decide-hold-quiz |  
+| bip_39_word_dash_4 | decide-hold-quiz-emotion |  
+| bip_39_word_dash_5 | decide-hold-quiz-emotion-vendor |  
+| bip_39_word_dash_6 | decide-hold-quiz-emotion-vendor-erode |  
+| bip_39_word_dash_7 | decide-hold-quiz-emotion-vendor-erode-amateur |  
+| bip_39_word_dash_8 | decide-hold-quiz-emotion-vendor-erode-amateur-lava |  
+| bip_39_word_dash_9 | decide-hold-quiz-emotion-vendor-erode-amateur-lava-jazz |  
 | bip_39_word_new_br_1 | decide |  
 | bip_39_word_new_br_10 | decide<br>hold<br>quiz<br>emotion<br>vendor<br>erode<br>amateur<br>lava<br>jazz<br>illness |  
 | bip_39_word_new_br_11 | decide<br>hold<br>quiz<br>emotion<br>vendor<br>erode<br>amateur<br>lava<br>jazz<br>illness<br>nest |  
@@ -147,6 +159,18 @@ jazz |
 | bip_39_word_space_7 | decide hold quiz emotion vendor erode amateur |  
 | bip_39_word_space_8 | decide hold quiz emotion vendor erode amateur lava |  
 | bip_39_word_space_9 | decide hold quiz emotion vendor erode amateur lava jazz |  
+| bip_39_word_underscore_1 | decide |  
+| bip_39_word_underscore_10 | decide_hold_quiz_emotion_vendor_erode_amateur_lava_jazz_illness |  
+| bip_39_word_underscore_11 | decide_hold_quiz_emotion_vendor_erode_amateur_lava_jazz_illness_nest |  
+| bip_39_word_underscore_12 | decide_hold_quiz_emotion_vendor_erode_amateur_lava_jazz_illness_nest_ability |  
+| bip_39_word_underscore_2 | decide_hold |  
+| bip_39_word_underscore_3 | decide_hold_quiz |  
+| bip_39_word_underscore_4 | decide_hold_quiz_emotion |  
+| bip_39_word_underscore_5 | decide_hold_quiz_emotion_vendor |  
+| bip_39_word_underscore_6 | decide_hold_quiz_emotion_vendor_erode |  
+| bip_39_word_underscore_7 | decide_hold_quiz_emotion_vendor_erode_amateur |  
+| bip_39_word_underscore_8 | decide_hold_quiz_emotion_vendor_erode_amateur_lava |  
+| bip_39_word_underscore_9 | decide_hold_quiz_emotion_vendor_erode_amateur_lava_jazz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

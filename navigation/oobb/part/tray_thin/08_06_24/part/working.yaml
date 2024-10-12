@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wide
+bip_39_word_dash_10: wide-glove-square-fiscal-drum-ski-narrow-mobile-dizzy-laundry
+bip_39_word_dash_11: wide-glove-square-fiscal-drum-ski-narrow-mobile-dizzy-laundry-toddler
+bip_39_word_dash_12: wide-glove-square-fiscal-drum-ski-narrow-mobile-dizzy-laundry-toddler-art
+bip_39_word_dash_2: wide-glove
+bip_39_word_dash_3: wide-glove-square
+bip_39_word_dash_4: wide-glove-square-fiscal
+bip_39_word_dash_5: wide-glove-square-fiscal-drum
+bip_39_word_dash_6: wide-glove-square-fiscal-drum-ski
+bip_39_word_dash_7: wide-glove-square-fiscal-drum-ski-narrow
+bip_39_word_dash_8: wide-glove-square-fiscal-drum-ski-narrow-mobile
+bip_39_word_dash_9: wide-glove-square-fiscal-drum-ski-narrow-mobile-dizzy
 bip_39_word_new_br_1: wide
 bip_39_word_new_br_10: wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile<br>dizzy<br>laundry
 bip_39_word_new_br_11: wide<br>glove<br>square<br>fiscal<br>drum<br>ski<br>narrow<br>mobile<br>dizzy<br>laundry<br>toddler
@@ -193,6 +205,18 @@ bip_39_word_space_6: wide glove square fiscal drum ski
 bip_39_word_space_7: wide glove square fiscal drum ski narrow
 bip_39_word_space_8: wide glove square fiscal drum ski narrow mobile
 bip_39_word_space_9: wide glove square fiscal drum ski narrow mobile dizzy
+bip_39_word_underscore_1: wide
+bip_39_word_underscore_10: wide_glove_square_fiscal_drum_ski_narrow_mobile_dizzy_laundry
+bip_39_word_underscore_11: wide_glove_square_fiscal_drum_ski_narrow_mobile_dizzy_laundry_toddler
+bip_39_word_underscore_12: wide_glove_square_fiscal_drum_ski_narrow_mobile_dizzy_laundry_toddler_art
+bip_39_word_underscore_2: wide_glove
+bip_39_word_underscore_3: wide_glove_square
+bip_39_word_underscore_4: wide_glove_square_fiscal
+bip_39_word_underscore_5: wide_glove_square_fiscal_drum
+bip_39_word_underscore_6: wide_glove_square_fiscal_drum_ski
+bip_39_word_underscore_7: wide_glove_square_fiscal_drum_ski_narrow
+bip_39_word_underscore_8: wide_glove_square_fiscal_drum_ski_narrow_mobile
+bip_39_word_underscore_9: wide_glove_square_fiscal_drum_ski_narrow_mobile_dizzy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

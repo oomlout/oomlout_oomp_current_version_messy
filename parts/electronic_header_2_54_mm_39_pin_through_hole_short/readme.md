@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | divide |  
+| bip_39_word_dash_10 | divide-onion-script-goddess-deliver-husband-about-used-coral-select |  
+| bip_39_word_dash_11 | divide-onion-script-goddess-deliver-husband-about-used-coral-select-leisure |  
+| bip_39_word_dash_12 | divide-onion-script-goddess-deliver-husband-about-used-coral-select-leisure-another |  
+| bip_39_word_dash_2 | divide-onion |  
+| bip_39_word_dash_3 | divide-onion-script |  
+| bip_39_word_dash_4 | divide-onion-script-goddess |  
+| bip_39_word_dash_5 | divide-onion-script-goddess-deliver |  
+| bip_39_word_dash_6 | divide-onion-script-goddess-deliver-husband |  
+| bip_39_word_dash_7 | divide-onion-script-goddess-deliver-husband-about |  
+| bip_39_word_dash_8 | divide-onion-script-goddess-deliver-husband-about-used |  
+| bip_39_word_dash_9 | divide-onion-script-goddess-deliver-husband-about-used-coral |  
 | bip_39_word_new_br_1 | divide |  
 | bip_39_word_new_br_10 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select |  
 | bip_39_word_new_br_11 | divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select<br>leisure |  
@@ -147,6 +159,18 @@ coral |
 | bip_39_word_space_7 | divide onion script goddess deliver husband about |  
 | bip_39_word_space_8 | divide onion script goddess deliver husband about used |  
 | bip_39_word_space_9 | divide onion script goddess deliver husband about used coral |  
+| bip_39_word_underscore_1 | divide |  
+| bip_39_word_underscore_10 | divide_onion_script_goddess_deliver_husband_about_used_coral_select |  
+| bip_39_word_underscore_11 | divide_onion_script_goddess_deliver_husband_about_used_coral_select_leisure |  
+| bip_39_word_underscore_12 | divide_onion_script_goddess_deliver_husband_about_used_coral_select_leisure_another |  
+| bip_39_word_underscore_2 | divide_onion |  
+| bip_39_word_underscore_3 | divide_onion_script |  
+| bip_39_word_underscore_4 | divide_onion_script_goddess |  
+| bip_39_word_underscore_5 | divide_onion_script_goddess_deliver |  
+| bip_39_word_underscore_6 | divide_onion_script_goddess_deliver_husband |  
+| bip_39_word_underscore_7 | divide_onion_script_goddess_deliver_husband_about |  
+| bip_39_word_underscore_8 | divide_onion_script_goddess_deliver_husband_about_used |  
+| bip_39_word_underscore_9 | divide_onion_script_goddess_deliver_husband_about_used_coral |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

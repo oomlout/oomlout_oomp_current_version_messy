@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | depart |  
+| bip_39_word_dash_10 | depart-mask-lawsuit-hunt-combine-convince-prosper-master-sudden-dry |  
+| bip_39_word_dash_11 | depart-mask-lawsuit-hunt-combine-convince-prosper-master-sudden-dry-blur |  
+| bip_39_word_dash_12 | depart-mask-lawsuit-hunt-combine-convince-prosper-master-sudden-dry-blur-ask |  
+| bip_39_word_dash_2 | depart-mask |  
+| bip_39_word_dash_3 | depart-mask-lawsuit |  
+| bip_39_word_dash_4 | depart-mask-lawsuit-hunt |  
+| bip_39_word_dash_5 | depart-mask-lawsuit-hunt-combine |  
+| bip_39_word_dash_6 | depart-mask-lawsuit-hunt-combine-convince |  
+| bip_39_word_dash_7 | depart-mask-lawsuit-hunt-combine-convince-prosper |  
+| bip_39_word_dash_8 | depart-mask-lawsuit-hunt-combine-convince-prosper-master |  
+| bip_39_word_dash_9 | depart-mask-lawsuit-hunt-combine-convince-prosper-master-sudden |  
 | bip_39_word_new_br_1 | depart |  
 | bip_39_word_new_br_10 | depart<br>mask<br>lawsuit<br>hunt<br>combine<br>convince<br>prosper<br>master<br>sudden<br>dry |  
 | bip_39_word_new_br_11 | depart<br>mask<br>lawsuit<br>hunt<br>combine<br>convince<br>prosper<br>master<br>sudden<br>dry<br>blur |  
@@ -147,6 +159,18 @@ sudden |
 | bip_39_word_space_7 | depart mask lawsuit hunt combine convince prosper |  
 | bip_39_word_space_8 | depart mask lawsuit hunt combine convince prosper master |  
 | bip_39_word_space_9 | depart mask lawsuit hunt combine convince prosper master sudden |  
+| bip_39_word_underscore_1 | depart |  
+| bip_39_word_underscore_10 | depart_mask_lawsuit_hunt_combine_convince_prosper_master_sudden_dry |  
+| bip_39_word_underscore_11 | depart_mask_lawsuit_hunt_combine_convince_prosper_master_sudden_dry_blur |  
+| bip_39_word_underscore_12 | depart_mask_lawsuit_hunt_combine_convince_prosper_master_sudden_dry_blur_ask |  
+| bip_39_word_underscore_2 | depart_mask |  
+| bip_39_word_underscore_3 | depart_mask_lawsuit |  
+| bip_39_word_underscore_4 | depart_mask_lawsuit_hunt |  
+| bip_39_word_underscore_5 | depart_mask_lawsuit_hunt_combine |  
+| bip_39_word_underscore_6 | depart_mask_lawsuit_hunt_combine_convince |  
+| bip_39_word_underscore_7 | depart_mask_lawsuit_hunt_combine_convince_prosper |  
+| bip_39_word_underscore_8 | depart_mask_lawsuit_hunt_combine_convince_prosper_master |  
+| bip_39_word_underscore_9 | depart_mask_lawsuit_hunt_combine_convince_prosper_master_sudden |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

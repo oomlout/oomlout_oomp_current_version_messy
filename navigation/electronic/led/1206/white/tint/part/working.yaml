@@ -1,3 +1,15 @@
+bip_39_word_dash_1: final
+bip_39_word_dash_10: final-leg-program-silk-catalog-icon-buffalo-blood-nerve-earth
+bip_39_word_dash_11: final-leg-program-silk-catalog-icon-buffalo-blood-nerve-earth-solid
+bip_39_word_dash_12: final-leg-program-silk-catalog-icon-buffalo-blood-nerve-earth-solid-any
+bip_39_word_dash_2: final-leg
+bip_39_word_dash_3: final-leg-program
+bip_39_word_dash_4: final-leg-program-silk
+bip_39_word_dash_5: final-leg-program-silk-catalog
+bip_39_word_dash_6: final-leg-program-silk-catalog-icon
+bip_39_word_dash_7: final-leg-program-silk-catalog-icon-buffalo
+bip_39_word_dash_8: final-leg-program-silk-catalog-icon-buffalo-blood
+bip_39_word_dash_9: final-leg-program-silk-catalog-icon-buffalo-blood-nerve
 bip_39_word_new_br_1: final
 bip_39_word_new_br_10: final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood<br>nerve<br>earth
 bip_39_word_new_br_11: final<br>leg<br>program<br>silk<br>catalog<br>icon<br>buffalo<br>blood<br>nerve<br>earth<br>solid
@@ -193,6 +205,18 @@ bip_39_word_space_6: final leg program silk catalog icon
 bip_39_word_space_7: final leg program silk catalog icon buffalo
 bip_39_word_space_8: final leg program silk catalog icon buffalo blood
 bip_39_word_space_9: final leg program silk catalog icon buffalo blood nerve
+bip_39_word_underscore_1: final
+bip_39_word_underscore_10: final_leg_program_silk_catalog_icon_buffalo_blood_nerve_earth
+bip_39_word_underscore_11: final_leg_program_silk_catalog_icon_buffalo_blood_nerve_earth_solid
+bip_39_word_underscore_12: final_leg_program_silk_catalog_icon_buffalo_blood_nerve_earth_solid_any
+bip_39_word_underscore_2: final_leg
+bip_39_word_underscore_3: final_leg_program
+bip_39_word_underscore_4: final_leg_program_silk
+bip_39_word_underscore_5: final_leg_program_silk_catalog
+bip_39_word_underscore_6: final_leg_program_silk_catalog_icon
+bip_39_word_underscore_7: final_leg_program_silk_catalog_icon_buffalo
+bip_39_word_underscore_8: final_leg_program_silk_catalog_icon_buffalo_blood
+bip_39_word_underscore_9: final_leg_program_silk_catalog_icon_buffalo_blood_nerve
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

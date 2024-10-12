@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pledge |  
+| bip_39_word_dash_10 | pledge-regular-episode-begin-gasp-derive-social-exotic-very-image |  
+| bip_39_word_dash_11 | pledge-regular-episode-begin-gasp-derive-social-exotic-very-image-direct |  
+| bip_39_word_dash_12 | pledge-regular-episode-begin-gasp-derive-social-exotic-very-image-direct-acid |  
+| bip_39_word_dash_2 | pledge-regular |  
+| bip_39_word_dash_3 | pledge-regular-episode |  
+| bip_39_word_dash_4 | pledge-regular-episode-begin |  
+| bip_39_word_dash_5 | pledge-regular-episode-begin-gasp |  
+| bip_39_word_dash_6 | pledge-regular-episode-begin-gasp-derive |  
+| bip_39_word_dash_7 | pledge-regular-episode-begin-gasp-derive-social |  
+| bip_39_word_dash_8 | pledge-regular-episode-begin-gasp-derive-social-exotic |  
+| bip_39_word_dash_9 | pledge-regular-episode-begin-gasp-derive-social-exotic-very |  
 | bip_39_word_new_br_1 | pledge |  
 | bip_39_word_new_br_10 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image |  
 | bip_39_word_new_br_11 | pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image<br>direct |  
@@ -147,6 +159,18 @@ very |
 | bip_39_word_space_7 | pledge regular episode begin gasp derive social |  
 | bip_39_word_space_8 | pledge regular episode begin gasp derive social exotic |  
 | bip_39_word_space_9 | pledge regular episode begin gasp derive social exotic very |  
+| bip_39_word_underscore_1 | pledge |  
+| bip_39_word_underscore_10 | pledge_regular_episode_begin_gasp_derive_social_exotic_very_image |  
+| bip_39_word_underscore_11 | pledge_regular_episode_begin_gasp_derive_social_exotic_very_image_direct |  
+| bip_39_word_underscore_12 | pledge_regular_episode_begin_gasp_derive_social_exotic_very_image_direct_acid |  
+| bip_39_word_underscore_2 | pledge_regular |  
+| bip_39_word_underscore_3 | pledge_regular_episode |  
+| bip_39_word_underscore_4 | pledge_regular_episode_begin |  
+| bip_39_word_underscore_5 | pledge_regular_episode_begin_gasp |  
+| bip_39_word_underscore_6 | pledge_regular_episode_begin_gasp_derive |  
+| bip_39_word_underscore_7 | pledge_regular_episode_begin_gasp_derive_social |  
+| bip_39_word_underscore_8 | pledge_regular_episode_begin_gasp_derive_social_exotic |  
+| bip_39_word_underscore_9 | pledge_regular_episode_begin_gasp_derive_social_exotic_very |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alarm |  
+| bip_39_word_dash_10 | alarm-fish-use-shield-festival-time-analyst-water-letter-scorpion |  
+| bip_39_word_dash_11 | alarm-fish-use-shield-festival-time-analyst-water-letter-scorpion-federal |  
+| bip_39_word_dash_12 | alarm-fish-use-shield-festival-time-analyst-water-letter-scorpion-federal-album |  
+| bip_39_word_dash_2 | alarm-fish |  
+| bip_39_word_dash_3 | alarm-fish-use |  
+| bip_39_word_dash_4 | alarm-fish-use-shield |  
+| bip_39_word_dash_5 | alarm-fish-use-shield-festival |  
+| bip_39_word_dash_6 | alarm-fish-use-shield-festival-time |  
+| bip_39_word_dash_7 | alarm-fish-use-shield-festival-time-analyst |  
+| bip_39_word_dash_8 | alarm-fish-use-shield-festival-time-analyst-water |  
+| bip_39_word_dash_9 | alarm-fish-use-shield-festival-time-analyst-water-letter |  
 | bip_39_word_new_br_1 | alarm |  
 | bip_39_word_new_br_10 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water<br>letter<br>scorpion |  
 | bip_39_word_new_br_11 | alarm<br>fish<br>use<br>shield<br>festival<br>time<br>analyst<br>water<br>letter<br>scorpion<br>federal |  
@@ -147,6 +159,18 @@ letter |
 | bip_39_word_space_7 | alarm fish use shield festival time analyst |  
 | bip_39_word_space_8 | alarm fish use shield festival time analyst water |  
 | bip_39_word_space_9 | alarm fish use shield festival time analyst water letter |  
+| bip_39_word_underscore_1 | alarm |  
+| bip_39_word_underscore_10 | alarm_fish_use_shield_festival_time_analyst_water_letter_scorpion |  
+| bip_39_word_underscore_11 | alarm_fish_use_shield_festival_time_analyst_water_letter_scorpion_federal |  
+| bip_39_word_underscore_12 | alarm_fish_use_shield_festival_time_analyst_water_letter_scorpion_federal_album |  
+| bip_39_word_underscore_2 | alarm_fish |  
+| bip_39_word_underscore_3 | alarm_fish_use |  
+| bip_39_word_underscore_4 | alarm_fish_use_shield |  
+| bip_39_word_underscore_5 | alarm_fish_use_shield_festival |  
+| bip_39_word_underscore_6 | alarm_fish_use_shield_festival_time |  
+| bip_39_word_underscore_7 | alarm_fish_use_shield_festival_time_analyst |  
+| bip_39_word_underscore_8 | alarm_fish_use_shield_festival_time_analyst_water |  
+| bip_39_word_underscore_9 | alarm_fish_use_shield_festival_time_analyst_water_letter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

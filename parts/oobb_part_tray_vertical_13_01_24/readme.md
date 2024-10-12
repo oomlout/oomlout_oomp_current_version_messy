@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erosion |  
+| bip_39_word_dash_10 | erosion-solid-ability-subject-nice-upper-cinnamon-satoshi-palm-soft |  
+| bip_39_word_dash_11 | erosion-solid-ability-subject-nice-upper-cinnamon-satoshi-palm-soft-sail |  
+| bip_39_word_dash_12 | erosion-solid-ability-subject-nice-upper-cinnamon-satoshi-palm-soft-sail-assault |  
+| bip_39_word_dash_2 | erosion-solid |  
+| bip_39_word_dash_3 | erosion-solid-ability |  
+| bip_39_word_dash_4 | erosion-solid-ability-subject |  
+| bip_39_word_dash_5 | erosion-solid-ability-subject-nice |  
+| bip_39_word_dash_6 | erosion-solid-ability-subject-nice-upper |  
+| bip_39_word_dash_7 | erosion-solid-ability-subject-nice-upper-cinnamon |  
+| bip_39_word_dash_8 | erosion-solid-ability-subject-nice-upper-cinnamon-satoshi |  
+| bip_39_word_dash_9 | erosion-solid-ability-subject-nice-upper-cinnamon-satoshi-palm |  
 | bip_39_word_new_br_1 | erosion |  
 | bip_39_word_new_br_10 | erosion<br>solid<br>ability<br>subject<br>nice<br>upper<br>cinnamon<br>satoshi<br>palm<br>soft |  
 | bip_39_word_new_br_11 | erosion<br>solid<br>ability<br>subject<br>nice<br>upper<br>cinnamon<br>satoshi<br>palm<br>soft<br>sail |  
@@ -147,6 +159,18 @@ palm |
 | bip_39_word_space_7 | erosion solid ability subject nice upper cinnamon |  
 | bip_39_word_space_8 | erosion solid ability subject nice upper cinnamon satoshi |  
 | bip_39_word_space_9 | erosion solid ability subject nice upper cinnamon satoshi palm |  
+| bip_39_word_underscore_1 | erosion |  
+| bip_39_word_underscore_10 | erosion_solid_ability_subject_nice_upper_cinnamon_satoshi_palm_soft |  
+| bip_39_word_underscore_11 | erosion_solid_ability_subject_nice_upper_cinnamon_satoshi_palm_soft_sail |  
+| bip_39_word_underscore_12 | erosion_solid_ability_subject_nice_upper_cinnamon_satoshi_palm_soft_sail_assault |  
+| bip_39_word_underscore_2 | erosion_solid |  
+| bip_39_word_underscore_3 | erosion_solid_ability |  
+| bip_39_word_underscore_4 | erosion_solid_ability_subject |  
+| bip_39_word_underscore_5 | erosion_solid_ability_subject_nice |  
+| bip_39_word_underscore_6 | erosion_solid_ability_subject_nice_upper |  
+| bip_39_word_underscore_7 | erosion_solid_ability_subject_nice_upper_cinnamon |  
+| bip_39_word_underscore_8 | erosion_solid_ability_subject_nice_upper_cinnamon_satoshi |  
+| bip_39_word_underscore_9 | erosion_solid_ability_subject_nice_upper_cinnamon_satoshi_palm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

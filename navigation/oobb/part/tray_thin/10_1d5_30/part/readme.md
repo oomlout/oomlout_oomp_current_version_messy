@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | room |  
+| bip_39_word_dash_10 | room-turn-since-arctic-venue-alley-clerk-pretty-liquid-genre |  
+| bip_39_word_dash_11 | room-turn-since-arctic-venue-alley-clerk-pretty-liquid-genre-leopard |  
+| bip_39_word_dash_12 | room-turn-since-arctic-venue-alley-clerk-pretty-liquid-genre-leopard-arrow |  
+| bip_39_word_dash_2 | room-turn |  
+| bip_39_word_dash_3 | room-turn-since |  
+| bip_39_word_dash_4 | room-turn-since-arctic |  
+| bip_39_word_dash_5 | room-turn-since-arctic-venue |  
+| bip_39_word_dash_6 | room-turn-since-arctic-venue-alley |  
+| bip_39_word_dash_7 | room-turn-since-arctic-venue-alley-clerk |  
+| bip_39_word_dash_8 | room-turn-since-arctic-venue-alley-clerk-pretty |  
+| bip_39_word_dash_9 | room-turn-since-arctic-venue-alley-clerk-pretty-liquid |  
 | bip_39_word_new_br_1 | room |  
 | bip_39_word_new_br_10 | room<br>turn<br>since<br>arctic<br>venue<br>alley<br>clerk<br>pretty<br>liquid<br>genre |  
 | bip_39_word_new_br_11 | room<br>turn<br>since<br>arctic<br>venue<br>alley<br>clerk<br>pretty<br>liquid<br>genre<br>leopard |  
@@ -147,6 +159,18 @@ liquid |
 | bip_39_word_space_7 | room turn since arctic venue alley clerk |  
 | bip_39_word_space_8 | room turn since arctic venue alley clerk pretty |  
 | bip_39_word_space_9 | room turn since arctic venue alley clerk pretty liquid |  
+| bip_39_word_underscore_1 | room |  
+| bip_39_word_underscore_10 | room_turn_since_arctic_venue_alley_clerk_pretty_liquid_genre |  
+| bip_39_word_underscore_11 | room_turn_since_arctic_venue_alley_clerk_pretty_liquid_genre_leopard |  
+| bip_39_word_underscore_12 | room_turn_since_arctic_venue_alley_clerk_pretty_liquid_genre_leopard_arrow |  
+| bip_39_word_underscore_2 | room_turn |  
+| bip_39_word_underscore_3 | room_turn_since |  
+| bip_39_word_underscore_4 | room_turn_since_arctic |  
+| bip_39_word_underscore_5 | room_turn_since_arctic_venue |  
+| bip_39_word_underscore_6 | room_turn_since_arctic_venue_alley |  
+| bip_39_word_underscore_7 | room_turn_since_arctic_venue_alley_clerk |  
+| bip_39_word_underscore_8 | room_turn_since_arctic_venue_alley_clerk_pretty |  
+| bip_39_word_underscore_9 | room_turn_since_arctic_venue_alley_clerk_pretty_liquid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | damp |  
+| bip_39_word_dash_10 | damp-pulp-train-peanut-document-volcano-step-sing-race-tunnel |  
+| bip_39_word_dash_11 | damp-pulp-train-peanut-document-volcano-step-sing-race-tunnel-rally |  
+| bip_39_word_dash_12 | damp-pulp-train-peanut-document-volcano-step-sing-race-tunnel-rally-afford |  
+| bip_39_word_dash_2 | damp-pulp |  
+| bip_39_word_dash_3 | damp-pulp-train |  
+| bip_39_word_dash_4 | damp-pulp-train-peanut |  
+| bip_39_word_dash_5 | damp-pulp-train-peanut-document |  
+| bip_39_word_dash_6 | damp-pulp-train-peanut-document-volcano |  
+| bip_39_word_dash_7 | damp-pulp-train-peanut-document-volcano-step |  
+| bip_39_word_dash_8 | damp-pulp-train-peanut-document-volcano-step-sing |  
+| bip_39_word_dash_9 | damp-pulp-train-peanut-document-volcano-step-sing-race |  
 | bip_39_word_new_br_1 | damp |  
 | bip_39_word_new_br_10 | damp<br>pulp<br>train<br>peanut<br>document<br>volcano<br>step<br>sing<br>race<br>tunnel |  
 | bip_39_word_new_br_11 | damp<br>pulp<br>train<br>peanut<br>document<br>volcano<br>step<br>sing<br>race<br>tunnel<br>rally |  
@@ -147,6 +159,18 @@ race |
 | bip_39_word_space_7 | damp pulp train peanut document volcano step |  
 | bip_39_word_space_8 | damp pulp train peanut document volcano step sing |  
 | bip_39_word_space_9 | damp pulp train peanut document volcano step sing race |  
+| bip_39_word_underscore_1 | damp |  
+| bip_39_word_underscore_10 | damp_pulp_train_peanut_document_volcano_step_sing_race_tunnel |  
+| bip_39_word_underscore_11 | damp_pulp_train_peanut_document_volcano_step_sing_race_tunnel_rally |  
+| bip_39_word_underscore_12 | damp_pulp_train_peanut_document_volcano_step_sing_race_tunnel_rally_afford |  
+| bip_39_word_underscore_2 | damp_pulp |  
+| bip_39_word_underscore_3 | damp_pulp_train |  
+| bip_39_word_underscore_4 | damp_pulp_train_peanut |  
+| bip_39_word_underscore_5 | damp_pulp_train_peanut_document |  
+| bip_39_word_underscore_6 | damp_pulp_train_peanut_document_volcano |  
+| bip_39_word_underscore_7 | damp_pulp_train_peanut_document_volcano_step |  
+| bip_39_word_underscore_8 | damp_pulp_train_peanut_document_volcano_step_sing |  
+| bip_39_word_underscore_9 | damp_pulp_train_peanut_document_volcano_step_sing_race |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

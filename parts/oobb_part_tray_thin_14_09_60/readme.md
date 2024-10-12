@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | used |  
+| bip_39_word_dash_10 | used-curtain-mutual-scatter-ketchup-cricket-prosper-slab-blade-hurt |  
+| bip_39_word_dash_11 | used-curtain-mutual-scatter-ketchup-cricket-prosper-slab-blade-hurt-motor |  
+| bip_39_word_dash_12 | used-curtain-mutual-scatter-ketchup-cricket-prosper-slab-blade-hurt-motor-another |  
+| bip_39_word_dash_2 | used-curtain |  
+| bip_39_word_dash_3 | used-curtain-mutual |  
+| bip_39_word_dash_4 | used-curtain-mutual-scatter |  
+| bip_39_word_dash_5 | used-curtain-mutual-scatter-ketchup |  
+| bip_39_word_dash_6 | used-curtain-mutual-scatter-ketchup-cricket |  
+| bip_39_word_dash_7 | used-curtain-mutual-scatter-ketchup-cricket-prosper |  
+| bip_39_word_dash_8 | used-curtain-mutual-scatter-ketchup-cricket-prosper-slab |  
+| bip_39_word_dash_9 | used-curtain-mutual-scatter-ketchup-cricket-prosper-slab-blade |  
 | bip_39_word_new_br_1 | used |  
 | bip_39_word_new_br_10 | used<br>curtain<br>mutual<br>scatter<br>ketchup<br>cricket<br>prosper<br>slab<br>blade<br>hurt |  
 | bip_39_word_new_br_11 | used<br>curtain<br>mutual<br>scatter<br>ketchup<br>cricket<br>prosper<br>slab<br>blade<br>hurt<br>motor |  
@@ -147,6 +159,18 @@ blade |
 | bip_39_word_space_7 | used curtain mutual scatter ketchup cricket prosper |  
 | bip_39_word_space_8 | used curtain mutual scatter ketchup cricket prosper slab |  
 | bip_39_word_space_9 | used curtain mutual scatter ketchup cricket prosper slab blade |  
+| bip_39_word_underscore_1 | used |  
+| bip_39_word_underscore_10 | used_curtain_mutual_scatter_ketchup_cricket_prosper_slab_blade_hurt |  
+| bip_39_word_underscore_11 | used_curtain_mutual_scatter_ketchup_cricket_prosper_slab_blade_hurt_motor |  
+| bip_39_word_underscore_12 | used_curtain_mutual_scatter_ketchup_cricket_prosper_slab_blade_hurt_motor_another |  
+| bip_39_word_underscore_2 | used_curtain |  
+| bip_39_word_underscore_3 | used_curtain_mutual |  
+| bip_39_word_underscore_4 | used_curtain_mutual_scatter |  
+| bip_39_word_underscore_5 | used_curtain_mutual_scatter_ketchup |  
+| bip_39_word_underscore_6 | used_curtain_mutual_scatter_ketchup_cricket |  
+| bip_39_word_underscore_7 | used_curtain_mutual_scatter_ketchup_cricket_prosper |  
+| bip_39_word_underscore_8 | used_curtain_mutual_scatter_ketchup_cricket_prosper_slab |  
+| bip_39_word_underscore_9 | used_curtain_mutual_scatter_ketchup_cricket_prosper_slab_blade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

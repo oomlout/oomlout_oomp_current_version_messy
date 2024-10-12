@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | destroy |  
+| bip_39_word_dash_10 | destroy-wash-stove-almost-cupboard-solution-sudden-used-special-bean |  
+| bip_39_word_dash_11 | destroy-wash-stove-almost-cupboard-solution-sudden-used-special-bean-song |  
+| bip_39_word_dash_12 | destroy-wash-stove-almost-cupboard-solution-sudden-used-special-bean-song-action |  
+| bip_39_word_dash_2 | destroy-wash |  
+| bip_39_word_dash_3 | destroy-wash-stove |  
+| bip_39_word_dash_4 | destroy-wash-stove-almost |  
+| bip_39_word_dash_5 | destroy-wash-stove-almost-cupboard |  
+| bip_39_word_dash_6 | destroy-wash-stove-almost-cupboard-solution |  
+| bip_39_word_dash_7 | destroy-wash-stove-almost-cupboard-solution-sudden |  
+| bip_39_word_dash_8 | destroy-wash-stove-almost-cupboard-solution-sudden-used |  
+| bip_39_word_dash_9 | destroy-wash-stove-almost-cupboard-solution-sudden-used-special |  
 | bip_39_word_new_br_1 | destroy |  
 | bip_39_word_new_br_10 | destroy<br>wash<br>stove<br>almost<br>cupboard<br>solution<br>sudden<br>used<br>special<br>bean |  
 | bip_39_word_new_br_11 | destroy<br>wash<br>stove<br>almost<br>cupboard<br>solution<br>sudden<br>used<br>special<br>bean<br>song |  
@@ -147,6 +159,18 @@ special |
 | bip_39_word_space_7 | destroy wash stove almost cupboard solution sudden |  
 | bip_39_word_space_8 | destroy wash stove almost cupboard solution sudden used |  
 | bip_39_word_space_9 | destroy wash stove almost cupboard solution sudden used special |  
+| bip_39_word_underscore_1 | destroy |  
+| bip_39_word_underscore_10 | destroy_wash_stove_almost_cupboard_solution_sudden_used_special_bean |  
+| bip_39_word_underscore_11 | destroy_wash_stove_almost_cupboard_solution_sudden_used_special_bean_song |  
+| bip_39_word_underscore_12 | destroy_wash_stove_almost_cupboard_solution_sudden_used_special_bean_song_action |  
+| bip_39_word_underscore_2 | destroy_wash |  
+| bip_39_word_underscore_3 | destroy_wash_stove |  
+| bip_39_word_underscore_4 | destroy_wash_stove_almost |  
+| bip_39_word_underscore_5 | destroy_wash_stove_almost_cupboard |  
+| bip_39_word_underscore_6 | destroy_wash_stove_almost_cupboard_solution |  
+| bip_39_word_underscore_7 | destroy_wash_stove_almost_cupboard_solution_sudden |  
+| bip_39_word_underscore_8 | destroy_wash_stove_almost_cupboard_solution_sudden_used |  
+| bip_39_word_underscore_9 | destroy_wash_stove_almost_cupboard_solution_sudden_used_special |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

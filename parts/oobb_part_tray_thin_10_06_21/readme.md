@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | salad |  
+| bip_39_word_dash_10 | salad-favorite-script-eight-grunt-inject-tape-chaos-fluid-blush |  
+| bip_39_word_dash_11 | salad-favorite-script-eight-grunt-inject-tape-chaos-fluid-blush-until |  
+| bip_39_word_dash_12 | salad-favorite-script-eight-grunt-inject-tape-chaos-fluid-blush-until-abuse |  
+| bip_39_word_dash_2 | salad-favorite |  
+| bip_39_word_dash_3 | salad-favorite-script |  
+| bip_39_word_dash_4 | salad-favorite-script-eight |  
+| bip_39_word_dash_5 | salad-favorite-script-eight-grunt |  
+| bip_39_word_dash_6 | salad-favorite-script-eight-grunt-inject |  
+| bip_39_word_dash_7 | salad-favorite-script-eight-grunt-inject-tape |  
+| bip_39_word_dash_8 | salad-favorite-script-eight-grunt-inject-tape-chaos |  
+| bip_39_word_dash_9 | salad-favorite-script-eight-grunt-inject-tape-chaos-fluid |  
 | bip_39_word_new_br_1 | salad |  
 | bip_39_word_new_br_10 | salad<br>favorite<br>script<br>eight<br>grunt<br>inject<br>tape<br>chaos<br>fluid<br>blush |  
 | bip_39_word_new_br_11 | salad<br>favorite<br>script<br>eight<br>grunt<br>inject<br>tape<br>chaos<br>fluid<br>blush<br>until |  
@@ -147,6 +159,18 @@ fluid |
 | bip_39_word_space_7 | salad favorite script eight grunt inject tape |  
 | bip_39_word_space_8 | salad favorite script eight grunt inject tape chaos |  
 | bip_39_word_space_9 | salad favorite script eight grunt inject tape chaos fluid |  
+| bip_39_word_underscore_1 | salad |  
+| bip_39_word_underscore_10 | salad_favorite_script_eight_grunt_inject_tape_chaos_fluid_blush |  
+| bip_39_word_underscore_11 | salad_favorite_script_eight_grunt_inject_tape_chaos_fluid_blush_until |  
+| bip_39_word_underscore_12 | salad_favorite_script_eight_grunt_inject_tape_chaos_fluid_blush_until_abuse |  
+| bip_39_word_underscore_2 | salad_favorite |  
+| bip_39_word_underscore_3 | salad_favorite_script |  
+| bip_39_word_underscore_4 | salad_favorite_script_eight |  
+| bip_39_word_underscore_5 | salad_favorite_script_eight_grunt |  
+| bip_39_word_underscore_6 | salad_favorite_script_eight_grunt_inject |  
+| bip_39_word_underscore_7 | salad_favorite_script_eight_grunt_inject_tape |  
+| bip_39_word_underscore_8 | salad_favorite_script_eight_grunt_inject_tape_chaos |  
+| bip_39_word_underscore_9 | salad_favorite_script_eight_grunt_inject_tape_chaos_fluid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

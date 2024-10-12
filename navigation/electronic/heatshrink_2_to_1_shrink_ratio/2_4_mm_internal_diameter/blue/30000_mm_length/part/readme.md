@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gloom |  
+| bip_39_word_dash_10 | gloom-ask-gather-claim-truck-hollow-isolate-rain-multiply-vacant |  
+| bip_39_word_dash_11 | gloom-ask-gather-claim-truck-hollow-isolate-rain-multiply-vacant-found |  
+| bip_39_word_dash_12 | gloom-ask-gather-claim-truck-hollow-isolate-rain-multiply-vacant-found-assist |  
+| bip_39_word_dash_2 | gloom-ask |  
+| bip_39_word_dash_3 | gloom-ask-gather |  
+| bip_39_word_dash_4 | gloom-ask-gather-claim |  
+| bip_39_word_dash_5 | gloom-ask-gather-claim-truck |  
+| bip_39_word_dash_6 | gloom-ask-gather-claim-truck-hollow |  
+| bip_39_word_dash_7 | gloom-ask-gather-claim-truck-hollow-isolate |  
+| bip_39_word_dash_8 | gloom-ask-gather-claim-truck-hollow-isolate-rain |  
+| bip_39_word_dash_9 | gloom-ask-gather-claim-truck-hollow-isolate-rain-multiply |  
 | bip_39_word_new_br_1 | gloom |  
 | bip_39_word_new_br_10 | gloom<br>ask<br>gather<br>claim<br>truck<br>hollow<br>isolate<br>rain<br>multiply<br>vacant |  
 | bip_39_word_new_br_11 | gloom<br>ask<br>gather<br>claim<br>truck<br>hollow<br>isolate<br>rain<br>multiply<br>vacant<br>found |  
@@ -147,6 +159,18 @@ multiply |
 | bip_39_word_space_7 | gloom ask gather claim truck hollow isolate |  
 | bip_39_word_space_8 | gloom ask gather claim truck hollow isolate rain |  
 | bip_39_word_space_9 | gloom ask gather claim truck hollow isolate rain multiply |  
+| bip_39_word_underscore_1 | gloom |  
+| bip_39_word_underscore_10 | gloom_ask_gather_claim_truck_hollow_isolate_rain_multiply_vacant |  
+| bip_39_word_underscore_11 | gloom_ask_gather_claim_truck_hollow_isolate_rain_multiply_vacant_found |  
+| bip_39_word_underscore_12 | gloom_ask_gather_claim_truck_hollow_isolate_rain_multiply_vacant_found_assist |  
+| bip_39_word_underscore_2 | gloom_ask |  
+| bip_39_word_underscore_3 | gloom_ask_gather |  
+| bip_39_word_underscore_4 | gloom_ask_gather_claim |  
+| bip_39_word_underscore_5 | gloom_ask_gather_claim_truck |  
+| bip_39_word_underscore_6 | gloom_ask_gather_claim_truck_hollow |  
+| bip_39_word_underscore_7 | gloom_ask_gather_claim_truck_hollow_isolate |  
+| bip_39_word_underscore_8 | gloom_ask_gather_claim_truck_hollow_isolate_rain |  
+| bip_39_word_underscore_9 | gloom_ask_gather_claim_truck_hollow_isolate_rain_multiply |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

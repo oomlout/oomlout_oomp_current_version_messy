@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | attitude |  
+| bip_39_word_dash_10 | attitude-admit-opera-design-middle-pass-degree-junk-anxiety-brick |  
+| bip_39_word_dash_11 | attitude-admit-opera-design-middle-pass-degree-junk-anxiety-brick-february |  
+| bip_39_word_dash_12 | attitude-admit-opera-design-middle-pass-degree-junk-anxiety-brick-february-antenna |  
+| bip_39_word_dash_2 | attitude-admit |  
+| bip_39_word_dash_3 | attitude-admit-opera |  
+| bip_39_word_dash_4 | attitude-admit-opera-design |  
+| bip_39_word_dash_5 | attitude-admit-opera-design-middle |  
+| bip_39_word_dash_6 | attitude-admit-opera-design-middle-pass |  
+| bip_39_word_dash_7 | attitude-admit-opera-design-middle-pass-degree |  
+| bip_39_word_dash_8 | attitude-admit-opera-design-middle-pass-degree-junk |  
+| bip_39_word_dash_9 | attitude-admit-opera-design-middle-pass-degree-junk-anxiety |  
 | bip_39_word_new_br_1 | attitude |  
 | bip_39_word_new_br_10 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick |  
 | bip_39_word_new_br_11 | attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick<br>february |  
@@ -147,6 +159,18 @@ anxiety |
 | bip_39_word_space_7 | attitude admit opera design middle pass degree |  
 | bip_39_word_space_8 | attitude admit opera design middle pass degree junk |  
 | bip_39_word_space_9 | attitude admit opera design middle pass degree junk anxiety |  
+| bip_39_word_underscore_1 | attitude |  
+| bip_39_word_underscore_10 | attitude_admit_opera_design_middle_pass_degree_junk_anxiety_brick |  
+| bip_39_word_underscore_11 | attitude_admit_opera_design_middle_pass_degree_junk_anxiety_brick_february |  
+| bip_39_word_underscore_12 | attitude_admit_opera_design_middle_pass_degree_junk_anxiety_brick_february_antenna |  
+| bip_39_word_underscore_2 | attitude_admit |  
+| bip_39_word_underscore_3 | attitude_admit_opera |  
+| bip_39_word_underscore_4 | attitude_admit_opera_design |  
+| bip_39_word_underscore_5 | attitude_admit_opera_design_middle |  
+| bip_39_word_underscore_6 | attitude_admit_opera_design_middle_pass |  
+| bip_39_word_underscore_7 | attitude_admit_opera_design_middle_pass_degree |  
+| bip_39_word_underscore_8 | attitude_admit_opera_design_middle_pass_degree_junk |  
+| bip_39_word_underscore_9 | attitude_admit_opera_design_middle_pass_degree_junk_anxiety |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

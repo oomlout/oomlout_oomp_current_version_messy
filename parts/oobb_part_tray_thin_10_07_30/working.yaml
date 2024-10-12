@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clean
+bip_39_word_dash_10: clean-small-city-video-fire-shell-expect-around-balance-use
+bip_39_word_dash_11: clean-small-city-video-fire-shell-expect-around-balance-use-moment
+bip_39_word_dash_12: clean-small-city-video-fire-shell-expect-around-balance-use-moment-assist
+bip_39_word_dash_2: clean-small
+bip_39_word_dash_3: clean-small-city
+bip_39_word_dash_4: clean-small-city-video
+bip_39_word_dash_5: clean-small-city-video-fire
+bip_39_word_dash_6: clean-small-city-video-fire-shell
+bip_39_word_dash_7: clean-small-city-video-fire-shell-expect
+bip_39_word_dash_8: clean-small-city-video-fire-shell-expect-around
+bip_39_word_dash_9: clean-small-city-video-fire-shell-expect-around-balance
 bip_39_word_new_br_1: clean
 bip_39_word_new_br_10: clean<br>small<br>city<br>video<br>fire<br>shell<br>expect<br>around<br>balance<br>use
 bip_39_word_new_br_11: clean<br>small<br>city<br>video<br>fire<br>shell<br>expect<br>around<br>balance<br>use<br>moment
@@ -193,6 +205,18 @@ bip_39_word_space_6: clean small city video fire shell
 bip_39_word_space_7: clean small city video fire shell expect
 bip_39_word_space_8: clean small city video fire shell expect around
 bip_39_word_space_9: clean small city video fire shell expect around balance
+bip_39_word_underscore_1: clean
+bip_39_word_underscore_10: clean_small_city_video_fire_shell_expect_around_balance_use
+bip_39_word_underscore_11: clean_small_city_video_fire_shell_expect_around_balance_use_moment
+bip_39_word_underscore_12: clean_small_city_video_fire_shell_expect_around_balance_use_moment_assist
+bip_39_word_underscore_2: clean_small
+bip_39_word_underscore_3: clean_small_city
+bip_39_word_underscore_4: clean_small_city_video
+bip_39_word_underscore_5: clean_small_city_video_fire
+bip_39_word_underscore_6: clean_small_city_video_fire_shell
+bip_39_word_underscore_7: clean_small_city_video_fire_shell_expect
+bip_39_word_underscore_8: clean_small_city_video_fire_shell_expect_around
+bip_39_word_underscore_9: clean_small_city_video_fire_shell_expect_around_balance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

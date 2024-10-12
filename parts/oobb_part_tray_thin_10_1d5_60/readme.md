@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shy |  
+| bip_39_word_dash_10 | shy-lottery-insane-clown-attack-leave-usual-dilemma-yellow-casual |  
+| bip_39_word_dash_11 | shy-lottery-insane-clown-attack-leave-usual-dilemma-yellow-casual-quiz |  
+| bip_39_word_dash_12 | shy-lottery-insane-clown-attack-leave-usual-dilemma-yellow-casual-quiz-answer |  
+| bip_39_word_dash_2 | shy-lottery |  
+| bip_39_word_dash_3 | shy-lottery-insane |  
+| bip_39_word_dash_4 | shy-lottery-insane-clown |  
+| bip_39_word_dash_5 | shy-lottery-insane-clown-attack |  
+| bip_39_word_dash_6 | shy-lottery-insane-clown-attack-leave |  
+| bip_39_word_dash_7 | shy-lottery-insane-clown-attack-leave-usual |  
+| bip_39_word_dash_8 | shy-lottery-insane-clown-attack-leave-usual-dilemma |  
+| bip_39_word_dash_9 | shy-lottery-insane-clown-attack-leave-usual-dilemma-yellow |  
 | bip_39_word_new_br_1 | shy |  
 | bip_39_word_new_br_10 | shy<br>lottery<br>insane<br>clown<br>attack<br>leave<br>usual<br>dilemma<br>yellow<br>casual |  
 | bip_39_word_new_br_11 | shy<br>lottery<br>insane<br>clown<br>attack<br>leave<br>usual<br>dilemma<br>yellow<br>casual<br>quiz |  
@@ -147,6 +159,18 @@ yellow |
 | bip_39_word_space_7 | shy lottery insane clown attack leave usual |  
 | bip_39_word_space_8 | shy lottery insane clown attack leave usual dilemma |  
 | bip_39_word_space_9 | shy lottery insane clown attack leave usual dilemma yellow |  
+| bip_39_word_underscore_1 | shy |  
+| bip_39_word_underscore_10 | shy_lottery_insane_clown_attack_leave_usual_dilemma_yellow_casual |  
+| bip_39_word_underscore_11 | shy_lottery_insane_clown_attack_leave_usual_dilemma_yellow_casual_quiz |  
+| bip_39_word_underscore_12 | shy_lottery_insane_clown_attack_leave_usual_dilemma_yellow_casual_quiz_answer |  
+| bip_39_word_underscore_2 | shy_lottery |  
+| bip_39_word_underscore_3 | shy_lottery_insane |  
+| bip_39_word_underscore_4 | shy_lottery_insane_clown |  
+| bip_39_word_underscore_5 | shy_lottery_insane_clown_attack |  
+| bip_39_word_underscore_6 | shy_lottery_insane_clown_attack_leave |  
+| bip_39_word_underscore_7 | shy_lottery_insane_clown_attack_leave_usual |  
+| bip_39_word_underscore_8 | shy_lottery_insane_clown_attack_leave_usual_dilemma |  
+| bip_39_word_underscore_9 | shy_lottery_insane_clown_attack_leave_usual_dilemma_yellow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

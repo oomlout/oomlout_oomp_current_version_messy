@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rhythm |  
+| bip_39_word_dash_10 | rhythm-pulp-eagle-knife-leopard-easy-skull-inject-relax-decorate |  
+| bip_39_word_dash_11 | rhythm-pulp-eagle-knife-leopard-easy-skull-inject-relax-decorate-skate |  
+| bip_39_word_dash_12 | rhythm-pulp-eagle-knife-leopard-easy-skull-inject-relax-decorate-skate-absurd |  
+| bip_39_word_dash_2 | rhythm-pulp |  
+| bip_39_word_dash_3 | rhythm-pulp-eagle |  
+| bip_39_word_dash_4 | rhythm-pulp-eagle-knife |  
+| bip_39_word_dash_5 | rhythm-pulp-eagle-knife-leopard |  
+| bip_39_word_dash_6 | rhythm-pulp-eagle-knife-leopard-easy |  
+| bip_39_word_dash_7 | rhythm-pulp-eagle-knife-leopard-easy-skull |  
+| bip_39_word_dash_8 | rhythm-pulp-eagle-knife-leopard-easy-skull-inject |  
+| bip_39_word_dash_9 | rhythm-pulp-eagle-knife-leopard-easy-skull-inject-relax |  
 | bip_39_word_new_br_1 | rhythm |  
 | bip_39_word_new_br_10 | rhythm<br>pulp<br>eagle<br>knife<br>leopard<br>easy<br>skull<br>inject<br>relax<br>decorate |  
 | bip_39_word_new_br_11 | rhythm<br>pulp<br>eagle<br>knife<br>leopard<br>easy<br>skull<br>inject<br>relax<br>decorate<br>skate |  
@@ -147,6 +159,18 @@ relax |
 | bip_39_word_space_7 | rhythm pulp eagle knife leopard easy skull |  
 | bip_39_word_space_8 | rhythm pulp eagle knife leopard easy skull inject |  
 | bip_39_word_space_9 | rhythm pulp eagle knife leopard easy skull inject relax |  
+| bip_39_word_underscore_1 | rhythm |  
+| bip_39_word_underscore_10 | rhythm_pulp_eagle_knife_leopard_easy_skull_inject_relax_decorate |  
+| bip_39_word_underscore_11 | rhythm_pulp_eagle_knife_leopard_easy_skull_inject_relax_decorate_skate |  
+| bip_39_word_underscore_12 | rhythm_pulp_eagle_knife_leopard_easy_skull_inject_relax_decorate_skate_absurd |  
+| bip_39_word_underscore_2 | rhythm_pulp |  
+| bip_39_word_underscore_3 | rhythm_pulp_eagle |  
+| bip_39_word_underscore_4 | rhythm_pulp_eagle_knife |  
+| bip_39_word_underscore_5 | rhythm_pulp_eagle_knife_leopard |  
+| bip_39_word_underscore_6 | rhythm_pulp_eagle_knife_leopard_easy |  
+| bip_39_word_underscore_7 | rhythm_pulp_eagle_knife_leopard_easy_skull |  
+| bip_39_word_underscore_8 | rhythm_pulp_eagle_knife_leopard_easy_skull_inject |  
+| bip_39_word_underscore_9 | rhythm_pulp_eagle_knife_leopard_easy_skull_inject_relax |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wrong |  
+| bip_39_word_dash_10 | wrong-length-stairs-chef-walk-youth-net-endorse-deny-hip |  
+| bip_39_word_dash_11 | wrong-length-stairs-chef-walk-youth-net-endorse-deny-hip-health |  
+| bip_39_word_dash_12 | wrong-length-stairs-chef-walk-youth-net-endorse-deny-hip-health-artwork |  
+| bip_39_word_dash_2 | wrong-length |  
+| bip_39_word_dash_3 | wrong-length-stairs |  
+| bip_39_word_dash_4 | wrong-length-stairs-chef |  
+| bip_39_word_dash_5 | wrong-length-stairs-chef-walk |  
+| bip_39_word_dash_6 | wrong-length-stairs-chef-walk-youth |  
+| bip_39_word_dash_7 | wrong-length-stairs-chef-walk-youth-net |  
+| bip_39_word_dash_8 | wrong-length-stairs-chef-walk-youth-net-endorse |  
+| bip_39_word_dash_9 | wrong-length-stairs-chef-walk-youth-net-endorse-deny |  
 | bip_39_word_new_br_1 | wrong |  
 | bip_39_word_new_br_10 | wrong<br>length<br>stairs<br>chef<br>walk<br>youth<br>net<br>endorse<br>deny<br>hip |  
 | bip_39_word_new_br_11 | wrong<br>length<br>stairs<br>chef<br>walk<br>youth<br>net<br>endorse<br>deny<br>hip<br>health |  
@@ -147,6 +159,18 @@ deny |
 | bip_39_word_space_7 | wrong length stairs chef walk youth net |  
 | bip_39_word_space_8 | wrong length stairs chef walk youth net endorse |  
 | bip_39_word_space_9 | wrong length stairs chef walk youth net endorse deny |  
+| bip_39_word_underscore_1 | wrong |  
+| bip_39_word_underscore_10 | wrong_length_stairs_chef_walk_youth_net_endorse_deny_hip |  
+| bip_39_word_underscore_11 | wrong_length_stairs_chef_walk_youth_net_endorse_deny_hip_health |  
+| bip_39_word_underscore_12 | wrong_length_stairs_chef_walk_youth_net_endorse_deny_hip_health_artwork |  
+| bip_39_word_underscore_2 | wrong_length |  
+| bip_39_word_underscore_3 | wrong_length_stairs |  
+| bip_39_word_underscore_4 | wrong_length_stairs_chef |  
+| bip_39_word_underscore_5 | wrong_length_stairs_chef_walk |  
+| bip_39_word_underscore_6 | wrong_length_stairs_chef_walk_youth |  
+| bip_39_word_underscore_7 | wrong_length_stairs_chef_walk_youth_net |  
+| bip_39_word_underscore_8 | wrong_length_stairs_chef_walk_youth_net_endorse |  
+| bip_39_word_underscore_9 | wrong_length_stairs_chef_walk_youth_net_endorse_deny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

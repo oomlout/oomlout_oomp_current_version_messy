@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grief
+bip_39_word_dash_10: grief-banner-sound-moment-person-toward-ugly-abstract-else-hope
+bip_39_word_dash_11: grief-banner-sound-moment-person-toward-ugly-abstract-else-hope-always
+bip_39_word_dash_12: grief-banner-sound-moment-person-toward-ugly-abstract-else-hope-always-audit
+bip_39_word_dash_2: grief-banner
+bip_39_word_dash_3: grief-banner-sound
+bip_39_word_dash_4: grief-banner-sound-moment
+bip_39_word_dash_5: grief-banner-sound-moment-person
+bip_39_word_dash_6: grief-banner-sound-moment-person-toward
+bip_39_word_dash_7: grief-banner-sound-moment-person-toward-ugly
+bip_39_word_dash_8: grief-banner-sound-moment-person-toward-ugly-abstract
+bip_39_word_dash_9: grief-banner-sound-moment-person-toward-ugly-abstract-else
 bip_39_word_new_br_1: grief
 bip_39_word_new_br_10: grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract<br>else<br>hope
 bip_39_word_new_br_11: grief<br>banner<br>sound<br>moment<br>person<br>toward<br>ugly<br>abstract<br>else<br>hope<br>always
@@ -193,6 +205,18 @@ bip_39_word_space_6: grief banner sound moment person toward
 bip_39_word_space_7: grief banner sound moment person toward ugly
 bip_39_word_space_8: grief banner sound moment person toward ugly abstract
 bip_39_word_space_9: grief banner sound moment person toward ugly abstract else
+bip_39_word_underscore_1: grief
+bip_39_word_underscore_10: grief_banner_sound_moment_person_toward_ugly_abstract_else_hope
+bip_39_word_underscore_11: grief_banner_sound_moment_person_toward_ugly_abstract_else_hope_always
+bip_39_word_underscore_12: grief_banner_sound_moment_person_toward_ugly_abstract_else_hope_always_audit
+bip_39_word_underscore_2: grief_banner
+bip_39_word_underscore_3: grief_banner_sound
+bip_39_word_underscore_4: grief_banner_sound_moment
+bip_39_word_underscore_5: grief_banner_sound_moment_person
+bip_39_word_underscore_6: grief_banner_sound_moment_person_toward
+bip_39_word_underscore_7: grief_banner_sound_moment_person_toward_ugly
+bip_39_word_underscore_8: grief_banner_sound_moment_person_toward_ugly_abstract
+bip_39_word_underscore_9: grief_banner_sound_moment_person_toward_ugly_abstract_else
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

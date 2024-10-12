@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glance |  
+| bip_39_word_dash_10 | glance-escape-live-fury-gap-giant-misery-kiss-kite-alley |  
+| bip_39_word_dash_11 | glance-escape-live-fury-gap-giant-misery-kiss-kite-alley-metal |  
+| bip_39_word_dash_12 | glance-escape-live-fury-gap-giant-misery-kiss-kite-alley-metal-aim |  
+| bip_39_word_dash_2 | glance-escape |  
+| bip_39_word_dash_3 | glance-escape-live |  
+| bip_39_word_dash_4 | glance-escape-live-fury |  
+| bip_39_word_dash_5 | glance-escape-live-fury-gap |  
+| bip_39_word_dash_6 | glance-escape-live-fury-gap-giant |  
+| bip_39_word_dash_7 | glance-escape-live-fury-gap-giant-misery |  
+| bip_39_word_dash_8 | glance-escape-live-fury-gap-giant-misery-kiss |  
+| bip_39_word_dash_9 | glance-escape-live-fury-gap-giant-misery-kiss-kite |  
 | bip_39_word_new_br_1 | glance |  
 | bip_39_word_new_br_10 | glance<br>escape<br>live<br>fury<br>gap<br>giant<br>misery<br>kiss<br>kite<br>alley |  
 | bip_39_word_new_br_11 | glance<br>escape<br>live<br>fury<br>gap<br>giant<br>misery<br>kiss<br>kite<br>alley<br>metal |  
@@ -147,6 +159,18 @@ kite |
 | bip_39_word_space_7 | glance escape live fury gap giant misery |  
 | bip_39_word_space_8 | glance escape live fury gap giant misery kiss |  
 | bip_39_word_space_9 | glance escape live fury gap giant misery kiss kite |  
+| bip_39_word_underscore_1 | glance |  
+| bip_39_word_underscore_10 | glance_escape_live_fury_gap_giant_misery_kiss_kite_alley |  
+| bip_39_word_underscore_11 | glance_escape_live_fury_gap_giant_misery_kiss_kite_alley_metal |  
+| bip_39_word_underscore_12 | glance_escape_live_fury_gap_giant_misery_kiss_kite_alley_metal_aim |  
+| bip_39_word_underscore_2 | glance_escape |  
+| bip_39_word_underscore_3 | glance_escape_live |  
+| bip_39_word_underscore_4 | glance_escape_live_fury |  
+| bip_39_word_underscore_5 | glance_escape_live_fury_gap |  
+| bip_39_word_underscore_6 | glance_escape_live_fury_gap_giant |  
+| bip_39_word_underscore_7 | glance_escape_live_fury_gap_giant_misery |  
+| bip_39_word_underscore_8 | glance_escape_live_fury_gap_giant_misery_kiss |  
+| bip_39_word_underscore_9 | glance_escape_live_fury_gap_giant_misery_kiss_kite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

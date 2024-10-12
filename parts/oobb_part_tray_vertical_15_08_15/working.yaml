@@ -1,3 +1,15 @@
+bip_39_word_dash_1: silk
+bip_39_word_dash_10: silk-solve-film-refuse-share-expose-extend-mobile-glue-action
+bip_39_word_dash_11: silk-solve-film-refuse-share-expose-extend-mobile-glue-action-bottom
+bip_39_word_dash_12: silk-solve-film-refuse-share-expose-extend-mobile-glue-action-bottom-alter
+bip_39_word_dash_2: silk-solve
+bip_39_word_dash_3: silk-solve-film
+bip_39_word_dash_4: silk-solve-film-refuse
+bip_39_word_dash_5: silk-solve-film-refuse-share
+bip_39_word_dash_6: silk-solve-film-refuse-share-expose
+bip_39_word_dash_7: silk-solve-film-refuse-share-expose-extend
+bip_39_word_dash_8: silk-solve-film-refuse-share-expose-extend-mobile
+bip_39_word_dash_9: silk-solve-film-refuse-share-expose-extend-mobile-glue
 bip_39_word_new_br_1: silk
 bip_39_word_new_br_10: silk<br>solve<br>film<br>refuse<br>share<br>expose<br>extend<br>mobile<br>glue<br>action
 bip_39_word_new_br_11: silk<br>solve<br>film<br>refuse<br>share<br>expose<br>extend<br>mobile<br>glue<br>action<br>bottom
@@ -193,6 +205,18 @@ bip_39_word_space_6: silk solve film refuse share expose
 bip_39_word_space_7: silk solve film refuse share expose extend
 bip_39_word_space_8: silk solve film refuse share expose extend mobile
 bip_39_word_space_9: silk solve film refuse share expose extend mobile glue
+bip_39_word_underscore_1: silk
+bip_39_word_underscore_10: silk_solve_film_refuse_share_expose_extend_mobile_glue_action
+bip_39_word_underscore_11: silk_solve_film_refuse_share_expose_extend_mobile_glue_action_bottom
+bip_39_word_underscore_12: silk_solve_film_refuse_share_expose_extend_mobile_glue_action_bottom_alter
+bip_39_word_underscore_2: silk_solve
+bip_39_word_underscore_3: silk_solve_film
+bip_39_word_underscore_4: silk_solve_film_refuse
+bip_39_word_underscore_5: silk_solve_film_refuse_share
+bip_39_word_underscore_6: silk_solve_film_refuse_share_expose
+bip_39_word_underscore_7: silk_solve_film_refuse_share_expose_extend
+bip_39_word_underscore_8: silk_solve_film_refuse_share_expose_extend_mobile
+bip_39_word_underscore_9: silk_solve_film_refuse_share_expose_extend_mobile_glue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

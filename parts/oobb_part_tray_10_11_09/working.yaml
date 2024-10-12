@@ -1,3 +1,15 @@
+bip_39_word_dash_1: extra
+bip_39_word_dash_10: extra-easy-acoustic-grace-enable-candy-garment-perfect-ball-alien
+bip_39_word_dash_11: extra-easy-acoustic-grace-enable-candy-garment-perfect-ball-alien-cannon
+bip_39_word_dash_12: extra-easy-acoustic-grace-enable-candy-garment-perfect-ball-alien-cannon-assist
+bip_39_word_dash_2: extra-easy
+bip_39_word_dash_3: extra-easy-acoustic
+bip_39_word_dash_4: extra-easy-acoustic-grace
+bip_39_word_dash_5: extra-easy-acoustic-grace-enable
+bip_39_word_dash_6: extra-easy-acoustic-grace-enable-candy
+bip_39_word_dash_7: extra-easy-acoustic-grace-enable-candy-garment
+bip_39_word_dash_8: extra-easy-acoustic-grace-enable-candy-garment-perfect
+bip_39_word_dash_9: extra-easy-acoustic-grace-enable-candy-garment-perfect-ball
 bip_39_word_new_br_1: extra
 bip_39_word_new_br_10: extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien
 bip_39_word_new_br_11: extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien<br>cannon
@@ -194,6 +206,18 @@ bip_39_word_space_6: extra easy acoustic grace enable candy
 bip_39_word_space_7: extra easy acoustic grace enable candy garment
 bip_39_word_space_8: extra easy acoustic grace enable candy garment perfect
 bip_39_word_space_9: extra easy acoustic grace enable candy garment perfect ball
+bip_39_word_underscore_1: extra
+bip_39_word_underscore_10: extra_easy_acoustic_grace_enable_candy_garment_perfect_ball_alien
+bip_39_word_underscore_11: extra_easy_acoustic_grace_enable_candy_garment_perfect_ball_alien_cannon
+bip_39_word_underscore_12: extra_easy_acoustic_grace_enable_candy_garment_perfect_ball_alien_cannon_assist
+bip_39_word_underscore_2: extra_easy
+bip_39_word_underscore_3: extra_easy_acoustic
+bip_39_word_underscore_4: extra_easy_acoustic_grace
+bip_39_word_underscore_5: extra_easy_acoustic_grace_enable
+bip_39_word_underscore_6: extra_easy_acoustic_grace_enable_candy
+bip_39_word_underscore_7: extra_easy_acoustic_grace_enable_candy_garment
+bip_39_word_underscore_8: extra_easy_acoustic_grace_enable_candy_garment_perfect
+bip_39_word_underscore_9: extra_easy_acoustic_grace_enable_candy_garment_perfect_ball
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

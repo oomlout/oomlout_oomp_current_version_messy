@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | old |  
+| bip_39_word_dash_10 | old-toss-axis-hub-scan-prize-obey-pottery-cable-indicate |  
+| bip_39_word_dash_11 | old-toss-axis-hub-scan-prize-obey-pottery-cable-indicate-jewel |  
+| bip_39_word_dash_12 | old-toss-axis-hub-scan-prize-obey-pottery-cable-indicate-jewel-assist |  
+| bip_39_word_dash_2 | old-toss |  
+| bip_39_word_dash_3 | old-toss-axis |  
+| bip_39_word_dash_4 | old-toss-axis-hub |  
+| bip_39_word_dash_5 | old-toss-axis-hub-scan |  
+| bip_39_word_dash_6 | old-toss-axis-hub-scan-prize |  
+| bip_39_word_dash_7 | old-toss-axis-hub-scan-prize-obey |  
+| bip_39_word_dash_8 | old-toss-axis-hub-scan-prize-obey-pottery |  
+| bip_39_word_dash_9 | old-toss-axis-hub-scan-prize-obey-pottery-cable |  
 | bip_39_word_new_br_1 | old |  
 | bip_39_word_new_br_10 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate |  
 | bip_39_word_new_br_11 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate<br>jewel |  
@@ -147,6 +159,18 @@ cable |
 | bip_39_word_space_7 | old toss axis hub scan prize obey |  
 | bip_39_word_space_8 | old toss axis hub scan prize obey pottery |  
 | bip_39_word_space_9 | old toss axis hub scan prize obey pottery cable |  
+| bip_39_word_underscore_1 | old |  
+| bip_39_word_underscore_10 | old_toss_axis_hub_scan_prize_obey_pottery_cable_indicate |  
+| bip_39_word_underscore_11 | old_toss_axis_hub_scan_prize_obey_pottery_cable_indicate_jewel |  
+| bip_39_word_underscore_12 | old_toss_axis_hub_scan_prize_obey_pottery_cable_indicate_jewel_assist |  
+| bip_39_word_underscore_2 | old_toss |  
+| bip_39_word_underscore_3 | old_toss_axis |  
+| bip_39_word_underscore_4 | old_toss_axis_hub |  
+| bip_39_word_underscore_5 | old_toss_axis_hub_scan |  
+| bip_39_word_underscore_6 | old_toss_axis_hub_scan_prize |  
+| bip_39_word_underscore_7 | old_toss_axis_hub_scan_prize_obey |  
+| bip_39_word_underscore_8 | old_toss_axis_hub_scan_prize_obey_pottery |  
+| bip_39_word_underscore_9 | old_toss_axis_hub_scan_prize_obey_pottery_cable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

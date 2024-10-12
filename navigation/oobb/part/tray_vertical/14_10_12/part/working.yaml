@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lonely
+bip_39_word_dash_10: lonely-motion-trial-blade-hawk-chef-vault-animal-upset-around
+bip_39_word_dash_11: lonely-motion-trial-blade-hawk-chef-vault-animal-upset-around-inquiry
+bip_39_word_dash_12: lonely-motion-trial-blade-hawk-chef-vault-animal-upset-around-inquiry-account
+bip_39_word_dash_2: lonely-motion
+bip_39_word_dash_3: lonely-motion-trial
+bip_39_word_dash_4: lonely-motion-trial-blade
+bip_39_word_dash_5: lonely-motion-trial-blade-hawk
+bip_39_word_dash_6: lonely-motion-trial-blade-hawk-chef
+bip_39_word_dash_7: lonely-motion-trial-blade-hawk-chef-vault
+bip_39_word_dash_8: lonely-motion-trial-blade-hawk-chef-vault-animal
+bip_39_word_dash_9: lonely-motion-trial-blade-hawk-chef-vault-animal-upset
 bip_39_word_new_br_1: lonely
 bip_39_word_new_br_10: lonely<br>motion<br>trial<br>blade<br>hawk<br>chef<br>vault<br>animal<br>upset<br>around
 bip_39_word_new_br_11: lonely<br>motion<br>trial<br>blade<br>hawk<br>chef<br>vault<br>animal<br>upset<br>around<br>inquiry
@@ -193,6 +205,18 @@ bip_39_word_space_6: lonely motion trial blade hawk chef
 bip_39_word_space_7: lonely motion trial blade hawk chef vault
 bip_39_word_space_8: lonely motion trial blade hawk chef vault animal
 bip_39_word_space_9: lonely motion trial blade hawk chef vault animal upset
+bip_39_word_underscore_1: lonely
+bip_39_word_underscore_10: lonely_motion_trial_blade_hawk_chef_vault_animal_upset_around
+bip_39_word_underscore_11: lonely_motion_trial_blade_hawk_chef_vault_animal_upset_around_inquiry
+bip_39_word_underscore_12: lonely_motion_trial_blade_hawk_chef_vault_animal_upset_around_inquiry_account
+bip_39_word_underscore_2: lonely_motion
+bip_39_word_underscore_3: lonely_motion_trial
+bip_39_word_underscore_4: lonely_motion_trial_blade
+bip_39_word_underscore_5: lonely_motion_trial_blade_hawk
+bip_39_word_underscore_6: lonely_motion_trial_blade_hawk_chef
+bip_39_word_underscore_7: lonely_motion_trial_blade_hawk_chef_vault
+bip_39_word_underscore_8: lonely_motion_trial_blade_hawk_chef_vault_animal
+bip_39_word_underscore_9: lonely_motion_trial_blade_hawk_chef_vault_animal_upset
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

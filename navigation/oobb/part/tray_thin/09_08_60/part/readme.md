@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | feel |  
+| bip_39_word_dash_10 | feel-lunar-share-milk-clarify-shy-infant-story-axis-wear |  
+| bip_39_word_dash_11 | feel-lunar-share-milk-clarify-shy-infant-story-axis-wear-street |  
+| bip_39_word_dash_12 | feel-lunar-share-milk-clarify-shy-infant-story-axis-wear-street-attract |  
+| bip_39_word_dash_2 | feel-lunar |  
+| bip_39_word_dash_3 | feel-lunar-share |  
+| bip_39_word_dash_4 | feel-lunar-share-milk |  
+| bip_39_word_dash_5 | feel-lunar-share-milk-clarify |  
+| bip_39_word_dash_6 | feel-lunar-share-milk-clarify-shy |  
+| bip_39_word_dash_7 | feel-lunar-share-milk-clarify-shy-infant |  
+| bip_39_word_dash_8 | feel-lunar-share-milk-clarify-shy-infant-story |  
+| bip_39_word_dash_9 | feel-lunar-share-milk-clarify-shy-infant-story-axis |  
 | bip_39_word_new_br_1 | feel |  
 | bip_39_word_new_br_10 | feel<br>lunar<br>share<br>milk<br>clarify<br>shy<br>infant<br>story<br>axis<br>wear |  
 | bip_39_word_new_br_11 | feel<br>lunar<br>share<br>milk<br>clarify<br>shy<br>infant<br>story<br>axis<br>wear<br>street |  
@@ -147,6 +159,18 @@ axis |
 | bip_39_word_space_7 | feel lunar share milk clarify shy infant |  
 | bip_39_word_space_8 | feel lunar share milk clarify shy infant story |  
 | bip_39_word_space_9 | feel lunar share milk clarify shy infant story axis |  
+| bip_39_word_underscore_1 | feel |  
+| bip_39_word_underscore_10 | feel_lunar_share_milk_clarify_shy_infant_story_axis_wear |  
+| bip_39_word_underscore_11 | feel_lunar_share_milk_clarify_shy_infant_story_axis_wear_street |  
+| bip_39_word_underscore_12 | feel_lunar_share_milk_clarify_shy_infant_story_axis_wear_street_attract |  
+| bip_39_word_underscore_2 | feel_lunar |  
+| bip_39_word_underscore_3 | feel_lunar_share |  
+| bip_39_word_underscore_4 | feel_lunar_share_milk |  
+| bip_39_word_underscore_5 | feel_lunar_share_milk_clarify |  
+| bip_39_word_underscore_6 | feel_lunar_share_milk_clarify_shy |  
+| bip_39_word_underscore_7 | feel_lunar_share_milk_clarify_shy_infant |  
+| bip_39_word_underscore_8 | feel_lunar_share_milk_clarify_shy_infant_story |  
+| bip_39_word_underscore_9 | feel_lunar_share_milk_clarify_shy_infant_story_axis |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

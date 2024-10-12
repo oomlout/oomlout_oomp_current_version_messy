@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mouse
+bip_39_word_dash_10: mouse-quit-slim-before-describe-seminar-exchange-seat-stamp-wheel
+bip_39_word_dash_11: mouse-quit-slim-before-describe-seminar-exchange-seat-stamp-wheel-neither
+bip_39_word_dash_12: mouse-quit-slim-before-describe-seminar-exchange-seat-stamp-wheel-neither-argue
+bip_39_word_dash_2: mouse-quit
+bip_39_word_dash_3: mouse-quit-slim
+bip_39_word_dash_4: mouse-quit-slim-before
+bip_39_word_dash_5: mouse-quit-slim-before-describe
+bip_39_word_dash_6: mouse-quit-slim-before-describe-seminar
+bip_39_word_dash_7: mouse-quit-slim-before-describe-seminar-exchange
+bip_39_word_dash_8: mouse-quit-slim-before-describe-seminar-exchange-seat
+bip_39_word_dash_9: mouse-quit-slim-before-describe-seminar-exchange-seat-stamp
 bip_39_word_new_br_1: mouse
 bip_39_word_new_br_10: mouse<br>quit<br>slim<br>before<br>describe<br>seminar<br>exchange<br>seat<br>stamp<br>wheel
 bip_39_word_new_br_11: mouse<br>quit<br>slim<br>before<br>describe<br>seminar<br>exchange<br>seat<br>stamp<br>wheel<br>neither
@@ -194,6 +206,18 @@ bip_39_word_space_6: mouse quit slim before describe seminar
 bip_39_word_space_7: mouse quit slim before describe seminar exchange
 bip_39_word_space_8: mouse quit slim before describe seminar exchange seat
 bip_39_word_space_9: mouse quit slim before describe seminar exchange seat stamp
+bip_39_word_underscore_1: mouse
+bip_39_word_underscore_10: mouse_quit_slim_before_describe_seminar_exchange_seat_stamp_wheel
+bip_39_word_underscore_11: mouse_quit_slim_before_describe_seminar_exchange_seat_stamp_wheel_neither
+bip_39_word_underscore_12: mouse_quit_slim_before_describe_seminar_exchange_seat_stamp_wheel_neither_argue
+bip_39_word_underscore_2: mouse_quit
+bip_39_word_underscore_3: mouse_quit_slim
+bip_39_word_underscore_4: mouse_quit_slim_before
+bip_39_word_underscore_5: mouse_quit_slim_before_describe
+bip_39_word_underscore_6: mouse_quit_slim_before_describe_seminar
+bip_39_word_underscore_7: mouse_quit_slim_before_describe_seminar_exchange
+bip_39_word_underscore_8: mouse_quit_slim_before_describe_seminar_exchange_seat
+bip_39_word_underscore_9: mouse_quit_slim_before_describe_seminar_exchange_seat_stamp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

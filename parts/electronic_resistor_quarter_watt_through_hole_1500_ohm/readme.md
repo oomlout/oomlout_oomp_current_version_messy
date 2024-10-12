@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | add |  
+| bip_39_word_dash_10 | add-canvas-call-tiny-govern-slab-half-kid-inject-weasel |  
+| bip_39_word_dash_11 | add-canvas-call-tiny-govern-slab-half-kid-inject-weasel-convince |  
+| bip_39_word_dash_12 | add-canvas-call-tiny-govern-slab-half-kid-inject-weasel-convince-artefact |  
+| bip_39_word_dash_2 | add-canvas |  
+| bip_39_word_dash_3 | add-canvas-call |  
+| bip_39_word_dash_4 | add-canvas-call-tiny |  
+| bip_39_word_dash_5 | add-canvas-call-tiny-govern |  
+| bip_39_word_dash_6 | add-canvas-call-tiny-govern-slab |  
+| bip_39_word_dash_7 | add-canvas-call-tiny-govern-slab-half |  
+| bip_39_word_dash_8 | add-canvas-call-tiny-govern-slab-half-kid |  
+| bip_39_word_dash_9 | add-canvas-call-tiny-govern-slab-half-kid-inject |  
 | bip_39_word_new_br_1 | add |  
 | bip_39_word_new_br_10 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid<br>inject<br>weasel |  
 | bip_39_word_new_br_11 | add<br>canvas<br>call<br>tiny<br>govern<br>slab<br>half<br>kid<br>inject<br>weasel<br>convince |  
@@ -147,6 +159,18 @@ inject |
 | bip_39_word_space_7 | add canvas call tiny govern slab half |  
 | bip_39_word_space_8 | add canvas call tiny govern slab half kid |  
 | bip_39_word_space_9 | add canvas call tiny govern slab half kid inject |  
+| bip_39_word_underscore_1 | add |  
+| bip_39_word_underscore_10 | add_canvas_call_tiny_govern_slab_half_kid_inject_weasel |  
+| bip_39_word_underscore_11 | add_canvas_call_tiny_govern_slab_half_kid_inject_weasel_convince |  
+| bip_39_word_underscore_12 | add_canvas_call_tiny_govern_slab_half_kid_inject_weasel_convince_artefact |  
+| bip_39_word_underscore_2 | add_canvas |  
+| bip_39_word_underscore_3 | add_canvas_call |  
+| bip_39_word_underscore_4 | add_canvas_call_tiny |  
+| bip_39_word_underscore_5 | add_canvas_call_tiny_govern |  
+| bip_39_word_underscore_6 | add_canvas_call_tiny_govern_slab |  
+| bip_39_word_underscore_7 | add_canvas_call_tiny_govern_slab_half |  
+| bip_39_word_underscore_8 | add_canvas_call_tiny_govern_slab_half_kid |  
+| bip_39_word_underscore_9 | add_canvas_call_tiny_govern_slab_half_kid_inject |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dish
+bip_39_word_dash_10: dish-slim-ritual-reveal-library-blame-theme-extra-puppy-city
+bip_39_word_dash_11: dish-slim-ritual-reveal-library-blame-theme-extra-puppy-city-engine
+bip_39_word_dash_12: dish-slim-ritual-reveal-library-blame-theme-extra-puppy-city-engine-auto
+bip_39_word_dash_2: dish-slim
+bip_39_word_dash_3: dish-slim-ritual
+bip_39_word_dash_4: dish-slim-ritual-reveal
+bip_39_word_dash_5: dish-slim-ritual-reveal-library
+bip_39_word_dash_6: dish-slim-ritual-reveal-library-blame
+bip_39_word_dash_7: dish-slim-ritual-reveal-library-blame-theme
+bip_39_word_dash_8: dish-slim-ritual-reveal-library-blame-theme-extra
+bip_39_word_dash_9: dish-slim-ritual-reveal-library-blame-theme-extra-puppy
 bip_39_word_new_br_1: dish
 bip_39_word_new_br_10: dish<br>slim<br>ritual<br>reveal<br>library<br>blame<br>theme<br>extra<br>puppy<br>city
 bip_39_word_new_br_11: dish<br>slim<br>ritual<br>reveal<br>library<br>blame<br>theme<br>extra<br>puppy<br>city<br>engine
@@ -193,6 +205,18 @@ bip_39_word_space_6: dish slim ritual reveal library blame
 bip_39_word_space_7: dish slim ritual reveal library blame theme
 bip_39_word_space_8: dish slim ritual reveal library blame theme extra
 bip_39_word_space_9: dish slim ritual reveal library blame theme extra puppy
+bip_39_word_underscore_1: dish
+bip_39_word_underscore_10: dish_slim_ritual_reveal_library_blame_theme_extra_puppy_city
+bip_39_word_underscore_11: dish_slim_ritual_reveal_library_blame_theme_extra_puppy_city_engine
+bip_39_word_underscore_12: dish_slim_ritual_reveal_library_blame_theme_extra_puppy_city_engine_auto
+bip_39_word_underscore_2: dish_slim
+bip_39_word_underscore_3: dish_slim_ritual
+bip_39_word_underscore_4: dish_slim_ritual_reveal
+bip_39_word_underscore_5: dish_slim_ritual_reveal_library
+bip_39_word_underscore_6: dish_slim_ritual_reveal_library_blame
+bip_39_word_underscore_7: dish_slim_ritual_reveal_library_blame_theme
+bip_39_word_underscore_8: dish_slim_ritual_reveal_library_blame_theme_extra
+bip_39_word_underscore_9: dish_slim_ritual_reveal_library_blame_theme_extra_puppy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

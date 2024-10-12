@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glad |  
+| bip_39_word_dash_10 | glad-argue-ankle-credit-rapid-mandate-tennis-novel-syrup-uncover |  
+| bip_39_word_dash_11 | glad-argue-ankle-credit-rapid-mandate-tennis-novel-syrup-uncover-prison |  
+| bip_39_word_dash_12 | glad-argue-ankle-credit-rapid-mandate-tennis-novel-syrup-uncover-prison-appear |  
+| bip_39_word_dash_2 | glad-argue |  
+| bip_39_word_dash_3 | glad-argue-ankle |  
+| bip_39_word_dash_4 | glad-argue-ankle-credit |  
+| bip_39_word_dash_5 | glad-argue-ankle-credit-rapid |  
+| bip_39_word_dash_6 | glad-argue-ankle-credit-rapid-mandate |  
+| bip_39_word_dash_7 | glad-argue-ankle-credit-rapid-mandate-tennis |  
+| bip_39_word_dash_8 | glad-argue-ankle-credit-rapid-mandate-tennis-novel |  
+| bip_39_word_dash_9 | glad-argue-ankle-credit-rapid-mandate-tennis-novel-syrup |  
 | bip_39_word_new_br_1 | glad |  
 | bip_39_word_new_br_10 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel<br>syrup<br>uncover |  
 | bip_39_word_new_br_11 | glad<br>argue<br>ankle<br>credit<br>rapid<br>mandate<br>tennis<br>novel<br>syrup<br>uncover<br>prison |  
@@ -147,6 +159,18 @@ syrup |
 | bip_39_word_space_7 | glad argue ankle credit rapid mandate tennis |  
 | bip_39_word_space_8 | glad argue ankle credit rapid mandate tennis novel |  
 | bip_39_word_space_9 | glad argue ankle credit rapid mandate tennis novel syrup |  
+| bip_39_word_underscore_1 | glad |  
+| bip_39_word_underscore_10 | glad_argue_ankle_credit_rapid_mandate_tennis_novel_syrup_uncover |  
+| bip_39_word_underscore_11 | glad_argue_ankle_credit_rapid_mandate_tennis_novel_syrup_uncover_prison |  
+| bip_39_word_underscore_12 | glad_argue_ankle_credit_rapid_mandate_tennis_novel_syrup_uncover_prison_appear |  
+| bip_39_word_underscore_2 | glad_argue |  
+| bip_39_word_underscore_3 | glad_argue_ankle |  
+| bip_39_word_underscore_4 | glad_argue_ankle_credit |  
+| bip_39_word_underscore_5 | glad_argue_ankle_credit_rapid |  
+| bip_39_word_underscore_6 | glad_argue_ankle_credit_rapid_mandate |  
+| bip_39_word_underscore_7 | glad_argue_ankle_credit_rapid_mandate_tennis |  
+| bip_39_word_underscore_8 | glad_argue_ankle_credit_rapid_mandate_tennis_novel |  
+| bip_39_word_underscore_9 | glad_argue_ankle_credit_rapid_mandate_tennis_novel_syrup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

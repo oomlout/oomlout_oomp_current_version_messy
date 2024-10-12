@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oppose |  
+| bip_39_word_dash_10 | oppose-spider-equip-point-reform-soft-hungry-box-sign-future |  
+| bip_39_word_dash_11 | oppose-spider-equip-point-reform-soft-hungry-box-sign-future-fall |  
+| bip_39_word_dash_12 | oppose-spider-equip-point-reform-soft-hungry-box-sign-future-fall-ahead |  
+| bip_39_word_dash_2 | oppose-spider |  
+| bip_39_word_dash_3 | oppose-spider-equip |  
+| bip_39_word_dash_4 | oppose-spider-equip-point |  
+| bip_39_word_dash_5 | oppose-spider-equip-point-reform |  
+| bip_39_word_dash_6 | oppose-spider-equip-point-reform-soft |  
+| bip_39_word_dash_7 | oppose-spider-equip-point-reform-soft-hungry |  
+| bip_39_word_dash_8 | oppose-spider-equip-point-reform-soft-hungry-box |  
+| bip_39_word_dash_9 | oppose-spider-equip-point-reform-soft-hungry-box-sign |  
 | bip_39_word_new_br_1 | oppose |  
 | bip_39_word_new_br_10 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box<br>sign<br>future |  
 | bip_39_word_new_br_11 | oppose<br>spider<br>equip<br>point<br>reform<br>soft<br>hungry<br>box<br>sign<br>future<br>fall |  
@@ -147,6 +159,18 @@ sign |
 | bip_39_word_space_7 | oppose spider equip point reform soft hungry |  
 | bip_39_word_space_8 | oppose spider equip point reform soft hungry box |  
 | bip_39_word_space_9 | oppose spider equip point reform soft hungry box sign |  
+| bip_39_word_underscore_1 | oppose |  
+| bip_39_word_underscore_10 | oppose_spider_equip_point_reform_soft_hungry_box_sign_future |  
+| bip_39_word_underscore_11 | oppose_spider_equip_point_reform_soft_hungry_box_sign_future_fall |  
+| bip_39_word_underscore_12 | oppose_spider_equip_point_reform_soft_hungry_box_sign_future_fall_ahead |  
+| bip_39_word_underscore_2 | oppose_spider |  
+| bip_39_word_underscore_3 | oppose_spider_equip |  
+| bip_39_word_underscore_4 | oppose_spider_equip_point |  
+| bip_39_word_underscore_5 | oppose_spider_equip_point_reform |  
+| bip_39_word_underscore_6 | oppose_spider_equip_point_reform_soft |  
+| bip_39_word_underscore_7 | oppose_spider_equip_point_reform_soft_hungry |  
+| bip_39_word_underscore_8 | oppose_spider_equip_point_reform_soft_hungry_box |  
+| bip_39_word_underscore_9 | oppose_spider_equip_point_reform_soft_hungry_box_sign |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

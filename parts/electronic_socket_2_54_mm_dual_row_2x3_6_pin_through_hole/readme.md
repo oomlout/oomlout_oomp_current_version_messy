@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | round |  
+| bip_39_word_dash_10 | round-mimic-seminar-deal-prison-old-erase-twelve-film-stay |  
+| bip_39_word_dash_11 | round-mimic-seminar-deal-prison-old-erase-twelve-film-stay-acquire |  
+| bip_39_word_dash_12 | round-mimic-seminar-deal-prison-old-erase-twelve-film-stay-acquire-achieve |  
+| bip_39_word_dash_2 | round-mimic |  
+| bip_39_word_dash_3 | round-mimic-seminar |  
+| bip_39_word_dash_4 | round-mimic-seminar-deal |  
+| bip_39_word_dash_5 | round-mimic-seminar-deal-prison |  
+| bip_39_word_dash_6 | round-mimic-seminar-deal-prison-old |  
+| bip_39_word_dash_7 | round-mimic-seminar-deal-prison-old-erase |  
+| bip_39_word_dash_8 | round-mimic-seminar-deal-prison-old-erase-twelve |  
+| bip_39_word_dash_9 | round-mimic-seminar-deal-prison-old-erase-twelve-film |  
 | bip_39_word_new_br_1 | round |  
 | bip_39_word_new_br_10 | round<br>mimic<br>seminar<br>deal<br>prison<br>old<br>erase<br>twelve<br>film<br>stay |  
 | bip_39_word_new_br_11 | round<br>mimic<br>seminar<br>deal<br>prison<br>old<br>erase<br>twelve<br>film<br>stay<br>acquire |  
@@ -147,6 +159,18 @@ film |
 | bip_39_word_space_7 | round mimic seminar deal prison old erase |  
 | bip_39_word_space_8 | round mimic seminar deal prison old erase twelve |  
 | bip_39_word_space_9 | round mimic seminar deal prison old erase twelve film |  
+| bip_39_word_underscore_1 | round |  
+| bip_39_word_underscore_10 | round_mimic_seminar_deal_prison_old_erase_twelve_film_stay |  
+| bip_39_word_underscore_11 | round_mimic_seminar_deal_prison_old_erase_twelve_film_stay_acquire |  
+| bip_39_word_underscore_12 | round_mimic_seminar_deal_prison_old_erase_twelve_film_stay_acquire_achieve |  
+| bip_39_word_underscore_2 | round_mimic |  
+| bip_39_word_underscore_3 | round_mimic_seminar |  
+| bip_39_word_underscore_4 | round_mimic_seminar_deal |  
+| bip_39_word_underscore_5 | round_mimic_seminar_deal_prison |  
+| bip_39_word_underscore_6 | round_mimic_seminar_deal_prison_old |  
+| bip_39_word_underscore_7 | round_mimic_seminar_deal_prison_old_erase |  
+| bip_39_word_underscore_8 | round_mimic_seminar_deal_prison_old_erase_twelve |  
+| bip_39_word_underscore_9 | round_mimic_seminar_deal_prison_old_erase_twelve_film |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

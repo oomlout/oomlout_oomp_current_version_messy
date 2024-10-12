@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | food |  
+| bip_39_word_dash_10 | food-humble-find-puzzle-invite-diagram-buffalo-suit-fork-route |  
+| bip_39_word_dash_11 | food-humble-find-puzzle-invite-diagram-buffalo-suit-fork-route-water |  
+| bip_39_word_dash_12 | food-humble-find-puzzle-invite-diagram-buffalo-suit-fork-route-water-allow |  
+| bip_39_word_dash_2 | food-humble |  
+| bip_39_word_dash_3 | food-humble-find |  
+| bip_39_word_dash_4 | food-humble-find-puzzle |  
+| bip_39_word_dash_5 | food-humble-find-puzzle-invite |  
+| bip_39_word_dash_6 | food-humble-find-puzzle-invite-diagram |  
+| bip_39_word_dash_7 | food-humble-find-puzzle-invite-diagram-buffalo |  
+| bip_39_word_dash_8 | food-humble-find-puzzle-invite-diagram-buffalo-suit |  
+| bip_39_word_dash_9 | food-humble-find-puzzle-invite-diagram-buffalo-suit-fork |  
 | bip_39_word_new_br_1 | food |  
 | bip_39_word_new_br_10 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route |  
 | bip_39_word_new_br_11 | food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route<br>water |  
@@ -147,6 +159,18 @@ fork |
 | bip_39_word_space_7 | food humble find puzzle invite diagram buffalo |  
 | bip_39_word_space_8 | food humble find puzzle invite diagram buffalo suit |  
 | bip_39_word_space_9 | food humble find puzzle invite diagram buffalo suit fork |  
+| bip_39_word_underscore_1 | food |  
+| bip_39_word_underscore_10 | food_humble_find_puzzle_invite_diagram_buffalo_suit_fork_route |  
+| bip_39_word_underscore_11 | food_humble_find_puzzle_invite_diagram_buffalo_suit_fork_route_water |  
+| bip_39_word_underscore_12 | food_humble_find_puzzle_invite_diagram_buffalo_suit_fork_route_water_allow |  
+| bip_39_word_underscore_2 | food_humble |  
+| bip_39_word_underscore_3 | food_humble_find |  
+| bip_39_word_underscore_4 | food_humble_find_puzzle |  
+| bip_39_word_underscore_5 | food_humble_find_puzzle_invite |  
+| bip_39_word_underscore_6 | food_humble_find_puzzle_invite_diagram |  
+| bip_39_word_underscore_7 | food_humble_find_puzzle_invite_diagram_buffalo |  
+| bip_39_word_underscore_8 | food_humble_find_puzzle_invite_diagram_buffalo_suit |  
+| bip_39_word_underscore_9 | food_humble_find_puzzle_invite_diagram_buffalo_suit_fork |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

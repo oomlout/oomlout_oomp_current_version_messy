@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lion |  
+| bip_39_word_dash_10 | lion-hunt-sunny-portion-perfect-cabin-obscure-fence-canvas-dolphin |  
+| bip_39_word_dash_11 | lion-hunt-sunny-portion-perfect-cabin-obscure-fence-canvas-dolphin-north |  
+| bip_39_word_dash_12 | lion-hunt-sunny-portion-perfect-cabin-obscure-fence-canvas-dolphin-north-also |  
+| bip_39_word_dash_2 | lion-hunt |  
+| bip_39_word_dash_3 | lion-hunt-sunny |  
+| bip_39_word_dash_4 | lion-hunt-sunny-portion |  
+| bip_39_word_dash_5 | lion-hunt-sunny-portion-perfect |  
+| bip_39_word_dash_6 | lion-hunt-sunny-portion-perfect-cabin |  
+| bip_39_word_dash_7 | lion-hunt-sunny-portion-perfect-cabin-obscure |  
+| bip_39_word_dash_8 | lion-hunt-sunny-portion-perfect-cabin-obscure-fence |  
+| bip_39_word_dash_9 | lion-hunt-sunny-portion-perfect-cabin-obscure-fence-canvas |  
 | bip_39_word_new_br_1 | lion |  
 | bip_39_word_new_br_10 | lion<br>hunt<br>sunny<br>portion<br>perfect<br>cabin<br>obscure<br>fence<br>canvas<br>dolphin |  
 | bip_39_word_new_br_11 | lion<br>hunt<br>sunny<br>portion<br>perfect<br>cabin<br>obscure<br>fence<br>canvas<br>dolphin<br>north |  
@@ -147,6 +159,18 @@ canvas |
 | bip_39_word_space_7 | lion hunt sunny portion perfect cabin obscure |  
 | bip_39_word_space_8 | lion hunt sunny portion perfect cabin obscure fence |  
 | bip_39_word_space_9 | lion hunt sunny portion perfect cabin obscure fence canvas |  
+| bip_39_word_underscore_1 | lion |  
+| bip_39_word_underscore_10 | lion_hunt_sunny_portion_perfect_cabin_obscure_fence_canvas_dolphin |  
+| bip_39_word_underscore_11 | lion_hunt_sunny_portion_perfect_cabin_obscure_fence_canvas_dolphin_north |  
+| bip_39_word_underscore_12 | lion_hunt_sunny_portion_perfect_cabin_obscure_fence_canvas_dolphin_north_also |  
+| bip_39_word_underscore_2 | lion_hunt |  
+| bip_39_word_underscore_3 | lion_hunt_sunny |  
+| bip_39_word_underscore_4 | lion_hunt_sunny_portion |  
+| bip_39_word_underscore_5 | lion_hunt_sunny_portion_perfect |  
+| bip_39_word_underscore_6 | lion_hunt_sunny_portion_perfect_cabin |  
+| bip_39_word_underscore_7 | lion_hunt_sunny_portion_perfect_cabin_obscure |  
+| bip_39_word_underscore_8 | lion_hunt_sunny_portion_perfect_cabin_obscure_fence |  
+| bip_39_word_underscore_9 | lion_hunt_sunny_portion_perfect_cabin_obscure_fence_canvas |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

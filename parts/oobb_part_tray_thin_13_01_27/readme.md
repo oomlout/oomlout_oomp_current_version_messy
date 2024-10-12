@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fabric |  
+| bip_39_word_dash_10 | fabric-shift-simple-magnet-note-top-despair-sock-cry-wink |  
+| bip_39_word_dash_11 | fabric-shift-simple-magnet-note-top-despair-sock-cry-wink-doll |  
+| bip_39_word_dash_12 | fabric-shift-simple-magnet-note-top-despair-sock-cry-wink-doll-apart |  
+| bip_39_word_dash_2 | fabric-shift |  
+| bip_39_word_dash_3 | fabric-shift-simple |  
+| bip_39_word_dash_4 | fabric-shift-simple-magnet |  
+| bip_39_word_dash_5 | fabric-shift-simple-magnet-note |  
+| bip_39_word_dash_6 | fabric-shift-simple-magnet-note-top |  
+| bip_39_word_dash_7 | fabric-shift-simple-magnet-note-top-despair |  
+| bip_39_word_dash_8 | fabric-shift-simple-magnet-note-top-despair-sock |  
+| bip_39_word_dash_9 | fabric-shift-simple-magnet-note-top-despair-sock-cry |  
 | bip_39_word_new_br_1 | fabric |  
 | bip_39_word_new_br_10 | fabric<br>shift<br>simple<br>magnet<br>note<br>top<br>despair<br>sock<br>cry<br>wink |  
 | bip_39_word_new_br_11 | fabric<br>shift<br>simple<br>magnet<br>note<br>top<br>despair<br>sock<br>cry<br>wink<br>doll |  
@@ -147,6 +159,18 @@ cry |
 | bip_39_word_space_7 | fabric shift simple magnet note top despair |  
 | bip_39_word_space_8 | fabric shift simple magnet note top despair sock |  
 | bip_39_word_space_9 | fabric shift simple magnet note top despair sock cry |  
+| bip_39_word_underscore_1 | fabric |  
+| bip_39_word_underscore_10 | fabric_shift_simple_magnet_note_top_despair_sock_cry_wink |  
+| bip_39_word_underscore_11 | fabric_shift_simple_magnet_note_top_despair_sock_cry_wink_doll |  
+| bip_39_word_underscore_12 | fabric_shift_simple_magnet_note_top_despair_sock_cry_wink_doll_apart |  
+| bip_39_word_underscore_2 | fabric_shift |  
+| bip_39_word_underscore_3 | fabric_shift_simple |  
+| bip_39_word_underscore_4 | fabric_shift_simple_magnet |  
+| bip_39_word_underscore_5 | fabric_shift_simple_magnet_note |  
+| bip_39_word_underscore_6 | fabric_shift_simple_magnet_note_top |  
+| bip_39_word_underscore_7 | fabric_shift_simple_magnet_note_top_despair |  
+| bip_39_word_underscore_8 | fabric_shift_simple_magnet_note_top_despair_sock |  
+| bip_39_word_underscore_9 | fabric_shift_simple_magnet_note_top_despair_sock_cry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

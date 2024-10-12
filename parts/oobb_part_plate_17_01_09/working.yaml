@@ -1,3 +1,15 @@
+bip_39_word_dash_1: raven
+bip_39_word_dash_10: raven-negative-bicycle-poverty-desk-erase-bag-west-law-school
+bip_39_word_dash_11: raven-negative-bicycle-poverty-desk-erase-bag-west-law-school-secret
+bip_39_word_dash_12: raven-negative-bicycle-poverty-desk-erase-bag-west-law-school-secret-adjust
+bip_39_word_dash_2: raven-negative
+bip_39_word_dash_3: raven-negative-bicycle
+bip_39_word_dash_4: raven-negative-bicycle-poverty
+bip_39_word_dash_5: raven-negative-bicycle-poverty-desk
+bip_39_word_dash_6: raven-negative-bicycle-poverty-desk-erase
+bip_39_word_dash_7: raven-negative-bicycle-poverty-desk-erase-bag
+bip_39_word_dash_8: raven-negative-bicycle-poverty-desk-erase-bag-west
+bip_39_word_dash_9: raven-negative-bicycle-poverty-desk-erase-bag-west-law
 bip_39_word_new_br_1: raven
 bip_39_word_new_br_10: raven<br>negative<br>bicycle<br>poverty<br>desk<br>erase<br>bag<br>west<br>law<br>school
 bip_39_word_new_br_11: raven<br>negative<br>bicycle<br>poverty<br>desk<br>erase<br>bag<br>west<br>law<br>school<br>secret
@@ -193,6 +205,18 @@ bip_39_word_space_6: raven negative bicycle poverty desk erase
 bip_39_word_space_7: raven negative bicycle poverty desk erase bag
 bip_39_word_space_8: raven negative bicycle poverty desk erase bag west
 bip_39_word_space_9: raven negative bicycle poverty desk erase bag west law
+bip_39_word_underscore_1: raven
+bip_39_word_underscore_10: raven_negative_bicycle_poverty_desk_erase_bag_west_law_school
+bip_39_word_underscore_11: raven_negative_bicycle_poverty_desk_erase_bag_west_law_school_secret
+bip_39_word_underscore_12: raven_negative_bicycle_poverty_desk_erase_bag_west_law_school_secret_adjust
+bip_39_word_underscore_2: raven_negative
+bip_39_word_underscore_3: raven_negative_bicycle
+bip_39_word_underscore_4: raven_negative_bicycle_poverty
+bip_39_word_underscore_5: raven_negative_bicycle_poverty_desk
+bip_39_word_underscore_6: raven_negative_bicycle_poverty_desk_erase
+bip_39_word_underscore_7: raven_negative_bicycle_poverty_desk_erase_bag
+bip_39_word_underscore_8: raven_negative_bicycle_poverty_desk_erase_bag_west
+bip_39_word_underscore_9: raven_negative_bicycle_poverty_desk_erase_bag_west_law
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

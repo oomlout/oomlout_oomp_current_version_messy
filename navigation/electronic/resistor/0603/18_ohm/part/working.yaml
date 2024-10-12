@@ -1,3 +1,15 @@
+bip_39_word_dash_1: select
+bip_39_word_dash_10: select-narrow-funny-minute-enough-remain-soft-milk-shrimp-virtual
+bip_39_word_dash_11: select-narrow-funny-minute-enough-remain-soft-milk-shrimp-virtual-private
+bip_39_word_dash_12: select-narrow-funny-minute-enough-remain-soft-milk-shrimp-virtual-private-avocado
+bip_39_word_dash_2: select-narrow
+bip_39_word_dash_3: select-narrow-funny
+bip_39_word_dash_4: select-narrow-funny-minute
+bip_39_word_dash_5: select-narrow-funny-minute-enough
+bip_39_word_dash_6: select-narrow-funny-minute-enough-remain
+bip_39_word_dash_7: select-narrow-funny-minute-enough-remain-soft
+bip_39_word_dash_8: select-narrow-funny-minute-enough-remain-soft-milk
+bip_39_word_dash_9: select-narrow-funny-minute-enough-remain-soft-milk-shrimp
 bip_39_word_new_br_1: select
 bip_39_word_new_br_10: select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual
 bip_39_word_new_br_11: select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual<br>private
@@ -193,6 +205,18 @@ bip_39_word_space_6: select narrow funny minute enough remain
 bip_39_word_space_7: select narrow funny minute enough remain soft
 bip_39_word_space_8: select narrow funny minute enough remain soft milk
 bip_39_word_space_9: select narrow funny minute enough remain soft milk shrimp
+bip_39_word_underscore_1: select
+bip_39_word_underscore_10: select_narrow_funny_minute_enough_remain_soft_milk_shrimp_virtual
+bip_39_word_underscore_11: select_narrow_funny_minute_enough_remain_soft_milk_shrimp_virtual_private
+bip_39_word_underscore_12: select_narrow_funny_minute_enough_remain_soft_milk_shrimp_virtual_private_avocado
+bip_39_word_underscore_2: select_narrow
+bip_39_word_underscore_3: select_narrow_funny
+bip_39_word_underscore_4: select_narrow_funny_minute
+bip_39_word_underscore_5: select_narrow_funny_minute_enough
+bip_39_word_underscore_6: select_narrow_funny_minute_enough_remain
+bip_39_word_underscore_7: select_narrow_funny_minute_enough_remain_soft
+bip_39_word_underscore_8: select_narrow_funny_minute_enough_remain_soft_milk
+bip_39_word_underscore_9: select_narrow_funny_minute_enough_remain_soft_milk_shrimp
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | peace |  
+| bip_39_word_dash_10 | peace-legal-best-opinion-cable-push-scare-note-once-mimic |  
+| bip_39_word_dash_11 | peace-legal-best-opinion-cable-push-scare-note-once-mimic-atom |  
+| bip_39_word_dash_12 | peace-legal-best-opinion-cable-push-scare-note-once-mimic-atom-achieve |  
+| bip_39_word_dash_2 | peace-legal |  
+| bip_39_word_dash_3 | peace-legal-best |  
+| bip_39_word_dash_4 | peace-legal-best-opinion |  
+| bip_39_word_dash_5 | peace-legal-best-opinion-cable |  
+| bip_39_word_dash_6 | peace-legal-best-opinion-cable-push |  
+| bip_39_word_dash_7 | peace-legal-best-opinion-cable-push-scare |  
+| bip_39_word_dash_8 | peace-legal-best-opinion-cable-push-scare-note |  
+| bip_39_word_dash_9 | peace-legal-best-opinion-cable-push-scare-note-once |  
 | bip_39_word_new_br_1 | peace |  
 | bip_39_word_new_br_10 | peace<br>legal<br>best<br>opinion<br>cable<br>push<br>scare<br>note<br>once<br>mimic |  
 | bip_39_word_new_br_11 | peace<br>legal<br>best<br>opinion<br>cable<br>push<br>scare<br>note<br>once<br>mimic<br>atom |  
@@ -147,6 +159,18 @@ once |
 | bip_39_word_space_7 | peace legal best opinion cable push scare |  
 | bip_39_word_space_8 | peace legal best opinion cable push scare note |  
 | bip_39_word_space_9 | peace legal best opinion cable push scare note once |  
+| bip_39_word_underscore_1 | peace |  
+| bip_39_word_underscore_10 | peace_legal_best_opinion_cable_push_scare_note_once_mimic |  
+| bip_39_word_underscore_11 | peace_legal_best_opinion_cable_push_scare_note_once_mimic_atom |  
+| bip_39_word_underscore_12 | peace_legal_best_opinion_cable_push_scare_note_once_mimic_atom_achieve |  
+| bip_39_word_underscore_2 | peace_legal |  
+| bip_39_word_underscore_3 | peace_legal_best |  
+| bip_39_word_underscore_4 | peace_legal_best_opinion |  
+| bip_39_word_underscore_5 | peace_legal_best_opinion_cable |  
+| bip_39_word_underscore_6 | peace_legal_best_opinion_cable_push |  
+| bip_39_word_underscore_7 | peace_legal_best_opinion_cable_push_scare |  
+| bip_39_word_underscore_8 | peace_legal_best_opinion_cable_push_scare_note |  
+| bip_39_word_underscore_9 | peace_legal_best_opinion_cable_push_scare_note_once |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

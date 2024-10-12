@@ -1,3 +1,15 @@
+bip_39_word_dash_1: topic
+bip_39_word_dash_10: topic-picnic-level-move-exact-umbrella-census-unfold-cradle-refuse
+bip_39_word_dash_11: topic-picnic-level-move-exact-umbrella-census-unfold-cradle-refuse-antenna
+bip_39_word_dash_12: topic-picnic-level-move-exact-umbrella-census-unfold-cradle-refuse-antenna-advice
+bip_39_word_dash_2: topic-picnic
+bip_39_word_dash_3: topic-picnic-level
+bip_39_word_dash_4: topic-picnic-level-move
+bip_39_word_dash_5: topic-picnic-level-move-exact
+bip_39_word_dash_6: topic-picnic-level-move-exact-umbrella
+bip_39_word_dash_7: topic-picnic-level-move-exact-umbrella-census
+bip_39_word_dash_8: topic-picnic-level-move-exact-umbrella-census-unfold
+bip_39_word_dash_9: topic-picnic-level-move-exact-umbrella-census-unfold-cradle
 bip_39_word_new_br_1: topic
 bip_39_word_new_br_10: topic<br>picnic<br>level<br>move<br>exact<br>umbrella<br>census<br>unfold<br>cradle<br>refuse
 bip_39_word_new_br_11: topic<br>picnic<br>level<br>move<br>exact<br>umbrella<br>census<br>unfold<br>cradle<br>refuse<br>antenna
@@ -194,6 +206,18 @@ bip_39_word_space_6: topic picnic level move exact umbrella
 bip_39_word_space_7: topic picnic level move exact umbrella census
 bip_39_word_space_8: topic picnic level move exact umbrella census unfold
 bip_39_word_space_9: topic picnic level move exact umbrella census unfold cradle
+bip_39_word_underscore_1: topic
+bip_39_word_underscore_10: topic_picnic_level_move_exact_umbrella_census_unfold_cradle_refuse
+bip_39_word_underscore_11: topic_picnic_level_move_exact_umbrella_census_unfold_cradle_refuse_antenna
+bip_39_word_underscore_12: topic_picnic_level_move_exact_umbrella_census_unfold_cradle_refuse_antenna_advice
+bip_39_word_underscore_2: topic_picnic
+bip_39_word_underscore_3: topic_picnic_level
+bip_39_word_underscore_4: topic_picnic_level_move
+bip_39_word_underscore_5: topic_picnic_level_move_exact
+bip_39_word_underscore_6: topic_picnic_level_move_exact_umbrella
+bip_39_word_underscore_7: topic_picnic_level_move_exact_umbrella_census
+bip_39_word_underscore_8: topic_picnic_level_move_exact_umbrella_census_unfold
+bip_39_word_underscore_9: topic_picnic_level_move_exact_umbrella_census_unfold_cradle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

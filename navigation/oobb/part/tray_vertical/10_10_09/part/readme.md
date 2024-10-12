@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tiny |  
+| bip_39_word_dash_10 | tiny-coconut-delay-void-double-talk-now-own-state-floor |  
+| bip_39_word_dash_11 | tiny-coconut-delay-void-double-talk-now-own-state-floor-split |  
+| bip_39_word_dash_12 | tiny-coconut-delay-void-double-talk-now-own-state-floor-split-admit |  
+| bip_39_word_dash_2 | tiny-coconut |  
+| bip_39_word_dash_3 | tiny-coconut-delay |  
+| bip_39_word_dash_4 | tiny-coconut-delay-void |  
+| bip_39_word_dash_5 | tiny-coconut-delay-void-double |  
+| bip_39_word_dash_6 | tiny-coconut-delay-void-double-talk |  
+| bip_39_word_dash_7 | tiny-coconut-delay-void-double-talk-now |  
+| bip_39_word_dash_8 | tiny-coconut-delay-void-double-talk-now-own |  
+| bip_39_word_dash_9 | tiny-coconut-delay-void-double-talk-now-own-state |  
 | bip_39_word_new_br_1 | tiny |  
 | bip_39_word_new_br_10 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor |  
 | bip_39_word_new_br_11 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor<br>split |  
@@ -147,6 +159,18 @@ state |
 | bip_39_word_space_7 | tiny coconut delay void double talk now |  
 | bip_39_word_space_8 | tiny coconut delay void double talk now own |  
 | bip_39_word_space_9 | tiny coconut delay void double talk now own state |  
+| bip_39_word_underscore_1 | tiny |  
+| bip_39_word_underscore_10 | tiny_coconut_delay_void_double_talk_now_own_state_floor |  
+| bip_39_word_underscore_11 | tiny_coconut_delay_void_double_talk_now_own_state_floor_split |  
+| bip_39_word_underscore_12 | tiny_coconut_delay_void_double_talk_now_own_state_floor_split_admit |  
+| bip_39_word_underscore_2 | tiny_coconut |  
+| bip_39_word_underscore_3 | tiny_coconut_delay |  
+| bip_39_word_underscore_4 | tiny_coconut_delay_void |  
+| bip_39_word_underscore_5 | tiny_coconut_delay_void_double |  
+| bip_39_word_underscore_6 | tiny_coconut_delay_void_double_talk |  
+| bip_39_word_underscore_7 | tiny_coconut_delay_void_double_talk_now |  
+| bip_39_word_underscore_8 | tiny_coconut_delay_void_double_talk_now_own |  
+| bip_39_word_underscore_9 | tiny_coconut_delay_void_double_talk_now_own_state |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

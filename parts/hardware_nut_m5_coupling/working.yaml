@@ -1,3 +1,15 @@
+bip_39_word_dash_1: laugh
+bip_39_word_dash_10: laugh-chief-ahead-floor-often-couple-work-chapter-cash-dress
+bip_39_word_dash_11: laugh-chief-ahead-floor-often-couple-work-chapter-cash-dress-fatal
+bip_39_word_dash_12: laugh-chief-ahead-floor-often-couple-work-chapter-cash-dress-fatal-ability
+bip_39_word_dash_2: laugh-chief
+bip_39_word_dash_3: laugh-chief-ahead
+bip_39_word_dash_4: laugh-chief-ahead-floor
+bip_39_word_dash_5: laugh-chief-ahead-floor-often
+bip_39_word_dash_6: laugh-chief-ahead-floor-often-couple
+bip_39_word_dash_7: laugh-chief-ahead-floor-often-couple-work
+bip_39_word_dash_8: laugh-chief-ahead-floor-often-couple-work-chapter
+bip_39_word_dash_9: laugh-chief-ahead-floor-often-couple-work-chapter-cash
 bip_39_word_new_br_1: laugh
 bip_39_word_new_br_10: laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter<br>cash<br>dress
 bip_39_word_new_br_11: laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter<br>cash<br>dress<br>fatal
@@ -193,6 +205,18 @@ bip_39_word_space_6: laugh chief ahead floor often couple
 bip_39_word_space_7: laugh chief ahead floor often couple work
 bip_39_word_space_8: laugh chief ahead floor often couple work chapter
 bip_39_word_space_9: laugh chief ahead floor often couple work chapter cash
+bip_39_word_underscore_1: laugh
+bip_39_word_underscore_10: laugh_chief_ahead_floor_often_couple_work_chapter_cash_dress
+bip_39_word_underscore_11: laugh_chief_ahead_floor_often_couple_work_chapter_cash_dress_fatal
+bip_39_word_underscore_12: laugh_chief_ahead_floor_often_couple_work_chapter_cash_dress_fatal_ability
+bip_39_word_underscore_2: laugh_chief
+bip_39_word_underscore_3: laugh_chief_ahead
+bip_39_word_underscore_4: laugh_chief_ahead_floor
+bip_39_word_underscore_5: laugh_chief_ahead_floor_often
+bip_39_word_underscore_6: laugh_chief_ahead_floor_often_couple
+bip_39_word_underscore_7: laugh_chief_ahead_floor_often_couple_work
+bip_39_word_underscore_8: laugh_chief_ahead_floor_often_couple_work_chapter
+bip_39_word_underscore_9: laugh_chief_ahead_floor_often_couple_work_chapter_cash
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

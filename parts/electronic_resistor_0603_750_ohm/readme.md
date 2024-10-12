@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | heavy |  
+| bip_39_word_dash_10 | heavy-replace-hidden-expand-toy-elite-math-search-rescue-kind |  
+| bip_39_word_dash_11 | heavy-replace-hidden-expand-toy-elite-math-search-rescue-kind-conduct |  
+| bip_39_word_dash_12 | heavy-replace-hidden-expand-toy-elite-math-search-rescue-kind-conduct-assume |  
+| bip_39_word_dash_2 | heavy-replace |  
+| bip_39_word_dash_3 | heavy-replace-hidden |  
+| bip_39_word_dash_4 | heavy-replace-hidden-expand |  
+| bip_39_word_dash_5 | heavy-replace-hidden-expand-toy |  
+| bip_39_word_dash_6 | heavy-replace-hidden-expand-toy-elite |  
+| bip_39_word_dash_7 | heavy-replace-hidden-expand-toy-elite-math |  
+| bip_39_word_dash_8 | heavy-replace-hidden-expand-toy-elite-math-search |  
+| bip_39_word_dash_9 | heavy-replace-hidden-expand-toy-elite-math-search-rescue |  
 | bip_39_word_new_br_1 | heavy |  
 | bip_39_word_new_br_10 | heavy<br>replace<br>hidden<br>expand<br>toy<br>elite<br>math<br>search<br>rescue<br>kind |  
 | bip_39_word_new_br_11 | heavy<br>replace<br>hidden<br>expand<br>toy<br>elite<br>math<br>search<br>rescue<br>kind<br>conduct |  
@@ -147,6 +159,18 @@ rescue |
 | bip_39_word_space_7 | heavy replace hidden expand toy elite math |  
 | bip_39_word_space_8 | heavy replace hidden expand toy elite math search |  
 | bip_39_word_space_9 | heavy replace hidden expand toy elite math search rescue |  
+| bip_39_word_underscore_1 | heavy |  
+| bip_39_word_underscore_10 | heavy_replace_hidden_expand_toy_elite_math_search_rescue_kind |  
+| bip_39_word_underscore_11 | heavy_replace_hidden_expand_toy_elite_math_search_rescue_kind_conduct |  
+| bip_39_word_underscore_12 | heavy_replace_hidden_expand_toy_elite_math_search_rescue_kind_conduct_assume |  
+| bip_39_word_underscore_2 | heavy_replace |  
+| bip_39_word_underscore_3 | heavy_replace_hidden |  
+| bip_39_word_underscore_4 | heavy_replace_hidden_expand |  
+| bip_39_word_underscore_5 | heavy_replace_hidden_expand_toy |  
+| bip_39_word_underscore_6 | heavy_replace_hidden_expand_toy_elite |  
+| bip_39_word_underscore_7 | heavy_replace_hidden_expand_toy_elite_math |  
+| bip_39_word_underscore_8 | heavy_replace_hidden_expand_toy_elite_math_search |  
+| bip_39_word_underscore_9 | heavy_replace_hidden_expand_toy_elite_math_search_rescue |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

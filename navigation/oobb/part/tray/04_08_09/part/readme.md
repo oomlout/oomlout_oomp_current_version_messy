@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | any |  
+| bip_39_word_dash_10 | any-afraid-remain-syrup-solve-roast-junior-heavy-tuition-join |  
+| bip_39_word_dash_11 | any-afraid-remain-syrup-solve-roast-junior-heavy-tuition-join-snow |  
+| bip_39_word_dash_12 | any-afraid-remain-syrup-solve-roast-junior-heavy-tuition-join-snow-add |  
+| bip_39_word_dash_2 | any-afraid |  
+| bip_39_word_dash_3 | any-afraid-remain |  
+| bip_39_word_dash_4 | any-afraid-remain-syrup |  
+| bip_39_word_dash_5 | any-afraid-remain-syrup-solve |  
+| bip_39_word_dash_6 | any-afraid-remain-syrup-solve-roast |  
+| bip_39_word_dash_7 | any-afraid-remain-syrup-solve-roast-junior |  
+| bip_39_word_dash_8 | any-afraid-remain-syrup-solve-roast-junior-heavy |  
+| bip_39_word_dash_9 | any-afraid-remain-syrup-solve-roast-junior-heavy-tuition |  
 | bip_39_word_new_br_1 | any |  
 | bip_39_word_new_br_10 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join |  
 | bip_39_word_new_br_11 | any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join<br>snow |  
@@ -147,6 +159,18 @@ tuition |
 | bip_39_word_space_7 | any afraid remain syrup solve roast junior |  
 | bip_39_word_space_8 | any afraid remain syrup solve roast junior heavy |  
 | bip_39_word_space_9 | any afraid remain syrup solve roast junior heavy tuition |  
+| bip_39_word_underscore_1 | any |  
+| bip_39_word_underscore_10 | any_afraid_remain_syrup_solve_roast_junior_heavy_tuition_join |  
+| bip_39_word_underscore_11 | any_afraid_remain_syrup_solve_roast_junior_heavy_tuition_join_snow |  
+| bip_39_word_underscore_12 | any_afraid_remain_syrup_solve_roast_junior_heavy_tuition_join_snow_add |  
+| bip_39_word_underscore_2 | any_afraid |  
+| bip_39_word_underscore_3 | any_afraid_remain |  
+| bip_39_word_underscore_4 | any_afraid_remain_syrup |  
+| bip_39_word_underscore_5 | any_afraid_remain_syrup_solve |  
+| bip_39_word_underscore_6 | any_afraid_remain_syrup_solve_roast |  
+| bip_39_word_underscore_7 | any_afraid_remain_syrup_solve_roast_junior |  
+| bip_39_word_underscore_8 | any_afraid_remain_syrup_solve_roast_junior_heavy |  
+| bip_39_word_underscore_9 | any_afraid_remain_syrup_solve_roast_junior_heavy_tuition |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

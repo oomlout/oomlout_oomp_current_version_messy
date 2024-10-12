@@ -1,3 +1,15 @@
+bip_39_word_dash_1: focus
+bip_39_word_dash_10: focus-reunion-brisk-cup-scorpion-street-return-camp-omit-wash
+bip_39_word_dash_11: focus-reunion-brisk-cup-scorpion-street-return-camp-omit-wash-target
+bip_39_word_dash_12: focus-reunion-brisk-cup-scorpion-street-return-camp-omit-wash-target-arch
+bip_39_word_dash_2: focus-reunion
+bip_39_word_dash_3: focus-reunion-brisk
+bip_39_word_dash_4: focus-reunion-brisk-cup
+bip_39_word_dash_5: focus-reunion-brisk-cup-scorpion
+bip_39_word_dash_6: focus-reunion-brisk-cup-scorpion-street
+bip_39_word_dash_7: focus-reunion-brisk-cup-scorpion-street-return
+bip_39_word_dash_8: focus-reunion-brisk-cup-scorpion-street-return-camp
+bip_39_word_dash_9: focus-reunion-brisk-cup-scorpion-street-return-camp-omit
 bip_39_word_new_br_1: focus
 bip_39_word_new_br_10: focus<br>reunion<br>brisk<br>cup<br>scorpion<br>street<br>return<br>camp<br>omit<br>wash
 bip_39_word_new_br_11: focus<br>reunion<br>brisk<br>cup<br>scorpion<br>street<br>return<br>camp<br>omit<br>wash<br>target
@@ -193,6 +205,18 @@ bip_39_word_space_6: focus reunion brisk cup scorpion street
 bip_39_word_space_7: focus reunion brisk cup scorpion street return
 bip_39_word_space_8: focus reunion brisk cup scorpion street return camp
 bip_39_word_space_9: focus reunion brisk cup scorpion street return camp omit
+bip_39_word_underscore_1: focus
+bip_39_word_underscore_10: focus_reunion_brisk_cup_scorpion_street_return_camp_omit_wash
+bip_39_word_underscore_11: focus_reunion_brisk_cup_scorpion_street_return_camp_omit_wash_target
+bip_39_word_underscore_12: focus_reunion_brisk_cup_scorpion_street_return_camp_omit_wash_target_arch
+bip_39_word_underscore_2: focus_reunion
+bip_39_word_underscore_3: focus_reunion_brisk
+bip_39_word_underscore_4: focus_reunion_brisk_cup
+bip_39_word_underscore_5: focus_reunion_brisk_cup_scorpion
+bip_39_word_underscore_6: focus_reunion_brisk_cup_scorpion_street
+bip_39_word_underscore_7: focus_reunion_brisk_cup_scorpion_street_return
+bip_39_word_underscore_8: focus_reunion_brisk_cup_scorpion_street_return_camp
+bip_39_word_underscore_9: focus_reunion_brisk_cup_scorpion_street_return_camp_omit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

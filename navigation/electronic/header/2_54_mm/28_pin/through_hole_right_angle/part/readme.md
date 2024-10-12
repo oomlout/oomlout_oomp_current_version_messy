@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sister |  
+| bip_39_word_dash_10 | sister-year-income-mention-option-hello-autumn-kit-average-sunny |  
+| bip_39_word_dash_11 | sister-year-income-mention-option-hello-autumn-kit-average-sunny-praise |  
+| bip_39_word_dash_12 | sister-year-income-mention-option-hello-autumn-kit-average-sunny-praise-arrow |  
+| bip_39_word_dash_2 | sister-year |  
+| bip_39_word_dash_3 | sister-year-income |  
+| bip_39_word_dash_4 | sister-year-income-mention |  
+| bip_39_word_dash_5 | sister-year-income-mention-option |  
+| bip_39_word_dash_6 | sister-year-income-mention-option-hello |  
+| bip_39_word_dash_7 | sister-year-income-mention-option-hello-autumn |  
+| bip_39_word_dash_8 | sister-year-income-mention-option-hello-autumn-kit |  
+| bip_39_word_dash_9 | sister-year-income-mention-option-hello-autumn-kit-average |  
 | bip_39_word_new_br_1 | sister |  
 | bip_39_word_new_br_10 | sister<br>year<br>income<br>mention<br>option<br>hello<br>autumn<br>kit<br>average<br>sunny |  
 | bip_39_word_new_br_11 | sister<br>year<br>income<br>mention<br>option<br>hello<br>autumn<br>kit<br>average<br>sunny<br>praise |  
@@ -147,6 +159,18 @@ average |
 | bip_39_word_space_7 | sister year income mention option hello autumn |  
 | bip_39_word_space_8 | sister year income mention option hello autumn kit |  
 | bip_39_word_space_9 | sister year income mention option hello autumn kit average |  
+| bip_39_word_underscore_1 | sister |  
+| bip_39_word_underscore_10 | sister_year_income_mention_option_hello_autumn_kit_average_sunny |  
+| bip_39_word_underscore_11 | sister_year_income_mention_option_hello_autumn_kit_average_sunny_praise |  
+| bip_39_word_underscore_12 | sister_year_income_mention_option_hello_autumn_kit_average_sunny_praise_arrow |  
+| bip_39_word_underscore_2 | sister_year |  
+| bip_39_word_underscore_3 | sister_year_income |  
+| bip_39_word_underscore_4 | sister_year_income_mention |  
+| bip_39_word_underscore_5 | sister_year_income_mention_option |  
+| bip_39_word_underscore_6 | sister_year_income_mention_option_hello |  
+| bip_39_word_underscore_7 | sister_year_income_mention_option_hello_autumn |  
+| bip_39_word_underscore_8 | sister_year_income_mention_option_hello_autumn_kit |  
+| bip_39_word_underscore_9 | sister_year_income_mention_option_hello_autumn_kit_average |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

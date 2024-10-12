@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prize |  
+| bip_39_word_dash_10 | prize-lock-pulp-aware-rug-twelve-midnight-general-input-emotion |  
+| bip_39_word_dash_11 | prize-lock-pulp-aware-rug-twelve-midnight-general-input-emotion-bless |  
+| bip_39_word_dash_12 | prize-lock-pulp-aware-rug-twelve-midnight-general-input-emotion-bless-all |  
+| bip_39_word_dash_2 | prize-lock |  
+| bip_39_word_dash_3 | prize-lock-pulp |  
+| bip_39_word_dash_4 | prize-lock-pulp-aware |  
+| bip_39_word_dash_5 | prize-lock-pulp-aware-rug |  
+| bip_39_word_dash_6 | prize-lock-pulp-aware-rug-twelve |  
+| bip_39_word_dash_7 | prize-lock-pulp-aware-rug-twelve-midnight |  
+| bip_39_word_dash_8 | prize-lock-pulp-aware-rug-twelve-midnight-general |  
+| bip_39_word_dash_9 | prize-lock-pulp-aware-rug-twelve-midnight-general-input |  
 | bip_39_word_new_br_1 | prize |  
 | bip_39_word_new_br_10 | prize<br>lock<br>pulp<br>aware<br>rug<br>twelve<br>midnight<br>general<br>input<br>emotion |  
 | bip_39_word_new_br_11 | prize<br>lock<br>pulp<br>aware<br>rug<br>twelve<br>midnight<br>general<br>input<br>emotion<br>bless |  
@@ -147,6 +159,18 @@ input |
 | bip_39_word_space_7 | prize lock pulp aware rug twelve midnight |  
 | bip_39_word_space_8 | prize lock pulp aware rug twelve midnight general |  
 | bip_39_word_space_9 | prize lock pulp aware rug twelve midnight general input |  
+| bip_39_word_underscore_1 | prize |  
+| bip_39_word_underscore_10 | prize_lock_pulp_aware_rug_twelve_midnight_general_input_emotion |  
+| bip_39_word_underscore_11 | prize_lock_pulp_aware_rug_twelve_midnight_general_input_emotion_bless |  
+| bip_39_word_underscore_12 | prize_lock_pulp_aware_rug_twelve_midnight_general_input_emotion_bless_all |  
+| bip_39_word_underscore_2 | prize_lock |  
+| bip_39_word_underscore_3 | prize_lock_pulp |  
+| bip_39_word_underscore_4 | prize_lock_pulp_aware |  
+| bip_39_word_underscore_5 | prize_lock_pulp_aware_rug |  
+| bip_39_word_underscore_6 | prize_lock_pulp_aware_rug_twelve |  
+| bip_39_word_underscore_7 | prize_lock_pulp_aware_rug_twelve_midnight |  
+| bip_39_word_underscore_8 | prize_lock_pulp_aware_rug_twelve_midnight_general |  
+| bip_39_word_underscore_9 | prize_lock_pulp_aware_rug_twelve_midnight_general_input |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

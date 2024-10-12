@@ -1,3 +1,15 @@
+bip_39_word_dash_1: usual
+bip_39_word_dash_10: usual-ladder-wreck-coconut-whisper-grow-tide-loop-else-fly
+bip_39_word_dash_11: usual-ladder-wreck-coconut-whisper-grow-tide-loop-else-fly-danger
+bip_39_word_dash_12: usual-ladder-wreck-coconut-whisper-grow-tide-loop-else-fly-danger-adult
+bip_39_word_dash_2: usual-ladder
+bip_39_word_dash_3: usual-ladder-wreck
+bip_39_word_dash_4: usual-ladder-wreck-coconut
+bip_39_word_dash_5: usual-ladder-wreck-coconut-whisper
+bip_39_word_dash_6: usual-ladder-wreck-coconut-whisper-grow
+bip_39_word_dash_7: usual-ladder-wreck-coconut-whisper-grow-tide
+bip_39_word_dash_8: usual-ladder-wreck-coconut-whisper-grow-tide-loop
+bip_39_word_dash_9: usual-ladder-wreck-coconut-whisper-grow-tide-loop-else
 bip_39_word_new_br_1: usual
 bip_39_word_new_br_10: usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly
 bip_39_word_new_br_11: usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly<br>danger
@@ -192,6 +204,18 @@ bip_39_word_space_6: usual ladder wreck coconut whisper grow
 bip_39_word_space_7: usual ladder wreck coconut whisper grow tide
 bip_39_word_space_8: usual ladder wreck coconut whisper grow tide loop
 bip_39_word_space_9: usual ladder wreck coconut whisper grow tide loop else
+bip_39_word_underscore_1: usual
+bip_39_word_underscore_10: usual_ladder_wreck_coconut_whisper_grow_tide_loop_else_fly
+bip_39_word_underscore_11: usual_ladder_wreck_coconut_whisper_grow_tide_loop_else_fly_danger
+bip_39_word_underscore_12: usual_ladder_wreck_coconut_whisper_grow_tide_loop_else_fly_danger_adult
+bip_39_word_underscore_2: usual_ladder
+bip_39_word_underscore_3: usual_ladder_wreck
+bip_39_word_underscore_4: usual_ladder_wreck_coconut
+bip_39_word_underscore_5: usual_ladder_wreck_coconut_whisper
+bip_39_word_underscore_6: usual_ladder_wreck_coconut_whisper_grow
+bip_39_word_underscore_7: usual_ladder_wreck_coconut_whisper_grow_tide
+bip_39_word_underscore_8: usual_ladder_wreck_coconut_whisper_grow_tide_loop
+bip_39_word_underscore_9: usual_ladder_wreck_coconut_whisper_grow_tide_loop_else
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

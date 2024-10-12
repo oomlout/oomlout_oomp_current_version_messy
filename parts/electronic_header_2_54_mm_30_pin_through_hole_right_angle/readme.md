@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dry |  
+| bip_39_word_dash_10 | dry-thank-pluck-property-damage-ship-benefit-unknown-swim-suspect |  
+| bip_39_word_dash_11 | dry-thank-pluck-property-damage-ship-benefit-unknown-swim-suspect-announce |  
+| bip_39_word_dash_12 | dry-thank-pluck-property-damage-ship-benefit-unknown-swim-suspect-announce-anxiety |  
+| bip_39_word_dash_2 | dry-thank |  
+| bip_39_word_dash_3 | dry-thank-pluck |  
+| bip_39_word_dash_4 | dry-thank-pluck-property |  
+| bip_39_word_dash_5 | dry-thank-pluck-property-damage |  
+| bip_39_word_dash_6 | dry-thank-pluck-property-damage-ship |  
+| bip_39_word_dash_7 | dry-thank-pluck-property-damage-ship-benefit |  
+| bip_39_word_dash_8 | dry-thank-pluck-property-damage-ship-benefit-unknown |  
+| bip_39_word_dash_9 | dry-thank-pluck-property-damage-ship-benefit-unknown-swim |  
 | bip_39_word_new_br_1 | dry |  
 | bip_39_word_new_br_10 | dry<br>thank<br>pluck<br>property<br>damage<br>ship<br>benefit<br>unknown<br>swim<br>suspect |  
 | bip_39_word_new_br_11 | dry<br>thank<br>pluck<br>property<br>damage<br>ship<br>benefit<br>unknown<br>swim<br>suspect<br>announce |  
@@ -147,6 +159,18 @@ swim |
 | bip_39_word_space_7 | dry thank pluck property damage ship benefit |  
 | bip_39_word_space_8 | dry thank pluck property damage ship benefit unknown |  
 | bip_39_word_space_9 | dry thank pluck property damage ship benefit unknown swim |  
+| bip_39_word_underscore_1 | dry |  
+| bip_39_word_underscore_10 | dry_thank_pluck_property_damage_ship_benefit_unknown_swim_suspect |  
+| bip_39_word_underscore_11 | dry_thank_pluck_property_damage_ship_benefit_unknown_swim_suspect_announce |  
+| bip_39_word_underscore_12 | dry_thank_pluck_property_damage_ship_benefit_unknown_swim_suspect_announce_anxiety |  
+| bip_39_word_underscore_2 | dry_thank |  
+| bip_39_word_underscore_3 | dry_thank_pluck |  
+| bip_39_word_underscore_4 | dry_thank_pluck_property |  
+| bip_39_word_underscore_5 | dry_thank_pluck_property_damage |  
+| bip_39_word_underscore_6 | dry_thank_pluck_property_damage_ship |  
+| bip_39_word_underscore_7 | dry_thank_pluck_property_damage_ship_benefit |  
+| bip_39_word_underscore_8 | dry_thank_pluck_property_damage_ship_benefit_unknown |  
+| bip_39_word_underscore_9 | dry_thank_pluck_property_damage_ship_benefit_unknown_swim |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

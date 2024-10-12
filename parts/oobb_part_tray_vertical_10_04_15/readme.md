@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hazard |  
+| bip_39_word_dash_10 | hazard-kind-print-cactus-ignore-fatal-barely-silk-easily-swim |  
+| bip_39_word_dash_11 | hazard-kind-print-cactus-ignore-fatal-barely-silk-easily-swim-print |  
+| bip_39_word_dash_12 | hazard-kind-print-cactus-ignore-fatal-barely-silk-easily-swim-print-april |  
+| bip_39_word_dash_2 | hazard-kind |  
+| bip_39_word_dash_3 | hazard-kind-print |  
+| bip_39_word_dash_4 | hazard-kind-print-cactus |  
+| bip_39_word_dash_5 | hazard-kind-print-cactus-ignore |  
+| bip_39_word_dash_6 | hazard-kind-print-cactus-ignore-fatal |  
+| bip_39_word_dash_7 | hazard-kind-print-cactus-ignore-fatal-barely |  
+| bip_39_word_dash_8 | hazard-kind-print-cactus-ignore-fatal-barely-silk |  
+| bip_39_word_dash_9 | hazard-kind-print-cactus-ignore-fatal-barely-silk-easily |  
 | bip_39_word_new_br_1 | hazard |  
 | bip_39_word_new_br_10 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim |  
 | bip_39_word_new_br_11 | hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim<br>print |  
@@ -147,6 +159,18 @@ easily |
 | bip_39_word_space_7 | hazard kind print cactus ignore fatal barely |  
 | bip_39_word_space_8 | hazard kind print cactus ignore fatal barely silk |  
 | bip_39_word_space_9 | hazard kind print cactus ignore fatal barely silk easily |  
+| bip_39_word_underscore_1 | hazard |  
+| bip_39_word_underscore_10 | hazard_kind_print_cactus_ignore_fatal_barely_silk_easily_swim |  
+| bip_39_word_underscore_11 | hazard_kind_print_cactus_ignore_fatal_barely_silk_easily_swim_print |  
+| bip_39_word_underscore_12 | hazard_kind_print_cactus_ignore_fatal_barely_silk_easily_swim_print_april |  
+| bip_39_word_underscore_2 | hazard_kind |  
+| bip_39_word_underscore_3 | hazard_kind_print |  
+| bip_39_word_underscore_4 | hazard_kind_print_cactus |  
+| bip_39_word_underscore_5 | hazard_kind_print_cactus_ignore |  
+| bip_39_word_underscore_6 | hazard_kind_print_cactus_ignore_fatal |  
+| bip_39_word_underscore_7 | hazard_kind_print_cactus_ignore_fatal_barely |  
+| bip_39_word_underscore_8 | hazard_kind_print_cactus_ignore_fatal_barely_silk |  
+| bip_39_word_underscore_9 | hazard_kind_print_cactus_ignore_fatal_barely_silk_easily |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trumpet |  
+| bip_39_word_dash_10 | trumpet-eternal-tree-open-envelope-olympic-gospel-stereo-remember-task |  
+| bip_39_word_dash_11 | trumpet-eternal-tree-open-envelope-olympic-gospel-stereo-remember-task-arena |  
+| bip_39_word_dash_12 | trumpet-eternal-tree-open-envelope-olympic-gospel-stereo-remember-task-arena-among |  
+| bip_39_word_dash_2 | trumpet-eternal |  
+| bip_39_word_dash_3 | trumpet-eternal-tree |  
+| bip_39_word_dash_4 | trumpet-eternal-tree-open |  
+| bip_39_word_dash_5 | trumpet-eternal-tree-open-envelope |  
+| bip_39_word_dash_6 | trumpet-eternal-tree-open-envelope-olympic |  
+| bip_39_word_dash_7 | trumpet-eternal-tree-open-envelope-olympic-gospel |  
+| bip_39_word_dash_8 | trumpet-eternal-tree-open-envelope-olympic-gospel-stereo |  
+| bip_39_word_dash_9 | trumpet-eternal-tree-open-envelope-olympic-gospel-stereo-remember |  
 | bip_39_word_new_br_1 | trumpet |  
 | bip_39_word_new_br_10 | trumpet<br>eternal<br>tree<br>open<br>envelope<br>olympic<br>gospel<br>stereo<br>remember<br>task |  
 | bip_39_word_new_br_11 | trumpet<br>eternal<br>tree<br>open<br>envelope<br>olympic<br>gospel<br>stereo<br>remember<br>task<br>arena |  
@@ -147,6 +159,18 @@ remember |
 | bip_39_word_space_7 | trumpet eternal tree open envelope olympic gospel |  
 | bip_39_word_space_8 | trumpet eternal tree open envelope olympic gospel stereo |  
 | bip_39_word_space_9 | trumpet eternal tree open envelope olympic gospel stereo remember |  
+| bip_39_word_underscore_1 | trumpet |  
+| bip_39_word_underscore_10 | trumpet_eternal_tree_open_envelope_olympic_gospel_stereo_remember_task |  
+| bip_39_word_underscore_11 | trumpet_eternal_tree_open_envelope_olympic_gospel_stereo_remember_task_arena |  
+| bip_39_word_underscore_12 | trumpet_eternal_tree_open_envelope_olympic_gospel_stereo_remember_task_arena_among |  
+| bip_39_word_underscore_2 | trumpet_eternal |  
+| bip_39_word_underscore_3 | trumpet_eternal_tree |  
+| bip_39_word_underscore_4 | trumpet_eternal_tree_open |  
+| bip_39_word_underscore_5 | trumpet_eternal_tree_open_envelope |  
+| bip_39_word_underscore_6 | trumpet_eternal_tree_open_envelope_olympic |  
+| bip_39_word_underscore_7 | trumpet_eternal_tree_open_envelope_olympic_gospel |  
+| bip_39_word_underscore_8 | trumpet_eternal_tree_open_envelope_olympic_gospel_stereo |  
+| bip_39_word_underscore_9 | trumpet_eternal_tree_open_envelope_olympic_gospel_stereo_remember |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

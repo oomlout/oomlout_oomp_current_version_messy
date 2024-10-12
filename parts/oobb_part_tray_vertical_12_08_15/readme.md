@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nice |  
+| bip_39_word_dash_10 | nice-border-clump-safe-business-film-record-powder-brass-now |  
+| bip_39_word_dash_11 | nice-border-clump-safe-business-film-record-powder-brass-now-axis |  
+| bip_39_word_dash_12 | nice-border-clump-safe-business-film-record-powder-brass-now-axis-analyst |  
+| bip_39_word_dash_2 | nice-border |  
+| bip_39_word_dash_3 | nice-border-clump |  
+| bip_39_word_dash_4 | nice-border-clump-safe |  
+| bip_39_word_dash_5 | nice-border-clump-safe-business |  
+| bip_39_word_dash_6 | nice-border-clump-safe-business-film |  
+| bip_39_word_dash_7 | nice-border-clump-safe-business-film-record |  
+| bip_39_word_dash_8 | nice-border-clump-safe-business-film-record-powder |  
+| bip_39_word_dash_9 | nice-border-clump-safe-business-film-record-powder-brass |  
 | bip_39_word_new_br_1 | nice |  
 | bip_39_word_new_br_10 | nice<br>border<br>clump<br>safe<br>business<br>film<br>record<br>powder<br>brass<br>now |  
 | bip_39_word_new_br_11 | nice<br>border<br>clump<br>safe<br>business<br>film<br>record<br>powder<br>brass<br>now<br>axis |  
@@ -147,6 +159,18 @@ brass |
 | bip_39_word_space_7 | nice border clump safe business film record |  
 | bip_39_word_space_8 | nice border clump safe business film record powder |  
 | bip_39_word_space_9 | nice border clump safe business film record powder brass |  
+| bip_39_word_underscore_1 | nice |  
+| bip_39_word_underscore_10 | nice_border_clump_safe_business_film_record_powder_brass_now |  
+| bip_39_word_underscore_11 | nice_border_clump_safe_business_film_record_powder_brass_now_axis |  
+| bip_39_word_underscore_12 | nice_border_clump_safe_business_film_record_powder_brass_now_axis_analyst |  
+| bip_39_word_underscore_2 | nice_border |  
+| bip_39_word_underscore_3 | nice_border_clump |  
+| bip_39_word_underscore_4 | nice_border_clump_safe |  
+| bip_39_word_underscore_5 | nice_border_clump_safe_business |  
+| bip_39_word_underscore_6 | nice_border_clump_safe_business_film |  
+| bip_39_word_underscore_7 | nice_border_clump_safe_business_film_record |  
+| bip_39_word_underscore_8 | nice_border_clump_safe_business_film_record_powder |  
+| bip_39_word_underscore_9 | nice_border_clump_safe_business_film_record_powder_brass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

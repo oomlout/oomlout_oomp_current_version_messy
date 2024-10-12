@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fortune |  
+| bip_39_word_dash_10 | fortune-insect-language-avocado-prepare-cloth-satoshi-file-fault-brass |  
+| bip_39_word_dash_11 | fortune-insect-language-avocado-prepare-cloth-satoshi-file-fault-brass-accident |  
+| bip_39_word_dash_12 | fortune-insect-language-avocado-prepare-cloth-satoshi-file-fault-brass-accident-agent |  
+| bip_39_word_dash_2 | fortune-insect |  
+| bip_39_word_dash_3 | fortune-insect-language |  
+| bip_39_word_dash_4 | fortune-insect-language-avocado |  
+| bip_39_word_dash_5 | fortune-insect-language-avocado-prepare |  
+| bip_39_word_dash_6 | fortune-insect-language-avocado-prepare-cloth |  
+| bip_39_word_dash_7 | fortune-insect-language-avocado-prepare-cloth-satoshi |  
+| bip_39_word_dash_8 | fortune-insect-language-avocado-prepare-cloth-satoshi-file |  
+| bip_39_word_dash_9 | fortune-insect-language-avocado-prepare-cloth-satoshi-file-fault |  
 | bip_39_word_new_br_1 | fortune |  
 | bip_39_word_new_br_10 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file<br>fault<br>brass |  
 | bip_39_word_new_br_11 | fortune<br>insect<br>language<br>avocado<br>prepare<br>cloth<br>satoshi<br>file<br>fault<br>brass<br>accident |  
@@ -147,6 +159,18 @@ fault |
 | bip_39_word_space_7 | fortune insect language avocado prepare cloth satoshi |  
 | bip_39_word_space_8 | fortune insect language avocado prepare cloth satoshi file |  
 | bip_39_word_space_9 | fortune insect language avocado prepare cloth satoshi file fault |  
+| bip_39_word_underscore_1 | fortune |  
+| bip_39_word_underscore_10 | fortune_insect_language_avocado_prepare_cloth_satoshi_file_fault_brass |  
+| bip_39_word_underscore_11 | fortune_insect_language_avocado_prepare_cloth_satoshi_file_fault_brass_accident |  
+| bip_39_word_underscore_12 | fortune_insect_language_avocado_prepare_cloth_satoshi_file_fault_brass_accident_agent |  
+| bip_39_word_underscore_2 | fortune_insect |  
+| bip_39_word_underscore_3 | fortune_insect_language |  
+| bip_39_word_underscore_4 | fortune_insect_language_avocado |  
+| bip_39_word_underscore_5 | fortune_insect_language_avocado_prepare |  
+| bip_39_word_underscore_6 | fortune_insect_language_avocado_prepare_cloth |  
+| bip_39_word_underscore_7 | fortune_insect_language_avocado_prepare_cloth_satoshi |  
+| bip_39_word_underscore_8 | fortune_insect_language_avocado_prepare_cloth_satoshi_file |  
+| bip_39_word_underscore_9 | fortune_insect_language_avocado_prepare_cloth_satoshi_file_fault |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

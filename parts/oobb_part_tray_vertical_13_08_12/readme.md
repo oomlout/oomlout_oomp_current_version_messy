@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | often |  
+| bip_39_word_dash_10 | often-weapon-jewel-taste-essay-like-finger-load-buyer-faith |  
+| bip_39_word_dash_11 | often-weapon-jewel-taste-essay-like-finger-load-buyer-faith-anxiety |  
+| bip_39_word_dash_12 | often-weapon-jewel-taste-essay-like-finger-load-buyer-faith-anxiety-aisle |  
+| bip_39_word_dash_2 | often-weapon |  
+| bip_39_word_dash_3 | often-weapon-jewel |  
+| bip_39_word_dash_4 | often-weapon-jewel-taste |  
+| bip_39_word_dash_5 | often-weapon-jewel-taste-essay |  
+| bip_39_word_dash_6 | often-weapon-jewel-taste-essay-like |  
+| bip_39_word_dash_7 | often-weapon-jewel-taste-essay-like-finger |  
+| bip_39_word_dash_8 | often-weapon-jewel-taste-essay-like-finger-load |  
+| bip_39_word_dash_9 | often-weapon-jewel-taste-essay-like-finger-load-buyer |  
 | bip_39_word_new_br_1 | often |  
 | bip_39_word_new_br_10 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith |  
 | bip_39_word_new_br_11 | often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith<br>anxiety |  
@@ -147,6 +159,18 @@ buyer |
 | bip_39_word_space_7 | often weapon jewel taste essay like finger |  
 | bip_39_word_space_8 | often weapon jewel taste essay like finger load |  
 | bip_39_word_space_9 | often weapon jewel taste essay like finger load buyer |  
+| bip_39_word_underscore_1 | often |  
+| bip_39_word_underscore_10 | often_weapon_jewel_taste_essay_like_finger_load_buyer_faith |  
+| bip_39_word_underscore_11 | often_weapon_jewel_taste_essay_like_finger_load_buyer_faith_anxiety |  
+| bip_39_word_underscore_12 | often_weapon_jewel_taste_essay_like_finger_load_buyer_faith_anxiety_aisle |  
+| bip_39_word_underscore_2 | often_weapon |  
+| bip_39_word_underscore_3 | often_weapon_jewel |  
+| bip_39_word_underscore_4 | often_weapon_jewel_taste |  
+| bip_39_word_underscore_5 | often_weapon_jewel_taste_essay |  
+| bip_39_word_underscore_6 | often_weapon_jewel_taste_essay_like |  
+| bip_39_word_underscore_7 | often_weapon_jewel_taste_essay_like_finger |  
+| bip_39_word_underscore_8 | often_weapon_jewel_taste_essay_like_finger_load |  
+| bip_39_word_underscore_9 | often_weapon_jewel_taste_essay_like_finger_load_buyer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

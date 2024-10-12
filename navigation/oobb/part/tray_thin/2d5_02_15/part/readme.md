@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | use |  
+| bip_39_word_dash_10 | use-impose-lucky-live-ceiling-bomb-sadness-truck-mosquito-motor |  
+| bip_39_word_dash_11 | use-impose-lucky-live-ceiling-bomb-sadness-truck-mosquito-motor-list |  
+| bip_39_word_dash_12 | use-impose-lucky-live-ceiling-bomb-sadness-truck-mosquito-motor-list-actual |  
+| bip_39_word_dash_2 | use-impose |  
+| bip_39_word_dash_3 | use-impose-lucky |  
+| bip_39_word_dash_4 | use-impose-lucky-live |  
+| bip_39_word_dash_5 | use-impose-lucky-live-ceiling |  
+| bip_39_word_dash_6 | use-impose-lucky-live-ceiling-bomb |  
+| bip_39_word_dash_7 | use-impose-lucky-live-ceiling-bomb-sadness |  
+| bip_39_word_dash_8 | use-impose-lucky-live-ceiling-bomb-sadness-truck |  
+| bip_39_word_dash_9 | use-impose-lucky-live-ceiling-bomb-sadness-truck-mosquito |  
 | bip_39_word_new_br_1 | use |  
 | bip_39_word_new_br_10 | use<br>impose<br>lucky<br>live<br>ceiling<br>bomb<br>sadness<br>truck<br>mosquito<br>motor |  
 | bip_39_word_new_br_11 | use<br>impose<br>lucky<br>live<br>ceiling<br>bomb<br>sadness<br>truck<br>mosquito<br>motor<br>list |  
@@ -147,6 +159,18 @@ mosquito |
 | bip_39_word_space_7 | use impose lucky live ceiling bomb sadness |  
 | bip_39_word_space_8 | use impose lucky live ceiling bomb sadness truck |  
 | bip_39_word_space_9 | use impose lucky live ceiling bomb sadness truck mosquito |  
+| bip_39_word_underscore_1 | use |  
+| bip_39_word_underscore_10 | use_impose_lucky_live_ceiling_bomb_sadness_truck_mosquito_motor |  
+| bip_39_word_underscore_11 | use_impose_lucky_live_ceiling_bomb_sadness_truck_mosquito_motor_list |  
+| bip_39_word_underscore_12 | use_impose_lucky_live_ceiling_bomb_sadness_truck_mosquito_motor_list_actual |  
+| bip_39_word_underscore_2 | use_impose |  
+| bip_39_word_underscore_3 | use_impose_lucky |  
+| bip_39_word_underscore_4 | use_impose_lucky_live |  
+| bip_39_word_underscore_5 | use_impose_lucky_live_ceiling |  
+| bip_39_word_underscore_6 | use_impose_lucky_live_ceiling_bomb |  
+| bip_39_word_underscore_7 | use_impose_lucky_live_ceiling_bomb_sadness |  
+| bip_39_word_underscore_8 | use_impose_lucky_live_ceiling_bomb_sadness_truck |  
+| bip_39_word_underscore_9 | use_impose_lucky_live_ceiling_bomb_sadness_truck_mosquito |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

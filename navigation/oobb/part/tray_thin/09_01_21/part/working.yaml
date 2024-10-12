@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fossil
+bip_39_word_dash_10: fossil-approve-exhaust-economy-acid-assist-phrase-burden-scan-salute
+bip_39_word_dash_11: fossil-approve-exhaust-economy-acid-assist-phrase-burden-scan-salute-exhibit
+bip_39_word_dash_12: fossil-approve-exhaust-economy-acid-assist-phrase-burden-scan-salute-exhibit-ability
+bip_39_word_dash_2: fossil-approve
+bip_39_word_dash_3: fossil-approve-exhaust
+bip_39_word_dash_4: fossil-approve-exhaust-economy
+bip_39_word_dash_5: fossil-approve-exhaust-economy-acid
+bip_39_word_dash_6: fossil-approve-exhaust-economy-acid-assist
+bip_39_word_dash_7: fossil-approve-exhaust-economy-acid-assist-phrase
+bip_39_word_dash_8: fossil-approve-exhaust-economy-acid-assist-phrase-burden
+bip_39_word_dash_9: fossil-approve-exhaust-economy-acid-assist-phrase-burden-scan
 bip_39_word_new_br_1: fossil
 bip_39_word_new_br_10: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute
 bip_39_word_new_br_11: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute<br>exhibit
@@ -194,6 +206,18 @@ bip_39_word_space_6: fossil approve exhaust economy acid assist
 bip_39_word_space_7: fossil approve exhaust economy acid assist phrase
 bip_39_word_space_8: fossil approve exhaust economy acid assist phrase burden
 bip_39_word_space_9: fossil approve exhaust economy acid assist phrase burden scan
+bip_39_word_underscore_1: fossil
+bip_39_word_underscore_10: fossil_approve_exhaust_economy_acid_assist_phrase_burden_scan_salute
+bip_39_word_underscore_11: fossil_approve_exhaust_economy_acid_assist_phrase_burden_scan_salute_exhibit
+bip_39_word_underscore_12: fossil_approve_exhaust_economy_acid_assist_phrase_burden_scan_salute_exhibit_ability
+bip_39_word_underscore_2: fossil_approve
+bip_39_word_underscore_3: fossil_approve_exhaust
+bip_39_word_underscore_4: fossil_approve_exhaust_economy
+bip_39_word_underscore_5: fossil_approve_exhaust_economy_acid
+bip_39_word_underscore_6: fossil_approve_exhaust_economy_acid_assist
+bip_39_word_underscore_7: fossil_approve_exhaust_economy_acid_assist_phrase
+bip_39_word_underscore_8: fossil_approve_exhaust_economy_acid_assist_phrase_burden
+bip_39_word_underscore_9: fossil_approve_exhaust_economy_acid_assist_phrase_burden_scan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

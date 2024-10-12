@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cake |  
+| bip_39_word_dash_10 | cake-clever-caught-educate-label-mention-crucial-early-distance-hub |  
+| bip_39_word_dash_11 | cake-clever-caught-educate-label-mention-crucial-early-distance-hub-sand |  
+| bip_39_word_dash_12 | cake-clever-caught-educate-label-mention-crucial-early-distance-hub-sand-april |  
+| bip_39_word_dash_2 | cake-clever |  
+| bip_39_word_dash_3 | cake-clever-caught |  
+| bip_39_word_dash_4 | cake-clever-caught-educate |  
+| bip_39_word_dash_5 | cake-clever-caught-educate-label |  
+| bip_39_word_dash_6 | cake-clever-caught-educate-label-mention |  
+| bip_39_word_dash_7 | cake-clever-caught-educate-label-mention-crucial |  
+| bip_39_word_dash_8 | cake-clever-caught-educate-label-mention-crucial-early |  
+| bip_39_word_dash_9 | cake-clever-caught-educate-label-mention-crucial-early-distance |  
 | bip_39_word_new_br_1 | cake |  
 | bip_39_word_new_br_10 | cake<br>clever<br>caught<br>educate<br>label<br>mention<br>crucial<br>early<br>distance<br>hub |  
 | bip_39_word_new_br_11 | cake<br>clever<br>caught<br>educate<br>label<br>mention<br>crucial<br>early<br>distance<br>hub<br>sand |  
@@ -147,6 +159,18 @@ distance |
 | bip_39_word_space_7 | cake clever caught educate label mention crucial |  
 | bip_39_word_space_8 | cake clever caught educate label mention crucial early |  
 | bip_39_word_space_9 | cake clever caught educate label mention crucial early distance |  
+| bip_39_word_underscore_1 | cake |  
+| bip_39_word_underscore_10 | cake_clever_caught_educate_label_mention_crucial_early_distance_hub |  
+| bip_39_word_underscore_11 | cake_clever_caught_educate_label_mention_crucial_early_distance_hub_sand |  
+| bip_39_word_underscore_12 | cake_clever_caught_educate_label_mention_crucial_early_distance_hub_sand_april |  
+| bip_39_word_underscore_2 | cake_clever |  
+| bip_39_word_underscore_3 | cake_clever_caught |  
+| bip_39_word_underscore_4 | cake_clever_caught_educate |  
+| bip_39_word_underscore_5 | cake_clever_caught_educate_label |  
+| bip_39_word_underscore_6 | cake_clever_caught_educate_label_mention |  
+| bip_39_word_underscore_7 | cake_clever_caught_educate_label_mention_crucial |  
+| bip_39_word_underscore_8 | cake_clever_caught_educate_label_mention_crucial_early |  
+| bip_39_word_underscore_9 | cake_clever_caught_educate_label_mention_crucial_early_distance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

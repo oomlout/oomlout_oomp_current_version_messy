@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | approve |  
+| bip_39_word_dash_10 | approve-universe-motion-day-track-guess-evolve-stool-elegant-foil |  
+| bip_39_word_dash_11 | approve-universe-motion-day-track-guess-evolve-stool-elegant-foil-fancy |  
+| bip_39_word_dash_12 | approve-universe-motion-day-track-guess-evolve-stool-elegant-foil-fancy-adult |  
+| bip_39_word_dash_2 | approve-universe |  
+| bip_39_word_dash_3 | approve-universe-motion |  
+| bip_39_word_dash_4 | approve-universe-motion-day |  
+| bip_39_word_dash_5 | approve-universe-motion-day-track |  
+| bip_39_word_dash_6 | approve-universe-motion-day-track-guess |  
+| bip_39_word_dash_7 | approve-universe-motion-day-track-guess-evolve |  
+| bip_39_word_dash_8 | approve-universe-motion-day-track-guess-evolve-stool |  
+| bip_39_word_dash_9 | approve-universe-motion-day-track-guess-evolve-stool-elegant |  
 | bip_39_word_new_br_1 | approve |  
 | bip_39_word_new_br_10 | approve<br>universe<br>motion<br>day<br>track<br>guess<br>evolve<br>stool<br>elegant<br>foil |  
 | bip_39_word_new_br_11 | approve<br>universe<br>motion<br>day<br>track<br>guess<br>evolve<br>stool<br>elegant<br>foil<br>fancy |  
@@ -147,6 +159,18 @@ elegant |
 | bip_39_word_space_7 | approve universe motion day track guess evolve |  
 | bip_39_word_space_8 | approve universe motion day track guess evolve stool |  
 | bip_39_word_space_9 | approve universe motion day track guess evolve stool elegant |  
+| bip_39_word_underscore_1 | approve |  
+| bip_39_word_underscore_10 | approve_universe_motion_day_track_guess_evolve_stool_elegant_foil |  
+| bip_39_word_underscore_11 | approve_universe_motion_day_track_guess_evolve_stool_elegant_foil_fancy |  
+| bip_39_word_underscore_12 | approve_universe_motion_day_track_guess_evolve_stool_elegant_foil_fancy_adult |  
+| bip_39_word_underscore_2 | approve_universe |  
+| bip_39_word_underscore_3 | approve_universe_motion |  
+| bip_39_word_underscore_4 | approve_universe_motion_day |  
+| bip_39_word_underscore_5 | approve_universe_motion_day_track |  
+| bip_39_word_underscore_6 | approve_universe_motion_day_track_guess |  
+| bip_39_word_underscore_7 | approve_universe_motion_day_track_guess_evolve |  
+| bip_39_word_underscore_8 | approve_universe_motion_day_track_guess_evolve_stool |  
+| bip_39_word_underscore_9 | approve_universe_motion_day_track_guess_evolve_stool_elegant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | amazing |  
+| bip_39_word_dash_10 | amazing-predict-despair-mask-dignity-wave-shock-trend-never-adapt |  
+| bip_39_word_dash_11 | amazing-predict-despair-mask-dignity-wave-shock-trend-never-adapt-valid |  
+| bip_39_word_dash_12 | amazing-predict-despair-mask-dignity-wave-shock-trend-never-adapt-valid-army |  
+| bip_39_word_dash_2 | amazing-predict |  
+| bip_39_word_dash_3 | amazing-predict-despair |  
+| bip_39_word_dash_4 | amazing-predict-despair-mask |  
+| bip_39_word_dash_5 | amazing-predict-despair-mask-dignity |  
+| bip_39_word_dash_6 | amazing-predict-despair-mask-dignity-wave |  
+| bip_39_word_dash_7 | amazing-predict-despair-mask-dignity-wave-shock |  
+| bip_39_word_dash_8 | amazing-predict-despair-mask-dignity-wave-shock-trend |  
+| bip_39_word_dash_9 | amazing-predict-despair-mask-dignity-wave-shock-trend-never |  
 | bip_39_word_new_br_1 | amazing |  
 | bip_39_word_new_br_10 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend<br>never<br>adapt |  
 | bip_39_word_new_br_11 | amazing<br>predict<br>despair<br>mask<br>dignity<br>wave<br>shock<br>trend<br>never<br>adapt<br>valid |  
@@ -147,6 +159,18 @@ never |
 | bip_39_word_space_7 | amazing predict despair mask dignity wave shock |  
 | bip_39_word_space_8 | amazing predict despair mask dignity wave shock trend |  
 | bip_39_word_space_9 | amazing predict despair mask dignity wave shock trend never |  
+| bip_39_word_underscore_1 | amazing |  
+| bip_39_word_underscore_10 | amazing_predict_despair_mask_dignity_wave_shock_trend_never_adapt |  
+| bip_39_word_underscore_11 | amazing_predict_despair_mask_dignity_wave_shock_trend_never_adapt_valid |  
+| bip_39_word_underscore_12 | amazing_predict_despair_mask_dignity_wave_shock_trend_never_adapt_valid_army |  
+| bip_39_word_underscore_2 | amazing_predict |  
+| bip_39_word_underscore_3 | amazing_predict_despair |  
+| bip_39_word_underscore_4 | amazing_predict_despair_mask |  
+| bip_39_word_underscore_5 | amazing_predict_despair_mask_dignity |  
+| bip_39_word_underscore_6 | amazing_predict_despair_mask_dignity_wave |  
+| bip_39_word_underscore_7 | amazing_predict_despair_mask_dignity_wave_shock |  
+| bip_39_word_underscore_8 | amazing_predict_despair_mask_dignity_wave_shock_trend |  
+| bip_39_word_underscore_9 | amazing_predict_despair_mask_dignity_wave_shock_trend_never |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

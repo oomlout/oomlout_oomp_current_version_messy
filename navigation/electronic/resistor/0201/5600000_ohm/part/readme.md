@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | phrase |  
+| bip_39_word_dash_10 | phrase-vast-husband-play-worth-clap-spend-pilot-gather-spawn |  
+| bip_39_word_dash_11 | phrase-vast-husband-play-worth-clap-spend-pilot-gather-spawn-asthma |  
+| bip_39_word_dash_12 | phrase-vast-husband-play-worth-clap-spend-pilot-gather-spawn-asthma-assist |  
+| bip_39_word_dash_2 | phrase-vast |  
+| bip_39_word_dash_3 | phrase-vast-husband |  
+| bip_39_word_dash_4 | phrase-vast-husband-play |  
+| bip_39_word_dash_5 | phrase-vast-husband-play-worth |  
+| bip_39_word_dash_6 | phrase-vast-husband-play-worth-clap |  
+| bip_39_word_dash_7 | phrase-vast-husband-play-worth-clap-spend |  
+| bip_39_word_dash_8 | phrase-vast-husband-play-worth-clap-spend-pilot |  
+| bip_39_word_dash_9 | phrase-vast-husband-play-worth-clap-spend-pilot-gather |  
 | bip_39_word_new_br_1 | phrase |  
 | bip_39_word_new_br_10 | phrase<br>vast<br>husband<br>play<br>worth<br>clap<br>spend<br>pilot<br>gather<br>spawn |  
 | bip_39_word_new_br_11 | phrase<br>vast<br>husband<br>play<br>worth<br>clap<br>spend<br>pilot<br>gather<br>spawn<br>asthma |  
@@ -147,6 +159,18 @@ gather |
 | bip_39_word_space_7 | phrase vast husband play worth clap spend |  
 | bip_39_word_space_8 | phrase vast husband play worth clap spend pilot |  
 | bip_39_word_space_9 | phrase vast husband play worth clap spend pilot gather |  
+| bip_39_word_underscore_1 | phrase |  
+| bip_39_word_underscore_10 | phrase_vast_husband_play_worth_clap_spend_pilot_gather_spawn |  
+| bip_39_word_underscore_11 | phrase_vast_husband_play_worth_clap_spend_pilot_gather_spawn_asthma |  
+| bip_39_word_underscore_12 | phrase_vast_husband_play_worth_clap_spend_pilot_gather_spawn_asthma_assist |  
+| bip_39_word_underscore_2 | phrase_vast |  
+| bip_39_word_underscore_3 | phrase_vast_husband |  
+| bip_39_word_underscore_4 | phrase_vast_husband_play |  
+| bip_39_word_underscore_5 | phrase_vast_husband_play_worth |  
+| bip_39_word_underscore_6 | phrase_vast_husband_play_worth_clap |  
+| bip_39_word_underscore_7 | phrase_vast_husband_play_worth_clap_spend |  
+| bip_39_word_underscore_8 | phrase_vast_husband_play_worth_clap_spend_pilot |  
+| bip_39_word_underscore_9 | phrase_vast_husband_play_worth_clap_spend_pilot_gather |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

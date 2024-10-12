@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | door |  
+| bip_39_word_dash_10 | door-unknown-hip-zoo-decorate-athlete-side-damp-regular-avoid |  
+| bip_39_word_dash_11 | door-unknown-hip-zoo-decorate-athlete-side-damp-regular-avoid-gauge |  
+| bip_39_word_dash_12 | door-unknown-hip-zoo-decorate-athlete-side-damp-regular-avoid-gauge-across |  
+| bip_39_word_dash_2 | door-unknown |  
+| bip_39_word_dash_3 | door-unknown-hip |  
+| bip_39_word_dash_4 | door-unknown-hip-zoo |  
+| bip_39_word_dash_5 | door-unknown-hip-zoo-decorate |  
+| bip_39_word_dash_6 | door-unknown-hip-zoo-decorate-athlete |  
+| bip_39_word_dash_7 | door-unknown-hip-zoo-decorate-athlete-side |  
+| bip_39_word_dash_8 | door-unknown-hip-zoo-decorate-athlete-side-damp |  
+| bip_39_word_dash_9 | door-unknown-hip-zoo-decorate-athlete-side-damp-regular |  
 | bip_39_word_new_br_1 | door |  
 | bip_39_word_new_br_10 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid |  
 | bip_39_word_new_br_11 | door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid<br>gauge |  
@@ -147,6 +159,18 @@ regular |
 | bip_39_word_space_7 | door unknown hip zoo decorate athlete side |  
 | bip_39_word_space_8 | door unknown hip zoo decorate athlete side damp |  
 | bip_39_word_space_9 | door unknown hip zoo decorate athlete side damp regular |  
+| bip_39_word_underscore_1 | door |  
+| bip_39_word_underscore_10 | door_unknown_hip_zoo_decorate_athlete_side_damp_regular_avoid |  
+| bip_39_word_underscore_11 | door_unknown_hip_zoo_decorate_athlete_side_damp_regular_avoid_gauge |  
+| bip_39_word_underscore_12 | door_unknown_hip_zoo_decorate_athlete_side_damp_regular_avoid_gauge_across |  
+| bip_39_word_underscore_2 | door_unknown |  
+| bip_39_word_underscore_3 | door_unknown_hip |  
+| bip_39_word_underscore_4 | door_unknown_hip_zoo |  
+| bip_39_word_underscore_5 | door_unknown_hip_zoo_decorate |  
+| bip_39_word_underscore_6 | door_unknown_hip_zoo_decorate_athlete |  
+| bip_39_word_underscore_7 | door_unknown_hip_zoo_decorate_athlete_side |  
+| bip_39_word_underscore_8 | door_unknown_hip_zoo_decorate_athlete_side_damp |  
+| bip_39_word_underscore_9 | door_unknown_hip_zoo_decorate_athlete_side_damp_regular |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

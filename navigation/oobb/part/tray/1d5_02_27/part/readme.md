@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frost |  
+| bip_39_word_dash_10 | frost-attitude-purity-december-pencil-topple-copy-teach-excuse-treat |  
+| bip_39_word_dash_11 | frost-attitude-purity-december-pencil-topple-copy-teach-excuse-treat-truth |  
+| bip_39_word_dash_12 | frost-attitude-purity-december-pencil-topple-copy-teach-excuse-treat-truth-acquire |  
+| bip_39_word_dash_2 | frost-attitude |  
+| bip_39_word_dash_3 | frost-attitude-purity |  
+| bip_39_word_dash_4 | frost-attitude-purity-december |  
+| bip_39_word_dash_5 | frost-attitude-purity-december-pencil |  
+| bip_39_word_dash_6 | frost-attitude-purity-december-pencil-topple |  
+| bip_39_word_dash_7 | frost-attitude-purity-december-pencil-topple-copy |  
+| bip_39_word_dash_8 | frost-attitude-purity-december-pencil-topple-copy-teach |  
+| bip_39_word_dash_9 | frost-attitude-purity-december-pencil-topple-copy-teach-excuse |  
 | bip_39_word_new_br_1 | frost |  
 | bip_39_word_new_br_10 | frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach<br>excuse<br>treat |  
 | bip_39_word_new_br_11 | frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach<br>excuse<br>treat<br>truth |  
@@ -147,6 +159,18 @@ excuse |
 | bip_39_word_space_7 | frost attitude purity december pencil topple copy |  
 | bip_39_word_space_8 | frost attitude purity december pencil topple copy teach |  
 | bip_39_word_space_9 | frost attitude purity december pencil topple copy teach excuse |  
+| bip_39_word_underscore_1 | frost |  
+| bip_39_word_underscore_10 | frost_attitude_purity_december_pencil_topple_copy_teach_excuse_treat |  
+| bip_39_word_underscore_11 | frost_attitude_purity_december_pencil_topple_copy_teach_excuse_treat_truth |  
+| bip_39_word_underscore_12 | frost_attitude_purity_december_pencil_topple_copy_teach_excuse_treat_truth_acquire |  
+| bip_39_word_underscore_2 | frost_attitude |  
+| bip_39_word_underscore_3 | frost_attitude_purity |  
+| bip_39_word_underscore_4 | frost_attitude_purity_december |  
+| bip_39_word_underscore_5 | frost_attitude_purity_december_pencil |  
+| bip_39_word_underscore_6 | frost_attitude_purity_december_pencil_topple |  
+| bip_39_word_underscore_7 | frost_attitude_purity_december_pencil_topple_copy |  
+| bip_39_word_underscore_8 | frost_attitude_purity_december_pencil_topple_copy_teach |  
+| bip_39_word_underscore_9 | frost_attitude_purity_december_pencil_topple_copy_teach_excuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

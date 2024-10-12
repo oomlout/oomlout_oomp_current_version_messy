@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decline |  
+| bip_39_word_dash_10 | decline-cream-fold-write-split-crunch-viable-chat-alley-hold |  
+| bip_39_word_dash_11 | decline-cream-fold-write-split-crunch-viable-chat-alley-hold-blanket |  
+| bip_39_word_dash_12 | decline-cream-fold-write-split-crunch-viable-chat-alley-hold-blanket-auto |  
+| bip_39_word_dash_2 | decline-cream |  
+| bip_39_word_dash_3 | decline-cream-fold |  
+| bip_39_word_dash_4 | decline-cream-fold-write |  
+| bip_39_word_dash_5 | decline-cream-fold-write-split |  
+| bip_39_word_dash_6 | decline-cream-fold-write-split-crunch |  
+| bip_39_word_dash_7 | decline-cream-fold-write-split-crunch-viable |  
+| bip_39_word_dash_8 | decline-cream-fold-write-split-crunch-viable-chat |  
+| bip_39_word_dash_9 | decline-cream-fold-write-split-crunch-viable-chat-alley |  
 | bip_39_word_new_br_1 | decline |  
 | bip_39_word_new_br_10 | decline<br>cream<br>fold<br>write<br>split<br>crunch<br>viable<br>chat<br>alley<br>hold |  
 | bip_39_word_new_br_11 | decline<br>cream<br>fold<br>write<br>split<br>crunch<br>viable<br>chat<br>alley<br>hold<br>blanket |  
@@ -147,6 +159,18 @@ alley |
 | bip_39_word_space_7 | decline cream fold write split crunch viable |  
 | bip_39_word_space_8 | decline cream fold write split crunch viable chat |  
 | bip_39_word_space_9 | decline cream fold write split crunch viable chat alley |  
+| bip_39_word_underscore_1 | decline |  
+| bip_39_word_underscore_10 | decline_cream_fold_write_split_crunch_viable_chat_alley_hold |  
+| bip_39_word_underscore_11 | decline_cream_fold_write_split_crunch_viable_chat_alley_hold_blanket |  
+| bip_39_word_underscore_12 | decline_cream_fold_write_split_crunch_viable_chat_alley_hold_blanket_auto |  
+| bip_39_word_underscore_2 | decline_cream |  
+| bip_39_word_underscore_3 | decline_cream_fold |  
+| bip_39_word_underscore_4 | decline_cream_fold_write |  
+| bip_39_word_underscore_5 | decline_cream_fold_write_split |  
+| bip_39_word_underscore_6 | decline_cream_fold_write_split_crunch |  
+| bip_39_word_underscore_7 | decline_cream_fold_write_split_crunch_viable |  
+| bip_39_word_underscore_8 | decline_cream_fold_write_split_crunch_viable_chat |  
+| bip_39_word_underscore_9 | decline_cream_fold_write_split_crunch_viable_chat_alley |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

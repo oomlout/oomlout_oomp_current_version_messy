@@ -1,3 +1,15 @@
+bip_39_word_dash_1: honey
+bip_39_word_dash_10: honey-foster-lady-answer-surface-beyond-amount-dial-birth-system
+bip_39_word_dash_11: honey-foster-lady-answer-surface-beyond-amount-dial-birth-system-depend
+bip_39_word_dash_12: honey-foster-lady-answer-surface-beyond-amount-dial-birth-system-depend-aisle
+bip_39_word_dash_2: honey-foster
+bip_39_word_dash_3: honey-foster-lady
+bip_39_word_dash_4: honey-foster-lady-answer
+bip_39_word_dash_5: honey-foster-lady-answer-surface
+bip_39_word_dash_6: honey-foster-lady-answer-surface-beyond
+bip_39_word_dash_7: honey-foster-lady-answer-surface-beyond-amount
+bip_39_word_dash_8: honey-foster-lady-answer-surface-beyond-amount-dial
+bip_39_word_dash_9: honey-foster-lady-answer-surface-beyond-amount-dial-birth
 bip_39_word_new_br_1: honey
 bip_39_word_new_br_10: honey<br>foster<br>lady<br>answer<br>surface<br>beyond<br>amount<br>dial<br>birth<br>system
 bip_39_word_new_br_11: honey<br>foster<br>lady<br>answer<br>surface<br>beyond<br>amount<br>dial<br>birth<br>system<br>depend
@@ -193,6 +205,18 @@ bip_39_word_space_6: honey foster lady answer surface beyond
 bip_39_word_space_7: honey foster lady answer surface beyond amount
 bip_39_word_space_8: honey foster lady answer surface beyond amount dial
 bip_39_word_space_9: honey foster lady answer surface beyond amount dial birth
+bip_39_word_underscore_1: honey
+bip_39_word_underscore_10: honey_foster_lady_answer_surface_beyond_amount_dial_birth_system
+bip_39_word_underscore_11: honey_foster_lady_answer_surface_beyond_amount_dial_birth_system_depend
+bip_39_word_underscore_12: honey_foster_lady_answer_surface_beyond_amount_dial_birth_system_depend_aisle
+bip_39_word_underscore_2: honey_foster
+bip_39_word_underscore_3: honey_foster_lady
+bip_39_word_underscore_4: honey_foster_lady_answer
+bip_39_word_underscore_5: honey_foster_lady_answer_surface
+bip_39_word_underscore_6: honey_foster_lady_answer_surface_beyond
+bip_39_word_underscore_7: honey_foster_lady_answer_surface_beyond_amount
+bip_39_word_underscore_8: honey_foster_lady_answer_surface_beyond_amount_dial
+bip_39_word_underscore_9: honey_foster_lady_answer_surface_beyond_amount_dial_birth
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

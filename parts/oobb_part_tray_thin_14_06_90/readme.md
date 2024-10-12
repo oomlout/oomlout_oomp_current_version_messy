@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | estate |  
+| bip_39_word_dash_10 | estate-typical-taxi-move-quantum-hidden-divide-arrive-random-gown |  
+| bip_39_word_dash_11 | estate-typical-taxi-move-quantum-hidden-divide-arrive-random-gown-shy |  
+| bip_39_word_dash_12 | estate-typical-taxi-move-quantum-hidden-divide-arrive-random-gown-shy-across |  
+| bip_39_word_dash_2 | estate-typical |  
+| bip_39_word_dash_3 | estate-typical-taxi |  
+| bip_39_word_dash_4 | estate-typical-taxi-move |  
+| bip_39_word_dash_5 | estate-typical-taxi-move-quantum |  
+| bip_39_word_dash_6 | estate-typical-taxi-move-quantum-hidden |  
+| bip_39_word_dash_7 | estate-typical-taxi-move-quantum-hidden-divide |  
+| bip_39_word_dash_8 | estate-typical-taxi-move-quantum-hidden-divide-arrive |  
+| bip_39_word_dash_9 | estate-typical-taxi-move-quantum-hidden-divide-arrive-random |  
 | bip_39_word_new_br_1 | estate |  
 | bip_39_word_new_br_10 | estate<br>typical<br>taxi<br>move<br>quantum<br>hidden<br>divide<br>arrive<br>random<br>gown |  
 | bip_39_word_new_br_11 | estate<br>typical<br>taxi<br>move<br>quantum<br>hidden<br>divide<br>arrive<br>random<br>gown<br>shy |  
@@ -147,6 +159,18 @@ random |
 | bip_39_word_space_7 | estate typical taxi move quantum hidden divide |  
 | bip_39_word_space_8 | estate typical taxi move quantum hidden divide arrive |  
 | bip_39_word_space_9 | estate typical taxi move quantum hidden divide arrive random |  
+| bip_39_word_underscore_1 | estate |  
+| bip_39_word_underscore_10 | estate_typical_taxi_move_quantum_hidden_divide_arrive_random_gown |  
+| bip_39_word_underscore_11 | estate_typical_taxi_move_quantum_hidden_divide_arrive_random_gown_shy |  
+| bip_39_word_underscore_12 | estate_typical_taxi_move_quantum_hidden_divide_arrive_random_gown_shy_across |  
+| bip_39_word_underscore_2 | estate_typical |  
+| bip_39_word_underscore_3 | estate_typical_taxi |  
+| bip_39_word_underscore_4 | estate_typical_taxi_move |  
+| bip_39_word_underscore_5 | estate_typical_taxi_move_quantum |  
+| bip_39_word_underscore_6 | estate_typical_taxi_move_quantum_hidden |  
+| bip_39_word_underscore_7 | estate_typical_taxi_move_quantum_hidden_divide |  
+| bip_39_word_underscore_8 | estate_typical_taxi_move_quantum_hidden_divide_arrive |  
+| bip_39_word_underscore_9 | estate_typical_taxi_move_quantum_hidden_divide_arrive_random |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

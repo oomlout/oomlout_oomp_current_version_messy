@@ -1,3 +1,15 @@
+bip_39_word_dash_1: weird
+bip_39_word_dash_10: weird-help-toast-village-toddler-search-deliver-draw-dumb-cargo
+bip_39_word_dash_11: weird-help-toast-village-toddler-search-deliver-draw-dumb-cargo-sick
+bip_39_word_dash_12: weird-help-toast-village-toddler-search-deliver-draw-dumb-cargo-sick-author
+bip_39_word_dash_2: weird-help
+bip_39_word_dash_3: weird-help-toast
+bip_39_word_dash_4: weird-help-toast-village
+bip_39_word_dash_5: weird-help-toast-village-toddler
+bip_39_word_dash_6: weird-help-toast-village-toddler-search
+bip_39_word_dash_7: weird-help-toast-village-toddler-search-deliver
+bip_39_word_dash_8: weird-help-toast-village-toddler-search-deliver-draw
+bip_39_word_dash_9: weird-help-toast-village-toddler-search-deliver-draw-dumb
 bip_39_word_new_br_1: weird
 bip_39_word_new_br_10: weird<br>help<br>toast<br>village<br>toddler<br>search<br>deliver<br>draw<br>dumb<br>cargo
 bip_39_word_new_br_11: weird<br>help<br>toast<br>village<br>toddler<br>search<br>deliver<br>draw<br>dumb<br>cargo<br>sick
@@ -193,6 +205,18 @@ bip_39_word_space_6: weird help toast village toddler search
 bip_39_word_space_7: weird help toast village toddler search deliver
 bip_39_word_space_8: weird help toast village toddler search deliver draw
 bip_39_word_space_9: weird help toast village toddler search deliver draw dumb
+bip_39_word_underscore_1: weird
+bip_39_word_underscore_10: weird_help_toast_village_toddler_search_deliver_draw_dumb_cargo
+bip_39_word_underscore_11: weird_help_toast_village_toddler_search_deliver_draw_dumb_cargo_sick
+bip_39_word_underscore_12: weird_help_toast_village_toddler_search_deliver_draw_dumb_cargo_sick_author
+bip_39_word_underscore_2: weird_help
+bip_39_word_underscore_3: weird_help_toast
+bip_39_word_underscore_4: weird_help_toast_village
+bip_39_word_underscore_5: weird_help_toast_village_toddler
+bip_39_word_underscore_6: weird_help_toast_village_toddler_search
+bip_39_word_underscore_7: weird_help_toast_village_toddler_search_deliver
+bip_39_word_underscore_8: weird_help_toast_village_toddler_search_deliver_draw
+bip_39_word_underscore_9: weird_help_toast_village_toddler_search_deliver_draw_dumb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

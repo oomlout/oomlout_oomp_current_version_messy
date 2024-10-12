@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spice |  
+| bip_39_word_dash_10 | spice-stock-route-expose-deny-cave-survey-tag-giraffe-flag |  
+| bip_39_word_dash_11 | spice-stock-route-expose-deny-cave-survey-tag-giraffe-flag-sample |  
+| bip_39_word_dash_12 | spice-stock-route-expose-deny-cave-survey-tag-giraffe-flag-sample-attend |  
+| bip_39_word_dash_2 | spice-stock |  
+| bip_39_word_dash_3 | spice-stock-route |  
+| bip_39_word_dash_4 | spice-stock-route-expose |  
+| bip_39_word_dash_5 | spice-stock-route-expose-deny |  
+| bip_39_word_dash_6 | spice-stock-route-expose-deny-cave |  
+| bip_39_word_dash_7 | spice-stock-route-expose-deny-cave-survey |  
+| bip_39_word_dash_8 | spice-stock-route-expose-deny-cave-survey-tag |  
+| bip_39_word_dash_9 | spice-stock-route-expose-deny-cave-survey-tag-giraffe |  
 | bip_39_word_new_br_1 | spice |  
 | bip_39_word_new_br_10 | spice<br>stock<br>route<br>expose<br>deny<br>cave<br>survey<br>tag<br>giraffe<br>flag |  
 | bip_39_word_new_br_11 | spice<br>stock<br>route<br>expose<br>deny<br>cave<br>survey<br>tag<br>giraffe<br>flag<br>sample |  
@@ -147,6 +159,18 @@ giraffe |
 | bip_39_word_space_7 | spice stock route expose deny cave survey |  
 | bip_39_word_space_8 | spice stock route expose deny cave survey tag |  
 | bip_39_word_space_9 | spice stock route expose deny cave survey tag giraffe |  
+| bip_39_word_underscore_1 | spice |  
+| bip_39_word_underscore_10 | spice_stock_route_expose_deny_cave_survey_tag_giraffe_flag |  
+| bip_39_word_underscore_11 | spice_stock_route_expose_deny_cave_survey_tag_giraffe_flag_sample |  
+| bip_39_word_underscore_12 | spice_stock_route_expose_deny_cave_survey_tag_giraffe_flag_sample_attend |  
+| bip_39_word_underscore_2 | spice_stock |  
+| bip_39_word_underscore_3 | spice_stock_route |  
+| bip_39_word_underscore_4 | spice_stock_route_expose |  
+| bip_39_word_underscore_5 | spice_stock_route_expose_deny |  
+| bip_39_word_underscore_6 | spice_stock_route_expose_deny_cave |  
+| bip_39_word_underscore_7 | spice_stock_route_expose_deny_cave_survey |  
+| bip_39_word_underscore_8 | spice_stock_route_expose_deny_cave_survey_tag |  
+| bip_39_word_underscore_9 | spice_stock_route_expose_deny_cave_survey_tag_giraffe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

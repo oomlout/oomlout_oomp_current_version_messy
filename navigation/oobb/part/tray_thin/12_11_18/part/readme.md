@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | when |  
+| bip_39_word_dash_10 | when-gather-snack-play-enforce-thought-drum-exclude-hazard-lunar |  
+| bip_39_word_dash_11 | when-gather-snack-play-enforce-thought-drum-exclude-hazard-lunar-nature |  
+| bip_39_word_dash_12 | when-gather-snack-play-enforce-thought-drum-exclude-hazard-lunar-nature-add |  
+| bip_39_word_dash_2 | when-gather |  
+| bip_39_word_dash_3 | when-gather-snack |  
+| bip_39_word_dash_4 | when-gather-snack-play |  
+| bip_39_word_dash_5 | when-gather-snack-play-enforce |  
+| bip_39_word_dash_6 | when-gather-snack-play-enforce-thought |  
+| bip_39_word_dash_7 | when-gather-snack-play-enforce-thought-drum |  
+| bip_39_word_dash_8 | when-gather-snack-play-enforce-thought-drum-exclude |  
+| bip_39_word_dash_9 | when-gather-snack-play-enforce-thought-drum-exclude-hazard |  
 | bip_39_word_new_br_1 | when |  
 | bip_39_word_new_br_10 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar |  
 | bip_39_word_new_br_11 | when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar<br>nature |  
@@ -147,6 +159,18 @@ hazard |
 | bip_39_word_space_7 | when gather snack play enforce thought drum |  
 | bip_39_word_space_8 | when gather snack play enforce thought drum exclude |  
 | bip_39_word_space_9 | when gather snack play enforce thought drum exclude hazard |  
+| bip_39_word_underscore_1 | when |  
+| bip_39_word_underscore_10 | when_gather_snack_play_enforce_thought_drum_exclude_hazard_lunar |  
+| bip_39_word_underscore_11 | when_gather_snack_play_enforce_thought_drum_exclude_hazard_lunar_nature |  
+| bip_39_word_underscore_12 | when_gather_snack_play_enforce_thought_drum_exclude_hazard_lunar_nature_add |  
+| bip_39_word_underscore_2 | when_gather |  
+| bip_39_word_underscore_3 | when_gather_snack |  
+| bip_39_word_underscore_4 | when_gather_snack_play |  
+| bip_39_word_underscore_5 | when_gather_snack_play_enforce |  
+| bip_39_word_underscore_6 | when_gather_snack_play_enforce_thought |  
+| bip_39_word_underscore_7 | when_gather_snack_play_enforce_thought_drum |  
+| bip_39_word_underscore_8 | when_gather_snack_play_enforce_thought_drum_exclude |  
+| bip_39_word_underscore_9 | when_gather_snack_play_enforce_thought_drum_exclude_hazard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

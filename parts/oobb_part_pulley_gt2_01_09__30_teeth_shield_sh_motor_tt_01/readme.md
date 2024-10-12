@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aware |  
+| bip_39_word_dash_10 | aware-month-improve-few-thank-merit-prosper-coyote-bacon-fringe |  
+| bip_39_word_dash_11 | aware-month-improve-few-thank-merit-prosper-coyote-bacon-fringe-thunder |  
+| bip_39_word_dash_12 | aware-month-improve-few-thank-merit-prosper-coyote-bacon-fringe-thunder-abstract |  
+| bip_39_word_dash_2 | aware-month |  
+| bip_39_word_dash_3 | aware-month-improve |  
+| bip_39_word_dash_4 | aware-month-improve-few |  
+| bip_39_word_dash_5 | aware-month-improve-few-thank |  
+| bip_39_word_dash_6 | aware-month-improve-few-thank-merit |  
+| bip_39_word_dash_7 | aware-month-improve-few-thank-merit-prosper |  
+| bip_39_word_dash_8 | aware-month-improve-few-thank-merit-prosper-coyote |  
+| bip_39_word_dash_9 | aware-month-improve-few-thank-merit-prosper-coyote-bacon |  
 | bip_39_word_new_br_1 | aware |  
 | bip_39_word_new_br_10 | aware<br>month<br>improve<br>few<br>thank<br>merit<br>prosper<br>coyote<br>bacon<br>fringe |  
 | bip_39_word_new_br_11 | aware<br>month<br>improve<br>few<br>thank<br>merit<br>prosper<br>coyote<br>bacon<br>fringe<br>thunder |  
@@ -147,6 +159,18 @@ bacon |
 | bip_39_word_space_7 | aware month improve few thank merit prosper |  
 | bip_39_word_space_8 | aware month improve few thank merit prosper coyote |  
 | bip_39_word_space_9 | aware month improve few thank merit prosper coyote bacon |  
+| bip_39_word_underscore_1 | aware |  
+| bip_39_word_underscore_10 | aware_month_improve_few_thank_merit_prosper_coyote_bacon_fringe |  
+| bip_39_word_underscore_11 | aware_month_improve_few_thank_merit_prosper_coyote_bacon_fringe_thunder |  
+| bip_39_word_underscore_12 | aware_month_improve_few_thank_merit_prosper_coyote_bacon_fringe_thunder_abstract |  
+| bip_39_word_underscore_2 | aware_month |  
+| bip_39_word_underscore_3 | aware_month_improve |  
+| bip_39_word_underscore_4 | aware_month_improve_few |  
+| bip_39_word_underscore_5 | aware_month_improve_few_thank |  
+| bip_39_word_underscore_6 | aware_month_improve_few_thank_merit |  
+| bip_39_word_underscore_7 | aware_month_improve_few_thank_merit_prosper |  
+| bip_39_word_underscore_8 | aware_month_improve_few_thank_merit_prosper_coyote |  
+| bip_39_word_underscore_9 | aware_month_improve_few_thank_merit_prosper_coyote_bacon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

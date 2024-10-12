@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | often |  
+| bip_39_word_dash_10 | often-wheel-ranch-menu-exact-lecture-undo-correct-please-meat |  
+| bip_39_word_dash_11 | often-wheel-ranch-menu-exact-lecture-undo-correct-please-meat-answer |  
+| bip_39_word_dash_12 | often-wheel-ranch-menu-exact-lecture-undo-correct-please-meat-answer-area |  
+| bip_39_word_dash_2 | often-wheel |  
+| bip_39_word_dash_3 | often-wheel-ranch |  
+| bip_39_word_dash_4 | often-wheel-ranch-menu |  
+| bip_39_word_dash_5 | often-wheel-ranch-menu-exact |  
+| bip_39_word_dash_6 | often-wheel-ranch-menu-exact-lecture |  
+| bip_39_word_dash_7 | often-wheel-ranch-menu-exact-lecture-undo |  
+| bip_39_word_dash_8 | often-wheel-ranch-menu-exact-lecture-undo-correct |  
+| bip_39_word_dash_9 | often-wheel-ranch-menu-exact-lecture-undo-correct-please |  
 | bip_39_word_new_br_1 | often |  
 | bip_39_word_new_br_10 | often<br>wheel<br>ranch<br>menu<br>exact<br>lecture<br>undo<br>correct<br>please<br>meat |  
 | bip_39_word_new_br_11 | often<br>wheel<br>ranch<br>menu<br>exact<br>lecture<br>undo<br>correct<br>please<br>meat<br>answer |  
@@ -147,6 +159,18 @@ please |
 | bip_39_word_space_7 | often wheel ranch menu exact lecture undo |  
 | bip_39_word_space_8 | often wheel ranch menu exact lecture undo correct |  
 | bip_39_word_space_9 | often wheel ranch menu exact lecture undo correct please |  
+| bip_39_word_underscore_1 | often |  
+| bip_39_word_underscore_10 | often_wheel_ranch_menu_exact_lecture_undo_correct_please_meat |  
+| bip_39_word_underscore_11 | often_wheel_ranch_menu_exact_lecture_undo_correct_please_meat_answer |  
+| bip_39_word_underscore_12 | often_wheel_ranch_menu_exact_lecture_undo_correct_please_meat_answer_area |  
+| bip_39_word_underscore_2 | often_wheel |  
+| bip_39_word_underscore_3 | often_wheel_ranch |  
+| bip_39_word_underscore_4 | often_wheel_ranch_menu |  
+| bip_39_word_underscore_5 | often_wheel_ranch_menu_exact |  
+| bip_39_word_underscore_6 | often_wheel_ranch_menu_exact_lecture |  
+| bip_39_word_underscore_7 | often_wheel_ranch_menu_exact_lecture_undo |  
+| bip_39_word_underscore_8 | often_wheel_ranch_menu_exact_lecture_undo_correct |  
+| bip_39_word_underscore_9 | often_wheel_ranch_menu_exact_lecture_undo_correct_please |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

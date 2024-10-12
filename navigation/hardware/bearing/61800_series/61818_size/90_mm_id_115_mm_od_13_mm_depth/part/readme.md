@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | select |  
+| bip_39_word_dash_10 | select-want-bone-six-awake-close-where-merry-reason-purpose |  
+| bip_39_word_dash_11 | select-want-bone-six-awake-close-where-merry-reason-purpose-deer |  
+| bip_39_word_dash_12 | select-want-bone-six-awake-close-where-merry-reason-purpose-deer-antique |  
+| bip_39_word_dash_2 | select-want |  
+| bip_39_word_dash_3 | select-want-bone |  
+| bip_39_word_dash_4 | select-want-bone-six |  
+| bip_39_word_dash_5 | select-want-bone-six-awake |  
+| bip_39_word_dash_6 | select-want-bone-six-awake-close |  
+| bip_39_word_dash_7 | select-want-bone-six-awake-close-where |  
+| bip_39_word_dash_8 | select-want-bone-six-awake-close-where-merry |  
+| bip_39_word_dash_9 | select-want-bone-six-awake-close-where-merry-reason |  
 | bip_39_word_new_br_1 | select |  
 | bip_39_word_new_br_10 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry<br>reason<br>purpose |  
 | bip_39_word_new_br_11 | select<br>want<br>bone<br>six<br>awake<br>close<br>where<br>merry<br>reason<br>purpose<br>deer |  
@@ -147,6 +159,18 @@ reason |
 | bip_39_word_space_7 | select want bone six awake close where |  
 | bip_39_word_space_8 | select want bone six awake close where merry |  
 | bip_39_word_space_9 | select want bone six awake close where merry reason |  
+| bip_39_word_underscore_1 | select |  
+| bip_39_word_underscore_10 | select_want_bone_six_awake_close_where_merry_reason_purpose |  
+| bip_39_word_underscore_11 | select_want_bone_six_awake_close_where_merry_reason_purpose_deer |  
+| bip_39_word_underscore_12 | select_want_bone_six_awake_close_where_merry_reason_purpose_deer_antique |  
+| bip_39_word_underscore_2 | select_want |  
+| bip_39_word_underscore_3 | select_want_bone |  
+| bip_39_word_underscore_4 | select_want_bone_six |  
+| bip_39_word_underscore_5 | select_want_bone_six_awake |  
+| bip_39_word_underscore_6 | select_want_bone_six_awake_close |  
+| bip_39_word_underscore_7 | select_want_bone_six_awake_close_where |  
+| bip_39_word_underscore_8 | select_want_bone_six_awake_close_where_merry |  
+| bip_39_word_underscore_9 | select_want_bone_six_awake_close_where_merry_reason |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

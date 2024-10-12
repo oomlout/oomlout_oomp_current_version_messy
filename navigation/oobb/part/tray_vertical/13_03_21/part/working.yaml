@@ -1,3 +1,15 @@
+bip_39_word_dash_1: arrange
+bip_39_word_dash_10: arrange-latin-come-fuel-jar-giggle-shoe-push-census-leisure
+bip_39_word_dash_11: arrange-latin-come-fuel-jar-giggle-shoe-push-census-leisure-drum
+bip_39_word_dash_12: arrange-latin-come-fuel-jar-giggle-shoe-push-census-leisure-drum-alter
+bip_39_word_dash_2: arrange-latin
+bip_39_word_dash_3: arrange-latin-come
+bip_39_word_dash_4: arrange-latin-come-fuel
+bip_39_word_dash_5: arrange-latin-come-fuel-jar
+bip_39_word_dash_6: arrange-latin-come-fuel-jar-giggle
+bip_39_word_dash_7: arrange-latin-come-fuel-jar-giggle-shoe
+bip_39_word_dash_8: arrange-latin-come-fuel-jar-giggle-shoe-push
+bip_39_word_dash_9: arrange-latin-come-fuel-jar-giggle-shoe-push-census
 bip_39_word_new_br_1: arrange
 bip_39_word_new_br_10: arrange<br>latin<br>come<br>fuel<br>jar<br>giggle<br>shoe<br>push<br>census<br>leisure
 bip_39_word_new_br_11: arrange<br>latin<br>come<br>fuel<br>jar<br>giggle<br>shoe<br>push<br>census<br>leisure<br>drum
@@ -193,6 +205,18 @@ bip_39_word_space_6: arrange latin come fuel jar giggle
 bip_39_word_space_7: arrange latin come fuel jar giggle shoe
 bip_39_word_space_8: arrange latin come fuel jar giggle shoe push
 bip_39_word_space_9: arrange latin come fuel jar giggle shoe push census
+bip_39_word_underscore_1: arrange
+bip_39_word_underscore_10: arrange_latin_come_fuel_jar_giggle_shoe_push_census_leisure
+bip_39_word_underscore_11: arrange_latin_come_fuel_jar_giggle_shoe_push_census_leisure_drum
+bip_39_word_underscore_12: arrange_latin_come_fuel_jar_giggle_shoe_push_census_leisure_drum_alter
+bip_39_word_underscore_2: arrange_latin
+bip_39_word_underscore_3: arrange_latin_come
+bip_39_word_underscore_4: arrange_latin_come_fuel
+bip_39_word_underscore_5: arrange_latin_come_fuel_jar
+bip_39_word_underscore_6: arrange_latin_come_fuel_jar_giggle
+bip_39_word_underscore_7: arrange_latin_come_fuel_jar_giggle_shoe
+bip_39_word_underscore_8: arrange_latin_come_fuel_jar_giggle_shoe_push
+bip_39_word_underscore_9: arrange_latin_come_fuel_jar_giggle_shoe_push_census
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

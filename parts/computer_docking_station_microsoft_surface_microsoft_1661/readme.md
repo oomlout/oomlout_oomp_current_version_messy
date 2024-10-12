@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | process |  
+| bip_39_word_dash_10 | process-entry-extend-hedgehog-similar-own-army-dial-penalty-cactus |  
+| bip_39_word_dash_11 | process-entry-extend-hedgehog-similar-own-army-dial-penalty-cactus-hello |  
+| bip_39_word_dash_12 | process-entry-extend-hedgehog-similar-own-army-dial-penalty-cactus-hello-act |  
+| bip_39_word_dash_2 | process-entry |  
+| bip_39_word_dash_3 | process-entry-extend |  
+| bip_39_word_dash_4 | process-entry-extend-hedgehog |  
+| bip_39_word_dash_5 | process-entry-extend-hedgehog-similar |  
+| bip_39_word_dash_6 | process-entry-extend-hedgehog-similar-own |  
+| bip_39_word_dash_7 | process-entry-extend-hedgehog-similar-own-army |  
+| bip_39_word_dash_8 | process-entry-extend-hedgehog-similar-own-army-dial |  
+| bip_39_word_dash_9 | process-entry-extend-hedgehog-similar-own-army-dial-penalty |  
 | bip_39_word_new_br_1 | process |  
 | bip_39_word_new_br_10 | process<br>entry<br>extend<br>hedgehog<br>similar<br>own<br>army<br>dial<br>penalty<br>cactus |  
 | bip_39_word_new_br_11 | process<br>entry<br>extend<br>hedgehog<br>similar<br>own<br>army<br>dial<br>penalty<br>cactus<br>hello |  
@@ -147,6 +159,18 @@ penalty |
 | bip_39_word_space_7 | process entry extend hedgehog similar own army |  
 | bip_39_word_space_8 | process entry extend hedgehog similar own army dial |  
 | bip_39_word_space_9 | process entry extend hedgehog similar own army dial penalty |  
+| bip_39_word_underscore_1 | process |  
+| bip_39_word_underscore_10 | process_entry_extend_hedgehog_similar_own_army_dial_penalty_cactus |  
+| bip_39_word_underscore_11 | process_entry_extend_hedgehog_similar_own_army_dial_penalty_cactus_hello |  
+| bip_39_word_underscore_12 | process_entry_extend_hedgehog_similar_own_army_dial_penalty_cactus_hello_act |  
+| bip_39_word_underscore_2 | process_entry |  
+| bip_39_word_underscore_3 | process_entry_extend |  
+| bip_39_word_underscore_4 | process_entry_extend_hedgehog |  
+| bip_39_word_underscore_5 | process_entry_extend_hedgehog_similar |  
+| bip_39_word_underscore_6 | process_entry_extend_hedgehog_similar_own |  
+| bip_39_word_underscore_7 | process_entry_extend_hedgehog_similar_own_army |  
+| bip_39_word_underscore_8 | process_entry_extend_hedgehog_similar_own_army_dial |  
+| bip_39_word_underscore_9 | process_entry_extend_hedgehog_similar_own_army_dial_penalty |  
 | classification | computer |  
 | classification_capital | Computer |  
 | classification_first_letter | c |  

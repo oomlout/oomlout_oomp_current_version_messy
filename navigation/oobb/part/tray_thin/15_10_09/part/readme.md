@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | section |  
+| bip_39_word_dash_10 | section-wrong-flush-foil-alien-tunnel-solution-dolphin-crazy-permit |  
+| bip_39_word_dash_11 | section-wrong-flush-foil-alien-tunnel-solution-dolphin-crazy-permit-much |  
+| bip_39_word_dash_12 | section-wrong-flush-foil-alien-tunnel-solution-dolphin-crazy-permit-much-actress |  
+| bip_39_word_dash_2 | section-wrong |  
+| bip_39_word_dash_3 | section-wrong-flush |  
+| bip_39_word_dash_4 | section-wrong-flush-foil |  
+| bip_39_word_dash_5 | section-wrong-flush-foil-alien |  
+| bip_39_word_dash_6 | section-wrong-flush-foil-alien-tunnel |  
+| bip_39_word_dash_7 | section-wrong-flush-foil-alien-tunnel-solution |  
+| bip_39_word_dash_8 | section-wrong-flush-foil-alien-tunnel-solution-dolphin |  
+| bip_39_word_dash_9 | section-wrong-flush-foil-alien-tunnel-solution-dolphin-crazy |  
 | bip_39_word_new_br_1 | section |  
 | bip_39_word_new_br_10 | section<br>wrong<br>flush<br>foil<br>alien<br>tunnel<br>solution<br>dolphin<br>crazy<br>permit |  
 | bip_39_word_new_br_11 | section<br>wrong<br>flush<br>foil<br>alien<br>tunnel<br>solution<br>dolphin<br>crazy<br>permit<br>much |  
@@ -147,6 +159,18 @@ crazy |
 | bip_39_word_space_7 | section wrong flush foil alien tunnel solution |  
 | bip_39_word_space_8 | section wrong flush foil alien tunnel solution dolphin |  
 | bip_39_word_space_9 | section wrong flush foil alien tunnel solution dolphin crazy |  
+| bip_39_word_underscore_1 | section |  
+| bip_39_word_underscore_10 | section_wrong_flush_foil_alien_tunnel_solution_dolphin_crazy_permit |  
+| bip_39_word_underscore_11 | section_wrong_flush_foil_alien_tunnel_solution_dolphin_crazy_permit_much |  
+| bip_39_word_underscore_12 | section_wrong_flush_foil_alien_tunnel_solution_dolphin_crazy_permit_much_actress |  
+| bip_39_word_underscore_2 | section_wrong |  
+| bip_39_word_underscore_3 | section_wrong_flush |  
+| bip_39_word_underscore_4 | section_wrong_flush_foil |  
+| bip_39_word_underscore_5 | section_wrong_flush_foil_alien |  
+| bip_39_word_underscore_6 | section_wrong_flush_foil_alien_tunnel |  
+| bip_39_word_underscore_7 | section_wrong_flush_foil_alien_tunnel_solution |  
+| bip_39_word_underscore_8 | section_wrong_flush_foil_alien_tunnel_solution_dolphin |  
+| bip_39_word_underscore_9 | section_wrong_flush_foil_alien_tunnel_solution_dolphin_crazy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

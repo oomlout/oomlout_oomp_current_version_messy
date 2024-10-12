@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crouch |  
+| bip_39_word_dash_10 | crouch-slide-coast-tissue-beef-stool-balance-degree-door-boost |  
+| bip_39_word_dash_11 | crouch-slide-coast-tissue-beef-stool-balance-degree-door-boost-cart |  
+| bip_39_word_dash_12 | crouch-slide-coast-tissue-beef-stool-balance-degree-door-boost-cart-advice |  
+| bip_39_word_dash_2 | crouch-slide |  
+| bip_39_word_dash_3 | crouch-slide-coast |  
+| bip_39_word_dash_4 | crouch-slide-coast-tissue |  
+| bip_39_word_dash_5 | crouch-slide-coast-tissue-beef |  
+| bip_39_word_dash_6 | crouch-slide-coast-tissue-beef-stool |  
+| bip_39_word_dash_7 | crouch-slide-coast-tissue-beef-stool-balance |  
+| bip_39_word_dash_8 | crouch-slide-coast-tissue-beef-stool-balance-degree |  
+| bip_39_word_dash_9 | crouch-slide-coast-tissue-beef-stool-balance-degree-door |  
 | bip_39_word_new_br_1 | crouch |  
 | bip_39_word_new_br_10 | crouch<br>slide<br>coast<br>tissue<br>beef<br>stool<br>balance<br>degree<br>door<br>boost |  
 | bip_39_word_new_br_11 | crouch<br>slide<br>coast<br>tissue<br>beef<br>stool<br>balance<br>degree<br>door<br>boost<br>cart |  
@@ -147,6 +159,18 @@ door |
 | bip_39_word_space_7 | crouch slide coast tissue beef stool balance |  
 | bip_39_word_space_8 | crouch slide coast tissue beef stool balance degree |  
 | bip_39_word_space_9 | crouch slide coast tissue beef stool balance degree door |  
+| bip_39_word_underscore_1 | crouch |  
+| bip_39_word_underscore_10 | crouch_slide_coast_tissue_beef_stool_balance_degree_door_boost |  
+| bip_39_word_underscore_11 | crouch_slide_coast_tissue_beef_stool_balance_degree_door_boost_cart |  
+| bip_39_word_underscore_12 | crouch_slide_coast_tissue_beef_stool_balance_degree_door_boost_cart_advice |  
+| bip_39_word_underscore_2 | crouch_slide |  
+| bip_39_word_underscore_3 | crouch_slide_coast |  
+| bip_39_word_underscore_4 | crouch_slide_coast_tissue |  
+| bip_39_word_underscore_5 | crouch_slide_coast_tissue_beef |  
+| bip_39_word_underscore_6 | crouch_slide_coast_tissue_beef_stool |  
+| bip_39_word_underscore_7 | crouch_slide_coast_tissue_beef_stool_balance |  
+| bip_39_word_underscore_8 | crouch_slide_coast_tissue_beef_stool_balance_degree |  
+| bip_39_word_underscore_9 | crouch_slide_coast_tissue_beef_stool_balance_degree_door |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

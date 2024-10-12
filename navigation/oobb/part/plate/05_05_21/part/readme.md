@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prefer |  
+| bip_39_word_dash_10 | prefer-quote-utility-visual-solid-bleak-crowd-donor-album-pudding |  
+| bip_39_word_dash_11 | prefer-quote-utility-visual-solid-bleak-crowd-donor-album-pudding-duty |  
+| bip_39_word_dash_12 | prefer-quote-utility-visual-solid-bleak-crowd-donor-album-pudding-duty-action |  
+| bip_39_word_dash_2 | prefer-quote |  
+| bip_39_word_dash_3 | prefer-quote-utility |  
+| bip_39_word_dash_4 | prefer-quote-utility-visual |  
+| bip_39_word_dash_5 | prefer-quote-utility-visual-solid |  
+| bip_39_word_dash_6 | prefer-quote-utility-visual-solid-bleak |  
+| bip_39_word_dash_7 | prefer-quote-utility-visual-solid-bleak-crowd |  
+| bip_39_word_dash_8 | prefer-quote-utility-visual-solid-bleak-crowd-donor |  
+| bip_39_word_dash_9 | prefer-quote-utility-visual-solid-bleak-crowd-donor-album |  
 | bip_39_word_new_br_1 | prefer |  
 | bip_39_word_new_br_10 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor<br>album<br>pudding |  
 | bip_39_word_new_br_11 | prefer<br>quote<br>utility<br>visual<br>solid<br>bleak<br>crowd<br>donor<br>album<br>pudding<br>duty |  
@@ -147,6 +159,18 @@ album |
 | bip_39_word_space_7 | prefer quote utility visual solid bleak crowd |  
 | bip_39_word_space_8 | prefer quote utility visual solid bleak crowd donor |  
 | bip_39_word_space_9 | prefer quote utility visual solid bleak crowd donor album |  
+| bip_39_word_underscore_1 | prefer |  
+| bip_39_word_underscore_10 | prefer_quote_utility_visual_solid_bleak_crowd_donor_album_pudding |  
+| bip_39_word_underscore_11 | prefer_quote_utility_visual_solid_bleak_crowd_donor_album_pudding_duty |  
+| bip_39_word_underscore_12 | prefer_quote_utility_visual_solid_bleak_crowd_donor_album_pudding_duty_action |  
+| bip_39_word_underscore_2 | prefer_quote |  
+| bip_39_word_underscore_3 | prefer_quote_utility |  
+| bip_39_word_underscore_4 | prefer_quote_utility_visual |  
+| bip_39_word_underscore_5 | prefer_quote_utility_visual_solid |  
+| bip_39_word_underscore_6 | prefer_quote_utility_visual_solid_bleak |  
+| bip_39_word_underscore_7 | prefer_quote_utility_visual_solid_bleak_crowd |  
+| bip_39_word_underscore_8 | prefer_quote_utility_visual_solid_bleak_crowd_donor |  
+| bip_39_word_underscore_9 | prefer_quote_utility_visual_solid_bleak_crowd_donor_album |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

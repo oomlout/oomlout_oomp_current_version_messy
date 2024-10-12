@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cage |  
+| bip_39_word_dash_10 | cage-gift-negative-anger-rocket-glance-poem-whale-auction-suggest |  
+| bip_39_word_dash_11 | cage-gift-negative-anger-rocket-glance-poem-whale-auction-suggest-endorse |  
+| bip_39_word_dash_12 | cage-gift-negative-anger-rocket-glance-poem-whale-auction-suggest-endorse-assist |  
+| bip_39_word_dash_2 | cage-gift |  
+| bip_39_word_dash_3 | cage-gift-negative |  
+| bip_39_word_dash_4 | cage-gift-negative-anger |  
+| bip_39_word_dash_5 | cage-gift-negative-anger-rocket |  
+| bip_39_word_dash_6 | cage-gift-negative-anger-rocket-glance |  
+| bip_39_word_dash_7 | cage-gift-negative-anger-rocket-glance-poem |  
+| bip_39_word_dash_8 | cage-gift-negative-anger-rocket-glance-poem-whale |  
+| bip_39_word_dash_9 | cage-gift-negative-anger-rocket-glance-poem-whale-auction |  
 | bip_39_word_new_br_1 | cage |  
 | bip_39_word_new_br_10 | cage<br>gift<br>negative<br>anger<br>rocket<br>glance<br>poem<br>whale<br>auction<br>suggest |  
 | bip_39_word_new_br_11 | cage<br>gift<br>negative<br>anger<br>rocket<br>glance<br>poem<br>whale<br>auction<br>suggest<br>endorse |  
@@ -147,6 +159,18 @@ auction |
 | bip_39_word_space_7 | cage gift negative anger rocket glance poem |  
 | bip_39_word_space_8 | cage gift negative anger rocket glance poem whale |  
 | bip_39_word_space_9 | cage gift negative anger rocket glance poem whale auction |  
+| bip_39_word_underscore_1 | cage |  
+| bip_39_word_underscore_10 | cage_gift_negative_anger_rocket_glance_poem_whale_auction_suggest |  
+| bip_39_word_underscore_11 | cage_gift_negative_anger_rocket_glance_poem_whale_auction_suggest_endorse |  
+| bip_39_word_underscore_12 | cage_gift_negative_anger_rocket_glance_poem_whale_auction_suggest_endorse_assist |  
+| bip_39_word_underscore_2 | cage_gift |  
+| bip_39_word_underscore_3 | cage_gift_negative |  
+| bip_39_word_underscore_4 | cage_gift_negative_anger |  
+| bip_39_word_underscore_5 | cage_gift_negative_anger_rocket |  
+| bip_39_word_underscore_6 | cage_gift_negative_anger_rocket_glance |  
+| bip_39_word_underscore_7 | cage_gift_negative_anger_rocket_glance_poem |  
+| bip_39_word_underscore_8 | cage_gift_negative_anger_rocket_glance_poem_whale |  
+| bip_39_word_underscore_9 | cage_gift_negative_anger_rocket_glance_poem_whale_auction |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

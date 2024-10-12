@@ -1,3 +1,15 @@
+bip_39_word_dash_1: release
+bip_39_word_dash_10: release-powder-tray-gold-sponsor-limit-clump-pretty-coach-script
+bip_39_word_dash_11: release-powder-tray-gold-sponsor-limit-clump-pretty-coach-script-mushroom
+bip_39_word_dash_12: release-powder-tray-gold-sponsor-limit-clump-pretty-coach-script-mushroom-atom
+bip_39_word_dash_2: release-powder
+bip_39_word_dash_3: release-powder-tray
+bip_39_word_dash_4: release-powder-tray-gold
+bip_39_word_dash_5: release-powder-tray-gold-sponsor
+bip_39_word_dash_6: release-powder-tray-gold-sponsor-limit
+bip_39_word_dash_7: release-powder-tray-gold-sponsor-limit-clump
+bip_39_word_dash_8: release-powder-tray-gold-sponsor-limit-clump-pretty
+bip_39_word_dash_9: release-powder-tray-gold-sponsor-limit-clump-pretty-coach
 bip_39_word_new_br_1: release
 bip_39_word_new_br_10: release<br>powder<br>tray<br>gold<br>sponsor<br>limit<br>clump<br>pretty<br>coach<br>script
 bip_39_word_new_br_11: release<br>powder<br>tray<br>gold<br>sponsor<br>limit<br>clump<br>pretty<br>coach<br>script<br>mushroom
@@ -193,6 +205,18 @@ bip_39_word_space_6: release powder tray gold sponsor limit
 bip_39_word_space_7: release powder tray gold sponsor limit clump
 bip_39_word_space_8: release powder tray gold sponsor limit clump pretty
 bip_39_word_space_9: release powder tray gold sponsor limit clump pretty coach
+bip_39_word_underscore_1: release
+bip_39_word_underscore_10: release_powder_tray_gold_sponsor_limit_clump_pretty_coach_script
+bip_39_word_underscore_11: release_powder_tray_gold_sponsor_limit_clump_pretty_coach_script_mushroom
+bip_39_word_underscore_12: release_powder_tray_gold_sponsor_limit_clump_pretty_coach_script_mushroom_atom
+bip_39_word_underscore_2: release_powder
+bip_39_word_underscore_3: release_powder_tray
+bip_39_word_underscore_4: release_powder_tray_gold
+bip_39_word_underscore_5: release_powder_tray_gold_sponsor
+bip_39_word_underscore_6: release_powder_tray_gold_sponsor_limit
+bip_39_word_underscore_7: release_powder_tray_gold_sponsor_limit_clump
+bip_39_word_underscore_8: release_powder_tray_gold_sponsor_limit_clump_pretty
+bip_39_word_underscore_9: release_powder_tray_gold_sponsor_limit_clump_pretty_coach
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

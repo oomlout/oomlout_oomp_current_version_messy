@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | damp |  
+| bip_39_word_dash_10 | damp-ugly-heart-group-cake-eagle-suit-beef-ignore-honey |  
+| bip_39_word_dash_11 | damp-ugly-heart-group-cake-eagle-suit-beef-ignore-honey-piano |  
+| bip_39_word_dash_12 | damp-ugly-heart-group-cake-eagle-suit-beef-ignore-honey-piano-attitude |  
+| bip_39_word_dash_2 | damp-ugly |  
+| bip_39_word_dash_3 | damp-ugly-heart |  
+| bip_39_word_dash_4 | damp-ugly-heart-group |  
+| bip_39_word_dash_5 | damp-ugly-heart-group-cake |  
+| bip_39_word_dash_6 | damp-ugly-heart-group-cake-eagle |  
+| bip_39_word_dash_7 | damp-ugly-heart-group-cake-eagle-suit |  
+| bip_39_word_dash_8 | damp-ugly-heart-group-cake-eagle-suit-beef |  
+| bip_39_word_dash_9 | damp-ugly-heart-group-cake-eagle-suit-beef-ignore |  
 | bip_39_word_new_br_1 | damp |  
 | bip_39_word_new_br_10 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef<br>ignore<br>honey |  
 | bip_39_word_new_br_11 | damp<br>ugly<br>heart<br>group<br>cake<br>eagle<br>suit<br>beef<br>ignore<br>honey<br>piano |  
@@ -147,6 +159,18 @@ ignore |
 | bip_39_word_space_7 | damp ugly heart group cake eagle suit |  
 | bip_39_word_space_8 | damp ugly heart group cake eagle suit beef |  
 | bip_39_word_space_9 | damp ugly heart group cake eagle suit beef ignore |  
+| bip_39_word_underscore_1 | damp |  
+| bip_39_word_underscore_10 | damp_ugly_heart_group_cake_eagle_suit_beef_ignore_honey |  
+| bip_39_word_underscore_11 | damp_ugly_heart_group_cake_eagle_suit_beef_ignore_honey_piano |  
+| bip_39_word_underscore_12 | damp_ugly_heart_group_cake_eagle_suit_beef_ignore_honey_piano_attitude |  
+| bip_39_word_underscore_2 | damp_ugly |  
+| bip_39_word_underscore_3 | damp_ugly_heart |  
+| bip_39_word_underscore_4 | damp_ugly_heart_group |  
+| bip_39_word_underscore_5 | damp_ugly_heart_group_cake |  
+| bip_39_word_underscore_6 | damp_ugly_heart_group_cake_eagle |  
+| bip_39_word_underscore_7 | damp_ugly_heart_group_cake_eagle_suit |  
+| bip_39_word_underscore_8 | damp_ugly_heart_group_cake_eagle_suit_beef |  
+| bip_39_word_underscore_9 | damp_ugly_heart_group_cake_eagle_suit_beef_ignore |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

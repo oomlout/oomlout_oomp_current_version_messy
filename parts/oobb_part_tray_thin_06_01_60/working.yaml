@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fury
+bip_39_word_dash_10: fury-soft-pitch-piece-flash-define-point-elegant-faith-owner
+bip_39_word_dash_11: fury-soft-pitch-piece-flash-define-point-elegant-faith-owner-amount
+bip_39_word_dash_12: fury-soft-pitch-piece-flash-define-point-elegant-faith-owner-amount-analyst
+bip_39_word_dash_2: fury-soft
+bip_39_word_dash_3: fury-soft-pitch
+bip_39_word_dash_4: fury-soft-pitch-piece
+bip_39_word_dash_5: fury-soft-pitch-piece-flash
+bip_39_word_dash_6: fury-soft-pitch-piece-flash-define
+bip_39_word_dash_7: fury-soft-pitch-piece-flash-define-point
+bip_39_word_dash_8: fury-soft-pitch-piece-flash-define-point-elegant
+bip_39_word_dash_9: fury-soft-pitch-piece-flash-define-point-elegant-faith
 bip_39_word_new_br_1: fury
 bip_39_word_new_br_10: fury<br>soft<br>pitch<br>piece<br>flash<br>define<br>point<br>elegant<br>faith<br>owner
 bip_39_word_new_br_11: fury<br>soft<br>pitch<br>piece<br>flash<br>define<br>point<br>elegant<br>faith<br>owner<br>amount
@@ -193,6 +205,18 @@ bip_39_word_space_6: fury soft pitch piece flash define
 bip_39_word_space_7: fury soft pitch piece flash define point
 bip_39_word_space_8: fury soft pitch piece flash define point elegant
 bip_39_word_space_9: fury soft pitch piece flash define point elegant faith
+bip_39_word_underscore_1: fury
+bip_39_word_underscore_10: fury_soft_pitch_piece_flash_define_point_elegant_faith_owner
+bip_39_word_underscore_11: fury_soft_pitch_piece_flash_define_point_elegant_faith_owner_amount
+bip_39_word_underscore_12: fury_soft_pitch_piece_flash_define_point_elegant_faith_owner_amount_analyst
+bip_39_word_underscore_2: fury_soft
+bip_39_word_underscore_3: fury_soft_pitch
+bip_39_word_underscore_4: fury_soft_pitch_piece
+bip_39_word_underscore_5: fury_soft_pitch_piece_flash
+bip_39_word_underscore_6: fury_soft_pitch_piece_flash_define
+bip_39_word_underscore_7: fury_soft_pitch_piece_flash_define_point
+bip_39_word_underscore_8: fury_soft_pitch_piece_flash_define_point_elegant
+bip_39_word_underscore_9: fury_soft_pitch_piece_flash_define_point_elegant_faith
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

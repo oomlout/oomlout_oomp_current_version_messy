@@ -1,3 +1,15 @@
+bip_39_word_dash_1: horror
+bip_39_word_dash_10: horror-wonder-fiscal-claw-neutral-large-brisk-scheme-second-crew
+bip_39_word_dash_11: horror-wonder-fiscal-claw-neutral-large-brisk-scheme-second-crew-average
+bip_39_word_dash_12: horror-wonder-fiscal-claw-neutral-large-brisk-scheme-second-crew-average-apple
+bip_39_word_dash_2: horror-wonder
+bip_39_word_dash_3: horror-wonder-fiscal
+bip_39_word_dash_4: horror-wonder-fiscal-claw
+bip_39_word_dash_5: horror-wonder-fiscal-claw-neutral
+bip_39_word_dash_6: horror-wonder-fiscal-claw-neutral-large
+bip_39_word_dash_7: horror-wonder-fiscal-claw-neutral-large-brisk
+bip_39_word_dash_8: horror-wonder-fiscal-claw-neutral-large-brisk-scheme
+bip_39_word_dash_9: horror-wonder-fiscal-claw-neutral-large-brisk-scheme-second
 bip_39_word_new_br_1: horror
 bip_39_word_new_br_10: horror<br>wonder<br>fiscal<br>claw<br>neutral<br>large<br>brisk<br>scheme<br>second<br>crew
 bip_39_word_new_br_11: horror<br>wonder<br>fiscal<br>claw<br>neutral<br>large<br>brisk<br>scheme<br>second<br>crew<br>average
@@ -194,6 +206,18 @@ bip_39_word_space_6: horror wonder fiscal claw neutral large
 bip_39_word_space_7: horror wonder fiscal claw neutral large brisk
 bip_39_word_space_8: horror wonder fiscal claw neutral large brisk scheme
 bip_39_word_space_9: horror wonder fiscal claw neutral large brisk scheme second
+bip_39_word_underscore_1: horror
+bip_39_word_underscore_10: horror_wonder_fiscal_claw_neutral_large_brisk_scheme_second_crew
+bip_39_word_underscore_11: horror_wonder_fiscal_claw_neutral_large_brisk_scheme_second_crew_average
+bip_39_word_underscore_12: horror_wonder_fiscal_claw_neutral_large_brisk_scheme_second_crew_average_apple
+bip_39_word_underscore_2: horror_wonder
+bip_39_word_underscore_3: horror_wonder_fiscal
+bip_39_word_underscore_4: horror_wonder_fiscal_claw
+bip_39_word_underscore_5: horror_wonder_fiscal_claw_neutral
+bip_39_word_underscore_6: horror_wonder_fiscal_claw_neutral_large
+bip_39_word_underscore_7: horror_wonder_fiscal_claw_neutral_large_brisk
+bip_39_word_underscore_8: horror_wonder_fiscal_claw_neutral_large_brisk_scheme
+bip_39_word_underscore_9: horror_wonder_fiscal_claw_neutral_large_brisk_scheme_second
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

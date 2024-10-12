@@ -1,3 +1,15 @@
+bip_39_word_dash_1: visit
+bip_39_word_dash_10: visit-crunch-grunt-parade-torch-nose-initial-nasty-west-update
+bip_39_word_dash_11: visit-crunch-grunt-parade-torch-nose-initial-nasty-west-update-found
+bip_39_word_dash_12: visit-crunch-grunt-parade-torch-nose-initial-nasty-west-update-found-amateur
+bip_39_word_dash_2: visit-crunch
+bip_39_word_dash_3: visit-crunch-grunt
+bip_39_word_dash_4: visit-crunch-grunt-parade
+bip_39_word_dash_5: visit-crunch-grunt-parade-torch
+bip_39_word_dash_6: visit-crunch-grunt-parade-torch-nose
+bip_39_word_dash_7: visit-crunch-grunt-parade-torch-nose-initial
+bip_39_word_dash_8: visit-crunch-grunt-parade-torch-nose-initial-nasty
+bip_39_word_dash_9: visit-crunch-grunt-parade-torch-nose-initial-nasty-west
 bip_39_word_new_br_1: visit
 bip_39_word_new_br_10: visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update
 bip_39_word_new_br_11: visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update<br>found
@@ -193,6 +205,18 @@ bip_39_word_space_6: visit crunch grunt parade torch nose
 bip_39_word_space_7: visit crunch grunt parade torch nose initial
 bip_39_word_space_8: visit crunch grunt parade torch nose initial nasty
 bip_39_word_space_9: visit crunch grunt parade torch nose initial nasty west
+bip_39_word_underscore_1: visit
+bip_39_word_underscore_10: visit_crunch_grunt_parade_torch_nose_initial_nasty_west_update
+bip_39_word_underscore_11: visit_crunch_grunt_parade_torch_nose_initial_nasty_west_update_found
+bip_39_word_underscore_12: visit_crunch_grunt_parade_torch_nose_initial_nasty_west_update_found_amateur
+bip_39_word_underscore_2: visit_crunch
+bip_39_word_underscore_3: visit_crunch_grunt
+bip_39_word_underscore_4: visit_crunch_grunt_parade
+bip_39_word_underscore_5: visit_crunch_grunt_parade_torch
+bip_39_word_underscore_6: visit_crunch_grunt_parade_torch_nose
+bip_39_word_underscore_7: visit_crunch_grunt_parade_torch_nose_initial
+bip_39_word_underscore_8: visit_crunch_grunt_parade_torch_nose_initial_nasty
+bip_39_word_underscore_9: visit_crunch_grunt_parade_torch_nose_initial_nasty_west
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

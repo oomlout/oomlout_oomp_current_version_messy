@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | benefit |  
+| bip_39_word_dash_10 | benefit-evoke-frozen-divorce-bird-middle-bottom-cost-fabric-gown |  
+| bip_39_word_dash_11 | benefit-evoke-frozen-divorce-bird-middle-bottom-cost-fabric-gown-decline |  
+| bip_39_word_dash_12 | benefit-evoke-frozen-divorce-bird-middle-bottom-cost-fabric-gown-decline-ability |  
+| bip_39_word_dash_2 | benefit-evoke |  
+| bip_39_word_dash_3 | benefit-evoke-frozen |  
+| bip_39_word_dash_4 | benefit-evoke-frozen-divorce |  
+| bip_39_word_dash_5 | benefit-evoke-frozen-divorce-bird |  
+| bip_39_word_dash_6 | benefit-evoke-frozen-divorce-bird-middle |  
+| bip_39_word_dash_7 | benefit-evoke-frozen-divorce-bird-middle-bottom |  
+| bip_39_word_dash_8 | benefit-evoke-frozen-divorce-bird-middle-bottom-cost |  
+| bip_39_word_dash_9 | benefit-evoke-frozen-divorce-bird-middle-bottom-cost-fabric |  
 | bip_39_word_new_br_1 | benefit |  
 | bip_39_word_new_br_10 | benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown |  
 | bip_39_word_new_br_11 | benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown<br>decline |  
@@ -147,6 +159,18 @@ fabric |
 | bip_39_word_space_7 | benefit evoke frozen divorce bird middle bottom |  
 | bip_39_word_space_8 | benefit evoke frozen divorce bird middle bottom cost |  
 | bip_39_word_space_9 | benefit evoke frozen divorce bird middle bottom cost fabric |  
+| bip_39_word_underscore_1 | benefit |  
+| bip_39_word_underscore_10 | benefit_evoke_frozen_divorce_bird_middle_bottom_cost_fabric_gown |  
+| bip_39_word_underscore_11 | benefit_evoke_frozen_divorce_bird_middle_bottom_cost_fabric_gown_decline |  
+| bip_39_word_underscore_12 | benefit_evoke_frozen_divorce_bird_middle_bottom_cost_fabric_gown_decline_ability |  
+| bip_39_word_underscore_2 | benefit_evoke |  
+| bip_39_word_underscore_3 | benefit_evoke_frozen |  
+| bip_39_word_underscore_4 | benefit_evoke_frozen_divorce |  
+| bip_39_word_underscore_5 | benefit_evoke_frozen_divorce_bird |  
+| bip_39_word_underscore_6 | benefit_evoke_frozen_divorce_bird_middle |  
+| bip_39_word_underscore_7 | benefit_evoke_frozen_divorce_bird_middle_bottom |  
+| bip_39_word_underscore_8 | benefit_evoke_frozen_divorce_bird_middle_bottom_cost |  
+| bip_39_word_underscore_9 | benefit_evoke_frozen_divorce_bird_middle_bottom_cost_fabric |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

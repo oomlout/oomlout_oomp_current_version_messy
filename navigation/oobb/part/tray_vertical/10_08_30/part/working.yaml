@@ -1,3 +1,15 @@
+bip_39_word_dash_1: noise
+bip_39_word_dash_10: noise-panther-decrease-sing-shoulder-green-catch-attract-copy-boy
+bip_39_word_dash_11: noise-panther-decrease-sing-shoulder-green-catch-attract-copy-boy-tired
+bip_39_word_dash_12: noise-panther-decrease-sing-shoulder-green-catch-attract-copy-boy-tired-analyst
+bip_39_word_dash_2: noise-panther
+bip_39_word_dash_3: noise-panther-decrease
+bip_39_word_dash_4: noise-panther-decrease-sing
+bip_39_word_dash_5: noise-panther-decrease-sing-shoulder
+bip_39_word_dash_6: noise-panther-decrease-sing-shoulder-green
+bip_39_word_dash_7: noise-panther-decrease-sing-shoulder-green-catch
+bip_39_word_dash_8: noise-panther-decrease-sing-shoulder-green-catch-attract
+bip_39_word_dash_9: noise-panther-decrease-sing-shoulder-green-catch-attract-copy
 bip_39_word_new_br_1: noise
 bip_39_word_new_br_10: noise<br>panther<br>decrease<br>sing<br>shoulder<br>green<br>catch<br>attract<br>copy<br>boy
 bip_39_word_new_br_11: noise<br>panther<br>decrease<br>sing<br>shoulder<br>green<br>catch<br>attract<br>copy<br>boy<br>tired
@@ -194,6 +206,18 @@ bip_39_word_space_6: noise panther decrease sing shoulder green
 bip_39_word_space_7: noise panther decrease sing shoulder green catch
 bip_39_word_space_8: noise panther decrease sing shoulder green catch attract
 bip_39_word_space_9: noise panther decrease sing shoulder green catch attract copy
+bip_39_word_underscore_1: noise
+bip_39_word_underscore_10: noise_panther_decrease_sing_shoulder_green_catch_attract_copy_boy
+bip_39_word_underscore_11: noise_panther_decrease_sing_shoulder_green_catch_attract_copy_boy_tired
+bip_39_word_underscore_12: noise_panther_decrease_sing_shoulder_green_catch_attract_copy_boy_tired_analyst
+bip_39_word_underscore_2: noise_panther
+bip_39_word_underscore_3: noise_panther_decrease
+bip_39_word_underscore_4: noise_panther_decrease_sing
+bip_39_word_underscore_5: noise_panther_decrease_sing_shoulder
+bip_39_word_underscore_6: noise_panther_decrease_sing_shoulder_green
+bip_39_word_underscore_7: noise_panther_decrease_sing_shoulder_green_catch
+bip_39_word_underscore_8: noise_panther_decrease_sing_shoulder_green_catch_attract
+bip_39_word_underscore_9: noise_panther_decrease_sing_shoulder_green_catch_attract_copy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

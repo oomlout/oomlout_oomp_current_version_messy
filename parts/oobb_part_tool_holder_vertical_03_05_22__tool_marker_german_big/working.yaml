@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sketch
+bip_39_word_dash_10: sketch-bag-fox-husband-depend-force-call-comic-spare-wagon
+bip_39_word_dash_11: sketch-bag-fox-husband-depend-force-call-comic-spare-wagon-draft
+bip_39_word_dash_12: sketch-bag-fox-husband-depend-force-call-comic-spare-wagon-draft-amount
+bip_39_word_dash_2: sketch-bag
+bip_39_word_dash_3: sketch-bag-fox
+bip_39_word_dash_4: sketch-bag-fox-husband
+bip_39_word_dash_5: sketch-bag-fox-husband-depend
+bip_39_word_dash_6: sketch-bag-fox-husband-depend-force
+bip_39_word_dash_7: sketch-bag-fox-husband-depend-force-call
+bip_39_word_dash_8: sketch-bag-fox-husband-depend-force-call-comic
+bip_39_word_dash_9: sketch-bag-fox-husband-depend-force-call-comic-spare
 bip_39_word_new_br_1: sketch
 bip_39_word_new_br_10: sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon
 bip_39_word_new_br_11: sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon<br>draft
@@ -192,6 +204,18 @@ bip_39_word_space_6: sketch bag fox husband depend force
 bip_39_word_space_7: sketch bag fox husband depend force call
 bip_39_word_space_8: sketch bag fox husband depend force call comic
 bip_39_word_space_9: sketch bag fox husband depend force call comic spare
+bip_39_word_underscore_1: sketch
+bip_39_word_underscore_10: sketch_bag_fox_husband_depend_force_call_comic_spare_wagon
+bip_39_word_underscore_11: sketch_bag_fox_husband_depend_force_call_comic_spare_wagon_draft
+bip_39_word_underscore_12: sketch_bag_fox_husband_depend_force_call_comic_spare_wagon_draft_amount
+bip_39_word_underscore_2: sketch_bag
+bip_39_word_underscore_3: sketch_bag_fox
+bip_39_word_underscore_4: sketch_bag_fox_husband
+bip_39_word_underscore_5: sketch_bag_fox_husband_depend
+bip_39_word_underscore_6: sketch_bag_fox_husband_depend_force
+bip_39_word_underscore_7: sketch_bag_fox_husband_depend_force_call
+bip_39_word_underscore_8: sketch_bag_fox_husband_depend_force_call_comic
+bip_39_word_underscore_9: sketch_bag_fox_husband_depend_force_call_comic_spare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

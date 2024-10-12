@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tornado
+bip_39_word_dash_10: tornado-hurt-december-asset-margin-scrub-dog-weapon-stable-crop
+bip_39_word_dash_11: tornado-hurt-december-asset-margin-scrub-dog-weapon-stable-crop-involve
+bip_39_word_dash_12: tornado-hurt-december-asset-margin-scrub-dog-weapon-stable-crop-involve-able
+bip_39_word_dash_2: tornado-hurt
+bip_39_word_dash_3: tornado-hurt-december
+bip_39_word_dash_4: tornado-hurt-december-asset
+bip_39_word_dash_5: tornado-hurt-december-asset-margin
+bip_39_word_dash_6: tornado-hurt-december-asset-margin-scrub
+bip_39_word_dash_7: tornado-hurt-december-asset-margin-scrub-dog
+bip_39_word_dash_8: tornado-hurt-december-asset-margin-scrub-dog-weapon
+bip_39_word_dash_9: tornado-hurt-december-asset-margin-scrub-dog-weapon-stable
 bip_39_word_new_br_1: tornado
 bip_39_word_new_br_10: tornado<br>hurt<br>december<br>asset<br>margin<br>scrub<br>dog<br>weapon<br>stable<br>crop
 bip_39_word_new_br_11: tornado<br>hurt<br>december<br>asset<br>margin<br>scrub<br>dog<br>weapon<br>stable<br>crop<br>involve
@@ -193,6 +205,18 @@ bip_39_word_space_6: tornado hurt december asset margin scrub
 bip_39_word_space_7: tornado hurt december asset margin scrub dog
 bip_39_word_space_8: tornado hurt december asset margin scrub dog weapon
 bip_39_word_space_9: tornado hurt december asset margin scrub dog weapon stable
+bip_39_word_underscore_1: tornado
+bip_39_word_underscore_10: tornado_hurt_december_asset_margin_scrub_dog_weapon_stable_crop
+bip_39_word_underscore_11: tornado_hurt_december_asset_margin_scrub_dog_weapon_stable_crop_involve
+bip_39_word_underscore_12: tornado_hurt_december_asset_margin_scrub_dog_weapon_stable_crop_involve_able
+bip_39_word_underscore_2: tornado_hurt
+bip_39_word_underscore_3: tornado_hurt_december
+bip_39_word_underscore_4: tornado_hurt_december_asset
+bip_39_word_underscore_5: tornado_hurt_december_asset_margin
+bip_39_word_underscore_6: tornado_hurt_december_asset_margin_scrub
+bip_39_word_underscore_7: tornado_hurt_december_asset_margin_scrub_dog
+bip_39_word_underscore_8: tornado_hurt_december_asset_margin_scrub_dog_weapon
+bip_39_word_underscore_9: tornado_hurt_december_asset_margin_scrub_dog_weapon_stable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

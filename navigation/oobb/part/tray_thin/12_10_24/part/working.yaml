@@ -1,3 +1,15 @@
+bip_39_word_dash_1: attitude
+bip_39_word_dash_10: attitude-advice-toddler-attend-govern-wealth-valley-garden-mystery-oxygen
+bip_39_word_dash_11: attitude-advice-toddler-attend-govern-wealth-valley-garden-mystery-oxygen-special
+bip_39_word_dash_12: attitude-advice-toddler-attend-govern-wealth-valley-garden-mystery-oxygen-special-accuse
+bip_39_word_dash_2: attitude-advice
+bip_39_word_dash_3: attitude-advice-toddler
+bip_39_word_dash_4: attitude-advice-toddler-attend
+bip_39_word_dash_5: attitude-advice-toddler-attend-govern
+bip_39_word_dash_6: attitude-advice-toddler-attend-govern-wealth
+bip_39_word_dash_7: attitude-advice-toddler-attend-govern-wealth-valley
+bip_39_word_dash_8: attitude-advice-toddler-attend-govern-wealth-valley-garden
+bip_39_word_dash_9: attitude-advice-toddler-attend-govern-wealth-valley-garden-mystery
 bip_39_word_new_br_1: attitude
 bip_39_word_new_br_10: attitude<br>advice<br>toddler<br>attend<br>govern<br>wealth<br>valley<br>garden<br>mystery<br>oxygen
 bip_39_word_new_br_11: attitude<br>advice<br>toddler<br>attend<br>govern<br>wealth<br>valley<br>garden<br>mystery<br>oxygen<br>special
@@ -194,6 +206,18 @@ bip_39_word_space_6: attitude advice toddler attend govern wealth
 bip_39_word_space_7: attitude advice toddler attend govern wealth valley
 bip_39_word_space_8: attitude advice toddler attend govern wealth valley garden
 bip_39_word_space_9: attitude advice toddler attend govern wealth valley garden mystery
+bip_39_word_underscore_1: attitude
+bip_39_word_underscore_10: attitude_advice_toddler_attend_govern_wealth_valley_garden_mystery_oxygen
+bip_39_word_underscore_11: attitude_advice_toddler_attend_govern_wealth_valley_garden_mystery_oxygen_special
+bip_39_word_underscore_12: attitude_advice_toddler_attend_govern_wealth_valley_garden_mystery_oxygen_special_accuse
+bip_39_word_underscore_2: attitude_advice
+bip_39_word_underscore_3: attitude_advice_toddler
+bip_39_word_underscore_4: attitude_advice_toddler_attend
+bip_39_word_underscore_5: attitude_advice_toddler_attend_govern
+bip_39_word_underscore_6: attitude_advice_toddler_attend_govern_wealth
+bip_39_word_underscore_7: attitude_advice_toddler_attend_govern_wealth_valley
+bip_39_word_underscore_8: attitude_advice_toddler_attend_govern_wealth_valley_garden
+bip_39_word_underscore_9: attitude_advice_toddler_attend_govern_wealth_valley_garden_mystery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

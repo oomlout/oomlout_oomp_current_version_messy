@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ahead |  
+| bip_39_word_dash_10 | ahead-athlete-exercise-dinosaur-bright-effort-basket-guide-adapt-defense |  
+| bip_39_word_dash_11 | ahead-athlete-exercise-dinosaur-bright-effort-basket-guide-adapt-defense-endorse |  
+| bip_39_word_dash_12 | ahead-athlete-exercise-dinosaur-bright-effort-basket-guide-adapt-defense-endorse-alcohol |  
+| bip_39_word_dash_2 | ahead-athlete |  
+| bip_39_word_dash_3 | ahead-athlete-exercise |  
+| bip_39_word_dash_4 | ahead-athlete-exercise-dinosaur |  
+| bip_39_word_dash_5 | ahead-athlete-exercise-dinosaur-bright |  
+| bip_39_word_dash_6 | ahead-athlete-exercise-dinosaur-bright-effort |  
+| bip_39_word_dash_7 | ahead-athlete-exercise-dinosaur-bright-effort-basket |  
+| bip_39_word_dash_8 | ahead-athlete-exercise-dinosaur-bright-effort-basket-guide |  
+| bip_39_word_dash_9 | ahead-athlete-exercise-dinosaur-bright-effort-basket-guide-adapt |  
 | bip_39_word_new_br_1 | ahead |  
 | bip_39_word_new_br_10 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide<br>adapt<br>defense |  
 | bip_39_word_new_br_11 | ahead<br>athlete<br>exercise<br>dinosaur<br>bright<br>effort<br>basket<br>guide<br>adapt<br>defense<br>endorse |  
@@ -147,6 +159,18 @@ adapt |
 | bip_39_word_space_7 | ahead athlete exercise dinosaur bright effort basket |  
 | bip_39_word_space_8 | ahead athlete exercise dinosaur bright effort basket guide |  
 | bip_39_word_space_9 | ahead athlete exercise dinosaur bright effort basket guide adapt |  
+| bip_39_word_underscore_1 | ahead |  
+| bip_39_word_underscore_10 | ahead_athlete_exercise_dinosaur_bright_effort_basket_guide_adapt_defense |  
+| bip_39_word_underscore_11 | ahead_athlete_exercise_dinosaur_bright_effort_basket_guide_adapt_defense_endorse |  
+| bip_39_word_underscore_12 | ahead_athlete_exercise_dinosaur_bright_effort_basket_guide_adapt_defense_endorse_alcohol |  
+| bip_39_word_underscore_2 | ahead_athlete |  
+| bip_39_word_underscore_3 | ahead_athlete_exercise |  
+| bip_39_word_underscore_4 | ahead_athlete_exercise_dinosaur |  
+| bip_39_word_underscore_5 | ahead_athlete_exercise_dinosaur_bright |  
+| bip_39_word_underscore_6 | ahead_athlete_exercise_dinosaur_bright_effort |  
+| bip_39_word_underscore_7 | ahead_athlete_exercise_dinosaur_bright_effort_basket |  
+| bip_39_word_underscore_8 | ahead_athlete_exercise_dinosaur_bright_effort_basket_guide |  
+| bip_39_word_underscore_9 | ahead_athlete_exercise_dinosaur_bright_effort_basket_guide_adapt |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rent
+bip_39_word_dash_10: rent-glass-unknown-eager-gallery-monkey-turn-giraffe-flag-frog
+bip_39_word_dash_11: rent-glass-unknown-eager-gallery-monkey-turn-giraffe-flag-frog-anger
+bip_39_word_dash_12: rent-glass-unknown-eager-gallery-monkey-turn-giraffe-flag-frog-anger-aim
+bip_39_word_dash_2: rent-glass
+bip_39_word_dash_3: rent-glass-unknown
+bip_39_word_dash_4: rent-glass-unknown-eager
+bip_39_word_dash_5: rent-glass-unknown-eager-gallery
+bip_39_word_dash_6: rent-glass-unknown-eager-gallery-monkey
+bip_39_word_dash_7: rent-glass-unknown-eager-gallery-monkey-turn
+bip_39_word_dash_8: rent-glass-unknown-eager-gallery-monkey-turn-giraffe
+bip_39_word_dash_9: rent-glass-unknown-eager-gallery-monkey-turn-giraffe-flag
 bip_39_word_new_br_1: rent
 bip_39_word_new_br_10: rent<br>glass<br>unknown<br>eager<br>gallery<br>monkey<br>turn<br>giraffe<br>flag<br>frog
 bip_39_word_new_br_11: rent<br>glass<br>unknown<br>eager<br>gallery<br>monkey<br>turn<br>giraffe<br>flag<br>frog<br>anger
@@ -193,6 +205,18 @@ bip_39_word_space_6: rent glass unknown eager gallery monkey
 bip_39_word_space_7: rent glass unknown eager gallery monkey turn
 bip_39_word_space_8: rent glass unknown eager gallery monkey turn giraffe
 bip_39_word_space_9: rent glass unknown eager gallery monkey turn giraffe flag
+bip_39_word_underscore_1: rent
+bip_39_word_underscore_10: rent_glass_unknown_eager_gallery_monkey_turn_giraffe_flag_frog
+bip_39_word_underscore_11: rent_glass_unknown_eager_gallery_monkey_turn_giraffe_flag_frog_anger
+bip_39_word_underscore_12: rent_glass_unknown_eager_gallery_monkey_turn_giraffe_flag_frog_anger_aim
+bip_39_word_underscore_2: rent_glass
+bip_39_word_underscore_3: rent_glass_unknown
+bip_39_word_underscore_4: rent_glass_unknown_eager
+bip_39_word_underscore_5: rent_glass_unknown_eager_gallery
+bip_39_word_underscore_6: rent_glass_unknown_eager_gallery_monkey
+bip_39_word_underscore_7: rent_glass_unknown_eager_gallery_monkey_turn
+bip_39_word_underscore_8: rent_glass_unknown_eager_gallery_monkey_turn_giraffe
+bip_39_word_underscore_9: rent_glass_unknown_eager_gallery_monkey_turn_giraffe_flag
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

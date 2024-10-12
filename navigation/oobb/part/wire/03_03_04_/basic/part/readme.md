@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lonely |  
+| bip_39_word_dash_10 | lonely-island-tuna-sense-voice-range-black-kiss-joy-reunion |  
+| bip_39_word_dash_11 | lonely-island-tuna-sense-voice-range-black-kiss-joy-reunion-income |  
+| bip_39_word_dash_12 | lonely-island-tuna-sense-voice-range-black-kiss-joy-reunion-income-arena |  
+| bip_39_word_dash_2 | lonely-island |  
+| bip_39_word_dash_3 | lonely-island-tuna |  
+| bip_39_word_dash_4 | lonely-island-tuna-sense |  
+| bip_39_word_dash_5 | lonely-island-tuna-sense-voice |  
+| bip_39_word_dash_6 | lonely-island-tuna-sense-voice-range |  
+| bip_39_word_dash_7 | lonely-island-tuna-sense-voice-range-black |  
+| bip_39_word_dash_8 | lonely-island-tuna-sense-voice-range-black-kiss |  
+| bip_39_word_dash_9 | lonely-island-tuna-sense-voice-range-black-kiss-joy |  
 | bip_39_word_new_br_1 | lonely |  
 | bip_39_word_new_br_10 | lonely<br>island<br>tuna<br>sense<br>voice<br>range<br>black<br>kiss<br>joy<br>reunion |  
 | bip_39_word_new_br_11 | lonely<br>island<br>tuna<br>sense<br>voice<br>range<br>black<br>kiss<br>joy<br>reunion<br>income |  
@@ -147,6 +159,18 @@ joy |
 | bip_39_word_space_7 | lonely island tuna sense voice range black |  
 | bip_39_word_space_8 | lonely island tuna sense voice range black kiss |  
 | bip_39_word_space_9 | lonely island tuna sense voice range black kiss joy |  
+| bip_39_word_underscore_1 | lonely |  
+| bip_39_word_underscore_10 | lonely_island_tuna_sense_voice_range_black_kiss_joy_reunion |  
+| bip_39_word_underscore_11 | lonely_island_tuna_sense_voice_range_black_kiss_joy_reunion_income |  
+| bip_39_word_underscore_12 | lonely_island_tuna_sense_voice_range_black_kiss_joy_reunion_income_arena |  
+| bip_39_word_underscore_2 | lonely_island |  
+| bip_39_word_underscore_3 | lonely_island_tuna |  
+| bip_39_word_underscore_4 | lonely_island_tuna_sense |  
+| bip_39_word_underscore_5 | lonely_island_tuna_sense_voice |  
+| bip_39_word_underscore_6 | lonely_island_tuna_sense_voice_range |  
+| bip_39_word_underscore_7 | lonely_island_tuna_sense_voice_range_black |  
+| bip_39_word_underscore_8 | lonely_island_tuna_sense_voice_range_black_kiss |  
+| bip_39_word_underscore_9 | lonely_island_tuna_sense_voice_range_black_kiss_joy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

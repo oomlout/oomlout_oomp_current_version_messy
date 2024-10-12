@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | include |  
+| bip_39_word_dash_10 | include-manual-daring-banana-mercy-lizard-pupil-ugly-enough-unfair |  
+| bip_39_word_dash_11 | include-manual-daring-banana-mercy-lizard-pupil-ugly-enough-unfair-predict |  
+| bip_39_word_dash_12 | include-manual-daring-banana-mercy-lizard-pupil-ugly-enough-unfair-predict-army |  
+| bip_39_word_dash_2 | include-manual |  
+| bip_39_word_dash_3 | include-manual-daring |  
+| bip_39_word_dash_4 | include-manual-daring-banana |  
+| bip_39_word_dash_5 | include-manual-daring-banana-mercy |  
+| bip_39_word_dash_6 | include-manual-daring-banana-mercy-lizard |  
+| bip_39_word_dash_7 | include-manual-daring-banana-mercy-lizard-pupil |  
+| bip_39_word_dash_8 | include-manual-daring-banana-mercy-lizard-pupil-ugly |  
+| bip_39_word_dash_9 | include-manual-daring-banana-mercy-lizard-pupil-ugly-enough |  
 | bip_39_word_new_br_1 | include |  
 | bip_39_word_new_br_10 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly<br>enough<br>unfair |  
 | bip_39_word_new_br_11 | include<br>manual<br>daring<br>banana<br>mercy<br>lizard<br>pupil<br>ugly<br>enough<br>unfair<br>predict |  
@@ -147,6 +159,18 @@ enough |
 | bip_39_word_space_7 | include manual daring banana mercy lizard pupil |  
 | bip_39_word_space_8 | include manual daring banana mercy lizard pupil ugly |  
 | bip_39_word_space_9 | include manual daring banana mercy lizard pupil ugly enough |  
+| bip_39_word_underscore_1 | include |  
+| bip_39_word_underscore_10 | include_manual_daring_banana_mercy_lizard_pupil_ugly_enough_unfair |  
+| bip_39_word_underscore_11 | include_manual_daring_banana_mercy_lizard_pupil_ugly_enough_unfair_predict |  
+| bip_39_word_underscore_12 | include_manual_daring_banana_mercy_lizard_pupil_ugly_enough_unfair_predict_army |  
+| bip_39_word_underscore_2 | include_manual |  
+| bip_39_word_underscore_3 | include_manual_daring |  
+| bip_39_word_underscore_4 | include_manual_daring_banana |  
+| bip_39_word_underscore_5 | include_manual_daring_banana_mercy |  
+| bip_39_word_underscore_6 | include_manual_daring_banana_mercy_lizard |  
+| bip_39_word_underscore_7 | include_manual_daring_banana_mercy_lizard_pupil |  
+| bip_39_word_underscore_8 | include_manual_daring_banana_mercy_lizard_pupil_ugly |  
+| bip_39_word_underscore_9 | include_manual_daring_banana_mercy_lizard_pupil_ugly_enough |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

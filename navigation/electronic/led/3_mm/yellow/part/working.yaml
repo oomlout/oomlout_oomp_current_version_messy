@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fade
+bip_39_word_dash_10: fade-chest-exclude-talent-hawk-soldier-august-peasant-video-truth
+bip_39_word_dash_11: fade-chest-exclude-talent-hawk-soldier-august-peasant-video-truth-fashion
+bip_39_word_dash_12: fade-chest-exclude-talent-hawk-soldier-august-peasant-video-truth-fashion-afford
+bip_39_word_dash_2: fade-chest
+bip_39_word_dash_3: fade-chest-exclude
+bip_39_word_dash_4: fade-chest-exclude-talent
+bip_39_word_dash_5: fade-chest-exclude-talent-hawk
+bip_39_word_dash_6: fade-chest-exclude-talent-hawk-soldier
+bip_39_word_dash_7: fade-chest-exclude-talent-hawk-soldier-august
+bip_39_word_dash_8: fade-chest-exclude-talent-hawk-soldier-august-peasant
+bip_39_word_dash_9: fade-chest-exclude-talent-hawk-soldier-august-peasant-video
 bip_39_word_new_br_1: fade
 bip_39_word_new_br_10: fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video<br>truth
 bip_39_word_new_br_11: fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video<br>truth<br>fashion
@@ -194,6 +206,18 @@ bip_39_word_space_6: fade chest exclude talent hawk soldier
 bip_39_word_space_7: fade chest exclude talent hawk soldier august
 bip_39_word_space_8: fade chest exclude talent hawk soldier august peasant
 bip_39_word_space_9: fade chest exclude talent hawk soldier august peasant video
+bip_39_word_underscore_1: fade
+bip_39_word_underscore_10: fade_chest_exclude_talent_hawk_soldier_august_peasant_video_truth
+bip_39_word_underscore_11: fade_chest_exclude_talent_hawk_soldier_august_peasant_video_truth_fashion
+bip_39_word_underscore_12: fade_chest_exclude_talent_hawk_soldier_august_peasant_video_truth_fashion_afford
+bip_39_word_underscore_2: fade_chest
+bip_39_word_underscore_3: fade_chest_exclude
+bip_39_word_underscore_4: fade_chest_exclude_talent
+bip_39_word_underscore_5: fade_chest_exclude_talent_hawk
+bip_39_word_underscore_6: fade_chest_exclude_talent_hawk_soldier
+bip_39_word_underscore_7: fade_chest_exclude_talent_hawk_soldier_august
+bip_39_word_underscore_8: fade_chest_exclude_talent_hawk_soldier_august_peasant
+bip_39_word_underscore_9: fade_chest_exclude_talent_hawk_soldier_august_peasant_video
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

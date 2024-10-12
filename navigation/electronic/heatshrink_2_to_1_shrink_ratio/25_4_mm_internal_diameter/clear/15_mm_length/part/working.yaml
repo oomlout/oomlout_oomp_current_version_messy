@@ -1,3 +1,15 @@
+bip_39_word_dash_1: busy
+bip_39_word_dash_10: busy-crisp-climb-paper-duck-canvas-slide-surround-chest-tool
+bip_39_word_dash_11: busy-crisp-climb-paper-duck-canvas-slide-surround-chest-tool-web
+bip_39_word_dash_12: busy-crisp-climb-paper-duck-canvas-slide-surround-chest-tool-web-alone
+bip_39_word_dash_2: busy-crisp
+bip_39_word_dash_3: busy-crisp-climb
+bip_39_word_dash_4: busy-crisp-climb-paper
+bip_39_word_dash_5: busy-crisp-climb-paper-duck
+bip_39_word_dash_6: busy-crisp-climb-paper-duck-canvas
+bip_39_word_dash_7: busy-crisp-climb-paper-duck-canvas-slide
+bip_39_word_dash_8: busy-crisp-climb-paper-duck-canvas-slide-surround
+bip_39_word_dash_9: busy-crisp-climb-paper-duck-canvas-slide-surround-chest
 bip_39_word_new_br_1: busy
 bip_39_word_new_br_10: busy<br>crisp<br>climb<br>paper<br>duck<br>canvas<br>slide<br>surround<br>chest<br>tool
 bip_39_word_new_br_11: busy<br>crisp<br>climb<br>paper<br>duck<br>canvas<br>slide<br>surround<br>chest<br>tool<br>web
@@ -193,6 +205,18 @@ bip_39_word_space_6: busy crisp climb paper duck canvas
 bip_39_word_space_7: busy crisp climb paper duck canvas slide
 bip_39_word_space_8: busy crisp climb paper duck canvas slide surround
 bip_39_word_space_9: busy crisp climb paper duck canvas slide surround chest
+bip_39_word_underscore_1: busy
+bip_39_word_underscore_10: busy_crisp_climb_paper_duck_canvas_slide_surround_chest_tool
+bip_39_word_underscore_11: busy_crisp_climb_paper_duck_canvas_slide_surround_chest_tool_web
+bip_39_word_underscore_12: busy_crisp_climb_paper_duck_canvas_slide_surround_chest_tool_web_alone
+bip_39_word_underscore_2: busy_crisp
+bip_39_word_underscore_3: busy_crisp_climb
+bip_39_word_underscore_4: busy_crisp_climb_paper
+bip_39_word_underscore_5: busy_crisp_climb_paper_duck
+bip_39_word_underscore_6: busy_crisp_climb_paper_duck_canvas
+bip_39_word_underscore_7: busy_crisp_climb_paper_duck_canvas_slide
+bip_39_word_underscore_8: busy_crisp_climb_paper_duck_canvas_slide_surround
+bip_39_word_underscore_9: busy_crisp_climb_paper_duck_canvas_slide_surround_chest
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

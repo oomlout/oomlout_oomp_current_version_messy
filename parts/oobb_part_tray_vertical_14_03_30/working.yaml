@@ -1,3 +1,15 @@
+bip_39_word_dash_1: essence
+bip_39_word_dash_10: essence-client-ranch-sure-region-robot-agent-clever-thumb-globe
+bip_39_word_dash_11: essence-client-ranch-sure-region-robot-agent-clever-thumb-globe-guide
+bip_39_word_dash_12: essence-client-ranch-sure-region-robot-agent-clever-thumb-globe-guide-alone
+bip_39_word_dash_2: essence-client
+bip_39_word_dash_3: essence-client-ranch
+bip_39_word_dash_4: essence-client-ranch-sure
+bip_39_word_dash_5: essence-client-ranch-sure-region
+bip_39_word_dash_6: essence-client-ranch-sure-region-robot
+bip_39_word_dash_7: essence-client-ranch-sure-region-robot-agent
+bip_39_word_dash_8: essence-client-ranch-sure-region-robot-agent-clever
+bip_39_word_dash_9: essence-client-ranch-sure-region-robot-agent-clever-thumb
 bip_39_word_new_br_1: essence
 bip_39_word_new_br_10: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe
 bip_39_word_new_br_11: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe<br>guide
@@ -193,6 +205,18 @@ bip_39_word_space_6: essence client ranch sure region robot
 bip_39_word_space_7: essence client ranch sure region robot agent
 bip_39_word_space_8: essence client ranch sure region robot agent clever
 bip_39_word_space_9: essence client ranch sure region robot agent clever thumb
+bip_39_word_underscore_1: essence
+bip_39_word_underscore_10: essence_client_ranch_sure_region_robot_agent_clever_thumb_globe
+bip_39_word_underscore_11: essence_client_ranch_sure_region_robot_agent_clever_thumb_globe_guide
+bip_39_word_underscore_12: essence_client_ranch_sure_region_robot_agent_clever_thumb_globe_guide_alone
+bip_39_word_underscore_2: essence_client
+bip_39_word_underscore_3: essence_client_ranch
+bip_39_word_underscore_4: essence_client_ranch_sure
+bip_39_word_underscore_5: essence_client_ranch_sure_region
+bip_39_word_underscore_6: essence_client_ranch_sure_region_robot
+bip_39_word_underscore_7: essence_client_ranch_sure_region_robot_agent
+bip_39_word_underscore_8: essence_client_ranch_sure_region_robot_agent_clever
+bip_39_word_underscore_9: essence_client_ranch_sure_region_robot_agent_clever_thumb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

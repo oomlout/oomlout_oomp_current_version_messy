@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | orchard |  
+| bip_39_word_dash_10 | orchard-faint-carry-shuffle-vendor-soap-aerobic-system-imitate-head |  
+| bip_39_word_dash_11 | orchard-faint-carry-shuffle-vendor-soap-aerobic-system-imitate-head-speak |  
+| bip_39_word_dash_12 | orchard-faint-carry-shuffle-vendor-soap-aerobic-system-imitate-head-speak-actress |  
+| bip_39_word_dash_2 | orchard-faint |  
+| bip_39_word_dash_3 | orchard-faint-carry |  
+| bip_39_word_dash_4 | orchard-faint-carry-shuffle |  
+| bip_39_word_dash_5 | orchard-faint-carry-shuffle-vendor |  
+| bip_39_word_dash_6 | orchard-faint-carry-shuffle-vendor-soap |  
+| bip_39_word_dash_7 | orchard-faint-carry-shuffle-vendor-soap-aerobic |  
+| bip_39_word_dash_8 | orchard-faint-carry-shuffle-vendor-soap-aerobic-system |  
+| bip_39_word_dash_9 | orchard-faint-carry-shuffle-vendor-soap-aerobic-system-imitate |  
 | bip_39_word_new_br_1 | orchard |  
 | bip_39_word_new_br_10 | orchard<br>faint<br>carry<br>shuffle<br>vendor<br>soap<br>aerobic<br>system<br>imitate<br>head |  
 | bip_39_word_new_br_11 | orchard<br>faint<br>carry<br>shuffle<br>vendor<br>soap<br>aerobic<br>system<br>imitate<br>head<br>speak |  
@@ -147,6 +159,18 @@ imitate |
 | bip_39_word_space_7 | orchard faint carry shuffle vendor soap aerobic |  
 | bip_39_word_space_8 | orchard faint carry shuffle vendor soap aerobic system |  
 | bip_39_word_space_9 | orchard faint carry shuffle vendor soap aerobic system imitate |  
+| bip_39_word_underscore_1 | orchard |  
+| bip_39_word_underscore_10 | orchard_faint_carry_shuffle_vendor_soap_aerobic_system_imitate_head |  
+| bip_39_word_underscore_11 | orchard_faint_carry_shuffle_vendor_soap_aerobic_system_imitate_head_speak |  
+| bip_39_word_underscore_12 | orchard_faint_carry_shuffle_vendor_soap_aerobic_system_imitate_head_speak_actress |  
+| bip_39_word_underscore_2 | orchard_faint |  
+| bip_39_word_underscore_3 | orchard_faint_carry |  
+| bip_39_word_underscore_4 | orchard_faint_carry_shuffle |  
+| bip_39_word_underscore_5 | orchard_faint_carry_shuffle_vendor |  
+| bip_39_word_underscore_6 | orchard_faint_carry_shuffle_vendor_soap |  
+| bip_39_word_underscore_7 | orchard_faint_carry_shuffle_vendor_soap_aerobic |  
+| bip_39_word_underscore_8 | orchard_faint_carry_shuffle_vendor_soap_aerobic_system |  
+| bip_39_word_underscore_9 | orchard_faint_carry_shuffle_vendor_soap_aerobic_system_imitate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: finger
+bip_39_word_dash_10: finger-analyst-fiscal-stand-ribbon-snack-laugh-virtual-lawsuit-west
+bip_39_word_dash_11: finger-analyst-fiscal-stand-ribbon-snack-laugh-virtual-lawsuit-west-champion
+bip_39_word_dash_12: finger-analyst-fiscal-stand-ribbon-snack-laugh-virtual-lawsuit-west-champion-arrest
+bip_39_word_dash_2: finger-analyst
+bip_39_word_dash_3: finger-analyst-fiscal
+bip_39_word_dash_4: finger-analyst-fiscal-stand
+bip_39_word_dash_5: finger-analyst-fiscal-stand-ribbon
+bip_39_word_dash_6: finger-analyst-fiscal-stand-ribbon-snack
+bip_39_word_dash_7: finger-analyst-fiscal-stand-ribbon-snack-laugh
+bip_39_word_dash_8: finger-analyst-fiscal-stand-ribbon-snack-laugh-virtual
+bip_39_word_dash_9: finger-analyst-fiscal-stand-ribbon-snack-laugh-virtual-lawsuit
 bip_39_word_new_br_1: finger
 bip_39_word_new_br_10: finger<br>analyst<br>fiscal<br>stand<br>ribbon<br>snack<br>laugh<br>virtual<br>lawsuit<br>west
 bip_39_word_new_br_11: finger<br>analyst<br>fiscal<br>stand<br>ribbon<br>snack<br>laugh<br>virtual<br>lawsuit<br>west<br>champion
@@ -194,6 +206,18 @@ bip_39_word_space_6: finger analyst fiscal stand ribbon snack
 bip_39_word_space_7: finger analyst fiscal stand ribbon snack laugh
 bip_39_word_space_8: finger analyst fiscal stand ribbon snack laugh virtual
 bip_39_word_space_9: finger analyst fiscal stand ribbon snack laugh virtual lawsuit
+bip_39_word_underscore_1: finger
+bip_39_word_underscore_10: finger_analyst_fiscal_stand_ribbon_snack_laugh_virtual_lawsuit_west
+bip_39_word_underscore_11: finger_analyst_fiscal_stand_ribbon_snack_laugh_virtual_lawsuit_west_champion
+bip_39_word_underscore_12: finger_analyst_fiscal_stand_ribbon_snack_laugh_virtual_lawsuit_west_champion_arrest
+bip_39_word_underscore_2: finger_analyst
+bip_39_word_underscore_3: finger_analyst_fiscal
+bip_39_word_underscore_4: finger_analyst_fiscal_stand
+bip_39_word_underscore_5: finger_analyst_fiscal_stand_ribbon
+bip_39_word_underscore_6: finger_analyst_fiscal_stand_ribbon_snack
+bip_39_word_underscore_7: finger_analyst_fiscal_stand_ribbon_snack_laugh
+bip_39_word_underscore_8: finger_analyst_fiscal_stand_ribbon_snack_laugh_virtual
+bip_39_word_underscore_9: finger_analyst_fiscal_stand_ribbon_snack_laugh_virtual_lawsuit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

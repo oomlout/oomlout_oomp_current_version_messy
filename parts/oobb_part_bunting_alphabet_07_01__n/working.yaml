@@ -1,3 +1,15 @@
+bip_39_word_dash_1: square
+bip_39_word_dash_10: square-claim-capable-always-amused-saddle-resource-city-health-year
+bip_39_word_dash_11: square-claim-capable-always-amused-saddle-resource-city-health-year-insect
+bip_39_word_dash_12: square-claim-capable-always-amused-saddle-resource-city-health-year-insect-antique
+bip_39_word_dash_2: square-claim
+bip_39_word_dash_3: square-claim-capable
+bip_39_word_dash_4: square-claim-capable-always
+bip_39_word_dash_5: square-claim-capable-always-amused
+bip_39_word_dash_6: square-claim-capable-always-amused-saddle
+bip_39_word_dash_7: square-claim-capable-always-amused-saddle-resource
+bip_39_word_dash_8: square-claim-capable-always-amused-saddle-resource-city
+bip_39_word_dash_9: square-claim-capable-always-amused-saddle-resource-city-health
 bip_39_word_new_br_1: square
 bip_39_word_new_br_10: square<br>claim<br>capable<br>always<br>amused<br>saddle<br>resource<br>city<br>health<br>year
 bip_39_word_new_br_11: square<br>claim<br>capable<br>always<br>amused<br>saddle<br>resource<br>city<br>health<br>year<br>insect
@@ -194,6 +206,18 @@ bip_39_word_space_6: square claim capable always amused saddle
 bip_39_word_space_7: square claim capable always amused saddle resource
 bip_39_word_space_8: square claim capable always amused saddle resource city
 bip_39_word_space_9: square claim capable always amused saddle resource city health
+bip_39_word_underscore_1: square
+bip_39_word_underscore_10: square_claim_capable_always_amused_saddle_resource_city_health_year
+bip_39_word_underscore_11: square_claim_capable_always_amused_saddle_resource_city_health_year_insect
+bip_39_word_underscore_12: square_claim_capable_always_amused_saddle_resource_city_health_year_insect_antique
+bip_39_word_underscore_2: square_claim
+bip_39_word_underscore_3: square_claim_capable
+bip_39_word_underscore_4: square_claim_capable_always
+bip_39_word_underscore_5: square_claim_capable_always_amused
+bip_39_word_underscore_6: square_claim_capable_always_amused_saddle
+bip_39_word_underscore_7: square_claim_capable_always_amused_saddle_resource
+bip_39_word_underscore_8: square_claim_capable_always_amused_saddle_resource_city
+bip_39_word_underscore_9: square_claim_capable_always_amused_saddle_resource_city_health
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

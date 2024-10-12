@@ -1,3 +1,15 @@
+bip_39_word_dash_1: extra
+bip_39_word_dash_10: extra-shrug-torch-unable-clever-peasant-pill-shy-weapon-worth
+bip_39_word_dash_11: extra-shrug-torch-unable-clever-peasant-pill-shy-weapon-worth-bulb
+bip_39_word_dash_12: extra-shrug-torch-unable-clever-peasant-pill-shy-weapon-worth-bulb-assist
+bip_39_word_dash_2: extra-shrug
+bip_39_word_dash_3: extra-shrug-torch
+bip_39_word_dash_4: extra-shrug-torch-unable
+bip_39_word_dash_5: extra-shrug-torch-unable-clever
+bip_39_word_dash_6: extra-shrug-torch-unable-clever-peasant
+bip_39_word_dash_7: extra-shrug-torch-unable-clever-peasant-pill
+bip_39_word_dash_8: extra-shrug-torch-unable-clever-peasant-pill-shy
+bip_39_word_dash_9: extra-shrug-torch-unable-clever-peasant-pill-shy-weapon
 bip_39_word_new_br_1: extra
 bip_39_word_new_br_10: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth
 bip_39_word_new_br_11: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth<br>bulb
@@ -193,6 +205,18 @@ bip_39_word_space_6: extra shrug torch unable clever peasant
 bip_39_word_space_7: extra shrug torch unable clever peasant pill
 bip_39_word_space_8: extra shrug torch unable clever peasant pill shy
 bip_39_word_space_9: extra shrug torch unable clever peasant pill shy weapon
+bip_39_word_underscore_1: extra
+bip_39_word_underscore_10: extra_shrug_torch_unable_clever_peasant_pill_shy_weapon_worth
+bip_39_word_underscore_11: extra_shrug_torch_unable_clever_peasant_pill_shy_weapon_worth_bulb
+bip_39_word_underscore_12: extra_shrug_torch_unable_clever_peasant_pill_shy_weapon_worth_bulb_assist
+bip_39_word_underscore_2: extra_shrug
+bip_39_word_underscore_3: extra_shrug_torch
+bip_39_word_underscore_4: extra_shrug_torch_unable
+bip_39_word_underscore_5: extra_shrug_torch_unable_clever
+bip_39_word_underscore_6: extra_shrug_torch_unable_clever_peasant
+bip_39_word_underscore_7: extra_shrug_torch_unable_clever_peasant_pill
+bip_39_word_underscore_8: extra_shrug_torch_unable_clever_peasant_pill_shy
+bip_39_word_underscore_9: extra_shrug_torch_unable_clever_peasant_pill_shy_weapon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

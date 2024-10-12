@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pepper
+bip_39_word_dash_10: pepper-dilemma-slab-color-office-rival-tiger-plate-weekend-infant
+bip_39_word_dash_11: pepper-dilemma-slab-color-office-rival-tiger-plate-weekend-infant-light
+bip_39_word_dash_12: pepper-dilemma-slab-color-office-rival-tiger-plate-weekend-infant-light-advance
+bip_39_word_dash_2: pepper-dilemma
+bip_39_word_dash_3: pepper-dilemma-slab
+bip_39_word_dash_4: pepper-dilemma-slab-color
+bip_39_word_dash_5: pepper-dilemma-slab-color-office
+bip_39_word_dash_6: pepper-dilemma-slab-color-office-rival
+bip_39_word_dash_7: pepper-dilemma-slab-color-office-rival-tiger
+bip_39_word_dash_8: pepper-dilemma-slab-color-office-rival-tiger-plate
+bip_39_word_dash_9: pepper-dilemma-slab-color-office-rival-tiger-plate-weekend
 bip_39_word_new_br_1: pepper
 bip_39_word_new_br_10: pepper<br>dilemma<br>slab<br>color<br>office<br>rival<br>tiger<br>plate<br>weekend<br>infant
 bip_39_word_new_br_11: pepper<br>dilemma<br>slab<br>color<br>office<br>rival<br>tiger<br>plate<br>weekend<br>infant<br>light
@@ -193,6 +205,18 @@ bip_39_word_space_6: pepper dilemma slab color office rival
 bip_39_word_space_7: pepper dilemma slab color office rival tiger
 bip_39_word_space_8: pepper dilemma slab color office rival tiger plate
 bip_39_word_space_9: pepper dilemma slab color office rival tiger plate weekend
+bip_39_word_underscore_1: pepper
+bip_39_word_underscore_10: pepper_dilemma_slab_color_office_rival_tiger_plate_weekend_infant
+bip_39_word_underscore_11: pepper_dilemma_slab_color_office_rival_tiger_plate_weekend_infant_light
+bip_39_word_underscore_12: pepper_dilemma_slab_color_office_rival_tiger_plate_weekend_infant_light_advance
+bip_39_word_underscore_2: pepper_dilemma
+bip_39_word_underscore_3: pepper_dilemma_slab
+bip_39_word_underscore_4: pepper_dilemma_slab_color
+bip_39_word_underscore_5: pepper_dilemma_slab_color_office
+bip_39_word_underscore_6: pepper_dilemma_slab_color_office_rival
+bip_39_word_underscore_7: pepper_dilemma_slab_color_office_rival_tiger
+bip_39_word_underscore_8: pepper_dilemma_slab_color_office_rival_tiger_plate
+bip_39_word_underscore_9: pepper_dilemma_slab_color_office_rival_tiger_plate_weekend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

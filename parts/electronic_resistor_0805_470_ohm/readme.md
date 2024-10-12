@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dose |  
+| bip_39_word_dash_10 | dose-fragile-monitor-ghost-saddle-possible-into-joke-february-what |  
+| bip_39_word_dash_11 | dose-fragile-monitor-ghost-saddle-possible-into-joke-february-what-lyrics |  
+| bip_39_word_dash_12 | dose-fragile-monitor-ghost-saddle-possible-into-joke-february-what-lyrics-attack |  
+| bip_39_word_dash_2 | dose-fragile |  
+| bip_39_word_dash_3 | dose-fragile-monitor |  
+| bip_39_word_dash_4 | dose-fragile-monitor-ghost |  
+| bip_39_word_dash_5 | dose-fragile-monitor-ghost-saddle |  
+| bip_39_word_dash_6 | dose-fragile-monitor-ghost-saddle-possible |  
+| bip_39_word_dash_7 | dose-fragile-monitor-ghost-saddle-possible-into |  
+| bip_39_word_dash_8 | dose-fragile-monitor-ghost-saddle-possible-into-joke |  
+| bip_39_word_dash_9 | dose-fragile-monitor-ghost-saddle-possible-into-joke-february |  
 | bip_39_word_new_br_1 | dose |  
 | bip_39_word_new_br_10 | dose<br>fragile<br>monitor<br>ghost<br>saddle<br>possible<br>into<br>joke<br>february<br>what |  
 | bip_39_word_new_br_11 | dose<br>fragile<br>monitor<br>ghost<br>saddle<br>possible<br>into<br>joke<br>february<br>what<br>lyrics |  
@@ -147,6 +159,18 @@ february |
 | bip_39_word_space_7 | dose fragile monitor ghost saddle possible into |  
 | bip_39_word_space_8 | dose fragile monitor ghost saddle possible into joke |  
 | bip_39_word_space_9 | dose fragile monitor ghost saddle possible into joke february |  
+| bip_39_word_underscore_1 | dose |  
+| bip_39_word_underscore_10 | dose_fragile_monitor_ghost_saddle_possible_into_joke_february_what |  
+| bip_39_word_underscore_11 | dose_fragile_monitor_ghost_saddle_possible_into_joke_february_what_lyrics |  
+| bip_39_word_underscore_12 | dose_fragile_monitor_ghost_saddle_possible_into_joke_february_what_lyrics_attack |  
+| bip_39_word_underscore_2 | dose_fragile |  
+| bip_39_word_underscore_3 | dose_fragile_monitor |  
+| bip_39_word_underscore_4 | dose_fragile_monitor_ghost |  
+| bip_39_word_underscore_5 | dose_fragile_monitor_ghost_saddle |  
+| bip_39_word_underscore_6 | dose_fragile_monitor_ghost_saddle_possible |  
+| bip_39_word_underscore_7 | dose_fragile_monitor_ghost_saddle_possible_into |  
+| bip_39_word_underscore_8 | dose_fragile_monitor_ghost_saddle_possible_into_joke |  
+| bip_39_word_underscore_9 | dose_fragile_monitor_ghost_saddle_possible_into_joke_february |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

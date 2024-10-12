@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | evil |  
+| bip_39_word_dash_10 | evil-cruise-chronic-donate-canvas-ridge-charge-assault-wait-suspect |  
+| bip_39_word_dash_11 | evil-cruise-chronic-donate-canvas-ridge-charge-assault-wait-suspect-exile |  
+| bip_39_word_dash_12 | evil-cruise-chronic-donate-canvas-ridge-charge-assault-wait-suspect-exile-accuse |  
+| bip_39_word_dash_2 | evil-cruise |  
+| bip_39_word_dash_3 | evil-cruise-chronic |  
+| bip_39_word_dash_4 | evil-cruise-chronic-donate |  
+| bip_39_word_dash_5 | evil-cruise-chronic-donate-canvas |  
+| bip_39_word_dash_6 | evil-cruise-chronic-donate-canvas-ridge |  
+| bip_39_word_dash_7 | evil-cruise-chronic-donate-canvas-ridge-charge |  
+| bip_39_word_dash_8 | evil-cruise-chronic-donate-canvas-ridge-charge-assault |  
+| bip_39_word_dash_9 | evil-cruise-chronic-donate-canvas-ridge-charge-assault-wait |  
 | bip_39_word_new_br_1 | evil |  
 | bip_39_word_new_br_10 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect |  
 | bip_39_word_new_br_11 | evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect<br>exile |  
@@ -147,6 +159,18 @@ wait |
 | bip_39_word_space_7 | evil cruise chronic donate canvas ridge charge |  
 | bip_39_word_space_8 | evil cruise chronic donate canvas ridge charge assault |  
 | bip_39_word_space_9 | evil cruise chronic donate canvas ridge charge assault wait |  
+| bip_39_word_underscore_1 | evil |  
+| bip_39_word_underscore_10 | evil_cruise_chronic_donate_canvas_ridge_charge_assault_wait_suspect |  
+| bip_39_word_underscore_11 | evil_cruise_chronic_donate_canvas_ridge_charge_assault_wait_suspect_exile |  
+| bip_39_word_underscore_12 | evil_cruise_chronic_donate_canvas_ridge_charge_assault_wait_suspect_exile_accuse |  
+| bip_39_word_underscore_2 | evil_cruise |  
+| bip_39_word_underscore_3 | evil_cruise_chronic |  
+| bip_39_word_underscore_4 | evil_cruise_chronic_donate |  
+| bip_39_word_underscore_5 | evil_cruise_chronic_donate_canvas |  
+| bip_39_word_underscore_6 | evil_cruise_chronic_donate_canvas_ridge |  
+| bip_39_word_underscore_7 | evil_cruise_chronic_donate_canvas_ridge_charge |  
+| bip_39_word_underscore_8 | evil_cruise_chronic_donate_canvas_ridge_charge_assault |  
+| bip_39_word_underscore_9 | evil_cruise_chronic_donate_canvas_ridge_charge_assault_wait |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

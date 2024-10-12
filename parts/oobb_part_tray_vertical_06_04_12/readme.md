@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assist |  
+| bip_39_word_dash_10 | assist-eagle-act-disagree-birth-lake-this-core-monkey-analyst |  
+| bip_39_word_dash_11 | assist-eagle-act-disagree-birth-lake-this-core-monkey-analyst-rookie |  
+| bip_39_word_dash_12 | assist-eagle-act-disagree-birth-lake-this-core-monkey-analyst-rookie-amazing |  
+| bip_39_word_dash_2 | assist-eagle |  
+| bip_39_word_dash_3 | assist-eagle-act |  
+| bip_39_word_dash_4 | assist-eagle-act-disagree |  
+| bip_39_word_dash_5 | assist-eagle-act-disagree-birth |  
+| bip_39_word_dash_6 | assist-eagle-act-disagree-birth-lake |  
+| bip_39_word_dash_7 | assist-eagle-act-disagree-birth-lake-this |  
+| bip_39_word_dash_8 | assist-eagle-act-disagree-birth-lake-this-core |  
+| bip_39_word_dash_9 | assist-eagle-act-disagree-birth-lake-this-core-monkey |  
 | bip_39_word_new_br_1 | assist |  
 | bip_39_word_new_br_10 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core<br>monkey<br>analyst |  
 | bip_39_word_new_br_11 | assist<br>eagle<br>act<br>disagree<br>birth<br>lake<br>this<br>core<br>monkey<br>analyst<br>rookie |  
@@ -147,6 +159,18 @@ monkey |
 | bip_39_word_space_7 | assist eagle act disagree birth lake this |  
 | bip_39_word_space_8 | assist eagle act disagree birth lake this core |  
 | bip_39_word_space_9 | assist eagle act disagree birth lake this core monkey |  
+| bip_39_word_underscore_1 | assist |  
+| bip_39_word_underscore_10 | assist_eagle_act_disagree_birth_lake_this_core_monkey_analyst |  
+| bip_39_word_underscore_11 | assist_eagle_act_disagree_birth_lake_this_core_monkey_analyst_rookie |  
+| bip_39_word_underscore_12 | assist_eagle_act_disagree_birth_lake_this_core_monkey_analyst_rookie_amazing |  
+| bip_39_word_underscore_2 | assist_eagle |  
+| bip_39_word_underscore_3 | assist_eagle_act |  
+| bip_39_word_underscore_4 | assist_eagle_act_disagree |  
+| bip_39_word_underscore_5 | assist_eagle_act_disagree_birth |  
+| bip_39_word_underscore_6 | assist_eagle_act_disagree_birth_lake |  
+| bip_39_word_underscore_7 | assist_eagle_act_disagree_birth_lake_this |  
+| bip_39_word_underscore_8 | assist_eagle_act_disagree_birth_lake_this_core |  
+| bip_39_word_underscore_9 | assist_eagle_act_disagree_birth_lake_this_core_monkey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

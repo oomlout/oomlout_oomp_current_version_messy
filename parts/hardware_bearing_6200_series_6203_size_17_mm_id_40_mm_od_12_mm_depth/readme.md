@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | essence |  
+| bip_39_word_dash_10 | essence-boost-atom-marine-sail-like-crucial-skin-napkin-pulse |  
+| bip_39_word_dash_11 | essence-boost-atom-marine-sail-like-crucial-skin-napkin-pulse-note |  
+| bip_39_word_dash_12 | essence-boost-atom-marine-sail-like-crucial-skin-napkin-pulse-note-august |  
+| bip_39_word_dash_2 | essence-boost |  
+| bip_39_word_dash_3 | essence-boost-atom |  
+| bip_39_word_dash_4 | essence-boost-atom-marine |  
+| bip_39_word_dash_5 | essence-boost-atom-marine-sail |  
+| bip_39_word_dash_6 | essence-boost-atom-marine-sail-like |  
+| bip_39_word_dash_7 | essence-boost-atom-marine-sail-like-crucial |  
+| bip_39_word_dash_8 | essence-boost-atom-marine-sail-like-crucial-skin |  
+| bip_39_word_dash_9 | essence-boost-atom-marine-sail-like-crucial-skin-napkin |  
 | bip_39_word_new_br_1 | essence |  
 | bip_39_word_new_br_10 | essence<br>boost<br>atom<br>marine<br>sail<br>like<br>crucial<br>skin<br>napkin<br>pulse |  
 | bip_39_word_new_br_11 | essence<br>boost<br>atom<br>marine<br>sail<br>like<br>crucial<br>skin<br>napkin<br>pulse<br>note |  
@@ -147,6 +159,18 @@ napkin |
 | bip_39_word_space_7 | essence boost atom marine sail like crucial |  
 | bip_39_word_space_8 | essence boost atom marine sail like crucial skin |  
 | bip_39_word_space_9 | essence boost atom marine sail like crucial skin napkin |  
+| bip_39_word_underscore_1 | essence |  
+| bip_39_word_underscore_10 | essence_boost_atom_marine_sail_like_crucial_skin_napkin_pulse |  
+| bip_39_word_underscore_11 | essence_boost_atom_marine_sail_like_crucial_skin_napkin_pulse_note |  
+| bip_39_word_underscore_12 | essence_boost_atom_marine_sail_like_crucial_skin_napkin_pulse_note_august |  
+| bip_39_word_underscore_2 | essence_boost |  
+| bip_39_word_underscore_3 | essence_boost_atom |  
+| bip_39_word_underscore_4 | essence_boost_atom_marine |  
+| bip_39_word_underscore_5 | essence_boost_atom_marine_sail |  
+| bip_39_word_underscore_6 | essence_boost_atom_marine_sail_like |  
+| bip_39_word_underscore_7 | essence_boost_atom_marine_sail_like_crucial |  
+| bip_39_word_underscore_8 | essence_boost_atom_marine_sail_like_crucial_skin |  
+| bip_39_word_underscore_9 | essence_boost_atom_marine_sail_like_crucial_skin_napkin |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

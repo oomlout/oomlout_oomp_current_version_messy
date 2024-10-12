@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nominee
+bip_39_word_dash_10: nominee-hotel-gravity-any-thumb-dismiss-ritual-primary-noodle-invest
+bip_39_word_dash_11: nominee-hotel-gravity-any-thumb-dismiss-ritual-primary-noodle-invest-tobacco
+bip_39_word_dash_12: nominee-hotel-gravity-any-thumb-dismiss-ritual-primary-noodle-invest-tobacco-apart
+bip_39_word_dash_2: nominee-hotel
+bip_39_word_dash_3: nominee-hotel-gravity
+bip_39_word_dash_4: nominee-hotel-gravity-any
+bip_39_word_dash_5: nominee-hotel-gravity-any-thumb
+bip_39_word_dash_6: nominee-hotel-gravity-any-thumb-dismiss
+bip_39_word_dash_7: nominee-hotel-gravity-any-thumb-dismiss-ritual
+bip_39_word_dash_8: nominee-hotel-gravity-any-thumb-dismiss-ritual-primary
+bip_39_word_dash_9: nominee-hotel-gravity-any-thumb-dismiss-ritual-primary-noodle
 bip_39_word_new_br_1: nominee
 bip_39_word_new_br_10: nominee<br>hotel<br>gravity<br>any<br>thumb<br>dismiss<br>ritual<br>primary<br>noodle<br>invest
 bip_39_word_new_br_11: nominee<br>hotel<br>gravity<br>any<br>thumb<br>dismiss<br>ritual<br>primary<br>noodle<br>invest<br>tobacco
@@ -194,6 +206,18 @@ bip_39_word_space_6: nominee hotel gravity any thumb dismiss
 bip_39_word_space_7: nominee hotel gravity any thumb dismiss ritual
 bip_39_word_space_8: nominee hotel gravity any thumb dismiss ritual primary
 bip_39_word_space_9: nominee hotel gravity any thumb dismiss ritual primary noodle
+bip_39_word_underscore_1: nominee
+bip_39_word_underscore_10: nominee_hotel_gravity_any_thumb_dismiss_ritual_primary_noodle_invest
+bip_39_word_underscore_11: nominee_hotel_gravity_any_thumb_dismiss_ritual_primary_noodle_invest_tobacco
+bip_39_word_underscore_12: nominee_hotel_gravity_any_thumb_dismiss_ritual_primary_noodle_invest_tobacco_apart
+bip_39_word_underscore_2: nominee_hotel
+bip_39_word_underscore_3: nominee_hotel_gravity
+bip_39_word_underscore_4: nominee_hotel_gravity_any
+bip_39_word_underscore_5: nominee_hotel_gravity_any_thumb
+bip_39_word_underscore_6: nominee_hotel_gravity_any_thumb_dismiss
+bip_39_word_underscore_7: nominee_hotel_gravity_any_thumb_dismiss_ritual
+bip_39_word_underscore_8: nominee_hotel_gravity_any_thumb_dismiss_ritual_primary
+bip_39_word_underscore_9: nominee_hotel_gravity_any_thumb_dismiss_ritual_primary_noodle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

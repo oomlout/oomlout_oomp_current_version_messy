@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | carpet |  
+| bip_39_word_dash_10 | carpet-plate-cupboard-dismiss-make-dolphin-fan-upper-trial-donate |  
+| bip_39_word_dash_11 | carpet-plate-cupboard-dismiss-make-dolphin-fan-upper-trial-donate-wife |  
+| bip_39_word_dash_12 | carpet-plate-cupboard-dismiss-make-dolphin-fan-upper-trial-donate-wife-addict |  
+| bip_39_word_dash_2 | carpet-plate |  
+| bip_39_word_dash_3 | carpet-plate-cupboard |  
+| bip_39_word_dash_4 | carpet-plate-cupboard-dismiss |  
+| bip_39_word_dash_5 | carpet-plate-cupboard-dismiss-make |  
+| bip_39_word_dash_6 | carpet-plate-cupboard-dismiss-make-dolphin |  
+| bip_39_word_dash_7 | carpet-plate-cupboard-dismiss-make-dolphin-fan |  
+| bip_39_word_dash_8 | carpet-plate-cupboard-dismiss-make-dolphin-fan-upper |  
+| bip_39_word_dash_9 | carpet-plate-cupboard-dismiss-make-dolphin-fan-upper-trial |  
 | bip_39_word_new_br_1 | carpet |  
 | bip_39_word_new_br_10 | carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate |  
 | bip_39_word_new_br_11 | carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate<br>wife |  
@@ -147,6 +159,18 @@ trial |
 | bip_39_word_space_7 | carpet plate cupboard dismiss make dolphin fan |  
 | bip_39_word_space_8 | carpet plate cupboard dismiss make dolphin fan upper |  
 | bip_39_word_space_9 | carpet plate cupboard dismiss make dolphin fan upper trial |  
+| bip_39_word_underscore_1 | carpet |  
+| bip_39_word_underscore_10 | carpet_plate_cupboard_dismiss_make_dolphin_fan_upper_trial_donate |  
+| bip_39_word_underscore_11 | carpet_plate_cupboard_dismiss_make_dolphin_fan_upper_trial_donate_wife |  
+| bip_39_word_underscore_12 | carpet_plate_cupboard_dismiss_make_dolphin_fan_upper_trial_donate_wife_addict |  
+| bip_39_word_underscore_2 | carpet_plate |  
+| bip_39_word_underscore_3 | carpet_plate_cupboard |  
+| bip_39_word_underscore_4 | carpet_plate_cupboard_dismiss |  
+| bip_39_word_underscore_5 | carpet_plate_cupboard_dismiss_make |  
+| bip_39_word_underscore_6 | carpet_plate_cupboard_dismiss_make_dolphin |  
+| bip_39_word_underscore_7 | carpet_plate_cupboard_dismiss_make_dolphin_fan |  
+| bip_39_word_underscore_8 | carpet_plate_cupboard_dismiss_make_dolphin_fan_upper |  
+| bip_39_word_underscore_9 | carpet_plate_cupboard_dismiss_make_dolphin_fan_upper_trial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

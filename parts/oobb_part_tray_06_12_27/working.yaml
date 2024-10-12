@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brass
+bip_39_word_dash_10: brass-major-victory-offer-color-region-beyond-material-asthma-worry
+bip_39_word_dash_11: brass-major-victory-offer-color-region-beyond-material-asthma-worry-riot
+bip_39_word_dash_12: brass-major-victory-offer-color-region-beyond-material-asthma-worry-riot-aspect
+bip_39_word_dash_2: brass-major
+bip_39_word_dash_3: brass-major-victory
+bip_39_word_dash_4: brass-major-victory-offer
+bip_39_word_dash_5: brass-major-victory-offer-color
+bip_39_word_dash_6: brass-major-victory-offer-color-region
+bip_39_word_dash_7: brass-major-victory-offer-color-region-beyond
+bip_39_word_dash_8: brass-major-victory-offer-color-region-beyond-material
+bip_39_word_dash_9: brass-major-victory-offer-color-region-beyond-material-asthma
 bip_39_word_new_br_1: brass
 bip_39_word_new_br_10: brass<br>major<br>victory<br>offer<br>color<br>region<br>beyond<br>material<br>asthma<br>worry
 bip_39_word_new_br_11: brass<br>major<br>victory<br>offer<br>color<br>region<br>beyond<br>material<br>asthma<br>worry<br>riot
@@ -194,6 +206,18 @@ bip_39_word_space_6: brass major victory offer color region
 bip_39_word_space_7: brass major victory offer color region beyond
 bip_39_word_space_8: brass major victory offer color region beyond material
 bip_39_word_space_9: brass major victory offer color region beyond material asthma
+bip_39_word_underscore_1: brass
+bip_39_word_underscore_10: brass_major_victory_offer_color_region_beyond_material_asthma_worry
+bip_39_word_underscore_11: brass_major_victory_offer_color_region_beyond_material_asthma_worry_riot
+bip_39_word_underscore_12: brass_major_victory_offer_color_region_beyond_material_asthma_worry_riot_aspect
+bip_39_word_underscore_2: brass_major
+bip_39_word_underscore_3: brass_major_victory
+bip_39_word_underscore_4: brass_major_victory_offer
+bip_39_word_underscore_5: brass_major_victory_offer_color
+bip_39_word_underscore_6: brass_major_victory_offer_color_region
+bip_39_word_underscore_7: brass_major_victory_offer_color_region_beyond
+bip_39_word_underscore_8: brass_major_victory_offer_color_region_beyond_material
+bip_39_word_underscore_9: brass_major_victory_offer_color_region_beyond_material_asthma
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

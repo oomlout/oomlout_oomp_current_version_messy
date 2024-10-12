@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chunk |  
+| bip_39_word_dash_10 | chunk-seven-margin-lucky-elder-chimney-noise-mandate-jar-eye |  
+| bip_39_word_dash_11 | chunk-seven-margin-lucky-elder-chimney-noise-mandate-jar-eye-bulb |  
+| bip_39_word_dash_12 | chunk-seven-margin-lucky-elder-chimney-noise-mandate-jar-eye-bulb-absent |  
+| bip_39_word_dash_2 | chunk-seven |  
+| bip_39_word_dash_3 | chunk-seven-margin |  
+| bip_39_word_dash_4 | chunk-seven-margin-lucky |  
+| bip_39_word_dash_5 | chunk-seven-margin-lucky-elder |  
+| bip_39_word_dash_6 | chunk-seven-margin-lucky-elder-chimney |  
+| bip_39_word_dash_7 | chunk-seven-margin-lucky-elder-chimney-noise |  
+| bip_39_word_dash_8 | chunk-seven-margin-lucky-elder-chimney-noise-mandate |  
+| bip_39_word_dash_9 | chunk-seven-margin-lucky-elder-chimney-noise-mandate-jar |  
 | bip_39_word_new_br_1 | chunk |  
 | bip_39_word_new_br_10 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate<br>jar<br>eye |  
 | bip_39_word_new_br_11 | chunk<br>seven<br>margin<br>lucky<br>elder<br>chimney<br>noise<br>mandate<br>jar<br>eye<br>bulb |  
@@ -147,6 +159,18 @@ jar |
 | bip_39_word_space_7 | chunk seven margin lucky elder chimney noise |  
 | bip_39_word_space_8 | chunk seven margin lucky elder chimney noise mandate |  
 | bip_39_word_space_9 | chunk seven margin lucky elder chimney noise mandate jar |  
+| bip_39_word_underscore_1 | chunk |  
+| bip_39_word_underscore_10 | chunk_seven_margin_lucky_elder_chimney_noise_mandate_jar_eye |  
+| bip_39_word_underscore_11 | chunk_seven_margin_lucky_elder_chimney_noise_mandate_jar_eye_bulb |  
+| bip_39_word_underscore_12 | chunk_seven_margin_lucky_elder_chimney_noise_mandate_jar_eye_bulb_absent |  
+| bip_39_word_underscore_2 | chunk_seven |  
+| bip_39_word_underscore_3 | chunk_seven_margin |  
+| bip_39_word_underscore_4 | chunk_seven_margin_lucky |  
+| bip_39_word_underscore_5 | chunk_seven_margin_lucky_elder |  
+| bip_39_word_underscore_6 | chunk_seven_margin_lucky_elder_chimney |  
+| bip_39_word_underscore_7 | chunk_seven_margin_lucky_elder_chimney_noise |  
+| bip_39_word_underscore_8 | chunk_seven_margin_lucky_elder_chimney_noise_mandate |  
+| bip_39_word_underscore_9 | chunk_seven_margin_lucky_elder_chimney_noise_mandate_jar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

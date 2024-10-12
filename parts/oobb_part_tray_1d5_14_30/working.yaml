@@ -1,3 +1,15 @@
+bip_39_word_dash_1: proof
+bip_39_word_dash_10: proof-coconut-muscle-prosper-rabbit-lemon-pave-mad-barely-devote
+bip_39_word_dash_11: proof-coconut-muscle-prosper-rabbit-lemon-pave-mad-barely-devote-start
+bip_39_word_dash_12: proof-coconut-muscle-prosper-rabbit-lemon-pave-mad-barely-devote-start-around
+bip_39_word_dash_2: proof-coconut
+bip_39_word_dash_3: proof-coconut-muscle
+bip_39_word_dash_4: proof-coconut-muscle-prosper
+bip_39_word_dash_5: proof-coconut-muscle-prosper-rabbit
+bip_39_word_dash_6: proof-coconut-muscle-prosper-rabbit-lemon
+bip_39_word_dash_7: proof-coconut-muscle-prosper-rabbit-lemon-pave
+bip_39_word_dash_8: proof-coconut-muscle-prosper-rabbit-lemon-pave-mad
+bip_39_word_dash_9: proof-coconut-muscle-prosper-rabbit-lemon-pave-mad-barely
 bip_39_word_new_br_1: proof
 bip_39_word_new_br_10: proof<br>coconut<br>muscle<br>prosper<br>rabbit<br>lemon<br>pave<br>mad<br>barely<br>devote
 bip_39_word_new_br_11: proof<br>coconut<br>muscle<br>prosper<br>rabbit<br>lemon<br>pave<br>mad<br>barely<br>devote<br>start
@@ -193,6 +205,18 @@ bip_39_word_space_6: proof coconut muscle prosper rabbit lemon
 bip_39_word_space_7: proof coconut muscle prosper rabbit lemon pave
 bip_39_word_space_8: proof coconut muscle prosper rabbit lemon pave mad
 bip_39_word_space_9: proof coconut muscle prosper rabbit lemon pave mad barely
+bip_39_word_underscore_1: proof
+bip_39_word_underscore_10: proof_coconut_muscle_prosper_rabbit_lemon_pave_mad_barely_devote
+bip_39_word_underscore_11: proof_coconut_muscle_prosper_rabbit_lemon_pave_mad_barely_devote_start
+bip_39_word_underscore_12: proof_coconut_muscle_prosper_rabbit_lemon_pave_mad_barely_devote_start_around
+bip_39_word_underscore_2: proof_coconut
+bip_39_word_underscore_3: proof_coconut_muscle
+bip_39_word_underscore_4: proof_coconut_muscle_prosper
+bip_39_word_underscore_5: proof_coconut_muscle_prosper_rabbit
+bip_39_word_underscore_6: proof_coconut_muscle_prosper_rabbit_lemon
+bip_39_word_underscore_7: proof_coconut_muscle_prosper_rabbit_lemon_pave
+bip_39_word_underscore_8: proof_coconut_muscle_prosper_rabbit_lemon_pave_mad
+bip_39_word_underscore_9: proof_coconut_muscle_prosper_rabbit_lemon_pave_mad_barely
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

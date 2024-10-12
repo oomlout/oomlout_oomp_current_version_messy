@@ -1,3 +1,15 @@
+bip_39_word_dash_1: foot
+bip_39_word_dash_10: foot-banana-wire-someone-float-cook-hurry-occur-metal-injury
+bip_39_word_dash_11: foot-banana-wire-someone-float-cook-hurry-occur-metal-injury-snake
+bip_39_word_dash_12: foot-banana-wire-someone-float-cook-hurry-occur-metal-injury-snake-arrange
+bip_39_word_dash_2: foot-banana
+bip_39_word_dash_3: foot-banana-wire
+bip_39_word_dash_4: foot-banana-wire-someone
+bip_39_word_dash_5: foot-banana-wire-someone-float
+bip_39_word_dash_6: foot-banana-wire-someone-float-cook
+bip_39_word_dash_7: foot-banana-wire-someone-float-cook-hurry
+bip_39_word_dash_8: foot-banana-wire-someone-float-cook-hurry-occur
+bip_39_word_dash_9: foot-banana-wire-someone-float-cook-hurry-occur-metal
 bip_39_word_new_br_1: foot
 bip_39_word_new_br_10: foot<br>banana<br>wire<br>someone<br>float<br>cook<br>hurry<br>occur<br>metal<br>injury
 bip_39_word_new_br_11: foot<br>banana<br>wire<br>someone<br>float<br>cook<br>hurry<br>occur<br>metal<br>injury<br>snake
@@ -193,6 +205,18 @@ bip_39_word_space_6: foot banana wire someone float cook
 bip_39_word_space_7: foot banana wire someone float cook hurry
 bip_39_word_space_8: foot banana wire someone float cook hurry occur
 bip_39_word_space_9: foot banana wire someone float cook hurry occur metal
+bip_39_word_underscore_1: foot
+bip_39_word_underscore_10: foot_banana_wire_someone_float_cook_hurry_occur_metal_injury
+bip_39_word_underscore_11: foot_banana_wire_someone_float_cook_hurry_occur_metal_injury_snake
+bip_39_word_underscore_12: foot_banana_wire_someone_float_cook_hurry_occur_metal_injury_snake_arrange
+bip_39_word_underscore_2: foot_banana
+bip_39_word_underscore_3: foot_banana_wire
+bip_39_word_underscore_4: foot_banana_wire_someone
+bip_39_word_underscore_5: foot_banana_wire_someone_float
+bip_39_word_underscore_6: foot_banana_wire_someone_float_cook
+bip_39_word_underscore_7: foot_banana_wire_someone_float_cook_hurry
+bip_39_word_underscore_8: foot_banana_wire_someone_float_cook_hurry_occur
+bip_39_word_underscore_9: foot_banana_wire_someone_float_cook_hurry_occur_metal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

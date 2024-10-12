@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clerk
+bip_39_word_dash_10: clerk-corn-sorry-define-proof-release-mix-result-retreat-put
+bip_39_word_dash_11: clerk-corn-sorry-define-proof-release-mix-result-retreat-put-armor
+bip_39_word_dash_12: clerk-corn-sorry-define-proof-release-mix-result-retreat-put-armor-across
+bip_39_word_dash_2: clerk-corn
+bip_39_word_dash_3: clerk-corn-sorry
+bip_39_word_dash_4: clerk-corn-sorry-define
+bip_39_word_dash_5: clerk-corn-sorry-define-proof
+bip_39_word_dash_6: clerk-corn-sorry-define-proof-release
+bip_39_word_dash_7: clerk-corn-sorry-define-proof-release-mix
+bip_39_word_dash_8: clerk-corn-sorry-define-proof-release-mix-result
+bip_39_word_dash_9: clerk-corn-sorry-define-proof-release-mix-result-retreat
 bip_39_word_new_br_1: clerk
 bip_39_word_new_br_10: clerk<br>corn<br>sorry<br>define<br>proof<br>release<br>mix<br>result<br>retreat<br>put
 bip_39_word_new_br_11: clerk<br>corn<br>sorry<br>define<br>proof<br>release<br>mix<br>result<br>retreat<br>put<br>armor
@@ -193,6 +205,18 @@ bip_39_word_space_6: clerk corn sorry define proof release
 bip_39_word_space_7: clerk corn sorry define proof release mix
 bip_39_word_space_8: clerk corn sorry define proof release mix result
 bip_39_word_space_9: clerk corn sorry define proof release mix result retreat
+bip_39_word_underscore_1: clerk
+bip_39_word_underscore_10: clerk_corn_sorry_define_proof_release_mix_result_retreat_put
+bip_39_word_underscore_11: clerk_corn_sorry_define_proof_release_mix_result_retreat_put_armor
+bip_39_word_underscore_12: clerk_corn_sorry_define_proof_release_mix_result_retreat_put_armor_across
+bip_39_word_underscore_2: clerk_corn
+bip_39_word_underscore_3: clerk_corn_sorry
+bip_39_word_underscore_4: clerk_corn_sorry_define
+bip_39_word_underscore_5: clerk_corn_sorry_define_proof
+bip_39_word_underscore_6: clerk_corn_sorry_define_proof_release
+bip_39_word_underscore_7: clerk_corn_sorry_define_proof_release_mix
+bip_39_word_underscore_8: clerk_corn_sorry_define_proof_release_mix_result
+bip_39_word_underscore_9: clerk_corn_sorry_define_proof_release_mix_result_retreat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

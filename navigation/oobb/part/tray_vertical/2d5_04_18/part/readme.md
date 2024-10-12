@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | between |  
+| bip_39_word_dash_10 | between-forest-hat-organ-welcome-sword-earth-debris-say-more |  
+| bip_39_word_dash_11 | between-forest-hat-organ-welcome-sword-earth-debris-say-more-ability |  
+| bip_39_word_dash_12 | between-forest-hat-organ-welcome-sword-earth-debris-say-more-ability-about |  
+| bip_39_word_dash_2 | between-forest |  
+| bip_39_word_dash_3 | between-forest-hat |  
+| bip_39_word_dash_4 | between-forest-hat-organ |  
+| bip_39_word_dash_5 | between-forest-hat-organ-welcome |  
+| bip_39_word_dash_6 | between-forest-hat-organ-welcome-sword |  
+| bip_39_word_dash_7 | between-forest-hat-organ-welcome-sword-earth |  
+| bip_39_word_dash_8 | between-forest-hat-organ-welcome-sword-earth-debris |  
+| bip_39_word_dash_9 | between-forest-hat-organ-welcome-sword-earth-debris-say |  
 | bip_39_word_new_br_1 | between |  
 | bip_39_word_new_br_10 | between<br>forest<br>hat<br>organ<br>welcome<br>sword<br>earth<br>debris<br>say<br>more |  
 | bip_39_word_new_br_11 | between<br>forest<br>hat<br>organ<br>welcome<br>sword<br>earth<br>debris<br>say<br>more<br>ability |  
@@ -147,6 +159,18 @@ say |
 | bip_39_word_space_7 | between forest hat organ welcome sword earth |  
 | bip_39_word_space_8 | between forest hat organ welcome sword earth debris |  
 | bip_39_word_space_9 | between forest hat organ welcome sword earth debris say |  
+| bip_39_word_underscore_1 | between |  
+| bip_39_word_underscore_10 | between_forest_hat_organ_welcome_sword_earth_debris_say_more |  
+| bip_39_word_underscore_11 | between_forest_hat_organ_welcome_sword_earth_debris_say_more_ability |  
+| bip_39_word_underscore_12 | between_forest_hat_organ_welcome_sword_earth_debris_say_more_ability_about |  
+| bip_39_word_underscore_2 | between_forest |  
+| bip_39_word_underscore_3 | between_forest_hat |  
+| bip_39_word_underscore_4 | between_forest_hat_organ |  
+| bip_39_word_underscore_5 | between_forest_hat_organ_welcome |  
+| bip_39_word_underscore_6 | between_forest_hat_organ_welcome_sword |  
+| bip_39_word_underscore_7 | between_forest_hat_organ_welcome_sword_earth |  
+| bip_39_word_underscore_8 | between_forest_hat_organ_welcome_sword_earth_debris |  
+| bip_39_word_underscore_9 | between_forest_hat_organ_welcome_sword_earth_debris_say |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

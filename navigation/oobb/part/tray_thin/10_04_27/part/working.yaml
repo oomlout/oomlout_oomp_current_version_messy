@@ -1,3 +1,15 @@
+bip_39_word_dash_1: series
+bip_39_word_dash_10: series-exclude-lemon-light-crime-bulk-clerk-jealous-mirror-benefit
+bip_39_word_dash_11: series-exclude-lemon-light-crime-bulk-clerk-jealous-mirror-benefit-useful
+bip_39_word_dash_12: series-exclude-lemon-light-crime-bulk-clerk-jealous-mirror-benefit-useful-actress
+bip_39_word_dash_2: series-exclude
+bip_39_word_dash_3: series-exclude-lemon
+bip_39_word_dash_4: series-exclude-lemon-light
+bip_39_word_dash_5: series-exclude-lemon-light-crime
+bip_39_word_dash_6: series-exclude-lemon-light-crime-bulk
+bip_39_word_dash_7: series-exclude-lemon-light-crime-bulk-clerk
+bip_39_word_dash_8: series-exclude-lemon-light-crime-bulk-clerk-jealous
+bip_39_word_dash_9: series-exclude-lemon-light-crime-bulk-clerk-jealous-mirror
 bip_39_word_new_br_1: series
 bip_39_word_new_br_10: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit
 bip_39_word_new_br_11: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit<br>useful
@@ -193,6 +205,18 @@ bip_39_word_space_6: series exclude lemon light crime bulk
 bip_39_word_space_7: series exclude lemon light crime bulk clerk
 bip_39_word_space_8: series exclude lemon light crime bulk clerk jealous
 bip_39_word_space_9: series exclude lemon light crime bulk clerk jealous mirror
+bip_39_word_underscore_1: series
+bip_39_word_underscore_10: series_exclude_lemon_light_crime_bulk_clerk_jealous_mirror_benefit
+bip_39_word_underscore_11: series_exclude_lemon_light_crime_bulk_clerk_jealous_mirror_benefit_useful
+bip_39_word_underscore_12: series_exclude_lemon_light_crime_bulk_clerk_jealous_mirror_benefit_useful_actress
+bip_39_word_underscore_2: series_exclude
+bip_39_word_underscore_3: series_exclude_lemon
+bip_39_word_underscore_4: series_exclude_lemon_light
+bip_39_word_underscore_5: series_exclude_lemon_light_crime
+bip_39_word_underscore_6: series_exclude_lemon_light_crime_bulk
+bip_39_word_underscore_7: series_exclude_lemon_light_crime_bulk_clerk
+bip_39_word_underscore_8: series_exclude_lemon_light_crime_bulk_clerk_jealous
+bip_39_word_underscore_9: series_exclude_lemon_light_crime_bulk_clerk_jealous_mirror
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

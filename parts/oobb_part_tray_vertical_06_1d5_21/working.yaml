@@ -1,3 +1,15 @@
+bip_39_word_dash_1: drastic
+bip_39_word_dash_10: drastic-position-pause-armed-fall-tongue-ignore-knee-advance-want
+bip_39_word_dash_11: drastic-position-pause-armed-fall-tongue-ignore-knee-advance-want-eight
+bip_39_word_dash_12: drastic-position-pause-armed-fall-tongue-ignore-knee-advance-want-eight-assist
+bip_39_word_dash_2: drastic-position
+bip_39_word_dash_3: drastic-position-pause
+bip_39_word_dash_4: drastic-position-pause-armed
+bip_39_word_dash_5: drastic-position-pause-armed-fall
+bip_39_word_dash_6: drastic-position-pause-armed-fall-tongue
+bip_39_word_dash_7: drastic-position-pause-armed-fall-tongue-ignore
+bip_39_word_dash_8: drastic-position-pause-armed-fall-tongue-ignore-knee
+bip_39_word_dash_9: drastic-position-pause-armed-fall-tongue-ignore-knee-advance
 bip_39_word_new_br_1: drastic
 bip_39_word_new_br_10: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want
 bip_39_word_new_br_11: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want<br>eight
@@ -194,6 +206,18 @@ bip_39_word_space_6: drastic position pause armed fall tongue
 bip_39_word_space_7: drastic position pause armed fall tongue ignore
 bip_39_word_space_8: drastic position pause armed fall tongue ignore knee
 bip_39_word_space_9: drastic position pause armed fall tongue ignore knee advance
+bip_39_word_underscore_1: drastic
+bip_39_word_underscore_10: drastic_position_pause_armed_fall_tongue_ignore_knee_advance_want
+bip_39_word_underscore_11: drastic_position_pause_armed_fall_tongue_ignore_knee_advance_want_eight
+bip_39_word_underscore_12: drastic_position_pause_armed_fall_tongue_ignore_knee_advance_want_eight_assist
+bip_39_word_underscore_2: drastic_position
+bip_39_word_underscore_3: drastic_position_pause
+bip_39_word_underscore_4: drastic_position_pause_armed
+bip_39_word_underscore_5: drastic_position_pause_armed_fall
+bip_39_word_underscore_6: drastic_position_pause_armed_fall_tongue
+bip_39_word_underscore_7: drastic_position_pause_armed_fall_tongue_ignore
+bip_39_word_underscore_8: drastic_position_pause_armed_fall_tongue_ignore_knee
+bip_39_word_underscore_9: drastic_position_pause_armed_fall_tongue_ignore_knee_advance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

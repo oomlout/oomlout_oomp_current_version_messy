@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | suffer |  
+| bip_39_word_dash_10 | suffer-prize-okay-child-sustain-marine-estate-bamboo-hub-banana |  
+| bip_39_word_dash_11 | suffer-prize-okay-child-sustain-marine-estate-bamboo-hub-banana-swift |  
+| bip_39_word_dash_12 | suffer-prize-okay-child-sustain-marine-estate-bamboo-hub-banana-swift-alpha |  
+| bip_39_word_dash_2 | suffer-prize |  
+| bip_39_word_dash_3 | suffer-prize-okay |  
+| bip_39_word_dash_4 | suffer-prize-okay-child |  
+| bip_39_word_dash_5 | suffer-prize-okay-child-sustain |  
+| bip_39_word_dash_6 | suffer-prize-okay-child-sustain-marine |  
+| bip_39_word_dash_7 | suffer-prize-okay-child-sustain-marine-estate |  
+| bip_39_word_dash_8 | suffer-prize-okay-child-sustain-marine-estate-bamboo |  
+| bip_39_word_dash_9 | suffer-prize-okay-child-sustain-marine-estate-bamboo-hub |  
 | bip_39_word_new_br_1 | suffer |  
 | bip_39_word_new_br_10 | suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo<br>hub<br>banana |  
 | bip_39_word_new_br_11 | suffer<br>prize<br>okay<br>child<br>sustain<br>marine<br>estate<br>bamboo<br>hub<br>banana<br>swift |  
@@ -147,6 +159,18 @@ hub |
 | bip_39_word_space_7 | suffer prize okay child sustain marine estate |  
 | bip_39_word_space_8 | suffer prize okay child sustain marine estate bamboo |  
 | bip_39_word_space_9 | suffer prize okay child sustain marine estate bamboo hub |  
+| bip_39_word_underscore_1 | suffer |  
+| bip_39_word_underscore_10 | suffer_prize_okay_child_sustain_marine_estate_bamboo_hub_banana |  
+| bip_39_word_underscore_11 | suffer_prize_okay_child_sustain_marine_estate_bamboo_hub_banana_swift |  
+| bip_39_word_underscore_12 | suffer_prize_okay_child_sustain_marine_estate_bamboo_hub_banana_swift_alpha |  
+| bip_39_word_underscore_2 | suffer_prize |  
+| bip_39_word_underscore_3 | suffer_prize_okay |  
+| bip_39_word_underscore_4 | suffer_prize_okay_child |  
+| bip_39_word_underscore_5 | suffer_prize_okay_child_sustain |  
+| bip_39_word_underscore_6 | suffer_prize_okay_child_sustain_marine |  
+| bip_39_word_underscore_7 | suffer_prize_okay_child_sustain_marine_estate |  
+| bip_39_word_underscore_8 | suffer_prize_okay_child_sustain_marine_estate_bamboo |  
+| bip_39_word_underscore_9 | suffer_prize_okay_child_sustain_marine_estate_bamboo_hub |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

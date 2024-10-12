@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dilemma
+bip_39_word_dash_10: dilemma-anchor-this-private-blanket-trip-celery-program-ski-situate
+bip_39_word_dash_11: dilemma-anchor-this-private-blanket-trip-celery-program-ski-situate-sugar
+bip_39_word_dash_12: dilemma-anchor-this-private-blanket-trip-celery-program-ski-situate-sugar-attitude
+bip_39_word_dash_2: dilemma-anchor
+bip_39_word_dash_3: dilemma-anchor-this
+bip_39_word_dash_4: dilemma-anchor-this-private
+bip_39_word_dash_5: dilemma-anchor-this-private-blanket
+bip_39_word_dash_6: dilemma-anchor-this-private-blanket-trip
+bip_39_word_dash_7: dilemma-anchor-this-private-blanket-trip-celery
+bip_39_word_dash_8: dilemma-anchor-this-private-blanket-trip-celery-program
+bip_39_word_dash_9: dilemma-anchor-this-private-blanket-trip-celery-program-ski
 bip_39_word_new_br_1: dilemma
 bip_39_word_new_br_10: dilemma<br>anchor<br>this<br>private<br>blanket<br>trip<br>celery<br>program<br>ski<br>situate
 bip_39_word_new_br_11: dilemma<br>anchor<br>this<br>private<br>blanket<br>trip<br>celery<br>program<br>ski<br>situate<br>sugar
@@ -194,6 +206,18 @@ bip_39_word_space_6: dilemma anchor this private blanket trip
 bip_39_word_space_7: dilemma anchor this private blanket trip celery
 bip_39_word_space_8: dilemma anchor this private blanket trip celery program
 bip_39_word_space_9: dilemma anchor this private blanket trip celery program ski
+bip_39_word_underscore_1: dilemma
+bip_39_word_underscore_10: dilemma_anchor_this_private_blanket_trip_celery_program_ski_situate
+bip_39_word_underscore_11: dilemma_anchor_this_private_blanket_trip_celery_program_ski_situate_sugar
+bip_39_word_underscore_12: dilemma_anchor_this_private_blanket_trip_celery_program_ski_situate_sugar_attitude
+bip_39_word_underscore_2: dilemma_anchor
+bip_39_word_underscore_3: dilemma_anchor_this
+bip_39_word_underscore_4: dilemma_anchor_this_private
+bip_39_word_underscore_5: dilemma_anchor_this_private_blanket
+bip_39_word_underscore_6: dilemma_anchor_this_private_blanket_trip
+bip_39_word_underscore_7: dilemma_anchor_this_private_blanket_trip_celery
+bip_39_word_underscore_8: dilemma_anchor_this_private_blanket_trip_celery_program
+bip_39_word_underscore_9: dilemma_anchor_this_private_blanket_trip_celery_program_ski
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

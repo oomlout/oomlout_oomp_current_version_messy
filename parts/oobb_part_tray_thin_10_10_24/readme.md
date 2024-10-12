@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | surprise |  
+| bip_39_word_dash_10 | surprise-tourist-where-zone-crumble-float-length-steel-mixture-hollow |  
+| bip_39_word_dash_11 | surprise-tourist-where-zone-crumble-float-length-steel-mixture-hollow-melody |  
+| bip_39_word_dash_12 | surprise-tourist-where-zone-crumble-float-length-steel-mixture-hollow-melody-ankle |  
+| bip_39_word_dash_2 | surprise-tourist |  
+| bip_39_word_dash_3 | surprise-tourist-where |  
+| bip_39_word_dash_4 | surprise-tourist-where-zone |  
+| bip_39_word_dash_5 | surprise-tourist-where-zone-crumble |  
+| bip_39_word_dash_6 | surprise-tourist-where-zone-crumble-float |  
+| bip_39_word_dash_7 | surprise-tourist-where-zone-crumble-float-length |  
+| bip_39_word_dash_8 | surprise-tourist-where-zone-crumble-float-length-steel |  
+| bip_39_word_dash_9 | surprise-tourist-where-zone-crumble-float-length-steel-mixture |  
 | bip_39_word_new_br_1 | surprise |  
 | bip_39_word_new_br_10 | surprise<br>tourist<br>where<br>zone<br>crumble<br>float<br>length<br>steel<br>mixture<br>hollow |  
 | bip_39_word_new_br_11 | surprise<br>tourist<br>where<br>zone<br>crumble<br>float<br>length<br>steel<br>mixture<br>hollow<br>melody |  
@@ -147,6 +159,18 @@ mixture |
 | bip_39_word_space_7 | surprise tourist where zone crumble float length |  
 | bip_39_word_space_8 | surprise tourist where zone crumble float length steel |  
 | bip_39_word_space_9 | surprise tourist where zone crumble float length steel mixture |  
+| bip_39_word_underscore_1 | surprise |  
+| bip_39_word_underscore_10 | surprise_tourist_where_zone_crumble_float_length_steel_mixture_hollow |  
+| bip_39_word_underscore_11 | surprise_tourist_where_zone_crumble_float_length_steel_mixture_hollow_melody |  
+| bip_39_word_underscore_12 | surprise_tourist_where_zone_crumble_float_length_steel_mixture_hollow_melody_ankle |  
+| bip_39_word_underscore_2 | surprise_tourist |  
+| bip_39_word_underscore_3 | surprise_tourist_where |  
+| bip_39_word_underscore_4 | surprise_tourist_where_zone |  
+| bip_39_word_underscore_5 | surprise_tourist_where_zone_crumble |  
+| bip_39_word_underscore_6 | surprise_tourist_where_zone_crumble_float |  
+| bip_39_word_underscore_7 | surprise_tourist_where_zone_crumble_float_length |  
+| bip_39_word_underscore_8 | surprise_tourist_where_zone_crumble_float_length_steel |  
+| bip_39_word_underscore_9 | surprise_tourist_where_zone_crumble_float_length_steel_mixture |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

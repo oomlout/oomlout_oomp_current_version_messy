@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assault |  
+| bip_39_word_dash_10 | assault-disease-dilemma-mix-catch-capable-slide-alien-brown-quick |  
+| bip_39_word_dash_11 | assault-disease-dilemma-mix-catch-capable-slide-alien-brown-quick-reunion |  
+| bip_39_word_dash_12 | assault-disease-dilemma-mix-catch-capable-slide-alien-brown-quick-reunion-alcohol |  
+| bip_39_word_dash_2 | assault-disease |  
+| bip_39_word_dash_3 | assault-disease-dilemma |  
+| bip_39_word_dash_4 | assault-disease-dilemma-mix |  
+| bip_39_word_dash_5 | assault-disease-dilemma-mix-catch |  
+| bip_39_word_dash_6 | assault-disease-dilemma-mix-catch-capable |  
+| bip_39_word_dash_7 | assault-disease-dilemma-mix-catch-capable-slide |  
+| bip_39_word_dash_8 | assault-disease-dilemma-mix-catch-capable-slide-alien |  
+| bip_39_word_dash_9 | assault-disease-dilemma-mix-catch-capable-slide-alien-brown |  
 | bip_39_word_new_br_1 | assault |  
 | bip_39_word_new_br_10 | assault<br>disease<br>dilemma<br>mix<br>catch<br>capable<br>slide<br>alien<br>brown<br>quick |  
 | bip_39_word_new_br_11 | assault<br>disease<br>dilemma<br>mix<br>catch<br>capable<br>slide<br>alien<br>brown<br>quick<br>reunion |  
@@ -147,6 +159,18 @@ brown |
 | bip_39_word_space_7 | assault disease dilemma mix catch capable slide |  
 | bip_39_word_space_8 | assault disease dilemma mix catch capable slide alien |  
 | bip_39_word_space_9 | assault disease dilemma mix catch capable slide alien brown |  
+| bip_39_word_underscore_1 | assault |  
+| bip_39_word_underscore_10 | assault_disease_dilemma_mix_catch_capable_slide_alien_brown_quick |  
+| bip_39_word_underscore_11 | assault_disease_dilemma_mix_catch_capable_slide_alien_brown_quick_reunion |  
+| bip_39_word_underscore_12 | assault_disease_dilemma_mix_catch_capable_slide_alien_brown_quick_reunion_alcohol |  
+| bip_39_word_underscore_2 | assault_disease |  
+| bip_39_word_underscore_3 | assault_disease_dilemma |  
+| bip_39_word_underscore_4 | assault_disease_dilemma_mix |  
+| bip_39_word_underscore_5 | assault_disease_dilemma_mix_catch |  
+| bip_39_word_underscore_6 | assault_disease_dilemma_mix_catch_capable |  
+| bip_39_word_underscore_7 | assault_disease_dilemma_mix_catch_capable_slide |  
+| bip_39_word_underscore_8 | assault_disease_dilemma_mix_catch_capable_slide_alien |  
+| bip_39_word_underscore_9 | assault_disease_dilemma_mix_catch_capable_slide_alien_brown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

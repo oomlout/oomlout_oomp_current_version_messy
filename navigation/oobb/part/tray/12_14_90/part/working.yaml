@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inch
+bip_39_word_dash_10: inch-grass-when-embody-siren-network-all-impulse-ladder-cloud
+bip_39_word_dash_11: inch-grass-when-embody-siren-network-all-impulse-ladder-cloud-satisfy
+bip_39_word_dash_12: inch-grass-when-embody-siren-network-all-impulse-ladder-cloud-satisfy-announce
+bip_39_word_dash_2: inch-grass
+bip_39_word_dash_3: inch-grass-when
+bip_39_word_dash_4: inch-grass-when-embody
+bip_39_word_dash_5: inch-grass-when-embody-siren
+bip_39_word_dash_6: inch-grass-when-embody-siren-network
+bip_39_word_dash_7: inch-grass-when-embody-siren-network-all
+bip_39_word_dash_8: inch-grass-when-embody-siren-network-all-impulse
+bip_39_word_dash_9: inch-grass-when-embody-siren-network-all-impulse-ladder
 bip_39_word_new_br_1: inch
 bip_39_word_new_br_10: inch<br>grass<br>when<br>embody<br>siren<br>network<br>all<br>impulse<br>ladder<br>cloud
 bip_39_word_new_br_11: inch<br>grass<br>when<br>embody<br>siren<br>network<br>all<br>impulse<br>ladder<br>cloud<br>satisfy
@@ -193,6 +205,18 @@ bip_39_word_space_6: inch grass when embody siren network
 bip_39_word_space_7: inch grass when embody siren network all
 bip_39_word_space_8: inch grass when embody siren network all impulse
 bip_39_word_space_9: inch grass when embody siren network all impulse ladder
+bip_39_word_underscore_1: inch
+bip_39_word_underscore_10: inch_grass_when_embody_siren_network_all_impulse_ladder_cloud
+bip_39_word_underscore_11: inch_grass_when_embody_siren_network_all_impulse_ladder_cloud_satisfy
+bip_39_word_underscore_12: inch_grass_when_embody_siren_network_all_impulse_ladder_cloud_satisfy_announce
+bip_39_word_underscore_2: inch_grass
+bip_39_word_underscore_3: inch_grass_when
+bip_39_word_underscore_4: inch_grass_when_embody
+bip_39_word_underscore_5: inch_grass_when_embody_siren
+bip_39_word_underscore_6: inch_grass_when_embody_siren_network
+bip_39_word_underscore_7: inch_grass_when_embody_siren_network_all
+bip_39_word_underscore_8: inch_grass_when_embody_siren_network_all_impulse
+bip_39_word_underscore_9: inch_grass_when_embody_siren_network_all_impulse_ladder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

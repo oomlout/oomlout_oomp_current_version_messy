@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | word |  
+| bip_39_word_dash_10 | word-service-dinosaur-bean-ethics-favorite-kite-flash-grow-test |  
+| bip_39_word_dash_11 | word-service-dinosaur-bean-ethics-favorite-kite-flash-grow-test-dinosaur |  
+| bip_39_word_dash_12 | word-service-dinosaur-bean-ethics-favorite-kite-flash-grow-test-dinosaur-advance |  
+| bip_39_word_dash_2 | word-service |  
+| bip_39_word_dash_3 | word-service-dinosaur |  
+| bip_39_word_dash_4 | word-service-dinosaur-bean |  
+| bip_39_word_dash_5 | word-service-dinosaur-bean-ethics |  
+| bip_39_word_dash_6 | word-service-dinosaur-bean-ethics-favorite |  
+| bip_39_word_dash_7 | word-service-dinosaur-bean-ethics-favorite-kite |  
+| bip_39_word_dash_8 | word-service-dinosaur-bean-ethics-favorite-kite-flash |  
+| bip_39_word_dash_9 | word-service-dinosaur-bean-ethics-favorite-kite-flash-grow |  
 | bip_39_word_new_br_1 | word |  
 | bip_39_word_new_br_10 | word<br>service<br>dinosaur<br>bean<br>ethics<br>favorite<br>kite<br>flash<br>grow<br>test |  
 | bip_39_word_new_br_11 | word<br>service<br>dinosaur<br>bean<br>ethics<br>favorite<br>kite<br>flash<br>grow<br>test<br>dinosaur |  
@@ -147,6 +159,18 @@ grow |
 | bip_39_word_space_7 | word service dinosaur bean ethics favorite kite |  
 | bip_39_word_space_8 | word service dinosaur bean ethics favorite kite flash |  
 | bip_39_word_space_9 | word service dinosaur bean ethics favorite kite flash grow |  
+| bip_39_word_underscore_1 | word |  
+| bip_39_word_underscore_10 | word_service_dinosaur_bean_ethics_favorite_kite_flash_grow_test |  
+| bip_39_word_underscore_11 | word_service_dinosaur_bean_ethics_favorite_kite_flash_grow_test_dinosaur |  
+| bip_39_word_underscore_12 | word_service_dinosaur_bean_ethics_favorite_kite_flash_grow_test_dinosaur_advance |  
+| bip_39_word_underscore_2 | word_service |  
+| bip_39_word_underscore_3 | word_service_dinosaur |  
+| bip_39_word_underscore_4 | word_service_dinosaur_bean |  
+| bip_39_word_underscore_5 | word_service_dinosaur_bean_ethics |  
+| bip_39_word_underscore_6 | word_service_dinosaur_bean_ethics_favorite |  
+| bip_39_word_underscore_7 | word_service_dinosaur_bean_ethics_favorite_kite |  
+| bip_39_word_underscore_8 | word_service_dinosaur_bean_ethics_favorite_kite_flash |  
+| bip_39_word_underscore_9 | word_service_dinosaur_bean_ethics_favorite_kite_flash_grow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

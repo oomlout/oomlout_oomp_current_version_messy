@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | edit |  
+| bip_39_word_dash_10 | edit-visual-hello-bronze-negative-clean-around-lawsuit-snow-awake |  
+| bip_39_word_dash_11 | edit-visual-hello-bronze-negative-clean-around-lawsuit-snow-awake-convince |  
+| bip_39_word_dash_12 | edit-visual-hello-bronze-negative-clean-around-lawsuit-snow-awake-convince-any |  
+| bip_39_word_dash_2 | edit-visual |  
+| bip_39_word_dash_3 | edit-visual-hello |  
+| bip_39_word_dash_4 | edit-visual-hello-bronze |  
+| bip_39_word_dash_5 | edit-visual-hello-bronze-negative |  
+| bip_39_word_dash_6 | edit-visual-hello-bronze-negative-clean |  
+| bip_39_word_dash_7 | edit-visual-hello-bronze-negative-clean-around |  
+| bip_39_word_dash_8 | edit-visual-hello-bronze-negative-clean-around-lawsuit |  
+| bip_39_word_dash_9 | edit-visual-hello-bronze-negative-clean-around-lawsuit-snow |  
 | bip_39_word_new_br_1 | edit |  
 | bip_39_word_new_br_10 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit<br>snow<br>awake |  
 | bip_39_word_new_br_11 | edit<br>visual<br>hello<br>bronze<br>negative<br>clean<br>around<br>lawsuit<br>snow<br>awake<br>convince |  
@@ -147,6 +159,18 @@ snow |
 | bip_39_word_space_7 | edit visual hello bronze negative clean around |  
 | bip_39_word_space_8 | edit visual hello bronze negative clean around lawsuit |  
 | bip_39_word_space_9 | edit visual hello bronze negative clean around lawsuit snow |  
+| bip_39_word_underscore_1 | edit |  
+| bip_39_word_underscore_10 | edit_visual_hello_bronze_negative_clean_around_lawsuit_snow_awake |  
+| bip_39_word_underscore_11 | edit_visual_hello_bronze_negative_clean_around_lawsuit_snow_awake_convince |  
+| bip_39_word_underscore_12 | edit_visual_hello_bronze_negative_clean_around_lawsuit_snow_awake_convince_any |  
+| bip_39_word_underscore_2 | edit_visual |  
+| bip_39_word_underscore_3 | edit_visual_hello |  
+| bip_39_word_underscore_4 | edit_visual_hello_bronze |  
+| bip_39_word_underscore_5 | edit_visual_hello_bronze_negative |  
+| bip_39_word_underscore_6 | edit_visual_hello_bronze_negative_clean |  
+| bip_39_word_underscore_7 | edit_visual_hello_bronze_negative_clean_around |  
+| bip_39_word_underscore_8 | edit_visual_hello_bronze_negative_clean_around_lawsuit |  
+| bip_39_word_underscore_9 | edit_visual_hello_bronze_negative_clean_around_lawsuit_snow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

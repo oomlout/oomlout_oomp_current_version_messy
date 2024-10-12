@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | night |  
+| bip_39_word_dash_10 | night-protect-hospital-invite-pride-mule-jacket-warm-trust-clever |  
+| bip_39_word_dash_11 | night-protect-hospital-invite-pride-mule-jacket-warm-trust-clever-vivid |  
+| bip_39_word_dash_12 | night-protect-hospital-invite-pride-mule-jacket-warm-trust-clever-vivid-answer |  
+| bip_39_word_dash_2 | night-protect |  
+| bip_39_word_dash_3 | night-protect-hospital |  
+| bip_39_word_dash_4 | night-protect-hospital-invite |  
+| bip_39_word_dash_5 | night-protect-hospital-invite-pride |  
+| bip_39_word_dash_6 | night-protect-hospital-invite-pride-mule |  
+| bip_39_word_dash_7 | night-protect-hospital-invite-pride-mule-jacket |  
+| bip_39_word_dash_8 | night-protect-hospital-invite-pride-mule-jacket-warm |  
+| bip_39_word_dash_9 | night-protect-hospital-invite-pride-mule-jacket-warm-trust |  
 | bip_39_word_new_br_1 | night |  
 | bip_39_word_new_br_10 | night<br>protect<br>hospital<br>invite<br>pride<br>mule<br>jacket<br>warm<br>trust<br>clever |  
 | bip_39_word_new_br_11 | night<br>protect<br>hospital<br>invite<br>pride<br>mule<br>jacket<br>warm<br>trust<br>clever<br>vivid |  
@@ -147,6 +159,18 @@ trust |
 | bip_39_word_space_7 | night protect hospital invite pride mule jacket |  
 | bip_39_word_space_8 | night protect hospital invite pride mule jacket warm |  
 | bip_39_word_space_9 | night protect hospital invite pride mule jacket warm trust |  
+| bip_39_word_underscore_1 | night |  
+| bip_39_word_underscore_10 | night_protect_hospital_invite_pride_mule_jacket_warm_trust_clever |  
+| bip_39_word_underscore_11 | night_protect_hospital_invite_pride_mule_jacket_warm_trust_clever_vivid |  
+| bip_39_word_underscore_12 | night_protect_hospital_invite_pride_mule_jacket_warm_trust_clever_vivid_answer |  
+| bip_39_word_underscore_2 | night_protect |  
+| bip_39_word_underscore_3 | night_protect_hospital |  
+| bip_39_word_underscore_4 | night_protect_hospital_invite |  
+| bip_39_word_underscore_5 | night_protect_hospital_invite_pride |  
+| bip_39_word_underscore_6 | night_protect_hospital_invite_pride_mule |  
+| bip_39_word_underscore_7 | night_protect_hospital_invite_pride_mule_jacket |  
+| bip_39_word_underscore_8 | night_protect_hospital_invite_pride_mule_jacket_warm |  
+| bip_39_word_underscore_9 | night_protect_hospital_invite_pride_mule_jacket_warm_trust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

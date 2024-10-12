@@ -1,3 +1,15 @@
+bip_39_word_dash_1: season
+bip_39_word_dash_10: season-electric-pepper-seed-sell-region-pupil-scan-kiwi-rug
+bip_39_word_dash_11: season-electric-pepper-seed-sell-region-pupil-scan-kiwi-rug-praise
+bip_39_word_dash_12: season-electric-pepper-seed-sell-region-pupil-scan-kiwi-rug-praise-amateur
+bip_39_word_dash_2: season-electric
+bip_39_word_dash_3: season-electric-pepper
+bip_39_word_dash_4: season-electric-pepper-seed
+bip_39_word_dash_5: season-electric-pepper-seed-sell
+bip_39_word_dash_6: season-electric-pepper-seed-sell-region
+bip_39_word_dash_7: season-electric-pepper-seed-sell-region-pupil
+bip_39_word_dash_8: season-electric-pepper-seed-sell-region-pupil-scan
+bip_39_word_dash_9: season-electric-pepper-seed-sell-region-pupil-scan-kiwi
 bip_39_word_new_br_1: season
 bip_39_word_new_br_10: season<br>electric<br>pepper<br>seed<br>sell<br>region<br>pupil<br>scan<br>kiwi<br>rug
 bip_39_word_new_br_11: season<br>electric<br>pepper<br>seed<br>sell<br>region<br>pupil<br>scan<br>kiwi<br>rug<br>praise
@@ -193,6 +205,18 @@ bip_39_word_space_6: season electric pepper seed sell region
 bip_39_word_space_7: season electric pepper seed sell region pupil
 bip_39_word_space_8: season electric pepper seed sell region pupil scan
 bip_39_word_space_9: season electric pepper seed sell region pupil scan kiwi
+bip_39_word_underscore_1: season
+bip_39_word_underscore_10: season_electric_pepper_seed_sell_region_pupil_scan_kiwi_rug
+bip_39_word_underscore_11: season_electric_pepper_seed_sell_region_pupil_scan_kiwi_rug_praise
+bip_39_word_underscore_12: season_electric_pepper_seed_sell_region_pupil_scan_kiwi_rug_praise_amateur
+bip_39_word_underscore_2: season_electric
+bip_39_word_underscore_3: season_electric_pepper
+bip_39_word_underscore_4: season_electric_pepper_seed
+bip_39_word_underscore_5: season_electric_pepper_seed_sell
+bip_39_word_underscore_6: season_electric_pepper_seed_sell_region
+bip_39_word_underscore_7: season_electric_pepper_seed_sell_region_pupil
+bip_39_word_underscore_8: season_electric_pepper_seed_sell_region_pupil_scan
+bip_39_word_underscore_9: season_electric_pepper_seed_sell_region_pupil_scan_kiwi
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

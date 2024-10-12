@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wink
+bip_39_word_dash_10: wink-gospel-pulp-cross-road-burst-invest-buzz-man-solution
+bip_39_word_dash_11: wink-gospel-pulp-cross-road-burst-invest-buzz-man-solution-story
+bip_39_word_dash_12: wink-gospel-pulp-cross-road-burst-invest-buzz-man-solution-story-animal
+bip_39_word_dash_2: wink-gospel
+bip_39_word_dash_3: wink-gospel-pulp
+bip_39_word_dash_4: wink-gospel-pulp-cross
+bip_39_word_dash_5: wink-gospel-pulp-cross-road
+bip_39_word_dash_6: wink-gospel-pulp-cross-road-burst
+bip_39_word_dash_7: wink-gospel-pulp-cross-road-burst-invest
+bip_39_word_dash_8: wink-gospel-pulp-cross-road-burst-invest-buzz
+bip_39_word_dash_9: wink-gospel-pulp-cross-road-burst-invest-buzz-man
 bip_39_word_new_br_1: wink
 bip_39_word_new_br_10: wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz<br>man<br>solution
 bip_39_word_new_br_11: wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz<br>man<br>solution<br>story
@@ -192,6 +204,18 @@ bip_39_word_space_6: wink gospel pulp cross road burst
 bip_39_word_space_7: wink gospel pulp cross road burst invest
 bip_39_word_space_8: wink gospel pulp cross road burst invest buzz
 bip_39_word_space_9: wink gospel pulp cross road burst invest buzz man
+bip_39_word_underscore_1: wink
+bip_39_word_underscore_10: wink_gospel_pulp_cross_road_burst_invest_buzz_man_solution
+bip_39_word_underscore_11: wink_gospel_pulp_cross_road_burst_invest_buzz_man_solution_story
+bip_39_word_underscore_12: wink_gospel_pulp_cross_road_burst_invest_buzz_man_solution_story_animal
+bip_39_word_underscore_2: wink_gospel
+bip_39_word_underscore_3: wink_gospel_pulp
+bip_39_word_underscore_4: wink_gospel_pulp_cross
+bip_39_word_underscore_5: wink_gospel_pulp_cross_road
+bip_39_word_underscore_6: wink_gospel_pulp_cross_road_burst
+bip_39_word_underscore_7: wink_gospel_pulp_cross_road_burst_invest
+bip_39_word_underscore_8: wink_gospel_pulp_cross_road_burst_invest_buzz
+bip_39_word_underscore_9: wink_gospel_pulp_cross_road_burst_invest_buzz_man
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

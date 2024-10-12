@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | purity |  
+| bip_39_word_dash_10 | purity-rack-elbow-fiber-cycle-invite-fix-chaos-drink-feed |  
+| bip_39_word_dash_11 | purity-rack-elbow-fiber-cycle-invite-fix-chaos-drink-feed-onion |  
+| bip_39_word_dash_12 | purity-rack-elbow-fiber-cycle-invite-fix-chaos-drink-feed-onion-anxiety |  
+| bip_39_word_dash_2 | purity-rack |  
+| bip_39_word_dash_3 | purity-rack-elbow |  
+| bip_39_word_dash_4 | purity-rack-elbow-fiber |  
+| bip_39_word_dash_5 | purity-rack-elbow-fiber-cycle |  
+| bip_39_word_dash_6 | purity-rack-elbow-fiber-cycle-invite |  
+| bip_39_word_dash_7 | purity-rack-elbow-fiber-cycle-invite-fix |  
+| bip_39_word_dash_8 | purity-rack-elbow-fiber-cycle-invite-fix-chaos |  
+| bip_39_word_dash_9 | purity-rack-elbow-fiber-cycle-invite-fix-chaos-drink |  
 | bip_39_word_new_br_1 | purity |  
 | bip_39_word_new_br_10 | purity<br>rack<br>elbow<br>fiber<br>cycle<br>invite<br>fix<br>chaos<br>drink<br>feed |  
 | bip_39_word_new_br_11 | purity<br>rack<br>elbow<br>fiber<br>cycle<br>invite<br>fix<br>chaos<br>drink<br>feed<br>onion |  
@@ -147,6 +159,18 @@ drink |
 | bip_39_word_space_7 | purity rack elbow fiber cycle invite fix |  
 | bip_39_word_space_8 | purity rack elbow fiber cycle invite fix chaos |  
 | bip_39_word_space_9 | purity rack elbow fiber cycle invite fix chaos drink |  
+| bip_39_word_underscore_1 | purity |  
+| bip_39_word_underscore_10 | purity_rack_elbow_fiber_cycle_invite_fix_chaos_drink_feed |  
+| bip_39_word_underscore_11 | purity_rack_elbow_fiber_cycle_invite_fix_chaos_drink_feed_onion |  
+| bip_39_word_underscore_12 | purity_rack_elbow_fiber_cycle_invite_fix_chaos_drink_feed_onion_anxiety |  
+| bip_39_word_underscore_2 | purity_rack |  
+| bip_39_word_underscore_3 | purity_rack_elbow |  
+| bip_39_word_underscore_4 | purity_rack_elbow_fiber |  
+| bip_39_word_underscore_5 | purity_rack_elbow_fiber_cycle |  
+| bip_39_word_underscore_6 | purity_rack_elbow_fiber_cycle_invite |  
+| bip_39_word_underscore_7 | purity_rack_elbow_fiber_cycle_invite_fix |  
+| bip_39_word_underscore_8 | purity_rack_elbow_fiber_cycle_invite_fix_chaos |  
+| bip_39_word_underscore_9 | purity_rack_elbow_fiber_cycle_invite_fix_chaos_drink |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

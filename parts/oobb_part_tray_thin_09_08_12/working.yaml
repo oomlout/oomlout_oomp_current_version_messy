@@ -1,3 +1,15 @@
+bip_39_word_dash_1: street
+bip_39_word_dash_10: street-museum-solve-city-mixed-bubble-brain-believe-lizard-bag
+bip_39_word_dash_11: street-museum-solve-city-mixed-bubble-brain-believe-lizard-bag-modify
+bip_39_word_dash_12: street-museum-solve-city-mixed-bubble-brain-believe-lizard-bag-modify-attract
+bip_39_word_dash_2: street-museum
+bip_39_word_dash_3: street-museum-solve
+bip_39_word_dash_4: street-museum-solve-city
+bip_39_word_dash_5: street-museum-solve-city-mixed
+bip_39_word_dash_6: street-museum-solve-city-mixed-bubble
+bip_39_word_dash_7: street-museum-solve-city-mixed-bubble-brain
+bip_39_word_dash_8: street-museum-solve-city-mixed-bubble-brain-believe
+bip_39_word_dash_9: street-museum-solve-city-mixed-bubble-brain-believe-lizard
 bip_39_word_new_br_1: street
 bip_39_word_new_br_10: street<br>museum<br>solve<br>city<br>mixed<br>bubble<br>brain<br>believe<br>lizard<br>bag
 bip_39_word_new_br_11: street<br>museum<br>solve<br>city<br>mixed<br>bubble<br>brain<br>believe<br>lizard<br>bag<br>modify
@@ -193,6 +205,18 @@ bip_39_word_space_6: street museum solve city mixed bubble
 bip_39_word_space_7: street museum solve city mixed bubble brain
 bip_39_word_space_8: street museum solve city mixed bubble brain believe
 bip_39_word_space_9: street museum solve city mixed bubble brain believe lizard
+bip_39_word_underscore_1: street
+bip_39_word_underscore_10: street_museum_solve_city_mixed_bubble_brain_believe_lizard_bag
+bip_39_word_underscore_11: street_museum_solve_city_mixed_bubble_brain_believe_lizard_bag_modify
+bip_39_word_underscore_12: street_museum_solve_city_mixed_bubble_brain_believe_lizard_bag_modify_attract
+bip_39_word_underscore_2: street_museum
+bip_39_word_underscore_3: street_museum_solve
+bip_39_word_underscore_4: street_museum_solve_city
+bip_39_word_underscore_5: street_museum_solve_city_mixed
+bip_39_word_underscore_6: street_museum_solve_city_mixed_bubble
+bip_39_word_underscore_7: street_museum_solve_city_mixed_bubble_brain
+bip_39_word_underscore_8: street_museum_solve_city_mixed_bubble_brain_believe
+bip_39_word_underscore_9: street_museum_solve_city_mixed_bubble_brain_believe_lizard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

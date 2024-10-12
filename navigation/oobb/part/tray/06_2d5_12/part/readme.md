@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | someone |  
+| bip_39_word_dash_10 | someone-avoid-rule-wash-rapid-imitate-immune-crime-narrow-month |  
+| bip_39_word_dash_11 | someone-avoid-rule-wash-rapid-imitate-immune-crime-narrow-month-coyote |  
+| bip_39_word_dash_12 | someone-avoid-rule-wash-rapid-imitate-immune-crime-narrow-month-coyote-across |  
+| bip_39_word_dash_2 | someone-avoid |  
+| bip_39_word_dash_3 | someone-avoid-rule |  
+| bip_39_word_dash_4 | someone-avoid-rule-wash |  
+| bip_39_word_dash_5 | someone-avoid-rule-wash-rapid |  
+| bip_39_word_dash_6 | someone-avoid-rule-wash-rapid-imitate |  
+| bip_39_word_dash_7 | someone-avoid-rule-wash-rapid-imitate-immune |  
+| bip_39_word_dash_8 | someone-avoid-rule-wash-rapid-imitate-immune-crime |  
+| bip_39_word_dash_9 | someone-avoid-rule-wash-rapid-imitate-immune-crime-narrow |  
 | bip_39_word_new_br_1 | someone |  
 | bip_39_word_new_br_10 | someone<br>avoid<br>rule<br>wash<br>rapid<br>imitate<br>immune<br>crime<br>narrow<br>month |  
 | bip_39_word_new_br_11 | someone<br>avoid<br>rule<br>wash<br>rapid<br>imitate<br>immune<br>crime<br>narrow<br>month<br>coyote |  
@@ -147,6 +159,18 @@ narrow |
 | bip_39_word_space_7 | someone avoid rule wash rapid imitate immune |  
 | bip_39_word_space_8 | someone avoid rule wash rapid imitate immune crime |  
 | bip_39_word_space_9 | someone avoid rule wash rapid imitate immune crime narrow |  
+| bip_39_word_underscore_1 | someone |  
+| bip_39_word_underscore_10 | someone_avoid_rule_wash_rapid_imitate_immune_crime_narrow_month |  
+| bip_39_word_underscore_11 | someone_avoid_rule_wash_rapid_imitate_immune_crime_narrow_month_coyote |  
+| bip_39_word_underscore_12 | someone_avoid_rule_wash_rapid_imitate_immune_crime_narrow_month_coyote_across |  
+| bip_39_word_underscore_2 | someone_avoid |  
+| bip_39_word_underscore_3 | someone_avoid_rule |  
+| bip_39_word_underscore_4 | someone_avoid_rule_wash |  
+| bip_39_word_underscore_5 | someone_avoid_rule_wash_rapid |  
+| bip_39_word_underscore_6 | someone_avoid_rule_wash_rapid_imitate |  
+| bip_39_word_underscore_7 | someone_avoid_rule_wash_rapid_imitate_immune |  
+| bip_39_word_underscore_8 | someone_avoid_rule_wash_rapid_imitate_immune_crime |  
+| bip_39_word_underscore_9 | someone_avoid_rule_wash_rapid_imitate_immune_crime_narrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

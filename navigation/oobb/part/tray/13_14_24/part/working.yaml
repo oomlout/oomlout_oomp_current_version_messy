@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toddler
+bip_39_word_dash_10: toddler-rose-hedgehog-improve-topple-tower-gesture-jazz-decline-shoulder
+bip_39_word_dash_11: toddler-rose-hedgehog-improve-topple-tower-gesture-jazz-decline-shoulder-embody
+bip_39_word_dash_12: toddler-rose-hedgehog-improve-topple-tower-gesture-jazz-decline-shoulder-embody-armor
+bip_39_word_dash_2: toddler-rose
+bip_39_word_dash_3: toddler-rose-hedgehog
+bip_39_word_dash_4: toddler-rose-hedgehog-improve
+bip_39_word_dash_5: toddler-rose-hedgehog-improve-topple
+bip_39_word_dash_6: toddler-rose-hedgehog-improve-topple-tower
+bip_39_word_dash_7: toddler-rose-hedgehog-improve-topple-tower-gesture
+bip_39_word_dash_8: toddler-rose-hedgehog-improve-topple-tower-gesture-jazz
+bip_39_word_dash_9: toddler-rose-hedgehog-improve-topple-tower-gesture-jazz-decline
 bip_39_word_new_br_1: toddler
 bip_39_word_new_br_10: toddler<br>rose<br>hedgehog<br>improve<br>topple<br>tower<br>gesture<br>jazz<br>decline<br>shoulder
 bip_39_word_new_br_11: toddler<br>rose<br>hedgehog<br>improve<br>topple<br>tower<br>gesture<br>jazz<br>decline<br>shoulder<br>embody
@@ -194,6 +206,18 @@ bip_39_word_space_6: toddler rose hedgehog improve topple tower
 bip_39_word_space_7: toddler rose hedgehog improve topple tower gesture
 bip_39_word_space_8: toddler rose hedgehog improve topple tower gesture jazz
 bip_39_word_space_9: toddler rose hedgehog improve topple tower gesture jazz decline
+bip_39_word_underscore_1: toddler
+bip_39_word_underscore_10: toddler_rose_hedgehog_improve_topple_tower_gesture_jazz_decline_shoulder
+bip_39_word_underscore_11: toddler_rose_hedgehog_improve_topple_tower_gesture_jazz_decline_shoulder_embody
+bip_39_word_underscore_12: toddler_rose_hedgehog_improve_topple_tower_gesture_jazz_decline_shoulder_embody_armor
+bip_39_word_underscore_2: toddler_rose
+bip_39_word_underscore_3: toddler_rose_hedgehog
+bip_39_word_underscore_4: toddler_rose_hedgehog_improve
+bip_39_word_underscore_5: toddler_rose_hedgehog_improve_topple
+bip_39_word_underscore_6: toddler_rose_hedgehog_improve_topple_tower
+bip_39_word_underscore_7: toddler_rose_hedgehog_improve_topple_tower_gesture
+bip_39_word_underscore_8: toddler_rose_hedgehog_improve_topple_tower_gesture_jazz
+bip_39_word_underscore_9: toddler_rose_hedgehog_improve_topple_tower_gesture_jazz_decline
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | item |  
+| bip_39_word_dash_10 | item-heavy-detect-economy-alpha-quarter-online-secret-resist-river |  
+| bip_39_word_dash_11 | item-heavy-detect-economy-alpha-quarter-online-secret-resist-river-blouse |  
+| bip_39_word_dash_12 | item-heavy-detect-economy-alpha-quarter-online-secret-resist-river-blouse-avocado |  
+| bip_39_word_dash_2 | item-heavy |  
+| bip_39_word_dash_3 | item-heavy-detect |  
+| bip_39_word_dash_4 | item-heavy-detect-economy |  
+| bip_39_word_dash_5 | item-heavy-detect-economy-alpha |  
+| bip_39_word_dash_6 | item-heavy-detect-economy-alpha-quarter |  
+| bip_39_word_dash_7 | item-heavy-detect-economy-alpha-quarter-online |  
+| bip_39_word_dash_8 | item-heavy-detect-economy-alpha-quarter-online-secret |  
+| bip_39_word_dash_9 | item-heavy-detect-economy-alpha-quarter-online-secret-resist |  
 | bip_39_word_new_br_1 | item |  
 | bip_39_word_new_br_10 | item<br>heavy<br>detect<br>economy<br>alpha<br>quarter<br>online<br>secret<br>resist<br>river |  
 | bip_39_word_new_br_11 | item<br>heavy<br>detect<br>economy<br>alpha<br>quarter<br>online<br>secret<br>resist<br>river<br>blouse |  
@@ -147,6 +159,18 @@ resist |
 | bip_39_word_space_7 | item heavy detect economy alpha quarter online |  
 | bip_39_word_space_8 | item heavy detect economy alpha quarter online secret |  
 | bip_39_word_space_9 | item heavy detect economy alpha quarter online secret resist |  
+| bip_39_word_underscore_1 | item |  
+| bip_39_word_underscore_10 | item_heavy_detect_economy_alpha_quarter_online_secret_resist_river |  
+| bip_39_word_underscore_11 | item_heavy_detect_economy_alpha_quarter_online_secret_resist_river_blouse |  
+| bip_39_word_underscore_12 | item_heavy_detect_economy_alpha_quarter_online_secret_resist_river_blouse_avocado |  
+| bip_39_word_underscore_2 | item_heavy |  
+| bip_39_word_underscore_3 | item_heavy_detect |  
+| bip_39_word_underscore_4 | item_heavy_detect_economy |  
+| bip_39_word_underscore_5 | item_heavy_detect_economy_alpha |  
+| bip_39_word_underscore_6 | item_heavy_detect_economy_alpha_quarter |  
+| bip_39_word_underscore_7 | item_heavy_detect_economy_alpha_quarter_online |  
+| bip_39_word_underscore_8 | item_heavy_detect_economy_alpha_quarter_online_secret |  
+| bip_39_word_underscore_9 | item_heavy_detect_economy_alpha_quarter_online_secret_resist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

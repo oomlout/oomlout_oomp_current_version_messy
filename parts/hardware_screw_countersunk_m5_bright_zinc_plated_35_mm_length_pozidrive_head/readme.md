@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | put |  
+| bip_39_word_dash_10 | put-teach-hockey-drip-fancy-normal-surface-hello-reject-trust |  
+| bip_39_word_dash_11 | put-teach-hockey-drip-fancy-normal-surface-hello-reject-trust-avocado |  
+| bip_39_word_dash_12 | put-teach-hockey-drip-fancy-normal-surface-hello-reject-trust-avocado-attitude |  
+| bip_39_word_dash_2 | put-teach |  
+| bip_39_word_dash_3 | put-teach-hockey |  
+| bip_39_word_dash_4 | put-teach-hockey-drip |  
+| bip_39_word_dash_5 | put-teach-hockey-drip-fancy |  
+| bip_39_word_dash_6 | put-teach-hockey-drip-fancy-normal |  
+| bip_39_word_dash_7 | put-teach-hockey-drip-fancy-normal-surface |  
+| bip_39_word_dash_8 | put-teach-hockey-drip-fancy-normal-surface-hello |  
+| bip_39_word_dash_9 | put-teach-hockey-drip-fancy-normal-surface-hello-reject |  
 | bip_39_word_new_br_1 | put |  
 | bip_39_word_new_br_10 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust |  
 | bip_39_word_new_br_11 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust<br>avocado |  
@@ -147,6 +159,18 @@ reject |
 | bip_39_word_space_7 | put teach hockey drip fancy normal surface |  
 | bip_39_word_space_8 | put teach hockey drip fancy normal surface hello |  
 | bip_39_word_space_9 | put teach hockey drip fancy normal surface hello reject |  
+| bip_39_word_underscore_1 | put |  
+| bip_39_word_underscore_10 | put_teach_hockey_drip_fancy_normal_surface_hello_reject_trust |  
+| bip_39_word_underscore_11 | put_teach_hockey_drip_fancy_normal_surface_hello_reject_trust_avocado |  
+| bip_39_word_underscore_12 | put_teach_hockey_drip_fancy_normal_surface_hello_reject_trust_avocado_attitude |  
+| bip_39_word_underscore_2 | put_teach |  
+| bip_39_word_underscore_3 | put_teach_hockey |  
+| bip_39_word_underscore_4 | put_teach_hockey_drip |  
+| bip_39_word_underscore_5 | put_teach_hockey_drip_fancy |  
+| bip_39_word_underscore_6 | put_teach_hockey_drip_fancy_normal |  
+| bip_39_word_underscore_7 | put_teach_hockey_drip_fancy_normal_surface |  
+| bip_39_word_underscore_8 | put_teach_hockey_drip_fancy_normal_surface_hello |  
+| bip_39_word_underscore_9 | put_teach_hockey_drip_fancy_normal_surface_hello_reject |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

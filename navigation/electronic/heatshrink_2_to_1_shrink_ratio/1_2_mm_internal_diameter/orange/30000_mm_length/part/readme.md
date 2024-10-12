@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sign |  
+| bip_39_word_dash_10 | sign-satoshi-history-lion-victory-drama-eternal-toward-address-kitten |  
+| bip_39_word_dash_11 | sign-satoshi-history-lion-victory-drama-eternal-toward-address-kitten-emerge |  
+| bip_39_word_dash_12 | sign-satoshi-history-lion-victory-drama-eternal-toward-address-kitten-emerge-allow |  
+| bip_39_word_dash_2 | sign-satoshi |  
+| bip_39_word_dash_3 | sign-satoshi-history |  
+| bip_39_word_dash_4 | sign-satoshi-history-lion |  
+| bip_39_word_dash_5 | sign-satoshi-history-lion-victory |  
+| bip_39_word_dash_6 | sign-satoshi-history-lion-victory-drama |  
+| bip_39_word_dash_7 | sign-satoshi-history-lion-victory-drama-eternal |  
+| bip_39_word_dash_8 | sign-satoshi-history-lion-victory-drama-eternal-toward |  
+| bip_39_word_dash_9 | sign-satoshi-history-lion-victory-drama-eternal-toward-address |  
 | bip_39_word_new_br_1 | sign |  
 | bip_39_word_new_br_10 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward<br>address<br>kitten |  
 | bip_39_word_new_br_11 | sign<br>satoshi<br>history<br>lion<br>victory<br>drama<br>eternal<br>toward<br>address<br>kitten<br>emerge |  
@@ -147,6 +159,18 @@ address |
 | bip_39_word_space_7 | sign satoshi history lion victory drama eternal |  
 | bip_39_word_space_8 | sign satoshi history lion victory drama eternal toward |  
 | bip_39_word_space_9 | sign satoshi history lion victory drama eternal toward address |  
+| bip_39_word_underscore_1 | sign |  
+| bip_39_word_underscore_10 | sign_satoshi_history_lion_victory_drama_eternal_toward_address_kitten |  
+| bip_39_word_underscore_11 | sign_satoshi_history_lion_victory_drama_eternal_toward_address_kitten_emerge |  
+| bip_39_word_underscore_12 | sign_satoshi_history_lion_victory_drama_eternal_toward_address_kitten_emerge_allow |  
+| bip_39_word_underscore_2 | sign_satoshi |  
+| bip_39_word_underscore_3 | sign_satoshi_history |  
+| bip_39_word_underscore_4 | sign_satoshi_history_lion |  
+| bip_39_word_underscore_5 | sign_satoshi_history_lion_victory |  
+| bip_39_word_underscore_6 | sign_satoshi_history_lion_victory_drama |  
+| bip_39_word_underscore_7 | sign_satoshi_history_lion_victory_drama_eternal |  
+| bip_39_word_underscore_8 | sign_satoshi_history_lion_victory_drama_eternal_toward |  
+| bip_39_word_underscore_9 | sign_satoshi_history_lion_victory_drama_eternal_toward_address |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

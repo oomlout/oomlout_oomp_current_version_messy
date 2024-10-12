@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | moon |  
+| bip_39_word_dash_10 | moon-flower-shrimp-believe-push-return-option-desert-surge-field |  
+| bip_39_word_dash_11 | moon-flower-shrimp-believe-push-return-option-desert-surge-field-ribbon |  
+| bip_39_word_dash_12 | moon-flower-shrimp-believe-push-return-option-desert-surge-field-ribbon-audit |  
+| bip_39_word_dash_2 | moon-flower |  
+| bip_39_word_dash_3 | moon-flower-shrimp |  
+| bip_39_word_dash_4 | moon-flower-shrimp-believe |  
+| bip_39_word_dash_5 | moon-flower-shrimp-believe-push |  
+| bip_39_word_dash_6 | moon-flower-shrimp-believe-push-return |  
+| bip_39_word_dash_7 | moon-flower-shrimp-believe-push-return-option |  
+| bip_39_word_dash_8 | moon-flower-shrimp-believe-push-return-option-desert |  
+| bip_39_word_dash_9 | moon-flower-shrimp-believe-push-return-option-desert-surge |  
 | bip_39_word_new_br_1 | moon |  
 | bip_39_word_new_br_10 | moon<br>flower<br>shrimp<br>believe<br>push<br>return<br>option<br>desert<br>surge<br>field |  
 | bip_39_word_new_br_11 | moon<br>flower<br>shrimp<br>believe<br>push<br>return<br>option<br>desert<br>surge<br>field<br>ribbon |  
@@ -147,6 +159,18 @@ surge |
 | bip_39_word_space_7 | moon flower shrimp believe push return option |  
 | bip_39_word_space_8 | moon flower shrimp believe push return option desert |  
 | bip_39_word_space_9 | moon flower shrimp believe push return option desert surge |  
+| bip_39_word_underscore_1 | moon |  
+| bip_39_word_underscore_10 | moon_flower_shrimp_believe_push_return_option_desert_surge_field |  
+| bip_39_word_underscore_11 | moon_flower_shrimp_believe_push_return_option_desert_surge_field_ribbon |  
+| bip_39_word_underscore_12 | moon_flower_shrimp_believe_push_return_option_desert_surge_field_ribbon_audit |  
+| bip_39_word_underscore_2 | moon_flower |  
+| bip_39_word_underscore_3 | moon_flower_shrimp |  
+| bip_39_word_underscore_4 | moon_flower_shrimp_believe |  
+| bip_39_word_underscore_5 | moon_flower_shrimp_believe_push |  
+| bip_39_word_underscore_6 | moon_flower_shrimp_believe_push_return |  
+| bip_39_word_underscore_7 | moon_flower_shrimp_believe_push_return_option |  
+| bip_39_word_underscore_8 | moon_flower_shrimp_believe_push_return_option_desert |  
+| bip_39_word_underscore_9 | moon_flower_shrimp_believe_push_return_option_desert_surge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

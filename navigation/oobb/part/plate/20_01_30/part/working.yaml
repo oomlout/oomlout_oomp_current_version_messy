@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fault
+bip_39_word_dash_10: fault-lady-twist-shallow-employ-afraid-build-island-combine-grocery
+bip_39_word_dash_11: fault-lady-twist-shallow-employ-afraid-build-island-combine-grocery-alone
+bip_39_word_dash_12: fault-lady-twist-shallow-employ-afraid-build-island-combine-grocery-alone-address
+bip_39_word_dash_2: fault-lady
+bip_39_word_dash_3: fault-lady-twist
+bip_39_word_dash_4: fault-lady-twist-shallow
+bip_39_word_dash_5: fault-lady-twist-shallow-employ
+bip_39_word_dash_6: fault-lady-twist-shallow-employ-afraid
+bip_39_word_dash_7: fault-lady-twist-shallow-employ-afraid-build
+bip_39_word_dash_8: fault-lady-twist-shallow-employ-afraid-build-island
+bip_39_word_dash_9: fault-lady-twist-shallow-employ-afraid-build-island-combine
 bip_39_word_new_br_1: fault
 bip_39_word_new_br_10: fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island<br>combine<br>grocery
 bip_39_word_new_br_11: fault<br>lady<br>twist<br>shallow<br>employ<br>afraid<br>build<br>island<br>combine<br>grocery<br>alone
@@ -194,6 +206,18 @@ bip_39_word_space_6: fault lady twist shallow employ afraid
 bip_39_word_space_7: fault lady twist shallow employ afraid build
 bip_39_word_space_8: fault lady twist shallow employ afraid build island
 bip_39_word_space_9: fault lady twist shallow employ afraid build island combine
+bip_39_word_underscore_1: fault
+bip_39_word_underscore_10: fault_lady_twist_shallow_employ_afraid_build_island_combine_grocery
+bip_39_word_underscore_11: fault_lady_twist_shallow_employ_afraid_build_island_combine_grocery_alone
+bip_39_word_underscore_12: fault_lady_twist_shallow_employ_afraid_build_island_combine_grocery_alone_address
+bip_39_word_underscore_2: fault_lady
+bip_39_word_underscore_3: fault_lady_twist
+bip_39_word_underscore_4: fault_lady_twist_shallow
+bip_39_word_underscore_5: fault_lady_twist_shallow_employ
+bip_39_word_underscore_6: fault_lady_twist_shallow_employ_afraid
+bip_39_word_underscore_7: fault_lady_twist_shallow_employ_afraid_build
+bip_39_word_underscore_8: fault_lady_twist_shallow_employ_afraid_build_island
+bip_39_word_underscore_9: fault_lady_twist_shallow_employ_afraid_build_island_combine
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glass |  
+| bip_39_word_dash_10 | glass-essence-slender-chalk-virus-river-scorpion-you-west-sail |  
+| bip_39_word_dash_11 | glass-essence-slender-chalk-virus-river-scorpion-you-west-sail-upon |  
+| bip_39_word_dash_12 | glass-essence-slender-chalk-virus-river-scorpion-you-west-sail-upon-album |  
+| bip_39_word_dash_2 | glass-essence |  
+| bip_39_word_dash_3 | glass-essence-slender |  
+| bip_39_word_dash_4 | glass-essence-slender-chalk |  
+| bip_39_word_dash_5 | glass-essence-slender-chalk-virus |  
+| bip_39_word_dash_6 | glass-essence-slender-chalk-virus-river |  
+| bip_39_word_dash_7 | glass-essence-slender-chalk-virus-river-scorpion |  
+| bip_39_word_dash_8 | glass-essence-slender-chalk-virus-river-scorpion-you |  
+| bip_39_word_dash_9 | glass-essence-slender-chalk-virus-river-scorpion-you-west |  
 | bip_39_word_new_br_1 | glass |  
 | bip_39_word_new_br_10 | glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you<br>west<br>sail |  
 | bip_39_word_new_br_11 | glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you<br>west<br>sail<br>upon |  
@@ -147,6 +159,18 @@ west |
 | bip_39_word_space_7 | glass essence slender chalk virus river scorpion |  
 | bip_39_word_space_8 | glass essence slender chalk virus river scorpion you |  
 | bip_39_word_space_9 | glass essence slender chalk virus river scorpion you west |  
+| bip_39_word_underscore_1 | glass |  
+| bip_39_word_underscore_10 | glass_essence_slender_chalk_virus_river_scorpion_you_west_sail |  
+| bip_39_word_underscore_11 | glass_essence_slender_chalk_virus_river_scorpion_you_west_sail_upon |  
+| bip_39_word_underscore_12 | glass_essence_slender_chalk_virus_river_scorpion_you_west_sail_upon_album |  
+| bip_39_word_underscore_2 | glass_essence |  
+| bip_39_word_underscore_3 | glass_essence_slender |  
+| bip_39_word_underscore_4 | glass_essence_slender_chalk |  
+| bip_39_word_underscore_5 | glass_essence_slender_chalk_virus |  
+| bip_39_word_underscore_6 | glass_essence_slender_chalk_virus_river |  
+| bip_39_word_underscore_7 | glass_essence_slender_chalk_virus_river_scorpion |  
+| bip_39_word_underscore_8 | glass_essence_slender_chalk_virus_river_scorpion_you |  
+| bip_39_word_underscore_9 | glass_essence_slender_chalk_virus_river_scorpion_you_west |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bounce
+bip_39_word_dash_10: bounce-match-sibling-clay-board-spoil-web-thank-dynamic-general
+bip_39_word_dash_11: bounce-match-sibling-clay-board-spoil-web-thank-dynamic-general-sure
+bip_39_word_dash_12: bounce-match-sibling-clay-board-spoil-web-thank-dynamic-general-sure-assume
+bip_39_word_dash_2: bounce-match
+bip_39_word_dash_3: bounce-match-sibling
+bip_39_word_dash_4: bounce-match-sibling-clay
+bip_39_word_dash_5: bounce-match-sibling-clay-board
+bip_39_word_dash_6: bounce-match-sibling-clay-board-spoil
+bip_39_word_dash_7: bounce-match-sibling-clay-board-spoil-web
+bip_39_word_dash_8: bounce-match-sibling-clay-board-spoil-web-thank
+bip_39_word_dash_9: bounce-match-sibling-clay-board-spoil-web-thank-dynamic
 bip_39_word_new_br_1: bounce
 bip_39_word_new_br_10: bounce<br>match<br>sibling<br>clay<br>board<br>spoil<br>web<br>thank<br>dynamic<br>general
 bip_39_word_new_br_11: bounce<br>match<br>sibling<br>clay<br>board<br>spoil<br>web<br>thank<br>dynamic<br>general<br>sure
@@ -193,6 +205,18 @@ bip_39_word_space_6: bounce match sibling clay board spoil
 bip_39_word_space_7: bounce match sibling clay board spoil web
 bip_39_word_space_8: bounce match sibling clay board spoil web thank
 bip_39_word_space_9: bounce match sibling clay board spoil web thank dynamic
+bip_39_word_underscore_1: bounce
+bip_39_word_underscore_10: bounce_match_sibling_clay_board_spoil_web_thank_dynamic_general
+bip_39_word_underscore_11: bounce_match_sibling_clay_board_spoil_web_thank_dynamic_general_sure
+bip_39_word_underscore_12: bounce_match_sibling_clay_board_spoil_web_thank_dynamic_general_sure_assume
+bip_39_word_underscore_2: bounce_match
+bip_39_word_underscore_3: bounce_match_sibling
+bip_39_word_underscore_4: bounce_match_sibling_clay
+bip_39_word_underscore_5: bounce_match_sibling_clay_board
+bip_39_word_underscore_6: bounce_match_sibling_clay_board_spoil
+bip_39_word_underscore_7: bounce_match_sibling_clay_board_spoil_web
+bip_39_word_underscore_8: bounce_match_sibling_clay_board_spoil_web_thank
+bip_39_word_underscore_9: bounce_match_sibling_clay_board_spoil_web_thank_dynamic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

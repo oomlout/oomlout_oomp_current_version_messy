@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spoon |  
+| bip_39_word_dash_10 | spoon-shoulder-library-found-cream-fine-river-urban-yellow-pen |  
+| bip_39_word_dash_11 | spoon-shoulder-library-found-cream-fine-river-urban-yellow-pen-toe |  
+| bip_39_word_dash_12 | spoon-shoulder-library-found-cream-fine-river-urban-yellow-pen-toe-afraid |  
+| bip_39_word_dash_2 | spoon-shoulder |  
+| bip_39_word_dash_3 | spoon-shoulder-library |  
+| bip_39_word_dash_4 | spoon-shoulder-library-found |  
+| bip_39_word_dash_5 | spoon-shoulder-library-found-cream |  
+| bip_39_word_dash_6 | spoon-shoulder-library-found-cream-fine |  
+| bip_39_word_dash_7 | spoon-shoulder-library-found-cream-fine-river |  
+| bip_39_word_dash_8 | spoon-shoulder-library-found-cream-fine-river-urban |  
+| bip_39_word_dash_9 | spoon-shoulder-library-found-cream-fine-river-urban-yellow |  
 | bip_39_word_new_br_1 | spoon |  
 | bip_39_word_new_br_10 | spoon<br>shoulder<br>library<br>found<br>cream<br>fine<br>river<br>urban<br>yellow<br>pen |  
 | bip_39_word_new_br_11 | spoon<br>shoulder<br>library<br>found<br>cream<br>fine<br>river<br>urban<br>yellow<br>pen<br>toe |  
@@ -147,6 +159,18 @@ yellow |
 | bip_39_word_space_7 | spoon shoulder library found cream fine river |  
 | bip_39_word_space_8 | spoon shoulder library found cream fine river urban |  
 | bip_39_word_space_9 | spoon shoulder library found cream fine river urban yellow |  
+| bip_39_word_underscore_1 | spoon |  
+| bip_39_word_underscore_10 | spoon_shoulder_library_found_cream_fine_river_urban_yellow_pen |  
+| bip_39_word_underscore_11 | spoon_shoulder_library_found_cream_fine_river_urban_yellow_pen_toe |  
+| bip_39_word_underscore_12 | spoon_shoulder_library_found_cream_fine_river_urban_yellow_pen_toe_afraid |  
+| bip_39_word_underscore_2 | spoon_shoulder |  
+| bip_39_word_underscore_3 | spoon_shoulder_library |  
+| bip_39_word_underscore_4 | spoon_shoulder_library_found |  
+| bip_39_word_underscore_5 | spoon_shoulder_library_found_cream |  
+| bip_39_word_underscore_6 | spoon_shoulder_library_found_cream_fine |  
+| bip_39_word_underscore_7 | spoon_shoulder_library_found_cream_fine_river |  
+| bip_39_word_underscore_8 | spoon_shoulder_library_found_cream_fine_river_urban |  
+| bip_39_word_underscore_9 | spoon_shoulder_library_found_cream_fine_river_urban_yellow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: resource
+bip_39_word_dash_10: resource-word-fox-pottery-august-nature-boat-coconut-afraid-tourist
+bip_39_word_dash_11: resource-word-fox-pottery-august-nature-boat-coconut-afraid-tourist-balcony
+bip_39_word_dash_12: resource-word-fox-pottery-august-nature-boat-coconut-afraid-tourist-balcony-another
+bip_39_word_dash_2: resource-word
+bip_39_word_dash_3: resource-word-fox
+bip_39_word_dash_4: resource-word-fox-pottery
+bip_39_word_dash_5: resource-word-fox-pottery-august
+bip_39_word_dash_6: resource-word-fox-pottery-august-nature
+bip_39_word_dash_7: resource-word-fox-pottery-august-nature-boat
+bip_39_word_dash_8: resource-word-fox-pottery-august-nature-boat-coconut
+bip_39_word_dash_9: resource-word-fox-pottery-august-nature-boat-coconut-afraid
 bip_39_word_new_br_1: resource
 bip_39_word_new_br_10: resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist
 bip_39_word_new_br_11: resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist<br>balcony
@@ -194,6 +206,18 @@ bip_39_word_space_6: resource word fox pottery august nature
 bip_39_word_space_7: resource word fox pottery august nature boat
 bip_39_word_space_8: resource word fox pottery august nature boat coconut
 bip_39_word_space_9: resource word fox pottery august nature boat coconut afraid
+bip_39_word_underscore_1: resource
+bip_39_word_underscore_10: resource_word_fox_pottery_august_nature_boat_coconut_afraid_tourist
+bip_39_word_underscore_11: resource_word_fox_pottery_august_nature_boat_coconut_afraid_tourist_balcony
+bip_39_word_underscore_12: resource_word_fox_pottery_august_nature_boat_coconut_afraid_tourist_balcony_another
+bip_39_word_underscore_2: resource_word
+bip_39_word_underscore_3: resource_word_fox
+bip_39_word_underscore_4: resource_word_fox_pottery
+bip_39_word_underscore_5: resource_word_fox_pottery_august
+bip_39_word_underscore_6: resource_word_fox_pottery_august_nature
+bip_39_word_underscore_7: resource_word_fox_pottery_august_nature_boat
+bip_39_word_underscore_8: resource_word_fox_pottery_august_nature_boat_coconut
+bip_39_word_underscore_9: resource_word_fox_pottery_august_nature_boat_coconut_afraid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | predict |  
+| bip_39_word_dash_10 | predict-easily-exchange-soft-reunion-coin-circle-frog-crowd-seek |  
+| bip_39_word_dash_11 | predict-easily-exchange-soft-reunion-coin-circle-frog-crowd-seek-provide |  
+| bip_39_word_dash_12 | predict-easily-exchange-soft-reunion-coin-circle-frog-crowd-seek-provide-armor |  
+| bip_39_word_dash_2 | predict-easily |  
+| bip_39_word_dash_3 | predict-easily-exchange |  
+| bip_39_word_dash_4 | predict-easily-exchange-soft |  
+| bip_39_word_dash_5 | predict-easily-exchange-soft-reunion |  
+| bip_39_word_dash_6 | predict-easily-exchange-soft-reunion-coin |  
+| bip_39_word_dash_7 | predict-easily-exchange-soft-reunion-coin-circle |  
+| bip_39_word_dash_8 | predict-easily-exchange-soft-reunion-coin-circle-frog |  
+| bip_39_word_dash_9 | predict-easily-exchange-soft-reunion-coin-circle-frog-crowd |  
 | bip_39_word_new_br_1 | predict |  
 | bip_39_word_new_br_10 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog<br>crowd<br>seek |  
 | bip_39_word_new_br_11 | predict<br>easily<br>exchange<br>soft<br>reunion<br>coin<br>circle<br>frog<br>crowd<br>seek<br>provide |  
@@ -147,6 +159,18 @@ crowd |
 | bip_39_word_space_7 | predict easily exchange soft reunion coin circle |  
 | bip_39_word_space_8 | predict easily exchange soft reunion coin circle frog |  
 | bip_39_word_space_9 | predict easily exchange soft reunion coin circle frog crowd |  
+| bip_39_word_underscore_1 | predict |  
+| bip_39_word_underscore_10 | predict_easily_exchange_soft_reunion_coin_circle_frog_crowd_seek |  
+| bip_39_word_underscore_11 | predict_easily_exchange_soft_reunion_coin_circle_frog_crowd_seek_provide |  
+| bip_39_word_underscore_12 | predict_easily_exchange_soft_reunion_coin_circle_frog_crowd_seek_provide_armor |  
+| bip_39_word_underscore_2 | predict_easily |  
+| bip_39_word_underscore_3 | predict_easily_exchange |  
+| bip_39_word_underscore_4 | predict_easily_exchange_soft |  
+| bip_39_word_underscore_5 | predict_easily_exchange_soft_reunion |  
+| bip_39_word_underscore_6 | predict_easily_exchange_soft_reunion_coin |  
+| bip_39_word_underscore_7 | predict_easily_exchange_soft_reunion_coin_circle |  
+| bip_39_word_underscore_8 | predict_easily_exchange_soft_reunion_coin_circle_frog |  
+| bip_39_word_underscore_9 | predict_easily_exchange_soft_reunion_coin_circle_frog_crowd |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

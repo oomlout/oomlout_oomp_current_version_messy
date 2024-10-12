@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sunset
+bip_39_word_dash_10: sunset-ginger-equip-wolf-sand-media-clarify-toward-jacket-memory
+bip_39_word_dash_11: sunset-ginger-equip-wolf-sand-media-clarify-toward-jacket-memory-toast
+bip_39_word_dash_12: sunset-ginger-equip-wolf-sand-media-clarify-toward-jacket-memory-toast-around
+bip_39_word_dash_2: sunset-ginger
+bip_39_word_dash_3: sunset-ginger-equip
+bip_39_word_dash_4: sunset-ginger-equip-wolf
+bip_39_word_dash_5: sunset-ginger-equip-wolf-sand
+bip_39_word_dash_6: sunset-ginger-equip-wolf-sand-media
+bip_39_word_dash_7: sunset-ginger-equip-wolf-sand-media-clarify
+bip_39_word_dash_8: sunset-ginger-equip-wolf-sand-media-clarify-toward
+bip_39_word_dash_9: sunset-ginger-equip-wolf-sand-media-clarify-toward-jacket
 bip_39_word_new_br_1: sunset
 bip_39_word_new_br_10: sunset<br>ginger<br>equip<br>wolf<br>sand<br>media<br>clarify<br>toward<br>jacket<br>memory
 bip_39_word_new_br_11: sunset<br>ginger<br>equip<br>wolf<br>sand<br>media<br>clarify<br>toward<br>jacket<br>memory<br>toast
@@ -193,6 +205,18 @@ bip_39_word_space_6: sunset ginger equip wolf sand media
 bip_39_word_space_7: sunset ginger equip wolf sand media clarify
 bip_39_word_space_8: sunset ginger equip wolf sand media clarify toward
 bip_39_word_space_9: sunset ginger equip wolf sand media clarify toward jacket
+bip_39_word_underscore_1: sunset
+bip_39_word_underscore_10: sunset_ginger_equip_wolf_sand_media_clarify_toward_jacket_memory
+bip_39_word_underscore_11: sunset_ginger_equip_wolf_sand_media_clarify_toward_jacket_memory_toast
+bip_39_word_underscore_12: sunset_ginger_equip_wolf_sand_media_clarify_toward_jacket_memory_toast_around
+bip_39_word_underscore_2: sunset_ginger
+bip_39_word_underscore_3: sunset_ginger_equip
+bip_39_word_underscore_4: sunset_ginger_equip_wolf
+bip_39_word_underscore_5: sunset_ginger_equip_wolf_sand
+bip_39_word_underscore_6: sunset_ginger_equip_wolf_sand_media
+bip_39_word_underscore_7: sunset_ginger_equip_wolf_sand_media_clarify
+bip_39_word_underscore_8: sunset_ginger_equip_wolf_sand_media_clarify_toward
+bip_39_word_underscore_9: sunset_ginger_equip_wolf_sand_media_clarify_toward_jacket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

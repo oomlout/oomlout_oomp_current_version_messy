@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | guitar |  
+| bip_39_word_dash_10 | guitar-capable-snap-setup-priority-pretty-crime-unfold-present-hint |  
+| bip_39_word_dash_11 | guitar-capable-snap-setup-priority-pretty-crime-unfold-present-hint-label |  
+| bip_39_word_dash_12 | guitar-capable-snap-setup-priority-pretty-crime-unfold-present-hint-label-audit |  
+| bip_39_word_dash_2 | guitar-capable |  
+| bip_39_word_dash_3 | guitar-capable-snap |  
+| bip_39_word_dash_4 | guitar-capable-snap-setup |  
+| bip_39_word_dash_5 | guitar-capable-snap-setup-priority |  
+| bip_39_word_dash_6 | guitar-capable-snap-setup-priority-pretty |  
+| bip_39_word_dash_7 | guitar-capable-snap-setup-priority-pretty-crime |  
+| bip_39_word_dash_8 | guitar-capable-snap-setup-priority-pretty-crime-unfold |  
+| bip_39_word_dash_9 | guitar-capable-snap-setup-priority-pretty-crime-unfold-present |  
 | bip_39_word_new_br_1 | guitar |  
 | bip_39_word_new_br_10 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint |  
 | bip_39_word_new_br_11 | guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint<br>label |  
@@ -147,6 +159,18 @@ present |
 | bip_39_word_space_7 | guitar capable snap setup priority pretty crime |  
 | bip_39_word_space_8 | guitar capable snap setup priority pretty crime unfold |  
 | bip_39_word_space_9 | guitar capable snap setup priority pretty crime unfold present |  
+| bip_39_word_underscore_1 | guitar |  
+| bip_39_word_underscore_10 | guitar_capable_snap_setup_priority_pretty_crime_unfold_present_hint |  
+| bip_39_word_underscore_11 | guitar_capable_snap_setup_priority_pretty_crime_unfold_present_hint_label |  
+| bip_39_word_underscore_12 | guitar_capable_snap_setup_priority_pretty_crime_unfold_present_hint_label_audit |  
+| bip_39_word_underscore_2 | guitar_capable |  
+| bip_39_word_underscore_3 | guitar_capable_snap |  
+| bip_39_word_underscore_4 | guitar_capable_snap_setup |  
+| bip_39_word_underscore_5 | guitar_capable_snap_setup_priority |  
+| bip_39_word_underscore_6 | guitar_capable_snap_setup_priority_pretty |  
+| bip_39_word_underscore_7 | guitar_capable_snap_setup_priority_pretty_crime |  
+| bip_39_word_underscore_8 | guitar_capable_snap_setup_priority_pretty_crime_unfold |  
+| bip_39_word_underscore_9 | guitar_capable_snap_setup_priority_pretty_crime_unfold_present |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

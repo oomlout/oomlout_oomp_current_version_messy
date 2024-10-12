@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wasp
+bip_39_word_dash_10: wasp-produce-duck-ecology-business-float-able-travel-word-abuse
+bip_39_word_dash_11: wasp-produce-duck-ecology-business-float-able-travel-word-abuse-this
+bip_39_word_dash_12: wasp-produce-duck-ecology-business-float-able-travel-word-abuse-this-all
+bip_39_word_dash_2: wasp-produce
+bip_39_word_dash_3: wasp-produce-duck
+bip_39_word_dash_4: wasp-produce-duck-ecology
+bip_39_word_dash_5: wasp-produce-duck-ecology-business
+bip_39_word_dash_6: wasp-produce-duck-ecology-business-float
+bip_39_word_dash_7: wasp-produce-duck-ecology-business-float-able
+bip_39_word_dash_8: wasp-produce-duck-ecology-business-float-able-travel
+bip_39_word_dash_9: wasp-produce-duck-ecology-business-float-able-travel-word
 bip_39_word_new_br_1: wasp
 bip_39_word_new_br_10: wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse
 bip_39_word_new_br_11: wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse<br>this
@@ -193,6 +205,18 @@ bip_39_word_space_6: wasp produce duck ecology business float
 bip_39_word_space_7: wasp produce duck ecology business float able
 bip_39_word_space_8: wasp produce duck ecology business float able travel
 bip_39_word_space_9: wasp produce duck ecology business float able travel word
+bip_39_word_underscore_1: wasp
+bip_39_word_underscore_10: wasp_produce_duck_ecology_business_float_able_travel_word_abuse
+bip_39_word_underscore_11: wasp_produce_duck_ecology_business_float_able_travel_word_abuse_this
+bip_39_word_underscore_12: wasp_produce_duck_ecology_business_float_able_travel_word_abuse_this_all
+bip_39_word_underscore_2: wasp_produce
+bip_39_word_underscore_3: wasp_produce_duck
+bip_39_word_underscore_4: wasp_produce_duck_ecology
+bip_39_word_underscore_5: wasp_produce_duck_ecology_business
+bip_39_word_underscore_6: wasp_produce_duck_ecology_business_float
+bip_39_word_underscore_7: wasp_produce_duck_ecology_business_float_able
+bip_39_word_underscore_8: wasp_produce_duck_ecology_business_float_able_travel
+bip_39_word_underscore_9: wasp_produce_duck_ecology_business_float_able_travel_word
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

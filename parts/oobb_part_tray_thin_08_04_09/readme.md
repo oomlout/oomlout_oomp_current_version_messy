@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hour |  
+| bip_39_word_dash_10 | hour-soup-tuna-afford-feel-claim-fame-clown-sun-cage |  
+| bip_39_word_dash_11 | hour-soup-tuna-afford-feel-claim-fame-clown-sun-cage-service |  
+| bip_39_word_dash_12 | hour-soup-tuna-afford-feel-claim-fame-clown-sun-cage-service-another |  
+| bip_39_word_dash_2 | hour-soup |  
+| bip_39_word_dash_3 | hour-soup-tuna |  
+| bip_39_word_dash_4 | hour-soup-tuna-afford |  
+| bip_39_word_dash_5 | hour-soup-tuna-afford-feel |  
+| bip_39_word_dash_6 | hour-soup-tuna-afford-feel-claim |  
+| bip_39_word_dash_7 | hour-soup-tuna-afford-feel-claim-fame |  
+| bip_39_word_dash_8 | hour-soup-tuna-afford-feel-claim-fame-clown |  
+| bip_39_word_dash_9 | hour-soup-tuna-afford-feel-claim-fame-clown-sun |  
 | bip_39_word_new_br_1 | hour |  
 | bip_39_word_new_br_10 | hour<br>soup<br>tuna<br>afford<br>feel<br>claim<br>fame<br>clown<br>sun<br>cage |  
 | bip_39_word_new_br_11 | hour<br>soup<br>tuna<br>afford<br>feel<br>claim<br>fame<br>clown<br>sun<br>cage<br>service |  
@@ -147,6 +159,18 @@ sun |
 | bip_39_word_space_7 | hour soup tuna afford feel claim fame |  
 | bip_39_word_space_8 | hour soup tuna afford feel claim fame clown |  
 | bip_39_word_space_9 | hour soup tuna afford feel claim fame clown sun |  
+| bip_39_word_underscore_1 | hour |  
+| bip_39_word_underscore_10 | hour_soup_tuna_afford_feel_claim_fame_clown_sun_cage |  
+| bip_39_word_underscore_11 | hour_soup_tuna_afford_feel_claim_fame_clown_sun_cage_service |  
+| bip_39_word_underscore_12 | hour_soup_tuna_afford_feel_claim_fame_clown_sun_cage_service_another |  
+| bip_39_word_underscore_2 | hour_soup |  
+| bip_39_word_underscore_3 | hour_soup_tuna |  
+| bip_39_word_underscore_4 | hour_soup_tuna_afford |  
+| bip_39_word_underscore_5 | hour_soup_tuna_afford_feel |  
+| bip_39_word_underscore_6 | hour_soup_tuna_afford_feel_claim |  
+| bip_39_word_underscore_7 | hour_soup_tuna_afford_feel_claim_fame |  
+| bip_39_word_underscore_8 | hour_soup_tuna_afford_feel_claim_fame_clown |  
+| bip_39_word_underscore_9 | hour_soup_tuna_afford_feel_claim_fame_clown_sun |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

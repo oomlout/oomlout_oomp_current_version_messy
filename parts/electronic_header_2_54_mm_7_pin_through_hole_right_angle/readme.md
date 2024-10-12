@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burst |  
+| bip_39_word_dash_10 | burst-eternal-reject-monster-ivory-convince-chest-sing-rapid-symbol |  
+| bip_39_word_dash_11 | burst-eternal-reject-monster-ivory-convince-chest-sing-rapid-symbol-print |  
+| bip_39_word_dash_12 | burst-eternal-reject-monster-ivory-convince-chest-sing-rapid-symbol-print-admit |  
+| bip_39_word_dash_2 | burst-eternal |  
+| bip_39_word_dash_3 | burst-eternal-reject |  
+| bip_39_word_dash_4 | burst-eternal-reject-monster |  
+| bip_39_word_dash_5 | burst-eternal-reject-monster-ivory |  
+| bip_39_word_dash_6 | burst-eternal-reject-monster-ivory-convince |  
+| bip_39_word_dash_7 | burst-eternal-reject-monster-ivory-convince-chest |  
+| bip_39_word_dash_8 | burst-eternal-reject-monster-ivory-convince-chest-sing |  
+| bip_39_word_dash_9 | burst-eternal-reject-monster-ivory-convince-chest-sing-rapid |  
 | bip_39_word_new_br_1 | burst |  
 | bip_39_word_new_br_10 | burst<br>eternal<br>reject<br>monster<br>ivory<br>convince<br>chest<br>sing<br>rapid<br>symbol |  
 | bip_39_word_new_br_11 | burst<br>eternal<br>reject<br>monster<br>ivory<br>convince<br>chest<br>sing<br>rapid<br>symbol<br>print |  
@@ -147,6 +159,18 @@ rapid |
 | bip_39_word_space_7 | burst eternal reject monster ivory convince chest |  
 | bip_39_word_space_8 | burst eternal reject monster ivory convince chest sing |  
 | bip_39_word_space_9 | burst eternal reject monster ivory convince chest sing rapid |  
+| bip_39_word_underscore_1 | burst |  
+| bip_39_word_underscore_10 | burst_eternal_reject_monster_ivory_convince_chest_sing_rapid_symbol |  
+| bip_39_word_underscore_11 | burst_eternal_reject_monster_ivory_convince_chest_sing_rapid_symbol_print |  
+| bip_39_word_underscore_12 | burst_eternal_reject_monster_ivory_convince_chest_sing_rapid_symbol_print_admit |  
+| bip_39_word_underscore_2 | burst_eternal |  
+| bip_39_word_underscore_3 | burst_eternal_reject |  
+| bip_39_word_underscore_4 | burst_eternal_reject_monster |  
+| bip_39_word_underscore_5 | burst_eternal_reject_monster_ivory |  
+| bip_39_word_underscore_6 | burst_eternal_reject_monster_ivory_convince |  
+| bip_39_word_underscore_7 | burst_eternal_reject_monster_ivory_convince_chest |  
+| bip_39_word_underscore_8 | burst_eternal_reject_monster_ivory_convince_chest_sing |  
+| bip_39_word_underscore_9 | burst_eternal_reject_monster_ivory_convince_chest_sing_rapid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

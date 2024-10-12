@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | choice |  
+| bip_39_word_dash_10 | choice-parent-mechanic-stable-repair-dog-during-tumble-render-duck |  
+| bip_39_word_dash_11 | choice-parent-mechanic-stable-repair-dog-during-tumble-render-duck-delay |  
+| bip_39_word_dash_12 | choice-parent-mechanic-stable-repair-dog-during-tumble-render-duck-delay-amount |  
+| bip_39_word_dash_2 | choice-parent |  
+| bip_39_word_dash_3 | choice-parent-mechanic |  
+| bip_39_word_dash_4 | choice-parent-mechanic-stable |  
+| bip_39_word_dash_5 | choice-parent-mechanic-stable-repair |  
+| bip_39_word_dash_6 | choice-parent-mechanic-stable-repair-dog |  
+| bip_39_word_dash_7 | choice-parent-mechanic-stable-repair-dog-during |  
+| bip_39_word_dash_8 | choice-parent-mechanic-stable-repair-dog-during-tumble |  
+| bip_39_word_dash_9 | choice-parent-mechanic-stable-repair-dog-during-tumble-render |  
 | bip_39_word_new_br_1 | choice |  
 | bip_39_word_new_br_10 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble<br>render<br>duck |  
 | bip_39_word_new_br_11 | choice<br>parent<br>mechanic<br>stable<br>repair<br>dog<br>during<br>tumble<br>render<br>duck<br>delay |  
@@ -147,6 +159,18 @@ render |
 | bip_39_word_space_7 | choice parent mechanic stable repair dog during |  
 | bip_39_word_space_8 | choice parent mechanic stable repair dog during tumble |  
 | bip_39_word_space_9 | choice parent mechanic stable repair dog during tumble render |  
+| bip_39_word_underscore_1 | choice |  
+| bip_39_word_underscore_10 | choice_parent_mechanic_stable_repair_dog_during_tumble_render_duck |  
+| bip_39_word_underscore_11 | choice_parent_mechanic_stable_repair_dog_during_tumble_render_duck_delay |  
+| bip_39_word_underscore_12 | choice_parent_mechanic_stable_repair_dog_during_tumble_render_duck_delay_amount |  
+| bip_39_word_underscore_2 | choice_parent |  
+| bip_39_word_underscore_3 | choice_parent_mechanic |  
+| bip_39_word_underscore_4 | choice_parent_mechanic_stable |  
+| bip_39_word_underscore_5 | choice_parent_mechanic_stable_repair |  
+| bip_39_word_underscore_6 | choice_parent_mechanic_stable_repair_dog |  
+| bip_39_word_underscore_7 | choice_parent_mechanic_stable_repair_dog_during |  
+| bip_39_word_underscore_8 | choice_parent_mechanic_stable_repair_dog_during_tumble |  
+| bip_39_word_underscore_9 | choice_parent_mechanic_stable_repair_dog_during_tumble_render |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | absent |  
+| bip_39_word_dash_10 | absent-nerve-ring-river-father-govern-ride-siren-neck-below |  
+| bip_39_word_dash_11 | absent-nerve-ring-river-father-govern-ride-siren-neck-below-around |  
+| bip_39_word_dash_12 | absent-nerve-ring-river-father-govern-ride-siren-neck-below-around-absurd |  
+| bip_39_word_dash_2 | absent-nerve |  
+| bip_39_word_dash_3 | absent-nerve-ring |  
+| bip_39_word_dash_4 | absent-nerve-ring-river |  
+| bip_39_word_dash_5 | absent-nerve-ring-river-father |  
+| bip_39_word_dash_6 | absent-nerve-ring-river-father-govern |  
+| bip_39_word_dash_7 | absent-nerve-ring-river-father-govern-ride |  
+| bip_39_word_dash_8 | absent-nerve-ring-river-father-govern-ride-siren |  
+| bip_39_word_dash_9 | absent-nerve-ring-river-father-govern-ride-siren-neck |  
 | bip_39_word_new_br_1 | absent |  
 | bip_39_word_new_br_10 | absent<br>nerve<br>ring<br>river<br>father<br>govern<br>ride<br>siren<br>neck<br>below |  
 | bip_39_word_new_br_11 | absent<br>nerve<br>ring<br>river<br>father<br>govern<br>ride<br>siren<br>neck<br>below<br>around |  
@@ -147,6 +159,18 @@ neck |
 | bip_39_word_space_7 | absent nerve ring river father govern ride |  
 | bip_39_word_space_8 | absent nerve ring river father govern ride siren |  
 | bip_39_word_space_9 | absent nerve ring river father govern ride siren neck |  
+| bip_39_word_underscore_1 | absent |  
+| bip_39_word_underscore_10 | absent_nerve_ring_river_father_govern_ride_siren_neck_below |  
+| bip_39_word_underscore_11 | absent_nerve_ring_river_father_govern_ride_siren_neck_below_around |  
+| bip_39_word_underscore_12 | absent_nerve_ring_river_father_govern_ride_siren_neck_below_around_absurd |  
+| bip_39_word_underscore_2 | absent_nerve |  
+| bip_39_word_underscore_3 | absent_nerve_ring |  
+| bip_39_word_underscore_4 | absent_nerve_ring_river |  
+| bip_39_word_underscore_5 | absent_nerve_ring_river_father |  
+| bip_39_word_underscore_6 | absent_nerve_ring_river_father_govern |  
+| bip_39_word_underscore_7 | absent_nerve_ring_river_father_govern_ride |  
+| bip_39_word_underscore_8 | absent_nerve_ring_river_father_govern_ride_siren |  
+| bip_39_word_underscore_9 | absent_nerve_ring_river_father_govern_ride_siren_neck |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

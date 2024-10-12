@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | main |  
+| bip_39_word_dash_10 | main-box-market-review-egg-innocent-blush-involve-nerve-fee |  
+| bip_39_word_dash_11 | main-box-market-review-egg-innocent-blush-involve-nerve-fee-spike |  
+| bip_39_word_dash_12 | main-box-market-review-egg-innocent-blush-involve-nerve-fee-spike-act |  
+| bip_39_word_dash_2 | main-box |  
+| bip_39_word_dash_3 | main-box-market |  
+| bip_39_word_dash_4 | main-box-market-review |  
+| bip_39_word_dash_5 | main-box-market-review-egg |  
+| bip_39_word_dash_6 | main-box-market-review-egg-innocent |  
+| bip_39_word_dash_7 | main-box-market-review-egg-innocent-blush |  
+| bip_39_word_dash_8 | main-box-market-review-egg-innocent-blush-involve |  
+| bip_39_word_dash_9 | main-box-market-review-egg-innocent-blush-involve-nerve |  
 | bip_39_word_new_br_1 | main |  
 | bip_39_word_new_br_10 | main<br>box<br>market<br>review<br>egg<br>innocent<br>blush<br>involve<br>nerve<br>fee |  
 | bip_39_word_new_br_11 | main<br>box<br>market<br>review<br>egg<br>innocent<br>blush<br>involve<br>nerve<br>fee<br>spike |  
@@ -147,6 +159,18 @@ nerve |
 | bip_39_word_space_7 | main box market review egg innocent blush |  
 | bip_39_word_space_8 | main box market review egg innocent blush involve |  
 | bip_39_word_space_9 | main box market review egg innocent blush involve nerve |  
+| bip_39_word_underscore_1 | main |  
+| bip_39_word_underscore_10 | main_box_market_review_egg_innocent_blush_involve_nerve_fee |  
+| bip_39_word_underscore_11 | main_box_market_review_egg_innocent_blush_involve_nerve_fee_spike |  
+| bip_39_word_underscore_12 | main_box_market_review_egg_innocent_blush_involve_nerve_fee_spike_act |  
+| bip_39_word_underscore_2 | main_box |  
+| bip_39_word_underscore_3 | main_box_market |  
+| bip_39_word_underscore_4 | main_box_market_review |  
+| bip_39_word_underscore_5 | main_box_market_review_egg |  
+| bip_39_word_underscore_6 | main_box_market_review_egg_innocent |  
+| bip_39_word_underscore_7 | main_box_market_review_egg_innocent_blush |  
+| bip_39_word_underscore_8 | main_box_market_review_egg_innocent_blush_involve |  
+| bip_39_word_underscore_9 | main_box_market_review_egg_innocent_blush_involve_nerve |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

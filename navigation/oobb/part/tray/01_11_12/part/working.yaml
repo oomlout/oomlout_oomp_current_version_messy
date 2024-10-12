@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ensure
+bip_39_word_dash_10: ensure-legend-jeans-clip-slow-potato-mechanic-slogan-remember-room
+bip_39_word_dash_11: ensure-legend-jeans-clip-slow-potato-mechanic-slogan-remember-room-snap
+bip_39_word_dash_12: ensure-legend-jeans-clip-slow-potato-mechanic-slogan-remember-room-snap-actor
+bip_39_word_dash_2: ensure-legend
+bip_39_word_dash_3: ensure-legend-jeans
+bip_39_word_dash_4: ensure-legend-jeans-clip
+bip_39_word_dash_5: ensure-legend-jeans-clip-slow
+bip_39_word_dash_6: ensure-legend-jeans-clip-slow-potato
+bip_39_word_dash_7: ensure-legend-jeans-clip-slow-potato-mechanic
+bip_39_word_dash_8: ensure-legend-jeans-clip-slow-potato-mechanic-slogan
+bip_39_word_dash_9: ensure-legend-jeans-clip-slow-potato-mechanic-slogan-remember
 bip_39_word_new_br_1: ensure
 bip_39_word_new_br_10: ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room
 bip_39_word_new_br_11: ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room<br>snap
@@ -194,6 +206,18 @@ bip_39_word_space_6: ensure legend jeans clip slow potato
 bip_39_word_space_7: ensure legend jeans clip slow potato mechanic
 bip_39_word_space_8: ensure legend jeans clip slow potato mechanic slogan
 bip_39_word_space_9: ensure legend jeans clip slow potato mechanic slogan remember
+bip_39_word_underscore_1: ensure
+bip_39_word_underscore_10: ensure_legend_jeans_clip_slow_potato_mechanic_slogan_remember_room
+bip_39_word_underscore_11: ensure_legend_jeans_clip_slow_potato_mechanic_slogan_remember_room_snap
+bip_39_word_underscore_12: ensure_legend_jeans_clip_slow_potato_mechanic_slogan_remember_room_snap_actor
+bip_39_word_underscore_2: ensure_legend
+bip_39_word_underscore_3: ensure_legend_jeans
+bip_39_word_underscore_4: ensure_legend_jeans_clip
+bip_39_word_underscore_5: ensure_legend_jeans_clip_slow
+bip_39_word_underscore_6: ensure_legend_jeans_clip_slow_potato
+bip_39_word_underscore_7: ensure_legend_jeans_clip_slow_potato_mechanic
+bip_39_word_underscore_8: ensure_legend_jeans_clip_slow_potato_mechanic_slogan
+bip_39_word_underscore_9: ensure_legend_jeans_clip_slow_potato_mechanic_slogan_remember
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

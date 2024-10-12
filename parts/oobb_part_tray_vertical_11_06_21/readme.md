@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | outside |  
+| bip_39_word_dash_10 | outside-domain-strike-sing-sudden-enlist-climb-beach-icon-acoustic |  
+| bip_39_word_dash_11 | outside-domain-strike-sing-sudden-enlist-climb-beach-icon-acoustic-suit |  
+| bip_39_word_dash_12 | outside-domain-strike-sing-sudden-enlist-climb-beach-icon-acoustic-suit-afraid |  
+| bip_39_word_dash_2 | outside-domain |  
+| bip_39_word_dash_3 | outside-domain-strike |  
+| bip_39_word_dash_4 | outside-domain-strike-sing |  
+| bip_39_word_dash_5 | outside-domain-strike-sing-sudden |  
+| bip_39_word_dash_6 | outside-domain-strike-sing-sudden-enlist |  
+| bip_39_word_dash_7 | outside-domain-strike-sing-sudden-enlist-climb |  
+| bip_39_word_dash_8 | outside-domain-strike-sing-sudden-enlist-climb-beach |  
+| bip_39_word_dash_9 | outside-domain-strike-sing-sudden-enlist-climb-beach-icon |  
 | bip_39_word_new_br_1 | outside |  
 | bip_39_word_new_br_10 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach<br>icon<br>acoustic |  
 | bip_39_word_new_br_11 | outside<br>domain<br>strike<br>sing<br>sudden<br>enlist<br>climb<br>beach<br>icon<br>acoustic<br>suit |  
@@ -147,6 +159,18 @@ icon |
 | bip_39_word_space_7 | outside domain strike sing sudden enlist climb |  
 | bip_39_word_space_8 | outside domain strike sing sudden enlist climb beach |  
 | bip_39_word_space_9 | outside domain strike sing sudden enlist climb beach icon |  
+| bip_39_word_underscore_1 | outside |  
+| bip_39_word_underscore_10 | outside_domain_strike_sing_sudden_enlist_climb_beach_icon_acoustic |  
+| bip_39_word_underscore_11 | outside_domain_strike_sing_sudden_enlist_climb_beach_icon_acoustic_suit |  
+| bip_39_word_underscore_12 | outside_domain_strike_sing_sudden_enlist_climb_beach_icon_acoustic_suit_afraid |  
+| bip_39_word_underscore_2 | outside_domain |  
+| bip_39_word_underscore_3 | outside_domain_strike |  
+| bip_39_word_underscore_4 | outside_domain_strike_sing |  
+| bip_39_word_underscore_5 | outside_domain_strike_sing_sudden |  
+| bip_39_word_underscore_6 | outside_domain_strike_sing_sudden_enlist |  
+| bip_39_word_underscore_7 | outside_domain_strike_sing_sudden_enlist_climb |  
+| bip_39_word_underscore_8 | outside_domain_strike_sing_sudden_enlist_climb_beach |  
+| bip_39_word_underscore_9 | outside_domain_strike_sing_sudden_enlist_climb_beach_icon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

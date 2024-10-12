@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chase |  
+| bip_39_word_dash_10 | chase-amused-clarify-ticket-duck-second-image-alert-cost-vacant |  
+| bip_39_word_dash_11 | chase-amused-clarify-ticket-duck-second-image-alert-cost-vacant-section |  
+| bip_39_word_dash_12 | chase-amused-clarify-ticket-duck-second-image-alert-cost-vacant-section-allow |  
+| bip_39_word_dash_2 | chase-amused |  
+| bip_39_word_dash_3 | chase-amused-clarify |  
+| bip_39_word_dash_4 | chase-amused-clarify-ticket |  
+| bip_39_word_dash_5 | chase-amused-clarify-ticket-duck |  
+| bip_39_word_dash_6 | chase-amused-clarify-ticket-duck-second |  
+| bip_39_word_dash_7 | chase-amused-clarify-ticket-duck-second-image |  
+| bip_39_word_dash_8 | chase-amused-clarify-ticket-duck-second-image-alert |  
+| bip_39_word_dash_9 | chase-amused-clarify-ticket-duck-second-image-alert-cost |  
 | bip_39_word_new_br_1 | chase |  
 | bip_39_word_new_br_10 | chase<br>amused<br>clarify<br>ticket<br>duck<br>second<br>image<br>alert<br>cost<br>vacant |  
 | bip_39_word_new_br_11 | chase<br>amused<br>clarify<br>ticket<br>duck<br>second<br>image<br>alert<br>cost<br>vacant<br>section |  
@@ -147,6 +159,18 @@ cost |
 | bip_39_word_space_7 | chase amused clarify ticket duck second image |  
 | bip_39_word_space_8 | chase amused clarify ticket duck second image alert |  
 | bip_39_word_space_9 | chase amused clarify ticket duck second image alert cost |  
+| bip_39_word_underscore_1 | chase |  
+| bip_39_word_underscore_10 | chase_amused_clarify_ticket_duck_second_image_alert_cost_vacant |  
+| bip_39_word_underscore_11 | chase_amused_clarify_ticket_duck_second_image_alert_cost_vacant_section |  
+| bip_39_word_underscore_12 | chase_amused_clarify_ticket_duck_second_image_alert_cost_vacant_section_allow |  
+| bip_39_word_underscore_2 | chase_amused |  
+| bip_39_word_underscore_3 | chase_amused_clarify |  
+| bip_39_word_underscore_4 | chase_amused_clarify_ticket |  
+| bip_39_word_underscore_5 | chase_amused_clarify_ticket_duck |  
+| bip_39_word_underscore_6 | chase_amused_clarify_ticket_duck_second |  
+| bip_39_word_underscore_7 | chase_amused_clarify_ticket_duck_second_image |  
+| bip_39_word_underscore_8 | chase_amused_clarify_ticket_duck_second_image_alert |  
+| bip_39_word_underscore_9 | chase_amused_clarify_ticket_duck_second_image_alert_cost |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

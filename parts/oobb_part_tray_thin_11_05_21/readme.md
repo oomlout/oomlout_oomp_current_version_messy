@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vessel |  
+| bip_39_word_dash_10 | vessel-build-century-icon-income-they-crop-maid-solve-robust |  
+| bip_39_word_dash_11 | vessel-build-century-icon-income-they-crop-maid-solve-robust-black |  
+| bip_39_word_dash_12 | vessel-build-century-icon-income-they-crop-maid-solve-robust-black-analyst |  
+| bip_39_word_dash_2 | vessel-build |  
+| bip_39_word_dash_3 | vessel-build-century |  
+| bip_39_word_dash_4 | vessel-build-century-icon |  
+| bip_39_word_dash_5 | vessel-build-century-icon-income |  
+| bip_39_word_dash_6 | vessel-build-century-icon-income-they |  
+| bip_39_word_dash_7 | vessel-build-century-icon-income-they-crop |  
+| bip_39_word_dash_8 | vessel-build-century-icon-income-they-crop-maid |  
+| bip_39_word_dash_9 | vessel-build-century-icon-income-they-crop-maid-solve |  
 | bip_39_word_new_br_1 | vessel |  
 | bip_39_word_new_br_10 | vessel<br>build<br>century<br>icon<br>income<br>they<br>crop<br>maid<br>solve<br>robust |  
 | bip_39_word_new_br_11 | vessel<br>build<br>century<br>icon<br>income<br>they<br>crop<br>maid<br>solve<br>robust<br>black |  
@@ -147,6 +159,18 @@ solve |
 | bip_39_word_space_7 | vessel build century icon income they crop |  
 | bip_39_word_space_8 | vessel build century icon income they crop maid |  
 | bip_39_word_space_9 | vessel build century icon income they crop maid solve |  
+| bip_39_word_underscore_1 | vessel |  
+| bip_39_word_underscore_10 | vessel_build_century_icon_income_they_crop_maid_solve_robust |  
+| bip_39_word_underscore_11 | vessel_build_century_icon_income_they_crop_maid_solve_robust_black |  
+| bip_39_word_underscore_12 | vessel_build_century_icon_income_they_crop_maid_solve_robust_black_analyst |  
+| bip_39_word_underscore_2 | vessel_build |  
+| bip_39_word_underscore_3 | vessel_build_century |  
+| bip_39_word_underscore_4 | vessel_build_century_icon |  
+| bip_39_word_underscore_5 | vessel_build_century_icon_income |  
+| bip_39_word_underscore_6 | vessel_build_century_icon_income_they |  
+| bip_39_word_underscore_7 | vessel_build_century_icon_income_they_crop |  
+| bip_39_word_underscore_8 | vessel_build_century_icon_income_they_crop_maid |  
+| bip_39_word_underscore_9 | vessel_build_century_icon_income_they_crop_maid_solve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: glass
+bip_39_word_dash_10: glass-candy-response-any-bunker-sound-process-donor-belt-hint
+bip_39_word_dash_11: glass-candy-response-any-bunker-sound-process-donor-belt-hint-benefit
+bip_39_word_dash_12: glass-candy-response-any-bunker-sound-process-donor-belt-hint-benefit-adjust
+bip_39_word_dash_2: glass-candy
+bip_39_word_dash_3: glass-candy-response
+bip_39_word_dash_4: glass-candy-response-any
+bip_39_word_dash_5: glass-candy-response-any-bunker
+bip_39_word_dash_6: glass-candy-response-any-bunker-sound
+bip_39_word_dash_7: glass-candy-response-any-bunker-sound-process
+bip_39_word_dash_8: glass-candy-response-any-bunker-sound-process-donor
+bip_39_word_dash_9: glass-candy-response-any-bunker-sound-process-donor-belt
 bip_39_word_new_br_1: glass
 bip_39_word_new_br_10: glass<br>candy<br>response<br>any<br>bunker<br>sound<br>process<br>donor<br>belt<br>hint
 bip_39_word_new_br_11: glass<br>candy<br>response<br>any<br>bunker<br>sound<br>process<br>donor<br>belt<br>hint<br>benefit
@@ -193,6 +205,18 @@ bip_39_word_space_6: glass candy response any bunker sound
 bip_39_word_space_7: glass candy response any bunker sound process
 bip_39_word_space_8: glass candy response any bunker sound process donor
 bip_39_word_space_9: glass candy response any bunker sound process donor belt
+bip_39_word_underscore_1: glass
+bip_39_word_underscore_10: glass_candy_response_any_bunker_sound_process_donor_belt_hint
+bip_39_word_underscore_11: glass_candy_response_any_bunker_sound_process_donor_belt_hint_benefit
+bip_39_word_underscore_12: glass_candy_response_any_bunker_sound_process_donor_belt_hint_benefit_adjust
+bip_39_word_underscore_2: glass_candy
+bip_39_word_underscore_3: glass_candy_response
+bip_39_word_underscore_4: glass_candy_response_any
+bip_39_word_underscore_5: glass_candy_response_any_bunker
+bip_39_word_underscore_6: glass_candy_response_any_bunker_sound
+bip_39_word_underscore_7: glass_candy_response_any_bunker_sound_process
+bip_39_word_underscore_8: glass_candy_response_any_bunker_sound_process_donor
+bip_39_word_underscore_9: glass_candy_response_any_bunker_sound_process_donor_belt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

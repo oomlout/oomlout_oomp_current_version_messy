@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | army |  
+| bip_39_word_dash_10 | army-ribbon-sing-bridge-way-essence-siege-wet-almost-party |  
+| bip_39_word_dash_11 | army-ribbon-sing-bridge-way-essence-siege-wet-almost-party-lesson |  
+| bip_39_word_dash_12 | army-ribbon-sing-bridge-way-essence-siege-wet-almost-party-lesson-arm |  
+| bip_39_word_dash_2 | army-ribbon |  
+| bip_39_word_dash_3 | army-ribbon-sing |  
+| bip_39_word_dash_4 | army-ribbon-sing-bridge |  
+| bip_39_word_dash_5 | army-ribbon-sing-bridge-way |  
+| bip_39_word_dash_6 | army-ribbon-sing-bridge-way-essence |  
+| bip_39_word_dash_7 | army-ribbon-sing-bridge-way-essence-siege |  
+| bip_39_word_dash_8 | army-ribbon-sing-bridge-way-essence-siege-wet |  
+| bip_39_word_dash_9 | army-ribbon-sing-bridge-way-essence-siege-wet-almost |  
 | bip_39_word_new_br_1 | army |  
 | bip_39_word_new_br_10 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party |  
 | bip_39_word_new_br_11 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party<br>lesson |  
@@ -147,6 +159,18 @@ almost |
 | bip_39_word_space_7 | army ribbon sing bridge way essence siege |  
 | bip_39_word_space_8 | army ribbon sing bridge way essence siege wet |  
 | bip_39_word_space_9 | army ribbon sing bridge way essence siege wet almost |  
+| bip_39_word_underscore_1 | army |  
+| bip_39_word_underscore_10 | army_ribbon_sing_bridge_way_essence_siege_wet_almost_party |  
+| bip_39_word_underscore_11 | army_ribbon_sing_bridge_way_essence_siege_wet_almost_party_lesson |  
+| bip_39_word_underscore_12 | army_ribbon_sing_bridge_way_essence_siege_wet_almost_party_lesson_arm |  
+| bip_39_word_underscore_2 | army_ribbon |  
+| bip_39_word_underscore_3 | army_ribbon_sing |  
+| bip_39_word_underscore_4 | army_ribbon_sing_bridge |  
+| bip_39_word_underscore_5 | army_ribbon_sing_bridge_way |  
+| bip_39_word_underscore_6 | army_ribbon_sing_bridge_way_essence |  
+| bip_39_word_underscore_7 | army_ribbon_sing_bridge_way_essence_siege |  
+| bip_39_word_underscore_8 | army_ribbon_sing_bridge_way_essence_siege_wet |  
+| bip_39_word_underscore_9 | army_ribbon_sing_bridge_way_essence_siege_wet_almost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

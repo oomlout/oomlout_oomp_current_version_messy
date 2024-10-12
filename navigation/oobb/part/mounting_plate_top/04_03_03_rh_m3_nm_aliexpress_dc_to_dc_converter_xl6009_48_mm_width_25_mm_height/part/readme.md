@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enact |  
+| bip_39_word_dash_10 | enact-worry-strategy-borrow-bike-wrist-search-fog-trigger-afraid |  
+| bip_39_word_dash_11 | enact-worry-strategy-borrow-bike-wrist-search-fog-trigger-afraid-letter |  
+| bip_39_word_dash_12 | enact-worry-strategy-borrow-bike-wrist-search-fog-trigger-afraid-letter-antique |  
+| bip_39_word_dash_2 | enact-worry |  
+| bip_39_word_dash_3 | enact-worry-strategy |  
+| bip_39_word_dash_4 | enact-worry-strategy-borrow |  
+| bip_39_word_dash_5 | enact-worry-strategy-borrow-bike |  
+| bip_39_word_dash_6 | enact-worry-strategy-borrow-bike-wrist |  
+| bip_39_word_dash_7 | enact-worry-strategy-borrow-bike-wrist-search |  
+| bip_39_word_dash_8 | enact-worry-strategy-borrow-bike-wrist-search-fog |  
+| bip_39_word_dash_9 | enact-worry-strategy-borrow-bike-wrist-search-fog-trigger |  
 | bip_39_word_new_br_1 | enact |  
 | bip_39_word_new_br_10 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog<br>trigger<br>afraid |  
 | bip_39_word_new_br_11 | enact<br>worry<br>strategy<br>borrow<br>bike<br>wrist<br>search<br>fog<br>trigger<br>afraid<br>letter |  
@@ -147,6 +159,18 @@ trigger |
 | bip_39_word_space_7 | enact worry strategy borrow bike wrist search |  
 | bip_39_word_space_8 | enact worry strategy borrow bike wrist search fog |  
 | bip_39_word_space_9 | enact worry strategy borrow bike wrist search fog trigger |  
+| bip_39_word_underscore_1 | enact |  
+| bip_39_word_underscore_10 | enact_worry_strategy_borrow_bike_wrist_search_fog_trigger_afraid |  
+| bip_39_word_underscore_11 | enact_worry_strategy_borrow_bike_wrist_search_fog_trigger_afraid_letter |  
+| bip_39_word_underscore_12 | enact_worry_strategy_borrow_bike_wrist_search_fog_trigger_afraid_letter_antique |  
+| bip_39_word_underscore_2 | enact_worry |  
+| bip_39_word_underscore_3 | enact_worry_strategy |  
+| bip_39_word_underscore_4 | enact_worry_strategy_borrow |  
+| bip_39_word_underscore_5 | enact_worry_strategy_borrow_bike |  
+| bip_39_word_underscore_6 | enact_worry_strategy_borrow_bike_wrist |  
+| bip_39_word_underscore_7 | enact_worry_strategy_borrow_bike_wrist_search |  
+| bip_39_word_underscore_8 | enact_worry_strategy_borrow_bike_wrist_search_fog |  
+| bip_39_word_underscore_9 | enact_worry_strategy_borrow_bike_wrist_search_fog_trigger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

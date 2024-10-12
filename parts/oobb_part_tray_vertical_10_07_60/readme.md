@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rib |  
+| bip_39_word_dash_10 | rib-region-radio-broom-onion-horse-poet-tip-midnight-okay |  
+| bip_39_word_dash_11 | rib-region-radio-broom-onion-horse-poet-tip-midnight-okay-chimney |  
+| bip_39_word_dash_12 | rib-region-radio-broom-onion-horse-poet-tip-midnight-okay-chimney-arrest |  
+| bip_39_word_dash_2 | rib-region |  
+| bip_39_word_dash_3 | rib-region-radio |  
+| bip_39_word_dash_4 | rib-region-radio-broom |  
+| bip_39_word_dash_5 | rib-region-radio-broom-onion |  
+| bip_39_word_dash_6 | rib-region-radio-broom-onion-horse |  
+| bip_39_word_dash_7 | rib-region-radio-broom-onion-horse-poet |  
+| bip_39_word_dash_8 | rib-region-radio-broom-onion-horse-poet-tip |  
+| bip_39_word_dash_9 | rib-region-radio-broom-onion-horse-poet-tip-midnight |  
 | bip_39_word_new_br_1 | rib |  
 | bip_39_word_new_br_10 | rib<br>region<br>radio<br>broom<br>onion<br>horse<br>poet<br>tip<br>midnight<br>okay |  
 | bip_39_word_new_br_11 | rib<br>region<br>radio<br>broom<br>onion<br>horse<br>poet<br>tip<br>midnight<br>okay<br>chimney |  
@@ -147,6 +159,18 @@ midnight |
 | bip_39_word_space_7 | rib region radio broom onion horse poet |  
 | bip_39_word_space_8 | rib region radio broom onion horse poet tip |  
 | bip_39_word_space_9 | rib region radio broom onion horse poet tip midnight |  
+| bip_39_word_underscore_1 | rib |  
+| bip_39_word_underscore_10 | rib_region_radio_broom_onion_horse_poet_tip_midnight_okay |  
+| bip_39_word_underscore_11 | rib_region_radio_broom_onion_horse_poet_tip_midnight_okay_chimney |  
+| bip_39_word_underscore_12 | rib_region_radio_broom_onion_horse_poet_tip_midnight_okay_chimney_arrest |  
+| bip_39_word_underscore_2 | rib_region |  
+| bip_39_word_underscore_3 | rib_region_radio |  
+| bip_39_word_underscore_4 | rib_region_radio_broom |  
+| bip_39_word_underscore_5 | rib_region_radio_broom_onion |  
+| bip_39_word_underscore_6 | rib_region_radio_broom_onion_horse |  
+| bip_39_word_underscore_7 | rib_region_radio_broom_onion_horse_poet |  
+| bip_39_word_underscore_8 | rib_region_radio_broom_onion_horse_poet_tip |  
+| bip_39_word_underscore_9 | rib_region_radio_broom_onion_horse_poet_tip_midnight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bench |  
+| bip_39_word_dash_10 | bench-island-simple-apology-theme-also-cheese-economy-faculty-palm |  
+| bip_39_word_dash_11 | bench-island-simple-apology-theme-also-cheese-economy-faculty-palm-child |  
+| bip_39_word_dash_12 | bench-island-simple-apology-theme-also-cheese-economy-faculty-palm-child-ancient |  
+| bip_39_word_dash_2 | bench-island |  
+| bip_39_word_dash_3 | bench-island-simple |  
+| bip_39_word_dash_4 | bench-island-simple-apology |  
+| bip_39_word_dash_5 | bench-island-simple-apology-theme |  
+| bip_39_word_dash_6 | bench-island-simple-apology-theme-also |  
+| bip_39_word_dash_7 | bench-island-simple-apology-theme-also-cheese |  
+| bip_39_word_dash_8 | bench-island-simple-apology-theme-also-cheese-economy |  
+| bip_39_word_dash_9 | bench-island-simple-apology-theme-also-cheese-economy-faculty |  
 | bip_39_word_new_br_1 | bench |  
 | bip_39_word_new_br_10 | bench<br>island<br>simple<br>apology<br>theme<br>also<br>cheese<br>economy<br>faculty<br>palm |  
 | bip_39_word_new_br_11 | bench<br>island<br>simple<br>apology<br>theme<br>also<br>cheese<br>economy<br>faculty<br>palm<br>child |  
@@ -147,6 +159,18 @@ faculty |
 | bip_39_word_space_7 | bench island simple apology theme also cheese |  
 | bip_39_word_space_8 | bench island simple apology theme also cheese economy |  
 | bip_39_word_space_9 | bench island simple apology theme also cheese economy faculty |  
+| bip_39_word_underscore_1 | bench |  
+| bip_39_word_underscore_10 | bench_island_simple_apology_theme_also_cheese_economy_faculty_palm |  
+| bip_39_word_underscore_11 | bench_island_simple_apology_theme_also_cheese_economy_faculty_palm_child |  
+| bip_39_word_underscore_12 | bench_island_simple_apology_theme_also_cheese_economy_faculty_palm_child_ancient |  
+| bip_39_word_underscore_2 | bench_island |  
+| bip_39_word_underscore_3 | bench_island_simple |  
+| bip_39_word_underscore_4 | bench_island_simple_apology |  
+| bip_39_word_underscore_5 | bench_island_simple_apology_theme |  
+| bip_39_word_underscore_6 | bench_island_simple_apology_theme_also |  
+| bip_39_word_underscore_7 | bench_island_simple_apology_theme_also_cheese |  
+| bip_39_word_underscore_8 | bench_island_simple_apology_theme_also_cheese_economy |  
+| bip_39_word_underscore_9 | bench_island_simple_apology_theme_also_cheese_economy_faculty |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

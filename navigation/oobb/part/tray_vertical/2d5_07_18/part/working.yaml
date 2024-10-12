@@ -1,3 +1,15 @@
+bip_39_word_dash_1: camera
+bip_39_word_dash_10: camera-gold-elder-mail-park-spoil-industry-sun-direct-actress
+bip_39_word_dash_11: camera-gold-elder-mail-park-spoil-industry-sun-direct-actress-ball
+bip_39_word_dash_12: camera-gold-elder-mail-park-spoil-industry-sun-direct-actress-ball-artefact
+bip_39_word_dash_2: camera-gold
+bip_39_word_dash_3: camera-gold-elder
+bip_39_word_dash_4: camera-gold-elder-mail
+bip_39_word_dash_5: camera-gold-elder-mail-park
+bip_39_word_dash_6: camera-gold-elder-mail-park-spoil
+bip_39_word_dash_7: camera-gold-elder-mail-park-spoil-industry
+bip_39_word_dash_8: camera-gold-elder-mail-park-spoil-industry-sun
+bip_39_word_dash_9: camera-gold-elder-mail-park-spoil-industry-sun-direct
 bip_39_word_new_br_1: camera
 bip_39_word_new_br_10: camera<br>gold<br>elder<br>mail<br>park<br>spoil<br>industry<br>sun<br>direct<br>actress
 bip_39_word_new_br_11: camera<br>gold<br>elder<br>mail<br>park<br>spoil<br>industry<br>sun<br>direct<br>actress<br>ball
@@ -193,6 +205,18 @@ bip_39_word_space_6: camera gold elder mail park spoil
 bip_39_word_space_7: camera gold elder mail park spoil industry
 bip_39_word_space_8: camera gold elder mail park spoil industry sun
 bip_39_word_space_9: camera gold elder mail park spoil industry sun direct
+bip_39_word_underscore_1: camera
+bip_39_word_underscore_10: camera_gold_elder_mail_park_spoil_industry_sun_direct_actress
+bip_39_word_underscore_11: camera_gold_elder_mail_park_spoil_industry_sun_direct_actress_ball
+bip_39_word_underscore_12: camera_gold_elder_mail_park_spoil_industry_sun_direct_actress_ball_artefact
+bip_39_word_underscore_2: camera_gold
+bip_39_word_underscore_3: camera_gold_elder
+bip_39_word_underscore_4: camera_gold_elder_mail
+bip_39_word_underscore_5: camera_gold_elder_mail_park
+bip_39_word_underscore_6: camera_gold_elder_mail_park_spoil
+bip_39_word_underscore_7: camera_gold_elder_mail_park_spoil_industry
+bip_39_word_underscore_8: camera_gold_elder_mail_park_spoil_industry_sun
+bip_39_word_underscore_9: camera_gold_elder_mail_park_spoil_industry_sun_direct
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

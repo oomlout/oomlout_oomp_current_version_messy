@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | never |  
+| bip_39_word_dash_10 | never-width-later-neither-brain-junior-best-region-letter-cable |  
+| bip_39_word_dash_11 | never-width-later-neither-brain-junior-best-region-letter-cable-dignity |  
+| bip_39_word_dash_12 | never-width-later-neither-brain-junior-best-region-letter-cable-dignity-adjust |  
+| bip_39_word_dash_2 | never-width |  
+| bip_39_word_dash_3 | never-width-later |  
+| bip_39_word_dash_4 | never-width-later-neither |  
+| bip_39_word_dash_5 | never-width-later-neither-brain |  
+| bip_39_word_dash_6 | never-width-later-neither-brain-junior |  
+| bip_39_word_dash_7 | never-width-later-neither-brain-junior-best |  
+| bip_39_word_dash_8 | never-width-later-neither-brain-junior-best-region |  
+| bip_39_word_dash_9 | never-width-later-neither-brain-junior-best-region-letter |  
 | bip_39_word_new_br_1 | never |  
 | bip_39_word_new_br_10 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable |  
 | bip_39_word_new_br_11 | never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable<br>dignity |  
@@ -147,6 +159,18 @@ letter |
 | bip_39_word_space_7 | never width later neither brain junior best |  
 | bip_39_word_space_8 | never width later neither brain junior best region |  
 | bip_39_word_space_9 | never width later neither brain junior best region letter |  
+| bip_39_word_underscore_1 | never |  
+| bip_39_word_underscore_10 | never_width_later_neither_brain_junior_best_region_letter_cable |  
+| bip_39_word_underscore_11 | never_width_later_neither_brain_junior_best_region_letter_cable_dignity |  
+| bip_39_word_underscore_12 | never_width_later_neither_brain_junior_best_region_letter_cable_dignity_adjust |  
+| bip_39_word_underscore_2 | never_width |  
+| bip_39_word_underscore_3 | never_width_later |  
+| bip_39_word_underscore_4 | never_width_later_neither |  
+| bip_39_word_underscore_5 | never_width_later_neither_brain |  
+| bip_39_word_underscore_6 | never_width_later_neither_brain_junior |  
+| bip_39_word_underscore_7 | never_width_later_neither_brain_junior_best |  
+| bip_39_word_underscore_8 | never_width_later_neither_brain_junior_best_region |  
+| bip_39_word_underscore_9 | never_width_later_neither_brain_junior_best_region_letter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

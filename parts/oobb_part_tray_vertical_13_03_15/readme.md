@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bag |  
+| bip_39_word_dash_10 | bag-wise-void-always-shy-cloth-float-pink-urban-maid |  
+| bip_39_word_dash_11 | bag-wise-void-always-shy-cloth-float-pink-urban-maid-woman |  
+| bip_39_word_dash_12 | bag-wise-void-always-shy-cloth-float-pink-urban-maid-woman-auto |  
+| bip_39_word_dash_2 | bag-wise |  
+| bip_39_word_dash_3 | bag-wise-void |  
+| bip_39_word_dash_4 | bag-wise-void-always |  
+| bip_39_word_dash_5 | bag-wise-void-always-shy |  
+| bip_39_word_dash_6 | bag-wise-void-always-shy-cloth |  
+| bip_39_word_dash_7 | bag-wise-void-always-shy-cloth-float |  
+| bip_39_word_dash_8 | bag-wise-void-always-shy-cloth-float-pink |  
+| bip_39_word_dash_9 | bag-wise-void-always-shy-cloth-float-pink-urban |  
 | bip_39_word_new_br_1 | bag |  
 | bip_39_word_new_br_10 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid |  
 | bip_39_word_new_br_11 | bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid<br>woman |  
@@ -147,6 +159,18 @@ urban |
 | bip_39_word_space_7 | bag wise void always shy cloth float |  
 | bip_39_word_space_8 | bag wise void always shy cloth float pink |  
 | bip_39_word_space_9 | bag wise void always shy cloth float pink urban |  
+| bip_39_word_underscore_1 | bag |  
+| bip_39_word_underscore_10 | bag_wise_void_always_shy_cloth_float_pink_urban_maid |  
+| bip_39_word_underscore_11 | bag_wise_void_always_shy_cloth_float_pink_urban_maid_woman |  
+| bip_39_word_underscore_12 | bag_wise_void_always_shy_cloth_float_pink_urban_maid_woman_auto |  
+| bip_39_word_underscore_2 | bag_wise |  
+| bip_39_word_underscore_3 | bag_wise_void |  
+| bip_39_word_underscore_4 | bag_wise_void_always |  
+| bip_39_word_underscore_5 | bag_wise_void_always_shy |  
+| bip_39_word_underscore_6 | bag_wise_void_always_shy_cloth |  
+| bip_39_word_underscore_7 | bag_wise_void_always_shy_cloth_float |  
+| bip_39_word_underscore_8 | bag_wise_void_always_shy_cloth_float_pink |  
+| bip_39_word_underscore_9 | bag_wise_void_always_shy_cloth_float_pink_urban |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: achieve
+bip_39_word_dash_10: achieve-sudden-above-sound-network-bike-cradle-inquiry-forward-fine
+bip_39_word_dash_11: achieve-sudden-above-sound-network-bike-cradle-inquiry-forward-fine-wool
+bip_39_word_dash_12: achieve-sudden-above-sound-network-bike-cradle-inquiry-forward-fine-wool-alone
+bip_39_word_dash_2: achieve-sudden
+bip_39_word_dash_3: achieve-sudden-above
+bip_39_word_dash_4: achieve-sudden-above-sound
+bip_39_word_dash_5: achieve-sudden-above-sound-network
+bip_39_word_dash_6: achieve-sudden-above-sound-network-bike
+bip_39_word_dash_7: achieve-sudden-above-sound-network-bike-cradle
+bip_39_word_dash_8: achieve-sudden-above-sound-network-bike-cradle-inquiry
+bip_39_word_dash_9: achieve-sudden-above-sound-network-bike-cradle-inquiry-forward
 bip_39_word_new_br_1: achieve
 bip_39_word_new_br_10: achieve<br>sudden<br>above<br>sound<br>network<br>bike<br>cradle<br>inquiry<br>forward<br>fine
 bip_39_word_new_br_11: achieve<br>sudden<br>above<br>sound<br>network<br>bike<br>cradle<br>inquiry<br>forward<br>fine<br>wool
@@ -194,6 +206,18 @@ bip_39_word_space_6: achieve sudden above sound network bike
 bip_39_word_space_7: achieve sudden above sound network bike cradle
 bip_39_word_space_8: achieve sudden above sound network bike cradle inquiry
 bip_39_word_space_9: achieve sudden above sound network bike cradle inquiry forward
+bip_39_word_underscore_1: achieve
+bip_39_word_underscore_10: achieve_sudden_above_sound_network_bike_cradle_inquiry_forward_fine
+bip_39_word_underscore_11: achieve_sudden_above_sound_network_bike_cradle_inquiry_forward_fine_wool
+bip_39_word_underscore_12: achieve_sudden_above_sound_network_bike_cradle_inquiry_forward_fine_wool_alone
+bip_39_word_underscore_2: achieve_sudden
+bip_39_word_underscore_3: achieve_sudden_above
+bip_39_word_underscore_4: achieve_sudden_above_sound
+bip_39_word_underscore_5: achieve_sudden_above_sound_network
+bip_39_word_underscore_6: achieve_sudden_above_sound_network_bike
+bip_39_word_underscore_7: achieve_sudden_above_sound_network_bike_cradle
+bip_39_word_underscore_8: achieve_sudden_above_sound_network_bike_cradle_inquiry
+bip_39_word_underscore_9: achieve_sudden_above_sound_network_bike_cradle_inquiry_forward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

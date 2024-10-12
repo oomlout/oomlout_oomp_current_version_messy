@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tattoo |  
+| bip_39_word_dash_10 | tattoo-zero-shoulder-hollow-urban-iron-multiply-subway-jeans-robust |  
+| bip_39_word_dash_11 | tattoo-zero-shoulder-hollow-urban-iron-multiply-subway-jeans-robust-daring |  
+| bip_39_word_dash_12 | tattoo-zero-shoulder-hollow-urban-iron-multiply-subway-jeans-robust-daring-afraid |  
+| bip_39_word_dash_2 | tattoo-zero |  
+| bip_39_word_dash_3 | tattoo-zero-shoulder |  
+| bip_39_word_dash_4 | tattoo-zero-shoulder-hollow |  
+| bip_39_word_dash_5 | tattoo-zero-shoulder-hollow-urban |  
+| bip_39_word_dash_6 | tattoo-zero-shoulder-hollow-urban-iron |  
+| bip_39_word_dash_7 | tattoo-zero-shoulder-hollow-urban-iron-multiply |  
+| bip_39_word_dash_8 | tattoo-zero-shoulder-hollow-urban-iron-multiply-subway |  
+| bip_39_word_dash_9 | tattoo-zero-shoulder-hollow-urban-iron-multiply-subway-jeans |  
 | bip_39_word_new_br_1 | tattoo |  
 | bip_39_word_new_br_10 | tattoo<br>zero<br>shoulder<br>hollow<br>urban<br>iron<br>multiply<br>subway<br>jeans<br>robust |  
 | bip_39_word_new_br_11 | tattoo<br>zero<br>shoulder<br>hollow<br>urban<br>iron<br>multiply<br>subway<br>jeans<br>robust<br>daring |  
@@ -147,6 +159,18 @@ jeans |
 | bip_39_word_space_7 | tattoo zero shoulder hollow urban iron multiply |  
 | bip_39_word_space_8 | tattoo zero shoulder hollow urban iron multiply subway |  
 | bip_39_word_space_9 | tattoo zero shoulder hollow urban iron multiply subway jeans |  
+| bip_39_word_underscore_1 | tattoo |  
+| bip_39_word_underscore_10 | tattoo_zero_shoulder_hollow_urban_iron_multiply_subway_jeans_robust |  
+| bip_39_word_underscore_11 | tattoo_zero_shoulder_hollow_urban_iron_multiply_subway_jeans_robust_daring |  
+| bip_39_word_underscore_12 | tattoo_zero_shoulder_hollow_urban_iron_multiply_subway_jeans_robust_daring_afraid |  
+| bip_39_word_underscore_2 | tattoo_zero |  
+| bip_39_word_underscore_3 | tattoo_zero_shoulder |  
+| bip_39_word_underscore_4 | tattoo_zero_shoulder_hollow |  
+| bip_39_word_underscore_5 | tattoo_zero_shoulder_hollow_urban |  
+| bip_39_word_underscore_6 | tattoo_zero_shoulder_hollow_urban_iron |  
+| bip_39_word_underscore_7 | tattoo_zero_shoulder_hollow_urban_iron_multiply |  
+| bip_39_word_underscore_8 | tattoo_zero_shoulder_hollow_urban_iron_multiply_subway |  
+| bip_39_word_underscore_9 | tattoo_zero_shoulder_hollow_urban_iron_multiply_subway_jeans |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

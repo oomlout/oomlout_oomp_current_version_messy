@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crowd |  
+| bip_39_word_dash_10 | crowd-miss-peanut-problem-carpet-menu-warrior-violin-whip-drift |  
+| bip_39_word_dash_11 | crowd-miss-peanut-problem-carpet-menu-warrior-violin-whip-drift-ability |  
+| bip_39_word_dash_12 | crowd-miss-peanut-problem-carpet-menu-warrior-violin-whip-drift-ability-ask |  
+| bip_39_word_dash_2 | crowd-miss |  
+| bip_39_word_dash_3 | crowd-miss-peanut |  
+| bip_39_word_dash_4 | crowd-miss-peanut-problem |  
+| bip_39_word_dash_5 | crowd-miss-peanut-problem-carpet |  
+| bip_39_word_dash_6 | crowd-miss-peanut-problem-carpet-menu |  
+| bip_39_word_dash_7 | crowd-miss-peanut-problem-carpet-menu-warrior |  
+| bip_39_word_dash_8 | crowd-miss-peanut-problem-carpet-menu-warrior-violin |  
+| bip_39_word_dash_9 | crowd-miss-peanut-problem-carpet-menu-warrior-violin-whip |  
 | bip_39_word_new_br_1 | crowd |  
 | bip_39_word_new_br_10 | crowd<br>miss<br>peanut<br>problem<br>carpet<br>menu<br>warrior<br>violin<br>whip<br>drift |  
 | bip_39_word_new_br_11 | crowd<br>miss<br>peanut<br>problem<br>carpet<br>menu<br>warrior<br>violin<br>whip<br>drift<br>ability |  
@@ -147,6 +159,18 @@ whip |
 | bip_39_word_space_7 | crowd miss peanut problem carpet menu warrior |  
 | bip_39_word_space_8 | crowd miss peanut problem carpet menu warrior violin |  
 | bip_39_word_space_9 | crowd miss peanut problem carpet menu warrior violin whip |  
+| bip_39_word_underscore_1 | crowd |  
+| bip_39_word_underscore_10 | crowd_miss_peanut_problem_carpet_menu_warrior_violin_whip_drift |  
+| bip_39_word_underscore_11 | crowd_miss_peanut_problem_carpet_menu_warrior_violin_whip_drift_ability |  
+| bip_39_word_underscore_12 | crowd_miss_peanut_problem_carpet_menu_warrior_violin_whip_drift_ability_ask |  
+| bip_39_word_underscore_2 | crowd_miss |  
+| bip_39_word_underscore_3 | crowd_miss_peanut |  
+| bip_39_word_underscore_4 | crowd_miss_peanut_problem |  
+| bip_39_word_underscore_5 | crowd_miss_peanut_problem_carpet |  
+| bip_39_word_underscore_6 | crowd_miss_peanut_problem_carpet_menu |  
+| bip_39_word_underscore_7 | crowd_miss_peanut_problem_carpet_menu_warrior |  
+| bip_39_word_underscore_8 | crowd_miss_peanut_problem_carpet_menu_warrior_violin |  
+| bip_39_word_underscore_9 | crowd_miss_peanut_problem_carpet_menu_warrior_violin_whip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

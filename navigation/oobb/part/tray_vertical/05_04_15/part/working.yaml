@@ -1,3 +1,15 @@
+bip_39_word_dash_1: faculty
+bip_39_word_dash_10: faculty-problem-canyon-ring-popular-march-version-pioneer-knife-sun
+bip_39_word_dash_11: faculty-problem-canyon-ring-popular-march-version-pioneer-knife-sun-mule
+bip_39_word_dash_12: faculty-problem-canyon-ring-popular-march-version-pioneer-knife-sun-mule-apology
+bip_39_word_dash_2: faculty-problem
+bip_39_word_dash_3: faculty-problem-canyon
+bip_39_word_dash_4: faculty-problem-canyon-ring
+bip_39_word_dash_5: faculty-problem-canyon-ring-popular
+bip_39_word_dash_6: faculty-problem-canyon-ring-popular-march
+bip_39_word_dash_7: faculty-problem-canyon-ring-popular-march-version
+bip_39_word_dash_8: faculty-problem-canyon-ring-popular-march-version-pioneer
+bip_39_word_dash_9: faculty-problem-canyon-ring-popular-march-version-pioneer-knife
 bip_39_word_new_br_1: faculty
 bip_39_word_new_br_10: faculty<br>problem<br>canyon<br>ring<br>popular<br>march<br>version<br>pioneer<br>knife<br>sun
 bip_39_word_new_br_11: faculty<br>problem<br>canyon<br>ring<br>popular<br>march<br>version<br>pioneer<br>knife<br>sun<br>mule
@@ -194,6 +206,18 @@ bip_39_word_space_6: faculty problem canyon ring popular march
 bip_39_word_space_7: faculty problem canyon ring popular march version
 bip_39_word_space_8: faculty problem canyon ring popular march version pioneer
 bip_39_word_space_9: faculty problem canyon ring popular march version pioneer knife
+bip_39_word_underscore_1: faculty
+bip_39_word_underscore_10: faculty_problem_canyon_ring_popular_march_version_pioneer_knife_sun
+bip_39_word_underscore_11: faculty_problem_canyon_ring_popular_march_version_pioneer_knife_sun_mule
+bip_39_word_underscore_12: faculty_problem_canyon_ring_popular_march_version_pioneer_knife_sun_mule_apology
+bip_39_word_underscore_2: faculty_problem
+bip_39_word_underscore_3: faculty_problem_canyon
+bip_39_word_underscore_4: faculty_problem_canyon_ring
+bip_39_word_underscore_5: faculty_problem_canyon_ring_popular
+bip_39_word_underscore_6: faculty_problem_canyon_ring_popular_march
+bip_39_word_underscore_7: faculty_problem_canyon_ring_popular_march_version
+bip_39_word_underscore_8: faculty_problem_canyon_ring_popular_march_version_pioneer
+bip_39_word_underscore_9: faculty_problem_canyon_ring_popular_march_version_pioneer_knife
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

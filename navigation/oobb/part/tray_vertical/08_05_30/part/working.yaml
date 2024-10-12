@@ -1,3 +1,15 @@
+bip_39_word_dash_1: example
+bip_39_word_dash_10: example-cigar-enough-swap-define-host-bird-eager-before-royal
+bip_39_word_dash_11: example-cigar-enough-swap-define-host-bird-eager-before-royal-anger
+bip_39_word_dash_12: example-cigar-enough-swap-define-host-bird-eager-before-royal-anger-advice
+bip_39_word_dash_2: example-cigar
+bip_39_word_dash_3: example-cigar-enough
+bip_39_word_dash_4: example-cigar-enough-swap
+bip_39_word_dash_5: example-cigar-enough-swap-define
+bip_39_word_dash_6: example-cigar-enough-swap-define-host
+bip_39_word_dash_7: example-cigar-enough-swap-define-host-bird
+bip_39_word_dash_8: example-cigar-enough-swap-define-host-bird-eager
+bip_39_word_dash_9: example-cigar-enough-swap-define-host-bird-eager-before
 bip_39_word_new_br_1: example
 bip_39_word_new_br_10: example<br>cigar<br>enough<br>swap<br>define<br>host<br>bird<br>eager<br>before<br>royal
 bip_39_word_new_br_11: example<br>cigar<br>enough<br>swap<br>define<br>host<br>bird<br>eager<br>before<br>royal<br>anger
@@ -193,6 +205,18 @@ bip_39_word_space_6: example cigar enough swap define host
 bip_39_word_space_7: example cigar enough swap define host bird
 bip_39_word_space_8: example cigar enough swap define host bird eager
 bip_39_word_space_9: example cigar enough swap define host bird eager before
+bip_39_word_underscore_1: example
+bip_39_word_underscore_10: example_cigar_enough_swap_define_host_bird_eager_before_royal
+bip_39_word_underscore_11: example_cigar_enough_swap_define_host_bird_eager_before_royal_anger
+bip_39_word_underscore_12: example_cigar_enough_swap_define_host_bird_eager_before_royal_anger_advice
+bip_39_word_underscore_2: example_cigar
+bip_39_word_underscore_3: example_cigar_enough
+bip_39_word_underscore_4: example_cigar_enough_swap
+bip_39_word_underscore_5: example_cigar_enough_swap_define
+bip_39_word_underscore_6: example_cigar_enough_swap_define_host
+bip_39_word_underscore_7: example_cigar_enough_swap_define_host_bird
+bip_39_word_underscore_8: example_cigar_enough_swap_define_host_bird_eager
+bip_39_word_underscore_9: example_cigar_enough_swap_define_host_bird_eager_before
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

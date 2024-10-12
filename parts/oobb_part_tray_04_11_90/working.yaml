@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deny
+bip_39_word_dash_10: deny-since-waste-notice-ozone-crane-liquid-special-alley-coral
+bip_39_word_dash_11: deny-since-waste-notice-ozone-crane-liquid-special-alley-coral-truth
+bip_39_word_dash_12: deny-since-waste-notice-ozone-crane-liquid-special-alley-coral-truth-alert
+bip_39_word_dash_2: deny-since
+bip_39_word_dash_3: deny-since-waste
+bip_39_word_dash_4: deny-since-waste-notice
+bip_39_word_dash_5: deny-since-waste-notice-ozone
+bip_39_word_dash_6: deny-since-waste-notice-ozone-crane
+bip_39_word_dash_7: deny-since-waste-notice-ozone-crane-liquid
+bip_39_word_dash_8: deny-since-waste-notice-ozone-crane-liquid-special
+bip_39_word_dash_9: deny-since-waste-notice-ozone-crane-liquid-special-alley
 bip_39_word_new_br_1: deny
 bip_39_word_new_br_10: deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special<br>alley<br>coral
 bip_39_word_new_br_11: deny<br>since<br>waste<br>notice<br>ozone<br>crane<br>liquid<br>special<br>alley<br>coral<br>truth
@@ -193,6 +205,18 @@ bip_39_word_space_6: deny since waste notice ozone crane
 bip_39_word_space_7: deny since waste notice ozone crane liquid
 bip_39_word_space_8: deny since waste notice ozone crane liquid special
 bip_39_word_space_9: deny since waste notice ozone crane liquid special alley
+bip_39_word_underscore_1: deny
+bip_39_word_underscore_10: deny_since_waste_notice_ozone_crane_liquid_special_alley_coral
+bip_39_word_underscore_11: deny_since_waste_notice_ozone_crane_liquid_special_alley_coral_truth
+bip_39_word_underscore_12: deny_since_waste_notice_ozone_crane_liquid_special_alley_coral_truth_alert
+bip_39_word_underscore_2: deny_since
+bip_39_word_underscore_3: deny_since_waste
+bip_39_word_underscore_4: deny_since_waste_notice
+bip_39_word_underscore_5: deny_since_waste_notice_ozone
+bip_39_word_underscore_6: deny_since_waste_notice_ozone_crane
+bip_39_word_underscore_7: deny_since_waste_notice_ozone_crane_liquid
+bip_39_word_underscore_8: deny_since_waste_notice_ozone_crane_liquid_special
+bip_39_word_underscore_9: deny_since_waste_notice_ozone_crane_liquid_special_alley
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

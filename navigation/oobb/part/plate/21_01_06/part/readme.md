@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | level |  
+| bip_39_word_dash_10 | level-gym-genre-wash-garlic-icon-return-enact-can-undo |  
+| bip_39_word_dash_11 | level-gym-genre-wash-garlic-icon-return-enact-can-undo-cage |  
+| bip_39_word_dash_12 | level-gym-genre-wash-garlic-icon-return-enact-can-undo-cage-almost |  
+| bip_39_word_dash_2 | level-gym |  
+| bip_39_word_dash_3 | level-gym-genre |  
+| bip_39_word_dash_4 | level-gym-genre-wash |  
+| bip_39_word_dash_5 | level-gym-genre-wash-garlic |  
+| bip_39_word_dash_6 | level-gym-genre-wash-garlic-icon |  
+| bip_39_word_dash_7 | level-gym-genre-wash-garlic-icon-return |  
+| bip_39_word_dash_8 | level-gym-genre-wash-garlic-icon-return-enact |  
+| bip_39_word_dash_9 | level-gym-genre-wash-garlic-icon-return-enact-can |  
 | bip_39_word_new_br_1 | level |  
 | bip_39_word_new_br_10 | level<br>gym<br>genre<br>wash<br>garlic<br>icon<br>return<br>enact<br>can<br>undo |  
 | bip_39_word_new_br_11 | level<br>gym<br>genre<br>wash<br>garlic<br>icon<br>return<br>enact<br>can<br>undo<br>cage |  
@@ -147,6 +159,18 @@ can |
 | bip_39_word_space_7 | level gym genre wash garlic icon return |  
 | bip_39_word_space_8 | level gym genre wash garlic icon return enact |  
 | bip_39_word_space_9 | level gym genre wash garlic icon return enact can |  
+| bip_39_word_underscore_1 | level |  
+| bip_39_word_underscore_10 | level_gym_genre_wash_garlic_icon_return_enact_can_undo |  
+| bip_39_word_underscore_11 | level_gym_genre_wash_garlic_icon_return_enact_can_undo_cage |  
+| bip_39_word_underscore_12 | level_gym_genre_wash_garlic_icon_return_enact_can_undo_cage_almost |  
+| bip_39_word_underscore_2 | level_gym |  
+| bip_39_word_underscore_3 | level_gym_genre |  
+| bip_39_word_underscore_4 | level_gym_genre_wash |  
+| bip_39_word_underscore_5 | level_gym_genre_wash_garlic |  
+| bip_39_word_underscore_6 | level_gym_genre_wash_garlic_icon |  
+| bip_39_word_underscore_7 | level_gym_genre_wash_garlic_icon_return |  
+| bip_39_word_underscore_8 | level_gym_genre_wash_garlic_icon_return_enact |  
+| bip_39_word_underscore_9 | level_gym_genre_wash_garlic_icon_return_enact_can |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: auction
+bip_39_word_dash_10: auction-stadium-scheme-sugar-renew-advance-knife-lunar-stove-mirror
+bip_39_word_dash_11: auction-stadium-scheme-sugar-renew-advance-knife-lunar-stove-mirror-inner
+bip_39_word_dash_12: auction-stadium-scheme-sugar-renew-advance-knife-lunar-stove-mirror-inner-aspect
+bip_39_word_dash_2: auction-stadium
+bip_39_word_dash_3: auction-stadium-scheme
+bip_39_word_dash_4: auction-stadium-scheme-sugar
+bip_39_word_dash_5: auction-stadium-scheme-sugar-renew
+bip_39_word_dash_6: auction-stadium-scheme-sugar-renew-advance
+bip_39_word_dash_7: auction-stadium-scheme-sugar-renew-advance-knife
+bip_39_word_dash_8: auction-stadium-scheme-sugar-renew-advance-knife-lunar
+bip_39_word_dash_9: auction-stadium-scheme-sugar-renew-advance-knife-lunar-stove
 bip_39_word_new_br_1: auction
 bip_39_word_new_br_10: auction<br>stadium<br>scheme<br>sugar<br>renew<br>advance<br>knife<br>lunar<br>stove<br>mirror
 bip_39_word_new_br_11: auction<br>stadium<br>scheme<br>sugar<br>renew<br>advance<br>knife<br>lunar<br>stove<br>mirror<br>inner
@@ -194,6 +206,18 @@ bip_39_word_space_6: auction stadium scheme sugar renew advance
 bip_39_word_space_7: auction stadium scheme sugar renew advance knife
 bip_39_word_space_8: auction stadium scheme sugar renew advance knife lunar
 bip_39_word_space_9: auction stadium scheme sugar renew advance knife lunar stove
+bip_39_word_underscore_1: auction
+bip_39_word_underscore_10: auction_stadium_scheme_sugar_renew_advance_knife_lunar_stove_mirror
+bip_39_word_underscore_11: auction_stadium_scheme_sugar_renew_advance_knife_lunar_stove_mirror_inner
+bip_39_word_underscore_12: auction_stadium_scheme_sugar_renew_advance_knife_lunar_stove_mirror_inner_aspect
+bip_39_word_underscore_2: auction_stadium
+bip_39_word_underscore_3: auction_stadium_scheme
+bip_39_word_underscore_4: auction_stadium_scheme_sugar
+bip_39_word_underscore_5: auction_stadium_scheme_sugar_renew
+bip_39_word_underscore_6: auction_stadium_scheme_sugar_renew_advance
+bip_39_word_underscore_7: auction_stadium_scheme_sugar_renew_advance_knife
+bip_39_word_underscore_8: auction_stadium_scheme_sugar_renew_advance_knife_lunar
+bip_39_word_underscore_9: auction_stadium_scheme_sugar_renew_advance_knife_lunar_stove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

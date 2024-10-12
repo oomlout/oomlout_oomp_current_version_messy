@@ -1,3 +1,15 @@
+bip_39_word_dash_1: expire
+bip_39_word_dash_10: expire-snap-trade-this-leaf-tunnel-canoe-stand-hope-diamond
+bip_39_word_dash_11: expire-snap-trade-this-leaf-tunnel-canoe-stand-hope-diamond-frost
+bip_39_word_dash_12: expire-snap-trade-this-leaf-tunnel-canoe-stand-hope-diamond-frost-allow
+bip_39_word_dash_2: expire-snap
+bip_39_word_dash_3: expire-snap-trade
+bip_39_word_dash_4: expire-snap-trade-this
+bip_39_word_dash_5: expire-snap-trade-this-leaf
+bip_39_word_dash_6: expire-snap-trade-this-leaf-tunnel
+bip_39_word_dash_7: expire-snap-trade-this-leaf-tunnel-canoe
+bip_39_word_dash_8: expire-snap-trade-this-leaf-tunnel-canoe-stand
+bip_39_word_dash_9: expire-snap-trade-this-leaf-tunnel-canoe-stand-hope
 bip_39_word_new_br_1: expire
 bip_39_word_new_br_10: expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand<br>hope<br>diamond
 bip_39_word_new_br_11: expire<br>snap<br>trade<br>this<br>leaf<br>tunnel<br>canoe<br>stand<br>hope<br>diamond<br>frost
@@ -193,6 +205,18 @@ bip_39_word_space_6: expire snap trade this leaf tunnel
 bip_39_word_space_7: expire snap trade this leaf tunnel canoe
 bip_39_word_space_8: expire snap trade this leaf tunnel canoe stand
 bip_39_word_space_9: expire snap trade this leaf tunnel canoe stand hope
+bip_39_word_underscore_1: expire
+bip_39_word_underscore_10: expire_snap_trade_this_leaf_tunnel_canoe_stand_hope_diamond
+bip_39_word_underscore_11: expire_snap_trade_this_leaf_tunnel_canoe_stand_hope_diamond_frost
+bip_39_word_underscore_12: expire_snap_trade_this_leaf_tunnel_canoe_stand_hope_diamond_frost_allow
+bip_39_word_underscore_2: expire_snap
+bip_39_word_underscore_3: expire_snap_trade
+bip_39_word_underscore_4: expire_snap_trade_this
+bip_39_word_underscore_5: expire_snap_trade_this_leaf
+bip_39_word_underscore_6: expire_snap_trade_this_leaf_tunnel
+bip_39_word_underscore_7: expire_snap_trade_this_leaf_tunnel_canoe
+bip_39_word_underscore_8: expire_snap_trade_this_leaf_tunnel_canoe_stand
+bip_39_word_underscore_9: expire_snap_trade_this_leaf_tunnel_canoe_stand_hope
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

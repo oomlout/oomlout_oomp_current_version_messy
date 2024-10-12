@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pioneer |  
+| bip_39_word_dash_10 | pioneer-stamp-never-idle-skill-inquiry-visual-attitude-choose-please |  
+| bip_39_word_dash_11 | pioneer-stamp-never-idle-skill-inquiry-visual-attitude-choose-please-mystery |  
+| bip_39_word_dash_12 | pioneer-stamp-never-idle-skill-inquiry-visual-attitude-choose-please-mystery-alarm |  
+| bip_39_word_dash_2 | pioneer-stamp |  
+| bip_39_word_dash_3 | pioneer-stamp-never |  
+| bip_39_word_dash_4 | pioneer-stamp-never-idle |  
+| bip_39_word_dash_5 | pioneer-stamp-never-idle-skill |  
+| bip_39_word_dash_6 | pioneer-stamp-never-idle-skill-inquiry |  
+| bip_39_word_dash_7 | pioneer-stamp-never-idle-skill-inquiry-visual |  
+| bip_39_word_dash_8 | pioneer-stamp-never-idle-skill-inquiry-visual-attitude |  
+| bip_39_word_dash_9 | pioneer-stamp-never-idle-skill-inquiry-visual-attitude-choose |  
 | bip_39_word_new_br_1 | pioneer |  
 | bip_39_word_new_br_10 | pioneer<br>stamp<br>never<br>idle<br>skill<br>inquiry<br>visual<br>attitude<br>choose<br>please |  
 | bip_39_word_new_br_11 | pioneer<br>stamp<br>never<br>idle<br>skill<br>inquiry<br>visual<br>attitude<br>choose<br>please<br>mystery |  
@@ -147,6 +159,18 @@ choose |
 | bip_39_word_space_7 | pioneer stamp never idle skill inquiry visual |  
 | bip_39_word_space_8 | pioneer stamp never idle skill inquiry visual attitude |  
 | bip_39_word_space_9 | pioneer stamp never idle skill inquiry visual attitude choose |  
+| bip_39_word_underscore_1 | pioneer |  
+| bip_39_word_underscore_10 | pioneer_stamp_never_idle_skill_inquiry_visual_attitude_choose_please |  
+| bip_39_word_underscore_11 | pioneer_stamp_never_idle_skill_inquiry_visual_attitude_choose_please_mystery |  
+| bip_39_word_underscore_12 | pioneer_stamp_never_idle_skill_inquiry_visual_attitude_choose_please_mystery_alarm |  
+| bip_39_word_underscore_2 | pioneer_stamp |  
+| bip_39_word_underscore_3 | pioneer_stamp_never |  
+| bip_39_word_underscore_4 | pioneer_stamp_never_idle |  
+| bip_39_word_underscore_5 | pioneer_stamp_never_idle_skill |  
+| bip_39_word_underscore_6 | pioneer_stamp_never_idle_skill_inquiry |  
+| bip_39_word_underscore_7 | pioneer_stamp_never_idle_skill_inquiry_visual |  
+| bip_39_word_underscore_8 | pioneer_stamp_never_idle_skill_inquiry_visual_attitude |  
+| bip_39_word_underscore_9 | pioneer_stamp_never_idle_skill_inquiry_visual_attitude_choose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

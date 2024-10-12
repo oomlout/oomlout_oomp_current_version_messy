@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hurry
+bip_39_word_dash_10: hurry-shuffle-eight-interest-decade-trade-bulb-bring-tired-home
+bip_39_word_dash_11: hurry-shuffle-eight-interest-decade-trade-bulb-bring-tired-home-fence
+bip_39_word_dash_12: hurry-shuffle-eight-interest-decade-trade-bulb-bring-tired-home-fence-asset
+bip_39_word_dash_2: hurry-shuffle
+bip_39_word_dash_3: hurry-shuffle-eight
+bip_39_word_dash_4: hurry-shuffle-eight-interest
+bip_39_word_dash_5: hurry-shuffle-eight-interest-decade
+bip_39_word_dash_6: hurry-shuffle-eight-interest-decade-trade
+bip_39_word_dash_7: hurry-shuffle-eight-interest-decade-trade-bulb
+bip_39_word_dash_8: hurry-shuffle-eight-interest-decade-trade-bulb-bring
+bip_39_word_dash_9: hurry-shuffle-eight-interest-decade-trade-bulb-bring-tired
 bip_39_word_new_br_1: hurry
 bip_39_word_new_br_10: hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring<br>tired<br>home
 bip_39_word_new_br_11: hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring<br>tired<br>home<br>fence
@@ -193,6 +205,18 @@ bip_39_word_space_6: hurry shuffle eight interest decade trade
 bip_39_word_space_7: hurry shuffle eight interest decade trade bulb
 bip_39_word_space_8: hurry shuffle eight interest decade trade bulb bring
 bip_39_word_space_9: hurry shuffle eight interest decade trade bulb bring tired
+bip_39_word_underscore_1: hurry
+bip_39_word_underscore_10: hurry_shuffle_eight_interest_decade_trade_bulb_bring_tired_home
+bip_39_word_underscore_11: hurry_shuffle_eight_interest_decade_trade_bulb_bring_tired_home_fence
+bip_39_word_underscore_12: hurry_shuffle_eight_interest_decade_trade_bulb_bring_tired_home_fence_asset
+bip_39_word_underscore_2: hurry_shuffle
+bip_39_word_underscore_3: hurry_shuffle_eight
+bip_39_word_underscore_4: hurry_shuffle_eight_interest
+bip_39_word_underscore_5: hurry_shuffle_eight_interest_decade
+bip_39_word_underscore_6: hurry_shuffle_eight_interest_decade_trade
+bip_39_word_underscore_7: hurry_shuffle_eight_interest_decade_trade_bulb
+bip_39_word_underscore_8: hurry_shuffle_eight_interest_decade_trade_bulb_bring
+bip_39_word_underscore_9: hurry_shuffle_eight_interest_decade_trade_bulb_bring_tired
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

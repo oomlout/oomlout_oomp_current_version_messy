@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wheat |  
+| bip_39_word_dash_10 | wheat-say-popular-unlock-excite-you-case-hover-shadow-reward |  
+| bip_39_word_dash_11 | wheat-say-popular-unlock-excite-you-case-hover-shadow-reward-axis |  
+| bip_39_word_dash_12 | wheat-say-popular-unlock-excite-you-case-hover-shadow-reward-axis-auction |  
+| bip_39_word_dash_2 | wheat-say |  
+| bip_39_word_dash_3 | wheat-say-popular |  
+| bip_39_word_dash_4 | wheat-say-popular-unlock |  
+| bip_39_word_dash_5 | wheat-say-popular-unlock-excite |  
+| bip_39_word_dash_6 | wheat-say-popular-unlock-excite-you |  
+| bip_39_word_dash_7 | wheat-say-popular-unlock-excite-you-case |  
+| bip_39_word_dash_8 | wheat-say-popular-unlock-excite-you-case-hover |  
+| bip_39_word_dash_9 | wheat-say-popular-unlock-excite-you-case-hover-shadow |  
 | bip_39_word_new_br_1 | wheat |  
 | bip_39_word_new_br_10 | wheat<br>say<br>popular<br>unlock<br>excite<br>you<br>case<br>hover<br>shadow<br>reward |  
 | bip_39_word_new_br_11 | wheat<br>say<br>popular<br>unlock<br>excite<br>you<br>case<br>hover<br>shadow<br>reward<br>axis |  
@@ -147,6 +159,18 @@ shadow |
 | bip_39_word_space_7 | wheat say popular unlock excite you case |  
 | bip_39_word_space_8 | wheat say popular unlock excite you case hover |  
 | bip_39_word_space_9 | wheat say popular unlock excite you case hover shadow |  
+| bip_39_word_underscore_1 | wheat |  
+| bip_39_word_underscore_10 | wheat_say_popular_unlock_excite_you_case_hover_shadow_reward |  
+| bip_39_word_underscore_11 | wheat_say_popular_unlock_excite_you_case_hover_shadow_reward_axis |  
+| bip_39_word_underscore_12 | wheat_say_popular_unlock_excite_you_case_hover_shadow_reward_axis_auction |  
+| bip_39_word_underscore_2 | wheat_say |  
+| bip_39_word_underscore_3 | wheat_say_popular |  
+| bip_39_word_underscore_4 | wheat_say_popular_unlock |  
+| bip_39_word_underscore_5 | wheat_say_popular_unlock_excite |  
+| bip_39_word_underscore_6 | wheat_say_popular_unlock_excite_you |  
+| bip_39_word_underscore_7 | wheat_say_popular_unlock_excite_you_case |  
+| bip_39_word_underscore_8 | wheat_say_popular_unlock_excite_you_case_hover |  
+| bip_39_word_underscore_9 | wheat_say_popular_unlock_excite_you_case_hover_shadow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

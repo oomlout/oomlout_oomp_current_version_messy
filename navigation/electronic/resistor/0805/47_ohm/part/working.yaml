@@ -1,3 +1,15 @@
+bip_39_word_dash_1: coin
+bip_39_word_dash_10: coin-giant-lift-merit-town-puppy-quick-project-old-feed
+bip_39_word_dash_11: coin-giant-lift-merit-town-puppy-quick-project-old-feed-flavor
+bip_39_word_dash_12: coin-giant-lift-merit-town-puppy-quick-project-old-feed-flavor-ankle
+bip_39_word_dash_2: coin-giant
+bip_39_word_dash_3: coin-giant-lift
+bip_39_word_dash_4: coin-giant-lift-merit
+bip_39_word_dash_5: coin-giant-lift-merit-town
+bip_39_word_dash_6: coin-giant-lift-merit-town-puppy
+bip_39_word_dash_7: coin-giant-lift-merit-town-puppy-quick
+bip_39_word_dash_8: coin-giant-lift-merit-town-puppy-quick-project
+bip_39_word_dash_9: coin-giant-lift-merit-town-puppy-quick-project-old
 bip_39_word_new_br_1: coin
 bip_39_word_new_br_10: coin<br>giant<br>lift<br>merit<br>town<br>puppy<br>quick<br>project<br>old<br>feed
 bip_39_word_new_br_11: coin<br>giant<br>lift<br>merit<br>town<br>puppy<br>quick<br>project<br>old<br>feed<br>flavor
@@ -192,6 +204,18 @@ bip_39_word_space_6: coin giant lift merit town puppy
 bip_39_word_space_7: coin giant lift merit town puppy quick
 bip_39_word_space_8: coin giant lift merit town puppy quick project
 bip_39_word_space_9: coin giant lift merit town puppy quick project old
+bip_39_word_underscore_1: coin
+bip_39_word_underscore_10: coin_giant_lift_merit_town_puppy_quick_project_old_feed
+bip_39_word_underscore_11: coin_giant_lift_merit_town_puppy_quick_project_old_feed_flavor
+bip_39_word_underscore_12: coin_giant_lift_merit_town_puppy_quick_project_old_feed_flavor_ankle
+bip_39_word_underscore_2: coin_giant
+bip_39_word_underscore_3: coin_giant_lift
+bip_39_word_underscore_4: coin_giant_lift_merit
+bip_39_word_underscore_5: coin_giant_lift_merit_town
+bip_39_word_underscore_6: coin_giant_lift_merit_town_puppy
+bip_39_word_underscore_7: coin_giant_lift_merit_town_puppy_quick
+bip_39_word_underscore_8: coin_giant_lift_merit_town_puppy_quick_project
+bip_39_word_underscore_9: coin_giant_lift_merit_town_puppy_quick_project_old
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

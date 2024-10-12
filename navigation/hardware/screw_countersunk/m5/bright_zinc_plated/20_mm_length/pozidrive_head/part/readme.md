@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | runway |  
+| bip_39_word_dash_10 | runway-pioneer-notice-salt-duty-seed-soup-toast-danger-monkey |  
+| bip_39_word_dash_11 | runway-pioneer-notice-salt-duty-seed-soup-toast-danger-monkey-since |  
+| bip_39_word_dash_12 | runway-pioneer-notice-salt-duty-seed-soup-toast-danger-monkey-since-across |  
+| bip_39_word_dash_2 | runway-pioneer |  
+| bip_39_word_dash_3 | runway-pioneer-notice |  
+| bip_39_word_dash_4 | runway-pioneer-notice-salt |  
+| bip_39_word_dash_5 | runway-pioneer-notice-salt-duty |  
+| bip_39_word_dash_6 | runway-pioneer-notice-salt-duty-seed |  
+| bip_39_word_dash_7 | runway-pioneer-notice-salt-duty-seed-soup |  
+| bip_39_word_dash_8 | runway-pioneer-notice-salt-duty-seed-soup-toast |  
+| bip_39_word_dash_9 | runway-pioneer-notice-salt-duty-seed-soup-toast-danger |  
 | bip_39_word_new_br_1 | runway |  
 | bip_39_word_new_br_10 | runway<br>pioneer<br>notice<br>salt<br>duty<br>seed<br>soup<br>toast<br>danger<br>monkey |  
 | bip_39_word_new_br_11 | runway<br>pioneer<br>notice<br>salt<br>duty<br>seed<br>soup<br>toast<br>danger<br>monkey<br>since |  
@@ -147,6 +159,18 @@ danger |
 | bip_39_word_space_7 | runway pioneer notice salt duty seed soup |  
 | bip_39_word_space_8 | runway pioneer notice salt duty seed soup toast |  
 | bip_39_word_space_9 | runway pioneer notice salt duty seed soup toast danger |  
+| bip_39_word_underscore_1 | runway |  
+| bip_39_word_underscore_10 | runway_pioneer_notice_salt_duty_seed_soup_toast_danger_monkey |  
+| bip_39_word_underscore_11 | runway_pioneer_notice_salt_duty_seed_soup_toast_danger_monkey_since |  
+| bip_39_word_underscore_12 | runway_pioneer_notice_salt_duty_seed_soup_toast_danger_monkey_since_across |  
+| bip_39_word_underscore_2 | runway_pioneer |  
+| bip_39_word_underscore_3 | runway_pioneer_notice |  
+| bip_39_word_underscore_4 | runway_pioneer_notice_salt |  
+| bip_39_word_underscore_5 | runway_pioneer_notice_salt_duty |  
+| bip_39_word_underscore_6 | runway_pioneer_notice_salt_duty_seed |  
+| bip_39_word_underscore_7 | runway_pioneer_notice_salt_duty_seed_soup |  
+| bip_39_word_underscore_8 | runway_pioneer_notice_salt_duty_seed_soup_toast |  
+| bip_39_word_underscore_9 | runway_pioneer_notice_salt_duty_seed_soup_toast_danger |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

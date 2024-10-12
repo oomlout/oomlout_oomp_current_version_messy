@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | film |  
+| bip_39_word_dash_10 | film-shed-pear-address-cigar-result-burger-major-web-civil |  
+| bip_39_word_dash_11 | film-shed-pear-address-cigar-result-burger-major-web-civil-holiday |  
+| bip_39_word_dash_12 | film-shed-pear-address-cigar-result-burger-major-web-civil-holiday-arctic |  
+| bip_39_word_dash_2 | film-shed |  
+| bip_39_word_dash_3 | film-shed-pear |  
+| bip_39_word_dash_4 | film-shed-pear-address |  
+| bip_39_word_dash_5 | film-shed-pear-address-cigar |  
+| bip_39_word_dash_6 | film-shed-pear-address-cigar-result |  
+| bip_39_word_dash_7 | film-shed-pear-address-cigar-result-burger |  
+| bip_39_word_dash_8 | film-shed-pear-address-cigar-result-burger-major |  
+| bip_39_word_dash_9 | film-shed-pear-address-cigar-result-burger-major-web |  
 | bip_39_word_new_br_1 | film |  
 | bip_39_word_new_br_10 | film<br>shed<br>pear<br>address<br>cigar<br>result<br>burger<br>major<br>web<br>civil |  
 | bip_39_word_new_br_11 | film<br>shed<br>pear<br>address<br>cigar<br>result<br>burger<br>major<br>web<br>civil<br>holiday |  
@@ -147,6 +159,18 @@ web |
 | bip_39_word_space_7 | film shed pear address cigar result burger |  
 | bip_39_word_space_8 | film shed pear address cigar result burger major |  
 | bip_39_word_space_9 | film shed pear address cigar result burger major web |  
+| bip_39_word_underscore_1 | film |  
+| bip_39_word_underscore_10 | film_shed_pear_address_cigar_result_burger_major_web_civil |  
+| bip_39_word_underscore_11 | film_shed_pear_address_cigar_result_burger_major_web_civil_holiday |  
+| bip_39_word_underscore_12 | film_shed_pear_address_cigar_result_burger_major_web_civil_holiday_arctic |  
+| bip_39_word_underscore_2 | film_shed |  
+| bip_39_word_underscore_3 | film_shed_pear |  
+| bip_39_word_underscore_4 | film_shed_pear_address |  
+| bip_39_word_underscore_5 | film_shed_pear_address_cigar |  
+| bip_39_word_underscore_6 | film_shed_pear_address_cigar_result |  
+| bip_39_word_underscore_7 | film_shed_pear_address_cigar_result_burger |  
+| bip_39_word_underscore_8 | film_shed_pear_address_cigar_result_burger_major |  
+| bip_39_word_underscore_9 | film_shed_pear_address_cigar_result_burger_major_web |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

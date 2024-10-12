@@ -1,3 +1,15 @@
+bip_39_word_dash_1: theme
+bip_39_word_dash_10: theme-home-enter-guide-admit-resource-side-roof-delay-parent
+bip_39_word_dash_11: theme-home-enter-guide-admit-resource-side-roof-delay-parent-pigeon
+bip_39_word_dash_12: theme-home-enter-guide-admit-resource-side-roof-delay-parent-pigeon-accident
+bip_39_word_dash_2: theme-home
+bip_39_word_dash_3: theme-home-enter
+bip_39_word_dash_4: theme-home-enter-guide
+bip_39_word_dash_5: theme-home-enter-guide-admit
+bip_39_word_dash_6: theme-home-enter-guide-admit-resource
+bip_39_word_dash_7: theme-home-enter-guide-admit-resource-side
+bip_39_word_dash_8: theme-home-enter-guide-admit-resource-side-roof
+bip_39_word_dash_9: theme-home-enter-guide-admit-resource-side-roof-delay
 bip_39_word_new_br_1: theme
 bip_39_word_new_br_10: theme<br>home<br>enter<br>guide<br>admit<br>resource<br>side<br>roof<br>delay<br>parent
 bip_39_word_new_br_11: theme<br>home<br>enter<br>guide<br>admit<br>resource<br>side<br>roof<br>delay<br>parent<br>pigeon
@@ -193,6 +205,18 @@ bip_39_word_space_6: theme home enter guide admit resource
 bip_39_word_space_7: theme home enter guide admit resource side
 bip_39_word_space_8: theme home enter guide admit resource side roof
 bip_39_word_space_9: theme home enter guide admit resource side roof delay
+bip_39_word_underscore_1: theme
+bip_39_word_underscore_10: theme_home_enter_guide_admit_resource_side_roof_delay_parent
+bip_39_word_underscore_11: theme_home_enter_guide_admit_resource_side_roof_delay_parent_pigeon
+bip_39_word_underscore_12: theme_home_enter_guide_admit_resource_side_roof_delay_parent_pigeon_accident
+bip_39_word_underscore_2: theme_home
+bip_39_word_underscore_3: theme_home_enter
+bip_39_word_underscore_4: theme_home_enter_guide
+bip_39_word_underscore_5: theme_home_enter_guide_admit
+bip_39_word_underscore_6: theme_home_enter_guide_admit_resource
+bip_39_word_underscore_7: theme_home_enter_guide_admit_resource_side
+bip_39_word_underscore_8: theme_home_enter_guide_admit_resource_side_roof
+bip_39_word_underscore_9: theme_home_enter_guide_admit_resource_side_roof_delay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soccer |  
+| bip_39_word_dash_10 | soccer-team-pretty-trouble-embody-swamp-immune-silent-satisfy-coyote |  
+| bip_39_word_dash_11 | soccer-team-pretty-trouble-embody-swamp-immune-silent-satisfy-coyote-tent |  
+| bip_39_word_dash_12 | soccer-team-pretty-trouble-embody-swamp-immune-silent-satisfy-coyote-tent-arrange |  
+| bip_39_word_dash_2 | soccer-team |  
+| bip_39_word_dash_3 | soccer-team-pretty |  
+| bip_39_word_dash_4 | soccer-team-pretty-trouble |  
+| bip_39_word_dash_5 | soccer-team-pretty-trouble-embody |  
+| bip_39_word_dash_6 | soccer-team-pretty-trouble-embody-swamp |  
+| bip_39_word_dash_7 | soccer-team-pretty-trouble-embody-swamp-immune |  
+| bip_39_word_dash_8 | soccer-team-pretty-trouble-embody-swamp-immune-silent |  
+| bip_39_word_dash_9 | soccer-team-pretty-trouble-embody-swamp-immune-silent-satisfy |  
 | bip_39_word_new_br_1 | soccer |  
 | bip_39_word_new_br_10 | soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote |  
 | bip_39_word_new_br_11 | soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote<br>tent |  
@@ -147,6 +159,18 @@ satisfy |
 | bip_39_word_space_7 | soccer team pretty trouble embody swamp immune |  
 | bip_39_word_space_8 | soccer team pretty trouble embody swamp immune silent |  
 | bip_39_word_space_9 | soccer team pretty trouble embody swamp immune silent satisfy |  
+| bip_39_word_underscore_1 | soccer |  
+| bip_39_word_underscore_10 | soccer_team_pretty_trouble_embody_swamp_immune_silent_satisfy_coyote |  
+| bip_39_word_underscore_11 | soccer_team_pretty_trouble_embody_swamp_immune_silent_satisfy_coyote_tent |  
+| bip_39_word_underscore_12 | soccer_team_pretty_trouble_embody_swamp_immune_silent_satisfy_coyote_tent_arrange |  
+| bip_39_word_underscore_2 | soccer_team |  
+| bip_39_word_underscore_3 | soccer_team_pretty |  
+| bip_39_word_underscore_4 | soccer_team_pretty_trouble |  
+| bip_39_word_underscore_5 | soccer_team_pretty_trouble_embody |  
+| bip_39_word_underscore_6 | soccer_team_pretty_trouble_embody_swamp |  
+| bip_39_word_underscore_7 | soccer_team_pretty_trouble_embody_swamp_immune |  
+| bip_39_word_underscore_8 | soccer_team_pretty_trouble_embody_swamp_immune_silent |  
+| bip_39_word_underscore_9 | soccer_team_pretty_trouble_embody_swamp_immune_silent_satisfy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

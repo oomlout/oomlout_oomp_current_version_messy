@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swarm |  
+| bip_39_word_dash_10 | swarm-tenant-turtle-major-february-wink-coral-margin-blouse-thing |  
+| bip_39_word_dash_11 | swarm-tenant-turtle-major-february-wink-coral-margin-blouse-thing-scene |  
+| bip_39_word_dash_12 | swarm-tenant-turtle-major-february-wink-coral-margin-blouse-thing-scene-alley |  
+| bip_39_word_dash_2 | swarm-tenant |  
+| bip_39_word_dash_3 | swarm-tenant-turtle |  
+| bip_39_word_dash_4 | swarm-tenant-turtle-major |  
+| bip_39_word_dash_5 | swarm-tenant-turtle-major-february |  
+| bip_39_word_dash_6 | swarm-tenant-turtle-major-february-wink |  
+| bip_39_word_dash_7 | swarm-tenant-turtle-major-february-wink-coral |  
+| bip_39_word_dash_8 | swarm-tenant-turtle-major-february-wink-coral-margin |  
+| bip_39_word_dash_9 | swarm-tenant-turtle-major-february-wink-coral-margin-blouse |  
 | bip_39_word_new_br_1 | swarm |  
 | bip_39_word_new_br_10 | swarm<br>tenant<br>turtle<br>major<br>february<br>wink<br>coral<br>margin<br>blouse<br>thing |  
 | bip_39_word_new_br_11 | swarm<br>tenant<br>turtle<br>major<br>february<br>wink<br>coral<br>margin<br>blouse<br>thing<br>scene |  
@@ -147,6 +159,18 @@ blouse |
 | bip_39_word_space_7 | swarm tenant turtle major february wink coral |  
 | bip_39_word_space_8 | swarm tenant turtle major february wink coral margin |  
 | bip_39_word_space_9 | swarm tenant turtle major february wink coral margin blouse |  
+| bip_39_word_underscore_1 | swarm |  
+| bip_39_word_underscore_10 | swarm_tenant_turtle_major_february_wink_coral_margin_blouse_thing |  
+| bip_39_word_underscore_11 | swarm_tenant_turtle_major_february_wink_coral_margin_blouse_thing_scene |  
+| bip_39_word_underscore_12 | swarm_tenant_turtle_major_february_wink_coral_margin_blouse_thing_scene_alley |  
+| bip_39_word_underscore_2 | swarm_tenant |  
+| bip_39_word_underscore_3 | swarm_tenant_turtle |  
+| bip_39_word_underscore_4 | swarm_tenant_turtle_major |  
+| bip_39_word_underscore_5 | swarm_tenant_turtle_major_february |  
+| bip_39_word_underscore_6 | swarm_tenant_turtle_major_february_wink |  
+| bip_39_word_underscore_7 | swarm_tenant_turtle_major_february_wink_coral |  
+| bip_39_word_underscore_8 | swarm_tenant_turtle_major_february_wink_coral_margin |  
+| bip_39_word_underscore_9 | swarm_tenant_turtle_major_february_wink_coral_margin_blouse |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

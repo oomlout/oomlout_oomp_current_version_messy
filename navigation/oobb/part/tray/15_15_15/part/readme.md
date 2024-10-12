@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nice |  
+| bip_39_word_dash_10 | nice-lake-over-unlock-replace-square-such-armed-carpet-merry |  
+| bip_39_word_dash_11 | nice-lake-over-unlock-replace-square-such-armed-carpet-merry-wink |  
+| bip_39_word_dash_12 | nice-lake-over-unlock-replace-square-such-armed-carpet-merry-wink-arch |  
+| bip_39_word_dash_2 | nice-lake |  
+| bip_39_word_dash_3 | nice-lake-over |  
+| bip_39_word_dash_4 | nice-lake-over-unlock |  
+| bip_39_word_dash_5 | nice-lake-over-unlock-replace |  
+| bip_39_word_dash_6 | nice-lake-over-unlock-replace-square |  
+| bip_39_word_dash_7 | nice-lake-over-unlock-replace-square-such |  
+| bip_39_word_dash_8 | nice-lake-over-unlock-replace-square-such-armed |  
+| bip_39_word_dash_9 | nice-lake-over-unlock-replace-square-such-armed-carpet |  
 | bip_39_word_new_br_1 | nice |  
 | bip_39_word_new_br_10 | nice<br>lake<br>over<br>unlock<br>replace<br>square<br>such<br>armed<br>carpet<br>merry |  
 | bip_39_word_new_br_11 | nice<br>lake<br>over<br>unlock<br>replace<br>square<br>such<br>armed<br>carpet<br>merry<br>wink |  
@@ -147,6 +159,18 @@ carpet |
 | bip_39_word_space_7 | nice lake over unlock replace square such |  
 | bip_39_word_space_8 | nice lake over unlock replace square such armed |  
 | bip_39_word_space_9 | nice lake over unlock replace square such armed carpet |  
+| bip_39_word_underscore_1 | nice |  
+| bip_39_word_underscore_10 | nice_lake_over_unlock_replace_square_such_armed_carpet_merry |  
+| bip_39_word_underscore_11 | nice_lake_over_unlock_replace_square_such_armed_carpet_merry_wink |  
+| bip_39_word_underscore_12 | nice_lake_over_unlock_replace_square_such_armed_carpet_merry_wink_arch |  
+| bip_39_word_underscore_2 | nice_lake |  
+| bip_39_word_underscore_3 | nice_lake_over |  
+| bip_39_word_underscore_4 | nice_lake_over_unlock |  
+| bip_39_word_underscore_5 | nice_lake_over_unlock_replace |  
+| bip_39_word_underscore_6 | nice_lake_over_unlock_replace_square |  
+| bip_39_word_underscore_7 | nice_lake_over_unlock_replace_square_such |  
+| bip_39_word_underscore_8 | nice_lake_over_unlock_replace_square_such_armed |  
+| bip_39_word_underscore_9 | nice_lake_over_unlock_replace_square_such_armed_carpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

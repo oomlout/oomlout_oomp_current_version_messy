@@ -1,3 +1,15 @@
+bip_39_word_dash_1: three
+bip_39_word_dash_10: three-predict-kite-ability-sweet-creek-index-rabbit-cause-drink
+bip_39_word_dash_11: three-predict-kite-ability-sweet-creek-index-rabbit-cause-drink-bachelor
+bip_39_word_dash_12: three-predict-kite-ability-sweet-creek-index-rabbit-cause-drink-bachelor-answer
+bip_39_word_dash_2: three-predict
+bip_39_word_dash_3: three-predict-kite
+bip_39_word_dash_4: three-predict-kite-ability
+bip_39_word_dash_5: three-predict-kite-ability-sweet
+bip_39_word_dash_6: three-predict-kite-ability-sweet-creek
+bip_39_word_dash_7: three-predict-kite-ability-sweet-creek-index
+bip_39_word_dash_8: three-predict-kite-ability-sweet-creek-index-rabbit
+bip_39_word_dash_9: three-predict-kite-ability-sweet-creek-index-rabbit-cause
 bip_39_word_new_br_1: three
 bip_39_word_new_br_10: three<br>predict<br>kite<br>ability<br>sweet<br>creek<br>index<br>rabbit<br>cause<br>drink
 bip_39_word_new_br_11: three<br>predict<br>kite<br>ability<br>sweet<br>creek<br>index<br>rabbit<br>cause<br>drink<br>bachelor
@@ -193,6 +205,18 @@ bip_39_word_space_6: three predict kite ability sweet creek
 bip_39_word_space_7: three predict kite ability sweet creek index
 bip_39_word_space_8: three predict kite ability sweet creek index rabbit
 bip_39_word_space_9: three predict kite ability sweet creek index rabbit cause
+bip_39_word_underscore_1: three
+bip_39_word_underscore_10: three_predict_kite_ability_sweet_creek_index_rabbit_cause_drink
+bip_39_word_underscore_11: three_predict_kite_ability_sweet_creek_index_rabbit_cause_drink_bachelor
+bip_39_word_underscore_12: three_predict_kite_ability_sweet_creek_index_rabbit_cause_drink_bachelor_answer
+bip_39_word_underscore_2: three_predict
+bip_39_word_underscore_3: three_predict_kite
+bip_39_word_underscore_4: three_predict_kite_ability
+bip_39_word_underscore_5: three_predict_kite_ability_sweet
+bip_39_word_underscore_6: three_predict_kite_ability_sweet_creek
+bip_39_word_underscore_7: three_predict_kite_ability_sweet_creek_index
+bip_39_word_underscore_8: three_predict_kite_ability_sweet_creek_index_rabbit
+bip_39_word_underscore_9: three_predict_kite_ability_sweet_creek_index_rabbit_cause
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | draw |  
+| bip_39_word_dash_10 | draw-multiply-sadness-section-situate-insect-prison-sport-web-doll |  
+| bip_39_word_dash_11 | draw-multiply-sadness-section-situate-insect-prison-sport-web-doll-tip |  
+| bip_39_word_dash_12 | draw-multiply-sadness-section-situate-insect-prison-sport-web-doll-tip-antique |  
+| bip_39_word_dash_2 | draw-multiply |  
+| bip_39_word_dash_3 | draw-multiply-sadness |  
+| bip_39_word_dash_4 | draw-multiply-sadness-section |  
+| bip_39_word_dash_5 | draw-multiply-sadness-section-situate |  
+| bip_39_word_dash_6 | draw-multiply-sadness-section-situate-insect |  
+| bip_39_word_dash_7 | draw-multiply-sadness-section-situate-insect-prison |  
+| bip_39_word_dash_8 | draw-multiply-sadness-section-situate-insect-prison-sport |  
+| bip_39_word_dash_9 | draw-multiply-sadness-section-situate-insect-prison-sport-web |  
 | bip_39_word_new_br_1 | draw |  
 | bip_39_word_new_br_10 | draw<br>multiply<br>sadness<br>section<br>situate<br>insect<br>prison<br>sport<br>web<br>doll |  
 | bip_39_word_new_br_11 | draw<br>multiply<br>sadness<br>section<br>situate<br>insect<br>prison<br>sport<br>web<br>doll<br>tip |  
@@ -147,6 +159,18 @@ web |
 | bip_39_word_space_7 | draw multiply sadness section situate insect prison |  
 | bip_39_word_space_8 | draw multiply sadness section situate insect prison sport |  
 | bip_39_word_space_9 | draw multiply sadness section situate insect prison sport web |  
+| bip_39_word_underscore_1 | draw |  
+| bip_39_word_underscore_10 | draw_multiply_sadness_section_situate_insect_prison_sport_web_doll |  
+| bip_39_word_underscore_11 | draw_multiply_sadness_section_situate_insect_prison_sport_web_doll_tip |  
+| bip_39_word_underscore_12 | draw_multiply_sadness_section_situate_insect_prison_sport_web_doll_tip_antique |  
+| bip_39_word_underscore_2 | draw_multiply |  
+| bip_39_word_underscore_3 | draw_multiply_sadness |  
+| bip_39_word_underscore_4 | draw_multiply_sadness_section |  
+| bip_39_word_underscore_5 | draw_multiply_sadness_section_situate |  
+| bip_39_word_underscore_6 | draw_multiply_sadness_section_situate_insect |  
+| bip_39_word_underscore_7 | draw_multiply_sadness_section_situate_insect_prison |  
+| bip_39_word_underscore_8 | draw_multiply_sadness_section_situate_insect_prison_sport |  
+| bip_39_word_underscore_9 | draw_multiply_sadness_section_situate_insect_prison_sport_web |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

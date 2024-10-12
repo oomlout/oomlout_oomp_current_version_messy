@@ -1,3 +1,15 @@
+bip_39_word_dash_1: first
+bip_39_word_dash_10: first-season-ancient-muscle-marriage-zone-one-glance-use-grief
+bip_39_word_dash_11: first-season-ancient-muscle-marriage-zone-one-glance-use-grief-organ
+bip_39_word_dash_12: first-season-ancient-muscle-marriage-zone-one-glance-use-grief-organ-arrange
+bip_39_word_dash_2: first-season
+bip_39_word_dash_3: first-season-ancient
+bip_39_word_dash_4: first-season-ancient-muscle
+bip_39_word_dash_5: first-season-ancient-muscle-marriage
+bip_39_word_dash_6: first-season-ancient-muscle-marriage-zone
+bip_39_word_dash_7: first-season-ancient-muscle-marriage-zone-one
+bip_39_word_dash_8: first-season-ancient-muscle-marriage-zone-one-glance
+bip_39_word_dash_9: first-season-ancient-muscle-marriage-zone-one-glance-use
 bip_39_word_new_br_1: first
 bip_39_word_new_br_10: first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief
 bip_39_word_new_br_11: first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief<br>organ
@@ -193,6 +205,18 @@ bip_39_word_space_6: first season ancient muscle marriage zone
 bip_39_word_space_7: first season ancient muscle marriage zone one
 bip_39_word_space_8: first season ancient muscle marriage zone one glance
 bip_39_word_space_9: first season ancient muscle marriage zone one glance use
+bip_39_word_underscore_1: first
+bip_39_word_underscore_10: first_season_ancient_muscle_marriage_zone_one_glance_use_grief
+bip_39_word_underscore_11: first_season_ancient_muscle_marriage_zone_one_glance_use_grief_organ
+bip_39_word_underscore_12: first_season_ancient_muscle_marriage_zone_one_glance_use_grief_organ_arrange
+bip_39_word_underscore_2: first_season
+bip_39_word_underscore_3: first_season_ancient
+bip_39_word_underscore_4: first_season_ancient_muscle
+bip_39_word_underscore_5: first_season_ancient_muscle_marriage
+bip_39_word_underscore_6: first_season_ancient_muscle_marriage_zone
+bip_39_word_underscore_7: first_season_ancient_muscle_marriage_zone_one
+bip_39_word_underscore_8: first_season_ancient_muscle_marriage_zone_one_glance
+bip_39_word_underscore_9: first_season_ancient_muscle_marriage_zone_one_glance_use
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

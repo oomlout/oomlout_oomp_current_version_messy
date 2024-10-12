@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rhythm |  
+| bip_39_word_dash_10 | rhythm-convince-element-thumb-run-box-art-column-uncover-already |  
+| bip_39_word_dash_11 | rhythm-convince-element-thumb-run-box-art-column-uncover-already-verify |  
+| bip_39_word_dash_12 | rhythm-convince-element-thumb-run-box-art-column-uncover-already-verify-analyst |  
+| bip_39_word_dash_2 | rhythm-convince |  
+| bip_39_word_dash_3 | rhythm-convince-element |  
+| bip_39_word_dash_4 | rhythm-convince-element-thumb |  
+| bip_39_word_dash_5 | rhythm-convince-element-thumb-run |  
+| bip_39_word_dash_6 | rhythm-convince-element-thumb-run-box |  
+| bip_39_word_dash_7 | rhythm-convince-element-thumb-run-box-art |  
+| bip_39_word_dash_8 | rhythm-convince-element-thumb-run-box-art-column |  
+| bip_39_word_dash_9 | rhythm-convince-element-thumb-run-box-art-column-uncover |  
 | bip_39_word_new_br_1 | rhythm |  
 | bip_39_word_new_br_10 | rhythm<br>convince<br>element<br>thumb<br>run<br>box<br>art<br>column<br>uncover<br>already |  
 | bip_39_word_new_br_11 | rhythm<br>convince<br>element<br>thumb<br>run<br>box<br>art<br>column<br>uncover<br>already<br>verify |  
@@ -147,6 +159,18 @@ uncover |
 | bip_39_word_space_7 | rhythm convince element thumb run box art |  
 | bip_39_word_space_8 | rhythm convince element thumb run box art column |  
 | bip_39_word_space_9 | rhythm convince element thumb run box art column uncover |  
+| bip_39_word_underscore_1 | rhythm |  
+| bip_39_word_underscore_10 | rhythm_convince_element_thumb_run_box_art_column_uncover_already |  
+| bip_39_word_underscore_11 | rhythm_convince_element_thumb_run_box_art_column_uncover_already_verify |  
+| bip_39_word_underscore_12 | rhythm_convince_element_thumb_run_box_art_column_uncover_already_verify_analyst |  
+| bip_39_word_underscore_2 | rhythm_convince |  
+| bip_39_word_underscore_3 | rhythm_convince_element |  
+| bip_39_word_underscore_4 | rhythm_convince_element_thumb |  
+| bip_39_word_underscore_5 | rhythm_convince_element_thumb_run |  
+| bip_39_word_underscore_6 | rhythm_convince_element_thumb_run_box |  
+| bip_39_word_underscore_7 | rhythm_convince_element_thumb_run_box_art |  
+| bip_39_word_underscore_8 | rhythm_convince_element_thumb_run_box_art_column |  
+| bip_39_word_underscore_9 | rhythm_convince_element_thumb_run_box_art_column_uncover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

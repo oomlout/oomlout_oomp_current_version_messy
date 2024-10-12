@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stable
+bip_39_word_dash_10: stable-orbit-acid-frequent-volume-holiday-denial-impose-purse-brave
+bip_39_word_dash_11: stable-orbit-acid-frequent-volume-holiday-denial-impose-purse-brave-wrist
+bip_39_word_dash_12: stable-orbit-acid-frequent-volume-holiday-denial-impose-purse-brave-wrist-auto
+bip_39_word_dash_2: stable-orbit
+bip_39_word_dash_3: stable-orbit-acid
+bip_39_word_dash_4: stable-orbit-acid-frequent
+bip_39_word_dash_5: stable-orbit-acid-frequent-volume
+bip_39_word_dash_6: stable-orbit-acid-frequent-volume-holiday
+bip_39_word_dash_7: stable-orbit-acid-frequent-volume-holiday-denial
+bip_39_word_dash_8: stable-orbit-acid-frequent-volume-holiday-denial-impose
+bip_39_word_dash_9: stable-orbit-acid-frequent-volume-holiday-denial-impose-purse
 bip_39_word_new_br_1: stable
 bip_39_word_new_br_10: stable<br>orbit<br>acid<br>frequent<br>volume<br>holiday<br>denial<br>impose<br>purse<br>brave
 bip_39_word_new_br_11: stable<br>orbit<br>acid<br>frequent<br>volume<br>holiday<br>denial<br>impose<br>purse<br>brave<br>wrist
@@ -194,6 +206,18 @@ bip_39_word_space_6: stable orbit acid frequent volume holiday
 bip_39_word_space_7: stable orbit acid frequent volume holiday denial
 bip_39_word_space_8: stable orbit acid frequent volume holiday denial impose
 bip_39_word_space_9: stable orbit acid frequent volume holiday denial impose purse
+bip_39_word_underscore_1: stable
+bip_39_word_underscore_10: stable_orbit_acid_frequent_volume_holiday_denial_impose_purse_brave
+bip_39_word_underscore_11: stable_orbit_acid_frequent_volume_holiday_denial_impose_purse_brave_wrist
+bip_39_word_underscore_12: stable_orbit_acid_frequent_volume_holiday_denial_impose_purse_brave_wrist_auto
+bip_39_word_underscore_2: stable_orbit
+bip_39_word_underscore_3: stable_orbit_acid
+bip_39_word_underscore_4: stable_orbit_acid_frequent
+bip_39_word_underscore_5: stable_orbit_acid_frequent_volume
+bip_39_word_underscore_6: stable_orbit_acid_frequent_volume_holiday
+bip_39_word_underscore_7: stable_orbit_acid_frequent_volume_holiday_denial
+bip_39_word_underscore_8: stable_orbit_acid_frequent_volume_holiday_denial_impose
+bip_39_word_underscore_9: stable_orbit_acid_frequent_volume_holiday_denial_impose_purse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

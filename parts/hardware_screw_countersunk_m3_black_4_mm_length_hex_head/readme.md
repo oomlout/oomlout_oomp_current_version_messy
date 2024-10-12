@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leisure |  
+| bip_39_word_dash_10 | leisure-require-tackle-betray-diagram-fork-neutral-vacuum-retire-crunch |  
+| bip_39_word_dash_11 | leisure-require-tackle-betray-diagram-fork-neutral-vacuum-retire-crunch-soccer |  
+| bip_39_word_dash_12 | leisure-require-tackle-betray-diagram-fork-neutral-vacuum-retire-crunch-soccer-across |  
+| bip_39_word_dash_2 | leisure-require |  
+| bip_39_word_dash_3 | leisure-require-tackle |  
+| bip_39_word_dash_4 | leisure-require-tackle-betray |  
+| bip_39_word_dash_5 | leisure-require-tackle-betray-diagram |  
+| bip_39_word_dash_6 | leisure-require-tackle-betray-diagram-fork |  
+| bip_39_word_dash_7 | leisure-require-tackle-betray-diagram-fork-neutral |  
+| bip_39_word_dash_8 | leisure-require-tackle-betray-diagram-fork-neutral-vacuum |  
+| bip_39_word_dash_9 | leisure-require-tackle-betray-diagram-fork-neutral-vacuum-retire |  
 | bip_39_word_new_br_1 | leisure |  
 | bip_39_word_new_br_10 | leisure<br>require<br>tackle<br>betray<br>diagram<br>fork<br>neutral<br>vacuum<br>retire<br>crunch |  
 | bip_39_word_new_br_11 | leisure<br>require<br>tackle<br>betray<br>diagram<br>fork<br>neutral<br>vacuum<br>retire<br>crunch<br>soccer |  
@@ -147,6 +159,18 @@ retire |
 | bip_39_word_space_7 | leisure require tackle betray diagram fork neutral |  
 | bip_39_word_space_8 | leisure require tackle betray diagram fork neutral vacuum |  
 | bip_39_word_space_9 | leisure require tackle betray diagram fork neutral vacuum retire |  
+| bip_39_word_underscore_1 | leisure |  
+| bip_39_word_underscore_10 | leisure_require_tackle_betray_diagram_fork_neutral_vacuum_retire_crunch |  
+| bip_39_word_underscore_11 | leisure_require_tackle_betray_diagram_fork_neutral_vacuum_retire_crunch_soccer |  
+| bip_39_word_underscore_12 | leisure_require_tackle_betray_diagram_fork_neutral_vacuum_retire_crunch_soccer_across |  
+| bip_39_word_underscore_2 | leisure_require |  
+| bip_39_word_underscore_3 | leisure_require_tackle |  
+| bip_39_word_underscore_4 | leisure_require_tackle_betray |  
+| bip_39_word_underscore_5 | leisure_require_tackle_betray_diagram |  
+| bip_39_word_underscore_6 | leisure_require_tackle_betray_diagram_fork |  
+| bip_39_word_underscore_7 | leisure_require_tackle_betray_diagram_fork_neutral |  
+| bip_39_word_underscore_8 | leisure_require_tackle_betray_diagram_fork_neutral_vacuum |  
+| bip_39_word_underscore_9 | leisure_require_tackle_betray_diagram_fork_neutral_vacuum_retire |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spread |  
+| bip_39_word_dash_10 | spread-rug-devote-orange-screen-else-orphan-sauce-rain-century |  
+| bip_39_word_dash_11 | spread-rug-devote-orange-screen-else-orphan-sauce-rain-century-fossil |  
+| bip_39_word_dash_12 | spread-rug-devote-orange-screen-else-orphan-sauce-rain-century-fossil-alien |  
+| bip_39_word_dash_2 | spread-rug |  
+| bip_39_word_dash_3 | spread-rug-devote |  
+| bip_39_word_dash_4 | spread-rug-devote-orange |  
+| bip_39_word_dash_5 | spread-rug-devote-orange-screen |  
+| bip_39_word_dash_6 | spread-rug-devote-orange-screen-else |  
+| bip_39_word_dash_7 | spread-rug-devote-orange-screen-else-orphan |  
+| bip_39_word_dash_8 | spread-rug-devote-orange-screen-else-orphan-sauce |  
+| bip_39_word_dash_9 | spread-rug-devote-orange-screen-else-orphan-sauce-rain |  
 | bip_39_word_new_br_1 | spread |  
 | bip_39_word_new_br_10 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century |  
 | bip_39_word_new_br_11 | spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century<br>fossil |  
@@ -147,6 +159,18 @@ rain |
 | bip_39_word_space_7 | spread rug devote orange screen else orphan |  
 | bip_39_word_space_8 | spread rug devote orange screen else orphan sauce |  
 | bip_39_word_space_9 | spread rug devote orange screen else orphan sauce rain |  
+| bip_39_word_underscore_1 | spread |  
+| bip_39_word_underscore_10 | spread_rug_devote_orange_screen_else_orphan_sauce_rain_century |  
+| bip_39_word_underscore_11 | spread_rug_devote_orange_screen_else_orphan_sauce_rain_century_fossil |  
+| bip_39_word_underscore_12 | spread_rug_devote_orange_screen_else_orphan_sauce_rain_century_fossil_alien |  
+| bip_39_word_underscore_2 | spread_rug |  
+| bip_39_word_underscore_3 | spread_rug_devote |  
+| bip_39_word_underscore_4 | spread_rug_devote_orange |  
+| bip_39_word_underscore_5 | spread_rug_devote_orange_screen |  
+| bip_39_word_underscore_6 | spread_rug_devote_orange_screen_else |  
+| bip_39_word_underscore_7 | spread_rug_devote_orange_screen_else_orphan |  
+| bip_39_word_underscore_8 | spread_rug_devote_orange_screen_else_orphan_sauce |  
+| bip_39_word_underscore_9 | spread_rug_devote_orange_screen_else_orphan_sauce_rain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

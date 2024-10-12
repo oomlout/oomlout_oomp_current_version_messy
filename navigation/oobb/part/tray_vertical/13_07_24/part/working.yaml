@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ride
+bip_39_word_dash_10: ride-bright-axis-door-venture-cereal-vintage-switch-viable-onion
+bip_39_word_dash_11: ride-bright-axis-door-venture-cereal-vintage-switch-viable-onion-torch
+bip_39_word_dash_12: ride-bright-axis-door-venture-cereal-vintage-switch-viable-onion-torch-assist
+bip_39_word_dash_2: ride-bright
+bip_39_word_dash_3: ride-bright-axis
+bip_39_word_dash_4: ride-bright-axis-door
+bip_39_word_dash_5: ride-bright-axis-door-venture
+bip_39_word_dash_6: ride-bright-axis-door-venture-cereal
+bip_39_word_dash_7: ride-bright-axis-door-venture-cereal-vintage
+bip_39_word_dash_8: ride-bright-axis-door-venture-cereal-vintage-switch
+bip_39_word_dash_9: ride-bright-axis-door-venture-cereal-vintage-switch-viable
 bip_39_word_new_br_1: ride
 bip_39_word_new_br_10: ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch<br>viable<br>onion
 bip_39_word_new_br_11: ride<br>bright<br>axis<br>door<br>venture<br>cereal<br>vintage<br>switch<br>viable<br>onion<br>torch
@@ -193,6 +205,18 @@ bip_39_word_space_6: ride bright axis door venture cereal
 bip_39_word_space_7: ride bright axis door venture cereal vintage
 bip_39_word_space_8: ride bright axis door venture cereal vintage switch
 bip_39_word_space_9: ride bright axis door venture cereal vintage switch viable
+bip_39_word_underscore_1: ride
+bip_39_word_underscore_10: ride_bright_axis_door_venture_cereal_vintage_switch_viable_onion
+bip_39_word_underscore_11: ride_bright_axis_door_venture_cereal_vintage_switch_viable_onion_torch
+bip_39_word_underscore_12: ride_bright_axis_door_venture_cereal_vintage_switch_viable_onion_torch_assist
+bip_39_word_underscore_2: ride_bright
+bip_39_word_underscore_3: ride_bright_axis
+bip_39_word_underscore_4: ride_bright_axis_door
+bip_39_word_underscore_5: ride_bright_axis_door_venture
+bip_39_word_underscore_6: ride_bright_axis_door_venture_cereal
+bip_39_word_underscore_7: ride_bright_axis_door_venture_cereal_vintage
+bip_39_word_underscore_8: ride_bright_axis_door_venture_cereal_vintage_switch
+bip_39_word_underscore_9: ride_bright_axis_door_venture_cereal_vintage_switch_viable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

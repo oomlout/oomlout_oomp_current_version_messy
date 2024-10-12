@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mention |  
+| bip_39_word_dash_10 | mention-dumb-shadow-chase-dumb-trial-resemble-meat-soft-adult |  
+| bip_39_word_dash_11 | mention-dumb-shadow-chase-dumb-trial-resemble-meat-soft-adult-oppose |  
+| bip_39_word_dash_12 | mention-dumb-shadow-chase-dumb-trial-resemble-meat-soft-adult-oppose-across |  
+| bip_39_word_dash_2 | mention-dumb |  
+| bip_39_word_dash_3 | mention-dumb-shadow |  
+| bip_39_word_dash_4 | mention-dumb-shadow-chase |  
+| bip_39_word_dash_5 | mention-dumb-shadow-chase-dumb |  
+| bip_39_word_dash_6 | mention-dumb-shadow-chase-dumb-trial |  
+| bip_39_word_dash_7 | mention-dumb-shadow-chase-dumb-trial-resemble |  
+| bip_39_word_dash_8 | mention-dumb-shadow-chase-dumb-trial-resemble-meat |  
+| bip_39_word_dash_9 | mention-dumb-shadow-chase-dumb-trial-resemble-meat-soft |  
 | bip_39_word_new_br_1 | mention |  
 | bip_39_word_new_br_10 | mention<br>dumb<br>shadow<br>chase<br>dumb<br>trial<br>resemble<br>meat<br>soft<br>adult |  
 | bip_39_word_new_br_11 | mention<br>dumb<br>shadow<br>chase<br>dumb<br>trial<br>resemble<br>meat<br>soft<br>adult<br>oppose |  
@@ -147,6 +159,18 @@ soft |
 | bip_39_word_space_7 | mention dumb shadow chase dumb trial resemble |  
 | bip_39_word_space_8 | mention dumb shadow chase dumb trial resemble meat |  
 | bip_39_word_space_9 | mention dumb shadow chase dumb trial resemble meat soft |  
+| bip_39_word_underscore_1 | mention |  
+| bip_39_word_underscore_10 | mention_dumb_shadow_chase_dumb_trial_resemble_meat_soft_adult |  
+| bip_39_word_underscore_11 | mention_dumb_shadow_chase_dumb_trial_resemble_meat_soft_adult_oppose |  
+| bip_39_word_underscore_12 | mention_dumb_shadow_chase_dumb_trial_resemble_meat_soft_adult_oppose_across |  
+| bip_39_word_underscore_2 | mention_dumb |  
+| bip_39_word_underscore_3 | mention_dumb_shadow |  
+| bip_39_word_underscore_4 | mention_dumb_shadow_chase |  
+| bip_39_word_underscore_5 | mention_dumb_shadow_chase_dumb |  
+| bip_39_word_underscore_6 | mention_dumb_shadow_chase_dumb_trial |  
+| bip_39_word_underscore_7 | mention_dumb_shadow_chase_dumb_trial_resemble |  
+| bip_39_word_underscore_8 | mention_dumb_shadow_chase_dumb_trial_resemble_meat |  
+| bip_39_word_underscore_9 | mention_dumb_shadow_chase_dumb_trial_resemble_meat_soft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

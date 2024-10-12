@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fatigue
+bip_39_word_dash_10: fatigue-discover-roof-tiger-antique-east-wealth-amazing-wave-crisp
+bip_39_word_dash_11: fatigue-discover-roof-tiger-antique-east-wealth-amazing-wave-crisp-fuel
+bip_39_word_dash_12: fatigue-discover-roof-tiger-antique-east-wealth-amazing-wave-crisp-fuel-acoustic
+bip_39_word_dash_2: fatigue-discover
+bip_39_word_dash_3: fatigue-discover-roof
+bip_39_word_dash_4: fatigue-discover-roof-tiger
+bip_39_word_dash_5: fatigue-discover-roof-tiger-antique
+bip_39_word_dash_6: fatigue-discover-roof-tiger-antique-east
+bip_39_word_dash_7: fatigue-discover-roof-tiger-antique-east-wealth
+bip_39_word_dash_8: fatigue-discover-roof-tiger-antique-east-wealth-amazing
+bip_39_word_dash_9: fatigue-discover-roof-tiger-antique-east-wealth-amazing-wave
 bip_39_word_new_br_1: fatigue
 bip_39_word_new_br_10: fatigue<br>discover<br>roof<br>tiger<br>antique<br>east<br>wealth<br>amazing<br>wave<br>crisp
 bip_39_word_new_br_11: fatigue<br>discover<br>roof<br>tiger<br>antique<br>east<br>wealth<br>amazing<br>wave<br>crisp<br>fuel
@@ -194,6 +206,18 @@ bip_39_word_space_6: fatigue discover roof tiger antique east
 bip_39_word_space_7: fatigue discover roof tiger antique east wealth
 bip_39_word_space_8: fatigue discover roof tiger antique east wealth amazing
 bip_39_word_space_9: fatigue discover roof tiger antique east wealth amazing wave
+bip_39_word_underscore_1: fatigue
+bip_39_word_underscore_10: fatigue_discover_roof_tiger_antique_east_wealth_amazing_wave_crisp
+bip_39_word_underscore_11: fatigue_discover_roof_tiger_antique_east_wealth_amazing_wave_crisp_fuel
+bip_39_word_underscore_12: fatigue_discover_roof_tiger_antique_east_wealth_amazing_wave_crisp_fuel_acoustic
+bip_39_word_underscore_2: fatigue_discover
+bip_39_word_underscore_3: fatigue_discover_roof
+bip_39_word_underscore_4: fatigue_discover_roof_tiger
+bip_39_word_underscore_5: fatigue_discover_roof_tiger_antique
+bip_39_word_underscore_6: fatigue_discover_roof_tiger_antique_east
+bip_39_word_underscore_7: fatigue_discover_roof_tiger_antique_east_wealth
+bip_39_word_underscore_8: fatigue_discover_roof_tiger_antique_east_wealth_amazing
+bip_39_word_underscore_9: fatigue_discover_roof_tiger_antique_east_wealth_amazing_wave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

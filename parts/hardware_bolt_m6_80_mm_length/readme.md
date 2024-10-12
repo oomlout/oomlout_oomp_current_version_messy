@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | increase |  
+| bip_39_word_dash_10 | increase-craft-slogan-this-artefact-project-solid-accident-payment-melt |  
+| bip_39_word_dash_11 | increase-craft-slogan-this-artefact-project-solid-accident-payment-melt-spread |  
+| bip_39_word_dash_12 | increase-craft-slogan-this-artefact-project-solid-accident-payment-melt-spread-august |  
+| bip_39_word_dash_2 | increase-craft |  
+| bip_39_word_dash_3 | increase-craft-slogan |  
+| bip_39_word_dash_4 | increase-craft-slogan-this |  
+| bip_39_word_dash_5 | increase-craft-slogan-this-artefact |  
+| bip_39_word_dash_6 | increase-craft-slogan-this-artefact-project |  
+| bip_39_word_dash_7 | increase-craft-slogan-this-artefact-project-solid |  
+| bip_39_word_dash_8 | increase-craft-slogan-this-artefact-project-solid-accident |  
+| bip_39_word_dash_9 | increase-craft-slogan-this-artefact-project-solid-accident-payment |  
 | bip_39_word_new_br_1 | increase |  
 | bip_39_word_new_br_10 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt |  
 | bip_39_word_new_br_11 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt<br>spread |  
@@ -147,6 +159,18 @@ payment |
 | bip_39_word_space_7 | increase craft slogan this artefact project solid |  
 | bip_39_word_space_8 | increase craft slogan this artefact project solid accident |  
 | bip_39_word_space_9 | increase craft slogan this artefact project solid accident payment |  
+| bip_39_word_underscore_1 | increase |  
+| bip_39_word_underscore_10 | increase_craft_slogan_this_artefact_project_solid_accident_payment_melt |  
+| bip_39_word_underscore_11 | increase_craft_slogan_this_artefact_project_solid_accident_payment_melt_spread |  
+| bip_39_word_underscore_12 | increase_craft_slogan_this_artefact_project_solid_accident_payment_melt_spread_august |  
+| bip_39_word_underscore_2 | increase_craft |  
+| bip_39_word_underscore_3 | increase_craft_slogan |  
+| bip_39_word_underscore_4 | increase_craft_slogan_this |  
+| bip_39_word_underscore_5 | increase_craft_slogan_this_artefact |  
+| bip_39_word_underscore_6 | increase_craft_slogan_this_artefact_project |  
+| bip_39_word_underscore_7 | increase_craft_slogan_this_artefact_project_solid |  
+| bip_39_word_underscore_8 | increase_craft_slogan_this_artefact_project_solid_accident |  
+| bip_39_word_underscore_9 | increase_craft_slogan_this_artefact_project_solid_accident_payment |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

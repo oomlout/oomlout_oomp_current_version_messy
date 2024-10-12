@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | egg |  
+| bip_39_word_dash_10 | egg-supreme-raccoon-script-delay-rely-voyage-degree-alcohol-nephew |  
+| bip_39_word_dash_11 | egg-supreme-raccoon-script-delay-rely-voyage-degree-alcohol-nephew-marble |  
+| bip_39_word_dash_12 | egg-supreme-raccoon-script-delay-rely-voyage-degree-alcohol-nephew-marble-acquire |  
+| bip_39_word_dash_2 | egg-supreme |  
+| bip_39_word_dash_3 | egg-supreme-raccoon |  
+| bip_39_word_dash_4 | egg-supreme-raccoon-script |  
+| bip_39_word_dash_5 | egg-supreme-raccoon-script-delay |  
+| bip_39_word_dash_6 | egg-supreme-raccoon-script-delay-rely |  
+| bip_39_word_dash_7 | egg-supreme-raccoon-script-delay-rely-voyage |  
+| bip_39_word_dash_8 | egg-supreme-raccoon-script-delay-rely-voyage-degree |  
+| bip_39_word_dash_9 | egg-supreme-raccoon-script-delay-rely-voyage-degree-alcohol |  
 | bip_39_word_new_br_1 | egg |  
 | bip_39_word_new_br_10 | egg<br>supreme<br>raccoon<br>script<br>delay<br>rely<br>voyage<br>degree<br>alcohol<br>nephew |  
 | bip_39_word_new_br_11 | egg<br>supreme<br>raccoon<br>script<br>delay<br>rely<br>voyage<br>degree<br>alcohol<br>nephew<br>marble |  
@@ -147,6 +159,18 @@ alcohol |
 | bip_39_word_space_7 | egg supreme raccoon script delay rely voyage |  
 | bip_39_word_space_8 | egg supreme raccoon script delay rely voyage degree |  
 | bip_39_word_space_9 | egg supreme raccoon script delay rely voyage degree alcohol |  
+| bip_39_word_underscore_1 | egg |  
+| bip_39_word_underscore_10 | egg_supreme_raccoon_script_delay_rely_voyage_degree_alcohol_nephew |  
+| bip_39_word_underscore_11 | egg_supreme_raccoon_script_delay_rely_voyage_degree_alcohol_nephew_marble |  
+| bip_39_word_underscore_12 | egg_supreme_raccoon_script_delay_rely_voyage_degree_alcohol_nephew_marble_acquire |  
+| bip_39_word_underscore_2 | egg_supreme |  
+| bip_39_word_underscore_3 | egg_supreme_raccoon |  
+| bip_39_word_underscore_4 | egg_supreme_raccoon_script |  
+| bip_39_word_underscore_5 | egg_supreme_raccoon_script_delay |  
+| bip_39_word_underscore_6 | egg_supreme_raccoon_script_delay_rely |  
+| bip_39_word_underscore_7 | egg_supreme_raccoon_script_delay_rely_voyage |  
+| bip_39_word_underscore_8 | egg_supreme_raccoon_script_delay_rely_voyage_degree |  
+| bip_39_word_underscore_9 | egg_supreme_raccoon_script_delay_rely_voyage_degree_alcohol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

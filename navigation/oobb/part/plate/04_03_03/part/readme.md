@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crisp |  
+| bip_39_word_dash_10 | crisp-admit-student-output-exact-stone-tired-wheat-regular-joke |  
+| bip_39_word_dash_11 | crisp-admit-student-output-exact-stone-tired-wheat-regular-joke-cage |  
+| bip_39_word_dash_12 | crisp-admit-student-output-exact-stone-tired-wheat-regular-joke-cage-afraid |  
+| bip_39_word_dash_2 | crisp-admit |  
+| bip_39_word_dash_3 | crisp-admit-student |  
+| bip_39_word_dash_4 | crisp-admit-student-output |  
+| bip_39_word_dash_5 | crisp-admit-student-output-exact |  
+| bip_39_word_dash_6 | crisp-admit-student-output-exact-stone |  
+| bip_39_word_dash_7 | crisp-admit-student-output-exact-stone-tired |  
+| bip_39_word_dash_8 | crisp-admit-student-output-exact-stone-tired-wheat |  
+| bip_39_word_dash_9 | crisp-admit-student-output-exact-stone-tired-wheat-regular |  
 | bip_39_word_new_br_1 | crisp |  
 | bip_39_word_new_br_10 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke |  
 | bip_39_word_new_br_11 | crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke<br>cage |  
@@ -147,6 +159,18 @@ regular |
 | bip_39_word_space_7 | crisp admit student output exact stone tired |  
 | bip_39_word_space_8 | crisp admit student output exact stone tired wheat |  
 | bip_39_word_space_9 | crisp admit student output exact stone tired wheat regular |  
+| bip_39_word_underscore_1 | crisp |  
+| bip_39_word_underscore_10 | crisp_admit_student_output_exact_stone_tired_wheat_regular_joke |  
+| bip_39_word_underscore_11 | crisp_admit_student_output_exact_stone_tired_wheat_regular_joke_cage |  
+| bip_39_word_underscore_12 | crisp_admit_student_output_exact_stone_tired_wheat_regular_joke_cage_afraid |  
+| bip_39_word_underscore_2 | crisp_admit |  
+| bip_39_word_underscore_3 | crisp_admit_student |  
+| bip_39_word_underscore_4 | crisp_admit_student_output |  
+| bip_39_word_underscore_5 | crisp_admit_student_output_exact |  
+| bip_39_word_underscore_6 | crisp_admit_student_output_exact_stone |  
+| bip_39_word_underscore_7 | crisp_admit_student_output_exact_stone_tired |  
+| bip_39_word_underscore_8 | crisp_admit_student_output_exact_stone_tired_wheat |  
+| bip_39_word_underscore_9 | crisp_admit_student_output_exact_stone_tired_wheat_regular |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

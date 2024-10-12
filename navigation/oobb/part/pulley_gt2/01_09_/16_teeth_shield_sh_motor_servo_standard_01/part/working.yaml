@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lumber
+bip_39_word_dash_10: lumber-width-tuition-walk-nurse-scissors-crater-call-debate-drama
+bip_39_word_dash_11: lumber-width-tuition-walk-nurse-scissors-crater-call-debate-drama-dial
+bip_39_word_dash_12: lumber-width-tuition-walk-nurse-scissors-crater-call-debate-drama-dial-ask
+bip_39_word_dash_2: lumber-width
+bip_39_word_dash_3: lumber-width-tuition
+bip_39_word_dash_4: lumber-width-tuition-walk
+bip_39_word_dash_5: lumber-width-tuition-walk-nurse
+bip_39_word_dash_6: lumber-width-tuition-walk-nurse-scissors
+bip_39_word_dash_7: lumber-width-tuition-walk-nurse-scissors-crater
+bip_39_word_dash_8: lumber-width-tuition-walk-nurse-scissors-crater-call
+bip_39_word_dash_9: lumber-width-tuition-walk-nurse-scissors-crater-call-debate
 bip_39_word_new_br_1: lumber
 bip_39_word_new_br_10: lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call<br>debate<br>drama
 bip_39_word_new_br_11: lumber<br>width<br>tuition<br>walk<br>nurse<br>scissors<br>crater<br>call<br>debate<br>drama<br>dial
@@ -194,6 +206,18 @@ bip_39_word_space_6: lumber width tuition walk nurse scissors
 bip_39_word_space_7: lumber width tuition walk nurse scissors crater
 bip_39_word_space_8: lumber width tuition walk nurse scissors crater call
 bip_39_word_space_9: lumber width tuition walk nurse scissors crater call debate
+bip_39_word_underscore_1: lumber
+bip_39_word_underscore_10: lumber_width_tuition_walk_nurse_scissors_crater_call_debate_drama
+bip_39_word_underscore_11: lumber_width_tuition_walk_nurse_scissors_crater_call_debate_drama_dial
+bip_39_word_underscore_12: lumber_width_tuition_walk_nurse_scissors_crater_call_debate_drama_dial_ask
+bip_39_word_underscore_2: lumber_width
+bip_39_word_underscore_3: lumber_width_tuition
+bip_39_word_underscore_4: lumber_width_tuition_walk
+bip_39_word_underscore_5: lumber_width_tuition_walk_nurse
+bip_39_word_underscore_6: lumber_width_tuition_walk_nurse_scissors
+bip_39_word_underscore_7: lumber_width_tuition_walk_nurse_scissors_crater
+bip_39_word_underscore_8: lumber_width_tuition_walk_nurse_scissors_crater_call
+bip_39_word_underscore_9: lumber_width_tuition_walk_nurse_scissors_crater_call_debate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

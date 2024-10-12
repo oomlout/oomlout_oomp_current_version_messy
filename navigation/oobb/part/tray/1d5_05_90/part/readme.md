@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | holiday |  
+| bip_39_word_dash_10 | holiday-unhappy-mansion-injury-damage-easy-trophy-pull-expect-strong |  
+| bip_39_word_dash_11 | holiday-unhappy-mansion-injury-damage-easy-trophy-pull-expect-strong-float |  
+| bip_39_word_dash_12 | holiday-unhappy-mansion-injury-damage-easy-trophy-pull-expect-strong-float-agree |  
+| bip_39_word_dash_2 | holiday-unhappy |  
+| bip_39_word_dash_3 | holiday-unhappy-mansion |  
+| bip_39_word_dash_4 | holiday-unhappy-mansion-injury |  
+| bip_39_word_dash_5 | holiday-unhappy-mansion-injury-damage |  
+| bip_39_word_dash_6 | holiday-unhappy-mansion-injury-damage-easy |  
+| bip_39_word_dash_7 | holiday-unhappy-mansion-injury-damage-easy-trophy |  
+| bip_39_word_dash_8 | holiday-unhappy-mansion-injury-damage-easy-trophy-pull |  
+| bip_39_word_dash_9 | holiday-unhappy-mansion-injury-damage-easy-trophy-pull-expect |  
 | bip_39_word_new_br_1 | holiday |  
 | bip_39_word_new_br_10 | holiday<br>unhappy<br>mansion<br>injury<br>damage<br>easy<br>trophy<br>pull<br>expect<br>strong |  
 | bip_39_word_new_br_11 | holiday<br>unhappy<br>mansion<br>injury<br>damage<br>easy<br>trophy<br>pull<br>expect<br>strong<br>float |  
@@ -147,6 +159,18 @@ expect |
 | bip_39_word_space_7 | holiday unhappy mansion injury damage easy trophy |  
 | bip_39_word_space_8 | holiday unhappy mansion injury damage easy trophy pull |  
 | bip_39_word_space_9 | holiday unhappy mansion injury damage easy trophy pull expect |  
+| bip_39_word_underscore_1 | holiday |  
+| bip_39_word_underscore_10 | holiday_unhappy_mansion_injury_damage_easy_trophy_pull_expect_strong |  
+| bip_39_word_underscore_11 | holiday_unhappy_mansion_injury_damage_easy_trophy_pull_expect_strong_float |  
+| bip_39_word_underscore_12 | holiday_unhappy_mansion_injury_damage_easy_trophy_pull_expect_strong_float_agree |  
+| bip_39_word_underscore_2 | holiday_unhappy |  
+| bip_39_word_underscore_3 | holiday_unhappy_mansion |  
+| bip_39_word_underscore_4 | holiday_unhappy_mansion_injury |  
+| bip_39_word_underscore_5 | holiday_unhappy_mansion_injury_damage |  
+| bip_39_word_underscore_6 | holiday_unhappy_mansion_injury_damage_easy |  
+| bip_39_word_underscore_7 | holiday_unhappy_mansion_injury_damage_easy_trophy |  
+| bip_39_word_underscore_8 | holiday_unhappy_mansion_injury_damage_easy_trophy_pull |  
+| bip_39_word_underscore_9 | holiday_unhappy_mansion_injury_damage_easy_trophy_pull_expect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

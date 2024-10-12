@@ -1,3 +1,15 @@
+bip_39_word_dash_1: much
+bip_39_word_dash_10: much-confirm-lunch-friend-artist-blame-coast-giant-riot-reopen
+bip_39_word_dash_11: much-confirm-lunch-friend-artist-blame-coast-giant-riot-reopen-slam
+bip_39_word_dash_12: much-confirm-lunch-friend-artist-blame-coast-giant-riot-reopen-slam-able
+bip_39_word_dash_2: much-confirm
+bip_39_word_dash_3: much-confirm-lunch
+bip_39_word_dash_4: much-confirm-lunch-friend
+bip_39_word_dash_5: much-confirm-lunch-friend-artist
+bip_39_word_dash_6: much-confirm-lunch-friend-artist-blame
+bip_39_word_dash_7: much-confirm-lunch-friend-artist-blame-coast
+bip_39_word_dash_8: much-confirm-lunch-friend-artist-blame-coast-giant
+bip_39_word_dash_9: much-confirm-lunch-friend-artist-blame-coast-giant-riot
 bip_39_word_new_br_1: much
 bip_39_word_new_br_10: much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen
 bip_39_word_new_br_11: much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen<br>slam
@@ -193,6 +205,18 @@ bip_39_word_space_6: much confirm lunch friend artist blame
 bip_39_word_space_7: much confirm lunch friend artist blame coast
 bip_39_word_space_8: much confirm lunch friend artist blame coast giant
 bip_39_word_space_9: much confirm lunch friend artist blame coast giant riot
+bip_39_word_underscore_1: much
+bip_39_word_underscore_10: much_confirm_lunch_friend_artist_blame_coast_giant_riot_reopen
+bip_39_word_underscore_11: much_confirm_lunch_friend_artist_blame_coast_giant_riot_reopen_slam
+bip_39_word_underscore_12: much_confirm_lunch_friend_artist_blame_coast_giant_riot_reopen_slam_able
+bip_39_word_underscore_2: much_confirm
+bip_39_word_underscore_3: much_confirm_lunch
+bip_39_word_underscore_4: much_confirm_lunch_friend
+bip_39_word_underscore_5: much_confirm_lunch_friend_artist
+bip_39_word_underscore_6: much_confirm_lunch_friend_artist_blame
+bip_39_word_underscore_7: much_confirm_lunch_friend_artist_blame_coast
+bip_39_word_underscore_8: much_confirm_lunch_friend_artist_blame_coast_giant
+bip_39_word_underscore_9: much_confirm_lunch_friend_artist_blame_coast_giant_riot
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

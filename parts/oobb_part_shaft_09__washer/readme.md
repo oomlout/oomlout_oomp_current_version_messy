@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | economy |  
+| bip_39_word_dash_10 | economy-crush-glide-analyst-leopard-style-team-enemy-dash-gym |  
+| bip_39_word_dash_11 | economy-crush-glide-analyst-leopard-style-team-enemy-dash-gym-melt |  
+| bip_39_word_dash_12 | economy-crush-glide-analyst-leopard-style-team-enemy-dash-gym-melt-aim |  
+| bip_39_word_dash_2 | economy-crush |  
+| bip_39_word_dash_3 | economy-crush-glide |  
+| bip_39_word_dash_4 | economy-crush-glide-analyst |  
+| bip_39_word_dash_5 | economy-crush-glide-analyst-leopard |  
+| bip_39_word_dash_6 | economy-crush-glide-analyst-leopard-style |  
+| bip_39_word_dash_7 | economy-crush-glide-analyst-leopard-style-team |  
+| bip_39_word_dash_8 | economy-crush-glide-analyst-leopard-style-team-enemy |  
+| bip_39_word_dash_9 | economy-crush-glide-analyst-leopard-style-team-enemy-dash |  
 | bip_39_word_new_br_1 | economy |  
 | bip_39_word_new_br_10 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym |  
 | bip_39_word_new_br_11 | economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym<br>melt |  
@@ -147,6 +159,18 @@ dash |
 | bip_39_word_space_7 | economy crush glide analyst leopard style team |  
 | bip_39_word_space_8 | economy crush glide analyst leopard style team enemy |  
 | bip_39_word_space_9 | economy crush glide analyst leopard style team enemy dash |  
+| bip_39_word_underscore_1 | economy |  
+| bip_39_word_underscore_10 | economy_crush_glide_analyst_leopard_style_team_enemy_dash_gym |  
+| bip_39_word_underscore_11 | economy_crush_glide_analyst_leopard_style_team_enemy_dash_gym_melt |  
+| bip_39_word_underscore_12 | economy_crush_glide_analyst_leopard_style_team_enemy_dash_gym_melt_aim |  
+| bip_39_word_underscore_2 | economy_crush |  
+| bip_39_word_underscore_3 | economy_crush_glide |  
+| bip_39_word_underscore_4 | economy_crush_glide_analyst |  
+| bip_39_word_underscore_5 | economy_crush_glide_analyst_leopard |  
+| bip_39_word_underscore_6 | economy_crush_glide_analyst_leopard_style |  
+| bip_39_word_underscore_7 | economy_crush_glide_analyst_leopard_style_team |  
+| bip_39_word_underscore_8 | economy_crush_glide_analyst_leopard_style_team_enemy |  
+| bip_39_word_underscore_9 | economy_crush_glide_analyst_leopard_style_team_enemy_dash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

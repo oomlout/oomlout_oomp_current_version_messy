@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chimney
+bip_39_word_dash_10: chimney-whale-cotton-shaft-double-shy-solution-rate-little-current
+bip_39_word_dash_11: chimney-whale-cotton-shaft-double-shy-solution-rate-little-current-twice
+bip_39_word_dash_12: chimney-whale-cotton-shaft-double-shy-solution-rate-little-current-twice-about
+bip_39_word_dash_2: chimney-whale
+bip_39_word_dash_3: chimney-whale-cotton
+bip_39_word_dash_4: chimney-whale-cotton-shaft
+bip_39_word_dash_5: chimney-whale-cotton-shaft-double
+bip_39_word_dash_6: chimney-whale-cotton-shaft-double-shy
+bip_39_word_dash_7: chimney-whale-cotton-shaft-double-shy-solution
+bip_39_word_dash_8: chimney-whale-cotton-shaft-double-shy-solution-rate
+bip_39_word_dash_9: chimney-whale-cotton-shaft-double-shy-solution-rate-little
 bip_39_word_new_br_1: chimney
 bip_39_word_new_br_10: chimney<br>whale<br>cotton<br>shaft<br>double<br>shy<br>solution<br>rate<br>little<br>current
 bip_39_word_new_br_11: chimney<br>whale<br>cotton<br>shaft<br>double<br>shy<br>solution<br>rate<br>little<br>current<br>twice
@@ -193,6 +205,18 @@ bip_39_word_space_6: chimney whale cotton shaft double shy
 bip_39_word_space_7: chimney whale cotton shaft double shy solution
 bip_39_word_space_8: chimney whale cotton shaft double shy solution rate
 bip_39_word_space_9: chimney whale cotton shaft double shy solution rate little
+bip_39_word_underscore_1: chimney
+bip_39_word_underscore_10: chimney_whale_cotton_shaft_double_shy_solution_rate_little_current
+bip_39_word_underscore_11: chimney_whale_cotton_shaft_double_shy_solution_rate_little_current_twice
+bip_39_word_underscore_12: chimney_whale_cotton_shaft_double_shy_solution_rate_little_current_twice_about
+bip_39_word_underscore_2: chimney_whale
+bip_39_word_underscore_3: chimney_whale_cotton
+bip_39_word_underscore_4: chimney_whale_cotton_shaft
+bip_39_word_underscore_5: chimney_whale_cotton_shaft_double
+bip_39_word_underscore_6: chimney_whale_cotton_shaft_double_shy
+bip_39_word_underscore_7: chimney_whale_cotton_shaft_double_shy_solution
+bip_39_word_underscore_8: chimney_whale_cotton_shaft_double_shy_solution_rate
+bip_39_word_underscore_9: chimney_whale_cotton_shaft_double_shy_solution_rate_little
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

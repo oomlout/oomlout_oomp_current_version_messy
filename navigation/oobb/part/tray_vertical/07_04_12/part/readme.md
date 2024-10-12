@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | first |  
+| bip_39_word_dash_10 | first-vehicle-zebra-buddy-shy-glory-lumber-whip-goat-fashion |  
+| bip_39_word_dash_11 | first-vehicle-zebra-buddy-shy-glory-lumber-whip-goat-fashion-key |  
+| bip_39_word_dash_12 | first-vehicle-zebra-buddy-shy-glory-lumber-whip-goat-fashion-key-album |  
+| bip_39_word_dash_2 | first-vehicle |  
+| bip_39_word_dash_3 | first-vehicle-zebra |  
+| bip_39_word_dash_4 | first-vehicle-zebra-buddy |  
+| bip_39_word_dash_5 | first-vehicle-zebra-buddy-shy |  
+| bip_39_word_dash_6 | first-vehicle-zebra-buddy-shy-glory |  
+| bip_39_word_dash_7 | first-vehicle-zebra-buddy-shy-glory-lumber |  
+| bip_39_word_dash_8 | first-vehicle-zebra-buddy-shy-glory-lumber-whip |  
+| bip_39_word_dash_9 | first-vehicle-zebra-buddy-shy-glory-lumber-whip-goat |  
 | bip_39_word_new_br_1 | first |  
 | bip_39_word_new_br_10 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion |  
 | bip_39_word_new_br_11 | first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion<br>key |  
@@ -147,6 +159,18 @@ goat |
 | bip_39_word_space_7 | first vehicle zebra buddy shy glory lumber |  
 | bip_39_word_space_8 | first vehicle zebra buddy shy glory lumber whip |  
 | bip_39_word_space_9 | first vehicle zebra buddy shy glory lumber whip goat |  
+| bip_39_word_underscore_1 | first |  
+| bip_39_word_underscore_10 | first_vehicle_zebra_buddy_shy_glory_lumber_whip_goat_fashion |  
+| bip_39_word_underscore_11 | first_vehicle_zebra_buddy_shy_glory_lumber_whip_goat_fashion_key |  
+| bip_39_word_underscore_12 | first_vehicle_zebra_buddy_shy_glory_lumber_whip_goat_fashion_key_album |  
+| bip_39_word_underscore_2 | first_vehicle |  
+| bip_39_word_underscore_3 | first_vehicle_zebra |  
+| bip_39_word_underscore_4 | first_vehicle_zebra_buddy |  
+| bip_39_word_underscore_5 | first_vehicle_zebra_buddy_shy |  
+| bip_39_word_underscore_6 | first_vehicle_zebra_buddy_shy_glory |  
+| bip_39_word_underscore_7 | first_vehicle_zebra_buddy_shy_glory_lumber |  
+| bip_39_word_underscore_8 | first_vehicle_zebra_buddy_shy_glory_lumber_whip |  
+| bip_39_word_underscore_9 | first_vehicle_zebra_buddy_shy_glory_lumber_whip_goat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

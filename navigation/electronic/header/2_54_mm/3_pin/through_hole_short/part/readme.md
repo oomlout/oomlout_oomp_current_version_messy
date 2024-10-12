@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fence |  
+| bip_39_word_dash_10 | fence-clever-debris-stereo-artist-retreat-dawn-mass-taxi-floor |  
+| bip_39_word_dash_11 | fence-clever-debris-stereo-artist-retreat-dawn-mass-taxi-floor-lounge |  
+| bip_39_word_dash_12 | fence-clever-debris-stereo-artist-retreat-dawn-mass-taxi-floor-lounge-arrange |  
+| bip_39_word_dash_2 | fence-clever |  
+| bip_39_word_dash_3 | fence-clever-debris |  
+| bip_39_word_dash_4 | fence-clever-debris-stereo |  
+| bip_39_word_dash_5 | fence-clever-debris-stereo-artist |  
+| bip_39_word_dash_6 | fence-clever-debris-stereo-artist-retreat |  
+| bip_39_word_dash_7 | fence-clever-debris-stereo-artist-retreat-dawn |  
+| bip_39_word_dash_8 | fence-clever-debris-stereo-artist-retreat-dawn-mass |  
+| bip_39_word_dash_9 | fence-clever-debris-stereo-artist-retreat-dawn-mass-taxi |  
 | bip_39_word_new_br_1 | fence |  
 | bip_39_word_new_br_10 | fence<br>clever<br>debris<br>stereo<br>artist<br>retreat<br>dawn<br>mass<br>taxi<br>floor |  
 | bip_39_word_new_br_11 | fence<br>clever<br>debris<br>stereo<br>artist<br>retreat<br>dawn<br>mass<br>taxi<br>floor<br>lounge |  
@@ -147,6 +159,18 @@ taxi |
 | bip_39_word_space_7 | fence clever debris stereo artist retreat dawn |  
 | bip_39_word_space_8 | fence clever debris stereo artist retreat dawn mass |  
 | bip_39_word_space_9 | fence clever debris stereo artist retreat dawn mass taxi |  
+| bip_39_word_underscore_1 | fence |  
+| bip_39_word_underscore_10 | fence_clever_debris_stereo_artist_retreat_dawn_mass_taxi_floor |  
+| bip_39_word_underscore_11 | fence_clever_debris_stereo_artist_retreat_dawn_mass_taxi_floor_lounge |  
+| bip_39_word_underscore_12 | fence_clever_debris_stereo_artist_retreat_dawn_mass_taxi_floor_lounge_arrange |  
+| bip_39_word_underscore_2 | fence_clever |  
+| bip_39_word_underscore_3 | fence_clever_debris |  
+| bip_39_word_underscore_4 | fence_clever_debris_stereo |  
+| bip_39_word_underscore_5 | fence_clever_debris_stereo_artist |  
+| bip_39_word_underscore_6 | fence_clever_debris_stereo_artist_retreat |  
+| bip_39_word_underscore_7 | fence_clever_debris_stereo_artist_retreat_dawn |  
+| bip_39_word_underscore_8 | fence_clever_debris_stereo_artist_retreat_dawn_mass |  
+| bip_39_word_underscore_9 | fence_clever_debris_stereo_artist_retreat_dawn_mass_taxi |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

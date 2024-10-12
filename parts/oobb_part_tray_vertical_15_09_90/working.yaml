@@ -1,3 +1,15 @@
+bip_39_word_dash_1: manual
+bip_39_word_dash_10: manual-attend-model-exile-version-fuel-little-shoe-slice-shell
+bip_39_word_dash_11: manual-attend-model-exile-version-fuel-little-shoe-slice-shell-glad
+bip_39_word_dash_12: manual-attend-model-exile-version-fuel-little-shoe-slice-shell-glad-adapt
+bip_39_word_dash_2: manual-attend
+bip_39_word_dash_3: manual-attend-model
+bip_39_word_dash_4: manual-attend-model-exile
+bip_39_word_dash_5: manual-attend-model-exile-version
+bip_39_word_dash_6: manual-attend-model-exile-version-fuel
+bip_39_word_dash_7: manual-attend-model-exile-version-fuel-little
+bip_39_word_dash_8: manual-attend-model-exile-version-fuel-little-shoe
+bip_39_word_dash_9: manual-attend-model-exile-version-fuel-little-shoe-slice
 bip_39_word_new_br_1: manual
 bip_39_word_new_br_10: manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe<br>slice<br>shell
 bip_39_word_new_br_11: manual<br>attend<br>model<br>exile<br>version<br>fuel<br>little<br>shoe<br>slice<br>shell<br>glad
@@ -193,6 +205,18 @@ bip_39_word_space_6: manual attend model exile version fuel
 bip_39_word_space_7: manual attend model exile version fuel little
 bip_39_word_space_8: manual attend model exile version fuel little shoe
 bip_39_word_space_9: manual attend model exile version fuel little shoe slice
+bip_39_word_underscore_1: manual
+bip_39_word_underscore_10: manual_attend_model_exile_version_fuel_little_shoe_slice_shell
+bip_39_word_underscore_11: manual_attend_model_exile_version_fuel_little_shoe_slice_shell_glad
+bip_39_word_underscore_12: manual_attend_model_exile_version_fuel_little_shoe_slice_shell_glad_adapt
+bip_39_word_underscore_2: manual_attend
+bip_39_word_underscore_3: manual_attend_model
+bip_39_word_underscore_4: manual_attend_model_exile
+bip_39_word_underscore_5: manual_attend_model_exile_version
+bip_39_word_underscore_6: manual_attend_model_exile_version_fuel
+bip_39_word_underscore_7: manual_attend_model_exile_version_fuel_little
+bip_39_word_underscore_8: manual_attend_model_exile_version_fuel_little_shoe
+bip_39_word_underscore_9: manual_attend_model_exile_version_fuel_little_shoe_slice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

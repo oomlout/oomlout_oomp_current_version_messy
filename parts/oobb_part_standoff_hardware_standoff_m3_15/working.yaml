@@ -1,3 +1,15 @@
+bip_39_word_dash_1: envelope
+bip_39_word_dash_10: envelope-loyal-obvious-control-baby-smile-pudding-appear-lesson-glove
+bip_39_word_dash_11: envelope-loyal-obvious-control-baby-smile-pudding-appear-lesson-glove-reason
+bip_39_word_dash_12: envelope-loyal-obvious-control-baby-smile-pudding-appear-lesson-glove-reason-across
+bip_39_word_dash_2: envelope-loyal
+bip_39_word_dash_3: envelope-loyal-obvious
+bip_39_word_dash_4: envelope-loyal-obvious-control
+bip_39_word_dash_5: envelope-loyal-obvious-control-baby
+bip_39_word_dash_6: envelope-loyal-obvious-control-baby-smile
+bip_39_word_dash_7: envelope-loyal-obvious-control-baby-smile-pudding
+bip_39_word_dash_8: envelope-loyal-obvious-control-baby-smile-pudding-appear
+bip_39_word_dash_9: envelope-loyal-obvious-control-baby-smile-pudding-appear-lesson
 bip_39_word_new_br_1: envelope
 bip_39_word_new_br_10: envelope<br>loyal<br>obvious<br>control<br>baby<br>smile<br>pudding<br>appear<br>lesson<br>glove
 bip_39_word_new_br_11: envelope<br>loyal<br>obvious<br>control<br>baby<br>smile<br>pudding<br>appear<br>lesson<br>glove<br>reason
@@ -194,6 +206,18 @@ bip_39_word_space_6: envelope loyal obvious control baby smile
 bip_39_word_space_7: envelope loyal obvious control baby smile pudding
 bip_39_word_space_8: envelope loyal obvious control baby smile pudding appear
 bip_39_word_space_9: envelope loyal obvious control baby smile pudding appear lesson
+bip_39_word_underscore_1: envelope
+bip_39_word_underscore_10: envelope_loyal_obvious_control_baby_smile_pudding_appear_lesson_glove
+bip_39_word_underscore_11: envelope_loyal_obvious_control_baby_smile_pudding_appear_lesson_glove_reason
+bip_39_word_underscore_12: envelope_loyal_obvious_control_baby_smile_pudding_appear_lesson_glove_reason_across
+bip_39_word_underscore_2: envelope_loyal
+bip_39_word_underscore_3: envelope_loyal_obvious
+bip_39_word_underscore_4: envelope_loyal_obvious_control
+bip_39_word_underscore_5: envelope_loyal_obvious_control_baby
+bip_39_word_underscore_6: envelope_loyal_obvious_control_baby_smile
+bip_39_word_underscore_7: envelope_loyal_obvious_control_baby_smile_pudding
+bip_39_word_underscore_8: envelope_loyal_obvious_control_baby_smile_pudding_appear
+bip_39_word_underscore_9: envelope_loyal_obvious_control_baby_smile_pudding_appear_lesson
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

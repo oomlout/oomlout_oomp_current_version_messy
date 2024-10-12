@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enlist |  
+| bip_39_word_dash_10 | enlist-noodle-coral-despair-cook-weasel-blind-pizza-vendor-bless |  
+| bip_39_word_dash_11 | enlist-noodle-coral-despair-cook-weasel-blind-pizza-vendor-bless-style |  
+| bip_39_word_dash_12 | enlist-noodle-coral-despair-cook-weasel-blind-pizza-vendor-bless-style-alone |  
+| bip_39_word_dash_2 | enlist-noodle |  
+| bip_39_word_dash_3 | enlist-noodle-coral |  
+| bip_39_word_dash_4 | enlist-noodle-coral-despair |  
+| bip_39_word_dash_5 | enlist-noodle-coral-despair-cook |  
+| bip_39_word_dash_6 | enlist-noodle-coral-despair-cook-weasel |  
+| bip_39_word_dash_7 | enlist-noodle-coral-despair-cook-weasel-blind |  
+| bip_39_word_dash_8 | enlist-noodle-coral-despair-cook-weasel-blind-pizza |  
+| bip_39_word_dash_9 | enlist-noodle-coral-despair-cook-weasel-blind-pizza-vendor |  
 | bip_39_word_new_br_1 | enlist |  
 | bip_39_word_new_br_10 | enlist<br>noodle<br>coral<br>despair<br>cook<br>weasel<br>blind<br>pizza<br>vendor<br>bless |  
 | bip_39_word_new_br_11 | enlist<br>noodle<br>coral<br>despair<br>cook<br>weasel<br>blind<br>pizza<br>vendor<br>bless<br>style |  
@@ -147,6 +159,18 @@ vendor |
 | bip_39_word_space_7 | enlist noodle coral despair cook weasel blind |  
 | bip_39_word_space_8 | enlist noodle coral despair cook weasel blind pizza |  
 | bip_39_word_space_9 | enlist noodle coral despair cook weasel blind pizza vendor |  
+| bip_39_word_underscore_1 | enlist |  
+| bip_39_word_underscore_10 | enlist_noodle_coral_despair_cook_weasel_blind_pizza_vendor_bless |  
+| bip_39_word_underscore_11 | enlist_noodle_coral_despair_cook_weasel_blind_pizza_vendor_bless_style |  
+| bip_39_word_underscore_12 | enlist_noodle_coral_despair_cook_weasel_blind_pizza_vendor_bless_style_alone |  
+| bip_39_word_underscore_2 | enlist_noodle |  
+| bip_39_word_underscore_3 | enlist_noodle_coral |  
+| bip_39_word_underscore_4 | enlist_noodle_coral_despair |  
+| bip_39_word_underscore_5 | enlist_noodle_coral_despair_cook |  
+| bip_39_word_underscore_6 | enlist_noodle_coral_despair_cook_weasel |  
+| bip_39_word_underscore_7 | enlist_noodle_coral_despair_cook_weasel_blind |  
+| bip_39_word_underscore_8 | enlist_noodle_coral_despair_cook_weasel_blind_pizza |  
+| bip_39_word_underscore_9 | enlist_noodle_coral_despair_cook_weasel_blind_pizza_vendor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

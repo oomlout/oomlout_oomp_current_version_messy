@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | atom |  
+| bip_39_word_dash_10 | atom-cram-claim-speak-install-swamp-cannon-woman-bean-lesson |  
+| bip_39_word_dash_11 | atom-cram-claim-speak-install-swamp-cannon-woman-bean-lesson-twenty |  
+| bip_39_word_dash_12 | atom-cram-claim-speak-install-swamp-cannon-woman-bean-lesson-twenty-advice |  
+| bip_39_word_dash_2 | atom-cram |  
+| bip_39_word_dash_3 | atom-cram-claim |  
+| bip_39_word_dash_4 | atom-cram-claim-speak |  
+| bip_39_word_dash_5 | atom-cram-claim-speak-install |  
+| bip_39_word_dash_6 | atom-cram-claim-speak-install-swamp |  
+| bip_39_word_dash_7 | atom-cram-claim-speak-install-swamp-cannon |  
+| bip_39_word_dash_8 | atom-cram-claim-speak-install-swamp-cannon-woman |  
+| bip_39_word_dash_9 | atom-cram-claim-speak-install-swamp-cannon-woman-bean |  
 | bip_39_word_new_br_1 | atom |  
 | bip_39_word_new_br_10 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman<br>bean<br>lesson |  
 | bip_39_word_new_br_11 | atom<br>cram<br>claim<br>speak<br>install<br>swamp<br>cannon<br>woman<br>bean<br>lesson<br>twenty |  
@@ -147,6 +159,18 @@ bean |
 | bip_39_word_space_7 | atom cram claim speak install swamp cannon |  
 | bip_39_word_space_8 | atom cram claim speak install swamp cannon woman |  
 | bip_39_word_space_9 | atom cram claim speak install swamp cannon woman bean |  
+| bip_39_word_underscore_1 | atom |  
+| bip_39_word_underscore_10 | atom_cram_claim_speak_install_swamp_cannon_woman_bean_lesson |  
+| bip_39_word_underscore_11 | atom_cram_claim_speak_install_swamp_cannon_woman_bean_lesson_twenty |  
+| bip_39_word_underscore_12 | atom_cram_claim_speak_install_swamp_cannon_woman_bean_lesson_twenty_advice |  
+| bip_39_word_underscore_2 | atom_cram |  
+| bip_39_word_underscore_3 | atom_cram_claim |  
+| bip_39_word_underscore_4 | atom_cram_claim_speak |  
+| bip_39_word_underscore_5 | atom_cram_claim_speak_install |  
+| bip_39_word_underscore_6 | atom_cram_claim_speak_install_swamp |  
+| bip_39_word_underscore_7 | atom_cram_claim_speak_install_swamp_cannon |  
+| bip_39_word_underscore_8 | atom_cram_claim_speak_install_swamp_cannon_woman |  
+| bip_39_word_underscore_9 | atom_cram_claim_speak_install_swamp_cannon_woman_bean |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: critic
+bip_39_word_dash_10: critic-oppose-zoo-situate-reform-cost-kit-card-beef-absent
+bip_39_word_dash_11: critic-oppose-zoo-situate-reform-cost-kit-card-beef-absent-priority
+bip_39_word_dash_12: critic-oppose-zoo-situate-reform-cost-kit-card-beef-absent-priority-armed
+bip_39_word_dash_2: critic-oppose
+bip_39_word_dash_3: critic-oppose-zoo
+bip_39_word_dash_4: critic-oppose-zoo-situate
+bip_39_word_dash_5: critic-oppose-zoo-situate-reform
+bip_39_word_dash_6: critic-oppose-zoo-situate-reform-cost
+bip_39_word_dash_7: critic-oppose-zoo-situate-reform-cost-kit
+bip_39_word_dash_8: critic-oppose-zoo-situate-reform-cost-kit-card
+bip_39_word_dash_9: critic-oppose-zoo-situate-reform-cost-kit-card-beef
 bip_39_word_new_br_1: critic
 bip_39_word_new_br_10: critic<br>oppose<br>zoo<br>situate<br>reform<br>cost<br>kit<br>card<br>beef<br>absent
 bip_39_word_new_br_11: critic<br>oppose<br>zoo<br>situate<br>reform<br>cost<br>kit<br>card<br>beef<br>absent<br>priority
@@ -192,6 +204,18 @@ bip_39_word_space_6: critic oppose zoo situate reform cost
 bip_39_word_space_7: critic oppose zoo situate reform cost kit
 bip_39_word_space_8: critic oppose zoo situate reform cost kit card
 bip_39_word_space_9: critic oppose zoo situate reform cost kit card beef
+bip_39_word_underscore_1: critic
+bip_39_word_underscore_10: critic_oppose_zoo_situate_reform_cost_kit_card_beef_absent
+bip_39_word_underscore_11: critic_oppose_zoo_situate_reform_cost_kit_card_beef_absent_priority
+bip_39_word_underscore_12: critic_oppose_zoo_situate_reform_cost_kit_card_beef_absent_priority_armed
+bip_39_word_underscore_2: critic_oppose
+bip_39_word_underscore_3: critic_oppose_zoo
+bip_39_word_underscore_4: critic_oppose_zoo_situate
+bip_39_word_underscore_5: critic_oppose_zoo_situate_reform
+bip_39_word_underscore_6: critic_oppose_zoo_situate_reform_cost
+bip_39_word_underscore_7: critic_oppose_zoo_situate_reform_cost_kit
+bip_39_word_underscore_8: critic_oppose_zoo_situate_reform_cost_kit_card
+bip_39_word_underscore_9: critic_oppose_zoo_situate_reform_cost_kit_card_beef
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

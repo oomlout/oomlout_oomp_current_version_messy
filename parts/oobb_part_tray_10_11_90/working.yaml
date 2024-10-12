@@ -1,3 +1,15 @@
+bip_39_word_dash_1: behave
+bip_39_word_dash_10: behave-fault-season-such-ability-tobacco-manual-fantasy-congress-chest
+bip_39_word_dash_11: behave-fault-season-such-ability-tobacco-manual-fantasy-congress-chest-you
+bip_39_word_dash_12: behave-fault-season-such-ability-tobacco-manual-fantasy-congress-chest-you-already
+bip_39_word_dash_2: behave-fault
+bip_39_word_dash_3: behave-fault-season
+bip_39_word_dash_4: behave-fault-season-such
+bip_39_word_dash_5: behave-fault-season-such-ability
+bip_39_word_dash_6: behave-fault-season-such-ability-tobacco
+bip_39_word_dash_7: behave-fault-season-such-ability-tobacco-manual
+bip_39_word_dash_8: behave-fault-season-such-ability-tobacco-manual-fantasy
+bip_39_word_dash_9: behave-fault-season-such-ability-tobacco-manual-fantasy-congress
 bip_39_word_new_br_1: behave
 bip_39_word_new_br_10: behave<br>fault<br>season<br>such<br>ability<br>tobacco<br>manual<br>fantasy<br>congress<br>chest
 bip_39_word_new_br_11: behave<br>fault<br>season<br>such<br>ability<br>tobacco<br>manual<br>fantasy<br>congress<br>chest<br>you
@@ -194,6 +206,18 @@ bip_39_word_space_6: behave fault season such ability tobacco
 bip_39_word_space_7: behave fault season such ability tobacco manual
 bip_39_word_space_8: behave fault season such ability tobacco manual fantasy
 bip_39_word_space_9: behave fault season such ability tobacco manual fantasy congress
+bip_39_word_underscore_1: behave
+bip_39_word_underscore_10: behave_fault_season_such_ability_tobacco_manual_fantasy_congress_chest
+bip_39_word_underscore_11: behave_fault_season_such_ability_tobacco_manual_fantasy_congress_chest_you
+bip_39_word_underscore_12: behave_fault_season_such_ability_tobacco_manual_fantasy_congress_chest_you_already
+bip_39_word_underscore_2: behave_fault
+bip_39_word_underscore_3: behave_fault_season
+bip_39_word_underscore_4: behave_fault_season_such
+bip_39_word_underscore_5: behave_fault_season_such_ability
+bip_39_word_underscore_6: behave_fault_season_such_ability_tobacco
+bip_39_word_underscore_7: behave_fault_season_such_ability_tobacco_manual
+bip_39_word_underscore_8: behave_fault_season_such_ability_tobacco_manual_fantasy
+bip_39_word_underscore_9: behave_fault_season_such_ability_tobacco_manual_fantasy_congress
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

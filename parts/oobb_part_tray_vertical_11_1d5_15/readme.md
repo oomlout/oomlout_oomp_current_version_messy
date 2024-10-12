@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grain |  
+| bip_39_word_dash_10 | grain-aisle-legend-square-window-large-vicious-type-canyon-open |  
+| bip_39_word_dash_11 | grain-aisle-legend-square-window-large-vicious-type-canyon-open-put |  
+| bip_39_word_dash_12 | grain-aisle-legend-square-window-large-vicious-type-canyon-open-put-accident |  
+| bip_39_word_dash_2 | grain-aisle |  
+| bip_39_word_dash_3 | grain-aisle-legend |  
+| bip_39_word_dash_4 | grain-aisle-legend-square |  
+| bip_39_word_dash_5 | grain-aisle-legend-square-window |  
+| bip_39_word_dash_6 | grain-aisle-legend-square-window-large |  
+| bip_39_word_dash_7 | grain-aisle-legend-square-window-large-vicious |  
+| bip_39_word_dash_8 | grain-aisle-legend-square-window-large-vicious-type |  
+| bip_39_word_dash_9 | grain-aisle-legend-square-window-large-vicious-type-canyon |  
 | bip_39_word_new_br_1 | grain |  
 | bip_39_word_new_br_10 | grain<br>aisle<br>legend<br>square<br>window<br>large<br>vicious<br>type<br>canyon<br>open |  
 | bip_39_word_new_br_11 | grain<br>aisle<br>legend<br>square<br>window<br>large<br>vicious<br>type<br>canyon<br>open<br>put |  
@@ -147,6 +159,18 @@ canyon |
 | bip_39_word_space_7 | grain aisle legend square window large vicious |  
 | bip_39_word_space_8 | grain aisle legend square window large vicious type |  
 | bip_39_word_space_9 | grain aisle legend square window large vicious type canyon |  
+| bip_39_word_underscore_1 | grain |  
+| bip_39_word_underscore_10 | grain_aisle_legend_square_window_large_vicious_type_canyon_open |  
+| bip_39_word_underscore_11 | grain_aisle_legend_square_window_large_vicious_type_canyon_open_put |  
+| bip_39_word_underscore_12 | grain_aisle_legend_square_window_large_vicious_type_canyon_open_put_accident |  
+| bip_39_word_underscore_2 | grain_aisle |  
+| bip_39_word_underscore_3 | grain_aisle_legend |  
+| bip_39_word_underscore_4 | grain_aisle_legend_square |  
+| bip_39_word_underscore_5 | grain_aisle_legend_square_window |  
+| bip_39_word_underscore_6 | grain_aisle_legend_square_window_large |  
+| bip_39_word_underscore_7 | grain_aisle_legend_square_window_large_vicious |  
+| bip_39_word_underscore_8 | grain_aisle_legend_square_window_large_vicious_type |  
+| bip_39_word_underscore_9 | grain_aisle_legend_square_window_large_vicious_type_canyon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

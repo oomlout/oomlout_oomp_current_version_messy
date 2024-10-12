@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stamp
+bip_39_word_dash_10: stamp-collect-auction-attract-fiscal-jacket-gentle-innocent-merit-shoot
+bip_39_word_dash_11: stamp-collect-auction-attract-fiscal-jacket-gentle-innocent-merit-shoot-below
+bip_39_word_dash_12: stamp-collect-auction-attract-fiscal-jacket-gentle-innocent-merit-shoot-below-angry
+bip_39_word_dash_2: stamp-collect
+bip_39_word_dash_3: stamp-collect-auction
+bip_39_word_dash_4: stamp-collect-auction-attract
+bip_39_word_dash_5: stamp-collect-auction-attract-fiscal
+bip_39_word_dash_6: stamp-collect-auction-attract-fiscal-jacket
+bip_39_word_dash_7: stamp-collect-auction-attract-fiscal-jacket-gentle
+bip_39_word_dash_8: stamp-collect-auction-attract-fiscal-jacket-gentle-innocent
+bip_39_word_dash_9: stamp-collect-auction-attract-fiscal-jacket-gentle-innocent-merit
 bip_39_word_new_br_1: stamp
 bip_39_word_new_br_10: stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent<br>merit<br>shoot
 bip_39_word_new_br_11: stamp<br>collect<br>auction<br>attract<br>fiscal<br>jacket<br>gentle<br>innocent<br>merit<br>shoot<br>below
@@ -194,6 +206,18 @@ bip_39_word_space_6: stamp collect auction attract fiscal jacket
 bip_39_word_space_7: stamp collect auction attract fiscal jacket gentle
 bip_39_word_space_8: stamp collect auction attract fiscal jacket gentle innocent
 bip_39_word_space_9: stamp collect auction attract fiscal jacket gentle innocent merit
+bip_39_word_underscore_1: stamp
+bip_39_word_underscore_10: stamp_collect_auction_attract_fiscal_jacket_gentle_innocent_merit_shoot
+bip_39_word_underscore_11: stamp_collect_auction_attract_fiscal_jacket_gentle_innocent_merit_shoot_below
+bip_39_word_underscore_12: stamp_collect_auction_attract_fiscal_jacket_gentle_innocent_merit_shoot_below_angry
+bip_39_word_underscore_2: stamp_collect
+bip_39_word_underscore_3: stamp_collect_auction
+bip_39_word_underscore_4: stamp_collect_auction_attract
+bip_39_word_underscore_5: stamp_collect_auction_attract_fiscal
+bip_39_word_underscore_6: stamp_collect_auction_attract_fiscal_jacket
+bip_39_word_underscore_7: stamp_collect_auction_attract_fiscal_jacket_gentle
+bip_39_word_underscore_8: stamp_collect_auction_attract_fiscal_jacket_gentle_innocent
+bip_39_word_underscore_9: stamp_collect_auction_attract_fiscal_jacket_gentle_innocent_merit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

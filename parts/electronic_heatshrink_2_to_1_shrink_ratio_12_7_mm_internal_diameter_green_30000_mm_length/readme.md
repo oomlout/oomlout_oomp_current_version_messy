@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | column |  
+| bip_39_word_dash_10 | column-owner-escape-decade-outdoor-nice-hood-blouse-distance-volume |  
+| bip_39_word_dash_11 | column-owner-escape-decade-outdoor-nice-hood-blouse-distance-volume-pioneer |  
+| bip_39_word_dash_12 | column-owner-escape-decade-outdoor-nice-hood-blouse-distance-volume-pioneer-asset |  
+| bip_39_word_dash_2 | column-owner |  
+| bip_39_word_dash_3 | column-owner-escape |  
+| bip_39_word_dash_4 | column-owner-escape-decade |  
+| bip_39_word_dash_5 | column-owner-escape-decade-outdoor |  
+| bip_39_word_dash_6 | column-owner-escape-decade-outdoor-nice |  
+| bip_39_word_dash_7 | column-owner-escape-decade-outdoor-nice-hood |  
+| bip_39_word_dash_8 | column-owner-escape-decade-outdoor-nice-hood-blouse |  
+| bip_39_word_dash_9 | column-owner-escape-decade-outdoor-nice-hood-blouse-distance |  
 | bip_39_word_new_br_1 | column |  
 | bip_39_word_new_br_10 | column<br>owner<br>escape<br>decade<br>outdoor<br>nice<br>hood<br>blouse<br>distance<br>volume |  
 | bip_39_word_new_br_11 | column<br>owner<br>escape<br>decade<br>outdoor<br>nice<br>hood<br>blouse<br>distance<br>volume<br>pioneer |  
@@ -147,6 +159,18 @@ distance |
 | bip_39_word_space_7 | column owner escape decade outdoor nice hood |  
 | bip_39_word_space_8 | column owner escape decade outdoor nice hood blouse |  
 | bip_39_word_space_9 | column owner escape decade outdoor nice hood blouse distance |  
+| bip_39_word_underscore_1 | column |  
+| bip_39_word_underscore_10 | column_owner_escape_decade_outdoor_nice_hood_blouse_distance_volume |  
+| bip_39_word_underscore_11 | column_owner_escape_decade_outdoor_nice_hood_blouse_distance_volume_pioneer |  
+| bip_39_word_underscore_12 | column_owner_escape_decade_outdoor_nice_hood_blouse_distance_volume_pioneer_asset |  
+| bip_39_word_underscore_2 | column_owner |  
+| bip_39_word_underscore_3 | column_owner_escape |  
+| bip_39_word_underscore_4 | column_owner_escape_decade |  
+| bip_39_word_underscore_5 | column_owner_escape_decade_outdoor |  
+| bip_39_word_underscore_6 | column_owner_escape_decade_outdoor_nice |  
+| bip_39_word_underscore_7 | column_owner_escape_decade_outdoor_nice_hood |  
+| bip_39_word_underscore_8 | column_owner_escape_decade_outdoor_nice_hood_blouse |  
+| bip_39_word_underscore_9 | column_owner_escape_decade_outdoor_nice_hood_blouse_distance |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

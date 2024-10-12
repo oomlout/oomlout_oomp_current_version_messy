@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quote |  
+| bip_39_word_dash_10 | quote-trim-ivory-purpose-naive-spoon-problem-awful-leopard-exile |  
+| bip_39_word_dash_11 | quote-trim-ivory-purpose-naive-spoon-problem-awful-leopard-exile-great |  
+| bip_39_word_dash_12 | quote-trim-ivory-purpose-naive-spoon-problem-awful-leopard-exile-great-army |  
+| bip_39_word_dash_2 | quote-trim |  
+| bip_39_word_dash_3 | quote-trim-ivory |  
+| bip_39_word_dash_4 | quote-trim-ivory-purpose |  
+| bip_39_word_dash_5 | quote-trim-ivory-purpose-naive |  
+| bip_39_word_dash_6 | quote-trim-ivory-purpose-naive-spoon |  
+| bip_39_word_dash_7 | quote-trim-ivory-purpose-naive-spoon-problem |  
+| bip_39_word_dash_8 | quote-trim-ivory-purpose-naive-spoon-problem-awful |  
+| bip_39_word_dash_9 | quote-trim-ivory-purpose-naive-spoon-problem-awful-leopard |  
 | bip_39_word_new_br_1 | quote |  
 | bip_39_word_new_br_10 | quote<br>trim<br>ivory<br>purpose<br>naive<br>spoon<br>problem<br>awful<br>leopard<br>exile |  
 | bip_39_word_new_br_11 | quote<br>trim<br>ivory<br>purpose<br>naive<br>spoon<br>problem<br>awful<br>leopard<br>exile<br>great |  
@@ -147,6 +159,18 @@ leopard |
 | bip_39_word_space_7 | quote trim ivory purpose naive spoon problem |  
 | bip_39_word_space_8 | quote trim ivory purpose naive spoon problem awful |  
 | bip_39_word_space_9 | quote trim ivory purpose naive spoon problem awful leopard |  
+| bip_39_word_underscore_1 | quote |  
+| bip_39_word_underscore_10 | quote_trim_ivory_purpose_naive_spoon_problem_awful_leopard_exile |  
+| bip_39_word_underscore_11 | quote_trim_ivory_purpose_naive_spoon_problem_awful_leopard_exile_great |  
+| bip_39_word_underscore_12 | quote_trim_ivory_purpose_naive_spoon_problem_awful_leopard_exile_great_army |  
+| bip_39_word_underscore_2 | quote_trim |  
+| bip_39_word_underscore_3 | quote_trim_ivory |  
+| bip_39_word_underscore_4 | quote_trim_ivory_purpose |  
+| bip_39_word_underscore_5 | quote_trim_ivory_purpose_naive |  
+| bip_39_word_underscore_6 | quote_trim_ivory_purpose_naive_spoon |  
+| bip_39_word_underscore_7 | quote_trim_ivory_purpose_naive_spoon_problem |  
+| bip_39_word_underscore_8 | quote_trim_ivory_purpose_naive_spoon_problem_awful |  
+| bip_39_word_underscore_9 | quote_trim_ivory_purpose_naive_spoon_problem_awful_leopard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | obtain |  
+| bip_39_word_dash_10 | obtain-ball-demand-napkin-climb-color-hero-poem-rose-hobby |  
+| bip_39_word_dash_11 | obtain-ball-demand-napkin-climb-color-hero-poem-rose-hobby-rather |  
+| bip_39_word_dash_12 | obtain-ball-demand-napkin-climb-color-hero-poem-rose-hobby-rather-asthma |  
+| bip_39_word_dash_2 | obtain-ball |  
+| bip_39_word_dash_3 | obtain-ball-demand |  
+| bip_39_word_dash_4 | obtain-ball-demand-napkin |  
+| bip_39_word_dash_5 | obtain-ball-demand-napkin-climb |  
+| bip_39_word_dash_6 | obtain-ball-demand-napkin-climb-color |  
+| bip_39_word_dash_7 | obtain-ball-demand-napkin-climb-color-hero |  
+| bip_39_word_dash_8 | obtain-ball-demand-napkin-climb-color-hero-poem |  
+| bip_39_word_dash_9 | obtain-ball-demand-napkin-climb-color-hero-poem-rose |  
 | bip_39_word_new_br_1 | obtain |  
 | bip_39_word_new_br_10 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby |  
 | bip_39_word_new_br_11 | obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby<br>rather |  
@@ -147,6 +159,18 @@ rose |
 | bip_39_word_space_7 | obtain ball demand napkin climb color hero |  
 | bip_39_word_space_8 | obtain ball demand napkin climb color hero poem |  
 | bip_39_word_space_9 | obtain ball demand napkin climb color hero poem rose |  
+| bip_39_word_underscore_1 | obtain |  
+| bip_39_word_underscore_10 | obtain_ball_demand_napkin_climb_color_hero_poem_rose_hobby |  
+| bip_39_word_underscore_11 | obtain_ball_demand_napkin_climb_color_hero_poem_rose_hobby_rather |  
+| bip_39_word_underscore_12 | obtain_ball_demand_napkin_climb_color_hero_poem_rose_hobby_rather_asthma |  
+| bip_39_word_underscore_2 | obtain_ball |  
+| bip_39_word_underscore_3 | obtain_ball_demand |  
+| bip_39_word_underscore_4 | obtain_ball_demand_napkin |  
+| bip_39_word_underscore_5 | obtain_ball_demand_napkin_climb |  
+| bip_39_word_underscore_6 | obtain_ball_demand_napkin_climb_color |  
+| bip_39_word_underscore_7 | obtain_ball_demand_napkin_climb_color_hero |  
+| bip_39_word_underscore_8 | obtain_ball_demand_napkin_climb_color_hero_poem |  
+| bip_39_word_underscore_9 | obtain_ball_demand_napkin_climb_color_hero_poem_rose |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

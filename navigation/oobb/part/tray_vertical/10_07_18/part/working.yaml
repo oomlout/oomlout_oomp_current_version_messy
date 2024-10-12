@@ -1,3 +1,15 @@
+bip_39_word_dash_1: forget
+bip_39_word_dash_10: forget-disease-tip-number-cross-atom-between-moon-trip-actual
+bip_39_word_dash_11: forget-disease-tip-number-cross-atom-between-moon-trip-actual-change
+bip_39_word_dash_12: forget-disease-tip-number-cross-atom-between-moon-trip-actual-change-auto
+bip_39_word_dash_2: forget-disease
+bip_39_word_dash_3: forget-disease-tip
+bip_39_word_dash_4: forget-disease-tip-number
+bip_39_word_dash_5: forget-disease-tip-number-cross
+bip_39_word_dash_6: forget-disease-tip-number-cross-atom
+bip_39_word_dash_7: forget-disease-tip-number-cross-atom-between
+bip_39_word_dash_8: forget-disease-tip-number-cross-atom-between-moon
+bip_39_word_dash_9: forget-disease-tip-number-cross-atom-between-moon-trip
 bip_39_word_new_br_1: forget
 bip_39_word_new_br_10: forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual
 bip_39_word_new_br_11: forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual<br>change
@@ -193,6 +205,18 @@ bip_39_word_space_6: forget disease tip number cross atom
 bip_39_word_space_7: forget disease tip number cross atom between
 bip_39_word_space_8: forget disease tip number cross atom between moon
 bip_39_word_space_9: forget disease tip number cross atom between moon trip
+bip_39_word_underscore_1: forget
+bip_39_word_underscore_10: forget_disease_tip_number_cross_atom_between_moon_trip_actual
+bip_39_word_underscore_11: forget_disease_tip_number_cross_atom_between_moon_trip_actual_change
+bip_39_word_underscore_12: forget_disease_tip_number_cross_atom_between_moon_trip_actual_change_auto
+bip_39_word_underscore_2: forget_disease
+bip_39_word_underscore_3: forget_disease_tip
+bip_39_word_underscore_4: forget_disease_tip_number
+bip_39_word_underscore_5: forget_disease_tip_number_cross
+bip_39_word_underscore_6: forget_disease_tip_number_cross_atom
+bip_39_word_underscore_7: forget_disease_tip_number_cross_atom_between
+bip_39_word_underscore_8: forget_disease_tip_number_cross_atom_between_moon
+bip_39_word_underscore_9: forget_disease_tip_number_cross_atom_between_moon_trip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

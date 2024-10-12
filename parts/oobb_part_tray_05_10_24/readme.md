@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fitness |  
+| bip_39_word_dash_10 | fitness-buyer-brown-oppose-ride-tube-service-foil-aware-comfort |  
+| bip_39_word_dash_11 | fitness-buyer-brown-oppose-ride-tube-service-foil-aware-comfort-dirt |  
+| bip_39_word_dash_12 | fitness-buyer-brown-oppose-ride-tube-service-foil-aware-comfort-dirt-another |  
+| bip_39_word_dash_2 | fitness-buyer |  
+| bip_39_word_dash_3 | fitness-buyer-brown |  
+| bip_39_word_dash_4 | fitness-buyer-brown-oppose |  
+| bip_39_word_dash_5 | fitness-buyer-brown-oppose-ride |  
+| bip_39_word_dash_6 | fitness-buyer-brown-oppose-ride-tube |  
+| bip_39_word_dash_7 | fitness-buyer-brown-oppose-ride-tube-service |  
+| bip_39_word_dash_8 | fitness-buyer-brown-oppose-ride-tube-service-foil |  
+| bip_39_word_dash_9 | fitness-buyer-brown-oppose-ride-tube-service-foil-aware |  
 | bip_39_word_new_br_1 | fitness |  
 | bip_39_word_new_br_10 | fitness<br>buyer<br>brown<br>oppose<br>ride<br>tube<br>service<br>foil<br>aware<br>comfort |  
 | bip_39_word_new_br_11 | fitness<br>buyer<br>brown<br>oppose<br>ride<br>tube<br>service<br>foil<br>aware<br>comfort<br>dirt |  
@@ -147,6 +159,18 @@ aware |
 | bip_39_word_space_7 | fitness buyer brown oppose ride tube service |  
 | bip_39_word_space_8 | fitness buyer brown oppose ride tube service foil |  
 | bip_39_word_space_9 | fitness buyer brown oppose ride tube service foil aware |  
+| bip_39_word_underscore_1 | fitness |  
+| bip_39_word_underscore_10 | fitness_buyer_brown_oppose_ride_tube_service_foil_aware_comfort |  
+| bip_39_word_underscore_11 | fitness_buyer_brown_oppose_ride_tube_service_foil_aware_comfort_dirt |  
+| bip_39_word_underscore_12 | fitness_buyer_brown_oppose_ride_tube_service_foil_aware_comfort_dirt_another |  
+| bip_39_word_underscore_2 | fitness_buyer |  
+| bip_39_word_underscore_3 | fitness_buyer_brown |  
+| bip_39_word_underscore_4 | fitness_buyer_brown_oppose |  
+| bip_39_word_underscore_5 | fitness_buyer_brown_oppose_ride |  
+| bip_39_word_underscore_6 | fitness_buyer_brown_oppose_ride_tube |  
+| bip_39_word_underscore_7 | fitness_buyer_brown_oppose_ride_tube_service |  
+| bip_39_word_underscore_8 | fitness_buyer_brown_oppose_ride_tube_service_foil |  
+| bip_39_word_underscore_9 | fitness_buyer_brown_oppose_ride_tube_service_foil_aware |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

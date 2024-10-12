@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pilot |  
+| bip_39_word_dash_10 | pilot-physical-awful-trap-glare-collect-tape-actress-purpose-song |  
+| bip_39_word_dash_11 | pilot-physical-awful-trap-glare-collect-tape-actress-purpose-song-extend |  
+| bip_39_word_dash_12 | pilot-physical-awful-trap-glare-collect-tape-actress-purpose-song-extend-able |  
+| bip_39_word_dash_2 | pilot-physical |  
+| bip_39_word_dash_3 | pilot-physical-awful |  
+| bip_39_word_dash_4 | pilot-physical-awful-trap |  
+| bip_39_word_dash_5 | pilot-physical-awful-trap-glare |  
+| bip_39_word_dash_6 | pilot-physical-awful-trap-glare-collect |  
+| bip_39_word_dash_7 | pilot-physical-awful-trap-glare-collect-tape |  
+| bip_39_word_dash_8 | pilot-physical-awful-trap-glare-collect-tape-actress |  
+| bip_39_word_dash_9 | pilot-physical-awful-trap-glare-collect-tape-actress-purpose |  
 | bip_39_word_new_br_1 | pilot |  
 | bip_39_word_new_br_10 | pilot<br>physical<br>awful<br>trap<br>glare<br>collect<br>tape<br>actress<br>purpose<br>song |  
 | bip_39_word_new_br_11 | pilot<br>physical<br>awful<br>trap<br>glare<br>collect<br>tape<br>actress<br>purpose<br>song<br>extend |  
@@ -147,6 +159,18 @@ purpose |
 | bip_39_word_space_7 | pilot physical awful trap glare collect tape |  
 | bip_39_word_space_8 | pilot physical awful trap glare collect tape actress |  
 | bip_39_word_space_9 | pilot physical awful trap glare collect tape actress purpose |  
+| bip_39_word_underscore_1 | pilot |  
+| bip_39_word_underscore_10 | pilot_physical_awful_trap_glare_collect_tape_actress_purpose_song |  
+| bip_39_word_underscore_11 | pilot_physical_awful_trap_glare_collect_tape_actress_purpose_song_extend |  
+| bip_39_word_underscore_12 | pilot_physical_awful_trap_glare_collect_tape_actress_purpose_song_extend_able |  
+| bip_39_word_underscore_2 | pilot_physical |  
+| bip_39_word_underscore_3 | pilot_physical_awful |  
+| bip_39_word_underscore_4 | pilot_physical_awful_trap |  
+| bip_39_word_underscore_5 | pilot_physical_awful_trap_glare |  
+| bip_39_word_underscore_6 | pilot_physical_awful_trap_glare_collect |  
+| bip_39_word_underscore_7 | pilot_physical_awful_trap_glare_collect_tape |  
+| bip_39_word_underscore_8 | pilot_physical_awful_trap_glare_collect_tape_actress |  
+| bip_39_word_underscore_9 | pilot_physical_awful_trap_glare_collect_tape_actress_purpose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

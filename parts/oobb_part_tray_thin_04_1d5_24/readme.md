@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | derive |  
+| bip_39_word_dash_10 | derive-canyon-rookie-extend-hawk-canvas-crunch-total-pride-food |  
+| bip_39_word_dash_11 | derive-canyon-rookie-extend-hawk-canvas-crunch-total-pride-food-safe |  
+| bip_39_word_dash_12 | derive-canyon-rookie-extend-hawk-canvas-crunch-total-pride-food-safe-agree |  
+| bip_39_word_dash_2 | derive-canyon |  
+| bip_39_word_dash_3 | derive-canyon-rookie |  
+| bip_39_word_dash_4 | derive-canyon-rookie-extend |  
+| bip_39_word_dash_5 | derive-canyon-rookie-extend-hawk |  
+| bip_39_word_dash_6 | derive-canyon-rookie-extend-hawk-canvas |  
+| bip_39_word_dash_7 | derive-canyon-rookie-extend-hawk-canvas-crunch |  
+| bip_39_word_dash_8 | derive-canyon-rookie-extend-hawk-canvas-crunch-total |  
+| bip_39_word_dash_9 | derive-canyon-rookie-extend-hawk-canvas-crunch-total-pride |  
 | bip_39_word_new_br_1 | derive |  
 | bip_39_word_new_br_10 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total<br>pride<br>food |  
 | bip_39_word_new_br_11 | derive<br>canyon<br>rookie<br>extend<br>hawk<br>canvas<br>crunch<br>total<br>pride<br>food<br>safe |  
@@ -147,6 +159,18 @@ pride |
 | bip_39_word_space_7 | derive canyon rookie extend hawk canvas crunch |  
 | bip_39_word_space_8 | derive canyon rookie extend hawk canvas crunch total |  
 | bip_39_word_space_9 | derive canyon rookie extend hawk canvas crunch total pride |  
+| bip_39_word_underscore_1 | derive |  
+| bip_39_word_underscore_10 | derive_canyon_rookie_extend_hawk_canvas_crunch_total_pride_food |  
+| bip_39_word_underscore_11 | derive_canyon_rookie_extend_hawk_canvas_crunch_total_pride_food_safe |  
+| bip_39_word_underscore_12 | derive_canyon_rookie_extend_hawk_canvas_crunch_total_pride_food_safe_agree |  
+| bip_39_word_underscore_2 | derive_canyon |  
+| bip_39_word_underscore_3 | derive_canyon_rookie |  
+| bip_39_word_underscore_4 | derive_canyon_rookie_extend |  
+| bip_39_word_underscore_5 | derive_canyon_rookie_extend_hawk |  
+| bip_39_word_underscore_6 | derive_canyon_rookie_extend_hawk_canvas |  
+| bip_39_word_underscore_7 | derive_canyon_rookie_extend_hawk_canvas_crunch |  
+| bip_39_word_underscore_8 | derive_canyon_rookie_extend_hawk_canvas_crunch_total |  
+| bip_39_word_underscore_9 | derive_canyon_rookie_extend_hawk_canvas_crunch_total_pride |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

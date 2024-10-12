@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | biology |  
+| bip_39_word_dash_10 | biology-another-work-salute-educate-panel-message-depart-silver-nation |  
+| bip_39_word_dash_11 | biology-another-work-salute-educate-panel-message-depart-silver-nation-young |  
+| bip_39_word_dash_12 | biology-another-work-salute-educate-panel-message-depart-silver-nation-young-adjust |  
+| bip_39_word_dash_2 | biology-another |  
+| bip_39_word_dash_3 | biology-another-work |  
+| bip_39_word_dash_4 | biology-another-work-salute |  
+| bip_39_word_dash_5 | biology-another-work-salute-educate |  
+| bip_39_word_dash_6 | biology-another-work-salute-educate-panel |  
+| bip_39_word_dash_7 | biology-another-work-salute-educate-panel-message |  
+| bip_39_word_dash_8 | biology-another-work-salute-educate-panel-message-depart |  
+| bip_39_word_dash_9 | biology-another-work-salute-educate-panel-message-depart-silver |  
 | bip_39_word_new_br_1 | biology |  
 | bip_39_word_new_br_10 | biology<br>another<br>work<br>salute<br>educate<br>panel<br>message<br>depart<br>silver<br>nation |  
 | bip_39_word_new_br_11 | biology<br>another<br>work<br>salute<br>educate<br>panel<br>message<br>depart<br>silver<br>nation<br>young |  
@@ -147,6 +159,18 @@ silver |
 | bip_39_word_space_7 | biology another work salute educate panel message |  
 | bip_39_word_space_8 | biology another work salute educate panel message depart |  
 | bip_39_word_space_9 | biology another work salute educate panel message depart silver |  
+| bip_39_word_underscore_1 | biology |  
+| bip_39_word_underscore_10 | biology_another_work_salute_educate_panel_message_depart_silver_nation |  
+| bip_39_word_underscore_11 | biology_another_work_salute_educate_panel_message_depart_silver_nation_young |  
+| bip_39_word_underscore_12 | biology_another_work_salute_educate_panel_message_depart_silver_nation_young_adjust |  
+| bip_39_word_underscore_2 | biology_another |  
+| bip_39_word_underscore_3 | biology_another_work |  
+| bip_39_word_underscore_4 | biology_another_work_salute |  
+| bip_39_word_underscore_5 | biology_another_work_salute_educate |  
+| bip_39_word_underscore_6 | biology_another_work_salute_educate_panel |  
+| bip_39_word_underscore_7 | biology_another_work_salute_educate_panel_message |  
+| bip_39_word_underscore_8 | biology_another_work_salute_educate_panel_message_depart |  
+| bip_39_word_underscore_9 | biology_another_work_salute_educate_panel_message_depart_silver |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

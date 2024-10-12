@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | visa |  
+| bip_39_word_dash_10 | visa-lesson-trial-bid-milk-climb-donkey-fame-shed-group |  
+| bip_39_word_dash_11 | visa-lesson-trial-bid-milk-climb-donkey-fame-shed-group-immense |  
+| bip_39_word_dash_12 | visa-lesson-trial-bid-milk-climb-donkey-fame-shed-group-immense-annual |  
+| bip_39_word_dash_2 | visa-lesson |  
+| bip_39_word_dash_3 | visa-lesson-trial |  
+| bip_39_word_dash_4 | visa-lesson-trial-bid |  
+| bip_39_word_dash_5 | visa-lesson-trial-bid-milk |  
+| bip_39_word_dash_6 | visa-lesson-trial-bid-milk-climb |  
+| bip_39_word_dash_7 | visa-lesson-trial-bid-milk-climb-donkey |  
+| bip_39_word_dash_8 | visa-lesson-trial-bid-milk-climb-donkey-fame |  
+| bip_39_word_dash_9 | visa-lesson-trial-bid-milk-climb-donkey-fame-shed |  
 | bip_39_word_new_br_1 | visa |  
 | bip_39_word_new_br_10 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group |  
 | bip_39_word_new_br_11 | visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group<br>immense |  
@@ -147,6 +159,18 @@ shed |
 | bip_39_word_space_7 | visa lesson trial bid milk climb donkey |  
 | bip_39_word_space_8 | visa lesson trial bid milk climb donkey fame |  
 | bip_39_word_space_9 | visa lesson trial bid milk climb donkey fame shed |  
+| bip_39_word_underscore_1 | visa |  
+| bip_39_word_underscore_10 | visa_lesson_trial_bid_milk_climb_donkey_fame_shed_group |  
+| bip_39_word_underscore_11 | visa_lesson_trial_bid_milk_climb_donkey_fame_shed_group_immense |  
+| bip_39_word_underscore_12 | visa_lesson_trial_bid_milk_climb_donkey_fame_shed_group_immense_annual |  
+| bip_39_word_underscore_2 | visa_lesson |  
+| bip_39_word_underscore_3 | visa_lesson_trial |  
+| bip_39_word_underscore_4 | visa_lesson_trial_bid |  
+| bip_39_word_underscore_5 | visa_lesson_trial_bid_milk |  
+| bip_39_word_underscore_6 | visa_lesson_trial_bid_milk_climb |  
+| bip_39_word_underscore_7 | visa_lesson_trial_bid_milk_climb_donkey |  
+| bip_39_word_underscore_8 | visa_lesson_trial_bid_milk_climb_donkey_fame |  
+| bip_39_word_underscore_9 | visa_lesson_trial_bid_milk_climb_donkey_fame_shed |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

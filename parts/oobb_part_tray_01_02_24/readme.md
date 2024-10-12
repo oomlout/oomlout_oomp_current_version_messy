@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | adjust |  
+| bip_39_word_dash_10 | adjust-logic-select-hollow-dune-august-artwork-step-movie-keen |  
+| bip_39_word_dash_11 | adjust-logic-select-hollow-dune-august-artwork-step-movie-keen-athlete |  
+| bip_39_word_dash_12 | adjust-logic-select-hollow-dune-august-artwork-step-movie-keen-athlete-amused |  
+| bip_39_word_dash_2 | adjust-logic |  
+| bip_39_word_dash_3 | adjust-logic-select |  
+| bip_39_word_dash_4 | adjust-logic-select-hollow |  
+| bip_39_word_dash_5 | adjust-logic-select-hollow-dune |  
+| bip_39_word_dash_6 | adjust-logic-select-hollow-dune-august |  
+| bip_39_word_dash_7 | adjust-logic-select-hollow-dune-august-artwork |  
+| bip_39_word_dash_8 | adjust-logic-select-hollow-dune-august-artwork-step |  
+| bip_39_word_dash_9 | adjust-logic-select-hollow-dune-august-artwork-step-movie |  
 | bip_39_word_new_br_1 | adjust |  
 | bip_39_word_new_br_10 | adjust<br>logic<br>select<br>hollow<br>dune<br>august<br>artwork<br>step<br>movie<br>keen |  
 | bip_39_word_new_br_11 | adjust<br>logic<br>select<br>hollow<br>dune<br>august<br>artwork<br>step<br>movie<br>keen<br>athlete |  
@@ -147,6 +159,18 @@ movie |
 | bip_39_word_space_7 | adjust logic select hollow dune august artwork |  
 | bip_39_word_space_8 | adjust logic select hollow dune august artwork step |  
 | bip_39_word_space_9 | adjust logic select hollow dune august artwork step movie |  
+| bip_39_word_underscore_1 | adjust |  
+| bip_39_word_underscore_10 | adjust_logic_select_hollow_dune_august_artwork_step_movie_keen |  
+| bip_39_word_underscore_11 | adjust_logic_select_hollow_dune_august_artwork_step_movie_keen_athlete |  
+| bip_39_word_underscore_12 | adjust_logic_select_hollow_dune_august_artwork_step_movie_keen_athlete_amused |  
+| bip_39_word_underscore_2 | adjust_logic |  
+| bip_39_word_underscore_3 | adjust_logic_select |  
+| bip_39_word_underscore_4 | adjust_logic_select_hollow |  
+| bip_39_word_underscore_5 | adjust_logic_select_hollow_dune |  
+| bip_39_word_underscore_6 | adjust_logic_select_hollow_dune_august |  
+| bip_39_word_underscore_7 | adjust_logic_select_hollow_dune_august_artwork |  
+| bip_39_word_underscore_8 | adjust_logic_select_hollow_dune_august_artwork_step |  
+| bip_39_word_underscore_9 | adjust_logic_select_hollow_dune_august_artwork_step_movie |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

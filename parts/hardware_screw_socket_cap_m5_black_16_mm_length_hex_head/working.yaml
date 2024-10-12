@@ -1,3 +1,15 @@
+bip_39_word_dash_1: huge
+bip_39_word_dash_10: huge-soccer-mimic-slight-side-polar-accuse-echo-phone-jar
+bip_39_word_dash_11: huge-soccer-mimic-slight-side-polar-accuse-echo-phone-jar-crucial
+bip_39_word_dash_12: huge-soccer-mimic-slight-side-polar-accuse-echo-phone-jar-crucial-attitude
+bip_39_word_dash_2: huge-soccer
+bip_39_word_dash_3: huge-soccer-mimic
+bip_39_word_dash_4: huge-soccer-mimic-slight
+bip_39_word_dash_5: huge-soccer-mimic-slight-side
+bip_39_word_dash_6: huge-soccer-mimic-slight-side-polar
+bip_39_word_dash_7: huge-soccer-mimic-slight-side-polar-accuse
+bip_39_word_dash_8: huge-soccer-mimic-slight-side-polar-accuse-echo
+bip_39_word_dash_9: huge-soccer-mimic-slight-side-polar-accuse-echo-phone
 bip_39_word_new_br_1: huge
 bip_39_word_new_br_10: huge<br>soccer<br>mimic<br>slight<br>side<br>polar<br>accuse<br>echo<br>phone<br>jar
 bip_39_word_new_br_11: huge<br>soccer<br>mimic<br>slight<br>side<br>polar<br>accuse<br>echo<br>phone<br>jar<br>crucial
@@ -192,6 +204,18 @@ bip_39_word_space_6: huge soccer mimic slight side polar
 bip_39_word_space_7: huge soccer mimic slight side polar accuse
 bip_39_word_space_8: huge soccer mimic slight side polar accuse echo
 bip_39_word_space_9: huge soccer mimic slight side polar accuse echo phone
+bip_39_word_underscore_1: huge
+bip_39_word_underscore_10: huge_soccer_mimic_slight_side_polar_accuse_echo_phone_jar
+bip_39_word_underscore_11: huge_soccer_mimic_slight_side_polar_accuse_echo_phone_jar_crucial
+bip_39_word_underscore_12: huge_soccer_mimic_slight_side_polar_accuse_echo_phone_jar_crucial_attitude
+bip_39_word_underscore_2: huge_soccer
+bip_39_word_underscore_3: huge_soccer_mimic
+bip_39_word_underscore_4: huge_soccer_mimic_slight
+bip_39_word_underscore_5: huge_soccer_mimic_slight_side
+bip_39_word_underscore_6: huge_soccer_mimic_slight_side_polar
+bip_39_word_underscore_7: huge_soccer_mimic_slight_side_polar_accuse
+bip_39_word_underscore_8: huge_soccer_mimic_slight_side_polar_accuse_echo
+bip_39_word_underscore_9: huge_soccer_mimic_slight_side_polar_accuse_echo_phone
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

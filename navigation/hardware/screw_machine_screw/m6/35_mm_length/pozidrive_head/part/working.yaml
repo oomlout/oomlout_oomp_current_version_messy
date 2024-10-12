@@ -1,3 +1,15 @@
+bip_39_word_dash_1: casino
+bip_39_word_dash_10: casino-spider-cable-side-raven-sting-mean-arrive-bargain-tomorrow
+bip_39_word_dash_11: casino-spider-cable-side-raven-sting-mean-arrive-bargain-tomorrow-library
+bip_39_word_dash_12: casino-spider-cable-side-raven-sting-mean-arrive-bargain-tomorrow-library-amazing
+bip_39_word_dash_2: casino-spider
+bip_39_word_dash_3: casino-spider-cable
+bip_39_word_dash_4: casino-spider-cable-side
+bip_39_word_dash_5: casino-spider-cable-side-raven
+bip_39_word_dash_6: casino-spider-cable-side-raven-sting
+bip_39_word_dash_7: casino-spider-cable-side-raven-sting-mean
+bip_39_word_dash_8: casino-spider-cable-side-raven-sting-mean-arrive
+bip_39_word_dash_9: casino-spider-cable-side-raven-sting-mean-arrive-bargain
 bip_39_word_new_br_1: casino
 bip_39_word_new_br_10: casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive<br>bargain<br>tomorrow
 bip_39_word_new_br_11: casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive<br>bargain<br>tomorrow<br>library
@@ -193,6 +205,18 @@ bip_39_word_space_6: casino spider cable side raven sting
 bip_39_word_space_7: casino spider cable side raven sting mean
 bip_39_word_space_8: casino spider cable side raven sting mean arrive
 bip_39_word_space_9: casino spider cable side raven sting mean arrive bargain
+bip_39_word_underscore_1: casino
+bip_39_word_underscore_10: casino_spider_cable_side_raven_sting_mean_arrive_bargain_tomorrow
+bip_39_word_underscore_11: casino_spider_cable_side_raven_sting_mean_arrive_bargain_tomorrow_library
+bip_39_word_underscore_12: casino_spider_cable_side_raven_sting_mean_arrive_bargain_tomorrow_library_amazing
+bip_39_word_underscore_2: casino_spider
+bip_39_word_underscore_3: casino_spider_cable
+bip_39_word_underscore_4: casino_spider_cable_side
+bip_39_word_underscore_5: casino_spider_cable_side_raven
+bip_39_word_underscore_6: casino_spider_cable_side_raven_sting
+bip_39_word_underscore_7: casino_spider_cable_side_raven_sting_mean
+bip_39_word_underscore_8: casino_spider_cable_side_raven_sting_mean_arrive
+bip_39_word_underscore_9: casino_spider_cable_side_raven_sting_mean_arrive_bargain
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

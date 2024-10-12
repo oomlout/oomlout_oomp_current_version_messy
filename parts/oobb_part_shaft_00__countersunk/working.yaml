@@ -1,3 +1,15 @@
+bip_39_word_dash_1: engage
+bip_39_word_dash_10: engage-evidence-strong-credit-test-agree-rescue-skull-base-member
+bip_39_word_dash_11: engage-evidence-strong-credit-test-agree-rescue-skull-base-member-else
+bip_39_word_dash_12: engage-evidence-strong-credit-test-agree-rescue-skull-base-member-else-aisle
+bip_39_word_dash_2: engage-evidence
+bip_39_word_dash_3: engage-evidence-strong
+bip_39_word_dash_4: engage-evidence-strong-credit
+bip_39_word_dash_5: engage-evidence-strong-credit-test
+bip_39_word_dash_6: engage-evidence-strong-credit-test-agree
+bip_39_word_dash_7: engage-evidence-strong-credit-test-agree-rescue
+bip_39_word_dash_8: engage-evidence-strong-credit-test-agree-rescue-skull
+bip_39_word_dash_9: engage-evidence-strong-credit-test-agree-rescue-skull-base
 bip_39_word_new_br_1: engage
 bip_39_word_new_br_10: engage<br>evidence<br>strong<br>credit<br>test<br>agree<br>rescue<br>skull<br>base<br>member
 bip_39_word_new_br_11: engage<br>evidence<br>strong<br>credit<br>test<br>agree<br>rescue<br>skull<br>base<br>member<br>else
@@ -193,6 +205,18 @@ bip_39_word_space_6: engage evidence strong credit test agree
 bip_39_word_space_7: engage evidence strong credit test agree rescue
 bip_39_word_space_8: engage evidence strong credit test agree rescue skull
 bip_39_word_space_9: engage evidence strong credit test agree rescue skull base
+bip_39_word_underscore_1: engage
+bip_39_word_underscore_10: engage_evidence_strong_credit_test_agree_rescue_skull_base_member
+bip_39_word_underscore_11: engage_evidence_strong_credit_test_agree_rescue_skull_base_member_else
+bip_39_word_underscore_12: engage_evidence_strong_credit_test_agree_rescue_skull_base_member_else_aisle
+bip_39_word_underscore_2: engage_evidence
+bip_39_word_underscore_3: engage_evidence_strong
+bip_39_word_underscore_4: engage_evidence_strong_credit
+bip_39_word_underscore_5: engage_evidence_strong_credit_test
+bip_39_word_underscore_6: engage_evidence_strong_credit_test_agree
+bip_39_word_underscore_7: engage_evidence_strong_credit_test_agree_rescue
+bip_39_word_underscore_8: engage_evidence_strong_credit_test_agree_rescue_skull
+bip_39_word_underscore_9: engage_evidence_strong_credit_test_agree_rescue_skull_base
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cabbage |  
+| bip_39_word_dash_10 | cabbage-twice-advice-stay-fall-taxi-fashion-glass-suspect-blame |  
+| bip_39_word_dash_11 | cabbage-twice-advice-stay-fall-taxi-fashion-glass-suspect-blame-survey |  
+| bip_39_word_dash_12 | cabbage-twice-advice-stay-fall-taxi-fashion-glass-suspect-blame-survey-addict |  
+| bip_39_word_dash_2 | cabbage-twice |  
+| bip_39_word_dash_3 | cabbage-twice-advice |  
+| bip_39_word_dash_4 | cabbage-twice-advice-stay |  
+| bip_39_word_dash_5 | cabbage-twice-advice-stay-fall |  
+| bip_39_word_dash_6 | cabbage-twice-advice-stay-fall-taxi |  
+| bip_39_word_dash_7 | cabbage-twice-advice-stay-fall-taxi-fashion |  
+| bip_39_word_dash_8 | cabbage-twice-advice-stay-fall-taxi-fashion-glass |  
+| bip_39_word_dash_9 | cabbage-twice-advice-stay-fall-taxi-fashion-glass-suspect |  
 | bip_39_word_new_br_1 | cabbage |  
 | bip_39_word_new_br_10 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass<br>suspect<br>blame |  
 | bip_39_word_new_br_11 | cabbage<br>twice<br>advice<br>stay<br>fall<br>taxi<br>fashion<br>glass<br>suspect<br>blame<br>survey |  
@@ -147,6 +159,18 @@ suspect |
 | bip_39_word_space_7 | cabbage twice advice stay fall taxi fashion |  
 | bip_39_word_space_8 | cabbage twice advice stay fall taxi fashion glass |  
 | bip_39_word_space_9 | cabbage twice advice stay fall taxi fashion glass suspect |  
+| bip_39_word_underscore_1 | cabbage |  
+| bip_39_word_underscore_10 | cabbage_twice_advice_stay_fall_taxi_fashion_glass_suspect_blame |  
+| bip_39_word_underscore_11 | cabbage_twice_advice_stay_fall_taxi_fashion_glass_suspect_blame_survey |  
+| bip_39_word_underscore_12 | cabbage_twice_advice_stay_fall_taxi_fashion_glass_suspect_blame_survey_addict |  
+| bip_39_word_underscore_2 | cabbage_twice |  
+| bip_39_word_underscore_3 | cabbage_twice_advice |  
+| bip_39_word_underscore_4 | cabbage_twice_advice_stay |  
+| bip_39_word_underscore_5 | cabbage_twice_advice_stay_fall |  
+| bip_39_word_underscore_6 | cabbage_twice_advice_stay_fall_taxi |  
+| bip_39_word_underscore_7 | cabbage_twice_advice_stay_fall_taxi_fashion |  
+| bip_39_word_underscore_8 | cabbage_twice_advice_stay_fall_taxi_fashion_glass |  
+| bip_39_word_underscore_9 | cabbage_twice_advice_stay_fall_taxi_fashion_glass_suspect |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

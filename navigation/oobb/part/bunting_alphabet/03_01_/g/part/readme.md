@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | supreme |  
+| bip_39_word_dash_10 | supreme-material-test-judge-spot-manage-water-version-tattoo-another |  
+| bip_39_word_dash_11 | supreme-material-test-judge-spot-manage-water-version-tattoo-another-mistake |  
+| bip_39_word_dash_12 | supreme-material-test-judge-spot-manage-water-version-tattoo-another-mistake-address |  
+| bip_39_word_dash_2 | supreme-material |  
+| bip_39_word_dash_3 | supreme-material-test |  
+| bip_39_word_dash_4 | supreme-material-test-judge |  
+| bip_39_word_dash_5 | supreme-material-test-judge-spot |  
+| bip_39_word_dash_6 | supreme-material-test-judge-spot-manage |  
+| bip_39_word_dash_7 | supreme-material-test-judge-spot-manage-water |  
+| bip_39_word_dash_8 | supreme-material-test-judge-spot-manage-water-version |  
+| bip_39_word_dash_9 | supreme-material-test-judge-spot-manage-water-version-tattoo |  
 | bip_39_word_new_br_1 | supreme |  
 | bip_39_word_new_br_10 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another |  
 | bip_39_word_new_br_11 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another<br>mistake |  
@@ -147,6 +159,18 @@ tattoo |
 | bip_39_word_space_7 | supreme material test judge spot manage water |  
 | bip_39_word_space_8 | supreme material test judge spot manage water version |  
 | bip_39_word_space_9 | supreme material test judge spot manage water version tattoo |  
+| bip_39_word_underscore_1 | supreme |  
+| bip_39_word_underscore_10 | supreme_material_test_judge_spot_manage_water_version_tattoo_another |  
+| bip_39_word_underscore_11 | supreme_material_test_judge_spot_manage_water_version_tattoo_another_mistake |  
+| bip_39_word_underscore_12 | supreme_material_test_judge_spot_manage_water_version_tattoo_another_mistake_address |  
+| bip_39_word_underscore_2 | supreme_material |  
+| bip_39_word_underscore_3 | supreme_material_test |  
+| bip_39_word_underscore_4 | supreme_material_test_judge |  
+| bip_39_word_underscore_5 | supreme_material_test_judge_spot |  
+| bip_39_word_underscore_6 | supreme_material_test_judge_spot_manage |  
+| bip_39_word_underscore_7 | supreme_material_test_judge_spot_manage_water |  
+| bip_39_word_underscore_8 | supreme_material_test_judge_spot_manage_water_version |  
+| bip_39_word_underscore_9 | supreme_material_test_judge_spot_manage_water_version_tattoo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

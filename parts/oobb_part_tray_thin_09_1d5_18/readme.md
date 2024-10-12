@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | number |  
+| bip_39_word_dash_10 | number-supply-sound-outdoor-used-rifle-rack-feel-manage-sudden |  
+| bip_39_word_dash_11 | number-supply-sound-outdoor-used-rifle-rack-feel-manage-sudden-priority |  
+| bip_39_word_dash_12 | number-supply-sound-outdoor-used-rifle-rack-feel-manage-sudden-priority-attitude |  
+| bip_39_word_dash_2 | number-supply |  
+| bip_39_word_dash_3 | number-supply-sound |  
+| bip_39_word_dash_4 | number-supply-sound-outdoor |  
+| bip_39_word_dash_5 | number-supply-sound-outdoor-used |  
+| bip_39_word_dash_6 | number-supply-sound-outdoor-used-rifle |  
+| bip_39_word_dash_7 | number-supply-sound-outdoor-used-rifle-rack |  
+| bip_39_word_dash_8 | number-supply-sound-outdoor-used-rifle-rack-feel |  
+| bip_39_word_dash_9 | number-supply-sound-outdoor-used-rifle-rack-feel-manage |  
 | bip_39_word_new_br_1 | number |  
 | bip_39_word_new_br_10 | number<br>supply<br>sound<br>outdoor<br>used<br>rifle<br>rack<br>feel<br>manage<br>sudden |  
 | bip_39_word_new_br_11 | number<br>supply<br>sound<br>outdoor<br>used<br>rifle<br>rack<br>feel<br>manage<br>sudden<br>priority |  
@@ -147,6 +159,18 @@ manage |
 | bip_39_word_space_7 | number supply sound outdoor used rifle rack |  
 | bip_39_word_space_8 | number supply sound outdoor used rifle rack feel |  
 | bip_39_word_space_9 | number supply sound outdoor used rifle rack feel manage |  
+| bip_39_word_underscore_1 | number |  
+| bip_39_word_underscore_10 | number_supply_sound_outdoor_used_rifle_rack_feel_manage_sudden |  
+| bip_39_word_underscore_11 | number_supply_sound_outdoor_used_rifle_rack_feel_manage_sudden_priority |  
+| bip_39_word_underscore_12 | number_supply_sound_outdoor_used_rifle_rack_feel_manage_sudden_priority_attitude |  
+| bip_39_word_underscore_2 | number_supply |  
+| bip_39_word_underscore_3 | number_supply_sound |  
+| bip_39_word_underscore_4 | number_supply_sound_outdoor |  
+| bip_39_word_underscore_5 | number_supply_sound_outdoor_used |  
+| bip_39_word_underscore_6 | number_supply_sound_outdoor_used_rifle |  
+| bip_39_word_underscore_7 | number_supply_sound_outdoor_used_rifle_rack |  
+| bip_39_word_underscore_8 | number_supply_sound_outdoor_used_rifle_rack_feel |  
+| bip_39_word_underscore_9 | number_supply_sound_outdoor_used_rifle_rack_feel_manage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | february |  
+| bip_39_word_dash_10 | february-explain-remove-witness-chair-domain-air-still-cook-market |  
+| bip_39_word_dash_11 | february-explain-remove-witness-chair-domain-air-still-cook-market-drink |  
+| bip_39_word_dash_12 | february-explain-remove-witness-chair-domain-air-still-cook-market-drink-assault |  
+| bip_39_word_dash_2 | february-explain |  
+| bip_39_word_dash_3 | february-explain-remove |  
+| bip_39_word_dash_4 | february-explain-remove-witness |  
+| bip_39_word_dash_5 | february-explain-remove-witness-chair |  
+| bip_39_word_dash_6 | february-explain-remove-witness-chair-domain |  
+| bip_39_word_dash_7 | february-explain-remove-witness-chair-domain-air |  
+| bip_39_word_dash_8 | february-explain-remove-witness-chair-domain-air-still |  
+| bip_39_word_dash_9 | february-explain-remove-witness-chair-domain-air-still-cook |  
 | bip_39_word_new_br_1 | february |  
 | bip_39_word_new_br_10 | february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still<br>cook<br>market |  
 | bip_39_word_new_br_11 | february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still<br>cook<br>market<br>drink |  
@@ -147,6 +159,18 @@ cook |
 | bip_39_word_space_7 | february explain remove witness chair domain air |  
 | bip_39_word_space_8 | february explain remove witness chair domain air still |  
 | bip_39_word_space_9 | february explain remove witness chair domain air still cook |  
+| bip_39_word_underscore_1 | february |  
+| bip_39_word_underscore_10 | february_explain_remove_witness_chair_domain_air_still_cook_market |  
+| bip_39_word_underscore_11 | february_explain_remove_witness_chair_domain_air_still_cook_market_drink |  
+| bip_39_word_underscore_12 | february_explain_remove_witness_chair_domain_air_still_cook_market_drink_assault |  
+| bip_39_word_underscore_2 | february_explain |  
+| bip_39_word_underscore_3 | february_explain_remove |  
+| bip_39_word_underscore_4 | february_explain_remove_witness |  
+| bip_39_word_underscore_5 | february_explain_remove_witness_chair |  
+| bip_39_word_underscore_6 | february_explain_remove_witness_chair_domain |  
+| bip_39_word_underscore_7 | february_explain_remove_witness_chair_domain_air |  
+| bip_39_word_underscore_8 | february_explain_remove_witness_chair_domain_air_still |  
+| bip_39_word_underscore_9 | february_explain_remove_witness_chair_domain_air_still_cook |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

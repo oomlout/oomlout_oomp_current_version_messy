@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bacon |  
+| bip_39_word_dash_10 | bacon-wrong-remain-slogan-man-small-order-beach-certain-diamond |  
+| bip_39_word_dash_11 | bacon-wrong-remain-slogan-man-small-order-beach-certain-diamond-rifle |  
+| bip_39_word_dash_12 | bacon-wrong-remain-slogan-man-small-order-beach-certain-diamond-rifle-alone |  
+| bip_39_word_dash_2 | bacon-wrong |  
+| bip_39_word_dash_3 | bacon-wrong-remain |  
+| bip_39_word_dash_4 | bacon-wrong-remain-slogan |  
+| bip_39_word_dash_5 | bacon-wrong-remain-slogan-man |  
+| bip_39_word_dash_6 | bacon-wrong-remain-slogan-man-small |  
+| bip_39_word_dash_7 | bacon-wrong-remain-slogan-man-small-order |  
+| bip_39_word_dash_8 | bacon-wrong-remain-slogan-man-small-order-beach |  
+| bip_39_word_dash_9 | bacon-wrong-remain-slogan-man-small-order-beach-certain |  
 | bip_39_word_new_br_1 | bacon |  
 | bip_39_word_new_br_10 | bacon<br>wrong<br>remain<br>slogan<br>man<br>small<br>order<br>beach<br>certain<br>diamond |  
 | bip_39_word_new_br_11 | bacon<br>wrong<br>remain<br>slogan<br>man<br>small<br>order<br>beach<br>certain<br>diamond<br>rifle |  
@@ -147,6 +159,18 @@ certain |
 | bip_39_word_space_7 | bacon wrong remain slogan man small order |  
 | bip_39_word_space_8 | bacon wrong remain slogan man small order beach |  
 | bip_39_word_space_9 | bacon wrong remain slogan man small order beach certain |  
+| bip_39_word_underscore_1 | bacon |  
+| bip_39_word_underscore_10 | bacon_wrong_remain_slogan_man_small_order_beach_certain_diamond |  
+| bip_39_word_underscore_11 | bacon_wrong_remain_slogan_man_small_order_beach_certain_diamond_rifle |  
+| bip_39_word_underscore_12 | bacon_wrong_remain_slogan_man_small_order_beach_certain_diamond_rifle_alone |  
+| bip_39_word_underscore_2 | bacon_wrong |  
+| bip_39_word_underscore_3 | bacon_wrong_remain |  
+| bip_39_word_underscore_4 | bacon_wrong_remain_slogan |  
+| bip_39_word_underscore_5 | bacon_wrong_remain_slogan_man |  
+| bip_39_word_underscore_6 | bacon_wrong_remain_slogan_man_small |  
+| bip_39_word_underscore_7 | bacon_wrong_remain_slogan_man_small_order |  
+| bip_39_word_underscore_8 | bacon_wrong_remain_slogan_man_small_order_beach |  
+| bip_39_word_underscore_9 | bacon_wrong_remain_slogan_man_small_order_beach_certain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | february |  
+| bip_39_word_dash_10 | february-nice-field-fix-plunge-mango-check-bargain-dish-jealous |  
+| bip_39_word_dash_11 | february-nice-field-fix-plunge-mango-check-bargain-dish-jealous-crash |  
+| bip_39_word_dash_12 | february-nice-field-fix-plunge-mango-check-bargain-dish-jealous-crash-athlete |  
+| bip_39_word_dash_2 | february-nice |  
+| bip_39_word_dash_3 | february-nice-field |  
+| bip_39_word_dash_4 | february-nice-field-fix |  
+| bip_39_word_dash_5 | february-nice-field-fix-plunge |  
+| bip_39_word_dash_6 | february-nice-field-fix-plunge-mango |  
+| bip_39_word_dash_7 | february-nice-field-fix-plunge-mango-check |  
+| bip_39_word_dash_8 | february-nice-field-fix-plunge-mango-check-bargain |  
+| bip_39_word_dash_9 | february-nice-field-fix-plunge-mango-check-bargain-dish |  
 | bip_39_word_new_br_1 | february |  
 | bip_39_word_new_br_10 | february<br>nice<br>field<br>fix<br>plunge<br>mango<br>check<br>bargain<br>dish<br>jealous |  
 | bip_39_word_new_br_11 | february<br>nice<br>field<br>fix<br>plunge<br>mango<br>check<br>bargain<br>dish<br>jealous<br>crash |  
@@ -147,6 +159,18 @@ dish |
 | bip_39_word_space_7 | february nice field fix plunge mango check |  
 | bip_39_word_space_8 | february nice field fix plunge mango check bargain |  
 | bip_39_word_space_9 | february nice field fix plunge mango check bargain dish |  
+| bip_39_word_underscore_1 | february |  
+| bip_39_word_underscore_10 | february_nice_field_fix_plunge_mango_check_bargain_dish_jealous |  
+| bip_39_word_underscore_11 | february_nice_field_fix_plunge_mango_check_bargain_dish_jealous_crash |  
+| bip_39_word_underscore_12 | february_nice_field_fix_plunge_mango_check_bargain_dish_jealous_crash_athlete |  
+| bip_39_word_underscore_2 | february_nice |  
+| bip_39_word_underscore_3 | february_nice_field |  
+| bip_39_word_underscore_4 | february_nice_field_fix |  
+| bip_39_word_underscore_5 | february_nice_field_fix_plunge |  
+| bip_39_word_underscore_6 | february_nice_field_fix_plunge_mango |  
+| bip_39_word_underscore_7 | february_nice_field_fix_plunge_mango_check |  
+| bip_39_word_underscore_8 | february_nice_field_fix_plunge_mango_check_bargain |  
+| bip_39_word_underscore_9 | february_nice_field_fix_plunge_mango_check_bargain_dish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

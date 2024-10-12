@@ -1,3 +1,15 @@
+bip_39_word_dash_1: manual
+bip_39_word_dash_10: manual-order-assault-amateur-filter-park-sister-drink-gentle-push
+bip_39_word_dash_11: manual-order-assault-amateur-filter-park-sister-drink-gentle-push-rhythm
+bip_39_word_dash_12: manual-order-assault-amateur-filter-park-sister-drink-gentle-push-rhythm-address
+bip_39_word_dash_2: manual-order
+bip_39_word_dash_3: manual-order-assault
+bip_39_word_dash_4: manual-order-assault-amateur
+bip_39_word_dash_5: manual-order-assault-amateur-filter
+bip_39_word_dash_6: manual-order-assault-amateur-filter-park
+bip_39_word_dash_7: manual-order-assault-amateur-filter-park-sister
+bip_39_word_dash_8: manual-order-assault-amateur-filter-park-sister-drink
+bip_39_word_dash_9: manual-order-assault-amateur-filter-park-sister-drink-gentle
 bip_39_word_new_br_1: manual
 bip_39_word_new_br_10: manual<br>order<br>assault<br>amateur<br>filter<br>park<br>sister<br>drink<br>gentle<br>push
 bip_39_word_new_br_11: manual<br>order<br>assault<br>amateur<br>filter<br>park<br>sister<br>drink<br>gentle<br>push<br>rhythm
@@ -194,6 +206,18 @@ bip_39_word_space_6: manual order assault amateur filter park
 bip_39_word_space_7: manual order assault amateur filter park sister
 bip_39_word_space_8: manual order assault amateur filter park sister drink
 bip_39_word_space_9: manual order assault amateur filter park sister drink gentle
+bip_39_word_underscore_1: manual
+bip_39_word_underscore_10: manual_order_assault_amateur_filter_park_sister_drink_gentle_push
+bip_39_word_underscore_11: manual_order_assault_amateur_filter_park_sister_drink_gentle_push_rhythm
+bip_39_word_underscore_12: manual_order_assault_amateur_filter_park_sister_drink_gentle_push_rhythm_address
+bip_39_word_underscore_2: manual_order
+bip_39_word_underscore_3: manual_order_assault
+bip_39_word_underscore_4: manual_order_assault_amateur
+bip_39_word_underscore_5: manual_order_assault_amateur_filter
+bip_39_word_underscore_6: manual_order_assault_amateur_filter_park
+bip_39_word_underscore_7: manual_order_assault_amateur_filter_park_sister
+bip_39_word_underscore_8: manual_order_assault_amateur_filter_park_sister_drink
+bip_39_word_underscore_9: manual_order_assault_amateur_filter_park_sister_drink_gentle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

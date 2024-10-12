@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pilot
+bip_39_word_dash_10: pilot-front-evoke-waste-jelly-violin-ahead-toast-citizen-dry
+bip_39_word_dash_11: pilot-front-evoke-waste-jelly-violin-ahead-toast-citizen-dry-confirm
+bip_39_word_dash_12: pilot-front-evoke-waste-jelly-violin-ahead-toast-citizen-dry-confirm-add
+bip_39_word_dash_2: pilot-front
+bip_39_word_dash_3: pilot-front-evoke
+bip_39_word_dash_4: pilot-front-evoke-waste
+bip_39_word_dash_5: pilot-front-evoke-waste-jelly
+bip_39_word_dash_6: pilot-front-evoke-waste-jelly-violin
+bip_39_word_dash_7: pilot-front-evoke-waste-jelly-violin-ahead
+bip_39_word_dash_8: pilot-front-evoke-waste-jelly-violin-ahead-toast
+bip_39_word_dash_9: pilot-front-evoke-waste-jelly-violin-ahead-toast-citizen
 bip_39_word_new_br_1: pilot
 bip_39_word_new_br_10: pilot<br>front<br>evoke<br>waste<br>jelly<br>violin<br>ahead<br>toast<br>citizen<br>dry
 bip_39_word_new_br_11: pilot<br>front<br>evoke<br>waste<br>jelly<br>violin<br>ahead<br>toast<br>citizen<br>dry<br>confirm
@@ -193,6 +205,18 @@ bip_39_word_space_6: pilot front evoke waste jelly violin
 bip_39_word_space_7: pilot front evoke waste jelly violin ahead
 bip_39_word_space_8: pilot front evoke waste jelly violin ahead toast
 bip_39_word_space_9: pilot front evoke waste jelly violin ahead toast citizen
+bip_39_word_underscore_1: pilot
+bip_39_word_underscore_10: pilot_front_evoke_waste_jelly_violin_ahead_toast_citizen_dry
+bip_39_word_underscore_11: pilot_front_evoke_waste_jelly_violin_ahead_toast_citizen_dry_confirm
+bip_39_word_underscore_12: pilot_front_evoke_waste_jelly_violin_ahead_toast_citizen_dry_confirm_add
+bip_39_word_underscore_2: pilot_front
+bip_39_word_underscore_3: pilot_front_evoke
+bip_39_word_underscore_4: pilot_front_evoke_waste
+bip_39_word_underscore_5: pilot_front_evoke_waste_jelly
+bip_39_word_underscore_6: pilot_front_evoke_waste_jelly_violin
+bip_39_word_underscore_7: pilot_front_evoke_waste_jelly_violin_ahead
+bip_39_word_underscore_8: pilot_front_evoke_waste_jelly_violin_ahead_toast
+bip_39_word_underscore_9: pilot_front_evoke_waste_jelly_violin_ahead_toast_citizen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

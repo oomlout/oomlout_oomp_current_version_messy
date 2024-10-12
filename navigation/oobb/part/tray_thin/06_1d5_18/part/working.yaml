@@ -1,3 +1,15 @@
+bip_39_word_dash_1: seat
+bip_39_word_dash_10: seat-doll-smart-dream-venture-snap-myself-lawsuit-hundred-aunt
+bip_39_word_dash_11: seat-doll-smart-dream-venture-snap-myself-lawsuit-hundred-aunt-south
+bip_39_word_dash_12: seat-doll-smart-dream-venture-snap-myself-lawsuit-hundred-aunt-south-art
+bip_39_word_dash_2: seat-doll
+bip_39_word_dash_3: seat-doll-smart
+bip_39_word_dash_4: seat-doll-smart-dream
+bip_39_word_dash_5: seat-doll-smart-dream-venture
+bip_39_word_dash_6: seat-doll-smart-dream-venture-snap
+bip_39_word_dash_7: seat-doll-smart-dream-venture-snap-myself
+bip_39_word_dash_8: seat-doll-smart-dream-venture-snap-myself-lawsuit
+bip_39_word_dash_9: seat-doll-smart-dream-venture-snap-myself-lawsuit-hundred
 bip_39_word_new_br_1: seat
 bip_39_word_new_br_10: seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt
 bip_39_word_new_br_11: seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt<br>south
@@ -193,6 +205,18 @@ bip_39_word_space_6: seat doll smart dream venture snap
 bip_39_word_space_7: seat doll smart dream venture snap myself
 bip_39_word_space_8: seat doll smart dream venture snap myself lawsuit
 bip_39_word_space_9: seat doll smart dream venture snap myself lawsuit hundred
+bip_39_word_underscore_1: seat
+bip_39_word_underscore_10: seat_doll_smart_dream_venture_snap_myself_lawsuit_hundred_aunt
+bip_39_word_underscore_11: seat_doll_smart_dream_venture_snap_myself_lawsuit_hundred_aunt_south
+bip_39_word_underscore_12: seat_doll_smart_dream_venture_snap_myself_lawsuit_hundred_aunt_south_art
+bip_39_word_underscore_2: seat_doll
+bip_39_word_underscore_3: seat_doll_smart
+bip_39_word_underscore_4: seat_doll_smart_dream
+bip_39_word_underscore_5: seat_doll_smart_dream_venture
+bip_39_word_underscore_6: seat_doll_smart_dream_venture_snap
+bip_39_word_underscore_7: seat_doll_smart_dream_venture_snap_myself
+bip_39_word_underscore_8: seat_doll_smart_dream_venture_snap_myself_lawsuit
+bip_39_word_underscore_9: seat_doll_smart_dream_venture_snap_myself_lawsuit_hundred
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

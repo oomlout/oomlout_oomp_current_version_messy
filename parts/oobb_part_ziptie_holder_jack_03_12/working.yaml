@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deny
+bip_39_word_dash_10: deny-ivory-grief-deer-sock-picnic-animal-slight-space-frog
+bip_39_word_dash_11: deny-ivory-grief-deer-sock-picnic-animal-slight-space-frog-leaf
+bip_39_word_dash_12: deny-ivory-grief-deer-sock-picnic-animal-slight-space-frog-leaf-april
+bip_39_word_dash_2: deny-ivory
+bip_39_word_dash_3: deny-ivory-grief
+bip_39_word_dash_4: deny-ivory-grief-deer
+bip_39_word_dash_5: deny-ivory-grief-deer-sock
+bip_39_word_dash_6: deny-ivory-grief-deer-sock-picnic
+bip_39_word_dash_7: deny-ivory-grief-deer-sock-picnic-animal
+bip_39_word_dash_8: deny-ivory-grief-deer-sock-picnic-animal-slight
+bip_39_word_dash_9: deny-ivory-grief-deer-sock-picnic-animal-slight-space
 bip_39_word_new_br_1: deny
 bip_39_word_new_br_10: deny<br>ivory<br>grief<br>deer<br>sock<br>picnic<br>animal<br>slight<br>space<br>frog
 bip_39_word_new_br_11: deny<br>ivory<br>grief<br>deer<br>sock<br>picnic<br>animal<br>slight<br>space<br>frog<br>leaf
@@ -192,6 +204,18 @@ bip_39_word_space_6: deny ivory grief deer sock picnic
 bip_39_word_space_7: deny ivory grief deer sock picnic animal
 bip_39_word_space_8: deny ivory grief deer sock picnic animal slight
 bip_39_word_space_9: deny ivory grief deer sock picnic animal slight space
+bip_39_word_underscore_1: deny
+bip_39_word_underscore_10: deny_ivory_grief_deer_sock_picnic_animal_slight_space_frog
+bip_39_word_underscore_11: deny_ivory_grief_deer_sock_picnic_animal_slight_space_frog_leaf
+bip_39_word_underscore_12: deny_ivory_grief_deer_sock_picnic_animal_slight_space_frog_leaf_april
+bip_39_word_underscore_2: deny_ivory
+bip_39_word_underscore_3: deny_ivory_grief
+bip_39_word_underscore_4: deny_ivory_grief_deer
+bip_39_word_underscore_5: deny_ivory_grief_deer_sock
+bip_39_word_underscore_6: deny_ivory_grief_deer_sock_picnic
+bip_39_word_underscore_7: deny_ivory_grief_deer_sock_picnic_animal
+bip_39_word_underscore_8: deny_ivory_grief_deer_sock_picnic_animal_slight
+bip_39_word_underscore_9: deny_ivory_grief_deer_sock_picnic_animal_slight_space
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ridge |  
+| bip_39_word_dash_10 | ridge-hover-draft-giggle-step-pear-float-unit-brother-wild |  
+| bip_39_word_dash_11 | ridge-hover-draft-giggle-step-pear-float-unit-brother-wild-clap |  
+| bip_39_word_dash_12 | ridge-hover-draft-giggle-step-pear-float-unit-brother-wild-clap-army |  
+| bip_39_word_dash_2 | ridge-hover |  
+| bip_39_word_dash_3 | ridge-hover-draft |  
+| bip_39_word_dash_4 | ridge-hover-draft-giggle |  
+| bip_39_word_dash_5 | ridge-hover-draft-giggle-step |  
+| bip_39_word_dash_6 | ridge-hover-draft-giggle-step-pear |  
+| bip_39_word_dash_7 | ridge-hover-draft-giggle-step-pear-float |  
+| bip_39_word_dash_8 | ridge-hover-draft-giggle-step-pear-float-unit |  
+| bip_39_word_dash_9 | ridge-hover-draft-giggle-step-pear-float-unit-brother |  
 | bip_39_word_new_br_1 | ridge |  
 | bip_39_word_new_br_10 | ridge<br>hover<br>draft<br>giggle<br>step<br>pear<br>float<br>unit<br>brother<br>wild |  
 | bip_39_word_new_br_11 | ridge<br>hover<br>draft<br>giggle<br>step<br>pear<br>float<br>unit<br>brother<br>wild<br>clap |  
@@ -147,6 +159,18 @@ brother |
 | bip_39_word_space_7 | ridge hover draft giggle step pear float |  
 | bip_39_word_space_8 | ridge hover draft giggle step pear float unit |  
 | bip_39_word_space_9 | ridge hover draft giggle step pear float unit brother |  
+| bip_39_word_underscore_1 | ridge |  
+| bip_39_word_underscore_10 | ridge_hover_draft_giggle_step_pear_float_unit_brother_wild |  
+| bip_39_word_underscore_11 | ridge_hover_draft_giggle_step_pear_float_unit_brother_wild_clap |  
+| bip_39_word_underscore_12 | ridge_hover_draft_giggle_step_pear_float_unit_brother_wild_clap_army |  
+| bip_39_word_underscore_2 | ridge_hover |  
+| bip_39_word_underscore_3 | ridge_hover_draft |  
+| bip_39_word_underscore_4 | ridge_hover_draft_giggle |  
+| bip_39_word_underscore_5 | ridge_hover_draft_giggle_step |  
+| bip_39_word_underscore_6 | ridge_hover_draft_giggle_step_pear |  
+| bip_39_word_underscore_7 | ridge_hover_draft_giggle_step_pear_float |  
+| bip_39_word_underscore_8 | ridge_hover_draft_giggle_step_pear_float_unit |  
+| bip_39_word_underscore_9 | ridge_hover_draft_giggle_step_pear_float_unit_brother |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

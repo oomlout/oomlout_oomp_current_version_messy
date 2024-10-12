@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | few |  
+| bip_39_word_dash_10 | few-scale-capable-emotion-pet-van-indoor-toast-fix-sister |  
+| bip_39_word_dash_11 | few-scale-capable-emotion-pet-van-indoor-toast-fix-sister-grab |  
+| bip_39_word_dash_12 | few-scale-capable-emotion-pet-van-indoor-toast-fix-sister-grab-apology |  
+| bip_39_word_dash_2 | few-scale |  
+| bip_39_word_dash_3 | few-scale-capable |  
+| bip_39_word_dash_4 | few-scale-capable-emotion |  
+| bip_39_word_dash_5 | few-scale-capable-emotion-pet |  
+| bip_39_word_dash_6 | few-scale-capable-emotion-pet-van |  
+| bip_39_word_dash_7 | few-scale-capable-emotion-pet-van-indoor |  
+| bip_39_word_dash_8 | few-scale-capable-emotion-pet-van-indoor-toast |  
+| bip_39_word_dash_9 | few-scale-capable-emotion-pet-van-indoor-toast-fix |  
 | bip_39_word_new_br_1 | few |  
 | bip_39_word_new_br_10 | few<br>scale<br>capable<br>emotion<br>pet<br>van<br>indoor<br>toast<br>fix<br>sister |  
 | bip_39_word_new_br_11 | few<br>scale<br>capable<br>emotion<br>pet<br>van<br>indoor<br>toast<br>fix<br>sister<br>grab |  
@@ -147,6 +159,18 @@ fix |
 | bip_39_word_space_7 | few scale capable emotion pet van indoor |  
 | bip_39_word_space_8 | few scale capable emotion pet van indoor toast |  
 | bip_39_word_space_9 | few scale capable emotion pet van indoor toast fix |  
+| bip_39_word_underscore_1 | few |  
+| bip_39_word_underscore_10 | few_scale_capable_emotion_pet_van_indoor_toast_fix_sister |  
+| bip_39_word_underscore_11 | few_scale_capable_emotion_pet_van_indoor_toast_fix_sister_grab |  
+| bip_39_word_underscore_12 | few_scale_capable_emotion_pet_van_indoor_toast_fix_sister_grab_apology |  
+| bip_39_word_underscore_2 | few_scale |  
+| bip_39_word_underscore_3 | few_scale_capable |  
+| bip_39_word_underscore_4 | few_scale_capable_emotion |  
+| bip_39_word_underscore_5 | few_scale_capable_emotion_pet |  
+| bip_39_word_underscore_6 | few_scale_capable_emotion_pet_van |  
+| bip_39_word_underscore_7 | few_scale_capable_emotion_pet_van_indoor |  
+| bip_39_word_underscore_8 | few_scale_capable_emotion_pet_van_indoor_toast |  
+| bip_39_word_underscore_9 | few_scale_capable_emotion_pet_van_indoor_toast_fix |  
 | classification | dish |  
 | classification_capital | Dish |  
 | classification_first_letter | d |  

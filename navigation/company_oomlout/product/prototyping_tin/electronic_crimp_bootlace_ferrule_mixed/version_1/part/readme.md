@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exclude |  
+| bip_39_word_dash_10 | exclude-angle-marine-grit-verb-opera-impose-rather-city-north |  
+| bip_39_word_dash_11 | exclude-angle-marine-grit-verb-opera-impose-rather-city-north-kitten |  
+| bip_39_word_dash_12 | exclude-angle-marine-grit-verb-opera-impose-rather-city-north-kitten-august |  
+| bip_39_word_dash_2 | exclude-angle |  
+| bip_39_word_dash_3 | exclude-angle-marine |  
+| bip_39_word_dash_4 | exclude-angle-marine-grit |  
+| bip_39_word_dash_5 | exclude-angle-marine-grit-verb |  
+| bip_39_word_dash_6 | exclude-angle-marine-grit-verb-opera |  
+| bip_39_word_dash_7 | exclude-angle-marine-grit-verb-opera-impose |  
+| bip_39_word_dash_8 | exclude-angle-marine-grit-verb-opera-impose-rather |  
+| bip_39_word_dash_9 | exclude-angle-marine-grit-verb-opera-impose-rather-city |  
 | bip_39_word_new_br_1 | exclude |  
 | bip_39_word_new_br_10 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north |  
 | bip_39_word_new_br_11 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north<br>kitten |  
@@ -147,6 +159,18 @@ city |
 | bip_39_word_space_7 | exclude angle marine grit verb opera impose |  
 | bip_39_word_space_8 | exclude angle marine grit verb opera impose rather |  
 | bip_39_word_space_9 | exclude angle marine grit verb opera impose rather city |  
+| bip_39_word_underscore_1 | exclude |  
+| bip_39_word_underscore_10 | exclude_angle_marine_grit_verb_opera_impose_rather_city_north |  
+| bip_39_word_underscore_11 | exclude_angle_marine_grit_verb_opera_impose_rather_city_north_kitten |  
+| bip_39_word_underscore_12 | exclude_angle_marine_grit_verb_opera_impose_rather_city_north_kitten_august |  
+| bip_39_word_underscore_2 | exclude_angle |  
+| bip_39_word_underscore_3 | exclude_angle_marine |  
+| bip_39_word_underscore_4 | exclude_angle_marine_grit |  
+| bip_39_word_underscore_5 | exclude_angle_marine_grit_verb |  
+| bip_39_word_underscore_6 | exclude_angle_marine_grit_verb_opera |  
+| bip_39_word_underscore_7 | exclude_angle_marine_grit_verb_opera_impose |  
+| bip_39_word_underscore_8 | exclude_angle_marine_grit_verb_opera_impose_rather |  
+| bip_39_word_underscore_9 | exclude_angle_marine_grit_verb_opera_impose_rather_city |  
 | classification | company_oomlout |  
 | classification_capital | Company Oomlout |  
 | classification_first_letter | c |  

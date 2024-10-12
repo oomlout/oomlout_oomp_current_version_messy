@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ribbon |  
+| bip_39_word_dash_10 | ribbon-borrow-annual-arrow-stone-feature-attitude-weapon-labor-flip |  
+| bip_39_word_dash_11 | ribbon-borrow-annual-arrow-stone-feature-attitude-weapon-labor-flip-pole |  
+| bip_39_word_dash_12 | ribbon-borrow-annual-arrow-stone-feature-attitude-weapon-labor-flip-pole-assume |  
+| bip_39_word_dash_2 | ribbon-borrow |  
+| bip_39_word_dash_3 | ribbon-borrow-annual |  
+| bip_39_word_dash_4 | ribbon-borrow-annual-arrow |  
+| bip_39_word_dash_5 | ribbon-borrow-annual-arrow-stone |  
+| bip_39_word_dash_6 | ribbon-borrow-annual-arrow-stone-feature |  
+| bip_39_word_dash_7 | ribbon-borrow-annual-arrow-stone-feature-attitude |  
+| bip_39_word_dash_8 | ribbon-borrow-annual-arrow-stone-feature-attitude-weapon |  
+| bip_39_word_dash_9 | ribbon-borrow-annual-arrow-stone-feature-attitude-weapon-labor |  
 | bip_39_word_new_br_1 | ribbon |  
 | bip_39_word_new_br_10 | ribbon<br>borrow<br>annual<br>arrow<br>stone<br>feature<br>attitude<br>weapon<br>labor<br>flip |  
 | bip_39_word_new_br_11 | ribbon<br>borrow<br>annual<br>arrow<br>stone<br>feature<br>attitude<br>weapon<br>labor<br>flip<br>pole |  
@@ -147,6 +159,18 @@ labor |
 | bip_39_word_space_7 | ribbon borrow annual arrow stone feature attitude |  
 | bip_39_word_space_8 | ribbon borrow annual arrow stone feature attitude weapon |  
 | bip_39_word_space_9 | ribbon borrow annual arrow stone feature attitude weapon labor |  
+| bip_39_word_underscore_1 | ribbon |  
+| bip_39_word_underscore_10 | ribbon_borrow_annual_arrow_stone_feature_attitude_weapon_labor_flip |  
+| bip_39_word_underscore_11 | ribbon_borrow_annual_arrow_stone_feature_attitude_weapon_labor_flip_pole |  
+| bip_39_word_underscore_12 | ribbon_borrow_annual_arrow_stone_feature_attitude_weapon_labor_flip_pole_assume |  
+| bip_39_word_underscore_2 | ribbon_borrow |  
+| bip_39_word_underscore_3 | ribbon_borrow_annual |  
+| bip_39_word_underscore_4 | ribbon_borrow_annual_arrow |  
+| bip_39_word_underscore_5 | ribbon_borrow_annual_arrow_stone |  
+| bip_39_word_underscore_6 | ribbon_borrow_annual_arrow_stone_feature |  
+| bip_39_word_underscore_7 | ribbon_borrow_annual_arrow_stone_feature_attitude |  
+| bip_39_word_underscore_8 | ribbon_borrow_annual_arrow_stone_feature_attitude_weapon |  
+| bip_39_word_underscore_9 | ribbon_borrow_annual_arrow_stone_feature_attitude_weapon_labor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

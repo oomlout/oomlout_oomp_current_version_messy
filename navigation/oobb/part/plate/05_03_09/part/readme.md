@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | share |  
+| bip_39_word_dash_10 | share-oak-neglect-lawsuit-peace-ability-dawn-upon-gift-theory |  
+| bip_39_word_dash_11 | share-oak-neglect-lawsuit-peace-ability-dawn-upon-gift-theory-vessel |  
+| bip_39_word_dash_12 | share-oak-neglect-lawsuit-peace-ability-dawn-upon-gift-theory-vessel-among |  
+| bip_39_word_dash_2 | share-oak |  
+| bip_39_word_dash_3 | share-oak-neglect |  
+| bip_39_word_dash_4 | share-oak-neglect-lawsuit |  
+| bip_39_word_dash_5 | share-oak-neglect-lawsuit-peace |  
+| bip_39_word_dash_6 | share-oak-neglect-lawsuit-peace-ability |  
+| bip_39_word_dash_7 | share-oak-neglect-lawsuit-peace-ability-dawn |  
+| bip_39_word_dash_8 | share-oak-neglect-lawsuit-peace-ability-dawn-upon |  
+| bip_39_word_dash_9 | share-oak-neglect-lawsuit-peace-ability-dawn-upon-gift |  
 | bip_39_word_new_br_1 | share |  
 | bip_39_word_new_br_10 | share<br>oak<br>neglect<br>lawsuit<br>peace<br>ability<br>dawn<br>upon<br>gift<br>theory |  
 | bip_39_word_new_br_11 | share<br>oak<br>neglect<br>lawsuit<br>peace<br>ability<br>dawn<br>upon<br>gift<br>theory<br>vessel |  
@@ -147,6 +159,18 @@ gift |
 | bip_39_word_space_7 | share oak neglect lawsuit peace ability dawn |  
 | bip_39_word_space_8 | share oak neglect lawsuit peace ability dawn upon |  
 | bip_39_word_space_9 | share oak neglect lawsuit peace ability dawn upon gift |  
+| bip_39_word_underscore_1 | share |  
+| bip_39_word_underscore_10 | share_oak_neglect_lawsuit_peace_ability_dawn_upon_gift_theory |  
+| bip_39_word_underscore_11 | share_oak_neglect_lawsuit_peace_ability_dawn_upon_gift_theory_vessel |  
+| bip_39_word_underscore_12 | share_oak_neglect_lawsuit_peace_ability_dawn_upon_gift_theory_vessel_among |  
+| bip_39_word_underscore_2 | share_oak |  
+| bip_39_word_underscore_3 | share_oak_neglect |  
+| bip_39_word_underscore_4 | share_oak_neglect_lawsuit |  
+| bip_39_word_underscore_5 | share_oak_neglect_lawsuit_peace |  
+| bip_39_word_underscore_6 | share_oak_neglect_lawsuit_peace_ability |  
+| bip_39_word_underscore_7 | share_oak_neglect_lawsuit_peace_ability_dawn |  
+| bip_39_word_underscore_8 | share_oak_neglect_lawsuit_peace_ability_dawn_upon |  
+| bip_39_word_underscore_9 | share_oak_neglect_lawsuit_peace_ability_dawn_upon_gift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dumb |  
+| bip_39_word_dash_10 | dumb-must-hard-uphold-match-submit-solar-pigeon-true-audit |  
+| bip_39_word_dash_11 | dumb-must-hard-uphold-match-submit-solar-pigeon-true-audit-envelope |  
+| bip_39_word_dash_12 | dumb-must-hard-uphold-match-submit-solar-pigeon-true-audit-envelope-approve |  
+| bip_39_word_dash_2 | dumb-must |  
+| bip_39_word_dash_3 | dumb-must-hard |  
+| bip_39_word_dash_4 | dumb-must-hard-uphold |  
+| bip_39_word_dash_5 | dumb-must-hard-uphold-match |  
+| bip_39_word_dash_6 | dumb-must-hard-uphold-match-submit |  
+| bip_39_word_dash_7 | dumb-must-hard-uphold-match-submit-solar |  
+| bip_39_word_dash_8 | dumb-must-hard-uphold-match-submit-solar-pigeon |  
+| bip_39_word_dash_9 | dumb-must-hard-uphold-match-submit-solar-pigeon-true |  
 | bip_39_word_new_br_1 | dumb |  
 | bip_39_word_new_br_10 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit |  
 | bip_39_word_new_br_11 | dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit<br>envelope |  
@@ -147,6 +159,18 @@ true |
 | bip_39_word_space_7 | dumb must hard uphold match submit solar |  
 | bip_39_word_space_8 | dumb must hard uphold match submit solar pigeon |  
 | bip_39_word_space_9 | dumb must hard uphold match submit solar pigeon true |  
+| bip_39_word_underscore_1 | dumb |  
+| bip_39_word_underscore_10 | dumb_must_hard_uphold_match_submit_solar_pigeon_true_audit |  
+| bip_39_word_underscore_11 | dumb_must_hard_uphold_match_submit_solar_pigeon_true_audit_envelope |  
+| bip_39_word_underscore_12 | dumb_must_hard_uphold_match_submit_solar_pigeon_true_audit_envelope_approve |  
+| bip_39_word_underscore_2 | dumb_must |  
+| bip_39_word_underscore_3 | dumb_must_hard |  
+| bip_39_word_underscore_4 | dumb_must_hard_uphold |  
+| bip_39_word_underscore_5 | dumb_must_hard_uphold_match |  
+| bip_39_word_underscore_6 | dumb_must_hard_uphold_match_submit |  
+| bip_39_word_underscore_7 | dumb_must_hard_uphold_match_submit_solar |  
+| bip_39_word_underscore_8 | dumb_must_hard_uphold_match_submit_solar_pigeon |  
+| bip_39_word_underscore_9 | dumb_must_hard_uphold_match_submit_solar_pigeon_true |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

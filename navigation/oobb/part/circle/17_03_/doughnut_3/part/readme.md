@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | comfort |  
+| bip_39_word_dash_10 | comfort-pole-silk-twenty-jewel-celery-opera-portion-gaze-answer |  
+| bip_39_word_dash_11 | comfort-pole-silk-twenty-jewel-celery-opera-portion-gaze-answer-disorder |  
+| bip_39_word_dash_12 | comfort-pole-silk-twenty-jewel-celery-opera-portion-gaze-answer-disorder-alarm |  
+| bip_39_word_dash_2 | comfort-pole |  
+| bip_39_word_dash_3 | comfort-pole-silk |  
+| bip_39_word_dash_4 | comfort-pole-silk-twenty |  
+| bip_39_word_dash_5 | comfort-pole-silk-twenty-jewel |  
+| bip_39_word_dash_6 | comfort-pole-silk-twenty-jewel-celery |  
+| bip_39_word_dash_7 | comfort-pole-silk-twenty-jewel-celery-opera |  
+| bip_39_word_dash_8 | comfort-pole-silk-twenty-jewel-celery-opera-portion |  
+| bip_39_word_dash_9 | comfort-pole-silk-twenty-jewel-celery-opera-portion-gaze |  
 | bip_39_word_new_br_1 | comfort |  
 | bip_39_word_new_br_10 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion<br>gaze<br>answer |  
 | bip_39_word_new_br_11 | comfort<br>pole<br>silk<br>twenty<br>jewel<br>celery<br>opera<br>portion<br>gaze<br>answer<br>disorder |  
@@ -147,6 +159,18 @@ gaze |
 | bip_39_word_space_7 | comfort pole silk twenty jewel celery opera |  
 | bip_39_word_space_8 | comfort pole silk twenty jewel celery opera portion |  
 | bip_39_word_space_9 | comfort pole silk twenty jewel celery opera portion gaze |  
+| bip_39_word_underscore_1 | comfort |  
+| bip_39_word_underscore_10 | comfort_pole_silk_twenty_jewel_celery_opera_portion_gaze_answer |  
+| bip_39_word_underscore_11 | comfort_pole_silk_twenty_jewel_celery_opera_portion_gaze_answer_disorder |  
+| bip_39_word_underscore_12 | comfort_pole_silk_twenty_jewel_celery_opera_portion_gaze_answer_disorder_alarm |  
+| bip_39_word_underscore_2 | comfort_pole |  
+| bip_39_word_underscore_3 | comfort_pole_silk |  
+| bip_39_word_underscore_4 | comfort_pole_silk_twenty |  
+| bip_39_word_underscore_5 | comfort_pole_silk_twenty_jewel |  
+| bip_39_word_underscore_6 | comfort_pole_silk_twenty_jewel_celery |  
+| bip_39_word_underscore_7 | comfort_pole_silk_twenty_jewel_celery_opera |  
+| bip_39_word_underscore_8 | comfort_pole_silk_twenty_jewel_celery_opera_portion |  
+| bip_39_word_underscore_9 | comfort_pole_silk_twenty_jewel_celery_opera_portion_gaze |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

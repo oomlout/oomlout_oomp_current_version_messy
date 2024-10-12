@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cross
+bip_39_word_dash_10: cross-bird-slab-spike-nest-latin-picnic-truck-sea-focus
+bip_39_word_dash_11: cross-bird-slab-spike-nest-latin-picnic-truck-sea-focus-erupt
+bip_39_word_dash_12: cross-bird-slab-spike-nest-latin-picnic-truck-sea-focus-erupt-announce
+bip_39_word_dash_2: cross-bird
+bip_39_word_dash_3: cross-bird-slab
+bip_39_word_dash_4: cross-bird-slab-spike
+bip_39_word_dash_5: cross-bird-slab-spike-nest
+bip_39_word_dash_6: cross-bird-slab-spike-nest-latin
+bip_39_word_dash_7: cross-bird-slab-spike-nest-latin-picnic
+bip_39_word_dash_8: cross-bird-slab-spike-nest-latin-picnic-truck
+bip_39_word_dash_9: cross-bird-slab-spike-nest-latin-picnic-truck-sea
 bip_39_word_new_br_1: cross
 bip_39_word_new_br_10: cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck<br>sea<br>focus
 bip_39_word_new_br_11: cross<br>bird<br>slab<br>spike<br>nest<br>latin<br>picnic<br>truck<br>sea<br>focus<br>erupt
@@ -192,6 +204,18 @@ bip_39_word_space_6: cross bird slab spike nest latin
 bip_39_word_space_7: cross bird slab spike nest latin picnic
 bip_39_word_space_8: cross bird slab spike nest latin picnic truck
 bip_39_word_space_9: cross bird slab spike nest latin picnic truck sea
+bip_39_word_underscore_1: cross
+bip_39_word_underscore_10: cross_bird_slab_spike_nest_latin_picnic_truck_sea_focus
+bip_39_word_underscore_11: cross_bird_slab_spike_nest_latin_picnic_truck_sea_focus_erupt
+bip_39_word_underscore_12: cross_bird_slab_spike_nest_latin_picnic_truck_sea_focus_erupt_announce
+bip_39_word_underscore_2: cross_bird
+bip_39_word_underscore_3: cross_bird_slab
+bip_39_word_underscore_4: cross_bird_slab_spike
+bip_39_word_underscore_5: cross_bird_slab_spike_nest
+bip_39_word_underscore_6: cross_bird_slab_spike_nest_latin
+bip_39_word_underscore_7: cross_bird_slab_spike_nest_latin_picnic
+bip_39_word_underscore_8: cross_bird_slab_spike_nest_latin_picnic_truck
+bip_39_word_underscore_9: cross_bird_slab_spike_nest_latin_picnic_truck_sea
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

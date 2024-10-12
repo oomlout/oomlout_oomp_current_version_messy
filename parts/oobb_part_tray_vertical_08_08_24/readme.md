@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bid |  
+| bip_39_word_dash_10 | bid-find-letter-crash-master-tourist-midnight-left-brief-legal |  
+| bip_39_word_dash_11 | bid-find-letter-crash-master-tourist-midnight-left-brief-legal-manage |  
+| bip_39_word_dash_12 | bid-find-letter-crash-master-tourist-midnight-left-brief-legal-manage-add |  
+| bip_39_word_dash_2 | bid-find |  
+| bip_39_word_dash_3 | bid-find-letter |  
+| bip_39_word_dash_4 | bid-find-letter-crash |  
+| bip_39_word_dash_5 | bid-find-letter-crash-master |  
+| bip_39_word_dash_6 | bid-find-letter-crash-master-tourist |  
+| bip_39_word_dash_7 | bid-find-letter-crash-master-tourist-midnight |  
+| bip_39_word_dash_8 | bid-find-letter-crash-master-tourist-midnight-left |  
+| bip_39_word_dash_9 | bid-find-letter-crash-master-tourist-midnight-left-brief |  
 | bip_39_word_new_br_1 | bid |  
 | bip_39_word_new_br_10 | bid<br>find<br>letter<br>crash<br>master<br>tourist<br>midnight<br>left<br>brief<br>legal |  
 | bip_39_word_new_br_11 | bid<br>find<br>letter<br>crash<br>master<br>tourist<br>midnight<br>left<br>brief<br>legal<br>manage |  
@@ -147,6 +159,18 @@ brief |
 | bip_39_word_space_7 | bid find letter crash master tourist midnight |  
 | bip_39_word_space_8 | bid find letter crash master tourist midnight left |  
 | bip_39_word_space_9 | bid find letter crash master tourist midnight left brief |  
+| bip_39_word_underscore_1 | bid |  
+| bip_39_word_underscore_10 | bid_find_letter_crash_master_tourist_midnight_left_brief_legal |  
+| bip_39_word_underscore_11 | bid_find_letter_crash_master_tourist_midnight_left_brief_legal_manage |  
+| bip_39_word_underscore_12 | bid_find_letter_crash_master_tourist_midnight_left_brief_legal_manage_add |  
+| bip_39_word_underscore_2 | bid_find |  
+| bip_39_word_underscore_3 | bid_find_letter |  
+| bip_39_word_underscore_4 | bid_find_letter_crash |  
+| bip_39_word_underscore_5 | bid_find_letter_crash_master |  
+| bip_39_word_underscore_6 | bid_find_letter_crash_master_tourist |  
+| bip_39_word_underscore_7 | bid_find_letter_crash_master_tourist_midnight |  
+| bip_39_word_underscore_8 | bid_find_letter_crash_master_tourist_midnight_left |  
+| bip_39_word_underscore_9 | bid_find_letter_crash_master_tourist_midnight_left_brief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

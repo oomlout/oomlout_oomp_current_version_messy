@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | apple |  
+| bip_39_word_dash_10 | apple-before-cram-tunnel-private-clerk-unveil-casual-jacket-wood |  
+| bip_39_word_dash_11 | apple-before-cram-tunnel-private-clerk-unveil-casual-jacket-wood-item |  
+| bip_39_word_dash_12 | apple-before-cram-tunnel-private-clerk-unveil-casual-jacket-wood-item-album |  
+| bip_39_word_dash_2 | apple-before |  
+| bip_39_word_dash_3 | apple-before-cram |  
+| bip_39_word_dash_4 | apple-before-cram-tunnel |  
+| bip_39_word_dash_5 | apple-before-cram-tunnel-private |  
+| bip_39_word_dash_6 | apple-before-cram-tunnel-private-clerk |  
+| bip_39_word_dash_7 | apple-before-cram-tunnel-private-clerk-unveil |  
+| bip_39_word_dash_8 | apple-before-cram-tunnel-private-clerk-unveil-casual |  
+| bip_39_word_dash_9 | apple-before-cram-tunnel-private-clerk-unveil-casual-jacket |  
 | bip_39_word_new_br_1 | apple |  
 | bip_39_word_new_br_10 | apple<br>before<br>cram<br>tunnel<br>private<br>clerk<br>unveil<br>casual<br>jacket<br>wood |  
 | bip_39_word_new_br_11 | apple<br>before<br>cram<br>tunnel<br>private<br>clerk<br>unveil<br>casual<br>jacket<br>wood<br>item |  
@@ -147,6 +159,18 @@ jacket |
 | bip_39_word_space_7 | apple before cram tunnel private clerk unveil |  
 | bip_39_word_space_8 | apple before cram tunnel private clerk unveil casual |  
 | bip_39_word_space_9 | apple before cram tunnel private clerk unveil casual jacket |  
+| bip_39_word_underscore_1 | apple |  
+| bip_39_word_underscore_10 | apple_before_cram_tunnel_private_clerk_unveil_casual_jacket_wood |  
+| bip_39_word_underscore_11 | apple_before_cram_tunnel_private_clerk_unveil_casual_jacket_wood_item |  
+| bip_39_word_underscore_12 | apple_before_cram_tunnel_private_clerk_unveil_casual_jacket_wood_item_album |  
+| bip_39_word_underscore_2 | apple_before |  
+| bip_39_word_underscore_3 | apple_before_cram |  
+| bip_39_word_underscore_4 | apple_before_cram_tunnel |  
+| bip_39_word_underscore_5 | apple_before_cram_tunnel_private |  
+| bip_39_word_underscore_6 | apple_before_cram_tunnel_private_clerk |  
+| bip_39_word_underscore_7 | apple_before_cram_tunnel_private_clerk_unveil |  
+| bip_39_word_underscore_8 | apple_before_cram_tunnel_private_clerk_unveil_casual |  
+| bip_39_word_underscore_9 | apple_before_cram_tunnel_private_clerk_unveil_casual_jacket |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

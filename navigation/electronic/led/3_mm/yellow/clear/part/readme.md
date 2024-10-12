@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | february |  
+| bip_39_word_dash_10 | february-opinion-style-depart-elder-real-issue-same-video-gas |  
+| bip_39_word_dash_11 | february-opinion-style-depart-elder-real-issue-same-video-gas-immune |  
+| bip_39_word_dash_12 | february-opinion-style-depart-elder-real-issue-same-video-gas-immune-another |  
+| bip_39_word_dash_2 | february-opinion |  
+| bip_39_word_dash_3 | february-opinion-style |  
+| bip_39_word_dash_4 | february-opinion-style-depart |  
+| bip_39_word_dash_5 | february-opinion-style-depart-elder |  
+| bip_39_word_dash_6 | february-opinion-style-depart-elder-real |  
+| bip_39_word_dash_7 | february-opinion-style-depart-elder-real-issue |  
+| bip_39_word_dash_8 | february-opinion-style-depart-elder-real-issue-same |  
+| bip_39_word_dash_9 | february-opinion-style-depart-elder-real-issue-same-video |  
 | bip_39_word_new_br_1 | february |  
 | bip_39_word_new_br_10 | february<br>opinion<br>style<br>depart<br>elder<br>real<br>issue<br>same<br>video<br>gas |  
 | bip_39_word_new_br_11 | february<br>opinion<br>style<br>depart<br>elder<br>real<br>issue<br>same<br>video<br>gas<br>immune |  
@@ -147,6 +159,18 @@ video |
 | bip_39_word_space_7 | february opinion style depart elder real issue |  
 | bip_39_word_space_8 | february opinion style depart elder real issue same |  
 | bip_39_word_space_9 | february opinion style depart elder real issue same video |  
+| bip_39_word_underscore_1 | february |  
+| bip_39_word_underscore_10 | february_opinion_style_depart_elder_real_issue_same_video_gas |  
+| bip_39_word_underscore_11 | february_opinion_style_depart_elder_real_issue_same_video_gas_immune |  
+| bip_39_word_underscore_12 | february_opinion_style_depart_elder_real_issue_same_video_gas_immune_another |  
+| bip_39_word_underscore_2 | february_opinion |  
+| bip_39_word_underscore_3 | february_opinion_style |  
+| bip_39_word_underscore_4 | february_opinion_style_depart |  
+| bip_39_word_underscore_5 | february_opinion_style_depart_elder |  
+| bip_39_word_underscore_6 | february_opinion_style_depart_elder_real |  
+| bip_39_word_underscore_7 | february_opinion_style_depart_elder_real_issue |  
+| bip_39_word_underscore_8 | february_opinion_style_depart_elder_real_issue_same |  
+| bip_39_word_underscore_9 | february_opinion_style_depart_elder_real_issue_same_video |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

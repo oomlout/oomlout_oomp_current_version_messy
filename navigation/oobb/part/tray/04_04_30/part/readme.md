@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | venture |  
+| bip_39_word_dash_10 | venture-angry-donate-cover-slice-add-assault-alarm-super-fury |  
+| bip_39_word_dash_11 | venture-angry-donate-cover-slice-add-assault-alarm-super-fury-also |  
+| bip_39_word_dash_12 | venture-angry-donate-cover-slice-add-assault-alarm-super-fury-also-abuse |  
+| bip_39_word_dash_2 | venture-angry |  
+| bip_39_word_dash_3 | venture-angry-donate |  
+| bip_39_word_dash_4 | venture-angry-donate-cover |  
+| bip_39_word_dash_5 | venture-angry-donate-cover-slice |  
+| bip_39_word_dash_6 | venture-angry-donate-cover-slice-add |  
+| bip_39_word_dash_7 | venture-angry-donate-cover-slice-add-assault |  
+| bip_39_word_dash_8 | venture-angry-donate-cover-slice-add-assault-alarm |  
+| bip_39_word_dash_9 | venture-angry-donate-cover-slice-add-assault-alarm-super |  
 | bip_39_word_new_br_1 | venture |  
 | bip_39_word_new_br_10 | venture<br>angry<br>donate<br>cover<br>slice<br>add<br>assault<br>alarm<br>super<br>fury |  
 | bip_39_word_new_br_11 | venture<br>angry<br>donate<br>cover<br>slice<br>add<br>assault<br>alarm<br>super<br>fury<br>also |  
@@ -147,6 +159,18 @@ super |
 | bip_39_word_space_7 | venture angry donate cover slice add assault |  
 | bip_39_word_space_8 | venture angry donate cover slice add assault alarm |  
 | bip_39_word_space_9 | venture angry donate cover slice add assault alarm super |  
+| bip_39_word_underscore_1 | venture |  
+| bip_39_word_underscore_10 | venture_angry_donate_cover_slice_add_assault_alarm_super_fury |  
+| bip_39_word_underscore_11 | venture_angry_donate_cover_slice_add_assault_alarm_super_fury_also |  
+| bip_39_word_underscore_12 | venture_angry_donate_cover_slice_add_assault_alarm_super_fury_also_abuse |  
+| bip_39_word_underscore_2 | venture_angry |  
+| bip_39_word_underscore_3 | venture_angry_donate |  
+| bip_39_word_underscore_4 | venture_angry_donate_cover |  
+| bip_39_word_underscore_5 | venture_angry_donate_cover_slice |  
+| bip_39_word_underscore_6 | venture_angry_donate_cover_slice_add |  
+| bip_39_word_underscore_7 | venture_angry_donate_cover_slice_add_assault |  
+| bip_39_word_underscore_8 | venture_angry_donate_cover_slice_add_assault_alarm |  
+| bip_39_word_underscore_9 | venture_angry_donate_cover_slice_add_assault_alarm_super |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | foster |  
+| bip_39_word_dash_10 | foster-illness-clutch-mom-innocent-bitter-smile-board-easily-gentle |  
+| bip_39_word_dash_11 | foster-illness-clutch-mom-innocent-bitter-smile-board-easily-gentle-butter |  
+| bip_39_word_dash_12 | foster-illness-clutch-mom-innocent-bitter-smile-board-easily-gentle-butter-absorb |  
+| bip_39_word_dash_2 | foster-illness |  
+| bip_39_word_dash_3 | foster-illness-clutch |  
+| bip_39_word_dash_4 | foster-illness-clutch-mom |  
+| bip_39_word_dash_5 | foster-illness-clutch-mom-innocent |  
+| bip_39_word_dash_6 | foster-illness-clutch-mom-innocent-bitter |  
+| bip_39_word_dash_7 | foster-illness-clutch-mom-innocent-bitter-smile |  
+| bip_39_word_dash_8 | foster-illness-clutch-mom-innocent-bitter-smile-board |  
+| bip_39_word_dash_9 | foster-illness-clutch-mom-innocent-bitter-smile-board-easily |  
 | bip_39_word_new_br_1 | foster |  
 | bip_39_word_new_br_10 | foster<br>illness<br>clutch<br>mom<br>innocent<br>bitter<br>smile<br>board<br>easily<br>gentle |  
 | bip_39_word_new_br_11 | foster<br>illness<br>clutch<br>mom<br>innocent<br>bitter<br>smile<br>board<br>easily<br>gentle<br>butter |  
@@ -147,6 +159,18 @@ easily |
 | bip_39_word_space_7 | foster illness clutch mom innocent bitter smile |  
 | bip_39_word_space_8 | foster illness clutch mom innocent bitter smile board |  
 | bip_39_word_space_9 | foster illness clutch mom innocent bitter smile board easily |  
+| bip_39_word_underscore_1 | foster |  
+| bip_39_word_underscore_10 | foster_illness_clutch_mom_innocent_bitter_smile_board_easily_gentle |  
+| bip_39_word_underscore_11 | foster_illness_clutch_mom_innocent_bitter_smile_board_easily_gentle_butter |  
+| bip_39_word_underscore_12 | foster_illness_clutch_mom_innocent_bitter_smile_board_easily_gentle_butter_absorb |  
+| bip_39_word_underscore_2 | foster_illness |  
+| bip_39_word_underscore_3 | foster_illness_clutch |  
+| bip_39_word_underscore_4 | foster_illness_clutch_mom |  
+| bip_39_word_underscore_5 | foster_illness_clutch_mom_innocent |  
+| bip_39_word_underscore_6 | foster_illness_clutch_mom_innocent_bitter |  
+| bip_39_word_underscore_7 | foster_illness_clutch_mom_innocent_bitter_smile |  
+| bip_39_word_underscore_8 | foster_illness_clutch_mom_innocent_bitter_smile_board |  
+| bip_39_word_underscore_9 | foster_illness_clutch_mom_innocent_bitter_smile_board_easily |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

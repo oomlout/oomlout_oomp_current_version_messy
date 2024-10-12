@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wise
+bip_39_word_dash_10: wise-town-topple-orient-blanket-keep-own-loyal-coyote-grief
+bip_39_word_dash_11: wise-town-topple-orient-blanket-keep-own-loyal-coyote-grief-layer
+bip_39_word_dash_12: wise-town-topple-orient-blanket-keep-own-loyal-coyote-grief-layer-abuse
+bip_39_word_dash_2: wise-town
+bip_39_word_dash_3: wise-town-topple
+bip_39_word_dash_4: wise-town-topple-orient
+bip_39_word_dash_5: wise-town-topple-orient-blanket
+bip_39_word_dash_6: wise-town-topple-orient-blanket-keep
+bip_39_word_dash_7: wise-town-topple-orient-blanket-keep-own
+bip_39_word_dash_8: wise-town-topple-orient-blanket-keep-own-loyal
+bip_39_word_dash_9: wise-town-topple-orient-blanket-keep-own-loyal-coyote
 bip_39_word_new_br_1: wise
 bip_39_word_new_br_10: wise<br>town<br>topple<br>orient<br>blanket<br>keep<br>own<br>loyal<br>coyote<br>grief
 bip_39_word_new_br_11: wise<br>town<br>topple<br>orient<br>blanket<br>keep<br>own<br>loyal<br>coyote<br>grief<br>layer
@@ -193,6 +205,18 @@ bip_39_word_space_6: wise town topple orient blanket keep
 bip_39_word_space_7: wise town topple orient blanket keep own
 bip_39_word_space_8: wise town topple orient blanket keep own loyal
 bip_39_word_space_9: wise town topple orient blanket keep own loyal coyote
+bip_39_word_underscore_1: wise
+bip_39_word_underscore_10: wise_town_topple_orient_blanket_keep_own_loyal_coyote_grief
+bip_39_word_underscore_11: wise_town_topple_orient_blanket_keep_own_loyal_coyote_grief_layer
+bip_39_word_underscore_12: wise_town_topple_orient_blanket_keep_own_loyal_coyote_grief_layer_abuse
+bip_39_word_underscore_2: wise_town
+bip_39_word_underscore_3: wise_town_topple
+bip_39_word_underscore_4: wise_town_topple_orient
+bip_39_word_underscore_5: wise_town_topple_orient_blanket
+bip_39_word_underscore_6: wise_town_topple_orient_blanket_keep
+bip_39_word_underscore_7: wise_town_topple_orient_blanket_keep_own
+bip_39_word_underscore_8: wise_town_topple_orient_blanket_keep_own_loyal
+bip_39_word_underscore_9: wise_town_topple_orient_blanket_keep_own_loyal_coyote
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

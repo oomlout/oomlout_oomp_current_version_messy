@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kick |  
+| bip_39_word_dash_10 | kick-gather-else-alarm-admit-select-primary-nerve-sun-thing |  
+| bip_39_word_dash_11 | kick-gather-else-alarm-admit-select-primary-nerve-sun-thing-hope |  
+| bip_39_word_dash_12 | kick-gather-else-alarm-admit-select-primary-nerve-sun-thing-hope-ancient |  
+| bip_39_word_dash_2 | kick-gather |  
+| bip_39_word_dash_3 | kick-gather-else |  
+| bip_39_word_dash_4 | kick-gather-else-alarm |  
+| bip_39_word_dash_5 | kick-gather-else-alarm-admit |  
+| bip_39_word_dash_6 | kick-gather-else-alarm-admit-select |  
+| bip_39_word_dash_7 | kick-gather-else-alarm-admit-select-primary |  
+| bip_39_word_dash_8 | kick-gather-else-alarm-admit-select-primary-nerve |  
+| bip_39_word_dash_9 | kick-gather-else-alarm-admit-select-primary-nerve-sun |  
 | bip_39_word_new_br_1 | kick |  
 | bip_39_word_new_br_10 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing |  
 | bip_39_word_new_br_11 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing<br>hope |  
@@ -147,6 +159,18 @@ sun |
 | bip_39_word_space_7 | kick gather else alarm admit select primary |  
 | bip_39_word_space_8 | kick gather else alarm admit select primary nerve |  
 | bip_39_word_space_9 | kick gather else alarm admit select primary nerve sun |  
+| bip_39_word_underscore_1 | kick |  
+| bip_39_word_underscore_10 | kick_gather_else_alarm_admit_select_primary_nerve_sun_thing |  
+| bip_39_word_underscore_11 | kick_gather_else_alarm_admit_select_primary_nerve_sun_thing_hope |  
+| bip_39_word_underscore_12 | kick_gather_else_alarm_admit_select_primary_nerve_sun_thing_hope_ancient |  
+| bip_39_word_underscore_2 | kick_gather |  
+| bip_39_word_underscore_3 | kick_gather_else |  
+| bip_39_word_underscore_4 | kick_gather_else_alarm |  
+| bip_39_word_underscore_5 | kick_gather_else_alarm_admit |  
+| bip_39_word_underscore_6 | kick_gather_else_alarm_admit_select |  
+| bip_39_word_underscore_7 | kick_gather_else_alarm_admit_select_primary |  
+| bip_39_word_underscore_8 | kick_gather_else_alarm_admit_select_primary_nerve |  
+| bip_39_word_underscore_9 | kick_gather_else_alarm_admit_select_primary_nerve_sun |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

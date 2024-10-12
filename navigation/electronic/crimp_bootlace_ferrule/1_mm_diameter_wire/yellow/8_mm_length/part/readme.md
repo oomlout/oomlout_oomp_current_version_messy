@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dumb |  
+| bip_39_word_dash_10 | dumb-bonus-meadow-tilt-feed-actress-protect-cup-tourist-humor |  
+| bip_39_word_dash_11 | dumb-bonus-meadow-tilt-feed-actress-protect-cup-tourist-humor-smart |  
+| bip_39_word_dash_12 | dumb-bonus-meadow-tilt-feed-actress-protect-cup-tourist-humor-smart-amazing |  
+| bip_39_word_dash_2 | dumb-bonus |  
+| bip_39_word_dash_3 | dumb-bonus-meadow |  
+| bip_39_word_dash_4 | dumb-bonus-meadow-tilt |  
+| bip_39_word_dash_5 | dumb-bonus-meadow-tilt-feed |  
+| bip_39_word_dash_6 | dumb-bonus-meadow-tilt-feed-actress |  
+| bip_39_word_dash_7 | dumb-bonus-meadow-tilt-feed-actress-protect |  
+| bip_39_word_dash_8 | dumb-bonus-meadow-tilt-feed-actress-protect-cup |  
+| bip_39_word_dash_9 | dumb-bonus-meadow-tilt-feed-actress-protect-cup-tourist |  
 | bip_39_word_new_br_1 | dumb |  
 | bip_39_word_new_br_10 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup<br>tourist<br>humor |  
 | bip_39_word_new_br_11 | dumb<br>bonus<br>meadow<br>tilt<br>feed<br>actress<br>protect<br>cup<br>tourist<br>humor<br>smart |  
@@ -147,6 +159,18 @@ tourist |
 | bip_39_word_space_7 | dumb bonus meadow tilt feed actress protect |  
 | bip_39_word_space_8 | dumb bonus meadow tilt feed actress protect cup |  
 | bip_39_word_space_9 | dumb bonus meadow tilt feed actress protect cup tourist |  
+| bip_39_word_underscore_1 | dumb |  
+| bip_39_word_underscore_10 | dumb_bonus_meadow_tilt_feed_actress_protect_cup_tourist_humor |  
+| bip_39_word_underscore_11 | dumb_bonus_meadow_tilt_feed_actress_protect_cup_tourist_humor_smart |  
+| bip_39_word_underscore_12 | dumb_bonus_meadow_tilt_feed_actress_protect_cup_tourist_humor_smart_amazing |  
+| bip_39_word_underscore_2 | dumb_bonus |  
+| bip_39_word_underscore_3 | dumb_bonus_meadow |  
+| bip_39_word_underscore_4 | dumb_bonus_meadow_tilt |  
+| bip_39_word_underscore_5 | dumb_bonus_meadow_tilt_feed |  
+| bip_39_word_underscore_6 | dumb_bonus_meadow_tilt_feed_actress |  
+| bip_39_word_underscore_7 | dumb_bonus_meadow_tilt_feed_actress_protect |  
+| bip_39_word_underscore_8 | dumb_bonus_meadow_tilt_feed_actress_protect_cup |  
+| bip_39_word_underscore_9 | dumb_bonus_meadow_tilt_feed_actress_protect_cup_tourist |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

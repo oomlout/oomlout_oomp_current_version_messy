@@ -1,3 +1,15 @@
+bip_39_word_dash_1: there
+bip_39_word_dash_10: there-olympic-color-gap-fiscal-monkey-card-burst-carpet-copy
+bip_39_word_dash_11: there-olympic-color-gap-fiscal-monkey-card-burst-carpet-copy-steel
+bip_39_word_dash_12: there-olympic-color-gap-fiscal-monkey-card-burst-carpet-copy-steel-anchor
+bip_39_word_dash_2: there-olympic
+bip_39_word_dash_3: there-olympic-color
+bip_39_word_dash_4: there-olympic-color-gap
+bip_39_word_dash_5: there-olympic-color-gap-fiscal
+bip_39_word_dash_6: there-olympic-color-gap-fiscal-monkey
+bip_39_word_dash_7: there-olympic-color-gap-fiscal-monkey-card
+bip_39_word_dash_8: there-olympic-color-gap-fiscal-monkey-card-burst
+bip_39_word_dash_9: there-olympic-color-gap-fiscal-monkey-card-burst-carpet
 bip_39_word_new_br_1: there
 bip_39_word_new_br_10: there<br>olympic<br>color<br>gap<br>fiscal<br>monkey<br>card<br>burst<br>carpet<br>copy
 bip_39_word_new_br_11: there<br>olympic<br>color<br>gap<br>fiscal<br>monkey<br>card<br>burst<br>carpet<br>copy<br>steel
@@ -193,6 +205,18 @@ bip_39_word_space_6: there olympic color gap fiscal monkey
 bip_39_word_space_7: there olympic color gap fiscal monkey card
 bip_39_word_space_8: there olympic color gap fiscal monkey card burst
 bip_39_word_space_9: there olympic color gap fiscal monkey card burst carpet
+bip_39_word_underscore_1: there
+bip_39_word_underscore_10: there_olympic_color_gap_fiscal_monkey_card_burst_carpet_copy
+bip_39_word_underscore_11: there_olympic_color_gap_fiscal_monkey_card_burst_carpet_copy_steel
+bip_39_word_underscore_12: there_olympic_color_gap_fiscal_monkey_card_burst_carpet_copy_steel_anchor
+bip_39_word_underscore_2: there_olympic
+bip_39_word_underscore_3: there_olympic_color
+bip_39_word_underscore_4: there_olympic_color_gap
+bip_39_word_underscore_5: there_olympic_color_gap_fiscal
+bip_39_word_underscore_6: there_olympic_color_gap_fiscal_monkey
+bip_39_word_underscore_7: there_olympic_color_gap_fiscal_monkey_card
+bip_39_word_underscore_8: there_olympic_color_gap_fiscal_monkey_card_burst
+bip_39_word_underscore_9: there_olympic_color_gap_fiscal_monkey_card_burst_carpet
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

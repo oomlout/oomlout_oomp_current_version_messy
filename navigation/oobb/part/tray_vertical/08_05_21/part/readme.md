@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gate |  
+| bip_39_word_dash_10 | gate-cute-fork-chest-erupt-property-zebra-stamp-spread-veteran |  
+| bip_39_word_dash_11 | gate-cute-fork-chest-erupt-property-zebra-stamp-spread-veteran-armed |  
+| bip_39_word_dash_12 | gate-cute-fork-chest-erupt-property-zebra-stamp-spread-veteran-armed-accuse |  
+| bip_39_word_dash_2 | gate-cute |  
+| bip_39_word_dash_3 | gate-cute-fork |  
+| bip_39_word_dash_4 | gate-cute-fork-chest |  
+| bip_39_word_dash_5 | gate-cute-fork-chest-erupt |  
+| bip_39_word_dash_6 | gate-cute-fork-chest-erupt-property |  
+| bip_39_word_dash_7 | gate-cute-fork-chest-erupt-property-zebra |  
+| bip_39_word_dash_8 | gate-cute-fork-chest-erupt-property-zebra-stamp |  
+| bip_39_word_dash_9 | gate-cute-fork-chest-erupt-property-zebra-stamp-spread |  
 | bip_39_word_new_br_1 | gate |  
 | bip_39_word_new_br_10 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp<br>spread<br>veteran |  
 | bip_39_word_new_br_11 | gate<br>cute<br>fork<br>chest<br>erupt<br>property<br>zebra<br>stamp<br>spread<br>veteran<br>armed |  
@@ -147,6 +159,18 @@ spread |
 | bip_39_word_space_7 | gate cute fork chest erupt property zebra |  
 | bip_39_word_space_8 | gate cute fork chest erupt property zebra stamp |  
 | bip_39_word_space_9 | gate cute fork chest erupt property zebra stamp spread |  
+| bip_39_word_underscore_1 | gate |  
+| bip_39_word_underscore_10 | gate_cute_fork_chest_erupt_property_zebra_stamp_spread_veteran |  
+| bip_39_word_underscore_11 | gate_cute_fork_chest_erupt_property_zebra_stamp_spread_veteran_armed |  
+| bip_39_word_underscore_12 | gate_cute_fork_chest_erupt_property_zebra_stamp_spread_veteran_armed_accuse |  
+| bip_39_word_underscore_2 | gate_cute |  
+| bip_39_word_underscore_3 | gate_cute_fork |  
+| bip_39_word_underscore_4 | gate_cute_fork_chest |  
+| bip_39_word_underscore_5 | gate_cute_fork_chest_erupt |  
+| bip_39_word_underscore_6 | gate_cute_fork_chest_erupt_property |  
+| bip_39_word_underscore_7 | gate_cute_fork_chest_erupt_property_zebra |  
+| bip_39_word_underscore_8 | gate_cute_fork_chest_erupt_property_zebra_stamp |  
+| bip_39_word_underscore_9 | gate_cute_fork_chest_erupt_property_zebra_stamp_spread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

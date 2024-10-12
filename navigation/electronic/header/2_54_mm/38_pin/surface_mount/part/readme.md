@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sail |  
+| bip_39_word_dash_10 | sail-wife-excuse-donor-vendor-almost-teach-science-hurt-entire |  
+| bip_39_word_dash_11 | sail-wife-excuse-donor-vendor-almost-teach-science-hurt-entire-yellow |  
+| bip_39_word_dash_12 | sail-wife-excuse-donor-vendor-almost-teach-science-hurt-entire-yellow-attend |  
+| bip_39_word_dash_2 | sail-wife |  
+| bip_39_word_dash_3 | sail-wife-excuse |  
+| bip_39_word_dash_4 | sail-wife-excuse-donor |  
+| bip_39_word_dash_5 | sail-wife-excuse-donor-vendor |  
+| bip_39_word_dash_6 | sail-wife-excuse-donor-vendor-almost |  
+| bip_39_word_dash_7 | sail-wife-excuse-donor-vendor-almost-teach |  
+| bip_39_word_dash_8 | sail-wife-excuse-donor-vendor-almost-teach-science |  
+| bip_39_word_dash_9 | sail-wife-excuse-donor-vendor-almost-teach-science-hurt |  
 | bip_39_word_new_br_1 | sail |  
 | bip_39_word_new_br_10 | sail<br>wife<br>excuse<br>donor<br>vendor<br>almost<br>teach<br>science<br>hurt<br>entire |  
 | bip_39_word_new_br_11 | sail<br>wife<br>excuse<br>donor<br>vendor<br>almost<br>teach<br>science<br>hurt<br>entire<br>yellow |  
@@ -147,6 +159,18 @@ hurt |
 | bip_39_word_space_7 | sail wife excuse donor vendor almost teach |  
 | bip_39_word_space_8 | sail wife excuse donor vendor almost teach science |  
 | bip_39_word_space_9 | sail wife excuse donor vendor almost teach science hurt |  
+| bip_39_word_underscore_1 | sail |  
+| bip_39_word_underscore_10 | sail_wife_excuse_donor_vendor_almost_teach_science_hurt_entire |  
+| bip_39_word_underscore_11 | sail_wife_excuse_donor_vendor_almost_teach_science_hurt_entire_yellow |  
+| bip_39_word_underscore_12 | sail_wife_excuse_donor_vendor_almost_teach_science_hurt_entire_yellow_attend |  
+| bip_39_word_underscore_2 | sail_wife |  
+| bip_39_word_underscore_3 | sail_wife_excuse |  
+| bip_39_word_underscore_4 | sail_wife_excuse_donor |  
+| bip_39_word_underscore_5 | sail_wife_excuse_donor_vendor |  
+| bip_39_word_underscore_6 | sail_wife_excuse_donor_vendor_almost |  
+| bip_39_word_underscore_7 | sail_wife_excuse_donor_vendor_almost_teach |  
+| bip_39_word_underscore_8 | sail_wife_excuse_donor_vendor_almost_teach_science |  
+| bip_39_word_underscore_9 | sail_wife_excuse_donor_vendor_almost_teach_science_hurt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

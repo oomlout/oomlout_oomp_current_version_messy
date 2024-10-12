@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cave
+bip_39_word_dash_10: cave-worth-betray-hat-wink-faith-ocean-pigeon-surge-green
+bip_39_word_dash_11: cave-worth-betray-hat-wink-faith-ocean-pigeon-surge-green-opera
+bip_39_word_dash_12: cave-worth-betray-hat-wink-faith-ocean-pigeon-surge-green-opera-alter
+bip_39_word_dash_2: cave-worth
+bip_39_word_dash_3: cave-worth-betray
+bip_39_word_dash_4: cave-worth-betray-hat
+bip_39_word_dash_5: cave-worth-betray-hat-wink
+bip_39_word_dash_6: cave-worth-betray-hat-wink-faith
+bip_39_word_dash_7: cave-worth-betray-hat-wink-faith-ocean
+bip_39_word_dash_8: cave-worth-betray-hat-wink-faith-ocean-pigeon
+bip_39_word_dash_9: cave-worth-betray-hat-wink-faith-ocean-pigeon-surge
 bip_39_word_new_br_1: cave
 bip_39_word_new_br_10: cave<br>worth<br>betray<br>hat<br>wink<br>faith<br>ocean<br>pigeon<br>surge<br>green
 bip_39_word_new_br_11: cave<br>worth<br>betray<br>hat<br>wink<br>faith<br>ocean<br>pigeon<br>surge<br>green<br>opera
@@ -192,6 +204,18 @@ bip_39_word_space_6: cave worth betray hat wink faith
 bip_39_word_space_7: cave worth betray hat wink faith ocean
 bip_39_word_space_8: cave worth betray hat wink faith ocean pigeon
 bip_39_word_space_9: cave worth betray hat wink faith ocean pigeon surge
+bip_39_word_underscore_1: cave
+bip_39_word_underscore_10: cave_worth_betray_hat_wink_faith_ocean_pigeon_surge_green
+bip_39_word_underscore_11: cave_worth_betray_hat_wink_faith_ocean_pigeon_surge_green_opera
+bip_39_word_underscore_12: cave_worth_betray_hat_wink_faith_ocean_pigeon_surge_green_opera_alter
+bip_39_word_underscore_2: cave_worth
+bip_39_word_underscore_3: cave_worth_betray
+bip_39_word_underscore_4: cave_worth_betray_hat
+bip_39_word_underscore_5: cave_worth_betray_hat_wink
+bip_39_word_underscore_6: cave_worth_betray_hat_wink_faith
+bip_39_word_underscore_7: cave_worth_betray_hat_wink_faith_ocean
+bip_39_word_underscore_8: cave_worth_betray_hat_wink_faith_ocean_pigeon
+bip_39_word_underscore_9: cave_worth_betray_hat_wink_faith_ocean_pigeon_surge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

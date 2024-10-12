@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | believe |  
+| bip_39_word_dash_10 | believe-judge-rib-retreat-vicious-cushion-letter-turn-impose-owner |  
+| bip_39_word_dash_11 | believe-judge-rib-retreat-vicious-cushion-letter-turn-impose-owner-silver |  
+| bip_39_word_dash_12 | believe-judge-rib-retreat-vicious-cushion-letter-turn-impose-owner-silver-acoustic |  
+| bip_39_word_dash_2 | believe-judge |  
+| bip_39_word_dash_3 | believe-judge-rib |  
+| bip_39_word_dash_4 | believe-judge-rib-retreat |  
+| bip_39_word_dash_5 | believe-judge-rib-retreat-vicious |  
+| bip_39_word_dash_6 | believe-judge-rib-retreat-vicious-cushion |  
+| bip_39_word_dash_7 | believe-judge-rib-retreat-vicious-cushion-letter |  
+| bip_39_word_dash_8 | believe-judge-rib-retreat-vicious-cushion-letter-turn |  
+| bip_39_word_dash_9 | believe-judge-rib-retreat-vicious-cushion-letter-turn-impose |  
 | bip_39_word_new_br_1 | believe |  
 | bip_39_word_new_br_10 | believe<br>judge<br>rib<br>retreat<br>vicious<br>cushion<br>letter<br>turn<br>impose<br>owner |  
 | bip_39_word_new_br_11 | believe<br>judge<br>rib<br>retreat<br>vicious<br>cushion<br>letter<br>turn<br>impose<br>owner<br>silver |  
@@ -147,6 +159,18 @@ impose |
 | bip_39_word_space_7 | believe judge rib retreat vicious cushion letter |  
 | bip_39_word_space_8 | believe judge rib retreat vicious cushion letter turn |  
 | bip_39_word_space_9 | believe judge rib retreat vicious cushion letter turn impose |  
+| bip_39_word_underscore_1 | believe |  
+| bip_39_word_underscore_10 | believe_judge_rib_retreat_vicious_cushion_letter_turn_impose_owner |  
+| bip_39_word_underscore_11 | believe_judge_rib_retreat_vicious_cushion_letter_turn_impose_owner_silver |  
+| bip_39_word_underscore_12 | believe_judge_rib_retreat_vicious_cushion_letter_turn_impose_owner_silver_acoustic |  
+| bip_39_word_underscore_2 | believe_judge |  
+| bip_39_word_underscore_3 | believe_judge_rib |  
+| bip_39_word_underscore_4 | believe_judge_rib_retreat |  
+| bip_39_word_underscore_5 | believe_judge_rib_retreat_vicious |  
+| bip_39_word_underscore_6 | believe_judge_rib_retreat_vicious_cushion |  
+| bip_39_word_underscore_7 | believe_judge_rib_retreat_vicious_cushion_letter |  
+| bip_39_word_underscore_8 | believe_judge_rib_retreat_vicious_cushion_letter_turn |  
+| bip_39_word_underscore_9 | believe_judge_rib_retreat_vicious_cushion_letter_turn_impose |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

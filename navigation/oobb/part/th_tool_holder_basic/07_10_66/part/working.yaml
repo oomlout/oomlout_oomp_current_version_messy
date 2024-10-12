@@ -1,3 +1,15 @@
+bip_39_word_dash_1: six
+bip_39_word_dash_10: six-mirror-cube-parent-police-dish-sibling-capable-wagon-garment
+bip_39_word_dash_11: six-mirror-cube-parent-police-dish-sibling-capable-wagon-garment-reflect
+bip_39_word_dash_12: six-mirror-cube-parent-police-dish-sibling-capable-wagon-garment-reflect-anger
+bip_39_word_dash_2: six-mirror
+bip_39_word_dash_3: six-mirror-cube
+bip_39_word_dash_4: six-mirror-cube-parent
+bip_39_word_dash_5: six-mirror-cube-parent-police
+bip_39_word_dash_6: six-mirror-cube-parent-police-dish
+bip_39_word_dash_7: six-mirror-cube-parent-police-dish-sibling
+bip_39_word_dash_8: six-mirror-cube-parent-police-dish-sibling-capable
+bip_39_word_dash_9: six-mirror-cube-parent-police-dish-sibling-capable-wagon
 bip_39_word_new_br_1: six
 bip_39_word_new_br_10: six<br>mirror<br>cube<br>parent<br>police<br>dish<br>sibling<br>capable<br>wagon<br>garment
 bip_39_word_new_br_11: six<br>mirror<br>cube<br>parent<br>police<br>dish<br>sibling<br>capable<br>wagon<br>garment<br>reflect
@@ -193,6 +205,18 @@ bip_39_word_space_6: six mirror cube parent police dish
 bip_39_word_space_7: six mirror cube parent police dish sibling
 bip_39_word_space_8: six mirror cube parent police dish sibling capable
 bip_39_word_space_9: six mirror cube parent police dish sibling capable wagon
+bip_39_word_underscore_1: six
+bip_39_word_underscore_10: six_mirror_cube_parent_police_dish_sibling_capable_wagon_garment
+bip_39_word_underscore_11: six_mirror_cube_parent_police_dish_sibling_capable_wagon_garment_reflect
+bip_39_word_underscore_12: six_mirror_cube_parent_police_dish_sibling_capable_wagon_garment_reflect_anger
+bip_39_word_underscore_2: six_mirror
+bip_39_word_underscore_3: six_mirror_cube
+bip_39_word_underscore_4: six_mirror_cube_parent
+bip_39_word_underscore_5: six_mirror_cube_parent_police
+bip_39_word_underscore_6: six_mirror_cube_parent_police_dish
+bip_39_word_underscore_7: six_mirror_cube_parent_police_dish_sibling
+bip_39_word_underscore_8: six_mirror_cube_parent_police_dish_sibling_capable
+bip_39_word_underscore_9: six_mirror_cube_parent_police_dish_sibling_capable_wagon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

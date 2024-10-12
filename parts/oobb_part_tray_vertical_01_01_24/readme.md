@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | moon |  
+| bip_39_word_dash_10 | moon-sunny-flush-dial-ketchup-inner-junior-course-eyebrow-excuse |  
+| bip_39_word_dash_11 | moon-sunny-flush-dial-ketchup-inner-junior-course-eyebrow-excuse-civil |  
+| bip_39_word_dash_12 | moon-sunny-flush-dial-ketchup-inner-junior-course-eyebrow-excuse-civil-aim |  
+| bip_39_word_dash_2 | moon-sunny |  
+| bip_39_word_dash_3 | moon-sunny-flush |  
+| bip_39_word_dash_4 | moon-sunny-flush-dial |  
+| bip_39_word_dash_5 | moon-sunny-flush-dial-ketchup |  
+| bip_39_word_dash_6 | moon-sunny-flush-dial-ketchup-inner |  
+| bip_39_word_dash_7 | moon-sunny-flush-dial-ketchup-inner-junior |  
+| bip_39_word_dash_8 | moon-sunny-flush-dial-ketchup-inner-junior-course |  
+| bip_39_word_dash_9 | moon-sunny-flush-dial-ketchup-inner-junior-course-eyebrow |  
 | bip_39_word_new_br_1 | moon |  
 | bip_39_word_new_br_10 | moon<br>sunny<br>flush<br>dial<br>ketchup<br>inner<br>junior<br>course<br>eyebrow<br>excuse |  
 | bip_39_word_new_br_11 | moon<br>sunny<br>flush<br>dial<br>ketchup<br>inner<br>junior<br>course<br>eyebrow<br>excuse<br>civil |  
@@ -147,6 +159,18 @@ eyebrow |
 | bip_39_word_space_7 | moon sunny flush dial ketchup inner junior |  
 | bip_39_word_space_8 | moon sunny flush dial ketchup inner junior course |  
 | bip_39_word_space_9 | moon sunny flush dial ketchup inner junior course eyebrow |  
+| bip_39_word_underscore_1 | moon |  
+| bip_39_word_underscore_10 | moon_sunny_flush_dial_ketchup_inner_junior_course_eyebrow_excuse |  
+| bip_39_word_underscore_11 | moon_sunny_flush_dial_ketchup_inner_junior_course_eyebrow_excuse_civil |  
+| bip_39_word_underscore_12 | moon_sunny_flush_dial_ketchup_inner_junior_course_eyebrow_excuse_civil_aim |  
+| bip_39_word_underscore_2 | moon_sunny |  
+| bip_39_word_underscore_3 | moon_sunny_flush |  
+| bip_39_word_underscore_4 | moon_sunny_flush_dial |  
+| bip_39_word_underscore_5 | moon_sunny_flush_dial_ketchup |  
+| bip_39_word_underscore_6 | moon_sunny_flush_dial_ketchup_inner |  
+| bip_39_word_underscore_7 | moon_sunny_flush_dial_ketchup_inner_junior |  
+| bip_39_word_underscore_8 | moon_sunny_flush_dial_ketchup_inner_junior_course |  
+| bip_39_word_underscore_9 | moon_sunny_flush_dial_ketchup_inner_junior_course_eyebrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

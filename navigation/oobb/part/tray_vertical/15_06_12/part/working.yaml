@@ -1,3 +1,15 @@
+bip_39_word_dash_1: disorder
+bip_39_word_dash_10: disorder-include-midnight-seven-chair-limb-wonder-page-basic-stove
+bip_39_word_dash_11: disorder-include-midnight-seven-chair-limb-wonder-page-basic-stove-business
+bip_39_word_dash_12: disorder-include-midnight-seven-chair-limb-wonder-page-basic-stove-business-average
+bip_39_word_dash_2: disorder-include
+bip_39_word_dash_3: disorder-include-midnight
+bip_39_word_dash_4: disorder-include-midnight-seven
+bip_39_word_dash_5: disorder-include-midnight-seven-chair
+bip_39_word_dash_6: disorder-include-midnight-seven-chair-limb
+bip_39_word_dash_7: disorder-include-midnight-seven-chair-limb-wonder
+bip_39_word_dash_8: disorder-include-midnight-seven-chair-limb-wonder-page
+bip_39_word_dash_9: disorder-include-midnight-seven-chair-limb-wonder-page-basic
 bip_39_word_new_br_1: disorder
 bip_39_word_new_br_10: disorder<br>include<br>midnight<br>seven<br>chair<br>limb<br>wonder<br>page<br>basic<br>stove
 bip_39_word_new_br_11: disorder<br>include<br>midnight<br>seven<br>chair<br>limb<br>wonder<br>page<br>basic<br>stove<br>business
@@ -194,6 +206,18 @@ bip_39_word_space_6: disorder include midnight seven chair limb
 bip_39_word_space_7: disorder include midnight seven chair limb wonder
 bip_39_word_space_8: disorder include midnight seven chair limb wonder page
 bip_39_word_space_9: disorder include midnight seven chair limb wonder page basic
+bip_39_word_underscore_1: disorder
+bip_39_word_underscore_10: disorder_include_midnight_seven_chair_limb_wonder_page_basic_stove
+bip_39_word_underscore_11: disorder_include_midnight_seven_chair_limb_wonder_page_basic_stove_business
+bip_39_word_underscore_12: disorder_include_midnight_seven_chair_limb_wonder_page_basic_stove_business_average
+bip_39_word_underscore_2: disorder_include
+bip_39_word_underscore_3: disorder_include_midnight
+bip_39_word_underscore_4: disorder_include_midnight_seven
+bip_39_word_underscore_5: disorder_include_midnight_seven_chair
+bip_39_word_underscore_6: disorder_include_midnight_seven_chair_limb
+bip_39_word_underscore_7: disorder_include_midnight_seven_chair_limb_wonder
+bip_39_word_underscore_8: disorder_include_midnight_seven_chair_limb_wonder_page
+bip_39_word_underscore_9: disorder_include_midnight_seven_chair_limb_wonder_page_basic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

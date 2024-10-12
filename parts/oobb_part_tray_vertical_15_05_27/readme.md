@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | doctor |  
+| bip_39_word_dash_10 | doctor-grace-join-flower-magnet-member-bundle-desk-sugar-coyote |  
+| bip_39_word_dash_11 | doctor-grace-join-flower-magnet-member-bundle-desk-sugar-coyote-evil |  
+| bip_39_word_dash_12 | doctor-grace-join-flower-magnet-member-bundle-desk-sugar-coyote-evil-advance |  
+| bip_39_word_dash_2 | doctor-grace |  
+| bip_39_word_dash_3 | doctor-grace-join |  
+| bip_39_word_dash_4 | doctor-grace-join-flower |  
+| bip_39_word_dash_5 | doctor-grace-join-flower-magnet |  
+| bip_39_word_dash_6 | doctor-grace-join-flower-magnet-member |  
+| bip_39_word_dash_7 | doctor-grace-join-flower-magnet-member-bundle |  
+| bip_39_word_dash_8 | doctor-grace-join-flower-magnet-member-bundle-desk |  
+| bip_39_word_dash_9 | doctor-grace-join-flower-magnet-member-bundle-desk-sugar |  
 | bip_39_word_new_br_1 | doctor |  
 | bip_39_word_new_br_10 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk<br>sugar<br>coyote |  
 | bip_39_word_new_br_11 | doctor<br>grace<br>join<br>flower<br>magnet<br>member<br>bundle<br>desk<br>sugar<br>coyote<br>evil |  
@@ -147,6 +159,18 @@ sugar |
 | bip_39_word_space_7 | doctor grace join flower magnet member bundle |  
 | bip_39_word_space_8 | doctor grace join flower magnet member bundle desk |  
 | bip_39_word_space_9 | doctor grace join flower magnet member bundle desk sugar |  
+| bip_39_word_underscore_1 | doctor |  
+| bip_39_word_underscore_10 | doctor_grace_join_flower_magnet_member_bundle_desk_sugar_coyote |  
+| bip_39_word_underscore_11 | doctor_grace_join_flower_magnet_member_bundle_desk_sugar_coyote_evil |  
+| bip_39_word_underscore_12 | doctor_grace_join_flower_magnet_member_bundle_desk_sugar_coyote_evil_advance |  
+| bip_39_word_underscore_2 | doctor_grace |  
+| bip_39_word_underscore_3 | doctor_grace_join |  
+| bip_39_word_underscore_4 | doctor_grace_join_flower |  
+| bip_39_word_underscore_5 | doctor_grace_join_flower_magnet |  
+| bip_39_word_underscore_6 | doctor_grace_join_flower_magnet_member |  
+| bip_39_word_underscore_7 | doctor_grace_join_flower_magnet_member_bundle |  
+| bip_39_word_underscore_8 | doctor_grace_join_flower_magnet_member_bundle_desk |  
+| bip_39_word_underscore_9 | doctor_grace_join_flower_magnet_member_bundle_desk_sugar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

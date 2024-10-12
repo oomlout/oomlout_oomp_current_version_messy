@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | problem |  
+| bip_39_word_dash_10 | problem-clay-tired-always-stumble-stairs-satoshi-cinnamon-trade-act |  
+| bip_39_word_dash_11 | problem-clay-tired-always-stumble-stairs-satoshi-cinnamon-trade-act-cry |  
+| bip_39_word_dash_12 | problem-clay-tired-always-stumble-stairs-satoshi-cinnamon-trade-act-cry-arena |  
+| bip_39_word_dash_2 | problem-clay |  
+| bip_39_word_dash_3 | problem-clay-tired |  
+| bip_39_word_dash_4 | problem-clay-tired-always |  
+| bip_39_word_dash_5 | problem-clay-tired-always-stumble |  
+| bip_39_word_dash_6 | problem-clay-tired-always-stumble-stairs |  
+| bip_39_word_dash_7 | problem-clay-tired-always-stumble-stairs-satoshi |  
+| bip_39_word_dash_8 | problem-clay-tired-always-stumble-stairs-satoshi-cinnamon |  
+| bip_39_word_dash_9 | problem-clay-tired-always-stumble-stairs-satoshi-cinnamon-trade |  
 | bip_39_word_new_br_1 | problem |  
 | bip_39_word_new_br_10 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act |  
 | bip_39_word_new_br_11 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act<br>cry |  
@@ -147,6 +159,18 @@ trade |
 | bip_39_word_space_7 | problem clay tired always stumble stairs satoshi |  
 | bip_39_word_space_8 | problem clay tired always stumble stairs satoshi cinnamon |  
 | bip_39_word_space_9 | problem clay tired always stumble stairs satoshi cinnamon trade |  
+| bip_39_word_underscore_1 | problem |  
+| bip_39_word_underscore_10 | problem_clay_tired_always_stumble_stairs_satoshi_cinnamon_trade_act |  
+| bip_39_word_underscore_11 | problem_clay_tired_always_stumble_stairs_satoshi_cinnamon_trade_act_cry |  
+| bip_39_word_underscore_12 | problem_clay_tired_always_stumble_stairs_satoshi_cinnamon_trade_act_cry_arena |  
+| bip_39_word_underscore_2 | problem_clay |  
+| bip_39_word_underscore_3 | problem_clay_tired |  
+| bip_39_word_underscore_4 | problem_clay_tired_always |  
+| bip_39_word_underscore_5 | problem_clay_tired_always_stumble |  
+| bip_39_word_underscore_6 | problem_clay_tired_always_stumble_stairs |  
+| bip_39_word_underscore_7 | problem_clay_tired_always_stumble_stairs_satoshi |  
+| bip_39_word_underscore_8 | problem_clay_tired_always_stumble_stairs_satoshi_cinnamon |  
+| bip_39_word_underscore_9 | problem_clay_tired_always_stumble_stairs_satoshi_cinnamon_trade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

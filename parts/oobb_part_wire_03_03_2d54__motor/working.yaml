@@ -1,3 +1,15 @@
+bip_39_word_dash_1: history
+bip_39_word_dash_10: history-raven-dilemma-bridge-zoo-hollow-muffin-universe-scare-human
+bip_39_word_dash_11: history-raven-dilemma-bridge-zoo-hollow-muffin-universe-scare-human-scene
+bip_39_word_dash_12: history-raven-dilemma-bridge-zoo-hollow-muffin-universe-scare-human-scene-anger
+bip_39_word_dash_2: history-raven
+bip_39_word_dash_3: history-raven-dilemma
+bip_39_word_dash_4: history-raven-dilemma-bridge
+bip_39_word_dash_5: history-raven-dilemma-bridge-zoo
+bip_39_word_dash_6: history-raven-dilemma-bridge-zoo-hollow
+bip_39_word_dash_7: history-raven-dilemma-bridge-zoo-hollow-muffin
+bip_39_word_dash_8: history-raven-dilemma-bridge-zoo-hollow-muffin-universe
+bip_39_word_dash_9: history-raven-dilemma-bridge-zoo-hollow-muffin-universe-scare
 bip_39_word_new_br_1: history
 bip_39_word_new_br_10: history<br>raven<br>dilemma<br>bridge<br>zoo<br>hollow<br>muffin<br>universe<br>scare<br>human
 bip_39_word_new_br_11: history<br>raven<br>dilemma<br>bridge<br>zoo<br>hollow<br>muffin<br>universe<br>scare<br>human<br>scene
@@ -194,6 +206,18 @@ bip_39_word_space_6: history raven dilemma bridge zoo hollow
 bip_39_word_space_7: history raven dilemma bridge zoo hollow muffin
 bip_39_word_space_8: history raven dilemma bridge zoo hollow muffin universe
 bip_39_word_space_9: history raven dilemma bridge zoo hollow muffin universe scare
+bip_39_word_underscore_1: history
+bip_39_word_underscore_10: history_raven_dilemma_bridge_zoo_hollow_muffin_universe_scare_human
+bip_39_word_underscore_11: history_raven_dilemma_bridge_zoo_hollow_muffin_universe_scare_human_scene
+bip_39_word_underscore_12: history_raven_dilemma_bridge_zoo_hollow_muffin_universe_scare_human_scene_anger
+bip_39_word_underscore_2: history_raven
+bip_39_word_underscore_3: history_raven_dilemma
+bip_39_word_underscore_4: history_raven_dilemma_bridge
+bip_39_word_underscore_5: history_raven_dilemma_bridge_zoo
+bip_39_word_underscore_6: history_raven_dilemma_bridge_zoo_hollow
+bip_39_word_underscore_7: history_raven_dilemma_bridge_zoo_hollow_muffin
+bip_39_word_underscore_8: history_raven_dilemma_bridge_zoo_hollow_muffin_universe
+bip_39_word_underscore_9: history_raven_dilemma_bridge_zoo_hollow_muffin_universe_scare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

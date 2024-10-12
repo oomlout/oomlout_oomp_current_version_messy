@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | amused |  
+| bip_39_word_dash_10 | amused-churn-wing-bird-erosion-judge-display-suspect-student-broken |  
+| bip_39_word_dash_11 | amused-churn-wing-bird-erosion-judge-display-suspect-student-broken-wasp |  
+| bip_39_word_dash_12 | amused-churn-wing-bird-erosion-judge-display-suspect-student-broken-wasp-adult |  
+| bip_39_word_dash_2 | amused-churn |  
+| bip_39_word_dash_3 | amused-churn-wing |  
+| bip_39_word_dash_4 | amused-churn-wing-bird |  
+| bip_39_word_dash_5 | amused-churn-wing-bird-erosion |  
+| bip_39_word_dash_6 | amused-churn-wing-bird-erosion-judge |  
+| bip_39_word_dash_7 | amused-churn-wing-bird-erosion-judge-display |  
+| bip_39_word_dash_8 | amused-churn-wing-bird-erosion-judge-display-suspect |  
+| bip_39_word_dash_9 | amused-churn-wing-bird-erosion-judge-display-suspect-student |  
 | bip_39_word_new_br_1 | amused |  
 | bip_39_word_new_br_10 | amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect<br>student<br>broken |  
 | bip_39_word_new_br_11 | amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect<br>student<br>broken<br>wasp |  
@@ -147,6 +159,18 @@ student |
 | bip_39_word_space_7 | amused churn wing bird erosion judge display |  
 | bip_39_word_space_8 | amused churn wing bird erosion judge display suspect |  
 | bip_39_word_space_9 | amused churn wing bird erosion judge display suspect student |  
+| bip_39_word_underscore_1 | amused |  
+| bip_39_word_underscore_10 | amused_churn_wing_bird_erosion_judge_display_suspect_student_broken |  
+| bip_39_word_underscore_11 | amused_churn_wing_bird_erosion_judge_display_suspect_student_broken_wasp |  
+| bip_39_word_underscore_12 | amused_churn_wing_bird_erosion_judge_display_suspect_student_broken_wasp_adult |  
+| bip_39_word_underscore_2 | amused_churn |  
+| bip_39_word_underscore_3 | amused_churn_wing |  
+| bip_39_word_underscore_4 | amused_churn_wing_bird |  
+| bip_39_word_underscore_5 | amused_churn_wing_bird_erosion |  
+| bip_39_word_underscore_6 | amused_churn_wing_bird_erosion_judge |  
+| bip_39_word_underscore_7 | amused_churn_wing_bird_erosion_judge_display |  
+| bip_39_word_underscore_8 | amused_churn_wing_bird_erosion_judge_display_suspect |  
+| bip_39_word_underscore_9 | amused_churn_wing_bird_erosion_judge_display_suspect_student |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

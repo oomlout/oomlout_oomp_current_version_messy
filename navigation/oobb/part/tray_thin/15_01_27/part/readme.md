@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spend |  
+| bip_39_word_dash_10 | spend-note-carbon-female-tank-badge-track-feed-violin-reject |  
+| bip_39_word_dash_11 | spend-note-carbon-female-tank-badge-track-feed-violin-reject-sphere |  
+| bip_39_word_dash_12 | spend-note-carbon-female-tank-badge-track-feed-violin-reject-sphere-air |  
+| bip_39_word_dash_2 | spend-note |  
+| bip_39_word_dash_3 | spend-note-carbon |  
+| bip_39_word_dash_4 | spend-note-carbon-female |  
+| bip_39_word_dash_5 | spend-note-carbon-female-tank |  
+| bip_39_word_dash_6 | spend-note-carbon-female-tank-badge |  
+| bip_39_word_dash_7 | spend-note-carbon-female-tank-badge-track |  
+| bip_39_word_dash_8 | spend-note-carbon-female-tank-badge-track-feed |  
+| bip_39_word_dash_9 | spend-note-carbon-female-tank-badge-track-feed-violin |  
 | bip_39_word_new_br_1 | spend |  
 | bip_39_word_new_br_10 | spend<br>note<br>carbon<br>female<br>tank<br>badge<br>track<br>feed<br>violin<br>reject |  
 | bip_39_word_new_br_11 | spend<br>note<br>carbon<br>female<br>tank<br>badge<br>track<br>feed<br>violin<br>reject<br>sphere |  
@@ -147,6 +159,18 @@ violin |
 | bip_39_word_space_7 | spend note carbon female tank badge track |  
 | bip_39_word_space_8 | spend note carbon female tank badge track feed |  
 | bip_39_word_space_9 | spend note carbon female tank badge track feed violin |  
+| bip_39_word_underscore_1 | spend |  
+| bip_39_word_underscore_10 | spend_note_carbon_female_tank_badge_track_feed_violin_reject |  
+| bip_39_word_underscore_11 | spend_note_carbon_female_tank_badge_track_feed_violin_reject_sphere |  
+| bip_39_word_underscore_12 | spend_note_carbon_female_tank_badge_track_feed_violin_reject_sphere_air |  
+| bip_39_word_underscore_2 | spend_note |  
+| bip_39_word_underscore_3 | spend_note_carbon |  
+| bip_39_word_underscore_4 | spend_note_carbon_female |  
+| bip_39_word_underscore_5 | spend_note_carbon_female_tank |  
+| bip_39_word_underscore_6 | spend_note_carbon_female_tank_badge |  
+| bip_39_word_underscore_7 | spend_note_carbon_female_tank_badge_track |  
+| bip_39_word_underscore_8 | spend_note_carbon_female_tank_badge_track_feed |  
+| bip_39_word_underscore_9 | spend_note_carbon_female_tank_badge_track_feed_violin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: universe
+bip_39_word_dash_10: universe-enroll-medal-recycle-cement-render-embody-net-keen-pride
+bip_39_word_dash_11: universe-enroll-medal-recycle-cement-render-embody-net-keen-pride-slender
+bip_39_word_dash_12: universe-enroll-medal-recycle-cement-render-embody-net-keen-pride-slender-aisle
+bip_39_word_dash_2: universe-enroll
+bip_39_word_dash_3: universe-enroll-medal
+bip_39_word_dash_4: universe-enroll-medal-recycle
+bip_39_word_dash_5: universe-enroll-medal-recycle-cement
+bip_39_word_dash_6: universe-enroll-medal-recycle-cement-render
+bip_39_word_dash_7: universe-enroll-medal-recycle-cement-render-embody
+bip_39_word_dash_8: universe-enroll-medal-recycle-cement-render-embody-net
+bip_39_word_dash_9: universe-enroll-medal-recycle-cement-render-embody-net-keen
 bip_39_word_new_br_1: universe
 bip_39_word_new_br_10: universe<br>enroll<br>medal<br>recycle<br>cement<br>render<br>embody<br>net<br>keen<br>pride
 bip_39_word_new_br_11: universe<br>enroll<br>medal<br>recycle<br>cement<br>render<br>embody<br>net<br>keen<br>pride<br>slender
@@ -194,6 +206,18 @@ bip_39_word_space_6: universe enroll medal recycle cement render
 bip_39_word_space_7: universe enroll medal recycle cement render embody
 bip_39_word_space_8: universe enroll medal recycle cement render embody net
 bip_39_word_space_9: universe enroll medal recycle cement render embody net keen
+bip_39_word_underscore_1: universe
+bip_39_word_underscore_10: universe_enroll_medal_recycle_cement_render_embody_net_keen_pride
+bip_39_word_underscore_11: universe_enroll_medal_recycle_cement_render_embody_net_keen_pride_slender
+bip_39_word_underscore_12: universe_enroll_medal_recycle_cement_render_embody_net_keen_pride_slender_aisle
+bip_39_word_underscore_2: universe_enroll
+bip_39_word_underscore_3: universe_enroll_medal
+bip_39_word_underscore_4: universe_enroll_medal_recycle
+bip_39_word_underscore_5: universe_enroll_medal_recycle_cement
+bip_39_word_underscore_6: universe_enroll_medal_recycle_cement_render
+bip_39_word_underscore_7: universe_enroll_medal_recycle_cement_render_embody
+bip_39_word_underscore_8: universe_enroll_medal_recycle_cement_render_embody_net
+bip_39_word_underscore_9: universe_enroll_medal_recycle_cement_render_embody_net_keen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

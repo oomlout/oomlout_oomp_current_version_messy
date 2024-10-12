@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unique |  
+| bip_39_word_dash_10 | unique-trip-pencil-meadow-core-toast-honey-taste-lab-demand |  
+| bip_39_word_dash_11 | unique-trip-pencil-meadow-core-toast-honey-taste-lab-demand-ginger |  
+| bip_39_word_dash_12 | unique-trip-pencil-meadow-core-toast-honey-taste-lab-demand-ginger-alter |  
+| bip_39_word_dash_2 | unique-trip |  
+| bip_39_word_dash_3 | unique-trip-pencil |  
+| bip_39_word_dash_4 | unique-trip-pencil-meadow |  
+| bip_39_word_dash_5 | unique-trip-pencil-meadow-core |  
+| bip_39_word_dash_6 | unique-trip-pencil-meadow-core-toast |  
+| bip_39_word_dash_7 | unique-trip-pencil-meadow-core-toast-honey |  
+| bip_39_word_dash_8 | unique-trip-pencil-meadow-core-toast-honey-taste |  
+| bip_39_word_dash_9 | unique-trip-pencil-meadow-core-toast-honey-taste-lab |  
 | bip_39_word_new_br_1 | unique |  
 | bip_39_word_new_br_10 | unique<br>trip<br>pencil<br>meadow<br>core<br>toast<br>honey<br>taste<br>lab<br>demand |  
 | bip_39_word_new_br_11 | unique<br>trip<br>pencil<br>meadow<br>core<br>toast<br>honey<br>taste<br>lab<br>demand<br>ginger |  
@@ -147,6 +159,18 @@ lab |
 | bip_39_word_space_7 | unique trip pencil meadow core toast honey |  
 | bip_39_word_space_8 | unique trip pencil meadow core toast honey taste |  
 | bip_39_word_space_9 | unique trip pencil meadow core toast honey taste lab |  
+| bip_39_word_underscore_1 | unique |  
+| bip_39_word_underscore_10 | unique_trip_pencil_meadow_core_toast_honey_taste_lab_demand |  
+| bip_39_word_underscore_11 | unique_trip_pencil_meadow_core_toast_honey_taste_lab_demand_ginger |  
+| bip_39_word_underscore_12 | unique_trip_pencil_meadow_core_toast_honey_taste_lab_demand_ginger_alter |  
+| bip_39_word_underscore_2 | unique_trip |  
+| bip_39_word_underscore_3 | unique_trip_pencil |  
+| bip_39_word_underscore_4 | unique_trip_pencil_meadow |  
+| bip_39_word_underscore_5 | unique_trip_pencil_meadow_core |  
+| bip_39_word_underscore_6 | unique_trip_pencil_meadow_core_toast |  
+| bip_39_word_underscore_7 | unique_trip_pencil_meadow_core_toast_honey |  
+| bip_39_word_underscore_8 | unique_trip_pencil_meadow_core_toast_honey_taste |  
+| bip_39_word_underscore_9 | unique_trip_pencil_meadow_core_toast_honey_taste_lab |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

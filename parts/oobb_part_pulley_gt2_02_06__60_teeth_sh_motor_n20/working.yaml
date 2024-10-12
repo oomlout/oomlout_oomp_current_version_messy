@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fever
+bip_39_word_dash_10: fever-polar-patient-vote-gift-egg-canoe-faint-sail-guide
+bip_39_word_dash_11: fever-polar-patient-vote-gift-egg-canoe-faint-sail-guide-effort
+bip_39_word_dash_12: fever-polar-patient-vote-gift-egg-canoe-faint-sail-guide-effort-allow
+bip_39_word_dash_2: fever-polar
+bip_39_word_dash_3: fever-polar-patient
+bip_39_word_dash_4: fever-polar-patient-vote
+bip_39_word_dash_5: fever-polar-patient-vote-gift
+bip_39_word_dash_6: fever-polar-patient-vote-gift-egg
+bip_39_word_dash_7: fever-polar-patient-vote-gift-egg-canoe
+bip_39_word_dash_8: fever-polar-patient-vote-gift-egg-canoe-faint
+bip_39_word_dash_9: fever-polar-patient-vote-gift-egg-canoe-faint-sail
 bip_39_word_new_br_1: fever
 bip_39_word_new_br_10: fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint<br>sail<br>guide
 bip_39_word_new_br_11: fever<br>polar<br>patient<br>vote<br>gift<br>egg<br>canoe<br>faint<br>sail<br>guide<br>effort
@@ -192,6 +204,18 @@ bip_39_word_space_6: fever polar patient vote gift egg
 bip_39_word_space_7: fever polar patient vote gift egg canoe
 bip_39_word_space_8: fever polar patient vote gift egg canoe faint
 bip_39_word_space_9: fever polar patient vote gift egg canoe faint sail
+bip_39_word_underscore_1: fever
+bip_39_word_underscore_10: fever_polar_patient_vote_gift_egg_canoe_faint_sail_guide
+bip_39_word_underscore_11: fever_polar_patient_vote_gift_egg_canoe_faint_sail_guide_effort
+bip_39_word_underscore_12: fever_polar_patient_vote_gift_egg_canoe_faint_sail_guide_effort_allow
+bip_39_word_underscore_2: fever_polar
+bip_39_word_underscore_3: fever_polar_patient
+bip_39_word_underscore_4: fever_polar_patient_vote
+bip_39_word_underscore_5: fever_polar_patient_vote_gift
+bip_39_word_underscore_6: fever_polar_patient_vote_gift_egg
+bip_39_word_underscore_7: fever_polar_patient_vote_gift_egg_canoe
+bip_39_word_underscore_8: fever_polar_patient_vote_gift_egg_canoe_faint
+bip_39_word_underscore_9: fever_polar_patient_vote_gift_egg_canoe_faint_sail
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

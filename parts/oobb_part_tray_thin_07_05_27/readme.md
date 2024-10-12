@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dog |  
+| bip_39_word_dash_10 | dog-honey-fade-kiss-antique-trap-often-brain-find-cradle |  
+| bip_39_word_dash_11 | dog-honey-fade-kiss-antique-trap-often-brain-find-cradle-monster |  
+| bip_39_word_dash_12 | dog-honey-fade-kiss-antique-trap-often-brain-find-cradle-monster-ancient |  
+| bip_39_word_dash_2 | dog-honey |  
+| bip_39_word_dash_3 | dog-honey-fade |  
+| bip_39_word_dash_4 | dog-honey-fade-kiss |  
+| bip_39_word_dash_5 | dog-honey-fade-kiss-antique |  
+| bip_39_word_dash_6 | dog-honey-fade-kiss-antique-trap |  
+| bip_39_word_dash_7 | dog-honey-fade-kiss-antique-trap-often |  
+| bip_39_word_dash_8 | dog-honey-fade-kiss-antique-trap-often-brain |  
+| bip_39_word_dash_9 | dog-honey-fade-kiss-antique-trap-often-brain-find |  
 | bip_39_word_new_br_1 | dog |  
 | bip_39_word_new_br_10 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain<br>find<br>cradle |  
 | bip_39_word_new_br_11 | dog<br>honey<br>fade<br>kiss<br>antique<br>trap<br>often<br>brain<br>find<br>cradle<br>monster |  
@@ -147,6 +159,18 @@ find |
 | bip_39_word_space_7 | dog honey fade kiss antique trap often |  
 | bip_39_word_space_8 | dog honey fade kiss antique trap often brain |  
 | bip_39_word_space_9 | dog honey fade kiss antique trap often brain find |  
+| bip_39_word_underscore_1 | dog |  
+| bip_39_word_underscore_10 | dog_honey_fade_kiss_antique_trap_often_brain_find_cradle |  
+| bip_39_word_underscore_11 | dog_honey_fade_kiss_antique_trap_often_brain_find_cradle_monster |  
+| bip_39_word_underscore_12 | dog_honey_fade_kiss_antique_trap_often_brain_find_cradle_monster_ancient |  
+| bip_39_word_underscore_2 | dog_honey |  
+| bip_39_word_underscore_3 | dog_honey_fade |  
+| bip_39_word_underscore_4 | dog_honey_fade_kiss |  
+| bip_39_word_underscore_5 | dog_honey_fade_kiss_antique |  
+| bip_39_word_underscore_6 | dog_honey_fade_kiss_antique_trap |  
+| bip_39_word_underscore_7 | dog_honey_fade_kiss_antique_trap_often |  
+| bip_39_word_underscore_8 | dog_honey_fade_kiss_antique_trap_often_brain |  
+| bip_39_word_underscore_9 | dog_honey_fade_kiss_antique_trap_often_brain_find |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

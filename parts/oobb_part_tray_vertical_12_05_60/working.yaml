@@ -1,3 +1,15 @@
+bip_39_word_dash_1: follow
+bip_39_word_dash_10: follow-face-erupt-surround-market-inflict-toy-blast-sorry-edit
+bip_39_word_dash_11: follow-face-erupt-surround-market-inflict-toy-blast-sorry-edit-right
+bip_39_word_dash_12: follow-face-erupt-surround-market-inflict-toy-blast-sorry-edit-right-addict
+bip_39_word_dash_2: follow-face
+bip_39_word_dash_3: follow-face-erupt
+bip_39_word_dash_4: follow-face-erupt-surround
+bip_39_word_dash_5: follow-face-erupt-surround-market
+bip_39_word_dash_6: follow-face-erupt-surround-market-inflict
+bip_39_word_dash_7: follow-face-erupt-surround-market-inflict-toy
+bip_39_word_dash_8: follow-face-erupt-surround-market-inflict-toy-blast
+bip_39_word_dash_9: follow-face-erupt-surround-market-inflict-toy-blast-sorry
 bip_39_word_new_br_1: follow
 bip_39_word_new_br_10: follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit
 bip_39_word_new_br_11: follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit<br>right
@@ -193,6 +205,18 @@ bip_39_word_space_6: follow face erupt surround market inflict
 bip_39_word_space_7: follow face erupt surround market inflict toy
 bip_39_word_space_8: follow face erupt surround market inflict toy blast
 bip_39_word_space_9: follow face erupt surround market inflict toy blast sorry
+bip_39_word_underscore_1: follow
+bip_39_word_underscore_10: follow_face_erupt_surround_market_inflict_toy_blast_sorry_edit
+bip_39_word_underscore_11: follow_face_erupt_surround_market_inflict_toy_blast_sorry_edit_right
+bip_39_word_underscore_12: follow_face_erupt_surround_market_inflict_toy_blast_sorry_edit_right_addict
+bip_39_word_underscore_2: follow_face
+bip_39_word_underscore_3: follow_face_erupt
+bip_39_word_underscore_4: follow_face_erupt_surround
+bip_39_word_underscore_5: follow_face_erupt_surround_market
+bip_39_word_underscore_6: follow_face_erupt_surround_market_inflict
+bip_39_word_underscore_7: follow_face_erupt_surround_market_inflict_toy
+bip_39_word_underscore_8: follow_face_erupt_surround_market_inflict_toy_blast
+bip_39_word_underscore_9: follow_face_erupt_surround_market_inflict_toy_blast_sorry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

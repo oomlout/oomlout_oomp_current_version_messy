@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flock |  
+| bip_39_word_dash_10 | flock-legend-retire-garbage-prepare-conduct-valley-awesome-suit-blind |  
+| bip_39_word_dash_11 | flock-legend-retire-garbage-prepare-conduct-valley-awesome-suit-blind-aware |  
+| bip_39_word_dash_12 | flock-legend-retire-garbage-prepare-conduct-valley-awesome-suit-blind-aware-around |  
+| bip_39_word_dash_2 | flock-legend |  
+| bip_39_word_dash_3 | flock-legend-retire |  
+| bip_39_word_dash_4 | flock-legend-retire-garbage |  
+| bip_39_word_dash_5 | flock-legend-retire-garbage-prepare |  
+| bip_39_word_dash_6 | flock-legend-retire-garbage-prepare-conduct |  
+| bip_39_word_dash_7 | flock-legend-retire-garbage-prepare-conduct-valley |  
+| bip_39_word_dash_8 | flock-legend-retire-garbage-prepare-conduct-valley-awesome |  
+| bip_39_word_dash_9 | flock-legend-retire-garbage-prepare-conduct-valley-awesome-suit |  
 | bip_39_word_new_br_1 | flock |  
 | bip_39_word_new_br_10 | flock<br>legend<br>retire<br>garbage<br>prepare<br>conduct<br>valley<br>awesome<br>suit<br>blind |  
 | bip_39_word_new_br_11 | flock<br>legend<br>retire<br>garbage<br>prepare<br>conduct<br>valley<br>awesome<br>suit<br>blind<br>aware |  
@@ -147,6 +159,18 @@ suit |
 | bip_39_word_space_7 | flock legend retire garbage prepare conduct valley |  
 | bip_39_word_space_8 | flock legend retire garbage prepare conduct valley awesome |  
 | bip_39_word_space_9 | flock legend retire garbage prepare conduct valley awesome suit |  
+| bip_39_word_underscore_1 | flock |  
+| bip_39_word_underscore_10 | flock_legend_retire_garbage_prepare_conduct_valley_awesome_suit_blind |  
+| bip_39_word_underscore_11 | flock_legend_retire_garbage_prepare_conduct_valley_awesome_suit_blind_aware |  
+| bip_39_word_underscore_12 | flock_legend_retire_garbage_prepare_conduct_valley_awesome_suit_blind_aware_around |  
+| bip_39_word_underscore_2 | flock_legend |  
+| bip_39_word_underscore_3 | flock_legend_retire |  
+| bip_39_word_underscore_4 | flock_legend_retire_garbage |  
+| bip_39_word_underscore_5 | flock_legend_retire_garbage_prepare |  
+| bip_39_word_underscore_6 | flock_legend_retire_garbage_prepare_conduct |  
+| bip_39_word_underscore_7 | flock_legend_retire_garbage_prepare_conduct_valley |  
+| bip_39_word_underscore_8 | flock_legend_retire_garbage_prepare_conduct_valley_awesome |  
+| bip_39_word_underscore_9 | flock_legend_retire_garbage_prepare_conduct_valley_awesome_suit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

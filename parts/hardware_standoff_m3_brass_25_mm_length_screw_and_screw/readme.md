@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | duck |  
+| bip_39_word_dash_10 | duck-city-sea-round-know-balcony-essence-blouse-divert-multiply |  
+| bip_39_word_dash_11 | duck-city-sea-round-know-balcony-essence-blouse-divert-multiply-estate |  
+| bip_39_word_dash_12 | duck-city-sea-round-know-balcony-essence-blouse-divert-multiply-estate-april |  
+| bip_39_word_dash_2 | duck-city |  
+| bip_39_word_dash_3 | duck-city-sea |  
+| bip_39_word_dash_4 | duck-city-sea-round |  
+| bip_39_word_dash_5 | duck-city-sea-round-know |  
+| bip_39_word_dash_6 | duck-city-sea-round-know-balcony |  
+| bip_39_word_dash_7 | duck-city-sea-round-know-balcony-essence |  
+| bip_39_word_dash_8 | duck-city-sea-round-know-balcony-essence-blouse |  
+| bip_39_word_dash_9 | duck-city-sea-round-know-balcony-essence-blouse-divert |  
 | bip_39_word_new_br_1 | duck |  
 | bip_39_word_new_br_10 | duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse<br>divert<br>multiply |  
 | bip_39_word_new_br_11 | duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse<br>divert<br>multiply<br>estate |  
@@ -147,6 +159,18 @@ divert |
 | bip_39_word_space_7 | duck city sea round know balcony essence |  
 | bip_39_word_space_8 | duck city sea round know balcony essence blouse |  
 | bip_39_word_space_9 | duck city sea round know balcony essence blouse divert |  
+| bip_39_word_underscore_1 | duck |  
+| bip_39_word_underscore_10 | duck_city_sea_round_know_balcony_essence_blouse_divert_multiply |  
+| bip_39_word_underscore_11 | duck_city_sea_round_know_balcony_essence_blouse_divert_multiply_estate |  
+| bip_39_word_underscore_12 | duck_city_sea_round_know_balcony_essence_blouse_divert_multiply_estate_april |  
+| bip_39_word_underscore_2 | duck_city |  
+| bip_39_word_underscore_3 | duck_city_sea |  
+| bip_39_word_underscore_4 | duck_city_sea_round |  
+| bip_39_word_underscore_5 | duck_city_sea_round_know |  
+| bip_39_word_underscore_6 | duck_city_sea_round_know_balcony |  
+| bip_39_word_underscore_7 | duck_city_sea_round_know_balcony_essence |  
+| bip_39_word_underscore_8 | duck_city_sea_round_know_balcony_essence_blouse |  
+| bip_39_word_underscore_9 | duck_city_sea_round_know_balcony_essence_blouse_divert |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

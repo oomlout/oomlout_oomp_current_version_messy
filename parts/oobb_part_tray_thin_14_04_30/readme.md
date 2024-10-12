@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leisure |  
+| bip_39_word_dash_10 | leisure-limit-reopen-gravity-neck-month-nose-window-grow-borrow |  
+| bip_39_word_dash_11 | leisure-limit-reopen-gravity-neck-month-nose-window-grow-borrow-unable |  
+| bip_39_word_dash_12 | leisure-limit-reopen-gravity-neck-month-nose-window-grow-borrow-unable-antenna |  
+| bip_39_word_dash_2 | leisure-limit |  
+| bip_39_word_dash_3 | leisure-limit-reopen |  
+| bip_39_word_dash_4 | leisure-limit-reopen-gravity |  
+| bip_39_word_dash_5 | leisure-limit-reopen-gravity-neck |  
+| bip_39_word_dash_6 | leisure-limit-reopen-gravity-neck-month |  
+| bip_39_word_dash_7 | leisure-limit-reopen-gravity-neck-month-nose |  
+| bip_39_word_dash_8 | leisure-limit-reopen-gravity-neck-month-nose-window |  
+| bip_39_word_dash_9 | leisure-limit-reopen-gravity-neck-month-nose-window-grow |  
 | bip_39_word_new_br_1 | leisure |  
 | bip_39_word_new_br_10 | leisure<br>limit<br>reopen<br>gravity<br>neck<br>month<br>nose<br>window<br>grow<br>borrow |  
 | bip_39_word_new_br_11 | leisure<br>limit<br>reopen<br>gravity<br>neck<br>month<br>nose<br>window<br>grow<br>borrow<br>unable |  
@@ -147,6 +159,18 @@ grow |
 | bip_39_word_space_7 | leisure limit reopen gravity neck month nose |  
 | bip_39_word_space_8 | leisure limit reopen gravity neck month nose window |  
 | bip_39_word_space_9 | leisure limit reopen gravity neck month nose window grow |  
+| bip_39_word_underscore_1 | leisure |  
+| bip_39_word_underscore_10 | leisure_limit_reopen_gravity_neck_month_nose_window_grow_borrow |  
+| bip_39_word_underscore_11 | leisure_limit_reopen_gravity_neck_month_nose_window_grow_borrow_unable |  
+| bip_39_word_underscore_12 | leisure_limit_reopen_gravity_neck_month_nose_window_grow_borrow_unable_antenna |  
+| bip_39_word_underscore_2 | leisure_limit |  
+| bip_39_word_underscore_3 | leisure_limit_reopen |  
+| bip_39_word_underscore_4 | leisure_limit_reopen_gravity |  
+| bip_39_word_underscore_5 | leisure_limit_reopen_gravity_neck |  
+| bip_39_word_underscore_6 | leisure_limit_reopen_gravity_neck_month |  
+| bip_39_word_underscore_7 | leisure_limit_reopen_gravity_neck_month_nose |  
+| bip_39_word_underscore_8 | leisure_limit_reopen_gravity_neck_month_nose_window |  
+| bip_39_word_underscore_9 | leisure_limit_reopen_gravity_neck_month_nose_window_grow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

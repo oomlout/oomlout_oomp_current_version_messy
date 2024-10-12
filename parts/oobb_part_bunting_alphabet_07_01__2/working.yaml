@@ -1,3 +1,15 @@
+bip_39_word_dash_1: junior
+bip_39_word_dash_10: junior-novel-require-vendor-buyer-fee-angry-assume-silly-bitter
+bip_39_word_dash_11: junior-novel-require-vendor-buyer-fee-angry-assume-silly-bitter-equal
+bip_39_word_dash_12: junior-novel-require-vendor-buyer-fee-angry-assume-silly-bitter-equal-answer
+bip_39_word_dash_2: junior-novel
+bip_39_word_dash_3: junior-novel-require
+bip_39_word_dash_4: junior-novel-require-vendor
+bip_39_word_dash_5: junior-novel-require-vendor-buyer
+bip_39_word_dash_6: junior-novel-require-vendor-buyer-fee
+bip_39_word_dash_7: junior-novel-require-vendor-buyer-fee-angry
+bip_39_word_dash_8: junior-novel-require-vendor-buyer-fee-angry-assume
+bip_39_word_dash_9: junior-novel-require-vendor-buyer-fee-angry-assume-silly
 bip_39_word_new_br_1: junior
 bip_39_word_new_br_10: junior<br>novel<br>require<br>vendor<br>buyer<br>fee<br>angry<br>assume<br>silly<br>bitter
 bip_39_word_new_br_11: junior<br>novel<br>require<br>vendor<br>buyer<br>fee<br>angry<br>assume<br>silly<br>bitter<br>equal
@@ -193,6 +205,18 @@ bip_39_word_space_6: junior novel require vendor buyer fee
 bip_39_word_space_7: junior novel require vendor buyer fee angry
 bip_39_word_space_8: junior novel require vendor buyer fee angry assume
 bip_39_word_space_9: junior novel require vendor buyer fee angry assume silly
+bip_39_word_underscore_1: junior
+bip_39_word_underscore_10: junior_novel_require_vendor_buyer_fee_angry_assume_silly_bitter
+bip_39_word_underscore_11: junior_novel_require_vendor_buyer_fee_angry_assume_silly_bitter_equal
+bip_39_word_underscore_12: junior_novel_require_vendor_buyer_fee_angry_assume_silly_bitter_equal_answer
+bip_39_word_underscore_2: junior_novel
+bip_39_word_underscore_3: junior_novel_require
+bip_39_word_underscore_4: junior_novel_require_vendor
+bip_39_word_underscore_5: junior_novel_require_vendor_buyer
+bip_39_word_underscore_6: junior_novel_require_vendor_buyer_fee
+bip_39_word_underscore_7: junior_novel_require_vendor_buyer_fee_angry
+bip_39_word_underscore_8: junior_novel_require_vendor_buyer_fee_angry_assume
+bip_39_word_underscore_9: junior_novel_require_vendor_buyer_fee_angry_assume_silly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

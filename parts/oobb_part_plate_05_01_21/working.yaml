@@ -1,3 +1,15 @@
+bip_39_word_dash_1: aisle
+bip_39_word_dash_10: aisle-rug-typical-govern-replace-stadium-evidence-result-direct-water
+bip_39_word_dash_11: aisle-rug-typical-govern-replace-stadium-evidence-result-direct-water-cement
+bip_39_word_dash_12: aisle-rug-typical-govern-replace-stadium-evidence-result-direct-water-cement-attend
+bip_39_word_dash_2: aisle-rug
+bip_39_word_dash_3: aisle-rug-typical
+bip_39_word_dash_4: aisle-rug-typical-govern
+bip_39_word_dash_5: aisle-rug-typical-govern-replace
+bip_39_word_dash_6: aisle-rug-typical-govern-replace-stadium
+bip_39_word_dash_7: aisle-rug-typical-govern-replace-stadium-evidence
+bip_39_word_dash_8: aisle-rug-typical-govern-replace-stadium-evidence-result
+bip_39_word_dash_9: aisle-rug-typical-govern-replace-stadium-evidence-result-direct
 bip_39_word_new_br_1: aisle
 bip_39_word_new_br_10: aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result<br>direct<br>water
 bip_39_word_new_br_11: aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result<br>direct<br>water<br>cement
@@ -194,6 +206,18 @@ bip_39_word_space_6: aisle rug typical govern replace stadium
 bip_39_word_space_7: aisle rug typical govern replace stadium evidence
 bip_39_word_space_8: aisle rug typical govern replace stadium evidence result
 bip_39_word_space_9: aisle rug typical govern replace stadium evidence result direct
+bip_39_word_underscore_1: aisle
+bip_39_word_underscore_10: aisle_rug_typical_govern_replace_stadium_evidence_result_direct_water
+bip_39_word_underscore_11: aisle_rug_typical_govern_replace_stadium_evidence_result_direct_water_cement
+bip_39_word_underscore_12: aisle_rug_typical_govern_replace_stadium_evidence_result_direct_water_cement_attend
+bip_39_word_underscore_2: aisle_rug
+bip_39_word_underscore_3: aisle_rug_typical
+bip_39_word_underscore_4: aisle_rug_typical_govern
+bip_39_word_underscore_5: aisle_rug_typical_govern_replace
+bip_39_word_underscore_6: aisle_rug_typical_govern_replace_stadium
+bip_39_word_underscore_7: aisle_rug_typical_govern_replace_stadium_evidence
+bip_39_word_underscore_8: aisle_rug_typical_govern_replace_stadium_evidence_result
+bip_39_word_underscore_9: aisle_rug_typical_govern_replace_stadium_evidence_result_direct
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

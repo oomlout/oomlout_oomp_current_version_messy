@@ -1,3 +1,15 @@
+bip_39_word_dash_1: zero
+bip_39_word_dash_10: zero-purity-clock-across-convince-mouse-tree-split-gather-refuse
+bip_39_word_dash_11: zero-purity-clock-across-convince-mouse-tree-split-gather-refuse-place
+bip_39_word_dash_12: zero-purity-clock-across-convince-mouse-tree-split-gather-refuse-place-audit
+bip_39_word_dash_2: zero-purity
+bip_39_word_dash_3: zero-purity-clock
+bip_39_word_dash_4: zero-purity-clock-across
+bip_39_word_dash_5: zero-purity-clock-across-convince
+bip_39_word_dash_6: zero-purity-clock-across-convince-mouse
+bip_39_word_dash_7: zero-purity-clock-across-convince-mouse-tree
+bip_39_word_dash_8: zero-purity-clock-across-convince-mouse-tree-split
+bip_39_word_dash_9: zero-purity-clock-across-convince-mouse-tree-split-gather
 bip_39_word_new_br_1: zero
 bip_39_word_new_br_10: zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split<br>gather<br>refuse
 bip_39_word_new_br_11: zero<br>purity<br>clock<br>across<br>convince<br>mouse<br>tree<br>split<br>gather<br>refuse<br>place
@@ -193,6 +205,18 @@ bip_39_word_space_6: zero purity clock across convince mouse
 bip_39_word_space_7: zero purity clock across convince mouse tree
 bip_39_word_space_8: zero purity clock across convince mouse tree split
 bip_39_word_space_9: zero purity clock across convince mouse tree split gather
+bip_39_word_underscore_1: zero
+bip_39_word_underscore_10: zero_purity_clock_across_convince_mouse_tree_split_gather_refuse
+bip_39_word_underscore_11: zero_purity_clock_across_convince_mouse_tree_split_gather_refuse_place
+bip_39_word_underscore_12: zero_purity_clock_across_convince_mouse_tree_split_gather_refuse_place_audit
+bip_39_word_underscore_2: zero_purity
+bip_39_word_underscore_3: zero_purity_clock
+bip_39_word_underscore_4: zero_purity_clock_across
+bip_39_word_underscore_5: zero_purity_clock_across_convince
+bip_39_word_underscore_6: zero_purity_clock_across_convince_mouse
+bip_39_word_underscore_7: zero_purity_clock_across_convince_mouse_tree
+bip_39_word_underscore_8: zero_purity_clock_across_convince_mouse_tree_split
+bip_39_word_underscore_9: zero_purity_clock_across_convince_mouse_tree_split_gather
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

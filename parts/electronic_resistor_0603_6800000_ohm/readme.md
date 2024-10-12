@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | syrup |  
+| bip_39_word_dash_10 | syrup-umbrella-dice-fiber-duck-consider-jungle-radio-list-apart |  
+| bip_39_word_dash_11 | syrup-umbrella-dice-fiber-duck-consider-jungle-radio-list-apart-twist |  
+| bip_39_word_dash_12 | syrup-umbrella-dice-fiber-duck-consider-jungle-radio-list-apart-twist-ancient |  
+| bip_39_word_dash_2 | syrup-umbrella |  
+| bip_39_word_dash_3 | syrup-umbrella-dice |  
+| bip_39_word_dash_4 | syrup-umbrella-dice-fiber |  
+| bip_39_word_dash_5 | syrup-umbrella-dice-fiber-duck |  
+| bip_39_word_dash_6 | syrup-umbrella-dice-fiber-duck-consider |  
+| bip_39_word_dash_7 | syrup-umbrella-dice-fiber-duck-consider-jungle |  
+| bip_39_word_dash_8 | syrup-umbrella-dice-fiber-duck-consider-jungle-radio |  
+| bip_39_word_dash_9 | syrup-umbrella-dice-fiber-duck-consider-jungle-radio-list |  
 | bip_39_word_new_br_1 | syrup |  
 | bip_39_word_new_br_10 | syrup<br>umbrella<br>dice<br>fiber<br>duck<br>consider<br>jungle<br>radio<br>list<br>apart |  
 | bip_39_word_new_br_11 | syrup<br>umbrella<br>dice<br>fiber<br>duck<br>consider<br>jungle<br>radio<br>list<br>apart<br>twist |  
@@ -147,6 +159,18 @@ list |
 | bip_39_word_space_7 | syrup umbrella dice fiber duck consider jungle |  
 | bip_39_word_space_8 | syrup umbrella dice fiber duck consider jungle radio |  
 | bip_39_word_space_9 | syrup umbrella dice fiber duck consider jungle radio list |  
+| bip_39_word_underscore_1 | syrup |  
+| bip_39_word_underscore_10 | syrup_umbrella_dice_fiber_duck_consider_jungle_radio_list_apart |  
+| bip_39_word_underscore_11 | syrup_umbrella_dice_fiber_duck_consider_jungle_radio_list_apart_twist |  
+| bip_39_word_underscore_12 | syrup_umbrella_dice_fiber_duck_consider_jungle_radio_list_apart_twist_ancient |  
+| bip_39_word_underscore_2 | syrup_umbrella |  
+| bip_39_word_underscore_3 | syrup_umbrella_dice |  
+| bip_39_word_underscore_4 | syrup_umbrella_dice_fiber |  
+| bip_39_word_underscore_5 | syrup_umbrella_dice_fiber_duck |  
+| bip_39_word_underscore_6 | syrup_umbrella_dice_fiber_duck_consider |  
+| bip_39_word_underscore_7 | syrup_umbrella_dice_fiber_duck_consider_jungle |  
+| bip_39_word_underscore_8 | syrup_umbrella_dice_fiber_duck_consider_jungle_radio |  
+| bip_39_word_underscore_9 | syrup_umbrella_dice_fiber_duck_consider_jungle_radio_list |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

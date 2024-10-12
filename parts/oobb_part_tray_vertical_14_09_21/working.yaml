@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nut
+bip_39_word_dash_10: nut-erode-price-loud-earth-gorilla-cycle-mix-wrong-solution
+bip_39_word_dash_11: nut-erode-price-loud-earth-gorilla-cycle-mix-wrong-solution-seek
+bip_39_word_dash_12: nut-erode-price-loud-earth-gorilla-cycle-mix-wrong-solution-seek-alley
+bip_39_word_dash_2: nut-erode
+bip_39_word_dash_3: nut-erode-price
+bip_39_word_dash_4: nut-erode-price-loud
+bip_39_word_dash_5: nut-erode-price-loud-earth
+bip_39_word_dash_6: nut-erode-price-loud-earth-gorilla
+bip_39_word_dash_7: nut-erode-price-loud-earth-gorilla-cycle
+bip_39_word_dash_8: nut-erode-price-loud-earth-gorilla-cycle-mix
+bip_39_word_dash_9: nut-erode-price-loud-earth-gorilla-cycle-mix-wrong
 bip_39_word_new_br_1: nut
 bip_39_word_new_br_10: nut<br>erode<br>price<br>loud<br>earth<br>gorilla<br>cycle<br>mix<br>wrong<br>solution
 bip_39_word_new_br_11: nut<br>erode<br>price<br>loud<br>earth<br>gorilla<br>cycle<br>mix<br>wrong<br>solution<br>seek
@@ -193,6 +205,18 @@ bip_39_word_space_6: nut erode price loud earth gorilla
 bip_39_word_space_7: nut erode price loud earth gorilla cycle
 bip_39_word_space_8: nut erode price loud earth gorilla cycle mix
 bip_39_word_space_9: nut erode price loud earth gorilla cycle mix wrong
+bip_39_word_underscore_1: nut
+bip_39_word_underscore_10: nut_erode_price_loud_earth_gorilla_cycle_mix_wrong_solution
+bip_39_word_underscore_11: nut_erode_price_loud_earth_gorilla_cycle_mix_wrong_solution_seek
+bip_39_word_underscore_12: nut_erode_price_loud_earth_gorilla_cycle_mix_wrong_solution_seek_alley
+bip_39_word_underscore_2: nut_erode
+bip_39_word_underscore_3: nut_erode_price
+bip_39_word_underscore_4: nut_erode_price_loud
+bip_39_word_underscore_5: nut_erode_price_loud_earth
+bip_39_word_underscore_6: nut_erode_price_loud_earth_gorilla
+bip_39_word_underscore_7: nut_erode_price_loud_earth_gorilla_cycle
+bip_39_word_underscore_8: nut_erode_price_loud_earth_gorilla_cycle_mix
+bip_39_word_underscore_9: nut_erode_price_loud_earth_gorilla_cycle_mix_wrong
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

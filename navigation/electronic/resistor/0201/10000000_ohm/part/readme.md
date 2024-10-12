@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | judge |  
+| bip_39_word_dash_10 | judge-crazy-team-museum-exchange-grape-kitten-never-popular-mad |  
+| bip_39_word_dash_11 | judge-crazy-team-museum-exchange-grape-kitten-never-popular-mad-random |  
+| bip_39_word_dash_12 | judge-crazy-team-museum-exchange-grape-kitten-never-popular-mad-random-attitude |  
+| bip_39_word_dash_2 | judge-crazy |  
+| bip_39_word_dash_3 | judge-crazy-team |  
+| bip_39_word_dash_4 | judge-crazy-team-museum |  
+| bip_39_word_dash_5 | judge-crazy-team-museum-exchange |  
+| bip_39_word_dash_6 | judge-crazy-team-museum-exchange-grape |  
+| bip_39_word_dash_7 | judge-crazy-team-museum-exchange-grape-kitten |  
+| bip_39_word_dash_8 | judge-crazy-team-museum-exchange-grape-kitten-never |  
+| bip_39_word_dash_9 | judge-crazy-team-museum-exchange-grape-kitten-never-popular |  
 | bip_39_word_new_br_1 | judge |  
 | bip_39_word_new_br_10 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad |  
 | bip_39_word_new_br_11 | judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad<br>random |  
@@ -147,6 +159,18 @@ popular |
 | bip_39_word_space_7 | judge crazy team museum exchange grape kitten |  
 | bip_39_word_space_8 | judge crazy team museum exchange grape kitten never |  
 | bip_39_word_space_9 | judge crazy team museum exchange grape kitten never popular |  
+| bip_39_word_underscore_1 | judge |  
+| bip_39_word_underscore_10 | judge_crazy_team_museum_exchange_grape_kitten_never_popular_mad |  
+| bip_39_word_underscore_11 | judge_crazy_team_museum_exchange_grape_kitten_never_popular_mad_random |  
+| bip_39_word_underscore_12 | judge_crazy_team_museum_exchange_grape_kitten_never_popular_mad_random_attitude |  
+| bip_39_word_underscore_2 | judge_crazy |  
+| bip_39_word_underscore_3 | judge_crazy_team |  
+| bip_39_word_underscore_4 | judge_crazy_team_museum |  
+| bip_39_word_underscore_5 | judge_crazy_team_museum_exchange |  
+| bip_39_word_underscore_6 | judge_crazy_team_museum_exchange_grape |  
+| bip_39_word_underscore_7 | judge_crazy_team_museum_exchange_grape_kitten |  
+| bip_39_word_underscore_8 | judge_crazy_team_museum_exchange_grape_kitten_never |  
+| bip_39_word_underscore_9 | judge_crazy_team_museum_exchange_grape_kitten_never_popular |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

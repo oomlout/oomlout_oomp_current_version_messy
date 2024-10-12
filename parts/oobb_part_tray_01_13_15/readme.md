@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resemble |  
+| bip_39_word_dash_10 | resemble-drip-maid-buzz-motor-level-junk-orbit-win-bone |  
+| bip_39_word_dash_11 | resemble-drip-maid-buzz-motor-level-junk-orbit-win-bone-box |  
+| bip_39_word_dash_12 | resemble-drip-maid-buzz-motor-level-junk-orbit-win-bone-box-absent |  
+| bip_39_word_dash_2 | resemble-drip |  
+| bip_39_word_dash_3 | resemble-drip-maid |  
+| bip_39_word_dash_4 | resemble-drip-maid-buzz |  
+| bip_39_word_dash_5 | resemble-drip-maid-buzz-motor |  
+| bip_39_word_dash_6 | resemble-drip-maid-buzz-motor-level |  
+| bip_39_word_dash_7 | resemble-drip-maid-buzz-motor-level-junk |  
+| bip_39_word_dash_8 | resemble-drip-maid-buzz-motor-level-junk-orbit |  
+| bip_39_word_dash_9 | resemble-drip-maid-buzz-motor-level-junk-orbit-win |  
 | bip_39_word_new_br_1 | resemble |  
 | bip_39_word_new_br_10 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone |  
 | bip_39_word_new_br_11 | resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone<br>box |  
@@ -147,6 +159,18 @@ win |
 | bip_39_word_space_7 | resemble drip maid buzz motor level junk |  
 | bip_39_word_space_8 | resemble drip maid buzz motor level junk orbit |  
 | bip_39_word_space_9 | resemble drip maid buzz motor level junk orbit win |  
+| bip_39_word_underscore_1 | resemble |  
+| bip_39_word_underscore_10 | resemble_drip_maid_buzz_motor_level_junk_orbit_win_bone |  
+| bip_39_word_underscore_11 | resemble_drip_maid_buzz_motor_level_junk_orbit_win_bone_box |  
+| bip_39_word_underscore_12 | resemble_drip_maid_buzz_motor_level_junk_orbit_win_bone_box_absent |  
+| bip_39_word_underscore_2 | resemble_drip |  
+| bip_39_word_underscore_3 | resemble_drip_maid |  
+| bip_39_word_underscore_4 | resemble_drip_maid_buzz |  
+| bip_39_word_underscore_5 | resemble_drip_maid_buzz_motor |  
+| bip_39_word_underscore_6 | resemble_drip_maid_buzz_motor_level |  
+| bip_39_word_underscore_7 | resemble_drip_maid_buzz_motor_level_junk |  
+| bip_39_word_underscore_8 | resemble_drip_maid_buzz_motor_level_junk_orbit |  
+| bip_39_word_underscore_9 | resemble_drip_maid_buzz_motor_level_junk_orbit_win |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

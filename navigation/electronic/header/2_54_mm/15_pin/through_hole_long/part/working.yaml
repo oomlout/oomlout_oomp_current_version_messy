@@ -1,3 +1,15 @@
+bip_39_word_dash_1: plunge
+bip_39_word_dash_10: plunge-dwarf-box-during-kidney-tell-pulse-chronic-tortoise-lab
+bip_39_word_dash_11: plunge-dwarf-box-during-kidney-tell-pulse-chronic-tortoise-lab-sand
+bip_39_word_dash_12: plunge-dwarf-box-during-kidney-tell-pulse-chronic-tortoise-lab-sand-agent
+bip_39_word_dash_2: plunge-dwarf
+bip_39_word_dash_3: plunge-dwarf-box
+bip_39_word_dash_4: plunge-dwarf-box-during
+bip_39_word_dash_5: plunge-dwarf-box-during-kidney
+bip_39_word_dash_6: plunge-dwarf-box-during-kidney-tell
+bip_39_word_dash_7: plunge-dwarf-box-during-kidney-tell-pulse
+bip_39_word_dash_8: plunge-dwarf-box-during-kidney-tell-pulse-chronic
+bip_39_word_dash_9: plunge-dwarf-box-during-kidney-tell-pulse-chronic-tortoise
 bip_39_word_new_br_1: plunge
 bip_39_word_new_br_10: plunge<br>dwarf<br>box<br>during<br>kidney<br>tell<br>pulse<br>chronic<br>tortoise<br>lab
 bip_39_word_new_br_11: plunge<br>dwarf<br>box<br>during<br>kidney<br>tell<br>pulse<br>chronic<br>tortoise<br>lab<br>sand
@@ -193,6 +205,18 @@ bip_39_word_space_6: plunge dwarf box during kidney tell
 bip_39_word_space_7: plunge dwarf box during kidney tell pulse
 bip_39_word_space_8: plunge dwarf box during kidney tell pulse chronic
 bip_39_word_space_9: plunge dwarf box during kidney tell pulse chronic tortoise
+bip_39_word_underscore_1: plunge
+bip_39_word_underscore_10: plunge_dwarf_box_during_kidney_tell_pulse_chronic_tortoise_lab
+bip_39_word_underscore_11: plunge_dwarf_box_during_kidney_tell_pulse_chronic_tortoise_lab_sand
+bip_39_word_underscore_12: plunge_dwarf_box_during_kidney_tell_pulse_chronic_tortoise_lab_sand_agent
+bip_39_word_underscore_2: plunge_dwarf
+bip_39_word_underscore_3: plunge_dwarf_box
+bip_39_word_underscore_4: plunge_dwarf_box_during
+bip_39_word_underscore_5: plunge_dwarf_box_during_kidney
+bip_39_word_underscore_6: plunge_dwarf_box_during_kidney_tell
+bip_39_word_underscore_7: plunge_dwarf_box_during_kidney_tell_pulse
+bip_39_word_underscore_8: plunge_dwarf_box_during_kidney_tell_pulse_chronic
+bip_39_word_underscore_9: plunge_dwarf_box_during_kidney_tell_pulse_chronic_tortoise
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

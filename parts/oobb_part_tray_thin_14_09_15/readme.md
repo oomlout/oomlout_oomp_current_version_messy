@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | expand |  
+| bip_39_word_dash_10 | expand-people-crunch-evil-violin-attack-gas-sheriff-math-render |  
+| bip_39_word_dash_11 | expand-people-crunch-evil-violin-attack-gas-sheriff-math-render-penalty |  
+| bip_39_word_dash_12 | expand-people-crunch-evil-violin-attack-gas-sheriff-math-render-penalty-again |  
+| bip_39_word_dash_2 | expand-people |  
+| bip_39_word_dash_3 | expand-people-crunch |  
+| bip_39_word_dash_4 | expand-people-crunch-evil |  
+| bip_39_word_dash_5 | expand-people-crunch-evil-violin |  
+| bip_39_word_dash_6 | expand-people-crunch-evil-violin-attack |  
+| bip_39_word_dash_7 | expand-people-crunch-evil-violin-attack-gas |  
+| bip_39_word_dash_8 | expand-people-crunch-evil-violin-attack-gas-sheriff |  
+| bip_39_word_dash_9 | expand-people-crunch-evil-violin-attack-gas-sheriff-math |  
 | bip_39_word_new_br_1 | expand |  
 | bip_39_word_new_br_10 | expand<br>people<br>crunch<br>evil<br>violin<br>attack<br>gas<br>sheriff<br>math<br>render |  
 | bip_39_word_new_br_11 | expand<br>people<br>crunch<br>evil<br>violin<br>attack<br>gas<br>sheriff<br>math<br>render<br>penalty |  
@@ -147,6 +159,18 @@ math |
 | bip_39_word_space_7 | expand people crunch evil violin attack gas |  
 | bip_39_word_space_8 | expand people crunch evil violin attack gas sheriff |  
 | bip_39_word_space_9 | expand people crunch evil violin attack gas sheriff math |  
+| bip_39_word_underscore_1 | expand |  
+| bip_39_word_underscore_10 | expand_people_crunch_evil_violin_attack_gas_sheriff_math_render |  
+| bip_39_word_underscore_11 | expand_people_crunch_evil_violin_attack_gas_sheriff_math_render_penalty |  
+| bip_39_word_underscore_12 | expand_people_crunch_evil_violin_attack_gas_sheriff_math_render_penalty_again |  
+| bip_39_word_underscore_2 | expand_people |  
+| bip_39_word_underscore_3 | expand_people_crunch |  
+| bip_39_word_underscore_4 | expand_people_crunch_evil |  
+| bip_39_word_underscore_5 | expand_people_crunch_evil_violin |  
+| bip_39_word_underscore_6 | expand_people_crunch_evil_violin_attack |  
+| bip_39_word_underscore_7 | expand_people_crunch_evil_violin_attack_gas |  
+| bip_39_word_underscore_8 | expand_people_crunch_evil_violin_attack_gas_sheriff |  
+| bip_39_word_underscore_9 | expand_people_crunch_evil_violin_attack_gas_sheriff_math |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

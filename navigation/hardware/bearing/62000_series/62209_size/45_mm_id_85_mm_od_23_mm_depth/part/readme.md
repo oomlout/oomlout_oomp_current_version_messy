@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bench |  
+| bip_39_word_dash_10 | bench-office-other-census-month-virtual-cram-timber-agree-mouse |  
+| bip_39_word_dash_11 | bench-office-other-census-month-virtual-cram-timber-agree-mouse-hint |  
+| bip_39_word_dash_12 | bench-office-other-census-month-virtual-cram-timber-agree-mouse-hint-asset |  
+| bip_39_word_dash_2 | bench-office |  
+| bip_39_word_dash_3 | bench-office-other |  
+| bip_39_word_dash_4 | bench-office-other-census |  
+| bip_39_word_dash_5 | bench-office-other-census-month |  
+| bip_39_word_dash_6 | bench-office-other-census-month-virtual |  
+| bip_39_word_dash_7 | bench-office-other-census-month-virtual-cram |  
+| bip_39_word_dash_8 | bench-office-other-census-month-virtual-cram-timber |  
+| bip_39_word_dash_9 | bench-office-other-census-month-virtual-cram-timber-agree |  
 | bip_39_word_new_br_1 | bench |  
 | bip_39_word_new_br_10 | bench<br>office<br>other<br>census<br>month<br>virtual<br>cram<br>timber<br>agree<br>mouse |  
 | bip_39_word_new_br_11 | bench<br>office<br>other<br>census<br>month<br>virtual<br>cram<br>timber<br>agree<br>mouse<br>hint |  
@@ -147,6 +159,18 @@ agree |
 | bip_39_word_space_7 | bench office other census month virtual cram |  
 | bip_39_word_space_8 | bench office other census month virtual cram timber |  
 | bip_39_word_space_9 | bench office other census month virtual cram timber agree |  
+| bip_39_word_underscore_1 | bench |  
+| bip_39_word_underscore_10 | bench_office_other_census_month_virtual_cram_timber_agree_mouse |  
+| bip_39_word_underscore_11 | bench_office_other_census_month_virtual_cram_timber_agree_mouse_hint |  
+| bip_39_word_underscore_12 | bench_office_other_census_month_virtual_cram_timber_agree_mouse_hint_asset |  
+| bip_39_word_underscore_2 | bench_office |  
+| bip_39_word_underscore_3 | bench_office_other |  
+| bip_39_word_underscore_4 | bench_office_other_census |  
+| bip_39_word_underscore_5 | bench_office_other_census_month |  
+| bip_39_word_underscore_6 | bench_office_other_census_month_virtual |  
+| bip_39_word_underscore_7 | bench_office_other_census_month_virtual_cram |  
+| bip_39_word_underscore_8 | bench_office_other_census_month_virtual_cram_timber |  
+| bip_39_word_underscore_9 | bench_office_other_census_month_virtual_cram_timber_agree |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | subject |  
+| bip_39_word_dash_10 | subject-biology-urban-huge-sweet-sausage-census-hobby-gasp-submit |  
+| bip_39_word_dash_11 | subject-biology-urban-huge-sweet-sausage-census-hobby-gasp-submit-search |  
+| bip_39_word_dash_12 | subject-biology-urban-huge-sweet-sausage-census-hobby-gasp-submit-search-amount |  
+| bip_39_word_dash_2 | subject-biology |  
+| bip_39_word_dash_3 | subject-biology-urban |  
+| bip_39_word_dash_4 | subject-biology-urban-huge |  
+| bip_39_word_dash_5 | subject-biology-urban-huge-sweet |  
+| bip_39_word_dash_6 | subject-biology-urban-huge-sweet-sausage |  
+| bip_39_word_dash_7 | subject-biology-urban-huge-sweet-sausage-census |  
+| bip_39_word_dash_8 | subject-biology-urban-huge-sweet-sausage-census-hobby |  
+| bip_39_word_dash_9 | subject-biology-urban-huge-sweet-sausage-census-hobby-gasp |  
 | bip_39_word_new_br_1 | subject |  
 | bip_39_word_new_br_10 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit |  
 | bip_39_word_new_br_11 | subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit<br>search |  
@@ -147,6 +159,18 @@ gasp |
 | bip_39_word_space_7 | subject biology urban huge sweet sausage census |  
 | bip_39_word_space_8 | subject biology urban huge sweet sausage census hobby |  
 | bip_39_word_space_9 | subject biology urban huge sweet sausage census hobby gasp |  
+| bip_39_word_underscore_1 | subject |  
+| bip_39_word_underscore_10 | subject_biology_urban_huge_sweet_sausage_census_hobby_gasp_submit |  
+| bip_39_word_underscore_11 | subject_biology_urban_huge_sweet_sausage_census_hobby_gasp_submit_search |  
+| bip_39_word_underscore_12 | subject_biology_urban_huge_sweet_sausage_census_hobby_gasp_submit_search_amount |  
+| bip_39_word_underscore_2 | subject_biology |  
+| bip_39_word_underscore_3 | subject_biology_urban |  
+| bip_39_word_underscore_4 | subject_biology_urban_huge |  
+| bip_39_word_underscore_5 | subject_biology_urban_huge_sweet |  
+| bip_39_word_underscore_6 | subject_biology_urban_huge_sweet_sausage |  
+| bip_39_word_underscore_7 | subject_biology_urban_huge_sweet_sausage_census |  
+| bip_39_word_underscore_8 | subject_biology_urban_huge_sweet_sausage_census_hobby |  
+| bip_39_word_underscore_9 | subject_biology_urban_huge_sweet_sausage_census_hobby_gasp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

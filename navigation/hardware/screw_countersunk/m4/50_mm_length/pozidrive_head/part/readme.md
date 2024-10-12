@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | session |  
+| bip_39_word_dash_10 | session-torch-crater-undo-birth-sound-cloud-boy-blossom-issue |  
+| bip_39_word_dash_11 | session-torch-crater-undo-birth-sound-cloud-boy-blossom-issue-remember |  
+| bip_39_word_dash_12 | session-torch-crater-undo-birth-sound-cloud-boy-blossom-issue-remember-affair |  
+| bip_39_word_dash_2 | session-torch |  
+| bip_39_word_dash_3 | session-torch-crater |  
+| bip_39_word_dash_4 | session-torch-crater-undo |  
+| bip_39_word_dash_5 | session-torch-crater-undo-birth |  
+| bip_39_word_dash_6 | session-torch-crater-undo-birth-sound |  
+| bip_39_word_dash_7 | session-torch-crater-undo-birth-sound-cloud |  
+| bip_39_word_dash_8 | session-torch-crater-undo-birth-sound-cloud-boy |  
+| bip_39_word_dash_9 | session-torch-crater-undo-birth-sound-cloud-boy-blossom |  
 | bip_39_word_new_br_1 | session |  
 | bip_39_word_new_br_10 | session<br>torch<br>crater<br>undo<br>birth<br>sound<br>cloud<br>boy<br>blossom<br>issue |  
 | bip_39_word_new_br_11 | session<br>torch<br>crater<br>undo<br>birth<br>sound<br>cloud<br>boy<br>blossom<br>issue<br>remember |  
@@ -147,6 +159,18 @@ blossom |
 | bip_39_word_space_7 | session torch crater undo birth sound cloud |  
 | bip_39_word_space_8 | session torch crater undo birth sound cloud boy |  
 | bip_39_word_space_9 | session torch crater undo birth sound cloud boy blossom |  
+| bip_39_word_underscore_1 | session |  
+| bip_39_word_underscore_10 | session_torch_crater_undo_birth_sound_cloud_boy_blossom_issue |  
+| bip_39_word_underscore_11 | session_torch_crater_undo_birth_sound_cloud_boy_blossom_issue_remember |  
+| bip_39_word_underscore_12 | session_torch_crater_undo_birth_sound_cloud_boy_blossom_issue_remember_affair |  
+| bip_39_word_underscore_2 | session_torch |  
+| bip_39_word_underscore_3 | session_torch_crater |  
+| bip_39_word_underscore_4 | session_torch_crater_undo |  
+| bip_39_word_underscore_5 | session_torch_crater_undo_birth |  
+| bip_39_word_underscore_6 | session_torch_crater_undo_birth_sound |  
+| bip_39_word_underscore_7 | session_torch_crater_undo_birth_sound_cloud |  
+| bip_39_word_underscore_8 | session_torch_crater_undo_birth_sound_cloud_boy |  
+| bip_39_word_underscore_9 | session_torch_crater_undo_birth_sound_cloud_boy_blossom |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

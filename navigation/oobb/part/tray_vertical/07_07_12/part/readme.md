@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lemon |  
+| bip_39_word_dash_10 | lemon-foster-maple-lazy-another-merge-ordinary-train-produce-movie |  
+| bip_39_word_dash_11 | lemon-foster-maple-lazy-another-merge-ordinary-train-produce-movie-average |  
+| bip_39_word_dash_12 | lemon-foster-maple-lazy-another-merge-ordinary-train-produce-movie-average-attitude |  
+| bip_39_word_dash_2 | lemon-foster |  
+| bip_39_word_dash_3 | lemon-foster-maple |  
+| bip_39_word_dash_4 | lemon-foster-maple-lazy |  
+| bip_39_word_dash_5 | lemon-foster-maple-lazy-another |  
+| bip_39_word_dash_6 | lemon-foster-maple-lazy-another-merge |  
+| bip_39_word_dash_7 | lemon-foster-maple-lazy-another-merge-ordinary |  
+| bip_39_word_dash_8 | lemon-foster-maple-lazy-another-merge-ordinary-train |  
+| bip_39_word_dash_9 | lemon-foster-maple-lazy-another-merge-ordinary-train-produce |  
 | bip_39_word_new_br_1 | lemon |  
 | bip_39_word_new_br_10 | lemon<br>foster<br>maple<br>lazy<br>another<br>merge<br>ordinary<br>train<br>produce<br>movie |  
 | bip_39_word_new_br_11 | lemon<br>foster<br>maple<br>lazy<br>another<br>merge<br>ordinary<br>train<br>produce<br>movie<br>average |  
@@ -147,6 +159,18 @@ produce |
 | bip_39_word_space_7 | lemon foster maple lazy another merge ordinary |  
 | bip_39_word_space_8 | lemon foster maple lazy another merge ordinary train |  
 | bip_39_word_space_9 | lemon foster maple lazy another merge ordinary train produce |  
+| bip_39_word_underscore_1 | lemon |  
+| bip_39_word_underscore_10 | lemon_foster_maple_lazy_another_merge_ordinary_train_produce_movie |  
+| bip_39_word_underscore_11 | lemon_foster_maple_lazy_another_merge_ordinary_train_produce_movie_average |  
+| bip_39_word_underscore_12 | lemon_foster_maple_lazy_another_merge_ordinary_train_produce_movie_average_attitude |  
+| bip_39_word_underscore_2 | lemon_foster |  
+| bip_39_word_underscore_3 | lemon_foster_maple |  
+| bip_39_word_underscore_4 | lemon_foster_maple_lazy |  
+| bip_39_word_underscore_5 | lemon_foster_maple_lazy_another |  
+| bip_39_word_underscore_6 | lemon_foster_maple_lazy_another_merge |  
+| bip_39_word_underscore_7 | lemon_foster_maple_lazy_another_merge_ordinary |  
+| bip_39_word_underscore_8 | lemon_foster_maple_lazy_another_merge_ordinary_train |  
+| bip_39_word_underscore_9 | lemon_foster_maple_lazy_another_merge_ordinary_train_produce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

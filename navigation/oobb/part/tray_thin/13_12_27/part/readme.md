@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ticket |  
+| bip_39_word_dash_10 | ticket-another-crazy-foil-melody-future-aerobic-accuse-pattern-tank |  
+| bip_39_word_dash_11 | ticket-another-crazy-foil-melody-future-aerobic-accuse-pattern-tank-surround |  
+| bip_39_word_dash_12 | ticket-another-crazy-foil-melody-future-aerobic-accuse-pattern-tank-surround-also |  
+| bip_39_word_dash_2 | ticket-another |  
+| bip_39_word_dash_3 | ticket-another-crazy |  
+| bip_39_word_dash_4 | ticket-another-crazy-foil |  
+| bip_39_word_dash_5 | ticket-another-crazy-foil-melody |  
+| bip_39_word_dash_6 | ticket-another-crazy-foil-melody-future |  
+| bip_39_word_dash_7 | ticket-another-crazy-foil-melody-future-aerobic |  
+| bip_39_word_dash_8 | ticket-another-crazy-foil-melody-future-aerobic-accuse |  
+| bip_39_word_dash_9 | ticket-another-crazy-foil-melody-future-aerobic-accuse-pattern |  
 | bip_39_word_new_br_1 | ticket |  
 | bip_39_word_new_br_10 | ticket<br>another<br>crazy<br>foil<br>melody<br>future<br>aerobic<br>accuse<br>pattern<br>tank |  
 | bip_39_word_new_br_11 | ticket<br>another<br>crazy<br>foil<br>melody<br>future<br>aerobic<br>accuse<br>pattern<br>tank<br>surround |  
@@ -147,6 +159,18 @@ pattern |
 | bip_39_word_space_7 | ticket another crazy foil melody future aerobic |  
 | bip_39_word_space_8 | ticket another crazy foil melody future aerobic accuse |  
 | bip_39_word_space_9 | ticket another crazy foil melody future aerobic accuse pattern |  
+| bip_39_word_underscore_1 | ticket |  
+| bip_39_word_underscore_10 | ticket_another_crazy_foil_melody_future_aerobic_accuse_pattern_tank |  
+| bip_39_word_underscore_11 | ticket_another_crazy_foil_melody_future_aerobic_accuse_pattern_tank_surround |  
+| bip_39_word_underscore_12 | ticket_another_crazy_foil_melody_future_aerobic_accuse_pattern_tank_surround_also |  
+| bip_39_word_underscore_2 | ticket_another |  
+| bip_39_word_underscore_3 | ticket_another_crazy |  
+| bip_39_word_underscore_4 | ticket_another_crazy_foil |  
+| bip_39_word_underscore_5 | ticket_another_crazy_foil_melody |  
+| bip_39_word_underscore_6 | ticket_another_crazy_foil_melody_future |  
+| bip_39_word_underscore_7 | ticket_another_crazy_foil_melody_future_aerobic |  
+| bip_39_word_underscore_8 | ticket_another_crazy_foil_melody_future_aerobic_accuse |  
+| bip_39_word_underscore_9 | ticket_another_crazy_foil_melody_future_aerobic_accuse_pattern |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

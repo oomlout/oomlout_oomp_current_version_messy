@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ripple |  
+| bip_39_word_dash_10 | ripple-april-hidden-tunnel-range-retire-female-three-claw-advance |  
+| bip_39_word_dash_11 | ripple-april-hidden-tunnel-range-retire-female-three-claw-advance-drastic |  
+| bip_39_word_dash_12 | ripple-april-hidden-tunnel-range-retire-female-three-claw-advance-drastic-auction |  
+| bip_39_word_dash_2 | ripple-april |  
+| bip_39_word_dash_3 | ripple-april-hidden |  
+| bip_39_word_dash_4 | ripple-april-hidden-tunnel |  
+| bip_39_word_dash_5 | ripple-april-hidden-tunnel-range |  
+| bip_39_word_dash_6 | ripple-april-hidden-tunnel-range-retire |  
+| bip_39_word_dash_7 | ripple-april-hidden-tunnel-range-retire-female |  
+| bip_39_word_dash_8 | ripple-april-hidden-tunnel-range-retire-female-three |  
+| bip_39_word_dash_9 | ripple-april-hidden-tunnel-range-retire-female-three-claw |  
 | bip_39_word_new_br_1 | ripple |  
 | bip_39_word_new_br_10 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three<br>claw<br>advance |  
 | bip_39_word_new_br_11 | ripple<br>april<br>hidden<br>tunnel<br>range<br>retire<br>female<br>three<br>claw<br>advance<br>drastic |  
@@ -147,6 +159,18 @@ claw |
 | bip_39_word_space_7 | ripple april hidden tunnel range retire female |  
 | bip_39_word_space_8 | ripple april hidden tunnel range retire female three |  
 | bip_39_word_space_9 | ripple april hidden tunnel range retire female three claw |  
+| bip_39_word_underscore_1 | ripple |  
+| bip_39_word_underscore_10 | ripple_april_hidden_tunnel_range_retire_female_three_claw_advance |  
+| bip_39_word_underscore_11 | ripple_april_hidden_tunnel_range_retire_female_three_claw_advance_drastic |  
+| bip_39_word_underscore_12 | ripple_april_hidden_tunnel_range_retire_female_three_claw_advance_drastic_auction |  
+| bip_39_word_underscore_2 | ripple_april |  
+| bip_39_word_underscore_3 | ripple_april_hidden |  
+| bip_39_word_underscore_4 | ripple_april_hidden_tunnel |  
+| bip_39_word_underscore_5 | ripple_april_hidden_tunnel_range |  
+| bip_39_word_underscore_6 | ripple_april_hidden_tunnel_range_retire |  
+| bip_39_word_underscore_7 | ripple_april_hidden_tunnel_range_retire_female |  
+| bip_39_word_underscore_8 | ripple_april_hidden_tunnel_range_retire_female_three |  
+| bip_39_word_underscore_9 | ripple_april_hidden_tunnel_range_retire_female_three_claw |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

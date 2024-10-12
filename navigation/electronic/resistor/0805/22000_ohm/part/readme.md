@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | power |  
+| bip_39_word_dash_10 | power-end-recipe-alert-boat-also-crop-friend-panic-spot |  
+| bip_39_word_dash_11 | power-end-recipe-alert-boat-also-crop-friend-panic-spot-ivory |  
+| bip_39_word_dash_12 | power-end-recipe-alert-boat-also-crop-friend-panic-spot-ivory-advice |  
+| bip_39_word_dash_2 | power-end |  
+| bip_39_word_dash_3 | power-end-recipe |  
+| bip_39_word_dash_4 | power-end-recipe-alert |  
+| bip_39_word_dash_5 | power-end-recipe-alert-boat |  
+| bip_39_word_dash_6 | power-end-recipe-alert-boat-also |  
+| bip_39_word_dash_7 | power-end-recipe-alert-boat-also-crop |  
+| bip_39_word_dash_8 | power-end-recipe-alert-boat-also-crop-friend |  
+| bip_39_word_dash_9 | power-end-recipe-alert-boat-also-crop-friend-panic |  
 | bip_39_word_new_br_1 | power |  
 | bip_39_word_new_br_10 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot |  
 | bip_39_word_new_br_11 | power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot<br>ivory |  
@@ -147,6 +159,18 @@ panic |
 | bip_39_word_space_7 | power end recipe alert boat also crop |  
 | bip_39_word_space_8 | power end recipe alert boat also crop friend |  
 | bip_39_word_space_9 | power end recipe alert boat also crop friend panic |  
+| bip_39_word_underscore_1 | power |  
+| bip_39_word_underscore_10 | power_end_recipe_alert_boat_also_crop_friend_panic_spot |  
+| bip_39_word_underscore_11 | power_end_recipe_alert_boat_also_crop_friend_panic_spot_ivory |  
+| bip_39_word_underscore_12 | power_end_recipe_alert_boat_also_crop_friend_panic_spot_ivory_advice |  
+| bip_39_word_underscore_2 | power_end |  
+| bip_39_word_underscore_3 | power_end_recipe |  
+| bip_39_word_underscore_4 | power_end_recipe_alert |  
+| bip_39_word_underscore_5 | power_end_recipe_alert_boat |  
+| bip_39_word_underscore_6 | power_end_recipe_alert_boat_also |  
+| bip_39_word_underscore_7 | power_end_recipe_alert_boat_also_crop |  
+| bip_39_word_underscore_8 | power_end_recipe_alert_boat_also_crop_friend |  
+| bip_39_word_underscore_9 | power_end_recipe_alert_boat_also_crop_friend_panic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

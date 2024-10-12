@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lemon |  
+| bip_39_word_dash_10 | lemon-fiscal-modify-own-tide-ethics-coil-toy-snake-smart |  
+| bip_39_word_dash_11 | lemon-fiscal-modify-own-tide-ethics-coil-toy-snake-smart-indoor |  
+| bip_39_word_dash_12 | lemon-fiscal-modify-own-tide-ethics-coil-toy-snake-smart-indoor-account |  
+| bip_39_word_dash_2 | lemon-fiscal |  
+| bip_39_word_dash_3 | lemon-fiscal-modify |  
+| bip_39_word_dash_4 | lemon-fiscal-modify-own |  
+| bip_39_word_dash_5 | lemon-fiscal-modify-own-tide |  
+| bip_39_word_dash_6 | lemon-fiscal-modify-own-tide-ethics |  
+| bip_39_word_dash_7 | lemon-fiscal-modify-own-tide-ethics-coil |  
+| bip_39_word_dash_8 | lemon-fiscal-modify-own-tide-ethics-coil-toy |  
+| bip_39_word_dash_9 | lemon-fiscal-modify-own-tide-ethics-coil-toy-snake |  
 | bip_39_word_new_br_1 | lemon |  
 | bip_39_word_new_br_10 | lemon<br>fiscal<br>modify<br>own<br>tide<br>ethics<br>coil<br>toy<br>snake<br>smart |  
 | bip_39_word_new_br_11 | lemon<br>fiscal<br>modify<br>own<br>tide<br>ethics<br>coil<br>toy<br>snake<br>smart<br>indoor |  
@@ -147,6 +159,18 @@ snake |
 | bip_39_word_space_7 | lemon fiscal modify own tide ethics coil |  
 | bip_39_word_space_8 | lemon fiscal modify own tide ethics coil toy |  
 | bip_39_word_space_9 | lemon fiscal modify own tide ethics coil toy snake |  
+| bip_39_word_underscore_1 | lemon |  
+| bip_39_word_underscore_10 | lemon_fiscal_modify_own_tide_ethics_coil_toy_snake_smart |  
+| bip_39_word_underscore_11 | lemon_fiscal_modify_own_tide_ethics_coil_toy_snake_smart_indoor |  
+| bip_39_word_underscore_12 | lemon_fiscal_modify_own_tide_ethics_coil_toy_snake_smart_indoor_account |  
+| bip_39_word_underscore_2 | lemon_fiscal |  
+| bip_39_word_underscore_3 | lemon_fiscal_modify |  
+| bip_39_word_underscore_4 | lemon_fiscal_modify_own |  
+| bip_39_word_underscore_5 | lemon_fiscal_modify_own_tide |  
+| bip_39_word_underscore_6 | lemon_fiscal_modify_own_tide_ethics |  
+| bip_39_word_underscore_7 | lemon_fiscal_modify_own_tide_ethics_coil |  
+| bip_39_word_underscore_8 | lemon_fiscal_modify_own_tide_ethics_coil_toy |  
+| bip_39_word_underscore_9 | lemon_fiscal_modify_own_tide_ethics_coil_toy_snake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

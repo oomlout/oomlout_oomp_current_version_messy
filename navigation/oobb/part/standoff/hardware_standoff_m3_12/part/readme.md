@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sample |  
+| bip_39_word_dash_10 | sample-remember-insect-beach-brand-rubber-discover-garlic-degree-damage |  
+| bip_39_word_dash_11 | sample-remember-insect-beach-brand-rubber-discover-garlic-degree-damage-penalty |  
+| bip_39_word_dash_12 | sample-remember-insect-beach-brand-rubber-discover-garlic-degree-damage-penalty-aim |  
+| bip_39_word_dash_2 | sample-remember |  
+| bip_39_word_dash_3 | sample-remember-insect |  
+| bip_39_word_dash_4 | sample-remember-insect-beach |  
+| bip_39_word_dash_5 | sample-remember-insect-beach-brand |  
+| bip_39_word_dash_6 | sample-remember-insect-beach-brand-rubber |  
+| bip_39_word_dash_7 | sample-remember-insect-beach-brand-rubber-discover |  
+| bip_39_word_dash_8 | sample-remember-insect-beach-brand-rubber-discover-garlic |  
+| bip_39_word_dash_9 | sample-remember-insect-beach-brand-rubber-discover-garlic-degree |  
 | bip_39_word_new_br_1 | sample |  
 | bip_39_word_new_br_10 | sample<br>remember<br>insect<br>beach<br>brand<br>rubber<br>discover<br>garlic<br>degree<br>damage |  
 | bip_39_word_new_br_11 | sample<br>remember<br>insect<br>beach<br>brand<br>rubber<br>discover<br>garlic<br>degree<br>damage<br>penalty |  
@@ -147,6 +159,18 @@ degree |
 | bip_39_word_space_7 | sample remember insect beach brand rubber discover |  
 | bip_39_word_space_8 | sample remember insect beach brand rubber discover garlic |  
 | bip_39_word_space_9 | sample remember insect beach brand rubber discover garlic degree |  
+| bip_39_word_underscore_1 | sample |  
+| bip_39_word_underscore_10 | sample_remember_insect_beach_brand_rubber_discover_garlic_degree_damage |  
+| bip_39_word_underscore_11 | sample_remember_insect_beach_brand_rubber_discover_garlic_degree_damage_penalty |  
+| bip_39_word_underscore_12 | sample_remember_insect_beach_brand_rubber_discover_garlic_degree_damage_penalty_aim |  
+| bip_39_word_underscore_2 | sample_remember |  
+| bip_39_word_underscore_3 | sample_remember_insect |  
+| bip_39_word_underscore_4 | sample_remember_insect_beach |  
+| bip_39_word_underscore_5 | sample_remember_insect_beach_brand |  
+| bip_39_word_underscore_6 | sample_remember_insect_beach_brand_rubber |  
+| bip_39_word_underscore_7 | sample_remember_insect_beach_brand_rubber_discover |  
+| bip_39_word_underscore_8 | sample_remember_insect_beach_brand_rubber_discover_garlic |  
+| bip_39_word_underscore_9 | sample_remember_insect_beach_brand_rubber_discover_garlic_degree |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

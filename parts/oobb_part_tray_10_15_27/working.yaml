@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fashion
+bip_39_word_dash_10: fashion-fit-chimney-fitness-trust-unlock-easy-miss-sand-stool
+bip_39_word_dash_11: fashion-fit-chimney-fitness-trust-unlock-easy-miss-sand-stool-region
+bip_39_word_dash_12: fashion-fit-chimney-fitness-trust-unlock-easy-miss-sand-stool-region-armed
+bip_39_word_dash_2: fashion-fit
+bip_39_word_dash_3: fashion-fit-chimney
+bip_39_word_dash_4: fashion-fit-chimney-fitness
+bip_39_word_dash_5: fashion-fit-chimney-fitness-trust
+bip_39_word_dash_6: fashion-fit-chimney-fitness-trust-unlock
+bip_39_word_dash_7: fashion-fit-chimney-fitness-trust-unlock-easy
+bip_39_word_dash_8: fashion-fit-chimney-fitness-trust-unlock-easy-miss
+bip_39_word_dash_9: fashion-fit-chimney-fitness-trust-unlock-easy-miss-sand
 bip_39_word_new_br_1: fashion
 bip_39_word_new_br_10: fashion<br>fit<br>chimney<br>fitness<br>trust<br>unlock<br>easy<br>miss<br>sand<br>stool
 bip_39_word_new_br_11: fashion<br>fit<br>chimney<br>fitness<br>trust<br>unlock<br>easy<br>miss<br>sand<br>stool<br>region
@@ -193,6 +205,18 @@ bip_39_word_space_6: fashion fit chimney fitness trust unlock
 bip_39_word_space_7: fashion fit chimney fitness trust unlock easy
 bip_39_word_space_8: fashion fit chimney fitness trust unlock easy miss
 bip_39_word_space_9: fashion fit chimney fitness trust unlock easy miss sand
+bip_39_word_underscore_1: fashion
+bip_39_word_underscore_10: fashion_fit_chimney_fitness_trust_unlock_easy_miss_sand_stool
+bip_39_word_underscore_11: fashion_fit_chimney_fitness_trust_unlock_easy_miss_sand_stool_region
+bip_39_word_underscore_12: fashion_fit_chimney_fitness_trust_unlock_easy_miss_sand_stool_region_armed
+bip_39_word_underscore_2: fashion_fit
+bip_39_word_underscore_3: fashion_fit_chimney
+bip_39_word_underscore_4: fashion_fit_chimney_fitness
+bip_39_word_underscore_5: fashion_fit_chimney_fitness_trust
+bip_39_word_underscore_6: fashion_fit_chimney_fitness_trust_unlock
+bip_39_word_underscore_7: fashion_fit_chimney_fitness_trust_unlock_easy
+bip_39_word_underscore_8: fashion_fit_chimney_fitness_trust_unlock_easy_miss
+bip_39_word_underscore_9: fashion_fit_chimney_fitness_trust_unlock_easy_miss_sand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

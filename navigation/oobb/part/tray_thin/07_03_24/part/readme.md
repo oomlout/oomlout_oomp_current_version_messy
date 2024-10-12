@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tennis |  
+| bip_39_word_dash_10 | tennis-rebuild-sand-oval-settle-nest-exile-okay-unveil-search |  
+| bip_39_word_dash_11 | tennis-rebuild-sand-oval-settle-nest-exile-okay-unveil-search-book |  
+| bip_39_word_dash_12 | tennis-rebuild-sand-oval-settle-nest-exile-okay-unveil-search-book-almost |  
+| bip_39_word_dash_2 | tennis-rebuild |  
+| bip_39_word_dash_3 | tennis-rebuild-sand |  
+| bip_39_word_dash_4 | tennis-rebuild-sand-oval |  
+| bip_39_word_dash_5 | tennis-rebuild-sand-oval-settle |  
+| bip_39_word_dash_6 | tennis-rebuild-sand-oval-settle-nest |  
+| bip_39_word_dash_7 | tennis-rebuild-sand-oval-settle-nest-exile |  
+| bip_39_word_dash_8 | tennis-rebuild-sand-oval-settle-nest-exile-okay |  
+| bip_39_word_dash_9 | tennis-rebuild-sand-oval-settle-nest-exile-okay-unveil |  
 | bip_39_word_new_br_1 | tennis |  
 | bip_39_word_new_br_10 | tennis<br>rebuild<br>sand<br>oval<br>settle<br>nest<br>exile<br>okay<br>unveil<br>search |  
 | bip_39_word_new_br_11 | tennis<br>rebuild<br>sand<br>oval<br>settle<br>nest<br>exile<br>okay<br>unveil<br>search<br>book |  
@@ -147,6 +159,18 @@ unveil |
 | bip_39_word_space_7 | tennis rebuild sand oval settle nest exile |  
 | bip_39_word_space_8 | tennis rebuild sand oval settle nest exile okay |  
 | bip_39_word_space_9 | tennis rebuild sand oval settle nest exile okay unveil |  
+| bip_39_word_underscore_1 | tennis |  
+| bip_39_word_underscore_10 | tennis_rebuild_sand_oval_settle_nest_exile_okay_unveil_search |  
+| bip_39_word_underscore_11 | tennis_rebuild_sand_oval_settle_nest_exile_okay_unveil_search_book |  
+| bip_39_word_underscore_12 | tennis_rebuild_sand_oval_settle_nest_exile_okay_unveil_search_book_almost |  
+| bip_39_word_underscore_2 | tennis_rebuild |  
+| bip_39_word_underscore_3 | tennis_rebuild_sand |  
+| bip_39_word_underscore_4 | tennis_rebuild_sand_oval |  
+| bip_39_word_underscore_5 | tennis_rebuild_sand_oval_settle |  
+| bip_39_word_underscore_6 | tennis_rebuild_sand_oval_settle_nest |  
+| bip_39_word_underscore_7 | tennis_rebuild_sand_oval_settle_nest_exile |  
+| bip_39_word_underscore_8 | tennis_rebuild_sand_oval_settle_nest_exile_okay |  
+| bip_39_word_underscore_9 | tennis_rebuild_sand_oval_settle_nest_exile_okay_unveil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

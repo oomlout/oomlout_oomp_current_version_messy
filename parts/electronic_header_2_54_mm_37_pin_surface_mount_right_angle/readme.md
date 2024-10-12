@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deliver |  
+| bip_39_word_dash_10 | deliver-day-category-surround-sense-ride-exile-entry-ticket-industry |  
+| bip_39_word_dash_11 | deliver-day-category-surround-sense-ride-exile-entry-ticket-industry-advance |  
+| bip_39_word_dash_12 | deliver-day-category-surround-sense-ride-exile-entry-ticket-industry-advance-arctic |  
+| bip_39_word_dash_2 | deliver-day |  
+| bip_39_word_dash_3 | deliver-day-category |  
+| bip_39_word_dash_4 | deliver-day-category-surround |  
+| bip_39_word_dash_5 | deliver-day-category-surround-sense |  
+| bip_39_word_dash_6 | deliver-day-category-surround-sense-ride |  
+| bip_39_word_dash_7 | deliver-day-category-surround-sense-ride-exile |  
+| bip_39_word_dash_8 | deliver-day-category-surround-sense-ride-exile-entry |  
+| bip_39_word_dash_9 | deliver-day-category-surround-sense-ride-exile-entry-ticket |  
 | bip_39_word_new_br_1 | deliver |  
 | bip_39_word_new_br_10 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry |  
 | bip_39_word_new_br_11 | deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry<br>advance |  
@@ -147,6 +159,18 @@ ticket |
 | bip_39_word_space_7 | deliver day category surround sense ride exile |  
 | bip_39_word_space_8 | deliver day category surround sense ride exile entry |  
 | bip_39_word_space_9 | deliver day category surround sense ride exile entry ticket |  
+| bip_39_word_underscore_1 | deliver |  
+| bip_39_word_underscore_10 | deliver_day_category_surround_sense_ride_exile_entry_ticket_industry |  
+| bip_39_word_underscore_11 | deliver_day_category_surround_sense_ride_exile_entry_ticket_industry_advance |  
+| bip_39_word_underscore_12 | deliver_day_category_surround_sense_ride_exile_entry_ticket_industry_advance_arctic |  
+| bip_39_word_underscore_2 | deliver_day |  
+| bip_39_word_underscore_3 | deliver_day_category |  
+| bip_39_word_underscore_4 | deliver_day_category_surround |  
+| bip_39_word_underscore_5 | deliver_day_category_surround_sense |  
+| bip_39_word_underscore_6 | deliver_day_category_surround_sense_ride |  
+| bip_39_word_underscore_7 | deliver_day_category_surround_sense_ride_exile |  
+| bip_39_word_underscore_8 | deliver_day_category_surround_sense_ride_exile_entry |  
+| bip_39_word_underscore_9 | deliver_day_category_surround_sense_ride_exile_entry_ticket |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

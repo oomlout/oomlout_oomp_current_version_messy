@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | when |  
+| bip_39_word_dash_10 | when-observe-envelope-elevator-target-chuckle-check-scan-tiny-venue |  
+| bip_39_word_dash_11 | when-observe-envelope-elevator-target-chuckle-check-scan-tiny-venue-peanut |  
+| bip_39_word_dash_12 | when-observe-envelope-elevator-target-chuckle-check-scan-tiny-venue-peanut-attract |  
+| bip_39_word_dash_2 | when-observe |  
+| bip_39_word_dash_3 | when-observe-envelope |  
+| bip_39_word_dash_4 | when-observe-envelope-elevator |  
+| bip_39_word_dash_5 | when-observe-envelope-elevator-target |  
+| bip_39_word_dash_6 | when-observe-envelope-elevator-target-chuckle |  
+| bip_39_word_dash_7 | when-observe-envelope-elevator-target-chuckle-check |  
+| bip_39_word_dash_8 | when-observe-envelope-elevator-target-chuckle-check-scan |  
+| bip_39_word_dash_9 | when-observe-envelope-elevator-target-chuckle-check-scan-tiny |  
 | bip_39_word_new_br_1 | when |  
 | bip_39_word_new_br_10 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue |  
 | bip_39_word_new_br_11 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue<br>peanut |  
@@ -147,6 +159,18 @@ tiny |
 | bip_39_word_space_7 | when observe envelope elevator target chuckle check |  
 | bip_39_word_space_8 | when observe envelope elevator target chuckle check scan |  
 | bip_39_word_space_9 | when observe envelope elevator target chuckle check scan tiny |  
+| bip_39_word_underscore_1 | when |  
+| bip_39_word_underscore_10 | when_observe_envelope_elevator_target_chuckle_check_scan_tiny_venue |  
+| bip_39_word_underscore_11 | when_observe_envelope_elevator_target_chuckle_check_scan_tiny_venue_peanut |  
+| bip_39_word_underscore_12 | when_observe_envelope_elevator_target_chuckle_check_scan_tiny_venue_peanut_attract |  
+| bip_39_word_underscore_2 | when_observe |  
+| bip_39_word_underscore_3 | when_observe_envelope |  
+| bip_39_word_underscore_4 | when_observe_envelope_elevator |  
+| bip_39_word_underscore_5 | when_observe_envelope_elevator_target |  
+| bip_39_word_underscore_6 | when_observe_envelope_elevator_target_chuckle |  
+| bip_39_word_underscore_7 | when_observe_envelope_elevator_target_chuckle_check |  
+| bip_39_word_underscore_8 | when_observe_envelope_elevator_target_chuckle_check_scan |  
+| bip_39_word_underscore_9 | when_observe_envelope_elevator_target_chuckle_check_scan_tiny |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

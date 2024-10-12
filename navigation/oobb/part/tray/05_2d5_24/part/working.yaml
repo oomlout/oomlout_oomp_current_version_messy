@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shock
+bip_39_word_dash_10: shock-goat-leisure-sausage-force-blur-wash-rough-when-curious
+bip_39_word_dash_11: shock-goat-leisure-sausage-force-blur-wash-rough-when-curious-office
+bip_39_word_dash_12: shock-goat-leisure-sausage-force-blur-wash-rough-when-curious-office-asthma
+bip_39_word_dash_2: shock-goat
+bip_39_word_dash_3: shock-goat-leisure
+bip_39_word_dash_4: shock-goat-leisure-sausage
+bip_39_word_dash_5: shock-goat-leisure-sausage-force
+bip_39_word_dash_6: shock-goat-leisure-sausage-force-blur
+bip_39_word_dash_7: shock-goat-leisure-sausage-force-blur-wash
+bip_39_word_dash_8: shock-goat-leisure-sausage-force-blur-wash-rough
+bip_39_word_dash_9: shock-goat-leisure-sausage-force-blur-wash-rough-when
 bip_39_word_new_br_1: shock
 bip_39_word_new_br_10: shock<br>goat<br>leisure<br>sausage<br>force<br>blur<br>wash<br>rough<br>when<br>curious
 bip_39_word_new_br_11: shock<br>goat<br>leisure<br>sausage<br>force<br>blur<br>wash<br>rough<br>when<br>curious<br>office
@@ -193,6 +205,18 @@ bip_39_word_space_6: shock goat leisure sausage force blur
 bip_39_word_space_7: shock goat leisure sausage force blur wash
 bip_39_word_space_8: shock goat leisure sausage force blur wash rough
 bip_39_word_space_9: shock goat leisure sausage force blur wash rough when
+bip_39_word_underscore_1: shock
+bip_39_word_underscore_10: shock_goat_leisure_sausage_force_blur_wash_rough_when_curious
+bip_39_word_underscore_11: shock_goat_leisure_sausage_force_blur_wash_rough_when_curious_office
+bip_39_word_underscore_12: shock_goat_leisure_sausage_force_blur_wash_rough_when_curious_office_asthma
+bip_39_word_underscore_2: shock_goat
+bip_39_word_underscore_3: shock_goat_leisure
+bip_39_word_underscore_4: shock_goat_leisure_sausage
+bip_39_word_underscore_5: shock_goat_leisure_sausage_force
+bip_39_word_underscore_6: shock_goat_leisure_sausage_force_blur
+bip_39_word_underscore_7: shock_goat_leisure_sausage_force_blur_wash
+bip_39_word_underscore_8: shock_goat_leisure_sausage_force_blur_wash_rough
+bip_39_word_underscore_9: shock_goat_leisure_sausage_force_blur_wash_rough_when
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

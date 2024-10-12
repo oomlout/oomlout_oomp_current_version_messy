@@ -1,3 +1,15 @@
+bip_39_word_dash_1: error
+bip_39_word_dash_10: error-business-gorilla-antenna-mushroom-vault-seminar-infant-wash-seminar
+bip_39_word_dash_11: error-business-gorilla-antenna-mushroom-vault-seminar-infant-wash-seminar-wash
+bip_39_word_dash_12: error-business-gorilla-antenna-mushroom-vault-seminar-infant-wash-seminar-wash-art
+bip_39_word_dash_2: error-business
+bip_39_word_dash_3: error-business-gorilla
+bip_39_word_dash_4: error-business-gorilla-antenna
+bip_39_word_dash_5: error-business-gorilla-antenna-mushroom
+bip_39_word_dash_6: error-business-gorilla-antenna-mushroom-vault
+bip_39_word_dash_7: error-business-gorilla-antenna-mushroom-vault-seminar
+bip_39_word_dash_8: error-business-gorilla-antenna-mushroom-vault-seminar-infant
+bip_39_word_dash_9: error-business-gorilla-antenna-mushroom-vault-seminar-infant-wash
 bip_39_word_new_br_1: error
 bip_39_word_new_br_10: error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar
 bip_39_word_new_br_11: error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar<br>wash
@@ -195,6 +207,18 @@ bip_39_word_space_7: error business gorilla antenna mushroom vault seminar
 bip_39_word_space_8: error business gorilla antenna mushroom vault seminar infant
 bip_39_word_space_9: error business gorilla antenna mushroom vault seminar infant
   wash
+bip_39_word_underscore_1: error
+bip_39_word_underscore_10: error_business_gorilla_antenna_mushroom_vault_seminar_infant_wash_seminar
+bip_39_word_underscore_11: error_business_gorilla_antenna_mushroom_vault_seminar_infant_wash_seminar_wash
+bip_39_word_underscore_12: error_business_gorilla_antenna_mushroom_vault_seminar_infant_wash_seminar_wash_art
+bip_39_word_underscore_2: error_business
+bip_39_word_underscore_3: error_business_gorilla
+bip_39_word_underscore_4: error_business_gorilla_antenna
+bip_39_word_underscore_5: error_business_gorilla_antenna_mushroom
+bip_39_word_underscore_6: error_business_gorilla_antenna_mushroom_vault
+bip_39_word_underscore_7: error_business_gorilla_antenna_mushroom_vault_seminar
+bip_39_word_underscore_8: error_business_gorilla_antenna_mushroom_vault_seminar_infant
+bip_39_word_underscore_9: error_business_gorilla_antenna_mushroom_vault_seminar_infant_wash
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

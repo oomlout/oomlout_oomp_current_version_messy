@@ -1,3 +1,15 @@
+bip_39_word_dash_1: faint
+bip_39_word_dash_10: faint-injury-radio-era-love-junior-toward-broom-error-exile
+bip_39_word_dash_11: faint-injury-radio-era-love-junior-toward-broom-error-exile-army
+bip_39_word_dash_12: faint-injury-radio-era-love-junior-toward-broom-error-exile-army-art
+bip_39_word_dash_2: faint-injury
+bip_39_word_dash_3: faint-injury-radio
+bip_39_word_dash_4: faint-injury-radio-era
+bip_39_word_dash_5: faint-injury-radio-era-love
+bip_39_word_dash_6: faint-injury-radio-era-love-junior
+bip_39_word_dash_7: faint-injury-radio-era-love-junior-toward
+bip_39_word_dash_8: faint-injury-radio-era-love-junior-toward-broom
+bip_39_word_dash_9: faint-injury-radio-era-love-junior-toward-broom-error
 bip_39_word_new_br_1: faint
 bip_39_word_new_br_10: faint<br>injury<br>radio<br>era<br>love<br>junior<br>toward<br>broom<br>error<br>exile
 bip_39_word_new_br_11: faint<br>injury<br>radio<br>era<br>love<br>junior<br>toward<br>broom<br>error<br>exile<br>army
@@ -193,6 +205,18 @@ bip_39_word_space_6: faint injury radio era love junior
 bip_39_word_space_7: faint injury radio era love junior toward
 bip_39_word_space_8: faint injury radio era love junior toward broom
 bip_39_word_space_9: faint injury radio era love junior toward broom error
+bip_39_word_underscore_1: faint
+bip_39_word_underscore_10: faint_injury_radio_era_love_junior_toward_broom_error_exile
+bip_39_word_underscore_11: faint_injury_radio_era_love_junior_toward_broom_error_exile_army
+bip_39_word_underscore_12: faint_injury_radio_era_love_junior_toward_broom_error_exile_army_art
+bip_39_word_underscore_2: faint_injury
+bip_39_word_underscore_3: faint_injury_radio
+bip_39_word_underscore_4: faint_injury_radio_era
+bip_39_word_underscore_5: faint_injury_radio_era_love
+bip_39_word_underscore_6: faint_injury_radio_era_love_junior
+bip_39_word_underscore_7: faint_injury_radio_era_love_junior_toward
+bip_39_word_underscore_8: faint_injury_radio_era_love_junior_toward_broom
+bip_39_word_underscore_9: faint_injury_radio_era_love_junior_toward_broom_error
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

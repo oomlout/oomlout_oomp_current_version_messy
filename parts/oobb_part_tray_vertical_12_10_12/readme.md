@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wall |  
+| bip_39_word_dash_10 | wall-animal-file-limit-rain-fury-famous-sniff-improve-plunge |  
+| bip_39_word_dash_11 | wall-animal-file-limit-rain-fury-famous-sniff-improve-plunge-slow |  
+| bip_39_word_dash_12 | wall-animal-file-limit-rain-fury-famous-sniff-improve-plunge-slow-alien |  
+| bip_39_word_dash_2 | wall-animal |  
+| bip_39_word_dash_3 | wall-animal-file |  
+| bip_39_word_dash_4 | wall-animal-file-limit |  
+| bip_39_word_dash_5 | wall-animal-file-limit-rain |  
+| bip_39_word_dash_6 | wall-animal-file-limit-rain-fury |  
+| bip_39_word_dash_7 | wall-animal-file-limit-rain-fury-famous |  
+| bip_39_word_dash_8 | wall-animal-file-limit-rain-fury-famous-sniff |  
+| bip_39_word_dash_9 | wall-animal-file-limit-rain-fury-famous-sniff-improve |  
 | bip_39_word_new_br_1 | wall |  
 | bip_39_word_new_br_10 | wall<br>animal<br>file<br>limit<br>rain<br>fury<br>famous<br>sniff<br>improve<br>plunge |  
 | bip_39_word_new_br_11 | wall<br>animal<br>file<br>limit<br>rain<br>fury<br>famous<br>sniff<br>improve<br>plunge<br>slow |  
@@ -147,6 +159,18 @@ improve |
 | bip_39_word_space_7 | wall animal file limit rain fury famous |  
 | bip_39_word_space_8 | wall animal file limit rain fury famous sniff |  
 | bip_39_word_space_9 | wall animal file limit rain fury famous sniff improve |  
+| bip_39_word_underscore_1 | wall |  
+| bip_39_word_underscore_10 | wall_animal_file_limit_rain_fury_famous_sniff_improve_plunge |  
+| bip_39_word_underscore_11 | wall_animal_file_limit_rain_fury_famous_sniff_improve_plunge_slow |  
+| bip_39_word_underscore_12 | wall_animal_file_limit_rain_fury_famous_sniff_improve_plunge_slow_alien |  
+| bip_39_word_underscore_2 | wall_animal |  
+| bip_39_word_underscore_3 | wall_animal_file |  
+| bip_39_word_underscore_4 | wall_animal_file_limit |  
+| bip_39_word_underscore_5 | wall_animal_file_limit_rain |  
+| bip_39_word_underscore_6 | wall_animal_file_limit_rain_fury |  
+| bip_39_word_underscore_7 | wall_animal_file_limit_rain_fury_famous |  
+| bip_39_word_underscore_8 | wall_animal_file_limit_rain_fury_famous_sniff |  
+| bip_39_word_underscore_9 | wall_animal_file_limit_rain_fury_famous_sniff_improve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

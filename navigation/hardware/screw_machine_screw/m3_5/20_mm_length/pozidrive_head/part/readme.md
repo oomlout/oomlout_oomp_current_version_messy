@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sniff |  
+| bip_39_word_dash_10 | sniff-iron-truth-infant-quick-fall-chuckle-critic-trumpet-much |  
+| bip_39_word_dash_11 | sniff-iron-truth-infant-quick-fall-chuckle-critic-trumpet-much-symptom |  
+| bip_39_word_dash_12 | sniff-iron-truth-infant-quick-fall-chuckle-critic-trumpet-much-symptom-alley |  
+| bip_39_word_dash_2 | sniff-iron |  
+| bip_39_word_dash_3 | sniff-iron-truth |  
+| bip_39_word_dash_4 | sniff-iron-truth-infant |  
+| bip_39_word_dash_5 | sniff-iron-truth-infant-quick |  
+| bip_39_word_dash_6 | sniff-iron-truth-infant-quick-fall |  
+| bip_39_word_dash_7 | sniff-iron-truth-infant-quick-fall-chuckle |  
+| bip_39_word_dash_8 | sniff-iron-truth-infant-quick-fall-chuckle-critic |  
+| bip_39_word_dash_9 | sniff-iron-truth-infant-quick-fall-chuckle-critic-trumpet |  
 | bip_39_word_new_br_1 | sniff |  
 | bip_39_word_new_br_10 | sniff<br>iron<br>truth<br>infant<br>quick<br>fall<br>chuckle<br>critic<br>trumpet<br>much |  
 | bip_39_word_new_br_11 | sniff<br>iron<br>truth<br>infant<br>quick<br>fall<br>chuckle<br>critic<br>trumpet<br>much<br>symptom |  
@@ -147,6 +159,18 @@ trumpet |
 | bip_39_word_space_7 | sniff iron truth infant quick fall chuckle |  
 | bip_39_word_space_8 | sniff iron truth infant quick fall chuckle critic |  
 | bip_39_word_space_9 | sniff iron truth infant quick fall chuckle critic trumpet |  
+| bip_39_word_underscore_1 | sniff |  
+| bip_39_word_underscore_10 | sniff_iron_truth_infant_quick_fall_chuckle_critic_trumpet_much |  
+| bip_39_word_underscore_11 | sniff_iron_truth_infant_quick_fall_chuckle_critic_trumpet_much_symptom |  
+| bip_39_word_underscore_12 | sniff_iron_truth_infant_quick_fall_chuckle_critic_trumpet_much_symptom_alley |  
+| bip_39_word_underscore_2 | sniff_iron |  
+| bip_39_word_underscore_3 | sniff_iron_truth |  
+| bip_39_word_underscore_4 | sniff_iron_truth_infant |  
+| bip_39_word_underscore_5 | sniff_iron_truth_infant_quick |  
+| bip_39_word_underscore_6 | sniff_iron_truth_infant_quick_fall |  
+| bip_39_word_underscore_7 | sniff_iron_truth_infant_quick_fall_chuckle |  
+| bip_39_word_underscore_8 | sniff_iron_truth_infant_quick_fall_chuckle_critic |  
+| bip_39_word_underscore_9 | sniff_iron_truth_infant_quick_fall_chuckle_critic_trumpet |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

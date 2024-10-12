@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | napkin |  
+| bip_39_word_dash_10 | napkin-honey-camp-they-reveal-taste-section-umbrella-bubble-coast |  
+| bip_39_word_dash_11 | napkin-honey-camp-they-reveal-taste-section-umbrella-bubble-coast-myth |  
+| bip_39_word_dash_12 | napkin-honey-camp-they-reveal-taste-section-umbrella-bubble-coast-myth-acquire |  
+| bip_39_word_dash_2 | napkin-honey |  
+| bip_39_word_dash_3 | napkin-honey-camp |  
+| bip_39_word_dash_4 | napkin-honey-camp-they |  
+| bip_39_word_dash_5 | napkin-honey-camp-they-reveal |  
+| bip_39_word_dash_6 | napkin-honey-camp-they-reveal-taste |  
+| bip_39_word_dash_7 | napkin-honey-camp-they-reveal-taste-section |  
+| bip_39_word_dash_8 | napkin-honey-camp-they-reveal-taste-section-umbrella |  
+| bip_39_word_dash_9 | napkin-honey-camp-they-reveal-taste-section-umbrella-bubble |  
 | bip_39_word_new_br_1 | napkin |  
 | bip_39_word_new_br_10 | napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella<br>bubble<br>coast |  
 | bip_39_word_new_br_11 | napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella<br>bubble<br>coast<br>myth |  
@@ -147,6 +159,18 @@ bubble |
 | bip_39_word_space_7 | napkin honey camp they reveal taste section |  
 | bip_39_word_space_8 | napkin honey camp they reveal taste section umbrella |  
 | bip_39_word_space_9 | napkin honey camp they reveal taste section umbrella bubble |  
+| bip_39_word_underscore_1 | napkin |  
+| bip_39_word_underscore_10 | napkin_honey_camp_they_reveal_taste_section_umbrella_bubble_coast |  
+| bip_39_word_underscore_11 | napkin_honey_camp_they_reveal_taste_section_umbrella_bubble_coast_myth |  
+| bip_39_word_underscore_12 | napkin_honey_camp_they_reveal_taste_section_umbrella_bubble_coast_myth_acquire |  
+| bip_39_word_underscore_2 | napkin_honey |  
+| bip_39_word_underscore_3 | napkin_honey_camp |  
+| bip_39_word_underscore_4 | napkin_honey_camp_they |  
+| bip_39_word_underscore_5 | napkin_honey_camp_they_reveal |  
+| bip_39_word_underscore_6 | napkin_honey_camp_they_reveal_taste |  
+| bip_39_word_underscore_7 | napkin_honey_camp_they_reveal_taste_section |  
+| bip_39_word_underscore_8 | napkin_honey_camp_they_reveal_taste_section_umbrella |  
+| bip_39_word_underscore_9 | napkin_honey_camp_they_reveal_taste_section_umbrella_bubble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

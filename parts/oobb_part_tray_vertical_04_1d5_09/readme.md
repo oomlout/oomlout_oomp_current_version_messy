@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fever |  
+| bip_39_word_dash_10 | fever-power-artefact-stem-wire-silent-before-cable-choose-huge |  
+| bip_39_word_dash_11 | fever-power-artefact-stem-wire-silent-before-cable-choose-huge-around |  
+| bip_39_word_dash_12 | fever-power-artefact-stem-wire-silent-before-cable-choose-huge-around-about |  
+| bip_39_word_dash_2 | fever-power |  
+| bip_39_word_dash_3 | fever-power-artefact |  
+| bip_39_word_dash_4 | fever-power-artefact-stem |  
+| bip_39_word_dash_5 | fever-power-artefact-stem-wire |  
+| bip_39_word_dash_6 | fever-power-artefact-stem-wire-silent |  
+| bip_39_word_dash_7 | fever-power-artefact-stem-wire-silent-before |  
+| bip_39_word_dash_8 | fever-power-artefact-stem-wire-silent-before-cable |  
+| bip_39_word_dash_9 | fever-power-artefact-stem-wire-silent-before-cable-choose |  
 | bip_39_word_new_br_1 | fever |  
 | bip_39_word_new_br_10 | fever<br>power<br>artefact<br>stem<br>wire<br>silent<br>before<br>cable<br>choose<br>huge |  
 | bip_39_word_new_br_11 | fever<br>power<br>artefact<br>stem<br>wire<br>silent<br>before<br>cable<br>choose<br>huge<br>around |  
@@ -147,6 +159,18 @@ choose |
 | bip_39_word_space_7 | fever power artefact stem wire silent before |  
 | bip_39_word_space_8 | fever power artefact stem wire silent before cable |  
 | bip_39_word_space_9 | fever power artefact stem wire silent before cable choose |  
+| bip_39_word_underscore_1 | fever |  
+| bip_39_word_underscore_10 | fever_power_artefact_stem_wire_silent_before_cable_choose_huge |  
+| bip_39_word_underscore_11 | fever_power_artefact_stem_wire_silent_before_cable_choose_huge_around |  
+| bip_39_word_underscore_12 | fever_power_artefact_stem_wire_silent_before_cable_choose_huge_around_about |  
+| bip_39_word_underscore_2 | fever_power |  
+| bip_39_word_underscore_3 | fever_power_artefact |  
+| bip_39_word_underscore_4 | fever_power_artefact_stem |  
+| bip_39_word_underscore_5 | fever_power_artefact_stem_wire |  
+| bip_39_word_underscore_6 | fever_power_artefact_stem_wire_silent |  
+| bip_39_word_underscore_7 | fever_power_artefact_stem_wire_silent_before |  
+| bip_39_word_underscore_8 | fever_power_artefact_stem_wire_silent_before_cable |  
+| bip_39_word_underscore_9 | fever_power_artefact_stem_wire_silent_before_cable_choose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

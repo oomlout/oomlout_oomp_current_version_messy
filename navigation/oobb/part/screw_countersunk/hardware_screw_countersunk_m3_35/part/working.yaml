@@ -1,3 +1,15 @@
+bip_39_word_dash_1: treat
+bip_39_word_dash_10: treat-cruise-valley-worry-transfer-merry-undo-eternal-clip-spin
+bip_39_word_dash_11: treat-cruise-valley-worry-transfer-merry-undo-eternal-clip-spin-excite
+bip_39_word_dash_12: treat-cruise-valley-worry-transfer-merry-undo-eternal-clip-spin-excite-absurd
+bip_39_word_dash_2: treat-cruise
+bip_39_word_dash_3: treat-cruise-valley
+bip_39_word_dash_4: treat-cruise-valley-worry
+bip_39_word_dash_5: treat-cruise-valley-worry-transfer
+bip_39_word_dash_6: treat-cruise-valley-worry-transfer-merry
+bip_39_word_dash_7: treat-cruise-valley-worry-transfer-merry-undo
+bip_39_word_dash_8: treat-cruise-valley-worry-transfer-merry-undo-eternal
+bip_39_word_dash_9: treat-cruise-valley-worry-transfer-merry-undo-eternal-clip
 bip_39_word_new_br_1: treat
 bip_39_word_new_br_10: treat<br>cruise<br>valley<br>worry<br>transfer<br>merry<br>undo<br>eternal<br>clip<br>spin
 bip_39_word_new_br_11: treat<br>cruise<br>valley<br>worry<br>transfer<br>merry<br>undo<br>eternal<br>clip<br>spin<br>excite
@@ -193,6 +205,18 @@ bip_39_word_space_6: treat cruise valley worry transfer merry
 bip_39_word_space_7: treat cruise valley worry transfer merry undo
 bip_39_word_space_8: treat cruise valley worry transfer merry undo eternal
 bip_39_word_space_9: treat cruise valley worry transfer merry undo eternal clip
+bip_39_word_underscore_1: treat
+bip_39_word_underscore_10: treat_cruise_valley_worry_transfer_merry_undo_eternal_clip_spin
+bip_39_word_underscore_11: treat_cruise_valley_worry_transfer_merry_undo_eternal_clip_spin_excite
+bip_39_word_underscore_12: treat_cruise_valley_worry_transfer_merry_undo_eternal_clip_spin_excite_absurd
+bip_39_word_underscore_2: treat_cruise
+bip_39_word_underscore_3: treat_cruise_valley
+bip_39_word_underscore_4: treat_cruise_valley_worry
+bip_39_word_underscore_5: treat_cruise_valley_worry_transfer
+bip_39_word_underscore_6: treat_cruise_valley_worry_transfer_merry
+bip_39_word_underscore_7: treat_cruise_valley_worry_transfer_merry_undo
+bip_39_word_underscore_8: treat_cruise_valley_worry_transfer_merry_undo_eternal
+bip_39_word_underscore_9: treat_cruise_valley_worry_transfer_merry_undo_eternal_clip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

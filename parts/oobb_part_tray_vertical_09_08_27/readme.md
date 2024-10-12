@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | awake |  
+| bip_39_word_dash_10 | awake-play-hotel-crash-best-genuine-police-depart-mercy-vault |  
+| bip_39_word_dash_11 | awake-play-hotel-crash-best-genuine-police-depart-mercy-vault-girl |  
+| bip_39_word_dash_12 | awake-play-hotel-crash-best-genuine-police-depart-mercy-vault-girl-arm |  
+| bip_39_word_dash_2 | awake-play |  
+| bip_39_word_dash_3 | awake-play-hotel |  
+| bip_39_word_dash_4 | awake-play-hotel-crash |  
+| bip_39_word_dash_5 | awake-play-hotel-crash-best |  
+| bip_39_word_dash_6 | awake-play-hotel-crash-best-genuine |  
+| bip_39_word_dash_7 | awake-play-hotel-crash-best-genuine-police |  
+| bip_39_word_dash_8 | awake-play-hotel-crash-best-genuine-police-depart |  
+| bip_39_word_dash_9 | awake-play-hotel-crash-best-genuine-police-depart-mercy |  
 | bip_39_word_new_br_1 | awake |  
 | bip_39_word_new_br_10 | awake<br>play<br>hotel<br>crash<br>best<br>genuine<br>police<br>depart<br>mercy<br>vault |  
 | bip_39_word_new_br_11 | awake<br>play<br>hotel<br>crash<br>best<br>genuine<br>police<br>depart<br>mercy<br>vault<br>girl |  
@@ -147,6 +159,18 @@ mercy |
 | bip_39_word_space_7 | awake play hotel crash best genuine police |  
 | bip_39_word_space_8 | awake play hotel crash best genuine police depart |  
 | bip_39_word_space_9 | awake play hotel crash best genuine police depart mercy |  
+| bip_39_word_underscore_1 | awake |  
+| bip_39_word_underscore_10 | awake_play_hotel_crash_best_genuine_police_depart_mercy_vault |  
+| bip_39_word_underscore_11 | awake_play_hotel_crash_best_genuine_police_depart_mercy_vault_girl |  
+| bip_39_word_underscore_12 | awake_play_hotel_crash_best_genuine_police_depart_mercy_vault_girl_arm |  
+| bip_39_word_underscore_2 | awake_play |  
+| bip_39_word_underscore_3 | awake_play_hotel |  
+| bip_39_word_underscore_4 | awake_play_hotel_crash |  
+| bip_39_word_underscore_5 | awake_play_hotel_crash_best |  
+| bip_39_word_underscore_6 | awake_play_hotel_crash_best_genuine |  
+| bip_39_word_underscore_7 | awake_play_hotel_crash_best_genuine_police |  
+| bip_39_word_underscore_8 | awake_play_hotel_crash_best_genuine_police_depart |  
+| bip_39_word_underscore_9 | awake_play_hotel_crash_best_genuine_police_depart_mercy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

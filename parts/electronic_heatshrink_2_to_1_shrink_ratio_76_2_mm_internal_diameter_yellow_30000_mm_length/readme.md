@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pull |  
+| bip_39_word_dash_10 | pull-pen-lady-grit-wrestle-zebra-parade-name-salt-turkey |  
+| bip_39_word_dash_11 | pull-pen-lady-grit-wrestle-zebra-parade-name-salt-turkey-saddle |  
+| bip_39_word_dash_12 | pull-pen-lady-grit-wrestle-zebra-parade-name-salt-turkey-saddle-aisle |  
+| bip_39_word_dash_2 | pull-pen |  
+| bip_39_word_dash_3 | pull-pen-lady |  
+| bip_39_word_dash_4 | pull-pen-lady-grit |  
+| bip_39_word_dash_5 | pull-pen-lady-grit-wrestle |  
+| bip_39_word_dash_6 | pull-pen-lady-grit-wrestle-zebra |  
+| bip_39_word_dash_7 | pull-pen-lady-grit-wrestle-zebra-parade |  
+| bip_39_word_dash_8 | pull-pen-lady-grit-wrestle-zebra-parade-name |  
+| bip_39_word_dash_9 | pull-pen-lady-grit-wrestle-zebra-parade-name-salt |  
 | bip_39_word_new_br_1 | pull |  
 | bip_39_word_new_br_10 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name<br>salt<br>turkey |  
 | bip_39_word_new_br_11 | pull<br>pen<br>lady<br>grit<br>wrestle<br>zebra<br>parade<br>name<br>salt<br>turkey<br>saddle |  
@@ -147,6 +159,18 @@ salt |
 | bip_39_word_space_7 | pull pen lady grit wrestle zebra parade |  
 | bip_39_word_space_8 | pull pen lady grit wrestle zebra parade name |  
 | bip_39_word_space_9 | pull pen lady grit wrestle zebra parade name salt |  
+| bip_39_word_underscore_1 | pull |  
+| bip_39_word_underscore_10 | pull_pen_lady_grit_wrestle_zebra_parade_name_salt_turkey |  
+| bip_39_word_underscore_11 | pull_pen_lady_grit_wrestle_zebra_parade_name_salt_turkey_saddle |  
+| bip_39_word_underscore_12 | pull_pen_lady_grit_wrestle_zebra_parade_name_salt_turkey_saddle_aisle |  
+| bip_39_word_underscore_2 | pull_pen |  
+| bip_39_word_underscore_3 | pull_pen_lady |  
+| bip_39_word_underscore_4 | pull_pen_lady_grit |  
+| bip_39_word_underscore_5 | pull_pen_lady_grit_wrestle |  
+| bip_39_word_underscore_6 | pull_pen_lady_grit_wrestle_zebra |  
+| bip_39_word_underscore_7 | pull_pen_lady_grit_wrestle_zebra_parade |  
+| bip_39_word_underscore_8 | pull_pen_lady_grit_wrestle_zebra_parade_name |  
+| bip_39_word_underscore_9 | pull_pen_lady_grit_wrestle_zebra_parade_name_salt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

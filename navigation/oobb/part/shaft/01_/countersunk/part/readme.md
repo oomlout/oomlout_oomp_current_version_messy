@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stock |  
+| bip_39_word_dash_10 | stock-violin-eye-letter-click-initial-oxygen-rose-width-general |  
+| bip_39_word_dash_11 | stock-violin-eye-letter-click-initial-oxygen-rose-width-general-easy |  
+| bip_39_word_dash_12 | stock-violin-eye-letter-click-initial-oxygen-rose-width-general-easy-again |  
+| bip_39_word_dash_2 | stock-violin |  
+| bip_39_word_dash_3 | stock-violin-eye |  
+| bip_39_word_dash_4 | stock-violin-eye-letter |  
+| bip_39_word_dash_5 | stock-violin-eye-letter-click |  
+| bip_39_word_dash_6 | stock-violin-eye-letter-click-initial |  
+| bip_39_word_dash_7 | stock-violin-eye-letter-click-initial-oxygen |  
+| bip_39_word_dash_8 | stock-violin-eye-letter-click-initial-oxygen-rose |  
+| bip_39_word_dash_9 | stock-violin-eye-letter-click-initial-oxygen-rose-width |  
 | bip_39_word_new_br_1 | stock |  
 | bip_39_word_new_br_10 | stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose<br>width<br>general |  
 | bip_39_word_new_br_11 | stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose<br>width<br>general<br>easy |  
@@ -147,6 +159,18 @@ width |
 | bip_39_word_space_7 | stock violin eye letter click initial oxygen |  
 | bip_39_word_space_8 | stock violin eye letter click initial oxygen rose |  
 | bip_39_word_space_9 | stock violin eye letter click initial oxygen rose width |  
+| bip_39_word_underscore_1 | stock |  
+| bip_39_word_underscore_10 | stock_violin_eye_letter_click_initial_oxygen_rose_width_general |  
+| bip_39_word_underscore_11 | stock_violin_eye_letter_click_initial_oxygen_rose_width_general_easy |  
+| bip_39_word_underscore_12 | stock_violin_eye_letter_click_initial_oxygen_rose_width_general_easy_again |  
+| bip_39_word_underscore_2 | stock_violin |  
+| bip_39_word_underscore_3 | stock_violin_eye |  
+| bip_39_word_underscore_4 | stock_violin_eye_letter |  
+| bip_39_word_underscore_5 | stock_violin_eye_letter_click |  
+| bip_39_word_underscore_6 | stock_violin_eye_letter_click_initial |  
+| bip_39_word_underscore_7 | stock_violin_eye_letter_click_initial_oxygen |  
+| bip_39_word_underscore_8 | stock_violin_eye_letter_click_initial_oxygen_rose |  
+| bip_39_word_underscore_9 | stock_violin_eye_letter_click_initial_oxygen_rose_width |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

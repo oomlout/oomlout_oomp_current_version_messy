@@ -1,3 +1,15 @@
+bip_39_word_dash_1: royal
+bip_39_word_dash_10: royal-benefit-couple-off-slice-depend-fee-future-tube-soap
+bip_39_word_dash_11: royal-benefit-couple-off-slice-depend-fee-future-tube-soap-domain
+bip_39_word_dash_12: royal-benefit-couple-off-slice-depend-fee-future-tube-soap-domain-affair
+bip_39_word_dash_2: royal-benefit
+bip_39_word_dash_3: royal-benefit-couple
+bip_39_word_dash_4: royal-benefit-couple-off
+bip_39_word_dash_5: royal-benefit-couple-off-slice
+bip_39_word_dash_6: royal-benefit-couple-off-slice-depend
+bip_39_word_dash_7: royal-benefit-couple-off-slice-depend-fee
+bip_39_word_dash_8: royal-benefit-couple-off-slice-depend-fee-future
+bip_39_word_dash_9: royal-benefit-couple-off-slice-depend-fee-future-tube
 bip_39_word_new_br_1: royal
 bip_39_word_new_br_10: royal<br>benefit<br>couple<br>off<br>slice<br>depend<br>fee<br>future<br>tube<br>soap
 bip_39_word_new_br_11: royal<br>benefit<br>couple<br>off<br>slice<br>depend<br>fee<br>future<br>tube<br>soap<br>domain
@@ -192,6 +204,18 @@ bip_39_word_space_6: royal benefit couple off slice depend
 bip_39_word_space_7: royal benefit couple off slice depend fee
 bip_39_word_space_8: royal benefit couple off slice depend fee future
 bip_39_word_space_9: royal benefit couple off slice depend fee future tube
+bip_39_word_underscore_1: royal
+bip_39_word_underscore_10: royal_benefit_couple_off_slice_depend_fee_future_tube_soap
+bip_39_word_underscore_11: royal_benefit_couple_off_slice_depend_fee_future_tube_soap_domain
+bip_39_word_underscore_12: royal_benefit_couple_off_slice_depend_fee_future_tube_soap_domain_affair
+bip_39_word_underscore_2: royal_benefit
+bip_39_word_underscore_3: royal_benefit_couple
+bip_39_word_underscore_4: royal_benefit_couple_off
+bip_39_word_underscore_5: royal_benefit_couple_off_slice
+bip_39_word_underscore_6: royal_benefit_couple_off_slice_depend
+bip_39_word_underscore_7: royal_benefit_couple_off_slice_depend_fee
+bip_39_word_underscore_8: royal_benefit_couple_off_slice_depend_fee_future
+bip_39_word_underscore_9: royal_benefit_couple_off_slice_depend_fee_future_tube
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cradle |  
+| bip_39_word_dash_10 | cradle-climb-inner-purity-thing-announce-cheese-quote-exclude-endorse |  
+| bip_39_word_dash_11 | cradle-climb-inner-purity-thing-announce-cheese-quote-exclude-endorse-mixture |  
+| bip_39_word_dash_12 | cradle-climb-inner-purity-thing-announce-cheese-quote-exclude-endorse-mixture-assist |  
+| bip_39_word_dash_2 | cradle-climb |  
+| bip_39_word_dash_3 | cradle-climb-inner |  
+| bip_39_word_dash_4 | cradle-climb-inner-purity |  
+| bip_39_word_dash_5 | cradle-climb-inner-purity-thing |  
+| bip_39_word_dash_6 | cradle-climb-inner-purity-thing-announce |  
+| bip_39_word_dash_7 | cradle-climb-inner-purity-thing-announce-cheese |  
+| bip_39_word_dash_8 | cradle-climb-inner-purity-thing-announce-cheese-quote |  
+| bip_39_word_dash_9 | cradle-climb-inner-purity-thing-announce-cheese-quote-exclude |  
 | bip_39_word_new_br_1 | cradle |  
 | bip_39_word_new_br_10 | cradle<br>climb<br>inner<br>purity<br>thing<br>announce<br>cheese<br>quote<br>exclude<br>endorse |  
 | bip_39_word_new_br_11 | cradle<br>climb<br>inner<br>purity<br>thing<br>announce<br>cheese<br>quote<br>exclude<br>endorse<br>mixture |  
@@ -147,6 +159,18 @@ exclude |
 | bip_39_word_space_7 | cradle climb inner purity thing announce cheese |  
 | bip_39_word_space_8 | cradle climb inner purity thing announce cheese quote |  
 | bip_39_word_space_9 | cradle climb inner purity thing announce cheese quote exclude |  
+| bip_39_word_underscore_1 | cradle |  
+| bip_39_word_underscore_10 | cradle_climb_inner_purity_thing_announce_cheese_quote_exclude_endorse |  
+| bip_39_word_underscore_11 | cradle_climb_inner_purity_thing_announce_cheese_quote_exclude_endorse_mixture |  
+| bip_39_word_underscore_12 | cradle_climb_inner_purity_thing_announce_cheese_quote_exclude_endorse_mixture_assist |  
+| bip_39_word_underscore_2 | cradle_climb |  
+| bip_39_word_underscore_3 | cradle_climb_inner |  
+| bip_39_word_underscore_4 | cradle_climb_inner_purity |  
+| bip_39_word_underscore_5 | cradle_climb_inner_purity_thing |  
+| bip_39_word_underscore_6 | cradle_climb_inner_purity_thing_announce |  
+| bip_39_word_underscore_7 | cradle_climb_inner_purity_thing_announce_cheese |  
+| bip_39_word_underscore_8 | cradle_climb_inner_purity_thing_announce_cheese_quote |  
+| bip_39_word_underscore_9 | cradle_climb_inner_purity_thing_announce_cheese_quote_exclude |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

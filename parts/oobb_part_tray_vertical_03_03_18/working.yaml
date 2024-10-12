@@ -1,3 +1,15 @@
+bip_39_word_dash_1: artist
+bip_39_word_dash_10: artist-staff-category-among-easy-common-follow-property-ginger-cash
+bip_39_word_dash_11: artist-staff-category-among-easy-common-follow-property-ginger-cash-captain
+bip_39_word_dash_12: artist-staff-category-among-easy-common-follow-property-ginger-cash-captain-attitude
+bip_39_word_dash_2: artist-staff
+bip_39_word_dash_3: artist-staff-category
+bip_39_word_dash_4: artist-staff-category-among
+bip_39_word_dash_5: artist-staff-category-among-easy
+bip_39_word_dash_6: artist-staff-category-among-easy-common
+bip_39_word_dash_7: artist-staff-category-among-easy-common-follow
+bip_39_word_dash_8: artist-staff-category-among-easy-common-follow-property
+bip_39_word_dash_9: artist-staff-category-among-easy-common-follow-property-ginger
 bip_39_word_new_br_1: artist
 bip_39_word_new_br_10: artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property<br>ginger<br>cash
 bip_39_word_new_br_11: artist<br>staff<br>category<br>among<br>easy<br>common<br>follow<br>property<br>ginger<br>cash<br>captain
@@ -194,6 +206,18 @@ bip_39_word_space_6: artist staff category among easy common
 bip_39_word_space_7: artist staff category among easy common follow
 bip_39_word_space_8: artist staff category among easy common follow property
 bip_39_word_space_9: artist staff category among easy common follow property ginger
+bip_39_word_underscore_1: artist
+bip_39_word_underscore_10: artist_staff_category_among_easy_common_follow_property_ginger_cash
+bip_39_word_underscore_11: artist_staff_category_among_easy_common_follow_property_ginger_cash_captain
+bip_39_word_underscore_12: artist_staff_category_among_easy_common_follow_property_ginger_cash_captain_attitude
+bip_39_word_underscore_2: artist_staff
+bip_39_word_underscore_3: artist_staff_category
+bip_39_word_underscore_4: artist_staff_category_among
+bip_39_word_underscore_5: artist_staff_category_among_easy
+bip_39_word_underscore_6: artist_staff_category_among_easy_common
+bip_39_word_underscore_7: artist_staff_category_among_easy_common_follow
+bip_39_word_underscore_8: artist_staff_category_among_easy_common_follow_property
+bip_39_word_underscore_9: artist_staff_category_among_easy_common_follow_property_ginger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

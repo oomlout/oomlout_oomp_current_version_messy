@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prize |  
+| bip_39_word_dash_10 | prize-same-escape-fresh-profit-dress-unknown-coyote-candy-purpose |  
+| bip_39_word_dash_11 | prize-same-escape-fresh-profit-dress-unknown-coyote-candy-purpose-vessel |  
+| bip_39_word_dash_12 | prize-same-escape-fresh-profit-dress-unknown-coyote-candy-purpose-vessel-another |  
+| bip_39_word_dash_2 | prize-same |  
+| bip_39_word_dash_3 | prize-same-escape |  
+| bip_39_word_dash_4 | prize-same-escape-fresh |  
+| bip_39_word_dash_5 | prize-same-escape-fresh-profit |  
+| bip_39_word_dash_6 | prize-same-escape-fresh-profit-dress |  
+| bip_39_word_dash_7 | prize-same-escape-fresh-profit-dress-unknown |  
+| bip_39_word_dash_8 | prize-same-escape-fresh-profit-dress-unknown-coyote |  
+| bip_39_word_dash_9 | prize-same-escape-fresh-profit-dress-unknown-coyote-candy |  
 | bip_39_word_new_br_1 | prize |  
 | bip_39_word_new_br_10 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose |  
 | bip_39_word_new_br_11 | prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose<br>vessel |  
@@ -147,6 +159,18 @@ candy |
 | bip_39_word_space_7 | prize same escape fresh profit dress unknown |  
 | bip_39_word_space_8 | prize same escape fresh profit dress unknown coyote |  
 | bip_39_word_space_9 | prize same escape fresh profit dress unknown coyote candy |  
+| bip_39_word_underscore_1 | prize |  
+| bip_39_word_underscore_10 | prize_same_escape_fresh_profit_dress_unknown_coyote_candy_purpose |  
+| bip_39_word_underscore_11 | prize_same_escape_fresh_profit_dress_unknown_coyote_candy_purpose_vessel |  
+| bip_39_word_underscore_12 | prize_same_escape_fresh_profit_dress_unknown_coyote_candy_purpose_vessel_another |  
+| bip_39_word_underscore_2 | prize_same |  
+| bip_39_word_underscore_3 | prize_same_escape |  
+| bip_39_word_underscore_4 | prize_same_escape_fresh |  
+| bip_39_word_underscore_5 | prize_same_escape_fresh_profit |  
+| bip_39_word_underscore_6 | prize_same_escape_fresh_profit_dress |  
+| bip_39_word_underscore_7 | prize_same_escape_fresh_profit_dress_unknown |  
+| bip_39_word_underscore_8 | prize_same_escape_fresh_profit_dress_unknown_coyote |  
+| bip_39_word_underscore_9 | prize_same_escape_fresh_profit_dress_unknown_coyote_candy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

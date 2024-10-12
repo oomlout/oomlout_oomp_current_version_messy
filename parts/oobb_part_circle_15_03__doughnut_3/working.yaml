@@ -1,3 +1,15 @@
+bip_39_word_dash_1: proof
+bip_39_word_dash_10: proof-cancel-material-mirror-sentence-scene-gauge-delay-shy-van
+bip_39_word_dash_11: proof-cancel-material-mirror-sentence-scene-gauge-delay-shy-van-vicious
+bip_39_word_dash_12: proof-cancel-material-mirror-sentence-scene-gauge-delay-shy-van-vicious-arrow
+bip_39_word_dash_2: proof-cancel
+bip_39_word_dash_3: proof-cancel-material
+bip_39_word_dash_4: proof-cancel-material-mirror
+bip_39_word_dash_5: proof-cancel-material-mirror-sentence
+bip_39_word_dash_6: proof-cancel-material-mirror-sentence-scene
+bip_39_word_dash_7: proof-cancel-material-mirror-sentence-scene-gauge
+bip_39_word_dash_8: proof-cancel-material-mirror-sentence-scene-gauge-delay
+bip_39_word_dash_9: proof-cancel-material-mirror-sentence-scene-gauge-delay-shy
 bip_39_word_new_br_1: proof
 bip_39_word_new_br_10: proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van
 bip_39_word_new_br_11: proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van<br>vicious
@@ -194,6 +206,18 @@ bip_39_word_space_6: proof cancel material mirror sentence scene
 bip_39_word_space_7: proof cancel material mirror sentence scene gauge
 bip_39_word_space_8: proof cancel material mirror sentence scene gauge delay
 bip_39_word_space_9: proof cancel material mirror sentence scene gauge delay shy
+bip_39_word_underscore_1: proof
+bip_39_word_underscore_10: proof_cancel_material_mirror_sentence_scene_gauge_delay_shy_van
+bip_39_word_underscore_11: proof_cancel_material_mirror_sentence_scene_gauge_delay_shy_van_vicious
+bip_39_word_underscore_12: proof_cancel_material_mirror_sentence_scene_gauge_delay_shy_van_vicious_arrow
+bip_39_word_underscore_2: proof_cancel
+bip_39_word_underscore_3: proof_cancel_material
+bip_39_word_underscore_4: proof_cancel_material_mirror
+bip_39_word_underscore_5: proof_cancel_material_mirror_sentence
+bip_39_word_underscore_6: proof_cancel_material_mirror_sentence_scene
+bip_39_word_underscore_7: proof_cancel_material_mirror_sentence_scene_gauge
+bip_39_word_underscore_8: proof_cancel_material_mirror_sentence_scene_gauge_delay
+bip_39_word_underscore_9: proof_cancel_material_mirror_sentence_scene_gauge_delay_shy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lift |  
+| bip_39_word_dash_10 | lift-harsh-idea-goddess-left-math-mammal-bread-must-wrong |  
+| bip_39_word_dash_11 | lift-harsh-idea-goddess-left-math-mammal-bread-must-wrong-can |  
+| bip_39_word_dash_12 | lift-harsh-idea-goddess-left-math-mammal-bread-must-wrong-can-attract |  
+| bip_39_word_dash_2 | lift-harsh |  
+| bip_39_word_dash_3 | lift-harsh-idea |  
+| bip_39_word_dash_4 | lift-harsh-idea-goddess |  
+| bip_39_word_dash_5 | lift-harsh-idea-goddess-left |  
+| bip_39_word_dash_6 | lift-harsh-idea-goddess-left-math |  
+| bip_39_word_dash_7 | lift-harsh-idea-goddess-left-math-mammal |  
+| bip_39_word_dash_8 | lift-harsh-idea-goddess-left-math-mammal-bread |  
+| bip_39_word_dash_9 | lift-harsh-idea-goddess-left-math-mammal-bread-must |  
 | bip_39_word_new_br_1 | lift |  
 | bip_39_word_new_br_10 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong |  
 | bip_39_word_new_br_11 | lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong<br>can |  
@@ -147,6 +159,18 @@ must |
 | bip_39_word_space_7 | lift harsh idea goddess left math mammal |  
 | bip_39_word_space_8 | lift harsh idea goddess left math mammal bread |  
 | bip_39_word_space_9 | lift harsh idea goddess left math mammal bread must |  
+| bip_39_word_underscore_1 | lift |  
+| bip_39_word_underscore_10 | lift_harsh_idea_goddess_left_math_mammal_bread_must_wrong |  
+| bip_39_word_underscore_11 | lift_harsh_idea_goddess_left_math_mammal_bread_must_wrong_can |  
+| bip_39_word_underscore_12 | lift_harsh_idea_goddess_left_math_mammal_bread_must_wrong_can_attract |  
+| bip_39_word_underscore_2 | lift_harsh |  
+| bip_39_word_underscore_3 | lift_harsh_idea |  
+| bip_39_word_underscore_4 | lift_harsh_idea_goddess |  
+| bip_39_word_underscore_5 | lift_harsh_idea_goddess_left |  
+| bip_39_word_underscore_6 | lift_harsh_idea_goddess_left_math |  
+| bip_39_word_underscore_7 | lift_harsh_idea_goddess_left_math_mammal |  
+| bip_39_word_underscore_8 | lift_harsh_idea_goddess_left_math_mammal_bread |  
+| bip_39_word_underscore_9 | lift_harsh_idea_goddess_left_math_mammal_bread_must |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

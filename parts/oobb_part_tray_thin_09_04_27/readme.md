@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gas |  
+| bip_39_word_dash_10 | gas-rent-plastic-recipe-swim-police-juice-guitar-simple-clump |  
+| bip_39_word_dash_11 | gas-rent-plastic-recipe-swim-police-juice-guitar-simple-clump-fatal |  
+| bip_39_word_dash_12 | gas-rent-plastic-recipe-swim-police-juice-guitar-simple-clump-fatal-acoustic |  
+| bip_39_word_dash_2 | gas-rent |  
+| bip_39_word_dash_3 | gas-rent-plastic |  
+| bip_39_word_dash_4 | gas-rent-plastic-recipe |  
+| bip_39_word_dash_5 | gas-rent-plastic-recipe-swim |  
+| bip_39_word_dash_6 | gas-rent-plastic-recipe-swim-police |  
+| bip_39_word_dash_7 | gas-rent-plastic-recipe-swim-police-juice |  
+| bip_39_word_dash_8 | gas-rent-plastic-recipe-swim-police-juice-guitar |  
+| bip_39_word_dash_9 | gas-rent-plastic-recipe-swim-police-juice-guitar-simple |  
 | bip_39_word_new_br_1 | gas |  
 | bip_39_word_new_br_10 | gas<br>rent<br>plastic<br>recipe<br>swim<br>police<br>juice<br>guitar<br>simple<br>clump |  
 | bip_39_word_new_br_11 | gas<br>rent<br>plastic<br>recipe<br>swim<br>police<br>juice<br>guitar<br>simple<br>clump<br>fatal |  
@@ -147,6 +159,18 @@ simple |
 | bip_39_word_space_7 | gas rent plastic recipe swim police juice |  
 | bip_39_word_space_8 | gas rent plastic recipe swim police juice guitar |  
 | bip_39_word_space_9 | gas rent plastic recipe swim police juice guitar simple |  
+| bip_39_word_underscore_1 | gas |  
+| bip_39_word_underscore_10 | gas_rent_plastic_recipe_swim_police_juice_guitar_simple_clump |  
+| bip_39_word_underscore_11 | gas_rent_plastic_recipe_swim_police_juice_guitar_simple_clump_fatal |  
+| bip_39_word_underscore_12 | gas_rent_plastic_recipe_swim_police_juice_guitar_simple_clump_fatal_acoustic |  
+| bip_39_word_underscore_2 | gas_rent |  
+| bip_39_word_underscore_3 | gas_rent_plastic |  
+| bip_39_word_underscore_4 | gas_rent_plastic_recipe |  
+| bip_39_word_underscore_5 | gas_rent_plastic_recipe_swim |  
+| bip_39_word_underscore_6 | gas_rent_plastic_recipe_swim_police |  
+| bip_39_word_underscore_7 | gas_rent_plastic_recipe_swim_police_juice |  
+| bip_39_word_underscore_8 | gas_rent_plastic_recipe_swim_police_juice_guitar |  
+| bip_39_word_underscore_9 | gas_rent_plastic_recipe_swim_police_juice_guitar_simple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

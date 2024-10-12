@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | click |  
+| bip_39_word_dash_10 | click-only-glimpse-delay-wood-leisure-noble-split-close-staff |  
+| bip_39_word_dash_11 | click-only-glimpse-delay-wood-leisure-noble-split-close-staff-glory |  
+| bip_39_word_dash_12 | click-only-glimpse-delay-wood-leisure-noble-split-close-staff-glory-audit |  
+| bip_39_word_dash_2 | click-only |  
+| bip_39_word_dash_3 | click-only-glimpse |  
+| bip_39_word_dash_4 | click-only-glimpse-delay |  
+| bip_39_word_dash_5 | click-only-glimpse-delay-wood |  
+| bip_39_word_dash_6 | click-only-glimpse-delay-wood-leisure |  
+| bip_39_word_dash_7 | click-only-glimpse-delay-wood-leisure-noble |  
+| bip_39_word_dash_8 | click-only-glimpse-delay-wood-leisure-noble-split |  
+| bip_39_word_dash_9 | click-only-glimpse-delay-wood-leisure-noble-split-close |  
 | bip_39_word_new_br_1 | click |  
 | bip_39_word_new_br_10 | click<br>only<br>glimpse<br>delay<br>wood<br>leisure<br>noble<br>split<br>close<br>staff |  
 | bip_39_word_new_br_11 | click<br>only<br>glimpse<br>delay<br>wood<br>leisure<br>noble<br>split<br>close<br>staff<br>glory |  
@@ -147,6 +159,18 @@ close |
 | bip_39_word_space_7 | click only glimpse delay wood leisure noble |  
 | bip_39_word_space_8 | click only glimpse delay wood leisure noble split |  
 | bip_39_word_space_9 | click only glimpse delay wood leisure noble split close |  
+| bip_39_word_underscore_1 | click |  
+| bip_39_word_underscore_10 | click_only_glimpse_delay_wood_leisure_noble_split_close_staff |  
+| bip_39_word_underscore_11 | click_only_glimpse_delay_wood_leisure_noble_split_close_staff_glory |  
+| bip_39_word_underscore_12 | click_only_glimpse_delay_wood_leisure_noble_split_close_staff_glory_audit |  
+| bip_39_word_underscore_2 | click_only |  
+| bip_39_word_underscore_3 | click_only_glimpse |  
+| bip_39_word_underscore_4 | click_only_glimpse_delay |  
+| bip_39_word_underscore_5 | click_only_glimpse_delay_wood |  
+| bip_39_word_underscore_6 | click_only_glimpse_delay_wood_leisure |  
+| bip_39_word_underscore_7 | click_only_glimpse_delay_wood_leisure_noble |  
+| bip_39_word_underscore_8 | click_only_glimpse_delay_wood_leisure_noble_split |  
+| bip_39_word_underscore_9 | click_only_glimpse_delay_wood_leisure_noble_split_close |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sand
+bip_39_word_dash_10: sand-uniform-foster-vault-loan-churn-axis-latin-mountain-possible
+bip_39_word_dash_11: sand-uniform-foster-vault-loan-churn-axis-latin-mountain-possible-radio
+bip_39_word_dash_12: sand-uniform-foster-vault-loan-churn-axis-latin-mountain-possible-radio-ask
+bip_39_word_dash_2: sand-uniform
+bip_39_word_dash_3: sand-uniform-foster
+bip_39_word_dash_4: sand-uniform-foster-vault
+bip_39_word_dash_5: sand-uniform-foster-vault-loan
+bip_39_word_dash_6: sand-uniform-foster-vault-loan-churn
+bip_39_word_dash_7: sand-uniform-foster-vault-loan-churn-axis
+bip_39_word_dash_8: sand-uniform-foster-vault-loan-churn-axis-latin
+bip_39_word_dash_9: sand-uniform-foster-vault-loan-churn-axis-latin-mountain
 bip_39_word_new_br_1: sand
 bip_39_word_new_br_10: sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin<br>mountain<br>possible
 bip_39_word_new_br_11: sand<br>uniform<br>foster<br>vault<br>loan<br>churn<br>axis<br>latin<br>mountain<br>possible<br>radio
@@ -193,6 +205,18 @@ bip_39_word_space_6: sand uniform foster vault loan churn
 bip_39_word_space_7: sand uniform foster vault loan churn axis
 bip_39_word_space_8: sand uniform foster vault loan churn axis latin
 bip_39_word_space_9: sand uniform foster vault loan churn axis latin mountain
+bip_39_word_underscore_1: sand
+bip_39_word_underscore_10: sand_uniform_foster_vault_loan_churn_axis_latin_mountain_possible
+bip_39_word_underscore_11: sand_uniform_foster_vault_loan_churn_axis_latin_mountain_possible_radio
+bip_39_word_underscore_12: sand_uniform_foster_vault_loan_churn_axis_latin_mountain_possible_radio_ask
+bip_39_word_underscore_2: sand_uniform
+bip_39_word_underscore_3: sand_uniform_foster
+bip_39_word_underscore_4: sand_uniform_foster_vault
+bip_39_word_underscore_5: sand_uniform_foster_vault_loan
+bip_39_word_underscore_6: sand_uniform_foster_vault_loan_churn
+bip_39_word_underscore_7: sand_uniform_foster_vault_loan_churn_axis
+bip_39_word_underscore_8: sand_uniform_foster_vault_loan_churn_axis_latin
+bip_39_word_underscore_9: sand_uniform_foster_vault_loan_churn_axis_latin_mountain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

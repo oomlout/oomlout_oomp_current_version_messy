@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nut |  
+| bip_39_word_dash_10 | nut-display-science-paddle-loud-fruit-mandate-urge-explain-timber |  
+| bip_39_word_dash_11 | nut-display-science-paddle-loud-fruit-mandate-urge-explain-timber-wire |  
+| bip_39_word_dash_12 | nut-display-science-paddle-loud-fruit-mandate-urge-explain-timber-wire-also |  
+| bip_39_word_dash_2 | nut-display |  
+| bip_39_word_dash_3 | nut-display-science |  
+| bip_39_word_dash_4 | nut-display-science-paddle |  
+| bip_39_word_dash_5 | nut-display-science-paddle-loud |  
+| bip_39_word_dash_6 | nut-display-science-paddle-loud-fruit |  
+| bip_39_word_dash_7 | nut-display-science-paddle-loud-fruit-mandate |  
+| bip_39_word_dash_8 | nut-display-science-paddle-loud-fruit-mandate-urge |  
+| bip_39_word_dash_9 | nut-display-science-paddle-loud-fruit-mandate-urge-explain |  
 | bip_39_word_new_br_1 | nut |  
 | bip_39_word_new_br_10 | nut<br>display<br>science<br>paddle<br>loud<br>fruit<br>mandate<br>urge<br>explain<br>timber |  
 | bip_39_word_new_br_11 | nut<br>display<br>science<br>paddle<br>loud<br>fruit<br>mandate<br>urge<br>explain<br>timber<br>wire |  
@@ -147,6 +159,18 @@ explain |
 | bip_39_word_space_7 | nut display science paddle loud fruit mandate |  
 | bip_39_word_space_8 | nut display science paddle loud fruit mandate urge |  
 | bip_39_word_space_9 | nut display science paddle loud fruit mandate urge explain |  
+| bip_39_word_underscore_1 | nut |  
+| bip_39_word_underscore_10 | nut_display_science_paddle_loud_fruit_mandate_urge_explain_timber |  
+| bip_39_word_underscore_11 | nut_display_science_paddle_loud_fruit_mandate_urge_explain_timber_wire |  
+| bip_39_word_underscore_12 | nut_display_science_paddle_loud_fruit_mandate_urge_explain_timber_wire_also |  
+| bip_39_word_underscore_2 | nut_display |  
+| bip_39_word_underscore_3 | nut_display_science |  
+| bip_39_word_underscore_4 | nut_display_science_paddle |  
+| bip_39_word_underscore_5 | nut_display_science_paddle_loud |  
+| bip_39_word_underscore_6 | nut_display_science_paddle_loud_fruit |  
+| bip_39_word_underscore_7 | nut_display_science_paddle_loud_fruit_mandate |  
+| bip_39_word_underscore_8 | nut_display_science_paddle_loud_fruit_mandate_urge |  
+| bip_39_word_underscore_9 | nut_display_science_paddle_loud_fruit_mandate_urge_explain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

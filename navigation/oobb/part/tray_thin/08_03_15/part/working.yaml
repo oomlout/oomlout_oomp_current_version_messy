@@ -1,3 +1,15 @@
+bip_39_word_dash_1: silk
+bip_39_word_dash_10: silk-smooth-decade-scale-quote-catch-fork-perfect-busy-cool
+bip_39_word_dash_11: silk-smooth-decade-scale-quote-catch-fork-perfect-busy-cool-stage
+bip_39_word_dash_12: silk-smooth-decade-scale-quote-catch-fork-perfect-busy-cool-stage-any
+bip_39_word_dash_2: silk-smooth
+bip_39_word_dash_3: silk-smooth-decade
+bip_39_word_dash_4: silk-smooth-decade-scale
+bip_39_word_dash_5: silk-smooth-decade-scale-quote
+bip_39_word_dash_6: silk-smooth-decade-scale-quote-catch
+bip_39_word_dash_7: silk-smooth-decade-scale-quote-catch-fork
+bip_39_word_dash_8: silk-smooth-decade-scale-quote-catch-fork-perfect
+bip_39_word_dash_9: silk-smooth-decade-scale-quote-catch-fork-perfect-busy
 bip_39_word_new_br_1: silk
 bip_39_word_new_br_10: silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect<br>busy<br>cool
 bip_39_word_new_br_11: silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect<br>busy<br>cool<br>stage
@@ -193,6 +205,18 @@ bip_39_word_space_6: silk smooth decade scale quote catch
 bip_39_word_space_7: silk smooth decade scale quote catch fork
 bip_39_word_space_8: silk smooth decade scale quote catch fork perfect
 bip_39_word_space_9: silk smooth decade scale quote catch fork perfect busy
+bip_39_word_underscore_1: silk
+bip_39_word_underscore_10: silk_smooth_decade_scale_quote_catch_fork_perfect_busy_cool
+bip_39_word_underscore_11: silk_smooth_decade_scale_quote_catch_fork_perfect_busy_cool_stage
+bip_39_word_underscore_12: silk_smooth_decade_scale_quote_catch_fork_perfect_busy_cool_stage_any
+bip_39_word_underscore_2: silk_smooth
+bip_39_word_underscore_3: silk_smooth_decade
+bip_39_word_underscore_4: silk_smooth_decade_scale
+bip_39_word_underscore_5: silk_smooth_decade_scale_quote
+bip_39_word_underscore_6: silk_smooth_decade_scale_quote_catch
+bip_39_word_underscore_7: silk_smooth_decade_scale_quote_catch_fork
+bip_39_word_underscore_8: silk_smooth_decade_scale_quote_catch_fork_perfect
+bip_39_word_underscore_9: silk_smooth_decade_scale_quote_catch_fork_perfect_busy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

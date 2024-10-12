@@ -1,3 +1,15 @@
+bip_39_word_dash_1: episode
+bip_39_word_dash_10: episode-speed-way-display-staff-tool-never-sleep-style-venue
+bip_39_word_dash_11: episode-speed-way-display-staff-tool-never-sleep-style-venue-stay
+bip_39_word_dash_12: episode-speed-way-display-staff-tool-never-sleep-style-venue-stay-act
+bip_39_word_dash_2: episode-speed
+bip_39_word_dash_3: episode-speed-way
+bip_39_word_dash_4: episode-speed-way-display
+bip_39_word_dash_5: episode-speed-way-display-staff
+bip_39_word_dash_6: episode-speed-way-display-staff-tool
+bip_39_word_dash_7: episode-speed-way-display-staff-tool-never
+bip_39_word_dash_8: episode-speed-way-display-staff-tool-never-sleep
+bip_39_word_dash_9: episode-speed-way-display-staff-tool-never-sleep-style
 bip_39_word_new_br_1: episode
 bip_39_word_new_br_10: episode<br>speed<br>way<br>display<br>staff<br>tool<br>never<br>sleep<br>style<br>venue
 bip_39_word_new_br_11: episode<br>speed<br>way<br>display<br>staff<br>tool<br>never<br>sleep<br>style<br>venue<br>stay
@@ -193,6 +205,18 @@ bip_39_word_space_6: episode speed way display staff tool
 bip_39_word_space_7: episode speed way display staff tool never
 bip_39_word_space_8: episode speed way display staff tool never sleep
 bip_39_word_space_9: episode speed way display staff tool never sleep style
+bip_39_word_underscore_1: episode
+bip_39_word_underscore_10: episode_speed_way_display_staff_tool_never_sleep_style_venue
+bip_39_word_underscore_11: episode_speed_way_display_staff_tool_never_sleep_style_venue_stay
+bip_39_word_underscore_12: episode_speed_way_display_staff_tool_never_sleep_style_venue_stay_act
+bip_39_word_underscore_2: episode_speed
+bip_39_word_underscore_3: episode_speed_way
+bip_39_word_underscore_4: episode_speed_way_display
+bip_39_word_underscore_5: episode_speed_way_display_staff
+bip_39_word_underscore_6: episode_speed_way_display_staff_tool
+bip_39_word_underscore_7: episode_speed_way_display_staff_tool_never
+bip_39_word_underscore_8: episode_speed_way_display_staff_tool_never_sleep
+bip_39_word_underscore_9: episode_speed_way_display_staff_tool_never_sleep_style
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

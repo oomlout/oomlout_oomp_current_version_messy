@@ -1,3 +1,15 @@
+bip_39_word_dash_1: neglect
+bip_39_word_dash_10: neglect-smoke-camera-device-fault-ahead-party-tower-language-cave
+bip_39_word_dash_11: neglect-smoke-camera-device-fault-ahead-party-tower-language-cave-march
+bip_39_word_dash_12: neglect-smoke-camera-device-fault-ahead-party-tower-language-cave-march-arctic
+bip_39_word_dash_2: neglect-smoke
+bip_39_word_dash_3: neglect-smoke-camera
+bip_39_word_dash_4: neglect-smoke-camera-device
+bip_39_word_dash_5: neglect-smoke-camera-device-fault
+bip_39_word_dash_6: neglect-smoke-camera-device-fault-ahead
+bip_39_word_dash_7: neglect-smoke-camera-device-fault-ahead-party
+bip_39_word_dash_8: neglect-smoke-camera-device-fault-ahead-party-tower
+bip_39_word_dash_9: neglect-smoke-camera-device-fault-ahead-party-tower-language
 bip_39_word_new_br_1: neglect
 bip_39_word_new_br_10: neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower<br>language<br>cave
 bip_39_word_new_br_11: neglect<br>smoke<br>camera<br>device<br>fault<br>ahead<br>party<br>tower<br>language<br>cave<br>march
@@ -194,6 +206,18 @@ bip_39_word_space_6: neglect smoke camera device fault ahead
 bip_39_word_space_7: neglect smoke camera device fault ahead party
 bip_39_word_space_8: neglect smoke camera device fault ahead party tower
 bip_39_word_space_9: neglect smoke camera device fault ahead party tower language
+bip_39_word_underscore_1: neglect
+bip_39_word_underscore_10: neglect_smoke_camera_device_fault_ahead_party_tower_language_cave
+bip_39_word_underscore_11: neglect_smoke_camera_device_fault_ahead_party_tower_language_cave_march
+bip_39_word_underscore_12: neglect_smoke_camera_device_fault_ahead_party_tower_language_cave_march_arctic
+bip_39_word_underscore_2: neglect_smoke
+bip_39_word_underscore_3: neglect_smoke_camera
+bip_39_word_underscore_4: neglect_smoke_camera_device
+bip_39_word_underscore_5: neglect_smoke_camera_device_fault
+bip_39_word_underscore_6: neglect_smoke_camera_device_fault_ahead
+bip_39_word_underscore_7: neglect_smoke_camera_device_fault_ahead_party
+bip_39_word_underscore_8: neglect_smoke_camera_device_fault_ahead_party_tower
+bip_39_word_underscore_9: neglect_smoke_camera_device_fault_ahead_party_tower_language
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

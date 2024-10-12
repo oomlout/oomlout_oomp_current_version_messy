@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | naive |  
+| bip_39_word_dash_10 | naive-blouse-couch-enact-impulse-script-skull-gospel-happy-plunge |  
+| bip_39_word_dash_11 | naive-blouse-couch-enact-impulse-script-skull-gospel-happy-plunge-motor |  
+| bip_39_word_dash_12 | naive-blouse-couch-enact-impulse-script-skull-gospel-happy-plunge-motor-announce |  
+| bip_39_word_dash_2 | naive-blouse |  
+| bip_39_word_dash_3 | naive-blouse-couch |  
+| bip_39_word_dash_4 | naive-blouse-couch-enact |  
+| bip_39_word_dash_5 | naive-blouse-couch-enact-impulse |  
+| bip_39_word_dash_6 | naive-blouse-couch-enact-impulse-script |  
+| bip_39_word_dash_7 | naive-blouse-couch-enact-impulse-script-skull |  
+| bip_39_word_dash_8 | naive-blouse-couch-enact-impulse-script-skull-gospel |  
+| bip_39_word_dash_9 | naive-blouse-couch-enact-impulse-script-skull-gospel-happy |  
 | bip_39_word_new_br_1 | naive |  
 | bip_39_word_new_br_10 | naive<br>blouse<br>couch<br>enact<br>impulse<br>script<br>skull<br>gospel<br>happy<br>plunge |  
 | bip_39_word_new_br_11 | naive<br>blouse<br>couch<br>enact<br>impulse<br>script<br>skull<br>gospel<br>happy<br>plunge<br>motor |  
@@ -147,6 +159,18 @@ happy |
 | bip_39_word_space_7 | naive blouse couch enact impulse script skull |  
 | bip_39_word_space_8 | naive blouse couch enact impulse script skull gospel |  
 | bip_39_word_space_9 | naive blouse couch enact impulse script skull gospel happy |  
+| bip_39_word_underscore_1 | naive |  
+| bip_39_word_underscore_10 | naive_blouse_couch_enact_impulse_script_skull_gospel_happy_plunge |  
+| bip_39_word_underscore_11 | naive_blouse_couch_enact_impulse_script_skull_gospel_happy_plunge_motor |  
+| bip_39_word_underscore_12 | naive_blouse_couch_enact_impulse_script_skull_gospel_happy_plunge_motor_announce |  
+| bip_39_word_underscore_2 | naive_blouse |  
+| bip_39_word_underscore_3 | naive_blouse_couch |  
+| bip_39_word_underscore_4 | naive_blouse_couch_enact |  
+| bip_39_word_underscore_5 | naive_blouse_couch_enact_impulse |  
+| bip_39_word_underscore_6 | naive_blouse_couch_enact_impulse_script |  
+| bip_39_word_underscore_7 | naive_blouse_couch_enact_impulse_script_skull |  
+| bip_39_word_underscore_8 | naive_blouse_couch_enact_impulse_script_skull_gospel |  
+| bip_39_word_underscore_9 | naive_blouse_couch_enact_impulse_script_skull_gospel_happy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

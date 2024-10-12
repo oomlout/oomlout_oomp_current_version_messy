@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | piece |  
+| bip_39_word_dash_10 | piece-write-aspect-soon-allow-unfair-rude-dwarf-identify-trade |  
+| bip_39_word_dash_11 | piece-write-aspect-soon-allow-unfair-rude-dwarf-identify-trade-gift |  
+| bip_39_word_dash_12 | piece-write-aspect-soon-allow-unfair-rude-dwarf-identify-trade-gift-agree |  
+| bip_39_word_dash_2 | piece-write |  
+| bip_39_word_dash_3 | piece-write-aspect |  
+| bip_39_word_dash_4 | piece-write-aspect-soon |  
+| bip_39_word_dash_5 | piece-write-aspect-soon-allow |  
+| bip_39_word_dash_6 | piece-write-aspect-soon-allow-unfair |  
+| bip_39_word_dash_7 | piece-write-aspect-soon-allow-unfair-rude |  
+| bip_39_word_dash_8 | piece-write-aspect-soon-allow-unfair-rude-dwarf |  
+| bip_39_word_dash_9 | piece-write-aspect-soon-allow-unfair-rude-dwarf-identify |  
 | bip_39_word_new_br_1 | piece |  
 | bip_39_word_new_br_10 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade |  
 | bip_39_word_new_br_11 | piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade<br>gift |  
@@ -147,6 +159,18 @@ identify |
 | bip_39_word_space_7 | piece write aspect soon allow unfair rude |  
 | bip_39_word_space_8 | piece write aspect soon allow unfair rude dwarf |  
 | bip_39_word_space_9 | piece write aspect soon allow unfair rude dwarf identify |  
+| bip_39_word_underscore_1 | piece |  
+| bip_39_word_underscore_10 | piece_write_aspect_soon_allow_unfair_rude_dwarf_identify_trade |  
+| bip_39_word_underscore_11 | piece_write_aspect_soon_allow_unfair_rude_dwarf_identify_trade_gift |  
+| bip_39_word_underscore_12 | piece_write_aspect_soon_allow_unfair_rude_dwarf_identify_trade_gift_agree |  
+| bip_39_word_underscore_2 | piece_write |  
+| bip_39_word_underscore_3 | piece_write_aspect |  
+| bip_39_word_underscore_4 | piece_write_aspect_soon |  
+| bip_39_word_underscore_5 | piece_write_aspect_soon_allow |  
+| bip_39_word_underscore_6 | piece_write_aspect_soon_allow_unfair |  
+| bip_39_word_underscore_7 | piece_write_aspect_soon_allow_unfair_rude |  
+| bip_39_word_underscore_8 | piece_write_aspect_soon_allow_unfair_rude_dwarf |  
+| bip_39_word_underscore_9 | piece_write_aspect_soon_allow_unfair_rude_dwarf_identify |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

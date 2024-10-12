@@ -1,3 +1,15 @@
+bip_39_word_dash_1: surround
+bip_39_word_dash_10: surround-goat-utility-tortoise-tornado-arrive-agree-exchange-shine-crop
+bip_39_word_dash_11: surround-goat-utility-tortoise-tornado-arrive-agree-exchange-shine-crop-quarter
+bip_39_word_dash_12: surround-goat-utility-tortoise-tornado-arrive-agree-exchange-shine-crop-quarter-all
+bip_39_word_dash_2: surround-goat
+bip_39_word_dash_3: surround-goat-utility
+bip_39_word_dash_4: surround-goat-utility-tortoise
+bip_39_word_dash_5: surround-goat-utility-tortoise-tornado
+bip_39_word_dash_6: surround-goat-utility-tortoise-tornado-arrive
+bip_39_word_dash_7: surround-goat-utility-tortoise-tornado-arrive-agree
+bip_39_word_dash_8: surround-goat-utility-tortoise-tornado-arrive-agree-exchange
+bip_39_word_dash_9: surround-goat-utility-tortoise-tornado-arrive-agree-exchange-shine
 bip_39_word_new_br_1: surround
 bip_39_word_new_br_10: surround<br>goat<br>utility<br>tortoise<br>tornado<br>arrive<br>agree<br>exchange<br>shine<br>crop
 bip_39_word_new_br_11: surround<br>goat<br>utility<br>tortoise<br>tornado<br>arrive<br>agree<br>exchange<br>shine<br>crop<br>quarter
@@ -195,6 +207,18 @@ bip_39_word_space_7: surround goat utility tortoise tornado arrive agree
 bip_39_word_space_8: surround goat utility tortoise tornado arrive agree exchange
 bip_39_word_space_9: surround goat utility tortoise tornado arrive agree exchange
   shine
+bip_39_word_underscore_1: surround
+bip_39_word_underscore_10: surround_goat_utility_tortoise_tornado_arrive_agree_exchange_shine_crop
+bip_39_word_underscore_11: surround_goat_utility_tortoise_tornado_arrive_agree_exchange_shine_crop_quarter
+bip_39_word_underscore_12: surround_goat_utility_tortoise_tornado_arrive_agree_exchange_shine_crop_quarter_all
+bip_39_word_underscore_2: surround_goat
+bip_39_word_underscore_3: surround_goat_utility
+bip_39_word_underscore_4: surround_goat_utility_tortoise
+bip_39_word_underscore_5: surround_goat_utility_tortoise_tornado
+bip_39_word_underscore_6: surround_goat_utility_tortoise_tornado_arrive
+bip_39_word_underscore_7: surround_goat_utility_tortoise_tornado_arrive_agree
+bip_39_word_underscore_8: surround_goat_utility_tortoise_tornado_arrive_agree_exchange
+bip_39_word_underscore_9: surround_goat_utility_tortoise_tornado_arrive_agree_exchange_shine
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

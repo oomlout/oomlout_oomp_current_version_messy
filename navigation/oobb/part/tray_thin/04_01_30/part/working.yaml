@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pizza
+bip_39_word_dash_10: pizza-easy-slab-fabric-desert-page-asthma-hospital-equal-supply
+bip_39_word_dash_11: pizza-easy-slab-fabric-desert-page-asthma-hospital-equal-supply-step
+bip_39_word_dash_12: pizza-easy-slab-fabric-desert-page-asthma-hospital-equal-supply-step-announce
+bip_39_word_dash_2: pizza-easy
+bip_39_word_dash_3: pizza-easy-slab
+bip_39_word_dash_4: pizza-easy-slab-fabric
+bip_39_word_dash_5: pizza-easy-slab-fabric-desert
+bip_39_word_dash_6: pizza-easy-slab-fabric-desert-page
+bip_39_word_dash_7: pizza-easy-slab-fabric-desert-page-asthma
+bip_39_word_dash_8: pizza-easy-slab-fabric-desert-page-asthma-hospital
+bip_39_word_dash_9: pizza-easy-slab-fabric-desert-page-asthma-hospital-equal
 bip_39_word_new_br_1: pizza
 bip_39_word_new_br_10: pizza<br>easy<br>slab<br>fabric<br>desert<br>page<br>asthma<br>hospital<br>equal<br>supply
 bip_39_word_new_br_11: pizza<br>easy<br>slab<br>fabric<br>desert<br>page<br>asthma<br>hospital<br>equal<br>supply<br>step
@@ -193,6 +205,18 @@ bip_39_word_space_6: pizza easy slab fabric desert page
 bip_39_word_space_7: pizza easy slab fabric desert page asthma
 bip_39_word_space_8: pizza easy slab fabric desert page asthma hospital
 bip_39_word_space_9: pizza easy slab fabric desert page asthma hospital equal
+bip_39_word_underscore_1: pizza
+bip_39_word_underscore_10: pizza_easy_slab_fabric_desert_page_asthma_hospital_equal_supply
+bip_39_word_underscore_11: pizza_easy_slab_fabric_desert_page_asthma_hospital_equal_supply_step
+bip_39_word_underscore_12: pizza_easy_slab_fabric_desert_page_asthma_hospital_equal_supply_step_announce
+bip_39_word_underscore_2: pizza_easy
+bip_39_word_underscore_3: pizza_easy_slab
+bip_39_word_underscore_4: pizza_easy_slab_fabric
+bip_39_word_underscore_5: pizza_easy_slab_fabric_desert
+bip_39_word_underscore_6: pizza_easy_slab_fabric_desert_page
+bip_39_word_underscore_7: pizza_easy_slab_fabric_desert_page_asthma
+bip_39_word_underscore_8: pizza_easy_slab_fabric_desert_page_asthma_hospital
+bip_39_word_underscore_9: pizza_easy_slab_fabric_desert_page_asthma_hospital_equal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

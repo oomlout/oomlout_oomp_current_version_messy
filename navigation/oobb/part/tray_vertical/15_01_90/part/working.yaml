@@ -1,3 +1,15 @@
+bip_39_word_dash_1: loud
+bip_39_word_dash_10: loud-beauty-tobacco-arm-culture-reform-search-trim-giraffe-forest
+bip_39_word_dash_11: loud-beauty-tobacco-arm-culture-reform-search-trim-giraffe-forest-flee
+bip_39_word_dash_12: loud-beauty-tobacco-arm-culture-reform-search-trim-giraffe-forest-flee-assist
+bip_39_word_dash_2: loud-beauty
+bip_39_word_dash_3: loud-beauty-tobacco
+bip_39_word_dash_4: loud-beauty-tobacco-arm
+bip_39_word_dash_5: loud-beauty-tobacco-arm-culture
+bip_39_word_dash_6: loud-beauty-tobacco-arm-culture-reform
+bip_39_word_dash_7: loud-beauty-tobacco-arm-culture-reform-search
+bip_39_word_dash_8: loud-beauty-tobacco-arm-culture-reform-search-trim
+bip_39_word_dash_9: loud-beauty-tobacco-arm-culture-reform-search-trim-giraffe
 bip_39_word_new_br_1: loud
 bip_39_word_new_br_10: loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim<br>giraffe<br>forest
 bip_39_word_new_br_11: loud<br>beauty<br>tobacco<br>arm<br>culture<br>reform<br>search<br>trim<br>giraffe<br>forest<br>flee
@@ -193,6 +205,18 @@ bip_39_word_space_6: loud beauty tobacco arm culture reform
 bip_39_word_space_7: loud beauty tobacco arm culture reform search
 bip_39_word_space_8: loud beauty tobacco arm culture reform search trim
 bip_39_word_space_9: loud beauty tobacco arm culture reform search trim giraffe
+bip_39_word_underscore_1: loud
+bip_39_word_underscore_10: loud_beauty_tobacco_arm_culture_reform_search_trim_giraffe_forest
+bip_39_word_underscore_11: loud_beauty_tobacco_arm_culture_reform_search_trim_giraffe_forest_flee
+bip_39_word_underscore_12: loud_beauty_tobacco_arm_culture_reform_search_trim_giraffe_forest_flee_assist
+bip_39_word_underscore_2: loud_beauty
+bip_39_word_underscore_3: loud_beauty_tobacco
+bip_39_word_underscore_4: loud_beauty_tobacco_arm
+bip_39_word_underscore_5: loud_beauty_tobacco_arm_culture
+bip_39_word_underscore_6: loud_beauty_tobacco_arm_culture_reform
+bip_39_word_underscore_7: loud_beauty_tobacco_arm_culture_reform_search
+bip_39_word_underscore_8: loud_beauty_tobacco_arm_culture_reform_search_trim
+bip_39_word_underscore_9: loud_beauty_tobacco_arm_culture_reform_search_trim_giraffe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebel |  
+| bip_39_word_dash_10 | rebel-magnet-uncover-quarter-shoe-scale-help-noble-grape-later |  
+| bip_39_word_dash_11 | rebel-magnet-uncover-quarter-shoe-scale-help-noble-grape-later-crime |  
+| bip_39_word_dash_12 | rebel-magnet-uncover-quarter-shoe-scale-help-noble-grape-later-crime-asthma |  
+| bip_39_word_dash_2 | rebel-magnet |  
+| bip_39_word_dash_3 | rebel-magnet-uncover |  
+| bip_39_word_dash_4 | rebel-magnet-uncover-quarter |  
+| bip_39_word_dash_5 | rebel-magnet-uncover-quarter-shoe |  
+| bip_39_word_dash_6 | rebel-magnet-uncover-quarter-shoe-scale |  
+| bip_39_word_dash_7 | rebel-magnet-uncover-quarter-shoe-scale-help |  
+| bip_39_word_dash_8 | rebel-magnet-uncover-quarter-shoe-scale-help-noble |  
+| bip_39_word_dash_9 | rebel-magnet-uncover-quarter-shoe-scale-help-noble-grape |  
 | bip_39_word_new_br_1 | rebel |  
 | bip_39_word_new_br_10 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later |  
 | bip_39_word_new_br_11 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later<br>crime |  
@@ -147,6 +159,18 @@ grape |
 | bip_39_word_space_7 | rebel magnet uncover quarter shoe scale help |  
 | bip_39_word_space_8 | rebel magnet uncover quarter shoe scale help noble |  
 | bip_39_word_space_9 | rebel magnet uncover quarter shoe scale help noble grape |  
+| bip_39_word_underscore_1 | rebel |  
+| bip_39_word_underscore_10 | rebel_magnet_uncover_quarter_shoe_scale_help_noble_grape_later |  
+| bip_39_word_underscore_11 | rebel_magnet_uncover_quarter_shoe_scale_help_noble_grape_later_crime |  
+| bip_39_word_underscore_12 | rebel_magnet_uncover_quarter_shoe_scale_help_noble_grape_later_crime_asthma |  
+| bip_39_word_underscore_2 | rebel_magnet |  
+| bip_39_word_underscore_3 | rebel_magnet_uncover |  
+| bip_39_word_underscore_4 | rebel_magnet_uncover_quarter |  
+| bip_39_word_underscore_5 | rebel_magnet_uncover_quarter_shoe |  
+| bip_39_word_underscore_6 | rebel_magnet_uncover_quarter_shoe_scale |  
+| bip_39_word_underscore_7 | rebel_magnet_uncover_quarter_shoe_scale_help |  
+| bip_39_word_underscore_8 | rebel_magnet_uncover_quarter_shoe_scale_help_noble |  
+| bip_39_word_underscore_9 | rebel_magnet_uncover_quarter_shoe_scale_help_noble_grape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

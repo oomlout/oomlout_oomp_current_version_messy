@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | theme |  
+| bip_39_word_dash_10 | theme-solve-demand-base-category-shallow-excite-convince-arrow-gas |  
+| bip_39_word_dash_11 | theme-solve-demand-base-category-shallow-excite-convince-arrow-gas-bundle |  
+| bip_39_word_dash_12 | theme-solve-demand-base-category-shallow-excite-convince-arrow-gas-bundle-animal |  
+| bip_39_word_dash_2 | theme-solve |  
+| bip_39_word_dash_3 | theme-solve-demand |  
+| bip_39_word_dash_4 | theme-solve-demand-base |  
+| bip_39_word_dash_5 | theme-solve-demand-base-category |  
+| bip_39_word_dash_6 | theme-solve-demand-base-category-shallow |  
+| bip_39_word_dash_7 | theme-solve-demand-base-category-shallow-excite |  
+| bip_39_word_dash_8 | theme-solve-demand-base-category-shallow-excite-convince |  
+| bip_39_word_dash_9 | theme-solve-demand-base-category-shallow-excite-convince-arrow |  
 | bip_39_word_new_br_1 | theme |  
 | bip_39_word_new_br_10 | theme<br>solve<br>demand<br>base<br>category<br>shallow<br>excite<br>convince<br>arrow<br>gas |  
 | bip_39_word_new_br_11 | theme<br>solve<br>demand<br>base<br>category<br>shallow<br>excite<br>convince<br>arrow<br>gas<br>bundle |  
@@ -147,6 +159,18 @@ arrow |
 | bip_39_word_space_7 | theme solve demand base category shallow excite |  
 | bip_39_word_space_8 | theme solve demand base category shallow excite convince |  
 | bip_39_word_space_9 | theme solve demand base category shallow excite convince arrow |  
+| bip_39_word_underscore_1 | theme |  
+| bip_39_word_underscore_10 | theme_solve_demand_base_category_shallow_excite_convince_arrow_gas |  
+| bip_39_word_underscore_11 | theme_solve_demand_base_category_shallow_excite_convince_arrow_gas_bundle |  
+| bip_39_word_underscore_12 | theme_solve_demand_base_category_shallow_excite_convince_arrow_gas_bundle_animal |  
+| bip_39_word_underscore_2 | theme_solve |  
+| bip_39_word_underscore_3 | theme_solve_demand |  
+| bip_39_word_underscore_4 | theme_solve_demand_base |  
+| bip_39_word_underscore_5 | theme_solve_demand_base_category |  
+| bip_39_word_underscore_6 | theme_solve_demand_base_category_shallow |  
+| bip_39_word_underscore_7 | theme_solve_demand_base_category_shallow_excite |  
+| bip_39_word_underscore_8 | theme_solve_demand_base_category_shallow_excite_convince |  
+| bip_39_word_underscore_9 | theme_solve_demand_base_category_shallow_excite_convince_arrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

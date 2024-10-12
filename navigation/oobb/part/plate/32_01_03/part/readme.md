@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spider |  
+| bip_39_word_dash_10 | spider-able-kidney-spin-shuffle-example-engine-grunt-voyage-excuse |  
+| bip_39_word_dash_11 | spider-able-kidney-spin-shuffle-example-engine-grunt-voyage-excuse-muscle |  
+| bip_39_word_dash_12 | spider-able-kidney-spin-shuffle-example-engine-grunt-voyage-excuse-muscle-anchor |  
+| bip_39_word_dash_2 | spider-able |  
+| bip_39_word_dash_3 | spider-able-kidney |  
+| bip_39_word_dash_4 | spider-able-kidney-spin |  
+| bip_39_word_dash_5 | spider-able-kidney-spin-shuffle |  
+| bip_39_word_dash_6 | spider-able-kidney-spin-shuffle-example |  
+| bip_39_word_dash_7 | spider-able-kidney-spin-shuffle-example-engine |  
+| bip_39_word_dash_8 | spider-able-kidney-spin-shuffle-example-engine-grunt |  
+| bip_39_word_dash_9 | spider-able-kidney-spin-shuffle-example-engine-grunt-voyage |  
 | bip_39_word_new_br_1 | spider |  
 | bip_39_word_new_br_10 | spider<br>able<br>kidney<br>spin<br>shuffle<br>example<br>engine<br>grunt<br>voyage<br>excuse |  
 | bip_39_word_new_br_11 | spider<br>able<br>kidney<br>spin<br>shuffle<br>example<br>engine<br>grunt<br>voyage<br>excuse<br>muscle |  
@@ -147,6 +159,18 @@ voyage |
 | bip_39_word_space_7 | spider able kidney spin shuffle example engine |  
 | bip_39_word_space_8 | spider able kidney spin shuffle example engine grunt |  
 | bip_39_word_space_9 | spider able kidney spin shuffle example engine grunt voyage |  
+| bip_39_word_underscore_1 | spider |  
+| bip_39_word_underscore_10 | spider_able_kidney_spin_shuffle_example_engine_grunt_voyage_excuse |  
+| bip_39_word_underscore_11 | spider_able_kidney_spin_shuffle_example_engine_grunt_voyage_excuse_muscle |  
+| bip_39_word_underscore_12 | spider_able_kidney_spin_shuffle_example_engine_grunt_voyage_excuse_muscle_anchor |  
+| bip_39_word_underscore_2 | spider_able |  
+| bip_39_word_underscore_3 | spider_able_kidney |  
+| bip_39_word_underscore_4 | spider_able_kidney_spin |  
+| bip_39_word_underscore_5 | spider_able_kidney_spin_shuffle |  
+| bip_39_word_underscore_6 | spider_able_kidney_spin_shuffle_example |  
+| bip_39_word_underscore_7 | spider_able_kidney_spin_shuffle_example_engine |  
+| bip_39_word_underscore_8 | spider_able_kidney_spin_shuffle_example_engine_grunt |  
+| bip_39_word_underscore_9 | spider_able_kidney_spin_shuffle_example_engine_grunt_voyage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

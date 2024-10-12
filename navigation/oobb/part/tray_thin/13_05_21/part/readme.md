@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | office |  
+| bip_39_word_dash_10 | office-wink-base-task-knife-choice-clock-pluck-volume-infant |  
+| bip_39_word_dash_11 | office-wink-base-task-knife-choice-clock-pluck-volume-infant-artwork |  
+| bip_39_word_dash_12 | office-wink-base-task-knife-choice-clock-pluck-volume-infant-artwork-aim |  
+| bip_39_word_dash_2 | office-wink |  
+| bip_39_word_dash_3 | office-wink-base |  
+| bip_39_word_dash_4 | office-wink-base-task |  
+| bip_39_word_dash_5 | office-wink-base-task-knife |  
+| bip_39_word_dash_6 | office-wink-base-task-knife-choice |  
+| bip_39_word_dash_7 | office-wink-base-task-knife-choice-clock |  
+| bip_39_word_dash_8 | office-wink-base-task-knife-choice-clock-pluck |  
+| bip_39_word_dash_9 | office-wink-base-task-knife-choice-clock-pluck-volume |  
 | bip_39_word_new_br_1 | office |  
 | bip_39_word_new_br_10 | office<br>wink<br>base<br>task<br>knife<br>choice<br>clock<br>pluck<br>volume<br>infant |  
 | bip_39_word_new_br_11 | office<br>wink<br>base<br>task<br>knife<br>choice<br>clock<br>pluck<br>volume<br>infant<br>artwork |  
@@ -147,6 +159,18 @@ volume |
 | bip_39_word_space_7 | office wink base task knife choice clock |  
 | bip_39_word_space_8 | office wink base task knife choice clock pluck |  
 | bip_39_word_space_9 | office wink base task knife choice clock pluck volume |  
+| bip_39_word_underscore_1 | office |  
+| bip_39_word_underscore_10 | office_wink_base_task_knife_choice_clock_pluck_volume_infant |  
+| bip_39_word_underscore_11 | office_wink_base_task_knife_choice_clock_pluck_volume_infant_artwork |  
+| bip_39_word_underscore_12 | office_wink_base_task_knife_choice_clock_pluck_volume_infant_artwork_aim |  
+| bip_39_word_underscore_2 | office_wink |  
+| bip_39_word_underscore_3 | office_wink_base |  
+| bip_39_word_underscore_4 | office_wink_base_task |  
+| bip_39_word_underscore_5 | office_wink_base_task_knife |  
+| bip_39_word_underscore_6 | office_wink_base_task_knife_choice |  
+| bip_39_word_underscore_7 | office_wink_base_task_knife_choice_clock |  
+| bip_39_word_underscore_8 | office_wink_base_task_knife_choice_clock_pluck |  
+| bip_39_word_underscore_9 | office_wink_base_task_knife_choice_clock_pluck_volume |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

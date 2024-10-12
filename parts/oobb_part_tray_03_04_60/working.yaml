@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flee
+bip_39_word_dash_10: flee-card-retreat-issue-jelly-sunny-lottery-craft-effort-knife
+bip_39_word_dash_11: flee-card-retreat-issue-jelly-sunny-lottery-craft-effort-knife-analyst
+bip_39_word_dash_12: flee-card-retreat-issue-jelly-sunny-lottery-craft-effort-knife-analyst-air
+bip_39_word_dash_2: flee-card
+bip_39_word_dash_3: flee-card-retreat
+bip_39_word_dash_4: flee-card-retreat-issue
+bip_39_word_dash_5: flee-card-retreat-issue-jelly
+bip_39_word_dash_6: flee-card-retreat-issue-jelly-sunny
+bip_39_word_dash_7: flee-card-retreat-issue-jelly-sunny-lottery
+bip_39_word_dash_8: flee-card-retreat-issue-jelly-sunny-lottery-craft
+bip_39_word_dash_9: flee-card-retreat-issue-jelly-sunny-lottery-craft-effort
 bip_39_word_new_br_1: flee
 bip_39_word_new_br_10: flee<br>card<br>retreat<br>issue<br>jelly<br>sunny<br>lottery<br>craft<br>effort<br>knife
 bip_39_word_new_br_11: flee<br>card<br>retreat<br>issue<br>jelly<br>sunny<br>lottery<br>craft<br>effort<br>knife<br>analyst
@@ -193,6 +205,18 @@ bip_39_word_space_6: flee card retreat issue jelly sunny
 bip_39_word_space_7: flee card retreat issue jelly sunny lottery
 bip_39_word_space_8: flee card retreat issue jelly sunny lottery craft
 bip_39_word_space_9: flee card retreat issue jelly sunny lottery craft effort
+bip_39_word_underscore_1: flee
+bip_39_word_underscore_10: flee_card_retreat_issue_jelly_sunny_lottery_craft_effort_knife
+bip_39_word_underscore_11: flee_card_retreat_issue_jelly_sunny_lottery_craft_effort_knife_analyst
+bip_39_word_underscore_12: flee_card_retreat_issue_jelly_sunny_lottery_craft_effort_knife_analyst_air
+bip_39_word_underscore_2: flee_card
+bip_39_word_underscore_3: flee_card_retreat
+bip_39_word_underscore_4: flee_card_retreat_issue
+bip_39_word_underscore_5: flee_card_retreat_issue_jelly
+bip_39_word_underscore_6: flee_card_retreat_issue_jelly_sunny
+bip_39_word_underscore_7: flee_card_retreat_issue_jelly_sunny_lottery
+bip_39_word_underscore_8: flee_card_retreat_issue_jelly_sunny_lottery_craft
+bip_39_word_underscore_9: flee_card_retreat_issue_jelly_sunny_lottery_craft_effort
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

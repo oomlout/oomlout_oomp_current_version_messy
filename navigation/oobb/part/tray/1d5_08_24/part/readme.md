@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | such |  
+| bip_39_word_dash_10 | such-stairs-paper-knee-sunny-reflect-hawk-copy-bless-ball |  
+| bip_39_word_dash_11 | such-stairs-paper-knee-sunny-reflect-hawk-copy-bless-ball-element |  
+| bip_39_word_dash_12 | such-stairs-paper-knee-sunny-reflect-hawk-copy-bless-ball-element-alert |  
+| bip_39_word_dash_2 | such-stairs |  
+| bip_39_word_dash_3 | such-stairs-paper |  
+| bip_39_word_dash_4 | such-stairs-paper-knee |  
+| bip_39_word_dash_5 | such-stairs-paper-knee-sunny |  
+| bip_39_word_dash_6 | such-stairs-paper-knee-sunny-reflect |  
+| bip_39_word_dash_7 | such-stairs-paper-knee-sunny-reflect-hawk |  
+| bip_39_word_dash_8 | such-stairs-paper-knee-sunny-reflect-hawk-copy |  
+| bip_39_word_dash_9 | such-stairs-paper-knee-sunny-reflect-hawk-copy-bless |  
 | bip_39_word_new_br_1 | such |  
 | bip_39_word_new_br_10 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy<br>bless<br>ball |  
 | bip_39_word_new_br_11 | such<br>stairs<br>paper<br>knee<br>sunny<br>reflect<br>hawk<br>copy<br>bless<br>ball<br>element |  
@@ -147,6 +159,18 @@ bless |
 | bip_39_word_space_7 | such stairs paper knee sunny reflect hawk |  
 | bip_39_word_space_8 | such stairs paper knee sunny reflect hawk copy |  
 | bip_39_word_space_9 | such stairs paper knee sunny reflect hawk copy bless |  
+| bip_39_word_underscore_1 | such |  
+| bip_39_word_underscore_10 | such_stairs_paper_knee_sunny_reflect_hawk_copy_bless_ball |  
+| bip_39_word_underscore_11 | such_stairs_paper_knee_sunny_reflect_hawk_copy_bless_ball_element |  
+| bip_39_word_underscore_12 | such_stairs_paper_knee_sunny_reflect_hawk_copy_bless_ball_element_alert |  
+| bip_39_word_underscore_2 | such_stairs |  
+| bip_39_word_underscore_3 | such_stairs_paper |  
+| bip_39_word_underscore_4 | such_stairs_paper_knee |  
+| bip_39_word_underscore_5 | such_stairs_paper_knee_sunny |  
+| bip_39_word_underscore_6 | such_stairs_paper_knee_sunny_reflect |  
+| bip_39_word_underscore_7 | such_stairs_paper_knee_sunny_reflect_hawk |  
+| bip_39_word_underscore_8 | such_stairs_paper_knee_sunny_reflect_hawk_copy |  
+| bip_39_word_underscore_9 | such_stairs_paper_knee_sunny_reflect_hawk_copy_bless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | volcano |  
+| bip_39_word_dash_10 | volcano-enjoy-walk-immense-together-whip-cool-tobacco-one-fun |  
+| bip_39_word_dash_11 | volcano-enjoy-walk-immense-together-whip-cool-tobacco-one-fun-minimum |  
+| bip_39_word_dash_12 | volcano-enjoy-walk-immense-together-whip-cool-tobacco-one-fun-minimum-acquire |  
+| bip_39_word_dash_2 | volcano-enjoy |  
+| bip_39_word_dash_3 | volcano-enjoy-walk |  
+| bip_39_word_dash_4 | volcano-enjoy-walk-immense |  
+| bip_39_word_dash_5 | volcano-enjoy-walk-immense-together |  
+| bip_39_word_dash_6 | volcano-enjoy-walk-immense-together-whip |  
+| bip_39_word_dash_7 | volcano-enjoy-walk-immense-together-whip-cool |  
+| bip_39_word_dash_8 | volcano-enjoy-walk-immense-together-whip-cool-tobacco |  
+| bip_39_word_dash_9 | volcano-enjoy-walk-immense-together-whip-cool-tobacco-one |  
 | bip_39_word_new_br_1 | volcano |  
 | bip_39_word_new_br_10 | volcano<br>enjoy<br>walk<br>immense<br>together<br>whip<br>cool<br>tobacco<br>one<br>fun |  
 | bip_39_word_new_br_11 | volcano<br>enjoy<br>walk<br>immense<br>together<br>whip<br>cool<br>tobacco<br>one<br>fun<br>minimum |  
@@ -147,6 +159,18 @@ one |
 | bip_39_word_space_7 | volcano enjoy walk immense together whip cool |  
 | bip_39_word_space_8 | volcano enjoy walk immense together whip cool tobacco |  
 | bip_39_word_space_9 | volcano enjoy walk immense together whip cool tobacco one |  
+| bip_39_word_underscore_1 | volcano |  
+| bip_39_word_underscore_10 | volcano_enjoy_walk_immense_together_whip_cool_tobacco_one_fun |  
+| bip_39_word_underscore_11 | volcano_enjoy_walk_immense_together_whip_cool_tobacco_one_fun_minimum |  
+| bip_39_word_underscore_12 | volcano_enjoy_walk_immense_together_whip_cool_tobacco_one_fun_minimum_acquire |  
+| bip_39_word_underscore_2 | volcano_enjoy |  
+| bip_39_word_underscore_3 | volcano_enjoy_walk |  
+| bip_39_word_underscore_4 | volcano_enjoy_walk_immense |  
+| bip_39_word_underscore_5 | volcano_enjoy_walk_immense_together |  
+| bip_39_word_underscore_6 | volcano_enjoy_walk_immense_together_whip |  
+| bip_39_word_underscore_7 | volcano_enjoy_walk_immense_together_whip_cool |  
+| bip_39_word_underscore_8 | volcano_enjoy_walk_immense_together_whip_cool_tobacco |  
+| bip_39_word_underscore_9 | volcano_enjoy_walk_immense_together_whip_cool_tobacco_one |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

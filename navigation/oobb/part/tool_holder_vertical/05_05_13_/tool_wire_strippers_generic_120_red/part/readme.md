@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lamp |  
+| bip_39_word_dash_10 | lamp-shield-reduce-option-tenant-artefact-mercy-demise-clever-hedgehog |  
+| bip_39_word_dash_11 | lamp-shield-reduce-option-tenant-artefact-mercy-demise-clever-hedgehog-bronze |  
+| bip_39_word_dash_12 | lamp-shield-reduce-option-tenant-artefact-mercy-demise-clever-hedgehog-bronze-adjust |  
+| bip_39_word_dash_2 | lamp-shield |  
+| bip_39_word_dash_3 | lamp-shield-reduce |  
+| bip_39_word_dash_4 | lamp-shield-reduce-option |  
+| bip_39_word_dash_5 | lamp-shield-reduce-option-tenant |  
+| bip_39_word_dash_6 | lamp-shield-reduce-option-tenant-artefact |  
+| bip_39_word_dash_7 | lamp-shield-reduce-option-tenant-artefact-mercy |  
+| bip_39_word_dash_8 | lamp-shield-reduce-option-tenant-artefact-mercy-demise |  
+| bip_39_word_dash_9 | lamp-shield-reduce-option-tenant-artefact-mercy-demise-clever |  
 | bip_39_word_new_br_1 | lamp |  
 | bip_39_word_new_br_10 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog |  
 | bip_39_word_new_br_11 | lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog<br>bronze |  
@@ -147,6 +159,18 @@ clever |
 | bip_39_word_space_7 | lamp shield reduce option tenant artefact mercy |  
 | bip_39_word_space_8 | lamp shield reduce option tenant artefact mercy demise |  
 | bip_39_word_space_9 | lamp shield reduce option tenant artefact mercy demise clever |  
+| bip_39_word_underscore_1 | lamp |  
+| bip_39_word_underscore_10 | lamp_shield_reduce_option_tenant_artefact_mercy_demise_clever_hedgehog |  
+| bip_39_word_underscore_11 | lamp_shield_reduce_option_tenant_artefact_mercy_demise_clever_hedgehog_bronze |  
+| bip_39_word_underscore_12 | lamp_shield_reduce_option_tenant_artefact_mercy_demise_clever_hedgehog_bronze_adjust |  
+| bip_39_word_underscore_2 | lamp_shield |  
+| bip_39_word_underscore_3 | lamp_shield_reduce |  
+| bip_39_word_underscore_4 | lamp_shield_reduce_option |  
+| bip_39_word_underscore_5 | lamp_shield_reduce_option_tenant |  
+| bip_39_word_underscore_6 | lamp_shield_reduce_option_tenant_artefact |  
+| bip_39_word_underscore_7 | lamp_shield_reduce_option_tenant_artefact_mercy |  
+| bip_39_word_underscore_8 | lamp_shield_reduce_option_tenant_artefact_mercy_demise |  
+| bip_39_word_underscore_9 | lamp_shield_reduce_option_tenant_artefact_mercy_demise_clever |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

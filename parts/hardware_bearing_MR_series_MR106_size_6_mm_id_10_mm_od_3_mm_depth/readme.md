@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | promote |  
+| bip_39_word_dash_10 | promote-ten-isolate-trim-mirror-symbol-arch-hold-song-coin |  
+| bip_39_word_dash_11 | promote-ten-isolate-trim-mirror-symbol-arch-hold-song-coin-early |  
+| bip_39_word_dash_12 | promote-ten-isolate-trim-mirror-symbol-arch-hold-song-coin-early-all |  
+| bip_39_word_dash_2 | promote-ten |  
+| bip_39_word_dash_3 | promote-ten-isolate |  
+| bip_39_word_dash_4 | promote-ten-isolate-trim |  
+| bip_39_word_dash_5 | promote-ten-isolate-trim-mirror |  
+| bip_39_word_dash_6 | promote-ten-isolate-trim-mirror-symbol |  
+| bip_39_word_dash_7 | promote-ten-isolate-trim-mirror-symbol-arch |  
+| bip_39_word_dash_8 | promote-ten-isolate-trim-mirror-symbol-arch-hold |  
+| bip_39_word_dash_9 | promote-ten-isolate-trim-mirror-symbol-arch-hold-song |  
 | bip_39_word_new_br_1 | promote |  
 | bip_39_word_new_br_10 | promote<br>ten<br>isolate<br>trim<br>mirror<br>symbol<br>arch<br>hold<br>song<br>coin |  
 | bip_39_word_new_br_11 | promote<br>ten<br>isolate<br>trim<br>mirror<br>symbol<br>arch<br>hold<br>song<br>coin<br>early |  
@@ -147,6 +159,18 @@ song |
 | bip_39_word_space_7 | promote ten isolate trim mirror symbol arch |  
 | bip_39_word_space_8 | promote ten isolate trim mirror symbol arch hold |  
 | bip_39_word_space_9 | promote ten isolate trim mirror symbol arch hold song |  
+| bip_39_word_underscore_1 | promote |  
+| bip_39_word_underscore_10 | promote_ten_isolate_trim_mirror_symbol_arch_hold_song_coin |  
+| bip_39_word_underscore_11 | promote_ten_isolate_trim_mirror_symbol_arch_hold_song_coin_early |  
+| bip_39_word_underscore_12 | promote_ten_isolate_trim_mirror_symbol_arch_hold_song_coin_early_all |  
+| bip_39_word_underscore_2 | promote_ten |  
+| bip_39_word_underscore_3 | promote_ten_isolate |  
+| bip_39_word_underscore_4 | promote_ten_isolate_trim |  
+| bip_39_word_underscore_5 | promote_ten_isolate_trim_mirror |  
+| bip_39_word_underscore_6 | promote_ten_isolate_trim_mirror_symbol |  
+| bip_39_word_underscore_7 | promote_ten_isolate_trim_mirror_symbol_arch |  
+| bip_39_word_underscore_8 | promote_ten_isolate_trim_mirror_symbol_arch_hold |  
+| bip_39_word_underscore_9 | promote_ten_isolate_trim_mirror_symbol_arch_hold_song |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

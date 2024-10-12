@@ -1,3 +1,15 @@
+bip_39_word_dash_1: century
+bip_39_word_dash_10: century-coil-code-mushroom-apple-ritual-endless-carry-bus-pen
+bip_39_word_dash_11: century-coil-code-mushroom-apple-ritual-endless-carry-bus-pen-again
+bip_39_word_dash_12: century-coil-code-mushroom-apple-ritual-endless-carry-bus-pen-again-audit
+bip_39_word_dash_2: century-coil
+bip_39_word_dash_3: century-coil-code
+bip_39_word_dash_4: century-coil-code-mushroom
+bip_39_word_dash_5: century-coil-code-mushroom-apple
+bip_39_word_dash_6: century-coil-code-mushroom-apple-ritual
+bip_39_word_dash_7: century-coil-code-mushroom-apple-ritual-endless
+bip_39_word_dash_8: century-coil-code-mushroom-apple-ritual-endless-carry
+bip_39_word_dash_9: century-coil-code-mushroom-apple-ritual-endless-carry-bus
 bip_39_word_new_br_1: century
 bip_39_word_new_br_10: century<br>coil<br>code<br>mushroom<br>apple<br>ritual<br>endless<br>carry<br>bus<br>pen
 bip_39_word_new_br_11: century<br>coil<br>code<br>mushroom<br>apple<br>ritual<br>endless<br>carry<br>bus<br>pen<br>again
@@ -193,6 +205,18 @@ bip_39_word_space_6: century coil code mushroom apple ritual
 bip_39_word_space_7: century coil code mushroom apple ritual endless
 bip_39_word_space_8: century coil code mushroom apple ritual endless carry
 bip_39_word_space_9: century coil code mushroom apple ritual endless carry bus
+bip_39_word_underscore_1: century
+bip_39_word_underscore_10: century_coil_code_mushroom_apple_ritual_endless_carry_bus_pen
+bip_39_word_underscore_11: century_coil_code_mushroom_apple_ritual_endless_carry_bus_pen_again
+bip_39_word_underscore_12: century_coil_code_mushroom_apple_ritual_endless_carry_bus_pen_again_audit
+bip_39_word_underscore_2: century_coil
+bip_39_word_underscore_3: century_coil_code
+bip_39_word_underscore_4: century_coil_code_mushroom
+bip_39_word_underscore_5: century_coil_code_mushroom_apple
+bip_39_word_underscore_6: century_coil_code_mushroom_apple_ritual
+bip_39_word_underscore_7: century_coil_code_mushroom_apple_ritual_endless
+bip_39_word_underscore_8: century_coil_code_mushroom_apple_ritual_endless_carry
+bip_39_word_underscore_9: century_coil_code_mushroom_apple_ritual_endless_carry_bus
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

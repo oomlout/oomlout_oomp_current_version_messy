@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pipe |  
+| bip_39_word_dash_10 | pipe-kiss-jump-sweet-skate-early-shallow-wagon-service-wide |  
+| bip_39_word_dash_11 | pipe-kiss-jump-sweet-skate-early-shallow-wagon-service-wide-mom |  
+| bip_39_word_dash_12 | pipe-kiss-jump-sweet-skate-early-shallow-wagon-service-wide-mom-antique |  
+| bip_39_word_dash_2 | pipe-kiss |  
+| bip_39_word_dash_3 | pipe-kiss-jump |  
+| bip_39_word_dash_4 | pipe-kiss-jump-sweet |  
+| bip_39_word_dash_5 | pipe-kiss-jump-sweet-skate |  
+| bip_39_word_dash_6 | pipe-kiss-jump-sweet-skate-early |  
+| bip_39_word_dash_7 | pipe-kiss-jump-sweet-skate-early-shallow |  
+| bip_39_word_dash_8 | pipe-kiss-jump-sweet-skate-early-shallow-wagon |  
+| bip_39_word_dash_9 | pipe-kiss-jump-sweet-skate-early-shallow-wagon-service |  
 | bip_39_word_new_br_1 | pipe |  
 | bip_39_word_new_br_10 | pipe<br>kiss<br>jump<br>sweet<br>skate<br>early<br>shallow<br>wagon<br>service<br>wide |  
 | bip_39_word_new_br_11 | pipe<br>kiss<br>jump<br>sweet<br>skate<br>early<br>shallow<br>wagon<br>service<br>wide<br>mom |  
@@ -147,6 +159,18 @@ service |
 | bip_39_word_space_7 | pipe kiss jump sweet skate early shallow |  
 | bip_39_word_space_8 | pipe kiss jump sweet skate early shallow wagon |  
 | bip_39_word_space_9 | pipe kiss jump sweet skate early shallow wagon service |  
+| bip_39_word_underscore_1 | pipe |  
+| bip_39_word_underscore_10 | pipe_kiss_jump_sweet_skate_early_shallow_wagon_service_wide |  
+| bip_39_word_underscore_11 | pipe_kiss_jump_sweet_skate_early_shallow_wagon_service_wide_mom |  
+| bip_39_word_underscore_12 | pipe_kiss_jump_sweet_skate_early_shallow_wagon_service_wide_mom_antique |  
+| bip_39_word_underscore_2 | pipe_kiss |  
+| bip_39_word_underscore_3 | pipe_kiss_jump |  
+| bip_39_word_underscore_4 | pipe_kiss_jump_sweet |  
+| bip_39_word_underscore_5 | pipe_kiss_jump_sweet_skate |  
+| bip_39_word_underscore_6 | pipe_kiss_jump_sweet_skate_early |  
+| bip_39_word_underscore_7 | pipe_kiss_jump_sweet_skate_early_shallow |  
+| bip_39_word_underscore_8 | pipe_kiss_jump_sweet_skate_early_shallow_wagon |  
+| bip_39_word_underscore_9 | pipe_kiss_jump_sweet_skate_early_shallow_wagon_service |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

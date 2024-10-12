@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | use |  
+| bip_39_word_dash_10 | use-tuition-toe-movie-grief-because-assault-build-upon-seed |  
+| bip_39_word_dash_11 | use-tuition-toe-movie-grief-because-assault-build-upon-seed-earth |  
+| bip_39_word_dash_12 | use-tuition-toe-movie-grief-because-assault-build-upon-seed-earth-apple |  
+| bip_39_word_dash_2 | use-tuition |  
+| bip_39_word_dash_3 | use-tuition-toe |  
+| bip_39_word_dash_4 | use-tuition-toe-movie |  
+| bip_39_word_dash_5 | use-tuition-toe-movie-grief |  
+| bip_39_word_dash_6 | use-tuition-toe-movie-grief-because |  
+| bip_39_word_dash_7 | use-tuition-toe-movie-grief-because-assault |  
+| bip_39_word_dash_8 | use-tuition-toe-movie-grief-because-assault-build |  
+| bip_39_word_dash_9 | use-tuition-toe-movie-grief-because-assault-build-upon |  
 | bip_39_word_new_br_1 | use |  
 | bip_39_word_new_br_10 | use<br>tuition<br>toe<br>movie<br>grief<br>because<br>assault<br>build<br>upon<br>seed |  
 | bip_39_word_new_br_11 | use<br>tuition<br>toe<br>movie<br>grief<br>because<br>assault<br>build<br>upon<br>seed<br>earth |  
@@ -147,6 +159,18 @@ upon |
 | bip_39_word_space_7 | use tuition toe movie grief because assault |  
 | bip_39_word_space_8 | use tuition toe movie grief because assault build |  
 | bip_39_word_space_9 | use tuition toe movie grief because assault build upon |  
+| bip_39_word_underscore_1 | use |  
+| bip_39_word_underscore_10 | use_tuition_toe_movie_grief_because_assault_build_upon_seed |  
+| bip_39_word_underscore_11 | use_tuition_toe_movie_grief_because_assault_build_upon_seed_earth |  
+| bip_39_word_underscore_12 | use_tuition_toe_movie_grief_because_assault_build_upon_seed_earth_apple |  
+| bip_39_word_underscore_2 | use_tuition |  
+| bip_39_word_underscore_3 | use_tuition_toe |  
+| bip_39_word_underscore_4 | use_tuition_toe_movie |  
+| bip_39_word_underscore_5 | use_tuition_toe_movie_grief |  
+| bip_39_word_underscore_6 | use_tuition_toe_movie_grief_because |  
+| bip_39_word_underscore_7 | use_tuition_toe_movie_grief_because_assault |  
+| bip_39_word_underscore_8 | use_tuition_toe_movie_grief_because_assault_build |  
+| bip_39_word_underscore_9 | use_tuition_toe_movie_grief_because_assault_build_upon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

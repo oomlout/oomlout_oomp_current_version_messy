@@ -1,3 +1,15 @@
+bip_39_word_dash_1: occur
+bip_39_word_dash_10: occur-tube-engine-trophy-donkey-hungry-height-way-pet-exhibit
+bip_39_word_dash_11: occur-tube-engine-trophy-donkey-hungry-height-way-pet-exhibit-obvious
+bip_39_word_dash_12: occur-tube-engine-trophy-donkey-hungry-height-way-pet-exhibit-obvious-ability
+bip_39_word_dash_2: occur-tube
+bip_39_word_dash_3: occur-tube-engine
+bip_39_word_dash_4: occur-tube-engine-trophy
+bip_39_word_dash_5: occur-tube-engine-trophy-donkey
+bip_39_word_dash_6: occur-tube-engine-trophy-donkey-hungry
+bip_39_word_dash_7: occur-tube-engine-trophy-donkey-hungry-height
+bip_39_word_dash_8: occur-tube-engine-trophy-donkey-hungry-height-way
+bip_39_word_dash_9: occur-tube-engine-trophy-donkey-hungry-height-way-pet
 bip_39_word_new_br_1: occur
 bip_39_word_new_br_10: occur<br>tube<br>engine<br>trophy<br>donkey<br>hungry<br>height<br>way<br>pet<br>exhibit
 bip_39_word_new_br_11: occur<br>tube<br>engine<br>trophy<br>donkey<br>hungry<br>height<br>way<br>pet<br>exhibit<br>obvious
@@ -193,6 +205,18 @@ bip_39_word_space_6: occur tube engine trophy donkey hungry
 bip_39_word_space_7: occur tube engine trophy donkey hungry height
 bip_39_word_space_8: occur tube engine trophy donkey hungry height way
 bip_39_word_space_9: occur tube engine trophy donkey hungry height way pet
+bip_39_word_underscore_1: occur
+bip_39_word_underscore_10: occur_tube_engine_trophy_donkey_hungry_height_way_pet_exhibit
+bip_39_word_underscore_11: occur_tube_engine_trophy_donkey_hungry_height_way_pet_exhibit_obvious
+bip_39_word_underscore_12: occur_tube_engine_trophy_donkey_hungry_height_way_pet_exhibit_obvious_ability
+bip_39_word_underscore_2: occur_tube
+bip_39_word_underscore_3: occur_tube_engine
+bip_39_word_underscore_4: occur_tube_engine_trophy
+bip_39_word_underscore_5: occur_tube_engine_trophy_donkey
+bip_39_word_underscore_6: occur_tube_engine_trophy_donkey_hungry
+bip_39_word_underscore_7: occur_tube_engine_trophy_donkey_hungry_height
+bip_39_word_underscore_8: occur_tube_engine_trophy_donkey_hungry_height_way
+bip_39_word_underscore_9: occur_tube_engine_trophy_donkey_hungry_height_way_pet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

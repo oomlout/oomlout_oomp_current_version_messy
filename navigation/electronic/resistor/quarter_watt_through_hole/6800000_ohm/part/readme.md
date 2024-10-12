@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elevator |  
+| bip_39_word_dash_10 | elevator-cook-drop-syrup-tongue-pond-cry-cruel-mesh-water |  
+| bip_39_word_dash_11 | elevator-cook-drop-syrup-tongue-pond-cry-cruel-mesh-water-imitate |  
+| bip_39_word_dash_12 | elevator-cook-drop-syrup-tongue-pond-cry-cruel-mesh-water-imitate-arena |  
+| bip_39_word_dash_2 | elevator-cook |  
+| bip_39_word_dash_3 | elevator-cook-drop |  
+| bip_39_word_dash_4 | elevator-cook-drop-syrup |  
+| bip_39_word_dash_5 | elevator-cook-drop-syrup-tongue |  
+| bip_39_word_dash_6 | elevator-cook-drop-syrup-tongue-pond |  
+| bip_39_word_dash_7 | elevator-cook-drop-syrup-tongue-pond-cry |  
+| bip_39_word_dash_8 | elevator-cook-drop-syrup-tongue-pond-cry-cruel |  
+| bip_39_word_dash_9 | elevator-cook-drop-syrup-tongue-pond-cry-cruel-mesh |  
 | bip_39_word_new_br_1 | elevator |  
 | bip_39_word_new_br_10 | elevator<br>cook<br>drop<br>syrup<br>tongue<br>pond<br>cry<br>cruel<br>mesh<br>water |  
 | bip_39_word_new_br_11 | elevator<br>cook<br>drop<br>syrup<br>tongue<br>pond<br>cry<br>cruel<br>mesh<br>water<br>imitate |  
@@ -147,6 +159,18 @@ mesh |
 | bip_39_word_space_7 | elevator cook drop syrup tongue pond cry |  
 | bip_39_word_space_8 | elevator cook drop syrup tongue pond cry cruel |  
 | bip_39_word_space_9 | elevator cook drop syrup tongue pond cry cruel mesh |  
+| bip_39_word_underscore_1 | elevator |  
+| bip_39_word_underscore_10 | elevator_cook_drop_syrup_tongue_pond_cry_cruel_mesh_water |  
+| bip_39_word_underscore_11 | elevator_cook_drop_syrup_tongue_pond_cry_cruel_mesh_water_imitate |  
+| bip_39_word_underscore_12 | elevator_cook_drop_syrup_tongue_pond_cry_cruel_mesh_water_imitate_arena |  
+| bip_39_word_underscore_2 | elevator_cook |  
+| bip_39_word_underscore_3 | elevator_cook_drop |  
+| bip_39_word_underscore_4 | elevator_cook_drop_syrup |  
+| bip_39_word_underscore_5 | elevator_cook_drop_syrup_tongue |  
+| bip_39_word_underscore_6 | elevator_cook_drop_syrup_tongue_pond |  
+| bip_39_word_underscore_7 | elevator_cook_drop_syrup_tongue_pond_cry |  
+| bip_39_word_underscore_8 | elevator_cook_drop_syrup_tongue_pond_cry_cruel |  
+| bip_39_word_underscore_9 | elevator_cook_drop_syrup_tongue_pond_cry_cruel_mesh |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

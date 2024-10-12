@@ -1,3 +1,15 @@
+bip_39_word_dash_1: right
+bip_39_word_dash_10: right-expect-bring-vehicle-gesture-buyer-tissue-address-dune-round
+bip_39_word_dash_11: right-expect-bring-vehicle-gesture-buyer-tissue-address-dune-round-furnace
+bip_39_word_dash_12: right-expect-bring-vehicle-gesture-buyer-tissue-address-dune-round-furnace-account
+bip_39_word_dash_2: right-expect
+bip_39_word_dash_3: right-expect-bring
+bip_39_word_dash_4: right-expect-bring-vehicle
+bip_39_word_dash_5: right-expect-bring-vehicle-gesture
+bip_39_word_dash_6: right-expect-bring-vehicle-gesture-buyer
+bip_39_word_dash_7: right-expect-bring-vehicle-gesture-buyer-tissue
+bip_39_word_dash_8: right-expect-bring-vehicle-gesture-buyer-tissue-address
+bip_39_word_dash_9: right-expect-bring-vehicle-gesture-buyer-tissue-address-dune
 bip_39_word_new_br_1: right
 bip_39_word_new_br_10: right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address<br>dune<br>round
 bip_39_word_new_br_11: right<br>expect<br>bring<br>vehicle<br>gesture<br>buyer<br>tissue<br>address<br>dune<br>round<br>furnace
@@ -194,6 +206,18 @@ bip_39_word_space_6: right expect bring vehicle gesture buyer
 bip_39_word_space_7: right expect bring vehicle gesture buyer tissue
 bip_39_word_space_8: right expect bring vehicle gesture buyer tissue address
 bip_39_word_space_9: right expect bring vehicle gesture buyer tissue address dune
+bip_39_word_underscore_1: right
+bip_39_word_underscore_10: right_expect_bring_vehicle_gesture_buyer_tissue_address_dune_round
+bip_39_word_underscore_11: right_expect_bring_vehicle_gesture_buyer_tissue_address_dune_round_furnace
+bip_39_word_underscore_12: right_expect_bring_vehicle_gesture_buyer_tissue_address_dune_round_furnace_account
+bip_39_word_underscore_2: right_expect
+bip_39_word_underscore_3: right_expect_bring
+bip_39_word_underscore_4: right_expect_bring_vehicle
+bip_39_word_underscore_5: right_expect_bring_vehicle_gesture
+bip_39_word_underscore_6: right_expect_bring_vehicle_gesture_buyer
+bip_39_word_underscore_7: right_expect_bring_vehicle_gesture_buyer_tissue
+bip_39_word_underscore_8: right_expect_bring_vehicle_gesture_buyer_tissue_address
+bip_39_word_underscore_9: right_expect_bring_vehicle_gesture_buyer_tissue_address_dune
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

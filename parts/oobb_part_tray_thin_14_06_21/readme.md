@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cage |  
+| bip_39_word_dash_10 | cage-rose-dolphin-domain-okay-business-deposit-camera-sample-venue |  
+| bip_39_word_dash_11 | cage-rose-dolphin-domain-okay-business-deposit-camera-sample-venue-dial |  
+| bip_39_word_dash_12 | cage-rose-dolphin-domain-okay-business-deposit-camera-sample-venue-dial-arrange |  
+| bip_39_word_dash_2 | cage-rose |  
+| bip_39_word_dash_3 | cage-rose-dolphin |  
+| bip_39_word_dash_4 | cage-rose-dolphin-domain |  
+| bip_39_word_dash_5 | cage-rose-dolphin-domain-okay |  
+| bip_39_word_dash_6 | cage-rose-dolphin-domain-okay-business |  
+| bip_39_word_dash_7 | cage-rose-dolphin-domain-okay-business-deposit |  
+| bip_39_word_dash_8 | cage-rose-dolphin-domain-okay-business-deposit-camera |  
+| bip_39_word_dash_9 | cage-rose-dolphin-domain-okay-business-deposit-camera-sample |  
 | bip_39_word_new_br_1 | cage |  
 | bip_39_word_new_br_10 | cage<br>rose<br>dolphin<br>domain<br>okay<br>business<br>deposit<br>camera<br>sample<br>venue |  
 | bip_39_word_new_br_11 | cage<br>rose<br>dolphin<br>domain<br>okay<br>business<br>deposit<br>camera<br>sample<br>venue<br>dial |  
@@ -147,6 +159,18 @@ sample |
 | bip_39_word_space_7 | cage rose dolphin domain okay business deposit |  
 | bip_39_word_space_8 | cage rose dolphin domain okay business deposit camera |  
 | bip_39_word_space_9 | cage rose dolphin domain okay business deposit camera sample |  
+| bip_39_word_underscore_1 | cage |  
+| bip_39_word_underscore_10 | cage_rose_dolphin_domain_okay_business_deposit_camera_sample_venue |  
+| bip_39_word_underscore_11 | cage_rose_dolphin_domain_okay_business_deposit_camera_sample_venue_dial |  
+| bip_39_word_underscore_12 | cage_rose_dolphin_domain_okay_business_deposit_camera_sample_venue_dial_arrange |  
+| bip_39_word_underscore_2 | cage_rose |  
+| bip_39_word_underscore_3 | cage_rose_dolphin |  
+| bip_39_word_underscore_4 | cage_rose_dolphin_domain |  
+| bip_39_word_underscore_5 | cage_rose_dolphin_domain_okay |  
+| bip_39_word_underscore_6 | cage_rose_dolphin_domain_okay_business |  
+| bip_39_word_underscore_7 | cage_rose_dolphin_domain_okay_business_deposit |  
+| bip_39_word_underscore_8 | cage_rose_dolphin_domain_okay_business_deposit_camera |  
+| bip_39_word_underscore_9 | cage_rose_dolphin_domain_okay_business_deposit_camera_sample |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

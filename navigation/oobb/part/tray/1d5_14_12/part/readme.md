@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sister |  
+| bip_39_word_dash_10 | sister-sing-boat-assume-property-stable-tattoo-mesh-motion-whisper |  
+| bip_39_word_dash_11 | sister-sing-boat-assume-property-stable-tattoo-mesh-motion-whisper-under |  
+| bip_39_word_dash_12 | sister-sing-boat-assume-property-stable-tattoo-mesh-motion-whisper-under-attitude |  
+| bip_39_word_dash_2 | sister-sing |  
+| bip_39_word_dash_3 | sister-sing-boat |  
+| bip_39_word_dash_4 | sister-sing-boat-assume |  
+| bip_39_word_dash_5 | sister-sing-boat-assume-property |  
+| bip_39_word_dash_6 | sister-sing-boat-assume-property-stable |  
+| bip_39_word_dash_7 | sister-sing-boat-assume-property-stable-tattoo |  
+| bip_39_word_dash_8 | sister-sing-boat-assume-property-stable-tattoo-mesh |  
+| bip_39_word_dash_9 | sister-sing-boat-assume-property-stable-tattoo-mesh-motion |  
 | bip_39_word_new_br_1 | sister |  
 | bip_39_word_new_br_10 | sister<br>sing<br>boat<br>assume<br>property<br>stable<br>tattoo<br>mesh<br>motion<br>whisper |  
 | bip_39_word_new_br_11 | sister<br>sing<br>boat<br>assume<br>property<br>stable<br>tattoo<br>mesh<br>motion<br>whisper<br>under |  
@@ -147,6 +159,18 @@ motion |
 | bip_39_word_space_7 | sister sing boat assume property stable tattoo |  
 | bip_39_word_space_8 | sister sing boat assume property stable tattoo mesh |  
 | bip_39_word_space_9 | sister sing boat assume property stable tattoo mesh motion |  
+| bip_39_word_underscore_1 | sister |  
+| bip_39_word_underscore_10 | sister_sing_boat_assume_property_stable_tattoo_mesh_motion_whisper |  
+| bip_39_word_underscore_11 | sister_sing_boat_assume_property_stable_tattoo_mesh_motion_whisper_under |  
+| bip_39_word_underscore_12 | sister_sing_boat_assume_property_stable_tattoo_mesh_motion_whisper_under_attitude |  
+| bip_39_word_underscore_2 | sister_sing |  
+| bip_39_word_underscore_3 | sister_sing_boat |  
+| bip_39_word_underscore_4 | sister_sing_boat_assume |  
+| bip_39_word_underscore_5 | sister_sing_boat_assume_property |  
+| bip_39_word_underscore_6 | sister_sing_boat_assume_property_stable |  
+| bip_39_word_underscore_7 | sister_sing_boat_assume_property_stable_tattoo |  
+| bip_39_word_underscore_8 | sister_sing_boat_assume_property_stable_tattoo_mesh |  
+| bip_39_word_underscore_9 | sister_sing_boat_assume_property_stable_tattoo_mesh_motion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | focus |  
+| bip_39_word_dash_10 | focus-employ-short-verify-beef-crime-better-assume-crack-sunset |  
+| bip_39_word_dash_11 | focus-employ-short-verify-beef-crime-better-assume-crack-sunset-forum |  
+| bip_39_word_dash_12 | focus-employ-short-verify-beef-crime-better-assume-crack-sunset-forum-allow |  
+| bip_39_word_dash_2 | focus-employ |  
+| bip_39_word_dash_3 | focus-employ-short |  
+| bip_39_word_dash_4 | focus-employ-short-verify |  
+| bip_39_word_dash_5 | focus-employ-short-verify-beef |  
+| bip_39_word_dash_6 | focus-employ-short-verify-beef-crime |  
+| bip_39_word_dash_7 | focus-employ-short-verify-beef-crime-better |  
+| bip_39_word_dash_8 | focus-employ-short-verify-beef-crime-better-assume |  
+| bip_39_word_dash_9 | focus-employ-short-verify-beef-crime-better-assume-crack |  
 | bip_39_word_new_br_1 | focus |  
 | bip_39_word_new_br_10 | focus<br>employ<br>short<br>verify<br>beef<br>crime<br>better<br>assume<br>crack<br>sunset |  
 | bip_39_word_new_br_11 | focus<br>employ<br>short<br>verify<br>beef<br>crime<br>better<br>assume<br>crack<br>sunset<br>forum |  
@@ -147,6 +159,18 @@ crack |
 | bip_39_word_space_7 | focus employ short verify beef crime better |  
 | bip_39_word_space_8 | focus employ short verify beef crime better assume |  
 | bip_39_word_space_9 | focus employ short verify beef crime better assume crack |  
+| bip_39_word_underscore_1 | focus |  
+| bip_39_word_underscore_10 | focus_employ_short_verify_beef_crime_better_assume_crack_sunset |  
+| bip_39_word_underscore_11 | focus_employ_short_verify_beef_crime_better_assume_crack_sunset_forum |  
+| bip_39_word_underscore_12 | focus_employ_short_verify_beef_crime_better_assume_crack_sunset_forum_allow |  
+| bip_39_word_underscore_2 | focus_employ |  
+| bip_39_word_underscore_3 | focus_employ_short |  
+| bip_39_word_underscore_4 | focus_employ_short_verify |  
+| bip_39_word_underscore_5 | focus_employ_short_verify_beef |  
+| bip_39_word_underscore_6 | focus_employ_short_verify_beef_crime |  
+| bip_39_word_underscore_7 | focus_employ_short_verify_beef_crime_better |  
+| bip_39_word_underscore_8 | focus_employ_short_verify_beef_crime_better_assume |  
+| bip_39_word_underscore_9 | focus_employ_short_verify_beef_crime_better_assume_crack |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

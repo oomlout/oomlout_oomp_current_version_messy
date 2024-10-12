@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | captain |  
+| bip_39_word_dash_10 | captain-family-kitchen-embody-educate-evil-choice-civil-tray-picnic |  
+| bip_39_word_dash_11 | captain-family-kitchen-embody-educate-evil-choice-civil-tray-picnic-left |  
+| bip_39_word_dash_12 | captain-family-kitchen-embody-educate-evil-choice-civil-tray-picnic-left-amused |  
+| bip_39_word_dash_2 | captain-family |  
+| bip_39_word_dash_3 | captain-family-kitchen |  
+| bip_39_word_dash_4 | captain-family-kitchen-embody |  
+| bip_39_word_dash_5 | captain-family-kitchen-embody-educate |  
+| bip_39_word_dash_6 | captain-family-kitchen-embody-educate-evil |  
+| bip_39_word_dash_7 | captain-family-kitchen-embody-educate-evil-choice |  
+| bip_39_word_dash_8 | captain-family-kitchen-embody-educate-evil-choice-civil |  
+| bip_39_word_dash_9 | captain-family-kitchen-embody-educate-evil-choice-civil-tray |  
 | bip_39_word_new_br_1 | captain |  
 | bip_39_word_new_br_10 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic |  
 | bip_39_word_new_br_11 | captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic<br>left |  
@@ -147,6 +159,18 @@ tray |
 | bip_39_word_space_7 | captain family kitchen embody educate evil choice |  
 | bip_39_word_space_8 | captain family kitchen embody educate evil choice civil |  
 | bip_39_word_space_9 | captain family kitchen embody educate evil choice civil tray |  
+| bip_39_word_underscore_1 | captain |  
+| bip_39_word_underscore_10 | captain_family_kitchen_embody_educate_evil_choice_civil_tray_picnic |  
+| bip_39_word_underscore_11 | captain_family_kitchen_embody_educate_evil_choice_civil_tray_picnic_left |  
+| bip_39_word_underscore_12 | captain_family_kitchen_embody_educate_evil_choice_civil_tray_picnic_left_amused |  
+| bip_39_word_underscore_2 | captain_family |  
+| bip_39_word_underscore_3 | captain_family_kitchen |  
+| bip_39_word_underscore_4 | captain_family_kitchen_embody |  
+| bip_39_word_underscore_5 | captain_family_kitchen_embody_educate |  
+| bip_39_word_underscore_6 | captain_family_kitchen_embody_educate_evil |  
+| bip_39_word_underscore_7 | captain_family_kitchen_embody_educate_evil_choice |  
+| bip_39_word_underscore_8 | captain_family_kitchen_embody_educate_evil_choice_civil |  
+| bip_39_word_underscore_9 | captain_family_kitchen_embody_educate_evil_choice_civil_tray |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

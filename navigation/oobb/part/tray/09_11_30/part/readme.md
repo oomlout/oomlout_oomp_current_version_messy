@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | learn |  
+| bip_39_word_dash_10 | learn-weekend-rare-choose-radio-wedding-gas-loyal-city-roast |  
+| bip_39_word_dash_11 | learn-weekend-rare-choose-radio-wedding-gas-loyal-city-roast-energy |  
+| bip_39_word_dash_12 | learn-weekend-rare-choose-radio-wedding-gas-loyal-city-roast-energy-aisle |  
+| bip_39_word_dash_2 | learn-weekend |  
+| bip_39_word_dash_3 | learn-weekend-rare |  
+| bip_39_word_dash_4 | learn-weekend-rare-choose |  
+| bip_39_word_dash_5 | learn-weekend-rare-choose-radio |  
+| bip_39_word_dash_6 | learn-weekend-rare-choose-radio-wedding |  
+| bip_39_word_dash_7 | learn-weekend-rare-choose-radio-wedding-gas |  
+| bip_39_word_dash_8 | learn-weekend-rare-choose-radio-wedding-gas-loyal |  
+| bip_39_word_dash_9 | learn-weekend-rare-choose-radio-wedding-gas-loyal-city |  
 | bip_39_word_new_br_1 | learn |  
 | bip_39_word_new_br_10 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast |  
 | bip_39_word_new_br_11 | learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast<br>energy |  
@@ -147,6 +159,18 @@ city |
 | bip_39_word_space_7 | learn weekend rare choose radio wedding gas |  
 | bip_39_word_space_8 | learn weekend rare choose radio wedding gas loyal |  
 | bip_39_word_space_9 | learn weekend rare choose radio wedding gas loyal city |  
+| bip_39_word_underscore_1 | learn |  
+| bip_39_word_underscore_10 | learn_weekend_rare_choose_radio_wedding_gas_loyal_city_roast |  
+| bip_39_word_underscore_11 | learn_weekend_rare_choose_radio_wedding_gas_loyal_city_roast_energy |  
+| bip_39_word_underscore_12 | learn_weekend_rare_choose_radio_wedding_gas_loyal_city_roast_energy_aisle |  
+| bip_39_word_underscore_2 | learn_weekend |  
+| bip_39_word_underscore_3 | learn_weekend_rare |  
+| bip_39_word_underscore_4 | learn_weekend_rare_choose |  
+| bip_39_word_underscore_5 | learn_weekend_rare_choose_radio |  
+| bip_39_word_underscore_6 | learn_weekend_rare_choose_radio_wedding |  
+| bip_39_word_underscore_7 | learn_weekend_rare_choose_radio_wedding_gas |  
+| bip_39_word_underscore_8 | learn_weekend_rare_choose_radio_wedding_gas_loyal |  
+| bip_39_word_underscore_9 | learn_weekend_rare_choose_radio_wedding_gas_loyal_city |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

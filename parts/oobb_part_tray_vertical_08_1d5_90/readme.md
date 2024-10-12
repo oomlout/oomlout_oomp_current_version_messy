@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | winner |  
+| bip_39_word_dash_10 | winner-peace-merry-axis-stuff-old-canal-cloud-radar-vast |  
+| bip_39_word_dash_11 | winner-peace-merry-axis-stuff-old-canal-cloud-radar-vast-use |  
+| bip_39_word_dash_12 | winner-peace-merry-axis-stuff-old-canal-cloud-radar-vast-use-august |  
+| bip_39_word_dash_2 | winner-peace |  
+| bip_39_word_dash_3 | winner-peace-merry |  
+| bip_39_word_dash_4 | winner-peace-merry-axis |  
+| bip_39_word_dash_5 | winner-peace-merry-axis-stuff |  
+| bip_39_word_dash_6 | winner-peace-merry-axis-stuff-old |  
+| bip_39_word_dash_7 | winner-peace-merry-axis-stuff-old-canal |  
+| bip_39_word_dash_8 | winner-peace-merry-axis-stuff-old-canal-cloud |  
+| bip_39_word_dash_9 | winner-peace-merry-axis-stuff-old-canal-cloud-radar |  
 | bip_39_word_new_br_1 | winner |  
 | bip_39_word_new_br_10 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud<br>radar<br>vast |  
 | bip_39_word_new_br_11 | winner<br>peace<br>merry<br>axis<br>stuff<br>old<br>canal<br>cloud<br>radar<br>vast<br>use |  
@@ -147,6 +159,18 @@ radar |
 | bip_39_word_space_7 | winner peace merry axis stuff old canal |  
 | bip_39_word_space_8 | winner peace merry axis stuff old canal cloud |  
 | bip_39_word_space_9 | winner peace merry axis stuff old canal cloud radar |  
+| bip_39_word_underscore_1 | winner |  
+| bip_39_word_underscore_10 | winner_peace_merry_axis_stuff_old_canal_cloud_radar_vast |  
+| bip_39_word_underscore_11 | winner_peace_merry_axis_stuff_old_canal_cloud_radar_vast_use |  
+| bip_39_word_underscore_12 | winner_peace_merry_axis_stuff_old_canal_cloud_radar_vast_use_august |  
+| bip_39_word_underscore_2 | winner_peace |  
+| bip_39_word_underscore_3 | winner_peace_merry |  
+| bip_39_word_underscore_4 | winner_peace_merry_axis |  
+| bip_39_word_underscore_5 | winner_peace_merry_axis_stuff |  
+| bip_39_word_underscore_6 | winner_peace_merry_axis_stuff_old |  
+| bip_39_word_underscore_7 | winner_peace_merry_axis_stuff_old_canal |  
+| bip_39_word_underscore_8 | winner_peace_merry_axis_stuff_old_canal_cloud |  
+| bip_39_word_underscore_9 | winner_peace_merry_axis_stuff_old_canal_cloud_radar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

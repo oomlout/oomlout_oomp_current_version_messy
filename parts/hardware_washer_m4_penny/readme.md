@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bottom |  
+| bip_39_word_dash_10 | bottom-angle-fuel-aisle-laundry-face-episode-obvious-ring-pen |  
+| bip_39_word_dash_11 | bottom-angle-fuel-aisle-laundry-face-episode-obvious-ring-pen-later |  
+| bip_39_word_dash_12 | bottom-angle-fuel-aisle-laundry-face-episode-obvious-ring-pen-later-annual |  
+| bip_39_word_dash_2 | bottom-angle |  
+| bip_39_word_dash_3 | bottom-angle-fuel |  
+| bip_39_word_dash_4 | bottom-angle-fuel-aisle |  
+| bip_39_word_dash_5 | bottom-angle-fuel-aisle-laundry |  
+| bip_39_word_dash_6 | bottom-angle-fuel-aisle-laundry-face |  
+| bip_39_word_dash_7 | bottom-angle-fuel-aisle-laundry-face-episode |  
+| bip_39_word_dash_8 | bottom-angle-fuel-aisle-laundry-face-episode-obvious |  
+| bip_39_word_dash_9 | bottom-angle-fuel-aisle-laundry-face-episode-obvious-ring |  
 | bip_39_word_new_br_1 | bottom |  
 | bip_39_word_new_br_10 | bottom<br>angle<br>fuel<br>aisle<br>laundry<br>face<br>episode<br>obvious<br>ring<br>pen |  
 | bip_39_word_new_br_11 | bottom<br>angle<br>fuel<br>aisle<br>laundry<br>face<br>episode<br>obvious<br>ring<br>pen<br>later |  
@@ -147,6 +159,18 @@ ring |
 | bip_39_word_space_7 | bottom angle fuel aisle laundry face episode |  
 | bip_39_word_space_8 | bottom angle fuel aisle laundry face episode obvious |  
 | bip_39_word_space_9 | bottom angle fuel aisle laundry face episode obvious ring |  
+| bip_39_word_underscore_1 | bottom |  
+| bip_39_word_underscore_10 | bottom_angle_fuel_aisle_laundry_face_episode_obvious_ring_pen |  
+| bip_39_word_underscore_11 | bottom_angle_fuel_aisle_laundry_face_episode_obvious_ring_pen_later |  
+| bip_39_word_underscore_12 | bottom_angle_fuel_aisle_laundry_face_episode_obvious_ring_pen_later_annual |  
+| bip_39_word_underscore_2 | bottom_angle |  
+| bip_39_word_underscore_3 | bottom_angle_fuel |  
+| bip_39_word_underscore_4 | bottom_angle_fuel_aisle |  
+| bip_39_word_underscore_5 | bottom_angle_fuel_aisle_laundry |  
+| bip_39_word_underscore_6 | bottom_angle_fuel_aisle_laundry_face |  
+| bip_39_word_underscore_7 | bottom_angle_fuel_aisle_laundry_face_episode |  
+| bip_39_word_underscore_8 | bottom_angle_fuel_aisle_laundry_face_episode_obvious |  
+| bip_39_word_underscore_9 | bottom_angle_fuel_aisle_laundry_face_episode_obvious_ring |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

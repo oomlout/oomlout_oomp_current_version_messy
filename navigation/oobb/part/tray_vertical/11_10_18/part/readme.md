@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mutual |  
+| bip_39_word_dash_10 | mutual-giant-flight-enjoy-toss-hand-blanket-just-struggle-side |  
+| bip_39_word_dash_11 | mutual-giant-flight-enjoy-toss-hand-blanket-just-struggle-side-crumble |  
+| bip_39_word_dash_12 | mutual-giant-flight-enjoy-toss-hand-blanket-just-struggle-side-crumble-alpha |  
+| bip_39_word_dash_2 | mutual-giant |  
+| bip_39_word_dash_3 | mutual-giant-flight |  
+| bip_39_word_dash_4 | mutual-giant-flight-enjoy |  
+| bip_39_word_dash_5 | mutual-giant-flight-enjoy-toss |  
+| bip_39_word_dash_6 | mutual-giant-flight-enjoy-toss-hand |  
+| bip_39_word_dash_7 | mutual-giant-flight-enjoy-toss-hand-blanket |  
+| bip_39_word_dash_8 | mutual-giant-flight-enjoy-toss-hand-blanket-just |  
+| bip_39_word_dash_9 | mutual-giant-flight-enjoy-toss-hand-blanket-just-struggle |  
 | bip_39_word_new_br_1 | mutual |  
 | bip_39_word_new_br_10 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side |  
 | bip_39_word_new_br_11 | mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side<br>crumble |  
@@ -147,6 +159,18 @@ struggle |
 | bip_39_word_space_7 | mutual giant flight enjoy toss hand blanket |  
 | bip_39_word_space_8 | mutual giant flight enjoy toss hand blanket just |  
 | bip_39_word_space_9 | mutual giant flight enjoy toss hand blanket just struggle |  
+| bip_39_word_underscore_1 | mutual |  
+| bip_39_word_underscore_10 | mutual_giant_flight_enjoy_toss_hand_blanket_just_struggle_side |  
+| bip_39_word_underscore_11 | mutual_giant_flight_enjoy_toss_hand_blanket_just_struggle_side_crumble |  
+| bip_39_word_underscore_12 | mutual_giant_flight_enjoy_toss_hand_blanket_just_struggle_side_crumble_alpha |  
+| bip_39_word_underscore_2 | mutual_giant |  
+| bip_39_word_underscore_3 | mutual_giant_flight |  
+| bip_39_word_underscore_4 | mutual_giant_flight_enjoy |  
+| bip_39_word_underscore_5 | mutual_giant_flight_enjoy_toss |  
+| bip_39_word_underscore_6 | mutual_giant_flight_enjoy_toss_hand |  
+| bip_39_word_underscore_7 | mutual_giant_flight_enjoy_toss_hand_blanket |  
+| bip_39_word_underscore_8 | mutual_giant_flight_enjoy_toss_hand_blanket_just |  
+| bip_39_word_underscore_9 | mutual_giant_flight_enjoy_toss_hand_blanket_just_struggle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

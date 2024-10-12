@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cruise |  
+| bip_39_word_dash_10 | cruise-ice-glue-code-shield-mind-gold-joke-horn-fabric |  
+| bip_39_word_dash_11 | cruise-ice-glue-code-shield-mind-gold-joke-horn-fabric-round |  
+| bip_39_word_dash_12 | cruise-ice-glue-code-shield-mind-gold-joke-horn-fabric-round-any |  
+| bip_39_word_dash_2 | cruise-ice |  
+| bip_39_word_dash_3 | cruise-ice-glue |  
+| bip_39_word_dash_4 | cruise-ice-glue-code |  
+| bip_39_word_dash_5 | cruise-ice-glue-code-shield |  
+| bip_39_word_dash_6 | cruise-ice-glue-code-shield-mind |  
+| bip_39_word_dash_7 | cruise-ice-glue-code-shield-mind-gold |  
+| bip_39_word_dash_8 | cruise-ice-glue-code-shield-mind-gold-joke |  
+| bip_39_word_dash_9 | cruise-ice-glue-code-shield-mind-gold-joke-horn |  
 | bip_39_word_new_br_1 | cruise |  
 | bip_39_word_new_br_10 | cruise<br>ice<br>glue<br>code<br>shield<br>mind<br>gold<br>joke<br>horn<br>fabric |  
 | bip_39_word_new_br_11 | cruise<br>ice<br>glue<br>code<br>shield<br>mind<br>gold<br>joke<br>horn<br>fabric<br>round |  
@@ -147,6 +159,18 @@ horn |
 | bip_39_word_space_7 | cruise ice glue code shield mind gold |  
 | bip_39_word_space_8 | cruise ice glue code shield mind gold joke |  
 | bip_39_word_space_9 | cruise ice glue code shield mind gold joke horn |  
+| bip_39_word_underscore_1 | cruise |  
+| bip_39_word_underscore_10 | cruise_ice_glue_code_shield_mind_gold_joke_horn_fabric |  
+| bip_39_word_underscore_11 | cruise_ice_glue_code_shield_mind_gold_joke_horn_fabric_round |  
+| bip_39_word_underscore_12 | cruise_ice_glue_code_shield_mind_gold_joke_horn_fabric_round_any |  
+| bip_39_word_underscore_2 | cruise_ice |  
+| bip_39_word_underscore_3 | cruise_ice_glue |  
+| bip_39_word_underscore_4 | cruise_ice_glue_code |  
+| bip_39_word_underscore_5 | cruise_ice_glue_code_shield |  
+| bip_39_word_underscore_6 | cruise_ice_glue_code_shield_mind |  
+| bip_39_word_underscore_7 | cruise_ice_glue_code_shield_mind_gold |  
+| bip_39_word_underscore_8 | cruise_ice_glue_code_shield_mind_gold_joke |  
+| bip_39_word_underscore_9 | cruise_ice_glue_code_shield_mind_gold_joke_horn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

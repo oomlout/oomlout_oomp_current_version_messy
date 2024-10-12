@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jar
+bip_39_word_dash_10: jar-skill-found-hotel-original-cloth-tiny-quit-lyrics-forest
+bip_39_word_dash_11: jar-skill-found-hotel-original-cloth-tiny-quit-lyrics-forest-mind
+bip_39_word_dash_12: jar-skill-found-hotel-original-cloth-tiny-quit-lyrics-forest-mind-about
+bip_39_word_dash_2: jar-skill
+bip_39_word_dash_3: jar-skill-found
+bip_39_word_dash_4: jar-skill-found-hotel
+bip_39_word_dash_5: jar-skill-found-hotel-original
+bip_39_word_dash_6: jar-skill-found-hotel-original-cloth
+bip_39_word_dash_7: jar-skill-found-hotel-original-cloth-tiny
+bip_39_word_dash_8: jar-skill-found-hotel-original-cloth-tiny-quit
+bip_39_word_dash_9: jar-skill-found-hotel-original-cloth-tiny-quit-lyrics
 bip_39_word_new_br_1: jar
 bip_39_word_new_br_10: jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit<br>lyrics<br>forest
 bip_39_word_new_br_11: jar<br>skill<br>found<br>hotel<br>original<br>cloth<br>tiny<br>quit<br>lyrics<br>forest<br>mind
@@ -193,6 +205,18 @@ bip_39_word_space_6: jar skill found hotel original cloth
 bip_39_word_space_7: jar skill found hotel original cloth tiny
 bip_39_word_space_8: jar skill found hotel original cloth tiny quit
 bip_39_word_space_9: jar skill found hotel original cloth tiny quit lyrics
+bip_39_word_underscore_1: jar
+bip_39_word_underscore_10: jar_skill_found_hotel_original_cloth_tiny_quit_lyrics_forest
+bip_39_word_underscore_11: jar_skill_found_hotel_original_cloth_tiny_quit_lyrics_forest_mind
+bip_39_word_underscore_12: jar_skill_found_hotel_original_cloth_tiny_quit_lyrics_forest_mind_about
+bip_39_word_underscore_2: jar_skill
+bip_39_word_underscore_3: jar_skill_found
+bip_39_word_underscore_4: jar_skill_found_hotel
+bip_39_word_underscore_5: jar_skill_found_hotel_original
+bip_39_word_underscore_6: jar_skill_found_hotel_original_cloth
+bip_39_word_underscore_7: jar_skill_found_hotel_original_cloth_tiny
+bip_39_word_underscore_8: jar_skill_found_hotel_original_cloth_tiny_quit
+bip_39_word_underscore_9: jar_skill_found_hotel_original_cloth_tiny_quit_lyrics
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

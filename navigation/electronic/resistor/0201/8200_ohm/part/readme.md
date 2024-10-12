@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | invite |  
+| bip_39_word_dash_10 | invite-room-cool-gospel-praise-system-alarm-bridge-firm-board |  
+| bip_39_word_dash_11 | invite-room-cool-gospel-praise-system-alarm-bridge-firm-board-drastic |  
+| bip_39_word_dash_12 | invite-room-cool-gospel-praise-system-alarm-bridge-firm-board-drastic-apart |  
+| bip_39_word_dash_2 | invite-room |  
+| bip_39_word_dash_3 | invite-room-cool |  
+| bip_39_word_dash_4 | invite-room-cool-gospel |  
+| bip_39_word_dash_5 | invite-room-cool-gospel-praise |  
+| bip_39_word_dash_6 | invite-room-cool-gospel-praise-system |  
+| bip_39_word_dash_7 | invite-room-cool-gospel-praise-system-alarm |  
+| bip_39_word_dash_8 | invite-room-cool-gospel-praise-system-alarm-bridge |  
+| bip_39_word_dash_9 | invite-room-cool-gospel-praise-system-alarm-bridge-firm |  
 | bip_39_word_new_br_1 | invite |  
 | bip_39_word_new_br_10 | invite<br>room<br>cool<br>gospel<br>praise<br>system<br>alarm<br>bridge<br>firm<br>board |  
 | bip_39_word_new_br_11 | invite<br>room<br>cool<br>gospel<br>praise<br>system<br>alarm<br>bridge<br>firm<br>board<br>drastic |  
@@ -147,6 +159,18 @@ firm |
 | bip_39_word_space_7 | invite room cool gospel praise system alarm |  
 | bip_39_word_space_8 | invite room cool gospel praise system alarm bridge |  
 | bip_39_word_space_9 | invite room cool gospel praise system alarm bridge firm |  
+| bip_39_word_underscore_1 | invite |  
+| bip_39_word_underscore_10 | invite_room_cool_gospel_praise_system_alarm_bridge_firm_board |  
+| bip_39_word_underscore_11 | invite_room_cool_gospel_praise_system_alarm_bridge_firm_board_drastic |  
+| bip_39_word_underscore_12 | invite_room_cool_gospel_praise_system_alarm_bridge_firm_board_drastic_apart |  
+| bip_39_word_underscore_2 | invite_room |  
+| bip_39_word_underscore_3 | invite_room_cool |  
+| bip_39_word_underscore_4 | invite_room_cool_gospel |  
+| bip_39_word_underscore_5 | invite_room_cool_gospel_praise |  
+| bip_39_word_underscore_6 | invite_room_cool_gospel_praise_system |  
+| bip_39_word_underscore_7 | invite_room_cool_gospel_praise_system_alarm |  
+| bip_39_word_underscore_8 | invite_room_cool_gospel_praise_system_alarm_bridge |  
+| bip_39_word_underscore_9 | invite_room_cool_gospel_praise_system_alarm_bridge_firm |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

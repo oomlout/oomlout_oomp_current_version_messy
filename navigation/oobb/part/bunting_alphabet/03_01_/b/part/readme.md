@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sadness |  
+| bip_39_word_dash_10 | sadness-include-drama-cheap-immense-suspect-juice-apology-wood-tail |  
+| bip_39_word_dash_11 | sadness-include-drama-cheap-immense-suspect-juice-apology-wood-tail-enable |  
+| bip_39_word_dash_12 | sadness-include-drama-cheap-immense-suspect-juice-apology-wood-tail-enable-average |  
+| bip_39_word_dash_2 | sadness-include |  
+| bip_39_word_dash_3 | sadness-include-drama |  
+| bip_39_word_dash_4 | sadness-include-drama-cheap |  
+| bip_39_word_dash_5 | sadness-include-drama-cheap-immense |  
+| bip_39_word_dash_6 | sadness-include-drama-cheap-immense-suspect |  
+| bip_39_word_dash_7 | sadness-include-drama-cheap-immense-suspect-juice |  
+| bip_39_word_dash_8 | sadness-include-drama-cheap-immense-suspect-juice-apology |  
+| bip_39_word_dash_9 | sadness-include-drama-cheap-immense-suspect-juice-apology-wood |  
 | bip_39_word_new_br_1 | sadness |  
 | bip_39_word_new_br_10 | sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology<br>wood<br>tail |  
 | bip_39_word_new_br_11 | sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology<br>wood<br>tail<br>enable |  
@@ -147,6 +159,18 @@ wood |
 | bip_39_word_space_7 | sadness include drama cheap immense suspect juice |  
 | bip_39_word_space_8 | sadness include drama cheap immense suspect juice apology |  
 | bip_39_word_space_9 | sadness include drama cheap immense suspect juice apology wood |  
+| bip_39_word_underscore_1 | sadness |  
+| bip_39_word_underscore_10 | sadness_include_drama_cheap_immense_suspect_juice_apology_wood_tail |  
+| bip_39_word_underscore_11 | sadness_include_drama_cheap_immense_suspect_juice_apology_wood_tail_enable |  
+| bip_39_word_underscore_12 | sadness_include_drama_cheap_immense_suspect_juice_apology_wood_tail_enable_average |  
+| bip_39_word_underscore_2 | sadness_include |  
+| bip_39_word_underscore_3 | sadness_include_drama |  
+| bip_39_word_underscore_4 | sadness_include_drama_cheap |  
+| bip_39_word_underscore_5 | sadness_include_drama_cheap_immense |  
+| bip_39_word_underscore_6 | sadness_include_drama_cheap_immense_suspect |  
+| bip_39_word_underscore_7 | sadness_include_drama_cheap_immense_suspect_juice |  
+| bip_39_word_underscore_8 | sadness_include_drama_cheap_immense_suspect_juice_apology |  
+| bip_39_word_underscore_9 | sadness_include_drama_cheap_immense_suspect_juice_apology_wood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

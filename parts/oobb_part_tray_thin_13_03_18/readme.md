@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | play |  
+| bip_39_word_dash_10 | play-come-can-turn-enjoy-bachelor-crucial-payment-tray-forget |  
+| bip_39_word_dash_11 | play-come-can-turn-enjoy-bachelor-crucial-payment-tray-forget-believe |  
+| bip_39_word_dash_12 | play-come-can-turn-enjoy-bachelor-crucial-payment-tray-forget-believe-among |  
+| bip_39_word_dash_2 | play-come |  
+| bip_39_word_dash_3 | play-come-can |  
+| bip_39_word_dash_4 | play-come-can-turn |  
+| bip_39_word_dash_5 | play-come-can-turn-enjoy |  
+| bip_39_word_dash_6 | play-come-can-turn-enjoy-bachelor |  
+| bip_39_word_dash_7 | play-come-can-turn-enjoy-bachelor-crucial |  
+| bip_39_word_dash_8 | play-come-can-turn-enjoy-bachelor-crucial-payment |  
+| bip_39_word_dash_9 | play-come-can-turn-enjoy-bachelor-crucial-payment-tray |  
 | bip_39_word_new_br_1 | play |  
 | bip_39_word_new_br_10 | play<br>come<br>can<br>turn<br>enjoy<br>bachelor<br>crucial<br>payment<br>tray<br>forget |  
 | bip_39_word_new_br_11 | play<br>come<br>can<br>turn<br>enjoy<br>bachelor<br>crucial<br>payment<br>tray<br>forget<br>believe |  
@@ -147,6 +159,18 @@ tray |
 | bip_39_word_space_7 | play come can turn enjoy bachelor crucial |  
 | bip_39_word_space_8 | play come can turn enjoy bachelor crucial payment |  
 | bip_39_word_space_9 | play come can turn enjoy bachelor crucial payment tray |  
+| bip_39_word_underscore_1 | play |  
+| bip_39_word_underscore_10 | play_come_can_turn_enjoy_bachelor_crucial_payment_tray_forget |  
+| bip_39_word_underscore_11 | play_come_can_turn_enjoy_bachelor_crucial_payment_tray_forget_believe |  
+| bip_39_word_underscore_12 | play_come_can_turn_enjoy_bachelor_crucial_payment_tray_forget_believe_among |  
+| bip_39_word_underscore_2 | play_come |  
+| bip_39_word_underscore_3 | play_come_can |  
+| bip_39_word_underscore_4 | play_come_can_turn |  
+| bip_39_word_underscore_5 | play_come_can_turn_enjoy |  
+| bip_39_word_underscore_6 | play_come_can_turn_enjoy_bachelor |  
+| bip_39_word_underscore_7 | play_come_can_turn_enjoy_bachelor_crucial |  
+| bip_39_word_underscore_8 | play_come_can_turn_enjoy_bachelor_crucial_payment |  
+| bip_39_word_underscore_9 | play_come_can_turn_enjoy_bachelor_crucial_payment_tray |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

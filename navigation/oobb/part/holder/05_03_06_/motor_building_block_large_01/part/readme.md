@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | similar |  
+| bip_39_word_dash_10 | similar-wink-drift-finger-turtle-film-improve-alcohol-festival-truly |  
+| bip_39_word_dash_11 | similar-wink-drift-finger-turtle-film-improve-alcohol-festival-truly-pluck |  
+| bip_39_word_dash_12 | similar-wink-drift-finger-turtle-film-improve-alcohol-festival-truly-pluck-antenna |  
+| bip_39_word_dash_2 | similar-wink |  
+| bip_39_word_dash_3 | similar-wink-drift |  
+| bip_39_word_dash_4 | similar-wink-drift-finger |  
+| bip_39_word_dash_5 | similar-wink-drift-finger-turtle |  
+| bip_39_word_dash_6 | similar-wink-drift-finger-turtle-film |  
+| bip_39_word_dash_7 | similar-wink-drift-finger-turtle-film-improve |  
+| bip_39_word_dash_8 | similar-wink-drift-finger-turtle-film-improve-alcohol |  
+| bip_39_word_dash_9 | similar-wink-drift-finger-turtle-film-improve-alcohol-festival |  
 | bip_39_word_new_br_1 | similar |  
 | bip_39_word_new_br_10 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol<br>festival<br>truly |  
 | bip_39_word_new_br_11 | similar<br>wink<br>drift<br>finger<br>turtle<br>film<br>improve<br>alcohol<br>festival<br>truly<br>pluck |  
@@ -147,6 +159,18 @@ festival |
 | bip_39_word_space_7 | similar wink drift finger turtle film improve |  
 | bip_39_word_space_8 | similar wink drift finger turtle film improve alcohol |  
 | bip_39_word_space_9 | similar wink drift finger turtle film improve alcohol festival |  
+| bip_39_word_underscore_1 | similar |  
+| bip_39_word_underscore_10 | similar_wink_drift_finger_turtle_film_improve_alcohol_festival_truly |  
+| bip_39_word_underscore_11 | similar_wink_drift_finger_turtle_film_improve_alcohol_festival_truly_pluck |  
+| bip_39_word_underscore_12 | similar_wink_drift_finger_turtle_film_improve_alcohol_festival_truly_pluck_antenna |  
+| bip_39_word_underscore_2 | similar_wink |  
+| bip_39_word_underscore_3 | similar_wink_drift |  
+| bip_39_word_underscore_4 | similar_wink_drift_finger |  
+| bip_39_word_underscore_5 | similar_wink_drift_finger_turtle |  
+| bip_39_word_underscore_6 | similar_wink_drift_finger_turtle_film |  
+| bip_39_word_underscore_7 | similar_wink_drift_finger_turtle_film_improve |  
+| bip_39_word_underscore_8 | similar_wink_drift_finger_turtle_film_improve_alcohol |  
+| bip_39_word_underscore_9 | similar_wink_drift_finger_turtle_film_improve_alcohol_festival |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | twice |  
+| bip_39_word_dash_10 | twice-task-picnic-fine-hidden-able-defy-series-eagle-trap |  
+| bip_39_word_dash_11 | twice-task-picnic-fine-hidden-able-defy-series-eagle-trap-weather |  
+| bip_39_word_dash_12 | twice-task-picnic-fine-hidden-able-defy-series-eagle-trap-weather-acquire |  
+| bip_39_word_dash_2 | twice-task |  
+| bip_39_word_dash_3 | twice-task-picnic |  
+| bip_39_word_dash_4 | twice-task-picnic-fine |  
+| bip_39_word_dash_5 | twice-task-picnic-fine-hidden |  
+| bip_39_word_dash_6 | twice-task-picnic-fine-hidden-able |  
+| bip_39_word_dash_7 | twice-task-picnic-fine-hidden-able-defy |  
+| bip_39_word_dash_8 | twice-task-picnic-fine-hidden-able-defy-series |  
+| bip_39_word_dash_9 | twice-task-picnic-fine-hidden-able-defy-series-eagle |  
 | bip_39_word_new_br_1 | twice |  
 | bip_39_word_new_br_10 | twice<br>task<br>picnic<br>fine<br>hidden<br>able<br>defy<br>series<br>eagle<br>trap |  
 | bip_39_word_new_br_11 | twice<br>task<br>picnic<br>fine<br>hidden<br>able<br>defy<br>series<br>eagle<br>trap<br>weather |  
@@ -147,6 +159,18 @@ eagle |
 | bip_39_word_space_7 | twice task picnic fine hidden able defy |  
 | bip_39_word_space_8 | twice task picnic fine hidden able defy series |  
 | bip_39_word_space_9 | twice task picnic fine hidden able defy series eagle |  
+| bip_39_word_underscore_1 | twice |  
+| bip_39_word_underscore_10 | twice_task_picnic_fine_hidden_able_defy_series_eagle_trap |  
+| bip_39_word_underscore_11 | twice_task_picnic_fine_hidden_able_defy_series_eagle_trap_weather |  
+| bip_39_word_underscore_12 | twice_task_picnic_fine_hidden_able_defy_series_eagle_trap_weather_acquire |  
+| bip_39_word_underscore_2 | twice_task |  
+| bip_39_word_underscore_3 | twice_task_picnic |  
+| bip_39_word_underscore_4 | twice_task_picnic_fine |  
+| bip_39_word_underscore_5 | twice_task_picnic_fine_hidden |  
+| bip_39_word_underscore_6 | twice_task_picnic_fine_hidden_able |  
+| bip_39_word_underscore_7 | twice_task_picnic_fine_hidden_able_defy |  
+| bip_39_word_underscore_8 | twice_task_picnic_fine_hidden_able_defy_series |  
+| bip_39_word_underscore_9 | twice_task_picnic_fine_hidden_able_defy_series_eagle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

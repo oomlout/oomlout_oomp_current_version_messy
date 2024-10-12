@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | piece |  
+| bip_39_word_dash_10 | piece-advice-zoo-honey-forest-science-cube-settle-silver-pear |  
+| bip_39_word_dash_11 | piece-advice-zoo-honey-forest-science-cube-settle-silver-pear-language |  
+| bip_39_word_dash_12 | piece-advice-zoo-honey-forest-science-cube-settle-silver-pear-language-alone |  
+| bip_39_word_dash_2 | piece-advice |  
+| bip_39_word_dash_3 | piece-advice-zoo |  
+| bip_39_word_dash_4 | piece-advice-zoo-honey |  
+| bip_39_word_dash_5 | piece-advice-zoo-honey-forest |  
+| bip_39_word_dash_6 | piece-advice-zoo-honey-forest-science |  
+| bip_39_word_dash_7 | piece-advice-zoo-honey-forest-science-cube |  
+| bip_39_word_dash_8 | piece-advice-zoo-honey-forest-science-cube-settle |  
+| bip_39_word_dash_9 | piece-advice-zoo-honey-forest-science-cube-settle-silver |  
 | bip_39_word_new_br_1 | piece |  
 | bip_39_word_new_br_10 | piece<br>advice<br>zoo<br>honey<br>forest<br>science<br>cube<br>settle<br>silver<br>pear |  
 | bip_39_word_new_br_11 | piece<br>advice<br>zoo<br>honey<br>forest<br>science<br>cube<br>settle<br>silver<br>pear<br>language |  
@@ -147,6 +159,18 @@ silver |
 | bip_39_word_space_7 | piece advice zoo honey forest science cube |  
 | bip_39_word_space_8 | piece advice zoo honey forest science cube settle |  
 | bip_39_word_space_9 | piece advice zoo honey forest science cube settle silver |  
+| bip_39_word_underscore_1 | piece |  
+| bip_39_word_underscore_10 | piece_advice_zoo_honey_forest_science_cube_settle_silver_pear |  
+| bip_39_word_underscore_11 | piece_advice_zoo_honey_forest_science_cube_settle_silver_pear_language |  
+| bip_39_word_underscore_12 | piece_advice_zoo_honey_forest_science_cube_settle_silver_pear_language_alone |  
+| bip_39_word_underscore_2 | piece_advice |  
+| bip_39_word_underscore_3 | piece_advice_zoo |  
+| bip_39_word_underscore_4 | piece_advice_zoo_honey |  
+| bip_39_word_underscore_5 | piece_advice_zoo_honey_forest |  
+| bip_39_word_underscore_6 | piece_advice_zoo_honey_forest_science |  
+| bip_39_word_underscore_7 | piece_advice_zoo_honey_forest_science_cube |  
+| bip_39_word_underscore_8 | piece_advice_zoo_honey_forest_science_cube_settle |  
+| bip_39_word_underscore_9 | piece_advice_zoo_honey_forest_science_cube_settle_silver |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

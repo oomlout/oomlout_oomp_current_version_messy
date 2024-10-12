@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bonus |  
+| bip_39_word_dash_10 | bonus-ripple-napkin-crunch-rose-silent-genuine-issue-doll-erase |  
+| bip_39_word_dash_11 | bonus-ripple-napkin-crunch-rose-silent-genuine-issue-doll-erase-crash |  
+| bip_39_word_dash_12 | bonus-ripple-napkin-crunch-rose-silent-genuine-issue-doll-erase-crash-aunt |  
+| bip_39_word_dash_2 | bonus-ripple |  
+| bip_39_word_dash_3 | bonus-ripple-napkin |  
+| bip_39_word_dash_4 | bonus-ripple-napkin-crunch |  
+| bip_39_word_dash_5 | bonus-ripple-napkin-crunch-rose |  
+| bip_39_word_dash_6 | bonus-ripple-napkin-crunch-rose-silent |  
+| bip_39_word_dash_7 | bonus-ripple-napkin-crunch-rose-silent-genuine |  
+| bip_39_word_dash_8 | bonus-ripple-napkin-crunch-rose-silent-genuine-issue |  
+| bip_39_word_dash_9 | bonus-ripple-napkin-crunch-rose-silent-genuine-issue-doll |  
 | bip_39_word_new_br_1 | bonus |  
 | bip_39_word_new_br_10 | bonus<br>ripple<br>napkin<br>crunch<br>rose<br>silent<br>genuine<br>issue<br>doll<br>erase |  
 | bip_39_word_new_br_11 | bonus<br>ripple<br>napkin<br>crunch<br>rose<br>silent<br>genuine<br>issue<br>doll<br>erase<br>crash |  
@@ -147,6 +159,18 @@ doll |
 | bip_39_word_space_7 | bonus ripple napkin crunch rose silent genuine |  
 | bip_39_word_space_8 | bonus ripple napkin crunch rose silent genuine issue |  
 | bip_39_word_space_9 | bonus ripple napkin crunch rose silent genuine issue doll |  
+| bip_39_word_underscore_1 | bonus |  
+| bip_39_word_underscore_10 | bonus_ripple_napkin_crunch_rose_silent_genuine_issue_doll_erase |  
+| bip_39_word_underscore_11 | bonus_ripple_napkin_crunch_rose_silent_genuine_issue_doll_erase_crash |  
+| bip_39_word_underscore_12 | bonus_ripple_napkin_crunch_rose_silent_genuine_issue_doll_erase_crash_aunt |  
+| bip_39_word_underscore_2 | bonus_ripple |  
+| bip_39_word_underscore_3 | bonus_ripple_napkin |  
+| bip_39_word_underscore_4 | bonus_ripple_napkin_crunch |  
+| bip_39_word_underscore_5 | bonus_ripple_napkin_crunch_rose |  
+| bip_39_word_underscore_6 | bonus_ripple_napkin_crunch_rose_silent |  
+| bip_39_word_underscore_7 | bonus_ripple_napkin_crunch_rose_silent_genuine |  
+| bip_39_word_underscore_8 | bonus_ripple_napkin_crunch_rose_silent_genuine_issue |  
+| bip_39_word_underscore_9 | bonus_ripple_napkin_crunch_rose_silent_genuine_issue_doll |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

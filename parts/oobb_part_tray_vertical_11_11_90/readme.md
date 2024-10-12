@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cook |  
+| bip_39_word_dash_10 | cook-story-benefit-roof-huge-asset-need-gentle-denial-party |  
+| bip_39_word_dash_11 | cook-story-benefit-roof-huge-asset-need-gentle-denial-party-scene |  
+| bip_39_word_dash_12 | cook-story-benefit-roof-huge-asset-need-gentle-denial-party-scene-always |  
+| bip_39_word_dash_2 | cook-story |  
+| bip_39_word_dash_3 | cook-story-benefit |  
+| bip_39_word_dash_4 | cook-story-benefit-roof |  
+| bip_39_word_dash_5 | cook-story-benefit-roof-huge |  
+| bip_39_word_dash_6 | cook-story-benefit-roof-huge-asset |  
+| bip_39_word_dash_7 | cook-story-benefit-roof-huge-asset-need |  
+| bip_39_word_dash_8 | cook-story-benefit-roof-huge-asset-need-gentle |  
+| bip_39_word_dash_9 | cook-story-benefit-roof-huge-asset-need-gentle-denial |  
 | bip_39_word_new_br_1 | cook |  
 | bip_39_word_new_br_10 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle<br>denial<br>party |  
 | bip_39_word_new_br_11 | cook<br>story<br>benefit<br>roof<br>huge<br>asset<br>need<br>gentle<br>denial<br>party<br>scene |  
@@ -147,6 +159,18 @@ denial |
 | bip_39_word_space_7 | cook story benefit roof huge asset need |  
 | bip_39_word_space_8 | cook story benefit roof huge asset need gentle |  
 | bip_39_word_space_9 | cook story benefit roof huge asset need gentle denial |  
+| bip_39_word_underscore_1 | cook |  
+| bip_39_word_underscore_10 | cook_story_benefit_roof_huge_asset_need_gentle_denial_party |  
+| bip_39_word_underscore_11 | cook_story_benefit_roof_huge_asset_need_gentle_denial_party_scene |  
+| bip_39_word_underscore_12 | cook_story_benefit_roof_huge_asset_need_gentle_denial_party_scene_always |  
+| bip_39_word_underscore_2 | cook_story |  
+| bip_39_word_underscore_3 | cook_story_benefit |  
+| bip_39_word_underscore_4 | cook_story_benefit_roof |  
+| bip_39_word_underscore_5 | cook_story_benefit_roof_huge |  
+| bip_39_word_underscore_6 | cook_story_benefit_roof_huge_asset |  
+| bip_39_word_underscore_7 | cook_story_benefit_roof_huge_asset_need |  
+| bip_39_word_underscore_8 | cook_story_benefit_roof_huge_asset_need_gentle |  
+| bip_39_word_underscore_9 | cook_story_benefit_roof_huge_asset_need_gentle_denial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

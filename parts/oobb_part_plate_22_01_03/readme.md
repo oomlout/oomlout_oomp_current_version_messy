@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wolf |  
+| bip_39_word_dash_10 | wolf-tide-welcome-filter-rally-large-expand-rack-churn-inside |  
+| bip_39_word_dash_11 | wolf-tide-welcome-filter-rally-large-expand-rack-churn-inside-chalk |  
+| bip_39_word_dash_12 | wolf-tide-welcome-filter-rally-large-expand-rack-churn-inside-chalk-address |  
+| bip_39_word_dash_2 | wolf-tide |  
+| bip_39_word_dash_3 | wolf-tide-welcome |  
+| bip_39_word_dash_4 | wolf-tide-welcome-filter |  
+| bip_39_word_dash_5 | wolf-tide-welcome-filter-rally |  
+| bip_39_word_dash_6 | wolf-tide-welcome-filter-rally-large |  
+| bip_39_word_dash_7 | wolf-tide-welcome-filter-rally-large-expand |  
+| bip_39_word_dash_8 | wolf-tide-welcome-filter-rally-large-expand-rack |  
+| bip_39_word_dash_9 | wolf-tide-welcome-filter-rally-large-expand-rack-churn |  
 | bip_39_word_new_br_1 | wolf |  
 | bip_39_word_new_br_10 | wolf<br>tide<br>welcome<br>filter<br>rally<br>large<br>expand<br>rack<br>churn<br>inside |  
 | bip_39_word_new_br_11 | wolf<br>tide<br>welcome<br>filter<br>rally<br>large<br>expand<br>rack<br>churn<br>inside<br>chalk |  
@@ -147,6 +159,18 @@ churn |
 | bip_39_word_space_7 | wolf tide welcome filter rally large expand |  
 | bip_39_word_space_8 | wolf tide welcome filter rally large expand rack |  
 | bip_39_word_space_9 | wolf tide welcome filter rally large expand rack churn |  
+| bip_39_word_underscore_1 | wolf |  
+| bip_39_word_underscore_10 | wolf_tide_welcome_filter_rally_large_expand_rack_churn_inside |  
+| bip_39_word_underscore_11 | wolf_tide_welcome_filter_rally_large_expand_rack_churn_inside_chalk |  
+| bip_39_word_underscore_12 | wolf_tide_welcome_filter_rally_large_expand_rack_churn_inside_chalk_address |  
+| bip_39_word_underscore_2 | wolf_tide |  
+| bip_39_word_underscore_3 | wolf_tide_welcome |  
+| bip_39_word_underscore_4 | wolf_tide_welcome_filter |  
+| bip_39_word_underscore_5 | wolf_tide_welcome_filter_rally |  
+| bip_39_word_underscore_6 | wolf_tide_welcome_filter_rally_large |  
+| bip_39_word_underscore_7 | wolf_tide_welcome_filter_rally_large_expand |  
+| bip_39_word_underscore_8 | wolf_tide_welcome_filter_rally_large_expand_rack |  
+| bip_39_word_underscore_9 | wolf_tide_welcome_filter_rally_large_expand_rack_churn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

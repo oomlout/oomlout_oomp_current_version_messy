@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decide |  
+| bip_39_word_dash_10 | decide-you-entry-zoo-share-fever-cigar-chest-desk-olympic |  
+| bip_39_word_dash_11 | decide-you-entry-zoo-share-fever-cigar-chest-desk-olympic-pulp |  
+| bip_39_word_dash_12 | decide-you-entry-zoo-share-fever-cigar-chest-desk-olympic-pulp-actual |  
+| bip_39_word_dash_2 | decide-you |  
+| bip_39_word_dash_3 | decide-you-entry |  
+| bip_39_word_dash_4 | decide-you-entry-zoo |  
+| bip_39_word_dash_5 | decide-you-entry-zoo-share |  
+| bip_39_word_dash_6 | decide-you-entry-zoo-share-fever |  
+| bip_39_word_dash_7 | decide-you-entry-zoo-share-fever-cigar |  
+| bip_39_word_dash_8 | decide-you-entry-zoo-share-fever-cigar-chest |  
+| bip_39_word_dash_9 | decide-you-entry-zoo-share-fever-cigar-chest-desk |  
 | bip_39_word_new_br_1 | decide |  
 | bip_39_word_new_br_10 | decide<br>you<br>entry<br>zoo<br>share<br>fever<br>cigar<br>chest<br>desk<br>olympic |  
 | bip_39_word_new_br_11 | decide<br>you<br>entry<br>zoo<br>share<br>fever<br>cigar<br>chest<br>desk<br>olympic<br>pulp |  
@@ -147,6 +159,18 @@ desk |
 | bip_39_word_space_7 | decide you entry zoo share fever cigar |  
 | bip_39_word_space_8 | decide you entry zoo share fever cigar chest |  
 | bip_39_word_space_9 | decide you entry zoo share fever cigar chest desk |  
+| bip_39_word_underscore_1 | decide |  
+| bip_39_word_underscore_10 | decide_you_entry_zoo_share_fever_cigar_chest_desk_olympic |  
+| bip_39_word_underscore_11 | decide_you_entry_zoo_share_fever_cigar_chest_desk_olympic_pulp |  
+| bip_39_word_underscore_12 | decide_you_entry_zoo_share_fever_cigar_chest_desk_olympic_pulp_actual |  
+| bip_39_word_underscore_2 | decide_you |  
+| bip_39_word_underscore_3 | decide_you_entry |  
+| bip_39_word_underscore_4 | decide_you_entry_zoo |  
+| bip_39_word_underscore_5 | decide_you_entry_zoo_share |  
+| bip_39_word_underscore_6 | decide_you_entry_zoo_share_fever |  
+| bip_39_word_underscore_7 | decide_you_entry_zoo_share_fever_cigar |  
+| bip_39_word_underscore_8 | decide_you_entry_zoo_share_fever_cigar_chest |  
+| bip_39_word_underscore_9 | decide_you_entry_zoo_share_fever_cigar_chest_desk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

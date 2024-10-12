@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plug |  
+| bip_39_word_dash_10 | plug-two-uncle-envelope-cycle-erosion-search-agree-phone-angle |  
+| bip_39_word_dash_11 | plug-two-uncle-envelope-cycle-erosion-search-agree-phone-angle-salad |  
+| bip_39_word_dash_12 | plug-two-uncle-envelope-cycle-erosion-search-agree-phone-angle-salad-album |  
+| bip_39_word_dash_2 | plug-two |  
+| bip_39_word_dash_3 | plug-two-uncle |  
+| bip_39_word_dash_4 | plug-two-uncle-envelope |  
+| bip_39_word_dash_5 | plug-two-uncle-envelope-cycle |  
+| bip_39_word_dash_6 | plug-two-uncle-envelope-cycle-erosion |  
+| bip_39_word_dash_7 | plug-two-uncle-envelope-cycle-erosion-search |  
+| bip_39_word_dash_8 | plug-two-uncle-envelope-cycle-erosion-search-agree |  
+| bip_39_word_dash_9 | plug-two-uncle-envelope-cycle-erosion-search-agree-phone |  
 | bip_39_word_new_br_1 | plug |  
 | bip_39_word_new_br_10 | plug<br>two<br>uncle<br>envelope<br>cycle<br>erosion<br>search<br>agree<br>phone<br>angle |  
 | bip_39_word_new_br_11 | plug<br>two<br>uncle<br>envelope<br>cycle<br>erosion<br>search<br>agree<br>phone<br>angle<br>salad |  
@@ -147,6 +159,18 @@ phone |
 | bip_39_word_space_7 | plug two uncle envelope cycle erosion search |  
 | bip_39_word_space_8 | plug two uncle envelope cycle erosion search agree |  
 | bip_39_word_space_9 | plug two uncle envelope cycle erosion search agree phone |  
+| bip_39_word_underscore_1 | plug |  
+| bip_39_word_underscore_10 | plug_two_uncle_envelope_cycle_erosion_search_agree_phone_angle |  
+| bip_39_word_underscore_11 | plug_two_uncle_envelope_cycle_erosion_search_agree_phone_angle_salad |  
+| bip_39_word_underscore_12 | plug_two_uncle_envelope_cycle_erosion_search_agree_phone_angle_salad_album |  
+| bip_39_word_underscore_2 | plug_two |  
+| bip_39_word_underscore_3 | plug_two_uncle |  
+| bip_39_word_underscore_4 | plug_two_uncle_envelope |  
+| bip_39_word_underscore_5 | plug_two_uncle_envelope_cycle |  
+| bip_39_word_underscore_6 | plug_two_uncle_envelope_cycle_erosion |  
+| bip_39_word_underscore_7 | plug_two_uncle_envelope_cycle_erosion_search |  
+| bip_39_word_underscore_8 | plug_two_uncle_envelope_cycle_erosion_search_agree |  
+| bip_39_word_underscore_9 | plug_two_uncle_envelope_cycle_erosion_search_agree_phone |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

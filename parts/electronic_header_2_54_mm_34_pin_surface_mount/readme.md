@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fiber |  
+| bip_39_word_dash_10 | fiber-glory-crowd-swear-detail-dilemma-breeze-rural-tobacco-sniff |  
+| bip_39_word_dash_11 | fiber-glory-crowd-swear-detail-dilemma-breeze-rural-tobacco-sniff-blind |  
+| bip_39_word_dash_12 | fiber-glory-crowd-swear-detail-dilemma-breeze-rural-tobacco-sniff-blind-all |  
+| bip_39_word_dash_2 | fiber-glory |  
+| bip_39_word_dash_3 | fiber-glory-crowd |  
+| bip_39_word_dash_4 | fiber-glory-crowd-swear |  
+| bip_39_word_dash_5 | fiber-glory-crowd-swear-detail |  
+| bip_39_word_dash_6 | fiber-glory-crowd-swear-detail-dilemma |  
+| bip_39_word_dash_7 | fiber-glory-crowd-swear-detail-dilemma-breeze |  
+| bip_39_word_dash_8 | fiber-glory-crowd-swear-detail-dilemma-breeze-rural |  
+| bip_39_word_dash_9 | fiber-glory-crowd-swear-detail-dilemma-breeze-rural-tobacco |  
 | bip_39_word_new_br_1 | fiber |  
 | bip_39_word_new_br_10 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural<br>tobacco<br>sniff |  
 | bip_39_word_new_br_11 | fiber<br>glory<br>crowd<br>swear<br>detail<br>dilemma<br>breeze<br>rural<br>tobacco<br>sniff<br>blind |  
@@ -147,6 +159,18 @@ tobacco |
 | bip_39_word_space_7 | fiber glory crowd swear detail dilemma breeze |  
 | bip_39_word_space_8 | fiber glory crowd swear detail dilemma breeze rural |  
 | bip_39_word_space_9 | fiber glory crowd swear detail dilemma breeze rural tobacco |  
+| bip_39_word_underscore_1 | fiber |  
+| bip_39_word_underscore_10 | fiber_glory_crowd_swear_detail_dilemma_breeze_rural_tobacco_sniff |  
+| bip_39_word_underscore_11 | fiber_glory_crowd_swear_detail_dilemma_breeze_rural_tobacco_sniff_blind |  
+| bip_39_word_underscore_12 | fiber_glory_crowd_swear_detail_dilemma_breeze_rural_tobacco_sniff_blind_all |  
+| bip_39_word_underscore_2 | fiber_glory |  
+| bip_39_word_underscore_3 | fiber_glory_crowd |  
+| bip_39_word_underscore_4 | fiber_glory_crowd_swear |  
+| bip_39_word_underscore_5 | fiber_glory_crowd_swear_detail |  
+| bip_39_word_underscore_6 | fiber_glory_crowd_swear_detail_dilemma |  
+| bip_39_word_underscore_7 | fiber_glory_crowd_swear_detail_dilemma_breeze |  
+| bip_39_word_underscore_8 | fiber_glory_crowd_swear_detail_dilemma_breeze_rural |  
+| bip_39_word_underscore_9 | fiber_glory_crowd_swear_detail_dilemma_breeze_rural_tobacco |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

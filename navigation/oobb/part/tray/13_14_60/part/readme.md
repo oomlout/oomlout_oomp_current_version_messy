@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | element |  
+| bip_39_word_dash_10 | element-now-jump-brass-tattoo-message-box-truth-area-unfold |  
+| bip_39_word_dash_11 | element-now-jump-brass-tattoo-message-box-truth-area-unfold-stable |  
+| bip_39_word_dash_12 | element-now-jump-brass-tattoo-message-box-truth-area-unfold-stable-accident |  
+| bip_39_word_dash_2 | element-now |  
+| bip_39_word_dash_3 | element-now-jump |  
+| bip_39_word_dash_4 | element-now-jump-brass |  
+| bip_39_word_dash_5 | element-now-jump-brass-tattoo |  
+| bip_39_word_dash_6 | element-now-jump-brass-tattoo-message |  
+| bip_39_word_dash_7 | element-now-jump-brass-tattoo-message-box |  
+| bip_39_word_dash_8 | element-now-jump-brass-tattoo-message-box-truth |  
+| bip_39_word_dash_9 | element-now-jump-brass-tattoo-message-box-truth-area |  
 | bip_39_word_new_br_1 | element |  
 | bip_39_word_new_br_10 | element<br>now<br>jump<br>brass<br>tattoo<br>message<br>box<br>truth<br>area<br>unfold |  
 | bip_39_word_new_br_11 | element<br>now<br>jump<br>brass<br>tattoo<br>message<br>box<br>truth<br>area<br>unfold<br>stable |  
@@ -147,6 +159,18 @@ area |
 | bip_39_word_space_7 | element now jump brass tattoo message box |  
 | bip_39_word_space_8 | element now jump brass tattoo message box truth |  
 | bip_39_word_space_9 | element now jump brass tattoo message box truth area |  
+| bip_39_word_underscore_1 | element |  
+| bip_39_word_underscore_10 | element_now_jump_brass_tattoo_message_box_truth_area_unfold |  
+| bip_39_word_underscore_11 | element_now_jump_brass_tattoo_message_box_truth_area_unfold_stable |  
+| bip_39_word_underscore_12 | element_now_jump_brass_tattoo_message_box_truth_area_unfold_stable_accident |  
+| bip_39_word_underscore_2 | element_now |  
+| bip_39_word_underscore_3 | element_now_jump |  
+| bip_39_word_underscore_4 | element_now_jump_brass |  
+| bip_39_word_underscore_5 | element_now_jump_brass_tattoo |  
+| bip_39_word_underscore_6 | element_now_jump_brass_tattoo_message |  
+| bip_39_word_underscore_7 | element_now_jump_brass_tattoo_message_box |  
+| bip_39_word_underscore_8 | element_now_jump_brass_tattoo_message_box_truth |  
+| bip_39_word_underscore_9 | element_now_jump_brass_tattoo_message_box_truth_area |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

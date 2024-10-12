@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tomorrow |  
+| bip_39_word_dash_10 | tomorrow-riot-kind-guilt-genre-battle-learn-tail-present-logic |  
+| bip_39_word_dash_11 | tomorrow-riot-kind-guilt-genre-battle-learn-tail-present-logic-rebel |  
+| bip_39_word_dash_12 | tomorrow-riot-kind-guilt-genre-battle-learn-tail-present-logic-rebel-already |  
+| bip_39_word_dash_2 | tomorrow-riot |  
+| bip_39_word_dash_3 | tomorrow-riot-kind |  
+| bip_39_word_dash_4 | tomorrow-riot-kind-guilt |  
+| bip_39_word_dash_5 | tomorrow-riot-kind-guilt-genre |  
+| bip_39_word_dash_6 | tomorrow-riot-kind-guilt-genre-battle |  
+| bip_39_word_dash_7 | tomorrow-riot-kind-guilt-genre-battle-learn |  
+| bip_39_word_dash_8 | tomorrow-riot-kind-guilt-genre-battle-learn-tail |  
+| bip_39_word_dash_9 | tomorrow-riot-kind-guilt-genre-battle-learn-tail-present |  
 | bip_39_word_new_br_1 | tomorrow |  
 | bip_39_word_new_br_10 | tomorrow<br>riot<br>kind<br>guilt<br>genre<br>battle<br>learn<br>tail<br>present<br>logic |  
 | bip_39_word_new_br_11 | tomorrow<br>riot<br>kind<br>guilt<br>genre<br>battle<br>learn<br>tail<br>present<br>logic<br>rebel |  
@@ -147,6 +159,18 @@ present |
 | bip_39_word_space_7 | tomorrow riot kind guilt genre battle learn |  
 | bip_39_word_space_8 | tomorrow riot kind guilt genre battle learn tail |  
 | bip_39_word_space_9 | tomorrow riot kind guilt genre battle learn tail present |  
+| bip_39_word_underscore_1 | tomorrow |  
+| bip_39_word_underscore_10 | tomorrow_riot_kind_guilt_genre_battle_learn_tail_present_logic |  
+| bip_39_word_underscore_11 | tomorrow_riot_kind_guilt_genre_battle_learn_tail_present_logic_rebel |  
+| bip_39_word_underscore_12 | tomorrow_riot_kind_guilt_genre_battle_learn_tail_present_logic_rebel_already |  
+| bip_39_word_underscore_2 | tomorrow_riot |  
+| bip_39_word_underscore_3 | tomorrow_riot_kind |  
+| bip_39_word_underscore_4 | tomorrow_riot_kind_guilt |  
+| bip_39_word_underscore_5 | tomorrow_riot_kind_guilt_genre |  
+| bip_39_word_underscore_6 | tomorrow_riot_kind_guilt_genre_battle |  
+| bip_39_word_underscore_7 | tomorrow_riot_kind_guilt_genre_battle_learn |  
+| bip_39_word_underscore_8 | tomorrow_riot_kind_guilt_genre_battle_learn_tail |  
+| bip_39_word_underscore_9 | tomorrow_riot_kind_guilt_genre_battle_learn_tail_present |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

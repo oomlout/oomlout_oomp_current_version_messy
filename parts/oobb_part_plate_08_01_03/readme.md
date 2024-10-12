@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | curious |  
+| bip_39_word_dash_10 | curious-pill-industry-trophy-pizza-elevator-fabric-cushion-wheel-nerve |  
+| bip_39_word_dash_11 | curious-pill-industry-trophy-pizza-elevator-fabric-cushion-wheel-nerve-lamp |  
+| bip_39_word_dash_12 | curious-pill-industry-trophy-pizza-elevator-fabric-cushion-wheel-nerve-lamp-accident |  
+| bip_39_word_dash_2 | curious-pill |  
+| bip_39_word_dash_3 | curious-pill-industry |  
+| bip_39_word_dash_4 | curious-pill-industry-trophy |  
+| bip_39_word_dash_5 | curious-pill-industry-trophy-pizza |  
+| bip_39_word_dash_6 | curious-pill-industry-trophy-pizza-elevator |  
+| bip_39_word_dash_7 | curious-pill-industry-trophy-pizza-elevator-fabric |  
+| bip_39_word_dash_8 | curious-pill-industry-trophy-pizza-elevator-fabric-cushion |  
+| bip_39_word_dash_9 | curious-pill-industry-trophy-pizza-elevator-fabric-cushion-wheel |  
 | bip_39_word_new_br_1 | curious |  
 | bip_39_word_new_br_10 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve |  
 | bip_39_word_new_br_11 | curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve<br>lamp |  
@@ -147,6 +159,18 @@ wheel |
 | bip_39_word_space_7 | curious pill industry trophy pizza elevator fabric |  
 | bip_39_word_space_8 | curious pill industry trophy pizza elevator fabric cushion |  
 | bip_39_word_space_9 | curious pill industry trophy pizza elevator fabric cushion wheel |  
+| bip_39_word_underscore_1 | curious |  
+| bip_39_word_underscore_10 | curious_pill_industry_trophy_pizza_elevator_fabric_cushion_wheel_nerve |  
+| bip_39_word_underscore_11 | curious_pill_industry_trophy_pizza_elevator_fabric_cushion_wheel_nerve_lamp |  
+| bip_39_word_underscore_12 | curious_pill_industry_trophy_pizza_elevator_fabric_cushion_wheel_nerve_lamp_accident |  
+| bip_39_word_underscore_2 | curious_pill |  
+| bip_39_word_underscore_3 | curious_pill_industry |  
+| bip_39_word_underscore_4 | curious_pill_industry_trophy |  
+| bip_39_word_underscore_5 | curious_pill_industry_trophy_pizza |  
+| bip_39_word_underscore_6 | curious_pill_industry_trophy_pizza_elevator |  
+| bip_39_word_underscore_7 | curious_pill_industry_trophy_pizza_elevator_fabric |  
+| bip_39_word_underscore_8 | curious_pill_industry_trophy_pizza_elevator_fabric_cushion |  
+| bip_39_word_underscore_9 | curious_pill_industry_trophy_pizza_elevator_fabric_cushion_wheel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

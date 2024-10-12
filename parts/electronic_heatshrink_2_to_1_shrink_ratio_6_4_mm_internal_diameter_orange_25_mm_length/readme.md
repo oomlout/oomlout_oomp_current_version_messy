@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | planet |  
+| bip_39_word_dash_10 | planet-beach-debris-afford-average-length-because-april-vendor-credit |  
+| bip_39_word_dash_11 | planet-beach-debris-afford-average-length-because-april-vendor-credit-garlic |  
+| bip_39_word_dash_12 | planet-beach-debris-afford-average-length-because-april-vendor-credit-garlic-arm |  
+| bip_39_word_dash_2 | planet-beach |  
+| bip_39_word_dash_3 | planet-beach-debris |  
+| bip_39_word_dash_4 | planet-beach-debris-afford |  
+| bip_39_word_dash_5 | planet-beach-debris-afford-average |  
+| bip_39_word_dash_6 | planet-beach-debris-afford-average-length |  
+| bip_39_word_dash_7 | planet-beach-debris-afford-average-length-because |  
+| bip_39_word_dash_8 | planet-beach-debris-afford-average-length-because-april |  
+| bip_39_word_dash_9 | planet-beach-debris-afford-average-length-because-april-vendor |  
 | bip_39_word_new_br_1 | planet |  
 | bip_39_word_new_br_10 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april<br>vendor<br>credit |  
 | bip_39_word_new_br_11 | planet<br>beach<br>debris<br>afford<br>average<br>length<br>because<br>april<br>vendor<br>credit<br>garlic |  
@@ -147,6 +159,18 @@ vendor |
 | bip_39_word_space_7 | planet beach debris afford average length because |  
 | bip_39_word_space_8 | planet beach debris afford average length because april |  
 | bip_39_word_space_9 | planet beach debris afford average length because april vendor |  
+| bip_39_word_underscore_1 | planet |  
+| bip_39_word_underscore_10 | planet_beach_debris_afford_average_length_because_april_vendor_credit |  
+| bip_39_word_underscore_11 | planet_beach_debris_afford_average_length_because_april_vendor_credit_garlic |  
+| bip_39_word_underscore_12 | planet_beach_debris_afford_average_length_because_april_vendor_credit_garlic_arm |  
+| bip_39_word_underscore_2 | planet_beach |  
+| bip_39_word_underscore_3 | planet_beach_debris |  
+| bip_39_word_underscore_4 | planet_beach_debris_afford |  
+| bip_39_word_underscore_5 | planet_beach_debris_afford_average |  
+| bip_39_word_underscore_6 | planet_beach_debris_afford_average_length |  
+| bip_39_word_underscore_7 | planet_beach_debris_afford_average_length_because |  
+| bip_39_word_underscore_8 | planet_beach_debris_afford_average_length_because_april |  
+| bip_39_word_underscore_9 | planet_beach_debris_afford_average_length_because_april_vendor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

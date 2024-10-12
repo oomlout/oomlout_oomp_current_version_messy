@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clever |  
+| bip_39_word_dash_10 | clever-love-develop-bargain-april-arrow-acoustic-limit-keen-extra |  
+| bip_39_word_dash_11 | clever-love-develop-bargain-april-arrow-acoustic-limit-keen-extra-gaze |  
+| bip_39_word_dash_12 | clever-love-develop-bargain-april-arrow-acoustic-limit-keen-extra-gaze-afford |  
+| bip_39_word_dash_2 | clever-love |  
+| bip_39_word_dash_3 | clever-love-develop |  
+| bip_39_word_dash_4 | clever-love-develop-bargain |  
+| bip_39_word_dash_5 | clever-love-develop-bargain-april |  
+| bip_39_word_dash_6 | clever-love-develop-bargain-april-arrow |  
+| bip_39_word_dash_7 | clever-love-develop-bargain-april-arrow-acoustic |  
+| bip_39_word_dash_8 | clever-love-develop-bargain-april-arrow-acoustic-limit |  
+| bip_39_word_dash_9 | clever-love-develop-bargain-april-arrow-acoustic-limit-keen |  
 | bip_39_word_new_br_1 | clever |  
 | bip_39_word_new_br_10 | clever<br>love<br>develop<br>bargain<br>april<br>arrow<br>acoustic<br>limit<br>keen<br>extra |  
 | bip_39_word_new_br_11 | clever<br>love<br>develop<br>bargain<br>april<br>arrow<br>acoustic<br>limit<br>keen<br>extra<br>gaze |  
@@ -147,6 +159,18 @@ keen |
 | bip_39_word_space_7 | clever love develop bargain april arrow acoustic |  
 | bip_39_word_space_8 | clever love develop bargain april arrow acoustic limit |  
 | bip_39_word_space_9 | clever love develop bargain april arrow acoustic limit keen |  
+| bip_39_word_underscore_1 | clever |  
+| bip_39_word_underscore_10 | clever_love_develop_bargain_april_arrow_acoustic_limit_keen_extra |  
+| bip_39_word_underscore_11 | clever_love_develop_bargain_april_arrow_acoustic_limit_keen_extra_gaze |  
+| bip_39_word_underscore_12 | clever_love_develop_bargain_april_arrow_acoustic_limit_keen_extra_gaze_afford |  
+| bip_39_word_underscore_2 | clever_love |  
+| bip_39_word_underscore_3 | clever_love_develop |  
+| bip_39_word_underscore_4 | clever_love_develop_bargain |  
+| bip_39_word_underscore_5 | clever_love_develop_bargain_april |  
+| bip_39_word_underscore_6 | clever_love_develop_bargain_april_arrow |  
+| bip_39_word_underscore_7 | clever_love_develop_bargain_april_arrow_acoustic |  
+| bip_39_word_underscore_8 | clever_love_develop_bargain_april_arrow_acoustic_limit |  
+| bip_39_word_underscore_9 | clever_love_develop_bargain_april_arrow_acoustic_limit_keen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coconut |  
+| bip_39_word_dash_10 | coconut-front-primary-object-penalty-tuna-upon-property-decline-detail |  
+| bip_39_word_dash_11 | coconut-front-primary-object-penalty-tuna-upon-property-decline-detail-slow |  
+| bip_39_word_dash_12 | coconut-front-primary-object-penalty-tuna-upon-property-decline-detail-slow-ahead |  
+| bip_39_word_dash_2 | coconut-front |  
+| bip_39_word_dash_3 | coconut-front-primary |  
+| bip_39_word_dash_4 | coconut-front-primary-object |  
+| bip_39_word_dash_5 | coconut-front-primary-object-penalty |  
+| bip_39_word_dash_6 | coconut-front-primary-object-penalty-tuna |  
+| bip_39_word_dash_7 | coconut-front-primary-object-penalty-tuna-upon |  
+| bip_39_word_dash_8 | coconut-front-primary-object-penalty-tuna-upon-property |  
+| bip_39_word_dash_9 | coconut-front-primary-object-penalty-tuna-upon-property-decline |  
 | bip_39_word_new_br_1 | coconut |  
 | bip_39_word_new_br_10 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property<br>decline<br>detail |  
 | bip_39_word_new_br_11 | coconut<br>front<br>primary<br>object<br>penalty<br>tuna<br>upon<br>property<br>decline<br>detail<br>slow |  
@@ -147,6 +159,18 @@ decline |
 | bip_39_word_space_7 | coconut front primary object penalty tuna upon |  
 | bip_39_word_space_8 | coconut front primary object penalty tuna upon property |  
 | bip_39_word_space_9 | coconut front primary object penalty tuna upon property decline |  
+| bip_39_word_underscore_1 | coconut |  
+| bip_39_word_underscore_10 | coconut_front_primary_object_penalty_tuna_upon_property_decline_detail |  
+| bip_39_word_underscore_11 | coconut_front_primary_object_penalty_tuna_upon_property_decline_detail_slow |  
+| bip_39_word_underscore_12 | coconut_front_primary_object_penalty_tuna_upon_property_decline_detail_slow_ahead |  
+| bip_39_word_underscore_2 | coconut_front |  
+| bip_39_word_underscore_3 | coconut_front_primary |  
+| bip_39_word_underscore_4 | coconut_front_primary_object |  
+| bip_39_word_underscore_5 | coconut_front_primary_object_penalty |  
+| bip_39_word_underscore_6 | coconut_front_primary_object_penalty_tuna |  
+| bip_39_word_underscore_7 | coconut_front_primary_object_penalty_tuna_upon |  
+| bip_39_word_underscore_8 | coconut_front_primary_object_penalty_tuna_upon_property |  
+| bip_39_word_underscore_9 | coconut_front_primary_object_penalty_tuna_upon_property_decline |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

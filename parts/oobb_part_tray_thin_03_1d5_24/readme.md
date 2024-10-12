@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exact |  
+| bip_39_word_dash_10 | exact-price-concert-burst-blush-light-okay-mammal-issue-ride |  
+| bip_39_word_dash_11 | exact-price-concert-burst-blush-light-okay-mammal-issue-ride-jewel |  
+| bip_39_word_dash_12 | exact-price-concert-burst-blush-light-okay-mammal-issue-ride-jewel-attitude |  
+| bip_39_word_dash_2 | exact-price |  
+| bip_39_word_dash_3 | exact-price-concert |  
+| bip_39_word_dash_4 | exact-price-concert-burst |  
+| bip_39_word_dash_5 | exact-price-concert-burst-blush |  
+| bip_39_word_dash_6 | exact-price-concert-burst-blush-light |  
+| bip_39_word_dash_7 | exact-price-concert-burst-blush-light-okay |  
+| bip_39_word_dash_8 | exact-price-concert-burst-blush-light-okay-mammal |  
+| bip_39_word_dash_9 | exact-price-concert-burst-blush-light-okay-mammal-issue |  
 | bip_39_word_new_br_1 | exact |  
 | bip_39_word_new_br_10 | exact<br>price<br>concert<br>burst<br>blush<br>light<br>okay<br>mammal<br>issue<br>ride |  
 | bip_39_word_new_br_11 | exact<br>price<br>concert<br>burst<br>blush<br>light<br>okay<br>mammal<br>issue<br>ride<br>jewel |  
@@ -147,6 +159,18 @@ issue |
 | bip_39_word_space_7 | exact price concert burst blush light okay |  
 | bip_39_word_space_8 | exact price concert burst blush light okay mammal |  
 | bip_39_word_space_9 | exact price concert burst blush light okay mammal issue |  
+| bip_39_word_underscore_1 | exact |  
+| bip_39_word_underscore_10 | exact_price_concert_burst_blush_light_okay_mammal_issue_ride |  
+| bip_39_word_underscore_11 | exact_price_concert_burst_blush_light_okay_mammal_issue_ride_jewel |  
+| bip_39_word_underscore_12 | exact_price_concert_burst_blush_light_okay_mammal_issue_ride_jewel_attitude |  
+| bip_39_word_underscore_2 | exact_price |  
+| bip_39_word_underscore_3 | exact_price_concert |  
+| bip_39_word_underscore_4 | exact_price_concert_burst |  
+| bip_39_word_underscore_5 | exact_price_concert_burst_blush |  
+| bip_39_word_underscore_6 | exact_price_concert_burst_blush_light |  
+| bip_39_word_underscore_7 | exact_price_concert_burst_blush_light_okay |  
+| bip_39_word_underscore_8 | exact_price_concert_burst_blush_light_okay_mammal |  
+| bip_39_word_underscore_9 | exact_price_concert_burst_blush_light_okay_mammal_issue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

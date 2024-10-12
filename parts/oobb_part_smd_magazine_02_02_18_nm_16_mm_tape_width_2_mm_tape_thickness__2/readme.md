@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cave |  
+| bip_39_word_dash_10 | cave-honey-census-seven-huge-disease-hub-clutch-tip-illness |  
+| bip_39_word_dash_11 | cave-honey-census-seven-huge-disease-hub-clutch-tip-illness-method |  
+| bip_39_word_dash_12 | cave-honey-census-seven-huge-disease-hub-clutch-tip-illness-method-acoustic |  
+| bip_39_word_dash_2 | cave-honey |  
+| bip_39_word_dash_3 | cave-honey-census |  
+| bip_39_word_dash_4 | cave-honey-census-seven |  
+| bip_39_word_dash_5 | cave-honey-census-seven-huge |  
+| bip_39_word_dash_6 | cave-honey-census-seven-huge-disease |  
+| bip_39_word_dash_7 | cave-honey-census-seven-huge-disease-hub |  
+| bip_39_word_dash_8 | cave-honey-census-seven-huge-disease-hub-clutch |  
+| bip_39_word_dash_9 | cave-honey-census-seven-huge-disease-hub-clutch-tip |  
 | bip_39_word_new_br_1 | cave |  
 | bip_39_word_new_br_10 | cave<br>honey<br>census<br>seven<br>huge<br>disease<br>hub<br>clutch<br>tip<br>illness |  
 | bip_39_word_new_br_11 | cave<br>honey<br>census<br>seven<br>huge<br>disease<br>hub<br>clutch<br>tip<br>illness<br>method |  
@@ -147,6 +159,18 @@ tip |
 | bip_39_word_space_7 | cave honey census seven huge disease hub |  
 | bip_39_word_space_8 | cave honey census seven huge disease hub clutch |  
 | bip_39_word_space_9 | cave honey census seven huge disease hub clutch tip |  
+| bip_39_word_underscore_1 | cave |  
+| bip_39_word_underscore_10 | cave_honey_census_seven_huge_disease_hub_clutch_tip_illness |  
+| bip_39_word_underscore_11 | cave_honey_census_seven_huge_disease_hub_clutch_tip_illness_method |  
+| bip_39_word_underscore_12 | cave_honey_census_seven_huge_disease_hub_clutch_tip_illness_method_acoustic |  
+| bip_39_word_underscore_2 | cave_honey |  
+| bip_39_word_underscore_3 | cave_honey_census |  
+| bip_39_word_underscore_4 | cave_honey_census_seven |  
+| bip_39_word_underscore_5 | cave_honey_census_seven_huge |  
+| bip_39_word_underscore_6 | cave_honey_census_seven_huge_disease |  
+| bip_39_word_underscore_7 | cave_honey_census_seven_huge_disease_hub |  
+| bip_39_word_underscore_8 | cave_honey_census_seven_huge_disease_hub_clutch |  
+| bip_39_word_underscore_9 | cave_honey_census_seven_huge_disease_hub_clutch_tip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

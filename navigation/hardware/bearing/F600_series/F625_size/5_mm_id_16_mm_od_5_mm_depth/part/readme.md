@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | version |  
+| bip_39_word_dash_10 | version-royal-sort-coast-table-abuse-stage-mom-lamp-people |  
+| bip_39_word_dash_11 | version-royal-sort-coast-table-abuse-stage-mom-lamp-people-shine |  
+| bip_39_word_dash_12 | version-royal-sort-coast-table-abuse-stage-mom-lamp-people-shine-aunt |  
+| bip_39_word_dash_2 | version-royal |  
+| bip_39_word_dash_3 | version-royal-sort |  
+| bip_39_word_dash_4 | version-royal-sort-coast |  
+| bip_39_word_dash_5 | version-royal-sort-coast-table |  
+| bip_39_word_dash_6 | version-royal-sort-coast-table-abuse |  
+| bip_39_word_dash_7 | version-royal-sort-coast-table-abuse-stage |  
+| bip_39_word_dash_8 | version-royal-sort-coast-table-abuse-stage-mom |  
+| bip_39_word_dash_9 | version-royal-sort-coast-table-abuse-stage-mom-lamp |  
 | bip_39_word_new_br_1 | version |  
 | bip_39_word_new_br_10 | version<br>royal<br>sort<br>coast<br>table<br>abuse<br>stage<br>mom<br>lamp<br>people |  
 | bip_39_word_new_br_11 | version<br>royal<br>sort<br>coast<br>table<br>abuse<br>stage<br>mom<br>lamp<br>people<br>shine |  
@@ -147,6 +159,18 @@ lamp |
 | bip_39_word_space_7 | version royal sort coast table abuse stage |  
 | bip_39_word_space_8 | version royal sort coast table abuse stage mom |  
 | bip_39_word_space_9 | version royal sort coast table abuse stage mom lamp |  
+| bip_39_word_underscore_1 | version |  
+| bip_39_word_underscore_10 | version_royal_sort_coast_table_abuse_stage_mom_lamp_people |  
+| bip_39_word_underscore_11 | version_royal_sort_coast_table_abuse_stage_mom_lamp_people_shine |  
+| bip_39_word_underscore_12 | version_royal_sort_coast_table_abuse_stage_mom_lamp_people_shine_aunt |  
+| bip_39_word_underscore_2 | version_royal |  
+| bip_39_word_underscore_3 | version_royal_sort |  
+| bip_39_word_underscore_4 | version_royal_sort_coast |  
+| bip_39_word_underscore_5 | version_royal_sort_coast_table |  
+| bip_39_word_underscore_6 | version_royal_sort_coast_table_abuse |  
+| bip_39_word_underscore_7 | version_royal_sort_coast_table_abuse_stage |  
+| bip_39_word_underscore_8 | version_royal_sort_coast_table_abuse_stage_mom |  
+| bip_39_word_underscore_9 | version_royal_sort_coast_table_abuse_stage_mom_lamp |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

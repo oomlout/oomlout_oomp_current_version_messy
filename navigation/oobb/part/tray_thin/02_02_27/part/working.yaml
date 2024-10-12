@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lyrics
+bip_39_word_dash_10: lyrics-point-engage-chaos-moral-foot-pact-cruel-orange-shrimp
+bip_39_word_dash_11: lyrics-point-engage-chaos-moral-foot-pact-cruel-orange-shrimp-tragic
+bip_39_word_dash_12: lyrics-point-engage-chaos-moral-foot-pact-cruel-orange-shrimp-tragic-antenna
+bip_39_word_dash_2: lyrics-point
+bip_39_word_dash_3: lyrics-point-engage
+bip_39_word_dash_4: lyrics-point-engage-chaos
+bip_39_word_dash_5: lyrics-point-engage-chaos-moral
+bip_39_word_dash_6: lyrics-point-engage-chaos-moral-foot
+bip_39_word_dash_7: lyrics-point-engage-chaos-moral-foot-pact
+bip_39_word_dash_8: lyrics-point-engage-chaos-moral-foot-pact-cruel
+bip_39_word_dash_9: lyrics-point-engage-chaos-moral-foot-pact-cruel-orange
 bip_39_word_new_br_1: lyrics
 bip_39_word_new_br_10: lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp
 bip_39_word_new_br_11: lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp<br>tragic
@@ -193,6 +205,18 @@ bip_39_word_space_6: lyrics point engage chaos moral foot
 bip_39_word_space_7: lyrics point engage chaos moral foot pact
 bip_39_word_space_8: lyrics point engage chaos moral foot pact cruel
 bip_39_word_space_9: lyrics point engage chaos moral foot pact cruel orange
+bip_39_word_underscore_1: lyrics
+bip_39_word_underscore_10: lyrics_point_engage_chaos_moral_foot_pact_cruel_orange_shrimp
+bip_39_word_underscore_11: lyrics_point_engage_chaos_moral_foot_pact_cruel_orange_shrimp_tragic
+bip_39_word_underscore_12: lyrics_point_engage_chaos_moral_foot_pact_cruel_orange_shrimp_tragic_antenna
+bip_39_word_underscore_2: lyrics_point
+bip_39_word_underscore_3: lyrics_point_engage
+bip_39_word_underscore_4: lyrics_point_engage_chaos
+bip_39_word_underscore_5: lyrics_point_engage_chaos_moral
+bip_39_word_underscore_6: lyrics_point_engage_chaos_moral_foot
+bip_39_word_underscore_7: lyrics_point_engage_chaos_moral_foot_pact
+bip_39_word_underscore_8: lyrics_point_engage_chaos_moral_foot_pact_cruel
+bip_39_word_underscore_9: lyrics_point_engage_chaos_moral_foot_pact_cruel_orange
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nice |  
+| bip_39_word_dash_10 | nice-arena-injury-belt-dragon-flee-section-novel-hire-pink |  
+| bip_39_word_dash_11 | nice-arena-injury-belt-dragon-flee-section-novel-hire-pink-skate |  
+| bip_39_word_dash_12 | nice-arena-injury-belt-dragon-flee-section-novel-hire-pink-skate-antique |  
+| bip_39_word_dash_2 | nice-arena |  
+| bip_39_word_dash_3 | nice-arena-injury |  
+| bip_39_word_dash_4 | nice-arena-injury-belt |  
+| bip_39_word_dash_5 | nice-arena-injury-belt-dragon |  
+| bip_39_word_dash_6 | nice-arena-injury-belt-dragon-flee |  
+| bip_39_word_dash_7 | nice-arena-injury-belt-dragon-flee-section |  
+| bip_39_word_dash_8 | nice-arena-injury-belt-dragon-flee-section-novel |  
+| bip_39_word_dash_9 | nice-arena-injury-belt-dragon-flee-section-novel-hire |  
 | bip_39_word_new_br_1 | nice |  
 | bip_39_word_new_br_10 | nice<br>arena<br>injury<br>belt<br>dragon<br>flee<br>section<br>novel<br>hire<br>pink |  
 | bip_39_word_new_br_11 | nice<br>arena<br>injury<br>belt<br>dragon<br>flee<br>section<br>novel<br>hire<br>pink<br>skate |  
@@ -147,6 +159,18 @@ hire |
 | bip_39_word_space_7 | nice arena injury belt dragon flee section |  
 | bip_39_word_space_8 | nice arena injury belt dragon flee section novel |  
 | bip_39_word_space_9 | nice arena injury belt dragon flee section novel hire |  
+| bip_39_word_underscore_1 | nice |  
+| bip_39_word_underscore_10 | nice_arena_injury_belt_dragon_flee_section_novel_hire_pink |  
+| bip_39_word_underscore_11 | nice_arena_injury_belt_dragon_flee_section_novel_hire_pink_skate |  
+| bip_39_word_underscore_12 | nice_arena_injury_belt_dragon_flee_section_novel_hire_pink_skate_antique |  
+| bip_39_word_underscore_2 | nice_arena |  
+| bip_39_word_underscore_3 | nice_arena_injury |  
+| bip_39_word_underscore_4 | nice_arena_injury_belt |  
+| bip_39_word_underscore_5 | nice_arena_injury_belt_dragon |  
+| bip_39_word_underscore_6 | nice_arena_injury_belt_dragon_flee |  
+| bip_39_word_underscore_7 | nice_arena_injury_belt_dragon_flee_section |  
+| bip_39_word_underscore_8 | nice_arena_injury_belt_dragon_flee_section_novel |  
+| bip_39_word_underscore_9 | nice_arena_injury_belt_dragon_flee_section_novel_hire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

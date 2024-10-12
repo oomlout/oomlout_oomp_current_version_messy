@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skirt |  
+| bip_39_word_dash_10 | skirt-modify-genre-initial-setup-annual-stable-auto-giant-guitar |  
+| bip_39_word_dash_11 | skirt-modify-genre-initial-setup-annual-stable-auto-giant-guitar-mouse |  
+| bip_39_word_dash_12 | skirt-modify-genre-initial-setup-annual-stable-auto-giant-guitar-mouse-among |  
+| bip_39_word_dash_2 | skirt-modify |  
+| bip_39_word_dash_3 | skirt-modify-genre |  
+| bip_39_word_dash_4 | skirt-modify-genre-initial |  
+| bip_39_word_dash_5 | skirt-modify-genre-initial-setup |  
+| bip_39_word_dash_6 | skirt-modify-genre-initial-setup-annual |  
+| bip_39_word_dash_7 | skirt-modify-genre-initial-setup-annual-stable |  
+| bip_39_word_dash_8 | skirt-modify-genre-initial-setup-annual-stable-auto |  
+| bip_39_word_dash_9 | skirt-modify-genre-initial-setup-annual-stable-auto-giant |  
 | bip_39_word_new_br_1 | skirt |  
 | bip_39_word_new_br_10 | skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar |  
 | bip_39_word_new_br_11 | skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar<br>mouse |  
@@ -147,6 +159,18 @@ giant |
 | bip_39_word_space_7 | skirt modify genre initial setup annual stable |  
 | bip_39_word_space_8 | skirt modify genre initial setup annual stable auto |  
 | bip_39_word_space_9 | skirt modify genre initial setup annual stable auto giant |  
+| bip_39_word_underscore_1 | skirt |  
+| bip_39_word_underscore_10 | skirt_modify_genre_initial_setup_annual_stable_auto_giant_guitar |  
+| bip_39_word_underscore_11 | skirt_modify_genre_initial_setup_annual_stable_auto_giant_guitar_mouse |  
+| bip_39_word_underscore_12 | skirt_modify_genre_initial_setup_annual_stable_auto_giant_guitar_mouse_among |  
+| bip_39_word_underscore_2 | skirt_modify |  
+| bip_39_word_underscore_3 | skirt_modify_genre |  
+| bip_39_word_underscore_4 | skirt_modify_genre_initial |  
+| bip_39_word_underscore_5 | skirt_modify_genre_initial_setup |  
+| bip_39_word_underscore_6 | skirt_modify_genre_initial_setup_annual |  
+| bip_39_word_underscore_7 | skirt_modify_genre_initial_setup_annual_stable |  
+| bip_39_word_underscore_8 | skirt_modify_genre_initial_setup_annual_stable_auto |  
+| bip_39_word_underscore_9 | skirt_modify_genre_initial_setup_annual_stable_auto_giant |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

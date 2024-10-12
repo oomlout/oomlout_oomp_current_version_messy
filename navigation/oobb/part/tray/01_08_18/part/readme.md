@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nominee |  
+| bip_39_word_dash_10 | nominee-forest-gasp-decide-garlic-disagree-garbage-sing-entry-minute |  
+| bip_39_word_dash_11 | nominee-forest-gasp-decide-garlic-disagree-garbage-sing-entry-minute-alarm |  
+| bip_39_word_dash_12 | nominee-forest-gasp-decide-garlic-disagree-garbage-sing-entry-minute-alarm-attract |  
+| bip_39_word_dash_2 | nominee-forest |  
+| bip_39_word_dash_3 | nominee-forest-gasp |  
+| bip_39_word_dash_4 | nominee-forest-gasp-decide |  
+| bip_39_word_dash_5 | nominee-forest-gasp-decide-garlic |  
+| bip_39_word_dash_6 | nominee-forest-gasp-decide-garlic-disagree |  
+| bip_39_word_dash_7 | nominee-forest-gasp-decide-garlic-disagree-garbage |  
+| bip_39_word_dash_8 | nominee-forest-gasp-decide-garlic-disagree-garbage-sing |  
+| bip_39_word_dash_9 | nominee-forest-gasp-decide-garlic-disagree-garbage-sing-entry |  
 | bip_39_word_new_br_1 | nominee |  
 | bip_39_word_new_br_10 | nominee<br>forest<br>gasp<br>decide<br>garlic<br>disagree<br>garbage<br>sing<br>entry<br>minute |  
 | bip_39_word_new_br_11 | nominee<br>forest<br>gasp<br>decide<br>garlic<br>disagree<br>garbage<br>sing<br>entry<br>minute<br>alarm |  
@@ -147,6 +159,18 @@ entry |
 | bip_39_word_space_7 | nominee forest gasp decide garlic disagree garbage |  
 | bip_39_word_space_8 | nominee forest gasp decide garlic disagree garbage sing |  
 | bip_39_word_space_9 | nominee forest gasp decide garlic disagree garbage sing entry |  
+| bip_39_word_underscore_1 | nominee |  
+| bip_39_word_underscore_10 | nominee_forest_gasp_decide_garlic_disagree_garbage_sing_entry_minute |  
+| bip_39_word_underscore_11 | nominee_forest_gasp_decide_garlic_disagree_garbage_sing_entry_minute_alarm |  
+| bip_39_word_underscore_12 | nominee_forest_gasp_decide_garlic_disagree_garbage_sing_entry_minute_alarm_attract |  
+| bip_39_word_underscore_2 | nominee_forest |  
+| bip_39_word_underscore_3 | nominee_forest_gasp |  
+| bip_39_word_underscore_4 | nominee_forest_gasp_decide |  
+| bip_39_word_underscore_5 | nominee_forest_gasp_decide_garlic |  
+| bip_39_word_underscore_6 | nominee_forest_gasp_decide_garlic_disagree |  
+| bip_39_word_underscore_7 | nominee_forest_gasp_decide_garlic_disagree_garbage |  
+| bip_39_word_underscore_8 | nominee_forest_gasp_decide_garlic_disagree_garbage_sing |  
+| bip_39_word_underscore_9 | nominee_forest_gasp_decide_garlic_disagree_garbage_sing_entry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

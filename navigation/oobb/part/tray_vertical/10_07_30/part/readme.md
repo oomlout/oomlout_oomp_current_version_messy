@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | begin |  
+| bip_39_word_dash_10 | begin-start-weapon-notable-drip-lizard-fork-brother-alley-absent |  
+| bip_39_word_dash_11 | begin-start-weapon-notable-drip-lizard-fork-brother-alley-absent-jaguar |  
+| bip_39_word_dash_12 | begin-start-weapon-notable-drip-lizard-fork-brother-alley-absent-jaguar-amateur |  
+| bip_39_word_dash_2 | begin-start |  
+| bip_39_word_dash_3 | begin-start-weapon |  
+| bip_39_word_dash_4 | begin-start-weapon-notable |  
+| bip_39_word_dash_5 | begin-start-weapon-notable-drip |  
+| bip_39_word_dash_6 | begin-start-weapon-notable-drip-lizard |  
+| bip_39_word_dash_7 | begin-start-weapon-notable-drip-lizard-fork |  
+| bip_39_word_dash_8 | begin-start-weapon-notable-drip-lizard-fork-brother |  
+| bip_39_word_dash_9 | begin-start-weapon-notable-drip-lizard-fork-brother-alley |  
 | bip_39_word_new_br_1 | begin |  
 | bip_39_word_new_br_10 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother<br>alley<br>absent |  
 | bip_39_word_new_br_11 | begin<br>start<br>weapon<br>notable<br>drip<br>lizard<br>fork<br>brother<br>alley<br>absent<br>jaguar |  
@@ -147,6 +159,18 @@ alley |
 | bip_39_word_space_7 | begin start weapon notable drip lizard fork |  
 | bip_39_word_space_8 | begin start weapon notable drip lizard fork brother |  
 | bip_39_word_space_9 | begin start weapon notable drip lizard fork brother alley |  
+| bip_39_word_underscore_1 | begin |  
+| bip_39_word_underscore_10 | begin_start_weapon_notable_drip_lizard_fork_brother_alley_absent |  
+| bip_39_word_underscore_11 | begin_start_weapon_notable_drip_lizard_fork_brother_alley_absent_jaguar |  
+| bip_39_word_underscore_12 | begin_start_weapon_notable_drip_lizard_fork_brother_alley_absent_jaguar_amateur |  
+| bip_39_word_underscore_2 | begin_start |  
+| bip_39_word_underscore_3 | begin_start_weapon |  
+| bip_39_word_underscore_4 | begin_start_weapon_notable |  
+| bip_39_word_underscore_5 | begin_start_weapon_notable_drip |  
+| bip_39_word_underscore_6 | begin_start_weapon_notable_drip_lizard |  
+| bip_39_word_underscore_7 | begin_start_weapon_notable_drip_lizard_fork |  
+| bip_39_word_underscore_8 | begin_start_weapon_notable_drip_lizard_fork_brother |  
+| bip_39_word_underscore_9 | begin_start_weapon_notable_drip_lizard_fork_brother_alley |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

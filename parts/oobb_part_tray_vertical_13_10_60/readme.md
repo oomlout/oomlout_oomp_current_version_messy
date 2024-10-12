@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | figure |  
+| bip_39_word_dash_10 | figure-bitter-crime-found-length-vendor-boost-soft-dune-reduce |  
+| bip_39_word_dash_11 | figure-bitter-crime-found-length-vendor-boost-soft-dune-reduce-joke |  
+| bip_39_word_dash_12 | figure-bitter-crime-found-length-vendor-boost-soft-dune-reduce-joke-album |  
+| bip_39_word_dash_2 | figure-bitter |  
+| bip_39_word_dash_3 | figure-bitter-crime |  
+| bip_39_word_dash_4 | figure-bitter-crime-found |  
+| bip_39_word_dash_5 | figure-bitter-crime-found-length |  
+| bip_39_word_dash_6 | figure-bitter-crime-found-length-vendor |  
+| bip_39_word_dash_7 | figure-bitter-crime-found-length-vendor-boost |  
+| bip_39_word_dash_8 | figure-bitter-crime-found-length-vendor-boost-soft |  
+| bip_39_word_dash_9 | figure-bitter-crime-found-length-vendor-boost-soft-dune |  
 | bip_39_word_new_br_1 | figure |  
 | bip_39_word_new_br_10 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce |  
 | bip_39_word_new_br_11 | figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce<br>joke |  
@@ -147,6 +159,18 @@ dune |
 | bip_39_word_space_7 | figure bitter crime found length vendor boost |  
 | bip_39_word_space_8 | figure bitter crime found length vendor boost soft |  
 | bip_39_word_space_9 | figure bitter crime found length vendor boost soft dune |  
+| bip_39_word_underscore_1 | figure |  
+| bip_39_word_underscore_10 | figure_bitter_crime_found_length_vendor_boost_soft_dune_reduce |  
+| bip_39_word_underscore_11 | figure_bitter_crime_found_length_vendor_boost_soft_dune_reduce_joke |  
+| bip_39_word_underscore_12 | figure_bitter_crime_found_length_vendor_boost_soft_dune_reduce_joke_album |  
+| bip_39_word_underscore_2 | figure_bitter |  
+| bip_39_word_underscore_3 | figure_bitter_crime |  
+| bip_39_word_underscore_4 | figure_bitter_crime_found |  
+| bip_39_word_underscore_5 | figure_bitter_crime_found_length |  
+| bip_39_word_underscore_6 | figure_bitter_crime_found_length_vendor |  
+| bip_39_word_underscore_7 | figure_bitter_crime_found_length_vendor_boost |  
+| bip_39_word_underscore_8 | figure_bitter_crime_found_length_vendor_boost_soft |  
+| bip_39_word_underscore_9 | figure_bitter_crime_found_length_vendor_boost_soft_dune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | yellow |  
+| bip_39_word_dash_10 | yellow-morning-edit-scan-skill-fall-identify-regular-decline-truck |  
+| bip_39_word_dash_11 | yellow-morning-edit-scan-skill-fall-identify-regular-decline-truck-husband |  
+| bip_39_word_dash_12 | yellow-morning-edit-scan-skill-fall-identify-regular-decline-truck-husband-all |  
+| bip_39_word_dash_2 | yellow-morning |  
+| bip_39_word_dash_3 | yellow-morning-edit |  
+| bip_39_word_dash_4 | yellow-morning-edit-scan |  
+| bip_39_word_dash_5 | yellow-morning-edit-scan-skill |  
+| bip_39_word_dash_6 | yellow-morning-edit-scan-skill-fall |  
+| bip_39_word_dash_7 | yellow-morning-edit-scan-skill-fall-identify |  
+| bip_39_word_dash_8 | yellow-morning-edit-scan-skill-fall-identify-regular |  
+| bip_39_word_dash_9 | yellow-morning-edit-scan-skill-fall-identify-regular-decline |  
 | bip_39_word_new_br_1 | yellow |  
 | bip_39_word_new_br_10 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular<br>decline<br>truck |  
 | bip_39_word_new_br_11 | yellow<br>morning<br>edit<br>scan<br>skill<br>fall<br>identify<br>regular<br>decline<br>truck<br>husband |  
@@ -147,6 +159,18 @@ decline |
 | bip_39_word_space_7 | yellow morning edit scan skill fall identify |  
 | bip_39_word_space_8 | yellow morning edit scan skill fall identify regular |  
 | bip_39_word_space_9 | yellow morning edit scan skill fall identify regular decline |  
+| bip_39_word_underscore_1 | yellow |  
+| bip_39_word_underscore_10 | yellow_morning_edit_scan_skill_fall_identify_regular_decline_truck |  
+| bip_39_word_underscore_11 | yellow_morning_edit_scan_skill_fall_identify_regular_decline_truck_husband |  
+| bip_39_word_underscore_12 | yellow_morning_edit_scan_skill_fall_identify_regular_decline_truck_husband_all |  
+| bip_39_word_underscore_2 | yellow_morning |  
+| bip_39_word_underscore_3 | yellow_morning_edit |  
+| bip_39_word_underscore_4 | yellow_morning_edit_scan |  
+| bip_39_word_underscore_5 | yellow_morning_edit_scan_skill |  
+| bip_39_word_underscore_6 | yellow_morning_edit_scan_skill_fall |  
+| bip_39_word_underscore_7 | yellow_morning_edit_scan_skill_fall_identify |  
+| bip_39_word_underscore_8 | yellow_morning_edit_scan_skill_fall_identify_regular |  
+| bip_39_word_underscore_9 | yellow_morning_edit_scan_skill_fall_identify_regular_decline |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

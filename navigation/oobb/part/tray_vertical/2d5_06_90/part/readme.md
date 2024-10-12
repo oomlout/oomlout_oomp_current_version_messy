@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enemy |  
+| bip_39_word_dash_10 | enemy-crime-flat-this-coyote-orbit-under-quarter-afford-olive |  
+| bip_39_word_dash_11 | enemy-crime-flat-this-coyote-orbit-under-quarter-afford-olive-dust |  
+| bip_39_word_dash_12 | enemy-crime-flat-this-coyote-orbit-under-quarter-afford-olive-dust-arrest |  
+| bip_39_word_dash_2 | enemy-crime |  
+| bip_39_word_dash_3 | enemy-crime-flat |  
+| bip_39_word_dash_4 | enemy-crime-flat-this |  
+| bip_39_word_dash_5 | enemy-crime-flat-this-coyote |  
+| bip_39_word_dash_6 | enemy-crime-flat-this-coyote-orbit |  
+| bip_39_word_dash_7 | enemy-crime-flat-this-coyote-orbit-under |  
+| bip_39_word_dash_8 | enemy-crime-flat-this-coyote-orbit-under-quarter |  
+| bip_39_word_dash_9 | enemy-crime-flat-this-coyote-orbit-under-quarter-afford |  
 | bip_39_word_new_br_1 | enemy |  
 | bip_39_word_new_br_10 | enemy<br>crime<br>flat<br>this<br>coyote<br>orbit<br>under<br>quarter<br>afford<br>olive |  
 | bip_39_word_new_br_11 | enemy<br>crime<br>flat<br>this<br>coyote<br>orbit<br>under<br>quarter<br>afford<br>olive<br>dust |  
@@ -147,6 +159,18 @@ afford |
 | bip_39_word_space_7 | enemy crime flat this coyote orbit under |  
 | bip_39_word_space_8 | enemy crime flat this coyote orbit under quarter |  
 | bip_39_word_space_9 | enemy crime flat this coyote orbit under quarter afford |  
+| bip_39_word_underscore_1 | enemy |  
+| bip_39_word_underscore_10 | enemy_crime_flat_this_coyote_orbit_under_quarter_afford_olive |  
+| bip_39_word_underscore_11 | enemy_crime_flat_this_coyote_orbit_under_quarter_afford_olive_dust |  
+| bip_39_word_underscore_12 | enemy_crime_flat_this_coyote_orbit_under_quarter_afford_olive_dust_arrest |  
+| bip_39_word_underscore_2 | enemy_crime |  
+| bip_39_word_underscore_3 | enemy_crime_flat |  
+| bip_39_word_underscore_4 | enemy_crime_flat_this |  
+| bip_39_word_underscore_5 | enemy_crime_flat_this_coyote |  
+| bip_39_word_underscore_6 | enemy_crime_flat_this_coyote_orbit |  
+| bip_39_word_underscore_7 | enemy_crime_flat_this_coyote_orbit_under |  
+| bip_39_word_underscore_8 | enemy_crime_flat_this_coyote_orbit_under_quarter |  
+| bip_39_word_underscore_9 | enemy_crime_flat_this_coyote_orbit_under_quarter_afford |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

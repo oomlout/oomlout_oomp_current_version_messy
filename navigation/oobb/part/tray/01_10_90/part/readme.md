@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spring |  
+| bip_39_word_dash_10 | spring-stool-slice-brother-hand-churn-cattle-glare-jelly-stamp |  
+| bip_39_word_dash_11 | spring-stool-slice-brother-hand-churn-cattle-glare-jelly-stamp-mammal |  
+| bip_39_word_dash_12 | spring-stool-slice-brother-hand-churn-cattle-glare-jelly-stamp-mammal-airport |  
+| bip_39_word_dash_2 | spring-stool |  
+| bip_39_word_dash_3 | spring-stool-slice |  
+| bip_39_word_dash_4 | spring-stool-slice-brother |  
+| bip_39_word_dash_5 | spring-stool-slice-brother-hand |  
+| bip_39_word_dash_6 | spring-stool-slice-brother-hand-churn |  
+| bip_39_word_dash_7 | spring-stool-slice-brother-hand-churn-cattle |  
+| bip_39_word_dash_8 | spring-stool-slice-brother-hand-churn-cattle-glare |  
+| bip_39_word_dash_9 | spring-stool-slice-brother-hand-churn-cattle-glare-jelly |  
 | bip_39_word_new_br_1 | spring |  
 | bip_39_word_new_br_10 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare<br>jelly<br>stamp |  
 | bip_39_word_new_br_11 | spring<br>stool<br>slice<br>brother<br>hand<br>churn<br>cattle<br>glare<br>jelly<br>stamp<br>mammal |  
@@ -147,6 +159,18 @@ jelly |
 | bip_39_word_space_7 | spring stool slice brother hand churn cattle |  
 | bip_39_word_space_8 | spring stool slice brother hand churn cattle glare |  
 | bip_39_word_space_9 | spring stool slice brother hand churn cattle glare jelly |  
+| bip_39_word_underscore_1 | spring |  
+| bip_39_word_underscore_10 | spring_stool_slice_brother_hand_churn_cattle_glare_jelly_stamp |  
+| bip_39_word_underscore_11 | spring_stool_slice_brother_hand_churn_cattle_glare_jelly_stamp_mammal |  
+| bip_39_word_underscore_12 | spring_stool_slice_brother_hand_churn_cattle_glare_jelly_stamp_mammal_airport |  
+| bip_39_word_underscore_2 | spring_stool |  
+| bip_39_word_underscore_3 | spring_stool_slice |  
+| bip_39_word_underscore_4 | spring_stool_slice_brother |  
+| bip_39_word_underscore_5 | spring_stool_slice_brother_hand |  
+| bip_39_word_underscore_6 | spring_stool_slice_brother_hand_churn |  
+| bip_39_word_underscore_7 | spring_stool_slice_brother_hand_churn_cattle |  
+| bip_39_word_underscore_8 | spring_stool_slice_brother_hand_churn_cattle_glare |  
+| bip_39_word_underscore_9 | spring_stool_slice_brother_hand_churn_cattle_glare_jelly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

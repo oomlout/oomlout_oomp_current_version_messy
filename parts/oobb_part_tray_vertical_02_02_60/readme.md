@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | else |  
+| bip_39_word_dash_10 | else-tourist-tide-sense-clap-brother-cousin-blur-fox-grass |  
+| bip_39_word_dash_11 | else-tourist-tide-sense-clap-brother-cousin-blur-fox-grass-again |  
+| bip_39_word_dash_12 | else-tourist-tide-sense-clap-brother-cousin-blur-fox-grass-again-aunt |  
+| bip_39_word_dash_2 | else-tourist |  
+| bip_39_word_dash_3 | else-tourist-tide |  
+| bip_39_word_dash_4 | else-tourist-tide-sense |  
+| bip_39_word_dash_5 | else-tourist-tide-sense-clap |  
+| bip_39_word_dash_6 | else-tourist-tide-sense-clap-brother |  
+| bip_39_word_dash_7 | else-tourist-tide-sense-clap-brother-cousin |  
+| bip_39_word_dash_8 | else-tourist-tide-sense-clap-brother-cousin-blur |  
+| bip_39_word_dash_9 | else-tourist-tide-sense-clap-brother-cousin-blur-fox |  
 | bip_39_word_new_br_1 | else |  
 | bip_39_word_new_br_10 | else<br>tourist<br>tide<br>sense<br>clap<br>brother<br>cousin<br>blur<br>fox<br>grass |  
 | bip_39_word_new_br_11 | else<br>tourist<br>tide<br>sense<br>clap<br>brother<br>cousin<br>blur<br>fox<br>grass<br>again |  
@@ -147,6 +159,18 @@ fox |
 | bip_39_word_space_7 | else tourist tide sense clap brother cousin |  
 | bip_39_word_space_8 | else tourist tide sense clap brother cousin blur |  
 | bip_39_word_space_9 | else tourist tide sense clap brother cousin blur fox |  
+| bip_39_word_underscore_1 | else |  
+| bip_39_word_underscore_10 | else_tourist_tide_sense_clap_brother_cousin_blur_fox_grass |  
+| bip_39_word_underscore_11 | else_tourist_tide_sense_clap_brother_cousin_blur_fox_grass_again |  
+| bip_39_word_underscore_12 | else_tourist_tide_sense_clap_brother_cousin_blur_fox_grass_again_aunt |  
+| bip_39_word_underscore_2 | else_tourist |  
+| bip_39_word_underscore_3 | else_tourist_tide |  
+| bip_39_word_underscore_4 | else_tourist_tide_sense |  
+| bip_39_word_underscore_5 | else_tourist_tide_sense_clap |  
+| bip_39_word_underscore_6 | else_tourist_tide_sense_clap_brother |  
+| bip_39_word_underscore_7 | else_tourist_tide_sense_clap_brother_cousin |  
+| bip_39_word_underscore_8 | else_tourist_tide_sense_clap_brother_cousin_blur |  
+| bip_39_word_underscore_9 | else_tourist_tide_sense_clap_brother_cousin_blur_fox |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

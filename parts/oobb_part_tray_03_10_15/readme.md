@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | couple |  
+| bip_39_word_dash_10 | couple-caution-brand-army-dirt-file-tumble-rabbit-weasel-clerk |  
+| bip_39_word_dash_11 | couple-caution-brand-army-dirt-file-tumble-rabbit-weasel-clerk-fan |  
+| bip_39_word_dash_12 | couple-caution-brand-army-dirt-file-tumble-rabbit-weasel-clerk-fan-among |  
+| bip_39_word_dash_2 | couple-caution |  
+| bip_39_word_dash_3 | couple-caution-brand |  
+| bip_39_word_dash_4 | couple-caution-brand-army |  
+| bip_39_word_dash_5 | couple-caution-brand-army-dirt |  
+| bip_39_word_dash_6 | couple-caution-brand-army-dirt-file |  
+| bip_39_word_dash_7 | couple-caution-brand-army-dirt-file-tumble |  
+| bip_39_word_dash_8 | couple-caution-brand-army-dirt-file-tumble-rabbit |  
+| bip_39_word_dash_9 | couple-caution-brand-army-dirt-file-tumble-rabbit-weasel |  
 | bip_39_word_new_br_1 | couple |  
 | bip_39_word_new_br_10 | couple<br>caution<br>brand<br>army<br>dirt<br>file<br>tumble<br>rabbit<br>weasel<br>clerk |  
 | bip_39_word_new_br_11 | couple<br>caution<br>brand<br>army<br>dirt<br>file<br>tumble<br>rabbit<br>weasel<br>clerk<br>fan |  
@@ -147,6 +159,18 @@ weasel |
 | bip_39_word_space_7 | couple caution brand army dirt file tumble |  
 | bip_39_word_space_8 | couple caution brand army dirt file tumble rabbit |  
 | bip_39_word_space_9 | couple caution brand army dirt file tumble rabbit weasel |  
+| bip_39_word_underscore_1 | couple |  
+| bip_39_word_underscore_10 | couple_caution_brand_army_dirt_file_tumble_rabbit_weasel_clerk |  
+| bip_39_word_underscore_11 | couple_caution_brand_army_dirt_file_tumble_rabbit_weasel_clerk_fan |  
+| bip_39_word_underscore_12 | couple_caution_brand_army_dirt_file_tumble_rabbit_weasel_clerk_fan_among |  
+| bip_39_word_underscore_2 | couple_caution |  
+| bip_39_word_underscore_3 | couple_caution_brand |  
+| bip_39_word_underscore_4 | couple_caution_brand_army |  
+| bip_39_word_underscore_5 | couple_caution_brand_army_dirt |  
+| bip_39_word_underscore_6 | couple_caution_brand_army_dirt_file |  
+| bip_39_word_underscore_7 | couple_caution_brand_army_dirt_file_tumble |  
+| bip_39_word_underscore_8 | couple_caution_brand_army_dirt_file_tumble_rabbit |  
+| bip_39_word_underscore_9 | couple_caution_brand_army_dirt_file_tumble_rabbit_weasel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

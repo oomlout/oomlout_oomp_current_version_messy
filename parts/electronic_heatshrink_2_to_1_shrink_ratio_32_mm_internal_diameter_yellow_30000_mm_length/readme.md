@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ecology |  
+| bip_39_word_dash_10 | ecology-fee-sleep-word-leopard-spell-resist-warm-poem-cinnamon |  
+| bip_39_word_dash_11 | ecology-fee-sleep-word-leopard-spell-resist-warm-poem-cinnamon-ancient |  
+| bip_39_word_dash_12 | ecology-fee-sleep-word-leopard-spell-resist-warm-poem-cinnamon-ancient-antenna |  
+| bip_39_word_dash_2 | ecology-fee |  
+| bip_39_word_dash_3 | ecology-fee-sleep |  
+| bip_39_word_dash_4 | ecology-fee-sleep-word |  
+| bip_39_word_dash_5 | ecology-fee-sleep-word-leopard |  
+| bip_39_word_dash_6 | ecology-fee-sleep-word-leopard-spell |  
+| bip_39_word_dash_7 | ecology-fee-sleep-word-leopard-spell-resist |  
+| bip_39_word_dash_8 | ecology-fee-sleep-word-leopard-spell-resist-warm |  
+| bip_39_word_dash_9 | ecology-fee-sleep-word-leopard-spell-resist-warm-poem |  
 | bip_39_word_new_br_1 | ecology |  
 | bip_39_word_new_br_10 | ecology<br>fee<br>sleep<br>word<br>leopard<br>spell<br>resist<br>warm<br>poem<br>cinnamon |  
 | bip_39_word_new_br_11 | ecology<br>fee<br>sleep<br>word<br>leopard<br>spell<br>resist<br>warm<br>poem<br>cinnamon<br>ancient |  
@@ -147,6 +159,18 @@ poem |
 | bip_39_word_space_7 | ecology fee sleep word leopard spell resist |  
 | bip_39_word_space_8 | ecology fee sleep word leopard spell resist warm |  
 | bip_39_word_space_9 | ecology fee sleep word leopard spell resist warm poem |  
+| bip_39_word_underscore_1 | ecology |  
+| bip_39_word_underscore_10 | ecology_fee_sleep_word_leopard_spell_resist_warm_poem_cinnamon |  
+| bip_39_word_underscore_11 | ecology_fee_sleep_word_leopard_spell_resist_warm_poem_cinnamon_ancient |  
+| bip_39_word_underscore_12 | ecology_fee_sleep_word_leopard_spell_resist_warm_poem_cinnamon_ancient_antenna |  
+| bip_39_word_underscore_2 | ecology_fee |  
+| bip_39_word_underscore_3 | ecology_fee_sleep |  
+| bip_39_word_underscore_4 | ecology_fee_sleep_word |  
+| bip_39_word_underscore_5 | ecology_fee_sleep_word_leopard |  
+| bip_39_word_underscore_6 | ecology_fee_sleep_word_leopard_spell |  
+| bip_39_word_underscore_7 | ecology_fee_sleep_word_leopard_spell_resist |  
+| bip_39_word_underscore_8 | ecology_fee_sleep_word_leopard_spell_resist_warm |  
+| bip_39_word_underscore_9 | ecology_fee_sleep_word_leopard_spell_resist_warm_poem |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

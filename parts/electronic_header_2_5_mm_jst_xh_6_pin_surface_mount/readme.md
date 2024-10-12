@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | raise |  
+| bip_39_word_dash_10 | raise-climb-over-print-wagon-effort-fiscal-bag-govern-fuel |  
+| bip_39_word_dash_11 | raise-climb-over-print-wagon-effort-fiscal-bag-govern-fuel-harsh |  
+| bip_39_word_dash_12 | raise-climb-over-print-wagon-effort-fiscal-bag-govern-fuel-harsh-average |  
+| bip_39_word_dash_2 | raise-climb |  
+| bip_39_word_dash_3 | raise-climb-over |  
+| bip_39_word_dash_4 | raise-climb-over-print |  
+| bip_39_word_dash_5 | raise-climb-over-print-wagon |  
+| bip_39_word_dash_6 | raise-climb-over-print-wagon-effort |  
+| bip_39_word_dash_7 | raise-climb-over-print-wagon-effort-fiscal |  
+| bip_39_word_dash_8 | raise-climb-over-print-wagon-effort-fiscal-bag |  
+| bip_39_word_dash_9 | raise-climb-over-print-wagon-effort-fiscal-bag-govern |  
 | bip_39_word_new_br_1 | raise |  
 | bip_39_word_new_br_10 | raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag<br>govern<br>fuel |  
 | bip_39_word_new_br_11 | raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag<br>govern<br>fuel<br>harsh |  
@@ -147,6 +159,18 @@ govern |
 | bip_39_word_space_7 | raise climb over print wagon effort fiscal |  
 | bip_39_word_space_8 | raise climb over print wagon effort fiscal bag |  
 | bip_39_word_space_9 | raise climb over print wagon effort fiscal bag govern |  
+| bip_39_word_underscore_1 | raise |  
+| bip_39_word_underscore_10 | raise_climb_over_print_wagon_effort_fiscal_bag_govern_fuel |  
+| bip_39_word_underscore_11 | raise_climb_over_print_wagon_effort_fiscal_bag_govern_fuel_harsh |  
+| bip_39_word_underscore_12 | raise_climb_over_print_wagon_effort_fiscal_bag_govern_fuel_harsh_average |  
+| bip_39_word_underscore_2 | raise_climb |  
+| bip_39_word_underscore_3 | raise_climb_over |  
+| bip_39_word_underscore_4 | raise_climb_over_print |  
+| bip_39_word_underscore_5 | raise_climb_over_print_wagon |  
+| bip_39_word_underscore_6 | raise_climb_over_print_wagon_effort |  
+| bip_39_word_underscore_7 | raise_climb_over_print_wagon_effort_fiscal |  
+| bip_39_word_underscore_8 | raise_climb_over_print_wagon_effort_fiscal_bag |  
+| bip_39_word_underscore_9 | raise_climb_over_print_wagon_effort_fiscal_bag_govern |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

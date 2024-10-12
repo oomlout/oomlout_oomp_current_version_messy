@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | moral |  
+| bip_39_word_dash_10 | moral-cushion-betray-please-injury-affair-picnic-jeans-museum-impact |  
+| bip_39_word_dash_11 | moral-cushion-betray-please-injury-affair-picnic-jeans-museum-impact-kitten |  
+| bip_39_word_dash_12 | moral-cushion-betray-please-injury-affair-picnic-jeans-museum-impact-kitten-amateur |  
+| bip_39_word_dash_2 | moral-cushion |  
+| bip_39_word_dash_3 | moral-cushion-betray |  
+| bip_39_word_dash_4 | moral-cushion-betray-please |  
+| bip_39_word_dash_5 | moral-cushion-betray-please-injury |  
+| bip_39_word_dash_6 | moral-cushion-betray-please-injury-affair |  
+| bip_39_word_dash_7 | moral-cushion-betray-please-injury-affair-picnic |  
+| bip_39_word_dash_8 | moral-cushion-betray-please-injury-affair-picnic-jeans |  
+| bip_39_word_dash_9 | moral-cushion-betray-please-injury-affair-picnic-jeans-museum |  
 | bip_39_word_new_br_1 | moral |  
 | bip_39_word_new_br_10 | moral<br>cushion<br>betray<br>please<br>injury<br>affair<br>picnic<br>jeans<br>museum<br>impact |  
 | bip_39_word_new_br_11 | moral<br>cushion<br>betray<br>please<br>injury<br>affair<br>picnic<br>jeans<br>museum<br>impact<br>kitten |  
@@ -147,6 +159,18 @@ museum |
 | bip_39_word_space_7 | moral cushion betray please injury affair picnic |  
 | bip_39_word_space_8 | moral cushion betray please injury affair picnic jeans |  
 | bip_39_word_space_9 | moral cushion betray please injury affair picnic jeans museum |  
+| bip_39_word_underscore_1 | moral |  
+| bip_39_word_underscore_10 | moral_cushion_betray_please_injury_affair_picnic_jeans_museum_impact |  
+| bip_39_word_underscore_11 | moral_cushion_betray_please_injury_affair_picnic_jeans_museum_impact_kitten |  
+| bip_39_word_underscore_12 | moral_cushion_betray_please_injury_affair_picnic_jeans_museum_impact_kitten_amateur |  
+| bip_39_word_underscore_2 | moral_cushion |  
+| bip_39_word_underscore_3 | moral_cushion_betray |  
+| bip_39_word_underscore_4 | moral_cushion_betray_please |  
+| bip_39_word_underscore_5 | moral_cushion_betray_please_injury |  
+| bip_39_word_underscore_6 | moral_cushion_betray_please_injury_affair |  
+| bip_39_word_underscore_7 | moral_cushion_betray_please_injury_affair_picnic |  
+| bip_39_word_underscore_8 | moral_cushion_betray_please_injury_affair_picnic_jeans |  
+| bip_39_word_underscore_9 | moral_cushion_betray_please_injury_affair_picnic_jeans_museum |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

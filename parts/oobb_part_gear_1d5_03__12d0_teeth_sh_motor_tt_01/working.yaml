@@ -1,3 +1,15 @@
+bip_39_word_dash_1: swallow
+bip_39_word_dash_10: swallow-pet-include-crop-hollow-era-limb-cup-fiscal-best
+bip_39_word_dash_11: swallow-pet-include-crop-hollow-era-limb-cup-fiscal-best-model
+bip_39_word_dash_12: swallow-pet-include-crop-hollow-era-limb-cup-fiscal-best-model-appear
+bip_39_word_dash_2: swallow-pet
+bip_39_word_dash_3: swallow-pet-include
+bip_39_word_dash_4: swallow-pet-include-crop
+bip_39_word_dash_5: swallow-pet-include-crop-hollow
+bip_39_word_dash_6: swallow-pet-include-crop-hollow-era
+bip_39_word_dash_7: swallow-pet-include-crop-hollow-era-limb
+bip_39_word_dash_8: swallow-pet-include-crop-hollow-era-limb-cup
+bip_39_word_dash_9: swallow-pet-include-crop-hollow-era-limb-cup-fiscal
 bip_39_word_new_br_1: swallow
 bip_39_word_new_br_10: swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup<br>fiscal<br>best
 bip_39_word_new_br_11: swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup<br>fiscal<br>best<br>model
@@ -192,6 +204,18 @@ bip_39_word_space_6: swallow pet include crop hollow era
 bip_39_word_space_7: swallow pet include crop hollow era limb
 bip_39_word_space_8: swallow pet include crop hollow era limb cup
 bip_39_word_space_9: swallow pet include crop hollow era limb cup fiscal
+bip_39_word_underscore_1: swallow
+bip_39_word_underscore_10: swallow_pet_include_crop_hollow_era_limb_cup_fiscal_best
+bip_39_word_underscore_11: swallow_pet_include_crop_hollow_era_limb_cup_fiscal_best_model
+bip_39_word_underscore_12: swallow_pet_include_crop_hollow_era_limb_cup_fiscal_best_model_appear
+bip_39_word_underscore_2: swallow_pet
+bip_39_word_underscore_3: swallow_pet_include
+bip_39_word_underscore_4: swallow_pet_include_crop
+bip_39_word_underscore_5: swallow_pet_include_crop_hollow
+bip_39_word_underscore_6: swallow_pet_include_crop_hollow_era
+bip_39_word_underscore_7: swallow_pet_include_crop_hollow_era_limb
+bip_39_word_underscore_8: swallow_pet_include_crop_hollow_era_limb_cup
+bip_39_word_underscore_9: swallow_pet_include_crop_hollow_era_limb_cup_fiscal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

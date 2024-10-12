@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mountain
+bip_39_word_dash_10: mountain-correct-plate-when-hope-guard-enough-warrior-pizza-wasp
+bip_39_word_dash_11: mountain-correct-plate-when-hope-guard-enough-warrior-pizza-wasp-flock
+bip_39_word_dash_12: mountain-correct-plate-when-hope-guard-enough-warrior-pizza-wasp-flock-approve
+bip_39_word_dash_2: mountain-correct
+bip_39_word_dash_3: mountain-correct-plate
+bip_39_word_dash_4: mountain-correct-plate-when
+bip_39_word_dash_5: mountain-correct-plate-when-hope
+bip_39_word_dash_6: mountain-correct-plate-when-hope-guard
+bip_39_word_dash_7: mountain-correct-plate-when-hope-guard-enough
+bip_39_word_dash_8: mountain-correct-plate-when-hope-guard-enough-warrior
+bip_39_word_dash_9: mountain-correct-plate-when-hope-guard-enough-warrior-pizza
 bip_39_word_new_br_1: mountain
 bip_39_word_new_br_10: mountain<br>correct<br>plate<br>when<br>hope<br>guard<br>enough<br>warrior<br>pizza<br>wasp
 bip_39_word_new_br_11: mountain<br>correct<br>plate<br>when<br>hope<br>guard<br>enough<br>warrior<br>pizza<br>wasp<br>flock
@@ -194,6 +206,18 @@ bip_39_word_space_6: mountain correct plate when hope guard
 bip_39_word_space_7: mountain correct plate when hope guard enough
 bip_39_word_space_8: mountain correct plate when hope guard enough warrior
 bip_39_word_space_9: mountain correct plate when hope guard enough warrior pizza
+bip_39_word_underscore_1: mountain
+bip_39_word_underscore_10: mountain_correct_plate_when_hope_guard_enough_warrior_pizza_wasp
+bip_39_word_underscore_11: mountain_correct_plate_when_hope_guard_enough_warrior_pizza_wasp_flock
+bip_39_word_underscore_12: mountain_correct_plate_when_hope_guard_enough_warrior_pizza_wasp_flock_approve
+bip_39_word_underscore_2: mountain_correct
+bip_39_word_underscore_3: mountain_correct_plate
+bip_39_word_underscore_4: mountain_correct_plate_when
+bip_39_word_underscore_5: mountain_correct_plate_when_hope
+bip_39_word_underscore_6: mountain_correct_plate_when_hope_guard
+bip_39_word_underscore_7: mountain_correct_plate_when_hope_guard_enough
+bip_39_word_underscore_8: mountain_correct_plate_when_hope_guard_enough_warrior
+bip_39_word_underscore_9: mountain_correct_plate_when_hope_guard_enough_warrior_pizza
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

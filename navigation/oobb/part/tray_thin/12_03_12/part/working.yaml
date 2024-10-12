@@ -1,3 +1,15 @@
+bip_39_word_dash_1: guess
+bip_39_word_dash_10: guess-file-girl-shield-gun-scene-mask-young-nest-come
+bip_39_word_dash_11: guess-file-girl-shield-gun-scene-mask-young-nest-come-breeze
+bip_39_word_dash_12: guess-file-girl-shield-gun-scene-mask-young-nest-come-breeze-ancient
+bip_39_word_dash_2: guess-file
+bip_39_word_dash_3: guess-file-girl
+bip_39_word_dash_4: guess-file-girl-shield
+bip_39_word_dash_5: guess-file-girl-shield-gun
+bip_39_word_dash_6: guess-file-girl-shield-gun-scene
+bip_39_word_dash_7: guess-file-girl-shield-gun-scene-mask
+bip_39_word_dash_8: guess-file-girl-shield-gun-scene-mask-young
+bip_39_word_dash_9: guess-file-girl-shield-gun-scene-mask-young-nest
 bip_39_word_new_br_1: guess
 bip_39_word_new_br_10: guess<br>file<br>girl<br>shield<br>gun<br>scene<br>mask<br>young<br>nest<br>come
 bip_39_word_new_br_11: guess<br>file<br>girl<br>shield<br>gun<br>scene<br>mask<br>young<br>nest<br>come<br>breeze
@@ -192,6 +204,18 @@ bip_39_word_space_6: guess file girl shield gun scene
 bip_39_word_space_7: guess file girl shield gun scene mask
 bip_39_word_space_8: guess file girl shield gun scene mask young
 bip_39_word_space_9: guess file girl shield gun scene mask young nest
+bip_39_word_underscore_1: guess
+bip_39_word_underscore_10: guess_file_girl_shield_gun_scene_mask_young_nest_come
+bip_39_word_underscore_11: guess_file_girl_shield_gun_scene_mask_young_nest_come_breeze
+bip_39_word_underscore_12: guess_file_girl_shield_gun_scene_mask_young_nest_come_breeze_ancient
+bip_39_word_underscore_2: guess_file
+bip_39_word_underscore_3: guess_file_girl
+bip_39_word_underscore_4: guess_file_girl_shield
+bip_39_word_underscore_5: guess_file_girl_shield_gun
+bip_39_word_underscore_6: guess_file_girl_shield_gun_scene
+bip_39_word_underscore_7: guess_file_girl_shield_gun_scene_mask
+bip_39_word_underscore_8: guess_file_girl_shield_gun_scene_mask_young
+bip_39_word_underscore_9: guess_file_girl_shield_gun_scene_mask_young_nest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

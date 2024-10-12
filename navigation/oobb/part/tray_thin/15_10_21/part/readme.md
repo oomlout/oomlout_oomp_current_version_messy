@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mass |  
+| bip_39_word_dash_10 | mass-circle-wing-opinion-glory-exact-roast-coffee-wink-crumble |  
+| bip_39_word_dash_11 | mass-circle-wing-opinion-glory-exact-roast-coffee-wink-crumble-machine |  
+| bip_39_word_dash_12 | mass-circle-wing-opinion-glory-exact-roast-coffee-wink-crumble-machine-above |  
+| bip_39_word_dash_2 | mass-circle |  
+| bip_39_word_dash_3 | mass-circle-wing |  
+| bip_39_word_dash_4 | mass-circle-wing-opinion |  
+| bip_39_word_dash_5 | mass-circle-wing-opinion-glory |  
+| bip_39_word_dash_6 | mass-circle-wing-opinion-glory-exact |  
+| bip_39_word_dash_7 | mass-circle-wing-opinion-glory-exact-roast |  
+| bip_39_word_dash_8 | mass-circle-wing-opinion-glory-exact-roast-coffee |  
+| bip_39_word_dash_9 | mass-circle-wing-opinion-glory-exact-roast-coffee-wink |  
 | bip_39_word_new_br_1 | mass |  
 | bip_39_word_new_br_10 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble |  
 | bip_39_word_new_br_11 | mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble<br>machine |  
@@ -147,6 +159,18 @@ wink |
 | bip_39_word_space_7 | mass circle wing opinion glory exact roast |  
 | bip_39_word_space_8 | mass circle wing opinion glory exact roast coffee |  
 | bip_39_word_space_9 | mass circle wing opinion glory exact roast coffee wink |  
+| bip_39_word_underscore_1 | mass |  
+| bip_39_word_underscore_10 | mass_circle_wing_opinion_glory_exact_roast_coffee_wink_crumble |  
+| bip_39_word_underscore_11 | mass_circle_wing_opinion_glory_exact_roast_coffee_wink_crumble_machine |  
+| bip_39_word_underscore_12 | mass_circle_wing_opinion_glory_exact_roast_coffee_wink_crumble_machine_above |  
+| bip_39_word_underscore_2 | mass_circle |  
+| bip_39_word_underscore_3 | mass_circle_wing |  
+| bip_39_word_underscore_4 | mass_circle_wing_opinion |  
+| bip_39_word_underscore_5 | mass_circle_wing_opinion_glory |  
+| bip_39_word_underscore_6 | mass_circle_wing_opinion_glory_exact |  
+| bip_39_word_underscore_7 | mass_circle_wing_opinion_glory_exact_roast |  
+| bip_39_word_underscore_8 | mass_circle_wing_opinion_glory_exact_roast_coffee |  
+| bip_39_word_underscore_9 | mass_circle_wing_opinion_glory_exact_roast_coffee_wink |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

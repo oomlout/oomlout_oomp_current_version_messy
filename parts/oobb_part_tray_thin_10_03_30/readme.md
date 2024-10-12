@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | priority |  
+| bip_39_word_dash_10 | priority-pigeon-lesson-dust-sea-rhythm-analyst-warm-segment-opera |  
+| bip_39_word_dash_11 | priority-pigeon-lesson-dust-sea-rhythm-analyst-warm-segment-opera-unveil |  
+| bip_39_word_dash_12 | priority-pigeon-lesson-dust-sea-rhythm-analyst-warm-segment-opera-unveil-above |  
+| bip_39_word_dash_2 | priority-pigeon |  
+| bip_39_word_dash_3 | priority-pigeon-lesson |  
+| bip_39_word_dash_4 | priority-pigeon-lesson-dust |  
+| bip_39_word_dash_5 | priority-pigeon-lesson-dust-sea |  
+| bip_39_word_dash_6 | priority-pigeon-lesson-dust-sea-rhythm |  
+| bip_39_word_dash_7 | priority-pigeon-lesson-dust-sea-rhythm-analyst |  
+| bip_39_word_dash_8 | priority-pigeon-lesson-dust-sea-rhythm-analyst-warm |  
+| bip_39_word_dash_9 | priority-pigeon-lesson-dust-sea-rhythm-analyst-warm-segment |  
 | bip_39_word_new_br_1 | priority |  
 | bip_39_word_new_br_10 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm<br>segment<br>opera |  
 | bip_39_word_new_br_11 | priority<br>pigeon<br>lesson<br>dust<br>sea<br>rhythm<br>analyst<br>warm<br>segment<br>opera<br>unveil |  
@@ -147,6 +159,18 @@ segment |
 | bip_39_word_space_7 | priority pigeon lesson dust sea rhythm analyst |  
 | bip_39_word_space_8 | priority pigeon lesson dust sea rhythm analyst warm |  
 | bip_39_word_space_9 | priority pigeon lesson dust sea rhythm analyst warm segment |  
+| bip_39_word_underscore_1 | priority |  
+| bip_39_word_underscore_10 | priority_pigeon_lesson_dust_sea_rhythm_analyst_warm_segment_opera |  
+| bip_39_word_underscore_11 | priority_pigeon_lesson_dust_sea_rhythm_analyst_warm_segment_opera_unveil |  
+| bip_39_word_underscore_12 | priority_pigeon_lesson_dust_sea_rhythm_analyst_warm_segment_opera_unveil_above |  
+| bip_39_word_underscore_2 | priority_pigeon |  
+| bip_39_word_underscore_3 | priority_pigeon_lesson |  
+| bip_39_word_underscore_4 | priority_pigeon_lesson_dust |  
+| bip_39_word_underscore_5 | priority_pigeon_lesson_dust_sea |  
+| bip_39_word_underscore_6 | priority_pigeon_lesson_dust_sea_rhythm |  
+| bip_39_word_underscore_7 | priority_pigeon_lesson_dust_sea_rhythm_analyst |  
+| bip_39_word_underscore_8 | priority_pigeon_lesson_dust_sea_rhythm_analyst_warm |  
+| bip_39_word_underscore_9 | priority_pigeon_lesson_dust_sea_rhythm_analyst_warm_segment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

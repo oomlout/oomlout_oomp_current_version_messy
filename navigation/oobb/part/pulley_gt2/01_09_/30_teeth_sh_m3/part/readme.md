@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | north |  
+| bip_39_word_dash_10 | north-finish-during-auction-supply-cupboard-near-giraffe-tired-settle |  
+| bip_39_word_dash_11 | north-finish-during-auction-supply-cupboard-near-giraffe-tired-settle-stand |  
+| bip_39_word_dash_12 | north-finish-during-auction-supply-cupboard-near-giraffe-tired-settle-stand-anger |  
+| bip_39_word_dash_2 | north-finish |  
+| bip_39_word_dash_3 | north-finish-during |  
+| bip_39_word_dash_4 | north-finish-during-auction |  
+| bip_39_word_dash_5 | north-finish-during-auction-supply |  
+| bip_39_word_dash_6 | north-finish-during-auction-supply-cupboard |  
+| bip_39_word_dash_7 | north-finish-during-auction-supply-cupboard-near |  
+| bip_39_word_dash_8 | north-finish-during-auction-supply-cupboard-near-giraffe |  
+| bip_39_word_dash_9 | north-finish-during-auction-supply-cupboard-near-giraffe-tired |  
 | bip_39_word_new_br_1 | north |  
 | bip_39_word_new_br_10 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe<br>tired<br>settle |  
 | bip_39_word_new_br_11 | north<br>finish<br>during<br>auction<br>supply<br>cupboard<br>near<br>giraffe<br>tired<br>settle<br>stand |  
@@ -147,6 +159,18 @@ tired |
 | bip_39_word_space_7 | north finish during auction supply cupboard near |  
 | bip_39_word_space_8 | north finish during auction supply cupboard near giraffe |  
 | bip_39_word_space_9 | north finish during auction supply cupboard near giraffe tired |  
+| bip_39_word_underscore_1 | north |  
+| bip_39_word_underscore_10 | north_finish_during_auction_supply_cupboard_near_giraffe_tired_settle |  
+| bip_39_word_underscore_11 | north_finish_during_auction_supply_cupboard_near_giraffe_tired_settle_stand |  
+| bip_39_word_underscore_12 | north_finish_during_auction_supply_cupboard_near_giraffe_tired_settle_stand_anger |  
+| bip_39_word_underscore_2 | north_finish |  
+| bip_39_word_underscore_3 | north_finish_during |  
+| bip_39_word_underscore_4 | north_finish_during_auction |  
+| bip_39_word_underscore_5 | north_finish_during_auction_supply |  
+| bip_39_word_underscore_6 | north_finish_during_auction_supply_cupboard |  
+| bip_39_word_underscore_7 | north_finish_during_auction_supply_cupboard_near |  
+| bip_39_word_underscore_8 | north_finish_during_auction_supply_cupboard_near_giraffe |  
+| bip_39_word_underscore_9 | north_finish_during_auction_supply_cupboard_near_giraffe_tired |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

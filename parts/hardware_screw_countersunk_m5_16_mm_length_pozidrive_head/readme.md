@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | parrot |  
+| bip_39_word_dash_10 | parrot-maid-puzzle-kitten-senior-lobster-bundle-merry-dinosaur-people |  
+| bip_39_word_dash_11 | parrot-maid-puzzle-kitten-senior-lobster-bundle-merry-dinosaur-people-mix |  
+| bip_39_word_dash_12 | parrot-maid-puzzle-kitten-senior-lobster-bundle-merry-dinosaur-people-mix-antenna |  
+| bip_39_word_dash_2 | parrot-maid |  
+| bip_39_word_dash_3 | parrot-maid-puzzle |  
+| bip_39_word_dash_4 | parrot-maid-puzzle-kitten |  
+| bip_39_word_dash_5 | parrot-maid-puzzle-kitten-senior |  
+| bip_39_word_dash_6 | parrot-maid-puzzle-kitten-senior-lobster |  
+| bip_39_word_dash_7 | parrot-maid-puzzle-kitten-senior-lobster-bundle |  
+| bip_39_word_dash_8 | parrot-maid-puzzle-kitten-senior-lobster-bundle-merry |  
+| bip_39_word_dash_9 | parrot-maid-puzzle-kitten-senior-lobster-bundle-merry-dinosaur |  
 | bip_39_word_new_br_1 | parrot |  
 | bip_39_word_new_br_10 | parrot<br>maid<br>puzzle<br>kitten<br>senior<br>lobster<br>bundle<br>merry<br>dinosaur<br>people |  
 | bip_39_word_new_br_11 | parrot<br>maid<br>puzzle<br>kitten<br>senior<br>lobster<br>bundle<br>merry<br>dinosaur<br>people<br>mix |  
@@ -147,6 +159,18 @@ dinosaur |
 | bip_39_word_space_7 | parrot maid puzzle kitten senior lobster bundle |  
 | bip_39_word_space_8 | parrot maid puzzle kitten senior lobster bundle merry |  
 | bip_39_word_space_9 | parrot maid puzzle kitten senior lobster bundle merry dinosaur |  
+| bip_39_word_underscore_1 | parrot |  
+| bip_39_word_underscore_10 | parrot_maid_puzzle_kitten_senior_lobster_bundle_merry_dinosaur_people |  
+| bip_39_word_underscore_11 | parrot_maid_puzzle_kitten_senior_lobster_bundle_merry_dinosaur_people_mix |  
+| bip_39_word_underscore_12 | parrot_maid_puzzle_kitten_senior_lobster_bundle_merry_dinosaur_people_mix_antenna |  
+| bip_39_word_underscore_2 | parrot_maid |  
+| bip_39_word_underscore_3 | parrot_maid_puzzle |  
+| bip_39_word_underscore_4 | parrot_maid_puzzle_kitten |  
+| bip_39_word_underscore_5 | parrot_maid_puzzle_kitten_senior |  
+| bip_39_word_underscore_6 | parrot_maid_puzzle_kitten_senior_lobster |  
+| bip_39_word_underscore_7 | parrot_maid_puzzle_kitten_senior_lobster_bundle |  
+| bip_39_word_underscore_8 | parrot_maid_puzzle_kitten_senior_lobster_bundle_merry |  
+| bip_39_word_underscore_9 | parrot_maid_puzzle_kitten_senior_lobster_bundle_merry_dinosaur |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

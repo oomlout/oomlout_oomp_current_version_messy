@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | praise |  
+| bip_39_word_dash_10 | praise-insect-lady-invest-vacuum-armed-truly-story-balance-hybrid |  
+| bip_39_word_dash_11 | praise-insect-lady-invest-vacuum-armed-truly-story-balance-hybrid-spice |  
+| bip_39_word_dash_12 | praise-insect-lady-invest-vacuum-armed-truly-story-balance-hybrid-spice-accident |  
+| bip_39_word_dash_2 | praise-insect |  
+| bip_39_word_dash_3 | praise-insect-lady |  
+| bip_39_word_dash_4 | praise-insect-lady-invest |  
+| bip_39_word_dash_5 | praise-insect-lady-invest-vacuum |  
+| bip_39_word_dash_6 | praise-insect-lady-invest-vacuum-armed |  
+| bip_39_word_dash_7 | praise-insect-lady-invest-vacuum-armed-truly |  
+| bip_39_word_dash_8 | praise-insect-lady-invest-vacuum-armed-truly-story |  
+| bip_39_word_dash_9 | praise-insect-lady-invest-vacuum-armed-truly-story-balance |  
 | bip_39_word_new_br_1 | praise |  
 | bip_39_word_new_br_10 | praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid |  
 | bip_39_word_new_br_11 | praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid<br>spice |  
@@ -147,6 +159,18 @@ balance |
 | bip_39_word_space_7 | praise insect lady invest vacuum armed truly |  
 | bip_39_word_space_8 | praise insect lady invest vacuum armed truly story |  
 | bip_39_word_space_9 | praise insect lady invest vacuum armed truly story balance |  
+| bip_39_word_underscore_1 | praise |  
+| bip_39_word_underscore_10 | praise_insect_lady_invest_vacuum_armed_truly_story_balance_hybrid |  
+| bip_39_word_underscore_11 | praise_insect_lady_invest_vacuum_armed_truly_story_balance_hybrid_spice |  
+| bip_39_word_underscore_12 | praise_insect_lady_invest_vacuum_armed_truly_story_balance_hybrid_spice_accident |  
+| bip_39_word_underscore_2 | praise_insect |  
+| bip_39_word_underscore_3 | praise_insect_lady |  
+| bip_39_word_underscore_4 | praise_insect_lady_invest |  
+| bip_39_word_underscore_5 | praise_insect_lady_invest_vacuum |  
+| bip_39_word_underscore_6 | praise_insect_lady_invest_vacuum_armed |  
+| bip_39_word_underscore_7 | praise_insect_lady_invest_vacuum_armed_truly |  
+| bip_39_word_underscore_8 | praise_insect_lady_invest_vacuum_armed_truly_story |  
+| bip_39_word_underscore_9 | praise_insect_lady_invest_vacuum_armed_truly_story_balance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

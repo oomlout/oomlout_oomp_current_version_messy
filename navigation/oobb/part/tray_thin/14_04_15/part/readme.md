@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | involve |  
+| bip_39_word_dash_10 | involve-multiply-spawn-talent-suggest-outer-ostrich-review-casino-good |  
+| bip_39_word_dash_11 | involve-multiply-spawn-talent-suggest-outer-ostrich-review-casino-good-cause |  
+| bip_39_word_dash_12 | involve-multiply-spawn-talent-suggest-outer-ostrich-review-casino-good-cause-also |  
+| bip_39_word_dash_2 | involve-multiply |  
+| bip_39_word_dash_3 | involve-multiply-spawn |  
+| bip_39_word_dash_4 | involve-multiply-spawn-talent |  
+| bip_39_word_dash_5 | involve-multiply-spawn-talent-suggest |  
+| bip_39_word_dash_6 | involve-multiply-spawn-talent-suggest-outer |  
+| bip_39_word_dash_7 | involve-multiply-spawn-talent-suggest-outer-ostrich |  
+| bip_39_word_dash_8 | involve-multiply-spawn-talent-suggest-outer-ostrich-review |  
+| bip_39_word_dash_9 | involve-multiply-spawn-talent-suggest-outer-ostrich-review-casino |  
 | bip_39_word_new_br_1 | involve |  
 | bip_39_word_new_br_10 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review<br>casino<br>good |  
 | bip_39_word_new_br_11 | involve<br>multiply<br>spawn<br>talent<br>suggest<br>outer<br>ostrich<br>review<br>casino<br>good<br>cause |  
@@ -147,6 +159,18 @@ casino |
 | bip_39_word_space_7 | involve multiply spawn talent suggest outer ostrich |  
 | bip_39_word_space_8 | involve multiply spawn talent suggest outer ostrich review |  
 | bip_39_word_space_9 | involve multiply spawn talent suggest outer ostrich review casino |  
+| bip_39_word_underscore_1 | involve |  
+| bip_39_word_underscore_10 | involve_multiply_spawn_talent_suggest_outer_ostrich_review_casino_good |  
+| bip_39_word_underscore_11 | involve_multiply_spawn_talent_suggest_outer_ostrich_review_casino_good_cause |  
+| bip_39_word_underscore_12 | involve_multiply_spawn_talent_suggest_outer_ostrich_review_casino_good_cause_also |  
+| bip_39_word_underscore_2 | involve_multiply |  
+| bip_39_word_underscore_3 | involve_multiply_spawn |  
+| bip_39_word_underscore_4 | involve_multiply_spawn_talent |  
+| bip_39_word_underscore_5 | involve_multiply_spawn_talent_suggest |  
+| bip_39_word_underscore_6 | involve_multiply_spawn_talent_suggest_outer |  
+| bip_39_word_underscore_7 | involve_multiply_spawn_talent_suggest_outer_ostrich |  
+| bip_39_word_underscore_8 | involve_multiply_spawn_talent_suggest_outer_ostrich_review |  
+| bip_39_word_underscore_9 | involve_multiply_spawn_talent_suggest_outer_ostrich_review_casino |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

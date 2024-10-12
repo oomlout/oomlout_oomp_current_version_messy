@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | seven |  
+| bip_39_word_dash_10 | seven-alarm-student-human-health-wall-apart-nuclear-man-mechanic |  
+| bip_39_word_dash_11 | seven-alarm-student-human-health-wall-apart-nuclear-man-mechanic-pilot |  
+| bip_39_word_dash_12 | seven-alarm-student-human-health-wall-apart-nuclear-man-mechanic-pilot-answer |  
+| bip_39_word_dash_2 | seven-alarm |  
+| bip_39_word_dash_3 | seven-alarm-student |  
+| bip_39_word_dash_4 | seven-alarm-student-human |  
+| bip_39_word_dash_5 | seven-alarm-student-human-health |  
+| bip_39_word_dash_6 | seven-alarm-student-human-health-wall |  
+| bip_39_word_dash_7 | seven-alarm-student-human-health-wall-apart |  
+| bip_39_word_dash_8 | seven-alarm-student-human-health-wall-apart-nuclear |  
+| bip_39_word_dash_9 | seven-alarm-student-human-health-wall-apart-nuclear-man |  
 | bip_39_word_new_br_1 | seven |  
 | bip_39_word_new_br_10 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear<br>man<br>mechanic |  
 | bip_39_word_new_br_11 | seven<br>alarm<br>student<br>human<br>health<br>wall<br>apart<br>nuclear<br>man<br>mechanic<br>pilot |  
@@ -147,6 +159,18 @@ man |
 | bip_39_word_space_7 | seven alarm student human health wall apart |  
 | bip_39_word_space_8 | seven alarm student human health wall apart nuclear |  
 | bip_39_word_space_9 | seven alarm student human health wall apart nuclear man |  
+| bip_39_word_underscore_1 | seven |  
+| bip_39_word_underscore_10 | seven_alarm_student_human_health_wall_apart_nuclear_man_mechanic |  
+| bip_39_word_underscore_11 | seven_alarm_student_human_health_wall_apart_nuclear_man_mechanic_pilot |  
+| bip_39_word_underscore_12 | seven_alarm_student_human_health_wall_apart_nuclear_man_mechanic_pilot_answer |  
+| bip_39_word_underscore_2 | seven_alarm |  
+| bip_39_word_underscore_3 | seven_alarm_student |  
+| bip_39_word_underscore_4 | seven_alarm_student_human |  
+| bip_39_word_underscore_5 | seven_alarm_student_human_health |  
+| bip_39_word_underscore_6 | seven_alarm_student_human_health_wall |  
+| bip_39_word_underscore_7 | seven_alarm_student_human_health_wall_apart |  
+| bip_39_word_underscore_8 | seven_alarm_student_human_health_wall_apart_nuclear |  
+| bip_39_word_underscore_9 | seven_alarm_student_human_health_wall_apart_nuclear_man |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

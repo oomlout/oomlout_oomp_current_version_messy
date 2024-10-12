@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stone |  
+| bip_39_word_dash_10 | stone-shallow-build-true-sweet-bulb-anchor-pepper-divorce-bacon |  
+| bip_39_word_dash_11 | stone-shallow-build-true-sweet-bulb-anchor-pepper-divorce-bacon-click |  
+| bip_39_word_dash_12 | stone-shallow-build-true-sweet-bulb-anchor-pepper-divorce-bacon-click-asthma |  
+| bip_39_word_dash_2 | stone-shallow |  
+| bip_39_word_dash_3 | stone-shallow-build |  
+| bip_39_word_dash_4 | stone-shallow-build-true |  
+| bip_39_word_dash_5 | stone-shallow-build-true-sweet |  
+| bip_39_word_dash_6 | stone-shallow-build-true-sweet-bulb |  
+| bip_39_word_dash_7 | stone-shallow-build-true-sweet-bulb-anchor |  
+| bip_39_word_dash_8 | stone-shallow-build-true-sweet-bulb-anchor-pepper |  
+| bip_39_word_dash_9 | stone-shallow-build-true-sweet-bulb-anchor-pepper-divorce |  
 | bip_39_word_new_br_1 | stone |  
 | bip_39_word_new_br_10 | stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper<br>divorce<br>bacon |  
 | bip_39_word_new_br_11 | stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper<br>divorce<br>bacon<br>click |  
@@ -147,6 +159,18 @@ divorce |
 | bip_39_word_space_7 | stone shallow build true sweet bulb anchor |  
 | bip_39_word_space_8 | stone shallow build true sweet bulb anchor pepper |  
 | bip_39_word_space_9 | stone shallow build true sweet bulb anchor pepper divorce |  
+| bip_39_word_underscore_1 | stone |  
+| bip_39_word_underscore_10 | stone_shallow_build_true_sweet_bulb_anchor_pepper_divorce_bacon |  
+| bip_39_word_underscore_11 | stone_shallow_build_true_sweet_bulb_anchor_pepper_divorce_bacon_click |  
+| bip_39_word_underscore_12 | stone_shallow_build_true_sweet_bulb_anchor_pepper_divorce_bacon_click_asthma |  
+| bip_39_word_underscore_2 | stone_shallow |  
+| bip_39_word_underscore_3 | stone_shallow_build |  
+| bip_39_word_underscore_4 | stone_shallow_build_true |  
+| bip_39_word_underscore_5 | stone_shallow_build_true_sweet |  
+| bip_39_word_underscore_6 | stone_shallow_build_true_sweet_bulb |  
+| bip_39_word_underscore_7 | stone_shallow_build_true_sweet_bulb_anchor |  
+| bip_39_word_underscore_8 | stone_shallow_build_true_sweet_bulb_anchor_pepper |  
+| bip_39_word_underscore_9 | stone_shallow_build_true_sweet_bulb_anchor_pepper_divorce |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

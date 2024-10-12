@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | follow |  
+| bip_39_word_dash_10 | follow-shuffle-tackle-slot-possible-castle-profit-hire-size-february |  
+| bip_39_word_dash_11 | follow-shuffle-tackle-slot-possible-castle-profit-hire-size-february-exhibit |  
+| bip_39_word_dash_12 | follow-shuffle-tackle-slot-possible-castle-profit-hire-size-february-exhibit-aerobic |  
+| bip_39_word_dash_2 | follow-shuffle |  
+| bip_39_word_dash_3 | follow-shuffle-tackle |  
+| bip_39_word_dash_4 | follow-shuffle-tackle-slot |  
+| bip_39_word_dash_5 | follow-shuffle-tackle-slot-possible |  
+| bip_39_word_dash_6 | follow-shuffle-tackle-slot-possible-castle |  
+| bip_39_word_dash_7 | follow-shuffle-tackle-slot-possible-castle-profit |  
+| bip_39_word_dash_8 | follow-shuffle-tackle-slot-possible-castle-profit-hire |  
+| bip_39_word_dash_9 | follow-shuffle-tackle-slot-possible-castle-profit-hire-size |  
 | bip_39_word_new_br_1 | follow |  
 | bip_39_word_new_br_10 | follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire<br>size<br>february |  
 | bip_39_word_new_br_11 | follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire<br>size<br>february<br>exhibit |  
@@ -147,6 +159,18 @@ size |
 | bip_39_word_space_7 | follow shuffle tackle slot possible castle profit |  
 | bip_39_word_space_8 | follow shuffle tackle slot possible castle profit hire |  
 | bip_39_word_space_9 | follow shuffle tackle slot possible castle profit hire size |  
+| bip_39_word_underscore_1 | follow |  
+| bip_39_word_underscore_10 | follow_shuffle_tackle_slot_possible_castle_profit_hire_size_february |  
+| bip_39_word_underscore_11 | follow_shuffle_tackle_slot_possible_castle_profit_hire_size_february_exhibit |  
+| bip_39_word_underscore_12 | follow_shuffle_tackle_slot_possible_castle_profit_hire_size_february_exhibit_aerobic |  
+| bip_39_word_underscore_2 | follow_shuffle |  
+| bip_39_word_underscore_3 | follow_shuffle_tackle |  
+| bip_39_word_underscore_4 | follow_shuffle_tackle_slot |  
+| bip_39_word_underscore_5 | follow_shuffle_tackle_slot_possible |  
+| bip_39_word_underscore_6 | follow_shuffle_tackle_slot_possible_castle |  
+| bip_39_word_underscore_7 | follow_shuffle_tackle_slot_possible_castle_profit |  
+| bip_39_word_underscore_8 | follow_shuffle_tackle_slot_possible_castle_profit_hire |  
+| bip_39_word_underscore_9 | follow_shuffle_tackle_slot_possible_castle_profit_hire_size |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

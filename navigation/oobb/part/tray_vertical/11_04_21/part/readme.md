@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sad |  
+| bip_39_word_dash_10 | sad-rail-argue-head-spray-poverty-butter-veteran-lucky-harsh |  
+| bip_39_word_dash_11 | sad-rail-argue-head-spray-poverty-butter-veteran-lucky-harsh-comfort |  
+| bip_39_word_dash_12 | sad-rail-argue-head-spray-poverty-butter-veteran-lucky-harsh-comfort-air |  
+| bip_39_word_dash_2 | sad-rail |  
+| bip_39_word_dash_3 | sad-rail-argue |  
+| bip_39_word_dash_4 | sad-rail-argue-head |  
+| bip_39_word_dash_5 | sad-rail-argue-head-spray |  
+| bip_39_word_dash_6 | sad-rail-argue-head-spray-poverty |  
+| bip_39_word_dash_7 | sad-rail-argue-head-spray-poverty-butter |  
+| bip_39_word_dash_8 | sad-rail-argue-head-spray-poverty-butter-veteran |  
+| bip_39_word_dash_9 | sad-rail-argue-head-spray-poverty-butter-veteran-lucky |  
 | bip_39_word_new_br_1 | sad |  
 | bip_39_word_new_br_10 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh |  
 | bip_39_word_new_br_11 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh<br>comfort |  
@@ -147,6 +159,18 @@ lucky |
 | bip_39_word_space_7 | sad rail argue head spray poverty butter |  
 | bip_39_word_space_8 | sad rail argue head spray poverty butter veteran |  
 | bip_39_word_space_9 | sad rail argue head spray poverty butter veteran lucky |  
+| bip_39_word_underscore_1 | sad |  
+| bip_39_word_underscore_10 | sad_rail_argue_head_spray_poverty_butter_veteran_lucky_harsh |  
+| bip_39_word_underscore_11 | sad_rail_argue_head_spray_poverty_butter_veteran_lucky_harsh_comfort |  
+| bip_39_word_underscore_12 | sad_rail_argue_head_spray_poverty_butter_veteran_lucky_harsh_comfort_air |  
+| bip_39_word_underscore_2 | sad_rail |  
+| bip_39_word_underscore_3 | sad_rail_argue |  
+| bip_39_word_underscore_4 | sad_rail_argue_head |  
+| bip_39_word_underscore_5 | sad_rail_argue_head_spray |  
+| bip_39_word_underscore_6 | sad_rail_argue_head_spray_poverty |  
+| bip_39_word_underscore_7 | sad_rail_argue_head_spray_poverty_butter |  
+| bip_39_word_underscore_8 | sad_rail_argue_head_spray_poverty_butter_veteran |  
+| bip_39_word_underscore_9 | sad_rail_argue_head_spray_poverty_butter_veteran_lucky |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

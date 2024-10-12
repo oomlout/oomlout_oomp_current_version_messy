@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | then |  
+| bip_39_word_dash_10 | then-mansion-hundred-medal-deposit-ball-exchange-sort-educate-taxi |  
+| bip_39_word_dash_11 | then-mansion-hundred-medal-deposit-ball-exchange-sort-educate-taxi-tuition |  
+| bip_39_word_dash_12 | then-mansion-hundred-medal-deposit-ball-exchange-sort-educate-taxi-tuition-avocado |  
+| bip_39_word_dash_2 | then-mansion |  
+| bip_39_word_dash_3 | then-mansion-hundred |  
+| bip_39_word_dash_4 | then-mansion-hundred-medal |  
+| bip_39_word_dash_5 | then-mansion-hundred-medal-deposit |  
+| bip_39_word_dash_6 | then-mansion-hundred-medal-deposit-ball |  
+| bip_39_word_dash_7 | then-mansion-hundred-medal-deposit-ball-exchange |  
+| bip_39_word_dash_8 | then-mansion-hundred-medal-deposit-ball-exchange-sort |  
+| bip_39_word_dash_9 | then-mansion-hundred-medal-deposit-ball-exchange-sort-educate |  
 | bip_39_word_new_br_1 | then |  
 | bip_39_word_new_br_10 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi |  
 | bip_39_word_new_br_11 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi<br>tuition |  
@@ -147,6 +159,18 @@ educate |
 | bip_39_word_space_7 | then mansion hundred medal deposit ball exchange |  
 | bip_39_word_space_8 | then mansion hundred medal deposit ball exchange sort |  
 | bip_39_word_space_9 | then mansion hundred medal deposit ball exchange sort educate |  
+| bip_39_word_underscore_1 | then |  
+| bip_39_word_underscore_10 | then_mansion_hundred_medal_deposit_ball_exchange_sort_educate_taxi |  
+| bip_39_word_underscore_11 | then_mansion_hundred_medal_deposit_ball_exchange_sort_educate_taxi_tuition |  
+| bip_39_word_underscore_12 | then_mansion_hundred_medal_deposit_ball_exchange_sort_educate_taxi_tuition_avocado |  
+| bip_39_word_underscore_2 | then_mansion |  
+| bip_39_word_underscore_3 | then_mansion_hundred |  
+| bip_39_word_underscore_4 | then_mansion_hundred_medal |  
+| bip_39_word_underscore_5 | then_mansion_hundred_medal_deposit |  
+| bip_39_word_underscore_6 | then_mansion_hundred_medal_deposit_ball |  
+| bip_39_word_underscore_7 | then_mansion_hundred_medal_deposit_ball_exchange |  
+| bip_39_word_underscore_8 | then_mansion_hundred_medal_deposit_ball_exchange_sort |  
+| bip_39_word_underscore_9 | then_mansion_hundred_medal_deposit_ball_exchange_sort_educate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

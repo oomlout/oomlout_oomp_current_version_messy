@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vivid |  
+| bip_39_word_dash_10 | vivid-cushion-future-wash-cargo-pudding-coil-interest-defy-match |  
+| bip_39_word_dash_11 | vivid-cushion-future-wash-cargo-pudding-coil-interest-defy-match-social |  
+| bip_39_word_dash_12 | vivid-cushion-future-wash-cargo-pudding-coil-interest-defy-match-social-attend |  
+| bip_39_word_dash_2 | vivid-cushion |  
+| bip_39_word_dash_3 | vivid-cushion-future |  
+| bip_39_word_dash_4 | vivid-cushion-future-wash |  
+| bip_39_word_dash_5 | vivid-cushion-future-wash-cargo |  
+| bip_39_word_dash_6 | vivid-cushion-future-wash-cargo-pudding |  
+| bip_39_word_dash_7 | vivid-cushion-future-wash-cargo-pudding-coil |  
+| bip_39_word_dash_8 | vivid-cushion-future-wash-cargo-pudding-coil-interest |  
+| bip_39_word_dash_9 | vivid-cushion-future-wash-cargo-pudding-coil-interest-defy |  
 | bip_39_word_new_br_1 | vivid |  
 | bip_39_word_new_br_10 | vivid<br>cushion<br>future<br>wash<br>cargo<br>pudding<br>coil<br>interest<br>defy<br>match |  
 | bip_39_word_new_br_11 | vivid<br>cushion<br>future<br>wash<br>cargo<br>pudding<br>coil<br>interest<br>defy<br>match<br>social |  
@@ -147,6 +159,18 @@ defy |
 | bip_39_word_space_7 | vivid cushion future wash cargo pudding coil |  
 | bip_39_word_space_8 | vivid cushion future wash cargo pudding coil interest |  
 | bip_39_word_space_9 | vivid cushion future wash cargo pudding coil interest defy |  
+| bip_39_word_underscore_1 | vivid |  
+| bip_39_word_underscore_10 | vivid_cushion_future_wash_cargo_pudding_coil_interest_defy_match |  
+| bip_39_word_underscore_11 | vivid_cushion_future_wash_cargo_pudding_coil_interest_defy_match_social |  
+| bip_39_word_underscore_12 | vivid_cushion_future_wash_cargo_pudding_coil_interest_defy_match_social_attend |  
+| bip_39_word_underscore_2 | vivid_cushion |  
+| bip_39_word_underscore_3 | vivid_cushion_future |  
+| bip_39_word_underscore_4 | vivid_cushion_future_wash |  
+| bip_39_word_underscore_5 | vivid_cushion_future_wash_cargo |  
+| bip_39_word_underscore_6 | vivid_cushion_future_wash_cargo_pudding |  
+| bip_39_word_underscore_7 | vivid_cushion_future_wash_cargo_pudding_coil |  
+| bip_39_word_underscore_8 | vivid_cushion_future_wash_cargo_pudding_coil_interest |  
+| bip_39_word_underscore_9 | vivid_cushion_future_wash_cargo_pudding_coil_interest_defy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

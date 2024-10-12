@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tribe |  
+| bip_39_word_dash_10 | tribe-coach-lift-debate-mimic-gather-sight-misery-castle-twin |  
+| bip_39_word_dash_11 | tribe-coach-lift-debate-mimic-gather-sight-misery-castle-twin-cluster |  
+| bip_39_word_dash_12 | tribe-coach-lift-debate-mimic-gather-sight-misery-castle-twin-cluster-any |  
+| bip_39_word_dash_2 | tribe-coach |  
+| bip_39_word_dash_3 | tribe-coach-lift |  
+| bip_39_word_dash_4 | tribe-coach-lift-debate |  
+| bip_39_word_dash_5 | tribe-coach-lift-debate-mimic |  
+| bip_39_word_dash_6 | tribe-coach-lift-debate-mimic-gather |  
+| bip_39_word_dash_7 | tribe-coach-lift-debate-mimic-gather-sight |  
+| bip_39_word_dash_8 | tribe-coach-lift-debate-mimic-gather-sight-misery |  
+| bip_39_word_dash_9 | tribe-coach-lift-debate-mimic-gather-sight-misery-castle |  
 | bip_39_word_new_br_1 | tribe |  
 | bip_39_word_new_br_10 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery<br>castle<br>twin |  
 | bip_39_word_new_br_11 | tribe<br>coach<br>lift<br>debate<br>mimic<br>gather<br>sight<br>misery<br>castle<br>twin<br>cluster |  
@@ -147,6 +159,18 @@ castle |
 | bip_39_word_space_7 | tribe coach lift debate mimic gather sight |  
 | bip_39_word_space_8 | tribe coach lift debate mimic gather sight misery |  
 | bip_39_word_space_9 | tribe coach lift debate mimic gather sight misery castle |  
+| bip_39_word_underscore_1 | tribe |  
+| bip_39_word_underscore_10 | tribe_coach_lift_debate_mimic_gather_sight_misery_castle_twin |  
+| bip_39_word_underscore_11 | tribe_coach_lift_debate_mimic_gather_sight_misery_castle_twin_cluster |  
+| bip_39_word_underscore_12 | tribe_coach_lift_debate_mimic_gather_sight_misery_castle_twin_cluster_any |  
+| bip_39_word_underscore_2 | tribe_coach |  
+| bip_39_word_underscore_3 | tribe_coach_lift |  
+| bip_39_word_underscore_4 | tribe_coach_lift_debate |  
+| bip_39_word_underscore_5 | tribe_coach_lift_debate_mimic |  
+| bip_39_word_underscore_6 | tribe_coach_lift_debate_mimic_gather |  
+| bip_39_word_underscore_7 | tribe_coach_lift_debate_mimic_gather_sight |  
+| bip_39_word_underscore_8 | tribe_coach_lift_debate_mimic_gather_sight_misery |  
+| bip_39_word_underscore_9 | tribe_coach_lift_debate_mimic_gather_sight_misery_castle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | page |  
+| bip_39_word_dash_10 | page-expect-also-laptop-imitate-essence-prepare-piece-recycle-sea |  
+| bip_39_word_dash_11 | page-expect-also-laptop-imitate-essence-prepare-piece-recycle-sea-blast |  
+| bip_39_word_dash_12 | page-expect-also-laptop-imitate-essence-prepare-piece-recycle-sea-blast-auto |  
+| bip_39_word_dash_2 | page-expect |  
+| bip_39_word_dash_3 | page-expect-also |  
+| bip_39_word_dash_4 | page-expect-also-laptop |  
+| bip_39_word_dash_5 | page-expect-also-laptop-imitate |  
+| bip_39_word_dash_6 | page-expect-also-laptop-imitate-essence |  
+| bip_39_word_dash_7 | page-expect-also-laptop-imitate-essence-prepare |  
+| bip_39_word_dash_8 | page-expect-also-laptop-imitate-essence-prepare-piece |  
+| bip_39_word_dash_9 | page-expect-also-laptop-imitate-essence-prepare-piece-recycle |  
 | bip_39_word_new_br_1 | page |  
 | bip_39_word_new_br_10 | page<br>expect<br>also<br>laptop<br>imitate<br>essence<br>prepare<br>piece<br>recycle<br>sea |  
 | bip_39_word_new_br_11 | page<br>expect<br>also<br>laptop<br>imitate<br>essence<br>prepare<br>piece<br>recycle<br>sea<br>blast |  
@@ -147,6 +159,18 @@ recycle |
 | bip_39_word_space_7 | page expect also laptop imitate essence prepare |  
 | bip_39_word_space_8 | page expect also laptop imitate essence prepare piece |  
 | bip_39_word_space_9 | page expect also laptop imitate essence prepare piece recycle |  
+| bip_39_word_underscore_1 | page |  
+| bip_39_word_underscore_10 | page_expect_also_laptop_imitate_essence_prepare_piece_recycle_sea |  
+| bip_39_word_underscore_11 | page_expect_also_laptop_imitate_essence_prepare_piece_recycle_sea_blast |  
+| bip_39_word_underscore_12 | page_expect_also_laptop_imitate_essence_prepare_piece_recycle_sea_blast_auto |  
+| bip_39_word_underscore_2 | page_expect |  
+| bip_39_word_underscore_3 | page_expect_also |  
+| bip_39_word_underscore_4 | page_expect_also_laptop |  
+| bip_39_word_underscore_5 | page_expect_also_laptop_imitate |  
+| bip_39_word_underscore_6 | page_expect_also_laptop_imitate_essence |  
+| bip_39_word_underscore_7 | page_expect_also_laptop_imitate_essence_prepare |  
+| bip_39_word_underscore_8 | page_expect_also_laptop_imitate_essence_prepare_piece |  
+| bip_39_word_underscore_9 | page_expect_also_laptop_imitate_essence_prepare_piece_recycle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

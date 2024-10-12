@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unaware
+bip_39_word_dash_10: unaware-inject-abandon-canvas-vicious-dish-cluster-profit-elevator-trouble
+bip_39_word_dash_11: unaware-inject-abandon-canvas-vicious-dish-cluster-profit-elevator-trouble-leisure
+bip_39_word_dash_12: unaware-inject-abandon-canvas-vicious-dish-cluster-profit-elevator-trouble-leisure-avocado
+bip_39_word_dash_2: unaware-inject
+bip_39_word_dash_3: unaware-inject-abandon
+bip_39_word_dash_4: unaware-inject-abandon-canvas
+bip_39_word_dash_5: unaware-inject-abandon-canvas-vicious
+bip_39_word_dash_6: unaware-inject-abandon-canvas-vicious-dish
+bip_39_word_dash_7: unaware-inject-abandon-canvas-vicious-dish-cluster
+bip_39_word_dash_8: unaware-inject-abandon-canvas-vicious-dish-cluster-profit
+bip_39_word_dash_9: unaware-inject-abandon-canvas-vicious-dish-cluster-profit-elevator
 bip_39_word_new_br_1: unaware
 bip_39_word_new_br_10: unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble
 bip_39_word_new_br_11: unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble<br>leisure
@@ -194,6 +206,18 @@ bip_39_word_space_6: unaware inject abandon canvas vicious dish
 bip_39_word_space_7: unaware inject abandon canvas vicious dish cluster
 bip_39_word_space_8: unaware inject abandon canvas vicious dish cluster profit
 bip_39_word_space_9: unaware inject abandon canvas vicious dish cluster profit elevator
+bip_39_word_underscore_1: unaware
+bip_39_word_underscore_10: unaware_inject_abandon_canvas_vicious_dish_cluster_profit_elevator_trouble
+bip_39_word_underscore_11: unaware_inject_abandon_canvas_vicious_dish_cluster_profit_elevator_trouble_leisure
+bip_39_word_underscore_12: unaware_inject_abandon_canvas_vicious_dish_cluster_profit_elevator_trouble_leisure_avocado
+bip_39_word_underscore_2: unaware_inject
+bip_39_word_underscore_3: unaware_inject_abandon
+bip_39_word_underscore_4: unaware_inject_abandon_canvas
+bip_39_word_underscore_5: unaware_inject_abandon_canvas_vicious
+bip_39_word_underscore_6: unaware_inject_abandon_canvas_vicious_dish
+bip_39_word_underscore_7: unaware_inject_abandon_canvas_vicious_dish_cluster
+bip_39_word_underscore_8: unaware_inject_abandon_canvas_vicious_dish_cluster_profit
+bip_39_word_underscore_9: unaware_inject_abandon_canvas_vicious_dish_cluster_profit_elevator
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

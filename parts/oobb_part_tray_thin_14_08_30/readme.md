@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | salute |  
+| bip_39_word_dash_10 | salute-expire-hurry-toss-assault-fat-quarter-turkey-glance-frog |  
+| bip_39_word_dash_11 | salute-expire-hurry-toss-assault-fat-quarter-turkey-glance-frog-possible |  
+| bip_39_word_dash_12 | salute-expire-hurry-toss-assault-fat-quarter-turkey-glance-frog-possible-absent |  
+| bip_39_word_dash_2 | salute-expire |  
+| bip_39_word_dash_3 | salute-expire-hurry |  
+| bip_39_word_dash_4 | salute-expire-hurry-toss |  
+| bip_39_word_dash_5 | salute-expire-hurry-toss-assault |  
+| bip_39_word_dash_6 | salute-expire-hurry-toss-assault-fat |  
+| bip_39_word_dash_7 | salute-expire-hurry-toss-assault-fat-quarter |  
+| bip_39_word_dash_8 | salute-expire-hurry-toss-assault-fat-quarter-turkey |  
+| bip_39_word_dash_9 | salute-expire-hurry-toss-assault-fat-quarter-turkey-glance |  
 | bip_39_word_new_br_1 | salute |  
 | bip_39_word_new_br_10 | salute<br>expire<br>hurry<br>toss<br>assault<br>fat<br>quarter<br>turkey<br>glance<br>frog |  
 | bip_39_word_new_br_11 | salute<br>expire<br>hurry<br>toss<br>assault<br>fat<br>quarter<br>turkey<br>glance<br>frog<br>possible |  
@@ -147,6 +159,18 @@ glance |
 | bip_39_word_space_7 | salute expire hurry toss assault fat quarter |  
 | bip_39_word_space_8 | salute expire hurry toss assault fat quarter turkey |  
 | bip_39_word_space_9 | salute expire hurry toss assault fat quarter turkey glance |  
+| bip_39_word_underscore_1 | salute |  
+| bip_39_word_underscore_10 | salute_expire_hurry_toss_assault_fat_quarter_turkey_glance_frog |  
+| bip_39_word_underscore_11 | salute_expire_hurry_toss_assault_fat_quarter_turkey_glance_frog_possible |  
+| bip_39_word_underscore_12 | salute_expire_hurry_toss_assault_fat_quarter_turkey_glance_frog_possible_absent |  
+| bip_39_word_underscore_2 | salute_expire |  
+| bip_39_word_underscore_3 | salute_expire_hurry |  
+| bip_39_word_underscore_4 | salute_expire_hurry_toss |  
+| bip_39_word_underscore_5 | salute_expire_hurry_toss_assault |  
+| bip_39_word_underscore_6 | salute_expire_hurry_toss_assault_fat |  
+| bip_39_word_underscore_7 | salute_expire_hurry_toss_assault_fat_quarter |  
+| bip_39_word_underscore_8 | salute_expire_hurry_toss_assault_fat_quarter_turkey |  
+| bip_39_word_underscore_9 | salute_expire_hurry_toss_assault_fat_quarter_turkey_glance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

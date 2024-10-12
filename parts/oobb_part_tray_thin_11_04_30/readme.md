@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alarm |  
+| bip_39_word_dash_10 | alarm-mirror-conduct-plastic-paddle-model-sting-credit-want-dumb |  
+| bip_39_word_dash_11 | alarm-mirror-conduct-plastic-paddle-model-sting-credit-want-dumb-come |  
+| bip_39_word_dash_12 | alarm-mirror-conduct-plastic-paddle-model-sting-credit-want-dumb-come-addict |  
+| bip_39_word_dash_2 | alarm-mirror |  
+| bip_39_word_dash_3 | alarm-mirror-conduct |  
+| bip_39_word_dash_4 | alarm-mirror-conduct-plastic |  
+| bip_39_word_dash_5 | alarm-mirror-conduct-plastic-paddle |  
+| bip_39_word_dash_6 | alarm-mirror-conduct-plastic-paddle-model |  
+| bip_39_word_dash_7 | alarm-mirror-conduct-plastic-paddle-model-sting |  
+| bip_39_word_dash_8 | alarm-mirror-conduct-plastic-paddle-model-sting-credit |  
+| bip_39_word_dash_9 | alarm-mirror-conduct-plastic-paddle-model-sting-credit-want |  
 | bip_39_word_new_br_1 | alarm |  
 | bip_39_word_new_br_10 | alarm<br>mirror<br>conduct<br>plastic<br>paddle<br>model<br>sting<br>credit<br>want<br>dumb |  
 | bip_39_word_new_br_11 | alarm<br>mirror<br>conduct<br>plastic<br>paddle<br>model<br>sting<br>credit<br>want<br>dumb<br>come |  
@@ -147,6 +159,18 @@ want |
 | bip_39_word_space_7 | alarm mirror conduct plastic paddle model sting |  
 | bip_39_word_space_8 | alarm mirror conduct plastic paddle model sting credit |  
 | bip_39_word_space_9 | alarm mirror conduct plastic paddle model sting credit want |  
+| bip_39_word_underscore_1 | alarm |  
+| bip_39_word_underscore_10 | alarm_mirror_conduct_plastic_paddle_model_sting_credit_want_dumb |  
+| bip_39_word_underscore_11 | alarm_mirror_conduct_plastic_paddle_model_sting_credit_want_dumb_come |  
+| bip_39_word_underscore_12 | alarm_mirror_conduct_plastic_paddle_model_sting_credit_want_dumb_come_addict |  
+| bip_39_word_underscore_2 | alarm_mirror |  
+| bip_39_word_underscore_3 | alarm_mirror_conduct |  
+| bip_39_word_underscore_4 | alarm_mirror_conduct_plastic |  
+| bip_39_word_underscore_5 | alarm_mirror_conduct_plastic_paddle |  
+| bip_39_word_underscore_6 | alarm_mirror_conduct_plastic_paddle_model |  
+| bip_39_word_underscore_7 | alarm_mirror_conduct_plastic_paddle_model_sting |  
+| bip_39_word_underscore_8 | alarm_mirror_conduct_plastic_paddle_model_sting_credit |  
+| bip_39_word_underscore_9 | alarm_mirror_conduct_plastic_paddle_model_sting_credit_want |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

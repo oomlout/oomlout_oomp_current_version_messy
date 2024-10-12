@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assist |  
+| bip_39_word_dash_10 | assist-polar-fence-hurry-orbit-birth-ensure-sadness-pond-battle |  
+| bip_39_word_dash_11 | assist-polar-fence-hurry-orbit-birth-ensure-sadness-pond-battle-charge |  
+| bip_39_word_dash_12 | assist-polar-fence-hurry-orbit-birth-ensure-sadness-pond-battle-charge-addict |  
+| bip_39_word_dash_2 | assist-polar |  
+| bip_39_word_dash_3 | assist-polar-fence |  
+| bip_39_word_dash_4 | assist-polar-fence-hurry |  
+| bip_39_word_dash_5 | assist-polar-fence-hurry-orbit |  
+| bip_39_word_dash_6 | assist-polar-fence-hurry-orbit-birth |  
+| bip_39_word_dash_7 | assist-polar-fence-hurry-orbit-birth-ensure |  
+| bip_39_word_dash_8 | assist-polar-fence-hurry-orbit-birth-ensure-sadness |  
+| bip_39_word_dash_9 | assist-polar-fence-hurry-orbit-birth-ensure-sadness-pond |  
 | bip_39_word_new_br_1 | assist |  
 | bip_39_word_new_br_10 | assist<br>polar<br>fence<br>hurry<br>orbit<br>birth<br>ensure<br>sadness<br>pond<br>battle |  
 | bip_39_word_new_br_11 | assist<br>polar<br>fence<br>hurry<br>orbit<br>birth<br>ensure<br>sadness<br>pond<br>battle<br>charge |  
@@ -147,6 +159,18 @@ pond |
 | bip_39_word_space_7 | assist polar fence hurry orbit birth ensure |  
 | bip_39_word_space_8 | assist polar fence hurry orbit birth ensure sadness |  
 | bip_39_word_space_9 | assist polar fence hurry orbit birth ensure sadness pond |  
+| bip_39_word_underscore_1 | assist |  
+| bip_39_word_underscore_10 | assist_polar_fence_hurry_orbit_birth_ensure_sadness_pond_battle |  
+| bip_39_word_underscore_11 | assist_polar_fence_hurry_orbit_birth_ensure_sadness_pond_battle_charge |  
+| bip_39_word_underscore_12 | assist_polar_fence_hurry_orbit_birth_ensure_sadness_pond_battle_charge_addict |  
+| bip_39_word_underscore_2 | assist_polar |  
+| bip_39_word_underscore_3 | assist_polar_fence |  
+| bip_39_word_underscore_4 | assist_polar_fence_hurry |  
+| bip_39_word_underscore_5 | assist_polar_fence_hurry_orbit |  
+| bip_39_word_underscore_6 | assist_polar_fence_hurry_orbit_birth |  
+| bip_39_word_underscore_7 | assist_polar_fence_hurry_orbit_birth_ensure |  
+| bip_39_word_underscore_8 | assist_polar_fence_hurry_orbit_birth_ensure_sadness |  
+| bip_39_word_underscore_9 | assist_polar_fence_hurry_orbit_birth_ensure_sadness_pond |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

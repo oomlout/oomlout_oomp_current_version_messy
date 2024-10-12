@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eager |  
+| bip_39_word_dash_10 | eager-repeat-palm-recycle-betray-ridge-front-column-pause-hundred |  
+| bip_39_word_dash_11 | eager-repeat-palm-recycle-betray-ridge-front-column-pause-hundred-edge |  
+| bip_39_word_dash_12 | eager-repeat-palm-recycle-betray-ridge-front-column-pause-hundred-edge-assist |  
+| bip_39_word_dash_2 | eager-repeat |  
+| bip_39_word_dash_3 | eager-repeat-palm |  
+| bip_39_word_dash_4 | eager-repeat-palm-recycle |  
+| bip_39_word_dash_5 | eager-repeat-palm-recycle-betray |  
+| bip_39_word_dash_6 | eager-repeat-palm-recycle-betray-ridge |  
+| bip_39_word_dash_7 | eager-repeat-palm-recycle-betray-ridge-front |  
+| bip_39_word_dash_8 | eager-repeat-palm-recycle-betray-ridge-front-column |  
+| bip_39_word_dash_9 | eager-repeat-palm-recycle-betray-ridge-front-column-pause |  
 | bip_39_word_new_br_1 | eager |  
 | bip_39_word_new_br_10 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred |  
 | bip_39_word_new_br_11 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred<br>edge |  
@@ -147,6 +159,18 @@ pause |
 | bip_39_word_space_7 | eager repeat palm recycle betray ridge front |  
 | bip_39_word_space_8 | eager repeat palm recycle betray ridge front column |  
 | bip_39_word_space_9 | eager repeat palm recycle betray ridge front column pause |  
+| bip_39_word_underscore_1 | eager |  
+| bip_39_word_underscore_10 | eager_repeat_palm_recycle_betray_ridge_front_column_pause_hundred |  
+| bip_39_word_underscore_11 | eager_repeat_palm_recycle_betray_ridge_front_column_pause_hundred_edge |  
+| bip_39_word_underscore_12 | eager_repeat_palm_recycle_betray_ridge_front_column_pause_hundred_edge_assist |  
+| bip_39_word_underscore_2 | eager_repeat |  
+| bip_39_word_underscore_3 | eager_repeat_palm |  
+| bip_39_word_underscore_4 | eager_repeat_palm_recycle |  
+| bip_39_word_underscore_5 | eager_repeat_palm_recycle_betray |  
+| bip_39_word_underscore_6 | eager_repeat_palm_recycle_betray_ridge |  
+| bip_39_word_underscore_7 | eager_repeat_palm_recycle_betray_ridge_front |  
+| bip_39_word_underscore_8 | eager_repeat_palm_recycle_betray_ridge_front_column |  
+| bip_39_word_underscore_9 | eager_repeat_palm_recycle_betray_ridge_front_column_pause |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

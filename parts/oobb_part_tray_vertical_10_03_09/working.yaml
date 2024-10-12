@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inspire
+bip_39_word_dash_10: inspire-liar-goose-stock-insect-slush-shoot-floor-abstract-pair
+bip_39_word_dash_11: inspire-liar-goose-stock-insect-slush-shoot-floor-abstract-pair-craft
+bip_39_word_dash_12: inspire-liar-goose-stock-insect-slush-shoot-floor-abstract-pair-craft-arrest
+bip_39_word_dash_2: inspire-liar
+bip_39_word_dash_3: inspire-liar-goose
+bip_39_word_dash_4: inspire-liar-goose-stock
+bip_39_word_dash_5: inspire-liar-goose-stock-insect
+bip_39_word_dash_6: inspire-liar-goose-stock-insect-slush
+bip_39_word_dash_7: inspire-liar-goose-stock-insect-slush-shoot
+bip_39_word_dash_8: inspire-liar-goose-stock-insect-slush-shoot-floor
+bip_39_word_dash_9: inspire-liar-goose-stock-insect-slush-shoot-floor-abstract
 bip_39_word_new_br_1: inspire
 bip_39_word_new_br_10: inspire<br>liar<br>goose<br>stock<br>insect<br>slush<br>shoot<br>floor<br>abstract<br>pair
 bip_39_word_new_br_11: inspire<br>liar<br>goose<br>stock<br>insect<br>slush<br>shoot<br>floor<br>abstract<br>pair<br>craft
@@ -193,6 +205,18 @@ bip_39_word_space_6: inspire liar goose stock insect slush
 bip_39_word_space_7: inspire liar goose stock insect slush shoot
 bip_39_word_space_8: inspire liar goose stock insect slush shoot floor
 bip_39_word_space_9: inspire liar goose stock insect slush shoot floor abstract
+bip_39_word_underscore_1: inspire
+bip_39_word_underscore_10: inspire_liar_goose_stock_insect_slush_shoot_floor_abstract_pair
+bip_39_word_underscore_11: inspire_liar_goose_stock_insect_slush_shoot_floor_abstract_pair_craft
+bip_39_word_underscore_12: inspire_liar_goose_stock_insect_slush_shoot_floor_abstract_pair_craft_arrest
+bip_39_word_underscore_2: inspire_liar
+bip_39_word_underscore_3: inspire_liar_goose
+bip_39_word_underscore_4: inspire_liar_goose_stock
+bip_39_word_underscore_5: inspire_liar_goose_stock_insect
+bip_39_word_underscore_6: inspire_liar_goose_stock_insect_slush
+bip_39_word_underscore_7: inspire_liar_goose_stock_insect_slush_shoot
+bip_39_word_underscore_8: inspire_liar_goose_stock_insect_slush_shoot_floor
+bip_39_word_underscore_9: inspire_liar_goose_stock_insect_slush_shoot_floor_abstract
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

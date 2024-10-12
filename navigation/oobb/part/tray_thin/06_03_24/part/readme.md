@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soccer |  
+| bip_39_word_dash_10 | soccer-laptop-tennis-cream-gaze-pattern-because-enact-foster-cool |  
+| bip_39_word_dash_11 | soccer-laptop-tennis-cream-gaze-pattern-because-enact-foster-cool-burden |  
+| bip_39_word_dash_12 | soccer-laptop-tennis-cream-gaze-pattern-because-enact-foster-cool-burden-angle |  
+| bip_39_word_dash_2 | soccer-laptop |  
+| bip_39_word_dash_3 | soccer-laptop-tennis |  
+| bip_39_word_dash_4 | soccer-laptop-tennis-cream |  
+| bip_39_word_dash_5 | soccer-laptop-tennis-cream-gaze |  
+| bip_39_word_dash_6 | soccer-laptop-tennis-cream-gaze-pattern |  
+| bip_39_word_dash_7 | soccer-laptop-tennis-cream-gaze-pattern-because |  
+| bip_39_word_dash_8 | soccer-laptop-tennis-cream-gaze-pattern-because-enact |  
+| bip_39_word_dash_9 | soccer-laptop-tennis-cream-gaze-pattern-because-enact-foster |  
 | bip_39_word_new_br_1 | soccer |  
 | bip_39_word_new_br_10 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool |  
 | bip_39_word_new_br_11 | soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool<br>burden |  
@@ -147,6 +159,18 @@ foster |
 | bip_39_word_space_7 | soccer laptop tennis cream gaze pattern because |  
 | bip_39_word_space_8 | soccer laptop tennis cream gaze pattern because enact |  
 | bip_39_word_space_9 | soccer laptop tennis cream gaze pattern because enact foster |  
+| bip_39_word_underscore_1 | soccer |  
+| bip_39_word_underscore_10 | soccer_laptop_tennis_cream_gaze_pattern_because_enact_foster_cool |  
+| bip_39_word_underscore_11 | soccer_laptop_tennis_cream_gaze_pattern_because_enact_foster_cool_burden |  
+| bip_39_word_underscore_12 | soccer_laptop_tennis_cream_gaze_pattern_because_enact_foster_cool_burden_angle |  
+| bip_39_word_underscore_2 | soccer_laptop |  
+| bip_39_word_underscore_3 | soccer_laptop_tennis |  
+| bip_39_word_underscore_4 | soccer_laptop_tennis_cream |  
+| bip_39_word_underscore_5 | soccer_laptop_tennis_cream_gaze |  
+| bip_39_word_underscore_6 | soccer_laptop_tennis_cream_gaze_pattern |  
+| bip_39_word_underscore_7 | soccer_laptop_tennis_cream_gaze_pattern_because |  
+| bip_39_word_underscore_8 | soccer_laptop_tennis_cream_gaze_pattern_because_enact |  
+| bip_39_word_underscore_9 | soccer_laptop_tennis_cream_gaze_pattern_because_enact_foster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

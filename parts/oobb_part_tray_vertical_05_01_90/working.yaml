@@ -1,3 +1,15 @@
+bip_39_word_dash_1: faint
+bip_39_word_dash_10: faint-long-dune-goddess-girl-dawn-oak-meat-extend-find
+bip_39_word_dash_11: faint-long-dune-goddess-girl-dawn-oak-meat-extend-find-brown
+bip_39_word_dash_12: faint-long-dune-goddess-girl-dawn-oak-meat-extend-find-brown-afford
+bip_39_word_dash_2: faint-long
+bip_39_word_dash_3: faint-long-dune
+bip_39_word_dash_4: faint-long-dune-goddess
+bip_39_word_dash_5: faint-long-dune-goddess-girl
+bip_39_word_dash_6: faint-long-dune-goddess-girl-dawn
+bip_39_word_dash_7: faint-long-dune-goddess-girl-dawn-oak
+bip_39_word_dash_8: faint-long-dune-goddess-girl-dawn-oak-meat
+bip_39_word_dash_9: faint-long-dune-goddess-girl-dawn-oak-meat-extend
 bip_39_word_new_br_1: faint
 bip_39_word_new_br_10: faint<br>long<br>dune<br>goddess<br>girl<br>dawn<br>oak<br>meat<br>extend<br>find
 bip_39_word_new_br_11: faint<br>long<br>dune<br>goddess<br>girl<br>dawn<br>oak<br>meat<br>extend<br>find<br>brown
@@ -192,6 +204,18 @@ bip_39_word_space_6: faint long dune goddess girl dawn
 bip_39_word_space_7: faint long dune goddess girl dawn oak
 bip_39_word_space_8: faint long dune goddess girl dawn oak meat
 bip_39_word_space_9: faint long dune goddess girl dawn oak meat extend
+bip_39_word_underscore_1: faint
+bip_39_word_underscore_10: faint_long_dune_goddess_girl_dawn_oak_meat_extend_find
+bip_39_word_underscore_11: faint_long_dune_goddess_girl_dawn_oak_meat_extend_find_brown
+bip_39_word_underscore_12: faint_long_dune_goddess_girl_dawn_oak_meat_extend_find_brown_afford
+bip_39_word_underscore_2: faint_long
+bip_39_word_underscore_3: faint_long_dune
+bip_39_word_underscore_4: faint_long_dune_goddess
+bip_39_word_underscore_5: faint_long_dune_goddess_girl
+bip_39_word_underscore_6: faint_long_dune_goddess_girl_dawn
+bip_39_word_underscore_7: faint_long_dune_goddess_girl_dawn_oak
+bip_39_word_underscore_8: faint_long_dune_goddess_girl_dawn_oak_meat
+bip_39_word_underscore_9: faint_long_dune_goddess_girl_dawn_oak_meat_extend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

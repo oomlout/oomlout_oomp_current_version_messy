@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | raven |  
+| bip_39_word_dash_10 | raven-drill-six-crash-amateur-chat-actor-verify-divorce-daughter |  
+| bip_39_word_dash_11 | raven-drill-six-crash-amateur-chat-actor-verify-divorce-daughter-end |  
+| bip_39_word_dash_12 | raven-drill-six-crash-amateur-chat-actor-verify-divorce-daughter-end-achieve |  
+| bip_39_word_dash_2 | raven-drill |  
+| bip_39_word_dash_3 | raven-drill-six |  
+| bip_39_word_dash_4 | raven-drill-six-crash |  
+| bip_39_word_dash_5 | raven-drill-six-crash-amateur |  
+| bip_39_word_dash_6 | raven-drill-six-crash-amateur-chat |  
+| bip_39_word_dash_7 | raven-drill-six-crash-amateur-chat-actor |  
+| bip_39_word_dash_8 | raven-drill-six-crash-amateur-chat-actor-verify |  
+| bip_39_word_dash_9 | raven-drill-six-crash-amateur-chat-actor-verify-divorce |  
 | bip_39_word_new_br_1 | raven |  
 | bip_39_word_new_br_10 | raven<br>drill<br>six<br>crash<br>amateur<br>chat<br>actor<br>verify<br>divorce<br>daughter |  
 | bip_39_word_new_br_11 | raven<br>drill<br>six<br>crash<br>amateur<br>chat<br>actor<br>verify<br>divorce<br>daughter<br>end |  
@@ -147,6 +159,18 @@ divorce |
 | bip_39_word_space_7 | raven drill six crash amateur chat actor |  
 | bip_39_word_space_8 | raven drill six crash amateur chat actor verify |  
 | bip_39_word_space_9 | raven drill six crash amateur chat actor verify divorce |  
+| bip_39_word_underscore_1 | raven |  
+| bip_39_word_underscore_10 | raven_drill_six_crash_amateur_chat_actor_verify_divorce_daughter |  
+| bip_39_word_underscore_11 | raven_drill_six_crash_amateur_chat_actor_verify_divorce_daughter_end |  
+| bip_39_word_underscore_12 | raven_drill_six_crash_amateur_chat_actor_verify_divorce_daughter_end_achieve |  
+| bip_39_word_underscore_2 | raven_drill |  
+| bip_39_word_underscore_3 | raven_drill_six |  
+| bip_39_word_underscore_4 | raven_drill_six_crash |  
+| bip_39_word_underscore_5 | raven_drill_six_crash_amateur |  
+| bip_39_word_underscore_6 | raven_drill_six_crash_amateur_chat |  
+| bip_39_word_underscore_7 | raven_drill_six_crash_amateur_chat_actor |  
+| bip_39_word_underscore_8 | raven_drill_six_crash_amateur_chat_actor_verify |  
+| bip_39_word_underscore_9 | raven_drill_six_crash_amateur_chat_actor_verify_divorce |  
 | classification | mechanical |  
 | classification_capital | Mechanical |  
 | classification_first_letter | m |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | announce |  
+| bip_39_word_dash_10 | announce-aspect-spawn-topic-state-bachelor-into-hurt-horror-happy |  
+| bip_39_word_dash_11 | announce-aspect-spawn-topic-state-bachelor-into-hurt-horror-happy-noodle |  
+| bip_39_word_dash_12 | announce-aspect-spawn-topic-state-bachelor-into-hurt-horror-happy-noodle-absorb |  
+| bip_39_word_dash_2 | announce-aspect |  
+| bip_39_word_dash_3 | announce-aspect-spawn |  
+| bip_39_word_dash_4 | announce-aspect-spawn-topic |  
+| bip_39_word_dash_5 | announce-aspect-spawn-topic-state |  
+| bip_39_word_dash_6 | announce-aspect-spawn-topic-state-bachelor |  
+| bip_39_word_dash_7 | announce-aspect-spawn-topic-state-bachelor-into |  
+| bip_39_word_dash_8 | announce-aspect-spawn-topic-state-bachelor-into-hurt |  
+| bip_39_word_dash_9 | announce-aspect-spawn-topic-state-bachelor-into-hurt-horror |  
 | bip_39_word_new_br_1 | announce |  
 | bip_39_word_new_br_10 | announce<br>aspect<br>spawn<br>topic<br>state<br>bachelor<br>into<br>hurt<br>horror<br>happy |  
 | bip_39_word_new_br_11 | announce<br>aspect<br>spawn<br>topic<br>state<br>bachelor<br>into<br>hurt<br>horror<br>happy<br>noodle |  
@@ -147,6 +159,18 @@ horror |
 | bip_39_word_space_7 | announce aspect spawn topic state bachelor into |  
 | bip_39_word_space_8 | announce aspect spawn topic state bachelor into hurt |  
 | bip_39_word_space_9 | announce aspect spawn topic state bachelor into hurt horror |  
+| bip_39_word_underscore_1 | announce |  
+| bip_39_word_underscore_10 | announce_aspect_spawn_topic_state_bachelor_into_hurt_horror_happy |  
+| bip_39_word_underscore_11 | announce_aspect_spawn_topic_state_bachelor_into_hurt_horror_happy_noodle |  
+| bip_39_word_underscore_12 | announce_aspect_spawn_topic_state_bachelor_into_hurt_horror_happy_noodle_absorb |  
+| bip_39_word_underscore_2 | announce_aspect |  
+| bip_39_word_underscore_3 | announce_aspect_spawn |  
+| bip_39_word_underscore_4 | announce_aspect_spawn_topic |  
+| bip_39_word_underscore_5 | announce_aspect_spawn_topic_state |  
+| bip_39_word_underscore_6 | announce_aspect_spawn_topic_state_bachelor |  
+| bip_39_word_underscore_7 | announce_aspect_spawn_topic_state_bachelor_into |  
+| bip_39_word_underscore_8 | announce_aspect_spawn_topic_state_bachelor_into_hurt |  
+| bip_39_word_underscore_9 | announce_aspect_spawn_topic_state_bachelor_into_hurt_horror |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

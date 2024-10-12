@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | budget |  
+| bip_39_word_dash_10 | budget-penalty-rule-expect-stamp-destroy-grape-impulse-apple-educate |  
+| bip_39_word_dash_11 | budget-penalty-rule-expect-stamp-destroy-grape-impulse-apple-educate-actor |  
+| bip_39_word_dash_12 | budget-penalty-rule-expect-stamp-destroy-grape-impulse-apple-educate-actor-alpha |  
+| bip_39_word_dash_2 | budget-penalty |  
+| bip_39_word_dash_3 | budget-penalty-rule |  
+| bip_39_word_dash_4 | budget-penalty-rule-expect |  
+| bip_39_word_dash_5 | budget-penalty-rule-expect-stamp |  
+| bip_39_word_dash_6 | budget-penalty-rule-expect-stamp-destroy |  
+| bip_39_word_dash_7 | budget-penalty-rule-expect-stamp-destroy-grape |  
+| bip_39_word_dash_8 | budget-penalty-rule-expect-stamp-destroy-grape-impulse |  
+| bip_39_word_dash_9 | budget-penalty-rule-expect-stamp-destroy-grape-impulse-apple |  
 | bip_39_word_new_br_1 | budget |  
 | bip_39_word_new_br_10 | budget<br>penalty<br>rule<br>expect<br>stamp<br>destroy<br>grape<br>impulse<br>apple<br>educate |  
 | bip_39_word_new_br_11 | budget<br>penalty<br>rule<br>expect<br>stamp<br>destroy<br>grape<br>impulse<br>apple<br>educate<br>actor |  
@@ -147,6 +159,18 @@ apple |
 | bip_39_word_space_7 | budget penalty rule expect stamp destroy grape |  
 | bip_39_word_space_8 | budget penalty rule expect stamp destroy grape impulse |  
 | bip_39_word_space_9 | budget penalty rule expect stamp destroy grape impulse apple |  
+| bip_39_word_underscore_1 | budget |  
+| bip_39_word_underscore_10 | budget_penalty_rule_expect_stamp_destroy_grape_impulse_apple_educate |  
+| bip_39_word_underscore_11 | budget_penalty_rule_expect_stamp_destroy_grape_impulse_apple_educate_actor |  
+| bip_39_word_underscore_12 | budget_penalty_rule_expect_stamp_destroy_grape_impulse_apple_educate_actor_alpha |  
+| bip_39_word_underscore_2 | budget_penalty |  
+| bip_39_word_underscore_3 | budget_penalty_rule |  
+| bip_39_word_underscore_4 | budget_penalty_rule_expect |  
+| bip_39_word_underscore_5 | budget_penalty_rule_expect_stamp |  
+| bip_39_word_underscore_6 | budget_penalty_rule_expect_stamp_destroy |  
+| bip_39_word_underscore_7 | budget_penalty_rule_expect_stamp_destroy_grape |  
+| bip_39_word_underscore_8 | budget_penalty_rule_expect_stamp_destroy_grape_impulse |  
+| bip_39_word_underscore_9 | budget_penalty_rule_expect_stamp_destroy_grape_impulse_apple |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

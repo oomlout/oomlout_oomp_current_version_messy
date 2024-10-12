@@ -1,3 +1,15 @@
+bip_39_word_dash_1: category
+bip_39_word_dash_10: category-tray-prize-mention-custom-prevent-normal-spare-second-before
+bip_39_word_dash_11: category-tray-prize-mention-custom-prevent-normal-spare-second-before-alcohol
+bip_39_word_dash_12: category-tray-prize-mention-custom-prevent-normal-spare-second-before-alcohol-actress
+bip_39_word_dash_2: category-tray
+bip_39_word_dash_3: category-tray-prize
+bip_39_word_dash_4: category-tray-prize-mention
+bip_39_word_dash_5: category-tray-prize-mention-custom
+bip_39_word_dash_6: category-tray-prize-mention-custom-prevent
+bip_39_word_dash_7: category-tray-prize-mention-custom-prevent-normal
+bip_39_word_dash_8: category-tray-prize-mention-custom-prevent-normal-spare
+bip_39_word_dash_9: category-tray-prize-mention-custom-prevent-normal-spare-second
 bip_39_word_new_br_1: category
 bip_39_word_new_br_10: category<br>tray<br>prize<br>mention<br>custom<br>prevent<br>normal<br>spare<br>second<br>before
 bip_39_word_new_br_11: category<br>tray<br>prize<br>mention<br>custom<br>prevent<br>normal<br>spare<br>second<br>before<br>alcohol
@@ -194,6 +206,18 @@ bip_39_word_space_6: category tray prize mention custom prevent
 bip_39_word_space_7: category tray prize mention custom prevent normal
 bip_39_word_space_8: category tray prize mention custom prevent normal spare
 bip_39_word_space_9: category tray prize mention custom prevent normal spare second
+bip_39_word_underscore_1: category
+bip_39_word_underscore_10: category_tray_prize_mention_custom_prevent_normal_spare_second_before
+bip_39_word_underscore_11: category_tray_prize_mention_custom_prevent_normal_spare_second_before_alcohol
+bip_39_word_underscore_12: category_tray_prize_mention_custom_prevent_normal_spare_second_before_alcohol_actress
+bip_39_word_underscore_2: category_tray
+bip_39_word_underscore_3: category_tray_prize
+bip_39_word_underscore_4: category_tray_prize_mention
+bip_39_word_underscore_5: category_tray_prize_mention_custom
+bip_39_word_underscore_6: category_tray_prize_mention_custom_prevent
+bip_39_word_underscore_7: category_tray_prize_mention_custom_prevent_normal
+bip_39_word_underscore_8: category_tray_prize_mention_custom_prevent_normal_spare
+bip_39_word_underscore_9: category_tray_prize_mention_custom_prevent_normal_spare_second
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

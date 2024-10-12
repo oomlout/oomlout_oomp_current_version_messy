@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tell |  
+| bip_39_word_dash_10 | tell-liquid-page-muffin-benefit-catalog-enter-abstract-useful-razor |  
+| bip_39_word_dash_11 | tell-liquid-page-muffin-benefit-catalog-enter-abstract-useful-razor-company |  
+| bip_39_word_dash_12 | tell-liquid-page-muffin-benefit-catalog-enter-abstract-useful-razor-company-adapt |  
+| bip_39_word_dash_2 | tell-liquid |  
+| bip_39_word_dash_3 | tell-liquid-page |  
+| bip_39_word_dash_4 | tell-liquid-page-muffin |  
+| bip_39_word_dash_5 | tell-liquid-page-muffin-benefit |  
+| bip_39_word_dash_6 | tell-liquid-page-muffin-benefit-catalog |  
+| bip_39_word_dash_7 | tell-liquid-page-muffin-benefit-catalog-enter |  
+| bip_39_word_dash_8 | tell-liquid-page-muffin-benefit-catalog-enter-abstract |  
+| bip_39_word_dash_9 | tell-liquid-page-muffin-benefit-catalog-enter-abstract-useful |  
 | bip_39_word_new_br_1 | tell |  
 | bip_39_word_new_br_10 | tell<br>liquid<br>page<br>muffin<br>benefit<br>catalog<br>enter<br>abstract<br>useful<br>razor |  
 | bip_39_word_new_br_11 | tell<br>liquid<br>page<br>muffin<br>benefit<br>catalog<br>enter<br>abstract<br>useful<br>razor<br>company |  
@@ -147,6 +159,18 @@ useful |
 | bip_39_word_space_7 | tell liquid page muffin benefit catalog enter |  
 | bip_39_word_space_8 | tell liquid page muffin benefit catalog enter abstract |  
 | bip_39_word_space_9 | tell liquid page muffin benefit catalog enter abstract useful |  
+| bip_39_word_underscore_1 | tell |  
+| bip_39_word_underscore_10 | tell_liquid_page_muffin_benefit_catalog_enter_abstract_useful_razor |  
+| bip_39_word_underscore_11 | tell_liquid_page_muffin_benefit_catalog_enter_abstract_useful_razor_company |  
+| bip_39_word_underscore_12 | tell_liquid_page_muffin_benefit_catalog_enter_abstract_useful_razor_company_adapt |  
+| bip_39_word_underscore_2 | tell_liquid |  
+| bip_39_word_underscore_3 | tell_liquid_page |  
+| bip_39_word_underscore_4 | tell_liquid_page_muffin |  
+| bip_39_word_underscore_5 | tell_liquid_page_muffin_benefit |  
+| bip_39_word_underscore_6 | tell_liquid_page_muffin_benefit_catalog |  
+| bip_39_word_underscore_7 | tell_liquid_page_muffin_benefit_catalog_enter |  
+| bip_39_word_underscore_8 | tell_liquid_page_muffin_benefit_catalog_enter_abstract |  
+| bip_39_word_underscore_9 | tell_liquid_page_muffin_benefit_catalog_enter_abstract_useful |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

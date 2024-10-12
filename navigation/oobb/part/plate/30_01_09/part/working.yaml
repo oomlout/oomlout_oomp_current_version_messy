@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crawl
+bip_39_word_dash_10: crawl-machine-pattern-fiscal-blast-machine-police-garage-fun-forget
+bip_39_word_dash_11: crawl-machine-pattern-fiscal-blast-machine-police-garage-fun-forget-coin
+bip_39_word_dash_12: crawl-machine-pattern-fiscal-blast-machine-police-garage-fun-forget-coin-artwork
+bip_39_word_dash_2: crawl-machine
+bip_39_word_dash_3: crawl-machine-pattern
+bip_39_word_dash_4: crawl-machine-pattern-fiscal
+bip_39_word_dash_5: crawl-machine-pattern-fiscal-blast
+bip_39_word_dash_6: crawl-machine-pattern-fiscal-blast-machine
+bip_39_word_dash_7: crawl-machine-pattern-fiscal-blast-machine-police
+bip_39_word_dash_8: crawl-machine-pattern-fiscal-blast-machine-police-garage
+bip_39_word_dash_9: crawl-machine-pattern-fiscal-blast-machine-police-garage-fun
 bip_39_word_new_br_1: crawl
 bip_39_word_new_br_10: crawl<br>machine<br>pattern<br>fiscal<br>blast<br>machine<br>police<br>garage<br>fun<br>forget
 bip_39_word_new_br_11: crawl<br>machine<br>pattern<br>fiscal<br>blast<br>machine<br>police<br>garage<br>fun<br>forget<br>coin
@@ -194,6 +206,18 @@ bip_39_word_space_6: crawl machine pattern fiscal blast machine
 bip_39_word_space_7: crawl machine pattern fiscal blast machine police
 bip_39_word_space_8: crawl machine pattern fiscal blast machine police garage
 bip_39_word_space_9: crawl machine pattern fiscal blast machine police garage fun
+bip_39_word_underscore_1: crawl
+bip_39_word_underscore_10: crawl_machine_pattern_fiscal_blast_machine_police_garage_fun_forget
+bip_39_word_underscore_11: crawl_machine_pattern_fiscal_blast_machine_police_garage_fun_forget_coin
+bip_39_word_underscore_12: crawl_machine_pattern_fiscal_blast_machine_police_garage_fun_forget_coin_artwork
+bip_39_word_underscore_2: crawl_machine
+bip_39_word_underscore_3: crawl_machine_pattern
+bip_39_word_underscore_4: crawl_machine_pattern_fiscal
+bip_39_word_underscore_5: crawl_machine_pattern_fiscal_blast
+bip_39_word_underscore_6: crawl_machine_pattern_fiscal_blast_machine
+bip_39_word_underscore_7: crawl_machine_pattern_fiscal_blast_machine_police
+bip_39_word_underscore_8: crawl_machine_pattern_fiscal_blast_machine_police_garage
+bip_39_word_underscore_9: crawl_machine_pattern_fiscal_blast_machine_police_garage_fun
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pull |  
+| bip_39_word_dash_10 | pull-entry-switch-combine-option-relax-salute-ramp-dolphin-mass |  
+| bip_39_word_dash_11 | pull-entry-switch-combine-option-relax-salute-ramp-dolphin-mass-clinic |  
+| bip_39_word_dash_12 | pull-entry-switch-combine-option-relax-salute-ramp-dolphin-mass-clinic-artefact |  
+| bip_39_word_dash_2 | pull-entry |  
+| bip_39_word_dash_3 | pull-entry-switch |  
+| bip_39_word_dash_4 | pull-entry-switch-combine |  
+| bip_39_word_dash_5 | pull-entry-switch-combine-option |  
+| bip_39_word_dash_6 | pull-entry-switch-combine-option-relax |  
+| bip_39_word_dash_7 | pull-entry-switch-combine-option-relax-salute |  
+| bip_39_word_dash_8 | pull-entry-switch-combine-option-relax-salute-ramp |  
+| bip_39_word_dash_9 | pull-entry-switch-combine-option-relax-salute-ramp-dolphin |  
 | bip_39_word_new_br_1 | pull |  
 | bip_39_word_new_br_10 | pull<br>entry<br>switch<br>combine<br>option<br>relax<br>salute<br>ramp<br>dolphin<br>mass |  
 | bip_39_word_new_br_11 | pull<br>entry<br>switch<br>combine<br>option<br>relax<br>salute<br>ramp<br>dolphin<br>mass<br>clinic |  
@@ -147,6 +159,18 @@ dolphin |
 | bip_39_word_space_7 | pull entry switch combine option relax salute |  
 | bip_39_word_space_8 | pull entry switch combine option relax salute ramp |  
 | bip_39_word_space_9 | pull entry switch combine option relax salute ramp dolphin |  
+| bip_39_word_underscore_1 | pull |  
+| bip_39_word_underscore_10 | pull_entry_switch_combine_option_relax_salute_ramp_dolphin_mass |  
+| bip_39_word_underscore_11 | pull_entry_switch_combine_option_relax_salute_ramp_dolphin_mass_clinic |  
+| bip_39_word_underscore_12 | pull_entry_switch_combine_option_relax_salute_ramp_dolphin_mass_clinic_artefact |  
+| bip_39_word_underscore_2 | pull_entry |  
+| bip_39_word_underscore_3 | pull_entry_switch |  
+| bip_39_word_underscore_4 | pull_entry_switch_combine |  
+| bip_39_word_underscore_5 | pull_entry_switch_combine_option |  
+| bip_39_word_underscore_6 | pull_entry_switch_combine_option_relax |  
+| bip_39_word_underscore_7 | pull_entry_switch_combine_option_relax_salute |  
+| bip_39_word_underscore_8 | pull_entry_switch_combine_option_relax_salute_ramp |  
+| bip_39_word_underscore_9 | pull_entry_switch_combine_option_relax_salute_ramp_dolphin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

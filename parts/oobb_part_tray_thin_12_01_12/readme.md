@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | news |  
+| bip_39_word_dash_10 | news-stamp-rigid-input-ocean-impose-strategy-wait-husband-want |  
+| bip_39_word_dash_11 | news-stamp-rigid-input-ocean-impose-strategy-wait-husband-want-license |  
+| bip_39_word_dash_12 | news-stamp-rigid-input-ocean-impose-strategy-wait-husband-want-license-all |  
+| bip_39_word_dash_2 | news-stamp |  
+| bip_39_word_dash_3 | news-stamp-rigid |  
+| bip_39_word_dash_4 | news-stamp-rigid-input |  
+| bip_39_word_dash_5 | news-stamp-rigid-input-ocean |  
+| bip_39_word_dash_6 | news-stamp-rigid-input-ocean-impose |  
+| bip_39_word_dash_7 | news-stamp-rigid-input-ocean-impose-strategy |  
+| bip_39_word_dash_8 | news-stamp-rigid-input-ocean-impose-strategy-wait |  
+| bip_39_word_dash_9 | news-stamp-rigid-input-ocean-impose-strategy-wait-husband |  
 | bip_39_word_new_br_1 | news |  
 | bip_39_word_new_br_10 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait<br>husband<br>want |  
 | bip_39_word_new_br_11 | news<br>stamp<br>rigid<br>input<br>ocean<br>impose<br>strategy<br>wait<br>husband<br>want<br>license |  
@@ -147,6 +159,18 @@ husband |
 | bip_39_word_space_7 | news stamp rigid input ocean impose strategy |  
 | bip_39_word_space_8 | news stamp rigid input ocean impose strategy wait |  
 | bip_39_word_space_9 | news stamp rigid input ocean impose strategy wait husband |  
+| bip_39_word_underscore_1 | news |  
+| bip_39_word_underscore_10 | news_stamp_rigid_input_ocean_impose_strategy_wait_husband_want |  
+| bip_39_word_underscore_11 | news_stamp_rigid_input_ocean_impose_strategy_wait_husband_want_license |  
+| bip_39_word_underscore_12 | news_stamp_rigid_input_ocean_impose_strategy_wait_husband_want_license_all |  
+| bip_39_word_underscore_2 | news_stamp |  
+| bip_39_word_underscore_3 | news_stamp_rigid |  
+| bip_39_word_underscore_4 | news_stamp_rigid_input |  
+| bip_39_word_underscore_5 | news_stamp_rigid_input_ocean |  
+| bip_39_word_underscore_6 | news_stamp_rigid_input_ocean_impose |  
+| bip_39_word_underscore_7 | news_stamp_rigid_input_ocean_impose_strategy |  
+| bip_39_word_underscore_8 | news_stamp_rigid_input_ocean_impose_strategy_wait |  
+| bip_39_word_underscore_9 | news_stamp_rigid_input_ocean_impose_strategy_wait_husband |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

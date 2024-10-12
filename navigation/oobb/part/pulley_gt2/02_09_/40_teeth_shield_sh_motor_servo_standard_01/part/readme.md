@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | illegal |  
+| bip_39_word_dash_10 | illegal-album-onion-awful-pony-zebra-bird-crush-strategy-keep |  
+| bip_39_word_dash_11 | illegal-album-onion-awful-pony-zebra-bird-crush-strategy-keep-deliver |  
+| bip_39_word_dash_12 | illegal-album-onion-awful-pony-zebra-bird-crush-strategy-keep-deliver-ankle |  
+| bip_39_word_dash_2 | illegal-album |  
+| bip_39_word_dash_3 | illegal-album-onion |  
+| bip_39_word_dash_4 | illegal-album-onion-awful |  
+| bip_39_word_dash_5 | illegal-album-onion-awful-pony |  
+| bip_39_word_dash_6 | illegal-album-onion-awful-pony-zebra |  
+| bip_39_word_dash_7 | illegal-album-onion-awful-pony-zebra-bird |  
+| bip_39_word_dash_8 | illegal-album-onion-awful-pony-zebra-bird-crush |  
+| bip_39_word_dash_9 | illegal-album-onion-awful-pony-zebra-bird-crush-strategy |  
 | bip_39_word_new_br_1 | illegal |  
 | bip_39_word_new_br_10 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep |  
 | bip_39_word_new_br_11 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep<br>deliver |  
@@ -147,6 +159,18 @@ strategy |
 | bip_39_word_space_7 | illegal album onion awful pony zebra bird |  
 | bip_39_word_space_8 | illegal album onion awful pony zebra bird crush |  
 | bip_39_word_space_9 | illegal album onion awful pony zebra bird crush strategy |  
+| bip_39_word_underscore_1 | illegal |  
+| bip_39_word_underscore_10 | illegal_album_onion_awful_pony_zebra_bird_crush_strategy_keep |  
+| bip_39_word_underscore_11 | illegal_album_onion_awful_pony_zebra_bird_crush_strategy_keep_deliver |  
+| bip_39_word_underscore_12 | illegal_album_onion_awful_pony_zebra_bird_crush_strategy_keep_deliver_ankle |  
+| bip_39_word_underscore_2 | illegal_album |  
+| bip_39_word_underscore_3 | illegal_album_onion |  
+| bip_39_word_underscore_4 | illegal_album_onion_awful |  
+| bip_39_word_underscore_5 | illegal_album_onion_awful_pony |  
+| bip_39_word_underscore_6 | illegal_album_onion_awful_pony_zebra |  
+| bip_39_word_underscore_7 | illegal_album_onion_awful_pony_zebra_bird |  
+| bip_39_word_underscore_8 | illegal_album_onion_awful_pony_zebra_bird_crush |  
+| bip_39_word_underscore_9 | illegal_album_onion_awful_pony_zebra_bird_crush_strategy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

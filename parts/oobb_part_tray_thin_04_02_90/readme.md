@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | object |  
+| bip_39_word_dash_10 | object-defy-night-issue-want-merry-actual-little-empower-basket |  
+| bip_39_word_dash_11 | object-defy-night-issue-want-merry-actual-little-empower-basket-whisper |  
+| bip_39_word_dash_12 | object-defy-night-issue-want-merry-actual-little-empower-basket-whisper-able |  
+| bip_39_word_dash_2 | object-defy |  
+| bip_39_word_dash_3 | object-defy-night |  
+| bip_39_word_dash_4 | object-defy-night-issue |  
+| bip_39_word_dash_5 | object-defy-night-issue-want |  
+| bip_39_word_dash_6 | object-defy-night-issue-want-merry |  
+| bip_39_word_dash_7 | object-defy-night-issue-want-merry-actual |  
+| bip_39_word_dash_8 | object-defy-night-issue-want-merry-actual-little |  
+| bip_39_word_dash_9 | object-defy-night-issue-want-merry-actual-little-empower |  
 | bip_39_word_new_br_1 | object |  
 | bip_39_word_new_br_10 | object<br>defy<br>night<br>issue<br>want<br>merry<br>actual<br>little<br>empower<br>basket |  
 | bip_39_word_new_br_11 | object<br>defy<br>night<br>issue<br>want<br>merry<br>actual<br>little<br>empower<br>basket<br>whisper |  
@@ -147,6 +159,18 @@ empower |
 | bip_39_word_space_7 | object defy night issue want merry actual |  
 | bip_39_word_space_8 | object defy night issue want merry actual little |  
 | bip_39_word_space_9 | object defy night issue want merry actual little empower |  
+| bip_39_word_underscore_1 | object |  
+| bip_39_word_underscore_10 | object_defy_night_issue_want_merry_actual_little_empower_basket |  
+| bip_39_word_underscore_11 | object_defy_night_issue_want_merry_actual_little_empower_basket_whisper |  
+| bip_39_word_underscore_12 | object_defy_night_issue_want_merry_actual_little_empower_basket_whisper_able |  
+| bip_39_word_underscore_2 | object_defy |  
+| bip_39_word_underscore_3 | object_defy_night |  
+| bip_39_word_underscore_4 | object_defy_night_issue |  
+| bip_39_word_underscore_5 | object_defy_night_issue_want |  
+| bip_39_word_underscore_6 | object_defy_night_issue_want_merry |  
+| bip_39_word_underscore_7 | object_defy_night_issue_want_merry_actual |  
+| bip_39_word_underscore_8 | object_defy_night_issue_want_merry_actual_little |  
+| bip_39_word_underscore_9 | object_defy_night_issue_want_merry_actual_little_empower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

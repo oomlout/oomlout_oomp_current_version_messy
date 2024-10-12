@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | humble |  
+| bip_39_word_dash_10 | humble-remind-inner-solar-stadium-exact-online-glide-curve-thank |  
+| bip_39_word_dash_11 | humble-remind-inner-solar-stadium-exact-online-glide-curve-thank-satoshi |  
+| bip_39_word_dash_12 | humble-remind-inner-solar-stadium-exact-online-glide-curve-thank-satoshi-anchor |  
+| bip_39_word_dash_2 | humble-remind |  
+| bip_39_word_dash_3 | humble-remind-inner |  
+| bip_39_word_dash_4 | humble-remind-inner-solar |  
+| bip_39_word_dash_5 | humble-remind-inner-solar-stadium |  
+| bip_39_word_dash_6 | humble-remind-inner-solar-stadium-exact |  
+| bip_39_word_dash_7 | humble-remind-inner-solar-stadium-exact-online |  
+| bip_39_word_dash_8 | humble-remind-inner-solar-stadium-exact-online-glide |  
+| bip_39_word_dash_9 | humble-remind-inner-solar-stadium-exact-online-glide-curve |  
 | bip_39_word_new_br_1 | humble |  
 | bip_39_word_new_br_10 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide<br>curve<br>thank |  
 | bip_39_word_new_br_11 | humble<br>remind<br>inner<br>solar<br>stadium<br>exact<br>online<br>glide<br>curve<br>thank<br>satoshi |  
@@ -147,6 +159,18 @@ curve |
 | bip_39_word_space_7 | humble remind inner solar stadium exact online |  
 | bip_39_word_space_8 | humble remind inner solar stadium exact online glide |  
 | bip_39_word_space_9 | humble remind inner solar stadium exact online glide curve |  
+| bip_39_word_underscore_1 | humble |  
+| bip_39_word_underscore_10 | humble_remind_inner_solar_stadium_exact_online_glide_curve_thank |  
+| bip_39_word_underscore_11 | humble_remind_inner_solar_stadium_exact_online_glide_curve_thank_satoshi |  
+| bip_39_word_underscore_12 | humble_remind_inner_solar_stadium_exact_online_glide_curve_thank_satoshi_anchor |  
+| bip_39_word_underscore_2 | humble_remind |  
+| bip_39_word_underscore_3 | humble_remind_inner |  
+| bip_39_word_underscore_4 | humble_remind_inner_solar |  
+| bip_39_word_underscore_5 | humble_remind_inner_solar_stadium |  
+| bip_39_word_underscore_6 | humble_remind_inner_solar_stadium_exact |  
+| bip_39_word_underscore_7 | humble_remind_inner_solar_stadium_exact_online |  
+| bip_39_word_underscore_8 | humble_remind_inner_solar_stadium_exact_online_glide |  
+| bip_39_word_underscore_9 | humble_remind_inner_solar_stadium_exact_online_glide_curve |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

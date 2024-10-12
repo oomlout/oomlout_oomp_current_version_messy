@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | update |  
+| bip_39_word_dash_10 | update-artist-north-feel-clog-property-hidden-drum-year-source |  
+| bip_39_word_dash_11 | update-artist-north-feel-clog-property-hidden-drum-year-source-expose |  
+| bip_39_word_dash_12 | update-artist-north-feel-clog-property-hidden-drum-year-source-expose-aim |  
+| bip_39_word_dash_2 | update-artist |  
+| bip_39_word_dash_3 | update-artist-north |  
+| bip_39_word_dash_4 | update-artist-north-feel |  
+| bip_39_word_dash_5 | update-artist-north-feel-clog |  
+| bip_39_word_dash_6 | update-artist-north-feel-clog-property |  
+| bip_39_word_dash_7 | update-artist-north-feel-clog-property-hidden |  
+| bip_39_word_dash_8 | update-artist-north-feel-clog-property-hidden-drum |  
+| bip_39_word_dash_9 | update-artist-north-feel-clog-property-hidden-drum-year |  
 | bip_39_word_new_br_1 | update |  
 | bip_39_word_new_br_10 | update<br>artist<br>north<br>feel<br>clog<br>property<br>hidden<br>drum<br>year<br>source |  
 | bip_39_word_new_br_11 | update<br>artist<br>north<br>feel<br>clog<br>property<br>hidden<br>drum<br>year<br>source<br>expose |  
@@ -147,6 +159,18 @@ year |
 | bip_39_word_space_7 | update artist north feel clog property hidden |  
 | bip_39_word_space_8 | update artist north feel clog property hidden drum |  
 | bip_39_word_space_9 | update artist north feel clog property hidden drum year |  
+| bip_39_word_underscore_1 | update |  
+| bip_39_word_underscore_10 | update_artist_north_feel_clog_property_hidden_drum_year_source |  
+| bip_39_word_underscore_11 | update_artist_north_feel_clog_property_hidden_drum_year_source_expose |  
+| bip_39_word_underscore_12 | update_artist_north_feel_clog_property_hidden_drum_year_source_expose_aim |  
+| bip_39_word_underscore_2 | update_artist |  
+| bip_39_word_underscore_3 | update_artist_north |  
+| bip_39_word_underscore_4 | update_artist_north_feel |  
+| bip_39_word_underscore_5 | update_artist_north_feel_clog |  
+| bip_39_word_underscore_6 | update_artist_north_feel_clog_property |  
+| bip_39_word_underscore_7 | update_artist_north_feel_clog_property_hidden |  
+| bip_39_word_underscore_8 | update_artist_north_feel_clog_property_hidden_drum |  
+| bip_39_word_underscore_9 | update_artist_north_feel_clog_property_hidden_drum_year |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

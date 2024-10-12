@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pluck |  
+| bip_39_word_dash_10 | pluck-dutch-idea-pretty-voyage-double-rather-injury-provide-cycle |  
+| bip_39_word_dash_11 | pluck-dutch-idea-pretty-voyage-double-rather-injury-provide-cycle-rule |  
+| bip_39_word_dash_12 | pluck-dutch-idea-pretty-voyage-double-rather-injury-provide-cycle-rule-audit |  
+| bip_39_word_dash_2 | pluck-dutch |  
+| bip_39_word_dash_3 | pluck-dutch-idea |  
+| bip_39_word_dash_4 | pluck-dutch-idea-pretty |  
+| bip_39_word_dash_5 | pluck-dutch-idea-pretty-voyage |  
+| bip_39_word_dash_6 | pluck-dutch-idea-pretty-voyage-double |  
+| bip_39_word_dash_7 | pluck-dutch-idea-pretty-voyage-double-rather |  
+| bip_39_word_dash_8 | pluck-dutch-idea-pretty-voyage-double-rather-injury |  
+| bip_39_word_dash_9 | pluck-dutch-idea-pretty-voyage-double-rather-injury-provide |  
 | bip_39_word_new_br_1 | pluck |  
 | bip_39_word_new_br_10 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle |  
 | bip_39_word_new_br_11 | pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle<br>rule |  
@@ -147,6 +159,18 @@ provide |
 | bip_39_word_space_7 | pluck dutch idea pretty voyage double rather |  
 | bip_39_word_space_8 | pluck dutch idea pretty voyage double rather injury |  
 | bip_39_word_space_9 | pluck dutch idea pretty voyage double rather injury provide |  
+| bip_39_word_underscore_1 | pluck |  
+| bip_39_word_underscore_10 | pluck_dutch_idea_pretty_voyage_double_rather_injury_provide_cycle |  
+| bip_39_word_underscore_11 | pluck_dutch_idea_pretty_voyage_double_rather_injury_provide_cycle_rule |  
+| bip_39_word_underscore_12 | pluck_dutch_idea_pretty_voyage_double_rather_injury_provide_cycle_rule_audit |  
+| bip_39_word_underscore_2 | pluck_dutch |  
+| bip_39_word_underscore_3 | pluck_dutch_idea |  
+| bip_39_word_underscore_4 | pluck_dutch_idea_pretty |  
+| bip_39_word_underscore_5 | pluck_dutch_idea_pretty_voyage |  
+| bip_39_word_underscore_6 | pluck_dutch_idea_pretty_voyage_double |  
+| bip_39_word_underscore_7 | pluck_dutch_idea_pretty_voyage_double_rather |  
+| bip_39_word_underscore_8 | pluck_dutch_idea_pretty_voyage_double_rather_injury |  
+| bip_39_word_underscore_9 | pluck_dutch_idea_pretty_voyage_double_rather_injury_provide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

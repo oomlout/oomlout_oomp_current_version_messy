@@ -1,3 +1,15 @@
+bip_39_word_dash_1: limb
+bip_39_word_dash_10: limb-crime-name-boost-fruit-become-degree-better-host-athlete
+bip_39_word_dash_11: limb-crime-name-boost-fruit-become-degree-better-host-athlete-hidden
+bip_39_word_dash_12: limb-crime-name-boost-fruit-become-degree-better-host-athlete-hidden-afford
+bip_39_word_dash_2: limb-crime
+bip_39_word_dash_3: limb-crime-name
+bip_39_word_dash_4: limb-crime-name-boost
+bip_39_word_dash_5: limb-crime-name-boost-fruit
+bip_39_word_dash_6: limb-crime-name-boost-fruit-become
+bip_39_word_dash_7: limb-crime-name-boost-fruit-become-degree
+bip_39_word_dash_8: limb-crime-name-boost-fruit-become-degree-better
+bip_39_word_dash_9: limb-crime-name-boost-fruit-become-degree-better-host
 bip_39_word_new_br_1: limb
 bip_39_word_new_br_10: limb<br>crime<br>name<br>boost<br>fruit<br>become<br>degree<br>better<br>host<br>athlete
 bip_39_word_new_br_11: limb<br>crime<br>name<br>boost<br>fruit<br>become<br>degree<br>better<br>host<br>athlete<br>hidden
@@ -193,6 +205,18 @@ bip_39_word_space_6: limb crime name boost fruit become
 bip_39_word_space_7: limb crime name boost fruit become degree
 bip_39_word_space_8: limb crime name boost fruit become degree better
 bip_39_word_space_9: limb crime name boost fruit become degree better host
+bip_39_word_underscore_1: limb
+bip_39_word_underscore_10: limb_crime_name_boost_fruit_become_degree_better_host_athlete
+bip_39_word_underscore_11: limb_crime_name_boost_fruit_become_degree_better_host_athlete_hidden
+bip_39_word_underscore_12: limb_crime_name_boost_fruit_become_degree_better_host_athlete_hidden_afford
+bip_39_word_underscore_2: limb_crime
+bip_39_word_underscore_3: limb_crime_name
+bip_39_word_underscore_4: limb_crime_name_boost
+bip_39_word_underscore_5: limb_crime_name_boost_fruit
+bip_39_word_underscore_6: limb_crime_name_boost_fruit_become
+bip_39_word_underscore_7: limb_crime_name_boost_fruit_become_degree
+bip_39_word_underscore_8: limb_crime_name_boost_fruit_become_degree_better
+bip_39_word_underscore_9: limb_crime_name_boost_fruit_become_degree_better_host
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

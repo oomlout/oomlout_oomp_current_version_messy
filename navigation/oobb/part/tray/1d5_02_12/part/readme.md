@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | verify |  
+| bip_39_word_dash_10 | verify-camp-logic-letter-ski-series-day-innocent-evidence-club |  
+| bip_39_word_dash_11 | verify-camp-logic-letter-ski-series-day-innocent-evidence-club-dose |  
+| bip_39_word_dash_12 | verify-camp-logic-letter-ski-series-day-innocent-evidence-club-dose-attitude |  
+| bip_39_word_dash_2 | verify-camp |  
+| bip_39_word_dash_3 | verify-camp-logic |  
+| bip_39_word_dash_4 | verify-camp-logic-letter |  
+| bip_39_word_dash_5 | verify-camp-logic-letter-ski |  
+| bip_39_word_dash_6 | verify-camp-logic-letter-ski-series |  
+| bip_39_word_dash_7 | verify-camp-logic-letter-ski-series-day |  
+| bip_39_word_dash_8 | verify-camp-logic-letter-ski-series-day-innocent |  
+| bip_39_word_dash_9 | verify-camp-logic-letter-ski-series-day-innocent-evidence |  
 | bip_39_word_new_br_1 | verify |  
 | bip_39_word_new_br_10 | verify<br>camp<br>logic<br>letter<br>ski<br>series<br>day<br>innocent<br>evidence<br>club |  
 | bip_39_word_new_br_11 | verify<br>camp<br>logic<br>letter<br>ski<br>series<br>day<br>innocent<br>evidence<br>club<br>dose |  
@@ -147,6 +159,18 @@ evidence |
 | bip_39_word_space_7 | verify camp logic letter ski series day |  
 | bip_39_word_space_8 | verify camp logic letter ski series day innocent |  
 | bip_39_word_space_9 | verify camp logic letter ski series day innocent evidence |  
+| bip_39_word_underscore_1 | verify |  
+| bip_39_word_underscore_10 | verify_camp_logic_letter_ski_series_day_innocent_evidence_club |  
+| bip_39_word_underscore_11 | verify_camp_logic_letter_ski_series_day_innocent_evidence_club_dose |  
+| bip_39_word_underscore_12 | verify_camp_logic_letter_ski_series_day_innocent_evidence_club_dose_attitude |  
+| bip_39_word_underscore_2 | verify_camp |  
+| bip_39_word_underscore_3 | verify_camp_logic |  
+| bip_39_word_underscore_4 | verify_camp_logic_letter |  
+| bip_39_word_underscore_5 | verify_camp_logic_letter_ski |  
+| bip_39_word_underscore_6 | verify_camp_logic_letter_ski_series |  
+| bip_39_word_underscore_7 | verify_camp_logic_letter_ski_series_day |  
+| bip_39_word_underscore_8 | verify_camp_logic_letter_ski_series_day_innocent |  
+| bip_39_word_underscore_9 | verify_camp_logic_letter_ski_series_day_innocent_evidence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

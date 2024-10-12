@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cave |  
+| bip_39_word_dash_10 | cave-fruit-sniff-song-bounce-welcome-taxi-canvas-verb-dose |  
+| bip_39_word_dash_11 | cave-fruit-sniff-song-bounce-welcome-taxi-canvas-verb-dose-scrap |  
+| bip_39_word_dash_12 | cave-fruit-sniff-song-bounce-welcome-taxi-canvas-verb-dose-scrap-age |  
+| bip_39_word_dash_2 | cave-fruit |  
+| bip_39_word_dash_3 | cave-fruit-sniff |  
+| bip_39_word_dash_4 | cave-fruit-sniff-song |  
+| bip_39_word_dash_5 | cave-fruit-sniff-song-bounce |  
+| bip_39_word_dash_6 | cave-fruit-sniff-song-bounce-welcome |  
+| bip_39_word_dash_7 | cave-fruit-sniff-song-bounce-welcome-taxi |  
+| bip_39_word_dash_8 | cave-fruit-sniff-song-bounce-welcome-taxi-canvas |  
+| bip_39_word_dash_9 | cave-fruit-sniff-song-bounce-welcome-taxi-canvas-verb |  
 | bip_39_word_new_br_1 | cave |  
 | bip_39_word_new_br_10 | cave<br>fruit<br>sniff<br>song<br>bounce<br>welcome<br>taxi<br>canvas<br>verb<br>dose |  
 | bip_39_word_new_br_11 | cave<br>fruit<br>sniff<br>song<br>bounce<br>welcome<br>taxi<br>canvas<br>verb<br>dose<br>scrap |  
@@ -147,6 +159,18 @@ verb |
 | bip_39_word_space_7 | cave fruit sniff song bounce welcome taxi |  
 | bip_39_word_space_8 | cave fruit sniff song bounce welcome taxi canvas |  
 | bip_39_word_space_9 | cave fruit sniff song bounce welcome taxi canvas verb |  
+| bip_39_word_underscore_1 | cave |  
+| bip_39_word_underscore_10 | cave_fruit_sniff_song_bounce_welcome_taxi_canvas_verb_dose |  
+| bip_39_word_underscore_11 | cave_fruit_sniff_song_bounce_welcome_taxi_canvas_verb_dose_scrap |  
+| bip_39_word_underscore_12 | cave_fruit_sniff_song_bounce_welcome_taxi_canvas_verb_dose_scrap_age |  
+| bip_39_word_underscore_2 | cave_fruit |  
+| bip_39_word_underscore_3 | cave_fruit_sniff |  
+| bip_39_word_underscore_4 | cave_fruit_sniff_song |  
+| bip_39_word_underscore_5 | cave_fruit_sniff_song_bounce |  
+| bip_39_word_underscore_6 | cave_fruit_sniff_song_bounce_welcome |  
+| bip_39_word_underscore_7 | cave_fruit_sniff_song_bounce_welcome_taxi |  
+| bip_39_word_underscore_8 | cave_fruit_sniff_song_bounce_welcome_taxi_canvas |  
+| bip_39_word_underscore_9 | cave_fruit_sniff_song_bounce_welcome_taxi_canvas_verb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

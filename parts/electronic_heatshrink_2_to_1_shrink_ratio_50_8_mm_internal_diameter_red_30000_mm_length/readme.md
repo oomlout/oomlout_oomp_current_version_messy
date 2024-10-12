@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nut |  
+| bip_39_word_dash_10 | nut-finish-turtle-grit-hedgehog-aspect-ghost-enhance-depth-judge |  
+| bip_39_word_dash_11 | nut-finish-turtle-grit-hedgehog-aspect-ghost-enhance-depth-judge-acid |  
+| bip_39_word_dash_12 | nut-finish-turtle-grit-hedgehog-aspect-ghost-enhance-depth-judge-acid-abstract |  
+| bip_39_word_dash_2 | nut-finish |  
+| bip_39_word_dash_3 | nut-finish-turtle |  
+| bip_39_word_dash_4 | nut-finish-turtle-grit |  
+| bip_39_word_dash_5 | nut-finish-turtle-grit-hedgehog |  
+| bip_39_word_dash_6 | nut-finish-turtle-grit-hedgehog-aspect |  
+| bip_39_word_dash_7 | nut-finish-turtle-grit-hedgehog-aspect-ghost |  
+| bip_39_word_dash_8 | nut-finish-turtle-grit-hedgehog-aspect-ghost-enhance |  
+| bip_39_word_dash_9 | nut-finish-turtle-grit-hedgehog-aspect-ghost-enhance-depth |  
 | bip_39_word_new_br_1 | nut |  
 | bip_39_word_new_br_10 | nut<br>finish<br>turtle<br>grit<br>hedgehog<br>aspect<br>ghost<br>enhance<br>depth<br>judge |  
 | bip_39_word_new_br_11 | nut<br>finish<br>turtle<br>grit<br>hedgehog<br>aspect<br>ghost<br>enhance<br>depth<br>judge<br>acid |  
@@ -147,6 +159,18 @@ depth |
 | bip_39_word_space_7 | nut finish turtle grit hedgehog aspect ghost |  
 | bip_39_word_space_8 | nut finish turtle grit hedgehog aspect ghost enhance |  
 | bip_39_word_space_9 | nut finish turtle grit hedgehog aspect ghost enhance depth |  
+| bip_39_word_underscore_1 | nut |  
+| bip_39_word_underscore_10 | nut_finish_turtle_grit_hedgehog_aspect_ghost_enhance_depth_judge |  
+| bip_39_word_underscore_11 | nut_finish_turtle_grit_hedgehog_aspect_ghost_enhance_depth_judge_acid |  
+| bip_39_word_underscore_12 | nut_finish_turtle_grit_hedgehog_aspect_ghost_enhance_depth_judge_acid_abstract |  
+| bip_39_word_underscore_2 | nut_finish |  
+| bip_39_word_underscore_3 | nut_finish_turtle |  
+| bip_39_word_underscore_4 | nut_finish_turtle_grit |  
+| bip_39_word_underscore_5 | nut_finish_turtle_grit_hedgehog |  
+| bip_39_word_underscore_6 | nut_finish_turtle_grit_hedgehog_aspect |  
+| bip_39_word_underscore_7 | nut_finish_turtle_grit_hedgehog_aspect_ghost |  
+| bip_39_word_underscore_8 | nut_finish_turtle_grit_hedgehog_aspect_ghost_enhance |  
+| bip_39_word_underscore_9 | nut_finish_turtle_grit_hedgehog_aspect_ghost_enhance_depth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: review
+bip_39_word_dash_10: review-alpha-crime-scout-milk-lunar-hub-pitch-park-catalog
+bip_39_word_dash_11: review-alpha-crime-scout-milk-lunar-hub-pitch-park-catalog-humble
+bip_39_word_dash_12: review-alpha-crime-scout-milk-lunar-hub-pitch-park-catalog-humble-audit
+bip_39_word_dash_2: review-alpha
+bip_39_word_dash_3: review-alpha-crime
+bip_39_word_dash_4: review-alpha-crime-scout
+bip_39_word_dash_5: review-alpha-crime-scout-milk
+bip_39_word_dash_6: review-alpha-crime-scout-milk-lunar
+bip_39_word_dash_7: review-alpha-crime-scout-milk-lunar-hub
+bip_39_word_dash_8: review-alpha-crime-scout-milk-lunar-hub-pitch
+bip_39_word_dash_9: review-alpha-crime-scout-milk-lunar-hub-pitch-park
 bip_39_word_new_br_1: review
 bip_39_word_new_br_10: review<br>alpha<br>crime<br>scout<br>milk<br>lunar<br>hub<br>pitch<br>park<br>catalog
 bip_39_word_new_br_11: review<br>alpha<br>crime<br>scout<br>milk<br>lunar<br>hub<br>pitch<br>park<br>catalog<br>humble
@@ -192,6 +204,18 @@ bip_39_word_space_6: review alpha crime scout milk lunar
 bip_39_word_space_7: review alpha crime scout milk lunar hub
 bip_39_word_space_8: review alpha crime scout milk lunar hub pitch
 bip_39_word_space_9: review alpha crime scout milk lunar hub pitch park
+bip_39_word_underscore_1: review
+bip_39_word_underscore_10: review_alpha_crime_scout_milk_lunar_hub_pitch_park_catalog
+bip_39_word_underscore_11: review_alpha_crime_scout_milk_lunar_hub_pitch_park_catalog_humble
+bip_39_word_underscore_12: review_alpha_crime_scout_milk_lunar_hub_pitch_park_catalog_humble_audit
+bip_39_word_underscore_2: review_alpha
+bip_39_word_underscore_3: review_alpha_crime
+bip_39_word_underscore_4: review_alpha_crime_scout
+bip_39_word_underscore_5: review_alpha_crime_scout_milk
+bip_39_word_underscore_6: review_alpha_crime_scout_milk_lunar
+bip_39_word_underscore_7: review_alpha_crime_scout_milk_lunar_hub
+bip_39_word_underscore_8: review_alpha_crime_scout_milk_lunar_hub_pitch
+bip_39_word_underscore_9: review_alpha_crime_scout_milk_lunar_hub_pitch_park
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

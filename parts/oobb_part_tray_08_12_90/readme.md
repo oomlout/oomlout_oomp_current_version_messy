@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | raccoon |  
+| bip_39_word_dash_10 | raccoon-venture-path-ensure-wood-kind-drop-label-tongue-soccer |  
+| bip_39_word_dash_11 | raccoon-venture-path-ensure-wood-kind-drop-label-tongue-soccer-result |  
+| bip_39_word_dash_12 | raccoon-venture-path-ensure-wood-kind-drop-label-tongue-soccer-result-alien |  
+| bip_39_word_dash_2 | raccoon-venture |  
+| bip_39_word_dash_3 | raccoon-venture-path |  
+| bip_39_word_dash_4 | raccoon-venture-path-ensure |  
+| bip_39_word_dash_5 | raccoon-venture-path-ensure-wood |  
+| bip_39_word_dash_6 | raccoon-venture-path-ensure-wood-kind |  
+| bip_39_word_dash_7 | raccoon-venture-path-ensure-wood-kind-drop |  
+| bip_39_word_dash_8 | raccoon-venture-path-ensure-wood-kind-drop-label |  
+| bip_39_word_dash_9 | raccoon-venture-path-ensure-wood-kind-drop-label-tongue |  
 | bip_39_word_new_br_1 | raccoon |  
 | bip_39_word_new_br_10 | raccoon<br>venture<br>path<br>ensure<br>wood<br>kind<br>drop<br>label<br>tongue<br>soccer |  
 | bip_39_word_new_br_11 | raccoon<br>venture<br>path<br>ensure<br>wood<br>kind<br>drop<br>label<br>tongue<br>soccer<br>result |  
@@ -147,6 +159,18 @@ tongue |
 | bip_39_word_space_7 | raccoon venture path ensure wood kind drop |  
 | bip_39_word_space_8 | raccoon venture path ensure wood kind drop label |  
 | bip_39_word_space_9 | raccoon venture path ensure wood kind drop label tongue |  
+| bip_39_word_underscore_1 | raccoon |  
+| bip_39_word_underscore_10 | raccoon_venture_path_ensure_wood_kind_drop_label_tongue_soccer |  
+| bip_39_word_underscore_11 | raccoon_venture_path_ensure_wood_kind_drop_label_tongue_soccer_result |  
+| bip_39_word_underscore_12 | raccoon_venture_path_ensure_wood_kind_drop_label_tongue_soccer_result_alien |  
+| bip_39_word_underscore_2 | raccoon_venture |  
+| bip_39_word_underscore_3 | raccoon_venture_path |  
+| bip_39_word_underscore_4 | raccoon_venture_path_ensure |  
+| bip_39_word_underscore_5 | raccoon_venture_path_ensure_wood |  
+| bip_39_word_underscore_6 | raccoon_venture_path_ensure_wood_kind |  
+| bip_39_word_underscore_7 | raccoon_venture_path_ensure_wood_kind_drop |  
+| bip_39_word_underscore_8 | raccoon_venture_path_ensure_wood_kind_drop_label |  
+| bip_39_word_underscore_9 | raccoon_venture_path_ensure_wood_kind_drop_label_tongue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

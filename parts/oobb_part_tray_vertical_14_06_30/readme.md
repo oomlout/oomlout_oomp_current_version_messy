@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | teach |  
+| bip_39_word_dash_10 | teach-october-draw-neutral-brain-forum-mind-try-fat-caught |  
+| bip_39_word_dash_11 | teach-october-draw-neutral-brain-forum-mind-try-fat-caught-payment |  
+| bip_39_word_dash_12 | teach-october-draw-neutral-brain-forum-mind-try-fat-caught-payment-assault |  
+| bip_39_word_dash_2 | teach-october |  
+| bip_39_word_dash_3 | teach-october-draw |  
+| bip_39_word_dash_4 | teach-october-draw-neutral |  
+| bip_39_word_dash_5 | teach-october-draw-neutral-brain |  
+| bip_39_word_dash_6 | teach-october-draw-neutral-brain-forum |  
+| bip_39_word_dash_7 | teach-october-draw-neutral-brain-forum-mind |  
+| bip_39_word_dash_8 | teach-october-draw-neutral-brain-forum-mind-try |  
+| bip_39_word_dash_9 | teach-october-draw-neutral-brain-forum-mind-try-fat |  
 | bip_39_word_new_br_1 | teach |  
 | bip_39_word_new_br_10 | teach<br>october<br>draw<br>neutral<br>brain<br>forum<br>mind<br>try<br>fat<br>caught |  
 | bip_39_word_new_br_11 | teach<br>october<br>draw<br>neutral<br>brain<br>forum<br>mind<br>try<br>fat<br>caught<br>payment |  
@@ -147,6 +159,18 @@ fat |
 | bip_39_word_space_7 | teach october draw neutral brain forum mind |  
 | bip_39_word_space_8 | teach october draw neutral brain forum mind try |  
 | bip_39_word_space_9 | teach october draw neutral brain forum mind try fat |  
+| bip_39_word_underscore_1 | teach |  
+| bip_39_word_underscore_10 | teach_october_draw_neutral_brain_forum_mind_try_fat_caught |  
+| bip_39_word_underscore_11 | teach_october_draw_neutral_brain_forum_mind_try_fat_caught_payment |  
+| bip_39_word_underscore_12 | teach_october_draw_neutral_brain_forum_mind_try_fat_caught_payment_assault |  
+| bip_39_word_underscore_2 | teach_october |  
+| bip_39_word_underscore_3 | teach_october_draw |  
+| bip_39_word_underscore_4 | teach_october_draw_neutral |  
+| bip_39_word_underscore_5 | teach_october_draw_neutral_brain |  
+| bip_39_word_underscore_6 | teach_october_draw_neutral_brain_forum |  
+| bip_39_word_underscore_7 | teach_october_draw_neutral_brain_forum_mind |  
+| bip_39_word_underscore_8 | teach_october_draw_neutral_brain_forum_mind_try |  
+| bip_39_word_underscore_9 | teach_october_draw_neutral_brain_forum_mind_try_fat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

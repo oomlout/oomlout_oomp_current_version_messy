@@ -1,3 +1,15 @@
+bip_39_word_dash_1: head
+bip_39_word_dash_10: head-pipe-comfort-field-ginger-poet-prevent-palm-across-model
+bip_39_word_dash_11: head-pipe-comfort-field-ginger-poet-prevent-palm-across-model-august
+bip_39_word_dash_12: head-pipe-comfort-field-ginger-poet-prevent-palm-across-model-august-accident
+bip_39_word_dash_2: head-pipe
+bip_39_word_dash_3: head-pipe-comfort
+bip_39_word_dash_4: head-pipe-comfort-field
+bip_39_word_dash_5: head-pipe-comfort-field-ginger
+bip_39_word_dash_6: head-pipe-comfort-field-ginger-poet
+bip_39_word_dash_7: head-pipe-comfort-field-ginger-poet-prevent
+bip_39_word_dash_8: head-pipe-comfort-field-ginger-poet-prevent-palm
+bip_39_word_dash_9: head-pipe-comfort-field-ginger-poet-prevent-palm-across
 bip_39_word_new_br_1: head
 bip_39_word_new_br_10: head<br>pipe<br>comfort<br>field<br>ginger<br>poet<br>prevent<br>palm<br>across<br>model
 bip_39_word_new_br_11: head<br>pipe<br>comfort<br>field<br>ginger<br>poet<br>prevent<br>palm<br>across<br>model<br>august
@@ -193,6 +205,18 @@ bip_39_word_space_6: head pipe comfort field ginger poet
 bip_39_word_space_7: head pipe comfort field ginger poet prevent
 bip_39_word_space_8: head pipe comfort field ginger poet prevent palm
 bip_39_word_space_9: head pipe comfort field ginger poet prevent palm across
+bip_39_word_underscore_1: head
+bip_39_word_underscore_10: head_pipe_comfort_field_ginger_poet_prevent_palm_across_model
+bip_39_word_underscore_11: head_pipe_comfort_field_ginger_poet_prevent_palm_across_model_august
+bip_39_word_underscore_12: head_pipe_comfort_field_ginger_poet_prevent_palm_across_model_august_accident
+bip_39_word_underscore_2: head_pipe
+bip_39_word_underscore_3: head_pipe_comfort
+bip_39_word_underscore_4: head_pipe_comfort_field
+bip_39_word_underscore_5: head_pipe_comfort_field_ginger
+bip_39_word_underscore_6: head_pipe_comfort_field_ginger_poet
+bip_39_word_underscore_7: head_pipe_comfort_field_ginger_poet_prevent
+bip_39_word_underscore_8: head_pipe_comfort_field_ginger_poet_prevent_palm
+bip_39_word_underscore_9: head_pipe_comfort_field_ginger_poet_prevent_palm_across
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

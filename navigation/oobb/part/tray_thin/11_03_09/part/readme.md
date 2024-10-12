@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fault |  
+| bip_39_word_dash_10 | fault-bind-whale-laundry-faint-twenty-affair-relax-tired-love |  
+| bip_39_word_dash_11 | fault-bind-whale-laundry-faint-twenty-affair-relax-tired-love-trick |  
+| bip_39_word_dash_12 | fault-bind-whale-laundry-faint-twenty-affair-relax-tired-love-trick-athlete |  
+| bip_39_word_dash_2 | fault-bind |  
+| bip_39_word_dash_3 | fault-bind-whale |  
+| bip_39_word_dash_4 | fault-bind-whale-laundry |  
+| bip_39_word_dash_5 | fault-bind-whale-laundry-faint |  
+| bip_39_word_dash_6 | fault-bind-whale-laundry-faint-twenty |  
+| bip_39_word_dash_7 | fault-bind-whale-laundry-faint-twenty-affair |  
+| bip_39_word_dash_8 | fault-bind-whale-laundry-faint-twenty-affair-relax |  
+| bip_39_word_dash_9 | fault-bind-whale-laundry-faint-twenty-affair-relax-tired |  
 | bip_39_word_new_br_1 | fault |  
 | bip_39_word_new_br_10 | fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love |  
 | bip_39_word_new_br_11 | fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love<br>trick |  
@@ -147,6 +159,18 @@ tired |
 | bip_39_word_space_7 | fault bind whale laundry faint twenty affair |  
 | bip_39_word_space_8 | fault bind whale laundry faint twenty affair relax |  
 | bip_39_word_space_9 | fault bind whale laundry faint twenty affair relax tired |  
+| bip_39_word_underscore_1 | fault |  
+| bip_39_word_underscore_10 | fault_bind_whale_laundry_faint_twenty_affair_relax_tired_love |  
+| bip_39_word_underscore_11 | fault_bind_whale_laundry_faint_twenty_affair_relax_tired_love_trick |  
+| bip_39_word_underscore_12 | fault_bind_whale_laundry_faint_twenty_affair_relax_tired_love_trick_athlete |  
+| bip_39_word_underscore_2 | fault_bind |  
+| bip_39_word_underscore_3 | fault_bind_whale |  
+| bip_39_word_underscore_4 | fault_bind_whale_laundry |  
+| bip_39_word_underscore_5 | fault_bind_whale_laundry_faint |  
+| bip_39_word_underscore_6 | fault_bind_whale_laundry_faint_twenty |  
+| bip_39_word_underscore_7 | fault_bind_whale_laundry_faint_twenty_affair |  
+| bip_39_word_underscore_8 | fault_bind_whale_laundry_faint_twenty_affair_relax |  
+| bip_39_word_underscore_9 | fault_bind_whale_laundry_faint_twenty_affair_relax_tired |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

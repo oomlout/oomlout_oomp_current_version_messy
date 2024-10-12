@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sport
+bip_39_word_dash_10: sport-captain-depth-good-flee-hurt-security-latin-vote-enlist
+bip_39_word_dash_11: sport-captain-depth-good-flee-hurt-security-latin-vote-enlist-expand
+bip_39_word_dash_12: sport-captain-depth-good-flee-hurt-security-latin-vote-enlist-expand-accident
+bip_39_word_dash_2: sport-captain
+bip_39_word_dash_3: sport-captain-depth
+bip_39_word_dash_4: sport-captain-depth-good
+bip_39_word_dash_5: sport-captain-depth-good-flee
+bip_39_word_dash_6: sport-captain-depth-good-flee-hurt
+bip_39_word_dash_7: sport-captain-depth-good-flee-hurt-security
+bip_39_word_dash_8: sport-captain-depth-good-flee-hurt-security-latin
+bip_39_word_dash_9: sport-captain-depth-good-flee-hurt-security-latin-vote
 bip_39_word_new_br_1: sport
 bip_39_word_new_br_10: sport<br>captain<br>depth<br>good<br>flee<br>hurt<br>security<br>latin<br>vote<br>enlist
 bip_39_word_new_br_11: sport<br>captain<br>depth<br>good<br>flee<br>hurt<br>security<br>latin<br>vote<br>enlist<br>expand
@@ -193,6 +205,18 @@ bip_39_word_space_6: sport captain depth good flee hurt
 bip_39_word_space_7: sport captain depth good flee hurt security
 bip_39_word_space_8: sport captain depth good flee hurt security latin
 bip_39_word_space_9: sport captain depth good flee hurt security latin vote
+bip_39_word_underscore_1: sport
+bip_39_word_underscore_10: sport_captain_depth_good_flee_hurt_security_latin_vote_enlist
+bip_39_word_underscore_11: sport_captain_depth_good_flee_hurt_security_latin_vote_enlist_expand
+bip_39_word_underscore_12: sport_captain_depth_good_flee_hurt_security_latin_vote_enlist_expand_accident
+bip_39_word_underscore_2: sport_captain
+bip_39_word_underscore_3: sport_captain_depth
+bip_39_word_underscore_4: sport_captain_depth_good
+bip_39_word_underscore_5: sport_captain_depth_good_flee
+bip_39_word_underscore_6: sport_captain_depth_good_flee_hurt
+bip_39_word_underscore_7: sport_captain_depth_good_flee_hurt_security
+bip_39_word_underscore_8: sport_captain_depth_good_flee_hurt_security_latin
+bip_39_word_underscore_9: sport_captain_depth_good_flee_hurt_security_latin_vote
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

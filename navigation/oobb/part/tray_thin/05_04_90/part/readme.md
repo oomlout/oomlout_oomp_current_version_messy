@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dash |  
+| bip_39_word_dash_10 | dash-swap-stage-pyramid-mirror-cousin-carbon-scissors-shiver-another |  
+| bip_39_word_dash_11 | dash-swap-stage-pyramid-mirror-cousin-carbon-scissors-shiver-another-industry |  
+| bip_39_word_dash_12 | dash-swap-stage-pyramid-mirror-cousin-carbon-scissors-shiver-another-industry-april |  
+| bip_39_word_dash_2 | dash-swap |  
+| bip_39_word_dash_3 | dash-swap-stage |  
+| bip_39_word_dash_4 | dash-swap-stage-pyramid |  
+| bip_39_word_dash_5 | dash-swap-stage-pyramid-mirror |  
+| bip_39_word_dash_6 | dash-swap-stage-pyramid-mirror-cousin |  
+| bip_39_word_dash_7 | dash-swap-stage-pyramid-mirror-cousin-carbon |  
+| bip_39_word_dash_8 | dash-swap-stage-pyramid-mirror-cousin-carbon-scissors |  
+| bip_39_word_dash_9 | dash-swap-stage-pyramid-mirror-cousin-carbon-scissors-shiver |  
 | bip_39_word_new_br_1 | dash |  
 | bip_39_word_new_br_10 | dash<br>swap<br>stage<br>pyramid<br>mirror<br>cousin<br>carbon<br>scissors<br>shiver<br>another |  
 | bip_39_word_new_br_11 | dash<br>swap<br>stage<br>pyramid<br>mirror<br>cousin<br>carbon<br>scissors<br>shiver<br>another<br>industry |  
@@ -147,6 +159,18 @@ shiver |
 | bip_39_word_space_7 | dash swap stage pyramid mirror cousin carbon |  
 | bip_39_word_space_8 | dash swap stage pyramid mirror cousin carbon scissors |  
 | bip_39_word_space_9 | dash swap stage pyramid mirror cousin carbon scissors shiver |  
+| bip_39_word_underscore_1 | dash |  
+| bip_39_word_underscore_10 | dash_swap_stage_pyramid_mirror_cousin_carbon_scissors_shiver_another |  
+| bip_39_word_underscore_11 | dash_swap_stage_pyramid_mirror_cousin_carbon_scissors_shiver_another_industry |  
+| bip_39_word_underscore_12 | dash_swap_stage_pyramid_mirror_cousin_carbon_scissors_shiver_another_industry_april |  
+| bip_39_word_underscore_2 | dash_swap |  
+| bip_39_word_underscore_3 | dash_swap_stage |  
+| bip_39_word_underscore_4 | dash_swap_stage_pyramid |  
+| bip_39_word_underscore_5 | dash_swap_stage_pyramid_mirror |  
+| bip_39_word_underscore_6 | dash_swap_stage_pyramid_mirror_cousin |  
+| bip_39_word_underscore_7 | dash_swap_stage_pyramid_mirror_cousin_carbon |  
+| bip_39_word_underscore_8 | dash_swap_stage_pyramid_mirror_cousin_carbon_scissors |  
+| bip_39_word_underscore_9 | dash_swap_stage_pyramid_mirror_cousin_carbon_scissors_shiver |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: velvet
+bip_39_word_dash_10: velvet-this-scare-science-north-exile-term-auction-slim-churn
+bip_39_word_dash_11: velvet-this-scare-science-north-exile-term-auction-slim-churn-panel
+bip_39_word_dash_12: velvet-this-scare-science-north-exile-term-auction-slim-churn-panel-age
+bip_39_word_dash_2: velvet-this
+bip_39_word_dash_3: velvet-this-scare
+bip_39_word_dash_4: velvet-this-scare-science
+bip_39_word_dash_5: velvet-this-scare-science-north
+bip_39_word_dash_6: velvet-this-scare-science-north-exile
+bip_39_word_dash_7: velvet-this-scare-science-north-exile-term
+bip_39_word_dash_8: velvet-this-scare-science-north-exile-term-auction
+bip_39_word_dash_9: velvet-this-scare-science-north-exile-term-auction-slim
 bip_39_word_new_br_1: velvet
 bip_39_word_new_br_10: velvet<br>this<br>scare<br>science<br>north<br>exile<br>term<br>auction<br>slim<br>churn
 bip_39_word_new_br_11: velvet<br>this<br>scare<br>science<br>north<br>exile<br>term<br>auction<br>slim<br>churn<br>panel
@@ -193,6 +205,18 @@ bip_39_word_space_6: velvet this scare science north exile
 bip_39_word_space_7: velvet this scare science north exile term
 bip_39_word_space_8: velvet this scare science north exile term auction
 bip_39_word_space_9: velvet this scare science north exile term auction slim
+bip_39_word_underscore_1: velvet
+bip_39_word_underscore_10: velvet_this_scare_science_north_exile_term_auction_slim_churn
+bip_39_word_underscore_11: velvet_this_scare_science_north_exile_term_auction_slim_churn_panel
+bip_39_word_underscore_12: velvet_this_scare_science_north_exile_term_auction_slim_churn_panel_age
+bip_39_word_underscore_2: velvet_this
+bip_39_word_underscore_3: velvet_this_scare
+bip_39_word_underscore_4: velvet_this_scare_science
+bip_39_word_underscore_5: velvet_this_scare_science_north
+bip_39_word_underscore_6: velvet_this_scare_science_north_exile
+bip_39_word_underscore_7: velvet_this_scare_science_north_exile_term
+bip_39_word_underscore_8: velvet_this_scare_science_north_exile_term_auction
+bip_39_word_underscore_9: velvet_this_scare_science_north_exile_term_auction_slim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

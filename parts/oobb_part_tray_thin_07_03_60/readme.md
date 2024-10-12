@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | zebra |  
+| bip_39_word_dash_10 | zebra-sure-silent-frame-juice-forum-hour-layer-abstract-hard |  
+| bip_39_word_dash_11 | zebra-sure-silent-frame-juice-forum-hour-layer-abstract-hard-story |  
+| bip_39_word_dash_12 | zebra-sure-silent-frame-juice-forum-hour-layer-abstract-hard-story-annual |  
+| bip_39_word_dash_2 | zebra-sure |  
+| bip_39_word_dash_3 | zebra-sure-silent |  
+| bip_39_word_dash_4 | zebra-sure-silent-frame |  
+| bip_39_word_dash_5 | zebra-sure-silent-frame-juice |  
+| bip_39_word_dash_6 | zebra-sure-silent-frame-juice-forum |  
+| bip_39_word_dash_7 | zebra-sure-silent-frame-juice-forum-hour |  
+| bip_39_word_dash_8 | zebra-sure-silent-frame-juice-forum-hour-layer |  
+| bip_39_word_dash_9 | zebra-sure-silent-frame-juice-forum-hour-layer-abstract |  
 | bip_39_word_new_br_1 | zebra |  
 | bip_39_word_new_br_10 | zebra<br>sure<br>silent<br>frame<br>juice<br>forum<br>hour<br>layer<br>abstract<br>hard |  
 | bip_39_word_new_br_11 | zebra<br>sure<br>silent<br>frame<br>juice<br>forum<br>hour<br>layer<br>abstract<br>hard<br>story |  
@@ -147,6 +159,18 @@ abstract |
 | bip_39_word_space_7 | zebra sure silent frame juice forum hour |  
 | bip_39_word_space_8 | zebra sure silent frame juice forum hour layer |  
 | bip_39_word_space_9 | zebra sure silent frame juice forum hour layer abstract |  
+| bip_39_word_underscore_1 | zebra |  
+| bip_39_word_underscore_10 | zebra_sure_silent_frame_juice_forum_hour_layer_abstract_hard |  
+| bip_39_word_underscore_11 | zebra_sure_silent_frame_juice_forum_hour_layer_abstract_hard_story |  
+| bip_39_word_underscore_12 | zebra_sure_silent_frame_juice_forum_hour_layer_abstract_hard_story_annual |  
+| bip_39_word_underscore_2 | zebra_sure |  
+| bip_39_word_underscore_3 | zebra_sure_silent |  
+| bip_39_word_underscore_4 | zebra_sure_silent_frame |  
+| bip_39_word_underscore_5 | zebra_sure_silent_frame_juice |  
+| bip_39_word_underscore_6 | zebra_sure_silent_frame_juice_forum |  
+| bip_39_word_underscore_7 | zebra_sure_silent_frame_juice_forum_hour |  
+| bip_39_word_underscore_8 | zebra_sure_silent_frame_juice_forum_hour_layer |  
+| bip_39_word_underscore_9 | zebra_sure_silent_frame_juice_forum_hour_layer_abstract |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

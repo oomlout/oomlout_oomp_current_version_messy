@@ -1,3 +1,15 @@
+bip_39_word_dash_1: relief
+bip_39_word_dash_10: relief-time-curve-keen-common-bargain-reunion-tongue-pond-include
+bip_39_word_dash_11: relief-time-curve-keen-common-bargain-reunion-tongue-pond-include-flame
+bip_39_word_dash_12: relief-time-curve-keen-common-bargain-reunion-tongue-pond-include-flame-atom
+bip_39_word_dash_2: relief-time
+bip_39_word_dash_3: relief-time-curve
+bip_39_word_dash_4: relief-time-curve-keen
+bip_39_word_dash_5: relief-time-curve-keen-common
+bip_39_word_dash_6: relief-time-curve-keen-common-bargain
+bip_39_word_dash_7: relief-time-curve-keen-common-bargain-reunion
+bip_39_word_dash_8: relief-time-curve-keen-common-bargain-reunion-tongue
+bip_39_word_dash_9: relief-time-curve-keen-common-bargain-reunion-tongue-pond
 bip_39_word_new_br_1: relief
 bip_39_word_new_br_10: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include
 bip_39_word_new_br_11: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include<br>flame
@@ -193,6 +205,18 @@ bip_39_word_space_6: relief time curve keen common bargain
 bip_39_word_space_7: relief time curve keen common bargain reunion
 bip_39_word_space_8: relief time curve keen common bargain reunion tongue
 bip_39_word_space_9: relief time curve keen common bargain reunion tongue pond
+bip_39_word_underscore_1: relief
+bip_39_word_underscore_10: relief_time_curve_keen_common_bargain_reunion_tongue_pond_include
+bip_39_word_underscore_11: relief_time_curve_keen_common_bargain_reunion_tongue_pond_include_flame
+bip_39_word_underscore_12: relief_time_curve_keen_common_bargain_reunion_tongue_pond_include_flame_atom
+bip_39_word_underscore_2: relief_time
+bip_39_word_underscore_3: relief_time_curve
+bip_39_word_underscore_4: relief_time_curve_keen
+bip_39_word_underscore_5: relief_time_curve_keen_common
+bip_39_word_underscore_6: relief_time_curve_keen_common_bargain
+bip_39_word_underscore_7: relief_time_curve_keen_common_bargain_reunion
+bip_39_word_underscore_8: relief_time_curve_keen_common_bargain_reunion_tongue
+bip_39_word_underscore_9: relief_time_curve_keen_common_bargain_reunion_tongue_pond
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

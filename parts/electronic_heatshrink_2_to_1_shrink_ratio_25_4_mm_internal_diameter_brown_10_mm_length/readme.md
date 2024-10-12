@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spend |  
+| bip_39_word_dash_10 | spend-until-wheel-satoshi-someone-twelve-hybrid-toddler-orient-involve |  
+| bip_39_word_dash_11 | spend-until-wheel-satoshi-someone-twelve-hybrid-toddler-orient-involve-chest |  
+| bip_39_word_dash_12 | spend-until-wheel-satoshi-someone-twelve-hybrid-toddler-orient-involve-chest-alone |  
+| bip_39_word_dash_2 | spend-until |  
+| bip_39_word_dash_3 | spend-until-wheel |  
+| bip_39_word_dash_4 | spend-until-wheel-satoshi |  
+| bip_39_word_dash_5 | spend-until-wheel-satoshi-someone |  
+| bip_39_word_dash_6 | spend-until-wheel-satoshi-someone-twelve |  
+| bip_39_word_dash_7 | spend-until-wheel-satoshi-someone-twelve-hybrid |  
+| bip_39_word_dash_8 | spend-until-wheel-satoshi-someone-twelve-hybrid-toddler |  
+| bip_39_word_dash_9 | spend-until-wheel-satoshi-someone-twelve-hybrid-toddler-orient |  
 | bip_39_word_new_br_1 | spend |  
 | bip_39_word_new_br_10 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve |  
 | bip_39_word_new_br_11 | spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve<br>chest |  
@@ -147,6 +159,18 @@ orient |
 | bip_39_word_space_7 | spend until wheel satoshi someone twelve hybrid |  
 | bip_39_word_space_8 | spend until wheel satoshi someone twelve hybrid toddler |  
 | bip_39_word_space_9 | spend until wheel satoshi someone twelve hybrid toddler orient |  
+| bip_39_word_underscore_1 | spend |  
+| bip_39_word_underscore_10 | spend_until_wheel_satoshi_someone_twelve_hybrid_toddler_orient_involve |  
+| bip_39_word_underscore_11 | spend_until_wheel_satoshi_someone_twelve_hybrid_toddler_orient_involve_chest |  
+| bip_39_word_underscore_12 | spend_until_wheel_satoshi_someone_twelve_hybrid_toddler_orient_involve_chest_alone |  
+| bip_39_word_underscore_2 | spend_until |  
+| bip_39_word_underscore_3 | spend_until_wheel |  
+| bip_39_word_underscore_4 | spend_until_wheel_satoshi |  
+| bip_39_word_underscore_5 | spend_until_wheel_satoshi_someone |  
+| bip_39_word_underscore_6 | spend_until_wheel_satoshi_someone_twelve |  
+| bip_39_word_underscore_7 | spend_until_wheel_satoshi_someone_twelve_hybrid |  
+| bip_39_word_underscore_8 | spend_until_wheel_satoshi_someone_twelve_hybrid_toddler |  
+| bip_39_word_underscore_9 | spend_until_wheel_satoshi_someone_twelve_hybrid_toddler_orient |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

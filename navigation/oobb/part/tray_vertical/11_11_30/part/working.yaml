@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rival
+bip_39_word_dash_10: rival-title-bright-abandon-forward-then-amateur-exhibit-size-rent
+bip_39_word_dash_11: rival-title-bright-abandon-forward-then-amateur-exhibit-size-rent-echo
+bip_39_word_dash_12: rival-title-bright-abandon-forward-then-amateur-exhibit-size-rent-echo-agent
+bip_39_word_dash_2: rival-title
+bip_39_word_dash_3: rival-title-bright
+bip_39_word_dash_4: rival-title-bright-abandon
+bip_39_word_dash_5: rival-title-bright-abandon-forward
+bip_39_word_dash_6: rival-title-bright-abandon-forward-then
+bip_39_word_dash_7: rival-title-bright-abandon-forward-then-amateur
+bip_39_word_dash_8: rival-title-bright-abandon-forward-then-amateur-exhibit
+bip_39_word_dash_9: rival-title-bright-abandon-forward-then-amateur-exhibit-size
 bip_39_word_new_br_1: rival
 bip_39_word_new_br_10: rival<br>title<br>bright<br>abandon<br>forward<br>then<br>amateur<br>exhibit<br>size<br>rent
 bip_39_word_new_br_11: rival<br>title<br>bright<br>abandon<br>forward<br>then<br>amateur<br>exhibit<br>size<br>rent<br>echo
@@ -194,6 +206,18 @@ bip_39_word_space_6: rival title bright abandon forward then
 bip_39_word_space_7: rival title bright abandon forward then amateur
 bip_39_word_space_8: rival title bright abandon forward then amateur exhibit
 bip_39_word_space_9: rival title bright abandon forward then amateur exhibit size
+bip_39_word_underscore_1: rival
+bip_39_word_underscore_10: rival_title_bright_abandon_forward_then_amateur_exhibit_size_rent
+bip_39_word_underscore_11: rival_title_bright_abandon_forward_then_amateur_exhibit_size_rent_echo
+bip_39_word_underscore_12: rival_title_bright_abandon_forward_then_amateur_exhibit_size_rent_echo_agent
+bip_39_word_underscore_2: rival_title
+bip_39_word_underscore_3: rival_title_bright
+bip_39_word_underscore_4: rival_title_bright_abandon
+bip_39_word_underscore_5: rival_title_bright_abandon_forward
+bip_39_word_underscore_6: rival_title_bright_abandon_forward_then
+bip_39_word_underscore_7: rival_title_bright_abandon_forward_then_amateur
+bip_39_word_underscore_8: rival_title_bright_abandon_forward_then_amateur_exhibit
+bip_39_word_underscore_9: rival_title_bright_abandon_forward_then_amateur_exhibit_size
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | basic |  
+| bip_39_word_dash_10 | basic-suit-warrior-pumpkin-element-season-winter-east-noise-utility |  
+| bip_39_word_dash_11 | basic-suit-warrior-pumpkin-element-season-winter-east-noise-utility-flip |  
+| bip_39_word_dash_12 | basic-suit-warrior-pumpkin-element-season-winter-east-noise-utility-flip-affair |  
+| bip_39_word_dash_2 | basic-suit |  
+| bip_39_word_dash_3 | basic-suit-warrior |  
+| bip_39_word_dash_4 | basic-suit-warrior-pumpkin |  
+| bip_39_word_dash_5 | basic-suit-warrior-pumpkin-element |  
+| bip_39_word_dash_6 | basic-suit-warrior-pumpkin-element-season |  
+| bip_39_word_dash_7 | basic-suit-warrior-pumpkin-element-season-winter |  
+| bip_39_word_dash_8 | basic-suit-warrior-pumpkin-element-season-winter-east |  
+| bip_39_word_dash_9 | basic-suit-warrior-pumpkin-element-season-winter-east-noise |  
 | bip_39_word_new_br_1 | basic |  
 | bip_39_word_new_br_10 | basic<br>suit<br>warrior<br>pumpkin<br>element<br>season<br>winter<br>east<br>noise<br>utility |  
 | bip_39_word_new_br_11 | basic<br>suit<br>warrior<br>pumpkin<br>element<br>season<br>winter<br>east<br>noise<br>utility<br>flip |  
@@ -147,6 +159,18 @@ noise |
 | bip_39_word_space_7 | basic suit warrior pumpkin element season winter |  
 | bip_39_word_space_8 | basic suit warrior pumpkin element season winter east |  
 | bip_39_word_space_9 | basic suit warrior pumpkin element season winter east noise |  
+| bip_39_word_underscore_1 | basic |  
+| bip_39_word_underscore_10 | basic_suit_warrior_pumpkin_element_season_winter_east_noise_utility |  
+| bip_39_word_underscore_11 | basic_suit_warrior_pumpkin_element_season_winter_east_noise_utility_flip |  
+| bip_39_word_underscore_12 | basic_suit_warrior_pumpkin_element_season_winter_east_noise_utility_flip_affair |  
+| bip_39_word_underscore_2 | basic_suit |  
+| bip_39_word_underscore_3 | basic_suit_warrior |  
+| bip_39_word_underscore_4 | basic_suit_warrior_pumpkin |  
+| bip_39_word_underscore_5 | basic_suit_warrior_pumpkin_element |  
+| bip_39_word_underscore_6 | basic_suit_warrior_pumpkin_element_season |  
+| bip_39_word_underscore_7 | basic_suit_warrior_pumpkin_element_season_winter |  
+| bip_39_word_underscore_8 | basic_suit_warrior_pumpkin_element_season_winter_east |  
+| bip_39_word_underscore_9 | basic_suit_warrior_pumpkin_element_season_winter_east_noise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

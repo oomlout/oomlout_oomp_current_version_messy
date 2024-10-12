@@ -1,3 +1,15 @@
+bip_39_word_dash_1: upset
+bip_39_word_dash_10: upset-spy-hope-culture-night-chuckle-apple-perfect-echo-client
+bip_39_word_dash_11: upset-spy-hope-culture-night-chuckle-apple-perfect-echo-client-focus
+bip_39_word_dash_12: upset-spy-hope-culture-night-chuckle-apple-perfect-echo-client-focus-audit
+bip_39_word_dash_2: upset-spy
+bip_39_word_dash_3: upset-spy-hope
+bip_39_word_dash_4: upset-spy-hope-culture
+bip_39_word_dash_5: upset-spy-hope-culture-night
+bip_39_word_dash_6: upset-spy-hope-culture-night-chuckle
+bip_39_word_dash_7: upset-spy-hope-culture-night-chuckle-apple
+bip_39_word_dash_8: upset-spy-hope-culture-night-chuckle-apple-perfect
+bip_39_word_dash_9: upset-spy-hope-culture-night-chuckle-apple-perfect-echo
 bip_39_word_new_br_1: upset
 bip_39_word_new_br_10: upset<br>spy<br>hope<br>culture<br>night<br>chuckle<br>apple<br>perfect<br>echo<br>client
 bip_39_word_new_br_11: upset<br>spy<br>hope<br>culture<br>night<br>chuckle<br>apple<br>perfect<br>echo<br>client<br>focus
@@ -193,6 +205,18 @@ bip_39_word_space_6: upset spy hope culture night chuckle
 bip_39_word_space_7: upset spy hope culture night chuckle apple
 bip_39_word_space_8: upset spy hope culture night chuckle apple perfect
 bip_39_word_space_9: upset spy hope culture night chuckle apple perfect echo
+bip_39_word_underscore_1: upset
+bip_39_word_underscore_10: upset_spy_hope_culture_night_chuckle_apple_perfect_echo_client
+bip_39_word_underscore_11: upset_spy_hope_culture_night_chuckle_apple_perfect_echo_client_focus
+bip_39_word_underscore_12: upset_spy_hope_culture_night_chuckle_apple_perfect_echo_client_focus_audit
+bip_39_word_underscore_2: upset_spy
+bip_39_word_underscore_3: upset_spy_hope
+bip_39_word_underscore_4: upset_spy_hope_culture
+bip_39_word_underscore_5: upset_spy_hope_culture_night
+bip_39_word_underscore_6: upset_spy_hope_culture_night_chuckle
+bip_39_word_underscore_7: upset_spy_hope_culture_night_chuckle_apple
+bip_39_word_underscore_8: upset_spy_hope_culture_night_chuckle_apple_perfect
+bip_39_word_underscore_9: upset_spy_hope_culture_night_chuckle_apple_perfect_echo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

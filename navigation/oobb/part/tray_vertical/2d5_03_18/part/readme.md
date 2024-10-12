@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | child |  
+| bip_39_word_dash_10 | child-door-mass-boss-crystal-noodle-project-guilt-say-clerk |  
+| bip_39_word_dash_11 | child-door-mass-boss-crystal-noodle-project-guilt-say-clerk-bounce |  
+| bip_39_word_dash_12 | child-door-mass-boss-crystal-noodle-project-guilt-say-clerk-bounce-aerobic |  
+| bip_39_word_dash_2 | child-door |  
+| bip_39_word_dash_3 | child-door-mass |  
+| bip_39_word_dash_4 | child-door-mass-boss |  
+| bip_39_word_dash_5 | child-door-mass-boss-crystal |  
+| bip_39_word_dash_6 | child-door-mass-boss-crystal-noodle |  
+| bip_39_word_dash_7 | child-door-mass-boss-crystal-noodle-project |  
+| bip_39_word_dash_8 | child-door-mass-boss-crystal-noodle-project-guilt |  
+| bip_39_word_dash_9 | child-door-mass-boss-crystal-noodle-project-guilt-say |  
 | bip_39_word_new_br_1 | child |  
 | bip_39_word_new_br_10 | child<br>door<br>mass<br>boss<br>crystal<br>noodle<br>project<br>guilt<br>say<br>clerk |  
 | bip_39_word_new_br_11 | child<br>door<br>mass<br>boss<br>crystal<br>noodle<br>project<br>guilt<br>say<br>clerk<br>bounce |  
@@ -147,6 +159,18 @@ say |
 | bip_39_word_space_7 | child door mass boss crystal noodle project |  
 | bip_39_word_space_8 | child door mass boss crystal noodle project guilt |  
 | bip_39_word_space_9 | child door mass boss crystal noodle project guilt say |  
+| bip_39_word_underscore_1 | child |  
+| bip_39_word_underscore_10 | child_door_mass_boss_crystal_noodle_project_guilt_say_clerk |  
+| bip_39_word_underscore_11 | child_door_mass_boss_crystal_noodle_project_guilt_say_clerk_bounce |  
+| bip_39_word_underscore_12 | child_door_mass_boss_crystal_noodle_project_guilt_say_clerk_bounce_aerobic |  
+| bip_39_word_underscore_2 | child_door |  
+| bip_39_word_underscore_3 | child_door_mass |  
+| bip_39_word_underscore_4 | child_door_mass_boss |  
+| bip_39_word_underscore_5 | child_door_mass_boss_crystal |  
+| bip_39_word_underscore_6 | child_door_mass_boss_crystal_noodle |  
+| bip_39_word_underscore_7 | child_door_mass_boss_crystal_noodle_project |  
+| bip_39_word_underscore_8 | child_door_mass_boss_crystal_noodle_project_guilt |  
+| bip_39_word_underscore_9 | child_door_mass_boss_crystal_noodle_project_guilt_say |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

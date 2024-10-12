@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rule |  
+| bip_39_word_dash_10 | rule-fat-bread-ginger-denial-stem-crowd-brave-select-left |  
+| bip_39_word_dash_11 | rule-fat-bread-ginger-denial-stem-crowd-brave-select-left-team |  
+| bip_39_word_dash_12 | rule-fat-bread-ginger-denial-stem-crowd-brave-select-left-team-antique |  
+| bip_39_word_dash_2 | rule-fat |  
+| bip_39_word_dash_3 | rule-fat-bread |  
+| bip_39_word_dash_4 | rule-fat-bread-ginger |  
+| bip_39_word_dash_5 | rule-fat-bread-ginger-denial |  
+| bip_39_word_dash_6 | rule-fat-bread-ginger-denial-stem |  
+| bip_39_word_dash_7 | rule-fat-bread-ginger-denial-stem-crowd |  
+| bip_39_word_dash_8 | rule-fat-bread-ginger-denial-stem-crowd-brave |  
+| bip_39_word_dash_9 | rule-fat-bread-ginger-denial-stem-crowd-brave-select |  
 | bip_39_word_new_br_1 | rule |  
 | bip_39_word_new_br_10 | rule<br>fat<br>bread<br>ginger<br>denial<br>stem<br>crowd<br>brave<br>select<br>left |  
 | bip_39_word_new_br_11 | rule<br>fat<br>bread<br>ginger<br>denial<br>stem<br>crowd<br>brave<br>select<br>left<br>team |  
@@ -147,6 +159,18 @@ select |
 | bip_39_word_space_7 | rule fat bread ginger denial stem crowd |  
 | bip_39_word_space_8 | rule fat bread ginger denial stem crowd brave |  
 | bip_39_word_space_9 | rule fat bread ginger denial stem crowd brave select |  
+| bip_39_word_underscore_1 | rule |  
+| bip_39_word_underscore_10 | rule_fat_bread_ginger_denial_stem_crowd_brave_select_left |  
+| bip_39_word_underscore_11 | rule_fat_bread_ginger_denial_stem_crowd_brave_select_left_team |  
+| bip_39_word_underscore_12 | rule_fat_bread_ginger_denial_stem_crowd_brave_select_left_team_antique |  
+| bip_39_word_underscore_2 | rule_fat |  
+| bip_39_word_underscore_3 | rule_fat_bread |  
+| bip_39_word_underscore_4 | rule_fat_bread_ginger |  
+| bip_39_word_underscore_5 | rule_fat_bread_ginger_denial |  
+| bip_39_word_underscore_6 | rule_fat_bread_ginger_denial_stem |  
+| bip_39_word_underscore_7 | rule_fat_bread_ginger_denial_stem_crowd |  
+| bip_39_word_underscore_8 | rule_fat_bread_ginger_denial_stem_crowd_brave |  
+| bip_39_word_underscore_9 | rule_fat_bread_ginger_denial_stem_crowd_brave_select |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

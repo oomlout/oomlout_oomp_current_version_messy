@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stay |  
+| bip_39_word_dash_10 | stay-language-message-grape-fun-trophy-flush-rather-level-umbrella |  
+| bip_39_word_dash_11 | stay-language-message-grape-fun-trophy-flush-rather-level-umbrella-lobster |  
+| bip_39_word_dash_12 | stay-language-message-grape-fun-trophy-flush-rather-level-umbrella-lobster-autumn |  
+| bip_39_word_dash_2 | stay-language |  
+| bip_39_word_dash_3 | stay-language-message |  
+| bip_39_word_dash_4 | stay-language-message-grape |  
+| bip_39_word_dash_5 | stay-language-message-grape-fun |  
+| bip_39_word_dash_6 | stay-language-message-grape-fun-trophy |  
+| bip_39_word_dash_7 | stay-language-message-grape-fun-trophy-flush |  
+| bip_39_word_dash_8 | stay-language-message-grape-fun-trophy-flush-rather |  
+| bip_39_word_dash_9 | stay-language-message-grape-fun-trophy-flush-rather-level |  
 | bip_39_word_new_br_1 | stay |  
 | bip_39_word_new_br_10 | stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather<br>level<br>umbrella |  
 | bip_39_word_new_br_11 | stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather<br>level<br>umbrella<br>lobster |  
@@ -147,6 +159,18 @@ level |
 | bip_39_word_space_7 | stay language message grape fun trophy flush |  
 | bip_39_word_space_8 | stay language message grape fun trophy flush rather |  
 | bip_39_word_space_9 | stay language message grape fun trophy flush rather level |  
+| bip_39_word_underscore_1 | stay |  
+| bip_39_word_underscore_10 | stay_language_message_grape_fun_trophy_flush_rather_level_umbrella |  
+| bip_39_word_underscore_11 | stay_language_message_grape_fun_trophy_flush_rather_level_umbrella_lobster |  
+| bip_39_word_underscore_12 | stay_language_message_grape_fun_trophy_flush_rather_level_umbrella_lobster_autumn |  
+| bip_39_word_underscore_2 | stay_language |  
+| bip_39_word_underscore_3 | stay_language_message |  
+| bip_39_word_underscore_4 | stay_language_message_grape |  
+| bip_39_word_underscore_5 | stay_language_message_grape_fun |  
+| bip_39_word_underscore_6 | stay_language_message_grape_fun_trophy |  
+| bip_39_word_underscore_7 | stay_language_message_grape_fun_trophy_flush |  
+| bip_39_word_underscore_8 | stay_language_message_grape_fun_trophy_flush_rather |  
+| bip_39_word_underscore_9 | stay_language_message_grape_fun_trophy_flush_rather_level |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

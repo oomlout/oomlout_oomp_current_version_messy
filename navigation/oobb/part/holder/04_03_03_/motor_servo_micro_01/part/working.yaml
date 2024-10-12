@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tool
+bip_39_word_dash_10: tool-post-series-party-sun-dream-panel-stand-rigid-advance
+bip_39_word_dash_11: tool-post-series-party-sun-dream-panel-stand-rigid-advance-trigger
+bip_39_word_dash_12: tool-post-series-party-sun-dream-panel-stand-rigid-advance-trigger-absent
+bip_39_word_dash_2: tool-post
+bip_39_word_dash_3: tool-post-series
+bip_39_word_dash_4: tool-post-series-party
+bip_39_word_dash_5: tool-post-series-party-sun
+bip_39_word_dash_6: tool-post-series-party-sun-dream
+bip_39_word_dash_7: tool-post-series-party-sun-dream-panel
+bip_39_word_dash_8: tool-post-series-party-sun-dream-panel-stand
+bip_39_word_dash_9: tool-post-series-party-sun-dream-panel-stand-rigid
 bip_39_word_new_br_1: tool
 bip_39_word_new_br_10: tool<br>post<br>series<br>party<br>sun<br>dream<br>panel<br>stand<br>rigid<br>advance
 bip_39_word_new_br_11: tool<br>post<br>series<br>party<br>sun<br>dream<br>panel<br>stand<br>rigid<br>advance<br>trigger
@@ -192,6 +204,18 @@ bip_39_word_space_6: tool post series party sun dream
 bip_39_word_space_7: tool post series party sun dream panel
 bip_39_word_space_8: tool post series party sun dream panel stand
 bip_39_word_space_9: tool post series party sun dream panel stand rigid
+bip_39_word_underscore_1: tool
+bip_39_word_underscore_10: tool_post_series_party_sun_dream_panel_stand_rigid_advance
+bip_39_word_underscore_11: tool_post_series_party_sun_dream_panel_stand_rigid_advance_trigger
+bip_39_word_underscore_12: tool_post_series_party_sun_dream_panel_stand_rigid_advance_trigger_absent
+bip_39_word_underscore_2: tool_post
+bip_39_word_underscore_3: tool_post_series
+bip_39_word_underscore_4: tool_post_series_party
+bip_39_word_underscore_5: tool_post_series_party_sun
+bip_39_word_underscore_6: tool_post_series_party_sun_dream
+bip_39_word_underscore_7: tool_post_series_party_sun_dream_panel
+bip_39_word_underscore_8: tool_post_series_party_sun_dream_panel_stand
+bip_39_word_underscore_9: tool_post_series_party_sun_dream_panel_stand_rigid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

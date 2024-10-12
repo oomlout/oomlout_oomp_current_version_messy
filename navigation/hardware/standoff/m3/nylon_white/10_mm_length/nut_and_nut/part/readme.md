@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | message |  
+| bip_39_word_dash_10 | message-live-derive-ball-upon-apart-hunt-toddler-summer-income |  
+| bip_39_word_dash_11 | message-live-derive-ball-upon-apart-hunt-toddler-summer-income-because |  
+| bip_39_word_dash_12 | message-live-derive-ball-upon-apart-hunt-toddler-summer-income-because-alter |  
+| bip_39_word_dash_2 | message-live |  
+| bip_39_word_dash_3 | message-live-derive |  
+| bip_39_word_dash_4 | message-live-derive-ball |  
+| bip_39_word_dash_5 | message-live-derive-ball-upon |  
+| bip_39_word_dash_6 | message-live-derive-ball-upon-apart |  
+| bip_39_word_dash_7 | message-live-derive-ball-upon-apart-hunt |  
+| bip_39_word_dash_8 | message-live-derive-ball-upon-apart-hunt-toddler |  
+| bip_39_word_dash_9 | message-live-derive-ball-upon-apart-hunt-toddler-summer |  
 | bip_39_word_new_br_1 | message |  
 | bip_39_word_new_br_10 | message<br>live<br>derive<br>ball<br>upon<br>apart<br>hunt<br>toddler<br>summer<br>income |  
 | bip_39_word_new_br_11 | message<br>live<br>derive<br>ball<br>upon<br>apart<br>hunt<br>toddler<br>summer<br>income<br>because |  
@@ -147,6 +159,18 @@ summer |
 | bip_39_word_space_7 | message live derive ball upon apart hunt |  
 | bip_39_word_space_8 | message live derive ball upon apart hunt toddler |  
 | bip_39_word_space_9 | message live derive ball upon apart hunt toddler summer |  
+| bip_39_word_underscore_1 | message |  
+| bip_39_word_underscore_10 | message_live_derive_ball_upon_apart_hunt_toddler_summer_income |  
+| bip_39_word_underscore_11 | message_live_derive_ball_upon_apart_hunt_toddler_summer_income_because |  
+| bip_39_word_underscore_12 | message_live_derive_ball_upon_apart_hunt_toddler_summer_income_because_alter |  
+| bip_39_word_underscore_2 | message_live |  
+| bip_39_word_underscore_3 | message_live_derive |  
+| bip_39_word_underscore_4 | message_live_derive_ball |  
+| bip_39_word_underscore_5 | message_live_derive_ball_upon |  
+| bip_39_word_underscore_6 | message_live_derive_ball_upon_apart |  
+| bip_39_word_underscore_7 | message_live_derive_ball_upon_apart_hunt |  
+| bip_39_word_underscore_8 | message_live_derive_ball_upon_apart_hunt_toddler |  
+| bip_39_word_underscore_9 | message_live_derive_ball_upon_apart_hunt_toddler_summer |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

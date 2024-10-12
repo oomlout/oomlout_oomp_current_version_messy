@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sick |  
+| bip_39_word_dash_10 | sick-lottery-spice-skill-know-swear-dove-artist-plug-tank |  
+| bip_39_word_dash_11 | sick-lottery-spice-skill-know-swear-dove-artist-plug-tank-pen |  
+| bip_39_word_dash_12 | sick-lottery-spice-skill-know-swear-dove-artist-plug-tank-pen-about |  
+| bip_39_word_dash_2 | sick-lottery |  
+| bip_39_word_dash_3 | sick-lottery-spice |  
+| bip_39_word_dash_4 | sick-lottery-spice-skill |  
+| bip_39_word_dash_5 | sick-lottery-spice-skill-know |  
+| bip_39_word_dash_6 | sick-lottery-spice-skill-know-swear |  
+| bip_39_word_dash_7 | sick-lottery-spice-skill-know-swear-dove |  
+| bip_39_word_dash_8 | sick-lottery-spice-skill-know-swear-dove-artist |  
+| bip_39_word_dash_9 | sick-lottery-spice-skill-know-swear-dove-artist-plug |  
 | bip_39_word_new_br_1 | sick |  
 | bip_39_word_new_br_10 | sick<br>lottery<br>spice<br>skill<br>know<br>swear<br>dove<br>artist<br>plug<br>tank |  
 | bip_39_word_new_br_11 | sick<br>lottery<br>spice<br>skill<br>know<br>swear<br>dove<br>artist<br>plug<br>tank<br>pen |  
@@ -147,6 +159,18 @@ plug |
 | bip_39_word_space_7 | sick lottery spice skill know swear dove |  
 | bip_39_word_space_8 | sick lottery spice skill know swear dove artist |  
 | bip_39_word_space_9 | sick lottery spice skill know swear dove artist plug |  
+| bip_39_word_underscore_1 | sick |  
+| bip_39_word_underscore_10 | sick_lottery_spice_skill_know_swear_dove_artist_plug_tank |  
+| bip_39_word_underscore_11 | sick_lottery_spice_skill_know_swear_dove_artist_plug_tank_pen |  
+| bip_39_word_underscore_12 | sick_lottery_spice_skill_know_swear_dove_artist_plug_tank_pen_about |  
+| bip_39_word_underscore_2 | sick_lottery |  
+| bip_39_word_underscore_3 | sick_lottery_spice |  
+| bip_39_word_underscore_4 | sick_lottery_spice_skill |  
+| bip_39_word_underscore_5 | sick_lottery_spice_skill_know |  
+| bip_39_word_underscore_6 | sick_lottery_spice_skill_know_swear |  
+| bip_39_word_underscore_7 | sick_lottery_spice_skill_know_swear_dove |  
+| bip_39_word_underscore_8 | sick_lottery_spice_skill_know_swear_dove_artist |  
+| bip_39_word_underscore_9 | sick_lottery_spice_skill_know_swear_dove_artist_plug |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

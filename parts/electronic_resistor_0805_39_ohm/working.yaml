@@ -1,3 +1,15 @@
+bip_39_word_dash_1: useless
+bip_39_word_dash_10: useless-piano-organ-still-jewel-visit-fluid-announce-arrest-craft
+bip_39_word_dash_11: useless-piano-organ-still-jewel-visit-fluid-announce-arrest-craft-razor
+bip_39_word_dash_12: useless-piano-organ-still-jewel-visit-fluid-announce-arrest-craft-razor-above
+bip_39_word_dash_2: useless-piano
+bip_39_word_dash_3: useless-piano-organ
+bip_39_word_dash_4: useless-piano-organ-still
+bip_39_word_dash_5: useless-piano-organ-still-jewel
+bip_39_word_dash_6: useless-piano-organ-still-jewel-visit
+bip_39_word_dash_7: useless-piano-organ-still-jewel-visit-fluid
+bip_39_word_dash_8: useless-piano-organ-still-jewel-visit-fluid-announce
+bip_39_word_dash_9: useless-piano-organ-still-jewel-visit-fluid-announce-arrest
 bip_39_word_new_br_1: useless
 bip_39_word_new_br_10: useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft
 bip_39_word_new_br_11: useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft<br>razor
@@ -194,6 +206,18 @@ bip_39_word_space_6: useless piano organ still jewel visit
 bip_39_word_space_7: useless piano organ still jewel visit fluid
 bip_39_word_space_8: useless piano organ still jewel visit fluid announce
 bip_39_word_space_9: useless piano organ still jewel visit fluid announce arrest
+bip_39_word_underscore_1: useless
+bip_39_word_underscore_10: useless_piano_organ_still_jewel_visit_fluid_announce_arrest_craft
+bip_39_word_underscore_11: useless_piano_organ_still_jewel_visit_fluid_announce_arrest_craft_razor
+bip_39_word_underscore_12: useless_piano_organ_still_jewel_visit_fluid_announce_arrest_craft_razor_above
+bip_39_word_underscore_2: useless_piano
+bip_39_word_underscore_3: useless_piano_organ
+bip_39_word_underscore_4: useless_piano_organ_still
+bip_39_word_underscore_5: useless_piano_organ_still_jewel
+bip_39_word_underscore_6: useless_piano_organ_still_jewel_visit
+bip_39_word_underscore_7: useless_piano_organ_still_jewel_visit_fluid
+bip_39_word_underscore_8: useless_piano_organ_still_jewel_visit_fluid_announce
+bip_39_word_underscore_9: useless_piano_organ_still_jewel_visit_fluid_announce_arrest
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

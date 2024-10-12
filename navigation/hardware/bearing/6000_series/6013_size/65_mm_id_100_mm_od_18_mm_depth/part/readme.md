@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tiger |  
+| bip_39_word_dash_10 | tiger-wash-depend-hollow-lock-appear-census-blanket-wagon-heart |  
+| bip_39_word_dash_11 | tiger-wash-depend-hollow-lock-appear-census-blanket-wagon-heart-disease |  
+| bip_39_word_dash_12 | tiger-wash-depend-hollow-lock-appear-census-blanket-wagon-heart-disease-alert |  
+| bip_39_word_dash_2 | tiger-wash |  
+| bip_39_word_dash_3 | tiger-wash-depend |  
+| bip_39_word_dash_4 | tiger-wash-depend-hollow |  
+| bip_39_word_dash_5 | tiger-wash-depend-hollow-lock |  
+| bip_39_word_dash_6 | tiger-wash-depend-hollow-lock-appear |  
+| bip_39_word_dash_7 | tiger-wash-depend-hollow-lock-appear-census |  
+| bip_39_word_dash_8 | tiger-wash-depend-hollow-lock-appear-census-blanket |  
+| bip_39_word_dash_9 | tiger-wash-depend-hollow-lock-appear-census-blanket-wagon |  
 | bip_39_word_new_br_1 | tiger |  
 | bip_39_word_new_br_10 | tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket<br>wagon<br>heart |  
 | bip_39_word_new_br_11 | tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket<br>wagon<br>heart<br>disease |  
@@ -147,6 +159,18 @@ wagon |
 | bip_39_word_space_7 | tiger wash depend hollow lock appear census |  
 | bip_39_word_space_8 | tiger wash depend hollow lock appear census blanket |  
 | bip_39_word_space_9 | tiger wash depend hollow lock appear census blanket wagon |  
+| bip_39_word_underscore_1 | tiger |  
+| bip_39_word_underscore_10 | tiger_wash_depend_hollow_lock_appear_census_blanket_wagon_heart |  
+| bip_39_word_underscore_11 | tiger_wash_depend_hollow_lock_appear_census_blanket_wagon_heart_disease |  
+| bip_39_word_underscore_12 | tiger_wash_depend_hollow_lock_appear_census_blanket_wagon_heart_disease_alert |  
+| bip_39_word_underscore_2 | tiger_wash |  
+| bip_39_word_underscore_3 | tiger_wash_depend |  
+| bip_39_word_underscore_4 | tiger_wash_depend_hollow |  
+| bip_39_word_underscore_5 | tiger_wash_depend_hollow_lock |  
+| bip_39_word_underscore_6 | tiger_wash_depend_hollow_lock_appear |  
+| bip_39_word_underscore_7 | tiger_wash_depend_hollow_lock_appear_census |  
+| bip_39_word_underscore_8 | tiger_wash_depend_hollow_lock_appear_census_blanket |  
+| bip_39_word_underscore_9 | tiger_wash_depend_hollow_lock_appear_census_blanket_wagon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

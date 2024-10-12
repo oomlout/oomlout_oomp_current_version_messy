@@ -1,3 +1,15 @@
+bip_39_word_dash_1: large
+bip_39_word_dash_10: large-before-scrap-ability-derive-pioneer-exhaust-library-kiwi-peasant
+bip_39_word_dash_11: large-before-scrap-ability-derive-pioneer-exhaust-library-kiwi-peasant-moment
+bip_39_word_dash_12: large-before-scrap-ability-derive-pioneer-exhaust-library-kiwi-peasant-moment-acid
+bip_39_word_dash_2: large-before
+bip_39_word_dash_3: large-before-scrap
+bip_39_word_dash_4: large-before-scrap-ability
+bip_39_word_dash_5: large-before-scrap-ability-derive
+bip_39_word_dash_6: large-before-scrap-ability-derive-pioneer
+bip_39_word_dash_7: large-before-scrap-ability-derive-pioneer-exhaust
+bip_39_word_dash_8: large-before-scrap-ability-derive-pioneer-exhaust-library
+bip_39_word_dash_9: large-before-scrap-ability-derive-pioneer-exhaust-library-kiwi
 bip_39_word_new_br_1: large
 bip_39_word_new_br_10: large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant
 bip_39_word_new_br_11: large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant<br>moment
@@ -194,6 +206,18 @@ bip_39_word_space_6: large before scrap ability derive pioneer
 bip_39_word_space_7: large before scrap ability derive pioneer exhaust
 bip_39_word_space_8: large before scrap ability derive pioneer exhaust library
 bip_39_word_space_9: large before scrap ability derive pioneer exhaust library kiwi
+bip_39_word_underscore_1: large
+bip_39_word_underscore_10: large_before_scrap_ability_derive_pioneer_exhaust_library_kiwi_peasant
+bip_39_word_underscore_11: large_before_scrap_ability_derive_pioneer_exhaust_library_kiwi_peasant_moment
+bip_39_word_underscore_12: large_before_scrap_ability_derive_pioneer_exhaust_library_kiwi_peasant_moment_acid
+bip_39_word_underscore_2: large_before
+bip_39_word_underscore_3: large_before_scrap
+bip_39_word_underscore_4: large_before_scrap_ability
+bip_39_word_underscore_5: large_before_scrap_ability_derive
+bip_39_word_underscore_6: large_before_scrap_ability_derive_pioneer
+bip_39_word_underscore_7: large_before_scrap_ability_derive_pioneer_exhaust
+bip_39_word_underscore_8: large_before_scrap_ability_derive_pioneer_exhaust_library
+bip_39_word_underscore_9: large_before_scrap_ability_derive_pioneer_exhaust_library_kiwi
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

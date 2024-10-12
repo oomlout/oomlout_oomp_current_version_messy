@@ -1,3 +1,15 @@
+bip_39_word_dash_1: easy
+bip_39_word_dash_10: easy-trash-among-rhythm-gloom-goddess-harsh-where-loud-grid
+bip_39_word_dash_11: easy-trash-among-rhythm-gloom-goddess-harsh-where-loud-grid-style
+bip_39_word_dash_12: easy-trash-among-rhythm-gloom-goddess-harsh-where-loud-grid-style-album
+bip_39_word_dash_2: easy-trash
+bip_39_word_dash_3: easy-trash-among
+bip_39_word_dash_4: easy-trash-among-rhythm
+bip_39_word_dash_5: easy-trash-among-rhythm-gloom
+bip_39_word_dash_6: easy-trash-among-rhythm-gloom-goddess
+bip_39_word_dash_7: easy-trash-among-rhythm-gloom-goddess-harsh
+bip_39_word_dash_8: easy-trash-among-rhythm-gloom-goddess-harsh-where
+bip_39_word_dash_9: easy-trash-among-rhythm-gloom-goddess-harsh-where-loud
 bip_39_word_new_br_1: easy
 bip_39_word_new_br_10: easy<br>trash<br>among<br>rhythm<br>gloom<br>goddess<br>harsh<br>where<br>loud<br>grid
 bip_39_word_new_br_11: easy<br>trash<br>among<br>rhythm<br>gloom<br>goddess<br>harsh<br>where<br>loud<br>grid<br>style
@@ -193,6 +205,18 @@ bip_39_word_space_6: easy trash among rhythm gloom goddess
 bip_39_word_space_7: easy trash among rhythm gloom goddess harsh
 bip_39_word_space_8: easy trash among rhythm gloom goddess harsh where
 bip_39_word_space_9: easy trash among rhythm gloom goddess harsh where loud
+bip_39_word_underscore_1: easy
+bip_39_word_underscore_10: easy_trash_among_rhythm_gloom_goddess_harsh_where_loud_grid
+bip_39_word_underscore_11: easy_trash_among_rhythm_gloom_goddess_harsh_where_loud_grid_style
+bip_39_word_underscore_12: easy_trash_among_rhythm_gloom_goddess_harsh_where_loud_grid_style_album
+bip_39_word_underscore_2: easy_trash
+bip_39_word_underscore_3: easy_trash_among
+bip_39_word_underscore_4: easy_trash_among_rhythm
+bip_39_word_underscore_5: easy_trash_among_rhythm_gloom
+bip_39_word_underscore_6: easy_trash_among_rhythm_gloom_goddess
+bip_39_word_underscore_7: easy_trash_among_rhythm_gloom_goddess_harsh
+bip_39_word_underscore_8: easy_trash_among_rhythm_gloom_goddess_harsh_where
+bip_39_word_underscore_9: easy_trash_among_rhythm_gloom_goddess_harsh_where_loud
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

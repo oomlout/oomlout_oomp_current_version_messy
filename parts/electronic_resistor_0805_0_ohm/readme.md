@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | answer |  
+| bip_39_word_dash_10 | answer-clean-fatal-nerve-violin-book-stomach-among-stereo-blush |  
+| bip_39_word_dash_11 | answer-clean-fatal-nerve-violin-book-stomach-among-stereo-blush-clog |  
+| bip_39_word_dash_12 | answer-clean-fatal-nerve-violin-book-stomach-among-stereo-blush-clog-artwork |  
+| bip_39_word_dash_2 | answer-clean |  
+| bip_39_word_dash_3 | answer-clean-fatal |  
+| bip_39_word_dash_4 | answer-clean-fatal-nerve |  
+| bip_39_word_dash_5 | answer-clean-fatal-nerve-violin |  
+| bip_39_word_dash_6 | answer-clean-fatal-nerve-violin-book |  
+| bip_39_word_dash_7 | answer-clean-fatal-nerve-violin-book-stomach |  
+| bip_39_word_dash_8 | answer-clean-fatal-nerve-violin-book-stomach-among |  
+| bip_39_word_dash_9 | answer-clean-fatal-nerve-violin-book-stomach-among-stereo |  
 | bip_39_word_new_br_1 | answer |  
 | bip_39_word_new_br_10 | answer<br>clean<br>fatal<br>nerve<br>violin<br>book<br>stomach<br>among<br>stereo<br>blush |  
 | bip_39_word_new_br_11 | answer<br>clean<br>fatal<br>nerve<br>violin<br>book<br>stomach<br>among<br>stereo<br>blush<br>clog |  
@@ -147,6 +159,18 @@ stereo |
 | bip_39_word_space_7 | answer clean fatal nerve violin book stomach |  
 | bip_39_word_space_8 | answer clean fatal nerve violin book stomach among |  
 | bip_39_word_space_9 | answer clean fatal nerve violin book stomach among stereo |  
+| bip_39_word_underscore_1 | answer |  
+| bip_39_word_underscore_10 | answer_clean_fatal_nerve_violin_book_stomach_among_stereo_blush |  
+| bip_39_word_underscore_11 | answer_clean_fatal_nerve_violin_book_stomach_among_stereo_blush_clog |  
+| bip_39_word_underscore_12 | answer_clean_fatal_nerve_violin_book_stomach_among_stereo_blush_clog_artwork |  
+| bip_39_word_underscore_2 | answer_clean |  
+| bip_39_word_underscore_3 | answer_clean_fatal |  
+| bip_39_word_underscore_4 | answer_clean_fatal_nerve |  
+| bip_39_word_underscore_5 | answer_clean_fatal_nerve_violin |  
+| bip_39_word_underscore_6 | answer_clean_fatal_nerve_violin_book |  
+| bip_39_word_underscore_7 | answer_clean_fatal_nerve_violin_book_stomach |  
+| bip_39_word_underscore_8 | answer_clean_fatal_nerve_violin_book_stomach_among |  
+| bip_39_word_underscore_9 | answer_clean_fatal_nerve_violin_book_stomach_among_stereo |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

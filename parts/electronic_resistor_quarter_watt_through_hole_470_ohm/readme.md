@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | year |  
+| bip_39_word_dash_10 | year-rack-during-airport-proof-identify-check-engage-aisle-deputy |  
+| bip_39_word_dash_11 | year-rack-during-airport-proof-identify-check-engage-aisle-deputy-stool |  
+| bip_39_word_dash_12 | year-rack-during-airport-proof-identify-check-engage-aisle-deputy-stool-again |  
+| bip_39_word_dash_2 | year-rack |  
+| bip_39_word_dash_3 | year-rack-during |  
+| bip_39_word_dash_4 | year-rack-during-airport |  
+| bip_39_word_dash_5 | year-rack-during-airport-proof |  
+| bip_39_word_dash_6 | year-rack-during-airport-proof-identify |  
+| bip_39_word_dash_7 | year-rack-during-airport-proof-identify-check |  
+| bip_39_word_dash_8 | year-rack-during-airport-proof-identify-check-engage |  
+| bip_39_word_dash_9 | year-rack-during-airport-proof-identify-check-engage-aisle |  
 | bip_39_word_new_br_1 | year |  
 | bip_39_word_new_br_10 | year<br>rack<br>during<br>airport<br>proof<br>identify<br>check<br>engage<br>aisle<br>deputy |  
 | bip_39_word_new_br_11 | year<br>rack<br>during<br>airport<br>proof<br>identify<br>check<br>engage<br>aisle<br>deputy<br>stool |  
@@ -147,6 +159,18 @@ aisle |
 | bip_39_word_space_7 | year rack during airport proof identify check |  
 | bip_39_word_space_8 | year rack during airport proof identify check engage |  
 | bip_39_word_space_9 | year rack during airport proof identify check engage aisle |  
+| bip_39_word_underscore_1 | year |  
+| bip_39_word_underscore_10 | year_rack_during_airport_proof_identify_check_engage_aisle_deputy |  
+| bip_39_word_underscore_11 | year_rack_during_airport_proof_identify_check_engage_aisle_deputy_stool |  
+| bip_39_word_underscore_12 | year_rack_during_airport_proof_identify_check_engage_aisle_deputy_stool_again |  
+| bip_39_word_underscore_2 | year_rack |  
+| bip_39_word_underscore_3 | year_rack_during |  
+| bip_39_word_underscore_4 | year_rack_during_airport |  
+| bip_39_word_underscore_5 | year_rack_during_airport_proof |  
+| bip_39_word_underscore_6 | year_rack_during_airport_proof_identify |  
+| bip_39_word_underscore_7 | year_rack_during_airport_proof_identify_check |  
+| bip_39_word_underscore_8 | year_rack_during_airport_proof_identify_check_engage |  
+| bip_39_word_underscore_9 | year_rack_during_airport_proof_identify_check_engage_aisle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

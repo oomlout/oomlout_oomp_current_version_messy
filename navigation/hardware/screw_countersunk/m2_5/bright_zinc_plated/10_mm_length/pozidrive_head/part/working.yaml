@@ -1,3 +1,15 @@
+bip_39_word_dash_1: like
+bip_39_word_dash_10: like-daughter-outer-model-frost-choice-seminar-defense-chapter-kangaroo
+bip_39_word_dash_11: like-daughter-outer-model-frost-choice-seminar-defense-chapter-kangaroo-cereal
+bip_39_word_dash_12: like-daughter-outer-model-frost-choice-seminar-defense-chapter-kangaroo-cereal-approve
+bip_39_word_dash_2: like-daughter
+bip_39_word_dash_3: like-daughter-outer
+bip_39_word_dash_4: like-daughter-outer-model
+bip_39_word_dash_5: like-daughter-outer-model-frost
+bip_39_word_dash_6: like-daughter-outer-model-frost-choice
+bip_39_word_dash_7: like-daughter-outer-model-frost-choice-seminar
+bip_39_word_dash_8: like-daughter-outer-model-frost-choice-seminar-defense
+bip_39_word_dash_9: like-daughter-outer-model-frost-choice-seminar-defense-chapter
 bip_39_word_new_br_1: like
 bip_39_word_new_br_10: like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense<br>chapter<br>kangaroo
 bip_39_word_new_br_11: like<br>daughter<br>outer<br>model<br>frost<br>choice<br>seminar<br>defense<br>chapter<br>kangaroo<br>cereal
@@ -194,6 +206,18 @@ bip_39_word_space_6: like daughter outer model frost choice
 bip_39_word_space_7: like daughter outer model frost choice seminar
 bip_39_word_space_8: like daughter outer model frost choice seminar defense
 bip_39_word_space_9: like daughter outer model frost choice seminar defense chapter
+bip_39_word_underscore_1: like
+bip_39_word_underscore_10: like_daughter_outer_model_frost_choice_seminar_defense_chapter_kangaroo
+bip_39_word_underscore_11: like_daughter_outer_model_frost_choice_seminar_defense_chapter_kangaroo_cereal
+bip_39_word_underscore_12: like_daughter_outer_model_frost_choice_seminar_defense_chapter_kangaroo_cereal_approve
+bip_39_word_underscore_2: like_daughter
+bip_39_word_underscore_3: like_daughter_outer
+bip_39_word_underscore_4: like_daughter_outer_model
+bip_39_word_underscore_5: like_daughter_outer_model_frost
+bip_39_word_underscore_6: like_daughter_outer_model_frost_choice
+bip_39_word_underscore_7: like_daughter_outer_model_frost_choice_seminar
+bip_39_word_underscore_8: like_daughter_outer_model_frost_choice_seminar_defense
+bip_39_word_underscore_9: like_daughter_outer_model_frost_choice_seminar_defense_chapter
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | danger |  
+| bip_39_word_dash_10 | danger-hole-transfer-jump-addict-jealous-worth-cloud-second-stomach |  
+| bip_39_word_dash_11 | danger-hole-transfer-jump-addict-jealous-worth-cloud-second-stomach-crew |  
+| bip_39_word_dash_12 | danger-hole-transfer-jump-addict-jealous-worth-cloud-second-stomach-crew-army |  
+| bip_39_word_dash_2 | danger-hole |  
+| bip_39_word_dash_3 | danger-hole-transfer |  
+| bip_39_word_dash_4 | danger-hole-transfer-jump |  
+| bip_39_word_dash_5 | danger-hole-transfer-jump-addict |  
+| bip_39_word_dash_6 | danger-hole-transfer-jump-addict-jealous |  
+| bip_39_word_dash_7 | danger-hole-transfer-jump-addict-jealous-worth |  
+| bip_39_word_dash_8 | danger-hole-transfer-jump-addict-jealous-worth-cloud |  
+| bip_39_word_dash_9 | danger-hole-transfer-jump-addict-jealous-worth-cloud-second |  
 | bip_39_word_new_br_1 | danger |  
 | bip_39_word_new_br_10 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach |  
 | bip_39_word_new_br_11 | danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach<br>crew |  
@@ -147,6 +159,18 @@ second |
 | bip_39_word_space_7 | danger hole transfer jump addict jealous worth |  
 | bip_39_word_space_8 | danger hole transfer jump addict jealous worth cloud |  
 | bip_39_word_space_9 | danger hole transfer jump addict jealous worth cloud second |  
+| bip_39_word_underscore_1 | danger |  
+| bip_39_word_underscore_10 | danger_hole_transfer_jump_addict_jealous_worth_cloud_second_stomach |  
+| bip_39_word_underscore_11 | danger_hole_transfer_jump_addict_jealous_worth_cloud_second_stomach_crew |  
+| bip_39_word_underscore_12 | danger_hole_transfer_jump_addict_jealous_worth_cloud_second_stomach_crew_army |  
+| bip_39_word_underscore_2 | danger_hole |  
+| bip_39_word_underscore_3 | danger_hole_transfer |  
+| bip_39_word_underscore_4 | danger_hole_transfer_jump |  
+| bip_39_word_underscore_5 | danger_hole_transfer_jump_addict |  
+| bip_39_word_underscore_6 | danger_hole_transfer_jump_addict_jealous |  
+| bip_39_word_underscore_7 | danger_hole_transfer_jump_addict_jealous_worth |  
+| bip_39_word_underscore_8 | danger_hole_transfer_jump_addict_jealous_worth_cloud |  
+| bip_39_word_underscore_9 | danger_hole_transfer_jump_addict_jealous_worth_cloud_second |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

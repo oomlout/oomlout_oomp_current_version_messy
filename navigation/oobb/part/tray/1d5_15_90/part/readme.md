@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | video |  
+| bip_39_word_dash_10 | video-exact-blossom-bounce-crash-retreat-trick-champion-future-radar |  
+| bip_39_word_dash_11 | video-exact-blossom-bounce-crash-retreat-trick-champion-future-radar-tumble |  
+| bip_39_word_dash_12 | video-exact-blossom-bounce-crash-retreat-trick-champion-future-radar-tumble-analyst |  
+| bip_39_word_dash_2 | video-exact |  
+| bip_39_word_dash_3 | video-exact-blossom |  
+| bip_39_word_dash_4 | video-exact-blossom-bounce |  
+| bip_39_word_dash_5 | video-exact-blossom-bounce-crash |  
+| bip_39_word_dash_6 | video-exact-blossom-bounce-crash-retreat |  
+| bip_39_word_dash_7 | video-exact-blossom-bounce-crash-retreat-trick |  
+| bip_39_word_dash_8 | video-exact-blossom-bounce-crash-retreat-trick-champion |  
+| bip_39_word_dash_9 | video-exact-blossom-bounce-crash-retreat-trick-champion-future |  
 | bip_39_word_new_br_1 | video |  
 | bip_39_word_new_br_10 | video<br>exact<br>blossom<br>bounce<br>crash<br>retreat<br>trick<br>champion<br>future<br>radar |  
 | bip_39_word_new_br_11 | video<br>exact<br>blossom<br>bounce<br>crash<br>retreat<br>trick<br>champion<br>future<br>radar<br>tumble |  
@@ -147,6 +159,18 @@ future |
 | bip_39_word_space_7 | video exact blossom bounce crash retreat trick |  
 | bip_39_word_space_8 | video exact blossom bounce crash retreat trick champion |  
 | bip_39_word_space_9 | video exact blossom bounce crash retreat trick champion future |  
+| bip_39_word_underscore_1 | video |  
+| bip_39_word_underscore_10 | video_exact_blossom_bounce_crash_retreat_trick_champion_future_radar |  
+| bip_39_word_underscore_11 | video_exact_blossom_bounce_crash_retreat_trick_champion_future_radar_tumble |  
+| bip_39_word_underscore_12 | video_exact_blossom_bounce_crash_retreat_trick_champion_future_radar_tumble_analyst |  
+| bip_39_word_underscore_2 | video_exact |  
+| bip_39_word_underscore_3 | video_exact_blossom |  
+| bip_39_word_underscore_4 | video_exact_blossom_bounce |  
+| bip_39_word_underscore_5 | video_exact_blossom_bounce_crash |  
+| bip_39_word_underscore_6 | video_exact_blossom_bounce_crash_retreat |  
+| bip_39_word_underscore_7 | video_exact_blossom_bounce_crash_retreat_trick |  
+| bip_39_word_underscore_8 | video_exact_blossom_bounce_crash_retreat_trick_champion |  
+| bip_39_word_underscore_9 | video_exact_blossom_bounce_crash_retreat_trick_champion_future |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

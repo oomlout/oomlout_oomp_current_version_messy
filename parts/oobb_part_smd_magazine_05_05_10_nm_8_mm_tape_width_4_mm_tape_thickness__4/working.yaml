@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hundred
+bip_39_word_dash_10: hundred-young-endless-slogan-patrol-portion-horn-dash-assume-action
+bip_39_word_dash_11: hundred-young-endless-slogan-patrol-portion-horn-dash-assume-action-grain
+bip_39_word_dash_12: hundred-young-endless-slogan-patrol-portion-horn-dash-assume-action-grain-agent
+bip_39_word_dash_2: hundred-young
+bip_39_word_dash_3: hundred-young-endless
+bip_39_word_dash_4: hundred-young-endless-slogan
+bip_39_word_dash_5: hundred-young-endless-slogan-patrol
+bip_39_word_dash_6: hundred-young-endless-slogan-patrol-portion
+bip_39_word_dash_7: hundred-young-endless-slogan-patrol-portion-horn
+bip_39_word_dash_8: hundred-young-endless-slogan-patrol-portion-horn-dash
+bip_39_word_dash_9: hundred-young-endless-slogan-patrol-portion-horn-dash-assume
 bip_39_word_new_br_1: hundred
 bip_39_word_new_br_10: hundred<br>young<br>endless<br>slogan<br>patrol<br>portion<br>horn<br>dash<br>assume<br>action
 bip_39_word_new_br_11: hundred<br>young<br>endless<br>slogan<br>patrol<br>portion<br>horn<br>dash<br>assume<br>action<br>grain
@@ -194,6 +206,18 @@ bip_39_word_space_6: hundred young endless slogan patrol portion
 bip_39_word_space_7: hundred young endless slogan patrol portion horn
 bip_39_word_space_8: hundred young endless slogan patrol portion horn dash
 bip_39_word_space_9: hundred young endless slogan patrol portion horn dash assume
+bip_39_word_underscore_1: hundred
+bip_39_word_underscore_10: hundred_young_endless_slogan_patrol_portion_horn_dash_assume_action
+bip_39_word_underscore_11: hundred_young_endless_slogan_patrol_portion_horn_dash_assume_action_grain
+bip_39_word_underscore_12: hundred_young_endless_slogan_patrol_portion_horn_dash_assume_action_grain_agent
+bip_39_word_underscore_2: hundred_young
+bip_39_word_underscore_3: hundred_young_endless
+bip_39_word_underscore_4: hundred_young_endless_slogan
+bip_39_word_underscore_5: hundred_young_endless_slogan_patrol
+bip_39_word_underscore_6: hundred_young_endless_slogan_patrol_portion
+bip_39_word_underscore_7: hundred_young_endless_slogan_patrol_portion_horn
+bip_39_word_underscore_8: hundred_young_endless_slogan_patrol_portion_horn_dash
+bip_39_word_underscore_9: hundred_young_endless_slogan_patrol_portion_horn_dash_assume
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

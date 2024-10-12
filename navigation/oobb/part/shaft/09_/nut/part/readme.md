@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tilt |  
+| bip_39_word_dash_10 | tilt-grocery-clarify-library-symptom-mom-illness-fortune-brush-silent |  
+| bip_39_word_dash_11 | tilt-grocery-clarify-library-symptom-mom-illness-fortune-brush-silent-buyer |  
+| bip_39_word_dash_12 | tilt-grocery-clarify-library-symptom-mom-illness-fortune-brush-silent-buyer-arrange |  
+| bip_39_word_dash_2 | tilt-grocery |  
+| bip_39_word_dash_3 | tilt-grocery-clarify |  
+| bip_39_word_dash_4 | tilt-grocery-clarify-library |  
+| bip_39_word_dash_5 | tilt-grocery-clarify-library-symptom |  
+| bip_39_word_dash_6 | tilt-grocery-clarify-library-symptom-mom |  
+| bip_39_word_dash_7 | tilt-grocery-clarify-library-symptom-mom-illness |  
+| bip_39_word_dash_8 | tilt-grocery-clarify-library-symptom-mom-illness-fortune |  
+| bip_39_word_dash_9 | tilt-grocery-clarify-library-symptom-mom-illness-fortune-brush |  
 | bip_39_word_new_br_1 | tilt |  
 | bip_39_word_new_br_10 | tilt<br>grocery<br>clarify<br>library<br>symptom<br>mom<br>illness<br>fortune<br>brush<br>silent |  
 | bip_39_word_new_br_11 | tilt<br>grocery<br>clarify<br>library<br>symptom<br>mom<br>illness<br>fortune<br>brush<br>silent<br>buyer |  
@@ -147,6 +159,18 @@ brush |
 | bip_39_word_space_7 | tilt grocery clarify library symptom mom illness |  
 | bip_39_word_space_8 | tilt grocery clarify library symptom mom illness fortune |  
 | bip_39_word_space_9 | tilt grocery clarify library symptom mom illness fortune brush |  
+| bip_39_word_underscore_1 | tilt |  
+| bip_39_word_underscore_10 | tilt_grocery_clarify_library_symptom_mom_illness_fortune_brush_silent |  
+| bip_39_word_underscore_11 | tilt_grocery_clarify_library_symptom_mom_illness_fortune_brush_silent_buyer |  
+| bip_39_word_underscore_12 | tilt_grocery_clarify_library_symptom_mom_illness_fortune_brush_silent_buyer_arrange |  
+| bip_39_word_underscore_2 | tilt_grocery |  
+| bip_39_word_underscore_3 | tilt_grocery_clarify |  
+| bip_39_word_underscore_4 | tilt_grocery_clarify_library |  
+| bip_39_word_underscore_5 | tilt_grocery_clarify_library_symptom |  
+| bip_39_word_underscore_6 | tilt_grocery_clarify_library_symptom_mom |  
+| bip_39_word_underscore_7 | tilt_grocery_clarify_library_symptom_mom_illness |  
+| bip_39_word_underscore_8 | tilt_grocery_clarify_library_symptom_mom_illness_fortune |  
+| bip_39_word_underscore_9 | tilt_grocery_clarify_library_symptom_mom_illness_fortune_brush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

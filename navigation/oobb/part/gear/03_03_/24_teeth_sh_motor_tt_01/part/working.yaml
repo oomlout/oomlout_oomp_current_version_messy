@@ -1,3 +1,15 @@
+bip_39_word_dash_1: black
+bip_39_word_dash_10: black-lake-harbor-brave-prefer-crunch-switch-lens-pool-pill
+bip_39_word_dash_11: black-lake-harbor-brave-prefer-crunch-switch-lens-pool-pill-quote
+bip_39_word_dash_12: black-lake-harbor-brave-prefer-crunch-switch-lens-pool-pill-quote-alpha
+bip_39_word_dash_2: black-lake
+bip_39_word_dash_3: black-lake-harbor
+bip_39_word_dash_4: black-lake-harbor-brave
+bip_39_word_dash_5: black-lake-harbor-brave-prefer
+bip_39_word_dash_6: black-lake-harbor-brave-prefer-crunch
+bip_39_word_dash_7: black-lake-harbor-brave-prefer-crunch-switch
+bip_39_word_dash_8: black-lake-harbor-brave-prefer-crunch-switch-lens
+bip_39_word_dash_9: black-lake-harbor-brave-prefer-crunch-switch-lens-pool
 bip_39_word_new_br_1: black
 bip_39_word_new_br_10: black<br>lake<br>harbor<br>brave<br>prefer<br>crunch<br>switch<br>lens<br>pool<br>pill
 bip_39_word_new_br_11: black<br>lake<br>harbor<br>brave<br>prefer<br>crunch<br>switch<br>lens<br>pool<br>pill<br>quote
@@ -193,6 +205,18 @@ bip_39_word_space_6: black lake harbor brave prefer crunch
 bip_39_word_space_7: black lake harbor brave prefer crunch switch
 bip_39_word_space_8: black lake harbor brave prefer crunch switch lens
 bip_39_word_space_9: black lake harbor brave prefer crunch switch lens pool
+bip_39_word_underscore_1: black
+bip_39_word_underscore_10: black_lake_harbor_brave_prefer_crunch_switch_lens_pool_pill
+bip_39_word_underscore_11: black_lake_harbor_brave_prefer_crunch_switch_lens_pool_pill_quote
+bip_39_word_underscore_12: black_lake_harbor_brave_prefer_crunch_switch_lens_pool_pill_quote_alpha
+bip_39_word_underscore_2: black_lake
+bip_39_word_underscore_3: black_lake_harbor
+bip_39_word_underscore_4: black_lake_harbor_brave
+bip_39_word_underscore_5: black_lake_harbor_brave_prefer
+bip_39_word_underscore_6: black_lake_harbor_brave_prefer_crunch
+bip_39_word_underscore_7: black_lake_harbor_brave_prefer_crunch_switch
+bip_39_word_underscore_8: black_lake_harbor_brave_prefer_crunch_switch_lens
+bip_39_word_underscore_9: black_lake_harbor_brave_prefer_crunch_switch_lens_pool
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

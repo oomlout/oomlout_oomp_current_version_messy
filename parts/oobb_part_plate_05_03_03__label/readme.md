@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chat |  
+| bip_39_word_dash_10 | chat-toe-bean-usage-clever-public-clutch-cotton-figure-original |  
+| bip_39_word_dash_11 | chat-toe-bean-usage-clever-public-clutch-cotton-figure-original-bachelor |  
+| bip_39_word_dash_12 | chat-toe-bean-usage-clever-public-clutch-cotton-figure-original-bachelor-armed |  
+| bip_39_word_dash_2 | chat-toe |  
+| bip_39_word_dash_3 | chat-toe-bean |  
+| bip_39_word_dash_4 | chat-toe-bean-usage |  
+| bip_39_word_dash_5 | chat-toe-bean-usage-clever |  
+| bip_39_word_dash_6 | chat-toe-bean-usage-clever-public |  
+| bip_39_word_dash_7 | chat-toe-bean-usage-clever-public-clutch |  
+| bip_39_word_dash_8 | chat-toe-bean-usage-clever-public-clutch-cotton |  
+| bip_39_word_dash_9 | chat-toe-bean-usage-clever-public-clutch-cotton-figure |  
 | bip_39_word_new_br_1 | chat |  
 | bip_39_word_new_br_10 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original |  
 | bip_39_word_new_br_11 | chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original<br>bachelor |  
@@ -147,6 +159,18 @@ figure |
 | bip_39_word_space_7 | chat toe bean usage clever public clutch |  
 | bip_39_word_space_8 | chat toe bean usage clever public clutch cotton |  
 | bip_39_word_space_9 | chat toe bean usage clever public clutch cotton figure |  
+| bip_39_word_underscore_1 | chat |  
+| bip_39_word_underscore_10 | chat_toe_bean_usage_clever_public_clutch_cotton_figure_original |  
+| bip_39_word_underscore_11 | chat_toe_bean_usage_clever_public_clutch_cotton_figure_original_bachelor |  
+| bip_39_word_underscore_12 | chat_toe_bean_usage_clever_public_clutch_cotton_figure_original_bachelor_armed |  
+| bip_39_word_underscore_2 | chat_toe |  
+| bip_39_word_underscore_3 | chat_toe_bean |  
+| bip_39_word_underscore_4 | chat_toe_bean_usage |  
+| bip_39_word_underscore_5 | chat_toe_bean_usage_clever |  
+| bip_39_word_underscore_6 | chat_toe_bean_usage_clever_public |  
+| bip_39_word_underscore_7 | chat_toe_bean_usage_clever_public_clutch |  
+| bip_39_word_underscore_8 | chat_toe_bean_usage_clever_public_clutch_cotton |  
+| bip_39_word_underscore_9 | chat_toe_bean_usage_clever_public_clutch_cotton_figure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

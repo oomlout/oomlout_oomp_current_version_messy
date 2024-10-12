@@ -1,3 +1,15 @@
+bip_39_word_dash_1: garbage
+bip_39_word_dash_10: garbage-prevent-soldier-road-together-muffin-million-find-sentence-cycle
+bip_39_word_dash_11: garbage-prevent-soldier-road-together-muffin-million-find-sentence-cycle-zone
+bip_39_word_dash_12: garbage-prevent-soldier-road-together-muffin-million-find-sentence-cycle-zone-advice
+bip_39_word_dash_2: garbage-prevent
+bip_39_word_dash_3: garbage-prevent-soldier
+bip_39_word_dash_4: garbage-prevent-soldier-road
+bip_39_word_dash_5: garbage-prevent-soldier-road-together
+bip_39_word_dash_6: garbage-prevent-soldier-road-together-muffin
+bip_39_word_dash_7: garbage-prevent-soldier-road-together-muffin-million
+bip_39_word_dash_8: garbage-prevent-soldier-road-together-muffin-million-find
+bip_39_word_dash_9: garbage-prevent-soldier-road-together-muffin-million-find-sentence
 bip_39_word_new_br_1: garbage
 bip_39_word_new_br_10: garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find<br>sentence<br>cycle
 bip_39_word_new_br_11: garbage<br>prevent<br>soldier<br>road<br>together<br>muffin<br>million<br>find<br>sentence<br>cycle<br>zone
@@ -194,6 +206,18 @@ bip_39_word_space_6: garbage prevent soldier road together muffin
 bip_39_word_space_7: garbage prevent soldier road together muffin million
 bip_39_word_space_8: garbage prevent soldier road together muffin million find
 bip_39_word_space_9: garbage prevent soldier road together muffin million find sentence
+bip_39_word_underscore_1: garbage
+bip_39_word_underscore_10: garbage_prevent_soldier_road_together_muffin_million_find_sentence_cycle
+bip_39_word_underscore_11: garbage_prevent_soldier_road_together_muffin_million_find_sentence_cycle_zone
+bip_39_word_underscore_12: garbage_prevent_soldier_road_together_muffin_million_find_sentence_cycle_zone_advice
+bip_39_word_underscore_2: garbage_prevent
+bip_39_word_underscore_3: garbage_prevent_soldier
+bip_39_word_underscore_4: garbage_prevent_soldier_road
+bip_39_word_underscore_5: garbage_prevent_soldier_road_together
+bip_39_word_underscore_6: garbage_prevent_soldier_road_together_muffin
+bip_39_word_underscore_7: garbage_prevent_soldier_road_together_muffin_million
+bip_39_word_underscore_8: garbage_prevent_soldier_road_together_muffin_million_find
+bip_39_word_underscore_9: garbage_prevent_soldier_road_together_muffin_million_find_sentence
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | usage |  
+| bip_39_word_dash_10 | usage-credit-gather-rescue-elite-noodle-park-illegal-sock-science |  
+| bip_39_word_dash_11 | usage-credit-gather-rescue-elite-noodle-park-illegal-sock-science-crime |  
+| bip_39_word_dash_12 | usage-credit-gather-rescue-elite-noodle-park-illegal-sock-science-crime-average |  
+| bip_39_word_dash_2 | usage-credit |  
+| bip_39_word_dash_3 | usage-credit-gather |  
+| bip_39_word_dash_4 | usage-credit-gather-rescue |  
+| bip_39_word_dash_5 | usage-credit-gather-rescue-elite |  
+| bip_39_word_dash_6 | usage-credit-gather-rescue-elite-noodle |  
+| bip_39_word_dash_7 | usage-credit-gather-rescue-elite-noodle-park |  
+| bip_39_word_dash_8 | usage-credit-gather-rescue-elite-noodle-park-illegal |  
+| bip_39_word_dash_9 | usage-credit-gather-rescue-elite-noodle-park-illegal-sock |  
 | bip_39_word_new_br_1 | usage |  
 | bip_39_word_new_br_10 | usage<br>credit<br>gather<br>rescue<br>elite<br>noodle<br>park<br>illegal<br>sock<br>science |  
 | bip_39_word_new_br_11 | usage<br>credit<br>gather<br>rescue<br>elite<br>noodle<br>park<br>illegal<br>sock<br>science<br>crime |  
@@ -147,6 +159,18 @@ sock |
 | bip_39_word_space_7 | usage credit gather rescue elite noodle park |  
 | bip_39_word_space_8 | usage credit gather rescue elite noodle park illegal |  
 | bip_39_word_space_9 | usage credit gather rescue elite noodle park illegal sock |  
+| bip_39_word_underscore_1 | usage |  
+| bip_39_word_underscore_10 | usage_credit_gather_rescue_elite_noodle_park_illegal_sock_science |  
+| bip_39_word_underscore_11 | usage_credit_gather_rescue_elite_noodle_park_illegal_sock_science_crime |  
+| bip_39_word_underscore_12 | usage_credit_gather_rescue_elite_noodle_park_illegal_sock_science_crime_average |  
+| bip_39_word_underscore_2 | usage_credit |  
+| bip_39_word_underscore_3 | usage_credit_gather |  
+| bip_39_word_underscore_4 | usage_credit_gather_rescue |  
+| bip_39_word_underscore_5 | usage_credit_gather_rescue_elite |  
+| bip_39_word_underscore_6 | usage_credit_gather_rescue_elite_noodle |  
+| bip_39_word_underscore_7 | usage_credit_gather_rescue_elite_noodle_park |  
+| bip_39_word_underscore_8 | usage_credit_gather_rescue_elite_noodle_park_illegal |  
+| bip_39_word_underscore_9 | usage_credit_gather_rescue_elite_noodle_park_illegal_sock |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

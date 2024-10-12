@@ -1,3 +1,15 @@
+bip_39_word_dash_1: world
+bip_39_word_dash_10: world-lunar-alcohol-diagram-fork-cart-unveil-among-gentle-magic
+bip_39_word_dash_11: world-lunar-alcohol-diagram-fork-cart-unveil-among-gentle-magic-sunny
+bip_39_word_dash_12: world-lunar-alcohol-diagram-fork-cart-unveil-among-gentle-magic-sunny-absurd
+bip_39_word_dash_2: world-lunar
+bip_39_word_dash_3: world-lunar-alcohol
+bip_39_word_dash_4: world-lunar-alcohol-diagram
+bip_39_word_dash_5: world-lunar-alcohol-diagram-fork
+bip_39_word_dash_6: world-lunar-alcohol-diagram-fork-cart
+bip_39_word_dash_7: world-lunar-alcohol-diagram-fork-cart-unveil
+bip_39_word_dash_8: world-lunar-alcohol-diagram-fork-cart-unveil-among
+bip_39_word_dash_9: world-lunar-alcohol-diagram-fork-cart-unveil-among-gentle
 bip_39_word_new_br_1: world
 bip_39_word_new_br_10: world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic
 bip_39_word_new_br_11: world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic<br>sunny
@@ -193,6 +205,18 @@ bip_39_word_space_6: world lunar alcohol diagram fork cart
 bip_39_word_space_7: world lunar alcohol diagram fork cart unveil
 bip_39_word_space_8: world lunar alcohol diagram fork cart unveil among
 bip_39_word_space_9: world lunar alcohol diagram fork cart unveil among gentle
+bip_39_word_underscore_1: world
+bip_39_word_underscore_10: world_lunar_alcohol_diagram_fork_cart_unveil_among_gentle_magic
+bip_39_word_underscore_11: world_lunar_alcohol_diagram_fork_cart_unveil_among_gentle_magic_sunny
+bip_39_word_underscore_12: world_lunar_alcohol_diagram_fork_cart_unveil_among_gentle_magic_sunny_absurd
+bip_39_word_underscore_2: world_lunar
+bip_39_word_underscore_3: world_lunar_alcohol
+bip_39_word_underscore_4: world_lunar_alcohol_diagram
+bip_39_word_underscore_5: world_lunar_alcohol_diagram_fork
+bip_39_word_underscore_6: world_lunar_alcohol_diagram_fork_cart
+bip_39_word_underscore_7: world_lunar_alcohol_diagram_fork_cart_unveil
+bip_39_word_underscore_8: world_lunar_alcohol_diagram_fork_cart_unveil_among
+bip_39_word_underscore_9: world_lunar_alcohol_diagram_fork_cart_unveil_among_gentle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ridge
+bip_39_word_dash_10: ridge-easily-harbor-fork-analyst-lonely-fluid-inject-pilot-cover
+bip_39_word_dash_11: ridge-easily-harbor-fork-analyst-lonely-fluid-inject-pilot-cover-select
+bip_39_word_dash_12: ridge-easily-harbor-fork-analyst-lonely-fluid-inject-pilot-cover-select-around
+bip_39_word_dash_2: ridge-easily
+bip_39_word_dash_3: ridge-easily-harbor
+bip_39_word_dash_4: ridge-easily-harbor-fork
+bip_39_word_dash_5: ridge-easily-harbor-fork-analyst
+bip_39_word_dash_6: ridge-easily-harbor-fork-analyst-lonely
+bip_39_word_dash_7: ridge-easily-harbor-fork-analyst-lonely-fluid
+bip_39_word_dash_8: ridge-easily-harbor-fork-analyst-lonely-fluid-inject
+bip_39_word_dash_9: ridge-easily-harbor-fork-analyst-lonely-fluid-inject-pilot
 bip_39_word_new_br_1: ridge
 bip_39_word_new_br_10: ridge<br>easily<br>harbor<br>fork<br>analyst<br>lonely<br>fluid<br>inject<br>pilot<br>cover
 bip_39_word_new_br_11: ridge<br>easily<br>harbor<br>fork<br>analyst<br>lonely<br>fluid<br>inject<br>pilot<br>cover<br>select
@@ -193,6 +205,18 @@ bip_39_word_space_6: ridge easily harbor fork analyst lonely
 bip_39_word_space_7: ridge easily harbor fork analyst lonely fluid
 bip_39_word_space_8: ridge easily harbor fork analyst lonely fluid inject
 bip_39_word_space_9: ridge easily harbor fork analyst lonely fluid inject pilot
+bip_39_word_underscore_1: ridge
+bip_39_word_underscore_10: ridge_easily_harbor_fork_analyst_lonely_fluid_inject_pilot_cover
+bip_39_word_underscore_11: ridge_easily_harbor_fork_analyst_lonely_fluid_inject_pilot_cover_select
+bip_39_word_underscore_12: ridge_easily_harbor_fork_analyst_lonely_fluid_inject_pilot_cover_select_around
+bip_39_word_underscore_2: ridge_easily
+bip_39_word_underscore_3: ridge_easily_harbor
+bip_39_word_underscore_4: ridge_easily_harbor_fork
+bip_39_word_underscore_5: ridge_easily_harbor_fork_analyst
+bip_39_word_underscore_6: ridge_easily_harbor_fork_analyst_lonely
+bip_39_word_underscore_7: ridge_easily_harbor_fork_analyst_lonely_fluid
+bip_39_word_underscore_8: ridge_easily_harbor_fork_analyst_lonely_fluid_inject
+bip_39_word_underscore_9: ridge_easily_harbor_fork_analyst_lonely_fluid_inject_pilot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

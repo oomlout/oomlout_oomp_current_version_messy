@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lucky
+bip_39_word_dash_10: lucky-indicate-wonder-version-barely-bargain-rubber-dawn-judge-north
+bip_39_word_dash_11: lucky-indicate-wonder-version-barely-bargain-rubber-dawn-judge-north-mule
+bip_39_word_dash_12: lucky-indicate-wonder-version-barely-bargain-rubber-dawn-judge-north-mule-attend
+bip_39_word_dash_2: lucky-indicate
+bip_39_word_dash_3: lucky-indicate-wonder
+bip_39_word_dash_4: lucky-indicate-wonder-version
+bip_39_word_dash_5: lucky-indicate-wonder-version-barely
+bip_39_word_dash_6: lucky-indicate-wonder-version-barely-bargain
+bip_39_word_dash_7: lucky-indicate-wonder-version-barely-bargain-rubber
+bip_39_word_dash_8: lucky-indicate-wonder-version-barely-bargain-rubber-dawn
+bip_39_word_dash_9: lucky-indicate-wonder-version-barely-bargain-rubber-dawn-judge
 bip_39_word_new_br_1: lucky
 bip_39_word_new_br_10: lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn<br>judge<br>north
 bip_39_word_new_br_11: lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn<br>judge<br>north<br>mule
@@ -194,6 +206,18 @@ bip_39_word_space_6: lucky indicate wonder version barely bargain
 bip_39_word_space_7: lucky indicate wonder version barely bargain rubber
 bip_39_word_space_8: lucky indicate wonder version barely bargain rubber dawn
 bip_39_word_space_9: lucky indicate wonder version barely bargain rubber dawn judge
+bip_39_word_underscore_1: lucky
+bip_39_word_underscore_10: lucky_indicate_wonder_version_barely_bargain_rubber_dawn_judge_north
+bip_39_word_underscore_11: lucky_indicate_wonder_version_barely_bargain_rubber_dawn_judge_north_mule
+bip_39_word_underscore_12: lucky_indicate_wonder_version_barely_bargain_rubber_dawn_judge_north_mule_attend
+bip_39_word_underscore_2: lucky_indicate
+bip_39_word_underscore_3: lucky_indicate_wonder
+bip_39_word_underscore_4: lucky_indicate_wonder_version
+bip_39_word_underscore_5: lucky_indicate_wonder_version_barely
+bip_39_word_underscore_6: lucky_indicate_wonder_version_barely_bargain
+bip_39_word_underscore_7: lucky_indicate_wonder_version_barely_bargain_rubber
+bip_39_word_underscore_8: lucky_indicate_wonder_version_barely_bargain_rubber_dawn
+bip_39_word_underscore_9: lucky_indicate_wonder_version_barely_bargain_rubber_dawn_judge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

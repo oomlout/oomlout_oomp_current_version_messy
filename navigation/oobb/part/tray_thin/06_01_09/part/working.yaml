@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hub
+bip_39_word_dash_10: hub-kid-this-memory-pool-gentle-lunar-merge-capital-maze
+bip_39_word_dash_11: hub-kid-this-memory-pool-gentle-lunar-merge-capital-maze-rotate
+bip_39_word_dash_12: hub-kid-this-memory-pool-gentle-lunar-merge-capital-maze-rotate-aisle
+bip_39_word_dash_2: hub-kid
+bip_39_word_dash_3: hub-kid-this
+bip_39_word_dash_4: hub-kid-this-memory
+bip_39_word_dash_5: hub-kid-this-memory-pool
+bip_39_word_dash_6: hub-kid-this-memory-pool-gentle
+bip_39_word_dash_7: hub-kid-this-memory-pool-gentle-lunar
+bip_39_word_dash_8: hub-kid-this-memory-pool-gentle-lunar-merge
+bip_39_word_dash_9: hub-kid-this-memory-pool-gentle-lunar-merge-capital
 bip_39_word_new_br_1: hub
 bip_39_word_new_br_10: hub<br>kid<br>this<br>memory<br>pool<br>gentle<br>lunar<br>merge<br>capital<br>maze
 bip_39_word_new_br_11: hub<br>kid<br>this<br>memory<br>pool<br>gentle<br>lunar<br>merge<br>capital<br>maze<br>rotate
@@ -192,6 +204,18 @@ bip_39_word_space_6: hub kid this memory pool gentle
 bip_39_word_space_7: hub kid this memory pool gentle lunar
 bip_39_word_space_8: hub kid this memory pool gentle lunar merge
 bip_39_word_space_9: hub kid this memory pool gentle lunar merge capital
+bip_39_word_underscore_1: hub
+bip_39_word_underscore_10: hub_kid_this_memory_pool_gentle_lunar_merge_capital_maze
+bip_39_word_underscore_11: hub_kid_this_memory_pool_gentle_lunar_merge_capital_maze_rotate
+bip_39_word_underscore_12: hub_kid_this_memory_pool_gentle_lunar_merge_capital_maze_rotate_aisle
+bip_39_word_underscore_2: hub_kid
+bip_39_word_underscore_3: hub_kid_this
+bip_39_word_underscore_4: hub_kid_this_memory
+bip_39_word_underscore_5: hub_kid_this_memory_pool
+bip_39_word_underscore_6: hub_kid_this_memory_pool_gentle
+bip_39_word_underscore_7: hub_kid_this_memory_pool_gentle_lunar
+bip_39_word_underscore_8: hub_kid_this_memory_pool_gentle_lunar_merge
+bip_39_word_underscore_9: hub_kid_this_memory_pool_gentle_lunar_merge_capital
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

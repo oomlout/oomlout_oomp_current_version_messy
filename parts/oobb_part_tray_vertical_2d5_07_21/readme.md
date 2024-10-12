@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arm |  
+| bip_39_word_dash_10 | arm-door-guilt-secret-tray-funny-curtain-great-endless-giggle |  
+| bip_39_word_dash_11 | arm-door-guilt-secret-tray-funny-curtain-great-endless-giggle-earth |  
+| bip_39_word_dash_12 | arm-door-guilt-secret-tray-funny-curtain-great-endless-giggle-earth-amazing |  
+| bip_39_word_dash_2 | arm-door |  
+| bip_39_word_dash_3 | arm-door-guilt |  
+| bip_39_word_dash_4 | arm-door-guilt-secret |  
+| bip_39_word_dash_5 | arm-door-guilt-secret-tray |  
+| bip_39_word_dash_6 | arm-door-guilt-secret-tray-funny |  
+| bip_39_word_dash_7 | arm-door-guilt-secret-tray-funny-curtain |  
+| bip_39_word_dash_8 | arm-door-guilt-secret-tray-funny-curtain-great |  
+| bip_39_word_dash_9 | arm-door-guilt-secret-tray-funny-curtain-great-endless |  
 | bip_39_word_new_br_1 | arm |  
 | bip_39_word_new_br_10 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle |  
 | bip_39_word_new_br_11 | arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle<br>earth |  
@@ -147,6 +159,18 @@ endless |
 | bip_39_word_space_7 | arm door guilt secret tray funny curtain |  
 | bip_39_word_space_8 | arm door guilt secret tray funny curtain great |  
 | bip_39_word_space_9 | arm door guilt secret tray funny curtain great endless |  
+| bip_39_word_underscore_1 | arm |  
+| bip_39_word_underscore_10 | arm_door_guilt_secret_tray_funny_curtain_great_endless_giggle |  
+| bip_39_word_underscore_11 | arm_door_guilt_secret_tray_funny_curtain_great_endless_giggle_earth |  
+| bip_39_word_underscore_12 | arm_door_guilt_secret_tray_funny_curtain_great_endless_giggle_earth_amazing |  
+| bip_39_word_underscore_2 | arm_door |  
+| bip_39_word_underscore_3 | arm_door_guilt |  
+| bip_39_word_underscore_4 | arm_door_guilt_secret |  
+| bip_39_word_underscore_5 | arm_door_guilt_secret_tray |  
+| bip_39_word_underscore_6 | arm_door_guilt_secret_tray_funny |  
+| bip_39_word_underscore_7 | arm_door_guilt_secret_tray_funny_curtain |  
+| bip_39_word_underscore_8 | arm_door_guilt_secret_tray_funny_curtain_great |  
+| bip_39_word_underscore_9 | arm_door_guilt_secret_tray_funny_curtain_great_endless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

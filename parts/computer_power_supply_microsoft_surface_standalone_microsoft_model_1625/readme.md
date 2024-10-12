@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | olive |  
+| bip_39_word_dash_10 | olive-blast-reject-enlist-vital-govern-cheese-scan-sunset-awesome |  
+| bip_39_word_dash_11 | olive-blast-reject-enlist-vital-govern-cheese-scan-sunset-awesome-expire |  
+| bip_39_word_dash_12 | olive-blast-reject-enlist-vital-govern-cheese-scan-sunset-awesome-expire-aunt |  
+| bip_39_word_dash_2 | olive-blast |  
+| bip_39_word_dash_3 | olive-blast-reject |  
+| bip_39_word_dash_4 | olive-blast-reject-enlist |  
+| bip_39_word_dash_5 | olive-blast-reject-enlist-vital |  
+| bip_39_word_dash_6 | olive-blast-reject-enlist-vital-govern |  
+| bip_39_word_dash_7 | olive-blast-reject-enlist-vital-govern-cheese |  
+| bip_39_word_dash_8 | olive-blast-reject-enlist-vital-govern-cheese-scan |  
+| bip_39_word_dash_9 | olive-blast-reject-enlist-vital-govern-cheese-scan-sunset |  
 | bip_39_word_new_br_1 | olive |  
 | bip_39_word_new_br_10 | olive<br>blast<br>reject<br>enlist<br>vital<br>govern<br>cheese<br>scan<br>sunset<br>awesome |  
 | bip_39_word_new_br_11 | olive<br>blast<br>reject<br>enlist<br>vital<br>govern<br>cheese<br>scan<br>sunset<br>awesome<br>expire |  
@@ -147,6 +159,18 @@ sunset |
 | bip_39_word_space_7 | olive blast reject enlist vital govern cheese |  
 | bip_39_word_space_8 | olive blast reject enlist vital govern cheese scan |  
 | bip_39_word_space_9 | olive blast reject enlist vital govern cheese scan sunset |  
+| bip_39_word_underscore_1 | olive |  
+| bip_39_word_underscore_10 | olive_blast_reject_enlist_vital_govern_cheese_scan_sunset_awesome |  
+| bip_39_word_underscore_11 | olive_blast_reject_enlist_vital_govern_cheese_scan_sunset_awesome_expire |  
+| bip_39_word_underscore_12 | olive_blast_reject_enlist_vital_govern_cheese_scan_sunset_awesome_expire_aunt |  
+| bip_39_word_underscore_2 | olive_blast |  
+| bip_39_word_underscore_3 | olive_blast_reject |  
+| bip_39_word_underscore_4 | olive_blast_reject_enlist |  
+| bip_39_word_underscore_5 | olive_blast_reject_enlist_vital |  
+| bip_39_word_underscore_6 | olive_blast_reject_enlist_vital_govern |  
+| bip_39_word_underscore_7 | olive_blast_reject_enlist_vital_govern_cheese |  
+| bip_39_word_underscore_8 | olive_blast_reject_enlist_vital_govern_cheese_scan |  
+| bip_39_word_underscore_9 | olive_blast_reject_enlist_vital_govern_cheese_scan_sunset |  
 | classification | computer |  
 | classification_capital | Computer |  
 | classification_first_letter | c |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resemble |  
+| bip_39_word_dash_10 | resemble-mean-liar-neck-foster-embrace-pelican-interest-dragon-stick |  
+| bip_39_word_dash_11 | resemble-mean-liar-neck-foster-embrace-pelican-interest-dragon-stick-floor |  
+| bip_39_word_dash_12 | resemble-mean-liar-neck-foster-embrace-pelican-interest-dragon-stick-floor-amount |  
+| bip_39_word_dash_2 | resemble-mean |  
+| bip_39_word_dash_3 | resemble-mean-liar |  
+| bip_39_word_dash_4 | resemble-mean-liar-neck |  
+| bip_39_word_dash_5 | resemble-mean-liar-neck-foster |  
+| bip_39_word_dash_6 | resemble-mean-liar-neck-foster-embrace |  
+| bip_39_word_dash_7 | resemble-mean-liar-neck-foster-embrace-pelican |  
+| bip_39_word_dash_8 | resemble-mean-liar-neck-foster-embrace-pelican-interest |  
+| bip_39_word_dash_9 | resemble-mean-liar-neck-foster-embrace-pelican-interest-dragon |  
 | bip_39_word_new_br_1 | resemble |  
 | bip_39_word_new_br_10 | resemble<br>mean<br>liar<br>neck<br>foster<br>embrace<br>pelican<br>interest<br>dragon<br>stick |  
 | bip_39_word_new_br_11 | resemble<br>mean<br>liar<br>neck<br>foster<br>embrace<br>pelican<br>interest<br>dragon<br>stick<br>floor |  
@@ -147,6 +159,18 @@ dragon |
 | bip_39_word_space_7 | resemble mean liar neck foster embrace pelican |  
 | bip_39_word_space_8 | resemble mean liar neck foster embrace pelican interest |  
 | bip_39_word_space_9 | resemble mean liar neck foster embrace pelican interest dragon |  
+| bip_39_word_underscore_1 | resemble |  
+| bip_39_word_underscore_10 | resemble_mean_liar_neck_foster_embrace_pelican_interest_dragon_stick |  
+| bip_39_word_underscore_11 | resemble_mean_liar_neck_foster_embrace_pelican_interest_dragon_stick_floor |  
+| bip_39_word_underscore_12 | resemble_mean_liar_neck_foster_embrace_pelican_interest_dragon_stick_floor_amount |  
+| bip_39_word_underscore_2 | resemble_mean |  
+| bip_39_word_underscore_3 | resemble_mean_liar |  
+| bip_39_word_underscore_4 | resemble_mean_liar_neck |  
+| bip_39_word_underscore_5 | resemble_mean_liar_neck_foster |  
+| bip_39_word_underscore_6 | resemble_mean_liar_neck_foster_embrace |  
+| bip_39_word_underscore_7 | resemble_mean_liar_neck_foster_embrace_pelican |  
+| bip_39_word_underscore_8 | resemble_mean_liar_neck_foster_embrace_pelican_interest |  
+| bip_39_word_underscore_9 | resemble_mean_liar_neck_foster_embrace_pelican_interest_dragon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

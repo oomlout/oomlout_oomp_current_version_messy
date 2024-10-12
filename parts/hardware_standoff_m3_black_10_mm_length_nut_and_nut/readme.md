@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pizza |  
+| bip_39_word_dash_10 | pizza-fabric-lesson-topic-artefact-family-radar-cricket-crater-spoil |  
+| bip_39_word_dash_11 | pizza-fabric-lesson-topic-artefact-family-radar-cricket-crater-spoil-perfect |  
+| bip_39_word_dash_12 | pizza-fabric-lesson-topic-artefact-family-radar-cricket-crater-spoil-perfect-album |  
+| bip_39_word_dash_2 | pizza-fabric |  
+| bip_39_word_dash_3 | pizza-fabric-lesson |  
+| bip_39_word_dash_4 | pizza-fabric-lesson-topic |  
+| bip_39_word_dash_5 | pizza-fabric-lesson-topic-artefact |  
+| bip_39_word_dash_6 | pizza-fabric-lesson-topic-artefact-family |  
+| bip_39_word_dash_7 | pizza-fabric-lesson-topic-artefact-family-radar |  
+| bip_39_word_dash_8 | pizza-fabric-lesson-topic-artefact-family-radar-cricket |  
+| bip_39_word_dash_9 | pizza-fabric-lesson-topic-artefact-family-radar-cricket-crater |  
 | bip_39_word_new_br_1 | pizza |  
 | bip_39_word_new_br_10 | pizza<br>fabric<br>lesson<br>topic<br>artefact<br>family<br>radar<br>cricket<br>crater<br>spoil |  
 | bip_39_word_new_br_11 | pizza<br>fabric<br>lesson<br>topic<br>artefact<br>family<br>radar<br>cricket<br>crater<br>spoil<br>perfect |  
@@ -147,6 +159,18 @@ crater |
 | bip_39_word_space_7 | pizza fabric lesson topic artefact family radar |  
 | bip_39_word_space_8 | pizza fabric lesson topic artefact family radar cricket |  
 | bip_39_word_space_9 | pizza fabric lesson topic artefact family radar cricket crater |  
+| bip_39_word_underscore_1 | pizza |  
+| bip_39_word_underscore_10 | pizza_fabric_lesson_topic_artefact_family_radar_cricket_crater_spoil |  
+| bip_39_word_underscore_11 | pizza_fabric_lesson_topic_artefact_family_radar_cricket_crater_spoil_perfect |  
+| bip_39_word_underscore_12 | pizza_fabric_lesson_topic_artefact_family_radar_cricket_crater_spoil_perfect_album |  
+| bip_39_word_underscore_2 | pizza_fabric |  
+| bip_39_word_underscore_3 | pizza_fabric_lesson |  
+| bip_39_word_underscore_4 | pizza_fabric_lesson_topic |  
+| bip_39_word_underscore_5 | pizza_fabric_lesson_topic_artefact |  
+| bip_39_word_underscore_6 | pizza_fabric_lesson_topic_artefact_family |  
+| bip_39_word_underscore_7 | pizza_fabric_lesson_topic_artefact_family_radar |  
+| bip_39_word_underscore_8 | pizza_fabric_lesson_topic_artefact_family_radar_cricket |  
+| bip_39_word_underscore_9 | pizza_fabric_lesson_topic_artefact_family_radar_cricket_crater |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

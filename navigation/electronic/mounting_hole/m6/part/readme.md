@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kick |  
+| bip_39_word_dash_10 | kick-surface-absurd-spray-faculty-prepare-ankle-local-novel-network |  
+| bip_39_word_dash_11 | kick-surface-absurd-spray-faculty-prepare-ankle-local-novel-network-vivid |  
+| bip_39_word_dash_12 | kick-surface-absurd-spray-faculty-prepare-ankle-local-novel-network-vivid-autumn |  
+| bip_39_word_dash_2 | kick-surface |  
+| bip_39_word_dash_3 | kick-surface-absurd |  
+| bip_39_word_dash_4 | kick-surface-absurd-spray |  
+| bip_39_word_dash_5 | kick-surface-absurd-spray-faculty |  
+| bip_39_word_dash_6 | kick-surface-absurd-spray-faculty-prepare |  
+| bip_39_word_dash_7 | kick-surface-absurd-spray-faculty-prepare-ankle |  
+| bip_39_word_dash_8 | kick-surface-absurd-spray-faculty-prepare-ankle-local |  
+| bip_39_word_dash_9 | kick-surface-absurd-spray-faculty-prepare-ankle-local-novel |  
 | bip_39_word_new_br_1 | kick |  
 | bip_39_word_new_br_10 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local<br>novel<br>network |  
 | bip_39_word_new_br_11 | kick<br>surface<br>absurd<br>spray<br>faculty<br>prepare<br>ankle<br>local<br>novel<br>network<br>vivid |  
@@ -147,6 +159,18 @@ novel |
 | bip_39_word_space_7 | kick surface absurd spray faculty prepare ankle |  
 | bip_39_word_space_8 | kick surface absurd spray faculty prepare ankle local |  
 | bip_39_word_space_9 | kick surface absurd spray faculty prepare ankle local novel |  
+| bip_39_word_underscore_1 | kick |  
+| bip_39_word_underscore_10 | kick_surface_absurd_spray_faculty_prepare_ankle_local_novel_network |  
+| bip_39_word_underscore_11 | kick_surface_absurd_spray_faculty_prepare_ankle_local_novel_network_vivid |  
+| bip_39_word_underscore_12 | kick_surface_absurd_spray_faculty_prepare_ankle_local_novel_network_vivid_autumn |  
+| bip_39_word_underscore_2 | kick_surface |  
+| bip_39_word_underscore_3 | kick_surface_absurd |  
+| bip_39_word_underscore_4 | kick_surface_absurd_spray |  
+| bip_39_word_underscore_5 | kick_surface_absurd_spray_faculty |  
+| bip_39_word_underscore_6 | kick_surface_absurd_spray_faculty_prepare |  
+| bip_39_word_underscore_7 | kick_surface_absurd_spray_faculty_prepare_ankle |  
+| bip_39_word_underscore_8 | kick_surface_absurd_spray_faculty_prepare_ankle_local |  
+| bip_39_word_underscore_9 | kick_surface_absurd_spray_faculty_prepare_ankle_local_novel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

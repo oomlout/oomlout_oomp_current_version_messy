@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ecology
+bip_39_word_dash_10: ecology-sustain-main-cheese-snap-base-clay-very-pledge-genre
+bip_39_word_dash_11: ecology-sustain-main-cheese-snap-base-clay-very-pledge-genre-govern
+bip_39_word_dash_12: ecology-sustain-main-cheese-snap-base-clay-very-pledge-genre-govern-ability
+bip_39_word_dash_2: ecology-sustain
+bip_39_word_dash_3: ecology-sustain-main
+bip_39_word_dash_4: ecology-sustain-main-cheese
+bip_39_word_dash_5: ecology-sustain-main-cheese-snap
+bip_39_word_dash_6: ecology-sustain-main-cheese-snap-base
+bip_39_word_dash_7: ecology-sustain-main-cheese-snap-base-clay
+bip_39_word_dash_8: ecology-sustain-main-cheese-snap-base-clay-very
+bip_39_word_dash_9: ecology-sustain-main-cheese-snap-base-clay-very-pledge
 bip_39_word_new_br_1: ecology
 bip_39_word_new_br_10: ecology<br>sustain<br>main<br>cheese<br>snap<br>base<br>clay<br>very<br>pledge<br>genre
 bip_39_word_new_br_11: ecology<br>sustain<br>main<br>cheese<br>snap<br>base<br>clay<br>very<br>pledge<br>genre<br>govern
@@ -193,6 +205,18 @@ bip_39_word_space_6: ecology sustain main cheese snap base
 bip_39_word_space_7: ecology sustain main cheese snap base clay
 bip_39_word_space_8: ecology sustain main cheese snap base clay very
 bip_39_word_space_9: ecology sustain main cheese snap base clay very pledge
+bip_39_word_underscore_1: ecology
+bip_39_word_underscore_10: ecology_sustain_main_cheese_snap_base_clay_very_pledge_genre
+bip_39_word_underscore_11: ecology_sustain_main_cheese_snap_base_clay_very_pledge_genre_govern
+bip_39_word_underscore_12: ecology_sustain_main_cheese_snap_base_clay_very_pledge_genre_govern_ability
+bip_39_word_underscore_2: ecology_sustain
+bip_39_word_underscore_3: ecology_sustain_main
+bip_39_word_underscore_4: ecology_sustain_main_cheese
+bip_39_word_underscore_5: ecology_sustain_main_cheese_snap
+bip_39_word_underscore_6: ecology_sustain_main_cheese_snap_base
+bip_39_word_underscore_7: ecology_sustain_main_cheese_snap_base_clay
+bip_39_word_underscore_8: ecology_sustain_main_cheese_snap_base_clay_very
+bip_39_word_underscore_9: ecology_sustain_main_cheese_snap_base_clay_very_pledge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fame |  
+| bip_39_word_dash_10 | fame-wave-egg-lumber-brisk-cream-write-category-hill-example |  
+| bip_39_word_dash_11 | fame-wave-egg-lumber-brisk-cream-write-category-hill-example-pioneer |  
+| bip_39_word_dash_12 | fame-wave-egg-lumber-brisk-cream-write-category-hill-example-pioneer-april |  
+| bip_39_word_dash_2 | fame-wave |  
+| bip_39_word_dash_3 | fame-wave-egg |  
+| bip_39_word_dash_4 | fame-wave-egg-lumber |  
+| bip_39_word_dash_5 | fame-wave-egg-lumber-brisk |  
+| bip_39_word_dash_6 | fame-wave-egg-lumber-brisk-cream |  
+| bip_39_word_dash_7 | fame-wave-egg-lumber-brisk-cream-write |  
+| bip_39_word_dash_8 | fame-wave-egg-lumber-brisk-cream-write-category |  
+| bip_39_word_dash_9 | fame-wave-egg-lumber-brisk-cream-write-category-hill |  
 | bip_39_word_new_br_1 | fame |  
 | bip_39_word_new_br_10 | fame<br>wave<br>egg<br>lumber<br>brisk<br>cream<br>write<br>category<br>hill<br>example |  
 | bip_39_word_new_br_11 | fame<br>wave<br>egg<br>lumber<br>brisk<br>cream<br>write<br>category<br>hill<br>example<br>pioneer |  
@@ -147,6 +159,18 @@ hill |
 | bip_39_word_space_7 | fame wave egg lumber brisk cream write |  
 | bip_39_word_space_8 | fame wave egg lumber brisk cream write category |  
 | bip_39_word_space_9 | fame wave egg lumber brisk cream write category hill |  
+| bip_39_word_underscore_1 | fame |  
+| bip_39_word_underscore_10 | fame_wave_egg_lumber_brisk_cream_write_category_hill_example |  
+| bip_39_word_underscore_11 | fame_wave_egg_lumber_brisk_cream_write_category_hill_example_pioneer |  
+| bip_39_word_underscore_12 | fame_wave_egg_lumber_brisk_cream_write_category_hill_example_pioneer_april |  
+| bip_39_word_underscore_2 | fame_wave |  
+| bip_39_word_underscore_3 | fame_wave_egg |  
+| bip_39_word_underscore_4 | fame_wave_egg_lumber |  
+| bip_39_word_underscore_5 | fame_wave_egg_lumber_brisk |  
+| bip_39_word_underscore_6 | fame_wave_egg_lumber_brisk_cream |  
+| bip_39_word_underscore_7 | fame_wave_egg_lumber_brisk_cream_write |  
+| bip_39_word_underscore_8 | fame_wave_egg_lumber_brisk_cream_write_category |  
+| bip_39_word_underscore_9 | fame_wave_egg_lumber_brisk_cream_write_category_hill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

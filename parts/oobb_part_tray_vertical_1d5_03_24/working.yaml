@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fragile
+bip_39_word_dash_10: fragile-clutch-ski-cabbage-dial-spare-scare-input-list-feel
+bip_39_word_dash_11: fragile-clutch-ski-cabbage-dial-spare-scare-input-list-feel-evidence
+bip_39_word_dash_12: fragile-clutch-ski-cabbage-dial-spare-scare-input-list-feel-evidence-arrange
+bip_39_word_dash_2: fragile-clutch
+bip_39_word_dash_3: fragile-clutch-ski
+bip_39_word_dash_4: fragile-clutch-ski-cabbage
+bip_39_word_dash_5: fragile-clutch-ski-cabbage-dial
+bip_39_word_dash_6: fragile-clutch-ski-cabbage-dial-spare
+bip_39_word_dash_7: fragile-clutch-ski-cabbage-dial-spare-scare
+bip_39_word_dash_8: fragile-clutch-ski-cabbage-dial-spare-scare-input
+bip_39_word_dash_9: fragile-clutch-ski-cabbage-dial-spare-scare-input-list
 bip_39_word_new_br_1: fragile
 bip_39_word_new_br_10: fragile<br>clutch<br>ski<br>cabbage<br>dial<br>spare<br>scare<br>input<br>list<br>feel
 bip_39_word_new_br_11: fragile<br>clutch<br>ski<br>cabbage<br>dial<br>spare<br>scare<br>input<br>list<br>feel<br>evidence
@@ -193,6 +205,18 @@ bip_39_word_space_6: fragile clutch ski cabbage dial spare
 bip_39_word_space_7: fragile clutch ski cabbage dial spare scare
 bip_39_word_space_8: fragile clutch ski cabbage dial spare scare input
 bip_39_word_space_9: fragile clutch ski cabbage dial spare scare input list
+bip_39_word_underscore_1: fragile
+bip_39_word_underscore_10: fragile_clutch_ski_cabbage_dial_spare_scare_input_list_feel
+bip_39_word_underscore_11: fragile_clutch_ski_cabbage_dial_spare_scare_input_list_feel_evidence
+bip_39_word_underscore_12: fragile_clutch_ski_cabbage_dial_spare_scare_input_list_feel_evidence_arrange
+bip_39_word_underscore_2: fragile_clutch
+bip_39_word_underscore_3: fragile_clutch_ski
+bip_39_word_underscore_4: fragile_clutch_ski_cabbage
+bip_39_word_underscore_5: fragile_clutch_ski_cabbage_dial
+bip_39_word_underscore_6: fragile_clutch_ski_cabbage_dial_spare
+bip_39_word_underscore_7: fragile_clutch_ski_cabbage_dial_spare_scare
+bip_39_word_underscore_8: fragile_clutch_ski_cabbage_dial_spare_scare_input
+bip_39_word_underscore_9: fragile_clutch_ski_cabbage_dial_spare_scare_input_list
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resist |  
+| bip_39_word_dash_10 | resist-grief-tail-victory-alpha-trigger-catch-oval-better-century |  
+| bip_39_word_dash_11 | resist-grief-tail-victory-alpha-trigger-catch-oval-better-century-notable |  
+| bip_39_word_dash_12 | resist-grief-tail-victory-alpha-trigger-catch-oval-better-century-notable-art |  
+| bip_39_word_dash_2 | resist-grief |  
+| bip_39_word_dash_3 | resist-grief-tail |  
+| bip_39_word_dash_4 | resist-grief-tail-victory |  
+| bip_39_word_dash_5 | resist-grief-tail-victory-alpha |  
+| bip_39_word_dash_6 | resist-grief-tail-victory-alpha-trigger |  
+| bip_39_word_dash_7 | resist-grief-tail-victory-alpha-trigger-catch |  
+| bip_39_word_dash_8 | resist-grief-tail-victory-alpha-trigger-catch-oval |  
+| bip_39_word_dash_9 | resist-grief-tail-victory-alpha-trigger-catch-oval-better |  
 | bip_39_word_new_br_1 | resist |  
 | bip_39_word_new_br_10 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval<br>better<br>century |  
 | bip_39_word_new_br_11 | resist<br>grief<br>tail<br>victory<br>alpha<br>trigger<br>catch<br>oval<br>better<br>century<br>notable |  
@@ -147,6 +159,18 @@ better |
 | bip_39_word_space_7 | resist grief tail victory alpha trigger catch |  
 | bip_39_word_space_8 | resist grief tail victory alpha trigger catch oval |  
 | bip_39_word_space_9 | resist grief tail victory alpha trigger catch oval better |  
+| bip_39_word_underscore_1 | resist |  
+| bip_39_word_underscore_10 | resist_grief_tail_victory_alpha_trigger_catch_oval_better_century |  
+| bip_39_word_underscore_11 | resist_grief_tail_victory_alpha_trigger_catch_oval_better_century_notable |  
+| bip_39_word_underscore_12 | resist_grief_tail_victory_alpha_trigger_catch_oval_better_century_notable_art |  
+| bip_39_word_underscore_2 | resist_grief |  
+| bip_39_word_underscore_3 | resist_grief_tail |  
+| bip_39_word_underscore_4 | resist_grief_tail_victory |  
+| bip_39_word_underscore_5 | resist_grief_tail_victory_alpha |  
+| bip_39_word_underscore_6 | resist_grief_tail_victory_alpha_trigger |  
+| bip_39_word_underscore_7 | resist_grief_tail_victory_alpha_trigger_catch |  
+| bip_39_word_underscore_8 | resist_grief_tail_victory_alpha_trigger_catch_oval |  
+| bip_39_word_underscore_9 | resist_grief_tail_victory_alpha_trigger_catch_oval_better |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

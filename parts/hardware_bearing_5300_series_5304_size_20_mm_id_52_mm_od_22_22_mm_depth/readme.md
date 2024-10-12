@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kick |  
+| bip_39_word_dash_10 | kick-hat-chase-ensure-typical-orchard-pig-dutch-neither-twist |  
+| bip_39_word_dash_11 | kick-hat-chase-ensure-typical-orchard-pig-dutch-neither-twist-tomato |  
+| bip_39_word_dash_12 | kick-hat-chase-ensure-typical-orchard-pig-dutch-neither-twist-tomato-arena |  
+| bip_39_word_dash_2 | kick-hat |  
+| bip_39_word_dash_3 | kick-hat-chase |  
+| bip_39_word_dash_4 | kick-hat-chase-ensure |  
+| bip_39_word_dash_5 | kick-hat-chase-ensure-typical |  
+| bip_39_word_dash_6 | kick-hat-chase-ensure-typical-orchard |  
+| bip_39_word_dash_7 | kick-hat-chase-ensure-typical-orchard-pig |  
+| bip_39_word_dash_8 | kick-hat-chase-ensure-typical-orchard-pig-dutch |  
+| bip_39_word_dash_9 | kick-hat-chase-ensure-typical-orchard-pig-dutch-neither |  
 | bip_39_word_new_br_1 | kick |  
 | bip_39_word_new_br_10 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch<br>neither<br>twist |  
 | bip_39_word_new_br_11 | kick<br>hat<br>chase<br>ensure<br>typical<br>orchard<br>pig<br>dutch<br>neither<br>twist<br>tomato |  
@@ -147,6 +159,18 @@ neither |
 | bip_39_word_space_7 | kick hat chase ensure typical orchard pig |  
 | bip_39_word_space_8 | kick hat chase ensure typical orchard pig dutch |  
 | bip_39_word_space_9 | kick hat chase ensure typical orchard pig dutch neither |  
+| bip_39_word_underscore_1 | kick |  
+| bip_39_word_underscore_10 | kick_hat_chase_ensure_typical_orchard_pig_dutch_neither_twist |  
+| bip_39_word_underscore_11 | kick_hat_chase_ensure_typical_orchard_pig_dutch_neither_twist_tomato |  
+| bip_39_word_underscore_12 | kick_hat_chase_ensure_typical_orchard_pig_dutch_neither_twist_tomato_arena |  
+| bip_39_word_underscore_2 | kick_hat |  
+| bip_39_word_underscore_3 | kick_hat_chase |  
+| bip_39_word_underscore_4 | kick_hat_chase_ensure |  
+| bip_39_word_underscore_5 | kick_hat_chase_ensure_typical |  
+| bip_39_word_underscore_6 | kick_hat_chase_ensure_typical_orchard |  
+| bip_39_word_underscore_7 | kick_hat_chase_ensure_typical_orchard_pig |  
+| bip_39_word_underscore_8 | kick_hat_chase_ensure_typical_orchard_pig_dutch |  
+| bip_39_word_underscore_9 | kick_hat_chase_ensure_typical_orchard_pig_dutch_neither |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

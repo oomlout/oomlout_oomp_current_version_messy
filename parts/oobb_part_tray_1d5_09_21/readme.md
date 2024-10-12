@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | order |  
+| bip_39_word_dash_10 | order-focus-light-cook-arrest-horse-ship-host-rapid-control |  
+| bip_39_word_dash_11 | order-focus-light-cook-arrest-horse-ship-host-rapid-control-mass |  
+| bip_39_word_dash_12 | order-focus-light-cook-arrest-horse-ship-host-rapid-control-mass-ankle |  
+| bip_39_word_dash_2 | order-focus |  
+| bip_39_word_dash_3 | order-focus-light |  
+| bip_39_word_dash_4 | order-focus-light-cook |  
+| bip_39_word_dash_5 | order-focus-light-cook-arrest |  
+| bip_39_word_dash_6 | order-focus-light-cook-arrest-horse |  
+| bip_39_word_dash_7 | order-focus-light-cook-arrest-horse-ship |  
+| bip_39_word_dash_8 | order-focus-light-cook-arrest-horse-ship-host |  
+| bip_39_word_dash_9 | order-focus-light-cook-arrest-horse-ship-host-rapid |  
 | bip_39_word_new_br_1 | order |  
 | bip_39_word_new_br_10 | order<br>focus<br>light<br>cook<br>arrest<br>horse<br>ship<br>host<br>rapid<br>control |  
 | bip_39_word_new_br_11 | order<br>focus<br>light<br>cook<br>arrest<br>horse<br>ship<br>host<br>rapid<br>control<br>mass |  
@@ -147,6 +159,18 @@ rapid |
 | bip_39_word_space_7 | order focus light cook arrest horse ship |  
 | bip_39_word_space_8 | order focus light cook arrest horse ship host |  
 | bip_39_word_space_9 | order focus light cook arrest horse ship host rapid |  
+| bip_39_word_underscore_1 | order |  
+| bip_39_word_underscore_10 | order_focus_light_cook_arrest_horse_ship_host_rapid_control |  
+| bip_39_word_underscore_11 | order_focus_light_cook_arrest_horse_ship_host_rapid_control_mass |  
+| bip_39_word_underscore_12 | order_focus_light_cook_arrest_horse_ship_host_rapid_control_mass_ankle |  
+| bip_39_word_underscore_2 | order_focus |  
+| bip_39_word_underscore_3 | order_focus_light |  
+| bip_39_word_underscore_4 | order_focus_light_cook |  
+| bip_39_word_underscore_5 | order_focus_light_cook_arrest |  
+| bip_39_word_underscore_6 | order_focus_light_cook_arrest_horse |  
+| bip_39_word_underscore_7 | order_focus_light_cook_arrest_horse_ship |  
+| bip_39_word_underscore_8 | order_focus_light_cook_arrest_horse_ship_host |  
+| bip_39_word_underscore_9 | order_focus_light_cook_arrest_horse_ship_host_rapid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

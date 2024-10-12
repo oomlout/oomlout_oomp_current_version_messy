@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | license |  
+| bip_39_word_dash_10 | license-swear-field-explain-fork-genius-soup-dismiss-own-wrap |  
+| bip_39_word_dash_11 | license-swear-field-explain-fork-genius-soup-dismiss-own-wrap-film |  
+| bip_39_word_dash_12 | license-swear-field-explain-fork-genius-soup-dismiss-own-wrap-film-ask |  
+| bip_39_word_dash_2 | license-swear |  
+| bip_39_word_dash_3 | license-swear-field |  
+| bip_39_word_dash_4 | license-swear-field-explain |  
+| bip_39_word_dash_5 | license-swear-field-explain-fork |  
+| bip_39_word_dash_6 | license-swear-field-explain-fork-genius |  
+| bip_39_word_dash_7 | license-swear-field-explain-fork-genius-soup |  
+| bip_39_word_dash_8 | license-swear-field-explain-fork-genius-soup-dismiss |  
+| bip_39_word_dash_9 | license-swear-field-explain-fork-genius-soup-dismiss-own |  
 | bip_39_word_new_br_1 | license |  
 | bip_39_word_new_br_10 | license<br>swear<br>field<br>explain<br>fork<br>genius<br>soup<br>dismiss<br>own<br>wrap |  
 | bip_39_word_new_br_11 | license<br>swear<br>field<br>explain<br>fork<br>genius<br>soup<br>dismiss<br>own<br>wrap<br>film |  
@@ -147,6 +159,18 @@ own |
 | bip_39_word_space_7 | license swear field explain fork genius soup |  
 | bip_39_word_space_8 | license swear field explain fork genius soup dismiss |  
 | bip_39_word_space_9 | license swear field explain fork genius soup dismiss own |  
+| bip_39_word_underscore_1 | license |  
+| bip_39_word_underscore_10 | license_swear_field_explain_fork_genius_soup_dismiss_own_wrap |  
+| bip_39_word_underscore_11 | license_swear_field_explain_fork_genius_soup_dismiss_own_wrap_film |  
+| bip_39_word_underscore_12 | license_swear_field_explain_fork_genius_soup_dismiss_own_wrap_film_ask |  
+| bip_39_word_underscore_2 | license_swear |  
+| bip_39_word_underscore_3 | license_swear_field |  
+| bip_39_word_underscore_4 | license_swear_field_explain |  
+| bip_39_word_underscore_5 | license_swear_field_explain_fork |  
+| bip_39_word_underscore_6 | license_swear_field_explain_fork_genius |  
+| bip_39_word_underscore_7 | license_swear_field_explain_fork_genius_soup |  
+| bip_39_word_underscore_8 | license_swear_field_explain_fork_genius_soup_dismiss |  
+| bip_39_word_underscore_9 | license_swear_field_explain_fork_genius_soup_dismiss_own |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

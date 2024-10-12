@@ -1,3 +1,15 @@
+bip_39_word_dash_1: thing
+bip_39_word_dash_10: thing-alpha-squirrel-embrace-page-man-dream-search-dinosaur-retreat
+bip_39_word_dash_11: thing-alpha-squirrel-embrace-page-man-dream-search-dinosaur-retreat-young
+bip_39_word_dash_12: thing-alpha-squirrel-embrace-page-man-dream-search-dinosaur-retreat-young-attack
+bip_39_word_dash_2: thing-alpha
+bip_39_word_dash_3: thing-alpha-squirrel
+bip_39_word_dash_4: thing-alpha-squirrel-embrace
+bip_39_word_dash_5: thing-alpha-squirrel-embrace-page
+bip_39_word_dash_6: thing-alpha-squirrel-embrace-page-man
+bip_39_word_dash_7: thing-alpha-squirrel-embrace-page-man-dream
+bip_39_word_dash_8: thing-alpha-squirrel-embrace-page-man-dream-search
+bip_39_word_dash_9: thing-alpha-squirrel-embrace-page-man-dream-search-dinosaur
 bip_39_word_new_br_1: thing
 bip_39_word_new_br_10: thing<br>alpha<br>squirrel<br>embrace<br>page<br>man<br>dream<br>search<br>dinosaur<br>retreat
 bip_39_word_new_br_11: thing<br>alpha<br>squirrel<br>embrace<br>page<br>man<br>dream<br>search<br>dinosaur<br>retreat<br>young
@@ -194,6 +206,18 @@ bip_39_word_space_6: thing alpha squirrel embrace page man
 bip_39_word_space_7: thing alpha squirrel embrace page man dream
 bip_39_word_space_8: thing alpha squirrel embrace page man dream search
 bip_39_word_space_9: thing alpha squirrel embrace page man dream search dinosaur
+bip_39_word_underscore_1: thing
+bip_39_word_underscore_10: thing_alpha_squirrel_embrace_page_man_dream_search_dinosaur_retreat
+bip_39_word_underscore_11: thing_alpha_squirrel_embrace_page_man_dream_search_dinosaur_retreat_young
+bip_39_word_underscore_12: thing_alpha_squirrel_embrace_page_man_dream_search_dinosaur_retreat_young_attack
+bip_39_word_underscore_2: thing_alpha
+bip_39_word_underscore_3: thing_alpha_squirrel
+bip_39_word_underscore_4: thing_alpha_squirrel_embrace
+bip_39_word_underscore_5: thing_alpha_squirrel_embrace_page
+bip_39_word_underscore_6: thing_alpha_squirrel_embrace_page_man
+bip_39_word_underscore_7: thing_alpha_squirrel_embrace_page_man_dream
+bip_39_word_underscore_8: thing_alpha_squirrel_embrace_page_man_dream_search
+bip_39_word_underscore_9: thing_alpha_squirrel_embrace_page_man_dream_search_dinosaur
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

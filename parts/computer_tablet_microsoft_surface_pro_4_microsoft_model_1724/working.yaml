@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fit
+bip_39_word_dash_10: fit-truck-toast-cloth-coach-fragile-rely-milk-hurt-catch
+bip_39_word_dash_11: fit-truck-toast-cloth-coach-fragile-rely-milk-hurt-catch-wool
+bip_39_word_dash_12: fit-truck-toast-cloth-coach-fragile-rely-milk-hurt-catch-wool-auction
+bip_39_word_dash_2: fit-truck
+bip_39_word_dash_3: fit-truck-toast
+bip_39_word_dash_4: fit-truck-toast-cloth
+bip_39_word_dash_5: fit-truck-toast-cloth-coach
+bip_39_word_dash_6: fit-truck-toast-cloth-coach-fragile
+bip_39_word_dash_7: fit-truck-toast-cloth-coach-fragile-rely
+bip_39_word_dash_8: fit-truck-toast-cloth-coach-fragile-rely-milk
+bip_39_word_dash_9: fit-truck-toast-cloth-coach-fragile-rely-milk-hurt
 bip_39_word_new_br_1: fit
 bip_39_word_new_br_10: fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch
 bip_39_word_new_br_11: fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch<br>wool
@@ -192,6 +204,18 @@ bip_39_word_space_6: fit truck toast cloth coach fragile
 bip_39_word_space_7: fit truck toast cloth coach fragile rely
 bip_39_word_space_8: fit truck toast cloth coach fragile rely milk
 bip_39_word_space_9: fit truck toast cloth coach fragile rely milk hurt
+bip_39_word_underscore_1: fit
+bip_39_word_underscore_10: fit_truck_toast_cloth_coach_fragile_rely_milk_hurt_catch
+bip_39_word_underscore_11: fit_truck_toast_cloth_coach_fragile_rely_milk_hurt_catch_wool
+bip_39_word_underscore_12: fit_truck_toast_cloth_coach_fragile_rely_milk_hurt_catch_wool_auction
+bip_39_word_underscore_2: fit_truck
+bip_39_word_underscore_3: fit_truck_toast
+bip_39_word_underscore_4: fit_truck_toast_cloth
+bip_39_word_underscore_5: fit_truck_toast_cloth_coach
+bip_39_word_underscore_6: fit_truck_toast_cloth_coach_fragile
+bip_39_word_underscore_7: fit_truck_toast_cloth_coach_fragile_rely
+bip_39_word_underscore_8: fit_truck_toast_cloth_coach_fragile_rely_milk
+bip_39_word_underscore_9: fit_truck_toast_cloth_coach_fragile_rely_milk_hurt
 classification: computer
 classification_capital: Computer
 classification_first_letter: c

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: push
+bip_39_word_dash_10: push-endorse-legend-open-sleep-begin-still-oak-surface-oil
+bip_39_word_dash_11: push-endorse-legend-open-sleep-begin-still-oak-surface-oil-crumble
+bip_39_word_dash_12: push-endorse-legend-open-sleep-begin-still-oak-surface-oil-crumble-absent
+bip_39_word_dash_2: push-endorse
+bip_39_word_dash_3: push-endorse-legend
+bip_39_word_dash_4: push-endorse-legend-open
+bip_39_word_dash_5: push-endorse-legend-open-sleep
+bip_39_word_dash_6: push-endorse-legend-open-sleep-begin
+bip_39_word_dash_7: push-endorse-legend-open-sleep-begin-still
+bip_39_word_dash_8: push-endorse-legend-open-sleep-begin-still-oak
+bip_39_word_dash_9: push-endorse-legend-open-sleep-begin-still-oak-surface
 bip_39_word_new_br_1: push
 bip_39_word_new_br_10: push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak<br>surface<br>oil
 bip_39_word_new_br_11: push<br>endorse<br>legend<br>open<br>sleep<br>begin<br>still<br>oak<br>surface<br>oil<br>crumble
@@ -192,6 +204,18 @@ bip_39_word_space_6: push endorse legend open sleep begin
 bip_39_word_space_7: push endorse legend open sleep begin still
 bip_39_word_space_8: push endorse legend open sleep begin still oak
 bip_39_word_space_9: push endorse legend open sleep begin still oak surface
+bip_39_word_underscore_1: push
+bip_39_word_underscore_10: push_endorse_legend_open_sleep_begin_still_oak_surface_oil
+bip_39_word_underscore_11: push_endorse_legend_open_sleep_begin_still_oak_surface_oil_crumble
+bip_39_word_underscore_12: push_endorse_legend_open_sleep_begin_still_oak_surface_oil_crumble_absent
+bip_39_word_underscore_2: push_endorse
+bip_39_word_underscore_3: push_endorse_legend
+bip_39_word_underscore_4: push_endorse_legend_open
+bip_39_word_underscore_5: push_endorse_legend_open_sleep
+bip_39_word_underscore_6: push_endorse_legend_open_sleep_begin
+bip_39_word_underscore_7: push_endorse_legend_open_sleep_begin_still
+bip_39_word_underscore_8: push_endorse_legend_open_sleep_begin_still_oak
+bip_39_word_underscore_9: push_endorse_legend_open_sleep_begin_still_oak_surface
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

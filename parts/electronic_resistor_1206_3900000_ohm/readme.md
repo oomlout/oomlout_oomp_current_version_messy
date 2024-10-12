@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bless |  
+| bip_39_word_dash_10 | bless-marine-minute-will-wreck-slow-ceiling-crawl-game-woman |  
+| bip_39_word_dash_11 | bless-marine-minute-will-wreck-slow-ceiling-crawl-game-woman-omit |  
+| bip_39_word_dash_12 | bless-marine-minute-will-wreck-slow-ceiling-crawl-game-woman-omit-aerobic |  
+| bip_39_word_dash_2 | bless-marine |  
+| bip_39_word_dash_3 | bless-marine-minute |  
+| bip_39_word_dash_4 | bless-marine-minute-will |  
+| bip_39_word_dash_5 | bless-marine-minute-will-wreck |  
+| bip_39_word_dash_6 | bless-marine-minute-will-wreck-slow |  
+| bip_39_word_dash_7 | bless-marine-minute-will-wreck-slow-ceiling |  
+| bip_39_word_dash_8 | bless-marine-minute-will-wreck-slow-ceiling-crawl |  
+| bip_39_word_dash_9 | bless-marine-minute-will-wreck-slow-ceiling-crawl-game |  
 | bip_39_word_new_br_1 | bless |  
 | bip_39_word_new_br_10 | bless<br>marine<br>minute<br>will<br>wreck<br>slow<br>ceiling<br>crawl<br>game<br>woman |  
 | bip_39_word_new_br_11 | bless<br>marine<br>minute<br>will<br>wreck<br>slow<br>ceiling<br>crawl<br>game<br>woman<br>omit |  
@@ -147,6 +159,18 @@ game |
 | bip_39_word_space_7 | bless marine minute will wreck slow ceiling |  
 | bip_39_word_space_8 | bless marine minute will wreck slow ceiling crawl |  
 | bip_39_word_space_9 | bless marine minute will wreck slow ceiling crawl game |  
+| bip_39_word_underscore_1 | bless |  
+| bip_39_word_underscore_10 | bless_marine_minute_will_wreck_slow_ceiling_crawl_game_woman |  
+| bip_39_word_underscore_11 | bless_marine_minute_will_wreck_slow_ceiling_crawl_game_woman_omit |  
+| bip_39_word_underscore_12 | bless_marine_minute_will_wreck_slow_ceiling_crawl_game_woman_omit_aerobic |  
+| bip_39_word_underscore_2 | bless_marine |  
+| bip_39_word_underscore_3 | bless_marine_minute |  
+| bip_39_word_underscore_4 | bless_marine_minute_will |  
+| bip_39_word_underscore_5 | bless_marine_minute_will_wreck |  
+| bip_39_word_underscore_6 | bless_marine_minute_will_wreck_slow |  
+| bip_39_word_underscore_7 | bless_marine_minute_will_wreck_slow_ceiling |  
+| bip_39_word_underscore_8 | bless_marine_minute_will_wreck_slow_ceiling_crawl |  
+| bip_39_word_underscore_9 | bless_marine_minute_will_wreck_slow_ceiling_crawl_game |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

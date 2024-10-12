@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | side |  
+| bip_39_word_dash_10 | side-puppy-funny-where-trigger-erosion-devote-hand-tourist-believe |  
+| bip_39_word_dash_11 | side-puppy-funny-where-trigger-erosion-devote-hand-tourist-believe-love |  
+| bip_39_word_dash_12 | side-puppy-funny-where-trigger-erosion-devote-hand-tourist-believe-love-audit |  
+| bip_39_word_dash_2 | side-puppy |  
+| bip_39_word_dash_3 | side-puppy-funny |  
+| bip_39_word_dash_4 | side-puppy-funny-where |  
+| bip_39_word_dash_5 | side-puppy-funny-where-trigger |  
+| bip_39_word_dash_6 | side-puppy-funny-where-trigger-erosion |  
+| bip_39_word_dash_7 | side-puppy-funny-where-trigger-erosion-devote |  
+| bip_39_word_dash_8 | side-puppy-funny-where-trigger-erosion-devote-hand |  
+| bip_39_word_dash_9 | side-puppy-funny-where-trigger-erosion-devote-hand-tourist |  
 | bip_39_word_new_br_1 | side |  
 | bip_39_word_new_br_10 | side<br>puppy<br>funny<br>where<br>trigger<br>erosion<br>devote<br>hand<br>tourist<br>believe |  
 | bip_39_word_new_br_11 | side<br>puppy<br>funny<br>where<br>trigger<br>erosion<br>devote<br>hand<br>tourist<br>believe<br>love |  
@@ -147,6 +159,18 @@ tourist |
 | bip_39_word_space_7 | side puppy funny where trigger erosion devote |  
 | bip_39_word_space_8 | side puppy funny where trigger erosion devote hand |  
 | bip_39_word_space_9 | side puppy funny where trigger erosion devote hand tourist |  
+| bip_39_word_underscore_1 | side |  
+| bip_39_word_underscore_10 | side_puppy_funny_where_trigger_erosion_devote_hand_tourist_believe |  
+| bip_39_word_underscore_11 | side_puppy_funny_where_trigger_erosion_devote_hand_tourist_believe_love |  
+| bip_39_word_underscore_12 | side_puppy_funny_where_trigger_erosion_devote_hand_tourist_believe_love_audit |  
+| bip_39_word_underscore_2 | side_puppy |  
+| bip_39_word_underscore_3 | side_puppy_funny |  
+| bip_39_word_underscore_4 | side_puppy_funny_where |  
+| bip_39_word_underscore_5 | side_puppy_funny_where_trigger |  
+| bip_39_word_underscore_6 | side_puppy_funny_where_trigger_erosion |  
+| bip_39_word_underscore_7 | side_puppy_funny_where_trigger_erosion_devote |  
+| bip_39_word_underscore_8 | side_puppy_funny_where_trigger_erosion_devote_hand |  
+| bip_39_word_underscore_9 | side_puppy_funny_where_trigger_erosion_devote_hand_tourist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

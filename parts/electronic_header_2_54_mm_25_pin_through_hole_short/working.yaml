@@ -1,3 +1,15 @@
+bip_39_word_dash_1: market
+bip_39_word_dash_10: market-shadow-warm-vendor-stumble-vacant-jaguar-lonely-kitten-gasp
+bip_39_word_dash_11: market-shadow-warm-vendor-stumble-vacant-jaguar-lonely-kitten-gasp-skull
+bip_39_word_dash_12: market-shadow-warm-vendor-stumble-vacant-jaguar-lonely-kitten-gasp-skull-alcohol
+bip_39_word_dash_2: market-shadow
+bip_39_word_dash_3: market-shadow-warm
+bip_39_word_dash_4: market-shadow-warm-vendor
+bip_39_word_dash_5: market-shadow-warm-vendor-stumble
+bip_39_word_dash_6: market-shadow-warm-vendor-stumble-vacant
+bip_39_word_dash_7: market-shadow-warm-vendor-stumble-vacant-jaguar
+bip_39_word_dash_8: market-shadow-warm-vendor-stumble-vacant-jaguar-lonely
+bip_39_word_dash_9: market-shadow-warm-vendor-stumble-vacant-jaguar-lonely-kitten
 bip_39_word_new_br_1: market
 bip_39_word_new_br_10: market<br>shadow<br>warm<br>vendor<br>stumble<br>vacant<br>jaguar<br>lonely<br>kitten<br>gasp
 bip_39_word_new_br_11: market<br>shadow<br>warm<br>vendor<br>stumble<br>vacant<br>jaguar<br>lonely<br>kitten<br>gasp<br>skull
@@ -194,6 +206,18 @@ bip_39_word_space_6: market shadow warm vendor stumble vacant
 bip_39_word_space_7: market shadow warm vendor stumble vacant jaguar
 bip_39_word_space_8: market shadow warm vendor stumble vacant jaguar lonely
 bip_39_word_space_9: market shadow warm vendor stumble vacant jaguar lonely kitten
+bip_39_word_underscore_1: market
+bip_39_word_underscore_10: market_shadow_warm_vendor_stumble_vacant_jaguar_lonely_kitten_gasp
+bip_39_word_underscore_11: market_shadow_warm_vendor_stumble_vacant_jaguar_lonely_kitten_gasp_skull
+bip_39_word_underscore_12: market_shadow_warm_vendor_stumble_vacant_jaguar_lonely_kitten_gasp_skull_alcohol
+bip_39_word_underscore_2: market_shadow
+bip_39_word_underscore_3: market_shadow_warm
+bip_39_word_underscore_4: market_shadow_warm_vendor
+bip_39_word_underscore_5: market_shadow_warm_vendor_stumble
+bip_39_word_underscore_6: market_shadow_warm_vendor_stumble_vacant
+bip_39_word_underscore_7: market_shadow_warm_vendor_stumble_vacant_jaguar
+bip_39_word_underscore_8: market_shadow_warm_vendor_stumble_vacant_jaguar_lonely
+bip_39_word_underscore_9: market_shadow_warm_vendor_stumble_vacant_jaguar_lonely_kitten
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

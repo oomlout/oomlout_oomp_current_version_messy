@@ -1,3 +1,15 @@
+bip_39_word_dash_1: weird
+bip_39_word_dash_10: weird-vintage-leopard-game-average-wish-notable-oven-cactus-long
+bip_39_word_dash_11: weird-vintage-leopard-game-average-wish-notable-oven-cactus-long-bind
+bip_39_word_dash_12: weird-vintage-leopard-game-average-wish-notable-oven-cactus-long-bind-adapt
+bip_39_word_dash_2: weird-vintage
+bip_39_word_dash_3: weird-vintage-leopard
+bip_39_word_dash_4: weird-vintage-leopard-game
+bip_39_word_dash_5: weird-vintage-leopard-game-average
+bip_39_word_dash_6: weird-vintage-leopard-game-average-wish
+bip_39_word_dash_7: weird-vintage-leopard-game-average-wish-notable
+bip_39_word_dash_8: weird-vintage-leopard-game-average-wish-notable-oven
+bip_39_word_dash_9: weird-vintage-leopard-game-average-wish-notable-oven-cactus
 bip_39_word_new_br_1: weird
 bip_39_word_new_br_10: weird<br>vintage<br>leopard<br>game<br>average<br>wish<br>notable<br>oven<br>cactus<br>long
 bip_39_word_new_br_11: weird<br>vintage<br>leopard<br>game<br>average<br>wish<br>notable<br>oven<br>cactus<br>long<br>bind
@@ -194,6 +206,18 @@ bip_39_word_space_6: weird vintage leopard game average wish
 bip_39_word_space_7: weird vintage leopard game average wish notable
 bip_39_word_space_8: weird vintage leopard game average wish notable oven
 bip_39_word_space_9: weird vintage leopard game average wish notable oven cactus
+bip_39_word_underscore_1: weird
+bip_39_word_underscore_10: weird_vintage_leopard_game_average_wish_notable_oven_cactus_long
+bip_39_word_underscore_11: weird_vintage_leopard_game_average_wish_notable_oven_cactus_long_bind
+bip_39_word_underscore_12: weird_vintage_leopard_game_average_wish_notable_oven_cactus_long_bind_adapt
+bip_39_word_underscore_2: weird_vintage
+bip_39_word_underscore_3: weird_vintage_leopard
+bip_39_word_underscore_4: weird_vintage_leopard_game
+bip_39_word_underscore_5: weird_vintage_leopard_game_average
+bip_39_word_underscore_6: weird_vintage_leopard_game_average_wish
+bip_39_word_underscore_7: weird_vintage_leopard_game_average_wish_notable
+bip_39_word_underscore_8: weird_vintage_leopard_game_average_wish_notable_oven
+bip_39_word_underscore_9: weird_vintage_leopard_game_average_wish_notable_oven_cactus
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

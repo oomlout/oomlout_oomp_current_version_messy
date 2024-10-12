@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spread |  
+| bip_39_word_dash_10 | spread-trash-harbor-swing-puppy-ill-seat-law-walnut-short |  
+| bip_39_word_dash_11 | spread-trash-harbor-swing-puppy-ill-seat-law-walnut-short-open |  
+| bip_39_word_dash_12 | spread-trash-harbor-swing-puppy-ill-seat-law-walnut-short-open-artefact |  
+| bip_39_word_dash_2 | spread-trash |  
+| bip_39_word_dash_3 | spread-trash-harbor |  
+| bip_39_word_dash_4 | spread-trash-harbor-swing |  
+| bip_39_word_dash_5 | spread-trash-harbor-swing-puppy |  
+| bip_39_word_dash_6 | spread-trash-harbor-swing-puppy-ill |  
+| bip_39_word_dash_7 | spread-trash-harbor-swing-puppy-ill-seat |  
+| bip_39_word_dash_8 | spread-trash-harbor-swing-puppy-ill-seat-law |  
+| bip_39_word_dash_9 | spread-trash-harbor-swing-puppy-ill-seat-law-walnut |  
 | bip_39_word_new_br_1 | spread |  
 | bip_39_word_new_br_10 | spread<br>trash<br>harbor<br>swing<br>puppy<br>ill<br>seat<br>law<br>walnut<br>short |  
 | bip_39_word_new_br_11 | spread<br>trash<br>harbor<br>swing<br>puppy<br>ill<br>seat<br>law<br>walnut<br>short<br>open |  
@@ -147,6 +159,18 @@ walnut |
 | bip_39_word_space_7 | spread trash harbor swing puppy ill seat |  
 | bip_39_word_space_8 | spread trash harbor swing puppy ill seat law |  
 | bip_39_word_space_9 | spread trash harbor swing puppy ill seat law walnut |  
+| bip_39_word_underscore_1 | spread |  
+| bip_39_word_underscore_10 | spread_trash_harbor_swing_puppy_ill_seat_law_walnut_short |  
+| bip_39_word_underscore_11 | spread_trash_harbor_swing_puppy_ill_seat_law_walnut_short_open |  
+| bip_39_word_underscore_12 | spread_trash_harbor_swing_puppy_ill_seat_law_walnut_short_open_artefact |  
+| bip_39_word_underscore_2 | spread_trash |  
+| bip_39_word_underscore_3 | spread_trash_harbor |  
+| bip_39_word_underscore_4 | spread_trash_harbor_swing |  
+| bip_39_word_underscore_5 | spread_trash_harbor_swing_puppy |  
+| bip_39_word_underscore_6 | spread_trash_harbor_swing_puppy_ill |  
+| bip_39_word_underscore_7 | spread_trash_harbor_swing_puppy_ill_seat |  
+| bip_39_word_underscore_8 | spread_trash_harbor_swing_puppy_ill_seat_law |  
+| bip_39_word_underscore_9 | spread_trash_harbor_swing_puppy_ill_seat_law_walnut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

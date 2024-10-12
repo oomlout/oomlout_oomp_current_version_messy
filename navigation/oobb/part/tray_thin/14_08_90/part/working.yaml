@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fan
+bip_39_word_dash_10: fan-fatal-village-mail-actress-garment-aware-confirm-royal-reveal
+bip_39_word_dash_11: fan-fatal-village-mail-actress-garment-aware-confirm-royal-reveal-rose
+bip_39_word_dash_12: fan-fatal-village-mail-actress-garment-aware-confirm-royal-reveal-rose-aerobic
+bip_39_word_dash_2: fan-fatal
+bip_39_word_dash_3: fan-fatal-village
+bip_39_word_dash_4: fan-fatal-village-mail
+bip_39_word_dash_5: fan-fatal-village-mail-actress
+bip_39_word_dash_6: fan-fatal-village-mail-actress-garment
+bip_39_word_dash_7: fan-fatal-village-mail-actress-garment-aware
+bip_39_word_dash_8: fan-fatal-village-mail-actress-garment-aware-confirm
+bip_39_word_dash_9: fan-fatal-village-mail-actress-garment-aware-confirm-royal
 bip_39_word_new_br_1: fan
 bip_39_word_new_br_10: fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm<br>royal<br>reveal
 bip_39_word_new_br_11: fan<br>fatal<br>village<br>mail<br>actress<br>garment<br>aware<br>confirm<br>royal<br>reveal<br>rose
@@ -193,6 +205,18 @@ bip_39_word_space_6: fan fatal village mail actress garment
 bip_39_word_space_7: fan fatal village mail actress garment aware
 bip_39_word_space_8: fan fatal village mail actress garment aware confirm
 bip_39_word_space_9: fan fatal village mail actress garment aware confirm royal
+bip_39_word_underscore_1: fan
+bip_39_word_underscore_10: fan_fatal_village_mail_actress_garment_aware_confirm_royal_reveal
+bip_39_word_underscore_11: fan_fatal_village_mail_actress_garment_aware_confirm_royal_reveal_rose
+bip_39_word_underscore_12: fan_fatal_village_mail_actress_garment_aware_confirm_royal_reveal_rose_aerobic
+bip_39_word_underscore_2: fan_fatal
+bip_39_word_underscore_3: fan_fatal_village
+bip_39_word_underscore_4: fan_fatal_village_mail
+bip_39_word_underscore_5: fan_fatal_village_mail_actress
+bip_39_word_underscore_6: fan_fatal_village_mail_actress_garment
+bip_39_word_underscore_7: fan_fatal_village_mail_actress_garment_aware
+bip_39_word_underscore_8: fan_fatal_village_mail_actress_garment_aware_confirm
+bip_39_word_underscore_9: fan_fatal_village_mail_actress_garment_aware_confirm_royal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

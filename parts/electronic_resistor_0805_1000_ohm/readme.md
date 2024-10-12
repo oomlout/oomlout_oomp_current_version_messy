@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | round |  
+| bip_39_word_dash_10 | round-point-business-income-loop-dinner-cheese-victory-black-reunion |  
+| bip_39_word_dash_11 | round-point-business-income-loop-dinner-cheese-victory-black-reunion-duty |  
+| bip_39_word_dash_12 | round-point-business-income-loop-dinner-cheese-victory-black-reunion-duty-attitude |  
+| bip_39_word_dash_2 | round-point |  
+| bip_39_word_dash_3 | round-point-business |  
+| bip_39_word_dash_4 | round-point-business-income |  
+| bip_39_word_dash_5 | round-point-business-income-loop |  
+| bip_39_word_dash_6 | round-point-business-income-loop-dinner |  
+| bip_39_word_dash_7 | round-point-business-income-loop-dinner-cheese |  
+| bip_39_word_dash_8 | round-point-business-income-loop-dinner-cheese-victory |  
+| bip_39_word_dash_9 | round-point-business-income-loop-dinner-cheese-victory-black |  
 | bip_39_word_new_br_1 | round |  
 | bip_39_word_new_br_10 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory<br>black<br>reunion |  
 | bip_39_word_new_br_11 | round<br>point<br>business<br>income<br>loop<br>dinner<br>cheese<br>victory<br>black<br>reunion<br>duty |  
@@ -147,6 +159,18 @@ black |
 | bip_39_word_space_7 | round point business income loop dinner cheese |  
 | bip_39_word_space_8 | round point business income loop dinner cheese victory |  
 | bip_39_word_space_9 | round point business income loop dinner cheese victory black |  
+| bip_39_word_underscore_1 | round |  
+| bip_39_word_underscore_10 | round_point_business_income_loop_dinner_cheese_victory_black_reunion |  
+| bip_39_word_underscore_11 | round_point_business_income_loop_dinner_cheese_victory_black_reunion_duty |  
+| bip_39_word_underscore_12 | round_point_business_income_loop_dinner_cheese_victory_black_reunion_duty_attitude |  
+| bip_39_word_underscore_2 | round_point |  
+| bip_39_word_underscore_3 | round_point_business |  
+| bip_39_word_underscore_4 | round_point_business_income |  
+| bip_39_word_underscore_5 | round_point_business_income_loop |  
+| bip_39_word_underscore_6 | round_point_business_income_loop_dinner |  
+| bip_39_word_underscore_7 | round_point_business_income_loop_dinner_cheese |  
+| bip_39_word_underscore_8 | round_point_business_income_loop_dinner_cheese_victory |  
+| bip_39_word_underscore_9 | round_point_business_income_loop_dinner_cheese_victory_black |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

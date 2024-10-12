@@ -1,3 +1,15 @@
+bip_39_word_dash_1: knife
+bip_39_word_dash_10: knife-anchor-filter-foot-bubble-buddy-cash-park-twenty-window
+bip_39_word_dash_11: knife-anchor-filter-foot-bubble-buddy-cash-park-twenty-window-syrup
+bip_39_word_dash_12: knife-anchor-filter-foot-bubble-buddy-cash-park-twenty-window-syrup-amazing
+bip_39_word_dash_2: knife-anchor
+bip_39_word_dash_3: knife-anchor-filter
+bip_39_word_dash_4: knife-anchor-filter-foot
+bip_39_word_dash_5: knife-anchor-filter-foot-bubble
+bip_39_word_dash_6: knife-anchor-filter-foot-bubble-buddy
+bip_39_word_dash_7: knife-anchor-filter-foot-bubble-buddy-cash
+bip_39_word_dash_8: knife-anchor-filter-foot-bubble-buddy-cash-park
+bip_39_word_dash_9: knife-anchor-filter-foot-bubble-buddy-cash-park-twenty
 bip_39_word_new_br_1: knife
 bip_39_word_new_br_10: knife<br>anchor<br>filter<br>foot<br>bubble<br>buddy<br>cash<br>park<br>twenty<br>window
 bip_39_word_new_br_11: knife<br>anchor<br>filter<br>foot<br>bubble<br>buddy<br>cash<br>park<br>twenty<br>window<br>syrup
@@ -193,6 +205,18 @@ bip_39_word_space_6: knife anchor filter foot bubble buddy
 bip_39_word_space_7: knife anchor filter foot bubble buddy cash
 bip_39_word_space_8: knife anchor filter foot bubble buddy cash park
 bip_39_word_space_9: knife anchor filter foot bubble buddy cash park twenty
+bip_39_word_underscore_1: knife
+bip_39_word_underscore_10: knife_anchor_filter_foot_bubble_buddy_cash_park_twenty_window
+bip_39_word_underscore_11: knife_anchor_filter_foot_bubble_buddy_cash_park_twenty_window_syrup
+bip_39_word_underscore_12: knife_anchor_filter_foot_bubble_buddy_cash_park_twenty_window_syrup_amazing
+bip_39_word_underscore_2: knife_anchor
+bip_39_word_underscore_3: knife_anchor_filter
+bip_39_word_underscore_4: knife_anchor_filter_foot
+bip_39_word_underscore_5: knife_anchor_filter_foot_bubble
+bip_39_word_underscore_6: knife_anchor_filter_foot_bubble_buddy
+bip_39_word_underscore_7: knife_anchor_filter_foot_bubble_buddy_cash
+bip_39_word_underscore_8: knife_anchor_filter_foot_bubble_buddy_cash_park
+bip_39_word_underscore_9: knife_anchor_filter_foot_bubble_buddy_cash_park_twenty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

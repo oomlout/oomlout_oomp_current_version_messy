@@ -1,3 +1,15 @@
+bip_39_word_dash_1: organ
+bip_39_word_dash_10: organ-resource-success-negative-host-own-type-home-arena-juice
+bip_39_word_dash_11: organ-resource-success-negative-host-own-type-home-arena-juice-seat
+bip_39_word_dash_12: organ-resource-success-negative-host-own-type-home-arena-juice-seat-arrive
+bip_39_word_dash_2: organ-resource
+bip_39_word_dash_3: organ-resource-success
+bip_39_word_dash_4: organ-resource-success-negative
+bip_39_word_dash_5: organ-resource-success-negative-host
+bip_39_word_dash_6: organ-resource-success-negative-host-own
+bip_39_word_dash_7: organ-resource-success-negative-host-own-type
+bip_39_word_dash_8: organ-resource-success-negative-host-own-type-home
+bip_39_word_dash_9: organ-resource-success-negative-host-own-type-home-arena
 bip_39_word_new_br_1: organ
 bip_39_word_new_br_10: organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice
 bip_39_word_new_br_11: organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice<br>seat
@@ -193,6 +205,18 @@ bip_39_word_space_6: organ resource success negative host own
 bip_39_word_space_7: organ resource success negative host own type
 bip_39_word_space_8: organ resource success negative host own type home
 bip_39_word_space_9: organ resource success negative host own type home arena
+bip_39_word_underscore_1: organ
+bip_39_word_underscore_10: organ_resource_success_negative_host_own_type_home_arena_juice
+bip_39_word_underscore_11: organ_resource_success_negative_host_own_type_home_arena_juice_seat
+bip_39_word_underscore_12: organ_resource_success_negative_host_own_type_home_arena_juice_seat_arrive
+bip_39_word_underscore_2: organ_resource
+bip_39_word_underscore_3: organ_resource_success
+bip_39_word_underscore_4: organ_resource_success_negative
+bip_39_word_underscore_5: organ_resource_success_negative_host
+bip_39_word_underscore_6: organ_resource_success_negative_host_own
+bip_39_word_underscore_7: organ_resource_success_negative_host_own_type
+bip_39_word_underscore_8: organ_resource_success_negative_host_own_type_home
+bip_39_word_underscore_9: organ_resource_success_negative_host_own_type_home_arena
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

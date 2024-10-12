@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enrich |  
+| bip_39_word_dash_10 | enrich-odor-umbrella-spy-monkey-thumb-axis-shift-glimpse-damp |  
+| bip_39_word_dash_11 | enrich-odor-umbrella-spy-monkey-thumb-axis-shift-glimpse-damp-bundle |  
+| bip_39_word_dash_12 | enrich-odor-umbrella-spy-monkey-thumb-axis-shift-glimpse-damp-bundle-arch |  
+| bip_39_word_dash_2 | enrich-odor |  
+| bip_39_word_dash_3 | enrich-odor-umbrella |  
+| bip_39_word_dash_4 | enrich-odor-umbrella-spy |  
+| bip_39_word_dash_5 | enrich-odor-umbrella-spy-monkey |  
+| bip_39_word_dash_6 | enrich-odor-umbrella-spy-monkey-thumb |  
+| bip_39_word_dash_7 | enrich-odor-umbrella-spy-monkey-thumb-axis |  
+| bip_39_word_dash_8 | enrich-odor-umbrella-spy-monkey-thumb-axis-shift |  
+| bip_39_word_dash_9 | enrich-odor-umbrella-spy-monkey-thumb-axis-shift-glimpse |  
 | bip_39_word_new_br_1 | enrich |  
 | bip_39_word_new_br_10 | enrich<br>odor<br>umbrella<br>spy<br>monkey<br>thumb<br>axis<br>shift<br>glimpse<br>damp |  
 | bip_39_word_new_br_11 | enrich<br>odor<br>umbrella<br>spy<br>monkey<br>thumb<br>axis<br>shift<br>glimpse<br>damp<br>bundle |  
@@ -147,6 +159,18 @@ glimpse |
 | bip_39_word_space_7 | enrich odor umbrella spy monkey thumb axis |  
 | bip_39_word_space_8 | enrich odor umbrella spy monkey thumb axis shift |  
 | bip_39_word_space_9 | enrich odor umbrella spy monkey thumb axis shift glimpse |  
+| bip_39_word_underscore_1 | enrich |  
+| bip_39_word_underscore_10 | enrich_odor_umbrella_spy_monkey_thumb_axis_shift_glimpse_damp |  
+| bip_39_word_underscore_11 | enrich_odor_umbrella_spy_monkey_thumb_axis_shift_glimpse_damp_bundle |  
+| bip_39_word_underscore_12 | enrich_odor_umbrella_spy_monkey_thumb_axis_shift_glimpse_damp_bundle_arch |  
+| bip_39_word_underscore_2 | enrich_odor |  
+| bip_39_word_underscore_3 | enrich_odor_umbrella |  
+| bip_39_word_underscore_4 | enrich_odor_umbrella_spy |  
+| bip_39_word_underscore_5 | enrich_odor_umbrella_spy_monkey |  
+| bip_39_word_underscore_6 | enrich_odor_umbrella_spy_monkey_thumb |  
+| bip_39_word_underscore_7 | enrich_odor_umbrella_spy_monkey_thumb_axis |  
+| bip_39_word_underscore_8 | enrich_odor_umbrella_spy_monkey_thumb_axis_shift |  
+| bip_39_word_underscore_9 | enrich_odor_umbrella_spy_monkey_thumb_axis_shift_glimpse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

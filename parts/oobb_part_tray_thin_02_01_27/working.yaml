@@ -1,3 +1,15 @@
+bip_39_word_dash_1: world
+bip_39_word_dash_10: world-senior-lion-must-sister-mesh-learn-loop-nurse-idle
+bip_39_word_dash_11: world-senior-lion-must-sister-mesh-learn-loop-nurse-idle-board
+bip_39_word_dash_12: world-senior-lion-must-sister-mesh-learn-loop-nurse-idle-board-ask
+bip_39_word_dash_2: world-senior
+bip_39_word_dash_3: world-senior-lion
+bip_39_word_dash_4: world-senior-lion-must
+bip_39_word_dash_5: world-senior-lion-must-sister
+bip_39_word_dash_6: world-senior-lion-must-sister-mesh
+bip_39_word_dash_7: world-senior-lion-must-sister-mesh-learn
+bip_39_word_dash_8: world-senior-lion-must-sister-mesh-learn-loop
+bip_39_word_dash_9: world-senior-lion-must-sister-mesh-learn-loop-nurse
 bip_39_word_new_br_1: world
 bip_39_word_new_br_10: world<br>senior<br>lion<br>must<br>sister<br>mesh<br>learn<br>loop<br>nurse<br>idle
 bip_39_word_new_br_11: world<br>senior<br>lion<br>must<br>sister<br>mesh<br>learn<br>loop<br>nurse<br>idle<br>board
@@ -192,6 +204,18 @@ bip_39_word_space_6: world senior lion must sister mesh
 bip_39_word_space_7: world senior lion must sister mesh learn
 bip_39_word_space_8: world senior lion must sister mesh learn loop
 bip_39_word_space_9: world senior lion must sister mesh learn loop nurse
+bip_39_word_underscore_1: world
+bip_39_word_underscore_10: world_senior_lion_must_sister_mesh_learn_loop_nurse_idle
+bip_39_word_underscore_11: world_senior_lion_must_sister_mesh_learn_loop_nurse_idle_board
+bip_39_word_underscore_12: world_senior_lion_must_sister_mesh_learn_loop_nurse_idle_board_ask
+bip_39_word_underscore_2: world_senior
+bip_39_word_underscore_3: world_senior_lion
+bip_39_word_underscore_4: world_senior_lion_must
+bip_39_word_underscore_5: world_senior_lion_must_sister
+bip_39_word_underscore_6: world_senior_lion_must_sister_mesh
+bip_39_word_underscore_7: world_senior_lion_must_sister_mesh_learn
+bip_39_word_underscore_8: world_senior_lion_must_sister_mesh_learn_loop
+bip_39_word_underscore_9: world_senior_lion_must_sister_mesh_learn_loop_nurse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

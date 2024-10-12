@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | census |  
+| bip_39_word_dash_10 | census-find-exit-aware-life-verify-vapor-mixture-century-flash |  
+| bip_39_word_dash_11 | census-find-exit-aware-life-verify-vapor-mixture-century-flash-dog |  
+| bip_39_word_dash_12 | census-find-exit-aware-life-verify-vapor-mixture-century-flash-dog-abuse |  
+| bip_39_word_dash_2 | census-find |  
+| bip_39_word_dash_3 | census-find-exit |  
+| bip_39_word_dash_4 | census-find-exit-aware |  
+| bip_39_word_dash_5 | census-find-exit-aware-life |  
+| bip_39_word_dash_6 | census-find-exit-aware-life-verify |  
+| bip_39_word_dash_7 | census-find-exit-aware-life-verify-vapor |  
+| bip_39_word_dash_8 | census-find-exit-aware-life-verify-vapor-mixture |  
+| bip_39_word_dash_9 | census-find-exit-aware-life-verify-vapor-mixture-century |  
 | bip_39_word_new_br_1 | census |  
 | bip_39_word_new_br_10 | census<br>find<br>exit<br>aware<br>life<br>verify<br>vapor<br>mixture<br>century<br>flash |  
 | bip_39_word_new_br_11 | census<br>find<br>exit<br>aware<br>life<br>verify<br>vapor<br>mixture<br>century<br>flash<br>dog |  
@@ -147,6 +159,18 @@ century |
 | bip_39_word_space_7 | census find exit aware life verify vapor |  
 | bip_39_word_space_8 | census find exit aware life verify vapor mixture |  
 | bip_39_word_space_9 | census find exit aware life verify vapor mixture century |  
+| bip_39_word_underscore_1 | census |  
+| bip_39_word_underscore_10 | census_find_exit_aware_life_verify_vapor_mixture_century_flash |  
+| bip_39_word_underscore_11 | census_find_exit_aware_life_verify_vapor_mixture_century_flash_dog |  
+| bip_39_word_underscore_12 | census_find_exit_aware_life_verify_vapor_mixture_century_flash_dog_abuse |  
+| bip_39_word_underscore_2 | census_find |  
+| bip_39_word_underscore_3 | census_find_exit |  
+| bip_39_word_underscore_4 | census_find_exit_aware |  
+| bip_39_word_underscore_5 | census_find_exit_aware_life |  
+| bip_39_word_underscore_6 | census_find_exit_aware_life_verify |  
+| bip_39_word_underscore_7 | census_find_exit_aware_life_verify_vapor |  
+| bip_39_word_underscore_8 | census_find_exit_aware_life_verify_vapor_mixture |  
+| bip_39_word_underscore_9 | census_find_exit_aware_life_verify_vapor_mixture_century |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

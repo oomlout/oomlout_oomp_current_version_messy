@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sell
+bip_39_word_dash_10: sell-script-hollow-elevator-lucky-man-report-thumb-wait-catch
+bip_39_word_dash_11: sell-script-hollow-elevator-lucky-man-report-thumb-wait-catch-tourist
+bip_39_word_dash_12: sell-script-hollow-elevator-lucky-man-report-thumb-wait-catch-tourist-apology
+bip_39_word_dash_2: sell-script
+bip_39_word_dash_3: sell-script-hollow
+bip_39_word_dash_4: sell-script-hollow-elevator
+bip_39_word_dash_5: sell-script-hollow-elevator-lucky
+bip_39_word_dash_6: sell-script-hollow-elevator-lucky-man
+bip_39_word_dash_7: sell-script-hollow-elevator-lucky-man-report
+bip_39_word_dash_8: sell-script-hollow-elevator-lucky-man-report-thumb
+bip_39_word_dash_9: sell-script-hollow-elevator-lucky-man-report-thumb-wait
 bip_39_word_new_br_1: sell
 bip_39_word_new_br_10: sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb<br>wait<br>catch
 bip_39_word_new_br_11: sell<br>script<br>hollow<br>elevator<br>lucky<br>man<br>report<br>thumb<br>wait<br>catch<br>tourist
@@ -193,6 +205,18 @@ bip_39_word_space_6: sell script hollow elevator lucky man
 bip_39_word_space_7: sell script hollow elevator lucky man report
 bip_39_word_space_8: sell script hollow elevator lucky man report thumb
 bip_39_word_space_9: sell script hollow elevator lucky man report thumb wait
+bip_39_word_underscore_1: sell
+bip_39_word_underscore_10: sell_script_hollow_elevator_lucky_man_report_thumb_wait_catch
+bip_39_word_underscore_11: sell_script_hollow_elevator_lucky_man_report_thumb_wait_catch_tourist
+bip_39_word_underscore_12: sell_script_hollow_elevator_lucky_man_report_thumb_wait_catch_tourist_apology
+bip_39_word_underscore_2: sell_script
+bip_39_word_underscore_3: sell_script_hollow
+bip_39_word_underscore_4: sell_script_hollow_elevator
+bip_39_word_underscore_5: sell_script_hollow_elevator_lucky
+bip_39_word_underscore_6: sell_script_hollow_elevator_lucky_man
+bip_39_word_underscore_7: sell_script_hollow_elevator_lucky_man_report
+bip_39_word_underscore_8: sell_script_hollow_elevator_lucky_man_report_thumb
+bip_39_word_underscore_9: sell_script_hollow_elevator_lucky_man_report_thumb_wait
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

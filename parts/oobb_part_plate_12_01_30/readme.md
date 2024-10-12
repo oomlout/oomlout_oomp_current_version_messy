@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drama |  
+| bip_39_word_dash_10 | drama-boy-element-pilot-wire-swap-later-tank-cash-dutch |  
+| bip_39_word_dash_11 | drama-boy-element-pilot-wire-swap-later-tank-cash-dutch-elevator |  
+| bip_39_word_dash_12 | drama-boy-element-pilot-wire-swap-later-tank-cash-dutch-elevator-angry |  
+| bip_39_word_dash_2 | drama-boy |  
+| bip_39_word_dash_3 | drama-boy-element |  
+| bip_39_word_dash_4 | drama-boy-element-pilot |  
+| bip_39_word_dash_5 | drama-boy-element-pilot-wire |  
+| bip_39_word_dash_6 | drama-boy-element-pilot-wire-swap |  
+| bip_39_word_dash_7 | drama-boy-element-pilot-wire-swap-later |  
+| bip_39_word_dash_8 | drama-boy-element-pilot-wire-swap-later-tank |  
+| bip_39_word_dash_9 | drama-boy-element-pilot-wire-swap-later-tank-cash |  
 | bip_39_word_new_br_1 | drama |  
 | bip_39_word_new_br_10 | drama<br>boy<br>element<br>pilot<br>wire<br>swap<br>later<br>tank<br>cash<br>dutch |  
 | bip_39_word_new_br_11 | drama<br>boy<br>element<br>pilot<br>wire<br>swap<br>later<br>tank<br>cash<br>dutch<br>elevator |  
@@ -147,6 +159,18 @@ cash |
 | bip_39_word_space_7 | drama boy element pilot wire swap later |  
 | bip_39_word_space_8 | drama boy element pilot wire swap later tank |  
 | bip_39_word_space_9 | drama boy element pilot wire swap later tank cash |  
+| bip_39_word_underscore_1 | drama |  
+| bip_39_word_underscore_10 | drama_boy_element_pilot_wire_swap_later_tank_cash_dutch |  
+| bip_39_word_underscore_11 | drama_boy_element_pilot_wire_swap_later_tank_cash_dutch_elevator |  
+| bip_39_word_underscore_12 | drama_boy_element_pilot_wire_swap_later_tank_cash_dutch_elevator_angry |  
+| bip_39_word_underscore_2 | drama_boy |  
+| bip_39_word_underscore_3 | drama_boy_element |  
+| bip_39_word_underscore_4 | drama_boy_element_pilot |  
+| bip_39_word_underscore_5 | drama_boy_element_pilot_wire |  
+| bip_39_word_underscore_6 | drama_boy_element_pilot_wire_swap |  
+| bip_39_word_underscore_7 | drama_boy_element_pilot_wire_swap_later |  
+| bip_39_word_underscore_8 | drama_boy_element_pilot_wire_swap_later_tank |  
+| bip_39_word_underscore_9 | drama_boy_element_pilot_wire_swap_later_tank_cash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

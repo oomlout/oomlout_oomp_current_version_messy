@@ -1,3 +1,15 @@
+bip_39_word_dash_1: citizen
+bip_39_word_dash_10: citizen-chief-name-pioneer-wisdom-vintage-dragon-fortune-pull-next
+bip_39_word_dash_11: citizen-chief-name-pioneer-wisdom-vintage-dragon-fortune-pull-next-borrow
+bip_39_word_dash_12: citizen-chief-name-pioneer-wisdom-vintage-dragon-fortune-pull-next-borrow-argue
+bip_39_word_dash_2: citizen-chief
+bip_39_word_dash_3: citizen-chief-name
+bip_39_word_dash_4: citizen-chief-name-pioneer
+bip_39_word_dash_5: citizen-chief-name-pioneer-wisdom
+bip_39_word_dash_6: citizen-chief-name-pioneer-wisdom-vintage
+bip_39_word_dash_7: citizen-chief-name-pioneer-wisdom-vintage-dragon
+bip_39_word_dash_8: citizen-chief-name-pioneer-wisdom-vintage-dragon-fortune
+bip_39_word_dash_9: citizen-chief-name-pioneer-wisdom-vintage-dragon-fortune-pull
 bip_39_word_new_br_1: citizen
 bip_39_word_new_br_10: citizen<br>chief<br>name<br>pioneer<br>wisdom<br>vintage<br>dragon<br>fortune<br>pull<br>next
 bip_39_word_new_br_11: citizen<br>chief<br>name<br>pioneer<br>wisdom<br>vintage<br>dragon<br>fortune<br>pull<br>next<br>borrow
@@ -194,6 +206,18 @@ bip_39_word_space_6: citizen chief name pioneer wisdom vintage
 bip_39_word_space_7: citizen chief name pioneer wisdom vintage dragon
 bip_39_word_space_8: citizen chief name pioneer wisdom vintage dragon fortune
 bip_39_word_space_9: citizen chief name pioneer wisdom vintage dragon fortune pull
+bip_39_word_underscore_1: citizen
+bip_39_word_underscore_10: citizen_chief_name_pioneer_wisdom_vintage_dragon_fortune_pull_next
+bip_39_word_underscore_11: citizen_chief_name_pioneer_wisdom_vintage_dragon_fortune_pull_next_borrow
+bip_39_word_underscore_12: citizen_chief_name_pioneer_wisdom_vintage_dragon_fortune_pull_next_borrow_argue
+bip_39_word_underscore_2: citizen_chief
+bip_39_word_underscore_3: citizen_chief_name
+bip_39_word_underscore_4: citizen_chief_name_pioneer
+bip_39_word_underscore_5: citizen_chief_name_pioneer_wisdom
+bip_39_word_underscore_6: citizen_chief_name_pioneer_wisdom_vintage
+bip_39_word_underscore_7: citizen_chief_name_pioneer_wisdom_vintage_dragon
+bip_39_word_underscore_8: citizen_chief_name_pioneer_wisdom_vintage_dragon_fortune
+bip_39_word_underscore_9: citizen_chief_name_pioneer_wisdom_vintage_dragon_fortune_pull
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

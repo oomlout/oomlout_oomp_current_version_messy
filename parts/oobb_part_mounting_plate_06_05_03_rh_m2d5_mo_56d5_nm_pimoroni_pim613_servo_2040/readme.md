@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | few |  
+| bip_39_word_dash_10 | few-jacket-razor-coral-man-aunt-gaze-exist-bachelor-net |  
+| bip_39_word_dash_11 | few-jacket-razor-coral-man-aunt-gaze-exist-bachelor-net-vast |  
+| bip_39_word_dash_12 | few-jacket-razor-coral-man-aunt-gaze-exist-bachelor-net-vast-anxiety |  
+| bip_39_word_dash_2 | few-jacket |  
+| bip_39_word_dash_3 | few-jacket-razor |  
+| bip_39_word_dash_4 | few-jacket-razor-coral |  
+| bip_39_word_dash_5 | few-jacket-razor-coral-man |  
+| bip_39_word_dash_6 | few-jacket-razor-coral-man-aunt |  
+| bip_39_word_dash_7 | few-jacket-razor-coral-man-aunt-gaze |  
+| bip_39_word_dash_8 | few-jacket-razor-coral-man-aunt-gaze-exist |  
+| bip_39_word_dash_9 | few-jacket-razor-coral-man-aunt-gaze-exist-bachelor |  
 | bip_39_word_new_br_1 | few |  
 | bip_39_word_new_br_10 | few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist<br>bachelor<br>net |  
 | bip_39_word_new_br_11 | few<br>jacket<br>razor<br>coral<br>man<br>aunt<br>gaze<br>exist<br>bachelor<br>net<br>vast |  
@@ -147,6 +159,18 @@ bachelor |
 | bip_39_word_space_7 | few jacket razor coral man aunt gaze |  
 | bip_39_word_space_8 | few jacket razor coral man aunt gaze exist |  
 | bip_39_word_space_9 | few jacket razor coral man aunt gaze exist bachelor |  
+| bip_39_word_underscore_1 | few |  
+| bip_39_word_underscore_10 | few_jacket_razor_coral_man_aunt_gaze_exist_bachelor_net |  
+| bip_39_word_underscore_11 | few_jacket_razor_coral_man_aunt_gaze_exist_bachelor_net_vast |  
+| bip_39_word_underscore_12 | few_jacket_razor_coral_man_aunt_gaze_exist_bachelor_net_vast_anxiety |  
+| bip_39_word_underscore_2 | few_jacket |  
+| bip_39_word_underscore_3 | few_jacket_razor |  
+| bip_39_word_underscore_4 | few_jacket_razor_coral |  
+| bip_39_word_underscore_5 | few_jacket_razor_coral_man |  
+| bip_39_word_underscore_6 | few_jacket_razor_coral_man_aunt |  
+| bip_39_word_underscore_7 | few_jacket_razor_coral_man_aunt_gaze |  
+| bip_39_word_underscore_8 | few_jacket_razor_coral_man_aunt_gaze_exist |  
+| bip_39_word_underscore_9 | few_jacket_razor_coral_man_aunt_gaze_exist_bachelor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

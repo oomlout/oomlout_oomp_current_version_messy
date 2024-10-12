@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sting |  
+| bip_39_word_dash_10 | sting-nominee-civil-simple-nature-conduct-mom-home-unhappy-finish |  
+| bip_39_word_dash_11 | sting-nominee-civil-simple-nature-conduct-mom-home-unhappy-finish-gate |  
+| bip_39_word_dash_12 | sting-nominee-civil-simple-nature-conduct-mom-home-unhappy-finish-gate-absorb |  
+| bip_39_word_dash_2 | sting-nominee |  
+| bip_39_word_dash_3 | sting-nominee-civil |  
+| bip_39_word_dash_4 | sting-nominee-civil-simple |  
+| bip_39_word_dash_5 | sting-nominee-civil-simple-nature |  
+| bip_39_word_dash_6 | sting-nominee-civil-simple-nature-conduct |  
+| bip_39_word_dash_7 | sting-nominee-civil-simple-nature-conduct-mom |  
+| bip_39_word_dash_8 | sting-nominee-civil-simple-nature-conduct-mom-home |  
+| bip_39_word_dash_9 | sting-nominee-civil-simple-nature-conduct-mom-home-unhappy |  
 | bip_39_word_new_br_1 | sting |  
 | bip_39_word_new_br_10 | sting<br>nominee<br>civil<br>simple<br>nature<br>conduct<br>mom<br>home<br>unhappy<br>finish |  
 | bip_39_word_new_br_11 | sting<br>nominee<br>civil<br>simple<br>nature<br>conduct<br>mom<br>home<br>unhappy<br>finish<br>gate |  
@@ -147,6 +159,18 @@ unhappy |
 | bip_39_word_space_7 | sting nominee civil simple nature conduct mom |  
 | bip_39_word_space_8 | sting nominee civil simple nature conduct mom home |  
 | bip_39_word_space_9 | sting nominee civil simple nature conduct mom home unhappy |  
+| bip_39_word_underscore_1 | sting |  
+| bip_39_word_underscore_10 | sting_nominee_civil_simple_nature_conduct_mom_home_unhappy_finish |  
+| bip_39_word_underscore_11 | sting_nominee_civil_simple_nature_conduct_mom_home_unhappy_finish_gate |  
+| bip_39_word_underscore_12 | sting_nominee_civil_simple_nature_conduct_mom_home_unhappy_finish_gate_absorb |  
+| bip_39_word_underscore_2 | sting_nominee |  
+| bip_39_word_underscore_3 | sting_nominee_civil |  
+| bip_39_word_underscore_4 | sting_nominee_civil_simple |  
+| bip_39_word_underscore_5 | sting_nominee_civil_simple_nature |  
+| bip_39_word_underscore_6 | sting_nominee_civil_simple_nature_conduct |  
+| bip_39_word_underscore_7 | sting_nominee_civil_simple_nature_conduct_mom |  
+| bip_39_word_underscore_8 | sting_nominee_civil_simple_nature_conduct_mom_home |  
+| bip_39_word_underscore_9 | sting_nominee_civil_simple_nature_conduct_mom_home_unhappy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

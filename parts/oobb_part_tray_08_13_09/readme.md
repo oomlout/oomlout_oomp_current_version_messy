@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | invest |  
+| bip_39_word_dash_10 | invest-tennis-amazing-fever-economy-gloom-lava-taxi-flip-scout |  
+| bip_39_word_dash_11 | invest-tennis-amazing-fever-economy-gloom-lava-taxi-flip-scout-solution |  
+| bip_39_word_dash_12 | invest-tennis-amazing-fever-economy-gloom-lava-taxi-flip-scout-solution-above |  
+| bip_39_word_dash_2 | invest-tennis |  
+| bip_39_word_dash_3 | invest-tennis-amazing |  
+| bip_39_word_dash_4 | invest-tennis-amazing-fever |  
+| bip_39_word_dash_5 | invest-tennis-amazing-fever-economy |  
+| bip_39_word_dash_6 | invest-tennis-amazing-fever-economy-gloom |  
+| bip_39_word_dash_7 | invest-tennis-amazing-fever-economy-gloom-lava |  
+| bip_39_word_dash_8 | invest-tennis-amazing-fever-economy-gloom-lava-taxi |  
+| bip_39_word_dash_9 | invest-tennis-amazing-fever-economy-gloom-lava-taxi-flip |  
 | bip_39_word_new_br_1 | invest |  
 | bip_39_word_new_br_10 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout |  
 | bip_39_word_new_br_11 | invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout<br>solution |  
@@ -147,6 +159,18 @@ flip |
 | bip_39_word_space_7 | invest tennis amazing fever economy gloom lava |  
 | bip_39_word_space_8 | invest tennis amazing fever economy gloom lava taxi |  
 | bip_39_word_space_9 | invest tennis amazing fever economy gloom lava taxi flip |  
+| bip_39_word_underscore_1 | invest |  
+| bip_39_word_underscore_10 | invest_tennis_amazing_fever_economy_gloom_lava_taxi_flip_scout |  
+| bip_39_word_underscore_11 | invest_tennis_amazing_fever_economy_gloom_lava_taxi_flip_scout_solution |  
+| bip_39_word_underscore_12 | invest_tennis_amazing_fever_economy_gloom_lava_taxi_flip_scout_solution_above |  
+| bip_39_word_underscore_2 | invest_tennis |  
+| bip_39_word_underscore_3 | invest_tennis_amazing |  
+| bip_39_word_underscore_4 | invest_tennis_amazing_fever |  
+| bip_39_word_underscore_5 | invest_tennis_amazing_fever_economy |  
+| bip_39_word_underscore_6 | invest_tennis_amazing_fever_economy_gloom |  
+| bip_39_word_underscore_7 | invest_tennis_amazing_fever_economy_gloom_lava |  
+| bip_39_word_underscore_8 | invest_tennis_amazing_fever_economy_gloom_lava_taxi |  
+| bip_39_word_underscore_9 | invest_tennis_amazing_fever_economy_gloom_lava_taxi_flip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

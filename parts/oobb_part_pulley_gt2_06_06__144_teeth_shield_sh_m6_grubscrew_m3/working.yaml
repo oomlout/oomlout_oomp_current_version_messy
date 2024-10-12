@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fold
+bip_39_word_dash_10: fold-move-umbrella-chunk-faith-enjoy-nuclear-drill-drill-scare
+bip_39_word_dash_11: fold-move-umbrella-chunk-faith-enjoy-nuclear-drill-drill-scare-victory
+bip_39_word_dash_12: fold-move-umbrella-chunk-faith-enjoy-nuclear-drill-drill-scare-victory-absurd
+bip_39_word_dash_2: fold-move
+bip_39_word_dash_3: fold-move-umbrella
+bip_39_word_dash_4: fold-move-umbrella-chunk
+bip_39_word_dash_5: fold-move-umbrella-chunk-faith
+bip_39_word_dash_6: fold-move-umbrella-chunk-faith-enjoy
+bip_39_word_dash_7: fold-move-umbrella-chunk-faith-enjoy-nuclear
+bip_39_word_dash_8: fold-move-umbrella-chunk-faith-enjoy-nuclear-drill
+bip_39_word_dash_9: fold-move-umbrella-chunk-faith-enjoy-nuclear-drill-drill
 bip_39_word_new_br_1: fold
 bip_39_word_new_br_10: fold<br>move<br>umbrella<br>chunk<br>faith<br>enjoy<br>nuclear<br>drill<br>drill<br>scare
 bip_39_word_new_br_11: fold<br>move<br>umbrella<br>chunk<br>faith<br>enjoy<br>nuclear<br>drill<br>drill<br>scare<br>victory
@@ -193,6 +205,18 @@ bip_39_word_space_6: fold move umbrella chunk faith enjoy
 bip_39_word_space_7: fold move umbrella chunk faith enjoy nuclear
 bip_39_word_space_8: fold move umbrella chunk faith enjoy nuclear drill
 bip_39_word_space_9: fold move umbrella chunk faith enjoy nuclear drill drill
+bip_39_word_underscore_1: fold
+bip_39_word_underscore_10: fold_move_umbrella_chunk_faith_enjoy_nuclear_drill_drill_scare
+bip_39_word_underscore_11: fold_move_umbrella_chunk_faith_enjoy_nuclear_drill_drill_scare_victory
+bip_39_word_underscore_12: fold_move_umbrella_chunk_faith_enjoy_nuclear_drill_drill_scare_victory_absurd
+bip_39_word_underscore_2: fold_move
+bip_39_word_underscore_3: fold_move_umbrella
+bip_39_word_underscore_4: fold_move_umbrella_chunk
+bip_39_word_underscore_5: fold_move_umbrella_chunk_faith
+bip_39_word_underscore_6: fold_move_umbrella_chunk_faith_enjoy
+bip_39_word_underscore_7: fold_move_umbrella_chunk_faith_enjoy_nuclear
+bip_39_word_underscore_8: fold_move_umbrella_chunk_faith_enjoy_nuclear_drill
+bip_39_word_underscore_9: fold_move_umbrella_chunk_faith_enjoy_nuclear_drill_drill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

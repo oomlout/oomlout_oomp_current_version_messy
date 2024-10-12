@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sphere
+bip_39_word_dash_10: sphere-fury-vapor-milk-crew-oxygen-coach-wood-turtle-animal
+bip_39_word_dash_11: sphere-fury-vapor-milk-crew-oxygen-coach-wood-turtle-animal-horse
+bip_39_word_dash_12: sphere-fury-vapor-milk-crew-oxygen-coach-wood-turtle-animal-horse-arena
+bip_39_word_dash_2: sphere-fury
+bip_39_word_dash_3: sphere-fury-vapor
+bip_39_word_dash_4: sphere-fury-vapor-milk
+bip_39_word_dash_5: sphere-fury-vapor-milk-crew
+bip_39_word_dash_6: sphere-fury-vapor-milk-crew-oxygen
+bip_39_word_dash_7: sphere-fury-vapor-milk-crew-oxygen-coach
+bip_39_word_dash_8: sphere-fury-vapor-milk-crew-oxygen-coach-wood
+bip_39_word_dash_9: sphere-fury-vapor-milk-crew-oxygen-coach-wood-turtle
 bip_39_word_new_br_1: sphere
 bip_39_word_new_br_10: sphere<br>fury<br>vapor<br>milk<br>crew<br>oxygen<br>coach<br>wood<br>turtle<br>animal
 bip_39_word_new_br_11: sphere<br>fury<br>vapor<br>milk<br>crew<br>oxygen<br>coach<br>wood<br>turtle<br>animal<br>horse
@@ -193,6 +205,18 @@ bip_39_word_space_6: sphere fury vapor milk crew oxygen
 bip_39_word_space_7: sphere fury vapor milk crew oxygen coach
 bip_39_word_space_8: sphere fury vapor milk crew oxygen coach wood
 bip_39_word_space_9: sphere fury vapor milk crew oxygen coach wood turtle
+bip_39_word_underscore_1: sphere
+bip_39_word_underscore_10: sphere_fury_vapor_milk_crew_oxygen_coach_wood_turtle_animal
+bip_39_word_underscore_11: sphere_fury_vapor_milk_crew_oxygen_coach_wood_turtle_animal_horse
+bip_39_word_underscore_12: sphere_fury_vapor_milk_crew_oxygen_coach_wood_turtle_animal_horse_arena
+bip_39_word_underscore_2: sphere_fury
+bip_39_word_underscore_3: sphere_fury_vapor
+bip_39_word_underscore_4: sphere_fury_vapor_milk
+bip_39_word_underscore_5: sphere_fury_vapor_milk_crew
+bip_39_word_underscore_6: sphere_fury_vapor_milk_crew_oxygen
+bip_39_word_underscore_7: sphere_fury_vapor_milk_crew_oxygen_coach
+bip_39_word_underscore_8: sphere_fury_vapor_milk_crew_oxygen_coach_wood
+bip_39_word_underscore_9: sphere_fury_vapor_milk_crew_oxygen_coach_wood_turtle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

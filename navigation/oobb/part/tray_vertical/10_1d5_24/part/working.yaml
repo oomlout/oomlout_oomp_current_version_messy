@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blouse
+bip_39_word_dash_10: blouse-repair-special-icon-claim-identify-tooth-magnet-subject-squeeze
+bip_39_word_dash_11: blouse-repair-special-icon-claim-identify-tooth-magnet-subject-squeeze-interest
+bip_39_word_dash_12: blouse-repair-special-icon-claim-identify-tooth-magnet-subject-squeeze-interest-also
+bip_39_word_dash_2: blouse-repair
+bip_39_word_dash_3: blouse-repair-special
+bip_39_word_dash_4: blouse-repair-special-icon
+bip_39_word_dash_5: blouse-repair-special-icon-claim
+bip_39_word_dash_6: blouse-repair-special-icon-claim-identify
+bip_39_word_dash_7: blouse-repair-special-icon-claim-identify-tooth
+bip_39_word_dash_8: blouse-repair-special-icon-claim-identify-tooth-magnet
+bip_39_word_dash_9: blouse-repair-special-icon-claim-identify-tooth-magnet-subject
 bip_39_word_new_br_1: blouse
 bip_39_word_new_br_10: blouse<br>repair<br>special<br>icon<br>claim<br>identify<br>tooth<br>magnet<br>subject<br>squeeze
 bip_39_word_new_br_11: blouse<br>repair<br>special<br>icon<br>claim<br>identify<br>tooth<br>magnet<br>subject<br>squeeze<br>interest
@@ -194,6 +206,18 @@ bip_39_word_space_6: blouse repair special icon claim identify
 bip_39_word_space_7: blouse repair special icon claim identify tooth
 bip_39_word_space_8: blouse repair special icon claim identify tooth magnet
 bip_39_word_space_9: blouse repair special icon claim identify tooth magnet subject
+bip_39_word_underscore_1: blouse
+bip_39_word_underscore_10: blouse_repair_special_icon_claim_identify_tooth_magnet_subject_squeeze
+bip_39_word_underscore_11: blouse_repair_special_icon_claim_identify_tooth_magnet_subject_squeeze_interest
+bip_39_word_underscore_12: blouse_repair_special_icon_claim_identify_tooth_magnet_subject_squeeze_interest_also
+bip_39_word_underscore_2: blouse_repair
+bip_39_word_underscore_3: blouse_repair_special
+bip_39_word_underscore_4: blouse_repair_special_icon
+bip_39_word_underscore_5: blouse_repair_special_icon_claim
+bip_39_word_underscore_6: blouse_repair_special_icon_claim_identify
+bip_39_word_underscore_7: blouse_repair_special_icon_claim_identify_tooth
+bip_39_word_underscore_8: blouse_repair_special_icon_claim_identify_tooth_magnet
+bip_39_word_underscore_9: blouse_repair_special_icon_claim_identify_tooth_magnet_subject
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

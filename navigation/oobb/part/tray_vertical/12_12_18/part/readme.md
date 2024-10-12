@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cage |  
+| bip_39_word_dash_10 | cage-blanket-sorry-bunker-little-west-legal-donate-crater-dose |  
+| bip_39_word_dash_11 | cage-blanket-sorry-bunker-little-west-legal-donate-crater-dose-novel |  
+| bip_39_word_dash_12 | cage-blanket-sorry-bunker-little-west-legal-donate-crater-dose-novel-appear |  
+| bip_39_word_dash_2 | cage-blanket |  
+| bip_39_word_dash_3 | cage-blanket-sorry |  
+| bip_39_word_dash_4 | cage-blanket-sorry-bunker |  
+| bip_39_word_dash_5 | cage-blanket-sorry-bunker-little |  
+| bip_39_word_dash_6 | cage-blanket-sorry-bunker-little-west |  
+| bip_39_word_dash_7 | cage-blanket-sorry-bunker-little-west-legal |  
+| bip_39_word_dash_8 | cage-blanket-sorry-bunker-little-west-legal-donate |  
+| bip_39_word_dash_9 | cage-blanket-sorry-bunker-little-west-legal-donate-crater |  
 | bip_39_word_new_br_1 | cage |  
 | bip_39_word_new_br_10 | cage<br>blanket<br>sorry<br>bunker<br>little<br>west<br>legal<br>donate<br>crater<br>dose |  
 | bip_39_word_new_br_11 | cage<br>blanket<br>sorry<br>bunker<br>little<br>west<br>legal<br>donate<br>crater<br>dose<br>novel |  
@@ -147,6 +159,18 @@ crater |
 | bip_39_word_space_7 | cage blanket sorry bunker little west legal |  
 | bip_39_word_space_8 | cage blanket sorry bunker little west legal donate |  
 | bip_39_word_space_9 | cage blanket sorry bunker little west legal donate crater |  
+| bip_39_word_underscore_1 | cage |  
+| bip_39_word_underscore_10 | cage_blanket_sorry_bunker_little_west_legal_donate_crater_dose |  
+| bip_39_word_underscore_11 | cage_blanket_sorry_bunker_little_west_legal_donate_crater_dose_novel |  
+| bip_39_word_underscore_12 | cage_blanket_sorry_bunker_little_west_legal_donate_crater_dose_novel_appear |  
+| bip_39_word_underscore_2 | cage_blanket |  
+| bip_39_word_underscore_3 | cage_blanket_sorry |  
+| bip_39_word_underscore_4 | cage_blanket_sorry_bunker |  
+| bip_39_word_underscore_5 | cage_blanket_sorry_bunker_little |  
+| bip_39_word_underscore_6 | cage_blanket_sorry_bunker_little_west |  
+| bip_39_word_underscore_7 | cage_blanket_sorry_bunker_little_west_legal |  
+| bip_39_word_underscore_8 | cage_blanket_sorry_bunker_little_west_legal_donate |  
+| bip_39_word_underscore_9 | cage_blanket_sorry_bunker_little_west_legal_donate_crater |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

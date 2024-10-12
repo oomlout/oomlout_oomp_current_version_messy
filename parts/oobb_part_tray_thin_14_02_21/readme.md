@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | maid |  
+| bip_39_word_dash_10 | maid-erase-spoon-fly-raise-apology-skin-suspect-reopen-wall |  
+| bip_39_word_dash_11 | maid-erase-spoon-fly-raise-apology-skin-suspect-reopen-wall-asthma |  
+| bip_39_word_dash_12 | maid-erase-spoon-fly-raise-apology-skin-suspect-reopen-wall-asthma-angry |  
+| bip_39_word_dash_2 | maid-erase |  
+| bip_39_word_dash_3 | maid-erase-spoon |  
+| bip_39_word_dash_4 | maid-erase-spoon-fly |  
+| bip_39_word_dash_5 | maid-erase-spoon-fly-raise |  
+| bip_39_word_dash_6 | maid-erase-spoon-fly-raise-apology |  
+| bip_39_word_dash_7 | maid-erase-spoon-fly-raise-apology-skin |  
+| bip_39_word_dash_8 | maid-erase-spoon-fly-raise-apology-skin-suspect |  
+| bip_39_word_dash_9 | maid-erase-spoon-fly-raise-apology-skin-suspect-reopen |  
 | bip_39_word_new_br_1 | maid |  
 | bip_39_word_new_br_10 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect<br>reopen<br>wall |  
 | bip_39_word_new_br_11 | maid<br>erase<br>spoon<br>fly<br>raise<br>apology<br>skin<br>suspect<br>reopen<br>wall<br>asthma |  
@@ -147,6 +159,18 @@ reopen |
 | bip_39_word_space_7 | maid erase spoon fly raise apology skin |  
 | bip_39_word_space_8 | maid erase spoon fly raise apology skin suspect |  
 | bip_39_word_space_9 | maid erase spoon fly raise apology skin suspect reopen |  
+| bip_39_word_underscore_1 | maid |  
+| bip_39_word_underscore_10 | maid_erase_spoon_fly_raise_apology_skin_suspect_reopen_wall |  
+| bip_39_word_underscore_11 | maid_erase_spoon_fly_raise_apology_skin_suspect_reopen_wall_asthma |  
+| bip_39_word_underscore_12 | maid_erase_spoon_fly_raise_apology_skin_suspect_reopen_wall_asthma_angry |  
+| bip_39_word_underscore_2 | maid_erase |  
+| bip_39_word_underscore_3 | maid_erase_spoon |  
+| bip_39_word_underscore_4 | maid_erase_spoon_fly |  
+| bip_39_word_underscore_5 | maid_erase_spoon_fly_raise |  
+| bip_39_word_underscore_6 | maid_erase_spoon_fly_raise_apology |  
+| bip_39_word_underscore_7 | maid_erase_spoon_fly_raise_apology_skin |  
+| bip_39_word_underscore_8 | maid_erase_spoon_fly_raise_apology_skin_suspect |  
+| bip_39_word_underscore_9 | maid_erase_spoon_fly_raise_apology_skin_suspect_reopen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

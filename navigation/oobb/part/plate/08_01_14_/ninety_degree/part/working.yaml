@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fury
+bip_39_word_dash_10: fury-solid-million-nice-network-aunt-kidney-wide-welcome-now
+bip_39_word_dash_11: fury-solid-million-nice-network-aunt-kidney-wide-welcome-now-glue
+bip_39_word_dash_12: fury-solid-million-nice-network-aunt-kidney-wide-welcome-now-glue-arctic
+bip_39_word_dash_2: fury-solid
+bip_39_word_dash_3: fury-solid-million
+bip_39_word_dash_4: fury-solid-million-nice
+bip_39_word_dash_5: fury-solid-million-nice-network
+bip_39_word_dash_6: fury-solid-million-nice-network-aunt
+bip_39_word_dash_7: fury-solid-million-nice-network-aunt-kidney
+bip_39_word_dash_8: fury-solid-million-nice-network-aunt-kidney-wide
+bip_39_word_dash_9: fury-solid-million-nice-network-aunt-kidney-wide-welcome
 bip_39_word_new_br_1: fury
 bip_39_word_new_br_10: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now
 bip_39_word_new_br_11: fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now<br>glue
@@ -193,6 +205,18 @@ bip_39_word_space_6: fury solid million nice network aunt
 bip_39_word_space_7: fury solid million nice network aunt kidney
 bip_39_word_space_8: fury solid million nice network aunt kidney wide
 bip_39_word_space_9: fury solid million nice network aunt kidney wide welcome
+bip_39_word_underscore_1: fury
+bip_39_word_underscore_10: fury_solid_million_nice_network_aunt_kidney_wide_welcome_now
+bip_39_word_underscore_11: fury_solid_million_nice_network_aunt_kidney_wide_welcome_now_glue
+bip_39_word_underscore_12: fury_solid_million_nice_network_aunt_kidney_wide_welcome_now_glue_arctic
+bip_39_word_underscore_2: fury_solid
+bip_39_word_underscore_3: fury_solid_million
+bip_39_word_underscore_4: fury_solid_million_nice
+bip_39_word_underscore_5: fury_solid_million_nice_network
+bip_39_word_underscore_6: fury_solid_million_nice_network_aunt
+bip_39_word_underscore_7: fury_solid_million_nice_network_aunt_kidney
+bip_39_word_underscore_8: fury_solid_million_nice_network_aunt_kidney_wide
+bip_39_word_underscore_9: fury_solid_million_nice_network_aunt_kidney_wide_welcome
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: infant
+bip_39_word_dash_10: infant-funny-ketchup-despair-network-slot-this-wet-turn-include
+bip_39_word_dash_11: infant-funny-ketchup-despair-network-slot-this-wet-turn-include-slam
+bip_39_word_dash_12: infant-funny-ketchup-despair-network-slot-this-wet-turn-include-slam-acquire
+bip_39_word_dash_2: infant-funny
+bip_39_word_dash_3: infant-funny-ketchup
+bip_39_word_dash_4: infant-funny-ketchup-despair
+bip_39_word_dash_5: infant-funny-ketchup-despair-network
+bip_39_word_dash_6: infant-funny-ketchup-despair-network-slot
+bip_39_word_dash_7: infant-funny-ketchup-despair-network-slot-this
+bip_39_word_dash_8: infant-funny-ketchup-despair-network-slot-this-wet
+bip_39_word_dash_9: infant-funny-ketchup-despair-network-slot-this-wet-turn
 bip_39_word_new_br_1: infant
 bip_39_word_new_br_10: infant<br>funny<br>ketchup<br>despair<br>network<br>slot<br>this<br>wet<br>turn<br>include
 bip_39_word_new_br_11: infant<br>funny<br>ketchup<br>despair<br>network<br>slot<br>this<br>wet<br>turn<br>include<br>slam
@@ -193,6 +205,18 @@ bip_39_word_space_6: infant funny ketchup despair network slot
 bip_39_word_space_7: infant funny ketchup despair network slot this
 bip_39_word_space_8: infant funny ketchup despair network slot this wet
 bip_39_word_space_9: infant funny ketchup despair network slot this wet turn
+bip_39_word_underscore_1: infant
+bip_39_word_underscore_10: infant_funny_ketchup_despair_network_slot_this_wet_turn_include
+bip_39_word_underscore_11: infant_funny_ketchup_despair_network_slot_this_wet_turn_include_slam
+bip_39_word_underscore_12: infant_funny_ketchup_despair_network_slot_this_wet_turn_include_slam_acquire
+bip_39_word_underscore_2: infant_funny
+bip_39_word_underscore_3: infant_funny_ketchup
+bip_39_word_underscore_4: infant_funny_ketchup_despair
+bip_39_word_underscore_5: infant_funny_ketchup_despair_network
+bip_39_word_underscore_6: infant_funny_ketchup_despair_network_slot
+bip_39_word_underscore_7: infant_funny_ketchup_despair_network_slot_this
+bip_39_word_underscore_8: infant_funny_ketchup_despair_network_slot_this_wet
+bip_39_word_underscore_9: infant_funny_ketchup_despair_network_slot_this_wet_turn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

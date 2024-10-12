@@ -1,3 +1,15 @@
+bip_39_word_dash_1: now
+bip_39_word_dash_10: now-salt-friend-resist-spawn-metal-lend-wheat-wheat-cute
+bip_39_word_dash_11: now-salt-friend-resist-spawn-metal-lend-wheat-wheat-cute-blossom
+bip_39_word_dash_12: now-salt-friend-resist-spawn-metal-lend-wheat-wheat-cute-blossom-amount
+bip_39_word_dash_2: now-salt
+bip_39_word_dash_3: now-salt-friend
+bip_39_word_dash_4: now-salt-friend-resist
+bip_39_word_dash_5: now-salt-friend-resist-spawn
+bip_39_word_dash_6: now-salt-friend-resist-spawn-metal
+bip_39_word_dash_7: now-salt-friend-resist-spawn-metal-lend
+bip_39_word_dash_8: now-salt-friend-resist-spawn-metal-lend-wheat
+bip_39_word_dash_9: now-salt-friend-resist-spawn-metal-lend-wheat-wheat
 bip_39_word_new_br_1: now
 bip_39_word_new_br_10: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat<br>wheat<br>cute
 bip_39_word_new_br_11: now<br>salt<br>friend<br>resist<br>spawn<br>metal<br>lend<br>wheat<br>wheat<br>cute<br>blossom
@@ -192,6 +204,18 @@ bip_39_word_space_6: now salt friend resist spawn metal
 bip_39_word_space_7: now salt friend resist spawn metal lend
 bip_39_word_space_8: now salt friend resist spawn metal lend wheat
 bip_39_word_space_9: now salt friend resist spawn metal lend wheat wheat
+bip_39_word_underscore_1: now
+bip_39_word_underscore_10: now_salt_friend_resist_spawn_metal_lend_wheat_wheat_cute
+bip_39_word_underscore_11: now_salt_friend_resist_spawn_metal_lend_wheat_wheat_cute_blossom
+bip_39_word_underscore_12: now_salt_friend_resist_spawn_metal_lend_wheat_wheat_cute_blossom_amount
+bip_39_word_underscore_2: now_salt
+bip_39_word_underscore_3: now_salt_friend
+bip_39_word_underscore_4: now_salt_friend_resist
+bip_39_word_underscore_5: now_salt_friend_resist_spawn
+bip_39_word_underscore_6: now_salt_friend_resist_spawn_metal
+bip_39_word_underscore_7: now_salt_friend_resist_spawn_metal_lend
+bip_39_word_underscore_8: now_salt_friend_resist_spawn_metal_lend_wheat
+bip_39_word_underscore_9: now_salt_friend_resist_spawn_metal_lend_wheat_wheat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

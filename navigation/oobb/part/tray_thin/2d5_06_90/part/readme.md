@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebuild |  
+| bip_39_word_dash_10 | rebuild-marble-settle-mechanic-potato-train-embrace-length-verify-spread |  
+| bip_39_word_dash_11 | rebuild-marble-settle-mechanic-potato-train-embrace-length-verify-spread-language |  
+| bip_39_word_dash_12 | rebuild-marble-settle-mechanic-potato-train-embrace-length-verify-spread-language-amount |  
+| bip_39_word_dash_2 | rebuild-marble |  
+| bip_39_word_dash_3 | rebuild-marble-settle |  
+| bip_39_word_dash_4 | rebuild-marble-settle-mechanic |  
+| bip_39_word_dash_5 | rebuild-marble-settle-mechanic-potato |  
+| bip_39_word_dash_6 | rebuild-marble-settle-mechanic-potato-train |  
+| bip_39_word_dash_7 | rebuild-marble-settle-mechanic-potato-train-embrace |  
+| bip_39_word_dash_8 | rebuild-marble-settle-mechanic-potato-train-embrace-length |  
+| bip_39_word_dash_9 | rebuild-marble-settle-mechanic-potato-train-embrace-length-verify |  
 | bip_39_word_new_br_1 | rebuild |  
 | bip_39_word_new_br_10 | rebuild<br>marble<br>settle<br>mechanic<br>potato<br>train<br>embrace<br>length<br>verify<br>spread |  
 | bip_39_word_new_br_11 | rebuild<br>marble<br>settle<br>mechanic<br>potato<br>train<br>embrace<br>length<br>verify<br>spread<br>language |  
@@ -147,6 +159,18 @@ verify |
 | bip_39_word_space_7 | rebuild marble settle mechanic potato train embrace |  
 | bip_39_word_space_8 | rebuild marble settle mechanic potato train embrace length |  
 | bip_39_word_space_9 | rebuild marble settle mechanic potato train embrace length verify |  
+| bip_39_word_underscore_1 | rebuild |  
+| bip_39_word_underscore_10 | rebuild_marble_settle_mechanic_potato_train_embrace_length_verify_spread |  
+| bip_39_word_underscore_11 | rebuild_marble_settle_mechanic_potato_train_embrace_length_verify_spread_language |  
+| bip_39_word_underscore_12 | rebuild_marble_settle_mechanic_potato_train_embrace_length_verify_spread_language_amount |  
+| bip_39_word_underscore_2 | rebuild_marble |  
+| bip_39_word_underscore_3 | rebuild_marble_settle |  
+| bip_39_word_underscore_4 | rebuild_marble_settle_mechanic |  
+| bip_39_word_underscore_5 | rebuild_marble_settle_mechanic_potato |  
+| bip_39_word_underscore_6 | rebuild_marble_settle_mechanic_potato_train |  
+| bip_39_word_underscore_7 | rebuild_marble_settle_mechanic_potato_train_embrace |  
+| bip_39_word_underscore_8 | rebuild_marble_settle_mechanic_potato_train_embrace_length |  
+| bip_39_word_underscore_9 | rebuild_marble_settle_mechanic_potato_train_embrace_length_verify |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

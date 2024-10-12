@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | milk |  
+| bip_39_word_dash_10 | milk-cereal-want-few-social-pioneer-also-oxygen-found-reduce |  
+| bip_39_word_dash_11 | milk-cereal-want-few-social-pioneer-also-oxygen-found-reduce-sniff |  
+| bip_39_word_dash_12 | milk-cereal-want-few-social-pioneer-also-oxygen-found-reduce-sniff-above |  
+| bip_39_word_dash_2 | milk-cereal |  
+| bip_39_word_dash_3 | milk-cereal-want |  
+| bip_39_word_dash_4 | milk-cereal-want-few |  
+| bip_39_word_dash_5 | milk-cereal-want-few-social |  
+| bip_39_word_dash_6 | milk-cereal-want-few-social-pioneer |  
+| bip_39_word_dash_7 | milk-cereal-want-few-social-pioneer-also |  
+| bip_39_word_dash_8 | milk-cereal-want-few-social-pioneer-also-oxygen |  
+| bip_39_word_dash_9 | milk-cereal-want-few-social-pioneer-also-oxygen-found |  
 | bip_39_word_new_br_1 | milk |  
 | bip_39_word_new_br_10 | milk<br>cereal<br>want<br>few<br>social<br>pioneer<br>also<br>oxygen<br>found<br>reduce |  
 | bip_39_word_new_br_11 | milk<br>cereal<br>want<br>few<br>social<br>pioneer<br>also<br>oxygen<br>found<br>reduce<br>sniff |  
@@ -147,6 +159,18 @@ found |
 | bip_39_word_space_7 | milk cereal want few social pioneer also |  
 | bip_39_word_space_8 | milk cereal want few social pioneer also oxygen |  
 | bip_39_word_space_9 | milk cereal want few social pioneer also oxygen found |  
+| bip_39_word_underscore_1 | milk |  
+| bip_39_word_underscore_10 | milk_cereal_want_few_social_pioneer_also_oxygen_found_reduce |  
+| bip_39_word_underscore_11 | milk_cereal_want_few_social_pioneer_also_oxygen_found_reduce_sniff |  
+| bip_39_word_underscore_12 | milk_cereal_want_few_social_pioneer_also_oxygen_found_reduce_sniff_above |  
+| bip_39_word_underscore_2 | milk_cereal |  
+| bip_39_word_underscore_3 | milk_cereal_want |  
+| bip_39_word_underscore_4 | milk_cereal_want_few |  
+| bip_39_word_underscore_5 | milk_cereal_want_few_social |  
+| bip_39_word_underscore_6 | milk_cereal_want_few_social_pioneer |  
+| bip_39_word_underscore_7 | milk_cereal_want_few_social_pioneer_also |  
+| bip_39_word_underscore_8 | milk_cereal_want_few_social_pioneer_also_oxygen |  
+| bip_39_word_underscore_9 | milk_cereal_want_few_social_pioneer_also_oxygen_found |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

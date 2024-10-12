@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deputy |  
+| bip_39_word_dash_10 | deputy-tilt-situate-lonely-inmate-lab-hawk-rhythm-depart-turn |  
+| bip_39_word_dash_11 | deputy-tilt-situate-lonely-inmate-lab-hawk-rhythm-depart-turn-claim |  
+| bip_39_word_dash_12 | deputy-tilt-situate-lonely-inmate-lab-hawk-rhythm-depart-turn-claim-aerobic |  
+| bip_39_word_dash_2 | deputy-tilt |  
+| bip_39_word_dash_3 | deputy-tilt-situate |  
+| bip_39_word_dash_4 | deputy-tilt-situate-lonely |  
+| bip_39_word_dash_5 | deputy-tilt-situate-lonely-inmate |  
+| bip_39_word_dash_6 | deputy-tilt-situate-lonely-inmate-lab |  
+| bip_39_word_dash_7 | deputy-tilt-situate-lonely-inmate-lab-hawk |  
+| bip_39_word_dash_8 | deputy-tilt-situate-lonely-inmate-lab-hawk-rhythm |  
+| bip_39_word_dash_9 | deputy-tilt-situate-lonely-inmate-lab-hawk-rhythm-depart |  
 | bip_39_word_new_br_1 | deputy |  
 | bip_39_word_new_br_10 | deputy<br>tilt<br>situate<br>lonely<br>inmate<br>lab<br>hawk<br>rhythm<br>depart<br>turn |  
 | bip_39_word_new_br_11 | deputy<br>tilt<br>situate<br>lonely<br>inmate<br>lab<br>hawk<br>rhythm<br>depart<br>turn<br>claim |  
@@ -147,6 +159,18 @@ depart |
 | bip_39_word_space_7 | deputy tilt situate lonely inmate lab hawk |  
 | bip_39_word_space_8 | deputy tilt situate lonely inmate lab hawk rhythm |  
 | bip_39_word_space_9 | deputy tilt situate lonely inmate lab hawk rhythm depart |  
+| bip_39_word_underscore_1 | deputy |  
+| bip_39_word_underscore_10 | deputy_tilt_situate_lonely_inmate_lab_hawk_rhythm_depart_turn |  
+| bip_39_word_underscore_11 | deputy_tilt_situate_lonely_inmate_lab_hawk_rhythm_depart_turn_claim |  
+| bip_39_word_underscore_12 | deputy_tilt_situate_lonely_inmate_lab_hawk_rhythm_depart_turn_claim_aerobic |  
+| bip_39_word_underscore_2 | deputy_tilt |  
+| bip_39_word_underscore_3 | deputy_tilt_situate |  
+| bip_39_word_underscore_4 | deputy_tilt_situate_lonely |  
+| bip_39_word_underscore_5 | deputy_tilt_situate_lonely_inmate |  
+| bip_39_word_underscore_6 | deputy_tilt_situate_lonely_inmate_lab |  
+| bip_39_word_underscore_7 | deputy_tilt_situate_lonely_inmate_lab_hawk |  
+| bip_39_word_underscore_8 | deputy_tilt_situate_lonely_inmate_lab_hawk_rhythm |  
+| bip_39_word_underscore_9 | deputy_tilt_situate_lonely_inmate_lab_hawk_rhythm_depart |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

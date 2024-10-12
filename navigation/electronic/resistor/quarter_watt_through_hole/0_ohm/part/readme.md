@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ring |  
+| bip_39_word_dash_10 | ring-tiger-pole-ginger-lawn-night-sting-yard-hip-title |  
+| bip_39_word_dash_11 | ring-tiger-pole-ginger-lawn-night-sting-yard-hip-title-remain |  
+| bip_39_word_dash_12 | ring-tiger-pole-ginger-lawn-night-sting-yard-hip-title-remain-always |  
+| bip_39_word_dash_2 | ring-tiger |  
+| bip_39_word_dash_3 | ring-tiger-pole |  
+| bip_39_word_dash_4 | ring-tiger-pole-ginger |  
+| bip_39_word_dash_5 | ring-tiger-pole-ginger-lawn |  
+| bip_39_word_dash_6 | ring-tiger-pole-ginger-lawn-night |  
+| bip_39_word_dash_7 | ring-tiger-pole-ginger-lawn-night-sting |  
+| bip_39_word_dash_8 | ring-tiger-pole-ginger-lawn-night-sting-yard |  
+| bip_39_word_dash_9 | ring-tiger-pole-ginger-lawn-night-sting-yard-hip |  
 | bip_39_word_new_br_1 | ring |  
 | bip_39_word_new_br_10 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title |  
 | bip_39_word_new_br_11 | ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title<br>remain |  
@@ -147,6 +159,18 @@ hip |
 | bip_39_word_space_7 | ring tiger pole ginger lawn night sting |  
 | bip_39_word_space_8 | ring tiger pole ginger lawn night sting yard |  
 | bip_39_word_space_9 | ring tiger pole ginger lawn night sting yard hip |  
+| bip_39_word_underscore_1 | ring |  
+| bip_39_word_underscore_10 | ring_tiger_pole_ginger_lawn_night_sting_yard_hip_title |  
+| bip_39_word_underscore_11 | ring_tiger_pole_ginger_lawn_night_sting_yard_hip_title_remain |  
+| bip_39_word_underscore_12 | ring_tiger_pole_ginger_lawn_night_sting_yard_hip_title_remain_always |  
+| bip_39_word_underscore_2 | ring_tiger |  
+| bip_39_word_underscore_3 | ring_tiger_pole |  
+| bip_39_word_underscore_4 | ring_tiger_pole_ginger |  
+| bip_39_word_underscore_5 | ring_tiger_pole_ginger_lawn |  
+| bip_39_word_underscore_6 | ring_tiger_pole_ginger_lawn_night |  
+| bip_39_word_underscore_7 | ring_tiger_pole_ginger_lawn_night_sting |  
+| bip_39_word_underscore_8 | ring_tiger_pole_ginger_lawn_night_sting_yard |  
+| bip_39_word_underscore_9 | ring_tiger_pole_ginger_lawn_night_sting_yard_hip |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

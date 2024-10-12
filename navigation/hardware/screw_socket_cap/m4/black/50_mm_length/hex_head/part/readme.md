@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blouse |  
+| bip_39_word_dash_10 | blouse-price-stairs-render-render-toast-drum-print-shoot-capital |  
+| bip_39_word_dash_11 | blouse-price-stairs-render-render-toast-drum-print-shoot-capital-mushroom |  
+| bip_39_word_dash_12 | blouse-price-stairs-render-render-toast-drum-print-shoot-capital-mushroom-aerobic |  
+| bip_39_word_dash_2 | blouse-price |  
+| bip_39_word_dash_3 | blouse-price-stairs |  
+| bip_39_word_dash_4 | blouse-price-stairs-render |  
+| bip_39_word_dash_5 | blouse-price-stairs-render-render |  
+| bip_39_word_dash_6 | blouse-price-stairs-render-render-toast |  
+| bip_39_word_dash_7 | blouse-price-stairs-render-render-toast-drum |  
+| bip_39_word_dash_8 | blouse-price-stairs-render-render-toast-drum-print |  
+| bip_39_word_dash_9 | blouse-price-stairs-render-render-toast-drum-print-shoot |  
 | bip_39_word_new_br_1 | blouse |  
 | bip_39_word_new_br_10 | blouse<br>price<br>stairs<br>render<br>render<br>toast<br>drum<br>print<br>shoot<br>capital |  
 | bip_39_word_new_br_11 | blouse<br>price<br>stairs<br>render<br>render<br>toast<br>drum<br>print<br>shoot<br>capital<br>mushroom |  
@@ -147,6 +159,18 @@ shoot |
 | bip_39_word_space_7 | blouse price stairs render render toast drum |  
 | bip_39_word_space_8 | blouse price stairs render render toast drum print |  
 | bip_39_word_space_9 | blouse price stairs render render toast drum print shoot |  
+| bip_39_word_underscore_1 | blouse |  
+| bip_39_word_underscore_10 | blouse_price_stairs_render_render_toast_drum_print_shoot_capital |  
+| bip_39_word_underscore_11 | blouse_price_stairs_render_render_toast_drum_print_shoot_capital_mushroom |  
+| bip_39_word_underscore_12 | blouse_price_stairs_render_render_toast_drum_print_shoot_capital_mushroom_aerobic |  
+| bip_39_word_underscore_2 | blouse_price |  
+| bip_39_word_underscore_3 | blouse_price_stairs |  
+| bip_39_word_underscore_4 | blouse_price_stairs_render |  
+| bip_39_word_underscore_5 | blouse_price_stairs_render_render |  
+| bip_39_word_underscore_6 | blouse_price_stairs_render_render_toast |  
+| bip_39_word_underscore_7 | blouse_price_stairs_render_render_toast_drum |  
+| bip_39_word_underscore_8 | blouse_price_stairs_render_render_toast_drum_print |  
+| bip_39_word_underscore_9 | blouse_price_stairs_render_render_toast_drum_print_shoot |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

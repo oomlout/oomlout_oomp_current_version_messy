@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shell
+bip_39_word_dash_10: shell-erode-faint-share-orbit-steel-addict-ginger-tornado-relief
+bip_39_word_dash_11: shell-erode-faint-share-orbit-steel-addict-ginger-tornado-relief-liberty
+bip_39_word_dash_12: shell-erode-faint-share-orbit-steel-addict-ginger-tornado-relief-liberty-arena
+bip_39_word_dash_2: shell-erode
+bip_39_word_dash_3: shell-erode-faint
+bip_39_word_dash_4: shell-erode-faint-share
+bip_39_word_dash_5: shell-erode-faint-share-orbit
+bip_39_word_dash_6: shell-erode-faint-share-orbit-steel
+bip_39_word_dash_7: shell-erode-faint-share-orbit-steel-addict
+bip_39_word_dash_8: shell-erode-faint-share-orbit-steel-addict-ginger
+bip_39_word_dash_9: shell-erode-faint-share-orbit-steel-addict-ginger-tornado
 bip_39_word_new_br_1: shell
 bip_39_word_new_br_10: shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief
 bip_39_word_new_br_11: shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief<br>liberty
@@ -193,6 +205,18 @@ bip_39_word_space_6: shell erode faint share orbit steel
 bip_39_word_space_7: shell erode faint share orbit steel addict
 bip_39_word_space_8: shell erode faint share orbit steel addict ginger
 bip_39_word_space_9: shell erode faint share orbit steel addict ginger tornado
+bip_39_word_underscore_1: shell
+bip_39_word_underscore_10: shell_erode_faint_share_orbit_steel_addict_ginger_tornado_relief
+bip_39_word_underscore_11: shell_erode_faint_share_orbit_steel_addict_ginger_tornado_relief_liberty
+bip_39_word_underscore_12: shell_erode_faint_share_orbit_steel_addict_ginger_tornado_relief_liberty_arena
+bip_39_word_underscore_2: shell_erode
+bip_39_word_underscore_3: shell_erode_faint
+bip_39_word_underscore_4: shell_erode_faint_share
+bip_39_word_underscore_5: shell_erode_faint_share_orbit
+bip_39_word_underscore_6: shell_erode_faint_share_orbit_steel
+bip_39_word_underscore_7: shell_erode_faint_share_orbit_steel_addict
+bip_39_word_underscore_8: shell_erode_faint_share_orbit_steel_addict_ginger
+bip_39_word_underscore_9: shell_erode_faint_share_orbit_steel_addict_ginger_tornado
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

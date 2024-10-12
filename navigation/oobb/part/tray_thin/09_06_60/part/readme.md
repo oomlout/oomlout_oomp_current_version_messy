@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tennis |  
+| bip_39_word_dash_10 | tennis-airport-warrior-anchor-fish-collect-castle-trial-arrest-blush |  
+| bip_39_word_dash_11 | tennis-airport-warrior-anchor-fish-collect-castle-trial-arrest-blush-network |  
+| bip_39_word_dash_12 | tennis-airport-warrior-anchor-fish-collect-castle-trial-arrest-blush-network-afford |  
+| bip_39_word_dash_2 | tennis-airport |  
+| bip_39_word_dash_3 | tennis-airport-warrior |  
+| bip_39_word_dash_4 | tennis-airport-warrior-anchor |  
+| bip_39_word_dash_5 | tennis-airport-warrior-anchor-fish |  
+| bip_39_word_dash_6 | tennis-airport-warrior-anchor-fish-collect |  
+| bip_39_word_dash_7 | tennis-airport-warrior-anchor-fish-collect-castle |  
+| bip_39_word_dash_8 | tennis-airport-warrior-anchor-fish-collect-castle-trial |  
+| bip_39_word_dash_9 | tennis-airport-warrior-anchor-fish-collect-castle-trial-arrest |  
 | bip_39_word_new_br_1 | tennis |  
 | bip_39_word_new_br_10 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial<br>arrest<br>blush |  
 | bip_39_word_new_br_11 | tennis<br>airport<br>warrior<br>anchor<br>fish<br>collect<br>castle<br>trial<br>arrest<br>blush<br>network |  
@@ -147,6 +159,18 @@ arrest |
 | bip_39_word_space_7 | tennis airport warrior anchor fish collect castle |  
 | bip_39_word_space_8 | tennis airport warrior anchor fish collect castle trial |  
 | bip_39_word_space_9 | tennis airport warrior anchor fish collect castle trial arrest |  
+| bip_39_word_underscore_1 | tennis |  
+| bip_39_word_underscore_10 | tennis_airport_warrior_anchor_fish_collect_castle_trial_arrest_blush |  
+| bip_39_word_underscore_11 | tennis_airport_warrior_anchor_fish_collect_castle_trial_arrest_blush_network |  
+| bip_39_word_underscore_12 | tennis_airport_warrior_anchor_fish_collect_castle_trial_arrest_blush_network_afford |  
+| bip_39_word_underscore_2 | tennis_airport |  
+| bip_39_word_underscore_3 | tennis_airport_warrior |  
+| bip_39_word_underscore_4 | tennis_airport_warrior_anchor |  
+| bip_39_word_underscore_5 | tennis_airport_warrior_anchor_fish |  
+| bip_39_word_underscore_6 | tennis_airport_warrior_anchor_fish_collect |  
+| bip_39_word_underscore_7 | tennis_airport_warrior_anchor_fish_collect_castle |  
+| bip_39_word_underscore_8 | tennis_airport_warrior_anchor_fish_collect_castle_trial |  
+| bip_39_word_underscore_9 | tennis_airport_warrior_anchor_fish_collect_castle_trial_arrest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

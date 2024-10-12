@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boring |  
+| bip_39_word_dash_10 | boring-rigid-mango-usual-under-example-private-damage-stadium-doctor |  
+| bip_39_word_dash_11 | boring-rigid-mango-usual-under-example-private-damage-stadium-doctor-figure |  
+| bip_39_word_dash_12 | boring-rigid-mango-usual-under-example-private-damage-stadium-doctor-figure-acid |  
+| bip_39_word_dash_2 | boring-rigid |  
+| bip_39_word_dash_3 | boring-rigid-mango |  
+| bip_39_word_dash_4 | boring-rigid-mango-usual |  
+| bip_39_word_dash_5 | boring-rigid-mango-usual-under |  
+| bip_39_word_dash_6 | boring-rigid-mango-usual-under-example |  
+| bip_39_word_dash_7 | boring-rigid-mango-usual-under-example-private |  
+| bip_39_word_dash_8 | boring-rigid-mango-usual-under-example-private-damage |  
+| bip_39_word_dash_9 | boring-rigid-mango-usual-under-example-private-damage-stadium |  
 | bip_39_word_new_br_1 | boring |  
 | bip_39_word_new_br_10 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor |  
 | bip_39_word_new_br_11 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor<br>figure |  
@@ -147,6 +159,18 @@ stadium |
 | bip_39_word_space_7 | boring rigid mango usual under example private |  
 | bip_39_word_space_8 | boring rigid mango usual under example private damage |  
 | bip_39_word_space_9 | boring rigid mango usual under example private damage stadium |  
+| bip_39_word_underscore_1 | boring |  
+| bip_39_word_underscore_10 | boring_rigid_mango_usual_under_example_private_damage_stadium_doctor |  
+| bip_39_word_underscore_11 | boring_rigid_mango_usual_under_example_private_damage_stadium_doctor_figure |  
+| bip_39_word_underscore_12 | boring_rigid_mango_usual_under_example_private_damage_stadium_doctor_figure_acid |  
+| bip_39_word_underscore_2 | boring_rigid |  
+| bip_39_word_underscore_3 | boring_rigid_mango |  
+| bip_39_word_underscore_4 | boring_rigid_mango_usual |  
+| bip_39_word_underscore_5 | boring_rigid_mango_usual_under |  
+| bip_39_word_underscore_6 | boring_rigid_mango_usual_under_example |  
+| bip_39_word_underscore_7 | boring_rigid_mango_usual_under_example_private |  
+| bip_39_word_underscore_8 | boring_rigid_mango_usual_under_example_private_damage |  
+| bip_39_word_underscore_9 | boring_rigid_mango_usual_under_example_private_damage_stadium |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

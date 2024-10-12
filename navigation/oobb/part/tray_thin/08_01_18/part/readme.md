@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clip |  
+| bip_39_word_dash_10 | clip-faculty-enforce-between-swear-vacant-tenant-crisp-damp-water |  
+| bip_39_word_dash_11 | clip-faculty-enforce-between-swear-vacant-tenant-crisp-damp-water-wedding |  
+| bip_39_word_dash_12 | clip-faculty-enforce-between-swear-vacant-tenant-crisp-damp-water-wedding-admit |  
+| bip_39_word_dash_2 | clip-faculty |  
+| bip_39_word_dash_3 | clip-faculty-enforce |  
+| bip_39_word_dash_4 | clip-faculty-enforce-between |  
+| bip_39_word_dash_5 | clip-faculty-enforce-between-swear |  
+| bip_39_word_dash_6 | clip-faculty-enforce-between-swear-vacant |  
+| bip_39_word_dash_7 | clip-faculty-enforce-between-swear-vacant-tenant |  
+| bip_39_word_dash_8 | clip-faculty-enforce-between-swear-vacant-tenant-crisp |  
+| bip_39_word_dash_9 | clip-faculty-enforce-between-swear-vacant-tenant-crisp-damp |  
 | bip_39_word_new_br_1 | clip |  
 | bip_39_word_new_br_10 | clip<br>faculty<br>enforce<br>between<br>swear<br>vacant<br>tenant<br>crisp<br>damp<br>water |  
 | bip_39_word_new_br_11 | clip<br>faculty<br>enforce<br>between<br>swear<br>vacant<br>tenant<br>crisp<br>damp<br>water<br>wedding |  
@@ -147,6 +159,18 @@ damp |
 | bip_39_word_space_7 | clip faculty enforce between swear vacant tenant |  
 | bip_39_word_space_8 | clip faculty enforce between swear vacant tenant crisp |  
 | bip_39_word_space_9 | clip faculty enforce between swear vacant tenant crisp damp |  
+| bip_39_word_underscore_1 | clip |  
+| bip_39_word_underscore_10 | clip_faculty_enforce_between_swear_vacant_tenant_crisp_damp_water |  
+| bip_39_word_underscore_11 | clip_faculty_enforce_between_swear_vacant_tenant_crisp_damp_water_wedding |  
+| bip_39_word_underscore_12 | clip_faculty_enforce_between_swear_vacant_tenant_crisp_damp_water_wedding_admit |  
+| bip_39_word_underscore_2 | clip_faculty |  
+| bip_39_word_underscore_3 | clip_faculty_enforce |  
+| bip_39_word_underscore_4 | clip_faculty_enforce_between |  
+| bip_39_word_underscore_5 | clip_faculty_enforce_between_swear |  
+| bip_39_word_underscore_6 | clip_faculty_enforce_between_swear_vacant |  
+| bip_39_word_underscore_7 | clip_faculty_enforce_between_swear_vacant_tenant |  
+| bip_39_word_underscore_8 | clip_faculty_enforce_between_swear_vacant_tenant_crisp |  
+| bip_39_word_underscore_9 | clip_faculty_enforce_between_swear_vacant_tenant_crisp_damp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

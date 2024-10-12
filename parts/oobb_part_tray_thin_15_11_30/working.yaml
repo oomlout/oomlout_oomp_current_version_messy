@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toss
+bip_39_word_dash_10: toss-daring-copper-flight-link-sell-special-hamster-name-company
+bip_39_word_dash_11: toss-daring-copper-flight-link-sell-special-hamster-name-company-treat
+bip_39_word_dash_12: toss-daring-copper-flight-link-sell-special-hamster-name-company-treat-acid
+bip_39_word_dash_2: toss-daring
+bip_39_word_dash_3: toss-daring-copper
+bip_39_word_dash_4: toss-daring-copper-flight
+bip_39_word_dash_5: toss-daring-copper-flight-link
+bip_39_word_dash_6: toss-daring-copper-flight-link-sell
+bip_39_word_dash_7: toss-daring-copper-flight-link-sell-special
+bip_39_word_dash_8: toss-daring-copper-flight-link-sell-special-hamster
+bip_39_word_dash_9: toss-daring-copper-flight-link-sell-special-hamster-name
 bip_39_word_new_br_1: toss
 bip_39_word_new_br_10: toss<br>daring<br>copper<br>flight<br>link<br>sell<br>special<br>hamster<br>name<br>company
 bip_39_word_new_br_11: toss<br>daring<br>copper<br>flight<br>link<br>sell<br>special<br>hamster<br>name<br>company<br>treat
@@ -193,6 +205,18 @@ bip_39_word_space_6: toss daring copper flight link sell
 bip_39_word_space_7: toss daring copper flight link sell special
 bip_39_word_space_8: toss daring copper flight link sell special hamster
 bip_39_word_space_9: toss daring copper flight link sell special hamster name
+bip_39_word_underscore_1: toss
+bip_39_word_underscore_10: toss_daring_copper_flight_link_sell_special_hamster_name_company
+bip_39_word_underscore_11: toss_daring_copper_flight_link_sell_special_hamster_name_company_treat
+bip_39_word_underscore_12: toss_daring_copper_flight_link_sell_special_hamster_name_company_treat_acid
+bip_39_word_underscore_2: toss_daring
+bip_39_word_underscore_3: toss_daring_copper
+bip_39_word_underscore_4: toss_daring_copper_flight
+bip_39_word_underscore_5: toss_daring_copper_flight_link
+bip_39_word_underscore_6: toss_daring_copper_flight_link_sell
+bip_39_word_underscore_7: toss_daring_copper_flight_link_sell_special
+bip_39_word_underscore_8: toss_daring_copper_flight_link_sell_special_hamster
+bip_39_word_underscore_9: toss_daring_copper_flight_link_sell_special_hamster_name
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

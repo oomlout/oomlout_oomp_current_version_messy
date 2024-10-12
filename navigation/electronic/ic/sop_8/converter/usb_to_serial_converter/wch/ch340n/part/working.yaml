@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crowd
+bip_39_word_dash_10: crowd-reopen-pioneer-honey-axis-jar-spoon-cotton-flag-scissors
+bip_39_word_dash_11: crowd-reopen-pioneer-honey-axis-jar-spoon-cotton-flag-scissors-skate
+bip_39_word_dash_12: crowd-reopen-pioneer-honey-axis-jar-spoon-cotton-flag-scissors-skate-approve
+bip_39_word_dash_2: crowd-reopen
+bip_39_word_dash_3: crowd-reopen-pioneer
+bip_39_word_dash_4: crowd-reopen-pioneer-honey
+bip_39_word_dash_5: crowd-reopen-pioneer-honey-axis
+bip_39_word_dash_6: crowd-reopen-pioneer-honey-axis-jar
+bip_39_word_dash_7: crowd-reopen-pioneer-honey-axis-jar-spoon
+bip_39_word_dash_8: crowd-reopen-pioneer-honey-axis-jar-spoon-cotton
+bip_39_word_dash_9: crowd-reopen-pioneer-honey-axis-jar-spoon-cotton-flag
 bip_39_word_new_br_1: crowd
 bip_39_word_new_br_10: crowd<br>reopen<br>pioneer<br>honey<br>axis<br>jar<br>spoon<br>cotton<br>flag<br>scissors
 bip_39_word_new_br_11: crowd<br>reopen<br>pioneer<br>honey<br>axis<br>jar<br>spoon<br>cotton<br>flag<br>scissors<br>skate
@@ -193,6 +205,18 @@ bip_39_word_space_6: crowd reopen pioneer honey axis jar
 bip_39_word_space_7: crowd reopen pioneer honey axis jar spoon
 bip_39_word_space_8: crowd reopen pioneer honey axis jar spoon cotton
 bip_39_word_space_9: crowd reopen pioneer honey axis jar spoon cotton flag
+bip_39_word_underscore_1: crowd
+bip_39_word_underscore_10: crowd_reopen_pioneer_honey_axis_jar_spoon_cotton_flag_scissors
+bip_39_word_underscore_11: crowd_reopen_pioneer_honey_axis_jar_spoon_cotton_flag_scissors_skate
+bip_39_word_underscore_12: crowd_reopen_pioneer_honey_axis_jar_spoon_cotton_flag_scissors_skate_approve
+bip_39_word_underscore_2: crowd_reopen
+bip_39_word_underscore_3: crowd_reopen_pioneer
+bip_39_word_underscore_4: crowd_reopen_pioneer_honey
+bip_39_word_underscore_5: crowd_reopen_pioneer_honey_axis
+bip_39_word_underscore_6: crowd_reopen_pioneer_honey_axis_jar
+bip_39_word_underscore_7: crowd_reopen_pioneer_honey_axis_jar_spoon
+bip_39_word_underscore_8: crowd_reopen_pioneer_honey_axis_jar_spoon_cotton
+bip_39_word_underscore_9: crowd_reopen_pioneer_honey_axis_jar_spoon_cotton_flag
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: diamond
+bip_39_word_dash_10: diamond-magic-depth-theory-cruise-merit-feel-couch-copy-allow
+bip_39_word_dash_11: diamond-magic-depth-theory-cruise-merit-feel-couch-copy-allow-forward
+bip_39_word_dash_12: diamond-magic-depth-theory-cruise-merit-feel-couch-copy-allow-forward-about
+bip_39_word_dash_2: diamond-magic
+bip_39_word_dash_3: diamond-magic-depth
+bip_39_word_dash_4: diamond-magic-depth-theory
+bip_39_word_dash_5: diamond-magic-depth-theory-cruise
+bip_39_word_dash_6: diamond-magic-depth-theory-cruise-merit
+bip_39_word_dash_7: diamond-magic-depth-theory-cruise-merit-feel
+bip_39_word_dash_8: diamond-magic-depth-theory-cruise-merit-feel-couch
+bip_39_word_dash_9: diamond-magic-depth-theory-cruise-merit-feel-couch-copy
 bip_39_word_new_br_1: diamond
 bip_39_word_new_br_10: diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch<br>copy<br>allow
 bip_39_word_new_br_11: diamond<br>magic<br>depth<br>theory<br>cruise<br>merit<br>feel<br>couch<br>copy<br>allow<br>forward
@@ -193,6 +205,18 @@ bip_39_word_space_6: diamond magic depth theory cruise merit
 bip_39_word_space_7: diamond magic depth theory cruise merit feel
 bip_39_word_space_8: diamond magic depth theory cruise merit feel couch
 bip_39_word_space_9: diamond magic depth theory cruise merit feel couch copy
+bip_39_word_underscore_1: diamond
+bip_39_word_underscore_10: diamond_magic_depth_theory_cruise_merit_feel_couch_copy_allow
+bip_39_word_underscore_11: diamond_magic_depth_theory_cruise_merit_feel_couch_copy_allow_forward
+bip_39_word_underscore_12: diamond_magic_depth_theory_cruise_merit_feel_couch_copy_allow_forward_about
+bip_39_word_underscore_2: diamond_magic
+bip_39_word_underscore_3: diamond_magic_depth
+bip_39_word_underscore_4: diamond_magic_depth_theory
+bip_39_word_underscore_5: diamond_magic_depth_theory_cruise
+bip_39_word_underscore_6: diamond_magic_depth_theory_cruise_merit
+bip_39_word_underscore_7: diamond_magic_depth_theory_cruise_merit_feel
+bip_39_word_underscore_8: diamond_magic_depth_theory_cruise_merit_feel_couch
+bip_39_word_underscore_9: diamond_magic_depth_theory_cruise_merit_feel_couch_copy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

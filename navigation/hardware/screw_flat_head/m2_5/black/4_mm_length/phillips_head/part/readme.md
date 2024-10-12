@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | payment |  
+| bip_39_word_dash_10 | payment-trial-physical-magic-improve-another-moment-ripple-dune-kitten |  
+| bip_39_word_dash_11 | payment-trial-physical-magic-improve-another-moment-ripple-dune-kitten-seek |  
+| bip_39_word_dash_12 | payment-trial-physical-magic-improve-another-moment-ripple-dune-kitten-seek-alter |  
+| bip_39_word_dash_2 | payment-trial |  
+| bip_39_word_dash_3 | payment-trial-physical |  
+| bip_39_word_dash_4 | payment-trial-physical-magic |  
+| bip_39_word_dash_5 | payment-trial-physical-magic-improve |  
+| bip_39_word_dash_6 | payment-trial-physical-magic-improve-another |  
+| bip_39_word_dash_7 | payment-trial-physical-magic-improve-another-moment |  
+| bip_39_word_dash_8 | payment-trial-physical-magic-improve-another-moment-ripple |  
+| bip_39_word_dash_9 | payment-trial-physical-magic-improve-another-moment-ripple-dune |  
 | bip_39_word_new_br_1 | payment |  
 | bip_39_word_new_br_10 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple<br>dune<br>kitten |  
 | bip_39_word_new_br_11 | payment<br>trial<br>physical<br>magic<br>improve<br>another<br>moment<br>ripple<br>dune<br>kitten<br>seek |  
@@ -147,6 +159,18 @@ dune |
 | bip_39_word_space_7 | payment trial physical magic improve another moment |  
 | bip_39_word_space_8 | payment trial physical magic improve another moment ripple |  
 | bip_39_word_space_9 | payment trial physical magic improve another moment ripple dune |  
+| bip_39_word_underscore_1 | payment |  
+| bip_39_word_underscore_10 | payment_trial_physical_magic_improve_another_moment_ripple_dune_kitten |  
+| bip_39_word_underscore_11 | payment_trial_physical_magic_improve_another_moment_ripple_dune_kitten_seek |  
+| bip_39_word_underscore_12 | payment_trial_physical_magic_improve_another_moment_ripple_dune_kitten_seek_alter |  
+| bip_39_word_underscore_2 | payment_trial |  
+| bip_39_word_underscore_3 | payment_trial_physical |  
+| bip_39_word_underscore_4 | payment_trial_physical_magic |  
+| bip_39_word_underscore_5 | payment_trial_physical_magic_improve |  
+| bip_39_word_underscore_6 | payment_trial_physical_magic_improve_another |  
+| bip_39_word_underscore_7 | payment_trial_physical_magic_improve_another_moment |  
+| bip_39_word_underscore_8 | payment_trial_physical_magic_improve_another_moment_ripple |  
+| bip_39_word_underscore_9 | payment_trial_physical_magic_improve_another_moment_ripple_dune |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

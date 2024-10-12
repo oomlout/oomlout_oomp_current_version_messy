@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | uphold |  
+| bip_39_word_dash_10 | uphold-industry-imitate-movie-twenty-captain-humble-lounge-access-market |  
+| bip_39_word_dash_11 | uphold-industry-imitate-movie-twenty-captain-humble-lounge-access-market-hundred |  
+| bip_39_word_dash_12 | uphold-industry-imitate-movie-twenty-captain-humble-lounge-access-market-hundred-action |  
+| bip_39_word_dash_2 | uphold-industry |  
+| bip_39_word_dash_3 | uphold-industry-imitate |  
+| bip_39_word_dash_4 | uphold-industry-imitate-movie |  
+| bip_39_word_dash_5 | uphold-industry-imitate-movie-twenty |  
+| bip_39_word_dash_6 | uphold-industry-imitate-movie-twenty-captain |  
+| bip_39_word_dash_7 | uphold-industry-imitate-movie-twenty-captain-humble |  
+| bip_39_word_dash_8 | uphold-industry-imitate-movie-twenty-captain-humble-lounge |  
+| bip_39_word_dash_9 | uphold-industry-imitate-movie-twenty-captain-humble-lounge-access |  
 | bip_39_word_new_br_1 | uphold |  
 | bip_39_word_new_br_10 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge<br>access<br>market |  
 | bip_39_word_new_br_11 | uphold<br>industry<br>imitate<br>movie<br>twenty<br>captain<br>humble<br>lounge<br>access<br>market<br>hundred |  
@@ -147,6 +159,18 @@ access |
 | bip_39_word_space_7 | uphold industry imitate movie twenty captain humble |  
 | bip_39_word_space_8 | uphold industry imitate movie twenty captain humble lounge |  
 | bip_39_word_space_9 | uphold industry imitate movie twenty captain humble lounge access |  
+| bip_39_word_underscore_1 | uphold |  
+| bip_39_word_underscore_10 | uphold_industry_imitate_movie_twenty_captain_humble_lounge_access_market |  
+| bip_39_word_underscore_11 | uphold_industry_imitate_movie_twenty_captain_humble_lounge_access_market_hundred |  
+| bip_39_word_underscore_12 | uphold_industry_imitate_movie_twenty_captain_humble_lounge_access_market_hundred_action |  
+| bip_39_word_underscore_2 | uphold_industry |  
+| bip_39_word_underscore_3 | uphold_industry_imitate |  
+| bip_39_word_underscore_4 | uphold_industry_imitate_movie |  
+| bip_39_word_underscore_5 | uphold_industry_imitate_movie_twenty |  
+| bip_39_word_underscore_6 | uphold_industry_imitate_movie_twenty_captain |  
+| bip_39_word_underscore_7 | uphold_industry_imitate_movie_twenty_captain_humble |  
+| bip_39_word_underscore_8 | uphold_industry_imitate_movie_twenty_captain_humble_lounge |  
+| bip_39_word_underscore_9 | uphold_industry_imitate_movie_twenty_captain_humble_lounge_access |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

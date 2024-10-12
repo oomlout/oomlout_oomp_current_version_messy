@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | river |  
+| bip_39_word_dash_10 | river-pattern-rack-devote-worry-misery-chief-trophy-roast-bitter |  
+| bip_39_word_dash_11 | river-pattern-rack-devote-worry-misery-chief-trophy-roast-bitter-one |  
+| bip_39_word_dash_12 | river-pattern-rack-devote-worry-misery-chief-trophy-roast-bitter-one-animal |  
+| bip_39_word_dash_2 | river-pattern |  
+| bip_39_word_dash_3 | river-pattern-rack |  
+| bip_39_word_dash_4 | river-pattern-rack-devote |  
+| bip_39_word_dash_5 | river-pattern-rack-devote-worry |  
+| bip_39_word_dash_6 | river-pattern-rack-devote-worry-misery |  
+| bip_39_word_dash_7 | river-pattern-rack-devote-worry-misery-chief |  
+| bip_39_word_dash_8 | river-pattern-rack-devote-worry-misery-chief-trophy |  
+| bip_39_word_dash_9 | river-pattern-rack-devote-worry-misery-chief-trophy-roast |  
 | bip_39_word_new_br_1 | river |  
 | bip_39_word_new_br_10 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy<br>roast<br>bitter |  
 | bip_39_word_new_br_11 | river<br>pattern<br>rack<br>devote<br>worry<br>misery<br>chief<br>trophy<br>roast<br>bitter<br>one |  
@@ -147,6 +159,18 @@ roast |
 | bip_39_word_space_7 | river pattern rack devote worry misery chief |  
 | bip_39_word_space_8 | river pattern rack devote worry misery chief trophy |  
 | bip_39_word_space_9 | river pattern rack devote worry misery chief trophy roast |  
+| bip_39_word_underscore_1 | river |  
+| bip_39_word_underscore_10 | river_pattern_rack_devote_worry_misery_chief_trophy_roast_bitter |  
+| bip_39_word_underscore_11 | river_pattern_rack_devote_worry_misery_chief_trophy_roast_bitter_one |  
+| bip_39_word_underscore_12 | river_pattern_rack_devote_worry_misery_chief_trophy_roast_bitter_one_animal |  
+| bip_39_word_underscore_2 | river_pattern |  
+| bip_39_word_underscore_3 | river_pattern_rack |  
+| bip_39_word_underscore_4 | river_pattern_rack_devote |  
+| bip_39_word_underscore_5 | river_pattern_rack_devote_worry |  
+| bip_39_word_underscore_6 | river_pattern_rack_devote_worry_misery |  
+| bip_39_word_underscore_7 | river_pattern_rack_devote_worry_misery_chief |  
+| bip_39_word_underscore_8 | river_pattern_rack_devote_worry_misery_chief_trophy |  
+| bip_39_word_underscore_9 | river_pattern_rack_devote_worry_misery_chief_trophy_roast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

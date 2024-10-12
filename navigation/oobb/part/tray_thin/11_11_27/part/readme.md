@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | behind |  
+| bip_39_word_dash_10 | behind-token-battle-toilet-hello-enrich-soft-pass-hope-say |  
+| bip_39_word_dash_11 | behind-token-battle-toilet-hello-enrich-soft-pass-hope-say-clarify |  
+| bip_39_word_dash_12 | behind-token-battle-toilet-hello-enrich-soft-pass-hope-say-clarify-art |  
+| bip_39_word_dash_2 | behind-token |  
+| bip_39_word_dash_3 | behind-token-battle |  
+| bip_39_word_dash_4 | behind-token-battle-toilet |  
+| bip_39_word_dash_5 | behind-token-battle-toilet-hello |  
+| bip_39_word_dash_6 | behind-token-battle-toilet-hello-enrich |  
+| bip_39_word_dash_7 | behind-token-battle-toilet-hello-enrich-soft |  
+| bip_39_word_dash_8 | behind-token-battle-toilet-hello-enrich-soft-pass |  
+| bip_39_word_dash_9 | behind-token-battle-toilet-hello-enrich-soft-pass-hope |  
 | bip_39_word_new_br_1 | behind |  
 | bip_39_word_new_br_10 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say |  
 | bip_39_word_new_br_11 | behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say<br>clarify |  
@@ -147,6 +159,18 @@ hope |
 | bip_39_word_space_7 | behind token battle toilet hello enrich soft |  
 | bip_39_word_space_8 | behind token battle toilet hello enrich soft pass |  
 | bip_39_word_space_9 | behind token battle toilet hello enrich soft pass hope |  
+| bip_39_word_underscore_1 | behind |  
+| bip_39_word_underscore_10 | behind_token_battle_toilet_hello_enrich_soft_pass_hope_say |  
+| bip_39_word_underscore_11 | behind_token_battle_toilet_hello_enrich_soft_pass_hope_say_clarify |  
+| bip_39_word_underscore_12 | behind_token_battle_toilet_hello_enrich_soft_pass_hope_say_clarify_art |  
+| bip_39_word_underscore_2 | behind_token |  
+| bip_39_word_underscore_3 | behind_token_battle |  
+| bip_39_word_underscore_4 | behind_token_battle_toilet |  
+| bip_39_word_underscore_5 | behind_token_battle_toilet_hello |  
+| bip_39_word_underscore_6 | behind_token_battle_toilet_hello_enrich |  
+| bip_39_word_underscore_7 | behind_token_battle_toilet_hello_enrich_soft |  
+| bip_39_word_underscore_8 | behind_token_battle_toilet_hello_enrich_soft_pass |  
+| bip_39_word_underscore_9 | behind_token_battle_toilet_hello_enrich_soft_pass_hope |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

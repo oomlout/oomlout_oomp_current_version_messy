@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | december |  
+| bip_39_word_dash_10 | december-hidden-spoil-recipe-mimic-essence-purse-feed-helmet-balcony |  
+| bip_39_word_dash_11 | december-hidden-spoil-recipe-mimic-essence-purse-feed-helmet-balcony-balance |  
+| bip_39_word_dash_12 | december-hidden-spoil-recipe-mimic-essence-purse-feed-helmet-balcony-balance-aspect |  
+| bip_39_word_dash_2 | december-hidden |  
+| bip_39_word_dash_3 | december-hidden-spoil |  
+| bip_39_word_dash_4 | december-hidden-spoil-recipe |  
+| bip_39_word_dash_5 | december-hidden-spoil-recipe-mimic |  
+| bip_39_word_dash_6 | december-hidden-spoil-recipe-mimic-essence |  
+| bip_39_word_dash_7 | december-hidden-spoil-recipe-mimic-essence-purse |  
+| bip_39_word_dash_8 | december-hidden-spoil-recipe-mimic-essence-purse-feed |  
+| bip_39_word_dash_9 | december-hidden-spoil-recipe-mimic-essence-purse-feed-helmet |  
 | bip_39_word_new_br_1 | december |  
 | bip_39_word_new_br_10 | december<br>hidden<br>spoil<br>recipe<br>mimic<br>essence<br>purse<br>feed<br>helmet<br>balcony |  
 | bip_39_word_new_br_11 | december<br>hidden<br>spoil<br>recipe<br>mimic<br>essence<br>purse<br>feed<br>helmet<br>balcony<br>balance |  
@@ -147,6 +159,18 @@ helmet |
 | bip_39_word_space_7 | december hidden spoil recipe mimic essence purse |  
 | bip_39_word_space_8 | december hidden spoil recipe mimic essence purse feed |  
 | bip_39_word_space_9 | december hidden spoil recipe mimic essence purse feed helmet |  
+| bip_39_word_underscore_1 | december |  
+| bip_39_word_underscore_10 | december_hidden_spoil_recipe_mimic_essence_purse_feed_helmet_balcony |  
+| bip_39_word_underscore_11 | december_hidden_spoil_recipe_mimic_essence_purse_feed_helmet_balcony_balance |  
+| bip_39_word_underscore_12 | december_hidden_spoil_recipe_mimic_essence_purse_feed_helmet_balcony_balance_aspect |  
+| bip_39_word_underscore_2 | december_hidden |  
+| bip_39_word_underscore_3 | december_hidden_spoil |  
+| bip_39_word_underscore_4 | december_hidden_spoil_recipe |  
+| bip_39_word_underscore_5 | december_hidden_spoil_recipe_mimic |  
+| bip_39_word_underscore_6 | december_hidden_spoil_recipe_mimic_essence |  
+| bip_39_word_underscore_7 | december_hidden_spoil_recipe_mimic_essence_purse |  
+| bip_39_word_underscore_8 | december_hidden_spoil_recipe_mimic_essence_purse_feed |  
+| bip_39_word_underscore_9 | december_hidden_spoil_recipe_mimic_essence_purse_feed_helmet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

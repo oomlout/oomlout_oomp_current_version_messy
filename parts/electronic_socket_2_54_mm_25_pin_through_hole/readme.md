@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | farm |  
+| bip_39_word_dash_10 | farm-cotton-giggle-liar-hedgehog-jump-clown-shoulder-text-tuition |  
+| bip_39_word_dash_11 | farm-cotton-giggle-liar-hedgehog-jump-clown-shoulder-text-tuition-visual |  
+| bip_39_word_dash_12 | farm-cotton-giggle-liar-hedgehog-jump-clown-shoulder-text-tuition-visual-airport |  
+| bip_39_word_dash_2 | farm-cotton |  
+| bip_39_word_dash_3 | farm-cotton-giggle |  
+| bip_39_word_dash_4 | farm-cotton-giggle-liar |  
+| bip_39_word_dash_5 | farm-cotton-giggle-liar-hedgehog |  
+| bip_39_word_dash_6 | farm-cotton-giggle-liar-hedgehog-jump |  
+| bip_39_word_dash_7 | farm-cotton-giggle-liar-hedgehog-jump-clown |  
+| bip_39_word_dash_8 | farm-cotton-giggle-liar-hedgehog-jump-clown-shoulder |  
+| bip_39_word_dash_9 | farm-cotton-giggle-liar-hedgehog-jump-clown-shoulder-text |  
 | bip_39_word_new_br_1 | farm |  
 | bip_39_word_new_br_10 | farm<br>cotton<br>giggle<br>liar<br>hedgehog<br>jump<br>clown<br>shoulder<br>text<br>tuition |  
 | bip_39_word_new_br_11 | farm<br>cotton<br>giggle<br>liar<br>hedgehog<br>jump<br>clown<br>shoulder<br>text<br>tuition<br>visual |  
@@ -147,6 +159,18 @@ text |
 | bip_39_word_space_7 | farm cotton giggle liar hedgehog jump clown |  
 | bip_39_word_space_8 | farm cotton giggle liar hedgehog jump clown shoulder |  
 | bip_39_word_space_9 | farm cotton giggle liar hedgehog jump clown shoulder text |  
+| bip_39_word_underscore_1 | farm |  
+| bip_39_word_underscore_10 | farm_cotton_giggle_liar_hedgehog_jump_clown_shoulder_text_tuition |  
+| bip_39_word_underscore_11 | farm_cotton_giggle_liar_hedgehog_jump_clown_shoulder_text_tuition_visual |  
+| bip_39_word_underscore_12 | farm_cotton_giggle_liar_hedgehog_jump_clown_shoulder_text_tuition_visual_airport |  
+| bip_39_word_underscore_2 | farm_cotton |  
+| bip_39_word_underscore_3 | farm_cotton_giggle |  
+| bip_39_word_underscore_4 | farm_cotton_giggle_liar |  
+| bip_39_word_underscore_5 | farm_cotton_giggle_liar_hedgehog |  
+| bip_39_word_underscore_6 | farm_cotton_giggle_liar_hedgehog_jump |  
+| bip_39_word_underscore_7 | farm_cotton_giggle_liar_hedgehog_jump_clown |  
+| bip_39_word_underscore_8 | farm_cotton_giggle_liar_hedgehog_jump_clown_shoulder |  
+| bip_39_word_underscore_9 | farm_cotton_giggle_liar_hedgehog_jump_clown_shoulder_text |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

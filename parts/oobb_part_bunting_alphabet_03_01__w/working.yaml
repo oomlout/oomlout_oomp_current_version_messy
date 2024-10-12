@@ -1,3 +1,15 @@
+bip_39_word_dash_1: video
+bip_39_word_dash_10: video-brother-dizzy-right-bird-balcony-twenty-text-sugar-impulse
+bip_39_word_dash_11: video-brother-dizzy-right-bird-balcony-twenty-text-sugar-impulse-major
+bip_39_word_dash_12: video-brother-dizzy-right-bird-balcony-twenty-text-sugar-impulse-major-author
+bip_39_word_dash_2: video-brother
+bip_39_word_dash_3: video-brother-dizzy
+bip_39_word_dash_4: video-brother-dizzy-right
+bip_39_word_dash_5: video-brother-dizzy-right-bird
+bip_39_word_dash_6: video-brother-dizzy-right-bird-balcony
+bip_39_word_dash_7: video-brother-dizzy-right-bird-balcony-twenty
+bip_39_word_dash_8: video-brother-dizzy-right-bird-balcony-twenty-text
+bip_39_word_dash_9: video-brother-dizzy-right-bird-balcony-twenty-text-sugar
 bip_39_word_new_br_1: video
 bip_39_word_new_br_10: video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text<br>sugar<br>impulse
 bip_39_word_new_br_11: video<br>brother<br>dizzy<br>right<br>bird<br>balcony<br>twenty<br>text<br>sugar<br>impulse<br>major
@@ -193,6 +205,18 @@ bip_39_word_space_6: video brother dizzy right bird balcony
 bip_39_word_space_7: video brother dizzy right bird balcony twenty
 bip_39_word_space_8: video brother dizzy right bird balcony twenty text
 bip_39_word_space_9: video brother dizzy right bird balcony twenty text sugar
+bip_39_word_underscore_1: video
+bip_39_word_underscore_10: video_brother_dizzy_right_bird_balcony_twenty_text_sugar_impulse
+bip_39_word_underscore_11: video_brother_dizzy_right_bird_balcony_twenty_text_sugar_impulse_major
+bip_39_word_underscore_12: video_brother_dizzy_right_bird_balcony_twenty_text_sugar_impulse_major_author
+bip_39_word_underscore_2: video_brother
+bip_39_word_underscore_3: video_brother_dizzy
+bip_39_word_underscore_4: video_brother_dizzy_right
+bip_39_word_underscore_5: video_brother_dizzy_right_bird
+bip_39_word_underscore_6: video_brother_dizzy_right_bird_balcony
+bip_39_word_underscore_7: video_brother_dizzy_right_bird_balcony_twenty
+bip_39_word_underscore_8: video_brother_dizzy_right_bird_balcony_twenty_text
+bip_39_word_underscore_9: video_brother_dizzy_right_bird_balcony_twenty_text_sugar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | artist |  
+| bip_39_word_dash_10 | artist-tooth-six-ice-blur-express-display-multiply-tunnel-canvas |  
+| bip_39_word_dash_11 | artist-tooth-six-ice-blur-express-display-multiply-tunnel-canvas-fox |  
+| bip_39_word_dash_12 | artist-tooth-six-ice-blur-express-display-multiply-tunnel-canvas-fox-add |  
+| bip_39_word_dash_2 | artist-tooth |  
+| bip_39_word_dash_3 | artist-tooth-six |  
+| bip_39_word_dash_4 | artist-tooth-six-ice |  
+| bip_39_word_dash_5 | artist-tooth-six-ice-blur |  
+| bip_39_word_dash_6 | artist-tooth-six-ice-blur-express |  
+| bip_39_word_dash_7 | artist-tooth-six-ice-blur-express-display |  
+| bip_39_word_dash_8 | artist-tooth-six-ice-blur-express-display-multiply |  
+| bip_39_word_dash_9 | artist-tooth-six-ice-blur-express-display-multiply-tunnel |  
 | bip_39_word_new_br_1 | artist |  
 | bip_39_word_new_br_10 | artist<br>tooth<br>six<br>ice<br>blur<br>express<br>display<br>multiply<br>tunnel<br>canvas |  
 | bip_39_word_new_br_11 | artist<br>tooth<br>six<br>ice<br>blur<br>express<br>display<br>multiply<br>tunnel<br>canvas<br>fox |  
@@ -147,6 +159,18 @@ tunnel |
 | bip_39_word_space_7 | artist tooth six ice blur express display |  
 | bip_39_word_space_8 | artist tooth six ice blur express display multiply |  
 | bip_39_word_space_9 | artist tooth six ice blur express display multiply tunnel |  
+| bip_39_word_underscore_1 | artist |  
+| bip_39_word_underscore_10 | artist_tooth_six_ice_blur_express_display_multiply_tunnel_canvas |  
+| bip_39_word_underscore_11 | artist_tooth_six_ice_blur_express_display_multiply_tunnel_canvas_fox |  
+| bip_39_word_underscore_12 | artist_tooth_six_ice_blur_express_display_multiply_tunnel_canvas_fox_add |  
+| bip_39_word_underscore_2 | artist_tooth |  
+| bip_39_word_underscore_3 | artist_tooth_six |  
+| bip_39_word_underscore_4 | artist_tooth_six_ice |  
+| bip_39_word_underscore_5 | artist_tooth_six_ice_blur |  
+| bip_39_word_underscore_6 | artist_tooth_six_ice_blur_express |  
+| bip_39_word_underscore_7 | artist_tooth_six_ice_blur_express_display |  
+| bip_39_word_underscore_8 | artist_tooth_six_ice_blur_express_display_multiply |  
+| bip_39_word_underscore_9 | artist_tooth_six_ice_blur_express_display_multiply_tunnel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vocal
+bip_39_word_dash_10: vocal-ginger-goat-civil-mechanic-burger-stone-black-mercy-slender
+bip_39_word_dash_11: vocal-ginger-goat-civil-mechanic-burger-stone-black-mercy-slender-ring
+bip_39_word_dash_12: vocal-ginger-goat-civil-mechanic-burger-stone-black-mercy-slender-ring-alter
+bip_39_word_dash_2: vocal-ginger
+bip_39_word_dash_3: vocal-ginger-goat
+bip_39_word_dash_4: vocal-ginger-goat-civil
+bip_39_word_dash_5: vocal-ginger-goat-civil-mechanic
+bip_39_word_dash_6: vocal-ginger-goat-civil-mechanic-burger
+bip_39_word_dash_7: vocal-ginger-goat-civil-mechanic-burger-stone
+bip_39_word_dash_8: vocal-ginger-goat-civil-mechanic-burger-stone-black
+bip_39_word_dash_9: vocal-ginger-goat-civil-mechanic-burger-stone-black-mercy
 bip_39_word_new_br_1: vocal
 bip_39_word_new_br_10: vocal<br>ginger<br>goat<br>civil<br>mechanic<br>burger<br>stone<br>black<br>mercy<br>slender
 bip_39_word_new_br_11: vocal<br>ginger<br>goat<br>civil<br>mechanic<br>burger<br>stone<br>black<br>mercy<br>slender<br>ring
@@ -193,6 +205,18 @@ bip_39_word_space_6: vocal ginger goat civil mechanic burger
 bip_39_word_space_7: vocal ginger goat civil mechanic burger stone
 bip_39_word_space_8: vocal ginger goat civil mechanic burger stone black
 bip_39_word_space_9: vocal ginger goat civil mechanic burger stone black mercy
+bip_39_word_underscore_1: vocal
+bip_39_word_underscore_10: vocal_ginger_goat_civil_mechanic_burger_stone_black_mercy_slender
+bip_39_word_underscore_11: vocal_ginger_goat_civil_mechanic_burger_stone_black_mercy_slender_ring
+bip_39_word_underscore_12: vocal_ginger_goat_civil_mechanic_burger_stone_black_mercy_slender_ring_alter
+bip_39_word_underscore_2: vocal_ginger
+bip_39_word_underscore_3: vocal_ginger_goat
+bip_39_word_underscore_4: vocal_ginger_goat_civil
+bip_39_word_underscore_5: vocal_ginger_goat_civil_mechanic
+bip_39_word_underscore_6: vocal_ginger_goat_civil_mechanic_burger
+bip_39_word_underscore_7: vocal_ginger_goat_civil_mechanic_burger_stone
+bip_39_word_underscore_8: vocal_ginger_goat_civil_mechanic_burger_stone_black
+bip_39_word_underscore_9: vocal_ginger_goat_civil_mechanic_burger_stone_black_mercy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

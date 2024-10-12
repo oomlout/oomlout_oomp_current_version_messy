@@ -1,3 +1,15 @@
+bip_39_word_dash_1: idea
+bip_39_word_dash_10: idea-veteran-pond-fog-long-empower-buyer-speak-addict-impact
+bip_39_word_dash_11: idea-veteran-pond-fog-long-empower-buyer-speak-addict-impact-lab
+bip_39_word_dash_12: idea-veteran-pond-fog-long-empower-buyer-speak-addict-impact-lab-amused
+bip_39_word_dash_2: idea-veteran
+bip_39_word_dash_3: idea-veteran-pond
+bip_39_word_dash_4: idea-veteran-pond-fog
+bip_39_word_dash_5: idea-veteran-pond-fog-long
+bip_39_word_dash_6: idea-veteran-pond-fog-long-empower
+bip_39_word_dash_7: idea-veteran-pond-fog-long-empower-buyer
+bip_39_word_dash_8: idea-veteran-pond-fog-long-empower-buyer-speak
+bip_39_word_dash_9: idea-veteran-pond-fog-long-empower-buyer-speak-addict
 bip_39_word_new_br_1: idea
 bip_39_word_new_br_10: idea<br>veteran<br>pond<br>fog<br>long<br>empower<br>buyer<br>speak<br>addict<br>impact
 bip_39_word_new_br_11: idea<br>veteran<br>pond<br>fog<br>long<br>empower<br>buyer<br>speak<br>addict<br>impact<br>lab
@@ -193,6 +205,18 @@ bip_39_word_space_6: idea veteran pond fog long empower
 bip_39_word_space_7: idea veteran pond fog long empower buyer
 bip_39_word_space_8: idea veteran pond fog long empower buyer speak
 bip_39_word_space_9: idea veteran pond fog long empower buyer speak addict
+bip_39_word_underscore_1: idea
+bip_39_word_underscore_10: idea_veteran_pond_fog_long_empower_buyer_speak_addict_impact
+bip_39_word_underscore_11: idea_veteran_pond_fog_long_empower_buyer_speak_addict_impact_lab
+bip_39_word_underscore_12: idea_veteran_pond_fog_long_empower_buyer_speak_addict_impact_lab_amused
+bip_39_word_underscore_2: idea_veteran
+bip_39_word_underscore_3: idea_veteran_pond
+bip_39_word_underscore_4: idea_veteran_pond_fog
+bip_39_word_underscore_5: idea_veteran_pond_fog_long
+bip_39_word_underscore_6: idea_veteran_pond_fog_long_empower
+bip_39_word_underscore_7: idea_veteran_pond_fog_long_empower_buyer
+bip_39_word_underscore_8: idea_veteran_pond_fog_long_empower_buyer_speak
+bip_39_word_underscore_9: idea_veteran_pond_fog_long_empower_buyer_speak_addict
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

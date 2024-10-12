@@ -1,3 +1,15 @@
+bip_39_word_dash_1: boat
+bip_39_word_dash_10: boat-found-modify-skull-abandon-drastic-honey-unusual-bundle-drip
+bip_39_word_dash_11: boat-found-modify-skull-abandon-drastic-honey-unusual-bundle-drip-firm
+bip_39_word_dash_12: boat-found-modify-skull-abandon-drastic-honey-unusual-bundle-drip-firm-alcohol
+bip_39_word_dash_2: boat-found
+bip_39_word_dash_3: boat-found-modify
+bip_39_word_dash_4: boat-found-modify-skull
+bip_39_word_dash_5: boat-found-modify-skull-abandon
+bip_39_word_dash_6: boat-found-modify-skull-abandon-drastic
+bip_39_word_dash_7: boat-found-modify-skull-abandon-drastic-honey
+bip_39_word_dash_8: boat-found-modify-skull-abandon-drastic-honey-unusual
+bip_39_word_dash_9: boat-found-modify-skull-abandon-drastic-honey-unusual-bundle
 bip_39_word_new_br_1: boat
 bip_39_word_new_br_10: boat<br>found<br>modify<br>skull<br>abandon<br>drastic<br>honey<br>unusual<br>bundle<br>drip
 bip_39_word_new_br_11: boat<br>found<br>modify<br>skull<br>abandon<br>drastic<br>honey<br>unusual<br>bundle<br>drip<br>firm
@@ -194,6 +206,18 @@ bip_39_word_space_6: boat found modify skull abandon drastic
 bip_39_word_space_7: boat found modify skull abandon drastic honey
 bip_39_word_space_8: boat found modify skull abandon drastic honey unusual
 bip_39_word_space_9: boat found modify skull abandon drastic honey unusual bundle
+bip_39_word_underscore_1: boat
+bip_39_word_underscore_10: boat_found_modify_skull_abandon_drastic_honey_unusual_bundle_drip
+bip_39_word_underscore_11: boat_found_modify_skull_abandon_drastic_honey_unusual_bundle_drip_firm
+bip_39_word_underscore_12: boat_found_modify_skull_abandon_drastic_honey_unusual_bundle_drip_firm_alcohol
+bip_39_word_underscore_2: boat_found
+bip_39_word_underscore_3: boat_found_modify
+bip_39_word_underscore_4: boat_found_modify_skull
+bip_39_word_underscore_5: boat_found_modify_skull_abandon
+bip_39_word_underscore_6: boat_found_modify_skull_abandon_drastic
+bip_39_word_underscore_7: boat_found_modify_skull_abandon_drastic_honey
+bip_39_word_underscore_8: boat_found_modify_skull_abandon_drastic_honey_unusual
+bip_39_word_underscore_9: boat_found_modify_skull_abandon_drastic_honey_unusual_bundle
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | onion |  
+| bip_39_word_dash_10 | onion-multiply-session-render-mystery-divide-sand-joke-mosquito-rose |  
+| bip_39_word_dash_11 | onion-multiply-session-render-mystery-divide-sand-joke-mosquito-rose-moment |  
+| bip_39_word_dash_12 | onion-multiply-session-render-mystery-divide-sand-joke-mosquito-rose-moment-arena |  
+| bip_39_word_dash_2 | onion-multiply |  
+| bip_39_word_dash_3 | onion-multiply-session |  
+| bip_39_word_dash_4 | onion-multiply-session-render |  
+| bip_39_word_dash_5 | onion-multiply-session-render-mystery |  
+| bip_39_word_dash_6 | onion-multiply-session-render-mystery-divide |  
+| bip_39_word_dash_7 | onion-multiply-session-render-mystery-divide-sand |  
+| bip_39_word_dash_8 | onion-multiply-session-render-mystery-divide-sand-joke |  
+| bip_39_word_dash_9 | onion-multiply-session-render-mystery-divide-sand-joke-mosquito |  
 | bip_39_word_new_br_1 | onion |  
 | bip_39_word_new_br_10 | onion<br>multiply<br>session<br>render<br>mystery<br>divide<br>sand<br>joke<br>mosquito<br>rose |  
 | bip_39_word_new_br_11 | onion<br>multiply<br>session<br>render<br>mystery<br>divide<br>sand<br>joke<br>mosquito<br>rose<br>moment |  
@@ -147,6 +159,18 @@ mosquito |
 | bip_39_word_space_7 | onion multiply session render mystery divide sand |  
 | bip_39_word_space_8 | onion multiply session render mystery divide sand joke |  
 | bip_39_word_space_9 | onion multiply session render mystery divide sand joke mosquito |  
+| bip_39_word_underscore_1 | onion |  
+| bip_39_word_underscore_10 | onion_multiply_session_render_mystery_divide_sand_joke_mosquito_rose |  
+| bip_39_word_underscore_11 | onion_multiply_session_render_mystery_divide_sand_joke_mosquito_rose_moment |  
+| bip_39_word_underscore_12 | onion_multiply_session_render_mystery_divide_sand_joke_mosquito_rose_moment_arena |  
+| bip_39_word_underscore_2 | onion_multiply |  
+| bip_39_word_underscore_3 | onion_multiply_session |  
+| bip_39_word_underscore_4 | onion_multiply_session_render |  
+| bip_39_word_underscore_5 | onion_multiply_session_render_mystery |  
+| bip_39_word_underscore_6 | onion_multiply_session_render_mystery_divide |  
+| bip_39_word_underscore_7 | onion_multiply_session_render_mystery_divide_sand |  
+| bip_39_word_underscore_8 | onion_multiply_session_render_mystery_divide_sand_joke |  
+| bip_39_word_underscore_9 | onion_multiply_session_render_mystery_divide_sand_joke_mosquito |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

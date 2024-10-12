@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pioneer |  
+| bip_39_word_dash_10 | pioneer-top-circle-nest-text-pig-illegal-animal-patch-hat |  
+| bip_39_word_dash_11 | pioneer-top-circle-nest-text-pig-illegal-animal-patch-hat-choice |  
+| bip_39_word_dash_12 | pioneer-top-circle-nest-text-pig-illegal-animal-patch-hat-choice-abuse |  
+| bip_39_word_dash_2 | pioneer-top |  
+| bip_39_word_dash_3 | pioneer-top-circle |  
+| bip_39_word_dash_4 | pioneer-top-circle-nest |  
+| bip_39_word_dash_5 | pioneer-top-circle-nest-text |  
+| bip_39_word_dash_6 | pioneer-top-circle-nest-text-pig |  
+| bip_39_word_dash_7 | pioneer-top-circle-nest-text-pig-illegal |  
+| bip_39_word_dash_8 | pioneer-top-circle-nest-text-pig-illegal-animal |  
+| bip_39_word_dash_9 | pioneer-top-circle-nest-text-pig-illegal-animal-patch |  
 | bip_39_word_new_br_1 | pioneer |  
 | bip_39_word_new_br_10 | pioneer<br>top<br>circle<br>nest<br>text<br>pig<br>illegal<br>animal<br>patch<br>hat |  
 | bip_39_word_new_br_11 | pioneer<br>top<br>circle<br>nest<br>text<br>pig<br>illegal<br>animal<br>patch<br>hat<br>choice |  
@@ -147,6 +159,18 @@ patch |
 | bip_39_word_space_7 | pioneer top circle nest text pig illegal |  
 | bip_39_word_space_8 | pioneer top circle nest text pig illegal animal |  
 | bip_39_word_space_9 | pioneer top circle nest text pig illegal animal patch |  
+| bip_39_word_underscore_1 | pioneer |  
+| bip_39_word_underscore_10 | pioneer_top_circle_nest_text_pig_illegal_animal_patch_hat |  
+| bip_39_word_underscore_11 | pioneer_top_circle_nest_text_pig_illegal_animal_patch_hat_choice |  
+| bip_39_word_underscore_12 | pioneer_top_circle_nest_text_pig_illegal_animal_patch_hat_choice_abuse |  
+| bip_39_word_underscore_2 | pioneer_top |  
+| bip_39_word_underscore_3 | pioneer_top_circle |  
+| bip_39_word_underscore_4 | pioneer_top_circle_nest |  
+| bip_39_word_underscore_5 | pioneer_top_circle_nest_text |  
+| bip_39_word_underscore_6 | pioneer_top_circle_nest_text_pig |  
+| bip_39_word_underscore_7 | pioneer_top_circle_nest_text_pig_illegal |  
+| bip_39_word_underscore_8 | pioneer_top_circle_nest_text_pig_illegal_animal |  
+| bip_39_word_underscore_9 | pioneer_top_circle_nest_text_pig_illegal_animal_patch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | omit |  
+| bip_39_word_dash_10 | omit-pride-novel-panel-bottom-glare-basic-large-science-drastic |  
+| bip_39_word_dash_11 | omit-pride-novel-panel-bottom-glare-basic-large-science-drastic-betray |  
+| bip_39_word_dash_12 | omit-pride-novel-panel-bottom-glare-basic-large-science-drastic-betray-antenna |  
+| bip_39_word_dash_2 | omit-pride |  
+| bip_39_word_dash_3 | omit-pride-novel |  
+| bip_39_word_dash_4 | omit-pride-novel-panel |  
+| bip_39_word_dash_5 | omit-pride-novel-panel-bottom |  
+| bip_39_word_dash_6 | omit-pride-novel-panel-bottom-glare |  
+| bip_39_word_dash_7 | omit-pride-novel-panel-bottom-glare-basic |  
+| bip_39_word_dash_8 | omit-pride-novel-panel-bottom-glare-basic-large |  
+| bip_39_word_dash_9 | omit-pride-novel-panel-bottom-glare-basic-large-science |  
 | bip_39_word_new_br_1 | omit |  
 | bip_39_word_new_br_10 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic |  
 | bip_39_word_new_br_11 | omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic<br>betray |  
@@ -147,6 +159,18 @@ science |
 | bip_39_word_space_7 | omit pride novel panel bottom glare basic |  
 | bip_39_word_space_8 | omit pride novel panel bottom glare basic large |  
 | bip_39_word_space_9 | omit pride novel panel bottom glare basic large science |  
+| bip_39_word_underscore_1 | omit |  
+| bip_39_word_underscore_10 | omit_pride_novel_panel_bottom_glare_basic_large_science_drastic |  
+| bip_39_word_underscore_11 | omit_pride_novel_panel_bottom_glare_basic_large_science_drastic_betray |  
+| bip_39_word_underscore_12 | omit_pride_novel_panel_bottom_glare_basic_large_science_drastic_betray_antenna |  
+| bip_39_word_underscore_2 | omit_pride |  
+| bip_39_word_underscore_3 | omit_pride_novel |  
+| bip_39_word_underscore_4 | omit_pride_novel_panel |  
+| bip_39_word_underscore_5 | omit_pride_novel_panel_bottom |  
+| bip_39_word_underscore_6 | omit_pride_novel_panel_bottom_glare |  
+| bip_39_word_underscore_7 | omit_pride_novel_panel_bottom_glare_basic |  
+| bip_39_word_underscore_8 | omit_pride_novel_panel_bottom_glare_basic_large |  
+| bip_39_word_underscore_9 | omit_pride_novel_panel_bottom_glare_basic_large_science |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

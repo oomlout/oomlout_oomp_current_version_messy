@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lizard |  
+| bip_39_word_dash_10 | lizard-yard-off-coconut-correct-apart-hollow-midnight-cattle-reopen |  
+| bip_39_word_dash_11 | lizard-yard-off-coconut-correct-apart-hollow-midnight-cattle-reopen-student |  
+| bip_39_word_dash_12 | lizard-yard-off-coconut-correct-apart-hollow-midnight-cattle-reopen-student-affair |  
+| bip_39_word_dash_2 | lizard-yard |  
+| bip_39_word_dash_3 | lizard-yard-off |  
+| bip_39_word_dash_4 | lizard-yard-off-coconut |  
+| bip_39_word_dash_5 | lizard-yard-off-coconut-correct |  
+| bip_39_word_dash_6 | lizard-yard-off-coconut-correct-apart |  
+| bip_39_word_dash_7 | lizard-yard-off-coconut-correct-apart-hollow |  
+| bip_39_word_dash_8 | lizard-yard-off-coconut-correct-apart-hollow-midnight |  
+| bip_39_word_dash_9 | lizard-yard-off-coconut-correct-apart-hollow-midnight-cattle |  
 | bip_39_word_new_br_1 | lizard |  
 | bip_39_word_new_br_10 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen |  
 | bip_39_word_new_br_11 | lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen<br>student |  
@@ -147,6 +159,18 @@ cattle |
 | bip_39_word_space_7 | lizard yard off coconut correct apart hollow |  
 | bip_39_word_space_8 | lizard yard off coconut correct apart hollow midnight |  
 | bip_39_word_space_9 | lizard yard off coconut correct apart hollow midnight cattle |  
+| bip_39_word_underscore_1 | lizard |  
+| bip_39_word_underscore_10 | lizard_yard_off_coconut_correct_apart_hollow_midnight_cattle_reopen |  
+| bip_39_word_underscore_11 | lizard_yard_off_coconut_correct_apart_hollow_midnight_cattle_reopen_student |  
+| bip_39_word_underscore_12 | lizard_yard_off_coconut_correct_apart_hollow_midnight_cattle_reopen_student_affair |  
+| bip_39_word_underscore_2 | lizard_yard |  
+| bip_39_word_underscore_3 | lizard_yard_off |  
+| bip_39_word_underscore_4 | lizard_yard_off_coconut |  
+| bip_39_word_underscore_5 | lizard_yard_off_coconut_correct |  
+| bip_39_word_underscore_6 | lizard_yard_off_coconut_correct_apart |  
+| bip_39_word_underscore_7 | lizard_yard_off_coconut_correct_apart_hollow |  
+| bip_39_word_underscore_8 | lizard_yard_off_coconut_correct_apart_hollow_midnight |  
+| bip_39_word_underscore_9 | lizard_yard_off_coconut_correct_apart_hollow_midnight_cattle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

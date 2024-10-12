@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | olive |  
+| bip_39_word_dash_10 | olive-nuclear-riot-build-crane-canoe-question-abandon-accuse-fee |  
+| bip_39_word_dash_11 | olive-nuclear-riot-build-crane-canoe-question-abandon-accuse-fee-pledge |  
+| bip_39_word_dash_12 | olive-nuclear-riot-build-crane-canoe-question-abandon-accuse-fee-pledge-avocado |  
+| bip_39_word_dash_2 | olive-nuclear |  
+| bip_39_word_dash_3 | olive-nuclear-riot |  
+| bip_39_word_dash_4 | olive-nuclear-riot-build |  
+| bip_39_word_dash_5 | olive-nuclear-riot-build-crane |  
+| bip_39_word_dash_6 | olive-nuclear-riot-build-crane-canoe |  
+| bip_39_word_dash_7 | olive-nuclear-riot-build-crane-canoe-question |  
+| bip_39_word_dash_8 | olive-nuclear-riot-build-crane-canoe-question-abandon |  
+| bip_39_word_dash_9 | olive-nuclear-riot-build-crane-canoe-question-abandon-accuse |  
 | bip_39_word_new_br_1 | olive |  
 | bip_39_word_new_br_10 | olive<br>nuclear<br>riot<br>build<br>crane<br>canoe<br>question<br>abandon<br>accuse<br>fee |  
 | bip_39_word_new_br_11 | olive<br>nuclear<br>riot<br>build<br>crane<br>canoe<br>question<br>abandon<br>accuse<br>fee<br>pledge |  
@@ -147,6 +159,18 @@ accuse |
 | bip_39_word_space_7 | olive nuclear riot build crane canoe question |  
 | bip_39_word_space_8 | olive nuclear riot build crane canoe question abandon |  
 | bip_39_word_space_9 | olive nuclear riot build crane canoe question abandon accuse |  
+| bip_39_word_underscore_1 | olive |  
+| bip_39_word_underscore_10 | olive_nuclear_riot_build_crane_canoe_question_abandon_accuse_fee |  
+| bip_39_word_underscore_11 | olive_nuclear_riot_build_crane_canoe_question_abandon_accuse_fee_pledge |  
+| bip_39_word_underscore_12 | olive_nuclear_riot_build_crane_canoe_question_abandon_accuse_fee_pledge_avocado |  
+| bip_39_word_underscore_2 | olive_nuclear |  
+| bip_39_word_underscore_3 | olive_nuclear_riot |  
+| bip_39_word_underscore_4 | olive_nuclear_riot_build |  
+| bip_39_word_underscore_5 | olive_nuclear_riot_build_crane |  
+| bip_39_word_underscore_6 | olive_nuclear_riot_build_crane_canoe |  
+| bip_39_word_underscore_7 | olive_nuclear_riot_build_crane_canoe_question |  
+| bip_39_word_underscore_8 | olive_nuclear_riot_build_crane_canoe_question_abandon |  
+| bip_39_word_underscore_9 | olive_nuclear_riot_build_crane_canoe_question_abandon_accuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

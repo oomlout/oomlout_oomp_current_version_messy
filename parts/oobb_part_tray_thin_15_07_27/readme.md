@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | roof |  
+| bip_39_word_dash_10 | roof-traffic-theme-security-record-lady-primary-ocean-soap-shy |  
+| bip_39_word_dash_11 | roof-traffic-theme-security-record-lady-primary-ocean-soap-shy-young |  
+| bip_39_word_dash_12 | roof-traffic-theme-security-record-lady-primary-ocean-soap-shy-young-airport |  
+| bip_39_word_dash_2 | roof-traffic |  
+| bip_39_word_dash_3 | roof-traffic-theme |  
+| bip_39_word_dash_4 | roof-traffic-theme-security |  
+| bip_39_word_dash_5 | roof-traffic-theme-security-record |  
+| bip_39_word_dash_6 | roof-traffic-theme-security-record-lady |  
+| bip_39_word_dash_7 | roof-traffic-theme-security-record-lady-primary |  
+| bip_39_word_dash_8 | roof-traffic-theme-security-record-lady-primary-ocean |  
+| bip_39_word_dash_9 | roof-traffic-theme-security-record-lady-primary-ocean-soap |  
 | bip_39_word_new_br_1 | roof |  
 | bip_39_word_new_br_10 | roof<br>traffic<br>theme<br>security<br>record<br>lady<br>primary<br>ocean<br>soap<br>shy |  
 | bip_39_word_new_br_11 | roof<br>traffic<br>theme<br>security<br>record<br>lady<br>primary<br>ocean<br>soap<br>shy<br>young |  
@@ -147,6 +159,18 @@ soap |
 | bip_39_word_space_7 | roof traffic theme security record lady primary |  
 | bip_39_word_space_8 | roof traffic theme security record lady primary ocean |  
 | bip_39_word_space_9 | roof traffic theme security record lady primary ocean soap |  
+| bip_39_word_underscore_1 | roof |  
+| bip_39_word_underscore_10 | roof_traffic_theme_security_record_lady_primary_ocean_soap_shy |  
+| bip_39_word_underscore_11 | roof_traffic_theme_security_record_lady_primary_ocean_soap_shy_young |  
+| bip_39_word_underscore_12 | roof_traffic_theme_security_record_lady_primary_ocean_soap_shy_young_airport |  
+| bip_39_word_underscore_2 | roof_traffic |  
+| bip_39_word_underscore_3 | roof_traffic_theme |  
+| bip_39_word_underscore_4 | roof_traffic_theme_security |  
+| bip_39_word_underscore_5 | roof_traffic_theme_security_record |  
+| bip_39_word_underscore_6 | roof_traffic_theme_security_record_lady |  
+| bip_39_word_underscore_7 | roof_traffic_theme_security_record_lady_primary |  
+| bip_39_word_underscore_8 | roof_traffic_theme_security_record_lady_primary_ocean |  
+| bip_39_word_underscore_9 | roof_traffic_theme_security_record_lady_primary_ocean_soap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

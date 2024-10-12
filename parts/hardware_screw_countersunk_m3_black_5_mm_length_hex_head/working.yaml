@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cry
+bip_39_word_dash_10: cry-sugar-two-mango-random-foam-essence-recycle-test-repair
+bip_39_word_dash_11: cry-sugar-two-mango-random-foam-essence-recycle-test-repair-sea
+bip_39_word_dash_12: cry-sugar-two-mango-random-foam-essence-recycle-test-repair-sea-acid
+bip_39_word_dash_2: cry-sugar
+bip_39_word_dash_3: cry-sugar-two
+bip_39_word_dash_4: cry-sugar-two-mango
+bip_39_word_dash_5: cry-sugar-two-mango-random
+bip_39_word_dash_6: cry-sugar-two-mango-random-foam
+bip_39_word_dash_7: cry-sugar-two-mango-random-foam-essence
+bip_39_word_dash_8: cry-sugar-two-mango-random-foam-essence-recycle
+bip_39_word_dash_9: cry-sugar-two-mango-random-foam-essence-recycle-test
 bip_39_word_new_br_1: cry
 bip_39_word_new_br_10: cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle<br>test<br>repair
 bip_39_word_new_br_11: cry<br>sugar<br>two<br>mango<br>random<br>foam<br>essence<br>recycle<br>test<br>repair<br>sea
@@ -193,6 +205,18 @@ bip_39_word_space_6: cry sugar two mango random foam
 bip_39_word_space_7: cry sugar two mango random foam essence
 bip_39_word_space_8: cry sugar two mango random foam essence recycle
 bip_39_word_space_9: cry sugar two mango random foam essence recycle test
+bip_39_word_underscore_1: cry
+bip_39_word_underscore_10: cry_sugar_two_mango_random_foam_essence_recycle_test_repair
+bip_39_word_underscore_11: cry_sugar_two_mango_random_foam_essence_recycle_test_repair_sea
+bip_39_word_underscore_12: cry_sugar_two_mango_random_foam_essence_recycle_test_repair_sea_acid
+bip_39_word_underscore_2: cry_sugar
+bip_39_word_underscore_3: cry_sugar_two
+bip_39_word_underscore_4: cry_sugar_two_mango
+bip_39_word_underscore_5: cry_sugar_two_mango_random
+bip_39_word_underscore_6: cry_sugar_two_mango_random_foam
+bip_39_word_underscore_7: cry_sugar_two_mango_random_foam_essence
+bip_39_word_underscore_8: cry_sugar_two_mango_random_foam_essence_recycle
+bip_39_word_underscore_9: cry_sugar_two_mango_random_foam_essence_recycle_test
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

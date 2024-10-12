@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alone |  
+| bip_39_word_dash_10 | alone-novel-brisk-coin-actress-make-broom-rather-worry-exchange |  
+| bip_39_word_dash_11 | alone-novel-brisk-coin-actress-make-broom-rather-worry-exchange-require |  
+| bip_39_word_dash_2 | alone-novel |  
+| bip_39_word_dash_3 | alone-novel-brisk |  
+| bip_39_word_dash_4 | alone-novel-brisk-coin |  
+| bip_39_word_dash_5 | alone-novel-brisk-coin-actress |  
+| bip_39_word_dash_6 | alone-novel-brisk-coin-actress-make |  
+| bip_39_word_dash_7 | alone-novel-brisk-coin-actress-make-broom |  
+| bip_39_word_dash_8 | alone-novel-brisk-coin-actress-make-broom-rather |  
+| bip_39_word_dash_9 | alone-novel-brisk-coin-actress-make-broom-rather-worry |  
 | bip_39_word_new_br_1 | alone |  
 | bip_39_word_new_br_10 | alone<br>novel<br>brisk<br>coin<br>actress<br>make<br>broom<br>rather<br>worry<br>exchange |  
 | bip_39_word_new_br_11 | alone<br>novel<br>brisk<br>coin<br>actress<br>make<br>broom<br>rather<br>worry<br>exchange<br>require |  
@@ -132,6 +143,17 @@ worry |
 | bip_39_word_space_7 | alone novel brisk coin actress make broom |  
 | bip_39_word_space_8 | alone novel brisk coin actress make broom rather |  
 | bip_39_word_space_9 | alone novel brisk coin actress make broom rather worry |  
+| bip_39_word_underscore_1 | alone |  
+| bip_39_word_underscore_10 | alone_novel_brisk_coin_actress_make_broom_rather_worry_exchange |  
+| bip_39_word_underscore_11 | alone_novel_brisk_coin_actress_make_broom_rather_worry_exchange_require |  
+| bip_39_word_underscore_2 | alone_novel |  
+| bip_39_word_underscore_3 | alone_novel_brisk |  
+| bip_39_word_underscore_4 | alone_novel_brisk_coin |  
+| bip_39_word_underscore_5 | alone_novel_brisk_coin_actress |  
+| bip_39_word_underscore_6 | alone_novel_brisk_coin_actress_make |  
+| bip_39_word_underscore_7 | alone_novel_brisk_coin_actress_make_broom |  
+| bip_39_word_underscore_8 | alone_novel_brisk_coin_actress_make_broom_rather |  
+| bip_39_word_underscore_9 | alone_novel_brisk_coin_actress_make_broom_rather_worry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

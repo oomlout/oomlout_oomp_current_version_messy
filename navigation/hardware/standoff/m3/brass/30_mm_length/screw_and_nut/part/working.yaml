@@ -1,3 +1,15 @@
+bip_39_word_dash_1: february
+bip_39_word_dash_10: february-genius-belt-aisle-situate-enact-room-shadow-tobacco-orphan
+bip_39_word_dash_11: february-genius-belt-aisle-situate-enact-room-shadow-tobacco-orphan-slogan
+bip_39_word_dash_12: february-genius-belt-aisle-situate-enact-room-shadow-tobacco-orphan-slogan-ancient
+bip_39_word_dash_2: february-genius
+bip_39_word_dash_3: february-genius-belt
+bip_39_word_dash_4: february-genius-belt-aisle
+bip_39_word_dash_5: february-genius-belt-aisle-situate
+bip_39_word_dash_6: february-genius-belt-aisle-situate-enact
+bip_39_word_dash_7: february-genius-belt-aisle-situate-enact-room
+bip_39_word_dash_8: february-genius-belt-aisle-situate-enact-room-shadow
+bip_39_word_dash_9: february-genius-belt-aisle-situate-enact-room-shadow-tobacco
 bip_39_word_new_br_1: february
 bip_39_word_new_br_10: february<br>genius<br>belt<br>aisle<br>situate<br>enact<br>room<br>shadow<br>tobacco<br>orphan
 bip_39_word_new_br_11: february<br>genius<br>belt<br>aisle<br>situate<br>enact<br>room<br>shadow<br>tobacco<br>orphan<br>slogan
@@ -194,6 +206,18 @@ bip_39_word_space_6: february genius belt aisle situate enact
 bip_39_word_space_7: february genius belt aisle situate enact room
 bip_39_word_space_8: february genius belt aisle situate enact room shadow
 bip_39_word_space_9: february genius belt aisle situate enact room shadow tobacco
+bip_39_word_underscore_1: february
+bip_39_word_underscore_10: february_genius_belt_aisle_situate_enact_room_shadow_tobacco_orphan
+bip_39_word_underscore_11: february_genius_belt_aisle_situate_enact_room_shadow_tobacco_orphan_slogan
+bip_39_word_underscore_12: february_genius_belt_aisle_situate_enact_room_shadow_tobacco_orphan_slogan_ancient
+bip_39_word_underscore_2: february_genius
+bip_39_word_underscore_3: february_genius_belt
+bip_39_word_underscore_4: february_genius_belt_aisle
+bip_39_word_underscore_5: february_genius_belt_aisle_situate
+bip_39_word_underscore_6: february_genius_belt_aisle_situate_enact
+bip_39_word_underscore_7: february_genius_belt_aisle_situate_enact_room
+bip_39_word_underscore_8: february_genius_belt_aisle_situate_enact_room_shadow
+bip_39_word_underscore_9: february_genius_belt_aisle_situate_enact_room_shadow_tobacco
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: feed
+bip_39_word_dash_10: feed-trial-claw-giggle-velvet-wait-swim-document-ride-crystal
+bip_39_word_dash_11: feed-trial-claw-giggle-velvet-wait-swim-document-ride-crystal-pilot
+bip_39_word_dash_12: feed-trial-claw-giggle-velvet-wait-swim-document-ride-crystal-pilot-about
+bip_39_word_dash_2: feed-trial
+bip_39_word_dash_3: feed-trial-claw
+bip_39_word_dash_4: feed-trial-claw-giggle
+bip_39_word_dash_5: feed-trial-claw-giggle-velvet
+bip_39_word_dash_6: feed-trial-claw-giggle-velvet-wait
+bip_39_word_dash_7: feed-trial-claw-giggle-velvet-wait-swim
+bip_39_word_dash_8: feed-trial-claw-giggle-velvet-wait-swim-document
+bip_39_word_dash_9: feed-trial-claw-giggle-velvet-wait-swim-document-ride
 bip_39_word_new_br_1: feed
 bip_39_word_new_br_10: feed<br>trial<br>claw<br>giggle<br>velvet<br>wait<br>swim<br>document<br>ride<br>crystal
 bip_39_word_new_br_11: feed<br>trial<br>claw<br>giggle<br>velvet<br>wait<br>swim<br>document<br>ride<br>crystal<br>pilot
@@ -193,6 +205,18 @@ bip_39_word_space_6: feed trial claw giggle velvet wait
 bip_39_word_space_7: feed trial claw giggle velvet wait swim
 bip_39_word_space_8: feed trial claw giggle velvet wait swim document
 bip_39_word_space_9: feed trial claw giggle velvet wait swim document ride
+bip_39_word_underscore_1: feed
+bip_39_word_underscore_10: feed_trial_claw_giggle_velvet_wait_swim_document_ride_crystal
+bip_39_word_underscore_11: feed_trial_claw_giggle_velvet_wait_swim_document_ride_crystal_pilot
+bip_39_word_underscore_12: feed_trial_claw_giggle_velvet_wait_swim_document_ride_crystal_pilot_about
+bip_39_word_underscore_2: feed_trial
+bip_39_word_underscore_3: feed_trial_claw
+bip_39_word_underscore_4: feed_trial_claw_giggle
+bip_39_word_underscore_5: feed_trial_claw_giggle_velvet
+bip_39_word_underscore_6: feed_trial_claw_giggle_velvet_wait
+bip_39_word_underscore_7: feed_trial_claw_giggle_velvet_wait_swim
+bip_39_word_underscore_8: feed_trial_claw_giggle_velvet_wait_swim_document
+bip_39_word_underscore_9: feed_trial_claw_giggle_velvet_wait_swim_document_ride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

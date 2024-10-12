@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | address |  
+| bip_39_word_dash_10 | address-fly-welcome-message-buffalo-pig-tool-toward-plastic-mask |  
+| bip_39_word_dash_11 | address-fly-welcome-message-buffalo-pig-tool-toward-plastic-mask-cost |  
+| bip_39_word_dash_12 | address-fly-welcome-message-buffalo-pig-tool-toward-plastic-mask-cost-anchor |  
+| bip_39_word_dash_2 | address-fly |  
+| bip_39_word_dash_3 | address-fly-welcome |  
+| bip_39_word_dash_4 | address-fly-welcome-message |  
+| bip_39_word_dash_5 | address-fly-welcome-message-buffalo |  
+| bip_39_word_dash_6 | address-fly-welcome-message-buffalo-pig |  
+| bip_39_word_dash_7 | address-fly-welcome-message-buffalo-pig-tool |  
+| bip_39_word_dash_8 | address-fly-welcome-message-buffalo-pig-tool-toward |  
+| bip_39_word_dash_9 | address-fly-welcome-message-buffalo-pig-tool-toward-plastic |  
 | bip_39_word_new_br_1 | address |  
 | bip_39_word_new_br_10 | address<br>fly<br>welcome<br>message<br>buffalo<br>pig<br>tool<br>toward<br>plastic<br>mask |  
 | bip_39_word_new_br_11 | address<br>fly<br>welcome<br>message<br>buffalo<br>pig<br>tool<br>toward<br>plastic<br>mask<br>cost |  
@@ -147,6 +159,18 @@ plastic |
 | bip_39_word_space_7 | address fly welcome message buffalo pig tool |  
 | bip_39_word_space_8 | address fly welcome message buffalo pig tool toward |  
 | bip_39_word_space_9 | address fly welcome message buffalo pig tool toward plastic |  
+| bip_39_word_underscore_1 | address |  
+| bip_39_word_underscore_10 | address_fly_welcome_message_buffalo_pig_tool_toward_plastic_mask |  
+| bip_39_word_underscore_11 | address_fly_welcome_message_buffalo_pig_tool_toward_plastic_mask_cost |  
+| bip_39_word_underscore_12 | address_fly_welcome_message_buffalo_pig_tool_toward_plastic_mask_cost_anchor |  
+| bip_39_word_underscore_2 | address_fly |  
+| bip_39_word_underscore_3 | address_fly_welcome |  
+| bip_39_word_underscore_4 | address_fly_welcome_message |  
+| bip_39_word_underscore_5 | address_fly_welcome_message_buffalo |  
+| bip_39_word_underscore_6 | address_fly_welcome_message_buffalo_pig |  
+| bip_39_word_underscore_7 | address_fly_welcome_message_buffalo_pig_tool |  
+| bip_39_word_underscore_8 | address_fly_welcome_message_buffalo_pig_tool_toward |  
+| bip_39_word_underscore_9 | address_fly_welcome_message_buffalo_pig_tool_toward_plastic |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

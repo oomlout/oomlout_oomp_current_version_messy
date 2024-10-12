@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gaze |  
+| bip_39_word_dash_10 | gaze-clip-double-local-media-suggest-yard-warm-escape-harbor |  
+| bip_39_word_dash_11 | gaze-clip-double-local-media-suggest-yard-warm-escape-harbor-catalog |  
+| bip_39_word_dash_12 | gaze-clip-double-local-media-suggest-yard-warm-escape-harbor-catalog-argue |  
+| bip_39_word_dash_2 | gaze-clip |  
+| bip_39_word_dash_3 | gaze-clip-double |  
+| bip_39_word_dash_4 | gaze-clip-double-local |  
+| bip_39_word_dash_5 | gaze-clip-double-local-media |  
+| bip_39_word_dash_6 | gaze-clip-double-local-media-suggest |  
+| bip_39_word_dash_7 | gaze-clip-double-local-media-suggest-yard |  
+| bip_39_word_dash_8 | gaze-clip-double-local-media-suggest-yard-warm |  
+| bip_39_word_dash_9 | gaze-clip-double-local-media-suggest-yard-warm-escape |  
 | bip_39_word_new_br_1 | gaze |  
 | bip_39_word_new_br_10 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor |  
 | bip_39_word_new_br_11 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor<br>catalog |  
@@ -147,6 +159,18 @@ escape |
 | bip_39_word_space_7 | gaze clip double local media suggest yard |  
 | bip_39_word_space_8 | gaze clip double local media suggest yard warm |  
 | bip_39_word_space_9 | gaze clip double local media suggest yard warm escape |  
+| bip_39_word_underscore_1 | gaze |  
+| bip_39_word_underscore_10 | gaze_clip_double_local_media_suggest_yard_warm_escape_harbor |  
+| bip_39_word_underscore_11 | gaze_clip_double_local_media_suggest_yard_warm_escape_harbor_catalog |  
+| bip_39_word_underscore_12 | gaze_clip_double_local_media_suggest_yard_warm_escape_harbor_catalog_argue |  
+| bip_39_word_underscore_2 | gaze_clip |  
+| bip_39_word_underscore_3 | gaze_clip_double |  
+| bip_39_word_underscore_4 | gaze_clip_double_local |  
+| bip_39_word_underscore_5 | gaze_clip_double_local_media |  
+| bip_39_word_underscore_6 | gaze_clip_double_local_media_suggest |  
+| bip_39_word_underscore_7 | gaze_clip_double_local_media_suggest_yard |  
+| bip_39_word_underscore_8 | gaze_clip_double_local_media_suggest_yard_warm |  
+| bip_39_word_underscore_9 | gaze_clip_double_local_media_suggest_yard_warm_escape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

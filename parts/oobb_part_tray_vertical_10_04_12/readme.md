@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | program |  
+| bip_39_word_dash_10 | program-buffalo-party-town-setup-library-sentence-success-liar-bullet |  
+| bip_39_word_dash_11 | program-buffalo-party-town-setup-library-sentence-success-liar-bullet-winner |  
+| bip_39_word_dash_12 | program-buffalo-party-town-setup-library-sentence-success-liar-bullet-winner-answer |  
+| bip_39_word_dash_2 | program-buffalo |  
+| bip_39_word_dash_3 | program-buffalo-party |  
+| bip_39_word_dash_4 | program-buffalo-party-town |  
+| bip_39_word_dash_5 | program-buffalo-party-town-setup |  
+| bip_39_word_dash_6 | program-buffalo-party-town-setup-library |  
+| bip_39_word_dash_7 | program-buffalo-party-town-setup-library-sentence |  
+| bip_39_word_dash_8 | program-buffalo-party-town-setup-library-sentence-success |  
+| bip_39_word_dash_9 | program-buffalo-party-town-setup-library-sentence-success-liar |  
 | bip_39_word_new_br_1 | program |  
 | bip_39_word_new_br_10 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success<br>liar<br>bullet |  
 | bip_39_word_new_br_11 | program<br>buffalo<br>party<br>town<br>setup<br>library<br>sentence<br>success<br>liar<br>bullet<br>winner |  
@@ -147,6 +159,18 @@ liar |
 | bip_39_word_space_7 | program buffalo party town setup library sentence |  
 | bip_39_word_space_8 | program buffalo party town setup library sentence success |  
 | bip_39_word_space_9 | program buffalo party town setup library sentence success liar |  
+| bip_39_word_underscore_1 | program |  
+| bip_39_word_underscore_10 | program_buffalo_party_town_setup_library_sentence_success_liar_bullet |  
+| bip_39_word_underscore_11 | program_buffalo_party_town_setup_library_sentence_success_liar_bullet_winner |  
+| bip_39_word_underscore_12 | program_buffalo_party_town_setup_library_sentence_success_liar_bullet_winner_answer |  
+| bip_39_word_underscore_2 | program_buffalo |  
+| bip_39_word_underscore_3 | program_buffalo_party |  
+| bip_39_word_underscore_4 | program_buffalo_party_town |  
+| bip_39_word_underscore_5 | program_buffalo_party_town_setup |  
+| bip_39_word_underscore_6 | program_buffalo_party_town_setup_library |  
+| bip_39_word_underscore_7 | program_buffalo_party_town_setup_library_sentence |  
+| bip_39_word_underscore_8 | program_buffalo_party_town_setup_library_sentence_success |  
+| bip_39_word_underscore_9 | program_buffalo_party_town_setup_library_sentence_success_liar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

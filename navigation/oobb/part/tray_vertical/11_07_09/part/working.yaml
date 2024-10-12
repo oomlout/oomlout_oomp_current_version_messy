@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toddler
+bip_39_word_dash_10: toddler-enter-bronze-rose-bamboo-announce-wine-hawk-ability-joke
+bip_39_word_dash_11: toddler-enter-bronze-rose-bamboo-announce-wine-hawk-ability-joke-trouble
+bip_39_word_dash_12: toddler-enter-bronze-rose-bamboo-announce-wine-hawk-ability-joke-trouble-alpha
+bip_39_word_dash_2: toddler-enter
+bip_39_word_dash_3: toddler-enter-bronze
+bip_39_word_dash_4: toddler-enter-bronze-rose
+bip_39_word_dash_5: toddler-enter-bronze-rose-bamboo
+bip_39_word_dash_6: toddler-enter-bronze-rose-bamboo-announce
+bip_39_word_dash_7: toddler-enter-bronze-rose-bamboo-announce-wine
+bip_39_word_dash_8: toddler-enter-bronze-rose-bamboo-announce-wine-hawk
+bip_39_word_dash_9: toddler-enter-bronze-rose-bamboo-announce-wine-hawk-ability
 bip_39_word_new_br_1: toddler
 bip_39_word_new_br_10: toddler<br>enter<br>bronze<br>rose<br>bamboo<br>announce<br>wine<br>hawk<br>ability<br>joke
 bip_39_word_new_br_11: toddler<br>enter<br>bronze<br>rose<br>bamboo<br>announce<br>wine<br>hawk<br>ability<br>joke<br>trouble
@@ -194,6 +206,18 @@ bip_39_word_space_6: toddler enter bronze rose bamboo announce
 bip_39_word_space_7: toddler enter bronze rose bamboo announce wine
 bip_39_word_space_8: toddler enter bronze rose bamboo announce wine hawk
 bip_39_word_space_9: toddler enter bronze rose bamboo announce wine hawk ability
+bip_39_word_underscore_1: toddler
+bip_39_word_underscore_10: toddler_enter_bronze_rose_bamboo_announce_wine_hawk_ability_joke
+bip_39_word_underscore_11: toddler_enter_bronze_rose_bamboo_announce_wine_hawk_ability_joke_trouble
+bip_39_word_underscore_12: toddler_enter_bronze_rose_bamboo_announce_wine_hawk_ability_joke_trouble_alpha
+bip_39_word_underscore_2: toddler_enter
+bip_39_word_underscore_3: toddler_enter_bronze
+bip_39_word_underscore_4: toddler_enter_bronze_rose
+bip_39_word_underscore_5: toddler_enter_bronze_rose_bamboo
+bip_39_word_underscore_6: toddler_enter_bronze_rose_bamboo_announce
+bip_39_word_underscore_7: toddler_enter_bronze_rose_bamboo_announce_wine
+bip_39_word_underscore_8: toddler_enter_bronze_rose_bamboo_announce_wine_hawk
+bip_39_word_underscore_9: toddler_enter_bronze_rose_bamboo_announce_wine_hawk_ability
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

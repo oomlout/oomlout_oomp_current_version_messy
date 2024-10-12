@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | isolate |  
+| bip_39_word_dash_10 | isolate-vehicle-fiscal-reduce-curve-setup-small-cram-use-minimum |  
+| bip_39_word_dash_11 | isolate-vehicle-fiscal-reduce-curve-setup-small-cram-use-minimum-panther |  
+| bip_39_word_dash_12 | isolate-vehicle-fiscal-reduce-curve-setup-small-cram-use-minimum-panther-add |  
+| bip_39_word_dash_2 | isolate-vehicle |  
+| bip_39_word_dash_3 | isolate-vehicle-fiscal |  
+| bip_39_word_dash_4 | isolate-vehicle-fiscal-reduce |  
+| bip_39_word_dash_5 | isolate-vehicle-fiscal-reduce-curve |  
+| bip_39_word_dash_6 | isolate-vehicle-fiscal-reduce-curve-setup |  
+| bip_39_word_dash_7 | isolate-vehicle-fiscal-reduce-curve-setup-small |  
+| bip_39_word_dash_8 | isolate-vehicle-fiscal-reduce-curve-setup-small-cram |  
+| bip_39_word_dash_9 | isolate-vehicle-fiscal-reduce-curve-setup-small-cram-use |  
 | bip_39_word_new_br_1 | isolate |  
 | bip_39_word_new_br_10 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram<br>use<br>minimum |  
 | bip_39_word_new_br_11 | isolate<br>vehicle<br>fiscal<br>reduce<br>curve<br>setup<br>small<br>cram<br>use<br>minimum<br>panther |  
@@ -147,6 +159,18 @@ use |
 | bip_39_word_space_7 | isolate vehicle fiscal reduce curve setup small |  
 | bip_39_word_space_8 | isolate vehicle fiscal reduce curve setup small cram |  
 | bip_39_word_space_9 | isolate vehicle fiscal reduce curve setup small cram use |  
+| bip_39_word_underscore_1 | isolate |  
+| bip_39_word_underscore_10 | isolate_vehicle_fiscal_reduce_curve_setup_small_cram_use_minimum |  
+| bip_39_word_underscore_11 | isolate_vehicle_fiscal_reduce_curve_setup_small_cram_use_minimum_panther |  
+| bip_39_word_underscore_12 | isolate_vehicle_fiscal_reduce_curve_setup_small_cram_use_minimum_panther_add |  
+| bip_39_word_underscore_2 | isolate_vehicle |  
+| bip_39_word_underscore_3 | isolate_vehicle_fiscal |  
+| bip_39_word_underscore_4 | isolate_vehicle_fiscal_reduce |  
+| bip_39_word_underscore_5 | isolate_vehicle_fiscal_reduce_curve |  
+| bip_39_word_underscore_6 | isolate_vehicle_fiscal_reduce_curve_setup |  
+| bip_39_word_underscore_7 | isolate_vehicle_fiscal_reduce_curve_setup_small |  
+| bip_39_word_underscore_8 | isolate_vehicle_fiscal_reduce_curve_setup_small_cram |  
+| bip_39_word_underscore_9 | isolate_vehicle_fiscal_reduce_curve_setup_small_cram_use |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

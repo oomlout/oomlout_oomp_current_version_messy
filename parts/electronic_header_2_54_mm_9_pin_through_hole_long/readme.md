@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | subway |  
+| bip_39_word_dash_10 | subway-beef-wage-client-pact-valid-midnight-deal-radar-angry |  
+| bip_39_word_dash_11 | subway-beef-wage-client-pact-valid-midnight-deal-radar-angry-north |  
+| bip_39_word_dash_12 | subway-beef-wage-client-pact-valid-midnight-deal-radar-angry-north-aisle |  
+| bip_39_word_dash_2 | subway-beef |  
+| bip_39_word_dash_3 | subway-beef-wage |  
+| bip_39_word_dash_4 | subway-beef-wage-client |  
+| bip_39_word_dash_5 | subway-beef-wage-client-pact |  
+| bip_39_word_dash_6 | subway-beef-wage-client-pact-valid |  
+| bip_39_word_dash_7 | subway-beef-wage-client-pact-valid-midnight |  
+| bip_39_word_dash_8 | subway-beef-wage-client-pact-valid-midnight-deal |  
+| bip_39_word_dash_9 | subway-beef-wage-client-pact-valid-midnight-deal-radar |  
 | bip_39_word_new_br_1 | subway |  
 | bip_39_word_new_br_10 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal<br>radar<br>angry |  
 | bip_39_word_new_br_11 | subway<br>beef<br>wage<br>client<br>pact<br>valid<br>midnight<br>deal<br>radar<br>angry<br>north |  
@@ -147,6 +159,18 @@ radar |
 | bip_39_word_space_7 | subway beef wage client pact valid midnight |  
 | bip_39_word_space_8 | subway beef wage client pact valid midnight deal |  
 | bip_39_word_space_9 | subway beef wage client pact valid midnight deal radar |  
+| bip_39_word_underscore_1 | subway |  
+| bip_39_word_underscore_10 | subway_beef_wage_client_pact_valid_midnight_deal_radar_angry |  
+| bip_39_word_underscore_11 | subway_beef_wage_client_pact_valid_midnight_deal_radar_angry_north |  
+| bip_39_word_underscore_12 | subway_beef_wage_client_pact_valid_midnight_deal_radar_angry_north_aisle |  
+| bip_39_word_underscore_2 | subway_beef |  
+| bip_39_word_underscore_3 | subway_beef_wage |  
+| bip_39_word_underscore_4 | subway_beef_wage_client |  
+| bip_39_word_underscore_5 | subway_beef_wage_client_pact |  
+| bip_39_word_underscore_6 | subway_beef_wage_client_pact_valid |  
+| bip_39_word_underscore_7 | subway_beef_wage_client_pact_valid_midnight |  
+| bip_39_word_underscore_8 | subway_beef_wage_client_pact_valid_midnight_deal |  
+| bip_39_word_underscore_9 | subway_beef_wage_client_pact_valid_midnight_deal_radar |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

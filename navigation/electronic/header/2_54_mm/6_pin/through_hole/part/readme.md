@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | measure |  
+| bip_39_word_dash_10 | measure-deny-trumpet-fresh-track-lottery-wreck-decide-cool-dilemma |  
+| bip_39_word_dash_11 | measure-deny-trumpet-fresh-track-lottery-wreck-decide-cool-dilemma-useless |  
+| bip_39_word_dash_12 | measure-deny-trumpet-fresh-track-lottery-wreck-decide-cool-dilemma-useless-acquire |  
+| bip_39_word_dash_2 | measure-deny |  
+| bip_39_word_dash_3 | measure-deny-trumpet |  
+| bip_39_word_dash_4 | measure-deny-trumpet-fresh |  
+| bip_39_word_dash_5 | measure-deny-trumpet-fresh-track |  
+| bip_39_word_dash_6 | measure-deny-trumpet-fresh-track-lottery |  
+| bip_39_word_dash_7 | measure-deny-trumpet-fresh-track-lottery-wreck |  
+| bip_39_word_dash_8 | measure-deny-trumpet-fresh-track-lottery-wreck-decide |  
+| bip_39_word_dash_9 | measure-deny-trumpet-fresh-track-lottery-wreck-decide-cool |  
 | bip_39_word_new_br_1 | measure |  
 | bip_39_word_new_br_10 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide<br>cool<br>dilemma |  
 | bip_39_word_new_br_11 | measure<br>deny<br>trumpet<br>fresh<br>track<br>lottery<br>wreck<br>decide<br>cool<br>dilemma<br>useless |  
@@ -147,6 +159,18 @@ cool |
 | bip_39_word_space_7 | measure deny trumpet fresh track lottery wreck |  
 | bip_39_word_space_8 | measure deny trumpet fresh track lottery wreck decide |  
 | bip_39_word_space_9 | measure deny trumpet fresh track lottery wreck decide cool |  
+| bip_39_word_underscore_1 | measure |  
+| bip_39_word_underscore_10 | measure_deny_trumpet_fresh_track_lottery_wreck_decide_cool_dilemma |  
+| bip_39_word_underscore_11 | measure_deny_trumpet_fresh_track_lottery_wreck_decide_cool_dilemma_useless |  
+| bip_39_word_underscore_12 | measure_deny_trumpet_fresh_track_lottery_wreck_decide_cool_dilemma_useless_acquire |  
+| bip_39_word_underscore_2 | measure_deny |  
+| bip_39_word_underscore_3 | measure_deny_trumpet |  
+| bip_39_word_underscore_4 | measure_deny_trumpet_fresh |  
+| bip_39_word_underscore_5 | measure_deny_trumpet_fresh_track |  
+| bip_39_word_underscore_6 | measure_deny_trumpet_fresh_track_lottery |  
+| bip_39_word_underscore_7 | measure_deny_trumpet_fresh_track_lottery_wreck |  
+| bip_39_word_underscore_8 | measure_deny_trumpet_fresh_track_lottery_wreck_decide |  
+| bip_39_word_underscore_9 | measure_deny_trumpet_fresh_track_lottery_wreck_decide_cool |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

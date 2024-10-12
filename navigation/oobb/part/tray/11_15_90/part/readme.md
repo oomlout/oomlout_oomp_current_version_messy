@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | random |  
+| bip_39_word_dash_10 | random-arena-horror-child-focus-dream-bonus-tonight-mask-edge |  
+| bip_39_word_dash_11 | random-arena-horror-child-focus-dream-bonus-tonight-mask-edge-other |  
+| bip_39_word_dash_12 | random-arena-horror-child-focus-dream-bonus-tonight-mask-edge-other-absurd |  
+| bip_39_word_dash_2 | random-arena |  
+| bip_39_word_dash_3 | random-arena-horror |  
+| bip_39_word_dash_4 | random-arena-horror-child |  
+| bip_39_word_dash_5 | random-arena-horror-child-focus |  
+| bip_39_word_dash_6 | random-arena-horror-child-focus-dream |  
+| bip_39_word_dash_7 | random-arena-horror-child-focus-dream-bonus |  
+| bip_39_word_dash_8 | random-arena-horror-child-focus-dream-bonus-tonight |  
+| bip_39_word_dash_9 | random-arena-horror-child-focus-dream-bonus-tonight-mask |  
 | bip_39_word_new_br_1 | random |  
 | bip_39_word_new_br_10 | random<br>arena<br>horror<br>child<br>focus<br>dream<br>bonus<br>tonight<br>mask<br>edge |  
 | bip_39_word_new_br_11 | random<br>arena<br>horror<br>child<br>focus<br>dream<br>bonus<br>tonight<br>mask<br>edge<br>other |  
@@ -147,6 +159,18 @@ mask |
 | bip_39_word_space_7 | random arena horror child focus dream bonus |  
 | bip_39_word_space_8 | random arena horror child focus dream bonus tonight |  
 | bip_39_word_space_9 | random arena horror child focus dream bonus tonight mask |  
+| bip_39_word_underscore_1 | random |  
+| bip_39_word_underscore_10 | random_arena_horror_child_focus_dream_bonus_tonight_mask_edge |  
+| bip_39_word_underscore_11 | random_arena_horror_child_focus_dream_bonus_tonight_mask_edge_other |  
+| bip_39_word_underscore_12 | random_arena_horror_child_focus_dream_bonus_tonight_mask_edge_other_absurd |  
+| bip_39_word_underscore_2 | random_arena |  
+| bip_39_word_underscore_3 | random_arena_horror |  
+| bip_39_word_underscore_4 | random_arena_horror_child |  
+| bip_39_word_underscore_5 | random_arena_horror_child_focus |  
+| bip_39_word_underscore_6 | random_arena_horror_child_focus_dream |  
+| bip_39_word_underscore_7 | random_arena_horror_child_focus_dream_bonus |  
+| bip_39_word_underscore_8 | random_arena_horror_child_focus_dream_bonus_tonight |  
+| bip_39_word_underscore_9 | random_arena_horror_child_focus_dream_bonus_tonight_mask |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

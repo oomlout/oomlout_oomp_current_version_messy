@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pact |  
+| bip_39_word_dash_10 | pact-fish-yellow-feel-kidney-like-enter-ethics-chapter-tourist |  
+| bip_39_word_dash_11 | pact-fish-yellow-feel-kidney-like-enter-ethics-chapter-tourist-inquiry |  
+| bip_39_word_dash_12 | pact-fish-yellow-feel-kidney-like-enter-ethics-chapter-tourist-inquiry-army |  
+| bip_39_word_dash_2 | pact-fish |  
+| bip_39_word_dash_3 | pact-fish-yellow |  
+| bip_39_word_dash_4 | pact-fish-yellow-feel |  
+| bip_39_word_dash_5 | pact-fish-yellow-feel-kidney |  
+| bip_39_word_dash_6 | pact-fish-yellow-feel-kidney-like |  
+| bip_39_word_dash_7 | pact-fish-yellow-feel-kidney-like-enter |  
+| bip_39_word_dash_8 | pact-fish-yellow-feel-kidney-like-enter-ethics |  
+| bip_39_word_dash_9 | pact-fish-yellow-feel-kidney-like-enter-ethics-chapter |  
 | bip_39_word_new_br_1 | pact |  
 | bip_39_word_new_br_10 | pact<br>fish<br>yellow<br>feel<br>kidney<br>like<br>enter<br>ethics<br>chapter<br>tourist |  
 | bip_39_word_new_br_11 | pact<br>fish<br>yellow<br>feel<br>kidney<br>like<br>enter<br>ethics<br>chapter<br>tourist<br>inquiry |  
@@ -147,6 +159,18 @@ chapter |
 | bip_39_word_space_7 | pact fish yellow feel kidney like enter |  
 | bip_39_word_space_8 | pact fish yellow feel kidney like enter ethics |  
 | bip_39_word_space_9 | pact fish yellow feel kidney like enter ethics chapter |  
+| bip_39_word_underscore_1 | pact |  
+| bip_39_word_underscore_10 | pact_fish_yellow_feel_kidney_like_enter_ethics_chapter_tourist |  
+| bip_39_word_underscore_11 | pact_fish_yellow_feel_kidney_like_enter_ethics_chapter_tourist_inquiry |  
+| bip_39_word_underscore_12 | pact_fish_yellow_feel_kidney_like_enter_ethics_chapter_tourist_inquiry_army |  
+| bip_39_word_underscore_2 | pact_fish |  
+| bip_39_word_underscore_3 | pact_fish_yellow |  
+| bip_39_word_underscore_4 | pact_fish_yellow_feel |  
+| bip_39_word_underscore_5 | pact_fish_yellow_feel_kidney |  
+| bip_39_word_underscore_6 | pact_fish_yellow_feel_kidney_like |  
+| bip_39_word_underscore_7 | pact_fish_yellow_feel_kidney_like_enter |  
+| bip_39_word_underscore_8 | pact_fish_yellow_feel_kidney_like_enter_ethics |  
+| bip_39_word_underscore_9 | pact_fish_yellow_feel_kidney_like_enter_ethics_chapter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

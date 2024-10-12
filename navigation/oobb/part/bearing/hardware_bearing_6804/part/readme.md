@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glare |  
+| bip_39_word_dash_10 | glare-mad-desert-grab-adapt-buzz-credit-feature-fit-identify |  
+| bip_39_word_dash_11 | glare-mad-desert-grab-adapt-buzz-credit-feature-fit-identify-chunk |  
+| bip_39_word_dash_12 | glare-mad-desert-grab-adapt-buzz-credit-feature-fit-identify-chunk-amateur |  
+| bip_39_word_dash_2 | glare-mad |  
+| bip_39_word_dash_3 | glare-mad-desert |  
+| bip_39_word_dash_4 | glare-mad-desert-grab |  
+| bip_39_word_dash_5 | glare-mad-desert-grab-adapt |  
+| bip_39_word_dash_6 | glare-mad-desert-grab-adapt-buzz |  
+| bip_39_word_dash_7 | glare-mad-desert-grab-adapt-buzz-credit |  
+| bip_39_word_dash_8 | glare-mad-desert-grab-adapt-buzz-credit-feature |  
+| bip_39_word_dash_9 | glare-mad-desert-grab-adapt-buzz-credit-feature-fit |  
 | bip_39_word_new_br_1 | glare |  
 | bip_39_word_new_br_10 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify |  
 | bip_39_word_new_br_11 | glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify<br>chunk |  
@@ -147,6 +159,18 @@ fit |
 | bip_39_word_space_7 | glare mad desert grab adapt buzz credit |  
 | bip_39_word_space_8 | glare mad desert grab adapt buzz credit feature |  
 | bip_39_word_space_9 | glare mad desert grab adapt buzz credit feature fit |  
+| bip_39_word_underscore_1 | glare |  
+| bip_39_word_underscore_10 | glare_mad_desert_grab_adapt_buzz_credit_feature_fit_identify |  
+| bip_39_word_underscore_11 | glare_mad_desert_grab_adapt_buzz_credit_feature_fit_identify_chunk |  
+| bip_39_word_underscore_12 | glare_mad_desert_grab_adapt_buzz_credit_feature_fit_identify_chunk_amateur |  
+| bip_39_word_underscore_2 | glare_mad |  
+| bip_39_word_underscore_3 | glare_mad_desert |  
+| bip_39_word_underscore_4 | glare_mad_desert_grab |  
+| bip_39_word_underscore_5 | glare_mad_desert_grab_adapt |  
+| bip_39_word_underscore_6 | glare_mad_desert_grab_adapt_buzz |  
+| bip_39_word_underscore_7 | glare_mad_desert_grab_adapt_buzz_credit |  
+| bip_39_word_underscore_8 | glare_mad_desert_grab_adapt_buzz_credit_feature |  
+| bip_39_word_underscore_9 | glare_mad_desert_grab_adapt_buzz_credit_feature_fit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

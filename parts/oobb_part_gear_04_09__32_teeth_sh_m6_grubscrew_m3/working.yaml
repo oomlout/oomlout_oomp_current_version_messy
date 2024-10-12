@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cricket
+bip_39_word_dash_10: cricket-humble-uncover-grape-green-slow-define-advance-occur-edge
+bip_39_word_dash_11: cricket-humble-uncover-grape-green-slow-define-advance-occur-edge-correct
+bip_39_word_dash_12: cricket-humble-uncover-grape-green-slow-define-advance-occur-edge-correct-amateur
+bip_39_word_dash_2: cricket-humble
+bip_39_word_dash_3: cricket-humble-uncover
+bip_39_word_dash_4: cricket-humble-uncover-grape
+bip_39_word_dash_5: cricket-humble-uncover-grape-green
+bip_39_word_dash_6: cricket-humble-uncover-grape-green-slow
+bip_39_word_dash_7: cricket-humble-uncover-grape-green-slow-define
+bip_39_word_dash_8: cricket-humble-uncover-grape-green-slow-define-advance
+bip_39_word_dash_9: cricket-humble-uncover-grape-green-slow-define-advance-occur
 bip_39_word_new_br_1: cricket
 bip_39_word_new_br_10: cricket<br>humble<br>uncover<br>grape<br>green<br>slow<br>define<br>advance<br>occur<br>edge
 bip_39_word_new_br_11: cricket<br>humble<br>uncover<br>grape<br>green<br>slow<br>define<br>advance<br>occur<br>edge<br>correct
@@ -194,6 +206,18 @@ bip_39_word_space_6: cricket humble uncover grape green slow
 bip_39_word_space_7: cricket humble uncover grape green slow define
 bip_39_word_space_8: cricket humble uncover grape green slow define advance
 bip_39_word_space_9: cricket humble uncover grape green slow define advance occur
+bip_39_word_underscore_1: cricket
+bip_39_word_underscore_10: cricket_humble_uncover_grape_green_slow_define_advance_occur_edge
+bip_39_word_underscore_11: cricket_humble_uncover_grape_green_slow_define_advance_occur_edge_correct
+bip_39_word_underscore_12: cricket_humble_uncover_grape_green_slow_define_advance_occur_edge_correct_amateur
+bip_39_word_underscore_2: cricket_humble
+bip_39_word_underscore_3: cricket_humble_uncover
+bip_39_word_underscore_4: cricket_humble_uncover_grape
+bip_39_word_underscore_5: cricket_humble_uncover_grape_green
+bip_39_word_underscore_6: cricket_humble_uncover_grape_green_slow
+bip_39_word_underscore_7: cricket_humble_uncover_grape_green_slow_define
+bip_39_word_underscore_8: cricket_humble_uncover_grape_green_slow_define_advance
+bip_39_word_underscore_9: cricket_humble_uncover_grape_green_slow_define_advance_occur
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

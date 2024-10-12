@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | another |  
+| bip_39_word_dash_10 | another-lecture-immune-alter-topple-corn-figure-hill-town-foil |  
+| bip_39_word_dash_11 | another-lecture-immune-alter-topple-corn-figure-hill-town-foil-actress |  
+| bip_39_word_dash_12 | another-lecture-immune-alter-topple-corn-figure-hill-town-foil-actress-arrive |  
+| bip_39_word_dash_2 | another-lecture |  
+| bip_39_word_dash_3 | another-lecture-immune |  
+| bip_39_word_dash_4 | another-lecture-immune-alter |  
+| bip_39_word_dash_5 | another-lecture-immune-alter-topple |  
+| bip_39_word_dash_6 | another-lecture-immune-alter-topple-corn |  
+| bip_39_word_dash_7 | another-lecture-immune-alter-topple-corn-figure |  
+| bip_39_word_dash_8 | another-lecture-immune-alter-topple-corn-figure-hill |  
+| bip_39_word_dash_9 | another-lecture-immune-alter-topple-corn-figure-hill-town |  
 | bip_39_word_new_br_1 | another |  
 | bip_39_word_new_br_10 | another<br>lecture<br>immune<br>alter<br>topple<br>corn<br>figure<br>hill<br>town<br>foil |  
 | bip_39_word_new_br_11 | another<br>lecture<br>immune<br>alter<br>topple<br>corn<br>figure<br>hill<br>town<br>foil<br>actress |  
@@ -147,6 +159,18 @@ town |
 | bip_39_word_space_7 | another lecture immune alter topple corn figure |  
 | bip_39_word_space_8 | another lecture immune alter topple corn figure hill |  
 | bip_39_word_space_9 | another lecture immune alter topple corn figure hill town |  
+| bip_39_word_underscore_1 | another |  
+| bip_39_word_underscore_10 | another_lecture_immune_alter_topple_corn_figure_hill_town_foil |  
+| bip_39_word_underscore_11 | another_lecture_immune_alter_topple_corn_figure_hill_town_foil_actress |  
+| bip_39_word_underscore_12 | another_lecture_immune_alter_topple_corn_figure_hill_town_foil_actress_arrive |  
+| bip_39_word_underscore_2 | another_lecture |  
+| bip_39_word_underscore_3 | another_lecture_immune |  
+| bip_39_word_underscore_4 | another_lecture_immune_alter |  
+| bip_39_word_underscore_5 | another_lecture_immune_alter_topple |  
+| bip_39_word_underscore_6 | another_lecture_immune_alter_topple_corn |  
+| bip_39_word_underscore_7 | another_lecture_immune_alter_topple_corn_figure |  
+| bip_39_word_underscore_8 | another_lecture_immune_alter_topple_corn_figure_hill |  
+| bip_39_word_underscore_9 | another_lecture_immune_alter_topple_corn_figure_hill_town |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

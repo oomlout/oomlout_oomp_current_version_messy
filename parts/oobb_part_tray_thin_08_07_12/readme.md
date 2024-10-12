@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | broken |  
+| bip_39_word_dash_10 | broken-friend-erosion-sweet-ship-tattoo-oil-silk-erode-gloom |  
+| bip_39_word_dash_11 | broken-friend-erosion-sweet-ship-tattoo-oil-silk-erode-gloom-toilet |  
+| bip_39_word_dash_12 | broken-friend-erosion-sweet-ship-tattoo-oil-silk-erode-gloom-toilet-antique |  
+| bip_39_word_dash_2 | broken-friend |  
+| bip_39_word_dash_3 | broken-friend-erosion |  
+| bip_39_word_dash_4 | broken-friend-erosion-sweet |  
+| bip_39_word_dash_5 | broken-friend-erosion-sweet-ship |  
+| bip_39_word_dash_6 | broken-friend-erosion-sweet-ship-tattoo |  
+| bip_39_word_dash_7 | broken-friend-erosion-sweet-ship-tattoo-oil |  
+| bip_39_word_dash_8 | broken-friend-erosion-sweet-ship-tattoo-oil-silk |  
+| bip_39_word_dash_9 | broken-friend-erosion-sweet-ship-tattoo-oil-silk-erode |  
 | bip_39_word_new_br_1 | broken |  
 | bip_39_word_new_br_10 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom |  
 | bip_39_word_new_br_11 | broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom<br>toilet |  
@@ -147,6 +159,18 @@ erode |
 | bip_39_word_space_7 | broken friend erosion sweet ship tattoo oil |  
 | bip_39_word_space_8 | broken friend erosion sweet ship tattoo oil silk |  
 | bip_39_word_space_9 | broken friend erosion sweet ship tattoo oil silk erode |  
+| bip_39_word_underscore_1 | broken |  
+| bip_39_word_underscore_10 | broken_friend_erosion_sweet_ship_tattoo_oil_silk_erode_gloom |  
+| bip_39_word_underscore_11 | broken_friend_erosion_sweet_ship_tattoo_oil_silk_erode_gloom_toilet |  
+| bip_39_word_underscore_12 | broken_friend_erosion_sweet_ship_tattoo_oil_silk_erode_gloom_toilet_antique |  
+| bip_39_word_underscore_2 | broken_friend |  
+| bip_39_word_underscore_3 | broken_friend_erosion |  
+| bip_39_word_underscore_4 | broken_friend_erosion_sweet |  
+| bip_39_word_underscore_5 | broken_friend_erosion_sweet_ship |  
+| bip_39_word_underscore_6 | broken_friend_erosion_sweet_ship_tattoo |  
+| bip_39_word_underscore_7 | broken_friend_erosion_sweet_ship_tattoo_oil |  
+| bip_39_word_underscore_8 | broken_friend_erosion_sweet_ship_tattoo_oil_silk |  
+| bip_39_word_underscore_9 | broken_friend_erosion_sweet_ship_tattoo_oil_silk_erode |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

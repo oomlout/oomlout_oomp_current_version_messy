@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bronze |  
+| bip_39_word_dash_10 | bronze-payment-weather-pistol-inch-power-unique-learn-short-argue |  
+| bip_39_word_dash_11 | bronze-payment-weather-pistol-inch-power-unique-learn-short-argue-color |  
+| bip_39_word_dash_12 | bronze-payment-weather-pistol-inch-power-unique-learn-short-argue-color-arch |  
+| bip_39_word_dash_2 | bronze-payment |  
+| bip_39_word_dash_3 | bronze-payment-weather |  
+| bip_39_word_dash_4 | bronze-payment-weather-pistol |  
+| bip_39_word_dash_5 | bronze-payment-weather-pistol-inch |  
+| bip_39_word_dash_6 | bronze-payment-weather-pistol-inch-power |  
+| bip_39_word_dash_7 | bronze-payment-weather-pistol-inch-power-unique |  
+| bip_39_word_dash_8 | bronze-payment-weather-pistol-inch-power-unique-learn |  
+| bip_39_word_dash_9 | bronze-payment-weather-pistol-inch-power-unique-learn-short |  
 | bip_39_word_new_br_1 | bronze |  
 | bip_39_word_new_br_10 | bronze<br>payment<br>weather<br>pistol<br>inch<br>power<br>unique<br>learn<br>short<br>argue |  
 | bip_39_word_new_br_11 | bronze<br>payment<br>weather<br>pistol<br>inch<br>power<br>unique<br>learn<br>short<br>argue<br>color |  
@@ -147,6 +159,18 @@ short |
 | bip_39_word_space_7 | bronze payment weather pistol inch power unique |  
 | bip_39_word_space_8 | bronze payment weather pistol inch power unique learn |  
 | bip_39_word_space_9 | bronze payment weather pistol inch power unique learn short |  
+| bip_39_word_underscore_1 | bronze |  
+| bip_39_word_underscore_10 | bronze_payment_weather_pistol_inch_power_unique_learn_short_argue |  
+| bip_39_word_underscore_11 | bronze_payment_weather_pistol_inch_power_unique_learn_short_argue_color |  
+| bip_39_word_underscore_12 | bronze_payment_weather_pistol_inch_power_unique_learn_short_argue_color_arch |  
+| bip_39_word_underscore_2 | bronze_payment |  
+| bip_39_word_underscore_3 | bronze_payment_weather |  
+| bip_39_word_underscore_4 | bronze_payment_weather_pistol |  
+| bip_39_word_underscore_5 | bronze_payment_weather_pistol_inch |  
+| bip_39_word_underscore_6 | bronze_payment_weather_pistol_inch_power |  
+| bip_39_word_underscore_7 | bronze_payment_weather_pistol_inch_power_unique |  
+| bip_39_word_underscore_8 | bronze_payment_weather_pistol_inch_power_unique_learn |  
+| bip_39_word_underscore_9 | bronze_payment_weather_pistol_inch_power_unique_learn_short |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

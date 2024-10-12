@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crouch |  
+| bip_39_word_dash_10 | crouch-pumpkin-scrub-sister-sniff-jeans-toe-salute-host-seek |  
+| bip_39_word_dash_11 | crouch-pumpkin-scrub-sister-sniff-jeans-toe-salute-host-seek-roof |  
+| bip_39_word_dash_12 | crouch-pumpkin-scrub-sister-sniff-jeans-toe-salute-host-seek-roof-able |  
+| bip_39_word_dash_2 | crouch-pumpkin |  
+| bip_39_word_dash_3 | crouch-pumpkin-scrub |  
+| bip_39_word_dash_4 | crouch-pumpkin-scrub-sister |  
+| bip_39_word_dash_5 | crouch-pumpkin-scrub-sister-sniff |  
+| bip_39_word_dash_6 | crouch-pumpkin-scrub-sister-sniff-jeans |  
+| bip_39_word_dash_7 | crouch-pumpkin-scrub-sister-sniff-jeans-toe |  
+| bip_39_word_dash_8 | crouch-pumpkin-scrub-sister-sniff-jeans-toe-salute |  
+| bip_39_word_dash_9 | crouch-pumpkin-scrub-sister-sniff-jeans-toe-salute-host |  
 | bip_39_word_new_br_1 | crouch |  
 | bip_39_word_new_br_10 | crouch<br>pumpkin<br>scrub<br>sister<br>sniff<br>jeans<br>toe<br>salute<br>host<br>seek |  
 | bip_39_word_new_br_11 | crouch<br>pumpkin<br>scrub<br>sister<br>sniff<br>jeans<br>toe<br>salute<br>host<br>seek<br>roof |  
@@ -147,6 +159,18 @@ host |
 | bip_39_word_space_7 | crouch pumpkin scrub sister sniff jeans toe |  
 | bip_39_word_space_8 | crouch pumpkin scrub sister sniff jeans toe salute |  
 | bip_39_word_space_9 | crouch pumpkin scrub sister sniff jeans toe salute host |  
+| bip_39_word_underscore_1 | crouch |  
+| bip_39_word_underscore_10 | crouch_pumpkin_scrub_sister_sniff_jeans_toe_salute_host_seek |  
+| bip_39_word_underscore_11 | crouch_pumpkin_scrub_sister_sniff_jeans_toe_salute_host_seek_roof |  
+| bip_39_word_underscore_12 | crouch_pumpkin_scrub_sister_sniff_jeans_toe_salute_host_seek_roof_able |  
+| bip_39_word_underscore_2 | crouch_pumpkin |  
+| bip_39_word_underscore_3 | crouch_pumpkin_scrub |  
+| bip_39_word_underscore_4 | crouch_pumpkin_scrub_sister |  
+| bip_39_word_underscore_5 | crouch_pumpkin_scrub_sister_sniff |  
+| bip_39_word_underscore_6 | crouch_pumpkin_scrub_sister_sniff_jeans |  
+| bip_39_word_underscore_7 | crouch_pumpkin_scrub_sister_sniff_jeans_toe |  
+| bip_39_word_underscore_8 | crouch_pumpkin_scrub_sister_sniff_jeans_toe_salute |  
+| bip_39_word_underscore_9 | crouch_pumpkin_scrub_sister_sniff_jeans_toe_salute_host |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

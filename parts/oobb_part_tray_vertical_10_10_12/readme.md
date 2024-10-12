@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chicken |  
+| bip_39_word_dash_10 | chicken-club-jeans-exhaust-segment-reflect-fade-any-hole-copy |  
+| bip_39_word_dash_11 | chicken-club-jeans-exhaust-segment-reflect-fade-any-hole-copy-soul |  
+| bip_39_word_dash_12 | chicken-club-jeans-exhaust-segment-reflect-fade-any-hole-copy-soul-amateur |  
+| bip_39_word_dash_2 | chicken-club |  
+| bip_39_word_dash_3 | chicken-club-jeans |  
+| bip_39_word_dash_4 | chicken-club-jeans-exhaust |  
+| bip_39_word_dash_5 | chicken-club-jeans-exhaust-segment |  
+| bip_39_word_dash_6 | chicken-club-jeans-exhaust-segment-reflect |  
+| bip_39_word_dash_7 | chicken-club-jeans-exhaust-segment-reflect-fade |  
+| bip_39_word_dash_8 | chicken-club-jeans-exhaust-segment-reflect-fade-any |  
+| bip_39_word_dash_9 | chicken-club-jeans-exhaust-segment-reflect-fade-any-hole |  
 | bip_39_word_new_br_1 | chicken |  
 | bip_39_word_new_br_10 | chicken<br>club<br>jeans<br>exhaust<br>segment<br>reflect<br>fade<br>any<br>hole<br>copy |  
 | bip_39_word_new_br_11 | chicken<br>club<br>jeans<br>exhaust<br>segment<br>reflect<br>fade<br>any<br>hole<br>copy<br>soul |  
@@ -147,6 +159,18 @@ hole |
 | bip_39_word_space_7 | chicken club jeans exhaust segment reflect fade |  
 | bip_39_word_space_8 | chicken club jeans exhaust segment reflect fade any |  
 | bip_39_word_space_9 | chicken club jeans exhaust segment reflect fade any hole |  
+| bip_39_word_underscore_1 | chicken |  
+| bip_39_word_underscore_10 | chicken_club_jeans_exhaust_segment_reflect_fade_any_hole_copy |  
+| bip_39_word_underscore_11 | chicken_club_jeans_exhaust_segment_reflect_fade_any_hole_copy_soul |  
+| bip_39_word_underscore_12 | chicken_club_jeans_exhaust_segment_reflect_fade_any_hole_copy_soul_amateur |  
+| bip_39_word_underscore_2 | chicken_club |  
+| bip_39_word_underscore_3 | chicken_club_jeans |  
+| bip_39_word_underscore_4 | chicken_club_jeans_exhaust |  
+| bip_39_word_underscore_5 | chicken_club_jeans_exhaust_segment |  
+| bip_39_word_underscore_6 | chicken_club_jeans_exhaust_segment_reflect |  
+| bip_39_word_underscore_7 | chicken_club_jeans_exhaust_segment_reflect_fade |  
+| bip_39_word_underscore_8 | chicken_club_jeans_exhaust_segment_reflect_fade_any |  
+| bip_39_word_underscore_9 | chicken_club_jeans_exhaust_segment_reflect_fade_any_hole |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

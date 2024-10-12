@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | way |  
+| bip_39_word_dash_10 | way-case-renew-utility-sniff-blossom-brief-want-tool-shove |  
+| bip_39_word_dash_11 | way-case-renew-utility-sniff-blossom-brief-want-tool-shove-farm |  
+| bip_39_word_dash_12 | way-case-renew-utility-sniff-blossom-brief-want-tool-shove-farm-ankle |  
+| bip_39_word_dash_2 | way-case |  
+| bip_39_word_dash_3 | way-case-renew |  
+| bip_39_word_dash_4 | way-case-renew-utility |  
+| bip_39_word_dash_5 | way-case-renew-utility-sniff |  
+| bip_39_word_dash_6 | way-case-renew-utility-sniff-blossom |  
+| bip_39_word_dash_7 | way-case-renew-utility-sniff-blossom-brief |  
+| bip_39_word_dash_8 | way-case-renew-utility-sniff-blossom-brief-want |  
+| bip_39_word_dash_9 | way-case-renew-utility-sniff-blossom-brief-want-tool |  
 | bip_39_word_new_br_1 | way |  
 | bip_39_word_new_br_10 | way<br>case<br>renew<br>utility<br>sniff<br>blossom<br>brief<br>want<br>tool<br>shove |  
 | bip_39_word_new_br_11 | way<br>case<br>renew<br>utility<br>sniff<br>blossom<br>brief<br>want<br>tool<br>shove<br>farm |  
@@ -147,6 +159,18 @@ tool |
 | bip_39_word_space_7 | way case renew utility sniff blossom brief |  
 | bip_39_word_space_8 | way case renew utility sniff blossom brief want |  
 | bip_39_word_space_9 | way case renew utility sniff blossom brief want tool |  
+| bip_39_word_underscore_1 | way |  
+| bip_39_word_underscore_10 | way_case_renew_utility_sniff_blossom_brief_want_tool_shove |  
+| bip_39_word_underscore_11 | way_case_renew_utility_sniff_blossom_brief_want_tool_shove_farm |  
+| bip_39_word_underscore_12 | way_case_renew_utility_sniff_blossom_brief_want_tool_shove_farm_ankle |  
+| bip_39_word_underscore_2 | way_case |  
+| bip_39_word_underscore_3 | way_case_renew |  
+| bip_39_word_underscore_4 | way_case_renew_utility |  
+| bip_39_word_underscore_5 | way_case_renew_utility_sniff |  
+| bip_39_word_underscore_6 | way_case_renew_utility_sniff_blossom |  
+| bip_39_word_underscore_7 | way_case_renew_utility_sniff_blossom_brief |  
+| bip_39_word_underscore_8 | way_case_renew_utility_sniff_blossom_brief_want |  
+| bip_39_word_underscore_9 | way_case_renew_utility_sniff_blossom_brief_want_tool |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

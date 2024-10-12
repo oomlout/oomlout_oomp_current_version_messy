@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burger |  
+| bip_39_word_dash_10 | burger-future-document-tuition-rent-weasel-excess-marble-tooth-sport |  
+| bip_39_word_dash_11 | burger-future-document-tuition-rent-weasel-excess-marble-tooth-sport-increase |  
+| bip_39_word_dash_12 | burger-future-document-tuition-rent-weasel-excess-marble-tooth-sport-increase-auction |  
+| bip_39_word_dash_2 | burger-future |  
+| bip_39_word_dash_3 | burger-future-document |  
+| bip_39_word_dash_4 | burger-future-document-tuition |  
+| bip_39_word_dash_5 | burger-future-document-tuition-rent |  
+| bip_39_word_dash_6 | burger-future-document-tuition-rent-weasel |  
+| bip_39_word_dash_7 | burger-future-document-tuition-rent-weasel-excess |  
+| bip_39_word_dash_8 | burger-future-document-tuition-rent-weasel-excess-marble |  
+| bip_39_word_dash_9 | burger-future-document-tuition-rent-weasel-excess-marble-tooth |  
 | bip_39_word_new_br_1 | burger |  
 | bip_39_word_new_br_10 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble<br>tooth<br>sport |  
 | bip_39_word_new_br_11 | burger<br>future<br>document<br>tuition<br>rent<br>weasel<br>excess<br>marble<br>tooth<br>sport<br>increase |  
@@ -147,6 +159,18 @@ tooth |
 | bip_39_word_space_7 | burger future document tuition rent weasel excess |  
 | bip_39_word_space_8 | burger future document tuition rent weasel excess marble |  
 | bip_39_word_space_9 | burger future document tuition rent weasel excess marble tooth |  
+| bip_39_word_underscore_1 | burger |  
+| bip_39_word_underscore_10 | burger_future_document_tuition_rent_weasel_excess_marble_tooth_sport |  
+| bip_39_word_underscore_11 | burger_future_document_tuition_rent_weasel_excess_marble_tooth_sport_increase |  
+| bip_39_word_underscore_12 | burger_future_document_tuition_rent_weasel_excess_marble_tooth_sport_increase_auction |  
+| bip_39_word_underscore_2 | burger_future |  
+| bip_39_word_underscore_3 | burger_future_document |  
+| bip_39_word_underscore_4 | burger_future_document_tuition |  
+| bip_39_word_underscore_5 | burger_future_document_tuition_rent |  
+| bip_39_word_underscore_6 | burger_future_document_tuition_rent_weasel |  
+| bip_39_word_underscore_7 | burger_future_document_tuition_rent_weasel_excess |  
+| bip_39_word_underscore_8 | burger_future_document_tuition_rent_weasel_excess_marble |  
+| bip_39_word_underscore_9 | burger_future_document_tuition_rent_weasel_excess_marble_tooth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

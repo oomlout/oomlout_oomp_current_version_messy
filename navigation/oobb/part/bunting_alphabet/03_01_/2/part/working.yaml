@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exchange
+bip_39_word_dash_10: exchange-plug-patrol-jeans-name-shift-private-abandon-explain-media
+bip_39_word_dash_11: exchange-plug-patrol-jeans-name-shift-private-abandon-explain-media-monkey
+bip_39_word_dash_12: exchange-plug-patrol-jeans-name-shift-private-abandon-explain-media-monkey-alpha
+bip_39_word_dash_2: exchange-plug
+bip_39_word_dash_3: exchange-plug-patrol
+bip_39_word_dash_4: exchange-plug-patrol-jeans
+bip_39_word_dash_5: exchange-plug-patrol-jeans-name
+bip_39_word_dash_6: exchange-plug-patrol-jeans-name-shift
+bip_39_word_dash_7: exchange-plug-patrol-jeans-name-shift-private
+bip_39_word_dash_8: exchange-plug-patrol-jeans-name-shift-private-abandon
+bip_39_word_dash_9: exchange-plug-patrol-jeans-name-shift-private-abandon-explain
 bip_39_word_new_br_1: exchange
 bip_39_word_new_br_10: exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media
 bip_39_word_new_br_11: exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media<br>monkey
@@ -194,6 +206,18 @@ bip_39_word_space_6: exchange plug patrol jeans name shift
 bip_39_word_space_7: exchange plug patrol jeans name shift private
 bip_39_word_space_8: exchange plug patrol jeans name shift private abandon
 bip_39_word_space_9: exchange plug patrol jeans name shift private abandon explain
+bip_39_word_underscore_1: exchange
+bip_39_word_underscore_10: exchange_plug_patrol_jeans_name_shift_private_abandon_explain_media
+bip_39_word_underscore_11: exchange_plug_patrol_jeans_name_shift_private_abandon_explain_media_monkey
+bip_39_word_underscore_12: exchange_plug_patrol_jeans_name_shift_private_abandon_explain_media_monkey_alpha
+bip_39_word_underscore_2: exchange_plug
+bip_39_word_underscore_3: exchange_plug_patrol
+bip_39_word_underscore_4: exchange_plug_patrol_jeans
+bip_39_word_underscore_5: exchange_plug_patrol_jeans_name
+bip_39_word_underscore_6: exchange_plug_patrol_jeans_name_shift
+bip_39_word_underscore_7: exchange_plug_patrol_jeans_name_shift_private
+bip_39_word_underscore_8: exchange_plug_patrol_jeans_name_shift_private_abandon
+bip_39_word_underscore_9: exchange_plug_patrol_jeans_name_shift_private_abandon_explain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

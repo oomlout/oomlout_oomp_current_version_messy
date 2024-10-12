@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toast |  
+| bip_39_word_dash_10 | toast-pelican-leisure-warrior-brother-mention-wisdom-between-disease-mask |  
+| bip_39_word_dash_11 | toast-pelican-leisure-warrior-brother-mention-wisdom-between-disease-mask-lady |  
+| bip_39_word_dash_12 | toast-pelican-leisure-warrior-brother-mention-wisdom-between-disease-mask-lady-area |  
+| bip_39_word_dash_2 | toast-pelican |  
+| bip_39_word_dash_3 | toast-pelican-leisure |  
+| bip_39_word_dash_4 | toast-pelican-leisure-warrior |  
+| bip_39_word_dash_5 | toast-pelican-leisure-warrior-brother |  
+| bip_39_word_dash_6 | toast-pelican-leisure-warrior-brother-mention |  
+| bip_39_word_dash_7 | toast-pelican-leisure-warrior-brother-mention-wisdom |  
+| bip_39_word_dash_8 | toast-pelican-leisure-warrior-brother-mention-wisdom-between |  
+| bip_39_word_dash_9 | toast-pelican-leisure-warrior-brother-mention-wisdom-between-disease |  
 | bip_39_word_new_br_1 | toast |  
 | bip_39_word_new_br_10 | toast<br>pelican<br>leisure<br>warrior<br>brother<br>mention<br>wisdom<br>between<br>disease<br>mask |  
 | bip_39_word_new_br_11 | toast<br>pelican<br>leisure<br>warrior<br>brother<br>mention<br>wisdom<br>between<br>disease<br>mask<br>lady |  
@@ -147,6 +159,18 @@ disease |
 | bip_39_word_space_7 | toast pelican leisure warrior brother mention wisdom |  
 | bip_39_word_space_8 | toast pelican leisure warrior brother mention wisdom between |  
 | bip_39_word_space_9 | toast pelican leisure warrior brother mention wisdom between disease |  
+| bip_39_word_underscore_1 | toast |  
+| bip_39_word_underscore_10 | toast_pelican_leisure_warrior_brother_mention_wisdom_between_disease_mask |  
+| bip_39_word_underscore_11 | toast_pelican_leisure_warrior_brother_mention_wisdom_between_disease_mask_lady |  
+| bip_39_word_underscore_12 | toast_pelican_leisure_warrior_brother_mention_wisdom_between_disease_mask_lady_area |  
+| bip_39_word_underscore_2 | toast_pelican |  
+| bip_39_word_underscore_3 | toast_pelican_leisure |  
+| bip_39_word_underscore_4 | toast_pelican_leisure_warrior |  
+| bip_39_word_underscore_5 | toast_pelican_leisure_warrior_brother |  
+| bip_39_word_underscore_6 | toast_pelican_leisure_warrior_brother_mention |  
+| bip_39_word_underscore_7 | toast_pelican_leisure_warrior_brother_mention_wisdom |  
+| bip_39_word_underscore_8 | toast_pelican_leisure_warrior_brother_mention_wisdom_between |  
+| bip_39_word_underscore_9 | toast_pelican_leisure_warrior_brother_mention_wisdom_between_disease |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

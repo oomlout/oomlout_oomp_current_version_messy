@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | naive |  
+| bip_39_word_dash_10 | naive-bone-sister-pool-good-vehicle-pitch-body-deposit-wasp |  
+| bip_39_word_dash_11 | naive-bone-sister-pool-good-vehicle-pitch-body-deposit-wasp-daughter |  
+| bip_39_word_dash_12 | naive-bone-sister-pool-good-vehicle-pitch-body-deposit-wasp-daughter-alone |  
+| bip_39_word_dash_2 | naive-bone |  
+| bip_39_word_dash_3 | naive-bone-sister |  
+| bip_39_word_dash_4 | naive-bone-sister-pool |  
+| bip_39_word_dash_5 | naive-bone-sister-pool-good |  
+| bip_39_word_dash_6 | naive-bone-sister-pool-good-vehicle |  
+| bip_39_word_dash_7 | naive-bone-sister-pool-good-vehicle-pitch |  
+| bip_39_word_dash_8 | naive-bone-sister-pool-good-vehicle-pitch-body |  
+| bip_39_word_dash_9 | naive-bone-sister-pool-good-vehicle-pitch-body-deposit |  
 | bip_39_word_new_br_1 | naive |  
 | bip_39_word_new_br_10 | naive<br>bone<br>sister<br>pool<br>good<br>vehicle<br>pitch<br>body<br>deposit<br>wasp |  
 | bip_39_word_new_br_11 | naive<br>bone<br>sister<br>pool<br>good<br>vehicle<br>pitch<br>body<br>deposit<br>wasp<br>daughter |  
@@ -147,6 +159,18 @@ deposit |
 | bip_39_word_space_7 | naive bone sister pool good vehicle pitch |  
 | bip_39_word_space_8 | naive bone sister pool good vehicle pitch body |  
 | bip_39_word_space_9 | naive bone sister pool good vehicle pitch body deposit |  
+| bip_39_word_underscore_1 | naive |  
+| bip_39_word_underscore_10 | naive_bone_sister_pool_good_vehicle_pitch_body_deposit_wasp |  
+| bip_39_word_underscore_11 | naive_bone_sister_pool_good_vehicle_pitch_body_deposit_wasp_daughter |  
+| bip_39_word_underscore_12 | naive_bone_sister_pool_good_vehicle_pitch_body_deposit_wasp_daughter_alone |  
+| bip_39_word_underscore_2 | naive_bone |  
+| bip_39_word_underscore_3 | naive_bone_sister |  
+| bip_39_word_underscore_4 | naive_bone_sister_pool |  
+| bip_39_word_underscore_5 | naive_bone_sister_pool_good |  
+| bip_39_word_underscore_6 | naive_bone_sister_pool_good_vehicle |  
+| bip_39_word_underscore_7 | naive_bone_sister_pool_good_vehicle_pitch |  
+| bip_39_word_underscore_8 | naive_bone_sister_pool_good_vehicle_pitch_body |  
+| bip_39_word_underscore_9 | naive_bone_sister_pool_good_vehicle_pitch_body_deposit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

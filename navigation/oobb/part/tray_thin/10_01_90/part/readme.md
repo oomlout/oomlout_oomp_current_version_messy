@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | public |  
+| bip_39_word_dash_10 | public-indoor-awesome-vibrant-evolve-oppose-such-lunch-also-remain |  
+| bip_39_word_dash_11 | public-indoor-awesome-vibrant-evolve-oppose-such-lunch-also-remain-surface |  
+| bip_39_word_dash_12 | public-indoor-awesome-vibrant-evolve-oppose-such-lunch-also-remain-surface-asthma |  
+| bip_39_word_dash_2 | public-indoor |  
+| bip_39_word_dash_3 | public-indoor-awesome |  
+| bip_39_word_dash_4 | public-indoor-awesome-vibrant |  
+| bip_39_word_dash_5 | public-indoor-awesome-vibrant-evolve |  
+| bip_39_word_dash_6 | public-indoor-awesome-vibrant-evolve-oppose |  
+| bip_39_word_dash_7 | public-indoor-awesome-vibrant-evolve-oppose-such |  
+| bip_39_word_dash_8 | public-indoor-awesome-vibrant-evolve-oppose-such-lunch |  
+| bip_39_word_dash_9 | public-indoor-awesome-vibrant-evolve-oppose-such-lunch-also |  
 | bip_39_word_new_br_1 | public |  
 | bip_39_word_new_br_10 | public<br>indoor<br>awesome<br>vibrant<br>evolve<br>oppose<br>such<br>lunch<br>also<br>remain |  
 | bip_39_word_new_br_11 | public<br>indoor<br>awesome<br>vibrant<br>evolve<br>oppose<br>such<br>lunch<br>also<br>remain<br>surface |  
@@ -147,6 +159,18 @@ also |
 | bip_39_word_space_7 | public indoor awesome vibrant evolve oppose such |  
 | bip_39_word_space_8 | public indoor awesome vibrant evolve oppose such lunch |  
 | bip_39_word_space_9 | public indoor awesome vibrant evolve oppose such lunch also |  
+| bip_39_word_underscore_1 | public |  
+| bip_39_word_underscore_10 | public_indoor_awesome_vibrant_evolve_oppose_such_lunch_also_remain |  
+| bip_39_word_underscore_11 | public_indoor_awesome_vibrant_evolve_oppose_such_lunch_also_remain_surface |  
+| bip_39_word_underscore_12 | public_indoor_awesome_vibrant_evolve_oppose_such_lunch_also_remain_surface_asthma |  
+| bip_39_word_underscore_2 | public_indoor |  
+| bip_39_word_underscore_3 | public_indoor_awesome |  
+| bip_39_word_underscore_4 | public_indoor_awesome_vibrant |  
+| bip_39_word_underscore_5 | public_indoor_awesome_vibrant_evolve |  
+| bip_39_word_underscore_6 | public_indoor_awesome_vibrant_evolve_oppose |  
+| bip_39_word_underscore_7 | public_indoor_awesome_vibrant_evolve_oppose_such |  
+| bip_39_word_underscore_8 | public_indoor_awesome_vibrant_evolve_oppose_such_lunch |  
+| bip_39_word_underscore_9 | public_indoor_awesome_vibrant_evolve_oppose_such_lunch_also |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | approve |  
+| bip_39_word_dash_10 | approve-culture-coral-tooth-pelican-unveil-pig-knock-bracket-ride |  
+| bip_39_word_dash_11 | approve-culture-coral-tooth-pelican-unveil-pig-knock-bracket-ride-bomb |  
+| bip_39_word_dash_12 | approve-culture-coral-tooth-pelican-unveil-pig-knock-bracket-ride-bomb-always |  
+| bip_39_word_dash_2 | approve-culture |  
+| bip_39_word_dash_3 | approve-culture-coral |  
+| bip_39_word_dash_4 | approve-culture-coral-tooth |  
+| bip_39_word_dash_5 | approve-culture-coral-tooth-pelican |  
+| bip_39_word_dash_6 | approve-culture-coral-tooth-pelican-unveil |  
+| bip_39_word_dash_7 | approve-culture-coral-tooth-pelican-unveil-pig |  
+| bip_39_word_dash_8 | approve-culture-coral-tooth-pelican-unveil-pig-knock |  
+| bip_39_word_dash_9 | approve-culture-coral-tooth-pelican-unveil-pig-knock-bracket |  
 | bip_39_word_new_br_1 | approve |  
 | bip_39_word_new_br_10 | approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock<br>bracket<br>ride |  
 | bip_39_word_new_br_11 | approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock<br>bracket<br>ride<br>bomb |  
@@ -147,6 +159,18 @@ bracket |
 | bip_39_word_space_7 | approve culture coral tooth pelican unveil pig |  
 | bip_39_word_space_8 | approve culture coral tooth pelican unveil pig knock |  
 | bip_39_word_space_9 | approve culture coral tooth pelican unveil pig knock bracket |  
+| bip_39_word_underscore_1 | approve |  
+| bip_39_word_underscore_10 | approve_culture_coral_tooth_pelican_unveil_pig_knock_bracket_ride |  
+| bip_39_word_underscore_11 | approve_culture_coral_tooth_pelican_unveil_pig_knock_bracket_ride_bomb |  
+| bip_39_word_underscore_12 | approve_culture_coral_tooth_pelican_unveil_pig_knock_bracket_ride_bomb_always |  
+| bip_39_word_underscore_2 | approve_culture |  
+| bip_39_word_underscore_3 | approve_culture_coral |  
+| bip_39_word_underscore_4 | approve_culture_coral_tooth |  
+| bip_39_word_underscore_5 | approve_culture_coral_tooth_pelican |  
+| bip_39_word_underscore_6 | approve_culture_coral_tooth_pelican_unveil |  
+| bip_39_word_underscore_7 | approve_culture_coral_tooth_pelican_unveil_pig |  
+| bip_39_word_underscore_8 | approve_culture_coral_tooth_pelican_unveil_pig_knock |  
+| bip_39_word_underscore_9 | approve_culture_coral_tooth_pelican_unveil_pig_knock_bracket |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

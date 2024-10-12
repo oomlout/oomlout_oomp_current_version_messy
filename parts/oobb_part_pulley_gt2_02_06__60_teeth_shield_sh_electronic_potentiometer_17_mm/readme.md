@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fetch |  
+| bip_39_word_dash_10 | fetch-entire-seek-pass-labor-stone-scissors-behave-price-work |  
+| bip_39_word_dash_11 | fetch-entire-seek-pass-labor-stone-scissors-behave-price-work-ugly |  
+| bip_39_word_dash_12 | fetch-entire-seek-pass-labor-stone-scissors-behave-price-work-ugly-alert |  
+| bip_39_word_dash_2 | fetch-entire |  
+| bip_39_word_dash_3 | fetch-entire-seek |  
+| bip_39_word_dash_4 | fetch-entire-seek-pass |  
+| bip_39_word_dash_5 | fetch-entire-seek-pass-labor |  
+| bip_39_word_dash_6 | fetch-entire-seek-pass-labor-stone |  
+| bip_39_word_dash_7 | fetch-entire-seek-pass-labor-stone-scissors |  
+| bip_39_word_dash_8 | fetch-entire-seek-pass-labor-stone-scissors-behave |  
+| bip_39_word_dash_9 | fetch-entire-seek-pass-labor-stone-scissors-behave-price |  
 | bip_39_word_new_br_1 | fetch |  
 | bip_39_word_new_br_10 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave<br>price<br>work |  
 | bip_39_word_new_br_11 | fetch<br>entire<br>seek<br>pass<br>labor<br>stone<br>scissors<br>behave<br>price<br>work<br>ugly |  
@@ -147,6 +159,18 @@ price |
 | bip_39_word_space_7 | fetch entire seek pass labor stone scissors |  
 | bip_39_word_space_8 | fetch entire seek pass labor stone scissors behave |  
 | bip_39_word_space_9 | fetch entire seek pass labor stone scissors behave price |  
+| bip_39_word_underscore_1 | fetch |  
+| bip_39_word_underscore_10 | fetch_entire_seek_pass_labor_stone_scissors_behave_price_work |  
+| bip_39_word_underscore_11 | fetch_entire_seek_pass_labor_stone_scissors_behave_price_work_ugly |  
+| bip_39_word_underscore_12 | fetch_entire_seek_pass_labor_stone_scissors_behave_price_work_ugly_alert |  
+| bip_39_word_underscore_2 | fetch_entire |  
+| bip_39_word_underscore_3 | fetch_entire_seek |  
+| bip_39_word_underscore_4 | fetch_entire_seek_pass |  
+| bip_39_word_underscore_5 | fetch_entire_seek_pass_labor |  
+| bip_39_word_underscore_6 | fetch_entire_seek_pass_labor_stone |  
+| bip_39_word_underscore_7 | fetch_entire_seek_pass_labor_stone_scissors |  
+| bip_39_word_underscore_8 | fetch_entire_seek_pass_labor_stone_scissors_behave |  
+| bip_39_word_underscore_9 | fetch_entire_seek_pass_labor_stone_scissors_behave_price |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

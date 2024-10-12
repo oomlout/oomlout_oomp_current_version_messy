@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | maple |  
+| bip_39_word_dash_10 | maple-later-mix-timber-vacuum-brisk-hotel-sport-accuse-side |  
+| bip_39_word_dash_11 | maple-later-mix-timber-vacuum-brisk-hotel-sport-accuse-side-broccoli |  
+| bip_39_word_dash_12 | maple-later-mix-timber-vacuum-brisk-hotel-sport-accuse-side-broccoli-arctic |  
+| bip_39_word_dash_2 | maple-later |  
+| bip_39_word_dash_3 | maple-later-mix |  
+| bip_39_word_dash_4 | maple-later-mix-timber |  
+| bip_39_word_dash_5 | maple-later-mix-timber-vacuum |  
+| bip_39_word_dash_6 | maple-later-mix-timber-vacuum-brisk |  
+| bip_39_word_dash_7 | maple-later-mix-timber-vacuum-brisk-hotel |  
+| bip_39_word_dash_8 | maple-later-mix-timber-vacuum-brisk-hotel-sport |  
+| bip_39_word_dash_9 | maple-later-mix-timber-vacuum-brisk-hotel-sport-accuse |  
 | bip_39_word_new_br_1 | maple |  
 | bip_39_word_new_br_10 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport<br>accuse<br>side |  
 | bip_39_word_new_br_11 | maple<br>later<br>mix<br>timber<br>vacuum<br>brisk<br>hotel<br>sport<br>accuse<br>side<br>broccoli |  
@@ -147,6 +159,18 @@ accuse |
 | bip_39_word_space_7 | maple later mix timber vacuum brisk hotel |  
 | bip_39_word_space_8 | maple later mix timber vacuum brisk hotel sport |  
 | bip_39_word_space_9 | maple later mix timber vacuum brisk hotel sport accuse |  
+| bip_39_word_underscore_1 | maple |  
+| bip_39_word_underscore_10 | maple_later_mix_timber_vacuum_brisk_hotel_sport_accuse_side |  
+| bip_39_word_underscore_11 | maple_later_mix_timber_vacuum_brisk_hotel_sport_accuse_side_broccoli |  
+| bip_39_word_underscore_12 | maple_later_mix_timber_vacuum_brisk_hotel_sport_accuse_side_broccoli_arctic |  
+| bip_39_word_underscore_2 | maple_later |  
+| bip_39_word_underscore_3 | maple_later_mix |  
+| bip_39_word_underscore_4 | maple_later_mix_timber |  
+| bip_39_word_underscore_5 | maple_later_mix_timber_vacuum |  
+| bip_39_word_underscore_6 | maple_later_mix_timber_vacuum_brisk |  
+| bip_39_word_underscore_7 | maple_later_mix_timber_vacuum_brisk_hotel |  
+| bip_39_word_underscore_8 | maple_later_mix_timber_vacuum_brisk_hotel_sport |  
+| bip_39_word_underscore_9 | maple_later_mix_timber_vacuum_brisk_hotel_sport_accuse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

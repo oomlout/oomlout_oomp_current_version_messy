@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wage
+bip_39_word_dash_10: wage-away-also-mother-silver-craft-city-coconut-better-broccoli
+bip_39_word_dash_11: wage-away-also-mother-silver-craft-city-coconut-better-broccoli-clinic
+bip_39_word_dash_12: wage-away-also-mother-silver-craft-city-coconut-better-broccoli-clinic-acquire
+bip_39_word_dash_2: wage-away
+bip_39_word_dash_3: wage-away-also
+bip_39_word_dash_4: wage-away-also-mother
+bip_39_word_dash_5: wage-away-also-mother-silver
+bip_39_word_dash_6: wage-away-also-mother-silver-craft
+bip_39_word_dash_7: wage-away-also-mother-silver-craft-city
+bip_39_word_dash_8: wage-away-also-mother-silver-craft-city-coconut
+bip_39_word_dash_9: wage-away-also-mother-silver-craft-city-coconut-better
 bip_39_word_new_br_1: wage
 bip_39_word_new_br_10: wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli
 bip_39_word_new_br_11: wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli<br>clinic
@@ -193,6 +205,18 @@ bip_39_word_space_6: wage away also mother silver craft
 bip_39_word_space_7: wage away also mother silver craft city
 bip_39_word_space_8: wage away also mother silver craft city coconut
 bip_39_word_space_9: wage away also mother silver craft city coconut better
+bip_39_word_underscore_1: wage
+bip_39_word_underscore_10: wage_away_also_mother_silver_craft_city_coconut_better_broccoli
+bip_39_word_underscore_11: wage_away_also_mother_silver_craft_city_coconut_better_broccoli_clinic
+bip_39_word_underscore_12: wage_away_also_mother_silver_craft_city_coconut_better_broccoli_clinic_acquire
+bip_39_word_underscore_2: wage_away
+bip_39_word_underscore_3: wage_away_also
+bip_39_word_underscore_4: wage_away_also_mother
+bip_39_word_underscore_5: wage_away_also_mother_silver
+bip_39_word_underscore_6: wage_away_also_mother_silver_craft
+bip_39_word_underscore_7: wage_away_also_mother_silver_craft_city
+bip_39_word_underscore_8: wage_away_also_mother_silver_craft_city_coconut
+bip_39_word_underscore_9: wage_away_also_mother_silver_craft_city_coconut_better
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

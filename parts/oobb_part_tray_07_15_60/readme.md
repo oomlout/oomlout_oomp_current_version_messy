@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ecology |  
+| bip_39_word_dash_10 | ecology-hen-romance-limb-bright-oven-away-correct-cliff-word |  
+| bip_39_word_dash_11 | ecology-hen-romance-limb-bright-oven-away-correct-cliff-word-tissue |  
+| bip_39_word_dash_12 | ecology-hen-romance-limb-bright-oven-away-correct-cliff-word-tissue-again |  
+| bip_39_word_dash_2 | ecology-hen |  
+| bip_39_word_dash_3 | ecology-hen-romance |  
+| bip_39_word_dash_4 | ecology-hen-romance-limb |  
+| bip_39_word_dash_5 | ecology-hen-romance-limb-bright |  
+| bip_39_word_dash_6 | ecology-hen-romance-limb-bright-oven |  
+| bip_39_word_dash_7 | ecology-hen-romance-limb-bright-oven-away |  
+| bip_39_word_dash_8 | ecology-hen-romance-limb-bright-oven-away-correct |  
+| bip_39_word_dash_9 | ecology-hen-romance-limb-bright-oven-away-correct-cliff |  
 | bip_39_word_new_br_1 | ecology |  
 | bip_39_word_new_br_10 | ecology<br>hen<br>romance<br>limb<br>bright<br>oven<br>away<br>correct<br>cliff<br>word |  
 | bip_39_word_new_br_11 | ecology<br>hen<br>romance<br>limb<br>bright<br>oven<br>away<br>correct<br>cliff<br>word<br>tissue |  
@@ -147,6 +159,18 @@ cliff |
 | bip_39_word_space_7 | ecology hen romance limb bright oven away |  
 | bip_39_word_space_8 | ecology hen romance limb bright oven away correct |  
 | bip_39_word_space_9 | ecology hen romance limb bright oven away correct cliff |  
+| bip_39_word_underscore_1 | ecology |  
+| bip_39_word_underscore_10 | ecology_hen_romance_limb_bright_oven_away_correct_cliff_word |  
+| bip_39_word_underscore_11 | ecology_hen_romance_limb_bright_oven_away_correct_cliff_word_tissue |  
+| bip_39_word_underscore_12 | ecology_hen_romance_limb_bright_oven_away_correct_cliff_word_tissue_again |  
+| bip_39_word_underscore_2 | ecology_hen |  
+| bip_39_word_underscore_3 | ecology_hen_romance |  
+| bip_39_word_underscore_4 | ecology_hen_romance_limb |  
+| bip_39_word_underscore_5 | ecology_hen_romance_limb_bright |  
+| bip_39_word_underscore_6 | ecology_hen_romance_limb_bright_oven |  
+| bip_39_word_underscore_7 | ecology_hen_romance_limb_bright_oven_away |  
+| bip_39_word_underscore_8 | ecology_hen_romance_limb_bright_oven_away_correct |  
+| bip_39_word_underscore_9 | ecology_hen_romance_limb_bright_oven_away_correct_cliff |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

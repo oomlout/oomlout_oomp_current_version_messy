@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | earth |  
+| bip_39_word_dash_10 | earth-equal-viable-believe-alcohol-suffer-acquire-since-dumb-brand |  
+| bip_39_word_dash_11 | earth-equal-viable-believe-alcohol-suffer-acquire-since-dumb-brand-blur |  
+| bip_39_word_dash_12 | earth-equal-viable-believe-alcohol-suffer-acquire-since-dumb-brand-blur-always |  
+| bip_39_word_dash_2 | earth-equal |  
+| bip_39_word_dash_3 | earth-equal-viable |  
+| bip_39_word_dash_4 | earth-equal-viable-believe |  
+| bip_39_word_dash_5 | earth-equal-viable-believe-alcohol |  
+| bip_39_word_dash_6 | earth-equal-viable-believe-alcohol-suffer |  
+| bip_39_word_dash_7 | earth-equal-viable-believe-alcohol-suffer-acquire |  
+| bip_39_word_dash_8 | earth-equal-viable-believe-alcohol-suffer-acquire-since |  
+| bip_39_word_dash_9 | earth-equal-viable-believe-alcohol-suffer-acquire-since-dumb |  
 | bip_39_word_new_br_1 | earth |  
 | bip_39_word_new_br_10 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since<br>dumb<br>brand |  
 | bip_39_word_new_br_11 | earth<br>equal<br>viable<br>believe<br>alcohol<br>suffer<br>acquire<br>since<br>dumb<br>brand<br>blur |  
@@ -147,6 +159,18 @@ dumb |
 | bip_39_word_space_7 | earth equal viable believe alcohol suffer acquire |  
 | bip_39_word_space_8 | earth equal viable believe alcohol suffer acquire since |  
 | bip_39_word_space_9 | earth equal viable believe alcohol suffer acquire since dumb |  
+| bip_39_word_underscore_1 | earth |  
+| bip_39_word_underscore_10 | earth_equal_viable_believe_alcohol_suffer_acquire_since_dumb_brand |  
+| bip_39_word_underscore_11 | earth_equal_viable_believe_alcohol_suffer_acquire_since_dumb_brand_blur |  
+| bip_39_word_underscore_12 | earth_equal_viable_believe_alcohol_suffer_acquire_since_dumb_brand_blur_always |  
+| bip_39_word_underscore_2 | earth_equal |  
+| bip_39_word_underscore_3 | earth_equal_viable |  
+| bip_39_word_underscore_4 | earth_equal_viable_believe |  
+| bip_39_word_underscore_5 | earth_equal_viable_believe_alcohol |  
+| bip_39_word_underscore_6 | earth_equal_viable_believe_alcohol_suffer |  
+| bip_39_word_underscore_7 | earth_equal_viable_believe_alcohol_suffer_acquire |  
+| bip_39_word_underscore_8 | earth_equal_viable_believe_alcohol_suffer_acquire_since |  
+| bip_39_word_underscore_9 | earth_equal_viable_believe_alcohol_suffer_acquire_since_dumb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

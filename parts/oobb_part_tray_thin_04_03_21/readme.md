@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | insane |  
+| bip_39_word_dash_10 | insane-dwarf-success-essay-peasant-edge-barrel-record-salt-require |  
+| bip_39_word_dash_11 | insane-dwarf-success-essay-peasant-edge-barrel-record-salt-require-sunny |  
+| bip_39_word_dash_12 | insane-dwarf-success-essay-peasant-edge-barrel-record-salt-require-sunny-alert |  
+| bip_39_word_dash_2 | insane-dwarf |  
+| bip_39_word_dash_3 | insane-dwarf-success |  
+| bip_39_word_dash_4 | insane-dwarf-success-essay |  
+| bip_39_word_dash_5 | insane-dwarf-success-essay-peasant |  
+| bip_39_word_dash_6 | insane-dwarf-success-essay-peasant-edge |  
+| bip_39_word_dash_7 | insane-dwarf-success-essay-peasant-edge-barrel |  
+| bip_39_word_dash_8 | insane-dwarf-success-essay-peasant-edge-barrel-record |  
+| bip_39_word_dash_9 | insane-dwarf-success-essay-peasant-edge-barrel-record-salt |  
 | bip_39_word_new_br_1 | insane |  
 | bip_39_word_new_br_10 | insane<br>dwarf<br>success<br>essay<br>peasant<br>edge<br>barrel<br>record<br>salt<br>require |  
 | bip_39_word_new_br_11 | insane<br>dwarf<br>success<br>essay<br>peasant<br>edge<br>barrel<br>record<br>salt<br>require<br>sunny |  
@@ -147,6 +159,18 @@ salt |
 | bip_39_word_space_7 | insane dwarf success essay peasant edge barrel |  
 | bip_39_word_space_8 | insane dwarf success essay peasant edge barrel record |  
 | bip_39_word_space_9 | insane dwarf success essay peasant edge barrel record salt |  
+| bip_39_word_underscore_1 | insane |  
+| bip_39_word_underscore_10 | insane_dwarf_success_essay_peasant_edge_barrel_record_salt_require |  
+| bip_39_word_underscore_11 | insane_dwarf_success_essay_peasant_edge_barrel_record_salt_require_sunny |  
+| bip_39_word_underscore_12 | insane_dwarf_success_essay_peasant_edge_barrel_record_salt_require_sunny_alert |  
+| bip_39_word_underscore_2 | insane_dwarf |  
+| bip_39_word_underscore_3 | insane_dwarf_success |  
+| bip_39_word_underscore_4 | insane_dwarf_success_essay |  
+| bip_39_word_underscore_5 | insane_dwarf_success_essay_peasant |  
+| bip_39_word_underscore_6 | insane_dwarf_success_essay_peasant_edge |  
+| bip_39_word_underscore_7 | insane_dwarf_success_essay_peasant_edge_barrel |  
+| bip_39_word_underscore_8 | insane_dwarf_success_essay_peasant_edge_barrel_record |  
+| bip_39_word_underscore_9 | insane_dwarf_success_essay_peasant_edge_barrel_record_salt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

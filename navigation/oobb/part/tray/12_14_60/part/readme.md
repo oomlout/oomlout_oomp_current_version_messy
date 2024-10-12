@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | process |  
+| bip_39_word_dash_10 | process-furnace-slight-measure-ethics-patient-top-direct-present-hammer |  
+| bip_39_word_dash_11 | process-furnace-slight-measure-ethics-patient-top-direct-present-hammer-brief |  
+| bip_39_word_dash_12 | process-furnace-slight-measure-ethics-patient-top-direct-present-hammer-brief-amused |  
+| bip_39_word_dash_2 | process-furnace |  
+| bip_39_word_dash_3 | process-furnace-slight |  
+| bip_39_word_dash_4 | process-furnace-slight-measure |  
+| bip_39_word_dash_5 | process-furnace-slight-measure-ethics |  
+| bip_39_word_dash_6 | process-furnace-slight-measure-ethics-patient |  
+| bip_39_word_dash_7 | process-furnace-slight-measure-ethics-patient-top |  
+| bip_39_word_dash_8 | process-furnace-slight-measure-ethics-patient-top-direct |  
+| bip_39_word_dash_9 | process-furnace-slight-measure-ethics-patient-top-direct-present |  
 | bip_39_word_new_br_1 | process |  
 | bip_39_word_new_br_10 | process<br>furnace<br>slight<br>measure<br>ethics<br>patient<br>top<br>direct<br>present<br>hammer |  
 | bip_39_word_new_br_11 | process<br>furnace<br>slight<br>measure<br>ethics<br>patient<br>top<br>direct<br>present<br>hammer<br>brief |  
@@ -147,6 +159,18 @@ present |
 | bip_39_word_space_7 | process furnace slight measure ethics patient top |  
 | bip_39_word_space_8 | process furnace slight measure ethics patient top direct |  
 | bip_39_word_space_9 | process furnace slight measure ethics patient top direct present |  
+| bip_39_word_underscore_1 | process |  
+| bip_39_word_underscore_10 | process_furnace_slight_measure_ethics_patient_top_direct_present_hammer |  
+| bip_39_word_underscore_11 | process_furnace_slight_measure_ethics_patient_top_direct_present_hammer_brief |  
+| bip_39_word_underscore_12 | process_furnace_slight_measure_ethics_patient_top_direct_present_hammer_brief_amused |  
+| bip_39_word_underscore_2 | process_furnace |  
+| bip_39_word_underscore_3 | process_furnace_slight |  
+| bip_39_word_underscore_4 | process_furnace_slight_measure |  
+| bip_39_word_underscore_5 | process_furnace_slight_measure_ethics |  
+| bip_39_word_underscore_6 | process_furnace_slight_measure_ethics_patient |  
+| bip_39_word_underscore_7 | process_furnace_slight_measure_ethics_patient_top |  
+| bip_39_word_underscore_8 | process_furnace_slight_measure_ethics_patient_top_direct |  
+| bip_39_word_underscore_9 | process_furnace_slight_measure_ethics_patient_top_direct_present |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

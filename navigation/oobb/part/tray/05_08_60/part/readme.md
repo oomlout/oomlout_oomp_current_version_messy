@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | entry |  
+| bip_39_word_dash_10 | entry-height-ghost-boss-object-scrub-meat-assault-report-fee |  
+| bip_39_word_dash_11 | entry-height-ghost-boss-object-scrub-meat-assault-report-fee-viable |  
+| bip_39_word_dash_12 | entry-height-ghost-boss-object-scrub-meat-assault-report-fee-viable-asthma |  
+| bip_39_word_dash_2 | entry-height |  
+| bip_39_word_dash_3 | entry-height-ghost |  
+| bip_39_word_dash_4 | entry-height-ghost-boss |  
+| bip_39_word_dash_5 | entry-height-ghost-boss-object |  
+| bip_39_word_dash_6 | entry-height-ghost-boss-object-scrub |  
+| bip_39_word_dash_7 | entry-height-ghost-boss-object-scrub-meat |  
+| bip_39_word_dash_8 | entry-height-ghost-boss-object-scrub-meat-assault |  
+| bip_39_word_dash_9 | entry-height-ghost-boss-object-scrub-meat-assault-report |  
 | bip_39_word_new_br_1 | entry |  
 | bip_39_word_new_br_10 | entry<br>height<br>ghost<br>boss<br>object<br>scrub<br>meat<br>assault<br>report<br>fee |  
 | bip_39_word_new_br_11 | entry<br>height<br>ghost<br>boss<br>object<br>scrub<br>meat<br>assault<br>report<br>fee<br>viable |  
@@ -147,6 +159,18 @@ report |
 | bip_39_word_space_7 | entry height ghost boss object scrub meat |  
 | bip_39_word_space_8 | entry height ghost boss object scrub meat assault |  
 | bip_39_word_space_9 | entry height ghost boss object scrub meat assault report |  
+| bip_39_word_underscore_1 | entry |  
+| bip_39_word_underscore_10 | entry_height_ghost_boss_object_scrub_meat_assault_report_fee |  
+| bip_39_word_underscore_11 | entry_height_ghost_boss_object_scrub_meat_assault_report_fee_viable |  
+| bip_39_word_underscore_12 | entry_height_ghost_boss_object_scrub_meat_assault_report_fee_viable_asthma |  
+| bip_39_word_underscore_2 | entry_height |  
+| bip_39_word_underscore_3 | entry_height_ghost |  
+| bip_39_word_underscore_4 | entry_height_ghost_boss |  
+| bip_39_word_underscore_5 | entry_height_ghost_boss_object |  
+| bip_39_word_underscore_6 | entry_height_ghost_boss_object_scrub |  
+| bip_39_word_underscore_7 | entry_height_ghost_boss_object_scrub_meat |  
+| bip_39_word_underscore_8 | entry_height_ghost_boss_object_scrub_meat_assault |  
+| bip_39_word_underscore_9 | entry_height_ghost_boss_object_scrub_meat_assault_report |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

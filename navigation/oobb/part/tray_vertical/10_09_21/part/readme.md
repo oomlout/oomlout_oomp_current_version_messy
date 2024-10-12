@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | meadow |  
+| bip_39_word_dash_10 | meadow-humble-diamond-dentist-stadium-gravity-hour-day-pill-mother |  
+| bip_39_word_dash_11 | meadow-humble-diamond-dentist-stadium-gravity-hour-day-pill-mother-burger |  
+| bip_39_word_dash_12 | meadow-humble-diamond-dentist-stadium-gravity-hour-day-pill-mother-burger-author |  
+| bip_39_word_dash_2 | meadow-humble |  
+| bip_39_word_dash_3 | meadow-humble-diamond |  
+| bip_39_word_dash_4 | meadow-humble-diamond-dentist |  
+| bip_39_word_dash_5 | meadow-humble-diamond-dentist-stadium |  
+| bip_39_word_dash_6 | meadow-humble-diamond-dentist-stadium-gravity |  
+| bip_39_word_dash_7 | meadow-humble-diamond-dentist-stadium-gravity-hour |  
+| bip_39_word_dash_8 | meadow-humble-diamond-dentist-stadium-gravity-hour-day |  
+| bip_39_word_dash_9 | meadow-humble-diamond-dentist-stadium-gravity-hour-day-pill |  
 | bip_39_word_new_br_1 | meadow |  
 | bip_39_word_new_br_10 | meadow<br>humble<br>diamond<br>dentist<br>stadium<br>gravity<br>hour<br>day<br>pill<br>mother |  
 | bip_39_word_new_br_11 | meadow<br>humble<br>diamond<br>dentist<br>stadium<br>gravity<br>hour<br>day<br>pill<br>mother<br>burger |  
@@ -147,6 +159,18 @@ pill |
 | bip_39_word_space_7 | meadow humble diamond dentist stadium gravity hour |  
 | bip_39_word_space_8 | meadow humble diamond dentist stadium gravity hour day |  
 | bip_39_word_space_9 | meadow humble diamond dentist stadium gravity hour day pill |  
+| bip_39_word_underscore_1 | meadow |  
+| bip_39_word_underscore_10 | meadow_humble_diamond_dentist_stadium_gravity_hour_day_pill_mother |  
+| bip_39_word_underscore_11 | meadow_humble_diamond_dentist_stadium_gravity_hour_day_pill_mother_burger |  
+| bip_39_word_underscore_12 | meadow_humble_diamond_dentist_stadium_gravity_hour_day_pill_mother_burger_author |  
+| bip_39_word_underscore_2 | meadow_humble |  
+| bip_39_word_underscore_3 | meadow_humble_diamond |  
+| bip_39_word_underscore_4 | meadow_humble_diamond_dentist |  
+| bip_39_word_underscore_5 | meadow_humble_diamond_dentist_stadium |  
+| bip_39_word_underscore_6 | meadow_humble_diamond_dentist_stadium_gravity |  
+| bip_39_word_underscore_7 | meadow_humble_diamond_dentist_stadium_gravity_hour |  
+| bip_39_word_underscore_8 | meadow_humble_diamond_dentist_stadium_gravity_hour_day |  
+| bip_39_word_underscore_9 | meadow_humble_diamond_dentist_stadium_gravity_hour_day_pill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

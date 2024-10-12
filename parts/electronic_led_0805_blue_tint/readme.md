@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | family |  
+| bip_39_word_dash_10 | family-jealous-seat-exhaust-general-history-guess-since-glory-minor |  
+| bip_39_word_dash_11 | family-jealous-seat-exhaust-general-history-guess-since-glory-minor-arrange |  
+| bip_39_word_dash_12 | family-jealous-seat-exhaust-general-history-guess-since-glory-minor-arrange-age |  
+| bip_39_word_dash_2 | family-jealous |  
+| bip_39_word_dash_3 | family-jealous-seat |  
+| bip_39_word_dash_4 | family-jealous-seat-exhaust |  
+| bip_39_word_dash_5 | family-jealous-seat-exhaust-general |  
+| bip_39_word_dash_6 | family-jealous-seat-exhaust-general-history |  
+| bip_39_word_dash_7 | family-jealous-seat-exhaust-general-history-guess |  
+| bip_39_word_dash_8 | family-jealous-seat-exhaust-general-history-guess-since |  
+| bip_39_word_dash_9 | family-jealous-seat-exhaust-general-history-guess-since-glory |  
 | bip_39_word_new_br_1 | family |  
 | bip_39_word_new_br_10 | family<br>jealous<br>seat<br>exhaust<br>general<br>history<br>guess<br>since<br>glory<br>minor |  
 | bip_39_word_new_br_11 | family<br>jealous<br>seat<br>exhaust<br>general<br>history<br>guess<br>since<br>glory<br>minor<br>arrange |  
@@ -147,6 +159,18 @@ glory |
 | bip_39_word_space_7 | family jealous seat exhaust general history guess |  
 | bip_39_word_space_8 | family jealous seat exhaust general history guess since |  
 | bip_39_word_space_9 | family jealous seat exhaust general history guess since glory |  
+| bip_39_word_underscore_1 | family |  
+| bip_39_word_underscore_10 | family_jealous_seat_exhaust_general_history_guess_since_glory_minor |  
+| bip_39_word_underscore_11 | family_jealous_seat_exhaust_general_history_guess_since_glory_minor_arrange |  
+| bip_39_word_underscore_12 | family_jealous_seat_exhaust_general_history_guess_since_glory_minor_arrange_age |  
+| bip_39_word_underscore_2 | family_jealous |  
+| bip_39_word_underscore_3 | family_jealous_seat |  
+| bip_39_word_underscore_4 | family_jealous_seat_exhaust |  
+| bip_39_word_underscore_5 | family_jealous_seat_exhaust_general |  
+| bip_39_word_underscore_6 | family_jealous_seat_exhaust_general_history |  
+| bip_39_word_underscore_7 | family_jealous_seat_exhaust_general_history_guess |  
+| bip_39_word_underscore_8 | family_jealous_seat_exhaust_general_history_guess_since |  
+| bip_39_word_underscore_9 | family_jealous_seat_exhaust_general_history_guess_since_glory |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vocal |  
+| bip_39_word_dash_10 | vocal-fantasy-slush-asthma-turn-layer-essay-popular-canal-float |  
+| bip_39_word_dash_11 | vocal-fantasy-slush-asthma-turn-layer-essay-popular-canal-float-cradle |  
+| bip_39_word_dash_12 | vocal-fantasy-slush-asthma-turn-layer-essay-popular-canal-float-cradle-advice |  
+| bip_39_word_dash_2 | vocal-fantasy |  
+| bip_39_word_dash_3 | vocal-fantasy-slush |  
+| bip_39_word_dash_4 | vocal-fantasy-slush-asthma |  
+| bip_39_word_dash_5 | vocal-fantasy-slush-asthma-turn |  
+| bip_39_word_dash_6 | vocal-fantasy-slush-asthma-turn-layer |  
+| bip_39_word_dash_7 | vocal-fantasy-slush-asthma-turn-layer-essay |  
+| bip_39_word_dash_8 | vocal-fantasy-slush-asthma-turn-layer-essay-popular |  
+| bip_39_word_dash_9 | vocal-fantasy-slush-asthma-turn-layer-essay-popular-canal |  
 | bip_39_word_new_br_1 | vocal |  
 | bip_39_word_new_br_10 | vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular<br>canal<br>float |  
 | bip_39_word_new_br_11 | vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular<br>canal<br>float<br>cradle |  
@@ -147,6 +159,18 @@ canal |
 | bip_39_word_space_7 | vocal fantasy slush asthma turn layer essay |  
 | bip_39_word_space_8 | vocal fantasy slush asthma turn layer essay popular |  
 | bip_39_word_space_9 | vocal fantasy slush asthma turn layer essay popular canal |  
+| bip_39_word_underscore_1 | vocal |  
+| bip_39_word_underscore_10 | vocal_fantasy_slush_asthma_turn_layer_essay_popular_canal_float |  
+| bip_39_word_underscore_11 | vocal_fantasy_slush_asthma_turn_layer_essay_popular_canal_float_cradle |  
+| bip_39_word_underscore_12 | vocal_fantasy_slush_asthma_turn_layer_essay_popular_canal_float_cradle_advice |  
+| bip_39_word_underscore_2 | vocal_fantasy |  
+| bip_39_word_underscore_3 | vocal_fantasy_slush |  
+| bip_39_word_underscore_4 | vocal_fantasy_slush_asthma |  
+| bip_39_word_underscore_5 | vocal_fantasy_slush_asthma_turn |  
+| bip_39_word_underscore_6 | vocal_fantasy_slush_asthma_turn_layer |  
+| bip_39_word_underscore_7 | vocal_fantasy_slush_asthma_turn_layer_essay |  
+| bip_39_word_underscore_8 | vocal_fantasy_slush_asthma_turn_layer_essay_popular |  
+| bip_39_word_underscore_9 | vocal_fantasy_slush_asthma_turn_layer_essay_popular_canal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

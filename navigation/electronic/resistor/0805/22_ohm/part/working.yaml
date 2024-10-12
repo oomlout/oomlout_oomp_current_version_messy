@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cotton
+bip_39_word_dash_10: cotton-physical-tiger-evoke-shadow-canal-citizen-wagon-spend-mandate
+bip_39_word_dash_11: cotton-physical-tiger-evoke-shadow-canal-citizen-wagon-spend-mandate-outdoor
+bip_39_word_dash_12: cotton-physical-tiger-evoke-shadow-canal-citizen-wagon-spend-mandate-outdoor-around
+bip_39_word_dash_2: cotton-physical
+bip_39_word_dash_3: cotton-physical-tiger
+bip_39_word_dash_4: cotton-physical-tiger-evoke
+bip_39_word_dash_5: cotton-physical-tiger-evoke-shadow
+bip_39_word_dash_6: cotton-physical-tiger-evoke-shadow-canal
+bip_39_word_dash_7: cotton-physical-tiger-evoke-shadow-canal-citizen
+bip_39_word_dash_8: cotton-physical-tiger-evoke-shadow-canal-citizen-wagon
+bip_39_word_dash_9: cotton-physical-tiger-evoke-shadow-canal-citizen-wagon-spend
 bip_39_word_new_br_1: cotton
 bip_39_word_new_br_10: cotton<br>physical<br>tiger<br>evoke<br>shadow<br>canal<br>citizen<br>wagon<br>spend<br>mandate
 bip_39_word_new_br_11: cotton<br>physical<br>tiger<br>evoke<br>shadow<br>canal<br>citizen<br>wagon<br>spend<br>mandate<br>outdoor
@@ -194,6 +206,18 @@ bip_39_word_space_6: cotton physical tiger evoke shadow canal
 bip_39_word_space_7: cotton physical tiger evoke shadow canal citizen
 bip_39_word_space_8: cotton physical tiger evoke shadow canal citizen wagon
 bip_39_word_space_9: cotton physical tiger evoke shadow canal citizen wagon spend
+bip_39_word_underscore_1: cotton
+bip_39_word_underscore_10: cotton_physical_tiger_evoke_shadow_canal_citizen_wagon_spend_mandate
+bip_39_word_underscore_11: cotton_physical_tiger_evoke_shadow_canal_citizen_wagon_spend_mandate_outdoor
+bip_39_word_underscore_12: cotton_physical_tiger_evoke_shadow_canal_citizen_wagon_spend_mandate_outdoor_around
+bip_39_word_underscore_2: cotton_physical
+bip_39_word_underscore_3: cotton_physical_tiger
+bip_39_word_underscore_4: cotton_physical_tiger_evoke
+bip_39_word_underscore_5: cotton_physical_tiger_evoke_shadow
+bip_39_word_underscore_6: cotton_physical_tiger_evoke_shadow_canal
+bip_39_word_underscore_7: cotton_physical_tiger_evoke_shadow_canal_citizen
+bip_39_word_underscore_8: cotton_physical_tiger_evoke_shadow_canal_citizen_wagon
+bip_39_word_underscore_9: cotton_physical_tiger_evoke_shadow_canal_citizen_wagon_spend
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

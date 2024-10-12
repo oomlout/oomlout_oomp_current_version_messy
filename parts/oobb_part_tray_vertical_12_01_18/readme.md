@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tribe |  
+| bip_39_word_dash_10 | tribe-melody-abstract-violin-edit-enact-twice-heart-poverty-hint |  
+| bip_39_word_dash_11 | tribe-melody-abstract-violin-edit-enact-twice-heart-poverty-hint-still |  
+| bip_39_word_dash_12 | tribe-melody-abstract-violin-edit-enact-twice-heart-poverty-hint-still-above |  
+| bip_39_word_dash_2 | tribe-melody |  
+| bip_39_word_dash_3 | tribe-melody-abstract |  
+| bip_39_word_dash_4 | tribe-melody-abstract-violin |  
+| bip_39_word_dash_5 | tribe-melody-abstract-violin-edit |  
+| bip_39_word_dash_6 | tribe-melody-abstract-violin-edit-enact |  
+| bip_39_word_dash_7 | tribe-melody-abstract-violin-edit-enact-twice |  
+| bip_39_word_dash_8 | tribe-melody-abstract-violin-edit-enact-twice-heart |  
+| bip_39_word_dash_9 | tribe-melody-abstract-violin-edit-enact-twice-heart-poverty |  
 | bip_39_word_new_br_1 | tribe |  
 | bip_39_word_new_br_10 | tribe<br>melody<br>abstract<br>violin<br>edit<br>enact<br>twice<br>heart<br>poverty<br>hint |  
 | bip_39_word_new_br_11 | tribe<br>melody<br>abstract<br>violin<br>edit<br>enact<br>twice<br>heart<br>poverty<br>hint<br>still |  
@@ -147,6 +159,18 @@ poverty |
 | bip_39_word_space_7 | tribe melody abstract violin edit enact twice |  
 | bip_39_word_space_8 | tribe melody abstract violin edit enact twice heart |  
 | bip_39_word_space_9 | tribe melody abstract violin edit enact twice heart poverty |  
+| bip_39_word_underscore_1 | tribe |  
+| bip_39_word_underscore_10 | tribe_melody_abstract_violin_edit_enact_twice_heart_poverty_hint |  
+| bip_39_word_underscore_11 | tribe_melody_abstract_violin_edit_enact_twice_heart_poverty_hint_still |  
+| bip_39_word_underscore_12 | tribe_melody_abstract_violin_edit_enact_twice_heart_poverty_hint_still_above |  
+| bip_39_word_underscore_2 | tribe_melody |  
+| bip_39_word_underscore_3 | tribe_melody_abstract |  
+| bip_39_word_underscore_4 | tribe_melody_abstract_violin |  
+| bip_39_word_underscore_5 | tribe_melody_abstract_violin_edit |  
+| bip_39_word_underscore_6 | tribe_melody_abstract_violin_edit_enact |  
+| bip_39_word_underscore_7 | tribe_melody_abstract_violin_edit_enact_twice |  
+| bip_39_word_underscore_8 | tribe_melody_abstract_violin_edit_enact_twice_heart |  
+| bip_39_word_underscore_9 | tribe_melody_abstract_violin_edit_enact_twice_heart_poverty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: detect
+bip_39_word_dash_10: detect-gadget-tomorrow-coin-hospital-provide-rival-argue-hollow-popular
+bip_39_word_dash_11: detect-gadget-tomorrow-coin-hospital-provide-rival-argue-hollow-popular-giraffe
+bip_39_word_dash_12: detect-gadget-tomorrow-coin-hospital-provide-rival-argue-hollow-popular-giraffe-again
+bip_39_word_dash_2: detect-gadget
+bip_39_word_dash_3: detect-gadget-tomorrow
+bip_39_word_dash_4: detect-gadget-tomorrow-coin
+bip_39_word_dash_5: detect-gadget-tomorrow-coin-hospital
+bip_39_word_dash_6: detect-gadget-tomorrow-coin-hospital-provide
+bip_39_word_dash_7: detect-gadget-tomorrow-coin-hospital-provide-rival
+bip_39_word_dash_8: detect-gadget-tomorrow-coin-hospital-provide-rival-argue
+bip_39_word_dash_9: detect-gadget-tomorrow-coin-hospital-provide-rival-argue-hollow
 bip_39_word_new_br_1: detect
 bip_39_word_new_br_10: detect<br>gadget<br>tomorrow<br>coin<br>hospital<br>provide<br>rival<br>argue<br>hollow<br>popular
 bip_39_word_new_br_11: detect<br>gadget<br>tomorrow<br>coin<br>hospital<br>provide<br>rival<br>argue<br>hollow<br>popular<br>giraffe
@@ -194,6 +206,18 @@ bip_39_word_space_6: detect gadget tomorrow coin hospital provide
 bip_39_word_space_7: detect gadget tomorrow coin hospital provide rival
 bip_39_word_space_8: detect gadget tomorrow coin hospital provide rival argue
 bip_39_word_space_9: detect gadget tomorrow coin hospital provide rival argue hollow
+bip_39_word_underscore_1: detect
+bip_39_word_underscore_10: detect_gadget_tomorrow_coin_hospital_provide_rival_argue_hollow_popular
+bip_39_word_underscore_11: detect_gadget_tomorrow_coin_hospital_provide_rival_argue_hollow_popular_giraffe
+bip_39_word_underscore_12: detect_gadget_tomorrow_coin_hospital_provide_rival_argue_hollow_popular_giraffe_again
+bip_39_word_underscore_2: detect_gadget
+bip_39_word_underscore_3: detect_gadget_tomorrow
+bip_39_word_underscore_4: detect_gadget_tomorrow_coin
+bip_39_word_underscore_5: detect_gadget_tomorrow_coin_hospital
+bip_39_word_underscore_6: detect_gadget_tomorrow_coin_hospital_provide
+bip_39_word_underscore_7: detect_gadget_tomorrow_coin_hospital_provide_rival
+bip_39_word_underscore_8: detect_gadget_tomorrow_coin_hospital_provide_rival_argue
+bip_39_word_underscore_9: detect_gadget_tomorrow_coin_hospital_provide_rival_argue_hollow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

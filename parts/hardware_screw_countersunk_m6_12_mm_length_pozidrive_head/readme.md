@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | logic |  
+| bip_39_word_dash_10 | logic-humor-suspect-canoe-alley-gallery-proud-afford-turtle-cement |  
+| bip_39_word_dash_11 | logic-humor-suspect-canoe-alley-gallery-proud-afford-turtle-cement-scene |  
+| bip_39_word_dash_12 | logic-humor-suspect-canoe-alley-gallery-proud-afford-turtle-cement-scene-afraid |  
+| bip_39_word_dash_2 | logic-humor |  
+| bip_39_word_dash_3 | logic-humor-suspect |  
+| bip_39_word_dash_4 | logic-humor-suspect-canoe |  
+| bip_39_word_dash_5 | logic-humor-suspect-canoe-alley |  
+| bip_39_word_dash_6 | logic-humor-suspect-canoe-alley-gallery |  
+| bip_39_word_dash_7 | logic-humor-suspect-canoe-alley-gallery-proud |  
+| bip_39_word_dash_8 | logic-humor-suspect-canoe-alley-gallery-proud-afford |  
+| bip_39_word_dash_9 | logic-humor-suspect-canoe-alley-gallery-proud-afford-turtle |  
 | bip_39_word_new_br_1 | logic |  
 | bip_39_word_new_br_10 | logic<br>humor<br>suspect<br>canoe<br>alley<br>gallery<br>proud<br>afford<br>turtle<br>cement |  
 | bip_39_word_new_br_11 | logic<br>humor<br>suspect<br>canoe<br>alley<br>gallery<br>proud<br>afford<br>turtle<br>cement<br>scene |  
@@ -147,6 +159,18 @@ turtle |
 | bip_39_word_space_7 | logic humor suspect canoe alley gallery proud |  
 | bip_39_word_space_8 | logic humor suspect canoe alley gallery proud afford |  
 | bip_39_word_space_9 | logic humor suspect canoe alley gallery proud afford turtle |  
+| bip_39_word_underscore_1 | logic |  
+| bip_39_word_underscore_10 | logic_humor_suspect_canoe_alley_gallery_proud_afford_turtle_cement |  
+| bip_39_word_underscore_11 | logic_humor_suspect_canoe_alley_gallery_proud_afford_turtle_cement_scene |  
+| bip_39_word_underscore_12 | logic_humor_suspect_canoe_alley_gallery_proud_afford_turtle_cement_scene_afraid |  
+| bip_39_word_underscore_2 | logic_humor |  
+| bip_39_word_underscore_3 | logic_humor_suspect |  
+| bip_39_word_underscore_4 | logic_humor_suspect_canoe |  
+| bip_39_word_underscore_5 | logic_humor_suspect_canoe_alley |  
+| bip_39_word_underscore_6 | logic_humor_suspect_canoe_alley_gallery |  
+| bip_39_word_underscore_7 | logic_humor_suspect_canoe_alley_gallery_proud |  
+| bip_39_word_underscore_8 | logic_humor_suspect_canoe_alley_gallery_proud_afford |  
+| bip_39_word_underscore_9 | logic_humor_suspect_canoe_alley_gallery_proud_afford_turtle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

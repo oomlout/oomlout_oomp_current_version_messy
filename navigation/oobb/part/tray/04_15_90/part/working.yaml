@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sick
+bip_39_word_dash_10: sick-defense-daring-web-access-reopen-dice-buyer-action-impulse
+bip_39_word_dash_11: sick-defense-daring-web-access-reopen-dice-buyer-action-impulse-story
+bip_39_word_dash_12: sick-defense-daring-web-access-reopen-dice-buyer-action-impulse-story-alone
+bip_39_word_dash_2: sick-defense
+bip_39_word_dash_3: sick-defense-daring
+bip_39_word_dash_4: sick-defense-daring-web
+bip_39_word_dash_5: sick-defense-daring-web-access
+bip_39_word_dash_6: sick-defense-daring-web-access-reopen
+bip_39_word_dash_7: sick-defense-daring-web-access-reopen-dice
+bip_39_word_dash_8: sick-defense-daring-web-access-reopen-dice-buyer
+bip_39_word_dash_9: sick-defense-daring-web-access-reopen-dice-buyer-action
 bip_39_word_new_br_1: sick
 bip_39_word_new_br_10: sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer<br>action<br>impulse
 bip_39_word_new_br_11: sick<br>defense<br>daring<br>web<br>access<br>reopen<br>dice<br>buyer<br>action<br>impulse<br>story
@@ -193,6 +205,18 @@ bip_39_word_space_6: sick defense daring web access reopen
 bip_39_word_space_7: sick defense daring web access reopen dice
 bip_39_word_space_8: sick defense daring web access reopen dice buyer
 bip_39_word_space_9: sick defense daring web access reopen dice buyer action
+bip_39_word_underscore_1: sick
+bip_39_word_underscore_10: sick_defense_daring_web_access_reopen_dice_buyer_action_impulse
+bip_39_word_underscore_11: sick_defense_daring_web_access_reopen_dice_buyer_action_impulse_story
+bip_39_word_underscore_12: sick_defense_daring_web_access_reopen_dice_buyer_action_impulse_story_alone
+bip_39_word_underscore_2: sick_defense
+bip_39_word_underscore_3: sick_defense_daring
+bip_39_word_underscore_4: sick_defense_daring_web
+bip_39_word_underscore_5: sick_defense_daring_web_access
+bip_39_word_underscore_6: sick_defense_daring_web_access_reopen
+bip_39_word_underscore_7: sick_defense_daring_web_access_reopen_dice
+bip_39_word_underscore_8: sick_defense_daring_web_access_reopen_dice_buyer
+bip_39_word_underscore_9: sick_defense_daring_web_access_reopen_dice_buyer_action
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: entry
+bip_39_word_dash_10: entry-bulb-beyond-expire-explain-fine-real-pyramid-coral-deal
+bip_39_word_dash_11: entry-bulb-beyond-expire-explain-fine-real-pyramid-coral-deal-play
+bip_39_word_dash_12: entry-bulb-beyond-expire-explain-fine-real-pyramid-coral-deal-play-auto
+bip_39_word_dash_2: entry-bulb
+bip_39_word_dash_3: entry-bulb-beyond
+bip_39_word_dash_4: entry-bulb-beyond-expire
+bip_39_word_dash_5: entry-bulb-beyond-expire-explain
+bip_39_word_dash_6: entry-bulb-beyond-expire-explain-fine
+bip_39_word_dash_7: entry-bulb-beyond-expire-explain-fine-real
+bip_39_word_dash_8: entry-bulb-beyond-expire-explain-fine-real-pyramid
+bip_39_word_dash_9: entry-bulb-beyond-expire-explain-fine-real-pyramid-coral
 bip_39_word_new_br_1: entry
 bip_39_word_new_br_10: entry<br>bulb<br>beyond<br>expire<br>explain<br>fine<br>real<br>pyramid<br>coral<br>deal
 bip_39_word_new_br_11: entry<br>bulb<br>beyond<br>expire<br>explain<br>fine<br>real<br>pyramid<br>coral<br>deal<br>play
@@ -193,6 +205,18 @@ bip_39_word_space_6: entry bulb beyond expire explain fine
 bip_39_word_space_7: entry bulb beyond expire explain fine real
 bip_39_word_space_8: entry bulb beyond expire explain fine real pyramid
 bip_39_word_space_9: entry bulb beyond expire explain fine real pyramid coral
+bip_39_word_underscore_1: entry
+bip_39_word_underscore_10: entry_bulb_beyond_expire_explain_fine_real_pyramid_coral_deal
+bip_39_word_underscore_11: entry_bulb_beyond_expire_explain_fine_real_pyramid_coral_deal_play
+bip_39_word_underscore_12: entry_bulb_beyond_expire_explain_fine_real_pyramid_coral_deal_play_auto
+bip_39_word_underscore_2: entry_bulb
+bip_39_word_underscore_3: entry_bulb_beyond
+bip_39_word_underscore_4: entry_bulb_beyond_expire
+bip_39_word_underscore_5: entry_bulb_beyond_expire_explain
+bip_39_word_underscore_6: entry_bulb_beyond_expire_explain_fine
+bip_39_word_underscore_7: entry_bulb_beyond_expire_explain_fine_real
+bip_39_word_underscore_8: entry_bulb_beyond_expire_explain_fine_real_pyramid
+bip_39_word_underscore_9: entry_bulb_beyond_expire_explain_fine_real_pyramid_coral
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

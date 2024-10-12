@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | simple |  
+| bip_39_word_dash_10 | simple-success-vanish-tell-work-retire-man-path-skill-verify |  
+| bip_39_word_dash_11 | simple-success-vanish-tell-work-retire-man-path-skill-verify-eagle |  
+| bip_39_word_dash_12 | simple-success-vanish-tell-work-retire-man-path-skill-verify-eagle-aim |  
+| bip_39_word_dash_2 | simple-success |  
+| bip_39_word_dash_3 | simple-success-vanish |  
+| bip_39_word_dash_4 | simple-success-vanish-tell |  
+| bip_39_word_dash_5 | simple-success-vanish-tell-work |  
+| bip_39_word_dash_6 | simple-success-vanish-tell-work-retire |  
+| bip_39_word_dash_7 | simple-success-vanish-tell-work-retire-man |  
+| bip_39_word_dash_8 | simple-success-vanish-tell-work-retire-man-path |  
+| bip_39_word_dash_9 | simple-success-vanish-tell-work-retire-man-path-skill |  
 | bip_39_word_new_br_1 | simple |  
 | bip_39_word_new_br_10 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify |  
 | bip_39_word_new_br_11 | simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify<br>eagle |  
@@ -147,6 +159,18 @@ skill |
 | bip_39_word_space_7 | simple success vanish tell work retire man |  
 | bip_39_word_space_8 | simple success vanish tell work retire man path |  
 | bip_39_word_space_9 | simple success vanish tell work retire man path skill |  
+| bip_39_word_underscore_1 | simple |  
+| bip_39_word_underscore_10 | simple_success_vanish_tell_work_retire_man_path_skill_verify |  
+| bip_39_word_underscore_11 | simple_success_vanish_tell_work_retire_man_path_skill_verify_eagle |  
+| bip_39_word_underscore_12 | simple_success_vanish_tell_work_retire_man_path_skill_verify_eagle_aim |  
+| bip_39_word_underscore_2 | simple_success |  
+| bip_39_word_underscore_3 | simple_success_vanish |  
+| bip_39_word_underscore_4 | simple_success_vanish_tell |  
+| bip_39_word_underscore_5 | simple_success_vanish_tell_work |  
+| bip_39_word_underscore_6 | simple_success_vanish_tell_work_retire |  
+| bip_39_word_underscore_7 | simple_success_vanish_tell_work_retire_man |  
+| bip_39_word_underscore_8 | simple_success_vanish_tell_work_retire_man_path |  
+| bip_39_word_underscore_9 | simple_success_vanish_tell_work_retire_man_path_skill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

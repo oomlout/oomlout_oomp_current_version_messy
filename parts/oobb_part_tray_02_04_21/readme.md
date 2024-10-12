@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gym |  
+| bip_39_word_dash_10 | gym-ability-journey-crop-foam-occur-memory-novel-very-decade |  
+| bip_39_word_dash_11 | gym-ability-journey-crop-foam-occur-memory-novel-very-decade-laptop |  
+| bip_39_word_dash_12 | gym-ability-journey-crop-foam-occur-memory-novel-very-decade-laptop-already |  
+| bip_39_word_dash_2 | gym-ability |  
+| bip_39_word_dash_3 | gym-ability-journey |  
+| bip_39_word_dash_4 | gym-ability-journey-crop |  
+| bip_39_word_dash_5 | gym-ability-journey-crop-foam |  
+| bip_39_word_dash_6 | gym-ability-journey-crop-foam-occur |  
+| bip_39_word_dash_7 | gym-ability-journey-crop-foam-occur-memory |  
+| bip_39_word_dash_8 | gym-ability-journey-crop-foam-occur-memory-novel |  
+| bip_39_word_dash_9 | gym-ability-journey-crop-foam-occur-memory-novel-very |  
 | bip_39_word_new_br_1 | gym |  
 | bip_39_word_new_br_10 | gym<br>ability<br>journey<br>crop<br>foam<br>occur<br>memory<br>novel<br>very<br>decade |  
 | bip_39_word_new_br_11 | gym<br>ability<br>journey<br>crop<br>foam<br>occur<br>memory<br>novel<br>very<br>decade<br>laptop |  
@@ -147,6 +159,18 @@ very |
 | bip_39_word_space_7 | gym ability journey crop foam occur memory |  
 | bip_39_word_space_8 | gym ability journey crop foam occur memory novel |  
 | bip_39_word_space_9 | gym ability journey crop foam occur memory novel very |  
+| bip_39_word_underscore_1 | gym |  
+| bip_39_word_underscore_10 | gym_ability_journey_crop_foam_occur_memory_novel_very_decade |  
+| bip_39_word_underscore_11 | gym_ability_journey_crop_foam_occur_memory_novel_very_decade_laptop |  
+| bip_39_word_underscore_12 | gym_ability_journey_crop_foam_occur_memory_novel_very_decade_laptop_already |  
+| bip_39_word_underscore_2 | gym_ability |  
+| bip_39_word_underscore_3 | gym_ability_journey |  
+| bip_39_word_underscore_4 | gym_ability_journey_crop |  
+| bip_39_word_underscore_5 | gym_ability_journey_crop_foam |  
+| bip_39_word_underscore_6 | gym_ability_journey_crop_foam_occur |  
+| bip_39_word_underscore_7 | gym_ability_journey_crop_foam_occur_memory |  
+| bip_39_word_underscore_8 | gym_ability_journey_crop_foam_occur_memory_novel |  
+| bip_39_word_underscore_9 | gym_ability_journey_crop_foam_occur_memory_novel_very |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glove |  
+| bip_39_word_dash_10 | glove-casino-language-game-ability-famous-ready-replace-diary-essay |  
+| bip_39_word_dash_11 | glove-casino-language-game-ability-famous-ready-replace-diary-essay-antique |  
+| bip_39_word_dash_12 | glove-casino-language-game-ability-famous-ready-replace-diary-essay-antique-assist |  
+| bip_39_word_dash_2 | glove-casino |  
+| bip_39_word_dash_3 | glove-casino-language |  
+| bip_39_word_dash_4 | glove-casino-language-game |  
+| bip_39_word_dash_5 | glove-casino-language-game-ability |  
+| bip_39_word_dash_6 | glove-casino-language-game-ability-famous |  
+| bip_39_word_dash_7 | glove-casino-language-game-ability-famous-ready |  
+| bip_39_word_dash_8 | glove-casino-language-game-ability-famous-ready-replace |  
+| bip_39_word_dash_9 | glove-casino-language-game-ability-famous-ready-replace-diary |  
 | bip_39_word_new_br_1 | glove |  
 | bip_39_word_new_br_10 | glove<br>casino<br>language<br>game<br>ability<br>famous<br>ready<br>replace<br>diary<br>essay |  
 | bip_39_word_new_br_11 | glove<br>casino<br>language<br>game<br>ability<br>famous<br>ready<br>replace<br>diary<br>essay<br>antique |  
@@ -147,6 +159,18 @@ diary |
 | bip_39_word_space_7 | glove casino language game ability famous ready |  
 | bip_39_word_space_8 | glove casino language game ability famous ready replace |  
 | bip_39_word_space_9 | glove casino language game ability famous ready replace diary |  
+| bip_39_word_underscore_1 | glove |  
+| bip_39_word_underscore_10 | glove_casino_language_game_ability_famous_ready_replace_diary_essay |  
+| bip_39_word_underscore_11 | glove_casino_language_game_ability_famous_ready_replace_diary_essay_antique |  
+| bip_39_word_underscore_12 | glove_casino_language_game_ability_famous_ready_replace_diary_essay_antique_assist |  
+| bip_39_word_underscore_2 | glove_casino |  
+| bip_39_word_underscore_3 | glove_casino_language |  
+| bip_39_word_underscore_4 | glove_casino_language_game |  
+| bip_39_word_underscore_5 | glove_casino_language_game_ability |  
+| bip_39_word_underscore_6 | glove_casino_language_game_ability_famous |  
+| bip_39_word_underscore_7 | glove_casino_language_game_ability_famous_ready |  
+| bip_39_word_underscore_8 | glove_casino_language_game_ability_famous_ready_replace |  
+| bip_39_word_underscore_9 | glove_casino_language_game_ability_famous_ready_replace_diary |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

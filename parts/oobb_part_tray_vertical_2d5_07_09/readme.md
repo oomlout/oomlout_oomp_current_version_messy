@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | discover |  
+| bip_39_word_dash_10 | discover-end-room-impact-chest-earth-arrange-cycle-churn-announce |  
+| bip_39_word_dash_11 | discover-end-room-impact-chest-earth-arrange-cycle-churn-announce-bread |  
+| bip_39_word_dash_12 | discover-end-room-impact-chest-earth-arrange-cycle-churn-announce-bread-any |  
+| bip_39_word_dash_2 | discover-end |  
+| bip_39_word_dash_3 | discover-end-room |  
+| bip_39_word_dash_4 | discover-end-room-impact |  
+| bip_39_word_dash_5 | discover-end-room-impact-chest |  
+| bip_39_word_dash_6 | discover-end-room-impact-chest-earth |  
+| bip_39_word_dash_7 | discover-end-room-impact-chest-earth-arrange |  
+| bip_39_word_dash_8 | discover-end-room-impact-chest-earth-arrange-cycle |  
+| bip_39_word_dash_9 | discover-end-room-impact-chest-earth-arrange-cycle-churn |  
 | bip_39_word_new_br_1 | discover |  
 | bip_39_word_new_br_10 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle<br>churn<br>announce |  
 | bip_39_word_new_br_11 | discover<br>end<br>room<br>impact<br>chest<br>earth<br>arrange<br>cycle<br>churn<br>announce<br>bread |  
@@ -147,6 +159,18 @@ churn |
 | bip_39_word_space_7 | discover end room impact chest earth arrange |  
 | bip_39_word_space_8 | discover end room impact chest earth arrange cycle |  
 | bip_39_word_space_9 | discover end room impact chest earth arrange cycle churn |  
+| bip_39_word_underscore_1 | discover |  
+| bip_39_word_underscore_10 | discover_end_room_impact_chest_earth_arrange_cycle_churn_announce |  
+| bip_39_word_underscore_11 | discover_end_room_impact_chest_earth_arrange_cycle_churn_announce_bread |  
+| bip_39_word_underscore_12 | discover_end_room_impact_chest_earth_arrange_cycle_churn_announce_bread_any |  
+| bip_39_word_underscore_2 | discover_end |  
+| bip_39_word_underscore_3 | discover_end_room |  
+| bip_39_word_underscore_4 | discover_end_room_impact |  
+| bip_39_word_underscore_5 | discover_end_room_impact_chest |  
+| bip_39_word_underscore_6 | discover_end_room_impact_chest_earth |  
+| bip_39_word_underscore_7 | discover_end_room_impact_chest_earth_arrange |  
+| bip_39_word_underscore_8 | discover_end_room_impact_chest_earth_arrange_cycle |  
+| bip_39_word_underscore_9 | discover_end_room_impact_chest_earth_arrange_cycle_churn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

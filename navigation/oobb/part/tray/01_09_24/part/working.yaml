@@ -1,3 +1,15 @@
+bip_39_word_dash_1: engage
+bip_39_word_dash_10: engage-warm-episode-citizen-moment-fit-advice-fabric-level-fox
+bip_39_word_dash_11: engage-warm-episode-citizen-moment-fit-advice-fabric-level-fox-thought
+bip_39_word_dash_12: engage-warm-episode-citizen-moment-fit-advice-fabric-level-fox-thought-another
+bip_39_word_dash_2: engage-warm
+bip_39_word_dash_3: engage-warm-episode
+bip_39_word_dash_4: engage-warm-episode-citizen
+bip_39_word_dash_5: engage-warm-episode-citizen-moment
+bip_39_word_dash_6: engage-warm-episode-citizen-moment-fit
+bip_39_word_dash_7: engage-warm-episode-citizen-moment-fit-advice
+bip_39_word_dash_8: engage-warm-episode-citizen-moment-fit-advice-fabric
+bip_39_word_dash_9: engage-warm-episode-citizen-moment-fit-advice-fabric-level
 bip_39_word_new_br_1: engage
 bip_39_word_new_br_10: engage<br>warm<br>episode<br>citizen<br>moment<br>fit<br>advice<br>fabric<br>level<br>fox
 bip_39_word_new_br_11: engage<br>warm<br>episode<br>citizen<br>moment<br>fit<br>advice<br>fabric<br>level<br>fox<br>thought
@@ -193,6 +205,18 @@ bip_39_word_space_6: engage warm episode citizen moment fit
 bip_39_word_space_7: engage warm episode citizen moment fit advice
 bip_39_word_space_8: engage warm episode citizen moment fit advice fabric
 bip_39_word_space_9: engage warm episode citizen moment fit advice fabric level
+bip_39_word_underscore_1: engage
+bip_39_word_underscore_10: engage_warm_episode_citizen_moment_fit_advice_fabric_level_fox
+bip_39_word_underscore_11: engage_warm_episode_citizen_moment_fit_advice_fabric_level_fox_thought
+bip_39_word_underscore_12: engage_warm_episode_citizen_moment_fit_advice_fabric_level_fox_thought_another
+bip_39_word_underscore_2: engage_warm
+bip_39_word_underscore_3: engage_warm_episode
+bip_39_word_underscore_4: engage_warm_episode_citizen
+bip_39_word_underscore_5: engage_warm_episode_citizen_moment
+bip_39_word_underscore_6: engage_warm_episode_citizen_moment_fit
+bip_39_word_underscore_7: engage_warm_episode_citizen_moment_fit_advice
+bip_39_word_underscore_8: engage_warm_episode_citizen_moment_fit_advice_fabric
+bip_39_word_underscore_9: engage_warm_episode_citizen_moment_fit_advice_fabric_level
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

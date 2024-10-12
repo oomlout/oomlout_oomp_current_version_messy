@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mechanic
+bip_39_word_dash_10: mechanic-pause-volcano-girl-female-gift-junk-sugar-obvious-sponsor
+bip_39_word_dash_11: mechanic-pause-volcano-girl-female-gift-junk-sugar-obvious-sponsor-drop
+bip_39_word_dash_12: mechanic-pause-volcano-girl-female-gift-junk-sugar-obvious-sponsor-drop-autumn
+bip_39_word_dash_2: mechanic-pause
+bip_39_word_dash_3: mechanic-pause-volcano
+bip_39_word_dash_4: mechanic-pause-volcano-girl
+bip_39_word_dash_5: mechanic-pause-volcano-girl-female
+bip_39_word_dash_6: mechanic-pause-volcano-girl-female-gift
+bip_39_word_dash_7: mechanic-pause-volcano-girl-female-gift-junk
+bip_39_word_dash_8: mechanic-pause-volcano-girl-female-gift-junk-sugar
+bip_39_word_dash_9: mechanic-pause-volcano-girl-female-gift-junk-sugar-obvious
 bip_39_word_new_br_1: mechanic
 bip_39_word_new_br_10: mechanic<br>pause<br>volcano<br>girl<br>female<br>gift<br>junk<br>sugar<br>obvious<br>sponsor
 bip_39_word_new_br_11: mechanic<br>pause<br>volcano<br>girl<br>female<br>gift<br>junk<br>sugar<br>obvious<br>sponsor<br>drop
@@ -193,6 +205,18 @@ bip_39_word_space_6: mechanic pause volcano girl female gift
 bip_39_word_space_7: mechanic pause volcano girl female gift junk
 bip_39_word_space_8: mechanic pause volcano girl female gift junk sugar
 bip_39_word_space_9: mechanic pause volcano girl female gift junk sugar obvious
+bip_39_word_underscore_1: mechanic
+bip_39_word_underscore_10: mechanic_pause_volcano_girl_female_gift_junk_sugar_obvious_sponsor
+bip_39_word_underscore_11: mechanic_pause_volcano_girl_female_gift_junk_sugar_obvious_sponsor_drop
+bip_39_word_underscore_12: mechanic_pause_volcano_girl_female_gift_junk_sugar_obvious_sponsor_drop_autumn
+bip_39_word_underscore_2: mechanic_pause
+bip_39_word_underscore_3: mechanic_pause_volcano
+bip_39_word_underscore_4: mechanic_pause_volcano_girl
+bip_39_word_underscore_5: mechanic_pause_volcano_girl_female
+bip_39_word_underscore_6: mechanic_pause_volcano_girl_female_gift
+bip_39_word_underscore_7: mechanic_pause_volcano_girl_female_gift_junk
+bip_39_word_underscore_8: mechanic_pause_volcano_girl_female_gift_junk_sugar
+bip_39_word_underscore_9: mechanic_pause_volcano_girl_female_gift_junk_sugar_obvious
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

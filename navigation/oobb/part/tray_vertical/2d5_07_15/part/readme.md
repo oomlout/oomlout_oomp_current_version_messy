@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | subject |  
+| bip_39_word_dash_10 | subject-mountain-space-patrol-find-debris-rigid-popular-balcony-mother |  
+| bip_39_word_dash_11 | subject-mountain-space-patrol-find-debris-rigid-popular-balcony-mother-whip |  
+| bip_39_word_dash_12 | subject-mountain-space-patrol-find-debris-rigid-popular-balcony-mother-whip-actor |  
+| bip_39_word_dash_2 | subject-mountain |  
+| bip_39_word_dash_3 | subject-mountain-space |  
+| bip_39_word_dash_4 | subject-mountain-space-patrol |  
+| bip_39_word_dash_5 | subject-mountain-space-patrol-find |  
+| bip_39_word_dash_6 | subject-mountain-space-patrol-find-debris |  
+| bip_39_word_dash_7 | subject-mountain-space-patrol-find-debris-rigid |  
+| bip_39_word_dash_8 | subject-mountain-space-patrol-find-debris-rigid-popular |  
+| bip_39_word_dash_9 | subject-mountain-space-patrol-find-debris-rigid-popular-balcony |  
 | bip_39_word_new_br_1 | subject |  
 | bip_39_word_new_br_10 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular<br>balcony<br>mother |  
 | bip_39_word_new_br_11 | subject<br>mountain<br>space<br>patrol<br>find<br>debris<br>rigid<br>popular<br>balcony<br>mother<br>whip |  
@@ -147,6 +159,18 @@ balcony |
 | bip_39_word_space_7 | subject mountain space patrol find debris rigid |  
 | bip_39_word_space_8 | subject mountain space patrol find debris rigid popular |  
 | bip_39_word_space_9 | subject mountain space patrol find debris rigid popular balcony |  
+| bip_39_word_underscore_1 | subject |  
+| bip_39_word_underscore_10 | subject_mountain_space_patrol_find_debris_rigid_popular_balcony_mother |  
+| bip_39_word_underscore_11 | subject_mountain_space_patrol_find_debris_rigid_popular_balcony_mother_whip |  
+| bip_39_word_underscore_12 | subject_mountain_space_patrol_find_debris_rigid_popular_balcony_mother_whip_actor |  
+| bip_39_word_underscore_2 | subject_mountain |  
+| bip_39_word_underscore_3 | subject_mountain_space |  
+| bip_39_word_underscore_4 | subject_mountain_space_patrol |  
+| bip_39_word_underscore_5 | subject_mountain_space_patrol_find |  
+| bip_39_word_underscore_6 | subject_mountain_space_patrol_find_debris |  
+| bip_39_word_underscore_7 | subject_mountain_space_patrol_find_debris_rigid |  
+| bip_39_word_underscore_8 | subject_mountain_space_patrol_find_debris_rigid_popular |  
+| bip_39_word_underscore_9 | subject_mountain_space_patrol_find_debris_rigid_popular_balcony |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

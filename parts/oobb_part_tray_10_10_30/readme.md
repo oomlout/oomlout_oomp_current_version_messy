@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | solid |  
+| bip_39_word_dash_10 | solid-unit-cliff-doll-exile-human-mind-picture-drive-next |  
+| bip_39_word_dash_11 | solid-unit-cliff-doll-exile-human-mind-picture-drive-next-flag |  
+| bip_39_word_dash_12 | solid-unit-cliff-doll-exile-human-mind-picture-drive-next-flag-aim |  
+| bip_39_word_dash_2 | solid-unit |  
+| bip_39_word_dash_3 | solid-unit-cliff |  
+| bip_39_word_dash_4 | solid-unit-cliff-doll |  
+| bip_39_word_dash_5 | solid-unit-cliff-doll-exile |  
+| bip_39_word_dash_6 | solid-unit-cliff-doll-exile-human |  
+| bip_39_word_dash_7 | solid-unit-cliff-doll-exile-human-mind |  
+| bip_39_word_dash_8 | solid-unit-cliff-doll-exile-human-mind-picture |  
+| bip_39_word_dash_9 | solid-unit-cliff-doll-exile-human-mind-picture-drive |  
 | bip_39_word_new_br_1 | solid |  
 | bip_39_word_new_br_10 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next |  
 | bip_39_word_new_br_11 | solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next<br>flag |  
@@ -147,6 +159,18 @@ drive |
 | bip_39_word_space_7 | solid unit cliff doll exile human mind |  
 | bip_39_word_space_8 | solid unit cliff doll exile human mind picture |  
 | bip_39_word_space_9 | solid unit cliff doll exile human mind picture drive |  
+| bip_39_word_underscore_1 | solid |  
+| bip_39_word_underscore_10 | solid_unit_cliff_doll_exile_human_mind_picture_drive_next |  
+| bip_39_word_underscore_11 | solid_unit_cliff_doll_exile_human_mind_picture_drive_next_flag |  
+| bip_39_word_underscore_12 | solid_unit_cliff_doll_exile_human_mind_picture_drive_next_flag_aim |  
+| bip_39_word_underscore_2 | solid_unit |  
+| bip_39_word_underscore_3 | solid_unit_cliff |  
+| bip_39_word_underscore_4 | solid_unit_cliff_doll |  
+| bip_39_word_underscore_5 | solid_unit_cliff_doll_exile |  
+| bip_39_word_underscore_6 | solid_unit_cliff_doll_exile_human |  
+| bip_39_word_underscore_7 | solid_unit_cliff_doll_exile_human_mind |  
+| bip_39_word_underscore_8 | solid_unit_cliff_doll_exile_human_mind_picture |  
+| bip_39_word_underscore_9 | solid_unit_cliff_doll_exile_human_mind_picture_drive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

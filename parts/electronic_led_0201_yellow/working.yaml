@@ -1,3 +1,15 @@
+bip_39_word_dash_1: force
+bip_39_word_dash_10: force-school-property-flag-above-token-detect-dizzy-strike-sock
+bip_39_word_dash_11: force-school-property-flag-above-token-detect-dizzy-strike-sock-arch
+bip_39_word_dash_12: force-school-property-flag-above-token-detect-dizzy-strike-sock-arch-artist
+bip_39_word_dash_2: force-school
+bip_39_word_dash_3: force-school-property
+bip_39_word_dash_4: force-school-property-flag
+bip_39_word_dash_5: force-school-property-flag-above
+bip_39_word_dash_6: force-school-property-flag-above-token
+bip_39_word_dash_7: force-school-property-flag-above-token-detect
+bip_39_word_dash_8: force-school-property-flag-above-token-detect-dizzy
+bip_39_word_dash_9: force-school-property-flag-above-token-detect-dizzy-strike
 bip_39_word_new_br_1: force
 bip_39_word_new_br_10: force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy<br>strike<br>sock
 bip_39_word_new_br_11: force<br>school<br>property<br>flag<br>above<br>token<br>detect<br>dizzy<br>strike<br>sock<br>arch
@@ -193,6 +205,18 @@ bip_39_word_space_6: force school property flag above token
 bip_39_word_space_7: force school property flag above token detect
 bip_39_word_space_8: force school property flag above token detect dizzy
 bip_39_word_space_9: force school property flag above token detect dizzy strike
+bip_39_word_underscore_1: force
+bip_39_word_underscore_10: force_school_property_flag_above_token_detect_dizzy_strike_sock
+bip_39_word_underscore_11: force_school_property_flag_above_token_detect_dizzy_strike_sock_arch
+bip_39_word_underscore_12: force_school_property_flag_above_token_detect_dizzy_strike_sock_arch_artist
+bip_39_word_underscore_2: force_school
+bip_39_word_underscore_3: force_school_property
+bip_39_word_underscore_4: force_school_property_flag
+bip_39_word_underscore_5: force_school_property_flag_above
+bip_39_word_underscore_6: force_school_property_flag_above_token
+bip_39_word_underscore_7: force_school_property_flag_above_token_detect
+bip_39_word_underscore_8: force_school_property_flag_above_token_detect_dizzy
+bip_39_word_underscore_9: force_school_property_flag_above_token_detect_dizzy_strike
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

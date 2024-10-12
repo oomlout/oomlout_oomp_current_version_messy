@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pass
+bip_39_word_dash_10: pass-million-female-parade-library-ribbon-aerobic-unlock-artist-sword
+bip_39_word_dash_11: pass-million-female-parade-library-ribbon-aerobic-unlock-artist-sword-alcohol
+bip_39_word_dash_12: pass-million-female-parade-library-ribbon-aerobic-unlock-artist-sword-alcohol-alcohol
+bip_39_word_dash_2: pass-million
+bip_39_word_dash_3: pass-million-female
+bip_39_word_dash_4: pass-million-female-parade
+bip_39_word_dash_5: pass-million-female-parade-library
+bip_39_word_dash_6: pass-million-female-parade-library-ribbon
+bip_39_word_dash_7: pass-million-female-parade-library-ribbon-aerobic
+bip_39_word_dash_8: pass-million-female-parade-library-ribbon-aerobic-unlock
+bip_39_word_dash_9: pass-million-female-parade-library-ribbon-aerobic-unlock-artist
 bip_39_word_new_br_1: pass
 bip_39_word_new_br_10: pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword
 bip_39_word_new_br_11: pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword<br>alcohol
@@ -194,6 +206,18 @@ bip_39_word_space_6: pass million female parade library ribbon
 bip_39_word_space_7: pass million female parade library ribbon aerobic
 bip_39_word_space_8: pass million female parade library ribbon aerobic unlock
 bip_39_word_space_9: pass million female parade library ribbon aerobic unlock artist
+bip_39_word_underscore_1: pass
+bip_39_word_underscore_10: pass_million_female_parade_library_ribbon_aerobic_unlock_artist_sword
+bip_39_word_underscore_11: pass_million_female_parade_library_ribbon_aerobic_unlock_artist_sword_alcohol
+bip_39_word_underscore_12: pass_million_female_parade_library_ribbon_aerobic_unlock_artist_sword_alcohol_alcohol
+bip_39_word_underscore_2: pass_million
+bip_39_word_underscore_3: pass_million_female
+bip_39_word_underscore_4: pass_million_female_parade
+bip_39_word_underscore_5: pass_million_female_parade_library
+bip_39_word_underscore_6: pass_million_female_parade_library_ribbon
+bip_39_word_underscore_7: pass_million_female_parade_library_ribbon_aerobic
+bip_39_word_underscore_8: pass_million_female_parade_library_ribbon_aerobic_unlock
+bip_39_word_underscore_9: pass_million_female_parade_library_ribbon_aerobic_unlock_artist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

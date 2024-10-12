@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flower |  
+| bip_39_word_dash_10 | flower-misery-sibling-ball-monster-history-early-crack-fresh-goose |  
+| bip_39_word_dash_11 | flower-misery-sibling-ball-monster-history-early-crack-fresh-goose-cage |  
+| bip_39_word_dash_12 | flower-misery-sibling-ball-monster-history-early-crack-fresh-goose-cage-abuse |  
+| bip_39_word_dash_2 | flower-misery |  
+| bip_39_word_dash_3 | flower-misery-sibling |  
+| bip_39_word_dash_4 | flower-misery-sibling-ball |  
+| bip_39_word_dash_5 | flower-misery-sibling-ball-monster |  
+| bip_39_word_dash_6 | flower-misery-sibling-ball-monster-history |  
+| bip_39_word_dash_7 | flower-misery-sibling-ball-monster-history-early |  
+| bip_39_word_dash_8 | flower-misery-sibling-ball-monster-history-early-crack |  
+| bip_39_word_dash_9 | flower-misery-sibling-ball-monster-history-early-crack-fresh |  
 | bip_39_word_new_br_1 | flower |  
 | bip_39_word_new_br_10 | flower<br>misery<br>sibling<br>ball<br>monster<br>history<br>early<br>crack<br>fresh<br>goose |  
 | bip_39_word_new_br_11 | flower<br>misery<br>sibling<br>ball<br>monster<br>history<br>early<br>crack<br>fresh<br>goose<br>cage |  
@@ -147,6 +159,18 @@ fresh |
 | bip_39_word_space_7 | flower misery sibling ball monster history early |  
 | bip_39_word_space_8 | flower misery sibling ball monster history early crack |  
 | bip_39_word_space_9 | flower misery sibling ball monster history early crack fresh |  
+| bip_39_word_underscore_1 | flower |  
+| bip_39_word_underscore_10 | flower_misery_sibling_ball_monster_history_early_crack_fresh_goose |  
+| bip_39_word_underscore_11 | flower_misery_sibling_ball_monster_history_early_crack_fresh_goose_cage |  
+| bip_39_word_underscore_12 | flower_misery_sibling_ball_monster_history_early_crack_fresh_goose_cage_abuse |  
+| bip_39_word_underscore_2 | flower_misery |  
+| bip_39_word_underscore_3 | flower_misery_sibling |  
+| bip_39_word_underscore_4 | flower_misery_sibling_ball |  
+| bip_39_word_underscore_5 | flower_misery_sibling_ball_monster |  
+| bip_39_word_underscore_6 | flower_misery_sibling_ball_monster_history |  
+| bip_39_word_underscore_7 | flower_misery_sibling_ball_monster_history_early |  
+| bip_39_word_underscore_8 | flower_misery_sibling_ball_monster_history_early_crack |  
+| bip_39_word_underscore_9 | flower_misery_sibling_ball_monster_history_early_crack_fresh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

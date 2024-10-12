@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | water |  
+| bip_39_word_dash_10 | water-urge-hurdle-sponsor-vague-search-employ-dizzy-ocean-syrup |  
+| bip_39_word_dash_11 | water-urge-hurdle-sponsor-vague-search-employ-dizzy-ocean-syrup-rose |  
+| bip_39_word_dash_12 | water-urge-hurdle-sponsor-vague-search-employ-dizzy-ocean-syrup-rose-across |  
+| bip_39_word_dash_2 | water-urge |  
+| bip_39_word_dash_3 | water-urge-hurdle |  
+| bip_39_word_dash_4 | water-urge-hurdle-sponsor |  
+| bip_39_word_dash_5 | water-urge-hurdle-sponsor-vague |  
+| bip_39_word_dash_6 | water-urge-hurdle-sponsor-vague-search |  
+| bip_39_word_dash_7 | water-urge-hurdle-sponsor-vague-search-employ |  
+| bip_39_word_dash_8 | water-urge-hurdle-sponsor-vague-search-employ-dizzy |  
+| bip_39_word_dash_9 | water-urge-hurdle-sponsor-vague-search-employ-dizzy-ocean |  
 | bip_39_word_new_br_1 | water |  
 | bip_39_word_new_br_10 | water<br>urge<br>hurdle<br>sponsor<br>vague<br>search<br>employ<br>dizzy<br>ocean<br>syrup |  
 | bip_39_word_new_br_11 | water<br>urge<br>hurdle<br>sponsor<br>vague<br>search<br>employ<br>dizzy<br>ocean<br>syrup<br>rose |  
@@ -147,6 +159,18 @@ ocean |
 | bip_39_word_space_7 | water urge hurdle sponsor vague search employ |  
 | bip_39_word_space_8 | water urge hurdle sponsor vague search employ dizzy |  
 | bip_39_word_space_9 | water urge hurdle sponsor vague search employ dizzy ocean |  
+| bip_39_word_underscore_1 | water |  
+| bip_39_word_underscore_10 | water_urge_hurdle_sponsor_vague_search_employ_dizzy_ocean_syrup |  
+| bip_39_word_underscore_11 | water_urge_hurdle_sponsor_vague_search_employ_dizzy_ocean_syrup_rose |  
+| bip_39_word_underscore_12 | water_urge_hurdle_sponsor_vague_search_employ_dizzy_ocean_syrup_rose_across |  
+| bip_39_word_underscore_2 | water_urge |  
+| bip_39_word_underscore_3 | water_urge_hurdle |  
+| bip_39_word_underscore_4 | water_urge_hurdle_sponsor |  
+| bip_39_word_underscore_5 | water_urge_hurdle_sponsor_vague |  
+| bip_39_word_underscore_6 | water_urge_hurdle_sponsor_vague_search |  
+| bip_39_word_underscore_7 | water_urge_hurdle_sponsor_vague_search_employ |  
+| bip_39_word_underscore_8 | water_urge_hurdle_sponsor_vague_search_employ_dizzy |  
+| bip_39_word_underscore_9 | water_urge_hurdle_sponsor_vague_search_employ_dizzy_ocean |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hover |  
+| bip_39_word_dash_10 | hover-pistol-punch-nominee-tube-galaxy-best-venue-bench-cake |  
+| bip_39_word_dash_11 | hover-pistol-punch-nominee-tube-galaxy-best-venue-bench-cake-ozone |  
+| bip_39_word_dash_12 | hover-pistol-punch-nominee-tube-galaxy-best-venue-bench-cake-ozone-area |  
+| bip_39_word_dash_2 | hover-pistol |  
+| bip_39_word_dash_3 | hover-pistol-punch |  
+| bip_39_word_dash_4 | hover-pistol-punch-nominee |  
+| bip_39_word_dash_5 | hover-pistol-punch-nominee-tube |  
+| bip_39_word_dash_6 | hover-pistol-punch-nominee-tube-galaxy |  
+| bip_39_word_dash_7 | hover-pistol-punch-nominee-tube-galaxy-best |  
+| bip_39_word_dash_8 | hover-pistol-punch-nominee-tube-galaxy-best-venue |  
+| bip_39_word_dash_9 | hover-pistol-punch-nominee-tube-galaxy-best-venue-bench |  
 | bip_39_word_new_br_1 | hover |  
 | bip_39_word_new_br_10 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue<br>bench<br>cake |  
 | bip_39_word_new_br_11 | hover<br>pistol<br>punch<br>nominee<br>tube<br>galaxy<br>best<br>venue<br>bench<br>cake<br>ozone |  
@@ -147,6 +159,18 @@ bench |
 | bip_39_word_space_7 | hover pistol punch nominee tube galaxy best |  
 | bip_39_word_space_8 | hover pistol punch nominee tube galaxy best venue |  
 | bip_39_word_space_9 | hover pistol punch nominee tube galaxy best venue bench |  
+| bip_39_word_underscore_1 | hover |  
+| bip_39_word_underscore_10 | hover_pistol_punch_nominee_tube_galaxy_best_venue_bench_cake |  
+| bip_39_word_underscore_11 | hover_pistol_punch_nominee_tube_galaxy_best_venue_bench_cake_ozone |  
+| bip_39_word_underscore_12 | hover_pistol_punch_nominee_tube_galaxy_best_venue_bench_cake_ozone_area |  
+| bip_39_word_underscore_2 | hover_pistol |  
+| bip_39_word_underscore_3 | hover_pistol_punch |  
+| bip_39_word_underscore_4 | hover_pistol_punch_nominee |  
+| bip_39_word_underscore_5 | hover_pistol_punch_nominee_tube |  
+| bip_39_word_underscore_6 | hover_pistol_punch_nominee_tube_galaxy |  
+| bip_39_word_underscore_7 | hover_pistol_punch_nominee_tube_galaxy_best |  
+| bip_39_word_underscore_8 | hover_pistol_punch_nominee_tube_galaxy_best_venue |  
+| bip_39_word_underscore_9 | hover_pistol_punch_nominee_tube_galaxy_best_venue_bench |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

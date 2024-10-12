@@ -1,3 +1,15 @@
+bip_39_word_dash_1: march
+bip_39_word_dash_10: march-lend-rug-demise-stock-word-work-parrot-hidden-used
+bip_39_word_dash_11: march-lend-rug-demise-stock-word-work-parrot-hidden-used-smoke
+bip_39_word_dash_12: march-lend-rug-demise-stock-word-work-parrot-hidden-used-smoke-angle
+bip_39_word_dash_2: march-lend
+bip_39_word_dash_3: march-lend-rug
+bip_39_word_dash_4: march-lend-rug-demise
+bip_39_word_dash_5: march-lend-rug-demise-stock
+bip_39_word_dash_6: march-lend-rug-demise-stock-word
+bip_39_word_dash_7: march-lend-rug-demise-stock-word-work
+bip_39_word_dash_8: march-lend-rug-demise-stock-word-work-parrot
+bip_39_word_dash_9: march-lend-rug-demise-stock-word-work-parrot-hidden
 bip_39_word_new_br_1: march
 bip_39_word_new_br_10: march<br>lend<br>rug<br>demise<br>stock<br>word<br>work<br>parrot<br>hidden<br>used
 bip_39_word_new_br_11: march<br>lend<br>rug<br>demise<br>stock<br>word<br>work<br>parrot<br>hidden<br>used<br>smoke
@@ -192,6 +204,18 @@ bip_39_word_space_6: march lend rug demise stock word
 bip_39_word_space_7: march lend rug demise stock word work
 bip_39_word_space_8: march lend rug demise stock word work parrot
 bip_39_word_space_9: march lend rug demise stock word work parrot hidden
+bip_39_word_underscore_1: march
+bip_39_word_underscore_10: march_lend_rug_demise_stock_word_work_parrot_hidden_used
+bip_39_word_underscore_11: march_lend_rug_demise_stock_word_work_parrot_hidden_used_smoke
+bip_39_word_underscore_12: march_lend_rug_demise_stock_word_work_parrot_hidden_used_smoke_angle
+bip_39_word_underscore_2: march_lend
+bip_39_word_underscore_3: march_lend_rug
+bip_39_word_underscore_4: march_lend_rug_demise
+bip_39_word_underscore_5: march_lend_rug_demise_stock
+bip_39_word_underscore_6: march_lend_rug_demise_stock_word
+bip_39_word_underscore_7: march_lend_rug_demise_stock_word_work
+bip_39_word_underscore_8: march_lend_rug_demise_stock_word_work_parrot
+bip_39_word_underscore_9: march_lend_rug_demise_stock_word_work_parrot_hidden
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

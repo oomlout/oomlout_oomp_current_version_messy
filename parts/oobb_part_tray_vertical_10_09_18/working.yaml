@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ancient
+bip_39_word_dash_10: ancient-occur-peasant-hedgehog-ivory-chimney-ridge-panther-hair-orphan
+bip_39_word_dash_11: ancient-occur-peasant-hedgehog-ivory-chimney-ridge-panther-hair-orphan-hollow
+bip_39_word_dash_12: ancient-occur-peasant-hedgehog-ivory-chimney-ridge-panther-hair-orphan-hollow-august
+bip_39_word_dash_2: ancient-occur
+bip_39_word_dash_3: ancient-occur-peasant
+bip_39_word_dash_4: ancient-occur-peasant-hedgehog
+bip_39_word_dash_5: ancient-occur-peasant-hedgehog-ivory
+bip_39_word_dash_6: ancient-occur-peasant-hedgehog-ivory-chimney
+bip_39_word_dash_7: ancient-occur-peasant-hedgehog-ivory-chimney-ridge
+bip_39_word_dash_8: ancient-occur-peasant-hedgehog-ivory-chimney-ridge-panther
+bip_39_word_dash_9: ancient-occur-peasant-hedgehog-ivory-chimney-ridge-panther-hair
 bip_39_word_new_br_1: ancient
 bip_39_word_new_br_10: ancient<br>occur<br>peasant<br>hedgehog<br>ivory<br>chimney<br>ridge<br>panther<br>hair<br>orphan
 bip_39_word_new_br_11: ancient<br>occur<br>peasant<br>hedgehog<br>ivory<br>chimney<br>ridge<br>panther<br>hair<br>orphan<br>hollow
@@ -194,6 +206,18 @@ bip_39_word_space_6: ancient occur peasant hedgehog ivory chimney
 bip_39_word_space_7: ancient occur peasant hedgehog ivory chimney ridge
 bip_39_word_space_8: ancient occur peasant hedgehog ivory chimney ridge panther
 bip_39_word_space_9: ancient occur peasant hedgehog ivory chimney ridge panther hair
+bip_39_word_underscore_1: ancient
+bip_39_word_underscore_10: ancient_occur_peasant_hedgehog_ivory_chimney_ridge_panther_hair_orphan
+bip_39_word_underscore_11: ancient_occur_peasant_hedgehog_ivory_chimney_ridge_panther_hair_orphan_hollow
+bip_39_word_underscore_12: ancient_occur_peasant_hedgehog_ivory_chimney_ridge_panther_hair_orphan_hollow_august
+bip_39_word_underscore_2: ancient_occur
+bip_39_word_underscore_3: ancient_occur_peasant
+bip_39_word_underscore_4: ancient_occur_peasant_hedgehog
+bip_39_word_underscore_5: ancient_occur_peasant_hedgehog_ivory
+bip_39_word_underscore_6: ancient_occur_peasant_hedgehog_ivory_chimney
+bip_39_word_underscore_7: ancient_occur_peasant_hedgehog_ivory_chimney_ridge
+bip_39_word_underscore_8: ancient_occur_peasant_hedgehog_ivory_chimney_ridge_panther
+bip_39_word_underscore_9: ancient_occur_peasant_hedgehog_ivory_chimney_ridge_panther_hair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | humble |  
+| bip_39_word_dash_10 | humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness-pumpkin |  
+| bip_39_word_dash_11 | humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness-pumpkin-exhibit |  
+| bip_39_word_dash_12 | humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness-pumpkin-exhibit-assume |  
+| bip_39_word_dash_2 | humble-clerk |  
+| bip_39_word_dash_3 | humble-clerk-hockey |  
+| bip_39_word_dash_4 | humble-clerk-hockey-peace |  
+| bip_39_word_dash_5 | humble-clerk-hockey-peace-ahead |  
+| bip_39_word_dash_6 | humble-clerk-hockey-peace-ahead-public |  
+| bip_39_word_dash_7 | humble-clerk-hockey-peace-ahead-public-tattoo |  
+| bip_39_word_dash_8 | humble-clerk-hockey-peace-ahead-public-tattoo-blanket |  
+| bip_39_word_dash_9 | humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness |  
 | bip_39_word_new_br_1 | humble |  
 | bip_39_word_new_br_10 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin |  
 | bip_39_word_new_br_11 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin<br>exhibit |  
@@ -147,6 +159,18 @@ sadness |
 | bip_39_word_space_7 | humble clerk hockey peace ahead public tattoo |  
 | bip_39_word_space_8 | humble clerk hockey peace ahead public tattoo blanket |  
 | bip_39_word_space_9 | humble clerk hockey peace ahead public tattoo blanket sadness |  
+| bip_39_word_underscore_1 | humble |  
+| bip_39_word_underscore_10 | humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness_pumpkin |  
+| bip_39_word_underscore_11 | humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness_pumpkin_exhibit |  
+| bip_39_word_underscore_12 | humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness_pumpkin_exhibit_assume |  
+| bip_39_word_underscore_2 | humble_clerk |  
+| bip_39_word_underscore_3 | humble_clerk_hockey |  
+| bip_39_word_underscore_4 | humble_clerk_hockey_peace |  
+| bip_39_word_underscore_5 | humble_clerk_hockey_peace_ahead |  
+| bip_39_word_underscore_6 | humble_clerk_hockey_peace_ahead_public |  
+| bip_39_word_underscore_7 | humble_clerk_hockey_peace_ahead_public_tattoo |  
+| bip_39_word_underscore_8 | humble_clerk_hockey_peace_ahead_public_tattoo_blanket |  
+| bip_39_word_underscore_9 | humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

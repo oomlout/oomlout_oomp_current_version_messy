@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | school |  
+| bip_39_word_dash_10 | school-inch-alcohol-wet-income-frequent-loud-cattle-shoe-actual |  
+| bip_39_word_dash_11 | school-inch-alcohol-wet-income-frequent-loud-cattle-shoe-actual-glass |  
+| bip_39_word_dash_12 | school-inch-alcohol-wet-income-frequent-loud-cattle-shoe-actual-glass-addict |  
+| bip_39_word_dash_2 | school-inch |  
+| bip_39_word_dash_3 | school-inch-alcohol |  
+| bip_39_word_dash_4 | school-inch-alcohol-wet |  
+| bip_39_word_dash_5 | school-inch-alcohol-wet-income |  
+| bip_39_word_dash_6 | school-inch-alcohol-wet-income-frequent |  
+| bip_39_word_dash_7 | school-inch-alcohol-wet-income-frequent-loud |  
+| bip_39_word_dash_8 | school-inch-alcohol-wet-income-frequent-loud-cattle |  
+| bip_39_word_dash_9 | school-inch-alcohol-wet-income-frequent-loud-cattle-shoe |  
 | bip_39_word_new_br_1 | school |  
 | bip_39_word_new_br_10 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe<br>actual |  
 | bip_39_word_new_br_11 | school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe<br>actual<br>glass |  
@@ -147,6 +159,18 @@ shoe |
 | bip_39_word_space_7 | school inch alcohol wet income frequent loud |  
 | bip_39_word_space_8 | school inch alcohol wet income frequent loud cattle |  
 | bip_39_word_space_9 | school inch alcohol wet income frequent loud cattle shoe |  
+| bip_39_word_underscore_1 | school |  
+| bip_39_word_underscore_10 | school_inch_alcohol_wet_income_frequent_loud_cattle_shoe_actual |  
+| bip_39_word_underscore_11 | school_inch_alcohol_wet_income_frequent_loud_cattle_shoe_actual_glass |  
+| bip_39_word_underscore_12 | school_inch_alcohol_wet_income_frequent_loud_cattle_shoe_actual_glass_addict |  
+| bip_39_word_underscore_2 | school_inch |  
+| bip_39_word_underscore_3 | school_inch_alcohol |  
+| bip_39_word_underscore_4 | school_inch_alcohol_wet |  
+| bip_39_word_underscore_5 | school_inch_alcohol_wet_income |  
+| bip_39_word_underscore_6 | school_inch_alcohol_wet_income_frequent |  
+| bip_39_word_underscore_7 | school_inch_alcohol_wet_income_frequent_loud |  
+| bip_39_word_underscore_8 | school_inch_alcohol_wet_income_frequent_loud_cattle |  
+| bip_39_word_underscore_9 | school_inch_alcohol_wet_income_frequent_loud_cattle_shoe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

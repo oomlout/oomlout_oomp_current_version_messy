@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cage
+bip_39_word_dash_10: cage-range-among-version-two-crouch-summer-census-attitude-jelly
+bip_39_word_dash_11: cage-range-among-version-two-crouch-summer-census-attitude-jelly-kit
+bip_39_word_dash_12: cage-range-among-version-two-crouch-summer-census-attitude-jelly-kit-antenna
+bip_39_word_dash_2: cage-range
+bip_39_word_dash_3: cage-range-among
+bip_39_word_dash_4: cage-range-among-version
+bip_39_word_dash_5: cage-range-among-version-two
+bip_39_word_dash_6: cage-range-among-version-two-crouch
+bip_39_word_dash_7: cage-range-among-version-two-crouch-summer
+bip_39_word_dash_8: cage-range-among-version-two-crouch-summer-census
+bip_39_word_dash_9: cage-range-among-version-two-crouch-summer-census-attitude
 bip_39_word_new_br_1: cage
 bip_39_word_new_br_10: cage<br>range<br>among<br>version<br>two<br>crouch<br>summer<br>census<br>attitude<br>jelly
 bip_39_word_new_br_11: cage<br>range<br>among<br>version<br>two<br>crouch<br>summer<br>census<br>attitude<br>jelly<br>kit
@@ -193,6 +205,18 @@ bip_39_word_space_6: cage range among version two crouch
 bip_39_word_space_7: cage range among version two crouch summer
 bip_39_word_space_8: cage range among version two crouch summer census
 bip_39_word_space_9: cage range among version two crouch summer census attitude
+bip_39_word_underscore_1: cage
+bip_39_word_underscore_10: cage_range_among_version_two_crouch_summer_census_attitude_jelly
+bip_39_word_underscore_11: cage_range_among_version_two_crouch_summer_census_attitude_jelly_kit
+bip_39_word_underscore_12: cage_range_among_version_two_crouch_summer_census_attitude_jelly_kit_antenna
+bip_39_word_underscore_2: cage_range
+bip_39_word_underscore_3: cage_range_among
+bip_39_word_underscore_4: cage_range_among_version
+bip_39_word_underscore_5: cage_range_among_version_two
+bip_39_word_underscore_6: cage_range_among_version_two_crouch
+bip_39_word_underscore_7: cage_range_among_version_two_crouch_summer
+bip_39_word_underscore_8: cage_range_among_version_two_crouch_summer_census
+bip_39_word_underscore_9: cage_range_among_version_two_crouch_summer_census_attitude
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

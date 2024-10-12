@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | square |  
+| bip_39_word_dash_10 | square-mention-claim-magic-cruel-crop-grief-lift-kangaroo-hungry |  
+| bip_39_word_dash_11 | square-mention-claim-magic-cruel-crop-grief-lift-kangaroo-hungry-toast |  
+| bip_39_word_dash_12 | square-mention-claim-magic-cruel-crop-grief-lift-kangaroo-hungry-toast-always |  
+| bip_39_word_dash_2 | square-mention |  
+| bip_39_word_dash_3 | square-mention-claim |  
+| bip_39_word_dash_4 | square-mention-claim-magic |  
+| bip_39_word_dash_5 | square-mention-claim-magic-cruel |  
+| bip_39_word_dash_6 | square-mention-claim-magic-cruel-crop |  
+| bip_39_word_dash_7 | square-mention-claim-magic-cruel-crop-grief |  
+| bip_39_word_dash_8 | square-mention-claim-magic-cruel-crop-grief-lift |  
+| bip_39_word_dash_9 | square-mention-claim-magic-cruel-crop-grief-lift-kangaroo |  
 | bip_39_word_new_br_1 | square |  
 | bip_39_word_new_br_10 | square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift<br>kangaroo<br>hungry |  
 | bip_39_word_new_br_11 | square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift<br>kangaroo<br>hungry<br>toast |  
@@ -147,6 +159,18 @@ kangaroo |
 | bip_39_word_space_7 | square mention claim magic cruel crop grief |  
 | bip_39_word_space_8 | square mention claim magic cruel crop grief lift |  
 | bip_39_word_space_9 | square mention claim magic cruel crop grief lift kangaroo |  
+| bip_39_word_underscore_1 | square |  
+| bip_39_word_underscore_10 | square_mention_claim_magic_cruel_crop_grief_lift_kangaroo_hungry |  
+| bip_39_word_underscore_11 | square_mention_claim_magic_cruel_crop_grief_lift_kangaroo_hungry_toast |  
+| bip_39_word_underscore_12 | square_mention_claim_magic_cruel_crop_grief_lift_kangaroo_hungry_toast_always |  
+| bip_39_word_underscore_2 | square_mention |  
+| bip_39_word_underscore_3 | square_mention_claim |  
+| bip_39_word_underscore_4 | square_mention_claim_magic |  
+| bip_39_word_underscore_5 | square_mention_claim_magic_cruel |  
+| bip_39_word_underscore_6 | square_mention_claim_magic_cruel_crop |  
+| bip_39_word_underscore_7 | square_mention_claim_magic_cruel_crop_grief |  
+| bip_39_word_underscore_8 | square_mention_claim_magic_cruel_crop_grief_lift |  
+| bip_39_word_underscore_9 | square_mention_claim_magic_cruel_crop_grief_lift_kangaroo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

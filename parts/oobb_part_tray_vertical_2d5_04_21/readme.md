@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spatial |  
+| bip_39_word_dash_10 | spatial-two-coyote-motor-three-output-violin-real-advice-market |  
+| bip_39_word_dash_11 | spatial-two-coyote-motor-three-output-violin-real-advice-market-bike |  
+| bip_39_word_dash_12 | spatial-two-coyote-motor-three-output-violin-real-advice-market-bike-aisle |  
+| bip_39_word_dash_2 | spatial-two |  
+| bip_39_word_dash_3 | spatial-two-coyote |  
+| bip_39_word_dash_4 | spatial-two-coyote-motor |  
+| bip_39_word_dash_5 | spatial-two-coyote-motor-three |  
+| bip_39_word_dash_6 | spatial-two-coyote-motor-three-output |  
+| bip_39_word_dash_7 | spatial-two-coyote-motor-three-output-violin |  
+| bip_39_word_dash_8 | spatial-two-coyote-motor-three-output-violin-real |  
+| bip_39_word_dash_9 | spatial-two-coyote-motor-three-output-violin-real-advice |  
 | bip_39_word_new_br_1 | spatial |  
 | bip_39_word_new_br_10 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real<br>advice<br>market |  
 | bip_39_word_new_br_11 | spatial<br>two<br>coyote<br>motor<br>three<br>output<br>violin<br>real<br>advice<br>market<br>bike |  
@@ -147,6 +159,18 @@ advice |
 | bip_39_word_space_7 | spatial two coyote motor three output violin |  
 | bip_39_word_space_8 | spatial two coyote motor three output violin real |  
 | bip_39_word_space_9 | spatial two coyote motor three output violin real advice |  
+| bip_39_word_underscore_1 | spatial |  
+| bip_39_word_underscore_10 | spatial_two_coyote_motor_three_output_violin_real_advice_market |  
+| bip_39_word_underscore_11 | spatial_two_coyote_motor_three_output_violin_real_advice_market_bike |  
+| bip_39_word_underscore_12 | spatial_two_coyote_motor_three_output_violin_real_advice_market_bike_aisle |  
+| bip_39_word_underscore_2 | spatial_two |  
+| bip_39_word_underscore_3 | spatial_two_coyote |  
+| bip_39_word_underscore_4 | spatial_two_coyote_motor |  
+| bip_39_word_underscore_5 | spatial_two_coyote_motor_three |  
+| bip_39_word_underscore_6 | spatial_two_coyote_motor_three_output |  
+| bip_39_word_underscore_7 | spatial_two_coyote_motor_three_output_violin |  
+| bip_39_word_underscore_8 | spatial_two_coyote_motor_three_output_violin_real |  
+| bip_39_word_underscore_9 | spatial_two_coyote_motor_three_output_violin_real_advice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

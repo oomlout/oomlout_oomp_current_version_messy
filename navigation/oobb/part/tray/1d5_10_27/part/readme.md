@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wall |  
+| bip_39_word_dash_10 | wall-busy-entry-ivory-adapt-minimum-glow-rack-explain-project |  
+| bip_39_word_dash_11 | wall-busy-entry-ivory-adapt-minimum-glow-rack-explain-project-apple |  
+| bip_39_word_dash_12 | wall-busy-entry-ivory-adapt-minimum-glow-rack-explain-project-apple-author |  
+| bip_39_word_dash_2 | wall-busy |  
+| bip_39_word_dash_3 | wall-busy-entry |  
+| bip_39_word_dash_4 | wall-busy-entry-ivory |  
+| bip_39_word_dash_5 | wall-busy-entry-ivory-adapt |  
+| bip_39_word_dash_6 | wall-busy-entry-ivory-adapt-minimum |  
+| bip_39_word_dash_7 | wall-busy-entry-ivory-adapt-minimum-glow |  
+| bip_39_word_dash_8 | wall-busy-entry-ivory-adapt-minimum-glow-rack |  
+| bip_39_word_dash_9 | wall-busy-entry-ivory-adapt-minimum-glow-rack-explain |  
 | bip_39_word_new_br_1 | wall |  
 | bip_39_word_new_br_10 | wall<br>busy<br>entry<br>ivory<br>adapt<br>minimum<br>glow<br>rack<br>explain<br>project |  
 | bip_39_word_new_br_11 | wall<br>busy<br>entry<br>ivory<br>adapt<br>minimum<br>glow<br>rack<br>explain<br>project<br>apple |  
@@ -147,6 +159,18 @@ explain |
 | bip_39_word_space_7 | wall busy entry ivory adapt minimum glow |  
 | bip_39_word_space_8 | wall busy entry ivory adapt minimum glow rack |  
 | bip_39_word_space_9 | wall busy entry ivory adapt minimum glow rack explain |  
+| bip_39_word_underscore_1 | wall |  
+| bip_39_word_underscore_10 | wall_busy_entry_ivory_adapt_minimum_glow_rack_explain_project |  
+| bip_39_word_underscore_11 | wall_busy_entry_ivory_adapt_minimum_glow_rack_explain_project_apple |  
+| bip_39_word_underscore_12 | wall_busy_entry_ivory_adapt_minimum_glow_rack_explain_project_apple_author |  
+| bip_39_word_underscore_2 | wall_busy |  
+| bip_39_word_underscore_3 | wall_busy_entry |  
+| bip_39_word_underscore_4 | wall_busy_entry_ivory |  
+| bip_39_word_underscore_5 | wall_busy_entry_ivory_adapt |  
+| bip_39_word_underscore_6 | wall_busy_entry_ivory_adapt_minimum |  
+| bip_39_word_underscore_7 | wall_busy_entry_ivory_adapt_minimum_glow |  
+| bip_39_word_underscore_8 | wall_busy_entry_ivory_adapt_minimum_glow_rack |  
+| bip_39_word_underscore_9 | wall_busy_entry_ivory_adapt_minimum_glow_rack_explain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

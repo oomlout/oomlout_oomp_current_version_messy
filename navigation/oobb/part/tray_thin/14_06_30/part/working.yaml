@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brand
+bip_39_word_dash_10: brand-save-finger-zero-cheese-enrich-bench-gauge-domain-alcohol
+bip_39_word_dash_11: brand-save-finger-zero-cheese-enrich-bench-gauge-domain-alcohol-lunar
+bip_39_word_dash_12: brand-save-finger-zero-cheese-enrich-bench-gauge-domain-alcohol-lunar-anger
+bip_39_word_dash_2: brand-save
+bip_39_word_dash_3: brand-save-finger
+bip_39_word_dash_4: brand-save-finger-zero
+bip_39_word_dash_5: brand-save-finger-zero-cheese
+bip_39_word_dash_6: brand-save-finger-zero-cheese-enrich
+bip_39_word_dash_7: brand-save-finger-zero-cheese-enrich-bench
+bip_39_word_dash_8: brand-save-finger-zero-cheese-enrich-bench-gauge
+bip_39_word_dash_9: brand-save-finger-zero-cheese-enrich-bench-gauge-domain
 bip_39_word_new_br_1: brand
 bip_39_word_new_br_10: brand<br>save<br>finger<br>zero<br>cheese<br>enrich<br>bench<br>gauge<br>domain<br>alcohol
 bip_39_word_new_br_11: brand<br>save<br>finger<br>zero<br>cheese<br>enrich<br>bench<br>gauge<br>domain<br>alcohol<br>lunar
@@ -193,6 +205,18 @@ bip_39_word_space_6: brand save finger zero cheese enrich
 bip_39_word_space_7: brand save finger zero cheese enrich bench
 bip_39_word_space_8: brand save finger zero cheese enrich bench gauge
 bip_39_word_space_9: brand save finger zero cheese enrich bench gauge domain
+bip_39_word_underscore_1: brand
+bip_39_word_underscore_10: brand_save_finger_zero_cheese_enrich_bench_gauge_domain_alcohol
+bip_39_word_underscore_11: brand_save_finger_zero_cheese_enrich_bench_gauge_domain_alcohol_lunar
+bip_39_word_underscore_12: brand_save_finger_zero_cheese_enrich_bench_gauge_domain_alcohol_lunar_anger
+bip_39_word_underscore_2: brand_save
+bip_39_word_underscore_3: brand_save_finger
+bip_39_word_underscore_4: brand_save_finger_zero
+bip_39_word_underscore_5: brand_save_finger_zero_cheese
+bip_39_word_underscore_6: brand_save_finger_zero_cheese_enrich
+bip_39_word_underscore_7: brand_save_finger_zero_cheese_enrich_bench
+bip_39_word_underscore_8: brand_save_finger_zero_cheese_enrich_bench_gauge
+bip_39_word_underscore_9: brand_save_finger_zero_cheese_enrich_bench_gauge_domain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: afraid
+bip_39_word_dash_10: afraid-next-buzz-deal-acoustic-consider-soap-code-ripple-this
+bip_39_word_dash_11: afraid-next-buzz-deal-acoustic-consider-soap-code-ripple-this-ball
+bip_39_word_dash_12: afraid-next-buzz-deal-acoustic-consider-soap-code-ripple-this-ball-abstract
+bip_39_word_dash_2: afraid-next
+bip_39_word_dash_3: afraid-next-buzz
+bip_39_word_dash_4: afraid-next-buzz-deal
+bip_39_word_dash_5: afraid-next-buzz-deal-acoustic
+bip_39_word_dash_6: afraid-next-buzz-deal-acoustic-consider
+bip_39_word_dash_7: afraid-next-buzz-deal-acoustic-consider-soap
+bip_39_word_dash_8: afraid-next-buzz-deal-acoustic-consider-soap-code
+bip_39_word_dash_9: afraid-next-buzz-deal-acoustic-consider-soap-code-ripple
 bip_39_word_new_br_1: afraid
 bip_39_word_new_br_10: afraid<br>next<br>buzz<br>deal<br>acoustic<br>consider<br>soap<br>code<br>ripple<br>this
 bip_39_word_new_br_11: afraid<br>next<br>buzz<br>deal<br>acoustic<br>consider<br>soap<br>code<br>ripple<br>this<br>ball
@@ -193,6 +205,18 @@ bip_39_word_space_6: afraid next buzz deal acoustic consider
 bip_39_word_space_7: afraid next buzz deal acoustic consider soap
 bip_39_word_space_8: afraid next buzz deal acoustic consider soap code
 bip_39_word_space_9: afraid next buzz deal acoustic consider soap code ripple
+bip_39_word_underscore_1: afraid
+bip_39_word_underscore_10: afraid_next_buzz_deal_acoustic_consider_soap_code_ripple_this
+bip_39_word_underscore_11: afraid_next_buzz_deal_acoustic_consider_soap_code_ripple_this_ball
+bip_39_word_underscore_12: afraid_next_buzz_deal_acoustic_consider_soap_code_ripple_this_ball_abstract
+bip_39_word_underscore_2: afraid_next
+bip_39_word_underscore_3: afraid_next_buzz
+bip_39_word_underscore_4: afraid_next_buzz_deal
+bip_39_word_underscore_5: afraid_next_buzz_deal_acoustic
+bip_39_word_underscore_6: afraid_next_buzz_deal_acoustic_consider
+bip_39_word_underscore_7: afraid_next_buzz_deal_acoustic_consider_soap
+bip_39_word_underscore_8: afraid_next_buzz_deal_acoustic_consider_soap_code
+bip_39_word_underscore_9: afraid_next_buzz_deal_acoustic_consider_soap_code_ripple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

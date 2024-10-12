@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | venture |  
+| bip_39_word_dash_10 | venture-name-unique-alarm-hip-case-misery-few-lumber-grid |  
+| bip_39_word_dash_11 | venture-name-unique-alarm-hip-case-misery-few-lumber-grid-congress |  
+| bip_39_word_dash_12 | venture-name-unique-alarm-hip-case-misery-few-lumber-grid-congress-accuse |  
+| bip_39_word_dash_2 | venture-name |  
+| bip_39_word_dash_3 | venture-name-unique |  
+| bip_39_word_dash_4 | venture-name-unique-alarm |  
+| bip_39_word_dash_5 | venture-name-unique-alarm-hip |  
+| bip_39_word_dash_6 | venture-name-unique-alarm-hip-case |  
+| bip_39_word_dash_7 | venture-name-unique-alarm-hip-case-misery |  
+| bip_39_word_dash_8 | venture-name-unique-alarm-hip-case-misery-few |  
+| bip_39_word_dash_9 | venture-name-unique-alarm-hip-case-misery-few-lumber |  
 | bip_39_word_new_br_1 | venture |  
 | bip_39_word_new_br_10 | venture<br>name<br>unique<br>alarm<br>hip<br>case<br>misery<br>few<br>lumber<br>grid |  
 | bip_39_word_new_br_11 | venture<br>name<br>unique<br>alarm<br>hip<br>case<br>misery<br>few<br>lumber<br>grid<br>congress |  
@@ -147,6 +159,18 @@ lumber |
 | bip_39_word_space_7 | venture name unique alarm hip case misery |  
 | bip_39_word_space_8 | venture name unique alarm hip case misery few |  
 | bip_39_word_space_9 | venture name unique alarm hip case misery few lumber |  
+| bip_39_word_underscore_1 | venture |  
+| bip_39_word_underscore_10 | venture_name_unique_alarm_hip_case_misery_few_lumber_grid |  
+| bip_39_word_underscore_11 | venture_name_unique_alarm_hip_case_misery_few_lumber_grid_congress |  
+| bip_39_word_underscore_12 | venture_name_unique_alarm_hip_case_misery_few_lumber_grid_congress_accuse |  
+| bip_39_word_underscore_2 | venture_name |  
+| bip_39_word_underscore_3 | venture_name_unique |  
+| bip_39_word_underscore_4 | venture_name_unique_alarm |  
+| bip_39_word_underscore_5 | venture_name_unique_alarm_hip |  
+| bip_39_word_underscore_6 | venture_name_unique_alarm_hip_case |  
+| bip_39_word_underscore_7 | venture_name_unique_alarm_hip_case_misery |  
+| bip_39_word_underscore_8 | venture_name_unique_alarm_hip_case_misery_few |  
+| bip_39_word_underscore_9 | venture_name_unique_alarm_hip_case_misery_few_lumber |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dish |  
+| bip_39_word_dash_10 | dish-install-can-kiwi-nothing-hint-clutch-essay-badge-blast |  
+| bip_39_word_dash_11 | dish-install-can-kiwi-nothing-hint-clutch-essay-badge-blast-energy |  
+| bip_39_word_dash_12 | dish-install-can-kiwi-nothing-hint-clutch-essay-badge-blast-energy-artist |  
+| bip_39_word_dash_2 | dish-install |  
+| bip_39_word_dash_3 | dish-install-can |  
+| bip_39_word_dash_4 | dish-install-can-kiwi |  
+| bip_39_word_dash_5 | dish-install-can-kiwi-nothing |  
+| bip_39_word_dash_6 | dish-install-can-kiwi-nothing-hint |  
+| bip_39_word_dash_7 | dish-install-can-kiwi-nothing-hint-clutch |  
+| bip_39_word_dash_8 | dish-install-can-kiwi-nothing-hint-clutch-essay |  
+| bip_39_word_dash_9 | dish-install-can-kiwi-nothing-hint-clutch-essay-badge |  
 | bip_39_word_new_br_1 | dish |  
 | bip_39_word_new_br_10 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay<br>badge<br>blast |  
 | bip_39_word_new_br_11 | dish<br>install<br>can<br>kiwi<br>nothing<br>hint<br>clutch<br>essay<br>badge<br>blast<br>energy |  
@@ -147,6 +159,18 @@ badge |
 | bip_39_word_space_7 | dish install can kiwi nothing hint clutch |  
 | bip_39_word_space_8 | dish install can kiwi nothing hint clutch essay |  
 | bip_39_word_space_9 | dish install can kiwi nothing hint clutch essay badge |  
+| bip_39_word_underscore_1 | dish |  
+| bip_39_word_underscore_10 | dish_install_can_kiwi_nothing_hint_clutch_essay_badge_blast |  
+| bip_39_word_underscore_11 | dish_install_can_kiwi_nothing_hint_clutch_essay_badge_blast_energy |  
+| bip_39_word_underscore_12 | dish_install_can_kiwi_nothing_hint_clutch_essay_badge_blast_energy_artist |  
+| bip_39_word_underscore_2 | dish_install |  
+| bip_39_word_underscore_3 | dish_install_can |  
+| bip_39_word_underscore_4 | dish_install_can_kiwi |  
+| bip_39_word_underscore_5 | dish_install_can_kiwi_nothing |  
+| bip_39_word_underscore_6 | dish_install_can_kiwi_nothing_hint |  
+| bip_39_word_underscore_7 | dish_install_can_kiwi_nothing_hint_clutch |  
+| bip_39_word_underscore_8 | dish_install_can_kiwi_nothing_hint_clutch_essay |  
+| bip_39_word_underscore_9 | dish_install_can_kiwi_nothing_hint_clutch_essay_badge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

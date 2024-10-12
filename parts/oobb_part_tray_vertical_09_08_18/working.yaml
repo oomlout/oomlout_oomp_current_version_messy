@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unaware
+bip_39_word_dash_10: unaware-sick-charge-steel-shaft-hundred-peace-invest-caught-inhale
+bip_39_word_dash_11: unaware-sick-charge-steel-shaft-hundred-peace-invest-caught-inhale-glue
+bip_39_word_dash_12: unaware-sick-charge-steel-shaft-hundred-peace-invest-caught-inhale-glue-annual
+bip_39_word_dash_2: unaware-sick
+bip_39_word_dash_3: unaware-sick-charge
+bip_39_word_dash_4: unaware-sick-charge-steel
+bip_39_word_dash_5: unaware-sick-charge-steel-shaft
+bip_39_word_dash_6: unaware-sick-charge-steel-shaft-hundred
+bip_39_word_dash_7: unaware-sick-charge-steel-shaft-hundred-peace
+bip_39_word_dash_8: unaware-sick-charge-steel-shaft-hundred-peace-invest
+bip_39_word_dash_9: unaware-sick-charge-steel-shaft-hundred-peace-invest-caught
 bip_39_word_new_br_1: unaware
 bip_39_word_new_br_10: unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale
 bip_39_word_new_br_11: unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale<br>glue
@@ -194,6 +206,18 @@ bip_39_word_space_6: unaware sick charge steel shaft hundred
 bip_39_word_space_7: unaware sick charge steel shaft hundred peace
 bip_39_word_space_8: unaware sick charge steel shaft hundred peace invest
 bip_39_word_space_9: unaware sick charge steel shaft hundred peace invest caught
+bip_39_word_underscore_1: unaware
+bip_39_word_underscore_10: unaware_sick_charge_steel_shaft_hundred_peace_invest_caught_inhale
+bip_39_word_underscore_11: unaware_sick_charge_steel_shaft_hundred_peace_invest_caught_inhale_glue
+bip_39_word_underscore_12: unaware_sick_charge_steel_shaft_hundred_peace_invest_caught_inhale_glue_annual
+bip_39_word_underscore_2: unaware_sick
+bip_39_word_underscore_3: unaware_sick_charge
+bip_39_word_underscore_4: unaware_sick_charge_steel
+bip_39_word_underscore_5: unaware_sick_charge_steel_shaft
+bip_39_word_underscore_6: unaware_sick_charge_steel_shaft_hundred
+bip_39_word_underscore_7: unaware_sick_charge_steel_shaft_hundred_peace
+bip_39_word_underscore_8: unaware_sick_charge_steel_shaft_hundred_peace_invest
+bip_39_word_underscore_9: unaware_sick_charge_steel_shaft_hundred_peace_invest_caught
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

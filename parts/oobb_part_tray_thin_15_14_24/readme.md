@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | action |  
+| bip_39_word_dash_10 | action-crime-mind-name-tip-achieve-hundred-today-movie-staff |  
+| bip_39_word_dash_11 | action-crime-mind-name-tip-achieve-hundred-today-movie-staff-traffic |  
+| bip_39_word_dash_12 | action-crime-mind-name-tip-achieve-hundred-today-movie-staff-traffic-assist |  
+| bip_39_word_dash_2 | action-crime |  
+| bip_39_word_dash_3 | action-crime-mind |  
+| bip_39_word_dash_4 | action-crime-mind-name |  
+| bip_39_word_dash_5 | action-crime-mind-name-tip |  
+| bip_39_word_dash_6 | action-crime-mind-name-tip-achieve |  
+| bip_39_word_dash_7 | action-crime-mind-name-tip-achieve-hundred |  
+| bip_39_word_dash_8 | action-crime-mind-name-tip-achieve-hundred-today |  
+| bip_39_word_dash_9 | action-crime-mind-name-tip-achieve-hundred-today-movie |  
 | bip_39_word_new_br_1 | action |  
 | bip_39_word_new_br_10 | action<br>crime<br>mind<br>name<br>tip<br>achieve<br>hundred<br>today<br>movie<br>staff |  
 | bip_39_word_new_br_11 | action<br>crime<br>mind<br>name<br>tip<br>achieve<br>hundred<br>today<br>movie<br>staff<br>traffic |  
@@ -147,6 +159,18 @@ movie |
 | bip_39_word_space_7 | action crime mind name tip achieve hundred |  
 | bip_39_word_space_8 | action crime mind name tip achieve hundred today |  
 | bip_39_word_space_9 | action crime mind name tip achieve hundred today movie |  
+| bip_39_word_underscore_1 | action |  
+| bip_39_word_underscore_10 | action_crime_mind_name_tip_achieve_hundred_today_movie_staff |  
+| bip_39_word_underscore_11 | action_crime_mind_name_tip_achieve_hundred_today_movie_staff_traffic |  
+| bip_39_word_underscore_12 | action_crime_mind_name_tip_achieve_hundred_today_movie_staff_traffic_assist |  
+| bip_39_word_underscore_2 | action_crime |  
+| bip_39_word_underscore_3 | action_crime_mind |  
+| bip_39_word_underscore_4 | action_crime_mind_name |  
+| bip_39_word_underscore_5 | action_crime_mind_name_tip |  
+| bip_39_word_underscore_6 | action_crime_mind_name_tip_achieve |  
+| bip_39_word_underscore_7 | action_crime_mind_name_tip_achieve_hundred |  
+| bip_39_word_underscore_8 | action_crime_mind_name_tip_achieve_hundred_today |  
+| bip_39_word_underscore_9 | action_crime_mind_name_tip_achieve_hundred_today_movie |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

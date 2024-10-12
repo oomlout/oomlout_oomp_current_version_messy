@@ -1,3 +1,15 @@
+bip_39_word_dash_1: area
+bip_39_word_dash_10: area-void-obtain-access-claw-purchase-miss-ask-tribe-absent
+bip_39_word_dash_11: area-void-obtain-access-claw-purchase-miss-ask-tribe-absent-noodle
+bip_39_word_dash_12: area-void-obtain-access-claw-purchase-miss-ask-tribe-absent-noodle-alley
+bip_39_word_dash_2: area-void
+bip_39_word_dash_3: area-void-obtain
+bip_39_word_dash_4: area-void-obtain-access
+bip_39_word_dash_5: area-void-obtain-access-claw
+bip_39_word_dash_6: area-void-obtain-access-claw-purchase
+bip_39_word_dash_7: area-void-obtain-access-claw-purchase-miss
+bip_39_word_dash_8: area-void-obtain-access-claw-purchase-miss-ask
+bip_39_word_dash_9: area-void-obtain-access-claw-purchase-miss-ask-tribe
 bip_39_word_new_br_1: area
 bip_39_word_new_br_10: area<br>void<br>obtain<br>access<br>claw<br>purchase<br>miss<br>ask<br>tribe<br>absent
 bip_39_word_new_br_11: area<br>void<br>obtain<br>access<br>claw<br>purchase<br>miss<br>ask<br>tribe<br>absent<br>noodle
@@ -193,6 +205,18 @@ bip_39_word_space_6: area void obtain access claw purchase
 bip_39_word_space_7: area void obtain access claw purchase miss
 bip_39_word_space_8: area void obtain access claw purchase miss ask
 bip_39_word_space_9: area void obtain access claw purchase miss ask tribe
+bip_39_word_underscore_1: area
+bip_39_word_underscore_10: area_void_obtain_access_claw_purchase_miss_ask_tribe_absent
+bip_39_word_underscore_11: area_void_obtain_access_claw_purchase_miss_ask_tribe_absent_noodle
+bip_39_word_underscore_12: area_void_obtain_access_claw_purchase_miss_ask_tribe_absent_noodle_alley
+bip_39_word_underscore_2: area_void
+bip_39_word_underscore_3: area_void_obtain
+bip_39_word_underscore_4: area_void_obtain_access
+bip_39_word_underscore_5: area_void_obtain_access_claw
+bip_39_word_underscore_6: area_void_obtain_access_claw_purchase
+bip_39_word_underscore_7: area_void_obtain_access_claw_purchase_miss
+bip_39_word_underscore_8: area_void_obtain_access_claw_purchase_miss_ask
+bip_39_word_underscore_9: area_void_obtain_access_claw_purchase_miss_ask_tribe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: practice
+bip_39_word_dash_10: practice-jungle-check-subway-there-story-use-cement-urban-jacket
+bip_39_word_dash_11: practice-jungle-check-subway-there-story-use-cement-urban-jacket-vapor
+bip_39_word_dash_12: practice-jungle-check-subway-there-story-use-cement-urban-jacket-vapor-alone
+bip_39_word_dash_2: practice-jungle
+bip_39_word_dash_3: practice-jungle-check
+bip_39_word_dash_4: practice-jungle-check-subway
+bip_39_word_dash_5: practice-jungle-check-subway-there
+bip_39_word_dash_6: practice-jungle-check-subway-there-story
+bip_39_word_dash_7: practice-jungle-check-subway-there-story-use
+bip_39_word_dash_8: practice-jungle-check-subway-there-story-use-cement
+bip_39_word_dash_9: practice-jungle-check-subway-there-story-use-cement-urban
 bip_39_word_new_br_1: practice
 bip_39_word_new_br_10: practice<br>jungle<br>check<br>subway<br>there<br>story<br>use<br>cement<br>urban<br>jacket
 bip_39_word_new_br_11: practice<br>jungle<br>check<br>subway<br>there<br>story<br>use<br>cement<br>urban<br>jacket<br>vapor
@@ -193,6 +205,18 @@ bip_39_word_space_6: practice jungle check subway there story
 bip_39_word_space_7: practice jungle check subway there story use
 bip_39_word_space_8: practice jungle check subway there story use cement
 bip_39_word_space_9: practice jungle check subway there story use cement urban
+bip_39_word_underscore_1: practice
+bip_39_word_underscore_10: practice_jungle_check_subway_there_story_use_cement_urban_jacket
+bip_39_word_underscore_11: practice_jungle_check_subway_there_story_use_cement_urban_jacket_vapor
+bip_39_word_underscore_12: practice_jungle_check_subway_there_story_use_cement_urban_jacket_vapor_alone
+bip_39_word_underscore_2: practice_jungle
+bip_39_word_underscore_3: practice_jungle_check
+bip_39_word_underscore_4: practice_jungle_check_subway
+bip_39_word_underscore_5: practice_jungle_check_subway_there
+bip_39_word_underscore_6: practice_jungle_check_subway_there_story
+bip_39_word_underscore_7: practice_jungle_check_subway_there_story_use
+bip_39_word_underscore_8: practice_jungle_check_subway_there_story_use_cement
+bip_39_word_underscore_9: practice_jungle_check_subway_there_story_use_cement_urban
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

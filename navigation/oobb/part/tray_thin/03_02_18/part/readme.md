@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | safe |  
+| bip_39_word_dash_10 | safe-dinner-cool-shuffle-viable-sun-street-verify-lounge-stumble |  
+| bip_39_word_dash_11 | safe-dinner-cool-shuffle-viable-sun-street-verify-lounge-stumble-pond |  
+| bip_39_word_dash_12 | safe-dinner-cool-shuffle-viable-sun-street-verify-lounge-stumble-pond-aerobic |  
+| bip_39_word_dash_2 | safe-dinner |  
+| bip_39_word_dash_3 | safe-dinner-cool |  
+| bip_39_word_dash_4 | safe-dinner-cool-shuffle |  
+| bip_39_word_dash_5 | safe-dinner-cool-shuffle-viable |  
+| bip_39_word_dash_6 | safe-dinner-cool-shuffle-viable-sun |  
+| bip_39_word_dash_7 | safe-dinner-cool-shuffle-viable-sun-street |  
+| bip_39_word_dash_8 | safe-dinner-cool-shuffle-viable-sun-street-verify |  
+| bip_39_word_dash_9 | safe-dinner-cool-shuffle-viable-sun-street-verify-lounge |  
 | bip_39_word_new_br_1 | safe |  
 | bip_39_word_new_br_10 | safe<br>dinner<br>cool<br>shuffle<br>viable<br>sun<br>street<br>verify<br>lounge<br>stumble |  
 | bip_39_word_new_br_11 | safe<br>dinner<br>cool<br>shuffle<br>viable<br>sun<br>street<br>verify<br>lounge<br>stumble<br>pond |  
@@ -147,6 +159,18 @@ lounge |
 | bip_39_word_space_7 | safe dinner cool shuffle viable sun street |  
 | bip_39_word_space_8 | safe dinner cool shuffle viable sun street verify |  
 | bip_39_word_space_9 | safe dinner cool shuffle viable sun street verify lounge |  
+| bip_39_word_underscore_1 | safe |  
+| bip_39_word_underscore_10 | safe_dinner_cool_shuffle_viable_sun_street_verify_lounge_stumble |  
+| bip_39_word_underscore_11 | safe_dinner_cool_shuffle_viable_sun_street_verify_lounge_stumble_pond |  
+| bip_39_word_underscore_12 | safe_dinner_cool_shuffle_viable_sun_street_verify_lounge_stumble_pond_aerobic |  
+| bip_39_word_underscore_2 | safe_dinner |  
+| bip_39_word_underscore_3 | safe_dinner_cool |  
+| bip_39_word_underscore_4 | safe_dinner_cool_shuffle |  
+| bip_39_word_underscore_5 | safe_dinner_cool_shuffle_viable |  
+| bip_39_word_underscore_6 | safe_dinner_cool_shuffle_viable_sun |  
+| bip_39_word_underscore_7 | safe_dinner_cool_shuffle_viable_sun_street |  
+| bip_39_word_underscore_8 | safe_dinner_cool_shuffle_viable_sun_street_verify |  
+| bip_39_word_underscore_9 | safe_dinner_cool_shuffle_viable_sun_street_verify_lounge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jacket
+bip_39_word_dash_10: jacket-risk-upon-reopen-turkey-fatal-yellow-bench-symbol-away
+bip_39_word_dash_11: jacket-risk-upon-reopen-turkey-fatal-yellow-bench-symbol-away-hover
+bip_39_word_dash_12: jacket-risk-upon-reopen-turkey-fatal-yellow-bench-symbol-away-hover-attitude
+bip_39_word_dash_2: jacket-risk
+bip_39_word_dash_3: jacket-risk-upon
+bip_39_word_dash_4: jacket-risk-upon-reopen
+bip_39_word_dash_5: jacket-risk-upon-reopen-turkey
+bip_39_word_dash_6: jacket-risk-upon-reopen-turkey-fatal
+bip_39_word_dash_7: jacket-risk-upon-reopen-turkey-fatal-yellow
+bip_39_word_dash_8: jacket-risk-upon-reopen-turkey-fatal-yellow-bench
+bip_39_word_dash_9: jacket-risk-upon-reopen-turkey-fatal-yellow-bench-symbol
 bip_39_word_new_br_1: jacket
 bip_39_word_new_br_10: jacket<br>risk<br>upon<br>reopen<br>turkey<br>fatal<br>yellow<br>bench<br>symbol<br>away
 bip_39_word_new_br_11: jacket<br>risk<br>upon<br>reopen<br>turkey<br>fatal<br>yellow<br>bench<br>symbol<br>away<br>hover
@@ -193,6 +205,18 @@ bip_39_word_space_6: jacket risk upon reopen turkey fatal
 bip_39_word_space_7: jacket risk upon reopen turkey fatal yellow
 bip_39_word_space_8: jacket risk upon reopen turkey fatal yellow bench
 bip_39_word_space_9: jacket risk upon reopen turkey fatal yellow bench symbol
+bip_39_word_underscore_1: jacket
+bip_39_word_underscore_10: jacket_risk_upon_reopen_turkey_fatal_yellow_bench_symbol_away
+bip_39_word_underscore_11: jacket_risk_upon_reopen_turkey_fatal_yellow_bench_symbol_away_hover
+bip_39_word_underscore_12: jacket_risk_upon_reopen_turkey_fatal_yellow_bench_symbol_away_hover_attitude
+bip_39_word_underscore_2: jacket_risk
+bip_39_word_underscore_3: jacket_risk_upon
+bip_39_word_underscore_4: jacket_risk_upon_reopen
+bip_39_word_underscore_5: jacket_risk_upon_reopen_turkey
+bip_39_word_underscore_6: jacket_risk_upon_reopen_turkey_fatal
+bip_39_word_underscore_7: jacket_risk_upon_reopen_turkey_fatal_yellow
+bip_39_word_underscore_8: jacket_risk_upon_reopen_turkey_fatal_yellow_bench
+bip_39_word_underscore_9: jacket_risk_upon_reopen_turkey_fatal_yellow_bench_symbol
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

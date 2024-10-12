@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fabric
+bip_39_word_dash_10: fabric-evil-tank-early-avoid-tide-ankle-weapon-better-hurdle
+bip_39_word_dash_11: fabric-evil-tank-early-avoid-tide-ankle-weapon-better-hurdle-catch
+bip_39_word_dash_12: fabric-evil-tank-early-avoid-tide-ankle-weapon-better-hurdle-catch-anchor
+bip_39_word_dash_2: fabric-evil
+bip_39_word_dash_3: fabric-evil-tank
+bip_39_word_dash_4: fabric-evil-tank-early
+bip_39_word_dash_5: fabric-evil-tank-early-avoid
+bip_39_word_dash_6: fabric-evil-tank-early-avoid-tide
+bip_39_word_dash_7: fabric-evil-tank-early-avoid-tide-ankle
+bip_39_word_dash_8: fabric-evil-tank-early-avoid-tide-ankle-weapon
+bip_39_word_dash_9: fabric-evil-tank-early-avoid-tide-ankle-weapon-better
 bip_39_word_new_br_1: fabric
 bip_39_word_new_br_10: fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon<br>better<br>hurdle
 bip_39_word_new_br_11: fabric<br>evil<br>tank<br>early<br>avoid<br>tide<br>ankle<br>weapon<br>better<br>hurdle<br>catch
@@ -193,6 +205,18 @@ bip_39_word_space_6: fabric evil tank early avoid tide
 bip_39_word_space_7: fabric evil tank early avoid tide ankle
 bip_39_word_space_8: fabric evil tank early avoid tide ankle weapon
 bip_39_word_space_9: fabric evil tank early avoid tide ankle weapon better
+bip_39_word_underscore_1: fabric
+bip_39_word_underscore_10: fabric_evil_tank_early_avoid_tide_ankle_weapon_better_hurdle
+bip_39_word_underscore_11: fabric_evil_tank_early_avoid_tide_ankle_weapon_better_hurdle_catch
+bip_39_word_underscore_12: fabric_evil_tank_early_avoid_tide_ankle_weapon_better_hurdle_catch_anchor
+bip_39_word_underscore_2: fabric_evil
+bip_39_word_underscore_3: fabric_evil_tank
+bip_39_word_underscore_4: fabric_evil_tank_early
+bip_39_word_underscore_5: fabric_evil_tank_early_avoid
+bip_39_word_underscore_6: fabric_evil_tank_early_avoid_tide
+bip_39_word_underscore_7: fabric_evil_tank_early_avoid_tide_ankle
+bip_39_word_underscore_8: fabric_evil_tank_early_avoid_tide_ankle_weapon
+bip_39_word_underscore_9: fabric_evil_tank_early_avoid_tide_ankle_weapon_better
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

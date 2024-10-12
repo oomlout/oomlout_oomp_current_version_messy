@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | series |  
+| bip_39_word_dash_10 | series-globe-bean-warm-stay-gadget-eye-math-mountain-host |  
+| bip_39_word_dash_11 | series-globe-bean-warm-stay-gadget-eye-math-mountain-host-slab |  
+| bip_39_word_dash_12 | series-globe-bean-warm-stay-gadget-eye-math-mountain-host-slab-access |  
+| bip_39_word_dash_2 | series-globe |  
+| bip_39_word_dash_3 | series-globe-bean |  
+| bip_39_word_dash_4 | series-globe-bean-warm |  
+| bip_39_word_dash_5 | series-globe-bean-warm-stay |  
+| bip_39_word_dash_6 | series-globe-bean-warm-stay-gadget |  
+| bip_39_word_dash_7 | series-globe-bean-warm-stay-gadget-eye |  
+| bip_39_word_dash_8 | series-globe-bean-warm-stay-gadget-eye-math |  
+| bip_39_word_dash_9 | series-globe-bean-warm-stay-gadget-eye-math-mountain |  
 | bip_39_word_new_br_1 | series |  
 | bip_39_word_new_br_10 | series<br>globe<br>bean<br>warm<br>stay<br>gadget<br>eye<br>math<br>mountain<br>host |  
 | bip_39_word_new_br_11 | series<br>globe<br>bean<br>warm<br>stay<br>gadget<br>eye<br>math<br>mountain<br>host<br>slab |  
@@ -147,6 +159,18 @@ mountain |
 | bip_39_word_space_7 | series globe bean warm stay gadget eye |  
 | bip_39_word_space_8 | series globe bean warm stay gadget eye math |  
 | bip_39_word_space_9 | series globe bean warm stay gadget eye math mountain |  
+| bip_39_word_underscore_1 | series |  
+| bip_39_word_underscore_10 | series_globe_bean_warm_stay_gadget_eye_math_mountain_host |  
+| bip_39_word_underscore_11 | series_globe_bean_warm_stay_gadget_eye_math_mountain_host_slab |  
+| bip_39_word_underscore_12 | series_globe_bean_warm_stay_gadget_eye_math_mountain_host_slab_access |  
+| bip_39_word_underscore_2 | series_globe |  
+| bip_39_word_underscore_3 | series_globe_bean |  
+| bip_39_word_underscore_4 | series_globe_bean_warm |  
+| bip_39_word_underscore_5 | series_globe_bean_warm_stay |  
+| bip_39_word_underscore_6 | series_globe_bean_warm_stay_gadget |  
+| bip_39_word_underscore_7 | series_globe_bean_warm_stay_gadget_eye |  
+| bip_39_word_underscore_8 | series_globe_bean_warm_stay_gadget_eye_math |  
+| bip_39_word_underscore_9 | series_globe_bean_warm_stay_gadget_eye_math_mountain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

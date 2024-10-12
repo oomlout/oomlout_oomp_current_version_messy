@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | detect |  
+| bip_39_word_dash_10 | detect-client-ticket-baby-lecture-wagon-alter-dragon-benefit-plastic |  
+| bip_39_word_dash_11 | detect-client-ticket-baby-lecture-wagon-alter-dragon-benefit-plastic-hip |  
+| bip_39_word_dash_12 | detect-client-ticket-baby-lecture-wagon-alter-dragon-benefit-plastic-hip-assist |  
+| bip_39_word_dash_2 | detect-client |  
+| bip_39_word_dash_3 | detect-client-ticket |  
+| bip_39_word_dash_4 | detect-client-ticket-baby |  
+| bip_39_word_dash_5 | detect-client-ticket-baby-lecture |  
+| bip_39_word_dash_6 | detect-client-ticket-baby-lecture-wagon |  
+| bip_39_word_dash_7 | detect-client-ticket-baby-lecture-wagon-alter |  
+| bip_39_word_dash_8 | detect-client-ticket-baby-lecture-wagon-alter-dragon |  
+| bip_39_word_dash_9 | detect-client-ticket-baby-lecture-wagon-alter-dragon-benefit |  
 | bip_39_word_new_br_1 | detect |  
 | bip_39_word_new_br_10 | detect<br>client<br>ticket<br>baby<br>lecture<br>wagon<br>alter<br>dragon<br>benefit<br>plastic |  
 | bip_39_word_new_br_11 | detect<br>client<br>ticket<br>baby<br>lecture<br>wagon<br>alter<br>dragon<br>benefit<br>plastic<br>hip |  
@@ -147,6 +159,18 @@ benefit |
 | bip_39_word_space_7 | detect client ticket baby lecture wagon alter |  
 | bip_39_word_space_8 | detect client ticket baby lecture wagon alter dragon |  
 | bip_39_word_space_9 | detect client ticket baby lecture wagon alter dragon benefit |  
+| bip_39_word_underscore_1 | detect |  
+| bip_39_word_underscore_10 | detect_client_ticket_baby_lecture_wagon_alter_dragon_benefit_plastic |  
+| bip_39_word_underscore_11 | detect_client_ticket_baby_lecture_wagon_alter_dragon_benefit_plastic_hip |  
+| bip_39_word_underscore_12 | detect_client_ticket_baby_lecture_wagon_alter_dragon_benefit_plastic_hip_assist |  
+| bip_39_word_underscore_2 | detect_client |  
+| bip_39_word_underscore_3 | detect_client_ticket |  
+| bip_39_word_underscore_4 | detect_client_ticket_baby |  
+| bip_39_word_underscore_5 | detect_client_ticket_baby_lecture |  
+| bip_39_word_underscore_6 | detect_client_ticket_baby_lecture_wagon |  
+| bip_39_word_underscore_7 | detect_client_ticket_baby_lecture_wagon_alter |  
+| bip_39_word_underscore_8 | detect_client_ticket_baby_lecture_wagon_alter_dragon |  
+| bip_39_word_underscore_9 | detect_client_ticket_baby_lecture_wagon_alter_dragon_benefit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

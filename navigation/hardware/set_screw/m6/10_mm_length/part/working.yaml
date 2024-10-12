@@ -1,3 +1,15 @@
+bip_39_word_dash_1: conduct
+bip_39_word_dash_10: conduct-estate-heavy-solid-armor-win-deputy-pair-indicate-modify
+bip_39_word_dash_11: conduct-estate-heavy-solid-armor-win-deputy-pair-indicate-modify-siren
+bip_39_word_dash_12: conduct-estate-heavy-solid-armor-win-deputy-pair-indicate-modify-siren-animal
+bip_39_word_dash_2: conduct-estate
+bip_39_word_dash_3: conduct-estate-heavy
+bip_39_word_dash_4: conduct-estate-heavy-solid
+bip_39_word_dash_5: conduct-estate-heavy-solid-armor
+bip_39_word_dash_6: conduct-estate-heavy-solid-armor-win
+bip_39_word_dash_7: conduct-estate-heavy-solid-armor-win-deputy
+bip_39_word_dash_8: conduct-estate-heavy-solid-armor-win-deputy-pair
+bip_39_word_dash_9: conduct-estate-heavy-solid-armor-win-deputy-pair-indicate
 bip_39_word_new_br_1: conduct
 bip_39_word_new_br_10: conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair<br>indicate<br>modify
 bip_39_word_new_br_11: conduct<br>estate<br>heavy<br>solid<br>armor<br>win<br>deputy<br>pair<br>indicate<br>modify<br>siren
@@ -193,6 +205,18 @@ bip_39_word_space_6: conduct estate heavy solid armor win
 bip_39_word_space_7: conduct estate heavy solid armor win deputy
 bip_39_word_space_8: conduct estate heavy solid armor win deputy pair
 bip_39_word_space_9: conduct estate heavy solid armor win deputy pair indicate
+bip_39_word_underscore_1: conduct
+bip_39_word_underscore_10: conduct_estate_heavy_solid_armor_win_deputy_pair_indicate_modify
+bip_39_word_underscore_11: conduct_estate_heavy_solid_armor_win_deputy_pair_indicate_modify_siren
+bip_39_word_underscore_12: conduct_estate_heavy_solid_armor_win_deputy_pair_indicate_modify_siren_animal
+bip_39_word_underscore_2: conduct_estate
+bip_39_word_underscore_3: conduct_estate_heavy
+bip_39_word_underscore_4: conduct_estate_heavy_solid
+bip_39_word_underscore_5: conduct_estate_heavy_solid_armor
+bip_39_word_underscore_6: conduct_estate_heavy_solid_armor_win
+bip_39_word_underscore_7: conduct_estate_heavy_solid_armor_win_deputy
+bip_39_word_underscore_8: conduct_estate_heavy_solid_armor_win_deputy_pair
+bip_39_word_underscore_9: conduct_estate_heavy_solid_armor_win_deputy_pair_indicate
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

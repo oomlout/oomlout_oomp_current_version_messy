@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vehicle |  
+| bip_39_word_dash_10 | vehicle-adapt-capital-skull-ozone-require-term-always-include-guilt |  
+| bip_39_word_dash_11 | vehicle-adapt-capital-skull-ozone-require-term-always-include-guilt-warm |  
+| bip_39_word_dash_12 | vehicle-adapt-capital-skull-ozone-require-term-always-include-guilt-warm-asset |  
+| bip_39_word_dash_2 | vehicle-adapt |  
+| bip_39_word_dash_3 | vehicle-adapt-capital |  
+| bip_39_word_dash_4 | vehicle-adapt-capital-skull |  
+| bip_39_word_dash_5 | vehicle-adapt-capital-skull-ozone |  
+| bip_39_word_dash_6 | vehicle-adapt-capital-skull-ozone-require |  
+| bip_39_word_dash_7 | vehicle-adapt-capital-skull-ozone-require-term |  
+| bip_39_word_dash_8 | vehicle-adapt-capital-skull-ozone-require-term-always |  
+| bip_39_word_dash_9 | vehicle-adapt-capital-skull-ozone-require-term-always-include |  
 | bip_39_word_new_br_1 | vehicle |  
 | bip_39_word_new_br_10 | vehicle<br>adapt<br>capital<br>skull<br>ozone<br>require<br>term<br>always<br>include<br>guilt |  
 | bip_39_word_new_br_11 | vehicle<br>adapt<br>capital<br>skull<br>ozone<br>require<br>term<br>always<br>include<br>guilt<br>warm |  
@@ -147,6 +159,18 @@ include |
 | bip_39_word_space_7 | vehicle adapt capital skull ozone require term |  
 | bip_39_word_space_8 | vehicle adapt capital skull ozone require term always |  
 | bip_39_word_space_9 | vehicle adapt capital skull ozone require term always include |  
+| bip_39_word_underscore_1 | vehicle |  
+| bip_39_word_underscore_10 | vehicle_adapt_capital_skull_ozone_require_term_always_include_guilt |  
+| bip_39_word_underscore_11 | vehicle_adapt_capital_skull_ozone_require_term_always_include_guilt_warm |  
+| bip_39_word_underscore_12 | vehicle_adapt_capital_skull_ozone_require_term_always_include_guilt_warm_asset |  
+| bip_39_word_underscore_2 | vehicle_adapt |  
+| bip_39_word_underscore_3 | vehicle_adapt_capital |  
+| bip_39_word_underscore_4 | vehicle_adapt_capital_skull |  
+| bip_39_word_underscore_5 | vehicle_adapt_capital_skull_ozone |  
+| bip_39_word_underscore_6 | vehicle_adapt_capital_skull_ozone_require |  
+| bip_39_word_underscore_7 | vehicle_adapt_capital_skull_ozone_require_term |  
+| bip_39_word_underscore_8 | vehicle_adapt_capital_skull_ozone_require_term_always |  
+| bip_39_word_underscore_9 | vehicle_adapt_capital_skull_ozone_require_term_always_include |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

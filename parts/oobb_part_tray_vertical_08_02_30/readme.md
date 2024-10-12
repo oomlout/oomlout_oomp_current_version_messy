@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sugar |  
+| bip_39_word_dash_10 | sugar-guard-glance-sing-lonely-actress-either-melt-sauce-end |  
+| bip_39_word_dash_11 | sugar-guard-glance-sing-lonely-actress-either-melt-sauce-end-dinner |  
+| bip_39_word_dash_12 | sugar-guard-glance-sing-lonely-actress-either-melt-sauce-end-dinner-antique |  
+| bip_39_word_dash_2 | sugar-guard |  
+| bip_39_word_dash_3 | sugar-guard-glance |  
+| bip_39_word_dash_4 | sugar-guard-glance-sing |  
+| bip_39_word_dash_5 | sugar-guard-glance-sing-lonely |  
+| bip_39_word_dash_6 | sugar-guard-glance-sing-lonely-actress |  
+| bip_39_word_dash_7 | sugar-guard-glance-sing-lonely-actress-either |  
+| bip_39_word_dash_8 | sugar-guard-glance-sing-lonely-actress-either-melt |  
+| bip_39_word_dash_9 | sugar-guard-glance-sing-lonely-actress-either-melt-sauce |  
 | bip_39_word_new_br_1 | sugar |  
 | bip_39_word_new_br_10 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end |  
 | bip_39_word_new_br_11 | sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end<br>dinner |  
@@ -147,6 +159,18 @@ sauce |
 | bip_39_word_space_7 | sugar guard glance sing lonely actress either |  
 | bip_39_word_space_8 | sugar guard glance sing lonely actress either melt |  
 | bip_39_word_space_9 | sugar guard glance sing lonely actress either melt sauce |  
+| bip_39_word_underscore_1 | sugar |  
+| bip_39_word_underscore_10 | sugar_guard_glance_sing_lonely_actress_either_melt_sauce_end |  
+| bip_39_word_underscore_11 | sugar_guard_glance_sing_lonely_actress_either_melt_sauce_end_dinner |  
+| bip_39_word_underscore_12 | sugar_guard_glance_sing_lonely_actress_either_melt_sauce_end_dinner_antique |  
+| bip_39_word_underscore_2 | sugar_guard |  
+| bip_39_word_underscore_3 | sugar_guard_glance |  
+| bip_39_word_underscore_4 | sugar_guard_glance_sing |  
+| bip_39_word_underscore_5 | sugar_guard_glance_sing_lonely |  
+| bip_39_word_underscore_6 | sugar_guard_glance_sing_lonely_actress |  
+| bip_39_word_underscore_7 | sugar_guard_glance_sing_lonely_actress_either |  
+| bip_39_word_underscore_8 | sugar_guard_glance_sing_lonely_actress_either_melt |  
+| bip_39_word_underscore_9 | sugar_guard_glance_sing_lonely_actress_either_melt_sauce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

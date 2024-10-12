@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | company |  
+| bip_39_word_dash_10 | company-music-detect-balcony-problem-clinic-chimney-grid-jealous-scrap |  
+| bip_39_word_dash_11 | company-music-detect-balcony-problem-clinic-chimney-grid-jealous-scrap-dwarf |  
+| bip_39_word_dash_12 | company-music-detect-balcony-problem-clinic-chimney-grid-jealous-scrap-dwarf-among |  
+| bip_39_word_dash_2 | company-music |  
+| bip_39_word_dash_3 | company-music-detect |  
+| bip_39_word_dash_4 | company-music-detect-balcony |  
+| bip_39_word_dash_5 | company-music-detect-balcony-problem |  
+| bip_39_word_dash_6 | company-music-detect-balcony-problem-clinic |  
+| bip_39_word_dash_7 | company-music-detect-balcony-problem-clinic-chimney |  
+| bip_39_word_dash_8 | company-music-detect-balcony-problem-clinic-chimney-grid |  
+| bip_39_word_dash_9 | company-music-detect-balcony-problem-clinic-chimney-grid-jealous |  
 | bip_39_word_new_br_1 | company |  
 | bip_39_word_new_br_10 | company<br>music<br>detect<br>balcony<br>problem<br>clinic<br>chimney<br>grid<br>jealous<br>scrap |  
 | bip_39_word_new_br_11 | company<br>music<br>detect<br>balcony<br>problem<br>clinic<br>chimney<br>grid<br>jealous<br>scrap<br>dwarf |  
@@ -147,6 +159,18 @@ jealous |
 | bip_39_word_space_7 | company music detect balcony problem clinic chimney |  
 | bip_39_word_space_8 | company music detect balcony problem clinic chimney grid |  
 | bip_39_word_space_9 | company music detect balcony problem clinic chimney grid jealous |  
+| bip_39_word_underscore_1 | company |  
+| bip_39_word_underscore_10 | company_music_detect_balcony_problem_clinic_chimney_grid_jealous_scrap |  
+| bip_39_word_underscore_11 | company_music_detect_balcony_problem_clinic_chimney_grid_jealous_scrap_dwarf |  
+| bip_39_word_underscore_12 | company_music_detect_balcony_problem_clinic_chimney_grid_jealous_scrap_dwarf_among |  
+| bip_39_word_underscore_2 | company_music |  
+| bip_39_word_underscore_3 | company_music_detect |  
+| bip_39_word_underscore_4 | company_music_detect_balcony |  
+| bip_39_word_underscore_5 | company_music_detect_balcony_problem |  
+| bip_39_word_underscore_6 | company_music_detect_balcony_problem_clinic |  
+| bip_39_word_underscore_7 | company_music_detect_balcony_problem_clinic_chimney |  
+| bip_39_word_underscore_8 | company_music_detect_balcony_problem_clinic_chimney_grid |  
+| bip_39_word_underscore_9 | company_music_detect_balcony_problem_clinic_chimney_grid_jealous |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

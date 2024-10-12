@@ -1,3 +1,15 @@
+bip_39_word_dash_1: remind
+bip_39_word_dash_10: remind-stone-simple-theory-marriage-hole-episode-jealous-fence-rule
+bip_39_word_dash_11: remind-stone-simple-theory-marriage-hole-episode-jealous-fence-rule-vote
+bip_39_word_dash_12: remind-stone-simple-theory-marriage-hole-episode-jealous-fence-rule-vote-alley
+bip_39_word_dash_2: remind-stone
+bip_39_word_dash_3: remind-stone-simple
+bip_39_word_dash_4: remind-stone-simple-theory
+bip_39_word_dash_5: remind-stone-simple-theory-marriage
+bip_39_word_dash_6: remind-stone-simple-theory-marriage-hole
+bip_39_word_dash_7: remind-stone-simple-theory-marriage-hole-episode
+bip_39_word_dash_8: remind-stone-simple-theory-marriage-hole-episode-jealous
+bip_39_word_dash_9: remind-stone-simple-theory-marriage-hole-episode-jealous-fence
 bip_39_word_new_br_1: remind
 bip_39_word_new_br_10: remind<br>stone<br>simple<br>theory<br>marriage<br>hole<br>episode<br>jealous<br>fence<br>rule
 bip_39_word_new_br_11: remind<br>stone<br>simple<br>theory<br>marriage<br>hole<br>episode<br>jealous<br>fence<br>rule<br>vote
@@ -194,6 +206,18 @@ bip_39_word_space_6: remind stone simple theory marriage hole
 bip_39_word_space_7: remind stone simple theory marriage hole episode
 bip_39_word_space_8: remind stone simple theory marriage hole episode jealous
 bip_39_word_space_9: remind stone simple theory marriage hole episode jealous fence
+bip_39_word_underscore_1: remind
+bip_39_word_underscore_10: remind_stone_simple_theory_marriage_hole_episode_jealous_fence_rule
+bip_39_word_underscore_11: remind_stone_simple_theory_marriage_hole_episode_jealous_fence_rule_vote
+bip_39_word_underscore_12: remind_stone_simple_theory_marriage_hole_episode_jealous_fence_rule_vote_alley
+bip_39_word_underscore_2: remind_stone
+bip_39_word_underscore_3: remind_stone_simple
+bip_39_word_underscore_4: remind_stone_simple_theory
+bip_39_word_underscore_5: remind_stone_simple_theory_marriage
+bip_39_word_underscore_6: remind_stone_simple_theory_marriage_hole
+bip_39_word_underscore_7: remind_stone_simple_theory_marriage_hole_episode
+bip_39_word_underscore_8: remind_stone_simple_theory_marriage_hole_episode_jealous
+bip_39_word_underscore_9: remind_stone_simple_theory_marriage_hole_episode_jealous_fence
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

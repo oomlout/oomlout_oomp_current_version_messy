@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebuild |  
+| bip_39_word_dash_10 | rebuild-doll-vanish-now-buyer-client-pluck-unveil-floor-toddler |  
+| bip_39_word_dash_11 | rebuild-doll-vanish-now-buyer-client-pluck-unveil-floor-toddler-hawk |  
+| bip_39_word_dash_12 | rebuild-doll-vanish-now-buyer-client-pluck-unveil-floor-toddler-hawk-art |  
+| bip_39_word_dash_2 | rebuild-doll |  
+| bip_39_word_dash_3 | rebuild-doll-vanish |  
+| bip_39_word_dash_4 | rebuild-doll-vanish-now |  
+| bip_39_word_dash_5 | rebuild-doll-vanish-now-buyer |  
+| bip_39_word_dash_6 | rebuild-doll-vanish-now-buyer-client |  
+| bip_39_word_dash_7 | rebuild-doll-vanish-now-buyer-client-pluck |  
+| bip_39_word_dash_8 | rebuild-doll-vanish-now-buyer-client-pluck-unveil |  
+| bip_39_word_dash_9 | rebuild-doll-vanish-now-buyer-client-pluck-unveil-floor |  
 | bip_39_word_new_br_1 | rebuild |  
 | bip_39_word_new_br_10 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler |  
 | bip_39_word_new_br_11 | rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler<br>hawk |  
@@ -147,6 +159,18 @@ floor |
 | bip_39_word_space_7 | rebuild doll vanish now buyer client pluck |  
 | bip_39_word_space_8 | rebuild doll vanish now buyer client pluck unveil |  
 | bip_39_word_space_9 | rebuild doll vanish now buyer client pluck unveil floor |  
+| bip_39_word_underscore_1 | rebuild |  
+| bip_39_word_underscore_10 | rebuild_doll_vanish_now_buyer_client_pluck_unveil_floor_toddler |  
+| bip_39_word_underscore_11 | rebuild_doll_vanish_now_buyer_client_pluck_unveil_floor_toddler_hawk |  
+| bip_39_word_underscore_12 | rebuild_doll_vanish_now_buyer_client_pluck_unveil_floor_toddler_hawk_art |  
+| bip_39_word_underscore_2 | rebuild_doll |  
+| bip_39_word_underscore_3 | rebuild_doll_vanish |  
+| bip_39_word_underscore_4 | rebuild_doll_vanish_now |  
+| bip_39_word_underscore_5 | rebuild_doll_vanish_now_buyer |  
+| bip_39_word_underscore_6 | rebuild_doll_vanish_now_buyer_client |  
+| bip_39_word_underscore_7 | rebuild_doll_vanish_now_buyer_client_pluck |  
+| bip_39_word_underscore_8 | rebuild_doll_vanish_now_buyer_client_pluck_unveil |  
+| bip_39_word_underscore_9 | rebuild_doll_vanish_now_buyer_client_pluck_unveil_floor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

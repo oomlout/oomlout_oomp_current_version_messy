@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | make |  
+| bip_39_word_dash_10 | make-blame-raccoon-swallow-firm-gloom-double-craft-meadow-exercise |  
+| bip_39_word_dash_11 | make-blame-raccoon-swallow-firm-gloom-double-craft-meadow-exercise-payment |  
+| bip_39_word_dash_12 | make-blame-raccoon-swallow-firm-gloom-double-craft-meadow-exercise-payment-armor |  
+| bip_39_word_dash_2 | make-blame |  
+| bip_39_word_dash_3 | make-blame-raccoon |  
+| bip_39_word_dash_4 | make-blame-raccoon-swallow |  
+| bip_39_word_dash_5 | make-blame-raccoon-swallow-firm |  
+| bip_39_word_dash_6 | make-blame-raccoon-swallow-firm-gloom |  
+| bip_39_word_dash_7 | make-blame-raccoon-swallow-firm-gloom-double |  
+| bip_39_word_dash_8 | make-blame-raccoon-swallow-firm-gloom-double-craft |  
+| bip_39_word_dash_9 | make-blame-raccoon-swallow-firm-gloom-double-craft-meadow |  
 | bip_39_word_new_br_1 | make |  
 | bip_39_word_new_br_10 | make<br>blame<br>raccoon<br>swallow<br>firm<br>gloom<br>double<br>craft<br>meadow<br>exercise |  
 | bip_39_word_new_br_11 | make<br>blame<br>raccoon<br>swallow<br>firm<br>gloom<br>double<br>craft<br>meadow<br>exercise<br>payment |  
@@ -147,6 +159,18 @@ meadow |
 | bip_39_word_space_7 | make blame raccoon swallow firm gloom double |  
 | bip_39_word_space_8 | make blame raccoon swallow firm gloom double craft |  
 | bip_39_word_space_9 | make blame raccoon swallow firm gloom double craft meadow |  
+| bip_39_word_underscore_1 | make |  
+| bip_39_word_underscore_10 | make_blame_raccoon_swallow_firm_gloom_double_craft_meadow_exercise |  
+| bip_39_word_underscore_11 | make_blame_raccoon_swallow_firm_gloom_double_craft_meadow_exercise_payment |  
+| bip_39_word_underscore_12 | make_blame_raccoon_swallow_firm_gloom_double_craft_meadow_exercise_payment_armor |  
+| bip_39_word_underscore_2 | make_blame |  
+| bip_39_word_underscore_3 | make_blame_raccoon |  
+| bip_39_word_underscore_4 | make_blame_raccoon_swallow |  
+| bip_39_word_underscore_5 | make_blame_raccoon_swallow_firm |  
+| bip_39_word_underscore_6 | make_blame_raccoon_swallow_firm_gloom |  
+| bip_39_word_underscore_7 | make_blame_raccoon_swallow_firm_gloom_double |  
+| bip_39_word_underscore_8 | make_blame_raccoon_swallow_firm_gloom_double_craft |  
+| bip_39_word_underscore_9 | make_blame_raccoon_swallow_firm_gloom_double_craft_meadow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: coral
+bip_39_word_dash_10: coral-drift-orphan-nominee-below-candy-decrease-seat-kick-tube
+bip_39_word_dash_11: coral-drift-orphan-nominee-below-candy-decrease-seat-kick-tube-hover
+bip_39_word_dash_12: coral-drift-orphan-nominee-below-candy-decrease-seat-kick-tube-hover-antenna
+bip_39_word_dash_2: coral-drift
+bip_39_word_dash_3: coral-drift-orphan
+bip_39_word_dash_4: coral-drift-orphan-nominee
+bip_39_word_dash_5: coral-drift-orphan-nominee-below
+bip_39_word_dash_6: coral-drift-orphan-nominee-below-candy
+bip_39_word_dash_7: coral-drift-orphan-nominee-below-candy-decrease
+bip_39_word_dash_8: coral-drift-orphan-nominee-below-candy-decrease-seat
+bip_39_word_dash_9: coral-drift-orphan-nominee-below-candy-decrease-seat-kick
 bip_39_word_new_br_1: coral
 bip_39_word_new_br_10: coral<br>drift<br>orphan<br>nominee<br>below<br>candy<br>decrease<br>seat<br>kick<br>tube
 bip_39_word_new_br_11: coral<br>drift<br>orphan<br>nominee<br>below<br>candy<br>decrease<br>seat<br>kick<br>tube<br>hover
@@ -193,6 +205,18 @@ bip_39_word_space_6: coral drift orphan nominee below candy
 bip_39_word_space_7: coral drift orphan nominee below candy decrease
 bip_39_word_space_8: coral drift orphan nominee below candy decrease seat
 bip_39_word_space_9: coral drift orphan nominee below candy decrease seat kick
+bip_39_word_underscore_1: coral
+bip_39_word_underscore_10: coral_drift_orphan_nominee_below_candy_decrease_seat_kick_tube
+bip_39_word_underscore_11: coral_drift_orphan_nominee_below_candy_decrease_seat_kick_tube_hover
+bip_39_word_underscore_12: coral_drift_orphan_nominee_below_candy_decrease_seat_kick_tube_hover_antenna
+bip_39_word_underscore_2: coral_drift
+bip_39_word_underscore_3: coral_drift_orphan
+bip_39_word_underscore_4: coral_drift_orphan_nominee
+bip_39_word_underscore_5: coral_drift_orphan_nominee_below
+bip_39_word_underscore_6: coral_drift_orphan_nominee_below_candy
+bip_39_word_underscore_7: coral_drift_orphan_nominee_below_candy_decrease
+bip_39_word_underscore_8: coral_drift_orphan_nominee_below_candy_decrease_seat
+bip_39_word_underscore_9: coral_drift_orphan_nominee_below_candy_decrease_seat_kick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

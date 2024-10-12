@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | witness |  
+| bip_39_word_dash_10 | witness-chalk-remind-uncover-boil-vault-disagree-insane-siren-grit |  
+| bip_39_word_dash_11 | witness-chalk-remind-uncover-boil-vault-disagree-insane-siren-grit-gap |  
+| bip_39_word_dash_12 | witness-chalk-remind-uncover-boil-vault-disagree-insane-siren-grit-gap-attack |  
+| bip_39_word_dash_2 | witness-chalk |  
+| bip_39_word_dash_3 | witness-chalk-remind |  
+| bip_39_word_dash_4 | witness-chalk-remind-uncover |  
+| bip_39_word_dash_5 | witness-chalk-remind-uncover-boil |  
+| bip_39_word_dash_6 | witness-chalk-remind-uncover-boil-vault |  
+| bip_39_word_dash_7 | witness-chalk-remind-uncover-boil-vault-disagree |  
+| bip_39_word_dash_8 | witness-chalk-remind-uncover-boil-vault-disagree-insane |  
+| bip_39_word_dash_9 | witness-chalk-remind-uncover-boil-vault-disagree-insane-siren |  
 | bip_39_word_new_br_1 | witness |  
 | bip_39_word_new_br_10 | witness<br>chalk<br>remind<br>uncover<br>boil<br>vault<br>disagree<br>insane<br>siren<br>grit |  
 | bip_39_word_new_br_11 | witness<br>chalk<br>remind<br>uncover<br>boil<br>vault<br>disagree<br>insane<br>siren<br>grit<br>gap |  
@@ -147,6 +159,18 @@ siren |
 | bip_39_word_space_7 | witness chalk remind uncover boil vault disagree |  
 | bip_39_word_space_8 | witness chalk remind uncover boil vault disagree insane |  
 | bip_39_word_space_9 | witness chalk remind uncover boil vault disagree insane siren |  
+| bip_39_word_underscore_1 | witness |  
+| bip_39_word_underscore_10 | witness_chalk_remind_uncover_boil_vault_disagree_insane_siren_grit |  
+| bip_39_word_underscore_11 | witness_chalk_remind_uncover_boil_vault_disagree_insane_siren_grit_gap |  
+| bip_39_word_underscore_12 | witness_chalk_remind_uncover_boil_vault_disagree_insane_siren_grit_gap_attack |  
+| bip_39_word_underscore_2 | witness_chalk |  
+| bip_39_word_underscore_3 | witness_chalk_remind |  
+| bip_39_word_underscore_4 | witness_chalk_remind_uncover |  
+| bip_39_word_underscore_5 | witness_chalk_remind_uncover_boil |  
+| bip_39_word_underscore_6 | witness_chalk_remind_uncover_boil_vault |  
+| bip_39_word_underscore_7 | witness_chalk_remind_uncover_boil_vault_disagree |  
+| bip_39_word_underscore_8 | witness_chalk_remind_uncover_boil_vault_disagree_insane |  
+| bip_39_word_underscore_9 | witness_chalk_remind_uncover_boil_vault_disagree_insane_siren |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

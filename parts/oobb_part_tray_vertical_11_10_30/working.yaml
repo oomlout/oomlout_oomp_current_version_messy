@@ -1,3 +1,15 @@
+bip_39_word_dash_1: disorder
+bip_39_word_dash_10: disorder-tunnel-bracket-chef-then-then-airport-soon-pulse-predict
+bip_39_word_dash_11: disorder-tunnel-bracket-chef-then-then-airport-soon-pulse-predict-draft
+bip_39_word_dash_12: disorder-tunnel-bracket-chef-then-then-airport-soon-pulse-predict-draft-absurd
+bip_39_word_dash_2: disorder-tunnel
+bip_39_word_dash_3: disorder-tunnel-bracket
+bip_39_word_dash_4: disorder-tunnel-bracket-chef
+bip_39_word_dash_5: disorder-tunnel-bracket-chef-then
+bip_39_word_dash_6: disorder-tunnel-bracket-chef-then-then
+bip_39_word_dash_7: disorder-tunnel-bracket-chef-then-then-airport
+bip_39_word_dash_8: disorder-tunnel-bracket-chef-then-then-airport-soon
+bip_39_word_dash_9: disorder-tunnel-bracket-chef-then-then-airport-soon-pulse
 bip_39_word_new_br_1: disorder
 bip_39_word_new_br_10: disorder<br>tunnel<br>bracket<br>chef<br>then<br>then<br>airport<br>soon<br>pulse<br>predict
 bip_39_word_new_br_11: disorder<br>tunnel<br>bracket<br>chef<br>then<br>then<br>airport<br>soon<br>pulse<br>predict<br>draft
@@ -193,6 +205,18 @@ bip_39_word_space_6: disorder tunnel bracket chef then then
 bip_39_word_space_7: disorder tunnel bracket chef then then airport
 bip_39_word_space_8: disorder tunnel bracket chef then then airport soon
 bip_39_word_space_9: disorder tunnel bracket chef then then airport soon pulse
+bip_39_word_underscore_1: disorder
+bip_39_word_underscore_10: disorder_tunnel_bracket_chef_then_then_airport_soon_pulse_predict
+bip_39_word_underscore_11: disorder_tunnel_bracket_chef_then_then_airport_soon_pulse_predict_draft
+bip_39_word_underscore_12: disorder_tunnel_bracket_chef_then_then_airport_soon_pulse_predict_draft_absurd
+bip_39_word_underscore_2: disorder_tunnel
+bip_39_word_underscore_3: disorder_tunnel_bracket
+bip_39_word_underscore_4: disorder_tunnel_bracket_chef
+bip_39_word_underscore_5: disorder_tunnel_bracket_chef_then
+bip_39_word_underscore_6: disorder_tunnel_bracket_chef_then_then
+bip_39_word_underscore_7: disorder_tunnel_bracket_chef_then_then_airport
+bip_39_word_underscore_8: disorder_tunnel_bracket_chef_then_then_airport_soon
+bip_39_word_underscore_9: disorder_tunnel_bracket_chef_then_then_airport_soon_pulse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

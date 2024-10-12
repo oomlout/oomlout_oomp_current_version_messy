@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skull |  
+| bip_39_word_dash_10 | skull-decade-midnight-initial-problem-salt-stable-render-pumpkin-feel |  
+| bip_39_word_dash_11 | skull-decade-midnight-initial-problem-salt-stable-render-pumpkin-feel-struggle |  
+| bip_39_word_dash_12 | skull-decade-midnight-initial-problem-salt-stable-render-pumpkin-feel-struggle-ankle |  
+| bip_39_word_dash_2 | skull-decade |  
+| bip_39_word_dash_3 | skull-decade-midnight |  
+| bip_39_word_dash_4 | skull-decade-midnight-initial |  
+| bip_39_word_dash_5 | skull-decade-midnight-initial-problem |  
+| bip_39_word_dash_6 | skull-decade-midnight-initial-problem-salt |  
+| bip_39_word_dash_7 | skull-decade-midnight-initial-problem-salt-stable |  
+| bip_39_word_dash_8 | skull-decade-midnight-initial-problem-salt-stable-render |  
+| bip_39_word_dash_9 | skull-decade-midnight-initial-problem-salt-stable-render-pumpkin |  
 | bip_39_word_new_br_1 | skull |  
 | bip_39_word_new_br_10 | skull<br>decade<br>midnight<br>initial<br>problem<br>salt<br>stable<br>render<br>pumpkin<br>feel |  
 | bip_39_word_new_br_11 | skull<br>decade<br>midnight<br>initial<br>problem<br>salt<br>stable<br>render<br>pumpkin<br>feel<br>struggle |  
@@ -147,6 +159,18 @@ pumpkin |
 | bip_39_word_space_7 | skull decade midnight initial problem salt stable |  
 | bip_39_word_space_8 | skull decade midnight initial problem salt stable render |  
 | bip_39_word_space_9 | skull decade midnight initial problem salt stable render pumpkin |  
+| bip_39_word_underscore_1 | skull |  
+| bip_39_word_underscore_10 | skull_decade_midnight_initial_problem_salt_stable_render_pumpkin_feel |  
+| bip_39_word_underscore_11 | skull_decade_midnight_initial_problem_salt_stable_render_pumpkin_feel_struggle |  
+| bip_39_word_underscore_12 | skull_decade_midnight_initial_problem_salt_stable_render_pumpkin_feel_struggle_ankle |  
+| bip_39_word_underscore_2 | skull_decade |  
+| bip_39_word_underscore_3 | skull_decade_midnight |  
+| bip_39_word_underscore_4 | skull_decade_midnight_initial |  
+| bip_39_word_underscore_5 | skull_decade_midnight_initial_problem |  
+| bip_39_word_underscore_6 | skull_decade_midnight_initial_problem_salt |  
+| bip_39_word_underscore_7 | skull_decade_midnight_initial_problem_salt_stable |  
+| bip_39_word_underscore_8 | skull_decade_midnight_initial_problem_salt_stable_render |  
+| bip_39_word_underscore_9 | skull_decade_midnight_initial_problem_salt_stable_render_pumpkin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

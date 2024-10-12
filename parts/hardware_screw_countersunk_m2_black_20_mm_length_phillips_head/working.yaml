@@ -1,3 +1,15 @@
+bip_39_word_dash_1: arch
+bip_39_word_dash_10: arch-page-extend-copy-private-price-modify-voice-moral-merge
+bip_39_word_dash_11: arch-page-extend-copy-private-price-modify-voice-moral-merge-define
+bip_39_word_dash_12: arch-page-extend-copy-private-price-modify-voice-moral-merge-define-accuse
+bip_39_word_dash_2: arch-page
+bip_39_word_dash_3: arch-page-extend
+bip_39_word_dash_4: arch-page-extend-copy
+bip_39_word_dash_5: arch-page-extend-copy-private
+bip_39_word_dash_6: arch-page-extend-copy-private-price
+bip_39_word_dash_7: arch-page-extend-copy-private-price-modify
+bip_39_word_dash_8: arch-page-extend-copy-private-price-modify-voice
+bip_39_word_dash_9: arch-page-extend-copy-private-price-modify-voice-moral
 bip_39_word_new_br_1: arch
 bip_39_word_new_br_10: arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge
 bip_39_word_new_br_11: arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge<br>define
@@ -193,6 +205,18 @@ bip_39_word_space_6: arch page extend copy private price
 bip_39_word_space_7: arch page extend copy private price modify
 bip_39_word_space_8: arch page extend copy private price modify voice
 bip_39_word_space_9: arch page extend copy private price modify voice moral
+bip_39_word_underscore_1: arch
+bip_39_word_underscore_10: arch_page_extend_copy_private_price_modify_voice_moral_merge
+bip_39_word_underscore_11: arch_page_extend_copy_private_price_modify_voice_moral_merge_define
+bip_39_word_underscore_12: arch_page_extend_copy_private_price_modify_voice_moral_merge_define_accuse
+bip_39_word_underscore_2: arch_page
+bip_39_word_underscore_3: arch_page_extend
+bip_39_word_underscore_4: arch_page_extend_copy
+bip_39_word_underscore_5: arch_page_extend_copy_private
+bip_39_word_underscore_6: arch_page_extend_copy_private_price
+bip_39_word_underscore_7: arch_page_extend_copy_private_price_modify
+bip_39_word_underscore_8: arch_page_extend_copy_private_price_modify_voice
+bip_39_word_underscore_9: arch_page_extend_copy_private_price_modify_voice_moral
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thought |  
+| bip_39_word_dash_10 | thought-toe-own-wealth-ribbon-broom-interest-try-rule-area |  
+| bip_39_word_dash_11 | thought-toe-own-wealth-ribbon-broom-interest-try-rule-area-cat |  
+| bip_39_word_dash_12 | thought-toe-own-wealth-ribbon-broom-interest-try-rule-area-cat-armed |  
+| bip_39_word_dash_2 | thought-toe |  
+| bip_39_word_dash_3 | thought-toe-own |  
+| bip_39_word_dash_4 | thought-toe-own-wealth |  
+| bip_39_word_dash_5 | thought-toe-own-wealth-ribbon |  
+| bip_39_word_dash_6 | thought-toe-own-wealth-ribbon-broom |  
+| bip_39_word_dash_7 | thought-toe-own-wealth-ribbon-broom-interest |  
+| bip_39_word_dash_8 | thought-toe-own-wealth-ribbon-broom-interest-try |  
+| bip_39_word_dash_9 | thought-toe-own-wealth-ribbon-broom-interest-try-rule |  
 | bip_39_word_new_br_1 | thought |  
 | bip_39_word_new_br_10 | thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area |  
 | bip_39_word_new_br_11 | thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area<br>cat |  
@@ -147,6 +159,18 @@ rule |
 | bip_39_word_space_7 | thought toe own wealth ribbon broom interest |  
 | bip_39_word_space_8 | thought toe own wealth ribbon broom interest try |  
 | bip_39_word_space_9 | thought toe own wealth ribbon broom interest try rule |  
+| bip_39_word_underscore_1 | thought |  
+| bip_39_word_underscore_10 | thought_toe_own_wealth_ribbon_broom_interest_try_rule_area |  
+| bip_39_word_underscore_11 | thought_toe_own_wealth_ribbon_broom_interest_try_rule_area_cat |  
+| bip_39_word_underscore_12 | thought_toe_own_wealth_ribbon_broom_interest_try_rule_area_cat_armed |  
+| bip_39_word_underscore_2 | thought_toe |  
+| bip_39_word_underscore_3 | thought_toe_own |  
+| bip_39_word_underscore_4 | thought_toe_own_wealth |  
+| bip_39_word_underscore_5 | thought_toe_own_wealth_ribbon |  
+| bip_39_word_underscore_6 | thought_toe_own_wealth_ribbon_broom |  
+| bip_39_word_underscore_7 | thought_toe_own_wealth_ribbon_broom_interest |  
+| bip_39_word_underscore_8 | thought_toe_own_wealth_ribbon_broom_interest_try |  
+| bip_39_word_underscore_9 | thought_toe_own_wealth_ribbon_broom_interest_try_rule |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

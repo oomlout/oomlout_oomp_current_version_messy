@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gossip
+bip_39_word_dash_10: gossip-head-refuse-busy-chimney-already-hidden-scheme-fashion-expect
+bip_39_word_dash_11: gossip-head-refuse-busy-chimney-already-hidden-scheme-fashion-expect-focus
+bip_39_word_dash_12: gossip-head-refuse-busy-chimney-already-hidden-scheme-fashion-expect-focus-acquire
+bip_39_word_dash_2: gossip-head
+bip_39_word_dash_3: gossip-head-refuse
+bip_39_word_dash_4: gossip-head-refuse-busy
+bip_39_word_dash_5: gossip-head-refuse-busy-chimney
+bip_39_word_dash_6: gossip-head-refuse-busy-chimney-already
+bip_39_word_dash_7: gossip-head-refuse-busy-chimney-already-hidden
+bip_39_word_dash_8: gossip-head-refuse-busy-chimney-already-hidden-scheme
+bip_39_word_dash_9: gossip-head-refuse-busy-chimney-already-hidden-scheme-fashion
 bip_39_word_new_br_1: gossip
 bip_39_word_new_br_10: gossip<br>head<br>refuse<br>busy<br>chimney<br>already<br>hidden<br>scheme<br>fashion<br>expect
 bip_39_word_new_br_11: gossip<br>head<br>refuse<br>busy<br>chimney<br>already<br>hidden<br>scheme<br>fashion<br>expect<br>focus
@@ -194,6 +206,18 @@ bip_39_word_space_6: gossip head refuse busy chimney already
 bip_39_word_space_7: gossip head refuse busy chimney already hidden
 bip_39_word_space_8: gossip head refuse busy chimney already hidden scheme
 bip_39_word_space_9: gossip head refuse busy chimney already hidden scheme fashion
+bip_39_word_underscore_1: gossip
+bip_39_word_underscore_10: gossip_head_refuse_busy_chimney_already_hidden_scheme_fashion_expect
+bip_39_word_underscore_11: gossip_head_refuse_busy_chimney_already_hidden_scheme_fashion_expect_focus
+bip_39_word_underscore_12: gossip_head_refuse_busy_chimney_already_hidden_scheme_fashion_expect_focus_acquire
+bip_39_word_underscore_2: gossip_head
+bip_39_word_underscore_3: gossip_head_refuse
+bip_39_word_underscore_4: gossip_head_refuse_busy
+bip_39_word_underscore_5: gossip_head_refuse_busy_chimney
+bip_39_word_underscore_6: gossip_head_refuse_busy_chimney_already
+bip_39_word_underscore_7: gossip_head_refuse_busy_chimney_already_hidden
+bip_39_word_underscore_8: gossip_head_refuse_busy_chimney_already_hidden_scheme
+bip_39_word_underscore_9: gossip_head_refuse_busy_chimney_already_hidden_scheme_fashion
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

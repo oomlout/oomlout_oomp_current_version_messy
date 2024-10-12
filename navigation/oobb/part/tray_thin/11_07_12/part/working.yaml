@@ -1,3 +1,15 @@
+bip_39_word_dash_1: found
+bip_39_word_dash_10: found-aisle-protect-secret-prevent-fancy-sentence-buyer-right-kingdom
+bip_39_word_dash_11: found-aisle-protect-secret-prevent-fancy-sentence-buyer-right-kingdom-age
+bip_39_word_dash_12: found-aisle-protect-secret-prevent-fancy-sentence-buyer-right-kingdom-age-arrest
+bip_39_word_dash_2: found-aisle
+bip_39_word_dash_3: found-aisle-protect
+bip_39_word_dash_4: found-aisle-protect-secret
+bip_39_word_dash_5: found-aisle-protect-secret-prevent
+bip_39_word_dash_6: found-aisle-protect-secret-prevent-fancy
+bip_39_word_dash_7: found-aisle-protect-secret-prevent-fancy-sentence
+bip_39_word_dash_8: found-aisle-protect-secret-prevent-fancy-sentence-buyer
+bip_39_word_dash_9: found-aisle-protect-secret-prevent-fancy-sentence-buyer-right
 bip_39_word_new_br_1: found
 bip_39_word_new_br_10: found<br>aisle<br>protect<br>secret<br>prevent<br>fancy<br>sentence<br>buyer<br>right<br>kingdom
 bip_39_word_new_br_11: found<br>aisle<br>protect<br>secret<br>prevent<br>fancy<br>sentence<br>buyer<br>right<br>kingdom<br>age
@@ -194,6 +206,18 @@ bip_39_word_space_6: found aisle protect secret prevent fancy
 bip_39_word_space_7: found aisle protect secret prevent fancy sentence
 bip_39_word_space_8: found aisle protect secret prevent fancy sentence buyer
 bip_39_word_space_9: found aisle protect secret prevent fancy sentence buyer right
+bip_39_word_underscore_1: found
+bip_39_word_underscore_10: found_aisle_protect_secret_prevent_fancy_sentence_buyer_right_kingdom
+bip_39_word_underscore_11: found_aisle_protect_secret_prevent_fancy_sentence_buyer_right_kingdom_age
+bip_39_word_underscore_12: found_aisle_protect_secret_prevent_fancy_sentence_buyer_right_kingdom_age_arrest
+bip_39_word_underscore_2: found_aisle
+bip_39_word_underscore_3: found_aisle_protect
+bip_39_word_underscore_4: found_aisle_protect_secret
+bip_39_word_underscore_5: found_aisle_protect_secret_prevent
+bip_39_word_underscore_6: found_aisle_protect_secret_prevent_fancy
+bip_39_word_underscore_7: found_aisle_protect_secret_prevent_fancy_sentence
+bip_39_word_underscore_8: found_aisle_protect_secret_prevent_fancy_sentence_buyer
+bip_39_word_underscore_9: found_aisle_protect_secret_prevent_fancy_sentence_buyer_right
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

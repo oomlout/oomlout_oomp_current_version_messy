@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tourist |  
+| bip_39_word_dash_10 | tourist-gauge-laptop-track-often-expand-render-vibrant-win-kitchen |  
+| bip_39_word_dash_11 | tourist-gauge-laptop-track-often-expand-render-vibrant-win-kitchen-uphold |  
+| bip_39_word_dash_12 | tourist-gauge-laptop-track-often-expand-render-vibrant-win-kitchen-uphold-already |  
+| bip_39_word_dash_2 | tourist-gauge |  
+| bip_39_word_dash_3 | tourist-gauge-laptop |  
+| bip_39_word_dash_4 | tourist-gauge-laptop-track |  
+| bip_39_word_dash_5 | tourist-gauge-laptop-track-often |  
+| bip_39_word_dash_6 | tourist-gauge-laptop-track-often-expand |  
+| bip_39_word_dash_7 | tourist-gauge-laptop-track-often-expand-render |  
+| bip_39_word_dash_8 | tourist-gauge-laptop-track-often-expand-render-vibrant |  
+| bip_39_word_dash_9 | tourist-gauge-laptop-track-often-expand-render-vibrant-win |  
 | bip_39_word_new_br_1 | tourist |  
 | bip_39_word_new_br_10 | tourist<br>gauge<br>laptop<br>track<br>often<br>expand<br>render<br>vibrant<br>win<br>kitchen |  
 | bip_39_word_new_br_11 | tourist<br>gauge<br>laptop<br>track<br>often<br>expand<br>render<br>vibrant<br>win<br>kitchen<br>uphold |  
@@ -147,6 +159,18 @@ win |
 | bip_39_word_space_7 | tourist gauge laptop track often expand render |  
 | bip_39_word_space_8 | tourist gauge laptop track often expand render vibrant |  
 | bip_39_word_space_9 | tourist gauge laptop track often expand render vibrant win |  
+| bip_39_word_underscore_1 | tourist |  
+| bip_39_word_underscore_10 | tourist_gauge_laptop_track_often_expand_render_vibrant_win_kitchen |  
+| bip_39_word_underscore_11 | tourist_gauge_laptop_track_often_expand_render_vibrant_win_kitchen_uphold |  
+| bip_39_word_underscore_12 | tourist_gauge_laptop_track_often_expand_render_vibrant_win_kitchen_uphold_already |  
+| bip_39_word_underscore_2 | tourist_gauge |  
+| bip_39_word_underscore_3 | tourist_gauge_laptop |  
+| bip_39_word_underscore_4 | tourist_gauge_laptop_track |  
+| bip_39_word_underscore_5 | tourist_gauge_laptop_track_often |  
+| bip_39_word_underscore_6 | tourist_gauge_laptop_track_often_expand |  
+| bip_39_word_underscore_7 | tourist_gauge_laptop_track_often_expand_render |  
+| bip_39_word_underscore_8 | tourist_gauge_laptop_track_often_expand_render_vibrant |  
+| bip_39_word_underscore_9 | tourist_gauge_laptop_track_often_expand_render_vibrant_win |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

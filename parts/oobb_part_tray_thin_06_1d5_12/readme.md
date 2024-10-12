@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scheme |  
+| bip_39_word_dash_10 | scheme-eager-busy-pelican-curious-exit-imitate-super-citizen-sauce |  
+| bip_39_word_dash_11 | scheme-eager-busy-pelican-curious-exit-imitate-super-citizen-sauce-card |  
+| bip_39_word_dash_12 | scheme-eager-busy-pelican-curious-exit-imitate-super-citizen-sauce-card-adapt |  
+| bip_39_word_dash_2 | scheme-eager |  
+| bip_39_word_dash_3 | scheme-eager-busy |  
+| bip_39_word_dash_4 | scheme-eager-busy-pelican |  
+| bip_39_word_dash_5 | scheme-eager-busy-pelican-curious |  
+| bip_39_word_dash_6 | scheme-eager-busy-pelican-curious-exit |  
+| bip_39_word_dash_7 | scheme-eager-busy-pelican-curious-exit-imitate |  
+| bip_39_word_dash_8 | scheme-eager-busy-pelican-curious-exit-imitate-super |  
+| bip_39_word_dash_9 | scheme-eager-busy-pelican-curious-exit-imitate-super-citizen |  
 | bip_39_word_new_br_1 | scheme |  
 | bip_39_word_new_br_10 | scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce |  
 | bip_39_word_new_br_11 | scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce<br>card |  
@@ -147,6 +159,18 @@ citizen |
 | bip_39_word_space_7 | scheme eager busy pelican curious exit imitate |  
 | bip_39_word_space_8 | scheme eager busy pelican curious exit imitate super |  
 | bip_39_word_space_9 | scheme eager busy pelican curious exit imitate super citizen |  
+| bip_39_word_underscore_1 | scheme |  
+| bip_39_word_underscore_10 | scheme_eager_busy_pelican_curious_exit_imitate_super_citizen_sauce |  
+| bip_39_word_underscore_11 | scheme_eager_busy_pelican_curious_exit_imitate_super_citizen_sauce_card |  
+| bip_39_word_underscore_12 | scheme_eager_busy_pelican_curious_exit_imitate_super_citizen_sauce_card_adapt |  
+| bip_39_word_underscore_2 | scheme_eager |  
+| bip_39_word_underscore_3 | scheme_eager_busy |  
+| bip_39_word_underscore_4 | scheme_eager_busy_pelican |  
+| bip_39_word_underscore_5 | scheme_eager_busy_pelican_curious |  
+| bip_39_word_underscore_6 | scheme_eager_busy_pelican_curious_exit |  
+| bip_39_word_underscore_7 | scheme_eager_busy_pelican_curious_exit_imitate |  
+| bip_39_word_underscore_8 | scheme_eager_busy_pelican_curious_exit_imitate_super |  
+| bip_39_word_underscore_9 | scheme_eager_busy_pelican_curious_exit_imitate_super_citizen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

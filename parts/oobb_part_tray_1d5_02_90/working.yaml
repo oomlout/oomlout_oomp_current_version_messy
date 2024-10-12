@@ -1,3 +1,15 @@
+bip_39_word_dash_1: frozen
+bip_39_word_dash_10: frozen-maid-impose-damage-party-trip-loop-cool-delay-inject
+bip_39_word_dash_11: frozen-maid-impose-damage-party-trip-loop-cool-delay-inject-worry
+bip_39_word_dash_12: frozen-maid-impose-damage-party-trip-loop-cool-delay-inject-worry-abuse
+bip_39_word_dash_2: frozen-maid
+bip_39_word_dash_3: frozen-maid-impose
+bip_39_word_dash_4: frozen-maid-impose-damage
+bip_39_word_dash_5: frozen-maid-impose-damage-party
+bip_39_word_dash_6: frozen-maid-impose-damage-party-trip
+bip_39_word_dash_7: frozen-maid-impose-damage-party-trip-loop
+bip_39_word_dash_8: frozen-maid-impose-damage-party-trip-loop-cool
+bip_39_word_dash_9: frozen-maid-impose-damage-party-trip-loop-cool-delay
 bip_39_word_new_br_1: frozen
 bip_39_word_new_br_10: frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject
 bip_39_word_new_br_11: frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject<br>worry
@@ -193,6 +205,18 @@ bip_39_word_space_6: frozen maid impose damage party trip
 bip_39_word_space_7: frozen maid impose damage party trip loop
 bip_39_word_space_8: frozen maid impose damage party trip loop cool
 bip_39_word_space_9: frozen maid impose damage party trip loop cool delay
+bip_39_word_underscore_1: frozen
+bip_39_word_underscore_10: frozen_maid_impose_damage_party_trip_loop_cool_delay_inject
+bip_39_word_underscore_11: frozen_maid_impose_damage_party_trip_loop_cool_delay_inject_worry
+bip_39_word_underscore_12: frozen_maid_impose_damage_party_trip_loop_cool_delay_inject_worry_abuse
+bip_39_word_underscore_2: frozen_maid
+bip_39_word_underscore_3: frozen_maid_impose
+bip_39_word_underscore_4: frozen_maid_impose_damage
+bip_39_word_underscore_5: frozen_maid_impose_damage_party
+bip_39_word_underscore_6: frozen_maid_impose_damage_party_trip
+bip_39_word_underscore_7: frozen_maid_impose_damage_party_trip_loop
+bip_39_word_underscore_8: frozen_maid_impose_damage_party_trip_loop_cool
+bip_39_word_underscore_9: frozen_maid_impose_damage_party_trip_loop_cool_delay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

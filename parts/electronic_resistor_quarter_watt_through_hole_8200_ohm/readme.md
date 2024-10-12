@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glove |  
+| bip_39_word_dash_10 | glove-defy-stove-wedding-pudding-long-blossom-rhythm-glory-patch |  
+| bip_39_word_dash_11 | glove-defy-stove-wedding-pudding-long-blossom-rhythm-glory-patch-tissue |  
+| bip_39_word_dash_12 | glove-defy-stove-wedding-pudding-long-blossom-rhythm-glory-patch-tissue-average |  
+| bip_39_word_dash_2 | glove-defy |  
+| bip_39_word_dash_3 | glove-defy-stove |  
+| bip_39_word_dash_4 | glove-defy-stove-wedding |  
+| bip_39_word_dash_5 | glove-defy-stove-wedding-pudding |  
+| bip_39_word_dash_6 | glove-defy-stove-wedding-pudding-long |  
+| bip_39_word_dash_7 | glove-defy-stove-wedding-pudding-long-blossom |  
+| bip_39_word_dash_8 | glove-defy-stove-wedding-pudding-long-blossom-rhythm |  
+| bip_39_word_dash_9 | glove-defy-stove-wedding-pudding-long-blossom-rhythm-glory |  
 | bip_39_word_new_br_1 | glove |  
 | bip_39_word_new_br_10 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm<br>glory<br>patch |  
 | bip_39_word_new_br_11 | glove<br>defy<br>stove<br>wedding<br>pudding<br>long<br>blossom<br>rhythm<br>glory<br>patch<br>tissue |  
@@ -147,6 +159,18 @@ glory |
 | bip_39_word_space_7 | glove defy stove wedding pudding long blossom |  
 | bip_39_word_space_8 | glove defy stove wedding pudding long blossom rhythm |  
 | bip_39_word_space_9 | glove defy stove wedding pudding long blossom rhythm glory |  
+| bip_39_word_underscore_1 | glove |  
+| bip_39_word_underscore_10 | glove_defy_stove_wedding_pudding_long_blossom_rhythm_glory_patch |  
+| bip_39_word_underscore_11 | glove_defy_stove_wedding_pudding_long_blossom_rhythm_glory_patch_tissue |  
+| bip_39_word_underscore_12 | glove_defy_stove_wedding_pudding_long_blossom_rhythm_glory_patch_tissue_average |  
+| bip_39_word_underscore_2 | glove_defy |  
+| bip_39_word_underscore_3 | glove_defy_stove |  
+| bip_39_word_underscore_4 | glove_defy_stove_wedding |  
+| bip_39_word_underscore_5 | glove_defy_stove_wedding_pudding |  
+| bip_39_word_underscore_6 | glove_defy_stove_wedding_pudding_long |  
+| bip_39_word_underscore_7 | glove_defy_stove_wedding_pudding_long_blossom |  
+| bip_39_word_underscore_8 | glove_defy_stove_wedding_pudding_long_blossom_rhythm |  
+| bip_39_word_underscore_9 | glove_defy_stove_wedding_pudding_long_blossom_rhythm_glory |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

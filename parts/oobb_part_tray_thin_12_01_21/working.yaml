@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shoulder
+bip_39_word_dash_10: shoulder-wild-ladder-session-engage-girl-furnace-time-pupil-farm
+bip_39_word_dash_11: shoulder-wild-ladder-session-engage-girl-furnace-time-pupil-farm-seven
+bip_39_word_dash_12: shoulder-wild-ladder-session-engage-girl-furnace-time-pupil-farm-seven-aim
+bip_39_word_dash_2: shoulder-wild
+bip_39_word_dash_3: shoulder-wild-ladder
+bip_39_word_dash_4: shoulder-wild-ladder-session
+bip_39_word_dash_5: shoulder-wild-ladder-session-engage
+bip_39_word_dash_6: shoulder-wild-ladder-session-engage-girl
+bip_39_word_dash_7: shoulder-wild-ladder-session-engage-girl-furnace
+bip_39_word_dash_8: shoulder-wild-ladder-session-engage-girl-furnace-time
+bip_39_word_dash_9: shoulder-wild-ladder-session-engage-girl-furnace-time-pupil
 bip_39_word_new_br_1: shoulder
 bip_39_word_new_br_10: shoulder<br>wild<br>ladder<br>session<br>engage<br>girl<br>furnace<br>time<br>pupil<br>farm
 bip_39_word_new_br_11: shoulder<br>wild<br>ladder<br>session<br>engage<br>girl<br>furnace<br>time<br>pupil<br>farm<br>seven
@@ -194,6 +206,18 @@ bip_39_word_space_6: shoulder wild ladder session engage girl
 bip_39_word_space_7: shoulder wild ladder session engage girl furnace
 bip_39_word_space_8: shoulder wild ladder session engage girl furnace time
 bip_39_word_space_9: shoulder wild ladder session engage girl furnace time pupil
+bip_39_word_underscore_1: shoulder
+bip_39_word_underscore_10: shoulder_wild_ladder_session_engage_girl_furnace_time_pupil_farm
+bip_39_word_underscore_11: shoulder_wild_ladder_session_engage_girl_furnace_time_pupil_farm_seven
+bip_39_word_underscore_12: shoulder_wild_ladder_session_engage_girl_furnace_time_pupil_farm_seven_aim
+bip_39_word_underscore_2: shoulder_wild
+bip_39_word_underscore_3: shoulder_wild_ladder
+bip_39_word_underscore_4: shoulder_wild_ladder_session
+bip_39_word_underscore_5: shoulder_wild_ladder_session_engage
+bip_39_word_underscore_6: shoulder_wild_ladder_session_engage_girl
+bip_39_word_underscore_7: shoulder_wild_ladder_session_engage_girl_furnace
+bip_39_word_underscore_8: shoulder_wild_ladder_session_engage_girl_furnace_time
+bip_39_word_underscore_9: shoulder_wild_ladder_session_engage_girl_furnace_time_pupil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

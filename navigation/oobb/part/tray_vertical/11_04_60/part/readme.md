@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | salad |  
+| bip_39_word_dash_10 | salad-object-sword-cannon-room-leopard-acquire-author-cost-frog |  
+| bip_39_word_dash_11 | salad-object-sword-cannon-room-leopard-acquire-author-cost-frog-split |  
+| bip_39_word_dash_12 | salad-object-sword-cannon-room-leopard-acquire-author-cost-frog-split-aspect |  
+| bip_39_word_dash_2 | salad-object |  
+| bip_39_word_dash_3 | salad-object-sword |  
+| bip_39_word_dash_4 | salad-object-sword-cannon |  
+| bip_39_word_dash_5 | salad-object-sword-cannon-room |  
+| bip_39_word_dash_6 | salad-object-sword-cannon-room-leopard |  
+| bip_39_word_dash_7 | salad-object-sword-cannon-room-leopard-acquire |  
+| bip_39_word_dash_8 | salad-object-sword-cannon-room-leopard-acquire-author |  
+| bip_39_word_dash_9 | salad-object-sword-cannon-room-leopard-acquire-author-cost |  
 | bip_39_word_new_br_1 | salad |  
 | bip_39_word_new_br_10 | salad<br>object<br>sword<br>cannon<br>room<br>leopard<br>acquire<br>author<br>cost<br>frog |  
 | bip_39_word_new_br_11 | salad<br>object<br>sword<br>cannon<br>room<br>leopard<br>acquire<br>author<br>cost<br>frog<br>split |  
@@ -147,6 +159,18 @@ cost |
 | bip_39_word_space_7 | salad object sword cannon room leopard acquire |  
 | bip_39_word_space_8 | salad object sword cannon room leopard acquire author |  
 | bip_39_word_space_9 | salad object sword cannon room leopard acquire author cost |  
+| bip_39_word_underscore_1 | salad |  
+| bip_39_word_underscore_10 | salad_object_sword_cannon_room_leopard_acquire_author_cost_frog |  
+| bip_39_word_underscore_11 | salad_object_sword_cannon_room_leopard_acquire_author_cost_frog_split |  
+| bip_39_word_underscore_12 | salad_object_sword_cannon_room_leopard_acquire_author_cost_frog_split_aspect |  
+| bip_39_word_underscore_2 | salad_object |  
+| bip_39_word_underscore_3 | salad_object_sword |  
+| bip_39_word_underscore_4 | salad_object_sword_cannon |  
+| bip_39_word_underscore_5 | salad_object_sword_cannon_room |  
+| bip_39_word_underscore_6 | salad_object_sword_cannon_room_leopard |  
+| bip_39_word_underscore_7 | salad_object_sword_cannon_room_leopard_acquire |  
+| bip_39_word_underscore_8 | salad_object_sword_cannon_room_leopard_acquire_author |  
+| bip_39_word_underscore_9 | salad_object_sword_cannon_room_leopard_acquire_author_cost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

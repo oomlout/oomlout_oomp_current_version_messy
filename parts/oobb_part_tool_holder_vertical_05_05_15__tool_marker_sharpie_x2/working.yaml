@@ -1,3 +1,15 @@
+bip_39_word_dash_1: opinion
+bip_39_word_dash_10: opinion-where-buddy-course-tragic-venue-retire-trigger-secret-noble
+bip_39_word_dash_11: opinion-where-buddy-course-tragic-venue-retire-trigger-secret-noble-limb
+bip_39_word_dash_12: opinion-where-buddy-course-tragic-venue-retire-trigger-secret-noble-limb-amazing
+bip_39_word_dash_2: opinion-where
+bip_39_word_dash_3: opinion-where-buddy
+bip_39_word_dash_4: opinion-where-buddy-course
+bip_39_word_dash_5: opinion-where-buddy-course-tragic
+bip_39_word_dash_6: opinion-where-buddy-course-tragic-venue
+bip_39_word_dash_7: opinion-where-buddy-course-tragic-venue-retire
+bip_39_word_dash_8: opinion-where-buddy-course-tragic-venue-retire-trigger
+bip_39_word_dash_9: opinion-where-buddy-course-tragic-venue-retire-trigger-secret
 bip_39_word_new_br_1: opinion
 bip_39_word_new_br_10: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger<br>secret<br>noble
 bip_39_word_new_br_11: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger<br>secret<br>noble<br>limb
@@ -194,6 +206,18 @@ bip_39_word_space_6: opinion where buddy course tragic venue
 bip_39_word_space_7: opinion where buddy course tragic venue retire
 bip_39_word_space_8: opinion where buddy course tragic venue retire trigger
 bip_39_word_space_9: opinion where buddy course tragic venue retire trigger secret
+bip_39_word_underscore_1: opinion
+bip_39_word_underscore_10: opinion_where_buddy_course_tragic_venue_retire_trigger_secret_noble
+bip_39_word_underscore_11: opinion_where_buddy_course_tragic_venue_retire_trigger_secret_noble_limb
+bip_39_word_underscore_12: opinion_where_buddy_course_tragic_venue_retire_trigger_secret_noble_limb_amazing
+bip_39_word_underscore_2: opinion_where
+bip_39_word_underscore_3: opinion_where_buddy
+bip_39_word_underscore_4: opinion_where_buddy_course
+bip_39_word_underscore_5: opinion_where_buddy_course_tragic
+bip_39_word_underscore_6: opinion_where_buddy_course_tragic_venue
+bip_39_word_underscore_7: opinion_where_buddy_course_tragic_venue_retire
+bip_39_word_underscore_8: opinion_where_buddy_course_tragic_venue_retire_trigger
+bip_39_word_underscore_9: opinion_where_buddy_course_tragic_venue_retire_trigger_secret
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

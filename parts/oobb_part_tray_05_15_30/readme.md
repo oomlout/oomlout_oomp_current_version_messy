@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dolphin |  
+| bip_39_word_dash_10 | dolphin-sea-eagle-orient-addict-timber-okay-reward-soft-sunset |  
+| bip_39_word_dash_11 | dolphin-sea-eagle-orient-addict-timber-okay-reward-soft-sunset-soul |  
+| bip_39_word_dash_12 | dolphin-sea-eagle-orient-addict-timber-okay-reward-soft-sunset-soul-airport |  
+| bip_39_word_dash_2 | dolphin-sea |  
+| bip_39_word_dash_3 | dolphin-sea-eagle |  
+| bip_39_word_dash_4 | dolphin-sea-eagle-orient |  
+| bip_39_word_dash_5 | dolphin-sea-eagle-orient-addict |  
+| bip_39_word_dash_6 | dolphin-sea-eagle-orient-addict-timber |  
+| bip_39_word_dash_7 | dolphin-sea-eagle-orient-addict-timber-okay |  
+| bip_39_word_dash_8 | dolphin-sea-eagle-orient-addict-timber-okay-reward |  
+| bip_39_word_dash_9 | dolphin-sea-eagle-orient-addict-timber-okay-reward-soft |  
 | bip_39_word_new_br_1 | dolphin |  
 | bip_39_word_new_br_10 | dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward<br>soft<br>sunset |  
 | bip_39_word_new_br_11 | dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward<br>soft<br>sunset<br>soul |  
@@ -147,6 +159,18 @@ soft |
 | bip_39_word_space_7 | dolphin sea eagle orient addict timber okay |  
 | bip_39_word_space_8 | dolphin sea eagle orient addict timber okay reward |  
 | bip_39_word_space_9 | dolphin sea eagle orient addict timber okay reward soft |  
+| bip_39_word_underscore_1 | dolphin |  
+| bip_39_word_underscore_10 | dolphin_sea_eagle_orient_addict_timber_okay_reward_soft_sunset |  
+| bip_39_word_underscore_11 | dolphin_sea_eagle_orient_addict_timber_okay_reward_soft_sunset_soul |  
+| bip_39_word_underscore_12 | dolphin_sea_eagle_orient_addict_timber_okay_reward_soft_sunset_soul_airport |  
+| bip_39_word_underscore_2 | dolphin_sea |  
+| bip_39_word_underscore_3 | dolphin_sea_eagle |  
+| bip_39_word_underscore_4 | dolphin_sea_eagle_orient |  
+| bip_39_word_underscore_5 | dolphin_sea_eagle_orient_addict |  
+| bip_39_word_underscore_6 | dolphin_sea_eagle_orient_addict_timber |  
+| bip_39_word_underscore_7 | dolphin_sea_eagle_orient_addict_timber_okay |  
+| bip_39_word_underscore_8 | dolphin_sea_eagle_orient_addict_timber_okay_reward |  
+| bip_39_word_underscore_9 | dolphin_sea_eagle_orient_addict_timber_okay_reward_soft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

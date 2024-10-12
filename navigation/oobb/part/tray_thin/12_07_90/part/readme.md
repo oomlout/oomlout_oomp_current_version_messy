@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | neither |  
+| bip_39_word_dash_10 | neither-casino-legend-liar-donkey-ensure-nature-maximum-install-conduct |  
+| bip_39_word_dash_11 | neither-casino-legend-liar-donkey-ensure-nature-maximum-install-conduct-banner |  
+| bip_39_word_dash_12 | neither-casino-legend-liar-donkey-ensure-nature-maximum-install-conduct-banner-above |  
+| bip_39_word_dash_2 | neither-casino |  
+| bip_39_word_dash_3 | neither-casino-legend |  
+| bip_39_word_dash_4 | neither-casino-legend-liar |  
+| bip_39_word_dash_5 | neither-casino-legend-liar-donkey |  
+| bip_39_word_dash_6 | neither-casino-legend-liar-donkey-ensure |  
+| bip_39_word_dash_7 | neither-casino-legend-liar-donkey-ensure-nature |  
+| bip_39_word_dash_8 | neither-casino-legend-liar-donkey-ensure-nature-maximum |  
+| bip_39_word_dash_9 | neither-casino-legend-liar-donkey-ensure-nature-maximum-install |  
 | bip_39_word_new_br_1 | neither |  
 | bip_39_word_new_br_10 | neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum<br>install<br>conduct |  
 | bip_39_word_new_br_11 | neither<br>casino<br>legend<br>liar<br>donkey<br>ensure<br>nature<br>maximum<br>install<br>conduct<br>banner |  
@@ -147,6 +159,18 @@ install |
 | bip_39_word_space_7 | neither casino legend liar donkey ensure nature |  
 | bip_39_word_space_8 | neither casino legend liar donkey ensure nature maximum |  
 | bip_39_word_space_9 | neither casino legend liar donkey ensure nature maximum install |  
+| bip_39_word_underscore_1 | neither |  
+| bip_39_word_underscore_10 | neither_casino_legend_liar_donkey_ensure_nature_maximum_install_conduct |  
+| bip_39_word_underscore_11 | neither_casino_legend_liar_donkey_ensure_nature_maximum_install_conduct_banner |  
+| bip_39_word_underscore_12 | neither_casino_legend_liar_donkey_ensure_nature_maximum_install_conduct_banner_above |  
+| bip_39_word_underscore_2 | neither_casino |  
+| bip_39_word_underscore_3 | neither_casino_legend |  
+| bip_39_word_underscore_4 | neither_casino_legend_liar |  
+| bip_39_word_underscore_5 | neither_casino_legend_liar_donkey |  
+| bip_39_word_underscore_6 | neither_casino_legend_liar_donkey_ensure |  
+| bip_39_word_underscore_7 | neither_casino_legend_liar_donkey_ensure_nature |  
+| bip_39_word_underscore_8 | neither_casino_legend_liar_donkey_ensure_nature_maximum |  
+| bip_39_word_underscore_9 | neither_casino_legend_liar_donkey_ensure_nature_maximum_install |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

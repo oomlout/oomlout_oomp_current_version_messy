@@ -1,3 +1,15 @@
+bip_39_word_dash_1: carpet
+bip_39_word_dash_10: carpet-doll-surface-sell-heavy-popular-lava-camp-alone-load
+bip_39_word_dash_11: carpet-doll-surface-sell-heavy-popular-lava-camp-alone-load-monster
+bip_39_word_dash_12: carpet-doll-surface-sell-heavy-popular-lava-camp-alone-load-monster-audit
+bip_39_word_dash_2: carpet-doll
+bip_39_word_dash_3: carpet-doll-surface
+bip_39_word_dash_4: carpet-doll-surface-sell
+bip_39_word_dash_5: carpet-doll-surface-sell-heavy
+bip_39_word_dash_6: carpet-doll-surface-sell-heavy-popular
+bip_39_word_dash_7: carpet-doll-surface-sell-heavy-popular-lava
+bip_39_word_dash_8: carpet-doll-surface-sell-heavy-popular-lava-camp
+bip_39_word_dash_9: carpet-doll-surface-sell-heavy-popular-lava-camp-alone
 bip_39_word_new_br_1: carpet
 bip_39_word_new_br_10: carpet<br>doll<br>surface<br>sell<br>heavy<br>popular<br>lava<br>camp<br>alone<br>load
 bip_39_word_new_br_11: carpet<br>doll<br>surface<br>sell<br>heavy<br>popular<br>lava<br>camp<br>alone<br>load<br>monster
@@ -193,6 +205,18 @@ bip_39_word_space_6: carpet doll surface sell heavy popular
 bip_39_word_space_7: carpet doll surface sell heavy popular lava
 bip_39_word_space_8: carpet doll surface sell heavy popular lava camp
 bip_39_word_space_9: carpet doll surface sell heavy popular lava camp alone
+bip_39_word_underscore_1: carpet
+bip_39_word_underscore_10: carpet_doll_surface_sell_heavy_popular_lava_camp_alone_load
+bip_39_word_underscore_11: carpet_doll_surface_sell_heavy_popular_lava_camp_alone_load_monster
+bip_39_word_underscore_12: carpet_doll_surface_sell_heavy_popular_lava_camp_alone_load_monster_audit
+bip_39_word_underscore_2: carpet_doll
+bip_39_word_underscore_3: carpet_doll_surface
+bip_39_word_underscore_4: carpet_doll_surface_sell
+bip_39_word_underscore_5: carpet_doll_surface_sell_heavy
+bip_39_word_underscore_6: carpet_doll_surface_sell_heavy_popular
+bip_39_word_underscore_7: carpet_doll_surface_sell_heavy_popular_lava
+bip_39_word_underscore_8: carpet_doll_surface_sell_heavy_popular_lava_camp
+bip_39_word_underscore_9: carpet_doll_surface_sell_heavy_popular_lava_camp_alone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

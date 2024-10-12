@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gaze
+bip_39_word_dash_10: gaze-ignore-home-drink-toss-meadow-radio-together-elder-shrimp
+bip_39_word_dash_11: gaze-ignore-home-drink-toss-meadow-radio-together-elder-shrimp-mosquito
+bip_39_word_dash_12: gaze-ignore-home-drink-toss-meadow-radio-together-elder-shrimp-mosquito-acoustic
+bip_39_word_dash_2: gaze-ignore
+bip_39_word_dash_3: gaze-ignore-home
+bip_39_word_dash_4: gaze-ignore-home-drink
+bip_39_word_dash_5: gaze-ignore-home-drink-toss
+bip_39_word_dash_6: gaze-ignore-home-drink-toss-meadow
+bip_39_word_dash_7: gaze-ignore-home-drink-toss-meadow-radio
+bip_39_word_dash_8: gaze-ignore-home-drink-toss-meadow-radio-together
+bip_39_word_dash_9: gaze-ignore-home-drink-toss-meadow-radio-together-elder
 bip_39_word_new_br_1: gaze
 bip_39_word_new_br_10: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together<br>elder<br>shrimp
 bip_39_word_new_br_11: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together<br>elder<br>shrimp<br>mosquito
@@ -193,6 +205,18 @@ bip_39_word_space_6: gaze ignore home drink toss meadow
 bip_39_word_space_7: gaze ignore home drink toss meadow radio
 bip_39_word_space_8: gaze ignore home drink toss meadow radio together
 bip_39_word_space_9: gaze ignore home drink toss meadow radio together elder
+bip_39_word_underscore_1: gaze
+bip_39_word_underscore_10: gaze_ignore_home_drink_toss_meadow_radio_together_elder_shrimp
+bip_39_word_underscore_11: gaze_ignore_home_drink_toss_meadow_radio_together_elder_shrimp_mosquito
+bip_39_word_underscore_12: gaze_ignore_home_drink_toss_meadow_radio_together_elder_shrimp_mosquito_acoustic
+bip_39_word_underscore_2: gaze_ignore
+bip_39_word_underscore_3: gaze_ignore_home
+bip_39_word_underscore_4: gaze_ignore_home_drink
+bip_39_word_underscore_5: gaze_ignore_home_drink_toss
+bip_39_word_underscore_6: gaze_ignore_home_drink_toss_meadow
+bip_39_word_underscore_7: gaze_ignore_home_drink_toss_meadow_radio
+bip_39_word_underscore_8: gaze_ignore_home_drink_toss_meadow_radio_together
+bip_39_word_underscore_9: gaze_ignore_home_drink_toss_meadow_radio_together_elder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

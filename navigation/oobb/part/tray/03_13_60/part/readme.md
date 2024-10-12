@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | winter |  
+| bip_39_word_dash_10 | winter-size-torch-enlist-solar-table-much-coach-camp-solar |  
+| bip_39_word_dash_11 | winter-size-torch-enlist-solar-table-much-coach-camp-solar-gold |  
+| bip_39_word_dash_12 | winter-size-torch-enlist-solar-table-much-coach-camp-solar-gold-alone |  
+| bip_39_word_dash_2 | winter-size |  
+| bip_39_word_dash_3 | winter-size-torch |  
+| bip_39_word_dash_4 | winter-size-torch-enlist |  
+| bip_39_word_dash_5 | winter-size-torch-enlist-solar |  
+| bip_39_word_dash_6 | winter-size-torch-enlist-solar-table |  
+| bip_39_word_dash_7 | winter-size-torch-enlist-solar-table-much |  
+| bip_39_word_dash_8 | winter-size-torch-enlist-solar-table-much-coach |  
+| bip_39_word_dash_9 | winter-size-torch-enlist-solar-table-much-coach-camp |  
 | bip_39_word_new_br_1 | winter |  
 | bip_39_word_new_br_10 | winter<br>size<br>torch<br>enlist<br>solar<br>table<br>much<br>coach<br>camp<br>solar |  
 | bip_39_word_new_br_11 | winter<br>size<br>torch<br>enlist<br>solar<br>table<br>much<br>coach<br>camp<br>solar<br>gold |  
@@ -147,6 +159,18 @@ camp |
 | bip_39_word_space_7 | winter size torch enlist solar table much |  
 | bip_39_word_space_8 | winter size torch enlist solar table much coach |  
 | bip_39_word_space_9 | winter size torch enlist solar table much coach camp |  
+| bip_39_word_underscore_1 | winter |  
+| bip_39_word_underscore_10 | winter_size_torch_enlist_solar_table_much_coach_camp_solar |  
+| bip_39_word_underscore_11 | winter_size_torch_enlist_solar_table_much_coach_camp_solar_gold |  
+| bip_39_word_underscore_12 | winter_size_torch_enlist_solar_table_much_coach_camp_solar_gold_alone |  
+| bip_39_word_underscore_2 | winter_size |  
+| bip_39_word_underscore_3 | winter_size_torch |  
+| bip_39_word_underscore_4 | winter_size_torch_enlist |  
+| bip_39_word_underscore_5 | winter_size_torch_enlist_solar |  
+| bip_39_word_underscore_6 | winter_size_torch_enlist_solar_table |  
+| bip_39_word_underscore_7 | winter_size_torch_enlist_solar_table_much |  
+| bip_39_word_underscore_8 | winter_size_torch_enlist_solar_table_much_coach |  
+| bip_39_word_underscore_9 | winter_size_torch_enlist_solar_table_much_coach_camp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

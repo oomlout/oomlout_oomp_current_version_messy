@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rate |  
+| bip_39_word_dash_10 | rate-fun-text-rose-unable-only-nurse-spoil-coral-alert |  
+| bip_39_word_dash_11 | rate-fun-text-rose-unable-only-nurse-spoil-coral-alert-simple |  
+| bip_39_word_dash_12 | rate-fun-text-rose-unable-only-nurse-spoil-coral-alert-simple-ankle |  
+| bip_39_word_dash_2 | rate-fun |  
+| bip_39_word_dash_3 | rate-fun-text |  
+| bip_39_word_dash_4 | rate-fun-text-rose |  
+| bip_39_word_dash_5 | rate-fun-text-rose-unable |  
+| bip_39_word_dash_6 | rate-fun-text-rose-unable-only |  
+| bip_39_word_dash_7 | rate-fun-text-rose-unable-only-nurse |  
+| bip_39_word_dash_8 | rate-fun-text-rose-unable-only-nurse-spoil |  
+| bip_39_word_dash_9 | rate-fun-text-rose-unable-only-nurse-spoil-coral |  
 | bip_39_word_new_br_1 | rate |  
 | bip_39_word_new_br_10 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert |  
 | bip_39_word_new_br_11 | rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert<br>simple |  
@@ -147,6 +159,18 @@ coral |
 | bip_39_word_space_7 | rate fun text rose unable only nurse |  
 | bip_39_word_space_8 | rate fun text rose unable only nurse spoil |  
 | bip_39_word_space_9 | rate fun text rose unable only nurse spoil coral |  
+| bip_39_word_underscore_1 | rate |  
+| bip_39_word_underscore_10 | rate_fun_text_rose_unable_only_nurse_spoil_coral_alert |  
+| bip_39_word_underscore_11 | rate_fun_text_rose_unable_only_nurse_spoil_coral_alert_simple |  
+| bip_39_word_underscore_12 | rate_fun_text_rose_unable_only_nurse_spoil_coral_alert_simple_ankle |  
+| bip_39_word_underscore_2 | rate_fun |  
+| bip_39_word_underscore_3 | rate_fun_text |  
+| bip_39_word_underscore_4 | rate_fun_text_rose |  
+| bip_39_word_underscore_5 | rate_fun_text_rose_unable |  
+| bip_39_word_underscore_6 | rate_fun_text_rose_unable_only |  
+| bip_39_word_underscore_7 | rate_fun_text_rose_unable_only_nurse |  
+| bip_39_word_underscore_8 | rate_fun_text_rose_unable_only_nurse_spoil |  
+| bip_39_word_underscore_9 | rate_fun_text_rose_unable_only_nurse_spoil_coral |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

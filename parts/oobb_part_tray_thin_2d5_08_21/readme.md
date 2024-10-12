@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | visa |  
+| bip_39_word_dash_10 | visa-peasant-kind-wall-aunt-wing-impact-grab-match-urban |  
+| bip_39_word_dash_11 | visa-peasant-kind-wall-aunt-wing-impact-grab-match-urban-release |  
+| bip_39_word_dash_12 | visa-peasant-kind-wall-aunt-wing-impact-grab-match-urban-release-assume |  
+| bip_39_word_dash_2 | visa-peasant |  
+| bip_39_word_dash_3 | visa-peasant-kind |  
+| bip_39_word_dash_4 | visa-peasant-kind-wall |  
+| bip_39_word_dash_5 | visa-peasant-kind-wall-aunt |  
+| bip_39_word_dash_6 | visa-peasant-kind-wall-aunt-wing |  
+| bip_39_word_dash_7 | visa-peasant-kind-wall-aunt-wing-impact |  
+| bip_39_word_dash_8 | visa-peasant-kind-wall-aunt-wing-impact-grab |  
+| bip_39_word_dash_9 | visa-peasant-kind-wall-aunt-wing-impact-grab-match |  
 | bip_39_word_new_br_1 | visa |  
 | bip_39_word_new_br_10 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab<br>match<br>urban |  
 | bip_39_word_new_br_11 | visa<br>peasant<br>kind<br>wall<br>aunt<br>wing<br>impact<br>grab<br>match<br>urban<br>release |  
@@ -147,6 +159,18 @@ match |
 | bip_39_word_space_7 | visa peasant kind wall aunt wing impact |  
 | bip_39_word_space_8 | visa peasant kind wall aunt wing impact grab |  
 | bip_39_word_space_9 | visa peasant kind wall aunt wing impact grab match |  
+| bip_39_word_underscore_1 | visa |  
+| bip_39_word_underscore_10 | visa_peasant_kind_wall_aunt_wing_impact_grab_match_urban |  
+| bip_39_word_underscore_11 | visa_peasant_kind_wall_aunt_wing_impact_grab_match_urban_release |  
+| bip_39_word_underscore_12 | visa_peasant_kind_wall_aunt_wing_impact_grab_match_urban_release_assume |  
+| bip_39_word_underscore_2 | visa_peasant |  
+| bip_39_word_underscore_3 | visa_peasant_kind |  
+| bip_39_word_underscore_4 | visa_peasant_kind_wall |  
+| bip_39_word_underscore_5 | visa_peasant_kind_wall_aunt |  
+| bip_39_word_underscore_6 | visa_peasant_kind_wall_aunt_wing |  
+| bip_39_word_underscore_7 | visa_peasant_kind_wall_aunt_wing_impact |  
+| bip_39_word_underscore_8 | visa_peasant_kind_wall_aunt_wing_impact_grab |  
+| bip_39_word_underscore_9 | visa_peasant_kind_wall_aunt_wing_impact_grab_match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | citizen |  
+| bip_39_word_dash_10 | citizen-patient-want-confirm-typical-shaft-estate-video-address-boring |  
+| bip_39_word_dash_11 | citizen-patient-want-confirm-typical-shaft-estate-video-address-boring-escape |  
+| bip_39_word_dash_12 | citizen-patient-want-confirm-typical-shaft-estate-video-address-boring-escape-autumn |  
+| bip_39_word_dash_2 | citizen-patient |  
+| bip_39_word_dash_3 | citizen-patient-want |  
+| bip_39_word_dash_4 | citizen-patient-want-confirm |  
+| bip_39_word_dash_5 | citizen-patient-want-confirm-typical |  
+| bip_39_word_dash_6 | citizen-patient-want-confirm-typical-shaft |  
+| bip_39_word_dash_7 | citizen-patient-want-confirm-typical-shaft-estate |  
+| bip_39_word_dash_8 | citizen-patient-want-confirm-typical-shaft-estate-video |  
+| bip_39_word_dash_9 | citizen-patient-want-confirm-typical-shaft-estate-video-address |  
 | bip_39_word_new_br_1 | citizen |  
 | bip_39_word_new_br_10 | citizen<br>patient<br>want<br>confirm<br>typical<br>shaft<br>estate<br>video<br>address<br>boring |  
 | bip_39_word_new_br_11 | citizen<br>patient<br>want<br>confirm<br>typical<br>shaft<br>estate<br>video<br>address<br>boring<br>escape |  
@@ -147,6 +159,18 @@ address |
 | bip_39_word_space_7 | citizen patient want confirm typical shaft estate |  
 | bip_39_word_space_8 | citizen patient want confirm typical shaft estate video |  
 | bip_39_word_space_9 | citizen patient want confirm typical shaft estate video address |  
+| bip_39_word_underscore_1 | citizen |  
+| bip_39_word_underscore_10 | citizen_patient_want_confirm_typical_shaft_estate_video_address_boring |  
+| bip_39_word_underscore_11 | citizen_patient_want_confirm_typical_shaft_estate_video_address_boring_escape |  
+| bip_39_word_underscore_12 | citizen_patient_want_confirm_typical_shaft_estate_video_address_boring_escape_autumn |  
+| bip_39_word_underscore_2 | citizen_patient |  
+| bip_39_word_underscore_3 | citizen_patient_want |  
+| bip_39_word_underscore_4 | citizen_patient_want_confirm |  
+| bip_39_word_underscore_5 | citizen_patient_want_confirm_typical |  
+| bip_39_word_underscore_6 | citizen_patient_want_confirm_typical_shaft |  
+| bip_39_word_underscore_7 | citizen_patient_want_confirm_typical_shaft_estate |  
+| bip_39_word_underscore_8 | citizen_patient_want_confirm_typical_shaft_estate_video |  
+| bip_39_word_underscore_9 | citizen_patient_want_confirm_typical_shaft_estate_video_address |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

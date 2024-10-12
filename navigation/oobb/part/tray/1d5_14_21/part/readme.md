@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blouse |  
+| bip_39_word_dash_10 | blouse-mention-boat-tourist-finish-zebra-couple-violin-shine-fold |  
+| bip_39_word_dash_11 | blouse-mention-boat-tourist-finish-zebra-couple-violin-shine-fold-argue |  
+| bip_39_word_dash_12 | blouse-mention-boat-tourist-finish-zebra-couple-violin-shine-fold-argue-annual |  
+| bip_39_word_dash_2 | blouse-mention |  
+| bip_39_word_dash_3 | blouse-mention-boat |  
+| bip_39_word_dash_4 | blouse-mention-boat-tourist |  
+| bip_39_word_dash_5 | blouse-mention-boat-tourist-finish |  
+| bip_39_word_dash_6 | blouse-mention-boat-tourist-finish-zebra |  
+| bip_39_word_dash_7 | blouse-mention-boat-tourist-finish-zebra-couple |  
+| bip_39_word_dash_8 | blouse-mention-boat-tourist-finish-zebra-couple-violin |  
+| bip_39_word_dash_9 | blouse-mention-boat-tourist-finish-zebra-couple-violin-shine |  
 | bip_39_word_new_br_1 | blouse |  
 | bip_39_word_new_br_10 | blouse<br>mention<br>boat<br>tourist<br>finish<br>zebra<br>couple<br>violin<br>shine<br>fold |  
 | bip_39_word_new_br_11 | blouse<br>mention<br>boat<br>tourist<br>finish<br>zebra<br>couple<br>violin<br>shine<br>fold<br>argue |  
@@ -147,6 +159,18 @@ shine |
 | bip_39_word_space_7 | blouse mention boat tourist finish zebra couple |  
 | bip_39_word_space_8 | blouse mention boat tourist finish zebra couple violin |  
 | bip_39_word_space_9 | blouse mention boat tourist finish zebra couple violin shine |  
+| bip_39_word_underscore_1 | blouse |  
+| bip_39_word_underscore_10 | blouse_mention_boat_tourist_finish_zebra_couple_violin_shine_fold |  
+| bip_39_word_underscore_11 | blouse_mention_boat_tourist_finish_zebra_couple_violin_shine_fold_argue |  
+| bip_39_word_underscore_12 | blouse_mention_boat_tourist_finish_zebra_couple_violin_shine_fold_argue_annual |  
+| bip_39_word_underscore_2 | blouse_mention |  
+| bip_39_word_underscore_3 | blouse_mention_boat |  
+| bip_39_word_underscore_4 | blouse_mention_boat_tourist |  
+| bip_39_word_underscore_5 | blouse_mention_boat_tourist_finish |  
+| bip_39_word_underscore_6 | blouse_mention_boat_tourist_finish_zebra |  
+| bip_39_word_underscore_7 | blouse_mention_boat_tourist_finish_zebra_couple |  
+| bip_39_word_underscore_8 | blouse_mention_boat_tourist_finish_zebra_couple_violin |  
+| bip_39_word_underscore_9 | blouse_mention_boat_tourist_finish_zebra_couple_violin_shine |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

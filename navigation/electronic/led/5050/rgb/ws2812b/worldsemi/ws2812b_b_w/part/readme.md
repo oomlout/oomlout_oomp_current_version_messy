@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soda |  
+| bip_39_word_dash_10 | soda-fault-exist-zoo-bamboo-whale-celery-custom-roof-wealth |  
+| bip_39_word_dash_11 | soda-fault-exist-zoo-bamboo-whale-celery-custom-roof-wealth-holiday |  
+| bip_39_word_dash_12 | soda-fault-exist-zoo-bamboo-whale-celery-custom-roof-wealth-holiday-audit |  
+| bip_39_word_dash_2 | soda-fault |  
+| bip_39_word_dash_3 | soda-fault-exist |  
+| bip_39_word_dash_4 | soda-fault-exist-zoo |  
+| bip_39_word_dash_5 | soda-fault-exist-zoo-bamboo |  
+| bip_39_word_dash_6 | soda-fault-exist-zoo-bamboo-whale |  
+| bip_39_word_dash_7 | soda-fault-exist-zoo-bamboo-whale-celery |  
+| bip_39_word_dash_8 | soda-fault-exist-zoo-bamboo-whale-celery-custom |  
+| bip_39_word_dash_9 | soda-fault-exist-zoo-bamboo-whale-celery-custom-roof |  
 | bip_39_word_new_br_1 | soda |  
 | bip_39_word_new_br_10 | soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth |  
 | bip_39_word_new_br_11 | soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth<br>holiday |  
@@ -147,6 +159,18 @@ roof |
 | bip_39_word_space_7 | soda fault exist zoo bamboo whale celery |  
 | bip_39_word_space_8 | soda fault exist zoo bamboo whale celery custom |  
 | bip_39_word_space_9 | soda fault exist zoo bamboo whale celery custom roof |  
+| bip_39_word_underscore_1 | soda |  
+| bip_39_word_underscore_10 | soda_fault_exist_zoo_bamboo_whale_celery_custom_roof_wealth |  
+| bip_39_word_underscore_11 | soda_fault_exist_zoo_bamboo_whale_celery_custom_roof_wealth_holiday |  
+| bip_39_word_underscore_12 | soda_fault_exist_zoo_bamboo_whale_celery_custom_roof_wealth_holiday_audit |  
+| bip_39_word_underscore_2 | soda_fault |  
+| bip_39_word_underscore_3 | soda_fault_exist |  
+| bip_39_word_underscore_4 | soda_fault_exist_zoo |  
+| bip_39_word_underscore_5 | soda_fault_exist_zoo_bamboo |  
+| bip_39_word_underscore_6 | soda_fault_exist_zoo_bamboo_whale |  
+| bip_39_word_underscore_7 | soda_fault_exist_zoo_bamboo_whale_celery |  
+| bip_39_word_underscore_8 | soda_fault_exist_zoo_bamboo_whale_celery_custom |  
+| bip_39_word_underscore_9 | soda_fault_exist_zoo_bamboo_whale_celery_custom_roof |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

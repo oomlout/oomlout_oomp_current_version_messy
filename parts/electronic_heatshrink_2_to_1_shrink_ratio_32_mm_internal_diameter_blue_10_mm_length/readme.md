@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spider |  
+| bip_39_word_dash_10 | spider-magnet-space-ozone-atom-what-metal-hold-dry-odor |  
+| bip_39_word_dash_11 | spider-magnet-space-ozone-atom-what-metal-hold-dry-odor-stick |  
+| bip_39_word_dash_12 | spider-magnet-space-ozone-atom-what-metal-hold-dry-odor-stick-act |  
+| bip_39_word_dash_2 | spider-magnet |  
+| bip_39_word_dash_3 | spider-magnet-space |  
+| bip_39_word_dash_4 | spider-magnet-space-ozone |  
+| bip_39_word_dash_5 | spider-magnet-space-ozone-atom |  
+| bip_39_word_dash_6 | spider-magnet-space-ozone-atom-what |  
+| bip_39_word_dash_7 | spider-magnet-space-ozone-atom-what-metal |  
+| bip_39_word_dash_8 | spider-magnet-space-ozone-atom-what-metal-hold |  
+| bip_39_word_dash_9 | spider-magnet-space-ozone-atom-what-metal-hold-dry |  
 | bip_39_word_new_br_1 | spider |  
 | bip_39_word_new_br_10 | spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold<br>dry<br>odor |  
 | bip_39_word_new_br_11 | spider<br>magnet<br>space<br>ozone<br>atom<br>what<br>metal<br>hold<br>dry<br>odor<br>stick |  
@@ -147,6 +159,18 @@ dry |
 | bip_39_word_space_7 | spider magnet space ozone atom what metal |  
 | bip_39_word_space_8 | spider magnet space ozone atom what metal hold |  
 | bip_39_word_space_9 | spider magnet space ozone atom what metal hold dry |  
+| bip_39_word_underscore_1 | spider |  
+| bip_39_word_underscore_10 | spider_magnet_space_ozone_atom_what_metal_hold_dry_odor |  
+| bip_39_word_underscore_11 | spider_magnet_space_ozone_atom_what_metal_hold_dry_odor_stick |  
+| bip_39_word_underscore_12 | spider_magnet_space_ozone_atom_what_metal_hold_dry_odor_stick_act |  
+| bip_39_word_underscore_2 | spider_magnet |  
+| bip_39_word_underscore_3 | spider_magnet_space |  
+| bip_39_word_underscore_4 | spider_magnet_space_ozone |  
+| bip_39_word_underscore_5 | spider_magnet_space_ozone_atom |  
+| bip_39_word_underscore_6 | spider_magnet_space_ozone_atom_what |  
+| bip_39_word_underscore_7 | spider_magnet_space_ozone_atom_what_metal |  
+| bip_39_word_underscore_8 | spider_magnet_space_ozone_atom_what_metal_hold |  
+| bip_39_word_underscore_9 | spider_magnet_space_ozone_atom_what_metal_hold_dry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | high |  
+| bip_39_word_dash_10 | high-teach-together-write-question-olympic-fat-stool-toy-slush |  
+| bip_39_word_dash_11 | high-teach-together-write-question-olympic-fat-stool-toy-slush-urge |  
+| bip_39_word_dash_12 | high-teach-together-write-question-olympic-fat-stool-toy-slush-urge-around |  
+| bip_39_word_dash_2 | high-teach |  
+| bip_39_word_dash_3 | high-teach-together |  
+| bip_39_word_dash_4 | high-teach-together-write |  
+| bip_39_word_dash_5 | high-teach-together-write-question |  
+| bip_39_word_dash_6 | high-teach-together-write-question-olympic |  
+| bip_39_word_dash_7 | high-teach-together-write-question-olympic-fat |  
+| bip_39_word_dash_8 | high-teach-together-write-question-olympic-fat-stool |  
+| bip_39_word_dash_9 | high-teach-together-write-question-olympic-fat-stool-toy |  
 | bip_39_word_new_br_1 | high |  
 | bip_39_word_new_br_10 | high<br>teach<br>together<br>write<br>question<br>olympic<br>fat<br>stool<br>toy<br>slush |  
 | bip_39_word_new_br_11 | high<br>teach<br>together<br>write<br>question<br>olympic<br>fat<br>stool<br>toy<br>slush<br>urge |  
@@ -147,6 +159,18 @@ toy |
 | bip_39_word_space_7 | high teach together write question olympic fat |  
 | bip_39_word_space_8 | high teach together write question olympic fat stool |  
 | bip_39_word_space_9 | high teach together write question olympic fat stool toy |  
+| bip_39_word_underscore_1 | high |  
+| bip_39_word_underscore_10 | high_teach_together_write_question_olympic_fat_stool_toy_slush |  
+| bip_39_word_underscore_11 | high_teach_together_write_question_olympic_fat_stool_toy_slush_urge |  
+| bip_39_word_underscore_12 | high_teach_together_write_question_olympic_fat_stool_toy_slush_urge_around |  
+| bip_39_word_underscore_2 | high_teach |  
+| bip_39_word_underscore_3 | high_teach_together |  
+| bip_39_word_underscore_4 | high_teach_together_write |  
+| bip_39_word_underscore_5 | high_teach_together_write_question |  
+| bip_39_word_underscore_6 | high_teach_together_write_question_olympic |  
+| bip_39_word_underscore_7 | high_teach_together_write_question_olympic_fat |  
+| bip_39_word_underscore_8 | high_teach_together_write_question_olympic_fat_stool |  
+| bip_39_word_underscore_9 | high_teach_together_write_question_olympic_fat_stool_toy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

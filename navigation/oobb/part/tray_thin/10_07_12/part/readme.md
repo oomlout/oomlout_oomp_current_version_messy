@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | system |  
+| bip_39_word_dash_10 | system-thumb-radio-element-broken-duck-measure-auto-helmet-pole |  
+| bip_39_word_dash_11 | system-thumb-radio-element-broken-duck-measure-auto-helmet-pole-above |  
+| bip_39_word_dash_12 | system-thumb-radio-element-broken-duck-measure-auto-helmet-pole-above-add |  
+| bip_39_word_dash_2 | system-thumb |  
+| bip_39_word_dash_3 | system-thumb-radio |  
+| bip_39_word_dash_4 | system-thumb-radio-element |  
+| bip_39_word_dash_5 | system-thumb-radio-element-broken |  
+| bip_39_word_dash_6 | system-thumb-radio-element-broken-duck |  
+| bip_39_word_dash_7 | system-thumb-radio-element-broken-duck-measure |  
+| bip_39_word_dash_8 | system-thumb-radio-element-broken-duck-measure-auto |  
+| bip_39_word_dash_9 | system-thumb-radio-element-broken-duck-measure-auto-helmet |  
 | bip_39_word_new_br_1 | system |  
 | bip_39_word_new_br_10 | system<br>thumb<br>radio<br>element<br>broken<br>duck<br>measure<br>auto<br>helmet<br>pole |  
 | bip_39_word_new_br_11 | system<br>thumb<br>radio<br>element<br>broken<br>duck<br>measure<br>auto<br>helmet<br>pole<br>above |  
@@ -147,6 +159,18 @@ helmet |
 | bip_39_word_space_7 | system thumb radio element broken duck measure |  
 | bip_39_word_space_8 | system thumb radio element broken duck measure auto |  
 | bip_39_word_space_9 | system thumb radio element broken duck measure auto helmet |  
+| bip_39_word_underscore_1 | system |  
+| bip_39_word_underscore_10 | system_thumb_radio_element_broken_duck_measure_auto_helmet_pole |  
+| bip_39_word_underscore_11 | system_thumb_radio_element_broken_duck_measure_auto_helmet_pole_above |  
+| bip_39_word_underscore_12 | system_thumb_radio_element_broken_duck_measure_auto_helmet_pole_above_add |  
+| bip_39_word_underscore_2 | system_thumb |  
+| bip_39_word_underscore_3 | system_thumb_radio |  
+| bip_39_word_underscore_4 | system_thumb_radio_element |  
+| bip_39_word_underscore_5 | system_thumb_radio_element_broken |  
+| bip_39_word_underscore_6 | system_thumb_radio_element_broken_duck |  
+| bip_39_word_underscore_7 | system_thumb_radio_element_broken_duck_measure |  
+| bip_39_word_underscore_8 | system_thumb_radio_element_broken_duck_measure_auto |  
+| bip_39_word_underscore_9 | system_thumb_radio_element_broken_duck_measure_auto_helmet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

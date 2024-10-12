@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | learn |  
+| bip_39_word_dash_10 | learn-such-depth-law-exhaust-load-salad-jewel-twist-amused |  
+| bip_39_word_dash_11 | learn-such-depth-law-exhaust-load-salad-jewel-twist-amused-million |  
+| bip_39_word_dash_12 | learn-such-depth-law-exhaust-load-salad-jewel-twist-amused-million-address |  
+| bip_39_word_dash_2 | learn-such |  
+| bip_39_word_dash_3 | learn-such-depth |  
+| bip_39_word_dash_4 | learn-such-depth-law |  
+| bip_39_word_dash_5 | learn-such-depth-law-exhaust |  
+| bip_39_word_dash_6 | learn-such-depth-law-exhaust-load |  
+| bip_39_word_dash_7 | learn-such-depth-law-exhaust-load-salad |  
+| bip_39_word_dash_8 | learn-such-depth-law-exhaust-load-salad-jewel |  
+| bip_39_word_dash_9 | learn-such-depth-law-exhaust-load-salad-jewel-twist |  
 | bip_39_word_new_br_1 | learn |  
 | bip_39_word_new_br_10 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused |  
 | bip_39_word_new_br_11 | learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused<br>million |  
@@ -147,6 +159,18 @@ twist |
 | bip_39_word_space_7 | learn such depth law exhaust load salad |  
 | bip_39_word_space_8 | learn such depth law exhaust load salad jewel |  
 | bip_39_word_space_9 | learn such depth law exhaust load salad jewel twist |  
+| bip_39_word_underscore_1 | learn |  
+| bip_39_word_underscore_10 | learn_such_depth_law_exhaust_load_salad_jewel_twist_amused |  
+| bip_39_word_underscore_11 | learn_such_depth_law_exhaust_load_salad_jewel_twist_amused_million |  
+| bip_39_word_underscore_12 | learn_such_depth_law_exhaust_load_salad_jewel_twist_amused_million_address |  
+| bip_39_word_underscore_2 | learn_such |  
+| bip_39_word_underscore_3 | learn_such_depth |  
+| bip_39_word_underscore_4 | learn_such_depth_law |  
+| bip_39_word_underscore_5 | learn_such_depth_law_exhaust |  
+| bip_39_word_underscore_6 | learn_such_depth_law_exhaust_load |  
+| bip_39_word_underscore_7 | learn_such_depth_law_exhaust_load_salad |  
+| bip_39_word_underscore_8 | learn_such_depth_law_exhaust_load_salad_jewel |  
+| bip_39_word_underscore_9 | learn_such_depth_law_exhaust_load_salad_jewel_twist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

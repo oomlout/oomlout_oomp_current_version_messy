@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | humor |  
+| bip_39_word_dash_10 | humor-list-blame-machine-drive-comfort-clerk-yellow-rally-amused |  
+| bip_39_word_dash_11 | humor-list-blame-machine-drive-comfort-clerk-yellow-rally-amused-canoe |  
+| bip_39_word_dash_12 | humor-list-blame-machine-drive-comfort-clerk-yellow-rally-amused-canoe-anger |  
+| bip_39_word_dash_2 | humor-list |  
+| bip_39_word_dash_3 | humor-list-blame |  
+| bip_39_word_dash_4 | humor-list-blame-machine |  
+| bip_39_word_dash_5 | humor-list-blame-machine-drive |  
+| bip_39_word_dash_6 | humor-list-blame-machine-drive-comfort |  
+| bip_39_word_dash_7 | humor-list-blame-machine-drive-comfort-clerk |  
+| bip_39_word_dash_8 | humor-list-blame-machine-drive-comfort-clerk-yellow |  
+| bip_39_word_dash_9 | humor-list-blame-machine-drive-comfort-clerk-yellow-rally |  
 | bip_39_word_new_br_1 | humor |  
 | bip_39_word_new_br_10 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused |  
 | bip_39_word_new_br_11 | humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused<br>canoe |  
@@ -147,6 +159,18 @@ rally |
 | bip_39_word_space_7 | humor list blame machine drive comfort clerk |  
 | bip_39_word_space_8 | humor list blame machine drive comfort clerk yellow |  
 | bip_39_word_space_9 | humor list blame machine drive comfort clerk yellow rally |  
+| bip_39_word_underscore_1 | humor |  
+| bip_39_word_underscore_10 | humor_list_blame_machine_drive_comfort_clerk_yellow_rally_amused |  
+| bip_39_word_underscore_11 | humor_list_blame_machine_drive_comfort_clerk_yellow_rally_amused_canoe |  
+| bip_39_word_underscore_12 | humor_list_blame_machine_drive_comfort_clerk_yellow_rally_amused_canoe_anger |  
+| bip_39_word_underscore_2 | humor_list |  
+| bip_39_word_underscore_3 | humor_list_blame |  
+| bip_39_word_underscore_4 | humor_list_blame_machine |  
+| bip_39_word_underscore_5 | humor_list_blame_machine_drive |  
+| bip_39_word_underscore_6 | humor_list_blame_machine_drive_comfort |  
+| bip_39_word_underscore_7 | humor_list_blame_machine_drive_comfort_clerk |  
+| bip_39_word_underscore_8 | humor_list_blame_machine_drive_comfort_clerk_yellow |  
+| bip_39_word_underscore_9 | humor_list_blame_machine_drive_comfort_clerk_yellow_rally |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

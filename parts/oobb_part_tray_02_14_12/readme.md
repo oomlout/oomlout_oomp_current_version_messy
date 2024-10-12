@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | field |  
+| bip_39_word_dash_10 | field-wear-glimpse-occur-cousin-delay-holiday-hockey-into-cat |  
+| bip_39_word_dash_11 | field-wear-glimpse-occur-cousin-delay-holiday-hockey-into-cat-stumble |  
+| bip_39_word_dash_12 | field-wear-glimpse-occur-cousin-delay-holiday-hockey-into-cat-stumble-arch |  
+| bip_39_word_dash_2 | field-wear |  
+| bip_39_word_dash_3 | field-wear-glimpse |  
+| bip_39_word_dash_4 | field-wear-glimpse-occur |  
+| bip_39_word_dash_5 | field-wear-glimpse-occur-cousin |  
+| bip_39_word_dash_6 | field-wear-glimpse-occur-cousin-delay |  
+| bip_39_word_dash_7 | field-wear-glimpse-occur-cousin-delay-holiday |  
+| bip_39_word_dash_8 | field-wear-glimpse-occur-cousin-delay-holiday-hockey |  
+| bip_39_word_dash_9 | field-wear-glimpse-occur-cousin-delay-holiday-hockey-into |  
 | bip_39_word_new_br_1 | field |  
 | bip_39_word_new_br_10 | field<br>wear<br>glimpse<br>occur<br>cousin<br>delay<br>holiday<br>hockey<br>into<br>cat |  
 | bip_39_word_new_br_11 | field<br>wear<br>glimpse<br>occur<br>cousin<br>delay<br>holiday<br>hockey<br>into<br>cat<br>stumble |  
@@ -147,6 +159,18 @@ into |
 | bip_39_word_space_7 | field wear glimpse occur cousin delay holiday |  
 | bip_39_word_space_8 | field wear glimpse occur cousin delay holiday hockey |  
 | bip_39_word_space_9 | field wear glimpse occur cousin delay holiday hockey into |  
+| bip_39_word_underscore_1 | field |  
+| bip_39_word_underscore_10 | field_wear_glimpse_occur_cousin_delay_holiday_hockey_into_cat |  
+| bip_39_word_underscore_11 | field_wear_glimpse_occur_cousin_delay_holiday_hockey_into_cat_stumble |  
+| bip_39_word_underscore_12 | field_wear_glimpse_occur_cousin_delay_holiday_hockey_into_cat_stumble_arch |  
+| bip_39_word_underscore_2 | field_wear |  
+| bip_39_word_underscore_3 | field_wear_glimpse |  
+| bip_39_word_underscore_4 | field_wear_glimpse_occur |  
+| bip_39_word_underscore_5 | field_wear_glimpse_occur_cousin |  
+| bip_39_word_underscore_6 | field_wear_glimpse_occur_cousin_delay |  
+| bip_39_word_underscore_7 | field_wear_glimpse_occur_cousin_delay_holiday |  
+| bip_39_word_underscore_8 | field_wear_glimpse_occur_cousin_delay_holiday_hockey |  
+| bip_39_word_underscore_9 | field_wear_glimpse_occur_cousin_delay_holiday_hockey_into |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

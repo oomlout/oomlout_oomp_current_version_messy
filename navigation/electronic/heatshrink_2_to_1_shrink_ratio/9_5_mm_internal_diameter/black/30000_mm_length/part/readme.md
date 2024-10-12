@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gas |  
+| bip_39_word_dash_10 | gas-flat-copy-chalk-hamster-long-one-person-smart-vocal |  
+| bip_39_word_dash_11 | gas-flat-copy-chalk-hamster-long-one-person-smart-vocal-scout |  
+| bip_39_word_dash_12 | gas-flat-copy-chalk-hamster-long-one-person-smart-vocal-scout-arch |  
+| bip_39_word_dash_2 | gas-flat |  
+| bip_39_word_dash_3 | gas-flat-copy |  
+| bip_39_word_dash_4 | gas-flat-copy-chalk |  
+| bip_39_word_dash_5 | gas-flat-copy-chalk-hamster |  
+| bip_39_word_dash_6 | gas-flat-copy-chalk-hamster-long |  
+| bip_39_word_dash_7 | gas-flat-copy-chalk-hamster-long-one |  
+| bip_39_word_dash_8 | gas-flat-copy-chalk-hamster-long-one-person |  
+| bip_39_word_dash_9 | gas-flat-copy-chalk-hamster-long-one-person-smart |  
 | bip_39_word_new_br_1 | gas |  
 | bip_39_word_new_br_10 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person<br>smart<br>vocal |  
 | bip_39_word_new_br_11 | gas<br>flat<br>copy<br>chalk<br>hamster<br>long<br>one<br>person<br>smart<br>vocal<br>scout |  
@@ -147,6 +159,18 @@ smart |
 | bip_39_word_space_7 | gas flat copy chalk hamster long one |  
 | bip_39_word_space_8 | gas flat copy chalk hamster long one person |  
 | bip_39_word_space_9 | gas flat copy chalk hamster long one person smart |  
+| bip_39_word_underscore_1 | gas |  
+| bip_39_word_underscore_10 | gas_flat_copy_chalk_hamster_long_one_person_smart_vocal |  
+| bip_39_word_underscore_11 | gas_flat_copy_chalk_hamster_long_one_person_smart_vocal_scout |  
+| bip_39_word_underscore_12 | gas_flat_copy_chalk_hamster_long_one_person_smart_vocal_scout_arch |  
+| bip_39_word_underscore_2 | gas_flat |  
+| bip_39_word_underscore_3 | gas_flat_copy |  
+| bip_39_word_underscore_4 | gas_flat_copy_chalk |  
+| bip_39_word_underscore_5 | gas_flat_copy_chalk_hamster |  
+| bip_39_word_underscore_6 | gas_flat_copy_chalk_hamster_long |  
+| bip_39_word_underscore_7 | gas_flat_copy_chalk_hamster_long_one |  
+| bip_39_word_underscore_8 | gas_flat_copy_chalk_hamster_long_one_person |  
+| bip_39_word_underscore_9 | gas_flat_copy_chalk_hamster_long_one_person_smart |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

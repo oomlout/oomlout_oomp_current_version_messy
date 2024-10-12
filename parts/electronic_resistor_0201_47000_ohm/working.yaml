@@ -1,3 +1,15 @@
+bip_39_word_dash_1: burst
+bip_39_word_dash_10: burst-rare-crowd-prefer-cushion-barely-position-crop-shield-chaos
+bip_39_word_dash_11: burst-rare-crowd-prefer-cushion-barely-position-crop-shield-chaos-few
+bip_39_word_dash_12: burst-rare-crowd-prefer-cushion-barely-position-crop-shield-chaos-few-apology
+bip_39_word_dash_2: burst-rare
+bip_39_word_dash_3: burst-rare-crowd
+bip_39_word_dash_4: burst-rare-crowd-prefer
+bip_39_word_dash_5: burst-rare-crowd-prefer-cushion
+bip_39_word_dash_6: burst-rare-crowd-prefer-cushion-barely
+bip_39_word_dash_7: burst-rare-crowd-prefer-cushion-barely-position
+bip_39_word_dash_8: burst-rare-crowd-prefer-cushion-barely-position-crop
+bip_39_word_dash_9: burst-rare-crowd-prefer-cushion-barely-position-crop-shield
 bip_39_word_new_br_1: burst
 bip_39_word_new_br_10: burst<br>rare<br>crowd<br>prefer<br>cushion<br>barely<br>position<br>crop<br>shield<br>chaos
 bip_39_word_new_br_11: burst<br>rare<br>crowd<br>prefer<br>cushion<br>barely<br>position<br>crop<br>shield<br>chaos<br>few
@@ -194,6 +206,18 @@ bip_39_word_space_6: burst rare crowd prefer cushion barely
 bip_39_word_space_7: burst rare crowd prefer cushion barely position
 bip_39_word_space_8: burst rare crowd prefer cushion barely position crop
 bip_39_word_space_9: burst rare crowd prefer cushion barely position crop shield
+bip_39_word_underscore_1: burst
+bip_39_word_underscore_10: burst_rare_crowd_prefer_cushion_barely_position_crop_shield_chaos
+bip_39_word_underscore_11: burst_rare_crowd_prefer_cushion_barely_position_crop_shield_chaos_few
+bip_39_word_underscore_12: burst_rare_crowd_prefer_cushion_barely_position_crop_shield_chaos_few_apology
+bip_39_word_underscore_2: burst_rare
+bip_39_word_underscore_3: burst_rare_crowd
+bip_39_word_underscore_4: burst_rare_crowd_prefer
+bip_39_word_underscore_5: burst_rare_crowd_prefer_cushion
+bip_39_word_underscore_6: burst_rare_crowd_prefer_cushion_barely
+bip_39_word_underscore_7: burst_rare_crowd_prefer_cushion_barely_position
+bip_39_word_underscore_8: burst_rare_crowd_prefer_cushion_barely_position_crop
+bip_39_word_underscore_9: burst_rare_crowd_prefer_cushion_barely_position_crop_shield
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: perfect
+bip_39_word_dash_10: perfect-outdoor-follow-sausage-crisp-globe-still-early-hand-famous
+bip_39_word_dash_11: perfect-outdoor-follow-sausage-crisp-globe-still-early-hand-famous-flavor
+bip_39_word_dash_12: perfect-outdoor-follow-sausage-crisp-globe-still-early-hand-famous-flavor-actual
+bip_39_word_dash_2: perfect-outdoor
+bip_39_word_dash_3: perfect-outdoor-follow
+bip_39_word_dash_4: perfect-outdoor-follow-sausage
+bip_39_word_dash_5: perfect-outdoor-follow-sausage-crisp
+bip_39_word_dash_6: perfect-outdoor-follow-sausage-crisp-globe
+bip_39_word_dash_7: perfect-outdoor-follow-sausage-crisp-globe-still
+bip_39_word_dash_8: perfect-outdoor-follow-sausage-crisp-globe-still-early
+bip_39_word_dash_9: perfect-outdoor-follow-sausage-crisp-globe-still-early-hand
 bip_39_word_new_br_1: perfect
 bip_39_word_new_br_10: perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous
 bip_39_word_new_br_11: perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous<br>flavor
@@ -194,6 +206,18 @@ bip_39_word_space_6: perfect outdoor follow sausage crisp globe
 bip_39_word_space_7: perfect outdoor follow sausage crisp globe still
 bip_39_word_space_8: perfect outdoor follow sausage crisp globe still early
 bip_39_word_space_9: perfect outdoor follow sausage crisp globe still early hand
+bip_39_word_underscore_1: perfect
+bip_39_word_underscore_10: perfect_outdoor_follow_sausage_crisp_globe_still_early_hand_famous
+bip_39_word_underscore_11: perfect_outdoor_follow_sausage_crisp_globe_still_early_hand_famous_flavor
+bip_39_word_underscore_12: perfect_outdoor_follow_sausage_crisp_globe_still_early_hand_famous_flavor_actual
+bip_39_word_underscore_2: perfect_outdoor
+bip_39_word_underscore_3: perfect_outdoor_follow
+bip_39_word_underscore_4: perfect_outdoor_follow_sausage
+bip_39_word_underscore_5: perfect_outdoor_follow_sausage_crisp
+bip_39_word_underscore_6: perfect_outdoor_follow_sausage_crisp_globe
+bip_39_word_underscore_7: perfect_outdoor_follow_sausage_crisp_globe_still
+bip_39_word_underscore_8: perfect_outdoor_follow_sausage_crisp_globe_still_early
+bip_39_word_underscore_9: perfect_outdoor_follow_sausage_crisp_globe_still_early_hand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

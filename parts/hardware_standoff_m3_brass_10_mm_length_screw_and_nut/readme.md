@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | polar |  
+| bip_39_word_dash_10 | polar-dose-finish-planet-seven-craft-obvious-position-tilt-crash |  
+| bip_39_word_dash_11 | polar-dose-finish-planet-seven-craft-obvious-position-tilt-crash-coin |  
+| bip_39_word_dash_12 | polar-dose-finish-planet-seven-craft-obvious-position-tilt-crash-coin-act |  
+| bip_39_word_dash_2 | polar-dose |  
+| bip_39_word_dash_3 | polar-dose-finish |  
+| bip_39_word_dash_4 | polar-dose-finish-planet |  
+| bip_39_word_dash_5 | polar-dose-finish-planet-seven |  
+| bip_39_word_dash_6 | polar-dose-finish-planet-seven-craft |  
+| bip_39_word_dash_7 | polar-dose-finish-planet-seven-craft-obvious |  
+| bip_39_word_dash_8 | polar-dose-finish-planet-seven-craft-obvious-position |  
+| bip_39_word_dash_9 | polar-dose-finish-planet-seven-craft-obvious-position-tilt |  
 | bip_39_word_new_br_1 | polar |  
 | bip_39_word_new_br_10 | polar<br>dose<br>finish<br>planet<br>seven<br>craft<br>obvious<br>position<br>tilt<br>crash |  
 | bip_39_word_new_br_11 | polar<br>dose<br>finish<br>planet<br>seven<br>craft<br>obvious<br>position<br>tilt<br>crash<br>coin |  
@@ -147,6 +159,18 @@ tilt |
 | bip_39_word_space_7 | polar dose finish planet seven craft obvious |  
 | bip_39_word_space_8 | polar dose finish planet seven craft obvious position |  
 | bip_39_word_space_9 | polar dose finish planet seven craft obvious position tilt |  
+| bip_39_word_underscore_1 | polar |  
+| bip_39_word_underscore_10 | polar_dose_finish_planet_seven_craft_obvious_position_tilt_crash |  
+| bip_39_word_underscore_11 | polar_dose_finish_planet_seven_craft_obvious_position_tilt_crash_coin |  
+| bip_39_word_underscore_12 | polar_dose_finish_planet_seven_craft_obvious_position_tilt_crash_coin_act |  
+| bip_39_word_underscore_2 | polar_dose |  
+| bip_39_word_underscore_3 | polar_dose_finish |  
+| bip_39_word_underscore_4 | polar_dose_finish_planet |  
+| bip_39_word_underscore_5 | polar_dose_finish_planet_seven |  
+| bip_39_word_underscore_6 | polar_dose_finish_planet_seven_craft |  
+| bip_39_word_underscore_7 | polar_dose_finish_planet_seven_craft_obvious |  
+| bip_39_word_underscore_8 | polar_dose_finish_planet_seven_craft_obvious_position |  
+| bip_39_word_underscore_9 | polar_dose_finish_planet_seven_craft_obvious_position_tilt |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

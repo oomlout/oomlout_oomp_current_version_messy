@@ -1,3 +1,15 @@
+bip_39_word_dash_1: repair
+bip_39_word_dash_10: repair-trap-service-celery-venture-prefer-cry-ten-nice-little
+bip_39_word_dash_11: repair-trap-service-celery-venture-prefer-cry-ten-nice-little-fame
+bip_39_word_dash_12: repair-trap-service-celery-venture-prefer-cry-ten-nice-little-fame-acoustic
+bip_39_word_dash_2: repair-trap
+bip_39_word_dash_3: repair-trap-service
+bip_39_word_dash_4: repair-trap-service-celery
+bip_39_word_dash_5: repair-trap-service-celery-venture
+bip_39_word_dash_6: repair-trap-service-celery-venture-prefer
+bip_39_word_dash_7: repair-trap-service-celery-venture-prefer-cry
+bip_39_word_dash_8: repair-trap-service-celery-venture-prefer-cry-ten
+bip_39_word_dash_9: repair-trap-service-celery-venture-prefer-cry-ten-nice
 bip_39_word_new_br_1: repair
 bip_39_word_new_br_10: repair<br>trap<br>service<br>celery<br>venture<br>prefer<br>cry<br>ten<br>nice<br>little
 bip_39_word_new_br_11: repair<br>trap<br>service<br>celery<br>venture<br>prefer<br>cry<br>ten<br>nice<br>little<br>fame
@@ -193,6 +205,18 @@ bip_39_word_space_6: repair trap service celery venture prefer
 bip_39_word_space_7: repair trap service celery venture prefer cry
 bip_39_word_space_8: repair trap service celery venture prefer cry ten
 bip_39_word_space_9: repair trap service celery venture prefer cry ten nice
+bip_39_word_underscore_1: repair
+bip_39_word_underscore_10: repair_trap_service_celery_venture_prefer_cry_ten_nice_little
+bip_39_word_underscore_11: repair_trap_service_celery_venture_prefer_cry_ten_nice_little_fame
+bip_39_word_underscore_12: repair_trap_service_celery_venture_prefer_cry_ten_nice_little_fame_acoustic
+bip_39_word_underscore_2: repair_trap
+bip_39_word_underscore_3: repair_trap_service
+bip_39_word_underscore_4: repair_trap_service_celery
+bip_39_word_underscore_5: repair_trap_service_celery_venture
+bip_39_word_underscore_6: repair_trap_service_celery_venture_prefer
+bip_39_word_underscore_7: repair_trap_service_celery_venture_prefer_cry
+bip_39_word_underscore_8: repair_trap_service_celery_venture_prefer_cry_ten
+bip_39_word_underscore_9: repair_trap_service_celery_venture_prefer_cry_ten_nice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

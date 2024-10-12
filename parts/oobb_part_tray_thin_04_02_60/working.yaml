@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fuel
+bip_39_word_dash_10: fuel-acoustic-peace-mirror-couch-toe-cause-ranch-brisk-basic
+bip_39_word_dash_11: fuel-acoustic-peace-mirror-couch-toe-cause-ranch-brisk-basic-ride
+bip_39_word_dash_12: fuel-acoustic-peace-mirror-couch-toe-cause-ranch-brisk-basic-ride-auto
+bip_39_word_dash_2: fuel-acoustic
+bip_39_word_dash_3: fuel-acoustic-peace
+bip_39_word_dash_4: fuel-acoustic-peace-mirror
+bip_39_word_dash_5: fuel-acoustic-peace-mirror-couch
+bip_39_word_dash_6: fuel-acoustic-peace-mirror-couch-toe
+bip_39_word_dash_7: fuel-acoustic-peace-mirror-couch-toe-cause
+bip_39_word_dash_8: fuel-acoustic-peace-mirror-couch-toe-cause-ranch
+bip_39_word_dash_9: fuel-acoustic-peace-mirror-couch-toe-cause-ranch-brisk
 bip_39_word_new_br_1: fuel
 bip_39_word_new_br_10: fuel<br>acoustic<br>peace<br>mirror<br>couch<br>toe<br>cause<br>ranch<br>brisk<br>basic
 bip_39_word_new_br_11: fuel<br>acoustic<br>peace<br>mirror<br>couch<br>toe<br>cause<br>ranch<br>brisk<br>basic<br>ride
@@ -193,6 +205,18 @@ bip_39_word_space_6: fuel acoustic peace mirror couch toe
 bip_39_word_space_7: fuel acoustic peace mirror couch toe cause
 bip_39_word_space_8: fuel acoustic peace mirror couch toe cause ranch
 bip_39_word_space_9: fuel acoustic peace mirror couch toe cause ranch brisk
+bip_39_word_underscore_1: fuel
+bip_39_word_underscore_10: fuel_acoustic_peace_mirror_couch_toe_cause_ranch_brisk_basic
+bip_39_word_underscore_11: fuel_acoustic_peace_mirror_couch_toe_cause_ranch_brisk_basic_ride
+bip_39_word_underscore_12: fuel_acoustic_peace_mirror_couch_toe_cause_ranch_brisk_basic_ride_auto
+bip_39_word_underscore_2: fuel_acoustic
+bip_39_word_underscore_3: fuel_acoustic_peace
+bip_39_word_underscore_4: fuel_acoustic_peace_mirror
+bip_39_word_underscore_5: fuel_acoustic_peace_mirror_couch
+bip_39_word_underscore_6: fuel_acoustic_peace_mirror_couch_toe
+bip_39_word_underscore_7: fuel_acoustic_peace_mirror_couch_toe_cause
+bip_39_word_underscore_8: fuel_acoustic_peace_mirror_couch_toe_cause_ranch
+bip_39_word_underscore_9: fuel_acoustic_peace_mirror_couch_toe_cause_ranch_brisk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rule |  
+| bip_39_word_dash_10 | rule-grain-immune-false-rack-ranch-iron-dream-bachelor-clump |  
+| bip_39_word_dash_11 | rule-grain-immune-false-rack-ranch-iron-dream-bachelor-clump-early |  
+| bip_39_word_dash_12 | rule-grain-immune-false-rack-ranch-iron-dream-bachelor-clump-early-ancient |  
+| bip_39_word_dash_2 | rule-grain |  
+| bip_39_word_dash_3 | rule-grain-immune |  
+| bip_39_word_dash_4 | rule-grain-immune-false |  
+| bip_39_word_dash_5 | rule-grain-immune-false-rack |  
+| bip_39_word_dash_6 | rule-grain-immune-false-rack-ranch |  
+| bip_39_word_dash_7 | rule-grain-immune-false-rack-ranch-iron |  
+| bip_39_word_dash_8 | rule-grain-immune-false-rack-ranch-iron-dream |  
+| bip_39_word_dash_9 | rule-grain-immune-false-rack-ranch-iron-dream-bachelor |  
 | bip_39_word_new_br_1 | rule |  
 | bip_39_word_new_br_10 | rule<br>grain<br>immune<br>false<br>rack<br>ranch<br>iron<br>dream<br>bachelor<br>clump |  
 | bip_39_word_new_br_11 | rule<br>grain<br>immune<br>false<br>rack<br>ranch<br>iron<br>dream<br>bachelor<br>clump<br>early |  
@@ -147,6 +159,18 @@ bachelor |
 | bip_39_word_space_7 | rule grain immune false rack ranch iron |  
 | bip_39_word_space_8 | rule grain immune false rack ranch iron dream |  
 | bip_39_word_space_9 | rule grain immune false rack ranch iron dream bachelor |  
+| bip_39_word_underscore_1 | rule |  
+| bip_39_word_underscore_10 | rule_grain_immune_false_rack_ranch_iron_dream_bachelor_clump |  
+| bip_39_word_underscore_11 | rule_grain_immune_false_rack_ranch_iron_dream_bachelor_clump_early |  
+| bip_39_word_underscore_12 | rule_grain_immune_false_rack_ranch_iron_dream_bachelor_clump_early_ancient |  
+| bip_39_word_underscore_2 | rule_grain |  
+| bip_39_word_underscore_3 | rule_grain_immune |  
+| bip_39_word_underscore_4 | rule_grain_immune_false |  
+| bip_39_word_underscore_5 | rule_grain_immune_false_rack |  
+| bip_39_word_underscore_6 | rule_grain_immune_false_rack_ranch |  
+| bip_39_word_underscore_7 | rule_grain_immune_false_rack_ranch_iron |  
+| bip_39_word_underscore_8 | rule_grain_immune_false_rack_ranch_iron_dream |  
+| bip_39_word_underscore_9 | rule_grain_immune_false_rack_ranch_iron_dream_bachelor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

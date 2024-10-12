@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | learn |  
+| bip_39_word_dash_10 | learn-speak-inhale-talent-ask-thought-engine-recipe-series-kiwi |  
+| bip_39_word_dash_11 | learn-speak-inhale-talent-ask-thought-engine-recipe-series-kiwi-fence |  
+| bip_39_word_dash_12 | learn-speak-inhale-talent-ask-thought-engine-recipe-series-kiwi-fence-absorb |  
+| bip_39_word_dash_2 | learn-speak |  
+| bip_39_word_dash_3 | learn-speak-inhale |  
+| bip_39_word_dash_4 | learn-speak-inhale-talent |  
+| bip_39_word_dash_5 | learn-speak-inhale-talent-ask |  
+| bip_39_word_dash_6 | learn-speak-inhale-talent-ask-thought |  
+| bip_39_word_dash_7 | learn-speak-inhale-talent-ask-thought-engine |  
+| bip_39_word_dash_8 | learn-speak-inhale-talent-ask-thought-engine-recipe |  
+| bip_39_word_dash_9 | learn-speak-inhale-talent-ask-thought-engine-recipe-series |  
 | bip_39_word_new_br_1 | learn |  
 | bip_39_word_new_br_10 | learn<br>speak<br>inhale<br>talent<br>ask<br>thought<br>engine<br>recipe<br>series<br>kiwi |  
 | bip_39_word_new_br_11 | learn<br>speak<br>inhale<br>talent<br>ask<br>thought<br>engine<br>recipe<br>series<br>kiwi<br>fence |  
@@ -147,6 +159,18 @@ series |
 | bip_39_word_space_7 | learn speak inhale talent ask thought engine |  
 | bip_39_word_space_8 | learn speak inhale talent ask thought engine recipe |  
 | bip_39_word_space_9 | learn speak inhale talent ask thought engine recipe series |  
+| bip_39_word_underscore_1 | learn |  
+| bip_39_word_underscore_10 | learn_speak_inhale_talent_ask_thought_engine_recipe_series_kiwi |  
+| bip_39_word_underscore_11 | learn_speak_inhale_talent_ask_thought_engine_recipe_series_kiwi_fence |  
+| bip_39_word_underscore_12 | learn_speak_inhale_talent_ask_thought_engine_recipe_series_kiwi_fence_absorb |  
+| bip_39_word_underscore_2 | learn_speak |  
+| bip_39_word_underscore_3 | learn_speak_inhale |  
+| bip_39_word_underscore_4 | learn_speak_inhale_talent |  
+| bip_39_word_underscore_5 | learn_speak_inhale_talent_ask |  
+| bip_39_word_underscore_6 | learn_speak_inhale_talent_ask_thought |  
+| bip_39_word_underscore_7 | learn_speak_inhale_talent_ask_thought_engine |  
+| bip_39_word_underscore_8 | learn_speak_inhale_talent_ask_thought_engine_recipe |  
+| bip_39_word_underscore_9 | learn_speak_inhale_talent_ask_thought_engine_recipe_series |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

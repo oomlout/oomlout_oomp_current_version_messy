@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eye |  
+| bip_39_word_dash_10 | eye-mountain-absurd-kite-album-paper-devote-busy-bone-differ |  
+| bip_39_word_dash_11 | eye-mountain-absurd-kite-album-paper-devote-busy-bone-differ-april |  
+| bip_39_word_dash_12 | eye-mountain-absurd-kite-album-paper-devote-busy-bone-differ-april-acoustic |  
+| bip_39_word_dash_2 | eye-mountain |  
+| bip_39_word_dash_3 | eye-mountain-absurd |  
+| bip_39_word_dash_4 | eye-mountain-absurd-kite |  
+| bip_39_word_dash_5 | eye-mountain-absurd-kite-album |  
+| bip_39_word_dash_6 | eye-mountain-absurd-kite-album-paper |  
+| bip_39_word_dash_7 | eye-mountain-absurd-kite-album-paper-devote |  
+| bip_39_word_dash_8 | eye-mountain-absurd-kite-album-paper-devote-busy |  
+| bip_39_word_dash_9 | eye-mountain-absurd-kite-album-paper-devote-busy-bone |  
 | bip_39_word_new_br_1 | eye |  
 | bip_39_word_new_br_10 | eye<br>mountain<br>absurd<br>kite<br>album<br>paper<br>devote<br>busy<br>bone<br>differ |  
 | bip_39_word_new_br_11 | eye<br>mountain<br>absurd<br>kite<br>album<br>paper<br>devote<br>busy<br>bone<br>differ<br>april |  
@@ -147,6 +159,18 @@ bone |
 | bip_39_word_space_7 | eye mountain absurd kite album paper devote |  
 | bip_39_word_space_8 | eye mountain absurd kite album paper devote busy |  
 | bip_39_word_space_9 | eye mountain absurd kite album paper devote busy bone |  
+| bip_39_word_underscore_1 | eye |  
+| bip_39_word_underscore_10 | eye_mountain_absurd_kite_album_paper_devote_busy_bone_differ |  
+| bip_39_word_underscore_11 | eye_mountain_absurd_kite_album_paper_devote_busy_bone_differ_april |  
+| bip_39_word_underscore_12 | eye_mountain_absurd_kite_album_paper_devote_busy_bone_differ_april_acoustic |  
+| bip_39_word_underscore_2 | eye_mountain |  
+| bip_39_word_underscore_3 | eye_mountain_absurd |  
+| bip_39_word_underscore_4 | eye_mountain_absurd_kite |  
+| bip_39_word_underscore_5 | eye_mountain_absurd_kite_album |  
+| bip_39_word_underscore_6 | eye_mountain_absurd_kite_album_paper |  
+| bip_39_word_underscore_7 | eye_mountain_absurd_kite_album_paper_devote |  
+| bip_39_word_underscore_8 | eye_mountain_absurd_kite_album_paper_devote_busy |  
+| bip_39_word_underscore_9 | eye_mountain_absurd_kite_album_paper_devote_busy_bone |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

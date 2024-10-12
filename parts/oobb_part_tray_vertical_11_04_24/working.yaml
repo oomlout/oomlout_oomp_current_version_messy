@@ -1,3 +1,15 @@
+bip_39_word_dash_1: promote
+bip_39_word_dash_10: promote-coin-vapor-curve-helmet-inquiry-absent-proud-foster-aunt
+bip_39_word_dash_11: promote-coin-vapor-curve-helmet-inquiry-absent-proud-foster-aunt-record
+bip_39_word_dash_12: promote-coin-vapor-curve-helmet-inquiry-absent-proud-foster-aunt-record-access
+bip_39_word_dash_2: promote-coin
+bip_39_word_dash_3: promote-coin-vapor
+bip_39_word_dash_4: promote-coin-vapor-curve
+bip_39_word_dash_5: promote-coin-vapor-curve-helmet
+bip_39_word_dash_6: promote-coin-vapor-curve-helmet-inquiry
+bip_39_word_dash_7: promote-coin-vapor-curve-helmet-inquiry-absent
+bip_39_word_dash_8: promote-coin-vapor-curve-helmet-inquiry-absent-proud
+bip_39_word_dash_9: promote-coin-vapor-curve-helmet-inquiry-absent-proud-foster
 bip_39_word_new_br_1: promote
 bip_39_word_new_br_10: promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt
 bip_39_word_new_br_11: promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt<br>record
@@ -194,6 +206,18 @@ bip_39_word_space_6: promote coin vapor curve helmet inquiry
 bip_39_word_space_7: promote coin vapor curve helmet inquiry absent
 bip_39_word_space_8: promote coin vapor curve helmet inquiry absent proud
 bip_39_word_space_9: promote coin vapor curve helmet inquiry absent proud foster
+bip_39_word_underscore_1: promote
+bip_39_word_underscore_10: promote_coin_vapor_curve_helmet_inquiry_absent_proud_foster_aunt
+bip_39_word_underscore_11: promote_coin_vapor_curve_helmet_inquiry_absent_proud_foster_aunt_record
+bip_39_word_underscore_12: promote_coin_vapor_curve_helmet_inquiry_absent_proud_foster_aunt_record_access
+bip_39_word_underscore_2: promote_coin
+bip_39_word_underscore_3: promote_coin_vapor
+bip_39_word_underscore_4: promote_coin_vapor_curve
+bip_39_word_underscore_5: promote_coin_vapor_curve_helmet
+bip_39_word_underscore_6: promote_coin_vapor_curve_helmet_inquiry
+bip_39_word_underscore_7: promote_coin_vapor_curve_helmet_inquiry_absent
+bip_39_word_underscore_8: promote_coin_vapor_curve_helmet_inquiry_absent_proud
+bip_39_word_underscore_9: promote_coin_vapor_curve_helmet_inquiry_absent_proud_foster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | expand |  
+| bip_39_word_dash_10 | expand-lunar-age-powder-other-away-entry-mask-sponsor-crawl |  
+| bip_39_word_dash_11 | expand-lunar-age-powder-other-away-entry-mask-sponsor-crawl-panther |  
+| bip_39_word_dash_12 | expand-lunar-age-powder-other-away-entry-mask-sponsor-crawl-panther-ask |  
+| bip_39_word_dash_2 | expand-lunar |  
+| bip_39_word_dash_3 | expand-lunar-age |  
+| bip_39_word_dash_4 | expand-lunar-age-powder |  
+| bip_39_word_dash_5 | expand-lunar-age-powder-other |  
+| bip_39_word_dash_6 | expand-lunar-age-powder-other-away |  
+| bip_39_word_dash_7 | expand-lunar-age-powder-other-away-entry |  
+| bip_39_word_dash_8 | expand-lunar-age-powder-other-away-entry-mask |  
+| bip_39_word_dash_9 | expand-lunar-age-powder-other-away-entry-mask-sponsor |  
 | bip_39_word_new_br_1 | expand |  
 | bip_39_word_new_br_10 | expand<br>lunar<br>age<br>powder<br>other<br>away<br>entry<br>mask<br>sponsor<br>crawl |  
 | bip_39_word_new_br_11 | expand<br>lunar<br>age<br>powder<br>other<br>away<br>entry<br>mask<br>sponsor<br>crawl<br>panther |  
@@ -147,6 +159,18 @@ sponsor |
 | bip_39_word_space_7 | expand lunar age powder other away entry |  
 | bip_39_word_space_8 | expand lunar age powder other away entry mask |  
 | bip_39_word_space_9 | expand lunar age powder other away entry mask sponsor |  
+| bip_39_word_underscore_1 | expand |  
+| bip_39_word_underscore_10 | expand_lunar_age_powder_other_away_entry_mask_sponsor_crawl |  
+| bip_39_word_underscore_11 | expand_lunar_age_powder_other_away_entry_mask_sponsor_crawl_panther |  
+| bip_39_word_underscore_12 | expand_lunar_age_powder_other_away_entry_mask_sponsor_crawl_panther_ask |  
+| bip_39_word_underscore_2 | expand_lunar |  
+| bip_39_word_underscore_3 | expand_lunar_age |  
+| bip_39_word_underscore_4 | expand_lunar_age_powder |  
+| bip_39_word_underscore_5 | expand_lunar_age_powder_other |  
+| bip_39_word_underscore_6 | expand_lunar_age_powder_other_away |  
+| bip_39_word_underscore_7 | expand_lunar_age_powder_other_away_entry |  
+| bip_39_word_underscore_8 | expand_lunar_age_powder_other_away_entry_mask |  
+| bip_39_word_underscore_9 | expand_lunar_age_powder_other_away_entry_mask_sponsor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

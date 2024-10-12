@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | response |  
+| bip_39_word_dash_10 | response-change-record-output-minimum-width-suspect-food-cloud-drama |  
+| bip_39_word_dash_11 | response-change-record-output-minimum-width-suspect-food-cloud-drama-come |  
+| bip_39_word_dash_12 | response-change-record-output-minimum-width-suspect-food-cloud-drama-come-antenna |  
+| bip_39_word_dash_2 | response-change |  
+| bip_39_word_dash_3 | response-change-record |  
+| bip_39_word_dash_4 | response-change-record-output |  
+| bip_39_word_dash_5 | response-change-record-output-minimum |  
+| bip_39_word_dash_6 | response-change-record-output-minimum-width |  
+| bip_39_word_dash_7 | response-change-record-output-minimum-width-suspect |  
+| bip_39_word_dash_8 | response-change-record-output-minimum-width-suspect-food |  
+| bip_39_word_dash_9 | response-change-record-output-minimum-width-suspect-food-cloud |  
 | bip_39_word_new_br_1 | response |  
 | bip_39_word_new_br_10 | response<br>change<br>record<br>output<br>minimum<br>width<br>suspect<br>food<br>cloud<br>drama |  
 | bip_39_word_new_br_11 | response<br>change<br>record<br>output<br>minimum<br>width<br>suspect<br>food<br>cloud<br>drama<br>come |  
@@ -147,6 +159,18 @@ cloud |
 | bip_39_word_space_7 | response change record output minimum width suspect |  
 | bip_39_word_space_8 | response change record output minimum width suspect food |  
 | bip_39_word_space_9 | response change record output minimum width suspect food cloud |  
+| bip_39_word_underscore_1 | response |  
+| bip_39_word_underscore_10 | response_change_record_output_minimum_width_suspect_food_cloud_drama |  
+| bip_39_word_underscore_11 | response_change_record_output_minimum_width_suspect_food_cloud_drama_come |  
+| bip_39_word_underscore_12 | response_change_record_output_minimum_width_suspect_food_cloud_drama_come_antenna |  
+| bip_39_word_underscore_2 | response_change |  
+| bip_39_word_underscore_3 | response_change_record |  
+| bip_39_word_underscore_4 | response_change_record_output |  
+| bip_39_word_underscore_5 | response_change_record_output_minimum |  
+| bip_39_word_underscore_6 | response_change_record_output_minimum_width |  
+| bip_39_word_underscore_7 | response_change_record_output_minimum_width_suspect |  
+| bip_39_word_underscore_8 | response_change_record_output_minimum_width_suspect_food |  
+| bip_39_word_underscore_9 | response_change_record_output_minimum_width_suspect_food_cloud |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

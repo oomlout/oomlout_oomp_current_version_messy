@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | false |  
+| bip_39_word_dash_10 | false-gown-cherry-library-drop-angry-idle-ice-forget-pupil |  
+| bip_39_word_dash_11 | false-gown-cherry-library-drop-angry-idle-ice-forget-pupil-feed |  
+| bip_39_word_dash_12 | false-gown-cherry-library-drop-angry-idle-ice-forget-pupil-feed-afford |  
+| bip_39_word_dash_2 | false-gown |  
+| bip_39_word_dash_3 | false-gown-cherry |  
+| bip_39_word_dash_4 | false-gown-cherry-library |  
+| bip_39_word_dash_5 | false-gown-cherry-library-drop |  
+| bip_39_word_dash_6 | false-gown-cherry-library-drop-angry |  
+| bip_39_word_dash_7 | false-gown-cherry-library-drop-angry-idle |  
+| bip_39_word_dash_8 | false-gown-cherry-library-drop-angry-idle-ice |  
+| bip_39_word_dash_9 | false-gown-cherry-library-drop-angry-idle-ice-forget |  
 | bip_39_word_new_br_1 | false |  
 | bip_39_word_new_br_10 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil |  
 | bip_39_word_new_br_11 | false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil<br>feed |  
@@ -147,6 +159,18 @@ forget |
 | bip_39_word_space_7 | false gown cherry library drop angry idle |  
 | bip_39_word_space_8 | false gown cherry library drop angry idle ice |  
 | bip_39_word_space_9 | false gown cherry library drop angry idle ice forget |  
+| bip_39_word_underscore_1 | false |  
+| bip_39_word_underscore_10 | false_gown_cherry_library_drop_angry_idle_ice_forget_pupil |  
+| bip_39_word_underscore_11 | false_gown_cherry_library_drop_angry_idle_ice_forget_pupil_feed |  
+| bip_39_word_underscore_12 | false_gown_cherry_library_drop_angry_idle_ice_forget_pupil_feed_afford |  
+| bip_39_word_underscore_2 | false_gown |  
+| bip_39_word_underscore_3 | false_gown_cherry |  
+| bip_39_word_underscore_4 | false_gown_cherry_library |  
+| bip_39_word_underscore_5 | false_gown_cherry_library_drop |  
+| bip_39_word_underscore_6 | false_gown_cherry_library_drop_angry |  
+| bip_39_word_underscore_7 | false_gown_cherry_library_drop_angry_idle |  
+| bip_39_word_underscore_8 | false_gown_cherry_library_drop_angry_idle_ice |  
+| bip_39_word_underscore_9 | false_gown_cherry_library_drop_angry_idle_ice_forget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stamp
+bip_39_word_dash_10: stamp-grit-business-pepper-bronze-torch-kick-truth-code-clarify
+bip_39_word_dash_11: stamp-grit-business-pepper-bronze-torch-kick-truth-code-clarify-remind
+bip_39_word_dash_12: stamp-grit-business-pepper-bronze-torch-kick-truth-code-clarify-remind-account
+bip_39_word_dash_2: stamp-grit
+bip_39_word_dash_3: stamp-grit-business
+bip_39_word_dash_4: stamp-grit-business-pepper
+bip_39_word_dash_5: stamp-grit-business-pepper-bronze
+bip_39_word_dash_6: stamp-grit-business-pepper-bronze-torch
+bip_39_word_dash_7: stamp-grit-business-pepper-bronze-torch-kick
+bip_39_word_dash_8: stamp-grit-business-pepper-bronze-torch-kick-truth
+bip_39_word_dash_9: stamp-grit-business-pepper-bronze-torch-kick-truth-code
 bip_39_word_new_br_1: stamp
 bip_39_word_new_br_10: stamp<br>grit<br>business<br>pepper<br>bronze<br>torch<br>kick<br>truth<br>code<br>clarify
 bip_39_word_new_br_11: stamp<br>grit<br>business<br>pepper<br>bronze<br>torch<br>kick<br>truth<br>code<br>clarify<br>remind
@@ -193,6 +205,18 @@ bip_39_word_space_6: stamp grit business pepper bronze torch
 bip_39_word_space_7: stamp grit business pepper bronze torch kick
 bip_39_word_space_8: stamp grit business pepper bronze torch kick truth
 bip_39_word_space_9: stamp grit business pepper bronze torch kick truth code
+bip_39_word_underscore_1: stamp
+bip_39_word_underscore_10: stamp_grit_business_pepper_bronze_torch_kick_truth_code_clarify
+bip_39_word_underscore_11: stamp_grit_business_pepper_bronze_torch_kick_truth_code_clarify_remind
+bip_39_word_underscore_12: stamp_grit_business_pepper_bronze_torch_kick_truth_code_clarify_remind_account
+bip_39_word_underscore_2: stamp_grit
+bip_39_word_underscore_3: stamp_grit_business
+bip_39_word_underscore_4: stamp_grit_business_pepper
+bip_39_word_underscore_5: stamp_grit_business_pepper_bronze
+bip_39_word_underscore_6: stamp_grit_business_pepper_bronze_torch
+bip_39_word_underscore_7: stamp_grit_business_pepper_bronze_torch_kick
+bip_39_word_underscore_8: stamp_grit_business_pepper_bronze_torch_kick_truth
+bip_39_word_underscore_9: stamp_grit_business_pepper_bronze_torch_kick_truth_code
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

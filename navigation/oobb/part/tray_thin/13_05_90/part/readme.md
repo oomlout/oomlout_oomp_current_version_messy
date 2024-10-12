@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | local |  
+| bip_39_word_dash_10 | local-open-quarter-twice-problem-joy-jump-coral-crane-craft |  
+| bip_39_word_dash_11 | local-open-quarter-twice-problem-joy-jump-coral-crane-craft-casino |  
+| bip_39_word_dash_12 | local-open-quarter-twice-problem-joy-jump-coral-crane-craft-casino-ancient |  
+| bip_39_word_dash_2 | local-open |  
+| bip_39_word_dash_3 | local-open-quarter |  
+| bip_39_word_dash_4 | local-open-quarter-twice |  
+| bip_39_word_dash_5 | local-open-quarter-twice-problem |  
+| bip_39_word_dash_6 | local-open-quarter-twice-problem-joy |  
+| bip_39_word_dash_7 | local-open-quarter-twice-problem-joy-jump |  
+| bip_39_word_dash_8 | local-open-quarter-twice-problem-joy-jump-coral |  
+| bip_39_word_dash_9 | local-open-quarter-twice-problem-joy-jump-coral-crane |  
 | bip_39_word_new_br_1 | local |  
 | bip_39_word_new_br_10 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral<br>crane<br>craft |  
 | bip_39_word_new_br_11 | local<br>open<br>quarter<br>twice<br>problem<br>joy<br>jump<br>coral<br>crane<br>craft<br>casino |  
@@ -147,6 +159,18 @@ crane |
 | bip_39_word_space_7 | local open quarter twice problem joy jump |  
 | bip_39_word_space_8 | local open quarter twice problem joy jump coral |  
 | bip_39_word_space_9 | local open quarter twice problem joy jump coral crane |  
+| bip_39_word_underscore_1 | local |  
+| bip_39_word_underscore_10 | local_open_quarter_twice_problem_joy_jump_coral_crane_craft |  
+| bip_39_word_underscore_11 | local_open_quarter_twice_problem_joy_jump_coral_crane_craft_casino |  
+| bip_39_word_underscore_12 | local_open_quarter_twice_problem_joy_jump_coral_crane_craft_casino_ancient |  
+| bip_39_word_underscore_2 | local_open |  
+| bip_39_word_underscore_3 | local_open_quarter |  
+| bip_39_word_underscore_4 | local_open_quarter_twice |  
+| bip_39_word_underscore_5 | local_open_quarter_twice_problem |  
+| bip_39_word_underscore_6 | local_open_quarter_twice_problem_joy |  
+| bip_39_word_underscore_7 | local_open_quarter_twice_problem_joy_jump |  
+| bip_39_word_underscore_8 | local_open_quarter_twice_problem_joy_jump_coral |  
+| bip_39_word_underscore_9 | local_open_quarter_twice_problem_joy_jump_coral_crane |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

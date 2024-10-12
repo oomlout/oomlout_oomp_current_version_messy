@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blame |  
+| bip_39_word_dash_10 | blame-route-follow-federal-fever-decide-estate-globe-silk-filter |  
+| bip_39_word_dash_11 | blame-route-follow-federal-fever-decide-estate-globe-silk-filter-portion |  
+| bip_39_word_dash_12 | blame-route-follow-federal-fever-decide-estate-globe-silk-filter-portion-annual |  
+| bip_39_word_dash_2 | blame-route |  
+| bip_39_word_dash_3 | blame-route-follow |  
+| bip_39_word_dash_4 | blame-route-follow-federal |  
+| bip_39_word_dash_5 | blame-route-follow-federal-fever |  
+| bip_39_word_dash_6 | blame-route-follow-federal-fever-decide |  
+| bip_39_word_dash_7 | blame-route-follow-federal-fever-decide-estate |  
+| bip_39_word_dash_8 | blame-route-follow-federal-fever-decide-estate-globe |  
+| bip_39_word_dash_9 | blame-route-follow-federal-fever-decide-estate-globe-silk |  
 | bip_39_word_new_br_1 | blame |  
 | bip_39_word_new_br_10 | blame<br>route<br>follow<br>federal<br>fever<br>decide<br>estate<br>globe<br>silk<br>filter |  
 | bip_39_word_new_br_11 | blame<br>route<br>follow<br>federal<br>fever<br>decide<br>estate<br>globe<br>silk<br>filter<br>portion |  
@@ -147,6 +159,18 @@ silk |
 | bip_39_word_space_7 | blame route follow federal fever decide estate |  
 | bip_39_word_space_8 | blame route follow federal fever decide estate globe |  
 | bip_39_word_space_9 | blame route follow federal fever decide estate globe silk |  
+| bip_39_word_underscore_1 | blame |  
+| bip_39_word_underscore_10 | blame_route_follow_federal_fever_decide_estate_globe_silk_filter |  
+| bip_39_word_underscore_11 | blame_route_follow_federal_fever_decide_estate_globe_silk_filter_portion |  
+| bip_39_word_underscore_12 | blame_route_follow_federal_fever_decide_estate_globe_silk_filter_portion_annual |  
+| bip_39_word_underscore_2 | blame_route |  
+| bip_39_word_underscore_3 | blame_route_follow |  
+| bip_39_word_underscore_4 | blame_route_follow_federal |  
+| bip_39_word_underscore_5 | blame_route_follow_federal_fever |  
+| bip_39_word_underscore_6 | blame_route_follow_federal_fever_decide |  
+| bip_39_word_underscore_7 | blame_route_follow_federal_fever_decide_estate |  
+| bip_39_word_underscore_8 | blame_route_follow_federal_fever_decide_estate_globe |  
+| bip_39_word_underscore_9 | blame_route_follow_federal_fever_decide_estate_globe_silk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oppose |  
+| bip_39_word_dash_10 | oppose-execute-happy-sketch-ethics-place-athlete-pistol-screen-chef |  
+| bip_39_word_dash_11 | oppose-execute-happy-sketch-ethics-place-athlete-pistol-screen-chef-badge |  
+| bip_39_word_dash_12 | oppose-execute-happy-sketch-ethics-place-athlete-pistol-screen-chef-badge-atom |  
+| bip_39_word_dash_2 | oppose-execute |  
+| bip_39_word_dash_3 | oppose-execute-happy |  
+| bip_39_word_dash_4 | oppose-execute-happy-sketch |  
+| bip_39_word_dash_5 | oppose-execute-happy-sketch-ethics |  
+| bip_39_word_dash_6 | oppose-execute-happy-sketch-ethics-place |  
+| bip_39_word_dash_7 | oppose-execute-happy-sketch-ethics-place-athlete |  
+| bip_39_word_dash_8 | oppose-execute-happy-sketch-ethics-place-athlete-pistol |  
+| bip_39_word_dash_9 | oppose-execute-happy-sketch-ethics-place-athlete-pistol-screen |  
 | bip_39_word_new_br_1 | oppose |  
 | bip_39_word_new_br_10 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol<br>screen<br>chef |  
 | bip_39_word_new_br_11 | oppose<br>execute<br>happy<br>sketch<br>ethics<br>place<br>athlete<br>pistol<br>screen<br>chef<br>badge |  
@@ -147,6 +159,18 @@ screen |
 | bip_39_word_space_7 | oppose execute happy sketch ethics place athlete |  
 | bip_39_word_space_8 | oppose execute happy sketch ethics place athlete pistol |  
 | bip_39_word_space_9 | oppose execute happy sketch ethics place athlete pistol screen |  
+| bip_39_word_underscore_1 | oppose |  
+| bip_39_word_underscore_10 | oppose_execute_happy_sketch_ethics_place_athlete_pistol_screen_chef |  
+| bip_39_word_underscore_11 | oppose_execute_happy_sketch_ethics_place_athlete_pistol_screen_chef_badge |  
+| bip_39_word_underscore_12 | oppose_execute_happy_sketch_ethics_place_athlete_pistol_screen_chef_badge_atom |  
+| bip_39_word_underscore_2 | oppose_execute |  
+| bip_39_word_underscore_3 | oppose_execute_happy |  
+| bip_39_word_underscore_4 | oppose_execute_happy_sketch |  
+| bip_39_word_underscore_5 | oppose_execute_happy_sketch_ethics |  
+| bip_39_word_underscore_6 | oppose_execute_happy_sketch_ethics_place |  
+| bip_39_word_underscore_7 | oppose_execute_happy_sketch_ethics_place_athlete |  
+| bip_39_word_underscore_8 | oppose_execute_happy_sketch_ethics_place_athlete_pistol |  
+| bip_39_word_underscore_9 | oppose_execute_happy_sketch_ethics_place_athlete_pistol_screen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

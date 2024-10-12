@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cable |  
+| bip_39_word_dash_10 | cable-engage-admit-toe-rice-occur-dentist-front-tattoo-news |  
+| bip_39_word_dash_11 | cable-engage-admit-toe-rice-occur-dentist-front-tattoo-news-entry |  
+| bip_39_word_dash_12 | cable-engage-admit-toe-rice-occur-dentist-front-tattoo-news-entry-alert |  
+| bip_39_word_dash_2 | cable-engage |  
+| bip_39_word_dash_3 | cable-engage-admit |  
+| bip_39_word_dash_4 | cable-engage-admit-toe |  
+| bip_39_word_dash_5 | cable-engage-admit-toe-rice |  
+| bip_39_word_dash_6 | cable-engage-admit-toe-rice-occur |  
+| bip_39_word_dash_7 | cable-engage-admit-toe-rice-occur-dentist |  
+| bip_39_word_dash_8 | cable-engage-admit-toe-rice-occur-dentist-front |  
+| bip_39_word_dash_9 | cable-engage-admit-toe-rice-occur-dentist-front-tattoo |  
 | bip_39_word_new_br_1 | cable |  
 | bip_39_word_new_br_10 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front<br>tattoo<br>news |  
 | bip_39_word_new_br_11 | cable<br>engage<br>admit<br>toe<br>rice<br>occur<br>dentist<br>front<br>tattoo<br>news<br>entry |  
@@ -147,6 +159,18 @@ tattoo |
 | bip_39_word_space_7 | cable engage admit toe rice occur dentist |  
 | bip_39_word_space_8 | cable engage admit toe rice occur dentist front |  
 | bip_39_word_space_9 | cable engage admit toe rice occur dentist front tattoo |  
+| bip_39_word_underscore_1 | cable |  
+| bip_39_word_underscore_10 | cable_engage_admit_toe_rice_occur_dentist_front_tattoo_news |  
+| bip_39_word_underscore_11 | cable_engage_admit_toe_rice_occur_dentist_front_tattoo_news_entry |  
+| bip_39_word_underscore_12 | cable_engage_admit_toe_rice_occur_dentist_front_tattoo_news_entry_alert |  
+| bip_39_word_underscore_2 | cable_engage |  
+| bip_39_word_underscore_3 | cable_engage_admit |  
+| bip_39_word_underscore_4 | cable_engage_admit_toe |  
+| bip_39_word_underscore_5 | cable_engage_admit_toe_rice |  
+| bip_39_word_underscore_6 | cable_engage_admit_toe_rice_occur |  
+| bip_39_word_underscore_7 | cable_engage_admit_toe_rice_occur_dentist |  
+| bip_39_word_underscore_8 | cable_engage_admit_toe_rice_occur_dentist_front |  
+| bip_39_word_underscore_9 | cable_engage_admit_toe_rice_occur_dentist_front_tattoo |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

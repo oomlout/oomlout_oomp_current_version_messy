@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | era |  
+| bip_39_word_dash_10 | era-hospital-chronic-glad-guess-mad-process-tennis-uncle-price |  
+| bip_39_word_dash_11 | era-hospital-chronic-glad-guess-mad-process-tennis-uncle-price-job |  
+| bip_39_word_dash_12 | era-hospital-chronic-glad-guess-mad-process-tennis-uncle-price-job-angle |  
+| bip_39_word_dash_2 | era-hospital |  
+| bip_39_word_dash_3 | era-hospital-chronic |  
+| bip_39_word_dash_4 | era-hospital-chronic-glad |  
+| bip_39_word_dash_5 | era-hospital-chronic-glad-guess |  
+| bip_39_word_dash_6 | era-hospital-chronic-glad-guess-mad |  
+| bip_39_word_dash_7 | era-hospital-chronic-glad-guess-mad-process |  
+| bip_39_word_dash_8 | era-hospital-chronic-glad-guess-mad-process-tennis |  
+| bip_39_word_dash_9 | era-hospital-chronic-glad-guess-mad-process-tennis-uncle |  
 | bip_39_word_new_br_1 | era |  
 | bip_39_word_new_br_10 | era<br>hospital<br>chronic<br>glad<br>guess<br>mad<br>process<br>tennis<br>uncle<br>price |  
 | bip_39_word_new_br_11 | era<br>hospital<br>chronic<br>glad<br>guess<br>mad<br>process<br>tennis<br>uncle<br>price<br>job |  
@@ -147,6 +159,18 @@ uncle |
 | bip_39_word_space_7 | era hospital chronic glad guess mad process |  
 | bip_39_word_space_8 | era hospital chronic glad guess mad process tennis |  
 | bip_39_word_space_9 | era hospital chronic glad guess mad process tennis uncle |  
+| bip_39_word_underscore_1 | era |  
+| bip_39_word_underscore_10 | era_hospital_chronic_glad_guess_mad_process_tennis_uncle_price |  
+| bip_39_word_underscore_11 | era_hospital_chronic_glad_guess_mad_process_tennis_uncle_price_job |  
+| bip_39_word_underscore_12 | era_hospital_chronic_glad_guess_mad_process_tennis_uncle_price_job_angle |  
+| bip_39_word_underscore_2 | era_hospital |  
+| bip_39_word_underscore_3 | era_hospital_chronic |  
+| bip_39_word_underscore_4 | era_hospital_chronic_glad |  
+| bip_39_word_underscore_5 | era_hospital_chronic_glad_guess |  
+| bip_39_word_underscore_6 | era_hospital_chronic_glad_guess_mad |  
+| bip_39_word_underscore_7 | era_hospital_chronic_glad_guess_mad_process |  
+| bip_39_word_underscore_8 | era_hospital_chronic_glad_guess_mad_process_tennis |  
+| bip_39_word_underscore_9 | era_hospital_chronic_glad_guess_mad_process_tennis_uncle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

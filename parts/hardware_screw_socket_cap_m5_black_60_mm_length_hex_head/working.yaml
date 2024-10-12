@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jazz
+bip_39_word_dash_10: jazz-tomorrow-island-bitter-still-victory-clerk-winner-skirt-join
+bip_39_word_dash_11: jazz-tomorrow-island-bitter-still-victory-clerk-winner-skirt-join-utility
+bip_39_word_dash_12: jazz-tomorrow-island-bitter-still-victory-clerk-winner-skirt-join-utility-angry
+bip_39_word_dash_2: jazz-tomorrow
+bip_39_word_dash_3: jazz-tomorrow-island
+bip_39_word_dash_4: jazz-tomorrow-island-bitter
+bip_39_word_dash_5: jazz-tomorrow-island-bitter-still
+bip_39_word_dash_6: jazz-tomorrow-island-bitter-still-victory
+bip_39_word_dash_7: jazz-tomorrow-island-bitter-still-victory-clerk
+bip_39_word_dash_8: jazz-tomorrow-island-bitter-still-victory-clerk-winner
+bip_39_word_dash_9: jazz-tomorrow-island-bitter-still-victory-clerk-winner-skirt
 bip_39_word_new_br_1: jazz
 bip_39_word_new_br_10: jazz<br>tomorrow<br>island<br>bitter<br>still<br>victory<br>clerk<br>winner<br>skirt<br>join
 bip_39_word_new_br_11: jazz<br>tomorrow<br>island<br>bitter<br>still<br>victory<br>clerk<br>winner<br>skirt<br>join<br>utility
@@ -194,6 +206,18 @@ bip_39_word_space_6: jazz tomorrow island bitter still victory
 bip_39_word_space_7: jazz tomorrow island bitter still victory clerk
 bip_39_word_space_8: jazz tomorrow island bitter still victory clerk winner
 bip_39_word_space_9: jazz tomorrow island bitter still victory clerk winner skirt
+bip_39_word_underscore_1: jazz
+bip_39_word_underscore_10: jazz_tomorrow_island_bitter_still_victory_clerk_winner_skirt_join
+bip_39_word_underscore_11: jazz_tomorrow_island_bitter_still_victory_clerk_winner_skirt_join_utility
+bip_39_word_underscore_12: jazz_tomorrow_island_bitter_still_victory_clerk_winner_skirt_join_utility_angry
+bip_39_word_underscore_2: jazz_tomorrow
+bip_39_word_underscore_3: jazz_tomorrow_island
+bip_39_word_underscore_4: jazz_tomorrow_island_bitter
+bip_39_word_underscore_5: jazz_tomorrow_island_bitter_still
+bip_39_word_underscore_6: jazz_tomorrow_island_bitter_still_victory
+bip_39_word_underscore_7: jazz_tomorrow_island_bitter_still_victory_clerk
+bip_39_word_underscore_8: jazz_tomorrow_island_bitter_still_victory_clerk_winner
+bip_39_word_underscore_9: jazz_tomorrow_island_bitter_still_victory_clerk_winner_skirt
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

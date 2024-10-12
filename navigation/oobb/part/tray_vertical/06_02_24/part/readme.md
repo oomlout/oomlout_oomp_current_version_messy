@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coral |  
+| bip_39_word_dash_10 | coral-garment-hedgehog-appear-believe-brother-police-pencil-slow-hair |  
+| bip_39_word_dash_11 | coral-garment-hedgehog-appear-believe-brother-police-pencil-slow-hair-crime |  
+| bip_39_word_dash_12 | coral-garment-hedgehog-appear-believe-brother-police-pencil-slow-hair-crime-add |  
+| bip_39_word_dash_2 | coral-garment |  
+| bip_39_word_dash_3 | coral-garment-hedgehog |  
+| bip_39_word_dash_4 | coral-garment-hedgehog-appear |  
+| bip_39_word_dash_5 | coral-garment-hedgehog-appear-believe |  
+| bip_39_word_dash_6 | coral-garment-hedgehog-appear-believe-brother |  
+| bip_39_word_dash_7 | coral-garment-hedgehog-appear-believe-brother-police |  
+| bip_39_word_dash_8 | coral-garment-hedgehog-appear-believe-brother-police-pencil |  
+| bip_39_word_dash_9 | coral-garment-hedgehog-appear-believe-brother-police-pencil-slow |  
 | bip_39_word_new_br_1 | coral |  
 | bip_39_word_new_br_10 | coral<br>garment<br>hedgehog<br>appear<br>believe<br>brother<br>police<br>pencil<br>slow<br>hair |  
 | bip_39_word_new_br_11 | coral<br>garment<br>hedgehog<br>appear<br>believe<br>brother<br>police<br>pencil<br>slow<br>hair<br>crime |  
@@ -147,6 +159,18 @@ slow |
 | bip_39_word_space_7 | coral garment hedgehog appear believe brother police |  
 | bip_39_word_space_8 | coral garment hedgehog appear believe brother police pencil |  
 | bip_39_word_space_9 | coral garment hedgehog appear believe brother police pencil slow |  
+| bip_39_word_underscore_1 | coral |  
+| bip_39_word_underscore_10 | coral_garment_hedgehog_appear_believe_brother_police_pencil_slow_hair |  
+| bip_39_word_underscore_11 | coral_garment_hedgehog_appear_believe_brother_police_pencil_slow_hair_crime |  
+| bip_39_word_underscore_12 | coral_garment_hedgehog_appear_believe_brother_police_pencil_slow_hair_crime_add |  
+| bip_39_word_underscore_2 | coral_garment |  
+| bip_39_word_underscore_3 | coral_garment_hedgehog |  
+| bip_39_word_underscore_4 | coral_garment_hedgehog_appear |  
+| bip_39_word_underscore_5 | coral_garment_hedgehog_appear_believe |  
+| bip_39_word_underscore_6 | coral_garment_hedgehog_appear_believe_brother |  
+| bip_39_word_underscore_7 | coral_garment_hedgehog_appear_believe_brother_police |  
+| bip_39_word_underscore_8 | coral_garment_hedgehog_appear_believe_brother_police_pencil |  
+| bip_39_word_underscore_9 | coral_garment_hedgehog_appear_believe_brother_police_pencil_slow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

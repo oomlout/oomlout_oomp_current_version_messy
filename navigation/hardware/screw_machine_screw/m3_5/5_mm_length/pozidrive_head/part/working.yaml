@@ -1,3 +1,15 @@
+bip_39_word_dash_1: series
+bip_39_word_dash_10: series-wall-loan-define-despair-you-consider-pact-exhibit-heavy
+bip_39_word_dash_11: series-wall-loan-define-despair-you-consider-pact-exhibit-heavy-divide
+bip_39_word_dash_12: series-wall-loan-define-despair-you-consider-pact-exhibit-heavy-divide-accident
+bip_39_word_dash_2: series-wall
+bip_39_word_dash_3: series-wall-loan
+bip_39_word_dash_4: series-wall-loan-define
+bip_39_word_dash_5: series-wall-loan-define-despair
+bip_39_word_dash_6: series-wall-loan-define-despair-you
+bip_39_word_dash_7: series-wall-loan-define-despair-you-consider
+bip_39_word_dash_8: series-wall-loan-define-despair-you-consider-pact
+bip_39_word_dash_9: series-wall-loan-define-despair-you-consider-pact-exhibit
 bip_39_word_new_br_1: series
 bip_39_word_new_br_10: series<br>wall<br>loan<br>define<br>despair<br>you<br>consider<br>pact<br>exhibit<br>heavy
 bip_39_word_new_br_11: series<br>wall<br>loan<br>define<br>despair<br>you<br>consider<br>pact<br>exhibit<br>heavy<br>divide
@@ -193,6 +205,18 @@ bip_39_word_space_6: series wall loan define despair you
 bip_39_word_space_7: series wall loan define despair you consider
 bip_39_word_space_8: series wall loan define despair you consider pact
 bip_39_word_space_9: series wall loan define despair you consider pact exhibit
+bip_39_word_underscore_1: series
+bip_39_word_underscore_10: series_wall_loan_define_despair_you_consider_pact_exhibit_heavy
+bip_39_word_underscore_11: series_wall_loan_define_despair_you_consider_pact_exhibit_heavy_divide
+bip_39_word_underscore_12: series_wall_loan_define_despair_you_consider_pact_exhibit_heavy_divide_accident
+bip_39_word_underscore_2: series_wall
+bip_39_word_underscore_3: series_wall_loan
+bip_39_word_underscore_4: series_wall_loan_define
+bip_39_word_underscore_5: series_wall_loan_define_despair
+bip_39_word_underscore_6: series_wall_loan_define_despair_you
+bip_39_word_underscore_7: series_wall_loan_define_despair_you_consider
+bip_39_word_underscore_8: series_wall_loan_define_despair_you_consider_pact
+bip_39_word_underscore_9: series_wall_loan_define_despair_you_consider_pact_exhibit
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

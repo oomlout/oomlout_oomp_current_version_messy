@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bench |  
+| bip_39_word_dash_10 | bench-parade-mouse-image-equal-symbol-weird-slush-swing-diary |  
+| bip_39_word_dash_11 | bench-parade-mouse-image-equal-symbol-weird-slush-swing-diary-perfect |  
+| bip_39_word_dash_12 | bench-parade-mouse-image-equal-symbol-weird-slush-swing-diary-perfect-affair |  
+| bip_39_word_dash_2 | bench-parade |  
+| bip_39_word_dash_3 | bench-parade-mouse |  
+| bip_39_word_dash_4 | bench-parade-mouse-image |  
+| bip_39_word_dash_5 | bench-parade-mouse-image-equal |  
+| bip_39_word_dash_6 | bench-parade-mouse-image-equal-symbol |  
+| bip_39_word_dash_7 | bench-parade-mouse-image-equal-symbol-weird |  
+| bip_39_word_dash_8 | bench-parade-mouse-image-equal-symbol-weird-slush |  
+| bip_39_word_dash_9 | bench-parade-mouse-image-equal-symbol-weird-slush-swing |  
 | bip_39_word_new_br_1 | bench |  
 | bip_39_word_new_br_10 | bench<br>parade<br>mouse<br>image<br>equal<br>symbol<br>weird<br>slush<br>swing<br>diary |  
 | bip_39_word_new_br_11 | bench<br>parade<br>mouse<br>image<br>equal<br>symbol<br>weird<br>slush<br>swing<br>diary<br>perfect |  
@@ -147,6 +159,18 @@ swing |
 | bip_39_word_space_7 | bench parade mouse image equal symbol weird |  
 | bip_39_word_space_8 | bench parade mouse image equal symbol weird slush |  
 | bip_39_word_space_9 | bench parade mouse image equal symbol weird slush swing |  
+| bip_39_word_underscore_1 | bench |  
+| bip_39_word_underscore_10 | bench_parade_mouse_image_equal_symbol_weird_slush_swing_diary |  
+| bip_39_word_underscore_11 | bench_parade_mouse_image_equal_symbol_weird_slush_swing_diary_perfect |  
+| bip_39_word_underscore_12 | bench_parade_mouse_image_equal_symbol_weird_slush_swing_diary_perfect_affair |  
+| bip_39_word_underscore_2 | bench_parade |  
+| bip_39_word_underscore_3 | bench_parade_mouse |  
+| bip_39_word_underscore_4 | bench_parade_mouse_image |  
+| bip_39_word_underscore_5 | bench_parade_mouse_image_equal |  
+| bip_39_word_underscore_6 | bench_parade_mouse_image_equal_symbol |  
+| bip_39_word_underscore_7 | bench_parade_mouse_image_equal_symbol_weird |  
+| bip_39_word_underscore_8 | bench_parade_mouse_image_equal_symbol_weird_slush |  
+| bip_39_word_underscore_9 | bench_parade_mouse_image_equal_symbol_weird_slush_swing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: idle
+bip_39_word_dash_10: idle-digital-tomato-major-canvas-avocado-voyage-mimic-drift-sun
+bip_39_word_dash_11: idle-digital-tomato-major-canvas-avocado-voyage-mimic-drift-sun-fashion
+bip_39_word_dash_12: idle-digital-tomato-major-canvas-avocado-voyage-mimic-drift-sun-fashion-anxiety
+bip_39_word_dash_2: idle-digital
+bip_39_word_dash_3: idle-digital-tomato
+bip_39_word_dash_4: idle-digital-tomato-major
+bip_39_word_dash_5: idle-digital-tomato-major-canvas
+bip_39_word_dash_6: idle-digital-tomato-major-canvas-avocado
+bip_39_word_dash_7: idle-digital-tomato-major-canvas-avocado-voyage
+bip_39_word_dash_8: idle-digital-tomato-major-canvas-avocado-voyage-mimic
+bip_39_word_dash_9: idle-digital-tomato-major-canvas-avocado-voyage-mimic-drift
 bip_39_word_new_br_1: idle
 bip_39_word_new_br_10: idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic<br>drift<br>sun
 bip_39_word_new_br_11: idle<br>digital<br>tomato<br>major<br>canvas<br>avocado<br>voyage<br>mimic<br>drift<br>sun<br>fashion
@@ -194,6 +206,18 @@ bip_39_word_space_6: idle digital tomato major canvas avocado
 bip_39_word_space_7: idle digital tomato major canvas avocado voyage
 bip_39_word_space_8: idle digital tomato major canvas avocado voyage mimic
 bip_39_word_space_9: idle digital tomato major canvas avocado voyage mimic drift
+bip_39_word_underscore_1: idle
+bip_39_word_underscore_10: idle_digital_tomato_major_canvas_avocado_voyage_mimic_drift_sun
+bip_39_word_underscore_11: idle_digital_tomato_major_canvas_avocado_voyage_mimic_drift_sun_fashion
+bip_39_word_underscore_12: idle_digital_tomato_major_canvas_avocado_voyage_mimic_drift_sun_fashion_anxiety
+bip_39_word_underscore_2: idle_digital
+bip_39_word_underscore_3: idle_digital_tomato
+bip_39_word_underscore_4: idle_digital_tomato_major
+bip_39_word_underscore_5: idle_digital_tomato_major_canvas
+bip_39_word_underscore_6: idle_digital_tomato_major_canvas_avocado
+bip_39_word_underscore_7: idle_digital_tomato_major_canvas_avocado_voyage
+bip_39_word_underscore_8: idle_digital_tomato_major_canvas_avocado_voyage_mimic
+bip_39_word_underscore_9: idle_digital_tomato_major_canvas_avocado_voyage_mimic_drift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

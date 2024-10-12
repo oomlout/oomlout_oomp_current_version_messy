@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | impact |  
+| bip_39_word_dash_10 | impact-cinnamon-gun-lunar-slim-link-spell-embrace-eyebrow-onion |  
+| bip_39_word_dash_11 | impact-cinnamon-gun-lunar-slim-link-spell-embrace-eyebrow-onion-deliver |  
+| bip_39_word_dash_12 | impact-cinnamon-gun-lunar-slim-link-spell-embrace-eyebrow-onion-deliver-arrange |  
+| bip_39_word_dash_2 | impact-cinnamon |  
+| bip_39_word_dash_3 | impact-cinnamon-gun |  
+| bip_39_word_dash_4 | impact-cinnamon-gun-lunar |  
+| bip_39_word_dash_5 | impact-cinnamon-gun-lunar-slim |  
+| bip_39_word_dash_6 | impact-cinnamon-gun-lunar-slim-link |  
+| bip_39_word_dash_7 | impact-cinnamon-gun-lunar-slim-link-spell |  
+| bip_39_word_dash_8 | impact-cinnamon-gun-lunar-slim-link-spell-embrace |  
+| bip_39_word_dash_9 | impact-cinnamon-gun-lunar-slim-link-spell-embrace-eyebrow |  
 | bip_39_word_new_br_1 | impact |  
 | bip_39_word_new_br_10 | impact<br>cinnamon<br>gun<br>lunar<br>slim<br>link<br>spell<br>embrace<br>eyebrow<br>onion |  
 | bip_39_word_new_br_11 | impact<br>cinnamon<br>gun<br>lunar<br>slim<br>link<br>spell<br>embrace<br>eyebrow<br>onion<br>deliver |  
@@ -147,6 +159,18 @@ eyebrow |
 | bip_39_word_space_7 | impact cinnamon gun lunar slim link spell |  
 | bip_39_word_space_8 | impact cinnamon gun lunar slim link spell embrace |  
 | bip_39_word_space_9 | impact cinnamon gun lunar slim link spell embrace eyebrow |  
+| bip_39_word_underscore_1 | impact |  
+| bip_39_word_underscore_10 | impact_cinnamon_gun_lunar_slim_link_spell_embrace_eyebrow_onion |  
+| bip_39_word_underscore_11 | impact_cinnamon_gun_lunar_slim_link_spell_embrace_eyebrow_onion_deliver |  
+| bip_39_word_underscore_12 | impact_cinnamon_gun_lunar_slim_link_spell_embrace_eyebrow_onion_deliver_arrange |  
+| bip_39_word_underscore_2 | impact_cinnamon |  
+| bip_39_word_underscore_3 | impact_cinnamon_gun |  
+| bip_39_word_underscore_4 | impact_cinnamon_gun_lunar |  
+| bip_39_word_underscore_5 | impact_cinnamon_gun_lunar_slim |  
+| bip_39_word_underscore_6 | impact_cinnamon_gun_lunar_slim_link |  
+| bip_39_word_underscore_7 | impact_cinnamon_gun_lunar_slim_link_spell |  
+| bip_39_word_underscore_8 | impact_cinnamon_gun_lunar_slim_link_spell_embrace |  
+| bip_39_word_underscore_9 | impact_cinnamon_gun_lunar_slim_link_spell_embrace_eyebrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

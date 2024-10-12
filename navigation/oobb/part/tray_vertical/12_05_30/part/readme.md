@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | weasel |  
+| bip_39_word_dash_10 | weasel-carry-pigeon-real-claw-until-mule-organ-sphere-grant |  
+| bip_39_word_dash_11 | weasel-carry-pigeon-real-claw-until-mule-organ-sphere-grant-squirrel |  
+| bip_39_word_dash_12 | weasel-carry-pigeon-real-claw-until-mule-organ-sphere-grant-squirrel-alcohol |  
+| bip_39_word_dash_2 | weasel-carry |  
+| bip_39_word_dash_3 | weasel-carry-pigeon |  
+| bip_39_word_dash_4 | weasel-carry-pigeon-real |  
+| bip_39_word_dash_5 | weasel-carry-pigeon-real-claw |  
+| bip_39_word_dash_6 | weasel-carry-pigeon-real-claw-until |  
+| bip_39_word_dash_7 | weasel-carry-pigeon-real-claw-until-mule |  
+| bip_39_word_dash_8 | weasel-carry-pigeon-real-claw-until-mule-organ |  
+| bip_39_word_dash_9 | weasel-carry-pigeon-real-claw-until-mule-organ-sphere |  
 | bip_39_word_new_br_1 | weasel |  
 | bip_39_word_new_br_10 | weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ<br>sphere<br>grant |  
 | bip_39_word_new_br_11 | weasel<br>carry<br>pigeon<br>real<br>claw<br>until<br>mule<br>organ<br>sphere<br>grant<br>squirrel |  
@@ -147,6 +159,18 @@ sphere |
 | bip_39_word_space_7 | weasel carry pigeon real claw until mule |  
 | bip_39_word_space_8 | weasel carry pigeon real claw until mule organ |  
 | bip_39_word_space_9 | weasel carry pigeon real claw until mule organ sphere |  
+| bip_39_word_underscore_1 | weasel |  
+| bip_39_word_underscore_10 | weasel_carry_pigeon_real_claw_until_mule_organ_sphere_grant |  
+| bip_39_word_underscore_11 | weasel_carry_pigeon_real_claw_until_mule_organ_sphere_grant_squirrel |  
+| bip_39_word_underscore_12 | weasel_carry_pigeon_real_claw_until_mule_organ_sphere_grant_squirrel_alcohol |  
+| bip_39_word_underscore_2 | weasel_carry |  
+| bip_39_word_underscore_3 | weasel_carry_pigeon |  
+| bip_39_word_underscore_4 | weasel_carry_pigeon_real |  
+| bip_39_word_underscore_5 | weasel_carry_pigeon_real_claw |  
+| bip_39_word_underscore_6 | weasel_carry_pigeon_real_claw_until |  
+| bip_39_word_underscore_7 | weasel_carry_pigeon_real_claw_until_mule |  
+| bip_39_word_underscore_8 | weasel_carry_pigeon_real_claw_until_mule_organ |  
+| bip_39_word_underscore_9 | weasel_carry_pigeon_real_claw_until_mule_organ_sphere |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

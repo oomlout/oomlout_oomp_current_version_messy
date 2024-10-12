@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pair |  
+| bip_39_word_dash_10 | pair-top-hard-enroll-culture-oxygen-logic-before-resist-yard |  
+| bip_39_word_dash_11 | pair-top-hard-enroll-culture-oxygen-logic-before-resist-yard-occur |  
+| bip_39_word_dash_12 | pair-top-hard-enroll-culture-oxygen-logic-before-resist-yard-occur-advice |  
+| bip_39_word_dash_2 | pair-top |  
+| bip_39_word_dash_3 | pair-top-hard |  
+| bip_39_word_dash_4 | pair-top-hard-enroll |  
+| bip_39_word_dash_5 | pair-top-hard-enroll-culture |  
+| bip_39_word_dash_6 | pair-top-hard-enroll-culture-oxygen |  
+| bip_39_word_dash_7 | pair-top-hard-enroll-culture-oxygen-logic |  
+| bip_39_word_dash_8 | pair-top-hard-enroll-culture-oxygen-logic-before |  
+| bip_39_word_dash_9 | pair-top-hard-enroll-culture-oxygen-logic-before-resist |  
 | bip_39_word_new_br_1 | pair |  
 | bip_39_word_new_br_10 | pair<br>top<br>hard<br>enroll<br>culture<br>oxygen<br>logic<br>before<br>resist<br>yard |  
 | bip_39_word_new_br_11 | pair<br>top<br>hard<br>enroll<br>culture<br>oxygen<br>logic<br>before<br>resist<br>yard<br>occur |  
@@ -147,6 +159,18 @@ resist |
 | bip_39_word_space_7 | pair top hard enroll culture oxygen logic |  
 | bip_39_word_space_8 | pair top hard enroll culture oxygen logic before |  
 | bip_39_word_space_9 | pair top hard enroll culture oxygen logic before resist |  
+| bip_39_word_underscore_1 | pair |  
+| bip_39_word_underscore_10 | pair_top_hard_enroll_culture_oxygen_logic_before_resist_yard |  
+| bip_39_word_underscore_11 | pair_top_hard_enroll_culture_oxygen_logic_before_resist_yard_occur |  
+| bip_39_word_underscore_12 | pair_top_hard_enroll_culture_oxygen_logic_before_resist_yard_occur_advice |  
+| bip_39_word_underscore_2 | pair_top |  
+| bip_39_word_underscore_3 | pair_top_hard |  
+| bip_39_word_underscore_4 | pair_top_hard_enroll |  
+| bip_39_word_underscore_5 | pair_top_hard_enroll_culture |  
+| bip_39_word_underscore_6 | pair_top_hard_enroll_culture_oxygen |  
+| bip_39_word_underscore_7 | pair_top_hard_enroll_culture_oxygen_logic |  
+| bip_39_word_underscore_8 | pair_top_hard_enroll_culture_oxygen_logic_before |  
+| bip_39_word_underscore_9 | pair_top_hard_enroll_culture_oxygen_logic_before_resist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

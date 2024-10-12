@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mask |  
+| bip_39_word_dash_10 | mask-time-supreme-dress-vanish-hungry-thunder-gallery-similar-game |  
+| bip_39_word_dash_11 | mask-time-supreme-dress-vanish-hungry-thunder-gallery-similar-game-night |  
+| bip_39_word_dash_12 | mask-time-supreme-dress-vanish-hungry-thunder-gallery-similar-game-night-accident |  
+| bip_39_word_dash_2 | mask-time |  
+| bip_39_word_dash_3 | mask-time-supreme |  
+| bip_39_word_dash_4 | mask-time-supreme-dress |  
+| bip_39_word_dash_5 | mask-time-supreme-dress-vanish |  
+| bip_39_word_dash_6 | mask-time-supreme-dress-vanish-hungry |  
+| bip_39_word_dash_7 | mask-time-supreme-dress-vanish-hungry-thunder |  
+| bip_39_word_dash_8 | mask-time-supreme-dress-vanish-hungry-thunder-gallery |  
+| bip_39_word_dash_9 | mask-time-supreme-dress-vanish-hungry-thunder-gallery-similar |  
 | bip_39_word_new_br_1 | mask |  
 | bip_39_word_new_br_10 | mask<br>time<br>supreme<br>dress<br>vanish<br>hungry<br>thunder<br>gallery<br>similar<br>game |  
 | bip_39_word_new_br_11 | mask<br>time<br>supreme<br>dress<br>vanish<br>hungry<br>thunder<br>gallery<br>similar<br>game<br>night |  
@@ -147,6 +159,18 @@ similar |
 | bip_39_word_space_7 | mask time supreme dress vanish hungry thunder |  
 | bip_39_word_space_8 | mask time supreme dress vanish hungry thunder gallery |  
 | bip_39_word_space_9 | mask time supreme dress vanish hungry thunder gallery similar |  
+| bip_39_word_underscore_1 | mask |  
+| bip_39_word_underscore_10 | mask_time_supreme_dress_vanish_hungry_thunder_gallery_similar_game |  
+| bip_39_word_underscore_11 | mask_time_supreme_dress_vanish_hungry_thunder_gallery_similar_game_night |  
+| bip_39_word_underscore_12 | mask_time_supreme_dress_vanish_hungry_thunder_gallery_similar_game_night_accident |  
+| bip_39_word_underscore_2 | mask_time |  
+| bip_39_word_underscore_3 | mask_time_supreme |  
+| bip_39_word_underscore_4 | mask_time_supreme_dress |  
+| bip_39_word_underscore_5 | mask_time_supreme_dress_vanish |  
+| bip_39_word_underscore_6 | mask_time_supreme_dress_vanish_hungry |  
+| bip_39_word_underscore_7 | mask_time_supreme_dress_vanish_hungry_thunder |  
+| bip_39_word_underscore_8 | mask_time_supreme_dress_vanish_hungry_thunder_gallery |  
+| bip_39_word_underscore_9 | mask_time_supreme_dress_vanish_hungry_thunder_gallery_similar |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

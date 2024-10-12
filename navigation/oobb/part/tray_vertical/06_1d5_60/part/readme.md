@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | caught |  
+| bip_39_word_dash_10 | caught-economy-venture-seminar-mother-tomato-horn-betray-dynamic-tackle |  
+| bip_39_word_dash_11 | caught-economy-venture-seminar-mother-tomato-horn-betray-dynamic-tackle-perfect |  
+| bip_39_word_dash_12 | caught-economy-venture-seminar-mother-tomato-horn-betray-dynamic-tackle-perfect-again |  
+| bip_39_word_dash_2 | caught-economy |  
+| bip_39_word_dash_3 | caught-economy-venture |  
+| bip_39_word_dash_4 | caught-economy-venture-seminar |  
+| bip_39_word_dash_5 | caught-economy-venture-seminar-mother |  
+| bip_39_word_dash_6 | caught-economy-venture-seminar-mother-tomato |  
+| bip_39_word_dash_7 | caught-economy-venture-seminar-mother-tomato-horn |  
+| bip_39_word_dash_8 | caught-economy-venture-seminar-mother-tomato-horn-betray |  
+| bip_39_word_dash_9 | caught-economy-venture-seminar-mother-tomato-horn-betray-dynamic |  
 | bip_39_word_new_br_1 | caught |  
 | bip_39_word_new_br_10 | caught<br>economy<br>venture<br>seminar<br>mother<br>tomato<br>horn<br>betray<br>dynamic<br>tackle |  
 | bip_39_word_new_br_11 | caught<br>economy<br>venture<br>seminar<br>mother<br>tomato<br>horn<br>betray<br>dynamic<br>tackle<br>perfect |  
@@ -147,6 +159,18 @@ dynamic |
 | bip_39_word_space_7 | caught economy venture seminar mother tomato horn |  
 | bip_39_word_space_8 | caught economy venture seminar mother tomato horn betray |  
 | bip_39_word_space_9 | caught economy venture seminar mother tomato horn betray dynamic |  
+| bip_39_word_underscore_1 | caught |  
+| bip_39_word_underscore_10 | caught_economy_venture_seminar_mother_tomato_horn_betray_dynamic_tackle |  
+| bip_39_word_underscore_11 | caught_economy_venture_seminar_mother_tomato_horn_betray_dynamic_tackle_perfect |  
+| bip_39_word_underscore_12 | caught_economy_venture_seminar_mother_tomato_horn_betray_dynamic_tackle_perfect_again |  
+| bip_39_word_underscore_2 | caught_economy |  
+| bip_39_word_underscore_3 | caught_economy_venture |  
+| bip_39_word_underscore_4 | caught_economy_venture_seminar |  
+| bip_39_word_underscore_5 | caught_economy_venture_seminar_mother |  
+| bip_39_word_underscore_6 | caught_economy_venture_seminar_mother_tomato |  
+| bip_39_word_underscore_7 | caught_economy_venture_seminar_mother_tomato_horn |  
+| bip_39_word_underscore_8 | caught_economy_venture_seminar_mother_tomato_horn_betray |  
+| bip_39_word_underscore_9 | caught_economy_venture_seminar_mother_tomato_horn_betray_dynamic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tell
+bip_39_word_dash_10: tell-behave-retire-tank-become-update-drill-globe-idle-enact
+bip_39_word_dash_11: tell-behave-retire-tank-become-update-drill-globe-idle-enact-dawn
+bip_39_word_dash_12: tell-behave-retire-tank-become-update-drill-globe-idle-enact-dawn-athlete
+bip_39_word_dash_2: tell-behave
+bip_39_word_dash_3: tell-behave-retire
+bip_39_word_dash_4: tell-behave-retire-tank
+bip_39_word_dash_5: tell-behave-retire-tank-become
+bip_39_word_dash_6: tell-behave-retire-tank-become-update
+bip_39_word_dash_7: tell-behave-retire-tank-become-update-drill
+bip_39_word_dash_8: tell-behave-retire-tank-become-update-drill-globe
+bip_39_word_dash_9: tell-behave-retire-tank-become-update-drill-globe-idle
 bip_39_word_new_br_1: tell
 bip_39_word_new_br_10: tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe<br>idle<br>enact
 bip_39_word_new_br_11: tell<br>behave<br>retire<br>tank<br>become<br>update<br>drill<br>globe<br>idle<br>enact<br>dawn
@@ -193,6 +205,18 @@ bip_39_word_space_6: tell behave retire tank become update
 bip_39_word_space_7: tell behave retire tank become update drill
 bip_39_word_space_8: tell behave retire tank become update drill globe
 bip_39_word_space_9: tell behave retire tank become update drill globe idle
+bip_39_word_underscore_1: tell
+bip_39_word_underscore_10: tell_behave_retire_tank_become_update_drill_globe_idle_enact
+bip_39_word_underscore_11: tell_behave_retire_tank_become_update_drill_globe_idle_enact_dawn
+bip_39_word_underscore_12: tell_behave_retire_tank_become_update_drill_globe_idle_enact_dawn_athlete
+bip_39_word_underscore_2: tell_behave
+bip_39_word_underscore_3: tell_behave_retire
+bip_39_word_underscore_4: tell_behave_retire_tank
+bip_39_word_underscore_5: tell_behave_retire_tank_become
+bip_39_word_underscore_6: tell_behave_retire_tank_become_update
+bip_39_word_underscore_7: tell_behave_retire_tank_become_update_drill
+bip_39_word_underscore_8: tell_behave_retire_tank_become_update_drill_globe
+bip_39_word_underscore_9: tell_behave_retire_tank_become_update_drill_globe_idle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

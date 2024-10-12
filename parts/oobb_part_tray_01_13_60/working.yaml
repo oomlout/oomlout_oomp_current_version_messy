@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pulp
+bip_39_word_dash_10: pulp-casual-sense-hundred-gossip-banana-earth-carpet-soup-leave
+bip_39_word_dash_11: pulp-casual-sense-hundred-gossip-banana-earth-carpet-soup-leave-speak
+bip_39_word_dash_12: pulp-casual-sense-hundred-gossip-banana-earth-carpet-soup-leave-speak-apart
+bip_39_word_dash_2: pulp-casual
+bip_39_word_dash_3: pulp-casual-sense
+bip_39_word_dash_4: pulp-casual-sense-hundred
+bip_39_word_dash_5: pulp-casual-sense-hundred-gossip
+bip_39_word_dash_6: pulp-casual-sense-hundred-gossip-banana
+bip_39_word_dash_7: pulp-casual-sense-hundred-gossip-banana-earth
+bip_39_word_dash_8: pulp-casual-sense-hundred-gossip-banana-earth-carpet
+bip_39_word_dash_9: pulp-casual-sense-hundred-gossip-banana-earth-carpet-soup
 bip_39_word_new_br_1: pulp
 bip_39_word_new_br_10: pulp<br>casual<br>sense<br>hundred<br>gossip<br>banana<br>earth<br>carpet<br>soup<br>leave
 bip_39_word_new_br_11: pulp<br>casual<br>sense<br>hundred<br>gossip<br>banana<br>earth<br>carpet<br>soup<br>leave<br>speak
@@ -193,6 +205,18 @@ bip_39_word_space_6: pulp casual sense hundred gossip banana
 bip_39_word_space_7: pulp casual sense hundred gossip banana earth
 bip_39_word_space_8: pulp casual sense hundred gossip banana earth carpet
 bip_39_word_space_9: pulp casual sense hundred gossip banana earth carpet soup
+bip_39_word_underscore_1: pulp
+bip_39_word_underscore_10: pulp_casual_sense_hundred_gossip_banana_earth_carpet_soup_leave
+bip_39_word_underscore_11: pulp_casual_sense_hundred_gossip_banana_earth_carpet_soup_leave_speak
+bip_39_word_underscore_12: pulp_casual_sense_hundred_gossip_banana_earth_carpet_soup_leave_speak_apart
+bip_39_word_underscore_2: pulp_casual
+bip_39_word_underscore_3: pulp_casual_sense
+bip_39_word_underscore_4: pulp_casual_sense_hundred
+bip_39_word_underscore_5: pulp_casual_sense_hundred_gossip
+bip_39_word_underscore_6: pulp_casual_sense_hundred_gossip_banana
+bip_39_word_underscore_7: pulp_casual_sense_hundred_gossip_banana_earth
+bip_39_word_underscore_8: pulp_casual_sense_hundred_gossip_banana_earth_carpet
+bip_39_word_underscore_9: pulp_casual_sense_hundred_gossip_banana_earth_carpet_soup
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | faculty |  
+| bip_39_word_dash_10 | faculty-rude-pulse-flame-cube-swarm-grant-slice-gift-defense |  
+| bip_39_word_dash_11 | faculty-rude-pulse-flame-cube-swarm-grant-slice-gift-defense-few |  
+| bip_39_word_dash_12 | faculty-rude-pulse-flame-cube-swarm-grant-slice-gift-defense-few-among |  
+| bip_39_word_dash_2 | faculty-rude |  
+| bip_39_word_dash_3 | faculty-rude-pulse |  
+| bip_39_word_dash_4 | faculty-rude-pulse-flame |  
+| bip_39_word_dash_5 | faculty-rude-pulse-flame-cube |  
+| bip_39_word_dash_6 | faculty-rude-pulse-flame-cube-swarm |  
+| bip_39_word_dash_7 | faculty-rude-pulse-flame-cube-swarm-grant |  
+| bip_39_word_dash_8 | faculty-rude-pulse-flame-cube-swarm-grant-slice |  
+| bip_39_word_dash_9 | faculty-rude-pulse-flame-cube-swarm-grant-slice-gift |  
 | bip_39_word_new_br_1 | faculty |  
 | bip_39_word_new_br_10 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice<br>gift<br>defense |  
 | bip_39_word_new_br_11 | faculty<br>rude<br>pulse<br>flame<br>cube<br>swarm<br>grant<br>slice<br>gift<br>defense<br>few |  
@@ -147,6 +159,18 @@ gift |
 | bip_39_word_space_7 | faculty rude pulse flame cube swarm grant |  
 | bip_39_word_space_8 | faculty rude pulse flame cube swarm grant slice |  
 | bip_39_word_space_9 | faculty rude pulse flame cube swarm grant slice gift |  
+| bip_39_word_underscore_1 | faculty |  
+| bip_39_word_underscore_10 | faculty_rude_pulse_flame_cube_swarm_grant_slice_gift_defense |  
+| bip_39_word_underscore_11 | faculty_rude_pulse_flame_cube_swarm_grant_slice_gift_defense_few |  
+| bip_39_word_underscore_12 | faculty_rude_pulse_flame_cube_swarm_grant_slice_gift_defense_few_among |  
+| bip_39_word_underscore_2 | faculty_rude |  
+| bip_39_word_underscore_3 | faculty_rude_pulse |  
+| bip_39_word_underscore_4 | faculty_rude_pulse_flame |  
+| bip_39_word_underscore_5 | faculty_rude_pulse_flame_cube |  
+| bip_39_word_underscore_6 | faculty_rude_pulse_flame_cube_swarm |  
+| bip_39_word_underscore_7 | faculty_rude_pulse_flame_cube_swarm_grant |  
+| bip_39_word_underscore_8 | faculty_rude_pulse_flame_cube_swarm_grant_slice |  
+| bip_39_word_underscore_9 | faculty_rude_pulse_flame_cube_swarm_grant_slice_gift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

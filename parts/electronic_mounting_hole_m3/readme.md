@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tooth |  
+| bip_39_word_dash_10 | tooth-post-recall-various-asthma-security-glance-nest-turn-always |  
+| bip_39_word_dash_11 | tooth-post-recall-various-asthma-security-glance-nest-turn-always-nurse |  
+| bip_39_word_dash_12 | tooth-post-recall-various-asthma-security-glance-nest-turn-always-nurse-anchor |  
+| bip_39_word_dash_2 | tooth-post |  
+| bip_39_word_dash_3 | tooth-post-recall |  
+| bip_39_word_dash_4 | tooth-post-recall-various |  
+| bip_39_word_dash_5 | tooth-post-recall-various-asthma |  
+| bip_39_word_dash_6 | tooth-post-recall-various-asthma-security |  
+| bip_39_word_dash_7 | tooth-post-recall-various-asthma-security-glance |  
+| bip_39_word_dash_8 | tooth-post-recall-various-asthma-security-glance-nest |  
+| bip_39_word_dash_9 | tooth-post-recall-various-asthma-security-glance-nest-turn |  
 | bip_39_word_new_br_1 | tooth |  
 | bip_39_word_new_br_10 | tooth<br>post<br>recall<br>various<br>asthma<br>security<br>glance<br>nest<br>turn<br>always |  
 | bip_39_word_new_br_11 | tooth<br>post<br>recall<br>various<br>asthma<br>security<br>glance<br>nest<br>turn<br>always<br>nurse |  
@@ -147,6 +159,18 @@ turn |
 | bip_39_word_space_7 | tooth post recall various asthma security glance |  
 | bip_39_word_space_8 | tooth post recall various asthma security glance nest |  
 | bip_39_word_space_9 | tooth post recall various asthma security glance nest turn |  
+| bip_39_word_underscore_1 | tooth |  
+| bip_39_word_underscore_10 | tooth_post_recall_various_asthma_security_glance_nest_turn_always |  
+| bip_39_word_underscore_11 | tooth_post_recall_various_asthma_security_glance_nest_turn_always_nurse |  
+| bip_39_word_underscore_12 | tooth_post_recall_various_asthma_security_glance_nest_turn_always_nurse_anchor |  
+| bip_39_word_underscore_2 | tooth_post |  
+| bip_39_word_underscore_3 | tooth_post_recall |  
+| bip_39_word_underscore_4 | tooth_post_recall_various |  
+| bip_39_word_underscore_5 | tooth_post_recall_various_asthma |  
+| bip_39_word_underscore_6 | tooth_post_recall_various_asthma_security |  
+| bip_39_word_underscore_7 | tooth_post_recall_various_asthma_security_glance |  
+| bip_39_word_underscore_8 | tooth_post_recall_various_asthma_security_glance_nest |  
+| bip_39_word_underscore_9 | tooth_post_recall_various_asthma_security_glance_nest_turn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

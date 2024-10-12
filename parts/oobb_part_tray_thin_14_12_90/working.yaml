@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bulb
+bip_39_word_dash_10: bulb-medal-crush-scrap-hockey-shrug-forum-congress-forget-crater
+bip_39_word_dash_11: bulb-medal-crush-scrap-hockey-shrug-forum-congress-forget-crater-program
+bip_39_word_dash_12: bulb-medal-crush-scrap-hockey-shrug-forum-congress-forget-crater-program-almost
+bip_39_word_dash_2: bulb-medal
+bip_39_word_dash_3: bulb-medal-crush
+bip_39_word_dash_4: bulb-medal-crush-scrap
+bip_39_word_dash_5: bulb-medal-crush-scrap-hockey
+bip_39_word_dash_6: bulb-medal-crush-scrap-hockey-shrug
+bip_39_word_dash_7: bulb-medal-crush-scrap-hockey-shrug-forum
+bip_39_word_dash_8: bulb-medal-crush-scrap-hockey-shrug-forum-congress
+bip_39_word_dash_9: bulb-medal-crush-scrap-hockey-shrug-forum-congress-forget
 bip_39_word_new_br_1: bulb
 bip_39_word_new_br_10: bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater
 bip_39_word_new_br_11: bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater<br>program
@@ -193,6 +205,18 @@ bip_39_word_space_6: bulb medal crush scrap hockey shrug
 bip_39_word_space_7: bulb medal crush scrap hockey shrug forum
 bip_39_word_space_8: bulb medal crush scrap hockey shrug forum congress
 bip_39_word_space_9: bulb medal crush scrap hockey shrug forum congress forget
+bip_39_word_underscore_1: bulb
+bip_39_word_underscore_10: bulb_medal_crush_scrap_hockey_shrug_forum_congress_forget_crater
+bip_39_word_underscore_11: bulb_medal_crush_scrap_hockey_shrug_forum_congress_forget_crater_program
+bip_39_word_underscore_12: bulb_medal_crush_scrap_hockey_shrug_forum_congress_forget_crater_program_almost
+bip_39_word_underscore_2: bulb_medal
+bip_39_word_underscore_3: bulb_medal_crush
+bip_39_word_underscore_4: bulb_medal_crush_scrap
+bip_39_word_underscore_5: bulb_medal_crush_scrap_hockey
+bip_39_word_underscore_6: bulb_medal_crush_scrap_hockey_shrug
+bip_39_word_underscore_7: bulb_medal_crush_scrap_hockey_shrug_forum
+bip_39_word_underscore_8: bulb_medal_crush_scrap_hockey_shrug_forum_congress
+bip_39_word_underscore_9: bulb_medal_crush_scrap_hockey_shrug_forum_congress_forget
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

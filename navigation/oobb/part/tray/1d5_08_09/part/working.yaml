@@ -1,3 +1,15 @@
+bip_39_word_dash_1: letter
+bip_39_word_dash_10: letter-spirit-gold-cook-cupboard-cabin-rug-destroy-battle-inform
+bip_39_word_dash_11: letter-spirit-gold-cook-cupboard-cabin-rug-destroy-battle-inform-loyal
+bip_39_word_dash_12: letter-spirit-gold-cook-cupboard-cabin-rug-destroy-battle-inform-loyal-achieve
+bip_39_word_dash_2: letter-spirit
+bip_39_word_dash_3: letter-spirit-gold
+bip_39_word_dash_4: letter-spirit-gold-cook
+bip_39_word_dash_5: letter-spirit-gold-cook-cupboard
+bip_39_word_dash_6: letter-spirit-gold-cook-cupboard-cabin
+bip_39_word_dash_7: letter-spirit-gold-cook-cupboard-cabin-rug
+bip_39_word_dash_8: letter-spirit-gold-cook-cupboard-cabin-rug-destroy
+bip_39_word_dash_9: letter-spirit-gold-cook-cupboard-cabin-rug-destroy-battle
 bip_39_word_new_br_1: letter
 bip_39_word_new_br_10: letter<br>spirit<br>gold<br>cook<br>cupboard<br>cabin<br>rug<br>destroy<br>battle<br>inform
 bip_39_word_new_br_11: letter<br>spirit<br>gold<br>cook<br>cupboard<br>cabin<br>rug<br>destroy<br>battle<br>inform<br>loyal
@@ -193,6 +205,18 @@ bip_39_word_space_6: letter spirit gold cook cupboard cabin
 bip_39_word_space_7: letter spirit gold cook cupboard cabin rug
 bip_39_word_space_8: letter spirit gold cook cupboard cabin rug destroy
 bip_39_word_space_9: letter spirit gold cook cupboard cabin rug destroy battle
+bip_39_word_underscore_1: letter
+bip_39_word_underscore_10: letter_spirit_gold_cook_cupboard_cabin_rug_destroy_battle_inform
+bip_39_word_underscore_11: letter_spirit_gold_cook_cupboard_cabin_rug_destroy_battle_inform_loyal
+bip_39_word_underscore_12: letter_spirit_gold_cook_cupboard_cabin_rug_destroy_battle_inform_loyal_achieve
+bip_39_word_underscore_2: letter_spirit
+bip_39_word_underscore_3: letter_spirit_gold
+bip_39_word_underscore_4: letter_spirit_gold_cook
+bip_39_word_underscore_5: letter_spirit_gold_cook_cupboard
+bip_39_word_underscore_6: letter_spirit_gold_cook_cupboard_cabin
+bip_39_word_underscore_7: letter_spirit_gold_cook_cupboard_cabin_rug
+bip_39_word_underscore_8: letter_spirit_gold_cook_cupboard_cabin_rug_destroy
+bip_39_word_underscore_9: letter_spirit_gold_cook_cupboard_cabin_rug_destroy_battle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

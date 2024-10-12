@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | face |  
+| bip_39_word_dash_10 | face-shine-clump-flee-volume-reason-trash-rotate-merry-camp |  
+| bip_39_word_dash_11 | face-shine-clump-flee-volume-reason-trash-rotate-merry-camp-omit |  
+| bip_39_word_dash_12 | face-shine-clump-flee-volume-reason-trash-rotate-merry-camp-omit-aspect |  
+| bip_39_word_dash_2 | face-shine |  
+| bip_39_word_dash_3 | face-shine-clump |  
+| bip_39_word_dash_4 | face-shine-clump-flee |  
+| bip_39_word_dash_5 | face-shine-clump-flee-volume |  
+| bip_39_word_dash_6 | face-shine-clump-flee-volume-reason |  
+| bip_39_word_dash_7 | face-shine-clump-flee-volume-reason-trash |  
+| bip_39_word_dash_8 | face-shine-clump-flee-volume-reason-trash-rotate |  
+| bip_39_word_dash_9 | face-shine-clump-flee-volume-reason-trash-rotate-merry |  
 | bip_39_word_new_br_1 | face |  
 | bip_39_word_new_br_10 | face<br>shine<br>clump<br>flee<br>volume<br>reason<br>trash<br>rotate<br>merry<br>camp |  
 | bip_39_word_new_br_11 | face<br>shine<br>clump<br>flee<br>volume<br>reason<br>trash<br>rotate<br>merry<br>camp<br>omit |  
@@ -147,6 +159,18 @@ merry |
 | bip_39_word_space_7 | face shine clump flee volume reason trash |  
 | bip_39_word_space_8 | face shine clump flee volume reason trash rotate |  
 | bip_39_word_space_9 | face shine clump flee volume reason trash rotate merry |  
+| bip_39_word_underscore_1 | face |  
+| bip_39_word_underscore_10 | face_shine_clump_flee_volume_reason_trash_rotate_merry_camp |  
+| bip_39_word_underscore_11 | face_shine_clump_flee_volume_reason_trash_rotate_merry_camp_omit |  
+| bip_39_word_underscore_12 | face_shine_clump_flee_volume_reason_trash_rotate_merry_camp_omit_aspect |  
+| bip_39_word_underscore_2 | face_shine |  
+| bip_39_word_underscore_3 | face_shine_clump |  
+| bip_39_word_underscore_4 | face_shine_clump_flee |  
+| bip_39_word_underscore_5 | face_shine_clump_flee_volume |  
+| bip_39_word_underscore_6 | face_shine_clump_flee_volume_reason |  
+| bip_39_word_underscore_7 | face_shine_clump_flee_volume_reason_trash |  
+| bip_39_word_underscore_8 | face_shine_clump_flee_volume_reason_trash_rotate |  
+| bip_39_word_underscore_9 | face_shine_clump_flee_volume_reason_trash_rotate_merry |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

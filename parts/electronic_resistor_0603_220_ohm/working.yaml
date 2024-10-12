@@ -1,3 +1,15 @@
+bip_39_word_dash_1: charge
+bip_39_word_dash_10: charge-jelly-injury-army-dragon-air-turkey-author-like-awesome
+bip_39_word_dash_11: charge-jelly-injury-army-dragon-air-turkey-author-like-awesome-video
+bip_39_word_dash_12: charge-jelly-injury-army-dragon-air-turkey-author-like-awesome-video-abstract
+bip_39_word_dash_2: charge-jelly
+bip_39_word_dash_3: charge-jelly-injury
+bip_39_word_dash_4: charge-jelly-injury-army
+bip_39_word_dash_5: charge-jelly-injury-army-dragon
+bip_39_word_dash_6: charge-jelly-injury-army-dragon-air
+bip_39_word_dash_7: charge-jelly-injury-army-dragon-air-turkey
+bip_39_word_dash_8: charge-jelly-injury-army-dragon-air-turkey-author
+bip_39_word_dash_9: charge-jelly-injury-army-dragon-air-turkey-author-like
 bip_39_word_new_br_1: charge
 bip_39_word_new_br_10: charge<br>jelly<br>injury<br>army<br>dragon<br>air<br>turkey<br>author<br>like<br>awesome
 bip_39_word_new_br_11: charge<br>jelly<br>injury<br>army<br>dragon<br>air<br>turkey<br>author<br>like<br>awesome<br>video
@@ -193,6 +205,18 @@ bip_39_word_space_6: charge jelly injury army dragon air
 bip_39_word_space_7: charge jelly injury army dragon air turkey
 bip_39_word_space_8: charge jelly injury army dragon air turkey author
 bip_39_word_space_9: charge jelly injury army dragon air turkey author like
+bip_39_word_underscore_1: charge
+bip_39_word_underscore_10: charge_jelly_injury_army_dragon_air_turkey_author_like_awesome
+bip_39_word_underscore_11: charge_jelly_injury_army_dragon_air_turkey_author_like_awesome_video
+bip_39_word_underscore_12: charge_jelly_injury_army_dragon_air_turkey_author_like_awesome_video_abstract
+bip_39_word_underscore_2: charge_jelly
+bip_39_word_underscore_3: charge_jelly_injury
+bip_39_word_underscore_4: charge_jelly_injury_army
+bip_39_word_underscore_5: charge_jelly_injury_army_dragon
+bip_39_word_underscore_6: charge_jelly_injury_army_dragon_air
+bip_39_word_underscore_7: charge_jelly_injury_army_dragon_air_turkey
+bip_39_word_underscore_8: charge_jelly_injury_army_dragon_air_turkey_author
+bip_39_word_underscore_9: charge_jelly_injury_army_dragon_air_turkey_author_like
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

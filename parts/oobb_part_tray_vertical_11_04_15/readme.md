@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | great |  
+| bip_39_word_dash_10 | great-thing-exact-soda-mouse-rapid-curtain-melt-tooth-urge |  
+| bip_39_word_dash_11 | great-thing-exact-soda-mouse-rapid-curtain-melt-tooth-urge-about |  
+| bip_39_word_dash_12 | great-thing-exact-soda-mouse-rapid-curtain-melt-tooth-urge-about-actress |  
+| bip_39_word_dash_2 | great-thing |  
+| bip_39_word_dash_3 | great-thing-exact |  
+| bip_39_word_dash_4 | great-thing-exact-soda |  
+| bip_39_word_dash_5 | great-thing-exact-soda-mouse |  
+| bip_39_word_dash_6 | great-thing-exact-soda-mouse-rapid |  
+| bip_39_word_dash_7 | great-thing-exact-soda-mouse-rapid-curtain |  
+| bip_39_word_dash_8 | great-thing-exact-soda-mouse-rapid-curtain-melt |  
+| bip_39_word_dash_9 | great-thing-exact-soda-mouse-rapid-curtain-melt-tooth |  
 | bip_39_word_new_br_1 | great |  
 | bip_39_word_new_br_10 | great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt<br>tooth<br>urge |  
 | bip_39_word_new_br_11 | great<br>thing<br>exact<br>soda<br>mouse<br>rapid<br>curtain<br>melt<br>tooth<br>urge<br>about |  
@@ -147,6 +159,18 @@ tooth |
 | bip_39_word_space_7 | great thing exact soda mouse rapid curtain |  
 | bip_39_word_space_8 | great thing exact soda mouse rapid curtain melt |  
 | bip_39_word_space_9 | great thing exact soda mouse rapid curtain melt tooth |  
+| bip_39_word_underscore_1 | great |  
+| bip_39_word_underscore_10 | great_thing_exact_soda_mouse_rapid_curtain_melt_tooth_urge |  
+| bip_39_word_underscore_11 | great_thing_exact_soda_mouse_rapid_curtain_melt_tooth_urge_about |  
+| bip_39_word_underscore_12 | great_thing_exact_soda_mouse_rapid_curtain_melt_tooth_urge_about_actress |  
+| bip_39_word_underscore_2 | great_thing |  
+| bip_39_word_underscore_3 | great_thing_exact |  
+| bip_39_word_underscore_4 | great_thing_exact_soda |  
+| bip_39_word_underscore_5 | great_thing_exact_soda_mouse |  
+| bip_39_word_underscore_6 | great_thing_exact_soda_mouse_rapid |  
+| bip_39_word_underscore_7 | great_thing_exact_soda_mouse_rapid_curtain |  
+| bip_39_word_underscore_8 | great_thing_exact_soda_mouse_rapid_curtain_melt |  
+| bip_39_word_underscore_9 | great_thing_exact_soda_mouse_rapid_curtain_melt_tooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

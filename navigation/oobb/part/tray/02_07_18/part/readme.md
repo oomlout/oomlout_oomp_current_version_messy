@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tired |  
+| bip_39_word_dash_10 | tired-ramp-security-consider-tumble-royal-fatal-shaft-toss-autumn |  
+| bip_39_word_dash_11 | tired-ramp-security-consider-tumble-royal-fatal-shaft-toss-autumn-nest |  
+| bip_39_word_dash_12 | tired-ramp-security-consider-tumble-royal-fatal-shaft-toss-autumn-nest-appear |  
+| bip_39_word_dash_2 | tired-ramp |  
+| bip_39_word_dash_3 | tired-ramp-security |  
+| bip_39_word_dash_4 | tired-ramp-security-consider |  
+| bip_39_word_dash_5 | tired-ramp-security-consider-tumble |  
+| bip_39_word_dash_6 | tired-ramp-security-consider-tumble-royal |  
+| bip_39_word_dash_7 | tired-ramp-security-consider-tumble-royal-fatal |  
+| bip_39_word_dash_8 | tired-ramp-security-consider-tumble-royal-fatal-shaft |  
+| bip_39_word_dash_9 | tired-ramp-security-consider-tumble-royal-fatal-shaft-toss |  
 | bip_39_word_new_br_1 | tired |  
 | bip_39_word_new_br_10 | tired<br>ramp<br>security<br>consider<br>tumble<br>royal<br>fatal<br>shaft<br>toss<br>autumn |  
 | bip_39_word_new_br_11 | tired<br>ramp<br>security<br>consider<br>tumble<br>royal<br>fatal<br>shaft<br>toss<br>autumn<br>nest |  
@@ -147,6 +159,18 @@ toss |
 | bip_39_word_space_7 | tired ramp security consider tumble royal fatal |  
 | bip_39_word_space_8 | tired ramp security consider tumble royal fatal shaft |  
 | bip_39_word_space_9 | tired ramp security consider tumble royal fatal shaft toss |  
+| bip_39_word_underscore_1 | tired |  
+| bip_39_word_underscore_10 | tired_ramp_security_consider_tumble_royal_fatal_shaft_toss_autumn |  
+| bip_39_word_underscore_11 | tired_ramp_security_consider_tumble_royal_fatal_shaft_toss_autumn_nest |  
+| bip_39_word_underscore_12 | tired_ramp_security_consider_tumble_royal_fatal_shaft_toss_autumn_nest_appear |  
+| bip_39_word_underscore_2 | tired_ramp |  
+| bip_39_word_underscore_3 | tired_ramp_security |  
+| bip_39_word_underscore_4 | tired_ramp_security_consider |  
+| bip_39_word_underscore_5 | tired_ramp_security_consider_tumble |  
+| bip_39_word_underscore_6 | tired_ramp_security_consider_tumble_royal |  
+| bip_39_word_underscore_7 | tired_ramp_security_consider_tumble_royal_fatal |  
+| bip_39_word_underscore_8 | tired_ramp_security_consider_tumble_royal_fatal_shaft |  
+| bip_39_word_underscore_9 | tired_ramp_security_consider_tumble_royal_fatal_shaft_toss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

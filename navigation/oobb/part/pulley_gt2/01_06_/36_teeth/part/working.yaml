@@ -1,3 +1,15 @@
+bip_39_word_dash_1: duty
+bip_39_word_dash_10: duty-sign-coast-ugly-around-risk-below-fashion-shoot-decline
+bip_39_word_dash_11: duty-sign-coast-ugly-around-risk-below-fashion-shoot-decline-crumble
+bip_39_word_dash_12: duty-sign-coast-ugly-around-risk-below-fashion-shoot-decline-crumble-apart
+bip_39_word_dash_2: duty-sign
+bip_39_word_dash_3: duty-sign-coast
+bip_39_word_dash_4: duty-sign-coast-ugly
+bip_39_word_dash_5: duty-sign-coast-ugly-around
+bip_39_word_dash_6: duty-sign-coast-ugly-around-risk
+bip_39_word_dash_7: duty-sign-coast-ugly-around-risk-below
+bip_39_word_dash_8: duty-sign-coast-ugly-around-risk-below-fashion
+bip_39_word_dash_9: duty-sign-coast-ugly-around-risk-below-fashion-shoot
 bip_39_word_new_br_1: duty
 bip_39_word_new_br_10: duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion<br>shoot<br>decline
 bip_39_word_new_br_11: duty<br>sign<br>coast<br>ugly<br>around<br>risk<br>below<br>fashion<br>shoot<br>decline<br>crumble
@@ -193,6 +205,18 @@ bip_39_word_space_6: duty sign coast ugly around risk
 bip_39_word_space_7: duty sign coast ugly around risk below
 bip_39_word_space_8: duty sign coast ugly around risk below fashion
 bip_39_word_space_9: duty sign coast ugly around risk below fashion shoot
+bip_39_word_underscore_1: duty
+bip_39_word_underscore_10: duty_sign_coast_ugly_around_risk_below_fashion_shoot_decline
+bip_39_word_underscore_11: duty_sign_coast_ugly_around_risk_below_fashion_shoot_decline_crumble
+bip_39_word_underscore_12: duty_sign_coast_ugly_around_risk_below_fashion_shoot_decline_crumble_apart
+bip_39_word_underscore_2: duty_sign
+bip_39_word_underscore_3: duty_sign_coast
+bip_39_word_underscore_4: duty_sign_coast_ugly
+bip_39_word_underscore_5: duty_sign_coast_ugly_around
+bip_39_word_underscore_6: duty_sign_coast_ugly_around_risk
+bip_39_word_underscore_7: duty_sign_coast_ugly_around_risk_below
+bip_39_word_underscore_8: duty_sign_coast_ugly_around_risk_below_fashion
+bip_39_word_underscore_9: duty_sign_coast_ugly_around_risk_below_fashion_shoot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | check |  
+| bip_39_word_dash_10 | check-oyster-rare-tonight-wreck-empty-enable-cushion-hole-know |  
+| bip_39_word_dash_11 | check-oyster-rare-tonight-wreck-empty-enable-cushion-hole-know-sort |  
+| bip_39_word_dash_12 | check-oyster-rare-tonight-wreck-empty-enable-cushion-hole-know-sort-alien |  
+| bip_39_word_dash_2 | check-oyster |  
+| bip_39_word_dash_3 | check-oyster-rare |  
+| bip_39_word_dash_4 | check-oyster-rare-tonight |  
+| bip_39_word_dash_5 | check-oyster-rare-tonight-wreck |  
+| bip_39_word_dash_6 | check-oyster-rare-tonight-wreck-empty |  
+| bip_39_word_dash_7 | check-oyster-rare-tonight-wreck-empty-enable |  
+| bip_39_word_dash_8 | check-oyster-rare-tonight-wreck-empty-enable-cushion |  
+| bip_39_word_dash_9 | check-oyster-rare-tonight-wreck-empty-enable-cushion-hole |  
 | bip_39_word_new_br_1 | check |  
 | bip_39_word_new_br_10 | check<br>oyster<br>rare<br>tonight<br>wreck<br>empty<br>enable<br>cushion<br>hole<br>know |  
 | bip_39_word_new_br_11 | check<br>oyster<br>rare<br>tonight<br>wreck<br>empty<br>enable<br>cushion<br>hole<br>know<br>sort |  
@@ -147,6 +159,18 @@ hole |
 | bip_39_word_space_7 | check oyster rare tonight wreck empty enable |  
 | bip_39_word_space_8 | check oyster rare tonight wreck empty enable cushion |  
 | bip_39_word_space_9 | check oyster rare tonight wreck empty enable cushion hole |  
+| bip_39_word_underscore_1 | check |  
+| bip_39_word_underscore_10 | check_oyster_rare_tonight_wreck_empty_enable_cushion_hole_know |  
+| bip_39_word_underscore_11 | check_oyster_rare_tonight_wreck_empty_enable_cushion_hole_know_sort |  
+| bip_39_word_underscore_12 | check_oyster_rare_tonight_wreck_empty_enable_cushion_hole_know_sort_alien |  
+| bip_39_word_underscore_2 | check_oyster |  
+| bip_39_word_underscore_3 | check_oyster_rare |  
+| bip_39_word_underscore_4 | check_oyster_rare_tonight |  
+| bip_39_word_underscore_5 | check_oyster_rare_tonight_wreck |  
+| bip_39_word_underscore_6 | check_oyster_rare_tonight_wreck_empty |  
+| bip_39_word_underscore_7 | check_oyster_rare_tonight_wreck_empty_enable |  
+| bip_39_word_underscore_8 | check_oyster_rare_tonight_wreck_empty_enable_cushion |  
+| bip_39_word_underscore_9 | check_oyster_rare_tonight_wreck_empty_enable_cushion_hole |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

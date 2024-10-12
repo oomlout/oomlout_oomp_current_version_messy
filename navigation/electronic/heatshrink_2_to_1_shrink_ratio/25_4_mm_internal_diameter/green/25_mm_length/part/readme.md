@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | just |  
+| bip_39_word_dash_10 | just-divorce-jeans-useless-sauce-term-motion-resist-maze-chimney |  
+| bip_39_word_dash_11 | just-divorce-jeans-useless-sauce-term-motion-resist-maze-chimney-own |  
+| bip_39_word_dash_12 | just-divorce-jeans-useless-sauce-term-motion-resist-maze-chimney-own-address |  
+| bip_39_word_dash_2 | just-divorce |  
+| bip_39_word_dash_3 | just-divorce-jeans |  
+| bip_39_word_dash_4 | just-divorce-jeans-useless |  
+| bip_39_word_dash_5 | just-divorce-jeans-useless-sauce |  
+| bip_39_word_dash_6 | just-divorce-jeans-useless-sauce-term |  
+| bip_39_word_dash_7 | just-divorce-jeans-useless-sauce-term-motion |  
+| bip_39_word_dash_8 | just-divorce-jeans-useless-sauce-term-motion-resist |  
+| bip_39_word_dash_9 | just-divorce-jeans-useless-sauce-term-motion-resist-maze |  
 | bip_39_word_new_br_1 | just |  
 | bip_39_word_new_br_10 | just<br>divorce<br>jeans<br>useless<br>sauce<br>term<br>motion<br>resist<br>maze<br>chimney |  
 | bip_39_word_new_br_11 | just<br>divorce<br>jeans<br>useless<br>sauce<br>term<br>motion<br>resist<br>maze<br>chimney<br>own |  
@@ -147,6 +159,18 @@ maze |
 | bip_39_word_space_7 | just divorce jeans useless sauce term motion |  
 | bip_39_word_space_8 | just divorce jeans useless sauce term motion resist |  
 | bip_39_word_space_9 | just divorce jeans useless sauce term motion resist maze |  
+| bip_39_word_underscore_1 | just |  
+| bip_39_word_underscore_10 | just_divorce_jeans_useless_sauce_term_motion_resist_maze_chimney |  
+| bip_39_word_underscore_11 | just_divorce_jeans_useless_sauce_term_motion_resist_maze_chimney_own |  
+| bip_39_word_underscore_12 | just_divorce_jeans_useless_sauce_term_motion_resist_maze_chimney_own_address |  
+| bip_39_word_underscore_2 | just_divorce |  
+| bip_39_word_underscore_3 | just_divorce_jeans |  
+| bip_39_word_underscore_4 | just_divorce_jeans_useless |  
+| bip_39_word_underscore_5 | just_divorce_jeans_useless_sauce |  
+| bip_39_word_underscore_6 | just_divorce_jeans_useless_sauce_term |  
+| bip_39_word_underscore_7 | just_divorce_jeans_useless_sauce_term_motion |  
+| bip_39_word_underscore_8 | just_divorce_jeans_useless_sauce_term_motion_resist |  
+| bip_39_word_underscore_9 | just_divorce_jeans_useless_sauce_term_motion_resist_maze |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

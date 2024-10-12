@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | raccoon |  
+| bip_39_word_dash_10 | raccoon-step-spice-use-link-crystal-return-small-actual-recall |  
+| bip_39_word_dash_11 | raccoon-step-spice-use-link-crystal-return-small-actual-recall-undo |  
+| bip_39_word_dash_12 | raccoon-step-spice-use-link-crystal-return-small-actual-recall-undo-armor |  
+| bip_39_word_dash_2 | raccoon-step |  
+| bip_39_word_dash_3 | raccoon-step-spice |  
+| bip_39_word_dash_4 | raccoon-step-spice-use |  
+| bip_39_word_dash_5 | raccoon-step-spice-use-link |  
+| bip_39_word_dash_6 | raccoon-step-spice-use-link-crystal |  
+| bip_39_word_dash_7 | raccoon-step-spice-use-link-crystal-return |  
+| bip_39_word_dash_8 | raccoon-step-spice-use-link-crystal-return-small |  
+| bip_39_word_dash_9 | raccoon-step-spice-use-link-crystal-return-small-actual |  
 | bip_39_word_new_br_1 | raccoon |  
 | bip_39_word_new_br_10 | raccoon<br>step<br>spice<br>use<br>link<br>crystal<br>return<br>small<br>actual<br>recall |  
 | bip_39_word_new_br_11 | raccoon<br>step<br>spice<br>use<br>link<br>crystal<br>return<br>small<br>actual<br>recall<br>undo |  
@@ -147,6 +159,18 @@ actual |
 | bip_39_word_space_7 | raccoon step spice use link crystal return |  
 | bip_39_word_space_8 | raccoon step spice use link crystal return small |  
 | bip_39_word_space_9 | raccoon step spice use link crystal return small actual |  
+| bip_39_word_underscore_1 | raccoon |  
+| bip_39_word_underscore_10 | raccoon_step_spice_use_link_crystal_return_small_actual_recall |  
+| bip_39_word_underscore_11 | raccoon_step_spice_use_link_crystal_return_small_actual_recall_undo |  
+| bip_39_word_underscore_12 | raccoon_step_spice_use_link_crystal_return_small_actual_recall_undo_armor |  
+| bip_39_word_underscore_2 | raccoon_step |  
+| bip_39_word_underscore_3 | raccoon_step_spice |  
+| bip_39_word_underscore_4 | raccoon_step_spice_use |  
+| bip_39_word_underscore_5 | raccoon_step_spice_use_link |  
+| bip_39_word_underscore_6 | raccoon_step_spice_use_link_crystal |  
+| bip_39_word_underscore_7 | raccoon_step_spice_use_link_crystal_return |  
+| bip_39_word_underscore_8 | raccoon_step_spice_use_link_crystal_return_small |  
+| bip_39_word_underscore_9 | raccoon_step_spice_use_link_crystal_return_small_actual |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

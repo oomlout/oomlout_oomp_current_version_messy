@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blouse |  
+| bip_39_word_dash_10 | blouse-fury-bunker-ribbon-island-space-foam-engage-refuse-prevent |  
+| bip_39_word_dash_11 | blouse-fury-bunker-ribbon-island-space-foam-engage-refuse-prevent-number |  
+| bip_39_word_dash_12 | blouse-fury-bunker-ribbon-island-space-foam-engage-refuse-prevent-number-artwork |  
+| bip_39_word_dash_2 | blouse-fury |  
+| bip_39_word_dash_3 | blouse-fury-bunker |  
+| bip_39_word_dash_4 | blouse-fury-bunker-ribbon |  
+| bip_39_word_dash_5 | blouse-fury-bunker-ribbon-island |  
+| bip_39_word_dash_6 | blouse-fury-bunker-ribbon-island-space |  
+| bip_39_word_dash_7 | blouse-fury-bunker-ribbon-island-space-foam |  
+| bip_39_word_dash_8 | blouse-fury-bunker-ribbon-island-space-foam-engage |  
+| bip_39_word_dash_9 | blouse-fury-bunker-ribbon-island-space-foam-engage-refuse |  
 | bip_39_word_new_br_1 | blouse |  
 | bip_39_word_new_br_10 | blouse<br>fury<br>bunker<br>ribbon<br>island<br>space<br>foam<br>engage<br>refuse<br>prevent |  
 | bip_39_word_new_br_11 | blouse<br>fury<br>bunker<br>ribbon<br>island<br>space<br>foam<br>engage<br>refuse<br>prevent<br>number |  
@@ -147,6 +159,18 @@ refuse |
 | bip_39_word_space_7 | blouse fury bunker ribbon island space foam |  
 | bip_39_word_space_8 | blouse fury bunker ribbon island space foam engage |  
 | bip_39_word_space_9 | blouse fury bunker ribbon island space foam engage refuse |  
+| bip_39_word_underscore_1 | blouse |  
+| bip_39_word_underscore_10 | blouse_fury_bunker_ribbon_island_space_foam_engage_refuse_prevent |  
+| bip_39_word_underscore_11 | blouse_fury_bunker_ribbon_island_space_foam_engage_refuse_prevent_number |  
+| bip_39_word_underscore_12 | blouse_fury_bunker_ribbon_island_space_foam_engage_refuse_prevent_number_artwork |  
+| bip_39_word_underscore_2 | blouse_fury |  
+| bip_39_word_underscore_3 | blouse_fury_bunker |  
+| bip_39_word_underscore_4 | blouse_fury_bunker_ribbon |  
+| bip_39_word_underscore_5 | blouse_fury_bunker_ribbon_island |  
+| bip_39_word_underscore_6 | blouse_fury_bunker_ribbon_island_space |  
+| bip_39_word_underscore_7 | blouse_fury_bunker_ribbon_island_space_foam |  
+| bip_39_word_underscore_8 | blouse_fury_bunker_ribbon_island_space_foam_engage |  
+| bip_39_word_underscore_9 | blouse_fury_bunker_ribbon_island_space_foam_engage_refuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

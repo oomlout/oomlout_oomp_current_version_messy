@@ -1,3 +1,15 @@
+bip_39_word_dash_1: useful
+bip_39_word_dash_10: useful-obey-adjust-sail-clinic-churn-snake-bike-foil-portion
+bip_39_word_dash_11: useful-obey-adjust-sail-clinic-churn-snake-bike-foil-portion-dose
+bip_39_word_dash_12: useful-obey-adjust-sail-clinic-churn-snake-bike-foil-portion-dose-accuse
+bip_39_word_dash_2: useful-obey
+bip_39_word_dash_3: useful-obey-adjust
+bip_39_word_dash_4: useful-obey-adjust-sail
+bip_39_word_dash_5: useful-obey-adjust-sail-clinic
+bip_39_word_dash_6: useful-obey-adjust-sail-clinic-churn
+bip_39_word_dash_7: useful-obey-adjust-sail-clinic-churn-snake
+bip_39_word_dash_8: useful-obey-adjust-sail-clinic-churn-snake-bike
+bip_39_word_dash_9: useful-obey-adjust-sail-clinic-churn-snake-bike-foil
 bip_39_word_new_br_1: useful
 bip_39_word_new_br_10: useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike<br>foil<br>portion
 bip_39_word_new_br_11: useful<br>obey<br>adjust<br>sail<br>clinic<br>churn<br>snake<br>bike<br>foil<br>portion<br>dose
@@ -193,6 +205,18 @@ bip_39_word_space_6: useful obey adjust sail clinic churn
 bip_39_word_space_7: useful obey adjust sail clinic churn snake
 bip_39_word_space_8: useful obey adjust sail clinic churn snake bike
 bip_39_word_space_9: useful obey adjust sail clinic churn snake bike foil
+bip_39_word_underscore_1: useful
+bip_39_word_underscore_10: useful_obey_adjust_sail_clinic_churn_snake_bike_foil_portion
+bip_39_word_underscore_11: useful_obey_adjust_sail_clinic_churn_snake_bike_foil_portion_dose
+bip_39_word_underscore_12: useful_obey_adjust_sail_clinic_churn_snake_bike_foil_portion_dose_accuse
+bip_39_word_underscore_2: useful_obey
+bip_39_word_underscore_3: useful_obey_adjust
+bip_39_word_underscore_4: useful_obey_adjust_sail
+bip_39_word_underscore_5: useful_obey_adjust_sail_clinic
+bip_39_word_underscore_6: useful_obey_adjust_sail_clinic_churn
+bip_39_word_underscore_7: useful_obey_adjust_sail_clinic_churn_snake
+bip_39_word_underscore_8: useful_obey_adjust_sail_clinic_churn_snake_bike
+bip_39_word_underscore_9: useful_obey_adjust_sail_clinic_churn_snake_bike_foil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

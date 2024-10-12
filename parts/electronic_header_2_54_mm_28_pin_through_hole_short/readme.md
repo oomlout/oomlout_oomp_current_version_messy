@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grow |  
+| bip_39_word_dash_10 | grow-gauge-plate-injury-museum-entry-fatigue-team-student-moment |  
+| bip_39_word_dash_11 | grow-gauge-plate-injury-museum-entry-fatigue-team-student-moment-broken |  
+| bip_39_word_dash_12 | grow-gauge-plate-injury-museum-entry-fatigue-team-student-moment-broken-angry |  
+| bip_39_word_dash_2 | grow-gauge |  
+| bip_39_word_dash_3 | grow-gauge-plate |  
+| bip_39_word_dash_4 | grow-gauge-plate-injury |  
+| bip_39_word_dash_5 | grow-gauge-plate-injury-museum |  
+| bip_39_word_dash_6 | grow-gauge-plate-injury-museum-entry |  
+| bip_39_word_dash_7 | grow-gauge-plate-injury-museum-entry-fatigue |  
+| bip_39_word_dash_8 | grow-gauge-plate-injury-museum-entry-fatigue-team |  
+| bip_39_word_dash_9 | grow-gauge-plate-injury-museum-entry-fatigue-team-student |  
 | bip_39_word_new_br_1 | grow |  
 | bip_39_word_new_br_10 | grow<br>gauge<br>plate<br>injury<br>museum<br>entry<br>fatigue<br>team<br>student<br>moment |  
 | bip_39_word_new_br_11 | grow<br>gauge<br>plate<br>injury<br>museum<br>entry<br>fatigue<br>team<br>student<br>moment<br>broken |  
@@ -147,6 +159,18 @@ student |
 | bip_39_word_space_7 | grow gauge plate injury museum entry fatigue |  
 | bip_39_word_space_8 | grow gauge plate injury museum entry fatigue team |  
 | bip_39_word_space_9 | grow gauge plate injury museum entry fatigue team student |  
+| bip_39_word_underscore_1 | grow |  
+| bip_39_word_underscore_10 | grow_gauge_plate_injury_museum_entry_fatigue_team_student_moment |  
+| bip_39_word_underscore_11 | grow_gauge_plate_injury_museum_entry_fatigue_team_student_moment_broken |  
+| bip_39_word_underscore_12 | grow_gauge_plate_injury_museum_entry_fatigue_team_student_moment_broken_angry |  
+| bip_39_word_underscore_2 | grow_gauge |  
+| bip_39_word_underscore_3 | grow_gauge_plate |  
+| bip_39_word_underscore_4 | grow_gauge_plate_injury |  
+| bip_39_word_underscore_5 | grow_gauge_plate_injury_museum |  
+| bip_39_word_underscore_6 | grow_gauge_plate_injury_museum_entry |  
+| bip_39_word_underscore_7 | grow_gauge_plate_injury_museum_entry_fatigue |  
+| bip_39_word_underscore_8 | grow_gauge_plate_injury_museum_entry_fatigue_team |  
+| bip_39_word_underscore_9 | grow_gauge_plate_injury_museum_entry_fatigue_team_student |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

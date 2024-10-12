@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | news |  
+| bip_39_word_dash_10 | news-execute-thumb-knee-wood-tunnel-you-found-blush-paper |  
+| bip_39_word_dash_11 | news-execute-thumb-knee-wood-tunnel-you-found-blush-paper-barrel |  
+| bip_39_word_dash_12 | news-execute-thumb-knee-wood-tunnel-you-found-blush-paper-barrel-avocado |  
+| bip_39_word_dash_2 | news-execute |  
+| bip_39_word_dash_3 | news-execute-thumb |  
+| bip_39_word_dash_4 | news-execute-thumb-knee |  
+| bip_39_word_dash_5 | news-execute-thumb-knee-wood |  
+| bip_39_word_dash_6 | news-execute-thumb-knee-wood-tunnel |  
+| bip_39_word_dash_7 | news-execute-thumb-knee-wood-tunnel-you |  
+| bip_39_word_dash_8 | news-execute-thumb-knee-wood-tunnel-you-found |  
+| bip_39_word_dash_9 | news-execute-thumb-knee-wood-tunnel-you-found-blush |  
 | bip_39_word_new_br_1 | news |  
 | bip_39_word_new_br_10 | news<br>execute<br>thumb<br>knee<br>wood<br>tunnel<br>you<br>found<br>blush<br>paper |  
 | bip_39_word_new_br_11 | news<br>execute<br>thumb<br>knee<br>wood<br>tunnel<br>you<br>found<br>blush<br>paper<br>barrel |  
@@ -147,6 +159,18 @@ blush |
 | bip_39_word_space_7 | news execute thumb knee wood tunnel you |  
 | bip_39_word_space_8 | news execute thumb knee wood tunnel you found |  
 | bip_39_word_space_9 | news execute thumb knee wood tunnel you found blush |  
+| bip_39_word_underscore_1 | news |  
+| bip_39_word_underscore_10 | news_execute_thumb_knee_wood_tunnel_you_found_blush_paper |  
+| bip_39_word_underscore_11 | news_execute_thumb_knee_wood_tunnel_you_found_blush_paper_barrel |  
+| bip_39_word_underscore_12 | news_execute_thumb_knee_wood_tunnel_you_found_blush_paper_barrel_avocado |  
+| bip_39_word_underscore_2 | news_execute |  
+| bip_39_word_underscore_3 | news_execute_thumb |  
+| bip_39_word_underscore_4 | news_execute_thumb_knee |  
+| bip_39_word_underscore_5 | news_execute_thumb_knee_wood |  
+| bip_39_word_underscore_6 | news_execute_thumb_knee_wood_tunnel |  
+| bip_39_word_underscore_7 | news_execute_thumb_knee_wood_tunnel_you |  
+| bip_39_word_underscore_8 | news_execute_thumb_knee_wood_tunnel_you_found |  
+| bip_39_word_underscore_9 | news_execute_thumb_knee_wood_tunnel_you_found_blush |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

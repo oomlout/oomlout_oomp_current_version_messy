@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mammal
+bip_39_word_dash_10: mammal-diet-group-hollow-pause-answer-rapid-tribe-grace-frown
+bip_39_word_dash_11: mammal-diet-group-hollow-pause-answer-rapid-tribe-grace-frown-saddle
+bip_39_word_dash_12: mammal-diet-group-hollow-pause-answer-rapid-tribe-grace-frown-saddle-animal
+bip_39_word_dash_2: mammal-diet
+bip_39_word_dash_3: mammal-diet-group
+bip_39_word_dash_4: mammal-diet-group-hollow
+bip_39_word_dash_5: mammal-diet-group-hollow-pause
+bip_39_word_dash_6: mammal-diet-group-hollow-pause-answer
+bip_39_word_dash_7: mammal-diet-group-hollow-pause-answer-rapid
+bip_39_word_dash_8: mammal-diet-group-hollow-pause-answer-rapid-tribe
+bip_39_word_dash_9: mammal-diet-group-hollow-pause-answer-rapid-tribe-grace
 bip_39_word_new_br_1: mammal
 bip_39_word_new_br_10: mammal<br>diet<br>group<br>hollow<br>pause<br>answer<br>rapid<br>tribe<br>grace<br>frown
 bip_39_word_new_br_11: mammal<br>diet<br>group<br>hollow<br>pause<br>answer<br>rapid<br>tribe<br>grace<br>frown<br>saddle
@@ -193,6 +205,18 @@ bip_39_word_space_6: mammal diet group hollow pause answer
 bip_39_word_space_7: mammal diet group hollow pause answer rapid
 bip_39_word_space_8: mammal diet group hollow pause answer rapid tribe
 bip_39_word_space_9: mammal diet group hollow pause answer rapid tribe grace
+bip_39_word_underscore_1: mammal
+bip_39_word_underscore_10: mammal_diet_group_hollow_pause_answer_rapid_tribe_grace_frown
+bip_39_word_underscore_11: mammal_diet_group_hollow_pause_answer_rapid_tribe_grace_frown_saddle
+bip_39_word_underscore_12: mammal_diet_group_hollow_pause_answer_rapid_tribe_grace_frown_saddle_animal
+bip_39_word_underscore_2: mammal_diet
+bip_39_word_underscore_3: mammal_diet_group
+bip_39_word_underscore_4: mammal_diet_group_hollow
+bip_39_word_underscore_5: mammal_diet_group_hollow_pause
+bip_39_word_underscore_6: mammal_diet_group_hollow_pause_answer
+bip_39_word_underscore_7: mammal_diet_group_hollow_pause_answer_rapid
+bip_39_word_underscore_8: mammal_diet_group_hollow_pause_answer_rapid_tribe
+bip_39_word_underscore_9: mammal_diet_group_hollow_pause_answer_rapid_tribe_grace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

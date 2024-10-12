@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chunk |  
+| bip_39_word_dash_10 | chunk-unable-vital-physical-ready-clip-bachelor-spare-earn-friend |  
+| bip_39_word_dash_11 | chunk-unable-vital-physical-ready-clip-bachelor-spare-earn-friend-silk |  
+| bip_39_word_dash_12 | chunk-unable-vital-physical-ready-clip-bachelor-spare-earn-friend-silk-address |  
+| bip_39_word_dash_2 | chunk-unable |  
+| bip_39_word_dash_3 | chunk-unable-vital |  
+| bip_39_word_dash_4 | chunk-unable-vital-physical |  
+| bip_39_word_dash_5 | chunk-unable-vital-physical-ready |  
+| bip_39_word_dash_6 | chunk-unable-vital-physical-ready-clip |  
+| bip_39_word_dash_7 | chunk-unable-vital-physical-ready-clip-bachelor |  
+| bip_39_word_dash_8 | chunk-unable-vital-physical-ready-clip-bachelor-spare |  
+| bip_39_word_dash_9 | chunk-unable-vital-physical-ready-clip-bachelor-spare-earn |  
 | bip_39_word_new_br_1 | chunk |  
 | bip_39_word_new_br_10 | chunk<br>unable<br>vital<br>physical<br>ready<br>clip<br>bachelor<br>spare<br>earn<br>friend |  
 | bip_39_word_new_br_11 | chunk<br>unable<br>vital<br>physical<br>ready<br>clip<br>bachelor<br>spare<br>earn<br>friend<br>silk |  
@@ -147,6 +159,18 @@ earn |
 | bip_39_word_space_7 | chunk unable vital physical ready clip bachelor |  
 | bip_39_word_space_8 | chunk unable vital physical ready clip bachelor spare |  
 | bip_39_word_space_9 | chunk unable vital physical ready clip bachelor spare earn |  
+| bip_39_word_underscore_1 | chunk |  
+| bip_39_word_underscore_10 | chunk_unable_vital_physical_ready_clip_bachelor_spare_earn_friend |  
+| bip_39_word_underscore_11 | chunk_unable_vital_physical_ready_clip_bachelor_spare_earn_friend_silk |  
+| bip_39_word_underscore_12 | chunk_unable_vital_physical_ready_clip_bachelor_spare_earn_friend_silk_address |  
+| bip_39_word_underscore_2 | chunk_unable |  
+| bip_39_word_underscore_3 | chunk_unable_vital |  
+| bip_39_word_underscore_4 | chunk_unable_vital_physical |  
+| bip_39_word_underscore_5 | chunk_unable_vital_physical_ready |  
+| bip_39_word_underscore_6 | chunk_unable_vital_physical_ready_clip |  
+| bip_39_word_underscore_7 | chunk_unable_vital_physical_ready_clip_bachelor |  
+| bip_39_word_underscore_8 | chunk_unable_vital_physical_ready_clip_bachelor_spare |  
+| bip_39_word_underscore_9 | chunk_unable_vital_physical_ready_clip_bachelor_spare_earn |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

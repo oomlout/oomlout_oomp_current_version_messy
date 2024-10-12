@@ -1,3 +1,15 @@
+bip_39_word_dash_1: east
+bip_39_word_dash_10: east-omit-column-lunch-fiscal-direct-trust-sock-execute-manage
+bip_39_word_dash_11: east-omit-column-lunch-fiscal-direct-trust-sock-execute-manage-add
+bip_39_word_dash_12: east-omit-column-lunch-fiscal-direct-trust-sock-execute-manage-add-alone
+bip_39_word_dash_2: east-omit
+bip_39_word_dash_3: east-omit-column
+bip_39_word_dash_4: east-omit-column-lunch
+bip_39_word_dash_5: east-omit-column-lunch-fiscal
+bip_39_word_dash_6: east-omit-column-lunch-fiscal-direct
+bip_39_word_dash_7: east-omit-column-lunch-fiscal-direct-trust
+bip_39_word_dash_8: east-omit-column-lunch-fiscal-direct-trust-sock
+bip_39_word_dash_9: east-omit-column-lunch-fiscal-direct-trust-sock-execute
 bip_39_word_new_br_1: east
 bip_39_word_new_br_10: east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage
 bip_39_word_new_br_11: east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage<br>add
@@ -193,6 +205,18 @@ bip_39_word_space_6: east omit column lunch fiscal direct
 bip_39_word_space_7: east omit column lunch fiscal direct trust
 bip_39_word_space_8: east omit column lunch fiscal direct trust sock
 bip_39_word_space_9: east omit column lunch fiscal direct trust sock execute
+bip_39_word_underscore_1: east
+bip_39_word_underscore_10: east_omit_column_lunch_fiscal_direct_trust_sock_execute_manage
+bip_39_word_underscore_11: east_omit_column_lunch_fiscal_direct_trust_sock_execute_manage_add
+bip_39_word_underscore_12: east_omit_column_lunch_fiscal_direct_trust_sock_execute_manage_add_alone
+bip_39_word_underscore_2: east_omit
+bip_39_word_underscore_3: east_omit_column
+bip_39_word_underscore_4: east_omit_column_lunch
+bip_39_word_underscore_5: east_omit_column_lunch_fiscal
+bip_39_word_underscore_6: east_omit_column_lunch_fiscal_direct
+bip_39_word_underscore_7: east_omit_column_lunch_fiscal_direct_trust
+bip_39_word_underscore_8: east_omit_column_lunch_fiscal_direct_trust_sock
+bip_39_word_underscore_9: east_omit_column_lunch_fiscal_direct_trust_sock_execute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

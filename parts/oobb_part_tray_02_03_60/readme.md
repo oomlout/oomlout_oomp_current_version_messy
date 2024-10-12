@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | relax |  
+| bip_39_word_dash_10 | relax-adjust-cushion-appear-pear-favorite-adjust-stuff-attract-over |  
+| bip_39_word_dash_11 | relax-adjust-cushion-appear-pear-favorite-adjust-stuff-attract-over-visual |  
+| bip_39_word_dash_12 | relax-adjust-cushion-appear-pear-favorite-adjust-stuff-attract-over-visual-average |  
+| bip_39_word_dash_2 | relax-adjust |  
+| bip_39_word_dash_3 | relax-adjust-cushion |  
+| bip_39_word_dash_4 | relax-adjust-cushion-appear |  
+| bip_39_word_dash_5 | relax-adjust-cushion-appear-pear |  
+| bip_39_word_dash_6 | relax-adjust-cushion-appear-pear-favorite |  
+| bip_39_word_dash_7 | relax-adjust-cushion-appear-pear-favorite-adjust |  
+| bip_39_word_dash_8 | relax-adjust-cushion-appear-pear-favorite-adjust-stuff |  
+| bip_39_word_dash_9 | relax-adjust-cushion-appear-pear-favorite-adjust-stuff-attract |  
 | bip_39_word_new_br_1 | relax |  
 | bip_39_word_new_br_10 | relax<br>adjust<br>cushion<br>appear<br>pear<br>favorite<br>adjust<br>stuff<br>attract<br>over |  
 | bip_39_word_new_br_11 | relax<br>adjust<br>cushion<br>appear<br>pear<br>favorite<br>adjust<br>stuff<br>attract<br>over<br>visual |  
@@ -147,6 +159,18 @@ attract |
 | bip_39_word_space_7 | relax adjust cushion appear pear favorite adjust |  
 | bip_39_word_space_8 | relax adjust cushion appear pear favorite adjust stuff |  
 | bip_39_word_space_9 | relax adjust cushion appear pear favorite adjust stuff attract |  
+| bip_39_word_underscore_1 | relax |  
+| bip_39_word_underscore_10 | relax_adjust_cushion_appear_pear_favorite_adjust_stuff_attract_over |  
+| bip_39_word_underscore_11 | relax_adjust_cushion_appear_pear_favorite_adjust_stuff_attract_over_visual |  
+| bip_39_word_underscore_12 | relax_adjust_cushion_appear_pear_favorite_adjust_stuff_attract_over_visual_average |  
+| bip_39_word_underscore_2 | relax_adjust |  
+| bip_39_word_underscore_3 | relax_adjust_cushion |  
+| bip_39_word_underscore_4 | relax_adjust_cushion_appear |  
+| bip_39_word_underscore_5 | relax_adjust_cushion_appear_pear |  
+| bip_39_word_underscore_6 | relax_adjust_cushion_appear_pear_favorite |  
+| bip_39_word_underscore_7 | relax_adjust_cushion_appear_pear_favorite_adjust |  
+| bip_39_word_underscore_8 | relax_adjust_cushion_appear_pear_favorite_adjust_stuff |  
+| bip_39_word_underscore_9 | relax_adjust_cushion_appear_pear_favorite_adjust_stuff_attract |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

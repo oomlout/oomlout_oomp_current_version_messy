@@ -1,3 +1,15 @@
+bip_39_word_dash_1: asset
+bip_39_word_dash_10: asset-adapt-moment-struggle-chicken-loud-aisle-pole-unique-salad
+bip_39_word_dash_11: asset-adapt-moment-struggle-chicken-loud-aisle-pole-unique-salad-trash
+bip_39_word_dash_12: asset-adapt-moment-struggle-chicken-loud-aisle-pole-unique-salad-trash-amused
+bip_39_word_dash_2: asset-adapt
+bip_39_word_dash_3: asset-adapt-moment
+bip_39_word_dash_4: asset-adapt-moment-struggle
+bip_39_word_dash_5: asset-adapt-moment-struggle-chicken
+bip_39_word_dash_6: asset-adapt-moment-struggle-chicken-loud
+bip_39_word_dash_7: asset-adapt-moment-struggle-chicken-loud-aisle
+bip_39_word_dash_8: asset-adapt-moment-struggle-chicken-loud-aisle-pole
+bip_39_word_dash_9: asset-adapt-moment-struggle-chicken-loud-aisle-pole-unique
 bip_39_word_new_br_1: asset
 bip_39_word_new_br_10: asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole<br>unique<br>salad
 bip_39_word_new_br_11: asset<br>adapt<br>moment<br>struggle<br>chicken<br>loud<br>aisle<br>pole<br>unique<br>salad<br>trash
@@ -193,6 +205,18 @@ bip_39_word_space_6: asset adapt moment struggle chicken loud
 bip_39_word_space_7: asset adapt moment struggle chicken loud aisle
 bip_39_word_space_8: asset adapt moment struggle chicken loud aisle pole
 bip_39_word_space_9: asset adapt moment struggle chicken loud aisle pole unique
+bip_39_word_underscore_1: asset
+bip_39_word_underscore_10: asset_adapt_moment_struggle_chicken_loud_aisle_pole_unique_salad
+bip_39_word_underscore_11: asset_adapt_moment_struggle_chicken_loud_aisle_pole_unique_salad_trash
+bip_39_word_underscore_12: asset_adapt_moment_struggle_chicken_loud_aisle_pole_unique_salad_trash_amused
+bip_39_word_underscore_2: asset_adapt
+bip_39_word_underscore_3: asset_adapt_moment
+bip_39_word_underscore_4: asset_adapt_moment_struggle
+bip_39_word_underscore_5: asset_adapt_moment_struggle_chicken
+bip_39_word_underscore_6: asset_adapt_moment_struggle_chicken_loud
+bip_39_word_underscore_7: asset_adapt_moment_struggle_chicken_loud_aisle
+bip_39_word_underscore_8: asset_adapt_moment_struggle_chicken_loud_aisle_pole
+bip_39_word_underscore_9: asset_adapt_moment_struggle_chicken_loud_aisle_pole_unique
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

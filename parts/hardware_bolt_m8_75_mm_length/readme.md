@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nephew |  
+| bip_39_word_dash_10 | nephew-thrive-poverty-coil-earth-tornado-before-decorate-jelly-notice |  
+| bip_39_word_dash_11 | nephew-thrive-poverty-coil-earth-tornado-before-decorate-jelly-notice-wasp |  
+| bip_39_word_dash_12 | nephew-thrive-poverty-coil-earth-tornado-before-decorate-jelly-notice-wasp-ask |  
+| bip_39_word_dash_2 | nephew-thrive |  
+| bip_39_word_dash_3 | nephew-thrive-poverty |  
+| bip_39_word_dash_4 | nephew-thrive-poverty-coil |  
+| bip_39_word_dash_5 | nephew-thrive-poverty-coil-earth |  
+| bip_39_word_dash_6 | nephew-thrive-poverty-coil-earth-tornado |  
+| bip_39_word_dash_7 | nephew-thrive-poverty-coil-earth-tornado-before |  
+| bip_39_word_dash_8 | nephew-thrive-poverty-coil-earth-tornado-before-decorate |  
+| bip_39_word_dash_9 | nephew-thrive-poverty-coil-earth-tornado-before-decorate-jelly |  
 | bip_39_word_new_br_1 | nephew |  
 | bip_39_word_new_br_10 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate<br>jelly<br>notice |  
 | bip_39_word_new_br_11 | nephew<br>thrive<br>poverty<br>coil<br>earth<br>tornado<br>before<br>decorate<br>jelly<br>notice<br>wasp |  
@@ -147,6 +159,18 @@ jelly |
 | bip_39_word_space_7 | nephew thrive poverty coil earth tornado before |  
 | bip_39_word_space_8 | nephew thrive poverty coil earth tornado before decorate |  
 | bip_39_word_space_9 | nephew thrive poverty coil earth tornado before decorate jelly |  
+| bip_39_word_underscore_1 | nephew |  
+| bip_39_word_underscore_10 | nephew_thrive_poverty_coil_earth_tornado_before_decorate_jelly_notice |  
+| bip_39_word_underscore_11 | nephew_thrive_poverty_coil_earth_tornado_before_decorate_jelly_notice_wasp |  
+| bip_39_word_underscore_12 | nephew_thrive_poverty_coil_earth_tornado_before_decorate_jelly_notice_wasp_ask |  
+| bip_39_word_underscore_2 | nephew_thrive |  
+| bip_39_word_underscore_3 | nephew_thrive_poverty |  
+| bip_39_word_underscore_4 | nephew_thrive_poverty_coil |  
+| bip_39_word_underscore_5 | nephew_thrive_poverty_coil_earth |  
+| bip_39_word_underscore_6 | nephew_thrive_poverty_coil_earth_tornado |  
+| bip_39_word_underscore_7 | nephew_thrive_poverty_coil_earth_tornado_before |  
+| bip_39_word_underscore_8 | nephew_thrive_poverty_coil_earth_tornado_before_decorate |  
+| bip_39_word_underscore_9 | nephew_thrive_poverty_coil_earth_tornado_before_decorate_jelly |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

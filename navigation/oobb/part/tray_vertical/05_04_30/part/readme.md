@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sure |  
+| bip_39_word_dash_10 | sure-cause-tiny-false-glass-permit-occur-candy-boss-soft |  
+| bip_39_word_dash_11 | sure-cause-tiny-false-glass-permit-occur-candy-boss-soft-around |  
+| bip_39_word_dash_12 | sure-cause-tiny-false-glass-permit-occur-candy-boss-soft-around-animal |  
+| bip_39_word_dash_2 | sure-cause |  
+| bip_39_word_dash_3 | sure-cause-tiny |  
+| bip_39_word_dash_4 | sure-cause-tiny-false |  
+| bip_39_word_dash_5 | sure-cause-tiny-false-glass |  
+| bip_39_word_dash_6 | sure-cause-tiny-false-glass-permit |  
+| bip_39_word_dash_7 | sure-cause-tiny-false-glass-permit-occur |  
+| bip_39_word_dash_8 | sure-cause-tiny-false-glass-permit-occur-candy |  
+| bip_39_word_dash_9 | sure-cause-tiny-false-glass-permit-occur-candy-boss |  
 | bip_39_word_new_br_1 | sure |  
 | bip_39_word_new_br_10 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft |  
 | bip_39_word_new_br_11 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft<br>around |  
@@ -147,6 +159,18 @@ boss |
 | bip_39_word_space_7 | sure cause tiny false glass permit occur |  
 | bip_39_word_space_8 | sure cause tiny false glass permit occur candy |  
 | bip_39_word_space_9 | sure cause tiny false glass permit occur candy boss |  
+| bip_39_word_underscore_1 | sure |  
+| bip_39_word_underscore_10 | sure_cause_tiny_false_glass_permit_occur_candy_boss_soft |  
+| bip_39_word_underscore_11 | sure_cause_tiny_false_glass_permit_occur_candy_boss_soft_around |  
+| bip_39_word_underscore_12 | sure_cause_tiny_false_glass_permit_occur_candy_boss_soft_around_animal |  
+| bip_39_word_underscore_2 | sure_cause |  
+| bip_39_word_underscore_3 | sure_cause_tiny |  
+| bip_39_word_underscore_4 | sure_cause_tiny_false |  
+| bip_39_word_underscore_5 | sure_cause_tiny_false_glass |  
+| bip_39_word_underscore_6 | sure_cause_tiny_false_glass_permit |  
+| bip_39_word_underscore_7 | sure_cause_tiny_false_glass_permit_occur |  
+| bip_39_word_underscore_8 | sure_cause_tiny_false_glass_permit_occur_candy |  
+| bip_39_word_underscore_9 | sure_cause_tiny_false_glass_permit_occur_candy_boss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

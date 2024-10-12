@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glove |  
+| bip_39_word_dash_10 | glove-broom-entry-advice-snack-kangaroo-lift-size-song-churn |  
+| bip_39_word_dash_11 | glove-broom-entry-advice-snack-kangaroo-lift-size-song-churn-welcome |  
+| bip_39_word_dash_12 | glove-broom-entry-advice-snack-kangaroo-lift-size-song-churn-welcome-affair |  
+| bip_39_word_dash_2 | glove-broom |  
+| bip_39_word_dash_3 | glove-broom-entry |  
+| bip_39_word_dash_4 | glove-broom-entry-advice |  
+| bip_39_word_dash_5 | glove-broom-entry-advice-snack |  
+| bip_39_word_dash_6 | glove-broom-entry-advice-snack-kangaroo |  
+| bip_39_word_dash_7 | glove-broom-entry-advice-snack-kangaroo-lift |  
+| bip_39_word_dash_8 | glove-broom-entry-advice-snack-kangaroo-lift-size |  
+| bip_39_word_dash_9 | glove-broom-entry-advice-snack-kangaroo-lift-size-song |  
 | bip_39_word_new_br_1 | glove |  
 | bip_39_word_new_br_10 | glove<br>broom<br>entry<br>advice<br>snack<br>kangaroo<br>lift<br>size<br>song<br>churn |  
 | bip_39_word_new_br_11 | glove<br>broom<br>entry<br>advice<br>snack<br>kangaroo<br>lift<br>size<br>song<br>churn<br>welcome |  
@@ -147,6 +159,18 @@ song |
 | bip_39_word_space_7 | glove broom entry advice snack kangaroo lift |  
 | bip_39_word_space_8 | glove broom entry advice snack kangaroo lift size |  
 | bip_39_word_space_9 | glove broom entry advice snack kangaroo lift size song |  
+| bip_39_word_underscore_1 | glove |  
+| bip_39_word_underscore_10 | glove_broom_entry_advice_snack_kangaroo_lift_size_song_churn |  
+| bip_39_word_underscore_11 | glove_broom_entry_advice_snack_kangaroo_lift_size_song_churn_welcome |  
+| bip_39_word_underscore_12 | glove_broom_entry_advice_snack_kangaroo_lift_size_song_churn_welcome_affair |  
+| bip_39_word_underscore_2 | glove_broom |  
+| bip_39_word_underscore_3 | glove_broom_entry |  
+| bip_39_word_underscore_4 | glove_broom_entry_advice |  
+| bip_39_word_underscore_5 | glove_broom_entry_advice_snack |  
+| bip_39_word_underscore_6 | glove_broom_entry_advice_snack_kangaroo |  
+| bip_39_word_underscore_7 | glove_broom_entry_advice_snack_kangaroo_lift |  
+| bip_39_word_underscore_8 | glove_broom_entry_advice_snack_kangaroo_lift_size |  
+| bip_39_word_underscore_9 | glove_broom_entry_advice_snack_kangaroo_lift_size_song |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

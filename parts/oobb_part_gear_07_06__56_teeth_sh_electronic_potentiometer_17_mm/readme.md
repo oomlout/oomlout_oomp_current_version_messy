@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | derive |  
+| bip_39_word_dash_10 | derive-fold-solve-pink-appear-noble-balance-bright-crew-brush |  
+| bip_39_word_dash_11 | derive-fold-solve-pink-appear-noble-balance-bright-crew-brush-certain |  
+| bip_39_word_dash_12 | derive-fold-solve-pink-appear-noble-balance-bright-crew-brush-certain-air |  
+| bip_39_word_dash_2 | derive-fold |  
+| bip_39_word_dash_3 | derive-fold-solve |  
+| bip_39_word_dash_4 | derive-fold-solve-pink |  
+| bip_39_word_dash_5 | derive-fold-solve-pink-appear |  
+| bip_39_word_dash_6 | derive-fold-solve-pink-appear-noble |  
+| bip_39_word_dash_7 | derive-fold-solve-pink-appear-noble-balance |  
+| bip_39_word_dash_8 | derive-fold-solve-pink-appear-noble-balance-bright |  
+| bip_39_word_dash_9 | derive-fold-solve-pink-appear-noble-balance-bright-crew |  
 | bip_39_word_new_br_1 | derive |  
 | bip_39_word_new_br_10 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright<br>crew<br>brush |  
 | bip_39_word_new_br_11 | derive<br>fold<br>solve<br>pink<br>appear<br>noble<br>balance<br>bright<br>crew<br>brush<br>certain |  
@@ -147,6 +159,18 @@ crew |
 | bip_39_word_space_7 | derive fold solve pink appear noble balance |  
 | bip_39_word_space_8 | derive fold solve pink appear noble balance bright |  
 | bip_39_word_space_9 | derive fold solve pink appear noble balance bright crew |  
+| bip_39_word_underscore_1 | derive |  
+| bip_39_word_underscore_10 | derive_fold_solve_pink_appear_noble_balance_bright_crew_brush |  
+| bip_39_word_underscore_11 | derive_fold_solve_pink_appear_noble_balance_bright_crew_brush_certain |  
+| bip_39_word_underscore_12 | derive_fold_solve_pink_appear_noble_balance_bright_crew_brush_certain_air |  
+| bip_39_word_underscore_2 | derive_fold |  
+| bip_39_word_underscore_3 | derive_fold_solve |  
+| bip_39_word_underscore_4 | derive_fold_solve_pink |  
+| bip_39_word_underscore_5 | derive_fold_solve_pink_appear |  
+| bip_39_word_underscore_6 | derive_fold_solve_pink_appear_noble |  
+| bip_39_word_underscore_7 | derive_fold_solve_pink_appear_noble_balance |  
+| bip_39_word_underscore_8 | derive_fold_solve_pink_appear_noble_balance_bright |  
+| bip_39_word_underscore_9 | derive_fold_solve_pink_appear_noble_balance_bright_crew |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

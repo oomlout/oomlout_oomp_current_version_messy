@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deposit
+bip_39_word_dash_10: deposit-bread-discover-hair-boring-picnic-strong-credit-stay-flame
+bip_39_word_dash_11: deposit-bread-discover-hair-boring-picnic-strong-credit-stay-flame-cream
+bip_39_word_dash_12: deposit-bread-discover-hair-boring-picnic-strong-credit-stay-flame-cream-asset
+bip_39_word_dash_2: deposit-bread
+bip_39_word_dash_3: deposit-bread-discover
+bip_39_word_dash_4: deposit-bread-discover-hair
+bip_39_word_dash_5: deposit-bread-discover-hair-boring
+bip_39_word_dash_6: deposit-bread-discover-hair-boring-picnic
+bip_39_word_dash_7: deposit-bread-discover-hair-boring-picnic-strong
+bip_39_word_dash_8: deposit-bread-discover-hair-boring-picnic-strong-credit
+bip_39_word_dash_9: deposit-bread-discover-hair-boring-picnic-strong-credit-stay
 bip_39_word_new_br_1: deposit
 bip_39_word_new_br_10: deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit<br>stay<br>flame
 bip_39_word_new_br_11: deposit<br>bread<br>discover<br>hair<br>boring<br>picnic<br>strong<br>credit<br>stay<br>flame<br>cream
@@ -194,6 +206,18 @@ bip_39_word_space_6: deposit bread discover hair boring picnic
 bip_39_word_space_7: deposit bread discover hair boring picnic strong
 bip_39_word_space_8: deposit bread discover hair boring picnic strong credit
 bip_39_word_space_9: deposit bread discover hair boring picnic strong credit stay
+bip_39_word_underscore_1: deposit
+bip_39_word_underscore_10: deposit_bread_discover_hair_boring_picnic_strong_credit_stay_flame
+bip_39_word_underscore_11: deposit_bread_discover_hair_boring_picnic_strong_credit_stay_flame_cream
+bip_39_word_underscore_12: deposit_bread_discover_hair_boring_picnic_strong_credit_stay_flame_cream_asset
+bip_39_word_underscore_2: deposit_bread
+bip_39_word_underscore_3: deposit_bread_discover
+bip_39_word_underscore_4: deposit_bread_discover_hair
+bip_39_word_underscore_5: deposit_bread_discover_hair_boring
+bip_39_word_underscore_6: deposit_bread_discover_hair_boring_picnic
+bip_39_word_underscore_7: deposit_bread_discover_hair_boring_picnic_strong
+bip_39_word_underscore_8: deposit_bread_discover_hair_boring_picnic_strong_credit
+bip_39_word_underscore_9: deposit_bread_discover_hair_boring_picnic_strong_credit_stay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

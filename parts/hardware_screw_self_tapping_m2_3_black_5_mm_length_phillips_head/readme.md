@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | man |  
+| bip_39_word_dash_10 | man-moment-auto-bottom-donate-smart-human-year-powder-rough |  
+| bip_39_word_dash_11 | man-moment-auto-bottom-donate-smart-human-year-powder-rough-child |  
+| bip_39_word_dash_12 | man-moment-auto-bottom-donate-smart-human-year-powder-rough-child-alter |  
+| bip_39_word_dash_2 | man-moment |  
+| bip_39_word_dash_3 | man-moment-auto |  
+| bip_39_word_dash_4 | man-moment-auto-bottom |  
+| bip_39_word_dash_5 | man-moment-auto-bottom-donate |  
+| bip_39_word_dash_6 | man-moment-auto-bottom-donate-smart |  
+| bip_39_word_dash_7 | man-moment-auto-bottom-donate-smart-human |  
+| bip_39_word_dash_8 | man-moment-auto-bottom-donate-smart-human-year |  
+| bip_39_word_dash_9 | man-moment-auto-bottom-donate-smart-human-year-powder |  
 | bip_39_word_new_br_1 | man |  
 | bip_39_word_new_br_10 | man<br>moment<br>auto<br>bottom<br>donate<br>smart<br>human<br>year<br>powder<br>rough |  
 | bip_39_word_new_br_11 | man<br>moment<br>auto<br>bottom<br>donate<br>smart<br>human<br>year<br>powder<br>rough<br>child |  
@@ -147,6 +159,18 @@ powder |
 | bip_39_word_space_7 | man moment auto bottom donate smart human |  
 | bip_39_word_space_8 | man moment auto bottom donate smart human year |  
 | bip_39_word_space_9 | man moment auto bottom donate smart human year powder |  
+| bip_39_word_underscore_1 | man |  
+| bip_39_word_underscore_10 | man_moment_auto_bottom_donate_smart_human_year_powder_rough |  
+| bip_39_word_underscore_11 | man_moment_auto_bottom_donate_smart_human_year_powder_rough_child |  
+| bip_39_word_underscore_12 | man_moment_auto_bottom_donate_smart_human_year_powder_rough_child_alter |  
+| bip_39_word_underscore_2 | man_moment |  
+| bip_39_word_underscore_3 | man_moment_auto |  
+| bip_39_word_underscore_4 | man_moment_auto_bottom |  
+| bip_39_word_underscore_5 | man_moment_auto_bottom_donate |  
+| bip_39_word_underscore_6 | man_moment_auto_bottom_donate_smart |  
+| bip_39_word_underscore_7 | man_moment_auto_bottom_donate_smart_human |  
+| bip_39_word_underscore_8 | man_moment_auto_bottom_donate_smart_human_year |  
+| bip_39_word_underscore_9 | man_moment_auto_bottom_donate_smart_human_year_powder |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

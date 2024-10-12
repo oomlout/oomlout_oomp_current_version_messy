@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dance |  
+| bip_39_word_dash_10 | dance-depart-egg-rocket-siege-useless-cinnamon-rich-vote-width |  
+| bip_39_word_dash_11 | dance-depart-egg-rocket-siege-useless-cinnamon-rich-vote-width-awful |  
+| bip_39_word_dash_12 | dance-depart-egg-rocket-siege-useless-cinnamon-rich-vote-width-awful-appear |  
+| bip_39_word_dash_2 | dance-depart |  
+| bip_39_word_dash_3 | dance-depart-egg |  
+| bip_39_word_dash_4 | dance-depart-egg-rocket |  
+| bip_39_word_dash_5 | dance-depart-egg-rocket-siege |  
+| bip_39_word_dash_6 | dance-depart-egg-rocket-siege-useless |  
+| bip_39_word_dash_7 | dance-depart-egg-rocket-siege-useless-cinnamon |  
+| bip_39_word_dash_8 | dance-depart-egg-rocket-siege-useless-cinnamon-rich |  
+| bip_39_word_dash_9 | dance-depart-egg-rocket-siege-useless-cinnamon-rich-vote |  
 | bip_39_word_new_br_1 | dance |  
 | bip_39_word_new_br_10 | dance<br>depart<br>egg<br>rocket<br>siege<br>useless<br>cinnamon<br>rich<br>vote<br>width |  
 | bip_39_word_new_br_11 | dance<br>depart<br>egg<br>rocket<br>siege<br>useless<br>cinnamon<br>rich<br>vote<br>width<br>awful |  
@@ -147,6 +159,18 @@ vote |
 | bip_39_word_space_7 | dance depart egg rocket siege useless cinnamon |  
 | bip_39_word_space_8 | dance depart egg rocket siege useless cinnamon rich |  
 | bip_39_word_space_9 | dance depart egg rocket siege useless cinnamon rich vote |  
+| bip_39_word_underscore_1 | dance |  
+| bip_39_word_underscore_10 | dance_depart_egg_rocket_siege_useless_cinnamon_rich_vote_width |  
+| bip_39_word_underscore_11 | dance_depart_egg_rocket_siege_useless_cinnamon_rich_vote_width_awful |  
+| bip_39_word_underscore_12 | dance_depart_egg_rocket_siege_useless_cinnamon_rich_vote_width_awful_appear |  
+| bip_39_word_underscore_2 | dance_depart |  
+| bip_39_word_underscore_3 | dance_depart_egg |  
+| bip_39_word_underscore_4 | dance_depart_egg_rocket |  
+| bip_39_word_underscore_5 | dance_depart_egg_rocket_siege |  
+| bip_39_word_underscore_6 | dance_depart_egg_rocket_siege_useless |  
+| bip_39_word_underscore_7 | dance_depart_egg_rocket_siege_useless_cinnamon |  
+| bip_39_word_underscore_8 | dance_depart_egg_rocket_siege_useless_cinnamon_rich |  
+| bip_39_word_underscore_9 | dance_depart_egg_rocket_siege_useless_cinnamon_rich_vote |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

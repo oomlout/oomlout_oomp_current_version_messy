@@ -32,6 +32,18 @@ A servo tester
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cross |  
+| bip_39_word_dash_10 | cross-anxiety-baby-bronze-repair-put-debris-void-dial-champion |  
+| bip_39_word_dash_11 | cross-anxiety-baby-bronze-repair-put-debris-void-dial-champion-sleep |  
+| bip_39_word_dash_12 | cross-anxiety-baby-bronze-repair-put-debris-void-dial-champion-sleep-approve |  
+| bip_39_word_dash_2 | cross-anxiety |  
+| bip_39_word_dash_3 | cross-anxiety-baby |  
+| bip_39_word_dash_4 | cross-anxiety-baby-bronze |  
+| bip_39_word_dash_5 | cross-anxiety-baby-bronze-repair |  
+| bip_39_word_dash_6 | cross-anxiety-baby-bronze-repair-put |  
+| bip_39_word_dash_7 | cross-anxiety-baby-bronze-repair-put-debris |  
+| bip_39_word_dash_8 | cross-anxiety-baby-bronze-repair-put-debris-void |  
+| bip_39_word_dash_9 | cross-anxiety-baby-bronze-repair-put-debris-void-dial |  
 | bip_39_word_new_br_1 | cross |  
 | bip_39_word_new_br_10 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void<br>dial<br>champion |  
 | bip_39_word_new_br_11 | cross<br>anxiety<br>baby<br>bronze<br>repair<br>put<br>debris<br>void<br>dial<br>champion<br>sleep |  
@@ -147,6 +159,18 @@ dial |
 | bip_39_word_space_7 | cross anxiety baby bronze repair put debris |  
 | bip_39_word_space_8 | cross anxiety baby bronze repair put debris void |  
 | bip_39_word_space_9 | cross anxiety baby bronze repair put debris void dial |  
+| bip_39_word_underscore_1 | cross |  
+| bip_39_word_underscore_10 | cross_anxiety_baby_bronze_repair_put_debris_void_dial_champion |  
+| bip_39_word_underscore_11 | cross_anxiety_baby_bronze_repair_put_debris_void_dial_champion_sleep |  
+| bip_39_word_underscore_12 | cross_anxiety_baby_bronze_repair_put_debris_void_dial_champion_sleep_approve |  
+| bip_39_word_underscore_2 | cross_anxiety |  
+| bip_39_word_underscore_3 | cross_anxiety_baby |  
+| bip_39_word_underscore_4 | cross_anxiety_baby_bronze |  
+| bip_39_word_underscore_5 | cross_anxiety_baby_bronze_repair |  
+| bip_39_word_underscore_6 | cross_anxiety_baby_bronze_repair_put |  
+| bip_39_word_underscore_7 | cross_anxiety_baby_bronze_repair_put_debris |  
+| bip_39_word_underscore_8 | cross_anxiety_baby_bronze_repair_put_debris_void |  
+| bip_39_word_underscore_9 | cross_anxiety_baby_bronze_repair_put_debris_void_dial |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rapid |  
+| bip_39_word_dash_10 | rapid-awkward-valve-faint-mom-winner-silk-prepare-enjoy-useful |  
+| bip_39_word_dash_11 | rapid-awkward-valve-faint-mom-winner-silk-prepare-enjoy-useful-alone |  
+| bip_39_word_dash_12 | rapid-awkward-valve-faint-mom-winner-silk-prepare-enjoy-useful-alone-abstract |  
+| bip_39_word_dash_2 | rapid-awkward |  
+| bip_39_word_dash_3 | rapid-awkward-valve |  
+| bip_39_word_dash_4 | rapid-awkward-valve-faint |  
+| bip_39_word_dash_5 | rapid-awkward-valve-faint-mom |  
+| bip_39_word_dash_6 | rapid-awkward-valve-faint-mom-winner |  
+| bip_39_word_dash_7 | rapid-awkward-valve-faint-mom-winner-silk |  
+| bip_39_word_dash_8 | rapid-awkward-valve-faint-mom-winner-silk-prepare |  
+| bip_39_word_dash_9 | rapid-awkward-valve-faint-mom-winner-silk-prepare-enjoy |  
 | bip_39_word_new_br_1 | rapid |  
 | bip_39_word_new_br_10 | rapid<br>awkward<br>valve<br>faint<br>mom<br>winner<br>silk<br>prepare<br>enjoy<br>useful |  
 | bip_39_word_new_br_11 | rapid<br>awkward<br>valve<br>faint<br>mom<br>winner<br>silk<br>prepare<br>enjoy<br>useful<br>alone |  
@@ -147,6 +159,18 @@ enjoy |
 | bip_39_word_space_7 | rapid awkward valve faint mom winner silk |  
 | bip_39_word_space_8 | rapid awkward valve faint mom winner silk prepare |  
 | bip_39_word_space_9 | rapid awkward valve faint mom winner silk prepare enjoy |  
+| bip_39_word_underscore_1 | rapid |  
+| bip_39_word_underscore_10 | rapid_awkward_valve_faint_mom_winner_silk_prepare_enjoy_useful |  
+| bip_39_word_underscore_11 | rapid_awkward_valve_faint_mom_winner_silk_prepare_enjoy_useful_alone |  
+| bip_39_word_underscore_12 | rapid_awkward_valve_faint_mom_winner_silk_prepare_enjoy_useful_alone_abstract |  
+| bip_39_word_underscore_2 | rapid_awkward |  
+| bip_39_word_underscore_3 | rapid_awkward_valve |  
+| bip_39_word_underscore_4 | rapid_awkward_valve_faint |  
+| bip_39_word_underscore_5 | rapid_awkward_valve_faint_mom |  
+| bip_39_word_underscore_6 | rapid_awkward_valve_faint_mom_winner |  
+| bip_39_word_underscore_7 | rapid_awkward_valve_faint_mom_winner_silk |  
+| bip_39_word_underscore_8 | rapid_awkward_valve_faint_mom_winner_silk_prepare |  
+| bip_39_word_underscore_9 | rapid_awkward_valve_faint_mom_winner_silk_prepare_enjoy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

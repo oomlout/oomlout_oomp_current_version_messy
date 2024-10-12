@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wheat
+bip_39_word_dash_10: wheat-tank-blame-furnace-swallow-twenty-subway-glow-roast-farm
+bip_39_word_dash_11: wheat-tank-blame-furnace-swallow-twenty-subway-glow-roast-farm-junior
+bip_39_word_dash_12: wheat-tank-blame-furnace-swallow-twenty-subway-glow-roast-farm-junior-arctic
+bip_39_word_dash_2: wheat-tank
+bip_39_word_dash_3: wheat-tank-blame
+bip_39_word_dash_4: wheat-tank-blame-furnace
+bip_39_word_dash_5: wheat-tank-blame-furnace-swallow
+bip_39_word_dash_6: wheat-tank-blame-furnace-swallow-twenty
+bip_39_word_dash_7: wheat-tank-blame-furnace-swallow-twenty-subway
+bip_39_word_dash_8: wheat-tank-blame-furnace-swallow-twenty-subway-glow
+bip_39_word_dash_9: wheat-tank-blame-furnace-swallow-twenty-subway-glow-roast
 bip_39_word_new_br_1: wheat
 bip_39_word_new_br_10: wheat<br>tank<br>blame<br>furnace<br>swallow<br>twenty<br>subway<br>glow<br>roast<br>farm
 bip_39_word_new_br_11: wheat<br>tank<br>blame<br>furnace<br>swallow<br>twenty<br>subway<br>glow<br>roast<br>farm<br>junior
@@ -193,6 +205,18 @@ bip_39_word_space_6: wheat tank blame furnace swallow twenty
 bip_39_word_space_7: wheat tank blame furnace swallow twenty subway
 bip_39_word_space_8: wheat tank blame furnace swallow twenty subway glow
 bip_39_word_space_9: wheat tank blame furnace swallow twenty subway glow roast
+bip_39_word_underscore_1: wheat
+bip_39_word_underscore_10: wheat_tank_blame_furnace_swallow_twenty_subway_glow_roast_farm
+bip_39_word_underscore_11: wheat_tank_blame_furnace_swallow_twenty_subway_glow_roast_farm_junior
+bip_39_word_underscore_12: wheat_tank_blame_furnace_swallow_twenty_subway_glow_roast_farm_junior_arctic
+bip_39_word_underscore_2: wheat_tank
+bip_39_word_underscore_3: wheat_tank_blame
+bip_39_word_underscore_4: wheat_tank_blame_furnace
+bip_39_word_underscore_5: wheat_tank_blame_furnace_swallow
+bip_39_word_underscore_6: wheat_tank_blame_furnace_swallow_twenty
+bip_39_word_underscore_7: wheat_tank_blame_furnace_swallow_twenty_subway
+bip_39_word_underscore_8: wheat_tank_blame_furnace_swallow_twenty_subway_glow
+bip_39_word_underscore_9: wheat_tank_blame_furnace_swallow_twenty_subway_glow_roast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

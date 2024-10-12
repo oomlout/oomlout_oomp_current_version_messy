@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | motor |  
+| bip_39_word_dash_10 | motor-invest-same-suspect-hazard-prize-sleep-before-dress-photo |  
+| bip_39_word_dash_11 | motor-invest-same-suspect-hazard-prize-sleep-before-dress-photo-reveal |  
+| bip_39_word_dash_12 | motor-invest-same-suspect-hazard-prize-sleep-before-dress-photo-reveal-aim |  
+| bip_39_word_dash_2 | motor-invest |  
+| bip_39_word_dash_3 | motor-invest-same |  
+| bip_39_word_dash_4 | motor-invest-same-suspect |  
+| bip_39_word_dash_5 | motor-invest-same-suspect-hazard |  
+| bip_39_word_dash_6 | motor-invest-same-suspect-hazard-prize |  
+| bip_39_word_dash_7 | motor-invest-same-suspect-hazard-prize-sleep |  
+| bip_39_word_dash_8 | motor-invest-same-suspect-hazard-prize-sleep-before |  
+| bip_39_word_dash_9 | motor-invest-same-suspect-hazard-prize-sleep-before-dress |  
 | bip_39_word_new_br_1 | motor |  
 | bip_39_word_new_br_10 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo |  
 | bip_39_word_new_br_11 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo<br>reveal |  
@@ -147,6 +159,18 @@ dress |
 | bip_39_word_space_7 | motor invest same suspect hazard prize sleep |  
 | bip_39_word_space_8 | motor invest same suspect hazard prize sleep before |  
 | bip_39_word_space_9 | motor invest same suspect hazard prize sleep before dress |  
+| bip_39_word_underscore_1 | motor |  
+| bip_39_word_underscore_10 | motor_invest_same_suspect_hazard_prize_sleep_before_dress_photo |  
+| bip_39_word_underscore_11 | motor_invest_same_suspect_hazard_prize_sleep_before_dress_photo_reveal |  
+| bip_39_word_underscore_12 | motor_invest_same_suspect_hazard_prize_sleep_before_dress_photo_reveal_aim |  
+| bip_39_word_underscore_2 | motor_invest |  
+| bip_39_word_underscore_3 | motor_invest_same |  
+| bip_39_word_underscore_4 | motor_invest_same_suspect |  
+| bip_39_word_underscore_5 | motor_invest_same_suspect_hazard |  
+| bip_39_word_underscore_6 | motor_invest_same_suspect_hazard_prize |  
+| bip_39_word_underscore_7 | motor_invest_same_suspect_hazard_prize_sleep |  
+| bip_39_word_underscore_8 | motor_invest_same_suspect_hazard_prize_sleep_before |  
+| bip_39_word_underscore_9 | motor_invest_same_suspect_hazard_prize_sleep_before_dress |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

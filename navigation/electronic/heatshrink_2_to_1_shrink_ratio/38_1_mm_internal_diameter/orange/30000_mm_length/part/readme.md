@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sheriff |  
+| bip_39_word_dash_10 | sheriff-lesson-permit-gesture-fiscal-meat-edge-six-way-era |  
+| bip_39_word_dash_11 | sheriff-lesson-permit-gesture-fiscal-meat-edge-six-way-era-employ |  
+| bip_39_word_dash_12 | sheriff-lesson-permit-gesture-fiscal-meat-edge-six-way-era-employ-accuse |  
+| bip_39_word_dash_2 | sheriff-lesson |  
+| bip_39_word_dash_3 | sheriff-lesson-permit |  
+| bip_39_word_dash_4 | sheriff-lesson-permit-gesture |  
+| bip_39_word_dash_5 | sheriff-lesson-permit-gesture-fiscal |  
+| bip_39_word_dash_6 | sheriff-lesson-permit-gesture-fiscal-meat |  
+| bip_39_word_dash_7 | sheriff-lesson-permit-gesture-fiscal-meat-edge |  
+| bip_39_word_dash_8 | sheriff-lesson-permit-gesture-fiscal-meat-edge-six |  
+| bip_39_word_dash_9 | sheriff-lesson-permit-gesture-fiscal-meat-edge-six-way |  
 | bip_39_word_new_br_1 | sheriff |  
 | bip_39_word_new_br_10 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six<br>way<br>era |  
 | bip_39_word_new_br_11 | sheriff<br>lesson<br>permit<br>gesture<br>fiscal<br>meat<br>edge<br>six<br>way<br>era<br>employ |  
@@ -147,6 +159,18 @@ way |
 | bip_39_word_space_7 | sheriff lesson permit gesture fiscal meat edge |  
 | bip_39_word_space_8 | sheriff lesson permit gesture fiscal meat edge six |  
 | bip_39_word_space_9 | sheriff lesson permit gesture fiscal meat edge six way |  
+| bip_39_word_underscore_1 | sheriff |  
+| bip_39_word_underscore_10 | sheriff_lesson_permit_gesture_fiscal_meat_edge_six_way_era |  
+| bip_39_word_underscore_11 | sheriff_lesson_permit_gesture_fiscal_meat_edge_six_way_era_employ |  
+| bip_39_word_underscore_12 | sheriff_lesson_permit_gesture_fiscal_meat_edge_six_way_era_employ_accuse |  
+| bip_39_word_underscore_2 | sheriff_lesson |  
+| bip_39_word_underscore_3 | sheriff_lesson_permit |  
+| bip_39_word_underscore_4 | sheriff_lesson_permit_gesture |  
+| bip_39_word_underscore_5 | sheriff_lesson_permit_gesture_fiscal |  
+| bip_39_word_underscore_6 | sheriff_lesson_permit_gesture_fiscal_meat |  
+| bip_39_word_underscore_7 | sheriff_lesson_permit_gesture_fiscal_meat_edge |  
+| bip_39_word_underscore_8 | sheriff_lesson_permit_gesture_fiscal_meat_edge_six |  
+| bip_39_word_underscore_9 | sheriff_lesson_permit_gesture_fiscal_meat_edge_six_way |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

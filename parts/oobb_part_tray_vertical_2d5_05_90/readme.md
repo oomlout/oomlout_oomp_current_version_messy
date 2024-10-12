@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | robot |  
+| bip_39_word_dash_10 | robot-basket-cruel-hurt-frame-kangaroo-feed-poet-deny-intact |  
+| bip_39_word_dash_11 | robot-basket-cruel-hurt-frame-kangaroo-feed-poet-deny-intact-wrestle |  
+| bip_39_word_dash_12 | robot-basket-cruel-hurt-frame-kangaroo-feed-poet-deny-intact-wrestle-abuse |  
+| bip_39_word_dash_2 | robot-basket |  
+| bip_39_word_dash_3 | robot-basket-cruel |  
+| bip_39_word_dash_4 | robot-basket-cruel-hurt |  
+| bip_39_word_dash_5 | robot-basket-cruel-hurt-frame |  
+| bip_39_word_dash_6 | robot-basket-cruel-hurt-frame-kangaroo |  
+| bip_39_word_dash_7 | robot-basket-cruel-hurt-frame-kangaroo-feed |  
+| bip_39_word_dash_8 | robot-basket-cruel-hurt-frame-kangaroo-feed-poet |  
+| bip_39_word_dash_9 | robot-basket-cruel-hurt-frame-kangaroo-feed-poet-deny |  
 | bip_39_word_new_br_1 | robot |  
 | bip_39_word_new_br_10 | robot<br>basket<br>cruel<br>hurt<br>frame<br>kangaroo<br>feed<br>poet<br>deny<br>intact |  
 | bip_39_word_new_br_11 | robot<br>basket<br>cruel<br>hurt<br>frame<br>kangaroo<br>feed<br>poet<br>deny<br>intact<br>wrestle |  
@@ -147,6 +159,18 @@ deny |
 | bip_39_word_space_7 | robot basket cruel hurt frame kangaroo feed |  
 | bip_39_word_space_8 | robot basket cruel hurt frame kangaroo feed poet |  
 | bip_39_word_space_9 | robot basket cruel hurt frame kangaroo feed poet deny |  
+| bip_39_word_underscore_1 | robot |  
+| bip_39_word_underscore_10 | robot_basket_cruel_hurt_frame_kangaroo_feed_poet_deny_intact |  
+| bip_39_word_underscore_11 | robot_basket_cruel_hurt_frame_kangaroo_feed_poet_deny_intact_wrestle |  
+| bip_39_word_underscore_12 | robot_basket_cruel_hurt_frame_kangaroo_feed_poet_deny_intact_wrestle_abuse |  
+| bip_39_word_underscore_2 | robot_basket |  
+| bip_39_word_underscore_3 | robot_basket_cruel |  
+| bip_39_word_underscore_4 | robot_basket_cruel_hurt |  
+| bip_39_word_underscore_5 | robot_basket_cruel_hurt_frame |  
+| bip_39_word_underscore_6 | robot_basket_cruel_hurt_frame_kangaroo |  
+| bip_39_word_underscore_7 | robot_basket_cruel_hurt_frame_kangaroo_feed |  
+| bip_39_word_underscore_8 | robot_basket_cruel_hurt_frame_kangaroo_feed_poet |  
+| bip_39_word_underscore_9 | robot_basket_cruel_hurt_frame_kangaroo_feed_poet_deny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

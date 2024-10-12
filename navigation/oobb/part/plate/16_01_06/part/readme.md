@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gadget |  
+| bip_39_word_dash_10 | gadget-extra-fall-cruel-decrease-ask-dirt-wet-design-bird |  
+| bip_39_word_dash_11 | gadget-extra-fall-cruel-decrease-ask-dirt-wet-design-bird-use |  
+| bip_39_word_dash_12 | gadget-extra-fall-cruel-decrease-ask-dirt-wet-design-bird-use-angle |  
+| bip_39_word_dash_2 | gadget-extra |  
+| bip_39_word_dash_3 | gadget-extra-fall |  
+| bip_39_word_dash_4 | gadget-extra-fall-cruel |  
+| bip_39_word_dash_5 | gadget-extra-fall-cruel-decrease |  
+| bip_39_word_dash_6 | gadget-extra-fall-cruel-decrease-ask |  
+| bip_39_word_dash_7 | gadget-extra-fall-cruel-decrease-ask-dirt |  
+| bip_39_word_dash_8 | gadget-extra-fall-cruel-decrease-ask-dirt-wet |  
+| bip_39_word_dash_9 | gadget-extra-fall-cruel-decrease-ask-dirt-wet-design |  
 | bip_39_word_new_br_1 | gadget |  
 | bip_39_word_new_br_10 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird |  
 | bip_39_word_new_br_11 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird<br>use |  
@@ -147,6 +159,18 @@ design |
 | bip_39_word_space_7 | gadget extra fall cruel decrease ask dirt |  
 | bip_39_word_space_8 | gadget extra fall cruel decrease ask dirt wet |  
 | bip_39_word_space_9 | gadget extra fall cruel decrease ask dirt wet design |  
+| bip_39_word_underscore_1 | gadget |  
+| bip_39_word_underscore_10 | gadget_extra_fall_cruel_decrease_ask_dirt_wet_design_bird |  
+| bip_39_word_underscore_11 | gadget_extra_fall_cruel_decrease_ask_dirt_wet_design_bird_use |  
+| bip_39_word_underscore_12 | gadget_extra_fall_cruel_decrease_ask_dirt_wet_design_bird_use_angle |  
+| bip_39_word_underscore_2 | gadget_extra |  
+| bip_39_word_underscore_3 | gadget_extra_fall |  
+| bip_39_word_underscore_4 | gadget_extra_fall_cruel |  
+| bip_39_word_underscore_5 | gadget_extra_fall_cruel_decrease |  
+| bip_39_word_underscore_6 | gadget_extra_fall_cruel_decrease_ask |  
+| bip_39_word_underscore_7 | gadget_extra_fall_cruel_decrease_ask_dirt |  
+| bip_39_word_underscore_8 | gadget_extra_fall_cruel_decrease_ask_dirt_wet |  
+| bip_39_word_underscore_9 | gadget_extra_fall_cruel_decrease_ask_dirt_wet_design |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

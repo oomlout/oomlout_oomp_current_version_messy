@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spice |  
+| bip_39_word_dash_10 | spice-fame-scorpion-concert-able-over-voice-install-moon-laundry |  
+| bip_39_word_dash_11 | spice-fame-scorpion-concert-able-over-voice-install-moon-laundry-hawk |  
+| bip_39_word_dash_12 | spice-fame-scorpion-concert-able-over-voice-install-moon-laundry-hawk-armed |  
+| bip_39_word_dash_2 | spice-fame |  
+| bip_39_word_dash_3 | spice-fame-scorpion |  
+| bip_39_word_dash_4 | spice-fame-scorpion-concert |  
+| bip_39_word_dash_5 | spice-fame-scorpion-concert-able |  
+| bip_39_word_dash_6 | spice-fame-scorpion-concert-able-over |  
+| bip_39_word_dash_7 | spice-fame-scorpion-concert-able-over-voice |  
+| bip_39_word_dash_8 | spice-fame-scorpion-concert-able-over-voice-install |  
+| bip_39_word_dash_9 | spice-fame-scorpion-concert-able-over-voice-install-moon |  
 | bip_39_word_new_br_1 | spice |  
 | bip_39_word_new_br_10 | spice<br>fame<br>scorpion<br>concert<br>able<br>over<br>voice<br>install<br>moon<br>laundry |  
 | bip_39_word_new_br_11 | spice<br>fame<br>scorpion<br>concert<br>able<br>over<br>voice<br>install<br>moon<br>laundry<br>hawk |  
@@ -147,6 +159,18 @@ moon |
 | bip_39_word_space_7 | spice fame scorpion concert able over voice |  
 | bip_39_word_space_8 | spice fame scorpion concert able over voice install |  
 | bip_39_word_space_9 | spice fame scorpion concert able over voice install moon |  
+| bip_39_word_underscore_1 | spice |  
+| bip_39_word_underscore_10 | spice_fame_scorpion_concert_able_over_voice_install_moon_laundry |  
+| bip_39_word_underscore_11 | spice_fame_scorpion_concert_able_over_voice_install_moon_laundry_hawk |  
+| bip_39_word_underscore_12 | spice_fame_scorpion_concert_able_over_voice_install_moon_laundry_hawk_armed |  
+| bip_39_word_underscore_2 | spice_fame |  
+| bip_39_word_underscore_3 | spice_fame_scorpion |  
+| bip_39_word_underscore_4 | spice_fame_scorpion_concert |  
+| bip_39_word_underscore_5 | spice_fame_scorpion_concert_able |  
+| bip_39_word_underscore_6 | spice_fame_scorpion_concert_able_over |  
+| bip_39_word_underscore_7 | spice_fame_scorpion_concert_able_over_voice |  
+| bip_39_word_underscore_8 | spice_fame_scorpion_concert_able_over_voice_install |  
+| bip_39_word_underscore_9 | spice_fame_scorpion_concert_able_over_voice_install_moon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: build
+bip_39_word_dash_10: build-labor-cool-talk-funny-still-stand-master-oxygen-media
+bip_39_word_dash_11: build-labor-cool-talk-funny-still-stand-master-oxygen-media-income
+bip_39_word_dash_12: build-labor-cool-talk-funny-still-stand-master-oxygen-media-income-area
+bip_39_word_dash_2: build-labor
+bip_39_word_dash_3: build-labor-cool
+bip_39_word_dash_4: build-labor-cool-talk
+bip_39_word_dash_5: build-labor-cool-talk-funny
+bip_39_word_dash_6: build-labor-cool-talk-funny-still
+bip_39_word_dash_7: build-labor-cool-talk-funny-still-stand
+bip_39_word_dash_8: build-labor-cool-talk-funny-still-stand-master
+bip_39_word_dash_9: build-labor-cool-talk-funny-still-stand-master-oxygen
 bip_39_word_new_br_1: build
 bip_39_word_new_br_10: build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master<br>oxygen<br>media
 bip_39_word_new_br_11: build<br>labor<br>cool<br>talk<br>funny<br>still<br>stand<br>master<br>oxygen<br>media<br>income
@@ -193,6 +205,18 @@ bip_39_word_space_6: build labor cool talk funny still
 bip_39_word_space_7: build labor cool talk funny still stand
 bip_39_word_space_8: build labor cool talk funny still stand master
 bip_39_word_space_9: build labor cool talk funny still stand master oxygen
+bip_39_word_underscore_1: build
+bip_39_word_underscore_10: build_labor_cool_talk_funny_still_stand_master_oxygen_media
+bip_39_word_underscore_11: build_labor_cool_talk_funny_still_stand_master_oxygen_media_income
+bip_39_word_underscore_12: build_labor_cool_talk_funny_still_stand_master_oxygen_media_income_area
+bip_39_word_underscore_2: build_labor
+bip_39_word_underscore_3: build_labor_cool
+bip_39_word_underscore_4: build_labor_cool_talk
+bip_39_word_underscore_5: build_labor_cool_talk_funny
+bip_39_word_underscore_6: build_labor_cool_talk_funny_still
+bip_39_word_underscore_7: build_labor_cool_talk_funny_still_stand
+bip_39_word_underscore_8: build_labor_cool_talk_funny_still_stand_master
+bip_39_word_underscore_9: build_labor_cool_talk_funny_still_stand_master_oxygen
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unveil
+bip_39_word_dash_10: unveil-light-burger-panic-grab-yard-again-jacket-social-catch
+bip_39_word_dash_11: unveil-light-burger-panic-grab-yard-again-jacket-social-catch-fault
+bip_39_word_dash_12: unveil-light-burger-panic-grab-yard-again-jacket-social-catch-fault-afford
+bip_39_word_dash_2: unveil-light
+bip_39_word_dash_3: unveil-light-burger
+bip_39_word_dash_4: unveil-light-burger-panic
+bip_39_word_dash_5: unveil-light-burger-panic-grab
+bip_39_word_dash_6: unveil-light-burger-panic-grab-yard
+bip_39_word_dash_7: unveil-light-burger-panic-grab-yard-again
+bip_39_word_dash_8: unveil-light-burger-panic-grab-yard-again-jacket
+bip_39_word_dash_9: unveil-light-burger-panic-grab-yard-again-jacket-social
 bip_39_word_new_br_1: unveil
 bip_39_word_new_br_10: unveil<br>light<br>burger<br>panic<br>grab<br>yard<br>again<br>jacket<br>social<br>catch
 bip_39_word_new_br_11: unveil<br>light<br>burger<br>panic<br>grab<br>yard<br>again<br>jacket<br>social<br>catch<br>fault
@@ -193,6 +205,18 @@ bip_39_word_space_6: unveil light burger panic grab yard
 bip_39_word_space_7: unveil light burger panic grab yard again
 bip_39_word_space_8: unveil light burger panic grab yard again jacket
 bip_39_word_space_9: unveil light burger panic grab yard again jacket social
+bip_39_word_underscore_1: unveil
+bip_39_word_underscore_10: unveil_light_burger_panic_grab_yard_again_jacket_social_catch
+bip_39_word_underscore_11: unveil_light_burger_panic_grab_yard_again_jacket_social_catch_fault
+bip_39_word_underscore_12: unveil_light_burger_panic_grab_yard_again_jacket_social_catch_fault_afford
+bip_39_word_underscore_2: unveil_light
+bip_39_word_underscore_3: unveil_light_burger
+bip_39_word_underscore_4: unveil_light_burger_panic
+bip_39_word_underscore_5: unveil_light_burger_panic_grab
+bip_39_word_underscore_6: unveil_light_burger_panic_grab_yard
+bip_39_word_underscore_7: unveil_light_burger_panic_grab_yard_again
+bip_39_word_underscore_8: unveil_light_burger_panic_grab_yard_again_jacket
+bip_39_word_underscore_9: unveil_light_burger_panic_grab_yard_again_jacket_social
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

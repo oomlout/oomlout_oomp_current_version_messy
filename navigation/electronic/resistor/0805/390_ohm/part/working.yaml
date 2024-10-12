@@ -1,3 +1,15 @@
+bip_39_word_dash_1: belt
+bip_39_word_dash_10: belt-supreme-gentle-cheap-pumpkin-sick-twelve-fatigue-enable-parent
+bip_39_word_dash_11: belt-supreme-gentle-cheap-pumpkin-sick-twelve-fatigue-enable-parent-vacuum
+bip_39_word_dash_12: belt-supreme-gentle-cheap-pumpkin-sick-twelve-fatigue-enable-parent-vacuum-air
+bip_39_word_dash_2: belt-supreme
+bip_39_word_dash_3: belt-supreme-gentle
+bip_39_word_dash_4: belt-supreme-gentle-cheap
+bip_39_word_dash_5: belt-supreme-gentle-cheap-pumpkin
+bip_39_word_dash_6: belt-supreme-gentle-cheap-pumpkin-sick
+bip_39_word_dash_7: belt-supreme-gentle-cheap-pumpkin-sick-twelve
+bip_39_word_dash_8: belt-supreme-gentle-cheap-pumpkin-sick-twelve-fatigue
+bip_39_word_dash_9: belt-supreme-gentle-cheap-pumpkin-sick-twelve-fatigue-enable
 bip_39_word_new_br_1: belt
 bip_39_word_new_br_10: belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue<br>enable<br>parent
 bip_39_word_new_br_11: belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue<br>enable<br>parent<br>vacuum
@@ -194,6 +206,18 @@ bip_39_word_space_6: belt supreme gentle cheap pumpkin sick
 bip_39_word_space_7: belt supreme gentle cheap pumpkin sick twelve
 bip_39_word_space_8: belt supreme gentle cheap pumpkin sick twelve fatigue
 bip_39_word_space_9: belt supreme gentle cheap pumpkin sick twelve fatigue enable
+bip_39_word_underscore_1: belt
+bip_39_word_underscore_10: belt_supreme_gentle_cheap_pumpkin_sick_twelve_fatigue_enable_parent
+bip_39_word_underscore_11: belt_supreme_gentle_cheap_pumpkin_sick_twelve_fatigue_enable_parent_vacuum
+bip_39_word_underscore_12: belt_supreme_gentle_cheap_pumpkin_sick_twelve_fatigue_enable_parent_vacuum_air
+bip_39_word_underscore_2: belt_supreme
+bip_39_word_underscore_3: belt_supreme_gentle
+bip_39_word_underscore_4: belt_supreme_gentle_cheap
+bip_39_word_underscore_5: belt_supreme_gentle_cheap_pumpkin
+bip_39_word_underscore_6: belt_supreme_gentle_cheap_pumpkin_sick
+bip_39_word_underscore_7: belt_supreme_gentle_cheap_pumpkin_sick_twelve
+bip_39_word_underscore_8: belt_supreme_gentle_cheap_pumpkin_sick_twelve_fatigue
+bip_39_word_underscore_9: belt_supreme_gentle_cheap_pumpkin_sick_twelve_fatigue_enable
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

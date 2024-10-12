@@ -1,3 +1,15 @@
+bip_39_word_dash_1: column
+bip_39_word_dash_10: column-issue-cannon-decline-climb-sunny-ostrich-firm-shove-cost
+bip_39_word_dash_11: column-issue-cannon-decline-climb-sunny-ostrich-firm-shove-cost-debate
+bip_39_word_dash_12: column-issue-cannon-decline-climb-sunny-ostrich-firm-shove-cost-debate-ask
+bip_39_word_dash_2: column-issue
+bip_39_word_dash_3: column-issue-cannon
+bip_39_word_dash_4: column-issue-cannon-decline
+bip_39_word_dash_5: column-issue-cannon-decline-climb
+bip_39_word_dash_6: column-issue-cannon-decline-climb-sunny
+bip_39_word_dash_7: column-issue-cannon-decline-climb-sunny-ostrich
+bip_39_word_dash_8: column-issue-cannon-decline-climb-sunny-ostrich-firm
+bip_39_word_dash_9: column-issue-cannon-decline-climb-sunny-ostrich-firm-shove
 bip_39_word_new_br_1: column
 bip_39_word_new_br_10: column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm<br>shove<br>cost
 bip_39_word_new_br_11: column<br>issue<br>cannon<br>decline<br>climb<br>sunny<br>ostrich<br>firm<br>shove<br>cost<br>debate
@@ -193,6 +205,18 @@ bip_39_word_space_6: column issue cannon decline climb sunny
 bip_39_word_space_7: column issue cannon decline climb sunny ostrich
 bip_39_word_space_8: column issue cannon decline climb sunny ostrich firm
 bip_39_word_space_9: column issue cannon decline climb sunny ostrich firm shove
+bip_39_word_underscore_1: column
+bip_39_word_underscore_10: column_issue_cannon_decline_climb_sunny_ostrich_firm_shove_cost
+bip_39_word_underscore_11: column_issue_cannon_decline_climb_sunny_ostrich_firm_shove_cost_debate
+bip_39_word_underscore_12: column_issue_cannon_decline_climb_sunny_ostrich_firm_shove_cost_debate_ask
+bip_39_word_underscore_2: column_issue
+bip_39_word_underscore_3: column_issue_cannon
+bip_39_word_underscore_4: column_issue_cannon_decline
+bip_39_word_underscore_5: column_issue_cannon_decline_climb
+bip_39_word_underscore_6: column_issue_cannon_decline_climb_sunny
+bip_39_word_underscore_7: column_issue_cannon_decline_climb_sunny_ostrich
+bip_39_word_underscore_8: column_issue_cannon_decline_climb_sunny_ostrich_firm
+bip_39_word_underscore_9: column_issue_cannon_decline_climb_sunny_ostrich_firm_shove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

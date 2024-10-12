@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dinosaur |  
+| bip_39_word_dash_10 | dinosaur-panic-scrap-female-lunar-bread-issue-basket-awkward-museum |  
+| bip_39_word_dash_11 | dinosaur-panic-scrap-female-lunar-bread-issue-basket-awkward-museum-wild |  
+| bip_39_word_dash_12 | dinosaur-panic-scrap-female-lunar-bread-issue-basket-awkward-museum-wild-avocado |  
+| bip_39_word_dash_2 | dinosaur-panic |  
+| bip_39_word_dash_3 | dinosaur-panic-scrap |  
+| bip_39_word_dash_4 | dinosaur-panic-scrap-female |  
+| bip_39_word_dash_5 | dinosaur-panic-scrap-female-lunar |  
+| bip_39_word_dash_6 | dinosaur-panic-scrap-female-lunar-bread |  
+| bip_39_word_dash_7 | dinosaur-panic-scrap-female-lunar-bread-issue |  
+| bip_39_word_dash_8 | dinosaur-panic-scrap-female-lunar-bread-issue-basket |  
+| bip_39_word_dash_9 | dinosaur-panic-scrap-female-lunar-bread-issue-basket-awkward |  
 | bip_39_word_new_br_1 | dinosaur |  
 | bip_39_word_new_br_10 | dinosaur<br>panic<br>scrap<br>female<br>lunar<br>bread<br>issue<br>basket<br>awkward<br>museum |  
 | bip_39_word_new_br_11 | dinosaur<br>panic<br>scrap<br>female<br>lunar<br>bread<br>issue<br>basket<br>awkward<br>museum<br>wild |  
@@ -147,6 +159,18 @@ awkward |
 | bip_39_word_space_7 | dinosaur panic scrap female lunar bread issue |  
 | bip_39_word_space_8 | dinosaur panic scrap female lunar bread issue basket |  
 | bip_39_word_space_9 | dinosaur panic scrap female lunar bread issue basket awkward |  
+| bip_39_word_underscore_1 | dinosaur |  
+| bip_39_word_underscore_10 | dinosaur_panic_scrap_female_lunar_bread_issue_basket_awkward_museum |  
+| bip_39_word_underscore_11 | dinosaur_panic_scrap_female_lunar_bread_issue_basket_awkward_museum_wild |  
+| bip_39_word_underscore_12 | dinosaur_panic_scrap_female_lunar_bread_issue_basket_awkward_museum_wild_avocado |  
+| bip_39_word_underscore_2 | dinosaur_panic |  
+| bip_39_word_underscore_3 | dinosaur_panic_scrap |  
+| bip_39_word_underscore_4 | dinosaur_panic_scrap_female |  
+| bip_39_word_underscore_5 | dinosaur_panic_scrap_female_lunar |  
+| bip_39_word_underscore_6 | dinosaur_panic_scrap_female_lunar_bread |  
+| bip_39_word_underscore_7 | dinosaur_panic_scrap_female_lunar_bread_issue |  
+| bip_39_word_underscore_8 | dinosaur_panic_scrap_female_lunar_bread_issue_basket |  
+| bip_39_word_underscore_9 | dinosaur_panic_scrap_female_lunar_bread_issue_basket_awkward |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

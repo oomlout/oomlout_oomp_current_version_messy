@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tent
+bip_39_word_dash_10: tent-main-cute-modify-bulb-apology-belt-cross-issue-perfect
+bip_39_word_dash_11: tent-main-cute-modify-bulb-apology-belt-cross-issue-perfect-rocket
+bip_39_word_dash_12: tent-main-cute-modify-bulb-apology-belt-cross-issue-perfect-rocket-aim
+bip_39_word_dash_2: tent-main
+bip_39_word_dash_3: tent-main-cute
+bip_39_word_dash_4: tent-main-cute-modify
+bip_39_word_dash_5: tent-main-cute-modify-bulb
+bip_39_word_dash_6: tent-main-cute-modify-bulb-apology
+bip_39_word_dash_7: tent-main-cute-modify-bulb-apology-belt
+bip_39_word_dash_8: tent-main-cute-modify-bulb-apology-belt-cross
+bip_39_word_dash_9: tent-main-cute-modify-bulb-apology-belt-cross-issue
 bip_39_word_new_br_1: tent
 bip_39_word_new_br_10: tent<br>main<br>cute<br>modify<br>bulb<br>apology<br>belt<br>cross<br>issue<br>perfect
 bip_39_word_new_br_11: tent<br>main<br>cute<br>modify<br>bulb<br>apology<br>belt<br>cross<br>issue<br>perfect<br>rocket
@@ -193,6 +205,18 @@ bip_39_word_space_6: tent main cute modify bulb apology
 bip_39_word_space_7: tent main cute modify bulb apology belt
 bip_39_word_space_8: tent main cute modify bulb apology belt cross
 bip_39_word_space_9: tent main cute modify bulb apology belt cross issue
+bip_39_word_underscore_1: tent
+bip_39_word_underscore_10: tent_main_cute_modify_bulb_apology_belt_cross_issue_perfect
+bip_39_word_underscore_11: tent_main_cute_modify_bulb_apology_belt_cross_issue_perfect_rocket
+bip_39_word_underscore_12: tent_main_cute_modify_bulb_apology_belt_cross_issue_perfect_rocket_aim
+bip_39_word_underscore_2: tent_main
+bip_39_word_underscore_3: tent_main_cute
+bip_39_word_underscore_4: tent_main_cute_modify
+bip_39_word_underscore_5: tent_main_cute_modify_bulb
+bip_39_word_underscore_6: tent_main_cute_modify_bulb_apology
+bip_39_word_underscore_7: tent_main_cute_modify_bulb_apology_belt
+bip_39_word_underscore_8: tent_main_cute_modify_bulb_apology_belt_cross
+bip_39_word_underscore_9: tent_main_cute_modify_bulb_apology_belt_cross_issue
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

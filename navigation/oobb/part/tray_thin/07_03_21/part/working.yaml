@@ -1,3 +1,15 @@
+bip_39_word_dash_1: reward
+bip_39_word_dash_10: reward-oil-major-suspect-evolve-pear-distance-chapter-vanish-clinic
+bip_39_word_dash_11: reward-oil-major-suspect-evolve-pear-distance-chapter-vanish-clinic-purse
+bip_39_word_dash_12: reward-oil-major-suspect-evolve-pear-distance-chapter-vanish-clinic-purse-atom
+bip_39_word_dash_2: reward-oil
+bip_39_word_dash_3: reward-oil-major
+bip_39_word_dash_4: reward-oil-major-suspect
+bip_39_word_dash_5: reward-oil-major-suspect-evolve
+bip_39_word_dash_6: reward-oil-major-suspect-evolve-pear
+bip_39_word_dash_7: reward-oil-major-suspect-evolve-pear-distance
+bip_39_word_dash_8: reward-oil-major-suspect-evolve-pear-distance-chapter
+bip_39_word_dash_9: reward-oil-major-suspect-evolve-pear-distance-chapter-vanish
 bip_39_word_new_br_1: reward
 bip_39_word_new_br_10: reward<br>oil<br>major<br>suspect<br>evolve<br>pear<br>distance<br>chapter<br>vanish<br>clinic
 bip_39_word_new_br_11: reward<br>oil<br>major<br>suspect<br>evolve<br>pear<br>distance<br>chapter<br>vanish<br>clinic<br>purse
@@ -194,6 +206,18 @@ bip_39_word_space_6: reward oil major suspect evolve pear
 bip_39_word_space_7: reward oil major suspect evolve pear distance
 bip_39_word_space_8: reward oil major suspect evolve pear distance chapter
 bip_39_word_space_9: reward oil major suspect evolve pear distance chapter vanish
+bip_39_word_underscore_1: reward
+bip_39_word_underscore_10: reward_oil_major_suspect_evolve_pear_distance_chapter_vanish_clinic
+bip_39_word_underscore_11: reward_oil_major_suspect_evolve_pear_distance_chapter_vanish_clinic_purse
+bip_39_word_underscore_12: reward_oil_major_suspect_evolve_pear_distance_chapter_vanish_clinic_purse_atom
+bip_39_word_underscore_2: reward_oil
+bip_39_word_underscore_3: reward_oil_major
+bip_39_word_underscore_4: reward_oil_major_suspect
+bip_39_word_underscore_5: reward_oil_major_suspect_evolve
+bip_39_word_underscore_6: reward_oil_major_suspect_evolve_pear
+bip_39_word_underscore_7: reward_oil_major_suspect_evolve_pear_distance
+bip_39_word_underscore_8: reward_oil_major_suspect_evolve_pear_distance_chapter
+bip_39_word_underscore_9: reward_oil_major_suspect_evolve_pear_distance_chapter_vanish
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

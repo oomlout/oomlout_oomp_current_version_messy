@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebuild |  
+| bip_39_word_dash_10 | rebuild-sketch-such-enemy-cake-grow-yard-barely-usual-spider |  
+| bip_39_word_dash_11 | rebuild-sketch-such-enemy-cake-grow-yard-barely-usual-spider-either |  
+| bip_39_word_dash_2 | rebuild-sketch |  
+| bip_39_word_dash_3 | rebuild-sketch-such |  
+| bip_39_word_dash_4 | rebuild-sketch-such-enemy |  
+| bip_39_word_dash_5 | rebuild-sketch-such-enemy-cake |  
+| bip_39_word_dash_6 | rebuild-sketch-such-enemy-cake-grow |  
+| bip_39_word_dash_7 | rebuild-sketch-such-enemy-cake-grow-yard |  
+| bip_39_word_dash_8 | rebuild-sketch-such-enemy-cake-grow-yard-barely |  
+| bip_39_word_dash_9 | rebuild-sketch-such-enemy-cake-grow-yard-barely-usual |  
 | bip_39_word_new_br_1 | rebuild |  
 | bip_39_word_new_br_10 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual<br>spider |  
 | bip_39_word_new_br_11 | rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual<br>spider<br>either |  
@@ -132,6 +143,17 @@ usual |
 | bip_39_word_space_7 | rebuild sketch such enemy cake grow yard |  
 | bip_39_word_space_8 | rebuild sketch such enemy cake grow yard barely |  
 | bip_39_word_space_9 | rebuild sketch such enemy cake grow yard barely usual |  
+| bip_39_word_underscore_1 | rebuild |  
+| bip_39_word_underscore_10 | rebuild_sketch_such_enemy_cake_grow_yard_barely_usual_spider |  
+| bip_39_word_underscore_11 | rebuild_sketch_such_enemy_cake_grow_yard_barely_usual_spider_either |  
+| bip_39_word_underscore_2 | rebuild_sketch |  
+| bip_39_word_underscore_3 | rebuild_sketch_such |  
+| bip_39_word_underscore_4 | rebuild_sketch_such_enemy |  
+| bip_39_word_underscore_5 | rebuild_sketch_such_enemy_cake |  
+| bip_39_word_underscore_6 | rebuild_sketch_such_enemy_cake_grow |  
+| bip_39_word_underscore_7 | rebuild_sketch_such_enemy_cake_grow_yard |  
+| bip_39_word_underscore_8 | rebuild_sketch_such_enemy_cake_grow_yard_barely |  
+| bip_39_word_underscore_9 | rebuild_sketch_such_enemy_cake_grow_yard_barely_usual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

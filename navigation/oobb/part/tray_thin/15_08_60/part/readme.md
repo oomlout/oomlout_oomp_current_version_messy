@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fiscal |  
+| bip_39_word_dash_10 | fiscal-sad-sweet-west-filter-galaxy-abstract-there-shadow-win |  
+| bip_39_word_dash_11 | fiscal-sad-sweet-west-filter-galaxy-abstract-there-shadow-win-fortune |  
+| bip_39_word_dash_12 | fiscal-sad-sweet-west-filter-galaxy-abstract-there-shadow-win-fortune-auto |  
+| bip_39_word_dash_2 | fiscal-sad |  
+| bip_39_word_dash_3 | fiscal-sad-sweet |  
+| bip_39_word_dash_4 | fiscal-sad-sweet-west |  
+| bip_39_word_dash_5 | fiscal-sad-sweet-west-filter |  
+| bip_39_word_dash_6 | fiscal-sad-sweet-west-filter-galaxy |  
+| bip_39_word_dash_7 | fiscal-sad-sweet-west-filter-galaxy-abstract |  
+| bip_39_word_dash_8 | fiscal-sad-sweet-west-filter-galaxy-abstract-there |  
+| bip_39_word_dash_9 | fiscal-sad-sweet-west-filter-galaxy-abstract-there-shadow |  
 | bip_39_word_new_br_1 | fiscal |  
 | bip_39_word_new_br_10 | fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there<br>shadow<br>win |  
 | bip_39_word_new_br_11 | fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there<br>shadow<br>win<br>fortune |  
@@ -147,6 +159,18 @@ shadow |
 | bip_39_word_space_7 | fiscal sad sweet west filter galaxy abstract |  
 | bip_39_word_space_8 | fiscal sad sweet west filter galaxy abstract there |  
 | bip_39_word_space_9 | fiscal sad sweet west filter galaxy abstract there shadow |  
+| bip_39_word_underscore_1 | fiscal |  
+| bip_39_word_underscore_10 | fiscal_sad_sweet_west_filter_galaxy_abstract_there_shadow_win |  
+| bip_39_word_underscore_11 | fiscal_sad_sweet_west_filter_galaxy_abstract_there_shadow_win_fortune |  
+| bip_39_word_underscore_12 | fiscal_sad_sweet_west_filter_galaxy_abstract_there_shadow_win_fortune_auto |  
+| bip_39_word_underscore_2 | fiscal_sad |  
+| bip_39_word_underscore_3 | fiscal_sad_sweet |  
+| bip_39_word_underscore_4 | fiscal_sad_sweet_west |  
+| bip_39_word_underscore_5 | fiscal_sad_sweet_west_filter |  
+| bip_39_word_underscore_6 | fiscal_sad_sweet_west_filter_galaxy |  
+| bip_39_word_underscore_7 | fiscal_sad_sweet_west_filter_galaxy_abstract |  
+| bip_39_word_underscore_8 | fiscal_sad_sweet_west_filter_galaxy_abstract_there |  
+| bip_39_word_underscore_9 | fiscal_sad_sweet_west_filter_galaxy_abstract_there_shadow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

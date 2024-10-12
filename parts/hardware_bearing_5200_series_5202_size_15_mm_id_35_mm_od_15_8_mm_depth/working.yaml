@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hint
+bip_39_word_dash_10: hint-legend-crazy-intact-two-art-trumpet-mix-bunker-spell
+bip_39_word_dash_11: hint-legend-crazy-intact-two-art-trumpet-mix-bunker-spell-swarm
+bip_39_word_dash_12: hint-legend-crazy-intact-two-art-trumpet-mix-bunker-spell-swarm-artefact
+bip_39_word_dash_2: hint-legend
+bip_39_word_dash_3: hint-legend-crazy
+bip_39_word_dash_4: hint-legend-crazy-intact
+bip_39_word_dash_5: hint-legend-crazy-intact-two
+bip_39_word_dash_6: hint-legend-crazy-intact-two-art
+bip_39_word_dash_7: hint-legend-crazy-intact-two-art-trumpet
+bip_39_word_dash_8: hint-legend-crazy-intact-two-art-trumpet-mix
+bip_39_word_dash_9: hint-legend-crazy-intact-two-art-trumpet-mix-bunker
 bip_39_word_new_br_1: hint
 bip_39_word_new_br_10: hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix<br>bunker<br>spell
 bip_39_word_new_br_11: hint<br>legend<br>crazy<br>intact<br>two<br>art<br>trumpet<br>mix<br>bunker<br>spell<br>swarm
@@ -192,6 +204,18 @@ bip_39_word_space_6: hint legend crazy intact two art
 bip_39_word_space_7: hint legend crazy intact two art trumpet
 bip_39_word_space_8: hint legend crazy intact two art trumpet mix
 bip_39_word_space_9: hint legend crazy intact two art trumpet mix bunker
+bip_39_word_underscore_1: hint
+bip_39_word_underscore_10: hint_legend_crazy_intact_two_art_trumpet_mix_bunker_spell
+bip_39_word_underscore_11: hint_legend_crazy_intact_two_art_trumpet_mix_bunker_spell_swarm
+bip_39_word_underscore_12: hint_legend_crazy_intact_two_art_trumpet_mix_bunker_spell_swarm_artefact
+bip_39_word_underscore_2: hint_legend
+bip_39_word_underscore_3: hint_legend_crazy
+bip_39_word_underscore_4: hint_legend_crazy_intact
+bip_39_word_underscore_5: hint_legend_crazy_intact_two
+bip_39_word_underscore_6: hint_legend_crazy_intact_two_art
+bip_39_word_underscore_7: hint_legend_crazy_intact_two_art_trumpet
+bip_39_word_underscore_8: hint_legend_crazy_intact_two_art_trumpet_mix
+bip_39_word_underscore_9: hint_legend_crazy_intact_two_art_trumpet_mix_bunker
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

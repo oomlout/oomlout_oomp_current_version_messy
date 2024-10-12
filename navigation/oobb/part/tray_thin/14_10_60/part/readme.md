@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | timber |  
+| bip_39_word_dash_10 | timber-midnight-trade-display-slot-boost-slight-caught-tower-fat |  
+| bip_39_word_dash_11 | timber-midnight-trade-display-slot-boost-slight-caught-tower-fat-figure |  
+| bip_39_word_dash_12 | timber-midnight-trade-display-slot-boost-slight-caught-tower-fat-figure-attitude |  
+| bip_39_word_dash_2 | timber-midnight |  
+| bip_39_word_dash_3 | timber-midnight-trade |  
+| bip_39_word_dash_4 | timber-midnight-trade-display |  
+| bip_39_word_dash_5 | timber-midnight-trade-display-slot |  
+| bip_39_word_dash_6 | timber-midnight-trade-display-slot-boost |  
+| bip_39_word_dash_7 | timber-midnight-trade-display-slot-boost-slight |  
+| bip_39_word_dash_8 | timber-midnight-trade-display-slot-boost-slight-caught |  
+| bip_39_word_dash_9 | timber-midnight-trade-display-slot-boost-slight-caught-tower |  
 | bip_39_word_new_br_1 | timber |  
 | bip_39_word_new_br_10 | timber<br>midnight<br>trade<br>display<br>slot<br>boost<br>slight<br>caught<br>tower<br>fat |  
 | bip_39_word_new_br_11 | timber<br>midnight<br>trade<br>display<br>slot<br>boost<br>slight<br>caught<br>tower<br>fat<br>figure |  
@@ -147,6 +159,18 @@ tower |
 | bip_39_word_space_7 | timber midnight trade display slot boost slight |  
 | bip_39_word_space_8 | timber midnight trade display slot boost slight caught |  
 | bip_39_word_space_9 | timber midnight trade display slot boost slight caught tower |  
+| bip_39_word_underscore_1 | timber |  
+| bip_39_word_underscore_10 | timber_midnight_trade_display_slot_boost_slight_caught_tower_fat |  
+| bip_39_word_underscore_11 | timber_midnight_trade_display_slot_boost_slight_caught_tower_fat_figure |  
+| bip_39_word_underscore_12 | timber_midnight_trade_display_slot_boost_slight_caught_tower_fat_figure_attitude |  
+| bip_39_word_underscore_2 | timber_midnight |  
+| bip_39_word_underscore_3 | timber_midnight_trade |  
+| bip_39_word_underscore_4 | timber_midnight_trade_display |  
+| bip_39_word_underscore_5 | timber_midnight_trade_display_slot |  
+| bip_39_word_underscore_6 | timber_midnight_trade_display_slot_boost |  
+| bip_39_word_underscore_7 | timber_midnight_trade_display_slot_boost_slight |  
+| bip_39_word_underscore_8 | timber_midnight_trade_display_slot_boost_slight_caught |  
+| bip_39_word_underscore_9 | timber_midnight_trade_display_slot_boost_slight_caught_tower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

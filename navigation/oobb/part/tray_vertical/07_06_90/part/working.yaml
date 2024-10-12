@@ -1,3 +1,15 @@
+bip_39_word_dash_1: kid
+bip_39_word_dash_10: kid-sock-lounge-final-mobile-ignore-shove-globe-margin-argue
+bip_39_word_dash_11: kid-sock-lounge-final-mobile-ignore-shove-globe-margin-argue-library
+bip_39_word_dash_12: kid-sock-lounge-final-mobile-ignore-shove-globe-margin-argue-library-action
+bip_39_word_dash_2: kid-sock
+bip_39_word_dash_3: kid-sock-lounge
+bip_39_word_dash_4: kid-sock-lounge-final
+bip_39_word_dash_5: kid-sock-lounge-final-mobile
+bip_39_word_dash_6: kid-sock-lounge-final-mobile-ignore
+bip_39_word_dash_7: kid-sock-lounge-final-mobile-ignore-shove
+bip_39_word_dash_8: kid-sock-lounge-final-mobile-ignore-shove-globe
+bip_39_word_dash_9: kid-sock-lounge-final-mobile-ignore-shove-globe-margin
 bip_39_word_new_br_1: kid
 bip_39_word_new_br_10: kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe<br>margin<br>argue
 bip_39_word_new_br_11: kid<br>sock<br>lounge<br>final<br>mobile<br>ignore<br>shove<br>globe<br>margin<br>argue<br>library
@@ -193,6 +205,18 @@ bip_39_word_space_6: kid sock lounge final mobile ignore
 bip_39_word_space_7: kid sock lounge final mobile ignore shove
 bip_39_word_space_8: kid sock lounge final mobile ignore shove globe
 bip_39_word_space_9: kid sock lounge final mobile ignore shove globe margin
+bip_39_word_underscore_1: kid
+bip_39_word_underscore_10: kid_sock_lounge_final_mobile_ignore_shove_globe_margin_argue
+bip_39_word_underscore_11: kid_sock_lounge_final_mobile_ignore_shove_globe_margin_argue_library
+bip_39_word_underscore_12: kid_sock_lounge_final_mobile_ignore_shove_globe_margin_argue_library_action
+bip_39_word_underscore_2: kid_sock
+bip_39_word_underscore_3: kid_sock_lounge
+bip_39_word_underscore_4: kid_sock_lounge_final
+bip_39_word_underscore_5: kid_sock_lounge_final_mobile
+bip_39_word_underscore_6: kid_sock_lounge_final_mobile_ignore
+bip_39_word_underscore_7: kid_sock_lounge_final_mobile_ignore_shove
+bip_39_word_underscore_8: kid_sock_lounge_final_mobile_ignore_shove_globe
+bip_39_word_underscore_9: kid_sock_lounge_final_mobile_ignore_shove_globe_margin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

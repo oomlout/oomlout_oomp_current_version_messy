@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | city |  
+| bip_39_word_dash_10 | city-seed-replace-judge-nice-crystal-fly-boil-acoustic-original |  
+| bip_39_word_dash_11 | city-seed-replace-judge-nice-crystal-fly-boil-acoustic-original-sample |  
+| bip_39_word_dash_12 | city-seed-replace-judge-nice-crystal-fly-boil-acoustic-original-sample-aspect |  
+| bip_39_word_dash_2 | city-seed |  
+| bip_39_word_dash_3 | city-seed-replace |  
+| bip_39_word_dash_4 | city-seed-replace-judge |  
+| bip_39_word_dash_5 | city-seed-replace-judge-nice |  
+| bip_39_word_dash_6 | city-seed-replace-judge-nice-crystal |  
+| bip_39_word_dash_7 | city-seed-replace-judge-nice-crystal-fly |  
+| bip_39_word_dash_8 | city-seed-replace-judge-nice-crystal-fly-boil |  
+| bip_39_word_dash_9 | city-seed-replace-judge-nice-crystal-fly-boil-acoustic |  
 | bip_39_word_new_br_1 | city |  
 | bip_39_word_new_br_10 | city<br>seed<br>replace<br>judge<br>nice<br>crystal<br>fly<br>boil<br>acoustic<br>original |  
 | bip_39_word_new_br_11 | city<br>seed<br>replace<br>judge<br>nice<br>crystal<br>fly<br>boil<br>acoustic<br>original<br>sample |  
@@ -147,6 +159,18 @@ acoustic |
 | bip_39_word_space_7 | city seed replace judge nice crystal fly |  
 | bip_39_word_space_8 | city seed replace judge nice crystal fly boil |  
 | bip_39_word_space_9 | city seed replace judge nice crystal fly boil acoustic |  
+| bip_39_word_underscore_1 | city |  
+| bip_39_word_underscore_10 | city_seed_replace_judge_nice_crystal_fly_boil_acoustic_original |  
+| bip_39_word_underscore_11 | city_seed_replace_judge_nice_crystal_fly_boil_acoustic_original_sample |  
+| bip_39_word_underscore_12 | city_seed_replace_judge_nice_crystal_fly_boil_acoustic_original_sample_aspect |  
+| bip_39_word_underscore_2 | city_seed |  
+| bip_39_word_underscore_3 | city_seed_replace |  
+| bip_39_word_underscore_4 | city_seed_replace_judge |  
+| bip_39_word_underscore_5 | city_seed_replace_judge_nice |  
+| bip_39_word_underscore_6 | city_seed_replace_judge_nice_crystal |  
+| bip_39_word_underscore_7 | city_seed_replace_judge_nice_crystal_fly |  
+| bip_39_word_underscore_8 | city_seed_replace_judge_nice_crystal_fly_boil |  
+| bip_39_word_underscore_9 | city_seed_replace_judge_nice_crystal_fly_boil_acoustic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

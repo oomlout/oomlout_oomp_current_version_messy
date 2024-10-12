@@ -1,3 +1,15 @@
+bip_39_word_dash_1: motor
+bip_39_word_dash_10: motor-sick-adult-casino-thing-quality-year-visa-advance-royal
+bip_39_word_dash_11: motor-sick-adult-casino-thing-quality-year-visa-advance-royal-elbow
+bip_39_word_dash_12: motor-sick-adult-casino-thing-quality-year-visa-advance-royal-elbow-asset
+bip_39_word_dash_2: motor-sick
+bip_39_word_dash_3: motor-sick-adult
+bip_39_word_dash_4: motor-sick-adult-casino
+bip_39_word_dash_5: motor-sick-adult-casino-thing
+bip_39_word_dash_6: motor-sick-adult-casino-thing-quality
+bip_39_word_dash_7: motor-sick-adult-casino-thing-quality-year
+bip_39_word_dash_8: motor-sick-adult-casino-thing-quality-year-visa
+bip_39_word_dash_9: motor-sick-adult-casino-thing-quality-year-visa-advance
 bip_39_word_new_br_1: motor
 bip_39_word_new_br_10: motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal
 bip_39_word_new_br_11: motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal<br>elbow
@@ -193,6 +205,18 @@ bip_39_word_space_6: motor sick adult casino thing quality
 bip_39_word_space_7: motor sick adult casino thing quality year
 bip_39_word_space_8: motor sick adult casino thing quality year visa
 bip_39_word_space_9: motor sick adult casino thing quality year visa advance
+bip_39_word_underscore_1: motor
+bip_39_word_underscore_10: motor_sick_adult_casino_thing_quality_year_visa_advance_royal
+bip_39_word_underscore_11: motor_sick_adult_casino_thing_quality_year_visa_advance_royal_elbow
+bip_39_word_underscore_12: motor_sick_adult_casino_thing_quality_year_visa_advance_royal_elbow_asset
+bip_39_word_underscore_2: motor_sick
+bip_39_word_underscore_3: motor_sick_adult
+bip_39_word_underscore_4: motor_sick_adult_casino
+bip_39_word_underscore_5: motor_sick_adult_casino_thing
+bip_39_word_underscore_6: motor_sick_adult_casino_thing_quality
+bip_39_word_underscore_7: motor_sick_adult_casino_thing_quality_year
+bip_39_word_underscore_8: motor_sick_adult_casino_thing_quality_year_visa
+bip_39_word_underscore_9: motor_sick_adult_casino_thing_quality_year_visa_advance
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

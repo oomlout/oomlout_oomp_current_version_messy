@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | useful |  
+| bip_39_word_dash_10 | useful-hire-organ-drift-dinner-burger-leave-inmate-fresh-ring |  
+| bip_39_word_dash_11 | useful-hire-organ-drift-dinner-burger-leave-inmate-fresh-ring-proud |  
+| bip_39_word_dash_12 | useful-hire-organ-drift-dinner-burger-leave-inmate-fresh-ring-proud-arctic |  
+| bip_39_word_dash_2 | useful-hire |  
+| bip_39_word_dash_3 | useful-hire-organ |  
+| bip_39_word_dash_4 | useful-hire-organ-drift |  
+| bip_39_word_dash_5 | useful-hire-organ-drift-dinner |  
+| bip_39_word_dash_6 | useful-hire-organ-drift-dinner-burger |  
+| bip_39_word_dash_7 | useful-hire-organ-drift-dinner-burger-leave |  
+| bip_39_word_dash_8 | useful-hire-organ-drift-dinner-burger-leave-inmate |  
+| bip_39_word_dash_9 | useful-hire-organ-drift-dinner-burger-leave-inmate-fresh |  
 | bip_39_word_new_br_1 | useful |  
 | bip_39_word_new_br_10 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate<br>fresh<br>ring |  
 | bip_39_word_new_br_11 | useful<br>hire<br>organ<br>drift<br>dinner<br>burger<br>leave<br>inmate<br>fresh<br>ring<br>proud |  
@@ -147,6 +159,18 @@ fresh |
 | bip_39_word_space_7 | useful hire organ drift dinner burger leave |  
 | bip_39_word_space_8 | useful hire organ drift dinner burger leave inmate |  
 | bip_39_word_space_9 | useful hire organ drift dinner burger leave inmate fresh |  
+| bip_39_word_underscore_1 | useful |  
+| bip_39_word_underscore_10 | useful_hire_organ_drift_dinner_burger_leave_inmate_fresh_ring |  
+| bip_39_word_underscore_11 | useful_hire_organ_drift_dinner_burger_leave_inmate_fresh_ring_proud |  
+| bip_39_word_underscore_12 | useful_hire_organ_drift_dinner_burger_leave_inmate_fresh_ring_proud_arctic |  
+| bip_39_word_underscore_2 | useful_hire |  
+| bip_39_word_underscore_3 | useful_hire_organ |  
+| bip_39_word_underscore_4 | useful_hire_organ_drift |  
+| bip_39_word_underscore_5 | useful_hire_organ_drift_dinner |  
+| bip_39_word_underscore_6 | useful_hire_organ_drift_dinner_burger |  
+| bip_39_word_underscore_7 | useful_hire_organ_drift_dinner_burger_leave |  
+| bip_39_word_underscore_8 | useful_hire_organ_drift_dinner_burger_leave_inmate |  
+| bip_39_word_underscore_9 | useful_hire_organ_drift_dinner_burger_leave_inmate_fresh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

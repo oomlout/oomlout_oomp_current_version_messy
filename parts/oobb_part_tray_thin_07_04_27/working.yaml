@@ -1,3 +1,15 @@
+bip_39_word_dash_1: swim
+bip_39_word_dash_10: swim-will-citizen-crouch-ramp-they-glue-harbor-egg-hazard
+bip_39_word_dash_11: swim-will-citizen-crouch-ramp-they-glue-harbor-egg-hazard-dizzy
+bip_39_word_dash_12: swim-will-citizen-crouch-ramp-they-glue-harbor-egg-hazard-dizzy-actor
+bip_39_word_dash_2: swim-will
+bip_39_word_dash_3: swim-will-citizen
+bip_39_word_dash_4: swim-will-citizen-crouch
+bip_39_word_dash_5: swim-will-citizen-crouch-ramp
+bip_39_word_dash_6: swim-will-citizen-crouch-ramp-they
+bip_39_word_dash_7: swim-will-citizen-crouch-ramp-they-glue
+bip_39_word_dash_8: swim-will-citizen-crouch-ramp-they-glue-harbor
+bip_39_word_dash_9: swim-will-citizen-crouch-ramp-they-glue-harbor-egg
 bip_39_word_new_br_1: swim
 bip_39_word_new_br_10: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard
 bip_39_word_new_br_11: swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard<br>dizzy
@@ -192,6 +204,18 @@ bip_39_word_space_6: swim will citizen crouch ramp they
 bip_39_word_space_7: swim will citizen crouch ramp they glue
 bip_39_word_space_8: swim will citizen crouch ramp they glue harbor
 bip_39_word_space_9: swim will citizen crouch ramp they glue harbor egg
+bip_39_word_underscore_1: swim
+bip_39_word_underscore_10: swim_will_citizen_crouch_ramp_they_glue_harbor_egg_hazard
+bip_39_word_underscore_11: swim_will_citizen_crouch_ramp_they_glue_harbor_egg_hazard_dizzy
+bip_39_word_underscore_12: swim_will_citizen_crouch_ramp_they_glue_harbor_egg_hazard_dizzy_actor
+bip_39_word_underscore_2: swim_will
+bip_39_word_underscore_3: swim_will_citizen
+bip_39_word_underscore_4: swim_will_citizen_crouch
+bip_39_word_underscore_5: swim_will_citizen_crouch_ramp
+bip_39_word_underscore_6: swim_will_citizen_crouch_ramp_they
+bip_39_word_underscore_7: swim_will_citizen_crouch_ramp_they_glue
+bip_39_word_underscore_8: swim_will_citizen_crouch_ramp_they_glue_harbor
+bip_39_word_underscore_9: swim_will_citizen_crouch_ramp_they_glue_harbor_egg
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

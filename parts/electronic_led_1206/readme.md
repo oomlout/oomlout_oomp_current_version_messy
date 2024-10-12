@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | faint |  
+| bip_39_word_dash_10 | faint-detail-silver-post-visit-cactus-pledge-prevent-tonight-endorse |  
+| bip_39_word_dash_11 | faint-detail-silver-post-visit-cactus-pledge-prevent-tonight-endorse-area |  
+| bip_39_word_dash_12 | faint-detail-silver-post-visit-cactus-pledge-prevent-tonight-endorse-area-alert |  
+| bip_39_word_dash_2 | faint-detail |  
+| bip_39_word_dash_3 | faint-detail-silver |  
+| bip_39_word_dash_4 | faint-detail-silver-post |  
+| bip_39_word_dash_5 | faint-detail-silver-post-visit |  
+| bip_39_word_dash_6 | faint-detail-silver-post-visit-cactus |  
+| bip_39_word_dash_7 | faint-detail-silver-post-visit-cactus-pledge |  
+| bip_39_word_dash_8 | faint-detail-silver-post-visit-cactus-pledge-prevent |  
+| bip_39_word_dash_9 | faint-detail-silver-post-visit-cactus-pledge-prevent-tonight |  
 | bip_39_word_new_br_1 | faint |  
 | bip_39_word_new_br_10 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse |  
 | bip_39_word_new_br_11 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse<br>area |  
@@ -147,6 +159,18 @@ tonight |
 | bip_39_word_space_7 | faint detail silver post visit cactus pledge |  
 | bip_39_word_space_8 | faint detail silver post visit cactus pledge prevent |  
 | bip_39_word_space_9 | faint detail silver post visit cactus pledge prevent tonight |  
+| bip_39_word_underscore_1 | faint |  
+| bip_39_word_underscore_10 | faint_detail_silver_post_visit_cactus_pledge_prevent_tonight_endorse |  
+| bip_39_word_underscore_11 | faint_detail_silver_post_visit_cactus_pledge_prevent_tonight_endorse_area |  
+| bip_39_word_underscore_12 | faint_detail_silver_post_visit_cactus_pledge_prevent_tonight_endorse_area_alert |  
+| bip_39_word_underscore_2 | faint_detail |  
+| bip_39_word_underscore_3 | faint_detail_silver |  
+| bip_39_word_underscore_4 | faint_detail_silver_post |  
+| bip_39_word_underscore_5 | faint_detail_silver_post_visit |  
+| bip_39_word_underscore_6 | faint_detail_silver_post_visit_cactus |  
+| bip_39_word_underscore_7 | faint_detail_silver_post_visit_cactus_pledge |  
+| bip_39_word_underscore_8 | faint_detail_silver_post_visit_cactus_pledge_prevent |  
+| bip_39_word_underscore_9 | faint_detail_silver_post_visit_cactus_pledge_prevent_tonight |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | have |  
+| bip_39_word_dash_10 | have-puzzle-invest-today-mixed-hub-slot-turtle-total-scare |  
+| bip_39_word_dash_11 | have-puzzle-invest-today-mixed-hub-slot-turtle-total-scare-candy |  
+| bip_39_word_dash_12 | have-puzzle-invest-today-mixed-hub-slot-turtle-total-scare-candy-absent |  
+| bip_39_word_dash_2 | have-puzzle |  
+| bip_39_word_dash_3 | have-puzzle-invest |  
+| bip_39_word_dash_4 | have-puzzle-invest-today |  
+| bip_39_word_dash_5 | have-puzzle-invest-today-mixed |  
+| bip_39_word_dash_6 | have-puzzle-invest-today-mixed-hub |  
+| bip_39_word_dash_7 | have-puzzle-invest-today-mixed-hub-slot |  
+| bip_39_word_dash_8 | have-puzzle-invest-today-mixed-hub-slot-turtle |  
+| bip_39_word_dash_9 | have-puzzle-invest-today-mixed-hub-slot-turtle-total |  
 | bip_39_word_new_br_1 | have |  
 | bip_39_word_new_br_10 | have<br>puzzle<br>invest<br>today<br>mixed<br>hub<br>slot<br>turtle<br>total<br>scare |  
 | bip_39_word_new_br_11 | have<br>puzzle<br>invest<br>today<br>mixed<br>hub<br>slot<br>turtle<br>total<br>scare<br>candy |  
@@ -147,6 +159,18 @@ total |
 | bip_39_word_space_7 | have puzzle invest today mixed hub slot |  
 | bip_39_word_space_8 | have puzzle invest today mixed hub slot turtle |  
 | bip_39_word_space_9 | have puzzle invest today mixed hub slot turtle total |  
+| bip_39_word_underscore_1 | have |  
+| bip_39_word_underscore_10 | have_puzzle_invest_today_mixed_hub_slot_turtle_total_scare |  
+| bip_39_word_underscore_11 | have_puzzle_invest_today_mixed_hub_slot_turtle_total_scare_candy |  
+| bip_39_word_underscore_12 | have_puzzle_invest_today_mixed_hub_slot_turtle_total_scare_candy_absent |  
+| bip_39_word_underscore_2 | have_puzzle |  
+| bip_39_word_underscore_3 | have_puzzle_invest |  
+| bip_39_word_underscore_4 | have_puzzle_invest_today |  
+| bip_39_word_underscore_5 | have_puzzle_invest_today_mixed |  
+| bip_39_word_underscore_6 | have_puzzle_invest_today_mixed_hub |  
+| bip_39_word_underscore_7 | have_puzzle_invest_today_mixed_hub_slot |  
+| bip_39_word_underscore_8 | have_puzzle_invest_today_mixed_hub_slot_turtle |  
+| bip_39_word_underscore_9 | have_puzzle_invest_today_mixed_hub_slot_turtle_total |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

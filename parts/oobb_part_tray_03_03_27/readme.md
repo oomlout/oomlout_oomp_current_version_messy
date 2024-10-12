@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | idea |  
+| bip_39_word_dash_10 | idea-clerk-rifle-grocery-describe-two-quality-denial-valid-elephant |  
+| bip_39_word_dash_11 | idea-clerk-rifle-grocery-describe-two-quality-denial-valid-elephant-try |  
+| bip_39_word_dash_12 | idea-clerk-rifle-grocery-describe-two-quality-denial-valid-elephant-try-answer |  
+| bip_39_word_dash_2 | idea-clerk |  
+| bip_39_word_dash_3 | idea-clerk-rifle |  
+| bip_39_word_dash_4 | idea-clerk-rifle-grocery |  
+| bip_39_word_dash_5 | idea-clerk-rifle-grocery-describe |  
+| bip_39_word_dash_6 | idea-clerk-rifle-grocery-describe-two |  
+| bip_39_word_dash_7 | idea-clerk-rifle-grocery-describe-two-quality |  
+| bip_39_word_dash_8 | idea-clerk-rifle-grocery-describe-two-quality-denial |  
+| bip_39_word_dash_9 | idea-clerk-rifle-grocery-describe-two-quality-denial-valid |  
 | bip_39_word_new_br_1 | idea |  
 | bip_39_word_new_br_10 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant |  
 | bip_39_word_new_br_11 | idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant<br>try |  
@@ -147,6 +159,18 @@ valid |
 | bip_39_word_space_7 | idea clerk rifle grocery describe two quality |  
 | bip_39_word_space_8 | idea clerk rifle grocery describe two quality denial |  
 | bip_39_word_space_9 | idea clerk rifle grocery describe two quality denial valid |  
+| bip_39_word_underscore_1 | idea |  
+| bip_39_word_underscore_10 | idea_clerk_rifle_grocery_describe_two_quality_denial_valid_elephant |  
+| bip_39_word_underscore_11 | idea_clerk_rifle_grocery_describe_two_quality_denial_valid_elephant_try |  
+| bip_39_word_underscore_12 | idea_clerk_rifle_grocery_describe_two_quality_denial_valid_elephant_try_answer |  
+| bip_39_word_underscore_2 | idea_clerk |  
+| bip_39_word_underscore_3 | idea_clerk_rifle |  
+| bip_39_word_underscore_4 | idea_clerk_rifle_grocery |  
+| bip_39_word_underscore_5 | idea_clerk_rifle_grocery_describe |  
+| bip_39_word_underscore_6 | idea_clerk_rifle_grocery_describe_two |  
+| bip_39_word_underscore_7 | idea_clerk_rifle_grocery_describe_two_quality |  
+| bip_39_word_underscore_8 | idea_clerk_rifle_grocery_describe_two_quality_denial |  
+| bip_39_word_underscore_9 | idea_clerk_rifle_grocery_describe_two_quality_denial_valid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

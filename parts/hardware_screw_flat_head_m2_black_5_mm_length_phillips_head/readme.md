@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | maid |  
+| bip_39_word_dash_10 | maid-brisk-inherit-abuse-circle-enact-siren-habit-window-crater |  
+| bip_39_word_dash_11 | maid-brisk-inherit-abuse-circle-enact-siren-habit-window-crater-alarm |  
+| bip_39_word_dash_12 | maid-brisk-inherit-abuse-circle-enact-siren-habit-window-crater-alarm-actress |  
+| bip_39_word_dash_2 | maid-brisk |  
+| bip_39_word_dash_3 | maid-brisk-inherit |  
+| bip_39_word_dash_4 | maid-brisk-inherit-abuse |  
+| bip_39_word_dash_5 | maid-brisk-inherit-abuse-circle |  
+| bip_39_word_dash_6 | maid-brisk-inherit-abuse-circle-enact |  
+| bip_39_word_dash_7 | maid-brisk-inherit-abuse-circle-enact-siren |  
+| bip_39_word_dash_8 | maid-brisk-inherit-abuse-circle-enact-siren-habit |  
+| bip_39_word_dash_9 | maid-brisk-inherit-abuse-circle-enact-siren-habit-window |  
 | bip_39_word_new_br_1 | maid |  
 | bip_39_word_new_br_10 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit<br>window<br>crater |  
 | bip_39_word_new_br_11 | maid<br>brisk<br>inherit<br>abuse<br>circle<br>enact<br>siren<br>habit<br>window<br>crater<br>alarm |  
@@ -147,6 +159,18 @@ window |
 | bip_39_word_space_7 | maid brisk inherit abuse circle enact siren |  
 | bip_39_word_space_8 | maid brisk inherit abuse circle enact siren habit |  
 | bip_39_word_space_9 | maid brisk inherit abuse circle enact siren habit window |  
+| bip_39_word_underscore_1 | maid |  
+| bip_39_word_underscore_10 | maid_brisk_inherit_abuse_circle_enact_siren_habit_window_crater |  
+| bip_39_word_underscore_11 | maid_brisk_inherit_abuse_circle_enact_siren_habit_window_crater_alarm |  
+| bip_39_word_underscore_12 | maid_brisk_inherit_abuse_circle_enact_siren_habit_window_crater_alarm_actress |  
+| bip_39_word_underscore_2 | maid_brisk |  
+| bip_39_word_underscore_3 | maid_brisk_inherit |  
+| bip_39_word_underscore_4 | maid_brisk_inherit_abuse |  
+| bip_39_word_underscore_5 | maid_brisk_inherit_abuse_circle |  
+| bip_39_word_underscore_6 | maid_brisk_inherit_abuse_circle_enact |  
+| bip_39_word_underscore_7 | maid_brisk_inherit_abuse_circle_enact_siren |  
+| bip_39_word_underscore_8 | maid_brisk_inherit_abuse_circle_enact_siren_habit |  
+| bip_39_word_underscore_9 | maid_brisk_inherit_abuse_circle_enact_siren_habit_window |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

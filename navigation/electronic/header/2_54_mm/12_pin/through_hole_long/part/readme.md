@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dust |  
+| bip_39_word_dash_10 | dust-wreck-column-much-fence-conduct-daughter-wrap-check-advice |  
+| bip_39_word_dash_11 | dust-wreck-column-much-fence-conduct-daughter-wrap-check-advice-cabbage |  
+| bip_39_word_dash_12 | dust-wreck-column-much-fence-conduct-daughter-wrap-check-advice-cabbage-auto |  
+| bip_39_word_dash_2 | dust-wreck |  
+| bip_39_word_dash_3 | dust-wreck-column |  
+| bip_39_word_dash_4 | dust-wreck-column-much |  
+| bip_39_word_dash_5 | dust-wreck-column-much-fence |  
+| bip_39_word_dash_6 | dust-wreck-column-much-fence-conduct |  
+| bip_39_word_dash_7 | dust-wreck-column-much-fence-conduct-daughter |  
+| bip_39_word_dash_8 | dust-wreck-column-much-fence-conduct-daughter-wrap |  
+| bip_39_word_dash_9 | dust-wreck-column-much-fence-conduct-daughter-wrap-check |  
 | bip_39_word_new_br_1 | dust |  
 | bip_39_word_new_br_10 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice |  
 | bip_39_word_new_br_11 | dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice<br>cabbage |  
@@ -147,6 +159,18 @@ check |
 | bip_39_word_space_7 | dust wreck column much fence conduct daughter |  
 | bip_39_word_space_8 | dust wreck column much fence conduct daughter wrap |  
 | bip_39_word_space_9 | dust wreck column much fence conduct daughter wrap check |  
+| bip_39_word_underscore_1 | dust |  
+| bip_39_word_underscore_10 | dust_wreck_column_much_fence_conduct_daughter_wrap_check_advice |  
+| bip_39_word_underscore_11 | dust_wreck_column_much_fence_conduct_daughter_wrap_check_advice_cabbage |  
+| bip_39_word_underscore_12 | dust_wreck_column_much_fence_conduct_daughter_wrap_check_advice_cabbage_auto |  
+| bip_39_word_underscore_2 | dust_wreck |  
+| bip_39_word_underscore_3 | dust_wreck_column |  
+| bip_39_word_underscore_4 | dust_wreck_column_much |  
+| bip_39_word_underscore_5 | dust_wreck_column_much_fence |  
+| bip_39_word_underscore_6 | dust_wreck_column_much_fence_conduct |  
+| bip_39_word_underscore_7 | dust_wreck_column_much_fence_conduct_daughter |  
+| bip_39_word_underscore_8 | dust_wreck_column_much_fence_conduct_daughter_wrap |  
+| bip_39_word_underscore_9 | dust_wreck_column_much_fence_conduct_daughter_wrap_check |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

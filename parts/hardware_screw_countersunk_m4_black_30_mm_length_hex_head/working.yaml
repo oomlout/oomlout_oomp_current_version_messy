@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rigid
+bip_39_word_dash_10: rigid-suit-lens-small-topple-able-device-arrest-useful-useful
+bip_39_word_dash_11: rigid-suit-lens-small-topple-able-device-arrest-useful-useful-speak
+bip_39_word_dash_12: rigid-suit-lens-small-topple-able-device-arrest-useful-useful-speak-admit
+bip_39_word_dash_2: rigid-suit
+bip_39_word_dash_3: rigid-suit-lens
+bip_39_word_dash_4: rigid-suit-lens-small
+bip_39_word_dash_5: rigid-suit-lens-small-topple
+bip_39_word_dash_6: rigid-suit-lens-small-topple-able
+bip_39_word_dash_7: rigid-suit-lens-small-topple-able-device
+bip_39_word_dash_8: rigid-suit-lens-small-topple-able-device-arrest
+bip_39_word_dash_9: rigid-suit-lens-small-topple-able-device-arrest-useful
 bip_39_word_new_br_1: rigid
 bip_39_word_new_br_10: rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful
 bip_39_word_new_br_11: rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful<br>speak
@@ -193,6 +205,18 @@ bip_39_word_space_6: rigid suit lens small topple able
 bip_39_word_space_7: rigid suit lens small topple able device
 bip_39_word_space_8: rigid suit lens small topple able device arrest
 bip_39_word_space_9: rigid suit lens small topple able device arrest useful
+bip_39_word_underscore_1: rigid
+bip_39_word_underscore_10: rigid_suit_lens_small_topple_able_device_arrest_useful_useful
+bip_39_word_underscore_11: rigid_suit_lens_small_topple_able_device_arrest_useful_useful_speak
+bip_39_word_underscore_12: rigid_suit_lens_small_topple_able_device_arrest_useful_useful_speak_admit
+bip_39_word_underscore_2: rigid_suit
+bip_39_word_underscore_3: rigid_suit_lens
+bip_39_word_underscore_4: rigid_suit_lens_small
+bip_39_word_underscore_5: rigid_suit_lens_small_topple
+bip_39_word_underscore_6: rigid_suit_lens_small_topple_able
+bip_39_word_underscore_7: rigid_suit_lens_small_topple_able_device
+bip_39_word_underscore_8: rigid_suit_lens_small_topple_able_device_arrest
+bip_39_word_underscore_9: rigid_suit_lens_small_topple_able_device_arrest_useful
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

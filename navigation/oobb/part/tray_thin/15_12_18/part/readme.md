@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | absorb |  
+| bip_39_word_dash_10 | absorb-trap-witness-layer-end-submit-lawn-original-orchard-gain |  
+| bip_39_word_dash_11 | absorb-trap-witness-layer-end-submit-lawn-original-orchard-gain-service |  
+| bip_39_word_dash_12 | absorb-trap-witness-layer-end-submit-lawn-original-orchard-gain-service-airport |  
+| bip_39_word_dash_2 | absorb-trap |  
+| bip_39_word_dash_3 | absorb-trap-witness |  
+| bip_39_word_dash_4 | absorb-trap-witness-layer |  
+| bip_39_word_dash_5 | absorb-trap-witness-layer-end |  
+| bip_39_word_dash_6 | absorb-trap-witness-layer-end-submit |  
+| bip_39_word_dash_7 | absorb-trap-witness-layer-end-submit-lawn |  
+| bip_39_word_dash_8 | absorb-trap-witness-layer-end-submit-lawn-original |  
+| bip_39_word_dash_9 | absorb-trap-witness-layer-end-submit-lawn-original-orchard |  
 | bip_39_word_new_br_1 | absorb |  
 | bip_39_word_new_br_10 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain |  
 | bip_39_word_new_br_11 | absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain<br>service |  
@@ -147,6 +159,18 @@ orchard |
 | bip_39_word_space_7 | absorb trap witness layer end submit lawn |  
 | bip_39_word_space_8 | absorb trap witness layer end submit lawn original |  
 | bip_39_word_space_9 | absorb trap witness layer end submit lawn original orchard |  
+| bip_39_word_underscore_1 | absorb |  
+| bip_39_word_underscore_10 | absorb_trap_witness_layer_end_submit_lawn_original_orchard_gain |  
+| bip_39_word_underscore_11 | absorb_trap_witness_layer_end_submit_lawn_original_orchard_gain_service |  
+| bip_39_word_underscore_12 | absorb_trap_witness_layer_end_submit_lawn_original_orchard_gain_service_airport |  
+| bip_39_word_underscore_2 | absorb_trap |  
+| bip_39_word_underscore_3 | absorb_trap_witness |  
+| bip_39_word_underscore_4 | absorb_trap_witness_layer |  
+| bip_39_word_underscore_5 | absorb_trap_witness_layer_end |  
+| bip_39_word_underscore_6 | absorb_trap_witness_layer_end_submit |  
+| bip_39_word_underscore_7 | absorb_trap_witness_layer_end_submit_lawn |  
+| bip_39_word_underscore_8 | absorb_trap_witness_layer_end_submit_lawn_original |  
+| bip_39_word_underscore_9 | absorb_trap_witness_layer_end_submit_lawn_original_orchard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

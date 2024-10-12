@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | corn |  
+| bip_39_word_dash_10 | corn-track-few-half-aerobic-nothing-debate-adjust-hello-member |  
+| bip_39_word_dash_11 | corn-track-few-half-aerobic-nothing-debate-adjust-hello-member-knife |  
+| bip_39_word_dash_12 | corn-track-few-half-aerobic-nothing-debate-adjust-hello-member-knife-able |  
+| bip_39_word_dash_2 | corn-track |  
+| bip_39_word_dash_3 | corn-track-few |  
+| bip_39_word_dash_4 | corn-track-few-half |  
+| bip_39_word_dash_5 | corn-track-few-half-aerobic |  
+| bip_39_word_dash_6 | corn-track-few-half-aerobic-nothing |  
+| bip_39_word_dash_7 | corn-track-few-half-aerobic-nothing-debate |  
+| bip_39_word_dash_8 | corn-track-few-half-aerobic-nothing-debate-adjust |  
+| bip_39_word_dash_9 | corn-track-few-half-aerobic-nothing-debate-adjust-hello |  
 | bip_39_word_new_br_1 | corn |  
 | bip_39_word_new_br_10 | corn<br>track<br>few<br>half<br>aerobic<br>nothing<br>debate<br>adjust<br>hello<br>member |  
 | bip_39_word_new_br_11 | corn<br>track<br>few<br>half<br>aerobic<br>nothing<br>debate<br>adjust<br>hello<br>member<br>knife |  
@@ -147,6 +159,18 @@ hello |
 | bip_39_word_space_7 | corn track few half aerobic nothing debate |  
 | bip_39_word_space_8 | corn track few half aerobic nothing debate adjust |  
 | bip_39_word_space_9 | corn track few half aerobic nothing debate adjust hello |  
+| bip_39_word_underscore_1 | corn |  
+| bip_39_word_underscore_10 | corn_track_few_half_aerobic_nothing_debate_adjust_hello_member |  
+| bip_39_word_underscore_11 | corn_track_few_half_aerobic_nothing_debate_adjust_hello_member_knife |  
+| bip_39_word_underscore_12 | corn_track_few_half_aerobic_nothing_debate_adjust_hello_member_knife_able |  
+| bip_39_word_underscore_2 | corn_track |  
+| bip_39_word_underscore_3 | corn_track_few |  
+| bip_39_word_underscore_4 | corn_track_few_half |  
+| bip_39_word_underscore_5 | corn_track_few_half_aerobic |  
+| bip_39_word_underscore_6 | corn_track_few_half_aerobic_nothing |  
+| bip_39_word_underscore_7 | corn_track_few_half_aerobic_nothing_debate |  
+| bip_39_word_underscore_8 | corn_track_few_half_aerobic_nothing_debate_adjust |  
+| bip_39_word_underscore_9 | corn_track_few_half_aerobic_nothing_debate_adjust_hello |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

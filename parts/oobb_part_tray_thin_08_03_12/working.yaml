@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wise
+bip_39_word_dash_10: wise-cool-settle-face-now-web-marble-claw-cover-heart
+bip_39_word_dash_11: wise-cool-settle-face-now-web-marble-claw-cover-heart-salute
+bip_39_word_dash_12: wise-cool-settle-face-now-web-marble-claw-cover-heart-salute-arctic
+bip_39_word_dash_2: wise-cool
+bip_39_word_dash_3: wise-cool-settle
+bip_39_word_dash_4: wise-cool-settle-face
+bip_39_word_dash_5: wise-cool-settle-face-now
+bip_39_word_dash_6: wise-cool-settle-face-now-web
+bip_39_word_dash_7: wise-cool-settle-face-now-web-marble
+bip_39_word_dash_8: wise-cool-settle-face-now-web-marble-claw
+bip_39_word_dash_9: wise-cool-settle-face-now-web-marble-claw-cover
 bip_39_word_new_br_1: wise
 bip_39_word_new_br_10: wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw<br>cover<br>heart
 bip_39_word_new_br_11: wise<br>cool<br>settle<br>face<br>now<br>web<br>marble<br>claw<br>cover<br>heart<br>salute
@@ -192,6 +204,18 @@ bip_39_word_space_6: wise cool settle face now web
 bip_39_word_space_7: wise cool settle face now web marble
 bip_39_word_space_8: wise cool settle face now web marble claw
 bip_39_word_space_9: wise cool settle face now web marble claw cover
+bip_39_word_underscore_1: wise
+bip_39_word_underscore_10: wise_cool_settle_face_now_web_marble_claw_cover_heart
+bip_39_word_underscore_11: wise_cool_settle_face_now_web_marble_claw_cover_heart_salute
+bip_39_word_underscore_12: wise_cool_settle_face_now_web_marble_claw_cover_heart_salute_arctic
+bip_39_word_underscore_2: wise_cool
+bip_39_word_underscore_3: wise_cool_settle
+bip_39_word_underscore_4: wise_cool_settle_face
+bip_39_word_underscore_5: wise_cool_settle_face_now
+bip_39_word_underscore_6: wise_cool_settle_face_now_web
+bip_39_word_underscore_7: wise_cool_settle_face_now_web_marble
+bip_39_word_underscore_8: wise_cool_settle_face_now_web_marble_claw
+bip_39_word_underscore_9: wise_cool_settle_face_now_web_marble_claw_cover
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

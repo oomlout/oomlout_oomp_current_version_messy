@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slide |  
+| bip_39_word_dash_10 | slide-water-robot-sense-until-verb-stadium-battle-stock-question |  
+| bip_39_word_dash_11 | slide-water-robot-sense-until-verb-stadium-battle-stock-question-wolf |  
+| bip_39_word_dash_12 | slide-water-robot-sense-until-verb-stadium-battle-stock-question-wolf-athlete |  
+| bip_39_word_dash_2 | slide-water |  
+| bip_39_word_dash_3 | slide-water-robot |  
+| bip_39_word_dash_4 | slide-water-robot-sense |  
+| bip_39_word_dash_5 | slide-water-robot-sense-until |  
+| bip_39_word_dash_6 | slide-water-robot-sense-until-verb |  
+| bip_39_word_dash_7 | slide-water-robot-sense-until-verb-stadium |  
+| bip_39_word_dash_8 | slide-water-robot-sense-until-verb-stadium-battle |  
+| bip_39_word_dash_9 | slide-water-robot-sense-until-verb-stadium-battle-stock |  
 | bip_39_word_new_br_1 | slide |  
 | bip_39_word_new_br_10 | slide<br>water<br>robot<br>sense<br>until<br>verb<br>stadium<br>battle<br>stock<br>question |  
 | bip_39_word_new_br_11 | slide<br>water<br>robot<br>sense<br>until<br>verb<br>stadium<br>battle<br>stock<br>question<br>wolf |  
@@ -147,6 +159,18 @@ stock |
 | bip_39_word_space_7 | slide water robot sense until verb stadium |  
 | bip_39_word_space_8 | slide water robot sense until verb stadium battle |  
 | bip_39_word_space_9 | slide water robot sense until verb stadium battle stock |  
+| bip_39_word_underscore_1 | slide |  
+| bip_39_word_underscore_10 | slide_water_robot_sense_until_verb_stadium_battle_stock_question |  
+| bip_39_word_underscore_11 | slide_water_robot_sense_until_verb_stadium_battle_stock_question_wolf |  
+| bip_39_word_underscore_12 | slide_water_robot_sense_until_verb_stadium_battle_stock_question_wolf_athlete |  
+| bip_39_word_underscore_2 | slide_water |  
+| bip_39_word_underscore_3 | slide_water_robot |  
+| bip_39_word_underscore_4 | slide_water_robot_sense |  
+| bip_39_word_underscore_5 | slide_water_robot_sense_until |  
+| bip_39_word_underscore_6 | slide_water_robot_sense_until_verb |  
+| bip_39_word_underscore_7 | slide_water_robot_sense_until_verb_stadium |  
+| bip_39_word_underscore_8 | slide_water_robot_sense_until_verb_stadium_battle |  
+| bip_39_word_underscore_9 | slide_water_robot_sense_until_verb_stadium_battle_stock |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

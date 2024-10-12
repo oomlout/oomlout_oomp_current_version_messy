@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kitten |  
+| bip_39_word_dash_10 | kitten-inflict-jar-grain-plastic-thought-mirror-crush-proof-nephew |  
+| bip_39_word_dash_11 | kitten-inflict-jar-grain-plastic-thought-mirror-crush-proof-nephew-off |  
+| bip_39_word_dash_12 | kitten-inflict-jar-grain-plastic-thought-mirror-crush-proof-nephew-off-already |  
+| bip_39_word_dash_2 | kitten-inflict |  
+| bip_39_word_dash_3 | kitten-inflict-jar |  
+| bip_39_word_dash_4 | kitten-inflict-jar-grain |  
+| bip_39_word_dash_5 | kitten-inflict-jar-grain-plastic |  
+| bip_39_word_dash_6 | kitten-inflict-jar-grain-plastic-thought |  
+| bip_39_word_dash_7 | kitten-inflict-jar-grain-plastic-thought-mirror |  
+| bip_39_word_dash_8 | kitten-inflict-jar-grain-plastic-thought-mirror-crush |  
+| bip_39_word_dash_9 | kitten-inflict-jar-grain-plastic-thought-mirror-crush-proof |  
 | bip_39_word_new_br_1 | kitten |  
 | bip_39_word_new_br_10 | kitten<br>inflict<br>jar<br>grain<br>plastic<br>thought<br>mirror<br>crush<br>proof<br>nephew |  
 | bip_39_word_new_br_11 | kitten<br>inflict<br>jar<br>grain<br>plastic<br>thought<br>mirror<br>crush<br>proof<br>nephew<br>off |  
@@ -147,6 +159,18 @@ proof |
 | bip_39_word_space_7 | kitten inflict jar grain plastic thought mirror |  
 | bip_39_word_space_8 | kitten inflict jar grain plastic thought mirror crush |  
 | bip_39_word_space_9 | kitten inflict jar grain plastic thought mirror crush proof |  
+| bip_39_word_underscore_1 | kitten |  
+| bip_39_word_underscore_10 | kitten_inflict_jar_grain_plastic_thought_mirror_crush_proof_nephew |  
+| bip_39_word_underscore_11 | kitten_inflict_jar_grain_plastic_thought_mirror_crush_proof_nephew_off |  
+| bip_39_word_underscore_12 | kitten_inflict_jar_grain_plastic_thought_mirror_crush_proof_nephew_off_already |  
+| bip_39_word_underscore_2 | kitten_inflict |  
+| bip_39_word_underscore_3 | kitten_inflict_jar |  
+| bip_39_word_underscore_4 | kitten_inflict_jar_grain |  
+| bip_39_word_underscore_5 | kitten_inflict_jar_grain_plastic |  
+| bip_39_word_underscore_6 | kitten_inflict_jar_grain_plastic_thought |  
+| bip_39_word_underscore_7 | kitten_inflict_jar_grain_plastic_thought_mirror |  
+| bip_39_word_underscore_8 | kitten_inflict_jar_grain_plastic_thought_mirror_crush |  
+| bip_39_word_underscore_9 | kitten_inflict_jar_grain_plastic_thought_mirror_crush_proof |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

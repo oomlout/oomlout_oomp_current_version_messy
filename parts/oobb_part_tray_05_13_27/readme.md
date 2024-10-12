@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | few |  
+| bip_39_word_dash_10 | few-reject-deal-report-warfare-shift-coral-estate-actual-cloth |  
+| bip_39_word_dash_11 | few-reject-deal-report-warfare-shift-coral-estate-actual-cloth-believe |  
+| bip_39_word_dash_12 | few-reject-deal-report-warfare-shift-coral-estate-actual-cloth-believe-amount |  
+| bip_39_word_dash_2 | few-reject |  
+| bip_39_word_dash_3 | few-reject-deal |  
+| bip_39_word_dash_4 | few-reject-deal-report |  
+| bip_39_word_dash_5 | few-reject-deal-report-warfare |  
+| bip_39_word_dash_6 | few-reject-deal-report-warfare-shift |  
+| bip_39_word_dash_7 | few-reject-deal-report-warfare-shift-coral |  
+| bip_39_word_dash_8 | few-reject-deal-report-warfare-shift-coral-estate |  
+| bip_39_word_dash_9 | few-reject-deal-report-warfare-shift-coral-estate-actual |  
 | bip_39_word_new_br_1 | few |  
 | bip_39_word_new_br_10 | few<br>reject<br>deal<br>report<br>warfare<br>shift<br>coral<br>estate<br>actual<br>cloth |  
 | bip_39_word_new_br_11 | few<br>reject<br>deal<br>report<br>warfare<br>shift<br>coral<br>estate<br>actual<br>cloth<br>believe |  
@@ -147,6 +159,18 @@ actual |
 | bip_39_word_space_7 | few reject deal report warfare shift coral |  
 | bip_39_word_space_8 | few reject deal report warfare shift coral estate |  
 | bip_39_word_space_9 | few reject deal report warfare shift coral estate actual |  
+| bip_39_word_underscore_1 | few |  
+| bip_39_word_underscore_10 | few_reject_deal_report_warfare_shift_coral_estate_actual_cloth |  
+| bip_39_word_underscore_11 | few_reject_deal_report_warfare_shift_coral_estate_actual_cloth_believe |  
+| bip_39_word_underscore_12 | few_reject_deal_report_warfare_shift_coral_estate_actual_cloth_believe_amount |  
+| bip_39_word_underscore_2 | few_reject |  
+| bip_39_word_underscore_3 | few_reject_deal |  
+| bip_39_word_underscore_4 | few_reject_deal_report |  
+| bip_39_word_underscore_5 | few_reject_deal_report_warfare |  
+| bip_39_word_underscore_6 | few_reject_deal_report_warfare_shift |  
+| bip_39_word_underscore_7 | few_reject_deal_report_warfare_shift_coral |  
+| bip_39_word_underscore_8 | few_reject_deal_report_warfare_shift_coral_estate |  
+| bip_39_word_underscore_9 | few_reject_deal_report_warfare_shift_coral_estate_actual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

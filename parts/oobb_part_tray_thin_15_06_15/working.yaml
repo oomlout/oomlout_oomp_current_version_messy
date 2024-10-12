@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rebel
+bip_39_word_dash_10: rebel-scale-sail-smile-people-minor-fish-mention-measure-midnight
+bip_39_word_dash_11: rebel-scale-sail-smile-people-minor-fish-mention-measure-midnight-affair
+bip_39_word_dash_12: rebel-scale-sail-smile-people-minor-fish-mention-measure-midnight-affair-able
+bip_39_word_dash_2: rebel-scale
+bip_39_word_dash_3: rebel-scale-sail
+bip_39_word_dash_4: rebel-scale-sail-smile
+bip_39_word_dash_5: rebel-scale-sail-smile-people
+bip_39_word_dash_6: rebel-scale-sail-smile-people-minor
+bip_39_word_dash_7: rebel-scale-sail-smile-people-minor-fish
+bip_39_word_dash_8: rebel-scale-sail-smile-people-minor-fish-mention
+bip_39_word_dash_9: rebel-scale-sail-smile-people-minor-fish-mention-measure
 bip_39_word_new_br_1: rebel
 bip_39_word_new_br_10: rebel<br>scale<br>sail<br>smile<br>people<br>minor<br>fish<br>mention<br>measure<br>midnight
 bip_39_word_new_br_11: rebel<br>scale<br>sail<br>smile<br>people<br>minor<br>fish<br>mention<br>measure<br>midnight<br>affair
@@ -193,6 +205,18 @@ bip_39_word_space_6: rebel scale sail smile people minor
 bip_39_word_space_7: rebel scale sail smile people minor fish
 bip_39_word_space_8: rebel scale sail smile people minor fish mention
 bip_39_word_space_9: rebel scale sail smile people minor fish mention measure
+bip_39_word_underscore_1: rebel
+bip_39_word_underscore_10: rebel_scale_sail_smile_people_minor_fish_mention_measure_midnight
+bip_39_word_underscore_11: rebel_scale_sail_smile_people_minor_fish_mention_measure_midnight_affair
+bip_39_word_underscore_12: rebel_scale_sail_smile_people_minor_fish_mention_measure_midnight_affair_able
+bip_39_word_underscore_2: rebel_scale
+bip_39_word_underscore_3: rebel_scale_sail
+bip_39_word_underscore_4: rebel_scale_sail_smile
+bip_39_word_underscore_5: rebel_scale_sail_smile_people
+bip_39_word_underscore_6: rebel_scale_sail_smile_people_minor
+bip_39_word_underscore_7: rebel_scale_sail_smile_people_minor_fish
+bip_39_word_underscore_8: rebel_scale_sail_smile_people_minor_fish_mention
+bip_39_word_underscore_9: rebel_scale_sail_smile_people_minor_fish_mention_measure
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stadium |  
+| bip_39_word_dash_10 | stadium-lava-zoo-improve-dose-frost-analyst-style-myth-sentence |  
+| bip_39_word_dash_11 | stadium-lava-zoo-improve-dose-frost-analyst-style-myth-sentence-upgrade |  
+| bip_39_word_dash_12 | stadium-lava-zoo-improve-dose-frost-analyst-style-myth-sentence-upgrade-any |  
+| bip_39_word_dash_2 | stadium-lava |  
+| bip_39_word_dash_3 | stadium-lava-zoo |  
+| bip_39_word_dash_4 | stadium-lava-zoo-improve |  
+| bip_39_word_dash_5 | stadium-lava-zoo-improve-dose |  
+| bip_39_word_dash_6 | stadium-lava-zoo-improve-dose-frost |  
+| bip_39_word_dash_7 | stadium-lava-zoo-improve-dose-frost-analyst |  
+| bip_39_word_dash_8 | stadium-lava-zoo-improve-dose-frost-analyst-style |  
+| bip_39_word_dash_9 | stadium-lava-zoo-improve-dose-frost-analyst-style-myth |  
 | bip_39_word_new_br_1 | stadium |  
 | bip_39_word_new_br_10 | stadium<br>lava<br>zoo<br>improve<br>dose<br>frost<br>analyst<br>style<br>myth<br>sentence |  
 | bip_39_word_new_br_11 | stadium<br>lava<br>zoo<br>improve<br>dose<br>frost<br>analyst<br>style<br>myth<br>sentence<br>upgrade |  
@@ -147,6 +159,18 @@ myth |
 | bip_39_word_space_7 | stadium lava zoo improve dose frost analyst |  
 | bip_39_word_space_8 | stadium lava zoo improve dose frost analyst style |  
 | bip_39_word_space_9 | stadium lava zoo improve dose frost analyst style myth |  
+| bip_39_word_underscore_1 | stadium |  
+| bip_39_word_underscore_10 | stadium_lava_zoo_improve_dose_frost_analyst_style_myth_sentence |  
+| bip_39_word_underscore_11 | stadium_lava_zoo_improve_dose_frost_analyst_style_myth_sentence_upgrade |  
+| bip_39_word_underscore_12 | stadium_lava_zoo_improve_dose_frost_analyst_style_myth_sentence_upgrade_any |  
+| bip_39_word_underscore_2 | stadium_lava |  
+| bip_39_word_underscore_3 | stadium_lava_zoo |  
+| bip_39_word_underscore_4 | stadium_lava_zoo_improve |  
+| bip_39_word_underscore_5 | stadium_lava_zoo_improve_dose |  
+| bip_39_word_underscore_6 | stadium_lava_zoo_improve_dose_frost |  
+| bip_39_word_underscore_7 | stadium_lava_zoo_improve_dose_frost_analyst |  
+| bip_39_word_underscore_8 | stadium_lava_zoo_improve_dose_frost_analyst_style |  
+| bip_39_word_underscore_9 | stadium_lava_zoo_improve_dose_frost_analyst_style_myth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

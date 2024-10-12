@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | transfer |  
+| bip_39_word_dash_10 | transfer-limit-surge-level-addict-approve-dentist-sign-shift-laundry |  
+| bip_39_word_dash_11 | transfer-limit-surge-level-addict-approve-dentist-sign-shift-laundry-wet |  
+| bip_39_word_dash_12 | transfer-limit-surge-level-addict-approve-dentist-sign-shift-laundry-wet-author |  
+| bip_39_word_dash_2 | transfer-limit |  
+| bip_39_word_dash_3 | transfer-limit-surge |  
+| bip_39_word_dash_4 | transfer-limit-surge-level |  
+| bip_39_word_dash_5 | transfer-limit-surge-level-addict |  
+| bip_39_word_dash_6 | transfer-limit-surge-level-addict-approve |  
+| bip_39_word_dash_7 | transfer-limit-surge-level-addict-approve-dentist |  
+| bip_39_word_dash_8 | transfer-limit-surge-level-addict-approve-dentist-sign |  
+| bip_39_word_dash_9 | transfer-limit-surge-level-addict-approve-dentist-sign-shift |  
 | bip_39_word_new_br_1 | transfer |  
 | bip_39_word_new_br_10 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry |  
 | bip_39_word_new_br_11 | transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry<br>wet |  
@@ -147,6 +159,18 @@ shift |
 | bip_39_word_space_7 | transfer limit surge level addict approve dentist |  
 | bip_39_word_space_8 | transfer limit surge level addict approve dentist sign |  
 | bip_39_word_space_9 | transfer limit surge level addict approve dentist sign shift |  
+| bip_39_word_underscore_1 | transfer |  
+| bip_39_word_underscore_10 | transfer_limit_surge_level_addict_approve_dentist_sign_shift_laundry |  
+| bip_39_word_underscore_11 | transfer_limit_surge_level_addict_approve_dentist_sign_shift_laundry_wet |  
+| bip_39_word_underscore_12 | transfer_limit_surge_level_addict_approve_dentist_sign_shift_laundry_wet_author |  
+| bip_39_word_underscore_2 | transfer_limit |  
+| bip_39_word_underscore_3 | transfer_limit_surge |  
+| bip_39_word_underscore_4 | transfer_limit_surge_level |  
+| bip_39_word_underscore_5 | transfer_limit_surge_level_addict |  
+| bip_39_word_underscore_6 | transfer_limit_surge_level_addict_approve |  
+| bip_39_word_underscore_7 | transfer_limit_surge_level_addict_approve_dentist |  
+| bip_39_word_underscore_8 | transfer_limit_surge_level_addict_approve_dentist_sign |  
+| bip_39_word_underscore_9 | transfer_limit_surge_level_addict_approve_dentist_sign_shift |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

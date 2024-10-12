@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wool
+bip_39_word_dash_10: wool-ice-post-orphan-mobile-small-voyage-flower-hard-real
+bip_39_word_dash_11: wool-ice-post-orphan-mobile-small-voyage-flower-hard-real-warm
+bip_39_word_dash_12: wool-ice-post-orphan-mobile-small-voyage-flower-hard-real-warm-arrow
+bip_39_word_dash_2: wool-ice
+bip_39_word_dash_3: wool-ice-post
+bip_39_word_dash_4: wool-ice-post-orphan
+bip_39_word_dash_5: wool-ice-post-orphan-mobile
+bip_39_word_dash_6: wool-ice-post-orphan-mobile-small
+bip_39_word_dash_7: wool-ice-post-orphan-mobile-small-voyage
+bip_39_word_dash_8: wool-ice-post-orphan-mobile-small-voyage-flower
+bip_39_word_dash_9: wool-ice-post-orphan-mobile-small-voyage-flower-hard
 bip_39_word_new_br_1: wool
 bip_39_word_new_br_10: wool<br>ice<br>post<br>orphan<br>mobile<br>small<br>voyage<br>flower<br>hard<br>real
 bip_39_word_new_br_11: wool<br>ice<br>post<br>orphan<br>mobile<br>small<br>voyage<br>flower<br>hard<br>real<br>warm
@@ -192,6 +204,18 @@ bip_39_word_space_6: wool ice post orphan mobile small
 bip_39_word_space_7: wool ice post orphan mobile small voyage
 bip_39_word_space_8: wool ice post orphan mobile small voyage flower
 bip_39_word_space_9: wool ice post orphan mobile small voyage flower hard
+bip_39_word_underscore_1: wool
+bip_39_word_underscore_10: wool_ice_post_orphan_mobile_small_voyage_flower_hard_real
+bip_39_word_underscore_11: wool_ice_post_orphan_mobile_small_voyage_flower_hard_real_warm
+bip_39_word_underscore_12: wool_ice_post_orphan_mobile_small_voyage_flower_hard_real_warm_arrow
+bip_39_word_underscore_2: wool_ice
+bip_39_word_underscore_3: wool_ice_post
+bip_39_word_underscore_4: wool_ice_post_orphan
+bip_39_word_underscore_5: wool_ice_post_orphan_mobile
+bip_39_word_underscore_6: wool_ice_post_orphan_mobile_small
+bip_39_word_underscore_7: wool_ice_post_orphan_mobile_small_voyage
+bip_39_word_underscore_8: wool_ice_post_orphan_mobile_small_voyage_flower
+bip_39_word_underscore_9: wool_ice_post_orphan_mobile_small_voyage_flower_hard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | avoid |  
+| bip_39_word_dash_10 | avoid-rent-frown-alley-tide-transfer-slide-fork-sock-believe |  
+| bip_39_word_dash_11 | avoid-rent-frown-alley-tide-transfer-slide-fork-sock-believe-cherry |  
+| bip_39_word_dash_12 | avoid-rent-frown-alley-tide-transfer-slide-fork-sock-believe-cherry-admit |  
+| bip_39_word_dash_2 | avoid-rent |  
+| bip_39_word_dash_3 | avoid-rent-frown |  
+| bip_39_word_dash_4 | avoid-rent-frown-alley |  
+| bip_39_word_dash_5 | avoid-rent-frown-alley-tide |  
+| bip_39_word_dash_6 | avoid-rent-frown-alley-tide-transfer |  
+| bip_39_word_dash_7 | avoid-rent-frown-alley-tide-transfer-slide |  
+| bip_39_word_dash_8 | avoid-rent-frown-alley-tide-transfer-slide-fork |  
+| bip_39_word_dash_9 | avoid-rent-frown-alley-tide-transfer-slide-fork-sock |  
 | bip_39_word_new_br_1 | avoid |  
 | bip_39_word_new_br_10 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe |  
 | bip_39_word_new_br_11 | avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe<br>cherry |  
@@ -147,6 +159,18 @@ sock |
 | bip_39_word_space_7 | avoid rent frown alley tide transfer slide |  
 | bip_39_word_space_8 | avoid rent frown alley tide transfer slide fork |  
 | bip_39_word_space_9 | avoid rent frown alley tide transfer slide fork sock |  
+| bip_39_word_underscore_1 | avoid |  
+| bip_39_word_underscore_10 | avoid_rent_frown_alley_tide_transfer_slide_fork_sock_believe |  
+| bip_39_word_underscore_11 | avoid_rent_frown_alley_tide_transfer_slide_fork_sock_believe_cherry |  
+| bip_39_word_underscore_12 | avoid_rent_frown_alley_tide_transfer_slide_fork_sock_believe_cherry_admit |  
+| bip_39_word_underscore_2 | avoid_rent |  
+| bip_39_word_underscore_3 | avoid_rent_frown |  
+| bip_39_word_underscore_4 | avoid_rent_frown_alley |  
+| bip_39_word_underscore_5 | avoid_rent_frown_alley_tide |  
+| bip_39_word_underscore_6 | avoid_rent_frown_alley_tide_transfer |  
+| bip_39_word_underscore_7 | avoid_rent_frown_alley_tide_transfer_slide |  
+| bip_39_word_underscore_8 | avoid_rent_frown_alley_tide_transfer_slide_fork |  
+| bip_39_word_underscore_9 | avoid_rent_frown_alley_tide_transfer_slide_fork_sock |  
 | box_quantity | 264 |  
 | classification | packaging |  
 | classification_capital | Packaging |  

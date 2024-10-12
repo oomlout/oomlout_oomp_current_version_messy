@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gravity
+bip_39_word_dash_10: gravity-inmate-pulp-wrap-hard-mutual-board-dwarf-nominee-flush
+bip_39_word_dash_11: gravity-inmate-pulp-wrap-hard-mutual-board-dwarf-nominee-flush-expect
+bip_39_word_dash_12: gravity-inmate-pulp-wrap-hard-mutual-board-dwarf-nominee-flush-expect-arctic
+bip_39_word_dash_2: gravity-inmate
+bip_39_word_dash_3: gravity-inmate-pulp
+bip_39_word_dash_4: gravity-inmate-pulp-wrap
+bip_39_word_dash_5: gravity-inmate-pulp-wrap-hard
+bip_39_word_dash_6: gravity-inmate-pulp-wrap-hard-mutual
+bip_39_word_dash_7: gravity-inmate-pulp-wrap-hard-mutual-board
+bip_39_word_dash_8: gravity-inmate-pulp-wrap-hard-mutual-board-dwarf
+bip_39_word_dash_9: gravity-inmate-pulp-wrap-hard-mutual-board-dwarf-nominee
 bip_39_word_new_br_1: gravity
 bip_39_word_new_br_10: gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf<br>nominee<br>flush
 bip_39_word_new_br_11: gravity<br>inmate<br>pulp<br>wrap<br>hard<br>mutual<br>board<br>dwarf<br>nominee<br>flush<br>expect
@@ -193,6 +205,18 @@ bip_39_word_space_6: gravity inmate pulp wrap hard mutual
 bip_39_word_space_7: gravity inmate pulp wrap hard mutual board
 bip_39_word_space_8: gravity inmate pulp wrap hard mutual board dwarf
 bip_39_word_space_9: gravity inmate pulp wrap hard mutual board dwarf nominee
+bip_39_word_underscore_1: gravity
+bip_39_word_underscore_10: gravity_inmate_pulp_wrap_hard_mutual_board_dwarf_nominee_flush
+bip_39_word_underscore_11: gravity_inmate_pulp_wrap_hard_mutual_board_dwarf_nominee_flush_expect
+bip_39_word_underscore_12: gravity_inmate_pulp_wrap_hard_mutual_board_dwarf_nominee_flush_expect_arctic
+bip_39_word_underscore_2: gravity_inmate
+bip_39_word_underscore_3: gravity_inmate_pulp
+bip_39_word_underscore_4: gravity_inmate_pulp_wrap
+bip_39_word_underscore_5: gravity_inmate_pulp_wrap_hard
+bip_39_word_underscore_6: gravity_inmate_pulp_wrap_hard_mutual
+bip_39_word_underscore_7: gravity_inmate_pulp_wrap_hard_mutual_board
+bip_39_word_underscore_8: gravity_inmate_pulp_wrap_hard_mutual_board_dwarf
+bip_39_word_underscore_9: gravity_inmate_pulp_wrap_hard_mutual_board_dwarf_nominee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

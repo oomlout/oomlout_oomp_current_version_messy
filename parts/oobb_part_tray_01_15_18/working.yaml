@@ -1,3 +1,15 @@
+bip_39_word_dash_1: obtain
+bip_39_word_dash_10: obtain-foil-jewel-try-predict-vendor-dumb-seek-upon-cycle
+bip_39_word_dash_11: obtain-foil-jewel-try-predict-vendor-dumb-seek-upon-cycle-audit
+bip_39_word_dash_12: obtain-foil-jewel-try-predict-vendor-dumb-seek-upon-cycle-audit-answer
+bip_39_word_dash_2: obtain-foil
+bip_39_word_dash_3: obtain-foil-jewel
+bip_39_word_dash_4: obtain-foil-jewel-try
+bip_39_word_dash_5: obtain-foil-jewel-try-predict
+bip_39_word_dash_6: obtain-foil-jewel-try-predict-vendor
+bip_39_word_dash_7: obtain-foil-jewel-try-predict-vendor-dumb
+bip_39_word_dash_8: obtain-foil-jewel-try-predict-vendor-dumb-seek
+bip_39_word_dash_9: obtain-foil-jewel-try-predict-vendor-dumb-seek-upon
 bip_39_word_new_br_1: obtain
 bip_39_word_new_br_10: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle
 bip_39_word_new_br_11: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle<br>audit
@@ -192,6 +204,18 @@ bip_39_word_space_6: obtain foil jewel try predict vendor
 bip_39_word_space_7: obtain foil jewel try predict vendor dumb
 bip_39_word_space_8: obtain foil jewel try predict vendor dumb seek
 bip_39_word_space_9: obtain foil jewel try predict vendor dumb seek upon
+bip_39_word_underscore_1: obtain
+bip_39_word_underscore_10: obtain_foil_jewel_try_predict_vendor_dumb_seek_upon_cycle
+bip_39_word_underscore_11: obtain_foil_jewel_try_predict_vendor_dumb_seek_upon_cycle_audit
+bip_39_word_underscore_12: obtain_foil_jewel_try_predict_vendor_dumb_seek_upon_cycle_audit_answer
+bip_39_word_underscore_2: obtain_foil
+bip_39_word_underscore_3: obtain_foil_jewel
+bip_39_word_underscore_4: obtain_foil_jewel_try
+bip_39_word_underscore_5: obtain_foil_jewel_try_predict
+bip_39_word_underscore_6: obtain_foil_jewel_try_predict_vendor
+bip_39_word_underscore_7: obtain_foil_jewel_try_predict_vendor_dumb
+bip_39_word_underscore_8: obtain_foil_jewel_try_predict_vendor_dumb_seek
+bip_39_word_underscore_9: obtain_foil_jewel_try_predict_vendor_dumb_seek_upon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

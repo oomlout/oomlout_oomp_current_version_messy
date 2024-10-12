@@ -1,3 +1,15 @@
+bip_39_word_dash_1: live
+bip_39_word_dash_10: live-bonus-bring-limit-bus-tank-salon-grape-prevent-strike
+bip_39_word_dash_11: live-bonus-bring-limit-bus-tank-salon-grape-prevent-strike-afraid
+bip_39_word_dash_12: live-bonus-bring-limit-bus-tank-salon-grape-prevent-strike-afraid-artist
+bip_39_word_dash_2: live-bonus
+bip_39_word_dash_3: live-bonus-bring
+bip_39_word_dash_4: live-bonus-bring-limit
+bip_39_word_dash_5: live-bonus-bring-limit-bus
+bip_39_word_dash_6: live-bonus-bring-limit-bus-tank
+bip_39_word_dash_7: live-bonus-bring-limit-bus-tank-salon
+bip_39_word_dash_8: live-bonus-bring-limit-bus-tank-salon-grape
+bip_39_word_dash_9: live-bonus-bring-limit-bus-tank-salon-grape-prevent
 bip_39_word_new_br_1: live
 bip_39_word_new_br_10: live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape<br>prevent<br>strike
 bip_39_word_new_br_11: live<br>bonus<br>bring<br>limit<br>bus<br>tank<br>salon<br>grape<br>prevent<br>strike<br>afraid
@@ -192,6 +204,18 @@ bip_39_word_space_6: live bonus bring limit bus tank
 bip_39_word_space_7: live bonus bring limit bus tank salon
 bip_39_word_space_8: live bonus bring limit bus tank salon grape
 bip_39_word_space_9: live bonus bring limit bus tank salon grape prevent
+bip_39_word_underscore_1: live
+bip_39_word_underscore_10: live_bonus_bring_limit_bus_tank_salon_grape_prevent_strike
+bip_39_word_underscore_11: live_bonus_bring_limit_bus_tank_salon_grape_prevent_strike_afraid
+bip_39_word_underscore_12: live_bonus_bring_limit_bus_tank_salon_grape_prevent_strike_afraid_artist
+bip_39_word_underscore_2: live_bonus
+bip_39_word_underscore_3: live_bonus_bring
+bip_39_word_underscore_4: live_bonus_bring_limit
+bip_39_word_underscore_5: live_bonus_bring_limit_bus
+bip_39_word_underscore_6: live_bonus_bring_limit_bus_tank
+bip_39_word_underscore_7: live_bonus_bring_limit_bus_tank_salon
+bip_39_word_underscore_8: live_bonus_bring_limit_bus_tank_salon_grape
+bip_39_word_underscore_9: live_bonus_bring_limit_bus_tank_salon_grape_prevent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

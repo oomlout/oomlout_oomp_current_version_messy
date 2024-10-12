@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wait
+bip_39_word_dash_10: wait-chief-flower-clutch-library-digital-mother-outdoor-grain-action
+bip_39_word_dash_11: wait-chief-flower-clutch-library-digital-mother-outdoor-grain-action-jealous
+bip_39_word_dash_12: wait-chief-flower-clutch-library-digital-mother-outdoor-grain-action-jealous-arch
+bip_39_word_dash_2: wait-chief
+bip_39_word_dash_3: wait-chief-flower
+bip_39_word_dash_4: wait-chief-flower-clutch
+bip_39_word_dash_5: wait-chief-flower-clutch-library
+bip_39_word_dash_6: wait-chief-flower-clutch-library-digital
+bip_39_word_dash_7: wait-chief-flower-clutch-library-digital-mother
+bip_39_word_dash_8: wait-chief-flower-clutch-library-digital-mother-outdoor
+bip_39_word_dash_9: wait-chief-flower-clutch-library-digital-mother-outdoor-grain
 bip_39_word_new_br_1: wait
 bip_39_word_new_br_10: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action
 bip_39_word_new_br_11: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action<br>jealous
@@ -194,6 +206,18 @@ bip_39_word_space_6: wait chief flower clutch library digital
 bip_39_word_space_7: wait chief flower clutch library digital mother
 bip_39_word_space_8: wait chief flower clutch library digital mother outdoor
 bip_39_word_space_9: wait chief flower clutch library digital mother outdoor grain
+bip_39_word_underscore_1: wait
+bip_39_word_underscore_10: wait_chief_flower_clutch_library_digital_mother_outdoor_grain_action
+bip_39_word_underscore_11: wait_chief_flower_clutch_library_digital_mother_outdoor_grain_action_jealous
+bip_39_word_underscore_12: wait_chief_flower_clutch_library_digital_mother_outdoor_grain_action_jealous_arch
+bip_39_word_underscore_2: wait_chief
+bip_39_word_underscore_3: wait_chief_flower
+bip_39_word_underscore_4: wait_chief_flower_clutch
+bip_39_word_underscore_5: wait_chief_flower_clutch_library
+bip_39_word_underscore_6: wait_chief_flower_clutch_library_digital
+bip_39_word_underscore_7: wait_chief_flower_clutch_library_digital_mother
+bip_39_word_underscore_8: wait_chief_flower_clutch_library_digital_mother_outdoor
+bip_39_word_underscore_9: wait_chief_flower_clutch_library_digital_mother_outdoor_grain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

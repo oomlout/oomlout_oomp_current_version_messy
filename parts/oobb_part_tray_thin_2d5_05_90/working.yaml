@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stay
+bip_39_word_dash_10: stay-praise-image-minor-task-magic-axis-grass-table-rubber
+bip_39_word_dash_11: stay-praise-image-minor-task-magic-axis-grass-table-rubber-garden
+bip_39_word_dash_12: stay-praise-image-minor-task-magic-axis-grass-table-rubber-garden-accident
+bip_39_word_dash_2: stay-praise
+bip_39_word_dash_3: stay-praise-image
+bip_39_word_dash_4: stay-praise-image-minor
+bip_39_word_dash_5: stay-praise-image-minor-task
+bip_39_word_dash_6: stay-praise-image-minor-task-magic
+bip_39_word_dash_7: stay-praise-image-minor-task-magic-axis
+bip_39_word_dash_8: stay-praise-image-minor-task-magic-axis-grass
+bip_39_word_dash_9: stay-praise-image-minor-task-magic-axis-grass-table
 bip_39_word_new_br_1: stay
 bip_39_word_new_br_10: stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass<br>table<br>rubber
 bip_39_word_new_br_11: stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass<br>table<br>rubber<br>garden
@@ -192,6 +204,18 @@ bip_39_word_space_6: stay praise image minor task magic
 bip_39_word_space_7: stay praise image minor task magic axis
 bip_39_word_space_8: stay praise image minor task magic axis grass
 bip_39_word_space_9: stay praise image minor task magic axis grass table
+bip_39_word_underscore_1: stay
+bip_39_word_underscore_10: stay_praise_image_minor_task_magic_axis_grass_table_rubber
+bip_39_word_underscore_11: stay_praise_image_minor_task_magic_axis_grass_table_rubber_garden
+bip_39_word_underscore_12: stay_praise_image_minor_task_magic_axis_grass_table_rubber_garden_accident
+bip_39_word_underscore_2: stay_praise
+bip_39_word_underscore_3: stay_praise_image
+bip_39_word_underscore_4: stay_praise_image_minor
+bip_39_word_underscore_5: stay_praise_image_minor_task
+bip_39_word_underscore_6: stay_praise_image_minor_task_magic
+bip_39_word_underscore_7: stay_praise_image_minor_task_magic_axis
+bip_39_word_underscore_8: stay_praise_image_minor_task_magic_axis_grass
+bip_39_word_underscore_9: stay_praise_image_minor_task_magic_axis_grass_table
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

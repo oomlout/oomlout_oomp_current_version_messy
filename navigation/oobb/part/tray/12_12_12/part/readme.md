@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | people |  
+| bip_39_word_dash_10 | people-expect-wet-pond-gain-young-humble-region-science-trick |  
+| bip_39_word_dash_11 | people-expect-wet-pond-gain-young-humble-region-science-trick-wealth |  
+| bip_39_word_dash_12 | people-expect-wet-pond-gain-young-humble-region-science-trick-wealth-armed |  
+| bip_39_word_dash_2 | people-expect |  
+| bip_39_word_dash_3 | people-expect-wet |  
+| bip_39_word_dash_4 | people-expect-wet-pond |  
+| bip_39_word_dash_5 | people-expect-wet-pond-gain |  
+| bip_39_word_dash_6 | people-expect-wet-pond-gain-young |  
+| bip_39_word_dash_7 | people-expect-wet-pond-gain-young-humble |  
+| bip_39_word_dash_8 | people-expect-wet-pond-gain-young-humble-region |  
+| bip_39_word_dash_9 | people-expect-wet-pond-gain-young-humble-region-science |  
 | bip_39_word_new_br_1 | people |  
 | bip_39_word_new_br_10 | people<br>expect<br>wet<br>pond<br>gain<br>young<br>humble<br>region<br>science<br>trick |  
 | bip_39_word_new_br_11 | people<br>expect<br>wet<br>pond<br>gain<br>young<br>humble<br>region<br>science<br>trick<br>wealth |  
@@ -147,6 +159,18 @@ science |
 | bip_39_word_space_7 | people expect wet pond gain young humble |  
 | bip_39_word_space_8 | people expect wet pond gain young humble region |  
 | bip_39_word_space_9 | people expect wet pond gain young humble region science |  
+| bip_39_word_underscore_1 | people |  
+| bip_39_word_underscore_10 | people_expect_wet_pond_gain_young_humble_region_science_trick |  
+| bip_39_word_underscore_11 | people_expect_wet_pond_gain_young_humble_region_science_trick_wealth |  
+| bip_39_word_underscore_12 | people_expect_wet_pond_gain_young_humble_region_science_trick_wealth_armed |  
+| bip_39_word_underscore_2 | people_expect |  
+| bip_39_word_underscore_3 | people_expect_wet |  
+| bip_39_word_underscore_4 | people_expect_wet_pond |  
+| bip_39_word_underscore_5 | people_expect_wet_pond_gain |  
+| bip_39_word_underscore_6 | people_expect_wet_pond_gain_young |  
+| bip_39_word_underscore_7 | people_expect_wet_pond_gain_young_humble |  
+| bip_39_word_underscore_8 | people_expect_wet_pond_gain_young_humble_region |  
+| bip_39_word_underscore_9 | people_expect_wet_pond_gain_young_humble_region_science |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

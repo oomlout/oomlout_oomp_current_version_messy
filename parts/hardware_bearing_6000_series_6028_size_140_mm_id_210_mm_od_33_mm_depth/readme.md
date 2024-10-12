@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soup |  
+| bip_39_word_dash_10 | soup-palace-middle-tape-ketchup-piece-husband-traffic-half-hub |  
+| bip_39_word_dash_11 | soup-palace-middle-tape-ketchup-piece-husband-traffic-half-hub-describe |  
+| bip_39_word_dash_12 | soup-palace-middle-tape-ketchup-piece-husband-traffic-half-hub-describe-autumn |  
+| bip_39_word_dash_2 | soup-palace |  
+| bip_39_word_dash_3 | soup-palace-middle |  
+| bip_39_word_dash_4 | soup-palace-middle-tape |  
+| bip_39_word_dash_5 | soup-palace-middle-tape-ketchup |  
+| bip_39_word_dash_6 | soup-palace-middle-tape-ketchup-piece |  
+| bip_39_word_dash_7 | soup-palace-middle-tape-ketchup-piece-husband |  
+| bip_39_word_dash_8 | soup-palace-middle-tape-ketchup-piece-husband-traffic |  
+| bip_39_word_dash_9 | soup-palace-middle-tape-ketchup-piece-husband-traffic-half |  
 | bip_39_word_new_br_1 | soup |  
 | bip_39_word_new_br_10 | soup<br>palace<br>middle<br>tape<br>ketchup<br>piece<br>husband<br>traffic<br>half<br>hub |  
 | bip_39_word_new_br_11 | soup<br>palace<br>middle<br>tape<br>ketchup<br>piece<br>husband<br>traffic<br>half<br>hub<br>describe |  
@@ -147,6 +159,18 @@ half |
 | bip_39_word_space_7 | soup palace middle tape ketchup piece husband |  
 | bip_39_word_space_8 | soup palace middle tape ketchup piece husband traffic |  
 | bip_39_word_space_9 | soup palace middle tape ketchup piece husband traffic half |  
+| bip_39_word_underscore_1 | soup |  
+| bip_39_word_underscore_10 | soup_palace_middle_tape_ketchup_piece_husband_traffic_half_hub |  
+| bip_39_word_underscore_11 | soup_palace_middle_tape_ketchup_piece_husband_traffic_half_hub_describe |  
+| bip_39_word_underscore_12 | soup_palace_middle_tape_ketchup_piece_husband_traffic_half_hub_describe_autumn |  
+| bip_39_word_underscore_2 | soup_palace |  
+| bip_39_word_underscore_3 | soup_palace_middle |  
+| bip_39_word_underscore_4 | soup_palace_middle_tape |  
+| bip_39_word_underscore_5 | soup_palace_middle_tape_ketchup |  
+| bip_39_word_underscore_6 | soup_palace_middle_tape_ketchup_piece |  
+| bip_39_word_underscore_7 | soup_palace_middle_tape_ketchup_piece_husband |  
+| bip_39_word_underscore_8 | soup_palace_middle_tape_ketchup_piece_husband_traffic |  
+| bip_39_word_underscore_9 | soup_palace_middle_tape_ketchup_piece_husband_traffic_half |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

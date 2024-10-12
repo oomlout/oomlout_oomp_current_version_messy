@@ -1,3 +1,15 @@
+bip_39_word_dash_1: monkey
+bip_39_word_dash_10: monkey-drill-sketch-surprise-junior-brother-middle-mixture-lonely-edge
+bip_39_word_dash_11: monkey-drill-sketch-surprise-junior-brother-middle-mixture-lonely-edge-seat
+bip_39_word_dash_12: monkey-drill-sketch-surprise-junior-brother-middle-mixture-lonely-edge-seat-advice
+bip_39_word_dash_2: monkey-drill
+bip_39_word_dash_3: monkey-drill-sketch
+bip_39_word_dash_4: monkey-drill-sketch-surprise
+bip_39_word_dash_5: monkey-drill-sketch-surprise-junior
+bip_39_word_dash_6: monkey-drill-sketch-surprise-junior-brother
+bip_39_word_dash_7: monkey-drill-sketch-surprise-junior-brother-middle
+bip_39_word_dash_8: monkey-drill-sketch-surprise-junior-brother-middle-mixture
+bip_39_word_dash_9: monkey-drill-sketch-surprise-junior-brother-middle-mixture-lonely
 bip_39_word_new_br_1: monkey
 bip_39_word_new_br_10: monkey<br>drill<br>sketch<br>surprise<br>junior<br>brother<br>middle<br>mixture<br>lonely<br>edge
 bip_39_word_new_br_11: monkey<br>drill<br>sketch<br>surprise<br>junior<br>brother<br>middle<br>mixture<br>lonely<br>edge<br>seat
@@ -194,6 +206,18 @@ bip_39_word_space_6: monkey drill sketch surprise junior brother
 bip_39_word_space_7: monkey drill sketch surprise junior brother middle
 bip_39_word_space_8: monkey drill sketch surprise junior brother middle mixture
 bip_39_word_space_9: monkey drill sketch surprise junior brother middle mixture lonely
+bip_39_word_underscore_1: monkey
+bip_39_word_underscore_10: monkey_drill_sketch_surprise_junior_brother_middle_mixture_lonely_edge
+bip_39_word_underscore_11: monkey_drill_sketch_surprise_junior_brother_middle_mixture_lonely_edge_seat
+bip_39_word_underscore_12: monkey_drill_sketch_surprise_junior_brother_middle_mixture_lonely_edge_seat_advice
+bip_39_word_underscore_2: monkey_drill
+bip_39_word_underscore_3: monkey_drill_sketch
+bip_39_word_underscore_4: monkey_drill_sketch_surprise
+bip_39_word_underscore_5: monkey_drill_sketch_surprise_junior
+bip_39_word_underscore_6: monkey_drill_sketch_surprise_junior_brother
+bip_39_word_underscore_7: monkey_drill_sketch_surprise_junior_brother_middle
+bip_39_word_underscore_8: monkey_drill_sketch_surprise_junior_brother_middle_mixture
+bip_39_word_underscore_9: monkey_drill_sketch_surprise_junior_brother_middle_mixture_lonely
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

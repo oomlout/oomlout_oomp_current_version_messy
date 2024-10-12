@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | whip |  
+| bip_39_word_dash_10 | whip-glare-exercise-section-gravity-affair-start-angry-outdoor-fury |  
+| bip_39_word_dash_11 | whip-glare-exercise-section-gravity-affair-start-angry-outdoor-fury-toe |  
+| bip_39_word_dash_12 | whip-glare-exercise-section-gravity-affair-start-angry-outdoor-fury-toe-also |  
+| bip_39_word_dash_2 | whip-glare |  
+| bip_39_word_dash_3 | whip-glare-exercise |  
+| bip_39_word_dash_4 | whip-glare-exercise-section |  
+| bip_39_word_dash_5 | whip-glare-exercise-section-gravity |  
+| bip_39_word_dash_6 | whip-glare-exercise-section-gravity-affair |  
+| bip_39_word_dash_7 | whip-glare-exercise-section-gravity-affair-start |  
+| bip_39_word_dash_8 | whip-glare-exercise-section-gravity-affair-start-angry |  
+| bip_39_word_dash_9 | whip-glare-exercise-section-gravity-affair-start-angry-outdoor |  
 | bip_39_word_new_br_1 | whip |  
 | bip_39_word_new_br_10 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury |  
 | bip_39_word_new_br_11 | whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury<br>toe |  
@@ -147,6 +159,18 @@ outdoor |
 | bip_39_word_space_7 | whip glare exercise section gravity affair start |  
 | bip_39_word_space_8 | whip glare exercise section gravity affair start angry |  
 | bip_39_word_space_9 | whip glare exercise section gravity affair start angry outdoor |  
+| bip_39_word_underscore_1 | whip |  
+| bip_39_word_underscore_10 | whip_glare_exercise_section_gravity_affair_start_angry_outdoor_fury |  
+| bip_39_word_underscore_11 | whip_glare_exercise_section_gravity_affair_start_angry_outdoor_fury_toe |  
+| bip_39_word_underscore_12 | whip_glare_exercise_section_gravity_affair_start_angry_outdoor_fury_toe_also |  
+| bip_39_word_underscore_2 | whip_glare |  
+| bip_39_word_underscore_3 | whip_glare_exercise |  
+| bip_39_word_underscore_4 | whip_glare_exercise_section |  
+| bip_39_word_underscore_5 | whip_glare_exercise_section_gravity |  
+| bip_39_word_underscore_6 | whip_glare_exercise_section_gravity_affair |  
+| bip_39_word_underscore_7 | whip_glare_exercise_section_gravity_affair_start |  
+| bip_39_word_underscore_8 | whip_glare_exercise_section_gravity_affair_start_angry |  
+| bip_39_word_underscore_9 | whip_glare_exercise_section_gravity_affair_start_angry_outdoor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

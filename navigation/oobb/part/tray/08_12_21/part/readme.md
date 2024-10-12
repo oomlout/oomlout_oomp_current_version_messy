@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | behind |  
+| bip_39_word_dash_10 | behind-merry-tourist-alert-disease-paddle-orphan-choice-parrot-spot |  
+| bip_39_word_dash_11 | behind-merry-tourist-alert-disease-paddle-orphan-choice-parrot-spot-room |  
+| bip_39_word_dash_12 | behind-merry-tourist-alert-disease-paddle-orphan-choice-parrot-spot-room-again |  
+| bip_39_word_dash_2 | behind-merry |  
+| bip_39_word_dash_3 | behind-merry-tourist |  
+| bip_39_word_dash_4 | behind-merry-tourist-alert |  
+| bip_39_word_dash_5 | behind-merry-tourist-alert-disease |  
+| bip_39_word_dash_6 | behind-merry-tourist-alert-disease-paddle |  
+| bip_39_word_dash_7 | behind-merry-tourist-alert-disease-paddle-orphan |  
+| bip_39_word_dash_8 | behind-merry-tourist-alert-disease-paddle-orphan-choice |  
+| bip_39_word_dash_9 | behind-merry-tourist-alert-disease-paddle-orphan-choice-parrot |  
 | bip_39_word_new_br_1 | behind |  
 | bip_39_word_new_br_10 | behind<br>merry<br>tourist<br>alert<br>disease<br>paddle<br>orphan<br>choice<br>parrot<br>spot |  
 | bip_39_word_new_br_11 | behind<br>merry<br>tourist<br>alert<br>disease<br>paddle<br>orphan<br>choice<br>parrot<br>spot<br>room |  
@@ -147,6 +159,18 @@ parrot |
 | bip_39_word_space_7 | behind merry tourist alert disease paddle orphan |  
 | bip_39_word_space_8 | behind merry tourist alert disease paddle orphan choice |  
 | bip_39_word_space_9 | behind merry tourist alert disease paddle orphan choice parrot |  
+| bip_39_word_underscore_1 | behind |  
+| bip_39_word_underscore_10 | behind_merry_tourist_alert_disease_paddle_orphan_choice_parrot_spot |  
+| bip_39_word_underscore_11 | behind_merry_tourist_alert_disease_paddle_orphan_choice_parrot_spot_room |  
+| bip_39_word_underscore_12 | behind_merry_tourist_alert_disease_paddle_orphan_choice_parrot_spot_room_again |  
+| bip_39_word_underscore_2 | behind_merry |  
+| bip_39_word_underscore_3 | behind_merry_tourist |  
+| bip_39_word_underscore_4 | behind_merry_tourist_alert |  
+| bip_39_word_underscore_5 | behind_merry_tourist_alert_disease |  
+| bip_39_word_underscore_6 | behind_merry_tourist_alert_disease_paddle |  
+| bip_39_word_underscore_7 | behind_merry_tourist_alert_disease_paddle_orphan |  
+| bip_39_word_underscore_8 | behind_merry_tourist_alert_disease_paddle_orphan_choice |  
+| bip_39_word_underscore_9 | behind_merry_tourist_alert_disease_paddle_orphan_choice_parrot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

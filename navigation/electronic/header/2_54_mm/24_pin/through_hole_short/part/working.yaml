@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enforce
+bip_39_word_dash_10: enforce-glory-keep-trade-arrest-expand-outer-machine-harvest-symptom
+bip_39_word_dash_11: enforce-glory-keep-trade-arrest-expand-outer-machine-harvest-symptom-owner
+bip_39_word_dash_12: enforce-glory-keep-trade-arrest-expand-outer-machine-harvest-symptom-owner-amused
+bip_39_word_dash_2: enforce-glory
+bip_39_word_dash_3: enforce-glory-keep
+bip_39_word_dash_4: enforce-glory-keep-trade
+bip_39_word_dash_5: enforce-glory-keep-trade-arrest
+bip_39_word_dash_6: enforce-glory-keep-trade-arrest-expand
+bip_39_word_dash_7: enforce-glory-keep-trade-arrest-expand-outer
+bip_39_word_dash_8: enforce-glory-keep-trade-arrest-expand-outer-machine
+bip_39_word_dash_9: enforce-glory-keep-trade-arrest-expand-outer-machine-harvest
 bip_39_word_new_br_1: enforce
 bip_39_word_new_br_10: enforce<br>glory<br>keep<br>trade<br>arrest<br>expand<br>outer<br>machine<br>harvest<br>symptom
 bip_39_word_new_br_11: enforce<br>glory<br>keep<br>trade<br>arrest<br>expand<br>outer<br>machine<br>harvest<br>symptom<br>owner
@@ -194,6 +206,18 @@ bip_39_word_space_6: enforce glory keep trade arrest expand
 bip_39_word_space_7: enforce glory keep trade arrest expand outer
 bip_39_word_space_8: enforce glory keep trade arrest expand outer machine
 bip_39_word_space_9: enforce glory keep trade arrest expand outer machine harvest
+bip_39_word_underscore_1: enforce
+bip_39_word_underscore_10: enforce_glory_keep_trade_arrest_expand_outer_machine_harvest_symptom
+bip_39_word_underscore_11: enforce_glory_keep_trade_arrest_expand_outer_machine_harvest_symptom_owner
+bip_39_word_underscore_12: enforce_glory_keep_trade_arrest_expand_outer_machine_harvest_symptom_owner_amused
+bip_39_word_underscore_2: enforce_glory
+bip_39_word_underscore_3: enforce_glory_keep
+bip_39_word_underscore_4: enforce_glory_keep_trade
+bip_39_word_underscore_5: enforce_glory_keep_trade_arrest
+bip_39_word_underscore_6: enforce_glory_keep_trade_arrest_expand
+bip_39_word_underscore_7: enforce_glory_keep_trade_arrest_expand_outer
+bip_39_word_underscore_8: enforce_glory_keep_trade_arrest_expand_outer_machine
+bip_39_word_underscore_9: enforce_glory_keep_trade_arrest_expand_outer_machine_harvest
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

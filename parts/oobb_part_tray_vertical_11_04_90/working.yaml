@@ -1,3 +1,15 @@
+bip_39_word_dash_1: only
+bip_39_word_dash_10: only-bench-dolphin-clarify-basic-thrive-voice-melody-key-caution
+bip_39_word_dash_11: only-bench-dolphin-clarify-basic-thrive-voice-melody-key-caution-nerve
+bip_39_word_dash_12: only-bench-dolphin-clarify-basic-thrive-voice-melody-key-caution-nerve-around
+bip_39_word_dash_2: only-bench
+bip_39_word_dash_3: only-bench-dolphin
+bip_39_word_dash_4: only-bench-dolphin-clarify
+bip_39_word_dash_5: only-bench-dolphin-clarify-basic
+bip_39_word_dash_6: only-bench-dolphin-clarify-basic-thrive
+bip_39_word_dash_7: only-bench-dolphin-clarify-basic-thrive-voice
+bip_39_word_dash_8: only-bench-dolphin-clarify-basic-thrive-voice-melody
+bip_39_word_dash_9: only-bench-dolphin-clarify-basic-thrive-voice-melody-key
 bip_39_word_new_br_1: only
 bip_39_word_new_br_10: only<br>bench<br>dolphin<br>clarify<br>basic<br>thrive<br>voice<br>melody<br>key<br>caution
 bip_39_word_new_br_11: only<br>bench<br>dolphin<br>clarify<br>basic<br>thrive<br>voice<br>melody<br>key<br>caution<br>nerve
@@ -193,6 +205,18 @@ bip_39_word_space_6: only bench dolphin clarify basic thrive
 bip_39_word_space_7: only bench dolphin clarify basic thrive voice
 bip_39_word_space_8: only bench dolphin clarify basic thrive voice melody
 bip_39_word_space_9: only bench dolphin clarify basic thrive voice melody key
+bip_39_word_underscore_1: only
+bip_39_word_underscore_10: only_bench_dolphin_clarify_basic_thrive_voice_melody_key_caution
+bip_39_word_underscore_11: only_bench_dolphin_clarify_basic_thrive_voice_melody_key_caution_nerve
+bip_39_word_underscore_12: only_bench_dolphin_clarify_basic_thrive_voice_melody_key_caution_nerve_around
+bip_39_word_underscore_2: only_bench
+bip_39_word_underscore_3: only_bench_dolphin
+bip_39_word_underscore_4: only_bench_dolphin_clarify
+bip_39_word_underscore_5: only_bench_dolphin_clarify_basic
+bip_39_word_underscore_6: only_bench_dolphin_clarify_basic_thrive
+bip_39_word_underscore_7: only_bench_dolphin_clarify_basic_thrive_voice
+bip_39_word_underscore_8: only_bench_dolphin_clarify_basic_thrive_voice_melody
+bip_39_word_underscore_9: only_bench_dolphin_clarify_basic_thrive_voice_melody_key
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

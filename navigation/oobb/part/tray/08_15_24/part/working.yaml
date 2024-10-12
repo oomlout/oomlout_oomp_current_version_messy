@@ -1,3 +1,15 @@
+bip_39_word_dash_1: old
+bip_39_word_dash_10: old-giant-cushion-concert-brown-hair-valley-unit-decline-rocket
+bip_39_word_dash_11: old-giant-cushion-concert-brown-hair-valley-unit-decline-rocket-reopen
+bip_39_word_dash_12: old-giant-cushion-concert-brown-hair-valley-unit-decline-rocket-reopen-abstract
+bip_39_word_dash_2: old-giant
+bip_39_word_dash_3: old-giant-cushion
+bip_39_word_dash_4: old-giant-cushion-concert
+bip_39_word_dash_5: old-giant-cushion-concert-brown
+bip_39_word_dash_6: old-giant-cushion-concert-brown-hair
+bip_39_word_dash_7: old-giant-cushion-concert-brown-hair-valley
+bip_39_word_dash_8: old-giant-cushion-concert-brown-hair-valley-unit
+bip_39_word_dash_9: old-giant-cushion-concert-brown-hair-valley-unit-decline
 bip_39_word_new_br_1: old
 bip_39_word_new_br_10: old<br>giant<br>cushion<br>concert<br>brown<br>hair<br>valley<br>unit<br>decline<br>rocket
 bip_39_word_new_br_11: old<br>giant<br>cushion<br>concert<br>brown<br>hair<br>valley<br>unit<br>decline<br>rocket<br>reopen
@@ -193,6 +205,18 @@ bip_39_word_space_6: old giant cushion concert brown hair
 bip_39_word_space_7: old giant cushion concert brown hair valley
 bip_39_word_space_8: old giant cushion concert brown hair valley unit
 bip_39_word_space_9: old giant cushion concert brown hair valley unit decline
+bip_39_word_underscore_1: old
+bip_39_word_underscore_10: old_giant_cushion_concert_brown_hair_valley_unit_decline_rocket
+bip_39_word_underscore_11: old_giant_cushion_concert_brown_hair_valley_unit_decline_rocket_reopen
+bip_39_word_underscore_12: old_giant_cushion_concert_brown_hair_valley_unit_decline_rocket_reopen_abstract
+bip_39_word_underscore_2: old_giant
+bip_39_word_underscore_3: old_giant_cushion
+bip_39_word_underscore_4: old_giant_cushion_concert
+bip_39_word_underscore_5: old_giant_cushion_concert_brown
+bip_39_word_underscore_6: old_giant_cushion_concert_brown_hair
+bip_39_word_underscore_7: old_giant_cushion_concert_brown_hair_valley
+bip_39_word_underscore_8: old_giant_cushion_concert_brown_hair_valley_unit
+bip_39_word_underscore_9: old_giant_cushion_concert_brown_hair_valley_unit_decline
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

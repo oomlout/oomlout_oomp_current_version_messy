@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spy |  
+| bip_39_word_dash_10 | spy-topple-tortoise-salute-monster-curtain-tilt-drive-hard-dilemma |  
+| bip_39_word_dash_11 | spy-topple-tortoise-salute-monster-curtain-tilt-drive-hard-dilemma-sentence |  
+| bip_39_word_dash_12 | spy-topple-tortoise-salute-monster-curtain-tilt-drive-hard-dilemma-sentence-arena |  
+| bip_39_word_dash_2 | spy-topple |  
+| bip_39_word_dash_3 | spy-topple-tortoise |  
+| bip_39_word_dash_4 | spy-topple-tortoise-salute |  
+| bip_39_word_dash_5 | spy-topple-tortoise-salute-monster |  
+| bip_39_word_dash_6 | spy-topple-tortoise-salute-monster-curtain |  
+| bip_39_word_dash_7 | spy-topple-tortoise-salute-monster-curtain-tilt |  
+| bip_39_word_dash_8 | spy-topple-tortoise-salute-monster-curtain-tilt-drive |  
+| bip_39_word_dash_9 | spy-topple-tortoise-salute-monster-curtain-tilt-drive-hard |  
 | bip_39_word_new_br_1 | spy |  
 | bip_39_word_new_br_10 | spy<br>topple<br>tortoise<br>salute<br>monster<br>curtain<br>tilt<br>drive<br>hard<br>dilemma |  
 | bip_39_word_new_br_11 | spy<br>topple<br>tortoise<br>salute<br>monster<br>curtain<br>tilt<br>drive<br>hard<br>dilemma<br>sentence |  
@@ -147,6 +159,18 @@ hard |
 | bip_39_word_space_7 | spy topple tortoise salute monster curtain tilt |  
 | bip_39_word_space_8 | spy topple tortoise salute monster curtain tilt drive |  
 | bip_39_word_space_9 | spy topple tortoise salute monster curtain tilt drive hard |  
+| bip_39_word_underscore_1 | spy |  
+| bip_39_word_underscore_10 | spy_topple_tortoise_salute_monster_curtain_tilt_drive_hard_dilemma |  
+| bip_39_word_underscore_11 | spy_topple_tortoise_salute_monster_curtain_tilt_drive_hard_dilemma_sentence |  
+| bip_39_word_underscore_12 | spy_topple_tortoise_salute_monster_curtain_tilt_drive_hard_dilemma_sentence_arena |  
+| bip_39_word_underscore_2 | spy_topple |  
+| bip_39_word_underscore_3 | spy_topple_tortoise |  
+| bip_39_word_underscore_4 | spy_topple_tortoise_salute |  
+| bip_39_word_underscore_5 | spy_topple_tortoise_salute_monster |  
+| bip_39_word_underscore_6 | spy_topple_tortoise_salute_monster_curtain |  
+| bip_39_word_underscore_7 | spy_topple_tortoise_salute_monster_curtain_tilt |  
+| bip_39_word_underscore_8 | spy_topple_tortoise_salute_monster_curtain_tilt_drive |  
+| bip_39_word_underscore_9 | spy_topple_tortoise_salute_monster_curtain_tilt_drive_hard |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

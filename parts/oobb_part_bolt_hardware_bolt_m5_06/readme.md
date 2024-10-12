@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | north |  
+| bip_39_word_dash_10 | north-diet-coin-dignity-cross-oil-skull-hospital-tuition-host |  
+| bip_39_word_dash_11 | north-diet-coin-dignity-cross-oil-skull-hospital-tuition-host-stick |  
+| bip_39_word_dash_12 | north-diet-coin-dignity-cross-oil-skull-hospital-tuition-host-stick-alpha |  
+| bip_39_word_dash_2 | north-diet |  
+| bip_39_word_dash_3 | north-diet-coin |  
+| bip_39_word_dash_4 | north-diet-coin-dignity |  
+| bip_39_word_dash_5 | north-diet-coin-dignity-cross |  
+| bip_39_word_dash_6 | north-diet-coin-dignity-cross-oil |  
+| bip_39_word_dash_7 | north-diet-coin-dignity-cross-oil-skull |  
+| bip_39_word_dash_8 | north-diet-coin-dignity-cross-oil-skull-hospital |  
+| bip_39_word_dash_9 | north-diet-coin-dignity-cross-oil-skull-hospital-tuition |  
 | bip_39_word_new_br_1 | north |  
 | bip_39_word_new_br_10 | north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital<br>tuition<br>host |  
 | bip_39_word_new_br_11 | north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital<br>tuition<br>host<br>stick |  
@@ -147,6 +159,18 @@ tuition |
 | bip_39_word_space_7 | north diet coin dignity cross oil skull |  
 | bip_39_word_space_8 | north diet coin dignity cross oil skull hospital |  
 | bip_39_word_space_9 | north diet coin dignity cross oil skull hospital tuition |  
+| bip_39_word_underscore_1 | north |  
+| bip_39_word_underscore_10 | north_diet_coin_dignity_cross_oil_skull_hospital_tuition_host |  
+| bip_39_word_underscore_11 | north_diet_coin_dignity_cross_oil_skull_hospital_tuition_host_stick |  
+| bip_39_word_underscore_12 | north_diet_coin_dignity_cross_oil_skull_hospital_tuition_host_stick_alpha |  
+| bip_39_word_underscore_2 | north_diet |  
+| bip_39_word_underscore_3 | north_diet_coin |  
+| bip_39_word_underscore_4 | north_diet_coin_dignity |  
+| bip_39_word_underscore_5 | north_diet_coin_dignity_cross |  
+| bip_39_word_underscore_6 | north_diet_coin_dignity_cross_oil |  
+| bip_39_word_underscore_7 | north_diet_coin_dignity_cross_oil_skull |  
+| bip_39_word_underscore_8 | north_diet_coin_dignity_cross_oil_skull_hospital |  
+| bip_39_word_underscore_9 | north_diet_coin_dignity_cross_oil_skull_hospital_tuition |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

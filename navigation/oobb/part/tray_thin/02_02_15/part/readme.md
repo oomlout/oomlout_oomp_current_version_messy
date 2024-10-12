@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | main |  
+| bip_39_word_dash_10 | main-visual-suffer-slab-october-guard-carpet-kite-column-energy |  
+| bip_39_word_dash_11 | main-visual-suffer-slab-october-guard-carpet-kite-column-energy-twin |  
+| bip_39_word_dash_12 | main-visual-suffer-slab-october-guard-carpet-kite-column-energy-twin-artwork |  
+| bip_39_word_dash_2 | main-visual |  
+| bip_39_word_dash_3 | main-visual-suffer |  
+| bip_39_word_dash_4 | main-visual-suffer-slab |  
+| bip_39_word_dash_5 | main-visual-suffer-slab-october |  
+| bip_39_word_dash_6 | main-visual-suffer-slab-october-guard |  
+| bip_39_word_dash_7 | main-visual-suffer-slab-october-guard-carpet |  
+| bip_39_word_dash_8 | main-visual-suffer-slab-october-guard-carpet-kite |  
+| bip_39_word_dash_9 | main-visual-suffer-slab-october-guard-carpet-kite-column |  
 | bip_39_word_new_br_1 | main |  
 | bip_39_word_new_br_10 | main<br>visual<br>suffer<br>slab<br>october<br>guard<br>carpet<br>kite<br>column<br>energy |  
 | bip_39_word_new_br_11 | main<br>visual<br>suffer<br>slab<br>october<br>guard<br>carpet<br>kite<br>column<br>energy<br>twin |  
@@ -147,6 +159,18 @@ column |
 | bip_39_word_space_7 | main visual suffer slab october guard carpet |  
 | bip_39_word_space_8 | main visual suffer slab october guard carpet kite |  
 | bip_39_word_space_9 | main visual suffer slab october guard carpet kite column |  
+| bip_39_word_underscore_1 | main |  
+| bip_39_word_underscore_10 | main_visual_suffer_slab_october_guard_carpet_kite_column_energy |  
+| bip_39_word_underscore_11 | main_visual_suffer_slab_october_guard_carpet_kite_column_energy_twin |  
+| bip_39_word_underscore_12 | main_visual_suffer_slab_october_guard_carpet_kite_column_energy_twin_artwork |  
+| bip_39_word_underscore_2 | main_visual |  
+| bip_39_word_underscore_3 | main_visual_suffer |  
+| bip_39_word_underscore_4 | main_visual_suffer_slab |  
+| bip_39_word_underscore_5 | main_visual_suffer_slab_october |  
+| bip_39_word_underscore_6 | main_visual_suffer_slab_october_guard |  
+| bip_39_word_underscore_7 | main_visual_suffer_slab_october_guard_carpet |  
+| bip_39_word_underscore_8 | main_visual_suffer_slab_october_guard_carpet_kite |  
+| bip_39_word_underscore_9 | main_visual_suffer_slab_october_guard_carpet_kite_column |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

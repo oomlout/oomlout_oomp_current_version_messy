@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bulk |  
+| bip_39_word_dash_10 | bulk-invest-that-neglect-forest-faith-fashion-method-vague-travel |  
+| bip_39_word_dash_11 | bulk-invest-that-neglect-forest-faith-fashion-method-vague-travel-curtain |  
+| bip_39_word_dash_12 | bulk-invest-that-neglect-forest-faith-fashion-method-vague-travel-curtain-admit |  
+| bip_39_word_dash_2 | bulk-invest |  
+| bip_39_word_dash_3 | bulk-invest-that |  
+| bip_39_word_dash_4 | bulk-invest-that-neglect |  
+| bip_39_word_dash_5 | bulk-invest-that-neglect-forest |  
+| bip_39_word_dash_6 | bulk-invest-that-neglect-forest-faith |  
+| bip_39_word_dash_7 | bulk-invest-that-neglect-forest-faith-fashion |  
+| bip_39_word_dash_8 | bulk-invest-that-neglect-forest-faith-fashion-method |  
+| bip_39_word_dash_9 | bulk-invest-that-neglect-forest-faith-fashion-method-vague |  
 | bip_39_word_new_br_1 | bulk |  
 | bip_39_word_new_br_10 | bulk<br>invest<br>that<br>neglect<br>forest<br>faith<br>fashion<br>method<br>vague<br>travel |  
 | bip_39_word_new_br_11 | bulk<br>invest<br>that<br>neglect<br>forest<br>faith<br>fashion<br>method<br>vague<br>travel<br>curtain |  
@@ -147,6 +159,18 @@ vague |
 | bip_39_word_space_7 | bulk invest that neglect forest faith fashion |  
 | bip_39_word_space_8 | bulk invest that neglect forest faith fashion method |  
 | bip_39_word_space_9 | bulk invest that neglect forest faith fashion method vague |  
+| bip_39_word_underscore_1 | bulk |  
+| bip_39_word_underscore_10 | bulk_invest_that_neglect_forest_faith_fashion_method_vague_travel |  
+| bip_39_word_underscore_11 | bulk_invest_that_neglect_forest_faith_fashion_method_vague_travel_curtain |  
+| bip_39_word_underscore_12 | bulk_invest_that_neglect_forest_faith_fashion_method_vague_travel_curtain_admit |  
+| bip_39_word_underscore_2 | bulk_invest |  
+| bip_39_word_underscore_3 | bulk_invest_that |  
+| bip_39_word_underscore_4 | bulk_invest_that_neglect |  
+| bip_39_word_underscore_5 | bulk_invest_that_neglect_forest |  
+| bip_39_word_underscore_6 | bulk_invest_that_neglect_forest_faith |  
+| bip_39_word_underscore_7 | bulk_invest_that_neglect_forest_faith_fashion |  
+| bip_39_word_underscore_8 | bulk_invest_that_neglect_forest_faith_fashion_method |  
+| bip_39_word_underscore_9 | bulk_invest_that_neglect_forest_faith_fashion_method_vague |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

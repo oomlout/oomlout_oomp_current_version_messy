@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | desk |  
+| bip_39_word_dash_10 | desk-salmon-tobacco-drum-fall-coin-envelope-base-flight-prize |  
+| bip_39_word_dash_11 | desk-salmon-tobacco-drum-fall-coin-envelope-base-flight-prize-direct |  
+| bip_39_word_dash_12 | desk-salmon-tobacco-drum-fall-coin-envelope-base-flight-prize-direct-alien |  
+| bip_39_word_dash_2 | desk-salmon |  
+| bip_39_word_dash_3 | desk-salmon-tobacco |  
+| bip_39_word_dash_4 | desk-salmon-tobacco-drum |  
+| bip_39_word_dash_5 | desk-salmon-tobacco-drum-fall |  
+| bip_39_word_dash_6 | desk-salmon-tobacco-drum-fall-coin |  
+| bip_39_word_dash_7 | desk-salmon-tobacco-drum-fall-coin-envelope |  
+| bip_39_word_dash_8 | desk-salmon-tobacco-drum-fall-coin-envelope-base |  
+| bip_39_word_dash_9 | desk-salmon-tobacco-drum-fall-coin-envelope-base-flight |  
 | bip_39_word_new_br_1 | desk |  
 | bip_39_word_new_br_10 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize |  
 | bip_39_word_new_br_11 | desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize<br>direct |  
@@ -147,6 +159,18 @@ flight |
 | bip_39_word_space_7 | desk salmon tobacco drum fall coin envelope |  
 | bip_39_word_space_8 | desk salmon tobacco drum fall coin envelope base |  
 | bip_39_word_space_9 | desk salmon tobacco drum fall coin envelope base flight |  
+| bip_39_word_underscore_1 | desk |  
+| bip_39_word_underscore_10 | desk_salmon_tobacco_drum_fall_coin_envelope_base_flight_prize |  
+| bip_39_word_underscore_11 | desk_salmon_tobacco_drum_fall_coin_envelope_base_flight_prize_direct |  
+| bip_39_word_underscore_12 | desk_salmon_tobacco_drum_fall_coin_envelope_base_flight_prize_direct_alien |  
+| bip_39_word_underscore_2 | desk_salmon |  
+| bip_39_word_underscore_3 | desk_salmon_tobacco |  
+| bip_39_word_underscore_4 | desk_salmon_tobacco_drum |  
+| bip_39_word_underscore_5 | desk_salmon_tobacco_drum_fall |  
+| bip_39_word_underscore_6 | desk_salmon_tobacco_drum_fall_coin |  
+| bip_39_word_underscore_7 | desk_salmon_tobacco_drum_fall_coin_envelope |  
+| bip_39_word_underscore_8 | desk_salmon_tobacco_drum_fall_coin_envelope_base |  
+| bip_39_word_underscore_9 | desk_salmon_tobacco_drum_fall_coin_envelope_base_flight |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trumpet |  
+| bip_39_word_dash_10 | trumpet-meadow-pulp-inspire-float-supreme-apple-toddler-hotel-camp |  
+| bip_39_word_dash_11 | trumpet-meadow-pulp-inspire-float-supreme-apple-toddler-hotel-camp-force |  
+| bip_39_word_dash_12 | trumpet-meadow-pulp-inspire-float-supreme-apple-toddler-hotel-camp-force-alien |  
+| bip_39_word_dash_2 | trumpet-meadow |  
+| bip_39_word_dash_3 | trumpet-meadow-pulp |  
+| bip_39_word_dash_4 | trumpet-meadow-pulp-inspire |  
+| bip_39_word_dash_5 | trumpet-meadow-pulp-inspire-float |  
+| bip_39_word_dash_6 | trumpet-meadow-pulp-inspire-float-supreme |  
+| bip_39_word_dash_7 | trumpet-meadow-pulp-inspire-float-supreme-apple |  
+| bip_39_word_dash_8 | trumpet-meadow-pulp-inspire-float-supreme-apple-toddler |  
+| bip_39_word_dash_9 | trumpet-meadow-pulp-inspire-float-supreme-apple-toddler-hotel |  
 | bip_39_word_new_br_1 | trumpet |  
 | bip_39_word_new_br_10 | trumpet<br>meadow<br>pulp<br>inspire<br>float<br>supreme<br>apple<br>toddler<br>hotel<br>camp |  
 | bip_39_word_new_br_11 | trumpet<br>meadow<br>pulp<br>inspire<br>float<br>supreme<br>apple<br>toddler<br>hotel<br>camp<br>force |  
@@ -147,6 +159,18 @@ hotel |
 | bip_39_word_space_7 | trumpet meadow pulp inspire float supreme apple |  
 | bip_39_word_space_8 | trumpet meadow pulp inspire float supreme apple toddler |  
 | bip_39_word_space_9 | trumpet meadow pulp inspire float supreme apple toddler hotel |  
+| bip_39_word_underscore_1 | trumpet |  
+| bip_39_word_underscore_10 | trumpet_meadow_pulp_inspire_float_supreme_apple_toddler_hotel_camp |  
+| bip_39_word_underscore_11 | trumpet_meadow_pulp_inspire_float_supreme_apple_toddler_hotel_camp_force |  
+| bip_39_word_underscore_12 | trumpet_meadow_pulp_inspire_float_supreme_apple_toddler_hotel_camp_force_alien |  
+| bip_39_word_underscore_2 | trumpet_meadow |  
+| bip_39_word_underscore_3 | trumpet_meadow_pulp |  
+| bip_39_word_underscore_4 | trumpet_meadow_pulp_inspire |  
+| bip_39_word_underscore_5 | trumpet_meadow_pulp_inspire_float |  
+| bip_39_word_underscore_6 | trumpet_meadow_pulp_inspire_float_supreme |  
+| bip_39_word_underscore_7 | trumpet_meadow_pulp_inspire_float_supreme_apple |  
+| bip_39_word_underscore_8 | trumpet_meadow_pulp_inspire_float_supreme_apple_toddler |  
+| bip_39_word_underscore_9 | trumpet_meadow_pulp_inspire_float_supreme_apple_toddler_hotel |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

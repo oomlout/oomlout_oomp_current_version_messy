@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | people |  
+| bip_39_word_dash_10 | people-bean-happy-antenna-unit-ozone-power-spy-coral-goddess |  
+| bip_39_word_dash_11 | people-bean-happy-antenna-unit-ozone-power-spy-coral-goddess-knife |  
+| bip_39_word_dash_12 | people-bean-happy-antenna-unit-ozone-power-spy-coral-goddess-knife-auction |  
+| bip_39_word_dash_2 | people-bean |  
+| bip_39_word_dash_3 | people-bean-happy |  
+| bip_39_word_dash_4 | people-bean-happy-antenna |  
+| bip_39_word_dash_5 | people-bean-happy-antenna-unit |  
+| bip_39_word_dash_6 | people-bean-happy-antenna-unit-ozone |  
+| bip_39_word_dash_7 | people-bean-happy-antenna-unit-ozone-power |  
+| bip_39_word_dash_8 | people-bean-happy-antenna-unit-ozone-power-spy |  
+| bip_39_word_dash_9 | people-bean-happy-antenna-unit-ozone-power-spy-coral |  
 | bip_39_word_new_br_1 | people |  
 | bip_39_word_new_br_10 | people<br>bean<br>happy<br>antenna<br>unit<br>ozone<br>power<br>spy<br>coral<br>goddess |  
 | bip_39_word_new_br_11 | people<br>bean<br>happy<br>antenna<br>unit<br>ozone<br>power<br>spy<br>coral<br>goddess<br>knife |  
@@ -147,6 +159,18 @@ coral |
 | bip_39_word_space_7 | people bean happy antenna unit ozone power |  
 | bip_39_word_space_8 | people bean happy antenna unit ozone power spy |  
 | bip_39_word_space_9 | people bean happy antenna unit ozone power spy coral |  
+| bip_39_word_underscore_1 | people |  
+| bip_39_word_underscore_10 | people_bean_happy_antenna_unit_ozone_power_spy_coral_goddess |  
+| bip_39_word_underscore_11 | people_bean_happy_antenna_unit_ozone_power_spy_coral_goddess_knife |  
+| bip_39_word_underscore_12 | people_bean_happy_antenna_unit_ozone_power_spy_coral_goddess_knife_auction |  
+| bip_39_word_underscore_2 | people_bean |  
+| bip_39_word_underscore_3 | people_bean_happy |  
+| bip_39_word_underscore_4 | people_bean_happy_antenna |  
+| bip_39_word_underscore_5 | people_bean_happy_antenna_unit |  
+| bip_39_word_underscore_6 | people_bean_happy_antenna_unit_ozone |  
+| bip_39_word_underscore_7 | people_bean_happy_antenna_unit_ozone_power |  
+| bip_39_word_underscore_8 | people_bean_happy_antenna_unit_ozone_power_spy |  
+| bip_39_word_underscore_9 | people_bean_happy_antenna_unit_ozone_power_spy_coral |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

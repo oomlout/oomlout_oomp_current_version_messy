@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | subway |  
+| bip_39_word_dash_10 | subway-tennis-general-nut-crime-rich-slender-fever-heart-all |  
+| bip_39_word_dash_11 | subway-tennis-general-nut-crime-rich-slender-fever-heart-all-wealth |  
+| bip_39_word_dash_12 | subway-tennis-general-nut-crime-rich-slender-fever-heart-all-wealth-anger |  
+| bip_39_word_dash_2 | subway-tennis |  
+| bip_39_word_dash_3 | subway-tennis-general |  
+| bip_39_word_dash_4 | subway-tennis-general-nut |  
+| bip_39_word_dash_5 | subway-tennis-general-nut-crime |  
+| bip_39_word_dash_6 | subway-tennis-general-nut-crime-rich |  
+| bip_39_word_dash_7 | subway-tennis-general-nut-crime-rich-slender |  
+| bip_39_word_dash_8 | subway-tennis-general-nut-crime-rich-slender-fever |  
+| bip_39_word_dash_9 | subway-tennis-general-nut-crime-rich-slender-fever-heart |  
 | bip_39_word_new_br_1 | subway |  
 | bip_39_word_new_br_10 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all |  
 | bip_39_word_new_br_11 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all<br>wealth |  
@@ -147,6 +159,18 @@ heart |
 | bip_39_word_space_7 | subway tennis general nut crime rich slender |  
 | bip_39_word_space_8 | subway tennis general nut crime rich slender fever |  
 | bip_39_word_space_9 | subway tennis general nut crime rich slender fever heart |  
+| bip_39_word_underscore_1 | subway |  
+| bip_39_word_underscore_10 | subway_tennis_general_nut_crime_rich_slender_fever_heart_all |  
+| bip_39_word_underscore_11 | subway_tennis_general_nut_crime_rich_slender_fever_heart_all_wealth |  
+| bip_39_word_underscore_12 | subway_tennis_general_nut_crime_rich_slender_fever_heart_all_wealth_anger |  
+| bip_39_word_underscore_2 | subway_tennis |  
+| bip_39_word_underscore_3 | subway_tennis_general |  
+| bip_39_word_underscore_4 | subway_tennis_general_nut |  
+| bip_39_word_underscore_5 | subway_tennis_general_nut_crime |  
+| bip_39_word_underscore_6 | subway_tennis_general_nut_crime_rich |  
+| bip_39_word_underscore_7 | subway_tennis_general_nut_crime_rich_slender |  
+| bip_39_word_underscore_8 | subway_tennis_general_nut_crime_rich_slender_fever |  
+| bip_39_word_underscore_9 | subway_tennis_general_nut_crime_rich_slender_fever_heart |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

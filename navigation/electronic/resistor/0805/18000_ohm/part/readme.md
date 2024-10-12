@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dove |  
+| bip_39_word_dash_10 | dove-hundred-hospital-romance-fall-emotion-spirit-faint-toddler-wise |  
+| bip_39_word_dash_11 | dove-hundred-hospital-romance-fall-emotion-spirit-faint-toddler-wise-exhibit |  
+| bip_39_word_dash_12 | dove-hundred-hospital-romance-fall-emotion-spirit-faint-toddler-wise-exhibit-all |  
+| bip_39_word_dash_2 | dove-hundred |  
+| bip_39_word_dash_3 | dove-hundred-hospital |  
+| bip_39_word_dash_4 | dove-hundred-hospital-romance |  
+| bip_39_word_dash_5 | dove-hundred-hospital-romance-fall |  
+| bip_39_word_dash_6 | dove-hundred-hospital-romance-fall-emotion |  
+| bip_39_word_dash_7 | dove-hundred-hospital-romance-fall-emotion-spirit |  
+| bip_39_word_dash_8 | dove-hundred-hospital-romance-fall-emotion-spirit-faint |  
+| bip_39_word_dash_9 | dove-hundred-hospital-romance-fall-emotion-spirit-faint-toddler |  
 | bip_39_word_new_br_1 | dove |  
 | bip_39_word_new_br_10 | dove<br>hundred<br>hospital<br>romance<br>fall<br>emotion<br>spirit<br>faint<br>toddler<br>wise |  
 | bip_39_word_new_br_11 | dove<br>hundred<br>hospital<br>romance<br>fall<br>emotion<br>spirit<br>faint<br>toddler<br>wise<br>exhibit |  
@@ -147,6 +159,18 @@ toddler |
 | bip_39_word_space_7 | dove hundred hospital romance fall emotion spirit |  
 | bip_39_word_space_8 | dove hundred hospital romance fall emotion spirit faint |  
 | bip_39_word_space_9 | dove hundred hospital romance fall emotion spirit faint toddler |  
+| bip_39_word_underscore_1 | dove |  
+| bip_39_word_underscore_10 | dove_hundred_hospital_romance_fall_emotion_spirit_faint_toddler_wise |  
+| bip_39_word_underscore_11 | dove_hundred_hospital_romance_fall_emotion_spirit_faint_toddler_wise_exhibit |  
+| bip_39_word_underscore_12 | dove_hundred_hospital_romance_fall_emotion_spirit_faint_toddler_wise_exhibit_all |  
+| bip_39_word_underscore_2 | dove_hundred |  
+| bip_39_word_underscore_3 | dove_hundred_hospital |  
+| bip_39_word_underscore_4 | dove_hundred_hospital_romance |  
+| bip_39_word_underscore_5 | dove_hundred_hospital_romance_fall |  
+| bip_39_word_underscore_6 | dove_hundred_hospital_romance_fall_emotion |  
+| bip_39_word_underscore_7 | dove_hundred_hospital_romance_fall_emotion_spirit |  
+| bip_39_word_underscore_8 | dove_hundred_hospital_romance_fall_emotion_spirit_faint |  
+| bip_39_word_underscore_9 | dove_hundred_hospital_romance_fall_emotion_spirit_faint_toddler |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

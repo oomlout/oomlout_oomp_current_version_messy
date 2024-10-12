@@ -1,3 +1,15 @@
+bip_39_word_dash_1: once
+bip_39_word_dash_10: once-purity-frown-celery-connect-finish-gravity-finish-leave-head
+bip_39_word_dash_11: once-purity-frown-celery-connect-finish-gravity-finish-leave-head-direct
+bip_39_word_dash_12: once-purity-frown-celery-connect-finish-gravity-finish-leave-head-direct-about
+bip_39_word_dash_2: once-purity
+bip_39_word_dash_3: once-purity-frown
+bip_39_word_dash_4: once-purity-frown-celery
+bip_39_word_dash_5: once-purity-frown-celery-connect
+bip_39_word_dash_6: once-purity-frown-celery-connect-finish
+bip_39_word_dash_7: once-purity-frown-celery-connect-finish-gravity
+bip_39_word_dash_8: once-purity-frown-celery-connect-finish-gravity-finish
+bip_39_word_dash_9: once-purity-frown-celery-connect-finish-gravity-finish-leave
 bip_39_word_new_br_1: once
 bip_39_word_new_br_10: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head
 bip_39_word_new_br_11: once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head<br>direct
@@ -194,6 +206,18 @@ bip_39_word_space_6: once purity frown celery connect finish
 bip_39_word_space_7: once purity frown celery connect finish gravity
 bip_39_word_space_8: once purity frown celery connect finish gravity finish
 bip_39_word_space_9: once purity frown celery connect finish gravity finish leave
+bip_39_word_underscore_1: once
+bip_39_word_underscore_10: once_purity_frown_celery_connect_finish_gravity_finish_leave_head
+bip_39_word_underscore_11: once_purity_frown_celery_connect_finish_gravity_finish_leave_head_direct
+bip_39_word_underscore_12: once_purity_frown_celery_connect_finish_gravity_finish_leave_head_direct_about
+bip_39_word_underscore_2: once_purity
+bip_39_word_underscore_3: once_purity_frown
+bip_39_word_underscore_4: once_purity_frown_celery
+bip_39_word_underscore_5: once_purity_frown_celery_connect
+bip_39_word_underscore_6: once_purity_frown_celery_connect_finish
+bip_39_word_underscore_7: once_purity_frown_celery_connect_finish_gravity
+bip_39_word_underscore_8: once_purity_frown_celery_connect_finish_gravity_finish
+bip_39_word_underscore_9: once_purity_frown_celery_connect_finish_gravity_finish_leave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

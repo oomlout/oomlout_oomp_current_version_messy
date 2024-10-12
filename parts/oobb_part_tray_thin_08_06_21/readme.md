@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | delay |  
+| bip_39_word_dash_10 | delay-hurdle-tortoise-hint-mystery-priority-clog-assist-ugly-fold |  
+| bip_39_word_dash_11 | delay-hurdle-tortoise-hint-mystery-priority-clog-assist-ugly-fold-pumpkin |  
+| bip_39_word_dash_12 | delay-hurdle-tortoise-hint-mystery-priority-clog-assist-ugly-fold-pumpkin-again |  
+| bip_39_word_dash_2 | delay-hurdle |  
+| bip_39_word_dash_3 | delay-hurdle-tortoise |  
+| bip_39_word_dash_4 | delay-hurdle-tortoise-hint |  
+| bip_39_word_dash_5 | delay-hurdle-tortoise-hint-mystery |  
+| bip_39_word_dash_6 | delay-hurdle-tortoise-hint-mystery-priority |  
+| bip_39_word_dash_7 | delay-hurdle-tortoise-hint-mystery-priority-clog |  
+| bip_39_word_dash_8 | delay-hurdle-tortoise-hint-mystery-priority-clog-assist |  
+| bip_39_word_dash_9 | delay-hurdle-tortoise-hint-mystery-priority-clog-assist-ugly |  
 | bip_39_word_new_br_1 | delay |  
 | bip_39_word_new_br_10 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold |  
 | bip_39_word_new_br_11 | delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold<br>pumpkin |  
@@ -147,6 +159,18 @@ ugly |
 | bip_39_word_space_7 | delay hurdle tortoise hint mystery priority clog |  
 | bip_39_word_space_8 | delay hurdle tortoise hint mystery priority clog assist |  
 | bip_39_word_space_9 | delay hurdle tortoise hint mystery priority clog assist ugly |  
+| bip_39_word_underscore_1 | delay |  
+| bip_39_word_underscore_10 | delay_hurdle_tortoise_hint_mystery_priority_clog_assist_ugly_fold |  
+| bip_39_word_underscore_11 | delay_hurdle_tortoise_hint_mystery_priority_clog_assist_ugly_fold_pumpkin |  
+| bip_39_word_underscore_12 | delay_hurdle_tortoise_hint_mystery_priority_clog_assist_ugly_fold_pumpkin_again |  
+| bip_39_word_underscore_2 | delay_hurdle |  
+| bip_39_word_underscore_3 | delay_hurdle_tortoise |  
+| bip_39_word_underscore_4 | delay_hurdle_tortoise_hint |  
+| bip_39_word_underscore_5 | delay_hurdle_tortoise_hint_mystery |  
+| bip_39_word_underscore_6 | delay_hurdle_tortoise_hint_mystery_priority |  
+| bip_39_word_underscore_7 | delay_hurdle_tortoise_hint_mystery_priority_clog |  
+| bip_39_word_underscore_8 | delay_hurdle_tortoise_hint_mystery_priority_clog_assist |  
+| bip_39_word_underscore_9 | delay_hurdle_tortoise_hint_mystery_priority_clog_assist_ugly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

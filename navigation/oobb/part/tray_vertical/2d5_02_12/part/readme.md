@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fever |  
+| bip_39_word_dash_10 | fever-metal-focus-divorce-obscure-announce-razor-joke-patch-dizzy |  
+| bip_39_word_dash_11 | fever-metal-focus-divorce-obscure-announce-razor-joke-patch-dizzy-danger |  
+| bip_39_word_dash_12 | fever-metal-focus-divorce-obscure-announce-razor-joke-patch-dizzy-danger-atom |  
+| bip_39_word_dash_2 | fever-metal |  
+| bip_39_word_dash_3 | fever-metal-focus |  
+| bip_39_word_dash_4 | fever-metal-focus-divorce |  
+| bip_39_word_dash_5 | fever-metal-focus-divorce-obscure |  
+| bip_39_word_dash_6 | fever-metal-focus-divorce-obscure-announce |  
+| bip_39_word_dash_7 | fever-metal-focus-divorce-obscure-announce-razor |  
+| bip_39_word_dash_8 | fever-metal-focus-divorce-obscure-announce-razor-joke |  
+| bip_39_word_dash_9 | fever-metal-focus-divorce-obscure-announce-razor-joke-patch |  
 | bip_39_word_new_br_1 | fever |  
 | bip_39_word_new_br_10 | fever<br>metal<br>focus<br>divorce<br>obscure<br>announce<br>razor<br>joke<br>patch<br>dizzy |  
 | bip_39_word_new_br_11 | fever<br>metal<br>focus<br>divorce<br>obscure<br>announce<br>razor<br>joke<br>patch<br>dizzy<br>danger |  
@@ -147,6 +159,18 @@ patch |
 | bip_39_word_space_7 | fever metal focus divorce obscure announce razor |  
 | bip_39_word_space_8 | fever metal focus divorce obscure announce razor joke |  
 | bip_39_word_space_9 | fever metal focus divorce obscure announce razor joke patch |  
+| bip_39_word_underscore_1 | fever |  
+| bip_39_word_underscore_10 | fever_metal_focus_divorce_obscure_announce_razor_joke_patch_dizzy |  
+| bip_39_word_underscore_11 | fever_metal_focus_divorce_obscure_announce_razor_joke_patch_dizzy_danger |  
+| bip_39_word_underscore_12 | fever_metal_focus_divorce_obscure_announce_razor_joke_patch_dizzy_danger_atom |  
+| bip_39_word_underscore_2 | fever_metal |  
+| bip_39_word_underscore_3 | fever_metal_focus |  
+| bip_39_word_underscore_4 | fever_metal_focus_divorce |  
+| bip_39_word_underscore_5 | fever_metal_focus_divorce_obscure |  
+| bip_39_word_underscore_6 | fever_metal_focus_divorce_obscure_announce |  
+| bip_39_word_underscore_7 | fever_metal_focus_divorce_obscure_announce_razor |  
+| bip_39_word_underscore_8 | fever_metal_focus_divorce_obscure_announce_razor_joke |  
+| bip_39_word_underscore_9 | fever_metal_focus_divorce_obscure_announce_razor_joke_patch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

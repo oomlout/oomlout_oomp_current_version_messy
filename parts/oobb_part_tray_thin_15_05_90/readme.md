@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | duck |  
+| bip_39_word_dash_10 | duck-purse-battle-predict-surge-obtain-dune-valve-vital-dinner |  
+| bip_39_word_dash_11 | duck-purse-battle-predict-surge-obtain-dune-valve-vital-dinner-organ |  
+| bip_39_word_dash_12 | duck-purse-battle-predict-surge-obtain-dune-valve-vital-dinner-organ-actress |  
+| bip_39_word_dash_2 | duck-purse |  
+| bip_39_word_dash_3 | duck-purse-battle |  
+| bip_39_word_dash_4 | duck-purse-battle-predict |  
+| bip_39_word_dash_5 | duck-purse-battle-predict-surge |  
+| bip_39_word_dash_6 | duck-purse-battle-predict-surge-obtain |  
+| bip_39_word_dash_7 | duck-purse-battle-predict-surge-obtain-dune |  
+| bip_39_word_dash_8 | duck-purse-battle-predict-surge-obtain-dune-valve |  
+| bip_39_word_dash_9 | duck-purse-battle-predict-surge-obtain-dune-valve-vital |  
 | bip_39_word_new_br_1 | duck |  
 | bip_39_word_new_br_10 | duck<br>purse<br>battle<br>predict<br>surge<br>obtain<br>dune<br>valve<br>vital<br>dinner |  
 | bip_39_word_new_br_11 | duck<br>purse<br>battle<br>predict<br>surge<br>obtain<br>dune<br>valve<br>vital<br>dinner<br>organ |  
@@ -147,6 +159,18 @@ vital |
 | bip_39_word_space_7 | duck purse battle predict surge obtain dune |  
 | bip_39_word_space_8 | duck purse battle predict surge obtain dune valve |  
 | bip_39_word_space_9 | duck purse battle predict surge obtain dune valve vital |  
+| bip_39_word_underscore_1 | duck |  
+| bip_39_word_underscore_10 | duck_purse_battle_predict_surge_obtain_dune_valve_vital_dinner |  
+| bip_39_word_underscore_11 | duck_purse_battle_predict_surge_obtain_dune_valve_vital_dinner_organ |  
+| bip_39_word_underscore_12 | duck_purse_battle_predict_surge_obtain_dune_valve_vital_dinner_organ_actress |  
+| bip_39_word_underscore_2 | duck_purse |  
+| bip_39_word_underscore_3 | duck_purse_battle |  
+| bip_39_word_underscore_4 | duck_purse_battle_predict |  
+| bip_39_word_underscore_5 | duck_purse_battle_predict_surge |  
+| bip_39_word_underscore_6 | duck_purse_battle_predict_surge_obtain |  
+| bip_39_word_underscore_7 | duck_purse_battle_predict_surge_obtain_dune |  
+| bip_39_word_underscore_8 | duck_purse_battle_predict_surge_obtain_dune_valve |  
+| bip_39_word_underscore_9 | duck_purse_battle_predict_surge_obtain_dune_valve_vital |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

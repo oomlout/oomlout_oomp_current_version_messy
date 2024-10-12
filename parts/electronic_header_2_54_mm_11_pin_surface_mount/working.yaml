@@ -1,3 +1,15 @@
+bip_39_word_dash_1: high
+bip_39_word_dash_10: high-reunion-taxi-volume-order-good-pond-robot-victory-fruit
+bip_39_word_dash_11: high-reunion-taxi-volume-order-good-pond-robot-victory-fruit-bright
+bip_39_word_dash_12: high-reunion-taxi-volume-order-good-pond-robot-victory-fruit-bright-analyst
+bip_39_word_dash_2: high-reunion
+bip_39_word_dash_3: high-reunion-taxi
+bip_39_word_dash_4: high-reunion-taxi-volume
+bip_39_word_dash_5: high-reunion-taxi-volume-order
+bip_39_word_dash_6: high-reunion-taxi-volume-order-good
+bip_39_word_dash_7: high-reunion-taxi-volume-order-good-pond
+bip_39_word_dash_8: high-reunion-taxi-volume-order-good-pond-robot
+bip_39_word_dash_9: high-reunion-taxi-volume-order-good-pond-robot-victory
 bip_39_word_new_br_1: high
 bip_39_word_new_br_10: high<br>reunion<br>taxi<br>volume<br>order<br>good<br>pond<br>robot<br>victory<br>fruit
 bip_39_word_new_br_11: high<br>reunion<br>taxi<br>volume<br>order<br>good<br>pond<br>robot<br>victory<br>fruit<br>bright
@@ -193,6 +205,18 @@ bip_39_word_space_6: high reunion taxi volume order good
 bip_39_word_space_7: high reunion taxi volume order good pond
 bip_39_word_space_8: high reunion taxi volume order good pond robot
 bip_39_word_space_9: high reunion taxi volume order good pond robot victory
+bip_39_word_underscore_1: high
+bip_39_word_underscore_10: high_reunion_taxi_volume_order_good_pond_robot_victory_fruit
+bip_39_word_underscore_11: high_reunion_taxi_volume_order_good_pond_robot_victory_fruit_bright
+bip_39_word_underscore_12: high_reunion_taxi_volume_order_good_pond_robot_victory_fruit_bright_analyst
+bip_39_word_underscore_2: high_reunion
+bip_39_word_underscore_3: high_reunion_taxi
+bip_39_word_underscore_4: high_reunion_taxi_volume
+bip_39_word_underscore_5: high_reunion_taxi_volume_order
+bip_39_word_underscore_6: high_reunion_taxi_volume_order_good
+bip_39_word_underscore_7: high_reunion_taxi_volume_order_good_pond
+bip_39_word_underscore_8: high_reunion_taxi_volume_order_good_pond_robot
+bip_39_word_underscore_9: high_reunion_taxi_volume_order_good_pond_robot_victory
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

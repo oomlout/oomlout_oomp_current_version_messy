@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hard |  
+| bip_39_word_dash_10 | hard-rural-guard-girl-boss-demise-joy-improve-expand-name |  
+| bip_39_word_dash_11 | hard-rural-guard-girl-boss-demise-joy-improve-expand-name-eager |  
+| bip_39_word_dash_12 | hard-rural-guard-girl-boss-demise-joy-improve-expand-name-eager-any |  
+| bip_39_word_dash_2 | hard-rural |  
+| bip_39_word_dash_3 | hard-rural-guard |  
+| bip_39_word_dash_4 | hard-rural-guard-girl |  
+| bip_39_word_dash_5 | hard-rural-guard-girl-boss |  
+| bip_39_word_dash_6 | hard-rural-guard-girl-boss-demise |  
+| bip_39_word_dash_7 | hard-rural-guard-girl-boss-demise-joy |  
+| bip_39_word_dash_8 | hard-rural-guard-girl-boss-demise-joy-improve |  
+| bip_39_word_dash_9 | hard-rural-guard-girl-boss-demise-joy-improve-expand |  
 | bip_39_word_new_br_1 | hard |  
 | bip_39_word_new_br_10 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve<br>expand<br>name |  
 | bip_39_word_new_br_11 | hard<br>rural<br>guard<br>girl<br>boss<br>demise<br>joy<br>improve<br>expand<br>name<br>eager |  
@@ -147,6 +159,18 @@ expand |
 | bip_39_word_space_7 | hard rural guard girl boss demise joy |  
 | bip_39_word_space_8 | hard rural guard girl boss demise joy improve |  
 | bip_39_word_space_9 | hard rural guard girl boss demise joy improve expand |  
+| bip_39_word_underscore_1 | hard |  
+| bip_39_word_underscore_10 | hard_rural_guard_girl_boss_demise_joy_improve_expand_name |  
+| bip_39_word_underscore_11 | hard_rural_guard_girl_boss_demise_joy_improve_expand_name_eager |  
+| bip_39_word_underscore_12 | hard_rural_guard_girl_boss_demise_joy_improve_expand_name_eager_any |  
+| bip_39_word_underscore_2 | hard_rural |  
+| bip_39_word_underscore_3 | hard_rural_guard |  
+| bip_39_word_underscore_4 | hard_rural_guard_girl |  
+| bip_39_word_underscore_5 | hard_rural_guard_girl_boss |  
+| bip_39_word_underscore_6 | hard_rural_guard_girl_boss_demise |  
+| bip_39_word_underscore_7 | hard_rural_guard_girl_boss_demise_joy |  
+| bip_39_word_underscore_8 | hard_rural_guard_girl_boss_demise_joy_improve |  
+| bip_39_word_underscore_9 | hard_rural_guard_girl_boss_demise_joy_improve_expand |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

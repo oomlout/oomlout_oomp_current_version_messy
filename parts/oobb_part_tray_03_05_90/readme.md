@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | room |  
+| bip_39_word_dash_10 | room-awesome-faith-purity-cotton-aerobic-room-smart-blue-cousin |  
+| bip_39_word_dash_11 | room-awesome-faith-purity-cotton-aerobic-room-smart-blue-cousin-receive |  
+| bip_39_word_dash_12 | room-awesome-faith-purity-cotton-aerobic-room-smart-blue-cousin-receive-arena |  
+| bip_39_word_dash_2 | room-awesome |  
+| bip_39_word_dash_3 | room-awesome-faith |  
+| bip_39_word_dash_4 | room-awesome-faith-purity |  
+| bip_39_word_dash_5 | room-awesome-faith-purity-cotton |  
+| bip_39_word_dash_6 | room-awesome-faith-purity-cotton-aerobic |  
+| bip_39_word_dash_7 | room-awesome-faith-purity-cotton-aerobic-room |  
+| bip_39_word_dash_8 | room-awesome-faith-purity-cotton-aerobic-room-smart |  
+| bip_39_word_dash_9 | room-awesome-faith-purity-cotton-aerobic-room-smart-blue |  
 | bip_39_word_new_br_1 | room |  
 | bip_39_word_new_br_10 | room<br>awesome<br>faith<br>purity<br>cotton<br>aerobic<br>room<br>smart<br>blue<br>cousin |  
 | bip_39_word_new_br_11 | room<br>awesome<br>faith<br>purity<br>cotton<br>aerobic<br>room<br>smart<br>blue<br>cousin<br>receive |  
@@ -147,6 +159,18 @@ blue |
 | bip_39_word_space_7 | room awesome faith purity cotton aerobic room |  
 | bip_39_word_space_8 | room awesome faith purity cotton aerobic room smart |  
 | bip_39_word_space_9 | room awesome faith purity cotton aerobic room smart blue |  
+| bip_39_word_underscore_1 | room |  
+| bip_39_word_underscore_10 | room_awesome_faith_purity_cotton_aerobic_room_smart_blue_cousin |  
+| bip_39_word_underscore_11 | room_awesome_faith_purity_cotton_aerobic_room_smart_blue_cousin_receive |  
+| bip_39_word_underscore_12 | room_awesome_faith_purity_cotton_aerobic_room_smart_blue_cousin_receive_arena |  
+| bip_39_word_underscore_2 | room_awesome |  
+| bip_39_word_underscore_3 | room_awesome_faith |  
+| bip_39_word_underscore_4 | room_awesome_faith_purity |  
+| bip_39_word_underscore_5 | room_awesome_faith_purity_cotton |  
+| bip_39_word_underscore_6 | room_awesome_faith_purity_cotton_aerobic |  
+| bip_39_word_underscore_7 | room_awesome_faith_purity_cotton_aerobic_room |  
+| bip_39_word_underscore_8 | room_awesome_faith_purity_cotton_aerobic_room_smart |  
+| bip_39_word_underscore_9 | room_awesome_faith_purity_cotton_aerobic_room_smart_blue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

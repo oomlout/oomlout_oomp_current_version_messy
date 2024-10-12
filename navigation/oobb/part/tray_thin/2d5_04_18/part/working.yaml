@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cool
+bip_39_word_dash_10: cool-proud-double-saddle-want-anchor-endless-debate-educate-fiscal
+bip_39_word_dash_11: cool-proud-double-saddle-want-anchor-endless-debate-educate-fiscal-grass
+bip_39_word_dash_12: cool-proud-double-saddle-want-anchor-endless-debate-educate-fiscal-grass-air
+bip_39_word_dash_2: cool-proud
+bip_39_word_dash_3: cool-proud-double
+bip_39_word_dash_4: cool-proud-double-saddle
+bip_39_word_dash_5: cool-proud-double-saddle-want
+bip_39_word_dash_6: cool-proud-double-saddle-want-anchor
+bip_39_word_dash_7: cool-proud-double-saddle-want-anchor-endless
+bip_39_word_dash_8: cool-proud-double-saddle-want-anchor-endless-debate
+bip_39_word_dash_9: cool-proud-double-saddle-want-anchor-endless-debate-educate
 bip_39_word_new_br_1: cool
 bip_39_word_new_br_10: cool<br>proud<br>double<br>saddle<br>want<br>anchor<br>endless<br>debate<br>educate<br>fiscal
 bip_39_word_new_br_11: cool<br>proud<br>double<br>saddle<br>want<br>anchor<br>endless<br>debate<br>educate<br>fiscal<br>grass
@@ -194,6 +206,18 @@ bip_39_word_space_6: cool proud double saddle want anchor
 bip_39_word_space_7: cool proud double saddle want anchor endless
 bip_39_word_space_8: cool proud double saddle want anchor endless debate
 bip_39_word_space_9: cool proud double saddle want anchor endless debate educate
+bip_39_word_underscore_1: cool
+bip_39_word_underscore_10: cool_proud_double_saddle_want_anchor_endless_debate_educate_fiscal
+bip_39_word_underscore_11: cool_proud_double_saddle_want_anchor_endless_debate_educate_fiscal_grass
+bip_39_word_underscore_12: cool_proud_double_saddle_want_anchor_endless_debate_educate_fiscal_grass_air
+bip_39_word_underscore_2: cool_proud
+bip_39_word_underscore_3: cool_proud_double
+bip_39_word_underscore_4: cool_proud_double_saddle
+bip_39_word_underscore_5: cool_proud_double_saddle_want
+bip_39_word_underscore_6: cool_proud_double_saddle_want_anchor
+bip_39_word_underscore_7: cool_proud_double_saddle_want_anchor_endless
+bip_39_word_underscore_8: cool_proud_double_saddle_want_anchor_endless_debate
+bip_39_word_underscore_9: cool_proud_double_saddle_want_anchor_endless_debate_educate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

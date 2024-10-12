@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | april |  
+| bip_39_word_dash_10 | april-fatigue-group-crack-empty-annual-slim-fury-surge-infant |  
+| bip_39_word_dash_11 | april-fatigue-group-crack-empty-annual-slim-fury-surge-infant-lamp |  
+| bip_39_word_dash_12 | april-fatigue-group-crack-empty-annual-slim-fury-surge-infant-lamp-argue |  
+| bip_39_word_dash_2 | april-fatigue |  
+| bip_39_word_dash_3 | april-fatigue-group |  
+| bip_39_word_dash_4 | april-fatigue-group-crack |  
+| bip_39_word_dash_5 | april-fatigue-group-crack-empty |  
+| bip_39_word_dash_6 | april-fatigue-group-crack-empty-annual |  
+| bip_39_word_dash_7 | april-fatigue-group-crack-empty-annual-slim |  
+| bip_39_word_dash_8 | april-fatigue-group-crack-empty-annual-slim-fury |  
+| bip_39_word_dash_9 | april-fatigue-group-crack-empty-annual-slim-fury-surge |  
 | bip_39_word_new_br_1 | april |  
 | bip_39_word_new_br_10 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury<br>surge<br>infant |  
 | bip_39_word_new_br_11 | april<br>fatigue<br>group<br>crack<br>empty<br>annual<br>slim<br>fury<br>surge<br>infant<br>lamp |  
@@ -147,6 +159,18 @@ surge |
 | bip_39_word_space_7 | april fatigue group crack empty annual slim |  
 | bip_39_word_space_8 | april fatigue group crack empty annual slim fury |  
 | bip_39_word_space_9 | april fatigue group crack empty annual slim fury surge |  
+| bip_39_word_underscore_1 | april |  
+| bip_39_word_underscore_10 | april_fatigue_group_crack_empty_annual_slim_fury_surge_infant |  
+| bip_39_word_underscore_11 | april_fatigue_group_crack_empty_annual_slim_fury_surge_infant_lamp |  
+| bip_39_word_underscore_12 | april_fatigue_group_crack_empty_annual_slim_fury_surge_infant_lamp_argue |  
+| bip_39_word_underscore_2 | april_fatigue |  
+| bip_39_word_underscore_3 | april_fatigue_group |  
+| bip_39_word_underscore_4 | april_fatigue_group_crack |  
+| bip_39_word_underscore_5 | april_fatigue_group_crack_empty |  
+| bip_39_word_underscore_6 | april_fatigue_group_crack_empty_annual |  
+| bip_39_word_underscore_7 | april_fatigue_group_crack_empty_annual_slim |  
+| bip_39_word_underscore_8 | april_fatigue_group_crack_empty_annual_slim_fury |  
+| bip_39_word_underscore_9 | april_fatigue_group_crack_empty_annual_slim_fury_surge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

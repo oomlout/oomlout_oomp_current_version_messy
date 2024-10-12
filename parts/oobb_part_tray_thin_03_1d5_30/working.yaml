@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bomb
+bip_39_word_dash_10: bomb-table-door-accuse-stage-nest-dose-punch-pitch-fury
+bip_39_word_dash_11: bomb-table-door-accuse-stage-nest-dose-punch-pitch-fury-that
+bip_39_word_dash_12: bomb-table-door-accuse-stage-nest-dose-punch-pitch-fury-that-accuse
+bip_39_word_dash_2: bomb-table
+bip_39_word_dash_3: bomb-table-door
+bip_39_word_dash_4: bomb-table-door-accuse
+bip_39_word_dash_5: bomb-table-door-accuse-stage
+bip_39_word_dash_6: bomb-table-door-accuse-stage-nest
+bip_39_word_dash_7: bomb-table-door-accuse-stage-nest-dose
+bip_39_word_dash_8: bomb-table-door-accuse-stage-nest-dose-punch
+bip_39_word_dash_9: bomb-table-door-accuse-stage-nest-dose-punch-pitch
 bip_39_word_new_br_1: bomb
 bip_39_word_new_br_10: bomb<br>table<br>door<br>accuse<br>stage<br>nest<br>dose<br>punch<br>pitch<br>fury
 bip_39_word_new_br_11: bomb<br>table<br>door<br>accuse<br>stage<br>nest<br>dose<br>punch<br>pitch<br>fury<br>that
@@ -192,6 +204,18 @@ bip_39_word_space_6: bomb table door accuse stage nest
 bip_39_word_space_7: bomb table door accuse stage nest dose
 bip_39_word_space_8: bomb table door accuse stage nest dose punch
 bip_39_word_space_9: bomb table door accuse stage nest dose punch pitch
+bip_39_word_underscore_1: bomb
+bip_39_word_underscore_10: bomb_table_door_accuse_stage_nest_dose_punch_pitch_fury
+bip_39_word_underscore_11: bomb_table_door_accuse_stage_nest_dose_punch_pitch_fury_that
+bip_39_word_underscore_12: bomb_table_door_accuse_stage_nest_dose_punch_pitch_fury_that_accuse
+bip_39_word_underscore_2: bomb_table
+bip_39_word_underscore_3: bomb_table_door
+bip_39_word_underscore_4: bomb_table_door_accuse
+bip_39_word_underscore_5: bomb_table_door_accuse_stage
+bip_39_word_underscore_6: bomb_table_door_accuse_stage_nest
+bip_39_word_underscore_7: bomb_table_door_accuse_stage_nest_dose
+bip_39_word_underscore_8: bomb_table_door_accuse_stage_nest_dose_punch
+bip_39_word_underscore_9: bomb_table_door_accuse_stage_nest_dose_punch_pitch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

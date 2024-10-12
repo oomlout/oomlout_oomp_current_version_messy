@@ -1,3 +1,15 @@
+bip_39_word_dash_1: drop
+bip_39_word_dash_10: drop-outdoor-smile-dune-village-tackle-access-swap-unable-wire
+bip_39_word_dash_11: drop-outdoor-smile-dune-village-tackle-access-swap-unable-wire-tide
+bip_39_word_dash_12: drop-outdoor-smile-dune-village-tackle-access-swap-unable-wire-tide-affair
+bip_39_word_dash_2: drop-outdoor
+bip_39_word_dash_3: drop-outdoor-smile
+bip_39_word_dash_4: drop-outdoor-smile-dune
+bip_39_word_dash_5: drop-outdoor-smile-dune-village
+bip_39_word_dash_6: drop-outdoor-smile-dune-village-tackle
+bip_39_word_dash_7: drop-outdoor-smile-dune-village-tackle-access
+bip_39_word_dash_8: drop-outdoor-smile-dune-village-tackle-access-swap
+bip_39_word_dash_9: drop-outdoor-smile-dune-village-tackle-access-swap-unable
 bip_39_word_new_br_1: drop
 bip_39_word_new_br_10: drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire
 bip_39_word_new_br_11: drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire<br>tide
@@ -193,6 +205,18 @@ bip_39_word_space_6: drop outdoor smile dune village tackle
 bip_39_word_space_7: drop outdoor smile dune village tackle access
 bip_39_word_space_8: drop outdoor smile dune village tackle access swap
 bip_39_word_space_9: drop outdoor smile dune village tackle access swap unable
+bip_39_word_underscore_1: drop
+bip_39_word_underscore_10: drop_outdoor_smile_dune_village_tackle_access_swap_unable_wire
+bip_39_word_underscore_11: drop_outdoor_smile_dune_village_tackle_access_swap_unable_wire_tide
+bip_39_word_underscore_12: drop_outdoor_smile_dune_village_tackle_access_swap_unable_wire_tide_affair
+bip_39_word_underscore_2: drop_outdoor
+bip_39_word_underscore_3: drop_outdoor_smile
+bip_39_word_underscore_4: drop_outdoor_smile_dune
+bip_39_word_underscore_5: drop_outdoor_smile_dune_village
+bip_39_word_underscore_6: drop_outdoor_smile_dune_village_tackle
+bip_39_word_underscore_7: drop_outdoor_smile_dune_village_tackle_access
+bip_39_word_underscore_8: drop_outdoor_smile_dune_village_tackle_access_swap
+bip_39_word_underscore_9: drop_outdoor_smile_dune_village_tackle_access_swap_unable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

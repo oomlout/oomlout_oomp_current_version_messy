@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | select |  
+| bip_39_word_dash_10 | select-core-rule-frame-fatal-maze-hole-ugly-indicate-carpet |  
+| bip_39_word_dash_11 | select-core-rule-frame-fatal-maze-hole-ugly-indicate-carpet-whisper |  
+| bip_39_word_dash_12 | select-core-rule-frame-fatal-maze-hole-ugly-indicate-carpet-whisper-arctic |  
+| bip_39_word_dash_2 | select-core |  
+| bip_39_word_dash_3 | select-core-rule |  
+| bip_39_word_dash_4 | select-core-rule-frame |  
+| bip_39_word_dash_5 | select-core-rule-frame-fatal |  
+| bip_39_word_dash_6 | select-core-rule-frame-fatal-maze |  
+| bip_39_word_dash_7 | select-core-rule-frame-fatal-maze-hole |  
+| bip_39_word_dash_8 | select-core-rule-frame-fatal-maze-hole-ugly |  
+| bip_39_word_dash_9 | select-core-rule-frame-fatal-maze-hole-ugly-indicate |  
 | bip_39_word_new_br_1 | select |  
 | bip_39_word_new_br_10 | select<br>core<br>rule<br>frame<br>fatal<br>maze<br>hole<br>ugly<br>indicate<br>carpet |  
 | bip_39_word_new_br_11 | select<br>core<br>rule<br>frame<br>fatal<br>maze<br>hole<br>ugly<br>indicate<br>carpet<br>whisper |  
@@ -147,6 +159,18 @@ indicate |
 | bip_39_word_space_7 | select core rule frame fatal maze hole |  
 | bip_39_word_space_8 | select core rule frame fatal maze hole ugly |  
 | bip_39_word_space_9 | select core rule frame fatal maze hole ugly indicate |  
+| bip_39_word_underscore_1 | select |  
+| bip_39_word_underscore_10 | select_core_rule_frame_fatal_maze_hole_ugly_indicate_carpet |  
+| bip_39_word_underscore_11 | select_core_rule_frame_fatal_maze_hole_ugly_indicate_carpet_whisper |  
+| bip_39_word_underscore_12 | select_core_rule_frame_fatal_maze_hole_ugly_indicate_carpet_whisper_arctic |  
+| bip_39_word_underscore_2 | select_core |  
+| bip_39_word_underscore_3 | select_core_rule |  
+| bip_39_word_underscore_4 | select_core_rule_frame |  
+| bip_39_word_underscore_5 | select_core_rule_frame_fatal |  
+| bip_39_word_underscore_6 | select_core_rule_frame_fatal_maze |  
+| bip_39_word_underscore_7 | select_core_rule_frame_fatal_maze_hole |  
+| bip_39_word_underscore_8 | select_core_rule_frame_fatal_maze_hole_ugly |  
+| bip_39_word_underscore_9 | select_core_rule_frame_fatal_maze_hole_ugly_indicate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

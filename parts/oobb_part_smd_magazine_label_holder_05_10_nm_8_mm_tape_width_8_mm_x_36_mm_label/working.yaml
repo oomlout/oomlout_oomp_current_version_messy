@@ -1,3 +1,15 @@
+bip_39_word_dash_1: latin
+bip_39_word_dash_10: latin-extend-love-core-average-also-melt-copper-file-swing
+bip_39_word_dash_11: latin-extend-love-core-average-also-melt-copper-file-swing-involve
+bip_39_word_dash_12: latin-extend-love-core-average-also-melt-copper-file-swing-involve-antique
+bip_39_word_dash_2: latin-extend
+bip_39_word_dash_3: latin-extend-love
+bip_39_word_dash_4: latin-extend-love-core
+bip_39_word_dash_5: latin-extend-love-core-average
+bip_39_word_dash_6: latin-extend-love-core-average-also
+bip_39_word_dash_7: latin-extend-love-core-average-also-melt
+bip_39_word_dash_8: latin-extend-love-core-average-also-melt-copper
+bip_39_word_dash_9: latin-extend-love-core-average-also-melt-copper-file
 bip_39_word_new_br_1: latin
 bip_39_word_new_br_10: latin<br>extend<br>love<br>core<br>average<br>also<br>melt<br>copper<br>file<br>swing
 bip_39_word_new_br_11: latin<br>extend<br>love<br>core<br>average<br>also<br>melt<br>copper<br>file<br>swing<br>involve
@@ -192,6 +204,18 @@ bip_39_word_space_6: latin extend love core average also
 bip_39_word_space_7: latin extend love core average also melt
 bip_39_word_space_8: latin extend love core average also melt copper
 bip_39_word_space_9: latin extend love core average also melt copper file
+bip_39_word_underscore_1: latin
+bip_39_word_underscore_10: latin_extend_love_core_average_also_melt_copper_file_swing
+bip_39_word_underscore_11: latin_extend_love_core_average_also_melt_copper_file_swing_involve
+bip_39_word_underscore_12: latin_extend_love_core_average_also_melt_copper_file_swing_involve_antique
+bip_39_word_underscore_2: latin_extend
+bip_39_word_underscore_3: latin_extend_love
+bip_39_word_underscore_4: latin_extend_love_core
+bip_39_word_underscore_5: latin_extend_love_core_average
+bip_39_word_underscore_6: latin_extend_love_core_average_also
+bip_39_word_underscore_7: latin_extend_love_core_average_also_melt
+bip_39_word_underscore_8: latin_extend_love_core_average_also_melt_copper
+bip_39_word_underscore_9: latin_extend_love_core_average_also_melt_copper_file
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

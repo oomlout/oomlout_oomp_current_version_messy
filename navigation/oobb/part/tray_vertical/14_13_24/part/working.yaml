@@ -1,3 +1,15 @@
+bip_39_word_dash_1: amount
+bip_39_word_dash_10: amount-drift-season-tank-wool-front-evolve-family-nerve-aunt
+bip_39_word_dash_11: amount-drift-season-tank-wool-front-evolve-family-nerve-aunt-deal
+bip_39_word_dash_12: amount-drift-season-tank-wool-front-evolve-family-nerve-aunt-deal-account
+bip_39_word_dash_2: amount-drift
+bip_39_word_dash_3: amount-drift-season
+bip_39_word_dash_4: amount-drift-season-tank
+bip_39_word_dash_5: amount-drift-season-tank-wool
+bip_39_word_dash_6: amount-drift-season-tank-wool-front
+bip_39_word_dash_7: amount-drift-season-tank-wool-front-evolve
+bip_39_word_dash_8: amount-drift-season-tank-wool-front-evolve-family
+bip_39_word_dash_9: amount-drift-season-tank-wool-front-evolve-family-nerve
 bip_39_word_new_br_1: amount
 bip_39_word_new_br_10: amount<br>drift<br>season<br>tank<br>wool<br>front<br>evolve<br>family<br>nerve<br>aunt
 bip_39_word_new_br_11: amount<br>drift<br>season<br>tank<br>wool<br>front<br>evolve<br>family<br>nerve<br>aunt<br>deal
@@ -193,6 +205,18 @@ bip_39_word_space_6: amount drift season tank wool front
 bip_39_word_space_7: amount drift season tank wool front evolve
 bip_39_word_space_8: amount drift season tank wool front evolve family
 bip_39_word_space_9: amount drift season tank wool front evolve family nerve
+bip_39_word_underscore_1: amount
+bip_39_word_underscore_10: amount_drift_season_tank_wool_front_evolve_family_nerve_aunt
+bip_39_word_underscore_11: amount_drift_season_tank_wool_front_evolve_family_nerve_aunt_deal
+bip_39_word_underscore_12: amount_drift_season_tank_wool_front_evolve_family_nerve_aunt_deal_account
+bip_39_word_underscore_2: amount_drift
+bip_39_word_underscore_3: amount_drift_season
+bip_39_word_underscore_4: amount_drift_season_tank
+bip_39_word_underscore_5: amount_drift_season_tank_wool
+bip_39_word_underscore_6: amount_drift_season_tank_wool_front
+bip_39_word_underscore_7: amount_drift_season_tank_wool_front_evolve
+bip_39_word_underscore_8: amount_drift_season_tank_wool_front_evolve_family
+bip_39_word_underscore_9: amount_drift_season_tank_wool_front_evolve_family_nerve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

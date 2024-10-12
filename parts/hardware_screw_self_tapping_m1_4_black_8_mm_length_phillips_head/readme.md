@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cost |  
+| bip_39_word_dash_10 | cost-tunnel-tide-course-day-copper-seek-ice-book-staff |  
+| bip_39_word_dash_11 | cost-tunnel-tide-course-day-copper-seek-ice-book-staff-never |  
+| bip_39_word_dash_12 | cost-tunnel-tide-course-day-copper-seek-ice-book-staff-never-attack |  
+| bip_39_word_dash_2 | cost-tunnel |  
+| bip_39_word_dash_3 | cost-tunnel-tide |  
+| bip_39_word_dash_4 | cost-tunnel-tide-course |  
+| bip_39_word_dash_5 | cost-tunnel-tide-course-day |  
+| bip_39_word_dash_6 | cost-tunnel-tide-course-day-copper |  
+| bip_39_word_dash_7 | cost-tunnel-tide-course-day-copper-seek |  
+| bip_39_word_dash_8 | cost-tunnel-tide-course-day-copper-seek-ice |  
+| bip_39_word_dash_9 | cost-tunnel-tide-course-day-copper-seek-ice-book |  
 | bip_39_word_new_br_1 | cost |  
 | bip_39_word_new_br_10 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice<br>book<br>staff |  
 | bip_39_word_new_br_11 | cost<br>tunnel<br>tide<br>course<br>day<br>copper<br>seek<br>ice<br>book<br>staff<br>never |  
@@ -147,6 +159,18 @@ book |
 | bip_39_word_space_7 | cost tunnel tide course day copper seek |  
 | bip_39_word_space_8 | cost tunnel tide course day copper seek ice |  
 | bip_39_word_space_9 | cost tunnel tide course day copper seek ice book |  
+| bip_39_word_underscore_1 | cost |  
+| bip_39_word_underscore_10 | cost_tunnel_tide_course_day_copper_seek_ice_book_staff |  
+| bip_39_word_underscore_11 | cost_tunnel_tide_course_day_copper_seek_ice_book_staff_never |  
+| bip_39_word_underscore_12 | cost_tunnel_tide_course_day_copper_seek_ice_book_staff_never_attack |  
+| bip_39_word_underscore_2 | cost_tunnel |  
+| bip_39_word_underscore_3 | cost_tunnel_tide |  
+| bip_39_word_underscore_4 | cost_tunnel_tide_course |  
+| bip_39_word_underscore_5 | cost_tunnel_tide_course_day |  
+| bip_39_word_underscore_6 | cost_tunnel_tide_course_day_copper |  
+| bip_39_word_underscore_7 | cost_tunnel_tide_course_day_copper_seek |  
+| bip_39_word_underscore_8 | cost_tunnel_tide_course_day_copper_seek_ice |  
+| bip_39_word_underscore_9 | cost_tunnel_tide_course_day_copper_seek_ice_book |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

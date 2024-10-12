@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clip
+bip_39_word_dash_10: clip-kiwi-record-damage-music-noodle-shine-much-voice-hat
+bip_39_word_dash_11: clip-kiwi-record-damage-music-noodle-shine-much-voice-hat-finger
+bip_39_word_dash_12: clip-kiwi-record-damage-music-noodle-shine-much-voice-hat-finger-actor
+bip_39_word_dash_2: clip-kiwi
+bip_39_word_dash_3: clip-kiwi-record
+bip_39_word_dash_4: clip-kiwi-record-damage
+bip_39_word_dash_5: clip-kiwi-record-damage-music
+bip_39_word_dash_6: clip-kiwi-record-damage-music-noodle
+bip_39_word_dash_7: clip-kiwi-record-damage-music-noodle-shine
+bip_39_word_dash_8: clip-kiwi-record-damage-music-noodle-shine-much
+bip_39_word_dash_9: clip-kiwi-record-damage-music-noodle-shine-much-voice
 bip_39_word_new_br_1: clip
 bip_39_word_new_br_10: clip<br>kiwi<br>record<br>damage<br>music<br>noodle<br>shine<br>much<br>voice<br>hat
 bip_39_word_new_br_11: clip<br>kiwi<br>record<br>damage<br>music<br>noodle<br>shine<br>much<br>voice<br>hat<br>finger
@@ -192,6 +204,18 @@ bip_39_word_space_6: clip kiwi record damage music noodle
 bip_39_word_space_7: clip kiwi record damage music noodle shine
 bip_39_word_space_8: clip kiwi record damage music noodle shine much
 bip_39_word_space_9: clip kiwi record damage music noodle shine much voice
+bip_39_word_underscore_1: clip
+bip_39_word_underscore_10: clip_kiwi_record_damage_music_noodle_shine_much_voice_hat
+bip_39_word_underscore_11: clip_kiwi_record_damage_music_noodle_shine_much_voice_hat_finger
+bip_39_word_underscore_12: clip_kiwi_record_damage_music_noodle_shine_much_voice_hat_finger_actor
+bip_39_word_underscore_2: clip_kiwi
+bip_39_word_underscore_3: clip_kiwi_record
+bip_39_word_underscore_4: clip_kiwi_record_damage
+bip_39_word_underscore_5: clip_kiwi_record_damage_music
+bip_39_word_underscore_6: clip_kiwi_record_damage_music_noodle
+bip_39_word_underscore_7: clip_kiwi_record_damage_music_noodle_shine
+bip_39_word_underscore_8: clip_kiwi_record_damage_music_noodle_shine_much
+bip_39_word_underscore_9: clip_kiwi_record_damage_music_noodle_shine_much_voice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | question |  
+| bip_39_word_dash_10 | question-claim-camera-nurse-you-elbow-write-suspect-dentist-rubber |  
+| bip_39_word_dash_11 | question-claim-camera-nurse-you-elbow-write-suspect-dentist-rubber-minor |  
+| bip_39_word_dash_12 | question-claim-camera-nurse-you-elbow-write-suspect-dentist-rubber-minor-actor |  
+| bip_39_word_dash_2 | question-claim |  
+| bip_39_word_dash_3 | question-claim-camera |  
+| bip_39_word_dash_4 | question-claim-camera-nurse |  
+| bip_39_word_dash_5 | question-claim-camera-nurse-you |  
+| bip_39_word_dash_6 | question-claim-camera-nurse-you-elbow |  
+| bip_39_word_dash_7 | question-claim-camera-nurse-you-elbow-write |  
+| bip_39_word_dash_8 | question-claim-camera-nurse-you-elbow-write-suspect |  
+| bip_39_word_dash_9 | question-claim-camera-nurse-you-elbow-write-suspect-dentist |  
 | bip_39_word_new_br_1 | question |  
 | bip_39_word_new_br_10 | question<br>claim<br>camera<br>nurse<br>you<br>elbow<br>write<br>suspect<br>dentist<br>rubber |  
 | bip_39_word_new_br_11 | question<br>claim<br>camera<br>nurse<br>you<br>elbow<br>write<br>suspect<br>dentist<br>rubber<br>minor |  
@@ -147,6 +159,18 @@ dentist |
 | bip_39_word_space_7 | question claim camera nurse you elbow write |  
 | bip_39_word_space_8 | question claim camera nurse you elbow write suspect |  
 | bip_39_word_space_9 | question claim camera nurse you elbow write suspect dentist |  
+| bip_39_word_underscore_1 | question |  
+| bip_39_word_underscore_10 | question_claim_camera_nurse_you_elbow_write_suspect_dentist_rubber |  
+| bip_39_word_underscore_11 | question_claim_camera_nurse_you_elbow_write_suspect_dentist_rubber_minor |  
+| bip_39_word_underscore_12 | question_claim_camera_nurse_you_elbow_write_suspect_dentist_rubber_minor_actor |  
+| bip_39_word_underscore_2 | question_claim |  
+| bip_39_word_underscore_3 | question_claim_camera |  
+| bip_39_word_underscore_4 | question_claim_camera_nurse |  
+| bip_39_word_underscore_5 | question_claim_camera_nurse_you |  
+| bip_39_word_underscore_6 | question_claim_camera_nurse_you_elbow |  
+| bip_39_word_underscore_7 | question_claim_camera_nurse_you_elbow_write |  
+| bip_39_word_underscore_8 | question_claim_camera_nurse_you_elbow_write_suspect |  
+| bip_39_word_underscore_9 | question_claim_camera_nurse_you_elbow_write_suspect_dentist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

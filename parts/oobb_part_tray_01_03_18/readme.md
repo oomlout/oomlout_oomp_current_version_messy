@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chaos |  
+| bip_39_word_dash_10 | chaos-chalk-tiny-object-turtle-cycle-idea-blouse-vault-symptom |  
+| bip_39_word_dash_11 | chaos-chalk-tiny-object-turtle-cycle-idea-blouse-vault-symptom-business |  
+| bip_39_word_dash_12 | chaos-chalk-tiny-object-turtle-cycle-idea-blouse-vault-symptom-business-alter |  
+| bip_39_word_dash_2 | chaos-chalk |  
+| bip_39_word_dash_3 | chaos-chalk-tiny |  
+| bip_39_word_dash_4 | chaos-chalk-tiny-object |  
+| bip_39_word_dash_5 | chaos-chalk-tiny-object-turtle |  
+| bip_39_word_dash_6 | chaos-chalk-tiny-object-turtle-cycle |  
+| bip_39_word_dash_7 | chaos-chalk-tiny-object-turtle-cycle-idea |  
+| bip_39_word_dash_8 | chaos-chalk-tiny-object-turtle-cycle-idea-blouse |  
+| bip_39_word_dash_9 | chaos-chalk-tiny-object-turtle-cycle-idea-blouse-vault |  
 | bip_39_word_new_br_1 | chaos |  
 | bip_39_word_new_br_10 | chaos<br>chalk<br>tiny<br>object<br>turtle<br>cycle<br>idea<br>blouse<br>vault<br>symptom |  
 | bip_39_word_new_br_11 | chaos<br>chalk<br>tiny<br>object<br>turtle<br>cycle<br>idea<br>blouse<br>vault<br>symptom<br>business |  
@@ -147,6 +159,18 @@ vault |
 | bip_39_word_space_7 | chaos chalk tiny object turtle cycle idea |  
 | bip_39_word_space_8 | chaos chalk tiny object turtle cycle idea blouse |  
 | bip_39_word_space_9 | chaos chalk tiny object turtle cycle idea blouse vault |  
+| bip_39_word_underscore_1 | chaos |  
+| bip_39_word_underscore_10 | chaos_chalk_tiny_object_turtle_cycle_idea_blouse_vault_symptom |  
+| bip_39_word_underscore_11 | chaos_chalk_tiny_object_turtle_cycle_idea_blouse_vault_symptom_business |  
+| bip_39_word_underscore_12 | chaos_chalk_tiny_object_turtle_cycle_idea_blouse_vault_symptom_business_alter |  
+| bip_39_word_underscore_2 | chaos_chalk |  
+| bip_39_word_underscore_3 | chaos_chalk_tiny |  
+| bip_39_word_underscore_4 | chaos_chalk_tiny_object |  
+| bip_39_word_underscore_5 | chaos_chalk_tiny_object_turtle |  
+| bip_39_word_underscore_6 | chaos_chalk_tiny_object_turtle_cycle |  
+| bip_39_word_underscore_7 | chaos_chalk_tiny_object_turtle_cycle_idea |  
+| bip_39_word_underscore_8 | chaos_chalk_tiny_object_turtle_cycle_idea_blouse |  
+| bip_39_word_underscore_9 | chaos_chalk_tiny_object_turtle_cycle_idea_blouse_vault |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

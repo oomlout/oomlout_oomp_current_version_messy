@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | april |  
+| bip_39_word_dash_10 | april-paddle-health-practice-grunt-glass-supreme-fun-blind-hero |  
+| bip_39_word_dash_11 | april-paddle-health-practice-grunt-glass-supreme-fun-blind-hero-opinion |  
+| bip_39_word_dash_12 | april-paddle-health-practice-grunt-glass-supreme-fun-blind-hero-opinion-alarm |  
+| bip_39_word_dash_2 | april-paddle |  
+| bip_39_word_dash_3 | april-paddle-health |  
+| bip_39_word_dash_4 | april-paddle-health-practice |  
+| bip_39_word_dash_5 | april-paddle-health-practice-grunt |  
+| bip_39_word_dash_6 | april-paddle-health-practice-grunt-glass |  
+| bip_39_word_dash_7 | april-paddle-health-practice-grunt-glass-supreme |  
+| bip_39_word_dash_8 | april-paddle-health-practice-grunt-glass-supreme-fun |  
+| bip_39_word_dash_9 | april-paddle-health-practice-grunt-glass-supreme-fun-blind |  
 | bip_39_word_new_br_1 | april |  
 | bip_39_word_new_br_10 | april<br>paddle<br>health<br>practice<br>grunt<br>glass<br>supreme<br>fun<br>blind<br>hero |  
 | bip_39_word_new_br_11 | april<br>paddle<br>health<br>practice<br>grunt<br>glass<br>supreme<br>fun<br>blind<br>hero<br>opinion |  
@@ -147,6 +159,18 @@ blind |
 | bip_39_word_space_7 | april paddle health practice grunt glass supreme |  
 | bip_39_word_space_8 | april paddle health practice grunt glass supreme fun |  
 | bip_39_word_space_9 | april paddle health practice grunt glass supreme fun blind |  
+| bip_39_word_underscore_1 | april |  
+| bip_39_word_underscore_10 | april_paddle_health_practice_grunt_glass_supreme_fun_blind_hero |  
+| bip_39_word_underscore_11 | april_paddle_health_practice_grunt_glass_supreme_fun_blind_hero_opinion |  
+| bip_39_word_underscore_12 | april_paddle_health_practice_grunt_glass_supreme_fun_blind_hero_opinion_alarm |  
+| bip_39_word_underscore_2 | april_paddle |  
+| bip_39_word_underscore_3 | april_paddle_health |  
+| bip_39_word_underscore_4 | april_paddle_health_practice |  
+| bip_39_word_underscore_5 | april_paddle_health_practice_grunt |  
+| bip_39_word_underscore_6 | april_paddle_health_practice_grunt_glass |  
+| bip_39_word_underscore_7 | april_paddle_health_practice_grunt_glass_supreme |  
+| bip_39_word_underscore_8 | april_paddle_health_practice_grunt_glass_supreme_fun |  
+| bip_39_word_underscore_9 | april_paddle_health_practice_grunt_glass_supreme_fun_blind |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

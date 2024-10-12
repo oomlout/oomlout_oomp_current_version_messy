@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enroll |  
+| bip_39_word_dash_10 | enroll-excess-else-trash-meadow-fold-feed-stem-sausage-ticket |  
+| bip_39_word_dash_11 | enroll-excess-else-trash-meadow-fold-feed-stem-sausage-ticket-doctor |  
+| bip_39_word_dash_12 | enroll-excess-else-trash-meadow-fold-feed-stem-sausage-ticket-doctor-allow |  
+| bip_39_word_dash_2 | enroll-excess |  
+| bip_39_word_dash_3 | enroll-excess-else |  
+| bip_39_word_dash_4 | enroll-excess-else-trash |  
+| bip_39_word_dash_5 | enroll-excess-else-trash-meadow |  
+| bip_39_word_dash_6 | enroll-excess-else-trash-meadow-fold |  
+| bip_39_word_dash_7 | enroll-excess-else-trash-meadow-fold-feed |  
+| bip_39_word_dash_8 | enroll-excess-else-trash-meadow-fold-feed-stem |  
+| bip_39_word_dash_9 | enroll-excess-else-trash-meadow-fold-feed-stem-sausage |  
 | bip_39_word_new_br_1 | enroll |  
 | bip_39_word_new_br_10 | enroll<br>excess<br>else<br>trash<br>meadow<br>fold<br>feed<br>stem<br>sausage<br>ticket |  
 | bip_39_word_new_br_11 | enroll<br>excess<br>else<br>trash<br>meadow<br>fold<br>feed<br>stem<br>sausage<br>ticket<br>doctor |  
@@ -147,6 +159,18 @@ sausage |
 | bip_39_word_space_7 | enroll excess else trash meadow fold feed |  
 | bip_39_word_space_8 | enroll excess else trash meadow fold feed stem |  
 | bip_39_word_space_9 | enroll excess else trash meadow fold feed stem sausage |  
+| bip_39_word_underscore_1 | enroll |  
+| bip_39_word_underscore_10 | enroll_excess_else_trash_meadow_fold_feed_stem_sausage_ticket |  
+| bip_39_word_underscore_11 | enroll_excess_else_trash_meadow_fold_feed_stem_sausage_ticket_doctor |  
+| bip_39_word_underscore_12 | enroll_excess_else_trash_meadow_fold_feed_stem_sausage_ticket_doctor_allow |  
+| bip_39_word_underscore_2 | enroll_excess |  
+| bip_39_word_underscore_3 | enroll_excess_else |  
+| bip_39_word_underscore_4 | enroll_excess_else_trash |  
+| bip_39_word_underscore_5 | enroll_excess_else_trash_meadow |  
+| bip_39_word_underscore_6 | enroll_excess_else_trash_meadow_fold |  
+| bip_39_word_underscore_7 | enroll_excess_else_trash_meadow_fold_feed |  
+| bip_39_word_underscore_8 | enroll_excess_else_trash_meadow_fold_feed_stem |  
+| bip_39_word_underscore_9 | enroll_excess_else_trash_meadow_fold_feed_stem_sausage |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

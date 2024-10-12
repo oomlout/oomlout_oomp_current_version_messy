@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hour
+bip_39_word_dash_10: hour-proud-rail-furnace-such-seek-garden-control-nature-canoe
+bip_39_word_dash_11: hour-proud-rail-furnace-such-seek-garden-control-nature-canoe-arrive
+bip_39_word_dash_12: hour-proud-rail-furnace-such-seek-garden-control-nature-canoe-arrive-afraid
+bip_39_word_dash_2: hour-proud
+bip_39_word_dash_3: hour-proud-rail
+bip_39_word_dash_4: hour-proud-rail-furnace
+bip_39_word_dash_5: hour-proud-rail-furnace-such
+bip_39_word_dash_6: hour-proud-rail-furnace-such-seek
+bip_39_word_dash_7: hour-proud-rail-furnace-such-seek-garden
+bip_39_word_dash_8: hour-proud-rail-furnace-such-seek-garden-control
+bip_39_word_dash_9: hour-proud-rail-furnace-such-seek-garden-control-nature
 bip_39_word_new_br_1: hour
 bip_39_word_new_br_10: hour<br>proud<br>rail<br>furnace<br>such<br>seek<br>garden<br>control<br>nature<br>canoe
 bip_39_word_new_br_11: hour<br>proud<br>rail<br>furnace<br>such<br>seek<br>garden<br>control<br>nature<br>canoe<br>arrive
@@ -193,6 +205,18 @@ bip_39_word_space_6: hour proud rail furnace such seek
 bip_39_word_space_7: hour proud rail furnace such seek garden
 bip_39_word_space_8: hour proud rail furnace such seek garden control
 bip_39_word_space_9: hour proud rail furnace such seek garden control nature
+bip_39_word_underscore_1: hour
+bip_39_word_underscore_10: hour_proud_rail_furnace_such_seek_garden_control_nature_canoe
+bip_39_word_underscore_11: hour_proud_rail_furnace_such_seek_garden_control_nature_canoe_arrive
+bip_39_word_underscore_12: hour_proud_rail_furnace_such_seek_garden_control_nature_canoe_arrive_afraid
+bip_39_word_underscore_2: hour_proud
+bip_39_word_underscore_3: hour_proud_rail
+bip_39_word_underscore_4: hour_proud_rail_furnace
+bip_39_word_underscore_5: hour_proud_rail_furnace_such
+bip_39_word_underscore_6: hour_proud_rail_furnace_such_seek
+bip_39_word_underscore_7: hour_proud_rail_furnace_such_seek_garden
+bip_39_word_underscore_8: hour_proud_rail_furnace_such_seek_garden_control
+bip_39_word_underscore_9: hour_proud_rail_furnace_such_seek_garden_control_nature
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

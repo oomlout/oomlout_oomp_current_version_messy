@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | desert |  
+| bip_39_word_dash_10 | desert-double-bike-output-stamp-razor-element-giggle-bean-know |  
+| bip_39_word_dash_11 | desert-double-bike-output-stamp-razor-element-giggle-bean-know-rough |  
+| bip_39_word_dash_12 | desert-double-bike-output-stamp-razor-element-giggle-bean-know-rough-air |  
+| bip_39_word_dash_2 | desert-double |  
+| bip_39_word_dash_3 | desert-double-bike |  
+| bip_39_word_dash_4 | desert-double-bike-output |  
+| bip_39_word_dash_5 | desert-double-bike-output-stamp |  
+| bip_39_word_dash_6 | desert-double-bike-output-stamp-razor |  
+| bip_39_word_dash_7 | desert-double-bike-output-stamp-razor-element |  
+| bip_39_word_dash_8 | desert-double-bike-output-stamp-razor-element-giggle |  
+| bip_39_word_dash_9 | desert-double-bike-output-stamp-razor-element-giggle-bean |  
 | bip_39_word_new_br_1 | desert |  
 | bip_39_word_new_br_10 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know |  
 | bip_39_word_new_br_11 | desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know<br>rough |  
@@ -147,6 +159,18 @@ bean |
 | bip_39_word_space_7 | desert double bike output stamp razor element |  
 | bip_39_word_space_8 | desert double bike output stamp razor element giggle |  
 | bip_39_word_space_9 | desert double bike output stamp razor element giggle bean |  
+| bip_39_word_underscore_1 | desert |  
+| bip_39_word_underscore_10 | desert_double_bike_output_stamp_razor_element_giggle_bean_know |  
+| bip_39_word_underscore_11 | desert_double_bike_output_stamp_razor_element_giggle_bean_know_rough |  
+| bip_39_word_underscore_12 | desert_double_bike_output_stamp_razor_element_giggle_bean_know_rough_air |  
+| bip_39_word_underscore_2 | desert_double |  
+| bip_39_word_underscore_3 | desert_double_bike |  
+| bip_39_word_underscore_4 | desert_double_bike_output |  
+| bip_39_word_underscore_5 | desert_double_bike_output_stamp |  
+| bip_39_word_underscore_6 | desert_double_bike_output_stamp_razor |  
+| bip_39_word_underscore_7 | desert_double_bike_output_stamp_razor_element |  
+| bip_39_word_underscore_8 | desert_double_bike_output_stamp_razor_element_giggle |  
+| bip_39_word_underscore_9 | desert_double_bike_output_stamp_razor_element_giggle_bean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

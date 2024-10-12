@@ -1,3 +1,15 @@
+bip_39_word_dash_1: regret
+bip_39_word_dash_10: regret-enact-twenty-limb-chase-course-blood-charge-peace-hockey
+bip_39_word_dash_11: regret-enact-twenty-limb-chase-course-blood-charge-peace-hockey-actor
+bip_39_word_dash_12: regret-enact-twenty-limb-chase-course-blood-charge-peace-hockey-actor-angry
+bip_39_word_dash_2: regret-enact
+bip_39_word_dash_3: regret-enact-twenty
+bip_39_word_dash_4: regret-enact-twenty-limb
+bip_39_word_dash_5: regret-enact-twenty-limb-chase
+bip_39_word_dash_6: regret-enact-twenty-limb-chase-course
+bip_39_word_dash_7: regret-enact-twenty-limb-chase-course-blood
+bip_39_word_dash_8: regret-enact-twenty-limb-chase-course-blood-charge
+bip_39_word_dash_9: regret-enact-twenty-limb-chase-course-blood-charge-peace
 bip_39_word_new_br_1: regret
 bip_39_word_new_br_10: regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge<br>peace<br>hockey
 bip_39_word_new_br_11: regret<br>enact<br>twenty<br>limb<br>chase<br>course<br>blood<br>charge<br>peace<br>hockey<br>actor
@@ -193,6 +205,18 @@ bip_39_word_space_6: regret enact twenty limb chase course
 bip_39_word_space_7: regret enact twenty limb chase course blood
 bip_39_word_space_8: regret enact twenty limb chase course blood charge
 bip_39_word_space_9: regret enact twenty limb chase course blood charge peace
+bip_39_word_underscore_1: regret
+bip_39_word_underscore_10: regret_enact_twenty_limb_chase_course_blood_charge_peace_hockey
+bip_39_word_underscore_11: regret_enact_twenty_limb_chase_course_blood_charge_peace_hockey_actor
+bip_39_word_underscore_12: regret_enact_twenty_limb_chase_course_blood_charge_peace_hockey_actor_angry
+bip_39_word_underscore_2: regret_enact
+bip_39_word_underscore_3: regret_enact_twenty
+bip_39_word_underscore_4: regret_enact_twenty_limb
+bip_39_word_underscore_5: regret_enact_twenty_limb_chase
+bip_39_word_underscore_6: regret_enact_twenty_limb_chase_course
+bip_39_word_underscore_7: regret_enact_twenty_limb_chase_course_blood
+bip_39_word_underscore_8: regret_enact_twenty_limb_chase_course_blood_charge
+bip_39_word_underscore_9: regret_enact_twenty_limb_chase_course_blood_charge_peace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burden |  
+| bip_39_word_dash_10 | burden-change-neglect-leopard-sausage-large-pill-ride-cheap-throw |  
+| bip_39_word_dash_11 | burden-change-neglect-leopard-sausage-large-pill-ride-cheap-throw-immune |  
+| bip_39_word_dash_12 | burden-change-neglect-leopard-sausage-large-pill-ride-cheap-throw-immune-arrow |  
+| bip_39_word_dash_2 | burden-change |  
+| bip_39_word_dash_3 | burden-change-neglect |  
+| bip_39_word_dash_4 | burden-change-neglect-leopard |  
+| bip_39_word_dash_5 | burden-change-neglect-leopard-sausage |  
+| bip_39_word_dash_6 | burden-change-neglect-leopard-sausage-large |  
+| bip_39_word_dash_7 | burden-change-neglect-leopard-sausage-large-pill |  
+| bip_39_word_dash_8 | burden-change-neglect-leopard-sausage-large-pill-ride |  
+| bip_39_word_dash_9 | burden-change-neglect-leopard-sausage-large-pill-ride-cheap |  
 | bip_39_word_new_br_1 | burden |  
 | bip_39_word_new_br_10 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw |  
 | bip_39_word_new_br_11 | burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw<br>immune |  
@@ -147,6 +159,18 @@ cheap |
 | bip_39_word_space_7 | burden change neglect leopard sausage large pill |  
 | bip_39_word_space_8 | burden change neglect leopard sausage large pill ride |  
 | bip_39_word_space_9 | burden change neglect leopard sausage large pill ride cheap |  
+| bip_39_word_underscore_1 | burden |  
+| bip_39_word_underscore_10 | burden_change_neglect_leopard_sausage_large_pill_ride_cheap_throw |  
+| bip_39_word_underscore_11 | burden_change_neglect_leopard_sausage_large_pill_ride_cheap_throw_immune |  
+| bip_39_word_underscore_12 | burden_change_neglect_leopard_sausage_large_pill_ride_cheap_throw_immune_arrow |  
+| bip_39_word_underscore_2 | burden_change |  
+| bip_39_word_underscore_3 | burden_change_neglect |  
+| bip_39_word_underscore_4 | burden_change_neglect_leopard |  
+| bip_39_word_underscore_5 | burden_change_neglect_leopard_sausage |  
+| bip_39_word_underscore_6 | burden_change_neglect_leopard_sausage_large |  
+| bip_39_word_underscore_7 | burden_change_neglect_leopard_sausage_large_pill |  
+| bip_39_word_underscore_8 | burden_change_neglect_leopard_sausage_large_pill_ride |  
+| bip_39_word_underscore_9 | burden_change_neglect_leopard_sausage_large_pill_ride_cheap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wedding
+bip_39_word_dash_10: wedding-black-patch-taxi-toilet-exit-ankle-people-material-trap
+bip_39_word_dash_11: wedding-black-patch-taxi-toilet-exit-ankle-people-material-trap-input
+bip_39_word_dash_12: wedding-black-patch-taxi-toilet-exit-ankle-people-material-trap-input-actual
+bip_39_word_dash_2: wedding-black
+bip_39_word_dash_3: wedding-black-patch
+bip_39_word_dash_4: wedding-black-patch-taxi
+bip_39_word_dash_5: wedding-black-patch-taxi-toilet
+bip_39_word_dash_6: wedding-black-patch-taxi-toilet-exit
+bip_39_word_dash_7: wedding-black-patch-taxi-toilet-exit-ankle
+bip_39_word_dash_8: wedding-black-patch-taxi-toilet-exit-ankle-people
+bip_39_word_dash_9: wedding-black-patch-taxi-toilet-exit-ankle-people-material
 bip_39_word_new_br_1: wedding
 bip_39_word_new_br_10: wedding<br>black<br>patch<br>taxi<br>toilet<br>exit<br>ankle<br>people<br>material<br>trap
 bip_39_word_new_br_11: wedding<br>black<br>patch<br>taxi<br>toilet<br>exit<br>ankle<br>people<br>material<br>trap<br>input
@@ -193,6 +205,18 @@ bip_39_word_space_6: wedding black patch taxi toilet exit
 bip_39_word_space_7: wedding black patch taxi toilet exit ankle
 bip_39_word_space_8: wedding black patch taxi toilet exit ankle people
 bip_39_word_space_9: wedding black patch taxi toilet exit ankle people material
+bip_39_word_underscore_1: wedding
+bip_39_word_underscore_10: wedding_black_patch_taxi_toilet_exit_ankle_people_material_trap
+bip_39_word_underscore_11: wedding_black_patch_taxi_toilet_exit_ankle_people_material_trap_input
+bip_39_word_underscore_12: wedding_black_patch_taxi_toilet_exit_ankle_people_material_trap_input_actual
+bip_39_word_underscore_2: wedding_black
+bip_39_word_underscore_3: wedding_black_patch
+bip_39_word_underscore_4: wedding_black_patch_taxi
+bip_39_word_underscore_5: wedding_black_patch_taxi_toilet
+bip_39_word_underscore_6: wedding_black_patch_taxi_toilet_exit
+bip_39_word_underscore_7: wedding_black_patch_taxi_toilet_exit_ankle
+bip_39_word_underscore_8: wedding_black_patch_taxi_toilet_exit_ankle_people
+bip_39_word_underscore_9: wedding_black_patch_taxi_toilet_exit_ankle_people_material
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

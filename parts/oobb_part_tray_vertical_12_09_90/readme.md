@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crazy |  
+| bip_39_word_dash_10 | crazy-gift-envelope-pony-crawl-obtain-road-tail-trigger-lock |  
+| bip_39_word_dash_11 | crazy-gift-envelope-pony-crawl-obtain-road-tail-trigger-lock-purchase |  
+| bip_39_word_dash_12 | crazy-gift-envelope-pony-crawl-obtain-road-tail-trigger-lock-purchase-armed |  
+| bip_39_word_dash_2 | crazy-gift |  
+| bip_39_word_dash_3 | crazy-gift-envelope |  
+| bip_39_word_dash_4 | crazy-gift-envelope-pony |  
+| bip_39_word_dash_5 | crazy-gift-envelope-pony-crawl |  
+| bip_39_word_dash_6 | crazy-gift-envelope-pony-crawl-obtain |  
+| bip_39_word_dash_7 | crazy-gift-envelope-pony-crawl-obtain-road |  
+| bip_39_word_dash_8 | crazy-gift-envelope-pony-crawl-obtain-road-tail |  
+| bip_39_word_dash_9 | crazy-gift-envelope-pony-crawl-obtain-road-tail-trigger |  
 | bip_39_word_new_br_1 | crazy |  
 | bip_39_word_new_br_10 | crazy<br>gift<br>envelope<br>pony<br>crawl<br>obtain<br>road<br>tail<br>trigger<br>lock |  
 | bip_39_word_new_br_11 | crazy<br>gift<br>envelope<br>pony<br>crawl<br>obtain<br>road<br>tail<br>trigger<br>lock<br>purchase |  
@@ -147,6 +159,18 @@ trigger |
 | bip_39_word_space_7 | crazy gift envelope pony crawl obtain road |  
 | bip_39_word_space_8 | crazy gift envelope pony crawl obtain road tail |  
 | bip_39_word_space_9 | crazy gift envelope pony crawl obtain road tail trigger |  
+| bip_39_word_underscore_1 | crazy |  
+| bip_39_word_underscore_10 | crazy_gift_envelope_pony_crawl_obtain_road_tail_trigger_lock |  
+| bip_39_word_underscore_11 | crazy_gift_envelope_pony_crawl_obtain_road_tail_trigger_lock_purchase |  
+| bip_39_word_underscore_12 | crazy_gift_envelope_pony_crawl_obtain_road_tail_trigger_lock_purchase_armed |  
+| bip_39_word_underscore_2 | crazy_gift |  
+| bip_39_word_underscore_3 | crazy_gift_envelope |  
+| bip_39_word_underscore_4 | crazy_gift_envelope_pony |  
+| bip_39_word_underscore_5 | crazy_gift_envelope_pony_crawl |  
+| bip_39_word_underscore_6 | crazy_gift_envelope_pony_crawl_obtain |  
+| bip_39_word_underscore_7 | crazy_gift_envelope_pony_crawl_obtain_road |  
+| bip_39_word_underscore_8 | crazy_gift_envelope_pony_crawl_obtain_road_tail |  
+| bip_39_word_underscore_9 | crazy_gift_envelope_pony_crawl_obtain_road_tail_trigger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

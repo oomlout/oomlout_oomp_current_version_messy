@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mind |  
+| bip_39_word_dash_10 | mind-insane-scene-captain-chicken-unable-now-aspect-voice-planet |  
+| bip_39_word_dash_11 | mind-insane-scene-captain-chicken-unable-now-aspect-voice-planet-hat |  
+| bip_39_word_dash_12 | mind-insane-scene-captain-chicken-unable-now-aspect-voice-planet-hat-act |  
+| bip_39_word_dash_2 | mind-insane |  
+| bip_39_word_dash_3 | mind-insane-scene |  
+| bip_39_word_dash_4 | mind-insane-scene-captain |  
+| bip_39_word_dash_5 | mind-insane-scene-captain-chicken |  
+| bip_39_word_dash_6 | mind-insane-scene-captain-chicken-unable |  
+| bip_39_word_dash_7 | mind-insane-scene-captain-chicken-unable-now |  
+| bip_39_word_dash_8 | mind-insane-scene-captain-chicken-unable-now-aspect |  
+| bip_39_word_dash_9 | mind-insane-scene-captain-chicken-unable-now-aspect-voice |  
 | bip_39_word_new_br_1 | mind |  
 | bip_39_word_new_br_10 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet |  
 | bip_39_word_new_br_11 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet<br>hat |  
@@ -147,6 +159,18 @@ voice |
 | bip_39_word_space_7 | mind insane scene captain chicken unable now |  
 | bip_39_word_space_8 | mind insane scene captain chicken unable now aspect |  
 | bip_39_word_space_9 | mind insane scene captain chicken unable now aspect voice |  
+| bip_39_word_underscore_1 | mind |  
+| bip_39_word_underscore_10 | mind_insane_scene_captain_chicken_unable_now_aspect_voice_planet |  
+| bip_39_word_underscore_11 | mind_insane_scene_captain_chicken_unable_now_aspect_voice_planet_hat |  
+| bip_39_word_underscore_12 | mind_insane_scene_captain_chicken_unable_now_aspect_voice_planet_hat_act |  
+| bip_39_word_underscore_2 | mind_insane |  
+| bip_39_word_underscore_3 | mind_insane_scene |  
+| bip_39_word_underscore_4 | mind_insane_scene_captain |  
+| bip_39_word_underscore_5 | mind_insane_scene_captain_chicken |  
+| bip_39_word_underscore_6 | mind_insane_scene_captain_chicken_unable |  
+| bip_39_word_underscore_7 | mind_insane_scene_captain_chicken_unable_now |  
+| bip_39_word_underscore_8 | mind_insane_scene_captain_chicken_unable_now_aspect |  
+| bip_39_word_underscore_9 | mind_insane_scene_captain_chicken_unable_now_aspect_voice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

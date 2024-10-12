@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | truck |  
+| bip_39_word_dash_10 | truck-judge-diary-tumble-disorder-trumpet-pony-purity-prison-dream |  
+| bip_39_word_dash_11 | truck-judge-diary-tumble-disorder-trumpet-pony-purity-prison-dream-stock |  
+| bip_39_word_dash_12 | truck-judge-diary-tumble-disorder-trumpet-pony-purity-prison-dream-stock-antenna |  
+| bip_39_word_dash_2 | truck-judge |  
+| bip_39_word_dash_3 | truck-judge-diary |  
+| bip_39_word_dash_4 | truck-judge-diary-tumble |  
+| bip_39_word_dash_5 | truck-judge-diary-tumble-disorder |  
+| bip_39_word_dash_6 | truck-judge-diary-tumble-disorder-trumpet |  
+| bip_39_word_dash_7 | truck-judge-diary-tumble-disorder-trumpet-pony |  
+| bip_39_word_dash_8 | truck-judge-diary-tumble-disorder-trumpet-pony-purity |  
+| bip_39_word_dash_9 | truck-judge-diary-tumble-disorder-trumpet-pony-purity-prison |  
 | bip_39_word_new_br_1 | truck |  
 | bip_39_word_new_br_10 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream |  
 | bip_39_word_new_br_11 | truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream<br>stock |  
@@ -147,6 +159,18 @@ prison |
 | bip_39_word_space_7 | truck judge diary tumble disorder trumpet pony |  
 | bip_39_word_space_8 | truck judge diary tumble disorder trumpet pony purity |  
 | bip_39_word_space_9 | truck judge diary tumble disorder trumpet pony purity prison |  
+| bip_39_word_underscore_1 | truck |  
+| bip_39_word_underscore_10 | truck_judge_diary_tumble_disorder_trumpet_pony_purity_prison_dream |  
+| bip_39_word_underscore_11 | truck_judge_diary_tumble_disorder_trumpet_pony_purity_prison_dream_stock |  
+| bip_39_word_underscore_12 | truck_judge_diary_tumble_disorder_trumpet_pony_purity_prison_dream_stock_antenna |  
+| bip_39_word_underscore_2 | truck_judge |  
+| bip_39_word_underscore_3 | truck_judge_diary |  
+| bip_39_word_underscore_4 | truck_judge_diary_tumble |  
+| bip_39_word_underscore_5 | truck_judge_diary_tumble_disorder |  
+| bip_39_word_underscore_6 | truck_judge_diary_tumble_disorder_trumpet |  
+| bip_39_word_underscore_7 | truck_judge_diary_tumble_disorder_trumpet_pony |  
+| bip_39_word_underscore_8 | truck_judge_diary_tumble_disorder_trumpet_pony_purity |  
+| bip_39_word_underscore_9 | truck_judge_diary_tumble_disorder_trumpet_pony_purity_prison |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

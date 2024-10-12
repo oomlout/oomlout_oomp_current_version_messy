@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mail
+bip_39_word_dash_10: mail-stove-rain-box-whale-cost-clerk-deer-fatal-lunch
+bip_39_word_dash_11: mail-stove-rain-box-whale-cost-clerk-deer-fatal-lunch-merry
+bip_39_word_dash_12: mail-stove-rain-box-whale-cost-clerk-deer-fatal-lunch-merry-audit
+bip_39_word_dash_2: mail-stove
+bip_39_word_dash_3: mail-stove-rain
+bip_39_word_dash_4: mail-stove-rain-box
+bip_39_word_dash_5: mail-stove-rain-box-whale
+bip_39_word_dash_6: mail-stove-rain-box-whale-cost
+bip_39_word_dash_7: mail-stove-rain-box-whale-cost-clerk
+bip_39_word_dash_8: mail-stove-rain-box-whale-cost-clerk-deer
+bip_39_word_dash_9: mail-stove-rain-box-whale-cost-clerk-deer-fatal
 bip_39_word_new_br_1: mail
 bip_39_word_new_br_10: mail<br>stove<br>rain<br>box<br>whale<br>cost<br>clerk<br>deer<br>fatal<br>lunch
 bip_39_word_new_br_11: mail<br>stove<br>rain<br>box<br>whale<br>cost<br>clerk<br>deer<br>fatal<br>lunch<br>merry
@@ -192,6 +204,18 @@ bip_39_word_space_6: mail stove rain box whale cost
 bip_39_word_space_7: mail stove rain box whale cost clerk
 bip_39_word_space_8: mail stove rain box whale cost clerk deer
 bip_39_word_space_9: mail stove rain box whale cost clerk deer fatal
+bip_39_word_underscore_1: mail
+bip_39_word_underscore_10: mail_stove_rain_box_whale_cost_clerk_deer_fatal_lunch
+bip_39_word_underscore_11: mail_stove_rain_box_whale_cost_clerk_deer_fatal_lunch_merry
+bip_39_word_underscore_12: mail_stove_rain_box_whale_cost_clerk_deer_fatal_lunch_merry_audit
+bip_39_word_underscore_2: mail_stove
+bip_39_word_underscore_3: mail_stove_rain
+bip_39_word_underscore_4: mail_stove_rain_box
+bip_39_word_underscore_5: mail_stove_rain_box_whale
+bip_39_word_underscore_6: mail_stove_rain_box_whale_cost
+bip_39_word_underscore_7: mail_stove_rain_box_whale_cost_clerk
+bip_39_word_underscore_8: mail_stove_rain_box_whale_cost_clerk_deer
+bip_39_word_underscore_9: mail_stove_rain_box_whale_cost_clerk_deer_fatal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

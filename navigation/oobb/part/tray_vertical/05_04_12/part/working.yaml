@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dose
+bip_39_word_dash_10: dose-filter-latin-stool-method-bus-cruise-top-basket-boat
+bip_39_word_dash_11: dose-filter-latin-stool-method-bus-cruise-top-basket-boat-truck
+bip_39_word_dash_12: dose-filter-latin-stool-method-bus-cruise-top-basket-boat-truck-acquire
+bip_39_word_dash_2: dose-filter
+bip_39_word_dash_3: dose-filter-latin
+bip_39_word_dash_4: dose-filter-latin-stool
+bip_39_word_dash_5: dose-filter-latin-stool-method
+bip_39_word_dash_6: dose-filter-latin-stool-method-bus
+bip_39_word_dash_7: dose-filter-latin-stool-method-bus-cruise
+bip_39_word_dash_8: dose-filter-latin-stool-method-bus-cruise-top
+bip_39_word_dash_9: dose-filter-latin-stool-method-bus-cruise-top-basket
 bip_39_word_new_br_1: dose
 bip_39_word_new_br_10: dose<br>filter<br>latin<br>stool<br>method<br>bus<br>cruise<br>top<br>basket<br>boat
 bip_39_word_new_br_11: dose<br>filter<br>latin<br>stool<br>method<br>bus<br>cruise<br>top<br>basket<br>boat<br>truck
@@ -192,6 +204,18 @@ bip_39_word_space_6: dose filter latin stool method bus
 bip_39_word_space_7: dose filter latin stool method bus cruise
 bip_39_word_space_8: dose filter latin stool method bus cruise top
 bip_39_word_space_9: dose filter latin stool method bus cruise top basket
+bip_39_word_underscore_1: dose
+bip_39_word_underscore_10: dose_filter_latin_stool_method_bus_cruise_top_basket_boat
+bip_39_word_underscore_11: dose_filter_latin_stool_method_bus_cruise_top_basket_boat_truck
+bip_39_word_underscore_12: dose_filter_latin_stool_method_bus_cruise_top_basket_boat_truck_acquire
+bip_39_word_underscore_2: dose_filter
+bip_39_word_underscore_3: dose_filter_latin
+bip_39_word_underscore_4: dose_filter_latin_stool
+bip_39_word_underscore_5: dose_filter_latin_stool_method
+bip_39_word_underscore_6: dose_filter_latin_stool_method_bus
+bip_39_word_underscore_7: dose_filter_latin_stool_method_bus_cruise
+bip_39_word_underscore_8: dose_filter_latin_stool_method_bus_cruise_top
+bip_39_word_underscore_9: dose_filter_latin_stool_method_bus_cruise_top_basket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

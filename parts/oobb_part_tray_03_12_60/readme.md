@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fish |  
+| bip_39_word_dash_10 | fish-pair-domain-culture-fun-route-pause-decline-lend-marble |  
+| bip_39_word_dash_11 | fish-pair-domain-culture-fun-route-pause-decline-lend-marble-uphold |  
+| bip_39_word_dash_12 | fish-pair-domain-culture-fun-route-pause-decline-lend-marble-uphold-abstract |  
+| bip_39_word_dash_2 | fish-pair |  
+| bip_39_word_dash_3 | fish-pair-domain |  
+| bip_39_word_dash_4 | fish-pair-domain-culture |  
+| bip_39_word_dash_5 | fish-pair-domain-culture-fun |  
+| bip_39_word_dash_6 | fish-pair-domain-culture-fun-route |  
+| bip_39_word_dash_7 | fish-pair-domain-culture-fun-route-pause |  
+| bip_39_word_dash_8 | fish-pair-domain-culture-fun-route-pause-decline |  
+| bip_39_word_dash_9 | fish-pair-domain-culture-fun-route-pause-decline-lend |  
 | bip_39_word_new_br_1 | fish |  
 | bip_39_word_new_br_10 | fish<br>pair<br>domain<br>culture<br>fun<br>route<br>pause<br>decline<br>lend<br>marble |  
 | bip_39_word_new_br_11 | fish<br>pair<br>domain<br>culture<br>fun<br>route<br>pause<br>decline<br>lend<br>marble<br>uphold |  
@@ -147,6 +159,18 @@ lend |
 | bip_39_word_space_7 | fish pair domain culture fun route pause |  
 | bip_39_word_space_8 | fish pair domain culture fun route pause decline |  
 | bip_39_word_space_9 | fish pair domain culture fun route pause decline lend |  
+| bip_39_word_underscore_1 | fish |  
+| bip_39_word_underscore_10 | fish_pair_domain_culture_fun_route_pause_decline_lend_marble |  
+| bip_39_word_underscore_11 | fish_pair_domain_culture_fun_route_pause_decline_lend_marble_uphold |  
+| bip_39_word_underscore_12 | fish_pair_domain_culture_fun_route_pause_decline_lend_marble_uphold_abstract |  
+| bip_39_word_underscore_2 | fish_pair |  
+| bip_39_word_underscore_3 | fish_pair_domain |  
+| bip_39_word_underscore_4 | fish_pair_domain_culture |  
+| bip_39_word_underscore_5 | fish_pair_domain_culture_fun |  
+| bip_39_word_underscore_6 | fish_pair_domain_culture_fun_route |  
+| bip_39_word_underscore_7 | fish_pair_domain_culture_fun_route_pause |  
+| bip_39_word_underscore_8 | fish_pair_domain_culture_fun_route_pause_decline |  
+| bip_39_word_underscore_9 | fish_pair_domain_culture_fun_route_pause_decline_lend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

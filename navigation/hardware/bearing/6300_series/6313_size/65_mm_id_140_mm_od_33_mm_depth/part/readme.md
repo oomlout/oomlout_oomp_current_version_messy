@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tool |  
+| bip_39_word_dash_10 | tool-misery-pipe-view-furnace-cheese-common-celery-pretty-also |  
+| bip_39_word_dash_11 | tool-misery-pipe-view-furnace-cheese-common-celery-pretty-also-find |  
+| bip_39_word_dash_12 | tool-misery-pipe-view-furnace-cheese-common-celery-pretty-also-find-age |  
+| bip_39_word_dash_2 | tool-misery |  
+| bip_39_word_dash_3 | tool-misery-pipe |  
+| bip_39_word_dash_4 | tool-misery-pipe-view |  
+| bip_39_word_dash_5 | tool-misery-pipe-view-furnace |  
+| bip_39_word_dash_6 | tool-misery-pipe-view-furnace-cheese |  
+| bip_39_word_dash_7 | tool-misery-pipe-view-furnace-cheese-common |  
+| bip_39_word_dash_8 | tool-misery-pipe-view-furnace-cheese-common-celery |  
+| bip_39_word_dash_9 | tool-misery-pipe-view-furnace-cheese-common-celery-pretty |  
 | bip_39_word_new_br_1 | tool |  
 | bip_39_word_new_br_10 | tool<br>misery<br>pipe<br>view<br>furnace<br>cheese<br>common<br>celery<br>pretty<br>also |  
 | bip_39_word_new_br_11 | tool<br>misery<br>pipe<br>view<br>furnace<br>cheese<br>common<br>celery<br>pretty<br>also<br>find |  
@@ -147,6 +159,18 @@ pretty |
 | bip_39_word_space_7 | tool misery pipe view furnace cheese common |  
 | bip_39_word_space_8 | tool misery pipe view furnace cheese common celery |  
 | bip_39_word_space_9 | tool misery pipe view furnace cheese common celery pretty |  
+| bip_39_word_underscore_1 | tool |  
+| bip_39_word_underscore_10 | tool_misery_pipe_view_furnace_cheese_common_celery_pretty_also |  
+| bip_39_word_underscore_11 | tool_misery_pipe_view_furnace_cheese_common_celery_pretty_also_find |  
+| bip_39_word_underscore_12 | tool_misery_pipe_view_furnace_cheese_common_celery_pretty_also_find_age |  
+| bip_39_word_underscore_2 | tool_misery |  
+| bip_39_word_underscore_3 | tool_misery_pipe |  
+| bip_39_word_underscore_4 | tool_misery_pipe_view |  
+| bip_39_word_underscore_5 | tool_misery_pipe_view_furnace |  
+| bip_39_word_underscore_6 | tool_misery_pipe_view_furnace_cheese |  
+| bip_39_word_underscore_7 | tool_misery_pipe_view_furnace_cheese_common |  
+| bip_39_word_underscore_8 | tool_misery_pipe_view_furnace_cheese_common_celery |  
+| bip_39_word_underscore_9 | tool_misery_pipe_view_furnace_cheese_common_celery_pretty |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

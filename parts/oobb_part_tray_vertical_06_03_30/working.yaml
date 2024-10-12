@@ -1,3 +1,15 @@
+bip_39_word_dash_1: glass
+bip_39_word_dash_10: glass-wrong-ancient-truck-acquire-inform-brother-system-various-city
+bip_39_word_dash_11: glass-wrong-ancient-truck-acquire-inform-brother-system-various-city-high
+bip_39_word_dash_12: glass-wrong-ancient-truck-acquire-inform-brother-system-various-city-high-already
+bip_39_word_dash_2: glass-wrong
+bip_39_word_dash_3: glass-wrong-ancient
+bip_39_word_dash_4: glass-wrong-ancient-truck
+bip_39_word_dash_5: glass-wrong-ancient-truck-acquire
+bip_39_word_dash_6: glass-wrong-ancient-truck-acquire-inform
+bip_39_word_dash_7: glass-wrong-ancient-truck-acquire-inform-brother
+bip_39_word_dash_8: glass-wrong-ancient-truck-acquire-inform-brother-system
+bip_39_word_dash_9: glass-wrong-ancient-truck-acquire-inform-brother-system-various
 bip_39_word_new_br_1: glass
 bip_39_word_new_br_10: glass<br>wrong<br>ancient<br>truck<br>acquire<br>inform<br>brother<br>system<br>various<br>city
 bip_39_word_new_br_11: glass<br>wrong<br>ancient<br>truck<br>acquire<br>inform<br>brother<br>system<br>various<br>city<br>high
@@ -194,6 +206,18 @@ bip_39_word_space_6: glass wrong ancient truck acquire inform
 bip_39_word_space_7: glass wrong ancient truck acquire inform brother
 bip_39_word_space_8: glass wrong ancient truck acquire inform brother system
 bip_39_word_space_9: glass wrong ancient truck acquire inform brother system various
+bip_39_word_underscore_1: glass
+bip_39_word_underscore_10: glass_wrong_ancient_truck_acquire_inform_brother_system_various_city
+bip_39_word_underscore_11: glass_wrong_ancient_truck_acquire_inform_brother_system_various_city_high
+bip_39_word_underscore_12: glass_wrong_ancient_truck_acquire_inform_brother_system_various_city_high_already
+bip_39_word_underscore_2: glass_wrong
+bip_39_word_underscore_3: glass_wrong_ancient
+bip_39_word_underscore_4: glass_wrong_ancient_truck
+bip_39_word_underscore_5: glass_wrong_ancient_truck_acquire
+bip_39_word_underscore_6: glass_wrong_ancient_truck_acquire_inform
+bip_39_word_underscore_7: glass_wrong_ancient_truck_acquire_inform_brother
+bip_39_word_underscore_8: glass_wrong_ancient_truck_acquire_inform_brother_system
+bip_39_word_underscore_9: glass_wrong_ancient_truck_acquire_inform_brother_system_various
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

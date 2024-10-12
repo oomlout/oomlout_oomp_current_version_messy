@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | school |  
+| bip_39_word_dash_10 | school-dragon-north-tornado-child-whale-marine-erode-old-draft |  
+| bip_39_word_dash_11 | school-dragon-north-tornado-child-whale-marine-erode-old-draft-meadow |  
+| bip_39_word_dash_12 | school-dragon-north-tornado-child-whale-marine-erode-old-draft-meadow-animal |  
+| bip_39_word_dash_2 | school-dragon |  
+| bip_39_word_dash_3 | school-dragon-north |  
+| bip_39_word_dash_4 | school-dragon-north-tornado |  
+| bip_39_word_dash_5 | school-dragon-north-tornado-child |  
+| bip_39_word_dash_6 | school-dragon-north-tornado-child-whale |  
+| bip_39_word_dash_7 | school-dragon-north-tornado-child-whale-marine |  
+| bip_39_word_dash_8 | school-dragon-north-tornado-child-whale-marine-erode |  
+| bip_39_word_dash_9 | school-dragon-north-tornado-child-whale-marine-erode-old |  
 | bip_39_word_new_br_1 | school |  
 | bip_39_word_new_br_10 | school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode<br>old<br>draft |  
 | bip_39_word_new_br_11 | school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode<br>old<br>draft<br>meadow |  
@@ -147,6 +159,18 @@ old |
 | bip_39_word_space_7 | school dragon north tornado child whale marine |  
 | bip_39_word_space_8 | school dragon north tornado child whale marine erode |  
 | bip_39_word_space_9 | school dragon north tornado child whale marine erode old |  
+| bip_39_word_underscore_1 | school |  
+| bip_39_word_underscore_10 | school_dragon_north_tornado_child_whale_marine_erode_old_draft |  
+| bip_39_word_underscore_11 | school_dragon_north_tornado_child_whale_marine_erode_old_draft_meadow |  
+| bip_39_word_underscore_12 | school_dragon_north_tornado_child_whale_marine_erode_old_draft_meadow_animal |  
+| bip_39_word_underscore_2 | school_dragon |  
+| bip_39_word_underscore_3 | school_dragon_north |  
+| bip_39_word_underscore_4 | school_dragon_north_tornado |  
+| bip_39_word_underscore_5 | school_dragon_north_tornado_child |  
+| bip_39_word_underscore_6 | school_dragon_north_tornado_child_whale |  
+| bip_39_word_underscore_7 | school_dragon_north_tornado_child_whale_marine |  
+| bip_39_word_underscore_8 | school_dragon_north_tornado_child_whale_marine_erode |  
+| bip_39_word_underscore_9 | school_dragon_north_tornado_child_whale_marine_erode_old |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: first
+bip_39_word_dash_10: first-hello-asset-border-alley-stick-hollow-stool-chronic-turkey
+bip_39_word_dash_11: first-hello-asset-border-alley-stick-hollow-stool-chronic-turkey-notice
+bip_39_word_dash_12: first-hello-asset-border-alley-stick-hollow-stool-chronic-turkey-notice-accident
+bip_39_word_dash_2: first-hello
+bip_39_word_dash_3: first-hello-asset
+bip_39_word_dash_4: first-hello-asset-border
+bip_39_word_dash_5: first-hello-asset-border-alley
+bip_39_word_dash_6: first-hello-asset-border-alley-stick
+bip_39_word_dash_7: first-hello-asset-border-alley-stick-hollow
+bip_39_word_dash_8: first-hello-asset-border-alley-stick-hollow-stool
+bip_39_word_dash_9: first-hello-asset-border-alley-stick-hollow-stool-chronic
 bip_39_word_new_br_1: first
 bip_39_word_new_br_10: first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool<br>chronic<br>turkey
 bip_39_word_new_br_11: first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool<br>chronic<br>turkey<br>notice
@@ -193,6 +205,18 @@ bip_39_word_space_6: first hello asset border alley stick
 bip_39_word_space_7: first hello asset border alley stick hollow
 bip_39_word_space_8: first hello asset border alley stick hollow stool
 bip_39_word_space_9: first hello asset border alley stick hollow stool chronic
+bip_39_word_underscore_1: first
+bip_39_word_underscore_10: first_hello_asset_border_alley_stick_hollow_stool_chronic_turkey
+bip_39_word_underscore_11: first_hello_asset_border_alley_stick_hollow_stool_chronic_turkey_notice
+bip_39_word_underscore_12: first_hello_asset_border_alley_stick_hollow_stool_chronic_turkey_notice_accident
+bip_39_word_underscore_2: first_hello
+bip_39_word_underscore_3: first_hello_asset
+bip_39_word_underscore_4: first_hello_asset_border
+bip_39_word_underscore_5: first_hello_asset_border_alley
+bip_39_word_underscore_6: first_hello_asset_border_alley_stick
+bip_39_word_underscore_7: first_hello_asset_border_alley_stick_hollow
+bip_39_word_underscore_8: first_hello_asset_border_alley_stick_hollow_stool
+bip_39_word_underscore_9: first_hello_asset_border_alley_stick_hollow_stool_chronic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

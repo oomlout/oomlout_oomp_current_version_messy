@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | merge |  
+| bip_39_word_dash_10 | merge-above-verb-decrease-bread-awful-chest-upset-dial-detail |  
+| bip_39_word_dash_11 | merge-above-verb-decrease-bread-awful-chest-upset-dial-detail-window |  
+| bip_39_word_dash_12 | merge-above-verb-decrease-bread-awful-chest-upset-dial-detail-window-account |  
+| bip_39_word_dash_2 | merge-above |  
+| bip_39_word_dash_3 | merge-above-verb |  
+| bip_39_word_dash_4 | merge-above-verb-decrease |  
+| bip_39_word_dash_5 | merge-above-verb-decrease-bread |  
+| bip_39_word_dash_6 | merge-above-verb-decrease-bread-awful |  
+| bip_39_word_dash_7 | merge-above-verb-decrease-bread-awful-chest |  
+| bip_39_word_dash_8 | merge-above-verb-decrease-bread-awful-chest-upset |  
+| bip_39_word_dash_9 | merge-above-verb-decrease-bread-awful-chest-upset-dial |  
 | bip_39_word_new_br_1 | merge |  
 | bip_39_word_new_br_10 | merge<br>above<br>verb<br>decrease<br>bread<br>awful<br>chest<br>upset<br>dial<br>detail |  
 | bip_39_word_new_br_11 | merge<br>above<br>verb<br>decrease<br>bread<br>awful<br>chest<br>upset<br>dial<br>detail<br>window |  
@@ -147,6 +159,18 @@ dial |
 | bip_39_word_space_7 | merge above verb decrease bread awful chest |  
 | bip_39_word_space_8 | merge above verb decrease bread awful chest upset |  
 | bip_39_word_space_9 | merge above verb decrease bread awful chest upset dial |  
+| bip_39_word_underscore_1 | merge |  
+| bip_39_word_underscore_10 | merge_above_verb_decrease_bread_awful_chest_upset_dial_detail |  
+| bip_39_word_underscore_11 | merge_above_verb_decrease_bread_awful_chest_upset_dial_detail_window |  
+| bip_39_word_underscore_12 | merge_above_verb_decrease_bread_awful_chest_upset_dial_detail_window_account |  
+| bip_39_word_underscore_2 | merge_above |  
+| bip_39_word_underscore_3 | merge_above_verb |  
+| bip_39_word_underscore_4 | merge_above_verb_decrease |  
+| bip_39_word_underscore_5 | merge_above_verb_decrease_bread |  
+| bip_39_word_underscore_6 | merge_above_verb_decrease_bread_awful |  
+| bip_39_word_underscore_7 | merge_above_verb_decrease_bread_awful_chest |  
+| bip_39_word_underscore_8 | merge_above_verb_decrease_bread_awful_chest_upset |  
+| bip_39_word_underscore_9 | merge_above_verb_decrease_bread_awful_chest_upset_dial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

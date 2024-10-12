@@ -1,3 +1,15 @@
+bip_39_word_dash_1: child
+bip_39_word_dash_10: child-loan-barely-budget-panther-inquiry-situate-timber-buyer-speak
+bip_39_word_dash_11: child-loan-barely-budget-panther-inquiry-situate-timber-buyer-speak-degree
+bip_39_word_dash_12: child-loan-barely-budget-panther-inquiry-situate-timber-buyer-speak-degree-alley
+bip_39_word_dash_2: child-loan
+bip_39_word_dash_3: child-loan-barely
+bip_39_word_dash_4: child-loan-barely-budget
+bip_39_word_dash_5: child-loan-barely-budget-panther
+bip_39_word_dash_6: child-loan-barely-budget-panther-inquiry
+bip_39_word_dash_7: child-loan-barely-budget-panther-inquiry-situate
+bip_39_word_dash_8: child-loan-barely-budget-panther-inquiry-situate-timber
+bip_39_word_dash_9: child-loan-barely-budget-panther-inquiry-situate-timber-buyer
 bip_39_word_new_br_1: child
 bip_39_word_new_br_10: child<br>loan<br>barely<br>budget<br>panther<br>inquiry<br>situate<br>timber<br>buyer<br>speak
 bip_39_word_new_br_11: child<br>loan<br>barely<br>budget<br>panther<br>inquiry<br>situate<br>timber<br>buyer<br>speak<br>degree
@@ -194,6 +206,18 @@ bip_39_word_space_6: child loan barely budget panther inquiry
 bip_39_word_space_7: child loan barely budget panther inquiry situate
 bip_39_word_space_8: child loan barely budget panther inquiry situate timber
 bip_39_word_space_9: child loan barely budget panther inquiry situate timber buyer
+bip_39_word_underscore_1: child
+bip_39_word_underscore_10: child_loan_barely_budget_panther_inquiry_situate_timber_buyer_speak
+bip_39_word_underscore_11: child_loan_barely_budget_panther_inquiry_situate_timber_buyer_speak_degree
+bip_39_word_underscore_12: child_loan_barely_budget_panther_inquiry_situate_timber_buyer_speak_degree_alley
+bip_39_word_underscore_2: child_loan
+bip_39_word_underscore_3: child_loan_barely
+bip_39_word_underscore_4: child_loan_barely_budget
+bip_39_word_underscore_5: child_loan_barely_budget_panther
+bip_39_word_underscore_6: child_loan_barely_budget_panther_inquiry
+bip_39_word_underscore_7: child_loan_barely_budget_panther_inquiry_situate
+bip_39_word_underscore_8: child_loan_barely_budget_panther_inquiry_situate_timber
+bip_39_word_underscore_9: child_loan_barely_budget_panther_inquiry_situate_timber_buyer
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: void
+bip_39_word_dash_10: void-planet-saddle-correct-eyebrow-tourist-crane-left-green-hint
+bip_39_word_dash_11: void-planet-saddle-correct-eyebrow-tourist-crane-left-green-hint-copper
+bip_39_word_dash_12: void-planet-saddle-correct-eyebrow-tourist-crane-left-green-hint-copper-advance
+bip_39_word_dash_2: void-planet
+bip_39_word_dash_3: void-planet-saddle
+bip_39_word_dash_4: void-planet-saddle-correct
+bip_39_word_dash_5: void-planet-saddle-correct-eyebrow
+bip_39_word_dash_6: void-planet-saddle-correct-eyebrow-tourist
+bip_39_word_dash_7: void-planet-saddle-correct-eyebrow-tourist-crane
+bip_39_word_dash_8: void-planet-saddle-correct-eyebrow-tourist-crane-left
+bip_39_word_dash_9: void-planet-saddle-correct-eyebrow-tourist-crane-left-green
 bip_39_word_new_br_1: void
 bip_39_word_new_br_10: void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left<br>green<br>hint
 bip_39_word_new_br_11: void<br>planet<br>saddle<br>correct<br>eyebrow<br>tourist<br>crane<br>left<br>green<br>hint<br>copper
@@ -194,6 +206,18 @@ bip_39_word_space_6: void planet saddle correct eyebrow tourist
 bip_39_word_space_7: void planet saddle correct eyebrow tourist crane
 bip_39_word_space_8: void planet saddle correct eyebrow tourist crane left
 bip_39_word_space_9: void planet saddle correct eyebrow tourist crane left green
+bip_39_word_underscore_1: void
+bip_39_word_underscore_10: void_planet_saddle_correct_eyebrow_tourist_crane_left_green_hint
+bip_39_word_underscore_11: void_planet_saddle_correct_eyebrow_tourist_crane_left_green_hint_copper
+bip_39_word_underscore_12: void_planet_saddle_correct_eyebrow_tourist_crane_left_green_hint_copper_advance
+bip_39_word_underscore_2: void_planet
+bip_39_word_underscore_3: void_planet_saddle
+bip_39_word_underscore_4: void_planet_saddle_correct
+bip_39_word_underscore_5: void_planet_saddle_correct_eyebrow
+bip_39_word_underscore_6: void_planet_saddle_correct_eyebrow_tourist
+bip_39_word_underscore_7: void_planet_saddle_correct_eyebrow_tourist_crane
+bip_39_word_underscore_8: void_planet_saddle_correct_eyebrow_tourist_crane_left
+bip_39_word_underscore_9: void_planet_saddle_correct_eyebrow_tourist_crane_left_green
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: seminar
+bip_39_word_dash_10: seminar-undo-style-same-power-wood-suit-badge-favorite-movie
+bip_39_word_dash_11: seminar-undo-style-same-power-wood-suit-badge-favorite-movie-urge
+bip_39_word_dash_12: seminar-undo-style-same-power-wood-suit-badge-favorite-movie-urge-about
+bip_39_word_dash_2: seminar-undo
+bip_39_word_dash_3: seminar-undo-style
+bip_39_word_dash_4: seminar-undo-style-same
+bip_39_word_dash_5: seminar-undo-style-same-power
+bip_39_word_dash_6: seminar-undo-style-same-power-wood
+bip_39_word_dash_7: seminar-undo-style-same-power-wood-suit
+bip_39_word_dash_8: seminar-undo-style-same-power-wood-suit-badge
+bip_39_word_dash_9: seminar-undo-style-same-power-wood-suit-badge-favorite
 bip_39_word_new_br_1: seminar
 bip_39_word_new_br_10: seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge<br>favorite<br>movie
 bip_39_word_new_br_11: seminar<br>undo<br>style<br>same<br>power<br>wood<br>suit<br>badge<br>favorite<br>movie<br>urge
@@ -193,6 +205,18 @@ bip_39_word_space_6: seminar undo style same power wood
 bip_39_word_space_7: seminar undo style same power wood suit
 bip_39_word_space_8: seminar undo style same power wood suit badge
 bip_39_word_space_9: seminar undo style same power wood suit badge favorite
+bip_39_word_underscore_1: seminar
+bip_39_word_underscore_10: seminar_undo_style_same_power_wood_suit_badge_favorite_movie
+bip_39_word_underscore_11: seminar_undo_style_same_power_wood_suit_badge_favorite_movie_urge
+bip_39_word_underscore_12: seminar_undo_style_same_power_wood_suit_badge_favorite_movie_urge_about
+bip_39_word_underscore_2: seminar_undo
+bip_39_word_underscore_3: seminar_undo_style
+bip_39_word_underscore_4: seminar_undo_style_same
+bip_39_word_underscore_5: seminar_undo_style_same_power
+bip_39_word_underscore_6: seminar_undo_style_same_power_wood
+bip_39_word_underscore_7: seminar_undo_style_same_power_wood_suit
+bip_39_word_underscore_8: seminar_undo_style_same_power_wood_suit_badge
+bip_39_word_underscore_9: seminar_undo_style_same_power_wood_suit_badge_favorite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

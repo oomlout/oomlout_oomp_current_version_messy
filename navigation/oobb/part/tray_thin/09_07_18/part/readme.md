@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | world |  
+| bip_39_word_dash_10 | world-work-eyebrow-dice-note-track-clutch-shield-bring-tired |  
+| bip_39_word_dash_11 | world-work-eyebrow-dice-note-track-clutch-shield-bring-tired-run |  
+| bip_39_word_dash_12 | world-work-eyebrow-dice-note-track-clutch-shield-bring-tired-run-ancient |  
+| bip_39_word_dash_2 | world-work |  
+| bip_39_word_dash_3 | world-work-eyebrow |  
+| bip_39_word_dash_4 | world-work-eyebrow-dice |  
+| bip_39_word_dash_5 | world-work-eyebrow-dice-note |  
+| bip_39_word_dash_6 | world-work-eyebrow-dice-note-track |  
+| bip_39_word_dash_7 | world-work-eyebrow-dice-note-track-clutch |  
+| bip_39_word_dash_8 | world-work-eyebrow-dice-note-track-clutch-shield |  
+| bip_39_word_dash_9 | world-work-eyebrow-dice-note-track-clutch-shield-bring |  
 | bip_39_word_new_br_1 | world |  
 | bip_39_word_new_br_10 | world<br>work<br>eyebrow<br>dice<br>note<br>track<br>clutch<br>shield<br>bring<br>tired |  
 | bip_39_word_new_br_11 | world<br>work<br>eyebrow<br>dice<br>note<br>track<br>clutch<br>shield<br>bring<br>tired<br>run |  
@@ -147,6 +159,18 @@ bring |
 | bip_39_word_space_7 | world work eyebrow dice note track clutch |  
 | bip_39_word_space_8 | world work eyebrow dice note track clutch shield |  
 | bip_39_word_space_9 | world work eyebrow dice note track clutch shield bring |  
+| bip_39_word_underscore_1 | world |  
+| bip_39_word_underscore_10 | world_work_eyebrow_dice_note_track_clutch_shield_bring_tired |  
+| bip_39_word_underscore_11 | world_work_eyebrow_dice_note_track_clutch_shield_bring_tired_run |  
+| bip_39_word_underscore_12 | world_work_eyebrow_dice_note_track_clutch_shield_bring_tired_run_ancient |  
+| bip_39_word_underscore_2 | world_work |  
+| bip_39_word_underscore_3 | world_work_eyebrow |  
+| bip_39_word_underscore_4 | world_work_eyebrow_dice |  
+| bip_39_word_underscore_5 | world_work_eyebrow_dice_note |  
+| bip_39_word_underscore_6 | world_work_eyebrow_dice_note_track |  
+| bip_39_word_underscore_7 | world_work_eyebrow_dice_note_track_clutch |  
+| bip_39_word_underscore_8 | world_work_eyebrow_dice_note_track_clutch_shield |  
+| bip_39_word_underscore_9 | world_work_eyebrow_dice_note_track_clutch_shield_bring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

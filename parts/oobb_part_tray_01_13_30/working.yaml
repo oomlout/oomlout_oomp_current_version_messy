@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mimic
+bip_39_word_dash_10: mimic-label-glad-cost-tragic-someone-spoil-shed-awake-awful
+bip_39_word_dash_11: mimic-label-glad-cost-tragic-someone-spoil-shed-awake-awful-mobile
+bip_39_word_dash_12: mimic-label-glad-cost-tragic-someone-spoil-shed-awake-awful-mobile-attend
+bip_39_word_dash_2: mimic-label
+bip_39_word_dash_3: mimic-label-glad
+bip_39_word_dash_4: mimic-label-glad-cost
+bip_39_word_dash_5: mimic-label-glad-cost-tragic
+bip_39_word_dash_6: mimic-label-glad-cost-tragic-someone
+bip_39_word_dash_7: mimic-label-glad-cost-tragic-someone-spoil
+bip_39_word_dash_8: mimic-label-glad-cost-tragic-someone-spoil-shed
+bip_39_word_dash_9: mimic-label-glad-cost-tragic-someone-spoil-shed-awake
 bip_39_word_new_br_1: mimic
 bip_39_word_new_br_10: mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed<br>awake<br>awful
 bip_39_word_new_br_11: mimic<br>label<br>glad<br>cost<br>tragic<br>someone<br>spoil<br>shed<br>awake<br>awful<br>mobile
@@ -193,6 +205,18 @@ bip_39_word_space_6: mimic label glad cost tragic someone
 bip_39_word_space_7: mimic label glad cost tragic someone spoil
 bip_39_word_space_8: mimic label glad cost tragic someone spoil shed
 bip_39_word_space_9: mimic label glad cost tragic someone spoil shed awake
+bip_39_word_underscore_1: mimic
+bip_39_word_underscore_10: mimic_label_glad_cost_tragic_someone_spoil_shed_awake_awful
+bip_39_word_underscore_11: mimic_label_glad_cost_tragic_someone_spoil_shed_awake_awful_mobile
+bip_39_word_underscore_12: mimic_label_glad_cost_tragic_someone_spoil_shed_awake_awful_mobile_attend
+bip_39_word_underscore_2: mimic_label
+bip_39_word_underscore_3: mimic_label_glad
+bip_39_word_underscore_4: mimic_label_glad_cost
+bip_39_word_underscore_5: mimic_label_glad_cost_tragic
+bip_39_word_underscore_6: mimic_label_glad_cost_tragic_someone
+bip_39_word_underscore_7: mimic_label_glad_cost_tragic_someone_spoil
+bip_39_word_underscore_8: mimic_label_glad_cost_tragic_someone_spoil_shed
+bip_39_word_underscore_9: mimic_label_glad_cost_tragic_someone_spoil_shed_awake
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

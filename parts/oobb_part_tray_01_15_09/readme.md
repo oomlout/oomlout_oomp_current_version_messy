@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | will |  
+| bip_39_word_dash_10 | will-shock-action-rural-bubble-tent-ordinary-exhibit-phone-milk |  
+| bip_39_word_dash_11 | will-shock-action-rural-bubble-tent-ordinary-exhibit-phone-milk-churn |  
+| bip_39_word_dash_12 | will-shock-action-rural-bubble-tent-ordinary-exhibit-phone-milk-churn-absent |  
+| bip_39_word_dash_2 | will-shock |  
+| bip_39_word_dash_3 | will-shock-action |  
+| bip_39_word_dash_4 | will-shock-action-rural |  
+| bip_39_word_dash_5 | will-shock-action-rural-bubble |  
+| bip_39_word_dash_6 | will-shock-action-rural-bubble-tent |  
+| bip_39_word_dash_7 | will-shock-action-rural-bubble-tent-ordinary |  
+| bip_39_word_dash_8 | will-shock-action-rural-bubble-tent-ordinary-exhibit |  
+| bip_39_word_dash_9 | will-shock-action-rural-bubble-tent-ordinary-exhibit-phone |  
 | bip_39_word_new_br_1 | will |  
 | bip_39_word_new_br_10 | will<br>shock<br>action<br>rural<br>bubble<br>tent<br>ordinary<br>exhibit<br>phone<br>milk |  
 | bip_39_word_new_br_11 | will<br>shock<br>action<br>rural<br>bubble<br>tent<br>ordinary<br>exhibit<br>phone<br>milk<br>churn |  
@@ -147,6 +159,18 @@ phone |
 | bip_39_word_space_7 | will shock action rural bubble tent ordinary |  
 | bip_39_word_space_8 | will shock action rural bubble tent ordinary exhibit |  
 | bip_39_word_space_9 | will shock action rural bubble tent ordinary exhibit phone |  
+| bip_39_word_underscore_1 | will |  
+| bip_39_word_underscore_10 | will_shock_action_rural_bubble_tent_ordinary_exhibit_phone_milk |  
+| bip_39_word_underscore_11 | will_shock_action_rural_bubble_tent_ordinary_exhibit_phone_milk_churn |  
+| bip_39_word_underscore_12 | will_shock_action_rural_bubble_tent_ordinary_exhibit_phone_milk_churn_absent |  
+| bip_39_word_underscore_2 | will_shock |  
+| bip_39_word_underscore_3 | will_shock_action |  
+| bip_39_word_underscore_4 | will_shock_action_rural |  
+| bip_39_word_underscore_5 | will_shock_action_rural_bubble |  
+| bip_39_word_underscore_6 | will_shock_action_rural_bubble_tent |  
+| bip_39_word_underscore_7 | will_shock_action_rural_bubble_tent_ordinary |  
+| bip_39_word_underscore_8 | will_shock_action_rural_bubble_tent_ordinary_exhibit |  
+| bip_39_word_underscore_9 | will_shock_action_rural_bubble_tent_ordinary_exhibit_phone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trend |  
+| bip_39_word_dash_10 | trend-share-runway-carbon-make-giant-achieve-couple-sunny-six |  
+| bip_39_word_dash_11 | trend-share-runway-carbon-make-giant-achieve-couple-sunny-six-hair |  
+| bip_39_word_dash_12 | trend-share-runway-carbon-make-giant-achieve-couple-sunny-six-hair-acquire |  
+| bip_39_word_dash_2 | trend-share |  
+| bip_39_word_dash_3 | trend-share-runway |  
+| bip_39_word_dash_4 | trend-share-runway-carbon |  
+| bip_39_word_dash_5 | trend-share-runway-carbon-make |  
+| bip_39_word_dash_6 | trend-share-runway-carbon-make-giant |  
+| bip_39_word_dash_7 | trend-share-runway-carbon-make-giant-achieve |  
+| bip_39_word_dash_8 | trend-share-runway-carbon-make-giant-achieve-couple |  
+| bip_39_word_dash_9 | trend-share-runway-carbon-make-giant-achieve-couple-sunny |  
 | bip_39_word_new_br_1 | trend |  
 | bip_39_word_new_br_10 | trend<br>share<br>runway<br>carbon<br>make<br>giant<br>achieve<br>couple<br>sunny<br>six |  
 | bip_39_word_new_br_11 | trend<br>share<br>runway<br>carbon<br>make<br>giant<br>achieve<br>couple<br>sunny<br>six<br>hair |  
@@ -147,6 +159,18 @@ sunny |
 | bip_39_word_space_7 | trend share runway carbon make giant achieve |  
 | bip_39_word_space_8 | trend share runway carbon make giant achieve couple |  
 | bip_39_word_space_9 | trend share runway carbon make giant achieve couple sunny |  
+| bip_39_word_underscore_1 | trend |  
+| bip_39_word_underscore_10 | trend_share_runway_carbon_make_giant_achieve_couple_sunny_six |  
+| bip_39_word_underscore_11 | trend_share_runway_carbon_make_giant_achieve_couple_sunny_six_hair |  
+| bip_39_word_underscore_12 | trend_share_runway_carbon_make_giant_achieve_couple_sunny_six_hair_acquire |  
+| bip_39_word_underscore_2 | trend_share |  
+| bip_39_word_underscore_3 | trend_share_runway |  
+| bip_39_word_underscore_4 | trend_share_runway_carbon |  
+| bip_39_word_underscore_5 | trend_share_runway_carbon_make |  
+| bip_39_word_underscore_6 | trend_share_runway_carbon_make_giant |  
+| bip_39_word_underscore_7 | trend_share_runway_carbon_make_giant_achieve |  
+| bip_39_word_underscore_8 | trend_share_runway_carbon_make_giant_achieve_couple |  
+| bip_39_word_underscore_9 | trend_share_runway_carbon_make_giant_achieve_couple_sunny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

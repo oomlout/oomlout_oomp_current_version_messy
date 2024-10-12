@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stuff |  
+| bip_39_word_dash_10 | stuff-creek-hand-before-buzz-pitch-crush-step-trend-lottery |  
+| bip_39_word_dash_11 | stuff-creek-hand-before-buzz-pitch-crush-step-trend-lottery-business |  
+| bip_39_word_dash_12 | stuff-creek-hand-before-buzz-pitch-crush-step-trend-lottery-business-age |  
+| bip_39_word_dash_2 | stuff-creek |  
+| bip_39_word_dash_3 | stuff-creek-hand |  
+| bip_39_word_dash_4 | stuff-creek-hand-before |  
+| bip_39_word_dash_5 | stuff-creek-hand-before-buzz |  
+| bip_39_word_dash_6 | stuff-creek-hand-before-buzz-pitch |  
+| bip_39_word_dash_7 | stuff-creek-hand-before-buzz-pitch-crush |  
+| bip_39_word_dash_8 | stuff-creek-hand-before-buzz-pitch-crush-step |  
+| bip_39_word_dash_9 | stuff-creek-hand-before-buzz-pitch-crush-step-trend |  
 | bip_39_word_new_br_1 | stuff |  
 | bip_39_word_new_br_10 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step<br>trend<br>lottery |  
 | bip_39_word_new_br_11 | stuff<br>creek<br>hand<br>before<br>buzz<br>pitch<br>crush<br>step<br>trend<br>lottery<br>business |  
@@ -147,6 +159,18 @@ trend |
 | bip_39_word_space_7 | stuff creek hand before buzz pitch crush |  
 | bip_39_word_space_8 | stuff creek hand before buzz pitch crush step |  
 | bip_39_word_space_9 | stuff creek hand before buzz pitch crush step trend |  
+| bip_39_word_underscore_1 | stuff |  
+| bip_39_word_underscore_10 | stuff_creek_hand_before_buzz_pitch_crush_step_trend_lottery |  
+| bip_39_word_underscore_11 | stuff_creek_hand_before_buzz_pitch_crush_step_trend_lottery_business |  
+| bip_39_word_underscore_12 | stuff_creek_hand_before_buzz_pitch_crush_step_trend_lottery_business_age |  
+| bip_39_word_underscore_2 | stuff_creek |  
+| bip_39_word_underscore_3 | stuff_creek_hand |  
+| bip_39_word_underscore_4 | stuff_creek_hand_before |  
+| bip_39_word_underscore_5 | stuff_creek_hand_before_buzz |  
+| bip_39_word_underscore_6 | stuff_creek_hand_before_buzz_pitch |  
+| bip_39_word_underscore_7 | stuff_creek_hand_before_buzz_pitch_crush |  
+| bip_39_word_underscore_8 | stuff_creek_hand_before_buzz_pitch_crush_step |  
+| bip_39_word_underscore_9 | stuff_creek_hand_before_buzz_pitch_crush_step_trend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

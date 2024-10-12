@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | miracle |  
+| bip_39_word_dash_10 | miracle-version-peanut-sibling-dress-ability-drop-scheme-tissue-quote |  
+| bip_39_word_dash_11 | miracle-version-peanut-sibling-dress-ability-drop-scheme-tissue-quote-neck |  
+| bip_39_word_dash_12 | miracle-version-peanut-sibling-dress-ability-drop-scheme-tissue-quote-neck-alone |  
+| bip_39_word_dash_2 | miracle-version |  
+| bip_39_word_dash_3 | miracle-version-peanut |  
+| bip_39_word_dash_4 | miracle-version-peanut-sibling |  
+| bip_39_word_dash_5 | miracle-version-peanut-sibling-dress |  
+| bip_39_word_dash_6 | miracle-version-peanut-sibling-dress-ability |  
+| bip_39_word_dash_7 | miracle-version-peanut-sibling-dress-ability-drop |  
+| bip_39_word_dash_8 | miracle-version-peanut-sibling-dress-ability-drop-scheme |  
+| bip_39_word_dash_9 | miracle-version-peanut-sibling-dress-ability-drop-scheme-tissue |  
 | bip_39_word_new_br_1 | miracle |  
 | bip_39_word_new_br_10 | miracle<br>version<br>peanut<br>sibling<br>dress<br>ability<br>drop<br>scheme<br>tissue<br>quote |  
 | bip_39_word_new_br_11 | miracle<br>version<br>peanut<br>sibling<br>dress<br>ability<br>drop<br>scheme<br>tissue<br>quote<br>neck |  
@@ -147,6 +159,18 @@ tissue |
 | bip_39_word_space_7 | miracle version peanut sibling dress ability drop |  
 | bip_39_word_space_8 | miracle version peanut sibling dress ability drop scheme |  
 | bip_39_word_space_9 | miracle version peanut sibling dress ability drop scheme tissue |  
+| bip_39_word_underscore_1 | miracle |  
+| bip_39_word_underscore_10 | miracle_version_peanut_sibling_dress_ability_drop_scheme_tissue_quote |  
+| bip_39_word_underscore_11 | miracle_version_peanut_sibling_dress_ability_drop_scheme_tissue_quote_neck |  
+| bip_39_word_underscore_12 | miracle_version_peanut_sibling_dress_ability_drop_scheme_tissue_quote_neck_alone |  
+| bip_39_word_underscore_2 | miracle_version |  
+| bip_39_word_underscore_3 | miracle_version_peanut |  
+| bip_39_word_underscore_4 | miracle_version_peanut_sibling |  
+| bip_39_word_underscore_5 | miracle_version_peanut_sibling_dress |  
+| bip_39_word_underscore_6 | miracle_version_peanut_sibling_dress_ability |  
+| bip_39_word_underscore_7 | miracle_version_peanut_sibling_dress_ability_drop |  
+| bip_39_word_underscore_8 | miracle_version_peanut_sibling_dress_ability_drop_scheme |  
+| bip_39_word_underscore_9 | miracle_version_peanut_sibling_dress_ability_drop_scheme_tissue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | card |  
+| bip_39_word_dash_10 | card-recycle-witness-tent-input-decade-pause-shed-destroy-purpose |  
+| bip_39_word_dash_11 | card-recycle-witness-tent-input-decade-pause-shed-destroy-purpose-civil |  
+| bip_39_word_dash_12 | card-recycle-witness-tent-input-decade-pause-shed-destroy-purpose-civil-action |  
+| bip_39_word_dash_2 | card-recycle |  
+| bip_39_word_dash_3 | card-recycle-witness |  
+| bip_39_word_dash_4 | card-recycle-witness-tent |  
+| bip_39_word_dash_5 | card-recycle-witness-tent-input |  
+| bip_39_word_dash_6 | card-recycle-witness-tent-input-decade |  
+| bip_39_word_dash_7 | card-recycle-witness-tent-input-decade-pause |  
+| bip_39_word_dash_8 | card-recycle-witness-tent-input-decade-pause-shed |  
+| bip_39_word_dash_9 | card-recycle-witness-tent-input-decade-pause-shed-destroy |  
 | bip_39_word_new_br_1 | card |  
 | bip_39_word_new_br_10 | card<br>recycle<br>witness<br>tent<br>input<br>decade<br>pause<br>shed<br>destroy<br>purpose |  
 | bip_39_word_new_br_11 | card<br>recycle<br>witness<br>tent<br>input<br>decade<br>pause<br>shed<br>destroy<br>purpose<br>civil |  
@@ -147,6 +159,18 @@ destroy |
 | bip_39_word_space_7 | card recycle witness tent input decade pause |  
 | bip_39_word_space_8 | card recycle witness tent input decade pause shed |  
 | bip_39_word_space_9 | card recycle witness tent input decade pause shed destroy |  
+| bip_39_word_underscore_1 | card |  
+| bip_39_word_underscore_10 | card_recycle_witness_tent_input_decade_pause_shed_destroy_purpose |  
+| bip_39_word_underscore_11 | card_recycle_witness_tent_input_decade_pause_shed_destroy_purpose_civil |  
+| bip_39_word_underscore_12 | card_recycle_witness_tent_input_decade_pause_shed_destroy_purpose_civil_action |  
+| bip_39_word_underscore_2 | card_recycle |  
+| bip_39_word_underscore_3 | card_recycle_witness |  
+| bip_39_word_underscore_4 | card_recycle_witness_tent |  
+| bip_39_word_underscore_5 | card_recycle_witness_tent_input |  
+| bip_39_word_underscore_6 | card_recycle_witness_tent_input_decade |  
+| bip_39_word_underscore_7 | card_recycle_witness_tent_input_decade_pause |  
+| bip_39_word_underscore_8 | card_recycle_witness_tent_input_decade_pause_shed |  
+| bip_39_word_underscore_9 | card_recycle_witness_tent_input_decade_pause_shed_destroy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

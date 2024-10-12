@@ -1,3 +1,15 @@
+bip_39_word_dash_1: resist
+bip_39_word_dash_10: resist-perfect-oval-ensure-barely-tube-concert-model-labor-arrest
+bip_39_word_dash_11: resist-perfect-oval-ensure-barely-tube-concert-model-labor-arrest-course
+bip_39_word_dash_12: resist-perfect-oval-ensure-barely-tube-concert-model-labor-arrest-course-above
+bip_39_word_dash_2: resist-perfect
+bip_39_word_dash_3: resist-perfect-oval
+bip_39_word_dash_4: resist-perfect-oval-ensure
+bip_39_word_dash_5: resist-perfect-oval-ensure-barely
+bip_39_word_dash_6: resist-perfect-oval-ensure-barely-tube
+bip_39_word_dash_7: resist-perfect-oval-ensure-barely-tube-concert
+bip_39_word_dash_8: resist-perfect-oval-ensure-barely-tube-concert-model
+bip_39_word_dash_9: resist-perfect-oval-ensure-barely-tube-concert-model-labor
 bip_39_word_new_br_1: resist
 bip_39_word_new_br_10: resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model<br>labor<br>arrest
 bip_39_word_new_br_11: resist<br>perfect<br>oval<br>ensure<br>barely<br>tube<br>concert<br>model<br>labor<br>arrest<br>course
@@ -193,6 +205,18 @@ bip_39_word_space_6: resist perfect oval ensure barely tube
 bip_39_word_space_7: resist perfect oval ensure barely tube concert
 bip_39_word_space_8: resist perfect oval ensure barely tube concert model
 bip_39_word_space_9: resist perfect oval ensure barely tube concert model labor
+bip_39_word_underscore_1: resist
+bip_39_word_underscore_10: resist_perfect_oval_ensure_barely_tube_concert_model_labor_arrest
+bip_39_word_underscore_11: resist_perfect_oval_ensure_barely_tube_concert_model_labor_arrest_course
+bip_39_word_underscore_12: resist_perfect_oval_ensure_barely_tube_concert_model_labor_arrest_course_above
+bip_39_word_underscore_2: resist_perfect
+bip_39_word_underscore_3: resist_perfect_oval
+bip_39_word_underscore_4: resist_perfect_oval_ensure
+bip_39_word_underscore_5: resist_perfect_oval_ensure_barely
+bip_39_word_underscore_6: resist_perfect_oval_ensure_barely_tube
+bip_39_word_underscore_7: resist_perfect_oval_ensure_barely_tube_concert
+bip_39_word_underscore_8: resist_perfect_oval_ensure_barely_tube_concert_model
+bip_39_word_underscore_9: resist_perfect_oval_ensure_barely_tube_concert_model_labor
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

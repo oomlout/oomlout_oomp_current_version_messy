@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spatial |  
+| bip_39_word_dash_10 | spatial-rocket-wise-model-country-three-boring-inspire-dizzy-circle |  
+| bip_39_word_dash_11 | spatial-rocket-wise-model-country-three-boring-inspire-dizzy-circle-crystal |  
+| bip_39_word_dash_12 | spatial-rocket-wise-model-country-three-boring-inspire-dizzy-circle-crystal-artwork |  
+| bip_39_word_dash_2 | spatial-rocket |  
+| bip_39_word_dash_3 | spatial-rocket-wise |  
+| bip_39_word_dash_4 | spatial-rocket-wise-model |  
+| bip_39_word_dash_5 | spatial-rocket-wise-model-country |  
+| bip_39_word_dash_6 | spatial-rocket-wise-model-country-three |  
+| bip_39_word_dash_7 | spatial-rocket-wise-model-country-three-boring |  
+| bip_39_word_dash_8 | spatial-rocket-wise-model-country-three-boring-inspire |  
+| bip_39_word_dash_9 | spatial-rocket-wise-model-country-three-boring-inspire-dizzy |  
 | bip_39_word_new_br_1 | spatial |  
 | bip_39_word_new_br_10 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire<br>dizzy<br>circle |  
 | bip_39_word_new_br_11 | spatial<br>rocket<br>wise<br>model<br>country<br>three<br>boring<br>inspire<br>dizzy<br>circle<br>crystal |  
@@ -147,6 +159,18 @@ dizzy |
 | bip_39_word_space_7 | spatial rocket wise model country three boring |  
 | bip_39_word_space_8 | spatial rocket wise model country three boring inspire |  
 | bip_39_word_space_9 | spatial rocket wise model country three boring inspire dizzy |  
+| bip_39_word_underscore_1 | spatial |  
+| bip_39_word_underscore_10 | spatial_rocket_wise_model_country_three_boring_inspire_dizzy_circle |  
+| bip_39_word_underscore_11 | spatial_rocket_wise_model_country_three_boring_inspire_dizzy_circle_crystal |  
+| bip_39_word_underscore_12 | spatial_rocket_wise_model_country_three_boring_inspire_dizzy_circle_crystal_artwork |  
+| bip_39_word_underscore_2 | spatial_rocket |  
+| bip_39_word_underscore_3 | spatial_rocket_wise |  
+| bip_39_word_underscore_4 | spatial_rocket_wise_model |  
+| bip_39_word_underscore_5 | spatial_rocket_wise_model_country |  
+| bip_39_word_underscore_6 | spatial_rocket_wise_model_country_three |  
+| bip_39_word_underscore_7 | spatial_rocket_wise_model_country_three_boring |  
+| bip_39_word_underscore_8 | spatial_rocket_wise_model_country_three_boring_inspire |  
+| bip_39_word_underscore_9 | spatial_rocket_wise_model_country_three_boring_inspire_dizzy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

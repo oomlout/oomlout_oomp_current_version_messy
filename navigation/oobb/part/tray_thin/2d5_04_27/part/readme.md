@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | teach |  
+| bip_39_word_dash_10 | teach-cry-collect-eight-gap-artist-final-drum-sign-sketch |  
+| bip_39_word_dash_11 | teach-cry-collect-eight-gap-artist-final-drum-sign-sketch-chuckle |  
+| bip_39_word_dash_12 | teach-cry-collect-eight-gap-artist-final-drum-sign-sketch-chuckle-advice |  
+| bip_39_word_dash_2 | teach-cry |  
+| bip_39_word_dash_3 | teach-cry-collect |  
+| bip_39_word_dash_4 | teach-cry-collect-eight |  
+| bip_39_word_dash_5 | teach-cry-collect-eight-gap |  
+| bip_39_word_dash_6 | teach-cry-collect-eight-gap-artist |  
+| bip_39_word_dash_7 | teach-cry-collect-eight-gap-artist-final |  
+| bip_39_word_dash_8 | teach-cry-collect-eight-gap-artist-final-drum |  
+| bip_39_word_dash_9 | teach-cry-collect-eight-gap-artist-final-drum-sign |  
 | bip_39_word_new_br_1 | teach |  
 | bip_39_word_new_br_10 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum<br>sign<br>sketch |  
 | bip_39_word_new_br_11 | teach<br>cry<br>collect<br>eight<br>gap<br>artist<br>final<br>drum<br>sign<br>sketch<br>chuckle |  
@@ -147,6 +159,18 @@ sign |
 | bip_39_word_space_7 | teach cry collect eight gap artist final |  
 | bip_39_word_space_8 | teach cry collect eight gap artist final drum |  
 | bip_39_word_space_9 | teach cry collect eight gap artist final drum sign |  
+| bip_39_word_underscore_1 | teach |  
+| bip_39_word_underscore_10 | teach_cry_collect_eight_gap_artist_final_drum_sign_sketch |  
+| bip_39_word_underscore_11 | teach_cry_collect_eight_gap_artist_final_drum_sign_sketch_chuckle |  
+| bip_39_word_underscore_12 | teach_cry_collect_eight_gap_artist_final_drum_sign_sketch_chuckle_advice |  
+| bip_39_word_underscore_2 | teach_cry |  
+| bip_39_word_underscore_3 | teach_cry_collect |  
+| bip_39_word_underscore_4 | teach_cry_collect_eight |  
+| bip_39_word_underscore_5 | teach_cry_collect_eight_gap |  
+| bip_39_word_underscore_6 | teach_cry_collect_eight_gap_artist |  
+| bip_39_word_underscore_7 | teach_cry_collect_eight_gap_artist_final |  
+| bip_39_word_underscore_8 | teach_cry_collect_eight_gap_artist_final_drum |  
+| bip_39_word_underscore_9 | teach_cry_collect_eight_gap_artist_final_drum_sign |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

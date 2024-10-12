@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soon |  
+| bip_39_word_dash_10 | soon-danger-aspect-mom-almost-lecture-shell-north-rose-clog |  
+| bip_39_word_dash_11 | soon-danger-aspect-mom-almost-lecture-shell-north-rose-clog-resist |  
+| bip_39_word_dash_12 | soon-danger-aspect-mom-almost-lecture-shell-north-rose-clog-resist-attack |  
+| bip_39_word_dash_2 | soon-danger |  
+| bip_39_word_dash_3 | soon-danger-aspect |  
+| bip_39_word_dash_4 | soon-danger-aspect-mom |  
+| bip_39_word_dash_5 | soon-danger-aspect-mom-almost |  
+| bip_39_word_dash_6 | soon-danger-aspect-mom-almost-lecture |  
+| bip_39_word_dash_7 | soon-danger-aspect-mom-almost-lecture-shell |  
+| bip_39_word_dash_8 | soon-danger-aspect-mom-almost-lecture-shell-north |  
+| bip_39_word_dash_9 | soon-danger-aspect-mom-almost-lecture-shell-north-rose |  
 | bip_39_word_new_br_1 | soon |  
 | bip_39_word_new_br_10 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog |  
 | bip_39_word_new_br_11 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog<br>resist |  
@@ -147,6 +159,18 @@ rose |
 | bip_39_word_space_7 | soon danger aspect mom almost lecture shell |  
 | bip_39_word_space_8 | soon danger aspect mom almost lecture shell north |  
 | bip_39_word_space_9 | soon danger aspect mom almost lecture shell north rose |  
+| bip_39_word_underscore_1 | soon |  
+| bip_39_word_underscore_10 | soon_danger_aspect_mom_almost_lecture_shell_north_rose_clog |  
+| bip_39_word_underscore_11 | soon_danger_aspect_mom_almost_lecture_shell_north_rose_clog_resist |  
+| bip_39_word_underscore_12 | soon_danger_aspect_mom_almost_lecture_shell_north_rose_clog_resist_attack |  
+| bip_39_word_underscore_2 | soon_danger |  
+| bip_39_word_underscore_3 | soon_danger_aspect |  
+| bip_39_word_underscore_4 | soon_danger_aspect_mom |  
+| bip_39_word_underscore_5 | soon_danger_aspect_mom_almost |  
+| bip_39_word_underscore_6 | soon_danger_aspect_mom_almost_lecture |  
+| bip_39_word_underscore_7 | soon_danger_aspect_mom_almost_lecture_shell |  
+| bip_39_word_underscore_8 | soon_danger_aspect_mom_almost_lecture_shell_north |  
+| bip_39_word_underscore_9 | soon_danger_aspect_mom_almost_lecture_shell_north_rose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dolphin |  
+| bip_39_word_dash_10 | dolphin-dream-erode-couple-annual-sting-bacon-enough-whisper-item |  
+| bip_39_word_dash_11 | dolphin-dream-erode-couple-annual-sting-bacon-enough-whisper-item-burger |  
+| bip_39_word_dash_12 | dolphin-dream-erode-couple-annual-sting-bacon-enough-whisper-item-burger-agent |  
+| bip_39_word_dash_2 | dolphin-dream |  
+| bip_39_word_dash_3 | dolphin-dream-erode |  
+| bip_39_word_dash_4 | dolphin-dream-erode-couple |  
+| bip_39_word_dash_5 | dolphin-dream-erode-couple-annual |  
+| bip_39_word_dash_6 | dolphin-dream-erode-couple-annual-sting |  
+| bip_39_word_dash_7 | dolphin-dream-erode-couple-annual-sting-bacon |  
+| bip_39_word_dash_8 | dolphin-dream-erode-couple-annual-sting-bacon-enough |  
+| bip_39_word_dash_9 | dolphin-dream-erode-couple-annual-sting-bacon-enough-whisper |  
 | bip_39_word_new_br_1 | dolphin |  
 | bip_39_word_new_br_10 | dolphin<br>dream<br>erode<br>couple<br>annual<br>sting<br>bacon<br>enough<br>whisper<br>item |  
 | bip_39_word_new_br_11 | dolphin<br>dream<br>erode<br>couple<br>annual<br>sting<br>bacon<br>enough<br>whisper<br>item<br>burger |  
@@ -147,6 +159,18 @@ whisper |
 | bip_39_word_space_7 | dolphin dream erode couple annual sting bacon |  
 | bip_39_word_space_8 | dolphin dream erode couple annual sting bacon enough |  
 | bip_39_word_space_9 | dolphin dream erode couple annual sting bacon enough whisper |  
+| bip_39_word_underscore_1 | dolphin |  
+| bip_39_word_underscore_10 | dolphin_dream_erode_couple_annual_sting_bacon_enough_whisper_item |  
+| bip_39_word_underscore_11 | dolphin_dream_erode_couple_annual_sting_bacon_enough_whisper_item_burger |  
+| bip_39_word_underscore_12 | dolphin_dream_erode_couple_annual_sting_bacon_enough_whisper_item_burger_agent |  
+| bip_39_word_underscore_2 | dolphin_dream |  
+| bip_39_word_underscore_3 | dolphin_dream_erode |  
+| bip_39_word_underscore_4 | dolphin_dream_erode_couple |  
+| bip_39_word_underscore_5 | dolphin_dream_erode_couple_annual |  
+| bip_39_word_underscore_6 | dolphin_dream_erode_couple_annual_sting |  
+| bip_39_word_underscore_7 | dolphin_dream_erode_couple_annual_sting_bacon |  
+| bip_39_word_underscore_8 | dolphin_dream_erode_couple_annual_sting_bacon_enough |  
+| bip_39_word_underscore_9 | dolphin_dream_erode_couple_annual_sting_bacon_enough_whisper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

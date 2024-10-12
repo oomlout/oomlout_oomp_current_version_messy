@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thing |  
+| bip_39_word_dash_10 | thing-ritual-width-faith-focus-aisle-harbor-key-veteran-casino |  
+| bip_39_word_dash_11 | thing-ritual-width-faith-focus-aisle-harbor-key-veteran-casino-person |  
+| bip_39_word_dash_12 | thing-ritual-width-faith-focus-aisle-harbor-key-veteran-casino-person-assume |  
+| bip_39_word_dash_2 | thing-ritual |  
+| bip_39_word_dash_3 | thing-ritual-width |  
+| bip_39_word_dash_4 | thing-ritual-width-faith |  
+| bip_39_word_dash_5 | thing-ritual-width-faith-focus |  
+| bip_39_word_dash_6 | thing-ritual-width-faith-focus-aisle |  
+| bip_39_word_dash_7 | thing-ritual-width-faith-focus-aisle-harbor |  
+| bip_39_word_dash_8 | thing-ritual-width-faith-focus-aisle-harbor-key |  
+| bip_39_word_dash_9 | thing-ritual-width-faith-focus-aisle-harbor-key-veteran |  
 | bip_39_word_new_br_1 | thing |  
 | bip_39_word_new_br_10 | thing<br>ritual<br>width<br>faith<br>focus<br>aisle<br>harbor<br>key<br>veteran<br>casino |  
 | bip_39_word_new_br_11 | thing<br>ritual<br>width<br>faith<br>focus<br>aisle<br>harbor<br>key<br>veteran<br>casino<br>person |  
@@ -147,6 +159,18 @@ veteran |
 | bip_39_word_space_7 | thing ritual width faith focus aisle harbor |  
 | bip_39_word_space_8 | thing ritual width faith focus aisle harbor key |  
 | bip_39_word_space_9 | thing ritual width faith focus aisle harbor key veteran |  
+| bip_39_word_underscore_1 | thing |  
+| bip_39_word_underscore_10 | thing_ritual_width_faith_focus_aisle_harbor_key_veteran_casino |  
+| bip_39_word_underscore_11 | thing_ritual_width_faith_focus_aisle_harbor_key_veteran_casino_person |  
+| bip_39_word_underscore_12 | thing_ritual_width_faith_focus_aisle_harbor_key_veteran_casino_person_assume |  
+| bip_39_word_underscore_2 | thing_ritual |  
+| bip_39_word_underscore_3 | thing_ritual_width |  
+| bip_39_word_underscore_4 | thing_ritual_width_faith |  
+| bip_39_word_underscore_5 | thing_ritual_width_faith_focus |  
+| bip_39_word_underscore_6 | thing_ritual_width_faith_focus_aisle |  
+| bip_39_word_underscore_7 | thing_ritual_width_faith_focus_aisle_harbor |  
+| bip_39_word_underscore_8 | thing_ritual_width_faith_focus_aisle_harbor_key |  
+| bip_39_word_underscore_9 | thing_ritual_width_faith_focus_aisle_harbor_key_veteran |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

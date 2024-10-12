@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slogan |  
+| bip_39_word_dash_10 | slogan-metal-decade-dolphin-robust-voice-genre-tourist-army-panel |  
+| bip_39_word_dash_11 | slogan-metal-decade-dolphin-robust-voice-genre-tourist-army-panel-pudding |  
+| bip_39_word_dash_12 | slogan-metal-decade-dolphin-robust-voice-genre-tourist-army-panel-pudding-air |  
+| bip_39_word_dash_2 | slogan-metal |  
+| bip_39_word_dash_3 | slogan-metal-decade |  
+| bip_39_word_dash_4 | slogan-metal-decade-dolphin |  
+| bip_39_word_dash_5 | slogan-metal-decade-dolphin-robust |  
+| bip_39_word_dash_6 | slogan-metal-decade-dolphin-robust-voice |  
+| bip_39_word_dash_7 | slogan-metal-decade-dolphin-robust-voice-genre |  
+| bip_39_word_dash_8 | slogan-metal-decade-dolphin-robust-voice-genre-tourist |  
+| bip_39_word_dash_9 | slogan-metal-decade-dolphin-robust-voice-genre-tourist-army |  
 | bip_39_word_new_br_1 | slogan |  
 | bip_39_word_new_br_10 | slogan<br>metal<br>decade<br>dolphin<br>robust<br>voice<br>genre<br>tourist<br>army<br>panel |  
 | bip_39_word_new_br_11 | slogan<br>metal<br>decade<br>dolphin<br>robust<br>voice<br>genre<br>tourist<br>army<br>panel<br>pudding |  
@@ -147,6 +159,18 @@ army |
 | bip_39_word_space_7 | slogan metal decade dolphin robust voice genre |  
 | bip_39_word_space_8 | slogan metal decade dolphin robust voice genre tourist |  
 | bip_39_word_space_9 | slogan metal decade dolphin robust voice genre tourist army |  
+| bip_39_word_underscore_1 | slogan |  
+| bip_39_word_underscore_10 | slogan_metal_decade_dolphin_robust_voice_genre_tourist_army_panel |  
+| bip_39_word_underscore_11 | slogan_metal_decade_dolphin_robust_voice_genre_tourist_army_panel_pudding |  
+| bip_39_word_underscore_12 | slogan_metal_decade_dolphin_robust_voice_genre_tourist_army_panel_pudding_air |  
+| bip_39_word_underscore_2 | slogan_metal |  
+| bip_39_word_underscore_3 | slogan_metal_decade |  
+| bip_39_word_underscore_4 | slogan_metal_decade_dolphin |  
+| bip_39_word_underscore_5 | slogan_metal_decade_dolphin_robust |  
+| bip_39_word_underscore_6 | slogan_metal_decade_dolphin_robust_voice |  
+| bip_39_word_underscore_7 | slogan_metal_decade_dolphin_robust_voice_genre |  
+| bip_39_word_underscore_8 | slogan_metal_decade_dolphin_robust_voice_genre_tourist |  
+| bip_39_word_underscore_9 | slogan_metal_decade_dolphin_robust_voice_genre_tourist_army |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

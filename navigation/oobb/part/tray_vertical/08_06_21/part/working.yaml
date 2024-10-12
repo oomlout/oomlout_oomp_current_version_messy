@@ -1,3 +1,15 @@
+bip_39_word_dash_1: text
+bip_39_word_dash_10: text-hazard-dry-brass-soccer-boring-outer-wife-debate-scare
+bip_39_word_dash_11: text-hazard-dry-brass-soccer-boring-outer-wife-debate-scare-spoon
+bip_39_word_dash_12: text-hazard-dry-brass-soccer-boring-outer-wife-debate-scare-spoon-alley
+bip_39_word_dash_2: text-hazard
+bip_39_word_dash_3: text-hazard-dry
+bip_39_word_dash_4: text-hazard-dry-brass
+bip_39_word_dash_5: text-hazard-dry-brass-soccer
+bip_39_word_dash_6: text-hazard-dry-brass-soccer-boring
+bip_39_word_dash_7: text-hazard-dry-brass-soccer-boring-outer
+bip_39_word_dash_8: text-hazard-dry-brass-soccer-boring-outer-wife
+bip_39_word_dash_9: text-hazard-dry-brass-soccer-boring-outer-wife-debate
 bip_39_word_new_br_1: text
 bip_39_word_new_br_10: text<br>hazard<br>dry<br>brass<br>soccer<br>boring<br>outer<br>wife<br>debate<br>scare
 bip_39_word_new_br_11: text<br>hazard<br>dry<br>brass<br>soccer<br>boring<br>outer<br>wife<br>debate<br>scare<br>spoon
@@ -193,6 +205,18 @@ bip_39_word_space_6: text hazard dry brass soccer boring
 bip_39_word_space_7: text hazard dry brass soccer boring outer
 bip_39_word_space_8: text hazard dry brass soccer boring outer wife
 bip_39_word_space_9: text hazard dry brass soccer boring outer wife debate
+bip_39_word_underscore_1: text
+bip_39_word_underscore_10: text_hazard_dry_brass_soccer_boring_outer_wife_debate_scare
+bip_39_word_underscore_11: text_hazard_dry_brass_soccer_boring_outer_wife_debate_scare_spoon
+bip_39_word_underscore_12: text_hazard_dry_brass_soccer_boring_outer_wife_debate_scare_spoon_alley
+bip_39_word_underscore_2: text_hazard
+bip_39_word_underscore_3: text_hazard_dry
+bip_39_word_underscore_4: text_hazard_dry_brass
+bip_39_word_underscore_5: text_hazard_dry_brass_soccer
+bip_39_word_underscore_6: text_hazard_dry_brass_soccer_boring
+bip_39_word_underscore_7: text_hazard_dry_brass_soccer_boring_outer
+bip_39_word_underscore_8: text_hazard_dry_brass_soccer_boring_outer_wife
+bip_39_word_underscore_9: text_hazard_dry_brass_soccer_boring_outer_wife_debate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

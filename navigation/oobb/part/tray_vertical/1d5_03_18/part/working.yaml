@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sponsor
+bip_39_word_dash_10: sponsor-breeze-able-reunion-dirt-merit-school-mimic-demise-toss
+bip_39_word_dash_11: sponsor-breeze-able-reunion-dirt-merit-school-mimic-demise-toss-pledge
+bip_39_word_dash_12: sponsor-breeze-able-reunion-dirt-merit-school-mimic-demise-toss-pledge-always
+bip_39_word_dash_2: sponsor-breeze
+bip_39_word_dash_3: sponsor-breeze-able
+bip_39_word_dash_4: sponsor-breeze-able-reunion
+bip_39_word_dash_5: sponsor-breeze-able-reunion-dirt
+bip_39_word_dash_6: sponsor-breeze-able-reunion-dirt-merit
+bip_39_word_dash_7: sponsor-breeze-able-reunion-dirt-merit-school
+bip_39_word_dash_8: sponsor-breeze-able-reunion-dirt-merit-school-mimic
+bip_39_word_dash_9: sponsor-breeze-able-reunion-dirt-merit-school-mimic-demise
 bip_39_word_new_br_1: sponsor
 bip_39_word_new_br_10: sponsor<br>breeze<br>able<br>reunion<br>dirt<br>merit<br>school<br>mimic<br>demise<br>toss
 bip_39_word_new_br_11: sponsor<br>breeze<br>able<br>reunion<br>dirt<br>merit<br>school<br>mimic<br>demise<br>toss<br>pledge
@@ -193,6 +205,18 @@ bip_39_word_space_6: sponsor breeze able reunion dirt merit
 bip_39_word_space_7: sponsor breeze able reunion dirt merit school
 bip_39_word_space_8: sponsor breeze able reunion dirt merit school mimic
 bip_39_word_space_9: sponsor breeze able reunion dirt merit school mimic demise
+bip_39_word_underscore_1: sponsor
+bip_39_word_underscore_10: sponsor_breeze_able_reunion_dirt_merit_school_mimic_demise_toss
+bip_39_word_underscore_11: sponsor_breeze_able_reunion_dirt_merit_school_mimic_demise_toss_pledge
+bip_39_word_underscore_12: sponsor_breeze_able_reunion_dirt_merit_school_mimic_demise_toss_pledge_always
+bip_39_word_underscore_2: sponsor_breeze
+bip_39_word_underscore_3: sponsor_breeze_able
+bip_39_word_underscore_4: sponsor_breeze_able_reunion
+bip_39_word_underscore_5: sponsor_breeze_able_reunion_dirt
+bip_39_word_underscore_6: sponsor_breeze_able_reunion_dirt_merit
+bip_39_word_underscore_7: sponsor_breeze_able_reunion_dirt_merit_school
+bip_39_word_underscore_8: sponsor_breeze_able_reunion_dirt_merit_school_mimic
+bip_39_word_underscore_9: sponsor_breeze_able_reunion_dirt_merit_school_mimic_demise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

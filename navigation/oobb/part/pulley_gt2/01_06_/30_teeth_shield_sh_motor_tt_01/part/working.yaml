@@ -1,3 +1,15 @@
+bip_39_word_dash_1: have
+bip_39_word_dash_10: have-battle-bone-fly-sketch-crack-mirror-border-truck-garment
+bip_39_word_dash_11: have-battle-bone-fly-sketch-crack-mirror-border-truck-garment-gold
+bip_39_word_dash_12: have-battle-bone-fly-sketch-crack-mirror-border-truck-garment-gold-alien
+bip_39_word_dash_2: have-battle
+bip_39_word_dash_3: have-battle-bone
+bip_39_word_dash_4: have-battle-bone-fly
+bip_39_word_dash_5: have-battle-bone-fly-sketch
+bip_39_word_dash_6: have-battle-bone-fly-sketch-crack
+bip_39_word_dash_7: have-battle-bone-fly-sketch-crack-mirror
+bip_39_word_dash_8: have-battle-bone-fly-sketch-crack-mirror-border
+bip_39_word_dash_9: have-battle-bone-fly-sketch-crack-mirror-border-truck
 bip_39_word_new_br_1: have
 bip_39_word_new_br_10: have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border<br>truck<br>garment
 bip_39_word_new_br_11: have<br>battle<br>bone<br>fly<br>sketch<br>crack<br>mirror<br>border<br>truck<br>garment<br>gold
@@ -193,6 +205,18 @@ bip_39_word_space_6: have battle bone fly sketch crack
 bip_39_word_space_7: have battle bone fly sketch crack mirror
 bip_39_word_space_8: have battle bone fly sketch crack mirror border
 bip_39_word_space_9: have battle bone fly sketch crack mirror border truck
+bip_39_word_underscore_1: have
+bip_39_word_underscore_10: have_battle_bone_fly_sketch_crack_mirror_border_truck_garment
+bip_39_word_underscore_11: have_battle_bone_fly_sketch_crack_mirror_border_truck_garment_gold
+bip_39_word_underscore_12: have_battle_bone_fly_sketch_crack_mirror_border_truck_garment_gold_alien
+bip_39_word_underscore_2: have_battle
+bip_39_word_underscore_3: have_battle_bone
+bip_39_word_underscore_4: have_battle_bone_fly
+bip_39_word_underscore_5: have_battle_bone_fly_sketch
+bip_39_word_underscore_6: have_battle_bone_fly_sketch_crack
+bip_39_word_underscore_7: have_battle_bone_fly_sketch_crack_mirror
+bip_39_word_underscore_8: have_battle_bone_fly_sketch_crack_mirror_border
+bip_39_word_underscore_9: have_battle_bone_fly_sketch_crack_mirror_border_truck
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

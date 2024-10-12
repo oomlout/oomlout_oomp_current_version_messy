@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | amateur |  
+| bip_39_word_dash_10 | amateur-people-sausage-clump-cousin-flush-cram-half-index-output |  
+| bip_39_word_dash_11 | amateur-people-sausage-clump-cousin-flush-cram-half-index-output-exit |  
+| bip_39_word_dash_12 | amateur-people-sausage-clump-cousin-flush-cram-half-index-output-exit-artist |  
+| bip_39_word_dash_2 | amateur-people |  
+| bip_39_word_dash_3 | amateur-people-sausage |  
+| bip_39_word_dash_4 | amateur-people-sausage-clump |  
+| bip_39_word_dash_5 | amateur-people-sausage-clump-cousin |  
+| bip_39_word_dash_6 | amateur-people-sausage-clump-cousin-flush |  
+| bip_39_word_dash_7 | amateur-people-sausage-clump-cousin-flush-cram |  
+| bip_39_word_dash_8 | amateur-people-sausage-clump-cousin-flush-cram-half |  
+| bip_39_word_dash_9 | amateur-people-sausage-clump-cousin-flush-cram-half-index |  
 | bip_39_word_new_br_1 | amateur |  
 | bip_39_word_new_br_10 | amateur<br>people<br>sausage<br>clump<br>cousin<br>flush<br>cram<br>half<br>index<br>output |  
 | bip_39_word_new_br_11 | amateur<br>people<br>sausage<br>clump<br>cousin<br>flush<br>cram<br>half<br>index<br>output<br>exit |  
@@ -147,6 +159,18 @@ index |
 | bip_39_word_space_7 | amateur people sausage clump cousin flush cram |  
 | bip_39_word_space_8 | amateur people sausage clump cousin flush cram half |  
 | bip_39_word_space_9 | amateur people sausage clump cousin flush cram half index |  
+| bip_39_word_underscore_1 | amateur |  
+| bip_39_word_underscore_10 | amateur_people_sausage_clump_cousin_flush_cram_half_index_output |  
+| bip_39_word_underscore_11 | amateur_people_sausage_clump_cousin_flush_cram_half_index_output_exit |  
+| bip_39_word_underscore_12 | amateur_people_sausage_clump_cousin_flush_cram_half_index_output_exit_artist |  
+| bip_39_word_underscore_2 | amateur_people |  
+| bip_39_word_underscore_3 | amateur_people_sausage |  
+| bip_39_word_underscore_4 | amateur_people_sausage_clump |  
+| bip_39_word_underscore_5 | amateur_people_sausage_clump_cousin |  
+| bip_39_word_underscore_6 | amateur_people_sausage_clump_cousin_flush |  
+| bip_39_word_underscore_7 | amateur_people_sausage_clump_cousin_flush_cram |  
+| bip_39_word_underscore_8 | amateur_people_sausage_clump_cousin_flush_cram_half |  
+| bip_39_word_underscore_9 | amateur_people_sausage_clump_cousin_flush_cram_half_index |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

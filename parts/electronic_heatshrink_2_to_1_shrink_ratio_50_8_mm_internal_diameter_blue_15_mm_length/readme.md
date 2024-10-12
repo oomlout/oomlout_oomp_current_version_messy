@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tomato |  
+| bip_39_word_dash_10 | tomato-carpet-slogan-skin-peasant-click-scout-leave-deal-pig |  
+| bip_39_word_dash_11 | tomato-carpet-slogan-skin-peasant-click-scout-leave-deal-pig-struggle |  
+| bip_39_word_dash_12 | tomato-carpet-slogan-skin-peasant-click-scout-leave-deal-pig-struggle-announce |  
+| bip_39_word_dash_2 | tomato-carpet |  
+| bip_39_word_dash_3 | tomato-carpet-slogan |  
+| bip_39_word_dash_4 | tomato-carpet-slogan-skin |  
+| bip_39_word_dash_5 | tomato-carpet-slogan-skin-peasant |  
+| bip_39_word_dash_6 | tomato-carpet-slogan-skin-peasant-click |  
+| bip_39_word_dash_7 | tomato-carpet-slogan-skin-peasant-click-scout |  
+| bip_39_word_dash_8 | tomato-carpet-slogan-skin-peasant-click-scout-leave |  
+| bip_39_word_dash_9 | tomato-carpet-slogan-skin-peasant-click-scout-leave-deal |  
 | bip_39_word_new_br_1 | tomato |  
 | bip_39_word_new_br_10 | tomato<br>carpet<br>slogan<br>skin<br>peasant<br>click<br>scout<br>leave<br>deal<br>pig |  
 | bip_39_word_new_br_11 | tomato<br>carpet<br>slogan<br>skin<br>peasant<br>click<br>scout<br>leave<br>deal<br>pig<br>struggle |  
@@ -147,6 +159,18 @@ deal |
 | bip_39_word_space_7 | tomato carpet slogan skin peasant click scout |  
 | bip_39_word_space_8 | tomato carpet slogan skin peasant click scout leave |  
 | bip_39_word_space_9 | tomato carpet slogan skin peasant click scout leave deal |  
+| bip_39_word_underscore_1 | tomato |  
+| bip_39_word_underscore_10 | tomato_carpet_slogan_skin_peasant_click_scout_leave_deal_pig |  
+| bip_39_word_underscore_11 | tomato_carpet_slogan_skin_peasant_click_scout_leave_deal_pig_struggle |  
+| bip_39_word_underscore_12 | tomato_carpet_slogan_skin_peasant_click_scout_leave_deal_pig_struggle_announce |  
+| bip_39_word_underscore_2 | tomato_carpet |  
+| bip_39_word_underscore_3 | tomato_carpet_slogan |  
+| bip_39_word_underscore_4 | tomato_carpet_slogan_skin |  
+| bip_39_word_underscore_5 | tomato_carpet_slogan_skin_peasant |  
+| bip_39_word_underscore_6 | tomato_carpet_slogan_skin_peasant_click |  
+| bip_39_word_underscore_7 | tomato_carpet_slogan_skin_peasant_click_scout |  
+| bip_39_word_underscore_8 | tomato_carpet_slogan_skin_peasant_click_scout_leave |  
+| bip_39_word_underscore_9 | tomato_carpet_slogan_skin_peasant_click_scout_leave_deal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

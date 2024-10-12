@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | help |  
+| bip_39_word_dash_10 | help-confirm-awesome-turtle-anxiety-identify-disagree-rent-guitar-convince |  
+| bip_39_word_dash_11 | help-confirm-awesome-turtle-anxiety-identify-disagree-rent-guitar-convince-modify |  
+| bip_39_word_dash_12 | help-confirm-awesome-turtle-anxiety-identify-disagree-rent-guitar-convince-modify-antique |  
+| bip_39_word_dash_2 | help-confirm |  
+| bip_39_word_dash_3 | help-confirm-awesome |  
+| bip_39_word_dash_4 | help-confirm-awesome-turtle |  
+| bip_39_word_dash_5 | help-confirm-awesome-turtle-anxiety |  
+| bip_39_word_dash_6 | help-confirm-awesome-turtle-anxiety-identify |  
+| bip_39_word_dash_7 | help-confirm-awesome-turtle-anxiety-identify-disagree |  
+| bip_39_word_dash_8 | help-confirm-awesome-turtle-anxiety-identify-disagree-rent |  
+| bip_39_word_dash_9 | help-confirm-awesome-turtle-anxiety-identify-disagree-rent-guitar |  
 | bip_39_word_new_br_1 | help |  
 | bip_39_word_new_br_10 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince |  
 | bip_39_word_new_br_11 | help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince<br>modify |  
@@ -147,6 +159,18 @@ guitar |
 | bip_39_word_space_7 | help confirm awesome turtle anxiety identify disagree |  
 | bip_39_word_space_8 | help confirm awesome turtle anxiety identify disagree rent |  
 | bip_39_word_space_9 | help confirm awesome turtle anxiety identify disagree rent guitar |  
+| bip_39_word_underscore_1 | help |  
+| bip_39_word_underscore_10 | help_confirm_awesome_turtle_anxiety_identify_disagree_rent_guitar_convince |  
+| bip_39_word_underscore_11 | help_confirm_awesome_turtle_anxiety_identify_disagree_rent_guitar_convince_modify |  
+| bip_39_word_underscore_12 | help_confirm_awesome_turtle_anxiety_identify_disagree_rent_guitar_convince_modify_antique |  
+| bip_39_word_underscore_2 | help_confirm |  
+| bip_39_word_underscore_3 | help_confirm_awesome |  
+| bip_39_word_underscore_4 | help_confirm_awesome_turtle |  
+| bip_39_word_underscore_5 | help_confirm_awesome_turtle_anxiety |  
+| bip_39_word_underscore_6 | help_confirm_awesome_turtle_anxiety_identify |  
+| bip_39_word_underscore_7 | help_confirm_awesome_turtle_anxiety_identify_disagree |  
+| bip_39_word_underscore_8 | help_confirm_awesome_turtle_anxiety_identify_disagree_rent |  
+| bip_39_word_underscore_9 | help_confirm_awesome_turtle_anxiety_identify_disagree_rent_guitar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

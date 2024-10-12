@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quote |  
+| bip_39_word_dash_10 | quote-foster-vibrant-sleep-cute-decorate-enjoy-seven-enough-opera |  
+| bip_39_word_dash_11 | quote-foster-vibrant-sleep-cute-decorate-enjoy-seven-enough-opera-scatter |  
+| bip_39_word_dash_12 | quote-foster-vibrant-sleep-cute-decorate-enjoy-seven-enough-opera-scatter-already |  
+| bip_39_word_dash_2 | quote-foster |  
+| bip_39_word_dash_3 | quote-foster-vibrant |  
+| bip_39_word_dash_4 | quote-foster-vibrant-sleep |  
+| bip_39_word_dash_5 | quote-foster-vibrant-sleep-cute |  
+| bip_39_word_dash_6 | quote-foster-vibrant-sleep-cute-decorate |  
+| bip_39_word_dash_7 | quote-foster-vibrant-sleep-cute-decorate-enjoy |  
+| bip_39_word_dash_8 | quote-foster-vibrant-sleep-cute-decorate-enjoy-seven |  
+| bip_39_word_dash_9 | quote-foster-vibrant-sleep-cute-decorate-enjoy-seven-enough |  
 | bip_39_word_new_br_1 | quote |  
 | bip_39_word_new_br_10 | quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven<br>enough<br>opera |  
 | bip_39_word_new_br_11 | quote<br>foster<br>vibrant<br>sleep<br>cute<br>decorate<br>enjoy<br>seven<br>enough<br>opera<br>scatter |  
@@ -147,6 +159,18 @@ enough |
 | bip_39_word_space_7 | quote foster vibrant sleep cute decorate enjoy |  
 | bip_39_word_space_8 | quote foster vibrant sleep cute decorate enjoy seven |  
 | bip_39_word_space_9 | quote foster vibrant sleep cute decorate enjoy seven enough |  
+| bip_39_word_underscore_1 | quote |  
+| bip_39_word_underscore_10 | quote_foster_vibrant_sleep_cute_decorate_enjoy_seven_enough_opera |  
+| bip_39_word_underscore_11 | quote_foster_vibrant_sleep_cute_decorate_enjoy_seven_enough_opera_scatter |  
+| bip_39_word_underscore_12 | quote_foster_vibrant_sleep_cute_decorate_enjoy_seven_enough_opera_scatter_already |  
+| bip_39_word_underscore_2 | quote_foster |  
+| bip_39_word_underscore_3 | quote_foster_vibrant |  
+| bip_39_word_underscore_4 | quote_foster_vibrant_sleep |  
+| bip_39_word_underscore_5 | quote_foster_vibrant_sleep_cute |  
+| bip_39_word_underscore_6 | quote_foster_vibrant_sleep_cute_decorate |  
+| bip_39_word_underscore_7 | quote_foster_vibrant_sleep_cute_decorate_enjoy |  
+| bip_39_word_underscore_8 | quote_foster_vibrant_sleep_cute_decorate_enjoy_seven |  
+| bip_39_word_underscore_9 | quote_foster_vibrant_sleep_cute_decorate_enjoy_seven_enough |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

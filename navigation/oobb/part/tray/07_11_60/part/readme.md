@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | element |  
+| bip_39_word_dash_10 | element-chaos-harsh-attack-rich-yellow-cabbage-huge-next-cloud |  
+| bip_39_word_dash_11 | element-chaos-harsh-attack-rich-yellow-cabbage-huge-next-cloud-escape |  
+| bip_39_word_dash_12 | element-chaos-harsh-attack-rich-yellow-cabbage-huge-next-cloud-escape-average |  
+| bip_39_word_dash_2 | element-chaos |  
+| bip_39_word_dash_3 | element-chaos-harsh |  
+| bip_39_word_dash_4 | element-chaos-harsh-attack |  
+| bip_39_word_dash_5 | element-chaos-harsh-attack-rich |  
+| bip_39_word_dash_6 | element-chaos-harsh-attack-rich-yellow |  
+| bip_39_word_dash_7 | element-chaos-harsh-attack-rich-yellow-cabbage |  
+| bip_39_word_dash_8 | element-chaos-harsh-attack-rich-yellow-cabbage-huge |  
+| bip_39_word_dash_9 | element-chaos-harsh-attack-rich-yellow-cabbage-huge-next |  
 | bip_39_word_new_br_1 | element |  
 | bip_39_word_new_br_10 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud |  
 | bip_39_word_new_br_11 | element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud<br>escape |  
@@ -147,6 +159,18 @@ next |
 | bip_39_word_space_7 | element chaos harsh attack rich yellow cabbage |  
 | bip_39_word_space_8 | element chaos harsh attack rich yellow cabbage huge |  
 | bip_39_word_space_9 | element chaos harsh attack rich yellow cabbage huge next |  
+| bip_39_word_underscore_1 | element |  
+| bip_39_word_underscore_10 | element_chaos_harsh_attack_rich_yellow_cabbage_huge_next_cloud |  
+| bip_39_word_underscore_11 | element_chaos_harsh_attack_rich_yellow_cabbage_huge_next_cloud_escape |  
+| bip_39_word_underscore_12 | element_chaos_harsh_attack_rich_yellow_cabbage_huge_next_cloud_escape_average |  
+| bip_39_word_underscore_2 | element_chaos |  
+| bip_39_word_underscore_3 | element_chaos_harsh |  
+| bip_39_word_underscore_4 | element_chaos_harsh_attack |  
+| bip_39_word_underscore_5 | element_chaos_harsh_attack_rich |  
+| bip_39_word_underscore_6 | element_chaos_harsh_attack_rich_yellow |  
+| bip_39_word_underscore_7 | element_chaos_harsh_attack_rich_yellow_cabbage |  
+| bip_39_word_underscore_8 | element_chaos_harsh_attack_rich_yellow_cabbage_huge |  
+| bip_39_word_underscore_9 | element_chaos_harsh_attack_rich_yellow_cabbage_huge_next |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

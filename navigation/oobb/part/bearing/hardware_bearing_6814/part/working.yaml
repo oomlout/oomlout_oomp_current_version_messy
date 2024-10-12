@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rent
+bip_39_word_dash_10: rent-aisle-now-edit-tumble-demise-inch-slim-rather-whip
+bip_39_word_dash_11: rent-aisle-now-edit-tumble-demise-inch-slim-rather-whip-awake
+bip_39_word_dash_12: rent-aisle-now-edit-tumble-demise-inch-slim-rather-whip-awake-auto
+bip_39_word_dash_2: rent-aisle
+bip_39_word_dash_3: rent-aisle-now
+bip_39_word_dash_4: rent-aisle-now-edit
+bip_39_word_dash_5: rent-aisle-now-edit-tumble
+bip_39_word_dash_6: rent-aisle-now-edit-tumble-demise
+bip_39_word_dash_7: rent-aisle-now-edit-tumble-demise-inch
+bip_39_word_dash_8: rent-aisle-now-edit-tumble-demise-inch-slim
+bip_39_word_dash_9: rent-aisle-now-edit-tumble-demise-inch-slim-rather
 bip_39_word_new_br_1: rent
 bip_39_word_new_br_10: rent<br>aisle<br>now<br>edit<br>tumble<br>demise<br>inch<br>slim<br>rather<br>whip
 bip_39_word_new_br_11: rent<br>aisle<br>now<br>edit<br>tumble<br>demise<br>inch<br>slim<br>rather<br>whip<br>awake
@@ -192,6 +204,18 @@ bip_39_word_space_6: rent aisle now edit tumble demise
 bip_39_word_space_7: rent aisle now edit tumble demise inch
 bip_39_word_space_8: rent aisle now edit tumble demise inch slim
 bip_39_word_space_9: rent aisle now edit tumble demise inch slim rather
+bip_39_word_underscore_1: rent
+bip_39_word_underscore_10: rent_aisle_now_edit_tumble_demise_inch_slim_rather_whip
+bip_39_word_underscore_11: rent_aisle_now_edit_tumble_demise_inch_slim_rather_whip_awake
+bip_39_word_underscore_12: rent_aisle_now_edit_tumble_demise_inch_slim_rather_whip_awake_auto
+bip_39_word_underscore_2: rent_aisle
+bip_39_word_underscore_3: rent_aisle_now
+bip_39_word_underscore_4: rent_aisle_now_edit
+bip_39_word_underscore_5: rent_aisle_now_edit_tumble
+bip_39_word_underscore_6: rent_aisle_now_edit_tumble_demise
+bip_39_word_underscore_7: rent_aisle_now_edit_tumble_demise_inch
+bip_39_word_underscore_8: rent_aisle_now_edit_tumble_demise_inch_slim
+bip_39_word_underscore_9: rent_aisle_now_edit_tumble_demise_inch_slim_rather
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

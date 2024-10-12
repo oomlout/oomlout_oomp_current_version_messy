@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fatal |  
+| bip_39_word_dash_10 | fatal-silver-slot-gasp-simple-orbit-quit-neck-large-seven |  
+| bip_39_word_dash_11 | fatal-silver-slot-gasp-simple-orbit-quit-neck-large-seven-help |  
+| bip_39_word_dash_12 | fatal-silver-slot-gasp-simple-orbit-quit-neck-large-seven-help-another |  
+| bip_39_word_dash_2 | fatal-silver |  
+| bip_39_word_dash_3 | fatal-silver-slot |  
+| bip_39_word_dash_4 | fatal-silver-slot-gasp |  
+| bip_39_word_dash_5 | fatal-silver-slot-gasp-simple |  
+| bip_39_word_dash_6 | fatal-silver-slot-gasp-simple-orbit |  
+| bip_39_word_dash_7 | fatal-silver-slot-gasp-simple-orbit-quit |  
+| bip_39_word_dash_8 | fatal-silver-slot-gasp-simple-orbit-quit-neck |  
+| bip_39_word_dash_9 | fatal-silver-slot-gasp-simple-orbit-quit-neck-large |  
 | bip_39_word_new_br_1 | fatal |  
 | bip_39_word_new_br_10 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven |  
 | bip_39_word_new_br_11 | fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven<br>help |  
@@ -147,6 +159,18 @@ large |
 | bip_39_word_space_7 | fatal silver slot gasp simple orbit quit |  
 | bip_39_word_space_8 | fatal silver slot gasp simple orbit quit neck |  
 | bip_39_word_space_9 | fatal silver slot gasp simple orbit quit neck large |  
+| bip_39_word_underscore_1 | fatal |  
+| bip_39_word_underscore_10 | fatal_silver_slot_gasp_simple_orbit_quit_neck_large_seven |  
+| bip_39_word_underscore_11 | fatal_silver_slot_gasp_simple_orbit_quit_neck_large_seven_help |  
+| bip_39_word_underscore_12 | fatal_silver_slot_gasp_simple_orbit_quit_neck_large_seven_help_another |  
+| bip_39_word_underscore_2 | fatal_silver |  
+| bip_39_word_underscore_3 | fatal_silver_slot |  
+| bip_39_word_underscore_4 | fatal_silver_slot_gasp |  
+| bip_39_word_underscore_5 | fatal_silver_slot_gasp_simple |  
+| bip_39_word_underscore_6 | fatal_silver_slot_gasp_simple_orbit |  
+| bip_39_word_underscore_7 | fatal_silver_slot_gasp_simple_orbit_quit |  
+| bip_39_word_underscore_8 | fatal_silver_slot_gasp_simple_orbit_quit_neck |  
+| bip_39_word_underscore_9 | fatal_silver_slot_gasp_simple_orbit_quit_neck_large |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

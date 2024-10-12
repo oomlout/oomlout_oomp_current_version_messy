@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rely
+bip_39_word_dash_10: rely-grass-polar-powder-shadow-love-bus-life-input-novel
+bip_39_word_dash_11: rely-grass-polar-powder-shadow-love-bus-life-input-novel-wave
+bip_39_word_dash_12: rely-grass-polar-powder-shadow-love-bus-life-input-novel-wave-antique
+bip_39_word_dash_2: rely-grass
+bip_39_word_dash_3: rely-grass-polar
+bip_39_word_dash_4: rely-grass-polar-powder
+bip_39_word_dash_5: rely-grass-polar-powder-shadow
+bip_39_word_dash_6: rely-grass-polar-powder-shadow-love
+bip_39_word_dash_7: rely-grass-polar-powder-shadow-love-bus
+bip_39_word_dash_8: rely-grass-polar-powder-shadow-love-bus-life
+bip_39_word_dash_9: rely-grass-polar-powder-shadow-love-bus-life-input
 bip_39_word_new_br_1: rely
 bip_39_word_new_br_10: rely<br>grass<br>polar<br>powder<br>shadow<br>love<br>bus<br>life<br>input<br>novel
 bip_39_word_new_br_11: rely<br>grass<br>polar<br>powder<br>shadow<br>love<br>bus<br>life<br>input<br>novel<br>wave
@@ -192,6 +204,18 @@ bip_39_word_space_6: rely grass polar powder shadow love
 bip_39_word_space_7: rely grass polar powder shadow love bus
 bip_39_word_space_8: rely grass polar powder shadow love bus life
 bip_39_word_space_9: rely grass polar powder shadow love bus life input
+bip_39_word_underscore_1: rely
+bip_39_word_underscore_10: rely_grass_polar_powder_shadow_love_bus_life_input_novel
+bip_39_word_underscore_11: rely_grass_polar_powder_shadow_love_bus_life_input_novel_wave
+bip_39_word_underscore_12: rely_grass_polar_powder_shadow_love_bus_life_input_novel_wave_antique
+bip_39_word_underscore_2: rely_grass
+bip_39_word_underscore_3: rely_grass_polar
+bip_39_word_underscore_4: rely_grass_polar_powder
+bip_39_word_underscore_5: rely_grass_polar_powder_shadow
+bip_39_word_underscore_6: rely_grass_polar_powder_shadow_love
+bip_39_word_underscore_7: rely_grass_polar_powder_shadow_love_bus
+bip_39_word_underscore_8: rely_grass_polar_powder_shadow_love_bus_life
+bip_39_word_underscore_9: rely_grass_polar_powder_shadow_love_bus_life_input
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

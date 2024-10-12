@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | join |  
+| bip_39_word_dash_10 | join-hood-now-camp-science-mistake-embody-main-float-bulk |  
+| bip_39_word_dash_11 | join-hood-now-camp-science-mistake-embody-main-float-bulk-custom |  
+| bip_39_word_dash_12 | join-hood-now-camp-science-mistake-embody-main-float-bulk-custom-acquire |  
+| bip_39_word_dash_2 | join-hood |  
+| bip_39_word_dash_3 | join-hood-now |  
+| bip_39_word_dash_4 | join-hood-now-camp |  
+| bip_39_word_dash_5 | join-hood-now-camp-science |  
+| bip_39_word_dash_6 | join-hood-now-camp-science-mistake |  
+| bip_39_word_dash_7 | join-hood-now-camp-science-mistake-embody |  
+| bip_39_word_dash_8 | join-hood-now-camp-science-mistake-embody-main |  
+| bip_39_word_dash_9 | join-hood-now-camp-science-mistake-embody-main-float |  
 | bip_39_word_new_br_1 | join |  
 | bip_39_word_new_br_10 | join<br>hood<br>now<br>camp<br>science<br>mistake<br>embody<br>main<br>float<br>bulk |  
 | bip_39_word_new_br_11 | join<br>hood<br>now<br>camp<br>science<br>mistake<br>embody<br>main<br>float<br>bulk<br>custom |  
@@ -147,6 +159,18 @@ float |
 | bip_39_word_space_7 | join hood now camp science mistake embody |  
 | bip_39_word_space_8 | join hood now camp science mistake embody main |  
 | bip_39_word_space_9 | join hood now camp science mistake embody main float |  
+| bip_39_word_underscore_1 | join |  
+| bip_39_word_underscore_10 | join_hood_now_camp_science_mistake_embody_main_float_bulk |  
+| bip_39_word_underscore_11 | join_hood_now_camp_science_mistake_embody_main_float_bulk_custom |  
+| bip_39_word_underscore_12 | join_hood_now_camp_science_mistake_embody_main_float_bulk_custom_acquire |  
+| bip_39_word_underscore_2 | join_hood |  
+| bip_39_word_underscore_3 | join_hood_now |  
+| bip_39_word_underscore_4 | join_hood_now_camp |  
+| bip_39_word_underscore_5 | join_hood_now_camp_science |  
+| bip_39_word_underscore_6 | join_hood_now_camp_science_mistake |  
+| bip_39_word_underscore_7 | join_hood_now_camp_science_mistake_embody |  
+| bip_39_word_underscore_8 | join_hood_now_camp_science_mistake_embody_main |  
+| bip_39_word_underscore_9 | join_hood_now_camp_science_mistake_embody_main_float |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

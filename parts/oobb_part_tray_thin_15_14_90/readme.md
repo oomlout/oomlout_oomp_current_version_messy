@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clump |  
+| bip_39_word_dash_10 | clump-giggle-scissors-donate-sunset-average-glove-kitten-scare-pipe |  
+| bip_39_word_dash_11 | clump-giggle-scissors-donate-sunset-average-glove-kitten-scare-pipe-nice |  
+| bip_39_word_dash_12 | clump-giggle-scissors-donate-sunset-average-glove-kitten-scare-pipe-nice-acid |  
+| bip_39_word_dash_2 | clump-giggle |  
+| bip_39_word_dash_3 | clump-giggle-scissors |  
+| bip_39_word_dash_4 | clump-giggle-scissors-donate |  
+| bip_39_word_dash_5 | clump-giggle-scissors-donate-sunset |  
+| bip_39_word_dash_6 | clump-giggle-scissors-donate-sunset-average |  
+| bip_39_word_dash_7 | clump-giggle-scissors-donate-sunset-average-glove |  
+| bip_39_word_dash_8 | clump-giggle-scissors-donate-sunset-average-glove-kitten |  
+| bip_39_word_dash_9 | clump-giggle-scissors-donate-sunset-average-glove-kitten-scare |  
 | bip_39_word_new_br_1 | clump |  
 | bip_39_word_new_br_10 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten<br>scare<br>pipe |  
 | bip_39_word_new_br_11 | clump<br>giggle<br>scissors<br>donate<br>sunset<br>average<br>glove<br>kitten<br>scare<br>pipe<br>nice |  
@@ -147,6 +159,18 @@ scare |
 | bip_39_word_space_7 | clump giggle scissors donate sunset average glove |  
 | bip_39_word_space_8 | clump giggle scissors donate sunset average glove kitten |  
 | bip_39_word_space_9 | clump giggle scissors donate sunset average glove kitten scare |  
+| bip_39_word_underscore_1 | clump |  
+| bip_39_word_underscore_10 | clump_giggle_scissors_donate_sunset_average_glove_kitten_scare_pipe |  
+| bip_39_word_underscore_11 | clump_giggle_scissors_donate_sunset_average_glove_kitten_scare_pipe_nice |  
+| bip_39_word_underscore_12 | clump_giggle_scissors_donate_sunset_average_glove_kitten_scare_pipe_nice_acid |  
+| bip_39_word_underscore_2 | clump_giggle |  
+| bip_39_word_underscore_3 | clump_giggle_scissors |  
+| bip_39_word_underscore_4 | clump_giggle_scissors_donate |  
+| bip_39_word_underscore_5 | clump_giggle_scissors_donate_sunset |  
+| bip_39_word_underscore_6 | clump_giggle_scissors_donate_sunset_average |  
+| bip_39_word_underscore_7 | clump_giggle_scissors_donate_sunset_average_glove |  
+| bip_39_word_underscore_8 | clump_giggle_scissors_donate_sunset_average_glove_kitten |  
+| bip_39_word_underscore_9 | clump_giggle_scissors_donate_sunset_average_glove_kitten_scare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

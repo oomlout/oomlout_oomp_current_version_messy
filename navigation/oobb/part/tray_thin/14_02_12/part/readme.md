@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flavor |  
+| bip_39_word_dash_10 | flavor-begin-alone-clock-key-hunt-observe-fit-velvet-mule |  
+| bip_39_word_dash_11 | flavor-begin-alone-clock-key-hunt-observe-fit-velvet-mule-ice |  
+| bip_39_word_dash_12 | flavor-begin-alone-clock-key-hunt-observe-fit-velvet-mule-ice-also |  
+| bip_39_word_dash_2 | flavor-begin |  
+| bip_39_word_dash_3 | flavor-begin-alone |  
+| bip_39_word_dash_4 | flavor-begin-alone-clock |  
+| bip_39_word_dash_5 | flavor-begin-alone-clock-key |  
+| bip_39_word_dash_6 | flavor-begin-alone-clock-key-hunt |  
+| bip_39_word_dash_7 | flavor-begin-alone-clock-key-hunt-observe |  
+| bip_39_word_dash_8 | flavor-begin-alone-clock-key-hunt-observe-fit |  
+| bip_39_word_dash_9 | flavor-begin-alone-clock-key-hunt-observe-fit-velvet |  
 | bip_39_word_new_br_1 | flavor |  
 | bip_39_word_new_br_10 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule |  
 | bip_39_word_new_br_11 | flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule<br>ice |  
@@ -147,6 +159,18 @@ velvet |
 | bip_39_word_space_7 | flavor begin alone clock key hunt observe |  
 | bip_39_word_space_8 | flavor begin alone clock key hunt observe fit |  
 | bip_39_word_space_9 | flavor begin alone clock key hunt observe fit velvet |  
+| bip_39_word_underscore_1 | flavor |  
+| bip_39_word_underscore_10 | flavor_begin_alone_clock_key_hunt_observe_fit_velvet_mule |  
+| bip_39_word_underscore_11 | flavor_begin_alone_clock_key_hunt_observe_fit_velvet_mule_ice |  
+| bip_39_word_underscore_12 | flavor_begin_alone_clock_key_hunt_observe_fit_velvet_mule_ice_also |  
+| bip_39_word_underscore_2 | flavor_begin |  
+| bip_39_word_underscore_3 | flavor_begin_alone |  
+| bip_39_word_underscore_4 | flavor_begin_alone_clock |  
+| bip_39_word_underscore_5 | flavor_begin_alone_clock_key |  
+| bip_39_word_underscore_6 | flavor_begin_alone_clock_key_hunt |  
+| bip_39_word_underscore_7 | flavor_begin_alone_clock_key_hunt_observe |  
+| bip_39_word_underscore_8 | flavor_begin_alone_clock_key_hunt_observe_fit |  
+| bip_39_word_underscore_9 | flavor_begin_alone_clock_key_hunt_observe_fit_velvet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

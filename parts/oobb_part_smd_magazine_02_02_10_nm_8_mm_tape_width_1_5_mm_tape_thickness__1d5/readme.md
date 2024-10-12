@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | purpose |  
+| bip_39_word_dash_10 | purpose-hungry-whip-stem-dragon-blame-bonus-olive-educate-business |  
+| bip_39_word_dash_11 | purpose-hungry-whip-stem-dragon-blame-bonus-olive-educate-business-disorder |  
+| bip_39_word_dash_12 | purpose-hungry-whip-stem-dragon-blame-bonus-olive-educate-business-disorder-airport |  
+| bip_39_word_dash_2 | purpose-hungry |  
+| bip_39_word_dash_3 | purpose-hungry-whip |  
+| bip_39_word_dash_4 | purpose-hungry-whip-stem |  
+| bip_39_word_dash_5 | purpose-hungry-whip-stem-dragon |  
+| bip_39_word_dash_6 | purpose-hungry-whip-stem-dragon-blame |  
+| bip_39_word_dash_7 | purpose-hungry-whip-stem-dragon-blame-bonus |  
+| bip_39_word_dash_8 | purpose-hungry-whip-stem-dragon-blame-bonus-olive |  
+| bip_39_word_dash_9 | purpose-hungry-whip-stem-dragon-blame-bonus-olive-educate |  
 | bip_39_word_new_br_1 | purpose |  
 | bip_39_word_new_br_10 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business |  
 | bip_39_word_new_br_11 | purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business<br>disorder |  
@@ -147,6 +159,18 @@ educate |
 | bip_39_word_space_7 | purpose hungry whip stem dragon blame bonus |  
 | bip_39_word_space_8 | purpose hungry whip stem dragon blame bonus olive |  
 | bip_39_word_space_9 | purpose hungry whip stem dragon blame bonus olive educate |  
+| bip_39_word_underscore_1 | purpose |  
+| bip_39_word_underscore_10 | purpose_hungry_whip_stem_dragon_blame_bonus_olive_educate_business |  
+| bip_39_word_underscore_11 | purpose_hungry_whip_stem_dragon_blame_bonus_olive_educate_business_disorder |  
+| bip_39_word_underscore_12 | purpose_hungry_whip_stem_dragon_blame_bonus_olive_educate_business_disorder_airport |  
+| bip_39_word_underscore_2 | purpose_hungry |  
+| bip_39_word_underscore_3 | purpose_hungry_whip |  
+| bip_39_word_underscore_4 | purpose_hungry_whip_stem |  
+| bip_39_word_underscore_5 | purpose_hungry_whip_stem_dragon |  
+| bip_39_word_underscore_6 | purpose_hungry_whip_stem_dragon_blame |  
+| bip_39_word_underscore_7 | purpose_hungry_whip_stem_dragon_blame_bonus |  
+| bip_39_word_underscore_8 | purpose_hungry_whip_stem_dragon_blame_bonus_olive |  
+| bip_39_word_underscore_9 | purpose_hungry_whip_stem_dragon_blame_bonus_olive_educate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

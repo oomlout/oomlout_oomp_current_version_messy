@@ -1,3 +1,15 @@
+bip_39_word_dash_1: file
+bip_39_word_dash_10: file-pitch-minute-false-fish-census-rug-weekend-tragic-erase
+bip_39_word_dash_11: file-pitch-minute-false-fish-census-rug-weekend-tragic-erase-grunt
+bip_39_word_dash_12: file-pitch-minute-false-fish-census-rug-weekend-tragic-erase-grunt-artefact
+bip_39_word_dash_2: file-pitch
+bip_39_word_dash_3: file-pitch-minute
+bip_39_word_dash_4: file-pitch-minute-false
+bip_39_word_dash_5: file-pitch-minute-false-fish
+bip_39_word_dash_6: file-pitch-minute-false-fish-census
+bip_39_word_dash_7: file-pitch-minute-false-fish-census-rug
+bip_39_word_dash_8: file-pitch-minute-false-fish-census-rug-weekend
+bip_39_word_dash_9: file-pitch-minute-false-fish-census-rug-weekend-tragic
 bip_39_word_new_br_1: file
 bip_39_word_new_br_10: file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase
 bip_39_word_new_br_11: file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase<br>grunt
@@ -193,6 +205,18 @@ bip_39_word_space_6: file pitch minute false fish census
 bip_39_word_space_7: file pitch minute false fish census rug
 bip_39_word_space_8: file pitch minute false fish census rug weekend
 bip_39_word_space_9: file pitch minute false fish census rug weekend tragic
+bip_39_word_underscore_1: file
+bip_39_word_underscore_10: file_pitch_minute_false_fish_census_rug_weekend_tragic_erase
+bip_39_word_underscore_11: file_pitch_minute_false_fish_census_rug_weekend_tragic_erase_grunt
+bip_39_word_underscore_12: file_pitch_minute_false_fish_census_rug_weekend_tragic_erase_grunt_artefact
+bip_39_word_underscore_2: file_pitch
+bip_39_word_underscore_3: file_pitch_minute
+bip_39_word_underscore_4: file_pitch_minute_false
+bip_39_word_underscore_5: file_pitch_minute_false_fish
+bip_39_word_underscore_6: file_pitch_minute_false_fish_census
+bip_39_word_underscore_7: file_pitch_minute_false_fish_census_rug
+bip_39_word_underscore_8: file_pitch_minute_false_fish_census_rug_weekend
+bip_39_word_underscore_9: file_pitch_minute_false_fish_census_rug_weekend_tragic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

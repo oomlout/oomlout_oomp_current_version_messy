@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | please |  
+| bip_39_word_dash_10 | please-sense-remove-tray-disagree-twin-hospital-lucky-rely-addict |  
+| bip_39_word_dash_11 | please-sense-remove-tray-disagree-twin-hospital-lucky-rely-addict-wasp |  
+| bip_39_word_dash_12 | please-sense-remove-tray-disagree-twin-hospital-lucky-rely-addict-wasp-across |  
+| bip_39_word_dash_2 | please-sense |  
+| bip_39_word_dash_3 | please-sense-remove |  
+| bip_39_word_dash_4 | please-sense-remove-tray |  
+| bip_39_word_dash_5 | please-sense-remove-tray-disagree |  
+| bip_39_word_dash_6 | please-sense-remove-tray-disagree-twin |  
+| bip_39_word_dash_7 | please-sense-remove-tray-disagree-twin-hospital |  
+| bip_39_word_dash_8 | please-sense-remove-tray-disagree-twin-hospital-lucky |  
+| bip_39_word_dash_9 | please-sense-remove-tray-disagree-twin-hospital-lucky-rely |  
 | bip_39_word_new_br_1 | please |  
 | bip_39_word_new_br_10 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict |  
 | bip_39_word_new_br_11 | please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict<br>wasp |  
@@ -147,6 +159,18 @@ rely |
 | bip_39_word_space_7 | please sense remove tray disagree twin hospital |  
 | bip_39_word_space_8 | please sense remove tray disagree twin hospital lucky |  
 | bip_39_word_space_9 | please sense remove tray disagree twin hospital lucky rely |  
+| bip_39_word_underscore_1 | please |  
+| bip_39_word_underscore_10 | please_sense_remove_tray_disagree_twin_hospital_lucky_rely_addict |  
+| bip_39_word_underscore_11 | please_sense_remove_tray_disagree_twin_hospital_lucky_rely_addict_wasp |  
+| bip_39_word_underscore_12 | please_sense_remove_tray_disagree_twin_hospital_lucky_rely_addict_wasp_across |  
+| bip_39_word_underscore_2 | please_sense |  
+| bip_39_word_underscore_3 | please_sense_remove |  
+| bip_39_word_underscore_4 | please_sense_remove_tray |  
+| bip_39_word_underscore_5 | please_sense_remove_tray_disagree |  
+| bip_39_word_underscore_6 | please_sense_remove_tray_disagree_twin |  
+| bip_39_word_underscore_7 | please_sense_remove_tray_disagree_twin_hospital |  
+| bip_39_word_underscore_8 | please_sense_remove_tray_disagree_twin_hospital_lucky |  
+| bip_39_word_underscore_9 | please_sense_remove_tray_disagree_twin_hospital_lucky_rely |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

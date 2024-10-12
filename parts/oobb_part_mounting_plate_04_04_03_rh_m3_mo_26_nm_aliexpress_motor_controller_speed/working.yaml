@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fun
+bip_39_word_dash_10: fun-arrow-try-shy-trash-act-appear-clerk-vessel-surround
+bip_39_word_dash_11: fun-arrow-try-shy-trash-act-appear-clerk-vessel-surround-nose
+bip_39_word_dash_12: fun-arrow-try-shy-trash-act-appear-clerk-vessel-surround-nose-ask
+bip_39_word_dash_2: fun-arrow
+bip_39_word_dash_3: fun-arrow-try
+bip_39_word_dash_4: fun-arrow-try-shy
+bip_39_word_dash_5: fun-arrow-try-shy-trash
+bip_39_word_dash_6: fun-arrow-try-shy-trash-act
+bip_39_word_dash_7: fun-arrow-try-shy-trash-act-appear
+bip_39_word_dash_8: fun-arrow-try-shy-trash-act-appear-clerk
+bip_39_word_dash_9: fun-arrow-try-shy-trash-act-appear-clerk-vessel
 bip_39_word_new_br_1: fun
 bip_39_word_new_br_10: fun<br>arrow<br>try<br>shy<br>trash<br>act<br>appear<br>clerk<br>vessel<br>surround
 bip_39_word_new_br_11: fun<br>arrow<br>try<br>shy<br>trash<br>act<br>appear<br>clerk<br>vessel<br>surround<br>nose
@@ -192,6 +204,18 @@ bip_39_word_space_6: fun arrow try shy trash act
 bip_39_word_space_7: fun arrow try shy trash act appear
 bip_39_word_space_8: fun arrow try shy trash act appear clerk
 bip_39_word_space_9: fun arrow try shy trash act appear clerk vessel
+bip_39_word_underscore_1: fun
+bip_39_word_underscore_10: fun_arrow_try_shy_trash_act_appear_clerk_vessel_surround
+bip_39_word_underscore_11: fun_arrow_try_shy_trash_act_appear_clerk_vessel_surround_nose
+bip_39_word_underscore_12: fun_arrow_try_shy_trash_act_appear_clerk_vessel_surround_nose_ask
+bip_39_word_underscore_2: fun_arrow
+bip_39_word_underscore_3: fun_arrow_try
+bip_39_word_underscore_4: fun_arrow_try_shy
+bip_39_word_underscore_5: fun_arrow_try_shy_trash
+bip_39_word_underscore_6: fun_arrow_try_shy_trash_act
+bip_39_word_underscore_7: fun_arrow_try_shy_trash_act_appear
+bip_39_word_underscore_8: fun_arrow_try_shy_trash_act_appear_clerk
+bip_39_word_underscore_9: fun_arrow_try_shy_trash_act_appear_clerk_vessel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

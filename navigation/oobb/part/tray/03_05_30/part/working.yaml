@@ -1,3 +1,15 @@
+bip_39_word_dash_1: company
+bip_39_word_dash_10: company-budget-acquire-lion-melt-snap-verify-size-blast-hard
+bip_39_word_dash_11: company-budget-acquire-lion-melt-snap-verify-size-blast-hard-various
+bip_39_word_dash_12: company-budget-acquire-lion-melt-snap-verify-size-blast-hard-various-auto
+bip_39_word_dash_2: company-budget
+bip_39_word_dash_3: company-budget-acquire
+bip_39_word_dash_4: company-budget-acquire-lion
+bip_39_word_dash_5: company-budget-acquire-lion-melt
+bip_39_word_dash_6: company-budget-acquire-lion-melt-snap
+bip_39_word_dash_7: company-budget-acquire-lion-melt-snap-verify
+bip_39_word_dash_8: company-budget-acquire-lion-melt-snap-verify-size
+bip_39_word_dash_9: company-budget-acquire-lion-melt-snap-verify-size-blast
 bip_39_word_new_br_1: company
 bip_39_word_new_br_10: company<br>budget<br>acquire<br>lion<br>melt<br>snap<br>verify<br>size<br>blast<br>hard
 bip_39_word_new_br_11: company<br>budget<br>acquire<br>lion<br>melt<br>snap<br>verify<br>size<br>blast<br>hard<br>various
@@ -193,6 +205,18 @@ bip_39_word_space_6: company budget acquire lion melt snap
 bip_39_word_space_7: company budget acquire lion melt snap verify
 bip_39_word_space_8: company budget acquire lion melt snap verify size
 bip_39_word_space_9: company budget acquire lion melt snap verify size blast
+bip_39_word_underscore_1: company
+bip_39_word_underscore_10: company_budget_acquire_lion_melt_snap_verify_size_blast_hard
+bip_39_word_underscore_11: company_budget_acquire_lion_melt_snap_verify_size_blast_hard_various
+bip_39_word_underscore_12: company_budget_acquire_lion_melt_snap_verify_size_blast_hard_various_auto
+bip_39_word_underscore_2: company_budget
+bip_39_word_underscore_3: company_budget_acquire
+bip_39_word_underscore_4: company_budget_acquire_lion
+bip_39_word_underscore_5: company_budget_acquire_lion_melt
+bip_39_word_underscore_6: company_budget_acquire_lion_melt_snap
+bip_39_word_underscore_7: company_budget_acquire_lion_melt_snap_verify
+bip_39_word_underscore_8: company_budget_acquire_lion_melt_snap_verify_size
+bip_39_word_underscore_9: company_budget_acquire_lion_melt_snap_verify_size_blast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

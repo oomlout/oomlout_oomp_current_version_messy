@@ -1,3 +1,15 @@
+bip_39_word_dash_1: must
+bip_39_word_dash_10: must-walnut-lady-will-suggest-sibling-swamp-tent-fun-pistol
+bip_39_word_dash_11: must-walnut-lady-will-suggest-sibling-swamp-tent-fun-pistol-festival
+bip_39_word_dash_12: must-walnut-lady-will-suggest-sibling-swamp-tent-fun-pistol-festival-ankle
+bip_39_word_dash_2: must-walnut
+bip_39_word_dash_3: must-walnut-lady
+bip_39_word_dash_4: must-walnut-lady-will
+bip_39_word_dash_5: must-walnut-lady-will-suggest
+bip_39_word_dash_6: must-walnut-lady-will-suggest-sibling
+bip_39_word_dash_7: must-walnut-lady-will-suggest-sibling-swamp
+bip_39_word_dash_8: must-walnut-lady-will-suggest-sibling-swamp-tent
+bip_39_word_dash_9: must-walnut-lady-will-suggest-sibling-swamp-tent-fun
 bip_39_word_new_br_1: must
 bip_39_word_new_br_10: must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent<br>fun<br>pistol
 bip_39_word_new_br_11: must<br>walnut<br>lady<br>will<br>suggest<br>sibling<br>swamp<br>tent<br>fun<br>pistol<br>festival
@@ -193,6 +205,18 @@ bip_39_word_space_6: must walnut lady will suggest sibling
 bip_39_word_space_7: must walnut lady will suggest sibling swamp
 bip_39_word_space_8: must walnut lady will suggest sibling swamp tent
 bip_39_word_space_9: must walnut lady will suggest sibling swamp tent fun
+bip_39_word_underscore_1: must
+bip_39_word_underscore_10: must_walnut_lady_will_suggest_sibling_swamp_tent_fun_pistol
+bip_39_word_underscore_11: must_walnut_lady_will_suggest_sibling_swamp_tent_fun_pistol_festival
+bip_39_word_underscore_12: must_walnut_lady_will_suggest_sibling_swamp_tent_fun_pistol_festival_ankle
+bip_39_word_underscore_2: must_walnut
+bip_39_word_underscore_3: must_walnut_lady
+bip_39_word_underscore_4: must_walnut_lady_will
+bip_39_word_underscore_5: must_walnut_lady_will_suggest
+bip_39_word_underscore_6: must_walnut_lady_will_suggest_sibling
+bip_39_word_underscore_7: must_walnut_lady_will_suggest_sibling_swamp
+bip_39_word_underscore_8: must_walnut_lady_will_suggest_sibling_swamp_tent
+bip_39_word_underscore_9: must_walnut_lady_will_suggest_sibling_swamp_tent_fun
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

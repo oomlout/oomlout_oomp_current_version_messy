@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | estate |  
+| bip_39_word_dash_10 | estate-nose-scrap-ritual-invite-depth-climb-helmet-visit-debate |  
+| bip_39_word_dash_11 | estate-nose-scrap-ritual-invite-depth-climb-helmet-visit-debate-crater |  
+| bip_39_word_dash_12 | estate-nose-scrap-ritual-invite-depth-climb-helmet-visit-debate-crater-atom |  
+| bip_39_word_dash_2 | estate-nose |  
+| bip_39_word_dash_3 | estate-nose-scrap |  
+| bip_39_word_dash_4 | estate-nose-scrap-ritual |  
+| bip_39_word_dash_5 | estate-nose-scrap-ritual-invite |  
+| bip_39_word_dash_6 | estate-nose-scrap-ritual-invite-depth |  
+| bip_39_word_dash_7 | estate-nose-scrap-ritual-invite-depth-climb |  
+| bip_39_word_dash_8 | estate-nose-scrap-ritual-invite-depth-climb-helmet |  
+| bip_39_word_dash_9 | estate-nose-scrap-ritual-invite-depth-climb-helmet-visit |  
 | bip_39_word_new_br_1 | estate |  
 | bip_39_word_new_br_10 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate |  
 | bip_39_word_new_br_11 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate<br>crater |  
@@ -147,6 +159,18 @@ visit |
 | bip_39_word_space_7 | estate nose scrap ritual invite depth climb |  
 | bip_39_word_space_8 | estate nose scrap ritual invite depth climb helmet |  
 | bip_39_word_space_9 | estate nose scrap ritual invite depth climb helmet visit |  
+| bip_39_word_underscore_1 | estate |  
+| bip_39_word_underscore_10 | estate_nose_scrap_ritual_invite_depth_climb_helmet_visit_debate |  
+| bip_39_word_underscore_11 | estate_nose_scrap_ritual_invite_depth_climb_helmet_visit_debate_crater |  
+| bip_39_word_underscore_12 | estate_nose_scrap_ritual_invite_depth_climb_helmet_visit_debate_crater_atom |  
+| bip_39_word_underscore_2 | estate_nose |  
+| bip_39_word_underscore_3 | estate_nose_scrap |  
+| bip_39_word_underscore_4 | estate_nose_scrap_ritual |  
+| bip_39_word_underscore_5 | estate_nose_scrap_ritual_invite |  
+| bip_39_word_underscore_6 | estate_nose_scrap_ritual_invite_depth |  
+| bip_39_word_underscore_7 | estate_nose_scrap_ritual_invite_depth_climb |  
+| bip_39_word_underscore_8 | estate_nose_scrap_ritual_invite_depth_climb_helmet |  
+| bip_39_word_underscore_9 | estate_nose_scrap_ritual_invite_depth_climb_helmet_visit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

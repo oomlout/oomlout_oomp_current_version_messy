@@ -1,3 +1,15 @@
+bip_39_word_dash_1: picnic
+bip_39_word_dash_10: picnic-matter-uncover-bonus-special-lava-abuse-run-rack-fog
+bip_39_word_dash_11: picnic-matter-uncover-bonus-special-lava-abuse-run-rack-fog-dismiss
+bip_39_word_dash_12: picnic-matter-uncover-bonus-special-lava-abuse-run-rack-fog-dismiss-angry
+bip_39_word_dash_2: picnic-matter
+bip_39_word_dash_3: picnic-matter-uncover
+bip_39_word_dash_4: picnic-matter-uncover-bonus
+bip_39_word_dash_5: picnic-matter-uncover-bonus-special
+bip_39_word_dash_6: picnic-matter-uncover-bonus-special-lava
+bip_39_word_dash_7: picnic-matter-uncover-bonus-special-lava-abuse
+bip_39_word_dash_8: picnic-matter-uncover-bonus-special-lava-abuse-run
+bip_39_word_dash_9: picnic-matter-uncover-bonus-special-lava-abuse-run-rack
 bip_39_word_new_br_1: picnic
 bip_39_word_new_br_10: picnic<br>matter<br>uncover<br>bonus<br>special<br>lava<br>abuse<br>run<br>rack<br>fog
 bip_39_word_new_br_11: picnic<br>matter<br>uncover<br>bonus<br>special<br>lava<br>abuse<br>run<br>rack<br>fog<br>dismiss
@@ -193,6 +205,18 @@ bip_39_word_space_6: picnic matter uncover bonus special lava
 bip_39_word_space_7: picnic matter uncover bonus special lava abuse
 bip_39_word_space_8: picnic matter uncover bonus special lava abuse run
 bip_39_word_space_9: picnic matter uncover bonus special lava abuse run rack
+bip_39_word_underscore_1: picnic
+bip_39_word_underscore_10: picnic_matter_uncover_bonus_special_lava_abuse_run_rack_fog
+bip_39_word_underscore_11: picnic_matter_uncover_bonus_special_lava_abuse_run_rack_fog_dismiss
+bip_39_word_underscore_12: picnic_matter_uncover_bonus_special_lava_abuse_run_rack_fog_dismiss_angry
+bip_39_word_underscore_2: picnic_matter
+bip_39_word_underscore_3: picnic_matter_uncover
+bip_39_word_underscore_4: picnic_matter_uncover_bonus
+bip_39_word_underscore_5: picnic_matter_uncover_bonus_special
+bip_39_word_underscore_6: picnic_matter_uncover_bonus_special_lava
+bip_39_word_underscore_7: picnic_matter_uncover_bonus_special_lava_abuse
+bip_39_word_underscore_8: picnic_matter_uncover_bonus_special_lava_abuse_run
+bip_39_word_underscore_9: picnic_matter_uncover_bonus_special_lava_abuse_run_rack
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

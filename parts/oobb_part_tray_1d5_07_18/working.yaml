@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gaze
+bip_39_word_dash_10: gaze-reward-must-media-put-abandon-riot-remind-mobile-spatial
+bip_39_word_dash_11: gaze-reward-must-media-put-abandon-riot-remind-mobile-spatial-flock
+bip_39_word_dash_12: gaze-reward-must-media-put-abandon-riot-remind-mobile-spatial-flock-arena
+bip_39_word_dash_2: gaze-reward
+bip_39_word_dash_3: gaze-reward-must
+bip_39_word_dash_4: gaze-reward-must-media
+bip_39_word_dash_5: gaze-reward-must-media-put
+bip_39_word_dash_6: gaze-reward-must-media-put-abandon
+bip_39_word_dash_7: gaze-reward-must-media-put-abandon-riot
+bip_39_word_dash_8: gaze-reward-must-media-put-abandon-riot-remind
+bip_39_word_dash_9: gaze-reward-must-media-put-abandon-riot-remind-mobile
 bip_39_word_new_br_1: gaze
 bip_39_word_new_br_10: gaze<br>reward<br>must<br>media<br>put<br>abandon<br>riot<br>remind<br>mobile<br>spatial
 bip_39_word_new_br_11: gaze<br>reward<br>must<br>media<br>put<br>abandon<br>riot<br>remind<br>mobile<br>spatial<br>flock
@@ -193,6 +205,18 @@ bip_39_word_space_6: gaze reward must media put abandon
 bip_39_word_space_7: gaze reward must media put abandon riot
 bip_39_word_space_8: gaze reward must media put abandon riot remind
 bip_39_word_space_9: gaze reward must media put abandon riot remind mobile
+bip_39_word_underscore_1: gaze
+bip_39_word_underscore_10: gaze_reward_must_media_put_abandon_riot_remind_mobile_spatial
+bip_39_word_underscore_11: gaze_reward_must_media_put_abandon_riot_remind_mobile_spatial_flock
+bip_39_word_underscore_12: gaze_reward_must_media_put_abandon_riot_remind_mobile_spatial_flock_arena
+bip_39_word_underscore_2: gaze_reward
+bip_39_word_underscore_3: gaze_reward_must
+bip_39_word_underscore_4: gaze_reward_must_media
+bip_39_word_underscore_5: gaze_reward_must_media_put
+bip_39_word_underscore_6: gaze_reward_must_media_put_abandon
+bip_39_word_underscore_7: gaze_reward_must_media_put_abandon_riot
+bip_39_word_underscore_8: gaze_reward_must_media_put_abandon_riot_remind
+bip_39_word_underscore_9: gaze_reward_must_media_put_abandon_riot_remind_mobile
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

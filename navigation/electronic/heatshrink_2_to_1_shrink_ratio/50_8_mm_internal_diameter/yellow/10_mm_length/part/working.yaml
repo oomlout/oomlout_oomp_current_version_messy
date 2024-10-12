@@ -1,3 +1,15 @@
+bip_39_word_dash_1: safe
+bip_39_word_dash_10: safe-level-swing-hurt-okay-rent-burst-dance-verb-velvet
+bip_39_word_dash_11: safe-level-swing-hurt-okay-rent-burst-dance-verb-velvet-stage
+bip_39_word_dash_12: safe-level-swing-hurt-okay-rent-burst-dance-verb-velvet-stage-among
+bip_39_word_dash_2: safe-level
+bip_39_word_dash_3: safe-level-swing
+bip_39_word_dash_4: safe-level-swing-hurt
+bip_39_word_dash_5: safe-level-swing-hurt-okay
+bip_39_word_dash_6: safe-level-swing-hurt-okay-rent
+bip_39_word_dash_7: safe-level-swing-hurt-okay-rent-burst
+bip_39_word_dash_8: safe-level-swing-hurt-okay-rent-burst-dance
+bip_39_word_dash_9: safe-level-swing-hurt-okay-rent-burst-dance-verb
 bip_39_word_new_br_1: safe
 bip_39_word_new_br_10: safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance<br>verb<br>velvet
 bip_39_word_new_br_11: safe<br>level<br>swing<br>hurt<br>okay<br>rent<br>burst<br>dance<br>verb<br>velvet<br>stage
@@ -192,6 +204,18 @@ bip_39_word_space_6: safe level swing hurt okay rent
 bip_39_word_space_7: safe level swing hurt okay rent burst
 bip_39_word_space_8: safe level swing hurt okay rent burst dance
 bip_39_word_space_9: safe level swing hurt okay rent burst dance verb
+bip_39_word_underscore_1: safe
+bip_39_word_underscore_10: safe_level_swing_hurt_okay_rent_burst_dance_verb_velvet
+bip_39_word_underscore_11: safe_level_swing_hurt_okay_rent_burst_dance_verb_velvet_stage
+bip_39_word_underscore_12: safe_level_swing_hurt_okay_rent_burst_dance_verb_velvet_stage_among
+bip_39_word_underscore_2: safe_level
+bip_39_word_underscore_3: safe_level_swing
+bip_39_word_underscore_4: safe_level_swing_hurt
+bip_39_word_underscore_5: safe_level_swing_hurt_okay
+bip_39_word_underscore_6: safe_level_swing_hurt_okay_rent
+bip_39_word_underscore_7: safe_level_swing_hurt_okay_rent_burst
+bip_39_word_underscore_8: safe_level_swing_hurt_okay_rent_burst_dance
+bip_39_word_underscore_9: safe_level_swing_hurt_okay_rent_burst_dance_verb
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

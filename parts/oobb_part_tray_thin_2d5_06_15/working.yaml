@@ -1,3 +1,15 @@
+bip_39_word_dash_1: special
+bip_39_word_dash_10: special-pudding-casino-second-sunset-ten-physical-core-inhale-spray
+bip_39_word_dash_11: special-pudding-casino-second-sunset-ten-physical-core-inhale-spray-machine
+bip_39_word_dash_12: special-pudding-casino-second-sunset-ten-physical-core-inhale-spray-machine-artist
+bip_39_word_dash_2: special-pudding
+bip_39_word_dash_3: special-pudding-casino
+bip_39_word_dash_4: special-pudding-casino-second
+bip_39_word_dash_5: special-pudding-casino-second-sunset
+bip_39_word_dash_6: special-pudding-casino-second-sunset-ten
+bip_39_word_dash_7: special-pudding-casino-second-sunset-ten-physical
+bip_39_word_dash_8: special-pudding-casino-second-sunset-ten-physical-core
+bip_39_word_dash_9: special-pudding-casino-second-sunset-ten-physical-core-inhale
 bip_39_word_new_br_1: special
 bip_39_word_new_br_10: special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray
 bip_39_word_new_br_11: special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray<br>machine
@@ -194,6 +206,18 @@ bip_39_word_space_6: special pudding casino second sunset ten
 bip_39_word_space_7: special pudding casino second sunset ten physical
 bip_39_word_space_8: special pudding casino second sunset ten physical core
 bip_39_word_space_9: special pudding casino second sunset ten physical core inhale
+bip_39_word_underscore_1: special
+bip_39_word_underscore_10: special_pudding_casino_second_sunset_ten_physical_core_inhale_spray
+bip_39_word_underscore_11: special_pudding_casino_second_sunset_ten_physical_core_inhale_spray_machine
+bip_39_word_underscore_12: special_pudding_casino_second_sunset_ten_physical_core_inhale_spray_machine_artist
+bip_39_word_underscore_2: special_pudding
+bip_39_word_underscore_3: special_pudding_casino
+bip_39_word_underscore_4: special_pudding_casino_second
+bip_39_word_underscore_5: special_pudding_casino_second_sunset
+bip_39_word_underscore_6: special_pudding_casino_second_sunset_ten
+bip_39_word_underscore_7: special_pudding_casino_second_sunset_ten_physical
+bip_39_word_underscore_8: special_pudding_casino_second_sunset_ten_physical_core
+bip_39_word_underscore_9: special_pudding_casino_second_sunset_ten_physical_core_inhale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

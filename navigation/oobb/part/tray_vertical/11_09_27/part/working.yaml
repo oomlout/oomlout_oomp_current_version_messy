@@ -1,3 +1,15 @@
+bip_39_word_dash_1: basket
+bip_39_word_dash_10: basket-thing-craft-maximum-joy-sell-same-purse-frame-hungry
+bip_39_word_dash_11: basket-thing-craft-maximum-joy-sell-same-purse-frame-hungry-rookie
+bip_39_word_dash_12: basket-thing-craft-maximum-joy-sell-same-purse-frame-hungry-rookie-affair
+bip_39_word_dash_2: basket-thing
+bip_39_word_dash_3: basket-thing-craft
+bip_39_word_dash_4: basket-thing-craft-maximum
+bip_39_word_dash_5: basket-thing-craft-maximum-joy
+bip_39_word_dash_6: basket-thing-craft-maximum-joy-sell
+bip_39_word_dash_7: basket-thing-craft-maximum-joy-sell-same
+bip_39_word_dash_8: basket-thing-craft-maximum-joy-sell-same-purse
+bip_39_word_dash_9: basket-thing-craft-maximum-joy-sell-same-purse-frame
 bip_39_word_new_br_1: basket
 bip_39_word_new_br_10: basket<br>thing<br>craft<br>maximum<br>joy<br>sell<br>same<br>purse<br>frame<br>hungry
 bip_39_word_new_br_11: basket<br>thing<br>craft<br>maximum<br>joy<br>sell<br>same<br>purse<br>frame<br>hungry<br>rookie
@@ -193,6 +205,18 @@ bip_39_word_space_6: basket thing craft maximum joy sell
 bip_39_word_space_7: basket thing craft maximum joy sell same
 bip_39_word_space_8: basket thing craft maximum joy sell same purse
 bip_39_word_space_9: basket thing craft maximum joy sell same purse frame
+bip_39_word_underscore_1: basket
+bip_39_word_underscore_10: basket_thing_craft_maximum_joy_sell_same_purse_frame_hungry
+bip_39_word_underscore_11: basket_thing_craft_maximum_joy_sell_same_purse_frame_hungry_rookie
+bip_39_word_underscore_12: basket_thing_craft_maximum_joy_sell_same_purse_frame_hungry_rookie_affair
+bip_39_word_underscore_2: basket_thing
+bip_39_word_underscore_3: basket_thing_craft
+bip_39_word_underscore_4: basket_thing_craft_maximum
+bip_39_word_underscore_5: basket_thing_craft_maximum_joy
+bip_39_word_underscore_6: basket_thing_craft_maximum_joy_sell
+bip_39_word_underscore_7: basket_thing_craft_maximum_joy_sell_same
+bip_39_word_underscore_8: basket_thing_craft_maximum_joy_sell_same_purse
+bip_39_word_underscore_9: basket_thing_craft_maximum_joy_sell_same_purse_frame
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

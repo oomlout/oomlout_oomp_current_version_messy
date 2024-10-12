@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jeans |  
+| bip_39_word_dash_10 | jeans-joke-material-crucial-sponsor-pact-similar-project-note-scan |  
+| bip_39_word_dash_11 | jeans-joke-material-crucial-sponsor-pact-similar-project-note-scan-flash |  
+| bip_39_word_dash_12 | jeans-joke-material-crucial-sponsor-pact-similar-project-note-scan-flash-advice |  
+| bip_39_word_dash_2 | jeans-joke |  
+| bip_39_word_dash_3 | jeans-joke-material |  
+| bip_39_word_dash_4 | jeans-joke-material-crucial |  
+| bip_39_word_dash_5 | jeans-joke-material-crucial-sponsor |  
+| bip_39_word_dash_6 | jeans-joke-material-crucial-sponsor-pact |  
+| bip_39_word_dash_7 | jeans-joke-material-crucial-sponsor-pact-similar |  
+| bip_39_word_dash_8 | jeans-joke-material-crucial-sponsor-pact-similar-project |  
+| bip_39_word_dash_9 | jeans-joke-material-crucial-sponsor-pact-similar-project-note |  
 | bip_39_word_new_br_1 | jeans |  
 | bip_39_word_new_br_10 | jeans<br>joke<br>material<br>crucial<br>sponsor<br>pact<br>similar<br>project<br>note<br>scan |  
 | bip_39_word_new_br_11 | jeans<br>joke<br>material<br>crucial<br>sponsor<br>pact<br>similar<br>project<br>note<br>scan<br>flash |  
@@ -147,6 +159,18 @@ note |
 | bip_39_word_space_7 | jeans joke material crucial sponsor pact similar |  
 | bip_39_word_space_8 | jeans joke material crucial sponsor pact similar project |  
 | bip_39_word_space_9 | jeans joke material crucial sponsor pact similar project note |  
+| bip_39_word_underscore_1 | jeans |  
+| bip_39_word_underscore_10 | jeans_joke_material_crucial_sponsor_pact_similar_project_note_scan |  
+| bip_39_word_underscore_11 | jeans_joke_material_crucial_sponsor_pact_similar_project_note_scan_flash |  
+| bip_39_word_underscore_12 | jeans_joke_material_crucial_sponsor_pact_similar_project_note_scan_flash_advice |  
+| bip_39_word_underscore_2 | jeans_joke |  
+| bip_39_word_underscore_3 | jeans_joke_material |  
+| bip_39_word_underscore_4 | jeans_joke_material_crucial |  
+| bip_39_word_underscore_5 | jeans_joke_material_crucial_sponsor |  
+| bip_39_word_underscore_6 | jeans_joke_material_crucial_sponsor_pact |  
+| bip_39_word_underscore_7 | jeans_joke_material_crucial_sponsor_pact_similar |  
+| bip_39_word_underscore_8 | jeans_joke_material_crucial_sponsor_pact_similar_project |  
+| bip_39_word_underscore_9 | jeans_joke_material_crucial_sponsor_pact_similar_project_note |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

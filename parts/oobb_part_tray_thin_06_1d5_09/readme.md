@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | property |  
+| bip_39_word_dash_10 | property-august-hood-three-oppose-film-execute-script-shoe-unusual |  
+| bip_39_word_dash_11 | property-august-hood-three-oppose-film-execute-script-shoe-unusual-logic |  
+| bip_39_word_dash_12 | property-august-hood-three-oppose-film-execute-script-shoe-unusual-logic-artist |  
+| bip_39_word_dash_2 | property-august |  
+| bip_39_word_dash_3 | property-august-hood |  
+| bip_39_word_dash_4 | property-august-hood-three |  
+| bip_39_word_dash_5 | property-august-hood-three-oppose |  
+| bip_39_word_dash_6 | property-august-hood-three-oppose-film |  
+| bip_39_word_dash_7 | property-august-hood-three-oppose-film-execute |  
+| bip_39_word_dash_8 | property-august-hood-three-oppose-film-execute-script |  
+| bip_39_word_dash_9 | property-august-hood-three-oppose-film-execute-script-shoe |  
 | bip_39_word_new_br_1 | property |  
 | bip_39_word_new_br_10 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script<br>shoe<br>unusual |  
 | bip_39_word_new_br_11 | property<br>august<br>hood<br>three<br>oppose<br>film<br>execute<br>script<br>shoe<br>unusual<br>logic |  
@@ -147,6 +159,18 @@ shoe |
 | bip_39_word_space_7 | property august hood three oppose film execute |  
 | bip_39_word_space_8 | property august hood three oppose film execute script |  
 | bip_39_word_space_9 | property august hood three oppose film execute script shoe |  
+| bip_39_word_underscore_1 | property |  
+| bip_39_word_underscore_10 | property_august_hood_three_oppose_film_execute_script_shoe_unusual |  
+| bip_39_word_underscore_11 | property_august_hood_three_oppose_film_execute_script_shoe_unusual_logic |  
+| bip_39_word_underscore_12 | property_august_hood_three_oppose_film_execute_script_shoe_unusual_logic_artist |  
+| bip_39_word_underscore_2 | property_august |  
+| bip_39_word_underscore_3 | property_august_hood |  
+| bip_39_word_underscore_4 | property_august_hood_three |  
+| bip_39_word_underscore_5 | property_august_hood_three_oppose |  
+| bip_39_word_underscore_6 | property_august_hood_three_oppose_film |  
+| bip_39_word_underscore_7 | property_august_hood_three_oppose_film_execute |  
+| bip_39_word_underscore_8 | property_august_hood_three_oppose_film_execute_script |  
+| bip_39_word_underscore_9 | property_august_hood_three_oppose_film_execute_script_shoe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

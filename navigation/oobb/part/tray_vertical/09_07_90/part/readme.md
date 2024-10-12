@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wing |  
+| bip_39_word_dash_10 | wing-typical-bachelor-hand-bitter-inmate-decide-kitten-wolf-blade |  
+| bip_39_word_dash_11 | wing-typical-bachelor-hand-bitter-inmate-decide-kitten-wolf-blade-release |  
+| bip_39_word_dash_12 | wing-typical-bachelor-hand-bitter-inmate-decide-kitten-wolf-blade-release-add |  
+| bip_39_word_dash_2 | wing-typical |  
+| bip_39_word_dash_3 | wing-typical-bachelor |  
+| bip_39_word_dash_4 | wing-typical-bachelor-hand |  
+| bip_39_word_dash_5 | wing-typical-bachelor-hand-bitter |  
+| bip_39_word_dash_6 | wing-typical-bachelor-hand-bitter-inmate |  
+| bip_39_word_dash_7 | wing-typical-bachelor-hand-bitter-inmate-decide |  
+| bip_39_word_dash_8 | wing-typical-bachelor-hand-bitter-inmate-decide-kitten |  
+| bip_39_word_dash_9 | wing-typical-bachelor-hand-bitter-inmate-decide-kitten-wolf |  
 | bip_39_word_new_br_1 | wing |  
 | bip_39_word_new_br_10 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade |  
 | bip_39_word_new_br_11 | wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade<br>release |  
@@ -147,6 +159,18 @@ wolf |
 | bip_39_word_space_7 | wing typical bachelor hand bitter inmate decide |  
 | bip_39_word_space_8 | wing typical bachelor hand bitter inmate decide kitten |  
 | bip_39_word_space_9 | wing typical bachelor hand bitter inmate decide kitten wolf |  
+| bip_39_word_underscore_1 | wing |  
+| bip_39_word_underscore_10 | wing_typical_bachelor_hand_bitter_inmate_decide_kitten_wolf_blade |  
+| bip_39_word_underscore_11 | wing_typical_bachelor_hand_bitter_inmate_decide_kitten_wolf_blade_release |  
+| bip_39_word_underscore_12 | wing_typical_bachelor_hand_bitter_inmate_decide_kitten_wolf_blade_release_add |  
+| bip_39_word_underscore_2 | wing_typical |  
+| bip_39_word_underscore_3 | wing_typical_bachelor |  
+| bip_39_word_underscore_4 | wing_typical_bachelor_hand |  
+| bip_39_word_underscore_5 | wing_typical_bachelor_hand_bitter |  
+| bip_39_word_underscore_6 | wing_typical_bachelor_hand_bitter_inmate |  
+| bip_39_word_underscore_7 | wing_typical_bachelor_hand_bitter_inmate_decide |  
+| bip_39_word_underscore_8 | wing_typical_bachelor_hand_bitter_inmate_decide_kitten |  
+| bip_39_word_underscore_9 | wing_typical_bachelor_hand_bitter_inmate_decide_kitten_wolf |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

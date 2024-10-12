@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shaft |  
+| bip_39_word_dash_10 | shaft-paddle-step-nest-power-answer-luxury-seven-subject-parade |  
+| bip_39_word_dash_11 | shaft-paddle-step-nest-power-answer-luxury-seven-subject-parade-portion |  
+| bip_39_word_dash_12 | shaft-paddle-step-nest-power-answer-luxury-seven-subject-parade-portion-argue |  
+| bip_39_word_dash_2 | shaft-paddle |  
+| bip_39_word_dash_3 | shaft-paddle-step |  
+| bip_39_word_dash_4 | shaft-paddle-step-nest |  
+| bip_39_word_dash_5 | shaft-paddle-step-nest-power |  
+| bip_39_word_dash_6 | shaft-paddle-step-nest-power-answer |  
+| bip_39_word_dash_7 | shaft-paddle-step-nest-power-answer-luxury |  
+| bip_39_word_dash_8 | shaft-paddle-step-nest-power-answer-luxury-seven |  
+| bip_39_word_dash_9 | shaft-paddle-step-nest-power-answer-luxury-seven-subject |  
 | bip_39_word_new_br_1 | shaft |  
 | bip_39_word_new_br_10 | shaft<br>paddle<br>step<br>nest<br>power<br>answer<br>luxury<br>seven<br>subject<br>parade |  
 | bip_39_word_new_br_11 | shaft<br>paddle<br>step<br>nest<br>power<br>answer<br>luxury<br>seven<br>subject<br>parade<br>portion |  
@@ -147,6 +159,18 @@ subject |
 | bip_39_word_space_7 | shaft paddle step nest power answer luxury |  
 | bip_39_word_space_8 | shaft paddle step nest power answer luxury seven |  
 | bip_39_word_space_9 | shaft paddle step nest power answer luxury seven subject |  
+| bip_39_word_underscore_1 | shaft |  
+| bip_39_word_underscore_10 | shaft_paddle_step_nest_power_answer_luxury_seven_subject_parade |  
+| bip_39_word_underscore_11 | shaft_paddle_step_nest_power_answer_luxury_seven_subject_parade_portion |  
+| bip_39_word_underscore_12 | shaft_paddle_step_nest_power_answer_luxury_seven_subject_parade_portion_argue |  
+| bip_39_word_underscore_2 | shaft_paddle |  
+| bip_39_word_underscore_3 | shaft_paddle_step |  
+| bip_39_word_underscore_4 | shaft_paddle_step_nest |  
+| bip_39_word_underscore_5 | shaft_paddle_step_nest_power |  
+| bip_39_word_underscore_6 | shaft_paddle_step_nest_power_answer |  
+| bip_39_word_underscore_7 | shaft_paddle_step_nest_power_answer_luxury |  
+| bip_39_word_underscore_8 | shaft_paddle_step_nest_power_answer_luxury_seven |  
+| bip_39_word_underscore_9 | shaft_paddle_step_nest_power_answer_luxury_seven_subject |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: prosper
+bip_39_word_dash_10: prosper-two-carpet-across-boss-win-card-forest-garbage-catch
+bip_39_word_dash_11: prosper-two-carpet-across-boss-win-card-forest-garbage-catch-display
+bip_39_word_dash_12: prosper-two-carpet-across-boss-win-card-forest-garbage-catch-display-absurd
+bip_39_word_dash_2: prosper-two
+bip_39_word_dash_3: prosper-two-carpet
+bip_39_word_dash_4: prosper-two-carpet-across
+bip_39_word_dash_5: prosper-two-carpet-across-boss
+bip_39_word_dash_6: prosper-two-carpet-across-boss-win
+bip_39_word_dash_7: prosper-two-carpet-across-boss-win-card
+bip_39_word_dash_8: prosper-two-carpet-across-boss-win-card-forest
+bip_39_word_dash_9: prosper-two-carpet-across-boss-win-card-forest-garbage
 bip_39_word_new_br_1: prosper
 bip_39_word_new_br_10: prosper<br>two<br>carpet<br>across<br>boss<br>win<br>card<br>forest<br>garbage<br>catch
 bip_39_word_new_br_11: prosper<br>two<br>carpet<br>across<br>boss<br>win<br>card<br>forest<br>garbage<br>catch<br>display
@@ -193,6 +205,18 @@ bip_39_word_space_6: prosper two carpet across boss win
 bip_39_word_space_7: prosper two carpet across boss win card
 bip_39_word_space_8: prosper two carpet across boss win card forest
 bip_39_word_space_9: prosper two carpet across boss win card forest garbage
+bip_39_word_underscore_1: prosper
+bip_39_word_underscore_10: prosper_two_carpet_across_boss_win_card_forest_garbage_catch
+bip_39_word_underscore_11: prosper_two_carpet_across_boss_win_card_forest_garbage_catch_display
+bip_39_word_underscore_12: prosper_two_carpet_across_boss_win_card_forest_garbage_catch_display_absurd
+bip_39_word_underscore_2: prosper_two
+bip_39_word_underscore_3: prosper_two_carpet
+bip_39_word_underscore_4: prosper_two_carpet_across
+bip_39_word_underscore_5: prosper_two_carpet_across_boss
+bip_39_word_underscore_6: prosper_two_carpet_across_boss_win
+bip_39_word_underscore_7: prosper_two_carpet_across_boss_win_card
+bip_39_word_underscore_8: prosper_two_carpet_across_boss_win_card_forest
+bip_39_word_underscore_9: prosper_two_carpet_across_boss_win_card_forest_garbage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exhibit
+bip_39_word_dash_10: exhibit-fatal-fade-confirm-melody-film-toss-exile-fade-hat
+bip_39_word_dash_11: exhibit-fatal-fade-confirm-melody-film-toss-exile-fade-hat-sunset
+bip_39_word_dash_12: exhibit-fatal-fade-confirm-melody-film-toss-exile-fade-hat-sunset-ask
+bip_39_word_dash_2: exhibit-fatal
+bip_39_word_dash_3: exhibit-fatal-fade
+bip_39_word_dash_4: exhibit-fatal-fade-confirm
+bip_39_word_dash_5: exhibit-fatal-fade-confirm-melody
+bip_39_word_dash_6: exhibit-fatal-fade-confirm-melody-film
+bip_39_word_dash_7: exhibit-fatal-fade-confirm-melody-film-toss
+bip_39_word_dash_8: exhibit-fatal-fade-confirm-melody-film-toss-exile
+bip_39_word_dash_9: exhibit-fatal-fade-confirm-melody-film-toss-exile-fade
 bip_39_word_new_br_1: exhibit
 bip_39_word_new_br_10: exhibit<br>fatal<br>fade<br>confirm<br>melody<br>film<br>toss<br>exile<br>fade<br>hat
 bip_39_word_new_br_11: exhibit<br>fatal<br>fade<br>confirm<br>melody<br>film<br>toss<br>exile<br>fade<br>hat<br>sunset
@@ -192,6 +204,18 @@ bip_39_word_space_6: exhibit fatal fade confirm melody film
 bip_39_word_space_7: exhibit fatal fade confirm melody film toss
 bip_39_word_space_8: exhibit fatal fade confirm melody film toss exile
 bip_39_word_space_9: exhibit fatal fade confirm melody film toss exile fade
+bip_39_word_underscore_1: exhibit
+bip_39_word_underscore_10: exhibit_fatal_fade_confirm_melody_film_toss_exile_fade_hat
+bip_39_word_underscore_11: exhibit_fatal_fade_confirm_melody_film_toss_exile_fade_hat_sunset
+bip_39_word_underscore_12: exhibit_fatal_fade_confirm_melody_film_toss_exile_fade_hat_sunset_ask
+bip_39_word_underscore_2: exhibit_fatal
+bip_39_word_underscore_3: exhibit_fatal_fade
+bip_39_word_underscore_4: exhibit_fatal_fade_confirm
+bip_39_word_underscore_5: exhibit_fatal_fade_confirm_melody
+bip_39_word_underscore_6: exhibit_fatal_fade_confirm_melody_film
+bip_39_word_underscore_7: exhibit_fatal_fade_confirm_melody_film_toss
+bip_39_word_underscore_8: exhibit_fatal_fade_confirm_melody_film_toss_exile
+bip_39_word_underscore_9: exhibit_fatal_fade_confirm_melody_film_toss_exile_fade
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

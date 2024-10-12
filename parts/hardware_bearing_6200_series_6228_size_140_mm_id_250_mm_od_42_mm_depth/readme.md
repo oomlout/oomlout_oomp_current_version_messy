@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gadget |  
+| bip_39_word_dash_10 | gadget-oppose-boy-daring-poverty-camp-flag-paper-lecture-raven |  
+| bip_39_word_dash_11 | gadget-oppose-boy-daring-poverty-camp-flag-paper-lecture-raven-gloom |  
+| bip_39_word_dash_12 | gadget-oppose-boy-daring-poverty-camp-flag-paper-lecture-raven-gloom-actual |  
+| bip_39_word_dash_2 | gadget-oppose |  
+| bip_39_word_dash_3 | gadget-oppose-boy |  
+| bip_39_word_dash_4 | gadget-oppose-boy-daring |  
+| bip_39_word_dash_5 | gadget-oppose-boy-daring-poverty |  
+| bip_39_word_dash_6 | gadget-oppose-boy-daring-poverty-camp |  
+| bip_39_word_dash_7 | gadget-oppose-boy-daring-poverty-camp-flag |  
+| bip_39_word_dash_8 | gadget-oppose-boy-daring-poverty-camp-flag-paper |  
+| bip_39_word_dash_9 | gadget-oppose-boy-daring-poverty-camp-flag-paper-lecture |  
 | bip_39_word_new_br_1 | gadget |  
 | bip_39_word_new_br_10 | gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven |  
 | bip_39_word_new_br_11 | gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven<br>gloom |  
@@ -147,6 +159,18 @@ lecture |
 | bip_39_word_space_7 | gadget oppose boy daring poverty camp flag |  
 | bip_39_word_space_8 | gadget oppose boy daring poverty camp flag paper |  
 | bip_39_word_space_9 | gadget oppose boy daring poverty camp flag paper lecture |  
+| bip_39_word_underscore_1 | gadget |  
+| bip_39_word_underscore_10 | gadget_oppose_boy_daring_poverty_camp_flag_paper_lecture_raven |  
+| bip_39_word_underscore_11 | gadget_oppose_boy_daring_poverty_camp_flag_paper_lecture_raven_gloom |  
+| bip_39_word_underscore_12 | gadget_oppose_boy_daring_poverty_camp_flag_paper_lecture_raven_gloom_actual |  
+| bip_39_word_underscore_2 | gadget_oppose |  
+| bip_39_word_underscore_3 | gadget_oppose_boy |  
+| bip_39_word_underscore_4 | gadget_oppose_boy_daring |  
+| bip_39_word_underscore_5 | gadget_oppose_boy_daring_poverty |  
+| bip_39_word_underscore_6 | gadget_oppose_boy_daring_poverty_camp |  
+| bip_39_word_underscore_7 | gadget_oppose_boy_daring_poverty_camp_flag |  
+| bip_39_word_underscore_8 | gadget_oppose_boy_daring_poverty_camp_flag_paper |  
+| bip_39_word_underscore_9 | gadget_oppose_boy_daring_poverty_camp_flag_paper_lecture |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

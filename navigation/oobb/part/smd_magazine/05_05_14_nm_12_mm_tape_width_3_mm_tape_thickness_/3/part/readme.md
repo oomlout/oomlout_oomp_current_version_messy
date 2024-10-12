@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kite |  
+| bip_39_word_dash_10 | kite-engage-guide-aspect-describe-escape-version-cream-advance-wasp |  
+| bip_39_word_dash_11 | kite-engage-guide-aspect-describe-escape-version-cream-advance-wasp-connect |  
+| bip_39_word_dash_12 | kite-engage-guide-aspect-describe-escape-version-cream-advance-wasp-connect-arrive |  
+| bip_39_word_dash_2 | kite-engage |  
+| bip_39_word_dash_3 | kite-engage-guide |  
+| bip_39_word_dash_4 | kite-engage-guide-aspect |  
+| bip_39_word_dash_5 | kite-engage-guide-aspect-describe |  
+| bip_39_word_dash_6 | kite-engage-guide-aspect-describe-escape |  
+| bip_39_word_dash_7 | kite-engage-guide-aspect-describe-escape-version |  
+| bip_39_word_dash_8 | kite-engage-guide-aspect-describe-escape-version-cream |  
+| bip_39_word_dash_9 | kite-engage-guide-aspect-describe-escape-version-cream-advance |  
 | bip_39_word_new_br_1 | kite |  
 | bip_39_word_new_br_10 | kite<br>engage<br>guide<br>aspect<br>describe<br>escape<br>version<br>cream<br>advance<br>wasp |  
 | bip_39_word_new_br_11 | kite<br>engage<br>guide<br>aspect<br>describe<br>escape<br>version<br>cream<br>advance<br>wasp<br>connect |  
@@ -147,6 +159,18 @@ advance |
 | bip_39_word_space_7 | kite engage guide aspect describe escape version |  
 | bip_39_word_space_8 | kite engage guide aspect describe escape version cream |  
 | bip_39_word_space_9 | kite engage guide aspect describe escape version cream advance |  
+| bip_39_word_underscore_1 | kite |  
+| bip_39_word_underscore_10 | kite_engage_guide_aspect_describe_escape_version_cream_advance_wasp |  
+| bip_39_word_underscore_11 | kite_engage_guide_aspect_describe_escape_version_cream_advance_wasp_connect |  
+| bip_39_word_underscore_12 | kite_engage_guide_aspect_describe_escape_version_cream_advance_wasp_connect_arrive |  
+| bip_39_word_underscore_2 | kite_engage |  
+| bip_39_word_underscore_3 | kite_engage_guide |  
+| bip_39_word_underscore_4 | kite_engage_guide_aspect |  
+| bip_39_word_underscore_5 | kite_engage_guide_aspect_describe |  
+| bip_39_word_underscore_6 | kite_engage_guide_aspect_describe_escape |  
+| bip_39_word_underscore_7 | kite_engage_guide_aspect_describe_escape_version |  
+| bip_39_word_underscore_8 | kite_engage_guide_aspect_describe_escape_version_cream |  
+| bip_39_word_underscore_9 | kite_engage_guide_aspect_describe_escape_version_cream_advance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

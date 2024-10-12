@@ -1,3 +1,15 @@
+bip_39_word_dash_1: skate
+bip_39_word_dash_10: skate-miracle-rug-race-audit-evolve-swear-setup-armed-trigger
+bip_39_word_dash_11: skate-miracle-rug-race-audit-evolve-swear-setup-armed-trigger-inject
+bip_39_word_dash_12: skate-miracle-rug-race-audit-evolve-swear-setup-armed-trigger-inject-artist
+bip_39_word_dash_2: skate-miracle
+bip_39_word_dash_3: skate-miracle-rug
+bip_39_word_dash_4: skate-miracle-rug-race
+bip_39_word_dash_5: skate-miracle-rug-race-audit
+bip_39_word_dash_6: skate-miracle-rug-race-audit-evolve
+bip_39_word_dash_7: skate-miracle-rug-race-audit-evolve-swear
+bip_39_word_dash_8: skate-miracle-rug-race-audit-evolve-swear-setup
+bip_39_word_dash_9: skate-miracle-rug-race-audit-evolve-swear-setup-armed
 bip_39_word_new_br_1: skate
 bip_39_word_new_br_10: skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger
 bip_39_word_new_br_11: skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger<br>inject
@@ -193,6 +205,18 @@ bip_39_word_space_6: skate miracle rug race audit evolve
 bip_39_word_space_7: skate miracle rug race audit evolve swear
 bip_39_word_space_8: skate miracle rug race audit evolve swear setup
 bip_39_word_space_9: skate miracle rug race audit evolve swear setup armed
+bip_39_word_underscore_1: skate
+bip_39_word_underscore_10: skate_miracle_rug_race_audit_evolve_swear_setup_armed_trigger
+bip_39_word_underscore_11: skate_miracle_rug_race_audit_evolve_swear_setup_armed_trigger_inject
+bip_39_word_underscore_12: skate_miracle_rug_race_audit_evolve_swear_setup_armed_trigger_inject_artist
+bip_39_word_underscore_2: skate_miracle
+bip_39_word_underscore_3: skate_miracle_rug
+bip_39_word_underscore_4: skate_miracle_rug_race
+bip_39_word_underscore_5: skate_miracle_rug_race_audit
+bip_39_word_underscore_6: skate_miracle_rug_race_audit_evolve
+bip_39_word_underscore_7: skate_miracle_rug_race_audit_evolve_swear
+bip_39_word_underscore_8: skate_miracle_rug_race_audit_evolve_swear_setup
+bip_39_word_underscore_9: skate_miracle_rug_race_audit_evolve_swear_setup_armed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

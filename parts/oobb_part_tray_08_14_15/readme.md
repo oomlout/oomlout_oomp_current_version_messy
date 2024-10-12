@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decorate |  
+| bip_39_word_dash_10 | decorate-boat-recall-cannon-dream-twelve-board-frozen-ostrich-under |  
+| bip_39_word_dash_11 | decorate-boat-recall-cannon-dream-twelve-board-frozen-ostrich-under-hobby |  
+| bip_39_word_dash_12 | decorate-boat-recall-cannon-dream-twelve-board-frozen-ostrich-under-hobby-assist |  
+| bip_39_word_dash_2 | decorate-boat |  
+| bip_39_word_dash_3 | decorate-boat-recall |  
+| bip_39_word_dash_4 | decorate-boat-recall-cannon |  
+| bip_39_word_dash_5 | decorate-boat-recall-cannon-dream |  
+| bip_39_word_dash_6 | decorate-boat-recall-cannon-dream-twelve |  
+| bip_39_word_dash_7 | decorate-boat-recall-cannon-dream-twelve-board |  
+| bip_39_word_dash_8 | decorate-boat-recall-cannon-dream-twelve-board-frozen |  
+| bip_39_word_dash_9 | decorate-boat-recall-cannon-dream-twelve-board-frozen-ostrich |  
 | bip_39_word_new_br_1 | decorate |  
 | bip_39_word_new_br_10 | decorate<br>boat<br>recall<br>cannon<br>dream<br>twelve<br>board<br>frozen<br>ostrich<br>under |  
 | bip_39_word_new_br_11 | decorate<br>boat<br>recall<br>cannon<br>dream<br>twelve<br>board<br>frozen<br>ostrich<br>under<br>hobby |  
@@ -147,6 +159,18 @@ ostrich |
 | bip_39_word_space_7 | decorate boat recall cannon dream twelve board |  
 | bip_39_word_space_8 | decorate boat recall cannon dream twelve board frozen |  
 | bip_39_word_space_9 | decorate boat recall cannon dream twelve board frozen ostrich |  
+| bip_39_word_underscore_1 | decorate |  
+| bip_39_word_underscore_10 | decorate_boat_recall_cannon_dream_twelve_board_frozen_ostrich_under |  
+| bip_39_word_underscore_11 | decorate_boat_recall_cannon_dream_twelve_board_frozen_ostrich_under_hobby |  
+| bip_39_word_underscore_12 | decorate_boat_recall_cannon_dream_twelve_board_frozen_ostrich_under_hobby_assist |  
+| bip_39_word_underscore_2 | decorate_boat |  
+| bip_39_word_underscore_3 | decorate_boat_recall |  
+| bip_39_word_underscore_4 | decorate_boat_recall_cannon |  
+| bip_39_word_underscore_5 | decorate_boat_recall_cannon_dream |  
+| bip_39_word_underscore_6 | decorate_boat_recall_cannon_dream_twelve |  
+| bip_39_word_underscore_7 | decorate_boat_recall_cannon_dream_twelve_board |  
+| bip_39_word_underscore_8 | decorate_boat_recall_cannon_dream_twelve_board_frozen |  
+| bip_39_word_underscore_9 | decorate_boat_recall_cannon_dream_twelve_board_frozen_ostrich |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

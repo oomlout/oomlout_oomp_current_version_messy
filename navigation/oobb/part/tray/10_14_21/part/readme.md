@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | federal |  
+| bip_39_word_dash_10 | federal-load-verify-horn-echo-area-glow-chaos-flush-syrup |  
+| bip_39_word_dash_11 | federal-load-verify-horn-echo-area-glow-chaos-flush-syrup-grain |  
+| bip_39_word_dash_12 | federal-load-verify-horn-echo-area-glow-chaos-flush-syrup-grain-annual |  
+| bip_39_word_dash_2 | federal-load |  
+| bip_39_word_dash_3 | federal-load-verify |  
+| bip_39_word_dash_4 | federal-load-verify-horn |  
+| bip_39_word_dash_5 | federal-load-verify-horn-echo |  
+| bip_39_word_dash_6 | federal-load-verify-horn-echo-area |  
+| bip_39_word_dash_7 | federal-load-verify-horn-echo-area-glow |  
+| bip_39_word_dash_8 | federal-load-verify-horn-echo-area-glow-chaos |  
+| bip_39_word_dash_9 | federal-load-verify-horn-echo-area-glow-chaos-flush |  
 | bip_39_word_new_br_1 | federal |  
 | bip_39_word_new_br_10 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup |  
 | bip_39_word_new_br_11 | federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup<br>grain |  
@@ -147,6 +159,18 @@ flush |
 | bip_39_word_space_7 | federal load verify horn echo area glow |  
 | bip_39_word_space_8 | federal load verify horn echo area glow chaos |  
 | bip_39_word_space_9 | federal load verify horn echo area glow chaos flush |  
+| bip_39_word_underscore_1 | federal |  
+| bip_39_word_underscore_10 | federal_load_verify_horn_echo_area_glow_chaos_flush_syrup |  
+| bip_39_word_underscore_11 | federal_load_verify_horn_echo_area_glow_chaos_flush_syrup_grain |  
+| bip_39_word_underscore_12 | federal_load_verify_horn_echo_area_glow_chaos_flush_syrup_grain_annual |  
+| bip_39_word_underscore_2 | federal_load |  
+| bip_39_word_underscore_3 | federal_load_verify |  
+| bip_39_word_underscore_4 | federal_load_verify_horn |  
+| bip_39_word_underscore_5 | federal_load_verify_horn_echo |  
+| bip_39_word_underscore_6 | federal_load_verify_horn_echo_area |  
+| bip_39_word_underscore_7 | federal_load_verify_horn_echo_area_glow |  
+| bip_39_word_underscore_8 | federal_load_verify_horn_echo_area_glow_chaos |  
+| bip_39_word_underscore_9 | federal_load_verify_horn_echo_area_glow_chaos_flush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | attitude |  
+| bip_39_word_dash_10 | attitude-fit-ring-cargo-boss-spatial-rug-unfair-pumpkin-fox |  
+| bip_39_word_dash_11 | attitude-fit-ring-cargo-boss-spatial-rug-unfair-pumpkin-fox-begin |  
+| bip_39_word_dash_12 | attitude-fit-ring-cargo-boss-spatial-rug-unfair-pumpkin-fox-begin-adult |  
+| bip_39_word_dash_2 | attitude-fit |  
+| bip_39_word_dash_3 | attitude-fit-ring |  
+| bip_39_word_dash_4 | attitude-fit-ring-cargo |  
+| bip_39_word_dash_5 | attitude-fit-ring-cargo-boss |  
+| bip_39_word_dash_6 | attitude-fit-ring-cargo-boss-spatial |  
+| bip_39_word_dash_7 | attitude-fit-ring-cargo-boss-spatial-rug |  
+| bip_39_word_dash_8 | attitude-fit-ring-cargo-boss-spatial-rug-unfair |  
+| bip_39_word_dash_9 | attitude-fit-ring-cargo-boss-spatial-rug-unfair-pumpkin |  
 | bip_39_word_new_br_1 | attitude |  
 | bip_39_word_new_br_10 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair<br>pumpkin<br>fox |  
 | bip_39_word_new_br_11 | attitude<br>fit<br>ring<br>cargo<br>boss<br>spatial<br>rug<br>unfair<br>pumpkin<br>fox<br>begin |  
@@ -147,6 +159,18 @@ pumpkin |
 | bip_39_word_space_7 | attitude fit ring cargo boss spatial rug |  
 | bip_39_word_space_8 | attitude fit ring cargo boss spatial rug unfair |  
 | bip_39_word_space_9 | attitude fit ring cargo boss spatial rug unfair pumpkin |  
+| bip_39_word_underscore_1 | attitude |  
+| bip_39_word_underscore_10 | attitude_fit_ring_cargo_boss_spatial_rug_unfair_pumpkin_fox |  
+| bip_39_word_underscore_11 | attitude_fit_ring_cargo_boss_spatial_rug_unfair_pumpkin_fox_begin |  
+| bip_39_word_underscore_12 | attitude_fit_ring_cargo_boss_spatial_rug_unfair_pumpkin_fox_begin_adult |  
+| bip_39_word_underscore_2 | attitude_fit |  
+| bip_39_word_underscore_3 | attitude_fit_ring |  
+| bip_39_word_underscore_4 | attitude_fit_ring_cargo |  
+| bip_39_word_underscore_5 | attitude_fit_ring_cargo_boss |  
+| bip_39_word_underscore_6 | attitude_fit_ring_cargo_boss_spatial |  
+| bip_39_word_underscore_7 | attitude_fit_ring_cargo_boss_spatial_rug |  
+| bip_39_word_underscore_8 | attitude_fit_ring_cargo_boss_spatial_rug_unfair |  
+| bip_39_word_underscore_9 | attitude_fit_ring_cargo_boss_spatial_rug_unfair_pumpkin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

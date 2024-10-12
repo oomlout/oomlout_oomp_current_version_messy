@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | more |  
+| bip_39_word_dash_10 | more-ribbon-phone-nerve-grit-fee-account-control-include-canoe |  
+| bip_39_word_dash_11 | more-ribbon-phone-nerve-grit-fee-account-control-include-canoe-govern |  
+| bip_39_word_dash_12 | more-ribbon-phone-nerve-grit-fee-account-control-include-canoe-govern-anxiety |  
+| bip_39_word_dash_2 | more-ribbon |  
+| bip_39_word_dash_3 | more-ribbon-phone |  
+| bip_39_word_dash_4 | more-ribbon-phone-nerve |  
+| bip_39_word_dash_5 | more-ribbon-phone-nerve-grit |  
+| bip_39_word_dash_6 | more-ribbon-phone-nerve-grit-fee |  
+| bip_39_word_dash_7 | more-ribbon-phone-nerve-grit-fee-account |  
+| bip_39_word_dash_8 | more-ribbon-phone-nerve-grit-fee-account-control |  
+| bip_39_word_dash_9 | more-ribbon-phone-nerve-grit-fee-account-control-include |  
 | bip_39_word_new_br_1 | more |  
 | bip_39_word_new_br_10 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control<br>include<br>canoe |  
 | bip_39_word_new_br_11 | more<br>ribbon<br>phone<br>nerve<br>grit<br>fee<br>account<br>control<br>include<br>canoe<br>govern |  
@@ -147,6 +159,18 @@ include |
 | bip_39_word_space_7 | more ribbon phone nerve grit fee account |  
 | bip_39_word_space_8 | more ribbon phone nerve grit fee account control |  
 | bip_39_word_space_9 | more ribbon phone nerve grit fee account control include |  
+| bip_39_word_underscore_1 | more |  
+| bip_39_word_underscore_10 | more_ribbon_phone_nerve_grit_fee_account_control_include_canoe |  
+| bip_39_word_underscore_11 | more_ribbon_phone_nerve_grit_fee_account_control_include_canoe_govern |  
+| bip_39_word_underscore_12 | more_ribbon_phone_nerve_grit_fee_account_control_include_canoe_govern_anxiety |  
+| bip_39_word_underscore_2 | more_ribbon |  
+| bip_39_word_underscore_3 | more_ribbon_phone |  
+| bip_39_word_underscore_4 | more_ribbon_phone_nerve |  
+| bip_39_word_underscore_5 | more_ribbon_phone_nerve_grit |  
+| bip_39_word_underscore_6 | more_ribbon_phone_nerve_grit_fee |  
+| bip_39_word_underscore_7 | more_ribbon_phone_nerve_grit_fee_account |  
+| bip_39_word_underscore_8 | more_ribbon_phone_nerve_grit_fee_account_control |  
+| bip_39_word_underscore_9 | more_ribbon_phone_nerve_grit_fee_account_control_include |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

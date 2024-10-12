@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | carbon |  
+| bip_39_word_dash_10 | carbon-next-false-insane-attitude-bacon-ready-hunt-tent-wonder |  
+| bip_39_word_dash_11 | carbon-next-false-insane-attitude-bacon-ready-hunt-tent-wonder-dolphin |  
+| bip_39_word_dash_12 | carbon-next-false-insane-attitude-bacon-ready-hunt-tent-wonder-dolphin-absorb |  
+| bip_39_word_dash_2 | carbon-next |  
+| bip_39_word_dash_3 | carbon-next-false |  
+| bip_39_word_dash_4 | carbon-next-false-insane |  
+| bip_39_word_dash_5 | carbon-next-false-insane-attitude |  
+| bip_39_word_dash_6 | carbon-next-false-insane-attitude-bacon |  
+| bip_39_word_dash_7 | carbon-next-false-insane-attitude-bacon-ready |  
+| bip_39_word_dash_8 | carbon-next-false-insane-attitude-bacon-ready-hunt |  
+| bip_39_word_dash_9 | carbon-next-false-insane-attitude-bacon-ready-hunt-tent |  
 | bip_39_word_new_br_1 | carbon |  
 | bip_39_word_new_br_10 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder |  
 | bip_39_word_new_br_11 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder<br>dolphin |  
@@ -147,6 +159,18 @@ tent |
 | bip_39_word_space_7 | carbon next false insane attitude bacon ready |  
 | bip_39_word_space_8 | carbon next false insane attitude bacon ready hunt |  
 | bip_39_word_space_9 | carbon next false insane attitude bacon ready hunt tent |  
+| bip_39_word_underscore_1 | carbon |  
+| bip_39_word_underscore_10 | carbon_next_false_insane_attitude_bacon_ready_hunt_tent_wonder |  
+| bip_39_word_underscore_11 | carbon_next_false_insane_attitude_bacon_ready_hunt_tent_wonder_dolphin |  
+| bip_39_word_underscore_12 | carbon_next_false_insane_attitude_bacon_ready_hunt_tent_wonder_dolphin_absorb |  
+| bip_39_word_underscore_2 | carbon_next |  
+| bip_39_word_underscore_3 | carbon_next_false |  
+| bip_39_word_underscore_4 | carbon_next_false_insane |  
+| bip_39_word_underscore_5 | carbon_next_false_insane_attitude |  
+| bip_39_word_underscore_6 | carbon_next_false_insane_attitude_bacon |  
+| bip_39_word_underscore_7 | carbon_next_false_insane_attitude_bacon_ready |  
+| bip_39_word_underscore_8 | carbon_next_false_insane_attitude_bacon_ready_hunt |  
+| bip_39_word_underscore_9 | carbon_next_false_insane_attitude_bacon_ready_hunt_tent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grid
+bip_39_word_dash_10: grid-fashion-open-cancel-submit-wild-canyon-canal-swear-jealous
+bip_39_word_dash_11: grid-fashion-open-cancel-submit-wild-canyon-canal-swear-jealous-noble
+bip_39_word_dash_12: grid-fashion-open-cancel-submit-wild-canyon-canal-swear-jealous-noble-aisle
+bip_39_word_dash_2: grid-fashion
+bip_39_word_dash_3: grid-fashion-open
+bip_39_word_dash_4: grid-fashion-open-cancel
+bip_39_word_dash_5: grid-fashion-open-cancel-submit
+bip_39_word_dash_6: grid-fashion-open-cancel-submit-wild
+bip_39_word_dash_7: grid-fashion-open-cancel-submit-wild-canyon
+bip_39_word_dash_8: grid-fashion-open-cancel-submit-wild-canyon-canal
+bip_39_word_dash_9: grid-fashion-open-cancel-submit-wild-canyon-canal-swear
 bip_39_word_new_br_1: grid
 bip_39_word_new_br_10: grid<br>fashion<br>open<br>cancel<br>submit<br>wild<br>canyon<br>canal<br>swear<br>jealous
 bip_39_word_new_br_11: grid<br>fashion<br>open<br>cancel<br>submit<br>wild<br>canyon<br>canal<br>swear<br>jealous<br>noble
@@ -193,6 +205,18 @@ bip_39_word_space_6: grid fashion open cancel submit wild
 bip_39_word_space_7: grid fashion open cancel submit wild canyon
 bip_39_word_space_8: grid fashion open cancel submit wild canyon canal
 bip_39_word_space_9: grid fashion open cancel submit wild canyon canal swear
+bip_39_word_underscore_1: grid
+bip_39_word_underscore_10: grid_fashion_open_cancel_submit_wild_canyon_canal_swear_jealous
+bip_39_word_underscore_11: grid_fashion_open_cancel_submit_wild_canyon_canal_swear_jealous_noble
+bip_39_word_underscore_12: grid_fashion_open_cancel_submit_wild_canyon_canal_swear_jealous_noble_aisle
+bip_39_word_underscore_2: grid_fashion
+bip_39_word_underscore_3: grid_fashion_open
+bip_39_word_underscore_4: grid_fashion_open_cancel
+bip_39_word_underscore_5: grid_fashion_open_cancel_submit
+bip_39_word_underscore_6: grid_fashion_open_cancel_submit_wild
+bip_39_word_underscore_7: grid_fashion_open_cancel_submit_wild_canyon
+bip_39_word_underscore_8: grid_fashion_open_cancel_submit_wild_canyon_canal
+bip_39_word_underscore_9: grid_fashion_open_cancel_submit_wild_canyon_canal_swear
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

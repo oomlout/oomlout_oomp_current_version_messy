@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | excess |  
+| bip_39_word_dash_10 | excess-adjust-crop-heavy-tobacco-matrix-cage-room-vocal-minute |  
+| bip_39_word_dash_11 | excess-adjust-crop-heavy-tobacco-matrix-cage-room-vocal-minute-doctor |  
+| bip_39_word_dash_12 | excess-adjust-crop-heavy-tobacco-matrix-cage-room-vocal-minute-doctor-accident |  
+| bip_39_word_dash_2 | excess-adjust |  
+| bip_39_word_dash_3 | excess-adjust-crop |  
+| bip_39_word_dash_4 | excess-adjust-crop-heavy |  
+| bip_39_word_dash_5 | excess-adjust-crop-heavy-tobacco |  
+| bip_39_word_dash_6 | excess-adjust-crop-heavy-tobacco-matrix |  
+| bip_39_word_dash_7 | excess-adjust-crop-heavy-tobacco-matrix-cage |  
+| bip_39_word_dash_8 | excess-adjust-crop-heavy-tobacco-matrix-cage-room |  
+| bip_39_word_dash_9 | excess-adjust-crop-heavy-tobacco-matrix-cage-room-vocal |  
 | bip_39_word_new_br_1 | excess |  
 | bip_39_word_new_br_10 | excess<br>adjust<br>crop<br>heavy<br>tobacco<br>matrix<br>cage<br>room<br>vocal<br>minute |  
 | bip_39_word_new_br_11 | excess<br>adjust<br>crop<br>heavy<br>tobacco<br>matrix<br>cage<br>room<br>vocal<br>minute<br>doctor |  
@@ -147,6 +159,18 @@ vocal |
 | bip_39_word_space_7 | excess adjust crop heavy tobacco matrix cage |  
 | bip_39_word_space_8 | excess adjust crop heavy tobacco matrix cage room |  
 | bip_39_word_space_9 | excess adjust crop heavy tobacco matrix cage room vocal |  
+| bip_39_word_underscore_1 | excess |  
+| bip_39_word_underscore_10 | excess_adjust_crop_heavy_tobacco_matrix_cage_room_vocal_minute |  
+| bip_39_word_underscore_11 | excess_adjust_crop_heavy_tobacco_matrix_cage_room_vocal_minute_doctor |  
+| bip_39_word_underscore_12 | excess_adjust_crop_heavy_tobacco_matrix_cage_room_vocal_minute_doctor_accident |  
+| bip_39_word_underscore_2 | excess_adjust |  
+| bip_39_word_underscore_3 | excess_adjust_crop |  
+| bip_39_word_underscore_4 | excess_adjust_crop_heavy |  
+| bip_39_word_underscore_5 | excess_adjust_crop_heavy_tobacco |  
+| bip_39_word_underscore_6 | excess_adjust_crop_heavy_tobacco_matrix |  
+| bip_39_word_underscore_7 | excess_adjust_crop_heavy_tobacco_matrix_cage |  
+| bip_39_word_underscore_8 | excess_adjust_crop_heavy_tobacco_matrix_cage_room |  
+| bip_39_word_underscore_9 | excess_adjust_crop_heavy_tobacco_matrix_cage_room_vocal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

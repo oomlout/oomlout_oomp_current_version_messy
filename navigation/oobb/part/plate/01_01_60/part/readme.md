@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chest |  
+| bip_39_word_dash_10 | chest-stuff-debate-vapor-angle-cancel-capable-phrase-news-ordinary |  
+| bip_39_word_dash_11 | chest-stuff-debate-vapor-angle-cancel-capable-phrase-news-ordinary-thank |  
+| bip_39_word_dash_12 | chest-stuff-debate-vapor-angle-cancel-capable-phrase-news-ordinary-thank-august |  
+| bip_39_word_dash_2 | chest-stuff |  
+| bip_39_word_dash_3 | chest-stuff-debate |  
+| bip_39_word_dash_4 | chest-stuff-debate-vapor |  
+| bip_39_word_dash_5 | chest-stuff-debate-vapor-angle |  
+| bip_39_word_dash_6 | chest-stuff-debate-vapor-angle-cancel |  
+| bip_39_word_dash_7 | chest-stuff-debate-vapor-angle-cancel-capable |  
+| bip_39_word_dash_8 | chest-stuff-debate-vapor-angle-cancel-capable-phrase |  
+| bip_39_word_dash_9 | chest-stuff-debate-vapor-angle-cancel-capable-phrase-news |  
 | bip_39_word_new_br_1 | chest |  
 | bip_39_word_new_br_10 | chest<br>stuff<br>debate<br>vapor<br>angle<br>cancel<br>capable<br>phrase<br>news<br>ordinary |  
 | bip_39_word_new_br_11 | chest<br>stuff<br>debate<br>vapor<br>angle<br>cancel<br>capable<br>phrase<br>news<br>ordinary<br>thank |  
@@ -147,6 +159,18 @@ news |
 | bip_39_word_space_7 | chest stuff debate vapor angle cancel capable |  
 | bip_39_word_space_8 | chest stuff debate vapor angle cancel capable phrase |  
 | bip_39_word_space_9 | chest stuff debate vapor angle cancel capable phrase news |  
+| bip_39_word_underscore_1 | chest |  
+| bip_39_word_underscore_10 | chest_stuff_debate_vapor_angle_cancel_capable_phrase_news_ordinary |  
+| bip_39_word_underscore_11 | chest_stuff_debate_vapor_angle_cancel_capable_phrase_news_ordinary_thank |  
+| bip_39_word_underscore_12 | chest_stuff_debate_vapor_angle_cancel_capable_phrase_news_ordinary_thank_august |  
+| bip_39_word_underscore_2 | chest_stuff |  
+| bip_39_word_underscore_3 | chest_stuff_debate |  
+| bip_39_word_underscore_4 | chest_stuff_debate_vapor |  
+| bip_39_word_underscore_5 | chest_stuff_debate_vapor_angle |  
+| bip_39_word_underscore_6 | chest_stuff_debate_vapor_angle_cancel |  
+| bip_39_word_underscore_7 | chest_stuff_debate_vapor_angle_cancel_capable |  
+| bip_39_word_underscore_8 | chest_stuff_debate_vapor_angle_cancel_capable_phrase |  
+| bip_39_word_underscore_9 | chest_stuff_debate_vapor_angle_cancel_capable_phrase_news |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

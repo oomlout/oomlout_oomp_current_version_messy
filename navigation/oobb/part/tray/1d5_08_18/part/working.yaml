@@ -1,3 +1,15 @@
+bip_39_word_dash_1: believe
+bip_39_word_dash_10: believe-flee-primary-return-impact-rescue-group-extend-early-soldier
+bip_39_word_dash_11: believe-flee-primary-return-impact-rescue-group-extend-early-soldier-hope
+bip_39_word_dash_12: believe-flee-primary-return-impact-rescue-group-extend-early-soldier-hope-alcohol
+bip_39_word_dash_2: believe-flee
+bip_39_word_dash_3: believe-flee-primary
+bip_39_word_dash_4: believe-flee-primary-return
+bip_39_word_dash_5: believe-flee-primary-return-impact
+bip_39_word_dash_6: believe-flee-primary-return-impact-rescue
+bip_39_word_dash_7: believe-flee-primary-return-impact-rescue-group
+bip_39_word_dash_8: believe-flee-primary-return-impact-rescue-group-extend
+bip_39_word_dash_9: believe-flee-primary-return-impact-rescue-group-extend-early
 bip_39_word_new_br_1: believe
 bip_39_word_new_br_10: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend<br>early<br>soldier
 bip_39_word_new_br_11: believe<br>flee<br>primary<br>return<br>impact<br>rescue<br>group<br>extend<br>early<br>soldier<br>hope
@@ -194,6 +206,18 @@ bip_39_word_space_6: believe flee primary return impact rescue
 bip_39_word_space_7: believe flee primary return impact rescue group
 bip_39_word_space_8: believe flee primary return impact rescue group extend
 bip_39_word_space_9: believe flee primary return impact rescue group extend early
+bip_39_word_underscore_1: believe
+bip_39_word_underscore_10: believe_flee_primary_return_impact_rescue_group_extend_early_soldier
+bip_39_word_underscore_11: believe_flee_primary_return_impact_rescue_group_extend_early_soldier_hope
+bip_39_word_underscore_12: believe_flee_primary_return_impact_rescue_group_extend_early_soldier_hope_alcohol
+bip_39_word_underscore_2: believe_flee
+bip_39_word_underscore_3: believe_flee_primary
+bip_39_word_underscore_4: believe_flee_primary_return
+bip_39_word_underscore_5: believe_flee_primary_return_impact
+bip_39_word_underscore_6: believe_flee_primary_return_impact_rescue
+bip_39_word_underscore_7: believe_flee_primary_return_impact_rescue_group
+bip_39_word_underscore_8: believe_flee_primary_return_impact_rescue_group_extend
+bip_39_word_underscore_9: believe_flee_primary_return_impact_rescue_group_extend_early
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

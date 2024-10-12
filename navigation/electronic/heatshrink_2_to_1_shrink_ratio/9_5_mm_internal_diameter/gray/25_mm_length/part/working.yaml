@@ -1,3 +1,15 @@
+bip_39_word_dash_1: group
+bip_39_word_dash_10: group-sheriff-inherit-enjoy-logic-grain-assault-change-flat-angle
+bip_39_word_dash_11: group-sheriff-inherit-enjoy-logic-grain-assault-change-flat-angle-census
+bip_39_word_dash_12: group-sheriff-inherit-enjoy-logic-grain-assault-change-flat-angle-census-action
+bip_39_word_dash_2: group-sheriff
+bip_39_word_dash_3: group-sheriff-inherit
+bip_39_word_dash_4: group-sheriff-inherit-enjoy
+bip_39_word_dash_5: group-sheriff-inherit-enjoy-logic
+bip_39_word_dash_6: group-sheriff-inherit-enjoy-logic-grain
+bip_39_word_dash_7: group-sheriff-inherit-enjoy-logic-grain-assault
+bip_39_word_dash_8: group-sheriff-inherit-enjoy-logic-grain-assault-change
+bip_39_word_dash_9: group-sheriff-inherit-enjoy-logic-grain-assault-change-flat
 bip_39_word_new_br_1: group
 bip_39_word_new_br_10: group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change<br>flat<br>angle
 bip_39_word_new_br_11: group<br>sheriff<br>inherit<br>enjoy<br>logic<br>grain<br>assault<br>change<br>flat<br>angle<br>census
@@ -194,6 +206,18 @@ bip_39_word_space_6: group sheriff inherit enjoy logic grain
 bip_39_word_space_7: group sheriff inherit enjoy logic grain assault
 bip_39_word_space_8: group sheriff inherit enjoy logic grain assault change
 bip_39_word_space_9: group sheriff inherit enjoy logic grain assault change flat
+bip_39_word_underscore_1: group
+bip_39_word_underscore_10: group_sheriff_inherit_enjoy_logic_grain_assault_change_flat_angle
+bip_39_word_underscore_11: group_sheriff_inherit_enjoy_logic_grain_assault_change_flat_angle_census
+bip_39_word_underscore_12: group_sheriff_inherit_enjoy_logic_grain_assault_change_flat_angle_census_action
+bip_39_word_underscore_2: group_sheriff
+bip_39_word_underscore_3: group_sheriff_inherit
+bip_39_word_underscore_4: group_sheriff_inherit_enjoy
+bip_39_word_underscore_5: group_sheriff_inherit_enjoy_logic
+bip_39_word_underscore_6: group_sheriff_inherit_enjoy_logic_grain
+bip_39_word_underscore_7: group_sheriff_inherit_enjoy_logic_grain_assault
+bip_39_word_underscore_8: group_sheriff_inherit_enjoy_logic_grain_assault_change
+bip_39_word_underscore_9: group_sheriff_inherit_enjoy_logic_grain_assault_change_flat
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | witness |  
+| bip_39_word_dash_10 | witness-tent-rapid-black-library-tired-mushroom-material-rare-upset |  
+| bip_39_word_dash_11 | witness-tent-rapid-black-library-tired-mushroom-material-rare-upset-beef |  
+| bip_39_word_dash_12 | witness-tent-rapid-black-library-tired-mushroom-material-rare-upset-beef-around |  
+| bip_39_word_dash_2 | witness-tent |  
+| bip_39_word_dash_3 | witness-tent-rapid |  
+| bip_39_word_dash_4 | witness-tent-rapid-black |  
+| bip_39_word_dash_5 | witness-tent-rapid-black-library |  
+| bip_39_word_dash_6 | witness-tent-rapid-black-library-tired |  
+| bip_39_word_dash_7 | witness-tent-rapid-black-library-tired-mushroom |  
+| bip_39_word_dash_8 | witness-tent-rapid-black-library-tired-mushroom-material |  
+| bip_39_word_dash_9 | witness-tent-rapid-black-library-tired-mushroom-material-rare |  
 | bip_39_word_new_br_1 | witness |  
 | bip_39_word_new_br_10 | witness<br>tent<br>rapid<br>black<br>library<br>tired<br>mushroom<br>material<br>rare<br>upset |  
 | bip_39_word_new_br_11 | witness<br>tent<br>rapid<br>black<br>library<br>tired<br>mushroom<br>material<br>rare<br>upset<br>beef |  
@@ -147,6 +159,18 @@ rare |
 | bip_39_word_space_7 | witness tent rapid black library tired mushroom |  
 | bip_39_word_space_8 | witness tent rapid black library tired mushroom material |  
 | bip_39_word_space_9 | witness tent rapid black library tired mushroom material rare |  
+| bip_39_word_underscore_1 | witness |  
+| bip_39_word_underscore_10 | witness_tent_rapid_black_library_tired_mushroom_material_rare_upset |  
+| bip_39_word_underscore_11 | witness_tent_rapid_black_library_tired_mushroom_material_rare_upset_beef |  
+| bip_39_word_underscore_12 | witness_tent_rapid_black_library_tired_mushroom_material_rare_upset_beef_around |  
+| bip_39_word_underscore_2 | witness_tent |  
+| bip_39_word_underscore_3 | witness_tent_rapid |  
+| bip_39_word_underscore_4 | witness_tent_rapid_black |  
+| bip_39_word_underscore_5 | witness_tent_rapid_black_library |  
+| bip_39_word_underscore_6 | witness_tent_rapid_black_library_tired |  
+| bip_39_word_underscore_7 | witness_tent_rapid_black_library_tired_mushroom |  
+| bip_39_word_underscore_8 | witness_tent_rapid_black_library_tired_mushroom_material |  
+| bip_39_word_underscore_9 | witness_tent_rapid_black_library_tired_mushroom_material_rare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

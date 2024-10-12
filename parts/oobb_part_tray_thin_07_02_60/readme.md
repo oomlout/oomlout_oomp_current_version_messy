@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enemy |  
+| bip_39_word_dash_10 | enemy-avocado-prefer-where-wolf-debate-frozen-then-segment-bench |  
+| bip_39_word_dash_11 | enemy-avocado-prefer-where-wolf-debate-frozen-then-segment-bench-over |  
+| bip_39_word_dash_12 | enemy-avocado-prefer-where-wolf-debate-frozen-then-segment-bench-over-addict |  
+| bip_39_word_dash_2 | enemy-avocado |  
+| bip_39_word_dash_3 | enemy-avocado-prefer |  
+| bip_39_word_dash_4 | enemy-avocado-prefer-where |  
+| bip_39_word_dash_5 | enemy-avocado-prefer-where-wolf |  
+| bip_39_word_dash_6 | enemy-avocado-prefer-where-wolf-debate |  
+| bip_39_word_dash_7 | enemy-avocado-prefer-where-wolf-debate-frozen |  
+| bip_39_word_dash_8 | enemy-avocado-prefer-where-wolf-debate-frozen-then |  
+| bip_39_word_dash_9 | enemy-avocado-prefer-where-wolf-debate-frozen-then-segment |  
 | bip_39_word_new_br_1 | enemy |  
 | bip_39_word_new_br_10 | enemy<br>avocado<br>prefer<br>where<br>wolf<br>debate<br>frozen<br>then<br>segment<br>bench |  
 | bip_39_word_new_br_11 | enemy<br>avocado<br>prefer<br>where<br>wolf<br>debate<br>frozen<br>then<br>segment<br>bench<br>over |  
@@ -147,6 +159,18 @@ segment |
 | bip_39_word_space_7 | enemy avocado prefer where wolf debate frozen |  
 | bip_39_word_space_8 | enemy avocado prefer where wolf debate frozen then |  
 | bip_39_word_space_9 | enemy avocado prefer where wolf debate frozen then segment |  
+| bip_39_word_underscore_1 | enemy |  
+| bip_39_word_underscore_10 | enemy_avocado_prefer_where_wolf_debate_frozen_then_segment_bench |  
+| bip_39_word_underscore_11 | enemy_avocado_prefer_where_wolf_debate_frozen_then_segment_bench_over |  
+| bip_39_word_underscore_12 | enemy_avocado_prefer_where_wolf_debate_frozen_then_segment_bench_over_addict |  
+| bip_39_word_underscore_2 | enemy_avocado |  
+| bip_39_word_underscore_3 | enemy_avocado_prefer |  
+| bip_39_word_underscore_4 | enemy_avocado_prefer_where |  
+| bip_39_word_underscore_5 | enemy_avocado_prefer_where_wolf |  
+| bip_39_word_underscore_6 | enemy_avocado_prefer_where_wolf_debate |  
+| bip_39_word_underscore_7 | enemy_avocado_prefer_where_wolf_debate_frozen |  
+| bip_39_word_underscore_8 | enemy_avocado_prefer_where_wolf_debate_frozen_then |  
+| bip_39_word_underscore_9 | enemy_avocado_prefer_where_wolf_debate_frozen_then_segment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

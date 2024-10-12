@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dance
+bip_39_word_dash_10: dance-toy-round-rookie-coil-gun-doctor-orphan-appear-number
+bip_39_word_dash_11: dance-toy-round-rookie-coil-gun-doctor-orphan-appear-number-honey
+bip_39_word_dash_12: dance-toy-round-rookie-coil-gun-doctor-orphan-appear-number-honey-accident
+bip_39_word_dash_2: dance-toy
+bip_39_word_dash_3: dance-toy-round
+bip_39_word_dash_4: dance-toy-round-rookie
+bip_39_word_dash_5: dance-toy-round-rookie-coil
+bip_39_word_dash_6: dance-toy-round-rookie-coil-gun
+bip_39_word_dash_7: dance-toy-round-rookie-coil-gun-doctor
+bip_39_word_dash_8: dance-toy-round-rookie-coil-gun-doctor-orphan
+bip_39_word_dash_9: dance-toy-round-rookie-coil-gun-doctor-orphan-appear
 bip_39_word_new_br_1: dance
 bip_39_word_new_br_10: dance<br>toy<br>round<br>rookie<br>coil<br>gun<br>doctor<br>orphan<br>appear<br>number
 bip_39_word_new_br_11: dance<br>toy<br>round<br>rookie<br>coil<br>gun<br>doctor<br>orphan<br>appear<br>number<br>honey
@@ -193,6 +205,18 @@ bip_39_word_space_6: dance toy round rookie coil gun
 bip_39_word_space_7: dance toy round rookie coil gun doctor
 bip_39_word_space_8: dance toy round rookie coil gun doctor orphan
 bip_39_word_space_9: dance toy round rookie coil gun doctor orphan appear
+bip_39_word_underscore_1: dance
+bip_39_word_underscore_10: dance_toy_round_rookie_coil_gun_doctor_orphan_appear_number
+bip_39_word_underscore_11: dance_toy_round_rookie_coil_gun_doctor_orphan_appear_number_honey
+bip_39_word_underscore_12: dance_toy_round_rookie_coil_gun_doctor_orphan_appear_number_honey_accident
+bip_39_word_underscore_2: dance_toy
+bip_39_word_underscore_3: dance_toy_round
+bip_39_word_underscore_4: dance_toy_round_rookie
+bip_39_word_underscore_5: dance_toy_round_rookie_coil
+bip_39_word_underscore_6: dance_toy_round_rookie_coil_gun
+bip_39_word_underscore_7: dance_toy_round_rookie_coil_gun_doctor
+bip_39_word_underscore_8: dance_toy_round_rookie_coil_gun_doctor_orphan
+bip_39_word_underscore_9: dance_toy_round_rookie_coil_gun_doctor_orphan_appear
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

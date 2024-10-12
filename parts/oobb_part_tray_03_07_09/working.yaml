@@ -1,3 +1,15 @@
+bip_39_word_dash_1: family
+bip_39_word_dash_10: family-equal-canoe-acoustic-code-coin-pull-celery-story-stadium
+bip_39_word_dash_11: family-equal-canoe-acoustic-code-coin-pull-celery-story-stadium-spot
+bip_39_word_dash_12: family-equal-canoe-acoustic-code-coin-pull-celery-story-stadium-spot-also
+bip_39_word_dash_2: family-equal
+bip_39_word_dash_3: family-equal-canoe
+bip_39_word_dash_4: family-equal-canoe-acoustic
+bip_39_word_dash_5: family-equal-canoe-acoustic-code
+bip_39_word_dash_6: family-equal-canoe-acoustic-code-coin
+bip_39_word_dash_7: family-equal-canoe-acoustic-code-coin-pull
+bip_39_word_dash_8: family-equal-canoe-acoustic-code-coin-pull-celery
+bip_39_word_dash_9: family-equal-canoe-acoustic-code-coin-pull-celery-story
 bip_39_word_new_br_1: family
 bip_39_word_new_br_10: family<br>equal<br>canoe<br>acoustic<br>code<br>coin<br>pull<br>celery<br>story<br>stadium
 bip_39_word_new_br_11: family<br>equal<br>canoe<br>acoustic<br>code<br>coin<br>pull<br>celery<br>story<br>stadium<br>spot
@@ -193,6 +205,18 @@ bip_39_word_space_6: family equal canoe acoustic code coin
 bip_39_word_space_7: family equal canoe acoustic code coin pull
 bip_39_word_space_8: family equal canoe acoustic code coin pull celery
 bip_39_word_space_9: family equal canoe acoustic code coin pull celery story
+bip_39_word_underscore_1: family
+bip_39_word_underscore_10: family_equal_canoe_acoustic_code_coin_pull_celery_story_stadium
+bip_39_word_underscore_11: family_equal_canoe_acoustic_code_coin_pull_celery_story_stadium_spot
+bip_39_word_underscore_12: family_equal_canoe_acoustic_code_coin_pull_celery_story_stadium_spot_also
+bip_39_word_underscore_2: family_equal
+bip_39_word_underscore_3: family_equal_canoe
+bip_39_word_underscore_4: family_equal_canoe_acoustic
+bip_39_word_underscore_5: family_equal_canoe_acoustic_code
+bip_39_word_underscore_6: family_equal_canoe_acoustic_code_coin
+bip_39_word_underscore_7: family_equal_canoe_acoustic_code_coin_pull
+bip_39_word_underscore_8: family_equal_canoe_acoustic_code_coin_pull_celery
+bip_39_word_underscore_9: family_equal_canoe_acoustic_code_coin_pull_celery_story
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

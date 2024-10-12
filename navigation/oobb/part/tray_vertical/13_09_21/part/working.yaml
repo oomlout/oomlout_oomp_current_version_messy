@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ordinary
+bip_39_word_dash_10: ordinary-type-sell-tortoise-cat-daughter-lake-tuition-frequent-spray
+bip_39_word_dash_11: ordinary-type-sell-tortoise-cat-daughter-lake-tuition-frequent-spray-smooth
+bip_39_word_dash_12: ordinary-type-sell-tortoise-cat-daughter-lake-tuition-frequent-spray-smooth-arrange
+bip_39_word_dash_2: ordinary-type
+bip_39_word_dash_3: ordinary-type-sell
+bip_39_word_dash_4: ordinary-type-sell-tortoise
+bip_39_word_dash_5: ordinary-type-sell-tortoise-cat
+bip_39_word_dash_6: ordinary-type-sell-tortoise-cat-daughter
+bip_39_word_dash_7: ordinary-type-sell-tortoise-cat-daughter-lake
+bip_39_word_dash_8: ordinary-type-sell-tortoise-cat-daughter-lake-tuition
+bip_39_word_dash_9: ordinary-type-sell-tortoise-cat-daughter-lake-tuition-frequent
 bip_39_word_new_br_1: ordinary
 bip_39_word_new_br_10: ordinary<br>type<br>sell<br>tortoise<br>cat<br>daughter<br>lake<br>tuition<br>frequent<br>spray
 bip_39_word_new_br_11: ordinary<br>type<br>sell<br>tortoise<br>cat<br>daughter<br>lake<br>tuition<br>frequent<br>spray<br>smooth
@@ -194,6 +206,18 @@ bip_39_word_space_6: ordinary type sell tortoise cat daughter
 bip_39_word_space_7: ordinary type sell tortoise cat daughter lake
 bip_39_word_space_8: ordinary type sell tortoise cat daughter lake tuition
 bip_39_word_space_9: ordinary type sell tortoise cat daughter lake tuition frequent
+bip_39_word_underscore_1: ordinary
+bip_39_word_underscore_10: ordinary_type_sell_tortoise_cat_daughter_lake_tuition_frequent_spray
+bip_39_word_underscore_11: ordinary_type_sell_tortoise_cat_daughter_lake_tuition_frequent_spray_smooth
+bip_39_word_underscore_12: ordinary_type_sell_tortoise_cat_daughter_lake_tuition_frequent_spray_smooth_arrange
+bip_39_word_underscore_2: ordinary_type
+bip_39_word_underscore_3: ordinary_type_sell
+bip_39_word_underscore_4: ordinary_type_sell_tortoise
+bip_39_word_underscore_5: ordinary_type_sell_tortoise_cat
+bip_39_word_underscore_6: ordinary_type_sell_tortoise_cat_daughter
+bip_39_word_underscore_7: ordinary_type_sell_tortoise_cat_daughter_lake
+bip_39_word_underscore_8: ordinary_type_sell_tortoise_cat_daughter_lake_tuition
+bip_39_word_underscore_9: ordinary_type_sell_tortoise_cat_daughter_lake_tuition_frequent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

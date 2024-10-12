@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | echo |  
+| bip_39_word_dash_10 | echo-cabin-wealth-replace-monster-limit-length-rice-oxygen-treat |  
+| bip_39_word_dash_11 | echo-cabin-wealth-replace-monster-limit-length-rice-oxygen-treat-ill |  
+| bip_39_word_dash_12 | echo-cabin-wealth-replace-monster-limit-length-rice-oxygen-treat-ill-action |  
+| bip_39_word_dash_2 | echo-cabin |  
+| bip_39_word_dash_3 | echo-cabin-wealth |  
+| bip_39_word_dash_4 | echo-cabin-wealth-replace |  
+| bip_39_word_dash_5 | echo-cabin-wealth-replace-monster |  
+| bip_39_word_dash_6 | echo-cabin-wealth-replace-monster-limit |  
+| bip_39_word_dash_7 | echo-cabin-wealth-replace-monster-limit-length |  
+| bip_39_word_dash_8 | echo-cabin-wealth-replace-monster-limit-length-rice |  
+| bip_39_word_dash_9 | echo-cabin-wealth-replace-monster-limit-length-rice-oxygen |  
 | bip_39_word_new_br_1 | echo |  
 | bip_39_word_new_br_10 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice<br>oxygen<br>treat |  
 | bip_39_word_new_br_11 | echo<br>cabin<br>wealth<br>replace<br>monster<br>limit<br>length<br>rice<br>oxygen<br>treat<br>ill |  
@@ -147,6 +159,18 @@ oxygen |
 | bip_39_word_space_7 | echo cabin wealth replace monster limit length |  
 | bip_39_word_space_8 | echo cabin wealth replace monster limit length rice |  
 | bip_39_word_space_9 | echo cabin wealth replace monster limit length rice oxygen |  
+| bip_39_word_underscore_1 | echo |  
+| bip_39_word_underscore_10 | echo_cabin_wealth_replace_monster_limit_length_rice_oxygen_treat |  
+| bip_39_word_underscore_11 | echo_cabin_wealth_replace_monster_limit_length_rice_oxygen_treat_ill |  
+| bip_39_word_underscore_12 | echo_cabin_wealth_replace_monster_limit_length_rice_oxygen_treat_ill_action |  
+| bip_39_word_underscore_2 | echo_cabin |  
+| bip_39_word_underscore_3 | echo_cabin_wealth |  
+| bip_39_word_underscore_4 | echo_cabin_wealth_replace |  
+| bip_39_word_underscore_5 | echo_cabin_wealth_replace_monster |  
+| bip_39_word_underscore_6 | echo_cabin_wealth_replace_monster_limit |  
+| bip_39_word_underscore_7 | echo_cabin_wealth_replace_monster_limit_length |  
+| bip_39_word_underscore_8 | echo_cabin_wealth_replace_monster_limit_length_rice |  
+| bip_39_word_underscore_9 | echo_cabin_wealth_replace_monster_limit_length_rice_oxygen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

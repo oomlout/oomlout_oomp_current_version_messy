@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | copy |  
+| bip_39_word_dash_10 | copy-kick-course-spice-marriage-swamp-wasp-middle-fabric-crane |  
+| bip_39_word_dash_11 | copy-kick-course-spice-marriage-swamp-wasp-middle-fabric-crane-trouble |  
+| bip_39_word_dash_12 | copy-kick-course-spice-marriage-swamp-wasp-middle-fabric-crane-trouble-above |  
+| bip_39_word_dash_2 | copy-kick |  
+| bip_39_word_dash_3 | copy-kick-course |  
+| bip_39_word_dash_4 | copy-kick-course-spice |  
+| bip_39_word_dash_5 | copy-kick-course-spice-marriage |  
+| bip_39_word_dash_6 | copy-kick-course-spice-marriage-swamp |  
+| bip_39_word_dash_7 | copy-kick-course-spice-marriage-swamp-wasp |  
+| bip_39_word_dash_8 | copy-kick-course-spice-marriage-swamp-wasp-middle |  
+| bip_39_word_dash_9 | copy-kick-course-spice-marriage-swamp-wasp-middle-fabric |  
 | bip_39_word_new_br_1 | copy |  
 | bip_39_word_new_br_10 | copy<br>kick<br>course<br>spice<br>marriage<br>swamp<br>wasp<br>middle<br>fabric<br>crane |  
 | bip_39_word_new_br_11 | copy<br>kick<br>course<br>spice<br>marriage<br>swamp<br>wasp<br>middle<br>fabric<br>crane<br>trouble |  
@@ -147,6 +159,18 @@ fabric |
 | bip_39_word_space_7 | copy kick course spice marriage swamp wasp |  
 | bip_39_word_space_8 | copy kick course spice marriage swamp wasp middle |  
 | bip_39_word_space_9 | copy kick course spice marriage swamp wasp middle fabric |  
+| bip_39_word_underscore_1 | copy |  
+| bip_39_word_underscore_10 | copy_kick_course_spice_marriage_swamp_wasp_middle_fabric_crane |  
+| bip_39_word_underscore_11 | copy_kick_course_spice_marriage_swamp_wasp_middle_fabric_crane_trouble |  
+| bip_39_word_underscore_12 | copy_kick_course_spice_marriage_swamp_wasp_middle_fabric_crane_trouble_above |  
+| bip_39_word_underscore_2 | copy_kick |  
+| bip_39_word_underscore_3 | copy_kick_course |  
+| bip_39_word_underscore_4 | copy_kick_course_spice |  
+| bip_39_word_underscore_5 | copy_kick_course_spice_marriage |  
+| bip_39_word_underscore_6 | copy_kick_course_spice_marriage_swamp |  
+| bip_39_word_underscore_7 | copy_kick_course_spice_marriage_swamp_wasp |  
+| bip_39_word_underscore_8 | copy_kick_course_spice_marriage_swamp_wasp_middle |  
+| bip_39_word_underscore_9 | copy_kick_course_spice_marriage_swamp_wasp_middle_fabric |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

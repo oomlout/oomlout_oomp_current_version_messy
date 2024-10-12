@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bottom |  
+| bip_39_word_dash_10 | bottom-stamp-cushion-upset-need-knife-squeeze-castle-roast-bargain |  
+| bip_39_word_dash_11 | bottom-stamp-cushion-upset-need-knife-squeeze-castle-roast-bargain-dash |  
+| bip_39_word_dash_12 | bottom-stamp-cushion-upset-need-knife-squeeze-castle-roast-bargain-dash-assume |  
+| bip_39_word_dash_2 | bottom-stamp |  
+| bip_39_word_dash_3 | bottom-stamp-cushion |  
+| bip_39_word_dash_4 | bottom-stamp-cushion-upset |  
+| bip_39_word_dash_5 | bottom-stamp-cushion-upset-need |  
+| bip_39_word_dash_6 | bottom-stamp-cushion-upset-need-knife |  
+| bip_39_word_dash_7 | bottom-stamp-cushion-upset-need-knife-squeeze |  
+| bip_39_word_dash_8 | bottom-stamp-cushion-upset-need-knife-squeeze-castle |  
+| bip_39_word_dash_9 | bottom-stamp-cushion-upset-need-knife-squeeze-castle-roast |  
 | bip_39_word_new_br_1 | bottom |  
 | bip_39_word_new_br_10 | bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle<br>roast<br>bargain |  
 | bip_39_word_new_br_11 | bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle<br>roast<br>bargain<br>dash |  
@@ -147,6 +159,18 @@ roast |
 | bip_39_word_space_7 | bottom stamp cushion upset need knife squeeze |  
 | bip_39_word_space_8 | bottom stamp cushion upset need knife squeeze castle |  
 | bip_39_word_space_9 | bottom stamp cushion upset need knife squeeze castle roast |  
+| bip_39_word_underscore_1 | bottom |  
+| bip_39_word_underscore_10 | bottom_stamp_cushion_upset_need_knife_squeeze_castle_roast_bargain |  
+| bip_39_word_underscore_11 | bottom_stamp_cushion_upset_need_knife_squeeze_castle_roast_bargain_dash |  
+| bip_39_word_underscore_12 | bottom_stamp_cushion_upset_need_knife_squeeze_castle_roast_bargain_dash_assume |  
+| bip_39_word_underscore_2 | bottom_stamp |  
+| bip_39_word_underscore_3 | bottom_stamp_cushion |  
+| bip_39_word_underscore_4 | bottom_stamp_cushion_upset |  
+| bip_39_word_underscore_5 | bottom_stamp_cushion_upset_need |  
+| bip_39_word_underscore_6 | bottom_stamp_cushion_upset_need_knife |  
+| bip_39_word_underscore_7 | bottom_stamp_cushion_upset_need_knife_squeeze |  
+| bip_39_word_underscore_8 | bottom_stamp_cushion_upset_need_knife_squeeze_castle |  
+| bip_39_word_underscore_9 | bottom_stamp_cushion_upset_need_knife_squeeze_castle_roast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

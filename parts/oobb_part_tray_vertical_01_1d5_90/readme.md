@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gather |  
+| bip_39_word_dash_10 | gather-entry-hill-stamp-when-fever-laugh-interest-process-express |  
+| bip_39_word_dash_11 | gather-entry-hill-stamp-when-fever-laugh-interest-process-express-monkey |  
+| bip_39_word_dash_12 | gather-entry-hill-stamp-when-fever-laugh-interest-process-express-monkey-above |  
+| bip_39_word_dash_2 | gather-entry |  
+| bip_39_word_dash_3 | gather-entry-hill |  
+| bip_39_word_dash_4 | gather-entry-hill-stamp |  
+| bip_39_word_dash_5 | gather-entry-hill-stamp-when |  
+| bip_39_word_dash_6 | gather-entry-hill-stamp-when-fever |  
+| bip_39_word_dash_7 | gather-entry-hill-stamp-when-fever-laugh |  
+| bip_39_word_dash_8 | gather-entry-hill-stamp-when-fever-laugh-interest |  
+| bip_39_word_dash_9 | gather-entry-hill-stamp-when-fever-laugh-interest-process |  
 | bip_39_word_new_br_1 | gather |  
 | bip_39_word_new_br_10 | gather<br>entry<br>hill<br>stamp<br>when<br>fever<br>laugh<br>interest<br>process<br>express |  
 | bip_39_word_new_br_11 | gather<br>entry<br>hill<br>stamp<br>when<br>fever<br>laugh<br>interest<br>process<br>express<br>monkey |  
@@ -147,6 +159,18 @@ process |
 | bip_39_word_space_7 | gather entry hill stamp when fever laugh |  
 | bip_39_word_space_8 | gather entry hill stamp when fever laugh interest |  
 | bip_39_word_space_9 | gather entry hill stamp when fever laugh interest process |  
+| bip_39_word_underscore_1 | gather |  
+| bip_39_word_underscore_10 | gather_entry_hill_stamp_when_fever_laugh_interest_process_express |  
+| bip_39_word_underscore_11 | gather_entry_hill_stamp_when_fever_laugh_interest_process_express_monkey |  
+| bip_39_word_underscore_12 | gather_entry_hill_stamp_when_fever_laugh_interest_process_express_monkey_above |  
+| bip_39_word_underscore_2 | gather_entry |  
+| bip_39_word_underscore_3 | gather_entry_hill |  
+| bip_39_word_underscore_4 | gather_entry_hill_stamp |  
+| bip_39_word_underscore_5 | gather_entry_hill_stamp_when |  
+| bip_39_word_underscore_6 | gather_entry_hill_stamp_when_fever |  
+| bip_39_word_underscore_7 | gather_entry_hill_stamp_when_fever_laugh |  
+| bip_39_word_underscore_8 | gather_entry_hill_stamp_when_fever_laugh_interest |  
+| bip_39_word_underscore_9 | gather_entry_hill_stamp_when_fever_laugh_interest_process |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

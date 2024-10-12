@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | control |  
+| bip_39_word_dash_10 | control-alley-member-search-vicious-close-car-mean-success-frost |  
+| bip_39_word_dash_11 | control-alley-member-search-vicious-close-car-mean-success-frost-boss |  
+| bip_39_word_dash_12 | control-alley-member-search-vicious-close-car-mean-success-frost-boss-auction |  
+| bip_39_word_dash_2 | control-alley |  
+| bip_39_word_dash_3 | control-alley-member |  
+| bip_39_word_dash_4 | control-alley-member-search |  
+| bip_39_word_dash_5 | control-alley-member-search-vicious |  
+| bip_39_word_dash_6 | control-alley-member-search-vicious-close |  
+| bip_39_word_dash_7 | control-alley-member-search-vicious-close-car |  
+| bip_39_word_dash_8 | control-alley-member-search-vicious-close-car-mean |  
+| bip_39_word_dash_9 | control-alley-member-search-vicious-close-car-mean-success |  
 | bip_39_word_new_br_1 | control |  
 | bip_39_word_new_br_10 | control<br>alley<br>member<br>search<br>vicious<br>close<br>car<br>mean<br>success<br>frost |  
 | bip_39_word_new_br_11 | control<br>alley<br>member<br>search<br>vicious<br>close<br>car<br>mean<br>success<br>frost<br>boss |  
@@ -147,6 +159,18 @@ success |
 | bip_39_word_space_7 | control alley member search vicious close car |  
 | bip_39_word_space_8 | control alley member search vicious close car mean |  
 | bip_39_word_space_9 | control alley member search vicious close car mean success |  
+| bip_39_word_underscore_1 | control |  
+| bip_39_word_underscore_10 | control_alley_member_search_vicious_close_car_mean_success_frost |  
+| bip_39_word_underscore_11 | control_alley_member_search_vicious_close_car_mean_success_frost_boss |  
+| bip_39_word_underscore_12 | control_alley_member_search_vicious_close_car_mean_success_frost_boss_auction |  
+| bip_39_word_underscore_2 | control_alley |  
+| bip_39_word_underscore_3 | control_alley_member |  
+| bip_39_word_underscore_4 | control_alley_member_search |  
+| bip_39_word_underscore_5 | control_alley_member_search_vicious |  
+| bip_39_word_underscore_6 | control_alley_member_search_vicious_close |  
+| bip_39_word_underscore_7 | control_alley_member_search_vicious_close_car |  
+| bip_39_word_underscore_8 | control_alley_member_search_vicious_close_car_mean |  
+| bip_39_word_underscore_9 | control_alley_member_search_vicious_close_car_mean_success |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

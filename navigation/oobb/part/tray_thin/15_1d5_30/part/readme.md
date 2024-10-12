@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | moon |  
+| bip_39_word_dash_10 | moon-dress-friend-end-whale-post-fun-seek-have-kangaroo |  
+| bip_39_word_dash_11 | moon-dress-friend-end-whale-post-fun-seek-have-kangaroo-ankle |  
+| bip_39_word_dash_12 | moon-dress-friend-end-whale-post-fun-seek-have-kangaroo-ankle-accident |  
+| bip_39_word_dash_2 | moon-dress |  
+| bip_39_word_dash_3 | moon-dress-friend |  
+| bip_39_word_dash_4 | moon-dress-friend-end |  
+| bip_39_word_dash_5 | moon-dress-friend-end-whale |  
+| bip_39_word_dash_6 | moon-dress-friend-end-whale-post |  
+| bip_39_word_dash_7 | moon-dress-friend-end-whale-post-fun |  
+| bip_39_word_dash_8 | moon-dress-friend-end-whale-post-fun-seek |  
+| bip_39_word_dash_9 | moon-dress-friend-end-whale-post-fun-seek-have |  
 | bip_39_word_new_br_1 | moon |  
 | bip_39_word_new_br_10 | moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek<br>have<br>kangaroo |  
 | bip_39_word_new_br_11 | moon<br>dress<br>friend<br>end<br>whale<br>post<br>fun<br>seek<br>have<br>kangaroo<br>ankle |  
@@ -147,6 +159,18 @@ have |
 | bip_39_word_space_7 | moon dress friend end whale post fun |  
 | bip_39_word_space_8 | moon dress friend end whale post fun seek |  
 | bip_39_word_space_9 | moon dress friend end whale post fun seek have |  
+| bip_39_word_underscore_1 | moon |  
+| bip_39_word_underscore_10 | moon_dress_friend_end_whale_post_fun_seek_have_kangaroo |  
+| bip_39_word_underscore_11 | moon_dress_friend_end_whale_post_fun_seek_have_kangaroo_ankle |  
+| bip_39_word_underscore_12 | moon_dress_friend_end_whale_post_fun_seek_have_kangaroo_ankle_accident |  
+| bip_39_word_underscore_2 | moon_dress |  
+| bip_39_word_underscore_3 | moon_dress_friend |  
+| bip_39_word_underscore_4 | moon_dress_friend_end |  
+| bip_39_word_underscore_5 | moon_dress_friend_end_whale |  
+| bip_39_word_underscore_6 | moon_dress_friend_end_whale_post |  
+| bip_39_word_underscore_7 | moon_dress_friend_end_whale_post_fun |  
+| bip_39_word_underscore_8 | moon_dress_friend_end_whale_post_fun_seek |  
+| bip_39_word_underscore_9 | moon_dress_friend_end_whale_post_fun_seek_have |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

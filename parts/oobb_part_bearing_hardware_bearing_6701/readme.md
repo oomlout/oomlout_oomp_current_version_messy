@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exhaust |  
+| bip_39_word_dash_10 | exhaust-oven-strategy-slot-fringe-sausage-stairs-evil-expect-click |  
+| bip_39_word_dash_11 | exhaust-oven-strategy-slot-fringe-sausage-stairs-evil-expect-click-trigger |  
+| bip_39_word_dash_12 | exhaust-oven-strategy-slot-fringe-sausage-stairs-evil-expect-click-trigger-angle |  
+| bip_39_word_dash_2 | exhaust-oven |  
+| bip_39_word_dash_3 | exhaust-oven-strategy |  
+| bip_39_word_dash_4 | exhaust-oven-strategy-slot |  
+| bip_39_word_dash_5 | exhaust-oven-strategy-slot-fringe |  
+| bip_39_word_dash_6 | exhaust-oven-strategy-slot-fringe-sausage |  
+| bip_39_word_dash_7 | exhaust-oven-strategy-slot-fringe-sausage-stairs |  
+| bip_39_word_dash_8 | exhaust-oven-strategy-slot-fringe-sausage-stairs-evil |  
+| bip_39_word_dash_9 | exhaust-oven-strategy-slot-fringe-sausage-stairs-evil-expect |  
 | bip_39_word_new_br_1 | exhaust |  
 | bip_39_word_new_br_10 | exhaust<br>oven<br>strategy<br>slot<br>fringe<br>sausage<br>stairs<br>evil<br>expect<br>click |  
 | bip_39_word_new_br_11 | exhaust<br>oven<br>strategy<br>slot<br>fringe<br>sausage<br>stairs<br>evil<br>expect<br>click<br>trigger |  
@@ -147,6 +159,18 @@ expect |
 | bip_39_word_space_7 | exhaust oven strategy slot fringe sausage stairs |  
 | bip_39_word_space_8 | exhaust oven strategy slot fringe sausage stairs evil |  
 | bip_39_word_space_9 | exhaust oven strategy slot fringe sausage stairs evil expect |  
+| bip_39_word_underscore_1 | exhaust |  
+| bip_39_word_underscore_10 | exhaust_oven_strategy_slot_fringe_sausage_stairs_evil_expect_click |  
+| bip_39_word_underscore_11 | exhaust_oven_strategy_slot_fringe_sausage_stairs_evil_expect_click_trigger |  
+| bip_39_word_underscore_12 | exhaust_oven_strategy_slot_fringe_sausage_stairs_evil_expect_click_trigger_angle |  
+| bip_39_word_underscore_2 | exhaust_oven |  
+| bip_39_word_underscore_3 | exhaust_oven_strategy |  
+| bip_39_word_underscore_4 | exhaust_oven_strategy_slot |  
+| bip_39_word_underscore_5 | exhaust_oven_strategy_slot_fringe |  
+| bip_39_word_underscore_6 | exhaust_oven_strategy_slot_fringe_sausage |  
+| bip_39_word_underscore_7 | exhaust_oven_strategy_slot_fringe_sausage_stairs |  
+| bip_39_word_underscore_8 | exhaust_oven_strategy_slot_fringe_sausage_stairs_evil |  
+| bip_39_word_underscore_9 | exhaust_oven_strategy_slot_fringe_sausage_stairs_evil_expect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

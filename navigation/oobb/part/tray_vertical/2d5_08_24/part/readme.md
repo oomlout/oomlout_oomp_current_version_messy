@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | yellow |  
+| bip_39_word_dash_10 | yellow-parent-isolate-diary-sauce-wing-dumb-step-radio-ice |  
+| bip_39_word_dash_11 | yellow-parent-isolate-diary-sauce-wing-dumb-step-radio-ice-balance |  
+| bip_39_word_dash_12 | yellow-parent-isolate-diary-sauce-wing-dumb-step-radio-ice-balance-another |  
+| bip_39_word_dash_2 | yellow-parent |  
+| bip_39_word_dash_3 | yellow-parent-isolate |  
+| bip_39_word_dash_4 | yellow-parent-isolate-diary |  
+| bip_39_word_dash_5 | yellow-parent-isolate-diary-sauce |  
+| bip_39_word_dash_6 | yellow-parent-isolate-diary-sauce-wing |  
+| bip_39_word_dash_7 | yellow-parent-isolate-diary-sauce-wing-dumb |  
+| bip_39_word_dash_8 | yellow-parent-isolate-diary-sauce-wing-dumb-step |  
+| bip_39_word_dash_9 | yellow-parent-isolate-diary-sauce-wing-dumb-step-radio |  
 | bip_39_word_new_br_1 | yellow |  
 | bip_39_word_new_br_10 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice |  
 | bip_39_word_new_br_11 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice<br>balance |  
@@ -147,6 +159,18 @@ radio |
 | bip_39_word_space_7 | yellow parent isolate diary sauce wing dumb |  
 | bip_39_word_space_8 | yellow parent isolate diary sauce wing dumb step |  
 | bip_39_word_space_9 | yellow parent isolate diary sauce wing dumb step radio |  
+| bip_39_word_underscore_1 | yellow |  
+| bip_39_word_underscore_10 | yellow_parent_isolate_diary_sauce_wing_dumb_step_radio_ice |  
+| bip_39_word_underscore_11 | yellow_parent_isolate_diary_sauce_wing_dumb_step_radio_ice_balance |  
+| bip_39_word_underscore_12 | yellow_parent_isolate_diary_sauce_wing_dumb_step_radio_ice_balance_another |  
+| bip_39_word_underscore_2 | yellow_parent |  
+| bip_39_word_underscore_3 | yellow_parent_isolate |  
+| bip_39_word_underscore_4 | yellow_parent_isolate_diary |  
+| bip_39_word_underscore_5 | yellow_parent_isolate_diary_sauce |  
+| bip_39_word_underscore_6 | yellow_parent_isolate_diary_sauce_wing |  
+| bip_39_word_underscore_7 | yellow_parent_isolate_diary_sauce_wing_dumb |  
+| bip_39_word_underscore_8 | yellow_parent_isolate_diary_sauce_wing_dumb_step |  
+| bip_39_word_underscore_9 | yellow_parent_isolate_diary_sauce_wing_dumb_step_radio |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

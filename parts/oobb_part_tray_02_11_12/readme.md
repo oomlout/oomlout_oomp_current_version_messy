@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decline |  
+| bip_39_word_dash_10 | decline-extra-curtain-panda-feel-blast-dash-stem-shrug-holiday |  
+| bip_39_word_dash_11 | decline-extra-curtain-panda-feel-blast-dash-stem-shrug-holiday-want |  
+| bip_39_word_dash_12 | decline-extra-curtain-panda-feel-blast-dash-stem-shrug-holiday-want-art |  
+| bip_39_word_dash_2 | decline-extra |  
+| bip_39_word_dash_3 | decline-extra-curtain |  
+| bip_39_word_dash_4 | decline-extra-curtain-panda |  
+| bip_39_word_dash_5 | decline-extra-curtain-panda-feel |  
+| bip_39_word_dash_6 | decline-extra-curtain-panda-feel-blast |  
+| bip_39_word_dash_7 | decline-extra-curtain-panda-feel-blast-dash |  
+| bip_39_word_dash_8 | decline-extra-curtain-panda-feel-blast-dash-stem |  
+| bip_39_word_dash_9 | decline-extra-curtain-panda-feel-blast-dash-stem-shrug |  
 | bip_39_word_new_br_1 | decline |  
 | bip_39_word_new_br_10 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday |  
 | bip_39_word_new_br_11 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday<br>want |  
@@ -147,6 +159,18 @@ shrug |
 | bip_39_word_space_7 | decline extra curtain panda feel blast dash |  
 | bip_39_word_space_8 | decline extra curtain panda feel blast dash stem |  
 | bip_39_word_space_9 | decline extra curtain panda feel blast dash stem shrug |  
+| bip_39_word_underscore_1 | decline |  
+| bip_39_word_underscore_10 | decline_extra_curtain_panda_feel_blast_dash_stem_shrug_holiday |  
+| bip_39_word_underscore_11 | decline_extra_curtain_panda_feel_blast_dash_stem_shrug_holiday_want |  
+| bip_39_word_underscore_12 | decline_extra_curtain_panda_feel_blast_dash_stem_shrug_holiday_want_art |  
+| bip_39_word_underscore_2 | decline_extra |  
+| bip_39_word_underscore_3 | decline_extra_curtain |  
+| bip_39_word_underscore_4 | decline_extra_curtain_panda |  
+| bip_39_word_underscore_5 | decline_extra_curtain_panda_feel |  
+| bip_39_word_underscore_6 | decline_extra_curtain_panda_feel_blast |  
+| bip_39_word_underscore_7 | decline_extra_curtain_panda_feel_blast_dash |  
+| bip_39_word_underscore_8 | decline_extra_curtain_panda_feel_blast_dash_stem |  
+| bip_39_word_underscore_9 | decline_extra_curtain_panda_feel_blast_dash_stem_shrug |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

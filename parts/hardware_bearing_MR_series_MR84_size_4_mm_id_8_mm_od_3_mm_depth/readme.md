@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erupt |  
+| bip_39_word_dash_10 | erupt-daughter-upper-slot-peasant-pioneer-tone-boat-silk-era |  
+| bip_39_word_dash_11 | erupt-daughter-upper-slot-peasant-pioneer-tone-boat-silk-era-champion |  
+| bip_39_word_dash_12 | erupt-daughter-upper-slot-peasant-pioneer-tone-boat-silk-era-champion-affair |  
+| bip_39_word_dash_2 | erupt-daughter |  
+| bip_39_word_dash_3 | erupt-daughter-upper |  
+| bip_39_word_dash_4 | erupt-daughter-upper-slot |  
+| bip_39_word_dash_5 | erupt-daughter-upper-slot-peasant |  
+| bip_39_word_dash_6 | erupt-daughter-upper-slot-peasant-pioneer |  
+| bip_39_word_dash_7 | erupt-daughter-upper-slot-peasant-pioneer-tone |  
+| bip_39_word_dash_8 | erupt-daughter-upper-slot-peasant-pioneer-tone-boat |  
+| bip_39_word_dash_9 | erupt-daughter-upper-slot-peasant-pioneer-tone-boat-silk |  
 | bip_39_word_new_br_1 | erupt |  
 | bip_39_word_new_br_10 | erupt<br>daughter<br>upper<br>slot<br>peasant<br>pioneer<br>tone<br>boat<br>silk<br>era |  
 | bip_39_word_new_br_11 | erupt<br>daughter<br>upper<br>slot<br>peasant<br>pioneer<br>tone<br>boat<br>silk<br>era<br>champion |  
@@ -147,6 +159,18 @@ silk |
 | bip_39_word_space_7 | erupt daughter upper slot peasant pioneer tone |  
 | bip_39_word_space_8 | erupt daughter upper slot peasant pioneer tone boat |  
 | bip_39_word_space_9 | erupt daughter upper slot peasant pioneer tone boat silk |  
+| bip_39_word_underscore_1 | erupt |  
+| bip_39_word_underscore_10 | erupt_daughter_upper_slot_peasant_pioneer_tone_boat_silk_era |  
+| bip_39_word_underscore_11 | erupt_daughter_upper_slot_peasant_pioneer_tone_boat_silk_era_champion |  
+| bip_39_word_underscore_12 | erupt_daughter_upper_slot_peasant_pioneer_tone_boat_silk_era_champion_affair |  
+| bip_39_word_underscore_2 | erupt_daughter |  
+| bip_39_word_underscore_3 | erupt_daughter_upper |  
+| bip_39_word_underscore_4 | erupt_daughter_upper_slot |  
+| bip_39_word_underscore_5 | erupt_daughter_upper_slot_peasant |  
+| bip_39_word_underscore_6 | erupt_daughter_upper_slot_peasant_pioneer |  
+| bip_39_word_underscore_7 | erupt_daughter_upper_slot_peasant_pioneer_tone |  
+| bip_39_word_underscore_8 | erupt_daughter_upper_slot_peasant_pioneer_tone_boat |  
+| bip_39_word_underscore_9 | erupt_daughter_upper_slot_peasant_pioneer_tone_boat_silk |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | apart |  
+| bip_39_word_dash_10 | apart-submit-cat-snake-reveal-excuse-keep-village-clog-absorb |  
+| bip_39_word_dash_11 | apart-submit-cat-snake-reveal-excuse-keep-village-clog-absorb-idle |  
+| bip_39_word_dash_12 | apart-submit-cat-snake-reveal-excuse-keep-village-clog-absorb-idle-achieve |  
+| bip_39_word_dash_2 | apart-submit |  
+| bip_39_word_dash_3 | apart-submit-cat |  
+| bip_39_word_dash_4 | apart-submit-cat-snake |  
+| bip_39_word_dash_5 | apart-submit-cat-snake-reveal |  
+| bip_39_word_dash_6 | apart-submit-cat-snake-reveal-excuse |  
+| bip_39_word_dash_7 | apart-submit-cat-snake-reveal-excuse-keep |  
+| bip_39_word_dash_8 | apart-submit-cat-snake-reveal-excuse-keep-village |  
+| bip_39_word_dash_9 | apart-submit-cat-snake-reveal-excuse-keep-village-clog |  
 | bip_39_word_new_br_1 | apart |  
 | bip_39_word_new_br_10 | apart<br>submit<br>cat<br>snake<br>reveal<br>excuse<br>keep<br>village<br>clog<br>absorb |  
 | bip_39_word_new_br_11 | apart<br>submit<br>cat<br>snake<br>reveal<br>excuse<br>keep<br>village<br>clog<br>absorb<br>idle |  
@@ -147,6 +159,18 @@ clog |
 | bip_39_word_space_7 | apart submit cat snake reveal excuse keep |  
 | bip_39_word_space_8 | apart submit cat snake reveal excuse keep village |  
 | bip_39_word_space_9 | apart submit cat snake reveal excuse keep village clog |  
+| bip_39_word_underscore_1 | apart |  
+| bip_39_word_underscore_10 | apart_submit_cat_snake_reveal_excuse_keep_village_clog_absorb |  
+| bip_39_word_underscore_11 | apart_submit_cat_snake_reveal_excuse_keep_village_clog_absorb_idle |  
+| bip_39_word_underscore_12 | apart_submit_cat_snake_reveal_excuse_keep_village_clog_absorb_idle_achieve |  
+| bip_39_word_underscore_2 | apart_submit |  
+| bip_39_word_underscore_3 | apart_submit_cat |  
+| bip_39_word_underscore_4 | apart_submit_cat_snake |  
+| bip_39_word_underscore_5 | apart_submit_cat_snake_reveal |  
+| bip_39_word_underscore_6 | apart_submit_cat_snake_reveal_excuse |  
+| bip_39_word_underscore_7 | apart_submit_cat_snake_reveal_excuse_keep |  
+| bip_39_word_underscore_8 | apart_submit_cat_snake_reveal_excuse_keep_village |  
+| bip_39_word_underscore_9 | apart_submit_cat_snake_reveal_excuse_keep_village_clog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

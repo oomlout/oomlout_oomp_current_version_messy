@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crush |  
+| bip_39_word_dash_10 | crush-output-mistake-team-forward-lab-volume-wool-color-bring |  
+| bip_39_word_dash_11 | crush-output-mistake-team-forward-lab-volume-wool-color-bring-present |  
+| bip_39_word_dash_12 | crush-output-mistake-team-forward-lab-volume-wool-color-bring-present-allow |  
+| bip_39_word_dash_2 | crush-output |  
+| bip_39_word_dash_3 | crush-output-mistake |  
+| bip_39_word_dash_4 | crush-output-mistake-team |  
+| bip_39_word_dash_5 | crush-output-mistake-team-forward |  
+| bip_39_word_dash_6 | crush-output-mistake-team-forward-lab |  
+| bip_39_word_dash_7 | crush-output-mistake-team-forward-lab-volume |  
+| bip_39_word_dash_8 | crush-output-mistake-team-forward-lab-volume-wool |  
+| bip_39_word_dash_9 | crush-output-mistake-team-forward-lab-volume-wool-color |  
 | bip_39_word_new_br_1 | crush |  
 | bip_39_word_new_br_10 | crush<br>output<br>mistake<br>team<br>forward<br>lab<br>volume<br>wool<br>color<br>bring |  
 | bip_39_word_new_br_11 | crush<br>output<br>mistake<br>team<br>forward<br>lab<br>volume<br>wool<br>color<br>bring<br>present |  
@@ -147,6 +159,18 @@ color |
 | bip_39_word_space_7 | crush output mistake team forward lab volume |  
 | bip_39_word_space_8 | crush output mistake team forward lab volume wool |  
 | bip_39_word_space_9 | crush output mistake team forward lab volume wool color |  
+| bip_39_word_underscore_1 | crush |  
+| bip_39_word_underscore_10 | crush_output_mistake_team_forward_lab_volume_wool_color_bring |  
+| bip_39_word_underscore_11 | crush_output_mistake_team_forward_lab_volume_wool_color_bring_present |  
+| bip_39_word_underscore_12 | crush_output_mistake_team_forward_lab_volume_wool_color_bring_present_allow |  
+| bip_39_word_underscore_2 | crush_output |  
+| bip_39_word_underscore_3 | crush_output_mistake |  
+| bip_39_word_underscore_4 | crush_output_mistake_team |  
+| bip_39_word_underscore_5 | crush_output_mistake_team_forward |  
+| bip_39_word_underscore_6 | crush_output_mistake_team_forward_lab |  
+| bip_39_word_underscore_7 | crush_output_mistake_team_forward_lab_volume |  
+| bip_39_word_underscore_8 | crush_output_mistake_team_forward_lab_volume_wool |  
+| bip_39_word_underscore_9 | crush_output_mistake_team_forward_lab_volume_wool_color |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | car |  
+| bip_39_word_dash_10 | car-robust-uncle-agent-jaguar-nation-chef-hurry-master-normal |  
+| bip_39_word_dash_11 | car-robust-uncle-agent-jaguar-nation-chef-hurry-master-normal-bird |  
+| bip_39_word_dash_12 | car-robust-uncle-agent-jaguar-nation-chef-hurry-master-normal-bird-assume |  
+| bip_39_word_dash_2 | car-robust |  
+| bip_39_word_dash_3 | car-robust-uncle |  
+| bip_39_word_dash_4 | car-robust-uncle-agent |  
+| bip_39_word_dash_5 | car-robust-uncle-agent-jaguar |  
+| bip_39_word_dash_6 | car-robust-uncle-agent-jaguar-nation |  
+| bip_39_word_dash_7 | car-robust-uncle-agent-jaguar-nation-chef |  
+| bip_39_word_dash_8 | car-robust-uncle-agent-jaguar-nation-chef-hurry |  
+| bip_39_word_dash_9 | car-robust-uncle-agent-jaguar-nation-chef-hurry-master |  
 | bip_39_word_new_br_1 | car |  
 | bip_39_word_new_br_10 | car<br>robust<br>uncle<br>agent<br>jaguar<br>nation<br>chef<br>hurry<br>master<br>normal |  
 | bip_39_word_new_br_11 | car<br>robust<br>uncle<br>agent<br>jaguar<br>nation<br>chef<br>hurry<br>master<br>normal<br>bird |  
@@ -147,6 +159,18 @@ master |
 | bip_39_word_space_7 | car robust uncle agent jaguar nation chef |  
 | bip_39_word_space_8 | car robust uncle agent jaguar nation chef hurry |  
 | bip_39_word_space_9 | car robust uncle agent jaguar nation chef hurry master |  
+| bip_39_word_underscore_1 | car |  
+| bip_39_word_underscore_10 | car_robust_uncle_agent_jaguar_nation_chef_hurry_master_normal |  
+| bip_39_word_underscore_11 | car_robust_uncle_agent_jaguar_nation_chef_hurry_master_normal_bird |  
+| bip_39_word_underscore_12 | car_robust_uncle_agent_jaguar_nation_chef_hurry_master_normal_bird_assume |  
+| bip_39_word_underscore_2 | car_robust |  
+| bip_39_word_underscore_3 | car_robust_uncle |  
+| bip_39_word_underscore_4 | car_robust_uncle_agent |  
+| bip_39_word_underscore_5 | car_robust_uncle_agent_jaguar |  
+| bip_39_word_underscore_6 | car_robust_uncle_agent_jaguar_nation |  
+| bip_39_word_underscore_7 | car_robust_uncle_agent_jaguar_nation_chef |  
+| bip_39_word_underscore_8 | car_robust_uncle_agent_jaguar_nation_chef_hurry |  
+| bip_39_word_underscore_9 | car_robust_uncle_agent_jaguar_nation_chef_hurry_master |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

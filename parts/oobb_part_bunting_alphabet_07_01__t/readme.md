@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | horn |  
+| bip_39_word_dash_10 | horn-icon-arrange-usage-sibling-clinic-collect-trap-slush-coil |  
+| bip_39_word_dash_11 | horn-icon-arrange-usage-sibling-clinic-collect-trap-slush-coil-lumber |  
+| bip_39_word_dash_12 | horn-icon-arrange-usage-sibling-clinic-collect-trap-slush-coil-lumber-attract |  
+| bip_39_word_dash_2 | horn-icon |  
+| bip_39_word_dash_3 | horn-icon-arrange |  
+| bip_39_word_dash_4 | horn-icon-arrange-usage |  
+| bip_39_word_dash_5 | horn-icon-arrange-usage-sibling |  
+| bip_39_word_dash_6 | horn-icon-arrange-usage-sibling-clinic |  
+| bip_39_word_dash_7 | horn-icon-arrange-usage-sibling-clinic-collect |  
+| bip_39_word_dash_8 | horn-icon-arrange-usage-sibling-clinic-collect-trap |  
+| bip_39_word_dash_9 | horn-icon-arrange-usage-sibling-clinic-collect-trap-slush |  
 | bip_39_word_new_br_1 | horn |  
 | bip_39_word_new_br_10 | horn<br>icon<br>arrange<br>usage<br>sibling<br>clinic<br>collect<br>trap<br>slush<br>coil |  
 | bip_39_word_new_br_11 | horn<br>icon<br>arrange<br>usage<br>sibling<br>clinic<br>collect<br>trap<br>slush<br>coil<br>lumber |  
@@ -147,6 +159,18 @@ slush |
 | bip_39_word_space_7 | horn icon arrange usage sibling clinic collect |  
 | bip_39_word_space_8 | horn icon arrange usage sibling clinic collect trap |  
 | bip_39_word_space_9 | horn icon arrange usage sibling clinic collect trap slush |  
+| bip_39_word_underscore_1 | horn |  
+| bip_39_word_underscore_10 | horn_icon_arrange_usage_sibling_clinic_collect_trap_slush_coil |  
+| bip_39_word_underscore_11 | horn_icon_arrange_usage_sibling_clinic_collect_trap_slush_coil_lumber |  
+| bip_39_word_underscore_12 | horn_icon_arrange_usage_sibling_clinic_collect_trap_slush_coil_lumber_attract |  
+| bip_39_word_underscore_2 | horn_icon |  
+| bip_39_word_underscore_3 | horn_icon_arrange |  
+| bip_39_word_underscore_4 | horn_icon_arrange_usage |  
+| bip_39_word_underscore_5 | horn_icon_arrange_usage_sibling |  
+| bip_39_word_underscore_6 | horn_icon_arrange_usage_sibling_clinic |  
+| bip_39_word_underscore_7 | horn_icon_arrange_usage_sibling_clinic_collect |  
+| bip_39_word_underscore_8 | horn_icon_arrange_usage_sibling_clinic_collect_trap |  
+| bip_39_word_underscore_9 | horn_icon_arrange_usage_sibling_clinic_collect_trap_slush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

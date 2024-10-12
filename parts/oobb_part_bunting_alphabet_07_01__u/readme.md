@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | true |  
+| bip_39_word_dash_10 | true-menu-junk-napkin-whale-cycle-quarter-kidney-choice-injury |  
+| bip_39_word_dash_11 | true-menu-junk-napkin-whale-cycle-quarter-kidney-choice-injury-oil |  
+| bip_39_word_dash_12 | true-menu-junk-napkin-whale-cycle-quarter-kidney-choice-injury-oil-aim |  
+| bip_39_word_dash_2 | true-menu |  
+| bip_39_word_dash_3 | true-menu-junk |  
+| bip_39_word_dash_4 | true-menu-junk-napkin |  
+| bip_39_word_dash_5 | true-menu-junk-napkin-whale |  
+| bip_39_word_dash_6 | true-menu-junk-napkin-whale-cycle |  
+| bip_39_word_dash_7 | true-menu-junk-napkin-whale-cycle-quarter |  
+| bip_39_word_dash_8 | true-menu-junk-napkin-whale-cycle-quarter-kidney |  
+| bip_39_word_dash_9 | true-menu-junk-napkin-whale-cycle-quarter-kidney-choice |  
 | bip_39_word_new_br_1 | true |  
 | bip_39_word_new_br_10 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney<br>choice<br>injury |  
 | bip_39_word_new_br_11 | true<br>menu<br>junk<br>napkin<br>whale<br>cycle<br>quarter<br>kidney<br>choice<br>injury<br>oil |  
@@ -147,6 +159,18 @@ choice |
 | bip_39_word_space_7 | true menu junk napkin whale cycle quarter |  
 | bip_39_word_space_8 | true menu junk napkin whale cycle quarter kidney |  
 | bip_39_word_space_9 | true menu junk napkin whale cycle quarter kidney choice |  
+| bip_39_word_underscore_1 | true |  
+| bip_39_word_underscore_10 | true_menu_junk_napkin_whale_cycle_quarter_kidney_choice_injury |  
+| bip_39_word_underscore_11 | true_menu_junk_napkin_whale_cycle_quarter_kidney_choice_injury_oil |  
+| bip_39_word_underscore_12 | true_menu_junk_napkin_whale_cycle_quarter_kidney_choice_injury_oil_aim |  
+| bip_39_word_underscore_2 | true_menu |  
+| bip_39_word_underscore_3 | true_menu_junk |  
+| bip_39_word_underscore_4 | true_menu_junk_napkin |  
+| bip_39_word_underscore_5 | true_menu_junk_napkin_whale |  
+| bip_39_word_underscore_6 | true_menu_junk_napkin_whale_cycle |  
+| bip_39_word_underscore_7 | true_menu_junk_napkin_whale_cycle_quarter |  
+| bip_39_word_underscore_8 | true_menu_junk_napkin_whale_cycle_quarter_kidney |  
+| bip_39_word_underscore_9 | true_menu_junk_napkin_whale_cycle_quarter_kidney_choice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

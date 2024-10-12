@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | identify |  
+| bip_39_word_dash_10 | identify-cliff-teach-reduce-arrange-assist-photo-figure-race-love |  
+| bip_39_word_dash_11 | identify-cliff-teach-reduce-arrange-assist-photo-figure-race-love-choice |  
+| bip_39_word_dash_12 | identify-cliff-teach-reduce-arrange-assist-photo-figure-race-love-choice-abuse |  
+| bip_39_word_dash_2 | identify-cliff |  
+| bip_39_word_dash_3 | identify-cliff-teach |  
+| bip_39_word_dash_4 | identify-cliff-teach-reduce |  
+| bip_39_word_dash_5 | identify-cliff-teach-reduce-arrange |  
+| bip_39_word_dash_6 | identify-cliff-teach-reduce-arrange-assist |  
+| bip_39_word_dash_7 | identify-cliff-teach-reduce-arrange-assist-photo |  
+| bip_39_word_dash_8 | identify-cliff-teach-reduce-arrange-assist-photo-figure |  
+| bip_39_word_dash_9 | identify-cliff-teach-reduce-arrange-assist-photo-figure-race |  
 | bip_39_word_new_br_1 | identify |  
 | bip_39_word_new_br_10 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love |  
 | bip_39_word_new_br_11 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love<br>choice |  
@@ -147,6 +159,18 @@ race |
 | bip_39_word_space_7 | identify cliff teach reduce arrange assist photo |  
 | bip_39_word_space_8 | identify cliff teach reduce arrange assist photo figure |  
 | bip_39_word_space_9 | identify cliff teach reduce arrange assist photo figure race |  
+| bip_39_word_underscore_1 | identify |  
+| bip_39_word_underscore_10 | identify_cliff_teach_reduce_arrange_assist_photo_figure_race_love |  
+| bip_39_word_underscore_11 | identify_cliff_teach_reduce_arrange_assist_photo_figure_race_love_choice |  
+| bip_39_word_underscore_12 | identify_cliff_teach_reduce_arrange_assist_photo_figure_race_love_choice_abuse |  
+| bip_39_word_underscore_2 | identify_cliff |  
+| bip_39_word_underscore_3 | identify_cliff_teach |  
+| bip_39_word_underscore_4 | identify_cliff_teach_reduce |  
+| bip_39_word_underscore_5 | identify_cliff_teach_reduce_arrange |  
+| bip_39_word_underscore_6 | identify_cliff_teach_reduce_arrange_assist |  
+| bip_39_word_underscore_7 | identify_cliff_teach_reduce_arrange_assist_photo |  
+| bip_39_word_underscore_8 | identify_cliff_teach_reduce_arrange_assist_photo_figure |  
+| bip_39_word_underscore_9 | identify_cliff_teach_reduce_arrange_assist_photo_figure_race |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

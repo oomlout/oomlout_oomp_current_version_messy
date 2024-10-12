@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | never |  
+| bip_39_word_dash_10 | never-muscle-they-sibling-quiz-trigger-taste-warfare-digital-buzz |  
+| bip_39_word_dash_11 | never-muscle-they-sibling-quiz-trigger-taste-warfare-digital-buzz-tribe |  
+| bip_39_word_dash_12 | never-muscle-they-sibling-quiz-trigger-taste-warfare-digital-buzz-tribe-arch |  
+| bip_39_word_dash_2 | never-muscle |  
+| bip_39_word_dash_3 | never-muscle-they |  
+| bip_39_word_dash_4 | never-muscle-they-sibling |  
+| bip_39_word_dash_5 | never-muscle-they-sibling-quiz |  
+| bip_39_word_dash_6 | never-muscle-they-sibling-quiz-trigger |  
+| bip_39_word_dash_7 | never-muscle-they-sibling-quiz-trigger-taste |  
+| bip_39_word_dash_8 | never-muscle-they-sibling-quiz-trigger-taste-warfare |  
+| bip_39_word_dash_9 | never-muscle-they-sibling-quiz-trigger-taste-warfare-digital |  
 | bip_39_word_new_br_1 | never |  
 | bip_39_word_new_br_10 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare<br>digital<br>buzz |  
 | bip_39_word_new_br_11 | never<br>muscle<br>they<br>sibling<br>quiz<br>trigger<br>taste<br>warfare<br>digital<br>buzz<br>tribe |  
@@ -147,6 +159,18 @@ digital |
 | bip_39_word_space_7 | never muscle they sibling quiz trigger taste |  
 | bip_39_word_space_8 | never muscle they sibling quiz trigger taste warfare |  
 | bip_39_word_space_9 | never muscle they sibling quiz trigger taste warfare digital |  
+| bip_39_word_underscore_1 | never |  
+| bip_39_word_underscore_10 | never_muscle_they_sibling_quiz_trigger_taste_warfare_digital_buzz |  
+| bip_39_word_underscore_11 | never_muscle_they_sibling_quiz_trigger_taste_warfare_digital_buzz_tribe |  
+| bip_39_word_underscore_12 | never_muscle_they_sibling_quiz_trigger_taste_warfare_digital_buzz_tribe_arch |  
+| bip_39_word_underscore_2 | never_muscle |  
+| bip_39_word_underscore_3 | never_muscle_they |  
+| bip_39_word_underscore_4 | never_muscle_they_sibling |  
+| bip_39_word_underscore_5 | never_muscle_they_sibling_quiz |  
+| bip_39_word_underscore_6 | never_muscle_they_sibling_quiz_trigger |  
+| bip_39_word_underscore_7 | never_muscle_they_sibling_quiz_trigger_taste |  
+| bip_39_word_underscore_8 | never_muscle_they_sibling_quiz_trigger_taste_warfare |  
+| bip_39_word_underscore_9 | never_muscle_they_sibling_quiz_trigger_taste_warfare_digital |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | key |  
+| bip_39_word_dash_10 | key-recipe-enlist-suspect-health-twelve-canoe-address-chunk-farm |  
+| bip_39_word_dash_11 | key-recipe-enlist-suspect-health-twelve-canoe-address-chunk-farm-burger |  
+| bip_39_word_dash_12 | key-recipe-enlist-suspect-health-twelve-canoe-address-chunk-farm-burger-account |  
+| bip_39_word_dash_2 | key-recipe |  
+| bip_39_word_dash_3 | key-recipe-enlist |  
+| bip_39_word_dash_4 | key-recipe-enlist-suspect |  
+| bip_39_word_dash_5 | key-recipe-enlist-suspect-health |  
+| bip_39_word_dash_6 | key-recipe-enlist-suspect-health-twelve |  
+| bip_39_word_dash_7 | key-recipe-enlist-suspect-health-twelve-canoe |  
+| bip_39_word_dash_8 | key-recipe-enlist-suspect-health-twelve-canoe-address |  
+| bip_39_word_dash_9 | key-recipe-enlist-suspect-health-twelve-canoe-address-chunk |  
 | bip_39_word_new_br_1 | key |  
 | bip_39_word_new_br_10 | key<br>recipe<br>enlist<br>suspect<br>health<br>twelve<br>canoe<br>address<br>chunk<br>farm |  
 | bip_39_word_new_br_11 | key<br>recipe<br>enlist<br>suspect<br>health<br>twelve<br>canoe<br>address<br>chunk<br>farm<br>burger |  
@@ -147,6 +159,18 @@ chunk |
 | bip_39_word_space_7 | key recipe enlist suspect health twelve canoe |  
 | bip_39_word_space_8 | key recipe enlist suspect health twelve canoe address |  
 | bip_39_word_space_9 | key recipe enlist suspect health twelve canoe address chunk |  
+| bip_39_word_underscore_1 | key |  
+| bip_39_word_underscore_10 | key_recipe_enlist_suspect_health_twelve_canoe_address_chunk_farm |  
+| bip_39_word_underscore_11 | key_recipe_enlist_suspect_health_twelve_canoe_address_chunk_farm_burger |  
+| bip_39_word_underscore_12 | key_recipe_enlist_suspect_health_twelve_canoe_address_chunk_farm_burger_account |  
+| bip_39_word_underscore_2 | key_recipe |  
+| bip_39_word_underscore_3 | key_recipe_enlist |  
+| bip_39_word_underscore_4 | key_recipe_enlist_suspect |  
+| bip_39_word_underscore_5 | key_recipe_enlist_suspect_health |  
+| bip_39_word_underscore_6 | key_recipe_enlist_suspect_health_twelve |  
+| bip_39_word_underscore_7 | key_recipe_enlist_suspect_health_twelve_canoe |  
+| bip_39_word_underscore_8 | key_recipe_enlist_suspect_health_twelve_canoe_address |  
+| bip_39_word_underscore_9 | key_recipe_enlist_suspect_health_twelve_canoe_address_chunk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

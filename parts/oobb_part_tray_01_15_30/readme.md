@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nurse |  
+| bip_39_word_dash_10 | nurse-pudding-chief-day-idle-vault-involve-few-invite-useless |  
+| bip_39_word_dash_11 | nurse-pudding-chief-day-idle-vault-involve-few-invite-useless-fresh |  
+| bip_39_word_dash_12 | nurse-pudding-chief-day-idle-vault-involve-few-invite-useless-fresh-attitude |  
+| bip_39_word_dash_2 | nurse-pudding |  
+| bip_39_word_dash_3 | nurse-pudding-chief |  
+| bip_39_word_dash_4 | nurse-pudding-chief-day |  
+| bip_39_word_dash_5 | nurse-pudding-chief-day-idle |  
+| bip_39_word_dash_6 | nurse-pudding-chief-day-idle-vault |  
+| bip_39_word_dash_7 | nurse-pudding-chief-day-idle-vault-involve |  
+| bip_39_word_dash_8 | nurse-pudding-chief-day-idle-vault-involve-few |  
+| bip_39_word_dash_9 | nurse-pudding-chief-day-idle-vault-involve-few-invite |  
 | bip_39_word_new_br_1 | nurse |  
 | bip_39_word_new_br_10 | nurse<br>pudding<br>chief<br>day<br>idle<br>vault<br>involve<br>few<br>invite<br>useless |  
 | bip_39_word_new_br_11 | nurse<br>pudding<br>chief<br>day<br>idle<br>vault<br>involve<br>few<br>invite<br>useless<br>fresh |  
@@ -147,6 +159,18 @@ invite |
 | bip_39_word_space_7 | nurse pudding chief day idle vault involve |  
 | bip_39_word_space_8 | nurse pudding chief day idle vault involve few |  
 | bip_39_word_space_9 | nurse pudding chief day idle vault involve few invite |  
+| bip_39_word_underscore_1 | nurse |  
+| bip_39_word_underscore_10 | nurse_pudding_chief_day_idle_vault_involve_few_invite_useless |  
+| bip_39_word_underscore_11 | nurse_pudding_chief_day_idle_vault_involve_few_invite_useless_fresh |  
+| bip_39_word_underscore_12 | nurse_pudding_chief_day_idle_vault_involve_few_invite_useless_fresh_attitude |  
+| bip_39_word_underscore_2 | nurse_pudding |  
+| bip_39_word_underscore_3 | nurse_pudding_chief |  
+| bip_39_word_underscore_4 | nurse_pudding_chief_day |  
+| bip_39_word_underscore_5 | nurse_pudding_chief_day_idle |  
+| bip_39_word_underscore_6 | nurse_pudding_chief_day_idle_vault |  
+| bip_39_word_underscore_7 | nurse_pudding_chief_day_idle_vault_involve |  
+| bip_39_word_underscore_8 | nurse_pudding_chief_day_idle_vault_involve_few |  
+| bip_39_word_underscore_9 | nurse_pudding_chief_day_idle_vault_involve_few_invite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

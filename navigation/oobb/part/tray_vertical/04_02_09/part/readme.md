@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flush |  
+| bip_39_word_dash_10 | flush-photo-athlete-decline-lemon-series-transfer-dilemma-rent-town |  
+| bip_39_word_dash_11 | flush-photo-athlete-decline-lemon-series-transfer-dilemma-rent-town-print |  
+| bip_39_word_dash_12 | flush-photo-athlete-decline-lemon-series-transfer-dilemma-rent-town-print-accuse |  
+| bip_39_word_dash_2 | flush-photo |  
+| bip_39_word_dash_3 | flush-photo-athlete |  
+| bip_39_word_dash_4 | flush-photo-athlete-decline |  
+| bip_39_word_dash_5 | flush-photo-athlete-decline-lemon |  
+| bip_39_word_dash_6 | flush-photo-athlete-decline-lemon-series |  
+| bip_39_word_dash_7 | flush-photo-athlete-decline-lemon-series-transfer |  
+| bip_39_word_dash_8 | flush-photo-athlete-decline-lemon-series-transfer-dilemma |  
+| bip_39_word_dash_9 | flush-photo-athlete-decline-lemon-series-transfer-dilemma-rent |  
 | bip_39_word_new_br_1 | flush |  
 | bip_39_word_new_br_10 | flush<br>photo<br>athlete<br>decline<br>lemon<br>series<br>transfer<br>dilemma<br>rent<br>town |  
 | bip_39_word_new_br_11 | flush<br>photo<br>athlete<br>decline<br>lemon<br>series<br>transfer<br>dilemma<br>rent<br>town<br>print |  
@@ -147,6 +159,18 @@ rent |
 | bip_39_word_space_7 | flush photo athlete decline lemon series transfer |  
 | bip_39_word_space_8 | flush photo athlete decline lemon series transfer dilemma |  
 | bip_39_word_space_9 | flush photo athlete decline lemon series transfer dilemma rent |  
+| bip_39_word_underscore_1 | flush |  
+| bip_39_word_underscore_10 | flush_photo_athlete_decline_lemon_series_transfer_dilemma_rent_town |  
+| bip_39_word_underscore_11 | flush_photo_athlete_decline_lemon_series_transfer_dilemma_rent_town_print |  
+| bip_39_word_underscore_12 | flush_photo_athlete_decline_lemon_series_transfer_dilemma_rent_town_print_accuse |  
+| bip_39_word_underscore_2 | flush_photo |  
+| bip_39_word_underscore_3 | flush_photo_athlete |  
+| bip_39_word_underscore_4 | flush_photo_athlete_decline |  
+| bip_39_word_underscore_5 | flush_photo_athlete_decline_lemon |  
+| bip_39_word_underscore_6 | flush_photo_athlete_decline_lemon_series |  
+| bip_39_word_underscore_7 | flush_photo_athlete_decline_lemon_series_transfer |  
+| bip_39_word_underscore_8 | flush_photo_athlete_decline_lemon_series_transfer_dilemma |  
+| bip_39_word_underscore_9 | flush_photo_athlete_decline_lemon_series_transfer_dilemma_rent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

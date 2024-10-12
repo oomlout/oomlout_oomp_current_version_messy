@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ladder |  
+| bip_39_word_dash_10 | ladder-great-code-host-damage-balance-empower-turtle-exhaust-crime |  
+| bip_39_word_dash_11 | ladder-great-code-host-damage-balance-empower-turtle-exhaust-crime-cloth |  
+| bip_39_word_dash_12 | ladder-great-code-host-damage-balance-empower-turtle-exhaust-crime-cloth-adapt |  
+| bip_39_word_dash_2 | ladder-great |  
+| bip_39_word_dash_3 | ladder-great-code |  
+| bip_39_word_dash_4 | ladder-great-code-host |  
+| bip_39_word_dash_5 | ladder-great-code-host-damage |  
+| bip_39_word_dash_6 | ladder-great-code-host-damage-balance |  
+| bip_39_word_dash_7 | ladder-great-code-host-damage-balance-empower |  
+| bip_39_word_dash_8 | ladder-great-code-host-damage-balance-empower-turtle |  
+| bip_39_word_dash_9 | ladder-great-code-host-damage-balance-empower-turtle-exhaust |  
 | bip_39_word_new_br_1 | ladder |  
 | bip_39_word_new_br_10 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime |  
 | bip_39_word_new_br_11 | ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime<br>cloth |  
@@ -147,6 +159,18 @@ exhaust |
 | bip_39_word_space_7 | ladder great code host damage balance empower |  
 | bip_39_word_space_8 | ladder great code host damage balance empower turtle |  
 | bip_39_word_space_9 | ladder great code host damage balance empower turtle exhaust |  
+| bip_39_word_underscore_1 | ladder |  
+| bip_39_word_underscore_10 | ladder_great_code_host_damage_balance_empower_turtle_exhaust_crime |  
+| bip_39_word_underscore_11 | ladder_great_code_host_damage_balance_empower_turtle_exhaust_crime_cloth |  
+| bip_39_word_underscore_12 | ladder_great_code_host_damage_balance_empower_turtle_exhaust_crime_cloth_adapt |  
+| bip_39_word_underscore_2 | ladder_great |  
+| bip_39_word_underscore_3 | ladder_great_code |  
+| bip_39_word_underscore_4 | ladder_great_code_host |  
+| bip_39_word_underscore_5 | ladder_great_code_host_damage |  
+| bip_39_word_underscore_6 | ladder_great_code_host_damage_balance |  
+| bip_39_word_underscore_7 | ladder_great_code_host_damage_balance_empower |  
+| bip_39_word_underscore_8 | ladder_great_code_host_damage_balance_empower_turtle |  
+| bip_39_word_underscore_9 | ladder_great_code_host_damage_balance_empower_turtle_exhaust |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | amount |  
+| bip_39_word_dash_10 | amount-rude-guard-real-garbage-kitten-limb-busy-planet-crawl |  
+| bip_39_word_dash_11 | amount-rude-guard-real-garbage-kitten-limb-busy-planet-crawl-street |  
+| bip_39_word_dash_12 | amount-rude-guard-real-garbage-kitten-limb-busy-planet-crawl-street-apology |  
+| bip_39_word_dash_2 | amount-rude |  
+| bip_39_word_dash_3 | amount-rude-guard |  
+| bip_39_word_dash_4 | amount-rude-guard-real |  
+| bip_39_word_dash_5 | amount-rude-guard-real-garbage |  
+| bip_39_word_dash_6 | amount-rude-guard-real-garbage-kitten |  
+| bip_39_word_dash_7 | amount-rude-guard-real-garbage-kitten-limb |  
+| bip_39_word_dash_8 | amount-rude-guard-real-garbage-kitten-limb-busy |  
+| bip_39_word_dash_9 | amount-rude-guard-real-garbage-kitten-limb-busy-planet |  
 | bip_39_word_new_br_1 | amount |  
 | bip_39_word_new_br_10 | amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy<br>planet<br>crawl |  
 | bip_39_word_new_br_11 | amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy<br>planet<br>crawl<br>street |  
@@ -147,6 +159,18 @@ planet |
 | bip_39_word_space_7 | amount rude guard real garbage kitten limb |  
 | bip_39_word_space_8 | amount rude guard real garbage kitten limb busy |  
 | bip_39_word_space_9 | amount rude guard real garbage kitten limb busy planet |  
+| bip_39_word_underscore_1 | amount |  
+| bip_39_word_underscore_10 | amount_rude_guard_real_garbage_kitten_limb_busy_planet_crawl |  
+| bip_39_word_underscore_11 | amount_rude_guard_real_garbage_kitten_limb_busy_planet_crawl_street |  
+| bip_39_word_underscore_12 | amount_rude_guard_real_garbage_kitten_limb_busy_planet_crawl_street_apology |  
+| bip_39_word_underscore_2 | amount_rude |  
+| bip_39_word_underscore_3 | amount_rude_guard |  
+| bip_39_word_underscore_4 | amount_rude_guard_real |  
+| bip_39_word_underscore_5 | amount_rude_guard_real_garbage |  
+| bip_39_word_underscore_6 | amount_rude_guard_real_garbage_kitten |  
+| bip_39_word_underscore_7 | amount_rude_guard_real_garbage_kitten_limb |  
+| bip_39_word_underscore_8 | amount_rude_guard_real_garbage_kitten_limb_busy |  
+| bip_39_word_underscore_9 | amount_rude_guard_real_garbage_kitten_limb_busy_planet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

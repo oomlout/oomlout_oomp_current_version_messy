@@ -1,3 +1,15 @@
+bip_39_word_dash_1: always
+bip_39_word_dash_10: always-twist-urge-reopen-cash-quick-second-urge-silver-cushion
+bip_39_word_dash_11: always-twist-urge-reopen-cash-quick-second-urge-silver-cushion-pizza
+bip_39_word_dash_12: always-twist-urge-reopen-cash-quick-second-urge-silver-cushion-pizza-add
+bip_39_word_dash_2: always-twist
+bip_39_word_dash_3: always-twist-urge
+bip_39_word_dash_4: always-twist-urge-reopen
+bip_39_word_dash_5: always-twist-urge-reopen-cash
+bip_39_word_dash_6: always-twist-urge-reopen-cash-quick
+bip_39_word_dash_7: always-twist-urge-reopen-cash-quick-second
+bip_39_word_dash_8: always-twist-urge-reopen-cash-quick-second-urge
+bip_39_word_dash_9: always-twist-urge-reopen-cash-quick-second-urge-silver
 bip_39_word_new_br_1: always
 bip_39_word_new_br_10: always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion
 bip_39_word_new_br_11: always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion<br>pizza
@@ -193,6 +205,18 @@ bip_39_word_space_6: always twist urge reopen cash quick
 bip_39_word_space_7: always twist urge reopen cash quick second
 bip_39_word_space_8: always twist urge reopen cash quick second urge
 bip_39_word_space_9: always twist urge reopen cash quick second urge silver
+bip_39_word_underscore_1: always
+bip_39_word_underscore_10: always_twist_urge_reopen_cash_quick_second_urge_silver_cushion
+bip_39_word_underscore_11: always_twist_urge_reopen_cash_quick_second_urge_silver_cushion_pizza
+bip_39_word_underscore_12: always_twist_urge_reopen_cash_quick_second_urge_silver_cushion_pizza_add
+bip_39_word_underscore_2: always_twist
+bip_39_word_underscore_3: always_twist_urge
+bip_39_word_underscore_4: always_twist_urge_reopen
+bip_39_word_underscore_5: always_twist_urge_reopen_cash
+bip_39_word_underscore_6: always_twist_urge_reopen_cash_quick
+bip_39_word_underscore_7: always_twist_urge_reopen_cash_quick_second
+bip_39_word_underscore_8: always_twist_urge_reopen_cash_quick_second_urge
+bip_39_word_underscore_9: always_twist_urge_reopen_cash_quick_second_urge_silver
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

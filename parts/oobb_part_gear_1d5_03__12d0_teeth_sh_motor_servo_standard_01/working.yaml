@@ -1,3 +1,15 @@
+bip_39_word_dash_1: refuse
+bip_39_word_dash_10: refuse-inflict-employ-census-shy-distance-hint-bench-social-humble
+bip_39_word_dash_11: refuse-inflict-employ-census-shy-distance-hint-bench-social-humble-answer
+bip_39_word_dash_12: refuse-inflict-employ-census-shy-distance-hint-bench-social-humble-answer-angle
+bip_39_word_dash_2: refuse-inflict
+bip_39_word_dash_3: refuse-inflict-employ
+bip_39_word_dash_4: refuse-inflict-employ-census
+bip_39_word_dash_5: refuse-inflict-employ-census-shy
+bip_39_word_dash_6: refuse-inflict-employ-census-shy-distance
+bip_39_word_dash_7: refuse-inflict-employ-census-shy-distance-hint
+bip_39_word_dash_8: refuse-inflict-employ-census-shy-distance-hint-bench
+bip_39_word_dash_9: refuse-inflict-employ-census-shy-distance-hint-bench-social
 bip_39_word_new_br_1: refuse
 bip_39_word_new_br_10: refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble
 bip_39_word_new_br_11: refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble<br>answer
@@ -194,6 +206,18 @@ bip_39_word_space_6: refuse inflict employ census shy distance
 bip_39_word_space_7: refuse inflict employ census shy distance hint
 bip_39_word_space_8: refuse inflict employ census shy distance hint bench
 bip_39_word_space_9: refuse inflict employ census shy distance hint bench social
+bip_39_word_underscore_1: refuse
+bip_39_word_underscore_10: refuse_inflict_employ_census_shy_distance_hint_bench_social_humble
+bip_39_word_underscore_11: refuse_inflict_employ_census_shy_distance_hint_bench_social_humble_answer
+bip_39_word_underscore_12: refuse_inflict_employ_census_shy_distance_hint_bench_social_humble_answer_angle
+bip_39_word_underscore_2: refuse_inflict
+bip_39_word_underscore_3: refuse_inflict_employ
+bip_39_word_underscore_4: refuse_inflict_employ_census
+bip_39_word_underscore_5: refuse_inflict_employ_census_shy
+bip_39_word_underscore_6: refuse_inflict_employ_census_shy_distance
+bip_39_word_underscore_7: refuse_inflict_employ_census_shy_distance_hint
+bip_39_word_underscore_8: refuse_inflict_employ_census_shy_distance_hint_bench
+bip_39_word_underscore_9: refuse_inflict_employ_census_shy_distance_hint_bench_social
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

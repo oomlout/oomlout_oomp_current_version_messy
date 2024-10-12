@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mimic |  
+| bip_39_word_dash_10 | mimic-word-era-thumb-planet-athlete-crowd-beach-hunt-endless |  
+| bip_39_word_dash_11 | mimic-word-era-thumb-planet-athlete-crowd-beach-hunt-endless-bargain |  
+| bip_39_word_dash_12 | mimic-word-era-thumb-planet-athlete-crowd-beach-hunt-endless-bargain-anchor |  
+| bip_39_word_dash_2 | mimic-word |  
+| bip_39_word_dash_3 | mimic-word-era |  
+| bip_39_word_dash_4 | mimic-word-era-thumb |  
+| bip_39_word_dash_5 | mimic-word-era-thumb-planet |  
+| bip_39_word_dash_6 | mimic-word-era-thumb-planet-athlete |  
+| bip_39_word_dash_7 | mimic-word-era-thumb-planet-athlete-crowd |  
+| bip_39_word_dash_8 | mimic-word-era-thumb-planet-athlete-crowd-beach |  
+| bip_39_word_dash_9 | mimic-word-era-thumb-planet-athlete-crowd-beach-hunt |  
 | bip_39_word_new_br_1 | mimic |  
 | bip_39_word_new_br_10 | mimic<br>word<br>era<br>thumb<br>planet<br>athlete<br>crowd<br>beach<br>hunt<br>endless |  
 | bip_39_word_new_br_11 | mimic<br>word<br>era<br>thumb<br>planet<br>athlete<br>crowd<br>beach<br>hunt<br>endless<br>bargain |  
@@ -147,6 +159,18 @@ hunt |
 | bip_39_word_space_7 | mimic word era thumb planet athlete crowd |  
 | bip_39_word_space_8 | mimic word era thumb planet athlete crowd beach |  
 | bip_39_word_space_9 | mimic word era thumb planet athlete crowd beach hunt |  
+| bip_39_word_underscore_1 | mimic |  
+| bip_39_word_underscore_10 | mimic_word_era_thumb_planet_athlete_crowd_beach_hunt_endless |  
+| bip_39_word_underscore_11 | mimic_word_era_thumb_planet_athlete_crowd_beach_hunt_endless_bargain |  
+| bip_39_word_underscore_12 | mimic_word_era_thumb_planet_athlete_crowd_beach_hunt_endless_bargain_anchor |  
+| bip_39_word_underscore_2 | mimic_word |  
+| bip_39_word_underscore_3 | mimic_word_era |  
+| bip_39_word_underscore_4 | mimic_word_era_thumb |  
+| bip_39_word_underscore_5 | mimic_word_era_thumb_planet |  
+| bip_39_word_underscore_6 | mimic_word_era_thumb_planet_athlete |  
+| bip_39_word_underscore_7 | mimic_word_era_thumb_planet_athlete_crowd |  
+| bip_39_word_underscore_8 | mimic_word_era_thumb_planet_athlete_crowd_beach |  
+| bip_39_word_underscore_9 | mimic_word_era_thumb_planet_athlete_crowd_beach_hunt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

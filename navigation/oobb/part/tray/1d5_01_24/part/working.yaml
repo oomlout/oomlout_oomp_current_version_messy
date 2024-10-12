@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lawn
+bip_39_word_dash_10: lawn-drum-kid-dash-say-super-donor-maze-together-idle
+bip_39_word_dash_11: lawn-drum-kid-dash-say-super-donor-maze-together-idle-quarter
+bip_39_word_dash_12: lawn-drum-kid-dash-say-super-donor-maze-together-idle-quarter-action
+bip_39_word_dash_2: lawn-drum
+bip_39_word_dash_3: lawn-drum-kid
+bip_39_word_dash_4: lawn-drum-kid-dash
+bip_39_word_dash_5: lawn-drum-kid-dash-say
+bip_39_word_dash_6: lawn-drum-kid-dash-say-super
+bip_39_word_dash_7: lawn-drum-kid-dash-say-super-donor
+bip_39_word_dash_8: lawn-drum-kid-dash-say-super-donor-maze
+bip_39_word_dash_9: lawn-drum-kid-dash-say-super-donor-maze-together
 bip_39_word_new_br_1: lawn
 bip_39_word_new_br_10: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze<br>together<br>idle
 bip_39_word_new_br_11: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze<br>together<br>idle<br>quarter
@@ -192,6 +204,18 @@ bip_39_word_space_6: lawn drum kid dash say super
 bip_39_word_space_7: lawn drum kid dash say super donor
 bip_39_word_space_8: lawn drum kid dash say super donor maze
 bip_39_word_space_9: lawn drum kid dash say super donor maze together
+bip_39_word_underscore_1: lawn
+bip_39_word_underscore_10: lawn_drum_kid_dash_say_super_donor_maze_together_idle
+bip_39_word_underscore_11: lawn_drum_kid_dash_say_super_donor_maze_together_idle_quarter
+bip_39_word_underscore_12: lawn_drum_kid_dash_say_super_donor_maze_together_idle_quarter_action
+bip_39_word_underscore_2: lawn_drum
+bip_39_word_underscore_3: lawn_drum_kid
+bip_39_word_underscore_4: lawn_drum_kid_dash
+bip_39_word_underscore_5: lawn_drum_kid_dash_say
+bip_39_word_underscore_6: lawn_drum_kid_dash_say_super
+bip_39_word_underscore_7: lawn_drum_kid_dash_say_super_donor
+bip_39_word_underscore_8: lawn_drum_kid_dash_say_super_donor_maze
+bip_39_word_underscore_9: lawn_drum_kid_dash_say_super_donor_maze_together
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

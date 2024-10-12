@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | urge |  
+| bip_39_word_dash_10 | urge-zone-twice-gauge-minimum-neck-assume-junk-program-direct |  
+| bip_39_word_dash_11 | urge-zone-twice-gauge-minimum-neck-assume-junk-program-direct-honey |  
+| bip_39_word_dash_12 | urge-zone-twice-gauge-minimum-neck-assume-junk-program-direct-honey-arena |  
+| bip_39_word_dash_2 | urge-zone |  
+| bip_39_word_dash_3 | urge-zone-twice |  
+| bip_39_word_dash_4 | urge-zone-twice-gauge |  
+| bip_39_word_dash_5 | urge-zone-twice-gauge-minimum |  
+| bip_39_word_dash_6 | urge-zone-twice-gauge-minimum-neck |  
+| bip_39_word_dash_7 | urge-zone-twice-gauge-minimum-neck-assume |  
+| bip_39_word_dash_8 | urge-zone-twice-gauge-minimum-neck-assume-junk |  
+| bip_39_word_dash_9 | urge-zone-twice-gauge-minimum-neck-assume-junk-program |  
 | bip_39_word_new_br_1 | urge |  
 | bip_39_word_new_br_10 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk<br>program<br>direct |  
 | bip_39_word_new_br_11 | urge<br>zone<br>twice<br>gauge<br>minimum<br>neck<br>assume<br>junk<br>program<br>direct<br>honey |  
@@ -147,6 +159,18 @@ program |
 | bip_39_word_space_7 | urge zone twice gauge minimum neck assume |  
 | bip_39_word_space_8 | urge zone twice gauge minimum neck assume junk |  
 | bip_39_word_space_9 | urge zone twice gauge minimum neck assume junk program |  
+| bip_39_word_underscore_1 | urge |  
+| bip_39_word_underscore_10 | urge_zone_twice_gauge_minimum_neck_assume_junk_program_direct |  
+| bip_39_word_underscore_11 | urge_zone_twice_gauge_minimum_neck_assume_junk_program_direct_honey |  
+| bip_39_word_underscore_12 | urge_zone_twice_gauge_minimum_neck_assume_junk_program_direct_honey_arena |  
+| bip_39_word_underscore_2 | urge_zone |  
+| bip_39_word_underscore_3 | urge_zone_twice |  
+| bip_39_word_underscore_4 | urge_zone_twice_gauge |  
+| bip_39_word_underscore_5 | urge_zone_twice_gauge_minimum |  
+| bip_39_word_underscore_6 | urge_zone_twice_gauge_minimum_neck |  
+| bip_39_word_underscore_7 | urge_zone_twice_gauge_minimum_neck_assume |  
+| bip_39_word_underscore_8 | urge_zone_twice_gauge_minimum_neck_assume_junk |  
+| bip_39_word_underscore_9 | urge_zone_twice_gauge_minimum_neck_assume_junk_program |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

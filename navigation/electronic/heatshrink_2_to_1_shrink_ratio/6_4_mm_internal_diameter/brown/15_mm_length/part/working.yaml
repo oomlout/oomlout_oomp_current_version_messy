@@ -1,3 +1,15 @@
+bip_39_word_dash_1: high
+bip_39_word_dash_10: high-heart-safe-regret-feel-device-ginger-forward-equal-method
+bip_39_word_dash_11: high-heart-safe-regret-feel-device-ginger-forward-equal-method-dream
+bip_39_word_dash_12: high-heart-safe-regret-feel-device-ginger-forward-equal-method-dream-aisle
+bip_39_word_dash_2: high-heart
+bip_39_word_dash_3: high-heart-safe
+bip_39_word_dash_4: high-heart-safe-regret
+bip_39_word_dash_5: high-heart-safe-regret-feel
+bip_39_word_dash_6: high-heart-safe-regret-feel-device
+bip_39_word_dash_7: high-heart-safe-regret-feel-device-ginger
+bip_39_word_dash_8: high-heart-safe-regret-feel-device-ginger-forward
+bip_39_word_dash_9: high-heart-safe-regret-feel-device-ginger-forward-equal
 bip_39_word_new_br_1: high
 bip_39_word_new_br_10: high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method
 bip_39_word_new_br_11: high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method<br>dream
@@ -193,6 +205,18 @@ bip_39_word_space_6: high heart safe regret feel device
 bip_39_word_space_7: high heart safe regret feel device ginger
 bip_39_word_space_8: high heart safe regret feel device ginger forward
 bip_39_word_space_9: high heart safe regret feel device ginger forward equal
+bip_39_word_underscore_1: high
+bip_39_word_underscore_10: high_heart_safe_regret_feel_device_ginger_forward_equal_method
+bip_39_word_underscore_11: high_heart_safe_regret_feel_device_ginger_forward_equal_method_dream
+bip_39_word_underscore_12: high_heart_safe_regret_feel_device_ginger_forward_equal_method_dream_aisle
+bip_39_word_underscore_2: high_heart
+bip_39_word_underscore_3: high_heart_safe
+bip_39_word_underscore_4: high_heart_safe_regret
+bip_39_word_underscore_5: high_heart_safe_regret_feel
+bip_39_word_underscore_6: high_heart_safe_regret_feel_device
+bip_39_word_underscore_7: high_heart_safe_regret_feel_device_ginger
+bip_39_word_underscore_8: high_heart_safe_regret_feel_device_ginger_forward
+bip_39_word_underscore_9: high_heart_safe_regret_feel_device_ginger_forward_equal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

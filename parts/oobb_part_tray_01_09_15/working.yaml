@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trim
+bip_39_word_dash_10: trim-feed-churn-multiply-check-endorse-fortune-simple-burden-student
+bip_39_word_dash_11: trim-feed-churn-multiply-check-endorse-fortune-simple-burden-student-swamp
+bip_39_word_dash_12: trim-feed-churn-multiply-check-endorse-fortune-simple-burden-student-swamp-ahead
+bip_39_word_dash_2: trim-feed
+bip_39_word_dash_3: trim-feed-churn
+bip_39_word_dash_4: trim-feed-churn-multiply
+bip_39_word_dash_5: trim-feed-churn-multiply-check
+bip_39_word_dash_6: trim-feed-churn-multiply-check-endorse
+bip_39_word_dash_7: trim-feed-churn-multiply-check-endorse-fortune
+bip_39_word_dash_8: trim-feed-churn-multiply-check-endorse-fortune-simple
+bip_39_word_dash_9: trim-feed-churn-multiply-check-endorse-fortune-simple-burden
 bip_39_word_new_br_1: trim
 bip_39_word_new_br_10: trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple<br>burden<br>student
 bip_39_word_new_br_11: trim<br>feed<br>churn<br>multiply<br>check<br>endorse<br>fortune<br>simple<br>burden<br>student<br>swamp
@@ -194,6 +206,18 @@ bip_39_word_space_6: trim feed churn multiply check endorse
 bip_39_word_space_7: trim feed churn multiply check endorse fortune
 bip_39_word_space_8: trim feed churn multiply check endorse fortune simple
 bip_39_word_space_9: trim feed churn multiply check endorse fortune simple burden
+bip_39_word_underscore_1: trim
+bip_39_word_underscore_10: trim_feed_churn_multiply_check_endorse_fortune_simple_burden_student
+bip_39_word_underscore_11: trim_feed_churn_multiply_check_endorse_fortune_simple_burden_student_swamp
+bip_39_word_underscore_12: trim_feed_churn_multiply_check_endorse_fortune_simple_burden_student_swamp_ahead
+bip_39_word_underscore_2: trim_feed
+bip_39_word_underscore_3: trim_feed_churn
+bip_39_word_underscore_4: trim_feed_churn_multiply
+bip_39_word_underscore_5: trim_feed_churn_multiply_check
+bip_39_word_underscore_6: trim_feed_churn_multiply_check_endorse
+bip_39_word_underscore_7: trim_feed_churn_multiply_check_endorse_fortune
+bip_39_word_underscore_8: trim_feed_churn_multiply_check_endorse_fortune_simple
+bip_39_word_underscore_9: trim_feed_churn_multiply_check_endorse_fortune_simple_burden
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

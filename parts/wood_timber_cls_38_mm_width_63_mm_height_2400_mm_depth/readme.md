@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swarm |  
+| bip_39_word_dash_10 | swarm-chapter-swallow-goddess-kiwi-plate-jungle-peace-magnet-wink |  
+| bip_39_word_dash_11 | swarm-chapter-swallow-goddess-kiwi-plate-jungle-peace-magnet-wink-frequent |  
+| bip_39_word_dash_12 | swarm-chapter-swallow-goddess-kiwi-plate-jungle-peace-magnet-wink-frequent-afford |  
+| bip_39_word_dash_2 | swarm-chapter |  
+| bip_39_word_dash_3 | swarm-chapter-swallow |  
+| bip_39_word_dash_4 | swarm-chapter-swallow-goddess |  
+| bip_39_word_dash_5 | swarm-chapter-swallow-goddess-kiwi |  
+| bip_39_word_dash_6 | swarm-chapter-swallow-goddess-kiwi-plate |  
+| bip_39_word_dash_7 | swarm-chapter-swallow-goddess-kiwi-plate-jungle |  
+| bip_39_word_dash_8 | swarm-chapter-swallow-goddess-kiwi-plate-jungle-peace |  
+| bip_39_word_dash_9 | swarm-chapter-swallow-goddess-kiwi-plate-jungle-peace-magnet |  
 | bip_39_word_new_br_1 | swarm |  
 | bip_39_word_new_br_10 | swarm<br>chapter<br>swallow<br>goddess<br>kiwi<br>plate<br>jungle<br>peace<br>magnet<br>wink |  
 | bip_39_word_new_br_11 | swarm<br>chapter<br>swallow<br>goddess<br>kiwi<br>plate<br>jungle<br>peace<br>magnet<br>wink<br>frequent |  
@@ -147,6 +159,18 @@ magnet |
 | bip_39_word_space_7 | swarm chapter swallow goddess kiwi plate jungle |  
 | bip_39_word_space_8 | swarm chapter swallow goddess kiwi plate jungle peace |  
 | bip_39_word_space_9 | swarm chapter swallow goddess kiwi plate jungle peace magnet |  
+| bip_39_word_underscore_1 | swarm |  
+| bip_39_word_underscore_10 | swarm_chapter_swallow_goddess_kiwi_plate_jungle_peace_magnet_wink |  
+| bip_39_word_underscore_11 | swarm_chapter_swallow_goddess_kiwi_plate_jungle_peace_magnet_wink_frequent |  
+| bip_39_word_underscore_12 | swarm_chapter_swallow_goddess_kiwi_plate_jungle_peace_magnet_wink_frequent_afford |  
+| bip_39_word_underscore_2 | swarm_chapter |  
+| bip_39_word_underscore_3 | swarm_chapter_swallow |  
+| bip_39_word_underscore_4 | swarm_chapter_swallow_goddess |  
+| bip_39_word_underscore_5 | swarm_chapter_swallow_goddess_kiwi |  
+| bip_39_word_underscore_6 | swarm_chapter_swallow_goddess_kiwi_plate |  
+| bip_39_word_underscore_7 | swarm_chapter_swallow_goddess_kiwi_plate_jungle |  
+| bip_39_word_underscore_8 | swarm_chapter_swallow_goddess_kiwi_plate_jungle_peace |  
+| bip_39_word_underscore_9 | swarm_chapter_swallow_goddess_kiwi_plate_jungle_peace_magnet |  
 | classification | wood |  
 | classification_capital | Wood |  
 | classification_first_letter | w |  

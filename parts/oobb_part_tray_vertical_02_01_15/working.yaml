@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fly
+bip_39_word_dash_10: fly-goat-palm-sudden-balcony-glad-patch-arrange-install-crime
+bip_39_word_dash_11: fly-goat-palm-sudden-balcony-glad-patch-arrange-install-crime-swap
+bip_39_word_dash_12: fly-goat-palm-sudden-balcony-glad-patch-arrange-install-crime-swap-afraid
+bip_39_word_dash_2: fly-goat
+bip_39_word_dash_3: fly-goat-palm
+bip_39_word_dash_4: fly-goat-palm-sudden
+bip_39_word_dash_5: fly-goat-palm-sudden-balcony
+bip_39_word_dash_6: fly-goat-palm-sudden-balcony-glad
+bip_39_word_dash_7: fly-goat-palm-sudden-balcony-glad-patch
+bip_39_word_dash_8: fly-goat-palm-sudden-balcony-glad-patch-arrange
+bip_39_word_dash_9: fly-goat-palm-sudden-balcony-glad-patch-arrange-install
 bip_39_word_new_br_1: fly
 bip_39_word_new_br_10: fly<br>goat<br>palm<br>sudden<br>balcony<br>glad<br>patch<br>arrange<br>install<br>crime
 bip_39_word_new_br_11: fly<br>goat<br>palm<br>sudden<br>balcony<br>glad<br>patch<br>arrange<br>install<br>crime<br>swap
@@ -193,6 +205,18 @@ bip_39_word_space_6: fly goat palm sudden balcony glad
 bip_39_word_space_7: fly goat palm sudden balcony glad patch
 bip_39_word_space_8: fly goat palm sudden balcony glad patch arrange
 bip_39_word_space_9: fly goat palm sudden balcony glad patch arrange install
+bip_39_word_underscore_1: fly
+bip_39_word_underscore_10: fly_goat_palm_sudden_balcony_glad_patch_arrange_install_crime
+bip_39_word_underscore_11: fly_goat_palm_sudden_balcony_glad_patch_arrange_install_crime_swap
+bip_39_word_underscore_12: fly_goat_palm_sudden_balcony_glad_patch_arrange_install_crime_swap_afraid
+bip_39_word_underscore_2: fly_goat
+bip_39_word_underscore_3: fly_goat_palm
+bip_39_word_underscore_4: fly_goat_palm_sudden
+bip_39_word_underscore_5: fly_goat_palm_sudden_balcony
+bip_39_word_underscore_6: fly_goat_palm_sudden_balcony_glad
+bip_39_word_underscore_7: fly_goat_palm_sudden_balcony_glad_patch
+bip_39_word_underscore_8: fly_goat_palm_sudden_balcony_glad_patch_arrange
+bip_39_word_underscore_9: fly_goat_palm_sudden_balcony_glad_patch_arrange_install
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

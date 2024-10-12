@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | right |  
+| bip_39_word_dash_10 | right-enlist-outdoor-refuse-frown-real-power-amount-mule-that |  
+| bip_39_word_dash_11 | right-enlist-outdoor-refuse-frown-real-power-amount-mule-that-real |  
+| bip_39_word_dash_12 | right-enlist-outdoor-refuse-frown-real-power-amount-mule-that-real-account |  
+| bip_39_word_dash_2 | right-enlist |  
+| bip_39_word_dash_3 | right-enlist-outdoor |  
+| bip_39_word_dash_4 | right-enlist-outdoor-refuse |  
+| bip_39_word_dash_5 | right-enlist-outdoor-refuse-frown |  
+| bip_39_word_dash_6 | right-enlist-outdoor-refuse-frown-real |  
+| bip_39_word_dash_7 | right-enlist-outdoor-refuse-frown-real-power |  
+| bip_39_word_dash_8 | right-enlist-outdoor-refuse-frown-real-power-amount |  
+| bip_39_word_dash_9 | right-enlist-outdoor-refuse-frown-real-power-amount-mule |  
 | bip_39_word_new_br_1 | right |  
 | bip_39_word_new_br_10 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount<br>mule<br>that |  
 | bip_39_word_new_br_11 | right<br>enlist<br>outdoor<br>refuse<br>frown<br>real<br>power<br>amount<br>mule<br>that<br>real |  
@@ -147,6 +159,18 @@ mule |
 | bip_39_word_space_7 | right enlist outdoor refuse frown real power |  
 | bip_39_word_space_8 | right enlist outdoor refuse frown real power amount |  
 | bip_39_word_space_9 | right enlist outdoor refuse frown real power amount mule |  
+| bip_39_word_underscore_1 | right |  
+| bip_39_word_underscore_10 | right_enlist_outdoor_refuse_frown_real_power_amount_mule_that |  
+| bip_39_word_underscore_11 | right_enlist_outdoor_refuse_frown_real_power_amount_mule_that_real |  
+| bip_39_word_underscore_12 | right_enlist_outdoor_refuse_frown_real_power_amount_mule_that_real_account |  
+| bip_39_word_underscore_2 | right_enlist |  
+| bip_39_word_underscore_3 | right_enlist_outdoor |  
+| bip_39_word_underscore_4 | right_enlist_outdoor_refuse |  
+| bip_39_word_underscore_5 | right_enlist_outdoor_refuse_frown |  
+| bip_39_word_underscore_6 | right_enlist_outdoor_refuse_frown_real |  
+| bip_39_word_underscore_7 | right_enlist_outdoor_refuse_frown_real_power |  
+| bip_39_word_underscore_8 | right_enlist_outdoor_refuse_frown_real_power_amount |  
+| bip_39_word_underscore_9 | right_enlist_outdoor_refuse_frown_real_power_amount_mule |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

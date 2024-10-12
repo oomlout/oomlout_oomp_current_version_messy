@@ -1,3 +1,15 @@
+bip_39_word_dash_1: witness
+bip_39_word_dash_10: witness-leader-above-adapt-tomato-sorry-spoon-usual-ski-mountain
+bip_39_word_dash_11: witness-leader-above-adapt-tomato-sorry-spoon-usual-ski-mountain-march
+bip_39_word_dash_12: witness-leader-above-adapt-tomato-sorry-spoon-usual-ski-mountain-march-approve
+bip_39_word_dash_2: witness-leader
+bip_39_word_dash_3: witness-leader-above
+bip_39_word_dash_4: witness-leader-above-adapt
+bip_39_word_dash_5: witness-leader-above-adapt-tomato
+bip_39_word_dash_6: witness-leader-above-adapt-tomato-sorry
+bip_39_word_dash_7: witness-leader-above-adapt-tomato-sorry-spoon
+bip_39_word_dash_8: witness-leader-above-adapt-tomato-sorry-spoon-usual
+bip_39_word_dash_9: witness-leader-above-adapt-tomato-sorry-spoon-usual-ski
 bip_39_word_new_br_1: witness
 bip_39_word_new_br_10: witness<br>leader<br>above<br>adapt<br>tomato<br>sorry<br>spoon<br>usual<br>ski<br>mountain
 bip_39_word_new_br_11: witness<br>leader<br>above<br>adapt<br>tomato<br>sorry<br>spoon<br>usual<br>ski<br>mountain<br>march
@@ -193,6 +205,18 @@ bip_39_word_space_6: witness leader above adapt tomato sorry
 bip_39_word_space_7: witness leader above adapt tomato sorry spoon
 bip_39_word_space_8: witness leader above adapt tomato sorry spoon usual
 bip_39_word_space_9: witness leader above adapt tomato sorry spoon usual ski
+bip_39_word_underscore_1: witness
+bip_39_word_underscore_10: witness_leader_above_adapt_tomato_sorry_spoon_usual_ski_mountain
+bip_39_word_underscore_11: witness_leader_above_adapt_tomato_sorry_spoon_usual_ski_mountain_march
+bip_39_word_underscore_12: witness_leader_above_adapt_tomato_sorry_spoon_usual_ski_mountain_march_approve
+bip_39_word_underscore_2: witness_leader
+bip_39_word_underscore_3: witness_leader_above
+bip_39_word_underscore_4: witness_leader_above_adapt
+bip_39_word_underscore_5: witness_leader_above_adapt_tomato
+bip_39_word_underscore_6: witness_leader_above_adapt_tomato_sorry
+bip_39_word_underscore_7: witness_leader_above_adapt_tomato_sorry_spoon
+bip_39_word_underscore_8: witness_leader_above_adapt_tomato_sorry_spoon_usual
+bip_39_word_underscore_9: witness_leader_above_adapt_tomato_sorry_spoon_usual_ski
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

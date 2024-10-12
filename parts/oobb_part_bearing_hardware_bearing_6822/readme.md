@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | knee |  
+| bip_39_word_dash_10 | knee-month-coffee-rail-turkey-across-hold-woman-rubber-primary |  
+| bip_39_word_dash_11 | knee-month-coffee-rail-turkey-across-hold-woman-rubber-primary-unveil |  
+| bip_39_word_dash_12 | knee-month-coffee-rail-turkey-across-hold-woman-rubber-primary-unveil-amateur |  
+| bip_39_word_dash_2 | knee-month |  
+| bip_39_word_dash_3 | knee-month-coffee |  
+| bip_39_word_dash_4 | knee-month-coffee-rail |  
+| bip_39_word_dash_5 | knee-month-coffee-rail-turkey |  
+| bip_39_word_dash_6 | knee-month-coffee-rail-turkey-across |  
+| bip_39_word_dash_7 | knee-month-coffee-rail-turkey-across-hold |  
+| bip_39_word_dash_8 | knee-month-coffee-rail-turkey-across-hold-woman |  
+| bip_39_word_dash_9 | knee-month-coffee-rail-turkey-across-hold-woman-rubber |  
 | bip_39_word_new_br_1 | knee |  
 | bip_39_word_new_br_10 | knee<br>month<br>coffee<br>rail<br>turkey<br>across<br>hold<br>woman<br>rubber<br>primary |  
 | bip_39_word_new_br_11 | knee<br>month<br>coffee<br>rail<br>turkey<br>across<br>hold<br>woman<br>rubber<br>primary<br>unveil |  
@@ -147,6 +159,18 @@ rubber |
 | bip_39_word_space_7 | knee month coffee rail turkey across hold |  
 | bip_39_word_space_8 | knee month coffee rail turkey across hold woman |  
 | bip_39_word_space_9 | knee month coffee rail turkey across hold woman rubber |  
+| bip_39_word_underscore_1 | knee |  
+| bip_39_word_underscore_10 | knee_month_coffee_rail_turkey_across_hold_woman_rubber_primary |  
+| bip_39_word_underscore_11 | knee_month_coffee_rail_turkey_across_hold_woman_rubber_primary_unveil |  
+| bip_39_word_underscore_12 | knee_month_coffee_rail_turkey_across_hold_woman_rubber_primary_unveil_amateur |  
+| bip_39_word_underscore_2 | knee_month |  
+| bip_39_word_underscore_3 | knee_month_coffee |  
+| bip_39_word_underscore_4 | knee_month_coffee_rail |  
+| bip_39_word_underscore_5 | knee_month_coffee_rail_turkey |  
+| bip_39_word_underscore_6 | knee_month_coffee_rail_turkey_across |  
+| bip_39_word_underscore_7 | knee_month_coffee_rail_turkey_across_hold |  
+| bip_39_word_underscore_8 | knee_month_coffee_rail_turkey_across_hold_woman |  
+| bip_39_word_underscore_9 | knee_month_coffee_rail_turkey_across_hold_woman_rubber |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

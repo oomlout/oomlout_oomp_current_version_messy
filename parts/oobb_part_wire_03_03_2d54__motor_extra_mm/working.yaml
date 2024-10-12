@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spider
+bip_39_word_dash_10: spider-priority-borrow-scale-chunk-crawl-own-gown-wide-safe
+bip_39_word_dash_11: spider-priority-borrow-scale-chunk-crawl-own-gown-wide-safe-razor
+bip_39_word_dash_12: spider-priority-borrow-scale-chunk-crawl-own-gown-wide-safe-razor-announce
+bip_39_word_dash_2: spider-priority
+bip_39_word_dash_3: spider-priority-borrow
+bip_39_word_dash_4: spider-priority-borrow-scale
+bip_39_word_dash_5: spider-priority-borrow-scale-chunk
+bip_39_word_dash_6: spider-priority-borrow-scale-chunk-crawl
+bip_39_word_dash_7: spider-priority-borrow-scale-chunk-crawl-own
+bip_39_word_dash_8: spider-priority-borrow-scale-chunk-crawl-own-gown
+bip_39_word_dash_9: spider-priority-borrow-scale-chunk-crawl-own-gown-wide
 bip_39_word_new_br_1: spider
 bip_39_word_new_br_10: spider<br>priority<br>borrow<br>scale<br>chunk<br>crawl<br>own<br>gown<br>wide<br>safe
 bip_39_word_new_br_11: spider<br>priority<br>borrow<br>scale<br>chunk<br>crawl<br>own<br>gown<br>wide<br>safe<br>razor
@@ -193,6 +205,18 @@ bip_39_word_space_6: spider priority borrow scale chunk crawl
 bip_39_word_space_7: spider priority borrow scale chunk crawl own
 bip_39_word_space_8: spider priority borrow scale chunk crawl own gown
 bip_39_word_space_9: spider priority borrow scale chunk crawl own gown wide
+bip_39_word_underscore_1: spider
+bip_39_word_underscore_10: spider_priority_borrow_scale_chunk_crawl_own_gown_wide_safe
+bip_39_word_underscore_11: spider_priority_borrow_scale_chunk_crawl_own_gown_wide_safe_razor
+bip_39_word_underscore_12: spider_priority_borrow_scale_chunk_crawl_own_gown_wide_safe_razor_announce
+bip_39_word_underscore_2: spider_priority
+bip_39_word_underscore_3: spider_priority_borrow
+bip_39_word_underscore_4: spider_priority_borrow_scale
+bip_39_word_underscore_5: spider_priority_borrow_scale_chunk
+bip_39_word_underscore_6: spider_priority_borrow_scale_chunk_crawl
+bip_39_word_underscore_7: spider_priority_borrow_scale_chunk_crawl_own
+bip_39_word_underscore_8: spider_priority_borrow_scale_chunk_crawl_own_gown
+bip_39_word_underscore_9: spider_priority_borrow_scale_chunk_crawl_own_gown_wide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

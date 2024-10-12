@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | artist |  
+| bip_39_word_dash_10 | artist-hungry-verify-bonus-wreck-ensure-blast-search-suit-solar |  
+| bip_39_word_dash_11 | artist-hungry-verify-bonus-wreck-ensure-blast-search-suit-solar-cute |  
+| bip_39_word_dash_12 | artist-hungry-verify-bonus-wreck-ensure-blast-search-suit-solar-cute-alarm |  
+| bip_39_word_dash_2 | artist-hungry |  
+| bip_39_word_dash_3 | artist-hungry-verify |  
+| bip_39_word_dash_4 | artist-hungry-verify-bonus |  
+| bip_39_word_dash_5 | artist-hungry-verify-bonus-wreck |  
+| bip_39_word_dash_6 | artist-hungry-verify-bonus-wreck-ensure |  
+| bip_39_word_dash_7 | artist-hungry-verify-bonus-wreck-ensure-blast |  
+| bip_39_word_dash_8 | artist-hungry-verify-bonus-wreck-ensure-blast-search |  
+| bip_39_word_dash_9 | artist-hungry-verify-bonus-wreck-ensure-blast-search-suit |  
 | bip_39_word_new_br_1 | artist |  
 | bip_39_word_new_br_10 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search<br>suit<br>solar |  
 | bip_39_word_new_br_11 | artist<br>hungry<br>verify<br>bonus<br>wreck<br>ensure<br>blast<br>search<br>suit<br>solar<br>cute |  
@@ -147,6 +159,18 @@ suit |
 | bip_39_word_space_7 | artist hungry verify bonus wreck ensure blast |  
 | bip_39_word_space_8 | artist hungry verify bonus wreck ensure blast search |  
 | bip_39_word_space_9 | artist hungry verify bonus wreck ensure blast search suit |  
+| bip_39_word_underscore_1 | artist |  
+| bip_39_word_underscore_10 | artist_hungry_verify_bonus_wreck_ensure_blast_search_suit_solar |  
+| bip_39_word_underscore_11 | artist_hungry_verify_bonus_wreck_ensure_blast_search_suit_solar_cute |  
+| bip_39_word_underscore_12 | artist_hungry_verify_bonus_wreck_ensure_blast_search_suit_solar_cute_alarm |  
+| bip_39_word_underscore_2 | artist_hungry |  
+| bip_39_word_underscore_3 | artist_hungry_verify |  
+| bip_39_word_underscore_4 | artist_hungry_verify_bonus |  
+| bip_39_word_underscore_5 | artist_hungry_verify_bonus_wreck |  
+| bip_39_word_underscore_6 | artist_hungry_verify_bonus_wreck_ensure |  
+| bip_39_word_underscore_7 | artist_hungry_verify_bonus_wreck_ensure_blast |  
+| bip_39_word_underscore_8 | artist_hungry_verify_bonus_wreck_ensure_blast_search |  
+| bip_39_word_underscore_9 | artist_hungry_verify_bonus_wreck_ensure_blast_search_suit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

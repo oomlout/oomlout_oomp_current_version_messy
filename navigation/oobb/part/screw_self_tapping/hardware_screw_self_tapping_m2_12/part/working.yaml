@@ -1,3 +1,15 @@
+bip_39_word_dash_1: library
+bip_39_word_dash_10: library-desk-ribbon-lecture-version-skill-extend-future-shadow-rather
+bip_39_word_dash_11: library-desk-ribbon-lecture-version-skill-extend-future-shadow-rather-maze
+bip_39_word_dash_12: library-desk-ribbon-lecture-version-skill-extend-future-shadow-rather-maze-august
+bip_39_word_dash_2: library-desk
+bip_39_word_dash_3: library-desk-ribbon
+bip_39_word_dash_4: library-desk-ribbon-lecture
+bip_39_word_dash_5: library-desk-ribbon-lecture-version
+bip_39_word_dash_6: library-desk-ribbon-lecture-version-skill
+bip_39_word_dash_7: library-desk-ribbon-lecture-version-skill-extend
+bip_39_word_dash_8: library-desk-ribbon-lecture-version-skill-extend-future
+bip_39_word_dash_9: library-desk-ribbon-lecture-version-skill-extend-future-shadow
 bip_39_word_new_br_1: library
 bip_39_word_new_br_10: library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future<br>shadow<br>rather
 bip_39_word_new_br_11: library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future<br>shadow<br>rather<br>maze
@@ -194,6 +206,18 @@ bip_39_word_space_6: library desk ribbon lecture version skill
 bip_39_word_space_7: library desk ribbon lecture version skill extend
 bip_39_word_space_8: library desk ribbon lecture version skill extend future
 bip_39_word_space_9: library desk ribbon lecture version skill extend future shadow
+bip_39_word_underscore_1: library
+bip_39_word_underscore_10: library_desk_ribbon_lecture_version_skill_extend_future_shadow_rather
+bip_39_word_underscore_11: library_desk_ribbon_lecture_version_skill_extend_future_shadow_rather_maze
+bip_39_word_underscore_12: library_desk_ribbon_lecture_version_skill_extend_future_shadow_rather_maze_august
+bip_39_word_underscore_2: library_desk
+bip_39_word_underscore_3: library_desk_ribbon
+bip_39_word_underscore_4: library_desk_ribbon_lecture
+bip_39_word_underscore_5: library_desk_ribbon_lecture_version
+bip_39_word_underscore_6: library_desk_ribbon_lecture_version_skill
+bip_39_word_underscore_7: library_desk_ribbon_lecture_version_skill_extend
+bip_39_word_underscore_8: library_desk_ribbon_lecture_version_skill_extend_future
+bip_39_word_underscore_9: library_desk_ribbon_lecture_version_skill_extend_future_shadow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

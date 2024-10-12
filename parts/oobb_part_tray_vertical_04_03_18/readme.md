@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | very |  
+| bip_39_word_dash_10 | very-immune-creek-melt-mirror-cheap-nature-zoo-virtual-toe |  
+| bip_39_word_dash_11 | very-immune-creek-melt-mirror-cheap-nature-zoo-virtual-toe-art |  
+| bip_39_word_dash_12 | very-immune-creek-melt-mirror-cheap-nature-zoo-virtual-toe-art-accident |  
+| bip_39_word_dash_2 | very-immune |  
+| bip_39_word_dash_3 | very-immune-creek |  
+| bip_39_word_dash_4 | very-immune-creek-melt |  
+| bip_39_word_dash_5 | very-immune-creek-melt-mirror |  
+| bip_39_word_dash_6 | very-immune-creek-melt-mirror-cheap |  
+| bip_39_word_dash_7 | very-immune-creek-melt-mirror-cheap-nature |  
+| bip_39_word_dash_8 | very-immune-creek-melt-mirror-cheap-nature-zoo |  
+| bip_39_word_dash_9 | very-immune-creek-melt-mirror-cheap-nature-zoo-virtual |  
 | bip_39_word_new_br_1 | very |  
 | bip_39_word_new_br_10 | very<br>immune<br>creek<br>melt<br>mirror<br>cheap<br>nature<br>zoo<br>virtual<br>toe |  
 | bip_39_word_new_br_11 | very<br>immune<br>creek<br>melt<br>mirror<br>cheap<br>nature<br>zoo<br>virtual<br>toe<br>art |  
@@ -147,6 +159,18 @@ virtual |
 | bip_39_word_space_7 | very immune creek melt mirror cheap nature |  
 | bip_39_word_space_8 | very immune creek melt mirror cheap nature zoo |  
 | bip_39_word_space_9 | very immune creek melt mirror cheap nature zoo virtual |  
+| bip_39_word_underscore_1 | very |  
+| bip_39_word_underscore_10 | very_immune_creek_melt_mirror_cheap_nature_zoo_virtual_toe |  
+| bip_39_word_underscore_11 | very_immune_creek_melt_mirror_cheap_nature_zoo_virtual_toe_art |  
+| bip_39_word_underscore_12 | very_immune_creek_melt_mirror_cheap_nature_zoo_virtual_toe_art_accident |  
+| bip_39_word_underscore_2 | very_immune |  
+| bip_39_word_underscore_3 | very_immune_creek |  
+| bip_39_word_underscore_4 | very_immune_creek_melt |  
+| bip_39_word_underscore_5 | very_immune_creek_melt_mirror |  
+| bip_39_word_underscore_6 | very_immune_creek_melt_mirror_cheap |  
+| bip_39_word_underscore_7 | very_immune_creek_melt_mirror_cheap_nature |  
+| bip_39_word_underscore_8 | very_immune_creek_melt_mirror_cheap_nature_zoo |  
+| bip_39_word_underscore_9 | very_immune_creek_melt_mirror_cheap_nature_zoo_virtual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

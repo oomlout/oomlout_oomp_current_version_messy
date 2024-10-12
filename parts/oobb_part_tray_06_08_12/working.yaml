@@ -1,3 +1,15 @@
+bip_39_word_dash_1: current
+bip_39_word_dash_10: current-split-nation-hurry-divide-message-eye-smile-skirt-voyage
+bip_39_word_dash_11: current-split-nation-hurry-divide-message-eye-smile-skirt-voyage-treat
+bip_39_word_dash_12: current-split-nation-hurry-divide-message-eye-smile-skirt-voyage-treat-anger
+bip_39_word_dash_2: current-split
+bip_39_word_dash_3: current-split-nation
+bip_39_word_dash_4: current-split-nation-hurry
+bip_39_word_dash_5: current-split-nation-hurry-divide
+bip_39_word_dash_6: current-split-nation-hurry-divide-message
+bip_39_word_dash_7: current-split-nation-hurry-divide-message-eye
+bip_39_word_dash_8: current-split-nation-hurry-divide-message-eye-smile
+bip_39_word_dash_9: current-split-nation-hurry-divide-message-eye-smile-skirt
 bip_39_word_new_br_1: current
 bip_39_word_new_br_10: current<br>split<br>nation<br>hurry<br>divide<br>message<br>eye<br>smile<br>skirt<br>voyage
 bip_39_word_new_br_11: current<br>split<br>nation<br>hurry<br>divide<br>message<br>eye<br>smile<br>skirt<br>voyage<br>treat
@@ -193,6 +205,18 @@ bip_39_word_space_6: current split nation hurry divide message
 bip_39_word_space_7: current split nation hurry divide message eye
 bip_39_word_space_8: current split nation hurry divide message eye smile
 bip_39_word_space_9: current split nation hurry divide message eye smile skirt
+bip_39_word_underscore_1: current
+bip_39_word_underscore_10: current_split_nation_hurry_divide_message_eye_smile_skirt_voyage
+bip_39_word_underscore_11: current_split_nation_hurry_divide_message_eye_smile_skirt_voyage_treat
+bip_39_word_underscore_12: current_split_nation_hurry_divide_message_eye_smile_skirt_voyage_treat_anger
+bip_39_word_underscore_2: current_split
+bip_39_word_underscore_3: current_split_nation
+bip_39_word_underscore_4: current_split_nation_hurry
+bip_39_word_underscore_5: current_split_nation_hurry_divide
+bip_39_word_underscore_6: current_split_nation_hurry_divide_message
+bip_39_word_underscore_7: current_split_nation_hurry_divide_message_eye
+bip_39_word_underscore_8: current_split_nation_hurry_divide_message_eye_smile
+bip_39_word_underscore_9: current_split_nation_hurry_divide_message_eye_smile_skirt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

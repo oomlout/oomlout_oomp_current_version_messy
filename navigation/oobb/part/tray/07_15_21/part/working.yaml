@@ -1,3 +1,15 @@
+bip_39_word_dash_1: identify
+bip_39_word_dash_10: identify-lady-sure-lion-hint-shallow-hill-goat-zebra-dune
+bip_39_word_dash_11: identify-lady-sure-lion-hint-shallow-hill-goat-zebra-dune-scissors
+bip_39_word_dash_12: identify-lady-sure-lion-hint-shallow-hill-goat-zebra-dune-scissors-absorb
+bip_39_word_dash_2: identify-lady
+bip_39_word_dash_3: identify-lady-sure
+bip_39_word_dash_4: identify-lady-sure-lion
+bip_39_word_dash_5: identify-lady-sure-lion-hint
+bip_39_word_dash_6: identify-lady-sure-lion-hint-shallow
+bip_39_word_dash_7: identify-lady-sure-lion-hint-shallow-hill
+bip_39_word_dash_8: identify-lady-sure-lion-hint-shallow-hill-goat
+bip_39_word_dash_9: identify-lady-sure-lion-hint-shallow-hill-goat-zebra
 bip_39_word_new_br_1: identify
 bip_39_word_new_br_10: identify<br>lady<br>sure<br>lion<br>hint<br>shallow<br>hill<br>goat<br>zebra<br>dune
 bip_39_word_new_br_11: identify<br>lady<br>sure<br>lion<br>hint<br>shallow<br>hill<br>goat<br>zebra<br>dune<br>scissors
@@ -192,6 +204,18 @@ bip_39_word_space_6: identify lady sure lion hint shallow
 bip_39_word_space_7: identify lady sure lion hint shallow hill
 bip_39_word_space_8: identify lady sure lion hint shallow hill goat
 bip_39_word_space_9: identify lady sure lion hint shallow hill goat zebra
+bip_39_word_underscore_1: identify
+bip_39_word_underscore_10: identify_lady_sure_lion_hint_shallow_hill_goat_zebra_dune
+bip_39_word_underscore_11: identify_lady_sure_lion_hint_shallow_hill_goat_zebra_dune_scissors
+bip_39_word_underscore_12: identify_lady_sure_lion_hint_shallow_hill_goat_zebra_dune_scissors_absorb
+bip_39_word_underscore_2: identify_lady
+bip_39_word_underscore_3: identify_lady_sure
+bip_39_word_underscore_4: identify_lady_sure_lion
+bip_39_word_underscore_5: identify_lady_sure_lion_hint
+bip_39_word_underscore_6: identify_lady_sure_lion_hint_shallow
+bip_39_word_underscore_7: identify_lady_sure_lion_hint_shallow_hill
+bip_39_word_underscore_8: identify_lady_sure_lion_hint_shallow_hill_goat
+bip_39_word_underscore_9: identify_lady_sure_lion_hint_shallow_hill_goat_zebra
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

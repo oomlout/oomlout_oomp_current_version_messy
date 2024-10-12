@@ -1,3 +1,15 @@
+bip_39_word_dash_1: notice
+bip_39_word_dash_10: notice-amount-exotic-salon-claw-royal-execute-guilt-suggest-stuff
+bip_39_word_dash_11: notice-amount-exotic-salon-claw-royal-execute-guilt-suggest-stuff-nut
+bip_39_word_dash_12: notice-amount-exotic-salon-claw-royal-execute-guilt-suggest-stuff-nut-able
+bip_39_word_dash_2: notice-amount
+bip_39_word_dash_3: notice-amount-exotic
+bip_39_word_dash_4: notice-amount-exotic-salon
+bip_39_word_dash_5: notice-amount-exotic-salon-claw
+bip_39_word_dash_6: notice-amount-exotic-salon-claw-royal
+bip_39_word_dash_7: notice-amount-exotic-salon-claw-royal-execute
+bip_39_word_dash_8: notice-amount-exotic-salon-claw-royal-execute-guilt
+bip_39_word_dash_9: notice-amount-exotic-salon-claw-royal-execute-guilt-suggest
 bip_39_word_new_br_1: notice
 bip_39_word_new_br_10: notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt<br>suggest<br>stuff
 bip_39_word_new_br_11: notice<br>amount<br>exotic<br>salon<br>claw<br>royal<br>execute<br>guilt<br>suggest<br>stuff<br>nut
@@ -194,6 +206,18 @@ bip_39_word_space_6: notice amount exotic salon claw royal
 bip_39_word_space_7: notice amount exotic salon claw royal execute
 bip_39_word_space_8: notice amount exotic salon claw royal execute guilt
 bip_39_word_space_9: notice amount exotic salon claw royal execute guilt suggest
+bip_39_word_underscore_1: notice
+bip_39_word_underscore_10: notice_amount_exotic_salon_claw_royal_execute_guilt_suggest_stuff
+bip_39_word_underscore_11: notice_amount_exotic_salon_claw_royal_execute_guilt_suggest_stuff_nut
+bip_39_word_underscore_12: notice_amount_exotic_salon_claw_royal_execute_guilt_suggest_stuff_nut_able
+bip_39_word_underscore_2: notice_amount
+bip_39_word_underscore_3: notice_amount_exotic
+bip_39_word_underscore_4: notice_amount_exotic_salon
+bip_39_word_underscore_5: notice_amount_exotic_salon_claw
+bip_39_word_underscore_6: notice_amount_exotic_salon_claw_royal
+bip_39_word_underscore_7: notice_amount_exotic_salon_claw_royal_execute
+bip_39_word_underscore_8: notice_amount_exotic_salon_claw_royal_execute_guilt
+bip_39_word_underscore_9: notice_amount_exotic_salon_claw_royal_execute_guilt_suggest
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

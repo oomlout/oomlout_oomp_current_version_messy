@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deer |  
+| bip_39_word_dash_10 | deer-bench-fee-jewel-battle-deny-jar-ugly-category-moon |  
+| bip_39_word_dash_11 | deer-bench-fee-jewel-battle-deny-jar-ugly-category-moon-action |  
+| bip_39_word_dash_12 | deer-bench-fee-jewel-battle-deny-jar-ugly-category-moon-action-athlete |  
+| bip_39_word_dash_2 | deer-bench |  
+| bip_39_word_dash_3 | deer-bench-fee |  
+| bip_39_word_dash_4 | deer-bench-fee-jewel |  
+| bip_39_word_dash_5 | deer-bench-fee-jewel-battle |  
+| bip_39_word_dash_6 | deer-bench-fee-jewel-battle-deny |  
+| bip_39_word_dash_7 | deer-bench-fee-jewel-battle-deny-jar |  
+| bip_39_word_dash_8 | deer-bench-fee-jewel-battle-deny-jar-ugly |  
+| bip_39_word_dash_9 | deer-bench-fee-jewel-battle-deny-jar-ugly-category |  
 | bip_39_word_new_br_1 | deer |  
 | bip_39_word_new_br_10 | deer<br>bench<br>fee<br>jewel<br>battle<br>deny<br>jar<br>ugly<br>category<br>moon |  
 | bip_39_word_new_br_11 | deer<br>bench<br>fee<br>jewel<br>battle<br>deny<br>jar<br>ugly<br>category<br>moon<br>action |  
@@ -147,6 +159,18 @@ category |
 | bip_39_word_space_7 | deer bench fee jewel battle deny jar |  
 | bip_39_word_space_8 | deer bench fee jewel battle deny jar ugly |  
 | bip_39_word_space_9 | deer bench fee jewel battle deny jar ugly category |  
+| bip_39_word_underscore_1 | deer |  
+| bip_39_word_underscore_10 | deer_bench_fee_jewel_battle_deny_jar_ugly_category_moon |  
+| bip_39_word_underscore_11 | deer_bench_fee_jewel_battle_deny_jar_ugly_category_moon_action |  
+| bip_39_word_underscore_12 | deer_bench_fee_jewel_battle_deny_jar_ugly_category_moon_action_athlete |  
+| bip_39_word_underscore_2 | deer_bench |  
+| bip_39_word_underscore_3 | deer_bench_fee |  
+| bip_39_word_underscore_4 | deer_bench_fee_jewel |  
+| bip_39_word_underscore_5 | deer_bench_fee_jewel_battle |  
+| bip_39_word_underscore_6 | deer_bench_fee_jewel_battle_deny |  
+| bip_39_word_underscore_7 | deer_bench_fee_jewel_battle_deny_jar |  
+| bip_39_word_underscore_8 | deer_bench_fee_jewel_battle_deny_jar_ugly |  
+| bip_39_word_underscore_9 | deer_bench_fee_jewel_battle_deny_jar_ugly_category |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

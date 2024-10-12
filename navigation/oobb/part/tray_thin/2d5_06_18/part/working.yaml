@@ -1,3 +1,14 @@
+bip_39_word_dash_1: whip
+bip_39_word_dash_10: whip-stone-grocery-tiny-course-boring-arm-desert-shoe-early
+bip_39_word_dash_11: whip-stone-grocery-tiny-course-boring-arm-desert-shoe-early-ridge
+bip_39_word_dash_2: whip-stone
+bip_39_word_dash_3: whip-stone-grocery
+bip_39_word_dash_4: whip-stone-grocery-tiny
+bip_39_word_dash_5: whip-stone-grocery-tiny-course
+bip_39_word_dash_6: whip-stone-grocery-tiny-course-boring
+bip_39_word_dash_7: whip-stone-grocery-tiny-course-boring-arm
+bip_39_word_dash_8: whip-stone-grocery-tiny-course-boring-arm-desert
+bip_39_word_dash_9: whip-stone-grocery-tiny-course-boring-arm-desert-shoe
 bip_39_word_new_br_1: whip
 bip_39_word_new_br_10: whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe<br>early
 bip_39_word_new_br_11: whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe<br>early<br>ridge
@@ -165,6 +176,17 @@ bip_39_word_space_6: whip stone grocery tiny course boring
 bip_39_word_space_7: whip stone grocery tiny course boring arm
 bip_39_word_space_8: whip stone grocery tiny course boring arm desert
 bip_39_word_space_9: whip stone grocery tiny course boring arm desert shoe
+bip_39_word_underscore_1: whip
+bip_39_word_underscore_10: whip_stone_grocery_tiny_course_boring_arm_desert_shoe_early
+bip_39_word_underscore_11: whip_stone_grocery_tiny_course_boring_arm_desert_shoe_early_ridge
+bip_39_word_underscore_2: whip_stone
+bip_39_word_underscore_3: whip_stone_grocery
+bip_39_word_underscore_4: whip_stone_grocery_tiny
+bip_39_word_underscore_5: whip_stone_grocery_tiny_course
+bip_39_word_underscore_6: whip_stone_grocery_tiny_course_boring
+bip_39_word_underscore_7: whip_stone_grocery_tiny_course_boring_arm
+bip_39_word_underscore_8: whip_stone_grocery_tiny_course_boring_arm_desert
+bip_39_word_underscore_9: whip_stone_grocery_tiny_course_boring_arm_desert_shoe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

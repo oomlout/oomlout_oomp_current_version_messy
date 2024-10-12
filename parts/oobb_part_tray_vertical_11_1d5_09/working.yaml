@@ -1,3 +1,15 @@
+bip_39_word_dash_1: palace
+bip_39_word_dash_10: palace-shell-female-assume-club-hand-actual-measure-identify-pretty
+bip_39_word_dash_11: palace-shell-female-assume-club-hand-actual-measure-identify-pretty-genre
+bip_39_word_dash_12: palace-shell-female-assume-club-hand-actual-measure-identify-pretty-genre-apple
+bip_39_word_dash_2: palace-shell
+bip_39_word_dash_3: palace-shell-female
+bip_39_word_dash_4: palace-shell-female-assume
+bip_39_word_dash_5: palace-shell-female-assume-club
+bip_39_word_dash_6: palace-shell-female-assume-club-hand
+bip_39_word_dash_7: palace-shell-female-assume-club-hand-actual
+bip_39_word_dash_8: palace-shell-female-assume-club-hand-actual-measure
+bip_39_word_dash_9: palace-shell-female-assume-club-hand-actual-measure-identify
 bip_39_word_new_br_1: palace
 bip_39_word_new_br_10: palace<br>shell<br>female<br>assume<br>club<br>hand<br>actual<br>measure<br>identify<br>pretty
 bip_39_word_new_br_11: palace<br>shell<br>female<br>assume<br>club<br>hand<br>actual<br>measure<br>identify<br>pretty<br>genre
@@ -194,6 +206,18 @@ bip_39_word_space_6: palace shell female assume club hand
 bip_39_word_space_7: palace shell female assume club hand actual
 bip_39_word_space_8: palace shell female assume club hand actual measure
 bip_39_word_space_9: palace shell female assume club hand actual measure identify
+bip_39_word_underscore_1: palace
+bip_39_word_underscore_10: palace_shell_female_assume_club_hand_actual_measure_identify_pretty
+bip_39_word_underscore_11: palace_shell_female_assume_club_hand_actual_measure_identify_pretty_genre
+bip_39_word_underscore_12: palace_shell_female_assume_club_hand_actual_measure_identify_pretty_genre_apple
+bip_39_word_underscore_2: palace_shell
+bip_39_word_underscore_3: palace_shell_female
+bip_39_word_underscore_4: palace_shell_female_assume
+bip_39_word_underscore_5: palace_shell_female_assume_club
+bip_39_word_underscore_6: palace_shell_female_assume_club_hand
+bip_39_word_underscore_7: palace_shell_female_assume_club_hand_actual
+bip_39_word_underscore_8: palace_shell_female_assume_club_hand_actual_measure
+bip_39_word_underscore_9: palace_shell_female_assume_club_hand_actual_measure_identify
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

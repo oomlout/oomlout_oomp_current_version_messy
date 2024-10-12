@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blast
+bip_39_word_dash_10: blast-nature-bone-casual-hair-yellow-enrich-during-foil-super
+bip_39_word_dash_11: blast-nature-bone-casual-hair-yellow-enrich-during-foil-super-bridge
+bip_39_word_dash_12: blast-nature-bone-casual-hair-yellow-enrich-during-foil-super-bridge-actress
+bip_39_word_dash_2: blast-nature
+bip_39_word_dash_3: blast-nature-bone
+bip_39_word_dash_4: blast-nature-bone-casual
+bip_39_word_dash_5: blast-nature-bone-casual-hair
+bip_39_word_dash_6: blast-nature-bone-casual-hair-yellow
+bip_39_word_dash_7: blast-nature-bone-casual-hair-yellow-enrich
+bip_39_word_dash_8: blast-nature-bone-casual-hair-yellow-enrich-during
+bip_39_word_dash_9: blast-nature-bone-casual-hair-yellow-enrich-during-foil
 bip_39_word_new_br_1: blast
 bip_39_word_new_br_10: blast<br>nature<br>bone<br>casual<br>hair<br>yellow<br>enrich<br>during<br>foil<br>super
 bip_39_word_new_br_11: blast<br>nature<br>bone<br>casual<br>hair<br>yellow<br>enrich<br>during<br>foil<br>super<br>bridge
@@ -193,6 +205,18 @@ bip_39_word_space_6: blast nature bone casual hair yellow
 bip_39_word_space_7: blast nature bone casual hair yellow enrich
 bip_39_word_space_8: blast nature bone casual hair yellow enrich during
 bip_39_word_space_9: blast nature bone casual hair yellow enrich during foil
+bip_39_word_underscore_1: blast
+bip_39_word_underscore_10: blast_nature_bone_casual_hair_yellow_enrich_during_foil_super
+bip_39_word_underscore_11: blast_nature_bone_casual_hair_yellow_enrich_during_foil_super_bridge
+bip_39_word_underscore_12: blast_nature_bone_casual_hair_yellow_enrich_during_foil_super_bridge_actress
+bip_39_word_underscore_2: blast_nature
+bip_39_word_underscore_3: blast_nature_bone
+bip_39_word_underscore_4: blast_nature_bone_casual
+bip_39_word_underscore_5: blast_nature_bone_casual_hair
+bip_39_word_underscore_6: blast_nature_bone_casual_hair_yellow
+bip_39_word_underscore_7: blast_nature_bone_casual_hair_yellow_enrich
+bip_39_word_underscore_8: blast_nature_bone_casual_hair_yellow_enrich_during
+bip_39_word_underscore_9: blast_nature_bone_casual_hair_yellow_enrich_during_foil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

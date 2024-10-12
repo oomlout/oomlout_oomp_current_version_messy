@@ -1,3 +1,15 @@
+bip_39_word_dash_1: act
+bip_39_word_dash_10: act-fox-lumber-sign-absorb-expand-speed-finish-result-proof
+bip_39_word_dash_11: act-fox-lumber-sign-absorb-expand-speed-finish-result-proof-shoot
+bip_39_word_dash_12: act-fox-lumber-sign-absorb-expand-speed-finish-result-proof-shoot-actor
+bip_39_word_dash_2: act-fox
+bip_39_word_dash_3: act-fox-lumber
+bip_39_word_dash_4: act-fox-lumber-sign
+bip_39_word_dash_5: act-fox-lumber-sign-absorb
+bip_39_word_dash_6: act-fox-lumber-sign-absorb-expand
+bip_39_word_dash_7: act-fox-lumber-sign-absorb-expand-speed
+bip_39_word_dash_8: act-fox-lumber-sign-absorb-expand-speed-finish
+bip_39_word_dash_9: act-fox-lumber-sign-absorb-expand-speed-finish-result
 bip_39_word_new_br_1: act
 bip_39_word_new_br_10: act<br>fox<br>lumber<br>sign<br>absorb<br>expand<br>speed<br>finish<br>result<br>proof
 bip_39_word_new_br_11: act<br>fox<br>lumber<br>sign<br>absorb<br>expand<br>speed<br>finish<br>result<br>proof<br>shoot
@@ -193,6 +205,18 @@ bip_39_word_space_6: act fox lumber sign absorb expand
 bip_39_word_space_7: act fox lumber sign absorb expand speed
 bip_39_word_space_8: act fox lumber sign absorb expand speed finish
 bip_39_word_space_9: act fox lumber sign absorb expand speed finish result
+bip_39_word_underscore_1: act
+bip_39_word_underscore_10: act_fox_lumber_sign_absorb_expand_speed_finish_result_proof
+bip_39_word_underscore_11: act_fox_lumber_sign_absorb_expand_speed_finish_result_proof_shoot
+bip_39_word_underscore_12: act_fox_lumber_sign_absorb_expand_speed_finish_result_proof_shoot_actor
+bip_39_word_underscore_2: act_fox
+bip_39_word_underscore_3: act_fox_lumber
+bip_39_word_underscore_4: act_fox_lumber_sign
+bip_39_word_underscore_5: act_fox_lumber_sign_absorb
+bip_39_word_underscore_6: act_fox_lumber_sign_absorb_expand
+bip_39_word_underscore_7: act_fox_lumber_sign_absorb_expand_speed
+bip_39_word_underscore_8: act_fox_lumber_sign_absorb_expand_speed_finish
+bip_39_word_underscore_9: act_fox_lumber_sign_absorb_expand_speed_finish_result
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

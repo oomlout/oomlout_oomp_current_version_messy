@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | festival |  
+| bip_39_word_dash_10 | festival-clock-old-remember-brief-ranch-coffee-chair-trial-burden |  
+| bip_39_word_dash_11 | festival-clock-old-remember-brief-ranch-coffee-chair-trial-burden-festival |  
+| bip_39_word_dash_12 | festival-clock-old-remember-brief-ranch-coffee-chair-trial-burden-festival-arrive |  
+| bip_39_word_dash_2 | festival-clock |  
+| bip_39_word_dash_3 | festival-clock-old |  
+| bip_39_word_dash_4 | festival-clock-old-remember |  
+| bip_39_word_dash_5 | festival-clock-old-remember-brief |  
+| bip_39_word_dash_6 | festival-clock-old-remember-brief-ranch |  
+| bip_39_word_dash_7 | festival-clock-old-remember-brief-ranch-coffee |  
+| bip_39_word_dash_8 | festival-clock-old-remember-brief-ranch-coffee-chair |  
+| bip_39_word_dash_9 | festival-clock-old-remember-brief-ranch-coffee-chair-trial |  
 | bip_39_word_new_br_1 | festival |  
 | bip_39_word_new_br_10 | festival<br>clock<br>old<br>remember<br>brief<br>ranch<br>coffee<br>chair<br>trial<br>burden |  
 | bip_39_word_new_br_11 | festival<br>clock<br>old<br>remember<br>brief<br>ranch<br>coffee<br>chair<br>trial<br>burden<br>festival |  
@@ -147,6 +159,18 @@ trial |
 | bip_39_word_space_7 | festival clock old remember brief ranch coffee |  
 | bip_39_word_space_8 | festival clock old remember brief ranch coffee chair |  
 | bip_39_word_space_9 | festival clock old remember brief ranch coffee chair trial |  
+| bip_39_word_underscore_1 | festival |  
+| bip_39_word_underscore_10 | festival_clock_old_remember_brief_ranch_coffee_chair_trial_burden |  
+| bip_39_word_underscore_11 | festival_clock_old_remember_brief_ranch_coffee_chair_trial_burden_festival |  
+| bip_39_word_underscore_12 | festival_clock_old_remember_brief_ranch_coffee_chair_trial_burden_festival_arrive |  
+| bip_39_word_underscore_2 | festival_clock |  
+| bip_39_word_underscore_3 | festival_clock_old |  
+| bip_39_word_underscore_4 | festival_clock_old_remember |  
+| bip_39_word_underscore_5 | festival_clock_old_remember_brief |  
+| bip_39_word_underscore_6 | festival_clock_old_remember_brief_ranch |  
+| bip_39_word_underscore_7 | festival_clock_old_remember_brief_ranch_coffee |  
+| bip_39_word_underscore_8 | festival_clock_old_remember_brief_ranch_coffee_chair |  
+| bip_39_word_underscore_9 | festival_clock_old_remember_brief_ranch_coffee_chair_trial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,14 @@
+bip_39_word_dash_1: judge
+bip_39_word_dash_10: judge-harbor-vote-breeze-where-fox-save-photo-recycle-try
+bip_39_word_dash_11: judge-harbor-vote-breeze-where-fox-save-photo-recycle-try-craft
+bip_39_word_dash_2: judge-harbor
+bip_39_word_dash_3: judge-harbor-vote
+bip_39_word_dash_4: judge-harbor-vote-breeze
+bip_39_word_dash_5: judge-harbor-vote-breeze-where
+bip_39_word_dash_6: judge-harbor-vote-breeze-where-fox
+bip_39_word_dash_7: judge-harbor-vote-breeze-where-fox-save
+bip_39_word_dash_8: judge-harbor-vote-breeze-where-fox-save-photo
+bip_39_word_dash_9: judge-harbor-vote-breeze-where-fox-save-photo-recycle
 bip_39_word_new_br_1: judge
 bip_39_word_new_br_10: judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle<br>try
 bip_39_word_new_br_11: judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle<br>try<br>craft
@@ -164,6 +175,17 @@ bip_39_word_space_6: judge harbor vote breeze where fox
 bip_39_word_space_7: judge harbor vote breeze where fox save
 bip_39_word_space_8: judge harbor vote breeze where fox save photo
 bip_39_word_space_9: judge harbor vote breeze where fox save photo recycle
+bip_39_word_underscore_1: judge
+bip_39_word_underscore_10: judge_harbor_vote_breeze_where_fox_save_photo_recycle_try
+bip_39_word_underscore_11: judge_harbor_vote_breeze_where_fox_save_photo_recycle_try_craft
+bip_39_word_underscore_2: judge_harbor
+bip_39_word_underscore_3: judge_harbor_vote
+bip_39_word_underscore_4: judge_harbor_vote_breeze
+bip_39_word_underscore_5: judge_harbor_vote_breeze_where
+bip_39_word_underscore_6: judge_harbor_vote_breeze_where_fox
+bip_39_word_underscore_7: judge_harbor_vote_breeze_where_fox_save
+bip_39_word_underscore_8: judge_harbor_vote_breeze_where_fox_save_photo
+bip_39_word_underscore_9: judge_harbor_vote_breeze_where_fox_save_photo_recycle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

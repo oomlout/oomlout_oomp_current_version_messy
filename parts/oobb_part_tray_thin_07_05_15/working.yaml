@@ -1,3 +1,15 @@
+bip_39_word_dash_1: police
+bip_39_word_dash_10: police-alarm-render-general-steak-venue-real-ski-game-canal
+bip_39_word_dash_11: police-alarm-render-general-steak-venue-real-ski-game-canal-that
+bip_39_word_dash_12: police-alarm-render-general-steak-venue-real-ski-game-canal-that-above
+bip_39_word_dash_2: police-alarm
+bip_39_word_dash_3: police-alarm-render
+bip_39_word_dash_4: police-alarm-render-general
+bip_39_word_dash_5: police-alarm-render-general-steak
+bip_39_word_dash_6: police-alarm-render-general-steak-venue
+bip_39_word_dash_7: police-alarm-render-general-steak-venue-real
+bip_39_word_dash_8: police-alarm-render-general-steak-venue-real-ski
+bip_39_word_dash_9: police-alarm-render-general-steak-venue-real-ski-game
 bip_39_word_new_br_1: police
 bip_39_word_new_br_10: police<br>alarm<br>render<br>general<br>steak<br>venue<br>real<br>ski<br>game<br>canal
 bip_39_word_new_br_11: police<br>alarm<br>render<br>general<br>steak<br>venue<br>real<br>ski<br>game<br>canal<br>that
@@ -193,6 +205,18 @@ bip_39_word_space_6: police alarm render general steak venue
 bip_39_word_space_7: police alarm render general steak venue real
 bip_39_word_space_8: police alarm render general steak venue real ski
 bip_39_word_space_9: police alarm render general steak venue real ski game
+bip_39_word_underscore_1: police
+bip_39_word_underscore_10: police_alarm_render_general_steak_venue_real_ski_game_canal
+bip_39_word_underscore_11: police_alarm_render_general_steak_venue_real_ski_game_canal_that
+bip_39_word_underscore_12: police_alarm_render_general_steak_venue_real_ski_game_canal_that_above
+bip_39_word_underscore_2: police_alarm
+bip_39_word_underscore_3: police_alarm_render
+bip_39_word_underscore_4: police_alarm_render_general
+bip_39_word_underscore_5: police_alarm_render_general_steak
+bip_39_word_underscore_6: police_alarm_render_general_steak_venue
+bip_39_word_underscore_7: police_alarm_render_general_steak_venue_real
+bip_39_word_underscore_8: police_alarm_render_general_steak_venue_real_ski
+bip_39_word_underscore_9: police_alarm_render_general_steak_venue_real_ski_game
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: correct
+bip_39_word_dash_10: correct-black-demand-mistake-sugar-old-hotel-talk-speed-scorpion
+bip_39_word_dash_11: correct-black-demand-mistake-sugar-old-hotel-talk-speed-scorpion-fade
+bip_39_word_dash_12: correct-black-demand-mistake-sugar-old-hotel-talk-speed-scorpion-fade-acoustic
+bip_39_word_dash_2: correct-black
+bip_39_word_dash_3: correct-black-demand
+bip_39_word_dash_4: correct-black-demand-mistake
+bip_39_word_dash_5: correct-black-demand-mistake-sugar
+bip_39_word_dash_6: correct-black-demand-mistake-sugar-old
+bip_39_word_dash_7: correct-black-demand-mistake-sugar-old-hotel
+bip_39_word_dash_8: correct-black-demand-mistake-sugar-old-hotel-talk
+bip_39_word_dash_9: correct-black-demand-mistake-sugar-old-hotel-talk-speed
 bip_39_word_new_br_1: correct
 bip_39_word_new_br_10: correct<br>black<br>demand<br>mistake<br>sugar<br>old<br>hotel<br>talk<br>speed<br>scorpion
 bip_39_word_new_br_11: correct<br>black<br>demand<br>mistake<br>sugar<br>old<br>hotel<br>talk<br>speed<br>scorpion<br>fade
@@ -193,6 +205,18 @@ bip_39_word_space_6: correct black demand mistake sugar old
 bip_39_word_space_7: correct black demand mistake sugar old hotel
 bip_39_word_space_8: correct black demand mistake sugar old hotel talk
 bip_39_word_space_9: correct black demand mistake sugar old hotel talk speed
+bip_39_word_underscore_1: correct
+bip_39_word_underscore_10: correct_black_demand_mistake_sugar_old_hotel_talk_speed_scorpion
+bip_39_word_underscore_11: correct_black_demand_mistake_sugar_old_hotel_talk_speed_scorpion_fade
+bip_39_word_underscore_12: correct_black_demand_mistake_sugar_old_hotel_talk_speed_scorpion_fade_acoustic
+bip_39_word_underscore_2: correct_black
+bip_39_word_underscore_3: correct_black_demand
+bip_39_word_underscore_4: correct_black_demand_mistake
+bip_39_word_underscore_5: correct_black_demand_mistake_sugar
+bip_39_word_underscore_6: correct_black_demand_mistake_sugar_old
+bip_39_word_underscore_7: correct_black_demand_mistake_sugar_old_hotel
+bip_39_word_underscore_8: correct_black_demand_mistake_sugar_old_hotel_talk
+bip_39_word_underscore_9: correct_black_demand_mistake_sugar_old_hotel_talk_speed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

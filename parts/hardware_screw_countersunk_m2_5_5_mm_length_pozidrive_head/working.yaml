@@ -1,3 +1,15 @@
+bip_39_word_dash_1: program
+bip_39_word_dash_10: program-gym-talent-recall-pepper-hazard-rocket-ancient-mesh-lyrics
+bip_39_word_dash_11: program-gym-talent-recall-pepper-hazard-rocket-ancient-mesh-lyrics-mirror
+bip_39_word_dash_12: program-gym-talent-recall-pepper-hazard-rocket-ancient-mesh-lyrics-mirror-amateur
+bip_39_word_dash_2: program-gym
+bip_39_word_dash_3: program-gym-talent
+bip_39_word_dash_4: program-gym-talent-recall
+bip_39_word_dash_5: program-gym-talent-recall-pepper
+bip_39_word_dash_6: program-gym-talent-recall-pepper-hazard
+bip_39_word_dash_7: program-gym-talent-recall-pepper-hazard-rocket
+bip_39_word_dash_8: program-gym-talent-recall-pepper-hazard-rocket-ancient
+bip_39_word_dash_9: program-gym-talent-recall-pepper-hazard-rocket-ancient-mesh
 bip_39_word_new_br_1: program
 bip_39_word_new_br_10: program<br>gym<br>talent<br>recall<br>pepper<br>hazard<br>rocket<br>ancient<br>mesh<br>lyrics
 bip_39_word_new_br_11: program<br>gym<br>talent<br>recall<br>pepper<br>hazard<br>rocket<br>ancient<br>mesh<br>lyrics<br>mirror
@@ -194,6 +206,18 @@ bip_39_word_space_6: program gym talent recall pepper hazard
 bip_39_word_space_7: program gym talent recall pepper hazard rocket
 bip_39_word_space_8: program gym talent recall pepper hazard rocket ancient
 bip_39_word_space_9: program gym talent recall pepper hazard rocket ancient mesh
+bip_39_word_underscore_1: program
+bip_39_word_underscore_10: program_gym_talent_recall_pepper_hazard_rocket_ancient_mesh_lyrics
+bip_39_word_underscore_11: program_gym_talent_recall_pepper_hazard_rocket_ancient_mesh_lyrics_mirror
+bip_39_word_underscore_12: program_gym_talent_recall_pepper_hazard_rocket_ancient_mesh_lyrics_mirror_amateur
+bip_39_word_underscore_2: program_gym
+bip_39_word_underscore_3: program_gym_talent
+bip_39_word_underscore_4: program_gym_talent_recall
+bip_39_word_underscore_5: program_gym_talent_recall_pepper
+bip_39_word_underscore_6: program_gym_talent_recall_pepper_hazard
+bip_39_word_underscore_7: program_gym_talent_recall_pepper_hazard_rocket
+bip_39_word_underscore_8: program_gym_talent_recall_pepper_hazard_rocket_ancient
+bip_39_word_underscore_9: program_gym_talent_recall_pepper_hazard_rocket_ancient_mesh
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

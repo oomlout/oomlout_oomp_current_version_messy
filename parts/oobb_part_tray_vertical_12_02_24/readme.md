@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | online |  
+| bip_39_word_dash_10 | online-flag-all-square-stairs-lady-paper-level-sister-artwork |  
+| bip_39_word_dash_11 | online-flag-all-square-stairs-lady-paper-level-sister-artwork-neck |  
+| bip_39_word_dash_12 | online-flag-all-square-stairs-lady-paper-level-sister-artwork-neck-artwork |  
+| bip_39_word_dash_2 | online-flag |  
+| bip_39_word_dash_3 | online-flag-all |  
+| bip_39_word_dash_4 | online-flag-all-square |  
+| bip_39_word_dash_5 | online-flag-all-square-stairs |  
+| bip_39_word_dash_6 | online-flag-all-square-stairs-lady |  
+| bip_39_word_dash_7 | online-flag-all-square-stairs-lady-paper |  
+| bip_39_word_dash_8 | online-flag-all-square-stairs-lady-paper-level |  
+| bip_39_word_dash_9 | online-flag-all-square-stairs-lady-paper-level-sister |  
 | bip_39_word_new_br_1 | online |  
 | bip_39_word_new_br_10 | online<br>flag<br>all<br>square<br>stairs<br>lady<br>paper<br>level<br>sister<br>artwork |  
 | bip_39_word_new_br_11 | online<br>flag<br>all<br>square<br>stairs<br>lady<br>paper<br>level<br>sister<br>artwork<br>neck |  
@@ -147,6 +159,18 @@ sister |
 | bip_39_word_space_7 | online flag all square stairs lady paper |  
 | bip_39_word_space_8 | online flag all square stairs lady paper level |  
 | bip_39_word_space_9 | online flag all square stairs lady paper level sister |  
+| bip_39_word_underscore_1 | online |  
+| bip_39_word_underscore_10 | online_flag_all_square_stairs_lady_paper_level_sister_artwork |  
+| bip_39_word_underscore_11 | online_flag_all_square_stairs_lady_paper_level_sister_artwork_neck |  
+| bip_39_word_underscore_12 | online_flag_all_square_stairs_lady_paper_level_sister_artwork_neck_artwork |  
+| bip_39_word_underscore_2 | online_flag |  
+| bip_39_word_underscore_3 | online_flag_all |  
+| bip_39_word_underscore_4 | online_flag_all_square |  
+| bip_39_word_underscore_5 | online_flag_all_square_stairs |  
+| bip_39_word_underscore_6 | online_flag_all_square_stairs_lady |  
+| bip_39_word_underscore_7 | online_flag_all_square_stairs_lady_paper |  
+| bip_39_word_underscore_8 | online_flag_all_square_stairs_lady_paper_level |  
+| bip_39_word_underscore_9 | online_flag_all_square_stairs_lady_paper_level_sister |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

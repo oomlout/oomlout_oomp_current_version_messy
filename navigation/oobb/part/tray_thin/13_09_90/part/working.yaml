@@ -1,3 +1,15 @@
+bip_39_word_dash_1: satisfy
+bip_39_word_dash_10: satisfy-captain-farm-report-foam-adjust-lake-theory-dust-capable
+bip_39_word_dash_11: satisfy-captain-farm-report-foam-adjust-lake-theory-dust-capable-shrug
+bip_39_word_dash_12: satisfy-captain-farm-report-foam-adjust-lake-theory-dust-capable-shrug-acid
+bip_39_word_dash_2: satisfy-captain
+bip_39_word_dash_3: satisfy-captain-farm
+bip_39_word_dash_4: satisfy-captain-farm-report
+bip_39_word_dash_5: satisfy-captain-farm-report-foam
+bip_39_word_dash_6: satisfy-captain-farm-report-foam-adjust
+bip_39_word_dash_7: satisfy-captain-farm-report-foam-adjust-lake
+bip_39_word_dash_8: satisfy-captain-farm-report-foam-adjust-lake-theory
+bip_39_word_dash_9: satisfy-captain-farm-report-foam-adjust-lake-theory-dust
 bip_39_word_new_br_1: satisfy
 bip_39_word_new_br_10: satisfy<br>captain<br>farm<br>report<br>foam<br>adjust<br>lake<br>theory<br>dust<br>capable
 bip_39_word_new_br_11: satisfy<br>captain<br>farm<br>report<br>foam<br>adjust<br>lake<br>theory<br>dust<br>capable<br>shrug
@@ -193,6 +205,18 @@ bip_39_word_space_6: satisfy captain farm report foam adjust
 bip_39_word_space_7: satisfy captain farm report foam adjust lake
 bip_39_word_space_8: satisfy captain farm report foam adjust lake theory
 bip_39_word_space_9: satisfy captain farm report foam adjust lake theory dust
+bip_39_word_underscore_1: satisfy
+bip_39_word_underscore_10: satisfy_captain_farm_report_foam_adjust_lake_theory_dust_capable
+bip_39_word_underscore_11: satisfy_captain_farm_report_foam_adjust_lake_theory_dust_capable_shrug
+bip_39_word_underscore_12: satisfy_captain_farm_report_foam_adjust_lake_theory_dust_capable_shrug_acid
+bip_39_word_underscore_2: satisfy_captain
+bip_39_word_underscore_3: satisfy_captain_farm
+bip_39_word_underscore_4: satisfy_captain_farm_report
+bip_39_word_underscore_5: satisfy_captain_farm_report_foam
+bip_39_word_underscore_6: satisfy_captain_farm_report_foam_adjust
+bip_39_word_underscore_7: satisfy_captain_farm_report_foam_adjust_lake
+bip_39_word_underscore_8: satisfy_captain_farm_report_foam_adjust_lake_theory
+bip_39_word_underscore_9: satisfy_captain_farm_report_foam_adjust_lake_theory_dust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

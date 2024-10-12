@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | balance |  
+| bip_39_word_dash_10 | balance-wash-core-coil-like-drama-cabin-neutral-shock-hen |  
+| bip_39_word_dash_11 | balance-wash-core-coil-like-drama-cabin-neutral-shock-hen-wet |  
+| bip_39_word_dash_12 | balance-wash-core-coil-like-drama-cabin-neutral-shock-hen-wet-alien |  
+| bip_39_word_dash_2 | balance-wash |  
+| bip_39_word_dash_3 | balance-wash-core |  
+| bip_39_word_dash_4 | balance-wash-core-coil |  
+| bip_39_word_dash_5 | balance-wash-core-coil-like |  
+| bip_39_word_dash_6 | balance-wash-core-coil-like-drama |  
+| bip_39_word_dash_7 | balance-wash-core-coil-like-drama-cabin |  
+| bip_39_word_dash_8 | balance-wash-core-coil-like-drama-cabin-neutral |  
+| bip_39_word_dash_9 | balance-wash-core-coil-like-drama-cabin-neutral-shock |  
 | bip_39_word_new_br_1 | balance |  
 | bip_39_word_new_br_10 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen |  
 | bip_39_word_new_br_11 | balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen<br>wet |  
@@ -147,6 +159,18 @@ shock |
 | bip_39_word_space_7 | balance wash core coil like drama cabin |  
 | bip_39_word_space_8 | balance wash core coil like drama cabin neutral |  
 | bip_39_word_space_9 | balance wash core coil like drama cabin neutral shock |  
+| bip_39_word_underscore_1 | balance |  
+| bip_39_word_underscore_10 | balance_wash_core_coil_like_drama_cabin_neutral_shock_hen |  
+| bip_39_word_underscore_11 | balance_wash_core_coil_like_drama_cabin_neutral_shock_hen_wet |  
+| bip_39_word_underscore_12 | balance_wash_core_coil_like_drama_cabin_neutral_shock_hen_wet_alien |  
+| bip_39_word_underscore_2 | balance_wash |  
+| bip_39_word_underscore_3 | balance_wash_core |  
+| bip_39_word_underscore_4 | balance_wash_core_coil |  
+| bip_39_word_underscore_5 | balance_wash_core_coil_like |  
+| bip_39_word_underscore_6 | balance_wash_core_coil_like_drama |  
+| bip_39_word_underscore_7 | balance_wash_core_coil_like_drama_cabin |  
+| bip_39_word_underscore_8 | balance_wash_core_coil_like_drama_cabin_neutral |  
+| bip_39_word_underscore_9 | balance_wash_core_coil_like_drama_cabin_neutral_shock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

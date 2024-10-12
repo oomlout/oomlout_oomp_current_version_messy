@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gasp
+bip_39_word_dash_10: gasp-bulk-phrase-leader-broccoli-math-cheap-movie-soda-edge
+bip_39_word_dash_11: gasp-bulk-phrase-leader-broccoli-math-cheap-movie-soda-edge-cram
+bip_39_word_dash_12: gasp-bulk-phrase-leader-broccoli-math-cheap-movie-soda-edge-cram-almost
+bip_39_word_dash_2: gasp-bulk
+bip_39_word_dash_3: gasp-bulk-phrase
+bip_39_word_dash_4: gasp-bulk-phrase-leader
+bip_39_word_dash_5: gasp-bulk-phrase-leader-broccoli
+bip_39_word_dash_6: gasp-bulk-phrase-leader-broccoli-math
+bip_39_word_dash_7: gasp-bulk-phrase-leader-broccoli-math-cheap
+bip_39_word_dash_8: gasp-bulk-phrase-leader-broccoli-math-cheap-movie
+bip_39_word_dash_9: gasp-bulk-phrase-leader-broccoli-math-cheap-movie-soda
 bip_39_word_new_br_1: gasp
 bip_39_word_new_br_10: gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie<br>soda<br>edge
 bip_39_word_new_br_11: gasp<br>bulk<br>phrase<br>leader<br>broccoli<br>math<br>cheap<br>movie<br>soda<br>edge<br>cram
@@ -193,6 +205,18 @@ bip_39_word_space_6: gasp bulk phrase leader broccoli math
 bip_39_word_space_7: gasp bulk phrase leader broccoli math cheap
 bip_39_word_space_8: gasp bulk phrase leader broccoli math cheap movie
 bip_39_word_space_9: gasp bulk phrase leader broccoli math cheap movie soda
+bip_39_word_underscore_1: gasp
+bip_39_word_underscore_10: gasp_bulk_phrase_leader_broccoli_math_cheap_movie_soda_edge
+bip_39_word_underscore_11: gasp_bulk_phrase_leader_broccoli_math_cheap_movie_soda_edge_cram
+bip_39_word_underscore_12: gasp_bulk_phrase_leader_broccoli_math_cheap_movie_soda_edge_cram_almost
+bip_39_word_underscore_2: gasp_bulk
+bip_39_word_underscore_3: gasp_bulk_phrase
+bip_39_word_underscore_4: gasp_bulk_phrase_leader
+bip_39_word_underscore_5: gasp_bulk_phrase_leader_broccoli
+bip_39_word_underscore_6: gasp_bulk_phrase_leader_broccoli_math
+bip_39_word_underscore_7: gasp_bulk_phrase_leader_broccoli_math_cheap
+bip_39_word_underscore_8: gasp_bulk_phrase_leader_broccoli_math_cheap_movie
+bip_39_word_underscore_9: gasp_bulk_phrase_leader_broccoli_math_cheap_movie_soda
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

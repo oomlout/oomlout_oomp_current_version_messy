@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | possible |  
+| bip_39_word_dash_10 | possible-hundred-shoe-hover-rich-beauty-defense-sand-exercise-super |  
+| bip_39_word_dash_11 | possible-hundred-shoe-hover-rich-beauty-defense-sand-exercise-super-column |  
+| bip_39_word_dash_12 | possible-hundred-shoe-hover-rich-beauty-defense-sand-exercise-super-column-antenna |  
+| bip_39_word_dash_2 | possible-hundred |  
+| bip_39_word_dash_3 | possible-hundred-shoe |  
+| bip_39_word_dash_4 | possible-hundred-shoe-hover |  
+| bip_39_word_dash_5 | possible-hundred-shoe-hover-rich |  
+| bip_39_word_dash_6 | possible-hundred-shoe-hover-rich-beauty |  
+| bip_39_word_dash_7 | possible-hundred-shoe-hover-rich-beauty-defense |  
+| bip_39_word_dash_8 | possible-hundred-shoe-hover-rich-beauty-defense-sand |  
+| bip_39_word_dash_9 | possible-hundred-shoe-hover-rich-beauty-defense-sand-exercise |  
 | bip_39_word_new_br_1 | possible |  
 | bip_39_word_new_br_10 | possible<br>hundred<br>shoe<br>hover<br>rich<br>beauty<br>defense<br>sand<br>exercise<br>super |  
 | bip_39_word_new_br_11 | possible<br>hundred<br>shoe<br>hover<br>rich<br>beauty<br>defense<br>sand<br>exercise<br>super<br>column |  
@@ -147,6 +159,18 @@ exercise |
 | bip_39_word_space_7 | possible hundred shoe hover rich beauty defense |  
 | bip_39_word_space_8 | possible hundred shoe hover rich beauty defense sand |  
 | bip_39_word_space_9 | possible hundred shoe hover rich beauty defense sand exercise |  
+| bip_39_word_underscore_1 | possible |  
+| bip_39_word_underscore_10 | possible_hundred_shoe_hover_rich_beauty_defense_sand_exercise_super |  
+| bip_39_word_underscore_11 | possible_hundred_shoe_hover_rich_beauty_defense_sand_exercise_super_column |  
+| bip_39_word_underscore_12 | possible_hundred_shoe_hover_rich_beauty_defense_sand_exercise_super_column_antenna |  
+| bip_39_word_underscore_2 | possible_hundred |  
+| bip_39_word_underscore_3 | possible_hundred_shoe |  
+| bip_39_word_underscore_4 | possible_hundred_shoe_hover |  
+| bip_39_word_underscore_5 | possible_hundred_shoe_hover_rich |  
+| bip_39_word_underscore_6 | possible_hundred_shoe_hover_rich_beauty |  
+| bip_39_word_underscore_7 | possible_hundred_shoe_hover_rich_beauty_defense |  
+| bip_39_word_underscore_8 | possible_hundred_shoe_hover_rich_beauty_defense_sand |  
+| bip_39_word_underscore_9 | possible_hundred_shoe_hover_rich_beauty_defense_sand_exercise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

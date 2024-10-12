@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | where |  
+| bip_39_word_dash_10 | where-hero-page-merge-deputy-dirt-hand-gravity-gap-nephew |  
+| bip_39_word_dash_11 | where-hero-page-merge-deputy-dirt-hand-gravity-gap-nephew-midnight |  
+| bip_39_word_dash_12 | where-hero-page-merge-deputy-dirt-hand-gravity-gap-nephew-midnight-audit |  
+| bip_39_word_dash_2 | where-hero |  
+| bip_39_word_dash_3 | where-hero-page |  
+| bip_39_word_dash_4 | where-hero-page-merge |  
+| bip_39_word_dash_5 | where-hero-page-merge-deputy |  
+| bip_39_word_dash_6 | where-hero-page-merge-deputy-dirt |  
+| bip_39_word_dash_7 | where-hero-page-merge-deputy-dirt-hand |  
+| bip_39_word_dash_8 | where-hero-page-merge-deputy-dirt-hand-gravity |  
+| bip_39_word_dash_9 | where-hero-page-merge-deputy-dirt-hand-gravity-gap |  
 | bip_39_word_new_br_1 | where |  
 | bip_39_word_new_br_10 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity<br>gap<br>nephew |  
 | bip_39_word_new_br_11 | where<br>hero<br>page<br>merge<br>deputy<br>dirt<br>hand<br>gravity<br>gap<br>nephew<br>midnight |  
@@ -147,6 +159,18 @@ gap |
 | bip_39_word_space_7 | where hero page merge deputy dirt hand |  
 | bip_39_word_space_8 | where hero page merge deputy dirt hand gravity |  
 | bip_39_word_space_9 | where hero page merge deputy dirt hand gravity gap |  
+| bip_39_word_underscore_1 | where |  
+| bip_39_word_underscore_10 | where_hero_page_merge_deputy_dirt_hand_gravity_gap_nephew |  
+| bip_39_word_underscore_11 | where_hero_page_merge_deputy_dirt_hand_gravity_gap_nephew_midnight |  
+| bip_39_word_underscore_12 | where_hero_page_merge_deputy_dirt_hand_gravity_gap_nephew_midnight_audit |  
+| bip_39_word_underscore_2 | where_hero |  
+| bip_39_word_underscore_3 | where_hero_page |  
+| bip_39_word_underscore_4 | where_hero_page_merge |  
+| bip_39_word_underscore_5 | where_hero_page_merge_deputy |  
+| bip_39_word_underscore_6 | where_hero_page_merge_deputy_dirt |  
+| bip_39_word_underscore_7 | where_hero_page_merge_deputy_dirt_hand |  
+| bip_39_word_underscore_8 | where_hero_page_merge_deputy_dirt_hand_gravity |  
+| bip_39_word_underscore_9 | where_hero_page_merge_deputy_dirt_hand_gravity_gap |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

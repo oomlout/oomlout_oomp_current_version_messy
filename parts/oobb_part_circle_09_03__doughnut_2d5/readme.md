@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | odor |  
+| bip_39_word_dash_10 | odor-once-used-chuckle-tribe-pyramid-spoil-sick-lock-pottery |  
+| bip_39_word_dash_11 | odor-once-used-chuckle-tribe-pyramid-spoil-sick-lock-pottery-estate |  
+| bip_39_word_dash_12 | odor-once-used-chuckle-tribe-pyramid-spoil-sick-lock-pottery-estate-alcohol |  
+| bip_39_word_dash_2 | odor-once |  
+| bip_39_word_dash_3 | odor-once-used |  
+| bip_39_word_dash_4 | odor-once-used-chuckle |  
+| bip_39_word_dash_5 | odor-once-used-chuckle-tribe |  
+| bip_39_word_dash_6 | odor-once-used-chuckle-tribe-pyramid |  
+| bip_39_word_dash_7 | odor-once-used-chuckle-tribe-pyramid-spoil |  
+| bip_39_word_dash_8 | odor-once-used-chuckle-tribe-pyramid-spoil-sick |  
+| bip_39_word_dash_9 | odor-once-used-chuckle-tribe-pyramid-spoil-sick-lock |  
 | bip_39_word_new_br_1 | odor |  
 | bip_39_word_new_br_10 | odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick<br>lock<br>pottery |  
 | bip_39_word_new_br_11 | odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick<br>lock<br>pottery<br>estate |  
@@ -147,6 +159,18 @@ lock |
 | bip_39_word_space_7 | odor once used chuckle tribe pyramid spoil |  
 | bip_39_word_space_8 | odor once used chuckle tribe pyramid spoil sick |  
 | bip_39_word_space_9 | odor once used chuckle tribe pyramid spoil sick lock |  
+| bip_39_word_underscore_1 | odor |  
+| bip_39_word_underscore_10 | odor_once_used_chuckle_tribe_pyramid_spoil_sick_lock_pottery |  
+| bip_39_word_underscore_11 | odor_once_used_chuckle_tribe_pyramid_spoil_sick_lock_pottery_estate |  
+| bip_39_word_underscore_12 | odor_once_used_chuckle_tribe_pyramid_spoil_sick_lock_pottery_estate_alcohol |  
+| bip_39_word_underscore_2 | odor_once |  
+| bip_39_word_underscore_3 | odor_once_used |  
+| bip_39_word_underscore_4 | odor_once_used_chuckle |  
+| bip_39_word_underscore_5 | odor_once_used_chuckle_tribe |  
+| bip_39_word_underscore_6 | odor_once_used_chuckle_tribe_pyramid |  
+| bip_39_word_underscore_7 | odor_once_used_chuckle_tribe_pyramid_spoil |  
+| bip_39_word_underscore_8 | odor_once_used_chuckle_tribe_pyramid_spoil_sick |  
+| bip_39_word_underscore_9 | odor_once_used_chuckle_tribe_pyramid_spoil_sick_lock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

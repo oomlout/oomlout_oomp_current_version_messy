@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | marble |  
+| bip_39_word_dash_10 | marble-service-cute-short-daughter-mouse-family-track-ski-hedgehog |  
+| bip_39_word_dash_11 | marble-service-cute-short-daughter-mouse-family-track-ski-hedgehog-cousin |  
+| bip_39_word_dash_12 | marble-service-cute-short-daughter-mouse-family-track-ski-hedgehog-cousin-antique |  
+| bip_39_word_dash_2 | marble-service |  
+| bip_39_word_dash_3 | marble-service-cute |  
+| bip_39_word_dash_4 | marble-service-cute-short |  
+| bip_39_word_dash_5 | marble-service-cute-short-daughter |  
+| bip_39_word_dash_6 | marble-service-cute-short-daughter-mouse |  
+| bip_39_word_dash_7 | marble-service-cute-short-daughter-mouse-family |  
+| bip_39_word_dash_8 | marble-service-cute-short-daughter-mouse-family-track |  
+| bip_39_word_dash_9 | marble-service-cute-short-daughter-mouse-family-track-ski |  
 | bip_39_word_new_br_1 | marble |  
 | bip_39_word_new_br_10 | marble<br>service<br>cute<br>short<br>daughter<br>mouse<br>family<br>track<br>ski<br>hedgehog |  
 | bip_39_word_new_br_11 | marble<br>service<br>cute<br>short<br>daughter<br>mouse<br>family<br>track<br>ski<br>hedgehog<br>cousin |  
@@ -147,6 +159,18 @@ ski |
 | bip_39_word_space_7 | marble service cute short daughter mouse family |  
 | bip_39_word_space_8 | marble service cute short daughter mouse family track |  
 | bip_39_word_space_9 | marble service cute short daughter mouse family track ski |  
+| bip_39_word_underscore_1 | marble |  
+| bip_39_word_underscore_10 | marble_service_cute_short_daughter_mouse_family_track_ski_hedgehog |  
+| bip_39_word_underscore_11 | marble_service_cute_short_daughter_mouse_family_track_ski_hedgehog_cousin |  
+| bip_39_word_underscore_12 | marble_service_cute_short_daughter_mouse_family_track_ski_hedgehog_cousin_antique |  
+| bip_39_word_underscore_2 | marble_service |  
+| bip_39_word_underscore_3 | marble_service_cute |  
+| bip_39_word_underscore_4 | marble_service_cute_short |  
+| bip_39_word_underscore_5 | marble_service_cute_short_daughter |  
+| bip_39_word_underscore_6 | marble_service_cute_short_daughter_mouse |  
+| bip_39_word_underscore_7 | marble_service_cute_short_daughter_mouse_family |  
+| bip_39_word_underscore_8 | marble_service_cute_short_daughter_mouse_family_track |  
+| bip_39_word_underscore_9 | marble_service_cute_short_daughter_mouse_family_track_ski |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

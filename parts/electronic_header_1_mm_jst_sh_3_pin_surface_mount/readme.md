@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sign |  
+| bip_39_word_dash_10 | sign-turkey-clerk-captain-hour-slide-slab-want-tilt-wealth |  
+| bip_39_word_dash_11 | sign-turkey-clerk-captain-hour-slide-slab-want-tilt-wealth-picture |  
+| bip_39_word_dash_12 | sign-turkey-clerk-captain-hour-slide-slab-want-tilt-wealth-picture-agent |  
+| bip_39_word_dash_2 | sign-turkey |  
+| bip_39_word_dash_3 | sign-turkey-clerk |  
+| bip_39_word_dash_4 | sign-turkey-clerk-captain |  
+| bip_39_word_dash_5 | sign-turkey-clerk-captain-hour |  
+| bip_39_word_dash_6 | sign-turkey-clerk-captain-hour-slide |  
+| bip_39_word_dash_7 | sign-turkey-clerk-captain-hour-slide-slab |  
+| bip_39_word_dash_8 | sign-turkey-clerk-captain-hour-slide-slab-want |  
+| bip_39_word_dash_9 | sign-turkey-clerk-captain-hour-slide-slab-want-tilt |  
 | bip_39_word_new_br_1 | sign |  
 | bip_39_word_new_br_10 | sign<br>turkey<br>clerk<br>captain<br>hour<br>slide<br>slab<br>want<br>tilt<br>wealth |  
 | bip_39_word_new_br_11 | sign<br>turkey<br>clerk<br>captain<br>hour<br>slide<br>slab<br>want<br>tilt<br>wealth<br>picture |  
@@ -147,6 +159,18 @@ tilt |
 | bip_39_word_space_7 | sign turkey clerk captain hour slide slab |  
 | bip_39_word_space_8 | sign turkey clerk captain hour slide slab want |  
 | bip_39_word_space_9 | sign turkey clerk captain hour slide slab want tilt |  
+| bip_39_word_underscore_1 | sign |  
+| bip_39_word_underscore_10 | sign_turkey_clerk_captain_hour_slide_slab_want_tilt_wealth |  
+| bip_39_word_underscore_11 | sign_turkey_clerk_captain_hour_slide_slab_want_tilt_wealth_picture |  
+| bip_39_word_underscore_12 | sign_turkey_clerk_captain_hour_slide_slab_want_tilt_wealth_picture_agent |  
+| bip_39_word_underscore_2 | sign_turkey |  
+| bip_39_word_underscore_3 | sign_turkey_clerk |  
+| bip_39_word_underscore_4 | sign_turkey_clerk_captain |  
+| bip_39_word_underscore_5 | sign_turkey_clerk_captain_hour |  
+| bip_39_word_underscore_6 | sign_turkey_clerk_captain_hour_slide |  
+| bip_39_word_underscore_7 | sign_turkey_clerk_captain_hour_slide_slab |  
+| bip_39_word_underscore_8 | sign_turkey_clerk_captain_hour_slide_slab_want |  
+| bip_39_word_underscore_9 | sign_turkey_clerk_captain_hour_slide_slab_want_tilt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

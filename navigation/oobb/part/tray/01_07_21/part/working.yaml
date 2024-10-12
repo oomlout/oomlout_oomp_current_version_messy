@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crawl
+bip_39_word_dash_10: crawl-carpet-core-remind-foil-mix-chicken-left-neck-economy
+bip_39_word_dash_11: crawl-carpet-core-remind-foil-mix-chicken-left-neck-economy-replace
+bip_39_word_dash_12: crawl-carpet-core-remind-foil-mix-chicken-left-neck-economy-replace-apple
+bip_39_word_dash_2: crawl-carpet
+bip_39_word_dash_3: crawl-carpet-core
+bip_39_word_dash_4: crawl-carpet-core-remind
+bip_39_word_dash_5: crawl-carpet-core-remind-foil
+bip_39_word_dash_6: crawl-carpet-core-remind-foil-mix
+bip_39_word_dash_7: crawl-carpet-core-remind-foil-mix-chicken
+bip_39_word_dash_8: crawl-carpet-core-remind-foil-mix-chicken-left
+bip_39_word_dash_9: crawl-carpet-core-remind-foil-mix-chicken-left-neck
 bip_39_word_new_br_1: crawl
 bip_39_word_new_br_10: crawl<br>carpet<br>core<br>remind<br>foil<br>mix<br>chicken<br>left<br>neck<br>economy
 bip_39_word_new_br_11: crawl<br>carpet<br>core<br>remind<br>foil<br>mix<br>chicken<br>left<br>neck<br>economy<br>replace
@@ -193,6 +205,18 @@ bip_39_word_space_6: crawl carpet core remind foil mix
 bip_39_word_space_7: crawl carpet core remind foil mix chicken
 bip_39_word_space_8: crawl carpet core remind foil mix chicken left
 bip_39_word_space_9: crawl carpet core remind foil mix chicken left neck
+bip_39_word_underscore_1: crawl
+bip_39_word_underscore_10: crawl_carpet_core_remind_foil_mix_chicken_left_neck_economy
+bip_39_word_underscore_11: crawl_carpet_core_remind_foil_mix_chicken_left_neck_economy_replace
+bip_39_word_underscore_12: crawl_carpet_core_remind_foil_mix_chicken_left_neck_economy_replace_apple
+bip_39_word_underscore_2: crawl_carpet
+bip_39_word_underscore_3: crawl_carpet_core
+bip_39_word_underscore_4: crawl_carpet_core_remind
+bip_39_word_underscore_5: crawl_carpet_core_remind_foil
+bip_39_word_underscore_6: crawl_carpet_core_remind_foil_mix
+bip_39_word_underscore_7: crawl_carpet_core_remind_foil_mix_chicken
+bip_39_word_underscore_8: crawl_carpet_core_remind_foil_mix_chicken_left
+bip_39_word_underscore_9: crawl_carpet_core_remind_foil_mix_chicken_left_neck
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

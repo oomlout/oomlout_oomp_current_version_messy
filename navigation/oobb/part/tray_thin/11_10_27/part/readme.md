@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | model |  
+| bip_39_word_dash_10 | model-pen-alley-sheriff-media-eye-mixed-output-struggle-film |  
+| bip_39_word_dash_11 | model-pen-alley-sheriff-media-eye-mixed-output-struggle-film-book |  
+| bip_39_word_dash_12 | model-pen-alley-sheriff-media-eye-mixed-output-struggle-film-book-august |  
+| bip_39_word_dash_2 | model-pen |  
+| bip_39_word_dash_3 | model-pen-alley |  
+| bip_39_word_dash_4 | model-pen-alley-sheriff |  
+| bip_39_word_dash_5 | model-pen-alley-sheriff-media |  
+| bip_39_word_dash_6 | model-pen-alley-sheriff-media-eye |  
+| bip_39_word_dash_7 | model-pen-alley-sheriff-media-eye-mixed |  
+| bip_39_word_dash_8 | model-pen-alley-sheriff-media-eye-mixed-output |  
+| bip_39_word_dash_9 | model-pen-alley-sheriff-media-eye-mixed-output-struggle |  
 | bip_39_word_new_br_1 | model |  
 | bip_39_word_new_br_10 | model<br>pen<br>alley<br>sheriff<br>media<br>eye<br>mixed<br>output<br>struggle<br>film |  
 | bip_39_word_new_br_11 | model<br>pen<br>alley<br>sheriff<br>media<br>eye<br>mixed<br>output<br>struggle<br>film<br>book |  
@@ -147,6 +159,18 @@ struggle |
 | bip_39_word_space_7 | model pen alley sheriff media eye mixed |  
 | bip_39_word_space_8 | model pen alley sheriff media eye mixed output |  
 | bip_39_word_space_9 | model pen alley sheriff media eye mixed output struggle |  
+| bip_39_word_underscore_1 | model |  
+| bip_39_word_underscore_10 | model_pen_alley_sheriff_media_eye_mixed_output_struggle_film |  
+| bip_39_word_underscore_11 | model_pen_alley_sheriff_media_eye_mixed_output_struggle_film_book |  
+| bip_39_word_underscore_12 | model_pen_alley_sheriff_media_eye_mixed_output_struggle_film_book_august |  
+| bip_39_word_underscore_2 | model_pen |  
+| bip_39_word_underscore_3 | model_pen_alley |  
+| bip_39_word_underscore_4 | model_pen_alley_sheriff |  
+| bip_39_word_underscore_5 | model_pen_alley_sheriff_media |  
+| bip_39_word_underscore_6 | model_pen_alley_sheriff_media_eye |  
+| bip_39_word_underscore_7 | model_pen_alley_sheriff_media_eye_mixed |  
+| bip_39_word_underscore_8 | model_pen_alley_sheriff_media_eye_mixed_output |  
+| bip_39_word_underscore_9 | model_pen_alley_sheriff_media_eye_mixed_output_struggle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

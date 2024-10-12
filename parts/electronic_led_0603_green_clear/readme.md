@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sniff |  
+| bip_39_word_dash_10 | sniff-venue-emotion-arrow-someone-viable-crop-shoot-flame-mean |  
+| bip_39_word_dash_11 | sniff-venue-emotion-arrow-someone-viable-crop-shoot-flame-mean-come |  
+| bip_39_word_dash_12 | sniff-venue-emotion-arrow-someone-viable-crop-shoot-flame-mean-come-antenna |  
+| bip_39_word_dash_2 | sniff-venue |  
+| bip_39_word_dash_3 | sniff-venue-emotion |  
+| bip_39_word_dash_4 | sniff-venue-emotion-arrow |  
+| bip_39_word_dash_5 | sniff-venue-emotion-arrow-someone |  
+| bip_39_word_dash_6 | sniff-venue-emotion-arrow-someone-viable |  
+| bip_39_word_dash_7 | sniff-venue-emotion-arrow-someone-viable-crop |  
+| bip_39_word_dash_8 | sniff-venue-emotion-arrow-someone-viable-crop-shoot |  
+| bip_39_word_dash_9 | sniff-venue-emotion-arrow-someone-viable-crop-shoot-flame |  
 | bip_39_word_new_br_1 | sniff |  
 | bip_39_word_new_br_10 | sniff<br>venue<br>emotion<br>arrow<br>someone<br>viable<br>crop<br>shoot<br>flame<br>mean |  
 | bip_39_word_new_br_11 | sniff<br>venue<br>emotion<br>arrow<br>someone<br>viable<br>crop<br>shoot<br>flame<br>mean<br>come |  
@@ -147,6 +159,18 @@ flame |
 | bip_39_word_space_7 | sniff venue emotion arrow someone viable crop |  
 | bip_39_word_space_8 | sniff venue emotion arrow someone viable crop shoot |  
 | bip_39_word_space_9 | sniff venue emotion arrow someone viable crop shoot flame |  
+| bip_39_word_underscore_1 | sniff |  
+| bip_39_word_underscore_10 | sniff_venue_emotion_arrow_someone_viable_crop_shoot_flame_mean |  
+| bip_39_word_underscore_11 | sniff_venue_emotion_arrow_someone_viable_crop_shoot_flame_mean_come |  
+| bip_39_word_underscore_12 | sniff_venue_emotion_arrow_someone_viable_crop_shoot_flame_mean_come_antenna |  
+| bip_39_word_underscore_2 | sniff_venue |  
+| bip_39_word_underscore_3 | sniff_venue_emotion |  
+| bip_39_word_underscore_4 | sniff_venue_emotion_arrow |  
+| bip_39_word_underscore_5 | sniff_venue_emotion_arrow_someone |  
+| bip_39_word_underscore_6 | sniff_venue_emotion_arrow_someone_viable |  
+| bip_39_word_underscore_7 | sniff_venue_emotion_arrow_someone_viable_crop |  
+| bip_39_word_underscore_8 | sniff_venue_emotion_arrow_someone_viable_crop_shoot |  
+| bip_39_word_underscore_9 | sniff_venue_emotion_arrow_someone_viable_crop_shoot_flame |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

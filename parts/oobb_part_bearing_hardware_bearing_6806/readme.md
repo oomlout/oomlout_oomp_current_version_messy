@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arctic |  
+| bip_39_word_dash_10 | arctic-strategy-arm-forward-valve-make-hen-field-muffin-shaft |  
+| bip_39_word_dash_11 | arctic-strategy-arm-forward-valve-make-hen-field-muffin-shaft-spice |  
+| bip_39_word_dash_12 | arctic-strategy-arm-forward-valve-make-hen-field-muffin-shaft-spice-autumn |  
+| bip_39_word_dash_2 | arctic-strategy |  
+| bip_39_word_dash_3 | arctic-strategy-arm |  
+| bip_39_word_dash_4 | arctic-strategy-arm-forward |  
+| bip_39_word_dash_5 | arctic-strategy-arm-forward-valve |  
+| bip_39_word_dash_6 | arctic-strategy-arm-forward-valve-make |  
+| bip_39_word_dash_7 | arctic-strategy-arm-forward-valve-make-hen |  
+| bip_39_word_dash_8 | arctic-strategy-arm-forward-valve-make-hen-field |  
+| bip_39_word_dash_9 | arctic-strategy-arm-forward-valve-make-hen-field-muffin |  
 | bip_39_word_new_br_1 | arctic |  
 | bip_39_word_new_br_10 | arctic<br>strategy<br>arm<br>forward<br>valve<br>make<br>hen<br>field<br>muffin<br>shaft |  
 | bip_39_word_new_br_11 | arctic<br>strategy<br>arm<br>forward<br>valve<br>make<br>hen<br>field<br>muffin<br>shaft<br>spice |  
@@ -147,6 +159,18 @@ muffin |
 | bip_39_word_space_7 | arctic strategy arm forward valve make hen |  
 | bip_39_word_space_8 | arctic strategy arm forward valve make hen field |  
 | bip_39_word_space_9 | arctic strategy arm forward valve make hen field muffin |  
+| bip_39_word_underscore_1 | arctic |  
+| bip_39_word_underscore_10 | arctic_strategy_arm_forward_valve_make_hen_field_muffin_shaft |  
+| bip_39_word_underscore_11 | arctic_strategy_arm_forward_valve_make_hen_field_muffin_shaft_spice |  
+| bip_39_word_underscore_12 | arctic_strategy_arm_forward_valve_make_hen_field_muffin_shaft_spice_autumn |  
+| bip_39_word_underscore_2 | arctic_strategy |  
+| bip_39_word_underscore_3 | arctic_strategy_arm |  
+| bip_39_word_underscore_4 | arctic_strategy_arm_forward |  
+| bip_39_word_underscore_5 | arctic_strategy_arm_forward_valve |  
+| bip_39_word_underscore_6 | arctic_strategy_arm_forward_valve_make |  
+| bip_39_word_underscore_7 | arctic_strategy_arm_forward_valve_make_hen |  
+| bip_39_word_underscore_8 | arctic_strategy_arm_forward_valve_make_hen_field |  
+| bip_39_word_underscore_9 | arctic_strategy_arm_forward_valve_make_hen_field_muffin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

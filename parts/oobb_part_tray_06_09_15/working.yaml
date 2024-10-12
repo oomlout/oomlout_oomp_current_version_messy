@@ -1,3 +1,15 @@
+bip_39_word_dash_1: drift
+bip_39_word_dash_10: drift-glove-example-defy-pride-poet-demand-country-ignore-lift
+bip_39_word_dash_11: drift-glove-example-defy-pride-poet-demand-country-ignore-lift-arrange
+bip_39_word_dash_12: drift-glove-example-defy-pride-poet-demand-country-ignore-lift-arrange-acoustic
+bip_39_word_dash_2: drift-glove
+bip_39_word_dash_3: drift-glove-example
+bip_39_word_dash_4: drift-glove-example-defy
+bip_39_word_dash_5: drift-glove-example-defy-pride
+bip_39_word_dash_6: drift-glove-example-defy-pride-poet
+bip_39_word_dash_7: drift-glove-example-defy-pride-poet-demand
+bip_39_word_dash_8: drift-glove-example-defy-pride-poet-demand-country
+bip_39_word_dash_9: drift-glove-example-defy-pride-poet-demand-country-ignore
 bip_39_word_new_br_1: drift
 bip_39_word_new_br_10: drift<br>glove<br>example<br>defy<br>pride<br>poet<br>demand<br>country<br>ignore<br>lift
 bip_39_word_new_br_11: drift<br>glove<br>example<br>defy<br>pride<br>poet<br>demand<br>country<br>ignore<br>lift<br>arrange
@@ -193,6 +205,18 @@ bip_39_word_space_6: drift glove example defy pride poet
 bip_39_word_space_7: drift glove example defy pride poet demand
 bip_39_word_space_8: drift glove example defy pride poet demand country
 bip_39_word_space_9: drift glove example defy pride poet demand country ignore
+bip_39_word_underscore_1: drift
+bip_39_word_underscore_10: drift_glove_example_defy_pride_poet_demand_country_ignore_lift
+bip_39_word_underscore_11: drift_glove_example_defy_pride_poet_demand_country_ignore_lift_arrange
+bip_39_word_underscore_12: drift_glove_example_defy_pride_poet_demand_country_ignore_lift_arrange_acoustic
+bip_39_word_underscore_2: drift_glove
+bip_39_word_underscore_3: drift_glove_example
+bip_39_word_underscore_4: drift_glove_example_defy
+bip_39_word_underscore_5: drift_glove_example_defy_pride
+bip_39_word_underscore_6: drift_glove_example_defy_pride_poet
+bip_39_word_underscore_7: drift_glove_example_defy_pride_poet_demand
+bip_39_word_underscore_8: drift_glove_example_defy_pride_poet_demand_country
+bip_39_word_underscore_9: drift_glove_example_defy_pride_poet_demand_country_ignore
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: game
+bip_39_word_dash_10: game-machine-solid-despair-citizen-purse-unknown-story-pride-believe
+bip_39_word_dash_11: game-machine-solid-despair-citizen-purse-unknown-story-pride-believe-write
+bip_39_word_dash_12: game-machine-solid-despair-citizen-purse-unknown-story-pride-believe-write-another
+bip_39_word_dash_2: game-machine
+bip_39_word_dash_3: game-machine-solid
+bip_39_word_dash_4: game-machine-solid-despair
+bip_39_word_dash_5: game-machine-solid-despair-citizen
+bip_39_word_dash_6: game-machine-solid-despair-citizen-purse
+bip_39_word_dash_7: game-machine-solid-despair-citizen-purse-unknown
+bip_39_word_dash_8: game-machine-solid-despair-citizen-purse-unknown-story
+bip_39_word_dash_9: game-machine-solid-despair-citizen-purse-unknown-story-pride
 bip_39_word_new_br_1: game
 bip_39_word_new_br_10: game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe
 bip_39_word_new_br_11: game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe<br>write
@@ -194,6 +206,18 @@ bip_39_word_space_6: game machine solid despair citizen purse
 bip_39_word_space_7: game machine solid despair citizen purse unknown
 bip_39_word_space_8: game machine solid despair citizen purse unknown story
 bip_39_word_space_9: game machine solid despair citizen purse unknown story pride
+bip_39_word_underscore_1: game
+bip_39_word_underscore_10: game_machine_solid_despair_citizen_purse_unknown_story_pride_believe
+bip_39_word_underscore_11: game_machine_solid_despair_citizen_purse_unknown_story_pride_believe_write
+bip_39_word_underscore_12: game_machine_solid_despair_citizen_purse_unknown_story_pride_believe_write_another
+bip_39_word_underscore_2: game_machine
+bip_39_word_underscore_3: game_machine_solid
+bip_39_word_underscore_4: game_machine_solid_despair
+bip_39_word_underscore_5: game_machine_solid_despair_citizen
+bip_39_word_underscore_6: game_machine_solid_despair_citizen_purse
+bip_39_word_underscore_7: game_machine_solid_despair_citizen_purse_unknown
+bip_39_word_underscore_8: game_machine_solid_despair_citizen_purse_unknown_story
+bip_39_word_underscore_9: game_machine_solid_despair_citizen_purse_unknown_story_pride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rely |  
+| bip_39_word_dash_10 | rely-museum-broccoli-stable-various-doll-bargain-traffic-gown-document |  
+| bip_39_word_dash_11 | rely-museum-broccoli-stable-various-doll-bargain-traffic-gown-document-jacket |  
+| bip_39_word_dash_12 | rely-museum-broccoli-stable-various-doll-bargain-traffic-gown-document-jacket-arena |  
+| bip_39_word_dash_2 | rely-museum |  
+| bip_39_word_dash_3 | rely-museum-broccoli |  
+| bip_39_word_dash_4 | rely-museum-broccoli-stable |  
+| bip_39_word_dash_5 | rely-museum-broccoli-stable-various |  
+| bip_39_word_dash_6 | rely-museum-broccoli-stable-various-doll |  
+| bip_39_word_dash_7 | rely-museum-broccoli-stable-various-doll-bargain |  
+| bip_39_word_dash_8 | rely-museum-broccoli-stable-various-doll-bargain-traffic |  
+| bip_39_word_dash_9 | rely-museum-broccoli-stable-various-doll-bargain-traffic-gown |  
 | bip_39_word_new_br_1 | rely |  
 | bip_39_word_new_br_10 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document |  
 | bip_39_word_new_br_11 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document<br>jacket |  
@@ -147,6 +159,18 @@ gown |
 | bip_39_word_space_7 | rely museum broccoli stable various doll bargain |  
 | bip_39_word_space_8 | rely museum broccoli stable various doll bargain traffic |  
 | bip_39_word_space_9 | rely museum broccoli stable various doll bargain traffic gown |  
+| bip_39_word_underscore_1 | rely |  
+| bip_39_word_underscore_10 | rely_museum_broccoli_stable_various_doll_bargain_traffic_gown_document |  
+| bip_39_word_underscore_11 | rely_museum_broccoli_stable_various_doll_bargain_traffic_gown_document_jacket |  
+| bip_39_word_underscore_12 | rely_museum_broccoli_stable_various_doll_bargain_traffic_gown_document_jacket_arena |  
+| bip_39_word_underscore_2 | rely_museum |  
+| bip_39_word_underscore_3 | rely_museum_broccoli |  
+| bip_39_word_underscore_4 | rely_museum_broccoli_stable |  
+| bip_39_word_underscore_5 | rely_museum_broccoli_stable_various |  
+| bip_39_word_underscore_6 | rely_museum_broccoli_stable_various_doll |  
+| bip_39_word_underscore_7 | rely_museum_broccoli_stable_various_doll_bargain |  
+| bip_39_word_underscore_8 | rely_museum_broccoli_stable_various_doll_bargain_traffic |  
+| bip_39_word_underscore_9 | rely_museum_broccoli_stable_various_doll_bargain_traffic_gown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

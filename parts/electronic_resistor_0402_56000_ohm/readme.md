@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | water |  
+| bip_39_word_dash_10 | water-shoot-phone-matrix-skate-relax-spider-depend-victory-slab |  
+| bip_39_word_dash_11 | water-shoot-phone-matrix-skate-relax-spider-depend-victory-slab-west |  
+| bip_39_word_dash_12 | water-shoot-phone-matrix-skate-relax-spider-depend-victory-slab-west-admit |  
+| bip_39_word_dash_2 | water-shoot |  
+| bip_39_word_dash_3 | water-shoot-phone |  
+| bip_39_word_dash_4 | water-shoot-phone-matrix |  
+| bip_39_word_dash_5 | water-shoot-phone-matrix-skate |  
+| bip_39_word_dash_6 | water-shoot-phone-matrix-skate-relax |  
+| bip_39_word_dash_7 | water-shoot-phone-matrix-skate-relax-spider |  
+| bip_39_word_dash_8 | water-shoot-phone-matrix-skate-relax-spider-depend |  
+| bip_39_word_dash_9 | water-shoot-phone-matrix-skate-relax-spider-depend-victory |  
 | bip_39_word_new_br_1 | water |  
 | bip_39_word_new_br_10 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab |  
 | bip_39_word_new_br_11 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab<br>west |  
@@ -147,6 +159,18 @@ victory |
 | bip_39_word_space_7 | water shoot phone matrix skate relax spider |  
 | bip_39_word_space_8 | water shoot phone matrix skate relax spider depend |  
 | bip_39_word_space_9 | water shoot phone matrix skate relax spider depend victory |  
+| bip_39_word_underscore_1 | water |  
+| bip_39_word_underscore_10 | water_shoot_phone_matrix_skate_relax_spider_depend_victory_slab |  
+| bip_39_word_underscore_11 | water_shoot_phone_matrix_skate_relax_spider_depend_victory_slab_west |  
+| bip_39_word_underscore_12 | water_shoot_phone_matrix_skate_relax_spider_depend_victory_slab_west_admit |  
+| bip_39_word_underscore_2 | water_shoot |  
+| bip_39_word_underscore_3 | water_shoot_phone |  
+| bip_39_word_underscore_4 | water_shoot_phone_matrix |  
+| bip_39_word_underscore_5 | water_shoot_phone_matrix_skate |  
+| bip_39_word_underscore_6 | water_shoot_phone_matrix_skate_relax |  
+| bip_39_word_underscore_7 | water_shoot_phone_matrix_skate_relax_spider |  
+| bip_39_word_underscore_8 | water_shoot_phone_matrix_skate_relax_spider_depend |  
+| bip_39_word_underscore_9 | water_shoot_phone_matrix_skate_relax_spider_depend_victory |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

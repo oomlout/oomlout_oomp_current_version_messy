@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | twist |  
+| bip_39_word_dash_10 | twist-friend-want-salad-dragon-rebel-tunnel-wagon-flight-city |  
+| bip_39_word_dash_11 | twist-friend-want-salad-dragon-rebel-tunnel-wagon-flight-city-journey |  
+| bip_39_word_dash_12 | twist-friend-want-salad-dragon-rebel-tunnel-wagon-flight-city-journey-arm |  
+| bip_39_word_dash_2 | twist-friend |  
+| bip_39_word_dash_3 | twist-friend-want |  
+| bip_39_word_dash_4 | twist-friend-want-salad |  
+| bip_39_word_dash_5 | twist-friend-want-salad-dragon |  
+| bip_39_word_dash_6 | twist-friend-want-salad-dragon-rebel |  
+| bip_39_word_dash_7 | twist-friend-want-salad-dragon-rebel-tunnel |  
+| bip_39_word_dash_8 | twist-friend-want-salad-dragon-rebel-tunnel-wagon |  
+| bip_39_word_dash_9 | twist-friend-want-salad-dragon-rebel-tunnel-wagon-flight |  
 | bip_39_word_new_br_1 | twist |  
 | bip_39_word_new_br_10 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon<br>flight<br>city |  
 | bip_39_word_new_br_11 | twist<br>friend<br>want<br>salad<br>dragon<br>rebel<br>tunnel<br>wagon<br>flight<br>city<br>journey |  
@@ -147,6 +159,18 @@ flight |
 | bip_39_word_space_7 | twist friend want salad dragon rebel tunnel |  
 | bip_39_word_space_8 | twist friend want salad dragon rebel tunnel wagon |  
 | bip_39_word_space_9 | twist friend want salad dragon rebel tunnel wagon flight |  
+| bip_39_word_underscore_1 | twist |  
+| bip_39_word_underscore_10 | twist_friend_want_salad_dragon_rebel_tunnel_wagon_flight_city |  
+| bip_39_word_underscore_11 | twist_friend_want_salad_dragon_rebel_tunnel_wagon_flight_city_journey |  
+| bip_39_word_underscore_12 | twist_friend_want_salad_dragon_rebel_tunnel_wagon_flight_city_journey_arm |  
+| bip_39_word_underscore_2 | twist_friend |  
+| bip_39_word_underscore_3 | twist_friend_want |  
+| bip_39_word_underscore_4 | twist_friend_want_salad |  
+| bip_39_word_underscore_5 | twist_friend_want_salad_dragon |  
+| bip_39_word_underscore_6 | twist_friend_want_salad_dragon_rebel |  
+| bip_39_word_underscore_7 | twist_friend_want_salad_dragon_rebel_tunnel |  
+| bip_39_word_underscore_8 | twist_friend_want_salad_dragon_rebel_tunnel_wagon |  
+| bip_39_word_underscore_9 | twist_friend_want_salad_dragon_rebel_tunnel_wagon_flight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

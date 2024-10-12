@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | maple |  
+| bip_39_word_dash_10 | maple-fresh-poverty-umbrella-supply-wire-cage-police-whip-jaguar |  
+| bip_39_word_dash_11 | maple-fresh-poverty-umbrella-supply-wire-cage-police-whip-jaguar-sweet |  
+| bip_39_word_dash_12 | maple-fresh-poverty-umbrella-supply-wire-cage-police-whip-jaguar-sweet-abstract |  
+| bip_39_word_dash_2 | maple-fresh |  
+| bip_39_word_dash_3 | maple-fresh-poverty |  
+| bip_39_word_dash_4 | maple-fresh-poverty-umbrella |  
+| bip_39_word_dash_5 | maple-fresh-poverty-umbrella-supply |  
+| bip_39_word_dash_6 | maple-fresh-poverty-umbrella-supply-wire |  
+| bip_39_word_dash_7 | maple-fresh-poverty-umbrella-supply-wire-cage |  
+| bip_39_word_dash_8 | maple-fresh-poverty-umbrella-supply-wire-cage-police |  
+| bip_39_word_dash_9 | maple-fresh-poverty-umbrella-supply-wire-cage-police-whip |  
 | bip_39_word_new_br_1 | maple |  
 | bip_39_word_new_br_10 | maple<br>fresh<br>poverty<br>umbrella<br>supply<br>wire<br>cage<br>police<br>whip<br>jaguar |  
 | bip_39_word_new_br_11 | maple<br>fresh<br>poverty<br>umbrella<br>supply<br>wire<br>cage<br>police<br>whip<br>jaguar<br>sweet |  
@@ -147,6 +159,18 @@ whip |
 | bip_39_word_space_7 | maple fresh poverty umbrella supply wire cage |  
 | bip_39_word_space_8 | maple fresh poverty umbrella supply wire cage police |  
 | bip_39_word_space_9 | maple fresh poverty umbrella supply wire cage police whip |  
+| bip_39_word_underscore_1 | maple |  
+| bip_39_word_underscore_10 | maple_fresh_poverty_umbrella_supply_wire_cage_police_whip_jaguar |  
+| bip_39_word_underscore_11 | maple_fresh_poverty_umbrella_supply_wire_cage_police_whip_jaguar_sweet |  
+| bip_39_word_underscore_12 | maple_fresh_poverty_umbrella_supply_wire_cage_police_whip_jaguar_sweet_abstract |  
+| bip_39_word_underscore_2 | maple_fresh |  
+| bip_39_word_underscore_3 | maple_fresh_poverty |  
+| bip_39_word_underscore_4 | maple_fresh_poverty_umbrella |  
+| bip_39_word_underscore_5 | maple_fresh_poverty_umbrella_supply |  
+| bip_39_word_underscore_6 | maple_fresh_poverty_umbrella_supply_wire |  
+| bip_39_word_underscore_7 | maple_fresh_poverty_umbrella_supply_wire_cage |  
+| bip_39_word_underscore_8 | maple_fresh_poverty_umbrella_supply_wire_cage_police |  
+| bip_39_word_underscore_9 | maple_fresh_poverty_umbrella_supply_wire_cage_police_whip |  
 | classification | electrical |  
 | classification_capital | Electrical |  
 | classification_first_letter | e |  

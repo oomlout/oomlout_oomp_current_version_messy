@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stock
+bip_39_word_dash_10: stock-avoid-gravity-reduce-tray-enact-canal-wolf-goose-shield
+bip_39_word_dash_11: stock-avoid-gravity-reduce-tray-enact-canal-wolf-goose-shield-enlist
+bip_39_word_dash_12: stock-avoid-gravity-reduce-tray-enact-canal-wolf-goose-shield-enlist-arctic
+bip_39_word_dash_2: stock-avoid
+bip_39_word_dash_3: stock-avoid-gravity
+bip_39_word_dash_4: stock-avoid-gravity-reduce
+bip_39_word_dash_5: stock-avoid-gravity-reduce-tray
+bip_39_word_dash_6: stock-avoid-gravity-reduce-tray-enact
+bip_39_word_dash_7: stock-avoid-gravity-reduce-tray-enact-canal
+bip_39_word_dash_8: stock-avoid-gravity-reduce-tray-enact-canal-wolf
+bip_39_word_dash_9: stock-avoid-gravity-reduce-tray-enact-canal-wolf-goose
 bip_39_word_new_br_1: stock
 bip_39_word_new_br_10: stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf<br>goose<br>shield
 bip_39_word_new_br_11: stock<br>avoid<br>gravity<br>reduce<br>tray<br>enact<br>canal<br>wolf<br>goose<br>shield<br>enlist
@@ -193,6 +205,18 @@ bip_39_word_space_6: stock avoid gravity reduce tray enact
 bip_39_word_space_7: stock avoid gravity reduce tray enact canal
 bip_39_word_space_8: stock avoid gravity reduce tray enact canal wolf
 bip_39_word_space_9: stock avoid gravity reduce tray enact canal wolf goose
+bip_39_word_underscore_1: stock
+bip_39_word_underscore_10: stock_avoid_gravity_reduce_tray_enact_canal_wolf_goose_shield
+bip_39_word_underscore_11: stock_avoid_gravity_reduce_tray_enact_canal_wolf_goose_shield_enlist
+bip_39_word_underscore_12: stock_avoid_gravity_reduce_tray_enact_canal_wolf_goose_shield_enlist_arctic
+bip_39_word_underscore_2: stock_avoid
+bip_39_word_underscore_3: stock_avoid_gravity
+bip_39_word_underscore_4: stock_avoid_gravity_reduce
+bip_39_word_underscore_5: stock_avoid_gravity_reduce_tray
+bip_39_word_underscore_6: stock_avoid_gravity_reduce_tray_enact
+bip_39_word_underscore_7: stock_avoid_gravity_reduce_tray_enact_canal
+bip_39_word_underscore_8: stock_avoid_gravity_reduce_tray_enact_canal_wolf
+bip_39_word_underscore_9: stock_avoid_gravity_reduce_tray_enact_canal_wolf_goose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

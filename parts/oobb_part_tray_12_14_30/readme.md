@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | popular |  
+| bip_39_word_dash_10 | popular-kidney-omit-pole-office-cabbage-top-athlete-shallow-anchor |  
+| bip_39_word_dash_11 | popular-kidney-omit-pole-office-cabbage-top-athlete-shallow-anchor-cloth |  
+| bip_39_word_dash_12 | popular-kidney-omit-pole-office-cabbage-top-athlete-shallow-anchor-cloth-angry |  
+| bip_39_word_dash_2 | popular-kidney |  
+| bip_39_word_dash_3 | popular-kidney-omit |  
+| bip_39_word_dash_4 | popular-kidney-omit-pole |  
+| bip_39_word_dash_5 | popular-kidney-omit-pole-office |  
+| bip_39_word_dash_6 | popular-kidney-omit-pole-office-cabbage |  
+| bip_39_word_dash_7 | popular-kidney-omit-pole-office-cabbage-top |  
+| bip_39_word_dash_8 | popular-kidney-omit-pole-office-cabbage-top-athlete |  
+| bip_39_word_dash_9 | popular-kidney-omit-pole-office-cabbage-top-athlete-shallow |  
 | bip_39_word_new_br_1 | popular |  
 | bip_39_word_new_br_10 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete<br>shallow<br>anchor |  
 | bip_39_word_new_br_11 | popular<br>kidney<br>omit<br>pole<br>office<br>cabbage<br>top<br>athlete<br>shallow<br>anchor<br>cloth |  
@@ -147,6 +159,18 @@ shallow |
 | bip_39_word_space_7 | popular kidney omit pole office cabbage top |  
 | bip_39_word_space_8 | popular kidney omit pole office cabbage top athlete |  
 | bip_39_word_space_9 | popular kidney omit pole office cabbage top athlete shallow |  
+| bip_39_word_underscore_1 | popular |  
+| bip_39_word_underscore_10 | popular_kidney_omit_pole_office_cabbage_top_athlete_shallow_anchor |  
+| bip_39_word_underscore_11 | popular_kidney_omit_pole_office_cabbage_top_athlete_shallow_anchor_cloth |  
+| bip_39_word_underscore_12 | popular_kidney_omit_pole_office_cabbage_top_athlete_shallow_anchor_cloth_angry |  
+| bip_39_word_underscore_2 | popular_kidney |  
+| bip_39_word_underscore_3 | popular_kidney_omit |  
+| bip_39_word_underscore_4 | popular_kidney_omit_pole |  
+| bip_39_word_underscore_5 | popular_kidney_omit_pole_office |  
+| bip_39_word_underscore_6 | popular_kidney_omit_pole_office_cabbage |  
+| bip_39_word_underscore_7 | popular_kidney_omit_pole_office_cabbage_top |  
+| bip_39_word_underscore_8 | popular_kidney_omit_pole_office_cabbage_top_athlete |  
+| bip_39_word_underscore_9 | popular_kidney_omit_pole_office_cabbage_top_athlete_shallow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

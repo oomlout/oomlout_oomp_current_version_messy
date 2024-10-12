@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | render |  
+| bip_39_word_dash_10 | render-whip-spatial-box-acid-fashion-parent-move-tide-egg |  
+| bip_39_word_dash_11 | render-whip-spatial-box-acid-fashion-parent-move-tide-egg-excess |  
+| bip_39_word_dash_12 | render-whip-spatial-box-acid-fashion-parent-move-tide-egg-excess-anchor |  
+| bip_39_word_dash_2 | render-whip |  
+| bip_39_word_dash_3 | render-whip-spatial |  
+| bip_39_word_dash_4 | render-whip-spatial-box |  
+| bip_39_word_dash_5 | render-whip-spatial-box-acid |  
+| bip_39_word_dash_6 | render-whip-spatial-box-acid-fashion |  
+| bip_39_word_dash_7 | render-whip-spatial-box-acid-fashion-parent |  
+| bip_39_word_dash_8 | render-whip-spatial-box-acid-fashion-parent-move |  
+| bip_39_word_dash_9 | render-whip-spatial-box-acid-fashion-parent-move-tide |  
 | bip_39_word_new_br_1 | render |  
 | bip_39_word_new_br_10 | render<br>whip<br>spatial<br>box<br>acid<br>fashion<br>parent<br>move<br>tide<br>egg |  
 | bip_39_word_new_br_11 | render<br>whip<br>spatial<br>box<br>acid<br>fashion<br>parent<br>move<br>tide<br>egg<br>excess |  
@@ -147,6 +159,18 @@ tide |
 | bip_39_word_space_7 | render whip spatial box acid fashion parent |  
 | bip_39_word_space_8 | render whip spatial box acid fashion parent move |  
 | bip_39_word_space_9 | render whip spatial box acid fashion parent move tide |  
+| bip_39_word_underscore_1 | render |  
+| bip_39_word_underscore_10 | render_whip_spatial_box_acid_fashion_parent_move_tide_egg |  
+| bip_39_word_underscore_11 | render_whip_spatial_box_acid_fashion_parent_move_tide_egg_excess |  
+| bip_39_word_underscore_12 | render_whip_spatial_box_acid_fashion_parent_move_tide_egg_excess_anchor |  
+| bip_39_word_underscore_2 | render_whip |  
+| bip_39_word_underscore_3 | render_whip_spatial |  
+| bip_39_word_underscore_4 | render_whip_spatial_box |  
+| bip_39_word_underscore_5 | render_whip_spatial_box_acid |  
+| bip_39_word_underscore_6 | render_whip_spatial_box_acid_fashion |  
+| bip_39_word_underscore_7 | render_whip_spatial_box_acid_fashion_parent |  
+| bip_39_word_underscore_8 | render_whip_spatial_box_acid_fashion_parent_move |  
+| bip_39_word_underscore_9 | render_whip_spatial_box_acid_fashion_parent_move_tide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: faint
+bip_39_word_dash_10: faint-still-crawl-funny-fiction-deliver-engage-master-grunt-silk
+bip_39_word_dash_11: faint-still-crawl-funny-fiction-deliver-engage-master-grunt-silk-now
+bip_39_word_dash_12: faint-still-crawl-funny-fiction-deliver-engage-master-grunt-silk-now-afraid
+bip_39_word_dash_2: faint-still
+bip_39_word_dash_3: faint-still-crawl
+bip_39_word_dash_4: faint-still-crawl-funny
+bip_39_word_dash_5: faint-still-crawl-funny-fiction
+bip_39_word_dash_6: faint-still-crawl-funny-fiction-deliver
+bip_39_word_dash_7: faint-still-crawl-funny-fiction-deliver-engage
+bip_39_word_dash_8: faint-still-crawl-funny-fiction-deliver-engage-master
+bip_39_word_dash_9: faint-still-crawl-funny-fiction-deliver-engage-master-grunt
 bip_39_word_new_br_1: faint
 bip_39_word_new_br_10: faint<br>still<br>crawl<br>funny<br>fiction<br>deliver<br>engage<br>master<br>grunt<br>silk
 bip_39_word_new_br_11: faint<br>still<br>crawl<br>funny<br>fiction<br>deliver<br>engage<br>master<br>grunt<br>silk<br>now
@@ -194,6 +206,18 @@ bip_39_word_space_6: faint still crawl funny fiction deliver
 bip_39_word_space_7: faint still crawl funny fiction deliver engage
 bip_39_word_space_8: faint still crawl funny fiction deliver engage master
 bip_39_word_space_9: faint still crawl funny fiction deliver engage master grunt
+bip_39_word_underscore_1: faint
+bip_39_word_underscore_10: faint_still_crawl_funny_fiction_deliver_engage_master_grunt_silk
+bip_39_word_underscore_11: faint_still_crawl_funny_fiction_deliver_engage_master_grunt_silk_now
+bip_39_word_underscore_12: faint_still_crawl_funny_fiction_deliver_engage_master_grunt_silk_now_afraid
+bip_39_word_underscore_2: faint_still
+bip_39_word_underscore_3: faint_still_crawl
+bip_39_word_underscore_4: faint_still_crawl_funny
+bip_39_word_underscore_5: faint_still_crawl_funny_fiction
+bip_39_word_underscore_6: faint_still_crawl_funny_fiction_deliver
+bip_39_word_underscore_7: faint_still_crawl_funny_fiction_deliver_engage
+bip_39_word_underscore_8: faint_still_crawl_funny_fiction_deliver_engage_master
+bip_39_word_underscore_9: faint_still_crawl_funny_fiction_deliver_engage_master_grunt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

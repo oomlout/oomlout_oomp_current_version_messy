@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reveal |  
+| bip_39_word_dash_10 | reveal-eagle-park-sphere-juice-leaf-exotic-elbow-cheap-spike |  
+| bip_39_word_dash_11 | reveal-eagle-park-sphere-juice-leaf-exotic-elbow-cheap-spike-wise |  
+| bip_39_word_dash_12 | reveal-eagle-park-sphere-juice-leaf-exotic-elbow-cheap-spike-wise-angry |  
+| bip_39_word_dash_2 | reveal-eagle |  
+| bip_39_word_dash_3 | reveal-eagle-park |  
+| bip_39_word_dash_4 | reveal-eagle-park-sphere |  
+| bip_39_word_dash_5 | reveal-eagle-park-sphere-juice |  
+| bip_39_word_dash_6 | reveal-eagle-park-sphere-juice-leaf |  
+| bip_39_word_dash_7 | reveal-eagle-park-sphere-juice-leaf-exotic |  
+| bip_39_word_dash_8 | reveal-eagle-park-sphere-juice-leaf-exotic-elbow |  
+| bip_39_word_dash_9 | reveal-eagle-park-sphere-juice-leaf-exotic-elbow-cheap |  
 | bip_39_word_new_br_1 | reveal |  
 | bip_39_word_new_br_10 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow<br>cheap<br>spike |  
 | bip_39_word_new_br_11 | reveal<br>eagle<br>park<br>sphere<br>juice<br>leaf<br>exotic<br>elbow<br>cheap<br>spike<br>wise |  
@@ -147,6 +159,18 @@ cheap |
 | bip_39_word_space_7 | reveal eagle park sphere juice leaf exotic |  
 | bip_39_word_space_8 | reveal eagle park sphere juice leaf exotic elbow |  
 | bip_39_word_space_9 | reveal eagle park sphere juice leaf exotic elbow cheap |  
+| bip_39_word_underscore_1 | reveal |  
+| bip_39_word_underscore_10 | reveal_eagle_park_sphere_juice_leaf_exotic_elbow_cheap_spike |  
+| bip_39_word_underscore_11 | reveal_eagle_park_sphere_juice_leaf_exotic_elbow_cheap_spike_wise |  
+| bip_39_word_underscore_12 | reveal_eagle_park_sphere_juice_leaf_exotic_elbow_cheap_spike_wise_angry |  
+| bip_39_word_underscore_2 | reveal_eagle |  
+| bip_39_word_underscore_3 | reveal_eagle_park |  
+| bip_39_word_underscore_4 | reveal_eagle_park_sphere |  
+| bip_39_word_underscore_5 | reveal_eagle_park_sphere_juice |  
+| bip_39_word_underscore_6 | reveal_eagle_park_sphere_juice_leaf |  
+| bip_39_word_underscore_7 | reveal_eagle_park_sphere_juice_leaf_exotic |  
+| bip_39_word_underscore_8 | reveal_eagle_park_sphere_juice_leaf_exotic_elbow |  
+| bip_39_word_underscore_9 | reveal_eagle_park_sphere_juice_leaf_exotic_elbow_cheap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

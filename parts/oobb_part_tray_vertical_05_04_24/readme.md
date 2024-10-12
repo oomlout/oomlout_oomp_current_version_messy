@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | must |  
+| bip_39_word_dash_10 | must-maze-rare-much-physical-ranch-real-clown-wait-session |  
+| bip_39_word_dash_11 | must-maze-rare-much-physical-ranch-real-clown-wait-session-noise |  
+| bip_39_word_dash_12 | must-maze-rare-much-physical-ranch-real-clown-wait-session-noise-alone |  
+| bip_39_word_dash_2 | must-maze |  
+| bip_39_word_dash_3 | must-maze-rare |  
+| bip_39_word_dash_4 | must-maze-rare-much |  
+| bip_39_word_dash_5 | must-maze-rare-much-physical |  
+| bip_39_word_dash_6 | must-maze-rare-much-physical-ranch |  
+| bip_39_word_dash_7 | must-maze-rare-much-physical-ranch-real |  
+| bip_39_word_dash_8 | must-maze-rare-much-physical-ranch-real-clown |  
+| bip_39_word_dash_9 | must-maze-rare-much-physical-ranch-real-clown-wait |  
 | bip_39_word_new_br_1 | must |  
 | bip_39_word_new_br_10 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session |  
 | bip_39_word_new_br_11 | must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session<br>noise |  
@@ -147,6 +159,18 @@ wait |
 | bip_39_word_space_7 | must maze rare much physical ranch real |  
 | bip_39_word_space_8 | must maze rare much physical ranch real clown |  
 | bip_39_word_space_9 | must maze rare much physical ranch real clown wait |  
+| bip_39_word_underscore_1 | must |  
+| bip_39_word_underscore_10 | must_maze_rare_much_physical_ranch_real_clown_wait_session |  
+| bip_39_word_underscore_11 | must_maze_rare_much_physical_ranch_real_clown_wait_session_noise |  
+| bip_39_word_underscore_12 | must_maze_rare_much_physical_ranch_real_clown_wait_session_noise_alone |  
+| bip_39_word_underscore_2 | must_maze |  
+| bip_39_word_underscore_3 | must_maze_rare |  
+| bip_39_word_underscore_4 | must_maze_rare_much |  
+| bip_39_word_underscore_5 | must_maze_rare_much_physical |  
+| bip_39_word_underscore_6 | must_maze_rare_much_physical_ranch |  
+| bip_39_word_underscore_7 | must_maze_rare_much_physical_ranch_real |  
+| bip_39_word_underscore_8 | must_maze_rare_much_physical_ranch_real_clown |  
+| bip_39_word_underscore_9 | must_maze_rare_much_physical_ranch_real_clown_wait |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

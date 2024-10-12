@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | addict |  
+| bip_39_word_dash_10 | addict-account-biology-enforce-produce-fall-analyst-napkin-garlic-bid |  
+| bip_39_word_dash_11 | addict-account-biology-enforce-produce-fall-analyst-napkin-garlic-bid-display |  
+| bip_39_word_dash_12 | addict-account-biology-enforce-produce-fall-analyst-napkin-garlic-bid-display-attack |  
+| bip_39_word_dash_2 | addict-account |  
+| bip_39_word_dash_3 | addict-account-biology |  
+| bip_39_word_dash_4 | addict-account-biology-enforce |  
+| bip_39_word_dash_5 | addict-account-biology-enforce-produce |  
+| bip_39_word_dash_6 | addict-account-biology-enforce-produce-fall |  
+| bip_39_word_dash_7 | addict-account-biology-enforce-produce-fall-analyst |  
+| bip_39_word_dash_8 | addict-account-biology-enforce-produce-fall-analyst-napkin |  
+| bip_39_word_dash_9 | addict-account-biology-enforce-produce-fall-analyst-napkin-garlic |  
 | bip_39_word_new_br_1 | addict |  
 | bip_39_word_new_br_10 | addict<br>account<br>biology<br>enforce<br>produce<br>fall<br>analyst<br>napkin<br>garlic<br>bid |  
 | bip_39_word_new_br_11 | addict<br>account<br>biology<br>enforce<br>produce<br>fall<br>analyst<br>napkin<br>garlic<br>bid<br>display |  
@@ -147,6 +159,18 @@ garlic |
 | bip_39_word_space_7 | addict account biology enforce produce fall analyst |  
 | bip_39_word_space_8 | addict account biology enforce produce fall analyst napkin |  
 | bip_39_word_space_9 | addict account biology enforce produce fall analyst napkin garlic |  
+| bip_39_word_underscore_1 | addict |  
+| bip_39_word_underscore_10 | addict_account_biology_enforce_produce_fall_analyst_napkin_garlic_bid |  
+| bip_39_word_underscore_11 | addict_account_biology_enforce_produce_fall_analyst_napkin_garlic_bid_display |  
+| bip_39_word_underscore_12 | addict_account_biology_enforce_produce_fall_analyst_napkin_garlic_bid_display_attack |  
+| bip_39_word_underscore_2 | addict_account |  
+| bip_39_word_underscore_3 | addict_account_biology |  
+| bip_39_word_underscore_4 | addict_account_biology_enforce |  
+| bip_39_word_underscore_5 | addict_account_biology_enforce_produce |  
+| bip_39_word_underscore_6 | addict_account_biology_enforce_produce_fall |  
+| bip_39_word_underscore_7 | addict_account_biology_enforce_produce_fall_analyst |  
+| bip_39_word_underscore_8 | addict_account_biology_enforce_produce_fall_analyst_napkin |  
+| bip_39_word_underscore_9 | addict_account_biology_enforce_produce_fall_analyst_napkin_garlic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

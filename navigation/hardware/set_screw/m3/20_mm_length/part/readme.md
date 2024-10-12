@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | impulse |  
+| bip_39_word_dash_10 | impulse-voyage-tired-timber-bench-spoon-hundred-traffic-daring-grunt |  
+| bip_39_word_dash_11 | impulse-voyage-tired-timber-bench-spoon-hundred-traffic-daring-grunt-brief |  
+| bip_39_word_dash_12 | impulse-voyage-tired-timber-bench-spoon-hundred-traffic-daring-grunt-brief-artefact |  
+| bip_39_word_dash_2 | impulse-voyage |  
+| bip_39_word_dash_3 | impulse-voyage-tired |  
+| bip_39_word_dash_4 | impulse-voyage-tired-timber |  
+| bip_39_word_dash_5 | impulse-voyage-tired-timber-bench |  
+| bip_39_word_dash_6 | impulse-voyage-tired-timber-bench-spoon |  
+| bip_39_word_dash_7 | impulse-voyage-tired-timber-bench-spoon-hundred |  
+| bip_39_word_dash_8 | impulse-voyage-tired-timber-bench-spoon-hundred-traffic |  
+| bip_39_word_dash_9 | impulse-voyage-tired-timber-bench-spoon-hundred-traffic-daring |  
 | bip_39_word_new_br_1 | impulse |  
 | bip_39_word_new_br_10 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt |  
 | bip_39_word_new_br_11 | impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt<br>brief |  
@@ -147,6 +159,18 @@ daring |
 | bip_39_word_space_7 | impulse voyage tired timber bench spoon hundred |  
 | bip_39_word_space_8 | impulse voyage tired timber bench spoon hundred traffic |  
 | bip_39_word_space_9 | impulse voyage tired timber bench spoon hundred traffic daring |  
+| bip_39_word_underscore_1 | impulse |  
+| bip_39_word_underscore_10 | impulse_voyage_tired_timber_bench_spoon_hundred_traffic_daring_grunt |  
+| bip_39_word_underscore_11 | impulse_voyage_tired_timber_bench_spoon_hundred_traffic_daring_grunt_brief |  
+| bip_39_word_underscore_12 | impulse_voyage_tired_timber_bench_spoon_hundred_traffic_daring_grunt_brief_artefact |  
+| bip_39_word_underscore_2 | impulse_voyage |  
+| bip_39_word_underscore_3 | impulse_voyage_tired |  
+| bip_39_word_underscore_4 | impulse_voyage_tired_timber |  
+| bip_39_word_underscore_5 | impulse_voyage_tired_timber_bench |  
+| bip_39_word_underscore_6 | impulse_voyage_tired_timber_bench_spoon |  
+| bip_39_word_underscore_7 | impulse_voyage_tired_timber_bench_spoon_hundred |  
+| bip_39_word_underscore_8 | impulse_voyage_tired_timber_bench_spoon_hundred_traffic |  
+| bip_39_word_underscore_9 | impulse_voyage_tired_timber_bench_spoon_hundred_traffic_daring |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

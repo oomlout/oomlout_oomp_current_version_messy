@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | adjust |  
+| bip_39_word_dash_10 | adjust-noise-dinosaur-trap-popular-gravity-nephew-ball-family-surprise |  
+| bip_39_word_dash_11 | adjust-noise-dinosaur-trap-popular-gravity-nephew-ball-family-surprise-furnace |  
+| bip_39_word_dash_12 | adjust-noise-dinosaur-trap-popular-gravity-nephew-ball-family-surprise-furnace-acoustic |  
+| bip_39_word_dash_2 | adjust-noise |  
+| bip_39_word_dash_3 | adjust-noise-dinosaur |  
+| bip_39_word_dash_4 | adjust-noise-dinosaur-trap |  
+| bip_39_word_dash_5 | adjust-noise-dinosaur-trap-popular |  
+| bip_39_word_dash_6 | adjust-noise-dinosaur-trap-popular-gravity |  
+| bip_39_word_dash_7 | adjust-noise-dinosaur-trap-popular-gravity-nephew |  
+| bip_39_word_dash_8 | adjust-noise-dinosaur-trap-popular-gravity-nephew-ball |  
+| bip_39_word_dash_9 | adjust-noise-dinosaur-trap-popular-gravity-nephew-ball-family |  
 | bip_39_word_new_br_1 | adjust |  
 | bip_39_word_new_br_10 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball<br>family<br>surprise |  
 | bip_39_word_new_br_11 | adjust<br>noise<br>dinosaur<br>trap<br>popular<br>gravity<br>nephew<br>ball<br>family<br>surprise<br>furnace |  
@@ -147,6 +159,18 @@ family |
 | bip_39_word_space_7 | adjust noise dinosaur trap popular gravity nephew |  
 | bip_39_word_space_8 | adjust noise dinosaur trap popular gravity nephew ball |  
 | bip_39_word_space_9 | adjust noise dinosaur trap popular gravity nephew ball family |  
+| bip_39_word_underscore_1 | adjust |  
+| bip_39_word_underscore_10 | adjust_noise_dinosaur_trap_popular_gravity_nephew_ball_family_surprise |  
+| bip_39_word_underscore_11 | adjust_noise_dinosaur_trap_popular_gravity_nephew_ball_family_surprise_furnace |  
+| bip_39_word_underscore_12 | adjust_noise_dinosaur_trap_popular_gravity_nephew_ball_family_surprise_furnace_acoustic |  
+| bip_39_word_underscore_2 | adjust_noise |  
+| bip_39_word_underscore_3 | adjust_noise_dinosaur |  
+| bip_39_word_underscore_4 | adjust_noise_dinosaur_trap |  
+| bip_39_word_underscore_5 | adjust_noise_dinosaur_trap_popular |  
+| bip_39_word_underscore_6 | adjust_noise_dinosaur_trap_popular_gravity |  
+| bip_39_word_underscore_7 | adjust_noise_dinosaur_trap_popular_gravity_nephew |  
+| bip_39_word_underscore_8 | adjust_noise_dinosaur_trap_popular_gravity_nephew_ball |  
+| bip_39_word_underscore_9 | adjust_noise_dinosaur_trap_popular_gravity_nephew_ball_family |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

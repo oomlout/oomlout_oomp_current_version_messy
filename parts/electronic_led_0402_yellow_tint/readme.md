@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | believe |  
+| bip_39_word_dash_10 | believe-what-nut-payment-repeat-auto-float-salon-mind-people |  
+| bip_39_word_dash_11 | believe-what-nut-payment-repeat-auto-float-salon-mind-people-rural |  
+| bip_39_word_dash_12 | believe-what-nut-payment-repeat-auto-float-salon-mind-people-rural-alter |  
+| bip_39_word_dash_2 | believe-what |  
+| bip_39_word_dash_3 | believe-what-nut |  
+| bip_39_word_dash_4 | believe-what-nut-payment |  
+| bip_39_word_dash_5 | believe-what-nut-payment-repeat |  
+| bip_39_word_dash_6 | believe-what-nut-payment-repeat-auto |  
+| bip_39_word_dash_7 | believe-what-nut-payment-repeat-auto-float |  
+| bip_39_word_dash_8 | believe-what-nut-payment-repeat-auto-float-salon |  
+| bip_39_word_dash_9 | believe-what-nut-payment-repeat-auto-float-salon-mind |  
 | bip_39_word_new_br_1 | believe |  
 | bip_39_word_new_br_10 | believe<br>what<br>nut<br>payment<br>repeat<br>auto<br>float<br>salon<br>mind<br>people |  
 | bip_39_word_new_br_11 | believe<br>what<br>nut<br>payment<br>repeat<br>auto<br>float<br>salon<br>mind<br>people<br>rural |  
@@ -147,6 +159,18 @@ mind |
 | bip_39_word_space_7 | believe what nut payment repeat auto float |  
 | bip_39_word_space_8 | believe what nut payment repeat auto float salon |  
 | bip_39_word_space_9 | believe what nut payment repeat auto float salon mind |  
+| bip_39_word_underscore_1 | believe |  
+| bip_39_word_underscore_10 | believe_what_nut_payment_repeat_auto_float_salon_mind_people |  
+| bip_39_word_underscore_11 | believe_what_nut_payment_repeat_auto_float_salon_mind_people_rural |  
+| bip_39_word_underscore_12 | believe_what_nut_payment_repeat_auto_float_salon_mind_people_rural_alter |  
+| bip_39_word_underscore_2 | believe_what |  
+| bip_39_word_underscore_3 | believe_what_nut |  
+| bip_39_word_underscore_4 | believe_what_nut_payment |  
+| bip_39_word_underscore_5 | believe_what_nut_payment_repeat |  
+| bip_39_word_underscore_6 | believe_what_nut_payment_repeat_auto |  
+| bip_39_word_underscore_7 | believe_what_nut_payment_repeat_auto_float |  
+| bip_39_word_underscore_8 | believe_what_nut_payment_repeat_auto_float_salon |  
+| bip_39_word_underscore_9 | believe_what_nut_payment_repeat_auto_float_salon_mind |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

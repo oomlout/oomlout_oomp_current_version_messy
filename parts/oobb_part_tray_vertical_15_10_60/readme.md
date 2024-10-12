@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clap |  
+| bip_39_word_dash_10 | clap-mean-like-problem-pair-idea-purity-practice-thank-author |  
+| bip_39_word_dash_11 | clap-mean-like-problem-pair-idea-purity-practice-thank-author-unit |  
+| bip_39_word_dash_12 | clap-mean-like-problem-pair-idea-purity-practice-thank-author-unit-antenna |  
+| bip_39_word_dash_2 | clap-mean |  
+| bip_39_word_dash_3 | clap-mean-like |  
+| bip_39_word_dash_4 | clap-mean-like-problem |  
+| bip_39_word_dash_5 | clap-mean-like-problem-pair |  
+| bip_39_word_dash_6 | clap-mean-like-problem-pair-idea |  
+| bip_39_word_dash_7 | clap-mean-like-problem-pair-idea-purity |  
+| bip_39_word_dash_8 | clap-mean-like-problem-pair-idea-purity-practice |  
+| bip_39_word_dash_9 | clap-mean-like-problem-pair-idea-purity-practice-thank |  
 | bip_39_word_new_br_1 | clap |  
 | bip_39_word_new_br_10 | clap<br>mean<br>like<br>problem<br>pair<br>idea<br>purity<br>practice<br>thank<br>author |  
 | bip_39_word_new_br_11 | clap<br>mean<br>like<br>problem<br>pair<br>idea<br>purity<br>practice<br>thank<br>author<br>unit |  
@@ -147,6 +159,18 @@ thank |
 | bip_39_word_space_7 | clap mean like problem pair idea purity |  
 | bip_39_word_space_8 | clap mean like problem pair idea purity practice |  
 | bip_39_word_space_9 | clap mean like problem pair idea purity practice thank |  
+| bip_39_word_underscore_1 | clap |  
+| bip_39_word_underscore_10 | clap_mean_like_problem_pair_idea_purity_practice_thank_author |  
+| bip_39_word_underscore_11 | clap_mean_like_problem_pair_idea_purity_practice_thank_author_unit |  
+| bip_39_word_underscore_12 | clap_mean_like_problem_pair_idea_purity_practice_thank_author_unit_antenna |  
+| bip_39_word_underscore_2 | clap_mean |  
+| bip_39_word_underscore_3 | clap_mean_like |  
+| bip_39_word_underscore_4 | clap_mean_like_problem |  
+| bip_39_word_underscore_5 | clap_mean_like_problem_pair |  
+| bip_39_word_underscore_6 | clap_mean_like_problem_pair_idea |  
+| bip_39_word_underscore_7 | clap_mean_like_problem_pair_idea_purity |  
+| bip_39_word_underscore_8 | clap_mean_like_problem_pair_idea_purity_practice |  
+| bip_39_word_underscore_9 | clap_mean_like_problem_pair_idea_purity_practice_thank |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

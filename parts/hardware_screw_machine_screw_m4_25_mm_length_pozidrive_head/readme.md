@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shell |  
+| bip_39_word_dash_10 | shell-sustain-deliver-number-waste-rocket-enhance-owner-crack-shield |  
+| bip_39_word_dash_11 | shell-sustain-deliver-number-waste-rocket-enhance-owner-crack-shield-absent |  
+| bip_39_word_dash_12 | shell-sustain-deliver-number-waste-rocket-enhance-owner-crack-shield-absent-amazing |  
+| bip_39_word_dash_2 | shell-sustain |  
+| bip_39_word_dash_3 | shell-sustain-deliver |  
+| bip_39_word_dash_4 | shell-sustain-deliver-number |  
+| bip_39_word_dash_5 | shell-sustain-deliver-number-waste |  
+| bip_39_word_dash_6 | shell-sustain-deliver-number-waste-rocket |  
+| bip_39_word_dash_7 | shell-sustain-deliver-number-waste-rocket-enhance |  
+| bip_39_word_dash_8 | shell-sustain-deliver-number-waste-rocket-enhance-owner |  
+| bip_39_word_dash_9 | shell-sustain-deliver-number-waste-rocket-enhance-owner-crack |  
 | bip_39_word_new_br_1 | shell |  
 | bip_39_word_new_br_10 | shell<br>sustain<br>deliver<br>number<br>waste<br>rocket<br>enhance<br>owner<br>crack<br>shield |  
 | bip_39_word_new_br_11 | shell<br>sustain<br>deliver<br>number<br>waste<br>rocket<br>enhance<br>owner<br>crack<br>shield<br>absent |  
@@ -147,6 +159,18 @@ crack |
 | bip_39_word_space_7 | shell sustain deliver number waste rocket enhance |  
 | bip_39_word_space_8 | shell sustain deliver number waste rocket enhance owner |  
 | bip_39_word_space_9 | shell sustain deliver number waste rocket enhance owner crack |  
+| bip_39_word_underscore_1 | shell |  
+| bip_39_word_underscore_10 | shell_sustain_deliver_number_waste_rocket_enhance_owner_crack_shield |  
+| bip_39_word_underscore_11 | shell_sustain_deliver_number_waste_rocket_enhance_owner_crack_shield_absent |  
+| bip_39_word_underscore_12 | shell_sustain_deliver_number_waste_rocket_enhance_owner_crack_shield_absent_amazing |  
+| bip_39_word_underscore_2 | shell_sustain |  
+| bip_39_word_underscore_3 | shell_sustain_deliver |  
+| bip_39_word_underscore_4 | shell_sustain_deliver_number |  
+| bip_39_word_underscore_5 | shell_sustain_deliver_number_waste |  
+| bip_39_word_underscore_6 | shell_sustain_deliver_number_waste_rocket |  
+| bip_39_word_underscore_7 | shell_sustain_deliver_number_waste_rocket_enhance |  
+| bip_39_word_underscore_8 | shell_sustain_deliver_number_waste_rocket_enhance_owner |  
+| bip_39_word_underscore_9 | shell_sustain_deliver_number_waste_rocket_enhance_owner_crack |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

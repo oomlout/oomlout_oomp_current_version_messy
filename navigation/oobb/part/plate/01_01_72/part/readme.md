@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bar |  
+| bip_39_word_dash_10 | bar-lift-control-price-social-valid-excuse-bunker-blast-rotate |  
+| bip_39_word_dash_11 | bar-lift-control-price-social-valid-excuse-bunker-blast-rotate-moon |  
+| bip_39_word_dash_12 | bar-lift-control-price-social-valid-excuse-bunker-blast-rotate-moon-aspect |  
+| bip_39_word_dash_2 | bar-lift |  
+| bip_39_word_dash_3 | bar-lift-control |  
+| bip_39_word_dash_4 | bar-lift-control-price |  
+| bip_39_word_dash_5 | bar-lift-control-price-social |  
+| bip_39_word_dash_6 | bar-lift-control-price-social-valid |  
+| bip_39_word_dash_7 | bar-lift-control-price-social-valid-excuse |  
+| bip_39_word_dash_8 | bar-lift-control-price-social-valid-excuse-bunker |  
+| bip_39_word_dash_9 | bar-lift-control-price-social-valid-excuse-bunker-blast |  
 | bip_39_word_new_br_1 | bar |  
 | bip_39_word_new_br_10 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate |  
 | bip_39_word_new_br_11 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate<br>moon |  
@@ -147,6 +159,18 @@ blast |
 | bip_39_word_space_7 | bar lift control price social valid excuse |  
 | bip_39_word_space_8 | bar lift control price social valid excuse bunker |  
 | bip_39_word_space_9 | bar lift control price social valid excuse bunker blast |  
+| bip_39_word_underscore_1 | bar |  
+| bip_39_word_underscore_10 | bar_lift_control_price_social_valid_excuse_bunker_blast_rotate |  
+| bip_39_word_underscore_11 | bar_lift_control_price_social_valid_excuse_bunker_blast_rotate_moon |  
+| bip_39_word_underscore_12 | bar_lift_control_price_social_valid_excuse_bunker_blast_rotate_moon_aspect |  
+| bip_39_word_underscore_2 | bar_lift |  
+| bip_39_word_underscore_3 | bar_lift_control |  
+| bip_39_word_underscore_4 | bar_lift_control_price |  
+| bip_39_word_underscore_5 | bar_lift_control_price_social |  
+| bip_39_word_underscore_6 | bar_lift_control_price_social_valid |  
+| bip_39_word_underscore_7 | bar_lift_control_price_social_valid_excuse |  
+| bip_39_word_underscore_8 | bar_lift_control_price_social_valid_excuse_bunker |  
+| bip_39_word_underscore_9 | bar_lift_control_price_social_valid_excuse_bunker_blast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

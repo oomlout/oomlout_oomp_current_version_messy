@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | suspect |  
+| bip_39_word_dash_10 | suspect-creek-lonely-pave-toddler-learn-frame-farm-subway-fringe |  
+| bip_39_word_dash_11 | suspect-creek-lonely-pave-toddler-learn-frame-farm-subway-fringe-energy |  
+| bip_39_word_dash_2 | suspect-creek |  
+| bip_39_word_dash_3 | suspect-creek-lonely |  
+| bip_39_word_dash_4 | suspect-creek-lonely-pave |  
+| bip_39_word_dash_5 | suspect-creek-lonely-pave-toddler |  
+| bip_39_word_dash_6 | suspect-creek-lonely-pave-toddler-learn |  
+| bip_39_word_dash_7 | suspect-creek-lonely-pave-toddler-learn-frame |  
+| bip_39_word_dash_8 | suspect-creek-lonely-pave-toddler-learn-frame-farm |  
+| bip_39_word_dash_9 | suspect-creek-lonely-pave-toddler-learn-frame-farm-subway |  
 | bip_39_word_new_br_1 | suspect |  
 | bip_39_word_new_br_10 | suspect<br>creek<br>lonely<br>pave<br>toddler<br>learn<br>frame<br>farm<br>subway<br>fringe |  
 | bip_39_word_new_br_11 | suspect<br>creek<br>lonely<br>pave<br>toddler<br>learn<br>frame<br>farm<br>subway<br>fringe<br>energy |  
@@ -132,6 +143,17 @@ subway |
 | bip_39_word_space_7 | suspect creek lonely pave toddler learn frame |  
 | bip_39_word_space_8 | suspect creek lonely pave toddler learn frame farm |  
 | bip_39_word_space_9 | suspect creek lonely pave toddler learn frame farm subway |  
+| bip_39_word_underscore_1 | suspect |  
+| bip_39_word_underscore_10 | suspect_creek_lonely_pave_toddler_learn_frame_farm_subway_fringe |  
+| bip_39_word_underscore_11 | suspect_creek_lonely_pave_toddler_learn_frame_farm_subway_fringe_energy |  
+| bip_39_word_underscore_2 | suspect_creek |  
+| bip_39_word_underscore_3 | suspect_creek_lonely |  
+| bip_39_word_underscore_4 | suspect_creek_lonely_pave |  
+| bip_39_word_underscore_5 | suspect_creek_lonely_pave_toddler |  
+| bip_39_word_underscore_6 | suspect_creek_lonely_pave_toddler_learn |  
+| bip_39_word_underscore_7 | suspect_creek_lonely_pave_toddler_learn_frame |  
+| bip_39_word_underscore_8 | suspect_creek_lonely_pave_toddler_learn_frame_farm |  
+| bip_39_word_underscore_9 | suspect_creek_lonely_pave_toddler_learn_frame_farm_subway |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

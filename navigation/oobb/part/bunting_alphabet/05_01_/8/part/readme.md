@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | birth |  
+| bip_39_word_dash_10 | birth-sense-enforce-question-eight-raccoon-scatter-property-return-recall |  
+| bip_39_word_dash_11 | birth-sense-enforce-question-eight-raccoon-scatter-property-return-recall-lumber |  
+| bip_39_word_dash_12 | birth-sense-enforce-question-eight-raccoon-scatter-property-return-recall-lumber-audit |  
+| bip_39_word_dash_2 | birth-sense |  
+| bip_39_word_dash_3 | birth-sense-enforce |  
+| bip_39_word_dash_4 | birth-sense-enforce-question |  
+| bip_39_word_dash_5 | birth-sense-enforce-question-eight |  
+| bip_39_word_dash_6 | birth-sense-enforce-question-eight-raccoon |  
+| bip_39_word_dash_7 | birth-sense-enforce-question-eight-raccoon-scatter |  
+| bip_39_word_dash_8 | birth-sense-enforce-question-eight-raccoon-scatter-property |  
+| bip_39_word_dash_9 | birth-sense-enforce-question-eight-raccoon-scatter-property-return |  
 | bip_39_word_new_br_1 | birth |  
 | bip_39_word_new_br_10 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property<br>return<br>recall |  
 | bip_39_word_new_br_11 | birth<br>sense<br>enforce<br>question<br>eight<br>raccoon<br>scatter<br>property<br>return<br>recall<br>lumber |  
@@ -147,6 +159,18 @@ return |
 | bip_39_word_space_7 | birth sense enforce question eight raccoon scatter |  
 | bip_39_word_space_8 | birth sense enforce question eight raccoon scatter property |  
 | bip_39_word_space_9 | birth sense enforce question eight raccoon scatter property return |  
+| bip_39_word_underscore_1 | birth |  
+| bip_39_word_underscore_10 | birth_sense_enforce_question_eight_raccoon_scatter_property_return_recall |  
+| bip_39_word_underscore_11 | birth_sense_enforce_question_eight_raccoon_scatter_property_return_recall_lumber |  
+| bip_39_word_underscore_12 | birth_sense_enforce_question_eight_raccoon_scatter_property_return_recall_lumber_audit |  
+| bip_39_word_underscore_2 | birth_sense |  
+| bip_39_word_underscore_3 | birth_sense_enforce |  
+| bip_39_word_underscore_4 | birth_sense_enforce_question |  
+| bip_39_word_underscore_5 | birth_sense_enforce_question_eight |  
+| bip_39_word_underscore_6 | birth_sense_enforce_question_eight_raccoon |  
+| bip_39_word_underscore_7 | birth_sense_enforce_question_eight_raccoon_scatter |  
+| bip_39_word_underscore_8 | birth_sense_enforce_question_eight_raccoon_scatter_property |  
+| bip_39_word_underscore_9 | birth_sense_enforce_question_eight_raccoon_scatter_property_return |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

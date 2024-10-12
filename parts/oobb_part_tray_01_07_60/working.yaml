@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dance
+bip_39_word_dash_10: dance-song-pause-beyond-radar-eight-cricket-rhythm-thought-casual
+bip_39_word_dash_11: dance-song-pause-beyond-radar-eight-cricket-rhythm-thought-casual-quiz
+bip_39_word_dash_12: dance-song-pause-beyond-radar-eight-cricket-rhythm-thought-casual-quiz-always
+bip_39_word_dash_2: dance-song
+bip_39_word_dash_3: dance-song-pause
+bip_39_word_dash_4: dance-song-pause-beyond
+bip_39_word_dash_5: dance-song-pause-beyond-radar
+bip_39_word_dash_6: dance-song-pause-beyond-radar-eight
+bip_39_word_dash_7: dance-song-pause-beyond-radar-eight-cricket
+bip_39_word_dash_8: dance-song-pause-beyond-radar-eight-cricket-rhythm
+bip_39_word_dash_9: dance-song-pause-beyond-radar-eight-cricket-rhythm-thought
 bip_39_word_new_br_1: dance
 bip_39_word_new_br_10: dance<br>song<br>pause<br>beyond<br>radar<br>eight<br>cricket<br>rhythm<br>thought<br>casual
 bip_39_word_new_br_11: dance<br>song<br>pause<br>beyond<br>radar<br>eight<br>cricket<br>rhythm<br>thought<br>casual<br>quiz
@@ -193,6 +205,18 @@ bip_39_word_space_6: dance song pause beyond radar eight
 bip_39_word_space_7: dance song pause beyond radar eight cricket
 bip_39_word_space_8: dance song pause beyond radar eight cricket rhythm
 bip_39_word_space_9: dance song pause beyond radar eight cricket rhythm thought
+bip_39_word_underscore_1: dance
+bip_39_word_underscore_10: dance_song_pause_beyond_radar_eight_cricket_rhythm_thought_casual
+bip_39_word_underscore_11: dance_song_pause_beyond_radar_eight_cricket_rhythm_thought_casual_quiz
+bip_39_word_underscore_12: dance_song_pause_beyond_radar_eight_cricket_rhythm_thought_casual_quiz_always
+bip_39_word_underscore_2: dance_song
+bip_39_word_underscore_3: dance_song_pause
+bip_39_word_underscore_4: dance_song_pause_beyond
+bip_39_word_underscore_5: dance_song_pause_beyond_radar
+bip_39_word_underscore_6: dance_song_pause_beyond_radar_eight
+bip_39_word_underscore_7: dance_song_pause_beyond_radar_eight_cricket
+bip_39_word_underscore_8: dance_song_pause_beyond_radar_eight_cricket_rhythm
+bip_39_word_underscore_9: dance_song_pause_beyond_radar_eight_cricket_rhythm_thought
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

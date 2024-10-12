@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | panic |  
+| bip_39_word_dash_10 | panic-mechanic-citizen-series-defy-enforce-core-unveil-family-friend |  
+| bip_39_word_dash_11 | panic-mechanic-citizen-series-defy-enforce-core-unveil-family-friend-month |  
+| bip_39_word_dash_12 | panic-mechanic-citizen-series-defy-enforce-core-unveil-family-friend-month-apology |  
+| bip_39_word_dash_2 | panic-mechanic |  
+| bip_39_word_dash_3 | panic-mechanic-citizen |  
+| bip_39_word_dash_4 | panic-mechanic-citizen-series |  
+| bip_39_word_dash_5 | panic-mechanic-citizen-series-defy |  
+| bip_39_word_dash_6 | panic-mechanic-citizen-series-defy-enforce |  
+| bip_39_word_dash_7 | panic-mechanic-citizen-series-defy-enforce-core |  
+| bip_39_word_dash_8 | panic-mechanic-citizen-series-defy-enforce-core-unveil |  
+| bip_39_word_dash_9 | panic-mechanic-citizen-series-defy-enforce-core-unveil-family |  
 | bip_39_word_new_br_1 | panic |  
 | bip_39_word_new_br_10 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil<br>family<br>friend |  
 | bip_39_word_new_br_11 | panic<br>mechanic<br>citizen<br>series<br>defy<br>enforce<br>core<br>unveil<br>family<br>friend<br>month |  
@@ -147,6 +159,18 @@ family |
 | bip_39_word_space_7 | panic mechanic citizen series defy enforce core |  
 | bip_39_word_space_8 | panic mechanic citizen series defy enforce core unveil |  
 | bip_39_word_space_9 | panic mechanic citizen series defy enforce core unveil family |  
+| bip_39_word_underscore_1 | panic |  
+| bip_39_word_underscore_10 | panic_mechanic_citizen_series_defy_enforce_core_unveil_family_friend |  
+| bip_39_word_underscore_11 | panic_mechanic_citizen_series_defy_enforce_core_unveil_family_friend_month |  
+| bip_39_word_underscore_12 | panic_mechanic_citizen_series_defy_enforce_core_unveil_family_friend_month_apology |  
+| bip_39_word_underscore_2 | panic_mechanic |  
+| bip_39_word_underscore_3 | panic_mechanic_citizen |  
+| bip_39_word_underscore_4 | panic_mechanic_citizen_series |  
+| bip_39_word_underscore_5 | panic_mechanic_citizen_series_defy |  
+| bip_39_word_underscore_6 | panic_mechanic_citizen_series_defy_enforce |  
+| bip_39_word_underscore_7 | panic_mechanic_citizen_series_defy_enforce_core |  
+| bip_39_word_underscore_8 | panic_mechanic_citizen_series_defy_enforce_core_unveil |  
+| bip_39_word_underscore_9 | panic_mechanic_citizen_series_defy_enforce_core_unveil_family |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

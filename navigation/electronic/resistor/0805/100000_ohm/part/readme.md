@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coil |  
+| bip_39_word_dash_10 | coil-faculty-world-credit-bundle-another-second-arm-notable-leisure |  
+| bip_39_word_dash_11 | coil-faculty-world-credit-bundle-another-second-arm-notable-leisure-slam |  
+| bip_39_word_dash_12 | coil-faculty-world-credit-bundle-another-second-arm-notable-leisure-slam-adjust |  
+| bip_39_word_dash_2 | coil-faculty |  
+| bip_39_word_dash_3 | coil-faculty-world |  
+| bip_39_word_dash_4 | coil-faculty-world-credit |  
+| bip_39_word_dash_5 | coil-faculty-world-credit-bundle |  
+| bip_39_word_dash_6 | coil-faculty-world-credit-bundle-another |  
+| bip_39_word_dash_7 | coil-faculty-world-credit-bundle-another-second |  
+| bip_39_word_dash_8 | coil-faculty-world-credit-bundle-another-second-arm |  
+| bip_39_word_dash_9 | coil-faculty-world-credit-bundle-another-second-arm-notable |  
 | bip_39_word_new_br_1 | coil |  
 | bip_39_word_new_br_10 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure |  
 | bip_39_word_new_br_11 | coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure<br>slam |  
@@ -147,6 +159,18 @@ notable |
 | bip_39_word_space_7 | coil faculty world credit bundle another second |  
 | bip_39_word_space_8 | coil faculty world credit bundle another second arm |  
 | bip_39_word_space_9 | coil faculty world credit bundle another second arm notable |  
+| bip_39_word_underscore_1 | coil |  
+| bip_39_word_underscore_10 | coil_faculty_world_credit_bundle_another_second_arm_notable_leisure |  
+| bip_39_word_underscore_11 | coil_faculty_world_credit_bundle_another_second_arm_notable_leisure_slam |  
+| bip_39_word_underscore_12 | coil_faculty_world_credit_bundle_another_second_arm_notable_leisure_slam_adjust |  
+| bip_39_word_underscore_2 | coil_faculty |  
+| bip_39_word_underscore_3 | coil_faculty_world |  
+| bip_39_word_underscore_4 | coil_faculty_world_credit |  
+| bip_39_word_underscore_5 | coil_faculty_world_credit_bundle |  
+| bip_39_word_underscore_6 | coil_faculty_world_credit_bundle_another |  
+| bip_39_word_underscore_7 | coil_faculty_world_credit_bundle_another_second |  
+| bip_39_word_underscore_8 | coil_faculty_world_credit_bundle_another_second_arm |  
+| bip_39_word_underscore_9 | coil_faculty_world_credit_bundle_another_second_arm_notable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

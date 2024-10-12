@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | concert |  
+| bip_39_word_dash_10 | concert-salon-desert-car-duck-job-canal-aware-open-marriage |  
+| bip_39_word_dash_11 | concert-salon-desert-car-duck-job-canal-aware-open-marriage-image |  
+| bip_39_word_dash_12 | concert-salon-desert-car-duck-job-canal-aware-open-marriage-image-athlete |  
+| bip_39_word_dash_2 | concert-salon |  
+| bip_39_word_dash_3 | concert-salon-desert |  
+| bip_39_word_dash_4 | concert-salon-desert-car |  
+| bip_39_word_dash_5 | concert-salon-desert-car-duck |  
+| bip_39_word_dash_6 | concert-salon-desert-car-duck-job |  
+| bip_39_word_dash_7 | concert-salon-desert-car-duck-job-canal |  
+| bip_39_word_dash_8 | concert-salon-desert-car-duck-job-canal-aware |  
+| bip_39_word_dash_9 | concert-salon-desert-car-duck-job-canal-aware-open |  
 | bip_39_word_new_br_1 | concert |  
 | bip_39_word_new_br_10 | concert<br>salon<br>desert<br>car<br>duck<br>job<br>canal<br>aware<br>open<br>marriage |  
 | bip_39_word_new_br_11 | concert<br>salon<br>desert<br>car<br>duck<br>job<br>canal<br>aware<br>open<br>marriage<br>image |  
@@ -147,6 +159,18 @@ open |
 | bip_39_word_space_7 | concert salon desert car duck job canal |  
 | bip_39_word_space_8 | concert salon desert car duck job canal aware |  
 | bip_39_word_space_9 | concert salon desert car duck job canal aware open |  
+| bip_39_word_underscore_1 | concert |  
+| bip_39_word_underscore_10 | concert_salon_desert_car_duck_job_canal_aware_open_marriage |  
+| bip_39_word_underscore_11 | concert_salon_desert_car_duck_job_canal_aware_open_marriage_image |  
+| bip_39_word_underscore_12 | concert_salon_desert_car_duck_job_canal_aware_open_marriage_image_athlete |  
+| bip_39_word_underscore_2 | concert_salon |  
+| bip_39_word_underscore_3 | concert_salon_desert |  
+| bip_39_word_underscore_4 | concert_salon_desert_car |  
+| bip_39_word_underscore_5 | concert_salon_desert_car_duck |  
+| bip_39_word_underscore_6 | concert_salon_desert_car_duck_job |  
+| bip_39_word_underscore_7 | concert_salon_desert_car_duck_job_canal |  
+| bip_39_word_underscore_8 | concert_salon_desert_car_duck_job_canal_aware |  
+| bip_39_word_underscore_9 | concert_salon_desert_car_duck_job_canal_aware_open |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

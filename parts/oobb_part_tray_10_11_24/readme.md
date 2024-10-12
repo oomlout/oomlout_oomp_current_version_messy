@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | marriage |  
+| bip_39_word_dash_10 | marriage-machine-shrug-sadness-parade-debate-humble-lion-seat-toilet |  
+| bip_39_word_dash_11 | marriage-machine-shrug-sadness-parade-debate-humble-lion-seat-toilet-asset |  
+| bip_39_word_dash_12 | marriage-machine-shrug-sadness-parade-debate-humble-lion-seat-toilet-asset-advance |  
+| bip_39_word_dash_2 | marriage-machine |  
+| bip_39_word_dash_3 | marriage-machine-shrug |  
+| bip_39_word_dash_4 | marriage-machine-shrug-sadness |  
+| bip_39_word_dash_5 | marriage-machine-shrug-sadness-parade |  
+| bip_39_word_dash_6 | marriage-machine-shrug-sadness-parade-debate |  
+| bip_39_word_dash_7 | marriage-machine-shrug-sadness-parade-debate-humble |  
+| bip_39_word_dash_8 | marriage-machine-shrug-sadness-parade-debate-humble-lion |  
+| bip_39_word_dash_9 | marriage-machine-shrug-sadness-parade-debate-humble-lion-seat |  
 | bip_39_word_new_br_1 | marriage |  
 | bip_39_word_new_br_10 | marriage<br>machine<br>shrug<br>sadness<br>parade<br>debate<br>humble<br>lion<br>seat<br>toilet |  
 | bip_39_word_new_br_11 | marriage<br>machine<br>shrug<br>sadness<br>parade<br>debate<br>humble<br>lion<br>seat<br>toilet<br>asset |  
@@ -147,6 +159,18 @@ seat |
 | bip_39_word_space_7 | marriage machine shrug sadness parade debate humble |  
 | bip_39_word_space_8 | marriage machine shrug sadness parade debate humble lion |  
 | bip_39_word_space_9 | marriage machine shrug sadness parade debate humble lion seat |  
+| bip_39_word_underscore_1 | marriage |  
+| bip_39_word_underscore_10 | marriage_machine_shrug_sadness_parade_debate_humble_lion_seat_toilet |  
+| bip_39_word_underscore_11 | marriage_machine_shrug_sadness_parade_debate_humble_lion_seat_toilet_asset |  
+| bip_39_word_underscore_12 | marriage_machine_shrug_sadness_parade_debate_humble_lion_seat_toilet_asset_advance |  
+| bip_39_word_underscore_2 | marriage_machine |  
+| bip_39_word_underscore_3 | marriage_machine_shrug |  
+| bip_39_word_underscore_4 | marriage_machine_shrug_sadness |  
+| bip_39_word_underscore_5 | marriage_machine_shrug_sadness_parade |  
+| bip_39_word_underscore_6 | marriage_machine_shrug_sadness_parade_debate |  
+| bip_39_word_underscore_7 | marriage_machine_shrug_sadness_parade_debate_humble |  
+| bip_39_word_underscore_8 | marriage_machine_shrug_sadness_parade_debate_humble_lion |  
+| bip_39_word_underscore_9 | marriage_machine_shrug_sadness_parade_debate_humble_lion_seat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

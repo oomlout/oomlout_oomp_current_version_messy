@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | iron |  
+| bip_39_word_dash_10 | iron-build-lock-number-heart-swamp-nerve-move-much-fiber |  
+| bip_39_word_dash_11 | iron-build-lock-number-heart-swamp-nerve-move-much-fiber-space |  
+| bip_39_word_dash_12 | iron-build-lock-number-heart-swamp-nerve-move-much-fiber-space-alone |  
+| bip_39_word_dash_2 | iron-build |  
+| bip_39_word_dash_3 | iron-build-lock |  
+| bip_39_word_dash_4 | iron-build-lock-number |  
+| bip_39_word_dash_5 | iron-build-lock-number-heart |  
+| bip_39_word_dash_6 | iron-build-lock-number-heart-swamp |  
+| bip_39_word_dash_7 | iron-build-lock-number-heart-swamp-nerve |  
+| bip_39_word_dash_8 | iron-build-lock-number-heart-swamp-nerve-move |  
+| bip_39_word_dash_9 | iron-build-lock-number-heart-swamp-nerve-move-much |  
 | bip_39_word_new_br_1 | iron |  
 | bip_39_word_new_br_10 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber |  
 | bip_39_word_new_br_11 | iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber<br>space |  
@@ -147,6 +159,18 @@ much |
 | bip_39_word_space_7 | iron build lock number heart swamp nerve |  
 | bip_39_word_space_8 | iron build lock number heart swamp nerve move |  
 | bip_39_word_space_9 | iron build lock number heart swamp nerve move much |  
+| bip_39_word_underscore_1 | iron |  
+| bip_39_word_underscore_10 | iron_build_lock_number_heart_swamp_nerve_move_much_fiber |  
+| bip_39_word_underscore_11 | iron_build_lock_number_heart_swamp_nerve_move_much_fiber_space |  
+| bip_39_word_underscore_12 | iron_build_lock_number_heart_swamp_nerve_move_much_fiber_space_alone |  
+| bip_39_word_underscore_2 | iron_build |  
+| bip_39_word_underscore_3 | iron_build_lock |  
+| bip_39_word_underscore_4 | iron_build_lock_number |  
+| bip_39_word_underscore_5 | iron_build_lock_number_heart |  
+| bip_39_word_underscore_6 | iron_build_lock_number_heart_swamp |  
+| bip_39_word_underscore_7 | iron_build_lock_number_heart_swamp_nerve |  
+| bip_39_word_underscore_8 | iron_build_lock_number_heart_swamp_nerve_move |  
+| bip_39_word_underscore_9 | iron_build_lock_number_heart_swamp_nerve_move_much |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

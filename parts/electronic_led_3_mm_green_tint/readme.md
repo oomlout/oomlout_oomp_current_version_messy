@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exotic |  
+| bip_39_word_dash_10 | exotic-tobacco-gap-believe-sick-stamp-sense-cover-grocery-where |  
+| bip_39_word_dash_11 | exotic-tobacco-gap-believe-sick-stamp-sense-cover-grocery-where-chapter |  
+| bip_39_word_dash_12 | exotic-tobacco-gap-believe-sick-stamp-sense-cover-grocery-where-chapter-aerobic |  
+| bip_39_word_dash_2 | exotic-tobacco |  
+| bip_39_word_dash_3 | exotic-tobacco-gap |  
+| bip_39_word_dash_4 | exotic-tobacco-gap-believe |  
+| bip_39_word_dash_5 | exotic-tobacco-gap-believe-sick |  
+| bip_39_word_dash_6 | exotic-tobacco-gap-believe-sick-stamp |  
+| bip_39_word_dash_7 | exotic-tobacco-gap-believe-sick-stamp-sense |  
+| bip_39_word_dash_8 | exotic-tobacco-gap-believe-sick-stamp-sense-cover |  
+| bip_39_word_dash_9 | exotic-tobacco-gap-believe-sick-stamp-sense-cover-grocery |  
 | bip_39_word_new_br_1 | exotic |  
 | bip_39_word_new_br_10 | exotic<br>tobacco<br>gap<br>believe<br>sick<br>stamp<br>sense<br>cover<br>grocery<br>where |  
 | bip_39_word_new_br_11 | exotic<br>tobacco<br>gap<br>believe<br>sick<br>stamp<br>sense<br>cover<br>grocery<br>where<br>chapter |  
@@ -147,6 +159,18 @@ grocery |
 | bip_39_word_space_7 | exotic tobacco gap believe sick stamp sense |  
 | bip_39_word_space_8 | exotic tobacco gap believe sick stamp sense cover |  
 | bip_39_word_space_9 | exotic tobacco gap believe sick stamp sense cover grocery |  
+| bip_39_word_underscore_1 | exotic |  
+| bip_39_word_underscore_10 | exotic_tobacco_gap_believe_sick_stamp_sense_cover_grocery_where |  
+| bip_39_word_underscore_11 | exotic_tobacco_gap_believe_sick_stamp_sense_cover_grocery_where_chapter |  
+| bip_39_word_underscore_12 | exotic_tobacco_gap_believe_sick_stamp_sense_cover_grocery_where_chapter_aerobic |  
+| bip_39_word_underscore_2 | exotic_tobacco |  
+| bip_39_word_underscore_3 | exotic_tobacco_gap |  
+| bip_39_word_underscore_4 | exotic_tobacco_gap_believe |  
+| bip_39_word_underscore_5 | exotic_tobacco_gap_believe_sick |  
+| bip_39_word_underscore_6 | exotic_tobacco_gap_believe_sick_stamp |  
+| bip_39_word_underscore_7 | exotic_tobacco_gap_believe_sick_stamp_sense |  
+| bip_39_word_underscore_8 | exotic_tobacco_gap_believe_sick_stamp_sense_cover |  
+| bip_39_word_underscore_9 | exotic_tobacco_gap_believe_sick_stamp_sense_cover_grocery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

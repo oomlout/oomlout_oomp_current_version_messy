@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | obtain |  
+| bip_39_word_dash_10 | obtain-appear-choose-sustain-law-sibling-pretty-reunion-teach-cannon |  
+| bip_39_word_dash_11 | obtain-appear-choose-sustain-law-sibling-pretty-reunion-teach-cannon-wage |  
+| bip_39_word_dash_12 | obtain-appear-choose-sustain-law-sibling-pretty-reunion-teach-cannon-wage-aunt |  
+| bip_39_word_dash_2 | obtain-appear |  
+| bip_39_word_dash_3 | obtain-appear-choose |  
+| bip_39_word_dash_4 | obtain-appear-choose-sustain |  
+| bip_39_word_dash_5 | obtain-appear-choose-sustain-law |  
+| bip_39_word_dash_6 | obtain-appear-choose-sustain-law-sibling |  
+| bip_39_word_dash_7 | obtain-appear-choose-sustain-law-sibling-pretty |  
+| bip_39_word_dash_8 | obtain-appear-choose-sustain-law-sibling-pretty-reunion |  
+| bip_39_word_dash_9 | obtain-appear-choose-sustain-law-sibling-pretty-reunion-teach |  
 | bip_39_word_new_br_1 | obtain |  
 | bip_39_word_new_br_10 | obtain<br>appear<br>choose<br>sustain<br>law<br>sibling<br>pretty<br>reunion<br>teach<br>cannon |  
 | bip_39_word_new_br_11 | obtain<br>appear<br>choose<br>sustain<br>law<br>sibling<br>pretty<br>reunion<br>teach<br>cannon<br>wage |  
@@ -147,6 +159,18 @@ teach |
 | bip_39_word_space_7 | obtain appear choose sustain law sibling pretty |  
 | bip_39_word_space_8 | obtain appear choose sustain law sibling pretty reunion |  
 | bip_39_word_space_9 | obtain appear choose sustain law sibling pretty reunion teach |  
+| bip_39_word_underscore_1 | obtain |  
+| bip_39_word_underscore_10 | obtain_appear_choose_sustain_law_sibling_pretty_reunion_teach_cannon |  
+| bip_39_word_underscore_11 | obtain_appear_choose_sustain_law_sibling_pretty_reunion_teach_cannon_wage |  
+| bip_39_word_underscore_12 | obtain_appear_choose_sustain_law_sibling_pretty_reunion_teach_cannon_wage_aunt |  
+| bip_39_word_underscore_2 | obtain_appear |  
+| bip_39_word_underscore_3 | obtain_appear_choose |  
+| bip_39_word_underscore_4 | obtain_appear_choose_sustain |  
+| bip_39_word_underscore_5 | obtain_appear_choose_sustain_law |  
+| bip_39_word_underscore_6 | obtain_appear_choose_sustain_law_sibling |  
+| bip_39_word_underscore_7 | obtain_appear_choose_sustain_law_sibling_pretty |  
+| bip_39_word_underscore_8 | obtain_appear_choose_sustain_law_sibling_pretty_reunion |  
+| bip_39_word_underscore_9 | obtain_appear_choose_sustain_law_sibling_pretty_reunion_teach |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

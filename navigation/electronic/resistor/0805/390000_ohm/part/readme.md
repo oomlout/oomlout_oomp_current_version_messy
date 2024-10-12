@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | metal |  
+| bip_39_word_dash_10 | metal-snake-tag-armor-soft-pride-letter-profit-walk-decline |  
+| bip_39_word_dash_11 | metal-snake-tag-armor-soft-pride-letter-profit-walk-decline-seminar |  
+| bip_39_word_dash_12 | metal-snake-tag-armor-soft-pride-letter-profit-walk-decline-seminar-afraid |  
+| bip_39_word_dash_2 | metal-snake |  
+| bip_39_word_dash_3 | metal-snake-tag |  
+| bip_39_word_dash_4 | metal-snake-tag-armor |  
+| bip_39_word_dash_5 | metal-snake-tag-armor-soft |  
+| bip_39_word_dash_6 | metal-snake-tag-armor-soft-pride |  
+| bip_39_word_dash_7 | metal-snake-tag-armor-soft-pride-letter |  
+| bip_39_word_dash_8 | metal-snake-tag-armor-soft-pride-letter-profit |  
+| bip_39_word_dash_9 | metal-snake-tag-armor-soft-pride-letter-profit-walk |  
 | bip_39_word_new_br_1 | metal |  
 | bip_39_word_new_br_10 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit<br>walk<br>decline |  
 | bip_39_word_new_br_11 | metal<br>snake<br>tag<br>armor<br>soft<br>pride<br>letter<br>profit<br>walk<br>decline<br>seminar |  
@@ -147,6 +159,18 @@ walk |
 | bip_39_word_space_7 | metal snake tag armor soft pride letter |  
 | bip_39_word_space_8 | metal snake tag armor soft pride letter profit |  
 | bip_39_word_space_9 | metal snake tag armor soft pride letter profit walk |  
+| bip_39_word_underscore_1 | metal |  
+| bip_39_word_underscore_10 | metal_snake_tag_armor_soft_pride_letter_profit_walk_decline |  
+| bip_39_word_underscore_11 | metal_snake_tag_armor_soft_pride_letter_profit_walk_decline_seminar |  
+| bip_39_word_underscore_12 | metal_snake_tag_armor_soft_pride_letter_profit_walk_decline_seminar_afraid |  
+| bip_39_word_underscore_2 | metal_snake |  
+| bip_39_word_underscore_3 | metal_snake_tag |  
+| bip_39_word_underscore_4 | metal_snake_tag_armor |  
+| bip_39_word_underscore_5 | metal_snake_tag_armor_soft |  
+| bip_39_word_underscore_6 | metal_snake_tag_armor_soft_pride |  
+| bip_39_word_underscore_7 | metal_snake_tag_armor_soft_pride_letter |  
+| bip_39_word_underscore_8 | metal_snake_tag_armor_soft_pride_letter_profit |  
+| bip_39_word_underscore_9 | metal_snake_tag_armor_soft_pride_letter_profit_walk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

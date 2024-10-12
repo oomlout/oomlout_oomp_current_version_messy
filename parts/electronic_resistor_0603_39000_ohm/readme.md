@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | topple |  
+| bip_39_word_dash_10 | topple-shop-unknown-spare-hire-appear-limb-credit-clerk-upset |  
+| bip_39_word_dash_11 | topple-shop-unknown-spare-hire-appear-limb-credit-clerk-upset-album |  
+| bip_39_word_dash_12 | topple-shop-unknown-spare-hire-appear-limb-credit-clerk-upset-album-arrest |  
+| bip_39_word_dash_2 | topple-shop |  
+| bip_39_word_dash_3 | topple-shop-unknown |  
+| bip_39_word_dash_4 | topple-shop-unknown-spare |  
+| bip_39_word_dash_5 | topple-shop-unknown-spare-hire |  
+| bip_39_word_dash_6 | topple-shop-unknown-spare-hire-appear |  
+| bip_39_word_dash_7 | topple-shop-unknown-spare-hire-appear-limb |  
+| bip_39_word_dash_8 | topple-shop-unknown-spare-hire-appear-limb-credit |  
+| bip_39_word_dash_9 | topple-shop-unknown-spare-hire-appear-limb-credit-clerk |  
 | bip_39_word_new_br_1 | topple |  
 | bip_39_word_new_br_10 | topple<br>shop<br>unknown<br>spare<br>hire<br>appear<br>limb<br>credit<br>clerk<br>upset |  
 | bip_39_word_new_br_11 | topple<br>shop<br>unknown<br>spare<br>hire<br>appear<br>limb<br>credit<br>clerk<br>upset<br>album |  
@@ -147,6 +159,18 @@ clerk |
 | bip_39_word_space_7 | topple shop unknown spare hire appear limb |  
 | bip_39_word_space_8 | topple shop unknown spare hire appear limb credit |  
 | bip_39_word_space_9 | topple shop unknown spare hire appear limb credit clerk |  
+| bip_39_word_underscore_1 | topple |  
+| bip_39_word_underscore_10 | topple_shop_unknown_spare_hire_appear_limb_credit_clerk_upset |  
+| bip_39_word_underscore_11 | topple_shop_unknown_spare_hire_appear_limb_credit_clerk_upset_album |  
+| bip_39_word_underscore_12 | topple_shop_unknown_spare_hire_appear_limb_credit_clerk_upset_album_arrest |  
+| bip_39_word_underscore_2 | topple_shop |  
+| bip_39_word_underscore_3 | topple_shop_unknown |  
+| bip_39_word_underscore_4 | topple_shop_unknown_spare |  
+| bip_39_word_underscore_5 | topple_shop_unknown_spare_hire |  
+| bip_39_word_underscore_6 | topple_shop_unknown_spare_hire_appear |  
+| bip_39_word_underscore_7 | topple_shop_unknown_spare_hire_appear_limb |  
+| bip_39_word_underscore_8 | topple_shop_unknown_spare_hire_appear_limb_credit |  
+| bip_39_word_underscore_9 | topple_shop_unknown_spare_hire_appear_limb_credit_clerk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

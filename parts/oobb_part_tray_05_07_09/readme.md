@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | guess |  
+| bip_39_word_dash_10 | guess-salute-picture-clay-virus-sound-sport-devote-dust-item |  
+| bip_39_word_dash_11 | guess-salute-picture-clay-virus-sound-sport-devote-dust-item-above |  
+| bip_39_word_dash_12 | guess-salute-picture-clay-virus-sound-sport-devote-dust-item-above-alone |  
+| bip_39_word_dash_2 | guess-salute |  
+| bip_39_word_dash_3 | guess-salute-picture |  
+| bip_39_word_dash_4 | guess-salute-picture-clay |  
+| bip_39_word_dash_5 | guess-salute-picture-clay-virus |  
+| bip_39_word_dash_6 | guess-salute-picture-clay-virus-sound |  
+| bip_39_word_dash_7 | guess-salute-picture-clay-virus-sound-sport |  
+| bip_39_word_dash_8 | guess-salute-picture-clay-virus-sound-sport-devote |  
+| bip_39_word_dash_9 | guess-salute-picture-clay-virus-sound-sport-devote-dust |  
 | bip_39_word_new_br_1 | guess |  
 | bip_39_word_new_br_10 | guess<br>salute<br>picture<br>clay<br>virus<br>sound<br>sport<br>devote<br>dust<br>item |  
 | bip_39_word_new_br_11 | guess<br>salute<br>picture<br>clay<br>virus<br>sound<br>sport<br>devote<br>dust<br>item<br>above |  
@@ -147,6 +159,18 @@ dust |
 | bip_39_word_space_7 | guess salute picture clay virus sound sport |  
 | bip_39_word_space_8 | guess salute picture clay virus sound sport devote |  
 | bip_39_word_space_9 | guess salute picture clay virus sound sport devote dust |  
+| bip_39_word_underscore_1 | guess |  
+| bip_39_word_underscore_10 | guess_salute_picture_clay_virus_sound_sport_devote_dust_item |  
+| bip_39_word_underscore_11 | guess_salute_picture_clay_virus_sound_sport_devote_dust_item_above |  
+| bip_39_word_underscore_12 | guess_salute_picture_clay_virus_sound_sport_devote_dust_item_above_alone |  
+| bip_39_word_underscore_2 | guess_salute |  
+| bip_39_word_underscore_3 | guess_salute_picture |  
+| bip_39_word_underscore_4 | guess_salute_picture_clay |  
+| bip_39_word_underscore_5 | guess_salute_picture_clay_virus |  
+| bip_39_word_underscore_6 | guess_salute_picture_clay_virus_sound |  
+| bip_39_word_underscore_7 | guess_salute_picture_clay_virus_sound_sport |  
+| bip_39_word_underscore_8 | guess_salute_picture_clay_virus_sound_sport_devote |  
+| bip_39_word_underscore_9 | guess_salute_picture_clay_virus_sound_sport_devote_dust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | filter |  
+| bip_39_word_dash_10 | filter-bright-ripple-educate-agent-tent-course-absorb-lecture-army |  
+| bip_39_word_dash_11 | filter-bright-ripple-educate-agent-tent-course-absorb-lecture-army-spy |  
+| bip_39_word_dash_12 | filter-bright-ripple-educate-agent-tent-course-absorb-lecture-army-spy-amused |  
+| bip_39_word_dash_2 | filter-bright |  
+| bip_39_word_dash_3 | filter-bright-ripple |  
+| bip_39_word_dash_4 | filter-bright-ripple-educate |  
+| bip_39_word_dash_5 | filter-bright-ripple-educate-agent |  
+| bip_39_word_dash_6 | filter-bright-ripple-educate-agent-tent |  
+| bip_39_word_dash_7 | filter-bright-ripple-educate-agent-tent-course |  
+| bip_39_word_dash_8 | filter-bright-ripple-educate-agent-tent-course-absorb |  
+| bip_39_word_dash_9 | filter-bright-ripple-educate-agent-tent-course-absorb-lecture |  
 | bip_39_word_new_br_1 | filter |  
 | bip_39_word_new_br_10 | filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb<br>lecture<br>army |  
 | bip_39_word_new_br_11 | filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb<br>lecture<br>army<br>spy |  
@@ -147,6 +159,18 @@ lecture |
 | bip_39_word_space_7 | filter bright ripple educate agent tent course |  
 | bip_39_word_space_8 | filter bright ripple educate agent tent course absorb |  
 | bip_39_word_space_9 | filter bright ripple educate agent tent course absorb lecture |  
+| bip_39_word_underscore_1 | filter |  
+| bip_39_word_underscore_10 | filter_bright_ripple_educate_agent_tent_course_absorb_lecture_army |  
+| bip_39_word_underscore_11 | filter_bright_ripple_educate_agent_tent_course_absorb_lecture_army_spy |  
+| bip_39_word_underscore_12 | filter_bright_ripple_educate_agent_tent_course_absorb_lecture_army_spy_amused |  
+| bip_39_word_underscore_2 | filter_bright |  
+| bip_39_word_underscore_3 | filter_bright_ripple |  
+| bip_39_word_underscore_4 | filter_bright_ripple_educate |  
+| bip_39_word_underscore_5 | filter_bright_ripple_educate_agent |  
+| bip_39_word_underscore_6 | filter_bright_ripple_educate_agent_tent |  
+| bip_39_word_underscore_7 | filter_bright_ripple_educate_agent_tent_course |  
+| bip_39_word_underscore_8 | filter_bright_ripple_educate_agent_tent_course_absorb |  
+| bip_39_word_underscore_9 | filter_bright_ripple_educate_agent_tent_course_absorb_lecture |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spice |  
+| bip_39_word_dash_10 | spice-same-expect-truth-circle-person-art-clever-entire-memory |  
+| bip_39_word_dash_11 | spice-same-expect-truth-circle-person-art-clever-entire-memory-cabin |  
+| bip_39_word_dash_12 | spice-same-expect-truth-circle-person-art-clever-entire-memory-cabin-april |  
+| bip_39_word_dash_2 | spice-same |  
+| bip_39_word_dash_3 | spice-same-expect |  
+| bip_39_word_dash_4 | spice-same-expect-truth |  
+| bip_39_word_dash_5 | spice-same-expect-truth-circle |  
+| bip_39_word_dash_6 | spice-same-expect-truth-circle-person |  
+| bip_39_word_dash_7 | spice-same-expect-truth-circle-person-art |  
+| bip_39_word_dash_8 | spice-same-expect-truth-circle-person-art-clever |  
+| bip_39_word_dash_9 | spice-same-expect-truth-circle-person-art-clever-entire |  
 | bip_39_word_new_br_1 | spice |  
 | bip_39_word_new_br_10 | spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever<br>entire<br>memory |  
 | bip_39_word_new_br_11 | spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever<br>entire<br>memory<br>cabin |  
@@ -147,6 +159,18 @@ entire |
 | bip_39_word_space_7 | spice same expect truth circle person art |  
 | bip_39_word_space_8 | spice same expect truth circle person art clever |  
 | bip_39_word_space_9 | spice same expect truth circle person art clever entire |  
+| bip_39_word_underscore_1 | spice |  
+| bip_39_word_underscore_10 | spice_same_expect_truth_circle_person_art_clever_entire_memory |  
+| bip_39_word_underscore_11 | spice_same_expect_truth_circle_person_art_clever_entire_memory_cabin |  
+| bip_39_word_underscore_12 | spice_same_expect_truth_circle_person_art_clever_entire_memory_cabin_april |  
+| bip_39_word_underscore_2 | spice_same |  
+| bip_39_word_underscore_3 | spice_same_expect |  
+| bip_39_word_underscore_4 | spice_same_expect_truth |  
+| bip_39_word_underscore_5 | spice_same_expect_truth_circle |  
+| bip_39_word_underscore_6 | spice_same_expect_truth_circle_person |  
+| bip_39_word_underscore_7 | spice_same_expect_truth_circle_person_art |  
+| bip_39_word_underscore_8 | spice_same_expect_truth_circle_person_art_clever |  
+| bip_39_word_underscore_9 | spice_same_expect_truth_circle_person_art_clever_entire |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

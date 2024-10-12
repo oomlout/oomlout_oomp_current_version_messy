@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | title |  
+| bip_39_word_dash_10 | title-piece-grape-orchard-spider-worry-surround-ivory-risk-light |  
+| bip_39_word_dash_11 | title-piece-grape-orchard-spider-worry-surround-ivory-risk-light-galaxy |  
+| bip_39_word_dash_12 | title-piece-grape-orchard-spider-worry-surround-ivory-risk-light-galaxy-asset |  
+| bip_39_word_dash_2 | title-piece |  
+| bip_39_word_dash_3 | title-piece-grape |  
+| bip_39_word_dash_4 | title-piece-grape-orchard |  
+| bip_39_word_dash_5 | title-piece-grape-orchard-spider |  
+| bip_39_word_dash_6 | title-piece-grape-orchard-spider-worry |  
+| bip_39_word_dash_7 | title-piece-grape-orchard-spider-worry-surround |  
+| bip_39_word_dash_8 | title-piece-grape-orchard-spider-worry-surround-ivory |  
+| bip_39_word_dash_9 | title-piece-grape-orchard-spider-worry-surround-ivory-risk |  
 | bip_39_word_new_br_1 | title |  
 | bip_39_word_new_br_10 | title<br>piece<br>grape<br>orchard<br>spider<br>worry<br>surround<br>ivory<br>risk<br>light |  
 | bip_39_word_new_br_11 | title<br>piece<br>grape<br>orchard<br>spider<br>worry<br>surround<br>ivory<br>risk<br>light<br>galaxy |  
@@ -147,6 +159,18 @@ risk |
 | bip_39_word_space_7 | title piece grape orchard spider worry surround |  
 | bip_39_word_space_8 | title piece grape orchard spider worry surround ivory |  
 | bip_39_word_space_9 | title piece grape orchard spider worry surround ivory risk |  
+| bip_39_word_underscore_1 | title |  
+| bip_39_word_underscore_10 | title_piece_grape_orchard_spider_worry_surround_ivory_risk_light |  
+| bip_39_word_underscore_11 | title_piece_grape_orchard_spider_worry_surround_ivory_risk_light_galaxy |  
+| bip_39_word_underscore_12 | title_piece_grape_orchard_spider_worry_surround_ivory_risk_light_galaxy_asset |  
+| bip_39_word_underscore_2 | title_piece |  
+| bip_39_word_underscore_3 | title_piece_grape |  
+| bip_39_word_underscore_4 | title_piece_grape_orchard |  
+| bip_39_word_underscore_5 | title_piece_grape_orchard_spider |  
+| bip_39_word_underscore_6 | title_piece_grape_orchard_spider_worry |  
+| bip_39_word_underscore_7 | title_piece_grape_orchard_spider_worry_surround |  
+| bip_39_word_underscore_8 | title_piece_grape_orchard_spider_worry_surround_ivory |  
+| bip_39_word_underscore_9 | title_piece_grape_orchard_spider_worry_surround_ivory_risk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

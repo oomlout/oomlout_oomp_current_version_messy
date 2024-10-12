@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | october |  
+| bip_39_word_dash_10 | october-together-fringe-must-transfer-again-cash-around-village-civil |  
+| bip_39_word_dash_11 | october-together-fringe-must-transfer-again-cash-around-village-civil-online |  
+| bip_39_word_dash_12 | october-together-fringe-must-transfer-again-cash-around-village-civil-online-absent |  
+| bip_39_word_dash_2 | october-together |  
+| bip_39_word_dash_3 | october-together-fringe |  
+| bip_39_word_dash_4 | october-together-fringe-must |  
+| bip_39_word_dash_5 | october-together-fringe-must-transfer |  
+| bip_39_word_dash_6 | october-together-fringe-must-transfer-again |  
+| bip_39_word_dash_7 | october-together-fringe-must-transfer-again-cash |  
+| bip_39_word_dash_8 | october-together-fringe-must-transfer-again-cash-around |  
+| bip_39_word_dash_9 | october-together-fringe-must-transfer-again-cash-around-village |  
 | bip_39_word_new_br_1 | october |  
 | bip_39_word_new_br_10 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil |  
 | bip_39_word_new_br_11 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil<br>online |  
@@ -147,6 +159,18 @@ village |
 | bip_39_word_space_7 | october together fringe must transfer again cash |  
 | bip_39_word_space_8 | october together fringe must transfer again cash around |  
 | bip_39_word_space_9 | october together fringe must transfer again cash around village |  
+| bip_39_word_underscore_1 | october |  
+| bip_39_word_underscore_10 | october_together_fringe_must_transfer_again_cash_around_village_civil |  
+| bip_39_word_underscore_11 | october_together_fringe_must_transfer_again_cash_around_village_civil_online |  
+| bip_39_word_underscore_12 | october_together_fringe_must_transfer_again_cash_around_village_civil_online_absent |  
+| bip_39_word_underscore_2 | october_together |  
+| bip_39_word_underscore_3 | october_together_fringe |  
+| bip_39_word_underscore_4 | october_together_fringe_must |  
+| bip_39_word_underscore_5 | october_together_fringe_must_transfer |  
+| bip_39_word_underscore_6 | october_together_fringe_must_transfer_again |  
+| bip_39_word_underscore_7 | october_together_fringe_must_transfer_again_cash |  
+| bip_39_word_underscore_8 | october_together_fringe_must_transfer_again_cash_around |  
+| bip_39_word_underscore_9 | october_together_fringe_must_transfer_again_cash_around_village |  
 | box_quantity | 316 |  
 | classification | packaging |  
 | classification_capital | Packaging |  

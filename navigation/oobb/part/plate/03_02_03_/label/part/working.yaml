@@ -1,3 +1,15 @@
+bip_39_word_dash_1: toe
+bip_39_word_dash_10: toe-polar-frozen-prefer-electric-finger-faint-evoke-major-live
+bip_39_word_dash_11: toe-polar-frozen-prefer-electric-finger-faint-evoke-major-live-female
+bip_39_word_dash_12: toe-polar-frozen-prefer-electric-finger-faint-evoke-major-live-female-asthma
+bip_39_word_dash_2: toe-polar
+bip_39_word_dash_3: toe-polar-frozen
+bip_39_word_dash_4: toe-polar-frozen-prefer
+bip_39_word_dash_5: toe-polar-frozen-prefer-electric
+bip_39_word_dash_6: toe-polar-frozen-prefer-electric-finger
+bip_39_word_dash_7: toe-polar-frozen-prefer-electric-finger-faint
+bip_39_word_dash_8: toe-polar-frozen-prefer-electric-finger-faint-evoke
+bip_39_word_dash_9: toe-polar-frozen-prefer-electric-finger-faint-evoke-major
 bip_39_word_new_br_1: toe
 bip_39_word_new_br_10: toe<br>polar<br>frozen<br>prefer<br>electric<br>finger<br>faint<br>evoke<br>major<br>live
 bip_39_word_new_br_11: toe<br>polar<br>frozen<br>prefer<br>electric<br>finger<br>faint<br>evoke<br>major<br>live<br>female
@@ -193,6 +205,18 @@ bip_39_word_space_6: toe polar frozen prefer electric finger
 bip_39_word_space_7: toe polar frozen prefer electric finger faint
 bip_39_word_space_8: toe polar frozen prefer electric finger faint evoke
 bip_39_word_space_9: toe polar frozen prefer electric finger faint evoke major
+bip_39_word_underscore_1: toe
+bip_39_word_underscore_10: toe_polar_frozen_prefer_electric_finger_faint_evoke_major_live
+bip_39_word_underscore_11: toe_polar_frozen_prefer_electric_finger_faint_evoke_major_live_female
+bip_39_word_underscore_12: toe_polar_frozen_prefer_electric_finger_faint_evoke_major_live_female_asthma
+bip_39_word_underscore_2: toe_polar
+bip_39_word_underscore_3: toe_polar_frozen
+bip_39_word_underscore_4: toe_polar_frozen_prefer
+bip_39_word_underscore_5: toe_polar_frozen_prefer_electric
+bip_39_word_underscore_6: toe_polar_frozen_prefer_electric_finger
+bip_39_word_underscore_7: toe_polar_frozen_prefer_electric_finger_faint
+bip_39_word_underscore_8: toe_polar_frozen_prefer_electric_finger_faint_evoke
+bip_39_word_underscore_9: toe_polar_frozen_prefer_electric_finger_faint_evoke_major
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

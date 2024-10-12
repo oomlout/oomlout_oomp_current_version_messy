@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silk |  
+| bip_39_word_dash_10 | silk-quarter-trash-govern-monkey-west-duck-apple-fiber-bulk |  
+| bip_39_word_dash_11 | silk-quarter-trash-govern-monkey-west-duck-apple-fiber-bulk-traffic |  
+| bip_39_word_dash_12 | silk-quarter-trash-govern-monkey-west-duck-apple-fiber-bulk-traffic-autumn |  
+| bip_39_word_dash_2 | silk-quarter |  
+| bip_39_word_dash_3 | silk-quarter-trash |  
+| bip_39_word_dash_4 | silk-quarter-trash-govern |  
+| bip_39_word_dash_5 | silk-quarter-trash-govern-monkey |  
+| bip_39_word_dash_6 | silk-quarter-trash-govern-monkey-west |  
+| bip_39_word_dash_7 | silk-quarter-trash-govern-monkey-west-duck |  
+| bip_39_word_dash_8 | silk-quarter-trash-govern-monkey-west-duck-apple |  
+| bip_39_word_dash_9 | silk-quarter-trash-govern-monkey-west-duck-apple-fiber |  
 | bip_39_word_new_br_1 | silk |  
 | bip_39_word_new_br_10 | silk<br>quarter<br>trash<br>govern<br>monkey<br>west<br>duck<br>apple<br>fiber<br>bulk |  
 | bip_39_word_new_br_11 | silk<br>quarter<br>trash<br>govern<br>monkey<br>west<br>duck<br>apple<br>fiber<br>bulk<br>traffic |  
@@ -147,6 +159,18 @@ fiber |
 | bip_39_word_space_7 | silk quarter trash govern monkey west duck |  
 | bip_39_word_space_8 | silk quarter trash govern monkey west duck apple |  
 | bip_39_word_space_9 | silk quarter trash govern monkey west duck apple fiber |  
+| bip_39_word_underscore_1 | silk |  
+| bip_39_word_underscore_10 | silk_quarter_trash_govern_monkey_west_duck_apple_fiber_bulk |  
+| bip_39_word_underscore_11 | silk_quarter_trash_govern_monkey_west_duck_apple_fiber_bulk_traffic |  
+| bip_39_word_underscore_12 | silk_quarter_trash_govern_monkey_west_duck_apple_fiber_bulk_traffic_autumn |  
+| bip_39_word_underscore_2 | silk_quarter |  
+| bip_39_word_underscore_3 | silk_quarter_trash |  
+| bip_39_word_underscore_4 | silk_quarter_trash_govern |  
+| bip_39_word_underscore_5 | silk_quarter_trash_govern_monkey |  
+| bip_39_word_underscore_6 | silk_quarter_trash_govern_monkey_west |  
+| bip_39_word_underscore_7 | silk_quarter_trash_govern_monkey_west_duck |  
+| bip_39_word_underscore_8 | silk_quarter_trash_govern_monkey_west_duck_apple |  
+| bip_39_word_underscore_9 | silk_quarter_trash_govern_monkey_west_duck_apple_fiber |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

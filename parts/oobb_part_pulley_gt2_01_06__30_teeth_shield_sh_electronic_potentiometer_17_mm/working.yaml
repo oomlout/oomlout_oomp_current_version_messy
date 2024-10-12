@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scout
+bip_39_word_dash_10: scout-citizen-sauce-pool-hawk-annual-prefer-alcohol-skin-fortune
+bip_39_word_dash_11: scout-citizen-sauce-pool-hawk-annual-prefer-alcohol-skin-fortune-combine
+bip_39_word_dash_12: scout-citizen-sauce-pool-hawk-annual-prefer-alcohol-skin-fortune-combine-abuse
+bip_39_word_dash_2: scout-citizen
+bip_39_word_dash_3: scout-citizen-sauce
+bip_39_word_dash_4: scout-citizen-sauce-pool
+bip_39_word_dash_5: scout-citizen-sauce-pool-hawk
+bip_39_word_dash_6: scout-citizen-sauce-pool-hawk-annual
+bip_39_word_dash_7: scout-citizen-sauce-pool-hawk-annual-prefer
+bip_39_word_dash_8: scout-citizen-sauce-pool-hawk-annual-prefer-alcohol
+bip_39_word_dash_9: scout-citizen-sauce-pool-hawk-annual-prefer-alcohol-skin
 bip_39_word_new_br_1: scout
 bip_39_word_new_br_10: scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol<br>skin<br>fortune
 bip_39_word_new_br_11: scout<br>citizen<br>sauce<br>pool<br>hawk<br>annual<br>prefer<br>alcohol<br>skin<br>fortune<br>combine
@@ -193,6 +205,18 @@ bip_39_word_space_6: scout citizen sauce pool hawk annual
 bip_39_word_space_7: scout citizen sauce pool hawk annual prefer
 bip_39_word_space_8: scout citizen sauce pool hawk annual prefer alcohol
 bip_39_word_space_9: scout citizen sauce pool hawk annual prefer alcohol skin
+bip_39_word_underscore_1: scout
+bip_39_word_underscore_10: scout_citizen_sauce_pool_hawk_annual_prefer_alcohol_skin_fortune
+bip_39_word_underscore_11: scout_citizen_sauce_pool_hawk_annual_prefer_alcohol_skin_fortune_combine
+bip_39_word_underscore_12: scout_citizen_sauce_pool_hawk_annual_prefer_alcohol_skin_fortune_combine_abuse
+bip_39_word_underscore_2: scout_citizen
+bip_39_word_underscore_3: scout_citizen_sauce
+bip_39_word_underscore_4: scout_citizen_sauce_pool
+bip_39_word_underscore_5: scout_citizen_sauce_pool_hawk
+bip_39_word_underscore_6: scout_citizen_sauce_pool_hawk_annual
+bip_39_word_underscore_7: scout_citizen_sauce_pool_hawk_annual_prefer
+bip_39_word_underscore_8: scout_citizen_sauce_pool_hawk_annual_prefer_alcohol
+bip_39_word_underscore_9: scout_citizen_sauce_pool_hawk_annual_prefer_alcohol_skin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

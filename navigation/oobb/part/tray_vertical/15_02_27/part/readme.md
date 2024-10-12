@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pluck |  
+| bip_39_word_dash_10 | pluck-cable-inside-system-solve-loyal-unfair-remember-slush-door |  
+| bip_39_word_dash_11 | pluck-cable-inside-system-solve-loyal-unfair-remember-slush-door-unable |  
+| bip_39_word_dash_12 | pluck-cable-inside-system-solve-loyal-unfair-remember-slush-door-unable-actress |  
+| bip_39_word_dash_2 | pluck-cable |  
+| bip_39_word_dash_3 | pluck-cable-inside |  
+| bip_39_word_dash_4 | pluck-cable-inside-system |  
+| bip_39_word_dash_5 | pluck-cable-inside-system-solve |  
+| bip_39_word_dash_6 | pluck-cable-inside-system-solve-loyal |  
+| bip_39_word_dash_7 | pluck-cable-inside-system-solve-loyal-unfair |  
+| bip_39_word_dash_8 | pluck-cable-inside-system-solve-loyal-unfair-remember |  
+| bip_39_word_dash_9 | pluck-cable-inside-system-solve-loyal-unfair-remember-slush |  
 | bip_39_word_new_br_1 | pluck |  
 | bip_39_word_new_br_10 | pluck<br>cable<br>inside<br>system<br>solve<br>loyal<br>unfair<br>remember<br>slush<br>door |  
 | bip_39_word_new_br_11 | pluck<br>cable<br>inside<br>system<br>solve<br>loyal<br>unfair<br>remember<br>slush<br>door<br>unable |  
@@ -147,6 +159,18 @@ slush |
 | bip_39_word_space_7 | pluck cable inside system solve loyal unfair |  
 | bip_39_word_space_8 | pluck cable inside system solve loyal unfair remember |  
 | bip_39_word_space_9 | pluck cable inside system solve loyal unfair remember slush |  
+| bip_39_word_underscore_1 | pluck |  
+| bip_39_word_underscore_10 | pluck_cable_inside_system_solve_loyal_unfair_remember_slush_door |  
+| bip_39_word_underscore_11 | pluck_cable_inside_system_solve_loyal_unfair_remember_slush_door_unable |  
+| bip_39_word_underscore_12 | pluck_cable_inside_system_solve_loyal_unfair_remember_slush_door_unable_actress |  
+| bip_39_word_underscore_2 | pluck_cable |  
+| bip_39_word_underscore_3 | pluck_cable_inside |  
+| bip_39_word_underscore_4 | pluck_cable_inside_system |  
+| bip_39_word_underscore_5 | pluck_cable_inside_system_solve |  
+| bip_39_word_underscore_6 | pluck_cable_inside_system_solve_loyal |  
+| bip_39_word_underscore_7 | pluck_cable_inside_system_solve_loyal_unfair |  
+| bip_39_word_underscore_8 | pluck_cable_inside_system_solve_loyal_unfair_remember |  
+| bip_39_word_underscore_9 | pluck_cable_inside_system_solve_loyal_unfair_remember_slush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

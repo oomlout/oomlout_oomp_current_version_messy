@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fruit
+bip_39_word_dash_10: fruit-lizard-chunk-asset-rubber-shy-mesh-pond-mom-issue
+bip_39_word_dash_11: fruit-lizard-chunk-asset-rubber-shy-mesh-pond-mom-issue-bounce
+bip_39_word_dash_12: fruit-lizard-chunk-asset-rubber-shy-mesh-pond-mom-issue-bounce-arctic
+bip_39_word_dash_2: fruit-lizard
+bip_39_word_dash_3: fruit-lizard-chunk
+bip_39_word_dash_4: fruit-lizard-chunk-asset
+bip_39_word_dash_5: fruit-lizard-chunk-asset-rubber
+bip_39_word_dash_6: fruit-lizard-chunk-asset-rubber-shy
+bip_39_word_dash_7: fruit-lizard-chunk-asset-rubber-shy-mesh
+bip_39_word_dash_8: fruit-lizard-chunk-asset-rubber-shy-mesh-pond
+bip_39_word_dash_9: fruit-lizard-chunk-asset-rubber-shy-mesh-pond-mom
 bip_39_word_new_br_1: fruit
 bip_39_word_new_br_10: fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue
 bip_39_word_new_br_11: fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue<br>bounce
@@ -192,6 +204,18 @@ bip_39_word_space_6: fruit lizard chunk asset rubber shy
 bip_39_word_space_7: fruit lizard chunk asset rubber shy mesh
 bip_39_word_space_8: fruit lizard chunk asset rubber shy mesh pond
 bip_39_word_space_9: fruit lizard chunk asset rubber shy mesh pond mom
+bip_39_word_underscore_1: fruit
+bip_39_word_underscore_10: fruit_lizard_chunk_asset_rubber_shy_mesh_pond_mom_issue
+bip_39_word_underscore_11: fruit_lizard_chunk_asset_rubber_shy_mesh_pond_mom_issue_bounce
+bip_39_word_underscore_12: fruit_lizard_chunk_asset_rubber_shy_mesh_pond_mom_issue_bounce_arctic
+bip_39_word_underscore_2: fruit_lizard
+bip_39_word_underscore_3: fruit_lizard_chunk
+bip_39_word_underscore_4: fruit_lizard_chunk_asset
+bip_39_word_underscore_5: fruit_lizard_chunk_asset_rubber
+bip_39_word_underscore_6: fruit_lizard_chunk_asset_rubber_shy
+bip_39_word_underscore_7: fruit_lizard_chunk_asset_rubber_shy_mesh
+bip_39_word_underscore_8: fruit_lizard_chunk_asset_rubber_shy_mesh_pond
+bip_39_word_underscore_9: fruit_lizard_chunk_asset_rubber_shy_mesh_pond_mom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: melt
+bip_39_word_dash_10: melt-elevator-coyote-apart-genius-permit-icon-depart-hat-spike
+bip_39_word_dash_11: melt-elevator-coyote-apart-genius-permit-icon-depart-hat-spike-cruise
+bip_39_word_dash_12: melt-elevator-coyote-apart-genius-permit-icon-depart-hat-spike-cruise-announce
+bip_39_word_dash_2: melt-elevator
+bip_39_word_dash_3: melt-elevator-coyote
+bip_39_word_dash_4: melt-elevator-coyote-apart
+bip_39_word_dash_5: melt-elevator-coyote-apart-genius
+bip_39_word_dash_6: melt-elevator-coyote-apart-genius-permit
+bip_39_word_dash_7: melt-elevator-coyote-apart-genius-permit-icon
+bip_39_word_dash_8: melt-elevator-coyote-apart-genius-permit-icon-depart
+bip_39_word_dash_9: melt-elevator-coyote-apart-genius-permit-icon-depart-hat
 bip_39_word_new_br_1: melt
 bip_39_word_new_br_10: melt<br>elevator<br>coyote<br>apart<br>genius<br>permit<br>icon<br>depart<br>hat<br>spike
 bip_39_word_new_br_11: melt<br>elevator<br>coyote<br>apart<br>genius<br>permit<br>icon<br>depart<br>hat<br>spike<br>cruise
@@ -193,6 +205,18 @@ bip_39_word_space_6: melt elevator coyote apart genius permit
 bip_39_word_space_7: melt elevator coyote apart genius permit icon
 bip_39_word_space_8: melt elevator coyote apart genius permit icon depart
 bip_39_word_space_9: melt elevator coyote apart genius permit icon depart hat
+bip_39_word_underscore_1: melt
+bip_39_word_underscore_10: melt_elevator_coyote_apart_genius_permit_icon_depart_hat_spike
+bip_39_word_underscore_11: melt_elevator_coyote_apart_genius_permit_icon_depart_hat_spike_cruise
+bip_39_word_underscore_12: melt_elevator_coyote_apart_genius_permit_icon_depart_hat_spike_cruise_announce
+bip_39_word_underscore_2: melt_elevator
+bip_39_word_underscore_3: melt_elevator_coyote
+bip_39_word_underscore_4: melt_elevator_coyote_apart
+bip_39_word_underscore_5: melt_elevator_coyote_apart_genius
+bip_39_word_underscore_6: melt_elevator_coyote_apart_genius_permit
+bip_39_word_underscore_7: melt_elevator_coyote_apart_genius_permit_icon
+bip_39_word_underscore_8: melt_elevator_coyote_apart_genius_permit_icon_depart
+bip_39_word_underscore_9: melt_elevator_coyote_apart_genius_permit_icon_depart_hat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

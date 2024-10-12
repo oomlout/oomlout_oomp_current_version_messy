@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | middle |  
+| bip_39_word_dash_10 | middle-fit-jacket-depth-can-plate-hill-lawn-dutch-affair |  
+| bip_39_word_dash_11 | middle-fit-jacket-depth-can-plate-hill-lawn-dutch-affair-chase |  
+| bip_39_word_dash_12 | middle-fit-jacket-depth-can-plate-hill-lawn-dutch-affair-chase-action |  
+| bip_39_word_dash_2 | middle-fit |  
+| bip_39_word_dash_3 | middle-fit-jacket |  
+| bip_39_word_dash_4 | middle-fit-jacket-depth |  
+| bip_39_word_dash_5 | middle-fit-jacket-depth-can |  
+| bip_39_word_dash_6 | middle-fit-jacket-depth-can-plate |  
+| bip_39_word_dash_7 | middle-fit-jacket-depth-can-plate-hill |  
+| bip_39_word_dash_8 | middle-fit-jacket-depth-can-plate-hill-lawn |  
+| bip_39_word_dash_9 | middle-fit-jacket-depth-can-plate-hill-lawn-dutch |  
 | bip_39_word_new_br_1 | middle |  
 | bip_39_word_new_br_10 | middle<br>fit<br>jacket<br>depth<br>can<br>plate<br>hill<br>lawn<br>dutch<br>affair |  
 | bip_39_word_new_br_11 | middle<br>fit<br>jacket<br>depth<br>can<br>plate<br>hill<br>lawn<br>dutch<br>affair<br>chase |  
@@ -147,6 +159,18 @@ dutch |
 | bip_39_word_space_7 | middle fit jacket depth can plate hill |  
 | bip_39_word_space_8 | middle fit jacket depth can plate hill lawn |  
 | bip_39_word_space_9 | middle fit jacket depth can plate hill lawn dutch |  
+| bip_39_word_underscore_1 | middle |  
+| bip_39_word_underscore_10 | middle_fit_jacket_depth_can_plate_hill_lawn_dutch_affair |  
+| bip_39_word_underscore_11 | middle_fit_jacket_depth_can_plate_hill_lawn_dutch_affair_chase |  
+| bip_39_word_underscore_12 | middle_fit_jacket_depth_can_plate_hill_lawn_dutch_affair_chase_action |  
+| bip_39_word_underscore_2 | middle_fit |  
+| bip_39_word_underscore_3 | middle_fit_jacket |  
+| bip_39_word_underscore_4 | middle_fit_jacket_depth |  
+| bip_39_word_underscore_5 | middle_fit_jacket_depth_can |  
+| bip_39_word_underscore_6 | middle_fit_jacket_depth_can_plate |  
+| bip_39_word_underscore_7 | middle_fit_jacket_depth_can_plate_hill |  
+| bip_39_word_underscore_8 | middle_fit_jacket_depth_can_plate_hill_lawn |  
+| bip_39_word_underscore_9 | middle_fit_jacket_depth_can_plate_hill_lawn_dutch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: robust
+bip_39_word_dash_10: robust-ill-camera-define-kind-apology-abstract-hammer-fiction-blast
+bip_39_word_dash_11: robust-ill-camera-define-kind-apology-abstract-hammer-fiction-blast-swim
+bip_39_word_dash_12: robust-ill-camera-define-kind-apology-abstract-hammer-fiction-blast-swim-alarm
+bip_39_word_dash_2: robust-ill
+bip_39_word_dash_3: robust-ill-camera
+bip_39_word_dash_4: robust-ill-camera-define
+bip_39_word_dash_5: robust-ill-camera-define-kind
+bip_39_word_dash_6: robust-ill-camera-define-kind-apology
+bip_39_word_dash_7: robust-ill-camera-define-kind-apology-abstract
+bip_39_word_dash_8: robust-ill-camera-define-kind-apology-abstract-hammer
+bip_39_word_dash_9: robust-ill-camera-define-kind-apology-abstract-hammer-fiction
 bip_39_word_new_br_1: robust
 bip_39_word_new_br_10: robust<br>ill<br>camera<br>define<br>kind<br>apology<br>abstract<br>hammer<br>fiction<br>blast
 bip_39_word_new_br_11: robust<br>ill<br>camera<br>define<br>kind<br>apology<br>abstract<br>hammer<br>fiction<br>blast<br>swim
@@ -194,6 +206,18 @@ bip_39_word_space_6: robust ill camera define kind apology
 bip_39_word_space_7: robust ill camera define kind apology abstract
 bip_39_word_space_8: robust ill camera define kind apology abstract hammer
 bip_39_word_space_9: robust ill camera define kind apology abstract hammer fiction
+bip_39_word_underscore_1: robust
+bip_39_word_underscore_10: robust_ill_camera_define_kind_apology_abstract_hammer_fiction_blast
+bip_39_word_underscore_11: robust_ill_camera_define_kind_apology_abstract_hammer_fiction_blast_swim
+bip_39_word_underscore_12: robust_ill_camera_define_kind_apology_abstract_hammer_fiction_blast_swim_alarm
+bip_39_word_underscore_2: robust_ill
+bip_39_word_underscore_3: robust_ill_camera
+bip_39_word_underscore_4: robust_ill_camera_define
+bip_39_word_underscore_5: robust_ill_camera_define_kind
+bip_39_word_underscore_6: robust_ill_camera_define_kind_apology
+bip_39_word_underscore_7: robust_ill_camera_define_kind_apology_abstract
+bip_39_word_underscore_8: robust_ill_camera_define_kind_apology_abstract_hammer
+bip_39_word_underscore_9: robust_ill_camera_define_kind_apology_abstract_hammer_fiction
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

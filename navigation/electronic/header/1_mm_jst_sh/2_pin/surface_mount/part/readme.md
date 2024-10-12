@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | course |  
+| bip_39_word_dash_10 | course-immense-basic-power-short-photo-pony-repair-rude-town |  
+| bip_39_word_dash_11 | course-immense-basic-power-short-photo-pony-repair-rude-town-once |  
+| bip_39_word_dash_12 | course-immense-basic-power-short-photo-pony-repair-rude-town-once-act |  
+| bip_39_word_dash_2 | course-immense |  
+| bip_39_word_dash_3 | course-immense-basic |  
+| bip_39_word_dash_4 | course-immense-basic-power |  
+| bip_39_word_dash_5 | course-immense-basic-power-short |  
+| bip_39_word_dash_6 | course-immense-basic-power-short-photo |  
+| bip_39_word_dash_7 | course-immense-basic-power-short-photo-pony |  
+| bip_39_word_dash_8 | course-immense-basic-power-short-photo-pony-repair |  
+| bip_39_word_dash_9 | course-immense-basic-power-short-photo-pony-repair-rude |  
 | bip_39_word_new_br_1 | course |  
 | bip_39_word_new_br_10 | course<br>immense<br>basic<br>power<br>short<br>photo<br>pony<br>repair<br>rude<br>town |  
 | bip_39_word_new_br_11 | course<br>immense<br>basic<br>power<br>short<br>photo<br>pony<br>repair<br>rude<br>town<br>once |  
@@ -147,6 +159,18 @@ rude |
 | bip_39_word_space_7 | course immense basic power short photo pony |  
 | bip_39_word_space_8 | course immense basic power short photo pony repair |  
 | bip_39_word_space_9 | course immense basic power short photo pony repair rude |  
+| bip_39_word_underscore_1 | course |  
+| bip_39_word_underscore_10 | course_immense_basic_power_short_photo_pony_repair_rude_town |  
+| bip_39_word_underscore_11 | course_immense_basic_power_short_photo_pony_repair_rude_town_once |  
+| bip_39_word_underscore_12 | course_immense_basic_power_short_photo_pony_repair_rude_town_once_act |  
+| bip_39_word_underscore_2 | course_immense |  
+| bip_39_word_underscore_3 | course_immense_basic |  
+| bip_39_word_underscore_4 | course_immense_basic_power |  
+| bip_39_word_underscore_5 | course_immense_basic_power_short |  
+| bip_39_word_underscore_6 | course_immense_basic_power_short_photo |  
+| bip_39_word_underscore_7 | course_immense_basic_power_short_photo_pony |  
+| bip_39_word_underscore_8 | course_immense_basic_power_short_photo_pony_repair |  
+| bip_39_word_underscore_9 | course_immense_basic_power_short_photo_pony_repair_rude |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

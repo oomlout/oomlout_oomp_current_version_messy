@@ -1,3 +1,15 @@
+bip_39_word_dash_1: base
+bip_39_word_dash_10: base-order-drum-slush-spot-three-chief-uncle-amateur-defy
+bip_39_word_dash_11: base-order-drum-slush-spot-three-chief-uncle-amateur-defy-sniff
+bip_39_word_dash_12: base-order-drum-slush-spot-three-chief-uncle-amateur-defy-sniff-actress
+bip_39_word_dash_2: base-order
+bip_39_word_dash_3: base-order-drum
+bip_39_word_dash_4: base-order-drum-slush
+bip_39_word_dash_5: base-order-drum-slush-spot
+bip_39_word_dash_6: base-order-drum-slush-spot-three
+bip_39_word_dash_7: base-order-drum-slush-spot-three-chief
+bip_39_word_dash_8: base-order-drum-slush-spot-three-chief-uncle
+bip_39_word_dash_9: base-order-drum-slush-spot-three-chief-uncle-amateur
 bip_39_word_new_br_1: base
 bip_39_word_new_br_10: base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy
 bip_39_word_new_br_11: base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy<br>sniff
@@ -192,6 +204,18 @@ bip_39_word_space_6: base order drum slush spot three
 bip_39_word_space_7: base order drum slush spot three chief
 bip_39_word_space_8: base order drum slush spot three chief uncle
 bip_39_word_space_9: base order drum slush spot three chief uncle amateur
+bip_39_word_underscore_1: base
+bip_39_word_underscore_10: base_order_drum_slush_spot_three_chief_uncle_amateur_defy
+bip_39_word_underscore_11: base_order_drum_slush_spot_three_chief_uncle_amateur_defy_sniff
+bip_39_word_underscore_12: base_order_drum_slush_spot_three_chief_uncle_amateur_defy_sniff_actress
+bip_39_word_underscore_2: base_order
+bip_39_word_underscore_3: base_order_drum
+bip_39_word_underscore_4: base_order_drum_slush
+bip_39_word_underscore_5: base_order_drum_slush_spot
+bip_39_word_underscore_6: base_order_drum_slush_spot_three
+bip_39_word_underscore_7: base_order_drum_slush_spot_three_chief
+bip_39_word_underscore_8: base_order_drum_slush_spot_three_chief_uncle
+bip_39_word_underscore_9: base_order_drum_slush_spot_three_chief_uncle_amateur
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | edge |  
+| bip_39_word_dash_10 | edge-shed-balcony-roof-tuition-category-burger-debris-inflict-spin |  
+| bip_39_word_dash_11 | edge-shed-balcony-roof-tuition-category-burger-debris-inflict-spin-orient |  
+| bip_39_word_dash_12 | edge-shed-balcony-roof-tuition-category-burger-debris-inflict-spin-orient-able |  
+| bip_39_word_dash_2 | edge-shed |  
+| bip_39_word_dash_3 | edge-shed-balcony |  
+| bip_39_word_dash_4 | edge-shed-balcony-roof |  
+| bip_39_word_dash_5 | edge-shed-balcony-roof-tuition |  
+| bip_39_word_dash_6 | edge-shed-balcony-roof-tuition-category |  
+| bip_39_word_dash_7 | edge-shed-balcony-roof-tuition-category-burger |  
+| bip_39_word_dash_8 | edge-shed-balcony-roof-tuition-category-burger-debris |  
+| bip_39_word_dash_9 | edge-shed-balcony-roof-tuition-category-burger-debris-inflict |  
 | bip_39_word_new_br_1 | edge |  
 | bip_39_word_new_br_10 | edge<br>shed<br>balcony<br>roof<br>tuition<br>category<br>burger<br>debris<br>inflict<br>spin |  
 | bip_39_word_new_br_11 | edge<br>shed<br>balcony<br>roof<br>tuition<br>category<br>burger<br>debris<br>inflict<br>spin<br>orient |  
@@ -147,6 +159,18 @@ inflict |
 | bip_39_word_space_7 | edge shed balcony roof tuition category burger |  
 | bip_39_word_space_8 | edge shed balcony roof tuition category burger debris |  
 | bip_39_word_space_9 | edge shed balcony roof tuition category burger debris inflict |  
+| bip_39_word_underscore_1 | edge |  
+| bip_39_word_underscore_10 | edge_shed_balcony_roof_tuition_category_burger_debris_inflict_spin |  
+| bip_39_word_underscore_11 | edge_shed_balcony_roof_tuition_category_burger_debris_inflict_spin_orient |  
+| bip_39_word_underscore_12 | edge_shed_balcony_roof_tuition_category_burger_debris_inflict_spin_orient_able |  
+| bip_39_word_underscore_2 | edge_shed |  
+| bip_39_word_underscore_3 | edge_shed_balcony |  
+| bip_39_word_underscore_4 | edge_shed_balcony_roof |  
+| bip_39_word_underscore_5 | edge_shed_balcony_roof_tuition |  
+| bip_39_word_underscore_6 | edge_shed_balcony_roof_tuition_category |  
+| bip_39_word_underscore_7 | edge_shed_balcony_roof_tuition_category_burger |  
+| bip_39_word_underscore_8 | edge_shed_balcony_roof_tuition_category_burger_debris |  
+| bip_39_word_underscore_9 | edge_shed_balcony_roof_tuition_category_burger_debris_inflict |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

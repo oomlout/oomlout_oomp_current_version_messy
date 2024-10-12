@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rib
+bip_39_word_dash_10: rib-gold-magic-math-angle-oxygen-depth-time-expand-real
+bip_39_word_dash_11: rib-gold-magic-math-angle-oxygen-depth-time-expand-real-once
+bip_39_word_dash_12: rib-gold-magic-math-angle-oxygen-depth-time-expand-real-once-adapt
+bip_39_word_dash_2: rib-gold
+bip_39_word_dash_3: rib-gold-magic
+bip_39_word_dash_4: rib-gold-magic-math
+bip_39_word_dash_5: rib-gold-magic-math-angle
+bip_39_word_dash_6: rib-gold-magic-math-angle-oxygen
+bip_39_word_dash_7: rib-gold-magic-math-angle-oxygen-depth
+bip_39_word_dash_8: rib-gold-magic-math-angle-oxygen-depth-time
+bip_39_word_dash_9: rib-gold-magic-math-angle-oxygen-depth-time-expand
 bip_39_word_new_br_1: rib
 bip_39_word_new_br_10: rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real
 bip_39_word_new_br_11: rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real<br>once
@@ -192,6 +204,18 @@ bip_39_word_space_6: rib gold magic math angle oxygen
 bip_39_word_space_7: rib gold magic math angle oxygen depth
 bip_39_word_space_8: rib gold magic math angle oxygen depth time
 bip_39_word_space_9: rib gold magic math angle oxygen depth time expand
+bip_39_word_underscore_1: rib
+bip_39_word_underscore_10: rib_gold_magic_math_angle_oxygen_depth_time_expand_real
+bip_39_word_underscore_11: rib_gold_magic_math_angle_oxygen_depth_time_expand_real_once
+bip_39_word_underscore_12: rib_gold_magic_math_angle_oxygen_depth_time_expand_real_once_adapt
+bip_39_word_underscore_2: rib_gold
+bip_39_word_underscore_3: rib_gold_magic
+bip_39_word_underscore_4: rib_gold_magic_math
+bip_39_word_underscore_5: rib_gold_magic_math_angle
+bip_39_word_underscore_6: rib_gold_magic_math_angle_oxygen
+bip_39_word_underscore_7: rib_gold_magic_math_angle_oxygen_depth
+bip_39_word_underscore_8: rib_gold_magic_math_angle_oxygen_depth_time
+bip_39_word_underscore_9: rib_gold_magic_math_angle_oxygen_depth_time_expand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

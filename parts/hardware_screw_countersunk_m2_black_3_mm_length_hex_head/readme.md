@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loud |  
+| bip_39_word_dash_10 | loud-bunker-pattern-razor-dentist-cheap-hollow-resemble-defense-pencil |  
+| bip_39_word_dash_11 | loud-bunker-pattern-razor-dentist-cheap-hollow-resemble-defense-pencil-kidney |  
+| bip_39_word_dash_12 | loud-bunker-pattern-razor-dentist-cheap-hollow-resemble-defense-pencil-kidney-apart |  
+| bip_39_word_dash_2 | loud-bunker |  
+| bip_39_word_dash_3 | loud-bunker-pattern |  
+| bip_39_word_dash_4 | loud-bunker-pattern-razor |  
+| bip_39_word_dash_5 | loud-bunker-pattern-razor-dentist |  
+| bip_39_word_dash_6 | loud-bunker-pattern-razor-dentist-cheap |  
+| bip_39_word_dash_7 | loud-bunker-pattern-razor-dentist-cheap-hollow |  
+| bip_39_word_dash_8 | loud-bunker-pattern-razor-dentist-cheap-hollow-resemble |  
+| bip_39_word_dash_9 | loud-bunker-pattern-razor-dentist-cheap-hollow-resemble-defense |  
 | bip_39_word_new_br_1 | loud |  
 | bip_39_word_new_br_10 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble<br>defense<br>pencil |  
 | bip_39_word_new_br_11 | loud<br>bunker<br>pattern<br>razor<br>dentist<br>cheap<br>hollow<br>resemble<br>defense<br>pencil<br>kidney |  
@@ -147,6 +159,18 @@ defense |
 | bip_39_word_space_7 | loud bunker pattern razor dentist cheap hollow |  
 | bip_39_word_space_8 | loud bunker pattern razor dentist cheap hollow resemble |  
 | bip_39_word_space_9 | loud bunker pattern razor dentist cheap hollow resemble defense |  
+| bip_39_word_underscore_1 | loud |  
+| bip_39_word_underscore_10 | loud_bunker_pattern_razor_dentist_cheap_hollow_resemble_defense_pencil |  
+| bip_39_word_underscore_11 | loud_bunker_pattern_razor_dentist_cheap_hollow_resemble_defense_pencil_kidney |  
+| bip_39_word_underscore_12 | loud_bunker_pattern_razor_dentist_cheap_hollow_resemble_defense_pencil_kidney_apart |  
+| bip_39_word_underscore_2 | loud_bunker |  
+| bip_39_word_underscore_3 | loud_bunker_pattern |  
+| bip_39_word_underscore_4 | loud_bunker_pattern_razor |  
+| bip_39_word_underscore_5 | loud_bunker_pattern_razor_dentist |  
+| bip_39_word_underscore_6 | loud_bunker_pattern_razor_dentist_cheap |  
+| bip_39_word_underscore_7 | loud_bunker_pattern_razor_dentist_cheap_hollow |  
+| bip_39_word_underscore_8 | loud_bunker_pattern_razor_dentist_cheap_hollow_resemble |  
+| bip_39_word_underscore_9 | loud_bunker_pattern_razor_dentist_cheap_hollow_resemble_defense |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

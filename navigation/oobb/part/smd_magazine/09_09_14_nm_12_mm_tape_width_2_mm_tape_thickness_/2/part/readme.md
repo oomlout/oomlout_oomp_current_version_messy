@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trash |  
+| bip_39_word_dash_10 | trash-today-truth-surprise-truck-sleep-milk-harbor-parade-mistake |  
+| bip_39_word_dash_11 | trash-today-truth-surprise-truck-sleep-milk-harbor-parade-mistake-zebra |  
+| bip_39_word_dash_12 | trash-today-truth-surprise-truck-sleep-milk-harbor-parade-mistake-zebra-assault |  
+| bip_39_word_dash_2 | trash-today |  
+| bip_39_word_dash_3 | trash-today-truth |  
+| bip_39_word_dash_4 | trash-today-truth-surprise |  
+| bip_39_word_dash_5 | trash-today-truth-surprise-truck |  
+| bip_39_word_dash_6 | trash-today-truth-surprise-truck-sleep |  
+| bip_39_word_dash_7 | trash-today-truth-surprise-truck-sleep-milk |  
+| bip_39_word_dash_8 | trash-today-truth-surprise-truck-sleep-milk-harbor |  
+| bip_39_word_dash_9 | trash-today-truth-surprise-truck-sleep-milk-harbor-parade |  
 | bip_39_word_new_br_1 | trash |  
 | bip_39_word_new_br_10 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor<br>parade<br>mistake |  
 | bip_39_word_new_br_11 | trash<br>today<br>truth<br>surprise<br>truck<br>sleep<br>milk<br>harbor<br>parade<br>mistake<br>zebra |  
@@ -147,6 +159,18 @@ parade |
 | bip_39_word_space_7 | trash today truth surprise truck sleep milk |  
 | bip_39_word_space_8 | trash today truth surprise truck sleep milk harbor |  
 | bip_39_word_space_9 | trash today truth surprise truck sleep milk harbor parade |  
+| bip_39_word_underscore_1 | trash |  
+| bip_39_word_underscore_10 | trash_today_truth_surprise_truck_sleep_milk_harbor_parade_mistake |  
+| bip_39_word_underscore_11 | trash_today_truth_surprise_truck_sleep_milk_harbor_parade_mistake_zebra |  
+| bip_39_word_underscore_12 | trash_today_truth_surprise_truck_sleep_milk_harbor_parade_mistake_zebra_assault |  
+| bip_39_word_underscore_2 | trash_today |  
+| bip_39_word_underscore_3 | trash_today_truth |  
+| bip_39_word_underscore_4 | trash_today_truth_surprise |  
+| bip_39_word_underscore_5 | trash_today_truth_surprise_truck |  
+| bip_39_word_underscore_6 | trash_today_truth_surprise_truck_sleep |  
+| bip_39_word_underscore_7 | trash_today_truth_surprise_truck_sleep_milk |  
+| bip_39_word_underscore_8 | trash_today_truth_surprise_truck_sleep_milk_harbor |  
+| bip_39_word_underscore_9 | trash_today_truth_surprise_truck_sleep_milk_harbor_parade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

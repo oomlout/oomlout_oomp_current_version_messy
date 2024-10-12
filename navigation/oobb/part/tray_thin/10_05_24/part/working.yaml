@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spoil
+bip_39_word_dash_10: spoil-fitness-left-brass-swim-oxygen-tongue-mind-security-black
+bip_39_word_dash_11: spoil-fitness-left-brass-swim-oxygen-tongue-mind-security-black-resemble
+bip_39_word_dash_12: spoil-fitness-left-brass-swim-oxygen-tongue-mind-security-black-resemble-again
+bip_39_word_dash_2: spoil-fitness
+bip_39_word_dash_3: spoil-fitness-left
+bip_39_word_dash_4: spoil-fitness-left-brass
+bip_39_word_dash_5: spoil-fitness-left-brass-swim
+bip_39_word_dash_6: spoil-fitness-left-brass-swim-oxygen
+bip_39_word_dash_7: spoil-fitness-left-brass-swim-oxygen-tongue
+bip_39_word_dash_8: spoil-fitness-left-brass-swim-oxygen-tongue-mind
+bip_39_word_dash_9: spoil-fitness-left-brass-swim-oxygen-tongue-mind-security
 bip_39_word_new_br_1: spoil
 bip_39_word_new_br_10: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black
 bip_39_word_new_br_11: spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black<br>resemble
@@ -193,6 +205,18 @@ bip_39_word_space_6: spoil fitness left brass swim oxygen
 bip_39_word_space_7: spoil fitness left brass swim oxygen tongue
 bip_39_word_space_8: spoil fitness left brass swim oxygen tongue mind
 bip_39_word_space_9: spoil fitness left brass swim oxygen tongue mind security
+bip_39_word_underscore_1: spoil
+bip_39_word_underscore_10: spoil_fitness_left_brass_swim_oxygen_tongue_mind_security_black
+bip_39_word_underscore_11: spoil_fitness_left_brass_swim_oxygen_tongue_mind_security_black_resemble
+bip_39_word_underscore_12: spoil_fitness_left_brass_swim_oxygen_tongue_mind_security_black_resemble_again
+bip_39_word_underscore_2: spoil_fitness
+bip_39_word_underscore_3: spoil_fitness_left
+bip_39_word_underscore_4: spoil_fitness_left_brass
+bip_39_word_underscore_5: spoil_fitness_left_brass_swim
+bip_39_word_underscore_6: spoil_fitness_left_brass_swim_oxygen
+bip_39_word_underscore_7: spoil_fitness_left_brass_swim_oxygen_tongue
+bip_39_word_underscore_8: spoil_fitness_left_brass_swim_oxygen_tongue_mind
+bip_39_word_underscore_9: spoil_fitness_left_brass_swim_oxygen_tongue_mind_security
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | economy |  
+| bip_39_word_dash_10 | economy-romance-crime-second-bunker-ensure-accident-elegant-notice-insect |  
+| bip_39_word_dash_11 | economy-romance-crime-second-bunker-ensure-accident-elegant-notice-insect-enlist |  
+| bip_39_word_dash_12 | economy-romance-crime-second-bunker-ensure-accident-elegant-notice-insect-enlist-addict |  
+| bip_39_word_dash_2 | economy-romance |  
+| bip_39_word_dash_3 | economy-romance-crime |  
+| bip_39_word_dash_4 | economy-romance-crime-second |  
+| bip_39_word_dash_5 | economy-romance-crime-second-bunker |  
+| bip_39_word_dash_6 | economy-romance-crime-second-bunker-ensure |  
+| bip_39_word_dash_7 | economy-romance-crime-second-bunker-ensure-accident |  
+| bip_39_word_dash_8 | economy-romance-crime-second-bunker-ensure-accident-elegant |  
+| bip_39_word_dash_9 | economy-romance-crime-second-bunker-ensure-accident-elegant-notice |  
 | bip_39_word_new_br_1 | economy |  
 | bip_39_word_new_br_10 | economy<br>romance<br>crime<br>second<br>bunker<br>ensure<br>accident<br>elegant<br>notice<br>insect |  
 | bip_39_word_new_br_11 | economy<br>romance<br>crime<br>second<br>bunker<br>ensure<br>accident<br>elegant<br>notice<br>insect<br>enlist |  
@@ -147,6 +159,18 @@ notice |
 | bip_39_word_space_7 | economy romance crime second bunker ensure accident |  
 | bip_39_word_space_8 | economy romance crime second bunker ensure accident elegant |  
 | bip_39_word_space_9 | economy romance crime second bunker ensure accident elegant notice |  
+| bip_39_word_underscore_1 | economy |  
+| bip_39_word_underscore_10 | economy_romance_crime_second_bunker_ensure_accident_elegant_notice_insect |  
+| bip_39_word_underscore_11 | economy_romance_crime_second_bunker_ensure_accident_elegant_notice_insect_enlist |  
+| bip_39_word_underscore_12 | economy_romance_crime_second_bunker_ensure_accident_elegant_notice_insect_enlist_addict |  
+| bip_39_word_underscore_2 | economy_romance |  
+| bip_39_word_underscore_3 | economy_romance_crime |  
+| bip_39_word_underscore_4 | economy_romance_crime_second |  
+| bip_39_word_underscore_5 | economy_romance_crime_second_bunker |  
+| bip_39_word_underscore_6 | economy_romance_crime_second_bunker_ensure |  
+| bip_39_word_underscore_7 | economy_romance_crime_second_bunker_ensure_accident |  
+| bip_39_word_underscore_8 | economy_romance_crime_second_bunker_ensure_accident_elegant |  
+| bip_39_word_underscore_9 | economy_romance_crime_second_bunker_ensure_accident_elegant_notice |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

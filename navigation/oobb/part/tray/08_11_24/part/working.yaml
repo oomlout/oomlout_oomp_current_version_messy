@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cabbage
+bip_39_word_dash_10: cabbage-inquiry-ridge-adult-spoil-agent-crime-mountain-detect-vast
+bip_39_word_dash_11: cabbage-inquiry-ridge-adult-spoil-agent-crime-mountain-detect-vast-horror
+bip_39_word_dash_12: cabbage-inquiry-ridge-adult-spoil-agent-crime-mountain-detect-vast-horror-alert
+bip_39_word_dash_2: cabbage-inquiry
+bip_39_word_dash_3: cabbage-inquiry-ridge
+bip_39_word_dash_4: cabbage-inquiry-ridge-adult
+bip_39_word_dash_5: cabbage-inquiry-ridge-adult-spoil
+bip_39_word_dash_6: cabbage-inquiry-ridge-adult-spoil-agent
+bip_39_word_dash_7: cabbage-inquiry-ridge-adult-spoil-agent-crime
+bip_39_word_dash_8: cabbage-inquiry-ridge-adult-spoil-agent-crime-mountain
+bip_39_word_dash_9: cabbage-inquiry-ridge-adult-spoil-agent-crime-mountain-detect
 bip_39_word_new_br_1: cabbage
 bip_39_word_new_br_10: cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain<br>detect<br>vast
 bip_39_word_new_br_11: cabbage<br>inquiry<br>ridge<br>adult<br>spoil<br>agent<br>crime<br>mountain<br>detect<br>vast<br>horror
@@ -194,6 +206,18 @@ bip_39_word_space_6: cabbage inquiry ridge adult spoil agent
 bip_39_word_space_7: cabbage inquiry ridge adult spoil agent crime
 bip_39_word_space_8: cabbage inquiry ridge adult spoil agent crime mountain
 bip_39_word_space_9: cabbage inquiry ridge adult spoil agent crime mountain detect
+bip_39_word_underscore_1: cabbage
+bip_39_word_underscore_10: cabbage_inquiry_ridge_adult_spoil_agent_crime_mountain_detect_vast
+bip_39_word_underscore_11: cabbage_inquiry_ridge_adult_spoil_agent_crime_mountain_detect_vast_horror
+bip_39_word_underscore_12: cabbage_inquiry_ridge_adult_spoil_agent_crime_mountain_detect_vast_horror_alert
+bip_39_word_underscore_2: cabbage_inquiry
+bip_39_word_underscore_3: cabbage_inquiry_ridge
+bip_39_word_underscore_4: cabbage_inquiry_ridge_adult
+bip_39_word_underscore_5: cabbage_inquiry_ridge_adult_spoil
+bip_39_word_underscore_6: cabbage_inquiry_ridge_adult_spoil_agent
+bip_39_word_underscore_7: cabbage_inquiry_ridge_adult_spoil_agent_crime
+bip_39_word_underscore_8: cabbage_inquiry_ridge_adult_spoil_agent_crime_mountain
+bip_39_word_underscore_9: cabbage_inquiry_ridge_adult_spoil_agent_crime_mountain_detect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

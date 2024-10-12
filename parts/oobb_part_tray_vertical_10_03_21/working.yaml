@@ -1,3 +1,15 @@
+bip_39_word_dash_1: expire
+bip_39_word_dash_10: expire-antique-cup-vacant-critic-woman-flame-key-divide-flower
+bip_39_word_dash_11: expire-antique-cup-vacant-critic-woman-flame-key-divide-flower-nation
+bip_39_word_dash_12: expire-antique-cup-vacant-critic-woman-flame-key-divide-flower-nation-apple
+bip_39_word_dash_2: expire-antique
+bip_39_word_dash_3: expire-antique-cup
+bip_39_word_dash_4: expire-antique-cup-vacant
+bip_39_word_dash_5: expire-antique-cup-vacant-critic
+bip_39_word_dash_6: expire-antique-cup-vacant-critic-woman
+bip_39_word_dash_7: expire-antique-cup-vacant-critic-woman-flame
+bip_39_word_dash_8: expire-antique-cup-vacant-critic-woman-flame-key
+bip_39_word_dash_9: expire-antique-cup-vacant-critic-woman-flame-key-divide
 bip_39_word_new_br_1: expire
 bip_39_word_new_br_10: expire<br>antique<br>cup<br>vacant<br>critic<br>woman<br>flame<br>key<br>divide<br>flower
 bip_39_word_new_br_11: expire<br>antique<br>cup<br>vacant<br>critic<br>woman<br>flame<br>key<br>divide<br>flower<br>nation
@@ -193,6 +205,18 @@ bip_39_word_space_6: expire antique cup vacant critic woman
 bip_39_word_space_7: expire antique cup vacant critic woman flame
 bip_39_word_space_8: expire antique cup vacant critic woman flame key
 bip_39_word_space_9: expire antique cup vacant critic woman flame key divide
+bip_39_word_underscore_1: expire
+bip_39_word_underscore_10: expire_antique_cup_vacant_critic_woman_flame_key_divide_flower
+bip_39_word_underscore_11: expire_antique_cup_vacant_critic_woman_flame_key_divide_flower_nation
+bip_39_word_underscore_12: expire_antique_cup_vacant_critic_woman_flame_key_divide_flower_nation_apple
+bip_39_word_underscore_2: expire_antique
+bip_39_word_underscore_3: expire_antique_cup
+bip_39_word_underscore_4: expire_antique_cup_vacant
+bip_39_word_underscore_5: expire_antique_cup_vacant_critic
+bip_39_word_underscore_6: expire_antique_cup_vacant_critic_woman
+bip_39_word_underscore_7: expire_antique_cup_vacant_critic_woman_flame
+bip_39_word_underscore_8: expire_antique_cup_vacant_critic_woman_flame_key
+bip_39_word_underscore_9: expire_antique_cup_vacant_critic_woman_flame_key_divide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

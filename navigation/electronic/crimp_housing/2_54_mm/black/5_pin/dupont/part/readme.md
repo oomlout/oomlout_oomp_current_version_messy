@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arrive |  
+| bip_39_word_dash_10 | arrive-erode-salad-game-miss-loan-cruel-foam-grunt-foster |  
+| bip_39_word_dash_11 | arrive-erode-salad-game-miss-loan-cruel-foam-grunt-foster-adjust |  
+| bip_39_word_dash_12 | arrive-erode-salad-game-miss-loan-cruel-foam-grunt-foster-adjust-acid |  
+| bip_39_word_dash_2 | arrive-erode |  
+| bip_39_word_dash_3 | arrive-erode-salad |  
+| bip_39_word_dash_4 | arrive-erode-salad-game |  
+| bip_39_word_dash_5 | arrive-erode-salad-game-miss |  
+| bip_39_word_dash_6 | arrive-erode-salad-game-miss-loan |  
+| bip_39_word_dash_7 | arrive-erode-salad-game-miss-loan-cruel |  
+| bip_39_word_dash_8 | arrive-erode-salad-game-miss-loan-cruel-foam |  
+| bip_39_word_dash_9 | arrive-erode-salad-game-miss-loan-cruel-foam-grunt |  
 | bip_39_word_new_br_1 | arrive |  
 | bip_39_word_new_br_10 | arrive<br>erode<br>salad<br>game<br>miss<br>loan<br>cruel<br>foam<br>grunt<br>foster |  
 | bip_39_word_new_br_11 | arrive<br>erode<br>salad<br>game<br>miss<br>loan<br>cruel<br>foam<br>grunt<br>foster<br>adjust |  
@@ -147,6 +159,18 @@ grunt |
 | bip_39_word_space_7 | arrive erode salad game miss loan cruel |  
 | bip_39_word_space_8 | arrive erode salad game miss loan cruel foam |  
 | bip_39_word_space_9 | arrive erode salad game miss loan cruel foam grunt |  
+| bip_39_word_underscore_1 | arrive |  
+| bip_39_word_underscore_10 | arrive_erode_salad_game_miss_loan_cruel_foam_grunt_foster |  
+| bip_39_word_underscore_11 | arrive_erode_salad_game_miss_loan_cruel_foam_grunt_foster_adjust |  
+| bip_39_word_underscore_12 | arrive_erode_salad_game_miss_loan_cruel_foam_grunt_foster_adjust_acid |  
+| bip_39_word_underscore_2 | arrive_erode |  
+| bip_39_word_underscore_3 | arrive_erode_salad |  
+| bip_39_word_underscore_4 | arrive_erode_salad_game |  
+| bip_39_word_underscore_5 | arrive_erode_salad_game_miss |  
+| bip_39_word_underscore_6 | arrive_erode_salad_game_miss_loan |  
+| bip_39_word_underscore_7 | arrive_erode_salad_game_miss_loan_cruel |  
+| bip_39_word_underscore_8 | arrive_erode_salad_game_miss_loan_cruel_foam |  
+| bip_39_word_underscore_9 | arrive_erode_salad_game_miss_loan_cruel_foam_grunt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

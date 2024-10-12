@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spider |  
+| bip_39_word_dash_10 | spider-input-once-tornado-aim-type-tuition-oxygen-raccoon-hospital |  
+| bip_39_word_dash_11 | spider-input-once-tornado-aim-type-tuition-oxygen-raccoon-hospital-doctor |  
+| bip_39_word_dash_12 | spider-input-once-tornado-aim-type-tuition-oxygen-raccoon-hospital-doctor-arm |  
+| bip_39_word_dash_2 | spider-input |  
+| bip_39_word_dash_3 | spider-input-once |  
+| bip_39_word_dash_4 | spider-input-once-tornado |  
+| bip_39_word_dash_5 | spider-input-once-tornado-aim |  
+| bip_39_word_dash_6 | spider-input-once-tornado-aim-type |  
+| bip_39_word_dash_7 | spider-input-once-tornado-aim-type-tuition |  
+| bip_39_word_dash_8 | spider-input-once-tornado-aim-type-tuition-oxygen |  
+| bip_39_word_dash_9 | spider-input-once-tornado-aim-type-tuition-oxygen-raccoon |  
 | bip_39_word_new_br_1 | spider |  
 | bip_39_word_new_br_10 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen<br>raccoon<br>hospital |  
 | bip_39_word_new_br_11 | spider<br>input<br>once<br>tornado<br>aim<br>type<br>tuition<br>oxygen<br>raccoon<br>hospital<br>doctor |  
@@ -147,6 +159,18 @@ raccoon |
 | bip_39_word_space_7 | spider input once tornado aim type tuition |  
 | bip_39_word_space_8 | spider input once tornado aim type tuition oxygen |  
 | bip_39_word_space_9 | spider input once tornado aim type tuition oxygen raccoon |  
+| bip_39_word_underscore_1 | spider |  
+| bip_39_word_underscore_10 | spider_input_once_tornado_aim_type_tuition_oxygen_raccoon_hospital |  
+| bip_39_word_underscore_11 | spider_input_once_tornado_aim_type_tuition_oxygen_raccoon_hospital_doctor |  
+| bip_39_word_underscore_12 | spider_input_once_tornado_aim_type_tuition_oxygen_raccoon_hospital_doctor_arm |  
+| bip_39_word_underscore_2 | spider_input |  
+| bip_39_word_underscore_3 | spider_input_once |  
+| bip_39_word_underscore_4 | spider_input_once_tornado |  
+| bip_39_word_underscore_5 | spider_input_once_tornado_aim |  
+| bip_39_word_underscore_6 | spider_input_once_tornado_aim_type |  
+| bip_39_word_underscore_7 | spider_input_once_tornado_aim_type_tuition |  
+| bip_39_word_underscore_8 | spider_input_once_tornado_aim_type_tuition_oxygen |  
+| bip_39_word_underscore_9 | spider_input_once_tornado_aim_type_tuition_oxygen_raccoon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

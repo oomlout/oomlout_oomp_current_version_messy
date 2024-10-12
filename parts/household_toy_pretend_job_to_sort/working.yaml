@@ -1,3 +1,15 @@
+bip_39_word_dash_1: weasel
+bip_39_word_dash_10: weasel-obscure-coral-govern-skate-unaware-apology-theory-century-acid
+bip_39_word_dash_11: weasel-obscure-coral-govern-skate-unaware-apology-theory-century-acid-repair
+bip_39_word_dash_12: weasel-obscure-coral-govern-skate-unaware-apology-theory-century-acid-repair-advice
+bip_39_word_dash_2: weasel-obscure
+bip_39_word_dash_3: weasel-obscure-coral
+bip_39_word_dash_4: weasel-obscure-coral-govern
+bip_39_word_dash_5: weasel-obscure-coral-govern-skate
+bip_39_word_dash_6: weasel-obscure-coral-govern-skate-unaware
+bip_39_word_dash_7: weasel-obscure-coral-govern-skate-unaware-apology
+bip_39_word_dash_8: weasel-obscure-coral-govern-skate-unaware-apology-theory
+bip_39_word_dash_9: weasel-obscure-coral-govern-skate-unaware-apology-theory-century
 bip_39_word_new_br_1: weasel
 bip_39_word_new_br_10: weasel<br>obscure<br>coral<br>govern<br>skate<br>unaware<br>apology<br>theory<br>century<br>acid
 bip_39_word_new_br_11: weasel<br>obscure<br>coral<br>govern<br>skate<br>unaware<br>apology<br>theory<br>century<br>acid<br>repair
@@ -194,6 +206,18 @@ bip_39_word_space_6: weasel obscure coral govern skate unaware
 bip_39_word_space_7: weasel obscure coral govern skate unaware apology
 bip_39_word_space_8: weasel obscure coral govern skate unaware apology theory
 bip_39_word_space_9: weasel obscure coral govern skate unaware apology theory century
+bip_39_word_underscore_1: weasel
+bip_39_word_underscore_10: weasel_obscure_coral_govern_skate_unaware_apology_theory_century_acid
+bip_39_word_underscore_11: weasel_obscure_coral_govern_skate_unaware_apology_theory_century_acid_repair
+bip_39_word_underscore_12: weasel_obscure_coral_govern_skate_unaware_apology_theory_century_acid_repair_advice
+bip_39_word_underscore_2: weasel_obscure
+bip_39_word_underscore_3: weasel_obscure_coral
+bip_39_word_underscore_4: weasel_obscure_coral_govern
+bip_39_word_underscore_5: weasel_obscure_coral_govern_skate
+bip_39_word_underscore_6: weasel_obscure_coral_govern_skate_unaware
+bip_39_word_underscore_7: weasel_obscure_coral_govern_skate_unaware_apology
+bip_39_word_underscore_8: weasel_obscure_coral_govern_skate_unaware_apology_theory
+bip_39_word_underscore_9: weasel_obscure_coral_govern_skate_unaware_apology_theory_century
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

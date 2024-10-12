@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gym |  
+| bip_39_word_dash_10 | gym-admit-rack-lift-absent-turtle-bacon-cabbage-ginger-disagree |  
+| bip_39_word_dash_11 | gym-admit-rack-lift-absent-turtle-bacon-cabbage-ginger-disagree-invest |  
+| bip_39_word_dash_12 | gym-admit-rack-lift-absent-turtle-bacon-cabbage-ginger-disagree-invest-assist |  
+| bip_39_word_dash_2 | gym-admit |  
+| bip_39_word_dash_3 | gym-admit-rack |  
+| bip_39_word_dash_4 | gym-admit-rack-lift |  
+| bip_39_word_dash_5 | gym-admit-rack-lift-absent |  
+| bip_39_word_dash_6 | gym-admit-rack-lift-absent-turtle |  
+| bip_39_word_dash_7 | gym-admit-rack-lift-absent-turtle-bacon |  
+| bip_39_word_dash_8 | gym-admit-rack-lift-absent-turtle-bacon-cabbage |  
+| bip_39_word_dash_9 | gym-admit-rack-lift-absent-turtle-bacon-cabbage-ginger |  
 | bip_39_word_new_br_1 | gym |  
 | bip_39_word_new_br_10 | gym<br>admit<br>rack<br>lift<br>absent<br>turtle<br>bacon<br>cabbage<br>ginger<br>disagree |  
 | bip_39_word_new_br_11 | gym<br>admit<br>rack<br>lift<br>absent<br>turtle<br>bacon<br>cabbage<br>ginger<br>disagree<br>invest |  
@@ -147,6 +159,18 @@ ginger |
 | bip_39_word_space_7 | gym admit rack lift absent turtle bacon |  
 | bip_39_word_space_8 | gym admit rack lift absent turtle bacon cabbage |  
 | bip_39_word_space_9 | gym admit rack lift absent turtle bacon cabbage ginger |  
+| bip_39_word_underscore_1 | gym |  
+| bip_39_word_underscore_10 | gym_admit_rack_lift_absent_turtle_bacon_cabbage_ginger_disagree |  
+| bip_39_word_underscore_11 | gym_admit_rack_lift_absent_turtle_bacon_cabbage_ginger_disagree_invest |  
+| bip_39_word_underscore_12 | gym_admit_rack_lift_absent_turtle_bacon_cabbage_ginger_disagree_invest_assist |  
+| bip_39_word_underscore_2 | gym_admit |  
+| bip_39_word_underscore_3 | gym_admit_rack |  
+| bip_39_word_underscore_4 | gym_admit_rack_lift |  
+| bip_39_word_underscore_5 | gym_admit_rack_lift_absent |  
+| bip_39_word_underscore_6 | gym_admit_rack_lift_absent_turtle |  
+| bip_39_word_underscore_7 | gym_admit_rack_lift_absent_turtle_bacon |  
+| bip_39_word_underscore_8 | gym_admit_rack_lift_absent_turtle_bacon_cabbage |  
+| bip_39_word_underscore_9 | gym_admit_rack_lift_absent_turtle_bacon_cabbage_ginger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

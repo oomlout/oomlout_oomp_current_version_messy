@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cherry |  
+| bip_39_word_dash_10 | cherry-bunker-glass-street-edit-rare-tide-pet-wise-never |  
+| bip_39_word_dash_11 | cherry-bunker-glass-street-edit-rare-tide-pet-wise-never-jeans |  
+| bip_39_word_dash_12 | cherry-bunker-glass-street-edit-rare-tide-pet-wise-never-jeans-angry |  
+| bip_39_word_dash_2 | cherry-bunker |  
+| bip_39_word_dash_3 | cherry-bunker-glass |  
+| bip_39_word_dash_4 | cherry-bunker-glass-street |  
+| bip_39_word_dash_5 | cherry-bunker-glass-street-edit |  
+| bip_39_word_dash_6 | cherry-bunker-glass-street-edit-rare |  
+| bip_39_word_dash_7 | cherry-bunker-glass-street-edit-rare-tide |  
+| bip_39_word_dash_8 | cherry-bunker-glass-street-edit-rare-tide-pet |  
+| bip_39_word_dash_9 | cherry-bunker-glass-street-edit-rare-tide-pet-wise |  
 | bip_39_word_new_br_1 | cherry |  
 | bip_39_word_new_br_10 | cherry<br>bunker<br>glass<br>street<br>edit<br>rare<br>tide<br>pet<br>wise<br>never |  
 | bip_39_word_new_br_11 | cherry<br>bunker<br>glass<br>street<br>edit<br>rare<br>tide<br>pet<br>wise<br>never<br>jeans |  
@@ -147,6 +159,18 @@ wise |
 | bip_39_word_space_7 | cherry bunker glass street edit rare tide |  
 | bip_39_word_space_8 | cherry bunker glass street edit rare tide pet |  
 | bip_39_word_space_9 | cherry bunker glass street edit rare tide pet wise |  
+| bip_39_word_underscore_1 | cherry |  
+| bip_39_word_underscore_10 | cherry_bunker_glass_street_edit_rare_tide_pet_wise_never |  
+| bip_39_word_underscore_11 | cherry_bunker_glass_street_edit_rare_tide_pet_wise_never_jeans |  
+| bip_39_word_underscore_12 | cherry_bunker_glass_street_edit_rare_tide_pet_wise_never_jeans_angry |  
+| bip_39_word_underscore_2 | cherry_bunker |  
+| bip_39_word_underscore_3 | cherry_bunker_glass |  
+| bip_39_word_underscore_4 | cherry_bunker_glass_street |  
+| bip_39_word_underscore_5 | cherry_bunker_glass_street_edit |  
+| bip_39_word_underscore_6 | cherry_bunker_glass_street_edit_rare |  
+| bip_39_word_underscore_7 | cherry_bunker_glass_street_edit_rare_tide |  
+| bip_39_word_underscore_8 | cherry_bunker_glass_street_edit_rare_tide_pet |  
+| bip_39_word_underscore_9 | cherry_bunker_glass_street_edit_rare_tide_pet_wise |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

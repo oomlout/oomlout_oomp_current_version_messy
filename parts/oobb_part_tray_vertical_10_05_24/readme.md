@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | author |  
+| bip_39_word_dash_10 | author-method-thing-soccer-skate-south-blast-spice-state-diesel |  
+| bip_39_word_dash_11 | author-method-thing-soccer-skate-south-blast-spice-state-diesel-tattoo |  
+| bip_39_word_dash_12 | author-method-thing-soccer-skate-south-blast-spice-state-diesel-tattoo-alarm |  
+| bip_39_word_dash_2 | author-method |  
+| bip_39_word_dash_3 | author-method-thing |  
+| bip_39_word_dash_4 | author-method-thing-soccer |  
+| bip_39_word_dash_5 | author-method-thing-soccer-skate |  
+| bip_39_word_dash_6 | author-method-thing-soccer-skate-south |  
+| bip_39_word_dash_7 | author-method-thing-soccer-skate-south-blast |  
+| bip_39_word_dash_8 | author-method-thing-soccer-skate-south-blast-spice |  
+| bip_39_word_dash_9 | author-method-thing-soccer-skate-south-blast-spice-state |  
 | bip_39_word_new_br_1 | author |  
 | bip_39_word_new_br_10 | author<br>method<br>thing<br>soccer<br>skate<br>south<br>blast<br>spice<br>state<br>diesel |  
 | bip_39_word_new_br_11 | author<br>method<br>thing<br>soccer<br>skate<br>south<br>blast<br>spice<br>state<br>diesel<br>tattoo |  
@@ -147,6 +159,18 @@ state |
 | bip_39_word_space_7 | author method thing soccer skate south blast |  
 | bip_39_word_space_8 | author method thing soccer skate south blast spice |  
 | bip_39_word_space_9 | author method thing soccer skate south blast spice state |  
+| bip_39_word_underscore_1 | author |  
+| bip_39_word_underscore_10 | author_method_thing_soccer_skate_south_blast_spice_state_diesel |  
+| bip_39_word_underscore_11 | author_method_thing_soccer_skate_south_blast_spice_state_diesel_tattoo |  
+| bip_39_word_underscore_12 | author_method_thing_soccer_skate_south_blast_spice_state_diesel_tattoo_alarm |  
+| bip_39_word_underscore_2 | author_method |  
+| bip_39_word_underscore_3 | author_method_thing |  
+| bip_39_word_underscore_4 | author_method_thing_soccer |  
+| bip_39_word_underscore_5 | author_method_thing_soccer_skate |  
+| bip_39_word_underscore_6 | author_method_thing_soccer_skate_south |  
+| bip_39_word_underscore_7 | author_method_thing_soccer_skate_south_blast |  
+| bip_39_word_underscore_8 | author_method_thing_soccer_skate_south_blast_spice |  
+| bip_39_word_underscore_9 | author_method_thing_soccer_skate_south_blast_spice_state |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

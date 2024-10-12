@@ -1,3 +1,15 @@
+bip_39_word_dash_1: guard
+bip_39_word_dash_10: guard-room-drum-coach-wrestle-kiss-fury-ball-oval-media
+bip_39_word_dash_11: guard-room-drum-coach-wrestle-kiss-fury-ball-oval-media-fence
+bip_39_word_dash_12: guard-room-drum-coach-wrestle-kiss-fury-ball-oval-media-fence-angry
+bip_39_word_dash_2: guard-room
+bip_39_word_dash_3: guard-room-drum
+bip_39_word_dash_4: guard-room-drum-coach
+bip_39_word_dash_5: guard-room-drum-coach-wrestle
+bip_39_word_dash_6: guard-room-drum-coach-wrestle-kiss
+bip_39_word_dash_7: guard-room-drum-coach-wrestle-kiss-fury
+bip_39_word_dash_8: guard-room-drum-coach-wrestle-kiss-fury-ball
+bip_39_word_dash_9: guard-room-drum-coach-wrestle-kiss-fury-ball-oval
 bip_39_word_new_br_1: guard
 bip_39_word_new_br_10: guard<br>room<br>drum<br>coach<br>wrestle<br>kiss<br>fury<br>ball<br>oval<br>media
 bip_39_word_new_br_11: guard<br>room<br>drum<br>coach<br>wrestle<br>kiss<br>fury<br>ball<br>oval<br>media<br>fence
@@ -192,6 +204,18 @@ bip_39_word_space_6: guard room drum coach wrestle kiss
 bip_39_word_space_7: guard room drum coach wrestle kiss fury
 bip_39_word_space_8: guard room drum coach wrestle kiss fury ball
 bip_39_word_space_9: guard room drum coach wrestle kiss fury ball oval
+bip_39_word_underscore_1: guard
+bip_39_word_underscore_10: guard_room_drum_coach_wrestle_kiss_fury_ball_oval_media
+bip_39_word_underscore_11: guard_room_drum_coach_wrestle_kiss_fury_ball_oval_media_fence
+bip_39_word_underscore_12: guard_room_drum_coach_wrestle_kiss_fury_ball_oval_media_fence_angry
+bip_39_word_underscore_2: guard_room
+bip_39_word_underscore_3: guard_room_drum
+bip_39_word_underscore_4: guard_room_drum_coach
+bip_39_word_underscore_5: guard_room_drum_coach_wrestle
+bip_39_word_underscore_6: guard_room_drum_coach_wrestle_kiss
+bip_39_word_underscore_7: guard_room_drum_coach_wrestle_kiss_fury
+bip_39_word_underscore_8: guard_room_drum_coach_wrestle_kiss_fury_ball
+bip_39_word_underscore_9: guard_room_drum_coach_wrestle_kiss_fury_ball_oval
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

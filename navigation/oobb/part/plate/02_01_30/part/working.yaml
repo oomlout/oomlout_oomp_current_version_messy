@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cousin
+bip_39_word_dash_10: cousin-kitten-vague-kid-visa-glad-fantasy-number-flee-awesome
+bip_39_word_dash_11: cousin-kitten-vague-kid-visa-glad-fantasy-number-flee-awesome-found
+bip_39_word_dash_12: cousin-kitten-vague-kid-visa-glad-fantasy-number-flee-awesome-found-arrive
+bip_39_word_dash_2: cousin-kitten
+bip_39_word_dash_3: cousin-kitten-vague
+bip_39_word_dash_4: cousin-kitten-vague-kid
+bip_39_word_dash_5: cousin-kitten-vague-kid-visa
+bip_39_word_dash_6: cousin-kitten-vague-kid-visa-glad
+bip_39_word_dash_7: cousin-kitten-vague-kid-visa-glad-fantasy
+bip_39_word_dash_8: cousin-kitten-vague-kid-visa-glad-fantasy-number
+bip_39_word_dash_9: cousin-kitten-vague-kid-visa-glad-fantasy-number-flee
 bip_39_word_new_br_1: cousin
 bip_39_word_new_br_10: cousin<br>kitten<br>vague<br>kid<br>visa<br>glad<br>fantasy<br>number<br>flee<br>awesome
 bip_39_word_new_br_11: cousin<br>kitten<br>vague<br>kid<br>visa<br>glad<br>fantasy<br>number<br>flee<br>awesome<br>found
@@ -193,6 +205,18 @@ bip_39_word_space_6: cousin kitten vague kid visa glad
 bip_39_word_space_7: cousin kitten vague kid visa glad fantasy
 bip_39_word_space_8: cousin kitten vague kid visa glad fantasy number
 bip_39_word_space_9: cousin kitten vague kid visa glad fantasy number flee
+bip_39_word_underscore_1: cousin
+bip_39_word_underscore_10: cousin_kitten_vague_kid_visa_glad_fantasy_number_flee_awesome
+bip_39_word_underscore_11: cousin_kitten_vague_kid_visa_glad_fantasy_number_flee_awesome_found
+bip_39_word_underscore_12: cousin_kitten_vague_kid_visa_glad_fantasy_number_flee_awesome_found_arrive
+bip_39_word_underscore_2: cousin_kitten
+bip_39_word_underscore_3: cousin_kitten_vague
+bip_39_word_underscore_4: cousin_kitten_vague_kid
+bip_39_word_underscore_5: cousin_kitten_vague_kid_visa
+bip_39_word_underscore_6: cousin_kitten_vague_kid_visa_glad
+bip_39_word_underscore_7: cousin_kitten_vague_kid_visa_glad_fantasy
+bip_39_word_underscore_8: cousin_kitten_vague_kid_visa_glad_fantasy_number
+bip_39_word_underscore_9: cousin_kitten_vague_kid_visa_glad_fantasy_number_flee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: announce
+bip_39_word_dash_10: announce-ecology-false-recipe-barrel-move-monster-flush-tattoo-fan
+bip_39_word_dash_11: announce-ecology-false-recipe-barrel-move-monster-flush-tattoo-fan-cliff
+bip_39_word_dash_12: announce-ecology-false-recipe-barrel-move-monster-flush-tattoo-fan-cliff-amount
+bip_39_word_dash_2: announce-ecology
+bip_39_word_dash_3: announce-ecology-false
+bip_39_word_dash_4: announce-ecology-false-recipe
+bip_39_word_dash_5: announce-ecology-false-recipe-barrel
+bip_39_word_dash_6: announce-ecology-false-recipe-barrel-move
+bip_39_word_dash_7: announce-ecology-false-recipe-barrel-move-monster
+bip_39_word_dash_8: announce-ecology-false-recipe-barrel-move-monster-flush
+bip_39_word_dash_9: announce-ecology-false-recipe-barrel-move-monster-flush-tattoo
 bip_39_word_new_br_1: announce
 bip_39_word_new_br_10: announce<br>ecology<br>false<br>recipe<br>barrel<br>move<br>monster<br>flush<br>tattoo<br>fan
 bip_39_word_new_br_11: announce<br>ecology<br>false<br>recipe<br>barrel<br>move<br>monster<br>flush<br>tattoo<br>fan<br>cliff
@@ -194,6 +206,18 @@ bip_39_word_space_6: announce ecology false recipe barrel move
 bip_39_word_space_7: announce ecology false recipe barrel move monster
 bip_39_word_space_8: announce ecology false recipe barrel move monster flush
 bip_39_word_space_9: announce ecology false recipe barrel move monster flush tattoo
+bip_39_word_underscore_1: announce
+bip_39_word_underscore_10: announce_ecology_false_recipe_barrel_move_monster_flush_tattoo_fan
+bip_39_word_underscore_11: announce_ecology_false_recipe_barrel_move_monster_flush_tattoo_fan_cliff
+bip_39_word_underscore_12: announce_ecology_false_recipe_barrel_move_monster_flush_tattoo_fan_cliff_amount
+bip_39_word_underscore_2: announce_ecology
+bip_39_word_underscore_3: announce_ecology_false
+bip_39_word_underscore_4: announce_ecology_false_recipe
+bip_39_word_underscore_5: announce_ecology_false_recipe_barrel
+bip_39_word_underscore_6: announce_ecology_false_recipe_barrel_move
+bip_39_word_underscore_7: announce_ecology_false_recipe_barrel_move_monster
+bip_39_word_underscore_8: announce_ecology_false_recipe_barrel_move_monster_flush
+bip_39_word_underscore_9: announce_ecology_false_recipe_barrel_move_monster_flush_tattoo
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

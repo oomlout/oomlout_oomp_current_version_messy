@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | home |  
+| bip_39_word_dash_10 | home-quantum-december-oil-noise-alpha-void-clutch-federal-toss |  
+| bip_39_word_dash_11 | home-quantum-december-oil-noise-alpha-void-clutch-federal-toss-sport |  
+| bip_39_word_dash_12 | home-quantum-december-oil-noise-alpha-void-clutch-federal-toss-sport-agent |  
+| bip_39_word_dash_2 | home-quantum |  
+| bip_39_word_dash_3 | home-quantum-december |  
+| bip_39_word_dash_4 | home-quantum-december-oil |  
+| bip_39_word_dash_5 | home-quantum-december-oil-noise |  
+| bip_39_word_dash_6 | home-quantum-december-oil-noise-alpha |  
+| bip_39_word_dash_7 | home-quantum-december-oil-noise-alpha-void |  
+| bip_39_word_dash_8 | home-quantum-december-oil-noise-alpha-void-clutch |  
+| bip_39_word_dash_9 | home-quantum-december-oil-noise-alpha-void-clutch-federal |  
 | bip_39_word_new_br_1 | home |  
 | bip_39_word_new_br_10 | home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch<br>federal<br>toss |  
 | bip_39_word_new_br_11 | home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch<br>federal<br>toss<br>sport |  
@@ -147,6 +159,18 @@ federal |
 | bip_39_word_space_7 | home quantum december oil noise alpha void |  
 | bip_39_word_space_8 | home quantum december oil noise alpha void clutch |  
 | bip_39_word_space_9 | home quantum december oil noise alpha void clutch federal |  
+| bip_39_word_underscore_1 | home |  
+| bip_39_word_underscore_10 | home_quantum_december_oil_noise_alpha_void_clutch_federal_toss |  
+| bip_39_word_underscore_11 | home_quantum_december_oil_noise_alpha_void_clutch_federal_toss_sport |  
+| bip_39_word_underscore_12 | home_quantum_december_oil_noise_alpha_void_clutch_federal_toss_sport_agent |  
+| bip_39_word_underscore_2 | home_quantum |  
+| bip_39_word_underscore_3 | home_quantum_december |  
+| bip_39_word_underscore_4 | home_quantum_december_oil |  
+| bip_39_word_underscore_5 | home_quantum_december_oil_noise |  
+| bip_39_word_underscore_6 | home_quantum_december_oil_noise_alpha |  
+| bip_39_word_underscore_7 | home_quantum_december_oil_noise_alpha_void |  
+| bip_39_word_underscore_8 | home_quantum_december_oil_noise_alpha_void_clutch |  
+| bip_39_word_underscore_9 | home_quantum_december_oil_noise_alpha_void_clutch_federal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

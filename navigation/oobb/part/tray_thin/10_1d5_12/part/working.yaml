@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lonely
+bip_39_word_dash_10: lonely-rate-govern-life-pair-walk-gadget-country-omit-keen
+bip_39_word_dash_11: lonely-rate-govern-life-pair-walk-gadget-country-omit-keen-sponsor
+bip_39_word_dash_12: lonely-rate-govern-life-pair-walk-gadget-country-omit-keen-sponsor-accident
+bip_39_word_dash_2: lonely-rate
+bip_39_word_dash_3: lonely-rate-govern
+bip_39_word_dash_4: lonely-rate-govern-life
+bip_39_word_dash_5: lonely-rate-govern-life-pair
+bip_39_word_dash_6: lonely-rate-govern-life-pair-walk
+bip_39_word_dash_7: lonely-rate-govern-life-pair-walk-gadget
+bip_39_word_dash_8: lonely-rate-govern-life-pair-walk-gadget-country
+bip_39_word_dash_9: lonely-rate-govern-life-pair-walk-gadget-country-omit
 bip_39_word_new_br_1: lonely
 bip_39_word_new_br_10: lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country<br>omit<br>keen
 bip_39_word_new_br_11: lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country<br>omit<br>keen<br>sponsor
@@ -192,6 +204,18 @@ bip_39_word_space_6: lonely rate govern life pair walk
 bip_39_word_space_7: lonely rate govern life pair walk gadget
 bip_39_word_space_8: lonely rate govern life pair walk gadget country
 bip_39_word_space_9: lonely rate govern life pair walk gadget country omit
+bip_39_word_underscore_1: lonely
+bip_39_word_underscore_10: lonely_rate_govern_life_pair_walk_gadget_country_omit_keen
+bip_39_word_underscore_11: lonely_rate_govern_life_pair_walk_gadget_country_omit_keen_sponsor
+bip_39_word_underscore_12: lonely_rate_govern_life_pair_walk_gadget_country_omit_keen_sponsor_accident
+bip_39_word_underscore_2: lonely_rate
+bip_39_word_underscore_3: lonely_rate_govern
+bip_39_word_underscore_4: lonely_rate_govern_life
+bip_39_word_underscore_5: lonely_rate_govern_life_pair
+bip_39_word_underscore_6: lonely_rate_govern_life_pair_walk
+bip_39_word_underscore_7: lonely_rate_govern_life_pair_walk_gadget
+bip_39_word_underscore_8: lonely_rate_govern_life_pair_walk_gadget_country
+bip_39_word_underscore_9: lonely_rate_govern_life_pair_walk_gadget_country_omit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

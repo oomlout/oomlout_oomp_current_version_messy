@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | juice |  
+| bip_39_word_dash_10 | juice-grid-open-ignore-bid-close-cost-kiwi-interest-version |  
+| bip_39_word_dash_11 | juice-grid-open-ignore-bid-close-cost-kiwi-interest-version-enable |  
+| bip_39_word_dash_12 | juice-grid-open-ignore-bid-close-cost-kiwi-interest-version-enable-aim |  
+| bip_39_word_dash_2 | juice-grid |  
+| bip_39_word_dash_3 | juice-grid-open |  
+| bip_39_word_dash_4 | juice-grid-open-ignore |  
+| bip_39_word_dash_5 | juice-grid-open-ignore-bid |  
+| bip_39_word_dash_6 | juice-grid-open-ignore-bid-close |  
+| bip_39_word_dash_7 | juice-grid-open-ignore-bid-close-cost |  
+| bip_39_word_dash_8 | juice-grid-open-ignore-bid-close-cost-kiwi |  
+| bip_39_word_dash_9 | juice-grid-open-ignore-bid-close-cost-kiwi-interest |  
 | bip_39_word_new_br_1 | juice |  
 | bip_39_word_new_br_10 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version |  
 | bip_39_word_new_br_11 | juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version<br>enable |  
@@ -147,6 +159,18 @@ interest |
 | bip_39_word_space_7 | juice grid open ignore bid close cost |  
 | bip_39_word_space_8 | juice grid open ignore bid close cost kiwi |  
 | bip_39_word_space_9 | juice grid open ignore bid close cost kiwi interest |  
+| bip_39_word_underscore_1 | juice |  
+| bip_39_word_underscore_10 | juice_grid_open_ignore_bid_close_cost_kiwi_interest_version |  
+| bip_39_word_underscore_11 | juice_grid_open_ignore_bid_close_cost_kiwi_interest_version_enable |  
+| bip_39_word_underscore_12 | juice_grid_open_ignore_bid_close_cost_kiwi_interest_version_enable_aim |  
+| bip_39_word_underscore_2 | juice_grid |  
+| bip_39_word_underscore_3 | juice_grid_open |  
+| bip_39_word_underscore_4 | juice_grid_open_ignore |  
+| bip_39_word_underscore_5 | juice_grid_open_ignore_bid |  
+| bip_39_word_underscore_6 | juice_grid_open_ignore_bid_close |  
+| bip_39_word_underscore_7 | juice_grid_open_ignore_bid_close_cost |  
+| bip_39_word_underscore_8 | juice_grid_open_ignore_bid_close_cost_kiwi |  
+| bip_39_word_underscore_9 | juice_grid_open_ignore_bid_close_cost_kiwi_interest |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

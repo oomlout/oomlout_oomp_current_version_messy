@@ -1,3 +1,15 @@
+bip_39_word_dash_1: indicate
+bip_39_word_dash_10: indicate-wise-sentence-embrace-salute-merit-garden-alpha-mountain-pyramid
+bip_39_word_dash_11: indicate-wise-sentence-embrace-salute-merit-garden-alpha-mountain-pyramid-hurt
+bip_39_word_dash_12: indicate-wise-sentence-embrace-salute-merit-garden-alpha-mountain-pyramid-hurt-any
+bip_39_word_dash_2: indicate-wise
+bip_39_word_dash_3: indicate-wise-sentence
+bip_39_word_dash_4: indicate-wise-sentence-embrace
+bip_39_word_dash_5: indicate-wise-sentence-embrace-salute
+bip_39_word_dash_6: indicate-wise-sentence-embrace-salute-merit
+bip_39_word_dash_7: indicate-wise-sentence-embrace-salute-merit-garden
+bip_39_word_dash_8: indicate-wise-sentence-embrace-salute-merit-garden-alpha
+bip_39_word_dash_9: indicate-wise-sentence-embrace-salute-merit-garden-alpha-mountain
 bip_39_word_new_br_1: indicate
 bip_39_word_new_br_10: indicate<br>wise<br>sentence<br>embrace<br>salute<br>merit<br>garden<br>alpha<br>mountain<br>pyramid
 bip_39_word_new_br_11: indicate<br>wise<br>sentence<br>embrace<br>salute<br>merit<br>garden<br>alpha<br>mountain<br>pyramid<br>hurt
@@ -194,6 +206,18 @@ bip_39_word_space_6: indicate wise sentence embrace salute merit
 bip_39_word_space_7: indicate wise sentence embrace salute merit garden
 bip_39_word_space_8: indicate wise sentence embrace salute merit garden alpha
 bip_39_word_space_9: indicate wise sentence embrace salute merit garden alpha mountain
+bip_39_word_underscore_1: indicate
+bip_39_word_underscore_10: indicate_wise_sentence_embrace_salute_merit_garden_alpha_mountain_pyramid
+bip_39_word_underscore_11: indicate_wise_sentence_embrace_salute_merit_garden_alpha_mountain_pyramid_hurt
+bip_39_word_underscore_12: indicate_wise_sentence_embrace_salute_merit_garden_alpha_mountain_pyramid_hurt_any
+bip_39_word_underscore_2: indicate_wise
+bip_39_word_underscore_3: indicate_wise_sentence
+bip_39_word_underscore_4: indicate_wise_sentence_embrace
+bip_39_word_underscore_5: indicate_wise_sentence_embrace_salute
+bip_39_word_underscore_6: indicate_wise_sentence_embrace_salute_merit
+bip_39_word_underscore_7: indicate_wise_sentence_embrace_salute_merit_garden
+bip_39_word_underscore_8: indicate_wise_sentence_embrace_salute_merit_garden_alpha
+bip_39_word_underscore_9: indicate_wise_sentence_embrace_salute_merit_garden_alpha_mountain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

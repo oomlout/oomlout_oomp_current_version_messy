@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | secret |  
+| bip_39_word_dash_10 | secret-radar-steel-among-viable-boat-monster-prize-romance-blouse |  
+| bip_39_word_dash_11 | secret-radar-steel-among-viable-boat-monster-prize-romance-blouse-fitness |  
+| bip_39_word_dash_12 | secret-radar-steel-among-viable-boat-monster-prize-romance-blouse-fitness-arrest |  
+| bip_39_word_dash_2 | secret-radar |  
+| bip_39_word_dash_3 | secret-radar-steel |  
+| bip_39_word_dash_4 | secret-radar-steel-among |  
+| bip_39_word_dash_5 | secret-radar-steel-among-viable |  
+| bip_39_word_dash_6 | secret-radar-steel-among-viable-boat |  
+| bip_39_word_dash_7 | secret-radar-steel-among-viable-boat-monster |  
+| bip_39_word_dash_8 | secret-radar-steel-among-viable-boat-monster-prize |  
+| bip_39_word_dash_9 | secret-radar-steel-among-viable-boat-monster-prize-romance |  
 | bip_39_word_new_br_1 | secret |  
 | bip_39_word_new_br_10 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize<br>romance<br>blouse |  
 | bip_39_word_new_br_11 | secret<br>radar<br>steel<br>among<br>viable<br>boat<br>monster<br>prize<br>romance<br>blouse<br>fitness |  
@@ -147,6 +159,18 @@ romance |
 | bip_39_word_space_7 | secret radar steel among viable boat monster |  
 | bip_39_word_space_8 | secret radar steel among viable boat monster prize |  
 | bip_39_word_space_9 | secret radar steel among viable boat monster prize romance |  
+| bip_39_word_underscore_1 | secret |  
+| bip_39_word_underscore_10 | secret_radar_steel_among_viable_boat_monster_prize_romance_blouse |  
+| bip_39_word_underscore_11 | secret_radar_steel_among_viable_boat_monster_prize_romance_blouse_fitness |  
+| bip_39_word_underscore_12 | secret_radar_steel_among_viable_boat_monster_prize_romance_blouse_fitness_arrest |  
+| bip_39_word_underscore_2 | secret_radar |  
+| bip_39_word_underscore_3 | secret_radar_steel |  
+| bip_39_word_underscore_4 | secret_radar_steel_among |  
+| bip_39_word_underscore_5 | secret_radar_steel_among_viable |  
+| bip_39_word_underscore_6 | secret_radar_steel_among_viable_boat |  
+| bip_39_word_underscore_7 | secret_radar_steel_among_viable_boat_monster |  
+| bip_39_word_underscore_8 | secret_radar_steel_among_viable_boat_monster_prize |  
+| bip_39_word_underscore_9 | secret_radar_steel_among_viable_boat_monster_prize_romance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

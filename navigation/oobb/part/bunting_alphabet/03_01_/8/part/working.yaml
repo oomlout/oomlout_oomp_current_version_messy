@@ -1,3 +1,15 @@
+bip_39_word_dash_1: surface
+bip_39_word_dash_10: surface-tongue-essay-pottery-apart-shine-pistol-cushion-range-object
+bip_39_word_dash_11: surface-tongue-essay-pottery-apart-shine-pistol-cushion-range-object-solid
+bip_39_word_dash_12: surface-tongue-essay-pottery-apart-shine-pistol-cushion-range-object-solid-accident
+bip_39_word_dash_2: surface-tongue
+bip_39_word_dash_3: surface-tongue-essay
+bip_39_word_dash_4: surface-tongue-essay-pottery
+bip_39_word_dash_5: surface-tongue-essay-pottery-apart
+bip_39_word_dash_6: surface-tongue-essay-pottery-apart-shine
+bip_39_word_dash_7: surface-tongue-essay-pottery-apart-shine-pistol
+bip_39_word_dash_8: surface-tongue-essay-pottery-apart-shine-pistol-cushion
+bip_39_word_dash_9: surface-tongue-essay-pottery-apart-shine-pistol-cushion-range
 bip_39_word_new_br_1: surface
 bip_39_word_new_br_10: surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion<br>range<br>object
 bip_39_word_new_br_11: surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion<br>range<br>object<br>solid
@@ -194,6 +206,18 @@ bip_39_word_space_6: surface tongue essay pottery apart shine
 bip_39_word_space_7: surface tongue essay pottery apart shine pistol
 bip_39_word_space_8: surface tongue essay pottery apart shine pistol cushion
 bip_39_word_space_9: surface tongue essay pottery apart shine pistol cushion range
+bip_39_word_underscore_1: surface
+bip_39_word_underscore_10: surface_tongue_essay_pottery_apart_shine_pistol_cushion_range_object
+bip_39_word_underscore_11: surface_tongue_essay_pottery_apart_shine_pistol_cushion_range_object_solid
+bip_39_word_underscore_12: surface_tongue_essay_pottery_apart_shine_pistol_cushion_range_object_solid_accident
+bip_39_word_underscore_2: surface_tongue
+bip_39_word_underscore_3: surface_tongue_essay
+bip_39_word_underscore_4: surface_tongue_essay_pottery
+bip_39_word_underscore_5: surface_tongue_essay_pottery_apart
+bip_39_word_underscore_6: surface_tongue_essay_pottery_apart_shine
+bip_39_word_underscore_7: surface_tongue_essay_pottery_apart_shine_pistol
+bip_39_word_underscore_8: surface_tongue_essay_pottery_apart_shine_pistol_cushion
+bip_39_word_underscore_9: surface_tongue_essay_pottery_apart_shine_pistol_cushion_range
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

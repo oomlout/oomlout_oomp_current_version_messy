@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decline |  
+| bip_39_word_dash_10 | decline-penalty-win-ask-zebra-feed-awesome-choice-hard-sudden |  
+| bip_39_word_dash_11 | decline-penalty-win-ask-zebra-feed-awesome-choice-hard-sudden-denial |  
+| bip_39_word_dash_12 | decline-penalty-win-ask-zebra-feed-awesome-choice-hard-sudden-denial-assist |  
+| bip_39_word_dash_2 | decline-penalty |  
+| bip_39_word_dash_3 | decline-penalty-win |  
+| bip_39_word_dash_4 | decline-penalty-win-ask |  
+| bip_39_word_dash_5 | decline-penalty-win-ask-zebra |  
+| bip_39_word_dash_6 | decline-penalty-win-ask-zebra-feed |  
+| bip_39_word_dash_7 | decline-penalty-win-ask-zebra-feed-awesome |  
+| bip_39_word_dash_8 | decline-penalty-win-ask-zebra-feed-awesome-choice |  
+| bip_39_word_dash_9 | decline-penalty-win-ask-zebra-feed-awesome-choice-hard |  
 | bip_39_word_new_br_1 | decline |  
 | bip_39_word_new_br_10 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden |  
 | bip_39_word_new_br_11 | decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden<br>denial |  
@@ -147,6 +159,18 @@ hard |
 | bip_39_word_space_7 | decline penalty win ask zebra feed awesome |  
 | bip_39_word_space_8 | decline penalty win ask zebra feed awesome choice |  
 | bip_39_word_space_9 | decline penalty win ask zebra feed awesome choice hard |  
+| bip_39_word_underscore_1 | decline |  
+| bip_39_word_underscore_10 | decline_penalty_win_ask_zebra_feed_awesome_choice_hard_sudden |  
+| bip_39_word_underscore_11 | decline_penalty_win_ask_zebra_feed_awesome_choice_hard_sudden_denial |  
+| bip_39_word_underscore_12 | decline_penalty_win_ask_zebra_feed_awesome_choice_hard_sudden_denial_assist |  
+| bip_39_word_underscore_2 | decline_penalty |  
+| bip_39_word_underscore_3 | decline_penalty_win |  
+| bip_39_word_underscore_4 | decline_penalty_win_ask |  
+| bip_39_word_underscore_5 | decline_penalty_win_ask_zebra |  
+| bip_39_word_underscore_6 | decline_penalty_win_ask_zebra_feed |  
+| bip_39_word_underscore_7 | decline_penalty_win_ask_zebra_feed_awesome |  
+| bip_39_word_underscore_8 | decline_penalty_win_ask_zebra_feed_awesome_choice |  
+| bip_39_word_underscore_9 | decline_penalty_win_ask_zebra_feed_awesome_choice_hard |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

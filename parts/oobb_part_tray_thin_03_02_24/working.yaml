@@ -1,3 +1,15 @@
+bip_39_word_dash_1: what
+bip_39_word_dash_10: what-stomach-protect-robot-vague-ask-tenant-figure-scale-gym
+bip_39_word_dash_11: what-stomach-protect-robot-vague-ask-tenant-figure-scale-gym-vital
+bip_39_word_dash_12: what-stomach-protect-robot-vague-ask-tenant-figure-scale-gym-vital-autumn
+bip_39_word_dash_2: what-stomach
+bip_39_word_dash_3: what-stomach-protect
+bip_39_word_dash_4: what-stomach-protect-robot
+bip_39_word_dash_5: what-stomach-protect-robot-vague
+bip_39_word_dash_6: what-stomach-protect-robot-vague-ask
+bip_39_word_dash_7: what-stomach-protect-robot-vague-ask-tenant
+bip_39_word_dash_8: what-stomach-protect-robot-vague-ask-tenant-figure
+bip_39_word_dash_9: what-stomach-protect-robot-vague-ask-tenant-figure-scale
 bip_39_word_new_br_1: what
 bip_39_word_new_br_10: what<br>stomach<br>protect<br>robot<br>vague<br>ask<br>tenant<br>figure<br>scale<br>gym
 bip_39_word_new_br_11: what<br>stomach<br>protect<br>robot<br>vague<br>ask<br>tenant<br>figure<br>scale<br>gym<br>vital
@@ -193,6 +205,18 @@ bip_39_word_space_6: what stomach protect robot vague ask
 bip_39_word_space_7: what stomach protect robot vague ask tenant
 bip_39_word_space_8: what stomach protect robot vague ask tenant figure
 bip_39_word_space_9: what stomach protect robot vague ask tenant figure scale
+bip_39_word_underscore_1: what
+bip_39_word_underscore_10: what_stomach_protect_robot_vague_ask_tenant_figure_scale_gym
+bip_39_word_underscore_11: what_stomach_protect_robot_vague_ask_tenant_figure_scale_gym_vital
+bip_39_word_underscore_12: what_stomach_protect_robot_vague_ask_tenant_figure_scale_gym_vital_autumn
+bip_39_word_underscore_2: what_stomach
+bip_39_word_underscore_3: what_stomach_protect
+bip_39_word_underscore_4: what_stomach_protect_robot
+bip_39_word_underscore_5: what_stomach_protect_robot_vague
+bip_39_word_underscore_6: what_stomach_protect_robot_vague_ask
+bip_39_word_underscore_7: what_stomach_protect_robot_vague_ask_tenant
+bip_39_word_underscore_8: what_stomach_protect_robot_vague_ask_tenant_figure
+bip_39_word_underscore_9: what_stomach_protect_robot_vague_ask_tenant_figure_scale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

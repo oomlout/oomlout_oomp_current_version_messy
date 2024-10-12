@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stereo |  
+| bip_39_word_dash_10 | stereo-risk-spawn-lady-rival-isolate-luxury-hurt-typical-wage |  
+| bip_39_word_dash_11 | stereo-risk-spawn-lady-rival-isolate-luxury-hurt-typical-wage-opera |  
+| bip_39_word_dash_12 | stereo-risk-spawn-lady-rival-isolate-luxury-hurt-typical-wage-opera-another |  
+| bip_39_word_dash_2 | stereo-risk |  
+| bip_39_word_dash_3 | stereo-risk-spawn |  
+| bip_39_word_dash_4 | stereo-risk-spawn-lady |  
+| bip_39_word_dash_5 | stereo-risk-spawn-lady-rival |  
+| bip_39_word_dash_6 | stereo-risk-spawn-lady-rival-isolate |  
+| bip_39_word_dash_7 | stereo-risk-spawn-lady-rival-isolate-luxury |  
+| bip_39_word_dash_8 | stereo-risk-spawn-lady-rival-isolate-luxury-hurt |  
+| bip_39_word_dash_9 | stereo-risk-spawn-lady-rival-isolate-luxury-hurt-typical |  
 | bip_39_word_new_br_1 | stereo |  
 | bip_39_word_new_br_10 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage |  
 | bip_39_word_new_br_11 | stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage<br>opera |  
@@ -147,6 +159,18 @@ typical |
 | bip_39_word_space_7 | stereo risk spawn lady rival isolate luxury |  
 | bip_39_word_space_8 | stereo risk spawn lady rival isolate luxury hurt |  
 | bip_39_word_space_9 | stereo risk spawn lady rival isolate luxury hurt typical |  
+| bip_39_word_underscore_1 | stereo |  
+| bip_39_word_underscore_10 | stereo_risk_spawn_lady_rival_isolate_luxury_hurt_typical_wage |  
+| bip_39_word_underscore_11 | stereo_risk_spawn_lady_rival_isolate_luxury_hurt_typical_wage_opera |  
+| bip_39_word_underscore_12 | stereo_risk_spawn_lady_rival_isolate_luxury_hurt_typical_wage_opera_another |  
+| bip_39_word_underscore_2 | stereo_risk |  
+| bip_39_word_underscore_3 | stereo_risk_spawn |  
+| bip_39_word_underscore_4 | stereo_risk_spawn_lady |  
+| bip_39_word_underscore_5 | stereo_risk_spawn_lady_rival |  
+| bip_39_word_underscore_6 | stereo_risk_spawn_lady_rival_isolate |  
+| bip_39_word_underscore_7 | stereo_risk_spawn_lady_rival_isolate_luxury |  
+| bip_39_word_underscore_8 | stereo_risk_spawn_lady_rival_isolate_luxury_hurt |  
+| bip_39_word_underscore_9 | stereo_risk_spawn_lady_rival_isolate_luxury_hurt_typical |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

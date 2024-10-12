@@ -1,3 +1,15 @@
+bip_39_word_dash_1: advice
+bip_39_word_dash_10: advice-capable-weapon-symptom-van-cat-nasty-tilt-federal-local
+bip_39_word_dash_11: advice-capable-weapon-symptom-van-cat-nasty-tilt-federal-local-fat
+bip_39_word_dash_12: advice-capable-weapon-symptom-van-cat-nasty-tilt-federal-local-fat-aim
+bip_39_word_dash_2: advice-capable
+bip_39_word_dash_3: advice-capable-weapon
+bip_39_word_dash_4: advice-capable-weapon-symptom
+bip_39_word_dash_5: advice-capable-weapon-symptom-van
+bip_39_word_dash_6: advice-capable-weapon-symptom-van-cat
+bip_39_word_dash_7: advice-capable-weapon-symptom-van-cat-nasty
+bip_39_word_dash_8: advice-capable-weapon-symptom-van-cat-nasty-tilt
+bip_39_word_dash_9: advice-capable-weapon-symptom-van-cat-nasty-tilt-federal
 bip_39_word_new_br_1: advice
 bip_39_word_new_br_10: advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local
 bip_39_word_new_br_11: advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local<br>fat
@@ -193,6 +205,18 @@ bip_39_word_space_6: advice capable weapon symptom van cat
 bip_39_word_space_7: advice capable weapon symptom van cat nasty
 bip_39_word_space_8: advice capable weapon symptom van cat nasty tilt
 bip_39_word_space_9: advice capable weapon symptom van cat nasty tilt federal
+bip_39_word_underscore_1: advice
+bip_39_word_underscore_10: advice_capable_weapon_symptom_van_cat_nasty_tilt_federal_local
+bip_39_word_underscore_11: advice_capable_weapon_symptom_van_cat_nasty_tilt_federal_local_fat
+bip_39_word_underscore_12: advice_capable_weapon_symptom_van_cat_nasty_tilt_federal_local_fat_aim
+bip_39_word_underscore_2: advice_capable
+bip_39_word_underscore_3: advice_capable_weapon
+bip_39_word_underscore_4: advice_capable_weapon_symptom
+bip_39_word_underscore_5: advice_capable_weapon_symptom_van
+bip_39_word_underscore_6: advice_capable_weapon_symptom_van_cat
+bip_39_word_underscore_7: advice_capable_weapon_symptom_van_cat_nasty
+bip_39_word_underscore_8: advice_capable_weapon_symptom_van_cat_nasty_tilt
+bip_39_word_underscore_9: advice_capable_weapon_symptom_van_cat_nasty_tilt_federal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | obey |  
+| bip_39_word_dash_10 | obey-pen-enforce-useless-museum-arrange-suspect-put-first-payment |  
+| bip_39_word_dash_11 | obey-pen-enforce-useless-museum-arrange-suspect-put-first-payment-love |  
+| bip_39_word_dash_12 | obey-pen-enforce-useless-museum-arrange-suspect-put-first-payment-love-album |  
+| bip_39_word_dash_2 | obey-pen |  
+| bip_39_word_dash_3 | obey-pen-enforce |  
+| bip_39_word_dash_4 | obey-pen-enforce-useless |  
+| bip_39_word_dash_5 | obey-pen-enforce-useless-museum |  
+| bip_39_word_dash_6 | obey-pen-enforce-useless-museum-arrange |  
+| bip_39_word_dash_7 | obey-pen-enforce-useless-museum-arrange-suspect |  
+| bip_39_word_dash_8 | obey-pen-enforce-useless-museum-arrange-suspect-put |  
+| bip_39_word_dash_9 | obey-pen-enforce-useless-museum-arrange-suspect-put-first |  
 | bip_39_word_new_br_1 | obey |  
 | bip_39_word_new_br_10 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment |  
 | bip_39_word_new_br_11 | obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment<br>love |  
@@ -147,6 +159,18 @@ first |
 | bip_39_word_space_7 | obey pen enforce useless museum arrange suspect |  
 | bip_39_word_space_8 | obey pen enforce useless museum arrange suspect put |  
 | bip_39_word_space_9 | obey pen enforce useless museum arrange suspect put first |  
+| bip_39_word_underscore_1 | obey |  
+| bip_39_word_underscore_10 | obey_pen_enforce_useless_museum_arrange_suspect_put_first_payment |  
+| bip_39_word_underscore_11 | obey_pen_enforce_useless_museum_arrange_suspect_put_first_payment_love |  
+| bip_39_word_underscore_12 | obey_pen_enforce_useless_museum_arrange_suspect_put_first_payment_love_album |  
+| bip_39_word_underscore_2 | obey_pen |  
+| bip_39_word_underscore_3 | obey_pen_enforce |  
+| bip_39_word_underscore_4 | obey_pen_enforce_useless |  
+| bip_39_word_underscore_5 | obey_pen_enforce_useless_museum |  
+| bip_39_word_underscore_6 | obey_pen_enforce_useless_museum_arrange |  
+| bip_39_word_underscore_7 | obey_pen_enforce_useless_museum_arrange_suspect |  
+| bip_39_word_underscore_8 | obey_pen_enforce_useless_museum_arrange_suspect_put |  
+| bip_39_word_underscore_9 | obey_pen_enforce_useless_museum_arrange_suspect_put_first |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

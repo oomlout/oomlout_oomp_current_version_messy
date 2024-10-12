@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arch |  
+| bip_39_word_dash_10 | arch-elephant-loyal-glimpse-plunge-glare-produce-trick-glance-spot |  
+| bip_39_word_dash_11 | arch-elephant-loyal-glimpse-plunge-glare-produce-trick-glance-spot-diamond |  
+| bip_39_word_dash_12 | arch-elephant-loyal-glimpse-plunge-glare-produce-trick-glance-spot-diamond-actor |  
+| bip_39_word_dash_2 | arch-elephant |  
+| bip_39_word_dash_3 | arch-elephant-loyal |  
+| bip_39_word_dash_4 | arch-elephant-loyal-glimpse |  
+| bip_39_word_dash_5 | arch-elephant-loyal-glimpse-plunge |  
+| bip_39_word_dash_6 | arch-elephant-loyal-glimpse-plunge-glare |  
+| bip_39_word_dash_7 | arch-elephant-loyal-glimpse-plunge-glare-produce |  
+| bip_39_word_dash_8 | arch-elephant-loyal-glimpse-plunge-glare-produce-trick |  
+| bip_39_word_dash_9 | arch-elephant-loyal-glimpse-plunge-glare-produce-trick-glance |  
 | bip_39_word_new_br_1 | arch |  
 | bip_39_word_new_br_10 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick<br>glance<br>spot |  
 | bip_39_word_new_br_11 | arch<br>elephant<br>loyal<br>glimpse<br>plunge<br>glare<br>produce<br>trick<br>glance<br>spot<br>diamond |  
@@ -147,6 +159,18 @@ glance |
 | bip_39_word_space_7 | arch elephant loyal glimpse plunge glare produce |  
 | bip_39_word_space_8 | arch elephant loyal glimpse plunge glare produce trick |  
 | bip_39_word_space_9 | arch elephant loyal glimpse plunge glare produce trick glance |  
+| bip_39_word_underscore_1 | arch |  
+| bip_39_word_underscore_10 | arch_elephant_loyal_glimpse_plunge_glare_produce_trick_glance_spot |  
+| bip_39_word_underscore_11 | arch_elephant_loyal_glimpse_plunge_glare_produce_trick_glance_spot_diamond |  
+| bip_39_word_underscore_12 | arch_elephant_loyal_glimpse_plunge_glare_produce_trick_glance_spot_diamond_actor |  
+| bip_39_word_underscore_2 | arch_elephant |  
+| bip_39_word_underscore_3 | arch_elephant_loyal |  
+| bip_39_word_underscore_4 | arch_elephant_loyal_glimpse |  
+| bip_39_word_underscore_5 | arch_elephant_loyal_glimpse_plunge |  
+| bip_39_word_underscore_6 | arch_elephant_loyal_glimpse_plunge_glare |  
+| bip_39_word_underscore_7 | arch_elephant_loyal_glimpse_plunge_glare_produce |  
+| bip_39_word_underscore_8 | arch_elephant_loyal_glimpse_plunge_glare_produce_trick |  
+| bip_39_word_underscore_9 | arch_elephant_loyal_glimpse_plunge_glare_produce_trick_glance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

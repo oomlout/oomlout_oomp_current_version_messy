@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | design |  
+| bip_39_word_dash_10 | design-best-flash-extra-core-interest-brand-magic-crystal-regret |  
+| bip_39_word_dash_11 | design-best-flash-extra-core-interest-brand-magic-crystal-regret-table |  
+| bip_39_word_dash_12 | design-best-flash-extra-core-interest-brand-magic-crystal-regret-table-abuse |  
+| bip_39_word_dash_2 | design-best |  
+| bip_39_word_dash_3 | design-best-flash |  
+| bip_39_word_dash_4 | design-best-flash-extra |  
+| bip_39_word_dash_5 | design-best-flash-extra-core |  
+| bip_39_word_dash_6 | design-best-flash-extra-core-interest |  
+| bip_39_word_dash_7 | design-best-flash-extra-core-interest-brand |  
+| bip_39_word_dash_8 | design-best-flash-extra-core-interest-brand-magic |  
+| bip_39_word_dash_9 | design-best-flash-extra-core-interest-brand-magic-crystal |  
 | bip_39_word_new_br_1 | design |  
 | bip_39_word_new_br_10 | design<br>best<br>flash<br>extra<br>core<br>interest<br>brand<br>magic<br>crystal<br>regret |  
 | bip_39_word_new_br_11 | design<br>best<br>flash<br>extra<br>core<br>interest<br>brand<br>magic<br>crystal<br>regret<br>table |  
@@ -147,6 +159,18 @@ crystal |
 | bip_39_word_space_7 | design best flash extra core interest brand |  
 | bip_39_word_space_8 | design best flash extra core interest brand magic |  
 | bip_39_word_space_9 | design best flash extra core interest brand magic crystal |  
+| bip_39_word_underscore_1 | design |  
+| bip_39_word_underscore_10 | design_best_flash_extra_core_interest_brand_magic_crystal_regret |  
+| bip_39_word_underscore_11 | design_best_flash_extra_core_interest_brand_magic_crystal_regret_table |  
+| bip_39_word_underscore_12 | design_best_flash_extra_core_interest_brand_magic_crystal_regret_table_abuse |  
+| bip_39_word_underscore_2 | design_best |  
+| bip_39_word_underscore_3 | design_best_flash |  
+| bip_39_word_underscore_4 | design_best_flash_extra |  
+| bip_39_word_underscore_5 | design_best_flash_extra_core |  
+| bip_39_word_underscore_6 | design_best_flash_extra_core_interest |  
+| bip_39_word_underscore_7 | design_best_flash_extra_core_interest_brand |  
+| bip_39_word_underscore_8 | design_best_flash_extra_core_interest_brand_magic |  
+| bip_39_word_underscore_9 | design_best_flash_extra_core_interest_brand_magic_crystal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | club |  
+| bip_39_word_dash_10 | club-trash-lake-tower-glue-interest-fresh-journey-artefact-another |  
+| bip_39_word_dash_11 | club-trash-lake-tower-glue-interest-fresh-journey-artefact-another-echo |  
+| bip_39_word_dash_12 | club-trash-lake-tower-glue-interest-fresh-journey-artefact-another-echo-allow |  
+| bip_39_word_dash_2 | club-trash |  
+| bip_39_word_dash_3 | club-trash-lake |  
+| bip_39_word_dash_4 | club-trash-lake-tower |  
+| bip_39_word_dash_5 | club-trash-lake-tower-glue |  
+| bip_39_word_dash_6 | club-trash-lake-tower-glue-interest |  
+| bip_39_word_dash_7 | club-trash-lake-tower-glue-interest-fresh |  
+| bip_39_word_dash_8 | club-trash-lake-tower-glue-interest-fresh-journey |  
+| bip_39_word_dash_9 | club-trash-lake-tower-glue-interest-fresh-journey-artefact |  
 | bip_39_word_new_br_1 | club |  
 | bip_39_word_new_br_10 | club<br>trash<br>lake<br>tower<br>glue<br>interest<br>fresh<br>journey<br>artefact<br>another |  
 | bip_39_word_new_br_11 | club<br>trash<br>lake<br>tower<br>glue<br>interest<br>fresh<br>journey<br>artefact<br>another<br>echo |  
@@ -147,6 +159,18 @@ artefact |
 | bip_39_word_space_7 | club trash lake tower glue interest fresh |  
 | bip_39_word_space_8 | club trash lake tower glue interest fresh journey |  
 | bip_39_word_space_9 | club trash lake tower glue interest fresh journey artefact |  
+| bip_39_word_underscore_1 | club |  
+| bip_39_word_underscore_10 | club_trash_lake_tower_glue_interest_fresh_journey_artefact_another |  
+| bip_39_word_underscore_11 | club_trash_lake_tower_glue_interest_fresh_journey_artefact_another_echo |  
+| bip_39_word_underscore_12 | club_trash_lake_tower_glue_interest_fresh_journey_artefact_another_echo_allow |  
+| bip_39_word_underscore_2 | club_trash |  
+| bip_39_word_underscore_3 | club_trash_lake |  
+| bip_39_word_underscore_4 | club_trash_lake_tower |  
+| bip_39_word_underscore_5 | club_trash_lake_tower_glue |  
+| bip_39_word_underscore_6 | club_trash_lake_tower_glue_interest |  
+| bip_39_word_underscore_7 | club_trash_lake_tower_glue_interest_fresh |  
+| bip_39_word_underscore_8 | club_trash_lake_tower_glue_interest_fresh_journey |  
+| bip_39_word_underscore_9 | club_trash_lake_tower_glue_interest_fresh_journey_artefact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

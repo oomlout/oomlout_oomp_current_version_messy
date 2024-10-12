@@ -1,3 +1,15 @@
+bip_39_word_dash_1: chat
+bip_39_word_dash_10: chat-salad-bone-drama-labor-ill-warrior-color-hybrid-slim
+bip_39_word_dash_11: chat-salad-bone-drama-labor-ill-warrior-color-hybrid-slim-vibrant
+bip_39_word_dash_12: chat-salad-bone-drama-labor-ill-warrior-color-hybrid-slim-vibrant-athlete
+bip_39_word_dash_2: chat-salad
+bip_39_word_dash_3: chat-salad-bone
+bip_39_word_dash_4: chat-salad-bone-drama
+bip_39_word_dash_5: chat-salad-bone-drama-labor
+bip_39_word_dash_6: chat-salad-bone-drama-labor-ill
+bip_39_word_dash_7: chat-salad-bone-drama-labor-ill-warrior
+bip_39_word_dash_8: chat-salad-bone-drama-labor-ill-warrior-color
+bip_39_word_dash_9: chat-salad-bone-drama-labor-ill-warrior-color-hybrid
 bip_39_word_new_br_1: chat
 bip_39_word_new_br_10: chat<br>salad<br>bone<br>drama<br>labor<br>ill<br>warrior<br>color<br>hybrid<br>slim
 bip_39_word_new_br_11: chat<br>salad<br>bone<br>drama<br>labor<br>ill<br>warrior<br>color<br>hybrid<br>slim<br>vibrant
@@ -192,6 +204,18 @@ bip_39_word_space_6: chat salad bone drama labor ill
 bip_39_word_space_7: chat salad bone drama labor ill warrior
 bip_39_word_space_8: chat salad bone drama labor ill warrior color
 bip_39_word_space_9: chat salad bone drama labor ill warrior color hybrid
+bip_39_word_underscore_1: chat
+bip_39_word_underscore_10: chat_salad_bone_drama_labor_ill_warrior_color_hybrid_slim
+bip_39_word_underscore_11: chat_salad_bone_drama_labor_ill_warrior_color_hybrid_slim_vibrant
+bip_39_word_underscore_12: chat_salad_bone_drama_labor_ill_warrior_color_hybrid_slim_vibrant_athlete
+bip_39_word_underscore_2: chat_salad
+bip_39_word_underscore_3: chat_salad_bone
+bip_39_word_underscore_4: chat_salad_bone_drama
+bip_39_word_underscore_5: chat_salad_bone_drama_labor
+bip_39_word_underscore_6: chat_salad_bone_drama_labor_ill
+bip_39_word_underscore_7: chat_salad_bone_drama_labor_ill_warrior
+bip_39_word_underscore_8: chat_salad_bone_drama_labor_ill_warrior_color
+bip_39_word_underscore_9: chat_salad_bone_drama_labor_ill_warrior_color_hybrid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

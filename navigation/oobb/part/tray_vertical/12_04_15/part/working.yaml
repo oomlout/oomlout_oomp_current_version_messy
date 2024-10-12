@@ -1,3 +1,15 @@
+bip_39_word_dash_1: slide
+bip_39_word_dash_10: slide-van-parade-clerk-sentence-quick-knife-error-kite-pave
+bip_39_word_dash_11: slide-van-parade-clerk-sentence-quick-knife-error-kite-pave-joy
+bip_39_word_dash_12: slide-van-parade-clerk-sentence-quick-knife-error-kite-pave-joy-accident
+bip_39_word_dash_2: slide-van
+bip_39_word_dash_3: slide-van-parade
+bip_39_word_dash_4: slide-van-parade-clerk
+bip_39_word_dash_5: slide-van-parade-clerk-sentence
+bip_39_word_dash_6: slide-van-parade-clerk-sentence-quick
+bip_39_word_dash_7: slide-van-parade-clerk-sentence-quick-knife
+bip_39_word_dash_8: slide-van-parade-clerk-sentence-quick-knife-error
+bip_39_word_dash_9: slide-van-parade-clerk-sentence-quick-knife-error-kite
 bip_39_word_new_br_1: slide
 bip_39_word_new_br_10: slide<br>van<br>parade<br>clerk<br>sentence<br>quick<br>knife<br>error<br>kite<br>pave
 bip_39_word_new_br_11: slide<br>van<br>parade<br>clerk<br>sentence<br>quick<br>knife<br>error<br>kite<br>pave<br>joy
@@ -193,6 +205,18 @@ bip_39_word_space_6: slide van parade clerk sentence quick
 bip_39_word_space_7: slide van parade clerk sentence quick knife
 bip_39_word_space_8: slide van parade clerk sentence quick knife error
 bip_39_word_space_9: slide van parade clerk sentence quick knife error kite
+bip_39_word_underscore_1: slide
+bip_39_word_underscore_10: slide_van_parade_clerk_sentence_quick_knife_error_kite_pave
+bip_39_word_underscore_11: slide_van_parade_clerk_sentence_quick_knife_error_kite_pave_joy
+bip_39_word_underscore_12: slide_van_parade_clerk_sentence_quick_knife_error_kite_pave_joy_accident
+bip_39_word_underscore_2: slide_van
+bip_39_word_underscore_3: slide_van_parade
+bip_39_word_underscore_4: slide_van_parade_clerk
+bip_39_word_underscore_5: slide_van_parade_clerk_sentence
+bip_39_word_underscore_6: slide_van_parade_clerk_sentence_quick
+bip_39_word_underscore_7: slide_van_parade_clerk_sentence_quick_knife
+bip_39_word_underscore_8: slide_van_parade_clerk_sentence_quick_knife_error
+bip_39_word_underscore_9: slide_van_parade_clerk_sentence_quick_knife_error_kite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

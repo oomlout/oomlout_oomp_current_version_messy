@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | melody |  
+| bip_39_word_dash_10 | melody-mule-park-process-sauce-sphere-fetch-express-under-shallow |  
+| bip_39_word_dash_11 | melody-mule-park-process-sauce-sphere-fetch-express-under-shallow-theme |  
+| bip_39_word_dash_12 | melody-mule-park-process-sauce-sphere-fetch-express-under-shallow-theme-advance |  
+| bip_39_word_dash_2 | melody-mule |  
+| bip_39_word_dash_3 | melody-mule-park |  
+| bip_39_word_dash_4 | melody-mule-park-process |  
+| bip_39_word_dash_5 | melody-mule-park-process-sauce |  
+| bip_39_word_dash_6 | melody-mule-park-process-sauce-sphere |  
+| bip_39_word_dash_7 | melody-mule-park-process-sauce-sphere-fetch |  
+| bip_39_word_dash_8 | melody-mule-park-process-sauce-sphere-fetch-express |  
+| bip_39_word_dash_9 | melody-mule-park-process-sauce-sphere-fetch-express-under |  
 | bip_39_word_new_br_1 | melody |  
 | bip_39_word_new_br_10 | melody<br>mule<br>park<br>process<br>sauce<br>sphere<br>fetch<br>express<br>under<br>shallow |  
 | bip_39_word_new_br_11 | melody<br>mule<br>park<br>process<br>sauce<br>sphere<br>fetch<br>express<br>under<br>shallow<br>theme |  
@@ -147,6 +159,18 @@ under |
 | bip_39_word_space_7 | melody mule park process sauce sphere fetch |  
 | bip_39_word_space_8 | melody mule park process sauce sphere fetch express |  
 | bip_39_word_space_9 | melody mule park process sauce sphere fetch express under |  
+| bip_39_word_underscore_1 | melody |  
+| bip_39_word_underscore_10 | melody_mule_park_process_sauce_sphere_fetch_express_under_shallow |  
+| bip_39_word_underscore_11 | melody_mule_park_process_sauce_sphere_fetch_express_under_shallow_theme |  
+| bip_39_word_underscore_12 | melody_mule_park_process_sauce_sphere_fetch_express_under_shallow_theme_advance |  
+| bip_39_word_underscore_2 | melody_mule |  
+| bip_39_word_underscore_3 | melody_mule_park |  
+| bip_39_word_underscore_4 | melody_mule_park_process |  
+| bip_39_word_underscore_5 | melody_mule_park_process_sauce |  
+| bip_39_word_underscore_6 | melody_mule_park_process_sauce_sphere |  
+| bip_39_word_underscore_7 | melody_mule_park_process_sauce_sphere_fetch |  
+| bip_39_word_underscore_8 | melody_mule_park_process_sauce_sphere_fetch_express |  
+| bip_39_word_underscore_9 | melody_mule_park_process_sauce_sphere_fetch_express_under |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

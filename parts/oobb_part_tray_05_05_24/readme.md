@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sniff |  
+| bip_39_word_dash_10 | sniff-horn-drink-memory-raw-filter-chief-demise-long-payment |  
+| bip_39_word_dash_11 | sniff-horn-drink-memory-raw-filter-chief-demise-long-payment-tattoo |  
+| bip_39_word_dash_12 | sniff-horn-drink-memory-raw-filter-chief-demise-long-payment-tattoo-announce |  
+| bip_39_word_dash_2 | sniff-horn |  
+| bip_39_word_dash_3 | sniff-horn-drink |  
+| bip_39_word_dash_4 | sniff-horn-drink-memory |  
+| bip_39_word_dash_5 | sniff-horn-drink-memory-raw |  
+| bip_39_word_dash_6 | sniff-horn-drink-memory-raw-filter |  
+| bip_39_word_dash_7 | sniff-horn-drink-memory-raw-filter-chief |  
+| bip_39_word_dash_8 | sniff-horn-drink-memory-raw-filter-chief-demise |  
+| bip_39_word_dash_9 | sniff-horn-drink-memory-raw-filter-chief-demise-long |  
 | bip_39_word_new_br_1 | sniff |  
 | bip_39_word_new_br_10 | sniff<br>horn<br>drink<br>memory<br>raw<br>filter<br>chief<br>demise<br>long<br>payment |  
 | bip_39_word_new_br_11 | sniff<br>horn<br>drink<br>memory<br>raw<br>filter<br>chief<br>demise<br>long<br>payment<br>tattoo |  
@@ -147,6 +159,18 @@ long |
 | bip_39_word_space_7 | sniff horn drink memory raw filter chief |  
 | bip_39_word_space_8 | sniff horn drink memory raw filter chief demise |  
 | bip_39_word_space_9 | sniff horn drink memory raw filter chief demise long |  
+| bip_39_word_underscore_1 | sniff |  
+| bip_39_word_underscore_10 | sniff_horn_drink_memory_raw_filter_chief_demise_long_payment |  
+| bip_39_word_underscore_11 | sniff_horn_drink_memory_raw_filter_chief_demise_long_payment_tattoo |  
+| bip_39_word_underscore_12 | sniff_horn_drink_memory_raw_filter_chief_demise_long_payment_tattoo_announce |  
+| bip_39_word_underscore_2 | sniff_horn |  
+| bip_39_word_underscore_3 | sniff_horn_drink |  
+| bip_39_word_underscore_4 | sniff_horn_drink_memory |  
+| bip_39_word_underscore_5 | sniff_horn_drink_memory_raw |  
+| bip_39_word_underscore_6 | sniff_horn_drink_memory_raw_filter |  
+| bip_39_word_underscore_7 | sniff_horn_drink_memory_raw_filter_chief |  
+| bip_39_word_underscore_8 | sniff_horn_drink_memory_raw_filter_chief_demise |  
+| bip_39_word_underscore_9 | sniff_horn_drink_memory_raw_filter_chief_demise_long |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

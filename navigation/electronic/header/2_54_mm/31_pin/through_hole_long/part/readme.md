@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | property |  
+| bip_39_word_dash_10 | property-special-rigid-rotate-sniff-stem-mixed-sponsor-tourist-club |  
+| bip_39_word_dash_11 | property-special-rigid-rotate-sniff-stem-mixed-sponsor-tourist-club-holiday |  
+| bip_39_word_dash_12 | property-special-rigid-rotate-sniff-stem-mixed-sponsor-tourist-club-holiday-apple |  
+| bip_39_word_dash_2 | property-special |  
+| bip_39_word_dash_3 | property-special-rigid |  
+| bip_39_word_dash_4 | property-special-rigid-rotate |  
+| bip_39_word_dash_5 | property-special-rigid-rotate-sniff |  
+| bip_39_word_dash_6 | property-special-rigid-rotate-sniff-stem |  
+| bip_39_word_dash_7 | property-special-rigid-rotate-sniff-stem-mixed |  
+| bip_39_word_dash_8 | property-special-rigid-rotate-sniff-stem-mixed-sponsor |  
+| bip_39_word_dash_9 | property-special-rigid-rotate-sniff-stem-mixed-sponsor-tourist |  
 | bip_39_word_new_br_1 | property |  
 | bip_39_word_new_br_10 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor<br>tourist<br>club |  
 | bip_39_word_new_br_11 | property<br>special<br>rigid<br>rotate<br>sniff<br>stem<br>mixed<br>sponsor<br>tourist<br>club<br>holiday |  
@@ -147,6 +159,18 @@ tourist |
 | bip_39_word_space_7 | property special rigid rotate sniff stem mixed |  
 | bip_39_word_space_8 | property special rigid rotate sniff stem mixed sponsor |  
 | bip_39_word_space_9 | property special rigid rotate sniff stem mixed sponsor tourist |  
+| bip_39_word_underscore_1 | property |  
+| bip_39_word_underscore_10 | property_special_rigid_rotate_sniff_stem_mixed_sponsor_tourist_club |  
+| bip_39_word_underscore_11 | property_special_rigid_rotate_sniff_stem_mixed_sponsor_tourist_club_holiday |  
+| bip_39_word_underscore_12 | property_special_rigid_rotate_sniff_stem_mixed_sponsor_tourist_club_holiday_apple |  
+| bip_39_word_underscore_2 | property_special |  
+| bip_39_word_underscore_3 | property_special_rigid |  
+| bip_39_word_underscore_4 | property_special_rigid_rotate |  
+| bip_39_word_underscore_5 | property_special_rigid_rotate_sniff |  
+| bip_39_word_underscore_6 | property_special_rigid_rotate_sniff_stem |  
+| bip_39_word_underscore_7 | property_special_rigid_rotate_sniff_stem_mixed |  
+| bip_39_word_underscore_8 | property_special_rigid_rotate_sniff_stem_mixed_sponsor |  
+| bip_39_word_underscore_9 | property_special_rigid_rotate_sniff_stem_mixed_sponsor_tourist |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: loyal
+bip_39_word_dash_10: loyal-rebuild-shoulder-convince-judge-edit-gasp-chaos-room-fiber
+bip_39_word_dash_11: loyal-rebuild-shoulder-convince-judge-edit-gasp-chaos-room-fiber-sheriff
+bip_39_word_dash_12: loyal-rebuild-shoulder-convince-judge-edit-gasp-chaos-room-fiber-sheriff-armor
+bip_39_word_dash_2: loyal-rebuild
+bip_39_word_dash_3: loyal-rebuild-shoulder
+bip_39_word_dash_4: loyal-rebuild-shoulder-convince
+bip_39_word_dash_5: loyal-rebuild-shoulder-convince-judge
+bip_39_word_dash_6: loyal-rebuild-shoulder-convince-judge-edit
+bip_39_word_dash_7: loyal-rebuild-shoulder-convince-judge-edit-gasp
+bip_39_word_dash_8: loyal-rebuild-shoulder-convince-judge-edit-gasp-chaos
+bip_39_word_dash_9: loyal-rebuild-shoulder-convince-judge-edit-gasp-chaos-room
 bip_39_word_new_br_1: loyal
 bip_39_word_new_br_10: loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber
 bip_39_word_new_br_11: loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber<br>sheriff
@@ -193,6 +205,18 @@ bip_39_word_space_6: loyal rebuild shoulder convince judge edit
 bip_39_word_space_7: loyal rebuild shoulder convince judge edit gasp
 bip_39_word_space_8: loyal rebuild shoulder convince judge edit gasp chaos
 bip_39_word_space_9: loyal rebuild shoulder convince judge edit gasp chaos room
+bip_39_word_underscore_1: loyal
+bip_39_word_underscore_10: loyal_rebuild_shoulder_convince_judge_edit_gasp_chaos_room_fiber
+bip_39_word_underscore_11: loyal_rebuild_shoulder_convince_judge_edit_gasp_chaos_room_fiber_sheriff
+bip_39_word_underscore_12: loyal_rebuild_shoulder_convince_judge_edit_gasp_chaos_room_fiber_sheriff_armor
+bip_39_word_underscore_2: loyal_rebuild
+bip_39_word_underscore_3: loyal_rebuild_shoulder
+bip_39_word_underscore_4: loyal_rebuild_shoulder_convince
+bip_39_word_underscore_5: loyal_rebuild_shoulder_convince_judge
+bip_39_word_underscore_6: loyal_rebuild_shoulder_convince_judge_edit
+bip_39_word_underscore_7: loyal_rebuild_shoulder_convince_judge_edit_gasp
+bip_39_word_underscore_8: loyal_rebuild_shoulder_convince_judge_edit_gasp_chaos
+bip_39_word_underscore_9: loyal_rebuild_shoulder_convince_judge_edit_gasp_chaos_room
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lecture
+bip_39_word_dash_10: lecture-breeze-river-normal-dawn-frozen-pumpkin-weekend-loud-knee
+bip_39_word_dash_11: lecture-breeze-river-normal-dawn-frozen-pumpkin-weekend-loud-knee-south
+bip_39_word_dash_12: lecture-breeze-river-normal-dawn-frozen-pumpkin-weekend-loud-knee-south-adult
+bip_39_word_dash_2: lecture-breeze
+bip_39_word_dash_3: lecture-breeze-river
+bip_39_word_dash_4: lecture-breeze-river-normal
+bip_39_word_dash_5: lecture-breeze-river-normal-dawn
+bip_39_word_dash_6: lecture-breeze-river-normal-dawn-frozen
+bip_39_word_dash_7: lecture-breeze-river-normal-dawn-frozen-pumpkin
+bip_39_word_dash_8: lecture-breeze-river-normal-dawn-frozen-pumpkin-weekend
+bip_39_word_dash_9: lecture-breeze-river-normal-dawn-frozen-pumpkin-weekend-loud
 bip_39_word_new_br_1: lecture
 bip_39_word_new_br_10: lecture<br>breeze<br>river<br>normal<br>dawn<br>frozen<br>pumpkin<br>weekend<br>loud<br>knee
 bip_39_word_new_br_11: lecture<br>breeze<br>river<br>normal<br>dawn<br>frozen<br>pumpkin<br>weekend<br>loud<br>knee<br>south
@@ -194,6 +206,18 @@ bip_39_word_space_6: lecture breeze river normal dawn frozen
 bip_39_word_space_7: lecture breeze river normal dawn frozen pumpkin
 bip_39_word_space_8: lecture breeze river normal dawn frozen pumpkin weekend
 bip_39_word_space_9: lecture breeze river normal dawn frozen pumpkin weekend loud
+bip_39_word_underscore_1: lecture
+bip_39_word_underscore_10: lecture_breeze_river_normal_dawn_frozen_pumpkin_weekend_loud_knee
+bip_39_word_underscore_11: lecture_breeze_river_normal_dawn_frozen_pumpkin_weekend_loud_knee_south
+bip_39_word_underscore_12: lecture_breeze_river_normal_dawn_frozen_pumpkin_weekend_loud_knee_south_adult
+bip_39_word_underscore_2: lecture_breeze
+bip_39_word_underscore_3: lecture_breeze_river
+bip_39_word_underscore_4: lecture_breeze_river_normal
+bip_39_word_underscore_5: lecture_breeze_river_normal_dawn
+bip_39_word_underscore_6: lecture_breeze_river_normal_dawn_frozen
+bip_39_word_underscore_7: lecture_breeze_river_normal_dawn_frozen_pumpkin
+bip_39_word_underscore_8: lecture_breeze_river_normal_dawn_frozen_pumpkin_weekend
+bip_39_word_underscore_9: lecture_breeze_river_normal_dawn_frozen_pumpkin_weekend_loud
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: demand
+bip_39_word_dash_10: demand-anger-cricket-upgrade-venture-bacon-shed-ugly-toilet-ginger
+bip_39_word_dash_11: demand-anger-cricket-upgrade-venture-bacon-shed-ugly-toilet-ginger-office
+bip_39_word_dash_12: demand-anger-cricket-upgrade-venture-bacon-shed-ugly-toilet-ginger-office-always
+bip_39_word_dash_2: demand-anger
+bip_39_word_dash_3: demand-anger-cricket
+bip_39_word_dash_4: demand-anger-cricket-upgrade
+bip_39_word_dash_5: demand-anger-cricket-upgrade-venture
+bip_39_word_dash_6: demand-anger-cricket-upgrade-venture-bacon
+bip_39_word_dash_7: demand-anger-cricket-upgrade-venture-bacon-shed
+bip_39_word_dash_8: demand-anger-cricket-upgrade-venture-bacon-shed-ugly
+bip_39_word_dash_9: demand-anger-cricket-upgrade-venture-bacon-shed-ugly-toilet
 bip_39_word_new_br_1: demand
 bip_39_word_new_br_10: demand<br>anger<br>cricket<br>upgrade<br>venture<br>bacon<br>shed<br>ugly<br>toilet<br>ginger
 bip_39_word_new_br_11: demand<br>anger<br>cricket<br>upgrade<br>venture<br>bacon<br>shed<br>ugly<br>toilet<br>ginger<br>office
@@ -194,6 +206,18 @@ bip_39_word_space_6: demand anger cricket upgrade venture bacon
 bip_39_word_space_7: demand anger cricket upgrade venture bacon shed
 bip_39_word_space_8: demand anger cricket upgrade venture bacon shed ugly
 bip_39_word_space_9: demand anger cricket upgrade venture bacon shed ugly toilet
+bip_39_word_underscore_1: demand
+bip_39_word_underscore_10: demand_anger_cricket_upgrade_venture_bacon_shed_ugly_toilet_ginger
+bip_39_word_underscore_11: demand_anger_cricket_upgrade_venture_bacon_shed_ugly_toilet_ginger_office
+bip_39_word_underscore_12: demand_anger_cricket_upgrade_venture_bacon_shed_ugly_toilet_ginger_office_always
+bip_39_word_underscore_2: demand_anger
+bip_39_word_underscore_3: demand_anger_cricket
+bip_39_word_underscore_4: demand_anger_cricket_upgrade
+bip_39_word_underscore_5: demand_anger_cricket_upgrade_venture
+bip_39_word_underscore_6: demand_anger_cricket_upgrade_venture_bacon
+bip_39_word_underscore_7: demand_anger_cricket_upgrade_venture_bacon_shed
+bip_39_word_underscore_8: demand_anger_cricket_upgrade_venture_bacon_shed_ugly
+bip_39_word_underscore_9: demand_anger_cricket_upgrade_venture_bacon_shed_ugly_toilet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

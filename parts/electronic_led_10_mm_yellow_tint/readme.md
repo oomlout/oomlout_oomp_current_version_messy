@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | muscle |  
+| bip_39_word_dash_10 | muscle-lunch-hat-front-genuine-biology-rigid-mammal-coin-brick |  
+| bip_39_word_dash_11 | muscle-lunch-hat-front-genuine-biology-rigid-mammal-coin-brick-sort |  
+| bip_39_word_dash_12 | muscle-lunch-hat-front-genuine-biology-rigid-mammal-coin-brick-sort-around |  
+| bip_39_word_dash_2 | muscle-lunch |  
+| bip_39_word_dash_3 | muscle-lunch-hat |  
+| bip_39_word_dash_4 | muscle-lunch-hat-front |  
+| bip_39_word_dash_5 | muscle-lunch-hat-front-genuine |  
+| bip_39_word_dash_6 | muscle-lunch-hat-front-genuine-biology |  
+| bip_39_word_dash_7 | muscle-lunch-hat-front-genuine-biology-rigid |  
+| bip_39_word_dash_8 | muscle-lunch-hat-front-genuine-biology-rigid-mammal |  
+| bip_39_word_dash_9 | muscle-lunch-hat-front-genuine-biology-rigid-mammal-coin |  
 | bip_39_word_new_br_1 | muscle |  
 | bip_39_word_new_br_10 | muscle<br>lunch<br>hat<br>front<br>genuine<br>biology<br>rigid<br>mammal<br>coin<br>brick |  
 | bip_39_word_new_br_11 | muscle<br>lunch<br>hat<br>front<br>genuine<br>biology<br>rigid<br>mammal<br>coin<br>brick<br>sort |  
@@ -147,6 +159,18 @@ coin |
 | bip_39_word_space_7 | muscle lunch hat front genuine biology rigid |  
 | bip_39_word_space_8 | muscle lunch hat front genuine biology rigid mammal |  
 | bip_39_word_space_9 | muscle lunch hat front genuine biology rigid mammal coin |  
+| bip_39_word_underscore_1 | muscle |  
+| bip_39_word_underscore_10 | muscle_lunch_hat_front_genuine_biology_rigid_mammal_coin_brick |  
+| bip_39_word_underscore_11 | muscle_lunch_hat_front_genuine_biology_rigid_mammal_coin_brick_sort |  
+| bip_39_word_underscore_12 | muscle_lunch_hat_front_genuine_biology_rigid_mammal_coin_brick_sort_around |  
+| bip_39_word_underscore_2 | muscle_lunch |  
+| bip_39_word_underscore_3 | muscle_lunch_hat |  
+| bip_39_word_underscore_4 | muscle_lunch_hat_front |  
+| bip_39_word_underscore_5 | muscle_lunch_hat_front_genuine |  
+| bip_39_word_underscore_6 | muscle_lunch_hat_front_genuine_biology |  
+| bip_39_word_underscore_7 | muscle_lunch_hat_front_genuine_biology_rigid |  
+| bip_39_word_underscore_8 | muscle_lunch_hat_front_genuine_biology_rigid_mammal |  
+| bip_39_word_underscore_9 | muscle_lunch_hat_front_genuine_biology_rigid_mammal_coin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

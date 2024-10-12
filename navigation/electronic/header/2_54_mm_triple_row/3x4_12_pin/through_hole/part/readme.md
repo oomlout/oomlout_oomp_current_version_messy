@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | twenty |  
+| bip_39_word_dash_10 | twenty-blossom-grape-roof-cook-panda-setup-spin-sick-emerge |  
+| bip_39_word_dash_11 | twenty-blossom-grape-roof-cook-panda-setup-spin-sick-emerge-world |  
+| bip_39_word_dash_12 | twenty-blossom-grape-roof-cook-panda-setup-spin-sick-emerge-world-any |  
+| bip_39_word_dash_2 | twenty-blossom |  
+| bip_39_word_dash_3 | twenty-blossom-grape |  
+| bip_39_word_dash_4 | twenty-blossom-grape-roof |  
+| bip_39_word_dash_5 | twenty-blossom-grape-roof-cook |  
+| bip_39_word_dash_6 | twenty-blossom-grape-roof-cook-panda |  
+| bip_39_word_dash_7 | twenty-blossom-grape-roof-cook-panda-setup |  
+| bip_39_word_dash_8 | twenty-blossom-grape-roof-cook-panda-setup-spin |  
+| bip_39_word_dash_9 | twenty-blossom-grape-roof-cook-panda-setup-spin-sick |  
 | bip_39_word_new_br_1 | twenty |  
 | bip_39_word_new_br_10 | twenty<br>blossom<br>grape<br>roof<br>cook<br>panda<br>setup<br>spin<br>sick<br>emerge |  
 | bip_39_word_new_br_11 | twenty<br>blossom<br>grape<br>roof<br>cook<br>panda<br>setup<br>spin<br>sick<br>emerge<br>world |  
@@ -147,6 +159,18 @@ sick |
 | bip_39_word_space_7 | twenty blossom grape roof cook panda setup |  
 | bip_39_word_space_8 | twenty blossom grape roof cook panda setup spin |  
 | bip_39_word_space_9 | twenty blossom grape roof cook panda setup spin sick |  
+| bip_39_word_underscore_1 | twenty |  
+| bip_39_word_underscore_10 | twenty_blossom_grape_roof_cook_panda_setup_spin_sick_emerge |  
+| bip_39_word_underscore_11 | twenty_blossom_grape_roof_cook_panda_setup_spin_sick_emerge_world |  
+| bip_39_word_underscore_12 | twenty_blossom_grape_roof_cook_panda_setup_spin_sick_emerge_world_any |  
+| bip_39_word_underscore_2 | twenty_blossom |  
+| bip_39_word_underscore_3 | twenty_blossom_grape |  
+| bip_39_word_underscore_4 | twenty_blossom_grape_roof |  
+| bip_39_word_underscore_5 | twenty_blossom_grape_roof_cook |  
+| bip_39_word_underscore_6 | twenty_blossom_grape_roof_cook_panda |  
+| bip_39_word_underscore_7 | twenty_blossom_grape_roof_cook_panda_setup |  
+| bip_39_word_underscore_8 | twenty_blossom_grape_roof_cook_panda_setup_spin |  
+| bip_39_word_underscore_9 | twenty_blossom_grape_roof_cook_panda_setup_spin_sick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

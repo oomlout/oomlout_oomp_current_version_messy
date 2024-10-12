@@ -1,3 +1,15 @@
+bip_39_word_dash_1: teach
+bip_39_word_dash_10: teach-sudden-pet-squirrel-surge-early-bullet-remind-address-replace
+bip_39_word_dash_11: teach-sudden-pet-squirrel-surge-early-bullet-remind-address-replace-cargo
+bip_39_word_dash_12: teach-sudden-pet-squirrel-surge-early-bullet-remind-address-replace-cargo-amount
+bip_39_word_dash_2: teach-sudden
+bip_39_word_dash_3: teach-sudden-pet
+bip_39_word_dash_4: teach-sudden-pet-squirrel
+bip_39_word_dash_5: teach-sudden-pet-squirrel-surge
+bip_39_word_dash_6: teach-sudden-pet-squirrel-surge-early
+bip_39_word_dash_7: teach-sudden-pet-squirrel-surge-early-bullet
+bip_39_word_dash_8: teach-sudden-pet-squirrel-surge-early-bullet-remind
+bip_39_word_dash_9: teach-sudden-pet-squirrel-surge-early-bullet-remind-address
 bip_39_word_new_br_1: teach
 bip_39_word_new_br_10: teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace
 bip_39_word_new_br_11: teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace<br>cargo
@@ -194,6 +206,18 @@ bip_39_word_space_6: teach sudden pet squirrel surge early
 bip_39_word_space_7: teach sudden pet squirrel surge early bullet
 bip_39_word_space_8: teach sudden pet squirrel surge early bullet remind
 bip_39_word_space_9: teach sudden pet squirrel surge early bullet remind address
+bip_39_word_underscore_1: teach
+bip_39_word_underscore_10: teach_sudden_pet_squirrel_surge_early_bullet_remind_address_replace
+bip_39_word_underscore_11: teach_sudden_pet_squirrel_surge_early_bullet_remind_address_replace_cargo
+bip_39_word_underscore_12: teach_sudden_pet_squirrel_surge_early_bullet_remind_address_replace_cargo_amount
+bip_39_word_underscore_2: teach_sudden
+bip_39_word_underscore_3: teach_sudden_pet
+bip_39_word_underscore_4: teach_sudden_pet_squirrel
+bip_39_word_underscore_5: teach_sudden_pet_squirrel_surge
+bip_39_word_underscore_6: teach_sudden_pet_squirrel_surge_early
+bip_39_word_underscore_7: teach_sudden_pet_squirrel_surge_early_bullet
+bip_39_word_underscore_8: teach_sudden_pet_squirrel_surge_early_bullet_remind
+bip_39_word_underscore_9: teach_sudden_pet_squirrel_surge_early_bullet_remind_address
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

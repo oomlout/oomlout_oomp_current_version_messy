@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | road |  
+| bip_39_word_dash_10 | road-celery-scorpion-train-spoon-scene-mask-symbol-ladder-lunch |  
+| bip_39_word_dash_11 | road-celery-scorpion-train-spoon-scene-mask-symbol-ladder-lunch-unknown |  
+| bip_39_word_dash_12 | road-celery-scorpion-train-spoon-scene-mask-symbol-ladder-lunch-unknown-armor |  
+| bip_39_word_dash_2 | road-celery |  
+| bip_39_word_dash_3 | road-celery-scorpion |  
+| bip_39_word_dash_4 | road-celery-scorpion-train |  
+| bip_39_word_dash_5 | road-celery-scorpion-train-spoon |  
+| bip_39_word_dash_6 | road-celery-scorpion-train-spoon-scene |  
+| bip_39_word_dash_7 | road-celery-scorpion-train-spoon-scene-mask |  
+| bip_39_word_dash_8 | road-celery-scorpion-train-spoon-scene-mask-symbol |  
+| bip_39_word_dash_9 | road-celery-scorpion-train-spoon-scene-mask-symbol-ladder |  
 | bip_39_word_new_br_1 | road |  
 | bip_39_word_new_br_10 | road<br>celery<br>scorpion<br>train<br>spoon<br>scene<br>mask<br>symbol<br>ladder<br>lunch |  
 | bip_39_word_new_br_11 | road<br>celery<br>scorpion<br>train<br>spoon<br>scene<br>mask<br>symbol<br>ladder<br>lunch<br>unknown |  
@@ -147,6 +159,18 @@ ladder |
 | bip_39_word_space_7 | road celery scorpion train spoon scene mask |  
 | bip_39_word_space_8 | road celery scorpion train spoon scene mask symbol |  
 | bip_39_word_space_9 | road celery scorpion train spoon scene mask symbol ladder |  
+| bip_39_word_underscore_1 | road |  
+| bip_39_word_underscore_10 | road_celery_scorpion_train_spoon_scene_mask_symbol_ladder_lunch |  
+| bip_39_word_underscore_11 | road_celery_scorpion_train_spoon_scene_mask_symbol_ladder_lunch_unknown |  
+| bip_39_word_underscore_12 | road_celery_scorpion_train_spoon_scene_mask_symbol_ladder_lunch_unknown_armor |  
+| bip_39_word_underscore_2 | road_celery |  
+| bip_39_word_underscore_3 | road_celery_scorpion |  
+| bip_39_word_underscore_4 | road_celery_scorpion_train |  
+| bip_39_word_underscore_5 | road_celery_scorpion_train_spoon |  
+| bip_39_word_underscore_6 | road_celery_scorpion_train_spoon_scene |  
+| bip_39_word_underscore_7 | road_celery_scorpion_train_spoon_scene_mask |  
+| bip_39_word_underscore_8 | road_celery_scorpion_train_spoon_scene_mask_symbol |  
+| bip_39_word_underscore_9 | road_celery_scorpion_train_spoon_scene_mask_symbol_ladder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

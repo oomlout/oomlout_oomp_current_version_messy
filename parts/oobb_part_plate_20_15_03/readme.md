@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | agree |  
+| bip_39_word_dash_10 | agree-lunch-student-fruit-cable-exhibit-upon-entire-way-such |  
+| bip_39_word_dash_11 | agree-lunch-student-fruit-cable-exhibit-upon-entire-way-such-mountain |  
+| bip_39_word_dash_12 | agree-lunch-student-fruit-cable-exhibit-upon-entire-way-such-mountain-army |  
+| bip_39_word_dash_2 | agree-lunch |  
+| bip_39_word_dash_3 | agree-lunch-student |  
+| bip_39_word_dash_4 | agree-lunch-student-fruit |  
+| bip_39_word_dash_5 | agree-lunch-student-fruit-cable |  
+| bip_39_word_dash_6 | agree-lunch-student-fruit-cable-exhibit |  
+| bip_39_word_dash_7 | agree-lunch-student-fruit-cable-exhibit-upon |  
+| bip_39_word_dash_8 | agree-lunch-student-fruit-cable-exhibit-upon-entire |  
+| bip_39_word_dash_9 | agree-lunch-student-fruit-cable-exhibit-upon-entire-way |  
 | bip_39_word_new_br_1 | agree |  
 | bip_39_word_new_br_10 | agree<br>lunch<br>student<br>fruit<br>cable<br>exhibit<br>upon<br>entire<br>way<br>such |  
 | bip_39_word_new_br_11 | agree<br>lunch<br>student<br>fruit<br>cable<br>exhibit<br>upon<br>entire<br>way<br>such<br>mountain |  
@@ -147,6 +159,18 @@ way |
 | bip_39_word_space_7 | agree lunch student fruit cable exhibit upon |  
 | bip_39_word_space_8 | agree lunch student fruit cable exhibit upon entire |  
 | bip_39_word_space_9 | agree lunch student fruit cable exhibit upon entire way |  
+| bip_39_word_underscore_1 | agree |  
+| bip_39_word_underscore_10 | agree_lunch_student_fruit_cable_exhibit_upon_entire_way_such |  
+| bip_39_word_underscore_11 | agree_lunch_student_fruit_cable_exhibit_upon_entire_way_such_mountain |  
+| bip_39_word_underscore_12 | agree_lunch_student_fruit_cable_exhibit_upon_entire_way_such_mountain_army |  
+| bip_39_word_underscore_2 | agree_lunch |  
+| bip_39_word_underscore_3 | agree_lunch_student |  
+| bip_39_word_underscore_4 | agree_lunch_student_fruit |  
+| bip_39_word_underscore_5 | agree_lunch_student_fruit_cable |  
+| bip_39_word_underscore_6 | agree_lunch_student_fruit_cable_exhibit |  
+| bip_39_word_underscore_7 | agree_lunch_student_fruit_cable_exhibit_upon |  
+| bip_39_word_underscore_8 | agree_lunch_student_fruit_cable_exhibit_upon_entire |  
+| bip_39_word_underscore_9 | agree_lunch_student_fruit_cable_exhibit_upon_entire_way |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

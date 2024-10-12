@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gather
+bip_39_word_dash_10: gather-reduce-equip-gather-wait-august-arrow-table-avocado-valid
+bip_39_word_dash_11: gather-reduce-equip-gather-wait-august-arrow-table-avocado-valid-stick
+bip_39_word_dash_12: gather-reduce-equip-gather-wait-august-arrow-table-avocado-valid-stick-amused
+bip_39_word_dash_2: gather-reduce
+bip_39_word_dash_3: gather-reduce-equip
+bip_39_word_dash_4: gather-reduce-equip-gather
+bip_39_word_dash_5: gather-reduce-equip-gather-wait
+bip_39_word_dash_6: gather-reduce-equip-gather-wait-august
+bip_39_word_dash_7: gather-reduce-equip-gather-wait-august-arrow
+bip_39_word_dash_8: gather-reduce-equip-gather-wait-august-arrow-table
+bip_39_word_dash_9: gather-reduce-equip-gather-wait-august-arrow-table-avocado
 bip_39_word_new_br_1: gather
 bip_39_word_new_br_10: gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid
 bip_39_word_new_br_11: gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid<br>stick
@@ -193,6 +205,18 @@ bip_39_word_space_6: gather reduce equip gather wait august
 bip_39_word_space_7: gather reduce equip gather wait august arrow
 bip_39_word_space_8: gather reduce equip gather wait august arrow table
 bip_39_word_space_9: gather reduce equip gather wait august arrow table avocado
+bip_39_word_underscore_1: gather
+bip_39_word_underscore_10: gather_reduce_equip_gather_wait_august_arrow_table_avocado_valid
+bip_39_word_underscore_11: gather_reduce_equip_gather_wait_august_arrow_table_avocado_valid_stick
+bip_39_word_underscore_12: gather_reduce_equip_gather_wait_august_arrow_table_avocado_valid_stick_amused
+bip_39_word_underscore_2: gather_reduce
+bip_39_word_underscore_3: gather_reduce_equip
+bip_39_word_underscore_4: gather_reduce_equip_gather
+bip_39_word_underscore_5: gather_reduce_equip_gather_wait
+bip_39_word_underscore_6: gather_reduce_equip_gather_wait_august
+bip_39_word_underscore_7: gather_reduce_equip_gather_wait_august_arrow
+bip_39_word_underscore_8: gather_reduce_equip_gather_wait_august_arrow_table
+bip_39_word_underscore_9: gather_reduce_equip_gather_wait_august_arrow_table_avocado
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: duty
+bip_39_word_dash_10: duty-all-torch-phrase-reflect-spend-outside-found-arrest-topic
+bip_39_word_dash_11: duty-all-torch-phrase-reflect-spend-outside-found-arrest-topic-execute
+bip_39_word_dash_12: duty-all-torch-phrase-reflect-spend-outside-found-arrest-topic-execute-afford
+bip_39_word_dash_2: duty-all
+bip_39_word_dash_3: duty-all-torch
+bip_39_word_dash_4: duty-all-torch-phrase
+bip_39_word_dash_5: duty-all-torch-phrase-reflect
+bip_39_word_dash_6: duty-all-torch-phrase-reflect-spend
+bip_39_word_dash_7: duty-all-torch-phrase-reflect-spend-outside
+bip_39_word_dash_8: duty-all-torch-phrase-reflect-spend-outside-found
+bip_39_word_dash_9: duty-all-torch-phrase-reflect-spend-outside-found-arrest
 bip_39_word_new_br_1: duty
 bip_39_word_new_br_10: duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found<br>arrest<br>topic
 bip_39_word_new_br_11: duty<br>all<br>torch<br>phrase<br>reflect<br>spend<br>outside<br>found<br>arrest<br>topic<br>execute
@@ -193,6 +205,18 @@ bip_39_word_space_6: duty all torch phrase reflect spend
 bip_39_word_space_7: duty all torch phrase reflect spend outside
 bip_39_word_space_8: duty all torch phrase reflect spend outside found
 bip_39_word_space_9: duty all torch phrase reflect spend outside found arrest
+bip_39_word_underscore_1: duty
+bip_39_word_underscore_10: duty_all_torch_phrase_reflect_spend_outside_found_arrest_topic
+bip_39_word_underscore_11: duty_all_torch_phrase_reflect_spend_outside_found_arrest_topic_execute
+bip_39_word_underscore_12: duty_all_torch_phrase_reflect_spend_outside_found_arrest_topic_execute_afford
+bip_39_word_underscore_2: duty_all
+bip_39_word_underscore_3: duty_all_torch
+bip_39_word_underscore_4: duty_all_torch_phrase
+bip_39_word_underscore_5: duty_all_torch_phrase_reflect
+bip_39_word_underscore_6: duty_all_torch_phrase_reflect_spend
+bip_39_word_underscore_7: duty_all_torch_phrase_reflect_spend_outside
+bip_39_word_underscore_8: duty_all_torch_phrase_reflect_spend_outside_found
+bip_39_word_underscore_9: duty_all_torch_phrase_reflect_spend_outside_found_arrest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

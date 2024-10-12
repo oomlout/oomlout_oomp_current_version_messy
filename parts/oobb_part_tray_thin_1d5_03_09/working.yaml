@@ -1,3 +1,15 @@
+bip_39_word_dash_1: amused
+bip_39_word_dash_10: amused-hybrid-eager-expose-join-maple-neglect-movie-sugar-surface
+bip_39_word_dash_11: amused-hybrid-eager-expose-join-maple-neglect-movie-sugar-surface-luxury
+bip_39_word_dash_12: amused-hybrid-eager-expose-join-maple-neglect-movie-sugar-surface-luxury-adjust
+bip_39_word_dash_2: amused-hybrid
+bip_39_word_dash_3: amused-hybrid-eager
+bip_39_word_dash_4: amused-hybrid-eager-expose
+bip_39_word_dash_5: amused-hybrid-eager-expose-join
+bip_39_word_dash_6: amused-hybrid-eager-expose-join-maple
+bip_39_word_dash_7: amused-hybrid-eager-expose-join-maple-neglect
+bip_39_word_dash_8: amused-hybrid-eager-expose-join-maple-neglect-movie
+bip_39_word_dash_9: amused-hybrid-eager-expose-join-maple-neglect-movie-sugar
 bip_39_word_new_br_1: amused
 bip_39_word_new_br_10: amused<br>hybrid<br>eager<br>expose<br>join<br>maple<br>neglect<br>movie<br>sugar<br>surface
 bip_39_word_new_br_11: amused<br>hybrid<br>eager<br>expose<br>join<br>maple<br>neglect<br>movie<br>sugar<br>surface<br>luxury
@@ -193,6 +205,18 @@ bip_39_word_space_6: amused hybrid eager expose join maple
 bip_39_word_space_7: amused hybrid eager expose join maple neglect
 bip_39_word_space_8: amused hybrid eager expose join maple neglect movie
 bip_39_word_space_9: amused hybrid eager expose join maple neglect movie sugar
+bip_39_word_underscore_1: amused
+bip_39_word_underscore_10: amused_hybrid_eager_expose_join_maple_neglect_movie_sugar_surface
+bip_39_word_underscore_11: amused_hybrid_eager_expose_join_maple_neglect_movie_sugar_surface_luxury
+bip_39_word_underscore_12: amused_hybrid_eager_expose_join_maple_neglect_movie_sugar_surface_luxury_adjust
+bip_39_word_underscore_2: amused_hybrid
+bip_39_word_underscore_3: amused_hybrid_eager
+bip_39_word_underscore_4: amused_hybrid_eager_expose
+bip_39_word_underscore_5: amused_hybrid_eager_expose_join
+bip_39_word_underscore_6: amused_hybrid_eager_expose_join_maple
+bip_39_word_underscore_7: amused_hybrid_eager_expose_join_maple_neglect
+bip_39_word_underscore_8: amused_hybrid_eager_expose_join_maple_neglect_movie
+bip_39_word_underscore_9: amused_hybrid_eager_expose_join_maple_neglect_movie_sugar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

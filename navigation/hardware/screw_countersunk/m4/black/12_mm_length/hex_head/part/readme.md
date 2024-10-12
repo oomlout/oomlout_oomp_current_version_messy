@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pledge |  
+| bip_39_word_dash_10 | pledge-shaft-cement-dove-cement-original-naive-coast-traffic-only |  
+| bip_39_word_dash_11 | pledge-shaft-cement-dove-cement-original-naive-coast-traffic-only-patient |  
+| bip_39_word_dash_12 | pledge-shaft-cement-dove-cement-original-naive-coast-traffic-only-patient-afford |  
+| bip_39_word_dash_2 | pledge-shaft |  
+| bip_39_word_dash_3 | pledge-shaft-cement |  
+| bip_39_word_dash_4 | pledge-shaft-cement-dove |  
+| bip_39_word_dash_5 | pledge-shaft-cement-dove-cement |  
+| bip_39_word_dash_6 | pledge-shaft-cement-dove-cement-original |  
+| bip_39_word_dash_7 | pledge-shaft-cement-dove-cement-original-naive |  
+| bip_39_word_dash_8 | pledge-shaft-cement-dove-cement-original-naive-coast |  
+| bip_39_word_dash_9 | pledge-shaft-cement-dove-cement-original-naive-coast-traffic |  
 | bip_39_word_new_br_1 | pledge |  
 | bip_39_word_new_br_10 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only |  
 | bip_39_word_new_br_11 | pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only<br>patient |  
@@ -147,6 +159,18 @@ traffic |
 | bip_39_word_space_7 | pledge shaft cement dove cement original naive |  
 | bip_39_word_space_8 | pledge shaft cement dove cement original naive coast |  
 | bip_39_word_space_9 | pledge shaft cement dove cement original naive coast traffic |  
+| bip_39_word_underscore_1 | pledge |  
+| bip_39_word_underscore_10 | pledge_shaft_cement_dove_cement_original_naive_coast_traffic_only |  
+| bip_39_word_underscore_11 | pledge_shaft_cement_dove_cement_original_naive_coast_traffic_only_patient |  
+| bip_39_word_underscore_12 | pledge_shaft_cement_dove_cement_original_naive_coast_traffic_only_patient_afford |  
+| bip_39_word_underscore_2 | pledge_shaft |  
+| bip_39_word_underscore_3 | pledge_shaft_cement |  
+| bip_39_word_underscore_4 | pledge_shaft_cement_dove |  
+| bip_39_word_underscore_5 | pledge_shaft_cement_dove_cement |  
+| bip_39_word_underscore_6 | pledge_shaft_cement_dove_cement_original |  
+| bip_39_word_underscore_7 | pledge_shaft_cement_dove_cement_original_naive |  
+| bip_39_word_underscore_8 | pledge_shaft_cement_dove_cement_original_naive_coast |  
+| bip_39_word_underscore_9 | pledge_shaft_cement_dove_cement_original_naive_coast_traffic |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

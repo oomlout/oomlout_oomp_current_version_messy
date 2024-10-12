@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ball
+bip_39_word_dash_10: ball-good-seat-chest-ridge-crack-old-squeeze-inhale-govern
+bip_39_word_dash_11: ball-good-seat-chest-ridge-crack-old-squeeze-inhale-govern-foot
+bip_39_word_dash_12: ball-good-seat-chest-ridge-crack-old-squeeze-inhale-govern-foot-attitude
+bip_39_word_dash_2: ball-good
+bip_39_word_dash_3: ball-good-seat
+bip_39_word_dash_4: ball-good-seat-chest
+bip_39_word_dash_5: ball-good-seat-chest-ridge
+bip_39_word_dash_6: ball-good-seat-chest-ridge-crack
+bip_39_word_dash_7: ball-good-seat-chest-ridge-crack-old
+bip_39_word_dash_8: ball-good-seat-chest-ridge-crack-old-squeeze
+bip_39_word_dash_9: ball-good-seat-chest-ridge-crack-old-squeeze-inhale
 bip_39_word_new_br_1: ball
 bip_39_word_new_br_10: ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern
 bip_39_word_new_br_11: ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern<br>foot
@@ -192,6 +204,18 @@ bip_39_word_space_6: ball good seat chest ridge crack
 bip_39_word_space_7: ball good seat chest ridge crack old
 bip_39_word_space_8: ball good seat chest ridge crack old squeeze
 bip_39_word_space_9: ball good seat chest ridge crack old squeeze inhale
+bip_39_word_underscore_1: ball
+bip_39_word_underscore_10: ball_good_seat_chest_ridge_crack_old_squeeze_inhale_govern
+bip_39_word_underscore_11: ball_good_seat_chest_ridge_crack_old_squeeze_inhale_govern_foot
+bip_39_word_underscore_12: ball_good_seat_chest_ridge_crack_old_squeeze_inhale_govern_foot_attitude
+bip_39_word_underscore_2: ball_good
+bip_39_word_underscore_3: ball_good_seat
+bip_39_word_underscore_4: ball_good_seat_chest
+bip_39_word_underscore_5: ball_good_seat_chest_ridge
+bip_39_word_underscore_6: ball_good_seat_chest_ridge_crack
+bip_39_word_underscore_7: ball_good_seat_chest_ridge_crack_old
+bip_39_word_underscore_8: ball_good_seat_chest_ridge_crack_old_squeeze
+bip_39_word_underscore_9: ball_good_seat_chest_ridge_crack_old_squeeze_inhale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

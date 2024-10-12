@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bench |  
+| bip_39_word_dash_10 | bench-laundry-broccoli-lion-boat-add-category-borrow-same-leopard |  
+| bip_39_word_dash_11 | bench-laundry-broccoli-lion-boat-add-category-borrow-same-leopard-slam |  
+| bip_39_word_dash_12 | bench-laundry-broccoli-lion-boat-add-category-borrow-same-leopard-slam-adapt |  
+| bip_39_word_dash_2 | bench-laundry |  
+| bip_39_word_dash_3 | bench-laundry-broccoli |  
+| bip_39_word_dash_4 | bench-laundry-broccoli-lion |  
+| bip_39_word_dash_5 | bench-laundry-broccoli-lion-boat |  
+| bip_39_word_dash_6 | bench-laundry-broccoli-lion-boat-add |  
+| bip_39_word_dash_7 | bench-laundry-broccoli-lion-boat-add-category |  
+| bip_39_word_dash_8 | bench-laundry-broccoli-lion-boat-add-category-borrow |  
+| bip_39_word_dash_9 | bench-laundry-broccoli-lion-boat-add-category-borrow-same |  
 | bip_39_word_new_br_1 | bench |  
 | bip_39_word_new_br_10 | bench<br>laundry<br>broccoli<br>lion<br>boat<br>add<br>category<br>borrow<br>same<br>leopard |  
 | bip_39_word_new_br_11 | bench<br>laundry<br>broccoli<br>lion<br>boat<br>add<br>category<br>borrow<br>same<br>leopard<br>slam |  
@@ -147,6 +159,18 @@ same |
 | bip_39_word_space_7 | bench laundry broccoli lion boat add category |  
 | bip_39_word_space_8 | bench laundry broccoli lion boat add category borrow |  
 | bip_39_word_space_9 | bench laundry broccoli lion boat add category borrow same |  
+| bip_39_word_underscore_1 | bench |  
+| bip_39_word_underscore_10 | bench_laundry_broccoli_lion_boat_add_category_borrow_same_leopard |  
+| bip_39_word_underscore_11 | bench_laundry_broccoli_lion_boat_add_category_borrow_same_leopard_slam |  
+| bip_39_word_underscore_12 | bench_laundry_broccoli_lion_boat_add_category_borrow_same_leopard_slam_adapt |  
+| bip_39_word_underscore_2 | bench_laundry |  
+| bip_39_word_underscore_3 | bench_laundry_broccoli |  
+| bip_39_word_underscore_4 | bench_laundry_broccoli_lion |  
+| bip_39_word_underscore_5 | bench_laundry_broccoli_lion_boat |  
+| bip_39_word_underscore_6 | bench_laundry_broccoli_lion_boat_add |  
+| bip_39_word_underscore_7 | bench_laundry_broccoli_lion_boat_add_category |  
+| bip_39_word_underscore_8 | bench_laundry_broccoli_lion_boat_add_category_borrow |  
+| bip_39_word_underscore_9 | bench_laundry_broccoli_lion_boat_add_category_borrow_same |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

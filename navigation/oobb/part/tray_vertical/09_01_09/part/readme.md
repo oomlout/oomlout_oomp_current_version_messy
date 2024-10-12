@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | very |  
+| bip_39_word_dash_10 | very-barrel-sail-egg-obtain-gesture-jar-recycle-pencil-shop |  
+| bip_39_word_dash_11 | very-barrel-sail-egg-obtain-gesture-jar-recycle-pencil-shop-camp |  
+| bip_39_word_dash_12 | very-barrel-sail-egg-obtain-gesture-jar-recycle-pencil-shop-camp-afford |  
+| bip_39_word_dash_2 | very-barrel |  
+| bip_39_word_dash_3 | very-barrel-sail |  
+| bip_39_word_dash_4 | very-barrel-sail-egg |  
+| bip_39_word_dash_5 | very-barrel-sail-egg-obtain |  
+| bip_39_word_dash_6 | very-barrel-sail-egg-obtain-gesture |  
+| bip_39_word_dash_7 | very-barrel-sail-egg-obtain-gesture-jar |  
+| bip_39_word_dash_8 | very-barrel-sail-egg-obtain-gesture-jar-recycle |  
+| bip_39_word_dash_9 | very-barrel-sail-egg-obtain-gesture-jar-recycle-pencil |  
 | bip_39_word_new_br_1 | very |  
 | bip_39_word_new_br_10 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle<br>pencil<br>shop |  
 | bip_39_word_new_br_11 | very<br>barrel<br>sail<br>egg<br>obtain<br>gesture<br>jar<br>recycle<br>pencil<br>shop<br>camp |  
@@ -147,6 +159,18 @@ pencil |
 | bip_39_word_space_7 | very barrel sail egg obtain gesture jar |  
 | bip_39_word_space_8 | very barrel sail egg obtain gesture jar recycle |  
 | bip_39_word_space_9 | very barrel sail egg obtain gesture jar recycle pencil |  
+| bip_39_word_underscore_1 | very |  
+| bip_39_word_underscore_10 | very_barrel_sail_egg_obtain_gesture_jar_recycle_pencil_shop |  
+| bip_39_word_underscore_11 | very_barrel_sail_egg_obtain_gesture_jar_recycle_pencil_shop_camp |  
+| bip_39_word_underscore_12 | very_barrel_sail_egg_obtain_gesture_jar_recycle_pencil_shop_camp_afford |  
+| bip_39_word_underscore_2 | very_barrel |  
+| bip_39_word_underscore_3 | very_barrel_sail |  
+| bip_39_word_underscore_4 | very_barrel_sail_egg |  
+| bip_39_word_underscore_5 | very_barrel_sail_egg_obtain |  
+| bip_39_word_underscore_6 | very_barrel_sail_egg_obtain_gesture |  
+| bip_39_word_underscore_7 | very_barrel_sail_egg_obtain_gesture_jar |  
+| bip_39_word_underscore_8 | very_barrel_sail_egg_obtain_gesture_jar_recycle |  
+| bip_39_word_underscore_9 | very_barrel_sail_egg_obtain_gesture_jar_recycle_pencil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

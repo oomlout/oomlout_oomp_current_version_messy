@@ -1,3 +1,15 @@
+bip_39_word_dash_1: attract
+bip_39_word_dash_10: attract-evil-hover-couple-solar-elite-mask-poverty-clown-syrup
+bip_39_word_dash_11: attract-evil-hover-couple-solar-elite-mask-poverty-clown-syrup-coast
+bip_39_word_dash_12: attract-evil-hover-couple-solar-elite-mask-poverty-clown-syrup-coast-addict
+bip_39_word_dash_2: attract-evil
+bip_39_word_dash_3: attract-evil-hover
+bip_39_word_dash_4: attract-evil-hover-couple
+bip_39_word_dash_5: attract-evil-hover-couple-solar
+bip_39_word_dash_6: attract-evil-hover-couple-solar-elite
+bip_39_word_dash_7: attract-evil-hover-couple-solar-elite-mask
+bip_39_word_dash_8: attract-evil-hover-couple-solar-elite-mask-poverty
+bip_39_word_dash_9: attract-evil-hover-couple-solar-elite-mask-poverty-clown
 bip_39_word_new_br_1: attract
 bip_39_word_new_br_10: attract<br>evil<br>hover<br>couple<br>solar<br>elite<br>mask<br>poverty<br>clown<br>syrup
 bip_39_word_new_br_11: attract<br>evil<br>hover<br>couple<br>solar<br>elite<br>mask<br>poverty<br>clown<br>syrup<br>coast
@@ -193,6 +205,18 @@ bip_39_word_space_6: attract evil hover couple solar elite
 bip_39_word_space_7: attract evil hover couple solar elite mask
 bip_39_word_space_8: attract evil hover couple solar elite mask poverty
 bip_39_word_space_9: attract evil hover couple solar elite mask poverty clown
+bip_39_word_underscore_1: attract
+bip_39_word_underscore_10: attract_evil_hover_couple_solar_elite_mask_poverty_clown_syrup
+bip_39_word_underscore_11: attract_evil_hover_couple_solar_elite_mask_poverty_clown_syrup_coast
+bip_39_word_underscore_12: attract_evil_hover_couple_solar_elite_mask_poverty_clown_syrup_coast_addict
+bip_39_word_underscore_2: attract_evil
+bip_39_word_underscore_3: attract_evil_hover
+bip_39_word_underscore_4: attract_evil_hover_couple
+bip_39_word_underscore_5: attract_evil_hover_couple_solar
+bip_39_word_underscore_6: attract_evil_hover_couple_solar_elite
+bip_39_word_underscore_7: attract_evil_hover_couple_solar_elite_mask
+bip_39_word_underscore_8: attract_evil_hover_couple_solar_elite_mask_poverty
+bip_39_word_underscore_9: attract_evil_hover_couple_solar_elite_mask_poverty_clown
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hour |  
+| bip_39_word_dash_10 | hour-can-manage-mosquito-grid-awake-fury-friend-toy-ostrich |  
+| bip_39_word_dash_11 | hour-can-manage-mosquito-grid-awake-fury-friend-toy-ostrich-fog |  
+| bip_39_word_dash_12 | hour-can-manage-mosquito-grid-awake-fury-friend-toy-ostrich-fog-arm |  
+| bip_39_word_dash_2 | hour-can |  
+| bip_39_word_dash_3 | hour-can-manage |  
+| bip_39_word_dash_4 | hour-can-manage-mosquito |  
+| bip_39_word_dash_5 | hour-can-manage-mosquito-grid |  
+| bip_39_word_dash_6 | hour-can-manage-mosquito-grid-awake |  
+| bip_39_word_dash_7 | hour-can-manage-mosquito-grid-awake-fury |  
+| bip_39_word_dash_8 | hour-can-manage-mosquito-grid-awake-fury-friend |  
+| bip_39_word_dash_9 | hour-can-manage-mosquito-grid-awake-fury-friend-toy |  
 | bip_39_word_new_br_1 | hour |  
 | bip_39_word_new_br_10 | hour<br>can<br>manage<br>mosquito<br>grid<br>awake<br>fury<br>friend<br>toy<br>ostrich |  
 | bip_39_word_new_br_11 | hour<br>can<br>manage<br>mosquito<br>grid<br>awake<br>fury<br>friend<br>toy<br>ostrich<br>fog |  
@@ -147,6 +159,18 @@ toy |
 | bip_39_word_space_7 | hour can manage mosquito grid awake fury |  
 | bip_39_word_space_8 | hour can manage mosquito grid awake fury friend |  
 | bip_39_word_space_9 | hour can manage mosquito grid awake fury friend toy |  
+| bip_39_word_underscore_1 | hour |  
+| bip_39_word_underscore_10 | hour_can_manage_mosquito_grid_awake_fury_friend_toy_ostrich |  
+| bip_39_word_underscore_11 | hour_can_manage_mosquito_grid_awake_fury_friend_toy_ostrich_fog |  
+| bip_39_word_underscore_12 | hour_can_manage_mosquito_grid_awake_fury_friend_toy_ostrich_fog_arm |  
+| bip_39_word_underscore_2 | hour_can |  
+| bip_39_word_underscore_3 | hour_can_manage |  
+| bip_39_word_underscore_4 | hour_can_manage_mosquito |  
+| bip_39_word_underscore_5 | hour_can_manage_mosquito_grid |  
+| bip_39_word_underscore_6 | hour_can_manage_mosquito_grid_awake |  
+| bip_39_word_underscore_7 | hour_can_manage_mosquito_grid_awake_fury |  
+| bip_39_word_underscore_8 | hour_can_manage_mosquito_grid_awake_fury_friend |  
+| bip_39_word_underscore_9 | hour_can_manage_mosquito_grid_awake_fury_friend_toy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,14 @@
+bip_39_word_dash_1: behind
+bip_39_word_dash_10: behind-tell-acoustic-taxi-panel-february-erosion-tenant-ranch-siege
+bip_39_word_dash_11: behind-tell-acoustic-taxi-panel-february-erosion-tenant-ranch-siege-caution
+bip_39_word_dash_2: behind-tell
+bip_39_word_dash_3: behind-tell-acoustic
+bip_39_word_dash_4: behind-tell-acoustic-taxi
+bip_39_word_dash_5: behind-tell-acoustic-taxi-panel
+bip_39_word_dash_6: behind-tell-acoustic-taxi-panel-february
+bip_39_word_dash_7: behind-tell-acoustic-taxi-panel-february-erosion
+bip_39_word_dash_8: behind-tell-acoustic-taxi-panel-february-erosion-tenant
+bip_39_word_dash_9: behind-tell-acoustic-taxi-panel-february-erosion-tenant-ranch
 bip_39_word_new_br_1: behind
 bip_39_word_new_br_10: behind<br>tell<br>acoustic<br>taxi<br>panel<br>february<br>erosion<br>tenant<br>ranch<br>siege
 bip_39_word_new_br_11: behind<br>tell<br>acoustic<br>taxi<br>panel<br>february<br>erosion<br>tenant<br>ranch<br>siege<br>caution
@@ -166,6 +177,17 @@ bip_39_word_space_6: behind tell acoustic taxi panel february
 bip_39_word_space_7: behind tell acoustic taxi panel february erosion
 bip_39_word_space_8: behind tell acoustic taxi panel february erosion tenant
 bip_39_word_space_9: behind tell acoustic taxi panel february erosion tenant ranch
+bip_39_word_underscore_1: behind
+bip_39_word_underscore_10: behind_tell_acoustic_taxi_panel_february_erosion_tenant_ranch_siege
+bip_39_word_underscore_11: behind_tell_acoustic_taxi_panel_february_erosion_tenant_ranch_siege_caution
+bip_39_word_underscore_2: behind_tell
+bip_39_word_underscore_3: behind_tell_acoustic
+bip_39_word_underscore_4: behind_tell_acoustic_taxi
+bip_39_word_underscore_5: behind_tell_acoustic_taxi_panel
+bip_39_word_underscore_6: behind_tell_acoustic_taxi_panel_february
+bip_39_word_underscore_7: behind_tell_acoustic_taxi_panel_february_erosion
+bip_39_word_underscore_8: behind_tell_acoustic_taxi_panel_february_erosion_tenant
+bip_39_word_underscore_9: behind_tell_acoustic_taxi_panel_february_erosion_tenant_ranch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

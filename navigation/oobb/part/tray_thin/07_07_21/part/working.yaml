@@ -1,3 +1,15 @@
+bip_39_word_dash_1: baby
+bip_39_word_dash_10: baby-pass-feature-recall-shed-ill-target-repair-keen-suit
+bip_39_word_dash_11: baby-pass-feature-recall-shed-ill-target-repair-keen-suit-seven
+bip_39_word_dash_12: baby-pass-feature-recall-shed-ill-target-repair-keen-suit-seven-able
+bip_39_word_dash_2: baby-pass
+bip_39_word_dash_3: baby-pass-feature
+bip_39_word_dash_4: baby-pass-feature-recall
+bip_39_word_dash_5: baby-pass-feature-recall-shed
+bip_39_word_dash_6: baby-pass-feature-recall-shed-ill
+bip_39_word_dash_7: baby-pass-feature-recall-shed-ill-target
+bip_39_word_dash_8: baby-pass-feature-recall-shed-ill-target-repair
+bip_39_word_dash_9: baby-pass-feature-recall-shed-ill-target-repair-keen
 bip_39_word_new_br_1: baby
 bip_39_word_new_br_10: baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair<br>keen<br>suit
 bip_39_word_new_br_11: baby<br>pass<br>feature<br>recall<br>shed<br>ill<br>target<br>repair<br>keen<br>suit<br>seven
@@ -192,6 +204,18 @@ bip_39_word_space_6: baby pass feature recall shed ill
 bip_39_word_space_7: baby pass feature recall shed ill target
 bip_39_word_space_8: baby pass feature recall shed ill target repair
 bip_39_word_space_9: baby pass feature recall shed ill target repair keen
+bip_39_word_underscore_1: baby
+bip_39_word_underscore_10: baby_pass_feature_recall_shed_ill_target_repair_keen_suit
+bip_39_word_underscore_11: baby_pass_feature_recall_shed_ill_target_repair_keen_suit_seven
+bip_39_word_underscore_12: baby_pass_feature_recall_shed_ill_target_repair_keen_suit_seven_able
+bip_39_word_underscore_2: baby_pass
+bip_39_word_underscore_3: baby_pass_feature
+bip_39_word_underscore_4: baby_pass_feature_recall
+bip_39_word_underscore_5: baby_pass_feature_recall_shed
+bip_39_word_underscore_6: baby_pass_feature_recall_shed_ill
+bip_39_word_underscore_7: baby_pass_feature_recall_shed_ill_target
+bip_39_word_underscore_8: baby_pass_feature_recall_shed_ill_target_repair
+bip_39_word_underscore_9: baby_pass_feature_recall_shed_ill_target_repair_keen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dawn |  
+| bip_39_word_dash_10 | dawn-arm-height-wage-harvest-quote-online-chest-forget-chuckle |  
+| bip_39_word_dash_11 | dawn-arm-height-wage-harvest-quote-online-chest-forget-chuckle-farm |  
+| bip_39_word_dash_12 | dawn-arm-height-wage-harvest-quote-online-chest-forget-chuckle-farm-agent |  
+| bip_39_word_dash_2 | dawn-arm |  
+| bip_39_word_dash_3 | dawn-arm-height |  
+| bip_39_word_dash_4 | dawn-arm-height-wage |  
+| bip_39_word_dash_5 | dawn-arm-height-wage-harvest |  
+| bip_39_word_dash_6 | dawn-arm-height-wage-harvest-quote |  
+| bip_39_word_dash_7 | dawn-arm-height-wage-harvest-quote-online |  
+| bip_39_word_dash_8 | dawn-arm-height-wage-harvest-quote-online-chest |  
+| bip_39_word_dash_9 | dawn-arm-height-wage-harvest-quote-online-chest-forget |  
 | bip_39_word_new_br_1 | dawn |  
 | bip_39_word_new_br_10 | dawn<br>arm<br>height<br>wage<br>harvest<br>quote<br>online<br>chest<br>forget<br>chuckle |  
 | bip_39_word_new_br_11 | dawn<br>arm<br>height<br>wage<br>harvest<br>quote<br>online<br>chest<br>forget<br>chuckle<br>farm |  
@@ -147,6 +159,18 @@ forget |
 | bip_39_word_space_7 | dawn arm height wage harvest quote online |  
 | bip_39_word_space_8 | dawn arm height wage harvest quote online chest |  
 | bip_39_word_space_9 | dawn arm height wage harvest quote online chest forget |  
+| bip_39_word_underscore_1 | dawn |  
+| bip_39_word_underscore_10 | dawn_arm_height_wage_harvest_quote_online_chest_forget_chuckle |  
+| bip_39_word_underscore_11 | dawn_arm_height_wage_harvest_quote_online_chest_forget_chuckle_farm |  
+| bip_39_word_underscore_12 | dawn_arm_height_wage_harvest_quote_online_chest_forget_chuckle_farm_agent |  
+| bip_39_word_underscore_2 | dawn_arm |  
+| bip_39_word_underscore_3 | dawn_arm_height |  
+| bip_39_word_underscore_4 | dawn_arm_height_wage |  
+| bip_39_word_underscore_5 | dawn_arm_height_wage_harvest |  
+| bip_39_word_underscore_6 | dawn_arm_height_wage_harvest_quote |  
+| bip_39_word_underscore_7 | dawn_arm_height_wage_harvest_quote_online |  
+| bip_39_word_underscore_8 | dawn_arm_height_wage_harvest_quote_online_chest |  
+| bip_39_word_underscore_9 | dawn_arm_height_wage_harvest_quote_online_chest_forget |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

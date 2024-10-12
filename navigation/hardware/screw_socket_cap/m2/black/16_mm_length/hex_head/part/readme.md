@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drama |  
+| bip_39_word_dash_10 | drama-island-hip-velvet-empty-brush-tube-mask-system-toe |  
+| bip_39_word_dash_11 | drama-island-hip-velvet-empty-brush-tube-mask-system-toe-useless |  
+| bip_39_word_dash_12 | drama-island-hip-velvet-empty-brush-tube-mask-system-toe-useless-aisle |  
+| bip_39_word_dash_2 | drama-island |  
+| bip_39_word_dash_3 | drama-island-hip |  
+| bip_39_word_dash_4 | drama-island-hip-velvet |  
+| bip_39_word_dash_5 | drama-island-hip-velvet-empty |  
+| bip_39_word_dash_6 | drama-island-hip-velvet-empty-brush |  
+| bip_39_word_dash_7 | drama-island-hip-velvet-empty-brush-tube |  
+| bip_39_word_dash_8 | drama-island-hip-velvet-empty-brush-tube-mask |  
+| bip_39_word_dash_9 | drama-island-hip-velvet-empty-brush-tube-mask-system |  
 | bip_39_word_new_br_1 | drama |  
 | bip_39_word_new_br_10 | drama<br>island<br>hip<br>velvet<br>empty<br>brush<br>tube<br>mask<br>system<br>toe |  
 | bip_39_word_new_br_11 | drama<br>island<br>hip<br>velvet<br>empty<br>brush<br>tube<br>mask<br>system<br>toe<br>useless |  
@@ -147,6 +159,18 @@ system |
 | bip_39_word_space_7 | drama island hip velvet empty brush tube |  
 | bip_39_word_space_8 | drama island hip velvet empty brush tube mask |  
 | bip_39_word_space_9 | drama island hip velvet empty brush tube mask system |  
+| bip_39_word_underscore_1 | drama |  
+| bip_39_word_underscore_10 | drama_island_hip_velvet_empty_brush_tube_mask_system_toe |  
+| bip_39_word_underscore_11 | drama_island_hip_velvet_empty_brush_tube_mask_system_toe_useless |  
+| bip_39_word_underscore_12 | drama_island_hip_velvet_empty_brush_tube_mask_system_toe_useless_aisle |  
+| bip_39_word_underscore_2 | drama_island |  
+| bip_39_word_underscore_3 | drama_island_hip |  
+| bip_39_word_underscore_4 | drama_island_hip_velvet |  
+| bip_39_word_underscore_5 | drama_island_hip_velvet_empty |  
+| bip_39_word_underscore_6 | drama_island_hip_velvet_empty_brush |  
+| bip_39_word_underscore_7 | drama_island_hip_velvet_empty_brush_tube |  
+| bip_39_word_underscore_8 | drama_island_hip_velvet_empty_brush_tube_mask |  
+| bip_39_word_underscore_9 | drama_island_hip_velvet_empty_brush_tube_mask_system |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | social |  
+| bip_39_word_dash_10 | social-seminar-sing-still-napkin-canoe-sea-exercise-swim-goose |  
+| bip_39_word_dash_11 | social-seminar-sing-still-napkin-canoe-sea-exercise-swim-goose-pencil |  
+| bip_39_word_dash_12 | social-seminar-sing-still-napkin-canoe-sea-exercise-swim-goose-pencil-another |  
+| bip_39_word_dash_2 | social-seminar |  
+| bip_39_word_dash_3 | social-seminar-sing |  
+| bip_39_word_dash_4 | social-seminar-sing-still |  
+| bip_39_word_dash_5 | social-seminar-sing-still-napkin |  
+| bip_39_word_dash_6 | social-seminar-sing-still-napkin-canoe |  
+| bip_39_word_dash_7 | social-seminar-sing-still-napkin-canoe-sea |  
+| bip_39_word_dash_8 | social-seminar-sing-still-napkin-canoe-sea-exercise |  
+| bip_39_word_dash_9 | social-seminar-sing-still-napkin-canoe-sea-exercise-swim |  
 | bip_39_word_new_br_1 | social |  
 | bip_39_word_new_br_10 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose |  
 | bip_39_word_new_br_11 | social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose<br>pencil |  
@@ -147,6 +159,18 @@ swim |
 | bip_39_word_space_7 | social seminar sing still napkin canoe sea |  
 | bip_39_word_space_8 | social seminar sing still napkin canoe sea exercise |  
 | bip_39_word_space_9 | social seminar sing still napkin canoe sea exercise swim |  
+| bip_39_word_underscore_1 | social |  
+| bip_39_word_underscore_10 | social_seminar_sing_still_napkin_canoe_sea_exercise_swim_goose |  
+| bip_39_word_underscore_11 | social_seminar_sing_still_napkin_canoe_sea_exercise_swim_goose_pencil |  
+| bip_39_word_underscore_12 | social_seminar_sing_still_napkin_canoe_sea_exercise_swim_goose_pencil_another |  
+| bip_39_word_underscore_2 | social_seminar |  
+| bip_39_word_underscore_3 | social_seminar_sing |  
+| bip_39_word_underscore_4 | social_seminar_sing_still |  
+| bip_39_word_underscore_5 | social_seminar_sing_still_napkin |  
+| bip_39_word_underscore_6 | social_seminar_sing_still_napkin_canoe |  
+| bip_39_word_underscore_7 | social_seminar_sing_still_napkin_canoe_sea |  
+| bip_39_word_underscore_8 | social_seminar_sing_still_napkin_canoe_sea_exercise |  
+| bip_39_word_underscore_9 | social_seminar_sing_still_napkin_canoe_sea_exercise_swim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mix |  
+| bip_39_word_dash_10 | mix-cement-all-flag-situate-lunar-mimic-culture-trigger-boat |  
+| bip_39_word_dash_11 | mix-cement-all-flag-situate-lunar-mimic-culture-trigger-boat-enter |  
+| bip_39_word_dash_12 | mix-cement-all-flag-situate-lunar-mimic-culture-trigger-boat-enter-apple |  
+| bip_39_word_dash_2 | mix-cement |  
+| bip_39_word_dash_3 | mix-cement-all |  
+| bip_39_word_dash_4 | mix-cement-all-flag |  
+| bip_39_word_dash_5 | mix-cement-all-flag-situate |  
+| bip_39_word_dash_6 | mix-cement-all-flag-situate-lunar |  
+| bip_39_word_dash_7 | mix-cement-all-flag-situate-lunar-mimic |  
+| bip_39_word_dash_8 | mix-cement-all-flag-situate-lunar-mimic-culture |  
+| bip_39_word_dash_9 | mix-cement-all-flag-situate-lunar-mimic-culture-trigger |  
 | bip_39_word_new_br_1 | mix |  
 | bip_39_word_new_br_10 | mix<br>cement<br>all<br>flag<br>situate<br>lunar<br>mimic<br>culture<br>trigger<br>boat |  
 | bip_39_word_new_br_11 | mix<br>cement<br>all<br>flag<br>situate<br>lunar<br>mimic<br>culture<br>trigger<br>boat<br>enter |  
@@ -147,6 +159,18 @@ trigger |
 | bip_39_word_space_7 | mix cement all flag situate lunar mimic |  
 | bip_39_word_space_8 | mix cement all flag situate lunar mimic culture |  
 | bip_39_word_space_9 | mix cement all flag situate lunar mimic culture trigger |  
+| bip_39_word_underscore_1 | mix |  
+| bip_39_word_underscore_10 | mix_cement_all_flag_situate_lunar_mimic_culture_trigger_boat |  
+| bip_39_word_underscore_11 | mix_cement_all_flag_situate_lunar_mimic_culture_trigger_boat_enter |  
+| bip_39_word_underscore_12 | mix_cement_all_flag_situate_lunar_mimic_culture_trigger_boat_enter_apple |  
+| bip_39_word_underscore_2 | mix_cement |  
+| bip_39_word_underscore_3 | mix_cement_all |  
+| bip_39_word_underscore_4 | mix_cement_all_flag |  
+| bip_39_word_underscore_5 | mix_cement_all_flag_situate |  
+| bip_39_word_underscore_6 | mix_cement_all_flag_situate_lunar |  
+| bip_39_word_underscore_7 | mix_cement_all_flag_situate_lunar_mimic |  
+| bip_39_word_underscore_8 | mix_cement_all_flag_situate_lunar_mimic_culture |  
+| bip_39_word_underscore_9 | mix_cement_all_flag_situate_lunar_mimic_culture_trigger |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

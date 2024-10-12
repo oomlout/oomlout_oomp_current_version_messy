@@ -1,3 +1,15 @@
+bip_39_word_dash_1: defy
+bip_39_word_dash_10: defy-kid-guard-they-confirm-trim-pave-border-luxury-drift
+bip_39_word_dash_11: defy-kid-guard-they-confirm-trim-pave-border-luxury-drift-emerge
+bip_39_word_dash_12: defy-kid-guard-they-confirm-trim-pave-border-luxury-drift-emerge-attitude
+bip_39_word_dash_2: defy-kid
+bip_39_word_dash_3: defy-kid-guard
+bip_39_word_dash_4: defy-kid-guard-they
+bip_39_word_dash_5: defy-kid-guard-they-confirm
+bip_39_word_dash_6: defy-kid-guard-they-confirm-trim
+bip_39_word_dash_7: defy-kid-guard-they-confirm-trim-pave
+bip_39_word_dash_8: defy-kid-guard-they-confirm-trim-pave-border
+bip_39_word_dash_9: defy-kid-guard-they-confirm-trim-pave-border-luxury
 bip_39_word_new_br_1: defy
 bip_39_word_new_br_10: defy<br>kid<br>guard<br>they<br>confirm<br>trim<br>pave<br>border<br>luxury<br>drift
 bip_39_word_new_br_11: defy<br>kid<br>guard<br>they<br>confirm<br>trim<br>pave<br>border<br>luxury<br>drift<br>emerge
@@ -192,6 +204,18 @@ bip_39_word_space_6: defy kid guard they confirm trim
 bip_39_word_space_7: defy kid guard they confirm trim pave
 bip_39_word_space_8: defy kid guard they confirm trim pave border
 bip_39_word_space_9: defy kid guard they confirm trim pave border luxury
+bip_39_word_underscore_1: defy
+bip_39_word_underscore_10: defy_kid_guard_they_confirm_trim_pave_border_luxury_drift
+bip_39_word_underscore_11: defy_kid_guard_they_confirm_trim_pave_border_luxury_drift_emerge
+bip_39_word_underscore_12: defy_kid_guard_they_confirm_trim_pave_border_luxury_drift_emerge_attitude
+bip_39_word_underscore_2: defy_kid
+bip_39_word_underscore_3: defy_kid_guard
+bip_39_word_underscore_4: defy_kid_guard_they
+bip_39_word_underscore_5: defy_kid_guard_they_confirm
+bip_39_word_underscore_6: defy_kid_guard_they_confirm_trim
+bip_39_word_underscore_7: defy_kid_guard_they_confirm_trim_pave
+bip_39_word_underscore_8: defy_kid_guard_they_confirm_trim_pave_border
+bip_39_word_underscore_9: defy_kid_guard_they_confirm_trim_pave_border_luxury
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

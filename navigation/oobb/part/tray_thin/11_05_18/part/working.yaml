@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grab
+bip_39_word_dash_10: grab-zebra-milk-cruel-fine-wasp-omit-pencil-market-leopard
+bip_39_word_dash_11: grab-zebra-milk-cruel-fine-wasp-omit-pencil-market-leopard-fitness
+bip_39_word_dash_12: grab-zebra-milk-cruel-fine-wasp-omit-pencil-market-leopard-fitness-arrow
+bip_39_word_dash_2: grab-zebra
+bip_39_word_dash_3: grab-zebra-milk
+bip_39_word_dash_4: grab-zebra-milk-cruel
+bip_39_word_dash_5: grab-zebra-milk-cruel-fine
+bip_39_word_dash_6: grab-zebra-milk-cruel-fine-wasp
+bip_39_word_dash_7: grab-zebra-milk-cruel-fine-wasp-omit
+bip_39_word_dash_8: grab-zebra-milk-cruel-fine-wasp-omit-pencil
+bip_39_word_dash_9: grab-zebra-milk-cruel-fine-wasp-omit-pencil-market
 bip_39_word_new_br_1: grab
 bip_39_word_new_br_10: grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil<br>market<br>leopard
 bip_39_word_new_br_11: grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil<br>market<br>leopard<br>fitness
@@ -192,6 +204,18 @@ bip_39_word_space_6: grab zebra milk cruel fine wasp
 bip_39_word_space_7: grab zebra milk cruel fine wasp omit
 bip_39_word_space_8: grab zebra milk cruel fine wasp omit pencil
 bip_39_word_space_9: grab zebra milk cruel fine wasp omit pencil market
+bip_39_word_underscore_1: grab
+bip_39_word_underscore_10: grab_zebra_milk_cruel_fine_wasp_omit_pencil_market_leopard
+bip_39_word_underscore_11: grab_zebra_milk_cruel_fine_wasp_omit_pencil_market_leopard_fitness
+bip_39_word_underscore_12: grab_zebra_milk_cruel_fine_wasp_omit_pencil_market_leopard_fitness_arrow
+bip_39_word_underscore_2: grab_zebra
+bip_39_word_underscore_3: grab_zebra_milk
+bip_39_word_underscore_4: grab_zebra_milk_cruel
+bip_39_word_underscore_5: grab_zebra_milk_cruel_fine
+bip_39_word_underscore_6: grab_zebra_milk_cruel_fine_wasp
+bip_39_word_underscore_7: grab_zebra_milk_cruel_fine_wasp_omit
+bip_39_word_underscore_8: grab_zebra_milk_cruel_fine_wasp_omit_pencil
+bip_39_word_underscore_9: grab_zebra_milk_cruel_fine_wasp_omit_pencil_market
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

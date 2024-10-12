@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | praise |  
+| bip_39_word_dash_10 | praise-frog-domain-scan-safe-whale-situate-fiscal-entry-kick |  
+| bip_39_word_dash_11 | praise-frog-domain-scan-safe-whale-situate-fiscal-entry-kick-daughter |  
+| bip_39_word_dash_12 | praise-frog-domain-scan-safe-whale-situate-fiscal-entry-kick-daughter-animal |  
+| bip_39_word_dash_2 | praise-frog |  
+| bip_39_word_dash_3 | praise-frog-domain |  
+| bip_39_word_dash_4 | praise-frog-domain-scan |  
+| bip_39_word_dash_5 | praise-frog-domain-scan-safe |  
+| bip_39_word_dash_6 | praise-frog-domain-scan-safe-whale |  
+| bip_39_word_dash_7 | praise-frog-domain-scan-safe-whale-situate |  
+| bip_39_word_dash_8 | praise-frog-domain-scan-safe-whale-situate-fiscal |  
+| bip_39_word_dash_9 | praise-frog-domain-scan-safe-whale-situate-fiscal-entry |  
 | bip_39_word_new_br_1 | praise |  
 | bip_39_word_new_br_10 | praise<br>frog<br>domain<br>scan<br>safe<br>whale<br>situate<br>fiscal<br>entry<br>kick |  
 | bip_39_word_new_br_11 | praise<br>frog<br>domain<br>scan<br>safe<br>whale<br>situate<br>fiscal<br>entry<br>kick<br>daughter |  
@@ -147,6 +159,18 @@ entry |
 | bip_39_word_space_7 | praise frog domain scan safe whale situate |  
 | bip_39_word_space_8 | praise frog domain scan safe whale situate fiscal |  
 | bip_39_word_space_9 | praise frog domain scan safe whale situate fiscal entry |  
+| bip_39_word_underscore_1 | praise |  
+| bip_39_word_underscore_10 | praise_frog_domain_scan_safe_whale_situate_fiscal_entry_kick |  
+| bip_39_word_underscore_11 | praise_frog_domain_scan_safe_whale_situate_fiscal_entry_kick_daughter |  
+| bip_39_word_underscore_12 | praise_frog_domain_scan_safe_whale_situate_fiscal_entry_kick_daughter_animal |  
+| bip_39_word_underscore_2 | praise_frog |  
+| bip_39_word_underscore_3 | praise_frog_domain |  
+| bip_39_word_underscore_4 | praise_frog_domain_scan |  
+| bip_39_word_underscore_5 | praise_frog_domain_scan_safe |  
+| bip_39_word_underscore_6 | praise_frog_domain_scan_safe_whale |  
+| bip_39_word_underscore_7 | praise_frog_domain_scan_safe_whale_situate |  
+| bip_39_word_underscore_8 | praise_frog_domain_scan_safe_whale_situate_fiscal |  
+| bip_39_word_underscore_9 | praise_frog_domain_scan_safe_whale_situate_fiscal_entry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

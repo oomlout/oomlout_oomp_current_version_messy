@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sing |  
+| bip_39_word_dash_10 | sing-alpha-future-whip-tunnel-loan-divorce-mixed-east-divide |  
+| bip_39_word_dash_11 | sing-alpha-future-whip-tunnel-loan-divorce-mixed-east-divide-mix |  
+| bip_39_word_dash_12 | sing-alpha-future-whip-tunnel-loan-divorce-mixed-east-divide-mix-among |  
+| bip_39_word_dash_2 | sing-alpha |  
+| bip_39_word_dash_3 | sing-alpha-future |  
+| bip_39_word_dash_4 | sing-alpha-future-whip |  
+| bip_39_word_dash_5 | sing-alpha-future-whip-tunnel |  
+| bip_39_word_dash_6 | sing-alpha-future-whip-tunnel-loan |  
+| bip_39_word_dash_7 | sing-alpha-future-whip-tunnel-loan-divorce |  
+| bip_39_word_dash_8 | sing-alpha-future-whip-tunnel-loan-divorce-mixed |  
+| bip_39_word_dash_9 | sing-alpha-future-whip-tunnel-loan-divorce-mixed-east |  
 | bip_39_word_new_br_1 | sing |  
 | bip_39_word_new_br_10 | sing<br>alpha<br>future<br>whip<br>tunnel<br>loan<br>divorce<br>mixed<br>east<br>divide |  
 | bip_39_word_new_br_11 | sing<br>alpha<br>future<br>whip<br>tunnel<br>loan<br>divorce<br>mixed<br>east<br>divide<br>mix |  
@@ -147,6 +159,18 @@ east |
 | bip_39_word_space_7 | sing alpha future whip tunnel loan divorce |  
 | bip_39_word_space_8 | sing alpha future whip tunnel loan divorce mixed |  
 | bip_39_word_space_9 | sing alpha future whip tunnel loan divorce mixed east |  
+| bip_39_word_underscore_1 | sing |  
+| bip_39_word_underscore_10 | sing_alpha_future_whip_tunnel_loan_divorce_mixed_east_divide |  
+| bip_39_word_underscore_11 | sing_alpha_future_whip_tunnel_loan_divorce_mixed_east_divide_mix |  
+| bip_39_word_underscore_12 | sing_alpha_future_whip_tunnel_loan_divorce_mixed_east_divide_mix_among |  
+| bip_39_word_underscore_2 | sing_alpha |  
+| bip_39_word_underscore_3 | sing_alpha_future |  
+| bip_39_word_underscore_4 | sing_alpha_future_whip |  
+| bip_39_word_underscore_5 | sing_alpha_future_whip_tunnel |  
+| bip_39_word_underscore_6 | sing_alpha_future_whip_tunnel_loan |  
+| bip_39_word_underscore_7 | sing_alpha_future_whip_tunnel_loan_divorce |  
+| bip_39_word_underscore_8 | sing_alpha_future_whip_tunnel_loan_divorce_mixed |  
+| bip_39_word_underscore_9 | sing_alpha_future_whip_tunnel_loan_divorce_mixed_east |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

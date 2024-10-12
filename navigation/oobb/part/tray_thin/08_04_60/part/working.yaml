@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flavor
+bip_39_word_dash_10: flavor-faith-teach-suspect-peanut-cabbage-until-warfare-sport-popular
+bip_39_word_dash_11: flavor-faith-teach-suspect-peanut-cabbage-until-warfare-sport-popular-lawn
+bip_39_word_dash_12: flavor-faith-teach-suspect-peanut-cabbage-until-warfare-sport-popular-lawn-august
+bip_39_word_dash_2: flavor-faith
+bip_39_word_dash_3: flavor-faith-teach
+bip_39_word_dash_4: flavor-faith-teach-suspect
+bip_39_word_dash_5: flavor-faith-teach-suspect-peanut
+bip_39_word_dash_6: flavor-faith-teach-suspect-peanut-cabbage
+bip_39_word_dash_7: flavor-faith-teach-suspect-peanut-cabbage-until
+bip_39_word_dash_8: flavor-faith-teach-suspect-peanut-cabbage-until-warfare
+bip_39_word_dash_9: flavor-faith-teach-suspect-peanut-cabbage-until-warfare-sport
 bip_39_word_new_br_1: flavor
 bip_39_word_new_br_10: flavor<br>faith<br>teach<br>suspect<br>peanut<br>cabbage<br>until<br>warfare<br>sport<br>popular
 bip_39_word_new_br_11: flavor<br>faith<br>teach<br>suspect<br>peanut<br>cabbage<br>until<br>warfare<br>sport<br>popular<br>lawn
@@ -194,6 +206,18 @@ bip_39_word_space_6: flavor faith teach suspect peanut cabbage
 bip_39_word_space_7: flavor faith teach suspect peanut cabbage until
 bip_39_word_space_8: flavor faith teach suspect peanut cabbage until warfare
 bip_39_word_space_9: flavor faith teach suspect peanut cabbage until warfare sport
+bip_39_word_underscore_1: flavor
+bip_39_word_underscore_10: flavor_faith_teach_suspect_peanut_cabbage_until_warfare_sport_popular
+bip_39_word_underscore_11: flavor_faith_teach_suspect_peanut_cabbage_until_warfare_sport_popular_lawn
+bip_39_word_underscore_12: flavor_faith_teach_suspect_peanut_cabbage_until_warfare_sport_popular_lawn_august
+bip_39_word_underscore_2: flavor_faith
+bip_39_word_underscore_3: flavor_faith_teach
+bip_39_word_underscore_4: flavor_faith_teach_suspect
+bip_39_word_underscore_5: flavor_faith_teach_suspect_peanut
+bip_39_word_underscore_6: flavor_faith_teach_suspect_peanut_cabbage
+bip_39_word_underscore_7: flavor_faith_teach_suspect_peanut_cabbage_until
+bip_39_word_underscore_8: flavor_faith_teach_suspect_peanut_cabbage_until_warfare
+bip_39_word_underscore_9: flavor_faith_teach_suspect_peanut_cabbage_until_warfare_sport
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

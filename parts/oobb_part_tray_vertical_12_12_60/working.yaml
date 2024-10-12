@@ -1,3 +1,15 @@
+bip_39_word_dash_1: west
+bip_39_word_dash_10: west-spread-skirt-beyond-narrow-night-light-casino-enrich-shoulder
+bip_39_word_dash_11: west-spread-skirt-beyond-narrow-night-light-casino-enrich-shoulder-stool
+bip_39_word_dash_12: west-spread-skirt-beyond-narrow-night-light-casino-enrich-shoulder-stool-about
+bip_39_word_dash_2: west-spread
+bip_39_word_dash_3: west-spread-skirt
+bip_39_word_dash_4: west-spread-skirt-beyond
+bip_39_word_dash_5: west-spread-skirt-beyond-narrow
+bip_39_word_dash_6: west-spread-skirt-beyond-narrow-night
+bip_39_word_dash_7: west-spread-skirt-beyond-narrow-night-light
+bip_39_word_dash_8: west-spread-skirt-beyond-narrow-night-light-casino
+bip_39_word_dash_9: west-spread-skirt-beyond-narrow-night-light-casino-enrich
 bip_39_word_new_br_1: west
 bip_39_word_new_br_10: west<br>spread<br>skirt<br>beyond<br>narrow<br>night<br>light<br>casino<br>enrich<br>shoulder
 bip_39_word_new_br_11: west<br>spread<br>skirt<br>beyond<br>narrow<br>night<br>light<br>casino<br>enrich<br>shoulder<br>stool
@@ -193,6 +205,18 @@ bip_39_word_space_6: west spread skirt beyond narrow night
 bip_39_word_space_7: west spread skirt beyond narrow night light
 bip_39_word_space_8: west spread skirt beyond narrow night light casino
 bip_39_word_space_9: west spread skirt beyond narrow night light casino enrich
+bip_39_word_underscore_1: west
+bip_39_word_underscore_10: west_spread_skirt_beyond_narrow_night_light_casino_enrich_shoulder
+bip_39_word_underscore_11: west_spread_skirt_beyond_narrow_night_light_casino_enrich_shoulder_stool
+bip_39_word_underscore_12: west_spread_skirt_beyond_narrow_night_light_casino_enrich_shoulder_stool_about
+bip_39_word_underscore_2: west_spread
+bip_39_word_underscore_3: west_spread_skirt
+bip_39_word_underscore_4: west_spread_skirt_beyond
+bip_39_word_underscore_5: west_spread_skirt_beyond_narrow
+bip_39_word_underscore_6: west_spread_skirt_beyond_narrow_night
+bip_39_word_underscore_7: west_spread_skirt_beyond_narrow_night_light
+bip_39_word_underscore_8: west_spread_skirt_beyond_narrow_night_light_casino
+bip_39_word_underscore_9: west_spread_skirt_beyond_narrow_night_light_casino_enrich
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

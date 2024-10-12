@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tree |  
+| bip_39_word_dash_10 | tree-amazing-drink-lunar-another-clog-bitter-vibrant-mask-super |  
+| bip_39_word_dash_11 | tree-amazing-drink-lunar-another-clog-bitter-vibrant-mask-super-afford |  
+| bip_39_word_dash_12 | tree-amazing-drink-lunar-another-clog-bitter-vibrant-mask-super-afford-abstract |  
+| bip_39_word_dash_2 | tree-amazing |  
+| bip_39_word_dash_3 | tree-amazing-drink |  
+| bip_39_word_dash_4 | tree-amazing-drink-lunar |  
+| bip_39_word_dash_5 | tree-amazing-drink-lunar-another |  
+| bip_39_word_dash_6 | tree-amazing-drink-lunar-another-clog |  
+| bip_39_word_dash_7 | tree-amazing-drink-lunar-another-clog-bitter |  
+| bip_39_word_dash_8 | tree-amazing-drink-lunar-another-clog-bitter-vibrant |  
+| bip_39_word_dash_9 | tree-amazing-drink-lunar-another-clog-bitter-vibrant-mask |  
 | bip_39_word_new_br_1 | tree |  
 | bip_39_word_new_br_10 | tree<br>amazing<br>drink<br>lunar<br>another<br>clog<br>bitter<br>vibrant<br>mask<br>super |  
 | bip_39_word_new_br_11 | tree<br>amazing<br>drink<br>lunar<br>another<br>clog<br>bitter<br>vibrant<br>mask<br>super<br>afford |  
@@ -147,6 +159,18 @@ mask |
 | bip_39_word_space_7 | tree amazing drink lunar another clog bitter |  
 | bip_39_word_space_8 | tree amazing drink lunar another clog bitter vibrant |  
 | bip_39_word_space_9 | tree amazing drink lunar another clog bitter vibrant mask |  
+| bip_39_word_underscore_1 | tree |  
+| bip_39_word_underscore_10 | tree_amazing_drink_lunar_another_clog_bitter_vibrant_mask_super |  
+| bip_39_word_underscore_11 | tree_amazing_drink_lunar_another_clog_bitter_vibrant_mask_super_afford |  
+| bip_39_word_underscore_12 | tree_amazing_drink_lunar_another_clog_bitter_vibrant_mask_super_afford_abstract |  
+| bip_39_word_underscore_2 | tree_amazing |  
+| bip_39_word_underscore_3 | tree_amazing_drink |  
+| bip_39_word_underscore_4 | tree_amazing_drink_lunar |  
+| bip_39_word_underscore_5 | tree_amazing_drink_lunar_another |  
+| bip_39_word_underscore_6 | tree_amazing_drink_lunar_another_clog |  
+| bip_39_word_underscore_7 | tree_amazing_drink_lunar_another_clog_bitter |  
+| bip_39_word_underscore_8 | tree_amazing_drink_lunar_another_clog_bitter_vibrant |  
+| bip_39_word_underscore_9 | tree_amazing_drink_lunar_another_clog_bitter_vibrant_mask |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

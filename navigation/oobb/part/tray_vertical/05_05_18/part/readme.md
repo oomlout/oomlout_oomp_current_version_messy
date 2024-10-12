@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ten |  
+| bip_39_word_dash_10 | ten-found-ivory-vast-reunion-slight-belt-sleep-shell-know |  
+| bip_39_word_dash_11 | ten-found-ivory-vast-reunion-slight-belt-sleep-shell-know-fade |  
+| bip_39_word_dash_12 | ten-found-ivory-vast-reunion-slight-belt-sleep-shell-know-fade-ask |  
+| bip_39_word_dash_2 | ten-found |  
+| bip_39_word_dash_3 | ten-found-ivory |  
+| bip_39_word_dash_4 | ten-found-ivory-vast |  
+| bip_39_word_dash_5 | ten-found-ivory-vast-reunion |  
+| bip_39_word_dash_6 | ten-found-ivory-vast-reunion-slight |  
+| bip_39_word_dash_7 | ten-found-ivory-vast-reunion-slight-belt |  
+| bip_39_word_dash_8 | ten-found-ivory-vast-reunion-slight-belt-sleep |  
+| bip_39_word_dash_9 | ten-found-ivory-vast-reunion-slight-belt-sleep-shell |  
 | bip_39_word_new_br_1 | ten |  
 | bip_39_word_new_br_10 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know |  
 | bip_39_word_new_br_11 | ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know<br>fade |  
@@ -147,6 +159,18 @@ shell |
 | bip_39_word_space_7 | ten found ivory vast reunion slight belt |  
 | bip_39_word_space_8 | ten found ivory vast reunion slight belt sleep |  
 | bip_39_word_space_9 | ten found ivory vast reunion slight belt sleep shell |  
+| bip_39_word_underscore_1 | ten |  
+| bip_39_word_underscore_10 | ten_found_ivory_vast_reunion_slight_belt_sleep_shell_know |  
+| bip_39_word_underscore_11 | ten_found_ivory_vast_reunion_slight_belt_sleep_shell_know_fade |  
+| bip_39_word_underscore_12 | ten_found_ivory_vast_reunion_slight_belt_sleep_shell_know_fade_ask |  
+| bip_39_word_underscore_2 | ten_found |  
+| bip_39_word_underscore_3 | ten_found_ivory |  
+| bip_39_word_underscore_4 | ten_found_ivory_vast |  
+| bip_39_word_underscore_5 | ten_found_ivory_vast_reunion |  
+| bip_39_word_underscore_6 | ten_found_ivory_vast_reunion_slight |  
+| bip_39_word_underscore_7 | ten_found_ivory_vast_reunion_slight_belt |  
+| bip_39_word_underscore_8 | ten_found_ivory_vast_reunion_slight_belt_sleep |  
+| bip_39_word_underscore_9 | ten_found_ivory_vast_reunion_slight_belt_sleep_shell |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

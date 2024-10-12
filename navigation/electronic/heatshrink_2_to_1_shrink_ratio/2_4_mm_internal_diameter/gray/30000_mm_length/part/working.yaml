@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cattle
+bip_39_word_dash_10: cattle-cherry-wise-invest-idea-permit-minor-tip-curve-citizen
+bip_39_word_dash_11: cattle-cherry-wise-invest-idea-permit-minor-tip-curve-citizen-bind
+bip_39_word_dash_12: cattle-cherry-wise-invest-idea-permit-minor-tip-curve-citizen-bind-acid
+bip_39_word_dash_2: cattle-cherry
+bip_39_word_dash_3: cattle-cherry-wise
+bip_39_word_dash_4: cattle-cherry-wise-invest
+bip_39_word_dash_5: cattle-cherry-wise-invest-idea
+bip_39_word_dash_6: cattle-cherry-wise-invest-idea-permit
+bip_39_word_dash_7: cattle-cherry-wise-invest-idea-permit-minor
+bip_39_word_dash_8: cattle-cherry-wise-invest-idea-permit-minor-tip
+bip_39_word_dash_9: cattle-cherry-wise-invest-idea-permit-minor-tip-curve
 bip_39_word_new_br_1: cattle
 bip_39_word_new_br_10: cattle<br>cherry<br>wise<br>invest<br>idea<br>permit<br>minor<br>tip<br>curve<br>citizen
 bip_39_word_new_br_11: cattle<br>cherry<br>wise<br>invest<br>idea<br>permit<br>minor<br>tip<br>curve<br>citizen<br>bind
@@ -193,6 +205,18 @@ bip_39_word_space_6: cattle cherry wise invest idea permit
 bip_39_word_space_7: cattle cherry wise invest idea permit minor
 bip_39_word_space_8: cattle cherry wise invest idea permit minor tip
 bip_39_word_space_9: cattle cherry wise invest idea permit minor tip curve
+bip_39_word_underscore_1: cattle
+bip_39_word_underscore_10: cattle_cherry_wise_invest_idea_permit_minor_tip_curve_citizen
+bip_39_word_underscore_11: cattle_cherry_wise_invest_idea_permit_minor_tip_curve_citizen_bind
+bip_39_word_underscore_12: cattle_cherry_wise_invest_idea_permit_minor_tip_curve_citizen_bind_acid
+bip_39_word_underscore_2: cattle_cherry
+bip_39_word_underscore_3: cattle_cherry_wise
+bip_39_word_underscore_4: cattle_cherry_wise_invest
+bip_39_word_underscore_5: cattle_cherry_wise_invest_idea
+bip_39_word_underscore_6: cattle_cherry_wise_invest_idea_permit
+bip_39_word_underscore_7: cattle_cherry_wise_invest_idea_permit_minor
+bip_39_word_underscore_8: cattle_cherry_wise_invest_idea_permit_minor_tip
+bip_39_word_underscore_9: cattle_cherry_wise_invest_idea_permit_minor_tip_curve
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

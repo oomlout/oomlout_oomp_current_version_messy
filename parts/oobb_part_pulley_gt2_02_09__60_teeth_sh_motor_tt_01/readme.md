@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | absurd |  
+| bip_39_word_dash_10 | absurd-person-gloom-diary-diamond-dolphin-tired-inch-bullet-october |  
+| bip_39_word_dash_11 | absurd-person-gloom-diary-diamond-dolphin-tired-inch-bullet-october-tent |  
+| bip_39_word_dash_12 | absurd-person-gloom-diary-diamond-dolphin-tired-inch-bullet-october-tent-arena |  
+| bip_39_word_dash_2 | absurd-person |  
+| bip_39_word_dash_3 | absurd-person-gloom |  
+| bip_39_word_dash_4 | absurd-person-gloom-diary |  
+| bip_39_word_dash_5 | absurd-person-gloom-diary-diamond |  
+| bip_39_word_dash_6 | absurd-person-gloom-diary-diamond-dolphin |  
+| bip_39_word_dash_7 | absurd-person-gloom-diary-diamond-dolphin-tired |  
+| bip_39_word_dash_8 | absurd-person-gloom-diary-diamond-dolphin-tired-inch |  
+| bip_39_word_dash_9 | absurd-person-gloom-diary-diamond-dolphin-tired-inch-bullet |  
 | bip_39_word_new_br_1 | absurd |  
 | bip_39_word_new_br_10 | absurd<br>person<br>gloom<br>diary<br>diamond<br>dolphin<br>tired<br>inch<br>bullet<br>october |  
 | bip_39_word_new_br_11 | absurd<br>person<br>gloom<br>diary<br>diamond<br>dolphin<br>tired<br>inch<br>bullet<br>october<br>tent |  
@@ -147,6 +159,18 @@ bullet |
 | bip_39_word_space_7 | absurd person gloom diary diamond dolphin tired |  
 | bip_39_word_space_8 | absurd person gloom diary diamond dolphin tired inch |  
 | bip_39_word_space_9 | absurd person gloom diary diamond dolphin tired inch bullet |  
+| bip_39_word_underscore_1 | absurd |  
+| bip_39_word_underscore_10 | absurd_person_gloom_diary_diamond_dolphin_tired_inch_bullet_october |  
+| bip_39_word_underscore_11 | absurd_person_gloom_diary_diamond_dolphin_tired_inch_bullet_october_tent |  
+| bip_39_word_underscore_12 | absurd_person_gloom_diary_diamond_dolphin_tired_inch_bullet_october_tent_arena |  
+| bip_39_word_underscore_2 | absurd_person |  
+| bip_39_word_underscore_3 | absurd_person_gloom |  
+| bip_39_word_underscore_4 | absurd_person_gloom_diary |  
+| bip_39_word_underscore_5 | absurd_person_gloom_diary_diamond |  
+| bip_39_word_underscore_6 | absurd_person_gloom_diary_diamond_dolphin |  
+| bip_39_word_underscore_7 | absurd_person_gloom_diary_diamond_dolphin_tired |  
+| bip_39_word_underscore_8 | absurd_person_gloom_diary_diamond_dolphin_tired_inch |  
+| bip_39_word_underscore_9 | absurd_person_gloom_diary_diamond_dolphin_tired_inch_bullet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thought |  
+| bip_39_word_dash_10 | thought-hole-crop-because-omit-enough-rubber-blame-road-patch |  
+| bip_39_word_dash_11 | thought-hole-crop-because-omit-enough-rubber-blame-road-patch-notable |  
+| bip_39_word_dash_12 | thought-hole-crop-because-omit-enough-rubber-blame-road-patch-notable-accuse |  
+| bip_39_word_dash_2 | thought-hole |  
+| bip_39_word_dash_3 | thought-hole-crop |  
+| bip_39_word_dash_4 | thought-hole-crop-because |  
+| bip_39_word_dash_5 | thought-hole-crop-because-omit |  
+| bip_39_word_dash_6 | thought-hole-crop-because-omit-enough |  
+| bip_39_word_dash_7 | thought-hole-crop-because-omit-enough-rubber |  
+| bip_39_word_dash_8 | thought-hole-crop-because-omit-enough-rubber-blame |  
+| bip_39_word_dash_9 | thought-hole-crop-because-omit-enough-rubber-blame-road |  
 | bip_39_word_new_br_1 | thought |  
 | bip_39_word_new_br_10 | thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch |  
 | bip_39_word_new_br_11 | thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch<br>notable |  
@@ -147,6 +159,18 @@ road |
 | bip_39_word_space_7 | thought hole crop because omit enough rubber |  
 | bip_39_word_space_8 | thought hole crop because omit enough rubber blame |  
 | bip_39_word_space_9 | thought hole crop because omit enough rubber blame road |  
+| bip_39_word_underscore_1 | thought |  
+| bip_39_word_underscore_10 | thought_hole_crop_because_omit_enough_rubber_blame_road_patch |  
+| bip_39_word_underscore_11 | thought_hole_crop_because_omit_enough_rubber_blame_road_patch_notable |  
+| bip_39_word_underscore_12 | thought_hole_crop_because_omit_enough_rubber_blame_road_patch_notable_accuse |  
+| bip_39_word_underscore_2 | thought_hole |  
+| bip_39_word_underscore_3 | thought_hole_crop |  
+| bip_39_word_underscore_4 | thought_hole_crop_because |  
+| bip_39_word_underscore_5 | thought_hole_crop_because_omit |  
+| bip_39_word_underscore_6 | thought_hole_crop_because_omit_enough |  
+| bip_39_word_underscore_7 | thought_hole_crop_because_omit_enough_rubber |  
+| bip_39_word_underscore_8 | thought_hole_crop_because_omit_enough_rubber_blame |  
+| bip_39_word_underscore_9 | thought_hole_crop_because_omit_enough_rubber_blame_road |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

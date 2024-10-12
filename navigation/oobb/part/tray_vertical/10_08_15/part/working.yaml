@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ecology
+bip_39_word_dash_10: ecology-flag-immune-stool-crane-essence-supply-couch-matrix-social
+bip_39_word_dash_11: ecology-flag-immune-stool-crane-essence-supply-couch-matrix-social-solar
+bip_39_word_dash_12: ecology-flag-immune-stool-crane-essence-supply-couch-matrix-social-solar-audit
+bip_39_word_dash_2: ecology-flag
+bip_39_word_dash_3: ecology-flag-immune
+bip_39_word_dash_4: ecology-flag-immune-stool
+bip_39_word_dash_5: ecology-flag-immune-stool-crane
+bip_39_word_dash_6: ecology-flag-immune-stool-crane-essence
+bip_39_word_dash_7: ecology-flag-immune-stool-crane-essence-supply
+bip_39_word_dash_8: ecology-flag-immune-stool-crane-essence-supply-couch
+bip_39_word_dash_9: ecology-flag-immune-stool-crane-essence-supply-couch-matrix
 bip_39_word_new_br_1: ecology
 bip_39_word_new_br_10: ecology<br>flag<br>immune<br>stool<br>crane<br>essence<br>supply<br>couch<br>matrix<br>social
 bip_39_word_new_br_11: ecology<br>flag<br>immune<br>stool<br>crane<br>essence<br>supply<br>couch<br>matrix<br>social<br>solar
@@ -194,6 +206,18 @@ bip_39_word_space_6: ecology flag immune stool crane essence
 bip_39_word_space_7: ecology flag immune stool crane essence supply
 bip_39_word_space_8: ecology flag immune stool crane essence supply couch
 bip_39_word_space_9: ecology flag immune stool crane essence supply couch matrix
+bip_39_word_underscore_1: ecology
+bip_39_word_underscore_10: ecology_flag_immune_stool_crane_essence_supply_couch_matrix_social
+bip_39_word_underscore_11: ecology_flag_immune_stool_crane_essence_supply_couch_matrix_social_solar
+bip_39_word_underscore_12: ecology_flag_immune_stool_crane_essence_supply_couch_matrix_social_solar_audit
+bip_39_word_underscore_2: ecology_flag
+bip_39_word_underscore_3: ecology_flag_immune
+bip_39_word_underscore_4: ecology_flag_immune_stool
+bip_39_word_underscore_5: ecology_flag_immune_stool_crane
+bip_39_word_underscore_6: ecology_flag_immune_stool_crane_essence
+bip_39_word_underscore_7: ecology_flag_immune_stool_crane_essence_supply
+bip_39_word_underscore_8: ecology_flag_immune_stool_crane_essence_supply_couch
+bip_39_word_underscore_9: ecology_flag_immune_stool_crane_essence_supply_couch_matrix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

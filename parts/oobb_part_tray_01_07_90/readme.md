@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pyramid |  
+| bip_39_word_dash_10 | pyramid-horse-amazing-mask-inject-mirror-paddle-safe-just-cube |  
+| bip_39_word_dash_11 | pyramid-horse-amazing-mask-inject-mirror-paddle-safe-just-cube-over |  
+| bip_39_word_dash_12 | pyramid-horse-amazing-mask-inject-mirror-paddle-safe-just-cube-over-across |  
+| bip_39_word_dash_2 | pyramid-horse |  
+| bip_39_word_dash_3 | pyramid-horse-amazing |  
+| bip_39_word_dash_4 | pyramid-horse-amazing-mask |  
+| bip_39_word_dash_5 | pyramid-horse-amazing-mask-inject |  
+| bip_39_word_dash_6 | pyramid-horse-amazing-mask-inject-mirror |  
+| bip_39_word_dash_7 | pyramid-horse-amazing-mask-inject-mirror-paddle |  
+| bip_39_word_dash_8 | pyramid-horse-amazing-mask-inject-mirror-paddle-safe |  
+| bip_39_word_dash_9 | pyramid-horse-amazing-mask-inject-mirror-paddle-safe-just |  
 | bip_39_word_new_br_1 | pyramid |  
 | bip_39_word_new_br_10 | pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe<br>just<br>cube |  
 | bip_39_word_new_br_11 | pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe<br>just<br>cube<br>over |  
@@ -147,6 +159,18 @@ just |
 | bip_39_word_space_7 | pyramid horse amazing mask inject mirror paddle |  
 | bip_39_word_space_8 | pyramid horse amazing mask inject mirror paddle safe |  
 | bip_39_word_space_9 | pyramid horse amazing mask inject mirror paddle safe just |  
+| bip_39_word_underscore_1 | pyramid |  
+| bip_39_word_underscore_10 | pyramid_horse_amazing_mask_inject_mirror_paddle_safe_just_cube |  
+| bip_39_word_underscore_11 | pyramid_horse_amazing_mask_inject_mirror_paddle_safe_just_cube_over |  
+| bip_39_word_underscore_12 | pyramid_horse_amazing_mask_inject_mirror_paddle_safe_just_cube_over_across |  
+| bip_39_word_underscore_2 | pyramid_horse |  
+| bip_39_word_underscore_3 | pyramid_horse_amazing |  
+| bip_39_word_underscore_4 | pyramid_horse_amazing_mask |  
+| bip_39_word_underscore_5 | pyramid_horse_amazing_mask_inject |  
+| bip_39_word_underscore_6 | pyramid_horse_amazing_mask_inject_mirror |  
+| bip_39_word_underscore_7 | pyramid_horse_amazing_mask_inject_mirror_paddle |  
+| bip_39_word_underscore_8 | pyramid_horse_amazing_mask_inject_mirror_paddle_safe |  
+| bip_39_word_underscore_9 | pyramid_horse_amazing_mask_inject_mirror_paddle_safe_just |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

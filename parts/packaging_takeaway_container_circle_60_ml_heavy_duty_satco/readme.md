@@ -33,6 +33,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sport |  
+| bip_39_word_dash_10 | sport-bread-window-deer-tennis-decorate-sword-impact-cube-unveil |  
+| bip_39_word_dash_11 | sport-bread-window-deer-tennis-decorate-sword-impact-cube-unveil-allow |  
+| bip_39_word_dash_12 | sport-bread-window-deer-tennis-decorate-sword-impact-cube-unveil-allow-almost |  
+| bip_39_word_dash_2 | sport-bread |  
+| bip_39_word_dash_3 | sport-bread-window |  
+| bip_39_word_dash_4 | sport-bread-window-deer |  
+| bip_39_word_dash_5 | sport-bread-window-deer-tennis |  
+| bip_39_word_dash_6 | sport-bread-window-deer-tennis-decorate |  
+| bip_39_word_dash_7 | sport-bread-window-deer-tennis-decorate-sword |  
+| bip_39_word_dash_8 | sport-bread-window-deer-tennis-decorate-sword-impact |  
+| bip_39_word_dash_9 | sport-bread-window-deer-tennis-decorate-sword-impact-cube |  
 | bip_39_word_new_br_1 | sport |  
 | bip_39_word_new_br_10 | sport<br>bread<br>window<br>deer<br>tennis<br>decorate<br>sword<br>impact<br>cube<br>unveil |  
 | bip_39_word_new_br_11 | sport<br>bread<br>window<br>deer<br>tennis<br>decorate<br>sword<br>impact<br>cube<br>unveil<br>allow |  
@@ -148,6 +160,18 @@ cube |
 | bip_39_word_space_7 | sport bread window deer tennis decorate sword |  
 | bip_39_word_space_8 | sport bread window deer tennis decorate sword impact |  
 | bip_39_word_space_9 | sport bread window deer tennis decorate sword impact cube |  
+| bip_39_word_underscore_1 | sport |  
+| bip_39_word_underscore_10 | sport_bread_window_deer_tennis_decorate_sword_impact_cube_unveil |  
+| bip_39_word_underscore_11 | sport_bread_window_deer_tennis_decorate_sword_impact_cube_unveil_allow |  
+| bip_39_word_underscore_12 | sport_bread_window_deer_tennis_decorate_sword_impact_cube_unveil_allow_almost |  
+| bip_39_word_underscore_2 | sport_bread |  
+| bip_39_word_underscore_3 | sport_bread_window |  
+| bip_39_word_underscore_4 | sport_bread_window_deer |  
+| bip_39_word_underscore_5 | sport_bread_window_deer_tennis |  
+| bip_39_word_underscore_6 | sport_bread_window_deer_tennis_decorate |  
+| bip_39_word_underscore_7 | sport_bread_window_deer_tennis_decorate_sword |  
+| bip_39_word_underscore_8 | sport_bread_window_deer_tennis_decorate_sword_impact |  
+| bip_39_word_underscore_9 | sport_bread_window_deer_tennis_decorate_sword_impact_cube |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

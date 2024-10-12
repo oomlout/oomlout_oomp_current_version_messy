@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vintage |  
+| bip_39_word_dash_10 | vintage-sword-dash-session-sauce-helmet-shoulder-sort-pistol-hat |  
+| bip_39_word_dash_11 | vintage-sword-dash-session-sauce-helmet-shoulder-sort-pistol-hat-range |  
+| bip_39_word_dash_12 | vintage-sword-dash-session-sauce-helmet-shoulder-sort-pistol-hat-range-any |  
+| bip_39_word_dash_2 | vintage-sword |  
+| bip_39_word_dash_3 | vintage-sword-dash |  
+| bip_39_word_dash_4 | vintage-sword-dash-session |  
+| bip_39_word_dash_5 | vintage-sword-dash-session-sauce |  
+| bip_39_word_dash_6 | vintage-sword-dash-session-sauce-helmet |  
+| bip_39_word_dash_7 | vintage-sword-dash-session-sauce-helmet-shoulder |  
+| bip_39_word_dash_8 | vintage-sword-dash-session-sauce-helmet-shoulder-sort |  
+| bip_39_word_dash_9 | vintage-sword-dash-session-sauce-helmet-shoulder-sort-pistol |  
 | bip_39_word_new_br_1 | vintage |  
 | bip_39_word_new_br_10 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat |  
 | bip_39_word_new_br_11 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat<br>range |  
@@ -147,6 +159,18 @@ pistol |
 | bip_39_word_space_7 | vintage sword dash session sauce helmet shoulder |  
 | bip_39_word_space_8 | vintage sword dash session sauce helmet shoulder sort |  
 | bip_39_word_space_9 | vintage sword dash session sauce helmet shoulder sort pistol |  
+| bip_39_word_underscore_1 | vintage |  
+| bip_39_word_underscore_10 | vintage_sword_dash_session_sauce_helmet_shoulder_sort_pistol_hat |  
+| bip_39_word_underscore_11 | vintage_sword_dash_session_sauce_helmet_shoulder_sort_pistol_hat_range |  
+| bip_39_word_underscore_12 | vintage_sword_dash_session_sauce_helmet_shoulder_sort_pistol_hat_range_any |  
+| bip_39_word_underscore_2 | vintage_sword |  
+| bip_39_word_underscore_3 | vintage_sword_dash |  
+| bip_39_word_underscore_4 | vintage_sword_dash_session |  
+| bip_39_word_underscore_5 | vintage_sword_dash_session_sauce |  
+| bip_39_word_underscore_6 | vintage_sword_dash_session_sauce_helmet |  
+| bip_39_word_underscore_7 | vintage_sword_dash_session_sauce_helmet_shoulder |  
+| bip_39_word_underscore_8 | vintage_sword_dash_session_sauce_helmet_shoulder_sort |  
+| bip_39_word_underscore_9 | vintage_sword_dash_session_sauce_helmet_shoulder_sort_pistol |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | simple |  
+| bip_39_word_dash_10 | simple-once-pepper-border-seat-release-nuclear-snow-kick-dust |  
+| bip_39_word_dash_11 | simple-once-pepper-border-seat-release-nuclear-snow-kick-dust-brass |  
+| bip_39_word_dash_12 | simple-once-pepper-border-seat-release-nuclear-snow-kick-dust-brass-argue |  
+| bip_39_word_dash_2 | simple-once |  
+| bip_39_word_dash_3 | simple-once-pepper |  
+| bip_39_word_dash_4 | simple-once-pepper-border |  
+| bip_39_word_dash_5 | simple-once-pepper-border-seat |  
+| bip_39_word_dash_6 | simple-once-pepper-border-seat-release |  
+| bip_39_word_dash_7 | simple-once-pepper-border-seat-release-nuclear |  
+| bip_39_word_dash_8 | simple-once-pepper-border-seat-release-nuclear-snow |  
+| bip_39_word_dash_9 | simple-once-pepper-border-seat-release-nuclear-snow-kick |  
 | bip_39_word_new_br_1 | simple |  
 | bip_39_word_new_br_10 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow<br>kick<br>dust |  
 | bip_39_word_new_br_11 | simple<br>once<br>pepper<br>border<br>seat<br>release<br>nuclear<br>snow<br>kick<br>dust<br>brass |  
@@ -147,6 +159,18 @@ kick |
 | bip_39_word_space_7 | simple once pepper border seat release nuclear |  
 | bip_39_word_space_8 | simple once pepper border seat release nuclear snow |  
 | bip_39_word_space_9 | simple once pepper border seat release nuclear snow kick |  
+| bip_39_word_underscore_1 | simple |  
+| bip_39_word_underscore_10 | simple_once_pepper_border_seat_release_nuclear_snow_kick_dust |  
+| bip_39_word_underscore_11 | simple_once_pepper_border_seat_release_nuclear_snow_kick_dust_brass |  
+| bip_39_word_underscore_12 | simple_once_pepper_border_seat_release_nuclear_snow_kick_dust_brass_argue |  
+| bip_39_word_underscore_2 | simple_once |  
+| bip_39_word_underscore_3 | simple_once_pepper |  
+| bip_39_word_underscore_4 | simple_once_pepper_border |  
+| bip_39_word_underscore_5 | simple_once_pepper_border_seat |  
+| bip_39_word_underscore_6 | simple_once_pepper_border_seat_release |  
+| bip_39_word_underscore_7 | simple_once_pepper_border_seat_release_nuclear |  
+| bip_39_word_underscore_8 | simple_once_pepper_border_seat_release_nuclear_snow |  
+| bip_39_word_underscore_9 | simple_once_pepper_border_seat_release_nuclear_snow_kick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

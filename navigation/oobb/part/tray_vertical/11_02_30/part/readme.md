@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | web |  
+| bip_39_word_dash_10 | web-manual-sing-comic-quality-canyon-boil-knock-prevent-elder |  
+| bip_39_word_dash_11 | web-manual-sing-comic-quality-canyon-boil-knock-prevent-elder-season |  
+| bip_39_word_dash_12 | web-manual-sing-comic-quality-canyon-boil-knock-prevent-elder-season-attract |  
+| bip_39_word_dash_2 | web-manual |  
+| bip_39_word_dash_3 | web-manual-sing |  
+| bip_39_word_dash_4 | web-manual-sing-comic |  
+| bip_39_word_dash_5 | web-manual-sing-comic-quality |  
+| bip_39_word_dash_6 | web-manual-sing-comic-quality-canyon |  
+| bip_39_word_dash_7 | web-manual-sing-comic-quality-canyon-boil |  
+| bip_39_word_dash_8 | web-manual-sing-comic-quality-canyon-boil-knock |  
+| bip_39_word_dash_9 | web-manual-sing-comic-quality-canyon-boil-knock-prevent |  
 | bip_39_word_new_br_1 | web |  
 | bip_39_word_new_br_10 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock<br>prevent<br>elder |  
 | bip_39_word_new_br_11 | web<br>manual<br>sing<br>comic<br>quality<br>canyon<br>boil<br>knock<br>prevent<br>elder<br>season |  
@@ -147,6 +159,18 @@ prevent |
 | bip_39_word_space_7 | web manual sing comic quality canyon boil |  
 | bip_39_word_space_8 | web manual sing comic quality canyon boil knock |  
 | bip_39_word_space_9 | web manual sing comic quality canyon boil knock prevent |  
+| bip_39_word_underscore_1 | web |  
+| bip_39_word_underscore_10 | web_manual_sing_comic_quality_canyon_boil_knock_prevent_elder |  
+| bip_39_word_underscore_11 | web_manual_sing_comic_quality_canyon_boil_knock_prevent_elder_season |  
+| bip_39_word_underscore_12 | web_manual_sing_comic_quality_canyon_boil_knock_prevent_elder_season_attract |  
+| bip_39_word_underscore_2 | web_manual |  
+| bip_39_word_underscore_3 | web_manual_sing |  
+| bip_39_word_underscore_4 | web_manual_sing_comic |  
+| bip_39_word_underscore_5 | web_manual_sing_comic_quality |  
+| bip_39_word_underscore_6 | web_manual_sing_comic_quality_canyon |  
+| bip_39_word_underscore_7 | web_manual_sing_comic_quality_canyon_boil |  
+| bip_39_word_underscore_8 | web_manual_sing_comic_quality_canyon_boil_knock |  
+| bip_39_word_underscore_9 | web_manual_sing_comic_quality_canyon_boil_knock_prevent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blood
+bip_39_word_dash_10: blood-broken-puppy-voyage-grow-person-before-alert-sustain-waste
+bip_39_word_dash_11: blood-broken-puppy-voyage-grow-person-before-alert-sustain-waste-supply
+bip_39_word_dash_12: blood-broken-puppy-voyage-grow-person-before-alert-sustain-waste-supply-addict
+bip_39_word_dash_2: blood-broken
+bip_39_word_dash_3: blood-broken-puppy
+bip_39_word_dash_4: blood-broken-puppy-voyage
+bip_39_word_dash_5: blood-broken-puppy-voyage-grow
+bip_39_word_dash_6: blood-broken-puppy-voyage-grow-person
+bip_39_word_dash_7: blood-broken-puppy-voyage-grow-person-before
+bip_39_word_dash_8: blood-broken-puppy-voyage-grow-person-before-alert
+bip_39_word_dash_9: blood-broken-puppy-voyage-grow-person-before-alert-sustain
 bip_39_word_new_br_1: blood
 bip_39_word_new_br_10: blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert<br>sustain<br>waste
 bip_39_word_new_br_11: blood<br>broken<br>puppy<br>voyage<br>grow<br>person<br>before<br>alert<br>sustain<br>waste<br>supply
@@ -193,6 +205,18 @@ bip_39_word_space_6: blood broken puppy voyage grow person
 bip_39_word_space_7: blood broken puppy voyage grow person before
 bip_39_word_space_8: blood broken puppy voyage grow person before alert
 bip_39_word_space_9: blood broken puppy voyage grow person before alert sustain
+bip_39_word_underscore_1: blood
+bip_39_word_underscore_10: blood_broken_puppy_voyage_grow_person_before_alert_sustain_waste
+bip_39_word_underscore_11: blood_broken_puppy_voyage_grow_person_before_alert_sustain_waste_supply
+bip_39_word_underscore_12: blood_broken_puppy_voyage_grow_person_before_alert_sustain_waste_supply_addict
+bip_39_word_underscore_2: blood_broken
+bip_39_word_underscore_3: blood_broken_puppy
+bip_39_word_underscore_4: blood_broken_puppy_voyage
+bip_39_word_underscore_5: blood_broken_puppy_voyage_grow
+bip_39_word_underscore_6: blood_broken_puppy_voyage_grow_person
+bip_39_word_underscore_7: blood_broken_puppy_voyage_grow_person_before
+bip_39_word_underscore_8: blood_broken_puppy_voyage_grow_person_before_alert
+bip_39_word_underscore_9: blood_broken_puppy_voyage_grow_person_before_alert_sustain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

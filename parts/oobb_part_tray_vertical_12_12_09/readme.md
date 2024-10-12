@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | knife |  
+| bip_39_word_dash_10 | knife-churn-approve-fatigue-milk-inquiry-rack-increase-impose-minute |  
+| bip_39_word_dash_11 | knife-churn-approve-fatigue-milk-inquiry-rack-increase-impose-minute-volume |  
+| bip_39_word_dash_12 | knife-churn-approve-fatigue-milk-inquiry-rack-increase-impose-minute-volume-argue |  
+| bip_39_word_dash_2 | knife-churn |  
+| bip_39_word_dash_3 | knife-churn-approve |  
+| bip_39_word_dash_4 | knife-churn-approve-fatigue |  
+| bip_39_word_dash_5 | knife-churn-approve-fatigue-milk |  
+| bip_39_word_dash_6 | knife-churn-approve-fatigue-milk-inquiry |  
+| bip_39_word_dash_7 | knife-churn-approve-fatigue-milk-inquiry-rack |  
+| bip_39_word_dash_8 | knife-churn-approve-fatigue-milk-inquiry-rack-increase |  
+| bip_39_word_dash_9 | knife-churn-approve-fatigue-milk-inquiry-rack-increase-impose |  
 | bip_39_word_new_br_1 | knife |  
 | bip_39_word_new_br_10 | knife<br>churn<br>approve<br>fatigue<br>milk<br>inquiry<br>rack<br>increase<br>impose<br>minute |  
 | bip_39_word_new_br_11 | knife<br>churn<br>approve<br>fatigue<br>milk<br>inquiry<br>rack<br>increase<br>impose<br>minute<br>volume |  
@@ -147,6 +159,18 @@ impose |
 | bip_39_word_space_7 | knife churn approve fatigue milk inquiry rack |  
 | bip_39_word_space_8 | knife churn approve fatigue milk inquiry rack increase |  
 | bip_39_word_space_9 | knife churn approve fatigue milk inquiry rack increase impose |  
+| bip_39_word_underscore_1 | knife |  
+| bip_39_word_underscore_10 | knife_churn_approve_fatigue_milk_inquiry_rack_increase_impose_minute |  
+| bip_39_word_underscore_11 | knife_churn_approve_fatigue_milk_inquiry_rack_increase_impose_minute_volume |  
+| bip_39_word_underscore_12 | knife_churn_approve_fatigue_milk_inquiry_rack_increase_impose_minute_volume_argue |  
+| bip_39_word_underscore_2 | knife_churn |  
+| bip_39_word_underscore_3 | knife_churn_approve |  
+| bip_39_word_underscore_4 | knife_churn_approve_fatigue |  
+| bip_39_word_underscore_5 | knife_churn_approve_fatigue_milk |  
+| bip_39_word_underscore_6 | knife_churn_approve_fatigue_milk_inquiry |  
+| bip_39_word_underscore_7 | knife_churn_approve_fatigue_milk_inquiry_rack |  
+| bip_39_word_underscore_8 | knife_churn_approve_fatigue_milk_inquiry_rack_increase |  
+| bip_39_word_underscore_9 | knife_churn_approve_fatigue_milk_inquiry_rack_increase_impose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

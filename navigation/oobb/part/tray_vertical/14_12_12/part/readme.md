@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | element |  
+| bip_39_word_dash_10 | element-discover-balcony-hawk-trumpet-rotate-cook-fade-woman-hurdle |  
+| bip_39_word_dash_11 | element-discover-balcony-hawk-trumpet-rotate-cook-fade-woman-hurdle-pudding |  
+| bip_39_word_dash_12 | element-discover-balcony-hawk-trumpet-rotate-cook-fade-woman-hurdle-pudding-assist |  
+| bip_39_word_dash_2 | element-discover |  
+| bip_39_word_dash_3 | element-discover-balcony |  
+| bip_39_word_dash_4 | element-discover-balcony-hawk |  
+| bip_39_word_dash_5 | element-discover-balcony-hawk-trumpet |  
+| bip_39_word_dash_6 | element-discover-balcony-hawk-trumpet-rotate |  
+| bip_39_word_dash_7 | element-discover-balcony-hawk-trumpet-rotate-cook |  
+| bip_39_word_dash_8 | element-discover-balcony-hawk-trumpet-rotate-cook-fade |  
+| bip_39_word_dash_9 | element-discover-balcony-hawk-trumpet-rotate-cook-fade-woman |  
 | bip_39_word_new_br_1 | element |  
 | bip_39_word_new_br_10 | element<br>discover<br>balcony<br>hawk<br>trumpet<br>rotate<br>cook<br>fade<br>woman<br>hurdle |  
 | bip_39_word_new_br_11 | element<br>discover<br>balcony<br>hawk<br>trumpet<br>rotate<br>cook<br>fade<br>woman<br>hurdle<br>pudding |  
@@ -147,6 +159,18 @@ woman |
 | bip_39_word_space_7 | element discover balcony hawk trumpet rotate cook |  
 | bip_39_word_space_8 | element discover balcony hawk trumpet rotate cook fade |  
 | bip_39_word_space_9 | element discover balcony hawk trumpet rotate cook fade woman |  
+| bip_39_word_underscore_1 | element |  
+| bip_39_word_underscore_10 | element_discover_balcony_hawk_trumpet_rotate_cook_fade_woman_hurdle |  
+| bip_39_word_underscore_11 | element_discover_balcony_hawk_trumpet_rotate_cook_fade_woman_hurdle_pudding |  
+| bip_39_word_underscore_12 | element_discover_balcony_hawk_trumpet_rotate_cook_fade_woman_hurdle_pudding_assist |  
+| bip_39_word_underscore_2 | element_discover |  
+| bip_39_word_underscore_3 | element_discover_balcony |  
+| bip_39_word_underscore_4 | element_discover_balcony_hawk |  
+| bip_39_word_underscore_5 | element_discover_balcony_hawk_trumpet |  
+| bip_39_word_underscore_6 | element_discover_balcony_hawk_trumpet_rotate |  
+| bip_39_word_underscore_7 | element_discover_balcony_hawk_trumpet_rotate_cook |  
+| bip_39_word_underscore_8 | element_discover_balcony_hawk_trumpet_rotate_cook_fade |  
+| bip_39_word_underscore_9 | element_discover_balcony_hawk_trumpet_rotate_cook_fade_woman |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

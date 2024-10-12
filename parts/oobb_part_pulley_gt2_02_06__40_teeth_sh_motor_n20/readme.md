@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | heavy |  
+| bip_39_word_dash_10 | heavy-weekend-december-egg-nature-develop-rug-tag-fish-slush |  
+| bip_39_word_dash_11 | heavy-weekend-december-egg-nature-develop-rug-tag-fish-slush-adjust |  
+| bip_39_word_dash_12 | heavy-weekend-december-egg-nature-develop-rug-tag-fish-slush-adjust-all |  
+| bip_39_word_dash_2 | heavy-weekend |  
+| bip_39_word_dash_3 | heavy-weekend-december |  
+| bip_39_word_dash_4 | heavy-weekend-december-egg |  
+| bip_39_word_dash_5 | heavy-weekend-december-egg-nature |  
+| bip_39_word_dash_6 | heavy-weekend-december-egg-nature-develop |  
+| bip_39_word_dash_7 | heavy-weekend-december-egg-nature-develop-rug |  
+| bip_39_word_dash_8 | heavy-weekend-december-egg-nature-develop-rug-tag |  
+| bip_39_word_dash_9 | heavy-weekend-december-egg-nature-develop-rug-tag-fish |  
 | bip_39_word_new_br_1 | heavy |  
 | bip_39_word_new_br_10 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush |  
 | bip_39_word_new_br_11 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush<br>adjust |  
@@ -147,6 +159,18 @@ fish |
 | bip_39_word_space_7 | heavy weekend december egg nature develop rug |  
 | bip_39_word_space_8 | heavy weekend december egg nature develop rug tag |  
 | bip_39_word_space_9 | heavy weekend december egg nature develop rug tag fish |  
+| bip_39_word_underscore_1 | heavy |  
+| bip_39_word_underscore_10 | heavy_weekend_december_egg_nature_develop_rug_tag_fish_slush |  
+| bip_39_word_underscore_11 | heavy_weekend_december_egg_nature_develop_rug_tag_fish_slush_adjust |  
+| bip_39_word_underscore_12 | heavy_weekend_december_egg_nature_develop_rug_tag_fish_slush_adjust_all |  
+| bip_39_word_underscore_2 | heavy_weekend |  
+| bip_39_word_underscore_3 | heavy_weekend_december |  
+| bip_39_word_underscore_4 | heavy_weekend_december_egg |  
+| bip_39_word_underscore_5 | heavy_weekend_december_egg_nature |  
+| bip_39_word_underscore_6 | heavy_weekend_december_egg_nature_develop |  
+| bip_39_word_underscore_7 | heavy_weekend_december_egg_nature_develop_rug |  
+| bip_39_word_underscore_8 | heavy_weekend_december_egg_nature_develop_rug_tag |  
+| bip_39_word_underscore_9 | heavy_weekend_december_egg_nature_develop_rug_tag_fish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

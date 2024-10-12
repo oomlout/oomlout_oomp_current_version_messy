@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gown |  
+| bip_39_word_dash_10 | gown-pony-exist-grace-design-nice-aspect-trip-benefit-provide |  
+| bip_39_word_dash_11 | gown-pony-exist-grace-design-nice-aspect-trip-benefit-provide-blame |  
+| bip_39_word_dash_12 | gown-pony-exist-grace-design-nice-aspect-trip-benefit-provide-blame-act |  
+| bip_39_word_dash_2 | gown-pony |  
+| bip_39_word_dash_3 | gown-pony-exist |  
+| bip_39_word_dash_4 | gown-pony-exist-grace |  
+| bip_39_word_dash_5 | gown-pony-exist-grace-design |  
+| bip_39_word_dash_6 | gown-pony-exist-grace-design-nice |  
+| bip_39_word_dash_7 | gown-pony-exist-grace-design-nice-aspect |  
+| bip_39_word_dash_8 | gown-pony-exist-grace-design-nice-aspect-trip |  
+| bip_39_word_dash_9 | gown-pony-exist-grace-design-nice-aspect-trip-benefit |  
 | bip_39_word_new_br_1 | gown |  
 | bip_39_word_new_br_10 | gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide |  
 | bip_39_word_new_br_11 | gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide<br>blame |  
@@ -147,6 +159,18 @@ benefit |
 | bip_39_word_space_7 | gown pony exist grace design nice aspect |  
 | bip_39_word_space_8 | gown pony exist grace design nice aspect trip |  
 | bip_39_word_space_9 | gown pony exist grace design nice aspect trip benefit |  
+| bip_39_word_underscore_1 | gown |  
+| bip_39_word_underscore_10 | gown_pony_exist_grace_design_nice_aspect_trip_benefit_provide |  
+| bip_39_word_underscore_11 | gown_pony_exist_grace_design_nice_aspect_trip_benefit_provide_blame |  
+| bip_39_word_underscore_12 | gown_pony_exist_grace_design_nice_aspect_trip_benefit_provide_blame_act |  
+| bip_39_word_underscore_2 | gown_pony |  
+| bip_39_word_underscore_3 | gown_pony_exist |  
+| bip_39_word_underscore_4 | gown_pony_exist_grace |  
+| bip_39_word_underscore_5 | gown_pony_exist_grace_design |  
+| bip_39_word_underscore_6 | gown_pony_exist_grace_design_nice |  
+| bip_39_word_underscore_7 | gown_pony_exist_grace_design_nice_aspect |  
+| bip_39_word_underscore_8 | gown_pony_exist_grace_design_nice_aspect_trip |  
+| bip_39_word_underscore_9 | gown_pony_exist_grace_design_nice_aspect_trip_benefit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

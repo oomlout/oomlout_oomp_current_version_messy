@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fame |  
+| bip_39_word_dash_10 | fame-cycle-renew-give-border-tray-resource-beef-enact-movie |  
+| bip_39_word_dash_11 | fame-cycle-renew-give-border-tray-resource-beef-enact-movie-bacon |  
+| bip_39_word_dash_12 | fame-cycle-renew-give-border-tray-resource-beef-enact-movie-bacon-arrive |  
+| bip_39_word_dash_2 | fame-cycle |  
+| bip_39_word_dash_3 | fame-cycle-renew |  
+| bip_39_word_dash_4 | fame-cycle-renew-give |  
+| bip_39_word_dash_5 | fame-cycle-renew-give-border |  
+| bip_39_word_dash_6 | fame-cycle-renew-give-border-tray |  
+| bip_39_word_dash_7 | fame-cycle-renew-give-border-tray-resource |  
+| bip_39_word_dash_8 | fame-cycle-renew-give-border-tray-resource-beef |  
+| bip_39_word_dash_9 | fame-cycle-renew-give-border-tray-resource-beef-enact |  
 | bip_39_word_new_br_1 | fame |  
 | bip_39_word_new_br_10 | fame<br>cycle<br>renew<br>give<br>border<br>tray<br>resource<br>beef<br>enact<br>movie |  
 | bip_39_word_new_br_11 | fame<br>cycle<br>renew<br>give<br>border<br>tray<br>resource<br>beef<br>enact<br>movie<br>bacon |  
@@ -147,6 +159,18 @@ enact |
 | bip_39_word_space_7 | fame cycle renew give border tray resource |  
 | bip_39_word_space_8 | fame cycle renew give border tray resource beef |  
 | bip_39_word_space_9 | fame cycle renew give border tray resource beef enact |  
+| bip_39_word_underscore_1 | fame |  
+| bip_39_word_underscore_10 | fame_cycle_renew_give_border_tray_resource_beef_enact_movie |  
+| bip_39_word_underscore_11 | fame_cycle_renew_give_border_tray_resource_beef_enact_movie_bacon |  
+| bip_39_word_underscore_12 | fame_cycle_renew_give_border_tray_resource_beef_enact_movie_bacon_arrive |  
+| bip_39_word_underscore_2 | fame_cycle |  
+| bip_39_word_underscore_3 | fame_cycle_renew |  
+| bip_39_word_underscore_4 | fame_cycle_renew_give |  
+| bip_39_word_underscore_5 | fame_cycle_renew_give_border |  
+| bip_39_word_underscore_6 | fame_cycle_renew_give_border_tray |  
+| bip_39_word_underscore_7 | fame_cycle_renew_give_border_tray_resource |  
+| bip_39_word_underscore_8 | fame_cycle_renew_give_border_tray_resource_beef |  
+| bip_39_word_underscore_9 | fame_cycle_renew_give_border_tray_resource_beef_enact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

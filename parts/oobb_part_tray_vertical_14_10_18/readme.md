@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thank |  
+| bip_39_word_dash_10 | thank-absorb-crane-maple-color-vacuum-illegal-salt-anxiety-arrow |  
+| bip_39_word_dash_11 | thank-absorb-crane-maple-color-vacuum-illegal-salt-anxiety-arrow-green |  
+| bip_39_word_dash_12 | thank-absorb-crane-maple-color-vacuum-illegal-salt-anxiety-arrow-green-agree |  
+| bip_39_word_dash_2 | thank-absorb |  
+| bip_39_word_dash_3 | thank-absorb-crane |  
+| bip_39_word_dash_4 | thank-absorb-crane-maple |  
+| bip_39_word_dash_5 | thank-absorb-crane-maple-color |  
+| bip_39_word_dash_6 | thank-absorb-crane-maple-color-vacuum |  
+| bip_39_word_dash_7 | thank-absorb-crane-maple-color-vacuum-illegal |  
+| bip_39_word_dash_8 | thank-absorb-crane-maple-color-vacuum-illegal-salt |  
+| bip_39_word_dash_9 | thank-absorb-crane-maple-color-vacuum-illegal-salt-anxiety |  
 | bip_39_word_new_br_1 | thank |  
 | bip_39_word_new_br_10 | thank<br>absorb<br>crane<br>maple<br>color<br>vacuum<br>illegal<br>salt<br>anxiety<br>arrow |  
 | bip_39_word_new_br_11 | thank<br>absorb<br>crane<br>maple<br>color<br>vacuum<br>illegal<br>salt<br>anxiety<br>arrow<br>green |  
@@ -147,6 +159,18 @@ anxiety |
 | bip_39_word_space_7 | thank absorb crane maple color vacuum illegal |  
 | bip_39_word_space_8 | thank absorb crane maple color vacuum illegal salt |  
 | bip_39_word_space_9 | thank absorb crane maple color vacuum illegal salt anxiety |  
+| bip_39_word_underscore_1 | thank |  
+| bip_39_word_underscore_10 | thank_absorb_crane_maple_color_vacuum_illegal_salt_anxiety_arrow |  
+| bip_39_word_underscore_11 | thank_absorb_crane_maple_color_vacuum_illegal_salt_anxiety_arrow_green |  
+| bip_39_word_underscore_12 | thank_absorb_crane_maple_color_vacuum_illegal_salt_anxiety_arrow_green_agree |  
+| bip_39_word_underscore_2 | thank_absorb |  
+| bip_39_word_underscore_3 | thank_absorb_crane |  
+| bip_39_word_underscore_4 | thank_absorb_crane_maple |  
+| bip_39_word_underscore_5 | thank_absorb_crane_maple_color |  
+| bip_39_word_underscore_6 | thank_absorb_crane_maple_color_vacuum |  
+| bip_39_word_underscore_7 | thank_absorb_crane_maple_color_vacuum_illegal |  
+| bip_39_word_underscore_8 | thank_absorb_crane_maple_color_vacuum_illegal_salt |  
+| bip_39_word_underscore_9 | thank_absorb_crane_maple_color_vacuum_illegal_salt_anxiety |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

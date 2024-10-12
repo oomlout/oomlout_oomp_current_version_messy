@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | artwork |  
+| bip_39_word_dash_10 | artwork-solid-parrot-lumber-candy-sleep-slow-cupboard-slight-pink |  
+| bip_39_word_dash_11 | artwork-solid-parrot-lumber-candy-sleep-slow-cupboard-slight-pink-purpose |  
+| bip_39_word_dash_12 | artwork-solid-parrot-lumber-candy-sleep-slow-cupboard-slight-pink-purpose-armor |  
+| bip_39_word_dash_2 | artwork-solid |  
+| bip_39_word_dash_3 | artwork-solid-parrot |  
+| bip_39_word_dash_4 | artwork-solid-parrot-lumber |  
+| bip_39_word_dash_5 | artwork-solid-parrot-lumber-candy |  
+| bip_39_word_dash_6 | artwork-solid-parrot-lumber-candy-sleep |  
+| bip_39_word_dash_7 | artwork-solid-parrot-lumber-candy-sleep-slow |  
+| bip_39_word_dash_8 | artwork-solid-parrot-lumber-candy-sleep-slow-cupboard |  
+| bip_39_word_dash_9 | artwork-solid-parrot-lumber-candy-sleep-slow-cupboard-slight |  
 | bip_39_word_new_br_1 | artwork |  
 | bip_39_word_new_br_10 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink |  
 | bip_39_word_new_br_11 | artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink<br>purpose |  
@@ -147,6 +159,18 @@ slight |
 | bip_39_word_space_7 | artwork solid parrot lumber candy sleep slow |  
 | bip_39_word_space_8 | artwork solid parrot lumber candy sleep slow cupboard |  
 | bip_39_word_space_9 | artwork solid parrot lumber candy sleep slow cupboard slight |  
+| bip_39_word_underscore_1 | artwork |  
+| bip_39_word_underscore_10 | artwork_solid_parrot_lumber_candy_sleep_slow_cupboard_slight_pink |  
+| bip_39_word_underscore_11 | artwork_solid_parrot_lumber_candy_sleep_slow_cupboard_slight_pink_purpose |  
+| bip_39_word_underscore_12 | artwork_solid_parrot_lumber_candy_sleep_slow_cupboard_slight_pink_purpose_armor |  
+| bip_39_word_underscore_2 | artwork_solid |  
+| bip_39_word_underscore_3 | artwork_solid_parrot |  
+| bip_39_word_underscore_4 | artwork_solid_parrot_lumber |  
+| bip_39_word_underscore_5 | artwork_solid_parrot_lumber_candy |  
+| bip_39_word_underscore_6 | artwork_solid_parrot_lumber_candy_sleep |  
+| bip_39_word_underscore_7 | artwork_solid_parrot_lumber_candy_sleep_slow |  
+| bip_39_word_underscore_8 | artwork_solid_parrot_lumber_candy_sleep_slow_cupboard |  
+| bip_39_word_underscore_9 | artwork_solid_parrot_lumber_candy_sleep_slow_cupboard_slight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

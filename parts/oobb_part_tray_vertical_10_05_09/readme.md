@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | core |  
+| bip_39_word_dash_10 | core-float-wolf-happy-result-bike-topic-donkey-guilt-undo |  
+| bip_39_word_dash_11 | core-float-wolf-happy-result-bike-topic-donkey-guilt-undo-clay |  
+| bip_39_word_dash_12 | core-float-wolf-happy-result-bike-topic-donkey-guilt-undo-clay-add |  
+| bip_39_word_dash_2 | core-float |  
+| bip_39_word_dash_3 | core-float-wolf |  
+| bip_39_word_dash_4 | core-float-wolf-happy |  
+| bip_39_word_dash_5 | core-float-wolf-happy-result |  
+| bip_39_word_dash_6 | core-float-wolf-happy-result-bike |  
+| bip_39_word_dash_7 | core-float-wolf-happy-result-bike-topic |  
+| bip_39_word_dash_8 | core-float-wolf-happy-result-bike-topic-donkey |  
+| bip_39_word_dash_9 | core-float-wolf-happy-result-bike-topic-donkey-guilt |  
 | bip_39_word_new_br_1 | core |  
 | bip_39_word_new_br_10 | core<br>float<br>wolf<br>happy<br>result<br>bike<br>topic<br>donkey<br>guilt<br>undo |  
 | bip_39_word_new_br_11 | core<br>float<br>wolf<br>happy<br>result<br>bike<br>topic<br>donkey<br>guilt<br>undo<br>clay |  
@@ -147,6 +159,18 @@ guilt |
 | bip_39_word_space_7 | core float wolf happy result bike topic |  
 | bip_39_word_space_8 | core float wolf happy result bike topic donkey |  
 | bip_39_word_space_9 | core float wolf happy result bike topic donkey guilt |  
+| bip_39_word_underscore_1 | core |  
+| bip_39_word_underscore_10 | core_float_wolf_happy_result_bike_topic_donkey_guilt_undo |  
+| bip_39_word_underscore_11 | core_float_wolf_happy_result_bike_topic_donkey_guilt_undo_clay |  
+| bip_39_word_underscore_12 | core_float_wolf_happy_result_bike_topic_donkey_guilt_undo_clay_add |  
+| bip_39_word_underscore_2 | core_float |  
+| bip_39_word_underscore_3 | core_float_wolf |  
+| bip_39_word_underscore_4 | core_float_wolf_happy |  
+| bip_39_word_underscore_5 | core_float_wolf_happy_result |  
+| bip_39_word_underscore_6 | core_float_wolf_happy_result_bike |  
+| bip_39_word_underscore_7 | core_float_wolf_happy_result_bike_topic |  
+| bip_39_word_underscore_8 | core_float_wolf_happy_result_bike_topic_donkey |  
+| bip_39_word_underscore_9 | core_float_wolf_happy_result_bike_topic_donkey_guilt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

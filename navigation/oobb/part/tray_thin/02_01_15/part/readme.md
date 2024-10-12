@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coil |  
+| bip_39_word_dash_10 | coil-security-swear-divide-arrive-rotate-frown-later-voice-peasant |  
+| bip_39_word_dash_11 | coil-security-swear-divide-arrive-rotate-frown-later-voice-peasant-kingdom |  
+| bip_39_word_dash_12 | coil-security-swear-divide-arrive-rotate-frown-later-voice-peasant-kingdom-ankle |  
+| bip_39_word_dash_2 | coil-security |  
+| bip_39_word_dash_3 | coil-security-swear |  
+| bip_39_word_dash_4 | coil-security-swear-divide |  
+| bip_39_word_dash_5 | coil-security-swear-divide-arrive |  
+| bip_39_word_dash_6 | coil-security-swear-divide-arrive-rotate |  
+| bip_39_word_dash_7 | coil-security-swear-divide-arrive-rotate-frown |  
+| bip_39_word_dash_8 | coil-security-swear-divide-arrive-rotate-frown-later |  
+| bip_39_word_dash_9 | coil-security-swear-divide-arrive-rotate-frown-later-voice |  
 | bip_39_word_new_br_1 | coil |  
 | bip_39_word_new_br_10 | coil<br>security<br>swear<br>divide<br>arrive<br>rotate<br>frown<br>later<br>voice<br>peasant |  
 | bip_39_word_new_br_11 | coil<br>security<br>swear<br>divide<br>arrive<br>rotate<br>frown<br>later<br>voice<br>peasant<br>kingdom |  
@@ -147,6 +159,18 @@ voice |
 | bip_39_word_space_7 | coil security swear divide arrive rotate frown |  
 | bip_39_word_space_8 | coil security swear divide arrive rotate frown later |  
 | bip_39_word_space_9 | coil security swear divide arrive rotate frown later voice |  
+| bip_39_word_underscore_1 | coil |  
+| bip_39_word_underscore_10 | coil_security_swear_divide_arrive_rotate_frown_later_voice_peasant |  
+| bip_39_word_underscore_11 | coil_security_swear_divide_arrive_rotate_frown_later_voice_peasant_kingdom |  
+| bip_39_word_underscore_12 | coil_security_swear_divide_arrive_rotate_frown_later_voice_peasant_kingdom_ankle |  
+| bip_39_word_underscore_2 | coil_security |  
+| bip_39_word_underscore_3 | coil_security_swear |  
+| bip_39_word_underscore_4 | coil_security_swear_divide |  
+| bip_39_word_underscore_5 | coil_security_swear_divide_arrive |  
+| bip_39_word_underscore_6 | coil_security_swear_divide_arrive_rotate |  
+| bip_39_word_underscore_7 | coil_security_swear_divide_arrive_rotate_frown |  
+| bip_39_word_underscore_8 | coil_security_swear_divide_arrive_rotate_frown_later |  
+| bip_39_word_underscore_9 | coil_security_swear_divide_arrive_rotate_frown_later_voice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

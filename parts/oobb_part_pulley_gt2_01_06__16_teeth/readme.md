@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | page |  
+| bip_39_word_dash_10 | page-angry-lumber-clay-arena-cactus-banana-vehicle-curtain-capable |  
+| bip_39_word_dash_11 | page-angry-lumber-clay-arena-cactus-banana-vehicle-curtain-capable-tray |  
+| bip_39_word_dash_12 | page-angry-lumber-clay-arena-cactus-banana-vehicle-curtain-capable-tray-album |  
+| bip_39_word_dash_2 | page-angry |  
+| bip_39_word_dash_3 | page-angry-lumber |  
+| bip_39_word_dash_4 | page-angry-lumber-clay |  
+| bip_39_word_dash_5 | page-angry-lumber-clay-arena |  
+| bip_39_word_dash_6 | page-angry-lumber-clay-arena-cactus |  
+| bip_39_word_dash_7 | page-angry-lumber-clay-arena-cactus-banana |  
+| bip_39_word_dash_8 | page-angry-lumber-clay-arena-cactus-banana-vehicle |  
+| bip_39_word_dash_9 | page-angry-lumber-clay-arena-cactus-banana-vehicle-curtain |  
 | bip_39_word_new_br_1 | page |  
 | bip_39_word_new_br_10 | page<br>angry<br>lumber<br>clay<br>arena<br>cactus<br>banana<br>vehicle<br>curtain<br>capable |  
 | bip_39_word_new_br_11 | page<br>angry<br>lumber<br>clay<br>arena<br>cactus<br>banana<br>vehicle<br>curtain<br>capable<br>tray |  
@@ -147,6 +159,18 @@ curtain |
 | bip_39_word_space_7 | page angry lumber clay arena cactus banana |  
 | bip_39_word_space_8 | page angry lumber clay arena cactus banana vehicle |  
 | bip_39_word_space_9 | page angry lumber clay arena cactus banana vehicle curtain |  
+| bip_39_word_underscore_1 | page |  
+| bip_39_word_underscore_10 | page_angry_lumber_clay_arena_cactus_banana_vehicle_curtain_capable |  
+| bip_39_word_underscore_11 | page_angry_lumber_clay_arena_cactus_banana_vehicle_curtain_capable_tray |  
+| bip_39_word_underscore_12 | page_angry_lumber_clay_arena_cactus_banana_vehicle_curtain_capable_tray_album |  
+| bip_39_word_underscore_2 | page_angry |  
+| bip_39_word_underscore_3 | page_angry_lumber |  
+| bip_39_word_underscore_4 | page_angry_lumber_clay |  
+| bip_39_word_underscore_5 | page_angry_lumber_clay_arena |  
+| bip_39_word_underscore_6 | page_angry_lumber_clay_arena_cactus |  
+| bip_39_word_underscore_7 | page_angry_lumber_clay_arena_cactus_banana |  
+| bip_39_word_underscore_8 | page_angry_lumber_clay_arena_cactus_banana_vehicle |  
+| bip_39_word_underscore_9 | page_angry_lumber_clay_arena_cactus_banana_vehicle_curtain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

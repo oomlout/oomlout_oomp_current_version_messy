@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rare |  
+| bip_39_word_dash_10 | rare-mesh-hundred-nephew-crash-symbol-happy-universe-festival-blanket |  
+| bip_39_word_dash_11 | rare-mesh-hundred-nephew-crash-symbol-happy-universe-festival-blanket-hockey |  
+| bip_39_word_dash_12 | rare-mesh-hundred-nephew-crash-symbol-happy-universe-festival-blanket-hockey-across |  
+| bip_39_word_dash_2 | rare-mesh |  
+| bip_39_word_dash_3 | rare-mesh-hundred |  
+| bip_39_word_dash_4 | rare-mesh-hundred-nephew |  
+| bip_39_word_dash_5 | rare-mesh-hundred-nephew-crash |  
+| bip_39_word_dash_6 | rare-mesh-hundred-nephew-crash-symbol |  
+| bip_39_word_dash_7 | rare-mesh-hundred-nephew-crash-symbol-happy |  
+| bip_39_word_dash_8 | rare-mesh-hundred-nephew-crash-symbol-happy-universe |  
+| bip_39_word_dash_9 | rare-mesh-hundred-nephew-crash-symbol-happy-universe-festival |  
 | bip_39_word_new_br_1 | rare |  
 | bip_39_word_new_br_10 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket |  
 | bip_39_word_new_br_11 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket<br>hockey |  
@@ -147,6 +159,18 @@ festival |
 | bip_39_word_space_7 | rare mesh hundred nephew crash symbol happy |  
 | bip_39_word_space_8 | rare mesh hundred nephew crash symbol happy universe |  
 | bip_39_word_space_9 | rare mesh hundred nephew crash symbol happy universe festival |  
+| bip_39_word_underscore_1 | rare |  
+| bip_39_word_underscore_10 | rare_mesh_hundred_nephew_crash_symbol_happy_universe_festival_blanket |  
+| bip_39_word_underscore_11 | rare_mesh_hundred_nephew_crash_symbol_happy_universe_festival_blanket_hockey |  
+| bip_39_word_underscore_12 | rare_mesh_hundred_nephew_crash_symbol_happy_universe_festival_blanket_hockey_across |  
+| bip_39_word_underscore_2 | rare_mesh |  
+| bip_39_word_underscore_3 | rare_mesh_hundred |  
+| bip_39_word_underscore_4 | rare_mesh_hundred_nephew |  
+| bip_39_word_underscore_5 | rare_mesh_hundred_nephew_crash |  
+| bip_39_word_underscore_6 | rare_mesh_hundred_nephew_crash_symbol |  
+| bip_39_word_underscore_7 | rare_mesh_hundred_nephew_crash_symbol_happy |  
+| bip_39_word_underscore_8 | rare_mesh_hundred_nephew_crash_symbol_happy_universe |  
+| bip_39_word_underscore_9 | rare_mesh_hundred_nephew_crash_symbol_happy_universe_festival |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

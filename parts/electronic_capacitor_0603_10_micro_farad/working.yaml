@@ -1,3 +1,14 @@
+bip_39_word_dash_1: aerobic
+bip_39_word_dash_10: aerobic-pioneer-pottery-write-fever-connect-treat-sunny-shiver-equip
+bip_39_word_dash_11: aerobic-pioneer-pottery-write-fever-connect-treat-sunny-shiver-equip-spy
+bip_39_word_dash_2: aerobic-pioneer
+bip_39_word_dash_3: aerobic-pioneer-pottery
+bip_39_word_dash_4: aerobic-pioneer-pottery-write
+bip_39_word_dash_5: aerobic-pioneer-pottery-write-fever
+bip_39_word_dash_6: aerobic-pioneer-pottery-write-fever-connect
+bip_39_word_dash_7: aerobic-pioneer-pottery-write-fever-connect-treat
+bip_39_word_dash_8: aerobic-pioneer-pottery-write-fever-connect-treat-sunny
+bip_39_word_dash_9: aerobic-pioneer-pottery-write-fever-connect-treat-sunny-shiver
 bip_39_word_new_br_1: aerobic
 bip_39_word_new_br_10: aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver<br>equip
 bip_39_word_new_br_11: aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver<br>equip<br>spy
@@ -166,6 +177,17 @@ bip_39_word_space_6: aerobic pioneer pottery write fever connect
 bip_39_word_space_7: aerobic pioneer pottery write fever connect treat
 bip_39_word_space_8: aerobic pioneer pottery write fever connect treat sunny
 bip_39_word_space_9: aerobic pioneer pottery write fever connect treat sunny shiver
+bip_39_word_underscore_1: aerobic
+bip_39_word_underscore_10: aerobic_pioneer_pottery_write_fever_connect_treat_sunny_shiver_equip
+bip_39_word_underscore_11: aerobic_pioneer_pottery_write_fever_connect_treat_sunny_shiver_equip_spy
+bip_39_word_underscore_2: aerobic_pioneer
+bip_39_word_underscore_3: aerobic_pioneer_pottery
+bip_39_word_underscore_4: aerobic_pioneer_pottery_write
+bip_39_word_underscore_5: aerobic_pioneer_pottery_write_fever
+bip_39_word_underscore_6: aerobic_pioneer_pottery_write_fever_connect
+bip_39_word_underscore_7: aerobic_pioneer_pottery_write_fever_connect_treat
+bip_39_word_underscore_8: aerobic_pioneer_pottery_write_fever_connect_treat_sunny
+bip_39_word_underscore_9: aerobic_pioneer_pottery_write_fever_connect_treat_sunny_shiver
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

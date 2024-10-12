@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gym
+bip_39_word_dash_10: gym-gasp-tennis-pitch-bunker-faith-stumble-crater-region-dress
+bip_39_word_dash_11: gym-gasp-tennis-pitch-bunker-faith-stumble-crater-region-dress-father
+bip_39_word_dash_12: gym-gasp-tennis-pitch-bunker-faith-stumble-crater-region-dress-father-assault
+bip_39_word_dash_2: gym-gasp
+bip_39_word_dash_3: gym-gasp-tennis
+bip_39_word_dash_4: gym-gasp-tennis-pitch
+bip_39_word_dash_5: gym-gasp-tennis-pitch-bunker
+bip_39_word_dash_6: gym-gasp-tennis-pitch-bunker-faith
+bip_39_word_dash_7: gym-gasp-tennis-pitch-bunker-faith-stumble
+bip_39_word_dash_8: gym-gasp-tennis-pitch-bunker-faith-stumble-crater
+bip_39_word_dash_9: gym-gasp-tennis-pitch-bunker-faith-stumble-crater-region
 bip_39_word_new_br_1: gym
 bip_39_word_new_br_10: gym<br>gasp<br>tennis<br>pitch<br>bunker<br>faith<br>stumble<br>crater<br>region<br>dress
 bip_39_word_new_br_11: gym<br>gasp<br>tennis<br>pitch<br>bunker<br>faith<br>stumble<br>crater<br>region<br>dress<br>father
@@ -193,6 +205,18 @@ bip_39_word_space_6: gym gasp tennis pitch bunker faith
 bip_39_word_space_7: gym gasp tennis pitch bunker faith stumble
 bip_39_word_space_8: gym gasp tennis pitch bunker faith stumble crater
 bip_39_word_space_9: gym gasp tennis pitch bunker faith stumble crater region
+bip_39_word_underscore_1: gym
+bip_39_word_underscore_10: gym_gasp_tennis_pitch_bunker_faith_stumble_crater_region_dress
+bip_39_word_underscore_11: gym_gasp_tennis_pitch_bunker_faith_stumble_crater_region_dress_father
+bip_39_word_underscore_12: gym_gasp_tennis_pitch_bunker_faith_stumble_crater_region_dress_father_assault
+bip_39_word_underscore_2: gym_gasp
+bip_39_word_underscore_3: gym_gasp_tennis
+bip_39_word_underscore_4: gym_gasp_tennis_pitch
+bip_39_word_underscore_5: gym_gasp_tennis_pitch_bunker
+bip_39_word_underscore_6: gym_gasp_tennis_pitch_bunker_faith
+bip_39_word_underscore_7: gym_gasp_tennis_pitch_bunker_faith_stumble
+bip_39_word_underscore_8: gym_gasp_tennis_pitch_bunker_faith_stumble_crater
+bip_39_word_underscore_9: gym_gasp_tennis_pitch_bunker_faith_stumble_crater_region
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

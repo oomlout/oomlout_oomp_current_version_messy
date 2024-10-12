@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gossip
+bip_39_word_dash_10: gossip-hotel-fluid-gold-kind-more-adapt-logic-blame-iron
+bip_39_word_dash_11: gossip-hotel-fluid-gold-kind-more-adapt-logic-blame-iron-usual
+bip_39_word_dash_12: gossip-hotel-fluid-gold-kind-more-adapt-logic-blame-iron-usual-ask
+bip_39_word_dash_2: gossip-hotel
+bip_39_word_dash_3: gossip-hotel-fluid
+bip_39_word_dash_4: gossip-hotel-fluid-gold
+bip_39_word_dash_5: gossip-hotel-fluid-gold-kind
+bip_39_word_dash_6: gossip-hotel-fluid-gold-kind-more
+bip_39_word_dash_7: gossip-hotel-fluid-gold-kind-more-adapt
+bip_39_word_dash_8: gossip-hotel-fluid-gold-kind-more-adapt-logic
+bip_39_word_dash_9: gossip-hotel-fluid-gold-kind-more-adapt-logic-blame
 bip_39_word_new_br_1: gossip
 bip_39_word_new_br_10: gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic<br>blame<br>iron
 bip_39_word_new_br_11: gossip<br>hotel<br>fluid<br>gold<br>kind<br>more<br>adapt<br>logic<br>blame<br>iron<br>usual
@@ -192,6 +204,18 @@ bip_39_word_space_6: gossip hotel fluid gold kind more
 bip_39_word_space_7: gossip hotel fluid gold kind more adapt
 bip_39_word_space_8: gossip hotel fluid gold kind more adapt logic
 bip_39_word_space_9: gossip hotel fluid gold kind more adapt logic blame
+bip_39_word_underscore_1: gossip
+bip_39_word_underscore_10: gossip_hotel_fluid_gold_kind_more_adapt_logic_blame_iron
+bip_39_word_underscore_11: gossip_hotel_fluid_gold_kind_more_adapt_logic_blame_iron_usual
+bip_39_word_underscore_12: gossip_hotel_fluid_gold_kind_more_adapt_logic_blame_iron_usual_ask
+bip_39_word_underscore_2: gossip_hotel
+bip_39_word_underscore_3: gossip_hotel_fluid
+bip_39_word_underscore_4: gossip_hotel_fluid_gold
+bip_39_word_underscore_5: gossip_hotel_fluid_gold_kind
+bip_39_word_underscore_6: gossip_hotel_fluid_gold_kind_more
+bip_39_word_underscore_7: gossip_hotel_fluid_gold_kind_more_adapt
+bip_39_word_underscore_8: gossip_hotel_fluid_gold_kind_more_adapt_logic
+bip_39_word_underscore_9: gossip_hotel_fluid_gold_kind_more_adapt_logic_blame
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

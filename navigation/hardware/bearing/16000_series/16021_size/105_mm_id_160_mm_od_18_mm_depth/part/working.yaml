@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tragic
+bip_39_word_dash_10: tragic-swear-together-tunnel-milk-awful-habit-tower-kitchen-first
+bip_39_word_dash_11: tragic-swear-together-tunnel-milk-awful-habit-tower-kitchen-first-weekend
+bip_39_word_dash_12: tragic-swear-together-tunnel-milk-awful-habit-tower-kitchen-first-weekend-armed
+bip_39_word_dash_2: tragic-swear
+bip_39_word_dash_3: tragic-swear-together
+bip_39_word_dash_4: tragic-swear-together-tunnel
+bip_39_word_dash_5: tragic-swear-together-tunnel-milk
+bip_39_word_dash_6: tragic-swear-together-tunnel-milk-awful
+bip_39_word_dash_7: tragic-swear-together-tunnel-milk-awful-habit
+bip_39_word_dash_8: tragic-swear-together-tunnel-milk-awful-habit-tower
+bip_39_word_dash_9: tragic-swear-together-tunnel-milk-awful-habit-tower-kitchen
 bip_39_word_new_br_1: tragic
 bip_39_word_new_br_10: tragic<br>swear<br>together<br>tunnel<br>milk<br>awful<br>habit<br>tower<br>kitchen<br>first
 bip_39_word_new_br_11: tragic<br>swear<br>together<br>tunnel<br>milk<br>awful<br>habit<br>tower<br>kitchen<br>first<br>weekend
@@ -194,6 +206,18 @@ bip_39_word_space_6: tragic swear together tunnel milk awful
 bip_39_word_space_7: tragic swear together tunnel milk awful habit
 bip_39_word_space_8: tragic swear together tunnel milk awful habit tower
 bip_39_word_space_9: tragic swear together tunnel milk awful habit tower kitchen
+bip_39_word_underscore_1: tragic
+bip_39_word_underscore_10: tragic_swear_together_tunnel_milk_awful_habit_tower_kitchen_first
+bip_39_word_underscore_11: tragic_swear_together_tunnel_milk_awful_habit_tower_kitchen_first_weekend
+bip_39_word_underscore_12: tragic_swear_together_tunnel_milk_awful_habit_tower_kitchen_first_weekend_armed
+bip_39_word_underscore_2: tragic_swear
+bip_39_word_underscore_3: tragic_swear_together
+bip_39_word_underscore_4: tragic_swear_together_tunnel
+bip_39_word_underscore_5: tragic_swear_together_tunnel_milk
+bip_39_word_underscore_6: tragic_swear_together_tunnel_milk_awful
+bip_39_word_underscore_7: tragic_swear_together_tunnel_milk_awful_habit
+bip_39_word_underscore_8: tragic_swear_together_tunnel_milk_awful_habit_tower
+bip_39_word_underscore_9: tragic_swear_together_tunnel_milk_awful_habit_tower_kitchen
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

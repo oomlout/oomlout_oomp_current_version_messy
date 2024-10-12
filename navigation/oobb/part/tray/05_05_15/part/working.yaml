@@ -1,3 +1,15 @@
+bip_39_word_dash_1: market
+bip_39_word_dash_10: market-boil-onion-pet-dilemma-elbow-father-loyal-travel-castle
+bip_39_word_dash_11: market-boil-onion-pet-dilemma-elbow-father-loyal-travel-castle-mesh
+bip_39_word_dash_12: market-boil-onion-pet-dilemma-elbow-father-loyal-travel-castle-mesh-art
+bip_39_word_dash_2: market-boil
+bip_39_word_dash_3: market-boil-onion
+bip_39_word_dash_4: market-boil-onion-pet
+bip_39_word_dash_5: market-boil-onion-pet-dilemma
+bip_39_word_dash_6: market-boil-onion-pet-dilemma-elbow
+bip_39_word_dash_7: market-boil-onion-pet-dilemma-elbow-father
+bip_39_word_dash_8: market-boil-onion-pet-dilemma-elbow-father-loyal
+bip_39_word_dash_9: market-boil-onion-pet-dilemma-elbow-father-loyal-travel
 bip_39_word_new_br_1: market
 bip_39_word_new_br_10: market<br>boil<br>onion<br>pet<br>dilemma<br>elbow<br>father<br>loyal<br>travel<br>castle
 bip_39_word_new_br_11: market<br>boil<br>onion<br>pet<br>dilemma<br>elbow<br>father<br>loyal<br>travel<br>castle<br>mesh
@@ -193,6 +205,18 @@ bip_39_word_space_6: market boil onion pet dilemma elbow
 bip_39_word_space_7: market boil onion pet dilemma elbow father
 bip_39_word_space_8: market boil onion pet dilemma elbow father loyal
 bip_39_word_space_9: market boil onion pet dilemma elbow father loyal travel
+bip_39_word_underscore_1: market
+bip_39_word_underscore_10: market_boil_onion_pet_dilemma_elbow_father_loyal_travel_castle
+bip_39_word_underscore_11: market_boil_onion_pet_dilemma_elbow_father_loyal_travel_castle_mesh
+bip_39_word_underscore_12: market_boil_onion_pet_dilemma_elbow_father_loyal_travel_castle_mesh_art
+bip_39_word_underscore_2: market_boil
+bip_39_word_underscore_3: market_boil_onion
+bip_39_word_underscore_4: market_boil_onion_pet
+bip_39_word_underscore_5: market_boil_onion_pet_dilemma
+bip_39_word_underscore_6: market_boil_onion_pet_dilemma_elbow
+bip_39_word_underscore_7: market_boil_onion_pet_dilemma_elbow_father
+bip_39_word_underscore_8: market_boil_onion_pet_dilemma_elbow_father_loyal
+bip_39_word_underscore_9: market_boil_onion_pet_dilemma_elbow_father_loyal_travel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

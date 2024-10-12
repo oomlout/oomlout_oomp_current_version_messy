@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lecture |  
+| bip_39_word_dash_10 | lecture-dial-card-boy-staff-venue-decline-lecture-install-hen |  
+| bip_39_word_dash_11 | lecture-dial-card-boy-staff-venue-decline-lecture-install-hen-curious |  
+| bip_39_word_dash_12 | lecture-dial-card-boy-staff-venue-decline-lecture-install-hen-curious-attitude |  
+| bip_39_word_dash_2 | lecture-dial |  
+| bip_39_word_dash_3 | lecture-dial-card |  
+| bip_39_word_dash_4 | lecture-dial-card-boy |  
+| bip_39_word_dash_5 | lecture-dial-card-boy-staff |  
+| bip_39_word_dash_6 | lecture-dial-card-boy-staff-venue |  
+| bip_39_word_dash_7 | lecture-dial-card-boy-staff-venue-decline |  
+| bip_39_word_dash_8 | lecture-dial-card-boy-staff-venue-decline-lecture |  
+| bip_39_word_dash_9 | lecture-dial-card-boy-staff-venue-decline-lecture-install |  
 | bip_39_word_new_br_1 | lecture |  
 | bip_39_word_new_br_10 | lecture<br>dial<br>card<br>boy<br>staff<br>venue<br>decline<br>lecture<br>install<br>hen |  
 | bip_39_word_new_br_11 | lecture<br>dial<br>card<br>boy<br>staff<br>venue<br>decline<br>lecture<br>install<br>hen<br>curious |  
@@ -147,6 +159,18 @@ install |
 | bip_39_word_space_7 | lecture dial card boy staff venue decline |  
 | bip_39_word_space_8 | lecture dial card boy staff venue decline lecture |  
 | bip_39_word_space_9 | lecture dial card boy staff venue decline lecture install |  
+| bip_39_word_underscore_1 | lecture |  
+| bip_39_word_underscore_10 | lecture_dial_card_boy_staff_venue_decline_lecture_install_hen |  
+| bip_39_word_underscore_11 | lecture_dial_card_boy_staff_venue_decline_lecture_install_hen_curious |  
+| bip_39_word_underscore_12 | lecture_dial_card_boy_staff_venue_decline_lecture_install_hen_curious_attitude |  
+| bip_39_word_underscore_2 | lecture_dial |  
+| bip_39_word_underscore_3 | lecture_dial_card |  
+| bip_39_word_underscore_4 | lecture_dial_card_boy |  
+| bip_39_word_underscore_5 | lecture_dial_card_boy_staff |  
+| bip_39_word_underscore_6 | lecture_dial_card_boy_staff_venue |  
+| bip_39_word_underscore_7 | lecture_dial_card_boy_staff_venue_decline |  
+| bip_39_word_underscore_8 | lecture_dial_card_boy_staff_venue_decline_lecture |  
+| bip_39_word_underscore_9 | lecture_dial_card_boy_staff_venue_decline_lecture_install |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cluster |  
+| bip_39_word_dash_10 | cluster-surprise-balance-consider-census-share-mountain-plastic-bottom-strong |  
+| bip_39_word_dash_11 | cluster-surprise-balance-consider-census-share-mountain-plastic-bottom-strong-fabric |  
+| bip_39_word_dash_12 | cluster-surprise-balance-consider-census-share-mountain-plastic-bottom-strong-fabric-arrive |  
+| bip_39_word_dash_2 | cluster-surprise |  
+| bip_39_word_dash_3 | cluster-surprise-balance |  
+| bip_39_word_dash_4 | cluster-surprise-balance-consider |  
+| bip_39_word_dash_5 | cluster-surprise-balance-consider-census |  
+| bip_39_word_dash_6 | cluster-surprise-balance-consider-census-share |  
+| bip_39_word_dash_7 | cluster-surprise-balance-consider-census-share-mountain |  
+| bip_39_word_dash_8 | cluster-surprise-balance-consider-census-share-mountain-plastic |  
+| bip_39_word_dash_9 | cluster-surprise-balance-consider-census-share-mountain-plastic-bottom |  
 | bip_39_word_new_br_1 | cluster |  
 | bip_39_word_new_br_10 | cluster<br>surprise<br>balance<br>consider<br>census<br>share<br>mountain<br>plastic<br>bottom<br>strong |  
 | bip_39_word_new_br_11 | cluster<br>surprise<br>balance<br>consider<br>census<br>share<br>mountain<br>plastic<br>bottom<br>strong<br>fabric |  
@@ -147,6 +159,18 @@ bottom |
 | bip_39_word_space_7 | cluster surprise balance consider census share mountain |  
 | bip_39_word_space_8 | cluster surprise balance consider census share mountain plastic |  
 | bip_39_word_space_9 | cluster surprise balance consider census share mountain plastic bottom |  
+| bip_39_word_underscore_1 | cluster |  
+| bip_39_word_underscore_10 | cluster_surprise_balance_consider_census_share_mountain_plastic_bottom_strong |  
+| bip_39_word_underscore_11 | cluster_surprise_balance_consider_census_share_mountain_plastic_bottom_strong_fabric |  
+| bip_39_word_underscore_12 | cluster_surprise_balance_consider_census_share_mountain_plastic_bottom_strong_fabric_arrive |  
+| bip_39_word_underscore_2 | cluster_surprise |  
+| bip_39_word_underscore_3 | cluster_surprise_balance |  
+| bip_39_word_underscore_4 | cluster_surprise_balance_consider |  
+| bip_39_word_underscore_5 | cluster_surprise_balance_consider_census |  
+| bip_39_word_underscore_6 | cluster_surprise_balance_consider_census_share |  
+| bip_39_word_underscore_7 | cluster_surprise_balance_consider_census_share_mountain |  
+| bip_39_word_underscore_8 | cluster_surprise_balance_consider_census_share_mountain_plastic |  
+| bip_39_word_underscore_9 | cluster_surprise_balance_consider_census_share_mountain_plastic_bottom |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | path |  
+| bip_39_word_dash_10 | path-claw-giggle-jazz-guard-add-diesel-blossom-awful-toe |  
+| bip_39_word_dash_11 | path-claw-giggle-jazz-guard-add-diesel-blossom-awful-toe-program |  
+| bip_39_word_dash_12 | path-claw-giggle-jazz-guard-add-diesel-blossom-awful-toe-program-allow |  
+| bip_39_word_dash_2 | path-claw |  
+| bip_39_word_dash_3 | path-claw-giggle |  
+| bip_39_word_dash_4 | path-claw-giggle-jazz |  
+| bip_39_word_dash_5 | path-claw-giggle-jazz-guard |  
+| bip_39_word_dash_6 | path-claw-giggle-jazz-guard-add |  
+| bip_39_word_dash_7 | path-claw-giggle-jazz-guard-add-diesel |  
+| bip_39_word_dash_8 | path-claw-giggle-jazz-guard-add-diesel-blossom |  
+| bip_39_word_dash_9 | path-claw-giggle-jazz-guard-add-diesel-blossom-awful |  
 | bip_39_word_new_br_1 | path |  
 | bip_39_word_new_br_10 | path<br>claw<br>giggle<br>jazz<br>guard<br>add<br>diesel<br>blossom<br>awful<br>toe |  
 | bip_39_word_new_br_11 | path<br>claw<br>giggle<br>jazz<br>guard<br>add<br>diesel<br>blossom<br>awful<br>toe<br>program |  
@@ -147,6 +159,18 @@ awful |
 | bip_39_word_space_7 | path claw giggle jazz guard add diesel |  
 | bip_39_word_space_8 | path claw giggle jazz guard add diesel blossom |  
 | bip_39_word_space_9 | path claw giggle jazz guard add diesel blossom awful |  
+| bip_39_word_underscore_1 | path |  
+| bip_39_word_underscore_10 | path_claw_giggle_jazz_guard_add_diesel_blossom_awful_toe |  
+| bip_39_word_underscore_11 | path_claw_giggle_jazz_guard_add_diesel_blossom_awful_toe_program |  
+| bip_39_word_underscore_12 | path_claw_giggle_jazz_guard_add_diesel_blossom_awful_toe_program_allow |  
+| bip_39_word_underscore_2 | path_claw |  
+| bip_39_word_underscore_3 | path_claw_giggle |  
+| bip_39_word_underscore_4 | path_claw_giggle_jazz |  
+| bip_39_word_underscore_5 | path_claw_giggle_jazz_guard |  
+| bip_39_word_underscore_6 | path_claw_giggle_jazz_guard_add |  
+| bip_39_word_underscore_7 | path_claw_giggle_jazz_guard_add_diesel |  
+| bip_39_word_underscore_8 | path_claw_giggle_jazz_guard_add_diesel_blossom |  
+| bip_39_word_underscore_9 | path_claw_giggle_jazz_guard_add_diesel_blossom_awful |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: maximum
+bip_39_word_dash_10: maximum-abstract-decade-negative-struggle-tone-album-witness-doctor-border
+bip_39_word_dash_11: maximum-abstract-decade-negative-struggle-tone-album-witness-doctor-border-motion
+bip_39_word_dash_12: maximum-abstract-decade-negative-struggle-tone-album-witness-doctor-border-motion-adapt
+bip_39_word_dash_2: maximum-abstract
+bip_39_word_dash_3: maximum-abstract-decade
+bip_39_word_dash_4: maximum-abstract-decade-negative
+bip_39_word_dash_5: maximum-abstract-decade-negative-struggle
+bip_39_word_dash_6: maximum-abstract-decade-negative-struggle-tone
+bip_39_word_dash_7: maximum-abstract-decade-negative-struggle-tone-album
+bip_39_word_dash_8: maximum-abstract-decade-negative-struggle-tone-album-witness
+bip_39_word_dash_9: maximum-abstract-decade-negative-struggle-tone-album-witness-doctor
 bip_39_word_new_br_1: maximum
 bip_39_word_new_br_10: maximum<br>abstract<br>decade<br>negative<br>struggle<br>tone<br>album<br>witness<br>doctor<br>border
 bip_39_word_new_br_11: maximum<br>abstract<br>decade<br>negative<br>struggle<br>tone<br>album<br>witness<br>doctor<br>border<br>motion
@@ -195,6 +207,18 @@ bip_39_word_space_7: maximum abstract decade negative struggle tone album
 bip_39_word_space_8: maximum abstract decade negative struggle tone album witness
 bip_39_word_space_9: maximum abstract decade negative struggle tone album witness
   doctor
+bip_39_word_underscore_1: maximum
+bip_39_word_underscore_10: maximum_abstract_decade_negative_struggle_tone_album_witness_doctor_border
+bip_39_word_underscore_11: maximum_abstract_decade_negative_struggle_tone_album_witness_doctor_border_motion
+bip_39_word_underscore_12: maximum_abstract_decade_negative_struggle_tone_album_witness_doctor_border_motion_adapt
+bip_39_word_underscore_2: maximum_abstract
+bip_39_word_underscore_3: maximum_abstract_decade
+bip_39_word_underscore_4: maximum_abstract_decade_negative
+bip_39_word_underscore_5: maximum_abstract_decade_negative_struggle
+bip_39_word_underscore_6: maximum_abstract_decade_negative_struggle_tone
+bip_39_word_underscore_7: maximum_abstract_decade_negative_struggle_tone_album
+bip_39_word_underscore_8: maximum_abstract_decade_negative_struggle_tone_album_witness
+bip_39_word_underscore_9: maximum_abstract_decade_negative_struggle_tone_album_witness_doctor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

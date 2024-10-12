@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sugar |  
+| bip_39_word_dash_10 | sugar-violin-stove-flame-album-test-canyon-fashion-employ-collect |  
+| bip_39_word_dash_11 | sugar-violin-stove-flame-album-test-canyon-fashion-employ-collect-claw |  
+| bip_39_word_dash_12 | sugar-violin-stove-flame-album-test-canyon-fashion-employ-collect-claw-acquire |  
+| bip_39_word_dash_2 | sugar-violin |  
+| bip_39_word_dash_3 | sugar-violin-stove |  
+| bip_39_word_dash_4 | sugar-violin-stove-flame |  
+| bip_39_word_dash_5 | sugar-violin-stove-flame-album |  
+| bip_39_word_dash_6 | sugar-violin-stove-flame-album-test |  
+| bip_39_word_dash_7 | sugar-violin-stove-flame-album-test-canyon |  
+| bip_39_word_dash_8 | sugar-violin-stove-flame-album-test-canyon-fashion |  
+| bip_39_word_dash_9 | sugar-violin-stove-flame-album-test-canyon-fashion-employ |  
 | bip_39_word_new_br_1 | sugar |  
 | bip_39_word_new_br_10 | sugar<br>violin<br>stove<br>flame<br>album<br>test<br>canyon<br>fashion<br>employ<br>collect |  
 | bip_39_word_new_br_11 | sugar<br>violin<br>stove<br>flame<br>album<br>test<br>canyon<br>fashion<br>employ<br>collect<br>claw |  
@@ -147,6 +159,18 @@ employ |
 | bip_39_word_space_7 | sugar violin stove flame album test canyon |  
 | bip_39_word_space_8 | sugar violin stove flame album test canyon fashion |  
 | bip_39_word_space_9 | sugar violin stove flame album test canyon fashion employ |  
+| bip_39_word_underscore_1 | sugar |  
+| bip_39_word_underscore_10 | sugar_violin_stove_flame_album_test_canyon_fashion_employ_collect |  
+| bip_39_word_underscore_11 | sugar_violin_stove_flame_album_test_canyon_fashion_employ_collect_claw |  
+| bip_39_word_underscore_12 | sugar_violin_stove_flame_album_test_canyon_fashion_employ_collect_claw_acquire |  
+| bip_39_word_underscore_2 | sugar_violin |  
+| bip_39_word_underscore_3 | sugar_violin_stove |  
+| bip_39_word_underscore_4 | sugar_violin_stove_flame |  
+| bip_39_word_underscore_5 | sugar_violin_stove_flame_album |  
+| bip_39_word_underscore_6 | sugar_violin_stove_flame_album_test |  
+| bip_39_word_underscore_7 | sugar_violin_stove_flame_album_test_canyon |  
+| bip_39_word_underscore_8 | sugar_violin_stove_flame_album_test_canyon_fashion |  
+| bip_39_word_underscore_9 | sugar_violin_stove_flame_album_test_canyon_fashion_employ |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

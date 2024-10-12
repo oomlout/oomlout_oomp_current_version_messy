@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diet |  
+| bip_39_word_dash_10 | diet-ancient-museum-color-cost-jar-dismiss-power-venture-luggage |  
+| bip_39_word_dash_11 | diet-ancient-museum-color-cost-jar-dismiss-power-venture-luggage-flight |  
+| bip_39_word_dash_12 | diet-ancient-museum-color-cost-jar-dismiss-power-venture-luggage-flight-already |  
+| bip_39_word_dash_2 | diet-ancient |  
+| bip_39_word_dash_3 | diet-ancient-museum |  
+| bip_39_word_dash_4 | diet-ancient-museum-color |  
+| bip_39_word_dash_5 | diet-ancient-museum-color-cost |  
+| bip_39_word_dash_6 | diet-ancient-museum-color-cost-jar |  
+| bip_39_word_dash_7 | diet-ancient-museum-color-cost-jar-dismiss |  
+| bip_39_word_dash_8 | diet-ancient-museum-color-cost-jar-dismiss-power |  
+| bip_39_word_dash_9 | diet-ancient-museum-color-cost-jar-dismiss-power-venture |  
 | bip_39_word_new_br_1 | diet |  
 | bip_39_word_new_br_10 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage |  
 | bip_39_word_new_br_11 | diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage<br>flight |  
@@ -147,6 +159,18 @@ venture |
 | bip_39_word_space_7 | diet ancient museum color cost jar dismiss |  
 | bip_39_word_space_8 | diet ancient museum color cost jar dismiss power |  
 | bip_39_word_space_9 | diet ancient museum color cost jar dismiss power venture |  
+| bip_39_word_underscore_1 | diet |  
+| bip_39_word_underscore_10 | diet_ancient_museum_color_cost_jar_dismiss_power_venture_luggage |  
+| bip_39_word_underscore_11 | diet_ancient_museum_color_cost_jar_dismiss_power_venture_luggage_flight |  
+| bip_39_word_underscore_12 | diet_ancient_museum_color_cost_jar_dismiss_power_venture_luggage_flight_already |  
+| bip_39_word_underscore_2 | diet_ancient |  
+| bip_39_word_underscore_3 | diet_ancient_museum |  
+| bip_39_word_underscore_4 | diet_ancient_museum_color |  
+| bip_39_word_underscore_5 | diet_ancient_museum_color_cost |  
+| bip_39_word_underscore_6 | diet_ancient_museum_color_cost_jar |  
+| bip_39_word_underscore_7 | diet_ancient_museum_color_cost_jar_dismiss |  
+| bip_39_word_underscore_8 | diet_ancient_museum_color_cost_jar_dismiss_power |  
+| bip_39_word_underscore_9 | diet_ancient_museum_color_cost_jar_dismiss_power_venture |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

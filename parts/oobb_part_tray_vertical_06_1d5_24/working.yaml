@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flock
+bip_39_word_dash_10: flock-butter-math-pepper-gain-car-refuse-legal-vendor-climb
+bip_39_word_dash_11: flock-butter-math-pepper-gain-car-refuse-legal-vendor-climb-ball
+bip_39_word_dash_12: flock-butter-math-pepper-gain-car-refuse-legal-vendor-climb-ball-alley
+bip_39_word_dash_2: flock-butter
+bip_39_word_dash_3: flock-butter-math
+bip_39_word_dash_4: flock-butter-math-pepper
+bip_39_word_dash_5: flock-butter-math-pepper-gain
+bip_39_word_dash_6: flock-butter-math-pepper-gain-car
+bip_39_word_dash_7: flock-butter-math-pepper-gain-car-refuse
+bip_39_word_dash_8: flock-butter-math-pepper-gain-car-refuse-legal
+bip_39_word_dash_9: flock-butter-math-pepper-gain-car-refuse-legal-vendor
 bip_39_word_new_br_1: flock
 bip_39_word_new_br_10: flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal<br>vendor<br>climb
 bip_39_word_new_br_11: flock<br>butter<br>math<br>pepper<br>gain<br>car<br>refuse<br>legal<br>vendor<br>climb<br>ball
@@ -193,6 +205,18 @@ bip_39_word_space_6: flock butter math pepper gain car
 bip_39_word_space_7: flock butter math pepper gain car refuse
 bip_39_word_space_8: flock butter math pepper gain car refuse legal
 bip_39_word_space_9: flock butter math pepper gain car refuse legal vendor
+bip_39_word_underscore_1: flock
+bip_39_word_underscore_10: flock_butter_math_pepper_gain_car_refuse_legal_vendor_climb
+bip_39_word_underscore_11: flock_butter_math_pepper_gain_car_refuse_legal_vendor_climb_ball
+bip_39_word_underscore_12: flock_butter_math_pepper_gain_car_refuse_legal_vendor_climb_ball_alley
+bip_39_word_underscore_2: flock_butter
+bip_39_word_underscore_3: flock_butter_math
+bip_39_word_underscore_4: flock_butter_math_pepper
+bip_39_word_underscore_5: flock_butter_math_pepper_gain
+bip_39_word_underscore_6: flock_butter_math_pepper_gain_car
+bip_39_word_underscore_7: flock_butter_math_pepper_gain_car_refuse
+bip_39_word_underscore_8: flock_butter_math_pepper_gain_car_refuse_legal
+bip_39_word_underscore_9: flock_butter_math_pepper_gain_car_refuse_legal_vendor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

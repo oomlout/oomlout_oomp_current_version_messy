@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | betray |  
+| bip_39_word_dash_10 | betray-sibling-fruit-there-firm-diagram-range-disorder-crack-seven |  
+| bip_39_word_dash_11 | betray-sibling-fruit-there-firm-diagram-range-disorder-crack-seven-gate |  
+| bip_39_word_dash_12 | betray-sibling-fruit-there-firm-diagram-range-disorder-crack-seven-gate-aisle |  
+| bip_39_word_dash_2 | betray-sibling |  
+| bip_39_word_dash_3 | betray-sibling-fruit |  
+| bip_39_word_dash_4 | betray-sibling-fruit-there |  
+| bip_39_word_dash_5 | betray-sibling-fruit-there-firm |  
+| bip_39_word_dash_6 | betray-sibling-fruit-there-firm-diagram |  
+| bip_39_word_dash_7 | betray-sibling-fruit-there-firm-diagram-range |  
+| bip_39_word_dash_8 | betray-sibling-fruit-there-firm-diagram-range-disorder |  
+| bip_39_word_dash_9 | betray-sibling-fruit-there-firm-diagram-range-disorder-crack |  
 | bip_39_word_new_br_1 | betray |  
 | bip_39_word_new_br_10 | betray<br>sibling<br>fruit<br>there<br>firm<br>diagram<br>range<br>disorder<br>crack<br>seven |  
 | bip_39_word_new_br_11 | betray<br>sibling<br>fruit<br>there<br>firm<br>diagram<br>range<br>disorder<br>crack<br>seven<br>gate |  
@@ -147,6 +159,18 @@ crack |
 | bip_39_word_space_7 | betray sibling fruit there firm diagram range |  
 | bip_39_word_space_8 | betray sibling fruit there firm diagram range disorder |  
 | bip_39_word_space_9 | betray sibling fruit there firm diagram range disorder crack |  
+| bip_39_word_underscore_1 | betray |  
+| bip_39_word_underscore_10 | betray_sibling_fruit_there_firm_diagram_range_disorder_crack_seven |  
+| bip_39_word_underscore_11 | betray_sibling_fruit_there_firm_diagram_range_disorder_crack_seven_gate |  
+| bip_39_word_underscore_12 | betray_sibling_fruit_there_firm_diagram_range_disorder_crack_seven_gate_aisle |  
+| bip_39_word_underscore_2 | betray_sibling |  
+| bip_39_word_underscore_3 | betray_sibling_fruit |  
+| bip_39_word_underscore_4 | betray_sibling_fruit_there |  
+| bip_39_word_underscore_5 | betray_sibling_fruit_there_firm |  
+| bip_39_word_underscore_6 | betray_sibling_fruit_there_firm_diagram |  
+| bip_39_word_underscore_7 | betray_sibling_fruit_there_firm_diagram_range |  
+| bip_39_word_underscore_8 | betray_sibling_fruit_there_firm_diagram_range_disorder |  
+| bip_39_word_underscore_9 | betray_sibling_fruit_there_firm_diagram_range_disorder_crack |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

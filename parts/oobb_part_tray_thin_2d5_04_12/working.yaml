@@ -1,3 +1,15 @@
+bip_39_word_dash_1: strategy
+bip_39_word_dash_10: strategy-expose-need-whale-slim-drift-notable-execute-home-bone
+bip_39_word_dash_11: strategy-expose-need-whale-slim-drift-notable-execute-home-bone-panic
+bip_39_word_dash_12: strategy-expose-need-whale-slim-drift-notable-execute-home-bone-panic-appear
+bip_39_word_dash_2: strategy-expose
+bip_39_word_dash_3: strategy-expose-need
+bip_39_word_dash_4: strategy-expose-need-whale
+bip_39_word_dash_5: strategy-expose-need-whale-slim
+bip_39_word_dash_6: strategy-expose-need-whale-slim-drift
+bip_39_word_dash_7: strategy-expose-need-whale-slim-drift-notable
+bip_39_word_dash_8: strategy-expose-need-whale-slim-drift-notable-execute
+bip_39_word_dash_9: strategy-expose-need-whale-slim-drift-notable-execute-home
 bip_39_word_new_br_1: strategy
 bip_39_word_new_br_10: strategy<br>expose<br>need<br>whale<br>slim<br>drift<br>notable<br>execute<br>home<br>bone
 bip_39_word_new_br_11: strategy<br>expose<br>need<br>whale<br>slim<br>drift<br>notable<br>execute<br>home<br>bone<br>panic
@@ -193,6 +205,18 @@ bip_39_word_space_6: strategy expose need whale slim drift
 bip_39_word_space_7: strategy expose need whale slim drift notable
 bip_39_word_space_8: strategy expose need whale slim drift notable execute
 bip_39_word_space_9: strategy expose need whale slim drift notable execute home
+bip_39_word_underscore_1: strategy
+bip_39_word_underscore_10: strategy_expose_need_whale_slim_drift_notable_execute_home_bone
+bip_39_word_underscore_11: strategy_expose_need_whale_slim_drift_notable_execute_home_bone_panic
+bip_39_word_underscore_12: strategy_expose_need_whale_slim_drift_notable_execute_home_bone_panic_appear
+bip_39_word_underscore_2: strategy_expose
+bip_39_word_underscore_3: strategy_expose_need
+bip_39_word_underscore_4: strategy_expose_need_whale
+bip_39_word_underscore_5: strategy_expose_need_whale_slim
+bip_39_word_underscore_6: strategy_expose_need_whale_slim_drift
+bip_39_word_underscore_7: strategy_expose_need_whale_slim_drift_notable
+bip_39_word_underscore_8: strategy_expose_need_whale_slim_drift_notable_execute
+bip_39_word_underscore_9: strategy_expose_need_whale_slim_drift_notable_execute_home
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

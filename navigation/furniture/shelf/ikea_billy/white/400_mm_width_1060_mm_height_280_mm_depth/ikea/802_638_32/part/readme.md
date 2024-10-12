@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hold |  
+| bip_39_word_dash_10 | hold-rose-cattle-garden-raven-labor-canyon-tenant-memory-agree |  
+| bip_39_word_dash_11 | hold-rose-cattle-garden-raven-labor-canyon-tenant-memory-agree-like |  
+| bip_39_word_dash_12 | hold-rose-cattle-garden-raven-labor-canyon-tenant-memory-agree-like-amateur |  
+| bip_39_word_dash_2 | hold-rose |  
+| bip_39_word_dash_3 | hold-rose-cattle |  
+| bip_39_word_dash_4 | hold-rose-cattle-garden |  
+| bip_39_word_dash_5 | hold-rose-cattle-garden-raven |  
+| bip_39_word_dash_6 | hold-rose-cattle-garden-raven-labor |  
+| bip_39_word_dash_7 | hold-rose-cattle-garden-raven-labor-canyon |  
+| bip_39_word_dash_8 | hold-rose-cattle-garden-raven-labor-canyon-tenant |  
+| bip_39_word_dash_9 | hold-rose-cattle-garden-raven-labor-canyon-tenant-memory |  
 | bip_39_word_new_br_1 | hold |  
 | bip_39_word_new_br_10 | hold<br>rose<br>cattle<br>garden<br>raven<br>labor<br>canyon<br>tenant<br>memory<br>agree |  
 | bip_39_word_new_br_11 | hold<br>rose<br>cattle<br>garden<br>raven<br>labor<br>canyon<br>tenant<br>memory<br>agree<br>like |  
@@ -147,6 +159,18 @@ memory |
 | bip_39_word_space_7 | hold rose cattle garden raven labor canyon |  
 | bip_39_word_space_8 | hold rose cattle garden raven labor canyon tenant |  
 | bip_39_word_space_9 | hold rose cattle garden raven labor canyon tenant memory |  
+| bip_39_word_underscore_1 | hold |  
+| bip_39_word_underscore_10 | hold_rose_cattle_garden_raven_labor_canyon_tenant_memory_agree |  
+| bip_39_word_underscore_11 | hold_rose_cattle_garden_raven_labor_canyon_tenant_memory_agree_like |  
+| bip_39_word_underscore_12 | hold_rose_cattle_garden_raven_labor_canyon_tenant_memory_agree_like_amateur |  
+| bip_39_word_underscore_2 | hold_rose |  
+| bip_39_word_underscore_3 | hold_rose_cattle |  
+| bip_39_word_underscore_4 | hold_rose_cattle_garden |  
+| bip_39_word_underscore_5 | hold_rose_cattle_garden_raven |  
+| bip_39_word_underscore_6 | hold_rose_cattle_garden_raven_labor |  
+| bip_39_word_underscore_7 | hold_rose_cattle_garden_raven_labor_canyon |  
+| bip_39_word_underscore_8 | hold_rose_cattle_garden_raven_labor_canyon_tenant |  
+| bip_39_word_underscore_9 | hold_rose_cattle_garden_raven_labor_canyon_tenant_memory |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

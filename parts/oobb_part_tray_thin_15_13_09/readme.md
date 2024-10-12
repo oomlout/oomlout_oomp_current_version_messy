@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blame |  
+| bip_39_word_dash_10 | blame-pond-remember-grain-domain-beauty-describe-goddess-pistol-solve |  
+| bip_39_word_dash_11 | blame-pond-remember-grain-domain-beauty-describe-goddess-pistol-solve-egg |  
+| bip_39_word_dash_12 | blame-pond-remember-grain-domain-beauty-describe-goddess-pistol-solve-egg-actress |  
+| bip_39_word_dash_2 | blame-pond |  
+| bip_39_word_dash_3 | blame-pond-remember |  
+| bip_39_word_dash_4 | blame-pond-remember-grain |  
+| bip_39_word_dash_5 | blame-pond-remember-grain-domain |  
+| bip_39_word_dash_6 | blame-pond-remember-grain-domain-beauty |  
+| bip_39_word_dash_7 | blame-pond-remember-grain-domain-beauty-describe |  
+| bip_39_word_dash_8 | blame-pond-remember-grain-domain-beauty-describe-goddess |  
+| bip_39_word_dash_9 | blame-pond-remember-grain-domain-beauty-describe-goddess-pistol |  
 | bip_39_word_new_br_1 | blame |  
 | bip_39_word_new_br_10 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess<br>pistol<br>solve |  
 | bip_39_word_new_br_11 | blame<br>pond<br>remember<br>grain<br>domain<br>beauty<br>describe<br>goddess<br>pistol<br>solve<br>egg |  
@@ -147,6 +159,18 @@ pistol |
 | bip_39_word_space_7 | blame pond remember grain domain beauty describe |  
 | bip_39_word_space_8 | blame pond remember grain domain beauty describe goddess |  
 | bip_39_word_space_9 | blame pond remember grain domain beauty describe goddess pistol |  
+| bip_39_word_underscore_1 | blame |  
+| bip_39_word_underscore_10 | blame_pond_remember_grain_domain_beauty_describe_goddess_pistol_solve |  
+| bip_39_word_underscore_11 | blame_pond_remember_grain_domain_beauty_describe_goddess_pistol_solve_egg |  
+| bip_39_word_underscore_12 | blame_pond_remember_grain_domain_beauty_describe_goddess_pistol_solve_egg_actress |  
+| bip_39_word_underscore_2 | blame_pond |  
+| bip_39_word_underscore_3 | blame_pond_remember |  
+| bip_39_word_underscore_4 | blame_pond_remember_grain |  
+| bip_39_word_underscore_5 | blame_pond_remember_grain_domain |  
+| bip_39_word_underscore_6 | blame_pond_remember_grain_domain_beauty |  
+| bip_39_word_underscore_7 | blame_pond_remember_grain_domain_beauty_describe |  
+| bip_39_word_underscore_8 | blame_pond_remember_grain_domain_beauty_describe_goddess |  
+| bip_39_word_underscore_9 | blame_pond_remember_grain_domain_beauty_describe_goddess_pistol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

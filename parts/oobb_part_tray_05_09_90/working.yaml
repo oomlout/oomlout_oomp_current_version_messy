@@ -1,3 +1,15 @@
+bip_39_word_dash_1: famous
+bip_39_word_dash_10: famous-jump-visit-song-give-increase-diary-boil-paper-staff
+bip_39_word_dash_11: famous-jump-visit-song-give-increase-diary-boil-paper-staff-floor
+bip_39_word_dash_12: famous-jump-visit-song-give-increase-diary-boil-paper-staff-floor-april
+bip_39_word_dash_2: famous-jump
+bip_39_word_dash_3: famous-jump-visit
+bip_39_word_dash_4: famous-jump-visit-song
+bip_39_word_dash_5: famous-jump-visit-song-give
+bip_39_word_dash_6: famous-jump-visit-song-give-increase
+bip_39_word_dash_7: famous-jump-visit-song-give-increase-diary
+bip_39_word_dash_8: famous-jump-visit-song-give-increase-diary-boil
+bip_39_word_dash_9: famous-jump-visit-song-give-increase-diary-boil-paper
 bip_39_word_new_br_1: famous
 bip_39_word_new_br_10: famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil<br>paper<br>staff
 bip_39_word_new_br_11: famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil<br>paper<br>staff<br>floor
@@ -193,6 +205,18 @@ bip_39_word_space_6: famous jump visit song give increase
 bip_39_word_space_7: famous jump visit song give increase diary
 bip_39_word_space_8: famous jump visit song give increase diary boil
 bip_39_word_space_9: famous jump visit song give increase diary boil paper
+bip_39_word_underscore_1: famous
+bip_39_word_underscore_10: famous_jump_visit_song_give_increase_diary_boil_paper_staff
+bip_39_word_underscore_11: famous_jump_visit_song_give_increase_diary_boil_paper_staff_floor
+bip_39_word_underscore_12: famous_jump_visit_song_give_increase_diary_boil_paper_staff_floor_april
+bip_39_word_underscore_2: famous_jump
+bip_39_word_underscore_3: famous_jump_visit
+bip_39_word_underscore_4: famous_jump_visit_song
+bip_39_word_underscore_5: famous_jump_visit_song_give
+bip_39_word_underscore_6: famous_jump_visit_song_give_increase
+bip_39_word_underscore_7: famous_jump_visit_song_give_increase_diary
+bip_39_word_underscore_8: famous_jump_visit_song_give_increase_diary_boil
+bip_39_word_underscore_9: famous_jump_visit_song_give_increase_diary_boil_paper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

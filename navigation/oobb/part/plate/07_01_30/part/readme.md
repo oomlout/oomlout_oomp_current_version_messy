@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nice |  
+| bip_39_word_dash_10 | nice-culture-kiwi-swarm-couch-evolve-corn-cost-cereal-garden |  
+| bip_39_word_dash_11 | nice-culture-kiwi-swarm-couch-evolve-corn-cost-cereal-garden-math |  
+| bip_39_word_dash_12 | nice-culture-kiwi-swarm-couch-evolve-corn-cost-cereal-garden-math-arctic |  
+| bip_39_word_dash_2 | nice-culture |  
+| bip_39_word_dash_3 | nice-culture-kiwi |  
+| bip_39_word_dash_4 | nice-culture-kiwi-swarm |  
+| bip_39_word_dash_5 | nice-culture-kiwi-swarm-couch |  
+| bip_39_word_dash_6 | nice-culture-kiwi-swarm-couch-evolve |  
+| bip_39_word_dash_7 | nice-culture-kiwi-swarm-couch-evolve-corn |  
+| bip_39_word_dash_8 | nice-culture-kiwi-swarm-couch-evolve-corn-cost |  
+| bip_39_word_dash_9 | nice-culture-kiwi-swarm-couch-evolve-corn-cost-cereal |  
 | bip_39_word_new_br_1 | nice |  
 | bip_39_word_new_br_10 | nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost<br>cereal<br>garden |  
 | bip_39_word_new_br_11 | nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost<br>cereal<br>garden<br>math |  
@@ -147,6 +159,18 @@ cereal |
 | bip_39_word_space_7 | nice culture kiwi swarm couch evolve corn |  
 | bip_39_word_space_8 | nice culture kiwi swarm couch evolve corn cost |  
 | bip_39_word_space_9 | nice culture kiwi swarm couch evolve corn cost cereal |  
+| bip_39_word_underscore_1 | nice |  
+| bip_39_word_underscore_10 | nice_culture_kiwi_swarm_couch_evolve_corn_cost_cereal_garden |  
+| bip_39_word_underscore_11 | nice_culture_kiwi_swarm_couch_evolve_corn_cost_cereal_garden_math |  
+| bip_39_word_underscore_12 | nice_culture_kiwi_swarm_couch_evolve_corn_cost_cereal_garden_math_arctic |  
+| bip_39_word_underscore_2 | nice_culture |  
+| bip_39_word_underscore_3 | nice_culture_kiwi |  
+| bip_39_word_underscore_4 | nice_culture_kiwi_swarm |  
+| bip_39_word_underscore_5 | nice_culture_kiwi_swarm_couch |  
+| bip_39_word_underscore_6 | nice_culture_kiwi_swarm_couch_evolve |  
+| bip_39_word_underscore_7 | nice_culture_kiwi_swarm_couch_evolve_corn |  
+| bip_39_word_underscore_8 | nice_culture_kiwi_swarm_couch_evolve_corn_cost |  
+| bip_39_word_underscore_9 | nice_culture_kiwi_swarm_couch_evolve_corn_cost_cereal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

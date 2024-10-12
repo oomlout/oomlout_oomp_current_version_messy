@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | still |  
+| bip_39_word_dash_10 | still-citizen-squirrel-all-total-soda-mass-tide-exact-certain |  
+| bip_39_word_dash_11 | still-citizen-squirrel-all-total-soda-mass-tide-exact-certain-gown |  
+| bip_39_word_dash_12 | still-citizen-squirrel-all-total-soda-mass-tide-exact-certain-gown-affair |  
+| bip_39_word_dash_2 | still-citizen |  
+| bip_39_word_dash_3 | still-citizen-squirrel |  
+| bip_39_word_dash_4 | still-citizen-squirrel-all |  
+| bip_39_word_dash_5 | still-citizen-squirrel-all-total |  
+| bip_39_word_dash_6 | still-citizen-squirrel-all-total-soda |  
+| bip_39_word_dash_7 | still-citizen-squirrel-all-total-soda-mass |  
+| bip_39_word_dash_8 | still-citizen-squirrel-all-total-soda-mass-tide |  
+| bip_39_word_dash_9 | still-citizen-squirrel-all-total-soda-mass-tide-exact |  
 | bip_39_word_new_br_1 | still |  
 | bip_39_word_new_br_10 | still<br>citizen<br>squirrel<br>all<br>total<br>soda<br>mass<br>tide<br>exact<br>certain |  
 | bip_39_word_new_br_11 | still<br>citizen<br>squirrel<br>all<br>total<br>soda<br>mass<br>tide<br>exact<br>certain<br>gown |  
@@ -147,6 +159,18 @@ exact |
 | bip_39_word_space_7 | still citizen squirrel all total soda mass |  
 | bip_39_word_space_8 | still citizen squirrel all total soda mass tide |  
 | bip_39_word_space_9 | still citizen squirrel all total soda mass tide exact |  
+| bip_39_word_underscore_1 | still |  
+| bip_39_word_underscore_10 | still_citizen_squirrel_all_total_soda_mass_tide_exact_certain |  
+| bip_39_word_underscore_11 | still_citizen_squirrel_all_total_soda_mass_tide_exact_certain_gown |  
+| bip_39_word_underscore_12 | still_citizen_squirrel_all_total_soda_mass_tide_exact_certain_gown_affair |  
+| bip_39_word_underscore_2 | still_citizen |  
+| bip_39_word_underscore_3 | still_citizen_squirrel |  
+| bip_39_word_underscore_4 | still_citizen_squirrel_all |  
+| bip_39_word_underscore_5 | still_citizen_squirrel_all_total |  
+| bip_39_word_underscore_6 | still_citizen_squirrel_all_total_soda |  
+| bip_39_word_underscore_7 | still_citizen_squirrel_all_total_soda_mass |  
+| bip_39_word_underscore_8 | still_citizen_squirrel_all_total_soda_mass_tide |  
+| bip_39_word_underscore_9 | still_citizen_squirrel_all_total_soda_mass_tide_exact |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

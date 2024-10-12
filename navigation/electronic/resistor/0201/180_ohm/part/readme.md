@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | embody |  
+| bip_39_word_dash_10 | embody-monkey-picture-amused-market-forget-south-also-token-rely |  
+| bip_39_word_dash_11 | embody-monkey-picture-amused-market-forget-south-also-token-rely-hurdle |  
+| bip_39_word_dash_12 | embody-monkey-picture-amused-market-forget-south-also-token-rely-hurdle-admit |  
+| bip_39_word_dash_2 | embody-monkey |  
+| bip_39_word_dash_3 | embody-monkey-picture |  
+| bip_39_word_dash_4 | embody-monkey-picture-amused |  
+| bip_39_word_dash_5 | embody-monkey-picture-amused-market |  
+| bip_39_word_dash_6 | embody-monkey-picture-amused-market-forget |  
+| bip_39_word_dash_7 | embody-monkey-picture-amused-market-forget-south |  
+| bip_39_word_dash_8 | embody-monkey-picture-amused-market-forget-south-also |  
+| bip_39_word_dash_9 | embody-monkey-picture-amused-market-forget-south-also-token |  
 | bip_39_word_new_br_1 | embody |  
 | bip_39_word_new_br_10 | embody<br>monkey<br>picture<br>amused<br>market<br>forget<br>south<br>also<br>token<br>rely |  
 | bip_39_word_new_br_11 | embody<br>monkey<br>picture<br>amused<br>market<br>forget<br>south<br>also<br>token<br>rely<br>hurdle |  
@@ -147,6 +159,18 @@ token |
 | bip_39_word_space_7 | embody monkey picture amused market forget south |  
 | bip_39_word_space_8 | embody monkey picture amused market forget south also |  
 | bip_39_word_space_9 | embody monkey picture amused market forget south also token |  
+| bip_39_word_underscore_1 | embody |  
+| bip_39_word_underscore_10 | embody_monkey_picture_amused_market_forget_south_also_token_rely |  
+| bip_39_word_underscore_11 | embody_monkey_picture_amused_market_forget_south_also_token_rely_hurdle |  
+| bip_39_word_underscore_12 | embody_monkey_picture_amused_market_forget_south_also_token_rely_hurdle_admit |  
+| bip_39_word_underscore_2 | embody_monkey |  
+| bip_39_word_underscore_3 | embody_monkey_picture |  
+| bip_39_word_underscore_4 | embody_monkey_picture_amused |  
+| bip_39_word_underscore_5 | embody_monkey_picture_amused_market |  
+| bip_39_word_underscore_6 | embody_monkey_picture_amused_market_forget |  
+| bip_39_word_underscore_7 | embody_monkey_picture_amused_market_forget_south |  
+| bip_39_word_underscore_8 | embody_monkey_picture_amused_market_forget_south_also |  
+| bip_39_word_underscore_9 | embody_monkey_picture_amused_market_forget_south_also_token |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

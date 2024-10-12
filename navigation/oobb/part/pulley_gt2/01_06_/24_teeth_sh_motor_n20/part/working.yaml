@@ -1,3 +1,15 @@
+bip_39_word_dash_1: film
+bip_39_word_dash_10: film-grass-collect-balance-soup-birth-depend-all-renew-planet
+bip_39_word_dash_11: film-grass-collect-balance-soup-birth-depend-all-renew-planet-logic
+bip_39_word_dash_12: film-grass-collect-balance-soup-birth-depend-all-renew-planet-logic-always
+bip_39_word_dash_2: film-grass
+bip_39_word_dash_3: film-grass-collect
+bip_39_word_dash_4: film-grass-collect-balance
+bip_39_word_dash_5: film-grass-collect-balance-soup
+bip_39_word_dash_6: film-grass-collect-balance-soup-birth
+bip_39_word_dash_7: film-grass-collect-balance-soup-birth-depend
+bip_39_word_dash_8: film-grass-collect-balance-soup-birth-depend-all
+bip_39_word_dash_9: film-grass-collect-balance-soup-birth-depend-all-renew
 bip_39_word_new_br_1: film
 bip_39_word_new_br_10: film<br>grass<br>collect<br>balance<br>soup<br>birth<br>depend<br>all<br>renew<br>planet
 bip_39_word_new_br_11: film<br>grass<br>collect<br>balance<br>soup<br>birth<br>depend<br>all<br>renew<br>planet<br>logic
@@ -193,6 +205,18 @@ bip_39_word_space_6: film grass collect balance soup birth
 bip_39_word_space_7: film grass collect balance soup birth depend
 bip_39_word_space_8: film grass collect balance soup birth depend all
 bip_39_word_space_9: film grass collect balance soup birth depend all renew
+bip_39_word_underscore_1: film
+bip_39_word_underscore_10: film_grass_collect_balance_soup_birth_depend_all_renew_planet
+bip_39_word_underscore_11: film_grass_collect_balance_soup_birth_depend_all_renew_planet_logic
+bip_39_word_underscore_12: film_grass_collect_balance_soup_birth_depend_all_renew_planet_logic_always
+bip_39_word_underscore_2: film_grass
+bip_39_word_underscore_3: film_grass_collect
+bip_39_word_underscore_4: film_grass_collect_balance
+bip_39_word_underscore_5: film_grass_collect_balance_soup
+bip_39_word_underscore_6: film_grass_collect_balance_soup_birth
+bip_39_word_underscore_7: film_grass_collect_balance_soup_birth_depend
+bip_39_word_underscore_8: film_grass_collect_balance_soup_birth_depend_all
+bip_39_word_underscore_9: film_grass_collect_balance_soup_birth_depend_all_renew
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

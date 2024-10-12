@@ -1,3 +1,15 @@
+bip_39_word_dash_1: they
+bip_39_word_dash_10: they-slice-unaware-high-envelope-scene-copper-cancel-forget-dilemma
+bip_39_word_dash_11: they-slice-unaware-high-envelope-scene-copper-cancel-forget-dilemma-pact
+bip_39_word_dash_12: they-slice-unaware-high-envelope-scene-copper-cancel-forget-dilemma-pact-arrange
+bip_39_word_dash_2: they-slice
+bip_39_word_dash_3: they-slice-unaware
+bip_39_word_dash_4: they-slice-unaware-high
+bip_39_word_dash_5: they-slice-unaware-high-envelope
+bip_39_word_dash_6: they-slice-unaware-high-envelope-scene
+bip_39_word_dash_7: they-slice-unaware-high-envelope-scene-copper
+bip_39_word_dash_8: they-slice-unaware-high-envelope-scene-copper-cancel
+bip_39_word_dash_9: they-slice-unaware-high-envelope-scene-copper-cancel-forget
 bip_39_word_new_br_1: they
 bip_39_word_new_br_10: they<br>slice<br>unaware<br>high<br>envelope<br>scene<br>copper<br>cancel<br>forget<br>dilemma
 bip_39_word_new_br_11: they<br>slice<br>unaware<br>high<br>envelope<br>scene<br>copper<br>cancel<br>forget<br>dilemma<br>pact
@@ -194,6 +206,18 @@ bip_39_word_space_6: they slice unaware high envelope scene
 bip_39_word_space_7: they slice unaware high envelope scene copper
 bip_39_word_space_8: they slice unaware high envelope scene copper cancel
 bip_39_word_space_9: they slice unaware high envelope scene copper cancel forget
+bip_39_word_underscore_1: they
+bip_39_word_underscore_10: they_slice_unaware_high_envelope_scene_copper_cancel_forget_dilemma
+bip_39_word_underscore_11: they_slice_unaware_high_envelope_scene_copper_cancel_forget_dilemma_pact
+bip_39_word_underscore_12: they_slice_unaware_high_envelope_scene_copper_cancel_forget_dilemma_pact_arrange
+bip_39_word_underscore_2: they_slice
+bip_39_word_underscore_3: they_slice_unaware
+bip_39_word_underscore_4: they_slice_unaware_high
+bip_39_word_underscore_5: they_slice_unaware_high_envelope
+bip_39_word_underscore_6: they_slice_unaware_high_envelope_scene
+bip_39_word_underscore_7: they_slice_unaware_high_envelope_scene_copper
+bip_39_word_underscore_8: they_slice_unaware_high_envelope_scene_copper_cancel
+bip_39_word_underscore_9: they_slice_unaware_high_envelope_scene_copper_cancel_forget
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

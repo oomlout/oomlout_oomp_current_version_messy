@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | caution |  
+| bip_39_word_dash_10 | caution-better-pole-digital-rate-soda-hill-crater-puzzle-reduce |  
+| bip_39_word_dash_11 | caution-better-pole-digital-rate-soda-hill-crater-puzzle-reduce-spoil |  
+| bip_39_word_dash_12 | caution-better-pole-digital-rate-soda-hill-crater-puzzle-reduce-spoil-amazing |  
+| bip_39_word_dash_2 | caution-better |  
+| bip_39_word_dash_3 | caution-better-pole |  
+| bip_39_word_dash_4 | caution-better-pole-digital |  
+| bip_39_word_dash_5 | caution-better-pole-digital-rate |  
+| bip_39_word_dash_6 | caution-better-pole-digital-rate-soda |  
+| bip_39_word_dash_7 | caution-better-pole-digital-rate-soda-hill |  
+| bip_39_word_dash_8 | caution-better-pole-digital-rate-soda-hill-crater |  
+| bip_39_word_dash_9 | caution-better-pole-digital-rate-soda-hill-crater-puzzle |  
 | bip_39_word_new_br_1 | caution |  
 | bip_39_word_new_br_10 | caution<br>better<br>pole<br>digital<br>rate<br>soda<br>hill<br>crater<br>puzzle<br>reduce |  
 | bip_39_word_new_br_11 | caution<br>better<br>pole<br>digital<br>rate<br>soda<br>hill<br>crater<br>puzzle<br>reduce<br>spoil |  
@@ -147,6 +159,18 @@ puzzle |
 | bip_39_word_space_7 | caution better pole digital rate soda hill |  
 | bip_39_word_space_8 | caution better pole digital rate soda hill crater |  
 | bip_39_word_space_9 | caution better pole digital rate soda hill crater puzzle |  
+| bip_39_word_underscore_1 | caution |  
+| bip_39_word_underscore_10 | caution_better_pole_digital_rate_soda_hill_crater_puzzle_reduce |  
+| bip_39_word_underscore_11 | caution_better_pole_digital_rate_soda_hill_crater_puzzle_reduce_spoil |  
+| bip_39_word_underscore_12 | caution_better_pole_digital_rate_soda_hill_crater_puzzle_reduce_spoil_amazing |  
+| bip_39_word_underscore_2 | caution_better |  
+| bip_39_word_underscore_3 | caution_better_pole |  
+| bip_39_word_underscore_4 | caution_better_pole_digital |  
+| bip_39_word_underscore_5 | caution_better_pole_digital_rate |  
+| bip_39_word_underscore_6 | caution_better_pole_digital_rate_soda |  
+| bip_39_word_underscore_7 | caution_better_pole_digital_rate_soda_hill |  
+| bip_39_word_underscore_8 | caution_better_pole_digital_rate_soda_hill_crater |  
+| bip_39_word_underscore_9 | caution_better_pole_digital_rate_soda_hill_crater_puzzle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

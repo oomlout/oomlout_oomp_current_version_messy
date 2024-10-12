@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bulk
+bip_39_word_dash_10: bulk-express-gun-lizard-borrow-three-rubber-canoe-visit-guitar
+bip_39_word_dash_11: bulk-express-gun-lizard-borrow-three-rubber-canoe-visit-guitar-grid
+bip_39_word_dash_12: bulk-express-gun-lizard-borrow-three-rubber-canoe-visit-guitar-grid-above
+bip_39_word_dash_2: bulk-express
+bip_39_word_dash_3: bulk-express-gun
+bip_39_word_dash_4: bulk-express-gun-lizard
+bip_39_word_dash_5: bulk-express-gun-lizard-borrow
+bip_39_word_dash_6: bulk-express-gun-lizard-borrow-three
+bip_39_word_dash_7: bulk-express-gun-lizard-borrow-three-rubber
+bip_39_word_dash_8: bulk-express-gun-lizard-borrow-three-rubber-canoe
+bip_39_word_dash_9: bulk-express-gun-lizard-borrow-three-rubber-canoe-visit
 bip_39_word_new_br_1: bulk
 bip_39_word_new_br_10: bulk<br>express<br>gun<br>lizard<br>borrow<br>three<br>rubber<br>canoe<br>visit<br>guitar
 bip_39_word_new_br_11: bulk<br>express<br>gun<br>lizard<br>borrow<br>three<br>rubber<br>canoe<br>visit<br>guitar<br>grid
@@ -193,6 +205,18 @@ bip_39_word_space_6: bulk express gun lizard borrow three
 bip_39_word_space_7: bulk express gun lizard borrow three rubber
 bip_39_word_space_8: bulk express gun lizard borrow three rubber canoe
 bip_39_word_space_9: bulk express gun lizard borrow three rubber canoe visit
+bip_39_word_underscore_1: bulk
+bip_39_word_underscore_10: bulk_express_gun_lizard_borrow_three_rubber_canoe_visit_guitar
+bip_39_word_underscore_11: bulk_express_gun_lizard_borrow_three_rubber_canoe_visit_guitar_grid
+bip_39_word_underscore_12: bulk_express_gun_lizard_borrow_three_rubber_canoe_visit_guitar_grid_above
+bip_39_word_underscore_2: bulk_express
+bip_39_word_underscore_3: bulk_express_gun
+bip_39_word_underscore_4: bulk_express_gun_lizard
+bip_39_word_underscore_5: bulk_express_gun_lizard_borrow
+bip_39_word_underscore_6: bulk_express_gun_lizard_borrow_three
+bip_39_word_underscore_7: bulk_express_gun_lizard_borrow_three_rubber
+bip_39_word_underscore_8: bulk_express_gun_lizard_borrow_three_rubber_canoe
+bip_39_word_underscore_9: bulk_express_gun_lizard_borrow_three_rubber_canoe_visit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

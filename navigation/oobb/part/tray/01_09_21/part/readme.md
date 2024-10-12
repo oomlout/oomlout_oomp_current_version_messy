@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fitness |  
+| bip_39_word_dash_10 | fitness-stairs-valid-credit-castle-bread-luxury-govern-visa-witness |  
+| bip_39_word_dash_11 | fitness-stairs-valid-credit-castle-bread-luxury-govern-visa-witness-ship |  
+| bip_39_word_dash_12 | fitness-stairs-valid-credit-castle-bread-luxury-govern-visa-witness-ship-any |  
+| bip_39_word_dash_2 | fitness-stairs |  
+| bip_39_word_dash_3 | fitness-stairs-valid |  
+| bip_39_word_dash_4 | fitness-stairs-valid-credit |  
+| bip_39_word_dash_5 | fitness-stairs-valid-credit-castle |  
+| bip_39_word_dash_6 | fitness-stairs-valid-credit-castle-bread |  
+| bip_39_word_dash_7 | fitness-stairs-valid-credit-castle-bread-luxury |  
+| bip_39_word_dash_8 | fitness-stairs-valid-credit-castle-bread-luxury-govern |  
+| bip_39_word_dash_9 | fitness-stairs-valid-credit-castle-bread-luxury-govern-visa |  
 | bip_39_word_new_br_1 | fitness |  
 | bip_39_word_new_br_10 | fitness<br>stairs<br>valid<br>credit<br>castle<br>bread<br>luxury<br>govern<br>visa<br>witness |  
 | bip_39_word_new_br_11 | fitness<br>stairs<br>valid<br>credit<br>castle<br>bread<br>luxury<br>govern<br>visa<br>witness<br>ship |  
@@ -147,6 +159,18 @@ visa |
 | bip_39_word_space_7 | fitness stairs valid credit castle bread luxury |  
 | bip_39_word_space_8 | fitness stairs valid credit castle bread luxury govern |  
 | bip_39_word_space_9 | fitness stairs valid credit castle bread luxury govern visa |  
+| bip_39_word_underscore_1 | fitness |  
+| bip_39_word_underscore_10 | fitness_stairs_valid_credit_castle_bread_luxury_govern_visa_witness |  
+| bip_39_word_underscore_11 | fitness_stairs_valid_credit_castle_bread_luxury_govern_visa_witness_ship |  
+| bip_39_word_underscore_12 | fitness_stairs_valid_credit_castle_bread_luxury_govern_visa_witness_ship_any |  
+| bip_39_word_underscore_2 | fitness_stairs |  
+| bip_39_word_underscore_3 | fitness_stairs_valid |  
+| bip_39_word_underscore_4 | fitness_stairs_valid_credit |  
+| bip_39_word_underscore_5 | fitness_stairs_valid_credit_castle |  
+| bip_39_word_underscore_6 | fitness_stairs_valid_credit_castle_bread |  
+| bip_39_word_underscore_7 | fitness_stairs_valid_credit_castle_bread_luxury |  
+| bip_39_word_underscore_8 | fitness_stairs_valid_credit_castle_bread_luxury_govern |  
+| bip_39_word_underscore_9 | fitness_stairs_valid_credit_castle_bread_luxury_govern_visa |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

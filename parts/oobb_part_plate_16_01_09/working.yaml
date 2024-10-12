@@ -1,3 +1,15 @@
+bip_39_word_dash_1: seed
+bip_39_word_dash_10: seed-slender-ticket-alcohol-day-kidney-spend-inform-glimpse-artwork
+bip_39_word_dash_11: seed-slender-ticket-alcohol-day-kidney-spend-inform-glimpse-artwork-result
+bip_39_word_dash_12: seed-slender-ticket-alcohol-day-kidney-spend-inform-glimpse-artwork-result-attend
+bip_39_word_dash_2: seed-slender
+bip_39_word_dash_3: seed-slender-ticket
+bip_39_word_dash_4: seed-slender-ticket-alcohol
+bip_39_word_dash_5: seed-slender-ticket-alcohol-day
+bip_39_word_dash_6: seed-slender-ticket-alcohol-day-kidney
+bip_39_word_dash_7: seed-slender-ticket-alcohol-day-kidney-spend
+bip_39_word_dash_8: seed-slender-ticket-alcohol-day-kidney-spend-inform
+bip_39_word_dash_9: seed-slender-ticket-alcohol-day-kidney-spend-inform-glimpse
 bip_39_word_new_br_1: seed
 bip_39_word_new_br_10: seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork
 bip_39_word_new_br_11: seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork<br>result
@@ -194,6 +206,18 @@ bip_39_word_space_6: seed slender ticket alcohol day kidney
 bip_39_word_space_7: seed slender ticket alcohol day kidney spend
 bip_39_word_space_8: seed slender ticket alcohol day kidney spend inform
 bip_39_word_space_9: seed slender ticket alcohol day kidney spend inform glimpse
+bip_39_word_underscore_1: seed
+bip_39_word_underscore_10: seed_slender_ticket_alcohol_day_kidney_spend_inform_glimpse_artwork
+bip_39_word_underscore_11: seed_slender_ticket_alcohol_day_kidney_spend_inform_glimpse_artwork_result
+bip_39_word_underscore_12: seed_slender_ticket_alcohol_day_kidney_spend_inform_glimpse_artwork_result_attend
+bip_39_word_underscore_2: seed_slender
+bip_39_word_underscore_3: seed_slender_ticket
+bip_39_word_underscore_4: seed_slender_ticket_alcohol
+bip_39_word_underscore_5: seed_slender_ticket_alcohol_day
+bip_39_word_underscore_6: seed_slender_ticket_alcohol_day_kidney
+bip_39_word_underscore_7: seed_slender_ticket_alcohol_day_kidney_spend
+bip_39_word_underscore_8: seed_slender_ticket_alcohol_day_kidney_spend_inform
+bip_39_word_underscore_9: seed_slender_ticket_alcohol_day_kidney_spend_inform_glimpse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

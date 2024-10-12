@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mosquito |  
+| bip_39_word_dash_10 | mosquito-spin-bunker-rice-good-duty-cake-bracket-occur-misery |  
+| bip_39_word_dash_11 | mosquito-spin-bunker-rice-good-duty-cake-bracket-occur-misery-globe |  
+| bip_39_word_dash_12 | mosquito-spin-bunker-rice-good-duty-cake-bracket-occur-misery-globe-arrange |  
+| bip_39_word_dash_2 | mosquito-spin |  
+| bip_39_word_dash_3 | mosquito-spin-bunker |  
+| bip_39_word_dash_4 | mosquito-spin-bunker-rice |  
+| bip_39_word_dash_5 | mosquito-spin-bunker-rice-good |  
+| bip_39_word_dash_6 | mosquito-spin-bunker-rice-good-duty |  
+| bip_39_word_dash_7 | mosquito-spin-bunker-rice-good-duty-cake |  
+| bip_39_word_dash_8 | mosquito-spin-bunker-rice-good-duty-cake-bracket |  
+| bip_39_word_dash_9 | mosquito-spin-bunker-rice-good-duty-cake-bracket-occur |  
 | bip_39_word_new_br_1 | mosquito |  
 | bip_39_word_new_br_10 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket<br>occur<br>misery |  
 | bip_39_word_new_br_11 | mosquito<br>spin<br>bunker<br>rice<br>good<br>duty<br>cake<br>bracket<br>occur<br>misery<br>globe |  
@@ -147,6 +159,18 @@ occur |
 | bip_39_word_space_7 | mosquito spin bunker rice good duty cake |  
 | bip_39_word_space_8 | mosquito spin bunker rice good duty cake bracket |  
 | bip_39_word_space_9 | mosquito spin bunker rice good duty cake bracket occur |  
+| bip_39_word_underscore_1 | mosquito |  
+| bip_39_word_underscore_10 | mosquito_spin_bunker_rice_good_duty_cake_bracket_occur_misery |  
+| bip_39_word_underscore_11 | mosquito_spin_bunker_rice_good_duty_cake_bracket_occur_misery_globe |  
+| bip_39_word_underscore_12 | mosquito_spin_bunker_rice_good_duty_cake_bracket_occur_misery_globe_arrange |  
+| bip_39_word_underscore_2 | mosquito_spin |  
+| bip_39_word_underscore_3 | mosquito_spin_bunker |  
+| bip_39_word_underscore_4 | mosquito_spin_bunker_rice |  
+| bip_39_word_underscore_5 | mosquito_spin_bunker_rice_good |  
+| bip_39_word_underscore_6 | mosquito_spin_bunker_rice_good_duty |  
+| bip_39_word_underscore_7 | mosquito_spin_bunker_rice_good_duty_cake |  
+| bip_39_word_underscore_8 | mosquito_spin_bunker_rice_good_duty_cake_bracket |  
+| bip_39_word_underscore_9 | mosquito_spin_bunker_rice_good_duty_cake_bracket_occur |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

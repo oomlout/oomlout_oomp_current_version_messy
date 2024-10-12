@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eternal |  
+| bip_39_word_dash_10 | eternal-dress-emotion-simple-season-combine-clutch-chronic-merit-clay |  
+| bip_39_word_dash_11 | eternal-dress-emotion-simple-season-combine-clutch-chronic-merit-clay-choice |  
+| bip_39_word_dash_12 | eternal-dress-emotion-simple-season-combine-clutch-chronic-merit-clay-choice-anchor |  
+| bip_39_word_dash_2 | eternal-dress |  
+| bip_39_word_dash_3 | eternal-dress-emotion |  
+| bip_39_word_dash_4 | eternal-dress-emotion-simple |  
+| bip_39_word_dash_5 | eternal-dress-emotion-simple-season |  
+| bip_39_word_dash_6 | eternal-dress-emotion-simple-season-combine |  
+| bip_39_word_dash_7 | eternal-dress-emotion-simple-season-combine-clutch |  
+| bip_39_word_dash_8 | eternal-dress-emotion-simple-season-combine-clutch-chronic |  
+| bip_39_word_dash_9 | eternal-dress-emotion-simple-season-combine-clutch-chronic-merit |  
 | bip_39_word_new_br_1 | eternal |  
 | bip_39_word_new_br_10 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic<br>merit<br>clay |  
 | bip_39_word_new_br_11 | eternal<br>dress<br>emotion<br>simple<br>season<br>combine<br>clutch<br>chronic<br>merit<br>clay<br>choice |  
@@ -147,6 +159,18 @@ merit |
 | bip_39_word_space_7 | eternal dress emotion simple season combine clutch |  
 | bip_39_word_space_8 | eternal dress emotion simple season combine clutch chronic |  
 | bip_39_word_space_9 | eternal dress emotion simple season combine clutch chronic merit |  
+| bip_39_word_underscore_1 | eternal |  
+| bip_39_word_underscore_10 | eternal_dress_emotion_simple_season_combine_clutch_chronic_merit_clay |  
+| bip_39_word_underscore_11 | eternal_dress_emotion_simple_season_combine_clutch_chronic_merit_clay_choice |  
+| bip_39_word_underscore_12 | eternal_dress_emotion_simple_season_combine_clutch_chronic_merit_clay_choice_anchor |  
+| bip_39_word_underscore_2 | eternal_dress |  
+| bip_39_word_underscore_3 | eternal_dress_emotion |  
+| bip_39_word_underscore_4 | eternal_dress_emotion_simple |  
+| bip_39_word_underscore_5 | eternal_dress_emotion_simple_season |  
+| bip_39_word_underscore_6 | eternal_dress_emotion_simple_season_combine |  
+| bip_39_word_underscore_7 | eternal_dress_emotion_simple_season_combine_clutch |  
+| bip_39_word_underscore_8 | eternal_dress_emotion_simple_season_combine_clutch_chronic |  
+| bip_39_word_underscore_9 | eternal_dress_emotion_simple_season_combine_clutch_chronic_merit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tortoise |  
+| bip_39_word_dash_10 | tortoise-very-happy-cake-deputy-disease-left-spring-solar-garment |  
+| bip_39_word_dash_11 | tortoise-very-happy-cake-deputy-disease-left-spring-solar-garment-print |  
+| bip_39_word_dash_12 | tortoise-very-happy-cake-deputy-disease-left-spring-solar-garment-print-asthma |  
+| bip_39_word_dash_2 | tortoise-very |  
+| bip_39_word_dash_3 | tortoise-very-happy |  
+| bip_39_word_dash_4 | tortoise-very-happy-cake |  
+| bip_39_word_dash_5 | tortoise-very-happy-cake-deputy |  
+| bip_39_word_dash_6 | tortoise-very-happy-cake-deputy-disease |  
+| bip_39_word_dash_7 | tortoise-very-happy-cake-deputy-disease-left |  
+| bip_39_word_dash_8 | tortoise-very-happy-cake-deputy-disease-left-spring |  
+| bip_39_word_dash_9 | tortoise-very-happy-cake-deputy-disease-left-spring-solar |  
 | bip_39_word_new_br_1 | tortoise |  
 | bip_39_word_new_br_10 | tortoise<br>very<br>happy<br>cake<br>deputy<br>disease<br>left<br>spring<br>solar<br>garment |  
 | bip_39_word_new_br_11 | tortoise<br>very<br>happy<br>cake<br>deputy<br>disease<br>left<br>spring<br>solar<br>garment<br>print |  
@@ -147,6 +159,18 @@ solar |
 | bip_39_word_space_7 | tortoise very happy cake deputy disease left |  
 | bip_39_word_space_8 | tortoise very happy cake deputy disease left spring |  
 | bip_39_word_space_9 | tortoise very happy cake deputy disease left spring solar |  
+| bip_39_word_underscore_1 | tortoise |  
+| bip_39_word_underscore_10 | tortoise_very_happy_cake_deputy_disease_left_spring_solar_garment |  
+| bip_39_word_underscore_11 | tortoise_very_happy_cake_deputy_disease_left_spring_solar_garment_print |  
+| bip_39_word_underscore_12 | tortoise_very_happy_cake_deputy_disease_left_spring_solar_garment_print_asthma |  
+| bip_39_word_underscore_2 | tortoise_very |  
+| bip_39_word_underscore_3 | tortoise_very_happy |  
+| bip_39_word_underscore_4 | tortoise_very_happy_cake |  
+| bip_39_word_underscore_5 | tortoise_very_happy_cake_deputy |  
+| bip_39_word_underscore_6 | tortoise_very_happy_cake_deputy_disease |  
+| bip_39_word_underscore_7 | tortoise_very_happy_cake_deputy_disease_left |  
+| bip_39_word_underscore_8 | tortoise_very_happy_cake_deputy_disease_left_spring |  
+| bip_39_word_underscore_9 | tortoise_very_happy_cake_deputy_disease_left_spring_solar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

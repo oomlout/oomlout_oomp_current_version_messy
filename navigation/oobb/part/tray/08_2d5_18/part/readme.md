@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | echo |  
+| bip_39_word_dash_10 | echo-dragon-chaos-woman-napkin-inhale-park-hockey-project-correct |  
+| bip_39_word_dash_11 | echo-dragon-chaos-woman-napkin-inhale-park-hockey-project-correct-issue |  
+| bip_39_word_dash_12 | echo-dragon-chaos-woman-napkin-inhale-park-hockey-project-correct-issue-acquire |  
+| bip_39_word_dash_2 | echo-dragon |  
+| bip_39_word_dash_3 | echo-dragon-chaos |  
+| bip_39_word_dash_4 | echo-dragon-chaos-woman |  
+| bip_39_word_dash_5 | echo-dragon-chaos-woman-napkin |  
+| bip_39_word_dash_6 | echo-dragon-chaos-woman-napkin-inhale |  
+| bip_39_word_dash_7 | echo-dragon-chaos-woman-napkin-inhale-park |  
+| bip_39_word_dash_8 | echo-dragon-chaos-woman-napkin-inhale-park-hockey |  
+| bip_39_word_dash_9 | echo-dragon-chaos-woman-napkin-inhale-park-hockey-project |  
 | bip_39_word_new_br_1 | echo |  
 | bip_39_word_new_br_10 | echo<br>dragon<br>chaos<br>woman<br>napkin<br>inhale<br>park<br>hockey<br>project<br>correct |  
 | bip_39_word_new_br_11 | echo<br>dragon<br>chaos<br>woman<br>napkin<br>inhale<br>park<br>hockey<br>project<br>correct<br>issue |  
@@ -147,6 +159,18 @@ project |
 | bip_39_word_space_7 | echo dragon chaos woman napkin inhale park |  
 | bip_39_word_space_8 | echo dragon chaos woman napkin inhale park hockey |  
 | bip_39_word_space_9 | echo dragon chaos woman napkin inhale park hockey project |  
+| bip_39_word_underscore_1 | echo |  
+| bip_39_word_underscore_10 | echo_dragon_chaos_woman_napkin_inhale_park_hockey_project_correct |  
+| bip_39_word_underscore_11 | echo_dragon_chaos_woman_napkin_inhale_park_hockey_project_correct_issue |  
+| bip_39_word_underscore_12 | echo_dragon_chaos_woman_napkin_inhale_park_hockey_project_correct_issue_acquire |  
+| bip_39_word_underscore_2 | echo_dragon |  
+| bip_39_word_underscore_3 | echo_dragon_chaos |  
+| bip_39_word_underscore_4 | echo_dragon_chaos_woman |  
+| bip_39_word_underscore_5 | echo_dragon_chaos_woman_napkin |  
+| bip_39_word_underscore_6 | echo_dragon_chaos_woman_napkin_inhale |  
+| bip_39_word_underscore_7 | echo_dragon_chaos_woman_napkin_inhale_park |  
+| bip_39_word_underscore_8 | echo_dragon_chaos_woman_napkin_inhale_park_hockey |  
+| bip_39_word_underscore_9 | echo_dragon_chaos_woman_napkin_inhale_park_hockey_project |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | parade |  
+| bip_39_word_dash_10 | parade-pool-alley-fossil-disease-assume-relax-absurd-review-venture |  
+| bip_39_word_dash_11 | parade-pool-alley-fossil-disease-assume-relax-absurd-review-venture-squeeze |  
+| bip_39_word_dash_12 | parade-pool-alley-fossil-disease-assume-relax-absurd-review-venture-squeeze-amateur |  
+| bip_39_word_dash_2 | parade-pool |  
+| bip_39_word_dash_3 | parade-pool-alley |  
+| bip_39_word_dash_4 | parade-pool-alley-fossil |  
+| bip_39_word_dash_5 | parade-pool-alley-fossil-disease |  
+| bip_39_word_dash_6 | parade-pool-alley-fossil-disease-assume |  
+| bip_39_word_dash_7 | parade-pool-alley-fossil-disease-assume-relax |  
+| bip_39_word_dash_8 | parade-pool-alley-fossil-disease-assume-relax-absurd |  
+| bip_39_word_dash_9 | parade-pool-alley-fossil-disease-assume-relax-absurd-review |  
 | bip_39_word_new_br_1 | parade |  
 | bip_39_word_new_br_10 | parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd<br>review<br>venture |  
 | bip_39_word_new_br_11 | parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd<br>review<br>venture<br>squeeze |  
@@ -147,6 +159,18 @@ review |
 | bip_39_word_space_7 | parade pool alley fossil disease assume relax |  
 | bip_39_word_space_8 | parade pool alley fossil disease assume relax absurd |  
 | bip_39_word_space_9 | parade pool alley fossil disease assume relax absurd review |  
+| bip_39_word_underscore_1 | parade |  
+| bip_39_word_underscore_10 | parade_pool_alley_fossil_disease_assume_relax_absurd_review_venture |  
+| bip_39_word_underscore_11 | parade_pool_alley_fossil_disease_assume_relax_absurd_review_venture_squeeze |  
+| bip_39_word_underscore_12 | parade_pool_alley_fossil_disease_assume_relax_absurd_review_venture_squeeze_amateur |  
+| bip_39_word_underscore_2 | parade_pool |  
+| bip_39_word_underscore_3 | parade_pool_alley |  
+| bip_39_word_underscore_4 | parade_pool_alley_fossil |  
+| bip_39_word_underscore_5 | parade_pool_alley_fossil_disease |  
+| bip_39_word_underscore_6 | parade_pool_alley_fossil_disease_assume |  
+| bip_39_word_underscore_7 | parade_pool_alley_fossil_disease_assume_relax |  
+| bip_39_word_underscore_8 | parade_pool_alley_fossil_disease_assume_relax_absurd |  
+| bip_39_word_underscore_9 | parade_pool_alley_fossil_disease_assume_relax_absurd_review |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

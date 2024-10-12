@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | famous |  
+| bip_39_word_dash_10 | famous-wide-chest-cart-athlete-speak-aunt-insect-match-omit |  
+| bip_39_word_dash_11 | famous-wide-chest-cart-athlete-speak-aunt-insect-match-omit-goose |  
+| bip_39_word_dash_12 | famous-wide-chest-cart-athlete-speak-aunt-insect-match-omit-goose-actress |  
+| bip_39_word_dash_2 | famous-wide |  
+| bip_39_word_dash_3 | famous-wide-chest |  
+| bip_39_word_dash_4 | famous-wide-chest-cart |  
+| bip_39_word_dash_5 | famous-wide-chest-cart-athlete |  
+| bip_39_word_dash_6 | famous-wide-chest-cart-athlete-speak |  
+| bip_39_word_dash_7 | famous-wide-chest-cart-athlete-speak-aunt |  
+| bip_39_word_dash_8 | famous-wide-chest-cart-athlete-speak-aunt-insect |  
+| bip_39_word_dash_9 | famous-wide-chest-cart-athlete-speak-aunt-insect-match |  
 | bip_39_word_new_br_1 | famous |  
 | bip_39_word_new_br_10 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit |  
 | bip_39_word_new_br_11 | famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit<br>goose |  
@@ -147,6 +159,18 @@ match |
 | bip_39_word_space_7 | famous wide chest cart athlete speak aunt |  
 | bip_39_word_space_8 | famous wide chest cart athlete speak aunt insect |  
 | bip_39_word_space_9 | famous wide chest cart athlete speak aunt insect match |  
+| bip_39_word_underscore_1 | famous |  
+| bip_39_word_underscore_10 | famous_wide_chest_cart_athlete_speak_aunt_insect_match_omit |  
+| bip_39_word_underscore_11 | famous_wide_chest_cart_athlete_speak_aunt_insect_match_omit_goose |  
+| bip_39_word_underscore_12 | famous_wide_chest_cart_athlete_speak_aunt_insect_match_omit_goose_actress |  
+| bip_39_word_underscore_2 | famous_wide |  
+| bip_39_word_underscore_3 | famous_wide_chest |  
+| bip_39_word_underscore_4 | famous_wide_chest_cart |  
+| bip_39_word_underscore_5 | famous_wide_chest_cart_athlete |  
+| bip_39_word_underscore_6 | famous_wide_chest_cart_athlete_speak |  
+| bip_39_word_underscore_7 | famous_wide_chest_cart_athlete_speak_aunt |  
+| bip_39_word_underscore_8 | famous_wide_chest_cart_athlete_speak_aunt_insect |  
+| bip_39_word_underscore_9 | famous_wide_chest_cart_athlete_speak_aunt_insect_match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

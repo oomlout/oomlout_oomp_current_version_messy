@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flag
+bip_39_word_dash_10: flag-baby-stem-face-wood-perfect-connect-spawn-dinosaur-bread
+bip_39_word_dash_11: flag-baby-stem-face-wood-perfect-connect-spawn-dinosaur-bread-benefit
+bip_39_word_dash_12: flag-baby-stem-face-wood-perfect-connect-spawn-dinosaur-bread-benefit-arch
+bip_39_word_dash_2: flag-baby
+bip_39_word_dash_3: flag-baby-stem
+bip_39_word_dash_4: flag-baby-stem-face
+bip_39_word_dash_5: flag-baby-stem-face-wood
+bip_39_word_dash_6: flag-baby-stem-face-wood-perfect
+bip_39_word_dash_7: flag-baby-stem-face-wood-perfect-connect
+bip_39_word_dash_8: flag-baby-stem-face-wood-perfect-connect-spawn
+bip_39_word_dash_9: flag-baby-stem-face-wood-perfect-connect-spawn-dinosaur
 bip_39_word_new_br_1: flag
 bip_39_word_new_br_10: flag<br>baby<br>stem<br>face<br>wood<br>perfect<br>connect<br>spawn<br>dinosaur<br>bread
 bip_39_word_new_br_11: flag<br>baby<br>stem<br>face<br>wood<br>perfect<br>connect<br>spawn<br>dinosaur<br>bread<br>benefit
@@ -193,6 +205,18 @@ bip_39_word_space_6: flag baby stem face wood perfect
 bip_39_word_space_7: flag baby stem face wood perfect connect
 bip_39_word_space_8: flag baby stem face wood perfect connect spawn
 bip_39_word_space_9: flag baby stem face wood perfect connect spawn dinosaur
+bip_39_word_underscore_1: flag
+bip_39_word_underscore_10: flag_baby_stem_face_wood_perfect_connect_spawn_dinosaur_bread
+bip_39_word_underscore_11: flag_baby_stem_face_wood_perfect_connect_spawn_dinosaur_bread_benefit
+bip_39_word_underscore_12: flag_baby_stem_face_wood_perfect_connect_spawn_dinosaur_bread_benefit_arch
+bip_39_word_underscore_2: flag_baby
+bip_39_word_underscore_3: flag_baby_stem
+bip_39_word_underscore_4: flag_baby_stem_face
+bip_39_word_underscore_5: flag_baby_stem_face_wood
+bip_39_word_underscore_6: flag_baby_stem_face_wood_perfect
+bip_39_word_underscore_7: flag_baby_stem_face_wood_perfect_connect
+bip_39_word_underscore_8: flag_baby_stem_face_wood_perfect_connect_spawn
+bip_39_word_underscore_9: flag_baby_stem_face_wood_perfect_connect_spawn_dinosaur
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

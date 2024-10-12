@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blossom |  
+| bip_39_word_dash_10 | blossom-patrol-legal-glad-artist-average-blast-eyebrow-code-page |  
+| bip_39_word_dash_11 | blossom-patrol-legal-glad-artist-average-blast-eyebrow-code-page-shadow |  
+| bip_39_word_dash_12 | blossom-patrol-legal-glad-artist-average-blast-eyebrow-code-page-shadow-attack |  
+| bip_39_word_dash_2 | blossom-patrol |  
+| bip_39_word_dash_3 | blossom-patrol-legal |  
+| bip_39_word_dash_4 | blossom-patrol-legal-glad |  
+| bip_39_word_dash_5 | blossom-patrol-legal-glad-artist |  
+| bip_39_word_dash_6 | blossom-patrol-legal-glad-artist-average |  
+| bip_39_word_dash_7 | blossom-patrol-legal-glad-artist-average-blast |  
+| bip_39_word_dash_8 | blossom-patrol-legal-glad-artist-average-blast-eyebrow |  
+| bip_39_word_dash_9 | blossom-patrol-legal-glad-artist-average-blast-eyebrow-code |  
 | bip_39_word_new_br_1 | blossom |  
 | bip_39_word_new_br_10 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow<br>code<br>page |  
 | bip_39_word_new_br_11 | blossom<br>patrol<br>legal<br>glad<br>artist<br>average<br>blast<br>eyebrow<br>code<br>page<br>shadow |  
@@ -147,6 +159,18 @@ code |
 | bip_39_word_space_7 | blossom patrol legal glad artist average blast |  
 | bip_39_word_space_8 | blossom patrol legal glad artist average blast eyebrow |  
 | bip_39_word_space_9 | blossom patrol legal glad artist average blast eyebrow code |  
+| bip_39_word_underscore_1 | blossom |  
+| bip_39_word_underscore_10 | blossom_patrol_legal_glad_artist_average_blast_eyebrow_code_page |  
+| bip_39_word_underscore_11 | blossom_patrol_legal_glad_artist_average_blast_eyebrow_code_page_shadow |  
+| bip_39_word_underscore_12 | blossom_patrol_legal_glad_artist_average_blast_eyebrow_code_page_shadow_attack |  
+| bip_39_word_underscore_2 | blossom_patrol |  
+| bip_39_word_underscore_3 | blossom_patrol_legal |  
+| bip_39_word_underscore_4 | blossom_patrol_legal_glad |  
+| bip_39_word_underscore_5 | blossom_patrol_legal_glad_artist |  
+| bip_39_word_underscore_6 | blossom_patrol_legal_glad_artist_average |  
+| bip_39_word_underscore_7 | blossom_patrol_legal_glad_artist_average_blast |  
+| bip_39_word_underscore_8 | blossom_patrol_legal_glad_artist_average_blast_eyebrow |  
+| bip_39_word_underscore_9 | blossom_patrol_legal_glad_artist_average_blast_eyebrow_code |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

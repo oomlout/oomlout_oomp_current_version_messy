@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | analyst |  
+| bip_39_word_dash_10 | analyst-check-match-fantasy-same-equip-concert-opinion-gossip-behave |  
+| bip_39_word_dash_11 | analyst-check-match-fantasy-same-equip-concert-opinion-gossip-behave-goddess |  
+| bip_39_word_dash_12 | analyst-check-match-fantasy-same-equip-concert-opinion-gossip-behave-goddess-achieve |  
+| bip_39_word_dash_2 | analyst-check |  
+| bip_39_word_dash_3 | analyst-check-match |  
+| bip_39_word_dash_4 | analyst-check-match-fantasy |  
+| bip_39_word_dash_5 | analyst-check-match-fantasy-same |  
+| bip_39_word_dash_6 | analyst-check-match-fantasy-same-equip |  
+| bip_39_word_dash_7 | analyst-check-match-fantasy-same-equip-concert |  
+| bip_39_word_dash_8 | analyst-check-match-fantasy-same-equip-concert-opinion |  
+| bip_39_word_dash_9 | analyst-check-match-fantasy-same-equip-concert-opinion-gossip |  
 | bip_39_word_new_br_1 | analyst |  
 | bip_39_word_new_br_10 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion<br>gossip<br>behave |  
 | bip_39_word_new_br_11 | analyst<br>check<br>match<br>fantasy<br>same<br>equip<br>concert<br>opinion<br>gossip<br>behave<br>goddess |  
@@ -147,6 +159,18 @@ gossip |
 | bip_39_word_space_7 | analyst check match fantasy same equip concert |  
 | bip_39_word_space_8 | analyst check match fantasy same equip concert opinion |  
 | bip_39_word_space_9 | analyst check match fantasy same equip concert opinion gossip |  
+| bip_39_word_underscore_1 | analyst |  
+| bip_39_word_underscore_10 | analyst_check_match_fantasy_same_equip_concert_opinion_gossip_behave |  
+| bip_39_word_underscore_11 | analyst_check_match_fantasy_same_equip_concert_opinion_gossip_behave_goddess |  
+| bip_39_word_underscore_12 | analyst_check_match_fantasy_same_equip_concert_opinion_gossip_behave_goddess_achieve |  
+| bip_39_word_underscore_2 | analyst_check |  
+| bip_39_word_underscore_3 | analyst_check_match |  
+| bip_39_word_underscore_4 | analyst_check_match_fantasy |  
+| bip_39_word_underscore_5 | analyst_check_match_fantasy_same |  
+| bip_39_word_underscore_6 | analyst_check_match_fantasy_same_equip |  
+| bip_39_word_underscore_7 | analyst_check_match_fantasy_same_equip_concert |  
+| bip_39_word_underscore_8 | analyst_check_match_fantasy_same_equip_concert_opinion |  
+| bip_39_word_underscore_9 | analyst_check_match_fantasy_same_equip_concert_opinion_gossip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

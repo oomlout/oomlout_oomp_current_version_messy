@@ -1,3 +1,15 @@
+bip_39_word_dash_1: punch
+bip_39_word_dash_10: punch-lawsuit-moment-enact-nurse-kingdom-security-play-neck-rack
+bip_39_word_dash_11: punch-lawsuit-moment-enact-nurse-kingdom-security-play-neck-rack-zebra
+bip_39_word_dash_12: punch-lawsuit-moment-enact-nurse-kingdom-security-play-neck-rack-zebra-always
+bip_39_word_dash_2: punch-lawsuit
+bip_39_word_dash_3: punch-lawsuit-moment
+bip_39_word_dash_4: punch-lawsuit-moment-enact
+bip_39_word_dash_5: punch-lawsuit-moment-enact-nurse
+bip_39_word_dash_6: punch-lawsuit-moment-enact-nurse-kingdom
+bip_39_word_dash_7: punch-lawsuit-moment-enact-nurse-kingdom-security
+bip_39_word_dash_8: punch-lawsuit-moment-enact-nurse-kingdom-security-play
+bip_39_word_dash_9: punch-lawsuit-moment-enact-nurse-kingdom-security-play-neck
 bip_39_word_new_br_1: punch
 bip_39_word_new_br_10: punch<br>lawsuit<br>moment<br>enact<br>nurse<br>kingdom<br>security<br>play<br>neck<br>rack
 bip_39_word_new_br_11: punch<br>lawsuit<br>moment<br>enact<br>nurse<br>kingdom<br>security<br>play<br>neck<br>rack<br>zebra
@@ -194,6 +206,18 @@ bip_39_word_space_6: punch lawsuit moment enact nurse kingdom
 bip_39_word_space_7: punch lawsuit moment enact nurse kingdom security
 bip_39_word_space_8: punch lawsuit moment enact nurse kingdom security play
 bip_39_word_space_9: punch lawsuit moment enact nurse kingdom security play neck
+bip_39_word_underscore_1: punch
+bip_39_word_underscore_10: punch_lawsuit_moment_enact_nurse_kingdom_security_play_neck_rack
+bip_39_word_underscore_11: punch_lawsuit_moment_enact_nurse_kingdom_security_play_neck_rack_zebra
+bip_39_word_underscore_12: punch_lawsuit_moment_enact_nurse_kingdom_security_play_neck_rack_zebra_always
+bip_39_word_underscore_2: punch_lawsuit
+bip_39_word_underscore_3: punch_lawsuit_moment
+bip_39_word_underscore_4: punch_lawsuit_moment_enact
+bip_39_word_underscore_5: punch_lawsuit_moment_enact_nurse
+bip_39_word_underscore_6: punch_lawsuit_moment_enact_nurse_kingdom
+bip_39_word_underscore_7: punch_lawsuit_moment_enact_nurse_kingdom_security
+bip_39_word_underscore_8: punch_lawsuit_moment_enact_nurse_kingdom_security_play
+bip_39_word_underscore_9: punch_lawsuit_moment_enact_nurse_kingdom_security_play_neck
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

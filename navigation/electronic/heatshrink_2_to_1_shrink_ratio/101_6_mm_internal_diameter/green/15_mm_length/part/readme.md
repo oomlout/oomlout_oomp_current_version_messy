@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vicious |  
+| bip_39_word_dash_10 | vicious-mail-hair-sad-unfold-notice-welcome-pride-swallow-major |  
+| bip_39_word_dash_11 | vicious-mail-hair-sad-unfold-notice-welcome-pride-swallow-major-soup |  
+| bip_39_word_dash_12 | vicious-mail-hair-sad-unfold-notice-welcome-pride-swallow-major-soup-apple |  
+| bip_39_word_dash_2 | vicious-mail |  
+| bip_39_word_dash_3 | vicious-mail-hair |  
+| bip_39_word_dash_4 | vicious-mail-hair-sad |  
+| bip_39_word_dash_5 | vicious-mail-hair-sad-unfold |  
+| bip_39_word_dash_6 | vicious-mail-hair-sad-unfold-notice |  
+| bip_39_word_dash_7 | vicious-mail-hair-sad-unfold-notice-welcome |  
+| bip_39_word_dash_8 | vicious-mail-hair-sad-unfold-notice-welcome-pride |  
+| bip_39_word_dash_9 | vicious-mail-hair-sad-unfold-notice-welcome-pride-swallow |  
 | bip_39_word_new_br_1 | vicious |  
 | bip_39_word_new_br_10 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride<br>swallow<br>major |  
 | bip_39_word_new_br_11 | vicious<br>mail<br>hair<br>sad<br>unfold<br>notice<br>welcome<br>pride<br>swallow<br>major<br>soup |  
@@ -147,6 +159,18 @@ swallow |
 | bip_39_word_space_7 | vicious mail hair sad unfold notice welcome |  
 | bip_39_word_space_8 | vicious mail hair sad unfold notice welcome pride |  
 | bip_39_word_space_9 | vicious mail hair sad unfold notice welcome pride swallow |  
+| bip_39_word_underscore_1 | vicious |  
+| bip_39_word_underscore_10 | vicious_mail_hair_sad_unfold_notice_welcome_pride_swallow_major |  
+| bip_39_word_underscore_11 | vicious_mail_hair_sad_unfold_notice_welcome_pride_swallow_major_soup |  
+| bip_39_word_underscore_12 | vicious_mail_hair_sad_unfold_notice_welcome_pride_swallow_major_soup_apple |  
+| bip_39_word_underscore_2 | vicious_mail |  
+| bip_39_word_underscore_3 | vicious_mail_hair |  
+| bip_39_word_underscore_4 | vicious_mail_hair_sad |  
+| bip_39_word_underscore_5 | vicious_mail_hair_sad_unfold |  
+| bip_39_word_underscore_6 | vicious_mail_hair_sad_unfold_notice |  
+| bip_39_word_underscore_7 | vicious_mail_hair_sad_unfold_notice_welcome |  
+| bip_39_word_underscore_8 | vicious_mail_hair_sad_unfold_notice_welcome_pride |  
+| bip_39_word_underscore_9 | vicious_mail_hair_sad_unfold_notice_welcome_pride_swallow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

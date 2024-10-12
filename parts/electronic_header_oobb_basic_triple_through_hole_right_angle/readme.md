@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tourist |  
+| bip_39_word_dash_10 | tourist-race-smile-physical-clutch-avoid-carpet-update-choice-tube |  
+| bip_39_word_dash_11 | tourist-race-smile-physical-clutch-avoid-carpet-update-choice-tube-filter |  
+| bip_39_word_dash_12 | tourist-race-smile-physical-clutch-avoid-carpet-update-choice-tube-filter-access |  
+| bip_39_word_dash_2 | tourist-race |  
+| bip_39_word_dash_3 | tourist-race-smile |  
+| bip_39_word_dash_4 | tourist-race-smile-physical |  
+| bip_39_word_dash_5 | tourist-race-smile-physical-clutch |  
+| bip_39_word_dash_6 | tourist-race-smile-physical-clutch-avoid |  
+| bip_39_word_dash_7 | tourist-race-smile-physical-clutch-avoid-carpet |  
+| bip_39_word_dash_8 | tourist-race-smile-physical-clutch-avoid-carpet-update |  
+| bip_39_word_dash_9 | tourist-race-smile-physical-clutch-avoid-carpet-update-choice |  
 | bip_39_word_new_br_1 | tourist |  
 | bip_39_word_new_br_10 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update<br>choice<br>tube |  
 | bip_39_word_new_br_11 | tourist<br>race<br>smile<br>physical<br>clutch<br>avoid<br>carpet<br>update<br>choice<br>tube<br>filter |  
@@ -147,6 +159,18 @@ choice |
 | bip_39_word_space_7 | tourist race smile physical clutch avoid carpet |  
 | bip_39_word_space_8 | tourist race smile physical clutch avoid carpet update |  
 | bip_39_word_space_9 | tourist race smile physical clutch avoid carpet update choice |  
+| bip_39_word_underscore_1 | tourist |  
+| bip_39_word_underscore_10 | tourist_race_smile_physical_clutch_avoid_carpet_update_choice_tube |  
+| bip_39_word_underscore_11 | tourist_race_smile_physical_clutch_avoid_carpet_update_choice_tube_filter |  
+| bip_39_word_underscore_12 | tourist_race_smile_physical_clutch_avoid_carpet_update_choice_tube_filter_access |  
+| bip_39_word_underscore_2 | tourist_race |  
+| bip_39_word_underscore_3 | tourist_race_smile |  
+| bip_39_word_underscore_4 | tourist_race_smile_physical |  
+| bip_39_word_underscore_5 | tourist_race_smile_physical_clutch |  
+| bip_39_word_underscore_6 | tourist_race_smile_physical_clutch_avoid |  
+| bip_39_word_underscore_7 | tourist_race_smile_physical_clutch_avoid_carpet |  
+| bip_39_word_underscore_8 | tourist_race_smile_physical_clutch_avoid_carpet_update |  
+| bip_39_word_underscore_9 | tourist_race_smile_physical_clutch_avoid_carpet_update_choice |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diesel |  
+| bip_39_word_dash_10 | diesel-bronze-rabbit-early-electric-mask-three-seminar-century-valid |  
+| bip_39_word_dash_11 | diesel-bronze-rabbit-early-electric-mask-three-seminar-century-valid-over |  
+| bip_39_word_dash_12 | diesel-bronze-rabbit-early-electric-mask-three-seminar-century-valid-over-attitude |  
+| bip_39_word_dash_2 | diesel-bronze |  
+| bip_39_word_dash_3 | diesel-bronze-rabbit |  
+| bip_39_word_dash_4 | diesel-bronze-rabbit-early |  
+| bip_39_word_dash_5 | diesel-bronze-rabbit-early-electric |  
+| bip_39_word_dash_6 | diesel-bronze-rabbit-early-electric-mask |  
+| bip_39_word_dash_7 | diesel-bronze-rabbit-early-electric-mask-three |  
+| bip_39_word_dash_8 | diesel-bronze-rabbit-early-electric-mask-three-seminar |  
+| bip_39_word_dash_9 | diesel-bronze-rabbit-early-electric-mask-three-seminar-century |  
 | bip_39_word_new_br_1 | diesel |  
 | bip_39_word_new_br_10 | diesel<br>bronze<br>rabbit<br>early<br>electric<br>mask<br>three<br>seminar<br>century<br>valid |  
 | bip_39_word_new_br_11 | diesel<br>bronze<br>rabbit<br>early<br>electric<br>mask<br>three<br>seminar<br>century<br>valid<br>over |  
@@ -147,6 +159,18 @@ century |
 | bip_39_word_space_7 | diesel bronze rabbit early electric mask three |  
 | bip_39_word_space_8 | diesel bronze rabbit early electric mask three seminar |  
 | bip_39_word_space_9 | diesel bronze rabbit early electric mask three seminar century |  
+| bip_39_word_underscore_1 | diesel |  
+| bip_39_word_underscore_10 | diesel_bronze_rabbit_early_electric_mask_three_seminar_century_valid |  
+| bip_39_word_underscore_11 | diesel_bronze_rabbit_early_electric_mask_three_seminar_century_valid_over |  
+| bip_39_word_underscore_12 | diesel_bronze_rabbit_early_electric_mask_three_seminar_century_valid_over_attitude |  
+| bip_39_word_underscore_2 | diesel_bronze |  
+| bip_39_word_underscore_3 | diesel_bronze_rabbit |  
+| bip_39_word_underscore_4 | diesel_bronze_rabbit_early |  
+| bip_39_word_underscore_5 | diesel_bronze_rabbit_early_electric |  
+| bip_39_word_underscore_6 | diesel_bronze_rabbit_early_electric_mask |  
+| bip_39_word_underscore_7 | diesel_bronze_rabbit_early_electric_mask_three |  
+| bip_39_word_underscore_8 | diesel_bronze_rabbit_early_electric_mask_three_seminar |  
+| bip_39_word_underscore_9 | diesel_bronze_rabbit_early_electric_mask_three_seminar_century |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

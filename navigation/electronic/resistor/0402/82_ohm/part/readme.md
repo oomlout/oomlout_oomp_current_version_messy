@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ignore |  
+| bip_39_word_dash_10 | ignore-artist-embody-hover-dutch-wrap-avoid-submit-fresh-pioneer |  
+| bip_39_word_dash_11 | ignore-artist-embody-hover-dutch-wrap-avoid-submit-fresh-pioneer-eight |  
+| bip_39_word_dash_12 | ignore-artist-embody-hover-dutch-wrap-avoid-submit-fresh-pioneer-eight-answer |  
+| bip_39_word_dash_2 | ignore-artist |  
+| bip_39_word_dash_3 | ignore-artist-embody |  
+| bip_39_word_dash_4 | ignore-artist-embody-hover |  
+| bip_39_word_dash_5 | ignore-artist-embody-hover-dutch |  
+| bip_39_word_dash_6 | ignore-artist-embody-hover-dutch-wrap |  
+| bip_39_word_dash_7 | ignore-artist-embody-hover-dutch-wrap-avoid |  
+| bip_39_word_dash_8 | ignore-artist-embody-hover-dutch-wrap-avoid-submit |  
+| bip_39_word_dash_9 | ignore-artist-embody-hover-dutch-wrap-avoid-submit-fresh |  
 | bip_39_word_new_br_1 | ignore |  
 | bip_39_word_new_br_10 | ignore<br>artist<br>embody<br>hover<br>dutch<br>wrap<br>avoid<br>submit<br>fresh<br>pioneer |  
 | bip_39_word_new_br_11 | ignore<br>artist<br>embody<br>hover<br>dutch<br>wrap<br>avoid<br>submit<br>fresh<br>pioneer<br>eight |  
@@ -147,6 +159,18 @@ fresh |
 | bip_39_word_space_7 | ignore artist embody hover dutch wrap avoid |  
 | bip_39_word_space_8 | ignore artist embody hover dutch wrap avoid submit |  
 | bip_39_word_space_9 | ignore artist embody hover dutch wrap avoid submit fresh |  
+| bip_39_word_underscore_1 | ignore |  
+| bip_39_word_underscore_10 | ignore_artist_embody_hover_dutch_wrap_avoid_submit_fresh_pioneer |  
+| bip_39_word_underscore_11 | ignore_artist_embody_hover_dutch_wrap_avoid_submit_fresh_pioneer_eight |  
+| bip_39_word_underscore_12 | ignore_artist_embody_hover_dutch_wrap_avoid_submit_fresh_pioneer_eight_answer |  
+| bip_39_word_underscore_2 | ignore_artist |  
+| bip_39_word_underscore_3 | ignore_artist_embody |  
+| bip_39_word_underscore_4 | ignore_artist_embody_hover |  
+| bip_39_word_underscore_5 | ignore_artist_embody_hover_dutch |  
+| bip_39_word_underscore_6 | ignore_artist_embody_hover_dutch_wrap |  
+| bip_39_word_underscore_7 | ignore_artist_embody_hover_dutch_wrap_avoid |  
+| bip_39_word_underscore_8 | ignore_artist_embody_hover_dutch_wrap_avoid_submit |  
+| bip_39_word_underscore_9 | ignore_artist_embody_hover_dutch_wrap_avoid_submit_fresh |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

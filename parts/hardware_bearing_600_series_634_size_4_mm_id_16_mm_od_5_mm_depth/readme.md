@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | later |  
+| bip_39_word_dash_10 | later-actress-social-sword-biology-hammer-question-surface-find-seat |  
+| bip_39_word_dash_11 | later-actress-social-sword-biology-hammer-question-surface-find-seat-profit |  
+| bip_39_word_dash_12 | later-actress-social-sword-biology-hammer-question-surface-find-seat-profit-angry |  
+| bip_39_word_dash_2 | later-actress |  
+| bip_39_word_dash_3 | later-actress-social |  
+| bip_39_word_dash_4 | later-actress-social-sword |  
+| bip_39_word_dash_5 | later-actress-social-sword-biology |  
+| bip_39_word_dash_6 | later-actress-social-sword-biology-hammer |  
+| bip_39_word_dash_7 | later-actress-social-sword-biology-hammer-question |  
+| bip_39_word_dash_8 | later-actress-social-sword-biology-hammer-question-surface |  
+| bip_39_word_dash_9 | later-actress-social-sword-biology-hammer-question-surface-find |  
 | bip_39_word_new_br_1 | later |  
 | bip_39_word_new_br_10 | later<br>actress<br>social<br>sword<br>biology<br>hammer<br>question<br>surface<br>find<br>seat |  
 | bip_39_word_new_br_11 | later<br>actress<br>social<br>sword<br>biology<br>hammer<br>question<br>surface<br>find<br>seat<br>profit |  
@@ -147,6 +159,18 @@ find |
 | bip_39_word_space_7 | later actress social sword biology hammer question |  
 | bip_39_word_space_8 | later actress social sword biology hammer question surface |  
 | bip_39_word_space_9 | later actress social sword biology hammer question surface find |  
+| bip_39_word_underscore_1 | later |  
+| bip_39_word_underscore_10 | later_actress_social_sword_biology_hammer_question_surface_find_seat |  
+| bip_39_word_underscore_11 | later_actress_social_sword_biology_hammer_question_surface_find_seat_profit |  
+| bip_39_word_underscore_12 | later_actress_social_sword_biology_hammer_question_surface_find_seat_profit_angry |  
+| bip_39_word_underscore_2 | later_actress |  
+| bip_39_word_underscore_3 | later_actress_social |  
+| bip_39_word_underscore_4 | later_actress_social_sword |  
+| bip_39_word_underscore_5 | later_actress_social_sword_biology |  
+| bip_39_word_underscore_6 | later_actress_social_sword_biology_hammer |  
+| bip_39_word_underscore_7 | later_actress_social_sword_biology_hammer_question |  
+| bip_39_word_underscore_8 | later_actress_social_sword_biology_hammer_question_surface |  
+| bip_39_word_underscore_9 | later_actress_social_sword_biology_hammer_question_surface_find |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | latin |  
+| bip_39_word_dash_10 | latin-plastic-puppy-guard-asthma-risk-enforce-oblige-retire-voice |  
+| bip_39_word_dash_11 | latin-plastic-puppy-guard-asthma-risk-enforce-oblige-retire-voice-artwork |  
+| bip_39_word_dash_12 | latin-plastic-puppy-guard-asthma-risk-enforce-oblige-retire-voice-artwork-around |  
+| bip_39_word_dash_2 | latin-plastic |  
+| bip_39_word_dash_3 | latin-plastic-puppy |  
+| bip_39_word_dash_4 | latin-plastic-puppy-guard |  
+| bip_39_word_dash_5 | latin-plastic-puppy-guard-asthma |  
+| bip_39_word_dash_6 | latin-plastic-puppy-guard-asthma-risk |  
+| bip_39_word_dash_7 | latin-plastic-puppy-guard-asthma-risk-enforce |  
+| bip_39_word_dash_8 | latin-plastic-puppy-guard-asthma-risk-enforce-oblige |  
+| bip_39_word_dash_9 | latin-plastic-puppy-guard-asthma-risk-enforce-oblige-retire |  
 | bip_39_word_new_br_1 | latin |  
 | bip_39_word_new_br_10 | latin<br>plastic<br>puppy<br>guard<br>asthma<br>risk<br>enforce<br>oblige<br>retire<br>voice |  
 | bip_39_word_new_br_11 | latin<br>plastic<br>puppy<br>guard<br>asthma<br>risk<br>enforce<br>oblige<br>retire<br>voice<br>artwork |  
@@ -147,6 +159,18 @@ retire |
 | bip_39_word_space_7 | latin plastic puppy guard asthma risk enforce |  
 | bip_39_word_space_8 | latin plastic puppy guard asthma risk enforce oblige |  
 | bip_39_word_space_9 | latin plastic puppy guard asthma risk enforce oblige retire |  
+| bip_39_word_underscore_1 | latin |  
+| bip_39_word_underscore_10 | latin_plastic_puppy_guard_asthma_risk_enforce_oblige_retire_voice |  
+| bip_39_word_underscore_11 | latin_plastic_puppy_guard_asthma_risk_enforce_oblige_retire_voice_artwork |  
+| bip_39_word_underscore_12 | latin_plastic_puppy_guard_asthma_risk_enforce_oblige_retire_voice_artwork_around |  
+| bip_39_word_underscore_2 | latin_plastic |  
+| bip_39_word_underscore_3 | latin_plastic_puppy |  
+| bip_39_word_underscore_4 | latin_plastic_puppy_guard |  
+| bip_39_word_underscore_5 | latin_plastic_puppy_guard_asthma |  
+| bip_39_word_underscore_6 | latin_plastic_puppy_guard_asthma_risk |  
+| bip_39_word_underscore_7 | latin_plastic_puppy_guard_asthma_risk_enforce |  
+| bip_39_word_underscore_8 | latin_plastic_puppy_guard_asthma_risk_enforce_oblige |  
+| bip_39_word_underscore_9 | latin_plastic_puppy_guard_asthma_risk_enforce_oblige_retire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

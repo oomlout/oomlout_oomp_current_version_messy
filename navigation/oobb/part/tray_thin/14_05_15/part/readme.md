@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diary |  
+| bip_39_word_dash_10 | diary-pottery-pulse-axis-blast-blur-sponsor-duck-vital-million |  
+| bip_39_word_dash_11 | diary-pottery-pulse-axis-blast-blur-sponsor-duck-vital-million-shoulder |  
+| bip_39_word_dash_12 | diary-pottery-pulse-axis-blast-blur-sponsor-duck-vital-million-shoulder-act |  
+| bip_39_word_dash_2 | diary-pottery |  
+| bip_39_word_dash_3 | diary-pottery-pulse |  
+| bip_39_word_dash_4 | diary-pottery-pulse-axis |  
+| bip_39_word_dash_5 | diary-pottery-pulse-axis-blast |  
+| bip_39_word_dash_6 | diary-pottery-pulse-axis-blast-blur |  
+| bip_39_word_dash_7 | diary-pottery-pulse-axis-blast-blur-sponsor |  
+| bip_39_word_dash_8 | diary-pottery-pulse-axis-blast-blur-sponsor-duck |  
+| bip_39_word_dash_9 | diary-pottery-pulse-axis-blast-blur-sponsor-duck-vital |  
 | bip_39_word_new_br_1 | diary |  
 | bip_39_word_new_br_10 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million |  
 | bip_39_word_new_br_11 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million<br>shoulder |  
@@ -147,6 +159,18 @@ vital |
 | bip_39_word_space_7 | diary pottery pulse axis blast blur sponsor |  
 | bip_39_word_space_8 | diary pottery pulse axis blast blur sponsor duck |  
 | bip_39_word_space_9 | diary pottery pulse axis blast blur sponsor duck vital |  
+| bip_39_word_underscore_1 | diary |  
+| bip_39_word_underscore_10 | diary_pottery_pulse_axis_blast_blur_sponsor_duck_vital_million |  
+| bip_39_word_underscore_11 | diary_pottery_pulse_axis_blast_blur_sponsor_duck_vital_million_shoulder |  
+| bip_39_word_underscore_12 | diary_pottery_pulse_axis_blast_blur_sponsor_duck_vital_million_shoulder_act |  
+| bip_39_word_underscore_2 | diary_pottery |  
+| bip_39_word_underscore_3 | diary_pottery_pulse |  
+| bip_39_word_underscore_4 | diary_pottery_pulse_axis |  
+| bip_39_word_underscore_5 | diary_pottery_pulse_axis_blast |  
+| bip_39_word_underscore_6 | diary_pottery_pulse_axis_blast_blur |  
+| bip_39_word_underscore_7 | diary_pottery_pulse_axis_blast_blur_sponsor |  
+| bip_39_word_underscore_8 | diary_pottery_pulse_axis_blast_blur_sponsor_duck |  
+| bip_39_word_underscore_9 | diary_pottery_pulse_axis_blast_blur_sponsor_duck_vital |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

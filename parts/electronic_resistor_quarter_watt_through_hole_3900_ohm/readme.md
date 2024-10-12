@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frequent |  
+| bip_39_word_dash_10 | frequent-grit-team-trumpet-reward-crash-scorpion-tool-nose-anchor |  
+| bip_39_word_dash_11 | frequent-grit-team-trumpet-reward-crash-scorpion-tool-nose-anchor-tired |  
+| bip_39_word_dash_12 | frequent-grit-team-trumpet-reward-crash-scorpion-tool-nose-anchor-tired-anchor |  
+| bip_39_word_dash_2 | frequent-grit |  
+| bip_39_word_dash_3 | frequent-grit-team |  
+| bip_39_word_dash_4 | frequent-grit-team-trumpet |  
+| bip_39_word_dash_5 | frequent-grit-team-trumpet-reward |  
+| bip_39_word_dash_6 | frequent-grit-team-trumpet-reward-crash |  
+| bip_39_word_dash_7 | frequent-grit-team-trumpet-reward-crash-scorpion |  
+| bip_39_word_dash_8 | frequent-grit-team-trumpet-reward-crash-scorpion-tool |  
+| bip_39_word_dash_9 | frequent-grit-team-trumpet-reward-crash-scorpion-tool-nose |  
 | bip_39_word_new_br_1 | frequent |  
 | bip_39_word_new_br_10 | frequent<br>grit<br>team<br>trumpet<br>reward<br>crash<br>scorpion<br>tool<br>nose<br>anchor |  
 | bip_39_word_new_br_11 | frequent<br>grit<br>team<br>trumpet<br>reward<br>crash<br>scorpion<br>tool<br>nose<br>anchor<br>tired |  
@@ -147,6 +159,18 @@ nose |
 | bip_39_word_space_7 | frequent grit team trumpet reward crash scorpion |  
 | bip_39_word_space_8 | frequent grit team trumpet reward crash scorpion tool |  
 | bip_39_word_space_9 | frequent grit team trumpet reward crash scorpion tool nose |  
+| bip_39_word_underscore_1 | frequent |  
+| bip_39_word_underscore_10 | frequent_grit_team_trumpet_reward_crash_scorpion_tool_nose_anchor |  
+| bip_39_word_underscore_11 | frequent_grit_team_trumpet_reward_crash_scorpion_tool_nose_anchor_tired |  
+| bip_39_word_underscore_12 | frequent_grit_team_trumpet_reward_crash_scorpion_tool_nose_anchor_tired_anchor |  
+| bip_39_word_underscore_2 | frequent_grit |  
+| bip_39_word_underscore_3 | frequent_grit_team |  
+| bip_39_word_underscore_4 | frequent_grit_team_trumpet |  
+| bip_39_word_underscore_5 | frequent_grit_team_trumpet_reward |  
+| bip_39_word_underscore_6 | frequent_grit_team_trumpet_reward_crash |  
+| bip_39_word_underscore_7 | frequent_grit_team_trumpet_reward_crash_scorpion |  
+| bip_39_word_underscore_8 | frequent_grit_team_trumpet_reward_crash_scorpion_tool |  
+| bip_39_word_underscore_9 | frequent_grit_team_trumpet_reward_crash_scorpion_tool_nose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

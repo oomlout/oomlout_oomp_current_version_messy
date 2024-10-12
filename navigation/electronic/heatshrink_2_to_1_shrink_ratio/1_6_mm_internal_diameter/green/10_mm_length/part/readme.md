@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | before |  
+| bip_39_word_dash_10 | before-mom-neutral-snake-long-garage-vendor-fix-warrior-pyramid |  
+| bip_39_word_dash_11 | before-mom-neutral-snake-long-garage-vendor-fix-warrior-pyramid-vicious |  
+| bip_39_word_dash_12 | before-mom-neutral-snake-long-garage-vendor-fix-warrior-pyramid-vicious-advance |  
+| bip_39_word_dash_2 | before-mom |  
+| bip_39_word_dash_3 | before-mom-neutral |  
+| bip_39_word_dash_4 | before-mom-neutral-snake |  
+| bip_39_word_dash_5 | before-mom-neutral-snake-long |  
+| bip_39_word_dash_6 | before-mom-neutral-snake-long-garage |  
+| bip_39_word_dash_7 | before-mom-neutral-snake-long-garage-vendor |  
+| bip_39_word_dash_8 | before-mom-neutral-snake-long-garage-vendor-fix |  
+| bip_39_word_dash_9 | before-mom-neutral-snake-long-garage-vendor-fix-warrior |  
 | bip_39_word_new_br_1 | before |  
 | bip_39_word_new_br_10 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid |  
 | bip_39_word_new_br_11 | before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid<br>vicious |  
@@ -147,6 +159,18 @@ warrior |
 | bip_39_word_space_7 | before mom neutral snake long garage vendor |  
 | bip_39_word_space_8 | before mom neutral snake long garage vendor fix |  
 | bip_39_word_space_9 | before mom neutral snake long garage vendor fix warrior |  
+| bip_39_word_underscore_1 | before |  
+| bip_39_word_underscore_10 | before_mom_neutral_snake_long_garage_vendor_fix_warrior_pyramid |  
+| bip_39_word_underscore_11 | before_mom_neutral_snake_long_garage_vendor_fix_warrior_pyramid_vicious |  
+| bip_39_word_underscore_12 | before_mom_neutral_snake_long_garage_vendor_fix_warrior_pyramid_vicious_advance |  
+| bip_39_word_underscore_2 | before_mom |  
+| bip_39_word_underscore_3 | before_mom_neutral |  
+| bip_39_word_underscore_4 | before_mom_neutral_snake |  
+| bip_39_word_underscore_5 | before_mom_neutral_snake_long |  
+| bip_39_word_underscore_6 | before_mom_neutral_snake_long_garage |  
+| bip_39_word_underscore_7 | before_mom_neutral_snake_long_garage_vendor |  
+| bip_39_word_underscore_8 | before_mom_neutral_snake_long_garage_vendor_fix |  
+| bip_39_word_underscore_9 | before_mom_neutral_snake_long_garage_vendor_fix_warrior |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

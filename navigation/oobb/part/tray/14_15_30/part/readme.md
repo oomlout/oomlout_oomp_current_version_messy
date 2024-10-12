@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | layer |  
+| bip_39_word_dash_10 | layer-recall-afraid-dinosaur-fee-twelve-swamp-rule-drift-pulp |  
+| bip_39_word_dash_11 | layer-recall-afraid-dinosaur-fee-twelve-swamp-rule-drift-pulp-west |  
+| bip_39_word_dash_12 | layer-recall-afraid-dinosaur-fee-twelve-swamp-rule-drift-pulp-west-already |  
+| bip_39_word_dash_2 | layer-recall |  
+| bip_39_word_dash_3 | layer-recall-afraid |  
+| bip_39_word_dash_4 | layer-recall-afraid-dinosaur |  
+| bip_39_word_dash_5 | layer-recall-afraid-dinosaur-fee |  
+| bip_39_word_dash_6 | layer-recall-afraid-dinosaur-fee-twelve |  
+| bip_39_word_dash_7 | layer-recall-afraid-dinosaur-fee-twelve-swamp |  
+| bip_39_word_dash_8 | layer-recall-afraid-dinosaur-fee-twelve-swamp-rule |  
+| bip_39_word_dash_9 | layer-recall-afraid-dinosaur-fee-twelve-swamp-rule-drift |  
 | bip_39_word_new_br_1 | layer |  
 | bip_39_word_new_br_10 | layer<br>recall<br>afraid<br>dinosaur<br>fee<br>twelve<br>swamp<br>rule<br>drift<br>pulp |  
 | bip_39_word_new_br_11 | layer<br>recall<br>afraid<br>dinosaur<br>fee<br>twelve<br>swamp<br>rule<br>drift<br>pulp<br>west |  
@@ -147,6 +159,18 @@ drift |
 | bip_39_word_space_7 | layer recall afraid dinosaur fee twelve swamp |  
 | bip_39_word_space_8 | layer recall afraid dinosaur fee twelve swamp rule |  
 | bip_39_word_space_9 | layer recall afraid dinosaur fee twelve swamp rule drift |  
+| bip_39_word_underscore_1 | layer |  
+| bip_39_word_underscore_10 | layer_recall_afraid_dinosaur_fee_twelve_swamp_rule_drift_pulp |  
+| bip_39_word_underscore_11 | layer_recall_afraid_dinosaur_fee_twelve_swamp_rule_drift_pulp_west |  
+| bip_39_word_underscore_12 | layer_recall_afraid_dinosaur_fee_twelve_swamp_rule_drift_pulp_west_already |  
+| bip_39_word_underscore_2 | layer_recall |  
+| bip_39_word_underscore_3 | layer_recall_afraid |  
+| bip_39_word_underscore_4 | layer_recall_afraid_dinosaur |  
+| bip_39_word_underscore_5 | layer_recall_afraid_dinosaur_fee |  
+| bip_39_word_underscore_6 | layer_recall_afraid_dinosaur_fee_twelve |  
+| bip_39_word_underscore_7 | layer_recall_afraid_dinosaur_fee_twelve_swamp |  
+| bip_39_word_underscore_8 | layer_recall_afraid_dinosaur_fee_twelve_swamp_rule |  
+| bip_39_word_underscore_9 | layer_recall_afraid_dinosaur_fee_twelve_swamp_rule_drift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

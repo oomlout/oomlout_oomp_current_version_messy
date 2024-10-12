@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vibrant |  
+| bip_39_word_dash_10 | vibrant-indoor-minute-gold-upper-visa-exercise-extra-present-junk |  
+| bip_39_word_dash_11 | vibrant-indoor-minute-gold-upper-visa-exercise-extra-present-junk-arrange |  
+| bip_39_word_dash_12 | vibrant-indoor-minute-gold-upper-visa-exercise-extra-present-junk-arrange-arrest |  
+| bip_39_word_dash_2 | vibrant-indoor |  
+| bip_39_word_dash_3 | vibrant-indoor-minute |  
+| bip_39_word_dash_4 | vibrant-indoor-minute-gold |  
+| bip_39_word_dash_5 | vibrant-indoor-minute-gold-upper |  
+| bip_39_word_dash_6 | vibrant-indoor-minute-gold-upper-visa |  
+| bip_39_word_dash_7 | vibrant-indoor-minute-gold-upper-visa-exercise |  
+| bip_39_word_dash_8 | vibrant-indoor-minute-gold-upper-visa-exercise-extra |  
+| bip_39_word_dash_9 | vibrant-indoor-minute-gold-upper-visa-exercise-extra-present |  
 | bip_39_word_new_br_1 | vibrant |  
 | bip_39_word_new_br_10 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra<br>present<br>junk |  
 | bip_39_word_new_br_11 | vibrant<br>indoor<br>minute<br>gold<br>upper<br>visa<br>exercise<br>extra<br>present<br>junk<br>arrange |  
@@ -147,6 +159,18 @@ present |
 | bip_39_word_space_7 | vibrant indoor minute gold upper visa exercise |  
 | bip_39_word_space_8 | vibrant indoor minute gold upper visa exercise extra |  
 | bip_39_word_space_9 | vibrant indoor minute gold upper visa exercise extra present |  
+| bip_39_word_underscore_1 | vibrant |  
+| bip_39_word_underscore_10 | vibrant_indoor_minute_gold_upper_visa_exercise_extra_present_junk |  
+| bip_39_word_underscore_11 | vibrant_indoor_minute_gold_upper_visa_exercise_extra_present_junk_arrange |  
+| bip_39_word_underscore_12 | vibrant_indoor_minute_gold_upper_visa_exercise_extra_present_junk_arrange_arrest |  
+| bip_39_word_underscore_2 | vibrant_indoor |  
+| bip_39_word_underscore_3 | vibrant_indoor_minute |  
+| bip_39_word_underscore_4 | vibrant_indoor_minute_gold |  
+| bip_39_word_underscore_5 | vibrant_indoor_minute_gold_upper |  
+| bip_39_word_underscore_6 | vibrant_indoor_minute_gold_upper_visa |  
+| bip_39_word_underscore_7 | vibrant_indoor_minute_gold_upper_visa_exercise |  
+| bip_39_word_underscore_8 | vibrant_indoor_minute_gold_upper_visa_exercise_extra |  
+| bip_39_word_underscore_9 | vibrant_indoor_minute_gold_upper_visa_exercise_extra_present |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cook |  
+| bip_39_word_dash_10 | cook-decline-second-february-capital-sorry-anchor-firm-lawsuit-parade |  
+| bip_39_word_dash_11 | cook-decline-second-february-capital-sorry-anchor-firm-lawsuit-parade-choice |  
+| bip_39_word_dash_12 | cook-decline-second-february-capital-sorry-anchor-firm-lawsuit-parade-choice-august |  
+| bip_39_word_dash_2 | cook-decline |  
+| bip_39_word_dash_3 | cook-decline-second |  
+| bip_39_word_dash_4 | cook-decline-second-february |  
+| bip_39_word_dash_5 | cook-decline-second-february-capital |  
+| bip_39_word_dash_6 | cook-decline-second-february-capital-sorry |  
+| bip_39_word_dash_7 | cook-decline-second-february-capital-sorry-anchor |  
+| bip_39_word_dash_8 | cook-decline-second-february-capital-sorry-anchor-firm |  
+| bip_39_word_dash_9 | cook-decline-second-february-capital-sorry-anchor-firm-lawsuit |  
 | bip_39_word_new_br_1 | cook |  
 | bip_39_word_new_br_10 | cook<br>decline<br>second<br>february<br>capital<br>sorry<br>anchor<br>firm<br>lawsuit<br>parade |  
 | bip_39_word_new_br_11 | cook<br>decline<br>second<br>february<br>capital<br>sorry<br>anchor<br>firm<br>lawsuit<br>parade<br>choice |  
@@ -147,6 +159,18 @@ lawsuit |
 | bip_39_word_space_7 | cook decline second february capital sorry anchor |  
 | bip_39_word_space_8 | cook decline second february capital sorry anchor firm |  
 | bip_39_word_space_9 | cook decline second february capital sorry anchor firm lawsuit |  
+| bip_39_word_underscore_1 | cook |  
+| bip_39_word_underscore_10 | cook_decline_second_february_capital_sorry_anchor_firm_lawsuit_parade |  
+| bip_39_word_underscore_11 | cook_decline_second_february_capital_sorry_anchor_firm_lawsuit_parade_choice |  
+| bip_39_word_underscore_12 | cook_decline_second_february_capital_sorry_anchor_firm_lawsuit_parade_choice_august |  
+| bip_39_word_underscore_2 | cook_decline |  
+| bip_39_word_underscore_3 | cook_decline_second |  
+| bip_39_word_underscore_4 | cook_decline_second_february |  
+| bip_39_word_underscore_5 | cook_decline_second_february_capital |  
+| bip_39_word_underscore_6 | cook_decline_second_february_capital_sorry |  
+| bip_39_word_underscore_7 | cook_decline_second_february_capital_sorry_anchor |  
+| bip_39_word_underscore_8 | cook_decline_second_february_capital_sorry_anchor_firm |  
+| bip_39_word_underscore_9 | cook_decline_second_february_capital_sorry_anchor_firm_lawsuit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

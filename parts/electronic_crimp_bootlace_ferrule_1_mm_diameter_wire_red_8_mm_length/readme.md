@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | toast |  
+| bip_39_word_dash_10 | toast-park-result-secret-stumble-maze-reunion-pyramid-orphan-car |  
+| bip_39_word_dash_11 | toast-park-result-secret-stumble-maze-reunion-pyramid-orphan-car-resist |  
+| bip_39_word_dash_12 | toast-park-result-secret-stumble-maze-reunion-pyramid-orphan-car-resist-army |  
+| bip_39_word_dash_2 | toast-park |  
+| bip_39_word_dash_3 | toast-park-result |  
+| bip_39_word_dash_4 | toast-park-result-secret |  
+| bip_39_word_dash_5 | toast-park-result-secret-stumble |  
+| bip_39_word_dash_6 | toast-park-result-secret-stumble-maze |  
+| bip_39_word_dash_7 | toast-park-result-secret-stumble-maze-reunion |  
+| bip_39_word_dash_8 | toast-park-result-secret-stumble-maze-reunion-pyramid |  
+| bip_39_word_dash_9 | toast-park-result-secret-stumble-maze-reunion-pyramid-orphan |  
 | bip_39_word_new_br_1 | toast |  
 | bip_39_word_new_br_10 | toast<br>park<br>result<br>secret<br>stumble<br>maze<br>reunion<br>pyramid<br>orphan<br>car |  
 | bip_39_word_new_br_11 | toast<br>park<br>result<br>secret<br>stumble<br>maze<br>reunion<br>pyramid<br>orphan<br>car<br>resist |  
@@ -147,6 +159,18 @@ orphan |
 | bip_39_word_space_7 | toast park result secret stumble maze reunion |  
 | bip_39_word_space_8 | toast park result secret stumble maze reunion pyramid |  
 | bip_39_word_space_9 | toast park result secret stumble maze reunion pyramid orphan |  
+| bip_39_word_underscore_1 | toast |  
+| bip_39_word_underscore_10 | toast_park_result_secret_stumble_maze_reunion_pyramid_orphan_car |  
+| bip_39_word_underscore_11 | toast_park_result_secret_stumble_maze_reunion_pyramid_orphan_car_resist |  
+| bip_39_word_underscore_12 | toast_park_result_secret_stumble_maze_reunion_pyramid_orphan_car_resist_army |  
+| bip_39_word_underscore_2 | toast_park |  
+| bip_39_word_underscore_3 | toast_park_result |  
+| bip_39_word_underscore_4 | toast_park_result_secret |  
+| bip_39_word_underscore_5 | toast_park_result_secret_stumble |  
+| bip_39_word_underscore_6 | toast_park_result_secret_stumble_maze |  
+| bip_39_word_underscore_7 | toast_park_result_secret_stumble_maze_reunion |  
+| bip_39_word_underscore_8 | toast_park_result_secret_stumble_maze_reunion_pyramid |  
+| bip_39_word_underscore_9 | toast_park_result_secret_stumble_maze_reunion_pyramid_orphan |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

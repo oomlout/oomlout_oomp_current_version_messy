@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | filter |  
+| bip_39_word_dash_10 | filter-dream-deal-defense-other-crouch-pioneer-draft-leisure-funny |  
+| bip_39_word_dash_11 | filter-dream-deal-defense-other-crouch-pioneer-draft-leisure-funny-nominee |  
+| bip_39_word_dash_12 | filter-dream-deal-defense-other-crouch-pioneer-draft-leisure-funny-nominee-admit |  
+| bip_39_word_dash_2 | filter-dream |  
+| bip_39_word_dash_3 | filter-dream-deal |  
+| bip_39_word_dash_4 | filter-dream-deal-defense |  
+| bip_39_word_dash_5 | filter-dream-deal-defense-other |  
+| bip_39_word_dash_6 | filter-dream-deal-defense-other-crouch |  
+| bip_39_word_dash_7 | filter-dream-deal-defense-other-crouch-pioneer |  
+| bip_39_word_dash_8 | filter-dream-deal-defense-other-crouch-pioneer-draft |  
+| bip_39_word_dash_9 | filter-dream-deal-defense-other-crouch-pioneer-draft-leisure |  
 | bip_39_word_new_br_1 | filter |  
 | bip_39_word_new_br_10 | filter<br>dream<br>deal<br>defense<br>other<br>crouch<br>pioneer<br>draft<br>leisure<br>funny |  
 | bip_39_word_new_br_11 | filter<br>dream<br>deal<br>defense<br>other<br>crouch<br>pioneer<br>draft<br>leisure<br>funny<br>nominee |  
@@ -147,6 +159,18 @@ leisure |
 | bip_39_word_space_7 | filter dream deal defense other crouch pioneer |  
 | bip_39_word_space_8 | filter dream deal defense other crouch pioneer draft |  
 | bip_39_word_space_9 | filter dream deal defense other crouch pioneer draft leisure |  
+| bip_39_word_underscore_1 | filter |  
+| bip_39_word_underscore_10 | filter_dream_deal_defense_other_crouch_pioneer_draft_leisure_funny |  
+| bip_39_word_underscore_11 | filter_dream_deal_defense_other_crouch_pioneer_draft_leisure_funny_nominee |  
+| bip_39_word_underscore_12 | filter_dream_deal_defense_other_crouch_pioneer_draft_leisure_funny_nominee_admit |  
+| bip_39_word_underscore_2 | filter_dream |  
+| bip_39_word_underscore_3 | filter_dream_deal |  
+| bip_39_word_underscore_4 | filter_dream_deal_defense |  
+| bip_39_word_underscore_5 | filter_dream_deal_defense_other |  
+| bip_39_word_underscore_6 | filter_dream_deal_defense_other_crouch |  
+| bip_39_word_underscore_7 | filter_dream_deal_defense_other_crouch_pioneer |  
+| bip_39_word_underscore_8 | filter_dream_deal_defense_other_crouch_pioneer_draft |  
+| bip_39_word_underscore_9 | filter_dream_deal_defense_other_crouch_pioneer_draft_leisure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

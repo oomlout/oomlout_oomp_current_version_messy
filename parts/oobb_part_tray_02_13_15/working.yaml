@@ -1,3 +1,15 @@
+bip_39_word_dash_1: display
+bip_39_word_dash_10: display-planet-violin-blind-symbol-cake-nuclear-adult-lobster-balcony
+bip_39_word_dash_11: display-planet-violin-blind-symbol-cake-nuclear-adult-lobster-balcony-aisle
+bip_39_word_dash_12: display-planet-violin-blind-symbol-cake-nuclear-adult-lobster-balcony-aisle-almost
+bip_39_word_dash_2: display-planet
+bip_39_word_dash_3: display-planet-violin
+bip_39_word_dash_4: display-planet-violin-blind
+bip_39_word_dash_5: display-planet-violin-blind-symbol
+bip_39_word_dash_6: display-planet-violin-blind-symbol-cake
+bip_39_word_dash_7: display-planet-violin-blind-symbol-cake-nuclear
+bip_39_word_dash_8: display-planet-violin-blind-symbol-cake-nuclear-adult
+bip_39_word_dash_9: display-planet-violin-blind-symbol-cake-nuclear-adult-lobster
 bip_39_word_new_br_1: display
 bip_39_word_new_br_10: display<br>planet<br>violin<br>blind<br>symbol<br>cake<br>nuclear<br>adult<br>lobster<br>balcony
 bip_39_word_new_br_11: display<br>planet<br>violin<br>blind<br>symbol<br>cake<br>nuclear<br>adult<br>lobster<br>balcony<br>aisle
@@ -194,6 +206,18 @@ bip_39_word_space_6: display planet violin blind symbol cake
 bip_39_word_space_7: display planet violin blind symbol cake nuclear
 bip_39_word_space_8: display planet violin blind symbol cake nuclear adult
 bip_39_word_space_9: display planet violin blind symbol cake nuclear adult lobster
+bip_39_word_underscore_1: display
+bip_39_word_underscore_10: display_planet_violin_blind_symbol_cake_nuclear_adult_lobster_balcony
+bip_39_word_underscore_11: display_planet_violin_blind_symbol_cake_nuclear_adult_lobster_balcony_aisle
+bip_39_word_underscore_12: display_planet_violin_blind_symbol_cake_nuclear_adult_lobster_balcony_aisle_almost
+bip_39_word_underscore_2: display_planet
+bip_39_word_underscore_3: display_planet_violin
+bip_39_word_underscore_4: display_planet_violin_blind
+bip_39_word_underscore_5: display_planet_violin_blind_symbol
+bip_39_word_underscore_6: display_planet_violin_blind_symbol_cake
+bip_39_word_underscore_7: display_planet_violin_blind_symbol_cake_nuclear
+bip_39_word_underscore_8: display_planet_violin_blind_symbol_cake_nuclear_adult
+bip_39_word_underscore_9: display_planet_violin_blind_symbol_cake_nuclear_adult_lobster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

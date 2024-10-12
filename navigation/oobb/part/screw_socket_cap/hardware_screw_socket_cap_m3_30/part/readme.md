@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | until |  
+| bip_39_word_dash_10 | until-uniform-master-clog-uphold-dinosaur-swift-play-favorite-case |  
+| bip_39_word_dash_11 | until-uniform-master-clog-uphold-dinosaur-swift-play-favorite-case-rent |  
+| bip_39_word_dash_12 | until-uniform-master-clog-uphold-dinosaur-swift-play-favorite-case-rent-among |  
+| bip_39_word_dash_2 | until-uniform |  
+| bip_39_word_dash_3 | until-uniform-master |  
+| bip_39_word_dash_4 | until-uniform-master-clog |  
+| bip_39_word_dash_5 | until-uniform-master-clog-uphold |  
+| bip_39_word_dash_6 | until-uniform-master-clog-uphold-dinosaur |  
+| bip_39_word_dash_7 | until-uniform-master-clog-uphold-dinosaur-swift |  
+| bip_39_word_dash_8 | until-uniform-master-clog-uphold-dinosaur-swift-play |  
+| bip_39_word_dash_9 | until-uniform-master-clog-uphold-dinosaur-swift-play-favorite |  
 | bip_39_word_new_br_1 | until |  
 | bip_39_word_new_br_10 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case |  
 | bip_39_word_new_br_11 | until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case<br>rent |  
@@ -147,6 +159,18 @@ favorite |
 | bip_39_word_space_7 | until uniform master clog uphold dinosaur swift |  
 | bip_39_word_space_8 | until uniform master clog uphold dinosaur swift play |  
 | bip_39_word_space_9 | until uniform master clog uphold dinosaur swift play favorite |  
+| bip_39_word_underscore_1 | until |  
+| bip_39_word_underscore_10 | until_uniform_master_clog_uphold_dinosaur_swift_play_favorite_case |  
+| bip_39_word_underscore_11 | until_uniform_master_clog_uphold_dinosaur_swift_play_favorite_case_rent |  
+| bip_39_word_underscore_12 | until_uniform_master_clog_uphold_dinosaur_swift_play_favorite_case_rent_among |  
+| bip_39_word_underscore_2 | until_uniform |  
+| bip_39_word_underscore_3 | until_uniform_master |  
+| bip_39_word_underscore_4 | until_uniform_master_clog |  
+| bip_39_word_underscore_5 | until_uniform_master_clog_uphold |  
+| bip_39_word_underscore_6 | until_uniform_master_clog_uphold_dinosaur |  
+| bip_39_word_underscore_7 | until_uniform_master_clog_uphold_dinosaur_swift |  
+| bip_39_word_underscore_8 | until_uniform_master_clog_uphold_dinosaur_swift_play |  
+| bip_39_word_underscore_9 | until_uniform_master_clog_uphold_dinosaur_swift_play_favorite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

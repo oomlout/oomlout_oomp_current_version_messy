@@ -1,3 +1,15 @@
+bip_39_word_dash_1: afraid
+bip_39_word_dash_10: afraid-cherry-harbor-snow-sketch-lava-today-blur-enroll-apology
+bip_39_word_dash_11: afraid-cherry-harbor-snow-sketch-lava-today-blur-enroll-apology-cotton
+bip_39_word_dash_12: afraid-cherry-harbor-snow-sketch-lava-today-blur-enroll-apology-cotton-apart
+bip_39_word_dash_2: afraid-cherry
+bip_39_word_dash_3: afraid-cherry-harbor
+bip_39_word_dash_4: afraid-cherry-harbor-snow
+bip_39_word_dash_5: afraid-cherry-harbor-snow-sketch
+bip_39_word_dash_6: afraid-cherry-harbor-snow-sketch-lava
+bip_39_word_dash_7: afraid-cherry-harbor-snow-sketch-lava-today
+bip_39_word_dash_8: afraid-cherry-harbor-snow-sketch-lava-today-blur
+bip_39_word_dash_9: afraid-cherry-harbor-snow-sketch-lava-today-blur-enroll
 bip_39_word_new_br_1: afraid
 bip_39_word_new_br_10: afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology
 bip_39_word_new_br_11: afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology<br>cotton
@@ -193,6 +205,18 @@ bip_39_word_space_6: afraid cherry harbor snow sketch lava
 bip_39_word_space_7: afraid cherry harbor snow sketch lava today
 bip_39_word_space_8: afraid cherry harbor snow sketch lava today blur
 bip_39_word_space_9: afraid cherry harbor snow sketch lava today blur enroll
+bip_39_word_underscore_1: afraid
+bip_39_word_underscore_10: afraid_cherry_harbor_snow_sketch_lava_today_blur_enroll_apology
+bip_39_word_underscore_11: afraid_cherry_harbor_snow_sketch_lava_today_blur_enroll_apology_cotton
+bip_39_word_underscore_12: afraid_cherry_harbor_snow_sketch_lava_today_blur_enroll_apology_cotton_apart
+bip_39_word_underscore_2: afraid_cherry
+bip_39_word_underscore_3: afraid_cherry_harbor
+bip_39_word_underscore_4: afraid_cherry_harbor_snow
+bip_39_word_underscore_5: afraid_cherry_harbor_snow_sketch
+bip_39_word_underscore_6: afraid_cherry_harbor_snow_sketch_lava
+bip_39_word_underscore_7: afraid_cherry_harbor_snow_sketch_lava_today
+bip_39_word_underscore_8: afraid_cherry_harbor_snow_sketch_lava_today_blur
+bip_39_word_underscore_9: afraid_cherry_harbor_snow_sketch_lava_today_blur_enroll
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

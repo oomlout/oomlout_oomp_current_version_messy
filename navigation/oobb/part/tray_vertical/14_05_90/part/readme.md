@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bullet |  
+| bip_39_word_dash_10 | bullet-chalk-man-egg-scrap-basic-own-luggage-double-narrow |  
+| bip_39_word_dash_11 | bullet-chalk-man-egg-scrap-basic-own-luggage-double-narrow-correct |  
+| bip_39_word_dash_12 | bullet-chalk-man-egg-scrap-basic-own-luggage-double-narrow-correct-attend |  
+| bip_39_word_dash_2 | bullet-chalk |  
+| bip_39_word_dash_3 | bullet-chalk-man |  
+| bip_39_word_dash_4 | bullet-chalk-man-egg |  
+| bip_39_word_dash_5 | bullet-chalk-man-egg-scrap |  
+| bip_39_word_dash_6 | bullet-chalk-man-egg-scrap-basic |  
+| bip_39_word_dash_7 | bullet-chalk-man-egg-scrap-basic-own |  
+| bip_39_word_dash_8 | bullet-chalk-man-egg-scrap-basic-own-luggage |  
+| bip_39_word_dash_9 | bullet-chalk-man-egg-scrap-basic-own-luggage-double |  
 | bip_39_word_new_br_1 | bullet |  
 | bip_39_word_new_br_10 | bullet<br>chalk<br>man<br>egg<br>scrap<br>basic<br>own<br>luggage<br>double<br>narrow |  
 | bip_39_word_new_br_11 | bullet<br>chalk<br>man<br>egg<br>scrap<br>basic<br>own<br>luggage<br>double<br>narrow<br>correct |  
@@ -147,6 +159,18 @@ double |
 | bip_39_word_space_7 | bullet chalk man egg scrap basic own |  
 | bip_39_word_space_8 | bullet chalk man egg scrap basic own luggage |  
 | bip_39_word_space_9 | bullet chalk man egg scrap basic own luggage double |  
+| bip_39_word_underscore_1 | bullet |  
+| bip_39_word_underscore_10 | bullet_chalk_man_egg_scrap_basic_own_luggage_double_narrow |  
+| bip_39_word_underscore_11 | bullet_chalk_man_egg_scrap_basic_own_luggage_double_narrow_correct |  
+| bip_39_word_underscore_12 | bullet_chalk_man_egg_scrap_basic_own_luggage_double_narrow_correct_attend |  
+| bip_39_word_underscore_2 | bullet_chalk |  
+| bip_39_word_underscore_3 | bullet_chalk_man |  
+| bip_39_word_underscore_4 | bullet_chalk_man_egg |  
+| bip_39_word_underscore_5 | bullet_chalk_man_egg_scrap |  
+| bip_39_word_underscore_6 | bullet_chalk_man_egg_scrap_basic |  
+| bip_39_word_underscore_7 | bullet_chalk_man_egg_scrap_basic_own |  
+| bip_39_word_underscore_8 | bullet_chalk_man_egg_scrap_basic_own_luggage |  
+| bip_39_word_underscore_9 | bullet_chalk_man_egg_scrap_basic_own_luggage_double |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

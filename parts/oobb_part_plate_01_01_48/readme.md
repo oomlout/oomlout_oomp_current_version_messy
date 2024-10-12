@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | seat |  
+| bip_39_word_dash_10 | seat-ski-distance-lumber-coin-time-bomb-summer-bunker-tank |  
+| bip_39_word_dash_11 | seat-ski-distance-lumber-coin-time-bomb-summer-bunker-tank-wisdom |  
+| bip_39_word_dash_12 | seat-ski-distance-lumber-coin-time-bomb-summer-bunker-tank-wisdom-attack |  
+| bip_39_word_dash_2 | seat-ski |  
+| bip_39_word_dash_3 | seat-ski-distance |  
+| bip_39_word_dash_4 | seat-ski-distance-lumber |  
+| bip_39_word_dash_5 | seat-ski-distance-lumber-coin |  
+| bip_39_word_dash_6 | seat-ski-distance-lumber-coin-time |  
+| bip_39_word_dash_7 | seat-ski-distance-lumber-coin-time-bomb |  
+| bip_39_word_dash_8 | seat-ski-distance-lumber-coin-time-bomb-summer |  
+| bip_39_word_dash_9 | seat-ski-distance-lumber-coin-time-bomb-summer-bunker |  
 | bip_39_word_new_br_1 | seat |  
 | bip_39_word_new_br_10 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank |  
 | bip_39_word_new_br_11 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank<br>wisdom |  
@@ -147,6 +159,18 @@ bunker |
 | bip_39_word_space_7 | seat ski distance lumber coin time bomb |  
 | bip_39_word_space_8 | seat ski distance lumber coin time bomb summer |  
 | bip_39_word_space_9 | seat ski distance lumber coin time bomb summer bunker |  
+| bip_39_word_underscore_1 | seat |  
+| bip_39_word_underscore_10 | seat_ski_distance_lumber_coin_time_bomb_summer_bunker_tank |  
+| bip_39_word_underscore_11 | seat_ski_distance_lumber_coin_time_bomb_summer_bunker_tank_wisdom |  
+| bip_39_word_underscore_12 | seat_ski_distance_lumber_coin_time_bomb_summer_bunker_tank_wisdom_attack |  
+| bip_39_word_underscore_2 | seat_ski |  
+| bip_39_word_underscore_3 | seat_ski_distance |  
+| bip_39_word_underscore_4 | seat_ski_distance_lumber |  
+| bip_39_word_underscore_5 | seat_ski_distance_lumber_coin |  
+| bip_39_word_underscore_6 | seat_ski_distance_lumber_coin_time |  
+| bip_39_word_underscore_7 | seat_ski_distance_lumber_coin_time_bomb |  
+| bip_39_word_underscore_8 | seat_ski_distance_lumber_coin_time_bomb_summer |  
+| bip_39_word_underscore_9 | seat_ski_distance_lumber_coin_time_bomb_summer_bunker |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

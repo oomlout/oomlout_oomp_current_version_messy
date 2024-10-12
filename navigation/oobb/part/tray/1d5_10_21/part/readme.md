@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shiver |  
+| bip_39_word_dash_10 | shiver-unfold-pluck-radar-lion-citizen-omit-cable-bracket-inspire |  
+| bip_39_word_dash_11 | shiver-unfold-pluck-radar-lion-citizen-omit-cable-bracket-inspire-clerk |  
+| bip_39_word_dash_12 | shiver-unfold-pluck-radar-lion-citizen-omit-cable-bracket-inspire-clerk-afraid |  
+| bip_39_word_dash_2 | shiver-unfold |  
+| bip_39_word_dash_3 | shiver-unfold-pluck |  
+| bip_39_word_dash_4 | shiver-unfold-pluck-radar |  
+| bip_39_word_dash_5 | shiver-unfold-pluck-radar-lion |  
+| bip_39_word_dash_6 | shiver-unfold-pluck-radar-lion-citizen |  
+| bip_39_word_dash_7 | shiver-unfold-pluck-radar-lion-citizen-omit |  
+| bip_39_word_dash_8 | shiver-unfold-pluck-radar-lion-citizen-omit-cable |  
+| bip_39_word_dash_9 | shiver-unfold-pluck-radar-lion-citizen-omit-cable-bracket |  
 | bip_39_word_new_br_1 | shiver |  
 | bip_39_word_new_br_10 | shiver<br>unfold<br>pluck<br>radar<br>lion<br>citizen<br>omit<br>cable<br>bracket<br>inspire |  
 | bip_39_word_new_br_11 | shiver<br>unfold<br>pluck<br>radar<br>lion<br>citizen<br>omit<br>cable<br>bracket<br>inspire<br>clerk |  
@@ -147,6 +159,18 @@ bracket |
 | bip_39_word_space_7 | shiver unfold pluck radar lion citizen omit |  
 | bip_39_word_space_8 | shiver unfold pluck radar lion citizen omit cable |  
 | bip_39_word_space_9 | shiver unfold pluck radar lion citizen omit cable bracket |  
+| bip_39_word_underscore_1 | shiver |  
+| bip_39_word_underscore_10 | shiver_unfold_pluck_radar_lion_citizen_omit_cable_bracket_inspire |  
+| bip_39_word_underscore_11 | shiver_unfold_pluck_radar_lion_citizen_omit_cable_bracket_inspire_clerk |  
+| bip_39_word_underscore_12 | shiver_unfold_pluck_radar_lion_citizen_omit_cable_bracket_inspire_clerk_afraid |  
+| bip_39_word_underscore_2 | shiver_unfold |  
+| bip_39_word_underscore_3 | shiver_unfold_pluck |  
+| bip_39_word_underscore_4 | shiver_unfold_pluck_radar |  
+| bip_39_word_underscore_5 | shiver_unfold_pluck_radar_lion |  
+| bip_39_word_underscore_6 | shiver_unfold_pluck_radar_lion_citizen |  
+| bip_39_word_underscore_7 | shiver_unfold_pluck_radar_lion_citizen_omit |  
+| bip_39_word_underscore_8 | shiver_unfold_pluck_radar_lion_citizen_omit_cable |  
+| bip_39_word_underscore_9 | shiver_unfold_pluck_radar_lion_citizen_omit_cable_bracket |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

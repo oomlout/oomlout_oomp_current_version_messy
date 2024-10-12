@@ -1,3 +1,15 @@
+bip_39_word_dash_1: afraid
+bip_39_word_dash_10: afraid-brave-dash-cereal-off-shoot-alert-noble-whip-gauge
+bip_39_word_dash_11: afraid-brave-dash-cereal-off-shoot-alert-noble-whip-gauge-real
+bip_39_word_dash_12: afraid-brave-dash-cereal-off-shoot-alert-noble-whip-gauge-real-absent
+bip_39_word_dash_2: afraid-brave
+bip_39_word_dash_3: afraid-brave-dash
+bip_39_word_dash_4: afraid-brave-dash-cereal
+bip_39_word_dash_5: afraid-brave-dash-cereal-off
+bip_39_word_dash_6: afraid-brave-dash-cereal-off-shoot
+bip_39_word_dash_7: afraid-brave-dash-cereal-off-shoot-alert
+bip_39_word_dash_8: afraid-brave-dash-cereal-off-shoot-alert-noble
+bip_39_word_dash_9: afraid-brave-dash-cereal-off-shoot-alert-noble-whip
 bip_39_word_new_br_1: afraid
 bip_39_word_new_br_10: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge
 bip_39_word_new_br_11: afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge<br>real
@@ -192,6 +204,18 @@ bip_39_word_space_6: afraid brave dash cereal off shoot
 bip_39_word_space_7: afraid brave dash cereal off shoot alert
 bip_39_word_space_8: afraid brave dash cereal off shoot alert noble
 bip_39_word_space_9: afraid brave dash cereal off shoot alert noble whip
+bip_39_word_underscore_1: afraid
+bip_39_word_underscore_10: afraid_brave_dash_cereal_off_shoot_alert_noble_whip_gauge
+bip_39_word_underscore_11: afraid_brave_dash_cereal_off_shoot_alert_noble_whip_gauge_real
+bip_39_word_underscore_12: afraid_brave_dash_cereal_off_shoot_alert_noble_whip_gauge_real_absent
+bip_39_word_underscore_2: afraid_brave
+bip_39_word_underscore_3: afraid_brave_dash
+bip_39_word_underscore_4: afraid_brave_dash_cereal
+bip_39_word_underscore_5: afraid_brave_dash_cereal_off
+bip_39_word_underscore_6: afraid_brave_dash_cereal_off_shoot
+bip_39_word_underscore_7: afraid_brave_dash_cereal_off_shoot_alert
+bip_39_word_underscore_8: afraid_brave_dash_cereal_off_shoot_alert_noble
+bip_39_word_underscore_9: afraid_brave_dash_cereal_off_shoot_alert_noble_whip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

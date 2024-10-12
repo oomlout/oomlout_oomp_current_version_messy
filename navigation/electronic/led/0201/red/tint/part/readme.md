@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clip |  
+| bip_39_word_dash_10 | clip-chimney-envelope-material-announce-ocean-unit-ignore-comfort-doll |  
+| bip_39_word_dash_11 | clip-chimney-envelope-material-announce-ocean-unit-ignore-comfort-doll-pioneer |  
+| bip_39_word_dash_12 | clip-chimney-envelope-material-announce-ocean-unit-ignore-comfort-doll-pioneer-announce |  
+| bip_39_word_dash_2 | clip-chimney |  
+| bip_39_word_dash_3 | clip-chimney-envelope |  
+| bip_39_word_dash_4 | clip-chimney-envelope-material |  
+| bip_39_word_dash_5 | clip-chimney-envelope-material-announce |  
+| bip_39_word_dash_6 | clip-chimney-envelope-material-announce-ocean |  
+| bip_39_word_dash_7 | clip-chimney-envelope-material-announce-ocean-unit |  
+| bip_39_word_dash_8 | clip-chimney-envelope-material-announce-ocean-unit-ignore |  
+| bip_39_word_dash_9 | clip-chimney-envelope-material-announce-ocean-unit-ignore-comfort |  
 | bip_39_word_new_br_1 | clip |  
 | bip_39_word_new_br_10 | clip<br>chimney<br>envelope<br>material<br>announce<br>ocean<br>unit<br>ignore<br>comfort<br>doll |  
 | bip_39_word_new_br_11 | clip<br>chimney<br>envelope<br>material<br>announce<br>ocean<br>unit<br>ignore<br>comfort<br>doll<br>pioneer |  
@@ -147,6 +159,18 @@ comfort |
 | bip_39_word_space_7 | clip chimney envelope material announce ocean unit |  
 | bip_39_word_space_8 | clip chimney envelope material announce ocean unit ignore |  
 | bip_39_word_space_9 | clip chimney envelope material announce ocean unit ignore comfort |  
+| bip_39_word_underscore_1 | clip |  
+| bip_39_word_underscore_10 | clip_chimney_envelope_material_announce_ocean_unit_ignore_comfort_doll |  
+| bip_39_word_underscore_11 | clip_chimney_envelope_material_announce_ocean_unit_ignore_comfort_doll_pioneer |  
+| bip_39_word_underscore_12 | clip_chimney_envelope_material_announce_ocean_unit_ignore_comfort_doll_pioneer_announce |  
+| bip_39_word_underscore_2 | clip_chimney |  
+| bip_39_word_underscore_3 | clip_chimney_envelope |  
+| bip_39_word_underscore_4 | clip_chimney_envelope_material |  
+| bip_39_word_underscore_5 | clip_chimney_envelope_material_announce |  
+| bip_39_word_underscore_6 | clip_chimney_envelope_material_announce_ocean |  
+| bip_39_word_underscore_7 | clip_chimney_envelope_material_announce_ocean_unit |  
+| bip_39_word_underscore_8 | clip_chimney_envelope_material_announce_ocean_unit_ignore |  
+| bip_39_word_underscore_9 | clip_chimney_envelope_material_announce_ocean_unit_ignore_comfort |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

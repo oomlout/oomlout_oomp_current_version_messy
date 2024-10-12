@@ -1,3 +1,15 @@
+bip_39_word_dash_1: travel
+bip_39_word_dash_10: travel-speed-flush-type-indoor-dismiss-want-awkward-cage-congress
+bip_39_word_dash_11: travel-speed-flush-type-indoor-dismiss-want-awkward-cage-congress-manage
+bip_39_word_dash_12: travel-speed-flush-type-indoor-dismiss-want-awkward-cage-congress-manage-air
+bip_39_word_dash_2: travel-speed
+bip_39_word_dash_3: travel-speed-flush
+bip_39_word_dash_4: travel-speed-flush-type
+bip_39_word_dash_5: travel-speed-flush-type-indoor
+bip_39_word_dash_6: travel-speed-flush-type-indoor-dismiss
+bip_39_word_dash_7: travel-speed-flush-type-indoor-dismiss-want
+bip_39_word_dash_8: travel-speed-flush-type-indoor-dismiss-want-awkward
+bip_39_word_dash_9: travel-speed-flush-type-indoor-dismiss-want-awkward-cage
 bip_39_word_new_br_1: travel
 bip_39_word_new_br_10: travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress
 bip_39_word_new_br_11: travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress<br>manage
@@ -193,6 +205,18 @@ bip_39_word_space_6: travel speed flush type indoor dismiss
 bip_39_word_space_7: travel speed flush type indoor dismiss want
 bip_39_word_space_8: travel speed flush type indoor dismiss want awkward
 bip_39_word_space_9: travel speed flush type indoor dismiss want awkward cage
+bip_39_word_underscore_1: travel
+bip_39_word_underscore_10: travel_speed_flush_type_indoor_dismiss_want_awkward_cage_congress
+bip_39_word_underscore_11: travel_speed_flush_type_indoor_dismiss_want_awkward_cage_congress_manage
+bip_39_word_underscore_12: travel_speed_flush_type_indoor_dismiss_want_awkward_cage_congress_manage_air
+bip_39_word_underscore_2: travel_speed
+bip_39_word_underscore_3: travel_speed_flush
+bip_39_word_underscore_4: travel_speed_flush_type
+bip_39_word_underscore_5: travel_speed_flush_type_indoor
+bip_39_word_underscore_6: travel_speed_flush_type_indoor_dismiss
+bip_39_word_underscore_7: travel_speed_flush_type_indoor_dismiss_want
+bip_39_word_underscore_8: travel_speed_flush_type_indoor_dismiss_want_awkward
+bip_39_word_underscore_9: travel_speed_flush_type_indoor_dismiss_want_awkward_cage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

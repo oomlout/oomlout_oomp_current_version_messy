@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | day |  
+| bip_39_word_dash_10 | day-sort-refuse-turtle-blame-clean-drama-wide-half-fatal |  
+| bip_39_word_dash_11 | day-sort-refuse-turtle-blame-clean-drama-wide-half-fatal-snow |  
+| bip_39_word_dash_12 | day-sort-refuse-turtle-blame-clean-drama-wide-half-fatal-snow-aspect |  
+| bip_39_word_dash_2 | day-sort |  
+| bip_39_word_dash_3 | day-sort-refuse |  
+| bip_39_word_dash_4 | day-sort-refuse-turtle |  
+| bip_39_word_dash_5 | day-sort-refuse-turtle-blame |  
+| bip_39_word_dash_6 | day-sort-refuse-turtle-blame-clean |  
+| bip_39_word_dash_7 | day-sort-refuse-turtle-blame-clean-drama |  
+| bip_39_word_dash_8 | day-sort-refuse-turtle-blame-clean-drama-wide |  
+| bip_39_word_dash_9 | day-sort-refuse-turtle-blame-clean-drama-wide-half |  
 | bip_39_word_new_br_1 | day |  
 | bip_39_word_new_br_10 | day<br>sort<br>refuse<br>turtle<br>blame<br>clean<br>drama<br>wide<br>half<br>fatal |  
 | bip_39_word_new_br_11 | day<br>sort<br>refuse<br>turtle<br>blame<br>clean<br>drama<br>wide<br>half<br>fatal<br>snow |  
@@ -147,6 +159,18 @@ half |
 | bip_39_word_space_7 | day sort refuse turtle blame clean drama |  
 | bip_39_word_space_8 | day sort refuse turtle blame clean drama wide |  
 | bip_39_word_space_9 | day sort refuse turtle blame clean drama wide half |  
+| bip_39_word_underscore_1 | day |  
+| bip_39_word_underscore_10 | day_sort_refuse_turtle_blame_clean_drama_wide_half_fatal |  
+| bip_39_word_underscore_11 | day_sort_refuse_turtle_blame_clean_drama_wide_half_fatal_snow |  
+| bip_39_word_underscore_12 | day_sort_refuse_turtle_blame_clean_drama_wide_half_fatal_snow_aspect |  
+| bip_39_word_underscore_2 | day_sort |  
+| bip_39_word_underscore_3 | day_sort_refuse |  
+| bip_39_word_underscore_4 | day_sort_refuse_turtle |  
+| bip_39_word_underscore_5 | day_sort_refuse_turtle_blame |  
+| bip_39_word_underscore_6 | day_sort_refuse_turtle_blame_clean |  
+| bip_39_word_underscore_7 | day_sort_refuse_turtle_blame_clean_drama |  
+| bip_39_word_underscore_8 | day_sort_refuse_turtle_blame_clean_drama_wide |  
+| bip_39_word_underscore_9 | day_sort_refuse_turtle_blame_clean_drama_wide_half |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

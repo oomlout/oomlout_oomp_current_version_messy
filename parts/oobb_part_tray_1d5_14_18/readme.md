@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soft |  
+| bip_39_word_dash_10 | soft-roast-crucial-embrace-valve-category-grab-cabin-shine-duty |  
+| bip_39_word_dash_11 | soft-roast-crucial-embrace-valve-category-grab-cabin-shine-duty-finger |  
+| bip_39_word_dash_12 | soft-roast-crucial-embrace-valve-category-grab-cabin-shine-duty-finger-actual |  
+| bip_39_word_dash_2 | soft-roast |  
+| bip_39_word_dash_3 | soft-roast-crucial |  
+| bip_39_word_dash_4 | soft-roast-crucial-embrace |  
+| bip_39_word_dash_5 | soft-roast-crucial-embrace-valve |  
+| bip_39_word_dash_6 | soft-roast-crucial-embrace-valve-category |  
+| bip_39_word_dash_7 | soft-roast-crucial-embrace-valve-category-grab |  
+| bip_39_word_dash_8 | soft-roast-crucial-embrace-valve-category-grab-cabin |  
+| bip_39_word_dash_9 | soft-roast-crucial-embrace-valve-category-grab-cabin-shine |  
 | bip_39_word_new_br_1 | soft |  
 | bip_39_word_new_br_10 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty |  
 | bip_39_word_new_br_11 | soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty<br>finger |  
@@ -147,6 +159,18 @@ shine |
 | bip_39_word_space_7 | soft roast crucial embrace valve category grab |  
 | bip_39_word_space_8 | soft roast crucial embrace valve category grab cabin |  
 | bip_39_word_space_9 | soft roast crucial embrace valve category grab cabin shine |  
+| bip_39_word_underscore_1 | soft |  
+| bip_39_word_underscore_10 | soft_roast_crucial_embrace_valve_category_grab_cabin_shine_duty |  
+| bip_39_word_underscore_11 | soft_roast_crucial_embrace_valve_category_grab_cabin_shine_duty_finger |  
+| bip_39_word_underscore_12 | soft_roast_crucial_embrace_valve_category_grab_cabin_shine_duty_finger_actual |  
+| bip_39_word_underscore_2 | soft_roast |  
+| bip_39_word_underscore_3 | soft_roast_crucial |  
+| bip_39_word_underscore_4 | soft_roast_crucial_embrace |  
+| bip_39_word_underscore_5 | soft_roast_crucial_embrace_valve |  
+| bip_39_word_underscore_6 | soft_roast_crucial_embrace_valve_category |  
+| bip_39_word_underscore_7 | soft_roast_crucial_embrace_valve_category_grab |  
+| bip_39_word_underscore_8 | soft_roast_crucial_embrace_valve_category_grab_cabin |  
+| bip_39_word_underscore_9 | soft_roast_crucial_embrace_valve_category_grab_cabin_shine |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

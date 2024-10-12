@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | corn |  
+| bip_39_word_dash_10 | corn-dragon-civil-jar-magnet-clean-change-powder-couch-east |  
+| bip_39_word_dash_11 | corn-dragon-civil-jar-magnet-clean-change-powder-couch-east-museum |  
+| bip_39_word_dash_12 | corn-dragon-civil-jar-magnet-clean-change-powder-couch-east-museum-arctic |  
+| bip_39_word_dash_2 | corn-dragon |  
+| bip_39_word_dash_3 | corn-dragon-civil |  
+| bip_39_word_dash_4 | corn-dragon-civil-jar |  
+| bip_39_word_dash_5 | corn-dragon-civil-jar-magnet |  
+| bip_39_word_dash_6 | corn-dragon-civil-jar-magnet-clean |  
+| bip_39_word_dash_7 | corn-dragon-civil-jar-magnet-clean-change |  
+| bip_39_word_dash_8 | corn-dragon-civil-jar-magnet-clean-change-powder |  
+| bip_39_word_dash_9 | corn-dragon-civil-jar-magnet-clean-change-powder-couch |  
 | bip_39_word_new_br_1 | corn |  
 | bip_39_word_new_br_10 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder<br>couch<br>east |  
 | bip_39_word_new_br_11 | corn<br>dragon<br>civil<br>jar<br>magnet<br>clean<br>change<br>powder<br>couch<br>east<br>museum |  
@@ -147,6 +159,18 @@ couch |
 | bip_39_word_space_7 | corn dragon civil jar magnet clean change |  
 | bip_39_word_space_8 | corn dragon civil jar magnet clean change powder |  
 | bip_39_word_space_9 | corn dragon civil jar magnet clean change powder couch |  
+| bip_39_word_underscore_1 | corn |  
+| bip_39_word_underscore_10 | corn_dragon_civil_jar_magnet_clean_change_powder_couch_east |  
+| bip_39_word_underscore_11 | corn_dragon_civil_jar_magnet_clean_change_powder_couch_east_museum |  
+| bip_39_word_underscore_12 | corn_dragon_civil_jar_magnet_clean_change_powder_couch_east_museum_arctic |  
+| bip_39_word_underscore_2 | corn_dragon |  
+| bip_39_word_underscore_3 | corn_dragon_civil |  
+| bip_39_word_underscore_4 | corn_dragon_civil_jar |  
+| bip_39_word_underscore_5 | corn_dragon_civil_jar_magnet |  
+| bip_39_word_underscore_6 | corn_dragon_civil_jar_magnet_clean |  
+| bip_39_word_underscore_7 | corn_dragon_civil_jar_magnet_clean_change |  
+| bip_39_word_underscore_8 | corn_dragon_civil_jar_magnet_clean_change_powder |  
+| bip_39_word_underscore_9 | corn_dragon_civil_jar_magnet_clean_change_powder_couch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

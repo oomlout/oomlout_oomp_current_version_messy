@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sustain
+bip_39_word_dash_10: sustain-output-joy-clay-census-tiny-okay-car-give-parrot
+bip_39_word_dash_11: sustain-output-joy-clay-census-tiny-okay-car-give-parrot-forget
+bip_39_word_dash_12: sustain-output-joy-clay-census-tiny-okay-car-give-parrot-forget-asset
+bip_39_word_dash_2: sustain-output
+bip_39_word_dash_3: sustain-output-joy
+bip_39_word_dash_4: sustain-output-joy-clay
+bip_39_word_dash_5: sustain-output-joy-clay-census
+bip_39_word_dash_6: sustain-output-joy-clay-census-tiny
+bip_39_word_dash_7: sustain-output-joy-clay-census-tiny-okay
+bip_39_word_dash_8: sustain-output-joy-clay-census-tiny-okay-car
+bip_39_word_dash_9: sustain-output-joy-clay-census-tiny-okay-car-give
 bip_39_word_new_br_1: sustain
 bip_39_word_new_br_10: sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car<br>give<br>parrot
 bip_39_word_new_br_11: sustain<br>output<br>joy<br>clay<br>census<br>tiny<br>okay<br>car<br>give<br>parrot<br>forget
@@ -192,6 +204,18 @@ bip_39_word_space_6: sustain output joy clay census tiny
 bip_39_word_space_7: sustain output joy clay census tiny okay
 bip_39_word_space_8: sustain output joy clay census tiny okay car
 bip_39_word_space_9: sustain output joy clay census tiny okay car give
+bip_39_word_underscore_1: sustain
+bip_39_word_underscore_10: sustain_output_joy_clay_census_tiny_okay_car_give_parrot
+bip_39_word_underscore_11: sustain_output_joy_clay_census_tiny_okay_car_give_parrot_forget
+bip_39_word_underscore_12: sustain_output_joy_clay_census_tiny_okay_car_give_parrot_forget_asset
+bip_39_word_underscore_2: sustain_output
+bip_39_word_underscore_3: sustain_output_joy
+bip_39_word_underscore_4: sustain_output_joy_clay
+bip_39_word_underscore_5: sustain_output_joy_clay_census
+bip_39_word_underscore_6: sustain_output_joy_clay_census_tiny
+bip_39_word_underscore_7: sustain_output_joy_clay_census_tiny_okay
+bip_39_word_underscore_8: sustain_output_joy_clay_census_tiny_okay_car
+bip_39_word_underscore_9: sustain_output_joy_clay_census_tiny_okay_car_give
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: seven
+bip_39_word_dash_10: seven-dress-whisper-over-banana-silent-machine-behave-history-kangaroo
+bip_39_word_dash_11: seven-dress-whisper-over-banana-silent-machine-behave-history-kangaroo-wrap
+bip_39_word_dash_12: seven-dress-whisper-over-banana-silent-machine-behave-history-kangaroo-wrap-all
+bip_39_word_dash_2: seven-dress
+bip_39_word_dash_3: seven-dress-whisper
+bip_39_word_dash_4: seven-dress-whisper-over
+bip_39_word_dash_5: seven-dress-whisper-over-banana
+bip_39_word_dash_6: seven-dress-whisper-over-banana-silent
+bip_39_word_dash_7: seven-dress-whisper-over-banana-silent-machine
+bip_39_word_dash_8: seven-dress-whisper-over-banana-silent-machine-behave
+bip_39_word_dash_9: seven-dress-whisper-over-banana-silent-machine-behave-history
 bip_39_word_new_br_1: seven
 bip_39_word_new_br_10: seven<br>dress<br>whisper<br>over<br>banana<br>silent<br>machine<br>behave<br>history<br>kangaroo
 bip_39_word_new_br_11: seven<br>dress<br>whisper<br>over<br>banana<br>silent<br>machine<br>behave<br>history<br>kangaroo<br>wrap
@@ -194,6 +206,18 @@ bip_39_word_space_6: seven dress whisper over banana silent
 bip_39_word_space_7: seven dress whisper over banana silent machine
 bip_39_word_space_8: seven dress whisper over banana silent machine behave
 bip_39_word_space_9: seven dress whisper over banana silent machine behave history
+bip_39_word_underscore_1: seven
+bip_39_word_underscore_10: seven_dress_whisper_over_banana_silent_machine_behave_history_kangaroo
+bip_39_word_underscore_11: seven_dress_whisper_over_banana_silent_machine_behave_history_kangaroo_wrap
+bip_39_word_underscore_12: seven_dress_whisper_over_banana_silent_machine_behave_history_kangaroo_wrap_all
+bip_39_word_underscore_2: seven_dress
+bip_39_word_underscore_3: seven_dress_whisper
+bip_39_word_underscore_4: seven_dress_whisper_over
+bip_39_word_underscore_5: seven_dress_whisper_over_banana
+bip_39_word_underscore_6: seven_dress_whisper_over_banana_silent
+bip_39_word_underscore_7: seven_dress_whisper_over_banana_silent_machine
+bip_39_word_underscore_8: seven_dress_whisper_over_banana_silent_machine_behave
+bip_39_word_underscore_9: seven_dress_whisper_over_banana_silent_machine_behave_history
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

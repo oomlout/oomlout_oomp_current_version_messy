@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | doctor |  
+| bip_39_word_dash_10 | doctor-elephant-quote-leopard-cherry-kite-reopen-error-buffalo-lunar |  
+| bip_39_word_dash_11 | doctor-elephant-quote-leopard-cherry-kite-reopen-error-buffalo-lunar-find |  
+| bip_39_word_dash_12 | doctor-elephant-quote-leopard-cherry-kite-reopen-error-buffalo-lunar-find-asthma |  
+| bip_39_word_dash_2 | doctor-elephant |  
+| bip_39_word_dash_3 | doctor-elephant-quote |  
+| bip_39_word_dash_4 | doctor-elephant-quote-leopard |  
+| bip_39_word_dash_5 | doctor-elephant-quote-leopard-cherry |  
+| bip_39_word_dash_6 | doctor-elephant-quote-leopard-cherry-kite |  
+| bip_39_word_dash_7 | doctor-elephant-quote-leopard-cherry-kite-reopen |  
+| bip_39_word_dash_8 | doctor-elephant-quote-leopard-cherry-kite-reopen-error |  
+| bip_39_word_dash_9 | doctor-elephant-quote-leopard-cherry-kite-reopen-error-buffalo |  
 | bip_39_word_new_br_1 | doctor |  
 | bip_39_word_new_br_10 | doctor<br>elephant<br>quote<br>leopard<br>cherry<br>kite<br>reopen<br>error<br>buffalo<br>lunar |  
 | bip_39_word_new_br_11 | doctor<br>elephant<br>quote<br>leopard<br>cherry<br>kite<br>reopen<br>error<br>buffalo<br>lunar<br>find |  
@@ -147,6 +159,18 @@ buffalo |
 | bip_39_word_space_7 | doctor elephant quote leopard cherry kite reopen |  
 | bip_39_word_space_8 | doctor elephant quote leopard cherry kite reopen error |  
 | bip_39_word_space_9 | doctor elephant quote leopard cherry kite reopen error buffalo |  
+| bip_39_word_underscore_1 | doctor |  
+| bip_39_word_underscore_10 | doctor_elephant_quote_leopard_cherry_kite_reopen_error_buffalo_lunar |  
+| bip_39_word_underscore_11 | doctor_elephant_quote_leopard_cherry_kite_reopen_error_buffalo_lunar_find |  
+| bip_39_word_underscore_12 | doctor_elephant_quote_leopard_cherry_kite_reopen_error_buffalo_lunar_find_asthma |  
+| bip_39_word_underscore_2 | doctor_elephant |  
+| bip_39_word_underscore_3 | doctor_elephant_quote |  
+| bip_39_word_underscore_4 | doctor_elephant_quote_leopard |  
+| bip_39_word_underscore_5 | doctor_elephant_quote_leopard_cherry |  
+| bip_39_word_underscore_6 | doctor_elephant_quote_leopard_cherry_kite |  
+| bip_39_word_underscore_7 | doctor_elephant_quote_leopard_cherry_kite_reopen |  
+| bip_39_word_underscore_8 | doctor_elephant_quote_leopard_cherry_kite_reopen_error |  
+| bip_39_word_underscore_9 | doctor_elephant_quote_leopard_cherry_kite_reopen_error_buffalo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

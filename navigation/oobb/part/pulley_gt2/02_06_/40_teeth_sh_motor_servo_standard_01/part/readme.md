@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shrimp |  
+| bip_39_word_dash_10 | shrimp-gown-veteran-album-rival-romance-differ-fire-come-someone |  
+| bip_39_word_dash_11 | shrimp-gown-veteran-album-rival-romance-differ-fire-come-someone-under |  
+| bip_39_word_dash_12 | shrimp-gown-veteran-album-rival-romance-differ-fire-come-someone-under-antique |  
+| bip_39_word_dash_2 | shrimp-gown |  
+| bip_39_word_dash_3 | shrimp-gown-veteran |  
+| bip_39_word_dash_4 | shrimp-gown-veteran-album |  
+| bip_39_word_dash_5 | shrimp-gown-veteran-album-rival |  
+| bip_39_word_dash_6 | shrimp-gown-veteran-album-rival-romance |  
+| bip_39_word_dash_7 | shrimp-gown-veteran-album-rival-romance-differ |  
+| bip_39_word_dash_8 | shrimp-gown-veteran-album-rival-romance-differ-fire |  
+| bip_39_word_dash_9 | shrimp-gown-veteran-album-rival-romance-differ-fire-come |  
 | bip_39_word_new_br_1 | shrimp |  
 | bip_39_word_new_br_10 | shrimp<br>gown<br>veteran<br>album<br>rival<br>romance<br>differ<br>fire<br>come<br>someone |  
 | bip_39_word_new_br_11 | shrimp<br>gown<br>veteran<br>album<br>rival<br>romance<br>differ<br>fire<br>come<br>someone<br>under |  
@@ -147,6 +159,18 @@ come |
 | bip_39_word_space_7 | shrimp gown veteran album rival romance differ |  
 | bip_39_word_space_8 | shrimp gown veteran album rival romance differ fire |  
 | bip_39_word_space_9 | shrimp gown veteran album rival romance differ fire come |  
+| bip_39_word_underscore_1 | shrimp |  
+| bip_39_word_underscore_10 | shrimp_gown_veteran_album_rival_romance_differ_fire_come_someone |  
+| bip_39_word_underscore_11 | shrimp_gown_veteran_album_rival_romance_differ_fire_come_someone_under |  
+| bip_39_word_underscore_12 | shrimp_gown_veteran_album_rival_romance_differ_fire_come_someone_under_antique |  
+| bip_39_word_underscore_2 | shrimp_gown |  
+| bip_39_word_underscore_3 | shrimp_gown_veteran |  
+| bip_39_word_underscore_4 | shrimp_gown_veteran_album |  
+| bip_39_word_underscore_5 | shrimp_gown_veteran_album_rival |  
+| bip_39_word_underscore_6 | shrimp_gown_veteran_album_rival_romance |  
+| bip_39_word_underscore_7 | shrimp_gown_veteran_album_rival_romance_differ |  
+| bip_39_word_underscore_8 | shrimp_gown_veteran_album_rival_romance_differ_fire |  
+| bip_39_word_underscore_9 | shrimp_gown_veteran_album_rival_romance_differ_fire_come |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

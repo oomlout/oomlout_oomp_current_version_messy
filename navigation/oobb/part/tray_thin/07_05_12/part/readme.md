@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | number |  
+| bip_39_word_dash_10 | number-soon-board-effort-loud-illness-until-monkey-asthma-inspire |  
+| bip_39_word_dash_11 | number-soon-board-effort-loud-illness-until-monkey-asthma-inspire-apart |  
+| bip_39_word_dash_12 | number-soon-board-effort-loud-illness-until-monkey-asthma-inspire-apart-any |  
+| bip_39_word_dash_2 | number-soon |  
+| bip_39_word_dash_3 | number-soon-board |  
+| bip_39_word_dash_4 | number-soon-board-effort |  
+| bip_39_word_dash_5 | number-soon-board-effort-loud |  
+| bip_39_word_dash_6 | number-soon-board-effort-loud-illness |  
+| bip_39_word_dash_7 | number-soon-board-effort-loud-illness-until |  
+| bip_39_word_dash_8 | number-soon-board-effort-loud-illness-until-monkey |  
+| bip_39_word_dash_9 | number-soon-board-effort-loud-illness-until-monkey-asthma |  
 | bip_39_word_new_br_1 | number |  
 | bip_39_word_new_br_10 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey<br>asthma<br>inspire |  
 | bip_39_word_new_br_11 | number<br>soon<br>board<br>effort<br>loud<br>illness<br>until<br>monkey<br>asthma<br>inspire<br>apart |  
@@ -147,6 +159,18 @@ asthma |
 | bip_39_word_space_7 | number soon board effort loud illness until |  
 | bip_39_word_space_8 | number soon board effort loud illness until monkey |  
 | bip_39_word_space_9 | number soon board effort loud illness until monkey asthma |  
+| bip_39_word_underscore_1 | number |  
+| bip_39_word_underscore_10 | number_soon_board_effort_loud_illness_until_monkey_asthma_inspire |  
+| bip_39_word_underscore_11 | number_soon_board_effort_loud_illness_until_monkey_asthma_inspire_apart |  
+| bip_39_word_underscore_12 | number_soon_board_effort_loud_illness_until_monkey_asthma_inspire_apart_any |  
+| bip_39_word_underscore_2 | number_soon |  
+| bip_39_word_underscore_3 | number_soon_board |  
+| bip_39_word_underscore_4 | number_soon_board_effort |  
+| bip_39_word_underscore_5 | number_soon_board_effort_loud |  
+| bip_39_word_underscore_6 | number_soon_board_effort_loud_illness |  
+| bip_39_word_underscore_7 | number_soon_board_effort_loud_illness_until |  
+| bip_39_word_underscore_8 | number_soon_board_effort_loud_illness_until_monkey |  
+| bip_39_word_underscore_9 | number_soon_board_effort_loud_illness_until_monkey_asthma |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

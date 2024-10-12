@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | anger |  
+| bip_39_word_dash_10 | anger-naive-logic-crash-mystery-blue-style-edit-pioneer-bid |  
+| bip_39_word_dash_11 | anger-naive-logic-crash-mystery-blue-style-edit-pioneer-bid-autumn |  
+| bip_39_word_dash_12 | anger-naive-logic-crash-mystery-blue-style-edit-pioneer-bid-autumn-almost |  
+| bip_39_word_dash_2 | anger-naive |  
+| bip_39_word_dash_3 | anger-naive-logic |  
+| bip_39_word_dash_4 | anger-naive-logic-crash |  
+| bip_39_word_dash_5 | anger-naive-logic-crash-mystery |  
+| bip_39_word_dash_6 | anger-naive-logic-crash-mystery-blue |  
+| bip_39_word_dash_7 | anger-naive-logic-crash-mystery-blue-style |  
+| bip_39_word_dash_8 | anger-naive-logic-crash-mystery-blue-style-edit |  
+| bip_39_word_dash_9 | anger-naive-logic-crash-mystery-blue-style-edit-pioneer |  
 | bip_39_word_new_br_1 | anger |  
 | bip_39_word_new_br_10 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid |  
 | bip_39_word_new_br_11 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid<br>autumn |  
@@ -147,6 +159,18 @@ pioneer |
 | bip_39_word_space_7 | anger naive logic crash mystery blue style |  
 | bip_39_word_space_8 | anger naive logic crash mystery blue style edit |  
 | bip_39_word_space_9 | anger naive logic crash mystery blue style edit pioneer |  
+| bip_39_word_underscore_1 | anger |  
+| bip_39_word_underscore_10 | anger_naive_logic_crash_mystery_blue_style_edit_pioneer_bid |  
+| bip_39_word_underscore_11 | anger_naive_logic_crash_mystery_blue_style_edit_pioneer_bid_autumn |  
+| bip_39_word_underscore_12 | anger_naive_logic_crash_mystery_blue_style_edit_pioneer_bid_autumn_almost |  
+| bip_39_word_underscore_2 | anger_naive |  
+| bip_39_word_underscore_3 | anger_naive_logic |  
+| bip_39_word_underscore_4 | anger_naive_logic_crash |  
+| bip_39_word_underscore_5 | anger_naive_logic_crash_mystery |  
+| bip_39_word_underscore_6 | anger_naive_logic_crash_mystery_blue |  
+| bip_39_word_underscore_7 | anger_naive_logic_crash_mystery_blue_style |  
+| bip_39_word_underscore_8 | anger_naive_logic_crash_mystery_blue_style_edit |  
+| bip_39_word_underscore_9 | anger_naive_logic_crash_mystery_blue_style_edit_pioneer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

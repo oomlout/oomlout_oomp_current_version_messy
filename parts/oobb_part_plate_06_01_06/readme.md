@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pink |  
+| bip_39_word_dash_10 | pink-quantum-idea-evolve-shuffle-safe-lunch-blur-reunion-hire |  
+| bip_39_word_dash_11 | pink-quantum-idea-evolve-shuffle-safe-lunch-blur-reunion-hire-random |  
+| bip_39_word_dash_12 | pink-quantum-idea-evolve-shuffle-safe-lunch-blur-reunion-hire-random-addict |  
+| bip_39_word_dash_2 | pink-quantum |  
+| bip_39_word_dash_3 | pink-quantum-idea |  
+| bip_39_word_dash_4 | pink-quantum-idea-evolve |  
+| bip_39_word_dash_5 | pink-quantum-idea-evolve-shuffle |  
+| bip_39_word_dash_6 | pink-quantum-idea-evolve-shuffle-safe |  
+| bip_39_word_dash_7 | pink-quantum-idea-evolve-shuffle-safe-lunch |  
+| bip_39_word_dash_8 | pink-quantum-idea-evolve-shuffle-safe-lunch-blur |  
+| bip_39_word_dash_9 | pink-quantum-idea-evolve-shuffle-safe-lunch-blur-reunion |  
 | bip_39_word_new_br_1 | pink |  
 | bip_39_word_new_br_10 | pink<br>quantum<br>idea<br>evolve<br>shuffle<br>safe<br>lunch<br>blur<br>reunion<br>hire |  
 | bip_39_word_new_br_11 | pink<br>quantum<br>idea<br>evolve<br>shuffle<br>safe<br>lunch<br>blur<br>reunion<br>hire<br>random |  
@@ -147,6 +159,18 @@ reunion |
 | bip_39_word_space_7 | pink quantum idea evolve shuffle safe lunch |  
 | bip_39_word_space_8 | pink quantum idea evolve shuffle safe lunch blur |  
 | bip_39_word_space_9 | pink quantum idea evolve shuffle safe lunch blur reunion |  
+| bip_39_word_underscore_1 | pink |  
+| bip_39_word_underscore_10 | pink_quantum_idea_evolve_shuffle_safe_lunch_blur_reunion_hire |  
+| bip_39_word_underscore_11 | pink_quantum_idea_evolve_shuffle_safe_lunch_blur_reunion_hire_random |  
+| bip_39_word_underscore_12 | pink_quantum_idea_evolve_shuffle_safe_lunch_blur_reunion_hire_random_addict |  
+| bip_39_word_underscore_2 | pink_quantum |  
+| bip_39_word_underscore_3 | pink_quantum_idea |  
+| bip_39_word_underscore_4 | pink_quantum_idea_evolve |  
+| bip_39_word_underscore_5 | pink_quantum_idea_evolve_shuffle |  
+| bip_39_word_underscore_6 | pink_quantum_idea_evolve_shuffle_safe |  
+| bip_39_word_underscore_7 | pink_quantum_idea_evolve_shuffle_safe_lunch |  
+| bip_39_word_underscore_8 | pink_quantum_idea_evolve_shuffle_safe_lunch_blur |  
+| bip_39_word_underscore_9 | pink_quantum_idea_evolve_shuffle_safe_lunch_blur_reunion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

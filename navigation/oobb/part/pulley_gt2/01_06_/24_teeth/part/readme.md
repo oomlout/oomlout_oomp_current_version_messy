@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | priority |  
+| bip_39_word_dash_10 | priority-perfect-boy-speak-minimum-unit-wagon-nominee-lounge-exotic |  
+| bip_39_word_dash_11 | priority-perfect-boy-speak-minimum-unit-wagon-nominee-lounge-exotic-clay |  
+| bip_39_word_dash_12 | priority-perfect-boy-speak-minimum-unit-wagon-nominee-lounge-exotic-clay-action |  
+| bip_39_word_dash_2 | priority-perfect |  
+| bip_39_word_dash_3 | priority-perfect-boy |  
+| bip_39_word_dash_4 | priority-perfect-boy-speak |  
+| bip_39_word_dash_5 | priority-perfect-boy-speak-minimum |  
+| bip_39_word_dash_6 | priority-perfect-boy-speak-minimum-unit |  
+| bip_39_word_dash_7 | priority-perfect-boy-speak-minimum-unit-wagon |  
+| bip_39_word_dash_8 | priority-perfect-boy-speak-minimum-unit-wagon-nominee |  
+| bip_39_word_dash_9 | priority-perfect-boy-speak-minimum-unit-wagon-nominee-lounge |  
 | bip_39_word_new_br_1 | priority |  
 | bip_39_word_new_br_10 | priority<br>perfect<br>boy<br>speak<br>minimum<br>unit<br>wagon<br>nominee<br>lounge<br>exotic |  
 | bip_39_word_new_br_11 | priority<br>perfect<br>boy<br>speak<br>minimum<br>unit<br>wagon<br>nominee<br>lounge<br>exotic<br>clay |  
@@ -147,6 +159,18 @@ lounge |
 | bip_39_word_space_7 | priority perfect boy speak minimum unit wagon |  
 | bip_39_word_space_8 | priority perfect boy speak minimum unit wagon nominee |  
 | bip_39_word_space_9 | priority perfect boy speak minimum unit wagon nominee lounge |  
+| bip_39_word_underscore_1 | priority |  
+| bip_39_word_underscore_10 | priority_perfect_boy_speak_minimum_unit_wagon_nominee_lounge_exotic |  
+| bip_39_word_underscore_11 | priority_perfect_boy_speak_minimum_unit_wagon_nominee_lounge_exotic_clay |  
+| bip_39_word_underscore_12 | priority_perfect_boy_speak_minimum_unit_wagon_nominee_lounge_exotic_clay_action |  
+| bip_39_word_underscore_2 | priority_perfect |  
+| bip_39_word_underscore_3 | priority_perfect_boy |  
+| bip_39_word_underscore_4 | priority_perfect_boy_speak |  
+| bip_39_word_underscore_5 | priority_perfect_boy_speak_minimum |  
+| bip_39_word_underscore_6 | priority_perfect_boy_speak_minimum_unit |  
+| bip_39_word_underscore_7 | priority_perfect_boy_speak_minimum_unit_wagon |  
+| bip_39_word_underscore_8 | priority_perfect_boy_speak_minimum_unit_wagon_nominee |  
+| bip_39_word_underscore_9 | priority_perfect_boy_speak_minimum_unit_wagon_nominee_lounge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

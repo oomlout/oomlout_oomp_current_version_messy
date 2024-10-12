@@ -1,3 +1,15 @@
+bip_39_word_dash_1: reward
+bip_39_word_dash_10: reward-false-zoo-update-ribbon-relief-nut-stone-sword-repeat
+bip_39_word_dash_11: reward-false-zoo-update-ribbon-relief-nut-stone-sword-repeat-bounce
+bip_39_word_dash_12: reward-false-zoo-update-ribbon-relief-nut-stone-sword-repeat-bounce-ask
+bip_39_word_dash_2: reward-false
+bip_39_word_dash_3: reward-false-zoo
+bip_39_word_dash_4: reward-false-zoo-update
+bip_39_word_dash_5: reward-false-zoo-update-ribbon
+bip_39_word_dash_6: reward-false-zoo-update-ribbon-relief
+bip_39_word_dash_7: reward-false-zoo-update-ribbon-relief-nut
+bip_39_word_dash_8: reward-false-zoo-update-ribbon-relief-nut-stone
+bip_39_word_dash_9: reward-false-zoo-update-ribbon-relief-nut-stone-sword
 bip_39_word_new_br_1: reward
 bip_39_word_new_br_10: reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat
 bip_39_word_new_br_11: reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat<br>bounce
@@ -193,6 +205,18 @@ bip_39_word_space_6: reward false zoo update ribbon relief
 bip_39_word_space_7: reward false zoo update ribbon relief nut
 bip_39_word_space_8: reward false zoo update ribbon relief nut stone
 bip_39_word_space_9: reward false zoo update ribbon relief nut stone sword
+bip_39_word_underscore_1: reward
+bip_39_word_underscore_10: reward_false_zoo_update_ribbon_relief_nut_stone_sword_repeat
+bip_39_word_underscore_11: reward_false_zoo_update_ribbon_relief_nut_stone_sword_repeat_bounce
+bip_39_word_underscore_12: reward_false_zoo_update_ribbon_relief_nut_stone_sword_repeat_bounce_ask
+bip_39_word_underscore_2: reward_false
+bip_39_word_underscore_3: reward_false_zoo
+bip_39_word_underscore_4: reward_false_zoo_update
+bip_39_word_underscore_5: reward_false_zoo_update_ribbon
+bip_39_word_underscore_6: reward_false_zoo_update_ribbon_relief
+bip_39_word_underscore_7: reward_false_zoo_update_ribbon_relief_nut
+bip_39_word_underscore_8: reward_false_zoo_update_ribbon_relief_nut_stone
+bip_39_word_underscore_9: reward_false_zoo_update_ribbon_relief_nut_stone_sword
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

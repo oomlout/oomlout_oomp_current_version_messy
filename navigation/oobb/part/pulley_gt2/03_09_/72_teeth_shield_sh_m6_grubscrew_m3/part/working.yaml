@@ -1,3 +1,15 @@
+bip_39_word_dash_1: adult
+bip_39_word_dash_10: adult-syrup-slab-staff-tennis-alter-laundry-weapon-crater-gas
+bip_39_word_dash_11: adult-syrup-slab-staff-tennis-alter-laundry-weapon-crater-gas-help
+bip_39_word_dash_12: adult-syrup-slab-staff-tennis-alter-laundry-weapon-crater-gas-help-audit
+bip_39_word_dash_2: adult-syrup
+bip_39_word_dash_3: adult-syrup-slab
+bip_39_word_dash_4: adult-syrup-slab-staff
+bip_39_word_dash_5: adult-syrup-slab-staff-tennis
+bip_39_word_dash_6: adult-syrup-slab-staff-tennis-alter
+bip_39_word_dash_7: adult-syrup-slab-staff-tennis-alter-laundry
+bip_39_word_dash_8: adult-syrup-slab-staff-tennis-alter-laundry-weapon
+bip_39_word_dash_9: adult-syrup-slab-staff-tennis-alter-laundry-weapon-crater
 bip_39_word_new_br_1: adult
 bip_39_word_new_br_10: adult<br>syrup<br>slab<br>staff<br>tennis<br>alter<br>laundry<br>weapon<br>crater<br>gas
 bip_39_word_new_br_11: adult<br>syrup<br>slab<br>staff<br>tennis<br>alter<br>laundry<br>weapon<br>crater<br>gas<br>help
@@ -193,6 +205,18 @@ bip_39_word_space_6: adult syrup slab staff tennis alter
 bip_39_word_space_7: adult syrup slab staff tennis alter laundry
 bip_39_word_space_8: adult syrup slab staff tennis alter laundry weapon
 bip_39_word_space_9: adult syrup slab staff tennis alter laundry weapon crater
+bip_39_word_underscore_1: adult
+bip_39_word_underscore_10: adult_syrup_slab_staff_tennis_alter_laundry_weapon_crater_gas
+bip_39_word_underscore_11: adult_syrup_slab_staff_tennis_alter_laundry_weapon_crater_gas_help
+bip_39_word_underscore_12: adult_syrup_slab_staff_tennis_alter_laundry_weapon_crater_gas_help_audit
+bip_39_word_underscore_2: adult_syrup
+bip_39_word_underscore_3: adult_syrup_slab
+bip_39_word_underscore_4: adult_syrup_slab_staff
+bip_39_word_underscore_5: adult_syrup_slab_staff_tennis
+bip_39_word_underscore_6: adult_syrup_slab_staff_tennis_alter
+bip_39_word_underscore_7: adult_syrup_slab_staff_tennis_alter_laundry
+bip_39_word_underscore_8: adult_syrup_slab_staff_tennis_alter_laundry_weapon
+bip_39_word_underscore_9: adult_syrup_slab_staff_tennis_alter_laundry_weapon_crater
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

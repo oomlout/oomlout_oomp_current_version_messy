@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dynamic
+bip_39_word_dash_10: dynamic-hover-inflict-destroy-clay-lesson-tackle-offer-either-canyon
+bip_39_word_dash_11: dynamic-hover-inflict-destroy-clay-lesson-tackle-offer-either-canyon-stove
+bip_39_word_dash_12: dynamic-hover-inflict-destroy-clay-lesson-tackle-offer-either-canyon-stove-asset
+bip_39_word_dash_2: dynamic-hover
+bip_39_word_dash_3: dynamic-hover-inflict
+bip_39_word_dash_4: dynamic-hover-inflict-destroy
+bip_39_word_dash_5: dynamic-hover-inflict-destroy-clay
+bip_39_word_dash_6: dynamic-hover-inflict-destroy-clay-lesson
+bip_39_word_dash_7: dynamic-hover-inflict-destroy-clay-lesson-tackle
+bip_39_word_dash_8: dynamic-hover-inflict-destroy-clay-lesson-tackle-offer
+bip_39_word_dash_9: dynamic-hover-inflict-destroy-clay-lesson-tackle-offer-either
 bip_39_word_new_br_1: dynamic
 bip_39_word_new_br_10: dynamic<br>hover<br>inflict<br>destroy<br>clay<br>lesson<br>tackle<br>offer<br>either<br>canyon
 bip_39_word_new_br_11: dynamic<br>hover<br>inflict<br>destroy<br>clay<br>lesson<br>tackle<br>offer<br>either<br>canyon<br>stove
@@ -194,6 +206,18 @@ bip_39_word_space_6: dynamic hover inflict destroy clay lesson
 bip_39_word_space_7: dynamic hover inflict destroy clay lesson tackle
 bip_39_word_space_8: dynamic hover inflict destroy clay lesson tackle offer
 bip_39_word_space_9: dynamic hover inflict destroy clay lesson tackle offer either
+bip_39_word_underscore_1: dynamic
+bip_39_word_underscore_10: dynamic_hover_inflict_destroy_clay_lesson_tackle_offer_either_canyon
+bip_39_word_underscore_11: dynamic_hover_inflict_destroy_clay_lesson_tackle_offer_either_canyon_stove
+bip_39_word_underscore_12: dynamic_hover_inflict_destroy_clay_lesson_tackle_offer_either_canyon_stove_asset
+bip_39_word_underscore_2: dynamic_hover
+bip_39_word_underscore_3: dynamic_hover_inflict
+bip_39_word_underscore_4: dynamic_hover_inflict_destroy
+bip_39_word_underscore_5: dynamic_hover_inflict_destroy_clay
+bip_39_word_underscore_6: dynamic_hover_inflict_destroy_clay_lesson
+bip_39_word_underscore_7: dynamic_hover_inflict_destroy_clay_lesson_tackle
+bip_39_word_underscore_8: dynamic_hover_inflict_destroy_clay_lesson_tackle_offer
+bip_39_word_underscore_9: dynamic_hover_inflict_destroy_clay_lesson_tackle_offer_either
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

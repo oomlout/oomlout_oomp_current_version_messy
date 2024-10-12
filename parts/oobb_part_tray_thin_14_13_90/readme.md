@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soccer |  
+| bip_39_word_dash_10 | soccer-fame-silk-ski-drastic-fatigue-ginger-walnut-hotel-outdoor |  
+| bip_39_word_dash_11 | soccer-fame-silk-ski-drastic-fatigue-ginger-walnut-hotel-outdoor-hedgehog |  
+| bip_39_word_dash_12 | soccer-fame-silk-ski-drastic-fatigue-ginger-walnut-hotel-outdoor-hedgehog-arrow |  
+| bip_39_word_dash_2 | soccer-fame |  
+| bip_39_word_dash_3 | soccer-fame-silk |  
+| bip_39_word_dash_4 | soccer-fame-silk-ski |  
+| bip_39_word_dash_5 | soccer-fame-silk-ski-drastic |  
+| bip_39_word_dash_6 | soccer-fame-silk-ski-drastic-fatigue |  
+| bip_39_word_dash_7 | soccer-fame-silk-ski-drastic-fatigue-ginger |  
+| bip_39_word_dash_8 | soccer-fame-silk-ski-drastic-fatigue-ginger-walnut |  
+| bip_39_word_dash_9 | soccer-fame-silk-ski-drastic-fatigue-ginger-walnut-hotel |  
 | bip_39_word_new_br_1 | soccer |  
 | bip_39_word_new_br_10 | soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut<br>hotel<br>outdoor |  
 | bip_39_word_new_br_11 | soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut<br>hotel<br>outdoor<br>hedgehog |  
@@ -147,6 +159,18 @@ hotel |
 | bip_39_word_space_7 | soccer fame silk ski drastic fatigue ginger |  
 | bip_39_word_space_8 | soccer fame silk ski drastic fatigue ginger walnut |  
 | bip_39_word_space_9 | soccer fame silk ski drastic fatigue ginger walnut hotel |  
+| bip_39_word_underscore_1 | soccer |  
+| bip_39_word_underscore_10 | soccer_fame_silk_ski_drastic_fatigue_ginger_walnut_hotel_outdoor |  
+| bip_39_word_underscore_11 | soccer_fame_silk_ski_drastic_fatigue_ginger_walnut_hotel_outdoor_hedgehog |  
+| bip_39_word_underscore_12 | soccer_fame_silk_ski_drastic_fatigue_ginger_walnut_hotel_outdoor_hedgehog_arrow |  
+| bip_39_word_underscore_2 | soccer_fame |  
+| bip_39_word_underscore_3 | soccer_fame_silk |  
+| bip_39_word_underscore_4 | soccer_fame_silk_ski |  
+| bip_39_word_underscore_5 | soccer_fame_silk_ski_drastic |  
+| bip_39_word_underscore_6 | soccer_fame_silk_ski_drastic_fatigue |  
+| bip_39_word_underscore_7 | soccer_fame_silk_ski_drastic_fatigue_ginger |  
+| bip_39_word_underscore_8 | soccer_fame_silk_ski_drastic_fatigue_ginger_walnut |  
+| bip_39_word_underscore_9 | soccer_fame_silk_ski_drastic_fatigue_ginger_walnut_hotel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

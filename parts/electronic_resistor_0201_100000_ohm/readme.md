@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | marble |  
+| bip_39_word_dash_10 | marble-spatial-protect-pair-visit-theme-pill-wear-priority-such |  
+| bip_39_word_dash_11 | marble-spatial-protect-pair-visit-theme-pill-wear-priority-such-camera |  
+| bip_39_word_dash_12 | marble-spatial-protect-pair-visit-theme-pill-wear-priority-such-camera-action |  
+| bip_39_word_dash_2 | marble-spatial |  
+| bip_39_word_dash_3 | marble-spatial-protect |  
+| bip_39_word_dash_4 | marble-spatial-protect-pair |  
+| bip_39_word_dash_5 | marble-spatial-protect-pair-visit |  
+| bip_39_word_dash_6 | marble-spatial-protect-pair-visit-theme |  
+| bip_39_word_dash_7 | marble-spatial-protect-pair-visit-theme-pill |  
+| bip_39_word_dash_8 | marble-spatial-protect-pair-visit-theme-pill-wear |  
+| bip_39_word_dash_9 | marble-spatial-protect-pair-visit-theme-pill-wear-priority |  
 | bip_39_word_new_br_1 | marble |  
 | bip_39_word_new_br_10 | marble<br>spatial<br>protect<br>pair<br>visit<br>theme<br>pill<br>wear<br>priority<br>such |  
 | bip_39_word_new_br_11 | marble<br>spatial<br>protect<br>pair<br>visit<br>theme<br>pill<br>wear<br>priority<br>such<br>camera |  
@@ -147,6 +159,18 @@ priority |
 | bip_39_word_space_7 | marble spatial protect pair visit theme pill |  
 | bip_39_word_space_8 | marble spatial protect pair visit theme pill wear |  
 | bip_39_word_space_9 | marble spatial protect pair visit theme pill wear priority |  
+| bip_39_word_underscore_1 | marble |  
+| bip_39_word_underscore_10 | marble_spatial_protect_pair_visit_theme_pill_wear_priority_such |  
+| bip_39_word_underscore_11 | marble_spatial_protect_pair_visit_theme_pill_wear_priority_such_camera |  
+| bip_39_word_underscore_12 | marble_spatial_protect_pair_visit_theme_pill_wear_priority_such_camera_action |  
+| bip_39_word_underscore_2 | marble_spatial |  
+| bip_39_word_underscore_3 | marble_spatial_protect |  
+| bip_39_word_underscore_4 | marble_spatial_protect_pair |  
+| bip_39_word_underscore_5 | marble_spatial_protect_pair_visit |  
+| bip_39_word_underscore_6 | marble_spatial_protect_pair_visit_theme |  
+| bip_39_word_underscore_7 | marble_spatial_protect_pair_visit_theme_pill |  
+| bip_39_word_underscore_8 | marble_spatial_protect_pair_visit_theme_pill_wear |  
+| bip_39_word_underscore_9 | marble_spatial_protect_pair_visit_theme_pill_wear_priority |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

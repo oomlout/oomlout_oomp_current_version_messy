@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ocean
+bip_39_word_dash_10: ocean-dress-machine-potato-scatter-upper-mistake-glimpse-coin-wool
+bip_39_word_dash_11: ocean-dress-machine-potato-scatter-upper-mistake-glimpse-coin-wool-space
+bip_39_word_dash_12: ocean-dress-machine-potato-scatter-upper-mistake-glimpse-coin-wool-space-admit
+bip_39_word_dash_2: ocean-dress
+bip_39_word_dash_3: ocean-dress-machine
+bip_39_word_dash_4: ocean-dress-machine-potato
+bip_39_word_dash_5: ocean-dress-machine-potato-scatter
+bip_39_word_dash_6: ocean-dress-machine-potato-scatter-upper
+bip_39_word_dash_7: ocean-dress-machine-potato-scatter-upper-mistake
+bip_39_word_dash_8: ocean-dress-machine-potato-scatter-upper-mistake-glimpse
+bip_39_word_dash_9: ocean-dress-machine-potato-scatter-upper-mistake-glimpse-coin
 bip_39_word_new_br_1: ocean
 bip_39_word_new_br_10: ocean<br>dress<br>machine<br>potato<br>scatter<br>upper<br>mistake<br>glimpse<br>coin<br>wool
 bip_39_word_new_br_11: ocean<br>dress<br>machine<br>potato<br>scatter<br>upper<br>mistake<br>glimpse<br>coin<br>wool<br>space
@@ -194,6 +206,18 @@ bip_39_word_space_6: ocean dress machine potato scatter upper
 bip_39_word_space_7: ocean dress machine potato scatter upper mistake
 bip_39_word_space_8: ocean dress machine potato scatter upper mistake glimpse
 bip_39_word_space_9: ocean dress machine potato scatter upper mistake glimpse coin
+bip_39_word_underscore_1: ocean
+bip_39_word_underscore_10: ocean_dress_machine_potato_scatter_upper_mistake_glimpse_coin_wool
+bip_39_word_underscore_11: ocean_dress_machine_potato_scatter_upper_mistake_glimpse_coin_wool_space
+bip_39_word_underscore_12: ocean_dress_machine_potato_scatter_upper_mistake_glimpse_coin_wool_space_admit
+bip_39_word_underscore_2: ocean_dress
+bip_39_word_underscore_3: ocean_dress_machine
+bip_39_word_underscore_4: ocean_dress_machine_potato
+bip_39_word_underscore_5: ocean_dress_machine_potato_scatter
+bip_39_word_underscore_6: ocean_dress_machine_potato_scatter_upper
+bip_39_word_underscore_7: ocean_dress_machine_potato_scatter_upper_mistake
+bip_39_word_underscore_8: ocean_dress_machine_potato_scatter_upper_mistake_glimpse
+bip_39_word_underscore_9: ocean_dress_machine_potato_scatter_upper_mistake_glimpse_coin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kiss |  
+| bip_39_word_dash_10 | kiss-settle-truly-case-topic-inner-forget-prison-skill-planet |  
+| bip_39_word_dash_11 | kiss-settle-truly-case-topic-inner-forget-prison-skill-planet-wool |  
+| bip_39_word_dash_12 | kiss-settle-truly-case-topic-inner-forget-prison-skill-planet-wool-atom |  
+| bip_39_word_dash_2 | kiss-settle |  
+| bip_39_word_dash_3 | kiss-settle-truly |  
+| bip_39_word_dash_4 | kiss-settle-truly-case |  
+| bip_39_word_dash_5 | kiss-settle-truly-case-topic |  
+| bip_39_word_dash_6 | kiss-settle-truly-case-topic-inner |  
+| bip_39_word_dash_7 | kiss-settle-truly-case-topic-inner-forget |  
+| bip_39_word_dash_8 | kiss-settle-truly-case-topic-inner-forget-prison |  
+| bip_39_word_dash_9 | kiss-settle-truly-case-topic-inner-forget-prison-skill |  
 | bip_39_word_new_br_1 | kiss |  
 | bip_39_word_new_br_10 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison<br>skill<br>planet |  
 | bip_39_word_new_br_11 | kiss<br>settle<br>truly<br>case<br>topic<br>inner<br>forget<br>prison<br>skill<br>planet<br>wool |  
@@ -147,6 +159,18 @@ skill |
 | bip_39_word_space_7 | kiss settle truly case topic inner forget |  
 | bip_39_word_space_8 | kiss settle truly case topic inner forget prison |  
 | bip_39_word_space_9 | kiss settle truly case topic inner forget prison skill |  
+| bip_39_word_underscore_1 | kiss |  
+| bip_39_word_underscore_10 | kiss_settle_truly_case_topic_inner_forget_prison_skill_planet |  
+| bip_39_word_underscore_11 | kiss_settle_truly_case_topic_inner_forget_prison_skill_planet_wool |  
+| bip_39_word_underscore_12 | kiss_settle_truly_case_topic_inner_forget_prison_skill_planet_wool_atom |  
+| bip_39_word_underscore_2 | kiss_settle |  
+| bip_39_word_underscore_3 | kiss_settle_truly |  
+| bip_39_word_underscore_4 | kiss_settle_truly_case |  
+| bip_39_word_underscore_5 | kiss_settle_truly_case_topic |  
+| bip_39_word_underscore_6 | kiss_settle_truly_case_topic_inner |  
+| bip_39_word_underscore_7 | kiss_settle_truly_case_topic_inner_forget |  
+| bip_39_word_underscore_8 | kiss_settle_truly_case_topic_inner_forget_prison |  
+| bip_39_word_underscore_9 | kiss_settle_truly_case_topic_inner_forget_prison_skill |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

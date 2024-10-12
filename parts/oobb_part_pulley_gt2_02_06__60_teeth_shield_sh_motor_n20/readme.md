@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | present |  
+| bip_39_word_dash_10 | present-bulk-science-elder-parent-pretty-night-hedgehog-leisure-bar |  
+| bip_39_word_dash_11 | present-bulk-science-elder-parent-pretty-night-hedgehog-leisure-bar-upgrade |  
+| bip_39_word_dash_12 | present-bulk-science-elder-parent-pretty-night-hedgehog-leisure-bar-upgrade-antenna |  
+| bip_39_word_dash_2 | present-bulk |  
+| bip_39_word_dash_3 | present-bulk-science |  
+| bip_39_word_dash_4 | present-bulk-science-elder |  
+| bip_39_word_dash_5 | present-bulk-science-elder-parent |  
+| bip_39_word_dash_6 | present-bulk-science-elder-parent-pretty |  
+| bip_39_word_dash_7 | present-bulk-science-elder-parent-pretty-night |  
+| bip_39_word_dash_8 | present-bulk-science-elder-parent-pretty-night-hedgehog |  
+| bip_39_word_dash_9 | present-bulk-science-elder-parent-pretty-night-hedgehog-leisure |  
 | bip_39_word_new_br_1 | present |  
 | bip_39_word_new_br_10 | present<br>bulk<br>science<br>elder<br>parent<br>pretty<br>night<br>hedgehog<br>leisure<br>bar |  
 | bip_39_word_new_br_11 | present<br>bulk<br>science<br>elder<br>parent<br>pretty<br>night<br>hedgehog<br>leisure<br>bar<br>upgrade |  
@@ -147,6 +159,18 @@ leisure |
 | bip_39_word_space_7 | present bulk science elder parent pretty night |  
 | bip_39_word_space_8 | present bulk science elder parent pretty night hedgehog |  
 | bip_39_word_space_9 | present bulk science elder parent pretty night hedgehog leisure |  
+| bip_39_word_underscore_1 | present |  
+| bip_39_word_underscore_10 | present_bulk_science_elder_parent_pretty_night_hedgehog_leisure_bar |  
+| bip_39_word_underscore_11 | present_bulk_science_elder_parent_pretty_night_hedgehog_leisure_bar_upgrade |  
+| bip_39_word_underscore_12 | present_bulk_science_elder_parent_pretty_night_hedgehog_leisure_bar_upgrade_antenna |  
+| bip_39_word_underscore_2 | present_bulk |  
+| bip_39_word_underscore_3 | present_bulk_science |  
+| bip_39_word_underscore_4 | present_bulk_science_elder |  
+| bip_39_word_underscore_5 | present_bulk_science_elder_parent |  
+| bip_39_word_underscore_6 | present_bulk_science_elder_parent_pretty |  
+| bip_39_word_underscore_7 | present_bulk_science_elder_parent_pretty_night |  
+| bip_39_word_underscore_8 | present_bulk_science_elder_parent_pretty_night_hedgehog |  
+| bip_39_word_underscore_9 | present_bulk_science_elder_parent_pretty_night_hedgehog_leisure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

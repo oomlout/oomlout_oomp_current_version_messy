@@ -1,3 +1,15 @@
+bip_39_word_dash_1: day
+bip_39_word_dash_10: day-opinion-road-ahead-anger-remain-guess-often-easily-solve
+bip_39_word_dash_11: day-opinion-road-ahead-anger-remain-guess-often-easily-solve-someone
+bip_39_word_dash_12: day-opinion-road-ahead-anger-remain-guess-often-easily-solve-someone-all
+bip_39_word_dash_2: day-opinion
+bip_39_word_dash_3: day-opinion-road
+bip_39_word_dash_4: day-opinion-road-ahead
+bip_39_word_dash_5: day-opinion-road-ahead-anger
+bip_39_word_dash_6: day-opinion-road-ahead-anger-remain
+bip_39_word_dash_7: day-opinion-road-ahead-anger-remain-guess
+bip_39_word_dash_8: day-opinion-road-ahead-anger-remain-guess-often
+bip_39_word_dash_9: day-opinion-road-ahead-anger-remain-guess-often-easily
 bip_39_word_new_br_1: day
 bip_39_word_new_br_10: day<br>opinion<br>road<br>ahead<br>anger<br>remain<br>guess<br>often<br>easily<br>solve
 bip_39_word_new_br_11: day<br>opinion<br>road<br>ahead<br>anger<br>remain<br>guess<br>often<br>easily<br>solve<br>someone
@@ -193,6 +205,18 @@ bip_39_word_space_6: day opinion road ahead anger remain
 bip_39_word_space_7: day opinion road ahead anger remain guess
 bip_39_word_space_8: day opinion road ahead anger remain guess often
 bip_39_word_space_9: day opinion road ahead anger remain guess often easily
+bip_39_word_underscore_1: day
+bip_39_word_underscore_10: day_opinion_road_ahead_anger_remain_guess_often_easily_solve
+bip_39_word_underscore_11: day_opinion_road_ahead_anger_remain_guess_often_easily_solve_someone
+bip_39_word_underscore_12: day_opinion_road_ahead_anger_remain_guess_often_easily_solve_someone_all
+bip_39_word_underscore_2: day_opinion
+bip_39_word_underscore_3: day_opinion_road
+bip_39_word_underscore_4: day_opinion_road_ahead
+bip_39_word_underscore_5: day_opinion_road_ahead_anger
+bip_39_word_underscore_6: day_opinion_road_ahead_anger_remain
+bip_39_word_underscore_7: day_opinion_road_ahead_anger_remain_guess
+bip_39_word_underscore_8: day_opinion_road_ahead_anger_remain_guess_often
+bip_39_word_underscore_9: day_opinion_road_ahead_anger_remain_guess_often_easily
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

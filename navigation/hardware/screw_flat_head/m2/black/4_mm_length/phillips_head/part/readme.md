@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loop |  
+| bip_39_word_dash_10 | loop-six-tumble-electric-suspect-neglect-fiction-exclude-blossom-knock |  
+| bip_39_word_dash_11 | loop-six-tumble-electric-suspect-neglect-fiction-exclude-blossom-knock-vacuum |  
+| bip_39_word_dash_12 | loop-six-tumble-electric-suspect-neglect-fiction-exclude-blossom-knock-vacuum-angry |  
+| bip_39_word_dash_2 | loop-six |  
+| bip_39_word_dash_3 | loop-six-tumble |  
+| bip_39_word_dash_4 | loop-six-tumble-electric |  
+| bip_39_word_dash_5 | loop-six-tumble-electric-suspect |  
+| bip_39_word_dash_6 | loop-six-tumble-electric-suspect-neglect |  
+| bip_39_word_dash_7 | loop-six-tumble-electric-suspect-neglect-fiction |  
+| bip_39_word_dash_8 | loop-six-tumble-electric-suspect-neglect-fiction-exclude |  
+| bip_39_word_dash_9 | loop-six-tumble-electric-suspect-neglect-fiction-exclude-blossom |  
 | bip_39_word_new_br_1 | loop |  
 | bip_39_word_new_br_10 | loop<br>six<br>tumble<br>electric<br>suspect<br>neglect<br>fiction<br>exclude<br>blossom<br>knock |  
 | bip_39_word_new_br_11 | loop<br>six<br>tumble<br>electric<br>suspect<br>neglect<br>fiction<br>exclude<br>blossom<br>knock<br>vacuum |  
@@ -147,6 +159,18 @@ blossom |
 | bip_39_word_space_7 | loop six tumble electric suspect neglect fiction |  
 | bip_39_word_space_8 | loop six tumble electric suspect neglect fiction exclude |  
 | bip_39_word_space_9 | loop six tumble electric suspect neglect fiction exclude blossom |  
+| bip_39_word_underscore_1 | loop |  
+| bip_39_word_underscore_10 | loop_six_tumble_electric_suspect_neglect_fiction_exclude_blossom_knock |  
+| bip_39_word_underscore_11 | loop_six_tumble_electric_suspect_neglect_fiction_exclude_blossom_knock_vacuum |  
+| bip_39_word_underscore_12 | loop_six_tumble_electric_suspect_neglect_fiction_exclude_blossom_knock_vacuum_angry |  
+| bip_39_word_underscore_2 | loop_six |  
+| bip_39_word_underscore_3 | loop_six_tumble |  
+| bip_39_word_underscore_4 | loop_six_tumble_electric |  
+| bip_39_word_underscore_5 | loop_six_tumble_electric_suspect |  
+| bip_39_word_underscore_6 | loop_six_tumble_electric_suspect_neglect |  
+| bip_39_word_underscore_7 | loop_six_tumble_electric_suspect_neglect_fiction |  
+| bip_39_word_underscore_8 | loop_six_tumble_electric_suspect_neglect_fiction_exclude |  
+| bip_39_word_underscore_9 | loop_six_tumble_electric_suspect_neglect_fiction_exclude_blossom |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

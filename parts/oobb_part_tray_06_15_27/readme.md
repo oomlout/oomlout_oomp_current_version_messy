@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decade |  
+| bip_39_word_dash_10 | decade-shoulder-arena-avoid-team-fiction-setup-panther-help-february |  
+| bip_39_word_dash_11 | decade-shoulder-arena-avoid-team-fiction-setup-panther-help-february-wire |  
+| bip_39_word_dash_12 | decade-shoulder-arena-avoid-team-fiction-setup-panther-help-february-wire-assist |  
+| bip_39_word_dash_2 | decade-shoulder |  
+| bip_39_word_dash_3 | decade-shoulder-arena |  
+| bip_39_word_dash_4 | decade-shoulder-arena-avoid |  
+| bip_39_word_dash_5 | decade-shoulder-arena-avoid-team |  
+| bip_39_word_dash_6 | decade-shoulder-arena-avoid-team-fiction |  
+| bip_39_word_dash_7 | decade-shoulder-arena-avoid-team-fiction-setup |  
+| bip_39_word_dash_8 | decade-shoulder-arena-avoid-team-fiction-setup-panther |  
+| bip_39_word_dash_9 | decade-shoulder-arena-avoid-team-fiction-setup-panther-help |  
 | bip_39_word_new_br_1 | decade |  
 | bip_39_word_new_br_10 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther<br>help<br>february |  
 | bip_39_word_new_br_11 | decade<br>shoulder<br>arena<br>avoid<br>team<br>fiction<br>setup<br>panther<br>help<br>february<br>wire |  
@@ -147,6 +159,18 @@ help |
 | bip_39_word_space_7 | decade shoulder arena avoid team fiction setup |  
 | bip_39_word_space_8 | decade shoulder arena avoid team fiction setup panther |  
 | bip_39_word_space_9 | decade shoulder arena avoid team fiction setup panther help |  
+| bip_39_word_underscore_1 | decade |  
+| bip_39_word_underscore_10 | decade_shoulder_arena_avoid_team_fiction_setup_panther_help_february |  
+| bip_39_word_underscore_11 | decade_shoulder_arena_avoid_team_fiction_setup_panther_help_february_wire |  
+| bip_39_word_underscore_12 | decade_shoulder_arena_avoid_team_fiction_setup_panther_help_february_wire_assist |  
+| bip_39_word_underscore_2 | decade_shoulder |  
+| bip_39_word_underscore_3 | decade_shoulder_arena |  
+| bip_39_word_underscore_4 | decade_shoulder_arena_avoid |  
+| bip_39_word_underscore_5 | decade_shoulder_arena_avoid_team |  
+| bip_39_word_underscore_6 | decade_shoulder_arena_avoid_team_fiction |  
+| bip_39_word_underscore_7 | decade_shoulder_arena_avoid_team_fiction_setup |  
+| bip_39_word_underscore_8 | decade_shoulder_arena_avoid_team_fiction_setup_panther |  
+| bip_39_word_underscore_9 | decade_shoulder_arena_avoid_team_fiction_setup_panther_help |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

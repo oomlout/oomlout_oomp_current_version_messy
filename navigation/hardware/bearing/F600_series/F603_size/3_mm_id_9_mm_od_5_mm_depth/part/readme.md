@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | render |  
+| bip_39_word_dash_10 | render-beyond-marriage-online-little-roof-innocent-ladder-pen-pass |  
+| bip_39_word_dash_11 | render-beyond-marriage-online-little-roof-innocent-ladder-pen-pass-virus |  
+| bip_39_word_dash_12 | render-beyond-marriage-online-little-roof-innocent-ladder-pen-pass-virus-answer |  
+| bip_39_word_dash_2 | render-beyond |  
+| bip_39_word_dash_3 | render-beyond-marriage |  
+| bip_39_word_dash_4 | render-beyond-marriage-online |  
+| bip_39_word_dash_5 | render-beyond-marriage-online-little |  
+| bip_39_word_dash_6 | render-beyond-marriage-online-little-roof |  
+| bip_39_word_dash_7 | render-beyond-marriage-online-little-roof-innocent |  
+| bip_39_word_dash_8 | render-beyond-marriage-online-little-roof-innocent-ladder |  
+| bip_39_word_dash_9 | render-beyond-marriage-online-little-roof-innocent-ladder-pen |  
 | bip_39_word_new_br_1 | render |  
 | bip_39_word_new_br_10 | render<br>beyond<br>marriage<br>online<br>little<br>roof<br>innocent<br>ladder<br>pen<br>pass |  
 | bip_39_word_new_br_11 | render<br>beyond<br>marriage<br>online<br>little<br>roof<br>innocent<br>ladder<br>pen<br>pass<br>virus |  
@@ -147,6 +159,18 @@ pen |
 | bip_39_word_space_7 | render beyond marriage online little roof innocent |  
 | bip_39_word_space_8 | render beyond marriage online little roof innocent ladder |  
 | bip_39_word_space_9 | render beyond marriage online little roof innocent ladder pen |  
+| bip_39_word_underscore_1 | render |  
+| bip_39_word_underscore_10 | render_beyond_marriage_online_little_roof_innocent_ladder_pen_pass |  
+| bip_39_word_underscore_11 | render_beyond_marriage_online_little_roof_innocent_ladder_pen_pass_virus |  
+| bip_39_word_underscore_12 | render_beyond_marriage_online_little_roof_innocent_ladder_pen_pass_virus_answer |  
+| bip_39_word_underscore_2 | render_beyond |  
+| bip_39_word_underscore_3 | render_beyond_marriage |  
+| bip_39_word_underscore_4 | render_beyond_marriage_online |  
+| bip_39_word_underscore_5 | render_beyond_marriage_online_little |  
+| bip_39_word_underscore_6 | render_beyond_marriage_online_little_roof |  
+| bip_39_word_underscore_7 | render_beyond_marriage_online_little_roof_innocent |  
+| bip_39_word_underscore_8 | render_beyond_marriage_online_little_roof_innocent_ladder |  
+| bip_39_word_underscore_9 | render_beyond_marriage_online_little_roof_innocent_ladder_pen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

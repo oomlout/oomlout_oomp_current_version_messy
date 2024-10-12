@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | direct |  
+| bip_39_word_dash_10 | direct-maple-donate-noble-cloud-stove-shoe-flag-vibrant-solution |  
+| bip_39_word_dash_11 | direct-maple-donate-noble-cloud-stove-shoe-flag-vibrant-solution-wool |  
+| bip_39_word_dash_12 | direct-maple-donate-noble-cloud-stove-shoe-flag-vibrant-solution-wool-alert |  
+| bip_39_word_dash_2 | direct-maple |  
+| bip_39_word_dash_3 | direct-maple-donate |  
+| bip_39_word_dash_4 | direct-maple-donate-noble |  
+| bip_39_word_dash_5 | direct-maple-donate-noble-cloud |  
+| bip_39_word_dash_6 | direct-maple-donate-noble-cloud-stove |  
+| bip_39_word_dash_7 | direct-maple-donate-noble-cloud-stove-shoe |  
+| bip_39_word_dash_8 | direct-maple-donate-noble-cloud-stove-shoe-flag |  
+| bip_39_word_dash_9 | direct-maple-donate-noble-cloud-stove-shoe-flag-vibrant |  
 | bip_39_word_new_br_1 | direct |  
 | bip_39_word_new_br_10 | direct<br>maple<br>donate<br>noble<br>cloud<br>stove<br>shoe<br>flag<br>vibrant<br>solution |  
 | bip_39_word_new_br_11 | direct<br>maple<br>donate<br>noble<br>cloud<br>stove<br>shoe<br>flag<br>vibrant<br>solution<br>wool |  
@@ -147,6 +159,18 @@ vibrant |
 | bip_39_word_space_7 | direct maple donate noble cloud stove shoe |  
 | bip_39_word_space_8 | direct maple donate noble cloud stove shoe flag |  
 | bip_39_word_space_9 | direct maple donate noble cloud stove shoe flag vibrant |  
+| bip_39_word_underscore_1 | direct |  
+| bip_39_word_underscore_10 | direct_maple_donate_noble_cloud_stove_shoe_flag_vibrant_solution |  
+| bip_39_word_underscore_11 | direct_maple_donate_noble_cloud_stove_shoe_flag_vibrant_solution_wool |  
+| bip_39_word_underscore_12 | direct_maple_donate_noble_cloud_stove_shoe_flag_vibrant_solution_wool_alert |  
+| bip_39_word_underscore_2 | direct_maple |  
+| bip_39_word_underscore_3 | direct_maple_donate |  
+| bip_39_word_underscore_4 | direct_maple_donate_noble |  
+| bip_39_word_underscore_5 | direct_maple_donate_noble_cloud |  
+| bip_39_word_underscore_6 | direct_maple_donate_noble_cloud_stove |  
+| bip_39_word_underscore_7 | direct_maple_donate_noble_cloud_stove_shoe |  
+| bip_39_word_underscore_8 | direct_maple_donate_noble_cloud_stove_shoe_flag |  
+| bip_39_word_underscore_9 | direct_maple_donate_noble_cloud_stove_shoe_flag_vibrant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

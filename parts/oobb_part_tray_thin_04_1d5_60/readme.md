@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hobby |  
+| bip_39_word_dash_10 | hobby-leader-today-fix-perfect-cycle-olive-actual-hint-below |  
+| bip_39_word_dash_11 | hobby-leader-today-fix-perfect-cycle-olive-actual-hint-below-foster |  
+| bip_39_word_dash_12 | hobby-leader-today-fix-perfect-cycle-olive-actual-hint-below-foster-actual |  
+| bip_39_word_dash_2 | hobby-leader |  
+| bip_39_word_dash_3 | hobby-leader-today |  
+| bip_39_word_dash_4 | hobby-leader-today-fix |  
+| bip_39_word_dash_5 | hobby-leader-today-fix-perfect |  
+| bip_39_word_dash_6 | hobby-leader-today-fix-perfect-cycle |  
+| bip_39_word_dash_7 | hobby-leader-today-fix-perfect-cycle-olive |  
+| bip_39_word_dash_8 | hobby-leader-today-fix-perfect-cycle-olive-actual |  
+| bip_39_word_dash_9 | hobby-leader-today-fix-perfect-cycle-olive-actual-hint |  
 | bip_39_word_new_br_1 | hobby |  
 | bip_39_word_new_br_10 | hobby<br>leader<br>today<br>fix<br>perfect<br>cycle<br>olive<br>actual<br>hint<br>below |  
 | bip_39_word_new_br_11 | hobby<br>leader<br>today<br>fix<br>perfect<br>cycle<br>olive<br>actual<br>hint<br>below<br>foster |  
@@ -147,6 +159,18 @@ hint |
 | bip_39_word_space_7 | hobby leader today fix perfect cycle olive |  
 | bip_39_word_space_8 | hobby leader today fix perfect cycle olive actual |  
 | bip_39_word_space_9 | hobby leader today fix perfect cycle olive actual hint |  
+| bip_39_word_underscore_1 | hobby |  
+| bip_39_word_underscore_10 | hobby_leader_today_fix_perfect_cycle_olive_actual_hint_below |  
+| bip_39_word_underscore_11 | hobby_leader_today_fix_perfect_cycle_olive_actual_hint_below_foster |  
+| bip_39_word_underscore_12 | hobby_leader_today_fix_perfect_cycle_olive_actual_hint_below_foster_actual |  
+| bip_39_word_underscore_2 | hobby_leader |  
+| bip_39_word_underscore_3 | hobby_leader_today |  
+| bip_39_word_underscore_4 | hobby_leader_today_fix |  
+| bip_39_word_underscore_5 | hobby_leader_today_fix_perfect |  
+| bip_39_word_underscore_6 | hobby_leader_today_fix_perfect_cycle |  
+| bip_39_word_underscore_7 | hobby_leader_today_fix_perfect_cycle_olive |  
+| bip_39_word_underscore_8 | hobby_leader_today_fix_perfect_cycle_olive_actual |  
+| bip_39_word_underscore_9 | hobby_leader_today_fix_perfect_cycle_olive_actual_hint |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

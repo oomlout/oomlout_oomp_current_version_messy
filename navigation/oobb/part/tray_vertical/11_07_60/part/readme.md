@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | express |  
+| bip_39_word_dash_10 | express-veteran-cactus-sorry-foam-impulse-detect-riot-few-wink |  
+| bip_39_word_dash_11 | express-veteran-cactus-sorry-foam-impulse-detect-riot-few-wink-rebuild |  
+| bip_39_word_dash_12 | express-veteran-cactus-sorry-foam-impulse-detect-riot-few-wink-rebuild-act |  
+| bip_39_word_dash_2 | express-veteran |  
+| bip_39_word_dash_3 | express-veteran-cactus |  
+| bip_39_word_dash_4 | express-veteran-cactus-sorry |  
+| bip_39_word_dash_5 | express-veteran-cactus-sorry-foam |  
+| bip_39_word_dash_6 | express-veteran-cactus-sorry-foam-impulse |  
+| bip_39_word_dash_7 | express-veteran-cactus-sorry-foam-impulse-detect |  
+| bip_39_word_dash_8 | express-veteran-cactus-sorry-foam-impulse-detect-riot |  
+| bip_39_word_dash_9 | express-veteran-cactus-sorry-foam-impulse-detect-riot-few |  
 | bip_39_word_new_br_1 | express |  
 | bip_39_word_new_br_10 | express<br>veteran<br>cactus<br>sorry<br>foam<br>impulse<br>detect<br>riot<br>few<br>wink |  
 | bip_39_word_new_br_11 | express<br>veteran<br>cactus<br>sorry<br>foam<br>impulse<br>detect<br>riot<br>few<br>wink<br>rebuild |  
@@ -147,6 +159,18 @@ few |
 | bip_39_word_space_7 | express veteran cactus sorry foam impulse detect |  
 | bip_39_word_space_8 | express veteran cactus sorry foam impulse detect riot |  
 | bip_39_word_space_9 | express veteran cactus sorry foam impulse detect riot few |  
+| bip_39_word_underscore_1 | express |  
+| bip_39_word_underscore_10 | express_veteran_cactus_sorry_foam_impulse_detect_riot_few_wink |  
+| bip_39_word_underscore_11 | express_veteran_cactus_sorry_foam_impulse_detect_riot_few_wink_rebuild |  
+| bip_39_word_underscore_12 | express_veteran_cactus_sorry_foam_impulse_detect_riot_few_wink_rebuild_act |  
+| bip_39_word_underscore_2 | express_veteran |  
+| bip_39_word_underscore_3 | express_veteran_cactus |  
+| bip_39_word_underscore_4 | express_veteran_cactus_sorry |  
+| bip_39_word_underscore_5 | express_veteran_cactus_sorry_foam |  
+| bip_39_word_underscore_6 | express_veteran_cactus_sorry_foam_impulse |  
+| bip_39_word_underscore_7 | express_veteran_cactus_sorry_foam_impulse_detect |  
+| bip_39_word_underscore_8 | express_veteran_cactus_sorry_foam_impulse_detect_riot |  
+| bip_39_word_underscore_9 | express_veteran_cactus_sorry_foam_impulse_detect_riot_few |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

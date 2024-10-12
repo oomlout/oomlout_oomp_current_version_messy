@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unknown
+bip_39_word_dash_10: unknown-draft-mean-method-drum-siren-bronze-chest-lady-wasp
+bip_39_word_dash_11: unknown-draft-mean-method-drum-siren-bronze-chest-lady-wasp-female
+bip_39_word_dash_12: unknown-draft-mean-method-drum-siren-bronze-chest-lady-wasp-female-affair
+bip_39_word_dash_2: unknown-draft
+bip_39_word_dash_3: unknown-draft-mean
+bip_39_word_dash_4: unknown-draft-mean-method
+bip_39_word_dash_5: unknown-draft-mean-method-drum
+bip_39_word_dash_6: unknown-draft-mean-method-drum-siren
+bip_39_word_dash_7: unknown-draft-mean-method-drum-siren-bronze
+bip_39_word_dash_8: unknown-draft-mean-method-drum-siren-bronze-chest
+bip_39_word_dash_9: unknown-draft-mean-method-drum-siren-bronze-chest-lady
 bip_39_word_new_br_1: unknown
 bip_39_word_new_br_10: unknown<br>draft<br>mean<br>method<br>drum<br>siren<br>bronze<br>chest<br>lady<br>wasp
 bip_39_word_new_br_11: unknown<br>draft<br>mean<br>method<br>drum<br>siren<br>bronze<br>chest<br>lady<br>wasp<br>female
@@ -193,6 +205,18 @@ bip_39_word_space_6: unknown draft mean method drum siren
 bip_39_word_space_7: unknown draft mean method drum siren bronze
 bip_39_word_space_8: unknown draft mean method drum siren bronze chest
 bip_39_word_space_9: unknown draft mean method drum siren bronze chest lady
+bip_39_word_underscore_1: unknown
+bip_39_word_underscore_10: unknown_draft_mean_method_drum_siren_bronze_chest_lady_wasp
+bip_39_word_underscore_11: unknown_draft_mean_method_drum_siren_bronze_chest_lady_wasp_female
+bip_39_word_underscore_12: unknown_draft_mean_method_drum_siren_bronze_chest_lady_wasp_female_affair
+bip_39_word_underscore_2: unknown_draft
+bip_39_word_underscore_3: unknown_draft_mean
+bip_39_word_underscore_4: unknown_draft_mean_method
+bip_39_word_underscore_5: unknown_draft_mean_method_drum
+bip_39_word_underscore_6: unknown_draft_mean_method_drum_siren
+bip_39_word_underscore_7: unknown_draft_mean_method_drum_siren_bronze
+bip_39_word_underscore_8: unknown_draft_mean_method_drum_siren_bronze_chest
+bip_39_word_underscore_9: unknown_draft_mean_method_drum_siren_bronze_chest_lady
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

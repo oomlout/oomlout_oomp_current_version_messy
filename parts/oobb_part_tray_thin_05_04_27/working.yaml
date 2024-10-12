@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rocket
+bip_39_word_dash_10: rocket-ship-ladder-rain-ranch-glove-spread-yellow-spawn-reopen
+bip_39_word_dash_11: rocket-ship-ladder-rain-ranch-glove-spread-yellow-spawn-reopen-quarter
+bip_39_word_dash_12: rocket-ship-ladder-rain-ranch-glove-spread-yellow-spawn-reopen-quarter-attend
+bip_39_word_dash_2: rocket-ship
+bip_39_word_dash_3: rocket-ship-ladder
+bip_39_word_dash_4: rocket-ship-ladder-rain
+bip_39_word_dash_5: rocket-ship-ladder-rain-ranch
+bip_39_word_dash_6: rocket-ship-ladder-rain-ranch-glove
+bip_39_word_dash_7: rocket-ship-ladder-rain-ranch-glove-spread
+bip_39_word_dash_8: rocket-ship-ladder-rain-ranch-glove-spread-yellow
+bip_39_word_dash_9: rocket-ship-ladder-rain-ranch-glove-spread-yellow-spawn
 bip_39_word_new_br_1: rocket
 bip_39_word_new_br_10: rocket<br>ship<br>ladder<br>rain<br>ranch<br>glove<br>spread<br>yellow<br>spawn<br>reopen
 bip_39_word_new_br_11: rocket<br>ship<br>ladder<br>rain<br>ranch<br>glove<br>spread<br>yellow<br>spawn<br>reopen<br>quarter
@@ -193,6 +205,18 @@ bip_39_word_space_6: rocket ship ladder rain ranch glove
 bip_39_word_space_7: rocket ship ladder rain ranch glove spread
 bip_39_word_space_8: rocket ship ladder rain ranch glove spread yellow
 bip_39_word_space_9: rocket ship ladder rain ranch glove spread yellow spawn
+bip_39_word_underscore_1: rocket
+bip_39_word_underscore_10: rocket_ship_ladder_rain_ranch_glove_spread_yellow_spawn_reopen
+bip_39_word_underscore_11: rocket_ship_ladder_rain_ranch_glove_spread_yellow_spawn_reopen_quarter
+bip_39_word_underscore_12: rocket_ship_ladder_rain_ranch_glove_spread_yellow_spawn_reopen_quarter_attend
+bip_39_word_underscore_2: rocket_ship
+bip_39_word_underscore_3: rocket_ship_ladder
+bip_39_word_underscore_4: rocket_ship_ladder_rain
+bip_39_word_underscore_5: rocket_ship_ladder_rain_ranch
+bip_39_word_underscore_6: rocket_ship_ladder_rain_ranch_glove
+bip_39_word_underscore_7: rocket_ship_ladder_rain_ranch_glove_spread
+bip_39_word_underscore_8: rocket_ship_ladder_rain_ranch_glove_spread_yellow
+bip_39_word_underscore_9: rocket_ship_ladder_rain_ranch_glove_spread_yellow_spawn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

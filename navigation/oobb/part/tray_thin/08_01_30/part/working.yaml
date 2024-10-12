@@ -1,3 +1,15 @@
+bip_39_word_dash_1: web
+bip_39_word_dash_10: web-win-acoustic-will-hurry-cement-bamboo-chronic-current-celery
+bip_39_word_dash_11: web-win-acoustic-will-hurry-cement-bamboo-chronic-current-celery-ready
+bip_39_word_dash_12: web-win-acoustic-will-hurry-cement-bamboo-chronic-current-celery-ready-angry
+bip_39_word_dash_2: web-win
+bip_39_word_dash_3: web-win-acoustic
+bip_39_word_dash_4: web-win-acoustic-will
+bip_39_word_dash_5: web-win-acoustic-will-hurry
+bip_39_word_dash_6: web-win-acoustic-will-hurry-cement
+bip_39_word_dash_7: web-win-acoustic-will-hurry-cement-bamboo
+bip_39_word_dash_8: web-win-acoustic-will-hurry-cement-bamboo-chronic
+bip_39_word_dash_9: web-win-acoustic-will-hurry-cement-bamboo-chronic-current
 bip_39_word_new_br_1: web
 bip_39_word_new_br_10: web<br>win<br>acoustic<br>will<br>hurry<br>cement<br>bamboo<br>chronic<br>current<br>celery
 bip_39_word_new_br_11: web<br>win<br>acoustic<br>will<br>hurry<br>cement<br>bamboo<br>chronic<br>current<br>celery<br>ready
@@ -193,6 +205,18 @@ bip_39_word_space_6: web win acoustic will hurry cement
 bip_39_word_space_7: web win acoustic will hurry cement bamboo
 bip_39_word_space_8: web win acoustic will hurry cement bamboo chronic
 bip_39_word_space_9: web win acoustic will hurry cement bamboo chronic current
+bip_39_word_underscore_1: web
+bip_39_word_underscore_10: web_win_acoustic_will_hurry_cement_bamboo_chronic_current_celery
+bip_39_word_underscore_11: web_win_acoustic_will_hurry_cement_bamboo_chronic_current_celery_ready
+bip_39_word_underscore_12: web_win_acoustic_will_hurry_cement_bamboo_chronic_current_celery_ready_angry
+bip_39_word_underscore_2: web_win
+bip_39_word_underscore_3: web_win_acoustic
+bip_39_word_underscore_4: web_win_acoustic_will
+bip_39_word_underscore_5: web_win_acoustic_will_hurry
+bip_39_word_underscore_6: web_win_acoustic_will_hurry_cement
+bip_39_word_underscore_7: web_win_acoustic_will_hurry_cement_bamboo
+bip_39_word_underscore_8: web_win_acoustic_will_hurry_cement_bamboo_chronic
+bip_39_word_underscore_9: web_win_acoustic_will_hurry_cement_bamboo_chronic_current
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

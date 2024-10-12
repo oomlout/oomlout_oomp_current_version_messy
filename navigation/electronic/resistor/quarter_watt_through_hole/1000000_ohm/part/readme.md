@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | corn |  
+| bip_39_word_dash_10 | corn-inhale-sentence-expand-bean-recall-chimney-high-number-neither |  
+| bip_39_word_dash_11 | corn-inhale-sentence-expand-bean-recall-chimney-high-number-neither-visual |  
+| bip_39_word_dash_12 | corn-inhale-sentence-expand-bean-recall-chimney-high-number-neither-visual-asthma |  
+| bip_39_word_dash_2 | corn-inhale |  
+| bip_39_word_dash_3 | corn-inhale-sentence |  
+| bip_39_word_dash_4 | corn-inhale-sentence-expand |  
+| bip_39_word_dash_5 | corn-inhale-sentence-expand-bean |  
+| bip_39_word_dash_6 | corn-inhale-sentence-expand-bean-recall |  
+| bip_39_word_dash_7 | corn-inhale-sentence-expand-bean-recall-chimney |  
+| bip_39_word_dash_8 | corn-inhale-sentence-expand-bean-recall-chimney-high |  
+| bip_39_word_dash_9 | corn-inhale-sentence-expand-bean-recall-chimney-high-number |  
 | bip_39_word_new_br_1 | corn |  
 | bip_39_word_new_br_10 | corn<br>inhale<br>sentence<br>expand<br>bean<br>recall<br>chimney<br>high<br>number<br>neither |  
 | bip_39_word_new_br_11 | corn<br>inhale<br>sentence<br>expand<br>bean<br>recall<br>chimney<br>high<br>number<br>neither<br>visual |  
@@ -147,6 +159,18 @@ number |
 | bip_39_word_space_7 | corn inhale sentence expand bean recall chimney |  
 | bip_39_word_space_8 | corn inhale sentence expand bean recall chimney high |  
 | bip_39_word_space_9 | corn inhale sentence expand bean recall chimney high number |  
+| bip_39_word_underscore_1 | corn |  
+| bip_39_word_underscore_10 | corn_inhale_sentence_expand_bean_recall_chimney_high_number_neither |  
+| bip_39_word_underscore_11 | corn_inhale_sentence_expand_bean_recall_chimney_high_number_neither_visual |  
+| bip_39_word_underscore_12 | corn_inhale_sentence_expand_bean_recall_chimney_high_number_neither_visual_asthma |  
+| bip_39_word_underscore_2 | corn_inhale |  
+| bip_39_word_underscore_3 | corn_inhale_sentence |  
+| bip_39_word_underscore_4 | corn_inhale_sentence_expand |  
+| bip_39_word_underscore_5 | corn_inhale_sentence_expand_bean |  
+| bip_39_word_underscore_6 | corn_inhale_sentence_expand_bean_recall |  
+| bip_39_word_underscore_7 | corn_inhale_sentence_expand_bean_recall_chimney |  
+| bip_39_word_underscore_8 | corn_inhale_sentence_expand_bean_recall_chimney_high |  
+| bip_39_word_underscore_9 | corn_inhale_sentence_expand_bean_recall_chimney_high_number |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: album
+bip_39_word_dash_10: album-juice-move-want-miss-tool-sign-group-unaware-polar
+bip_39_word_dash_11: album-juice-move-want-miss-tool-sign-group-unaware-polar-beef
+bip_39_word_dash_12: album-juice-move-want-miss-tool-sign-group-unaware-polar-beef-apart
+bip_39_word_dash_2: album-juice
+bip_39_word_dash_3: album-juice-move
+bip_39_word_dash_4: album-juice-move-want
+bip_39_word_dash_5: album-juice-move-want-miss
+bip_39_word_dash_6: album-juice-move-want-miss-tool
+bip_39_word_dash_7: album-juice-move-want-miss-tool-sign
+bip_39_word_dash_8: album-juice-move-want-miss-tool-sign-group
+bip_39_word_dash_9: album-juice-move-want-miss-tool-sign-group-unaware
 bip_39_word_new_br_1: album
 bip_39_word_new_br_10: album<br>juice<br>move<br>want<br>miss<br>tool<br>sign<br>group<br>unaware<br>polar
 bip_39_word_new_br_11: album<br>juice<br>move<br>want<br>miss<br>tool<br>sign<br>group<br>unaware<br>polar<br>beef
@@ -192,6 +204,18 @@ bip_39_word_space_6: album juice move want miss tool
 bip_39_word_space_7: album juice move want miss tool sign
 bip_39_word_space_8: album juice move want miss tool sign group
 bip_39_word_space_9: album juice move want miss tool sign group unaware
+bip_39_word_underscore_1: album
+bip_39_word_underscore_10: album_juice_move_want_miss_tool_sign_group_unaware_polar
+bip_39_word_underscore_11: album_juice_move_want_miss_tool_sign_group_unaware_polar_beef
+bip_39_word_underscore_12: album_juice_move_want_miss_tool_sign_group_unaware_polar_beef_apart
+bip_39_word_underscore_2: album_juice
+bip_39_word_underscore_3: album_juice_move
+bip_39_word_underscore_4: album_juice_move_want
+bip_39_word_underscore_5: album_juice_move_want_miss
+bip_39_word_underscore_6: album_juice_move_want_miss_tool
+bip_39_word_underscore_7: album_juice_move_want_miss_tool_sign
+bip_39_word_underscore_8: album_juice_move_want_miss_tool_sign_group
+bip_39_word_underscore_9: album_juice_move_want_miss_tool_sign_group_unaware
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lake
+bip_39_word_dash_10: lake-track-found-hobby-talent-planet-casino-logic-stomach-unable
+bip_39_word_dash_11: lake-track-found-hobby-talent-planet-casino-logic-stomach-unable-brown
+bip_39_word_dash_12: lake-track-found-hobby-talent-planet-casino-logic-stomach-unable-brown-art
+bip_39_word_dash_2: lake-track
+bip_39_word_dash_3: lake-track-found
+bip_39_word_dash_4: lake-track-found-hobby
+bip_39_word_dash_5: lake-track-found-hobby-talent
+bip_39_word_dash_6: lake-track-found-hobby-talent-planet
+bip_39_word_dash_7: lake-track-found-hobby-talent-planet-casino
+bip_39_word_dash_8: lake-track-found-hobby-talent-planet-casino-logic
+bip_39_word_dash_9: lake-track-found-hobby-talent-planet-casino-logic-stomach
 bip_39_word_new_br_1: lake
 bip_39_word_new_br_10: lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable
 bip_39_word_new_br_11: lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable<br>brown
@@ -193,6 +205,18 @@ bip_39_word_space_6: lake track found hobby talent planet
 bip_39_word_space_7: lake track found hobby talent planet casino
 bip_39_word_space_8: lake track found hobby talent planet casino logic
 bip_39_word_space_9: lake track found hobby talent planet casino logic stomach
+bip_39_word_underscore_1: lake
+bip_39_word_underscore_10: lake_track_found_hobby_talent_planet_casino_logic_stomach_unable
+bip_39_word_underscore_11: lake_track_found_hobby_talent_planet_casino_logic_stomach_unable_brown
+bip_39_word_underscore_12: lake_track_found_hobby_talent_planet_casino_logic_stomach_unable_brown_art
+bip_39_word_underscore_2: lake_track
+bip_39_word_underscore_3: lake_track_found
+bip_39_word_underscore_4: lake_track_found_hobby
+bip_39_word_underscore_5: lake_track_found_hobby_talent
+bip_39_word_underscore_6: lake_track_found_hobby_talent_planet
+bip_39_word_underscore_7: lake_track_found_hobby_talent_planet_casino
+bip_39_word_underscore_8: lake_track_found_hobby_talent_planet_casino_logic
+bip_39_word_underscore_9: lake_track_found_hobby_talent_planet_casino_logic_stomach
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

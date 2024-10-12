@@ -1,3 +1,15 @@
+bip_39_word_dash_1: twelve
+bip_39_word_dash_10: twelve-science-slab-leisure-calm-laptop-gasp-riot-access-volcano
+bip_39_word_dash_11: twelve-science-slab-leisure-calm-laptop-gasp-riot-access-volcano-cheap
+bip_39_word_dash_12: twelve-science-slab-leisure-calm-laptop-gasp-riot-access-volcano-cheap-arrive
+bip_39_word_dash_2: twelve-science
+bip_39_word_dash_3: twelve-science-slab
+bip_39_word_dash_4: twelve-science-slab-leisure
+bip_39_word_dash_5: twelve-science-slab-leisure-calm
+bip_39_word_dash_6: twelve-science-slab-leisure-calm-laptop
+bip_39_word_dash_7: twelve-science-slab-leisure-calm-laptop-gasp
+bip_39_word_dash_8: twelve-science-slab-leisure-calm-laptop-gasp-riot
+bip_39_word_dash_9: twelve-science-slab-leisure-calm-laptop-gasp-riot-access
 bip_39_word_new_br_1: twelve
 bip_39_word_new_br_10: twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano
 bip_39_word_new_br_11: twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano<br>cheap
@@ -193,6 +205,18 @@ bip_39_word_space_6: twelve science slab leisure calm laptop
 bip_39_word_space_7: twelve science slab leisure calm laptop gasp
 bip_39_word_space_8: twelve science slab leisure calm laptop gasp riot
 bip_39_word_space_9: twelve science slab leisure calm laptop gasp riot access
+bip_39_word_underscore_1: twelve
+bip_39_word_underscore_10: twelve_science_slab_leisure_calm_laptop_gasp_riot_access_volcano
+bip_39_word_underscore_11: twelve_science_slab_leisure_calm_laptop_gasp_riot_access_volcano_cheap
+bip_39_word_underscore_12: twelve_science_slab_leisure_calm_laptop_gasp_riot_access_volcano_cheap_arrive
+bip_39_word_underscore_2: twelve_science
+bip_39_word_underscore_3: twelve_science_slab
+bip_39_word_underscore_4: twelve_science_slab_leisure
+bip_39_word_underscore_5: twelve_science_slab_leisure_calm
+bip_39_word_underscore_6: twelve_science_slab_leisure_calm_laptop
+bip_39_word_underscore_7: twelve_science_slab_leisure_calm_laptop_gasp
+bip_39_word_underscore_8: twelve_science_slab_leisure_calm_laptop_gasp_riot
+bip_39_word_underscore_9: twelve_science_slab_leisure_calm_laptop_gasp_riot_access
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

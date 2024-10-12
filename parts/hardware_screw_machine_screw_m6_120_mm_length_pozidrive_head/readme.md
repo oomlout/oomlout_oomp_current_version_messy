@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spread |  
+| bip_39_word_dash_10 | spread-pave-until-banana-month-cinnamon-member-stand-wire-volume |  
+| bip_39_word_dash_11 | spread-pave-until-banana-month-cinnamon-member-stand-wire-volume-pen |  
+| bip_39_word_dash_12 | spread-pave-until-banana-month-cinnamon-member-stand-wire-volume-pen-alley |  
+| bip_39_word_dash_2 | spread-pave |  
+| bip_39_word_dash_3 | spread-pave-until |  
+| bip_39_word_dash_4 | spread-pave-until-banana |  
+| bip_39_word_dash_5 | spread-pave-until-banana-month |  
+| bip_39_word_dash_6 | spread-pave-until-banana-month-cinnamon |  
+| bip_39_word_dash_7 | spread-pave-until-banana-month-cinnamon-member |  
+| bip_39_word_dash_8 | spread-pave-until-banana-month-cinnamon-member-stand |  
+| bip_39_word_dash_9 | spread-pave-until-banana-month-cinnamon-member-stand-wire |  
 | bip_39_word_new_br_1 | spread |  
 | bip_39_word_new_br_10 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand<br>wire<br>volume |  
 | bip_39_word_new_br_11 | spread<br>pave<br>until<br>banana<br>month<br>cinnamon<br>member<br>stand<br>wire<br>volume<br>pen |  
@@ -147,6 +159,18 @@ wire |
 | bip_39_word_space_7 | spread pave until banana month cinnamon member |  
 | bip_39_word_space_8 | spread pave until banana month cinnamon member stand |  
 | bip_39_word_space_9 | spread pave until banana month cinnamon member stand wire |  
+| bip_39_word_underscore_1 | spread |  
+| bip_39_word_underscore_10 | spread_pave_until_banana_month_cinnamon_member_stand_wire_volume |  
+| bip_39_word_underscore_11 | spread_pave_until_banana_month_cinnamon_member_stand_wire_volume_pen |  
+| bip_39_word_underscore_12 | spread_pave_until_banana_month_cinnamon_member_stand_wire_volume_pen_alley |  
+| bip_39_word_underscore_2 | spread_pave |  
+| bip_39_word_underscore_3 | spread_pave_until |  
+| bip_39_word_underscore_4 | spread_pave_until_banana |  
+| bip_39_word_underscore_5 | spread_pave_until_banana_month |  
+| bip_39_word_underscore_6 | spread_pave_until_banana_month_cinnamon |  
+| bip_39_word_underscore_7 | spread_pave_until_banana_month_cinnamon_member |  
+| bip_39_word_underscore_8 | spread_pave_until_banana_month_cinnamon_member_stand |  
+| bip_39_word_underscore_9 | spread_pave_until_banana_month_cinnamon_member_stand_wire |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wave |  
+| bip_39_word_dash_10 | wave-cereal-gate-detail-cactus-prefer-decrease-rescue-syrup-pretty |  
+| bip_39_word_dash_11 | wave-cereal-gate-detail-cactus-prefer-decrease-rescue-syrup-pretty-elbow |  
+| bip_39_word_dash_12 | wave-cereal-gate-detail-cactus-prefer-decrease-rescue-syrup-pretty-elbow-attend |  
+| bip_39_word_dash_2 | wave-cereal |  
+| bip_39_word_dash_3 | wave-cereal-gate |  
+| bip_39_word_dash_4 | wave-cereal-gate-detail |  
+| bip_39_word_dash_5 | wave-cereal-gate-detail-cactus |  
+| bip_39_word_dash_6 | wave-cereal-gate-detail-cactus-prefer |  
+| bip_39_word_dash_7 | wave-cereal-gate-detail-cactus-prefer-decrease |  
+| bip_39_word_dash_8 | wave-cereal-gate-detail-cactus-prefer-decrease-rescue |  
+| bip_39_word_dash_9 | wave-cereal-gate-detail-cactus-prefer-decrease-rescue-syrup |  
 | bip_39_word_new_br_1 | wave |  
 | bip_39_word_new_br_10 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue<br>syrup<br>pretty |  
 | bip_39_word_new_br_11 | wave<br>cereal<br>gate<br>detail<br>cactus<br>prefer<br>decrease<br>rescue<br>syrup<br>pretty<br>elbow |  
@@ -147,6 +159,18 @@ syrup |
 | bip_39_word_space_7 | wave cereal gate detail cactus prefer decrease |  
 | bip_39_word_space_8 | wave cereal gate detail cactus prefer decrease rescue |  
 | bip_39_word_space_9 | wave cereal gate detail cactus prefer decrease rescue syrup |  
+| bip_39_word_underscore_1 | wave |  
+| bip_39_word_underscore_10 | wave_cereal_gate_detail_cactus_prefer_decrease_rescue_syrup_pretty |  
+| bip_39_word_underscore_11 | wave_cereal_gate_detail_cactus_prefer_decrease_rescue_syrup_pretty_elbow |  
+| bip_39_word_underscore_12 | wave_cereal_gate_detail_cactus_prefer_decrease_rescue_syrup_pretty_elbow_attend |  
+| bip_39_word_underscore_2 | wave_cereal |  
+| bip_39_word_underscore_3 | wave_cereal_gate |  
+| bip_39_word_underscore_4 | wave_cereal_gate_detail |  
+| bip_39_word_underscore_5 | wave_cereal_gate_detail_cactus |  
+| bip_39_word_underscore_6 | wave_cereal_gate_detail_cactus_prefer |  
+| bip_39_word_underscore_7 | wave_cereal_gate_detail_cactus_prefer_decrease |  
+| bip_39_word_underscore_8 | wave_cereal_gate_detail_cactus_prefer_decrease_rescue |  
+| bip_39_word_underscore_9 | wave_cereal_gate_detail_cactus_prefer_decrease_rescue_syrup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

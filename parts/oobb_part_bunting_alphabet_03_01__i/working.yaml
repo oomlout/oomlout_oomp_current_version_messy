@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dance
+bip_39_word_dash_10: dance-winner-program-novel-candy-sea-easy-flag-sunny-ramp
+bip_39_word_dash_11: dance-winner-program-novel-candy-sea-easy-flag-sunny-ramp-piece
+bip_39_word_dash_12: dance-winner-program-novel-candy-sea-easy-flag-sunny-ramp-piece-alley
+bip_39_word_dash_2: dance-winner
+bip_39_word_dash_3: dance-winner-program
+bip_39_word_dash_4: dance-winner-program-novel
+bip_39_word_dash_5: dance-winner-program-novel-candy
+bip_39_word_dash_6: dance-winner-program-novel-candy-sea
+bip_39_word_dash_7: dance-winner-program-novel-candy-sea-easy
+bip_39_word_dash_8: dance-winner-program-novel-candy-sea-easy-flag
+bip_39_word_dash_9: dance-winner-program-novel-candy-sea-easy-flag-sunny
 bip_39_word_new_br_1: dance
 bip_39_word_new_br_10: dance<br>winner<br>program<br>novel<br>candy<br>sea<br>easy<br>flag<br>sunny<br>ramp
 bip_39_word_new_br_11: dance<br>winner<br>program<br>novel<br>candy<br>sea<br>easy<br>flag<br>sunny<br>ramp<br>piece
@@ -192,6 +204,18 @@ bip_39_word_space_6: dance winner program novel candy sea
 bip_39_word_space_7: dance winner program novel candy sea easy
 bip_39_word_space_8: dance winner program novel candy sea easy flag
 bip_39_word_space_9: dance winner program novel candy sea easy flag sunny
+bip_39_word_underscore_1: dance
+bip_39_word_underscore_10: dance_winner_program_novel_candy_sea_easy_flag_sunny_ramp
+bip_39_word_underscore_11: dance_winner_program_novel_candy_sea_easy_flag_sunny_ramp_piece
+bip_39_word_underscore_12: dance_winner_program_novel_candy_sea_easy_flag_sunny_ramp_piece_alley
+bip_39_word_underscore_2: dance_winner
+bip_39_word_underscore_3: dance_winner_program
+bip_39_word_underscore_4: dance_winner_program_novel
+bip_39_word_underscore_5: dance_winner_program_novel_candy
+bip_39_word_underscore_6: dance_winner_program_novel_candy_sea
+bip_39_word_underscore_7: dance_winner_program_novel_candy_sea_easy
+bip_39_word_underscore_8: dance_winner_program_novel_candy_sea_easy_flag
+bip_39_word_underscore_9: dance_winner_program_novel_candy_sea_easy_flag_sunny
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

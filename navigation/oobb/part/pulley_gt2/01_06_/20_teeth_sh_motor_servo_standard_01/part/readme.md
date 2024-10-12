@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ladder |  
+| bip_39_word_dash_10 | ladder-music-elevator-faint-delay-power-frog-absorb-draft-twelve |  
+| bip_39_word_dash_11 | ladder-music-elevator-faint-delay-power-frog-absorb-draft-twelve-found |  
+| bip_39_word_dash_2 | ladder-music |  
+| bip_39_word_dash_3 | ladder-music-elevator |  
+| bip_39_word_dash_4 | ladder-music-elevator-faint |  
+| bip_39_word_dash_5 | ladder-music-elevator-faint-delay |  
+| bip_39_word_dash_6 | ladder-music-elevator-faint-delay-power |  
+| bip_39_word_dash_7 | ladder-music-elevator-faint-delay-power-frog |  
+| bip_39_word_dash_8 | ladder-music-elevator-faint-delay-power-frog-absorb |  
+| bip_39_word_dash_9 | ladder-music-elevator-faint-delay-power-frog-absorb-draft |  
 | bip_39_word_new_br_1 | ladder |  
 | bip_39_word_new_br_10 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft<br>twelve |  
 | bip_39_word_new_br_11 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft<br>twelve<br>found |  
@@ -132,6 +143,17 @@ draft |
 | bip_39_word_space_7 | ladder music elevator faint delay power frog |  
 | bip_39_word_space_8 | ladder music elevator faint delay power frog absorb |  
 | bip_39_word_space_9 | ladder music elevator faint delay power frog absorb draft |  
+| bip_39_word_underscore_1 | ladder |  
+| bip_39_word_underscore_10 | ladder_music_elevator_faint_delay_power_frog_absorb_draft_twelve |  
+| bip_39_word_underscore_11 | ladder_music_elevator_faint_delay_power_frog_absorb_draft_twelve_found |  
+| bip_39_word_underscore_2 | ladder_music |  
+| bip_39_word_underscore_3 | ladder_music_elevator |  
+| bip_39_word_underscore_4 | ladder_music_elevator_faint |  
+| bip_39_word_underscore_5 | ladder_music_elevator_faint_delay |  
+| bip_39_word_underscore_6 | ladder_music_elevator_faint_delay_power |  
+| bip_39_word_underscore_7 | ladder_music_elevator_faint_delay_power_frog |  
+| bip_39_word_underscore_8 | ladder_music_elevator_faint_delay_power_frog_absorb |  
+| bip_39_word_underscore_9 | ladder_music_elevator_faint_delay_power_frog_absorb_draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

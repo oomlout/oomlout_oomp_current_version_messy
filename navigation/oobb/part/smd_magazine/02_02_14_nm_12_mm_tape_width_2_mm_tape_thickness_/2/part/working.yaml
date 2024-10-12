@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grain
+bip_39_word_dash_10: grain-post-want-despair-oil-renew-wolf-chair-search-scale
+bip_39_word_dash_11: grain-post-want-despair-oil-renew-wolf-chair-search-scale-buddy
+bip_39_word_dash_12: grain-post-want-despair-oil-renew-wolf-chair-search-scale-buddy-aunt
+bip_39_word_dash_2: grain-post
+bip_39_word_dash_3: grain-post-want
+bip_39_word_dash_4: grain-post-want-despair
+bip_39_word_dash_5: grain-post-want-despair-oil
+bip_39_word_dash_6: grain-post-want-despair-oil-renew
+bip_39_word_dash_7: grain-post-want-despair-oil-renew-wolf
+bip_39_word_dash_8: grain-post-want-despair-oil-renew-wolf-chair
+bip_39_word_dash_9: grain-post-want-despair-oil-renew-wolf-chair-search
 bip_39_word_new_br_1: grain
 bip_39_word_new_br_10: grain<br>post<br>want<br>despair<br>oil<br>renew<br>wolf<br>chair<br>search<br>scale
 bip_39_word_new_br_11: grain<br>post<br>want<br>despair<br>oil<br>renew<br>wolf<br>chair<br>search<br>scale<br>buddy
@@ -192,6 +204,18 @@ bip_39_word_space_6: grain post want despair oil renew
 bip_39_word_space_7: grain post want despair oil renew wolf
 bip_39_word_space_8: grain post want despair oil renew wolf chair
 bip_39_word_space_9: grain post want despair oil renew wolf chair search
+bip_39_word_underscore_1: grain
+bip_39_word_underscore_10: grain_post_want_despair_oil_renew_wolf_chair_search_scale
+bip_39_word_underscore_11: grain_post_want_despair_oil_renew_wolf_chair_search_scale_buddy
+bip_39_word_underscore_12: grain_post_want_despair_oil_renew_wolf_chair_search_scale_buddy_aunt
+bip_39_word_underscore_2: grain_post
+bip_39_word_underscore_3: grain_post_want
+bip_39_word_underscore_4: grain_post_want_despair
+bip_39_word_underscore_5: grain_post_want_despair_oil
+bip_39_word_underscore_6: grain_post_want_despair_oil_renew
+bip_39_word_underscore_7: grain_post_want_despair_oil_renew_wolf
+bip_39_word_underscore_8: grain_post_want_despair_oil_renew_wolf_chair
+bip_39_word_underscore_9: grain_post_want_despair_oil_renew_wolf_chair_search
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

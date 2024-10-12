@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leaf |  
+| bip_39_word_dash_10 | leaf-actual-dutch-toward-scheme-junk-inherit-affair-napkin-popular |  
+| bip_39_word_dash_11 | leaf-actual-dutch-toward-scheme-junk-inherit-affair-napkin-popular-duck |  
+| bip_39_word_dash_12 | leaf-actual-dutch-toward-scheme-junk-inherit-affair-napkin-popular-duck-afford |  
+| bip_39_word_dash_2 | leaf-actual |  
+| bip_39_word_dash_3 | leaf-actual-dutch |  
+| bip_39_word_dash_4 | leaf-actual-dutch-toward |  
+| bip_39_word_dash_5 | leaf-actual-dutch-toward-scheme |  
+| bip_39_word_dash_6 | leaf-actual-dutch-toward-scheme-junk |  
+| bip_39_word_dash_7 | leaf-actual-dutch-toward-scheme-junk-inherit |  
+| bip_39_word_dash_8 | leaf-actual-dutch-toward-scheme-junk-inherit-affair |  
+| bip_39_word_dash_9 | leaf-actual-dutch-toward-scheme-junk-inherit-affair-napkin |  
 | bip_39_word_new_br_1 | leaf |  
 | bip_39_word_new_br_10 | leaf<br>actual<br>dutch<br>toward<br>scheme<br>junk<br>inherit<br>affair<br>napkin<br>popular |  
 | bip_39_word_new_br_11 | leaf<br>actual<br>dutch<br>toward<br>scheme<br>junk<br>inherit<br>affair<br>napkin<br>popular<br>duck |  
@@ -147,6 +159,18 @@ napkin |
 | bip_39_word_space_7 | leaf actual dutch toward scheme junk inherit |  
 | bip_39_word_space_8 | leaf actual dutch toward scheme junk inherit affair |  
 | bip_39_word_space_9 | leaf actual dutch toward scheme junk inherit affair napkin |  
+| bip_39_word_underscore_1 | leaf |  
+| bip_39_word_underscore_10 | leaf_actual_dutch_toward_scheme_junk_inherit_affair_napkin_popular |  
+| bip_39_word_underscore_11 | leaf_actual_dutch_toward_scheme_junk_inherit_affair_napkin_popular_duck |  
+| bip_39_word_underscore_12 | leaf_actual_dutch_toward_scheme_junk_inherit_affair_napkin_popular_duck_afford |  
+| bip_39_word_underscore_2 | leaf_actual |  
+| bip_39_word_underscore_3 | leaf_actual_dutch |  
+| bip_39_word_underscore_4 | leaf_actual_dutch_toward |  
+| bip_39_word_underscore_5 | leaf_actual_dutch_toward_scheme |  
+| bip_39_word_underscore_6 | leaf_actual_dutch_toward_scheme_junk |  
+| bip_39_word_underscore_7 | leaf_actual_dutch_toward_scheme_junk_inherit |  
+| bip_39_word_underscore_8 | leaf_actual_dutch_toward_scheme_junk_inherit_affair |  
+| bip_39_word_underscore_9 | leaf_actual_dutch_toward_scheme_junk_inherit_affair_napkin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fault
+bip_39_word_dash_10: fault-return-hard-blade-green-frog-torch-decide-couple-call
+bip_39_word_dash_11: fault-return-hard-blade-green-frog-torch-decide-couple-call-never
+bip_39_word_dash_12: fault-return-hard-blade-green-frog-torch-decide-couple-call-never-another
+bip_39_word_dash_2: fault-return
+bip_39_word_dash_3: fault-return-hard
+bip_39_word_dash_4: fault-return-hard-blade
+bip_39_word_dash_5: fault-return-hard-blade-green
+bip_39_word_dash_6: fault-return-hard-blade-green-frog
+bip_39_word_dash_7: fault-return-hard-blade-green-frog-torch
+bip_39_word_dash_8: fault-return-hard-blade-green-frog-torch-decide
+bip_39_word_dash_9: fault-return-hard-blade-green-frog-torch-decide-couple
 bip_39_word_new_br_1: fault
 bip_39_word_new_br_10: fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide<br>couple<br>call
 bip_39_word_new_br_11: fault<br>return<br>hard<br>blade<br>green<br>frog<br>torch<br>decide<br>couple<br>call<br>never
@@ -193,6 +205,18 @@ bip_39_word_space_6: fault return hard blade green frog
 bip_39_word_space_7: fault return hard blade green frog torch
 bip_39_word_space_8: fault return hard blade green frog torch decide
 bip_39_word_space_9: fault return hard blade green frog torch decide couple
+bip_39_word_underscore_1: fault
+bip_39_word_underscore_10: fault_return_hard_blade_green_frog_torch_decide_couple_call
+bip_39_word_underscore_11: fault_return_hard_blade_green_frog_torch_decide_couple_call_never
+bip_39_word_underscore_12: fault_return_hard_blade_green_frog_torch_decide_couple_call_never_another
+bip_39_word_underscore_2: fault_return
+bip_39_word_underscore_3: fault_return_hard
+bip_39_word_underscore_4: fault_return_hard_blade
+bip_39_word_underscore_5: fault_return_hard_blade_green
+bip_39_word_underscore_6: fault_return_hard_blade_green_frog
+bip_39_word_underscore_7: fault_return_hard_blade_green_frog_torch
+bip_39_word_underscore_8: fault_return_hard_blade_green_frog_torch_decide
+bip_39_word_underscore_9: fault_return_hard_blade_green_frog_torch_decide_couple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: escape
+bip_39_word_dash_10: escape-enroll-resemble-sight-nephew-answer-jar-resemble-blanket-old
+bip_39_word_dash_11: escape-enroll-resemble-sight-nephew-answer-jar-resemble-blanket-old-cousin
+bip_39_word_dash_12: escape-enroll-resemble-sight-nephew-answer-jar-resemble-blanket-old-cousin-assume
+bip_39_word_dash_2: escape-enroll
+bip_39_word_dash_3: escape-enroll-resemble
+bip_39_word_dash_4: escape-enroll-resemble-sight
+bip_39_word_dash_5: escape-enroll-resemble-sight-nephew
+bip_39_word_dash_6: escape-enroll-resemble-sight-nephew-answer
+bip_39_word_dash_7: escape-enroll-resemble-sight-nephew-answer-jar
+bip_39_word_dash_8: escape-enroll-resemble-sight-nephew-answer-jar-resemble
+bip_39_word_dash_9: escape-enroll-resemble-sight-nephew-answer-jar-resemble-blanket
 bip_39_word_new_br_1: escape
 bip_39_word_new_br_10: escape<br>enroll<br>resemble<br>sight<br>nephew<br>answer<br>jar<br>resemble<br>blanket<br>old
 bip_39_word_new_br_11: escape<br>enroll<br>resemble<br>sight<br>nephew<br>answer<br>jar<br>resemble<br>blanket<br>old<br>cousin
@@ -194,6 +206,18 @@ bip_39_word_space_6: escape enroll resemble sight nephew answer
 bip_39_word_space_7: escape enroll resemble sight nephew answer jar
 bip_39_word_space_8: escape enroll resemble sight nephew answer jar resemble
 bip_39_word_space_9: escape enroll resemble sight nephew answer jar resemble blanket
+bip_39_word_underscore_1: escape
+bip_39_word_underscore_10: escape_enroll_resemble_sight_nephew_answer_jar_resemble_blanket_old
+bip_39_word_underscore_11: escape_enroll_resemble_sight_nephew_answer_jar_resemble_blanket_old_cousin
+bip_39_word_underscore_12: escape_enroll_resemble_sight_nephew_answer_jar_resemble_blanket_old_cousin_assume
+bip_39_word_underscore_2: escape_enroll
+bip_39_word_underscore_3: escape_enroll_resemble
+bip_39_word_underscore_4: escape_enroll_resemble_sight
+bip_39_word_underscore_5: escape_enroll_resemble_sight_nephew
+bip_39_word_underscore_6: escape_enroll_resemble_sight_nephew_answer
+bip_39_word_underscore_7: escape_enroll_resemble_sight_nephew_answer_jar
+bip_39_word_underscore_8: escape_enroll_resemble_sight_nephew_answer_jar_resemble
+bip_39_word_underscore_9: escape_enroll_resemble_sight_nephew_answer_jar_resemble_blanket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

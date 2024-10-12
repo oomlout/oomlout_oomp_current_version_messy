@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | creek |  
+| bip_39_word_dash_10 | creek-merge-wife-habit-sponsor-phone-erode-dirt-quantum-monitor |  
+| bip_39_word_dash_11 | creek-merge-wife-habit-sponsor-phone-erode-dirt-quantum-monitor-narrow |  
+| bip_39_word_dash_12 | creek-merge-wife-habit-sponsor-phone-erode-dirt-quantum-monitor-narrow-alley |  
+| bip_39_word_dash_2 | creek-merge |  
+| bip_39_word_dash_3 | creek-merge-wife |  
+| bip_39_word_dash_4 | creek-merge-wife-habit |  
+| bip_39_word_dash_5 | creek-merge-wife-habit-sponsor |  
+| bip_39_word_dash_6 | creek-merge-wife-habit-sponsor-phone |  
+| bip_39_word_dash_7 | creek-merge-wife-habit-sponsor-phone-erode |  
+| bip_39_word_dash_8 | creek-merge-wife-habit-sponsor-phone-erode-dirt |  
+| bip_39_word_dash_9 | creek-merge-wife-habit-sponsor-phone-erode-dirt-quantum |  
 | bip_39_word_new_br_1 | creek |  
 | bip_39_word_new_br_10 | creek<br>merge<br>wife<br>habit<br>sponsor<br>phone<br>erode<br>dirt<br>quantum<br>monitor |  
 | bip_39_word_new_br_11 | creek<br>merge<br>wife<br>habit<br>sponsor<br>phone<br>erode<br>dirt<br>quantum<br>monitor<br>narrow |  
@@ -147,6 +159,18 @@ quantum |
 | bip_39_word_space_7 | creek merge wife habit sponsor phone erode |  
 | bip_39_word_space_8 | creek merge wife habit sponsor phone erode dirt |  
 | bip_39_word_space_9 | creek merge wife habit sponsor phone erode dirt quantum |  
+| bip_39_word_underscore_1 | creek |  
+| bip_39_word_underscore_10 | creek_merge_wife_habit_sponsor_phone_erode_dirt_quantum_monitor |  
+| bip_39_word_underscore_11 | creek_merge_wife_habit_sponsor_phone_erode_dirt_quantum_monitor_narrow |  
+| bip_39_word_underscore_12 | creek_merge_wife_habit_sponsor_phone_erode_dirt_quantum_monitor_narrow_alley |  
+| bip_39_word_underscore_2 | creek_merge |  
+| bip_39_word_underscore_3 | creek_merge_wife |  
+| bip_39_word_underscore_4 | creek_merge_wife_habit |  
+| bip_39_word_underscore_5 | creek_merge_wife_habit_sponsor |  
+| bip_39_word_underscore_6 | creek_merge_wife_habit_sponsor_phone |  
+| bip_39_word_underscore_7 | creek_merge_wife_habit_sponsor_phone_erode |  
+| bip_39_word_underscore_8 | creek_merge_wife_habit_sponsor_phone_erode_dirt |  
+| bip_39_word_underscore_9 | creek_merge_wife_habit_sponsor_phone_erode_dirt_quantum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

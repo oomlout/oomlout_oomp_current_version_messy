@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | license |  
+| bip_39_word_dash_10 | license-file-toddler-kangaroo-gasp-casual-work-escape-blossom-ocean |  
+| bip_39_word_dash_11 | license-file-toddler-kangaroo-gasp-casual-work-escape-blossom-ocean-alien |  
+| bip_39_word_dash_12 | license-file-toddler-kangaroo-gasp-casual-work-escape-blossom-ocean-alien-apple |  
+| bip_39_word_dash_2 | license-file |  
+| bip_39_word_dash_3 | license-file-toddler |  
+| bip_39_word_dash_4 | license-file-toddler-kangaroo |  
+| bip_39_word_dash_5 | license-file-toddler-kangaroo-gasp |  
+| bip_39_word_dash_6 | license-file-toddler-kangaroo-gasp-casual |  
+| bip_39_word_dash_7 | license-file-toddler-kangaroo-gasp-casual-work |  
+| bip_39_word_dash_8 | license-file-toddler-kangaroo-gasp-casual-work-escape |  
+| bip_39_word_dash_9 | license-file-toddler-kangaroo-gasp-casual-work-escape-blossom |  
 | bip_39_word_new_br_1 | license |  
 | bip_39_word_new_br_10 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape<br>blossom<br>ocean |  
 | bip_39_word_new_br_11 | license<br>file<br>toddler<br>kangaroo<br>gasp<br>casual<br>work<br>escape<br>blossom<br>ocean<br>alien |  
@@ -147,6 +159,18 @@ blossom |
 | bip_39_word_space_7 | license file toddler kangaroo gasp casual work |  
 | bip_39_word_space_8 | license file toddler kangaroo gasp casual work escape |  
 | bip_39_word_space_9 | license file toddler kangaroo gasp casual work escape blossom |  
+| bip_39_word_underscore_1 | license |  
+| bip_39_word_underscore_10 | license_file_toddler_kangaroo_gasp_casual_work_escape_blossom_ocean |  
+| bip_39_word_underscore_11 | license_file_toddler_kangaroo_gasp_casual_work_escape_blossom_ocean_alien |  
+| bip_39_word_underscore_12 | license_file_toddler_kangaroo_gasp_casual_work_escape_blossom_ocean_alien_apple |  
+| bip_39_word_underscore_2 | license_file |  
+| bip_39_word_underscore_3 | license_file_toddler |  
+| bip_39_word_underscore_4 | license_file_toddler_kangaroo |  
+| bip_39_word_underscore_5 | license_file_toddler_kangaroo_gasp |  
+| bip_39_word_underscore_6 | license_file_toddler_kangaroo_gasp_casual |  
+| bip_39_word_underscore_7 | license_file_toddler_kangaroo_gasp_casual_work |  
+| bip_39_word_underscore_8 | license_file_toddler_kangaroo_gasp_casual_work_escape |  
+| bip_39_word_underscore_9 | license_file_toddler_kangaroo_gasp_casual_work_escape_blossom |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

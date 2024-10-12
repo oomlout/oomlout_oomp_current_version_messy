@@ -1,3 +1,15 @@
+bip_39_word_dash_1: code
+bip_39_word_dash_10: code-stairs-fluid-champion-youth-garment-wisdom-grab-lunch-wild
+bip_39_word_dash_11: code-stairs-fluid-champion-youth-garment-wisdom-grab-lunch-wild-since
+bip_39_word_dash_12: code-stairs-fluid-champion-youth-garment-wisdom-grab-lunch-wild-since-alert
+bip_39_word_dash_2: code-stairs
+bip_39_word_dash_3: code-stairs-fluid
+bip_39_word_dash_4: code-stairs-fluid-champion
+bip_39_word_dash_5: code-stairs-fluid-champion-youth
+bip_39_word_dash_6: code-stairs-fluid-champion-youth-garment
+bip_39_word_dash_7: code-stairs-fluid-champion-youth-garment-wisdom
+bip_39_word_dash_8: code-stairs-fluid-champion-youth-garment-wisdom-grab
+bip_39_word_dash_9: code-stairs-fluid-champion-youth-garment-wisdom-grab-lunch
 bip_39_word_new_br_1: code
 bip_39_word_new_br_10: code<br>stairs<br>fluid<br>champion<br>youth<br>garment<br>wisdom<br>grab<br>lunch<br>wild
 bip_39_word_new_br_11: code<br>stairs<br>fluid<br>champion<br>youth<br>garment<br>wisdom<br>grab<br>lunch<br>wild<br>since
@@ -193,6 +205,18 @@ bip_39_word_space_6: code stairs fluid champion youth garment
 bip_39_word_space_7: code stairs fluid champion youth garment wisdom
 bip_39_word_space_8: code stairs fluid champion youth garment wisdom grab
 bip_39_word_space_9: code stairs fluid champion youth garment wisdom grab lunch
+bip_39_word_underscore_1: code
+bip_39_word_underscore_10: code_stairs_fluid_champion_youth_garment_wisdom_grab_lunch_wild
+bip_39_word_underscore_11: code_stairs_fluid_champion_youth_garment_wisdom_grab_lunch_wild_since
+bip_39_word_underscore_12: code_stairs_fluid_champion_youth_garment_wisdom_grab_lunch_wild_since_alert
+bip_39_word_underscore_2: code_stairs
+bip_39_word_underscore_3: code_stairs_fluid
+bip_39_word_underscore_4: code_stairs_fluid_champion
+bip_39_word_underscore_5: code_stairs_fluid_champion_youth
+bip_39_word_underscore_6: code_stairs_fluid_champion_youth_garment
+bip_39_word_underscore_7: code_stairs_fluid_champion_youth_garment_wisdom
+bip_39_word_underscore_8: code_stairs_fluid_champion_youth_garment_wisdom_grab
+bip_39_word_underscore_9: code_stairs_fluid_champion_youth_garment_wisdom_grab_lunch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

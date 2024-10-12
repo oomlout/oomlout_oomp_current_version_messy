@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dolphin
+bip_39_word_dash_10: dolphin-noble-tent-rocket-escape-spatial-fruit-ivory-enlist-twice
+bip_39_word_dash_11: dolphin-noble-tent-rocket-escape-spatial-fruit-ivory-enlist-twice-brave
+bip_39_word_dash_12: dolphin-noble-tent-rocket-escape-spatial-fruit-ivory-enlist-twice-brave-air
+bip_39_word_dash_2: dolphin-noble
+bip_39_word_dash_3: dolphin-noble-tent
+bip_39_word_dash_4: dolphin-noble-tent-rocket
+bip_39_word_dash_5: dolphin-noble-tent-rocket-escape
+bip_39_word_dash_6: dolphin-noble-tent-rocket-escape-spatial
+bip_39_word_dash_7: dolphin-noble-tent-rocket-escape-spatial-fruit
+bip_39_word_dash_8: dolphin-noble-tent-rocket-escape-spatial-fruit-ivory
+bip_39_word_dash_9: dolphin-noble-tent-rocket-escape-spatial-fruit-ivory-enlist
 bip_39_word_new_br_1: dolphin
 bip_39_word_new_br_10: dolphin<br>noble<br>tent<br>rocket<br>escape<br>spatial<br>fruit<br>ivory<br>enlist<br>twice
 bip_39_word_new_br_11: dolphin<br>noble<br>tent<br>rocket<br>escape<br>spatial<br>fruit<br>ivory<br>enlist<br>twice<br>brave
@@ -194,6 +206,18 @@ bip_39_word_space_6: dolphin noble tent rocket escape spatial
 bip_39_word_space_7: dolphin noble tent rocket escape spatial fruit
 bip_39_word_space_8: dolphin noble tent rocket escape spatial fruit ivory
 bip_39_word_space_9: dolphin noble tent rocket escape spatial fruit ivory enlist
+bip_39_word_underscore_1: dolphin
+bip_39_word_underscore_10: dolphin_noble_tent_rocket_escape_spatial_fruit_ivory_enlist_twice
+bip_39_word_underscore_11: dolphin_noble_tent_rocket_escape_spatial_fruit_ivory_enlist_twice_brave
+bip_39_word_underscore_12: dolphin_noble_tent_rocket_escape_spatial_fruit_ivory_enlist_twice_brave_air
+bip_39_word_underscore_2: dolphin_noble
+bip_39_word_underscore_3: dolphin_noble_tent
+bip_39_word_underscore_4: dolphin_noble_tent_rocket
+bip_39_word_underscore_5: dolphin_noble_tent_rocket_escape
+bip_39_word_underscore_6: dolphin_noble_tent_rocket_escape_spatial
+bip_39_word_underscore_7: dolphin_noble_tent_rocket_escape_spatial_fruit
+bip_39_word_underscore_8: dolphin_noble_tent_rocket_escape_spatial_fruit_ivory
+bip_39_word_underscore_9: dolphin_noble_tent_rocket_escape_spatial_fruit_ivory_enlist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

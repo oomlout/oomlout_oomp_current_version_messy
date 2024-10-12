@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dial
+bip_39_word_dash_10: dial-cactus-bench-tail-roof-thrive-artist-abandon-pact-time
+bip_39_word_dash_11: dial-cactus-bench-tail-roof-thrive-artist-abandon-pact-time-behind
+bip_39_word_dash_12: dial-cactus-bench-tail-roof-thrive-artist-abandon-pact-time-behind-air
+bip_39_word_dash_2: dial-cactus
+bip_39_word_dash_3: dial-cactus-bench
+bip_39_word_dash_4: dial-cactus-bench-tail
+bip_39_word_dash_5: dial-cactus-bench-tail-roof
+bip_39_word_dash_6: dial-cactus-bench-tail-roof-thrive
+bip_39_word_dash_7: dial-cactus-bench-tail-roof-thrive-artist
+bip_39_word_dash_8: dial-cactus-bench-tail-roof-thrive-artist-abandon
+bip_39_word_dash_9: dial-cactus-bench-tail-roof-thrive-artist-abandon-pact
 bip_39_word_new_br_1: dial
 bip_39_word_new_br_10: dial<br>cactus<br>bench<br>tail<br>roof<br>thrive<br>artist<br>abandon<br>pact<br>time
 bip_39_word_new_br_11: dial<br>cactus<br>bench<br>tail<br>roof<br>thrive<br>artist<br>abandon<br>pact<br>time<br>behind
@@ -193,6 +205,18 @@ bip_39_word_space_6: dial cactus bench tail roof thrive
 bip_39_word_space_7: dial cactus bench tail roof thrive artist
 bip_39_word_space_8: dial cactus bench tail roof thrive artist abandon
 bip_39_word_space_9: dial cactus bench tail roof thrive artist abandon pact
+bip_39_word_underscore_1: dial
+bip_39_word_underscore_10: dial_cactus_bench_tail_roof_thrive_artist_abandon_pact_time
+bip_39_word_underscore_11: dial_cactus_bench_tail_roof_thrive_artist_abandon_pact_time_behind
+bip_39_word_underscore_12: dial_cactus_bench_tail_roof_thrive_artist_abandon_pact_time_behind_air
+bip_39_word_underscore_2: dial_cactus
+bip_39_word_underscore_3: dial_cactus_bench
+bip_39_word_underscore_4: dial_cactus_bench_tail
+bip_39_word_underscore_5: dial_cactus_bench_tail_roof
+bip_39_word_underscore_6: dial_cactus_bench_tail_roof_thrive
+bip_39_word_underscore_7: dial_cactus_bench_tail_roof_thrive_artist
+bip_39_word_underscore_8: dial_cactus_bench_tail_roof_thrive_artist_abandon
+bip_39_word_underscore_9: dial_cactus_bench_tail_roof_thrive_artist_abandon_pact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

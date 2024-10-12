@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | job |  
+| bip_39_word_dash_10 | job-fatal-weekend-tragic-box-service-rocket-want-solve-snake |  
+| bip_39_word_dash_11 | job-fatal-weekend-tragic-box-service-rocket-want-solve-snake-equip |  
+| bip_39_word_dash_12 | job-fatal-weekend-tragic-box-service-rocket-want-solve-snake-equip-actual |  
+| bip_39_word_dash_2 | job-fatal |  
+| bip_39_word_dash_3 | job-fatal-weekend |  
+| bip_39_word_dash_4 | job-fatal-weekend-tragic |  
+| bip_39_word_dash_5 | job-fatal-weekend-tragic-box |  
+| bip_39_word_dash_6 | job-fatal-weekend-tragic-box-service |  
+| bip_39_word_dash_7 | job-fatal-weekend-tragic-box-service-rocket |  
+| bip_39_word_dash_8 | job-fatal-weekend-tragic-box-service-rocket-want |  
+| bip_39_word_dash_9 | job-fatal-weekend-tragic-box-service-rocket-want-solve |  
 | bip_39_word_new_br_1 | job |  
 | bip_39_word_new_br_10 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake |  
 | bip_39_word_new_br_11 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake<br>equip |  
@@ -147,6 +159,18 @@ solve |
 | bip_39_word_space_7 | job fatal weekend tragic box service rocket |  
 | bip_39_word_space_8 | job fatal weekend tragic box service rocket want |  
 | bip_39_word_space_9 | job fatal weekend tragic box service rocket want solve |  
+| bip_39_word_underscore_1 | job |  
+| bip_39_word_underscore_10 | job_fatal_weekend_tragic_box_service_rocket_want_solve_snake |  
+| bip_39_word_underscore_11 | job_fatal_weekend_tragic_box_service_rocket_want_solve_snake_equip |  
+| bip_39_word_underscore_12 | job_fatal_weekend_tragic_box_service_rocket_want_solve_snake_equip_actual |  
+| bip_39_word_underscore_2 | job_fatal |  
+| bip_39_word_underscore_3 | job_fatal_weekend |  
+| bip_39_word_underscore_4 | job_fatal_weekend_tragic |  
+| bip_39_word_underscore_5 | job_fatal_weekend_tragic_box |  
+| bip_39_word_underscore_6 | job_fatal_weekend_tragic_box_service |  
+| bip_39_word_underscore_7 | job_fatal_weekend_tragic_box_service_rocket |  
+| bip_39_word_underscore_8 | job_fatal_weekend_tragic_box_service_rocket_want |  
+| bip_39_word_underscore_9 | job_fatal_weekend_tragic_box_service_rocket_want_solve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

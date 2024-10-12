@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deny |  
+| bip_39_word_dash_10 | deny-rude-arm-erosion-crack-frozen-window-define-peasant-crouch |  
+| bip_39_word_dash_11 | deny-rude-arm-erosion-crack-frozen-window-define-peasant-crouch-cruel |  
+| bip_39_word_dash_12 | deny-rude-arm-erosion-crack-frozen-window-define-peasant-crouch-cruel-answer |  
+| bip_39_word_dash_2 | deny-rude |  
+| bip_39_word_dash_3 | deny-rude-arm |  
+| bip_39_word_dash_4 | deny-rude-arm-erosion |  
+| bip_39_word_dash_5 | deny-rude-arm-erosion-crack |  
+| bip_39_word_dash_6 | deny-rude-arm-erosion-crack-frozen |  
+| bip_39_word_dash_7 | deny-rude-arm-erosion-crack-frozen-window |  
+| bip_39_word_dash_8 | deny-rude-arm-erosion-crack-frozen-window-define |  
+| bip_39_word_dash_9 | deny-rude-arm-erosion-crack-frozen-window-define-peasant |  
 | bip_39_word_new_br_1 | deny |  
 | bip_39_word_new_br_10 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch |  
 | bip_39_word_new_br_11 | deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch<br>cruel |  
@@ -147,6 +159,18 @@ peasant |
 | bip_39_word_space_7 | deny rude arm erosion crack frozen window |  
 | bip_39_word_space_8 | deny rude arm erosion crack frozen window define |  
 | bip_39_word_space_9 | deny rude arm erosion crack frozen window define peasant |  
+| bip_39_word_underscore_1 | deny |  
+| bip_39_word_underscore_10 | deny_rude_arm_erosion_crack_frozen_window_define_peasant_crouch |  
+| bip_39_word_underscore_11 | deny_rude_arm_erosion_crack_frozen_window_define_peasant_crouch_cruel |  
+| bip_39_word_underscore_12 | deny_rude_arm_erosion_crack_frozen_window_define_peasant_crouch_cruel_answer |  
+| bip_39_word_underscore_2 | deny_rude |  
+| bip_39_word_underscore_3 | deny_rude_arm |  
+| bip_39_word_underscore_4 | deny_rude_arm_erosion |  
+| bip_39_word_underscore_5 | deny_rude_arm_erosion_crack |  
+| bip_39_word_underscore_6 | deny_rude_arm_erosion_crack_frozen |  
+| bip_39_word_underscore_7 | deny_rude_arm_erosion_crack_frozen_window |  
+| bip_39_word_underscore_8 | deny_rude_arm_erosion_crack_frozen_window_define |  
+| bip_39_word_underscore_9 | deny_rude_arm_erosion_crack_frozen_window_define_peasant |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

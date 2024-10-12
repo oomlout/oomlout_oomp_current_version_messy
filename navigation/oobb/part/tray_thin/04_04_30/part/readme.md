@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gospel |  
+| bip_39_word_dash_10 | gospel-addict-also-come-inhale-focus-stadium-little-eyebrow-banana |  
+| bip_39_word_dash_11 | gospel-addict-also-come-inhale-focus-stadium-little-eyebrow-banana-gesture |  
+| bip_39_word_dash_12 | gospel-addict-also-come-inhale-focus-stadium-little-eyebrow-banana-gesture-attitude |  
+| bip_39_word_dash_2 | gospel-addict |  
+| bip_39_word_dash_3 | gospel-addict-also |  
+| bip_39_word_dash_4 | gospel-addict-also-come |  
+| bip_39_word_dash_5 | gospel-addict-also-come-inhale |  
+| bip_39_word_dash_6 | gospel-addict-also-come-inhale-focus |  
+| bip_39_word_dash_7 | gospel-addict-also-come-inhale-focus-stadium |  
+| bip_39_word_dash_8 | gospel-addict-also-come-inhale-focus-stadium-little |  
+| bip_39_word_dash_9 | gospel-addict-also-come-inhale-focus-stadium-little-eyebrow |  
 | bip_39_word_new_br_1 | gospel |  
 | bip_39_word_new_br_10 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana |  
 | bip_39_word_new_br_11 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana<br>gesture |  
@@ -147,6 +159,18 @@ eyebrow |
 | bip_39_word_space_7 | gospel addict also come inhale focus stadium |  
 | bip_39_word_space_8 | gospel addict also come inhale focus stadium little |  
 | bip_39_word_space_9 | gospel addict also come inhale focus stadium little eyebrow |  
+| bip_39_word_underscore_1 | gospel |  
+| bip_39_word_underscore_10 | gospel_addict_also_come_inhale_focus_stadium_little_eyebrow_banana |  
+| bip_39_word_underscore_11 | gospel_addict_also_come_inhale_focus_stadium_little_eyebrow_banana_gesture |  
+| bip_39_word_underscore_12 | gospel_addict_also_come_inhale_focus_stadium_little_eyebrow_banana_gesture_attitude |  
+| bip_39_word_underscore_2 | gospel_addict |  
+| bip_39_word_underscore_3 | gospel_addict_also |  
+| bip_39_word_underscore_4 | gospel_addict_also_come |  
+| bip_39_word_underscore_5 | gospel_addict_also_come_inhale |  
+| bip_39_word_underscore_6 | gospel_addict_also_come_inhale_focus |  
+| bip_39_word_underscore_7 | gospel_addict_also_come_inhale_focus_stadium |  
+| bip_39_word_underscore_8 | gospel_addict_also_come_inhale_focus_stadium_little |  
+| bip_39_word_underscore_9 | gospel_addict_also_come_inhale_focus_stadium_little_eyebrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

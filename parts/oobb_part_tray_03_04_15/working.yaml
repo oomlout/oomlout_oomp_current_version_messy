@@ -1,3 +1,15 @@
+bip_39_word_dash_1: alcohol
+bip_39_word_dash_10: alcohol-treat-rail-bargain-belt-service-unique-captain-pact-dilemma
+bip_39_word_dash_11: alcohol-treat-rail-bargain-belt-service-unique-captain-pact-dilemma-choose
+bip_39_word_dash_12: alcohol-treat-rail-bargain-belt-service-unique-captain-pact-dilemma-choose-achieve
+bip_39_word_dash_2: alcohol-treat
+bip_39_word_dash_3: alcohol-treat-rail
+bip_39_word_dash_4: alcohol-treat-rail-bargain
+bip_39_word_dash_5: alcohol-treat-rail-bargain-belt
+bip_39_word_dash_6: alcohol-treat-rail-bargain-belt-service
+bip_39_word_dash_7: alcohol-treat-rail-bargain-belt-service-unique
+bip_39_word_dash_8: alcohol-treat-rail-bargain-belt-service-unique-captain
+bip_39_word_dash_9: alcohol-treat-rail-bargain-belt-service-unique-captain-pact
 bip_39_word_new_br_1: alcohol
 bip_39_word_new_br_10: alcohol<br>treat<br>rail<br>bargain<br>belt<br>service<br>unique<br>captain<br>pact<br>dilemma
 bip_39_word_new_br_11: alcohol<br>treat<br>rail<br>bargain<br>belt<br>service<br>unique<br>captain<br>pact<br>dilemma<br>choose
@@ -194,6 +206,18 @@ bip_39_word_space_6: alcohol treat rail bargain belt service
 bip_39_word_space_7: alcohol treat rail bargain belt service unique
 bip_39_word_space_8: alcohol treat rail bargain belt service unique captain
 bip_39_word_space_9: alcohol treat rail bargain belt service unique captain pact
+bip_39_word_underscore_1: alcohol
+bip_39_word_underscore_10: alcohol_treat_rail_bargain_belt_service_unique_captain_pact_dilemma
+bip_39_word_underscore_11: alcohol_treat_rail_bargain_belt_service_unique_captain_pact_dilemma_choose
+bip_39_word_underscore_12: alcohol_treat_rail_bargain_belt_service_unique_captain_pact_dilemma_choose_achieve
+bip_39_word_underscore_2: alcohol_treat
+bip_39_word_underscore_3: alcohol_treat_rail
+bip_39_word_underscore_4: alcohol_treat_rail_bargain
+bip_39_word_underscore_5: alcohol_treat_rail_bargain_belt
+bip_39_word_underscore_6: alcohol_treat_rail_bargain_belt_service
+bip_39_word_underscore_7: alcohol_treat_rail_bargain_belt_service_unique
+bip_39_word_underscore_8: alcohol_treat_rail_bargain_belt_service_unique_captain
+bip_39_word_underscore_9: alcohol_treat_rail_bargain_belt_service_unique_captain_pact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

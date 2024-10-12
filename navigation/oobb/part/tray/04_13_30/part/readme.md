@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rotate |  
+| bip_39_word_dash_10 | rotate-potato-rug-oyster-title-reunion-pumpkin-insect-inhale-voyage |  
+| bip_39_word_dash_11 | rotate-potato-rug-oyster-title-reunion-pumpkin-insect-inhale-voyage-wage |  
+| bip_39_word_dash_12 | rotate-potato-rug-oyster-title-reunion-pumpkin-insect-inhale-voyage-wage-alien |  
+| bip_39_word_dash_2 | rotate-potato |  
+| bip_39_word_dash_3 | rotate-potato-rug |  
+| bip_39_word_dash_4 | rotate-potato-rug-oyster |  
+| bip_39_word_dash_5 | rotate-potato-rug-oyster-title |  
+| bip_39_word_dash_6 | rotate-potato-rug-oyster-title-reunion |  
+| bip_39_word_dash_7 | rotate-potato-rug-oyster-title-reunion-pumpkin |  
+| bip_39_word_dash_8 | rotate-potato-rug-oyster-title-reunion-pumpkin-insect |  
+| bip_39_word_dash_9 | rotate-potato-rug-oyster-title-reunion-pumpkin-insect-inhale |  
 | bip_39_word_new_br_1 | rotate |  
 | bip_39_word_new_br_10 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect<br>inhale<br>voyage |  
 | bip_39_word_new_br_11 | rotate<br>potato<br>rug<br>oyster<br>title<br>reunion<br>pumpkin<br>insect<br>inhale<br>voyage<br>wage |  
@@ -147,6 +159,18 @@ inhale |
 | bip_39_word_space_7 | rotate potato rug oyster title reunion pumpkin |  
 | bip_39_word_space_8 | rotate potato rug oyster title reunion pumpkin insect |  
 | bip_39_word_space_9 | rotate potato rug oyster title reunion pumpkin insect inhale |  
+| bip_39_word_underscore_1 | rotate |  
+| bip_39_word_underscore_10 | rotate_potato_rug_oyster_title_reunion_pumpkin_insect_inhale_voyage |  
+| bip_39_word_underscore_11 | rotate_potato_rug_oyster_title_reunion_pumpkin_insect_inhale_voyage_wage |  
+| bip_39_word_underscore_12 | rotate_potato_rug_oyster_title_reunion_pumpkin_insect_inhale_voyage_wage_alien |  
+| bip_39_word_underscore_2 | rotate_potato |  
+| bip_39_word_underscore_3 | rotate_potato_rug |  
+| bip_39_word_underscore_4 | rotate_potato_rug_oyster |  
+| bip_39_word_underscore_5 | rotate_potato_rug_oyster_title |  
+| bip_39_word_underscore_6 | rotate_potato_rug_oyster_title_reunion |  
+| bip_39_word_underscore_7 | rotate_potato_rug_oyster_title_reunion_pumpkin |  
+| bip_39_word_underscore_8 | rotate_potato_rug_oyster_title_reunion_pumpkin_insect |  
+| bip_39_word_underscore_9 | rotate_potato_rug_oyster_title_reunion_pumpkin_insect_inhale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

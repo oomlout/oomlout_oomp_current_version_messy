@@ -1,3 +1,15 @@
+bip_39_word_dash_1: beef
+bip_39_word_dash_10: beef-bracket-elevator-smooth-pig-vehicle-frame-napkin-soft-try
+bip_39_word_dash_11: beef-bracket-elevator-smooth-pig-vehicle-frame-napkin-soft-try-various
+bip_39_word_dash_12: beef-bracket-elevator-smooth-pig-vehicle-frame-napkin-soft-try-various-area
+bip_39_word_dash_2: beef-bracket
+bip_39_word_dash_3: beef-bracket-elevator
+bip_39_word_dash_4: beef-bracket-elevator-smooth
+bip_39_word_dash_5: beef-bracket-elevator-smooth-pig
+bip_39_word_dash_6: beef-bracket-elevator-smooth-pig-vehicle
+bip_39_word_dash_7: beef-bracket-elevator-smooth-pig-vehicle-frame
+bip_39_word_dash_8: beef-bracket-elevator-smooth-pig-vehicle-frame-napkin
+bip_39_word_dash_9: beef-bracket-elevator-smooth-pig-vehicle-frame-napkin-soft
 bip_39_word_new_br_1: beef
 bip_39_word_new_br_10: beef<br>bracket<br>elevator<br>smooth<br>pig<br>vehicle<br>frame<br>napkin<br>soft<br>try
 bip_39_word_new_br_11: beef<br>bracket<br>elevator<br>smooth<br>pig<br>vehicle<br>frame<br>napkin<br>soft<br>try<br>various
@@ -193,6 +205,18 @@ bip_39_word_space_6: beef bracket elevator smooth pig vehicle
 bip_39_word_space_7: beef bracket elevator smooth pig vehicle frame
 bip_39_word_space_8: beef bracket elevator smooth pig vehicle frame napkin
 bip_39_word_space_9: beef bracket elevator smooth pig vehicle frame napkin soft
+bip_39_word_underscore_1: beef
+bip_39_word_underscore_10: beef_bracket_elevator_smooth_pig_vehicle_frame_napkin_soft_try
+bip_39_word_underscore_11: beef_bracket_elevator_smooth_pig_vehicle_frame_napkin_soft_try_various
+bip_39_word_underscore_12: beef_bracket_elevator_smooth_pig_vehicle_frame_napkin_soft_try_various_area
+bip_39_word_underscore_2: beef_bracket
+bip_39_word_underscore_3: beef_bracket_elevator
+bip_39_word_underscore_4: beef_bracket_elevator_smooth
+bip_39_word_underscore_5: beef_bracket_elevator_smooth_pig
+bip_39_word_underscore_6: beef_bracket_elevator_smooth_pig_vehicle
+bip_39_word_underscore_7: beef_bracket_elevator_smooth_pig_vehicle_frame
+bip_39_word_underscore_8: beef_bracket_elevator_smooth_pig_vehicle_frame_napkin
+bip_39_word_underscore_9: beef_bracket_elevator_smooth_pig_vehicle_frame_napkin_soft
 classification: tool
 classification_capital: Tool
 classification_first_letter: t

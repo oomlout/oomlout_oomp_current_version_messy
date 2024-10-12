@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wall |  
+| bip_39_word_dash_10 | wall-calm-initial-truly-force-hair-agree-gaze-dwarf-forum |  
+| bip_39_word_dash_11 | wall-calm-initial-truly-force-hair-agree-gaze-dwarf-forum-tuition |  
+| bip_39_word_dash_12 | wall-calm-initial-truly-force-hair-agree-gaze-dwarf-forum-tuition-absent |  
+| bip_39_word_dash_2 | wall-calm |  
+| bip_39_word_dash_3 | wall-calm-initial |  
+| bip_39_word_dash_4 | wall-calm-initial-truly |  
+| bip_39_word_dash_5 | wall-calm-initial-truly-force |  
+| bip_39_word_dash_6 | wall-calm-initial-truly-force-hair |  
+| bip_39_word_dash_7 | wall-calm-initial-truly-force-hair-agree |  
+| bip_39_word_dash_8 | wall-calm-initial-truly-force-hair-agree-gaze |  
+| bip_39_word_dash_9 | wall-calm-initial-truly-force-hair-agree-gaze-dwarf |  
 | bip_39_word_new_br_1 | wall |  
 | bip_39_word_new_br_10 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze<br>dwarf<br>forum |  
 | bip_39_word_new_br_11 | wall<br>calm<br>initial<br>truly<br>force<br>hair<br>agree<br>gaze<br>dwarf<br>forum<br>tuition |  
@@ -147,6 +159,18 @@ dwarf |
 | bip_39_word_space_7 | wall calm initial truly force hair agree |  
 | bip_39_word_space_8 | wall calm initial truly force hair agree gaze |  
 | bip_39_word_space_9 | wall calm initial truly force hair agree gaze dwarf |  
+| bip_39_word_underscore_1 | wall |  
+| bip_39_word_underscore_10 | wall_calm_initial_truly_force_hair_agree_gaze_dwarf_forum |  
+| bip_39_word_underscore_11 | wall_calm_initial_truly_force_hair_agree_gaze_dwarf_forum_tuition |  
+| bip_39_word_underscore_12 | wall_calm_initial_truly_force_hair_agree_gaze_dwarf_forum_tuition_absent |  
+| bip_39_word_underscore_2 | wall_calm |  
+| bip_39_word_underscore_3 | wall_calm_initial |  
+| bip_39_word_underscore_4 | wall_calm_initial_truly |  
+| bip_39_word_underscore_5 | wall_calm_initial_truly_force |  
+| bip_39_word_underscore_6 | wall_calm_initial_truly_force_hair |  
+| bip_39_word_underscore_7 | wall_calm_initial_truly_force_hair_agree |  
+| bip_39_word_underscore_8 | wall_calm_initial_truly_force_hair_agree_gaze |  
+| bip_39_word_underscore_9 | wall_calm_initial_truly_force_hair_agree_gaze_dwarf |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

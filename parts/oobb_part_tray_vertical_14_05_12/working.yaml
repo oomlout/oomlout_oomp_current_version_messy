@@ -1,3 +1,15 @@
+bip_39_word_dash_1: accident
+bip_39_word_dash_10: accident-snow-advance-patch-elevator-permit-lesson-embody-way-plug
+bip_39_word_dash_11: accident-snow-advance-patch-elevator-permit-lesson-embody-way-plug-nasty
+bip_39_word_dash_12: accident-snow-advance-patch-elevator-permit-lesson-embody-way-plug-nasty-adapt
+bip_39_word_dash_2: accident-snow
+bip_39_word_dash_3: accident-snow-advance
+bip_39_word_dash_4: accident-snow-advance-patch
+bip_39_word_dash_5: accident-snow-advance-patch-elevator
+bip_39_word_dash_6: accident-snow-advance-patch-elevator-permit
+bip_39_word_dash_7: accident-snow-advance-patch-elevator-permit-lesson
+bip_39_word_dash_8: accident-snow-advance-patch-elevator-permit-lesson-embody
+bip_39_word_dash_9: accident-snow-advance-patch-elevator-permit-lesson-embody-way
 bip_39_word_new_br_1: accident
 bip_39_word_new_br_10: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug
 bip_39_word_new_br_11: accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug<br>nasty
@@ -194,6 +206,18 @@ bip_39_word_space_6: accident snow advance patch elevator permit
 bip_39_word_space_7: accident snow advance patch elevator permit lesson
 bip_39_word_space_8: accident snow advance patch elevator permit lesson embody
 bip_39_word_space_9: accident snow advance patch elevator permit lesson embody way
+bip_39_word_underscore_1: accident
+bip_39_word_underscore_10: accident_snow_advance_patch_elevator_permit_lesson_embody_way_plug
+bip_39_word_underscore_11: accident_snow_advance_patch_elevator_permit_lesson_embody_way_plug_nasty
+bip_39_word_underscore_12: accident_snow_advance_patch_elevator_permit_lesson_embody_way_plug_nasty_adapt
+bip_39_word_underscore_2: accident_snow
+bip_39_word_underscore_3: accident_snow_advance
+bip_39_word_underscore_4: accident_snow_advance_patch
+bip_39_word_underscore_5: accident_snow_advance_patch_elevator
+bip_39_word_underscore_6: accident_snow_advance_patch_elevator_permit
+bip_39_word_underscore_7: accident_snow_advance_patch_elevator_permit_lesson
+bip_39_word_underscore_8: accident_snow_advance_patch_elevator_permit_lesson_embody
+bip_39_word_underscore_9: accident_snow_advance_patch_elevator_permit_lesson_embody_way
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

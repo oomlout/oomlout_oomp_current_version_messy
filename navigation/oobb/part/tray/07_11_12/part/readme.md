@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | together |  
+| bip_39_word_dash_10 | together-camp-crop-only-liar-vessel-immune-tonight-render-hover |  
+| bip_39_word_dash_11 | together-camp-crop-only-liar-vessel-immune-tonight-render-hover-thrive |  
+| bip_39_word_dash_12 | together-camp-crop-only-liar-vessel-immune-tonight-render-hover-thrive-adult |  
+| bip_39_word_dash_2 | together-camp |  
+| bip_39_word_dash_3 | together-camp-crop |  
+| bip_39_word_dash_4 | together-camp-crop-only |  
+| bip_39_word_dash_5 | together-camp-crop-only-liar |  
+| bip_39_word_dash_6 | together-camp-crop-only-liar-vessel |  
+| bip_39_word_dash_7 | together-camp-crop-only-liar-vessel-immune |  
+| bip_39_word_dash_8 | together-camp-crop-only-liar-vessel-immune-tonight |  
+| bip_39_word_dash_9 | together-camp-crop-only-liar-vessel-immune-tonight-render |  
 | bip_39_word_new_br_1 | together |  
 | bip_39_word_new_br_10 | together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight<br>render<br>hover |  
 | bip_39_word_new_br_11 | together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight<br>render<br>hover<br>thrive |  
@@ -147,6 +159,18 @@ render |
 | bip_39_word_space_7 | together camp crop only liar vessel immune |  
 | bip_39_word_space_8 | together camp crop only liar vessel immune tonight |  
 | bip_39_word_space_9 | together camp crop only liar vessel immune tonight render |  
+| bip_39_word_underscore_1 | together |  
+| bip_39_word_underscore_10 | together_camp_crop_only_liar_vessel_immune_tonight_render_hover |  
+| bip_39_word_underscore_11 | together_camp_crop_only_liar_vessel_immune_tonight_render_hover_thrive |  
+| bip_39_word_underscore_12 | together_camp_crop_only_liar_vessel_immune_tonight_render_hover_thrive_adult |  
+| bip_39_word_underscore_2 | together_camp |  
+| bip_39_word_underscore_3 | together_camp_crop |  
+| bip_39_word_underscore_4 | together_camp_crop_only |  
+| bip_39_word_underscore_5 | together_camp_crop_only_liar |  
+| bip_39_word_underscore_6 | together_camp_crop_only_liar_vessel |  
+| bip_39_word_underscore_7 | together_camp_crop_only_liar_vessel_immune |  
+| bip_39_word_underscore_8 | together_camp_crop_only_liar_vessel_immune_tonight |  
+| bip_39_word_underscore_9 | together_camp_crop_only_liar_vessel_immune_tonight_render |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

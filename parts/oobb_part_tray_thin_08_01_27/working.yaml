@@ -1,3 +1,15 @@
+bip_39_word_dash_1: benefit
+bip_39_word_dash_10: benefit-once-clog-hold-move-scale-flame-maple-smooth-project
+bip_39_word_dash_11: benefit-once-clog-hold-move-scale-flame-maple-smooth-project-nice
+bip_39_word_dash_12: benefit-once-clog-hold-move-scale-flame-maple-smooth-project-nice-actual
+bip_39_word_dash_2: benefit-once
+bip_39_word_dash_3: benefit-once-clog
+bip_39_word_dash_4: benefit-once-clog-hold
+bip_39_word_dash_5: benefit-once-clog-hold-move
+bip_39_word_dash_6: benefit-once-clog-hold-move-scale
+bip_39_word_dash_7: benefit-once-clog-hold-move-scale-flame
+bip_39_word_dash_8: benefit-once-clog-hold-move-scale-flame-maple
+bip_39_word_dash_9: benefit-once-clog-hold-move-scale-flame-maple-smooth
 bip_39_word_new_br_1: benefit
 bip_39_word_new_br_10: benefit<br>once<br>clog<br>hold<br>move<br>scale<br>flame<br>maple<br>smooth<br>project
 bip_39_word_new_br_11: benefit<br>once<br>clog<br>hold<br>move<br>scale<br>flame<br>maple<br>smooth<br>project<br>nice
@@ -193,6 +205,18 @@ bip_39_word_space_6: benefit once clog hold move scale
 bip_39_word_space_7: benefit once clog hold move scale flame
 bip_39_word_space_8: benefit once clog hold move scale flame maple
 bip_39_word_space_9: benefit once clog hold move scale flame maple smooth
+bip_39_word_underscore_1: benefit
+bip_39_word_underscore_10: benefit_once_clog_hold_move_scale_flame_maple_smooth_project
+bip_39_word_underscore_11: benefit_once_clog_hold_move_scale_flame_maple_smooth_project_nice
+bip_39_word_underscore_12: benefit_once_clog_hold_move_scale_flame_maple_smooth_project_nice_actual
+bip_39_word_underscore_2: benefit_once
+bip_39_word_underscore_3: benefit_once_clog
+bip_39_word_underscore_4: benefit_once_clog_hold
+bip_39_word_underscore_5: benefit_once_clog_hold_move
+bip_39_word_underscore_6: benefit_once_clog_hold_move_scale
+bip_39_word_underscore_7: benefit_once_clog_hold_move_scale_flame
+bip_39_word_underscore_8: benefit_once_clog_hold_move_scale_flame_maple
+bip_39_word_underscore_9: benefit_once_clog_hold_move_scale_flame_maple_smooth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

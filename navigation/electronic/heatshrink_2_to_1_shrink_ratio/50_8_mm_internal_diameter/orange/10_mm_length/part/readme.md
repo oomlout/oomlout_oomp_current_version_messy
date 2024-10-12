@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wheat |  
+| bip_39_word_dash_10 | wheat-hover-panther-arena-solid-search-stem-accident-sauce-arena |  
+| bip_39_word_dash_11 | wheat-hover-panther-arena-solid-search-stem-accident-sauce-arena-error |  
+| bip_39_word_dash_12 | wheat-hover-panther-arena-solid-search-stem-accident-sauce-arena-error-ankle |  
+| bip_39_word_dash_2 | wheat-hover |  
+| bip_39_word_dash_3 | wheat-hover-panther |  
+| bip_39_word_dash_4 | wheat-hover-panther-arena |  
+| bip_39_word_dash_5 | wheat-hover-panther-arena-solid |  
+| bip_39_word_dash_6 | wheat-hover-panther-arena-solid-search |  
+| bip_39_word_dash_7 | wheat-hover-panther-arena-solid-search-stem |  
+| bip_39_word_dash_8 | wheat-hover-panther-arena-solid-search-stem-accident |  
+| bip_39_word_dash_9 | wheat-hover-panther-arena-solid-search-stem-accident-sauce |  
 | bip_39_word_new_br_1 | wheat |  
 | bip_39_word_new_br_10 | wheat<br>hover<br>panther<br>arena<br>solid<br>search<br>stem<br>accident<br>sauce<br>arena |  
 | bip_39_word_new_br_11 | wheat<br>hover<br>panther<br>arena<br>solid<br>search<br>stem<br>accident<br>sauce<br>arena<br>error |  
@@ -147,6 +159,18 @@ sauce |
 | bip_39_word_space_7 | wheat hover panther arena solid search stem |  
 | bip_39_word_space_8 | wheat hover panther arena solid search stem accident |  
 | bip_39_word_space_9 | wheat hover panther arena solid search stem accident sauce |  
+| bip_39_word_underscore_1 | wheat |  
+| bip_39_word_underscore_10 | wheat_hover_panther_arena_solid_search_stem_accident_sauce_arena |  
+| bip_39_word_underscore_11 | wheat_hover_panther_arena_solid_search_stem_accident_sauce_arena_error |  
+| bip_39_word_underscore_12 | wheat_hover_panther_arena_solid_search_stem_accident_sauce_arena_error_ankle |  
+| bip_39_word_underscore_2 | wheat_hover |  
+| bip_39_word_underscore_3 | wheat_hover_panther |  
+| bip_39_word_underscore_4 | wheat_hover_panther_arena |  
+| bip_39_word_underscore_5 | wheat_hover_panther_arena_solid |  
+| bip_39_word_underscore_6 | wheat_hover_panther_arena_solid_search |  
+| bip_39_word_underscore_7 | wheat_hover_panther_arena_solid_search_stem |  
+| bip_39_word_underscore_8 | wheat_hover_panther_arena_solid_search_stem_accident |  
+| bip_39_word_underscore_9 | wheat_hover_panther_arena_solid_search_stem_accident_sauce |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

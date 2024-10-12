@@ -1,3 +1,15 @@
+bip_39_word_dash_1: knife
+bip_39_word_dash_10: knife-squirrel-source-exact-room-sock-weapon-random-health-produce
+bip_39_word_dash_11: knife-squirrel-source-exact-room-sock-weapon-random-health-produce-rabbit
+bip_39_word_dash_12: knife-squirrel-source-exact-room-sock-weapon-random-health-produce-rabbit-animal
+bip_39_word_dash_2: knife-squirrel
+bip_39_word_dash_3: knife-squirrel-source
+bip_39_word_dash_4: knife-squirrel-source-exact
+bip_39_word_dash_5: knife-squirrel-source-exact-room
+bip_39_word_dash_6: knife-squirrel-source-exact-room-sock
+bip_39_word_dash_7: knife-squirrel-source-exact-room-sock-weapon
+bip_39_word_dash_8: knife-squirrel-source-exact-room-sock-weapon-random
+bip_39_word_dash_9: knife-squirrel-source-exact-room-sock-weapon-random-health
 bip_39_word_new_br_1: knife
 bip_39_word_new_br_10: knife<br>squirrel<br>source<br>exact<br>room<br>sock<br>weapon<br>random<br>health<br>produce
 bip_39_word_new_br_11: knife<br>squirrel<br>source<br>exact<br>room<br>sock<br>weapon<br>random<br>health<br>produce<br>rabbit
@@ -193,6 +205,18 @@ bip_39_word_space_6: knife squirrel source exact room sock
 bip_39_word_space_7: knife squirrel source exact room sock weapon
 bip_39_word_space_8: knife squirrel source exact room sock weapon random
 bip_39_word_space_9: knife squirrel source exact room sock weapon random health
+bip_39_word_underscore_1: knife
+bip_39_word_underscore_10: knife_squirrel_source_exact_room_sock_weapon_random_health_produce
+bip_39_word_underscore_11: knife_squirrel_source_exact_room_sock_weapon_random_health_produce_rabbit
+bip_39_word_underscore_12: knife_squirrel_source_exact_room_sock_weapon_random_health_produce_rabbit_animal
+bip_39_word_underscore_2: knife_squirrel
+bip_39_word_underscore_3: knife_squirrel_source
+bip_39_word_underscore_4: knife_squirrel_source_exact
+bip_39_word_underscore_5: knife_squirrel_source_exact_room
+bip_39_word_underscore_6: knife_squirrel_source_exact_room_sock
+bip_39_word_underscore_7: knife_squirrel_source_exact_room_sock_weapon
+bip_39_word_underscore_8: knife_squirrel_source_exact_room_sock_weapon_random
+bip_39_word_underscore_9: knife_squirrel_source_exact_room_sock_weapon_random_health
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

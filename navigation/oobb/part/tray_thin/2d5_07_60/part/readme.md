@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | light |  
+| bip_39_word_dash_10 | light-price-magic-lunar-mask-absorb-device-island-dance-priority |  
+| bip_39_word_dash_11 | light-price-magic-lunar-mask-absorb-device-island-dance-priority-jump |  
+| bip_39_word_dash_12 | light-price-magic-lunar-mask-absorb-device-island-dance-priority-jump-acoustic |  
+| bip_39_word_dash_2 | light-price |  
+| bip_39_word_dash_3 | light-price-magic |  
+| bip_39_word_dash_4 | light-price-magic-lunar |  
+| bip_39_word_dash_5 | light-price-magic-lunar-mask |  
+| bip_39_word_dash_6 | light-price-magic-lunar-mask-absorb |  
+| bip_39_word_dash_7 | light-price-magic-lunar-mask-absorb-device |  
+| bip_39_word_dash_8 | light-price-magic-lunar-mask-absorb-device-island |  
+| bip_39_word_dash_9 | light-price-magic-lunar-mask-absorb-device-island-dance |  
 | bip_39_word_new_br_1 | light |  
 | bip_39_word_new_br_10 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority |  
 | bip_39_word_new_br_11 | light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority<br>jump |  
@@ -147,6 +159,18 @@ dance |
 | bip_39_word_space_7 | light price magic lunar mask absorb device |  
 | bip_39_word_space_8 | light price magic lunar mask absorb device island |  
 | bip_39_word_space_9 | light price magic lunar mask absorb device island dance |  
+| bip_39_word_underscore_1 | light |  
+| bip_39_word_underscore_10 | light_price_magic_lunar_mask_absorb_device_island_dance_priority |  
+| bip_39_word_underscore_11 | light_price_magic_lunar_mask_absorb_device_island_dance_priority_jump |  
+| bip_39_word_underscore_12 | light_price_magic_lunar_mask_absorb_device_island_dance_priority_jump_acoustic |  
+| bip_39_word_underscore_2 | light_price |  
+| bip_39_word_underscore_3 | light_price_magic |  
+| bip_39_word_underscore_4 | light_price_magic_lunar |  
+| bip_39_word_underscore_5 | light_price_magic_lunar_mask |  
+| bip_39_word_underscore_6 | light_price_magic_lunar_mask_absorb |  
+| bip_39_word_underscore_7 | light_price_magic_lunar_mask_absorb_device |  
+| bip_39_word_underscore_8 | light_price_magic_lunar_mask_absorb_device_island |  
+| bip_39_word_underscore_9 | light_price_magic_lunar_mask_absorb_device_island_dance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

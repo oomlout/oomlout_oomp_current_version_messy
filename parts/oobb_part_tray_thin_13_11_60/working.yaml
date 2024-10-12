@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fiscal
+bip_39_word_dash_10: fiscal-aisle-boost-hazard-voice-tiny-way-wrong-alley-click
+bip_39_word_dash_11: fiscal-aisle-boost-hazard-voice-tiny-way-wrong-alley-click-swarm
+bip_39_word_dash_12: fiscal-aisle-boost-hazard-voice-tiny-way-wrong-alley-click-swarm-aunt
+bip_39_word_dash_2: fiscal-aisle
+bip_39_word_dash_3: fiscal-aisle-boost
+bip_39_word_dash_4: fiscal-aisle-boost-hazard
+bip_39_word_dash_5: fiscal-aisle-boost-hazard-voice
+bip_39_word_dash_6: fiscal-aisle-boost-hazard-voice-tiny
+bip_39_word_dash_7: fiscal-aisle-boost-hazard-voice-tiny-way
+bip_39_word_dash_8: fiscal-aisle-boost-hazard-voice-tiny-way-wrong
+bip_39_word_dash_9: fiscal-aisle-boost-hazard-voice-tiny-way-wrong-alley
 bip_39_word_new_br_1: fiscal
 bip_39_word_new_br_10: fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click
 bip_39_word_new_br_11: fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click<br>swarm
@@ -192,6 +204,18 @@ bip_39_word_space_6: fiscal aisle boost hazard voice tiny
 bip_39_word_space_7: fiscal aisle boost hazard voice tiny way
 bip_39_word_space_8: fiscal aisle boost hazard voice tiny way wrong
 bip_39_word_space_9: fiscal aisle boost hazard voice tiny way wrong alley
+bip_39_word_underscore_1: fiscal
+bip_39_word_underscore_10: fiscal_aisle_boost_hazard_voice_tiny_way_wrong_alley_click
+bip_39_word_underscore_11: fiscal_aisle_boost_hazard_voice_tiny_way_wrong_alley_click_swarm
+bip_39_word_underscore_12: fiscal_aisle_boost_hazard_voice_tiny_way_wrong_alley_click_swarm_aunt
+bip_39_word_underscore_2: fiscal_aisle
+bip_39_word_underscore_3: fiscal_aisle_boost
+bip_39_word_underscore_4: fiscal_aisle_boost_hazard
+bip_39_word_underscore_5: fiscal_aisle_boost_hazard_voice
+bip_39_word_underscore_6: fiscal_aisle_boost_hazard_voice_tiny
+bip_39_word_underscore_7: fiscal_aisle_boost_hazard_voice_tiny_way
+bip_39_word_underscore_8: fiscal_aisle_boost_hazard_voice_tiny_way_wrong
+bip_39_word_underscore_9: fiscal_aisle_boost_hazard_voice_tiny_way_wrong_alley
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

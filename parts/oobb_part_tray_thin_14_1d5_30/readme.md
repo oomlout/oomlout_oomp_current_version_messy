@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | steak |  
+| bip_39_word_dash_10 | steak-skin-page-jewel-flame-spell-scrap-margin-garage-soda |  
+| bip_39_word_dash_11 | steak-skin-page-jewel-flame-spell-scrap-margin-garage-soda-spot |  
+| bip_39_word_dash_12 | steak-skin-page-jewel-flame-spell-scrap-margin-garage-soda-spot-able |  
+| bip_39_word_dash_2 | steak-skin |  
+| bip_39_word_dash_3 | steak-skin-page |  
+| bip_39_word_dash_4 | steak-skin-page-jewel |  
+| bip_39_word_dash_5 | steak-skin-page-jewel-flame |  
+| bip_39_word_dash_6 | steak-skin-page-jewel-flame-spell |  
+| bip_39_word_dash_7 | steak-skin-page-jewel-flame-spell-scrap |  
+| bip_39_word_dash_8 | steak-skin-page-jewel-flame-spell-scrap-margin |  
+| bip_39_word_dash_9 | steak-skin-page-jewel-flame-spell-scrap-margin-garage |  
 | bip_39_word_new_br_1 | steak |  
 | bip_39_word_new_br_10 | steak<br>skin<br>page<br>jewel<br>flame<br>spell<br>scrap<br>margin<br>garage<br>soda |  
 | bip_39_word_new_br_11 | steak<br>skin<br>page<br>jewel<br>flame<br>spell<br>scrap<br>margin<br>garage<br>soda<br>spot |  
@@ -147,6 +159,18 @@ garage |
 | bip_39_word_space_7 | steak skin page jewel flame spell scrap |  
 | bip_39_word_space_8 | steak skin page jewel flame spell scrap margin |  
 | bip_39_word_space_9 | steak skin page jewel flame spell scrap margin garage |  
+| bip_39_word_underscore_1 | steak |  
+| bip_39_word_underscore_10 | steak_skin_page_jewel_flame_spell_scrap_margin_garage_soda |  
+| bip_39_word_underscore_11 | steak_skin_page_jewel_flame_spell_scrap_margin_garage_soda_spot |  
+| bip_39_word_underscore_12 | steak_skin_page_jewel_flame_spell_scrap_margin_garage_soda_spot_able |  
+| bip_39_word_underscore_2 | steak_skin |  
+| bip_39_word_underscore_3 | steak_skin_page |  
+| bip_39_word_underscore_4 | steak_skin_page_jewel |  
+| bip_39_word_underscore_5 | steak_skin_page_jewel_flame |  
+| bip_39_word_underscore_6 | steak_skin_page_jewel_flame_spell |  
+| bip_39_word_underscore_7 | steak_skin_page_jewel_flame_spell_scrap |  
+| bip_39_word_underscore_8 | steak_skin_page_jewel_flame_spell_scrap_margin |  
+| bip_39_word_underscore_9 | steak_skin_page_jewel_flame_spell_scrap_margin_garage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

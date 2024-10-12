@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | guilt |  
+| bip_39_word_dash_10 | guilt-produce-sound-garden-cannon-orphan-hidden-ten-inmate-float |  
+| bip_39_word_dash_11 | guilt-produce-sound-garden-cannon-orphan-hidden-ten-inmate-float-month |  
+| bip_39_word_dash_12 | guilt-produce-sound-garden-cannon-orphan-hidden-ten-inmate-float-month-act |  
+| bip_39_word_dash_2 | guilt-produce |  
+| bip_39_word_dash_3 | guilt-produce-sound |  
+| bip_39_word_dash_4 | guilt-produce-sound-garden |  
+| bip_39_word_dash_5 | guilt-produce-sound-garden-cannon |  
+| bip_39_word_dash_6 | guilt-produce-sound-garden-cannon-orphan |  
+| bip_39_word_dash_7 | guilt-produce-sound-garden-cannon-orphan-hidden |  
+| bip_39_word_dash_8 | guilt-produce-sound-garden-cannon-orphan-hidden-ten |  
+| bip_39_word_dash_9 | guilt-produce-sound-garden-cannon-orphan-hidden-ten-inmate |  
 | bip_39_word_new_br_1 | guilt |  
 | bip_39_word_new_br_10 | guilt<br>produce<br>sound<br>garden<br>cannon<br>orphan<br>hidden<br>ten<br>inmate<br>float |  
 | bip_39_word_new_br_11 | guilt<br>produce<br>sound<br>garden<br>cannon<br>orphan<br>hidden<br>ten<br>inmate<br>float<br>month |  
@@ -147,6 +159,18 @@ inmate |
 | bip_39_word_space_7 | guilt produce sound garden cannon orphan hidden |  
 | bip_39_word_space_8 | guilt produce sound garden cannon orphan hidden ten |  
 | bip_39_word_space_9 | guilt produce sound garden cannon orphan hidden ten inmate |  
+| bip_39_word_underscore_1 | guilt |  
+| bip_39_word_underscore_10 | guilt_produce_sound_garden_cannon_orphan_hidden_ten_inmate_float |  
+| bip_39_word_underscore_11 | guilt_produce_sound_garden_cannon_orphan_hidden_ten_inmate_float_month |  
+| bip_39_word_underscore_12 | guilt_produce_sound_garden_cannon_orphan_hidden_ten_inmate_float_month_act |  
+| bip_39_word_underscore_2 | guilt_produce |  
+| bip_39_word_underscore_3 | guilt_produce_sound |  
+| bip_39_word_underscore_4 | guilt_produce_sound_garden |  
+| bip_39_word_underscore_5 | guilt_produce_sound_garden_cannon |  
+| bip_39_word_underscore_6 | guilt_produce_sound_garden_cannon_orphan |  
+| bip_39_word_underscore_7 | guilt_produce_sound_garden_cannon_orphan_hidden |  
+| bip_39_word_underscore_8 | guilt_produce_sound_garden_cannon_orphan_hidden_ten |  
+| bip_39_word_underscore_9 | guilt_produce_sound_garden_cannon_orphan_hidden_ten_inmate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

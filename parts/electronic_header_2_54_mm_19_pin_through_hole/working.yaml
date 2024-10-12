@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gift
+bip_39_word_dash_10: gift-rack-duty-state-siren-soldier-antenna-disorder-glimpse-future
+bip_39_word_dash_11: gift-rack-duty-state-siren-soldier-antenna-disorder-glimpse-future-tennis
+bip_39_word_dash_12: gift-rack-duty-state-siren-soldier-antenna-disorder-glimpse-future-tennis-account
+bip_39_word_dash_2: gift-rack
+bip_39_word_dash_3: gift-rack-duty
+bip_39_word_dash_4: gift-rack-duty-state
+bip_39_word_dash_5: gift-rack-duty-state-siren
+bip_39_word_dash_6: gift-rack-duty-state-siren-soldier
+bip_39_word_dash_7: gift-rack-duty-state-siren-soldier-antenna
+bip_39_word_dash_8: gift-rack-duty-state-siren-soldier-antenna-disorder
+bip_39_word_dash_9: gift-rack-duty-state-siren-soldier-antenna-disorder-glimpse
 bip_39_word_new_br_1: gift
 bip_39_word_new_br_10: gift<br>rack<br>duty<br>state<br>siren<br>soldier<br>antenna<br>disorder<br>glimpse<br>future
 bip_39_word_new_br_11: gift<br>rack<br>duty<br>state<br>siren<br>soldier<br>antenna<br>disorder<br>glimpse<br>future<br>tennis
@@ -194,6 +206,18 @@ bip_39_word_space_6: gift rack duty state siren soldier
 bip_39_word_space_7: gift rack duty state siren soldier antenna
 bip_39_word_space_8: gift rack duty state siren soldier antenna disorder
 bip_39_word_space_9: gift rack duty state siren soldier antenna disorder glimpse
+bip_39_word_underscore_1: gift
+bip_39_word_underscore_10: gift_rack_duty_state_siren_soldier_antenna_disorder_glimpse_future
+bip_39_word_underscore_11: gift_rack_duty_state_siren_soldier_antenna_disorder_glimpse_future_tennis
+bip_39_word_underscore_12: gift_rack_duty_state_siren_soldier_antenna_disorder_glimpse_future_tennis_account
+bip_39_word_underscore_2: gift_rack
+bip_39_word_underscore_3: gift_rack_duty
+bip_39_word_underscore_4: gift_rack_duty_state
+bip_39_word_underscore_5: gift_rack_duty_state_siren
+bip_39_word_underscore_6: gift_rack_duty_state_siren_soldier
+bip_39_word_underscore_7: gift_rack_duty_state_siren_soldier_antenna
+bip_39_word_underscore_8: gift_rack_duty_state_siren_soldier_antenna_disorder
+bip_39_word_underscore_9: gift_rack_duty_state_siren_soldier_antenna_disorder_glimpse
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

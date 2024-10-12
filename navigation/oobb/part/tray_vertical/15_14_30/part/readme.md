@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lunar |  
+| bip_39_word_dash_10 | lunar-loan-typical-fuel-nest-carbon-uniform-law-badge-box |  
+| bip_39_word_dash_11 | lunar-loan-typical-fuel-nest-carbon-uniform-law-badge-box-long |  
+| bip_39_word_dash_12 | lunar-loan-typical-fuel-nest-carbon-uniform-law-badge-box-long-achieve |  
+| bip_39_word_dash_2 | lunar-loan |  
+| bip_39_word_dash_3 | lunar-loan-typical |  
+| bip_39_word_dash_4 | lunar-loan-typical-fuel |  
+| bip_39_word_dash_5 | lunar-loan-typical-fuel-nest |  
+| bip_39_word_dash_6 | lunar-loan-typical-fuel-nest-carbon |  
+| bip_39_word_dash_7 | lunar-loan-typical-fuel-nest-carbon-uniform |  
+| bip_39_word_dash_8 | lunar-loan-typical-fuel-nest-carbon-uniform-law |  
+| bip_39_word_dash_9 | lunar-loan-typical-fuel-nest-carbon-uniform-law-badge |  
 | bip_39_word_new_br_1 | lunar |  
 | bip_39_word_new_br_10 | lunar<br>loan<br>typical<br>fuel<br>nest<br>carbon<br>uniform<br>law<br>badge<br>box |  
 | bip_39_word_new_br_11 | lunar<br>loan<br>typical<br>fuel<br>nest<br>carbon<br>uniform<br>law<br>badge<br>box<br>long |  
@@ -147,6 +159,18 @@ badge |
 | bip_39_word_space_7 | lunar loan typical fuel nest carbon uniform |  
 | bip_39_word_space_8 | lunar loan typical fuel nest carbon uniform law |  
 | bip_39_word_space_9 | lunar loan typical fuel nest carbon uniform law badge |  
+| bip_39_word_underscore_1 | lunar |  
+| bip_39_word_underscore_10 | lunar_loan_typical_fuel_nest_carbon_uniform_law_badge_box |  
+| bip_39_word_underscore_11 | lunar_loan_typical_fuel_nest_carbon_uniform_law_badge_box_long |  
+| bip_39_word_underscore_12 | lunar_loan_typical_fuel_nest_carbon_uniform_law_badge_box_long_achieve |  
+| bip_39_word_underscore_2 | lunar_loan |  
+| bip_39_word_underscore_3 | lunar_loan_typical |  
+| bip_39_word_underscore_4 | lunar_loan_typical_fuel |  
+| bip_39_word_underscore_5 | lunar_loan_typical_fuel_nest |  
+| bip_39_word_underscore_6 | lunar_loan_typical_fuel_nest_carbon |  
+| bip_39_word_underscore_7 | lunar_loan_typical_fuel_nest_carbon_uniform |  
+| bip_39_word_underscore_8 | lunar_loan_typical_fuel_nest_carbon_uniform_law |  
+| bip_39_word_underscore_9 | lunar_loan_typical_fuel_nest_carbon_uniform_law_badge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

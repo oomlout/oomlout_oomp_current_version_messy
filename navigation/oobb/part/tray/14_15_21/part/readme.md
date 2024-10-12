@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | device |  
+| bip_39_word_dash_10 | device-suggest-mechanic-area-siege-tribe-absent-identify-junk-venue |  
+| bip_39_word_dash_11 | device-suggest-mechanic-area-siege-tribe-absent-identify-junk-venue-state |  
+| bip_39_word_dash_12 | device-suggest-mechanic-area-siege-tribe-absent-identify-junk-venue-state-august |  
+| bip_39_word_dash_2 | device-suggest |  
+| bip_39_word_dash_3 | device-suggest-mechanic |  
+| bip_39_word_dash_4 | device-suggest-mechanic-area |  
+| bip_39_word_dash_5 | device-suggest-mechanic-area-siege |  
+| bip_39_word_dash_6 | device-suggest-mechanic-area-siege-tribe |  
+| bip_39_word_dash_7 | device-suggest-mechanic-area-siege-tribe-absent |  
+| bip_39_word_dash_8 | device-suggest-mechanic-area-siege-tribe-absent-identify |  
+| bip_39_word_dash_9 | device-suggest-mechanic-area-siege-tribe-absent-identify-junk |  
 | bip_39_word_new_br_1 | device |  
 | bip_39_word_new_br_10 | device<br>suggest<br>mechanic<br>area<br>siege<br>tribe<br>absent<br>identify<br>junk<br>venue |  
 | bip_39_word_new_br_11 | device<br>suggest<br>mechanic<br>area<br>siege<br>tribe<br>absent<br>identify<br>junk<br>venue<br>state |  
@@ -147,6 +159,18 @@ junk |
 | bip_39_word_space_7 | device suggest mechanic area siege tribe absent |  
 | bip_39_word_space_8 | device suggest mechanic area siege tribe absent identify |  
 | bip_39_word_space_9 | device suggest mechanic area siege tribe absent identify junk |  
+| bip_39_word_underscore_1 | device |  
+| bip_39_word_underscore_10 | device_suggest_mechanic_area_siege_tribe_absent_identify_junk_venue |  
+| bip_39_word_underscore_11 | device_suggest_mechanic_area_siege_tribe_absent_identify_junk_venue_state |  
+| bip_39_word_underscore_12 | device_suggest_mechanic_area_siege_tribe_absent_identify_junk_venue_state_august |  
+| bip_39_word_underscore_2 | device_suggest |  
+| bip_39_word_underscore_3 | device_suggest_mechanic |  
+| bip_39_word_underscore_4 | device_suggest_mechanic_area |  
+| bip_39_word_underscore_5 | device_suggest_mechanic_area_siege |  
+| bip_39_word_underscore_6 | device_suggest_mechanic_area_siege_tribe |  
+| bip_39_word_underscore_7 | device_suggest_mechanic_area_siege_tribe_absent |  
+| bip_39_word_underscore_8 | device_suggest_mechanic_area_siege_tribe_absent_identify |  
+| bip_39_word_underscore_9 | device_suggest_mechanic_area_siege_tribe_absent_identify_junk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

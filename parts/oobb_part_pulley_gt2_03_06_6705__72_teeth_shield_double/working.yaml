@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ethics
+bip_39_word_dash_10: ethics-orient-pause-defense-crunch-illness-corn-oppose-all-extra
+bip_39_word_dash_11: ethics-orient-pause-defense-crunch-illness-corn-oppose-all-extra-giant
+bip_39_word_dash_12: ethics-orient-pause-defense-crunch-illness-corn-oppose-all-extra-giant-answer
+bip_39_word_dash_2: ethics-orient
+bip_39_word_dash_3: ethics-orient-pause
+bip_39_word_dash_4: ethics-orient-pause-defense
+bip_39_word_dash_5: ethics-orient-pause-defense-crunch
+bip_39_word_dash_6: ethics-orient-pause-defense-crunch-illness
+bip_39_word_dash_7: ethics-orient-pause-defense-crunch-illness-corn
+bip_39_word_dash_8: ethics-orient-pause-defense-crunch-illness-corn-oppose
+bip_39_word_dash_9: ethics-orient-pause-defense-crunch-illness-corn-oppose-all
 bip_39_word_new_br_1: ethics
 bip_39_word_new_br_10: ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose<br>all<br>extra
 bip_39_word_new_br_11: ethics<br>orient<br>pause<br>defense<br>crunch<br>illness<br>corn<br>oppose<br>all<br>extra<br>giant
@@ -193,6 +205,18 @@ bip_39_word_space_6: ethics orient pause defense crunch illness
 bip_39_word_space_7: ethics orient pause defense crunch illness corn
 bip_39_word_space_8: ethics orient pause defense crunch illness corn oppose
 bip_39_word_space_9: ethics orient pause defense crunch illness corn oppose all
+bip_39_word_underscore_1: ethics
+bip_39_word_underscore_10: ethics_orient_pause_defense_crunch_illness_corn_oppose_all_extra
+bip_39_word_underscore_11: ethics_orient_pause_defense_crunch_illness_corn_oppose_all_extra_giant
+bip_39_word_underscore_12: ethics_orient_pause_defense_crunch_illness_corn_oppose_all_extra_giant_answer
+bip_39_word_underscore_2: ethics_orient
+bip_39_word_underscore_3: ethics_orient_pause
+bip_39_word_underscore_4: ethics_orient_pause_defense
+bip_39_word_underscore_5: ethics_orient_pause_defense_crunch
+bip_39_word_underscore_6: ethics_orient_pause_defense_crunch_illness
+bip_39_word_underscore_7: ethics_orient_pause_defense_crunch_illness_corn
+bip_39_word_underscore_8: ethics_orient_pause_defense_crunch_illness_corn_oppose
+bip_39_word_underscore_9: ethics_orient_pause_defense_crunch_illness_corn_oppose_all
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

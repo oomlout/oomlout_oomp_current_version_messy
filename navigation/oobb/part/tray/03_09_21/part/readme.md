@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | flee |  
+| bip_39_word_dash_10 | flee-loan-ancient-jealous-surface-wedding-broccoli-visual-cotton-sick |  
+| bip_39_word_dash_11 | flee-loan-ancient-jealous-surface-wedding-broccoli-visual-cotton-sick-bracket |  
+| bip_39_word_dash_12 | flee-loan-ancient-jealous-surface-wedding-broccoli-visual-cotton-sick-bracket-attitude |  
+| bip_39_word_dash_2 | flee-loan |  
+| bip_39_word_dash_3 | flee-loan-ancient |  
+| bip_39_word_dash_4 | flee-loan-ancient-jealous |  
+| bip_39_word_dash_5 | flee-loan-ancient-jealous-surface |  
+| bip_39_word_dash_6 | flee-loan-ancient-jealous-surface-wedding |  
+| bip_39_word_dash_7 | flee-loan-ancient-jealous-surface-wedding-broccoli |  
+| bip_39_word_dash_8 | flee-loan-ancient-jealous-surface-wedding-broccoli-visual |  
+| bip_39_word_dash_9 | flee-loan-ancient-jealous-surface-wedding-broccoli-visual-cotton |  
 | bip_39_word_new_br_1 | flee |  
 | bip_39_word_new_br_10 | flee<br>loan<br>ancient<br>jealous<br>surface<br>wedding<br>broccoli<br>visual<br>cotton<br>sick |  
 | bip_39_word_new_br_11 | flee<br>loan<br>ancient<br>jealous<br>surface<br>wedding<br>broccoli<br>visual<br>cotton<br>sick<br>bracket |  
@@ -147,6 +159,18 @@ cotton |
 | bip_39_word_space_7 | flee loan ancient jealous surface wedding broccoli |  
 | bip_39_word_space_8 | flee loan ancient jealous surface wedding broccoli visual |  
 | bip_39_word_space_9 | flee loan ancient jealous surface wedding broccoli visual cotton |  
+| bip_39_word_underscore_1 | flee |  
+| bip_39_word_underscore_10 | flee_loan_ancient_jealous_surface_wedding_broccoli_visual_cotton_sick |  
+| bip_39_word_underscore_11 | flee_loan_ancient_jealous_surface_wedding_broccoli_visual_cotton_sick_bracket |  
+| bip_39_word_underscore_12 | flee_loan_ancient_jealous_surface_wedding_broccoli_visual_cotton_sick_bracket_attitude |  
+| bip_39_word_underscore_2 | flee_loan |  
+| bip_39_word_underscore_3 | flee_loan_ancient |  
+| bip_39_word_underscore_4 | flee_loan_ancient_jealous |  
+| bip_39_word_underscore_5 | flee_loan_ancient_jealous_surface |  
+| bip_39_word_underscore_6 | flee_loan_ancient_jealous_surface_wedding |  
+| bip_39_word_underscore_7 | flee_loan_ancient_jealous_surface_wedding_broccoli |  
+| bip_39_word_underscore_8 | flee_loan_ancient_jealous_surface_wedding_broccoli_visual |  
+| bip_39_word_underscore_9 | flee_loan_ancient_jealous_surface_wedding_broccoli_visual_cotton |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

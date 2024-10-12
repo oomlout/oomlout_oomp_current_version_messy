@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jewel |  
+| bip_39_word_dash_10 | jewel-wrist-zoo-extra-limb-circle-zone-chair-situate-shove |  
+| bip_39_word_dash_11 | jewel-wrist-zoo-extra-limb-circle-zone-chair-situate-shove-gaze |  
+| bip_39_word_dash_12 | jewel-wrist-zoo-extra-limb-circle-zone-chair-situate-shove-gaze-ability |  
+| bip_39_word_dash_2 | jewel-wrist |  
+| bip_39_word_dash_3 | jewel-wrist-zoo |  
+| bip_39_word_dash_4 | jewel-wrist-zoo-extra |  
+| bip_39_word_dash_5 | jewel-wrist-zoo-extra-limb |  
+| bip_39_word_dash_6 | jewel-wrist-zoo-extra-limb-circle |  
+| bip_39_word_dash_7 | jewel-wrist-zoo-extra-limb-circle-zone |  
+| bip_39_word_dash_8 | jewel-wrist-zoo-extra-limb-circle-zone-chair |  
+| bip_39_word_dash_9 | jewel-wrist-zoo-extra-limb-circle-zone-chair-situate |  
 | bip_39_word_new_br_1 | jewel |  
 | bip_39_word_new_br_10 | jewel<br>wrist<br>zoo<br>extra<br>limb<br>circle<br>zone<br>chair<br>situate<br>shove |  
 | bip_39_word_new_br_11 | jewel<br>wrist<br>zoo<br>extra<br>limb<br>circle<br>zone<br>chair<br>situate<br>shove<br>gaze |  
@@ -147,6 +159,18 @@ situate |
 | bip_39_word_space_7 | jewel wrist zoo extra limb circle zone |  
 | bip_39_word_space_8 | jewel wrist zoo extra limb circle zone chair |  
 | bip_39_word_space_9 | jewel wrist zoo extra limb circle zone chair situate |  
+| bip_39_word_underscore_1 | jewel |  
+| bip_39_word_underscore_10 | jewel_wrist_zoo_extra_limb_circle_zone_chair_situate_shove |  
+| bip_39_word_underscore_11 | jewel_wrist_zoo_extra_limb_circle_zone_chair_situate_shove_gaze |  
+| bip_39_word_underscore_12 | jewel_wrist_zoo_extra_limb_circle_zone_chair_situate_shove_gaze_ability |  
+| bip_39_word_underscore_2 | jewel_wrist |  
+| bip_39_word_underscore_3 | jewel_wrist_zoo |  
+| bip_39_word_underscore_4 | jewel_wrist_zoo_extra |  
+| bip_39_word_underscore_5 | jewel_wrist_zoo_extra_limb |  
+| bip_39_word_underscore_6 | jewel_wrist_zoo_extra_limb_circle |  
+| bip_39_word_underscore_7 | jewel_wrist_zoo_extra_limb_circle_zone |  
+| bip_39_word_underscore_8 | jewel_wrist_zoo_extra_limb_circle_zone_chair |  
+| bip_39_word_underscore_9 | jewel_wrist_zoo_extra_limb_circle_zone_chair_situate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

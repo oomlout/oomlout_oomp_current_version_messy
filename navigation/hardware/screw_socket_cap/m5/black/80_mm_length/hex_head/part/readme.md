@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | worry |  
+| bip_39_word_dash_10 | worry-indoor-hope-ask-casual-illness-govern-genre-sibling-word |  
+| bip_39_word_dash_11 | worry-indoor-hope-ask-casual-illness-govern-genre-sibling-word-place |  
+| bip_39_word_dash_12 | worry-indoor-hope-ask-casual-illness-govern-genre-sibling-word-place-arrange |  
+| bip_39_word_dash_2 | worry-indoor |  
+| bip_39_word_dash_3 | worry-indoor-hope |  
+| bip_39_word_dash_4 | worry-indoor-hope-ask |  
+| bip_39_word_dash_5 | worry-indoor-hope-ask-casual |  
+| bip_39_word_dash_6 | worry-indoor-hope-ask-casual-illness |  
+| bip_39_word_dash_7 | worry-indoor-hope-ask-casual-illness-govern |  
+| bip_39_word_dash_8 | worry-indoor-hope-ask-casual-illness-govern-genre |  
+| bip_39_word_dash_9 | worry-indoor-hope-ask-casual-illness-govern-genre-sibling |  
 | bip_39_word_new_br_1 | worry |  
 | bip_39_word_new_br_10 | worry<br>indoor<br>hope<br>ask<br>casual<br>illness<br>govern<br>genre<br>sibling<br>word |  
 | bip_39_word_new_br_11 | worry<br>indoor<br>hope<br>ask<br>casual<br>illness<br>govern<br>genre<br>sibling<br>word<br>place |  
@@ -147,6 +159,18 @@ sibling |
 | bip_39_word_space_7 | worry indoor hope ask casual illness govern |  
 | bip_39_word_space_8 | worry indoor hope ask casual illness govern genre |  
 | bip_39_word_space_9 | worry indoor hope ask casual illness govern genre sibling |  
+| bip_39_word_underscore_1 | worry |  
+| bip_39_word_underscore_10 | worry_indoor_hope_ask_casual_illness_govern_genre_sibling_word |  
+| bip_39_word_underscore_11 | worry_indoor_hope_ask_casual_illness_govern_genre_sibling_word_place |  
+| bip_39_word_underscore_12 | worry_indoor_hope_ask_casual_illness_govern_genre_sibling_word_place_arrange |  
+| bip_39_word_underscore_2 | worry_indoor |  
+| bip_39_word_underscore_3 | worry_indoor_hope |  
+| bip_39_word_underscore_4 | worry_indoor_hope_ask |  
+| bip_39_word_underscore_5 | worry_indoor_hope_ask_casual |  
+| bip_39_word_underscore_6 | worry_indoor_hope_ask_casual_illness |  
+| bip_39_word_underscore_7 | worry_indoor_hope_ask_casual_illness_govern |  
+| bip_39_word_underscore_8 | worry_indoor_hope_ask_casual_illness_govern_genre |  
+| bip_39_word_underscore_9 | worry_indoor_hope_ask_casual_illness_govern_genre_sibling |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

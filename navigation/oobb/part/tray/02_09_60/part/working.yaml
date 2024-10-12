@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cigar
+bip_39_word_dash_10: cigar-connect-genuine-thumb-lift-capital-delay-pottery-wash-faint
+bip_39_word_dash_11: cigar-connect-genuine-thumb-lift-capital-delay-pottery-wash-faint-fat
+bip_39_word_dash_12: cigar-connect-genuine-thumb-lift-capital-delay-pottery-wash-faint-fat-about
+bip_39_word_dash_2: cigar-connect
+bip_39_word_dash_3: cigar-connect-genuine
+bip_39_word_dash_4: cigar-connect-genuine-thumb
+bip_39_word_dash_5: cigar-connect-genuine-thumb-lift
+bip_39_word_dash_6: cigar-connect-genuine-thumb-lift-capital
+bip_39_word_dash_7: cigar-connect-genuine-thumb-lift-capital-delay
+bip_39_word_dash_8: cigar-connect-genuine-thumb-lift-capital-delay-pottery
+bip_39_word_dash_9: cigar-connect-genuine-thumb-lift-capital-delay-pottery-wash
 bip_39_word_new_br_1: cigar
 bip_39_word_new_br_10: cigar<br>connect<br>genuine<br>thumb<br>lift<br>capital<br>delay<br>pottery<br>wash<br>faint
 bip_39_word_new_br_11: cigar<br>connect<br>genuine<br>thumb<br>lift<br>capital<br>delay<br>pottery<br>wash<br>faint<br>fat
@@ -194,6 +206,18 @@ bip_39_word_space_6: cigar connect genuine thumb lift capital
 bip_39_word_space_7: cigar connect genuine thumb lift capital delay
 bip_39_word_space_8: cigar connect genuine thumb lift capital delay pottery
 bip_39_word_space_9: cigar connect genuine thumb lift capital delay pottery wash
+bip_39_word_underscore_1: cigar
+bip_39_word_underscore_10: cigar_connect_genuine_thumb_lift_capital_delay_pottery_wash_faint
+bip_39_word_underscore_11: cigar_connect_genuine_thumb_lift_capital_delay_pottery_wash_faint_fat
+bip_39_word_underscore_12: cigar_connect_genuine_thumb_lift_capital_delay_pottery_wash_faint_fat_about
+bip_39_word_underscore_2: cigar_connect
+bip_39_word_underscore_3: cigar_connect_genuine
+bip_39_word_underscore_4: cigar_connect_genuine_thumb
+bip_39_word_underscore_5: cigar_connect_genuine_thumb_lift
+bip_39_word_underscore_6: cigar_connect_genuine_thumb_lift_capital
+bip_39_word_underscore_7: cigar_connect_genuine_thumb_lift_capital_delay
+bip_39_word_underscore_8: cigar_connect_genuine_thumb_lift_capital_delay_pottery
+bip_39_word_underscore_9: cigar_connect_genuine_thumb_lift_capital_delay_pottery_wash
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

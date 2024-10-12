@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gravity |  
+| bip_39_word_dash_10 | gravity-pond-board-maple-enrich-escape-crush-hip-minimum-observe |  
+| bip_39_word_dash_11 | gravity-pond-board-maple-enrich-escape-crush-hip-minimum-observe-hungry |  
+| bip_39_word_dash_12 | gravity-pond-board-maple-enrich-escape-crush-hip-minimum-observe-hungry-accuse |  
+| bip_39_word_dash_2 | gravity-pond |  
+| bip_39_word_dash_3 | gravity-pond-board |  
+| bip_39_word_dash_4 | gravity-pond-board-maple |  
+| bip_39_word_dash_5 | gravity-pond-board-maple-enrich |  
+| bip_39_word_dash_6 | gravity-pond-board-maple-enrich-escape |  
+| bip_39_word_dash_7 | gravity-pond-board-maple-enrich-escape-crush |  
+| bip_39_word_dash_8 | gravity-pond-board-maple-enrich-escape-crush-hip |  
+| bip_39_word_dash_9 | gravity-pond-board-maple-enrich-escape-crush-hip-minimum |  
 | bip_39_word_new_br_1 | gravity |  
 | bip_39_word_new_br_10 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip<br>minimum<br>observe |  
 | bip_39_word_new_br_11 | gravity<br>pond<br>board<br>maple<br>enrich<br>escape<br>crush<br>hip<br>minimum<br>observe<br>hungry |  
@@ -147,6 +159,18 @@ minimum |
 | bip_39_word_space_7 | gravity pond board maple enrich escape crush |  
 | bip_39_word_space_8 | gravity pond board maple enrich escape crush hip |  
 | bip_39_word_space_9 | gravity pond board maple enrich escape crush hip minimum |  
+| bip_39_word_underscore_1 | gravity |  
+| bip_39_word_underscore_10 | gravity_pond_board_maple_enrich_escape_crush_hip_minimum_observe |  
+| bip_39_word_underscore_11 | gravity_pond_board_maple_enrich_escape_crush_hip_minimum_observe_hungry |  
+| bip_39_word_underscore_12 | gravity_pond_board_maple_enrich_escape_crush_hip_minimum_observe_hungry_accuse |  
+| bip_39_word_underscore_2 | gravity_pond |  
+| bip_39_word_underscore_3 | gravity_pond_board |  
+| bip_39_word_underscore_4 | gravity_pond_board_maple |  
+| bip_39_word_underscore_5 | gravity_pond_board_maple_enrich |  
+| bip_39_word_underscore_6 | gravity_pond_board_maple_enrich_escape |  
+| bip_39_word_underscore_7 | gravity_pond_board_maple_enrich_escape_crush |  
+| bip_39_word_underscore_8 | gravity_pond_board_maple_enrich_escape_crush_hip |  
+| bip_39_word_underscore_9 | gravity_pond_board_maple_enrich_escape_crush_hip_minimum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wet
+bip_39_word_dash_10: wet-process-fold-slam-survey-wall-rescue-police-version-garment
+bip_39_word_dash_11: wet-process-fold-slam-survey-wall-rescue-police-version-garment-unable
+bip_39_word_dash_12: wet-process-fold-slam-survey-wall-rescue-police-version-garment-unable-accuse
+bip_39_word_dash_2: wet-process
+bip_39_word_dash_3: wet-process-fold
+bip_39_word_dash_4: wet-process-fold-slam
+bip_39_word_dash_5: wet-process-fold-slam-survey
+bip_39_word_dash_6: wet-process-fold-slam-survey-wall
+bip_39_word_dash_7: wet-process-fold-slam-survey-wall-rescue
+bip_39_word_dash_8: wet-process-fold-slam-survey-wall-rescue-police
+bip_39_word_dash_9: wet-process-fold-slam-survey-wall-rescue-police-version
 bip_39_word_new_br_1: wet
 bip_39_word_new_br_10: wet<br>process<br>fold<br>slam<br>survey<br>wall<br>rescue<br>police<br>version<br>garment
 bip_39_word_new_br_11: wet<br>process<br>fold<br>slam<br>survey<br>wall<br>rescue<br>police<br>version<br>garment<br>unable
@@ -193,6 +205,18 @@ bip_39_word_space_6: wet process fold slam survey wall
 bip_39_word_space_7: wet process fold slam survey wall rescue
 bip_39_word_space_8: wet process fold slam survey wall rescue police
 bip_39_word_space_9: wet process fold slam survey wall rescue police version
+bip_39_word_underscore_1: wet
+bip_39_word_underscore_10: wet_process_fold_slam_survey_wall_rescue_police_version_garment
+bip_39_word_underscore_11: wet_process_fold_slam_survey_wall_rescue_police_version_garment_unable
+bip_39_word_underscore_12: wet_process_fold_slam_survey_wall_rescue_police_version_garment_unable_accuse
+bip_39_word_underscore_2: wet_process
+bip_39_word_underscore_3: wet_process_fold
+bip_39_word_underscore_4: wet_process_fold_slam
+bip_39_word_underscore_5: wet_process_fold_slam_survey
+bip_39_word_underscore_6: wet_process_fold_slam_survey_wall
+bip_39_word_underscore_7: wet_process_fold_slam_survey_wall_rescue
+bip_39_word_underscore_8: wet_process_fold_slam_survey_wall_rescue_police
+bip_39_word_underscore_9: wet_process_fold_slam_survey_wall_rescue_police_version
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

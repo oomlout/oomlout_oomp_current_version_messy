@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nature
+bip_39_word_dash_10: nature-defense-burger-absurd-element-clock-bottom-edge-find-return
+bip_39_word_dash_11: nature-defense-burger-absurd-element-clock-bottom-edge-find-return-certain
+bip_39_word_dash_12: nature-defense-burger-absurd-element-clock-bottom-edge-find-return-certain-auto
+bip_39_word_dash_2: nature-defense
+bip_39_word_dash_3: nature-defense-burger
+bip_39_word_dash_4: nature-defense-burger-absurd
+bip_39_word_dash_5: nature-defense-burger-absurd-element
+bip_39_word_dash_6: nature-defense-burger-absurd-element-clock
+bip_39_word_dash_7: nature-defense-burger-absurd-element-clock-bottom
+bip_39_word_dash_8: nature-defense-burger-absurd-element-clock-bottom-edge
+bip_39_word_dash_9: nature-defense-burger-absurd-element-clock-bottom-edge-find
 bip_39_word_new_br_1: nature
 bip_39_word_new_br_10: nature<br>defense<br>burger<br>absurd<br>element<br>clock<br>bottom<br>edge<br>find<br>return
 bip_39_word_new_br_11: nature<br>defense<br>burger<br>absurd<br>element<br>clock<br>bottom<br>edge<br>find<br>return<br>certain
@@ -194,6 +206,18 @@ bip_39_word_space_6: nature defense burger absurd element clock
 bip_39_word_space_7: nature defense burger absurd element clock bottom
 bip_39_word_space_8: nature defense burger absurd element clock bottom edge
 bip_39_word_space_9: nature defense burger absurd element clock bottom edge find
+bip_39_word_underscore_1: nature
+bip_39_word_underscore_10: nature_defense_burger_absurd_element_clock_bottom_edge_find_return
+bip_39_word_underscore_11: nature_defense_burger_absurd_element_clock_bottom_edge_find_return_certain
+bip_39_word_underscore_12: nature_defense_burger_absurd_element_clock_bottom_edge_find_return_certain_auto
+bip_39_word_underscore_2: nature_defense
+bip_39_word_underscore_3: nature_defense_burger
+bip_39_word_underscore_4: nature_defense_burger_absurd
+bip_39_word_underscore_5: nature_defense_burger_absurd_element
+bip_39_word_underscore_6: nature_defense_burger_absurd_element_clock
+bip_39_word_underscore_7: nature_defense_burger_absurd_element_clock_bottom
+bip_39_word_underscore_8: nature_defense_burger_absurd_element_clock_bottom_edge
+bip_39_word_underscore_9: nature_defense_burger_absurd_element_clock_bottom_edge_find
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

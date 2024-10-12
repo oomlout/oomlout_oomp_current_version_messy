@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | panther |  
+| bip_39_word_dash_10 | panther-invest-sure-bronze-post-success-annual-help-final-car |  
+| bip_39_word_dash_11 | panther-invest-sure-bronze-post-success-annual-help-final-car-unknown |  
+| bip_39_word_dash_12 | panther-invest-sure-bronze-post-success-annual-help-final-car-unknown-army |  
+| bip_39_word_dash_2 | panther-invest |  
+| bip_39_word_dash_3 | panther-invest-sure |  
+| bip_39_word_dash_4 | panther-invest-sure-bronze |  
+| bip_39_word_dash_5 | panther-invest-sure-bronze-post |  
+| bip_39_word_dash_6 | panther-invest-sure-bronze-post-success |  
+| bip_39_word_dash_7 | panther-invest-sure-bronze-post-success-annual |  
+| bip_39_word_dash_8 | panther-invest-sure-bronze-post-success-annual-help |  
+| bip_39_word_dash_9 | panther-invest-sure-bronze-post-success-annual-help-final |  
 | bip_39_word_new_br_1 | panther |  
 | bip_39_word_new_br_10 | panther<br>invest<br>sure<br>bronze<br>post<br>success<br>annual<br>help<br>final<br>car |  
 | bip_39_word_new_br_11 | panther<br>invest<br>sure<br>bronze<br>post<br>success<br>annual<br>help<br>final<br>car<br>unknown |  
@@ -147,6 +159,18 @@ final |
 | bip_39_word_space_7 | panther invest sure bronze post success annual |  
 | bip_39_word_space_8 | panther invest sure bronze post success annual help |  
 | bip_39_word_space_9 | panther invest sure bronze post success annual help final |  
+| bip_39_word_underscore_1 | panther |  
+| bip_39_word_underscore_10 | panther_invest_sure_bronze_post_success_annual_help_final_car |  
+| bip_39_word_underscore_11 | panther_invest_sure_bronze_post_success_annual_help_final_car_unknown |  
+| bip_39_word_underscore_12 | panther_invest_sure_bronze_post_success_annual_help_final_car_unknown_army |  
+| bip_39_word_underscore_2 | panther_invest |  
+| bip_39_word_underscore_3 | panther_invest_sure |  
+| bip_39_word_underscore_4 | panther_invest_sure_bronze |  
+| bip_39_word_underscore_5 | panther_invest_sure_bronze_post |  
+| bip_39_word_underscore_6 | panther_invest_sure_bronze_post_success |  
+| bip_39_word_underscore_7 | panther_invest_sure_bronze_post_success_annual |  
+| bip_39_word_underscore_8 | panther_invest_sure_bronze_post_success_annual_help |  
+| bip_39_word_underscore_9 | panther_invest_sure_bronze_post_success_annual_help_final |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

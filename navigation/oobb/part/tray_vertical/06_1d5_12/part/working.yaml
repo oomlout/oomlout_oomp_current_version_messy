@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vintage
+bip_39_word_dash_10: vintage-glad-burst-life-stay-vast-immune-miss-city-fence
+bip_39_word_dash_11: vintage-glad-burst-life-stay-vast-immune-miss-city-fence-quarter
+bip_39_word_dash_12: vintage-glad-burst-life-stay-vast-immune-miss-city-fence-quarter-acoustic
+bip_39_word_dash_2: vintage-glad
+bip_39_word_dash_3: vintage-glad-burst
+bip_39_word_dash_4: vintage-glad-burst-life
+bip_39_word_dash_5: vintage-glad-burst-life-stay
+bip_39_word_dash_6: vintage-glad-burst-life-stay-vast
+bip_39_word_dash_7: vintage-glad-burst-life-stay-vast-immune
+bip_39_word_dash_8: vintage-glad-burst-life-stay-vast-immune-miss
+bip_39_word_dash_9: vintage-glad-burst-life-stay-vast-immune-miss-city
 bip_39_word_new_br_1: vintage
 bip_39_word_new_br_10: vintage<br>glad<br>burst<br>life<br>stay<br>vast<br>immune<br>miss<br>city<br>fence
 bip_39_word_new_br_11: vintage<br>glad<br>burst<br>life<br>stay<br>vast<br>immune<br>miss<br>city<br>fence<br>quarter
@@ -192,6 +204,18 @@ bip_39_word_space_6: vintage glad burst life stay vast
 bip_39_word_space_7: vintage glad burst life stay vast immune
 bip_39_word_space_8: vintage glad burst life stay vast immune miss
 bip_39_word_space_9: vintage glad burst life stay vast immune miss city
+bip_39_word_underscore_1: vintage
+bip_39_word_underscore_10: vintage_glad_burst_life_stay_vast_immune_miss_city_fence
+bip_39_word_underscore_11: vintage_glad_burst_life_stay_vast_immune_miss_city_fence_quarter
+bip_39_word_underscore_12: vintage_glad_burst_life_stay_vast_immune_miss_city_fence_quarter_acoustic
+bip_39_word_underscore_2: vintage_glad
+bip_39_word_underscore_3: vintage_glad_burst
+bip_39_word_underscore_4: vintage_glad_burst_life
+bip_39_word_underscore_5: vintage_glad_burst_life_stay
+bip_39_word_underscore_6: vintage_glad_burst_life_stay_vast
+bip_39_word_underscore_7: vintage_glad_burst_life_stay_vast_immune
+bip_39_word_underscore_8: vintage_glad_burst_life_stay_vast_immune_miss
+bip_39_word_underscore_9: vintage_glad_burst_life_stay_vast_immune_miss_city
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slender |  
+| bip_39_word_dash_10 | slender-hero-goddess-transfer-display-tank-novel-peasant-journey-suffer |  
+| bip_39_word_dash_11 | slender-hero-goddess-transfer-display-tank-novel-peasant-journey-suffer-travel |  
+| bip_39_word_dash_12 | slender-hero-goddess-transfer-display-tank-novel-peasant-journey-suffer-travel-armor |  
+| bip_39_word_dash_2 | slender-hero |  
+| bip_39_word_dash_3 | slender-hero-goddess |  
+| bip_39_word_dash_4 | slender-hero-goddess-transfer |  
+| bip_39_word_dash_5 | slender-hero-goddess-transfer-display |  
+| bip_39_word_dash_6 | slender-hero-goddess-transfer-display-tank |  
+| bip_39_word_dash_7 | slender-hero-goddess-transfer-display-tank-novel |  
+| bip_39_word_dash_8 | slender-hero-goddess-transfer-display-tank-novel-peasant |  
+| bip_39_word_dash_9 | slender-hero-goddess-transfer-display-tank-novel-peasant-journey |  
 | bip_39_word_new_br_1 | slender |  
 | bip_39_word_new_br_10 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer |  
 | bip_39_word_new_br_11 | slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer<br>travel |  
@@ -147,6 +159,18 @@ journey |
 | bip_39_word_space_7 | slender hero goddess transfer display tank novel |  
 | bip_39_word_space_8 | slender hero goddess transfer display tank novel peasant |  
 | bip_39_word_space_9 | slender hero goddess transfer display tank novel peasant journey |  
+| bip_39_word_underscore_1 | slender |  
+| bip_39_word_underscore_10 | slender_hero_goddess_transfer_display_tank_novel_peasant_journey_suffer |  
+| bip_39_word_underscore_11 | slender_hero_goddess_transfer_display_tank_novel_peasant_journey_suffer_travel |  
+| bip_39_word_underscore_12 | slender_hero_goddess_transfer_display_tank_novel_peasant_journey_suffer_travel_armor |  
+| bip_39_word_underscore_2 | slender_hero |  
+| bip_39_word_underscore_3 | slender_hero_goddess |  
+| bip_39_word_underscore_4 | slender_hero_goddess_transfer |  
+| bip_39_word_underscore_5 | slender_hero_goddess_transfer_display |  
+| bip_39_word_underscore_6 | slender_hero_goddess_transfer_display_tank |  
+| bip_39_word_underscore_7 | slender_hero_goddess_transfer_display_tank_novel |  
+| bip_39_word_underscore_8 | slender_hero_goddess_transfer_display_tank_novel_peasant |  
+| bip_39_word_underscore_9 | slender_hero_goddess_transfer_display_tank_novel_peasant_journey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

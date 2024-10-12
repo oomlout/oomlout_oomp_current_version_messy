@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | turkey |  
+| bip_39_word_dash_10 | turkey-material-just-disorder-escape-artwork-soccer-creek-okay-vague |  
+| bip_39_word_dash_11 | turkey-material-just-disorder-escape-artwork-soccer-creek-okay-vague-lion |  
+| bip_39_word_dash_12 | turkey-material-just-disorder-escape-artwork-soccer-creek-okay-vague-lion-amused |  
+| bip_39_word_dash_2 | turkey-material |  
+| bip_39_word_dash_3 | turkey-material-just |  
+| bip_39_word_dash_4 | turkey-material-just-disorder |  
+| bip_39_word_dash_5 | turkey-material-just-disorder-escape |  
+| bip_39_word_dash_6 | turkey-material-just-disorder-escape-artwork |  
+| bip_39_word_dash_7 | turkey-material-just-disorder-escape-artwork-soccer |  
+| bip_39_word_dash_8 | turkey-material-just-disorder-escape-artwork-soccer-creek |  
+| bip_39_word_dash_9 | turkey-material-just-disorder-escape-artwork-soccer-creek-okay |  
 | bip_39_word_new_br_1 | turkey |  
 | bip_39_word_new_br_10 | turkey<br>material<br>just<br>disorder<br>escape<br>artwork<br>soccer<br>creek<br>okay<br>vague |  
 | bip_39_word_new_br_11 | turkey<br>material<br>just<br>disorder<br>escape<br>artwork<br>soccer<br>creek<br>okay<br>vague<br>lion |  
@@ -147,6 +159,18 @@ okay |
 | bip_39_word_space_7 | turkey material just disorder escape artwork soccer |  
 | bip_39_word_space_8 | turkey material just disorder escape artwork soccer creek |  
 | bip_39_word_space_9 | turkey material just disorder escape artwork soccer creek okay |  
+| bip_39_word_underscore_1 | turkey |  
+| bip_39_word_underscore_10 | turkey_material_just_disorder_escape_artwork_soccer_creek_okay_vague |  
+| bip_39_word_underscore_11 | turkey_material_just_disorder_escape_artwork_soccer_creek_okay_vague_lion |  
+| bip_39_word_underscore_12 | turkey_material_just_disorder_escape_artwork_soccer_creek_okay_vague_lion_amused |  
+| bip_39_word_underscore_2 | turkey_material |  
+| bip_39_word_underscore_3 | turkey_material_just |  
+| bip_39_word_underscore_4 | turkey_material_just_disorder |  
+| bip_39_word_underscore_5 | turkey_material_just_disorder_escape |  
+| bip_39_word_underscore_6 | turkey_material_just_disorder_escape_artwork |  
+| bip_39_word_underscore_7 | turkey_material_just_disorder_escape_artwork_soccer |  
+| bip_39_word_underscore_8 | turkey_material_just_disorder_escape_artwork_soccer_creek |  
+| bip_39_word_underscore_9 | turkey_material_just_disorder_escape_artwork_soccer_creek_okay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | divide |  
+| bip_39_word_dash_10 | divide-simple-thumb-march-ensure-acquire-when-urban-word-spatial |  
+| bip_39_word_dash_11 | divide-simple-thumb-march-ensure-acquire-when-urban-word-spatial-describe |  
+| bip_39_word_dash_12 | divide-simple-thumb-march-ensure-acquire-when-urban-word-spatial-describe-audit |  
+| bip_39_word_dash_2 | divide-simple |  
+| bip_39_word_dash_3 | divide-simple-thumb |  
+| bip_39_word_dash_4 | divide-simple-thumb-march |  
+| bip_39_word_dash_5 | divide-simple-thumb-march-ensure |  
+| bip_39_word_dash_6 | divide-simple-thumb-march-ensure-acquire |  
+| bip_39_word_dash_7 | divide-simple-thumb-march-ensure-acquire-when |  
+| bip_39_word_dash_8 | divide-simple-thumb-march-ensure-acquire-when-urban |  
+| bip_39_word_dash_9 | divide-simple-thumb-march-ensure-acquire-when-urban-word |  
 | bip_39_word_new_br_1 | divide |  
 | bip_39_word_new_br_10 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial |  
 | bip_39_word_new_br_11 | divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial<br>describe |  
@@ -147,6 +159,18 @@ word |
 | bip_39_word_space_7 | divide simple thumb march ensure acquire when |  
 | bip_39_word_space_8 | divide simple thumb march ensure acquire when urban |  
 | bip_39_word_space_9 | divide simple thumb march ensure acquire when urban word |  
+| bip_39_word_underscore_1 | divide |  
+| bip_39_word_underscore_10 | divide_simple_thumb_march_ensure_acquire_when_urban_word_spatial |  
+| bip_39_word_underscore_11 | divide_simple_thumb_march_ensure_acquire_when_urban_word_spatial_describe |  
+| bip_39_word_underscore_12 | divide_simple_thumb_march_ensure_acquire_when_urban_word_spatial_describe_audit |  
+| bip_39_word_underscore_2 | divide_simple |  
+| bip_39_word_underscore_3 | divide_simple_thumb |  
+| bip_39_word_underscore_4 | divide_simple_thumb_march |  
+| bip_39_word_underscore_5 | divide_simple_thumb_march_ensure |  
+| bip_39_word_underscore_6 | divide_simple_thumb_march_ensure_acquire |  
+| bip_39_word_underscore_7 | divide_simple_thumb_march_ensure_acquire_when |  
+| bip_39_word_underscore_8 | divide_simple_thumb_march_ensure_acquire_when_urban |  
+| bip_39_word_underscore_9 | divide_simple_thumb_march_ensure_acquire_when_urban_word |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

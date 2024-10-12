@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | add |  
+| bip_39_word_dash_10 | add-amateur-chuckle-jealous-film-dance-model-frame-enhance-news |  
+| bip_39_word_dash_11 | add-amateur-chuckle-jealous-film-dance-model-frame-enhance-news-pelican |  
+| bip_39_word_dash_12 | add-amateur-chuckle-jealous-film-dance-model-frame-enhance-news-pelican-any |  
+| bip_39_word_dash_2 | add-amateur |  
+| bip_39_word_dash_3 | add-amateur-chuckle |  
+| bip_39_word_dash_4 | add-amateur-chuckle-jealous |  
+| bip_39_word_dash_5 | add-amateur-chuckle-jealous-film |  
+| bip_39_word_dash_6 | add-amateur-chuckle-jealous-film-dance |  
+| bip_39_word_dash_7 | add-amateur-chuckle-jealous-film-dance-model |  
+| bip_39_word_dash_8 | add-amateur-chuckle-jealous-film-dance-model-frame |  
+| bip_39_word_dash_9 | add-amateur-chuckle-jealous-film-dance-model-frame-enhance |  
 | bip_39_word_new_br_1 | add |  
 | bip_39_word_new_br_10 | add<br>amateur<br>chuckle<br>jealous<br>film<br>dance<br>model<br>frame<br>enhance<br>news |  
 | bip_39_word_new_br_11 | add<br>amateur<br>chuckle<br>jealous<br>film<br>dance<br>model<br>frame<br>enhance<br>news<br>pelican |  
@@ -147,6 +159,18 @@ enhance |
 | bip_39_word_space_7 | add amateur chuckle jealous film dance model |  
 | bip_39_word_space_8 | add amateur chuckle jealous film dance model frame |  
 | bip_39_word_space_9 | add amateur chuckle jealous film dance model frame enhance |  
+| bip_39_word_underscore_1 | add |  
+| bip_39_word_underscore_10 | add_amateur_chuckle_jealous_film_dance_model_frame_enhance_news |  
+| bip_39_word_underscore_11 | add_amateur_chuckle_jealous_film_dance_model_frame_enhance_news_pelican |  
+| bip_39_word_underscore_12 | add_amateur_chuckle_jealous_film_dance_model_frame_enhance_news_pelican_any |  
+| bip_39_word_underscore_2 | add_amateur |  
+| bip_39_word_underscore_3 | add_amateur_chuckle |  
+| bip_39_word_underscore_4 | add_amateur_chuckle_jealous |  
+| bip_39_word_underscore_5 | add_amateur_chuckle_jealous_film |  
+| bip_39_word_underscore_6 | add_amateur_chuckle_jealous_film_dance |  
+| bip_39_word_underscore_7 | add_amateur_chuckle_jealous_film_dance_model |  
+| bip_39_word_underscore_8 | add_amateur_chuckle_jealous_film_dance_model_frame |  
+| bip_39_word_underscore_9 | add_amateur_chuckle_jealous_film_dance_model_frame_enhance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

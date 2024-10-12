@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | large |  
+| bip_39_word_dash_10 | large-virtual-hill-sniff-unfold-search-book-screen-dune-pumpkin |  
+| bip_39_word_dash_11 | large-virtual-hill-sniff-unfold-search-book-screen-dune-pumpkin-choice |  
+| bip_39_word_dash_12 | large-virtual-hill-sniff-unfold-search-book-screen-dune-pumpkin-choice-agree |  
+| bip_39_word_dash_2 | large-virtual |  
+| bip_39_word_dash_3 | large-virtual-hill |  
+| bip_39_word_dash_4 | large-virtual-hill-sniff |  
+| bip_39_word_dash_5 | large-virtual-hill-sniff-unfold |  
+| bip_39_word_dash_6 | large-virtual-hill-sniff-unfold-search |  
+| bip_39_word_dash_7 | large-virtual-hill-sniff-unfold-search-book |  
+| bip_39_word_dash_8 | large-virtual-hill-sniff-unfold-search-book-screen |  
+| bip_39_word_dash_9 | large-virtual-hill-sniff-unfold-search-book-screen-dune |  
 | bip_39_word_new_br_1 | large |  
 | bip_39_word_new_br_10 | large<br>virtual<br>hill<br>sniff<br>unfold<br>search<br>book<br>screen<br>dune<br>pumpkin |  
 | bip_39_word_new_br_11 | large<br>virtual<br>hill<br>sniff<br>unfold<br>search<br>book<br>screen<br>dune<br>pumpkin<br>choice |  
@@ -147,6 +159,18 @@ dune |
 | bip_39_word_space_7 | large virtual hill sniff unfold search book |  
 | bip_39_word_space_8 | large virtual hill sniff unfold search book screen |  
 | bip_39_word_space_9 | large virtual hill sniff unfold search book screen dune |  
+| bip_39_word_underscore_1 | large |  
+| bip_39_word_underscore_10 | large_virtual_hill_sniff_unfold_search_book_screen_dune_pumpkin |  
+| bip_39_word_underscore_11 | large_virtual_hill_sniff_unfold_search_book_screen_dune_pumpkin_choice |  
+| bip_39_word_underscore_12 | large_virtual_hill_sniff_unfold_search_book_screen_dune_pumpkin_choice_agree |  
+| bip_39_word_underscore_2 | large_virtual |  
+| bip_39_word_underscore_3 | large_virtual_hill |  
+| bip_39_word_underscore_4 | large_virtual_hill_sniff |  
+| bip_39_word_underscore_5 | large_virtual_hill_sniff_unfold |  
+| bip_39_word_underscore_6 | large_virtual_hill_sniff_unfold_search |  
+| bip_39_word_underscore_7 | large_virtual_hill_sniff_unfold_search_book |  
+| bip_39_word_underscore_8 | large_virtual_hill_sniff_unfold_search_book_screen |  
+| bip_39_word_underscore_9 | large_virtual_hill_sniff_unfold_search_book_screen_dune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

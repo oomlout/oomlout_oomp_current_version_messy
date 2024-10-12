@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nothing
+bip_39_word_dash_10: nothing-blouse-tube-drive-coil-trick-decline-green-candy-little
+bip_39_word_dash_11: nothing-blouse-tube-drive-coil-trick-decline-green-candy-little-already
+bip_39_word_dash_12: nothing-blouse-tube-drive-coil-trick-decline-green-candy-little-already-abstract
+bip_39_word_dash_2: nothing-blouse
+bip_39_word_dash_3: nothing-blouse-tube
+bip_39_word_dash_4: nothing-blouse-tube-drive
+bip_39_word_dash_5: nothing-blouse-tube-drive-coil
+bip_39_word_dash_6: nothing-blouse-tube-drive-coil-trick
+bip_39_word_dash_7: nothing-blouse-tube-drive-coil-trick-decline
+bip_39_word_dash_8: nothing-blouse-tube-drive-coil-trick-decline-green
+bip_39_word_dash_9: nothing-blouse-tube-drive-coil-trick-decline-green-candy
 bip_39_word_new_br_1: nothing
 bip_39_word_new_br_10: nothing<br>blouse<br>tube<br>drive<br>coil<br>trick<br>decline<br>green<br>candy<br>little
 bip_39_word_new_br_11: nothing<br>blouse<br>tube<br>drive<br>coil<br>trick<br>decline<br>green<br>candy<br>little<br>already
@@ -193,6 +205,18 @@ bip_39_word_space_6: nothing blouse tube drive coil trick
 bip_39_word_space_7: nothing blouse tube drive coil trick decline
 bip_39_word_space_8: nothing blouse tube drive coil trick decline green
 bip_39_word_space_9: nothing blouse tube drive coil trick decline green candy
+bip_39_word_underscore_1: nothing
+bip_39_word_underscore_10: nothing_blouse_tube_drive_coil_trick_decline_green_candy_little
+bip_39_word_underscore_11: nothing_blouse_tube_drive_coil_trick_decline_green_candy_little_already
+bip_39_word_underscore_12: nothing_blouse_tube_drive_coil_trick_decline_green_candy_little_already_abstract
+bip_39_word_underscore_2: nothing_blouse
+bip_39_word_underscore_3: nothing_blouse_tube
+bip_39_word_underscore_4: nothing_blouse_tube_drive
+bip_39_word_underscore_5: nothing_blouse_tube_drive_coil
+bip_39_word_underscore_6: nothing_blouse_tube_drive_coil_trick
+bip_39_word_underscore_7: nothing_blouse_tube_drive_coil_trick_decline
+bip_39_word_underscore_8: nothing_blouse_tube_drive_coil_trick_decline_green
+bip_39_word_underscore_9: nothing_blouse_tube_drive_coil_trick_decline_green_candy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

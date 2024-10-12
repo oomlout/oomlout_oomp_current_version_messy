@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cigar |  
+| bip_39_word_dash_10 | cigar-chalk-mix-purchase-hurt-addict-sweet-dish-today-cheese |  
+| bip_39_word_dash_11 | cigar-chalk-mix-purchase-hurt-addict-sweet-dish-today-cheese-wood |  
+| bip_39_word_dash_12 | cigar-chalk-mix-purchase-hurt-addict-sweet-dish-today-cheese-wood-another |  
+| bip_39_word_dash_2 | cigar-chalk |  
+| bip_39_word_dash_3 | cigar-chalk-mix |  
+| bip_39_word_dash_4 | cigar-chalk-mix-purchase |  
+| bip_39_word_dash_5 | cigar-chalk-mix-purchase-hurt |  
+| bip_39_word_dash_6 | cigar-chalk-mix-purchase-hurt-addict |  
+| bip_39_word_dash_7 | cigar-chalk-mix-purchase-hurt-addict-sweet |  
+| bip_39_word_dash_8 | cigar-chalk-mix-purchase-hurt-addict-sweet-dish |  
+| bip_39_word_dash_9 | cigar-chalk-mix-purchase-hurt-addict-sweet-dish-today |  
 | bip_39_word_new_br_1 | cigar |  
 | bip_39_word_new_br_10 | cigar<br>chalk<br>mix<br>purchase<br>hurt<br>addict<br>sweet<br>dish<br>today<br>cheese |  
 | bip_39_word_new_br_11 | cigar<br>chalk<br>mix<br>purchase<br>hurt<br>addict<br>sweet<br>dish<br>today<br>cheese<br>wood |  
@@ -147,6 +159,18 @@ today |
 | bip_39_word_space_7 | cigar chalk mix purchase hurt addict sweet |  
 | bip_39_word_space_8 | cigar chalk mix purchase hurt addict sweet dish |  
 | bip_39_word_space_9 | cigar chalk mix purchase hurt addict sweet dish today |  
+| bip_39_word_underscore_1 | cigar |  
+| bip_39_word_underscore_10 | cigar_chalk_mix_purchase_hurt_addict_sweet_dish_today_cheese |  
+| bip_39_word_underscore_11 | cigar_chalk_mix_purchase_hurt_addict_sweet_dish_today_cheese_wood |  
+| bip_39_word_underscore_12 | cigar_chalk_mix_purchase_hurt_addict_sweet_dish_today_cheese_wood_another |  
+| bip_39_word_underscore_2 | cigar_chalk |  
+| bip_39_word_underscore_3 | cigar_chalk_mix |  
+| bip_39_word_underscore_4 | cigar_chalk_mix_purchase |  
+| bip_39_word_underscore_5 | cigar_chalk_mix_purchase_hurt |  
+| bip_39_word_underscore_6 | cigar_chalk_mix_purchase_hurt_addict |  
+| bip_39_word_underscore_7 | cigar_chalk_mix_purchase_hurt_addict_sweet |  
+| bip_39_word_underscore_8 | cigar_chalk_mix_purchase_hurt_addict_sweet_dish |  
+| bip_39_word_underscore_9 | cigar_chalk_mix_purchase_hurt_addict_sweet_dish_today |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fox
+bip_39_word_dash_10: fox-harbor-relief-tennis-hill-abandon-cluster-major-maid-tag
+bip_39_word_dash_11: fox-harbor-relief-tennis-hill-abandon-cluster-major-maid-tag-orient
+bip_39_word_dash_12: fox-harbor-relief-tennis-hill-abandon-cluster-major-maid-tag-orient-add
+bip_39_word_dash_2: fox-harbor
+bip_39_word_dash_3: fox-harbor-relief
+bip_39_word_dash_4: fox-harbor-relief-tennis
+bip_39_word_dash_5: fox-harbor-relief-tennis-hill
+bip_39_word_dash_6: fox-harbor-relief-tennis-hill-abandon
+bip_39_word_dash_7: fox-harbor-relief-tennis-hill-abandon-cluster
+bip_39_word_dash_8: fox-harbor-relief-tennis-hill-abandon-cluster-major
+bip_39_word_dash_9: fox-harbor-relief-tennis-hill-abandon-cluster-major-maid
 bip_39_word_new_br_1: fox
 bip_39_word_new_br_10: fox<br>harbor<br>relief<br>tennis<br>hill<br>abandon<br>cluster<br>major<br>maid<br>tag
 bip_39_word_new_br_11: fox<br>harbor<br>relief<br>tennis<br>hill<br>abandon<br>cluster<br>major<br>maid<br>tag<br>orient
@@ -193,6 +205,18 @@ bip_39_word_space_6: fox harbor relief tennis hill abandon
 bip_39_word_space_7: fox harbor relief tennis hill abandon cluster
 bip_39_word_space_8: fox harbor relief tennis hill abandon cluster major
 bip_39_word_space_9: fox harbor relief tennis hill abandon cluster major maid
+bip_39_word_underscore_1: fox
+bip_39_word_underscore_10: fox_harbor_relief_tennis_hill_abandon_cluster_major_maid_tag
+bip_39_word_underscore_11: fox_harbor_relief_tennis_hill_abandon_cluster_major_maid_tag_orient
+bip_39_word_underscore_12: fox_harbor_relief_tennis_hill_abandon_cluster_major_maid_tag_orient_add
+bip_39_word_underscore_2: fox_harbor
+bip_39_word_underscore_3: fox_harbor_relief
+bip_39_word_underscore_4: fox_harbor_relief_tennis
+bip_39_word_underscore_5: fox_harbor_relief_tennis_hill
+bip_39_word_underscore_6: fox_harbor_relief_tennis_hill_abandon
+bip_39_word_underscore_7: fox_harbor_relief_tennis_hill_abandon_cluster
+bip_39_word_underscore_8: fox_harbor_relief_tennis_hill_abandon_cluster_major
+bip_39_word_underscore_9: fox_harbor_relief_tennis_hill_abandon_cluster_major_maid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

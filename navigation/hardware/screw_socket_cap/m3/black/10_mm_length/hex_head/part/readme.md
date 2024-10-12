@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | question |  
+| bip_39_word_dash_10 | question-silk-true-situate-raw-barrel-suspect-raw-position-round |  
+| bip_39_word_dash_11 | question-silk-true-situate-raw-barrel-suspect-raw-position-round-gift |  
+| bip_39_word_dash_12 | question-silk-true-situate-raw-barrel-suspect-raw-position-round-gift-alcohol |  
+| bip_39_word_dash_2 | question-silk |  
+| bip_39_word_dash_3 | question-silk-true |  
+| bip_39_word_dash_4 | question-silk-true-situate |  
+| bip_39_word_dash_5 | question-silk-true-situate-raw |  
+| bip_39_word_dash_6 | question-silk-true-situate-raw-barrel |  
+| bip_39_word_dash_7 | question-silk-true-situate-raw-barrel-suspect |  
+| bip_39_word_dash_8 | question-silk-true-situate-raw-barrel-suspect-raw |  
+| bip_39_word_dash_9 | question-silk-true-situate-raw-barrel-suspect-raw-position |  
 | bip_39_word_new_br_1 | question |  
 | bip_39_word_new_br_10 | question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round |  
 | bip_39_word_new_br_11 | question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round<br>gift |  
@@ -147,6 +159,18 @@ position |
 | bip_39_word_space_7 | question silk true situate raw barrel suspect |  
 | bip_39_word_space_8 | question silk true situate raw barrel suspect raw |  
 | bip_39_word_space_9 | question silk true situate raw barrel suspect raw position |  
+| bip_39_word_underscore_1 | question |  
+| bip_39_word_underscore_10 | question_silk_true_situate_raw_barrel_suspect_raw_position_round |  
+| bip_39_word_underscore_11 | question_silk_true_situate_raw_barrel_suspect_raw_position_round_gift |  
+| bip_39_word_underscore_12 | question_silk_true_situate_raw_barrel_suspect_raw_position_round_gift_alcohol |  
+| bip_39_word_underscore_2 | question_silk |  
+| bip_39_word_underscore_3 | question_silk_true |  
+| bip_39_word_underscore_4 | question_silk_true_situate |  
+| bip_39_word_underscore_5 | question_silk_true_situate_raw |  
+| bip_39_word_underscore_6 | question_silk_true_situate_raw_barrel |  
+| bip_39_word_underscore_7 | question_silk_true_situate_raw_barrel_suspect |  
+| bip_39_word_underscore_8 | question_silk_true_situate_raw_barrel_suspect_raw |  
+| bip_39_word_underscore_9 | question_silk_true_situate_raw_barrel_suspect_raw_position |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

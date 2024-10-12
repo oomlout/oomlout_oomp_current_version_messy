@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fresh
+bip_39_word_dash_10: fresh-nice-dress-hour-jaguar-strong-thrive-blade-inject-element
+bip_39_word_dash_11: fresh-nice-dress-hour-jaguar-strong-thrive-blade-inject-element-nature
+bip_39_word_dash_12: fresh-nice-dress-hour-jaguar-strong-thrive-blade-inject-element-nature-arch
+bip_39_word_dash_2: fresh-nice
+bip_39_word_dash_3: fresh-nice-dress
+bip_39_word_dash_4: fresh-nice-dress-hour
+bip_39_word_dash_5: fresh-nice-dress-hour-jaguar
+bip_39_word_dash_6: fresh-nice-dress-hour-jaguar-strong
+bip_39_word_dash_7: fresh-nice-dress-hour-jaguar-strong-thrive
+bip_39_word_dash_8: fresh-nice-dress-hour-jaguar-strong-thrive-blade
+bip_39_word_dash_9: fresh-nice-dress-hour-jaguar-strong-thrive-blade-inject
 bip_39_word_new_br_1: fresh
 bip_39_word_new_br_10: fresh<br>nice<br>dress<br>hour<br>jaguar<br>strong<br>thrive<br>blade<br>inject<br>element
 bip_39_word_new_br_11: fresh<br>nice<br>dress<br>hour<br>jaguar<br>strong<br>thrive<br>blade<br>inject<br>element<br>nature
@@ -193,6 +205,18 @@ bip_39_word_space_6: fresh nice dress hour jaguar strong
 bip_39_word_space_7: fresh nice dress hour jaguar strong thrive
 bip_39_word_space_8: fresh nice dress hour jaguar strong thrive blade
 bip_39_word_space_9: fresh nice dress hour jaguar strong thrive blade inject
+bip_39_word_underscore_1: fresh
+bip_39_word_underscore_10: fresh_nice_dress_hour_jaguar_strong_thrive_blade_inject_element
+bip_39_word_underscore_11: fresh_nice_dress_hour_jaguar_strong_thrive_blade_inject_element_nature
+bip_39_word_underscore_12: fresh_nice_dress_hour_jaguar_strong_thrive_blade_inject_element_nature_arch
+bip_39_word_underscore_2: fresh_nice
+bip_39_word_underscore_3: fresh_nice_dress
+bip_39_word_underscore_4: fresh_nice_dress_hour
+bip_39_word_underscore_5: fresh_nice_dress_hour_jaguar
+bip_39_word_underscore_6: fresh_nice_dress_hour_jaguar_strong
+bip_39_word_underscore_7: fresh_nice_dress_hour_jaguar_strong_thrive
+bip_39_word_underscore_8: fresh_nice_dress_hour_jaguar_strong_thrive_blade
+bip_39_word_underscore_9: fresh_nice_dress_hour_jaguar_strong_thrive_blade_inject
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

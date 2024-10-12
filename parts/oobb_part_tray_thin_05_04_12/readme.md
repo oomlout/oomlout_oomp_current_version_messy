@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lunar |  
+| bip_39_word_dash_10 | lunar-angry-arrange-ahead-resist-edge-holiday-humor-taxi-item |  
+| bip_39_word_dash_11 | lunar-angry-arrange-ahead-resist-edge-holiday-humor-taxi-item-depend |  
+| bip_39_word_dash_12 | lunar-angry-arrange-ahead-resist-edge-holiday-humor-taxi-item-depend-adjust |  
+| bip_39_word_dash_2 | lunar-angry |  
+| bip_39_word_dash_3 | lunar-angry-arrange |  
+| bip_39_word_dash_4 | lunar-angry-arrange-ahead |  
+| bip_39_word_dash_5 | lunar-angry-arrange-ahead-resist |  
+| bip_39_word_dash_6 | lunar-angry-arrange-ahead-resist-edge |  
+| bip_39_word_dash_7 | lunar-angry-arrange-ahead-resist-edge-holiday |  
+| bip_39_word_dash_8 | lunar-angry-arrange-ahead-resist-edge-holiday-humor |  
+| bip_39_word_dash_9 | lunar-angry-arrange-ahead-resist-edge-holiday-humor-taxi |  
 | bip_39_word_new_br_1 | lunar |  
 | bip_39_word_new_br_10 | lunar<br>angry<br>arrange<br>ahead<br>resist<br>edge<br>holiday<br>humor<br>taxi<br>item |  
 | bip_39_word_new_br_11 | lunar<br>angry<br>arrange<br>ahead<br>resist<br>edge<br>holiday<br>humor<br>taxi<br>item<br>depend |  
@@ -147,6 +159,18 @@ taxi |
 | bip_39_word_space_7 | lunar angry arrange ahead resist edge holiday |  
 | bip_39_word_space_8 | lunar angry arrange ahead resist edge holiday humor |  
 | bip_39_word_space_9 | lunar angry arrange ahead resist edge holiday humor taxi |  
+| bip_39_word_underscore_1 | lunar |  
+| bip_39_word_underscore_10 | lunar_angry_arrange_ahead_resist_edge_holiday_humor_taxi_item |  
+| bip_39_word_underscore_11 | lunar_angry_arrange_ahead_resist_edge_holiday_humor_taxi_item_depend |  
+| bip_39_word_underscore_12 | lunar_angry_arrange_ahead_resist_edge_holiday_humor_taxi_item_depend_adjust |  
+| bip_39_word_underscore_2 | lunar_angry |  
+| bip_39_word_underscore_3 | lunar_angry_arrange |  
+| bip_39_word_underscore_4 | lunar_angry_arrange_ahead |  
+| bip_39_word_underscore_5 | lunar_angry_arrange_ahead_resist |  
+| bip_39_word_underscore_6 | lunar_angry_arrange_ahead_resist_edge |  
+| bip_39_word_underscore_7 | lunar_angry_arrange_ahead_resist_edge_holiday |  
+| bip_39_word_underscore_8 | lunar_angry_arrange_ahead_resist_edge_holiday_humor |  
+| bip_39_word_underscore_9 | lunar_angry_arrange_ahead_resist_edge_holiday_humor_taxi |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

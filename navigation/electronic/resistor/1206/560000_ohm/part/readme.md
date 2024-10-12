@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grit |  
+| bip_39_word_dash_10 | grit-heavy-valve-maid-decade-install-field-drink-quantum-battle |  
+| bip_39_word_dash_11 | grit-heavy-valve-maid-decade-install-field-drink-quantum-battle-rain |  
+| bip_39_word_dash_12 | grit-heavy-valve-maid-decade-install-field-drink-quantum-battle-rain-account |  
+| bip_39_word_dash_2 | grit-heavy |  
+| bip_39_word_dash_3 | grit-heavy-valve |  
+| bip_39_word_dash_4 | grit-heavy-valve-maid |  
+| bip_39_word_dash_5 | grit-heavy-valve-maid-decade |  
+| bip_39_word_dash_6 | grit-heavy-valve-maid-decade-install |  
+| bip_39_word_dash_7 | grit-heavy-valve-maid-decade-install-field |  
+| bip_39_word_dash_8 | grit-heavy-valve-maid-decade-install-field-drink |  
+| bip_39_word_dash_9 | grit-heavy-valve-maid-decade-install-field-drink-quantum |  
 | bip_39_word_new_br_1 | grit |  
 | bip_39_word_new_br_10 | grit<br>heavy<br>valve<br>maid<br>decade<br>install<br>field<br>drink<br>quantum<br>battle |  
 | bip_39_word_new_br_11 | grit<br>heavy<br>valve<br>maid<br>decade<br>install<br>field<br>drink<br>quantum<br>battle<br>rain |  
@@ -147,6 +159,18 @@ quantum |
 | bip_39_word_space_7 | grit heavy valve maid decade install field |  
 | bip_39_word_space_8 | grit heavy valve maid decade install field drink |  
 | bip_39_word_space_9 | grit heavy valve maid decade install field drink quantum |  
+| bip_39_word_underscore_1 | grit |  
+| bip_39_word_underscore_10 | grit_heavy_valve_maid_decade_install_field_drink_quantum_battle |  
+| bip_39_word_underscore_11 | grit_heavy_valve_maid_decade_install_field_drink_quantum_battle_rain |  
+| bip_39_word_underscore_12 | grit_heavy_valve_maid_decade_install_field_drink_quantum_battle_rain_account |  
+| bip_39_word_underscore_2 | grit_heavy |  
+| bip_39_word_underscore_3 | grit_heavy_valve |  
+| bip_39_word_underscore_4 | grit_heavy_valve_maid |  
+| bip_39_word_underscore_5 | grit_heavy_valve_maid_decade |  
+| bip_39_word_underscore_6 | grit_heavy_valve_maid_decade_install |  
+| bip_39_word_underscore_7 | grit_heavy_valve_maid_decade_install_field |  
+| bip_39_word_underscore_8 | grit_heavy_valve_maid_decade_install_field_drink |  
+| bip_39_word_underscore_9 | grit_heavy_valve_maid_decade_install_field_drink_quantum |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

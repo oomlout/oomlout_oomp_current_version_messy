@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | celery |  
+| bip_39_word_dash_10 | celery-toilet-photo-cup-reform-spare-nut-ride-mean-cushion |  
+| bip_39_word_dash_11 | celery-toilet-photo-cup-reform-spare-nut-ride-mean-cushion-kidney |  
+| bip_39_word_dash_12 | celery-toilet-photo-cup-reform-spare-nut-ride-mean-cushion-kidney-able |  
+| bip_39_word_dash_2 | celery-toilet |  
+| bip_39_word_dash_3 | celery-toilet-photo |  
+| bip_39_word_dash_4 | celery-toilet-photo-cup |  
+| bip_39_word_dash_5 | celery-toilet-photo-cup-reform |  
+| bip_39_word_dash_6 | celery-toilet-photo-cup-reform-spare |  
+| bip_39_word_dash_7 | celery-toilet-photo-cup-reform-spare-nut |  
+| bip_39_word_dash_8 | celery-toilet-photo-cup-reform-spare-nut-ride |  
+| bip_39_word_dash_9 | celery-toilet-photo-cup-reform-spare-nut-ride-mean |  
 | bip_39_word_new_br_1 | celery |  
 | bip_39_word_new_br_10 | celery<br>toilet<br>photo<br>cup<br>reform<br>spare<br>nut<br>ride<br>mean<br>cushion |  
 | bip_39_word_new_br_11 | celery<br>toilet<br>photo<br>cup<br>reform<br>spare<br>nut<br>ride<br>mean<br>cushion<br>kidney |  
@@ -147,6 +159,18 @@ mean |
 | bip_39_word_space_7 | celery toilet photo cup reform spare nut |  
 | bip_39_word_space_8 | celery toilet photo cup reform spare nut ride |  
 | bip_39_word_space_9 | celery toilet photo cup reform spare nut ride mean |  
+| bip_39_word_underscore_1 | celery |  
+| bip_39_word_underscore_10 | celery_toilet_photo_cup_reform_spare_nut_ride_mean_cushion |  
+| bip_39_word_underscore_11 | celery_toilet_photo_cup_reform_spare_nut_ride_mean_cushion_kidney |  
+| bip_39_word_underscore_12 | celery_toilet_photo_cup_reform_spare_nut_ride_mean_cushion_kidney_able |  
+| bip_39_word_underscore_2 | celery_toilet |  
+| bip_39_word_underscore_3 | celery_toilet_photo |  
+| bip_39_word_underscore_4 | celery_toilet_photo_cup |  
+| bip_39_word_underscore_5 | celery_toilet_photo_cup_reform |  
+| bip_39_word_underscore_6 | celery_toilet_photo_cup_reform_spare |  
+| bip_39_word_underscore_7 | celery_toilet_photo_cup_reform_spare_nut |  
+| bip_39_word_underscore_8 | celery_toilet_photo_cup_reform_spare_nut_ride |  
+| bip_39_word_underscore_9 | celery_toilet_photo_cup_reform_spare_nut_ride_mean |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

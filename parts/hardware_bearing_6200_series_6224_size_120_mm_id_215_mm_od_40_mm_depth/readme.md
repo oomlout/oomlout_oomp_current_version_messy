@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lesson |  
+| bip_39_word_dash_10 | lesson-honey-diesel-radar-true-mixture-toddler-march-inch-leaf |  
+| bip_39_word_dash_11 | lesson-honey-diesel-radar-true-mixture-toddler-march-inch-leaf-tooth |  
+| bip_39_word_dash_12 | lesson-honey-diesel-radar-true-mixture-toddler-march-inch-leaf-tooth-august |  
+| bip_39_word_dash_2 | lesson-honey |  
+| bip_39_word_dash_3 | lesson-honey-diesel |  
+| bip_39_word_dash_4 | lesson-honey-diesel-radar |  
+| bip_39_word_dash_5 | lesson-honey-diesel-radar-true |  
+| bip_39_word_dash_6 | lesson-honey-diesel-radar-true-mixture |  
+| bip_39_word_dash_7 | lesson-honey-diesel-radar-true-mixture-toddler |  
+| bip_39_word_dash_8 | lesson-honey-diesel-radar-true-mixture-toddler-march |  
+| bip_39_word_dash_9 | lesson-honey-diesel-radar-true-mixture-toddler-march-inch |  
 | bip_39_word_new_br_1 | lesson |  
 | bip_39_word_new_br_10 | lesson<br>honey<br>diesel<br>radar<br>true<br>mixture<br>toddler<br>march<br>inch<br>leaf |  
 | bip_39_word_new_br_11 | lesson<br>honey<br>diesel<br>radar<br>true<br>mixture<br>toddler<br>march<br>inch<br>leaf<br>tooth |  
@@ -147,6 +159,18 @@ inch |
 | bip_39_word_space_7 | lesson honey diesel radar true mixture toddler |  
 | bip_39_word_space_8 | lesson honey diesel radar true mixture toddler march |  
 | bip_39_word_space_9 | lesson honey diesel radar true mixture toddler march inch |  
+| bip_39_word_underscore_1 | lesson |  
+| bip_39_word_underscore_10 | lesson_honey_diesel_radar_true_mixture_toddler_march_inch_leaf |  
+| bip_39_word_underscore_11 | lesson_honey_diesel_radar_true_mixture_toddler_march_inch_leaf_tooth |  
+| bip_39_word_underscore_12 | lesson_honey_diesel_radar_true_mixture_toddler_march_inch_leaf_tooth_august |  
+| bip_39_word_underscore_2 | lesson_honey |  
+| bip_39_word_underscore_3 | lesson_honey_diesel |  
+| bip_39_word_underscore_4 | lesson_honey_diesel_radar |  
+| bip_39_word_underscore_5 | lesson_honey_diesel_radar_true |  
+| bip_39_word_underscore_6 | lesson_honey_diesel_radar_true_mixture |  
+| bip_39_word_underscore_7 | lesson_honey_diesel_radar_true_mixture_toddler |  
+| bip_39_word_underscore_8 | lesson_honey_diesel_radar_true_mixture_toddler_march |  
+| bip_39_word_underscore_9 | lesson_honey_diesel_radar_true_mixture_toddler_march_inch |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

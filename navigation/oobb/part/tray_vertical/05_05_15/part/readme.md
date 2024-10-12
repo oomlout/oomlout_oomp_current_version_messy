@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | repair |  
+| bip_39_word_dash_10 | repair-flat-velvet-crunch-able-anger-fit-afraid-draw-harbor |  
+| bip_39_word_dash_11 | repair-flat-velvet-crunch-able-anger-fit-afraid-draw-harbor-dust |  
+| bip_39_word_dash_12 | repair-flat-velvet-crunch-able-anger-fit-afraid-draw-harbor-dust-arrange |  
+| bip_39_word_dash_2 | repair-flat |  
+| bip_39_word_dash_3 | repair-flat-velvet |  
+| bip_39_word_dash_4 | repair-flat-velvet-crunch |  
+| bip_39_word_dash_5 | repair-flat-velvet-crunch-able |  
+| bip_39_word_dash_6 | repair-flat-velvet-crunch-able-anger |  
+| bip_39_word_dash_7 | repair-flat-velvet-crunch-able-anger-fit |  
+| bip_39_word_dash_8 | repair-flat-velvet-crunch-able-anger-fit-afraid |  
+| bip_39_word_dash_9 | repair-flat-velvet-crunch-able-anger-fit-afraid-draw |  
 | bip_39_word_new_br_1 | repair |  
 | bip_39_word_new_br_10 | repair<br>flat<br>velvet<br>crunch<br>able<br>anger<br>fit<br>afraid<br>draw<br>harbor |  
 | bip_39_word_new_br_11 | repair<br>flat<br>velvet<br>crunch<br>able<br>anger<br>fit<br>afraid<br>draw<br>harbor<br>dust |  
@@ -147,6 +159,18 @@ draw |
 | bip_39_word_space_7 | repair flat velvet crunch able anger fit |  
 | bip_39_word_space_8 | repair flat velvet crunch able anger fit afraid |  
 | bip_39_word_space_9 | repair flat velvet crunch able anger fit afraid draw |  
+| bip_39_word_underscore_1 | repair |  
+| bip_39_word_underscore_10 | repair_flat_velvet_crunch_able_anger_fit_afraid_draw_harbor |  
+| bip_39_word_underscore_11 | repair_flat_velvet_crunch_able_anger_fit_afraid_draw_harbor_dust |  
+| bip_39_word_underscore_12 | repair_flat_velvet_crunch_able_anger_fit_afraid_draw_harbor_dust_arrange |  
+| bip_39_word_underscore_2 | repair_flat |  
+| bip_39_word_underscore_3 | repair_flat_velvet |  
+| bip_39_word_underscore_4 | repair_flat_velvet_crunch |  
+| bip_39_word_underscore_5 | repair_flat_velvet_crunch_able |  
+| bip_39_word_underscore_6 | repair_flat_velvet_crunch_able_anger |  
+| bip_39_word_underscore_7 | repair_flat_velvet_crunch_able_anger_fit |  
+| bip_39_word_underscore_8 | repair_flat_velvet_crunch_able_anger_fit_afraid |  
+| bip_39_word_underscore_9 | repair_flat_velvet_crunch_able_anger_fit_afraid_draw |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

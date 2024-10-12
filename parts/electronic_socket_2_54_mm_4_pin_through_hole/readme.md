@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | canvas |  
+| bip_39_word_dash_10 | canvas-chapter-arrive-fetch-shoe-finger-piano-video-stable-modify |  
+| bip_39_word_dash_11 | canvas-chapter-arrive-fetch-shoe-finger-piano-video-stable-modify-addict |  
+| bip_39_word_dash_12 | canvas-chapter-arrive-fetch-shoe-finger-piano-video-stable-modify-addict-april |  
+| bip_39_word_dash_2 | canvas-chapter |  
+| bip_39_word_dash_3 | canvas-chapter-arrive |  
+| bip_39_word_dash_4 | canvas-chapter-arrive-fetch |  
+| bip_39_word_dash_5 | canvas-chapter-arrive-fetch-shoe |  
+| bip_39_word_dash_6 | canvas-chapter-arrive-fetch-shoe-finger |  
+| bip_39_word_dash_7 | canvas-chapter-arrive-fetch-shoe-finger-piano |  
+| bip_39_word_dash_8 | canvas-chapter-arrive-fetch-shoe-finger-piano-video |  
+| bip_39_word_dash_9 | canvas-chapter-arrive-fetch-shoe-finger-piano-video-stable |  
 | bip_39_word_new_br_1 | canvas |  
 | bip_39_word_new_br_10 | canvas<br>chapter<br>arrive<br>fetch<br>shoe<br>finger<br>piano<br>video<br>stable<br>modify |  
 | bip_39_word_new_br_11 | canvas<br>chapter<br>arrive<br>fetch<br>shoe<br>finger<br>piano<br>video<br>stable<br>modify<br>addict |  
@@ -147,6 +159,18 @@ stable |
 | bip_39_word_space_7 | canvas chapter arrive fetch shoe finger piano |  
 | bip_39_word_space_8 | canvas chapter arrive fetch shoe finger piano video |  
 | bip_39_word_space_9 | canvas chapter arrive fetch shoe finger piano video stable |  
+| bip_39_word_underscore_1 | canvas |  
+| bip_39_word_underscore_10 | canvas_chapter_arrive_fetch_shoe_finger_piano_video_stable_modify |  
+| bip_39_word_underscore_11 | canvas_chapter_arrive_fetch_shoe_finger_piano_video_stable_modify_addict |  
+| bip_39_word_underscore_12 | canvas_chapter_arrive_fetch_shoe_finger_piano_video_stable_modify_addict_april |  
+| bip_39_word_underscore_2 | canvas_chapter |  
+| bip_39_word_underscore_3 | canvas_chapter_arrive |  
+| bip_39_word_underscore_4 | canvas_chapter_arrive_fetch |  
+| bip_39_word_underscore_5 | canvas_chapter_arrive_fetch_shoe |  
+| bip_39_word_underscore_6 | canvas_chapter_arrive_fetch_shoe_finger |  
+| bip_39_word_underscore_7 | canvas_chapter_arrive_fetch_shoe_finger_piano |  
+| bip_39_word_underscore_8 | canvas_chapter_arrive_fetch_shoe_finger_piano_video |  
+| bip_39_word_underscore_9 | canvas_chapter_arrive_fetch_shoe_finger_piano_video_stable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

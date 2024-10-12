@@ -1,3 +1,15 @@
+bip_39_word_dash_1: quantum
+bip_39_word_dash_10: quantum-giraffe-bean-kit-lazy-kick-metal-snack-cave-wolf
+bip_39_word_dash_11: quantum-giraffe-bean-kit-lazy-kick-metal-snack-cave-wolf-attract
+bip_39_word_dash_12: quantum-giraffe-bean-kit-lazy-kick-metal-snack-cave-wolf-attract-anxiety
+bip_39_word_dash_2: quantum-giraffe
+bip_39_word_dash_3: quantum-giraffe-bean
+bip_39_word_dash_4: quantum-giraffe-bean-kit
+bip_39_word_dash_5: quantum-giraffe-bean-kit-lazy
+bip_39_word_dash_6: quantum-giraffe-bean-kit-lazy-kick
+bip_39_word_dash_7: quantum-giraffe-bean-kit-lazy-kick-metal
+bip_39_word_dash_8: quantum-giraffe-bean-kit-lazy-kick-metal-snack
+bip_39_word_dash_9: quantum-giraffe-bean-kit-lazy-kick-metal-snack-cave
 bip_39_word_new_br_1: quantum
 bip_39_word_new_br_10: quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack<br>cave<br>wolf
 bip_39_word_new_br_11: quantum<br>giraffe<br>bean<br>kit<br>lazy<br>kick<br>metal<br>snack<br>cave<br>wolf<br>attract
@@ -192,6 +204,18 @@ bip_39_word_space_6: quantum giraffe bean kit lazy kick
 bip_39_word_space_7: quantum giraffe bean kit lazy kick metal
 bip_39_word_space_8: quantum giraffe bean kit lazy kick metal snack
 bip_39_word_space_9: quantum giraffe bean kit lazy kick metal snack cave
+bip_39_word_underscore_1: quantum
+bip_39_word_underscore_10: quantum_giraffe_bean_kit_lazy_kick_metal_snack_cave_wolf
+bip_39_word_underscore_11: quantum_giraffe_bean_kit_lazy_kick_metal_snack_cave_wolf_attract
+bip_39_word_underscore_12: quantum_giraffe_bean_kit_lazy_kick_metal_snack_cave_wolf_attract_anxiety
+bip_39_word_underscore_2: quantum_giraffe
+bip_39_word_underscore_3: quantum_giraffe_bean
+bip_39_word_underscore_4: quantum_giraffe_bean_kit
+bip_39_word_underscore_5: quantum_giraffe_bean_kit_lazy
+bip_39_word_underscore_6: quantum_giraffe_bean_kit_lazy_kick
+bip_39_word_underscore_7: quantum_giraffe_bean_kit_lazy_kick_metal
+bip_39_word_underscore_8: quantum_giraffe_bean_kit_lazy_kick_metal_snack
+bip_39_word_underscore_9: quantum_giraffe_bean_kit_lazy_kick_metal_snack_cave
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sound |  
+| bip_39_word_dash_10 | sound-column-oval-catch-gift-park-attitude-young-vintage-clip |  
+| bip_39_word_dash_11 | sound-column-oval-catch-gift-park-attitude-young-vintage-clip-sail |  
+| bip_39_word_dash_12 | sound-column-oval-catch-gift-park-attitude-young-vintage-clip-sail-amount |  
+| bip_39_word_dash_2 | sound-column |  
+| bip_39_word_dash_3 | sound-column-oval |  
+| bip_39_word_dash_4 | sound-column-oval-catch |  
+| bip_39_word_dash_5 | sound-column-oval-catch-gift |  
+| bip_39_word_dash_6 | sound-column-oval-catch-gift-park |  
+| bip_39_word_dash_7 | sound-column-oval-catch-gift-park-attitude |  
+| bip_39_word_dash_8 | sound-column-oval-catch-gift-park-attitude-young |  
+| bip_39_word_dash_9 | sound-column-oval-catch-gift-park-attitude-young-vintage |  
 | bip_39_word_new_br_1 | sound |  
 | bip_39_word_new_br_10 | sound<br>column<br>oval<br>catch<br>gift<br>park<br>attitude<br>young<br>vintage<br>clip |  
 | bip_39_word_new_br_11 | sound<br>column<br>oval<br>catch<br>gift<br>park<br>attitude<br>young<br>vintage<br>clip<br>sail |  
@@ -147,6 +159,18 @@ vintage |
 | bip_39_word_space_7 | sound column oval catch gift park attitude |  
 | bip_39_word_space_8 | sound column oval catch gift park attitude young |  
 | bip_39_word_space_9 | sound column oval catch gift park attitude young vintage |  
+| bip_39_word_underscore_1 | sound |  
+| bip_39_word_underscore_10 | sound_column_oval_catch_gift_park_attitude_young_vintage_clip |  
+| bip_39_word_underscore_11 | sound_column_oval_catch_gift_park_attitude_young_vintage_clip_sail |  
+| bip_39_word_underscore_12 | sound_column_oval_catch_gift_park_attitude_young_vintage_clip_sail_amount |  
+| bip_39_word_underscore_2 | sound_column |  
+| bip_39_word_underscore_3 | sound_column_oval |  
+| bip_39_word_underscore_4 | sound_column_oval_catch |  
+| bip_39_word_underscore_5 | sound_column_oval_catch_gift |  
+| bip_39_word_underscore_6 | sound_column_oval_catch_gift_park |  
+| bip_39_word_underscore_7 | sound_column_oval_catch_gift_park_attitude |  
+| bip_39_word_underscore_8 | sound_column_oval_catch_gift_park_attitude_young |  
+| bip_39_word_underscore_9 | sound_column_oval_catch_gift_park_attitude_young_vintage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

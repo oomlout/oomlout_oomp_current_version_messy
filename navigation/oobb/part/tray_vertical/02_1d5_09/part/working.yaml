@@ -1,3 +1,15 @@
+bip_39_word_dash_1: load
+bip_39_word_dash_10: load-anchor-inhale-like-material-breeze-lunch-match-erase-warrior
+bip_39_word_dash_11: load-anchor-inhale-like-material-breeze-lunch-match-erase-warrior-wool
+bip_39_word_dash_12: load-anchor-inhale-like-material-breeze-lunch-match-erase-warrior-wool-acid
+bip_39_word_dash_2: load-anchor
+bip_39_word_dash_3: load-anchor-inhale
+bip_39_word_dash_4: load-anchor-inhale-like
+bip_39_word_dash_5: load-anchor-inhale-like-material
+bip_39_word_dash_6: load-anchor-inhale-like-material-breeze
+bip_39_word_dash_7: load-anchor-inhale-like-material-breeze-lunch
+bip_39_word_dash_8: load-anchor-inhale-like-material-breeze-lunch-match
+bip_39_word_dash_9: load-anchor-inhale-like-material-breeze-lunch-match-erase
 bip_39_word_new_br_1: load
 bip_39_word_new_br_10: load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match<br>erase<br>warrior
 bip_39_word_new_br_11: load<br>anchor<br>inhale<br>like<br>material<br>breeze<br>lunch<br>match<br>erase<br>warrior<br>wool
@@ -193,6 +205,18 @@ bip_39_word_space_6: load anchor inhale like material breeze
 bip_39_word_space_7: load anchor inhale like material breeze lunch
 bip_39_word_space_8: load anchor inhale like material breeze lunch match
 bip_39_word_space_9: load anchor inhale like material breeze lunch match erase
+bip_39_word_underscore_1: load
+bip_39_word_underscore_10: load_anchor_inhale_like_material_breeze_lunch_match_erase_warrior
+bip_39_word_underscore_11: load_anchor_inhale_like_material_breeze_lunch_match_erase_warrior_wool
+bip_39_word_underscore_12: load_anchor_inhale_like_material_breeze_lunch_match_erase_warrior_wool_acid
+bip_39_word_underscore_2: load_anchor
+bip_39_word_underscore_3: load_anchor_inhale
+bip_39_word_underscore_4: load_anchor_inhale_like
+bip_39_word_underscore_5: load_anchor_inhale_like_material
+bip_39_word_underscore_6: load_anchor_inhale_like_material_breeze
+bip_39_word_underscore_7: load_anchor_inhale_like_material_breeze_lunch
+bip_39_word_underscore_8: load_anchor_inhale_like_material_breeze_lunch_match
+bip_39_word_underscore_9: load_anchor_inhale_like_material_breeze_lunch_match_erase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

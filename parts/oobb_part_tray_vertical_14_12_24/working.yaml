@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wrap
+bip_39_word_dash_10: wrap-only-fabric-enact-security-deny-keep-donkey-pave-crisp
+bip_39_word_dash_11: wrap-only-fabric-enact-security-deny-keep-donkey-pave-crisp-melt
+bip_39_word_dash_12: wrap-only-fabric-enact-security-deny-keep-donkey-pave-crisp-melt-area
+bip_39_word_dash_2: wrap-only
+bip_39_word_dash_3: wrap-only-fabric
+bip_39_word_dash_4: wrap-only-fabric-enact
+bip_39_word_dash_5: wrap-only-fabric-enact-security
+bip_39_word_dash_6: wrap-only-fabric-enact-security-deny
+bip_39_word_dash_7: wrap-only-fabric-enact-security-deny-keep
+bip_39_word_dash_8: wrap-only-fabric-enact-security-deny-keep-donkey
+bip_39_word_dash_9: wrap-only-fabric-enact-security-deny-keep-donkey-pave
 bip_39_word_new_br_1: wrap
 bip_39_word_new_br_10: wrap<br>only<br>fabric<br>enact<br>security<br>deny<br>keep<br>donkey<br>pave<br>crisp
 bip_39_word_new_br_11: wrap<br>only<br>fabric<br>enact<br>security<br>deny<br>keep<br>donkey<br>pave<br>crisp<br>melt
@@ -193,6 +205,18 @@ bip_39_word_space_6: wrap only fabric enact security deny
 bip_39_word_space_7: wrap only fabric enact security deny keep
 bip_39_word_space_8: wrap only fabric enact security deny keep donkey
 bip_39_word_space_9: wrap only fabric enact security deny keep donkey pave
+bip_39_word_underscore_1: wrap
+bip_39_word_underscore_10: wrap_only_fabric_enact_security_deny_keep_donkey_pave_crisp
+bip_39_word_underscore_11: wrap_only_fabric_enact_security_deny_keep_donkey_pave_crisp_melt
+bip_39_word_underscore_12: wrap_only_fabric_enact_security_deny_keep_donkey_pave_crisp_melt_area
+bip_39_word_underscore_2: wrap_only
+bip_39_word_underscore_3: wrap_only_fabric
+bip_39_word_underscore_4: wrap_only_fabric_enact
+bip_39_word_underscore_5: wrap_only_fabric_enact_security
+bip_39_word_underscore_6: wrap_only_fabric_enact_security_deny
+bip_39_word_underscore_7: wrap_only_fabric_enact_security_deny_keep
+bip_39_word_underscore_8: wrap_only_fabric_enact_security_deny_keep_donkey
+bip_39_word_underscore_9: wrap_only_fabric_enact_security_deny_keep_donkey_pave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

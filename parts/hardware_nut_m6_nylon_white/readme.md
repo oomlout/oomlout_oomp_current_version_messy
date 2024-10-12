@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | faint |  
+| bip_39_word_dash_10 | faint-agree-body-subject-dog-round-barrel-rice-you-sweet |  
+| bip_39_word_dash_11 | faint-agree-body-subject-dog-round-barrel-rice-you-sweet-throw |  
+| bip_39_word_dash_12 | faint-agree-body-subject-dog-round-barrel-rice-you-sweet-throw-accuse |  
+| bip_39_word_dash_2 | faint-agree |  
+| bip_39_word_dash_3 | faint-agree-body |  
+| bip_39_word_dash_4 | faint-agree-body-subject |  
+| bip_39_word_dash_5 | faint-agree-body-subject-dog |  
+| bip_39_word_dash_6 | faint-agree-body-subject-dog-round |  
+| bip_39_word_dash_7 | faint-agree-body-subject-dog-round-barrel |  
+| bip_39_word_dash_8 | faint-agree-body-subject-dog-round-barrel-rice |  
+| bip_39_word_dash_9 | faint-agree-body-subject-dog-round-barrel-rice-you |  
 | bip_39_word_new_br_1 | faint |  
 | bip_39_word_new_br_10 | faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice<br>you<br>sweet |  
 | bip_39_word_new_br_11 | faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice<br>you<br>sweet<br>throw |  
@@ -147,6 +159,18 @@ you |
 | bip_39_word_space_7 | faint agree body subject dog round barrel |  
 | bip_39_word_space_8 | faint agree body subject dog round barrel rice |  
 | bip_39_word_space_9 | faint agree body subject dog round barrel rice you |  
+| bip_39_word_underscore_1 | faint |  
+| bip_39_word_underscore_10 | faint_agree_body_subject_dog_round_barrel_rice_you_sweet |  
+| bip_39_word_underscore_11 | faint_agree_body_subject_dog_round_barrel_rice_you_sweet_throw |  
+| bip_39_word_underscore_12 | faint_agree_body_subject_dog_round_barrel_rice_you_sweet_throw_accuse |  
+| bip_39_word_underscore_2 | faint_agree |  
+| bip_39_word_underscore_3 | faint_agree_body |  
+| bip_39_word_underscore_4 | faint_agree_body_subject |  
+| bip_39_word_underscore_5 | faint_agree_body_subject_dog |  
+| bip_39_word_underscore_6 | faint_agree_body_subject_dog_round |  
+| bip_39_word_underscore_7 | faint_agree_body_subject_dog_round_barrel |  
+| bip_39_word_underscore_8 | faint_agree_body_subject_dog_round_barrel_rice |  
+| bip_39_word_underscore_9 | faint_agree_body_subject_dog_round_barrel_rice_you |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

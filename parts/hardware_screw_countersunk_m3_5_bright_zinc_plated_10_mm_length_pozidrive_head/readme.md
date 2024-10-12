@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aisle |  
+| bip_39_word_dash_10 | aisle-slot-bullet-push-sketch-town-solid-pretty-public-turtle |  
+| bip_39_word_dash_11 | aisle-slot-bullet-push-sketch-town-solid-pretty-public-turtle-paper |  
+| bip_39_word_dash_12 | aisle-slot-bullet-push-sketch-town-solid-pretty-public-turtle-paper-act |  
+| bip_39_word_dash_2 | aisle-slot |  
+| bip_39_word_dash_3 | aisle-slot-bullet |  
+| bip_39_word_dash_4 | aisle-slot-bullet-push |  
+| bip_39_word_dash_5 | aisle-slot-bullet-push-sketch |  
+| bip_39_word_dash_6 | aisle-slot-bullet-push-sketch-town |  
+| bip_39_word_dash_7 | aisle-slot-bullet-push-sketch-town-solid |  
+| bip_39_word_dash_8 | aisle-slot-bullet-push-sketch-town-solid-pretty |  
+| bip_39_word_dash_9 | aisle-slot-bullet-push-sketch-town-solid-pretty-public |  
 | bip_39_word_new_br_1 | aisle |  
 | bip_39_word_new_br_10 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty<br>public<br>turtle |  
 | bip_39_word_new_br_11 | aisle<br>slot<br>bullet<br>push<br>sketch<br>town<br>solid<br>pretty<br>public<br>turtle<br>paper |  
@@ -147,6 +159,18 @@ public |
 | bip_39_word_space_7 | aisle slot bullet push sketch town solid |  
 | bip_39_word_space_8 | aisle slot bullet push sketch town solid pretty |  
 | bip_39_word_space_9 | aisle slot bullet push sketch town solid pretty public |  
+| bip_39_word_underscore_1 | aisle |  
+| bip_39_word_underscore_10 | aisle_slot_bullet_push_sketch_town_solid_pretty_public_turtle |  
+| bip_39_word_underscore_11 | aisle_slot_bullet_push_sketch_town_solid_pretty_public_turtle_paper |  
+| bip_39_word_underscore_12 | aisle_slot_bullet_push_sketch_town_solid_pretty_public_turtle_paper_act |  
+| bip_39_word_underscore_2 | aisle_slot |  
+| bip_39_word_underscore_3 | aisle_slot_bullet |  
+| bip_39_word_underscore_4 | aisle_slot_bullet_push |  
+| bip_39_word_underscore_5 | aisle_slot_bullet_push_sketch |  
+| bip_39_word_underscore_6 | aisle_slot_bullet_push_sketch_town |  
+| bip_39_word_underscore_7 | aisle_slot_bullet_push_sketch_town_solid |  
+| bip_39_word_underscore_8 | aisle_slot_bullet_push_sketch_town_solid_pretty |  
+| bip_39_word_underscore_9 | aisle_slot_bullet_push_sketch_town_solid_pretty_public |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: junk
+bip_39_word_dash_10: junk-about-shadow-fee-section-pulp-blossom-glance-rebuild-wealth
+bip_39_word_dash_11: junk-about-shadow-fee-section-pulp-blossom-glance-rebuild-wealth-stand
+bip_39_word_dash_12: junk-about-shadow-fee-section-pulp-blossom-glance-rebuild-wealth-stand-attract
+bip_39_word_dash_2: junk-about
+bip_39_word_dash_3: junk-about-shadow
+bip_39_word_dash_4: junk-about-shadow-fee
+bip_39_word_dash_5: junk-about-shadow-fee-section
+bip_39_word_dash_6: junk-about-shadow-fee-section-pulp
+bip_39_word_dash_7: junk-about-shadow-fee-section-pulp-blossom
+bip_39_word_dash_8: junk-about-shadow-fee-section-pulp-blossom-glance
+bip_39_word_dash_9: junk-about-shadow-fee-section-pulp-blossom-glance-rebuild
 bip_39_word_new_br_1: junk
 bip_39_word_new_br_10: junk<br>about<br>shadow<br>fee<br>section<br>pulp<br>blossom<br>glance<br>rebuild<br>wealth
 bip_39_word_new_br_11: junk<br>about<br>shadow<br>fee<br>section<br>pulp<br>blossom<br>glance<br>rebuild<br>wealth<br>stand
@@ -193,6 +205,18 @@ bip_39_word_space_6: junk about shadow fee section pulp
 bip_39_word_space_7: junk about shadow fee section pulp blossom
 bip_39_word_space_8: junk about shadow fee section pulp blossom glance
 bip_39_word_space_9: junk about shadow fee section pulp blossom glance rebuild
+bip_39_word_underscore_1: junk
+bip_39_word_underscore_10: junk_about_shadow_fee_section_pulp_blossom_glance_rebuild_wealth
+bip_39_word_underscore_11: junk_about_shadow_fee_section_pulp_blossom_glance_rebuild_wealth_stand
+bip_39_word_underscore_12: junk_about_shadow_fee_section_pulp_blossom_glance_rebuild_wealth_stand_attract
+bip_39_word_underscore_2: junk_about
+bip_39_word_underscore_3: junk_about_shadow
+bip_39_word_underscore_4: junk_about_shadow_fee
+bip_39_word_underscore_5: junk_about_shadow_fee_section
+bip_39_word_underscore_6: junk_about_shadow_fee_section_pulp
+bip_39_word_underscore_7: junk_about_shadow_fee_section_pulp_blossom
+bip_39_word_underscore_8: junk_about_shadow_fee_section_pulp_blossom_glance
+bip_39_word_underscore_9: junk_about_shadow_fee_section_pulp_blossom_glance_rebuild
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | that |  
+| bip_39_word_dash_10 | that-pave-diamond-budget-add-coach-silk-myself-clay-mammal |  
+| bip_39_word_dash_11 | that-pave-diamond-budget-add-coach-silk-myself-clay-mammal-actual |  
+| bip_39_word_dash_12 | that-pave-diamond-budget-add-coach-silk-myself-clay-mammal-actual-also |  
+| bip_39_word_dash_2 | that-pave |  
+| bip_39_word_dash_3 | that-pave-diamond |  
+| bip_39_word_dash_4 | that-pave-diamond-budget |  
+| bip_39_word_dash_5 | that-pave-diamond-budget-add |  
+| bip_39_word_dash_6 | that-pave-diamond-budget-add-coach |  
+| bip_39_word_dash_7 | that-pave-diamond-budget-add-coach-silk |  
+| bip_39_word_dash_8 | that-pave-diamond-budget-add-coach-silk-myself |  
+| bip_39_word_dash_9 | that-pave-diamond-budget-add-coach-silk-myself-clay |  
 | bip_39_word_new_br_1 | that |  
 | bip_39_word_new_br_10 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal |  
 | bip_39_word_new_br_11 | that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal<br>actual |  
@@ -147,6 +159,18 @@ clay |
 | bip_39_word_space_7 | that pave diamond budget add coach silk |  
 | bip_39_word_space_8 | that pave diamond budget add coach silk myself |  
 | bip_39_word_space_9 | that pave diamond budget add coach silk myself clay |  
+| bip_39_word_underscore_1 | that |  
+| bip_39_word_underscore_10 | that_pave_diamond_budget_add_coach_silk_myself_clay_mammal |  
+| bip_39_word_underscore_11 | that_pave_diamond_budget_add_coach_silk_myself_clay_mammal_actual |  
+| bip_39_word_underscore_12 | that_pave_diamond_budget_add_coach_silk_myself_clay_mammal_actual_also |  
+| bip_39_word_underscore_2 | that_pave |  
+| bip_39_word_underscore_3 | that_pave_diamond |  
+| bip_39_word_underscore_4 | that_pave_diamond_budget |  
+| bip_39_word_underscore_5 | that_pave_diamond_budget_add |  
+| bip_39_word_underscore_6 | that_pave_diamond_budget_add_coach |  
+| bip_39_word_underscore_7 | that_pave_diamond_budget_add_coach_silk |  
+| bip_39_word_underscore_8 | that_pave_diamond_budget_add_coach_silk_myself |  
+| bip_39_word_underscore_9 | that_pave_diamond_budget_add_coach_silk_myself_clay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: soldier
+bip_39_word_dash_10: soldier-draw-order-inform-carry-color-sun-script-embody-law
+bip_39_word_dash_11: soldier-draw-order-inform-carry-color-sun-script-embody-law-shove
+bip_39_word_dash_12: soldier-draw-order-inform-carry-color-sun-script-embody-law-shove-across
+bip_39_word_dash_2: soldier-draw
+bip_39_word_dash_3: soldier-draw-order
+bip_39_word_dash_4: soldier-draw-order-inform
+bip_39_word_dash_5: soldier-draw-order-inform-carry
+bip_39_word_dash_6: soldier-draw-order-inform-carry-color
+bip_39_word_dash_7: soldier-draw-order-inform-carry-color-sun
+bip_39_word_dash_8: soldier-draw-order-inform-carry-color-sun-script
+bip_39_word_dash_9: soldier-draw-order-inform-carry-color-sun-script-embody
 bip_39_word_new_br_1: soldier
 bip_39_word_new_br_10: soldier<br>draw<br>order<br>inform<br>carry<br>color<br>sun<br>script<br>embody<br>law
 bip_39_word_new_br_11: soldier<br>draw<br>order<br>inform<br>carry<br>color<br>sun<br>script<br>embody<br>law<br>shove
@@ -193,6 +205,18 @@ bip_39_word_space_6: soldier draw order inform carry color
 bip_39_word_space_7: soldier draw order inform carry color sun
 bip_39_word_space_8: soldier draw order inform carry color sun script
 bip_39_word_space_9: soldier draw order inform carry color sun script embody
+bip_39_word_underscore_1: soldier
+bip_39_word_underscore_10: soldier_draw_order_inform_carry_color_sun_script_embody_law
+bip_39_word_underscore_11: soldier_draw_order_inform_carry_color_sun_script_embody_law_shove
+bip_39_word_underscore_12: soldier_draw_order_inform_carry_color_sun_script_embody_law_shove_across
+bip_39_word_underscore_2: soldier_draw
+bip_39_word_underscore_3: soldier_draw_order
+bip_39_word_underscore_4: soldier_draw_order_inform
+bip_39_word_underscore_5: soldier_draw_order_inform_carry
+bip_39_word_underscore_6: soldier_draw_order_inform_carry_color
+bip_39_word_underscore_7: soldier_draw_order_inform_carry_color_sun
+bip_39_word_underscore_8: soldier_draw_order_inform_carry_color_sun_script
+bip_39_word_underscore_9: soldier_draw_order_inform_carry_color_sun_script_embody
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

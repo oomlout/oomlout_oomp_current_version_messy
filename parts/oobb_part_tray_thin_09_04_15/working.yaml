@@ -1,3 +1,15 @@
+bip_39_word_dash_1: impulse
+bip_39_word_dash_10: impulse-eye-dream-shuffle-hurry-illness-comic-school-walk-learn
+bip_39_word_dash_11: impulse-eye-dream-shuffle-hurry-illness-comic-school-walk-learn-match
+bip_39_word_dash_12: impulse-eye-dream-shuffle-hurry-illness-comic-school-walk-learn-match-apology
+bip_39_word_dash_2: impulse-eye
+bip_39_word_dash_3: impulse-eye-dream
+bip_39_word_dash_4: impulse-eye-dream-shuffle
+bip_39_word_dash_5: impulse-eye-dream-shuffle-hurry
+bip_39_word_dash_6: impulse-eye-dream-shuffle-hurry-illness
+bip_39_word_dash_7: impulse-eye-dream-shuffle-hurry-illness-comic
+bip_39_word_dash_8: impulse-eye-dream-shuffle-hurry-illness-comic-school
+bip_39_word_dash_9: impulse-eye-dream-shuffle-hurry-illness-comic-school-walk
 bip_39_word_new_br_1: impulse
 bip_39_word_new_br_10: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school<br>walk<br>learn
 bip_39_word_new_br_11: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school<br>walk<br>learn<br>match
@@ -193,6 +205,18 @@ bip_39_word_space_6: impulse eye dream shuffle hurry illness
 bip_39_word_space_7: impulse eye dream shuffle hurry illness comic
 bip_39_word_space_8: impulse eye dream shuffle hurry illness comic school
 bip_39_word_space_9: impulse eye dream shuffle hurry illness comic school walk
+bip_39_word_underscore_1: impulse
+bip_39_word_underscore_10: impulse_eye_dream_shuffle_hurry_illness_comic_school_walk_learn
+bip_39_word_underscore_11: impulse_eye_dream_shuffle_hurry_illness_comic_school_walk_learn_match
+bip_39_word_underscore_12: impulse_eye_dream_shuffle_hurry_illness_comic_school_walk_learn_match_apology
+bip_39_word_underscore_2: impulse_eye
+bip_39_word_underscore_3: impulse_eye_dream
+bip_39_word_underscore_4: impulse_eye_dream_shuffle
+bip_39_word_underscore_5: impulse_eye_dream_shuffle_hurry
+bip_39_word_underscore_6: impulse_eye_dream_shuffle_hurry_illness
+bip_39_word_underscore_7: impulse_eye_dream_shuffle_hurry_illness_comic
+bip_39_word_underscore_8: impulse_eye_dream_shuffle_hurry_illness_comic_school
+bip_39_word_underscore_9: impulse_eye_dream_shuffle_hurry_illness_comic_school_walk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

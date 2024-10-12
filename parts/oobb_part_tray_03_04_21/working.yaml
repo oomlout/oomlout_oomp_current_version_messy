@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fold
+bip_39_word_dash_10: fold-flower-disorder-artist-idea-settle-matrix-combine-twin-mistake
+bip_39_word_dash_11: fold-flower-disorder-artist-idea-settle-matrix-combine-twin-mistake-illegal
+bip_39_word_dash_12: fold-flower-disorder-artist-idea-settle-matrix-combine-twin-mistake-illegal-amount
+bip_39_word_dash_2: fold-flower
+bip_39_word_dash_3: fold-flower-disorder
+bip_39_word_dash_4: fold-flower-disorder-artist
+bip_39_word_dash_5: fold-flower-disorder-artist-idea
+bip_39_word_dash_6: fold-flower-disorder-artist-idea-settle
+bip_39_word_dash_7: fold-flower-disorder-artist-idea-settle-matrix
+bip_39_word_dash_8: fold-flower-disorder-artist-idea-settle-matrix-combine
+bip_39_word_dash_9: fold-flower-disorder-artist-idea-settle-matrix-combine-twin
 bip_39_word_new_br_1: fold
 bip_39_word_new_br_10: fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine<br>twin<br>mistake
 bip_39_word_new_br_11: fold<br>flower<br>disorder<br>artist<br>idea<br>settle<br>matrix<br>combine<br>twin<br>mistake<br>illegal
@@ -194,6 +206,18 @@ bip_39_word_space_6: fold flower disorder artist idea settle
 bip_39_word_space_7: fold flower disorder artist idea settle matrix
 bip_39_word_space_8: fold flower disorder artist idea settle matrix combine
 bip_39_word_space_9: fold flower disorder artist idea settle matrix combine twin
+bip_39_word_underscore_1: fold
+bip_39_word_underscore_10: fold_flower_disorder_artist_idea_settle_matrix_combine_twin_mistake
+bip_39_word_underscore_11: fold_flower_disorder_artist_idea_settle_matrix_combine_twin_mistake_illegal
+bip_39_word_underscore_12: fold_flower_disorder_artist_idea_settle_matrix_combine_twin_mistake_illegal_amount
+bip_39_word_underscore_2: fold_flower
+bip_39_word_underscore_3: fold_flower_disorder
+bip_39_word_underscore_4: fold_flower_disorder_artist
+bip_39_word_underscore_5: fold_flower_disorder_artist_idea
+bip_39_word_underscore_6: fold_flower_disorder_artist_idea_settle
+bip_39_word_underscore_7: fold_flower_disorder_artist_idea_settle_matrix
+bip_39_word_underscore_8: fold_flower_disorder_artist_idea_settle_matrix_combine
+bip_39_word_underscore_9: fold_flower_disorder_artist_idea_settle_matrix_combine_twin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

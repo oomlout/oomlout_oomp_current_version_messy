@@ -1,3 +1,15 @@
+bip_39_word_dash_1: burst
+bip_39_word_dash_10: burst-divorce-busy-exhaust-gas-zone-snap-fantasy-scatter-similar
+bip_39_word_dash_11: burst-divorce-busy-exhaust-gas-zone-snap-fantasy-scatter-similar-blue
+bip_39_word_dash_12: burst-divorce-busy-exhaust-gas-zone-snap-fantasy-scatter-similar-blue-august
+bip_39_word_dash_2: burst-divorce
+bip_39_word_dash_3: burst-divorce-busy
+bip_39_word_dash_4: burst-divorce-busy-exhaust
+bip_39_word_dash_5: burst-divorce-busy-exhaust-gas
+bip_39_word_dash_6: burst-divorce-busy-exhaust-gas-zone
+bip_39_word_dash_7: burst-divorce-busy-exhaust-gas-zone-snap
+bip_39_word_dash_8: burst-divorce-busy-exhaust-gas-zone-snap-fantasy
+bip_39_word_dash_9: burst-divorce-busy-exhaust-gas-zone-snap-fantasy-scatter
 bip_39_word_new_br_1: burst
 bip_39_word_new_br_10: burst<br>divorce<br>busy<br>exhaust<br>gas<br>zone<br>snap<br>fantasy<br>scatter<br>similar
 bip_39_word_new_br_11: burst<br>divorce<br>busy<br>exhaust<br>gas<br>zone<br>snap<br>fantasy<br>scatter<br>similar<br>blue
@@ -193,6 +205,18 @@ bip_39_word_space_6: burst divorce busy exhaust gas zone
 bip_39_word_space_7: burst divorce busy exhaust gas zone snap
 bip_39_word_space_8: burst divorce busy exhaust gas zone snap fantasy
 bip_39_word_space_9: burst divorce busy exhaust gas zone snap fantasy scatter
+bip_39_word_underscore_1: burst
+bip_39_word_underscore_10: burst_divorce_busy_exhaust_gas_zone_snap_fantasy_scatter_similar
+bip_39_word_underscore_11: burst_divorce_busy_exhaust_gas_zone_snap_fantasy_scatter_similar_blue
+bip_39_word_underscore_12: burst_divorce_busy_exhaust_gas_zone_snap_fantasy_scatter_similar_blue_august
+bip_39_word_underscore_2: burst_divorce
+bip_39_word_underscore_3: burst_divorce_busy
+bip_39_word_underscore_4: burst_divorce_busy_exhaust
+bip_39_word_underscore_5: burst_divorce_busy_exhaust_gas
+bip_39_word_underscore_6: burst_divorce_busy_exhaust_gas_zone
+bip_39_word_underscore_7: burst_divorce_busy_exhaust_gas_zone_snap
+bip_39_word_underscore_8: burst_divorce_busy_exhaust_gas_zone_snap_fantasy
+bip_39_word_underscore_9: burst_divorce_busy_exhaust_gas_zone_snap_fantasy_scatter
 classification: food
 classification_capital: Food
 classification_first_letter: f

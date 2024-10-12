@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pole |  
+| bip_39_word_dash_10 | pole-purpose-cycle-initial-humor-success-define-harsh-call-either |  
+| bip_39_word_dash_11 | pole-purpose-cycle-initial-humor-success-define-harsh-call-either-merry |  
+| bip_39_word_dash_12 | pole-purpose-cycle-initial-humor-success-define-harsh-call-either-merry-action |  
+| bip_39_word_dash_2 | pole-purpose |  
+| bip_39_word_dash_3 | pole-purpose-cycle |  
+| bip_39_word_dash_4 | pole-purpose-cycle-initial |  
+| bip_39_word_dash_5 | pole-purpose-cycle-initial-humor |  
+| bip_39_word_dash_6 | pole-purpose-cycle-initial-humor-success |  
+| bip_39_word_dash_7 | pole-purpose-cycle-initial-humor-success-define |  
+| bip_39_word_dash_8 | pole-purpose-cycle-initial-humor-success-define-harsh |  
+| bip_39_word_dash_9 | pole-purpose-cycle-initial-humor-success-define-harsh-call |  
 | bip_39_word_new_br_1 | pole |  
 | bip_39_word_new_br_10 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh<br>call<br>either |  
 | bip_39_word_new_br_11 | pole<br>purpose<br>cycle<br>initial<br>humor<br>success<br>define<br>harsh<br>call<br>either<br>merry |  
@@ -147,6 +159,18 @@ call |
 | bip_39_word_space_7 | pole purpose cycle initial humor success define |  
 | bip_39_word_space_8 | pole purpose cycle initial humor success define harsh |  
 | bip_39_word_space_9 | pole purpose cycle initial humor success define harsh call |  
+| bip_39_word_underscore_1 | pole |  
+| bip_39_word_underscore_10 | pole_purpose_cycle_initial_humor_success_define_harsh_call_either |  
+| bip_39_word_underscore_11 | pole_purpose_cycle_initial_humor_success_define_harsh_call_either_merry |  
+| bip_39_word_underscore_12 | pole_purpose_cycle_initial_humor_success_define_harsh_call_either_merry_action |  
+| bip_39_word_underscore_2 | pole_purpose |  
+| bip_39_word_underscore_3 | pole_purpose_cycle |  
+| bip_39_word_underscore_4 | pole_purpose_cycle_initial |  
+| bip_39_word_underscore_5 | pole_purpose_cycle_initial_humor |  
+| bip_39_word_underscore_6 | pole_purpose_cycle_initial_humor_success |  
+| bip_39_word_underscore_7 | pole_purpose_cycle_initial_humor_success_define |  
+| bip_39_word_underscore_8 | pole_purpose_cycle_initial_humor_success_define_harsh |  
+| bip_39_word_underscore_9 | pole_purpose_cycle_initial_humor_success_define_harsh_call |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

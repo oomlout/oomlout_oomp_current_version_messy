@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | comic |  
+| bip_39_word_dash_10 | comic-crime-series-train-vibrant-taxi-spin-pond-obey-kiwi |  
+| bip_39_word_dash_11 | comic-crime-series-train-vibrant-taxi-spin-pond-obey-kiwi-end |  
+| bip_39_word_dash_12 | comic-crime-series-train-vibrant-taxi-spin-pond-obey-kiwi-end-any |  
+| bip_39_word_dash_2 | comic-crime |  
+| bip_39_word_dash_3 | comic-crime-series |  
+| bip_39_word_dash_4 | comic-crime-series-train |  
+| bip_39_word_dash_5 | comic-crime-series-train-vibrant |  
+| bip_39_word_dash_6 | comic-crime-series-train-vibrant-taxi |  
+| bip_39_word_dash_7 | comic-crime-series-train-vibrant-taxi-spin |  
+| bip_39_word_dash_8 | comic-crime-series-train-vibrant-taxi-spin-pond |  
+| bip_39_word_dash_9 | comic-crime-series-train-vibrant-taxi-spin-pond-obey |  
 | bip_39_word_new_br_1 | comic |  
 | bip_39_word_new_br_10 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi |  
 | bip_39_word_new_br_11 | comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi<br>end |  
@@ -147,6 +159,18 @@ obey |
 | bip_39_word_space_7 | comic crime series train vibrant taxi spin |  
 | bip_39_word_space_8 | comic crime series train vibrant taxi spin pond |  
 | bip_39_word_space_9 | comic crime series train vibrant taxi spin pond obey |  
+| bip_39_word_underscore_1 | comic |  
+| bip_39_word_underscore_10 | comic_crime_series_train_vibrant_taxi_spin_pond_obey_kiwi |  
+| bip_39_word_underscore_11 | comic_crime_series_train_vibrant_taxi_spin_pond_obey_kiwi_end |  
+| bip_39_word_underscore_12 | comic_crime_series_train_vibrant_taxi_spin_pond_obey_kiwi_end_any |  
+| bip_39_word_underscore_2 | comic_crime |  
+| bip_39_word_underscore_3 | comic_crime_series |  
+| bip_39_word_underscore_4 | comic_crime_series_train |  
+| bip_39_word_underscore_5 | comic_crime_series_train_vibrant |  
+| bip_39_word_underscore_6 | comic_crime_series_train_vibrant_taxi |  
+| bip_39_word_underscore_7 | comic_crime_series_train_vibrant_taxi_spin |  
+| bip_39_word_underscore_8 | comic_crime_series_train_vibrant_taxi_spin_pond |  
+| bip_39_word_underscore_9 | comic_crime_series_train_vibrant_taxi_spin_pond_obey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

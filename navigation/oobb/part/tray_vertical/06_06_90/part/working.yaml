@@ -1,3 +1,15 @@
+bip_39_word_dash_1: credit
+bip_39_word_dash_10: credit-nation-ostrich-hole-remind-under-switch-main-cupboard-oak
+bip_39_word_dash_11: credit-nation-ostrich-hole-remind-under-switch-main-cupboard-oak-estate
+bip_39_word_dash_12: credit-nation-ostrich-hole-remind-under-switch-main-cupboard-oak-estate-asset
+bip_39_word_dash_2: credit-nation
+bip_39_word_dash_3: credit-nation-ostrich
+bip_39_word_dash_4: credit-nation-ostrich-hole
+bip_39_word_dash_5: credit-nation-ostrich-hole-remind
+bip_39_word_dash_6: credit-nation-ostrich-hole-remind-under
+bip_39_word_dash_7: credit-nation-ostrich-hole-remind-under-switch
+bip_39_word_dash_8: credit-nation-ostrich-hole-remind-under-switch-main
+bip_39_word_dash_9: credit-nation-ostrich-hole-remind-under-switch-main-cupboard
 bip_39_word_new_br_1: credit
 bip_39_word_new_br_10: credit<br>nation<br>ostrich<br>hole<br>remind<br>under<br>switch<br>main<br>cupboard<br>oak
 bip_39_word_new_br_11: credit<br>nation<br>ostrich<br>hole<br>remind<br>under<br>switch<br>main<br>cupboard<br>oak<br>estate
@@ -194,6 +206,18 @@ bip_39_word_space_6: credit nation ostrich hole remind under
 bip_39_word_space_7: credit nation ostrich hole remind under switch
 bip_39_word_space_8: credit nation ostrich hole remind under switch main
 bip_39_word_space_9: credit nation ostrich hole remind under switch main cupboard
+bip_39_word_underscore_1: credit
+bip_39_word_underscore_10: credit_nation_ostrich_hole_remind_under_switch_main_cupboard_oak
+bip_39_word_underscore_11: credit_nation_ostrich_hole_remind_under_switch_main_cupboard_oak_estate
+bip_39_word_underscore_12: credit_nation_ostrich_hole_remind_under_switch_main_cupboard_oak_estate_asset
+bip_39_word_underscore_2: credit_nation
+bip_39_word_underscore_3: credit_nation_ostrich
+bip_39_word_underscore_4: credit_nation_ostrich_hole
+bip_39_word_underscore_5: credit_nation_ostrich_hole_remind
+bip_39_word_underscore_6: credit_nation_ostrich_hole_remind_under
+bip_39_word_underscore_7: credit_nation_ostrich_hole_remind_under_switch
+bip_39_word_underscore_8: credit_nation_ostrich_hole_remind_under_switch_main
+bip_39_word_underscore_9: credit_nation_ostrich_hole_remind_under_switch_main_cupboard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

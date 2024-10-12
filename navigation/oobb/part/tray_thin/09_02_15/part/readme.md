@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sustain |  
+| bip_39_word_dash_10 | sustain-push-special-soon-arrow-neglect-cave-knife-captain-tragic |  
+| bip_39_word_dash_11 | sustain-push-special-soon-arrow-neglect-cave-knife-captain-tragic-lab |  
+| bip_39_word_dash_12 | sustain-push-special-soon-arrow-neglect-cave-knife-captain-tragic-lab-actor |  
+| bip_39_word_dash_2 | sustain-push |  
+| bip_39_word_dash_3 | sustain-push-special |  
+| bip_39_word_dash_4 | sustain-push-special-soon |  
+| bip_39_word_dash_5 | sustain-push-special-soon-arrow |  
+| bip_39_word_dash_6 | sustain-push-special-soon-arrow-neglect |  
+| bip_39_word_dash_7 | sustain-push-special-soon-arrow-neglect-cave |  
+| bip_39_word_dash_8 | sustain-push-special-soon-arrow-neglect-cave-knife |  
+| bip_39_word_dash_9 | sustain-push-special-soon-arrow-neglect-cave-knife-captain |  
 | bip_39_word_new_br_1 | sustain |  
 | bip_39_word_new_br_10 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife<br>captain<br>tragic |  
 | bip_39_word_new_br_11 | sustain<br>push<br>special<br>soon<br>arrow<br>neglect<br>cave<br>knife<br>captain<br>tragic<br>lab |  
@@ -147,6 +159,18 @@ captain |
 | bip_39_word_space_7 | sustain push special soon arrow neglect cave |  
 | bip_39_word_space_8 | sustain push special soon arrow neglect cave knife |  
 | bip_39_word_space_9 | sustain push special soon arrow neglect cave knife captain |  
+| bip_39_word_underscore_1 | sustain |  
+| bip_39_word_underscore_10 | sustain_push_special_soon_arrow_neglect_cave_knife_captain_tragic |  
+| bip_39_word_underscore_11 | sustain_push_special_soon_arrow_neglect_cave_knife_captain_tragic_lab |  
+| bip_39_word_underscore_12 | sustain_push_special_soon_arrow_neglect_cave_knife_captain_tragic_lab_actor |  
+| bip_39_word_underscore_2 | sustain_push |  
+| bip_39_word_underscore_3 | sustain_push_special |  
+| bip_39_word_underscore_4 | sustain_push_special_soon |  
+| bip_39_word_underscore_5 | sustain_push_special_soon_arrow |  
+| bip_39_word_underscore_6 | sustain_push_special_soon_arrow_neglect |  
+| bip_39_word_underscore_7 | sustain_push_special_soon_arrow_neglect_cave |  
+| bip_39_word_underscore_8 | sustain_push_special_soon_arrow_neglect_cave_knife |  
+| bip_39_word_underscore_9 | sustain_push_special_soon_arrow_neglect_cave_knife_captain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

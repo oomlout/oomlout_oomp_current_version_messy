@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | youth |  
+| bip_39_word_dash_10 | youth-demise-void-champion-model-upset-increase-surround-rival-share |  
+| bip_39_word_dash_11 | youth-demise-void-champion-model-upset-increase-surround-rival-share-pelican |  
+| bip_39_word_dash_12 | youth-demise-void-champion-model-upset-increase-surround-rival-share-pelican-attitude |  
+| bip_39_word_dash_2 | youth-demise |  
+| bip_39_word_dash_3 | youth-demise-void |  
+| bip_39_word_dash_4 | youth-demise-void-champion |  
+| bip_39_word_dash_5 | youth-demise-void-champion-model |  
+| bip_39_word_dash_6 | youth-demise-void-champion-model-upset |  
+| bip_39_word_dash_7 | youth-demise-void-champion-model-upset-increase |  
+| bip_39_word_dash_8 | youth-demise-void-champion-model-upset-increase-surround |  
+| bip_39_word_dash_9 | youth-demise-void-champion-model-upset-increase-surround-rival |  
 | bip_39_word_new_br_1 | youth |  
 | bip_39_word_new_br_10 | youth<br>demise<br>void<br>champion<br>model<br>upset<br>increase<br>surround<br>rival<br>share |  
 | bip_39_word_new_br_11 | youth<br>demise<br>void<br>champion<br>model<br>upset<br>increase<br>surround<br>rival<br>share<br>pelican |  
@@ -147,6 +159,18 @@ rival |
 | bip_39_word_space_7 | youth demise void champion model upset increase |  
 | bip_39_word_space_8 | youth demise void champion model upset increase surround |  
 | bip_39_word_space_9 | youth demise void champion model upset increase surround rival |  
+| bip_39_word_underscore_1 | youth |  
+| bip_39_word_underscore_10 | youth_demise_void_champion_model_upset_increase_surround_rival_share |  
+| bip_39_word_underscore_11 | youth_demise_void_champion_model_upset_increase_surround_rival_share_pelican |  
+| bip_39_word_underscore_12 | youth_demise_void_champion_model_upset_increase_surround_rival_share_pelican_attitude |  
+| bip_39_word_underscore_2 | youth_demise |  
+| bip_39_word_underscore_3 | youth_demise_void |  
+| bip_39_word_underscore_4 | youth_demise_void_champion |  
+| bip_39_word_underscore_5 | youth_demise_void_champion_model |  
+| bip_39_word_underscore_6 | youth_demise_void_champion_model_upset |  
+| bip_39_word_underscore_7 | youth_demise_void_champion_model_upset_increase |  
+| bip_39_word_underscore_8 | youth_demise_void_champion_model_upset_increase_surround |  
+| bip_39_word_underscore_9 | youth_demise_void_champion_model_upset_increase_surround_rival |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

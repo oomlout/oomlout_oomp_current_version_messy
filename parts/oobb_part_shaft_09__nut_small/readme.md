@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | foot |  
+| bip_39_word_dash_10 | foot-imitate-model-material-index-stand-pitch-piece-speak-task |  
+| bip_39_word_dash_11 | foot-imitate-model-material-index-stand-pitch-piece-speak-task-orchard |  
+| bip_39_word_dash_12 | foot-imitate-model-material-index-stand-pitch-piece-speak-task-orchard-abuse |  
+| bip_39_word_dash_2 | foot-imitate |  
+| bip_39_word_dash_3 | foot-imitate-model |  
+| bip_39_word_dash_4 | foot-imitate-model-material |  
+| bip_39_word_dash_5 | foot-imitate-model-material-index |  
+| bip_39_word_dash_6 | foot-imitate-model-material-index-stand |  
+| bip_39_word_dash_7 | foot-imitate-model-material-index-stand-pitch |  
+| bip_39_word_dash_8 | foot-imitate-model-material-index-stand-pitch-piece |  
+| bip_39_word_dash_9 | foot-imitate-model-material-index-stand-pitch-piece-speak |  
 | bip_39_word_new_br_1 | foot |  
 | bip_39_word_new_br_10 | foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece<br>speak<br>task |  
 | bip_39_word_new_br_11 | foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece<br>speak<br>task<br>orchard |  
@@ -147,6 +159,18 @@ speak |
 | bip_39_word_space_7 | foot imitate model material index stand pitch |  
 | bip_39_word_space_8 | foot imitate model material index stand pitch piece |  
 | bip_39_word_space_9 | foot imitate model material index stand pitch piece speak |  
+| bip_39_word_underscore_1 | foot |  
+| bip_39_word_underscore_10 | foot_imitate_model_material_index_stand_pitch_piece_speak_task |  
+| bip_39_word_underscore_11 | foot_imitate_model_material_index_stand_pitch_piece_speak_task_orchard |  
+| bip_39_word_underscore_12 | foot_imitate_model_material_index_stand_pitch_piece_speak_task_orchard_abuse |  
+| bip_39_word_underscore_2 | foot_imitate |  
+| bip_39_word_underscore_3 | foot_imitate_model |  
+| bip_39_word_underscore_4 | foot_imitate_model_material |  
+| bip_39_word_underscore_5 | foot_imitate_model_material_index |  
+| bip_39_word_underscore_6 | foot_imitate_model_material_index_stand |  
+| bip_39_word_underscore_7 | foot_imitate_model_material_index_stand_pitch |  
+| bip_39_word_underscore_8 | foot_imitate_model_material_index_stand_pitch_piece |  
+| bip_39_word_underscore_9 | foot_imitate_model_material_index_stand_pitch_piece_speak |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

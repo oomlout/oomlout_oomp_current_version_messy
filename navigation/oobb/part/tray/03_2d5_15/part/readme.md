@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | april |  
+| bip_39_word_dash_10 | april-ice-clerk-bus-talk-entire-food-detect-essence-airport |  
+| bip_39_word_dash_11 | april-ice-clerk-bus-talk-entire-food-detect-essence-airport-torch |  
+| bip_39_word_dash_12 | april-ice-clerk-bus-talk-entire-food-detect-essence-airport-torch-actor |  
+| bip_39_word_dash_2 | april-ice |  
+| bip_39_word_dash_3 | april-ice-clerk |  
+| bip_39_word_dash_4 | april-ice-clerk-bus |  
+| bip_39_word_dash_5 | april-ice-clerk-bus-talk |  
+| bip_39_word_dash_6 | april-ice-clerk-bus-talk-entire |  
+| bip_39_word_dash_7 | april-ice-clerk-bus-talk-entire-food |  
+| bip_39_word_dash_8 | april-ice-clerk-bus-talk-entire-food-detect |  
+| bip_39_word_dash_9 | april-ice-clerk-bus-talk-entire-food-detect-essence |  
 | bip_39_word_new_br_1 | april |  
 | bip_39_word_new_br_10 | april<br>ice<br>clerk<br>bus<br>talk<br>entire<br>food<br>detect<br>essence<br>airport |  
 | bip_39_word_new_br_11 | april<br>ice<br>clerk<br>bus<br>talk<br>entire<br>food<br>detect<br>essence<br>airport<br>torch |  
@@ -147,6 +159,18 @@ essence |
 | bip_39_word_space_7 | april ice clerk bus talk entire food |  
 | bip_39_word_space_8 | april ice clerk bus talk entire food detect |  
 | bip_39_word_space_9 | april ice clerk bus talk entire food detect essence |  
+| bip_39_word_underscore_1 | april |  
+| bip_39_word_underscore_10 | april_ice_clerk_bus_talk_entire_food_detect_essence_airport |  
+| bip_39_word_underscore_11 | april_ice_clerk_bus_talk_entire_food_detect_essence_airport_torch |  
+| bip_39_word_underscore_12 | april_ice_clerk_bus_talk_entire_food_detect_essence_airport_torch_actor |  
+| bip_39_word_underscore_2 | april_ice |  
+| bip_39_word_underscore_3 | april_ice_clerk |  
+| bip_39_word_underscore_4 | april_ice_clerk_bus |  
+| bip_39_word_underscore_5 | april_ice_clerk_bus_talk |  
+| bip_39_word_underscore_6 | april_ice_clerk_bus_talk_entire |  
+| bip_39_word_underscore_7 | april_ice_clerk_bus_talk_entire_food |  
+| bip_39_word_underscore_8 | april_ice_clerk_bus_talk_entire_food_detect |  
+| bip_39_word_underscore_9 | april_ice_clerk_bus_talk_entire_food_detect_essence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

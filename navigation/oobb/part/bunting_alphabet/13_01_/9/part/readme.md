@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | color |  
+| bip_39_word_dash_10 | color-grit-glow-exclude-equip-pony-steel-extend-tobacco-fashion |  
+| bip_39_word_dash_11 | color-grit-glow-exclude-equip-pony-steel-extend-tobacco-fashion-measure |  
+| bip_39_word_dash_12 | color-grit-glow-exclude-equip-pony-steel-extend-tobacco-fashion-measure-annual |  
+| bip_39_word_dash_2 | color-grit |  
+| bip_39_word_dash_3 | color-grit-glow |  
+| bip_39_word_dash_4 | color-grit-glow-exclude |  
+| bip_39_word_dash_5 | color-grit-glow-exclude-equip |  
+| bip_39_word_dash_6 | color-grit-glow-exclude-equip-pony |  
+| bip_39_word_dash_7 | color-grit-glow-exclude-equip-pony-steel |  
+| bip_39_word_dash_8 | color-grit-glow-exclude-equip-pony-steel-extend |  
+| bip_39_word_dash_9 | color-grit-glow-exclude-equip-pony-steel-extend-tobacco |  
 | bip_39_word_new_br_1 | color |  
 | bip_39_word_new_br_10 | color<br>grit<br>glow<br>exclude<br>equip<br>pony<br>steel<br>extend<br>tobacco<br>fashion |  
 | bip_39_word_new_br_11 | color<br>grit<br>glow<br>exclude<br>equip<br>pony<br>steel<br>extend<br>tobacco<br>fashion<br>measure |  
@@ -147,6 +159,18 @@ tobacco |
 | bip_39_word_space_7 | color grit glow exclude equip pony steel |  
 | bip_39_word_space_8 | color grit glow exclude equip pony steel extend |  
 | bip_39_word_space_9 | color grit glow exclude equip pony steel extend tobacco |  
+| bip_39_word_underscore_1 | color |  
+| bip_39_word_underscore_10 | color_grit_glow_exclude_equip_pony_steel_extend_tobacco_fashion |  
+| bip_39_word_underscore_11 | color_grit_glow_exclude_equip_pony_steel_extend_tobacco_fashion_measure |  
+| bip_39_word_underscore_12 | color_grit_glow_exclude_equip_pony_steel_extend_tobacco_fashion_measure_annual |  
+| bip_39_word_underscore_2 | color_grit |  
+| bip_39_word_underscore_3 | color_grit_glow |  
+| bip_39_word_underscore_4 | color_grit_glow_exclude |  
+| bip_39_word_underscore_5 | color_grit_glow_exclude_equip |  
+| bip_39_word_underscore_6 | color_grit_glow_exclude_equip_pony |  
+| bip_39_word_underscore_7 | color_grit_glow_exclude_equip_pony_steel |  
+| bip_39_word_underscore_8 | color_grit_glow_exclude_equip_pony_steel_extend |  
+| bip_39_word_underscore_9 | color_grit_glow_exclude_equip_pony_steel_extend_tobacco |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fat
+bip_39_word_dash_10: fat-hungry-metal-soldier-aunt-bike-prize-pizza-spy-cook
+bip_39_word_dash_11: fat-hungry-metal-soldier-aunt-bike-prize-pizza-spy-cook-actual
+bip_39_word_dash_12: fat-hungry-metal-soldier-aunt-bike-prize-pizza-spy-cook-actual-alcohol
+bip_39_word_dash_2: fat-hungry
+bip_39_word_dash_3: fat-hungry-metal
+bip_39_word_dash_4: fat-hungry-metal-soldier
+bip_39_word_dash_5: fat-hungry-metal-soldier-aunt
+bip_39_word_dash_6: fat-hungry-metal-soldier-aunt-bike
+bip_39_word_dash_7: fat-hungry-metal-soldier-aunt-bike-prize
+bip_39_word_dash_8: fat-hungry-metal-soldier-aunt-bike-prize-pizza
+bip_39_word_dash_9: fat-hungry-metal-soldier-aunt-bike-prize-pizza-spy
 bip_39_word_new_br_1: fat
 bip_39_word_new_br_10: fat<br>hungry<br>metal<br>soldier<br>aunt<br>bike<br>prize<br>pizza<br>spy<br>cook
 bip_39_word_new_br_11: fat<br>hungry<br>metal<br>soldier<br>aunt<br>bike<br>prize<br>pizza<br>spy<br>cook<br>actual
@@ -192,6 +204,18 @@ bip_39_word_space_6: fat hungry metal soldier aunt bike
 bip_39_word_space_7: fat hungry metal soldier aunt bike prize
 bip_39_word_space_8: fat hungry metal soldier aunt bike prize pizza
 bip_39_word_space_9: fat hungry metal soldier aunt bike prize pizza spy
+bip_39_word_underscore_1: fat
+bip_39_word_underscore_10: fat_hungry_metal_soldier_aunt_bike_prize_pizza_spy_cook
+bip_39_word_underscore_11: fat_hungry_metal_soldier_aunt_bike_prize_pizza_spy_cook_actual
+bip_39_word_underscore_12: fat_hungry_metal_soldier_aunt_bike_prize_pizza_spy_cook_actual_alcohol
+bip_39_word_underscore_2: fat_hungry
+bip_39_word_underscore_3: fat_hungry_metal
+bip_39_word_underscore_4: fat_hungry_metal_soldier
+bip_39_word_underscore_5: fat_hungry_metal_soldier_aunt
+bip_39_word_underscore_6: fat_hungry_metal_soldier_aunt_bike
+bip_39_word_underscore_7: fat_hungry_metal_soldier_aunt_bike_prize
+bip_39_word_underscore_8: fat_hungry_metal_soldier_aunt_bike_prize_pizza
+bip_39_word_underscore_9: fat_hungry_metal_soldier_aunt_bike_prize_pizza_spy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

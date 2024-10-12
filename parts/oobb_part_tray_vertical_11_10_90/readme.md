@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hub |  
+| bip_39_word_dash_10 | hub-flame-endless-text-crowd-purity-popular-fish-pottery-mammal |  
+| bip_39_word_dash_11 | hub-flame-endless-text-crowd-purity-popular-fish-pottery-mammal-keep |  
+| bip_39_word_dash_12 | hub-flame-endless-text-crowd-purity-popular-fish-pottery-mammal-keep-ankle |  
+| bip_39_word_dash_2 | hub-flame |  
+| bip_39_word_dash_3 | hub-flame-endless |  
+| bip_39_word_dash_4 | hub-flame-endless-text |  
+| bip_39_word_dash_5 | hub-flame-endless-text-crowd |  
+| bip_39_word_dash_6 | hub-flame-endless-text-crowd-purity |  
+| bip_39_word_dash_7 | hub-flame-endless-text-crowd-purity-popular |  
+| bip_39_word_dash_8 | hub-flame-endless-text-crowd-purity-popular-fish |  
+| bip_39_word_dash_9 | hub-flame-endless-text-crowd-purity-popular-fish-pottery |  
 | bip_39_word_new_br_1 | hub |  
 | bip_39_word_new_br_10 | hub<br>flame<br>endless<br>text<br>crowd<br>purity<br>popular<br>fish<br>pottery<br>mammal |  
 | bip_39_word_new_br_11 | hub<br>flame<br>endless<br>text<br>crowd<br>purity<br>popular<br>fish<br>pottery<br>mammal<br>keep |  
@@ -147,6 +159,18 @@ pottery |
 | bip_39_word_space_7 | hub flame endless text crowd purity popular |  
 | bip_39_word_space_8 | hub flame endless text crowd purity popular fish |  
 | bip_39_word_space_9 | hub flame endless text crowd purity popular fish pottery |  
+| bip_39_word_underscore_1 | hub |  
+| bip_39_word_underscore_10 | hub_flame_endless_text_crowd_purity_popular_fish_pottery_mammal |  
+| bip_39_word_underscore_11 | hub_flame_endless_text_crowd_purity_popular_fish_pottery_mammal_keep |  
+| bip_39_word_underscore_12 | hub_flame_endless_text_crowd_purity_popular_fish_pottery_mammal_keep_ankle |  
+| bip_39_word_underscore_2 | hub_flame |  
+| bip_39_word_underscore_3 | hub_flame_endless |  
+| bip_39_word_underscore_4 | hub_flame_endless_text |  
+| bip_39_word_underscore_5 | hub_flame_endless_text_crowd |  
+| bip_39_word_underscore_6 | hub_flame_endless_text_crowd_purity |  
+| bip_39_word_underscore_7 | hub_flame_endless_text_crowd_purity_popular |  
+| bip_39_word_underscore_8 | hub_flame_endless_text_crowd_purity_popular_fish |  
+| bip_39_word_underscore_9 | hub_flame_endless_text_crowd_purity_popular_fish_pottery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

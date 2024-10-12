@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | impose |  
+| bip_39_word_dash_10 | impose-romance-essence-plug-bright-cash-direct-fix-provide-swarm |  
+| bip_39_word_dash_11 | impose-romance-essence-plug-bright-cash-direct-fix-provide-swarm-deliver |  
+| bip_39_word_dash_12 | impose-romance-essence-plug-bright-cash-direct-fix-provide-swarm-deliver-antenna |  
+| bip_39_word_dash_2 | impose-romance |  
+| bip_39_word_dash_3 | impose-romance-essence |  
+| bip_39_word_dash_4 | impose-romance-essence-plug |  
+| bip_39_word_dash_5 | impose-romance-essence-plug-bright |  
+| bip_39_word_dash_6 | impose-romance-essence-plug-bright-cash |  
+| bip_39_word_dash_7 | impose-romance-essence-plug-bright-cash-direct |  
+| bip_39_word_dash_8 | impose-romance-essence-plug-bright-cash-direct-fix |  
+| bip_39_word_dash_9 | impose-romance-essence-plug-bright-cash-direct-fix-provide |  
 | bip_39_word_new_br_1 | impose |  
 | bip_39_word_new_br_10 | impose<br>romance<br>essence<br>plug<br>bright<br>cash<br>direct<br>fix<br>provide<br>swarm |  
 | bip_39_word_new_br_11 | impose<br>romance<br>essence<br>plug<br>bright<br>cash<br>direct<br>fix<br>provide<br>swarm<br>deliver |  
@@ -147,6 +159,18 @@ provide |
 | bip_39_word_space_7 | impose romance essence plug bright cash direct |  
 | bip_39_word_space_8 | impose romance essence plug bright cash direct fix |  
 | bip_39_word_space_9 | impose romance essence plug bright cash direct fix provide |  
+| bip_39_word_underscore_1 | impose |  
+| bip_39_word_underscore_10 | impose_romance_essence_plug_bright_cash_direct_fix_provide_swarm |  
+| bip_39_word_underscore_11 | impose_romance_essence_plug_bright_cash_direct_fix_provide_swarm_deliver |  
+| bip_39_word_underscore_12 | impose_romance_essence_plug_bright_cash_direct_fix_provide_swarm_deliver_antenna |  
+| bip_39_word_underscore_2 | impose_romance |  
+| bip_39_word_underscore_3 | impose_romance_essence |  
+| bip_39_word_underscore_4 | impose_romance_essence_plug |  
+| bip_39_word_underscore_5 | impose_romance_essence_plug_bright |  
+| bip_39_word_underscore_6 | impose_romance_essence_plug_bright_cash |  
+| bip_39_word_underscore_7 | impose_romance_essence_plug_bright_cash_direct |  
+| bip_39_word_underscore_8 | impose_romance_essence_plug_bright_cash_direct_fix |  
+| bip_39_word_underscore_9 | impose_romance_essence_plug_bright_cash_direct_fix_provide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

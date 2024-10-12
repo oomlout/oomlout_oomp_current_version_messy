@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | setup |  
+| bip_39_word_dash_10 | setup-gospel-middle-image-young-duty-eight-mushroom-task-meadow |  
+| bip_39_word_dash_11 | setup-gospel-middle-image-young-duty-eight-mushroom-task-meadow-true |  
+| bip_39_word_dash_12 | setup-gospel-middle-image-young-duty-eight-mushroom-task-meadow-true-arrest |  
+| bip_39_word_dash_2 | setup-gospel |  
+| bip_39_word_dash_3 | setup-gospel-middle |  
+| bip_39_word_dash_4 | setup-gospel-middle-image |  
+| bip_39_word_dash_5 | setup-gospel-middle-image-young |  
+| bip_39_word_dash_6 | setup-gospel-middle-image-young-duty |  
+| bip_39_word_dash_7 | setup-gospel-middle-image-young-duty-eight |  
+| bip_39_word_dash_8 | setup-gospel-middle-image-young-duty-eight-mushroom |  
+| bip_39_word_dash_9 | setup-gospel-middle-image-young-duty-eight-mushroom-task |  
 | bip_39_word_new_br_1 | setup |  
 | bip_39_word_new_br_10 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom<br>task<br>meadow |  
 | bip_39_word_new_br_11 | setup<br>gospel<br>middle<br>image<br>young<br>duty<br>eight<br>mushroom<br>task<br>meadow<br>true |  
@@ -147,6 +159,18 @@ task |
 | bip_39_word_space_7 | setup gospel middle image young duty eight |  
 | bip_39_word_space_8 | setup gospel middle image young duty eight mushroom |  
 | bip_39_word_space_9 | setup gospel middle image young duty eight mushroom task |  
+| bip_39_word_underscore_1 | setup |  
+| bip_39_word_underscore_10 | setup_gospel_middle_image_young_duty_eight_mushroom_task_meadow |  
+| bip_39_word_underscore_11 | setup_gospel_middle_image_young_duty_eight_mushroom_task_meadow_true |  
+| bip_39_word_underscore_12 | setup_gospel_middle_image_young_duty_eight_mushroom_task_meadow_true_arrest |  
+| bip_39_word_underscore_2 | setup_gospel |  
+| bip_39_word_underscore_3 | setup_gospel_middle |  
+| bip_39_word_underscore_4 | setup_gospel_middle_image |  
+| bip_39_word_underscore_5 | setup_gospel_middle_image_young |  
+| bip_39_word_underscore_6 | setup_gospel_middle_image_young_duty |  
+| bip_39_word_underscore_7 | setup_gospel_middle_image_young_duty_eight |  
+| bip_39_word_underscore_8 | setup_gospel_middle_image_young_duty_eight_mushroom |  
+| bip_39_word_underscore_9 | setup_gospel_middle_image_young_duty_eight_mushroom_task |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

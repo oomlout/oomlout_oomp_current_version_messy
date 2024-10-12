@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pluck |  
+| bip_39_word_dash_10 | pluck-better-hub-antique-find-arrive-kite-pigeon-tower-fault |  
+| bip_39_word_dash_11 | pluck-better-hub-antique-find-arrive-kite-pigeon-tower-fault-seven |  
+| bip_39_word_dash_12 | pluck-better-hub-antique-find-arrive-kite-pigeon-tower-fault-seven-advance |  
+| bip_39_word_dash_2 | pluck-better |  
+| bip_39_word_dash_3 | pluck-better-hub |  
+| bip_39_word_dash_4 | pluck-better-hub-antique |  
+| bip_39_word_dash_5 | pluck-better-hub-antique-find |  
+| bip_39_word_dash_6 | pluck-better-hub-antique-find-arrive |  
+| bip_39_word_dash_7 | pluck-better-hub-antique-find-arrive-kite |  
+| bip_39_word_dash_8 | pluck-better-hub-antique-find-arrive-kite-pigeon |  
+| bip_39_word_dash_9 | pluck-better-hub-antique-find-arrive-kite-pigeon-tower |  
 | bip_39_word_new_br_1 | pluck |  
 | bip_39_word_new_br_10 | pluck<br>better<br>hub<br>antique<br>find<br>arrive<br>kite<br>pigeon<br>tower<br>fault |  
 | bip_39_word_new_br_11 | pluck<br>better<br>hub<br>antique<br>find<br>arrive<br>kite<br>pigeon<br>tower<br>fault<br>seven |  
@@ -147,6 +159,18 @@ tower |
 | bip_39_word_space_7 | pluck better hub antique find arrive kite |  
 | bip_39_word_space_8 | pluck better hub antique find arrive kite pigeon |  
 | bip_39_word_space_9 | pluck better hub antique find arrive kite pigeon tower |  
+| bip_39_word_underscore_1 | pluck |  
+| bip_39_word_underscore_10 | pluck_better_hub_antique_find_arrive_kite_pigeon_tower_fault |  
+| bip_39_word_underscore_11 | pluck_better_hub_antique_find_arrive_kite_pigeon_tower_fault_seven |  
+| bip_39_word_underscore_12 | pluck_better_hub_antique_find_arrive_kite_pigeon_tower_fault_seven_advance |  
+| bip_39_word_underscore_2 | pluck_better |  
+| bip_39_word_underscore_3 | pluck_better_hub |  
+| bip_39_word_underscore_4 | pluck_better_hub_antique |  
+| bip_39_word_underscore_5 | pluck_better_hub_antique_find |  
+| bip_39_word_underscore_6 | pluck_better_hub_antique_find_arrive |  
+| bip_39_word_underscore_7 | pluck_better_hub_antique_find_arrive_kite |  
+| bip_39_word_underscore_8 | pluck_better_hub_antique_find_arrive_kite_pigeon |  
+| bip_39_word_underscore_9 | pluck_better_hub_antique_find_arrive_kite_pigeon_tower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

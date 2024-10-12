@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | layer |  
+| bip_39_word_dash_10 | layer-target-chimney-need-remember-normal-gather-amused-soda-chuckle |  
+| bip_39_word_dash_11 | layer-target-chimney-need-remember-normal-gather-amused-soda-chuckle-night |  
+| bip_39_word_dash_12 | layer-target-chimney-need-remember-normal-gather-amused-soda-chuckle-night-aunt |  
+| bip_39_word_dash_2 | layer-target |  
+| bip_39_word_dash_3 | layer-target-chimney |  
+| bip_39_word_dash_4 | layer-target-chimney-need |  
+| bip_39_word_dash_5 | layer-target-chimney-need-remember |  
+| bip_39_word_dash_6 | layer-target-chimney-need-remember-normal |  
+| bip_39_word_dash_7 | layer-target-chimney-need-remember-normal-gather |  
+| bip_39_word_dash_8 | layer-target-chimney-need-remember-normal-gather-amused |  
+| bip_39_word_dash_9 | layer-target-chimney-need-remember-normal-gather-amused-soda |  
 | bip_39_word_new_br_1 | layer |  
 | bip_39_word_new_br_10 | layer<br>target<br>chimney<br>need<br>remember<br>normal<br>gather<br>amused<br>soda<br>chuckle |  
 | bip_39_word_new_br_11 | layer<br>target<br>chimney<br>need<br>remember<br>normal<br>gather<br>amused<br>soda<br>chuckle<br>night |  
@@ -147,6 +159,18 @@ soda |
 | bip_39_word_space_7 | layer target chimney need remember normal gather |  
 | bip_39_word_space_8 | layer target chimney need remember normal gather amused |  
 | bip_39_word_space_9 | layer target chimney need remember normal gather amused soda |  
+| bip_39_word_underscore_1 | layer |  
+| bip_39_word_underscore_10 | layer_target_chimney_need_remember_normal_gather_amused_soda_chuckle |  
+| bip_39_word_underscore_11 | layer_target_chimney_need_remember_normal_gather_amused_soda_chuckle_night |  
+| bip_39_word_underscore_12 | layer_target_chimney_need_remember_normal_gather_amused_soda_chuckle_night_aunt |  
+| bip_39_word_underscore_2 | layer_target |  
+| bip_39_word_underscore_3 | layer_target_chimney |  
+| bip_39_word_underscore_4 | layer_target_chimney_need |  
+| bip_39_word_underscore_5 | layer_target_chimney_need_remember |  
+| bip_39_word_underscore_6 | layer_target_chimney_need_remember_normal |  
+| bip_39_word_underscore_7 | layer_target_chimney_need_remember_normal_gather |  
+| bip_39_word_underscore_8 | layer_target_chimney_need_remember_normal_gather_amused |  
+| bip_39_word_underscore_9 | layer_target_chimney_need_remember_normal_gather_amused_soda |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

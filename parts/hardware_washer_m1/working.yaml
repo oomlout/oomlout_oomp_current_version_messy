@@ -1,3 +1,15 @@
+bip_39_word_dash_1: parade
+bip_39_word_dash_10: parade-depend-science-service-stand-spider-gap-welcome-attitude-warrior
+bip_39_word_dash_11: parade-depend-science-service-stand-spider-gap-welcome-attitude-warrior-tunnel
+bip_39_word_dash_12: parade-depend-science-service-stand-spider-gap-welcome-attitude-warrior-tunnel-affair
+bip_39_word_dash_2: parade-depend
+bip_39_word_dash_3: parade-depend-science
+bip_39_word_dash_4: parade-depend-science-service
+bip_39_word_dash_5: parade-depend-science-service-stand
+bip_39_word_dash_6: parade-depend-science-service-stand-spider
+bip_39_word_dash_7: parade-depend-science-service-stand-spider-gap
+bip_39_word_dash_8: parade-depend-science-service-stand-spider-gap-welcome
+bip_39_word_dash_9: parade-depend-science-service-stand-spider-gap-welcome-attitude
 bip_39_word_new_br_1: parade
 bip_39_word_new_br_10: parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior
 bip_39_word_new_br_11: parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior<br>tunnel
@@ -194,6 +206,18 @@ bip_39_word_space_6: parade depend science service stand spider
 bip_39_word_space_7: parade depend science service stand spider gap
 bip_39_word_space_8: parade depend science service stand spider gap welcome
 bip_39_word_space_9: parade depend science service stand spider gap welcome attitude
+bip_39_word_underscore_1: parade
+bip_39_word_underscore_10: parade_depend_science_service_stand_spider_gap_welcome_attitude_warrior
+bip_39_word_underscore_11: parade_depend_science_service_stand_spider_gap_welcome_attitude_warrior_tunnel
+bip_39_word_underscore_12: parade_depend_science_service_stand_spider_gap_welcome_attitude_warrior_tunnel_affair
+bip_39_word_underscore_2: parade_depend
+bip_39_word_underscore_3: parade_depend_science
+bip_39_word_underscore_4: parade_depend_science_service
+bip_39_word_underscore_5: parade_depend_science_service_stand
+bip_39_word_underscore_6: parade_depend_science_service_stand_spider
+bip_39_word_underscore_7: parade_depend_science_service_stand_spider_gap
+bip_39_word_underscore_8: parade_depend_science_service_stand_spider_gap_welcome
+bip_39_word_underscore_9: parade_depend_science_service_stand_spider_gap_welcome_attitude
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

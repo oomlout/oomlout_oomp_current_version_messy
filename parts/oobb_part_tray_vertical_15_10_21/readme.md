@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | easy |  
+| bip_39_word_dash_10 | easy-donor-notice-swarm-rescue-accuse-stable-account-trash-rug |  
+| bip_39_word_dash_11 | easy-donor-notice-swarm-rescue-accuse-stable-account-trash-rug-dolphin |  
+| bip_39_word_dash_12 | easy-donor-notice-swarm-rescue-accuse-stable-account-trash-rug-dolphin-apart |  
+| bip_39_word_dash_2 | easy-donor |  
+| bip_39_word_dash_3 | easy-donor-notice |  
+| bip_39_word_dash_4 | easy-donor-notice-swarm |  
+| bip_39_word_dash_5 | easy-donor-notice-swarm-rescue |  
+| bip_39_word_dash_6 | easy-donor-notice-swarm-rescue-accuse |  
+| bip_39_word_dash_7 | easy-donor-notice-swarm-rescue-accuse-stable |  
+| bip_39_word_dash_8 | easy-donor-notice-swarm-rescue-accuse-stable-account |  
+| bip_39_word_dash_9 | easy-donor-notice-swarm-rescue-accuse-stable-account-trash |  
 | bip_39_word_new_br_1 | easy |  
 | bip_39_word_new_br_10 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account<br>trash<br>rug |  
 | bip_39_word_new_br_11 | easy<br>donor<br>notice<br>swarm<br>rescue<br>accuse<br>stable<br>account<br>trash<br>rug<br>dolphin |  
@@ -147,6 +159,18 @@ trash |
 | bip_39_word_space_7 | easy donor notice swarm rescue accuse stable |  
 | bip_39_word_space_8 | easy donor notice swarm rescue accuse stable account |  
 | bip_39_word_space_9 | easy donor notice swarm rescue accuse stable account trash |  
+| bip_39_word_underscore_1 | easy |  
+| bip_39_word_underscore_10 | easy_donor_notice_swarm_rescue_accuse_stable_account_trash_rug |  
+| bip_39_word_underscore_11 | easy_donor_notice_swarm_rescue_accuse_stable_account_trash_rug_dolphin |  
+| bip_39_word_underscore_12 | easy_donor_notice_swarm_rescue_accuse_stable_account_trash_rug_dolphin_apart |  
+| bip_39_word_underscore_2 | easy_donor |  
+| bip_39_word_underscore_3 | easy_donor_notice |  
+| bip_39_word_underscore_4 | easy_donor_notice_swarm |  
+| bip_39_word_underscore_5 | easy_donor_notice_swarm_rescue |  
+| bip_39_word_underscore_6 | easy_donor_notice_swarm_rescue_accuse |  
+| bip_39_word_underscore_7 | easy_donor_notice_swarm_rescue_accuse_stable |  
+| bip_39_word_underscore_8 | easy_donor_notice_swarm_rescue_accuse_stable_account |  
+| bip_39_word_underscore_9 | easy_donor_notice_swarm_rescue_accuse_stable_account_trash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glory |  
+| bip_39_word_dash_10 | glory-frost-dutch-rain-cable-tree-argue-rough-essay-skull |  
+| bip_39_word_dash_11 | glory-frost-dutch-rain-cable-tree-argue-rough-essay-skull-horn |  
+| bip_39_word_dash_12 | glory-frost-dutch-rain-cable-tree-argue-rough-essay-skull-horn-aerobic |  
+| bip_39_word_dash_2 | glory-frost |  
+| bip_39_word_dash_3 | glory-frost-dutch |  
+| bip_39_word_dash_4 | glory-frost-dutch-rain |  
+| bip_39_word_dash_5 | glory-frost-dutch-rain-cable |  
+| bip_39_word_dash_6 | glory-frost-dutch-rain-cable-tree |  
+| bip_39_word_dash_7 | glory-frost-dutch-rain-cable-tree-argue |  
+| bip_39_word_dash_8 | glory-frost-dutch-rain-cable-tree-argue-rough |  
+| bip_39_word_dash_9 | glory-frost-dutch-rain-cable-tree-argue-rough-essay |  
 | bip_39_word_new_br_1 | glory |  
 | bip_39_word_new_br_10 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough<br>essay<br>skull |  
 | bip_39_word_new_br_11 | glory<br>frost<br>dutch<br>rain<br>cable<br>tree<br>argue<br>rough<br>essay<br>skull<br>horn |  
@@ -147,6 +159,18 @@ essay |
 | bip_39_word_space_7 | glory frost dutch rain cable tree argue |  
 | bip_39_word_space_8 | glory frost dutch rain cable tree argue rough |  
 | bip_39_word_space_9 | glory frost dutch rain cable tree argue rough essay |  
+| bip_39_word_underscore_1 | glory |  
+| bip_39_word_underscore_10 | glory_frost_dutch_rain_cable_tree_argue_rough_essay_skull |  
+| bip_39_word_underscore_11 | glory_frost_dutch_rain_cable_tree_argue_rough_essay_skull_horn |  
+| bip_39_word_underscore_12 | glory_frost_dutch_rain_cable_tree_argue_rough_essay_skull_horn_aerobic |  
+| bip_39_word_underscore_2 | glory_frost |  
+| bip_39_word_underscore_3 | glory_frost_dutch |  
+| bip_39_word_underscore_4 | glory_frost_dutch_rain |  
+| bip_39_word_underscore_5 | glory_frost_dutch_rain_cable |  
+| bip_39_word_underscore_6 | glory_frost_dutch_rain_cable_tree |  
+| bip_39_word_underscore_7 | glory_frost_dutch_rain_cable_tree_argue |  
+| bip_39_word_underscore_8 | glory_frost_dutch_rain_cable_tree_argue_rough |  
+| bip_39_word_underscore_9 | glory_frost_dutch_rain_cable_tree_argue_rough_essay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cash |  
+| bip_39_word_dash_10 | cash-click-army-couple-bind-accuse-unaware-cheap-celery-cannon |  
+| bip_39_word_dash_11 | cash-click-army-couple-bind-accuse-unaware-cheap-celery-cannon-pulse |  
+| bip_39_word_dash_12 | cash-click-army-couple-bind-accuse-unaware-cheap-celery-cannon-pulse-also |  
+| bip_39_word_dash_2 | cash-click |  
+| bip_39_word_dash_3 | cash-click-army |  
+| bip_39_word_dash_4 | cash-click-army-couple |  
+| bip_39_word_dash_5 | cash-click-army-couple-bind |  
+| bip_39_word_dash_6 | cash-click-army-couple-bind-accuse |  
+| bip_39_word_dash_7 | cash-click-army-couple-bind-accuse-unaware |  
+| bip_39_word_dash_8 | cash-click-army-couple-bind-accuse-unaware-cheap |  
+| bip_39_word_dash_9 | cash-click-army-couple-bind-accuse-unaware-cheap-celery |  
 | bip_39_word_new_br_1 | cash |  
 | bip_39_word_new_br_10 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon |  
 | bip_39_word_new_br_11 | cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon<br>pulse |  
@@ -147,6 +159,18 @@ celery |
 | bip_39_word_space_7 | cash click army couple bind accuse unaware |  
 | bip_39_word_space_8 | cash click army couple bind accuse unaware cheap |  
 | bip_39_word_space_9 | cash click army couple bind accuse unaware cheap celery |  
+| bip_39_word_underscore_1 | cash |  
+| bip_39_word_underscore_10 | cash_click_army_couple_bind_accuse_unaware_cheap_celery_cannon |  
+| bip_39_word_underscore_11 | cash_click_army_couple_bind_accuse_unaware_cheap_celery_cannon_pulse |  
+| bip_39_word_underscore_12 | cash_click_army_couple_bind_accuse_unaware_cheap_celery_cannon_pulse_also |  
+| bip_39_word_underscore_2 | cash_click |  
+| bip_39_word_underscore_3 | cash_click_army |  
+| bip_39_word_underscore_4 | cash_click_army_couple |  
+| bip_39_word_underscore_5 | cash_click_army_couple_bind |  
+| bip_39_word_underscore_6 | cash_click_army_couple_bind_accuse |  
+| bip_39_word_underscore_7 | cash_click_army_couple_bind_accuse_unaware |  
+| bip_39_word_underscore_8 | cash_click_army_couple_bind_accuse_unaware_cheap |  
+| bip_39_word_underscore_9 | cash_click_army_couple_bind_accuse_unaware_cheap_celery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

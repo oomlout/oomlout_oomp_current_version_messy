@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erase |  
+| bip_39_word_dash_10 | erase-wish-inherit-science-screen-sense-team-pulp-solid-caught |  
+| bip_39_word_dash_11 | erase-wish-inherit-science-screen-sense-team-pulp-solid-caught-math |  
+| bip_39_word_dash_12 | erase-wish-inherit-science-screen-sense-team-pulp-solid-caught-math-afford |  
+| bip_39_word_dash_2 | erase-wish |  
+| bip_39_word_dash_3 | erase-wish-inherit |  
+| bip_39_word_dash_4 | erase-wish-inherit-science |  
+| bip_39_word_dash_5 | erase-wish-inherit-science-screen |  
+| bip_39_word_dash_6 | erase-wish-inherit-science-screen-sense |  
+| bip_39_word_dash_7 | erase-wish-inherit-science-screen-sense-team |  
+| bip_39_word_dash_8 | erase-wish-inherit-science-screen-sense-team-pulp |  
+| bip_39_word_dash_9 | erase-wish-inherit-science-screen-sense-team-pulp-solid |  
 | bip_39_word_new_br_1 | erase |  
 | bip_39_word_new_br_10 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp<br>solid<br>caught |  
 | bip_39_word_new_br_11 | erase<br>wish<br>inherit<br>science<br>screen<br>sense<br>team<br>pulp<br>solid<br>caught<br>math |  
@@ -147,6 +159,18 @@ solid |
 | bip_39_word_space_7 | erase wish inherit science screen sense team |  
 | bip_39_word_space_8 | erase wish inherit science screen sense team pulp |  
 | bip_39_word_space_9 | erase wish inherit science screen sense team pulp solid |  
+| bip_39_word_underscore_1 | erase |  
+| bip_39_word_underscore_10 | erase_wish_inherit_science_screen_sense_team_pulp_solid_caught |  
+| bip_39_word_underscore_11 | erase_wish_inherit_science_screen_sense_team_pulp_solid_caught_math |  
+| bip_39_word_underscore_12 | erase_wish_inherit_science_screen_sense_team_pulp_solid_caught_math_afford |  
+| bip_39_word_underscore_2 | erase_wish |  
+| bip_39_word_underscore_3 | erase_wish_inherit |  
+| bip_39_word_underscore_4 | erase_wish_inherit_science |  
+| bip_39_word_underscore_5 | erase_wish_inherit_science_screen |  
+| bip_39_word_underscore_6 | erase_wish_inherit_science_screen_sense |  
+| bip_39_word_underscore_7 | erase_wish_inherit_science_screen_sense_team |  
+| bip_39_word_underscore_8 | erase_wish_inherit_science_screen_sense_team_pulp |  
+| bip_39_word_underscore_9 | erase_wish_inherit_science_screen_sense_team_pulp_solid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

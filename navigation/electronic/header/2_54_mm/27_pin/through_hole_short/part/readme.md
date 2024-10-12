@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | foam |  
+| bip_39_word_dash_10 | foam-property-salt-dilemma-act-praise-simple-sort-prevent-cargo |  
+| bip_39_word_dash_11 | foam-property-salt-dilemma-act-praise-simple-sort-prevent-cargo-ten |  
+| bip_39_word_dash_12 | foam-property-salt-dilemma-act-praise-simple-sort-prevent-cargo-ten-arctic |  
+| bip_39_word_dash_2 | foam-property |  
+| bip_39_word_dash_3 | foam-property-salt |  
+| bip_39_word_dash_4 | foam-property-salt-dilemma |  
+| bip_39_word_dash_5 | foam-property-salt-dilemma-act |  
+| bip_39_word_dash_6 | foam-property-salt-dilemma-act-praise |  
+| bip_39_word_dash_7 | foam-property-salt-dilemma-act-praise-simple |  
+| bip_39_word_dash_8 | foam-property-salt-dilemma-act-praise-simple-sort |  
+| bip_39_word_dash_9 | foam-property-salt-dilemma-act-praise-simple-sort-prevent |  
 | bip_39_word_new_br_1 | foam |  
 | bip_39_word_new_br_10 | foam<br>property<br>salt<br>dilemma<br>act<br>praise<br>simple<br>sort<br>prevent<br>cargo |  
 | bip_39_word_new_br_11 | foam<br>property<br>salt<br>dilemma<br>act<br>praise<br>simple<br>sort<br>prevent<br>cargo<br>ten |  
@@ -147,6 +159,18 @@ prevent |
 | bip_39_word_space_7 | foam property salt dilemma act praise simple |  
 | bip_39_word_space_8 | foam property salt dilemma act praise simple sort |  
 | bip_39_word_space_9 | foam property salt dilemma act praise simple sort prevent |  
+| bip_39_word_underscore_1 | foam |  
+| bip_39_word_underscore_10 | foam_property_salt_dilemma_act_praise_simple_sort_prevent_cargo |  
+| bip_39_word_underscore_11 | foam_property_salt_dilemma_act_praise_simple_sort_prevent_cargo_ten |  
+| bip_39_word_underscore_12 | foam_property_salt_dilemma_act_praise_simple_sort_prevent_cargo_ten_arctic |  
+| bip_39_word_underscore_2 | foam_property |  
+| bip_39_word_underscore_3 | foam_property_salt |  
+| bip_39_word_underscore_4 | foam_property_salt_dilemma |  
+| bip_39_word_underscore_5 | foam_property_salt_dilemma_act |  
+| bip_39_word_underscore_6 | foam_property_salt_dilemma_act_praise |  
+| bip_39_word_underscore_7 | foam_property_salt_dilemma_act_praise_simple |  
+| bip_39_word_underscore_8 | foam_property_salt_dilemma_act_praise_simple_sort |  
+| bip_39_word_underscore_9 | foam_property_salt_dilemma_act_praise_simple_sort_prevent |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mammal |  
+| bip_39_word_dash_10 | mammal-idle-normal-brother-best-oblige-hope-already-blind-truly |  
+| bip_39_word_dash_11 | mammal-idle-normal-brother-best-oblige-hope-already-blind-truly-become |  
+| bip_39_word_dash_12 | mammal-idle-normal-brother-best-oblige-hope-already-blind-truly-become-assault |  
+| bip_39_word_dash_2 | mammal-idle |  
+| bip_39_word_dash_3 | mammal-idle-normal |  
+| bip_39_word_dash_4 | mammal-idle-normal-brother |  
+| bip_39_word_dash_5 | mammal-idle-normal-brother-best |  
+| bip_39_word_dash_6 | mammal-idle-normal-brother-best-oblige |  
+| bip_39_word_dash_7 | mammal-idle-normal-brother-best-oblige-hope |  
+| bip_39_word_dash_8 | mammal-idle-normal-brother-best-oblige-hope-already |  
+| bip_39_word_dash_9 | mammal-idle-normal-brother-best-oblige-hope-already-blind |  
 | bip_39_word_new_br_1 | mammal |  
 | bip_39_word_new_br_10 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly |  
 | bip_39_word_new_br_11 | mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly<br>become |  
@@ -147,6 +159,18 @@ blind |
 | bip_39_word_space_7 | mammal idle normal brother best oblige hope |  
 | bip_39_word_space_8 | mammal idle normal brother best oblige hope already |  
 | bip_39_word_space_9 | mammal idle normal brother best oblige hope already blind |  
+| bip_39_word_underscore_1 | mammal |  
+| bip_39_word_underscore_10 | mammal_idle_normal_brother_best_oblige_hope_already_blind_truly |  
+| bip_39_word_underscore_11 | mammal_idle_normal_brother_best_oblige_hope_already_blind_truly_become |  
+| bip_39_word_underscore_12 | mammal_idle_normal_brother_best_oblige_hope_already_blind_truly_become_assault |  
+| bip_39_word_underscore_2 | mammal_idle |  
+| bip_39_word_underscore_3 | mammal_idle_normal |  
+| bip_39_word_underscore_4 | mammal_idle_normal_brother |  
+| bip_39_word_underscore_5 | mammal_idle_normal_brother_best |  
+| bip_39_word_underscore_6 | mammal_idle_normal_brother_best_oblige |  
+| bip_39_word_underscore_7 | mammal_idle_normal_brother_best_oblige_hope |  
+| bip_39_word_underscore_8 | mammal_idle_normal_brother_best_oblige_hope_already |  
+| bip_39_word_underscore_9 | mammal_idle_normal_brother_best_oblige_hope_already_blind |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

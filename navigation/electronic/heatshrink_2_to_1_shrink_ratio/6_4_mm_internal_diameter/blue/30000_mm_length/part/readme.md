@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | congress |  
+| bip_39_word_dash_10 | congress-glue-family-invite-purpose-salmon-subway-grief-festival-office |  
+| bip_39_word_dash_11 | congress-glue-family-invite-purpose-salmon-subway-grief-festival-office-adjust |  
+| bip_39_word_dash_12 | congress-glue-family-invite-purpose-salmon-subway-grief-festival-office-adjust-among |  
+| bip_39_word_dash_2 | congress-glue |  
+| bip_39_word_dash_3 | congress-glue-family |  
+| bip_39_word_dash_4 | congress-glue-family-invite |  
+| bip_39_word_dash_5 | congress-glue-family-invite-purpose |  
+| bip_39_word_dash_6 | congress-glue-family-invite-purpose-salmon |  
+| bip_39_word_dash_7 | congress-glue-family-invite-purpose-salmon-subway |  
+| bip_39_word_dash_8 | congress-glue-family-invite-purpose-salmon-subway-grief |  
+| bip_39_word_dash_9 | congress-glue-family-invite-purpose-salmon-subway-grief-festival |  
 | bip_39_word_new_br_1 | congress |  
 | bip_39_word_new_br_10 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief<br>festival<br>office |  
 | bip_39_word_new_br_11 | congress<br>glue<br>family<br>invite<br>purpose<br>salmon<br>subway<br>grief<br>festival<br>office<br>adjust |  
@@ -147,6 +159,18 @@ festival |
 | bip_39_word_space_7 | congress glue family invite purpose salmon subway |  
 | bip_39_word_space_8 | congress glue family invite purpose salmon subway grief |  
 | bip_39_word_space_9 | congress glue family invite purpose salmon subway grief festival |  
+| bip_39_word_underscore_1 | congress |  
+| bip_39_word_underscore_10 | congress_glue_family_invite_purpose_salmon_subway_grief_festival_office |  
+| bip_39_word_underscore_11 | congress_glue_family_invite_purpose_salmon_subway_grief_festival_office_adjust |  
+| bip_39_word_underscore_12 | congress_glue_family_invite_purpose_salmon_subway_grief_festival_office_adjust_among |  
+| bip_39_word_underscore_2 | congress_glue |  
+| bip_39_word_underscore_3 | congress_glue_family |  
+| bip_39_word_underscore_4 | congress_glue_family_invite |  
+| bip_39_word_underscore_5 | congress_glue_family_invite_purpose |  
+| bip_39_word_underscore_6 | congress_glue_family_invite_purpose_salmon |  
+| bip_39_word_underscore_7 | congress_glue_family_invite_purpose_salmon_subway |  
+| bip_39_word_underscore_8 | congress_glue_family_invite_purpose_salmon_subway_grief |  
+| bip_39_word_underscore_9 | congress_glue_family_invite_purpose_salmon_subway_grief_festival |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

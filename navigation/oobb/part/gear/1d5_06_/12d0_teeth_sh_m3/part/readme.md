@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oxygen |  
+| bip_39_word_dash_10 | oxygen-rate-impulse-success-genuine-wheel-timber-tenant-smart-until |  
+| bip_39_word_dash_11 | oxygen-rate-impulse-success-genuine-wheel-timber-tenant-smart-until-snow |  
+| bip_39_word_dash_12 | oxygen-rate-impulse-success-genuine-wheel-timber-tenant-smart-until-snow-artefact |  
+| bip_39_word_dash_2 | oxygen-rate |  
+| bip_39_word_dash_3 | oxygen-rate-impulse |  
+| bip_39_word_dash_4 | oxygen-rate-impulse-success |  
+| bip_39_word_dash_5 | oxygen-rate-impulse-success-genuine |  
+| bip_39_word_dash_6 | oxygen-rate-impulse-success-genuine-wheel |  
+| bip_39_word_dash_7 | oxygen-rate-impulse-success-genuine-wheel-timber |  
+| bip_39_word_dash_8 | oxygen-rate-impulse-success-genuine-wheel-timber-tenant |  
+| bip_39_word_dash_9 | oxygen-rate-impulse-success-genuine-wheel-timber-tenant-smart |  
 | bip_39_word_new_br_1 | oxygen |  
 | bip_39_word_new_br_10 | oxygen<br>rate<br>impulse<br>success<br>genuine<br>wheel<br>timber<br>tenant<br>smart<br>until |  
 | bip_39_word_new_br_11 | oxygen<br>rate<br>impulse<br>success<br>genuine<br>wheel<br>timber<br>tenant<br>smart<br>until<br>snow |  
@@ -147,6 +159,18 @@ smart |
 | bip_39_word_space_7 | oxygen rate impulse success genuine wheel timber |  
 | bip_39_word_space_8 | oxygen rate impulse success genuine wheel timber tenant |  
 | bip_39_word_space_9 | oxygen rate impulse success genuine wheel timber tenant smart |  
+| bip_39_word_underscore_1 | oxygen |  
+| bip_39_word_underscore_10 | oxygen_rate_impulse_success_genuine_wheel_timber_tenant_smart_until |  
+| bip_39_word_underscore_11 | oxygen_rate_impulse_success_genuine_wheel_timber_tenant_smart_until_snow |  
+| bip_39_word_underscore_12 | oxygen_rate_impulse_success_genuine_wheel_timber_tenant_smart_until_snow_artefact |  
+| bip_39_word_underscore_2 | oxygen_rate |  
+| bip_39_word_underscore_3 | oxygen_rate_impulse |  
+| bip_39_word_underscore_4 | oxygen_rate_impulse_success |  
+| bip_39_word_underscore_5 | oxygen_rate_impulse_success_genuine |  
+| bip_39_word_underscore_6 | oxygen_rate_impulse_success_genuine_wheel |  
+| bip_39_word_underscore_7 | oxygen_rate_impulse_success_genuine_wheel_timber |  
+| bip_39_word_underscore_8 | oxygen_rate_impulse_success_genuine_wheel_timber_tenant |  
+| bip_39_word_underscore_9 | oxygen_rate_impulse_success_genuine_wheel_timber_tenant_smart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

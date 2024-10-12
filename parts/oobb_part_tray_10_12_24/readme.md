@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | number |  
+| bip_39_word_dash_10 | number-core-tooth-save-list-since-era-hint-siege-conduct |  
+| bip_39_word_dash_11 | number-core-tooth-save-list-since-era-hint-siege-conduct-plug |  
+| bip_39_word_dash_12 | number-core-tooth-save-list-since-era-hint-siege-conduct-plug-aspect |  
+| bip_39_word_dash_2 | number-core |  
+| bip_39_word_dash_3 | number-core-tooth |  
+| bip_39_word_dash_4 | number-core-tooth-save |  
+| bip_39_word_dash_5 | number-core-tooth-save-list |  
+| bip_39_word_dash_6 | number-core-tooth-save-list-since |  
+| bip_39_word_dash_7 | number-core-tooth-save-list-since-era |  
+| bip_39_word_dash_8 | number-core-tooth-save-list-since-era-hint |  
+| bip_39_word_dash_9 | number-core-tooth-save-list-since-era-hint-siege |  
 | bip_39_word_new_br_1 | number |  
 | bip_39_word_new_br_10 | number<br>core<br>tooth<br>save<br>list<br>since<br>era<br>hint<br>siege<br>conduct |  
 | bip_39_word_new_br_11 | number<br>core<br>tooth<br>save<br>list<br>since<br>era<br>hint<br>siege<br>conduct<br>plug |  
@@ -147,6 +159,18 @@ siege |
 | bip_39_word_space_7 | number core tooth save list since era |  
 | bip_39_word_space_8 | number core tooth save list since era hint |  
 | bip_39_word_space_9 | number core tooth save list since era hint siege |  
+| bip_39_word_underscore_1 | number |  
+| bip_39_word_underscore_10 | number_core_tooth_save_list_since_era_hint_siege_conduct |  
+| bip_39_word_underscore_11 | number_core_tooth_save_list_since_era_hint_siege_conduct_plug |  
+| bip_39_word_underscore_12 | number_core_tooth_save_list_since_era_hint_siege_conduct_plug_aspect |  
+| bip_39_word_underscore_2 | number_core |  
+| bip_39_word_underscore_3 | number_core_tooth |  
+| bip_39_word_underscore_4 | number_core_tooth_save |  
+| bip_39_word_underscore_5 | number_core_tooth_save_list |  
+| bip_39_word_underscore_6 | number_core_tooth_save_list_since |  
+| bip_39_word_underscore_7 | number_core_tooth_save_list_since_era |  
+| bip_39_word_underscore_8 | number_core_tooth_save_list_since_era_hint |  
+| bip_39_word_underscore_9 | number_core_tooth_save_list_since_era_hint_siege |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

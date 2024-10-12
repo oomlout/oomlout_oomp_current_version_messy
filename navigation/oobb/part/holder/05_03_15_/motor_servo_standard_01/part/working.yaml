@@ -1,3 +1,15 @@
+bip_39_word_dash_1: reduce
+bip_39_word_dash_10: reduce-caught-garment-regret-area-improve-tattoo-target-avoid-bread
+bip_39_word_dash_11: reduce-caught-garment-regret-area-improve-tattoo-target-avoid-bread-pottery
+bip_39_word_dash_12: reduce-caught-garment-regret-area-improve-tattoo-target-avoid-bread-pottery-another
+bip_39_word_dash_2: reduce-caught
+bip_39_word_dash_3: reduce-caught-garment
+bip_39_word_dash_4: reduce-caught-garment-regret
+bip_39_word_dash_5: reduce-caught-garment-regret-area
+bip_39_word_dash_6: reduce-caught-garment-regret-area-improve
+bip_39_word_dash_7: reduce-caught-garment-regret-area-improve-tattoo
+bip_39_word_dash_8: reduce-caught-garment-regret-area-improve-tattoo-target
+bip_39_word_dash_9: reduce-caught-garment-regret-area-improve-tattoo-target-avoid
 bip_39_word_new_br_1: reduce
 bip_39_word_new_br_10: reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target<br>avoid<br>bread
 bip_39_word_new_br_11: reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target<br>avoid<br>bread<br>pottery
@@ -194,6 +206,18 @@ bip_39_word_space_6: reduce caught garment regret area improve
 bip_39_word_space_7: reduce caught garment regret area improve tattoo
 bip_39_word_space_8: reduce caught garment regret area improve tattoo target
 bip_39_word_space_9: reduce caught garment regret area improve tattoo target avoid
+bip_39_word_underscore_1: reduce
+bip_39_word_underscore_10: reduce_caught_garment_regret_area_improve_tattoo_target_avoid_bread
+bip_39_word_underscore_11: reduce_caught_garment_regret_area_improve_tattoo_target_avoid_bread_pottery
+bip_39_word_underscore_12: reduce_caught_garment_regret_area_improve_tattoo_target_avoid_bread_pottery_another
+bip_39_word_underscore_2: reduce_caught
+bip_39_word_underscore_3: reduce_caught_garment
+bip_39_word_underscore_4: reduce_caught_garment_regret
+bip_39_word_underscore_5: reduce_caught_garment_regret_area
+bip_39_word_underscore_6: reduce_caught_garment_regret_area_improve
+bip_39_word_underscore_7: reduce_caught_garment_regret_area_improve_tattoo
+bip_39_word_underscore_8: reduce_caught_garment_regret_area_improve_tattoo_target
+bip_39_word_underscore_9: reduce_caught_garment_regret_area_improve_tattoo_target_avoid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

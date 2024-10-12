@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | good |  
+| bip_39_word_dash_10 | good-carry-adjust-soldier-under-churn-type-prepare-major-report |  
+| bip_39_word_dash_11 | good-carry-adjust-soldier-under-churn-type-prepare-major-report-lucky |  
+| bip_39_word_dash_2 | good-carry |  
+| bip_39_word_dash_3 | good-carry-adjust |  
+| bip_39_word_dash_4 | good-carry-adjust-soldier |  
+| bip_39_word_dash_5 | good-carry-adjust-soldier-under |  
+| bip_39_word_dash_6 | good-carry-adjust-soldier-under-churn |  
+| bip_39_word_dash_7 | good-carry-adjust-soldier-under-churn-type |  
+| bip_39_word_dash_8 | good-carry-adjust-soldier-under-churn-type-prepare |  
+| bip_39_word_dash_9 | good-carry-adjust-soldier-under-churn-type-prepare-major |  
 | bip_39_word_new_br_1 | good |  
 | bip_39_word_new_br_10 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major<br>report |  
 | bip_39_word_new_br_11 | good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major<br>report<br>lucky |  
@@ -132,6 +143,17 @@ major |
 | bip_39_word_space_7 | good carry adjust soldier under churn type |  
 | bip_39_word_space_8 | good carry adjust soldier under churn type prepare |  
 | bip_39_word_space_9 | good carry adjust soldier under churn type prepare major |  
+| bip_39_word_underscore_1 | good |  
+| bip_39_word_underscore_10 | good_carry_adjust_soldier_under_churn_type_prepare_major_report |  
+| bip_39_word_underscore_11 | good_carry_adjust_soldier_under_churn_type_prepare_major_report_lucky |  
+| bip_39_word_underscore_2 | good_carry |  
+| bip_39_word_underscore_3 | good_carry_adjust |  
+| bip_39_word_underscore_4 | good_carry_adjust_soldier |  
+| bip_39_word_underscore_5 | good_carry_adjust_soldier_under |  
+| bip_39_word_underscore_6 | good_carry_adjust_soldier_under_churn |  
+| bip_39_word_underscore_7 | good_carry_adjust_soldier_under_churn_type |  
+| bip_39_word_underscore_8 | good_carry_adjust_soldier_under_churn_type_prepare |  
+| bip_39_word_underscore_9 | good_carry_adjust_soldier_under_churn_type_prepare_major |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

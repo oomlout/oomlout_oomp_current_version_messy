@@ -1,3 +1,15 @@
+bip_39_word_dash_1: analyst
+bip_39_word_dash_10: analyst-rhythm-margin-upgrade-finish-voice-dial-crystal-federal-embrace
+bip_39_word_dash_11: analyst-rhythm-margin-upgrade-finish-voice-dial-crystal-federal-embrace-hello
+bip_39_word_dash_12: analyst-rhythm-margin-upgrade-finish-voice-dial-crystal-federal-embrace-hello-area
+bip_39_word_dash_2: analyst-rhythm
+bip_39_word_dash_3: analyst-rhythm-margin
+bip_39_word_dash_4: analyst-rhythm-margin-upgrade
+bip_39_word_dash_5: analyst-rhythm-margin-upgrade-finish
+bip_39_word_dash_6: analyst-rhythm-margin-upgrade-finish-voice
+bip_39_word_dash_7: analyst-rhythm-margin-upgrade-finish-voice-dial
+bip_39_word_dash_8: analyst-rhythm-margin-upgrade-finish-voice-dial-crystal
+bip_39_word_dash_9: analyst-rhythm-margin-upgrade-finish-voice-dial-crystal-federal
 bip_39_word_new_br_1: analyst
 bip_39_word_new_br_10: analyst<br>rhythm<br>margin<br>upgrade<br>finish<br>voice<br>dial<br>crystal<br>federal<br>embrace
 bip_39_word_new_br_11: analyst<br>rhythm<br>margin<br>upgrade<br>finish<br>voice<br>dial<br>crystal<br>federal<br>embrace<br>hello
@@ -194,6 +206,18 @@ bip_39_word_space_6: analyst rhythm margin upgrade finish voice
 bip_39_word_space_7: analyst rhythm margin upgrade finish voice dial
 bip_39_word_space_8: analyst rhythm margin upgrade finish voice dial crystal
 bip_39_word_space_9: analyst rhythm margin upgrade finish voice dial crystal federal
+bip_39_word_underscore_1: analyst
+bip_39_word_underscore_10: analyst_rhythm_margin_upgrade_finish_voice_dial_crystal_federal_embrace
+bip_39_word_underscore_11: analyst_rhythm_margin_upgrade_finish_voice_dial_crystal_federal_embrace_hello
+bip_39_word_underscore_12: analyst_rhythm_margin_upgrade_finish_voice_dial_crystal_federal_embrace_hello_area
+bip_39_word_underscore_2: analyst_rhythm
+bip_39_word_underscore_3: analyst_rhythm_margin
+bip_39_word_underscore_4: analyst_rhythm_margin_upgrade
+bip_39_word_underscore_5: analyst_rhythm_margin_upgrade_finish
+bip_39_word_underscore_6: analyst_rhythm_margin_upgrade_finish_voice
+bip_39_word_underscore_7: analyst_rhythm_margin_upgrade_finish_voice_dial
+bip_39_word_underscore_8: analyst_rhythm_margin_upgrade_finish_voice_dial_crystal
+bip_39_word_underscore_9: analyst_rhythm_margin_upgrade_finish_voice_dial_crystal_federal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

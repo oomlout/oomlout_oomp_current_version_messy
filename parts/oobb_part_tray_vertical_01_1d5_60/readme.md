@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | practice |  
+| bip_39_word_dash_10 | practice-stereo-cool-during-hawk-field-stage-firm-walnut-prefer |  
+| bip_39_word_dash_11 | practice-stereo-cool-during-hawk-field-stage-firm-walnut-prefer-twist |  
+| bip_39_word_dash_12 | practice-stereo-cool-during-hawk-field-stage-firm-walnut-prefer-twist-adjust |  
+| bip_39_word_dash_2 | practice-stereo |  
+| bip_39_word_dash_3 | practice-stereo-cool |  
+| bip_39_word_dash_4 | practice-stereo-cool-during |  
+| bip_39_word_dash_5 | practice-stereo-cool-during-hawk |  
+| bip_39_word_dash_6 | practice-stereo-cool-during-hawk-field |  
+| bip_39_word_dash_7 | practice-stereo-cool-during-hawk-field-stage |  
+| bip_39_word_dash_8 | practice-stereo-cool-during-hawk-field-stage-firm |  
+| bip_39_word_dash_9 | practice-stereo-cool-during-hawk-field-stage-firm-walnut |  
 | bip_39_word_new_br_1 | practice |  
 | bip_39_word_new_br_10 | practice<br>stereo<br>cool<br>during<br>hawk<br>field<br>stage<br>firm<br>walnut<br>prefer |  
 | bip_39_word_new_br_11 | practice<br>stereo<br>cool<br>during<br>hawk<br>field<br>stage<br>firm<br>walnut<br>prefer<br>twist |  
@@ -147,6 +159,18 @@ walnut |
 | bip_39_word_space_7 | practice stereo cool during hawk field stage |  
 | bip_39_word_space_8 | practice stereo cool during hawk field stage firm |  
 | bip_39_word_space_9 | practice stereo cool during hawk field stage firm walnut |  
+| bip_39_word_underscore_1 | practice |  
+| bip_39_word_underscore_10 | practice_stereo_cool_during_hawk_field_stage_firm_walnut_prefer |  
+| bip_39_word_underscore_11 | practice_stereo_cool_during_hawk_field_stage_firm_walnut_prefer_twist |  
+| bip_39_word_underscore_12 | practice_stereo_cool_during_hawk_field_stage_firm_walnut_prefer_twist_adjust |  
+| bip_39_word_underscore_2 | practice_stereo |  
+| bip_39_word_underscore_3 | practice_stereo_cool |  
+| bip_39_word_underscore_4 | practice_stereo_cool_during |  
+| bip_39_word_underscore_5 | practice_stereo_cool_during_hawk |  
+| bip_39_word_underscore_6 | practice_stereo_cool_during_hawk_field |  
+| bip_39_word_underscore_7 | practice_stereo_cool_during_hawk_field_stage |  
+| bip_39_word_underscore_8 | practice_stereo_cool_during_hawk_field_stage_firm |  
+| bip_39_word_underscore_9 | practice_stereo_cool_during_hawk_field_stage_firm_walnut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

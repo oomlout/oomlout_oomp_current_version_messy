@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | birth |  
+| bip_39_word_dash_10 | birth-country-expire-few-science-trick-gloom-dry-web-ugly |  
+| bip_39_word_dash_11 | birth-country-expire-few-science-trick-gloom-dry-web-ugly-festival |  
+| bip_39_word_dash_12 | birth-country-expire-few-science-trick-gloom-dry-web-ugly-festival-ability |  
+| bip_39_word_dash_2 | birth-country |  
+| bip_39_word_dash_3 | birth-country-expire |  
+| bip_39_word_dash_4 | birth-country-expire-few |  
+| bip_39_word_dash_5 | birth-country-expire-few-science |  
+| bip_39_word_dash_6 | birth-country-expire-few-science-trick |  
+| bip_39_word_dash_7 | birth-country-expire-few-science-trick-gloom |  
+| bip_39_word_dash_8 | birth-country-expire-few-science-trick-gloom-dry |  
+| bip_39_word_dash_9 | birth-country-expire-few-science-trick-gloom-dry-web |  
 | bip_39_word_new_br_1 | birth |  
 | bip_39_word_new_br_10 | birth<br>country<br>expire<br>few<br>science<br>trick<br>gloom<br>dry<br>web<br>ugly |  
 | bip_39_word_new_br_11 | birth<br>country<br>expire<br>few<br>science<br>trick<br>gloom<br>dry<br>web<br>ugly<br>festival |  
@@ -147,6 +159,18 @@ web |
 | bip_39_word_space_7 | birth country expire few science trick gloom |  
 | bip_39_word_space_8 | birth country expire few science trick gloom dry |  
 | bip_39_word_space_9 | birth country expire few science trick gloom dry web |  
+| bip_39_word_underscore_1 | birth |  
+| bip_39_word_underscore_10 | birth_country_expire_few_science_trick_gloom_dry_web_ugly |  
+| bip_39_word_underscore_11 | birth_country_expire_few_science_trick_gloom_dry_web_ugly_festival |  
+| bip_39_word_underscore_12 | birth_country_expire_few_science_trick_gloom_dry_web_ugly_festival_ability |  
+| bip_39_word_underscore_2 | birth_country |  
+| bip_39_word_underscore_3 | birth_country_expire |  
+| bip_39_word_underscore_4 | birth_country_expire_few |  
+| bip_39_word_underscore_5 | birth_country_expire_few_science |  
+| bip_39_word_underscore_6 | birth_country_expire_few_science_trick |  
+| bip_39_word_underscore_7 | birth_country_expire_few_science_trick_gloom |  
+| bip_39_word_underscore_8 | birth_country_expire_few_science_trick_gloom_dry |  
+| bip_39_word_underscore_9 | birth_country_expire_few_science_trick_gloom_dry_web |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

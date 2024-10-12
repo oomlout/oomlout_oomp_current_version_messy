@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | object |  
+| bip_39_word_dash_10 | object-flush-prefer-ceiling-wrist-position-runway-logic-alter-royal |  
+| bip_39_word_dash_11 | object-flush-prefer-ceiling-wrist-position-runway-logic-alter-royal-silver |  
+| bip_39_word_dash_12 | object-flush-prefer-ceiling-wrist-position-runway-logic-alter-royal-silver-ahead |  
+| bip_39_word_dash_2 | object-flush |  
+| bip_39_word_dash_3 | object-flush-prefer |  
+| bip_39_word_dash_4 | object-flush-prefer-ceiling |  
+| bip_39_word_dash_5 | object-flush-prefer-ceiling-wrist |  
+| bip_39_word_dash_6 | object-flush-prefer-ceiling-wrist-position |  
+| bip_39_word_dash_7 | object-flush-prefer-ceiling-wrist-position-runway |  
+| bip_39_word_dash_8 | object-flush-prefer-ceiling-wrist-position-runway-logic |  
+| bip_39_word_dash_9 | object-flush-prefer-ceiling-wrist-position-runway-logic-alter |  
 | bip_39_word_new_br_1 | object |  
 | bip_39_word_new_br_10 | object<br>flush<br>prefer<br>ceiling<br>wrist<br>position<br>runway<br>logic<br>alter<br>royal |  
 | bip_39_word_new_br_11 | object<br>flush<br>prefer<br>ceiling<br>wrist<br>position<br>runway<br>logic<br>alter<br>royal<br>silver |  
@@ -147,6 +159,18 @@ alter |
 | bip_39_word_space_7 | object flush prefer ceiling wrist position runway |  
 | bip_39_word_space_8 | object flush prefer ceiling wrist position runway logic |  
 | bip_39_word_space_9 | object flush prefer ceiling wrist position runway logic alter |  
+| bip_39_word_underscore_1 | object |  
+| bip_39_word_underscore_10 | object_flush_prefer_ceiling_wrist_position_runway_logic_alter_royal |  
+| bip_39_word_underscore_11 | object_flush_prefer_ceiling_wrist_position_runway_logic_alter_royal_silver |  
+| bip_39_word_underscore_12 | object_flush_prefer_ceiling_wrist_position_runway_logic_alter_royal_silver_ahead |  
+| bip_39_word_underscore_2 | object_flush |  
+| bip_39_word_underscore_3 | object_flush_prefer |  
+| bip_39_word_underscore_4 | object_flush_prefer_ceiling |  
+| bip_39_word_underscore_5 | object_flush_prefer_ceiling_wrist |  
+| bip_39_word_underscore_6 | object_flush_prefer_ceiling_wrist_position |  
+| bip_39_word_underscore_7 | object_flush_prefer_ceiling_wrist_position_runway |  
+| bip_39_word_underscore_8 | object_flush_prefer_ceiling_wrist_position_runway_logic |  
+| bip_39_word_underscore_9 | object_flush_prefer_ceiling_wrist_position_runway_logic_alter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

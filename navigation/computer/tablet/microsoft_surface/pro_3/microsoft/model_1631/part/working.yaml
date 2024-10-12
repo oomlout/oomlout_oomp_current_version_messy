@@ -1,3 +1,15 @@
+bip_39_word_dash_1: number
+bip_39_word_dash_10: number-sniff-pupil-medal-sweet-arctic-energy-siege-elbow-finish
+bip_39_word_dash_11: number-sniff-pupil-medal-sweet-arctic-energy-siege-elbow-finish-toast
+bip_39_word_dash_12: number-sniff-pupil-medal-sweet-arctic-energy-siege-elbow-finish-toast-analyst
+bip_39_word_dash_2: number-sniff
+bip_39_word_dash_3: number-sniff-pupil
+bip_39_word_dash_4: number-sniff-pupil-medal
+bip_39_word_dash_5: number-sniff-pupil-medal-sweet
+bip_39_word_dash_6: number-sniff-pupil-medal-sweet-arctic
+bip_39_word_dash_7: number-sniff-pupil-medal-sweet-arctic-energy
+bip_39_word_dash_8: number-sniff-pupil-medal-sweet-arctic-energy-siege
+bip_39_word_dash_9: number-sniff-pupil-medal-sweet-arctic-energy-siege-elbow
 bip_39_word_new_br_1: number
 bip_39_word_new_br_10: number<br>sniff<br>pupil<br>medal<br>sweet<br>arctic<br>energy<br>siege<br>elbow<br>finish
 bip_39_word_new_br_11: number<br>sniff<br>pupil<br>medal<br>sweet<br>arctic<br>energy<br>siege<br>elbow<br>finish<br>toast
@@ -193,6 +205,18 @@ bip_39_word_space_6: number sniff pupil medal sweet arctic
 bip_39_word_space_7: number sniff pupil medal sweet arctic energy
 bip_39_word_space_8: number sniff pupil medal sweet arctic energy siege
 bip_39_word_space_9: number sniff pupil medal sweet arctic energy siege elbow
+bip_39_word_underscore_1: number
+bip_39_word_underscore_10: number_sniff_pupil_medal_sweet_arctic_energy_siege_elbow_finish
+bip_39_word_underscore_11: number_sniff_pupil_medal_sweet_arctic_energy_siege_elbow_finish_toast
+bip_39_word_underscore_12: number_sniff_pupil_medal_sweet_arctic_energy_siege_elbow_finish_toast_analyst
+bip_39_word_underscore_2: number_sniff
+bip_39_word_underscore_3: number_sniff_pupil
+bip_39_word_underscore_4: number_sniff_pupil_medal
+bip_39_word_underscore_5: number_sniff_pupil_medal_sweet
+bip_39_word_underscore_6: number_sniff_pupil_medal_sweet_arctic
+bip_39_word_underscore_7: number_sniff_pupil_medal_sweet_arctic_energy
+bip_39_word_underscore_8: number_sniff_pupil_medal_sweet_arctic_energy_siege
+bip_39_word_underscore_9: number_sniff_pupil_medal_sweet_arctic_energy_siege_elbow
 classification: computer
 classification_capital: Computer
 classification_first_letter: c

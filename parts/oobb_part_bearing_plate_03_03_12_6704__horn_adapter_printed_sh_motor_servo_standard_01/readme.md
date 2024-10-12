@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | immune |  
+| bip_39_word_dash_10 | immune-minute-half-acid-minor-diet-dinosaur-matter-exhaust-poverty |  
+| bip_39_word_dash_11 | immune-minute-half-acid-minor-diet-dinosaur-matter-exhaust-poverty-cross |  
+| bip_39_word_dash_12 | immune-minute-half-acid-minor-diet-dinosaur-matter-exhaust-poverty-cross-amateur |  
+| bip_39_word_dash_2 | immune-minute |  
+| bip_39_word_dash_3 | immune-minute-half |  
+| bip_39_word_dash_4 | immune-minute-half-acid |  
+| bip_39_word_dash_5 | immune-minute-half-acid-minor |  
+| bip_39_word_dash_6 | immune-minute-half-acid-minor-diet |  
+| bip_39_word_dash_7 | immune-minute-half-acid-minor-diet-dinosaur |  
+| bip_39_word_dash_8 | immune-minute-half-acid-minor-diet-dinosaur-matter |  
+| bip_39_word_dash_9 | immune-minute-half-acid-minor-diet-dinosaur-matter-exhaust |  
 | bip_39_word_new_br_1 | immune |  
 | bip_39_word_new_br_10 | immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter<br>exhaust<br>poverty |  
 | bip_39_word_new_br_11 | immune<br>minute<br>half<br>acid<br>minor<br>diet<br>dinosaur<br>matter<br>exhaust<br>poverty<br>cross |  
@@ -147,6 +159,18 @@ exhaust |
 | bip_39_word_space_7 | immune minute half acid minor diet dinosaur |  
 | bip_39_word_space_8 | immune minute half acid minor diet dinosaur matter |  
 | bip_39_word_space_9 | immune minute half acid minor diet dinosaur matter exhaust |  
+| bip_39_word_underscore_1 | immune |  
+| bip_39_word_underscore_10 | immune_minute_half_acid_minor_diet_dinosaur_matter_exhaust_poverty |  
+| bip_39_word_underscore_11 | immune_minute_half_acid_minor_diet_dinosaur_matter_exhaust_poverty_cross |  
+| bip_39_word_underscore_12 | immune_minute_half_acid_minor_diet_dinosaur_matter_exhaust_poverty_cross_amateur |  
+| bip_39_word_underscore_2 | immune_minute |  
+| bip_39_word_underscore_3 | immune_minute_half |  
+| bip_39_word_underscore_4 | immune_minute_half_acid |  
+| bip_39_word_underscore_5 | immune_minute_half_acid_minor |  
+| bip_39_word_underscore_6 | immune_minute_half_acid_minor_diet |  
+| bip_39_word_underscore_7 | immune_minute_half_acid_minor_diet_dinosaur |  
+| bip_39_word_underscore_8 | immune_minute_half_acid_minor_diet_dinosaur_matter |  
+| bip_39_word_underscore_9 | immune_minute_half_acid_minor_diet_dinosaur_matter_exhaust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stay
+bip_39_word_dash_10: stay-ring-lumber-swing-turkey-menu-tail-rail-amateur-ball
+bip_39_word_dash_11: stay-ring-lumber-swing-turkey-menu-tail-rail-amateur-ball-dentist
+bip_39_word_dash_12: stay-ring-lumber-swing-turkey-menu-tail-rail-amateur-ball-dentist-achieve
+bip_39_word_dash_2: stay-ring
+bip_39_word_dash_3: stay-ring-lumber
+bip_39_word_dash_4: stay-ring-lumber-swing
+bip_39_word_dash_5: stay-ring-lumber-swing-turkey
+bip_39_word_dash_6: stay-ring-lumber-swing-turkey-menu
+bip_39_word_dash_7: stay-ring-lumber-swing-turkey-menu-tail
+bip_39_word_dash_8: stay-ring-lumber-swing-turkey-menu-tail-rail
+bip_39_word_dash_9: stay-ring-lumber-swing-turkey-menu-tail-rail-amateur
 bip_39_word_new_br_1: stay
 bip_39_word_new_br_10: stay<br>ring<br>lumber<br>swing<br>turkey<br>menu<br>tail<br>rail<br>amateur<br>ball
 bip_39_word_new_br_11: stay<br>ring<br>lumber<br>swing<br>turkey<br>menu<br>tail<br>rail<br>amateur<br>ball<br>dentist
@@ -192,6 +204,18 @@ bip_39_word_space_6: stay ring lumber swing turkey menu
 bip_39_word_space_7: stay ring lumber swing turkey menu tail
 bip_39_word_space_8: stay ring lumber swing turkey menu tail rail
 bip_39_word_space_9: stay ring lumber swing turkey menu tail rail amateur
+bip_39_word_underscore_1: stay
+bip_39_word_underscore_10: stay_ring_lumber_swing_turkey_menu_tail_rail_amateur_ball
+bip_39_word_underscore_11: stay_ring_lumber_swing_turkey_menu_tail_rail_amateur_ball_dentist
+bip_39_word_underscore_12: stay_ring_lumber_swing_turkey_menu_tail_rail_amateur_ball_dentist_achieve
+bip_39_word_underscore_2: stay_ring
+bip_39_word_underscore_3: stay_ring_lumber
+bip_39_word_underscore_4: stay_ring_lumber_swing
+bip_39_word_underscore_5: stay_ring_lumber_swing_turkey
+bip_39_word_underscore_6: stay_ring_lumber_swing_turkey_menu
+bip_39_word_underscore_7: stay_ring_lumber_swing_turkey_menu_tail
+bip_39_word_underscore_8: stay_ring_lumber_swing_turkey_menu_tail_rail
+bip_39_word_underscore_9: stay_ring_lumber_swing_turkey_menu_tail_rail_amateur
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

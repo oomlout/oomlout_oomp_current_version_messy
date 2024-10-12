@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lottery |  
+| bip_39_word_dash_10 | lottery-tumble-cross-yard-matrix-universe-able-release-subway-later |  
+| bip_39_word_dash_11 | lottery-tumble-cross-yard-matrix-universe-able-release-subway-later-stone |  
+| bip_39_word_dash_12 | lottery-tumble-cross-yard-matrix-universe-able-release-subway-later-stone-account |  
+| bip_39_word_dash_2 | lottery-tumble |  
+| bip_39_word_dash_3 | lottery-tumble-cross |  
+| bip_39_word_dash_4 | lottery-tumble-cross-yard |  
+| bip_39_word_dash_5 | lottery-tumble-cross-yard-matrix |  
+| bip_39_word_dash_6 | lottery-tumble-cross-yard-matrix-universe |  
+| bip_39_word_dash_7 | lottery-tumble-cross-yard-matrix-universe-able |  
+| bip_39_word_dash_8 | lottery-tumble-cross-yard-matrix-universe-able-release |  
+| bip_39_word_dash_9 | lottery-tumble-cross-yard-matrix-universe-able-release-subway |  
 | bip_39_word_new_br_1 | lottery |  
 | bip_39_word_new_br_10 | lottery<br>tumble<br>cross<br>yard<br>matrix<br>universe<br>able<br>release<br>subway<br>later |  
 | bip_39_word_new_br_11 | lottery<br>tumble<br>cross<br>yard<br>matrix<br>universe<br>able<br>release<br>subway<br>later<br>stone |  
@@ -147,6 +159,18 @@ subway |
 | bip_39_word_space_7 | lottery tumble cross yard matrix universe able |  
 | bip_39_word_space_8 | lottery tumble cross yard matrix universe able release |  
 | bip_39_word_space_9 | lottery tumble cross yard matrix universe able release subway |  
+| bip_39_word_underscore_1 | lottery |  
+| bip_39_word_underscore_10 | lottery_tumble_cross_yard_matrix_universe_able_release_subway_later |  
+| bip_39_word_underscore_11 | lottery_tumble_cross_yard_matrix_universe_able_release_subway_later_stone |  
+| bip_39_word_underscore_12 | lottery_tumble_cross_yard_matrix_universe_able_release_subway_later_stone_account |  
+| bip_39_word_underscore_2 | lottery_tumble |  
+| bip_39_word_underscore_3 | lottery_tumble_cross |  
+| bip_39_word_underscore_4 | lottery_tumble_cross_yard |  
+| bip_39_word_underscore_5 | lottery_tumble_cross_yard_matrix |  
+| bip_39_word_underscore_6 | lottery_tumble_cross_yard_matrix_universe |  
+| bip_39_word_underscore_7 | lottery_tumble_cross_yard_matrix_universe_able |  
+| bip_39_word_underscore_8 | lottery_tumble_cross_yard_matrix_universe_able_release |  
+| bip_39_word_underscore_9 | lottery_tumble_cross_yard_matrix_universe_able_release_subway |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

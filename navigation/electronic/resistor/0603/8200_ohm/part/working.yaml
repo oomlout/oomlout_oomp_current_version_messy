@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sniff
+bip_39_word_dash_10: sniff-maze-build-airport-embody-decline-analyst-slot-wine-topic
+bip_39_word_dash_11: sniff-maze-build-airport-embody-decline-analyst-slot-wine-topic-mule
+bip_39_word_dash_12: sniff-maze-build-airport-embody-decline-analyst-slot-wine-topic-mule-appear
+bip_39_word_dash_2: sniff-maze
+bip_39_word_dash_3: sniff-maze-build
+bip_39_word_dash_4: sniff-maze-build-airport
+bip_39_word_dash_5: sniff-maze-build-airport-embody
+bip_39_word_dash_6: sniff-maze-build-airport-embody-decline
+bip_39_word_dash_7: sniff-maze-build-airport-embody-decline-analyst
+bip_39_word_dash_8: sniff-maze-build-airport-embody-decline-analyst-slot
+bip_39_word_dash_9: sniff-maze-build-airport-embody-decline-analyst-slot-wine
 bip_39_word_new_br_1: sniff
 bip_39_word_new_br_10: sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot<br>wine<br>topic
 bip_39_word_new_br_11: sniff<br>maze<br>build<br>airport<br>embody<br>decline<br>analyst<br>slot<br>wine<br>topic<br>mule
@@ -193,6 +205,18 @@ bip_39_word_space_6: sniff maze build airport embody decline
 bip_39_word_space_7: sniff maze build airport embody decline analyst
 bip_39_word_space_8: sniff maze build airport embody decline analyst slot
 bip_39_word_space_9: sniff maze build airport embody decline analyst slot wine
+bip_39_word_underscore_1: sniff
+bip_39_word_underscore_10: sniff_maze_build_airport_embody_decline_analyst_slot_wine_topic
+bip_39_word_underscore_11: sniff_maze_build_airport_embody_decline_analyst_slot_wine_topic_mule
+bip_39_word_underscore_12: sniff_maze_build_airport_embody_decline_analyst_slot_wine_topic_mule_appear
+bip_39_word_underscore_2: sniff_maze
+bip_39_word_underscore_3: sniff_maze_build
+bip_39_word_underscore_4: sniff_maze_build_airport
+bip_39_word_underscore_5: sniff_maze_build_airport_embody
+bip_39_word_underscore_6: sniff_maze_build_airport_embody_decline
+bip_39_word_underscore_7: sniff_maze_build_airport_embody_decline_analyst
+bip_39_word_underscore_8: sniff_maze_build_airport_embody_decline_analyst_slot
+bip_39_word_underscore_9: sniff_maze_build_airport_embody_decline_analyst_slot_wine
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

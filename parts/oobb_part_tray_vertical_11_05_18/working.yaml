@@ -1,3 +1,15 @@
+bip_39_word_dash_1: desert
+bip_39_word_dash_10: desert-else-rookie-coral-traffic-stay-tennis-crack-crunch-glove
+bip_39_word_dash_11: desert-else-rookie-coral-traffic-stay-tennis-crack-crunch-glove-truck
+bip_39_word_dash_12: desert-else-rookie-coral-traffic-stay-tennis-crack-crunch-glove-truck-arrow
+bip_39_word_dash_2: desert-else
+bip_39_word_dash_3: desert-else-rookie
+bip_39_word_dash_4: desert-else-rookie-coral
+bip_39_word_dash_5: desert-else-rookie-coral-traffic
+bip_39_word_dash_6: desert-else-rookie-coral-traffic-stay
+bip_39_word_dash_7: desert-else-rookie-coral-traffic-stay-tennis
+bip_39_word_dash_8: desert-else-rookie-coral-traffic-stay-tennis-crack
+bip_39_word_dash_9: desert-else-rookie-coral-traffic-stay-tennis-crack-crunch
 bip_39_word_new_br_1: desert
 bip_39_word_new_br_10: desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack<br>crunch<br>glove
 bip_39_word_new_br_11: desert<br>else<br>rookie<br>coral<br>traffic<br>stay<br>tennis<br>crack<br>crunch<br>glove<br>truck
@@ -193,6 +205,18 @@ bip_39_word_space_6: desert else rookie coral traffic stay
 bip_39_word_space_7: desert else rookie coral traffic stay tennis
 bip_39_word_space_8: desert else rookie coral traffic stay tennis crack
 bip_39_word_space_9: desert else rookie coral traffic stay tennis crack crunch
+bip_39_word_underscore_1: desert
+bip_39_word_underscore_10: desert_else_rookie_coral_traffic_stay_tennis_crack_crunch_glove
+bip_39_word_underscore_11: desert_else_rookie_coral_traffic_stay_tennis_crack_crunch_glove_truck
+bip_39_word_underscore_12: desert_else_rookie_coral_traffic_stay_tennis_crack_crunch_glove_truck_arrow
+bip_39_word_underscore_2: desert_else
+bip_39_word_underscore_3: desert_else_rookie
+bip_39_word_underscore_4: desert_else_rookie_coral
+bip_39_word_underscore_5: desert_else_rookie_coral_traffic
+bip_39_word_underscore_6: desert_else_rookie_coral_traffic_stay
+bip_39_word_underscore_7: desert_else_rookie_coral_traffic_stay_tennis
+bip_39_word_underscore_8: desert_else_rookie_coral_traffic_stay_tennis_crack
+bip_39_word_underscore_9: desert_else_rookie_coral_traffic_stay_tennis_crack_crunch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

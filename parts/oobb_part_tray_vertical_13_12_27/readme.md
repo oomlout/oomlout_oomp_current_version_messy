@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tell |  
+| bip_39_word_dash_10 | tell-keen-clean-liar-sport-foam-blind-search-rule-nation |  
+| bip_39_word_dash_11 | tell-keen-clean-liar-sport-foam-blind-search-rule-nation-fix |  
+| bip_39_word_dash_12 | tell-keen-clean-liar-sport-foam-blind-search-rule-nation-fix-affair |  
+| bip_39_word_dash_2 | tell-keen |  
+| bip_39_word_dash_3 | tell-keen-clean |  
+| bip_39_word_dash_4 | tell-keen-clean-liar |  
+| bip_39_word_dash_5 | tell-keen-clean-liar-sport |  
+| bip_39_word_dash_6 | tell-keen-clean-liar-sport-foam |  
+| bip_39_word_dash_7 | tell-keen-clean-liar-sport-foam-blind |  
+| bip_39_word_dash_8 | tell-keen-clean-liar-sport-foam-blind-search |  
+| bip_39_word_dash_9 | tell-keen-clean-liar-sport-foam-blind-search-rule |  
 | bip_39_word_new_br_1 | tell |  
 | bip_39_word_new_br_10 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation |  
 | bip_39_word_new_br_11 | tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation<br>fix |  
@@ -147,6 +159,18 @@ rule |
 | bip_39_word_space_7 | tell keen clean liar sport foam blind |  
 | bip_39_word_space_8 | tell keen clean liar sport foam blind search |  
 | bip_39_word_space_9 | tell keen clean liar sport foam blind search rule |  
+| bip_39_word_underscore_1 | tell |  
+| bip_39_word_underscore_10 | tell_keen_clean_liar_sport_foam_blind_search_rule_nation |  
+| bip_39_word_underscore_11 | tell_keen_clean_liar_sport_foam_blind_search_rule_nation_fix |  
+| bip_39_word_underscore_12 | tell_keen_clean_liar_sport_foam_blind_search_rule_nation_fix_affair |  
+| bip_39_word_underscore_2 | tell_keen |  
+| bip_39_word_underscore_3 | tell_keen_clean |  
+| bip_39_word_underscore_4 | tell_keen_clean_liar |  
+| bip_39_word_underscore_5 | tell_keen_clean_liar_sport |  
+| bip_39_word_underscore_6 | tell_keen_clean_liar_sport_foam |  
+| bip_39_word_underscore_7 | tell_keen_clean_liar_sport_foam_blind |  
+| bip_39_word_underscore_8 | tell_keen_clean_liar_sport_foam_blind_search |  
+| bip_39_word_underscore_9 | tell_keen_clean_liar_sport_foam_blind_search_rule |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ranch |  
+| bip_39_word_dash_10 | ranch-silk-endless-police-boil-talent-this-trust-horn-canoe |  
+| bip_39_word_dash_11 | ranch-silk-endless-police-boil-talent-this-trust-horn-canoe-predict |  
+| bip_39_word_dash_12 | ranch-silk-endless-police-boil-talent-this-trust-horn-canoe-predict-attract |  
+| bip_39_word_dash_2 | ranch-silk |  
+| bip_39_word_dash_3 | ranch-silk-endless |  
+| bip_39_word_dash_4 | ranch-silk-endless-police |  
+| bip_39_word_dash_5 | ranch-silk-endless-police-boil |  
+| bip_39_word_dash_6 | ranch-silk-endless-police-boil-talent |  
+| bip_39_word_dash_7 | ranch-silk-endless-police-boil-talent-this |  
+| bip_39_word_dash_8 | ranch-silk-endless-police-boil-talent-this-trust |  
+| bip_39_word_dash_9 | ranch-silk-endless-police-boil-talent-this-trust-horn |  
 | bip_39_word_new_br_1 | ranch |  
 | bip_39_word_new_br_10 | ranch<br>silk<br>endless<br>police<br>boil<br>talent<br>this<br>trust<br>horn<br>canoe |  
 | bip_39_word_new_br_11 | ranch<br>silk<br>endless<br>police<br>boil<br>talent<br>this<br>trust<br>horn<br>canoe<br>predict |  
@@ -147,6 +159,18 @@ horn |
 | bip_39_word_space_7 | ranch silk endless police boil talent this |  
 | bip_39_word_space_8 | ranch silk endless police boil talent this trust |  
 | bip_39_word_space_9 | ranch silk endless police boil talent this trust horn |  
+| bip_39_word_underscore_1 | ranch |  
+| bip_39_word_underscore_10 | ranch_silk_endless_police_boil_talent_this_trust_horn_canoe |  
+| bip_39_word_underscore_11 | ranch_silk_endless_police_boil_talent_this_trust_horn_canoe_predict |  
+| bip_39_word_underscore_12 | ranch_silk_endless_police_boil_talent_this_trust_horn_canoe_predict_attract |  
+| bip_39_word_underscore_2 | ranch_silk |  
+| bip_39_word_underscore_3 | ranch_silk_endless |  
+| bip_39_word_underscore_4 | ranch_silk_endless_police |  
+| bip_39_word_underscore_5 | ranch_silk_endless_police_boil |  
+| bip_39_word_underscore_6 | ranch_silk_endless_police_boil_talent |  
+| bip_39_word_underscore_7 | ranch_silk_endless_police_boil_talent_this |  
+| bip_39_word_underscore_8 | ranch_silk_endless_police_boil_talent_this_trust |  
+| bip_39_word_underscore_9 | ranch_silk_endless_police_boil_talent_this_trust_horn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | close |  
+| bip_39_word_dash_10 | close-tone-rib-canoe-mother-boat-rather-hungry-celery-dress |  
+| bip_39_word_dash_11 | close-tone-rib-canoe-mother-boat-rather-hungry-celery-dress-cement |  
+| bip_39_word_dash_12 | close-tone-rib-canoe-mother-boat-rather-hungry-celery-dress-cement-ankle |  
+| bip_39_word_dash_2 | close-tone |  
+| bip_39_word_dash_3 | close-tone-rib |  
+| bip_39_word_dash_4 | close-tone-rib-canoe |  
+| bip_39_word_dash_5 | close-tone-rib-canoe-mother |  
+| bip_39_word_dash_6 | close-tone-rib-canoe-mother-boat |  
+| bip_39_word_dash_7 | close-tone-rib-canoe-mother-boat-rather |  
+| bip_39_word_dash_8 | close-tone-rib-canoe-mother-boat-rather-hungry |  
+| bip_39_word_dash_9 | close-tone-rib-canoe-mother-boat-rather-hungry-celery |  
 | bip_39_word_new_br_1 | close |  
 | bip_39_word_new_br_10 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress |  
 | bip_39_word_new_br_11 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress<br>cement |  
@@ -147,6 +159,18 @@ celery |
 | bip_39_word_space_7 | close tone rib canoe mother boat rather |  
 | bip_39_word_space_8 | close tone rib canoe mother boat rather hungry |  
 | bip_39_word_space_9 | close tone rib canoe mother boat rather hungry celery |  
+| bip_39_word_underscore_1 | close |  
+| bip_39_word_underscore_10 | close_tone_rib_canoe_mother_boat_rather_hungry_celery_dress |  
+| bip_39_word_underscore_11 | close_tone_rib_canoe_mother_boat_rather_hungry_celery_dress_cement |  
+| bip_39_word_underscore_12 | close_tone_rib_canoe_mother_boat_rather_hungry_celery_dress_cement_ankle |  
+| bip_39_word_underscore_2 | close_tone |  
+| bip_39_word_underscore_3 | close_tone_rib |  
+| bip_39_word_underscore_4 | close_tone_rib_canoe |  
+| bip_39_word_underscore_5 | close_tone_rib_canoe_mother |  
+| bip_39_word_underscore_6 | close_tone_rib_canoe_mother_boat |  
+| bip_39_word_underscore_7 | close_tone_rib_canoe_mother_boat_rather |  
+| bip_39_word_underscore_8 | close_tone_rib_canoe_mother_boat_rather_hungry |  
+| bip_39_word_underscore_9 | close_tone_rib_canoe_mother_boat_rather_hungry_celery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

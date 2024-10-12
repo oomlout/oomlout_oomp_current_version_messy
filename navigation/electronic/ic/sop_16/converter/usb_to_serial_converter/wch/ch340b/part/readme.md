@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | venue |  
+| bip_39_word_dash_10 | venue-fantasy-story-setup-palace-run-glory-enrich-topic-suggest |  
+| bip_39_word_dash_11 | venue-fantasy-story-setup-palace-run-glory-enrich-topic-suggest-begin |  
+| bip_39_word_dash_12 | venue-fantasy-story-setup-palace-run-glory-enrich-topic-suggest-begin-attitude |  
+| bip_39_word_dash_2 | venue-fantasy |  
+| bip_39_word_dash_3 | venue-fantasy-story |  
+| bip_39_word_dash_4 | venue-fantasy-story-setup |  
+| bip_39_word_dash_5 | venue-fantasy-story-setup-palace |  
+| bip_39_word_dash_6 | venue-fantasy-story-setup-palace-run |  
+| bip_39_word_dash_7 | venue-fantasy-story-setup-palace-run-glory |  
+| bip_39_word_dash_8 | venue-fantasy-story-setup-palace-run-glory-enrich |  
+| bip_39_word_dash_9 | venue-fantasy-story-setup-palace-run-glory-enrich-topic |  
 | bip_39_word_new_br_1 | venue |  
 | bip_39_word_new_br_10 | venue<br>fantasy<br>story<br>setup<br>palace<br>run<br>glory<br>enrich<br>topic<br>suggest |  
 | bip_39_word_new_br_11 | venue<br>fantasy<br>story<br>setup<br>palace<br>run<br>glory<br>enrich<br>topic<br>suggest<br>begin |  
@@ -147,6 +159,18 @@ topic |
 | bip_39_word_space_7 | venue fantasy story setup palace run glory |  
 | bip_39_word_space_8 | venue fantasy story setup palace run glory enrich |  
 | bip_39_word_space_9 | venue fantasy story setup palace run glory enrich topic |  
+| bip_39_word_underscore_1 | venue |  
+| bip_39_word_underscore_10 | venue_fantasy_story_setup_palace_run_glory_enrich_topic_suggest |  
+| bip_39_word_underscore_11 | venue_fantasy_story_setup_palace_run_glory_enrich_topic_suggest_begin |  
+| bip_39_word_underscore_12 | venue_fantasy_story_setup_palace_run_glory_enrich_topic_suggest_begin_attitude |  
+| bip_39_word_underscore_2 | venue_fantasy |  
+| bip_39_word_underscore_3 | venue_fantasy_story |  
+| bip_39_word_underscore_4 | venue_fantasy_story_setup |  
+| bip_39_word_underscore_5 | venue_fantasy_story_setup_palace |  
+| bip_39_word_underscore_6 | venue_fantasy_story_setup_palace_run |  
+| bip_39_word_underscore_7 | venue_fantasy_story_setup_palace_run_glory |  
+| bip_39_word_underscore_8 | venue_fantasy_story_setup_palace_run_glory_enrich |  
+| bip_39_word_underscore_9 | venue_fantasy_story_setup_palace_run_glory_enrich_topic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

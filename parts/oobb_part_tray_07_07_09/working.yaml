@@ -1,3 +1,15 @@
+bip_39_word_dash_1: harvest
+bip_39_word_dash_10: harvest-dwarf-document-wasp-leg-such-pilot-nominee-shove-half
+bip_39_word_dash_11: harvest-dwarf-document-wasp-leg-such-pilot-nominee-shove-half-race
+bip_39_word_dash_12: harvest-dwarf-document-wasp-leg-such-pilot-nominee-shove-half-race-attitude
+bip_39_word_dash_2: harvest-dwarf
+bip_39_word_dash_3: harvest-dwarf-document
+bip_39_word_dash_4: harvest-dwarf-document-wasp
+bip_39_word_dash_5: harvest-dwarf-document-wasp-leg
+bip_39_word_dash_6: harvest-dwarf-document-wasp-leg-such
+bip_39_word_dash_7: harvest-dwarf-document-wasp-leg-such-pilot
+bip_39_word_dash_8: harvest-dwarf-document-wasp-leg-such-pilot-nominee
+bip_39_word_dash_9: harvest-dwarf-document-wasp-leg-such-pilot-nominee-shove
 bip_39_word_new_br_1: harvest
 bip_39_word_new_br_10: harvest<br>dwarf<br>document<br>wasp<br>leg<br>such<br>pilot<br>nominee<br>shove<br>half
 bip_39_word_new_br_11: harvest<br>dwarf<br>document<br>wasp<br>leg<br>such<br>pilot<br>nominee<br>shove<br>half<br>race
@@ -193,6 +205,18 @@ bip_39_word_space_6: harvest dwarf document wasp leg such
 bip_39_word_space_7: harvest dwarf document wasp leg such pilot
 bip_39_word_space_8: harvest dwarf document wasp leg such pilot nominee
 bip_39_word_space_9: harvest dwarf document wasp leg such pilot nominee shove
+bip_39_word_underscore_1: harvest
+bip_39_word_underscore_10: harvest_dwarf_document_wasp_leg_such_pilot_nominee_shove_half
+bip_39_word_underscore_11: harvest_dwarf_document_wasp_leg_such_pilot_nominee_shove_half_race
+bip_39_word_underscore_12: harvest_dwarf_document_wasp_leg_such_pilot_nominee_shove_half_race_attitude
+bip_39_word_underscore_2: harvest_dwarf
+bip_39_word_underscore_3: harvest_dwarf_document
+bip_39_word_underscore_4: harvest_dwarf_document_wasp
+bip_39_word_underscore_5: harvest_dwarf_document_wasp_leg
+bip_39_word_underscore_6: harvest_dwarf_document_wasp_leg_such
+bip_39_word_underscore_7: harvest_dwarf_document_wasp_leg_such_pilot
+bip_39_word_underscore_8: harvest_dwarf_document_wasp_leg_such_pilot_nominee
+bip_39_word_underscore_9: harvest_dwarf_document_wasp_leg_such_pilot_nominee_shove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | harvest |  
+| bip_39_word_dash_10 | harvest-habit-scatter-frozen-legal-draw-suit-pull-gap-gold |  
+| bip_39_word_dash_11 | harvest-habit-scatter-frozen-legal-draw-suit-pull-gap-gold-neutral |  
+| bip_39_word_dash_12 | harvest-habit-scatter-frozen-legal-draw-suit-pull-gap-gold-neutral-antique |  
+| bip_39_word_dash_2 | harvest-habit |  
+| bip_39_word_dash_3 | harvest-habit-scatter |  
+| bip_39_word_dash_4 | harvest-habit-scatter-frozen |  
+| bip_39_word_dash_5 | harvest-habit-scatter-frozen-legal |  
+| bip_39_word_dash_6 | harvest-habit-scatter-frozen-legal-draw |  
+| bip_39_word_dash_7 | harvest-habit-scatter-frozen-legal-draw-suit |  
+| bip_39_word_dash_8 | harvest-habit-scatter-frozen-legal-draw-suit-pull |  
+| bip_39_word_dash_9 | harvest-habit-scatter-frozen-legal-draw-suit-pull-gap |  
 | bip_39_word_new_br_1 | harvest |  
 | bip_39_word_new_br_10 | harvest<br>habit<br>scatter<br>frozen<br>legal<br>draw<br>suit<br>pull<br>gap<br>gold |  
 | bip_39_word_new_br_11 | harvest<br>habit<br>scatter<br>frozen<br>legal<br>draw<br>suit<br>pull<br>gap<br>gold<br>neutral |  
@@ -147,6 +159,18 @@ gap |
 | bip_39_word_space_7 | harvest habit scatter frozen legal draw suit |  
 | bip_39_word_space_8 | harvest habit scatter frozen legal draw suit pull |  
 | bip_39_word_space_9 | harvest habit scatter frozen legal draw suit pull gap |  
+| bip_39_word_underscore_1 | harvest |  
+| bip_39_word_underscore_10 | harvest_habit_scatter_frozen_legal_draw_suit_pull_gap_gold |  
+| bip_39_word_underscore_11 | harvest_habit_scatter_frozen_legal_draw_suit_pull_gap_gold_neutral |  
+| bip_39_word_underscore_12 | harvest_habit_scatter_frozen_legal_draw_suit_pull_gap_gold_neutral_antique |  
+| bip_39_word_underscore_2 | harvest_habit |  
+| bip_39_word_underscore_3 | harvest_habit_scatter |  
+| bip_39_word_underscore_4 | harvest_habit_scatter_frozen |  
+| bip_39_word_underscore_5 | harvest_habit_scatter_frozen_legal |  
+| bip_39_word_underscore_6 | harvest_habit_scatter_frozen_legal_draw |  
+| bip_39_word_underscore_7 | harvest_habit_scatter_frozen_legal_draw_suit |  
+| bip_39_word_underscore_8 | harvest_habit_scatter_frozen_legal_draw_suit_pull |  
+| bip_39_word_underscore_9 | harvest_habit_scatter_frozen_legal_draw_suit_pull_gap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

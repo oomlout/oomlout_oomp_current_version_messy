@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mimic
+bip_39_word_dash_10: mimic-trouble-tiger-pudding-pencil-happy-draft-edge-knock-help
+bip_39_word_dash_11: mimic-trouble-tiger-pudding-pencil-happy-draft-edge-knock-help-parade
+bip_39_word_dash_12: mimic-trouble-tiger-pudding-pencil-happy-draft-edge-knock-help-parade-accuse
+bip_39_word_dash_2: mimic-trouble
+bip_39_word_dash_3: mimic-trouble-tiger
+bip_39_word_dash_4: mimic-trouble-tiger-pudding
+bip_39_word_dash_5: mimic-trouble-tiger-pudding-pencil
+bip_39_word_dash_6: mimic-trouble-tiger-pudding-pencil-happy
+bip_39_word_dash_7: mimic-trouble-tiger-pudding-pencil-happy-draft
+bip_39_word_dash_8: mimic-trouble-tiger-pudding-pencil-happy-draft-edge
+bip_39_word_dash_9: mimic-trouble-tiger-pudding-pencil-happy-draft-edge-knock
 bip_39_word_new_br_1: mimic
 bip_39_word_new_br_10: mimic<br>trouble<br>tiger<br>pudding<br>pencil<br>happy<br>draft<br>edge<br>knock<br>help
 bip_39_word_new_br_11: mimic<br>trouble<br>tiger<br>pudding<br>pencil<br>happy<br>draft<br>edge<br>knock<br>help<br>parade
@@ -193,6 +205,18 @@ bip_39_word_space_6: mimic trouble tiger pudding pencil happy
 bip_39_word_space_7: mimic trouble tiger pudding pencil happy draft
 bip_39_word_space_8: mimic trouble tiger pudding pencil happy draft edge
 bip_39_word_space_9: mimic trouble tiger pudding pencil happy draft edge knock
+bip_39_word_underscore_1: mimic
+bip_39_word_underscore_10: mimic_trouble_tiger_pudding_pencil_happy_draft_edge_knock_help
+bip_39_word_underscore_11: mimic_trouble_tiger_pudding_pencil_happy_draft_edge_knock_help_parade
+bip_39_word_underscore_12: mimic_trouble_tiger_pudding_pencil_happy_draft_edge_knock_help_parade_accuse
+bip_39_word_underscore_2: mimic_trouble
+bip_39_word_underscore_3: mimic_trouble_tiger
+bip_39_word_underscore_4: mimic_trouble_tiger_pudding
+bip_39_word_underscore_5: mimic_trouble_tiger_pudding_pencil
+bip_39_word_underscore_6: mimic_trouble_tiger_pudding_pencil_happy
+bip_39_word_underscore_7: mimic_trouble_tiger_pudding_pencil_happy_draft
+bip_39_word_underscore_8: mimic_trouble_tiger_pudding_pencil_happy_draft_edge
+bip_39_word_underscore_9: mimic_trouble_tiger_pudding_pencil_happy_draft_edge_knock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

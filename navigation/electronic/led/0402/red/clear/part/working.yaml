@@ -1,3 +1,15 @@
+bip_39_word_dash_1: neck
+bip_39_word_dash_10: neck-enable-sweet-bunker-busy-scissors-little-fee-six-stage
+bip_39_word_dash_11: neck-enable-sweet-bunker-busy-scissors-little-fee-six-stage-pen
+bip_39_word_dash_12: neck-enable-sweet-bunker-busy-scissors-little-fee-six-stage-pen-avocado
+bip_39_word_dash_2: neck-enable
+bip_39_word_dash_3: neck-enable-sweet
+bip_39_word_dash_4: neck-enable-sweet-bunker
+bip_39_word_dash_5: neck-enable-sweet-bunker-busy
+bip_39_word_dash_6: neck-enable-sweet-bunker-busy-scissors
+bip_39_word_dash_7: neck-enable-sweet-bunker-busy-scissors-little
+bip_39_word_dash_8: neck-enable-sweet-bunker-busy-scissors-little-fee
+bip_39_word_dash_9: neck-enable-sweet-bunker-busy-scissors-little-fee-six
 bip_39_word_new_br_1: neck
 bip_39_word_new_br_10: neck<br>enable<br>sweet<br>bunker<br>busy<br>scissors<br>little<br>fee<br>six<br>stage
 bip_39_word_new_br_11: neck<br>enable<br>sweet<br>bunker<br>busy<br>scissors<br>little<br>fee<br>six<br>stage<br>pen
@@ -193,6 +205,18 @@ bip_39_word_space_6: neck enable sweet bunker busy scissors
 bip_39_word_space_7: neck enable sweet bunker busy scissors little
 bip_39_word_space_8: neck enable sweet bunker busy scissors little fee
 bip_39_word_space_9: neck enable sweet bunker busy scissors little fee six
+bip_39_word_underscore_1: neck
+bip_39_word_underscore_10: neck_enable_sweet_bunker_busy_scissors_little_fee_six_stage
+bip_39_word_underscore_11: neck_enable_sweet_bunker_busy_scissors_little_fee_six_stage_pen
+bip_39_word_underscore_12: neck_enable_sweet_bunker_busy_scissors_little_fee_six_stage_pen_avocado
+bip_39_word_underscore_2: neck_enable
+bip_39_word_underscore_3: neck_enable_sweet
+bip_39_word_underscore_4: neck_enable_sweet_bunker
+bip_39_word_underscore_5: neck_enable_sweet_bunker_busy
+bip_39_word_underscore_6: neck_enable_sweet_bunker_busy_scissors
+bip_39_word_underscore_7: neck_enable_sweet_bunker_busy_scissors_little
+bip_39_word_underscore_8: neck_enable_sweet_bunker_busy_scissors_little_fee
+bip_39_word_underscore_9: neck_enable_sweet_bunker_busy_scissors_little_fee_six
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

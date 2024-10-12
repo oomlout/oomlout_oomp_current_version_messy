@@ -1,3 +1,15 @@
+bip_39_word_dash_1: limb
+bip_39_word_dash_10: limb-success-column-good-option-kiss-session-limb-cube-debate
+bip_39_word_dash_11: limb-success-column-good-option-kiss-session-limb-cube-debate-furnace
+bip_39_word_dash_12: limb-success-column-good-option-kiss-session-limb-cube-debate-furnace-able
+bip_39_word_dash_2: limb-success
+bip_39_word_dash_3: limb-success-column
+bip_39_word_dash_4: limb-success-column-good
+bip_39_word_dash_5: limb-success-column-good-option
+bip_39_word_dash_6: limb-success-column-good-option-kiss
+bip_39_word_dash_7: limb-success-column-good-option-kiss-session
+bip_39_word_dash_8: limb-success-column-good-option-kiss-session-limb
+bip_39_word_dash_9: limb-success-column-good-option-kiss-session-limb-cube
 bip_39_word_new_br_1: limb
 bip_39_word_new_br_10: limb<br>success<br>column<br>good<br>option<br>kiss<br>session<br>limb<br>cube<br>debate
 bip_39_word_new_br_11: limb<br>success<br>column<br>good<br>option<br>kiss<br>session<br>limb<br>cube<br>debate<br>furnace
@@ -193,6 +205,18 @@ bip_39_word_space_6: limb success column good option kiss
 bip_39_word_space_7: limb success column good option kiss session
 bip_39_word_space_8: limb success column good option kiss session limb
 bip_39_word_space_9: limb success column good option kiss session limb cube
+bip_39_word_underscore_1: limb
+bip_39_word_underscore_10: limb_success_column_good_option_kiss_session_limb_cube_debate
+bip_39_word_underscore_11: limb_success_column_good_option_kiss_session_limb_cube_debate_furnace
+bip_39_word_underscore_12: limb_success_column_good_option_kiss_session_limb_cube_debate_furnace_able
+bip_39_word_underscore_2: limb_success
+bip_39_word_underscore_3: limb_success_column
+bip_39_word_underscore_4: limb_success_column_good
+bip_39_word_underscore_5: limb_success_column_good_option
+bip_39_word_underscore_6: limb_success_column_good_option_kiss
+bip_39_word_underscore_7: limb_success_column_good_option_kiss_session
+bip_39_word_underscore_8: limb_success_column_good_option_kiss_session_limb
+bip_39_word_underscore_9: limb_success_column_good_option_kiss_session_limb_cube
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

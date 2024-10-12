@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drastic |  
+| bip_39_word_dash_10 | drastic-junior-orchard-lizard-patrol-robot-noodle-cross-cute-enough |  
+| bip_39_word_dash_11 | drastic-junior-orchard-lizard-patrol-robot-noodle-cross-cute-enough-sausage |  
+| bip_39_word_dash_12 | drastic-junior-orchard-lizard-patrol-robot-noodle-cross-cute-enough-sausage-across |  
+| bip_39_word_dash_2 | drastic-junior |  
+| bip_39_word_dash_3 | drastic-junior-orchard |  
+| bip_39_word_dash_4 | drastic-junior-orchard-lizard |  
+| bip_39_word_dash_5 | drastic-junior-orchard-lizard-patrol |  
+| bip_39_word_dash_6 | drastic-junior-orchard-lizard-patrol-robot |  
+| bip_39_word_dash_7 | drastic-junior-orchard-lizard-patrol-robot-noodle |  
+| bip_39_word_dash_8 | drastic-junior-orchard-lizard-patrol-robot-noodle-cross |  
+| bip_39_word_dash_9 | drastic-junior-orchard-lizard-patrol-robot-noodle-cross-cute |  
 | bip_39_word_new_br_1 | drastic |  
 | bip_39_word_new_br_10 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross<br>cute<br>enough |  
 | bip_39_word_new_br_11 | drastic<br>junior<br>orchard<br>lizard<br>patrol<br>robot<br>noodle<br>cross<br>cute<br>enough<br>sausage |  
@@ -147,6 +159,18 @@ cute |
 | bip_39_word_space_7 | drastic junior orchard lizard patrol robot noodle |  
 | bip_39_word_space_8 | drastic junior orchard lizard patrol robot noodle cross |  
 | bip_39_word_space_9 | drastic junior orchard lizard patrol robot noodle cross cute |  
+| bip_39_word_underscore_1 | drastic |  
+| bip_39_word_underscore_10 | drastic_junior_orchard_lizard_patrol_robot_noodle_cross_cute_enough |  
+| bip_39_word_underscore_11 | drastic_junior_orchard_lizard_patrol_robot_noodle_cross_cute_enough_sausage |  
+| bip_39_word_underscore_12 | drastic_junior_orchard_lizard_patrol_robot_noodle_cross_cute_enough_sausage_across |  
+| bip_39_word_underscore_2 | drastic_junior |  
+| bip_39_word_underscore_3 | drastic_junior_orchard |  
+| bip_39_word_underscore_4 | drastic_junior_orchard_lizard |  
+| bip_39_word_underscore_5 | drastic_junior_orchard_lizard_patrol |  
+| bip_39_word_underscore_6 | drastic_junior_orchard_lizard_patrol_robot |  
+| bip_39_word_underscore_7 | drastic_junior_orchard_lizard_patrol_robot_noodle |  
+| bip_39_word_underscore_8 | drastic_junior_orchard_lizard_patrol_robot_noodle_cross |  
+| bip_39_word_underscore_9 | drastic_junior_orchard_lizard_patrol_robot_noodle_cross_cute |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

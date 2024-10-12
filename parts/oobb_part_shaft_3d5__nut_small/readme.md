@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hen |  
+| bip_39_word_dash_10 | hen-purpose-dizzy-raven-tribe-foam-answer-dog-pen-purchase |  
+| bip_39_word_dash_11 | hen-purpose-dizzy-raven-tribe-foam-answer-dog-pen-purchase-valley |  
+| bip_39_word_dash_12 | hen-purpose-dizzy-raven-tribe-foam-answer-dog-pen-purchase-valley-attitude |  
+| bip_39_word_dash_2 | hen-purpose |  
+| bip_39_word_dash_3 | hen-purpose-dizzy |  
+| bip_39_word_dash_4 | hen-purpose-dizzy-raven |  
+| bip_39_word_dash_5 | hen-purpose-dizzy-raven-tribe |  
+| bip_39_word_dash_6 | hen-purpose-dizzy-raven-tribe-foam |  
+| bip_39_word_dash_7 | hen-purpose-dizzy-raven-tribe-foam-answer |  
+| bip_39_word_dash_8 | hen-purpose-dizzy-raven-tribe-foam-answer-dog |  
+| bip_39_word_dash_9 | hen-purpose-dizzy-raven-tribe-foam-answer-dog-pen |  
 | bip_39_word_new_br_1 | hen |  
 | bip_39_word_new_br_10 | hen<br>purpose<br>dizzy<br>raven<br>tribe<br>foam<br>answer<br>dog<br>pen<br>purchase |  
 | bip_39_word_new_br_11 | hen<br>purpose<br>dizzy<br>raven<br>tribe<br>foam<br>answer<br>dog<br>pen<br>purchase<br>valley |  
@@ -147,6 +159,18 @@ pen |
 | bip_39_word_space_7 | hen purpose dizzy raven tribe foam answer |  
 | bip_39_word_space_8 | hen purpose dizzy raven tribe foam answer dog |  
 | bip_39_word_space_9 | hen purpose dizzy raven tribe foam answer dog pen |  
+| bip_39_word_underscore_1 | hen |  
+| bip_39_word_underscore_10 | hen_purpose_dizzy_raven_tribe_foam_answer_dog_pen_purchase |  
+| bip_39_word_underscore_11 | hen_purpose_dizzy_raven_tribe_foam_answer_dog_pen_purchase_valley |  
+| bip_39_word_underscore_12 | hen_purpose_dizzy_raven_tribe_foam_answer_dog_pen_purchase_valley_attitude |  
+| bip_39_word_underscore_2 | hen_purpose |  
+| bip_39_word_underscore_3 | hen_purpose_dizzy |  
+| bip_39_word_underscore_4 | hen_purpose_dizzy_raven |  
+| bip_39_word_underscore_5 | hen_purpose_dizzy_raven_tribe |  
+| bip_39_word_underscore_6 | hen_purpose_dizzy_raven_tribe_foam |  
+| bip_39_word_underscore_7 | hen_purpose_dizzy_raven_tribe_foam_answer |  
+| bip_39_word_underscore_8 | hen_purpose_dizzy_raven_tribe_foam_answer_dog |  
+| bip_39_word_underscore_9 | hen_purpose_dizzy_raven_tribe_foam_answer_dog_pen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

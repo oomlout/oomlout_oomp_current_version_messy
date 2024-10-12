@@ -1,3 +1,15 @@
+bip_39_word_dash_1: art
+bip_39_word_dash_10: art-duck-slush-enrich-claw-prevent-scan-rigid-bean-bike
+bip_39_word_dash_11: art-duck-slush-enrich-claw-prevent-scan-rigid-bean-bike-music
+bip_39_word_dash_12: art-duck-slush-enrich-claw-prevent-scan-rigid-bean-bike-music-act
+bip_39_word_dash_2: art-duck
+bip_39_word_dash_3: art-duck-slush
+bip_39_word_dash_4: art-duck-slush-enrich
+bip_39_word_dash_5: art-duck-slush-enrich-claw
+bip_39_word_dash_6: art-duck-slush-enrich-claw-prevent
+bip_39_word_dash_7: art-duck-slush-enrich-claw-prevent-scan
+bip_39_word_dash_8: art-duck-slush-enrich-claw-prevent-scan-rigid
+bip_39_word_dash_9: art-duck-slush-enrich-claw-prevent-scan-rigid-bean
 bip_39_word_new_br_1: art
 bip_39_word_new_br_10: art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike
 bip_39_word_new_br_11: art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike<br>music
@@ -192,6 +204,18 @@ bip_39_word_space_6: art duck slush enrich claw prevent
 bip_39_word_space_7: art duck slush enrich claw prevent scan
 bip_39_word_space_8: art duck slush enrich claw prevent scan rigid
 bip_39_word_space_9: art duck slush enrich claw prevent scan rigid bean
+bip_39_word_underscore_1: art
+bip_39_word_underscore_10: art_duck_slush_enrich_claw_prevent_scan_rigid_bean_bike
+bip_39_word_underscore_11: art_duck_slush_enrich_claw_prevent_scan_rigid_bean_bike_music
+bip_39_word_underscore_12: art_duck_slush_enrich_claw_prevent_scan_rigid_bean_bike_music_act
+bip_39_word_underscore_2: art_duck
+bip_39_word_underscore_3: art_duck_slush
+bip_39_word_underscore_4: art_duck_slush_enrich
+bip_39_word_underscore_5: art_duck_slush_enrich_claw
+bip_39_word_underscore_6: art_duck_slush_enrich_claw_prevent
+bip_39_word_underscore_7: art_duck_slush_enrich_claw_prevent_scan
+bip_39_word_underscore_8: art_duck_slush_enrich_claw_prevent_scan_rigid
+bip_39_word_underscore_9: art_duck_slush_enrich_claw_prevent_scan_rigid_bean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fever |  
+| bip_39_word_dash_10 | fever-gold-essay-harvest-garden-road-divide-deal-bounce-someone |  
+| bip_39_word_dash_11 | fever-gold-essay-harvest-garden-road-divide-deal-bounce-someone-vacuum |  
+| bip_39_word_dash_12 | fever-gold-essay-harvest-garden-road-divide-deal-bounce-someone-vacuum-author |  
+| bip_39_word_dash_2 | fever-gold |  
+| bip_39_word_dash_3 | fever-gold-essay |  
+| bip_39_word_dash_4 | fever-gold-essay-harvest |  
+| bip_39_word_dash_5 | fever-gold-essay-harvest-garden |  
+| bip_39_word_dash_6 | fever-gold-essay-harvest-garden-road |  
+| bip_39_word_dash_7 | fever-gold-essay-harvest-garden-road-divide |  
+| bip_39_word_dash_8 | fever-gold-essay-harvest-garden-road-divide-deal |  
+| bip_39_word_dash_9 | fever-gold-essay-harvest-garden-road-divide-deal-bounce |  
 | bip_39_word_new_br_1 | fever |  
 | bip_39_word_new_br_10 | fever<br>gold<br>essay<br>harvest<br>garden<br>road<br>divide<br>deal<br>bounce<br>someone |  
 | bip_39_word_new_br_11 | fever<br>gold<br>essay<br>harvest<br>garden<br>road<br>divide<br>deal<br>bounce<br>someone<br>vacuum |  
@@ -147,6 +159,18 @@ bounce |
 | bip_39_word_space_7 | fever gold essay harvest garden road divide |  
 | bip_39_word_space_8 | fever gold essay harvest garden road divide deal |  
 | bip_39_word_space_9 | fever gold essay harvest garden road divide deal bounce |  
+| bip_39_word_underscore_1 | fever |  
+| bip_39_word_underscore_10 | fever_gold_essay_harvest_garden_road_divide_deal_bounce_someone |  
+| bip_39_word_underscore_11 | fever_gold_essay_harvest_garden_road_divide_deal_bounce_someone_vacuum |  
+| bip_39_word_underscore_12 | fever_gold_essay_harvest_garden_road_divide_deal_bounce_someone_vacuum_author |  
+| bip_39_word_underscore_2 | fever_gold |  
+| bip_39_word_underscore_3 | fever_gold_essay |  
+| bip_39_word_underscore_4 | fever_gold_essay_harvest |  
+| bip_39_word_underscore_5 | fever_gold_essay_harvest_garden |  
+| bip_39_word_underscore_6 | fever_gold_essay_harvest_garden_road |  
+| bip_39_word_underscore_7 | fever_gold_essay_harvest_garden_road_divide |  
+| bip_39_word_underscore_8 | fever_gold_essay_harvest_garden_road_divide_deal |  
+| bip_39_word_underscore_9 | fever_gold_essay_harvest_garden_road_divide_deal_bounce |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dance
+bip_39_word_dash_10: dance-exotic-snack-crumble-tissue-unfair-program-rebel-faculty-save
+bip_39_word_dash_11: dance-exotic-snack-crumble-tissue-unfair-program-rebel-faculty-save-arctic
+bip_39_word_dash_12: dance-exotic-snack-crumble-tissue-unfair-program-rebel-faculty-save-arctic-act
+bip_39_word_dash_2: dance-exotic
+bip_39_word_dash_3: dance-exotic-snack
+bip_39_word_dash_4: dance-exotic-snack-crumble
+bip_39_word_dash_5: dance-exotic-snack-crumble-tissue
+bip_39_word_dash_6: dance-exotic-snack-crumble-tissue-unfair
+bip_39_word_dash_7: dance-exotic-snack-crumble-tissue-unfair-program
+bip_39_word_dash_8: dance-exotic-snack-crumble-tissue-unfair-program-rebel
+bip_39_word_dash_9: dance-exotic-snack-crumble-tissue-unfair-program-rebel-faculty
 bip_39_word_new_br_1: dance
 bip_39_word_new_br_10: dance<br>exotic<br>snack<br>crumble<br>tissue<br>unfair<br>program<br>rebel<br>faculty<br>save
 bip_39_word_new_br_11: dance<br>exotic<br>snack<br>crumble<br>tissue<br>unfair<br>program<br>rebel<br>faculty<br>save<br>arctic
@@ -194,6 +206,18 @@ bip_39_word_space_6: dance exotic snack crumble tissue unfair
 bip_39_word_space_7: dance exotic snack crumble tissue unfair program
 bip_39_word_space_8: dance exotic snack crumble tissue unfair program rebel
 bip_39_word_space_9: dance exotic snack crumble tissue unfair program rebel faculty
+bip_39_word_underscore_1: dance
+bip_39_word_underscore_10: dance_exotic_snack_crumble_tissue_unfair_program_rebel_faculty_save
+bip_39_word_underscore_11: dance_exotic_snack_crumble_tissue_unfair_program_rebel_faculty_save_arctic
+bip_39_word_underscore_12: dance_exotic_snack_crumble_tissue_unfair_program_rebel_faculty_save_arctic_act
+bip_39_word_underscore_2: dance_exotic
+bip_39_word_underscore_3: dance_exotic_snack
+bip_39_word_underscore_4: dance_exotic_snack_crumble
+bip_39_word_underscore_5: dance_exotic_snack_crumble_tissue
+bip_39_word_underscore_6: dance_exotic_snack_crumble_tissue_unfair
+bip_39_word_underscore_7: dance_exotic_snack_crumble_tissue_unfair_program
+bip_39_word_underscore_8: dance_exotic_snack_crumble_tissue_unfair_program_rebel
+bip_39_word_underscore_9: dance_exotic_snack_crumble_tissue_unfair_program_rebel_faculty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | width |  
+| bip_39_word_dash_10 | width-cruel-lyrics-speed-check-fine-task-install-ride-erode |  
+| bip_39_word_dash_11 | width-cruel-lyrics-speed-check-fine-task-install-ride-erode-one |  
+| bip_39_word_dash_12 | width-cruel-lyrics-speed-check-fine-task-install-ride-erode-one-action |  
+| bip_39_word_dash_2 | width-cruel |  
+| bip_39_word_dash_3 | width-cruel-lyrics |  
+| bip_39_word_dash_4 | width-cruel-lyrics-speed |  
+| bip_39_word_dash_5 | width-cruel-lyrics-speed-check |  
+| bip_39_word_dash_6 | width-cruel-lyrics-speed-check-fine |  
+| bip_39_word_dash_7 | width-cruel-lyrics-speed-check-fine-task |  
+| bip_39_word_dash_8 | width-cruel-lyrics-speed-check-fine-task-install |  
+| bip_39_word_dash_9 | width-cruel-lyrics-speed-check-fine-task-install-ride |  
 | bip_39_word_new_br_1 | width |  
 | bip_39_word_new_br_10 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode |  
 | bip_39_word_new_br_11 | width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode<br>one |  
@@ -147,6 +159,18 @@ ride |
 | bip_39_word_space_7 | width cruel lyrics speed check fine task |  
 | bip_39_word_space_8 | width cruel lyrics speed check fine task install |  
 | bip_39_word_space_9 | width cruel lyrics speed check fine task install ride |  
+| bip_39_word_underscore_1 | width |  
+| bip_39_word_underscore_10 | width_cruel_lyrics_speed_check_fine_task_install_ride_erode |  
+| bip_39_word_underscore_11 | width_cruel_lyrics_speed_check_fine_task_install_ride_erode_one |  
+| bip_39_word_underscore_12 | width_cruel_lyrics_speed_check_fine_task_install_ride_erode_one_action |  
+| bip_39_word_underscore_2 | width_cruel |  
+| bip_39_word_underscore_3 | width_cruel_lyrics |  
+| bip_39_word_underscore_4 | width_cruel_lyrics_speed |  
+| bip_39_word_underscore_5 | width_cruel_lyrics_speed_check |  
+| bip_39_word_underscore_6 | width_cruel_lyrics_speed_check_fine |  
+| bip_39_word_underscore_7 | width_cruel_lyrics_speed_check_fine_task |  
+| bip_39_word_underscore_8 | width_cruel_lyrics_speed_check_fine_task_install |  
+| bip_39_word_underscore_9 | width_cruel_lyrics_speed_check_fine_task_install_ride |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vanish |  
+| bip_39_word_dash_10 | vanish-congress-moment-round-south-april-inquiry-cage-animal-above |  
+| bip_39_word_dash_11 | vanish-congress-moment-round-south-april-inquiry-cage-animal-above-scrub |  
+| bip_39_word_dash_12 | vanish-congress-moment-round-south-april-inquiry-cage-animal-above-scrub-again |  
+| bip_39_word_dash_2 | vanish-congress |  
+| bip_39_word_dash_3 | vanish-congress-moment |  
+| bip_39_word_dash_4 | vanish-congress-moment-round |  
+| bip_39_word_dash_5 | vanish-congress-moment-round-south |  
+| bip_39_word_dash_6 | vanish-congress-moment-round-south-april |  
+| bip_39_word_dash_7 | vanish-congress-moment-round-south-april-inquiry |  
+| bip_39_word_dash_8 | vanish-congress-moment-round-south-april-inquiry-cage |  
+| bip_39_word_dash_9 | vanish-congress-moment-round-south-april-inquiry-cage-animal |  
 | bip_39_word_new_br_1 | vanish |  
 | bip_39_word_new_br_10 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above |  
 | bip_39_word_new_br_11 | vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above<br>scrub |  
@@ -147,6 +159,18 @@ animal |
 | bip_39_word_space_7 | vanish congress moment round south april inquiry |  
 | bip_39_word_space_8 | vanish congress moment round south april inquiry cage |  
 | bip_39_word_space_9 | vanish congress moment round south april inquiry cage animal |  
+| bip_39_word_underscore_1 | vanish |  
+| bip_39_word_underscore_10 | vanish_congress_moment_round_south_april_inquiry_cage_animal_above |  
+| bip_39_word_underscore_11 | vanish_congress_moment_round_south_april_inquiry_cage_animal_above_scrub |  
+| bip_39_word_underscore_12 | vanish_congress_moment_round_south_april_inquiry_cage_animal_above_scrub_again |  
+| bip_39_word_underscore_2 | vanish_congress |  
+| bip_39_word_underscore_3 | vanish_congress_moment |  
+| bip_39_word_underscore_4 | vanish_congress_moment_round |  
+| bip_39_word_underscore_5 | vanish_congress_moment_round_south |  
+| bip_39_word_underscore_6 | vanish_congress_moment_round_south_april |  
+| bip_39_word_underscore_7 | vanish_congress_moment_round_south_april_inquiry |  
+| bip_39_word_underscore_8 | vanish_congress_moment_round_south_april_inquiry_cage |  
+| bip_39_word_underscore_9 | vanish_congress_moment_round_south_april_inquiry_cage_animal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

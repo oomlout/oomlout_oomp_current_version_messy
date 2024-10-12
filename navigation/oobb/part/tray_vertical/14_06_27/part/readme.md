@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rent |  
+| bip_39_word_dash_10 | rent-hero-leave-dumb-drift-timber-expire-margin-then-sugar |  
+| bip_39_word_dash_11 | rent-hero-leave-dumb-drift-timber-expire-margin-then-sugar-sting |  
+| bip_39_word_dash_12 | rent-hero-leave-dumb-drift-timber-expire-margin-then-sugar-sting-achieve |  
+| bip_39_word_dash_2 | rent-hero |  
+| bip_39_word_dash_3 | rent-hero-leave |  
+| bip_39_word_dash_4 | rent-hero-leave-dumb |  
+| bip_39_word_dash_5 | rent-hero-leave-dumb-drift |  
+| bip_39_word_dash_6 | rent-hero-leave-dumb-drift-timber |  
+| bip_39_word_dash_7 | rent-hero-leave-dumb-drift-timber-expire |  
+| bip_39_word_dash_8 | rent-hero-leave-dumb-drift-timber-expire-margin |  
+| bip_39_word_dash_9 | rent-hero-leave-dumb-drift-timber-expire-margin-then |  
 | bip_39_word_new_br_1 | rent |  
 | bip_39_word_new_br_10 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin<br>then<br>sugar |  
 | bip_39_word_new_br_11 | rent<br>hero<br>leave<br>dumb<br>drift<br>timber<br>expire<br>margin<br>then<br>sugar<br>sting |  
@@ -147,6 +159,18 @@ then |
 | bip_39_word_space_7 | rent hero leave dumb drift timber expire |  
 | bip_39_word_space_8 | rent hero leave dumb drift timber expire margin |  
 | bip_39_word_space_9 | rent hero leave dumb drift timber expire margin then |  
+| bip_39_word_underscore_1 | rent |  
+| bip_39_word_underscore_10 | rent_hero_leave_dumb_drift_timber_expire_margin_then_sugar |  
+| bip_39_word_underscore_11 | rent_hero_leave_dumb_drift_timber_expire_margin_then_sugar_sting |  
+| bip_39_word_underscore_12 | rent_hero_leave_dumb_drift_timber_expire_margin_then_sugar_sting_achieve |  
+| bip_39_word_underscore_2 | rent_hero |  
+| bip_39_word_underscore_3 | rent_hero_leave |  
+| bip_39_word_underscore_4 | rent_hero_leave_dumb |  
+| bip_39_word_underscore_5 | rent_hero_leave_dumb_drift |  
+| bip_39_word_underscore_6 | rent_hero_leave_dumb_drift_timber |  
+| bip_39_word_underscore_7 | rent_hero_leave_dumb_drift_timber_expire |  
+| bip_39_word_underscore_8 | rent_hero_leave_dumb_drift_timber_expire_margin |  
+| bip_39_word_underscore_9 | rent_hero_leave_dumb_drift_timber_expire_margin_then |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

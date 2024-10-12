@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | churn |  
+| bip_39_word_dash_10 | churn-soul-round-dizzy-have-chapter-relax-maple-razor-zone |  
+| bip_39_word_dash_11 | churn-soul-round-dizzy-have-chapter-relax-maple-razor-zone-enact |  
+| bip_39_word_dash_12 | churn-soul-round-dizzy-have-chapter-relax-maple-razor-zone-enact-assume |  
+| bip_39_word_dash_2 | churn-soul |  
+| bip_39_word_dash_3 | churn-soul-round |  
+| bip_39_word_dash_4 | churn-soul-round-dizzy |  
+| bip_39_word_dash_5 | churn-soul-round-dizzy-have |  
+| bip_39_word_dash_6 | churn-soul-round-dizzy-have-chapter |  
+| bip_39_word_dash_7 | churn-soul-round-dizzy-have-chapter-relax |  
+| bip_39_word_dash_8 | churn-soul-round-dizzy-have-chapter-relax-maple |  
+| bip_39_word_dash_9 | churn-soul-round-dizzy-have-chapter-relax-maple-razor |  
 | bip_39_word_new_br_1 | churn |  
 | bip_39_word_new_br_10 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple<br>razor<br>zone |  
 | bip_39_word_new_br_11 | churn<br>soul<br>round<br>dizzy<br>have<br>chapter<br>relax<br>maple<br>razor<br>zone<br>enact |  
@@ -147,6 +159,18 @@ razor |
 | bip_39_word_space_7 | churn soul round dizzy have chapter relax |  
 | bip_39_word_space_8 | churn soul round dizzy have chapter relax maple |  
 | bip_39_word_space_9 | churn soul round dizzy have chapter relax maple razor |  
+| bip_39_word_underscore_1 | churn |  
+| bip_39_word_underscore_10 | churn_soul_round_dizzy_have_chapter_relax_maple_razor_zone |  
+| bip_39_word_underscore_11 | churn_soul_round_dizzy_have_chapter_relax_maple_razor_zone_enact |  
+| bip_39_word_underscore_12 | churn_soul_round_dizzy_have_chapter_relax_maple_razor_zone_enact_assume |  
+| bip_39_word_underscore_2 | churn_soul |  
+| bip_39_word_underscore_3 | churn_soul_round |  
+| bip_39_word_underscore_4 | churn_soul_round_dizzy |  
+| bip_39_word_underscore_5 | churn_soul_round_dizzy_have |  
+| bip_39_word_underscore_6 | churn_soul_round_dizzy_have_chapter |  
+| bip_39_word_underscore_7 | churn_soul_round_dizzy_have_chapter_relax |  
+| bip_39_word_underscore_8 | churn_soul_round_dizzy_have_chapter_relax_maple |  
+| bip_39_word_underscore_9 | churn_soul_round_dizzy_have_chapter_relax_maple_razor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

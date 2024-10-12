@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vault |  
+| bip_39_word_dash_10 | vault-subject-nurse-labor-media-surface-place-match-ordinary-dignity |  
+| bip_39_word_dash_11 | vault-subject-nurse-labor-media-surface-place-match-ordinary-dignity-hospital |  
+| bip_39_word_dash_12 | vault-subject-nurse-labor-media-surface-place-match-ordinary-dignity-hospital-advice |  
+| bip_39_word_dash_2 | vault-subject |  
+| bip_39_word_dash_3 | vault-subject-nurse |  
+| bip_39_word_dash_4 | vault-subject-nurse-labor |  
+| bip_39_word_dash_5 | vault-subject-nurse-labor-media |  
+| bip_39_word_dash_6 | vault-subject-nurse-labor-media-surface |  
+| bip_39_word_dash_7 | vault-subject-nurse-labor-media-surface-place |  
+| bip_39_word_dash_8 | vault-subject-nurse-labor-media-surface-place-match |  
+| bip_39_word_dash_9 | vault-subject-nurse-labor-media-surface-place-match-ordinary |  
 | bip_39_word_new_br_1 | vault |  
 | bip_39_word_new_br_10 | vault<br>subject<br>nurse<br>labor<br>media<br>surface<br>place<br>match<br>ordinary<br>dignity |  
 | bip_39_word_new_br_11 | vault<br>subject<br>nurse<br>labor<br>media<br>surface<br>place<br>match<br>ordinary<br>dignity<br>hospital |  
@@ -147,6 +159,18 @@ ordinary |
 | bip_39_word_space_7 | vault subject nurse labor media surface place |  
 | bip_39_word_space_8 | vault subject nurse labor media surface place match |  
 | bip_39_word_space_9 | vault subject nurse labor media surface place match ordinary |  
+| bip_39_word_underscore_1 | vault |  
+| bip_39_word_underscore_10 | vault_subject_nurse_labor_media_surface_place_match_ordinary_dignity |  
+| bip_39_word_underscore_11 | vault_subject_nurse_labor_media_surface_place_match_ordinary_dignity_hospital |  
+| bip_39_word_underscore_12 | vault_subject_nurse_labor_media_surface_place_match_ordinary_dignity_hospital_advice |  
+| bip_39_word_underscore_2 | vault_subject |  
+| bip_39_word_underscore_3 | vault_subject_nurse |  
+| bip_39_word_underscore_4 | vault_subject_nurse_labor |  
+| bip_39_word_underscore_5 | vault_subject_nurse_labor_media |  
+| bip_39_word_underscore_6 | vault_subject_nurse_labor_media_surface |  
+| bip_39_word_underscore_7 | vault_subject_nurse_labor_media_surface_place |  
+| bip_39_word_underscore_8 | vault_subject_nurse_labor_media_surface_place_match |  
+| bip_39_word_underscore_9 | vault_subject_nurse_labor_media_surface_place_match_ordinary |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

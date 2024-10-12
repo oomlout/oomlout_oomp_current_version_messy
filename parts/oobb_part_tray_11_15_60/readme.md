@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unique |  
+| bip_39_word_dash_10 | unique-muffin-boss-involve-embody-giant-boss-discover-arrow-harsh |  
+| bip_39_word_dash_11 | unique-muffin-boss-involve-embody-giant-boss-discover-arrow-harsh-setup |  
+| bip_39_word_dash_12 | unique-muffin-boss-involve-embody-giant-boss-discover-arrow-harsh-setup-author |  
+| bip_39_word_dash_2 | unique-muffin |  
+| bip_39_word_dash_3 | unique-muffin-boss |  
+| bip_39_word_dash_4 | unique-muffin-boss-involve |  
+| bip_39_word_dash_5 | unique-muffin-boss-involve-embody |  
+| bip_39_word_dash_6 | unique-muffin-boss-involve-embody-giant |  
+| bip_39_word_dash_7 | unique-muffin-boss-involve-embody-giant-boss |  
+| bip_39_word_dash_8 | unique-muffin-boss-involve-embody-giant-boss-discover |  
+| bip_39_word_dash_9 | unique-muffin-boss-involve-embody-giant-boss-discover-arrow |  
 | bip_39_word_new_br_1 | unique |  
 | bip_39_word_new_br_10 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh |  
 | bip_39_word_new_br_11 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh<br>setup |  
@@ -147,6 +159,18 @@ arrow |
 | bip_39_word_space_7 | unique muffin boss involve embody giant boss |  
 | bip_39_word_space_8 | unique muffin boss involve embody giant boss discover |  
 | bip_39_word_space_9 | unique muffin boss involve embody giant boss discover arrow |  
+| bip_39_word_underscore_1 | unique |  
+| bip_39_word_underscore_10 | unique_muffin_boss_involve_embody_giant_boss_discover_arrow_harsh |  
+| bip_39_word_underscore_11 | unique_muffin_boss_involve_embody_giant_boss_discover_arrow_harsh_setup |  
+| bip_39_word_underscore_12 | unique_muffin_boss_involve_embody_giant_boss_discover_arrow_harsh_setup_author |  
+| bip_39_word_underscore_2 | unique_muffin |  
+| bip_39_word_underscore_3 | unique_muffin_boss |  
+| bip_39_word_underscore_4 | unique_muffin_boss_involve |  
+| bip_39_word_underscore_5 | unique_muffin_boss_involve_embody |  
+| bip_39_word_underscore_6 | unique_muffin_boss_involve_embody_giant |  
+| bip_39_word_underscore_7 | unique_muffin_boss_involve_embody_giant_boss |  
+| bip_39_word_underscore_8 | unique_muffin_boss_involve_embody_giant_boss_discover |  
+| bip_39_word_underscore_9 | unique_muffin_boss_involve_embody_giant_boss_discover_arrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

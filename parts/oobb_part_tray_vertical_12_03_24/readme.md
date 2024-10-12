@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | load |  
+| bip_39_word_dash_10 | load-tonight-stuff-argue-brain-devote-table-cactus-between-boil |  
+| bip_39_word_dash_11 | load-tonight-stuff-argue-brain-devote-table-cactus-between-boil-key |  
+| bip_39_word_dash_12 | load-tonight-stuff-argue-brain-devote-table-cactus-between-boil-key-accuse |  
+| bip_39_word_dash_2 | load-tonight |  
+| bip_39_word_dash_3 | load-tonight-stuff |  
+| bip_39_word_dash_4 | load-tonight-stuff-argue |  
+| bip_39_word_dash_5 | load-tonight-stuff-argue-brain |  
+| bip_39_word_dash_6 | load-tonight-stuff-argue-brain-devote |  
+| bip_39_word_dash_7 | load-tonight-stuff-argue-brain-devote-table |  
+| bip_39_word_dash_8 | load-tonight-stuff-argue-brain-devote-table-cactus |  
+| bip_39_word_dash_9 | load-tonight-stuff-argue-brain-devote-table-cactus-between |  
 | bip_39_word_new_br_1 | load |  
 | bip_39_word_new_br_10 | load<br>tonight<br>stuff<br>argue<br>brain<br>devote<br>table<br>cactus<br>between<br>boil |  
 | bip_39_word_new_br_11 | load<br>tonight<br>stuff<br>argue<br>brain<br>devote<br>table<br>cactus<br>between<br>boil<br>key |  
@@ -147,6 +159,18 @@ between |
 | bip_39_word_space_7 | load tonight stuff argue brain devote table |  
 | bip_39_word_space_8 | load tonight stuff argue brain devote table cactus |  
 | bip_39_word_space_9 | load tonight stuff argue brain devote table cactus between |  
+| bip_39_word_underscore_1 | load |  
+| bip_39_word_underscore_10 | load_tonight_stuff_argue_brain_devote_table_cactus_between_boil |  
+| bip_39_word_underscore_11 | load_tonight_stuff_argue_brain_devote_table_cactus_between_boil_key |  
+| bip_39_word_underscore_12 | load_tonight_stuff_argue_brain_devote_table_cactus_between_boil_key_accuse |  
+| bip_39_word_underscore_2 | load_tonight |  
+| bip_39_word_underscore_3 | load_tonight_stuff |  
+| bip_39_word_underscore_4 | load_tonight_stuff_argue |  
+| bip_39_word_underscore_5 | load_tonight_stuff_argue_brain |  
+| bip_39_word_underscore_6 | load_tonight_stuff_argue_brain_devote |  
+| bip_39_word_underscore_7 | load_tonight_stuff_argue_brain_devote_table |  
+| bip_39_word_underscore_8 | load_tonight_stuff_argue_brain_devote_table_cactus |  
+| bip_39_word_underscore_9 | load_tonight_stuff_argue_brain_devote_table_cactus_between |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

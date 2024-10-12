@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | first |  
+| bip_39_word_dash_10 | first-blue-convince-bounce-drop-enter-timber-anchor-luxury-speak |  
+| bip_39_word_dash_11 | first-blue-convince-bounce-drop-enter-timber-anchor-luxury-speak-expire |  
+| bip_39_word_dash_12 | first-blue-convince-bounce-drop-enter-timber-anchor-luxury-speak-expire-attitude |  
+| bip_39_word_dash_2 | first-blue |  
+| bip_39_word_dash_3 | first-blue-convince |  
+| bip_39_word_dash_4 | first-blue-convince-bounce |  
+| bip_39_word_dash_5 | first-blue-convince-bounce-drop |  
+| bip_39_word_dash_6 | first-blue-convince-bounce-drop-enter |  
+| bip_39_word_dash_7 | first-blue-convince-bounce-drop-enter-timber |  
+| bip_39_word_dash_8 | first-blue-convince-bounce-drop-enter-timber-anchor |  
+| bip_39_word_dash_9 | first-blue-convince-bounce-drop-enter-timber-anchor-luxury |  
 | bip_39_word_new_br_1 | first |  
 | bip_39_word_new_br_10 | first<br>blue<br>convince<br>bounce<br>drop<br>enter<br>timber<br>anchor<br>luxury<br>speak |  
 | bip_39_word_new_br_11 | first<br>blue<br>convince<br>bounce<br>drop<br>enter<br>timber<br>anchor<br>luxury<br>speak<br>expire |  
@@ -147,6 +159,18 @@ luxury |
 | bip_39_word_space_7 | first blue convince bounce drop enter timber |  
 | bip_39_word_space_8 | first blue convince bounce drop enter timber anchor |  
 | bip_39_word_space_9 | first blue convince bounce drop enter timber anchor luxury |  
+| bip_39_word_underscore_1 | first |  
+| bip_39_word_underscore_10 | first_blue_convince_bounce_drop_enter_timber_anchor_luxury_speak |  
+| bip_39_word_underscore_11 | first_blue_convince_bounce_drop_enter_timber_anchor_luxury_speak_expire |  
+| bip_39_word_underscore_12 | first_blue_convince_bounce_drop_enter_timber_anchor_luxury_speak_expire_attitude |  
+| bip_39_word_underscore_2 | first_blue |  
+| bip_39_word_underscore_3 | first_blue_convince |  
+| bip_39_word_underscore_4 | first_blue_convince_bounce |  
+| bip_39_word_underscore_5 | first_blue_convince_bounce_drop |  
+| bip_39_word_underscore_6 | first_blue_convince_bounce_drop_enter |  
+| bip_39_word_underscore_7 | first_blue_convince_bounce_drop_enter_timber |  
+| bip_39_word_underscore_8 | first_blue_convince_bounce_drop_enter_timber_anchor |  
+| bip_39_word_underscore_9 | first_blue_convince_bounce_drop_enter_timber_anchor_luxury |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

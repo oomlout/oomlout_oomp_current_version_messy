@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | produce |  
+| bip_39_word_dash_10 | produce-exhibit-sausage-path-erupt-demand-chef-wife-balance-drill |  
+| bip_39_word_dash_11 | produce-exhibit-sausage-path-erupt-demand-chef-wife-balance-drill-inmate |  
+| bip_39_word_dash_12 | produce-exhibit-sausage-path-erupt-demand-chef-wife-balance-drill-inmate-assault |  
+| bip_39_word_dash_2 | produce-exhibit |  
+| bip_39_word_dash_3 | produce-exhibit-sausage |  
+| bip_39_word_dash_4 | produce-exhibit-sausage-path |  
+| bip_39_word_dash_5 | produce-exhibit-sausage-path-erupt |  
+| bip_39_word_dash_6 | produce-exhibit-sausage-path-erupt-demand |  
+| bip_39_word_dash_7 | produce-exhibit-sausage-path-erupt-demand-chef |  
+| bip_39_word_dash_8 | produce-exhibit-sausage-path-erupt-demand-chef-wife |  
+| bip_39_word_dash_9 | produce-exhibit-sausage-path-erupt-demand-chef-wife-balance |  
 | bip_39_word_new_br_1 | produce |  
 | bip_39_word_new_br_10 | produce<br>exhibit<br>sausage<br>path<br>erupt<br>demand<br>chef<br>wife<br>balance<br>drill |  
 | bip_39_word_new_br_11 | produce<br>exhibit<br>sausage<br>path<br>erupt<br>demand<br>chef<br>wife<br>balance<br>drill<br>inmate |  
@@ -147,6 +159,18 @@ balance |
 | bip_39_word_space_7 | produce exhibit sausage path erupt demand chef |  
 | bip_39_word_space_8 | produce exhibit sausage path erupt demand chef wife |  
 | bip_39_word_space_9 | produce exhibit sausage path erupt demand chef wife balance |  
+| bip_39_word_underscore_1 | produce |  
+| bip_39_word_underscore_10 | produce_exhibit_sausage_path_erupt_demand_chef_wife_balance_drill |  
+| bip_39_word_underscore_11 | produce_exhibit_sausage_path_erupt_demand_chef_wife_balance_drill_inmate |  
+| bip_39_word_underscore_12 | produce_exhibit_sausage_path_erupt_demand_chef_wife_balance_drill_inmate_assault |  
+| bip_39_word_underscore_2 | produce_exhibit |  
+| bip_39_word_underscore_3 | produce_exhibit_sausage |  
+| bip_39_word_underscore_4 | produce_exhibit_sausage_path |  
+| bip_39_word_underscore_5 | produce_exhibit_sausage_path_erupt |  
+| bip_39_word_underscore_6 | produce_exhibit_sausage_path_erupt_demand |  
+| bip_39_word_underscore_7 | produce_exhibit_sausage_path_erupt_demand_chef |  
+| bip_39_word_underscore_8 | produce_exhibit_sausage_path_erupt_demand_chef_wife |  
+| bip_39_word_underscore_9 | produce_exhibit_sausage_path_erupt_demand_chef_wife_balance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

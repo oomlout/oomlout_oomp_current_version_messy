@@ -1,3 +1,15 @@
+bip_39_word_dash_1: slow
+bip_39_word_dash_10: slow-keen-predict-wealth-direct-lab-anxiety-planet-glove-laptop
+bip_39_word_dash_11: slow-keen-predict-wealth-direct-lab-anxiety-planet-glove-laptop-check
+bip_39_word_dash_12: slow-keen-predict-wealth-direct-lab-anxiety-planet-glove-laptop-check-acquire
+bip_39_word_dash_2: slow-keen
+bip_39_word_dash_3: slow-keen-predict
+bip_39_word_dash_4: slow-keen-predict-wealth
+bip_39_word_dash_5: slow-keen-predict-wealth-direct
+bip_39_word_dash_6: slow-keen-predict-wealth-direct-lab
+bip_39_word_dash_7: slow-keen-predict-wealth-direct-lab-anxiety
+bip_39_word_dash_8: slow-keen-predict-wealth-direct-lab-anxiety-planet
+bip_39_word_dash_9: slow-keen-predict-wealth-direct-lab-anxiety-planet-glove
 bip_39_word_new_br_1: slow
 bip_39_word_new_br_10: slow<br>keen<br>predict<br>wealth<br>direct<br>lab<br>anxiety<br>planet<br>glove<br>laptop
 bip_39_word_new_br_11: slow<br>keen<br>predict<br>wealth<br>direct<br>lab<br>anxiety<br>planet<br>glove<br>laptop<br>check
@@ -193,6 +205,18 @@ bip_39_word_space_6: slow keen predict wealth direct lab
 bip_39_word_space_7: slow keen predict wealth direct lab anxiety
 bip_39_word_space_8: slow keen predict wealth direct lab anxiety planet
 bip_39_word_space_9: slow keen predict wealth direct lab anxiety planet glove
+bip_39_word_underscore_1: slow
+bip_39_word_underscore_10: slow_keen_predict_wealth_direct_lab_anxiety_planet_glove_laptop
+bip_39_word_underscore_11: slow_keen_predict_wealth_direct_lab_anxiety_planet_glove_laptop_check
+bip_39_word_underscore_12: slow_keen_predict_wealth_direct_lab_anxiety_planet_glove_laptop_check_acquire
+bip_39_word_underscore_2: slow_keen
+bip_39_word_underscore_3: slow_keen_predict
+bip_39_word_underscore_4: slow_keen_predict_wealth
+bip_39_word_underscore_5: slow_keen_predict_wealth_direct
+bip_39_word_underscore_6: slow_keen_predict_wealth_direct_lab
+bip_39_word_underscore_7: slow_keen_predict_wealth_direct_lab_anxiety
+bip_39_word_underscore_8: slow_keen_predict_wealth_direct_lab_anxiety_planet
+bip_39_word_underscore_9: slow_keen_predict_wealth_direct_lab_anxiety_planet_glove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: logic
+bip_39_word_dash_10: logic-hover-swarm-wage-case-skirt-common-pepper-inflict-virus
+bip_39_word_dash_11: logic-hover-swarm-wage-case-skirt-common-pepper-inflict-virus-duck
+bip_39_word_dash_12: logic-hover-swarm-wage-case-skirt-common-pepper-inflict-virus-duck-anchor
+bip_39_word_dash_2: logic-hover
+bip_39_word_dash_3: logic-hover-swarm
+bip_39_word_dash_4: logic-hover-swarm-wage
+bip_39_word_dash_5: logic-hover-swarm-wage-case
+bip_39_word_dash_6: logic-hover-swarm-wage-case-skirt
+bip_39_word_dash_7: logic-hover-swarm-wage-case-skirt-common
+bip_39_word_dash_8: logic-hover-swarm-wage-case-skirt-common-pepper
+bip_39_word_dash_9: logic-hover-swarm-wage-case-skirt-common-pepper-inflict
 bip_39_word_new_br_1: logic
 bip_39_word_new_br_10: logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus
 bip_39_word_new_br_11: logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus<br>duck
@@ -193,6 +205,18 @@ bip_39_word_space_6: logic hover swarm wage case skirt
 bip_39_word_space_7: logic hover swarm wage case skirt common
 bip_39_word_space_8: logic hover swarm wage case skirt common pepper
 bip_39_word_space_9: logic hover swarm wage case skirt common pepper inflict
+bip_39_word_underscore_1: logic
+bip_39_word_underscore_10: logic_hover_swarm_wage_case_skirt_common_pepper_inflict_virus
+bip_39_word_underscore_11: logic_hover_swarm_wage_case_skirt_common_pepper_inflict_virus_duck
+bip_39_word_underscore_12: logic_hover_swarm_wage_case_skirt_common_pepper_inflict_virus_duck_anchor
+bip_39_word_underscore_2: logic_hover
+bip_39_word_underscore_3: logic_hover_swarm
+bip_39_word_underscore_4: logic_hover_swarm_wage
+bip_39_word_underscore_5: logic_hover_swarm_wage_case
+bip_39_word_underscore_6: logic_hover_swarm_wage_case_skirt
+bip_39_word_underscore_7: logic_hover_swarm_wage_case_skirt_common
+bip_39_word_underscore_8: logic_hover_swarm_wage_case_skirt_common_pepper
+bip_39_word_underscore_9: logic_hover_swarm_wage_case_skirt_common_pepper_inflict
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

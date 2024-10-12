@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | canoe |  
+| bip_39_word_dash_10 | canoe-gasp-host-steak-exit-fun-kite-warrior-salmon-strike |  
+| bip_39_word_dash_11 | canoe-gasp-host-steak-exit-fun-kite-warrior-salmon-strike-vanish |  
+| bip_39_word_dash_12 | canoe-gasp-host-steak-exit-fun-kite-warrior-salmon-strike-vanish-art |  
+| bip_39_word_dash_2 | canoe-gasp |  
+| bip_39_word_dash_3 | canoe-gasp-host |  
+| bip_39_word_dash_4 | canoe-gasp-host-steak |  
+| bip_39_word_dash_5 | canoe-gasp-host-steak-exit |  
+| bip_39_word_dash_6 | canoe-gasp-host-steak-exit-fun |  
+| bip_39_word_dash_7 | canoe-gasp-host-steak-exit-fun-kite |  
+| bip_39_word_dash_8 | canoe-gasp-host-steak-exit-fun-kite-warrior |  
+| bip_39_word_dash_9 | canoe-gasp-host-steak-exit-fun-kite-warrior-salmon |  
 | bip_39_word_new_br_1 | canoe |  
 | bip_39_word_new_br_10 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike |  
 | bip_39_word_new_br_11 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike<br>vanish |  
@@ -147,6 +159,18 @@ salmon |
 | bip_39_word_space_7 | canoe gasp host steak exit fun kite |  
 | bip_39_word_space_8 | canoe gasp host steak exit fun kite warrior |  
 | bip_39_word_space_9 | canoe gasp host steak exit fun kite warrior salmon |  
+| bip_39_word_underscore_1 | canoe |  
+| bip_39_word_underscore_10 | canoe_gasp_host_steak_exit_fun_kite_warrior_salmon_strike |  
+| bip_39_word_underscore_11 | canoe_gasp_host_steak_exit_fun_kite_warrior_salmon_strike_vanish |  
+| bip_39_word_underscore_12 | canoe_gasp_host_steak_exit_fun_kite_warrior_salmon_strike_vanish_art |  
+| bip_39_word_underscore_2 | canoe_gasp |  
+| bip_39_word_underscore_3 | canoe_gasp_host |  
+| bip_39_word_underscore_4 | canoe_gasp_host_steak |  
+| bip_39_word_underscore_5 | canoe_gasp_host_steak_exit |  
+| bip_39_word_underscore_6 | canoe_gasp_host_steak_exit_fun |  
+| bip_39_word_underscore_7 | canoe_gasp_host_steak_exit_fun_kite |  
+| bip_39_word_underscore_8 | canoe_gasp_host_steak_exit_fun_kite_warrior |  
+| bip_39_word_underscore_9 | canoe_gasp_host_steak_exit_fun_kite_warrior_salmon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | verb |  
+| bip_39_word_dash_10 | verb-ice-primary-cousin-wonder-expand-tube-cheese-great-praise |  
+| bip_39_word_dash_11 | verb-ice-primary-cousin-wonder-expand-tube-cheese-great-praise-door |  
+| bip_39_word_dash_12 | verb-ice-primary-cousin-wonder-expand-tube-cheese-great-praise-door-amount |  
+| bip_39_word_dash_2 | verb-ice |  
+| bip_39_word_dash_3 | verb-ice-primary |  
+| bip_39_word_dash_4 | verb-ice-primary-cousin |  
+| bip_39_word_dash_5 | verb-ice-primary-cousin-wonder |  
+| bip_39_word_dash_6 | verb-ice-primary-cousin-wonder-expand |  
+| bip_39_word_dash_7 | verb-ice-primary-cousin-wonder-expand-tube |  
+| bip_39_word_dash_8 | verb-ice-primary-cousin-wonder-expand-tube-cheese |  
+| bip_39_word_dash_9 | verb-ice-primary-cousin-wonder-expand-tube-cheese-great |  
 | bip_39_word_new_br_1 | verb |  
 | bip_39_word_new_br_10 | verb<br>ice<br>primary<br>cousin<br>wonder<br>expand<br>tube<br>cheese<br>great<br>praise |  
 | bip_39_word_new_br_11 | verb<br>ice<br>primary<br>cousin<br>wonder<br>expand<br>tube<br>cheese<br>great<br>praise<br>door |  
@@ -147,6 +159,18 @@ great |
 | bip_39_word_space_7 | verb ice primary cousin wonder expand tube |  
 | bip_39_word_space_8 | verb ice primary cousin wonder expand tube cheese |  
 | bip_39_word_space_9 | verb ice primary cousin wonder expand tube cheese great |  
+| bip_39_word_underscore_1 | verb |  
+| bip_39_word_underscore_10 | verb_ice_primary_cousin_wonder_expand_tube_cheese_great_praise |  
+| bip_39_word_underscore_11 | verb_ice_primary_cousin_wonder_expand_tube_cheese_great_praise_door |  
+| bip_39_word_underscore_12 | verb_ice_primary_cousin_wonder_expand_tube_cheese_great_praise_door_amount |  
+| bip_39_word_underscore_2 | verb_ice |  
+| bip_39_word_underscore_3 | verb_ice_primary |  
+| bip_39_word_underscore_4 | verb_ice_primary_cousin |  
+| bip_39_word_underscore_5 | verb_ice_primary_cousin_wonder |  
+| bip_39_word_underscore_6 | verb_ice_primary_cousin_wonder_expand |  
+| bip_39_word_underscore_7 | verb_ice_primary_cousin_wonder_expand_tube |  
+| bip_39_word_underscore_8 | verb_ice_primary_cousin_wonder_expand_tube_cheese |  
+| bip_39_word_underscore_9 | verb_ice_primary_cousin_wonder_expand_tube_cheese_great |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

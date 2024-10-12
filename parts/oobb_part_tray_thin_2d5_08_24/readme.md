@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | upset |  
+| bip_39_word_dash_10 | upset-grunt-item-enable-broom-later-have-earth-upper-elder |  
+| bip_39_word_dash_11 | upset-grunt-item-enable-broom-later-have-earth-upper-elder-aunt |  
+| bip_39_word_dash_12 | upset-grunt-item-enable-broom-later-have-earth-upper-elder-aunt-alarm |  
+| bip_39_word_dash_2 | upset-grunt |  
+| bip_39_word_dash_3 | upset-grunt-item |  
+| bip_39_word_dash_4 | upset-grunt-item-enable |  
+| bip_39_word_dash_5 | upset-grunt-item-enable-broom |  
+| bip_39_word_dash_6 | upset-grunt-item-enable-broom-later |  
+| bip_39_word_dash_7 | upset-grunt-item-enable-broom-later-have |  
+| bip_39_word_dash_8 | upset-grunt-item-enable-broom-later-have-earth |  
+| bip_39_word_dash_9 | upset-grunt-item-enable-broom-later-have-earth-upper |  
 | bip_39_word_new_br_1 | upset |  
 | bip_39_word_new_br_10 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth<br>upper<br>elder |  
 | bip_39_word_new_br_11 | upset<br>grunt<br>item<br>enable<br>broom<br>later<br>have<br>earth<br>upper<br>elder<br>aunt |  
@@ -147,6 +159,18 @@ upper |
 | bip_39_word_space_7 | upset grunt item enable broom later have |  
 | bip_39_word_space_8 | upset grunt item enable broom later have earth |  
 | bip_39_word_space_9 | upset grunt item enable broom later have earth upper |  
+| bip_39_word_underscore_1 | upset |  
+| bip_39_word_underscore_10 | upset_grunt_item_enable_broom_later_have_earth_upper_elder |  
+| bip_39_word_underscore_11 | upset_grunt_item_enable_broom_later_have_earth_upper_elder_aunt |  
+| bip_39_word_underscore_12 | upset_grunt_item_enable_broom_later_have_earth_upper_elder_aunt_alarm |  
+| bip_39_word_underscore_2 | upset_grunt |  
+| bip_39_word_underscore_3 | upset_grunt_item |  
+| bip_39_word_underscore_4 | upset_grunt_item_enable |  
+| bip_39_word_underscore_5 | upset_grunt_item_enable_broom |  
+| bip_39_word_underscore_6 | upset_grunt_item_enable_broom_later |  
+| bip_39_word_underscore_7 | upset_grunt_item_enable_broom_later_have |  
+| bip_39_word_underscore_8 | upset_grunt_item_enable_broom_later_have_earth |  
+| bip_39_word_underscore_9 | upset_grunt_item_enable_broom_later_have_earth_upper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

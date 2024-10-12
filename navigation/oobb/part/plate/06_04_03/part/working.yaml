@@ -1,3 +1,15 @@
+bip_39_word_dash_1: arena
+bip_39_word_dash_10: arena-shock-snap-unique-quote-word-secret-observe-clean-maximum
+bip_39_word_dash_11: arena-shock-snap-unique-quote-word-secret-observe-clean-maximum-friend
+bip_39_word_dash_12: arena-shock-snap-unique-quote-word-secret-observe-clean-maximum-friend-affair
+bip_39_word_dash_2: arena-shock
+bip_39_word_dash_3: arena-shock-snap
+bip_39_word_dash_4: arena-shock-snap-unique
+bip_39_word_dash_5: arena-shock-snap-unique-quote
+bip_39_word_dash_6: arena-shock-snap-unique-quote-word
+bip_39_word_dash_7: arena-shock-snap-unique-quote-word-secret
+bip_39_word_dash_8: arena-shock-snap-unique-quote-word-secret-observe
+bip_39_word_dash_9: arena-shock-snap-unique-quote-word-secret-observe-clean
 bip_39_word_new_br_1: arena
 bip_39_word_new_br_10: arena<br>shock<br>snap<br>unique<br>quote<br>word<br>secret<br>observe<br>clean<br>maximum
 bip_39_word_new_br_11: arena<br>shock<br>snap<br>unique<br>quote<br>word<br>secret<br>observe<br>clean<br>maximum<br>friend
@@ -193,6 +205,18 @@ bip_39_word_space_6: arena shock snap unique quote word
 bip_39_word_space_7: arena shock snap unique quote word secret
 bip_39_word_space_8: arena shock snap unique quote word secret observe
 bip_39_word_space_9: arena shock snap unique quote word secret observe clean
+bip_39_word_underscore_1: arena
+bip_39_word_underscore_10: arena_shock_snap_unique_quote_word_secret_observe_clean_maximum
+bip_39_word_underscore_11: arena_shock_snap_unique_quote_word_secret_observe_clean_maximum_friend
+bip_39_word_underscore_12: arena_shock_snap_unique_quote_word_secret_observe_clean_maximum_friend_affair
+bip_39_word_underscore_2: arena_shock
+bip_39_word_underscore_3: arena_shock_snap
+bip_39_word_underscore_4: arena_shock_snap_unique
+bip_39_word_underscore_5: arena_shock_snap_unique_quote
+bip_39_word_underscore_6: arena_shock_snap_unique_quote_word
+bip_39_word_underscore_7: arena_shock_snap_unique_quote_word_secret
+bip_39_word_underscore_8: arena_shock_snap_unique_quote_word_secret_observe
+bip_39_word_underscore_9: arena_shock_snap_unique_quote_word_secret_observe_clean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

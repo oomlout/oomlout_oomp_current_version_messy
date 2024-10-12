@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fragile |  
+| bip_39_word_dash_10 | fragile-tourist-mercy-unique-thank-bright-ramp-chaos-hollow-decide |  
+| bip_39_word_dash_11 | fragile-tourist-mercy-unique-thank-bright-ramp-chaos-hollow-decide-pilot |  
+| bip_39_word_dash_12 | fragile-tourist-mercy-unique-thank-bright-ramp-chaos-hollow-decide-pilot-action |  
+| bip_39_word_dash_2 | fragile-tourist |  
+| bip_39_word_dash_3 | fragile-tourist-mercy |  
+| bip_39_word_dash_4 | fragile-tourist-mercy-unique |  
+| bip_39_word_dash_5 | fragile-tourist-mercy-unique-thank |  
+| bip_39_word_dash_6 | fragile-tourist-mercy-unique-thank-bright |  
+| bip_39_word_dash_7 | fragile-tourist-mercy-unique-thank-bright-ramp |  
+| bip_39_word_dash_8 | fragile-tourist-mercy-unique-thank-bright-ramp-chaos |  
+| bip_39_word_dash_9 | fragile-tourist-mercy-unique-thank-bright-ramp-chaos-hollow |  
 | bip_39_word_new_br_1 | fragile |  
 | bip_39_word_new_br_10 | fragile<br>tourist<br>mercy<br>unique<br>thank<br>bright<br>ramp<br>chaos<br>hollow<br>decide |  
 | bip_39_word_new_br_11 | fragile<br>tourist<br>mercy<br>unique<br>thank<br>bright<br>ramp<br>chaos<br>hollow<br>decide<br>pilot |  
@@ -147,6 +159,18 @@ hollow |
 | bip_39_word_space_7 | fragile tourist mercy unique thank bright ramp |  
 | bip_39_word_space_8 | fragile tourist mercy unique thank bright ramp chaos |  
 | bip_39_word_space_9 | fragile tourist mercy unique thank bright ramp chaos hollow |  
+| bip_39_word_underscore_1 | fragile |  
+| bip_39_word_underscore_10 | fragile_tourist_mercy_unique_thank_bright_ramp_chaos_hollow_decide |  
+| bip_39_word_underscore_11 | fragile_tourist_mercy_unique_thank_bright_ramp_chaos_hollow_decide_pilot |  
+| bip_39_word_underscore_12 | fragile_tourist_mercy_unique_thank_bright_ramp_chaos_hollow_decide_pilot_action |  
+| bip_39_word_underscore_2 | fragile_tourist |  
+| bip_39_word_underscore_3 | fragile_tourist_mercy |  
+| bip_39_word_underscore_4 | fragile_tourist_mercy_unique |  
+| bip_39_word_underscore_5 | fragile_tourist_mercy_unique_thank |  
+| bip_39_word_underscore_6 | fragile_tourist_mercy_unique_thank_bright |  
+| bip_39_word_underscore_7 | fragile_tourist_mercy_unique_thank_bright_ramp |  
+| bip_39_word_underscore_8 | fragile_tourist_mercy_unique_thank_bright_ramp_chaos |  
+| bip_39_word_underscore_9 | fragile_tourist_mercy_unique_thank_bright_ramp_chaos_hollow |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

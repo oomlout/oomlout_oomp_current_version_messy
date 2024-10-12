@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gold |  
+| bip_39_word_dash_10 | gold-card-repair-sentence-warrior-mail-ecology-own-afraid-mail |  
+| bip_39_word_dash_11 | gold-card-repair-sentence-warrior-mail-ecology-own-afraid-mail-weasel |  
+| bip_39_word_dash_12 | gold-card-repair-sentence-warrior-mail-ecology-own-afraid-mail-weasel-assume |  
+| bip_39_word_dash_2 | gold-card |  
+| bip_39_word_dash_3 | gold-card-repair |  
+| bip_39_word_dash_4 | gold-card-repair-sentence |  
+| bip_39_word_dash_5 | gold-card-repair-sentence-warrior |  
+| bip_39_word_dash_6 | gold-card-repair-sentence-warrior-mail |  
+| bip_39_word_dash_7 | gold-card-repair-sentence-warrior-mail-ecology |  
+| bip_39_word_dash_8 | gold-card-repair-sentence-warrior-mail-ecology-own |  
+| bip_39_word_dash_9 | gold-card-repair-sentence-warrior-mail-ecology-own-afraid |  
 | bip_39_word_new_br_1 | gold |  
 | bip_39_word_new_br_10 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own<br>afraid<br>mail |  
 | bip_39_word_new_br_11 | gold<br>card<br>repair<br>sentence<br>warrior<br>mail<br>ecology<br>own<br>afraid<br>mail<br>weasel |  
@@ -147,6 +159,18 @@ afraid |
 | bip_39_word_space_7 | gold card repair sentence warrior mail ecology |  
 | bip_39_word_space_8 | gold card repair sentence warrior mail ecology own |  
 | bip_39_word_space_9 | gold card repair sentence warrior mail ecology own afraid |  
+| bip_39_word_underscore_1 | gold |  
+| bip_39_word_underscore_10 | gold_card_repair_sentence_warrior_mail_ecology_own_afraid_mail |  
+| bip_39_word_underscore_11 | gold_card_repair_sentence_warrior_mail_ecology_own_afraid_mail_weasel |  
+| bip_39_word_underscore_12 | gold_card_repair_sentence_warrior_mail_ecology_own_afraid_mail_weasel_assume |  
+| bip_39_word_underscore_2 | gold_card |  
+| bip_39_word_underscore_3 | gold_card_repair |  
+| bip_39_word_underscore_4 | gold_card_repair_sentence |  
+| bip_39_word_underscore_5 | gold_card_repair_sentence_warrior |  
+| bip_39_word_underscore_6 | gold_card_repair_sentence_warrior_mail |  
+| bip_39_word_underscore_7 | gold_card_repair_sentence_warrior_mail_ecology |  
+| bip_39_word_underscore_8 | gold_card_repair_sentence_warrior_mail_ecology_own |  
+| bip_39_word_underscore_9 | gold_card_repair_sentence_warrior_mail_ecology_own_afraid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

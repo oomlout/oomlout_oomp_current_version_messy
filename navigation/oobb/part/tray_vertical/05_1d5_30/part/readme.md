@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rule |  
+| bip_39_word_dash_10 | rule-dance-december-inhale-suit-spot-energy-job-fence-country |  
+| bip_39_word_dash_11 | rule-dance-december-inhale-suit-spot-energy-job-fence-country-melt |  
+| bip_39_word_dash_12 | rule-dance-december-inhale-suit-spot-energy-job-fence-country-melt-arrive |  
+| bip_39_word_dash_2 | rule-dance |  
+| bip_39_word_dash_3 | rule-dance-december |  
+| bip_39_word_dash_4 | rule-dance-december-inhale |  
+| bip_39_word_dash_5 | rule-dance-december-inhale-suit |  
+| bip_39_word_dash_6 | rule-dance-december-inhale-suit-spot |  
+| bip_39_word_dash_7 | rule-dance-december-inhale-suit-spot-energy |  
+| bip_39_word_dash_8 | rule-dance-december-inhale-suit-spot-energy-job |  
+| bip_39_word_dash_9 | rule-dance-december-inhale-suit-spot-energy-job-fence |  
 | bip_39_word_new_br_1 | rule |  
 | bip_39_word_new_br_10 | rule<br>dance<br>december<br>inhale<br>suit<br>spot<br>energy<br>job<br>fence<br>country |  
 | bip_39_word_new_br_11 | rule<br>dance<br>december<br>inhale<br>suit<br>spot<br>energy<br>job<br>fence<br>country<br>melt |  
@@ -147,6 +159,18 @@ fence |
 | bip_39_word_space_7 | rule dance december inhale suit spot energy |  
 | bip_39_word_space_8 | rule dance december inhale suit spot energy job |  
 | bip_39_word_space_9 | rule dance december inhale suit spot energy job fence |  
+| bip_39_word_underscore_1 | rule |  
+| bip_39_word_underscore_10 | rule_dance_december_inhale_suit_spot_energy_job_fence_country |  
+| bip_39_word_underscore_11 | rule_dance_december_inhale_suit_spot_energy_job_fence_country_melt |  
+| bip_39_word_underscore_12 | rule_dance_december_inhale_suit_spot_energy_job_fence_country_melt_arrive |  
+| bip_39_word_underscore_2 | rule_dance |  
+| bip_39_word_underscore_3 | rule_dance_december |  
+| bip_39_word_underscore_4 | rule_dance_december_inhale |  
+| bip_39_word_underscore_5 | rule_dance_december_inhale_suit |  
+| bip_39_word_underscore_6 | rule_dance_december_inhale_suit_spot |  
+| bip_39_word_underscore_7 | rule_dance_december_inhale_suit_spot_energy |  
+| bip_39_word_underscore_8 | rule_dance_december_inhale_suit_spot_energy_job |  
+| bip_39_word_underscore_9 | rule_dance_december_inhale_suit_spot_energy_job_fence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

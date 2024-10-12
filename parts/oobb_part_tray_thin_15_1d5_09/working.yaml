@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scheme
+bip_39_word_dash_10: scheme-then-become-girl-question-image-exile-shrug-bounce-lonely
+bip_39_word_dash_11: scheme-then-become-girl-question-image-exile-shrug-bounce-lonely-erase
+bip_39_word_dash_12: scheme-then-become-girl-question-image-exile-shrug-bounce-lonely-erase-arm
+bip_39_word_dash_2: scheme-then
+bip_39_word_dash_3: scheme-then-become
+bip_39_word_dash_4: scheme-then-become-girl
+bip_39_word_dash_5: scheme-then-become-girl-question
+bip_39_word_dash_6: scheme-then-become-girl-question-image
+bip_39_word_dash_7: scheme-then-become-girl-question-image-exile
+bip_39_word_dash_8: scheme-then-become-girl-question-image-exile-shrug
+bip_39_word_dash_9: scheme-then-become-girl-question-image-exile-shrug-bounce
 bip_39_word_new_br_1: scheme
 bip_39_word_new_br_10: scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely
 bip_39_word_new_br_11: scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely<br>erase
@@ -193,6 +205,18 @@ bip_39_word_space_6: scheme then become girl question image
 bip_39_word_space_7: scheme then become girl question image exile
 bip_39_word_space_8: scheme then become girl question image exile shrug
 bip_39_word_space_9: scheme then become girl question image exile shrug bounce
+bip_39_word_underscore_1: scheme
+bip_39_word_underscore_10: scheme_then_become_girl_question_image_exile_shrug_bounce_lonely
+bip_39_word_underscore_11: scheme_then_become_girl_question_image_exile_shrug_bounce_lonely_erase
+bip_39_word_underscore_12: scheme_then_become_girl_question_image_exile_shrug_bounce_lonely_erase_arm
+bip_39_word_underscore_2: scheme_then
+bip_39_word_underscore_3: scheme_then_become
+bip_39_word_underscore_4: scheme_then_become_girl
+bip_39_word_underscore_5: scheme_then_become_girl_question
+bip_39_word_underscore_6: scheme_then_become_girl_question_image
+bip_39_word_underscore_7: scheme_then_become_girl_question_image_exile
+bip_39_word_underscore_8: scheme_then_become_girl_question_image_exile_shrug
+bip_39_word_underscore_9: scheme_then_become_girl_question_image_exile_shrug_bounce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

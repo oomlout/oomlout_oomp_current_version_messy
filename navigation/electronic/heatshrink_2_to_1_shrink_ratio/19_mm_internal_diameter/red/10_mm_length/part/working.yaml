@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stick
+bip_39_word_dash_10: stick-canvas-lyrics-dumb-unveil-lemon-salad-open-brave-token
+bip_39_word_dash_11: stick-canvas-lyrics-dumb-unveil-lemon-salad-open-brave-token-corn
+bip_39_word_dash_12: stick-canvas-lyrics-dumb-unveil-lemon-salad-open-brave-token-corn-athlete
+bip_39_word_dash_2: stick-canvas
+bip_39_word_dash_3: stick-canvas-lyrics
+bip_39_word_dash_4: stick-canvas-lyrics-dumb
+bip_39_word_dash_5: stick-canvas-lyrics-dumb-unveil
+bip_39_word_dash_6: stick-canvas-lyrics-dumb-unveil-lemon
+bip_39_word_dash_7: stick-canvas-lyrics-dumb-unveil-lemon-salad
+bip_39_word_dash_8: stick-canvas-lyrics-dumb-unveil-lemon-salad-open
+bip_39_word_dash_9: stick-canvas-lyrics-dumb-unveil-lemon-salad-open-brave
 bip_39_word_new_br_1: stick
 bip_39_word_new_br_10: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open<br>brave<br>token
 bip_39_word_new_br_11: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open<br>brave<br>token<br>corn
@@ -193,6 +205,18 @@ bip_39_word_space_6: stick canvas lyrics dumb unveil lemon
 bip_39_word_space_7: stick canvas lyrics dumb unveil lemon salad
 bip_39_word_space_8: stick canvas lyrics dumb unveil lemon salad open
 bip_39_word_space_9: stick canvas lyrics dumb unveil lemon salad open brave
+bip_39_word_underscore_1: stick
+bip_39_word_underscore_10: stick_canvas_lyrics_dumb_unveil_lemon_salad_open_brave_token
+bip_39_word_underscore_11: stick_canvas_lyrics_dumb_unveil_lemon_salad_open_brave_token_corn
+bip_39_word_underscore_12: stick_canvas_lyrics_dumb_unveil_lemon_salad_open_brave_token_corn_athlete
+bip_39_word_underscore_2: stick_canvas
+bip_39_word_underscore_3: stick_canvas_lyrics
+bip_39_word_underscore_4: stick_canvas_lyrics_dumb
+bip_39_word_underscore_5: stick_canvas_lyrics_dumb_unveil
+bip_39_word_underscore_6: stick_canvas_lyrics_dumb_unveil_lemon
+bip_39_word_underscore_7: stick_canvas_lyrics_dumb_unveil_lemon_salad
+bip_39_word_underscore_8: stick_canvas_lyrics_dumb_unveil_lemon_salad_open
+bip_39_word_underscore_9: stick_canvas_lyrics_dumb_unveil_lemon_salad_open_brave
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | noble |  
+| bip_39_word_dash_10 | noble-amateur-rely-giggle-proud-kitchen-custom-visual-entire-taxi |  
+| bip_39_word_dash_11 | noble-amateur-rely-giggle-proud-kitchen-custom-visual-entire-taxi-tower |  
+| bip_39_word_dash_12 | noble-amateur-rely-giggle-proud-kitchen-custom-visual-entire-taxi-tower-actor |  
+| bip_39_word_dash_2 | noble-amateur |  
+| bip_39_word_dash_3 | noble-amateur-rely |  
+| bip_39_word_dash_4 | noble-amateur-rely-giggle |  
+| bip_39_word_dash_5 | noble-amateur-rely-giggle-proud |  
+| bip_39_word_dash_6 | noble-amateur-rely-giggle-proud-kitchen |  
+| bip_39_word_dash_7 | noble-amateur-rely-giggle-proud-kitchen-custom |  
+| bip_39_word_dash_8 | noble-amateur-rely-giggle-proud-kitchen-custom-visual |  
+| bip_39_word_dash_9 | noble-amateur-rely-giggle-proud-kitchen-custom-visual-entire |  
 | bip_39_word_new_br_1 | noble |  
 | bip_39_word_new_br_10 | noble<br>amateur<br>rely<br>giggle<br>proud<br>kitchen<br>custom<br>visual<br>entire<br>taxi |  
 | bip_39_word_new_br_11 | noble<br>amateur<br>rely<br>giggle<br>proud<br>kitchen<br>custom<br>visual<br>entire<br>taxi<br>tower |  
@@ -147,6 +159,18 @@ entire |
 | bip_39_word_space_7 | noble amateur rely giggle proud kitchen custom |  
 | bip_39_word_space_8 | noble amateur rely giggle proud kitchen custom visual |  
 | bip_39_word_space_9 | noble amateur rely giggle proud kitchen custom visual entire |  
+| bip_39_word_underscore_1 | noble |  
+| bip_39_word_underscore_10 | noble_amateur_rely_giggle_proud_kitchen_custom_visual_entire_taxi |  
+| bip_39_word_underscore_11 | noble_amateur_rely_giggle_proud_kitchen_custom_visual_entire_taxi_tower |  
+| bip_39_word_underscore_12 | noble_amateur_rely_giggle_proud_kitchen_custom_visual_entire_taxi_tower_actor |  
+| bip_39_word_underscore_2 | noble_amateur |  
+| bip_39_word_underscore_3 | noble_amateur_rely |  
+| bip_39_word_underscore_4 | noble_amateur_rely_giggle |  
+| bip_39_word_underscore_5 | noble_amateur_rely_giggle_proud |  
+| bip_39_word_underscore_6 | noble_amateur_rely_giggle_proud_kitchen |  
+| bip_39_word_underscore_7 | noble_amateur_rely_giggle_proud_kitchen_custom |  
+| bip_39_word_underscore_8 | noble_amateur_rely_giggle_proud_kitchen_custom_visual |  
+| bip_39_word_underscore_9 | noble_amateur_rely_giggle_proud_kitchen_custom_visual_entire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

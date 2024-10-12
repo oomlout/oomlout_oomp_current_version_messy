@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pizza |  
+| bip_39_word_dash_10 | pizza-hobby-small-acid-curve-soap-mention-divorce-hurdle-decide |  
+| bip_39_word_dash_11 | pizza-hobby-small-acid-curve-soap-mention-divorce-hurdle-decide-east |  
+| bip_39_word_dash_12 | pizza-hobby-small-acid-curve-soap-mention-divorce-hurdle-decide-east-achieve |  
+| bip_39_word_dash_2 | pizza-hobby |  
+| bip_39_word_dash_3 | pizza-hobby-small |  
+| bip_39_word_dash_4 | pizza-hobby-small-acid |  
+| bip_39_word_dash_5 | pizza-hobby-small-acid-curve |  
+| bip_39_word_dash_6 | pizza-hobby-small-acid-curve-soap |  
+| bip_39_word_dash_7 | pizza-hobby-small-acid-curve-soap-mention |  
+| bip_39_word_dash_8 | pizza-hobby-small-acid-curve-soap-mention-divorce |  
+| bip_39_word_dash_9 | pizza-hobby-small-acid-curve-soap-mention-divorce-hurdle |  
 | bip_39_word_new_br_1 | pizza |  
 | bip_39_word_new_br_10 | pizza<br>hobby<br>small<br>acid<br>curve<br>soap<br>mention<br>divorce<br>hurdle<br>decide |  
 | bip_39_word_new_br_11 | pizza<br>hobby<br>small<br>acid<br>curve<br>soap<br>mention<br>divorce<br>hurdle<br>decide<br>east |  
@@ -147,6 +159,18 @@ hurdle |
 | bip_39_word_space_7 | pizza hobby small acid curve soap mention |  
 | bip_39_word_space_8 | pizza hobby small acid curve soap mention divorce |  
 | bip_39_word_space_9 | pizza hobby small acid curve soap mention divorce hurdle |  
+| bip_39_word_underscore_1 | pizza |  
+| bip_39_word_underscore_10 | pizza_hobby_small_acid_curve_soap_mention_divorce_hurdle_decide |  
+| bip_39_word_underscore_11 | pizza_hobby_small_acid_curve_soap_mention_divorce_hurdle_decide_east |  
+| bip_39_word_underscore_12 | pizza_hobby_small_acid_curve_soap_mention_divorce_hurdle_decide_east_achieve |  
+| bip_39_word_underscore_2 | pizza_hobby |  
+| bip_39_word_underscore_3 | pizza_hobby_small |  
+| bip_39_word_underscore_4 | pizza_hobby_small_acid |  
+| bip_39_word_underscore_5 | pizza_hobby_small_acid_curve |  
+| bip_39_word_underscore_6 | pizza_hobby_small_acid_curve_soap |  
+| bip_39_word_underscore_7 | pizza_hobby_small_acid_curve_soap_mention |  
+| bip_39_word_underscore_8 | pizza_hobby_small_acid_curve_soap_mention_divorce |  
+| bip_39_word_underscore_9 | pizza_hobby_small_acid_curve_soap_mention_divorce_hurdle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

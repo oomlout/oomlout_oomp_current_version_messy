@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slight |  
+| bip_39_word_dash_10 | slight-type-lava-drip-sign-miss-modify-detail-across-base |  
+| bip_39_word_dash_11 | slight-type-lava-drip-sign-miss-modify-detail-across-base-crush |  
+| bip_39_word_dash_12 | slight-type-lava-drip-sign-miss-modify-detail-across-base-crush-argue |  
+| bip_39_word_dash_2 | slight-type |  
+| bip_39_word_dash_3 | slight-type-lava |  
+| bip_39_word_dash_4 | slight-type-lava-drip |  
+| bip_39_word_dash_5 | slight-type-lava-drip-sign |  
+| bip_39_word_dash_6 | slight-type-lava-drip-sign-miss |  
+| bip_39_word_dash_7 | slight-type-lava-drip-sign-miss-modify |  
+| bip_39_word_dash_8 | slight-type-lava-drip-sign-miss-modify-detail |  
+| bip_39_word_dash_9 | slight-type-lava-drip-sign-miss-modify-detail-across |  
 | bip_39_word_new_br_1 | slight |  
 | bip_39_word_new_br_10 | slight<br>type<br>lava<br>drip<br>sign<br>miss<br>modify<br>detail<br>across<br>base |  
 | bip_39_word_new_br_11 | slight<br>type<br>lava<br>drip<br>sign<br>miss<br>modify<br>detail<br>across<br>base<br>crush |  
@@ -147,6 +159,18 @@ across |
 | bip_39_word_space_7 | slight type lava drip sign miss modify |  
 | bip_39_word_space_8 | slight type lava drip sign miss modify detail |  
 | bip_39_word_space_9 | slight type lava drip sign miss modify detail across |  
+| bip_39_word_underscore_1 | slight |  
+| bip_39_word_underscore_10 | slight_type_lava_drip_sign_miss_modify_detail_across_base |  
+| bip_39_word_underscore_11 | slight_type_lava_drip_sign_miss_modify_detail_across_base_crush |  
+| bip_39_word_underscore_12 | slight_type_lava_drip_sign_miss_modify_detail_across_base_crush_argue |  
+| bip_39_word_underscore_2 | slight_type |  
+| bip_39_word_underscore_3 | slight_type_lava |  
+| bip_39_word_underscore_4 | slight_type_lava_drip |  
+| bip_39_word_underscore_5 | slight_type_lava_drip_sign |  
+| bip_39_word_underscore_6 | slight_type_lava_drip_sign_miss |  
+| bip_39_word_underscore_7 | slight_type_lava_drip_sign_miss_modify |  
+| bip_39_word_underscore_8 | slight_type_lava_drip_sign_miss_modify_detail |  
+| bip_39_word_underscore_9 | slight_type_lava_drip_sign_miss_modify_detail_across |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

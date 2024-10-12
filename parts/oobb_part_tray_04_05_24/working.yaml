@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sniff
+bip_39_word_dash_10: sniff-maple-solar-helmet-good-note-lucky-umbrella-boss-jar
+bip_39_word_dash_11: sniff-maple-solar-helmet-good-note-lucky-umbrella-boss-jar-update
+bip_39_word_dash_12: sniff-maple-solar-helmet-good-note-lucky-umbrella-boss-jar-update-action
+bip_39_word_dash_2: sniff-maple
+bip_39_word_dash_3: sniff-maple-solar
+bip_39_word_dash_4: sniff-maple-solar-helmet
+bip_39_word_dash_5: sniff-maple-solar-helmet-good
+bip_39_word_dash_6: sniff-maple-solar-helmet-good-note
+bip_39_word_dash_7: sniff-maple-solar-helmet-good-note-lucky
+bip_39_word_dash_8: sniff-maple-solar-helmet-good-note-lucky-umbrella
+bip_39_word_dash_9: sniff-maple-solar-helmet-good-note-lucky-umbrella-boss
 bip_39_word_new_br_1: sniff
 bip_39_word_new_br_10: sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar
 bip_39_word_new_br_11: sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar<br>update
@@ -192,6 +204,18 @@ bip_39_word_space_6: sniff maple solar helmet good note
 bip_39_word_space_7: sniff maple solar helmet good note lucky
 bip_39_word_space_8: sniff maple solar helmet good note lucky umbrella
 bip_39_word_space_9: sniff maple solar helmet good note lucky umbrella boss
+bip_39_word_underscore_1: sniff
+bip_39_word_underscore_10: sniff_maple_solar_helmet_good_note_lucky_umbrella_boss_jar
+bip_39_word_underscore_11: sniff_maple_solar_helmet_good_note_lucky_umbrella_boss_jar_update
+bip_39_word_underscore_12: sniff_maple_solar_helmet_good_note_lucky_umbrella_boss_jar_update_action
+bip_39_word_underscore_2: sniff_maple
+bip_39_word_underscore_3: sniff_maple_solar
+bip_39_word_underscore_4: sniff_maple_solar_helmet
+bip_39_word_underscore_5: sniff_maple_solar_helmet_good
+bip_39_word_underscore_6: sniff_maple_solar_helmet_good_note
+bip_39_word_underscore_7: sniff_maple_solar_helmet_good_note_lucky
+bip_39_word_underscore_8: sniff_maple_solar_helmet_good_note_lucky_umbrella
+bip_39_word_underscore_9: sniff_maple_solar_helmet_good_note_lucky_umbrella_boss
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

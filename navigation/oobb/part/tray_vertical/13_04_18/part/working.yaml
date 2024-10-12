@@ -1,3 +1,15 @@
+bip_39_word_dash_1: slim
+bip_39_word_dash_10: slim-real-scorpion-awkward-nasty-club-jazz-vintage-fault-embody
+bip_39_word_dash_11: slim-real-scorpion-awkward-nasty-club-jazz-vintage-fault-embody-series
+bip_39_word_dash_12: slim-real-scorpion-awkward-nasty-club-jazz-vintage-fault-embody-series-army
+bip_39_word_dash_2: slim-real
+bip_39_word_dash_3: slim-real-scorpion
+bip_39_word_dash_4: slim-real-scorpion-awkward
+bip_39_word_dash_5: slim-real-scorpion-awkward-nasty
+bip_39_word_dash_6: slim-real-scorpion-awkward-nasty-club
+bip_39_word_dash_7: slim-real-scorpion-awkward-nasty-club-jazz
+bip_39_word_dash_8: slim-real-scorpion-awkward-nasty-club-jazz-vintage
+bip_39_word_dash_9: slim-real-scorpion-awkward-nasty-club-jazz-vintage-fault
 bip_39_word_new_br_1: slim
 bip_39_word_new_br_10: slim<br>real<br>scorpion<br>awkward<br>nasty<br>club<br>jazz<br>vintage<br>fault<br>embody
 bip_39_word_new_br_11: slim<br>real<br>scorpion<br>awkward<br>nasty<br>club<br>jazz<br>vintage<br>fault<br>embody<br>series
@@ -193,6 +205,18 @@ bip_39_word_space_6: slim real scorpion awkward nasty club
 bip_39_word_space_7: slim real scorpion awkward nasty club jazz
 bip_39_word_space_8: slim real scorpion awkward nasty club jazz vintage
 bip_39_word_space_9: slim real scorpion awkward nasty club jazz vintage fault
+bip_39_word_underscore_1: slim
+bip_39_word_underscore_10: slim_real_scorpion_awkward_nasty_club_jazz_vintage_fault_embody
+bip_39_word_underscore_11: slim_real_scorpion_awkward_nasty_club_jazz_vintage_fault_embody_series
+bip_39_word_underscore_12: slim_real_scorpion_awkward_nasty_club_jazz_vintage_fault_embody_series_army
+bip_39_word_underscore_2: slim_real
+bip_39_word_underscore_3: slim_real_scorpion
+bip_39_word_underscore_4: slim_real_scorpion_awkward
+bip_39_word_underscore_5: slim_real_scorpion_awkward_nasty
+bip_39_word_underscore_6: slim_real_scorpion_awkward_nasty_club
+bip_39_word_underscore_7: slim_real_scorpion_awkward_nasty_club_jazz
+bip_39_word_underscore_8: slim_real_scorpion_awkward_nasty_club_jazz_vintage
+bip_39_word_underscore_9: slim_real_scorpion_awkward_nasty_club_jazz_vintage_fault
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

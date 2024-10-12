@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glimpse |  
+| bip_39_word_dash_10 | glimpse-someone-ready-divert-surface-kiss-library-fork-miracle-strategy |  
+| bip_39_word_dash_11 | glimpse-someone-ready-divert-surface-kiss-library-fork-miracle-strategy-plunge |  
+| bip_39_word_dash_12 | glimpse-someone-ready-divert-surface-kiss-library-fork-miracle-strategy-plunge-amazing |  
+| bip_39_word_dash_2 | glimpse-someone |  
+| bip_39_word_dash_3 | glimpse-someone-ready |  
+| bip_39_word_dash_4 | glimpse-someone-ready-divert |  
+| bip_39_word_dash_5 | glimpse-someone-ready-divert-surface |  
+| bip_39_word_dash_6 | glimpse-someone-ready-divert-surface-kiss |  
+| bip_39_word_dash_7 | glimpse-someone-ready-divert-surface-kiss-library |  
+| bip_39_word_dash_8 | glimpse-someone-ready-divert-surface-kiss-library-fork |  
+| bip_39_word_dash_9 | glimpse-someone-ready-divert-surface-kiss-library-fork-miracle |  
 | bip_39_word_new_br_1 | glimpse |  
 | bip_39_word_new_br_10 | glimpse<br>someone<br>ready<br>divert<br>surface<br>kiss<br>library<br>fork<br>miracle<br>strategy |  
 | bip_39_word_new_br_11 | glimpse<br>someone<br>ready<br>divert<br>surface<br>kiss<br>library<br>fork<br>miracle<br>strategy<br>plunge |  
@@ -147,6 +159,18 @@ miracle |
 | bip_39_word_space_7 | glimpse someone ready divert surface kiss library |  
 | bip_39_word_space_8 | glimpse someone ready divert surface kiss library fork |  
 | bip_39_word_space_9 | glimpse someone ready divert surface kiss library fork miracle |  
+| bip_39_word_underscore_1 | glimpse |  
+| bip_39_word_underscore_10 | glimpse_someone_ready_divert_surface_kiss_library_fork_miracle_strategy |  
+| bip_39_word_underscore_11 | glimpse_someone_ready_divert_surface_kiss_library_fork_miracle_strategy_plunge |  
+| bip_39_word_underscore_12 | glimpse_someone_ready_divert_surface_kiss_library_fork_miracle_strategy_plunge_amazing |  
+| bip_39_word_underscore_2 | glimpse_someone |  
+| bip_39_word_underscore_3 | glimpse_someone_ready |  
+| bip_39_word_underscore_4 | glimpse_someone_ready_divert |  
+| bip_39_word_underscore_5 | glimpse_someone_ready_divert_surface |  
+| bip_39_word_underscore_6 | glimpse_someone_ready_divert_surface_kiss |  
+| bip_39_word_underscore_7 | glimpse_someone_ready_divert_surface_kiss_library |  
+| bip_39_word_underscore_8 | glimpse_someone_ready_divert_surface_kiss_library_fork |  
+| bip_39_word_underscore_9 | glimpse_someone_ready_divert_surface_kiss_library_fork_miracle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

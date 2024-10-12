@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mosquito |  
+| bip_39_word_dash_10 | mosquito-future-level-devote-kangaroo-minimum-good-twist-erupt-second |  
+| bip_39_word_dash_11 | mosquito-future-level-devote-kangaroo-minimum-good-twist-erupt-second-recycle |  
+| bip_39_word_dash_12 | mosquito-future-level-devote-kangaroo-minimum-good-twist-erupt-second-recycle-aspect |  
+| bip_39_word_dash_2 | mosquito-future |  
+| bip_39_word_dash_3 | mosquito-future-level |  
+| bip_39_word_dash_4 | mosquito-future-level-devote |  
+| bip_39_word_dash_5 | mosquito-future-level-devote-kangaroo |  
+| bip_39_word_dash_6 | mosquito-future-level-devote-kangaroo-minimum |  
+| bip_39_word_dash_7 | mosquito-future-level-devote-kangaroo-minimum-good |  
+| bip_39_word_dash_8 | mosquito-future-level-devote-kangaroo-minimum-good-twist |  
+| bip_39_word_dash_9 | mosquito-future-level-devote-kangaroo-minimum-good-twist-erupt |  
 | bip_39_word_new_br_1 | mosquito |  
 | bip_39_word_new_br_10 | mosquito<br>future<br>level<br>devote<br>kangaroo<br>minimum<br>good<br>twist<br>erupt<br>second |  
 | bip_39_word_new_br_11 | mosquito<br>future<br>level<br>devote<br>kangaroo<br>minimum<br>good<br>twist<br>erupt<br>second<br>recycle |  
@@ -147,6 +159,18 @@ erupt |
 | bip_39_word_space_7 | mosquito future level devote kangaroo minimum good |  
 | bip_39_word_space_8 | mosquito future level devote kangaroo minimum good twist |  
 | bip_39_word_space_9 | mosquito future level devote kangaroo minimum good twist erupt |  
+| bip_39_word_underscore_1 | mosquito |  
+| bip_39_word_underscore_10 | mosquito_future_level_devote_kangaroo_minimum_good_twist_erupt_second |  
+| bip_39_word_underscore_11 | mosquito_future_level_devote_kangaroo_minimum_good_twist_erupt_second_recycle |  
+| bip_39_word_underscore_12 | mosquito_future_level_devote_kangaroo_minimum_good_twist_erupt_second_recycle_aspect |  
+| bip_39_word_underscore_2 | mosquito_future |  
+| bip_39_word_underscore_3 | mosquito_future_level |  
+| bip_39_word_underscore_4 | mosquito_future_level_devote |  
+| bip_39_word_underscore_5 | mosquito_future_level_devote_kangaroo |  
+| bip_39_word_underscore_6 | mosquito_future_level_devote_kangaroo_minimum |  
+| bip_39_word_underscore_7 | mosquito_future_level_devote_kangaroo_minimum_good |  
+| bip_39_word_underscore_8 | mosquito_future_level_devote_kangaroo_minimum_good_twist |  
+| bip_39_word_underscore_9 | mosquito_future_level_devote_kangaroo_minimum_good_twist_erupt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

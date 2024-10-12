@@ -1,3 +1,15 @@
+bip_39_word_dash_1: face
+bip_39_word_dash_10: face-choice-pistol-shove-account-coach-method-giant-caught-shallow
+bip_39_word_dash_11: face-choice-pistol-shove-account-coach-method-giant-caught-shallow-ability
+bip_39_word_dash_12: face-choice-pistol-shove-account-coach-method-giant-caught-shallow-ability-age
+bip_39_word_dash_2: face-choice
+bip_39_word_dash_3: face-choice-pistol
+bip_39_word_dash_4: face-choice-pistol-shove
+bip_39_word_dash_5: face-choice-pistol-shove-account
+bip_39_word_dash_6: face-choice-pistol-shove-account-coach
+bip_39_word_dash_7: face-choice-pistol-shove-account-coach-method
+bip_39_word_dash_8: face-choice-pistol-shove-account-coach-method-giant
+bip_39_word_dash_9: face-choice-pistol-shove-account-coach-method-giant-caught
 bip_39_word_new_br_1: face
 bip_39_word_new_br_10: face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant<br>caught<br>shallow
 bip_39_word_new_br_11: face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant<br>caught<br>shallow<br>ability
@@ -193,6 +205,18 @@ bip_39_word_space_6: face choice pistol shove account coach
 bip_39_word_space_7: face choice pistol shove account coach method
 bip_39_word_space_8: face choice pistol shove account coach method giant
 bip_39_word_space_9: face choice pistol shove account coach method giant caught
+bip_39_word_underscore_1: face
+bip_39_word_underscore_10: face_choice_pistol_shove_account_coach_method_giant_caught_shallow
+bip_39_word_underscore_11: face_choice_pistol_shove_account_coach_method_giant_caught_shallow_ability
+bip_39_word_underscore_12: face_choice_pistol_shove_account_coach_method_giant_caught_shallow_ability_age
+bip_39_word_underscore_2: face_choice
+bip_39_word_underscore_3: face_choice_pistol
+bip_39_word_underscore_4: face_choice_pistol_shove
+bip_39_word_underscore_5: face_choice_pistol_shove_account
+bip_39_word_underscore_6: face_choice_pistol_shove_account_coach
+bip_39_word_underscore_7: face_choice_pistol_shove_account_coach_method
+bip_39_word_underscore_8: face_choice_pistol_shove_account_coach_method_giant
+bip_39_word_underscore_9: face_choice_pistol_shove_account_coach_method_giant_caught
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

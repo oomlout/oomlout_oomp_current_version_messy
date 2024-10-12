@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clerk |  
+| bip_39_word_dash_10 | clerk-smooth-sleep-fabric-rescue-glass-help-wall-isolate-melt |  
+| bip_39_word_dash_11 | clerk-smooth-sleep-fabric-rescue-glass-help-wall-isolate-melt-siren |  
+| bip_39_word_dash_12 | clerk-smooth-sleep-fabric-rescue-glass-help-wall-isolate-melt-siren-aim |  
+| bip_39_word_dash_2 | clerk-smooth |  
+| bip_39_word_dash_3 | clerk-smooth-sleep |  
+| bip_39_word_dash_4 | clerk-smooth-sleep-fabric |  
+| bip_39_word_dash_5 | clerk-smooth-sleep-fabric-rescue |  
+| bip_39_word_dash_6 | clerk-smooth-sleep-fabric-rescue-glass |  
+| bip_39_word_dash_7 | clerk-smooth-sleep-fabric-rescue-glass-help |  
+| bip_39_word_dash_8 | clerk-smooth-sleep-fabric-rescue-glass-help-wall |  
+| bip_39_word_dash_9 | clerk-smooth-sleep-fabric-rescue-glass-help-wall-isolate |  
 | bip_39_word_new_br_1 | clerk |  
 | bip_39_word_new_br_10 | clerk<br>smooth<br>sleep<br>fabric<br>rescue<br>glass<br>help<br>wall<br>isolate<br>melt |  
 | bip_39_word_new_br_11 | clerk<br>smooth<br>sleep<br>fabric<br>rescue<br>glass<br>help<br>wall<br>isolate<br>melt<br>siren |  
@@ -147,6 +159,18 @@ isolate |
 | bip_39_word_space_7 | clerk smooth sleep fabric rescue glass help |  
 | bip_39_word_space_8 | clerk smooth sleep fabric rescue glass help wall |  
 | bip_39_word_space_9 | clerk smooth sleep fabric rescue glass help wall isolate |  
+| bip_39_word_underscore_1 | clerk |  
+| bip_39_word_underscore_10 | clerk_smooth_sleep_fabric_rescue_glass_help_wall_isolate_melt |  
+| bip_39_word_underscore_11 | clerk_smooth_sleep_fabric_rescue_glass_help_wall_isolate_melt_siren |  
+| bip_39_word_underscore_12 | clerk_smooth_sleep_fabric_rescue_glass_help_wall_isolate_melt_siren_aim |  
+| bip_39_word_underscore_2 | clerk_smooth |  
+| bip_39_word_underscore_3 | clerk_smooth_sleep |  
+| bip_39_word_underscore_4 | clerk_smooth_sleep_fabric |  
+| bip_39_word_underscore_5 | clerk_smooth_sleep_fabric_rescue |  
+| bip_39_word_underscore_6 | clerk_smooth_sleep_fabric_rescue_glass |  
+| bip_39_word_underscore_7 | clerk_smooth_sleep_fabric_rescue_glass_help |  
+| bip_39_word_underscore_8 | clerk_smooth_sleep_fabric_rescue_glass_help_wall |  
+| bip_39_word_underscore_9 | clerk_smooth_sleep_fabric_rescue_glass_help_wall_isolate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

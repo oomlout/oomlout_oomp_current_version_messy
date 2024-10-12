@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | curve |  
+| bip_39_word_dash_10 | curve-glide-opera-original-dial-athlete-produce-much-sand-come |  
+| bip_39_word_dash_11 | curve-glide-opera-original-dial-athlete-produce-much-sand-come-tattoo |  
+| bip_39_word_dash_12 | curve-glide-opera-original-dial-athlete-produce-much-sand-come-tattoo-absorb |  
+| bip_39_word_dash_2 | curve-glide |  
+| bip_39_word_dash_3 | curve-glide-opera |  
+| bip_39_word_dash_4 | curve-glide-opera-original |  
+| bip_39_word_dash_5 | curve-glide-opera-original-dial |  
+| bip_39_word_dash_6 | curve-glide-opera-original-dial-athlete |  
+| bip_39_word_dash_7 | curve-glide-opera-original-dial-athlete-produce |  
+| bip_39_word_dash_8 | curve-glide-opera-original-dial-athlete-produce-much |  
+| bip_39_word_dash_9 | curve-glide-opera-original-dial-athlete-produce-much-sand |  
 | bip_39_word_new_br_1 | curve |  
 | bip_39_word_new_br_10 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much<br>sand<br>come |  
 | bip_39_word_new_br_11 | curve<br>glide<br>opera<br>original<br>dial<br>athlete<br>produce<br>much<br>sand<br>come<br>tattoo |  
@@ -147,6 +159,18 @@ sand |
 | bip_39_word_space_7 | curve glide opera original dial athlete produce |  
 | bip_39_word_space_8 | curve glide opera original dial athlete produce much |  
 | bip_39_word_space_9 | curve glide opera original dial athlete produce much sand |  
+| bip_39_word_underscore_1 | curve |  
+| bip_39_word_underscore_10 | curve_glide_opera_original_dial_athlete_produce_much_sand_come |  
+| bip_39_word_underscore_11 | curve_glide_opera_original_dial_athlete_produce_much_sand_come_tattoo |  
+| bip_39_word_underscore_12 | curve_glide_opera_original_dial_athlete_produce_much_sand_come_tattoo_absorb |  
+| bip_39_word_underscore_2 | curve_glide |  
+| bip_39_word_underscore_3 | curve_glide_opera |  
+| bip_39_word_underscore_4 | curve_glide_opera_original |  
+| bip_39_word_underscore_5 | curve_glide_opera_original_dial |  
+| bip_39_word_underscore_6 | curve_glide_opera_original_dial_athlete |  
+| bip_39_word_underscore_7 | curve_glide_opera_original_dial_athlete_produce |  
+| bip_39_word_underscore_8 | curve_glide_opera_original_dial_athlete_produce_much |  
+| bip_39_word_underscore_9 | curve_glide_opera_original_dial_athlete_produce_much_sand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

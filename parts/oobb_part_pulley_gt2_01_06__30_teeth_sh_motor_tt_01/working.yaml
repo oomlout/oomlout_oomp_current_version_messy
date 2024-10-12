@@ -1,3 +1,15 @@
+bip_39_word_dash_1: method
+bip_39_word_dash_10: method-alpha-asthma-onion-business-motor-area-calm-receive-occur
+bip_39_word_dash_11: method-alpha-asthma-onion-business-motor-area-calm-receive-occur-maximum
+bip_39_word_dash_12: method-alpha-asthma-onion-business-motor-area-calm-receive-occur-maximum-again
+bip_39_word_dash_2: method-alpha
+bip_39_word_dash_3: method-alpha-asthma
+bip_39_word_dash_4: method-alpha-asthma-onion
+bip_39_word_dash_5: method-alpha-asthma-onion-business
+bip_39_word_dash_6: method-alpha-asthma-onion-business-motor
+bip_39_word_dash_7: method-alpha-asthma-onion-business-motor-area
+bip_39_word_dash_8: method-alpha-asthma-onion-business-motor-area-calm
+bip_39_word_dash_9: method-alpha-asthma-onion-business-motor-area-calm-receive
 bip_39_word_new_br_1: method
 bip_39_word_new_br_10: method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur
 bip_39_word_new_br_11: method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur<br>maximum
@@ -193,6 +205,18 @@ bip_39_word_space_6: method alpha asthma onion business motor
 bip_39_word_space_7: method alpha asthma onion business motor area
 bip_39_word_space_8: method alpha asthma onion business motor area calm
 bip_39_word_space_9: method alpha asthma onion business motor area calm receive
+bip_39_word_underscore_1: method
+bip_39_word_underscore_10: method_alpha_asthma_onion_business_motor_area_calm_receive_occur
+bip_39_word_underscore_11: method_alpha_asthma_onion_business_motor_area_calm_receive_occur_maximum
+bip_39_word_underscore_12: method_alpha_asthma_onion_business_motor_area_calm_receive_occur_maximum_again
+bip_39_word_underscore_2: method_alpha
+bip_39_word_underscore_3: method_alpha_asthma
+bip_39_word_underscore_4: method_alpha_asthma_onion
+bip_39_word_underscore_5: method_alpha_asthma_onion_business
+bip_39_word_underscore_6: method_alpha_asthma_onion_business_motor
+bip_39_word_underscore_7: method_alpha_asthma_onion_business_motor_area
+bip_39_word_underscore_8: method_alpha_asthma_onion_business_motor_area_calm
+bip_39_word_underscore_9: method_alpha_asthma_onion_business_motor_area_calm_receive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

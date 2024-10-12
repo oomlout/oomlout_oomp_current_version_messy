@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grab |  
+| bip_39_word_dash_10 | grab-welcome-leave-lab-impulse-guilt-river-basic-invest-divorce |  
+| bip_39_word_dash_11 | grab-welcome-leave-lab-impulse-guilt-river-basic-invest-divorce-fly |  
+| bip_39_word_dash_12 | grab-welcome-leave-lab-impulse-guilt-river-basic-invest-divorce-fly-arctic |  
+| bip_39_word_dash_2 | grab-welcome |  
+| bip_39_word_dash_3 | grab-welcome-leave |  
+| bip_39_word_dash_4 | grab-welcome-leave-lab |  
+| bip_39_word_dash_5 | grab-welcome-leave-lab-impulse |  
+| bip_39_word_dash_6 | grab-welcome-leave-lab-impulse-guilt |  
+| bip_39_word_dash_7 | grab-welcome-leave-lab-impulse-guilt-river |  
+| bip_39_word_dash_8 | grab-welcome-leave-lab-impulse-guilt-river-basic |  
+| bip_39_word_dash_9 | grab-welcome-leave-lab-impulse-guilt-river-basic-invest |  
 | bip_39_word_new_br_1 | grab |  
 | bip_39_word_new_br_10 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic<br>invest<br>divorce |  
 | bip_39_word_new_br_11 | grab<br>welcome<br>leave<br>lab<br>impulse<br>guilt<br>river<br>basic<br>invest<br>divorce<br>fly |  
@@ -147,6 +159,18 @@ invest |
 | bip_39_word_space_7 | grab welcome leave lab impulse guilt river |  
 | bip_39_word_space_8 | grab welcome leave lab impulse guilt river basic |  
 | bip_39_word_space_9 | grab welcome leave lab impulse guilt river basic invest |  
+| bip_39_word_underscore_1 | grab |  
+| bip_39_word_underscore_10 | grab_welcome_leave_lab_impulse_guilt_river_basic_invest_divorce |  
+| bip_39_word_underscore_11 | grab_welcome_leave_lab_impulse_guilt_river_basic_invest_divorce_fly |  
+| bip_39_word_underscore_12 | grab_welcome_leave_lab_impulse_guilt_river_basic_invest_divorce_fly_arctic |  
+| bip_39_word_underscore_2 | grab_welcome |  
+| bip_39_word_underscore_3 | grab_welcome_leave |  
+| bip_39_word_underscore_4 | grab_welcome_leave_lab |  
+| bip_39_word_underscore_5 | grab_welcome_leave_lab_impulse |  
+| bip_39_word_underscore_6 | grab_welcome_leave_lab_impulse_guilt |  
+| bip_39_word_underscore_7 | grab_welcome_leave_lab_impulse_guilt_river |  
+| bip_39_word_underscore_8 | grab_welcome_leave_lab_impulse_guilt_river_basic |  
+| bip_39_word_underscore_9 | grab_welcome_leave_lab_impulse_guilt_river_basic_invest |  
 | classification | food |  
 | classification_capital | Food |  
 | classification_first_letter | f |  

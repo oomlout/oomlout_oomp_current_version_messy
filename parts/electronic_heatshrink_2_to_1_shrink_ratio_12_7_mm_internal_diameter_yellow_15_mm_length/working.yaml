@@ -1,3 +1,15 @@
+bip_39_word_dash_1: transfer
+bip_39_word_dash_10: transfer-invest-party-need-oyster-whale-drop-balance-nurse-cliff
+bip_39_word_dash_11: transfer-invest-party-need-oyster-whale-drop-balance-nurse-cliff-double
+bip_39_word_dash_12: transfer-invest-party-need-oyster-whale-drop-balance-nurse-cliff-double-art
+bip_39_word_dash_2: transfer-invest
+bip_39_word_dash_3: transfer-invest-party
+bip_39_word_dash_4: transfer-invest-party-need
+bip_39_word_dash_5: transfer-invest-party-need-oyster
+bip_39_word_dash_6: transfer-invest-party-need-oyster-whale
+bip_39_word_dash_7: transfer-invest-party-need-oyster-whale-drop
+bip_39_word_dash_8: transfer-invest-party-need-oyster-whale-drop-balance
+bip_39_word_dash_9: transfer-invest-party-need-oyster-whale-drop-balance-nurse
 bip_39_word_new_br_1: transfer
 bip_39_word_new_br_10: transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance<br>nurse<br>cliff
 bip_39_word_new_br_11: transfer<br>invest<br>party<br>need<br>oyster<br>whale<br>drop<br>balance<br>nurse<br>cliff<br>double
@@ -193,6 +205,18 @@ bip_39_word_space_6: transfer invest party need oyster whale
 bip_39_word_space_7: transfer invest party need oyster whale drop
 bip_39_word_space_8: transfer invest party need oyster whale drop balance
 bip_39_word_space_9: transfer invest party need oyster whale drop balance nurse
+bip_39_word_underscore_1: transfer
+bip_39_word_underscore_10: transfer_invest_party_need_oyster_whale_drop_balance_nurse_cliff
+bip_39_word_underscore_11: transfer_invest_party_need_oyster_whale_drop_balance_nurse_cliff_double
+bip_39_word_underscore_12: transfer_invest_party_need_oyster_whale_drop_balance_nurse_cliff_double_art
+bip_39_word_underscore_2: transfer_invest
+bip_39_word_underscore_3: transfer_invest_party
+bip_39_word_underscore_4: transfer_invest_party_need
+bip_39_word_underscore_5: transfer_invest_party_need_oyster
+bip_39_word_underscore_6: transfer_invest_party_need_oyster_whale
+bip_39_word_underscore_7: transfer_invest_party_need_oyster_whale_drop
+bip_39_word_underscore_8: transfer_invest_party_need_oyster_whale_drop_balance
+bip_39_word_underscore_9: transfer_invest_party_need_oyster_whale_drop_balance_nurse
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

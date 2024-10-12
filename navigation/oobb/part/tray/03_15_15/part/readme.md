@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quit |  
+| bip_39_word_dash_10 | quit-street-twice-cushion-opera-educate-build-carpet-social-music |  
+| bip_39_word_dash_11 | quit-street-twice-cushion-opera-educate-build-carpet-social-music-aware |  
+| bip_39_word_dash_12 | quit-street-twice-cushion-opera-educate-build-carpet-social-music-aware-action |  
+| bip_39_word_dash_2 | quit-street |  
+| bip_39_word_dash_3 | quit-street-twice |  
+| bip_39_word_dash_4 | quit-street-twice-cushion |  
+| bip_39_word_dash_5 | quit-street-twice-cushion-opera |  
+| bip_39_word_dash_6 | quit-street-twice-cushion-opera-educate |  
+| bip_39_word_dash_7 | quit-street-twice-cushion-opera-educate-build |  
+| bip_39_word_dash_8 | quit-street-twice-cushion-opera-educate-build-carpet |  
+| bip_39_word_dash_9 | quit-street-twice-cushion-opera-educate-build-carpet-social |  
 | bip_39_word_new_br_1 | quit |  
 | bip_39_word_new_br_10 | quit<br>street<br>twice<br>cushion<br>opera<br>educate<br>build<br>carpet<br>social<br>music |  
 | bip_39_word_new_br_11 | quit<br>street<br>twice<br>cushion<br>opera<br>educate<br>build<br>carpet<br>social<br>music<br>aware |  
@@ -147,6 +159,18 @@ social |
 | bip_39_word_space_7 | quit street twice cushion opera educate build |  
 | bip_39_word_space_8 | quit street twice cushion opera educate build carpet |  
 | bip_39_word_space_9 | quit street twice cushion opera educate build carpet social |  
+| bip_39_word_underscore_1 | quit |  
+| bip_39_word_underscore_10 | quit_street_twice_cushion_opera_educate_build_carpet_social_music |  
+| bip_39_word_underscore_11 | quit_street_twice_cushion_opera_educate_build_carpet_social_music_aware |  
+| bip_39_word_underscore_12 | quit_street_twice_cushion_opera_educate_build_carpet_social_music_aware_action |  
+| bip_39_word_underscore_2 | quit_street |  
+| bip_39_word_underscore_3 | quit_street_twice |  
+| bip_39_word_underscore_4 | quit_street_twice_cushion |  
+| bip_39_word_underscore_5 | quit_street_twice_cushion_opera |  
+| bip_39_word_underscore_6 | quit_street_twice_cushion_opera_educate |  
+| bip_39_word_underscore_7 | quit_street_twice_cushion_opera_educate_build |  
+| bip_39_word_underscore_8 | quit_street_twice_cushion_opera_educate_build_carpet |  
+| bip_39_word_underscore_9 | quit_street_twice_cushion_opera_educate_build_carpet_social |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

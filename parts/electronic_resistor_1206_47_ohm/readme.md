@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mean |  
+| bip_39_word_dash_10 | mean-monster-cheap-awesome-unusual-wage-engage-release-design-boil |  
+| bip_39_word_dash_11 | mean-monster-cheap-awesome-unusual-wage-engage-release-design-boil-modify |  
+| bip_39_word_dash_12 | mean-monster-cheap-awesome-unusual-wage-engage-release-design-boil-modify-average |  
+| bip_39_word_dash_2 | mean-monster |  
+| bip_39_word_dash_3 | mean-monster-cheap |  
+| bip_39_word_dash_4 | mean-monster-cheap-awesome |  
+| bip_39_word_dash_5 | mean-monster-cheap-awesome-unusual |  
+| bip_39_word_dash_6 | mean-monster-cheap-awesome-unusual-wage |  
+| bip_39_word_dash_7 | mean-monster-cheap-awesome-unusual-wage-engage |  
+| bip_39_word_dash_8 | mean-monster-cheap-awesome-unusual-wage-engage-release |  
+| bip_39_word_dash_9 | mean-monster-cheap-awesome-unusual-wage-engage-release-design |  
 | bip_39_word_new_br_1 | mean |  
 | bip_39_word_new_br_10 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release<br>design<br>boil |  
 | bip_39_word_new_br_11 | mean<br>monster<br>cheap<br>awesome<br>unusual<br>wage<br>engage<br>release<br>design<br>boil<br>modify |  
@@ -147,6 +159,18 @@ design |
 | bip_39_word_space_7 | mean monster cheap awesome unusual wage engage |  
 | bip_39_word_space_8 | mean monster cheap awesome unusual wage engage release |  
 | bip_39_word_space_9 | mean monster cheap awesome unusual wage engage release design |  
+| bip_39_word_underscore_1 | mean |  
+| bip_39_word_underscore_10 | mean_monster_cheap_awesome_unusual_wage_engage_release_design_boil |  
+| bip_39_word_underscore_11 | mean_monster_cheap_awesome_unusual_wage_engage_release_design_boil_modify |  
+| bip_39_word_underscore_12 | mean_monster_cheap_awesome_unusual_wage_engage_release_design_boil_modify_average |  
+| bip_39_word_underscore_2 | mean_monster |  
+| bip_39_word_underscore_3 | mean_monster_cheap |  
+| bip_39_word_underscore_4 | mean_monster_cheap_awesome |  
+| bip_39_word_underscore_5 | mean_monster_cheap_awesome_unusual |  
+| bip_39_word_underscore_6 | mean_monster_cheap_awesome_unusual_wage |  
+| bip_39_word_underscore_7 | mean_monster_cheap_awesome_unusual_wage_engage |  
+| bip_39_word_underscore_8 | mean_monster_cheap_awesome_unusual_wage_engage_release |  
+| bip_39_word_underscore_9 | mean_monster_cheap_awesome_unusual_wage_engage_release_design |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | receive |  
+| bip_39_word_dash_10 | receive-bunker-moon-gentle-throw-false-tuition-century-recipe-salt |  
+| bip_39_word_dash_11 | receive-bunker-moon-gentle-throw-false-tuition-century-recipe-salt-cool |  
+| bip_39_word_dash_12 | receive-bunker-moon-gentle-throw-false-tuition-century-recipe-salt-cool-album |  
+| bip_39_word_dash_2 | receive-bunker |  
+| bip_39_word_dash_3 | receive-bunker-moon |  
+| bip_39_word_dash_4 | receive-bunker-moon-gentle |  
+| bip_39_word_dash_5 | receive-bunker-moon-gentle-throw |  
+| bip_39_word_dash_6 | receive-bunker-moon-gentle-throw-false |  
+| bip_39_word_dash_7 | receive-bunker-moon-gentle-throw-false-tuition |  
+| bip_39_word_dash_8 | receive-bunker-moon-gentle-throw-false-tuition-century |  
+| bip_39_word_dash_9 | receive-bunker-moon-gentle-throw-false-tuition-century-recipe |  
 | bip_39_word_new_br_1 | receive |  
 | bip_39_word_new_br_10 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt |  
 | bip_39_word_new_br_11 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt<br>cool |  
@@ -147,6 +159,18 @@ recipe |
 | bip_39_word_space_7 | receive bunker moon gentle throw false tuition |  
 | bip_39_word_space_8 | receive bunker moon gentle throw false tuition century |  
 | bip_39_word_space_9 | receive bunker moon gentle throw false tuition century recipe |  
+| bip_39_word_underscore_1 | receive |  
+| bip_39_word_underscore_10 | receive_bunker_moon_gentle_throw_false_tuition_century_recipe_salt |  
+| bip_39_word_underscore_11 | receive_bunker_moon_gentle_throw_false_tuition_century_recipe_salt_cool |  
+| bip_39_word_underscore_12 | receive_bunker_moon_gentle_throw_false_tuition_century_recipe_salt_cool_album |  
+| bip_39_word_underscore_2 | receive_bunker |  
+| bip_39_word_underscore_3 | receive_bunker_moon |  
+| bip_39_word_underscore_4 | receive_bunker_moon_gentle |  
+| bip_39_word_underscore_5 | receive_bunker_moon_gentle_throw |  
+| bip_39_word_underscore_6 | receive_bunker_moon_gentle_throw_false |  
+| bip_39_word_underscore_7 | receive_bunker_moon_gentle_throw_false_tuition |  
+| bip_39_word_underscore_8 | receive_bunker_moon_gentle_throw_false_tuition_century |  
+| bip_39_word_underscore_9 | receive_bunker_moon_gentle_throw_false_tuition_century_recipe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

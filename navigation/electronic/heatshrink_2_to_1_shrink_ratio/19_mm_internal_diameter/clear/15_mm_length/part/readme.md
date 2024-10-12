@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cup |  
+| bip_39_word_dash_10 | cup-fossil-happy-slow-fun-visit-day-noise-rotate-army |  
+| bip_39_word_dash_11 | cup-fossil-happy-slow-fun-visit-day-noise-rotate-army-today |  
+| bip_39_word_dash_12 | cup-fossil-happy-slow-fun-visit-day-noise-rotate-army-today-abstract |  
+| bip_39_word_dash_2 | cup-fossil |  
+| bip_39_word_dash_3 | cup-fossil-happy |  
+| bip_39_word_dash_4 | cup-fossil-happy-slow |  
+| bip_39_word_dash_5 | cup-fossil-happy-slow-fun |  
+| bip_39_word_dash_6 | cup-fossil-happy-slow-fun-visit |  
+| bip_39_word_dash_7 | cup-fossil-happy-slow-fun-visit-day |  
+| bip_39_word_dash_8 | cup-fossil-happy-slow-fun-visit-day-noise |  
+| bip_39_word_dash_9 | cup-fossil-happy-slow-fun-visit-day-noise-rotate |  
 | bip_39_word_new_br_1 | cup |  
 | bip_39_word_new_br_10 | cup<br>fossil<br>happy<br>slow<br>fun<br>visit<br>day<br>noise<br>rotate<br>army |  
 | bip_39_word_new_br_11 | cup<br>fossil<br>happy<br>slow<br>fun<br>visit<br>day<br>noise<br>rotate<br>army<br>today |  
@@ -147,6 +159,18 @@ rotate |
 | bip_39_word_space_7 | cup fossil happy slow fun visit day |  
 | bip_39_word_space_8 | cup fossil happy slow fun visit day noise |  
 | bip_39_word_space_9 | cup fossil happy slow fun visit day noise rotate |  
+| bip_39_word_underscore_1 | cup |  
+| bip_39_word_underscore_10 | cup_fossil_happy_slow_fun_visit_day_noise_rotate_army |  
+| bip_39_word_underscore_11 | cup_fossil_happy_slow_fun_visit_day_noise_rotate_army_today |  
+| bip_39_word_underscore_12 | cup_fossil_happy_slow_fun_visit_day_noise_rotate_army_today_abstract |  
+| bip_39_word_underscore_2 | cup_fossil |  
+| bip_39_word_underscore_3 | cup_fossil_happy |  
+| bip_39_word_underscore_4 | cup_fossil_happy_slow |  
+| bip_39_word_underscore_5 | cup_fossil_happy_slow_fun |  
+| bip_39_word_underscore_6 | cup_fossil_happy_slow_fun_visit |  
+| bip_39_word_underscore_7 | cup_fossil_happy_slow_fun_visit_day |  
+| bip_39_word_underscore_8 | cup_fossil_happy_slow_fun_visit_day_noise |  
+| bip_39_word_underscore_9 | cup_fossil_happy_slow_fun_visit_day_noise_rotate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

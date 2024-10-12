@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | solution |  
+| bip_39_word_dash_10 | solution-tissue-rescue-elegant-lend-cricket-trade-duty-van-share |  
+| bip_39_word_dash_11 | solution-tissue-rescue-elegant-lend-cricket-trade-duty-van-share-clinic |  
+| bip_39_word_dash_12 | solution-tissue-rescue-elegant-lend-cricket-trade-duty-van-share-clinic-affair |  
+| bip_39_word_dash_2 | solution-tissue |  
+| bip_39_word_dash_3 | solution-tissue-rescue |  
+| bip_39_word_dash_4 | solution-tissue-rescue-elegant |  
+| bip_39_word_dash_5 | solution-tissue-rescue-elegant-lend |  
+| bip_39_word_dash_6 | solution-tissue-rescue-elegant-lend-cricket |  
+| bip_39_word_dash_7 | solution-tissue-rescue-elegant-lend-cricket-trade |  
+| bip_39_word_dash_8 | solution-tissue-rescue-elegant-lend-cricket-trade-duty |  
+| bip_39_word_dash_9 | solution-tissue-rescue-elegant-lend-cricket-trade-duty-van |  
 | bip_39_word_new_br_1 | solution |  
 | bip_39_word_new_br_10 | solution<br>tissue<br>rescue<br>elegant<br>lend<br>cricket<br>trade<br>duty<br>van<br>share |  
 | bip_39_word_new_br_11 | solution<br>tissue<br>rescue<br>elegant<br>lend<br>cricket<br>trade<br>duty<br>van<br>share<br>clinic |  
@@ -147,6 +159,18 @@ van |
 | bip_39_word_space_7 | solution tissue rescue elegant lend cricket trade |  
 | bip_39_word_space_8 | solution tissue rescue elegant lend cricket trade duty |  
 | bip_39_word_space_9 | solution tissue rescue elegant lend cricket trade duty van |  
+| bip_39_word_underscore_1 | solution |  
+| bip_39_word_underscore_10 | solution_tissue_rescue_elegant_lend_cricket_trade_duty_van_share |  
+| bip_39_word_underscore_11 | solution_tissue_rescue_elegant_lend_cricket_trade_duty_van_share_clinic |  
+| bip_39_word_underscore_12 | solution_tissue_rescue_elegant_lend_cricket_trade_duty_van_share_clinic_affair |  
+| bip_39_word_underscore_2 | solution_tissue |  
+| bip_39_word_underscore_3 | solution_tissue_rescue |  
+| bip_39_word_underscore_4 | solution_tissue_rescue_elegant |  
+| bip_39_word_underscore_5 | solution_tissue_rescue_elegant_lend |  
+| bip_39_word_underscore_6 | solution_tissue_rescue_elegant_lend_cricket |  
+| bip_39_word_underscore_7 | solution_tissue_rescue_elegant_lend_cricket_trade |  
+| bip_39_word_underscore_8 | solution_tissue_rescue_elegant_lend_cricket_trade_duty |  
+| bip_39_word_underscore_9 | solution_tissue_rescue_elegant_lend_cricket_trade_duty_van |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

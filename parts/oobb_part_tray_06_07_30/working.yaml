@@ -1,3 +1,15 @@
+bip_39_word_dash_1: build
+bip_39_word_dash_10: build-tree-rare-era-sound-mechanic-resist-knee-salon-play
+bip_39_word_dash_11: build-tree-rare-era-sound-mechanic-resist-knee-salon-play-angry
+bip_39_word_dash_12: build-tree-rare-era-sound-mechanic-resist-knee-salon-play-angry-aspect
+bip_39_word_dash_2: build-tree
+bip_39_word_dash_3: build-tree-rare
+bip_39_word_dash_4: build-tree-rare-era
+bip_39_word_dash_5: build-tree-rare-era-sound
+bip_39_word_dash_6: build-tree-rare-era-sound-mechanic
+bip_39_word_dash_7: build-tree-rare-era-sound-mechanic-resist
+bip_39_word_dash_8: build-tree-rare-era-sound-mechanic-resist-knee
+bip_39_word_dash_9: build-tree-rare-era-sound-mechanic-resist-knee-salon
 bip_39_word_new_br_1: build
 bip_39_word_new_br_10: build<br>tree<br>rare<br>era<br>sound<br>mechanic<br>resist<br>knee<br>salon<br>play
 bip_39_word_new_br_11: build<br>tree<br>rare<br>era<br>sound<br>mechanic<br>resist<br>knee<br>salon<br>play<br>angry
@@ -192,6 +204,18 @@ bip_39_word_space_6: build tree rare era sound mechanic
 bip_39_word_space_7: build tree rare era sound mechanic resist
 bip_39_word_space_8: build tree rare era sound mechanic resist knee
 bip_39_word_space_9: build tree rare era sound mechanic resist knee salon
+bip_39_word_underscore_1: build
+bip_39_word_underscore_10: build_tree_rare_era_sound_mechanic_resist_knee_salon_play
+bip_39_word_underscore_11: build_tree_rare_era_sound_mechanic_resist_knee_salon_play_angry
+bip_39_word_underscore_12: build_tree_rare_era_sound_mechanic_resist_knee_salon_play_angry_aspect
+bip_39_word_underscore_2: build_tree
+bip_39_word_underscore_3: build_tree_rare
+bip_39_word_underscore_4: build_tree_rare_era
+bip_39_word_underscore_5: build_tree_rare_era_sound
+bip_39_word_underscore_6: build_tree_rare_era_sound_mechanic
+bip_39_word_underscore_7: build_tree_rare_era_sound_mechanic_resist
+bip_39_word_underscore_8: build_tree_rare_era_sound_mechanic_resist_knee
+bip_39_word_underscore_9: build_tree_rare_era_sound_mechanic_resist_knee_salon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lecture |  
+| bip_39_word_dash_10 | lecture-birth-arrive-doll-fence-auction-dress-opinion-emotion-vanish |  
+| bip_39_word_dash_11 | lecture-birth-arrive-doll-fence-auction-dress-opinion-emotion-vanish-between |  
+| bip_39_word_dash_12 | lecture-birth-arrive-doll-fence-auction-dress-opinion-emotion-vanish-between-achieve |  
+| bip_39_word_dash_2 | lecture-birth |  
+| bip_39_word_dash_3 | lecture-birth-arrive |  
+| bip_39_word_dash_4 | lecture-birth-arrive-doll |  
+| bip_39_word_dash_5 | lecture-birth-arrive-doll-fence |  
+| bip_39_word_dash_6 | lecture-birth-arrive-doll-fence-auction |  
+| bip_39_word_dash_7 | lecture-birth-arrive-doll-fence-auction-dress |  
+| bip_39_word_dash_8 | lecture-birth-arrive-doll-fence-auction-dress-opinion |  
+| bip_39_word_dash_9 | lecture-birth-arrive-doll-fence-auction-dress-opinion-emotion |  
 | bip_39_word_new_br_1 | lecture |  
 | bip_39_word_new_br_10 | lecture<br>birth<br>arrive<br>doll<br>fence<br>auction<br>dress<br>opinion<br>emotion<br>vanish |  
 | bip_39_word_new_br_11 | lecture<br>birth<br>arrive<br>doll<br>fence<br>auction<br>dress<br>opinion<br>emotion<br>vanish<br>between |  
@@ -147,6 +159,18 @@ emotion |
 | bip_39_word_space_7 | lecture birth arrive doll fence auction dress |  
 | bip_39_word_space_8 | lecture birth arrive doll fence auction dress opinion |  
 | bip_39_word_space_9 | lecture birth arrive doll fence auction dress opinion emotion |  
+| bip_39_word_underscore_1 | lecture |  
+| bip_39_word_underscore_10 | lecture_birth_arrive_doll_fence_auction_dress_opinion_emotion_vanish |  
+| bip_39_word_underscore_11 | lecture_birth_arrive_doll_fence_auction_dress_opinion_emotion_vanish_between |  
+| bip_39_word_underscore_12 | lecture_birth_arrive_doll_fence_auction_dress_opinion_emotion_vanish_between_achieve |  
+| bip_39_word_underscore_2 | lecture_birth |  
+| bip_39_word_underscore_3 | lecture_birth_arrive |  
+| bip_39_word_underscore_4 | lecture_birth_arrive_doll |  
+| bip_39_word_underscore_5 | lecture_birth_arrive_doll_fence |  
+| bip_39_word_underscore_6 | lecture_birth_arrive_doll_fence_auction |  
+| bip_39_word_underscore_7 | lecture_birth_arrive_doll_fence_auction_dress |  
+| bip_39_word_underscore_8 | lecture_birth_arrive_doll_fence_auction_dress_opinion |  
+| bip_39_word_underscore_9 | lecture_birth_arrive_doll_fence_auction_dress_opinion_emotion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

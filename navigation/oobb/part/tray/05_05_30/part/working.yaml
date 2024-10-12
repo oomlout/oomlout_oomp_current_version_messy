@@ -1,3 +1,14 @@
+bip_39_word_dash_1: news
+bip_39_word_dash_10: news-art-woman-struggle-index-view-source-wage-warrior-radio
+bip_39_word_dash_11: news-art-woman-struggle-index-view-source-wage-warrior-radio-elbow
+bip_39_word_dash_2: news-art
+bip_39_word_dash_3: news-art-woman
+bip_39_word_dash_4: news-art-woman-struggle
+bip_39_word_dash_5: news-art-woman-struggle-index
+bip_39_word_dash_6: news-art-woman-struggle-index-view
+bip_39_word_dash_7: news-art-woman-struggle-index-view-source
+bip_39_word_dash_8: news-art-woman-struggle-index-view-source-wage
+bip_39_word_dash_9: news-art-woman-struggle-index-view-source-wage-warrior
 bip_39_word_new_br_1: news
 bip_39_word_new_br_10: news<br>art<br>woman<br>struggle<br>index<br>view<br>source<br>wage<br>warrior<br>radio
 bip_39_word_new_br_11: news<br>art<br>woman<br>struggle<br>index<br>view<br>source<br>wage<br>warrior<br>radio<br>elbow
@@ -165,6 +176,17 @@ bip_39_word_space_6: news art woman struggle index view
 bip_39_word_space_7: news art woman struggle index view source
 bip_39_word_space_8: news art woman struggle index view source wage
 bip_39_word_space_9: news art woman struggle index view source wage warrior
+bip_39_word_underscore_1: news
+bip_39_word_underscore_10: news_art_woman_struggle_index_view_source_wage_warrior_radio
+bip_39_word_underscore_11: news_art_woman_struggle_index_view_source_wage_warrior_radio_elbow
+bip_39_word_underscore_2: news_art
+bip_39_word_underscore_3: news_art_woman
+bip_39_word_underscore_4: news_art_woman_struggle
+bip_39_word_underscore_5: news_art_woman_struggle_index
+bip_39_word_underscore_6: news_art_woman_struggle_index_view
+bip_39_word_underscore_7: news_art_woman_struggle_index_view_source
+bip_39_word_underscore_8: news_art_woman_struggle_index_view_source_wage
+bip_39_word_underscore_9: news_art_woman_struggle_index_view_source_wage_warrior
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

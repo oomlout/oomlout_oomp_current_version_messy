@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diamond |  
+| bip_39_word_dash_10 | diamond-carry-swing-author-ignore-radar-frame-roast-slight-busy |  
+| bip_39_word_dash_11 | diamond-carry-swing-author-ignore-radar-frame-roast-slight-busy-canyon |  
+| bip_39_word_dash_2 | diamond-carry |  
+| bip_39_word_dash_3 | diamond-carry-swing |  
+| bip_39_word_dash_4 | diamond-carry-swing-author |  
+| bip_39_word_dash_5 | diamond-carry-swing-author-ignore |  
+| bip_39_word_dash_6 | diamond-carry-swing-author-ignore-radar |  
+| bip_39_word_dash_7 | diamond-carry-swing-author-ignore-radar-frame |  
+| bip_39_word_dash_8 | diamond-carry-swing-author-ignore-radar-frame-roast |  
+| bip_39_word_dash_9 | diamond-carry-swing-author-ignore-radar-frame-roast-slight |  
 | bip_39_word_new_br_1 | diamond |  
 | bip_39_word_new_br_10 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight<br>busy |  
 | bip_39_word_new_br_11 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight<br>busy<br>canyon |  
@@ -132,6 +143,17 @@ slight |
 | bip_39_word_space_7 | diamond carry swing author ignore radar frame |  
 | bip_39_word_space_8 | diamond carry swing author ignore radar frame roast |  
 | bip_39_word_space_9 | diamond carry swing author ignore radar frame roast slight |  
+| bip_39_word_underscore_1 | diamond |  
+| bip_39_word_underscore_10 | diamond_carry_swing_author_ignore_radar_frame_roast_slight_busy |  
+| bip_39_word_underscore_11 | diamond_carry_swing_author_ignore_radar_frame_roast_slight_busy_canyon |  
+| bip_39_word_underscore_2 | diamond_carry |  
+| bip_39_word_underscore_3 | diamond_carry_swing |  
+| bip_39_word_underscore_4 | diamond_carry_swing_author |  
+| bip_39_word_underscore_5 | diamond_carry_swing_author_ignore |  
+| bip_39_word_underscore_6 | diamond_carry_swing_author_ignore_radar |  
+| bip_39_word_underscore_7 | diamond_carry_swing_author_ignore_radar_frame |  
+| bip_39_word_underscore_8 | diamond_carry_swing_author_ignore_radar_frame_roast |  
+| bip_39_word_underscore_9 | diamond_carry_swing_author_ignore_radar_frame_roast_slight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

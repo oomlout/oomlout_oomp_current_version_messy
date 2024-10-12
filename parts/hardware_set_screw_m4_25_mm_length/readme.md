@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | daughter |  
+| bip_39_word_dash_10 | daughter-found-obvious-swarm-peasant-evolve-tunnel-scatter-minor-spike |  
+| bip_39_word_dash_11 | daughter-found-obvious-swarm-peasant-evolve-tunnel-scatter-minor-spike-route |  
+| bip_39_word_dash_12 | daughter-found-obvious-swarm-peasant-evolve-tunnel-scatter-minor-spike-route-accuse |  
+| bip_39_word_dash_2 | daughter-found |  
+| bip_39_word_dash_3 | daughter-found-obvious |  
+| bip_39_word_dash_4 | daughter-found-obvious-swarm |  
+| bip_39_word_dash_5 | daughter-found-obvious-swarm-peasant |  
+| bip_39_word_dash_6 | daughter-found-obvious-swarm-peasant-evolve |  
+| bip_39_word_dash_7 | daughter-found-obvious-swarm-peasant-evolve-tunnel |  
+| bip_39_word_dash_8 | daughter-found-obvious-swarm-peasant-evolve-tunnel-scatter |  
+| bip_39_word_dash_9 | daughter-found-obvious-swarm-peasant-evolve-tunnel-scatter-minor |  
 | bip_39_word_new_br_1 | daughter |  
 | bip_39_word_new_br_10 | daughter<br>found<br>obvious<br>swarm<br>peasant<br>evolve<br>tunnel<br>scatter<br>minor<br>spike |  
 | bip_39_word_new_br_11 | daughter<br>found<br>obvious<br>swarm<br>peasant<br>evolve<br>tunnel<br>scatter<br>minor<br>spike<br>route |  
@@ -147,6 +159,18 @@ minor |
 | bip_39_word_space_7 | daughter found obvious swarm peasant evolve tunnel |  
 | bip_39_word_space_8 | daughter found obvious swarm peasant evolve tunnel scatter |  
 | bip_39_word_space_9 | daughter found obvious swarm peasant evolve tunnel scatter minor |  
+| bip_39_word_underscore_1 | daughter |  
+| bip_39_word_underscore_10 | daughter_found_obvious_swarm_peasant_evolve_tunnel_scatter_minor_spike |  
+| bip_39_word_underscore_11 | daughter_found_obvious_swarm_peasant_evolve_tunnel_scatter_minor_spike_route |  
+| bip_39_word_underscore_12 | daughter_found_obvious_swarm_peasant_evolve_tunnel_scatter_minor_spike_route_accuse |  
+| bip_39_word_underscore_2 | daughter_found |  
+| bip_39_word_underscore_3 | daughter_found_obvious |  
+| bip_39_word_underscore_4 | daughter_found_obvious_swarm |  
+| bip_39_word_underscore_5 | daughter_found_obvious_swarm_peasant |  
+| bip_39_word_underscore_6 | daughter_found_obvious_swarm_peasant_evolve |  
+| bip_39_word_underscore_7 | daughter_found_obvious_swarm_peasant_evolve_tunnel |  
+| bip_39_word_underscore_8 | daughter_found_obvious_swarm_peasant_evolve_tunnel_scatter |  
+| bip_39_word_underscore_9 | daughter_found_obvious_swarm_peasant_evolve_tunnel_scatter_minor |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

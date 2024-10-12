@@ -1,3 +1,15 @@
+bip_39_word_dash_1: across
+bip_39_word_dash_10: across-aim-scout-chair-stumble-hen-fancy-whisper-damp-pistol
+bip_39_word_dash_11: across-aim-scout-chair-stumble-hen-fancy-whisper-damp-pistol-topic
+bip_39_word_dash_12: across-aim-scout-chair-stumble-hen-fancy-whisper-damp-pistol-topic-army
+bip_39_word_dash_2: across-aim
+bip_39_word_dash_3: across-aim-scout
+bip_39_word_dash_4: across-aim-scout-chair
+bip_39_word_dash_5: across-aim-scout-chair-stumble
+bip_39_word_dash_6: across-aim-scout-chair-stumble-hen
+bip_39_word_dash_7: across-aim-scout-chair-stumble-hen-fancy
+bip_39_word_dash_8: across-aim-scout-chair-stumble-hen-fancy-whisper
+bip_39_word_dash_9: across-aim-scout-chair-stumble-hen-fancy-whisper-damp
 bip_39_word_new_br_1: across
 bip_39_word_new_br_10: across<br>aim<br>scout<br>chair<br>stumble<br>hen<br>fancy<br>whisper<br>damp<br>pistol
 bip_39_word_new_br_11: across<br>aim<br>scout<br>chair<br>stumble<br>hen<br>fancy<br>whisper<br>damp<br>pistol<br>topic
@@ -193,6 +205,18 @@ bip_39_word_space_6: across aim scout chair stumble hen
 bip_39_word_space_7: across aim scout chair stumble hen fancy
 bip_39_word_space_8: across aim scout chair stumble hen fancy whisper
 bip_39_word_space_9: across aim scout chair stumble hen fancy whisper damp
+bip_39_word_underscore_1: across
+bip_39_word_underscore_10: across_aim_scout_chair_stumble_hen_fancy_whisper_damp_pistol
+bip_39_word_underscore_11: across_aim_scout_chair_stumble_hen_fancy_whisper_damp_pistol_topic
+bip_39_word_underscore_12: across_aim_scout_chair_stumble_hen_fancy_whisper_damp_pistol_topic_army
+bip_39_word_underscore_2: across_aim
+bip_39_word_underscore_3: across_aim_scout
+bip_39_word_underscore_4: across_aim_scout_chair
+bip_39_word_underscore_5: across_aim_scout_chair_stumble
+bip_39_word_underscore_6: across_aim_scout_chair_stumble_hen
+bip_39_word_underscore_7: across_aim_scout_chair_stumble_hen_fancy
+bip_39_word_underscore_8: across_aim_scout_chair_stumble_hen_fancy_whisper
+bip_39_word_underscore_9: across_aim_scout_chair_stumble_hen_fancy_whisper_damp
 classification: storage
 classification_capital: Storage
 classification_first_letter: s

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trophy |  
+| bip_39_word_dash_10 | trophy-seat-ketchup-blur-senior-company-swarm-century-cigar-fix |  
+| bip_39_word_dash_11 | trophy-seat-ketchup-blur-senior-company-swarm-century-cigar-fix-main |  
+| bip_39_word_dash_12 | trophy-seat-ketchup-blur-senior-company-swarm-century-cigar-fix-main-attack |  
+| bip_39_word_dash_2 | trophy-seat |  
+| bip_39_word_dash_3 | trophy-seat-ketchup |  
+| bip_39_word_dash_4 | trophy-seat-ketchup-blur |  
+| bip_39_word_dash_5 | trophy-seat-ketchup-blur-senior |  
+| bip_39_word_dash_6 | trophy-seat-ketchup-blur-senior-company |  
+| bip_39_word_dash_7 | trophy-seat-ketchup-blur-senior-company-swarm |  
+| bip_39_word_dash_8 | trophy-seat-ketchup-blur-senior-company-swarm-century |  
+| bip_39_word_dash_9 | trophy-seat-ketchup-blur-senior-company-swarm-century-cigar |  
 | bip_39_word_new_br_1 | trophy |  
 | bip_39_word_new_br_10 | trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century<br>cigar<br>fix |  
 | bip_39_word_new_br_11 | trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century<br>cigar<br>fix<br>main |  
@@ -147,6 +159,18 @@ cigar |
 | bip_39_word_space_7 | trophy seat ketchup blur senior company swarm |  
 | bip_39_word_space_8 | trophy seat ketchup blur senior company swarm century |  
 | bip_39_word_space_9 | trophy seat ketchup blur senior company swarm century cigar |  
+| bip_39_word_underscore_1 | trophy |  
+| bip_39_word_underscore_10 | trophy_seat_ketchup_blur_senior_company_swarm_century_cigar_fix |  
+| bip_39_word_underscore_11 | trophy_seat_ketchup_blur_senior_company_swarm_century_cigar_fix_main |  
+| bip_39_word_underscore_12 | trophy_seat_ketchup_blur_senior_company_swarm_century_cigar_fix_main_attack |  
+| bip_39_word_underscore_2 | trophy_seat |  
+| bip_39_word_underscore_3 | trophy_seat_ketchup |  
+| bip_39_word_underscore_4 | trophy_seat_ketchup_blur |  
+| bip_39_word_underscore_5 | trophy_seat_ketchup_blur_senior |  
+| bip_39_word_underscore_6 | trophy_seat_ketchup_blur_senior_company |  
+| bip_39_word_underscore_7 | trophy_seat_ketchup_blur_senior_company_swarm |  
+| bip_39_word_underscore_8 | trophy_seat_ketchup_blur_senior_company_swarm_century |  
+| bip_39_word_underscore_9 | trophy_seat_ketchup_blur_senior_company_swarm_century_cigar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

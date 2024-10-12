@@ -1,3 +1,15 @@
+bip_39_word_dash_1: feed
+bip_39_word_dash_10: feed-robot-fork-mouse-spend-style-episode-plug-deposit-dose
+bip_39_word_dash_11: feed-robot-fork-mouse-spend-style-episode-plug-deposit-dose-island
+bip_39_word_dash_12: feed-robot-fork-mouse-spend-style-episode-plug-deposit-dose-island-ankle
+bip_39_word_dash_2: feed-robot
+bip_39_word_dash_3: feed-robot-fork
+bip_39_word_dash_4: feed-robot-fork-mouse
+bip_39_word_dash_5: feed-robot-fork-mouse-spend
+bip_39_word_dash_6: feed-robot-fork-mouse-spend-style
+bip_39_word_dash_7: feed-robot-fork-mouse-spend-style-episode
+bip_39_word_dash_8: feed-robot-fork-mouse-spend-style-episode-plug
+bip_39_word_dash_9: feed-robot-fork-mouse-spend-style-episode-plug-deposit
 bip_39_word_new_br_1: feed
 bip_39_word_new_br_10: feed<br>robot<br>fork<br>mouse<br>spend<br>style<br>episode<br>plug<br>deposit<br>dose
 bip_39_word_new_br_11: feed<br>robot<br>fork<br>mouse<br>spend<br>style<br>episode<br>plug<br>deposit<br>dose<br>island
@@ -193,6 +205,18 @@ bip_39_word_space_6: feed robot fork mouse spend style
 bip_39_word_space_7: feed robot fork mouse spend style episode
 bip_39_word_space_8: feed robot fork mouse spend style episode plug
 bip_39_word_space_9: feed robot fork mouse spend style episode plug deposit
+bip_39_word_underscore_1: feed
+bip_39_word_underscore_10: feed_robot_fork_mouse_spend_style_episode_plug_deposit_dose
+bip_39_word_underscore_11: feed_robot_fork_mouse_spend_style_episode_plug_deposit_dose_island
+bip_39_word_underscore_12: feed_robot_fork_mouse_spend_style_episode_plug_deposit_dose_island_ankle
+bip_39_word_underscore_2: feed_robot
+bip_39_word_underscore_3: feed_robot_fork
+bip_39_word_underscore_4: feed_robot_fork_mouse
+bip_39_word_underscore_5: feed_robot_fork_mouse_spend
+bip_39_word_underscore_6: feed_robot_fork_mouse_spend_style
+bip_39_word_underscore_7: feed_robot_fork_mouse_spend_style_episode
+bip_39_word_underscore_8: feed_robot_fork_mouse_spend_style_episode_plug
+bip_39_word_underscore_9: feed_robot_fork_mouse_spend_style_episode_plug_deposit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lecture |  
+| bip_39_word_dash_10 | lecture-adjust-rule-dress-uphold-sand-relief-immense-shaft-render |  
+| bip_39_word_dash_11 | lecture-adjust-rule-dress-uphold-sand-relief-immense-shaft-render-ill |  
+| bip_39_word_dash_12 | lecture-adjust-rule-dress-uphold-sand-relief-immense-shaft-render-ill-aspect |  
+| bip_39_word_dash_2 | lecture-adjust |  
+| bip_39_word_dash_3 | lecture-adjust-rule |  
+| bip_39_word_dash_4 | lecture-adjust-rule-dress |  
+| bip_39_word_dash_5 | lecture-adjust-rule-dress-uphold |  
+| bip_39_word_dash_6 | lecture-adjust-rule-dress-uphold-sand |  
+| bip_39_word_dash_7 | lecture-adjust-rule-dress-uphold-sand-relief |  
+| bip_39_word_dash_8 | lecture-adjust-rule-dress-uphold-sand-relief-immense |  
+| bip_39_word_dash_9 | lecture-adjust-rule-dress-uphold-sand-relief-immense-shaft |  
 | bip_39_word_new_br_1 | lecture |  
 | bip_39_word_new_br_10 | lecture<br>adjust<br>rule<br>dress<br>uphold<br>sand<br>relief<br>immense<br>shaft<br>render |  
 | bip_39_word_new_br_11 | lecture<br>adjust<br>rule<br>dress<br>uphold<br>sand<br>relief<br>immense<br>shaft<br>render<br>ill |  
@@ -147,6 +159,18 @@ shaft |
 | bip_39_word_space_7 | lecture adjust rule dress uphold sand relief |  
 | bip_39_word_space_8 | lecture adjust rule dress uphold sand relief immense |  
 | bip_39_word_space_9 | lecture adjust rule dress uphold sand relief immense shaft |  
+| bip_39_word_underscore_1 | lecture |  
+| bip_39_word_underscore_10 | lecture_adjust_rule_dress_uphold_sand_relief_immense_shaft_render |  
+| bip_39_word_underscore_11 | lecture_adjust_rule_dress_uphold_sand_relief_immense_shaft_render_ill |  
+| bip_39_word_underscore_12 | lecture_adjust_rule_dress_uphold_sand_relief_immense_shaft_render_ill_aspect |  
+| bip_39_word_underscore_2 | lecture_adjust |  
+| bip_39_word_underscore_3 | lecture_adjust_rule |  
+| bip_39_word_underscore_4 | lecture_adjust_rule_dress |  
+| bip_39_word_underscore_5 | lecture_adjust_rule_dress_uphold |  
+| bip_39_word_underscore_6 | lecture_adjust_rule_dress_uphold_sand |  
+| bip_39_word_underscore_7 | lecture_adjust_rule_dress_uphold_sand_relief |  
+| bip_39_word_underscore_8 | lecture_adjust_rule_dress_uphold_sand_relief_immense |  
+| bip_39_word_underscore_9 | lecture_adjust_rule_dress_uphold_sand_relief_immense_shaft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | universe |  
+| bip_39_word_dash_10 | universe-autumn-flip-sing-pair-topple-tourist-ostrich-egg-toddler |  
+| bip_39_word_dash_11 | universe-autumn-flip-sing-pair-topple-tourist-ostrich-egg-toddler-year |  
+| bip_39_word_dash_12 | universe-autumn-flip-sing-pair-topple-tourist-ostrich-egg-toddler-year-alter |  
+| bip_39_word_dash_2 | universe-autumn |  
+| bip_39_word_dash_3 | universe-autumn-flip |  
+| bip_39_word_dash_4 | universe-autumn-flip-sing |  
+| bip_39_word_dash_5 | universe-autumn-flip-sing-pair |  
+| bip_39_word_dash_6 | universe-autumn-flip-sing-pair-topple |  
+| bip_39_word_dash_7 | universe-autumn-flip-sing-pair-topple-tourist |  
+| bip_39_word_dash_8 | universe-autumn-flip-sing-pair-topple-tourist-ostrich |  
+| bip_39_word_dash_9 | universe-autumn-flip-sing-pair-topple-tourist-ostrich-egg |  
 | bip_39_word_new_br_1 | universe |  
 | bip_39_word_new_br_10 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler |  
 | bip_39_word_new_br_11 | universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler<br>year |  
@@ -147,6 +159,18 @@ egg |
 | bip_39_word_space_7 | universe autumn flip sing pair topple tourist |  
 | bip_39_word_space_8 | universe autumn flip sing pair topple tourist ostrich |  
 | bip_39_word_space_9 | universe autumn flip sing pair topple tourist ostrich egg |  
+| bip_39_word_underscore_1 | universe |  
+| bip_39_word_underscore_10 | universe_autumn_flip_sing_pair_topple_tourist_ostrich_egg_toddler |  
+| bip_39_word_underscore_11 | universe_autumn_flip_sing_pair_topple_tourist_ostrich_egg_toddler_year |  
+| bip_39_word_underscore_12 | universe_autumn_flip_sing_pair_topple_tourist_ostrich_egg_toddler_year_alter |  
+| bip_39_word_underscore_2 | universe_autumn |  
+| bip_39_word_underscore_3 | universe_autumn_flip |  
+| bip_39_word_underscore_4 | universe_autumn_flip_sing |  
+| bip_39_word_underscore_5 | universe_autumn_flip_sing_pair |  
+| bip_39_word_underscore_6 | universe_autumn_flip_sing_pair_topple |  
+| bip_39_word_underscore_7 | universe_autumn_flip_sing_pair_topple_tourist |  
+| bip_39_word_underscore_8 | universe_autumn_flip_sing_pair_topple_tourist_ostrich |  
+| bip_39_word_underscore_9 | universe_autumn_flip_sing_pair_topple_tourist_ostrich_egg |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

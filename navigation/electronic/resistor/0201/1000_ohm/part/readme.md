@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | south |  
+| bip_39_word_dash_10 | south-medal-core-wear-melody-accident-razor-deliver-pact-humor |  
+| bip_39_word_dash_11 | south-medal-core-wear-melody-accident-razor-deliver-pact-humor-panda |  
+| bip_39_word_dash_12 | south-medal-core-wear-melody-accident-razor-deliver-pact-humor-panda-amazing |  
+| bip_39_word_dash_2 | south-medal |  
+| bip_39_word_dash_3 | south-medal-core |  
+| bip_39_word_dash_4 | south-medal-core-wear |  
+| bip_39_word_dash_5 | south-medal-core-wear-melody |  
+| bip_39_word_dash_6 | south-medal-core-wear-melody-accident |  
+| bip_39_word_dash_7 | south-medal-core-wear-melody-accident-razor |  
+| bip_39_word_dash_8 | south-medal-core-wear-melody-accident-razor-deliver |  
+| bip_39_word_dash_9 | south-medal-core-wear-melody-accident-razor-deliver-pact |  
 | bip_39_word_new_br_1 | south |  
 | bip_39_word_new_br_10 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver<br>pact<br>humor |  
 | bip_39_word_new_br_11 | south<br>medal<br>core<br>wear<br>melody<br>accident<br>razor<br>deliver<br>pact<br>humor<br>panda |  
@@ -147,6 +159,18 @@ pact |
 | bip_39_word_space_7 | south medal core wear melody accident razor |  
 | bip_39_word_space_8 | south medal core wear melody accident razor deliver |  
 | bip_39_word_space_9 | south medal core wear melody accident razor deliver pact |  
+| bip_39_word_underscore_1 | south |  
+| bip_39_word_underscore_10 | south_medal_core_wear_melody_accident_razor_deliver_pact_humor |  
+| bip_39_word_underscore_11 | south_medal_core_wear_melody_accident_razor_deliver_pact_humor_panda |  
+| bip_39_word_underscore_12 | south_medal_core_wear_melody_accident_razor_deliver_pact_humor_panda_amazing |  
+| bip_39_word_underscore_2 | south_medal |  
+| bip_39_word_underscore_3 | south_medal_core |  
+| bip_39_word_underscore_4 | south_medal_core_wear |  
+| bip_39_word_underscore_5 | south_medal_core_wear_melody |  
+| bip_39_word_underscore_6 | south_medal_core_wear_melody_accident |  
+| bip_39_word_underscore_7 | south_medal_core_wear_melody_accident_razor |  
+| bip_39_word_underscore_8 | south_medal_core_wear_melody_accident_razor_deliver |  
+| bip_39_word_underscore_9 | south_medal_core_wear_melody_accident_razor_deliver_pact |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

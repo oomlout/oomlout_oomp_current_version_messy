@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exotic
+bip_39_word_dash_10: exotic-creek-daring-frown-wrist-report-travel-color-have-tragic
+bip_39_word_dash_11: exotic-creek-daring-frown-wrist-report-travel-color-have-tragic-crime
+bip_39_word_dash_12: exotic-creek-daring-frown-wrist-report-travel-color-have-tragic-crime-achieve
+bip_39_word_dash_2: exotic-creek
+bip_39_word_dash_3: exotic-creek-daring
+bip_39_word_dash_4: exotic-creek-daring-frown
+bip_39_word_dash_5: exotic-creek-daring-frown-wrist
+bip_39_word_dash_6: exotic-creek-daring-frown-wrist-report
+bip_39_word_dash_7: exotic-creek-daring-frown-wrist-report-travel
+bip_39_word_dash_8: exotic-creek-daring-frown-wrist-report-travel-color
+bip_39_word_dash_9: exotic-creek-daring-frown-wrist-report-travel-color-have
 bip_39_word_new_br_1: exotic
 bip_39_word_new_br_10: exotic<br>creek<br>daring<br>frown<br>wrist<br>report<br>travel<br>color<br>have<br>tragic
 bip_39_word_new_br_11: exotic<br>creek<br>daring<br>frown<br>wrist<br>report<br>travel<br>color<br>have<br>tragic<br>crime
@@ -193,6 +205,18 @@ bip_39_word_space_6: exotic creek daring frown wrist report
 bip_39_word_space_7: exotic creek daring frown wrist report travel
 bip_39_word_space_8: exotic creek daring frown wrist report travel color
 bip_39_word_space_9: exotic creek daring frown wrist report travel color have
+bip_39_word_underscore_1: exotic
+bip_39_word_underscore_10: exotic_creek_daring_frown_wrist_report_travel_color_have_tragic
+bip_39_word_underscore_11: exotic_creek_daring_frown_wrist_report_travel_color_have_tragic_crime
+bip_39_word_underscore_12: exotic_creek_daring_frown_wrist_report_travel_color_have_tragic_crime_achieve
+bip_39_word_underscore_2: exotic_creek
+bip_39_word_underscore_3: exotic_creek_daring
+bip_39_word_underscore_4: exotic_creek_daring_frown
+bip_39_word_underscore_5: exotic_creek_daring_frown_wrist
+bip_39_word_underscore_6: exotic_creek_daring_frown_wrist_report
+bip_39_word_underscore_7: exotic_creek_daring_frown_wrist_report_travel
+bip_39_word_underscore_8: exotic_creek_daring_frown_wrist_report_travel_color
+bip_39_word_underscore_9: exotic_creek_daring_frown_wrist_report_travel_color_have
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

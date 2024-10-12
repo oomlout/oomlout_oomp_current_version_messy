@@ -1,3 +1,15 @@
+bip_39_word_dash_1: odor
+bip_39_word_dash_10: odor-forward-diary-master-flat-dream-clip-swing-small-curve
+bip_39_word_dash_11: odor-forward-diary-master-flat-dream-clip-swing-small-curve-unusual
+bip_39_word_dash_12: odor-forward-diary-master-flat-dream-clip-swing-small-curve-unusual-attend
+bip_39_word_dash_2: odor-forward
+bip_39_word_dash_3: odor-forward-diary
+bip_39_word_dash_4: odor-forward-diary-master
+bip_39_word_dash_5: odor-forward-diary-master-flat
+bip_39_word_dash_6: odor-forward-diary-master-flat-dream
+bip_39_word_dash_7: odor-forward-diary-master-flat-dream-clip
+bip_39_word_dash_8: odor-forward-diary-master-flat-dream-clip-swing
+bip_39_word_dash_9: odor-forward-diary-master-flat-dream-clip-swing-small
 bip_39_word_new_br_1: odor
 bip_39_word_new_br_10: odor<br>forward<br>diary<br>master<br>flat<br>dream<br>clip<br>swing<br>small<br>curve
 bip_39_word_new_br_11: odor<br>forward<br>diary<br>master<br>flat<br>dream<br>clip<br>swing<br>small<br>curve<br>unusual
@@ -193,6 +205,18 @@ bip_39_word_space_6: odor forward diary master flat dream
 bip_39_word_space_7: odor forward diary master flat dream clip
 bip_39_word_space_8: odor forward diary master flat dream clip swing
 bip_39_word_space_9: odor forward diary master flat dream clip swing small
+bip_39_word_underscore_1: odor
+bip_39_word_underscore_10: odor_forward_diary_master_flat_dream_clip_swing_small_curve
+bip_39_word_underscore_11: odor_forward_diary_master_flat_dream_clip_swing_small_curve_unusual
+bip_39_word_underscore_12: odor_forward_diary_master_flat_dream_clip_swing_small_curve_unusual_attend
+bip_39_word_underscore_2: odor_forward
+bip_39_word_underscore_3: odor_forward_diary
+bip_39_word_underscore_4: odor_forward_diary_master
+bip_39_word_underscore_5: odor_forward_diary_master_flat
+bip_39_word_underscore_6: odor_forward_diary_master_flat_dream
+bip_39_word_underscore_7: odor_forward_diary_master_flat_dream_clip
+bip_39_word_underscore_8: odor_forward_diary_master_flat_dream_clip_swing
+bip_39_word_underscore_9: odor_forward_diary_master_flat_dream_clip_swing_small
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

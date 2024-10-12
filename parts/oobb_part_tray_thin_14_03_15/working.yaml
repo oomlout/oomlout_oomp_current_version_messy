@@ -1,3 +1,15 @@
+bip_39_word_dash_1: frog
+bip_39_word_dash_10: frog-defense-benefit-thrive-seed-brick-custom-pony-mercy-butter
+bip_39_word_dash_11: frog-defense-benefit-thrive-seed-brick-custom-pony-mercy-butter-whip
+bip_39_word_dash_12: frog-defense-benefit-thrive-seed-brick-custom-pony-mercy-butter-whip-argue
+bip_39_word_dash_2: frog-defense
+bip_39_word_dash_3: frog-defense-benefit
+bip_39_word_dash_4: frog-defense-benefit-thrive
+bip_39_word_dash_5: frog-defense-benefit-thrive-seed
+bip_39_word_dash_6: frog-defense-benefit-thrive-seed-brick
+bip_39_word_dash_7: frog-defense-benefit-thrive-seed-brick-custom
+bip_39_word_dash_8: frog-defense-benefit-thrive-seed-brick-custom-pony
+bip_39_word_dash_9: frog-defense-benefit-thrive-seed-brick-custom-pony-mercy
 bip_39_word_new_br_1: frog
 bip_39_word_new_br_10: frog<br>defense<br>benefit<br>thrive<br>seed<br>brick<br>custom<br>pony<br>mercy<br>butter
 bip_39_word_new_br_11: frog<br>defense<br>benefit<br>thrive<br>seed<br>brick<br>custom<br>pony<br>mercy<br>butter<br>whip
@@ -193,6 +205,18 @@ bip_39_word_space_6: frog defense benefit thrive seed brick
 bip_39_word_space_7: frog defense benefit thrive seed brick custom
 bip_39_word_space_8: frog defense benefit thrive seed brick custom pony
 bip_39_word_space_9: frog defense benefit thrive seed brick custom pony mercy
+bip_39_word_underscore_1: frog
+bip_39_word_underscore_10: frog_defense_benefit_thrive_seed_brick_custom_pony_mercy_butter
+bip_39_word_underscore_11: frog_defense_benefit_thrive_seed_brick_custom_pony_mercy_butter_whip
+bip_39_word_underscore_12: frog_defense_benefit_thrive_seed_brick_custom_pony_mercy_butter_whip_argue
+bip_39_word_underscore_2: frog_defense
+bip_39_word_underscore_3: frog_defense_benefit
+bip_39_word_underscore_4: frog_defense_benefit_thrive
+bip_39_word_underscore_5: frog_defense_benefit_thrive_seed
+bip_39_word_underscore_6: frog_defense_benefit_thrive_seed_brick
+bip_39_word_underscore_7: frog_defense_benefit_thrive_seed_brick_custom
+bip_39_word_underscore_8: frog_defense_benefit_thrive_seed_brick_custom_pony
+bip_39_word_underscore_9: frog_defense_benefit_thrive_seed_brick_custom_pony_mercy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

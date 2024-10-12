@@ -1,3 +1,15 @@
+bip_39_word_dash_1: breeze
+bip_39_word_dash_10: breeze-among-kingdom-village-gas-multiply-half-bike-protect-poem
+bip_39_word_dash_11: breeze-among-kingdom-village-gas-multiply-half-bike-protect-poem-impulse
+bip_39_word_dash_12: breeze-among-kingdom-village-gas-multiply-half-bike-protect-poem-impulse-artefact
+bip_39_word_dash_2: breeze-among
+bip_39_word_dash_3: breeze-among-kingdom
+bip_39_word_dash_4: breeze-among-kingdom-village
+bip_39_word_dash_5: breeze-among-kingdom-village-gas
+bip_39_word_dash_6: breeze-among-kingdom-village-gas-multiply
+bip_39_word_dash_7: breeze-among-kingdom-village-gas-multiply-half
+bip_39_word_dash_8: breeze-among-kingdom-village-gas-multiply-half-bike
+bip_39_word_dash_9: breeze-among-kingdom-village-gas-multiply-half-bike-protect
 bip_39_word_new_br_1: breeze
 bip_39_word_new_br_10: breeze<br>among<br>kingdom<br>village<br>gas<br>multiply<br>half<br>bike<br>protect<br>poem
 bip_39_word_new_br_11: breeze<br>among<br>kingdom<br>village<br>gas<br>multiply<br>half<br>bike<br>protect<br>poem<br>impulse
@@ -194,6 +206,18 @@ bip_39_word_space_6: breeze among kingdom village gas multiply
 bip_39_word_space_7: breeze among kingdom village gas multiply half
 bip_39_word_space_8: breeze among kingdom village gas multiply half bike
 bip_39_word_space_9: breeze among kingdom village gas multiply half bike protect
+bip_39_word_underscore_1: breeze
+bip_39_word_underscore_10: breeze_among_kingdom_village_gas_multiply_half_bike_protect_poem
+bip_39_word_underscore_11: breeze_among_kingdom_village_gas_multiply_half_bike_protect_poem_impulse
+bip_39_word_underscore_12: breeze_among_kingdom_village_gas_multiply_half_bike_protect_poem_impulse_artefact
+bip_39_word_underscore_2: breeze_among
+bip_39_word_underscore_3: breeze_among_kingdom
+bip_39_word_underscore_4: breeze_among_kingdom_village
+bip_39_word_underscore_5: breeze_among_kingdom_village_gas
+bip_39_word_underscore_6: breeze_among_kingdom_village_gas_multiply
+bip_39_word_underscore_7: breeze_among_kingdom_village_gas_multiply_half
+bip_39_word_underscore_8: breeze_among_kingdom_village_gas_multiply_half_bike
+bip_39_word_underscore_9: breeze_among_kingdom_village_gas_multiply_half_bike_protect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

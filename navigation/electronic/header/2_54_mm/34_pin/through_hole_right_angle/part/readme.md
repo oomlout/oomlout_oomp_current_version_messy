@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clay |  
+| bip_39_word_dash_10 | clay-embark-item-spray-shoe-analyst-skull-family-letter-gravity |  
+| bip_39_word_dash_11 | clay-embark-item-spray-shoe-analyst-skull-family-letter-gravity-remember |  
+| bip_39_word_dash_12 | clay-embark-item-spray-shoe-analyst-skull-family-letter-gravity-remember-amazing |  
+| bip_39_word_dash_2 | clay-embark |  
+| bip_39_word_dash_3 | clay-embark-item |  
+| bip_39_word_dash_4 | clay-embark-item-spray |  
+| bip_39_word_dash_5 | clay-embark-item-spray-shoe |  
+| bip_39_word_dash_6 | clay-embark-item-spray-shoe-analyst |  
+| bip_39_word_dash_7 | clay-embark-item-spray-shoe-analyst-skull |  
+| bip_39_word_dash_8 | clay-embark-item-spray-shoe-analyst-skull-family |  
+| bip_39_word_dash_9 | clay-embark-item-spray-shoe-analyst-skull-family-letter |  
 | bip_39_word_new_br_1 | clay |  
 | bip_39_word_new_br_10 | clay<br>embark<br>item<br>spray<br>shoe<br>analyst<br>skull<br>family<br>letter<br>gravity |  
 | bip_39_word_new_br_11 | clay<br>embark<br>item<br>spray<br>shoe<br>analyst<br>skull<br>family<br>letter<br>gravity<br>remember |  
@@ -147,6 +159,18 @@ letter |
 | bip_39_word_space_7 | clay embark item spray shoe analyst skull |  
 | bip_39_word_space_8 | clay embark item spray shoe analyst skull family |  
 | bip_39_word_space_9 | clay embark item spray shoe analyst skull family letter |  
+| bip_39_word_underscore_1 | clay |  
+| bip_39_word_underscore_10 | clay_embark_item_spray_shoe_analyst_skull_family_letter_gravity |  
+| bip_39_word_underscore_11 | clay_embark_item_spray_shoe_analyst_skull_family_letter_gravity_remember |  
+| bip_39_word_underscore_12 | clay_embark_item_spray_shoe_analyst_skull_family_letter_gravity_remember_amazing |  
+| bip_39_word_underscore_2 | clay_embark |  
+| bip_39_word_underscore_3 | clay_embark_item |  
+| bip_39_word_underscore_4 | clay_embark_item_spray |  
+| bip_39_word_underscore_5 | clay_embark_item_spray_shoe |  
+| bip_39_word_underscore_6 | clay_embark_item_spray_shoe_analyst |  
+| bip_39_word_underscore_7 | clay_embark_item_spray_shoe_analyst_skull |  
+| bip_39_word_underscore_8 | clay_embark_item_spray_shoe_analyst_skull_family |  
+| bip_39_word_underscore_9 | clay_embark_item_spray_shoe_analyst_skull_family_letter |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

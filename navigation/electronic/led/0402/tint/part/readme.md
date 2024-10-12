@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | call |  
+| bip_39_word_dash_10 | call-scan-coil-impulse-genuine-lava-hard-agree-else-afford |  
+| bip_39_word_dash_11 | call-scan-coil-impulse-genuine-lava-hard-agree-else-afford-sad |  
+| bip_39_word_dash_12 | call-scan-coil-impulse-genuine-lava-hard-agree-else-afford-sad-attack |  
+| bip_39_word_dash_2 | call-scan |  
+| bip_39_word_dash_3 | call-scan-coil |  
+| bip_39_word_dash_4 | call-scan-coil-impulse |  
+| bip_39_word_dash_5 | call-scan-coil-impulse-genuine |  
+| bip_39_word_dash_6 | call-scan-coil-impulse-genuine-lava |  
+| bip_39_word_dash_7 | call-scan-coil-impulse-genuine-lava-hard |  
+| bip_39_word_dash_8 | call-scan-coil-impulse-genuine-lava-hard-agree |  
+| bip_39_word_dash_9 | call-scan-coil-impulse-genuine-lava-hard-agree-else |  
 | bip_39_word_new_br_1 | call |  
 | bip_39_word_new_br_10 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford |  
 | bip_39_word_new_br_11 | call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford<br>sad |  
@@ -147,6 +159,18 @@ else |
 | bip_39_word_space_7 | call scan coil impulse genuine lava hard |  
 | bip_39_word_space_8 | call scan coil impulse genuine lava hard agree |  
 | bip_39_word_space_9 | call scan coil impulse genuine lava hard agree else |  
+| bip_39_word_underscore_1 | call |  
+| bip_39_word_underscore_10 | call_scan_coil_impulse_genuine_lava_hard_agree_else_afford |  
+| bip_39_word_underscore_11 | call_scan_coil_impulse_genuine_lava_hard_agree_else_afford_sad |  
+| bip_39_word_underscore_12 | call_scan_coil_impulse_genuine_lava_hard_agree_else_afford_sad_attack |  
+| bip_39_word_underscore_2 | call_scan |  
+| bip_39_word_underscore_3 | call_scan_coil |  
+| bip_39_word_underscore_4 | call_scan_coil_impulse |  
+| bip_39_word_underscore_5 | call_scan_coil_impulse_genuine |  
+| bip_39_word_underscore_6 | call_scan_coil_impulse_genuine_lava |  
+| bip_39_word_underscore_7 | call_scan_coil_impulse_genuine_lava_hard |  
+| bip_39_word_underscore_8 | call_scan_coil_impulse_genuine_lava_hard_agree |  
+| bip_39_word_underscore_9 | call_scan_coil_impulse_genuine_lava_hard_agree_else |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

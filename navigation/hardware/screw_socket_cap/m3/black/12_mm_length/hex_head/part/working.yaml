@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inch
+bip_39_word_dash_10: inch-cereal-bunker-history-gap-cereal-width-police-hero-bounce
+bip_39_word_dash_11: inch-cereal-bunker-history-gap-cereal-width-police-hero-bounce-stable
+bip_39_word_dash_12: inch-cereal-bunker-history-gap-cereal-width-police-hero-bounce-stable-around
+bip_39_word_dash_2: inch-cereal
+bip_39_word_dash_3: inch-cereal-bunker
+bip_39_word_dash_4: inch-cereal-bunker-history
+bip_39_word_dash_5: inch-cereal-bunker-history-gap
+bip_39_word_dash_6: inch-cereal-bunker-history-gap-cereal
+bip_39_word_dash_7: inch-cereal-bunker-history-gap-cereal-width
+bip_39_word_dash_8: inch-cereal-bunker-history-gap-cereal-width-police
+bip_39_word_dash_9: inch-cereal-bunker-history-gap-cereal-width-police-hero
 bip_39_word_new_br_1: inch
 bip_39_word_new_br_10: inch<br>cereal<br>bunker<br>history<br>gap<br>cereal<br>width<br>police<br>hero<br>bounce
 bip_39_word_new_br_11: inch<br>cereal<br>bunker<br>history<br>gap<br>cereal<br>width<br>police<br>hero<br>bounce<br>stable
@@ -193,6 +205,18 @@ bip_39_word_space_6: inch cereal bunker history gap cereal
 bip_39_word_space_7: inch cereal bunker history gap cereal width
 bip_39_word_space_8: inch cereal bunker history gap cereal width police
 bip_39_word_space_9: inch cereal bunker history gap cereal width police hero
+bip_39_word_underscore_1: inch
+bip_39_word_underscore_10: inch_cereal_bunker_history_gap_cereal_width_police_hero_bounce
+bip_39_word_underscore_11: inch_cereal_bunker_history_gap_cereal_width_police_hero_bounce_stable
+bip_39_word_underscore_12: inch_cereal_bunker_history_gap_cereal_width_police_hero_bounce_stable_around
+bip_39_word_underscore_2: inch_cereal
+bip_39_word_underscore_3: inch_cereal_bunker
+bip_39_word_underscore_4: inch_cereal_bunker_history
+bip_39_word_underscore_5: inch_cereal_bunker_history_gap
+bip_39_word_underscore_6: inch_cereal_bunker_history_gap_cereal
+bip_39_word_underscore_7: inch_cereal_bunker_history_gap_cereal_width
+bip_39_word_underscore_8: inch_cereal_bunker_history_gap_cereal_width_police
+bip_39_word_underscore_9: inch_cereal_bunker_history_gap_cereal_width_police_hero
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

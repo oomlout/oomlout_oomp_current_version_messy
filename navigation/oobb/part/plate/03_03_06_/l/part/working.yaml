@@ -1,3 +1,15 @@
+bip_39_word_dash_1: breeze
+bip_39_word_dash_10: breeze-belt-apart-icon-swim-mean-wagon-report-seed-attract
+bip_39_word_dash_11: breeze-belt-apart-icon-swim-mean-wagon-report-seed-attract-pill
+bip_39_word_dash_12: breeze-belt-apart-icon-swim-mean-wagon-report-seed-attract-pill-avocado
+bip_39_word_dash_2: breeze-belt
+bip_39_word_dash_3: breeze-belt-apart
+bip_39_word_dash_4: breeze-belt-apart-icon
+bip_39_word_dash_5: breeze-belt-apart-icon-swim
+bip_39_word_dash_6: breeze-belt-apart-icon-swim-mean
+bip_39_word_dash_7: breeze-belt-apart-icon-swim-mean-wagon
+bip_39_word_dash_8: breeze-belt-apart-icon-swim-mean-wagon-report
+bip_39_word_dash_9: breeze-belt-apart-icon-swim-mean-wagon-report-seed
 bip_39_word_new_br_1: breeze
 bip_39_word_new_br_10: breeze<br>belt<br>apart<br>icon<br>swim<br>mean<br>wagon<br>report<br>seed<br>attract
 bip_39_word_new_br_11: breeze<br>belt<br>apart<br>icon<br>swim<br>mean<br>wagon<br>report<br>seed<br>attract<br>pill
@@ -192,6 +204,18 @@ bip_39_word_space_6: breeze belt apart icon swim mean
 bip_39_word_space_7: breeze belt apart icon swim mean wagon
 bip_39_word_space_8: breeze belt apart icon swim mean wagon report
 bip_39_word_space_9: breeze belt apart icon swim mean wagon report seed
+bip_39_word_underscore_1: breeze
+bip_39_word_underscore_10: breeze_belt_apart_icon_swim_mean_wagon_report_seed_attract
+bip_39_word_underscore_11: breeze_belt_apart_icon_swim_mean_wagon_report_seed_attract_pill
+bip_39_word_underscore_12: breeze_belt_apart_icon_swim_mean_wagon_report_seed_attract_pill_avocado
+bip_39_word_underscore_2: breeze_belt
+bip_39_word_underscore_3: breeze_belt_apart
+bip_39_word_underscore_4: breeze_belt_apart_icon
+bip_39_word_underscore_5: breeze_belt_apart_icon_swim
+bip_39_word_underscore_6: breeze_belt_apart_icon_swim_mean
+bip_39_word_underscore_7: breeze_belt_apart_icon_swim_mean_wagon
+bip_39_word_underscore_8: breeze_belt_apart_icon_swim_mean_wagon_report
+bip_39_word_underscore_9: breeze_belt_apart_icon_swim_mean_wagon_report_seed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: awkward
+bip_39_word_dash_10: awkward-amazing-pledge-foot-seminar-champion-gadget-tenant-lizard-garment
+bip_39_word_dash_11: awkward-amazing-pledge-foot-seminar-champion-gadget-tenant-lizard-garment-panther
+bip_39_word_dash_12: awkward-amazing-pledge-foot-seminar-champion-gadget-tenant-lizard-garment-panther-aim
+bip_39_word_dash_2: awkward-amazing
+bip_39_word_dash_3: awkward-amazing-pledge
+bip_39_word_dash_4: awkward-amazing-pledge-foot
+bip_39_word_dash_5: awkward-amazing-pledge-foot-seminar
+bip_39_word_dash_6: awkward-amazing-pledge-foot-seminar-champion
+bip_39_word_dash_7: awkward-amazing-pledge-foot-seminar-champion-gadget
+bip_39_word_dash_8: awkward-amazing-pledge-foot-seminar-champion-gadget-tenant
+bip_39_word_dash_9: awkward-amazing-pledge-foot-seminar-champion-gadget-tenant-lizard
 bip_39_word_new_br_1: awkward
 bip_39_word_new_br_10: awkward<br>amazing<br>pledge<br>foot<br>seminar<br>champion<br>gadget<br>tenant<br>lizard<br>garment
 bip_39_word_new_br_11: awkward<br>amazing<br>pledge<br>foot<br>seminar<br>champion<br>gadget<br>tenant<br>lizard<br>garment<br>panther
@@ -194,6 +206,18 @@ bip_39_word_space_6: awkward amazing pledge foot seminar champion
 bip_39_word_space_7: awkward amazing pledge foot seminar champion gadget
 bip_39_word_space_8: awkward amazing pledge foot seminar champion gadget tenant
 bip_39_word_space_9: awkward amazing pledge foot seminar champion gadget tenant lizard
+bip_39_word_underscore_1: awkward
+bip_39_word_underscore_10: awkward_amazing_pledge_foot_seminar_champion_gadget_tenant_lizard_garment
+bip_39_word_underscore_11: awkward_amazing_pledge_foot_seminar_champion_gadget_tenant_lizard_garment_panther
+bip_39_word_underscore_12: awkward_amazing_pledge_foot_seminar_champion_gadget_tenant_lizard_garment_panther_aim
+bip_39_word_underscore_2: awkward_amazing
+bip_39_word_underscore_3: awkward_amazing_pledge
+bip_39_word_underscore_4: awkward_amazing_pledge_foot
+bip_39_word_underscore_5: awkward_amazing_pledge_foot_seminar
+bip_39_word_underscore_6: awkward_amazing_pledge_foot_seminar_champion
+bip_39_word_underscore_7: awkward_amazing_pledge_foot_seminar_champion_gadget
+bip_39_word_underscore_8: awkward_amazing_pledge_foot_seminar_champion_gadget_tenant
+bip_39_word_underscore_9: awkward_amazing_pledge_foot_seminar_champion_gadget_tenant_lizard
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

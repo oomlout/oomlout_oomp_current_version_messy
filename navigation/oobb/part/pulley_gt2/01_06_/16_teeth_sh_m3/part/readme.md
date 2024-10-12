@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hint |  
+| bip_39_word_dash_10 | hint-wisdom-dinosaur-artist-treat-good-describe-valley-weasel-garlic |  
+| bip_39_word_dash_11 | hint-wisdom-dinosaur-artist-treat-good-describe-valley-weasel-garlic-canvas |  
+| bip_39_word_dash_12 | hint-wisdom-dinosaur-artist-treat-good-describe-valley-weasel-garlic-canvas-abuse |  
+| bip_39_word_dash_2 | hint-wisdom |  
+| bip_39_word_dash_3 | hint-wisdom-dinosaur |  
+| bip_39_word_dash_4 | hint-wisdom-dinosaur-artist |  
+| bip_39_word_dash_5 | hint-wisdom-dinosaur-artist-treat |  
+| bip_39_word_dash_6 | hint-wisdom-dinosaur-artist-treat-good |  
+| bip_39_word_dash_7 | hint-wisdom-dinosaur-artist-treat-good-describe |  
+| bip_39_word_dash_8 | hint-wisdom-dinosaur-artist-treat-good-describe-valley |  
+| bip_39_word_dash_9 | hint-wisdom-dinosaur-artist-treat-good-describe-valley-weasel |  
 | bip_39_word_new_br_1 | hint |  
 | bip_39_word_new_br_10 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic |  
 | bip_39_word_new_br_11 | hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic<br>canvas |  
@@ -147,6 +159,18 @@ weasel |
 | bip_39_word_space_7 | hint wisdom dinosaur artist treat good describe |  
 | bip_39_word_space_8 | hint wisdom dinosaur artist treat good describe valley |  
 | bip_39_word_space_9 | hint wisdom dinosaur artist treat good describe valley weasel |  
+| bip_39_word_underscore_1 | hint |  
+| bip_39_word_underscore_10 | hint_wisdom_dinosaur_artist_treat_good_describe_valley_weasel_garlic |  
+| bip_39_word_underscore_11 | hint_wisdom_dinosaur_artist_treat_good_describe_valley_weasel_garlic_canvas |  
+| bip_39_word_underscore_12 | hint_wisdom_dinosaur_artist_treat_good_describe_valley_weasel_garlic_canvas_abuse |  
+| bip_39_word_underscore_2 | hint_wisdom |  
+| bip_39_word_underscore_3 | hint_wisdom_dinosaur |  
+| bip_39_word_underscore_4 | hint_wisdom_dinosaur_artist |  
+| bip_39_word_underscore_5 | hint_wisdom_dinosaur_artist_treat |  
+| bip_39_word_underscore_6 | hint_wisdom_dinosaur_artist_treat_good |  
+| bip_39_word_underscore_7 | hint_wisdom_dinosaur_artist_treat_good_describe |  
+| bip_39_word_underscore_8 | hint_wisdom_dinosaur_artist_treat_good_describe_valley |  
+| bip_39_word_underscore_9 | hint_wisdom_dinosaur_artist_treat_good_describe_valley_weasel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

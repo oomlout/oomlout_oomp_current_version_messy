@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | focus |  
+| bip_39_word_dash_10 | focus-unique-dizzy-pyramid-argue-knock-lava-hammer-polar-judge |  
+| bip_39_word_dash_11 | focus-unique-dizzy-pyramid-argue-knock-lava-hammer-polar-judge-frozen |  
+| bip_39_word_dash_12 | focus-unique-dizzy-pyramid-argue-knock-lava-hammer-polar-judge-frozen-asset |  
+| bip_39_word_dash_2 | focus-unique |  
+| bip_39_word_dash_3 | focus-unique-dizzy |  
+| bip_39_word_dash_4 | focus-unique-dizzy-pyramid |  
+| bip_39_word_dash_5 | focus-unique-dizzy-pyramid-argue |  
+| bip_39_word_dash_6 | focus-unique-dizzy-pyramid-argue-knock |  
+| bip_39_word_dash_7 | focus-unique-dizzy-pyramid-argue-knock-lava |  
+| bip_39_word_dash_8 | focus-unique-dizzy-pyramid-argue-knock-lava-hammer |  
+| bip_39_word_dash_9 | focus-unique-dizzy-pyramid-argue-knock-lava-hammer-polar |  
 | bip_39_word_new_br_1 | focus |  
 | bip_39_word_new_br_10 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer<br>polar<br>judge |  
 | bip_39_word_new_br_11 | focus<br>unique<br>dizzy<br>pyramid<br>argue<br>knock<br>lava<br>hammer<br>polar<br>judge<br>frozen |  
@@ -147,6 +159,18 @@ polar |
 | bip_39_word_space_7 | focus unique dizzy pyramid argue knock lava |  
 | bip_39_word_space_8 | focus unique dizzy pyramid argue knock lava hammer |  
 | bip_39_word_space_9 | focus unique dizzy pyramid argue knock lava hammer polar |  
+| bip_39_word_underscore_1 | focus |  
+| bip_39_word_underscore_10 | focus_unique_dizzy_pyramid_argue_knock_lava_hammer_polar_judge |  
+| bip_39_word_underscore_11 | focus_unique_dizzy_pyramid_argue_knock_lava_hammer_polar_judge_frozen |  
+| bip_39_word_underscore_12 | focus_unique_dizzy_pyramid_argue_knock_lava_hammer_polar_judge_frozen_asset |  
+| bip_39_word_underscore_2 | focus_unique |  
+| bip_39_word_underscore_3 | focus_unique_dizzy |  
+| bip_39_word_underscore_4 | focus_unique_dizzy_pyramid |  
+| bip_39_word_underscore_5 | focus_unique_dizzy_pyramid_argue |  
+| bip_39_word_underscore_6 | focus_unique_dizzy_pyramid_argue_knock |  
+| bip_39_word_underscore_7 | focus_unique_dizzy_pyramid_argue_knock_lava |  
+| bip_39_word_underscore_8 | focus_unique_dizzy_pyramid_argue_knock_lava_hammer |  
+| bip_39_word_underscore_9 | focus_unique_dizzy_pyramid_argue_knock_lava_hammer_polar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

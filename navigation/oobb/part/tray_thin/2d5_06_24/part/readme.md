@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | record |  
+| bip_39_word_dash_10 | record-butter-keen-federal-choice-guilt-welcome-float-affair-because |  
+| bip_39_word_dash_11 | record-butter-keen-federal-choice-guilt-welcome-float-affair-because-crash |  
+| bip_39_word_dash_12 | record-butter-keen-federal-choice-guilt-welcome-float-affair-because-crash-attitude |  
+| bip_39_word_dash_2 | record-butter |  
+| bip_39_word_dash_3 | record-butter-keen |  
+| bip_39_word_dash_4 | record-butter-keen-federal |  
+| bip_39_word_dash_5 | record-butter-keen-federal-choice |  
+| bip_39_word_dash_6 | record-butter-keen-federal-choice-guilt |  
+| bip_39_word_dash_7 | record-butter-keen-federal-choice-guilt-welcome |  
+| bip_39_word_dash_8 | record-butter-keen-federal-choice-guilt-welcome-float |  
+| bip_39_word_dash_9 | record-butter-keen-federal-choice-guilt-welcome-float-affair |  
 | bip_39_word_new_br_1 | record |  
 | bip_39_word_new_br_10 | record<br>butter<br>keen<br>federal<br>choice<br>guilt<br>welcome<br>float<br>affair<br>because |  
 | bip_39_word_new_br_11 | record<br>butter<br>keen<br>federal<br>choice<br>guilt<br>welcome<br>float<br>affair<br>because<br>crash |  
@@ -147,6 +159,18 @@ affair |
 | bip_39_word_space_7 | record butter keen federal choice guilt welcome |  
 | bip_39_word_space_8 | record butter keen federal choice guilt welcome float |  
 | bip_39_word_space_9 | record butter keen federal choice guilt welcome float affair |  
+| bip_39_word_underscore_1 | record |  
+| bip_39_word_underscore_10 | record_butter_keen_federal_choice_guilt_welcome_float_affair_because |  
+| bip_39_word_underscore_11 | record_butter_keen_federal_choice_guilt_welcome_float_affair_because_crash |  
+| bip_39_word_underscore_12 | record_butter_keen_federal_choice_guilt_welcome_float_affair_because_crash_attitude |  
+| bip_39_word_underscore_2 | record_butter |  
+| bip_39_word_underscore_3 | record_butter_keen |  
+| bip_39_word_underscore_4 | record_butter_keen_federal |  
+| bip_39_word_underscore_5 | record_butter_keen_federal_choice |  
+| bip_39_word_underscore_6 | record_butter_keen_federal_choice_guilt |  
+| bip_39_word_underscore_7 | record_butter_keen_federal_choice_guilt_welcome |  
+| bip_39_word_underscore_8 | record_butter_keen_federal_choice_guilt_welcome_float |  
+| bip_39_word_underscore_9 | record_butter_keen_federal_choice_guilt_welcome_float_affair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

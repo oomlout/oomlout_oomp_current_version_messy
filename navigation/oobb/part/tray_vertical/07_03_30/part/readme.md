@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | creek |  
+| bip_39_word_dash_10 | creek-decorate-this-cup-drum-chaos-another-chair-below-upgrade |  
+| bip_39_word_dash_11 | creek-decorate-this-cup-drum-chaos-another-chair-below-upgrade-pelican |  
+| bip_39_word_dash_12 | creek-decorate-this-cup-drum-chaos-another-chair-below-upgrade-pelican-advice |  
+| bip_39_word_dash_2 | creek-decorate |  
+| bip_39_word_dash_3 | creek-decorate-this |  
+| bip_39_word_dash_4 | creek-decorate-this-cup |  
+| bip_39_word_dash_5 | creek-decorate-this-cup-drum |  
+| bip_39_word_dash_6 | creek-decorate-this-cup-drum-chaos |  
+| bip_39_word_dash_7 | creek-decorate-this-cup-drum-chaos-another |  
+| bip_39_word_dash_8 | creek-decorate-this-cup-drum-chaos-another-chair |  
+| bip_39_word_dash_9 | creek-decorate-this-cup-drum-chaos-another-chair-below |  
 | bip_39_word_new_br_1 | creek |  
 | bip_39_word_new_br_10 | creek<br>decorate<br>this<br>cup<br>drum<br>chaos<br>another<br>chair<br>below<br>upgrade |  
 | bip_39_word_new_br_11 | creek<br>decorate<br>this<br>cup<br>drum<br>chaos<br>another<br>chair<br>below<br>upgrade<br>pelican |  
@@ -147,6 +159,18 @@ below |
 | bip_39_word_space_7 | creek decorate this cup drum chaos another |  
 | bip_39_word_space_8 | creek decorate this cup drum chaos another chair |  
 | bip_39_word_space_9 | creek decorate this cup drum chaos another chair below |  
+| bip_39_word_underscore_1 | creek |  
+| bip_39_word_underscore_10 | creek_decorate_this_cup_drum_chaos_another_chair_below_upgrade |  
+| bip_39_word_underscore_11 | creek_decorate_this_cup_drum_chaos_another_chair_below_upgrade_pelican |  
+| bip_39_word_underscore_12 | creek_decorate_this_cup_drum_chaos_another_chair_below_upgrade_pelican_advice |  
+| bip_39_word_underscore_2 | creek_decorate |  
+| bip_39_word_underscore_3 | creek_decorate_this |  
+| bip_39_word_underscore_4 | creek_decorate_this_cup |  
+| bip_39_word_underscore_5 | creek_decorate_this_cup_drum |  
+| bip_39_word_underscore_6 | creek_decorate_this_cup_drum_chaos |  
+| bip_39_word_underscore_7 | creek_decorate_this_cup_drum_chaos_another |  
+| bip_39_word_underscore_8 | creek_decorate_this_cup_drum_chaos_another_chair |  
+| bip_39_word_underscore_9 | creek_decorate_this_cup_drum_chaos_another_chair_below |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

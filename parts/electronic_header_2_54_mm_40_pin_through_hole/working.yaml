@@ -1,3 +1,15 @@
+bip_39_word_dash_1: consider
+bip_39_word_dash_10: consider-squeeze-wet-march-jacket-melt-car-birth-horse-property
+bip_39_word_dash_11: consider-squeeze-wet-march-jacket-melt-car-birth-horse-property-enroll
+bip_39_word_dash_12: consider-squeeze-wet-march-jacket-melt-car-birth-horse-property-enroll-arena
+bip_39_word_dash_2: consider-squeeze
+bip_39_word_dash_3: consider-squeeze-wet
+bip_39_word_dash_4: consider-squeeze-wet-march
+bip_39_word_dash_5: consider-squeeze-wet-march-jacket
+bip_39_word_dash_6: consider-squeeze-wet-march-jacket-melt
+bip_39_word_dash_7: consider-squeeze-wet-march-jacket-melt-car
+bip_39_word_dash_8: consider-squeeze-wet-march-jacket-melt-car-birth
+bip_39_word_dash_9: consider-squeeze-wet-march-jacket-melt-car-birth-horse
 bip_39_word_new_br_1: consider
 bip_39_word_new_br_10: consider<br>squeeze<br>wet<br>march<br>jacket<br>melt<br>car<br>birth<br>horse<br>property
 bip_39_word_new_br_11: consider<br>squeeze<br>wet<br>march<br>jacket<br>melt<br>car<br>birth<br>horse<br>property<br>enroll
@@ -193,6 +205,18 @@ bip_39_word_space_6: consider squeeze wet march jacket melt
 bip_39_word_space_7: consider squeeze wet march jacket melt car
 bip_39_word_space_8: consider squeeze wet march jacket melt car birth
 bip_39_word_space_9: consider squeeze wet march jacket melt car birth horse
+bip_39_word_underscore_1: consider
+bip_39_word_underscore_10: consider_squeeze_wet_march_jacket_melt_car_birth_horse_property
+bip_39_word_underscore_11: consider_squeeze_wet_march_jacket_melt_car_birth_horse_property_enroll
+bip_39_word_underscore_12: consider_squeeze_wet_march_jacket_melt_car_birth_horse_property_enroll_arena
+bip_39_word_underscore_2: consider_squeeze
+bip_39_word_underscore_3: consider_squeeze_wet
+bip_39_word_underscore_4: consider_squeeze_wet_march
+bip_39_word_underscore_5: consider_squeeze_wet_march_jacket
+bip_39_word_underscore_6: consider_squeeze_wet_march_jacket_melt
+bip_39_word_underscore_7: consider_squeeze_wet_march_jacket_melt_car
+bip_39_word_underscore_8: consider_squeeze_wet_march_jacket_melt_car_birth
+bip_39_word_underscore_9: consider_squeeze_wet_march_jacket_melt_car_birth_horse
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

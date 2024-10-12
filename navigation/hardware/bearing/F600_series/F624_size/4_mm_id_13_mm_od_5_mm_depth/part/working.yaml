@@ -1,3 +1,15 @@
+bip_39_word_dash_1: net
+bip_39_word_dash_10: net-reform-spring-local-nephew-verify-proud-comfort-drill-shift
+bip_39_word_dash_11: net-reform-spring-local-nephew-verify-proud-comfort-drill-shift-whale
+bip_39_word_dash_12: net-reform-spring-local-nephew-verify-proud-comfort-drill-shift-whale-aunt
+bip_39_word_dash_2: net-reform
+bip_39_word_dash_3: net-reform-spring
+bip_39_word_dash_4: net-reform-spring-local
+bip_39_word_dash_5: net-reform-spring-local-nephew
+bip_39_word_dash_6: net-reform-spring-local-nephew-verify
+bip_39_word_dash_7: net-reform-spring-local-nephew-verify-proud
+bip_39_word_dash_8: net-reform-spring-local-nephew-verify-proud-comfort
+bip_39_word_dash_9: net-reform-spring-local-nephew-verify-proud-comfort-drill
 bip_39_word_new_br_1: net
 bip_39_word_new_br_10: net<br>reform<br>spring<br>local<br>nephew<br>verify<br>proud<br>comfort<br>drill<br>shift
 bip_39_word_new_br_11: net<br>reform<br>spring<br>local<br>nephew<br>verify<br>proud<br>comfort<br>drill<br>shift<br>whale
@@ -193,6 +205,18 @@ bip_39_word_space_6: net reform spring local nephew verify
 bip_39_word_space_7: net reform spring local nephew verify proud
 bip_39_word_space_8: net reform spring local nephew verify proud comfort
 bip_39_word_space_9: net reform spring local nephew verify proud comfort drill
+bip_39_word_underscore_1: net
+bip_39_word_underscore_10: net_reform_spring_local_nephew_verify_proud_comfort_drill_shift
+bip_39_word_underscore_11: net_reform_spring_local_nephew_verify_proud_comfort_drill_shift_whale
+bip_39_word_underscore_12: net_reform_spring_local_nephew_verify_proud_comfort_drill_shift_whale_aunt
+bip_39_word_underscore_2: net_reform
+bip_39_word_underscore_3: net_reform_spring
+bip_39_word_underscore_4: net_reform_spring_local
+bip_39_word_underscore_5: net_reform_spring_local_nephew
+bip_39_word_underscore_6: net_reform_spring_local_nephew_verify
+bip_39_word_underscore_7: net_reform_spring_local_nephew_verify_proud
+bip_39_word_underscore_8: net_reform_spring_local_nephew_verify_proud_comfort
+bip_39_word_underscore_9: net_reform_spring_local_nephew_verify_proud_comfort_drill
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

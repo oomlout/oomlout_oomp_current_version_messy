@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inner |  
+| bip_39_word_dash_10 | inner-salad-best-ranch-outer-excite-eager-leave-glimpse-organ |  
+| bip_39_word_dash_11 | inner-salad-best-ranch-outer-excite-eager-leave-glimpse-organ-diagram |  
+| bip_39_word_dash_12 | inner-salad-best-ranch-outer-excite-eager-leave-glimpse-organ-diagram-audit |  
+| bip_39_word_dash_2 | inner-salad |  
+| bip_39_word_dash_3 | inner-salad-best |  
+| bip_39_word_dash_4 | inner-salad-best-ranch |  
+| bip_39_word_dash_5 | inner-salad-best-ranch-outer |  
+| bip_39_word_dash_6 | inner-salad-best-ranch-outer-excite |  
+| bip_39_word_dash_7 | inner-salad-best-ranch-outer-excite-eager |  
+| bip_39_word_dash_8 | inner-salad-best-ranch-outer-excite-eager-leave |  
+| bip_39_word_dash_9 | inner-salad-best-ranch-outer-excite-eager-leave-glimpse |  
 | bip_39_word_new_br_1 | inner |  
 | bip_39_word_new_br_10 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave<br>glimpse<br>organ |  
 | bip_39_word_new_br_11 | inner<br>salad<br>best<br>ranch<br>outer<br>excite<br>eager<br>leave<br>glimpse<br>organ<br>diagram |  
@@ -147,6 +159,18 @@ glimpse |
 | bip_39_word_space_7 | inner salad best ranch outer excite eager |  
 | bip_39_word_space_8 | inner salad best ranch outer excite eager leave |  
 | bip_39_word_space_9 | inner salad best ranch outer excite eager leave glimpse |  
+| bip_39_word_underscore_1 | inner |  
+| bip_39_word_underscore_10 | inner_salad_best_ranch_outer_excite_eager_leave_glimpse_organ |  
+| bip_39_word_underscore_11 | inner_salad_best_ranch_outer_excite_eager_leave_glimpse_organ_diagram |  
+| bip_39_word_underscore_12 | inner_salad_best_ranch_outer_excite_eager_leave_glimpse_organ_diagram_audit |  
+| bip_39_word_underscore_2 | inner_salad |  
+| bip_39_word_underscore_3 | inner_salad_best |  
+| bip_39_word_underscore_4 | inner_salad_best_ranch |  
+| bip_39_word_underscore_5 | inner_salad_best_ranch_outer |  
+| bip_39_word_underscore_6 | inner_salad_best_ranch_outer_excite |  
+| bip_39_word_underscore_7 | inner_salad_best_ranch_outer_excite_eager |  
+| bip_39_word_underscore_8 | inner_salad_best_ranch_outer_excite_eager_leave |  
+| bip_39_word_underscore_9 | inner_salad_best_ranch_outer_excite_eager_leave_glimpse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

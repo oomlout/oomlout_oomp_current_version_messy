@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | danger |  
+| bip_39_word_dash_10 | danger-increase-sunset-destroy-seat-whisper-deposit-stick-remember-shoulder |  
+| bip_39_word_dash_11 | danger-increase-sunset-destroy-seat-whisper-deposit-stick-remember-shoulder-flat |  
+| bip_39_word_dash_12 | danger-increase-sunset-destroy-seat-whisper-deposit-stick-remember-shoulder-flat-arrest |  
+| bip_39_word_dash_2 | danger-increase |  
+| bip_39_word_dash_3 | danger-increase-sunset |  
+| bip_39_word_dash_4 | danger-increase-sunset-destroy |  
+| bip_39_word_dash_5 | danger-increase-sunset-destroy-seat |  
+| bip_39_word_dash_6 | danger-increase-sunset-destroy-seat-whisper |  
+| bip_39_word_dash_7 | danger-increase-sunset-destroy-seat-whisper-deposit |  
+| bip_39_word_dash_8 | danger-increase-sunset-destroy-seat-whisper-deposit-stick |  
+| bip_39_word_dash_9 | danger-increase-sunset-destroy-seat-whisper-deposit-stick-remember |  
 | bip_39_word_new_br_1 | danger |  
 | bip_39_word_new_br_10 | danger<br>increase<br>sunset<br>destroy<br>seat<br>whisper<br>deposit<br>stick<br>remember<br>shoulder |  
 | bip_39_word_new_br_11 | danger<br>increase<br>sunset<br>destroy<br>seat<br>whisper<br>deposit<br>stick<br>remember<br>shoulder<br>flat |  
@@ -147,6 +159,18 @@ remember |
 | bip_39_word_space_7 | danger increase sunset destroy seat whisper deposit |  
 | bip_39_word_space_8 | danger increase sunset destroy seat whisper deposit stick |  
 | bip_39_word_space_9 | danger increase sunset destroy seat whisper deposit stick remember |  
+| bip_39_word_underscore_1 | danger |  
+| bip_39_word_underscore_10 | danger_increase_sunset_destroy_seat_whisper_deposit_stick_remember_shoulder |  
+| bip_39_word_underscore_11 | danger_increase_sunset_destroy_seat_whisper_deposit_stick_remember_shoulder_flat |  
+| bip_39_word_underscore_12 | danger_increase_sunset_destroy_seat_whisper_deposit_stick_remember_shoulder_flat_arrest |  
+| bip_39_word_underscore_2 | danger_increase |  
+| bip_39_word_underscore_3 | danger_increase_sunset |  
+| bip_39_word_underscore_4 | danger_increase_sunset_destroy |  
+| bip_39_word_underscore_5 | danger_increase_sunset_destroy_seat |  
+| bip_39_word_underscore_6 | danger_increase_sunset_destroy_seat_whisper |  
+| bip_39_word_underscore_7 | danger_increase_sunset_destroy_seat_whisper_deposit |  
+| bip_39_word_underscore_8 | danger_increase_sunset_destroy_seat_whisper_deposit_stick |  
+| bip_39_word_underscore_9 | danger_increase_sunset_destroy_seat_whisper_deposit_stick_remember |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

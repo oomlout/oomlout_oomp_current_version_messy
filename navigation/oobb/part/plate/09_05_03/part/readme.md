@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ginger |  
+| bip_39_word_dash_10 | ginger-tumble-onion-learn-payment-scare-flag-dice-ski-size |  
+| bip_39_word_dash_11 | ginger-tumble-onion-learn-payment-scare-flag-dice-ski-size-tree |  
+| bip_39_word_dash_12 | ginger-tumble-onion-learn-payment-scare-flag-dice-ski-size-tree-across |  
+| bip_39_word_dash_2 | ginger-tumble |  
+| bip_39_word_dash_3 | ginger-tumble-onion |  
+| bip_39_word_dash_4 | ginger-tumble-onion-learn |  
+| bip_39_word_dash_5 | ginger-tumble-onion-learn-payment |  
+| bip_39_word_dash_6 | ginger-tumble-onion-learn-payment-scare |  
+| bip_39_word_dash_7 | ginger-tumble-onion-learn-payment-scare-flag |  
+| bip_39_word_dash_8 | ginger-tumble-onion-learn-payment-scare-flag-dice |  
+| bip_39_word_dash_9 | ginger-tumble-onion-learn-payment-scare-flag-dice-ski |  
 | bip_39_word_new_br_1 | ginger |  
 | bip_39_word_new_br_10 | ginger<br>tumble<br>onion<br>learn<br>payment<br>scare<br>flag<br>dice<br>ski<br>size |  
 | bip_39_word_new_br_11 | ginger<br>tumble<br>onion<br>learn<br>payment<br>scare<br>flag<br>dice<br>ski<br>size<br>tree |  
@@ -147,6 +159,18 @@ ski |
 | bip_39_word_space_7 | ginger tumble onion learn payment scare flag |  
 | bip_39_word_space_8 | ginger tumble onion learn payment scare flag dice |  
 | bip_39_word_space_9 | ginger tumble onion learn payment scare flag dice ski |  
+| bip_39_word_underscore_1 | ginger |  
+| bip_39_word_underscore_10 | ginger_tumble_onion_learn_payment_scare_flag_dice_ski_size |  
+| bip_39_word_underscore_11 | ginger_tumble_onion_learn_payment_scare_flag_dice_ski_size_tree |  
+| bip_39_word_underscore_12 | ginger_tumble_onion_learn_payment_scare_flag_dice_ski_size_tree_across |  
+| bip_39_word_underscore_2 | ginger_tumble |  
+| bip_39_word_underscore_3 | ginger_tumble_onion |  
+| bip_39_word_underscore_4 | ginger_tumble_onion_learn |  
+| bip_39_word_underscore_5 | ginger_tumble_onion_learn_payment |  
+| bip_39_word_underscore_6 | ginger_tumble_onion_learn_payment_scare |  
+| bip_39_word_underscore_7 | ginger_tumble_onion_learn_payment_scare_flag |  
+| bip_39_word_underscore_8 | ginger_tumble_onion_learn_payment_scare_flag_dice |  
+| bip_39_word_underscore_9 | ginger_tumble_onion_learn_payment_scare_flag_dice_ski |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

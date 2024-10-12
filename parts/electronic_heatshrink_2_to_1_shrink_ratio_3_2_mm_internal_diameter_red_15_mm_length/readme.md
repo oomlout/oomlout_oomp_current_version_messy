@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | illegal |  
+| bip_39_word_dash_10 | illegal-open-tilt-chest-worth-patrol-cause-myself-sorry-theme |  
+| bip_39_word_dash_11 | illegal-open-tilt-chest-worth-patrol-cause-myself-sorry-theme-humble |  
+| bip_39_word_dash_12 | illegal-open-tilt-chest-worth-patrol-cause-myself-sorry-theme-humble-announce |  
+| bip_39_word_dash_2 | illegal-open |  
+| bip_39_word_dash_3 | illegal-open-tilt |  
+| bip_39_word_dash_4 | illegal-open-tilt-chest |  
+| bip_39_word_dash_5 | illegal-open-tilt-chest-worth |  
+| bip_39_word_dash_6 | illegal-open-tilt-chest-worth-patrol |  
+| bip_39_word_dash_7 | illegal-open-tilt-chest-worth-patrol-cause |  
+| bip_39_word_dash_8 | illegal-open-tilt-chest-worth-patrol-cause-myself |  
+| bip_39_word_dash_9 | illegal-open-tilt-chest-worth-patrol-cause-myself-sorry |  
 | bip_39_word_new_br_1 | illegal |  
 | bip_39_word_new_br_10 | illegal<br>open<br>tilt<br>chest<br>worth<br>patrol<br>cause<br>myself<br>sorry<br>theme |  
 | bip_39_word_new_br_11 | illegal<br>open<br>tilt<br>chest<br>worth<br>patrol<br>cause<br>myself<br>sorry<br>theme<br>humble |  
@@ -147,6 +159,18 @@ sorry |
 | bip_39_word_space_7 | illegal open tilt chest worth patrol cause |  
 | bip_39_word_space_8 | illegal open tilt chest worth patrol cause myself |  
 | bip_39_word_space_9 | illegal open tilt chest worth patrol cause myself sorry |  
+| bip_39_word_underscore_1 | illegal |  
+| bip_39_word_underscore_10 | illegal_open_tilt_chest_worth_patrol_cause_myself_sorry_theme |  
+| bip_39_word_underscore_11 | illegal_open_tilt_chest_worth_patrol_cause_myself_sorry_theme_humble |  
+| bip_39_word_underscore_12 | illegal_open_tilt_chest_worth_patrol_cause_myself_sorry_theme_humble_announce |  
+| bip_39_word_underscore_2 | illegal_open |  
+| bip_39_word_underscore_3 | illegal_open_tilt |  
+| bip_39_word_underscore_4 | illegal_open_tilt_chest |  
+| bip_39_word_underscore_5 | illegal_open_tilt_chest_worth |  
+| bip_39_word_underscore_6 | illegal_open_tilt_chest_worth_patrol |  
+| bip_39_word_underscore_7 | illegal_open_tilt_chest_worth_patrol_cause |  
+| bip_39_word_underscore_8 | illegal_open_tilt_chest_worth_patrol_cause_myself |  
+| bip_39_word_underscore_9 | illegal_open_tilt_chest_worth_patrol_cause_myself_sorry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

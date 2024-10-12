@@ -1,3 +1,15 @@
+bip_39_word_dash_1: weird
+bip_39_word_dash_10: weird-crawl-oil-thank-shock-mouse-scatter-violin-middle-risk
+bip_39_word_dash_11: weird-crawl-oil-thank-shock-mouse-scatter-violin-middle-risk-situate
+bip_39_word_dash_12: weird-crawl-oil-thank-shock-mouse-scatter-violin-middle-risk-situate-amount
+bip_39_word_dash_2: weird-crawl
+bip_39_word_dash_3: weird-crawl-oil
+bip_39_word_dash_4: weird-crawl-oil-thank
+bip_39_word_dash_5: weird-crawl-oil-thank-shock
+bip_39_word_dash_6: weird-crawl-oil-thank-shock-mouse
+bip_39_word_dash_7: weird-crawl-oil-thank-shock-mouse-scatter
+bip_39_word_dash_8: weird-crawl-oil-thank-shock-mouse-scatter-violin
+bip_39_word_dash_9: weird-crawl-oil-thank-shock-mouse-scatter-violin-middle
 bip_39_word_new_br_1: weird
 bip_39_word_new_br_10: weird<br>crawl<br>oil<br>thank<br>shock<br>mouse<br>scatter<br>violin<br>middle<br>risk
 bip_39_word_new_br_11: weird<br>crawl<br>oil<br>thank<br>shock<br>mouse<br>scatter<br>violin<br>middle<br>risk<br>situate
@@ -193,6 +205,18 @@ bip_39_word_space_6: weird crawl oil thank shock mouse
 bip_39_word_space_7: weird crawl oil thank shock mouse scatter
 bip_39_word_space_8: weird crawl oil thank shock mouse scatter violin
 bip_39_word_space_9: weird crawl oil thank shock mouse scatter violin middle
+bip_39_word_underscore_1: weird
+bip_39_word_underscore_10: weird_crawl_oil_thank_shock_mouse_scatter_violin_middle_risk
+bip_39_word_underscore_11: weird_crawl_oil_thank_shock_mouse_scatter_violin_middle_risk_situate
+bip_39_word_underscore_12: weird_crawl_oil_thank_shock_mouse_scatter_violin_middle_risk_situate_amount
+bip_39_word_underscore_2: weird_crawl
+bip_39_word_underscore_3: weird_crawl_oil
+bip_39_word_underscore_4: weird_crawl_oil_thank
+bip_39_word_underscore_5: weird_crawl_oil_thank_shock
+bip_39_word_underscore_6: weird_crawl_oil_thank_shock_mouse
+bip_39_word_underscore_7: weird_crawl_oil_thank_shock_mouse_scatter
+bip_39_word_underscore_8: weird_crawl_oil_thank_shock_mouse_scatter_violin
+bip_39_word_underscore_9: weird_crawl_oil_thank_shock_mouse_scatter_violin_middle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | smart |  
+| bip_39_word_dash_10 | smart-juice-prison-lunch-illegal-pony-age-bright-action-snap |  
+| bip_39_word_dash_11 | smart-juice-prison-lunch-illegal-pony-age-bright-action-snap-paper |  
+| bip_39_word_dash_12 | smart-juice-prison-lunch-illegal-pony-age-bright-action-snap-paper-advance |  
+| bip_39_word_dash_2 | smart-juice |  
+| bip_39_word_dash_3 | smart-juice-prison |  
+| bip_39_word_dash_4 | smart-juice-prison-lunch |  
+| bip_39_word_dash_5 | smart-juice-prison-lunch-illegal |  
+| bip_39_word_dash_6 | smart-juice-prison-lunch-illegal-pony |  
+| bip_39_word_dash_7 | smart-juice-prison-lunch-illegal-pony-age |  
+| bip_39_word_dash_8 | smart-juice-prison-lunch-illegal-pony-age-bright |  
+| bip_39_word_dash_9 | smart-juice-prison-lunch-illegal-pony-age-bright-action |  
 | bip_39_word_new_br_1 | smart |  
 | bip_39_word_new_br_10 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap |  
 | bip_39_word_new_br_11 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap<br>paper |  
@@ -147,6 +159,18 @@ action |
 | bip_39_word_space_7 | smart juice prison lunch illegal pony age |  
 | bip_39_word_space_8 | smart juice prison lunch illegal pony age bright |  
 | bip_39_word_space_9 | smart juice prison lunch illegal pony age bright action |  
+| bip_39_word_underscore_1 | smart |  
+| bip_39_word_underscore_10 | smart_juice_prison_lunch_illegal_pony_age_bright_action_snap |  
+| bip_39_word_underscore_11 | smart_juice_prison_lunch_illegal_pony_age_bright_action_snap_paper |  
+| bip_39_word_underscore_12 | smart_juice_prison_lunch_illegal_pony_age_bright_action_snap_paper_advance |  
+| bip_39_word_underscore_2 | smart_juice |  
+| bip_39_word_underscore_3 | smart_juice_prison |  
+| bip_39_word_underscore_4 | smart_juice_prison_lunch |  
+| bip_39_word_underscore_5 | smart_juice_prison_lunch_illegal |  
+| bip_39_word_underscore_6 | smart_juice_prison_lunch_illegal_pony |  
+| bip_39_word_underscore_7 | smart_juice_prison_lunch_illegal_pony_age |  
+| bip_39_word_underscore_8 | smart_juice_prison_lunch_illegal_pony_age_bright |  
+| bip_39_word_underscore_9 | smart_juice_prison_lunch_illegal_pony_age_bright_action |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | naive |  
+| bip_39_word_dash_10 | naive-ordinary-monkey-upgrade-shoe-tornado-raise-load-sheriff-jaguar |  
+| bip_39_word_dash_11 | naive-ordinary-monkey-upgrade-shoe-tornado-raise-load-sheriff-jaguar-once |  
+| bip_39_word_dash_12 | naive-ordinary-monkey-upgrade-shoe-tornado-raise-load-sheriff-jaguar-once-average |  
+| bip_39_word_dash_2 | naive-ordinary |  
+| bip_39_word_dash_3 | naive-ordinary-monkey |  
+| bip_39_word_dash_4 | naive-ordinary-monkey-upgrade |  
+| bip_39_word_dash_5 | naive-ordinary-monkey-upgrade-shoe |  
+| bip_39_word_dash_6 | naive-ordinary-monkey-upgrade-shoe-tornado |  
+| bip_39_word_dash_7 | naive-ordinary-monkey-upgrade-shoe-tornado-raise |  
+| bip_39_word_dash_8 | naive-ordinary-monkey-upgrade-shoe-tornado-raise-load |  
+| bip_39_word_dash_9 | naive-ordinary-monkey-upgrade-shoe-tornado-raise-load-sheriff |  
 | bip_39_word_new_br_1 | naive |  
 | bip_39_word_new_br_10 | naive<br>ordinary<br>monkey<br>upgrade<br>shoe<br>tornado<br>raise<br>load<br>sheriff<br>jaguar |  
 | bip_39_word_new_br_11 | naive<br>ordinary<br>monkey<br>upgrade<br>shoe<br>tornado<br>raise<br>load<br>sheriff<br>jaguar<br>once |  
@@ -147,6 +159,18 @@ sheriff |
 | bip_39_word_space_7 | naive ordinary monkey upgrade shoe tornado raise |  
 | bip_39_word_space_8 | naive ordinary monkey upgrade shoe tornado raise load |  
 | bip_39_word_space_9 | naive ordinary monkey upgrade shoe tornado raise load sheriff |  
+| bip_39_word_underscore_1 | naive |  
+| bip_39_word_underscore_10 | naive_ordinary_monkey_upgrade_shoe_tornado_raise_load_sheriff_jaguar |  
+| bip_39_word_underscore_11 | naive_ordinary_monkey_upgrade_shoe_tornado_raise_load_sheriff_jaguar_once |  
+| bip_39_word_underscore_12 | naive_ordinary_monkey_upgrade_shoe_tornado_raise_load_sheriff_jaguar_once_average |  
+| bip_39_word_underscore_2 | naive_ordinary |  
+| bip_39_word_underscore_3 | naive_ordinary_monkey |  
+| bip_39_word_underscore_4 | naive_ordinary_monkey_upgrade |  
+| bip_39_word_underscore_5 | naive_ordinary_monkey_upgrade_shoe |  
+| bip_39_word_underscore_6 | naive_ordinary_monkey_upgrade_shoe_tornado |  
+| bip_39_word_underscore_7 | naive_ordinary_monkey_upgrade_shoe_tornado_raise |  
+| bip_39_word_underscore_8 | naive_ordinary_monkey_upgrade_shoe_tornado_raise_load |  
+| bip_39_word_underscore_9 | naive_ordinary_monkey_upgrade_shoe_tornado_raise_load_sheriff |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

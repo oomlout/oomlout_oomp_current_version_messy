@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | okay |  
+| bip_39_word_dash_10 | okay-august-buyer-art-tell-emerge-trigger-illness-gospel-trash |  
+| bip_39_word_dash_11 | okay-august-buyer-art-tell-emerge-trigger-illness-gospel-trash-grape |  
+| bip_39_word_dash_12 | okay-august-buyer-art-tell-emerge-trigger-illness-gospel-trash-grape-abstract |  
+| bip_39_word_dash_2 | okay-august |  
+| bip_39_word_dash_3 | okay-august-buyer |  
+| bip_39_word_dash_4 | okay-august-buyer-art |  
+| bip_39_word_dash_5 | okay-august-buyer-art-tell |  
+| bip_39_word_dash_6 | okay-august-buyer-art-tell-emerge |  
+| bip_39_word_dash_7 | okay-august-buyer-art-tell-emerge-trigger |  
+| bip_39_word_dash_8 | okay-august-buyer-art-tell-emerge-trigger-illness |  
+| bip_39_word_dash_9 | okay-august-buyer-art-tell-emerge-trigger-illness-gospel |  
 | bip_39_word_new_br_1 | okay |  
 | bip_39_word_new_br_10 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness<br>gospel<br>trash |  
 | bip_39_word_new_br_11 | okay<br>august<br>buyer<br>art<br>tell<br>emerge<br>trigger<br>illness<br>gospel<br>trash<br>grape |  
@@ -147,6 +159,18 @@ gospel |
 | bip_39_word_space_7 | okay august buyer art tell emerge trigger |  
 | bip_39_word_space_8 | okay august buyer art tell emerge trigger illness |  
 | bip_39_word_space_9 | okay august buyer art tell emerge trigger illness gospel |  
+| bip_39_word_underscore_1 | okay |  
+| bip_39_word_underscore_10 | okay_august_buyer_art_tell_emerge_trigger_illness_gospel_trash |  
+| bip_39_word_underscore_11 | okay_august_buyer_art_tell_emerge_trigger_illness_gospel_trash_grape |  
+| bip_39_word_underscore_12 | okay_august_buyer_art_tell_emerge_trigger_illness_gospel_trash_grape_abstract |  
+| bip_39_word_underscore_2 | okay_august |  
+| bip_39_word_underscore_3 | okay_august_buyer |  
+| bip_39_word_underscore_4 | okay_august_buyer_art |  
+| bip_39_word_underscore_5 | okay_august_buyer_art_tell |  
+| bip_39_word_underscore_6 | okay_august_buyer_art_tell_emerge |  
+| bip_39_word_underscore_7 | okay_august_buyer_art_tell_emerge_trigger |  
+| bip_39_word_underscore_8 | okay_august_buyer_art_tell_emerge_trigger_illness |  
+| bip_39_word_underscore_9 | okay_august_buyer_art_tell_emerge_trigger_illness_gospel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crawl
+bip_39_word_dash_10: crawl-axis-cross-good-easily-advice-ramp-canoe-tone-summer
+bip_39_word_dash_11: crawl-axis-cross-good-easily-advice-ramp-canoe-tone-summer-diesel
+bip_39_word_dash_12: crawl-axis-cross-good-easily-advice-ramp-canoe-tone-summer-diesel-accident
+bip_39_word_dash_2: crawl-axis
+bip_39_word_dash_3: crawl-axis-cross
+bip_39_word_dash_4: crawl-axis-cross-good
+bip_39_word_dash_5: crawl-axis-cross-good-easily
+bip_39_word_dash_6: crawl-axis-cross-good-easily-advice
+bip_39_word_dash_7: crawl-axis-cross-good-easily-advice-ramp
+bip_39_word_dash_8: crawl-axis-cross-good-easily-advice-ramp-canoe
+bip_39_word_dash_9: crawl-axis-cross-good-easily-advice-ramp-canoe-tone
 bip_39_word_new_br_1: crawl
 bip_39_word_new_br_10: crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe<br>tone<br>summer
 bip_39_word_new_br_11: crawl<br>axis<br>cross<br>good<br>easily<br>advice<br>ramp<br>canoe<br>tone<br>summer<br>diesel
@@ -192,6 +204,18 @@ bip_39_word_space_6: crawl axis cross good easily advice
 bip_39_word_space_7: crawl axis cross good easily advice ramp
 bip_39_word_space_8: crawl axis cross good easily advice ramp canoe
 bip_39_word_space_9: crawl axis cross good easily advice ramp canoe tone
+bip_39_word_underscore_1: crawl
+bip_39_word_underscore_10: crawl_axis_cross_good_easily_advice_ramp_canoe_tone_summer
+bip_39_word_underscore_11: crawl_axis_cross_good_easily_advice_ramp_canoe_tone_summer_diesel
+bip_39_word_underscore_12: crawl_axis_cross_good_easily_advice_ramp_canoe_tone_summer_diesel_accident
+bip_39_word_underscore_2: crawl_axis
+bip_39_word_underscore_3: crawl_axis_cross
+bip_39_word_underscore_4: crawl_axis_cross_good
+bip_39_word_underscore_5: crawl_axis_cross_good_easily
+bip_39_word_underscore_6: crawl_axis_cross_good_easily_advice
+bip_39_word_underscore_7: crawl_axis_cross_good_easily_advice_ramp
+bip_39_word_underscore_8: crawl_axis_cross_good_easily_advice_ramp_canoe
+bip_39_word_underscore_9: crawl_axis_cross_good_easily_advice_ramp_canoe_tone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

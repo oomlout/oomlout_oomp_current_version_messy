@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chief |  
+| bip_39_word_dash_10 | chief-swamp-genre-reduce-inmate-trade-embrace-right-proud-purpose |  
+| bip_39_word_dash_11 | chief-swamp-genre-reduce-inmate-trade-embrace-right-proud-purpose-demand |  
+| bip_39_word_dash_12 | chief-swamp-genre-reduce-inmate-trade-embrace-right-proud-purpose-demand-artist |  
+| bip_39_word_dash_2 | chief-swamp |  
+| bip_39_word_dash_3 | chief-swamp-genre |  
+| bip_39_word_dash_4 | chief-swamp-genre-reduce |  
+| bip_39_word_dash_5 | chief-swamp-genre-reduce-inmate |  
+| bip_39_word_dash_6 | chief-swamp-genre-reduce-inmate-trade |  
+| bip_39_word_dash_7 | chief-swamp-genre-reduce-inmate-trade-embrace |  
+| bip_39_word_dash_8 | chief-swamp-genre-reduce-inmate-trade-embrace-right |  
+| bip_39_word_dash_9 | chief-swamp-genre-reduce-inmate-trade-embrace-right-proud |  
 | bip_39_word_new_br_1 | chief |  
 | bip_39_word_new_br_10 | chief<br>swamp<br>genre<br>reduce<br>inmate<br>trade<br>embrace<br>right<br>proud<br>purpose |  
 | bip_39_word_new_br_11 | chief<br>swamp<br>genre<br>reduce<br>inmate<br>trade<br>embrace<br>right<br>proud<br>purpose<br>demand |  
@@ -147,6 +159,18 @@ proud |
 | bip_39_word_space_7 | chief swamp genre reduce inmate trade embrace |  
 | bip_39_word_space_8 | chief swamp genre reduce inmate trade embrace right |  
 | bip_39_word_space_9 | chief swamp genre reduce inmate trade embrace right proud |  
+| bip_39_word_underscore_1 | chief |  
+| bip_39_word_underscore_10 | chief_swamp_genre_reduce_inmate_trade_embrace_right_proud_purpose |  
+| bip_39_word_underscore_11 | chief_swamp_genre_reduce_inmate_trade_embrace_right_proud_purpose_demand |  
+| bip_39_word_underscore_12 | chief_swamp_genre_reduce_inmate_trade_embrace_right_proud_purpose_demand_artist |  
+| bip_39_word_underscore_2 | chief_swamp |  
+| bip_39_word_underscore_3 | chief_swamp_genre |  
+| bip_39_word_underscore_4 | chief_swamp_genre_reduce |  
+| bip_39_word_underscore_5 | chief_swamp_genre_reduce_inmate |  
+| bip_39_word_underscore_6 | chief_swamp_genre_reduce_inmate_trade |  
+| bip_39_word_underscore_7 | chief_swamp_genre_reduce_inmate_trade_embrace |  
+| bip_39_word_underscore_8 | chief_swamp_genre_reduce_inmate_trade_embrace_right |  
+| bip_39_word_underscore_9 | chief_swamp_genre_reduce_inmate_trade_embrace_right_proud |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

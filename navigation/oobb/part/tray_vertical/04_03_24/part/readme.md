@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wolf |  
+| bip_39_word_dash_10 | wolf-eight-rotate-short-tired-clock-shrug-breeze-unknown-plunge |  
+| bip_39_word_dash_11 | wolf-eight-rotate-short-tired-clock-shrug-breeze-unknown-plunge-desk |  
+| bip_39_word_dash_12 | wolf-eight-rotate-short-tired-clock-shrug-breeze-unknown-plunge-desk-ahead |  
+| bip_39_word_dash_2 | wolf-eight |  
+| bip_39_word_dash_3 | wolf-eight-rotate |  
+| bip_39_word_dash_4 | wolf-eight-rotate-short |  
+| bip_39_word_dash_5 | wolf-eight-rotate-short-tired |  
+| bip_39_word_dash_6 | wolf-eight-rotate-short-tired-clock |  
+| bip_39_word_dash_7 | wolf-eight-rotate-short-tired-clock-shrug |  
+| bip_39_word_dash_8 | wolf-eight-rotate-short-tired-clock-shrug-breeze |  
+| bip_39_word_dash_9 | wolf-eight-rotate-short-tired-clock-shrug-breeze-unknown |  
 | bip_39_word_new_br_1 | wolf |  
 | bip_39_word_new_br_10 | wolf<br>eight<br>rotate<br>short<br>tired<br>clock<br>shrug<br>breeze<br>unknown<br>plunge |  
 | bip_39_word_new_br_11 | wolf<br>eight<br>rotate<br>short<br>tired<br>clock<br>shrug<br>breeze<br>unknown<br>plunge<br>desk |  
@@ -147,6 +159,18 @@ unknown |
 | bip_39_word_space_7 | wolf eight rotate short tired clock shrug |  
 | bip_39_word_space_8 | wolf eight rotate short tired clock shrug breeze |  
 | bip_39_word_space_9 | wolf eight rotate short tired clock shrug breeze unknown |  
+| bip_39_word_underscore_1 | wolf |  
+| bip_39_word_underscore_10 | wolf_eight_rotate_short_tired_clock_shrug_breeze_unknown_plunge |  
+| bip_39_word_underscore_11 | wolf_eight_rotate_short_tired_clock_shrug_breeze_unknown_plunge_desk |  
+| bip_39_word_underscore_12 | wolf_eight_rotate_short_tired_clock_shrug_breeze_unknown_plunge_desk_ahead |  
+| bip_39_word_underscore_2 | wolf_eight |  
+| bip_39_word_underscore_3 | wolf_eight_rotate |  
+| bip_39_word_underscore_4 | wolf_eight_rotate_short |  
+| bip_39_word_underscore_5 | wolf_eight_rotate_short_tired |  
+| bip_39_word_underscore_6 | wolf_eight_rotate_short_tired_clock |  
+| bip_39_word_underscore_7 | wolf_eight_rotate_short_tired_clock_shrug |  
+| bip_39_word_underscore_8 | wolf_eight_rotate_short_tired_clock_shrug_breeze |  
+| bip_39_word_underscore_9 | wolf_eight_rotate_short_tired_clock_shrug_breeze_unknown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

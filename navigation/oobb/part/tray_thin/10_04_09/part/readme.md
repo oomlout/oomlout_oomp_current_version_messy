@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | album |  
+| bip_39_word_dash_10 | album-erosion-fluid-cattle-expire-maximum-pepper-road-slight-fiscal |  
+| bip_39_word_dash_11 | album-erosion-fluid-cattle-expire-maximum-pepper-road-slight-fiscal-castle |  
+| bip_39_word_dash_12 | album-erosion-fluid-cattle-expire-maximum-pepper-road-slight-fiscal-castle-ask |  
+| bip_39_word_dash_2 | album-erosion |  
+| bip_39_word_dash_3 | album-erosion-fluid |  
+| bip_39_word_dash_4 | album-erosion-fluid-cattle |  
+| bip_39_word_dash_5 | album-erosion-fluid-cattle-expire |  
+| bip_39_word_dash_6 | album-erosion-fluid-cattle-expire-maximum |  
+| bip_39_word_dash_7 | album-erosion-fluid-cattle-expire-maximum-pepper |  
+| bip_39_word_dash_8 | album-erosion-fluid-cattle-expire-maximum-pepper-road |  
+| bip_39_word_dash_9 | album-erosion-fluid-cattle-expire-maximum-pepper-road-slight |  
 | bip_39_word_new_br_1 | album |  
 | bip_39_word_new_br_10 | album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road<br>slight<br>fiscal |  
 | bip_39_word_new_br_11 | album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road<br>slight<br>fiscal<br>castle |  
@@ -147,6 +159,18 @@ slight |
 | bip_39_word_space_7 | album erosion fluid cattle expire maximum pepper |  
 | bip_39_word_space_8 | album erosion fluid cattle expire maximum pepper road |  
 | bip_39_word_space_9 | album erosion fluid cattle expire maximum pepper road slight |  
+| bip_39_word_underscore_1 | album |  
+| bip_39_word_underscore_10 | album_erosion_fluid_cattle_expire_maximum_pepper_road_slight_fiscal |  
+| bip_39_word_underscore_11 | album_erosion_fluid_cattle_expire_maximum_pepper_road_slight_fiscal_castle |  
+| bip_39_word_underscore_12 | album_erosion_fluid_cattle_expire_maximum_pepper_road_slight_fiscal_castle_ask |  
+| bip_39_word_underscore_2 | album_erosion |  
+| bip_39_word_underscore_3 | album_erosion_fluid |  
+| bip_39_word_underscore_4 | album_erosion_fluid_cattle |  
+| bip_39_word_underscore_5 | album_erosion_fluid_cattle_expire |  
+| bip_39_word_underscore_6 | album_erosion_fluid_cattle_expire_maximum |  
+| bip_39_word_underscore_7 | album_erosion_fluid_cattle_expire_maximum_pepper |  
+| bip_39_word_underscore_8 | album_erosion_fluid_cattle_expire_maximum_pepper_road |  
+| bip_39_word_underscore_9 | album_erosion_fluid_cattle_expire_maximum_pepper_road_slight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

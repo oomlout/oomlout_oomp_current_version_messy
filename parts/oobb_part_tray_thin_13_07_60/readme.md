@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | margin |  
+| bip_39_word_dash_10 | margin-bread-echo-task-armor-twist-raven-renew-symptom-mechanic |  
+| bip_39_word_dash_11 | margin-bread-echo-task-armor-twist-raven-renew-symptom-mechanic-gravity |  
+| bip_39_word_dash_12 | margin-bread-echo-task-armor-twist-raven-renew-symptom-mechanic-gravity-army |  
+| bip_39_word_dash_2 | margin-bread |  
+| bip_39_word_dash_3 | margin-bread-echo |  
+| bip_39_word_dash_4 | margin-bread-echo-task |  
+| bip_39_word_dash_5 | margin-bread-echo-task-armor |  
+| bip_39_word_dash_6 | margin-bread-echo-task-armor-twist |  
+| bip_39_word_dash_7 | margin-bread-echo-task-armor-twist-raven |  
+| bip_39_word_dash_8 | margin-bread-echo-task-armor-twist-raven-renew |  
+| bip_39_word_dash_9 | margin-bread-echo-task-armor-twist-raven-renew-symptom |  
 | bip_39_word_new_br_1 | margin |  
 | bip_39_word_new_br_10 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew<br>symptom<br>mechanic |  
 | bip_39_word_new_br_11 | margin<br>bread<br>echo<br>task<br>armor<br>twist<br>raven<br>renew<br>symptom<br>mechanic<br>gravity |  
@@ -147,6 +159,18 @@ symptom |
 | bip_39_word_space_7 | margin bread echo task armor twist raven |  
 | bip_39_word_space_8 | margin bread echo task armor twist raven renew |  
 | bip_39_word_space_9 | margin bread echo task armor twist raven renew symptom |  
+| bip_39_word_underscore_1 | margin |  
+| bip_39_word_underscore_10 | margin_bread_echo_task_armor_twist_raven_renew_symptom_mechanic |  
+| bip_39_word_underscore_11 | margin_bread_echo_task_armor_twist_raven_renew_symptom_mechanic_gravity |  
+| bip_39_word_underscore_12 | margin_bread_echo_task_armor_twist_raven_renew_symptom_mechanic_gravity_army |  
+| bip_39_word_underscore_2 | margin_bread |  
+| bip_39_word_underscore_3 | margin_bread_echo |  
+| bip_39_word_underscore_4 | margin_bread_echo_task |  
+| bip_39_word_underscore_5 | margin_bread_echo_task_armor |  
+| bip_39_word_underscore_6 | margin_bread_echo_task_armor_twist |  
+| bip_39_word_underscore_7 | margin_bread_echo_task_armor_twist_raven |  
+| bip_39_word_underscore_8 | margin_bread_echo_task_armor_twist_raven_renew |  
+| bip_39_word_underscore_9 | margin_bread_echo_task_armor_twist_raven_renew_symptom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

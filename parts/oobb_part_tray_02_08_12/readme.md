@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | point |  
+| bip_39_word_dash_10 | point-volcano-child-arm-fun-alone-smooth-lemon-pony-base |  
+| bip_39_word_dash_11 | point-volcano-child-arm-fun-alone-smooth-lemon-pony-base-fragile |  
+| bip_39_word_dash_12 | point-volcano-child-arm-fun-alone-smooth-lemon-pony-base-fragile-access |  
+| bip_39_word_dash_2 | point-volcano |  
+| bip_39_word_dash_3 | point-volcano-child |  
+| bip_39_word_dash_4 | point-volcano-child-arm |  
+| bip_39_word_dash_5 | point-volcano-child-arm-fun |  
+| bip_39_word_dash_6 | point-volcano-child-arm-fun-alone |  
+| bip_39_word_dash_7 | point-volcano-child-arm-fun-alone-smooth |  
+| bip_39_word_dash_8 | point-volcano-child-arm-fun-alone-smooth-lemon |  
+| bip_39_word_dash_9 | point-volcano-child-arm-fun-alone-smooth-lemon-pony |  
 | bip_39_word_new_br_1 | point |  
 | bip_39_word_new_br_10 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base |  
 | bip_39_word_new_br_11 | point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base<br>fragile |  
@@ -147,6 +159,18 @@ pony |
 | bip_39_word_space_7 | point volcano child arm fun alone smooth |  
 | bip_39_word_space_8 | point volcano child arm fun alone smooth lemon |  
 | bip_39_word_space_9 | point volcano child arm fun alone smooth lemon pony |  
+| bip_39_word_underscore_1 | point |  
+| bip_39_word_underscore_10 | point_volcano_child_arm_fun_alone_smooth_lemon_pony_base |  
+| bip_39_word_underscore_11 | point_volcano_child_arm_fun_alone_smooth_lemon_pony_base_fragile |  
+| bip_39_word_underscore_12 | point_volcano_child_arm_fun_alone_smooth_lemon_pony_base_fragile_access |  
+| bip_39_word_underscore_2 | point_volcano |  
+| bip_39_word_underscore_3 | point_volcano_child |  
+| bip_39_word_underscore_4 | point_volcano_child_arm |  
+| bip_39_word_underscore_5 | point_volcano_child_arm_fun |  
+| bip_39_word_underscore_6 | point_volcano_child_arm_fun_alone |  
+| bip_39_word_underscore_7 | point_volcano_child_arm_fun_alone_smooth |  
+| bip_39_word_underscore_8 | point_volcano_child_arm_fun_alone_smooth_lemon |  
+| bip_39_word_underscore_9 | point_volcano_child_arm_fun_alone_smooth_lemon_pony |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bargain
+bip_39_word_dash_10: bargain-flower-wild-like-require-trade-adult-rely-fire-able
+bip_39_word_dash_11: bargain-flower-wild-like-require-trade-adult-rely-fire-able-alarm
+bip_39_word_dash_12: bargain-flower-wild-like-require-trade-adult-rely-fire-able-alarm-antenna
+bip_39_word_dash_2: bargain-flower
+bip_39_word_dash_3: bargain-flower-wild
+bip_39_word_dash_4: bargain-flower-wild-like
+bip_39_word_dash_5: bargain-flower-wild-like-require
+bip_39_word_dash_6: bargain-flower-wild-like-require-trade
+bip_39_word_dash_7: bargain-flower-wild-like-require-trade-adult
+bip_39_word_dash_8: bargain-flower-wild-like-require-trade-adult-rely
+bip_39_word_dash_9: bargain-flower-wild-like-require-trade-adult-rely-fire
 bip_39_word_new_br_1: bargain
 bip_39_word_new_br_10: bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely<br>fire<br>able
 bip_39_word_new_br_11: bargain<br>flower<br>wild<br>like<br>require<br>trade<br>adult<br>rely<br>fire<br>able<br>alarm
@@ -193,6 +205,18 @@ bip_39_word_space_6: bargain flower wild like require trade
 bip_39_word_space_7: bargain flower wild like require trade adult
 bip_39_word_space_8: bargain flower wild like require trade adult rely
 bip_39_word_space_9: bargain flower wild like require trade adult rely fire
+bip_39_word_underscore_1: bargain
+bip_39_word_underscore_10: bargain_flower_wild_like_require_trade_adult_rely_fire_able
+bip_39_word_underscore_11: bargain_flower_wild_like_require_trade_adult_rely_fire_able_alarm
+bip_39_word_underscore_12: bargain_flower_wild_like_require_trade_adult_rely_fire_able_alarm_antenna
+bip_39_word_underscore_2: bargain_flower
+bip_39_word_underscore_3: bargain_flower_wild
+bip_39_word_underscore_4: bargain_flower_wild_like
+bip_39_word_underscore_5: bargain_flower_wild_like_require
+bip_39_word_underscore_6: bargain_flower_wild_like_require_trade
+bip_39_word_underscore_7: bargain_flower_wild_like_require_trade_adult
+bip_39_word_underscore_8: bargain_flower_wild_like_require_trade_adult_rely
+bip_39_word_underscore_9: bargain_flower_wild_like_require_trade_adult_rely_fire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

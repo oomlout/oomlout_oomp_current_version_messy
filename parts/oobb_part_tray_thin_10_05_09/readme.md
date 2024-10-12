@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | parent |  
+| bip_39_word_dash_10 | parent-work-bacon-catalog-supreme-obscure-solution-pretty-relief-resist |  
+| bip_39_word_dash_11 | parent-work-bacon-catalog-supreme-obscure-solution-pretty-relief-resist-foster |  
+| bip_39_word_dash_12 | parent-work-bacon-catalog-supreme-obscure-solution-pretty-relief-resist-foster-above |  
+| bip_39_word_dash_2 | parent-work |  
+| bip_39_word_dash_3 | parent-work-bacon |  
+| bip_39_word_dash_4 | parent-work-bacon-catalog |  
+| bip_39_word_dash_5 | parent-work-bacon-catalog-supreme |  
+| bip_39_word_dash_6 | parent-work-bacon-catalog-supreme-obscure |  
+| bip_39_word_dash_7 | parent-work-bacon-catalog-supreme-obscure-solution |  
+| bip_39_word_dash_8 | parent-work-bacon-catalog-supreme-obscure-solution-pretty |  
+| bip_39_word_dash_9 | parent-work-bacon-catalog-supreme-obscure-solution-pretty-relief |  
 | bip_39_word_new_br_1 | parent |  
 | bip_39_word_new_br_10 | parent<br>work<br>bacon<br>catalog<br>supreme<br>obscure<br>solution<br>pretty<br>relief<br>resist |  
 | bip_39_word_new_br_11 | parent<br>work<br>bacon<br>catalog<br>supreme<br>obscure<br>solution<br>pretty<br>relief<br>resist<br>foster |  
@@ -147,6 +159,18 @@ relief |
 | bip_39_word_space_7 | parent work bacon catalog supreme obscure solution |  
 | bip_39_word_space_8 | parent work bacon catalog supreme obscure solution pretty |  
 | bip_39_word_space_9 | parent work bacon catalog supreme obscure solution pretty relief |  
+| bip_39_word_underscore_1 | parent |  
+| bip_39_word_underscore_10 | parent_work_bacon_catalog_supreme_obscure_solution_pretty_relief_resist |  
+| bip_39_word_underscore_11 | parent_work_bacon_catalog_supreme_obscure_solution_pretty_relief_resist_foster |  
+| bip_39_word_underscore_12 | parent_work_bacon_catalog_supreme_obscure_solution_pretty_relief_resist_foster_above |  
+| bip_39_word_underscore_2 | parent_work |  
+| bip_39_word_underscore_3 | parent_work_bacon |  
+| bip_39_word_underscore_4 | parent_work_bacon_catalog |  
+| bip_39_word_underscore_5 | parent_work_bacon_catalog_supreme |  
+| bip_39_word_underscore_6 | parent_work_bacon_catalog_supreme_obscure |  
+| bip_39_word_underscore_7 | parent_work_bacon_catalog_supreme_obscure_solution |  
+| bip_39_word_underscore_8 | parent_work_bacon_catalog_supreme_obscure_solution_pretty |  
+| bip_39_word_underscore_9 | parent_work_bacon_catalog_supreme_obscure_solution_pretty_relief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

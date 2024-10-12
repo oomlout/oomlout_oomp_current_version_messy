@@ -1,3 +1,15 @@
+bip_39_word_dash_1: access
+bip_39_word_dash_10: access-steak-easy-boil-dash-oak-chair-room-cloth-box
+bip_39_word_dash_11: access-steak-easy-boil-dash-oak-chair-room-cloth-box-flame
+bip_39_word_dash_12: access-steak-easy-boil-dash-oak-chair-room-cloth-box-flame-asset
+bip_39_word_dash_2: access-steak
+bip_39_word_dash_3: access-steak-easy
+bip_39_word_dash_4: access-steak-easy-boil
+bip_39_word_dash_5: access-steak-easy-boil-dash
+bip_39_word_dash_6: access-steak-easy-boil-dash-oak
+bip_39_word_dash_7: access-steak-easy-boil-dash-oak-chair
+bip_39_word_dash_8: access-steak-easy-boil-dash-oak-chair-room
+bip_39_word_dash_9: access-steak-easy-boil-dash-oak-chair-room-cloth
 bip_39_word_new_br_1: access
 bip_39_word_new_br_10: access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room<br>cloth<br>box
 bip_39_word_new_br_11: access<br>steak<br>easy<br>boil<br>dash<br>oak<br>chair<br>room<br>cloth<br>box<br>flame
@@ -191,6 +203,18 @@ bip_39_word_space_6: access steak easy boil dash oak
 bip_39_word_space_7: access steak easy boil dash oak chair
 bip_39_word_space_8: access steak easy boil dash oak chair room
 bip_39_word_space_9: access steak easy boil dash oak chair room cloth
+bip_39_word_underscore_1: access
+bip_39_word_underscore_10: access_steak_easy_boil_dash_oak_chair_room_cloth_box
+bip_39_word_underscore_11: access_steak_easy_boil_dash_oak_chair_room_cloth_box_flame
+bip_39_word_underscore_12: access_steak_easy_boil_dash_oak_chair_room_cloth_box_flame_asset
+bip_39_word_underscore_2: access_steak
+bip_39_word_underscore_3: access_steak_easy
+bip_39_word_underscore_4: access_steak_easy_boil
+bip_39_word_underscore_5: access_steak_easy_boil_dash
+bip_39_word_underscore_6: access_steak_easy_boil_dash_oak
+bip_39_word_underscore_7: access_steak_easy_boil_dash_oak_chair
+bip_39_word_underscore_8: access_steak_easy_boil_dash_oak_chair_room
+bip_39_word_underscore_9: access_steak_easy_boil_dash_oak_chair_room_cloth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

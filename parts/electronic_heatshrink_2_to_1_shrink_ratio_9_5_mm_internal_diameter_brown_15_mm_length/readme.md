@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | goose |  
+| bip_39_word_dash_10 | goose-cruise-also-narrow-scrap-sentence-sell-trigger-control-always |  
+| bip_39_word_dash_11 | goose-cruise-also-narrow-scrap-sentence-sell-trigger-control-always-cancel |  
+| bip_39_word_dash_12 | goose-cruise-also-narrow-scrap-sentence-sell-trigger-control-always-cancel-achieve |  
+| bip_39_word_dash_2 | goose-cruise |  
+| bip_39_word_dash_3 | goose-cruise-also |  
+| bip_39_word_dash_4 | goose-cruise-also-narrow |  
+| bip_39_word_dash_5 | goose-cruise-also-narrow-scrap |  
+| bip_39_word_dash_6 | goose-cruise-also-narrow-scrap-sentence |  
+| bip_39_word_dash_7 | goose-cruise-also-narrow-scrap-sentence-sell |  
+| bip_39_word_dash_8 | goose-cruise-also-narrow-scrap-sentence-sell-trigger |  
+| bip_39_word_dash_9 | goose-cruise-also-narrow-scrap-sentence-sell-trigger-control |  
 | bip_39_word_new_br_1 | goose |  
 | bip_39_word_new_br_10 | goose<br>cruise<br>also<br>narrow<br>scrap<br>sentence<br>sell<br>trigger<br>control<br>always |  
 | bip_39_word_new_br_11 | goose<br>cruise<br>also<br>narrow<br>scrap<br>sentence<br>sell<br>trigger<br>control<br>always<br>cancel |  
@@ -147,6 +159,18 @@ control |
 | bip_39_word_space_7 | goose cruise also narrow scrap sentence sell |  
 | bip_39_word_space_8 | goose cruise also narrow scrap sentence sell trigger |  
 | bip_39_word_space_9 | goose cruise also narrow scrap sentence sell trigger control |  
+| bip_39_word_underscore_1 | goose |  
+| bip_39_word_underscore_10 | goose_cruise_also_narrow_scrap_sentence_sell_trigger_control_always |  
+| bip_39_word_underscore_11 | goose_cruise_also_narrow_scrap_sentence_sell_trigger_control_always_cancel |  
+| bip_39_word_underscore_12 | goose_cruise_also_narrow_scrap_sentence_sell_trigger_control_always_cancel_achieve |  
+| bip_39_word_underscore_2 | goose_cruise |  
+| bip_39_word_underscore_3 | goose_cruise_also |  
+| bip_39_word_underscore_4 | goose_cruise_also_narrow |  
+| bip_39_word_underscore_5 | goose_cruise_also_narrow_scrap |  
+| bip_39_word_underscore_6 | goose_cruise_also_narrow_scrap_sentence |  
+| bip_39_word_underscore_7 | goose_cruise_also_narrow_scrap_sentence_sell |  
+| bip_39_word_underscore_8 | goose_cruise_also_narrow_scrap_sentence_sell_trigger |  
+| bip_39_word_underscore_9 | goose_cruise_also_narrow_scrap_sentence_sell_trigger_control |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

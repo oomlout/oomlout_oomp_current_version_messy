@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scheme |  
+| bip_39_word_dash_10 | scheme-farm-fit-light-viable-way-jelly-grape-drive-shock |  
+| bip_39_word_dash_11 | scheme-farm-fit-light-viable-way-jelly-grape-drive-shock-crumble |  
+| bip_39_word_dash_12 | scheme-farm-fit-light-viable-way-jelly-grape-drive-shock-crumble-airport |  
+| bip_39_word_dash_2 | scheme-farm |  
+| bip_39_word_dash_3 | scheme-farm-fit |  
+| bip_39_word_dash_4 | scheme-farm-fit-light |  
+| bip_39_word_dash_5 | scheme-farm-fit-light-viable |  
+| bip_39_word_dash_6 | scheme-farm-fit-light-viable-way |  
+| bip_39_word_dash_7 | scheme-farm-fit-light-viable-way-jelly |  
+| bip_39_word_dash_8 | scheme-farm-fit-light-viable-way-jelly-grape |  
+| bip_39_word_dash_9 | scheme-farm-fit-light-viable-way-jelly-grape-drive |  
 | bip_39_word_new_br_1 | scheme |  
 | bip_39_word_new_br_10 | scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock |  
 | bip_39_word_new_br_11 | scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock<br>crumble |  
@@ -147,6 +159,18 @@ drive |
 | bip_39_word_space_7 | scheme farm fit light viable way jelly |  
 | bip_39_word_space_8 | scheme farm fit light viable way jelly grape |  
 | bip_39_word_space_9 | scheme farm fit light viable way jelly grape drive |  
+| bip_39_word_underscore_1 | scheme |  
+| bip_39_word_underscore_10 | scheme_farm_fit_light_viable_way_jelly_grape_drive_shock |  
+| bip_39_word_underscore_11 | scheme_farm_fit_light_viable_way_jelly_grape_drive_shock_crumble |  
+| bip_39_word_underscore_12 | scheme_farm_fit_light_viable_way_jelly_grape_drive_shock_crumble_airport |  
+| bip_39_word_underscore_2 | scheme_farm |  
+| bip_39_word_underscore_3 | scheme_farm_fit |  
+| bip_39_word_underscore_4 | scheme_farm_fit_light |  
+| bip_39_word_underscore_5 | scheme_farm_fit_light_viable |  
+| bip_39_word_underscore_6 | scheme_farm_fit_light_viable_way |  
+| bip_39_word_underscore_7 | scheme_farm_fit_light_viable_way_jelly |  
+| bip_39_word_underscore_8 | scheme_farm_fit_light_viable_way_jelly_grape |  
+| bip_39_word_underscore_9 | scheme_farm_fit_light_viable_way_jelly_grape_drive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

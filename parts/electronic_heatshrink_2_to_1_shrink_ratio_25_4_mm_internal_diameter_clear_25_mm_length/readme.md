@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erode |  
+| bip_39_word_dash_10 | erode-shallow-test-final-tooth-taxi-uniform-away-helmet-ranch |  
+| bip_39_word_dash_11 | erode-shallow-test-final-tooth-taxi-uniform-away-helmet-ranch-tomato |  
+| bip_39_word_dash_12 | erode-shallow-test-final-tooth-taxi-uniform-away-helmet-ranch-tomato-angry |  
+| bip_39_word_dash_2 | erode-shallow |  
+| bip_39_word_dash_3 | erode-shallow-test |  
+| bip_39_word_dash_4 | erode-shallow-test-final |  
+| bip_39_word_dash_5 | erode-shallow-test-final-tooth |  
+| bip_39_word_dash_6 | erode-shallow-test-final-tooth-taxi |  
+| bip_39_word_dash_7 | erode-shallow-test-final-tooth-taxi-uniform |  
+| bip_39_word_dash_8 | erode-shallow-test-final-tooth-taxi-uniform-away |  
+| bip_39_word_dash_9 | erode-shallow-test-final-tooth-taxi-uniform-away-helmet |  
 | bip_39_word_new_br_1 | erode |  
 | bip_39_word_new_br_10 | erode<br>shallow<br>test<br>final<br>tooth<br>taxi<br>uniform<br>away<br>helmet<br>ranch |  
 | bip_39_word_new_br_11 | erode<br>shallow<br>test<br>final<br>tooth<br>taxi<br>uniform<br>away<br>helmet<br>ranch<br>tomato |  
@@ -147,6 +159,18 @@ helmet |
 | bip_39_word_space_7 | erode shallow test final tooth taxi uniform |  
 | bip_39_word_space_8 | erode shallow test final tooth taxi uniform away |  
 | bip_39_word_space_9 | erode shallow test final tooth taxi uniform away helmet |  
+| bip_39_word_underscore_1 | erode |  
+| bip_39_word_underscore_10 | erode_shallow_test_final_tooth_taxi_uniform_away_helmet_ranch |  
+| bip_39_word_underscore_11 | erode_shallow_test_final_tooth_taxi_uniform_away_helmet_ranch_tomato |  
+| bip_39_word_underscore_12 | erode_shallow_test_final_tooth_taxi_uniform_away_helmet_ranch_tomato_angry |  
+| bip_39_word_underscore_2 | erode_shallow |  
+| bip_39_word_underscore_3 | erode_shallow_test |  
+| bip_39_word_underscore_4 | erode_shallow_test_final |  
+| bip_39_word_underscore_5 | erode_shallow_test_final_tooth |  
+| bip_39_word_underscore_6 | erode_shallow_test_final_tooth_taxi |  
+| bip_39_word_underscore_7 | erode_shallow_test_final_tooth_taxi_uniform |  
+| bip_39_word_underscore_8 | erode_shallow_test_final_tooth_taxi_uniform_away |  
+| bip_39_word_underscore_9 | erode_shallow_test_final_tooth_taxi_uniform_away_helmet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

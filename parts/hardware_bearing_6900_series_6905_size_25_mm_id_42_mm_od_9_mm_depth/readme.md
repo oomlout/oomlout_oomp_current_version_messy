@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mean |  
+| bip_39_word_dash_10 | mean-wire-topic-release-season-forget-clump-rib-program-federal |  
+| bip_39_word_dash_11 | mean-wire-topic-release-season-forget-clump-rib-program-federal-brown |  
+| bip_39_word_dash_12 | mean-wire-topic-release-season-forget-clump-rib-program-federal-brown-argue |  
+| bip_39_word_dash_2 | mean-wire |  
+| bip_39_word_dash_3 | mean-wire-topic |  
+| bip_39_word_dash_4 | mean-wire-topic-release |  
+| bip_39_word_dash_5 | mean-wire-topic-release-season |  
+| bip_39_word_dash_6 | mean-wire-topic-release-season-forget |  
+| bip_39_word_dash_7 | mean-wire-topic-release-season-forget-clump |  
+| bip_39_word_dash_8 | mean-wire-topic-release-season-forget-clump-rib |  
+| bip_39_word_dash_9 | mean-wire-topic-release-season-forget-clump-rib-program |  
 | bip_39_word_new_br_1 | mean |  
 | bip_39_word_new_br_10 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib<br>program<br>federal |  
 | bip_39_word_new_br_11 | mean<br>wire<br>topic<br>release<br>season<br>forget<br>clump<br>rib<br>program<br>federal<br>brown |  
@@ -147,6 +159,18 @@ program |
 | bip_39_word_space_7 | mean wire topic release season forget clump |  
 | bip_39_word_space_8 | mean wire topic release season forget clump rib |  
 | bip_39_word_space_9 | mean wire topic release season forget clump rib program |  
+| bip_39_word_underscore_1 | mean |  
+| bip_39_word_underscore_10 | mean_wire_topic_release_season_forget_clump_rib_program_federal |  
+| bip_39_word_underscore_11 | mean_wire_topic_release_season_forget_clump_rib_program_federal_brown |  
+| bip_39_word_underscore_12 | mean_wire_topic_release_season_forget_clump_rib_program_federal_brown_argue |  
+| bip_39_word_underscore_2 | mean_wire |  
+| bip_39_word_underscore_3 | mean_wire_topic |  
+| bip_39_word_underscore_4 | mean_wire_topic_release |  
+| bip_39_word_underscore_5 | mean_wire_topic_release_season |  
+| bip_39_word_underscore_6 | mean_wire_topic_release_season_forget |  
+| bip_39_word_underscore_7 | mean_wire_topic_release_season_forget_clump |  
+| bip_39_word_underscore_8 | mean_wire_topic_release_season_forget_clump_rib |  
+| bip_39_word_underscore_9 | mean_wire_topic_release_season_forget_clump_rib_program |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

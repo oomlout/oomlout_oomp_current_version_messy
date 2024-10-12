@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | situate |  
+| bip_39_word_dash_10 | situate-twist-civil-banana-burden-amateur-great-rocket-inmate-core |  
+| bip_39_word_dash_11 | situate-twist-civil-banana-burden-amateur-great-rocket-inmate-core-save |  
+| bip_39_word_dash_12 | situate-twist-civil-banana-burden-amateur-great-rocket-inmate-core-save-apart |  
+| bip_39_word_dash_2 | situate-twist |  
+| bip_39_word_dash_3 | situate-twist-civil |  
+| bip_39_word_dash_4 | situate-twist-civil-banana |  
+| bip_39_word_dash_5 | situate-twist-civil-banana-burden |  
+| bip_39_word_dash_6 | situate-twist-civil-banana-burden-amateur |  
+| bip_39_word_dash_7 | situate-twist-civil-banana-burden-amateur-great |  
+| bip_39_word_dash_8 | situate-twist-civil-banana-burden-amateur-great-rocket |  
+| bip_39_word_dash_9 | situate-twist-civil-banana-burden-amateur-great-rocket-inmate |  
 | bip_39_word_new_br_1 | situate |  
 | bip_39_word_new_br_10 | situate<br>twist<br>civil<br>banana<br>burden<br>amateur<br>great<br>rocket<br>inmate<br>core |  
 | bip_39_word_new_br_11 | situate<br>twist<br>civil<br>banana<br>burden<br>amateur<br>great<br>rocket<br>inmate<br>core<br>save |  
@@ -147,6 +159,18 @@ inmate |
 | bip_39_word_space_7 | situate twist civil banana burden amateur great |  
 | bip_39_word_space_8 | situate twist civil banana burden amateur great rocket |  
 | bip_39_word_space_9 | situate twist civil banana burden amateur great rocket inmate |  
+| bip_39_word_underscore_1 | situate |  
+| bip_39_word_underscore_10 | situate_twist_civil_banana_burden_amateur_great_rocket_inmate_core |  
+| bip_39_word_underscore_11 | situate_twist_civil_banana_burden_amateur_great_rocket_inmate_core_save |  
+| bip_39_word_underscore_12 | situate_twist_civil_banana_burden_amateur_great_rocket_inmate_core_save_apart |  
+| bip_39_word_underscore_2 | situate_twist |  
+| bip_39_word_underscore_3 | situate_twist_civil |  
+| bip_39_word_underscore_4 | situate_twist_civil_banana |  
+| bip_39_word_underscore_5 | situate_twist_civil_banana_burden |  
+| bip_39_word_underscore_6 | situate_twist_civil_banana_burden_amateur |  
+| bip_39_word_underscore_7 | situate_twist_civil_banana_burden_amateur_great |  
+| bip_39_word_underscore_8 | situate_twist_civil_banana_burden_amateur_great_rocket |  
+| bip_39_word_underscore_9 | situate_twist_civil_banana_burden_amateur_great_rocket_inmate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

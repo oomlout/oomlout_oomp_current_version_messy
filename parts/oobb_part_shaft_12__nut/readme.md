@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | account |  
+| bip_39_word_dash_10 | account-steel-index-antenna-vacant-tonight-legend-diagram-view-cement |  
+| bip_39_word_dash_11 | account-steel-index-antenna-vacant-tonight-legend-diagram-view-cement-ride |  
+| bip_39_word_dash_12 | account-steel-index-antenna-vacant-tonight-legend-diagram-view-cement-ride-aim |  
+| bip_39_word_dash_2 | account-steel |  
+| bip_39_word_dash_3 | account-steel-index |  
+| bip_39_word_dash_4 | account-steel-index-antenna |  
+| bip_39_word_dash_5 | account-steel-index-antenna-vacant |  
+| bip_39_word_dash_6 | account-steel-index-antenna-vacant-tonight |  
+| bip_39_word_dash_7 | account-steel-index-antenna-vacant-tonight-legend |  
+| bip_39_word_dash_8 | account-steel-index-antenna-vacant-tonight-legend-diagram |  
+| bip_39_word_dash_9 | account-steel-index-antenna-vacant-tonight-legend-diagram-view |  
 | bip_39_word_new_br_1 | account |  
 | bip_39_word_new_br_10 | account<br>steel<br>index<br>antenna<br>vacant<br>tonight<br>legend<br>diagram<br>view<br>cement |  
 | bip_39_word_new_br_11 | account<br>steel<br>index<br>antenna<br>vacant<br>tonight<br>legend<br>diagram<br>view<br>cement<br>ride |  
@@ -147,6 +159,18 @@ view |
 | bip_39_word_space_7 | account steel index antenna vacant tonight legend |  
 | bip_39_word_space_8 | account steel index antenna vacant tonight legend diagram |  
 | bip_39_word_space_9 | account steel index antenna vacant tonight legend diagram view |  
+| bip_39_word_underscore_1 | account |  
+| bip_39_word_underscore_10 | account_steel_index_antenna_vacant_tonight_legend_diagram_view_cement |  
+| bip_39_word_underscore_11 | account_steel_index_antenna_vacant_tonight_legend_diagram_view_cement_ride |  
+| bip_39_word_underscore_12 | account_steel_index_antenna_vacant_tonight_legend_diagram_view_cement_ride_aim |  
+| bip_39_word_underscore_2 | account_steel |  
+| bip_39_word_underscore_3 | account_steel_index |  
+| bip_39_word_underscore_4 | account_steel_index_antenna |  
+| bip_39_word_underscore_5 | account_steel_index_antenna_vacant |  
+| bip_39_word_underscore_6 | account_steel_index_antenna_vacant_tonight |  
+| bip_39_word_underscore_7 | account_steel_index_antenna_vacant_tonight_legend |  
+| bip_39_word_underscore_8 | account_steel_index_antenna_vacant_tonight_legend_diagram |  
+| bip_39_word_underscore_9 | account_steel_index_antenna_vacant_tonight_legend_diagram_view |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | used |  
+| bip_39_word_dash_10 | used-silent-feed-stick-sick-police-fox-upgrade-saddle-gown |  
+| bip_39_word_dash_11 | used-silent-feed-stick-sick-police-fox-upgrade-saddle-gown-arch |  
+| bip_39_word_dash_12 | used-silent-feed-stick-sick-police-fox-upgrade-saddle-gown-arch-attack |  
+| bip_39_word_dash_2 | used-silent |  
+| bip_39_word_dash_3 | used-silent-feed |  
+| bip_39_word_dash_4 | used-silent-feed-stick |  
+| bip_39_word_dash_5 | used-silent-feed-stick-sick |  
+| bip_39_word_dash_6 | used-silent-feed-stick-sick-police |  
+| bip_39_word_dash_7 | used-silent-feed-stick-sick-police-fox |  
+| bip_39_word_dash_8 | used-silent-feed-stick-sick-police-fox-upgrade |  
+| bip_39_word_dash_9 | used-silent-feed-stick-sick-police-fox-upgrade-saddle |  
 | bip_39_word_new_br_1 | used |  
 | bip_39_word_new_br_10 | used<br>silent<br>feed<br>stick<br>sick<br>police<br>fox<br>upgrade<br>saddle<br>gown |  
 | bip_39_word_new_br_11 | used<br>silent<br>feed<br>stick<br>sick<br>police<br>fox<br>upgrade<br>saddle<br>gown<br>arch |  
@@ -147,6 +159,18 @@ saddle |
 | bip_39_word_space_7 | used silent feed stick sick police fox |  
 | bip_39_word_space_8 | used silent feed stick sick police fox upgrade |  
 | bip_39_word_space_9 | used silent feed stick sick police fox upgrade saddle |  
+| bip_39_word_underscore_1 | used |  
+| bip_39_word_underscore_10 | used_silent_feed_stick_sick_police_fox_upgrade_saddle_gown |  
+| bip_39_word_underscore_11 | used_silent_feed_stick_sick_police_fox_upgrade_saddle_gown_arch |  
+| bip_39_word_underscore_12 | used_silent_feed_stick_sick_police_fox_upgrade_saddle_gown_arch_attack |  
+| bip_39_word_underscore_2 | used_silent |  
+| bip_39_word_underscore_3 | used_silent_feed |  
+| bip_39_word_underscore_4 | used_silent_feed_stick |  
+| bip_39_word_underscore_5 | used_silent_feed_stick_sick |  
+| bip_39_word_underscore_6 | used_silent_feed_stick_sick_police |  
+| bip_39_word_underscore_7 | used_silent_feed_stick_sick_police_fox |  
+| bip_39_word_underscore_8 | used_silent_feed_stick_sick_police_fox_upgrade |  
+| bip_39_word_underscore_9 | used_silent_feed_stick_sick_police_fox_upgrade_saddle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

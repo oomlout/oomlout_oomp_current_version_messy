@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | setup |  
+| bip_39_word_dash_10 | setup-decade-corn-burden-flush-busy-bullet-will-tumble-arctic |  
+| bip_39_word_dash_11 | setup-decade-corn-burden-flush-busy-bullet-will-tumble-arctic-gossip |  
+| bip_39_word_dash_12 | setup-decade-corn-burden-flush-busy-bullet-will-tumble-arctic-gossip-artwork |  
+| bip_39_word_dash_2 | setup-decade |  
+| bip_39_word_dash_3 | setup-decade-corn |  
+| bip_39_word_dash_4 | setup-decade-corn-burden |  
+| bip_39_word_dash_5 | setup-decade-corn-burden-flush |  
+| bip_39_word_dash_6 | setup-decade-corn-burden-flush-busy |  
+| bip_39_word_dash_7 | setup-decade-corn-burden-flush-busy-bullet |  
+| bip_39_word_dash_8 | setup-decade-corn-burden-flush-busy-bullet-will |  
+| bip_39_word_dash_9 | setup-decade-corn-burden-flush-busy-bullet-will-tumble |  
 | bip_39_word_new_br_1 | setup |  
 | bip_39_word_new_br_10 | setup<br>decade<br>corn<br>burden<br>flush<br>busy<br>bullet<br>will<br>tumble<br>arctic |  
 | bip_39_word_new_br_11 | setup<br>decade<br>corn<br>burden<br>flush<br>busy<br>bullet<br>will<br>tumble<br>arctic<br>gossip |  
@@ -147,6 +159,18 @@ tumble |
 | bip_39_word_space_7 | setup decade corn burden flush busy bullet |  
 | bip_39_word_space_8 | setup decade corn burden flush busy bullet will |  
 | bip_39_word_space_9 | setup decade corn burden flush busy bullet will tumble |  
+| bip_39_word_underscore_1 | setup |  
+| bip_39_word_underscore_10 | setup_decade_corn_burden_flush_busy_bullet_will_tumble_arctic |  
+| bip_39_word_underscore_11 | setup_decade_corn_burden_flush_busy_bullet_will_tumble_arctic_gossip |  
+| bip_39_word_underscore_12 | setup_decade_corn_burden_flush_busy_bullet_will_tumble_arctic_gossip_artwork |  
+| bip_39_word_underscore_2 | setup_decade |  
+| bip_39_word_underscore_3 | setup_decade_corn |  
+| bip_39_word_underscore_4 | setup_decade_corn_burden |  
+| bip_39_word_underscore_5 | setup_decade_corn_burden_flush |  
+| bip_39_word_underscore_6 | setup_decade_corn_burden_flush_busy |  
+| bip_39_word_underscore_7 | setup_decade_corn_burden_flush_busy_bullet |  
+| bip_39_word_underscore_8 | setup_decade_corn_burden_flush_busy_bullet_will |  
+| bip_39_word_underscore_9 | setup_decade_corn_burden_flush_busy_bullet_will_tumble |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

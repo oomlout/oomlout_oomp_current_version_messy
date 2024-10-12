@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | link |  
+| bip_39_word_dash_10 | link-virus-shed-win-ridge-pet-minimum-almost-divorce-can |  
+| bip_39_word_dash_11 | link-virus-shed-win-ridge-pet-minimum-almost-divorce-can-field |  
+| bip_39_word_dash_12 | link-virus-shed-win-ridge-pet-minimum-almost-divorce-can-field-analyst |  
+| bip_39_word_dash_2 | link-virus |  
+| bip_39_word_dash_3 | link-virus-shed |  
+| bip_39_word_dash_4 | link-virus-shed-win |  
+| bip_39_word_dash_5 | link-virus-shed-win-ridge |  
+| bip_39_word_dash_6 | link-virus-shed-win-ridge-pet |  
+| bip_39_word_dash_7 | link-virus-shed-win-ridge-pet-minimum |  
+| bip_39_word_dash_8 | link-virus-shed-win-ridge-pet-minimum-almost |  
+| bip_39_word_dash_9 | link-virus-shed-win-ridge-pet-minimum-almost-divorce |  
 | bip_39_word_new_br_1 | link |  
 | bip_39_word_new_br_10 | link<br>virus<br>shed<br>win<br>ridge<br>pet<br>minimum<br>almost<br>divorce<br>can |  
 | bip_39_word_new_br_11 | link<br>virus<br>shed<br>win<br>ridge<br>pet<br>minimum<br>almost<br>divorce<br>can<br>field |  
@@ -147,6 +159,18 @@ divorce |
 | bip_39_word_space_7 | link virus shed win ridge pet minimum |  
 | bip_39_word_space_8 | link virus shed win ridge pet minimum almost |  
 | bip_39_word_space_9 | link virus shed win ridge pet minimum almost divorce |  
+| bip_39_word_underscore_1 | link |  
+| bip_39_word_underscore_10 | link_virus_shed_win_ridge_pet_minimum_almost_divorce_can |  
+| bip_39_word_underscore_11 | link_virus_shed_win_ridge_pet_minimum_almost_divorce_can_field |  
+| bip_39_word_underscore_12 | link_virus_shed_win_ridge_pet_minimum_almost_divorce_can_field_analyst |  
+| bip_39_word_underscore_2 | link_virus |  
+| bip_39_word_underscore_3 | link_virus_shed |  
+| bip_39_word_underscore_4 | link_virus_shed_win |  
+| bip_39_word_underscore_5 | link_virus_shed_win_ridge |  
+| bip_39_word_underscore_6 | link_virus_shed_win_ridge_pet |  
+| bip_39_word_underscore_7 | link_virus_shed_win_ridge_pet_minimum |  
+| bip_39_word_underscore_8 | link_virus_shed_win_ridge_pet_minimum_almost |  
+| bip_39_word_underscore_9 | link_virus_shed_win_ridge_pet_minimum_almost_divorce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

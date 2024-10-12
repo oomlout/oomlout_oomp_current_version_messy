@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spell |  
+| bip_39_word_dash_10 | spell-problem-enrich-relief-ladder-web-cereal-uncle-calm-spike |  
+| bip_39_word_dash_11 | spell-problem-enrich-relief-ladder-web-cereal-uncle-calm-spike-tomato |  
+| bip_39_word_dash_12 | spell-problem-enrich-relief-ladder-web-cereal-uncle-calm-spike-tomato-any |  
+| bip_39_word_dash_2 | spell-problem |  
+| bip_39_word_dash_3 | spell-problem-enrich |  
+| bip_39_word_dash_4 | spell-problem-enrich-relief |  
+| bip_39_word_dash_5 | spell-problem-enrich-relief-ladder |  
+| bip_39_word_dash_6 | spell-problem-enrich-relief-ladder-web |  
+| bip_39_word_dash_7 | spell-problem-enrich-relief-ladder-web-cereal |  
+| bip_39_word_dash_8 | spell-problem-enrich-relief-ladder-web-cereal-uncle |  
+| bip_39_word_dash_9 | spell-problem-enrich-relief-ladder-web-cereal-uncle-calm |  
 | bip_39_word_new_br_1 | spell |  
 | bip_39_word_new_br_10 | spell<br>problem<br>enrich<br>relief<br>ladder<br>web<br>cereal<br>uncle<br>calm<br>spike |  
 | bip_39_word_new_br_11 | spell<br>problem<br>enrich<br>relief<br>ladder<br>web<br>cereal<br>uncle<br>calm<br>spike<br>tomato |  
@@ -147,6 +159,18 @@ calm |
 | bip_39_word_space_7 | spell problem enrich relief ladder web cereal |  
 | bip_39_word_space_8 | spell problem enrich relief ladder web cereal uncle |  
 | bip_39_word_space_9 | spell problem enrich relief ladder web cereal uncle calm |  
+| bip_39_word_underscore_1 | spell |  
+| bip_39_word_underscore_10 | spell_problem_enrich_relief_ladder_web_cereal_uncle_calm_spike |  
+| bip_39_word_underscore_11 | spell_problem_enrich_relief_ladder_web_cereal_uncle_calm_spike_tomato |  
+| bip_39_word_underscore_12 | spell_problem_enrich_relief_ladder_web_cereal_uncle_calm_spike_tomato_any |  
+| bip_39_word_underscore_2 | spell_problem |  
+| bip_39_word_underscore_3 | spell_problem_enrich |  
+| bip_39_word_underscore_4 | spell_problem_enrich_relief |  
+| bip_39_word_underscore_5 | spell_problem_enrich_relief_ladder |  
+| bip_39_word_underscore_6 | spell_problem_enrich_relief_ladder_web |  
+| bip_39_word_underscore_7 | spell_problem_enrich_relief_ladder_web_cereal |  
+| bip_39_word_underscore_8 | spell_problem_enrich_relief_ladder_web_cereal_uncle |  
+| bip_39_word_underscore_9 | spell_problem_enrich_relief_ladder_web_cereal_uncle_calm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

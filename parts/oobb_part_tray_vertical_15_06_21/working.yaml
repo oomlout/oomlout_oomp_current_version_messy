@@ -1,3 +1,15 @@
+bip_39_word_dash_1: next
+bip_39_word_dash_10: next-glow-trophy-borrow-already-print-sponsor-mansion-pause-rabbit
+bip_39_word_dash_11: next-glow-trophy-borrow-already-print-sponsor-mansion-pause-rabbit-clog
+bip_39_word_dash_12: next-glow-trophy-borrow-already-print-sponsor-mansion-pause-rabbit-clog-about
+bip_39_word_dash_2: next-glow
+bip_39_word_dash_3: next-glow-trophy
+bip_39_word_dash_4: next-glow-trophy-borrow
+bip_39_word_dash_5: next-glow-trophy-borrow-already
+bip_39_word_dash_6: next-glow-trophy-borrow-already-print
+bip_39_word_dash_7: next-glow-trophy-borrow-already-print-sponsor
+bip_39_word_dash_8: next-glow-trophy-borrow-already-print-sponsor-mansion
+bip_39_word_dash_9: next-glow-trophy-borrow-already-print-sponsor-mansion-pause
 bip_39_word_new_br_1: next
 bip_39_word_new_br_10: next<br>glow<br>trophy<br>borrow<br>already<br>print<br>sponsor<br>mansion<br>pause<br>rabbit
 bip_39_word_new_br_11: next<br>glow<br>trophy<br>borrow<br>already<br>print<br>sponsor<br>mansion<br>pause<br>rabbit<br>clog
@@ -194,6 +206,18 @@ bip_39_word_space_6: next glow trophy borrow already print
 bip_39_word_space_7: next glow trophy borrow already print sponsor
 bip_39_word_space_8: next glow trophy borrow already print sponsor mansion
 bip_39_word_space_9: next glow trophy borrow already print sponsor mansion pause
+bip_39_word_underscore_1: next
+bip_39_word_underscore_10: next_glow_trophy_borrow_already_print_sponsor_mansion_pause_rabbit
+bip_39_word_underscore_11: next_glow_trophy_borrow_already_print_sponsor_mansion_pause_rabbit_clog
+bip_39_word_underscore_12: next_glow_trophy_borrow_already_print_sponsor_mansion_pause_rabbit_clog_about
+bip_39_word_underscore_2: next_glow
+bip_39_word_underscore_3: next_glow_trophy
+bip_39_word_underscore_4: next_glow_trophy_borrow
+bip_39_word_underscore_5: next_glow_trophy_borrow_already
+bip_39_word_underscore_6: next_glow_trophy_borrow_already_print
+bip_39_word_underscore_7: next_glow_trophy_borrow_already_print_sponsor
+bip_39_word_underscore_8: next_glow_trophy_borrow_already_print_sponsor_mansion
+bip_39_word_underscore_9: next_glow_trophy_borrow_already_print_sponsor_mansion_pause
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

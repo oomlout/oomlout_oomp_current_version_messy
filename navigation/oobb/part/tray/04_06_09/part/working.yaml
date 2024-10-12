@@ -1,3 +1,15 @@
+bip_39_word_dash_1: perfect
+bip_39_word_dash_10: perfect-neck-misery-butter-athlete-talk-bid-dynamic-jeans-apple
+bip_39_word_dash_11: perfect-neck-misery-butter-athlete-talk-bid-dynamic-jeans-apple-organ
+bip_39_word_dash_12: perfect-neck-misery-butter-athlete-talk-bid-dynamic-jeans-apple-organ-august
+bip_39_word_dash_2: perfect-neck
+bip_39_word_dash_3: perfect-neck-misery
+bip_39_word_dash_4: perfect-neck-misery-butter
+bip_39_word_dash_5: perfect-neck-misery-butter-athlete
+bip_39_word_dash_6: perfect-neck-misery-butter-athlete-talk
+bip_39_word_dash_7: perfect-neck-misery-butter-athlete-talk-bid
+bip_39_word_dash_8: perfect-neck-misery-butter-athlete-talk-bid-dynamic
+bip_39_word_dash_9: perfect-neck-misery-butter-athlete-talk-bid-dynamic-jeans
 bip_39_word_new_br_1: perfect
 bip_39_word_new_br_10: perfect<br>neck<br>misery<br>butter<br>athlete<br>talk<br>bid<br>dynamic<br>jeans<br>apple
 bip_39_word_new_br_11: perfect<br>neck<br>misery<br>butter<br>athlete<br>talk<br>bid<br>dynamic<br>jeans<br>apple<br>organ
@@ -193,6 +205,18 @@ bip_39_word_space_6: perfect neck misery butter athlete talk
 bip_39_word_space_7: perfect neck misery butter athlete talk bid
 bip_39_word_space_8: perfect neck misery butter athlete talk bid dynamic
 bip_39_word_space_9: perfect neck misery butter athlete talk bid dynamic jeans
+bip_39_word_underscore_1: perfect
+bip_39_word_underscore_10: perfect_neck_misery_butter_athlete_talk_bid_dynamic_jeans_apple
+bip_39_word_underscore_11: perfect_neck_misery_butter_athlete_talk_bid_dynamic_jeans_apple_organ
+bip_39_word_underscore_12: perfect_neck_misery_butter_athlete_talk_bid_dynamic_jeans_apple_organ_august
+bip_39_word_underscore_2: perfect_neck
+bip_39_word_underscore_3: perfect_neck_misery
+bip_39_word_underscore_4: perfect_neck_misery_butter
+bip_39_word_underscore_5: perfect_neck_misery_butter_athlete
+bip_39_word_underscore_6: perfect_neck_misery_butter_athlete_talk
+bip_39_word_underscore_7: perfect_neck_misery_butter_athlete_talk_bid
+bip_39_word_underscore_8: perfect_neck_misery_butter_athlete_talk_bid_dynamic
+bip_39_word_underscore_9: perfect_neck_misery_butter_athlete_talk_bid_dynamic_jeans
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

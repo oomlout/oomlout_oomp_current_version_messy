@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | food |  
+| bip_39_word_dash_10 | food-critic-minimum-voyage-venture-journey-holiday-warrior-gift-assume |  
+| bip_39_word_dash_11 | food-critic-minimum-voyage-venture-journey-holiday-warrior-gift-assume-garment |  
+| bip_39_word_dash_12 | food-critic-minimum-voyage-venture-journey-holiday-warrior-gift-assume-garment-advance |  
+| bip_39_word_dash_2 | food-critic |  
+| bip_39_word_dash_3 | food-critic-minimum |  
+| bip_39_word_dash_4 | food-critic-minimum-voyage |  
+| bip_39_word_dash_5 | food-critic-minimum-voyage-venture |  
+| bip_39_word_dash_6 | food-critic-minimum-voyage-venture-journey |  
+| bip_39_word_dash_7 | food-critic-minimum-voyage-venture-journey-holiday |  
+| bip_39_word_dash_8 | food-critic-minimum-voyage-venture-journey-holiday-warrior |  
+| bip_39_word_dash_9 | food-critic-minimum-voyage-venture-journey-holiday-warrior-gift |  
 | bip_39_word_new_br_1 | food |  
 | bip_39_word_new_br_10 | food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume |  
 | bip_39_word_new_br_11 | food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume<br>garment |  
@@ -147,6 +159,18 @@ gift |
 | bip_39_word_space_7 | food critic minimum voyage venture journey holiday |  
 | bip_39_word_space_8 | food critic minimum voyage venture journey holiday warrior |  
 | bip_39_word_space_9 | food critic minimum voyage venture journey holiday warrior gift |  
+| bip_39_word_underscore_1 | food |  
+| bip_39_word_underscore_10 | food_critic_minimum_voyage_venture_journey_holiday_warrior_gift_assume |  
+| bip_39_word_underscore_11 | food_critic_minimum_voyage_venture_journey_holiday_warrior_gift_assume_garment |  
+| bip_39_word_underscore_12 | food_critic_minimum_voyage_venture_journey_holiday_warrior_gift_assume_garment_advance |  
+| bip_39_word_underscore_2 | food_critic |  
+| bip_39_word_underscore_3 | food_critic_minimum |  
+| bip_39_word_underscore_4 | food_critic_minimum_voyage |  
+| bip_39_word_underscore_5 | food_critic_minimum_voyage_venture |  
+| bip_39_word_underscore_6 | food_critic_minimum_voyage_venture_journey |  
+| bip_39_word_underscore_7 | food_critic_minimum_voyage_venture_journey_holiday |  
+| bip_39_word_underscore_8 | food_critic_minimum_voyage_venture_journey_holiday_warrior |  
+| bip_39_word_underscore_9 | food_critic_minimum_voyage_venture_journey_holiday_warrior_gift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

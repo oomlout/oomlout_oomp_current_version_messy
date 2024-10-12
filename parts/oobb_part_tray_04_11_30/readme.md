@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | peace |  
+| bip_39_word_dash_10 | peace-episode-extra-lecture-lava-source-margin-choice-tonight-hint |  
+| bip_39_word_dash_11 | peace-episode-extra-lecture-lava-source-margin-choice-tonight-hint-pony |  
+| bip_39_word_dash_12 | peace-episode-extra-lecture-lava-source-margin-choice-tonight-hint-pony-angle |  
+| bip_39_word_dash_2 | peace-episode |  
+| bip_39_word_dash_3 | peace-episode-extra |  
+| bip_39_word_dash_4 | peace-episode-extra-lecture |  
+| bip_39_word_dash_5 | peace-episode-extra-lecture-lava |  
+| bip_39_word_dash_6 | peace-episode-extra-lecture-lava-source |  
+| bip_39_word_dash_7 | peace-episode-extra-lecture-lava-source-margin |  
+| bip_39_word_dash_8 | peace-episode-extra-lecture-lava-source-margin-choice |  
+| bip_39_word_dash_9 | peace-episode-extra-lecture-lava-source-margin-choice-tonight |  
 | bip_39_word_new_br_1 | peace |  
 | bip_39_word_new_br_10 | peace<br>episode<br>extra<br>lecture<br>lava<br>source<br>margin<br>choice<br>tonight<br>hint |  
 | bip_39_word_new_br_11 | peace<br>episode<br>extra<br>lecture<br>lava<br>source<br>margin<br>choice<br>tonight<br>hint<br>pony |  
@@ -147,6 +159,18 @@ tonight |
 | bip_39_word_space_7 | peace episode extra lecture lava source margin |  
 | bip_39_word_space_8 | peace episode extra lecture lava source margin choice |  
 | bip_39_word_space_9 | peace episode extra lecture lava source margin choice tonight |  
+| bip_39_word_underscore_1 | peace |  
+| bip_39_word_underscore_10 | peace_episode_extra_lecture_lava_source_margin_choice_tonight_hint |  
+| bip_39_word_underscore_11 | peace_episode_extra_lecture_lava_source_margin_choice_tonight_hint_pony |  
+| bip_39_word_underscore_12 | peace_episode_extra_lecture_lava_source_margin_choice_tonight_hint_pony_angle |  
+| bip_39_word_underscore_2 | peace_episode |  
+| bip_39_word_underscore_3 | peace_episode_extra |  
+| bip_39_word_underscore_4 | peace_episode_extra_lecture |  
+| bip_39_word_underscore_5 | peace_episode_extra_lecture_lava |  
+| bip_39_word_underscore_6 | peace_episode_extra_lecture_lava_source |  
+| bip_39_word_underscore_7 | peace_episode_extra_lecture_lava_source_margin |  
+| bip_39_word_underscore_8 | peace_episode_extra_lecture_lava_source_margin_choice |  
+| bip_39_word_underscore_9 | peace_episode_extra_lecture_lava_source_margin_choice_tonight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

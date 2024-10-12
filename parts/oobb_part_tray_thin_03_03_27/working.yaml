@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enroll
+bip_39_word_dash_10: enroll-off-advice-snow-obey-black-tornado-fork-happy-acquire
+bip_39_word_dash_11: enroll-off-advice-snow-obey-black-tornado-fork-happy-acquire-brick
+bip_39_word_dash_12: enroll-off-advice-snow-obey-black-tornado-fork-happy-acquire-brick-ankle
+bip_39_word_dash_2: enroll-off
+bip_39_word_dash_3: enroll-off-advice
+bip_39_word_dash_4: enroll-off-advice-snow
+bip_39_word_dash_5: enroll-off-advice-snow-obey
+bip_39_word_dash_6: enroll-off-advice-snow-obey-black
+bip_39_word_dash_7: enroll-off-advice-snow-obey-black-tornado
+bip_39_word_dash_8: enroll-off-advice-snow-obey-black-tornado-fork
+bip_39_word_dash_9: enroll-off-advice-snow-obey-black-tornado-fork-happy
 bip_39_word_new_br_1: enroll
 bip_39_word_new_br_10: enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork<br>happy<br>acquire
 bip_39_word_new_br_11: enroll<br>off<br>advice<br>snow<br>obey<br>black<br>tornado<br>fork<br>happy<br>acquire<br>brick
@@ -193,6 +205,18 @@ bip_39_word_space_6: enroll off advice snow obey black
 bip_39_word_space_7: enroll off advice snow obey black tornado
 bip_39_word_space_8: enroll off advice snow obey black tornado fork
 bip_39_word_space_9: enroll off advice snow obey black tornado fork happy
+bip_39_word_underscore_1: enroll
+bip_39_word_underscore_10: enroll_off_advice_snow_obey_black_tornado_fork_happy_acquire
+bip_39_word_underscore_11: enroll_off_advice_snow_obey_black_tornado_fork_happy_acquire_brick
+bip_39_word_underscore_12: enroll_off_advice_snow_obey_black_tornado_fork_happy_acquire_brick_ankle
+bip_39_word_underscore_2: enroll_off
+bip_39_word_underscore_3: enroll_off_advice
+bip_39_word_underscore_4: enroll_off_advice_snow
+bip_39_word_underscore_5: enroll_off_advice_snow_obey
+bip_39_word_underscore_6: enroll_off_advice_snow_obey_black
+bip_39_word_underscore_7: enroll_off_advice_snow_obey_black_tornado
+bip_39_word_underscore_8: enroll_off_advice_snow_obey_black_tornado_fork
+bip_39_word_underscore_9: enroll_off_advice_snow_obey_black_tornado_fork_happy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

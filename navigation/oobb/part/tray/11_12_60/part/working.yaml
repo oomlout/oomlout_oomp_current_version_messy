@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brain
+bip_39_word_dash_10: brain-under-elephant-weasel-juice-disorder-job-kick-brown-salute
+bip_39_word_dash_11: brain-under-elephant-weasel-juice-disorder-job-kick-brown-salute-cancel
+bip_39_word_dash_12: brain-under-elephant-weasel-juice-disorder-job-kick-brown-salute-cancel-amazing
+bip_39_word_dash_2: brain-under
+bip_39_word_dash_3: brain-under-elephant
+bip_39_word_dash_4: brain-under-elephant-weasel
+bip_39_word_dash_5: brain-under-elephant-weasel-juice
+bip_39_word_dash_6: brain-under-elephant-weasel-juice-disorder
+bip_39_word_dash_7: brain-under-elephant-weasel-juice-disorder-job
+bip_39_word_dash_8: brain-under-elephant-weasel-juice-disorder-job-kick
+bip_39_word_dash_9: brain-under-elephant-weasel-juice-disorder-job-kick-brown
 bip_39_word_new_br_1: brain
 bip_39_word_new_br_10: brain<br>under<br>elephant<br>weasel<br>juice<br>disorder<br>job<br>kick<br>brown<br>salute
 bip_39_word_new_br_11: brain<br>under<br>elephant<br>weasel<br>juice<br>disorder<br>job<br>kick<br>brown<br>salute<br>cancel
@@ -193,6 +205,18 @@ bip_39_word_space_6: brain under elephant weasel juice disorder
 bip_39_word_space_7: brain under elephant weasel juice disorder job
 bip_39_word_space_8: brain under elephant weasel juice disorder job kick
 bip_39_word_space_9: brain under elephant weasel juice disorder job kick brown
+bip_39_word_underscore_1: brain
+bip_39_word_underscore_10: brain_under_elephant_weasel_juice_disorder_job_kick_brown_salute
+bip_39_word_underscore_11: brain_under_elephant_weasel_juice_disorder_job_kick_brown_salute_cancel
+bip_39_word_underscore_12: brain_under_elephant_weasel_juice_disorder_job_kick_brown_salute_cancel_amazing
+bip_39_word_underscore_2: brain_under
+bip_39_word_underscore_3: brain_under_elephant
+bip_39_word_underscore_4: brain_under_elephant_weasel
+bip_39_word_underscore_5: brain_under_elephant_weasel_juice
+bip_39_word_underscore_6: brain_under_elephant_weasel_juice_disorder
+bip_39_word_underscore_7: brain_under_elephant_weasel_juice_disorder_job
+bip_39_word_underscore_8: brain_under_elephant_weasel_juice_disorder_job_kick
+bip_39_word_underscore_9: brain_under_elephant_weasel_juice_disorder_job_kick_brown
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

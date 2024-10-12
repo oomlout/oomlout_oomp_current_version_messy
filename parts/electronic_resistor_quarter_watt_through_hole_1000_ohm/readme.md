@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | happy |  
+| bip_39_word_dash_10 | happy-sign-upset-toe-proud-toward-sorry-industry-under-noodle |  
+| bip_39_word_dash_11 | happy-sign-upset-toe-proud-toward-sorry-industry-under-noodle-another |  
+| bip_39_word_dash_12 | happy-sign-upset-toe-proud-toward-sorry-industry-under-noodle-another-abuse |  
+| bip_39_word_dash_2 | happy-sign |  
+| bip_39_word_dash_3 | happy-sign-upset |  
+| bip_39_word_dash_4 | happy-sign-upset-toe |  
+| bip_39_word_dash_5 | happy-sign-upset-toe-proud |  
+| bip_39_word_dash_6 | happy-sign-upset-toe-proud-toward |  
+| bip_39_word_dash_7 | happy-sign-upset-toe-proud-toward-sorry |  
+| bip_39_word_dash_8 | happy-sign-upset-toe-proud-toward-sorry-industry |  
+| bip_39_word_dash_9 | happy-sign-upset-toe-proud-toward-sorry-industry-under |  
 | bip_39_word_new_br_1 | happy |  
 | bip_39_word_new_br_10 | happy<br>sign<br>upset<br>toe<br>proud<br>toward<br>sorry<br>industry<br>under<br>noodle |  
 | bip_39_word_new_br_11 | happy<br>sign<br>upset<br>toe<br>proud<br>toward<br>sorry<br>industry<br>under<br>noodle<br>another |  
@@ -147,6 +159,18 @@ under |
 | bip_39_word_space_7 | happy sign upset toe proud toward sorry |  
 | bip_39_word_space_8 | happy sign upset toe proud toward sorry industry |  
 | bip_39_word_space_9 | happy sign upset toe proud toward sorry industry under |  
+| bip_39_word_underscore_1 | happy |  
+| bip_39_word_underscore_10 | happy_sign_upset_toe_proud_toward_sorry_industry_under_noodle |  
+| bip_39_word_underscore_11 | happy_sign_upset_toe_proud_toward_sorry_industry_under_noodle_another |  
+| bip_39_word_underscore_12 | happy_sign_upset_toe_proud_toward_sorry_industry_under_noodle_another_abuse |  
+| bip_39_word_underscore_2 | happy_sign |  
+| bip_39_word_underscore_3 | happy_sign_upset |  
+| bip_39_word_underscore_4 | happy_sign_upset_toe |  
+| bip_39_word_underscore_5 | happy_sign_upset_toe_proud |  
+| bip_39_word_underscore_6 | happy_sign_upset_toe_proud_toward |  
+| bip_39_word_underscore_7 | happy_sign_upset_toe_proud_toward_sorry |  
+| bip_39_word_underscore_8 | happy_sign_upset_toe_proud_toward_sorry_industry |  
+| bip_39_word_underscore_9 | happy_sign_upset_toe_proud_toward_sorry_industry_under |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

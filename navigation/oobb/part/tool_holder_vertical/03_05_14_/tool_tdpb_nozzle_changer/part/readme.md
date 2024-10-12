@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erase |  
+| bip_39_word_dash_10 | erase-empty-glove-jealous-abandon-adjust-plate-story-turtle-pyramid |  
+| bip_39_word_dash_11 | erase-empty-glove-jealous-abandon-adjust-plate-story-turtle-pyramid-soda |  
+| bip_39_word_dash_12 | erase-empty-glove-jealous-abandon-adjust-plate-story-turtle-pyramid-soda-agent |  
+| bip_39_word_dash_2 | erase-empty |  
+| bip_39_word_dash_3 | erase-empty-glove |  
+| bip_39_word_dash_4 | erase-empty-glove-jealous |  
+| bip_39_word_dash_5 | erase-empty-glove-jealous-abandon |  
+| bip_39_word_dash_6 | erase-empty-glove-jealous-abandon-adjust |  
+| bip_39_word_dash_7 | erase-empty-glove-jealous-abandon-adjust-plate |  
+| bip_39_word_dash_8 | erase-empty-glove-jealous-abandon-adjust-plate-story |  
+| bip_39_word_dash_9 | erase-empty-glove-jealous-abandon-adjust-plate-story-turtle |  
 | bip_39_word_new_br_1 | erase |  
 | bip_39_word_new_br_10 | erase<br>empty<br>glove<br>jealous<br>abandon<br>adjust<br>plate<br>story<br>turtle<br>pyramid |  
 | bip_39_word_new_br_11 | erase<br>empty<br>glove<br>jealous<br>abandon<br>adjust<br>plate<br>story<br>turtle<br>pyramid<br>soda |  
@@ -147,6 +159,18 @@ turtle |
 | bip_39_word_space_7 | erase empty glove jealous abandon adjust plate |  
 | bip_39_word_space_8 | erase empty glove jealous abandon adjust plate story |  
 | bip_39_word_space_9 | erase empty glove jealous abandon adjust plate story turtle |  
+| bip_39_word_underscore_1 | erase |  
+| bip_39_word_underscore_10 | erase_empty_glove_jealous_abandon_adjust_plate_story_turtle_pyramid |  
+| bip_39_word_underscore_11 | erase_empty_glove_jealous_abandon_adjust_plate_story_turtle_pyramid_soda |  
+| bip_39_word_underscore_12 | erase_empty_glove_jealous_abandon_adjust_plate_story_turtle_pyramid_soda_agent |  
+| bip_39_word_underscore_2 | erase_empty |  
+| bip_39_word_underscore_3 | erase_empty_glove |  
+| bip_39_word_underscore_4 | erase_empty_glove_jealous |  
+| bip_39_word_underscore_5 | erase_empty_glove_jealous_abandon |  
+| bip_39_word_underscore_6 | erase_empty_glove_jealous_abandon_adjust |  
+| bip_39_word_underscore_7 | erase_empty_glove_jealous_abandon_adjust_plate |  
+| bip_39_word_underscore_8 | erase_empty_glove_jealous_abandon_adjust_plate_story |  
+| bip_39_word_underscore_9 | erase_empty_glove_jealous_abandon_adjust_plate_story_turtle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

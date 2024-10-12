@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unveil |  
+| bip_39_word_dash_10 | unveil-width-shove-foil-direct-doctor-olympic-double-ski-plug |  
+| bip_39_word_dash_11 | unveil-width-shove-foil-direct-doctor-olympic-double-ski-plug-sugar |  
+| bip_39_word_dash_12 | unveil-width-shove-foil-direct-doctor-olympic-double-ski-plug-sugar-autumn |  
+| bip_39_word_dash_2 | unveil-width |  
+| bip_39_word_dash_3 | unveil-width-shove |  
+| bip_39_word_dash_4 | unveil-width-shove-foil |  
+| bip_39_word_dash_5 | unveil-width-shove-foil-direct |  
+| bip_39_word_dash_6 | unveil-width-shove-foil-direct-doctor |  
+| bip_39_word_dash_7 | unveil-width-shove-foil-direct-doctor-olympic |  
+| bip_39_word_dash_8 | unveil-width-shove-foil-direct-doctor-olympic-double |  
+| bip_39_word_dash_9 | unveil-width-shove-foil-direct-doctor-olympic-double-ski |  
 | bip_39_word_new_br_1 | unveil |  
 | bip_39_word_new_br_10 | unveil<br>width<br>shove<br>foil<br>direct<br>doctor<br>olympic<br>double<br>ski<br>plug |  
 | bip_39_word_new_br_11 | unveil<br>width<br>shove<br>foil<br>direct<br>doctor<br>olympic<br>double<br>ski<br>plug<br>sugar |  
@@ -147,6 +159,18 @@ ski |
 | bip_39_word_space_7 | unveil width shove foil direct doctor olympic |  
 | bip_39_word_space_8 | unveil width shove foil direct doctor olympic double |  
 | bip_39_word_space_9 | unveil width shove foil direct doctor olympic double ski |  
+| bip_39_word_underscore_1 | unveil |  
+| bip_39_word_underscore_10 | unveil_width_shove_foil_direct_doctor_olympic_double_ski_plug |  
+| bip_39_word_underscore_11 | unveil_width_shove_foil_direct_doctor_olympic_double_ski_plug_sugar |  
+| bip_39_word_underscore_12 | unveil_width_shove_foil_direct_doctor_olympic_double_ski_plug_sugar_autumn |  
+| bip_39_word_underscore_2 | unveil_width |  
+| bip_39_word_underscore_3 | unveil_width_shove |  
+| bip_39_word_underscore_4 | unveil_width_shove_foil |  
+| bip_39_word_underscore_5 | unveil_width_shove_foil_direct |  
+| bip_39_word_underscore_6 | unveil_width_shove_foil_direct_doctor |  
+| bip_39_word_underscore_7 | unveil_width_shove_foil_direct_doctor_olympic |  
+| bip_39_word_underscore_8 | unveil_width_shove_foil_direct_doctor_olympic_double |  
+| bip_39_word_underscore_9 | unveil_width_shove_foil_direct_doctor_olympic_double_ski |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

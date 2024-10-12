@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | anxiety |  
+| bip_39_word_dash_10 | anxiety-run-pepper-strong-tooth-sadness-another-margin-upon-dismiss |  
+| bip_39_word_dash_11 | anxiety-run-pepper-strong-tooth-sadness-another-margin-upon-dismiss-wing |  
+| bip_39_word_dash_12 | anxiety-run-pepper-strong-tooth-sadness-another-margin-upon-dismiss-wing-address |  
+| bip_39_word_dash_2 | anxiety-run |  
+| bip_39_word_dash_3 | anxiety-run-pepper |  
+| bip_39_word_dash_4 | anxiety-run-pepper-strong |  
+| bip_39_word_dash_5 | anxiety-run-pepper-strong-tooth |  
+| bip_39_word_dash_6 | anxiety-run-pepper-strong-tooth-sadness |  
+| bip_39_word_dash_7 | anxiety-run-pepper-strong-tooth-sadness-another |  
+| bip_39_word_dash_8 | anxiety-run-pepper-strong-tooth-sadness-another-margin |  
+| bip_39_word_dash_9 | anxiety-run-pepper-strong-tooth-sadness-another-margin-upon |  
 | bip_39_word_new_br_1 | anxiety |  
 | bip_39_word_new_br_10 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin<br>upon<br>dismiss |  
 | bip_39_word_new_br_11 | anxiety<br>run<br>pepper<br>strong<br>tooth<br>sadness<br>another<br>margin<br>upon<br>dismiss<br>wing |  
@@ -147,6 +159,18 @@ upon |
 | bip_39_word_space_7 | anxiety run pepper strong tooth sadness another |  
 | bip_39_word_space_8 | anxiety run pepper strong tooth sadness another margin |  
 | bip_39_word_space_9 | anxiety run pepper strong tooth sadness another margin upon |  
+| bip_39_word_underscore_1 | anxiety |  
+| bip_39_word_underscore_10 | anxiety_run_pepper_strong_tooth_sadness_another_margin_upon_dismiss |  
+| bip_39_word_underscore_11 | anxiety_run_pepper_strong_tooth_sadness_another_margin_upon_dismiss_wing |  
+| bip_39_word_underscore_12 | anxiety_run_pepper_strong_tooth_sadness_another_margin_upon_dismiss_wing_address |  
+| bip_39_word_underscore_2 | anxiety_run |  
+| bip_39_word_underscore_3 | anxiety_run_pepper |  
+| bip_39_word_underscore_4 | anxiety_run_pepper_strong |  
+| bip_39_word_underscore_5 | anxiety_run_pepper_strong_tooth |  
+| bip_39_word_underscore_6 | anxiety_run_pepper_strong_tooth_sadness |  
+| bip_39_word_underscore_7 | anxiety_run_pepper_strong_tooth_sadness_another |  
+| bip_39_word_underscore_8 | anxiety_run_pepper_strong_tooth_sadness_another_margin |  
+| bip_39_word_underscore_9 | anxiety_run_pepper_strong_tooth_sadness_another_margin_upon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

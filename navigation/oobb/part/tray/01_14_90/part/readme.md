@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ask |  
+| bip_39_word_dash_10 | ask-satoshi-screen-rack-candy-blanket-tired-job-such-page |  
+| bip_39_word_dash_11 | ask-satoshi-screen-rack-candy-blanket-tired-job-such-page-two |  
+| bip_39_word_dash_12 | ask-satoshi-screen-rack-candy-blanket-tired-job-such-page-two-august |  
+| bip_39_word_dash_2 | ask-satoshi |  
+| bip_39_word_dash_3 | ask-satoshi-screen |  
+| bip_39_word_dash_4 | ask-satoshi-screen-rack |  
+| bip_39_word_dash_5 | ask-satoshi-screen-rack-candy |  
+| bip_39_word_dash_6 | ask-satoshi-screen-rack-candy-blanket |  
+| bip_39_word_dash_7 | ask-satoshi-screen-rack-candy-blanket-tired |  
+| bip_39_word_dash_8 | ask-satoshi-screen-rack-candy-blanket-tired-job |  
+| bip_39_word_dash_9 | ask-satoshi-screen-rack-candy-blanket-tired-job-such |  
 | bip_39_word_new_br_1 | ask |  
 | bip_39_word_new_br_10 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page |  
 | bip_39_word_new_br_11 | ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page<br>two |  
@@ -147,6 +159,18 @@ such |
 | bip_39_word_space_7 | ask satoshi screen rack candy blanket tired |  
 | bip_39_word_space_8 | ask satoshi screen rack candy blanket tired job |  
 | bip_39_word_space_9 | ask satoshi screen rack candy blanket tired job such |  
+| bip_39_word_underscore_1 | ask |  
+| bip_39_word_underscore_10 | ask_satoshi_screen_rack_candy_blanket_tired_job_such_page |  
+| bip_39_word_underscore_11 | ask_satoshi_screen_rack_candy_blanket_tired_job_such_page_two |  
+| bip_39_word_underscore_12 | ask_satoshi_screen_rack_candy_blanket_tired_job_such_page_two_august |  
+| bip_39_word_underscore_2 | ask_satoshi |  
+| bip_39_word_underscore_3 | ask_satoshi_screen |  
+| bip_39_word_underscore_4 | ask_satoshi_screen_rack |  
+| bip_39_word_underscore_5 | ask_satoshi_screen_rack_candy |  
+| bip_39_word_underscore_6 | ask_satoshi_screen_rack_candy_blanket |  
+| bip_39_word_underscore_7 | ask_satoshi_screen_rack_candy_blanket_tired |  
+| bip_39_word_underscore_8 | ask_satoshi_screen_rack_candy_blanket_tired_job |  
+| bip_39_word_underscore_9 | ask_satoshi_screen_rack_candy_blanket_tired_job_such |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

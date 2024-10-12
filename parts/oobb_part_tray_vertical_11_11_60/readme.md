@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exact |  
+| bip_39_word_dash_10 | exact-canoe-couch-auction-harsh-flock-orange-position-enforce-slot |  
+| bip_39_word_dash_11 | exact-canoe-couch-auction-harsh-flock-orange-position-enforce-slot-pass |  
+| bip_39_word_dash_12 | exact-canoe-couch-auction-harsh-flock-orange-position-enforce-slot-pass-access |  
+| bip_39_word_dash_2 | exact-canoe |  
+| bip_39_word_dash_3 | exact-canoe-couch |  
+| bip_39_word_dash_4 | exact-canoe-couch-auction |  
+| bip_39_word_dash_5 | exact-canoe-couch-auction-harsh |  
+| bip_39_word_dash_6 | exact-canoe-couch-auction-harsh-flock |  
+| bip_39_word_dash_7 | exact-canoe-couch-auction-harsh-flock-orange |  
+| bip_39_word_dash_8 | exact-canoe-couch-auction-harsh-flock-orange-position |  
+| bip_39_word_dash_9 | exact-canoe-couch-auction-harsh-flock-orange-position-enforce |  
 | bip_39_word_new_br_1 | exact |  
 | bip_39_word_new_br_10 | exact<br>canoe<br>couch<br>auction<br>harsh<br>flock<br>orange<br>position<br>enforce<br>slot |  
 | bip_39_word_new_br_11 | exact<br>canoe<br>couch<br>auction<br>harsh<br>flock<br>orange<br>position<br>enforce<br>slot<br>pass |  
@@ -147,6 +159,18 @@ enforce |
 | bip_39_word_space_7 | exact canoe couch auction harsh flock orange |  
 | bip_39_word_space_8 | exact canoe couch auction harsh flock orange position |  
 | bip_39_word_space_9 | exact canoe couch auction harsh flock orange position enforce |  
+| bip_39_word_underscore_1 | exact |  
+| bip_39_word_underscore_10 | exact_canoe_couch_auction_harsh_flock_orange_position_enforce_slot |  
+| bip_39_word_underscore_11 | exact_canoe_couch_auction_harsh_flock_orange_position_enforce_slot_pass |  
+| bip_39_word_underscore_12 | exact_canoe_couch_auction_harsh_flock_orange_position_enforce_slot_pass_access |  
+| bip_39_word_underscore_2 | exact_canoe |  
+| bip_39_word_underscore_3 | exact_canoe_couch |  
+| bip_39_word_underscore_4 | exact_canoe_couch_auction |  
+| bip_39_word_underscore_5 | exact_canoe_couch_auction_harsh |  
+| bip_39_word_underscore_6 | exact_canoe_couch_auction_harsh_flock |  
+| bip_39_word_underscore_7 | exact_canoe_couch_auction_harsh_flock_orange |  
+| bip_39_word_underscore_8 | exact_canoe_couch_auction_harsh_flock_orange_position |  
+| bip_39_word_underscore_9 | exact_canoe_couch_auction_harsh_flock_orange_position_enforce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

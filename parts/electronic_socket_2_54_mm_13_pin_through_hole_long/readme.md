@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | yard |  
+| bip_39_word_dash_10 | yard-green-found-tube-party-silent-silly-audit-glimpse-normal |  
+| bip_39_word_dash_11 | yard-green-found-tube-party-silent-silly-audit-glimpse-normal-credit |  
+| bip_39_word_dash_12 | yard-green-found-tube-party-silent-silly-audit-glimpse-normal-credit-acquire |  
+| bip_39_word_dash_2 | yard-green |  
+| bip_39_word_dash_3 | yard-green-found |  
+| bip_39_word_dash_4 | yard-green-found-tube |  
+| bip_39_word_dash_5 | yard-green-found-tube-party |  
+| bip_39_word_dash_6 | yard-green-found-tube-party-silent |  
+| bip_39_word_dash_7 | yard-green-found-tube-party-silent-silly |  
+| bip_39_word_dash_8 | yard-green-found-tube-party-silent-silly-audit |  
+| bip_39_word_dash_9 | yard-green-found-tube-party-silent-silly-audit-glimpse |  
 | bip_39_word_new_br_1 | yard |  
 | bip_39_word_new_br_10 | yard<br>green<br>found<br>tube<br>party<br>silent<br>silly<br>audit<br>glimpse<br>normal |  
 | bip_39_word_new_br_11 | yard<br>green<br>found<br>tube<br>party<br>silent<br>silly<br>audit<br>glimpse<br>normal<br>credit |  
@@ -147,6 +159,18 @@ glimpse |
 | bip_39_word_space_7 | yard green found tube party silent silly |  
 | bip_39_word_space_8 | yard green found tube party silent silly audit |  
 | bip_39_word_space_9 | yard green found tube party silent silly audit glimpse |  
+| bip_39_word_underscore_1 | yard |  
+| bip_39_word_underscore_10 | yard_green_found_tube_party_silent_silly_audit_glimpse_normal |  
+| bip_39_word_underscore_11 | yard_green_found_tube_party_silent_silly_audit_glimpse_normal_credit |  
+| bip_39_word_underscore_12 | yard_green_found_tube_party_silent_silly_audit_glimpse_normal_credit_acquire |  
+| bip_39_word_underscore_2 | yard_green |  
+| bip_39_word_underscore_3 | yard_green_found |  
+| bip_39_word_underscore_4 | yard_green_found_tube |  
+| bip_39_word_underscore_5 | yard_green_found_tube_party |  
+| bip_39_word_underscore_6 | yard_green_found_tube_party_silent |  
+| bip_39_word_underscore_7 | yard_green_found_tube_party_silent_silly |  
+| bip_39_word_underscore_8 | yard_green_found_tube_party_silent_silly_audit |  
+| bip_39_word_underscore_9 | yard_green_found_tube_party_silent_silly_audit_glimpse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

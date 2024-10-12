@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unlock |  
+| bip_39_word_dash_10 | unlock-exist-eternal-galaxy-expand-manual-notice-injury-rubber-novel |  
+| bip_39_word_dash_11 | unlock-exist-eternal-galaxy-expand-manual-notice-injury-rubber-novel-acquire |  
+| bip_39_word_dash_12 | unlock-exist-eternal-galaxy-expand-manual-notice-injury-rubber-novel-acquire-april |  
+| bip_39_word_dash_2 | unlock-exist |  
+| bip_39_word_dash_3 | unlock-exist-eternal |  
+| bip_39_word_dash_4 | unlock-exist-eternal-galaxy |  
+| bip_39_word_dash_5 | unlock-exist-eternal-galaxy-expand |  
+| bip_39_word_dash_6 | unlock-exist-eternal-galaxy-expand-manual |  
+| bip_39_word_dash_7 | unlock-exist-eternal-galaxy-expand-manual-notice |  
+| bip_39_word_dash_8 | unlock-exist-eternal-galaxy-expand-manual-notice-injury |  
+| bip_39_word_dash_9 | unlock-exist-eternal-galaxy-expand-manual-notice-injury-rubber |  
 | bip_39_word_new_br_1 | unlock |  
 | bip_39_word_new_br_10 | unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel |  
 | bip_39_word_new_br_11 | unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel<br>acquire |  
@@ -147,6 +159,18 @@ rubber |
 | bip_39_word_space_7 | unlock exist eternal galaxy expand manual notice |  
 | bip_39_word_space_8 | unlock exist eternal galaxy expand manual notice injury |  
 | bip_39_word_space_9 | unlock exist eternal galaxy expand manual notice injury rubber |  
+| bip_39_word_underscore_1 | unlock |  
+| bip_39_word_underscore_10 | unlock_exist_eternal_galaxy_expand_manual_notice_injury_rubber_novel |  
+| bip_39_word_underscore_11 | unlock_exist_eternal_galaxy_expand_manual_notice_injury_rubber_novel_acquire |  
+| bip_39_word_underscore_12 | unlock_exist_eternal_galaxy_expand_manual_notice_injury_rubber_novel_acquire_april |  
+| bip_39_word_underscore_2 | unlock_exist |  
+| bip_39_word_underscore_3 | unlock_exist_eternal |  
+| bip_39_word_underscore_4 | unlock_exist_eternal_galaxy |  
+| bip_39_word_underscore_5 | unlock_exist_eternal_galaxy_expand |  
+| bip_39_word_underscore_6 | unlock_exist_eternal_galaxy_expand_manual |  
+| bip_39_word_underscore_7 | unlock_exist_eternal_galaxy_expand_manual_notice |  
+| bip_39_word_underscore_8 | unlock_exist_eternal_galaxy_expand_manual_notice_injury |  
+| bip_39_word_underscore_9 | unlock_exist_eternal_galaxy_expand_manual_notice_injury_rubber |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

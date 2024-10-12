@@ -1,3 +1,15 @@
+bip_39_word_dash_1: struggle
+bip_39_word_dash_10: struggle-virus-creek-gentle-tribe-future-simple-ramp-purpose-review
+bip_39_word_dash_11: struggle-virus-creek-gentle-tribe-future-simple-ramp-purpose-review-embark
+bip_39_word_dash_12: struggle-virus-creek-gentle-tribe-future-simple-ramp-purpose-review-embark-aisle
+bip_39_word_dash_2: struggle-virus
+bip_39_word_dash_3: struggle-virus-creek
+bip_39_word_dash_4: struggle-virus-creek-gentle
+bip_39_word_dash_5: struggle-virus-creek-gentle-tribe
+bip_39_word_dash_6: struggle-virus-creek-gentle-tribe-future
+bip_39_word_dash_7: struggle-virus-creek-gentle-tribe-future-simple
+bip_39_word_dash_8: struggle-virus-creek-gentle-tribe-future-simple-ramp
+bip_39_word_dash_9: struggle-virus-creek-gentle-tribe-future-simple-ramp-purpose
 bip_39_word_new_br_1: struggle
 bip_39_word_new_br_10: struggle<br>virus<br>creek<br>gentle<br>tribe<br>future<br>simple<br>ramp<br>purpose<br>review
 bip_39_word_new_br_11: struggle<br>virus<br>creek<br>gentle<br>tribe<br>future<br>simple<br>ramp<br>purpose<br>review<br>embark
@@ -194,6 +206,18 @@ bip_39_word_space_6: struggle virus creek gentle tribe future
 bip_39_word_space_7: struggle virus creek gentle tribe future simple
 bip_39_word_space_8: struggle virus creek gentle tribe future simple ramp
 bip_39_word_space_9: struggle virus creek gentle tribe future simple ramp purpose
+bip_39_word_underscore_1: struggle
+bip_39_word_underscore_10: struggle_virus_creek_gentle_tribe_future_simple_ramp_purpose_review
+bip_39_word_underscore_11: struggle_virus_creek_gentle_tribe_future_simple_ramp_purpose_review_embark
+bip_39_word_underscore_12: struggle_virus_creek_gentle_tribe_future_simple_ramp_purpose_review_embark_aisle
+bip_39_word_underscore_2: struggle_virus
+bip_39_word_underscore_3: struggle_virus_creek
+bip_39_word_underscore_4: struggle_virus_creek_gentle
+bip_39_word_underscore_5: struggle_virus_creek_gentle_tribe
+bip_39_word_underscore_6: struggle_virus_creek_gentle_tribe_future
+bip_39_word_underscore_7: struggle_virus_creek_gentle_tribe_future_simple
+bip_39_word_underscore_8: struggle_virus_creek_gentle_tribe_future_simple_ramp
+bip_39_word_underscore_9: struggle_virus_creek_gentle_tribe_future_simple_ramp_purpose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

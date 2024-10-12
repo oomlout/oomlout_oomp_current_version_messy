@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | achieve |  
+| bip_39_word_dash_10 | achieve-enact-anxiety-frown-cereal-double-spy-destroy-motion-basic |  
+| bip_39_word_dash_11 | achieve-enact-anxiety-frown-cereal-double-spy-destroy-motion-basic-gossip |  
+| bip_39_word_dash_12 | achieve-enact-anxiety-frown-cereal-double-spy-destroy-motion-basic-gossip-aspect |  
+| bip_39_word_dash_2 | achieve-enact |  
+| bip_39_word_dash_3 | achieve-enact-anxiety |  
+| bip_39_word_dash_4 | achieve-enact-anxiety-frown |  
+| bip_39_word_dash_5 | achieve-enact-anxiety-frown-cereal |  
+| bip_39_word_dash_6 | achieve-enact-anxiety-frown-cereal-double |  
+| bip_39_word_dash_7 | achieve-enact-anxiety-frown-cereal-double-spy |  
+| bip_39_word_dash_8 | achieve-enact-anxiety-frown-cereal-double-spy-destroy |  
+| bip_39_word_dash_9 | achieve-enact-anxiety-frown-cereal-double-spy-destroy-motion |  
 | bip_39_word_new_br_1 | achieve |  
 | bip_39_word_new_br_10 | achieve<br>enact<br>anxiety<br>frown<br>cereal<br>double<br>spy<br>destroy<br>motion<br>basic |  
 | bip_39_word_new_br_11 | achieve<br>enact<br>anxiety<br>frown<br>cereal<br>double<br>spy<br>destroy<br>motion<br>basic<br>gossip |  
@@ -147,6 +159,18 @@ motion |
 | bip_39_word_space_7 | achieve enact anxiety frown cereal double spy |  
 | bip_39_word_space_8 | achieve enact anxiety frown cereal double spy destroy |  
 | bip_39_word_space_9 | achieve enact anxiety frown cereal double spy destroy motion |  
+| bip_39_word_underscore_1 | achieve |  
+| bip_39_word_underscore_10 | achieve_enact_anxiety_frown_cereal_double_spy_destroy_motion_basic |  
+| bip_39_word_underscore_11 | achieve_enact_anxiety_frown_cereal_double_spy_destroy_motion_basic_gossip |  
+| bip_39_word_underscore_12 | achieve_enact_anxiety_frown_cereal_double_spy_destroy_motion_basic_gossip_aspect |  
+| bip_39_word_underscore_2 | achieve_enact |  
+| bip_39_word_underscore_3 | achieve_enact_anxiety |  
+| bip_39_word_underscore_4 | achieve_enact_anxiety_frown |  
+| bip_39_word_underscore_5 | achieve_enact_anxiety_frown_cereal |  
+| bip_39_word_underscore_6 | achieve_enact_anxiety_frown_cereal_double |  
+| bip_39_word_underscore_7 | achieve_enact_anxiety_frown_cereal_double_spy |  
+| bip_39_word_underscore_8 | achieve_enact_anxiety_frown_cereal_double_spy_destroy |  
+| bip_39_word_underscore_9 | achieve_enact_anxiety_frown_cereal_double_spy_destroy_motion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

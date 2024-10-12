@@ -1,3 +1,15 @@
+bip_39_word_dash_1: job
+bip_39_word_dash_10: job-clip-fiber-frog-access-entry-exotic-lonely-chalk-organ
+bip_39_word_dash_11: job-clip-fiber-frog-access-entry-exotic-lonely-chalk-organ-yard
+bip_39_word_dash_12: job-clip-fiber-frog-access-entry-exotic-lonely-chalk-organ-yard-atom
+bip_39_word_dash_2: job-clip
+bip_39_word_dash_3: job-clip-fiber
+bip_39_word_dash_4: job-clip-fiber-frog
+bip_39_word_dash_5: job-clip-fiber-frog-access
+bip_39_word_dash_6: job-clip-fiber-frog-access-entry
+bip_39_word_dash_7: job-clip-fiber-frog-access-entry-exotic
+bip_39_word_dash_8: job-clip-fiber-frog-access-entry-exotic-lonely
+bip_39_word_dash_9: job-clip-fiber-frog-access-entry-exotic-lonely-chalk
 bip_39_word_new_br_1: job
 bip_39_word_new_br_10: job<br>clip<br>fiber<br>frog<br>access<br>entry<br>exotic<br>lonely<br>chalk<br>organ
 bip_39_word_new_br_11: job<br>clip<br>fiber<br>frog<br>access<br>entry<br>exotic<br>lonely<br>chalk<br>organ<br>yard
@@ -192,6 +204,18 @@ bip_39_word_space_6: job clip fiber frog access entry
 bip_39_word_space_7: job clip fiber frog access entry exotic
 bip_39_word_space_8: job clip fiber frog access entry exotic lonely
 bip_39_word_space_9: job clip fiber frog access entry exotic lonely chalk
+bip_39_word_underscore_1: job
+bip_39_word_underscore_10: job_clip_fiber_frog_access_entry_exotic_lonely_chalk_organ
+bip_39_word_underscore_11: job_clip_fiber_frog_access_entry_exotic_lonely_chalk_organ_yard
+bip_39_word_underscore_12: job_clip_fiber_frog_access_entry_exotic_lonely_chalk_organ_yard_atom
+bip_39_word_underscore_2: job_clip
+bip_39_word_underscore_3: job_clip_fiber
+bip_39_word_underscore_4: job_clip_fiber_frog
+bip_39_word_underscore_5: job_clip_fiber_frog_access
+bip_39_word_underscore_6: job_clip_fiber_frog_access_entry
+bip_39_word_underscore_7: job_clip_fiber_frog_access_entry_exotic
+bip_39_word_underscore_8: job_clip_fiber_frog_access_entry_exotic_lonely
+bip_39_word_underscore_9: job_clip_fiber_frog_access_entry_exotic_lonely_chalk
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

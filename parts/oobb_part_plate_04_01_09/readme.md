@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | quantum |  
+| bip_39_word_dash_10 | quantum-nature-oval-celery-decide-orange-damp-congress-original-brisk |  
+| bip_39_word_dash_11 | quantum-nature-oval-celery-decide-orange-damp-congress-original-brisk-viable |  
+| bip_39_word_dash_12 | quantum-nature-oval-celery-decide-orange-damp-congress-original-brisk-viable-arctic |  
+| bip_39_word_dash_2 | quantum-nature |  
+| bip_39_word_dash_3 | quantum-nature-oval |  
+| bip_39_word_dash_4 | quantum-nature-oval-celery |  
+| bip_39_word_dash_5 | quantum-nature-oval-celery-decide |  
+| bip_39_word_dash_6 | quantum-nature-oval-celery-decide-orange |  
+| bip_39_word_dash_7 | quantum-nature-oval-celery-decide-orange-damp |  
+| bip_39_word_dash_8 | quantum-nature-oval-celery-decide-orange-damp-congress |  
+| bip_39_word_dash_9 | quantum-nature-oval-celery-decide-orange-damp-congress-original |  
 | bip_39_word_new_br_1 | quantum |  
 | bip_39_word_new_br_10 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress<br>original<br>brisk |  
 | bip_39_word_new_br_11 | quantum<br>nature<br>oval<br>celery<br>decide<br>orange<br>damp<br>congress<br>original<br>brisk<br>viable |  
@@ -147,6 +159,18 @@ original |
 | bip_39_word_space_7 | quantum nature oval celery decide orange damp |  
 | bip_39_word_space_8 | quantum nature oval celery decide orange damp congress |  
 | bip_39_word_space_9 | quantum nature oval celery decide orange damp congress original |  
+| bip_39_word_underscore_1 | quantum |  
+| bip_39_word_underscore_10 | quantum_nature_oval_celery_decide_orange_damp_congress_original_brisk |  
+| bip_39_word_underscore_11 | quantum_nature_oval_celery_decide_orange_damp_congress_original_brisk_viable |  
+| bip_39_word_underscore_12 | quantum_nature_oval_celery_decide_orange_damp_congress_original_brisk_viable_arctic |  
+| bip_39_word_underscore_2 | quantum_nature |  
+| bip_39_word_underscore_3 | quantum_nature_oval |  
+| bip_39_word_underscore_4 | quantum_nature_oval_celery |  
+| bip_39_word_underscore_5 | quantum_nature_oval_celery_decide |  
+| bip_39_word_underscore_6 | quantum_nature_oval_celery_decide_orange |  
+| bip_39_word_underscore_7 | quantum_nature_oval_celery_decide_orange_damp |  
+| bip_39_word_underscore_8 | quantum_nature_oval_celery_decide_orange_damp_congress |  
+| bip_39_word_underscore_9 | quantum_nature_oval_celery_decide_orange_damp_congress_original |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

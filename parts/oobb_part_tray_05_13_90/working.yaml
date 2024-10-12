@@ -1,3 +1,15 @@
+bip_39_word_dash_1: love
+bip_39_word_dash_10: love-cabbage-whisper-universe-gym-grunt-ordinary-eye-shuffle-essence
+bip_39_word_dash_11: love-cabbage-whisper-universe-gym-grunt-ordinary-eye-shuffle-essence-joy
+bip_39_word_dash_12: love-cabbage-whisper-universe-gym-grunt-ordinary-eye-shuffle-essence-joy-age
+bip_39_word_dash_2: love-cabbage
+bip_39_word_dash_3: love-cabbage-whisper
+bip_39_word_dash_4: love-cabbage-whisper-universe
+bip_39_word_dash_5: love-cabbage-whisper-universe-gym
+bip_39_word_dash_6: love-cabbage-whisper-universe-gym-grunt
+bip_39_word_dash_7: love-cabbage-whisper-universe-gym-grunt-ordinary
+bip_39_word_dash_8: love-cabbage-whisper-universe-gym-grunt-ordinary-eye
+bip_39_word_dash_9: love-cabbage-whisper-universe-gym-grunt-ordinary-eye-shuffle
 bip_39_word_new_br_1: love
 bip_39_word_new_br_10: love<br>cabbage<br>whisper<br>universe<br>gym<br>grunt<br>ordinary<br>eye<br>shuffle<br>essence
 bip_39_word_new_br_11: love<br>cabbage<br>whisper<br>universe<br>gym<br>grunt<br>ordinary<br>eye<br>shuffle<br>essence<br>joy
@@ -194,6 +206,18 @@ bip_39_word_space_6: love cabbage whisper universe gym grunt
 bip_39_word_space_7: love cabbage whisper universe gym grunt ordinary
 bip_39_word_space_8: love cabbage whisper universe gym grunt ordinary eye
 bip_39_word_space_9: love cabbage whisper universe gym grunt ordinary eye shuffle
+bip_39_word_underscore_1: love
+bip_39_word_underscore_10: love_cabbage_whisper_universe_gym_grunt_ordinary_eye_shuffle_essence
+bip_39_word_underscore_11: love_cabbage_whisper_universe_gym_grunt_ordinary_eye_shuffle_essence_joy
+bip_39_word_underscore_12: love_cabbage_whisper_universe_gym_grunt_ordinary_eye_shuffle_essence_joy_age
+bip_39_word_underscore_2: love_cabbage
+bip_39_word_underscore_3: love_cabbage_whisper
+bip_39_word_underscore_4: love_cabbage_whisper_universe
+bip_39_word_underscore_5: love_cabbage_whisper_universe_gym
+bip_39_word_underscore_6: love_cabbage_whisper_universe_gym_grunt
+bip_39_word_underscore_7: love_cabbage_whisper_universe_gym_grunt_ordinary
+bip_39_word_underscore_8: love_cabbage_whisper_universe_gym_grunt_ordinary_eye
+bip_39_word_underscore_9: love_cabbage_whisper_universe_gym_grunt_ordinary_eye_shuffle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

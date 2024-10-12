@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | develop |  
+| bip_39_word_dash_10 | develop-ready-ramp-emerge-bleak-traffic-armor-north-stuff-mind |  
+| bip_39_word_dash_11 | develop-ready-ramp-emerge-bleak-traffic-armor-north-stuff-mind-actress |  
+| bip_39_word_dash_12 | develop-ready-ramp-emerge-bleak-traffic-armor-north-stuff-mind-actress-amount |  
+| bip_39_word_dash_2 | develop-ready |  
+| bip_39_word_dash_3 | develop-ready-ramp |  
+| bip_39_word_dash_4 | develop-ready-ramp-emerge |  
+| bip_39_word_dash_5 | develop-ready-ramp-emerge-bleak |  
+| bip_39_word_dash_6 | develop-ready-ramp-emerge-bleak-traffic |  
+| bip_39_word_dash_7 | develop-ready-ramp-emerge-bleak-traffic-armor |  
+| bip_39_word_dash_8 | develop-ready-ramp-emerge-bleak-traffic-armor-north |  
+| bip_39_word_dash_9 | develop-ready-ramp-emerge-bleak-traffic-armor-north-stuff |  
 | bip_39_word_new_br_1 | develop |  
 | bip_39_word_new_br_10 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north<br>stuff<br>mind |  
 | bip_39_word_new_br_11 | develop<br>ready<br>ramp<br>emerge<br>bleak<br>traffic<br>armor<br>north<br>stuff<br>mind<br>actress |  
@@ -147,6 +159,18 @@ stuff |
 | bip_39_word_space_7 | develop ready ramp emerge bleak traffic armor |  
 | bip_39_word_space_8 | develop ready ramp emerge bleak traffic armor north |  
 | bip_39_word_space_9 | develop ready ramp emerge bleak traffic armor north stuff |  
+| bip_39_word_underscore_1 | develop |  
+| bip_39_word_underscore_10 | develop_ready_ramp_emerge_bleak_traffic_armor_north_stuff_mind |  
+| bip_39_word_underscore_11 | develop_ready_ramp_emerge_bleak_traffic_armor_north_stuff_mind_actress |  
+| bip_39_word_underscore_12 | develop_ready_ramp_emerge_bleak_traffic_armor_north_stuff_mind_actress_amount |  
+| bip_39_word_underscore_2 | develop_ready |  
+| bip_39_word_underscore_3 | develop_ready_ramp |  
+| bip_39_word_underscore_4 | develop_ready_ramp_emerge |  
+| bip_39_word_underscore_5 | develop_ready_ramp_emerge_bleak |  
+| bip_39_word_underscore_6 | develop_ready_ramp_emerge_bleak_traffic |  
+| bip_39_word_underscore_7 | develop_ready_ramp_emerge_bleak_traffic_armor |  
+| bip_39_word_underscore_8 | develop_ready_ramp_emerge_bleak_traffic_armor_north |  
+| bip_39_word_underscore_9 | develop_ready_ramp_emerge_bleak_traffic_armor_north_stuff |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

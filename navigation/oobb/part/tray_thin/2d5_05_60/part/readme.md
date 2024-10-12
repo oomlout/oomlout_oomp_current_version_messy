@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frost |  
+| bip_39_word_dash_10 | frost-extend-come-drop-rice-pyramid-jar-float-decade-twenty |  
+| bip_39_word_dash_11 | frost-extend-come-drop-rice-pyramid-jar-float-decade-twenty-drift |  
+| bip_39_word_dash_12 | frost-extend-come-drop-rice-pyramid-jar-float-decade-twenty-drift-arrow |  
+| bip_39_word_dash_2 | frost-extend |  
+| bip_39_word_dash_3 | frost-extend-come |  
+| bip_39_word_dash_4 | frost-extend-come-drop |  
+| bip_39_word_dash_5 | frost-extend-come-drop-rice |  
+| bip_39_word_dash_6 | frost-extend-come-drop-rice-pyramid |  
+| bip_39_word_dash_7 | frost-extend-come-drop-rice-pyramid-jar |  
+| bip_39_word_dash_8 | frost-extend-come-drop-rice-pyramid-jar-float |  
+| bip_39_word_dash_9 | frost-extend-come-drop-rice-pyramid-jar-float-decade |  
 | bip_39_word_new_br_1 | frost |  
 | bip_39_word_new_br_10 | frost<br>extend<br>come<br>drop<br>rice<br>pyramid<br>jar<br>float<br>decade<br>twenty |  
 | bip_39_word_new_br_11 | frost<br>extend<br>come<br>drop<br>rice<br>pyramid<br>jar<br>float<br>decade<br>twenty<br>drift |  
@@ -147,6 +159,18 @@ decade |
 | bip_39_word_space_7 | frost extend come drop rice pyramid jar |  
 | bip_39_word_space_8 | frost extend come drop rice pyramid jar float |  
 | bip_39_word_space_9 | frost extend come drop rice pyramid jar float decade |  
+| bip_39_word_underscore_1 | frost |  
+| bip_39_word_underscore_10 | frost_extend_come_drop_rice_pyramid_jar_float_decade_twenty |  
+| bip_39_word_underscore_11 | frost_extend_come_drop_rice_pyramid_jar_float_decade_twenty_drift |  
+| bip_39_word_underscore_12 | frost_extend_come_drop_rice_pyramid_jar_float_decade_twenty_drift_arrow |  
+| bip_39_word_underscore_2 | frost_extend |  
+| bip_39_word_underscore_3 | frost_extend_come |  
+| bip_39_word_underscore_4 | frost_extend_come_drop |  
+| bip_39_word_underscore_5 | frost_extend_come_drop_rice |  
+| bip_39_word_underscore_6 | frost_extend_come_drop_rice_pyramid |  
+| bip_39_word_underscore_7 | frost_extend_come_drop_rice_pyramid_jar |  
+| bip_39_word_underscore_8 | frost_extend_come_drop_rice_pyramid_jar_float |  
+| bip_39_word_underscore_9 | frost_extend_come_drop_rice_pyramid_jar_float_decade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

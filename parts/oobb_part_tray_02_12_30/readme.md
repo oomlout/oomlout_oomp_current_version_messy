@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | popular |  
+| bip_39_word_dash_10 | popular-letter-above-found-wise-trouble-tackle-any-hurt-naive |  
+| bip_39_word_dash_11 | popular-letter-above-found-wise-trouble-tackle-any-hurt-naive-lake |  
+| bip_39_word_dash_12 | popular-letter-above-found-wise-trouble-tackle-any-hurt-naive-lake-alert |  
+| bip_39_word_dash_2 | popular-letter |  
+| bip_39_word_dash_3 | popular-letter-above |  
+| bip_39_word_dash_4 | popular-letter-above-found |  
+| bip_39_word_dash_5 | popular-letter-above-found-wise |  
+| bip_39_word_dash_6 | popular-letter-above-found-wise-trouble |  
+| bip_39_word_dash_7 | popular-letter-above-found-wise-trouble-tackle |  
+| bip_39_word_dash_8 | popular-letter-above-found-wise-trouble-tackle-any |  
+| bip_39_word_dash_9 | popular-letter-above-found-wise-trouble-tackle-any-hurt |  
 | bip_39_word_new_br_1 | popular |  
 | bip_39_word_new_br_10 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any<br>hurt<br>naive |  
 | bip_39_word_new_br_11 | popular<br>letter<br>above<br>found<br>wise<br>trouble<br>tackle<br>any<br>hurt<br>naive<br>lake |  
@@ -147,6 +159,18 @@ hurt |
 | bip_39_word_space_7 | popular letter above found wise trouble tackle |  
 | bip_39_word_space_8 | popular letter above found wise trouble tackle any |  
 | bip_39_word_space_9 | popular letter above found wise trouble tackle any hurt |  
+| bip_39_word_underscore_1 | popular |  
+| bip_39_word_underscore_10 | popular_letter_above_found_wise_trouble_tackle_any_hurt_naive |  
+| bip_39_word_underscore_11 | popular_letter_above_found_wise_trouble_tackle_any_hurt_naive_lake |  
+| bip_39_word_underscore_12 | popular_letter_above_found_wise_trouble_tackle_any_hurt_naive_lake_alert |  
+| bip_39_word_underscore_2 | popular_letter |  
+| bip_39_word_underscore_3 | popular_letter_above |  
+| bip_39_word_underscore_4 | popular_letter_above_found |  
+| bip_39_word_underscore_5 | popular_letter_above_found_wise |  
+| bip_39_word_underscore_6 | popular_letter_above_found_wise_trouble |  
+| bip_39_word_underscore_7 | popular_letter_above_found_wise_trouble_tackle |  
+| bip_39_word_underscore_8 | popular_letter_above_found_wise_trouble_tackle_any |  
+| bip_39_word_underscore_9 | popular_letter_above_found_wise_trouble_tackle_any_hurt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

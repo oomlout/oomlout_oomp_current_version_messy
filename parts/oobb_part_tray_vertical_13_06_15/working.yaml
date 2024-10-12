@@ -1,3 +1,15 @@
+bip_39_word_dash_1: system
+bip_39_word_dash_10: system-sample-below-hurt-vanish-truck-sand-duty-motor-law
+bip_39_word_dash_11: system-sample-below-hurt-vanish-truck-sand-duty-motor-law-country
+bip_39_word_dash_12: system-sample-below-hurt-vanish-truck-sand-duty-motor-law-country-assume
+bip_39_word_dash_2: system-sample
+bip_39_word_dash_3: system-sample-below
+bip_39_word_dash_4: system-sample-below-hurt
+bip_39_word_dash_5: system-sample-below-hurt-vanish
+bip_39_word_dash_6: system-sample-below-hurt-vanish-truck
+bip_39_word_dash_7: system-sample-below-hurt-vanish-truck-sand
+bip_39_word_dash_8: system-sample-below-hurt-vanish-truck-sand-duty
+bip_39_word_dash_9: system-sample-below-hurt-vanish-truck-sand-duty-motor
 bip_39_word_new_br_1: system
 bip_39_word_new_br_10: system<br>sample<br>below<br>hurt<br>vanish<br>truck<br>sand<br>duty<br>motor<br>law
 bip_39_word_new_br_11: system<br>sample<br>below<br>hurt<br>vanish<br>truck<br>sand<br>duty<br>motor<br>law<br>country
@@ -192,6 +204,18 @@ bip_39_word_space_6: system sample below hurt vanish truck
 bip_39_word_space_7: system sample below hurt vanish truck sand
 bip_39_word_space_8: system sample below hurt vanish truck sand duty
 bip_39_word_space_9: system sample below hurt vanish truck sand duty motor
+bip_39_word_underscore_1: system
+bip_39_word_underscore_10: system_sample_below_hurt_vanish_truck_sand_duty_motor_law
+bip_39_word_underscore_11: system_sample_below_hurt_vanish_truck_sand_duty_motor_law_country
+bip_39_word_underscore_12: system_sample_below_hurt_vanish_truck_sand_duty_motor_law_country_assume
+bip_39_word_underscore_2: system_sample
+bip_39_word_underscore_3: system_sample_below
+bip_39_word_underscore_4: system_sample_below_hurt
+bip_39_word_underscore_5: system_sample_below_hurt_vanish
+bip_39_word_underscore_6: system_sample_below_hurt_vanish_truck
+bip_39_word_underscore_7: system_sample_below_hurt_vanish_truck_sand
+bip_39_word_underscore_8: system_sample_below_hurt_vanish_truck_sand_duty
+bip_39_word_underscore_9: system_sample_below_hurt_vanish_truck_sand_duty_motor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

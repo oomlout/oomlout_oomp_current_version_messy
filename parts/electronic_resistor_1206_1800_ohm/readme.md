@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | false |  
+| bip_39_word_dash_10 | false-endless-setup-put-theme-fabric-cabbage-repair-boat-modify |  
+| bip_39_word_dash_11 | false-endless-setup-put-theme-fabric-cabbage-repair-boat-modify-change |  
+| bip_39_word_dash_12 | false-endless-setup-put-theme-fabric-cabbage-repair-boat-modify-change-afford |  
+| bip_39_word_dash_2 | false-endless |  
+| bip_39_word_dash_3 | false-endless-setup |  
+| bip_39_word_dash_4 | false-endless-setup-put |  
+| bip_39_word_dash_5 | false-endless-setup-put-theme |  
+| bip_39_word_dash_6 | false-endless-setup-put-theme-fabric |  
+| bip_39_word_dash_7 | false-endless-setup-put-theme-fabric-cabbage |  
+| bip_39_word_dash_8 | false-endless-setup-put-theme-fabric-cabbage-repair |  
+| bip_39_word_dash_9 | false-endless-setup-put-theme-fabric-cabbage-repair-boat |  
 | bip_39_word_new_br_1 | false |  
 | bip_39_word_new_br_10 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair<br>boat<br>modify |  
 | bip_39_word_new_br_11 | false<br>endless<br>setup<br>put<br>theme<br>fabric<br>cabbage<br>repair<br>boat<br>modify<br>change |  
@@ -147,6 +159,18 @@ boat |
 | bip_39_word_space_7 | false endless setup put theme fabric cabbage |  
 | bip_39_word_space_8 | false endless setup put theme fabric cabbage repair |  
 | bip_39_word_space_9 | false endless setup put theme fabric cabbage repair boat |  
+| bip_39_word_underscore_1 | false |  
+| bip_39_word_underscore_10 | false_endless_setup_put_theme_fabric_cabbage_repair_boat_modify |  
+| bip_39_word_underscore_11 | false_endless_setup_put_theme_fabric_cabbage_repair_boat_modify_change |  
+| bip_39_word_underscore_12 | false_endless_setup_put_theme_fabric_cabbage_repair_boat_modify_change_afford |  
+| bip_39_word_underscore_2 | false_endless |  
+| bip_39_word_underscore_3 | false_endless_setup |  
+| bip_39_word_underscore_4 | false_endless_setup_put |  
+| bip_39_word_underscore_5 | false_endless_setup_put_theme |  
+| bip_39_word_underscore_6 | false_endless_setup_put_theme_fabric |  
+| bip_39_word_underscore_7 | false_endless_setup_put_theme_fabric_cabbage |  
+| bip_39_word_underscore_8 | false_endless_setup_put_theme_fabric_cabbage_repair |  
+| bip_39_word_underscore_9 | false_endless_setup_put_theme_fabric_cabbage_repair_boat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | digital |  
+| bip_39_word_dash_10 | digital-reject-swim-little-kingdom-nest-fame-veteran-involve-river |  
+| bip_39_word_dash_11 | digital-reject-swim-little-kingdom-nest-fame-veteran-involve-river-emotion |  
+| bip_39_word_dash_12 | digital-reject-swim-little-kingdom-nest-fame-veteran-involve-river-emotion-alert |  
+| bip_39_word_dash_2 | digital-reject |  
+| bip_39_word_dash_3 | digital-reject-swim |  
+| bip_39_word_dash_4 | digital-reject-swim-little |  
+| bip_39_word_dash_5 | digital-reject-swim-little-kingdom |  
+| bip_39_word_dash_6 | digital-reject-swim-little-kingdom-nest |  
+| bip_39_word_dash_7 | digital-reject-swim-little-kingdom-nest-fame |  
+| bip_39_word_dash_8 | digital-reject-swim-little-kingdom-nest-fame-veteran |  
+| bip_39_word_dash_9 | digital-reject-swim-little-kingdom-nest-fame-veteran-involve |  
 | bip_39_word_new_br_1 | digital |  
 | bip_39_word_new_br_10 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran<br>involve<br>river |  
 | bip_39_word_new_br_11 | digital<br>reject<br>swim<br>little<br>kingdom<br>nest<br>fame<br>veteran<br>involve<br>river<br>emotion |  
@@ -147,6 +159,18 @@ involve |
 | bip_39_word_space_7 | digital reject swim little kingdom nest fame |  
 | bip_39_word_space_8 | digital reject swim little kingdom nest fame veteran |  
 | bip_39_word_space_9 | digital reject swim little kingdom nest fame veteran involve |  
+| bip_39_word_underscore_1 | digital |  
+| bip_39_word_underscore_10 | digital_reject_swim_little_kingdom_nest_fame_veteran_involve_river |  
+| bip_39_word_underscore_11 | digital_reject_swim_little_kingdom_nest_fame_veteran_involve_river_emotion |  
+| bip_39_word_underscore_12 | digital_reject_swim_little_kingdom_nest_fame_veteran_involve_river_emotion_alert |  
+| bip_39_word_underscore_2 | digital_reject |  
+| bip_39_word_underscore_3 | digital_reject_swim |  
+| bip_39_word_underscore_4 | digital_reject_swim_little |  
+| bip_39_word_underscore_5 | digital_reject_swim_little_kingdom |  
+| bip_39_word_underscore_6 | digital_reject_swim_little_kingdom_nest |  
+| bip_39_word_underscore_7 | digital_reject_swim_little_kingdom_nest_fame |  
+| bip_39_word_underscore_8 | digital_reject_swim_little_kingdom_nest_fame_veteran |  
+| bip_39_word_underscore_9 | digital_reject_swim_little_kingdom_nest_fame_veteran_involve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

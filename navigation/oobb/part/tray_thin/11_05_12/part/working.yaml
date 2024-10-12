@@ -1,3 +1,15 @@
+bip_39_word_dash_1: path
+bip_39_word_dash_10: path-vote-truly-thank-sight-add-episode-device-version-squirrel
+bip_39_word_dash_11: path-vote-truly-thank-sight-add-episode-device-version-squirrel-ramp
+bip_39_word_dash_12: path-vote-truly-thank-sight-add-episode-device-version-squirrel-ramp-amount
+bip_39_word_dash_2: path-vote
+bip_39_word_dash_3: path-vote-truly
+bip_39_word_dash_4: path-vote-truly-thank
+bip_39_word_dash_5: path-vote-truly-thank-sight
+bip_39_word_dash_6: path-vote-truly-thank-sight-add
+bip_39_word_dash_7: path-vote-truly-thank-sight-add-episode
+bip_39_word_dash_8: path-vote-truly-thank-sight-add-episode-device
+bip_39_word_dash_9: path-vote-truly-thank-sight-add-episode-device-version
 bip_39_word_new_br_1: path
 bip_39_word_new_br_10: path<br>vote<br>truly<br>thank<br>sight<br>add<br>episode<br>device<br>version<br>squirrel
 bip_39_word_new_br_11: path<br>vote<br>truly<br>thank<br>sight<br>add<br>episode<br>device<br>version<br>squirrel<br>ramp
@@ -193,6 +205,18 @@ bip_39_word_space_6: path vote truly thank sight add
 bip_39_word_space_7: path vote truly thank sight add episode
 bip_39_word_space_8: path vote truly thank sight add episode device
 bip_39_word_space_9: path vote truly thank sight add episode device version
+bip_39_word_underscore_1: path
+bip_39_word_underscore_10: path_vote_truly_thank_sight_add_episode_device_version_squirrel
+bip_39_word_underscore_11: path_vote_truly_thank_sight_add_episode_device_version_squirrel_ramp
+bip_39_word_underscore_12: path_vote_truly_thank_sight_add_episode_device_version_squirrel_ramp_amount
+bip_39_word_underscore_2: path_vote
+bip_39_word_underscore_3: path_vote_truly
+bip_39_word_underscore_4: path_vote_truly_thank
+bip_39_word_underscore_5: path_vote_truly_thank_sight
+bip_39_word_underscore_6: path_vote_truly_thank_sight_add
+bip_39_word_underscore_7: path_vote_truly_thank_sight_add_episode
+bip_39_word_underscore_8: path_vote_truly_thank_sight_add_episode_device
+bip_39_word_underscore_9: path_vote_truly_thank_sight_add_episode_device_version
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

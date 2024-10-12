@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cactus
+bip_39_word_dash_10: cactus-tone-finger-drill-vacant-vote-paddle-fault-govern-search
+bip_39_word_dash_11: cactus-tone-finger-drill-vacant-vote-paddle-fault-govern-search-network
+bip_39_word_dash_12: cactus-tone-finger-drill-vacant-vote-paddle-fault-govern-search-network-animal
+bip_39_word_dash_2: cactus-tone
+bip_39_word_dash_3: cactus-tone-finger
+bip_39_word_dash_4: cactus-tone-finger-drill
+bip_39_word_dash_5: cactus-tone-finger-drill-vacant
+bip_39_word_dash_6: cactus-tone-finger-drill-vacant-vote
+bip_39_word_dash_7: cactus-tone-finger-drill-vacant-vote-paddle
+bip_39_word_dash_8: cactus-tone-finger-drill-vacant-vote-paddle-fault
+bip_39_word_dash_9: cactus-tone-finger-drill-vacant-vote-paddle-fault-govern
 bip_39_word_new_br_1: cactus
 bip_39_word_new_br_10: cactus<br>tone<br>finger<br>drill<br>vacant<br>vote<br>paddle<br>fault<br>govern<br>search
 bip_39_word_new_br_11: cactus<br>tone<br>finger<br>drill<br>vacant<br>vote<br>paddle<br>fault<br>govern<br>search<br>network
@@ -193,6 +205,18 @@ bip_39_word_space_6: cactus tone finger drill vacant vote
 bip_39_word_space_7: cactus tone finger drill vacant vote paddle
 bip_39_word_space_8: cactus tone finger drill vacant vote paddle fault
 bip_39_word_space_9: cactus tone finger drill vacant vote paddle fault govern
+bip_39_word_underscore_1: cactus
+bip_39_word_underscore_10: cactus_tone_finger_drill_vacant_vote_paddle_fault_govern_search
+bip_39_word_underscore_11: cactus_tone_finger_drill_vacant_vote_paddle_fault_govern_search_network
+bip_39_word_underscore_12: cactus_tone_finger_drill_vacant_vote_paddle_fault_govern_search_network_animal
+bip_39_word_underscore_2: cactus_tone
+bip_39_word_underscore_3: cactus_tone_finger
+bip_39_word_underscore_4: cactus_tone_finger_drill
+bip_39_word_underscore_5: cactus_tone_finger_drill_vacant
+bip_39_word_underscore_6: cactus_tone_finger_drill_vacant_vote
+bip_39_word_underscore_7: cactus_tone_finger_drill_vacant_vote_paddle
+bip_39_word_underscore_8: cactus_tone_finger_drill_vacant_vote_paddle_fault
+bip_39_word_underscore_9: cactus_tone_finger_drill_vacant_vote_paddle_fault_govern
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

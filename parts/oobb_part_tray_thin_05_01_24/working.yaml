@@ -1,3 +1,15 @@
+bip_39_word_dash_1: asthma
+bip_39_word_dash_10: asthma-vendor-oil-inhale-bind-horn-rail-useless-proof-derive
+bip_39_word_dash_11: asthma-vendor-oil-inhale-bind-horn-rail-useless-proof-derive-toe
+bip_39_word_dash_12: asthma-vendor-oil-inhale-bind-horn-rail-useless-proof-derive-toe-about
+bip_39_word_dash_2: asthma-vendor
+bip_39_word_dash_3: asthma-vendor-oil
+bip_39_word_dash_4: asthma-vendor-oil-inhale
+bip_39_word_dash_5: asthma-vendor-oil-inhale-bind
+bip_39_word_dash_6: asthma-vendor-oil-inhale-bind-horn
+bip_39_word_dash_7: asthma-vendor-oil-inhale-bind-horn-rail
+bip_39_word_dash_8: asthma-vendor-oil-inhale-bind-horn-rail-useless
+bip_39_word_dash_9: asthma-vendor-oil-inhale-bind-horn-rail-useless-proof
 bip_39_word_new_br_1: asthma
 bip_39_word_new_br_10: asthma<br>vendor<br>oil<br>inhale<br>bind<br>horn<br>rail<br>useless<br>proof<br>derive
 bip_39_word_new_br_11: asthma<br>vendor<br>oil<br>inhale<br>bind<br>horn<br>rail<br>useless<br>proof<br>derive<br>toe
@@ -193,6 +205,18 @@ bip_39_word_space_6: asthma vendor oil inhale bind horn
 bip_39_word_space_7: asthma vendor oil inhale bind horn rail
 bip_39_word_space_8: asthma vendor oil inhale bind horn rail useless
 bip_39_word_space_9: asthma vendor oil inhale bind horn rail useless proof
+bip_39_word_underscore_1: asthma
+bip_39_word_underscore_10: asthma_vendor_oil_inhale_bind_horn_rail_useless_proof_derive
+bip_39_word_underscore_11: asthma_vendor_oil_inhale_bind_horn_rail_useless_proof_derive_toe
+bip_39_word_underscore_12: asthma_vendor_oil_inhale_bind_horn_rail_useless_proof_derive_toe_about
+bip_39_word_underscore_2: asthma_vendor
+bip_39_word_underscore_3: asthma_vendor_oil
+bip_39_word_underscore_4: asthma_vendor_oil_inhale
+bip_39_word_underscore_5: asthma_vendor_oil_inhale_bind
+bip_39_word_underscore_6: asthma_vendor_oil_inhale_bind_horn
+bip_39_word_underscore_7: asthma_vendor_oil_inhale_bind_horn_rail
+bip_39_word_underscore_8: asthma_vendor_oil_inhale_bind_horn_rail_useless
+bip_39_word_underscore_9: asthma_vendor_oil_inhale_bind_horn_rail_useless_proof
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

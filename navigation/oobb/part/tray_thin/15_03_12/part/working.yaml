@@ -1,3 +1,15 @@
+bip_39_word_dash_1: moon
+bip_39_word_dash_10: moon-mammal-problem-next-equip-shoulder-exhibit-refuse-mix-stable
+bip_39_word_dash_11: moon-mammal-problem-next-equip-shoulder-exhibit-refuse-mix-stable-uncle
+bip_39_word_dash_12: moon-mammal-problem-next-equip-shoulder-exhibit-refuse-mix-stable-uncle-animal
+bip_39_word_dash_2: moon-mammal
+bip_39_word_dash_3: moon-mammal-problem
+bip_39_word_dash_4: moon-mammal-problem-next
+bip_39_word_dash_5: moon-mammal-problem-next-equip
+bip_39_word_dash_6: moon-mammal-problem-next-equip-shoulder
+bip_39_word_dash_7: moon-mammal-problem-next-equip-shoulder-exhibit
+bip_39_word_dash_8: moon-mammal-problem-next-equip-shoulder-exhibit-refuse
+bip_39_word_dash_9: moon-mammal-problem-next-equip-shoulder-exhibit-refuse-mix
 bip_39_word_new_br_1: moon
 bip_39_word_new_br_10: moon<br>mammal<br>problem<br>next<br>equip<br>shoulder<br>exhibit<br>refuse<br>mix<br>stable
 bip_39_word_new_br_11: moon<br>mammal<br>problem<br>next<br>equip<br>shoulder<br>exhibit<br>refuse<br>mix<br>stable<br>uncle
@@ -193,6 +205,18 @@ bip_39_word_space_6: moon mammal problem next equip shoulder
 bip_39_word_space_7: moon mammal problem next equip shoulder exhibit
 bip_39_word_space_8: moon mammal problem next equip shoulder exhibit refuse
 bip_39_word_space_9: moon mammal problem next equip shoulder exhibit refuse mix
+bip_39_word_underscore_1: moon
+bip_39_word_underscore_10: moon_mammal_problem_next_equip_shoulder_exhibit_refuse_mix_stable
+bip_39_word_underscore_11: moon_mammal_problem_next_equip_shoulder_exhibit_refuse_mix_stable_uncle
+bip_39_word_underscore_12: moon_mammal_problem_next_equip_shoulder_exhibit_refuse_mix_stable_uncle_animal
+bip_39_word_underscore_2: moon_mammal
+bip_39_word_underscore_3: moon_mammal_problem
+bip_39_word_underscore_4: moon_mammal_problem_next
+bip_39_word_underscore_5: moon_mammal_problem_next_equip
+bip_39_word_underscore_6: moon_mammal_problem_next_equip_shoulder
+bip_39_word_underscore_7: moon_mammal_problem_next_equip_shoulder_exhibit
+bip_39_word_underscore_8: moon_mammal_problem_next_equip_shoulder_exhibit_refuse
+bip_39_word_underscore_9: moon_mammal_problem_next_equip_shoulder_exhibit_refuse_mix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

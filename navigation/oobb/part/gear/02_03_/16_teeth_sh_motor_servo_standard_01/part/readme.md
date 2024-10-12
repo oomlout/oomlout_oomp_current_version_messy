@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crystal |  
+| bip_39_word_dash_10 | crystal-live-brick-city-kingdom-always-genuine-retreat-obscure-scrap |  
+| bip_39_word_dash_11 | crystal-live-brick-city-kingdom-always-genuine-retreat-obscure-scrap-canvas |  
+| bip_39_word_dash_12 | crystal-live-brick-city-kingdom-always-genuine-retreat-obscure-scrap-canvas-angle |  
+| bip_39_word_dash_2 | crystal-live |  
+| bip_39_word_dash_3 | crystal-live-brick |  
+| bip_39_word_dash_4 | crystal-live-brick-city |  
+| bip_39_word_dash_5 | crystal-live-brick-city-kingdom |  
+| bip_39_word_dash_6 | crystal-live-brick-city-kingdom-always |  
+| bip_39_word_dash_7 | crystal-live-brick-city-kingdom-always-genuine |  
+| bip_39_word_dash_8 | crystal-live-brick-city-kingdom-always-genuine-retreat |  
+| bip_39_word_dash_9 | crystal-live-brick-city-kingdom-always-genuine-retreat-obscure |  
 | bip_39_word_new_br_1 | crystal |  
 | bip_39_word_new_br_10 | crystal<br>live<br>brick<br>city<br>kingdom<br>always<br>genuine<br>retreat<br>obscure<br>scrap |  
 | bip_39_word_new_br_11 | crystal<br>live<br>brick<br>city<br>kingdom<br>always<br>genuine<br>retreat<br>obscure<br>scrap<br>canvas |  
@@ -147,6 +159,18 @@ obscure |
 | bip_39_word_space_7 | crystal live brick city kingdom always genuine |  
 | bip_39_word_space_8 | crystal live brick city kingdom always genuine retreat |  
 | bip_39_word_space_9 | crystal live brick city kingdom always genuine retreat obscure |  
+| bip_39_word_underscore_1 | crystal |  
+| bip_39_word_underscore_10 | crystal_live_brick_city_kingdom_always_genuine_retreat_obscure_scrap |  
+| bip_39_word_underscore_11 | crystal_live_brick_city_kingdom_always_genuine_retreat_obscure_scrap_canvas |  
+| bip_39_word_underscore_12 | crystal_live_brick_city_kingdom_always_genuine_retreat_obscure_scrap_canvas_angle |  
+| bip_39_word_underscore_2 | crystal_live |  
+| bip_39_word_underscore_3 | crystal_live_brick |  
+| bip_39_word_underscore_4 | crystal_live_brick_city |  
+| bip_39_word_underscore_5 | crystal_live_brick_city_kingdom |  
+| bip_39_word_underscore_6 | crystal_live_brick_city_kingdom_always |  
+| bip_39_word_underscore_7 | crystal_live_brick_city_kingdom_always_genuine |  
+| bip_39_word_underscore_8 | crystal_live_brick_city_kingdom_always_genuine_retreat |  
+| bip_39_word_underscore_9 | crystal_live_brick_city_kingdom_always_genuine_retreat_obscure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

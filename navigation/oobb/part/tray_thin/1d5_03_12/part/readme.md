@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lazy |  
+| bip_39_word_dash_10 | lazy-hospital-copper-session-raccoon-inquiry-impact-village-quiz-shock |  
+| bip_39_word_dash_11 | lazy-hospital-copper-session-raccoon-inquiry-impact-village-quiz-shock-frog |  
+| bip_39_word_dash_12 | lazy-hospital-copper-session-raccoon-inquiry-impact-village-quiz-shock-frog-anger |  
+| bip_39_word_dash_2 | lazy-hospital |  
+| bip_39_word_dash_3 | lazy-hospital-copper |  
+| bip_39_word_dash_4 | lazy-hospital-copper-session |  
+| bip_39_word_dash_5 | lazy-hospital-copper-session-raccoon |  
+| bip_39_word_dash_6 | lazy-hospital-copper-session-raccoon-inquiry |  
+| bip_39_word_dash_7 | lazy-hospital-copper-session-raccoon-inquiry-impact |  
+| bip_39_word_dash_8 | lazy-hospital-copper-session-raccoon-inquiry-impact-village |  
+| bip_39_word_dash_9 | lazy-hospital-copper-session-raccoon-inquiry-impact-village-quiz |  
 | bip_39_word_new_br_1 | lazy |  
 | bip_39_word_new_br_10 | lazy<br>hospital<br>copper<br>session<br>raccoon<br>inquiry<br>impact<br>village<br>quiz<br>shock |  
 | bip_39_word_new_br_11 | lazy<br>hospital<br>copper<br>session<br>raccoon<br>inquiry<br>impact<br>village<br>quiz<br>shock<br>frog |  
@@ -147,6 +159,18 @@ quiz |
 | bip_39_word_space_7 | lazy hospital copper session raccoon inquiry impact |  
 | bip_39_word_space_8 | lazy hospital copper session raccoon inquiry impact village |  
 | bip_39_word_space_9 | lazy hospital copper session raccoon inquiry impact village quiz |  
+| bip_39_word_underscore_1 | lazy |  
+| bip_39_word_underscore_10 | lazy_hospital_copper_session_raccoon_inquiry_impact_village_quiz_shock |  
+| bip_39_word_underscore_11 | lazy_hospital_copper_session_raccoon_inquiry_impact_village_quiz_shock_frog |  
+| bip_39_word_underscore_12 | lazy_hospital_copper_session_raccoon_inquiry_impact_village_quiz_shock_frog_anger |  
+| bip_39_word_underscore_2 | lazy_hospital |  
+| bip_39_word_underscore_3 | lazy_hospital_copper |  
+| bip_39_word_underscore_4 | lazy_hospital_copper_session |  
+| bip_39_word_underscore_5 | lazy_hospital_copper_session_raccoon |  
+| bip_39_word_underscore_6 | lazy_hospital_copper_session_raccoon_inquiry |  
+| bip_39_word_underscore_7 | lazy_hospital_copper_session_raccoon_inquiry_impact |  
+| bip_39_word_underscore_8 | lazy_hospital_copper_session_raccoon_inquiry_impact_village |  
+| bip_39_word_underscore_9 | lazy_hospital_copper_session_raccoon_inquiry_impact_village_quiz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

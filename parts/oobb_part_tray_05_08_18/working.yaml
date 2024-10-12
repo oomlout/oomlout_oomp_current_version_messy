@@ -1,3 +1,15 @@
+bip_39_word_dash_1: average
+bip_39_word_dash_10: average-typical-uphold-slice-affair-resemble-spend-gas-illness-retreat
+bip_39_word_dash_11: average-typical-uphold-slice-affair-resemble-spend-gas-illness-retreat-maple
+bip_39_word_dash_12: average-typical-uphold-slice-affair-resemble-spend-gas-illness-retreat-maple-amount
+bip_39_word_dash_2: average-typical
+bip_39_word_dash_3: average-typical-uphold
+bip_39_word_dash_4: average-typical-uphold-slice
+bip_39_word_dash_5: average-typical-uphold-slice-affair
+bip_39_word_dash_6: average-typical-uphold-slice-affair-resemble
+bip_39_word_dash_7: average-typical-uphold-slice-affair-resemble-spend
+bip_39_word_dash_8: average-typical-uphold-slice-affair-resemble-spend-gas
+bip_39_word_dash_9: average-typical-uphold-slice-affair-resemble-spend-gas-illness
 bip_39_word_new_br_1: average
 bip_39_word_new_br_10: average<br>typical<br>uphold<br>slice<br>affair<br>resemble<br>spend<br>gas<br>illness<br>retreat
 bip_39_word_new_br_11: average<br>typical<br>uphold<br>slice<br>affair<br>resemble<br>spend<br>gas<br>illness<br>retreat<br>maple
@@ -194,6 +206,18 @@ bip_39_word_space_6: average typical uphold slice affair resemble
 bip_39_word_space_7: average typical uphold slice affair resemble spend
 bip_39_word_space_8: average typical uphold slice affair resemble spend gas
 bip_39_word_space_9: average typical uphold slice affair resemble spend gas illness
+bip_39_word_underscore_1: average
+bip_39_word_underscore_10: average_typical_uphold_slice_affair_resemble_spend_gas_illness_retreat
+bip_39_word_underscore_11: average_typical_uphold_slice_affair_resemble_spend_gas_illness_retreat_maple
+bip_39_word_underscore_12: average_typical_uphold_slice_affair_resemble_spend_gas_illness_retreat_maple_amount
+bip_39_word_underscore_2: average_typical
+bip_39_word_underscore_3: average_typical_uphold
+bip_39_word_underscore_4: average_typical_uphold_slice
+bip_39_word_underscore_5: average_typical_uphold_slice_affair
+bip_39_word_underscore_6: average_typical_uphold_slice_affair_resemble
+bip_39_word_underscore_7: average_typical_uphold_slice_affair_resemble_spend
+bip_39_word_underscore_8: average_typical_uphold_slice_affair_resemble_spend_gas
+bip_39_word_underscore_9: average_typical_uphold_slice_affair_resemble_spend_gas_illness
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

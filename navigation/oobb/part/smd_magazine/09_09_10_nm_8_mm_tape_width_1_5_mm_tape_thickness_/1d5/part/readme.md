@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hamster |  
+| bip_39_word_dash_10 | hamster-either-uncover-shy-awkward-turtle-pony-refuse-embody-exhaust |  
+| bip_39_word_dash_11 | hamster-either-uncover-shy-awkward-turtle-pony-refuse-embody-exhaust-agree |  
+| bip_39_word_dash_12 | hamster-either-uncover-shy-awkward-turtle-pony-refuse-embody-exhaust-agree-almost |  
+| bip_39_word_dash_2 | hamster-either |  
+| bip_39_word_dash_3 | hamster-either-uncover |  
+| bip_39_word_dash_4 | hamster-either-uncover-shy |  
+| bip_39_word_dash_5 | hamster-either-uncover-shy-awkward |  
+| bip_39_word_dash_6 | hamster-either-uncover-shy-awkward-turtle |  
+| bip_39_word_dash_7 | hamster-either-uncover-shy-awkward-turtle-pony |  
+| bip_39_word_dash_8 | hamster-either-uncover-shy-awkward-turtle-pony-refuse |  
+| bip_39_word_dash_9 | hamster-either-uncover-shy-awkward-turtle-pony-refuse-embody |  
 | bip_39_word_new_br_1 | hamster |  
 | bip_39_word_new_br_10 | hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust |  
 | bip_39_word_new_br_11 | hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust<br>agree |  
@@ -147,6 +159,18 @@ embody |
 | bip_39_word_space_7 | hamster either uncover shy awkward turtle pony |  
 | bip_39_word_space_8 | hamster either uncover shy awkward turtle pony refuse |  
 | bip_39_word_space_9 | hamster either uncover shy awkward turtle pony refuse embody |  
+| bip_39_word_underscore_1 | hamster |  
+| bip_39_word_underscore_10 | hamster_either_uncover_shy_awkward_turtle_pony_refuse_embody_exhaust |  
+| bip_39_word_underscore_11 | hamster_either_uncover_shy_awkward_turtle_pony_refuse_embody_exhaust_agree |  
+| bip_39_word_underscore_12 | hamster_either_uncover_shy_awkward_turtle_pony_refuse_embody_exhaust_agree_almost |  
+| bip_39_word_underscore_2 | hamster_either |  
+| bip_39_word_underscore_3 | hamster_either_uncover |  
+| bip_39_word_underscore_4 | hamster_either_uncover_shy |  
+| bip_39_word_underscore_5 | hamster_either_uncover_shy_awkward |  
+| bip_39_word_underscore_6 | hamster_either_uncover_shy_awkward_turtle |  
+| bip_39_word_underscore_7 | hamster_either_uncover_shy_awkward_turtle_pony |  
+| bip_39_word_underscore_8 | hamster_either_uncover_shy_awkward_turtle_pony_refuse |  
+| bip_39_word_underscore_9 | hamster_either_uncover_shy_awkward_turtle_pony_refuse_embody |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

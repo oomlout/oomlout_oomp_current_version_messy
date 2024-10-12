@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | feed |  
+| bip_39_word_dash_10 | feed-rhythm-peanut-fever-teach-glare-argue-filter-buffalo-trouble |  
+| bip_39_word_dash_11 | feed-rhythm-peanut-fever-teach-glare-argue-filter-buffalo-trouble-innocent |  
+| bip_39_word_dash_12 | feed-rhythm-peanut-fever-teach-glare-argue-filter-buffalo-trouble-innocent-again |  
+| bip_39_word_dash_2 | feed-rhythm |  
+| bip_39_word_dash_3 | feed-rhythm-peanut |  
+| bip_39_word_dash_4 | feed-rhythm-peanut-fever |  
+| bip_39_word_dash_5 | feed-rhythm-peanut-fever-teach |  
+| bip_39_word_dash_6 | feed-rhythm-peanut-fever-teach-glare |  
+| bip_39_word_dash_7 | feed-rhythm-peanut-fever-teach-glare-argue |  
+| bip_39_word_dash_8 | feed-rhythm-peanut-fever-teach-glare-argue-filter |  
+| bip_39_word_dash_9 | feed-rhythm-peanut-fever-teach-glare-argue-filter-buffalo |  
 | bip_39_word_new_br_1 | feed |  
 | bip_39_word_new_br_10 | feed<br>rhythm<br>peanut<br>fever<br>teach<br>glare<br>argue<br>filter<br>buffalo<br>trouble |  
 | bip_39_word_new_br_11 | feed<br>rhythm<br>peanut<br>fever<br>teach<br>glare<br>argue<br>filter<br>buffalo<br>trouble<br>innocent |  
@@ -147,6 +159,18 @@ buffalo |
 | bip_39_word_space_7 | feed rhythm peanut fever teach glare argue |  
 | bip_39_word_space_8 | feed rhythm peanut fever teach glare argue filter |  
 | bip_39_word_space_9 | feed rhythm peanut fever teach glare argue filter buffalo |  
+| bip_39_word_underscore_1 | feed |  
+| bip_39_word_underscore_10 | feed_rhythm_peanut_fever_teach_glare_argue_filter_buffalo_trouble |  
+| bip_39_word_underscore_11 | feed_rhythm_peanut_fever_teach_glare_argue_filter_buffalo_trouble_innocent |  
+| bip_39_word_underscore_12 | feed_rhythm_peanut_fever_teach_glare_argue_filter_buffalo_trouble_innocent_again |  
+| bip_39_word_underscore_2 | feed_rhythm |  
+| bip_39_word_underscore_3 | feed_rhythm_peanut |  
+| bip_39_word_underscore_4 | feed_rhythm_peanut_fever |  
+| bip_39_word_underscore_5 | feed_rhythm_peanut_fever_teach |  
+| bip_39_word_underscore_6 | feed_rhythm_peanut_fever_teach_glare |  
+| bip_39_word_underscore_7 | feed_rhythm_peanut_fever_teach_glare_argue |  
+| bip_39_word_underscore_8 | feed_rhythm_peanut_fever_teach_glare_argue_filter |  
+| bip_39_word_underscore_9 | feed_rhythm_peanut_fever_teach_glare_argue_filter_buffalo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: come
+bip_39_word_dash_10: come-yard-source-win-wreck-wire-cat-credit-ripple-model
+bip_39_word_dash_11: come-yard-source-win-wreck-wire-cat-credit-ripple-model-turn
+bip_39_word_dash_12: come-yard-source-win-wreck-wire-cat-credit-ripple-model-turn-again
+bip_39_word_dash_2: come-yard
+bip_39_word_dash_3: come-yard-source
+bip_39_word_dash_4: come-yard-source-win
+bip_39_word_dash_5: come-yard-source-win-wreck
+bip_39_word_dash_6: come-yard-source-win-wreck-wire
+bip_39_word_dash_7: come-yard-source-win-wreck-wire-cat
+bip_39_word_dash_8: come-yard-source-win-wreck-wire-cat-credit
+bip_39_word_dash_9: come-yard-source-win-wreck-wire-cat-credit-ripple
 bip_39_word_new_br_1: come
 bip_39_word_new_br_10: come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model
 bip_39_word_new_br_11: come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model<br>turn
@@ -192,6 +204,18 @@ bip_39_word_space_6: come yard source win wreck wire
 bip_39_word_space_7: come yard source win wreck wire cat
 bip_39_word_space_8: come yard source win wreck wire cat credit
 bip_39_word_space_9: come yard source win wreck wire cat credit ripple
+bip_39_word_underscore_1: come
+bip_39_word_underscore_10: come_yard_source_win_wreck_wire_cat_credit_ripple_model
+bip_39_word_underscore_11: come_yard_source_win_wreck_wire_cat_credit_ripple_model_turn
+bip_39_word_underscore_12: come_yard_source_win_wreck_wire_cat_credit_ripple_model_turn_again
+bip_39_word_underscore_2: come_yard
+bip_39_word_underscore_3: come_yard_source
+bip_39_word_underscore_4: come_yard_source_win
+bip_39_word_underscore_5: come_yard_source_win_wreck
+bip_39_word_underscore_6: come_yard_source_win_wreck_wire
+bip_39_word_underscore_7: come_yard_source_win_wreck_wire_cat
+bip_39_word_underscore_8: come_yard_source_win_wreck_wire_cat_credit
+bip_39_word_underscore_9: come_yard_source_win_wreck_wire_cat_credit_ripple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

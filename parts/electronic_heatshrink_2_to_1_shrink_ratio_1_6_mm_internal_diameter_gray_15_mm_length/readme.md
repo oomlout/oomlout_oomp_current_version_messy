@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | teach |  
+| bip_39_word_dash_10 | teach-memory-copper-know-unveil-scatter-wool-then-cheap-mean |  
+| bip_39_word_dash_11 | teach-memory-copper-know-unveil-scatter-wool-then-cheap-mean-obvious |  
+| bip_39_word_dash_12 | teach-memory-copper-know-unveil-scatter-wool-then-cheap-mean-obvious-account |  
+| bip_39_word_dash_2 | teach-memory |  
+| bip_39_word_dash_3 | teach-memory-copper |  
+| bip_39_word_dash_4 | teach-memory-copper-know |  
+| bip_39_word_dash_5 | teach-memory-copper-know-unveil |  
+| bip_39_word_dash_6 | teach-memory-copper-know-unveil-scatter |  
+| bip_39_word_dash_7 | teach-memory-copper-know-unveil-scatter-wool |  
+| bip_39_word_dash_8 | teach-memory-copper-know-unveil-scatter-wool-then |  
+| bip_39_word_dash_9 | teach-memory-copper-know-unveil-scatter-wool-then-cheap |  
 | bip_39_word_new_br_1 | teach |  
 | bip_39_word_new_br_10 | teach<br>memory<br>copper<br>know<br>unveil<br>scatter<br>wool<br>then<br>cheap<br>mean |  
 | bip_39_word_new_br_11 | teach<br>memory<br>copper<br>know<br>unveil<br>scatter<br>wool<br>then<br>cheap<br>mean<br>obvious |  
@@ -147,6 +159,18 @@ cheap |
 | bip_39_word_space_7 | teach memory copper know unveil scatter wool |  
 | bip_39_word_space_8 | teach memory copper know unveil scatter wool then |  
 | bip_39_word_space_9 | teach memory copper know unveil scatter wool then cheap |  
+| bip_39_word_underscore_1 | teach |  
+| bip_39_word_underscore_10 | teach_memory_copper_know_unveil_scatter_wool_then_cheap_mean |  
+| bip_39_word_underscore_11 | teach_memory_copper_know_unveil_scatter_wool_then_cheap_mean_obvious |  
+| bip_39_word_underscore_12 | teach_memory_copper_know_unveil_scatter_wool_then_cheap_mean_obvious_account |  
+| bip_39_word_underscore_2 | teach_memory |  
+| bip_39_word_underscore_3 | teach_memory_copper |  
+| bip_39_word_underscore_4 | teach_memory_copper_know |  
+| bip_39_word_underscore_5 | teach_memory_copper_know_unveil |  
+| bip_39_word_underscore_6 | teach_memory_copper_know_unveil_scatter |  
+| bip_39_word_underscore_7 | teach_memory_copper_know_unveil_scatter_wool |  
+| bip_39_word_underscore_8 | teach_memory_copper_know_unveil_scatter_wool_then |  
+| bip_39_word_underscore_9 | teach_memory_copper_know_unveil_scatter_wool_then_cheap |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

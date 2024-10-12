@@ -1,3 +1,15 @@
+bip_39_word_dash_1: antique
+bip_39_word_dash_10: antique-shallow-since-toy-rebuild-syrup-talent-winner-label-punch
+bip_39_word_dash_11: antique-shallow-since-toy-rebuild-syrup-talent-winner-label-punch-claw
+bip_39_word_dash_12: antique-shallow-since-toy-rebuild-syrup-talent-winner-label-punch-claw-angle
+bip_39_word_dash_2: antique-shallow
+bip_39_word_dash_3: antique-shallow-since
+bip_39_word_dash_4: antique-shallow-since-toy
+bip_39_word_dash_5: antique-shallow-since-toy-rebuild
+bip_39_word_dash_6: antique-shallow-since-toy-rebuild-syrup
+bip_39_word_dash_7: antique-shallow-since-toy-rebuild-syrup-talent
+bip_39_word_dash_8: antique-shallow-since-toy-rebuild-syrup-talent-winner
+bip_39_word_dash_9: antique-shallow-since-toy-rebuild-syrup-talent-winner-label
 bip_39_word_new_br_1: antique
 bip_39_word_new_br_10: antique<br>shallow<br>since<br>toy<br>rebuild<br>syrup<br>talent<br>winner<br>label<br>punch
 bip_39_word_new_br_11: antique<br>shallow<br>since<br>toy<br>rebuild<br>syrup<br>talent<br>winner<br>label<br>punch<br>claw
@@ -194,6 +206,18 @@ bip_39_word_space_6: antique shallow since toy rebuild syrup
 bip_39_word_space_7: antique shallow since toy rebuild syrup talent
 bip_39_word_space_8: antique shallow since toy rebuild syrup talent winner
 bip_39_word_space_9: antique shallow since toy rebuild syrup talent winner label
+bip_39_word_underscore_1: antique
+bip_39_word_underscore_10: antique_shallow_since_toy_rebuild_syrup_talent_winner_label_punch
+bip_39_word_underscore_11: antique_shallow_since_toy_rebuild_syrup_talent_winner_label_punch_claw
+bip_39_word_underscore_12: antique_shallow_since_toy_rebuild_syrup_talent_winner_label_punch_claw_angle
+bip_39_word_underscore_2: antique_shallow
+bip_39_word_underscore_3: antique_shallow_since
+bip_39_word_underscore_4: antique_shallow_since_toy
+bip_39_word_underscore_5: antique_shallow_since_toy_rebuild
+bip_39_word_underscore_6: antique_shallow_since_toy_rebuild_syrup
+bip_39_word_underscore_7: antique_shallow_since_toy_rebuild_syrup_talent
+bip_39_word_underscore_8: antique_shallow_since_toy_rebuild_syrup_talent_winner
+bip_39_word_underscore_9: antique_shallow_since_toy_rebuild_syrup_talent_winner_label
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

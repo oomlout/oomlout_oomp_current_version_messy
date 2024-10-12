@@ -1,3 +1,15 @@
+bip_39_word_dash_1: potato
+bip_39_word_dash_10: potato-draft-glory-spoon-toddler-benefit-boss-title-inmate-cliff
+bip_39_word_dash_11: potato-draft-glory-spoon-toddler-benefit-boss-title-inmate-cliff-setup
+bip_39_word_dash_12: potato-draft-glory-spoon-toddler-benefit-boss-title-inmate-cliff-setup-army
+bip_39_word_dash_2: potato-draft
+bip_39_word_dash_3: potato-draft-glory
+bip_39_word_dash_4: potato-draft-glory-spoon
+bip_39_word_dash_5: potato-draft-glory-spoon-toddler
+bip_39_word_dash_6: potato-draft-glory-spoon-toddler-benefit
+bip_39_word_dash_7: potato-draft-glory-spoon-toddler-benefit-boss
+bip_39_word_dash_8: potato-draft-glory-spoon-toddler-benefit-boss-title
+bip_39_word_dash_9: potato-draft-glory-spoon-toddler-benefit-boss-title-inmate
 bip_39_word_new_br_1: potato
 bip_39_word_new_br_10: potato<br>draft<br>glory<br>spoon<br>toddler<br>benefit<br>boss<br>title<br>inmate<br>cliff
 bip_39_word_new_br_11: potato<br>draft<br>glory<br>spoon<br>toddler<br>benefit<br>boss<br>title<br>inmate<br>cliff<br>setup
@@ -193,6 +205,18 @@ bip_39_word_space_6: potato draft glory spoon toddler benefit
 bip_39_word_space_7: potato draft glory spoon toddler benefit boss
 bip_39_word_space_8: potato draft glory spoon toddler benefit boss title
 bip_39_word_space_9: potato draft glory spoon toddler benefit boss title inmate
+bip_39_word_underscore_1: potato
+bip_39_word_underscore_10: potato_draft_glory_spoon_toddler_benefit_boss_title_inmate_cliff
+bip_39_word_underscore_11: potato_draft_glory_spoon_toddler_benefit_boss_title_inmate_cliff_setup
+bip_39_word_underscore_12: potato_draft_glory_spoon_toddler_benefit_boss_title_inmate_cliff_setup_army
+bip_39_word_underscore_2: potato_draft
+bip_39_word_underscore_3: potato_draft_glory
+bip_39_word_underscore_4: potato_draft_glory_spoon
+bip_39_word_underscore_5: potato_draft_glory_spoon_toddler
+bip_39_word_underscore_6: potato_draft_glory_spoon_toddler_benefit
+bip_39_word_underscore_7: potato_draft_glory_spoon_toddler_benefit_boss
+bip_39_word_underscore_8: potato_draft_glory_spoon_toddler_benefit_boss_title
+bip_39_word_underscore_9: potato_draft_glory_spoon_toddler_benefit_boss_title_inmate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

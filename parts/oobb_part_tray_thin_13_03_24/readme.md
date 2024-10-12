@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | photo |  
+| bip_39_word_dash_10 | photo-express-any-rally-jar-toward-perfect-bottom-draft-dove |  
+| bip_39_word_dash_11 | photo-express-any-rally-jar-toward-perfect-bottom-draft-dove-pond |  
+| bip_39_word_dash_12 | photo-express-any-rally-jar-toward-perfect-bottom-draft-dove-pond-author |  
+| bip_39_word_dash_2 | photo-express |  
+| bip_39_word_dash_3 | photo-express-any |  
+| bip_39_word_dash_4 | photo-express-any-rally |  
+| bip_39_word_dash_5 | photo-express-any-rally-jar |  
+| bip_39_word_dash_6 | photo-express-any-rally-jar-toward |  
+| bip_39_word_dash_7 | photo-express-any-rally-jar-toward-perfect |  
+| bip_39_word_dash_8 | photo-express-any-rally-jar-toward-perfect-bottom |  
+| bip_39_word_dash_9 | photo-express-any-rally-jar-toward-perfect-bottom-draft |  
 | bip_39_word_new_br_1 | photo |  
 | bip_39_word_new_br_10 | photo<br>express<br>any<br>rally<br>jar<br>toward<br>perfect<br>bottom<br>draft<br>dove |  
 | bip_39_word_new_br_11 | photo<br>express<br>any<br>rally<br>jar<br>toward<br>perfect<br>bottom<br>draft<br>dove<br>pond |  
@@ -147,6 +159,18 @@ draft |
 | bip_39_word_space_7 | photo express any rally jar toward perfect |  
 | bip_39_word_space_8 | photo express any rally jar toward perfect bottom |  
 | bip_39_word_space_9 | photo express any rally jar toward perfect bottom draft |  
+| bip_39_word_underscore_1 | photo |  
+| bip_39_word_underscore_10 | photo_express_any_rally_jar_toward_perfect_bottom_draft_dove |  
+| bip_39_word_underscore_11 | photo_express_any_rally_jar_toward_perfect_bottom_draft_dove_pond |  
+| bip_39_word_underscore_12 | photo_express_any_rally_jar_toward_perfect_bottom_draft_dove_pond_author |  
+| bip_39_word_underscore_2 | photo_express |  
+| bip_39_word_underscore_3 | photo_express_any |  
+| bip_39_word_underscore_4 | photo_express_any_rally |  
+| bip_39_word_underscore_5 | photo_express_any_rally_jar |  
+| bip_39_word_underscore_6 | photo_express_any_rally_jar_toward |  
+| bip_39_word_underscore_7 | photo_express_any_rally_jar_toward_perfect |  
+| bip_39_word_underscore_8 | photo_express_any_rally_jar_toward_perfect_bottom |  
+| bip_39_word_underscore_9 | photo_express_any_rally_jar_toward_perfect_bottom_draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

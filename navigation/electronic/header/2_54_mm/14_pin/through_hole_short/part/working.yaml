@@ -1,3 +1,15 @@
+bip_39_word_dash_1: force
+bip_39_word_dash_10: force-shadow-embark-grab-guard-connect-power-season-gaze-gather
+bip_39_word_dash_11: force-shadow-embark-grab-guard-connect-power-season-gaze-gather-claw
+bip_39_word_dash_12: force-shadow-embark-grab-guard-connect-power-season-gaze-gather-claw-athlete
+bip_39_word_dash_2: force-shadow
+bip_39_word_dash_3: force-shadow-embark
+bip_39_word_dash_4: force-shadow-embark-grab
+bip_39_word_dash_5: force-shadow-embark-grab-guard
+bip_39_word_dash_6: force-shadow-embark-grab-guard-connect
+bip_39_word_dash_7: force-shadow-embark-grab-guard-connect-power
+bip_39_word_dash_8: force-shadow-embark-grab-guard-connect-power-season
+bip_39_word_dash_9: force-shadow-embark-grab-guard-connect-power-season-gaze
 bip_39_word_new_br_1: force
 bip_39_word_new_br_10: force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season<br>gaze<br>gather
 bip_39_word_new_br_11: force<br>shadow<br>embark<br>grab<br>guard<br>connect<br>power<br>season<br>gaze<br>gather<br>claw
@@ -193,6 +205,18 @@ bip_39_word_space_6: force shadow embark grab guard connect
 bip_39_word_space_7: force shadow embark grab guard connect power
 bip_39_word_space_8: force shadow embark grab guard connect power season
 bip_39_word_space_9: force shadow embark grab guard connect power season gaze
+bip_39_word_underscore_1: force
+bip_39_word_underscore_10: force_shadow_embark_grab_guard_connect_power_season_gaze_gather
+bip_39_word_underscore_11: force_shadow_embark_grab_guard_connect_power_season_gaze_gather_claw
+bip_39_word_underscore_12: force_shadow_embark_grab_guard_connect_power_season_gaze_gather_claw_athlete
+bip_39_word_underscore_2: force_shadow
+bip_39_word_underscore_3: force_shadow_embark
+bip_39_word_underscore_4: force_shadow_embark_grab
+bip_39_word_underscore_5: force_shadow_embark_grab_guard
+bip_39_word_underscore_6: force_shadow_embark_grab_guard_connect
+bip_39_word_underscore_7: force_shadow_embark_grab_guard_connect_power
+bip_39_word_underscore_8: force_shadow_embark_grab_guard_connect_power_season
+bip_39_word_underscore_9: force_shadow_embark_grab_guard_connect_power_season_gaze
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

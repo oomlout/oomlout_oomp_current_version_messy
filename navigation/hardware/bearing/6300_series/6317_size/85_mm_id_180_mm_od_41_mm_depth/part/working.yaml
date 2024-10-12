@@ -1,3 +1,15 @@
+bip_39_word_dash_1: long
+bip_39_word_dash_10: long-elite-october-seven-aisle-elder-flag-recycle-tide-else
+bip_39_word_dash_11: long-elite-october-seven-aisle-elder-flag-recycle-tide-else-section
+bip_39_word_dash_12: long-elite-october-seven-aisle-elder-flag-recycle-tide-else-section-able
+bip_39_word_dash_2: long-elite
+bip_39_word_dash_3: long-elite-october
+bip_39_word_dash_4: long-elite-october-seven
+bip_39_word_dash_5: long-elite-october-seven-aisle
+bip_39_word_dash_6: long-elite-october-seven-aisle-elder
+bip_39_word_dash_7: long-elite-october-seven-aisle-elder-flag
+bip_39_word_dash_8: long-elite-october-seven-aisle-elder-flag-recycle
+bip_39_word_dash_9: long-elite-october-seven-aisle-elder-flag-recycle-tide
 bip_39_word_new_br_1: long
 bip_39_word_new_br_10: long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else
 bip_39_word_new_br_11: long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else<br>section
@@ -193,6 +205,18 @@ bip_39_word_space_6: long elite october seven aisle elder
 bip_39_word_space_7: long elite october seven aisle elder flag
 bip_39_word_space_8: long elite october seven aisle elder flag recycle
 bip_39_word_space_9: long elite october seven aisle elder flag recycle tide
+bip_39_word_underscore_1: long
+bip_39_word_underscore_10: long_elite_october_seven_aisle_elder_flag_recycle_tide_else
+bip_39_word_underscore_11: long_elite_october_seven_aisle_elder_flag_recycle_tide_else_section
+bip_39_word_underscore_12: long_elite_october_seven_aisle_elder_flag_recycle_tide_else_section_able
+bip_39_word_underscore_2: long_elite
+bip_39_word_underscore_3: long_elite_october
+bip_39_word_underscore_4: long_elite_october_seven
+bip_39_word_underscore_5: long_elite_october_seven_aisle
+bip_39_word_underscore_6: long_elite_october_seven_aisle_elder
+bip_39_word_underscore_7: long_elite_october_seven_aisle_elder_flag
+bip_39_word_underscore_8: long_elite_october_seven_aisle_elder_flag_recycle
+bip_39_word_underscore_9: long_elite_october_seven_aisle_elder_flag_recycle_tide
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

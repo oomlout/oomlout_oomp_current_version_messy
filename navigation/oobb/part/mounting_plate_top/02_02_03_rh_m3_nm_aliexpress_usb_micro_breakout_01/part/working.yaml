@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leg
+bip_39_word_dash_10: leg-debate-illness-tag-struggle-skull-joke-unique-eagle-assume
+bip_39_word_dash_11: leg-debate-illness-tag-struggle-skull-joke-unique-eagle-assume-illness
+bip_39_word_dash_12: leg-debate-illness-tag-struggle-skull-joke-unique-eagle-assume-illness-acquire
+bip_39_word_dash_2: leg-debate
+bip_39_word_dash_3: leg-debate-illness
+bip_39_word_dash_4: leg-debate-illness-tag
+bip_39_word_dash_5: leg-debate-illness-tag-struggle
+bip_39_word_dash_6: leg-debate-illness-tag-struggle-skull
+bip_39_word_dash_7: leg-debate-illness-tag-struggle-skull-joke
+bip_39_word_dash_8: leg-debate-illness-tag-struggle-skull-joke-unique
+bip_39_word_dash_9: leg-debate-illness-tag-struggle-skull-joke-unique-eagle
 bip_39_word_new_br_1: leg
 bip_39_word_new_br_10: leg<br>debate<br>illness<br>tag<br>struggle<br>skull<br>joke<br>unique<br>eagle<br>assume
 bip_39_word_new_br_11: leg<br>debate<br>illness<br>tag<br>struggle<br>skull<br>joke<br>unique<br>eagle<br>assume<br>illness
@@ -193,6 +205,18 @@ bip_39_word_space_6: leg debate illness tag struggle skull
 bip_39_word_space_7: leg debate illness tag struggle skull joke
 bip_39_word_space_8: leg debate illness tag struggle skull joke unique
 bip_39_word_space_9: leg debate illness tag struggle skull joke unique eagle
+bip_39_word_underscore_1: leg
+bip_39_word_underscore_10: leg_debate_illness_tag_struggle_skull_joke_unique_eagle_assume
+bip_39_word_underscore_11: leg_debate_illness_tag_struggle_skull_joke_unique_eagle_assume_illness
+bip_39_word_underscore_12: leg_debate_illness_tag_struggle_skull_joke_unique_eagle_assume_illness_acquire
+bip_39_word_underscore_2: leg_debate
+bip_39_word_underscore_3: leg_debate_illness
+bip_39_word_underscore_4: leg_debate_illness_tag
+bip_39_word_underscore_5: leg_debate_illness_tag_struggle
+bip_39_word_underscore_6: leg_debate_illness_tag_struggle_skull
+bip_39_word_underscore_7: leg_debate_illness_tag_struggle_skull_joke
+bip_39_word_underscore_8: leg_debate_illness_tag_struggle_skull_joke_unique
+bip_39_word_underscore_9: leg_debate_illness_tag_struggle_skull_joke_unique_eagle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

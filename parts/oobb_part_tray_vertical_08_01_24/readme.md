@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | six |  
+| bip_39_word_dash_10 | six-ensure-oblige-wood-mandate-what-degree-cream-retreat-armed |  
+| bip_39_word_dash_11 | six-ensure-oblige-wood-mandate-what-degree-cream-retreat-armed-ivory |  
+| bip_39_word_dash_12 | six-ensure-oblige-wood-mandate-what-degree-cream-retreat-armed-ivory-achieve |  
+| bip_39_word_dash_2 | six-ensure |  
+| bip_39_word_dash_3 | six-ensure-oblige |  
+| bip_39_word_dash_4 | six-ensure-oblige-wood |  
+| bip_39_word_dash_5 | six-ensure-oblige-wood-mandate |  
+| bip_39_word_dash_6 | six-ensure-oblige-wood-mandate-what |  
+| bip_39_word_dash_7 | six-ensure-oblige-wood-mandate-what-degree |  
+| bip_39_word_dash_8 | six-ensure-oblige-wood-mandate-what-degree-cream |  
+| bip_39_word_dash_9 | six-ensure-oblige-wood-mandate-what-degree-cream-retreat |  
 | bip_39_word_new_br_1 | six |  
 | bip_39_word_new_br_10 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream<br>retreat<br>armed |  
 | bip_39_word_new_br_11 | six<br>ensure<br>oblige<br>wood<br>mandate<br>what<br>degree<br>cream<br>retreat<br>armed<br>ivory |  
@@ -147,6 +159,18 @@ retreat |
 | bip_39_word_space_7 | six ensure oblige wood mandate what degree |  
 | bip_39_word_space_8 | six ensure oblige wood mandate what degree cream |  
 | bip_39_word_space_9 | six ensure oblige wood mandate what degree cream retreat |  
+| bip_39_word_underscore_1 | six |  
+| bip_39_word_underscore_10 | six_ensure_oblige_wood_mandate_what_degree_cream_retreat_armed |  
+| bip_39_word_underscore_11 | six_ensure_oblige_wood_mandate_what_degree_cream_retreat_armed_ivory |  
+| bip_39_word_underscore_12 | six_ensure_oblige_wood_mandate_what_degree_cream_retreat_armed_ivory_achieve |  
+| bip_39_word_underscore_2 | six_ensure |  
+| bip_39_word_underscore_3 | six_ensure_oblige |  
+| bip_39_word_underscore_4 | six_ensure_oblige_wood |  
+| bip_39_word_underscore_5 | six_ensure_oblige_wood_mandate |  
+| bip_39_word_underscore_6 | six_ensure_oblige_wood_mandate_what |  
+| bip_39_word_underscore_7 | six_ensure_oblige_wood_mandate_what_degree |  
+| bip_39_word_underscore_8 | six_ensure_oblige_wood_mandate_what_degree_cream |  
+| bip_39_word_underscore_9 | six_ensure_oblige_wood_mandate_what_degree_cream_retreat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

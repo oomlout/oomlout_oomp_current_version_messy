@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blind
+bip_39_word_dash_10: blind-obtain-pizza-service-else-rug-switch-swamp-long-license
+bip_39_word_dash_11: blind-obtain-pizza-service-else-rug-switch-swamp-long-license-blur
+bip_39_word_dash_12: blind-obtain-pizza-service-else-rug-switch-swamp-long-license-blur-antenna
+bip_39_word_dash_2: blind-obtain
+bip_39_word_dash_3: blind-obtain-pizza
+bip_39_word_dash_4: blind-obtain-pizza-service
+bip_39_word_dash_5: blind-obtain-pizza-service-else
+bip_39_word_dash_6: blind-obtain-pizza-service-else-rug
+bip_39_word_dash_7: blind-obtain-pizza-service-else-rug-switch
+bip_39_word_dash_8: blind-obtain-pizza-service-else-rug-switch-swamp
+bip_39_word_dash_9: blind-obtain-pizza-service-else-rug-switch-swamp-long
 bip_39_word_new_br_1: blind
 bip_39_word_new_br_10: blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license
 bip_39_word_new_br_11: blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license<br>blur
@@ -193,6 +205,18 @@ bip_39_word_space_6: blind obtain pizza service else rug
 bip_39_word_space_7: blind obtain pizza service else rug switch
 bip_39_word_space_8: blind obtain pizza service else rug switch swamp
 bip_39_word_space_9: blind obtain pizza service else rug switch swamp long
+bip_39_word_underscore_1: blind
+bip_39_word_underscore_10: blind_obtain_pizza_service_else_rug_switch_swamp_long_license
+bip_39_word_underscore_11: blind_obtain_pizza_service_else_rug_switch_swamp_long_license_blur
+bip_39_word_underscore_12: blind_obtain_pizza_service_else_rug_switch_swamp_long_license_blur_antenna
+bip_39_word_underscore_2: blind_obtain
+bip_39_word_underscore_3: blind_obtain_pizza
+bip_39_word_underscore_4: blind_obtain_pizza_service
+bip_39_word_underscore_5: blind_obtain_pizza_service_else
+bip_39_word_underscore_6: blind_obtain_pizza_service_else_rug
+bip_39_word_underscore_7: blind_obtain_pizza_service_else_rug_switch
+bip_39_word_underscore_8: blind_obtain_pizza_service_else_rug_switch_swamp
+bip_39_word_underscore_9: blind_obtain_pizza_service_else_rug_switch_swamp_long
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

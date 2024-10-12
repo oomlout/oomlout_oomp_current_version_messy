@@ -1,3 +1,15 @@
+bip_39_word_dash_1: develop
+bip_39_word_dash_10: develop-fire-pledge-cook-describe-banner-lion-intact-surface-course
+bip_39_word_dash_11: develop-fire-pledge-cook-describe-banner-lion-intact-surface-course-vote
+bip_39_word_dash_12: develop-fire-pledge-cook-describe-banner-lion-intact-surface-course-vote-accuse
+bip_39_word_dash_2: develop-fire
+bip_39_word_dash_3: develop-fire-pledge
+bip_39_word_dash_4: develop-fire-pledge-cook
+bip_39_word_dash_5: develop-fire-pledge-cook-describe
+bip_39_word_dash_6: develop-fire-pledge-cook-describe-banner
+bip_39_word_dash_7: develop-fire-pledge-cook-describe-banner-lion
+bip_39_word_dash_8: develop-fire-pledge-cook-describe-banner-lion-intact
+bip_39_word_dash_9: develop-fire-pledge-cook-describe-banner-lion-intact-surface
 bip_39_word_new_br_1: develop
 bip_39_word_new_br_10: develop<br>fire<br>pledge<br>cook<br>describe<br>banner<br>lion<br>intact<br>surface<br>course
 bip_39_word_new_br_11: develop<br>fire<br>pledge<br>cook<br>describe<br>banner<br>lion<br>intact<br>surface<br>course<br>vote
@@ -194,6 +206,18 @@ bip_39_word_space_6: develop fire pledge cook describe banner
 bip_39_word_space_7: develop fire pledge cook describe banner lion
 bip_39_word_space_8: develop fire pledge cook describe banner lion intact
 bip_39_word_space_9: develop fire pledge cook describe banner lion intact surface
+bip_39_word_underscore_1: develop
+bip_39_word_underscore_10: develop_fire_pledge_cook_describe_banner_lion_intact_surface_course
+bip_39_word_underscore_11: develop_fire_pledge_cook_describe_banner_lion_intact_surface_course_vote
+bip_39_word_underscore_12: develop_fire_pledge_cook_describe_banner_lion_intact_surface_course_vote_accuse
+bip_39_word_underscore_2: develop_fire
+bip_39_word_underscore_3: develop_fire_pledge
+bip_39_word_underscore_4: develop_fire_pledge_cook
+bip_39_word_underscore_5: develop_fire_pledge_cook_describe
+bip_39_word_underscore_6: develop_fire_pledge_cook_describe_banner
+bip_39_word_underscore_7: develop_fire_pledge_cook_describe_banner_lion
+bip_39_word_underscore_8: develop_fire_pledge_cook_describe_banner_lion_intact
+bip_39_word_underscore_9: develop_fire_pledge_cook_describe_banner_lion_intact_surface
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

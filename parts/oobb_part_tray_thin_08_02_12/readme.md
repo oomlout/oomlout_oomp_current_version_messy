@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | habit |  
+| bip_39_word_dash_10 | habit-pencil-brass-arm-arrest-staff-oppose-onion-talent-enemy |  
+| bip_39_word_dash_11 | habit-pencil-brass-arm-arrest-staff-oppose-onion-talent-enemy-expand |  
+| bip_39_word_dash_12 | habit-pencil-brass-arm-arrest-staff-oppose-onion-talent-enemy-expand-asthma |  
+| bip_39_word_dash_2 | habit-pencil |  
+| bip_39_word_dash_3 | habit-pencil-brass |  
+| bip_39_word_dash_4 | habit-pencil-brass-arm |  
+| bip_39_word_dash_5 | habit-pencil-brass-arm-arrest |  
+| bip_39_word_dash_6 | habit-pencil-brass-arm-arrest-staff |  
+| bip_39_word_dash_7 | habit-pencil-brass-arm-arrest-staff-oppose |  
+| bip_39_word_dash_8 | habit-pencil-brass-arm-arrest-staff-oppose-onion |  
+| bip_39_word_dash_9 | habit-pencil-brass-arm-arrest-staff-oppose-onion-talent |  
 | bip_39_word_new_br_1 | habit |  
 | bip_39_word_new_br_10 | habit<br>pencil<br>brass<br>arm<br>arrest<br>staff<br>oppose<br>onion<br>talent<br>enemy |  
 | bip_39_word_new_br_11 | habit<br>pencil<br>brass<br>arm<br>arrest<br>staff<br>oppose<br>onion<br>talent<br>enemy<br>expand |  
@@ -147,6 +159,18 @@ talent |
 | bip_39_word_space_7 | habit pencil brass arm arrest staff oppose |  
 | bip_39_word_space_8 | habit pencil brass arm arrest staff oppose onion |  
 | bip_39_word_space_9 | habit pencil brass arm arrest staff oppose onion talent |  
+| bip_39_word_underscore_1 | habit |  
+| bip_39_word_underscore_10 | habit_pencil_brass_arm_arrest_staff_oppose_onion_talent_enemy |  
+| bip_39_word_underscore_11 | habit_pencil_brass_arm_arrest_staff_oppose_onion_talent_enemy_expand |  
+| bip_39_word_underscore_12 | habit_pencil_brass_arm_arrest_staff_oppose_onion_talent_enemy_expand_asthma |  
+| bip_39_word_underscore_2 | habit_pencil |  
+| bip_39_word_underscore_3 | habit_pencil_brass |  
+| bip_39_word_underscore_4 | habit_pencil_brass_arm |  
+| bip_39_word_underscore_5 | habit_pencil_brass_arm_arrest |  
+| bip_39_word_underscore_6 | habit_pencil_brass_arm_arrest_staff |  
+| bip_39_word_underscore_7 | habit_pencil_brass_arm_arrest_staff_oppose |  
+| bip_39_word_underscore_8 | habit_pencil_brass_arm_arrest_staff_oppose_onion |  
+| bip_39_word_underscore_9 | habit_pencil_brass_arm_arrest_staff_oppose_onion_talent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

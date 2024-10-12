@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rather |  
+| bip_39_word_dash_10 | rather-trend-charge-laundry-vivid-champion-announce-bulk-remember-boost |  
+| bip_39_word_dash_11 | rather-trend-charge-laundry-vivid-champion-announce-bulk-remember-boost-mirror |  
+| bip_39_word_dash_12 | rather-trend-charge-laundry-vivid-champion-announce-bulk-remember-boost-mirror-alter |  
+| bip_39_word_dash_2 | rather-trend |  
+| bip_39_word_dash_3 | rather-trend-charge |  
+| bip_39_word_dash_4 | rather-trend-charge-laundry |  
+| bip_39_word_dash_5 | rather-trend-charge-laundry-vivid |  
+| bip_39_word_dash_6 | rather-trend-charge-laundry-vivid-champion |  
+| bip_39_word_dash_7 | rather-trend-charge-laundry-vivid-champion-announce |  
+| bip_39_word_dash_8 | rather-trend-charge-laundry-vivid-champion-announce-bulk |  
+| bip_39_word_dash_9 | rather-trend-charge-laundry-vivid-champion-announce-bulk-remember |  
 | bip_39_word_new_br_1 | rather |  
 | bip_39_word_new_br_10 | rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost |  
 | bip_39_word_new_br_11 | rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost<br>mirror |  
@@ -147,6 +159,18 @@ remember |
 | bip_39_word_space_7 | rather trend charge laundry vivid champion announce |  
 | bip_39_word_space_8 | rather trend charge laundry vivid champion announce bulk |  
 | bip_39_word_space_9 | rather trend charge laundry vivid champion announce bulk remember |  
+| bip_39_word_underscore_1 | rather |  
+| bip_39_word_underscore_10 | rather_trend_charge_laundry_vivid_champion_announce_bulk_remember_boost |  
+| bip_39_word_underscore_11 | rather_trend_charge_laundry_vivid_champion_announce_bulk_remember_boost_mirror |  
+| bip_39_word_underscore_12 | rather_trend_charge_laundry_vivid_champion_announce_bulk_remember_boost_mirror_alter |  
+| bip_39_word_underscore_2 | rather_trend |  
+| bip_39_word_underscore_3 | rather_trend_charge |  
+| bip_39_word_underscore_4 | rather_trend_charge_laundry |  
+| bip_39_word_underscore_5 | rather_trend_charge_laundry_vivid |  
+| bip_39_word_underscore_6 | rather_trend_charge_laundry_vivid_champion |  
+| bip_39_word_underscore_7 | rather_trend_charge_laundry_vivid_champion_announce |  
+| bip_39_word_underscore_8 | rather_trend_charge_laundry_vivid_champion_announce_bulk |  
+| bip_39_word_underscore_9 | rather_trend_charge_laundry_vivid_champion_announce_bulk_remember |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

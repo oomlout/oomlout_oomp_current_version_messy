@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | again |  
+| bip_39_word_dash_10 | again-horse-casino-sand-cancel-run-eager-focus-found-buyer |  
+| bip_39_word_dash_11 | again-horse-casino-sand-cancel-run-eager-focus-found-buyer-perfect |  
+| bip_39_word_dash_12 | again-horse-casino-sand-cancel-run-eager-focus-found-buyer-perfect-animal |  
+| bip_39_word_dash_2 | again-horse |  
+| bip_39_word_dash_3 | again-horse-casino |  
+| bip_39_word_dash_4 | again-horse-casino-sand |  
+| bip_39_word_dash_5 | again-horse-casino-sand-cancel |  
+| bip_39_word_dash_6 | again-horse-casino-sand-cancel-run |  
+| bip_39_word_dash_7 | again-horse-casino-sand-cancel-run-eager |  
+| bip_39_word_dash_8 | again-horse-casino-sand-cancel-run-eager-focus |  
+| bip_39_word_dash_9 | again-horse-casino-sand-cancel-run-eager-focus-found |  
 | bip_39_word_new_br_1 | again |  
 | bip_39_word_new_br_10 | again<br>horse<br>casino<br>sand<br>cancel<br>run<br>eager<br>focus<br>found<br>buyer |  
 | bip_39_word_new_br_11 | again<br>horse<br>casino<br>sand<br>cancel<br>run<br>eager<br>focus<br>found<br>buyer<br>perfect |  
@@ -147,6 +159,18 @@ found |
 | bip_39_word_space_7 | again horse casino sand cancel run eager |  
 | bip_39_word_space_8 | again horse casino sand cancel run eager focus |  
 | bip_39_word_space_9 | again horse casino sand cancel run eager focus found |  
+| bip_39_word_underscore_1 | again |  
+| bip_39_word_underscore_10 | again_horse_casino_sand_cancel_run_eager_focus_found_buyer |  
+| bip_39_word_underscore_11 | again_horse_casino_sand_cancel_run_eager_focus_found_buyer_perfect |  
+| bip_39_word_underscore_12 | again_horse_casino_sand_cancel_run_eager_focus_found_buyer_perfect_animal |  
+| bip_39_word_underscore_2 | again_horse |  
+| bip_39_word_underscore_3 | again_horse_casino |  
+| bip_39_word_underscore_4 | again_horse_casino_sand |  
+| bip_39_word_underscore_5 | again_horse_casino_sand_cancel |  
+| bip_39_word_underscore_6 | again_horse_casino_sand_cancel_run |  
+| bip_39_word_underscore_7 | again_horse_casino_sand_cancel_run_eager |  
+| bip_39_word_underscore_8 | again_horse_casino_sand_cancel_run_eager_focus |  
+| bip_39_word_underscore_9 | again_horse_casino_sand_cancel_run_eager_focus_found |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

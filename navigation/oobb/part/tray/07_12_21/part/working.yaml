@@ -1,3 +1,15 @@
+bip_39_word_dash_1: talk
+bip_39_word_dash_10: talk-post-argue-outer-when-genre-finger-catch-pyramid-razor
+bip_39_word_dash_11: talk-post-argue-outer-when-genre-finger-catch-pyramid-razor-agree
+bip_39_word_dash_12: talk-post-argue-outer-when-genre-finger-catch-pyramid-razor-agree-apple
+bip_39_word_dash_2: talk-post
+bip_39_word_dash_3: talk-post-argue
+bip_39_word_dash_4: talk-post-argue-outer
+bip_39_word_dash_5: talk-post-argue-outer-when
+bip_39_word_dash_6: talk-post-argue-outer-when-genre
+bip_39_word_dash_7: talk-post-argue-outer-when-genre-finger
+bip_39_word_dash_8: talk-post-argue-outer-when-genre-finger-catch
+bip_39_word_dash_9: talk-post-argue-outer-when-genre-finger-catch-pyramid
 bip_39_word_new_br_1: talk
 bip_39_word_new_br_10: talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor
 bip_39_word_new_br_11: talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor<br>agree
@@ -193,6 +205,18 @@ bip_39_word_space_6: talk post argue outer when genre
 bip_39_word_space_7: talk post argue outer when genre finger
 bip_39_word_space_8: talk post argue outer when genre finger catch
 bip_39_word_space_9: talk post argue outer when genre finger catch pyramid
+bip_39_word_underscore_1: talk
+bip_39_word_underscore_10: talk_post_argue_outer_when_genre_finger_catch_pyramid_razor
+bip_39_word_underscore_11: talk_post_argue_outer_when_genre_finger_catch_pyramid_razor_agree
+bip_39_word_underscore_12: talk_post_argue_outer_when_genre_finger_catch_pyramid_razor_agree_apple
+bip_39_word_underscore_2: talk_post
+bip_39_word_underscore_3: talk_post_argue
+bip_39_word_underscore_4: talk_post_argue_outer
+bip_39_word_underscore_5: talk_post_argue_outer_when
+bip_39_word_underscore_6: talk_post_argue_outer_when_genre
+bip_39_word_underscore_7: talk_post_argue_outer_when_genre_finger
+bip_39_word_underscore_8: talk_post_argue_outer_when_genre_finger_catch
+bip_39_word_underscore_9: talk_post_argue_outer_when_genre_finger_catch_pyramid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

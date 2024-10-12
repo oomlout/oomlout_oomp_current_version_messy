@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | claim |  
+| bip_39_word_dash_10 | claim-click-spring-kidney-ecology-cereal-ignore-insect-remove-dolphin |  
+| bip_39_word_dash_11 | claim-click-spring-kidney-ecology-cereal-ignore-insect-remove-dolphin-body |  
+| bip_39_word_dash_12 | claim-click-spring-kidney-ecology-cereal-ignore-insect-remove-dolphin-body-alarm |  
+| bip_39_word_dash_2 | claim-click |  
+| bip_39_word_dash_3 | claim-click-spring |  
+| bip_39_word_dash_4 | claim-click-spring-kidney |  
+| bip_39_word_dash_5 | claim-click-spring-kidney-ecology |  
+| bip_39_word_dash_6 | claim-click-spring-kidney-ecology-cereal |  
+| bip_39_word_dash_7 | claim-click-spring-kidney-ecology-cereal-ignore |  
+| bip_39_word_dash_8 | claim-click-spring-kidney-ecology-cereal-ignore-insect |  
+| bip_39_word_dash_9 | claim-click-spring-kidney-ecology-cereal-ignore-insect-remove |  
 | bip_39_word_new_br_1 | claim |  
 | bip_39_word_new_br_10 | claim<br>click<br>spring<br>kidney<br>ecology<br>cereal<br>ignore<br>insect<br>remove<br>dolphin |  
 | bip_39_word_new_br_11 | claim<br>click<br>spring<br>kidney<br>ecology<br>cereal<br>ignore<br>insect<br>remove<br>dolphin<br>body |  
@@ -147,6 +159,18 @@ remove |
 | bip_39_word_space_7 | claim click spring kidney ecology cereal ignore |  
 | bip_39_word_space_8 | claim click spring kidney ecology cereal ignore insect |  
 | bip_39_word_space_9 | claim click spring kidney ecology cereal ignore insect remove |  
+| bip_39_word_underscore_1 | claim |  
+| bip_39_word_underscore_10 | claim_click_spring_kidney_ecology_cereal_ignore_insect_remove_dolphin |  
+| bip_39_word_underscore_11 | claim_click_spring_kidney_ecology_cereal_ignore_insect_remove_dolphin_body |  
+| bip_39_word_underscore_12 | claim_click_spring_kidney_ecology_cereal_ignore_insect_remove_dolphin_body_alarm |  
+| bip_39_word_underscore_2 | claim_click |  
+| bip_39_word_underscore_3 | claim_click_spring |  
+| bip_39_word_underscore_4 | claim_click_spring_kidney |  
+| bip_39_word_underscore_5 | claim_click_spring_kidney_ecology |  
+| bip_39_word_underscore_6 | claim_click_spring_kidney_ecology_cereal |  
+| bip_39_word_underscore_7 | claim_click_spring_kidney_ecology_cereal_ignore |  
+| bip_39_word_underscore_8 | claim_click_spring_kidney_ecology_cereal_ignore_insect |  
+| bip_39_word_underscore_9 | claim_click_spring_kidney_ecology_cereal_ignore_insect_remove |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | decrease |  
+| bip_39_word_dash_10 | decrease-famous-depend-slot-affair-tragic-tumble-spice-noodle-cat |  
+| bip_39_word_dash_11 | decrease-famous-depend-slot-affair-tragic-tumble-spice-noodle-cat-federal |  
+| bip_39_word_dash_12 | decrease-famous-depend-slot-affair-tragic-tumble-spice-noodle-cat-federal-adapt |  
+| bip_39_word_dash_2 | decrease-famous |  
+| bip_39_word_dash_3 | decrease-famous-depend |  
+| bip_39_word_dash_4 | decrease-famous-depend-slot |  
+| bip_39_word_dash_5 | decrease-famous-depend-slot-affair |  
+| bip_39_word_dash_6 | decrease-famous-depend-slot-affair-tragic |  
+| bip_39_word_dash_7 | decrease-famous-depend-slot-affair-tragic-tumble |  
+| bip_39_word_dash_8 | decrease-famous-depend-slot-affair-tragic-tumble-spice |  
+| bip_39_word_dash_9 | decrease-famous-depend-slot-affair-tragic-tumble-spice-noodle |  
 | bip_39_word_new_br_1 | decrease |  
 | bip_39_word_new_br_10 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat |  
 | bip_39_word_new_br_11 | decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat<br>federal |  
@@ -147,6 +159,18 @@ noodle |
 | bip_39_word_space_7 | decrease famous depend slot affair tragic tumble |  
 | bip_39_word_space_8 | decrease famous depend slot affair tragic tumble spice |  
 | bip_39_word_space_9 | decrease famous depend slot affair tragic tumble spice noodle |  
+| bip_39_word_underscore_1 | decrease |  
+| bip_39_word_underscore_10 | decrease_famous_depend_slot_affair_tragic_tumble_spice_noodle_cat |  
+| bip_39_word_underscore_11 | decrease_famous_depend_slot_affair_tragic_tumble_spice_noodle_cat_federal |  
+| bip_39_word_underscore_12 | decrease_famous_depend_slot_affair_tragic_tumble_spice_noodle_cat_federal_adapt |  
+| bip_39_word_underscore_2 | decrease_famous |  
+| bip_39_word_underscore_3 | decrease_famous_depend |  
+| bip_39_word_underscore_4 | decrease_famous_depend_slot |  
+| bip_39_word_underscore_5 | decrease_famous_depend_slot_affair |  
+| bip_39_word_underscore_6 | decrease_famous_depend_slot_affair_tragic |  
+| bip_39_word_underscore_7 | decrease_famous_depend_slot_affair_tragic_tumble |  
+| bip_39_word_underscore_8 | decrease_famous_depend_slot_affair_tragic_tumble_spice |  
+| bip_39_word_underscore_9 | decrease_famous_depend_slot_affair_tragic_tumble_spice_noodle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

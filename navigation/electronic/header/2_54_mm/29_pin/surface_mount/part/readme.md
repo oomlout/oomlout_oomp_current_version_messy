@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | debate |  
+| bip_39_word_dash_10 | debate-piece-wait-blouse-truly-exhaust-steak-trash-flower-exhibit |  
+| bip_39_word_dash_11 | debate-piece-wait-blouse-truly-exhaust-steak-trash-flower-exhibit-oval |  
+| bip_39_word_dash_12 | debate-piece-wait-blouse-truly-exhaust-steak-trash-flower-exhibit-oval-abstract |  
+| bip_39_word_dash_2 | debate-piece |  
+| bip_39_word_dash_3 | debate-piece-wait |  
+| bip_39_word_dash_4 | debate-piece-wait-blouse |  
+| bip_39_word_dash_5 | debate-piece-wait-blouse-truly |  
+| bip_39_word_dash_6 | debate-piece-wait-blouse-truly-exhaust |  
+| bip_39_word_dash_7 | debate-piece-wait-blouse-truly-exhaust-steak |  
+| bip_39_word_dash_8 | debate-piece-wait-blouse-truly-exhaust-steak-trash |  
+| bip_39_word_dash_9 | debate-piece-wait-blouse-truly-exhaust-steak-trash-flower |  
 | bip_39_word_new_br_1 | debate |  
 | bip_39_word_new_br_10 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash<br>flower<br>exhibit |  
 | bip_39_word_new_br_11 | debate<br>piece<br>wait<br>blouse<br>truly<br>exhaust<br>steak<br>trash<br>flower<br>exhibit<br>oval |  
@@ -147,6 +159,18 @@ flower |
 | bip_39_word_space_7 | debate piece wait blouse truly exhaust steak |  
 | bip_39_word_space_8 | debate piece wait blouse truly exhaust steak trash |  
 | bip_39_word_space_9 | debate piece wait blouse truly exhaust steak trash flower |  
+| bip_39_word_underscore_1 | debate |  
+| bip_39_word_underscore_10 | debate_piece_wait_blouse_truly_exhaust_steak_trash_flower_exhibit |  
+| bip_39_word_underscore_11 | debate_piece_wait_blouse_truly_exhaust_steak_trash_flower_exhibit_oval |  
+| bip_39_word_underscore_12 | debate_piece_wait_blouse_truly_exhaust_steak_trash_flower_exhibit_oval_abstract |  
+| bip_39_word_underscore_2 | debate_piece |  
+| bip_39_word_underscore_3 | debate_piece_wait |  
+| bip_39_word_underscore_4 | debate_piece_wait_blouse |  
+| bip_39_word_underscore_5 | debate_piece_wait_blouse_truly |  
+| bip_39_word_underscore_6 | debate_piece_wait_blouse_truly_exhaust |  
+| bip_39_word_underscore_7 | debate_piece_wait_blouse_truly_exhaust_steak |  
+| bip_39_word_underscore_8 | debate_piece_wait_blouse_truly_exhaust_steak_trash |  
+| bip_39_word_underscore_9 | debate_piece_wait_blouse_truly_exhaust_steak_trash_flower |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

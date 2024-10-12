@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | magnet |  
+| bip_39_word_dash_10 | magnet-local-orphan-illness-powder-dash-silk-awful-lab-area |  
+| bip_39_word_dash_11 | magnet-local-orphan-illness-powder-dash-silk-awful-lab-area-electric |  
+| bip_39_word_dash_12 | magnet-local-orphan-illness-powder-dash-silk-awful-lab-area-electric-argue |  
+| bip_39_word_dash_2 | magnet-local |  
+| bip_39_word_dash_3 | magnet-local-orphan |  
+| bip_39_word_dash_4 | magnet-local-orphan-illness |  
+| bip_39_word_dash_5 | magnet-local-orphan-illness-powder |  
+| bip_39_word_dash_6 | magnet-local-orphan-illness-powder-dash |  
+| bip_39_word_dash_7 | magnet-local-orphan-illness-powder-dash-silk |  
+| bip_39_word_dash_8 | magnet-local-orphan-illness-powder-dash-silk-awful |  
+| bip_39_word_dash_9 | magnet-local-orphan-illness-powder-dash-silk-awful-lab |  
 | bip_39_word_new_br_1 | magnet |  
 | bip_39_word_new_br_10 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful<br>lab<br>area |  
 | bip_39_word_new_br_11 | magnet<br>local<br>orphan<br>illness<br>powder<br>dash<br>silk<br>awful<br>lab<br>area<br>electric |  
@@ -147,6 +159,18 @@ lab |
 | bip_39_word_space_7 | magnet local orphan illness powder dash silk |  
 | bip_39_word_space_8 | magnet local orphan illness powder dash silk awful |  
 | bip_39_word_space_9 | magnet local orphan illness powder dash silk awful lab |  
+| bip_39_word_underscore_1 | magnet |  
+| bip_39_word_underscore_10 | magnet_local_orphan_illness_powder_dash_silk_awful_lab_area |  
+| bip_39_word_underscore_11 | magnet_local_orphan_illness_powder_dash_silk_awful_lab_area_electric |  
+| bip_39_word_underscore_12 | magnet_local_orphan_illness_powder_dash_silk_awful_lab_area_electric_argue |  
+| bip_39_word_underscore_2 | magnet_local |  
+| bip_39_word_underscore_3 | magnet_local_orphan |  
+| bip_39_word_underscore_4 | magnet_local_orphan_illness |  
+| bip_39_word_underscore_5 | magnet_local_orphan_illness_powder |  
+| bip_39_word_underscore_6 | magnet_local_orphan_illness_powder_dash |  
+| bip_39_word_underscore_7 | magnet_local_orphan_illness_powder_dash_silk |  
+| bip_39_word_underscore_8 | magnet_local_orphan_illness_powder_dash_silk_awful |  
+| bip_39_word_underscore_9 | magnet_local_orphan_illness_powder_dash_silk_awful_lab |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

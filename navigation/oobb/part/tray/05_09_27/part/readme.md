@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lunch |  
+| bip_39_word_dash_10 | lunch-cake-cattle-plate-depart-globe-sponsor-stairs-regular-input |  
+| bip_39_word_dash_11 | lunch-cake-cattle-plate-depart-globe-sponsor-stairs-regular-input-solve |  
+| bip_39_word_dash_12 | lunch-cake-cattle-plate-depart-globe-sponsor-stairs-regular-input-solve-alpha |  
+| bip_39_word_dash_2 | lunch-cake |  
+| bip_39_word_dash_3 | lunch-cake-cattle |  
+| bip_39_word_dash_4 | lunch-cake-cattle-plate |  
+| bip_39_word_dash_5 | lunch-cake-cattle-plate-depart |  
+| bip_39_word_dash_6 | lunch-cake-cattle-plate-depart-globe |  
+| bip_39_word_dash_7 | lunch-cake-cattle-plate-depart-globe-sponsor |  
+| bip_39_word_dash_8 | lunch-cake-cattle-plate-depart-globe-sponsor-stairs |  
+| bip_39_word_dash_9 | lunch-cake-cattle-plate-depart-globe-sponsor-stairs-regular |  
 | bip_39_word_new_br_1 | lunch |  
 | bip_39_word_new_br_10 | lunch<br>cake<br>cattle<br>plate<br>depart<br>globe<br>sponsor<br>stairs<br>regular<br>input |  
 | bip_39_word_new_br_11 | lunch<br>cake<br>cattle<br>plate<br>depart<br>globe<br>sponsor<br>stairs<br>regular<br>input<br>solve |  
@@ -147,6 +159,18 @@ regular |
 | bip_39_word_space_7 | lunch cake cattle plate depart globe sponsor |  
 | bip_39_word_space_8 | lunch cake cattle plate depart globe sponsor stairs |  
 | bip_39_word_space_9 | lunch cake cattle plate depart globe sponsor stairs regular |  
+| bip_39_word_underscore_1 | lunch |  
+| bip_39_word_underscore_10 | lunch_cake_cattle_plate_depart_globe_sponsor_stairs_regular_input |  
+| bip_39_word_underscore_11 | lunch_cake_cattle_plate_depart_globe_sponsor_stairs_regular_input_solve |  
+| bip_39_word_underscore_12 | lunch_cake_cattle_plate_depart_globe_sponsor_stairs_regular_input_solve_alpha |  
+| bip_39_word_underscore_2 | lunch_cake |  
+| bip_39_word_underscore_3 | lunch_cake_cattle |  
+| bip_39_word_underscore_4 | lunch_cake_cattle_plate |  
+| bip_39_word_underscore_5 | lunch_cake_cattle_plate_depart |  
+| bip_39_word_underscore_6 | lunch_cake_cattle_plate_depart_globe |  
+| bip_39_word_underscore_7 | lunch_cake_cattle_plate_depart_globe_sponsor |  
+| bip_39_word_underscore_8 | lunch_cake_cattle_plate_depart_globe_sponsor_stairs |  
+| bip_39_word_underscore_9 | lunch_cake_cattle_plate_depart_globe_sponsor_stairs_regular |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

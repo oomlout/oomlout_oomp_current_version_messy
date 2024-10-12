@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | address |  
+| bip_39_word_dash_10 | address-inmate-attend-laundry-enroll-acoustic-neck-square-drop-two |  
+| bip_39_word_dash_11 | address-inmate-attend-laundry-enroll-acoustic-neck-square-drop-two-attitude |  
+| bip_39_word_dash_12 | address-inmate-attend-laundry-enroll-acoustic-neck-square-drop-two-attitude-almost |  
+| bip_39_word_dash_2 | address-inmate |  
+| bip_39_word_dash_3 | address-inmate-attend |  
+| bip_39_word_dash_4 | address-inmate-attend-laundry |  
+| bip_39_word_dash_5 | address-inmate-attend-laundry-enroll |  
+| bip_39_word_dash_6 | address-inmate-attend-laundry-enroll-acoustic |  
+| bip_39_word_dash_7 | address-inmate-attend-laundry-enroll-acoustic-neck |  
+| bip_39_word_dash_8 | address-inmate-attend-laundry-enroll-acoustic-neck-square |  
+| bip_39_word_dash_9 | address-inmate-attend-laundry-enroll-acoustic-neck-square-drop |  
 | bip_39_word_new_br_1 | address |  
 | bip_39_word_new_br_10 | address<br>inmate<br>attend<br>laundry<br>enroll<br>acoustic<br>neck<br>square<br>drop<br>two |  
 | bip_39_word_new_br_11 | address<br>inmate<br>attend<br>laundry<br>enroll<br>acoustic<br>neck<br>square<br>drop<br>two<br>attitude |  
@@ -147,6 +159,18 @@ drop |
 | bip_39_word_space_7 | address inmate attend laundry enroll acoustic neck |  
 | bip_39_word_space_8 | address inmate attend laundry enroll acoustic neck square |  
 | bip_39_word_space_9 | address inmate attend laundry enroll acoustic neck square drop |  
+| bip_39_word_underscore_1 | address |  
+| bip_39_word_underscore_10 | address_inmate_attend_laundry_enroll_acoustic_neck_square_drop_two |  
+| bip_39_word_underscore_11 | address_inmate_attend_laundry_enroll_acoustic_neck_square_drop_two_attitude |  
+| bip_39_word_underscore_12 | address_inmate_attend_laundry_enroll_acoustic_neck_square_drop_two_attitude_almost |  
+| bip_39_word_underscore_2 | address_inmate |  
+| bip_39_word_underscore_3 | address_inmate_attend |  
+| bip_39_word_underscore_4 | address_inmate_attend_laundry |  
+| bip_39_word_underscore_5 | address_inmate_attend_laundry_enroll |  
+| bip_39_word_underscore_6 | address_inmate_attend_laundry_enroll_acoustic |  
+| bip_39_word_underscore_7 | address_inmate_attend_laundry_enroll_acoustic_neck |  
+| bip_39_word_underscore_8 | address_inmate_attend_laundry_enroll_acoustic_neck_square |  
+| bip_39_word_underscore_9 | address_inmate_attend_laundry_enroll_acoustic_neck_square_drop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

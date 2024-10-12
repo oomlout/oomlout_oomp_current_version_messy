@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | middle |  
+| bip_39_word_dash_10 | middle-river-cancel-arctic-birth-hazard-burden-amused-giraffe-snap |  
+| bip_39_word_dash_11 | middle-river-cancel-arctic-birth-hazard-burden-amused-giraffe-snap-gossip |  
+| bip_39_word_dash_12 | middle-river-cancel-arctic-birth-hazard-burden-amused-giraffe-snap-gossip-advice |  
+| bip_39_word_dash_2 | middle-river |  
+| bip_39_word_dash_3 | middle-river-cancel |  
+| bip_39_word_dash_4 | middle-river-cancel-arctic |  
+| bip_39_word_dash_5 | middle-river-cancel-arctic-birth |  
+| bip_39_word_dash_6 | middle-river-cancel-arctic-birth-hazard |  
+| bip_39_word_dash_7 | middle-river-cancel-arctic-birth-hazard-burden |  
+| bip_39_word_dash_8 | middle-river-cancel-arctic-birth-hazard-burden-amused |  
+| bip_39_word_dash_9 | middle-river-cancel-arctic-birth-hazard-burden-amused-giraffe |  
 | bip_39_word_new_br_1 | middle |  
 | bip_39_word_new_br_10 | middle<br>river<br>cancel<br>arctic<br>birth<br>hazard<br>burden<br>amused<br>giraffe<br>snap |  
 | bip_39_word_new_br_11 | middle<br>river<br>cancel<br>arctic<br>birth<br>hazard<br>burden<br>amused<br>giraffe<br>snap<br>gossip |  
@@ -147,6 +159,18 @@ giraffe |
 | bip_39_word_space_7 | middle river cancel arctic birth hazard burden |  
 | bip_39_word_space_8 | middle river cancel arctic birth hazard burden amused |  
 | bip_39_word_space_9 | middle river cancel arctic birth hazard burden amused giraffe |  
+| bip_39_word_underscore_1 | middle |  
+| bip_39_word_underscore_10 | middle_river_cancel_arctic_birth_hazard_burden_amused_giraffe_snap |  
+| bip_39_word_underscore_11 | middle_river_cancel_arctic_birth_hazard_burden_amused_giraffe_snap_gossip |  
+| bip_39_word_underscore_12 | middle_river_cancel_arctic_birth_hazard_burden_amused_giraffe_snap_gossip_advice |  
+| bip_39_word_underscore_2 | middle_river |  
+| bip_39_word_underscore_3 | middle_river_cancel |  
+| bip_39_word_underscore_4 | middle_river_cancel_arctic |  
+| bip_39_word_underscore_5 | middle_river_cancel_arctic_birth |  
+| bip_39_word_underscore_6 | middle_river_cancel_arctic_birth_hazard |  
+| bip_39_word_underscore_7 | middle_river_cancel_arctic_birth_hazard_burden |  
+| bip_39_word_underscore_8 | middle_river_cancel_arctic_birth_hazard_burden_amused |  
+| bip_39_word_underscore_9 | middle_river_cancel_arctic_birth_hazard_burden_amused_giraffe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

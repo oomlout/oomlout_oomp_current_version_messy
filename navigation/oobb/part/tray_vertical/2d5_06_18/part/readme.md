@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dinosaur |  
+| bip_39_word_dash_10 | dinosaur-husband-similar-inside-gallery-chase-depend-brass-interest-season |  
+| bip_39_word_dash_11 | dinosaur-husband-similar-inside-gallery-chase-depend-brass-interest-season-wine |  
+| bip_39_word_dash_12 | dinosaur-husband-similar-inside-gallery-chase-depend-brass-interest-season-wine-apart |  
+| bip_39_word_dash_2 | dinosaur-husband |  
+| bip_39_word_dash_3 | dinosaur-husband-similar |  
+| bip_39_word_dash_4 | dinosaur-husband-similar-inside |  
+| bip_39_word_dash_5 | dinosaur-husband-similar-inside-gallery |  
+| bip_39_word_dash_6 | dinosaur-husband-similar-inside-gallery-chase |  
+| bip_39_word_dash_7 | dinosaur-husband-similar-inside-gallery-chase-depend |  
+| bip_39_word_dash_8 | dinosaur-husband-similar-inside-gallery-chase-depend-brass |  
+| bip_39_word_dash_9 | dinosaur-husband-similar-inside-gallery-chase-depend-brass-interest |  
 | bip_39_word_new_br_1 | dinosaur |  
 | bip_39_word_new_br_10 | dinosaur<br>husband<br>similar<br>inside<br>gallery<br>chase<br>depend<br>brass<br>interest<br>season |  
 | bip_39_word_new_br_11 | dinosaur<br>husband<br>similar<br>inside<br>gallery<br>chase<br>depend<br>brass<br>interest<br>season<br>wine |  
@@ -147,6 +159,18 @@ interest |
 | bip_39_word_space_7 | dinosaur husband similar inside gallery chase depend |  
 | bip_39_word_space_8 | dinosaur husband similar inside gallery chase depend brass |  
 | bip_39_word_space_9 | dinosaur husband similar inside gallery chase depend brass interest |  
+| bip_39_word_underscore_1 | dinosaur |  
+| bip_39_word_underscore_10 | dinosaur_husband_similar_inside_gallery_chase_depend_brass_interest_season |  
+| bip_39_word_underscore_11 | dinosaur_husband_similar_inside_gallery_chase_depend_brass_interest_season_wine |  
+| bip_39_word_underscore_12 | dinosaur_husband_similar_inside_gallery_chase_depend_brass_interest_season_wine_apart |  
+| bip_39_word_underscore_2 | dinosaur_husband |  
+| bip_39_word_underscore_3 | dinosaur_husband_similar |  
+| bip_39_word_underscore_4 | dinosaur_husband_similar_inside |  
+| bip_39_word_underscore_5 | dinosaur_husband_similar_inside_gallery |  
+| bip_39_word_underscore_6 | dinosaur_husband_similar_inside_gallery_chase |  
+| bip_39_word_underscore_7 | dinosaur_husband_similar_inside_gallery_chase_depend |  
+| bip_39_word_underscore_8 | dinosaur_husband_similar_inside_gallery_chase_depend_brass |  
+| bip_39_word_underscore_9 | dinosaur_husband_similar_inside_gallery_chase_depend_brass_interest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

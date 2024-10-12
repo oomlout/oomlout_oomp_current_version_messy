@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vehicle
+bip_39_word_dash_10: vehicle-spawn-snap-hidden-practice-traffic-hard-digital-shrimp-crime
+bip_39_word_dash_11: vehicle-spawn-snap-hidden-practice-traffic-hard-digital-shrimp-crime-recycle
+bip_39_word_dash_12: vehicle-spawn-snap-hidden-practice-traffic-hard-digital-shrimp-crime-recycle-album
+bip_39_word_dash_2: vehicle-spawn
+bip_39_word_dash_3: vehicle-spawn-snap
+bip_39_word_dash_4: vehicle-spawn-snap-hidden
+bip_39_word_dash_5: vehicle-spawn-snap-hidden-practice
+bip_39_word_dash_6: vehicle-spawn-snap-hidden-practice-traffic
+bip_39_word_dash_7: vehicle-spawn-snap-hidden-practice-traffic-hard
+bip_39_word_dash_8: vehicle-spawn-snap-hidden-practice-traffic-hard-digital
+bip_39_word_dash_9: vehicle-spawn-snap-hidden-practice-traffic-hard-digital-shrimp
 bip_39_word_new_br_1: vehicle
 bip_39_word_new_br_10: vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital<br>shrimp<br>crime
 bip_39_word_new_br_11: vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital<br>shrimp<br>crime<br>recycle
@@ -194,6 +206,18 @@ bip_39_word_space_6: vehicle spawn snap hidden practice traffic
 bip_39_word_space_7: vehicle spawn snap hidden practice traffic hard
 bip_39_word_space_8: vehicle spawn snap hidden practice traffic hard digital
 bip_39_word_space_9: vehicle spawn snap hidden practice traffic hard digital shrimp
+bip_39_word_underscore_1: vehicle
+bip_39_word_underscore_10: vehicle_spawn_snap_hidden_practice_traffic_hard_digital_shrimp_crime
+bip_39_word_underscore_11: vehicle_spawn_snap_hidden_practice_traffic_hard_digital_shrimp_crime_recycle
+bip_39_word_underscore_12: vehicle_spawn_snap_hidden_practice_traffic_hard_digital_shrimp_crime_recycle_album
+bip_39_word_underscore_2: vehicle_spawn
+bip_39_word_underscore_3: vehicle_spawn_snap
+bip_39_word_underscore_4: vehicle_spawn_snap_hidden
+bip_39_word_underscore_5: vehicle_spawn_snap_hidden_practice
+bip_39_word_underscore_6: vehicle_spawn_snap_hidden_practice_traffic
+bip_39_word_underscore_7: vehicle_spawn_snap_hidden_practice_traffic_hard
+bip_39_word_underscore_8: vehicle_spawn_snap_hidden_practice_traffic_hard_digital
+bip_39_word_underscore_9: vehicle_spawn_snap_hidden_practice_traffic_hard_digital_shrimp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

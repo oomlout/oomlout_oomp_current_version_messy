@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rigid |  
+| bip_39_word_dash_10 | rigid-dirt-trim-upper-inmate-hurt-lock-slight-panel-purse |  
+| bip_39_word_dash_11 | rigid-dirt-trim-upper-inmate-hurt-lock-slight-panel-purse-mammal |  
+| bip_39_word_dash_12 | rigid-dirt-trim-upper-inmate-hurt-lock-slight-panel-purse-mammal-account |  
+| bip_39_word_dash_2 | rigid-dirt |  
+| bip_39_word_dash_3 | rigid-dirt-trim |  
+| bip_39_word_dash_4 | rigid-dirt-trim-upper |  
+| bip_39_word_dash_5 | rigid-dirt-trim-upper-inmate |  
+| bip_39_word_dash_6 | rigid-dirt-trim-upper-inmate-hurt |  
+| bip_39_word_dash_7 | rigid-dirt-trim-upper-inmate-hurt-lock |  
+| bip_39_word_dash_8 | rigid-dirt-trim-upper-inmate-hurt-lock-slight |  
+| bip_39_word_dash_9 | rigid-dirt-trim-upper-inmate-hurt-lock-slight-panel |  
 | bip_39_word_new_br_1 | rigid |  
 | bip_39_word_new_br_10 | rigid<br>dirt<br>trim<br>upper<br>inmate<br>hurt<br>lock<br>slight<br>panel<br>purse |  
 | bip_39_word_new_br_11 | rigid<br>dirt<br>trim<br>upper<br>inmate<br>hurt<br>lock<br>slight<br>panel<br>purse<br>mammal |  
@@ -147,6 +159,18 @@ panel |
 | bip_39_word_space_7 | rigid dirt trim upper inmate hurt lock |  
 | bip_39_word_space_8 | rigid dirt trim upper inmate hurt lock slight |  
 | bip_39_word_space_9 | rigid dirt trim upper inmate hurt lock slight panel |  
+| bip_39_word_underscore_1 | rigid |  
+| bip_39_word_underscore_10 | rigid_dirt_trim_upper_inmate_hurt_lock_slight_panel_purse |  
+| bip_39_word_underscore_11 | rigid_dirt_trim_upper_inmate_hurt_lock_slight_panel_purse_mammal |  
+| bip_39_word_underscore_12 | rigid_dirt_trim_upper_inmate_hurt_lock_slight_panel_purse_mammal_account |  
+| bip_39_word_underscore_2 | rigid_dirt |  
+| bip_39_word_underscore_3 | rigid_dirt_trim |  
+| bip_39_word_underscore_4 | rigid_dirt_trim_upper |  
+| bip_39_word_underscore_5 | rigid_dirt_trim_upper_inmate |  
+| bip_39_word_underscore_6 | rigid_dirt_trim_upper_inmate_hurt |  
+| bip_39_word_underscore_7 | rigid_dirt_trim_upper_inmate_hurt_lock |  
+| bip_39_word_underscore_8 | rigid_dirt_trim_upper_inmate_hurt_lock_slight |  
+| bip_39_word_underscore_9 | rigid_dirt_trim_upper_inmate_hurt_lock_slight_panel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fine
+bip_39_word_dash_10: fine-weasel-apart-learn-devote-hire-board-task-grant-any
+bip_39_word_dash_11: fine-weasel-apart-learn-devote-hire-board-task-grant-any-allow
+bip_39_word_dash_12: fine-weasel-apart-learn-devote-hire-board-task-grant-any-allow-author
+bip_39_word_dash_2: fine-weasel
+bip_39_word_dash_3: fine-weasel-apart
+bip_39_word_dash_4: fine-weasel-apart-learn
+bip_39_word_dash_5: fine-weasel-apart-learn-devote
+bip_39_word_dash_6: fine-weasel-apart-learn-devote-hire
+bip_39_word_dash_7: fine-weasel-apart-learn-devote-hire-board
+bip_39_word_dash_8: fine-weasel-apart-learn-devote-hire-board-task
+bip_39_word_dash_9: fine-weasel-apart-learn-devote-hire-board-task-grant
 bip_39_word_new_br_1: fine
 bip_39_word_new_br_10: fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task<br>grant<br>any
 bip_39_word_new_br_11: fine<br>weasel<br>apart<br>learn<br>devote<br>hire<br>board<br>task<br>grant<br>any<br>allow
@@ -192,6 +204,18 @@ bip_39_word_space_6: fine weasel apart learn devote hire
 bip_39_word_space_7: fine weasel apart learn devote hire board
 bip_39_word_space_8: fine weasel apart learn devote hire board task
 bip_39_word_space_9: fine weasel apart learn devote hire board task grant
+bip_39_word_underscore_1: fine
+bip_39_word_underscore_10: fine_weasel_apart_learn_devote_hire_board_task_grant_any
+bip_39_word_underscore_11: fine_weasel_apart_learn_devote_hire_board_task_grant_any_allow
+bip_39_word_underscore_12: fine_weasel_apart_learn_devote_hire_board_task_grant_any_allow_author
+bip_39_word_underscore_2: fine_weasel
+bip_39_word_underscore_3: fine_weasel_apart
+bip_39_word_underscore_4: fine_weasel_apart_learn
+bip_39_word_underscore_5: fine_weasel_apart_learn_devote
+bip_39_word_underscore_6: fine_weasel_apart_learn_devote_hire
+bip_39_word_underscore_7: fine_weasel_apart_learn_devote_hire_board
+bip_39_word_underscore_8: fine_weasel_apart_learn_devote_hire_board_task
+bip_39_word_underscore_9: fine_weasel_apart_learn_devote_hire_board_task_grant
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

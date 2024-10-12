@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shadow |  
+| bip_39_word_dash_10 | shadow-rely-grain-meadow-split-voice-comic-cry-yellow-post |  
+| bip_39_word_dash_11 | shadow-rely-grain-meadow-split-voice-comic-cry-yellow-post-direct |  
+| bip_39_word_dash_12 | shadow-rely-grain-meadow-split-voice-comic-cry-yellow-post-direct-analyst |  
+| bip_39_word_dash_2 | shadow-rely |  
+| bip_39_word_dash_3 | shadow-rely-grain |  
+| bip_39_word_dash_4 | shadow-rely-grain-meadow |  
+| bip_39_word_dash_5 | shadow-rely-grain-meadow-split |  
+| bip_39_word_dash_6 | shadow-rely-grain-meadow-split-voice |  
+| bip_39_word_dash_7 | shadow-rely-grain-meadow-split-voice-comic |  
+| bip_39_word_dash_8 | shadow-rely-grain-meadow-split-voice-comic-cry |  
+| bip_39_word_dash_9 | shadow-rely-grain-meadow-split-voice-comic-cry-yellow |  
 | bip_39_word_new_br_1 | shadow |  
 | bip_39_word_new_br_10 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry<br>yellow<br>post |  
 | bip_39_word_new_br_11 | shadow<br>rely<br>grain<br>meadow<br>split<br>voice<br>comic<br>cry<br>yellow<br>post<br>direct |  
@@ -147,6 +159,18 @@ yellow |
 | bip_39_word_space_7 | shadow rely grain meadow split voice comic |  
 | bip_39_word_space_8 | shadow rely grain meadow split voice comic cry |  
 | bip_39_word_space_9 | shadow rely grain meadow split voice comic cry yellow |  
+| bip_39_word_underscore_1 | shadow |  
+| bip_39_word_underscore_10 | shadow_rely_grain_meadow_split_voice_comic_cry_yellow_post |  
+| bip_39_word_underscore_11 | shadow_rely_grain_meadow_split_voice_comic_cry_yellow_post_direct |  
+| bip_39_word_underscore_12 | shadow_rely_grain_meadow_split_voice_comic_cry_yellow_post_direct_analyst |  
+| bip_39_word_underscore_2 | shadow_rely |  
+| bip_39_word_underscore_3 | shadow_rely_grain |  
+| bip_39_word_underscore_4 | shadow_rely_grain_meadow |  
+| bip_39_word_underscore_5 | shadow_rely_grain_meadow_split |  
+| bip_39_word_underscore_6 | shadow_rely_grain_meadow_split_voice |  
+| bip_39_word_underscore_7 | shadow_rely_grain_meadow_split_voice_comic |  
+| bip_39_word_underscore_8 | shadow_rely_grain_meadow_split_voice_comic_cry |  
+| bip_39_word_underscore_9 | shadow_rely_grain_meadow_split_voice_comic_cry_yellow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

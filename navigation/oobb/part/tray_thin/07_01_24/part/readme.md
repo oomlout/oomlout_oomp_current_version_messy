@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frog |  
+| bip_39_word_dash_10 | frog-legend-monitor-benefit-attack-pipe-tray-kit-little-boy |  
+| bip_39_word_dash_11 | frog-legend-monitor-benefit-attack-pipe-tray-kit-little-boy-amazing |  
+| bip_39_word_dash_12 | frog-legend-monitor-benefit-attack-pipe-tray-kit-little-boy-amazing-attitude |  
+| bip_39_word_dash_2 | frog-legend |  
+| bip_39_word_dash_3 | frog-legend-monitor |  
+| bip_39_word_dash_4 | frog-legend-monitor-benefit |  
+| bip_39_word_dash_5 | frog-legend-monitor-benefit-attack |  
+| bip_39_word_dash_6 | frog-legend-monitor-benefit-attack-pipe |  
+| bip_39_word_dash_7 | frog-legend-monitor-benefit-attack-pipe-tray |  
+| bip_39_word_dash_8 | frog-legend-monitor-benefit-attack-pipe-tray-kit |  
+| bip_39_word_dash_9 | frog-legend-monitor-benefit-attack-pipe-tray-kit-little |  
 | bip_39_word_new_br_1 | frog |  
 | bip_39_word_new_br_10 | frog<br>legend<br>monitor<br>benefit<br>attack<br>pipe<br>tray<br>kit<br>little<br>boy |  
 | bip_39_word_new_br_11 | frog<br>legend<br>monitor<br>benefit<br>attack<br>pipe<br>tray<br>kit<br>little<br>boy<br>amazing |  
@@ -147,6 +159,18 @@ little |
 | bip_39_word_space_7 | frog legend monitor benefit attack pipe tray |  
 | bip_39_word_space_8 | frog legend monitor benefit attack pipe tray kit |  
 | bip_39_word_space_9 | frog legend monitor benefit attack pipe tray kit little |  
+| bip_39_word_underscore_1 | frog |  
+| bip_39_word_underscore_10 | frog_legend_monitor_benefit_attack_pipe_tray_kit_little_boy |  
+| bip_39_word_underscore_11 | frog_legend_monitor_benefit_attack_pipe_tray_kit_little_boy_amazing |  
+| bip_39_word_underscore_12 | frog_legend_monitor_benefit_attack_pipe_tray_kit_little_boy_amazing_attitude |  
+| bip_39_word_underscore_2 | frog_legend |  
+| bip_39_word_underscore_3 | frog_legend_monitor |  
+| bip_39_word_underscore_4 | frog_legend_monitor_benefit |  
+| bip_39_word_underscore_5 | frog_legend_monitor_benefit_attack |  
+| bip_39_word_underscore_6 | frog_legend_monitor_benefit_attack_pipe |  
+| bip_39_word_underscore_7 | frog_legend_monitor_benefit_attack_pipe_tray |  
+| bip_39_word_underscore_8 | frog_legend_monitor_benefit_attack_pipe_tray_kit |  
+| bip_39_word_underscore_9 | frog_legend_monitor_benefit_attack_pipe_tray_kit_little |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

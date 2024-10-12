@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | magnet |  
+| bip_39_word_dash_10 | magnet-gentle-critic-praise-arm-cloud-cloth-twenty-price-math |  
+| bip_39_word_dash_11 | magnet-gentle-critic-praise-arm-cloud-cloth-twenty-price-math-child |  
+| bip_39_word_dash_12 | magnet-gentle-critic-praise-arm-cloud-cloth-twenty-price-math-child-aerobic |  
+| bip_39_word_dash_2 | magnet-gentle |  
+| bip_39_word_dash_3 | magnet-gentle-critic |  
+| bip_39_word_dash_4 | magnet-gentle-critic-praise |  
+| bip_39_word_dash_5 | magnet-gentle-critic-praise-arm |  
+| bip_39_word_dash_6 | magnet-gentle-critic-praise-arm-cloud |  
+| bip_39_word_dash_7 | magnet-gentle-critic-praise-arm-cloud-cloth |  
+| bip_39_word_dash_8 | magnet-gentle-critic-praise-arm-cloud-cloth-twenty |  
+| bip_39_word_dash_9 | magnet-gentle-critic-praise-arm-cloud-cloth-twenty-price |  
 | bip_39_word_new_br_1 | magnet |  
 | bip_39_word_new_br_10 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math |  
 | bip_39_word_new_br_11 | magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math<br>child |  
@@ -147,6 +159,18 @@ price |
 | bip_39_word_space_7 | magnet gentle critic praise arm cloud cloth |  
 | bip_39_word_space_8 | magnet gentle critic praise arm cloud cloth twenty |  
 | bip_39_word_space_9 | magnet gentle critic praise arm cloud cloth twenty price |  
+| bip_39_word_underscore_1 | magnet |  
+| bip_39_word_underscore_10 | magnet_gentle_critic_praise_arm_cloud_cloth_twenty_price_math |  
+| bip_39_word_underscore_11 | magnet_gentle_critic_praise_arm_cloud_cloth_twenty_price_math_child |  
+| bip_39_word_underscore_12 | magnet_gentle_critic_praise_arm_cloud_cloth_twenty_price_math_child_aerobic |  
+| bip_39_word_underscore_2 | magnet_gentle |  
+| bip_39_word_underscore_3 | magnet_gentle_critic |  
+| bip_39_word_underscore_4 | magnet_gentle_critic_praise |  
+| bip_39_word_underscore_5 | magnet_gentle_critic_praise_arm |  
+| bip_39_word_underscore_6 | magnet_gentle_critic_praise_arm_cloud |  
+| bip_39_word_underscore_7 | magnet_gentle_critic_praise_arm_cloud_cloth |  
+| bip_39_word_underscore_8 | magnet_gentle_critic_praise_arm_cloud_cloth_twenty |  
+| bip_39_word_underscore_9 | magnet_gentle_critic_praise_arm_cloud_cloth_twenty_price |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

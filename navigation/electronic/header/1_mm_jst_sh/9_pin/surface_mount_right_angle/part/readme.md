@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | belt |  
+| bip_39_word_dash_10 | belt-people-because-comic-average-nominee-embark-surge-bacon-question |  
+| bip_39_word_dash_11 | belt-people-because-comic-average-nominee-embark-surge-bacon-question-swim |  
+| bip_39_word_dash_12 | belt-people-because-comic-average-nominee-embark-surge-bacon-question-swim-arctic |  
+| bip_39_word_dash_2 | belt-people |  
+| bip_39_word_dash_3 | belt-people-because |  
+| bip_39_word_dash_4 | belt-people-because-comic |  
+| bip_39_word_dash_5 | belt-people-because-comic-average |  
+| bip_39_word_dash_6 | belt-people-because-comic-average-nominee |  
+| bip_39_word_dash_7 | belt-people-because-comic-average-nominee-embark |  
+| bip_39_word_dash_8 | belt-people-because-comic-average-nominee-embark-surge |  
+| bip_39_word_dash_9 | belt-people-because-comic-average-nominee-embark-surge-bacon |  
 | bip_39_word_new_br_1 | belt |  
 | bip_39_word_new_br_10 | belt<br>people<br>because<br>comic<br>average<br>nominee<br>embark<br>surge<br>bacon<br>question |  
 | bip_39_word_new_br_11 | belt<br>people<br>because<br>comic<br>average<br>nominee<br>embark<br>surge<br>bacon<br>question<br>swim |  
@@ -147,6 +159,18 @@ bacon |
 | bip_39_word_space_7 | belt people because comic average nominee embark |  
 | bip_39_word_space_8 | belt people because comic average nominee embark surge |  
 | bip_39_word_space_9 | belt people because comic average nominee embark surge bacon |  
+| bip_39_word_underscore_1 | belt |  
+| bip_39_word_underscore_10 | belt_people_because_comic_average_nominee_embark_surge_bacon_question |  
+| bip_39_word_underscore_11 | belt_people_because_comic_average_nominee_embark_surge_bacon_question_swim |  
+| bip_39_word_underscore_12 | belt_people_because_comic_average_nominee_embark_surge_bacon_question_swim_arctic |  
+| bip_39_word_underscore_2 | belt_people |  
+| bip_39_word_underscore_3 | belt_people_because |  
+| bip_39_word_underscore_4 | belt_people_because_comic |  
+| bip_39_word_underscore_5 | belt_people_because_comic_average |  
+| bip_39_word_underscore_6 | belt_people_because_comic_average_nominee |  
+| bip_39_word_underscore_7 | belt_people_because_comic_average_nominee_embark |  
+| bip_39_word_underscore_8 | belt_people_because_comic_average_nominee_embark_surge |  
+| bip_39_word_underscore_9 | belt_people_because_comic_average_nominee_embark_surge_bacon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

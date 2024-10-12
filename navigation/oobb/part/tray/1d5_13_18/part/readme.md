@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spell |  
+| bip_39_word_dash_10 | spell-manage-logic-ivory-snap-transfer-tissue-fluid-work-foil |  
+| bip_39_word_dash_11 | spell-manage-logic-ivory-snap-transfer-tissue-fluid-work-foil-horse |  
+| bip_39_word_dash_12 | spell-manage-logic-ivory-snap-transfer-tissue-fluid-work-foil-horse-air |  
+| bip_39_word_dash_2 | spell-manage |  
+| bip_39_word_dash_3 | spell-manage-logic |  
+| bip_39_word_dash_4 | spell-manage-logic-ivory |  
+| bip_39_word_dash_5 | spell-manage-logic-ivory-snap |  
+| bip_39_word_dash_6 | spell-manage-logic-ivory-snap-transfer |  
+| bip_39_word_dash_7 | spell-manage-logic-ivory-snap-transfer-tissue |  
+| bip_39_word_dash_8 | spell-manage-logic-ivory-snap-transfer-tissue-fluid |  
+| bip_39_word_dash_9 | spell-manage-logic-ivory-snap-transfer-tissue-fluid-work |  
 | bip_39_word_new_br_1 | spell |  
 | bip_39_word_new_br_10 | spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid<br>work<br>foil |  
 | bip_39_word_new_br_11 | spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid<br>work<br>foil<br>horse |  
@@ -147,6 +159,18 @@ work |
 | bip_39_word_space_7 | spell manage logic ivory snap transfer tissue |  
 | bip_39_word_space_8 | spell manage logic ivory snap transfer tissue fluid |  
 | bip_39_word_space_9 | spell manage logic ivory snap transfer tissue fluid work |  
+| bip_39_word_underscore_1 | spell |  
+| bip_39_word_underscore_10 | spell_manage_logic_ivory_snap_transfer_tissue_fluid_work_foil |  
+| bip_39_word_underscore_11 | spell_manage_logic_ivory_snap_transfer_tissue_fluid_work_foil_horse |  
+| bip_39_word_underscore_12 | spell_manage_logic_ivory_snap_transfer_tissue_fluid_work_foil_horse_air |  
+| bip_39_word_underscore_2 | spell_manage |  
+| bip_39_word_underscore_3 | spell_manage_logic |  
+| bip_39_word_underscore_4 | spell_manage_logic_ivory |  
+| bip_39_word_underscore_5 | spell_manage_logic_ivory_snap |  
+| bip_39_word_underscore_6 | spell_manage_logic_ivory_snap_transfer |  
+| bip_39_word_underscore_7 | spell_manage_logic_ivory_snap_transfer_tissue |  
+| bip_39_word_underscore_8 | spell_manage_logic_ivory_snap_transfer_tissue_fluid |  
+| bip_39_word_underscore_9 | spell_manage_logic_ivory_snap_transfer_tissue_fluid_work |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

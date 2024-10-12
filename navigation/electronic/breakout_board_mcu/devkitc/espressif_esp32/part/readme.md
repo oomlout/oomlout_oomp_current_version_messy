@@ -32,6 +32,18 @@ Devkitc pinout version of espresif esp32 breakout.
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | avoid |  
+| bip_39_word_dash_10 | avoid-custom-weekend-claw-pair-analyst-garden-action-garage-follow |  
+| bip_39_word_dash_11 | avoid-custom-weekend-claw-pair-analyst-garden-action-garage-follow-such |  
+| bip_39_word_dash_12 | avoid-custom-weekend-claw-pair-analyst-garden-action-garage-follow-such-aunt |  
+| bip_39_word_dash_2 | avoid-custom |  
+| bip_39_word_dash_3 | avoid-custom-weekend |  
+| bip_39_word_dash_4 | avoid-custom-weekend-claw |  
+| bip_39_word_dash_5 | avoid-custom-weekend-claw-pair |  
+| bip_39_word_dash_6 | avoid-custom-weekend-claw-pair-analyst |  
+| bip_39_word_dash_7 | avoid-custom-weekend-claw-pair-analyst-garden |  
+| bip_39_word_dash_8 | avoid-custom-weekend-claw-pair-analyst-garden-action |  
+| bip_39_word_dash_9 | avoid-custom-weekend-claw-pair-analyst-garden-action-garage |  
 | bip_39_word_new_br_1 | avoid |  
 | bip_39_word_new_br_10 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action<br>garage<br>follow |  
 | bip_39_word_new_br_11 | avoid<br>custom<br>weekend<br>claw<br>pair<br>analyst<br>garden<br>action<br>garage<br>follow<br>such |  
@@ -147,6 +159,18 @@ garage |
 | bip_39_word_space_7 | avoid custom weekend claw pair analyst garden |  
 | bip_39_word_space_8 | avoid custom weekend claw pair analyst garden action |  
 | bip_39_word_space_9 | avoid custom weekend claw pair analyst garden action garage |  
+| bip_39_word_underscore_1 | avoid |  
+| bip_39_word_underscore_10 | avoid_custom_weekend_claw_pair_analyst_garden_action_garage_follow |  
+| bip_39_word_underscore_11 | avoid_custom_weekend_claw_pair_analyst_garden_action_garage_follow_such |  
+| bip_39_word_underscore_12 | avoid_custom_weekend_claw_pair_analyst_garden_action_garage_follow_such_aunt |  
+| bip_39_word_underscore_2 | avoid_custom |  
+| bip_39_word_underscore_3 | avoid_custom_weekend |  
+| bip_39_word_underscore_4 | avoid_custom_weekend_claw |  
+| bip_39_word_underscore_5 | avoid_custom_weekend_claw_pair |  
+| bip_39_word_underscore_6 | avoid_custom_weekend_claw_pair_analyst |  
+| bip_39_word_underscore_7 | avoid_custom_weekend_claw_pair_analyst_garden |  
+| bip_39_word_underscore_8 | avoid_custom_weekend_claw_pair_analyst_garden_action |  
+| bip_39_word_underscore_9 | avoid_custom_weekend_claw_pair_analyst_garden_action_garage |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

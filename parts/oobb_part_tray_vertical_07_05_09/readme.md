@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | country |  
+| bip_39_word_dash_10 | country-hood-banner-quick-camp-stock-note-action-glove-term |  
+| bip_39_word_dash_11 | country-hood-banner-quick-camp-stock-note-action-glove-term-defy |  
+| bip_39_word_dash_12 | country-hood-banner-quick-camp-stock-note-action-glove-term-defy-athlete |  
+| bip_39_word_dash_2 | country-hood |  
+| bip_39_word_dash_3 | country-hood-banner |  
+| bip_39_word_dash_4 | country-hood-banner-quick |  
+| bip_39_word_dash_5 | country-hood-banner-quick-camp |  
+| bip_39_word_dash_6 | country-hood-banner-quick-camp-stock |  
+| bip_39_word_dash_7 | country-hood-banner-quick-camp-stock-note |  
+| bip_39_word_dash_8 | country-hood-banner-quick-camp-stock-note-action |  
+| bip_39_word_dash_9 | country-hood-banner-quick-camp-stock-note-action-glove |  
 | bip_39_word_new_br_1 | country |  
 | bip_39_word_new_br_10 | country<br>hood<br>banner<br>quick<br>camp<br>stock<br>note<br>action<br>glove<br>term |  
 | bip_39_word_new_br_11 | country<br>hood<br>banner<br>quick<br>camp<br>stock<br>note<br>action<br>glove<br>term<br>defy |  
@@ -147,6 +159,18 @@ glove |
 | bip_39_word_space_7 | country hood banner quick camp stock note |  
 | bip_39_word_space_8 | country hood banner quick camp stock note action |  
 | bip_39_word_space_9 | country hood banner quick camp stock note action glove |  
+| bip_39_word_underscore_1 | country |  
+| bip_39_word_underscore_10 | country_hood_banner_quick_camp_stock_note_action_glove_term |  
+| bip_39_word_underscore_11 | country_hood_banner_quick_camp_stock_note_action_glove_term_defy |  
+| bip_39_word_underscore_12 | country_hood_banner_quick_camp_stock_note_action_glove_term_defy_athlete |  
+| bip_39_word_underscore_2 | country_hood |  
+| bip_39_word_underscore_3 | country_hood_banner |  
+| bip_39_word_underscore_4 | country_hood_banner_quick |  
+| bip_39_word_underscore_5 | country_hood_banner_quick_camp |  
+| bip_39_word_underscore_6 | country_hood_banner_quick_camp_stock |  
+| bip_39_word_underscore_7 | country_hood_banner_quick_camp_stock_note |  
+| bip_39_word_underscore_8 | country_hood_banner_quick_camp_stock_note_action |  
+| bip_39_word_underscore_9 | country_hood_banner_quick_camp_stock_note_action_glove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

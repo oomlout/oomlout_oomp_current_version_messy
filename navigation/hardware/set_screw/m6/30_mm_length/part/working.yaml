@@ -1,3 +1,15 @@
+bip_39_word_dash_1: alien
+bip_39_word_dash_10: alien-borrow-glimpse-road-addict-bone-job-relax-hero-diet
+bip_39_word_dash_11: alien-borrow-glimpse-road-addict-bone-job-relax-hero-diet-broccoli
+bip_39_word_dash_12: alien-borrow-glimpse-road-addict-bone-job-relax-hero-diet-broccoli-anchor
+bip_39_word_dash_2: alien-borrow
+bip_39_word_dash_3: alien-borrow-glimpse
+bip_39_word_dash_4: alien-borrow-glimpse-road
+bip_39_word_dash_5: alien-borrow-glimpse-road-addict
+bip_39_word_dash_6: alien-borrow-glimpse-road-addict-bone
+bip_39_word_dash_7: alien-borrow-glimpse-road-addict-bone-job
+bip_39_word_dash_8: alien-borrow-glimpse-road-addict-bone-job-relax
+bip_39_word_dash_9: alien-borrow-glimpse-road-addict-bone-job-relax-hero
 bip_39_word_new_br_1: alien
 bip_39_word_new_br_10: alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet
 bip_39_word_new_br_11: alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet<br>broccoli
@@ -192,6 +204,18 @@ bip_39_word_space_6: alien borrow glimpse road addict bone
 bip_39_word_space_7: alien borrow glimpse road addict bone job
 bip_39_word_space_8: alien borrow glimpse road addict bone job relax
 bip_39_word_space_9: alien borrow glimpse road addict bone job relax hero
+bip_39_word_underscore_1: alien
+bip_39_word_underscore_10: alien_borrow_glimpse_road_addict_bone_job_relax_hero_diet
+bip_39_word_underscore_11: alien_borrow_glimpse_road_addict_bone_job_relax_hero_diet_broccoli
+bip_39_word_underscore_12: alien_borrow_glimpse_road_addict_bone_job_relax_hero_diet_broccoli_anchor
+bip_39_word_underscore_2: alien_borrow
+bip_39_word_underscore_3: alien_borrow_glimpse
+bip_39_word_underscore_4: alien_borrow_glimpse_road
+bip_39_word_underscore_5: alien_borrow_glimpse_road_addict
+bip_39_word_underscore_6: alien_borrow_glimpse_road_addict_bone
+bip_39_word_underscore_7: alien_borrow_glimpse_road_addict_bone_job
+bip_39_word_underscore_8: alien_borrow_glimpse_road_addict_bone_job_relax
+bip_39_word_underscore_9: alien_borrow_glimpse_road_addict_bone_job_relax_hero
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

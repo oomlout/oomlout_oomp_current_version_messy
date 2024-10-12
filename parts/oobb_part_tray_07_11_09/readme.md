@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | type |  
+| bip_39_word_dash_10 | type-crystal-cradle-brisk-asset-language-brief-shoot-chair-shoe |  
+| bip_39_word_dash_11 | type-crystal-cradle-brisk-asset-language-brief-shoot-chair-shoe-tunnel |  
+| bip_39_word_dash_12 | type-crystal-cradle-brisk-asset-language-brief-shoot-chair-shoe-tunnel-alert |  
+| bip_39_word_dash_2 | type-crystal |  
+| bip_39_word_dash_3 | type-crystal-cradle |  
+| bip_39_word_dash_4 | type-crystal-cradle-brisk |  
+| bip_39_word_dash_5 | type-crystal-cradle-brisk-asset |  
+| bip_39_word_dash_6 | type-crystal-cradle-brisk-asset-language |  
+| bip_39_word_dash_7 | type-crystal-cradle-brisk-asset-language-brief |  
+| bip_39_word_dash_8 | type-crystal-cradle-brisk-asset-language-brief-shoot |  
+| bip_39_word_dash_9 | type-crystal-cradle-brisk-asset-language-brief-shoot-chair |  
 | bip_39_word_new_br_1 | type |  
 | bip_39_word_new_br_10 | type<br>crystal<br>cradle<br>brisk<br>asset<br>language<br>brief<br>shoot<br>chair<br>shoe |  
 | bip_39_word_new_br_11 | type<br>crystal<br>cradle<br>brisk<br>asset<br>language<br>brief<br>shoot<br>chair<br>shoe<br>tunnel |  
@@ -147,6 +159,18 @@ chair |
 | bip_39_word_space_7 | type crystal cradle brisk asset language brief |  
 | bip_39_word_space_8 | type crystal cradle brisk asset language brief shoot |  
 | bip_39_word_space_9 | type crystal cradle brisk asset language brief shoot chair |  
+| bip_39_word_underscore_1 | type |  
+| bip_39_word_underscore_10 | type_crystal_cradle_brisk_asset_language_brief_shoot_chair_shoe |  
+| bip_39_word_underscore_11 | type_crystal_cradle_brisk_asset_language_brief_shoot_chair_shoe_tunnel |  
+| bip_39_word_underscore_12 | type_crystal_cradle_brisk_asset_language_brief_shoot_chair_shoe_tunnel_alert |  
+| bip_39_word_underscore_2 | type_crystal |  
+| bip_39_word_underscore_3 | type_crystal_cradle |  
+| bip_39_word_underscore_4 | type_crystal_cradle_brisk |  
+| bip_39_word_underscore_5 | type_crystal_cradle_brisk_asset |  
+| bip_39_word_underscore_6 | type_crystal_cradle_brisk_asset_language |  
+| bip_39_word_underscore_7 | type_crystal_cradle_brisk_asset_language_brief |  
+| bip_39_word_underscore_8 | type_crystal_cradle_brisk_asset_language_brief_shoot |  
+| bip_39_word_underscore_9 | type_crystal_cradle_brisk_asset_language_brief_shoot_chair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

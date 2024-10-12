@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | salute |  
+| bip_39_word_dash_10 | salute-quote-where-truly-find-damage-beef-rent-fatal-voice |  
+| bip_39_word_dash_11 | salute-quote-where-truly-find-damage-beef-rent-fatal-voice-you |  
+| bip_39_word_dash_12 | salute-quote-where-truly-find-damage-beef-rent-fatal-voice-you-all |  
+| bip_39_word_dash_2 | salute-quote |  
+| bip_39_word_dash_3 | salute-quote-where |  
+| bip_39_word_dash_4 | salute-quote-where-truly |  
+| bip_39_word_dash_5 | salute-quote-where-truly-find |  
+| bip_39_word_dash_6 | salute-quote-where-truly-find-damage |  
+| bip_39_word_dash_7 | salute-quote-where-truly-find-damage-beef |  
+| bip_39_word_dash_8 | salute-quote-where-truly-find-damage-beef-rent |  
+| bip_39_word_dash_9 | salute-quote-where-truly-find-damage-beef-rent-fatal |  
 | bip_39_word_new_br_1 | salute |  
 | bip_39_word_new_br_10 | salute<br>quote<br>where<br>truly<br>find<br>damage<br>beef<br>rent<br>fatal<br>voice |  
 | bip_39_word_new_br_11 | salute<br>quote<br>where<br>truly<br>find<br>damage<br>beef<br>rent<br>fatal<br>voice<br>you |  
@@ -147,6 +159,18 @@ fatal |
 | bip_39_word_space_7 | salute quote where truly find damage beef |  
 | bip_39_word_space_8 | salute quote where truly find damage beef rent |  
 | bip_39_word_space_9 | salute quote where truly find damage beef rent fatal |  
+| bip_39_word_underscore_1 | salute |  
+| bip_39_word_underscore_10 | salute_quote_where_truly_find_damage_beef_rent_fatal_voice |  
+| bip_39_word_underscore_11 | salute_quote_where_truly_find_damage_beef_rent_fatal_voice_you |  
+| bip_39_word_underscore_12 | salute_quote_where_truly_find_damage_beef_rent_fatal_voice_you_all |  
+| bip_39_word_underscore_2 | salute_quote |  
+| bip_39_word_underscore_3 | salute_quote_where |  
+| bip_39_word_underscore_4 | salute_quote_where_truly |  
+| bip_39_word_underscore_5 | salute_quote_where_truly_find |  
+| bip_39_word_underscore_6 | salute_quote_where_truly_find_damage |  
+| bip_39_word_underscore_7 | salute_quote_where_truly_find_damage_beef |  
+| bip_39_word_underscore_8 | salute_quote_where_truly_find_damage_beef_rent |  
+| bip_39_word_underscore_9 | salute_quote_where_truly_find_damage_beef_rent_fatal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

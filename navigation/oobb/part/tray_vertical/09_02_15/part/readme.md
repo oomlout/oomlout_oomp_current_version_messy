@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kind |  
+| bip_39_word_dash_10 | kind-book-awake-kiss-congress-bullet-connect-monkey-leisure-letter |  
+| bip_39_word_dash_11 | kind-book-awake-kiss-congress-bullet-connect-monkey-leisure-letter-shrug |  
+| bip_39_word_dash_12 | kind-book-awake-kiss-congress-bullet-connect-monkey-leisure-letter-shrug-acquire |  
+| bip_39_word_dash_2 | kind-book |  
+| bip_39_word_dash_3 | kind-book-awake |  
+| bip_39_word_dash_4 | kind-book-awake-kiss |  
+| bip_39_word_dash_5 | kind-book-awake-kiss-congress |  
+| bip_39_word_dash_6 | kind-book-awake-kiss-congress-bullet |  
+| bip_39_word_dash_7 | kind-book-awake-kiss-congress-bullet-connect |  
+| bip_39_word_dash_8 | kind-book-awake-kiss-congress-bullet-connect-monkey |  
+| bip_39_word_dash_9 | kind-book-awake-kiss-congress-bullet-connect-monkey-leisure |  
 | bip_39_word_new_br_1 | kind |  
 | bip_39_word_new_br_10 | kind<br>book<br>awake<br>kiss<br>congress<br>bullet<br>connect<br>monkey<br>leisure<br>letter |  
 | bip_39_word_new_br_11 | kind<br>book<br>awake<br>kiss<br>congress<br>bullet<br>connect<br>monkey<br>leisure<br>letter<br>shrug |  
@@ -147,6 +159,18 @@ leisure |
 | bip_39_word_space_7 | kind book awake kiss congress bullet connect |  
 | bip_39_word_space_8 | kind book awake kiss congress bullet connect monkey |  
 | bip_39_word_space_9 | kind book awake kiss congress bullet connect monkey leisure |  
+| bip_39_word_underscore_1 | kind |  
+| bip_39_word_underscore_10 | kind_book_awake_kiss_congress_bullet_connect_monkey_leisure_letter |  
+| bip_39_word_underscore_11 | kind_book_awake_kiss_congress_bullet_connect_monkey_leisure_letter_shrug |  
+| bip_39_word_underscore_12 | kind_book_awake_kiss_congress_bullet_connect_monkey_leisure_letter_shrug_acquire |  
+| bip_39_word_underscore_2 | kind_book |  
+| bip_39_word_underscore_3 | kind_book_awake |  
+| bip_39_word_underscore_4 | kind_book_awake_kiss |  
+| bip_39_word_underscore_5 | kind_book_awake_kiss_congress |  
+| bip_39_word_underscore_6 | kind_book_awake_kiss_congress_bullet |  
+| bip_39_word_underscore_7 | kind_book_awake_kiss_congress_bullet_connect |  
+| bip_39_word_underscore_8 | kind_book_awake_kiss_congress_bullet_connect_monkey |  
+| bip_39_word_underscore_9 | kind_book_awake_kiss_congress_bullet_connect_monkey_leisure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

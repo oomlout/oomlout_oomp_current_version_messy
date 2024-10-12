@@ -1,3 +1,15 @@
+bip_39_word_dash_1: swarm
+bip_39_word_dash_10: swarm-confirm-symptom-police-giggle-more-position-code-faculty-dry
+bip_39_word_dash_11: swarm-confirm-symptom-police-giggle-more-position-code-faculty-dry-hold
+bip_39_word_dash_12: swarm-confirm-symptom-police-giggle-more-position-code-faculty-dry-hold-around
+bip_39_word_dash_2: swarm-confirm
+bip_39_word_dash_3: swarm-confirm-symptom
+bip_39_word_dash_4: swarm-confirm-symptom-police
+bip_39_word_dash_5: swarm-confirm-symptom-police-giggle
+bip_39_word_dash_6: swarm-confirm-symptom-police-giggle-more
+bip_39_word_dash_7: swarm-confirm-symptom-police-giggle-more-position
+bip_39_word_dash_8: swarm-confirm-symptom-police-giggle-more-position-code
+bip_39_word_dash_9: swarm-confirm-symptom-police-giggle-more-position-code-faculty
 bip_39_word_new_br_1: swarm
 bip_39_word_new_br_10: swarm<br>confirm<br>symptom<br>police<br>giggle<br>more<br>position<br>code<br>faculty<br>dry
 bip_39_word_new_br_11: swarm<br>confirm<br>symptom<br>police<br>giggle<br>more<br>position<br>code<br>faculty<br>dry<br>hold
@@ -194,6 +206,18 @@ bip_39_word_space_6: swarm confirm symptom police giggle more
 bip_39_word_space_7: swarm confirm symptom police giggle more position
 bip_39_word_space_8: swarm confirm symptom police giggle more position code
 bip_39_word_space_9: swarm confirm symptom police giggle more position code faculty
+bip_39_word_underscore_1: swarm
+bip_39_word_underscore_10: swarm_confirm_symptom_police_giggle_more_position_code_faculty_dry
+bip_39_word_underscore_11: swarm_confirm_symptom_police_giggle_more_position_code_faculty_dry_hold
+bip_39_word_underscore_12: swarm_confirm_symptom_police_giggle_more_position_code_faculty_dry_hold_around
+bip_39_word_underscore_2: swarm_confirm
+bip_39_word_underscore_3: swarm_confirm_symptom
+bip_39_word_underscore_4: swarm_confirm_symptom_police
+bip_39_word_underscore_5: swarm_confirm_symptom_police_giggle
+bip_39_word_underscore_6: swarm_confirm_symptom_police_giggle_more
+bip_39_word_underscore_7: swarm_confirm_symptom_police_giggle_more_position
+bip_39_word_underscore_8: swarm_confirm_symptom_police_giggle_more_position_code
+bip_39_word_underscore_9: swarm_confirm_symptom_police_giggle_more_position_code_faculty
 classification: food
 classification_capital: Food
 classification_first_letter: f

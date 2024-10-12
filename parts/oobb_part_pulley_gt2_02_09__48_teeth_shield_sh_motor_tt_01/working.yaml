@@ -1,3 +1,15 @@
+bip_39_word_dash_1: define
+bip_39_word_dash_10: define-snack-cactus-elbow-page-illness-divert-praise-cable-property
+bip_39_word_dash_11: define-snack-cactus-elbow-page-illness-divert-praise-cable-property-stereo
+bip_39_word_dash_12: define-snack-cactus-elbow-page-illness-divert-praise-cable-property-stereo-almost
+bip_39_word_dash_2: define-snack
+bip_39_word_dash_3: define-snack-cactus
+bip_39_word_dash_4: define-snack-cactus-elbow
+bip_39_word_dash_5: define-snack-cactus-elbow-page
+bip_39_word_dash_6: define-snack-cactus-elbow-page-illness
+bip_39_word_dash_7: define-snack-cactus-elbow-page-illness-divert
+bip_39_word_dash_8: define-snack-cactus-elbow-page-illness-divert-praise
+bip_39_word_dash_9: define-snack-cactus-elbow-page-illness-divert-praise-cable
 bip_39_word_new_br_1: define
 bip_39_word_new_br_10: define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise<br>cable<br>property
 bip_39_word_new_br_11: define<br>snack<br>cactus<br>elbow<br>page<br>illness<br>divert<br>praise<br>cable<br>property<br>stereo
@@ -193,6 +205,18 @@ bip_39_word_space_6: define snack cactus elbow page illness
 bip_39_word_space_7: define snack cactus elbow page illness divert
 bip_39_word_space_8: define snack cactus elbow page illness divert praise
 bip_39_word_space_9: define snack cactus elbow page illness divert praise cable
+bip_39_word_underscore_1: define
+bip_39_word_underscore_10: define_snack_cactus_elbow_page_illness_divert_praise_cable_property
+bip_39_word_underscore_11: define_snack_cactus_elbow_page_illness_divert_praise_cable_property_stereo
+bip_39_word_underscore_12: define_snack_cactus_elbow_page_illness_divert_praise_cable_property_stereo_almost
+bip_39_word_underscore_2: define_snack
+bip_39_word_underscore_3: define_snack_cactus
+bip_39_word_underscore_4: define_snack_cactus_elbow
+bip_39_word_underscore_5: define_snack_cactus_elbow_page
+bip_39_word_underscore_6: define_snack_cactus_elbow_page_illness
+bip_39_word_underscore_7: define_snack_cactus_elbow_page_illness_divert
+bip_39_word_underscore_8: define_snack_cactus_elbow_page_illness_divert_praise
+bip_39_word_underscore_9: define_snack_cactus_elbow_page_illness_divert_praise_cable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

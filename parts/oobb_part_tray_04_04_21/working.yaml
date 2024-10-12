@@ -1,3 +1,15 @@
+bip_39_word_dash_1: echo
+bip_39_word_dash_10: echo-laundry-predict-goat-cake-victory-female-light-grain-nephew
+bip_39_word_dash_11: echo-laundry-predict-goat-cake-victory-female-light-grain-nephew-pet
+bip_39_word_dash_12: echo-laundry-predict-goat-cake-victory-female-light-grain-nephew-pet-among
+bip_39_word_dash_2: echo-laundry
+bip_39_word_dash_3: echo-laundry-predict
+bip_39_word_dash_4: echo-laundry-predict-goat
+bip_39_word_dash_5: echo-laundry-predict-goat-cake
+bip_39_word_dash_6: echo-laundry-predict-goat-cake-victory
+bip_39_word_dash_7: echo-laundry-predict-goat-cake-victory-female
+bip_39_word_dash_8: echo-laundry-predict-goat-cake-victory-female-light
+bip_39_word_dash_9: echo-laundry-predict-goat-cake-victory-female-light-grain
 bip_39_word_new_br_1: echo
 bip_39_word_new_br_10: echo<br>laundry<br>predict<br>goat<br>cake<br>victory<br>female<br>light<br>grain<br>nephew
 bip_39_word_new_br_11: echo<br>laundry<br>predict<br>goat<br>cake<br>victory<br>female<br>light<br>grain<br>nephew<br>pet
@@ -193,6 +205,18 @@ bip_39_word_space_6: echo laundry predict goat cake victory
 bip_39_word_space_7: echo laundry predict goat cake victory female
 bip_39_word_space_8: echo laundry predict goat cake victory female light
 bip_39_word_space_9: echo laundry predict goat cake victory female light grain
+bip_39_word_underscore_1: echo
+bip_39_word_underscore_10: echo_laundry_predict_goat_cake_victory_female_light_grain_nephew
+bip_39_word_underscore_11: echo_laundry_predict_goat_cake_victory_female_light_grain_nephew_pet
+bip_39_word_underscore_12: echo_laundry_predict_goat_cake_victory_female_light_grain_nephew_pet_among
+bip_39_word_underscore_2: echo_laundry
+bip_39_word_underscore_3: echo_laundry_predict
+bip_39_word_underscore_4: echo_laundry_predict_goat
+bip_39_word_underscore_5: echo_laundry_predict_goat_cake
+bip_39_word_underscore_6: echo_laundry_predict_goat_cake_victory
+bip_39_word_underscore_7: echo_laundry_predict_goat_cake_victory_female
+bip_39_word_underscore_8: echo_laundry_predict_goat_cake_victory_female_light
+bip_39_word_underscore_9: echo_laundry_predict_goat_cake_victory_female_light_grain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

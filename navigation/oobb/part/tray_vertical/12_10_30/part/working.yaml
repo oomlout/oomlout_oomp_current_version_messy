@@ -1,3 +1,15 @@
+bip_39_word_dash_1: force
+bip_39_word_dash_10: force-flight-submit-onion-awake-media-debris-gown-sun-balcony
+bip_39_word_dash_11: force-flight-submit-onion-awake-media-debris-gown-sun-balcony-meadow
+bip_39_word_dash_12: force-flight-submit-onion-awake-media-debris-gown-sun-balcony-meadow-ahead
+bip_39_word_dash_2: force-flight
+bip_39_word_dash_3: force-flight-submit
+bip_39_word_dash_4: force-flight-submit-onion
+bip_39_word_dash_5: force-flight-submit-onion-awake
+bip_39_word_dash_6: force-flight-submit-onion-awake-media
+bip_39_word_dash_7: force-flight-submit-onion-awake-media-debris
+bip_39_word_dash_8: force-flight-submit-onion-awake-media-debris-gown
+bip_39_word_dash_9: force-flight-submit-onion-awake-media-debris-gown-sun
 bip_39_word_new_br_1: force
 bip_39_word_new_br_10: force<br>flight<br>submit<br>onion<br>awake<br>media<br>debris<br>gown<br>sun<br>balcony
 bip_39_word_new_br_11: force<br>flight<br>submit<br>onion<br>awake<br>media<br>debris<br>gown<br>sun<br>balcony<br>meadow
@@ -193,6 +205,18 @@ bip_39_word_space_6: force flight submit onion awake media
 bip_39_word_space_7: force flight submit onion awake media debris
 bip_39_word_space_8: force flight submit onion awake media debris gown
 bip_39_word_space_9: force flight submit onion awake media debris gown sun
+bip_39_word_underscore_1: force
+bip_39_word_underscore_10: force_flight_submit_onion_awake_media_debris_gown_sun_balcony
+bip_39_word_underscore_11: force_flight_submit_onion_awake_media_debris_gown_sun_balcony_meadow
+bip_39_word_underscore_12: force_flight_submit_onion_awake_media_debris_gown_sun_balcony_meadow_ahead
+bip_39_word_underscore_2: force_flight
+bip_39_word_underscore_3: force_flight_submit
+bip_39_word_underscore_4: force_flight_submit_onion
+bip_39_word_underscore_5: force_flight_submit_onion_awake
+bip_39_word_underscore_6: force_flight_submit_onion_awake_media
+bip_39_word_underscore_7: force_flight_submit_onion_awake_media_debris
+bip_39_word_underscore_8: force_flight_submit_onion_awake_media_debris_gown
+bip_39_word_underscore_9: force_flight_submit_onion_awake_media_debris_gown_sun
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

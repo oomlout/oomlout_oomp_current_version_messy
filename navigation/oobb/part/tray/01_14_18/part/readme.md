@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stand |  
+| bip_39_word_dash_10 | stand-viable-pigeon-subway-soup-reduce-armed-sand-liar-defy |  
+| bip_39_word_dash_11 | stand-viable-pigeon-subway-soup-reduce-armed-sand-liar-defy-shove |  
+| bip_39_word_dash_12 | stand-viable-pigeon-subway-soup-reduce-armed-sand-liar-defy-shove-absent |  
+| bip_39_word_dash_2 | stand-viable |  
+| bip_39_word_dash_3 | stand-viable-pigeon |  
+| bip_39_word_dash_4 | stand-viable-pigeon-subway |  
+| bip_39_word_dash_5 | stand-viable-pigeon-subway-soup |  
+| bip_39_word_dash_6 | stand-viable-pigeon-subway-soup-reduce |  
+| bip_39_word_dash_7 | stand-viable-pigeon-subway-soup-reduce-armed |  
+| bip_39_word_dash_8 | stand-viable-pigeon-subway-soup-reduce-armed-sand |  
+| bip_39_word_dash_9 | stand-viable-pigeon-subway-soup-reduce-armed-sand-liar |  
 | bip_39_word_new_br_1 | stand |  
 | bip_39_word_new_br_10 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy |  
 | bip_39_word_new_br_11 | stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy<br>shove |  
@@ -147,6 +159,18 @@ liar |
 | bip_39_word_space_7 | stand viable pigeon subway soup reduce armed |  
 | bip_39_word_space_8 | stand viable pigeon subway soup reduce armed sand |  
 | bip_39_word_space_9 | stand viable pigeon subway soup reduce armed sand liar |  
+| bip_39_word_underscore_1 | stand |  
+| bip_39_word_underscore_10 | stand_viable_pigeon_subway_soup_reduce_armed_sand_liar_defy |  
+| bip_39_word_underscore_11 | stand_viable_pigeon_subway_soup_reduce_armed_sand_liar_defy_shove |  
+| bip_39_word_underscore_12 | stand_viable_pigeon_subway_soup_reduce_armed_sand_liar_defy_shove_absent |  
+| bip_39_word_underscore_2 | stand_viable |  
+| bip_39_word_underscore_3 | stand_viable_pigeon |  
+| bip_39_word_underscore_4 | stand_viable_pigeon_subway |  
+| bip_39_word_underscore_5 | stand_viable_pigeon_subway_soup |  
+| bip_39_word_underscore_6 | stand_viable_pigeon_subway_soup_reduce |  
+| bip_39_word_underscore_7 | stand_viable_pigeon_subway_soup_reduce_armed |  
+| bip_39_word_underscore_8 | stand_viable_pigeon_subway_soup_reduce_armed_sand |  
+| bip_39_word_underscore_9 | stand_viable_pigeon_subway_soup_reduce_armed_sand_liar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

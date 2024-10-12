@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pupil |  
+| bip_39_word_dash_10 | pupil-abstract-seat-check-crush-observe-run-void-call-security |  
+| bip_39_word_dash_11 | pupil-abstract-seat-check-crush-observe-run-void-call-security-upon |  
+| bip_39_word_dash_12 | pupil-abstract-seat-check-crush-observe-run-void-call-security-upon-afraid |  
+| bip_39_word_dash_2 | pupil-abstract |  
+| bip_39_word_dash_3 | pupil-abstract-seat |  
+| bip_39_word_dash_4 | pupil-abstract-seat-check |  
+| bip_39_word_dash_5 | pupil-abstract-seat-check-crush |  
+| bip_39_word_dash_6 | pupil-abstract-seat-check-crush-observe |  
+| bip_39_word_dash_7 | pupil-abstract-seat-check-crush-observe-run |  
+| bip_39_word_dash_8 | pupil-abstract-seat-check-crush-observe-run-void |  
+| bip_39_word_dash_9 | pupil-abstract-seat-check-crush-observe-run-void-call |  
 | bip_39_word_new_br_1 | pupil |  
 | bip_39_word_new_br_10 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security |  
 | bip_39_word_new_br_11 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security<br>upon |  
@@ -147,6 +159,18 @@ call |
 | bip_39_word_space_7 | pupil abstract seat check crush observe run |  
 | bip_39_word_space_8 | pupil abstract seat check crush observe run void |  
 | bip_39_word_space_9 | pupil abstract seat check crush observe run void call |  
+| bip_39_word_underscore_1 | pupil |  
+| bip_39_word_underscore_10 | pupil_abstract_seat_check_crush_observe_run_void_call_security |  
+| bip_39_word_underscore_11 | pupil_abstract_seat_check_crush_observe_run_void_call_security_upon |  
+| bip_39_word_underscore_12 | pupil_abstract_seat_check_crush_observe_run_void_call_security_upon_afraid |  
+| bip_39_word_underscore_2 | pupil_abstract |  
+| bip_39_word_underscore_3 | pupil_abstract_seat |  
+| bip_39_word_underscore_4 | pupil_abstract_seat_check |  
+| bip_39_word_underscore_5 | pupil_abstract_seat_check_crush |  
+| bip_39_word_underscore_6 | pupil_abstract_seat_check_crush_observe |  
+| bip_39_word_underscore_7 | pupil_abstract_seat_check_crush_observe_run |  
+| bip_39_word_underscore_8 | pupil_abstract_seat_check_crush_observe_run_void |  
+| bip_39_word_underscore_9 | pupil_abstract_seat_check_crush_observe_run_void_call |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

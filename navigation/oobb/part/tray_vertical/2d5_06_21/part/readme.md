@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | try |  
+| bip_39_word_dash_10 | try-charge-verb-eight-ensure-jacket-glow-exit-million-frame |  
+| bip_39_word_dash_11 | try-charge-verb-eight-ensure-jacket-glow-exit-million-frame-tray |  
+| bip_39_word_dash_12 | try-charge-verb-eight-ensure-jacket-glow-exit-million-frame-tray-all |  
+| bip_39_word_dash_2 | try-charge |  
+| bip_39_word_dash_3 | try-charge-verb |  
+| bip_39_word_dash_4 | try-charge-verb-eight |  
+| bip_39_word_dash_5 | try-charge-verb-eight-ensure |  
+| bip_39_word_dash_6 | try-charge-verb-eight-ensure-jacket |  
+| bip_39_word_dash_7 | try-charge-verb-eight-ensure-jacket-glow |  
+| bip_39_word_dash_8 | try-charge-verb-eight-ensure-jacket-glow-exit |  
+| bip_39_word_dash_9 | try-charge-verb-eight-ensure-jacket-glow-exit-million |  
 | bip_39_word_new_br_1 | try |  
 | bip_39_word_new_br_10 | try<br>charge<br>verb<br>eight<br>ensure<br>jacket<br>glow<br>exit<br>million<br>frame |  
 | bip_39_word_new_br_11 | try<br>charge<br>verb<br>eight<br>ensure<br>jacket<br>glow<br>exit<br>million<br>frame<br>tray |  
@@ -147,6 +159,18 @@ million |
 | bip_39_word_space_7 | try charge verb eight ensure jacket glow |  
 | bip_39_word_space_8 | try charge verb eight ensure jacket glow exit |  
 | bip_39_word_space_9 | try charge verb eight ensure jacket glow exit million |  
+| bip_39_word_underscore_1 | try |  
+| bip_39_word_underscore_10 | try_charge_verb_eight_ensure_jacket_glow_exit_million_frame |  
+| bip_39_word_underscore_11 | try_charge_verb_eight_ensure_jacket_glow_exit_million_frame_tray |  
+| bip_39_word_underscore_12 | try_charge_verb_eight_ensure_jacket_glow_exit_million_frame_tray_all |  
+| bip_39_word_underscore_2 | try_charge |  
+| bip_39_word_underscore_3 | try_charge_verb |  
+| bip_39_word_underscore_4 | try_charge_verb_eight |  
+| bip_39_word_underscore_5 | try_charge_verb_eight_ensure |  
+| bip_39_word_underscore_6 | try_charge_verb_eight_ensure_jacket |  
+| bip_39_word_underscore_7 | try_charge_verb_eight_ensure_jacket_glow |  
+| bip_39_word_underscore_8 | try_charge_verb_eight_ensure_jacket_glow_exit |  
+| bip_39_word_underscore_9 | try_charge_verb_eight_ensure_jacket_glow_exit_million |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

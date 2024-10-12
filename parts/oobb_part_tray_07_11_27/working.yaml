@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mobile
+bip_39_word_dash_10: mobile-salt-spot-sad-click-funny-trap-stuff-razor-aerobic
+bip_39_word_dash_11: mobile-salt-spot-sad-click-funny-trap-stuff-razor-aerobic-explain
+bip_39_word_dash_12: mobile-salt-spot-sad-click-funny-trap-stuff-razor-aerobic-explain-alter
+bip_39_word_dash_2: mobile-salt
+bip_39_word_dash_3: mobile-salt-spot
+bip_39_word_dash_4: mobile-salt-spot-sad
+bip_39_word_dash_5: mobile-salt-spot-sad-click
+bip_39_word_dash_6: mobile-salt-spot-sad-click-funny
+bip_39_word_dash_7: mobile-salt-spot-sad-click-funny-trap
+bip_39_word_dash_8: mobile-salt-spot-sad-click-funny-trap-stuff
+bip_39_word_dash_9: mobile-salt-spot-sad-click-funny-trap-stuff-razor
 bip_39_word_new_br_1: mobile
 bip_39_word_new_br_10: mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic
 bip_39_word_new_br_11: mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic<br>explain
@@ -192,6 +204,18 @@ bip_39_word_space_6: mobile salt spot sad click funny
 bip_39_word_space_7: mobile salt spot sad click funny trap
 bip_39_word_space_8: mobile salt spot sad click funny trap stuff
 bip_39_word_space_9: mobile salt spot sad click funny trap stuff razor
+bip_39_word_underscore_1: mobile
+bip_39_word_underscore_10: mobile_salt_spot_sad_click_funny_trap_stuff_razor_aerobic
+bip_39_word_underscore_11: mobile_salt_spot_sad_click_funny_trap_stuff_razor_aerobic_explain
+bip_39_word_underscore_12: mobile_salt_spot_sad_click_funny_trap_stuff_razor_aerobic_explain_alter
+bip_39_word_underscore_2: mobile_salt
+bip_39_word_underscore_3: mobile_salt_spot
+bip_39_word_underscore_4: mobile_salt_spot_sad
+bip_39_word_underscore_5: mobile_salt_spot_sad_click
+bip_39_word_underscore_6: mobile_salt_spot_sad_click_funny
+bip_39_word_underscore_7: mobile_salt_spot_sad_click_funny_trap
+bip_39_word_underscore_8: mobile_salt_spot_sad_click_funny_trap_stuff
+bip_39_word_underscore_9: mobile_salt_spot_sad_click_funny_trap_stuff_razor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

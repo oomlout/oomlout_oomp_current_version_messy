@@ -1,3 +1,15 @@
+bip_39_word_dash_1: install
+bip_39_word_dash_10: install-pepper-draft-belt-head-comic-negative-hawk-service-sun
+bip_39_word_dash_11: install-pepper-draft-belt-head-comic-negative-hawk-service-sun-erupt
+bip_39_word_dash_12: install-pepper-draft-belt-head-comic-negative-hawk-service-sun-erupt-ahead
+bip_39_word_dash_2: install-pepper
+bip_39_word_dash_3: install-pepper-draft
+bip_39_word_dash_4: install-pepper-draft-belt
+bip_39_word_dash_5: install-pepper-draft-belt-head
+bip_39_word_dash_6: install-pepper-draft-belt-head-comic
+bip_39_word_dash_7: install-pepper-draft-belt-head-comic-negative
+bip_39_word_dash_8: install-pepper-draft-belt-head-comic-negative-hawk
+bip_39_word_dash_9: install-pepper-draft-belt-head-comic-negative-hawk-service
 bip_39_word_new_br_1: install
 bip_39_word_new_br_10: install<br>pepper<br>draft<br>belt<br>head<br>comic<br>negative<br>hawk<br>service<br>sun
 bip_39_word_new_br_11: install<br>pepper<br>draft<br>belt<br>head<br>comic<br>negative<br>hawk<br>service<br>sun<br>erupt
@@ -193,6 +205,18 @@ bip_39_word_space_6: install pepper draft belt head comic
 bip_39_word_space_7: install pepper draft belt head comic negative
 bip_39_word_space_8: install pepper draft belt head comic negative hawk
 bip_39_word_space_9: install pepper draft belt head comic negative hawk service
+bip_39_word_underscore_1: install
+bip_39_word_underscore_10: install_pepper_draft_belt_head_comic_negative_hawk_service_sun
+bip_39_word_underscore_11: install_pepper_draft_belt_head_comic_negative_hawk_service_sun_erupt
+bip_39_word_underscore_12: install_pepper_draft_belt_head_comic_negative_hawk_service_sun_erupt_ahead
+bip_39_word_underscore_2: install_pepper
+bip_39_word_underscore_3: install_pepper_draft
+bip_39_word_underscore_4: install_pepper_draft_belt
+bip_39_word_underscore_5: install_pepper_draft_belt_head
+bip_39_word_underscore_6: install_pepper_draft_belt_head_comic
+bip_39_word_underscore_7: install_pepper_draft_belt_head_comic_negative
+bip_39_word_underscore_8: install_pepper_draft_belt_head_comic_negative_hawk
+bip_39_word_underscore_9: install_pepper_draft_belt_head_comic_negative_hawk_service
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

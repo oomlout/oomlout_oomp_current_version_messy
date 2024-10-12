@@ -1,3 +1,15 @@
+bip_39_word_dash_1: 'true'
+bip_39_word_dash_10: true-invite-cost-tower-mutual-rabbit-copper-raven-jelly-cushion
+bip_39_word_dash_11: true-invite-cost-tower-mutual-rabbit-copper-raven-jelly-cushion-silly
+bip_39_word_dash_12: true-invite-cost-tower-mutual-rabbit-copper-raven-jelly-cushion-silly-afraid
+bip_39_word_dash_2: true-invite
+bip_39_word_dash_3: true-invite-cost
+bip_39_word_dash_4: true-invite-cost-tower
+bip_39_word_dash_5: true-invite-cost-tower-mutual
+bip_39_word_dash_6: true-invite-cost-tower-mutual-rabbit
+bip_39_word_dash_7: true-invite-cost-tower-mutual-rabbit-copper
+bip_39_word_dash_8: true-invite-cost-tower-mutual-rabbit-copper-raven
+bip_39_word_dash_9: true-invite-cost-tower-mutual-rabbit-copper-raven-jelly
 bip_39_word_new_br_1: 'true'
 bip_39_word_new_br_10: true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion
 bip_39_word_new_br_11: true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion<br>silly
@@ -193,6 +205,18 @@ bip_39_word_space_6: true invite cost tower mutual rabbit
 bip_39_word_space_7: true invite cost tower mutual rabbit copper
 bip_39_word_space_8: true invite cost tower mutual rabbit copper raven
 bip_39_word_space_9: true invite cost tower mutual rabbit copper raven jelly
+bip_39_word_underscore_1: 'true'
+bip_39_word_underscore_10: true_invite_cost_tower_mutual_rabbit_copper_raven_jelly_cushion
+bip_39_word_underscore_11: true_invite_cost_tower_mutual_rabbit_copper_raven_jelly_cushion_silly
+bip_39_word_underscore_12: true_invite_cost_tower_mutual_rabbit_copper_raven_jelly_cushion_silly_afraid
+bip_39_word_underscore_2: true_invite
+bip_39_word_underscore_3: true_invite_cost
+bip_39_word_underscore_4: true_invite_cost_tower
+bip_39_word_underscore_5: true_invite_cost_tower_mutual
+bip_39_word_underscore_6: true_invite_cost_tower_mutual_rabbit
+bip_39_word_underscore_7: true_invite_cost_tower_mutual_rabbit_copper
+bip_39_word_underscore_8: true_invite_cost_tower_mutual_rabbit_copper_raven
+bip_39_word_underscore_9: true_invite_cost_tower_mutual_rabbit_copper_raven_jelly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

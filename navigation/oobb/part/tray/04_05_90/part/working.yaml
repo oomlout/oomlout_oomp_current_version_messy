@@ -1,3 +1,15 @@
+bip_39_word_dash_1: run
+bip_39_word_dash_10: run-design-mountain-jar-aerobic-increase-hover-mirror-large-topic
+bip_39_word_dash_11: run-design-mountain-jar-aerobic-increase-hover-mirror-large-topic-crime
+bip_39_word_dash_12: run-design-mountain-jar-aerobic-increase-hover-mirror-large-topic-crime-attitude
+bip_39_word_dash_2: run-design
+bip_39_word_dash_3: run-design-mountain
+bip_39_word_dash_4: run-design-mountain-jar
+bip_39_word_dash_5: run-design-mountain-jar-aerobic
+bip_39_word_dash_6: run-design-mountain-jar-aerobic-increase
+bip_39_word_dash_7: run-design-mountain-jar-aerobic-increase-hover
+bip_39_word_dash_8: run-design-mountain-jar-aerobic-increase-hover-mirror
+bip_39_word_dash_9: run-design-mountain-jar-aerobic-increase-hover-mirror-large
 bip_39_word_new_br_1: run
 bip_39_word_new_br_10: run<br>design<br>mountain<br>jar<br>aerobic<br>increase<br>hover<br>mirror<br>large<br>topic
 bip_39_word_new_br_11: run<br>design<br>mountain<br>jar<br>aerobic<br>increase<br>hover<br>mirror<br>large<br>topic<br>crime
@@ -194,6 +206,18 @@ bip_39_word_space_6: run design mountain jar aerobic increase
 bip_39_word_space_7: run design mountain jar aerobic increase hover
 bip_39_word_space_8: run design mountain jar aerobic increase hover mirror
 bip_39_word_space_9: run design mountain jar aerobic increase hover mirror large
+bip_39_word_underscore_1: run
+bip_39_word_underscore_10: run_design_mountain_jar_aerobic_increase_hover_mirror_large_topic
+bip_39_word_underscore_11: run_design_mountain_jar_aerobic_increase_hover_mirror_large_topic_crime
+bip_39_word_underscore_12: run_design_mountain_jar_aerobic_increase_hover_mirror_large_topic_crime_attitude
+bip_39_word_underscore_2: run_design
+bip_39_word_underscore_3: run_design_mountain
+bip_39_word_underscore_4: run_design_mountain_jar
+bip_39_word_underscore_5: run_design_mountain_jar_aerobic
+bip_39_word_underscore_6: run_design_mountain_jar_aerobic_increase
+bip_39_word_underscore_7: run_design_mountain_jar_aerobic_increase_hover
+bip_39_word_underscore_8: run_design_mountain_jar_aerobic_increase_hover_mirror
+bip_39_word_underscore_9: run_design_mountain_jar_aerobic_increase_hover_mirror_large
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nasty
+bip_39_word_dash_10: nasty-dog-guess-horse-subject-typical-ordinary-name-pact-round
+bip_39_word_dash_11: nasty-dog-guess-horse-subject-typical-ordinary-name-pact-round-notable
+bip_39_word_dash_12: nasty-dog-guess-horse-subject-typical-ordinary-name-pact-round-notable-alert
+bip_39_word_dash_2: nasty-dog
+bip_39_word_dash_3: nasty-dog-guess
+bip_39_word_dash_4: nasty-dog-guess-horse
+bip_39_word_dash_5: nasty-dog-guess-horse-subject
+bip_39_word_dash_6: nasty-dog-guess-horse-subject-typical
+bip_39_word_dash_7: nasty-dog-guess-horse-subject-typical-ordinary
+bip_39_word_dash_8: nasty-dog-guess-horse-subject-typical-ordinary-name
+bip_39_word_dash_9: nasty-dog-guess-horse-subject-typical-ordinary-name-pact
 bip_39_word_new_br_1: nasty
 bip_39_word_new_br_10: nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name<br>pact<br>round
 bip_39_word_new_br_11: nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name<br>pact<br>round<br>notable
@@ -193,6 +205,18 @@ bip_39_word_space_6: nasty dog guess horse subject typical
 bip_39_word_space_7: nasty dog guess horse subject typical ordinary
 bip_39_word_space_8: nasty dog guess horse subject typical ordinary name
 bip_39_word_space_9: nasty dog guess horse subject typical ordinary name pact
+bip_39_word_underscore_1: nasty
+bip_39_word_underscore_10: nasty_dog_guess_horse_subject_typical_ordinary_name_pact_round
+bip_39_word_underscore_11: nasty_dog_guess_horse_subject_typical_ordinary_name_pact_round_notable
+bip_39_word_underscore_12: nasty_dog_guess_horse_subject_typical_ordinary_name_pact_round_notable_alert
+bip_39_word_underscore_2: nasty_dog
+bip_39_word_underscore_3: nasty_dog_guess
+bip_39_word_underscore_4: nasty_dog_guess_horse
+bip_39_word_underscore_5: nasty_dog_guess_horse_subject
+bip_39_word_underscore_6: nasty_dog_guess_horse_subject_typical
+bip_39_word_underscore_7: nasty_dog_guess_horse_subject_typical_ordinary
+bip_39_word_underscore_8: nasty_dog_guess_horse_subject_typical_ordinary_name
+bip_39_word_underscore_9: nasty_dog_guess_horse_subject_typical_ordinary_name_pact
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

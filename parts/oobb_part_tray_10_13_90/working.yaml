@@ -1,3 +1,14 @@
+bip_39_word_dash_1: symptom
+bip_39_word_dash_10: symptom-coyote-pencil-seminar-tiny-move-axis-add-subject-cable
+bip_39_word_dash_11: symptom-coyote-pencil-seminar-tiny-move-axis-add-subject-cable-phrase
+bip_39_word_dash_2: symptom-coyote
+bip_39_word_dash_3: symptom-coyote-pencil
+bip_39_word_dash_4: symptom-coyote-pencil-seminar
+bip_39_word_dash_5: symptom-coyote-pencil-seminar-tiny
+bip_39_word_dash_6: symptom-coyote-pencil-seminar-tiny-move
+bip_39_word_dash_7: symptom-coyote-pencil-seminar-tiny-move-axis
+bip_39_word_dash_8: symptom-coyote-pencil-seminar-tiny-move-axis-add
+bip_39_word_dash_9: symptom-coyote-pencil-seminar-tiny-move-axis-add-subject
 bip_39_word_new_br_1: symptom
 bip_39_word_new_br_10: symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject<br>cable
 bip_39_word_new_br_11: symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject<br>cable<br>phrase
@@ -165,6 +176,17 @@ bip_39_word_space_6: symptom coyote pencil seminar tiny move
 bip_39_word_space_7: symptom coyote pencil seminar tiny move axis
 bip_39_word_space_8: symptom coyote pencil seminar tiny move axis add
 bip_39_word_space_9: symptom coyote pencil seminar tiny move axis add subject
+bip_39_word_underscore_1: symptom
+bip_39_word_underscore_10: symptom_coyote_pencil_seminar_tiny_move_axis_add_subject_cable
+bip_39_word_underscore_11: symptom_coyote_pencil_seminar_tiny_move_axis_add_subject_cable_phrase
+bip_39_word_underscore_2: symptom_coyote
+bip_39_word_underscore_3: symptom_coyote_pencil
+bip_39_word_underscore_4: symptom_coyote_pencil_seminar
+bip_39_word_underscore_5: symptom_coyote_pencil_seminar_tiny
+bip_39_word_underscore_6: symptom_coyote_pencil_seminar_tiny_move
+bip_39_word_underscore_7: symptom_coyote_pencil_seminar_tiny_move_axis
+bip_39_word_underscore_8: symptom_coyote_pencil_seminar_tiny_move_axis_add
+bip_39_word_underscore_9: symptom_coyote_pencil_seminar_tiny_move_axis_add_subject
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: winner
+bip_39_word_dash_10: winner-student-switch-reform-egg-olympic-crouch-pride-light-right
+bip_39_word_dash_11: winner-student-switch-reform-egg-olympic-crouch-pride-light-right-present
+bip_39_word_dash_12: winner-student-switch-reform-egg-olympic-crouch-pride-light-right-present-actual
+bip_39_word_dash_2: winner-student
+bip_39_word_dash_3: winner-student-switch
+bip_39_word_dash_4: winner-student-switch-reform
+bip_39_word_dash_5: winner-student-switch-reform-egg
+bip_39_word_dash_6: winner-student-switch-reform-egg-olympic
+bip_39_word_dash_7: winner-student-switch-reform-egg-olympic-crouch
+bip_39_word_dash_8: winner-student-switch-reform-egg-olympic-crouch-pride
+bip_39_word_dash_9: winner-student-switch-reform-egg-olympic-crouch-pride-light
 bip_39_word_new_br_1: winner
 bip_39_word_new_br_10: winner<br>student<br>switch<br>reform<br>egg<br>olympic<br>crouch<br>pride<br>light<br>right
 bip_39_word_new_br_11: winner<br>student<br>switch<br>reform<br>egg<br>olympic<br>crouch<br>pride<br>light<br>right<br>present
@@ -194,6 +206,18 @@ bip_39_word_space_6: winner student switch reform egg olympic
 bip_39_word_space_7: winner student switch reform egg olympic crouch
 bip_39_word_space_8: winner student switch reform egg olympic crouch pride
 bip_39_word_space_9: winner student switch reform egg olympic crouch pride light
+bip_39_word_underscore_1: winner
+bip_39_word_underscore_10: winner_student_switch_reform_egg_olympic_crouch_pride_light_right
+bip_39_word_underscore_11: winner_student_switch_reform_egg_olympic_crouch_pride_light_right_present
+bip_39_word_underscore_12: winner_student_switch_reform_egg_olympic_crouch_pride_light_right_present_actual
+bip_39_word_underscore_2: winner_student
+bip_39_word_underscore_3: winner_student_switch
+bip_39_word_underscore_4: winner_student_switch_reform
+bip_39_word_underscore_5: winner_student_switch_reform_egg
+bip_39_word_underscore_6: winner_student_switch_reform_egg_olympic
+bip_39_word_underscore_7: winner_student_switch_reform_egg_olympic_crouch
+bip_39_word_underscore_8: winner_student_switch_reform_egg_olympic_crouch_pride
+bip_39_word_underscore_9: winner_student_switch_reform_egg_olympic_crouch_pride_light
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

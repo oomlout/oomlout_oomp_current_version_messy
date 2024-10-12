@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rookie
+bip_39_word_dash_10: rookie-typical-zebra-lecture-tenant-give-upper-vocal-grief-swim
+bip_39_word_dash_11: rookie-typical-zebra-lecture-tenant-give-upper-vocal-grief-swim-language
+bip_39_word_dash_12: rookie-typical-zebra-lecture-tenant-give-upper-vocal-grief-swim-language-advice
+bip_39_word_dash_2: rookie-typical
+bip_39_word_dash_3: rookie-typical-zebra
+bip_39_word_dash_4: rookie-typical-zebra-lecture
+bip_39_word_dash_5: rookie-typical-zebra-lecture-tenant
+bip_39_word_dash_6: rookie-typical-zebra-lecture-tenant-give
+bip_39_word_dash_7: rookie-typical-zebra-lecture-tenant-give-upper
+bip_39_word_dash_8: rookie-typical-zebra-lecture-tenant-give-upper-vocal
+bip_39_word_dash_9: rookie-typical-zebra-lecture-tenant-give-upper-vocal-grief
 bip_39_word_new_br_1: rookie
 bip_39_word_new_br_10: rookie<br>typical<br>zebra<br>lecture<br>tenant<br>give<br>upper<br>vocal<br>grief<br>swim
 bip_39_word_new_br_11: rookie<br>typical<br>zebra<br>lecture<br>tenant<br>give<br>upper<br>vocal<br>grief<br>swim<br>language
@@ -193,6 +205,18 @@ bip_39_word_space_6: rookie typical zebra lecture tenant give
 bip_39_word_space_7: rookie typical zebra lecture tenant give upper
 bip_39_word_space_8: rookie typical zebra lecture tenant give upper vocal
 bip_39_word_space_9: rookie typical zebra lecture tenant give upper vocal grief
+bip_39_word_underscore_1: rookie
+bip_39_word_underscore_10: rookie_typical_zebra_lecture_tenant_give_upper_vocal_grief_swim
+bip_39_word_underscore_11: rookie_typical_zebra_lecture_tenant_give_upper_vocal_grief_swim_language
+bip_39_word_underscore_12: rookie_typical_zebra_lecture_tenant_give_upper_vocal_grief_swim_language_advice
+bip_39_word_underscore_2: rookie_typical
+bip_39_word_underscore_3: rookie_typical_zebra
+bip_39_word_underscore_4: rookie_typical_zebra_lecture
+bip_39_word_underscore_5: rookie_typical_zebra_lecture_tenant
+bip_39_word_underscore_6: rookie_typical_zebra_lecture_tenant_give
+bip_39_word_underscore_7: rookie_typical_zebra_lecture_tenant_give_upper
+bip_39_word_underscore_8: rookie_typical_zebra_lecture_tenant_give_upper_vocal
+bip_39_word_underscore_9: rookie_typical_zebra_lecture_tenant_give_upper_vocal_grief
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

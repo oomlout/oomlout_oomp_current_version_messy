@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shallow |  
+| bip_39_word_dash_10 | shallow-unhappy-tired-mesh-brown-accident-yellow-original-cable-voice |  
+| bip_39_word_dash_11 | shallow-unhappy-tired-mesh-brown-accident-yellow-original-cable-voice-pole |  
+| bip_39_word_dash_12 | shallow-unhappy-tired-mesh-brown-accident-yellow-original-cable-voice-pole-annual |  
+| bip_39_word_dash_2 | shallow-unhappy |  
+| bip_39_word_dash_3 | shallow-unhappy-tired |  
+| bip_39_word_dash_4 | shallow-unhappy-tired-mesh |  
+| bip_39_word_dash_5 | shallow-unhappy-tired-mesh-brown |  
+| bip_39_word_dash_6 | shallow-unhappy-tired-mesh-brown-accident |  
+| bip_39_word_dash_7 | shallow-unhappy-tired-mesh-brown-accident-yellow |  
+| bip_39_word_dash_8 | shallow-unhappy-tired-mesh-brown-accident-yellow-original |  
+| bip_39_word_dash_9 | shallow-unhappy-tired-mesh-brown-accident-yellow-original-cable |  
 | bip_39_word_new_br_1 | shallow |  
 | bip_39_word_new_br_10 | shallow<br>unhappy<br>tired<br>mesh<br>brown<br>accident<br>yellow<br>original<br>cable<br>voice |  
 | bip_39_word_new_br_11 | shallow<br>unhappy<br>tired<br>mesh<br>brown<br>accident<br>yellow<br>original<br>cable<br>voice<br>pole |  
@@ -147,6 +159,18 @@ cable |
 | bip_39_word_space_7 | shallow unhappy tired mesh brown accident yellow |  
 | bip_39_word_space_8 | shallow unhappy tired mesh brown accident yellow original |  
 | bip_39_word_space_9 | shallow unhappy tired mesh brown accident yellow original cable |  
+| bip_39_word_underscore_1 | shallow |  
+| bip_39_word_underscore_10 | shallow_unhappy_tired_mesh_brown_accident_yellow_original_cable_voice |  
+| bip_39_word_underscore_11 | shallow_unhappy_tired_mesh_brown_accident_yellow_original_cable_voice_pole |  
+| bip_39_word_underscore_12 | shallow_unhappy_tired_mesh_brown_accident_yellow_original_cable_voice_pole_annual |  
+| bip_39_word_underscore_2 | shallow_unhappy |  
+| bip_39_word_underscore_3 | shallow_unhappy_tired |  
+| bip_39_word_underscore_4 | shallow_unhappy_tired_mesh |  
+| bip_39_word_underscore_5 | shallow_unhappy_tired_mesh_brown |  
+| bip_39_word_underscore_6 | shallow_unhappy_tired_mesh_brown_accident |  
+| bip_39_word_underscore_7 | shallow_unhappy_tired_mesh_brown_accident_yellow |  
+| bip_39_word_underscore_8 | shallow_unhappy_tired_mesh_brown_accident_yellow_original |  
+| bip_39_word_underscore_9 | shallow_unhappy_tired_mesh_brown_accident_yellow_original_cable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

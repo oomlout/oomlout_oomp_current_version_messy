@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | miss |  
+| bip_39_word_dash_10 | miss-cushion-spot-nephew-hungry-code-mention-license-install-welcome |  
+| bip_39_word_dash_11 | miss-cushion-spot-nephew-hungry-code-mention-license-install-welcome-august |  
+| bip_39_word_dash_12 | miss-cushion-spot-nephew-hungry-code-mention-license-install-welcome-august-address |  
+| bip_39_word_dash_2 | miss-cushion |  
+| bip_39_word_dash_3 | miss-cushion-spot |  
+| bip_39_word_dash_4 | miss-cushion-spot-nephew |  
+| bip_39_word_dash_5 | miss-cushion-spot-nephew-hungry |  
+| bip_39_word_dash_6 | miss-cushion-spot-nephew-hungry-code |  
+| bip_39_word_dash_7 | miss-cushion-spot-nephew-hungry-code-mention |  
+| bip_39_word_dash_8 | miss-cushion-spot-nephew-hungry-code-mention-license |  
+| bip_39_word_dash_9 | miss-cushion-spot-nephew-hungry-code-mention-license-install |  
 | bip_39_word_new_br_1 | miss |  
 | bip_39_word_new_br_10 | miss<br>cushion<br>spot<br>nephew<br>hungry<br>code<br>mention<br>license<br>install<br>welcome |  
 | bip_39_word_new_br_11 | miss<br>cushion<br>spot<br>nephew<br>hungry<br>code<br>mention<br>license<br>install<br>welcome<br>august |  
@@ -147,6 +159,18 @@ install |
 | bip_39_word_space_7 | miss cushion spot nephew hungry code mention |  
 | bip_39_word_space_8 | miss cushion spot nephew hungry code mention license |  
 | bip_39_word_space_9 | miss cushion spot nephew hungry code mention license install |  
+| bip_39_word_underscore_1 | miss |  
+| bip_39_word_underscore_10 | miss_cushion_spot_nephew_hungry_code_mention_license_install_welcome |  
+| bip_39_word_underscore_11 | miss_cushion_spot_nephew_hungry_code_mention_license_install_welcome_august |  
+| bip_39_word_underscore_12 | miss_cushion_spot_nephew_hungry_code_mention_license_install_welcome_august_address |  
+| bip_39_word_underscore_2 | miss_cushion |  
+| bip_39_word_underscore_3 | miss_cushion_spot |  
+| bip_39_word_underscore_4 | miss_cushion_spot_nephew |  
+| bip_39_word_underscore_5 | miss_cushion_spot_nephew_hungry |  
+| bip_39_word_underscore_6 | miss_cushion_spot_nephew_hungry_code |  
+| bip_39_word_underscore_7 | miss_cushion_spot_nephew_hungry_code_mention |  
+| bip_39_word_underscore_8 | miss_cushion_spot_nephew_hungry_code_mention_license |  
+| bip_39_word_underscore_9 | miss_cushion_spot_nephew_hungry_code_mention_license_install |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eye |  
+| bip_39_word_dash_10 | eye-spend-surface-wire-journey-shove-border-unique-public-already |  
+| bip_39_word_dash_11 | eye-spend-surface-wire-journey-shove-border-unique-public-already-defy |  
+| bip_39_word_dash_12 | eye-spend-surface-wire-journey-shove-border-unique-public-already-defy-aunt |  
+| bip_39_word_dash_2 | eye-spend |  
+| bip_39_word_dash_3 | eye-spend-surface |  
+| bip_39_word_dash_4 | eye-spend-surface-wire |  
+| bip_39_word_dash_5 | eye-spend-surface-wire-journey |  
+| bip_39_word_dash_6 | eye-spend-surface-wire-journey-shove |  
+| bip_39_word_dash_7 | eye-spend-surface-wire-journey-shove-border |  
+| bip_39_word_dash_8 | eye-spend-surface-wire-journey-shove-border-unique |  
+| bip_39_word_dash_9 | eye-spend-surface-wire-journey-shove-border-unique-public |  
 | bip_39_word_new_br_1 | eye |  
 | bip_39_word_new_br_10 | eye<br>spend<br>surface<br>wire<br>journey<br>shove<br>border<br>unique<br>public<br>already |  
 | bip_39_word_new_br_11 | eye<br>spend<br>surface<br>wire<br>journey<br>shove<br>border<br>unique<br>public<br>already<br>defy |  
@@ -147,6 +159,18 @@ public |
 | bip_39_word_space_7 | eye spend surface wire journey shove border |  
 | bip_39_word_space_8 | eye spend surface wire journey shove border unique |  
 | bip_39_word_space_9 | eye spend surface wire journey shove border unique public |  
+| bip_39_word_underscore_1 | eye |  
+| bip_39_word_underscore_10 | eye_spend_surface_wire_journey_shove_border_unique_public_already |  
+| bip_39_word_underscore_11 | eye_spend_surface_wire_journey_shove_border_unique_public_already_defy |  
+| bip_39_word_underscore_12 | eye_spend_surface_wire_journey_shove_border_unique_public_already_defy_aunt |  
+| bip_39_word_underscore_2 | eye_spend |  
+| bip_39_word_underscore_3 | eye_spend_surface |  
+| bip_39_word_underscore_4 | eye_spend_surface_wire |  
+| bip_39_word_underscore_5 | eye_spend_surface_wire_journey |  
+| bip_39_word_underscore_6 | eye_spend_surface_wire_journey_shove |  
+| bip_39_word_underscore_7 | eye_spend_surface_wire_journey_shove_border |  
+| bip_39_word_underscore_8 | eye_spend_surface_wire_journey_shove_border_unique |  
+| bip_39_word_underscore_9 | eye_spend_surface_wire_journey_shove_border_unique_public |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

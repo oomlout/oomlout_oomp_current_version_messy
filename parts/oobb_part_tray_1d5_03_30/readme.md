@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bitter |  
+| bip_39_word_dash_10 | bitter-swim-little-eight-movie-govern-fragile-churn-math-dismiss |  
+| bip_39_word_dash_11 | bitter-swim-little-eight-movie-govern-fragile-churn-math-dismiss-problem |  
+| bip_39_word_dash_12 | bitter-swim-little-eight-movie-govern-fragile-churn-math-dismiss-problem-among |  
+| bip_39_word_dash_2 | bitter-swim |  
+| bip_39_word_dash_3 | bitter-swim-little |  
+| bip_39_word_dash_4 | bitter-swim-little-eight |  
+| bip_39_word_dash_5 | bitter-swim-little-eight-movie |  
+| bip_39_word_dash_6 | bitter-swim-little-eight-movie-govern |  
+| bip_39_word_dash_7 | bitter-swim-little-eight-movie-govern-fragile |  
+| bip_39_word_dash_8 | bitter-swim-little-eight-movie-govern-fragile-churn |  
+| bip_39_word_dash_9 | bitter-swim-little-eight-movie-govern-fragile-churn-math |  
 | bip_39_word_new_br_1 | bitter |  
 | bip_39_word_new_br_10 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn<br>math<br>dismiss |  
 | bip_39_word_new_br_11 | bitter<br>swim<br>little<br>eight<br>movie<br>govern<br>fragile<br>churn<br>math<br>dismiss<br>problem |  
@@ -147,6 +159,18 @@ math |
 | bip_39_word_space_7 | bitter swim little eight movie govern fragile |  
 | bip_39_word_space_8 | bitter swim little eight movie govern fragile churn |  
 | bip_39_word_space_9 | bitter swim little eight movie govern fragile churn math |  
+| bip_39_word_underscore_1 | bitter |  
+| bip_39_word_underscore_10 | bitter_swim_little_eight_movie_govern_fragile_churn_math_dismiss |  
+| bip_39_word_underscore_11 | bitter_swim_little_eight_movie_govern_fragile_churn_math_dismiss_problem |  
+| bip_39_word_underscore_12 | bitter_swim_little_eight_movie_govern_fragile_churn_math_dismiss_problem_among |  
+| bip_39_word_underscore_2 | bitter_swim |  
+| bip_39_word_underscore_3 | bitter_swim_little |  
+| bip_39_word_underscore_4 | bitter_swim_little_eight |  
+| bip_39_word_underscore_5 | bitter_swim_little_eight_movie |  
+| bip_39_word_underscore_6 | bitter_swim_little_eight_movie_govern |  
+| bip_39_word_underscore_7 | bitter_swim_little_eight_movie_govern_fragile |  
+| bip_39_word_underscore_8 | bitter_swim_little_eight_movie_govern_fragile_churn |  
+| bip_39_word_underscore_9 | bitter_swim_little_eight_movie_govern_fragile_churn_math |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

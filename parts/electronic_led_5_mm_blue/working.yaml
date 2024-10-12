@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ankle
+bip_39_word_dash_10: ankle-frog-height-trumpet-carbon-solve-panda-prosper-menu-afford
+bip_39_word_dash_11: ankle-frog-height-trumpet-carbon-solve-panda-prosper-menu-afford-boss
+bip_39_word_dash_12: ankle-frog-height-trumpet-carbon-solve-panda-prosper-menu-afford-boss-artefact
+bip_39_word_dash_2: ankle-frog
+bip_39_word_dash_3: ankle-frog-height
+bip_39_word_dash_4: ankle-frog-height-trumpet
+bip_39_word_dash_5: ankle-frog-height-trumpet-carbon
+bip_39_word_dash_6: ankle-frog-height-trumpet-carbon-solve
+bip_39_word_dash_7: ankle-frog-height-trumpet-carbon-solve-panda
+bip_39_word_dash_8: ankle-frog-height-trumpet-carbon-solve-panda-prosper
+bip_39_word_dash_9: ankle-frog-height-trumpet-carbon-solve-panda-prosper-menu
 bip_39_word_new_br_1: ankle
 bip_39_word_new_br_10: ankle<br>frog<br>height<br>trumpet<br>carbon<br>solve<br>panda<br>prosper<br>menu<br>afford
 bip_39_word_new_br_11: ankle<br>frog<br>height<br>trumpet<br>carbon<br>solve<br>panda<br>prosper<br>menu<br>afford<br>boss
@@ -193,6 +205,18 @@ bip_39_word_space_6: ankle frog height trumpet carbon solve
 bip_39_word_space_7: ankle frog height trumpet carbon solve panda
 bip_39_word_space_8: ankle frog height trumpet carbon solve panda prosper
 bip_39_word_space_9: ankle frog height trumpet carbon solve panda prosper menu
+bip_39_word_underscore_1: ankle
+bip_39_word_underscore_10: ankle_frog_height_trumpet_carbon_solve_panda_prosper_menu_afford
+bip_39_word_underscore_11: ankle_frog_height_trumpet_carbon_solve_panda_prosper_menu_afford_boss
+bip_39_word_underscore_12: ankle_frog_height_trumpet_carbon_solve_panda_prosper_menu_afford_boss_artefact
+bip_39_word_underscore_2: ankle_frog
+bip_39_word_underscore_3: ankle_frog_height
+bip_39_word_underscore_4: ankle_frog_height_trumpet
+bip_39_word_underscore_5: ankle_frog_height_trumpet_carbon
+bip_39_word_underscore_6: ankle_frog_height_trumpet_carbon_solve
+bip_39_word_underscore_7: ankle_frog_height_trumpet_carbon_solve_panda
+bip_39_word_underscore_8: ankle_frog_height_trumpet_carbon_solve_panda_prosper
+bip_39_word_underscore_9: ankle_frog_height_trumpet_carbon_solve_panda_prosper_menu
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | produce |  
+| bip_39_word_dash_10 | produce-cloud-off-runway-kit-cannon-mix-flee-annual-public |  
+| bip_39_word_dash_11 | produce-cloud-off-runway-kit-cannon-mix-flee-annual-public-replace |  
+| bip_39_word_dash_12 | produce-cloud-off-runway-kit-cannon-mix-flee-annual-public-replace-asset |  
+| bip_39_word_dash_2 | produce-cloud |  
+| bip_39_word_dash_3 | produce-cloud-off |  
+| bip_39_word_dash_4 | produce-cloud-off-runway |  
+| bip_39_word_dash_5 | produce-cloud-off-runway-kit |  
+| bip_39_word_dash_6 | produce-cloud-off-runway-kit-cannon |  
+| bip_39_word_dash_7 | produce-cloud-off-runway-kit-cannon-mix |  
+| bip_39_word_dash_8 | produce-cloud-off-runway-kit-cannon-mix-flee |  
+| bip_39_word_dash_9 | produce-cloud-off-runway-kit-cannon-mix-flee-annual |  
 | bip_39_word_new_br_1 | produce |  
 | bip_39_word_new_br_10 | produce<br>cloud<br>off<br>runway<br>kit<br>cannon<br>mix<br>flee<br>annual<br>public |  
 | bip_39_word_new_br_11 | produce<br>cloud<br>off<br>runway<br>kit<br>cannon<br>mix<br>flee<br>annual<br>public<br>replace |  
@@ -147,6 +159,18 @@ annual |
 | bip_39_word_space_7 | produce cloud off runway kit cannon mix |  
 | bip_39_word_space_8 | produce cloud off runway kit cannon mix flee |  
 | bip_39_word_space_9 | produce cloud off runway kit cannon mix flee annual |  
+| bip_39_word_underscore_1 | produce |  
+| bip_39_word_underscore_10 | produce_cloud_off_runway_kit_cannon_mix_flee_annual_public |  
+| bip_39_word_underscore_11 | produce_cloud_off_runway_kit_cannon_mix_flee_annual_public_replace |  
+| bip_39_word_underscore_12 | produce_cloud_off_runway_kit_cannon_mix_flee_annual_public_replace_asset |  
+| bip_39_word_underscore_2 | produce_cloud |  
+| bip_39_word_underscore_3 | produce_cloud_off |  
+| bip_39_word_underscore_4 | produce_cloud_off_runway |  
+| bip_39_word_underscore_5 | produce_cloud_off_runway_kit |  
+| bip_39_word_underscore_6 | produce_cloud_off_runway_kit_cannon |  
+| bip_39_word_underscore_7 | produce_cloud_off_runway_kit_cannon_mix |  
+| bip_39_word_underscore_8 | produce_cloud_off_runway_kit_cannon_mix_flee |  
+| bip_39_word_underscore_9 | produce_cloud_off_runway_kit_cannon_mix_flee_annual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

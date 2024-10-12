@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | october |  
+| bip_39_word_dash_10 | october-deliver-mad-card-toward-palace-silk-park-rural-file |  
+| bip_39_word_dash_11 | october-deliver-mad-card-toward-palace-silk-park-rural-file-agent |  
+| bip_39_word_dash_12 | october-deliver-mad-card-toward-palace-silk-park-rural-file-agent-angry |  
+| bip_39_word_dash_2 | october-deliver |  
+| bip_39_word_dash_3 | october-deliver-mad |  
+| bip_39_word_dash_4 | october-deliver-mad-card |  
+| bip_39_word_dash_5 | october-deliver-mad-card-toward |  
+| bip_39_word_dash_6 | october-deliver-mad-card-toward-palace |  
+| bip_39_word_dash_7 | october-deliver-mad-card-toward-palace-silk |  
+| bip_39_word_dash_8 | october-deliver-mad-card-toward-palace-silk-park |  
+| bip_39_word_dash_9 | october-deliver-mad-card-toward-palace-silk-park-rural |  
 | bip_39_word_new_br_1 | october |  
 | bip_39_word_new_br_10 | october<br>deliver<br>mad<br>card<br>toward<br>palace<br>silk<br>park<br>rural<br>file |  
 | bip_39_word_new_br_11 | october<br>deliver<br>mad<br>card<br>toward<br>palace<br>silk<br>park<br>rural<br>file<br>agent |  
@@ -147,6 +159,18 @@ rural |
 | bip_39_word_space_7 | october deliver mad card toward palace silk |  
 | bip_39_word_space_8 | october deliver mad card toward palace silk park |  
 | bip_39_word_space_9 | october deliver mad card toward palace silk park rural |  
+| bip_39_word_underscore_1 | october |  
+| bip_39_word_underscore_10 | october_deliver_mad_card_toward_palace_silk_park_rural_file |  
+| bip_39_word_underscore_11 | october_deliver_mad_card_toward_palace_silk_park_rural_file_agent |  
+| bip_39_word_underscore_12 | october_deliver_mad_card_toward_palace_silk_park_rural_file_agent_angry |  
+| bip_39_word_underscore_2 | october_deliver |  
+| bip_39_word_underscore_3 | october_deliver_mad |  
+| bip_39_word_underscore_4 | october_deliver_mad_card |  
+| bip_39_word_underscore_5 | october_deliver_mad_card_toward |  
+| bip_39_word_underscore_6 | october_deliver_mad_card_toward_palace |  
+| bip_39_word_underscore_7 | october_deliver_mad_card_toward_palace_silk |  
+| bip_39_word_underscore_8 | october_deliver_mad_card_toward_palace_silk_park |  
+| bip_39_word_underscore_9 | october_deliver_mad_card_toward_palace_silk_park_rural |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

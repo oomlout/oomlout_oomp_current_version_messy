@@ -1,3 +1,15 @@
+bip_39_word_dash_1: host
+bip_39_word_dash_10: host-spell-hero-salt-gadget-battle-able-nice-zebra-file
+bip_39_word_dash_11: host-spell-hero-salt-gadget-battle-able-nice-zebra-file-over
+bip_39_word_dash_12: host-spell-hero-salt-gadget-battle-able-nice-zebra-file-over-across
+bip_39_word_dash_2: host-spell
+bip_39_word_dash_3: host-spell-hero
+bip_39_word_dash_4: host-spell-hero-salt
+bip_39_word_dash_5: host-spell-hero-salt-gadget
+bip_39_word_dash_6: host-spell-hero-salt-gadget-battle
+bip_39_word_dash_7: host-spell-hero-salt-gadget-battle-able
+bip_39_word_dash_8: host-spell-hero-salt-gadget-battle-able-nice
+bip_39_word_dash_9: host-spell-hero-salt-gadget-battle-able-nice-zebra
 bip_39_word_new_br_1: host
 bip_39_word_new_br_10: host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file
 bip_39_word_new_br_11: host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file<br>over
@@ -192,6 +204,18 @@ bip_39_word_space_6: host spell hero salt gadget battle
 bip_39_word_space_7: host spell hero salt gadget battle able
 bip_39_word_space_8: host spell hero salt gadget battle able nice
 bip_39_word_space_9: host spell hero salt gadget battle able nice zebra
+bip_39_word_underscore_1: host
+bip_39_word_underscore_10: host_spell_hero_salt_gadget_battle_able_nice_zebra_file
+bip_39_word_underscore_11: host_spell_hero_salt_gadget_battle_able_nice_zebra_file_over
+bip_39_word_underscore_12: host_spell_hero_salt_gadget_battle_able_nice_zebra_file_over_across
+bip_39_word_underscore_2: host_spell
+bip_39_word_underscore_3: host_spell_hero
+bip_39_word_underscore_4: host_spell_hero_salt
+bip_39_word_underscore_5: host_spell_hero_salt_gadget
+bip_39_word_underscore_6: host_spell_hero_salt_gadget_battle
+bip_39_word_underscore_7: host_spell_hero_salt_gadget_battle_able
+bip_39_word_underscore_8: host_spell_hero_salt_gadget_battle_able_nice
+bip_39_word_underscore_9: host_spell_hero_salt_gadget_battle_able_nice_zebra
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

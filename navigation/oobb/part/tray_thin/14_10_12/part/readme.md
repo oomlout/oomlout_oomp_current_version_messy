@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sell |  
+| bip_39_word_dash_10 | sell-kid-fetch-shock-claim-limb-bid-thank-below-broken |  
+| bip_39_word_dash_11 | sell-kid-fetch-shock-claim-limb-bid-thank-below-broken-oak |  
+| bip_39_word_dash_12 | sell-kid-fetch-shock-claim-limb-bid-thank-below-broken-oak-accuse |  
+| bip_39_word_dash_2 | sell-kid |  
+| bip_39_word_dash_3 | sell-kid-fetch |  
+| bip_39_word_dash_4 | sell-kid-fetch-shock |  
+| bip_39_word_dash_5 | sell-kid-fetch-shock-claim |  
+| bip_39_word_dash_6 | sell-kid-fetch-shock-claim-limb |  
+| bip_39_word_dash_7 | sell-kid-fetch-shock-claim-limb-bid |  
+| bip_39_word_dash_8 | sell-kid-fetch-shock-claim-limb-bid-thank |  
+| bip_39_word_dash_9 | sell-kid-fetch-shock-claim-limb-bid-thank-below |  
 | bip_39_word_new_br_1 | sell |  
 | bip_39_word_new_br_10 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank<br>below<br>broken |  
 | bip_39_word_new_br_11 | sell<br>kid<br>fetch<br>shock<br>claim<br>limb<br>bid<br>thank<br>below<br>broken<br>oak |  
@@ -147,6 +159,18 @@ below |
 | bip_39_word_space_7 | sell kid fetch shock claim limb bid |  
 | bip_39_word_space_8 | sell kid fetch shock claim limb bid thank |  
 | bip_39_word_space_9 | sell kid fetch shock claim limb bid thank below |  
+| bip_39_word_underscore_1 | sell |  
+| bip_39_word_underscore_10 | sell_kid_fetch_shock_claim_limb_bid_thank_below_broken |  
+| bip_39_word_underscore_11 | sell_kid_fetch_shock_claim_limb_bid_thank_below_broken_oak |  
+| bip_39_word_underscore_12 | sell_kid_fetch_shock_claim_limb_bid_thank_below_broken_oak_accuse |  
+| bip_39_word_underscore_2 | sell_kid |  
+| bip_39_word_underscore_3 | sell_kid_fetch |  
+| bip_39_word_underscore_4 | sell_kid_fetch_shock |  
+| bip_39_word_underscore_5 | sell_kid_fetch_shock_claim |  
+| bip_39_word_underscore_6 | sell_kid_fetch_shock_claim_limb |  
+| bip_39_word_underscore_7 | sell_kid_fetch_shock_claim_limb_bid |  
+| bip_39_word_underscore_8 | sell_kid_fetch_shock_claim_limb_bid_thank |  
+| bip_39_word_underscore_9 | sell_kid_fetch_shock_claim_limb_bid_thank_below |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

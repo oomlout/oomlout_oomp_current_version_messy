@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | say |  
+| bip_39_word_dash_10 | say-bachelor-hair-cup-dust-later-foil-fee-market-interest |  
+| bip_39_word_dash_11 | say-bachelor-hair-cup-dust-later-foil-fee-market-interest-soup |  
+| bip_39_word_dash_12 | say-bachelor-hair-cup-dust-later-foil-fee-market-interest-soup-actor |  
+| bip_39_word_dash_2 | say-bachelor |  
+| bip_39_word_dash_3 | say-bachelor-hair |  
+| bip_39_word_dash_4 | say-bachelor-hair-cup |  
+| bip_39_word_dash_5 | say-bachelor-hair-cup-dust |  
+| bip_39_word_dash_6 | say-bachelor-hair-cup-dust-later |  
+| bip_39_word_dash_7 | say-bachelor-hair-cup-dust-later-foil |  
+| bip_39_word_dash_8 | say-bachelor-hair-cup-dust-later-foil-fee |  
+| bip_39_word_dash_9 | say-bachelor-hair-cup-dust-later-foil-fee-market |  
 | bip_39_word_new_br_1 | say |  
 | bip_39_word_new_br_10 | say<br>bachelor<br>hair<br>cup<br>dust<br>later<br>foil<br>fee<br>market<br>interest |  
 | bip_39_word_new_br_11 | say<br>bachelor<br>hair<br>cup<br>dust<br>later<br>foil<br>fee<br>market<br>interest<br>soup |  
@@ -147,6 +159,18 @@ market |
 | bip_39_word_space_7 | say bachelor hair cup dust later foil |  
 | bip_39_word_space_8 | say bachelor hair cup dust later foil fee |  
 | bip_39_word_space_9 | say bachelor hair cup dust later foil fee market |  
+| bip_39_word_underscore_1 | say |  
+| bip_39_word_underscore_10 | say_bachelor_hair_cup_dust_later_foil_fee_market_interest |  
+| bip_39_word_underscore_11 | say_bachelor_hair_cup_dust_later_foil_fee_market_interest_soup |  
+| bip_39_word_underscore_12 | say_bachelor_hair_cup_dust_later_foil_fee_market_interest_soup_actor |  
+| bip_39_word_underscore_2 | say_bachelor |  
+| bip_39_word_underscore_3 | say_bachelor_hair |  
+| bip_39_word_underscore_4 | say_bachelor_hair_cup |  
+| bip_39_word_underscore_5 | say_bachelor_hair_cup_dust |  
+| bip_39_word_underscore_6 | say_bachelor_hair_cup_dust_later |  
+| bip_39_word_underscore_7 | say_bachelor_hair_cup_dust_later_foil |  
+| bip_39_word_underscore_8 | say_bachelor_hair_cup_dust_later_foil_fee |  
+| bip_39_word_underscore_9 | say_bachelor_hair_cup_dust_later_foil_fee_market |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cushion
+bip_39_word_dash_10: cushion-grid-hobby-biology-stage-main-rule-gossip-off-sweet
+bip_39_word_dash_11: cushion-grid-hobby-biology-stage-main-rule-gossip-off-sweet-skull
+bip_39_word_dash_12: cushion-grid-hobby-biology-stage-main-rule-gossip-off-sweet-skull-all
+bip_39_word_dash_2: cushion-grid
+bip_39_word_dash_3: cushion-grid-hobby
+bip_39_word_dash_4: cushion-grid-hobby-biology
+bip_39_word_dash_5: cushion-grid-hobby-biology-stage
+bip_39_word_dash_6: cushion-grid-hobby-biology-stage-main
+bip_39_word_dash_7: cushion-grid-hobby-biology-stage-main-rule
+bip_39_word_dash_8: cushion-grid-hobby-biology-stage-main-rule-gossip
+bip_39_word_dash_9: cushion-grid-hobby-biology-stage-main-rule-gossip-off
 bip_39_word_new_br_1: cushion
 bip_39_word_new_br_10: cushion<br>grid<br>hobby<br>biology<br>stage<br>main<br>rule<br>gossip<br>off<br>sweet
 bip_39_word_new_br_11: cushion<br>grid<br>hobby<br>biology<br>stage<br>main<br>rule<br>gossip<br>off<br>sweet<br>skull
@@ -193,6 +205,18 @@ bip_39_word_space_6: cushion grid hobby biology stage main
 bip_39_word_space_7: cushion grid hobby biology stage main rule
 bip_39_word_space_8: cushion grid hobby biology stage main rule gossip
 bip_39_word_space_9: cushion grid hobby biology stage main rule gossip off
+bip_39_word_underscore_1: cushion
+bip_39_word_underscore_10: cushion_grid_hobby_biology_stage_main_rule_gossip_off_sweet
+bip_39_word_underscore_11: cushion_grid_hobby_biology_stage_main_rule_gossip_off_sweet_skull
+bip_39_word_underscore_12: cushion_grid_hobby_biology_stage_main_rule_gossip_off_sweet_skull_all
+bip_39_word_underscore_2: cushion_grid
+bip_39_word_underscore_3: cushion_grid_hobby
+bip_39_word_underscore_4: cushion_grid_hobby_biology
+bip_39_word_underscore_5: cushion_grid_hobby_biology_stage
+bip_39_word_underscore_6: cushion_grid_hobby_biology_stage_main
+bip_39_word_underscore_7: cushion_grid_hobby_biology_stage_main_rule
+bip_39_word_underscore_8: cushion_grid_hobby_biology_stage_main_rule_gossip
+bip_39_word_underscore_9: cushion_grid_hobby_biology_stage_main_rule_gossip_off
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

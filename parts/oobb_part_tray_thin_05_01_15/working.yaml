@@ -1,3 +1,15 @@
+bip_39_word_dash_1: orphan
+bip_39_word_dash_10: orphan-wear-fire-isolate-present-harvest-brush-income-hammer-extra
+bip_39_word_dash_11: orphan-wear-fire-isolate-present-harvest-brush-income-hammer-extra-act
+bip_39_word_dash_12: orphan-wear-fire-isolate-present-harvest-brush-income-hammer-extra-act-aerobic
+bip_39_word_dash_2: orphan-wear
+bip_39_word_dash_3: orphan-wear-fire
+bip_39_word_dash_4: orphan-wear-fire-isolate
+bip_39_word_dash_5: orphan-wear-fire-isolate-present
+bip_39_word_dash_6: orphan-wear-fire-isolate-present-harvest
+bip_39_word_dash_7: orphan-wear-fire-isolate-present-harvest-brush
+bip_39_word_dash_8: orphan-wear-fire-isolate-present-harvest-brush-income
+bip_39_word_dash_9: orphan-wear-fire-isolate-present-harvest-brush-income-hammer
 bip_39_word_new_br_1: orphan
 bip_39_word_new_br_10: orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income<br>hammer<br>extra
 bip_39_word_new_br_11: orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income<br>hammer<br>extra<br>act
@@ -194,6 +206,18 @@ bip_39_word_space_6: orphan wear fire isolate present harvest
 bip_39_word_space_7: orphan wear fire isolate present harvest brush
 bip_39_word_space_8: orphan wear fire isolate present harvest brush income
 bip_39_word_space_9: orphan wear fire isolate present harvest brush income hammer
+bip_39_word_underscore_1: orphan
+bip_39_word_underscore_10: orphan_wear_fire_isolate_present_harvest_brush_income_hammer_extra
+bip_39_word_underscore_11: orphan_wear_fire_isolate_present_harvest_brush_income_hammer_extra_act
+bip_39_word_underscore_12: orphan_wear_fire_isolate_present_harvest_brush_income_hammer_extra_act_aerobic
+bip_39_word_underscore_2: orphan_wear
+bip_39_word_underscore_3: orphan_wear_fire
+bip_39_word_underscore_4: orphan_wear_fire_isolate
+bip_39_word_underscore_5: orphan_wear_fire_isolate_present
+bip_39_word_underscore_6: orphan_wear_fire_isolate_present_harvest
+bip_39_word_underscore_7: orphan_wear_fire_isolate_present_harvest_brush
+bip_39_word_underscore_8: orphan_wear_fire_isolate_present_harvest_brush_income
+bip_39_word_underscore_9: orphan_wear_fire_isolate_present_harvest_brush_income_hammer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

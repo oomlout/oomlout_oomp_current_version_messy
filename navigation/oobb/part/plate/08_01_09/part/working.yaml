@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stove
+bip_39_word_dash_10: stove-arrange-piano-pear-frown-famous-silk-dentist-actress-avocado
+bip_39_word_dash_11: stove-arrange-piano-pear-frown-famous-silk-dentist-actress-avocado-green
+bip_39_word_dash_12: stove-arrange-piano-pear-frown-famous-silk-dentist-actress-avocado-green-aim
+bip_39_word_dash_2: stove-arrange
+bip_39_word_dash_3: stove-arrange-piano
+bip_39_word_dash_4: stove-arrange-piano-pear
+bip_39_word_dash_5: stove-arrange-piano-pear-frown
+bip_39_word_dash_6: stove-arrange-piano-pear-frown-famous
+bip_39_word_dash_7: stove-arrange-piano-pear-frown-famous-silk
+bip_39_word_dash_8: stove-arrange-piano-pear-frown-famous-silk-dentist
+bip_39_word_dash_9: stove-arrange-piano-pear-frown-famous-silk-dentist-actress
 bip_39_word_new_br_1: stove
 bip_39_word_new_br_10: stove<br>arrange<br>piano<br>pear<br>frown<br>famous<br>silk<br>dentist<br>actress<br>avocado
 bip_39_word_new_br_11: stove<br>arrange<br>piano<br>pear<br>frown<br>famous<br>silk<br>dentist<br>actress<br>avocado<br>green
@@ -193,6 +205,18 @@ bip_39_word_space_6: stove arrange piano pear frown famous
 bip_39_word_space_7: stove arrange piano pear frown famous silk
 bip_39_word_space_8: stove arrange piano pear frown famous silk dentist
 bip_39_word_space_9: stove arrange piano pear frown famous silk dentist actress
+bip_39_word_underscore_1: stove
+bip_39_word_underscore_10: stove_arrange_piano_pear_frown_famous_silk_dentist_actress_avocado
+bip_39_word_underscore_11: stove_arrange_piano_pear_frown_famous_silk_dentist_actress_avocado_green
+bip_39_word_underscore_12: stove_arrange_piano_pear_frown_famous_silk_dentist_actress_avocado_green_aim
+bip_39_word_underscore_2: stove_arrange
+bip_39_word_underscore_3: stove_arrange_piano
+bip_39_word_underscore_4: stove_arrange_piano_pear
+bip_39_word_underscore_5: stove_arrange_piano_pear_frown
+bip_39_word_underscore_6: stove_arrange_piano_pear_frown_famous
+bip_39_word_underscore_7: stove_arrange_piano_pear_frown_famous_silk
+bip_39_word_underscore_8: stove_arrange_piano_pear_frown_famous_silk_dentist
+bip_39_word_underscore_9: stove_arrange_piano_pear_frown_famous_silk_dentist_actress
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

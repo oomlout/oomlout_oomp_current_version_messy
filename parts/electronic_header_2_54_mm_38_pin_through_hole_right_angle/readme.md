@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oppose |  
+| bip_39_word_dash_10 | oppose-sadness-napkin-just-reveal-fly-coin-write-term-junior |  
+| bip_39_word_dash_11 | oppose-sadness-napkin-just-reveal-fly-coin-write-term-junior-maid |  
+| bip_39_word_dash_12 | oppose-sadness-napkin-just-reveal-fly-coin-write-term-junior-maid-almost |  
+| bip_39_word_dash_2 | oppose-sadness |  
+| bip_39_word_dash_3 | oppose-sadness-napkin |  
+| bip_39_word_dash_4 | oppose-sadness-napkin-just |  
+| bip_39_word_dash_5 | oppose-sadness-napkin-just-reveal |  
+| bip_39_word_dash_6 | oppose-sadness-napkin-just-reveal-fly |  
+| bip_39_word_dash_7 | oppose-sadness-napkin-just-reveal-fly-coin |  
+| bip_39_word_dash_8 | oppose-sadness-napkin-just-reveal-fly-coin-write |  
+| bip_39_word_dash_9 | oppose-sadness-napkin-just-reveal-fly-coin-write-term |  
 | bip_39_word_new_br_1 | oppose |  
 | bip_39_word_new_br_10 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior |  
 | bip_39_word_new_br_11 | oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior<br>maid |  
@@ -147,6 +159,18 @@ term |
 | bip_39_word_space_7 | oppose sadness napkin just reveal fly coin |  
 | bip_39_word_space_8 | oppose sadness napkin just reveal fly coin write |  
 | bip_39_word_space_9 | oppose sadness napkin just reveal fly coin write term |  
+| bip_39_word_underscore_1 | oppose |  
+| bip_39_word_underscore_10 | oppose_sadness_napkin_just_reveal_fly_coin_write_term_junior |  
+| bip_39_word_underscore_11 | oppose_sadness_napkin_just_reveal_fly_coin_write_term_junior_maid |  
+| bip_39_word_underscore_12 | oppose_sadness_napkin_just_reveal_fly_coin_write_term_junior_maid_almost |  
+| bip_39_word_underscore_2 | oppose_sadness |  
+| bip_39_word_underscore_3 | oppose_sadness_napkin |  
+| bip_39_word_underscore_4 | oppose_sadness_napkin_just |  
+| bip_39_word_underscore_5 | oppose_sadness_napkin_just_reveal |  
+| bip_39_word_underscore_6 | oppose_sadness_napkin_just_reveal_fly |  
+| bip_39_word_underscore_7 | oppose_sadness_napkin_just_reveal_fly_coin |  
+| bip_39_word_underscore_8 | oppose_sadness_napkin_just_reveal_fly_coin_write |  
+| bip_39_word_underscore_9 | oppose_sadness_napkin_just_reveal_fly_coin_write_term |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

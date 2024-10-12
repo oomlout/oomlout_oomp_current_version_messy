@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | obscure |  
+| bip_39_word_dash_10 | obscure-resist-slight-tank-unveil-news-daring-place-expect-tragic |  
+| bip_39_word_dash_11 | obscure-resist-slight-tank-unveil-news-daring-place-expect-tragic-already |  
+| bip_39_word_dash_12 | obscure-resist-slight-tank-unveil-news-daring-place-expect-tragic-already-already |  
+| bip_39_word_dash_2 | obscure-resist |  
+| bip_39_word_dash_3 | obscure-resist-slight |  
+| bip_39_word_dash_4 | obscure-resist-slight-tank |  
+| bip_39_word_dash_5 | obscure-resist-slight-tank-unveil |  
+| bip_39_word_dash_6 | obscure-resist-slight-tank-unveil-news |  
+| bip_39_word_dash_7 | obscure-resist-slight-tank-unveil-news-daring |  
+| bip_39_word_dash_8 | obscure-resist-slight-tank-unveil-news-daring-place |  
+| bip_39_word_dash_9 | obscure-resist-slight-tank-unveil-news-daring-place-expect |  
 | bip_39_word_new_br_1 | obscure |  
 | bip_39_word_new_br_10 | obscure<br>resist<br>slight<br>tank<br>unveil<br>news<br>daring<br>place<br>expect<br>tragic |  
 | bip_39_word_new_br_11 | obscure<br>resist<br>slight<br>tank<br>unveil<br>news<br>daring<br>place<br>expect<br>tragic<br>already |  
@@ -147,6 +159,18 @@ expect |
 | bip_39_word_space_7 | obscure resist slight tank unveil news daring |  
 | bip_39_word_space_8 | obscure resist slight tank unveil news daring place |  
 | bip_39_word_space_9 | obscure resist slight tank unveil news daring place expect |  
+| bip_39_word_underscore_1 | obscure |  
+| bip_39_word_underscore_10 | obscure_resist_slight_tank_unveil_news_daring_place_expect_tragic |  
+| bip_39_word_underscore_11 | obscure_resist_slight_tank_unveil_news_daring_place_expect_tragic_already |  
+| bip_39_word_underscore_12 | obscure_resist_slight_tank_unveil_news_daring_place_expect_tragic_already_already |  
+| bip_39_word_underscore_2 | obscure_resist |  
+| bip_39_word_underscore_3 | obscure_resist_slight |  
+| bip_39_word_underscore_4 | obscure_resist_slight_tank |  
+| bip_39_word_underscore_5 | obscure_resist_slight_tank_unveil |  
+| bip_39_word_underscore_6 | obscure_resist_slight_tank_unveil_news |  
+| bip_39_word_underscore_7 | obscure_resist_slight_tank_unveil_news_daring |  
+| bip_39_word_underscore_8 | obscure_resist_slight_tank_unveil_news_daring_place |  
+| bip_39_word_underscore_9 | obscure_resist_slight_tank_unveil_news_daring_place_expect |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

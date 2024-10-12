@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lemon |  
+| bip_39_word_dash_10 | lemon-lend-oblige-cycle-about-kit-vintage-avocado-dust-fat |  
+| bip_39_word_dash_11 | lemon-lend-oblige-cycle-about-kit-vintage-avocado-dust-fat-salon |  
+| bip_39_word_dash_12 | lemon-lend-oblige-cycle-about-kit-vintage-avocado-dust-fat-salon-abuse |  
+| bip_39_word_dash_2 | lemon-lend |  
+| bip_39_word_dash_3 | lemon-lend-oblige |  
+| bip_39_word_dash_4 | lemon-lend-oblige-cycle |  
+| bip_39_word_dash_5 | lemon-lend-oblige-cycle-about |  
+| bip_39_word_dash_6 | lemon-lend-oblige-cycle-about-kit |  
+| bip_39_word_dash_7 | lemon-lend-oblige-cycle-about-kit-vintage |  
+| bip_39_word_dash_8 | lemon-lend-oblige-cycle-about-kit-vintage-avocado |  
+| bip_39_word_dash_9 | lemon-lend-oblige-cycle-about-kit-vintage-avocado-dust |  
 | bip_39_word_new_br_1 | lemon |  
 | bip_39_word_new_br_10 | lemon<br>lend<br>oblige<br>cycle<br>about<br>kit<br>vintage<br>avocado<br>dust<br>fat |  
 | bip_39_word_new_br_11 | lemon<br>lend<br>oblige<br>cycle<br>about<br>kit<br>vintage<br>avocado<br>dust<br>fat<br>salon |  
@@ -147,6 +159,18 @@ dust |
 | bip_39_word_space_7 | lemon lend oblige cycle about kit vintage |  
 | bip_39_word_space_8 | lemon lend oblige cycle about kit vintage avocado |  
 | bip_39_word_space_9 | lemon lend oblige cycle about kit vintage avocado dust |  
+| bip_39_word_underscore_1 | lemon |  
+| bip_39_word_underscore_10 | lemon_lend_oblige_cycle_about_kit_vintage_avocado_dust_fat |  
+| bip_39_word_underscore_11 | lemon_lend_oblige_cycle_about_kit_vintage_avocado_dust_fat_salon |  
+| bip_39_word_underscore_12 | lemon_lend_oblige_cycle_about_kit_vintage_avocado_dust_fat_salon_abuse |  
+| bip_39_word_underscore_2 | lemon_lend |  
+| bip_39_word_underscore_3 | lemon_lend_oblige |  
+| bip_39_word_underscore_4 | lemon_lend_oblige_cycle |  
+| bip_39_word_underscore_5 | lemon_lend_oblige_cycle_about |  
+| bip_39_word_underscore_6 | lemon_lend_oblige_cycle_about_kit |  
+| bip_39_word_underscore_7 | lemon_lend_oblige_cycle_about_kit_vintage |  
+| bip_39_word_underscore_8 | lemon_lend_oblige_cycle_about_kit_vintage_avocado |  
+| bip_39_word_underscore_9 | lemon_lend_oblige_cycle_about_kit_vintage_avocado_dust |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

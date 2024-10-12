@@ -32,6 +32,18 @@ A closed loop stepper motor controller
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | muscle |  
+| bip_39_word_dash_10 | muscle-stumble-palace-riot-wash-ritual-supreme-nominee-judge-capital |  
+| bip_39_word_dash_11 | muscle-stumble-palace-riot-wash-ritual-supreme-nominee-judge-capital-donor |  
+| bip_39_word_dash_12 | muscle-stumble-palace-riot-wash-ritual-supreme-nominee-judge-capital-donor-artwork |  
+| bip_39_word_dash_2 | muscle-stumble |  
+| bip_39_word_dash_3 | muscle-stumble-palace |  
+| bip_39_word_dash_4 | muscle-stumble-palace-riot |  
+| bip_39_word_dash_5 | muscle-stumble-palace-riot-wash |  
+| bip_39_word_dash_6 | muscle-stumble-palace-riot-wash-ritual |  
+| bip_39_word_dash_7 | muscle-stumble-palace-riot-wash-ritual-supreme |  
+| bip_39_word_dash_8 | muscle-stumble-palace-riot-wash-ritual-supreme-nominee |  
+| bip_39_word_dash_9 | muscle-stumble-palace-riot-wash-ritual-supreme-nominee-judge |  
 | bip_39_word_new_br_1 | muscle |  
 | bip_39_word_new_br_10 | muscle<br>stumble<br>palace<br>riot<br>wash<br>ritual<br>supreme<br>nominee<br>judge<br>capital |  
 | bip_39_word_new_br_11 | muscle<br>stumble<br>palace<br>riot<br>wash<br>ritual<br>supreme<br>nominee<br>judge<br>capital<br>donor |  
@@ -147,6 +159,18 @@ judge |
 | bip_39_word_space_7 | muscle stumble palace riot wash ritual supreme |  
 | bip_39_word_space_8 | muscle stumble palace riot wash ritual supreme nominee |  
 | bip_39_word_space_9 | muscle stumble palace riot wash ritual supreme nominee judge |  
+| bip_39_word_underscore_1 | muscle |  
+| bip_39_word_underscore_10 | muscle_stumble_palace_riot_wash_ritual_supreme_nominee_judge_capital |  
+| bip_39_word_underscore_11 | muscle_stumble_palace_riot_wash_ritual_supreme_nominee_judge_capital_donor |  
+| bip_39_word_underscore_12 | muscle_stumble_palace_riot_wash_ritual_supreme_nominee_judge_capital_donor_artwork |  
+| bip_39_word_underscore_2 | muscle_stumble |  
+| bip_39_word_underscore_3 | muscle_stumble_palace |  
+| bip_39_word_underscore_4 | muscle_stumble_palace_riot |  
+| bip_39_word_underscore_5 | muscle_stumble_palace_riot_wash |  
+| bip_39_word_underscore_6 | muscle_stumble_palace_riot_wash_ritual |  
+| bip_39_word_underscore_7 | muscle_stumble_palace_riot_wash_ritual_supreme |  
+| bip_39_word_underscore_8 | muscle_stumble_palace_riot_wash_ritual_supreme_nominee |  
+| bip_39_word_underscore_9 | muscle_stumble_palace_riot_wash_ritual_supreme_nominee_judge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

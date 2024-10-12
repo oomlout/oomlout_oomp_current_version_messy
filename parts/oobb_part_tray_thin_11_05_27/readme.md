@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scrap |  
+| bip_39_word_dash_10 | scrap-alter-theory-very-pottery-kit-dynamic-slide-race-furnace |  
+| bip_39_word_dash_11 | scrap-alter-theory-very-pottery-kit-dynamic-slide-race-furnace-humor |  
+| bip_39_word_dash_12 | scrap-alter-theory-very-pottery-kit-dynamic-slide-race-furnace-humor-action |  
+| bip_39_word_dash_2 | scrap-alter |  
+| bip_39_word_dash_3 | scrap-alter-theory |  
+| bip_39_word_dash_4 | scrap-alter-theory-very |  
+| bip_39_word_dash_5 | scrap-alter-theory-very-pottery |  
+| bip_39_word_dash_6 | scrap-alter-theory-very-pottery-kit |  
+| bip_39_word_dash_7 | scrap-alter-theory-very-pottery-kit-dynamic |  
+| bip_39_word_dash_8 | scrap-alter-theory-very-pottery-kit-dynamic-slide |  
+| bip_39_word_dash_9 | scrap-alter-theory-very-pottery-kit-dynamic-slide-race |  
 | bip_39_word_new_br_1 | scrap |  
 | bip_39_word_new_br_10 | scrap<br>alter<br>theory<br>very<br>pottery<br>kit<br>dynamic<br>slide<br>race<br>furnace |  
 | bip_39_word_new_br_11 | scrap<br>alter<br>theory<br>very<br>pottery<br>kit<br>dynamic<br>slide<br>race<br>furnace<br>humor |  
@@ -147,6 +159,18 @@ race |
 | bip_39_word_space_7 | scrap alter theory very pottery kit dynamic |  
 | bip_39_word_space_8 | scrap alter theory very pottery kit dynamic slide |  
 | bip_39_word_space_9 | scrap alter theory very pottery kit dynamic slide race |  
+| bip_39_word_underscore_1 | scrap |  
+| bip_39_word_underscore_10 | scrap_alter_theory_very_pottery_kit_dynamic_slide_race_furnace |  
+| bip_39_word_underscore_11 | scrap_alter_theory_very_pottery_kit_dynamic_slide_race_furnace_humor |  
+| bip_39_word_underscore_12 | scrap_alter_theory_very_pottery_kit_dynamic_slide_race_furnace_humor_action |  
+| bip_39_word_underscore_2 | scrap_alter |  
+| bip_39_word_underscore_3 | scrap_alter_theory |  
+| bip_39_word_underscore_4 | scrap_alter_theory_very |  
+| bip_39_word_underscore_5 | scrap_alter_theory_very_pottery |  
+| bip_39_word_underscore_6 | scrap_alter_theory_very_pottery_kit |  
+| bip_39_word_underscore_7 | scrap_alter_theory_very_pottery_kit_dynamic |  
+| bip_39_word_underscore_8 | scrap_alter_theory_very_pottery_kit_dynamic_slide |  
+| bip_39_word_underscore_9 | scrap_alter_theory_very_pottery_kit_dynamic_slide_race |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: employ
+bip_39_word_dash_10: employ-ignore-number-eternal-diet-reduce-novel-flavor-stereo-all
+bip_39_word_dash_11: employ-ignore-number-eternal-diet-reduce-novel-flavor-stereo-all-hover
+bip_39_word_dash_12: employ-ignore-number-eternal-diet-reduce-novel-flavor-stereo-all-hover-alien
+bip_39_word_dash_2: employ-ignore
+bip_39_word_dash_3: employ-ignore-number
+bip_39_word_dash_4: employ-ignore-number-eternal
+bip_39_word_dash_5: employ-ignore-number-eternal-diet
+bip_39_word_dash_6: employ-ignore-number-eternal-diet-reduce
+bip_39_word_dash_7: employ-ignore-number-eternal-diet-reduce-novel
+bip_39_word_dash_8: employ-ignore-number-eternal-diet-reduce-novel-flavor
+bip_39_word_dash_9: employ-ignore-number-eternal-diet-reduce-novel-flavor-stereo
 bip_39_word_new_br_1: employ
 bip_39_word_new_br_10: employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all
 bip_39_word_new_br_11: employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all<br>hover
@@ -194,6 +206,18 @@ bip_39_word_space_6: employ ignore number eternal diet reduce
 bip_39_word_space_7: employ ignore number eternal diet reduce novel
 bip_39_word_space_8: employ ignore number eternal diet reduce novel flavor
 bip_39_word_space_9: employ ignore number eternal diet reduce novel flavor stereo
+bip_39_word_underscore_1: employ
+bip_39_word_underscore_10: employ_ignore_number_eternal_diet_reduce_novel_flavor_stereo_all
+bip_39_word_underscore_11: employ_ignore_number_eternal_diet_reduce_novel_flavor_stereo_all_hover
+bip_39_word_underscore_12: employ_ignore_number_eternal_diet_reduce_novel_flavor_stereo_all_hover_alien
+bip_39_word_underscore_2: employ_ignore
+bip_39_word_underscore_3: employ_ignore_number
+bip_39_word_underscore_4: employ_ignore_number_eternal
+bip_39_word_underscore_5: employ_ignore_number_eternal_diet
+bip_39_word_underscore_6: employ_ignore_number_eternal_diet_reduce
+bip_39_word_underscore_7: employ_ignore_number_eternal_diet_reduce_novel
+bip_39_word_underscore_8: employ_ignore_number_eternal_diet_reduce_novel_flavor
+bip_39_word_underscore_9: employ_ignore_number_eternal_diet_reduce_novel_flavor_stereo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

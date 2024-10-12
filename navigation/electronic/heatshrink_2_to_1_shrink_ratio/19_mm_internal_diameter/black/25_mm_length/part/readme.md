@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | person |  
+| bip_39_word_dash_10 | person-curtain-scheme-antenna-collect-benefit-uphold-chalk-gentle-host |  
+| bip_39_word_dash_11 | person-curtain-scheme-antenna-collect-benefit-uphold-chalk-gentle-host-brass |  
+| bip_39_word_dash_12 | person-curtain-scheme-antenna-collect-benefit-uphold-chalk-gentle-host-brass-august |  
+| bip_39_word_dash_2 | person-curtain |  
+| bip_39_word_dash_3 | person-curtain-scheme |  
+| bip_39_word_dash_4 | person-curtain-scheme-antenna |  
+| bip_39_word_dash_5 | person-curtain-scheme-antenna-collect |  
+| bip_39_word_dash_6 | person-curtain-scheme-antenna-collect-benefit |  
+| bip_39_word_dash_7 | person-curtain-scheme-antenna-collect-benefit-uphold |  
+| bip_39_word_dash_8 | person-curtain-scheme-antenna-collect-benefit-uphold-chalk |  
+| bip_39_word_dash_9 | person-curtain-scheme-antenna-collect-benefit-uphold-chalk-gentle |  
 | bip_39_word_new_br_1 | person |  
 | bip_39_word_new_br_10 | person<br>curtain<br>scheme<br>antenna<br>collect<br>benefit<br>uphold<br>chalk<br>gentle<br>host |  
 | bip_39_word_new_br_11 | person<br>curtain<br>scheme<br>antenna<br>collect<br>benefit<br>uphold<br>chalk<br>gentle<br>host<br>brass |  
@@ -147,6 +159,18 @@ gentle |
 | bip_39_word_space_7 | person curtain scheme antenna collect benefit uphold |  
 | bip_39_word_space_8 | person curtain scheme antenna collect benefit uphold chalk |  
 | bip_39_word_space_9 | person curtain scheme antenna collect benefit uphold chalk gentle |  
+| bip_39_word_underscore_1 | person |  
+| bip_39_word_underscore_10 | person_curtain_scheme_antenna_collect_benefit_uphold_chalk_gentle_host |  
+| bip_39_word_underscore_11 | person_curtain_scheme_antenna_collect_benefit_uphold_chalk_gentle_host_brass |  
+| bip_39_word_underscore_12 | person_curtain_scheme_antenna_collect_benefit_uphold_chalk_gentle_host_brass_august |  
+| bip_39_word_underscore_2 | person_curtain |  
+| bip_39_word_underscore_3 | person_curtain_scheme |  
+| bip_39_word_underscore_4 | person_curtain_scheme_antenna |  
+| bip_39_word_underscore_5 | person_curtain_scheme_antenna_collect |  
+| bip_39_word_underscore_6 | person_curtain_scheme_antenna_collect_benefit |  
+| bip_39_word_underscore_7 | person_curtain_scheme_antenna_collect_benefit_uphold |  
+| bip_39_word_underscore_8 | person_curtain_scheme_antenna_collect_benefit_uphold_chalk |  
+| bip_39_word_underscore_9 | person_curtain_scheme_antenna_collect_benefit_uphold_chalk_gentle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

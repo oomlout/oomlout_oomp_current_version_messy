@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | below |  
+| bip_39_word_dash_10 | below-mango-damage-next-orchard-relief-cancel-nurse-weasel-uncle |  
+| bip_39_word_dash_11 | below-mango-damage-next-orchard-relief-cancel-nurse-weasel-uncle-proof |  
+| bip_39_word_dash_12 | below-mango-damage-next-orchard-relief-cancel-nurse-weasel-uncle-proof-above |  
+| bip_39_word_dash_2 | below-mango |  
+| bip_39_word_dash_3 | below-mango-damage |  
+| bip_39_word_dash_4 | below-mango-damage-next |  
+| bip_39_word_dash_5 | below-mango-damage-next-orchard |  
+| bip_39_word_dash_6 | below-mango-damage-next-orchard-relief |  
+| bip_39_word_dash_7 | below-mango-damage-next-orchard-relief-cancel |  
+| bip_39_word_dash_8 | below-mango-damage-next-orchard-relief-cancel-nurse |  
+| bip_39_word_dash_9 | below-mango-damage-next-orchard-relief-cancel-nurse-weasel |  
 | bip_39_word_new_br_1 | below |  
 | bip_39_word_new_br_10 | below<br>mango<br>damage<br>next<br>orchard<br>relief<br>cancel<br>nurse<br>weasel<br>uncle |  
 | bip_39_word_new_br_11 | below<br>mango<br>damage<br>next<br>orchard<br>relief<br>cancel<br>nurse<br>weasel<br>uncle<br>proof |  
@@ -147,6 +159,18 @@ weasel |
 | bip_39_word_space_7 | below mango damage next orchard relief cancel |  
 | bip_39_word_space_8 | below mango damage next orchard relief cancel nurse |  
 | bip_39_word_space_9 | below mango damage next orchard relief cancel nurse weasel |  
+| bip_39_word_underscore_1 | below |  
+| bip_39_word_underscore_10 | below_mango_damage_next_orchard_relief_cancel_nurse_weasel_uncle |  
+| bip_39_word_underscore_11 | below_mango_damage_next_orchard_relief_cancel_nurse_weasel_uncle_proof |  
+| bip_39_word_underscore_12 | below_mango_damage_next_orchard_relief_cancel_nurse_weasel_uncle_proof_above |  
+| bip_39_word_underscore_2 | below_mango |  
+| bip_39_word_underscore_3 | below_mango_damage |  
+| bip_39_word_underscore_4 | below_mango_damage_next |  
+| bip_39_word_underscore_5 | below_mango_damage_next_orchard |  
+| bip_39_word_underscore_6 | below_mango_damage_next_orchard_relief |  
+| bip_39_word_underscore_7 | below_mango_damage_next_orchard_relief_cancel |  
+| bip_39_word_underscore_8 | below_mango_damage_next_orchard_relief_cancel_nurse |  
+| bip_39_word_underscore_9 | below_mango_damage_next_orchard_relief_cancel_nurse_weasel |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

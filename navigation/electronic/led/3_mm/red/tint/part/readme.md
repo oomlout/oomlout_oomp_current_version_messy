@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cute |  
+| bip_39_word_dash_10 | cute-blast-stable-burst-cage-decline-excuse-security-crunch-guess |  
+| bip_39_word_dash_11 | cute-blast-stable-burst-cage-decline-excuse-security-crunch-guess-universe |  
+| bip_39_word_dash_12 | cute-blast-stable-burst-cage-decline-excuse-security-crunch-guess-universe-auto |  
+| bip_39_word_dash_2 | cute-blast |  
+| bip_39_word_dash_3 | cute-blast-stable |  
+| bip_39_word_dash_4 | cute-blast-stable-burst |  
+| bip_39_word_dash_5 | cute-blast-stable-burst-cage |  
+| bip_39_word_dash_6 | cute-blast-stable-burst-cage-decline |  
+| bip_39_word_dash_7 | cute-blast-stable-burst-cage-decline-excuse |  
+| bip_39_word_dash_8 | cute-blast-stable-burst-cage-decline-excuse-security |  
+| bip_39_word_dash_9 | cute-blast-stable-burst-cage-decline-excuse-security-crunch |  
 | bip_39_word_new_br_1 | cute |  
 | bip_39_word_new_br_10 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security<br>crunch<br>guess |  
 | bip_39_word_new_br_11 | cute<br>blast<br>stable<br>burst<br>cage<br>decline<br>excuse<br>security<br>crunch<br>guess<br>universe |  
@@ -147,6 +159,18 @@ crunch |
 | bip_39_word_space_7 | cute blast stable burst cage decline excuse |  
 | bip_39_word_space_8 | cute blast stable burst cage decline excuse security |  
 | bip_39_word_space_9 | cute blast stable burst cage decline excuse security crunch |  
+| bip_39_word_underscore_1 | cute |  
+| bip_39_word_underscore_10 | cute_blast_stable_burst_cage_decline_excuse_security_crunch_guess |  
+| bip_39_word_underscore_11 | cute_blast_stable_burst_cage_decline_excuse_security_crunch_guess_universe |  
+| bip_39_word_underscore_12 | cute_blast_stable_burst_cage_decline_excuse_security_crunch_guess_universe_auto |  
+| bip_39_word_underscore_2 | cute_blast |  
+| bip_39_word_underscore_3 | cute_blast_stable |  
+| bip_39_word_underscore_4 | cute_blast_stable_burst |  
+| bip_39_word_underscore_5 | cute_blast_stable_burst_cage |  
+| bip_39_word_underscore_6 | cute_blast_stable_burst_cage_decline |  
+| bip_39_word_underscore_7 | cute_blast_stable_burst_cage_decline_excuse |  
+| bip_39_word_underscore_8 | cute_blast_stable_burst_cage_decline_excuse_security |  
+| bip_39_word_underscore_9 | cute_blast_stable_burst_cage_decline_excuse_security_crunch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

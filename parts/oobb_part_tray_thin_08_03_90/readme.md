@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silver |  
+| bip_39_word_dash_10 | silver-catch-large-club-cash-connect-vault-track-vintage-guard |  
+| bip_39_word_dash_11 | silver-catch-large-club-cash-connect-vault-track-vintage-guard-apology |  
+| bip_39_word_dash_12 | silver-catch-large-club-cash-connect-vault-track-vintage-guard-apology-attend |  
+| bip_39_word_dash_2 | silver-catch |  
+| bip_39_word_dash_3 | silver-catch-large |  
+| bip_39_word_dash_4 | silver-catch-large-club |  
+| bip_39_word_dash_5 | silver-catch-large-club-cash |  
+| bip_39_word_dash_6 | silver-catch-large-club-cash-connect |  
+| bip_39_word_dash_7 | silver-catch-large-club-cash-connect-vault |  
+| bip_39_word_dash_8 | silver-catch-large-club-cash-connect-vault-track |  
+| bip_39_word_dash_9 | silver-catch-large-club-cash-connect-vault-track-vintage |  
 | bip_39_word_new_br_1 | silver |  
 | bip_39_word_new_br_10 | silver<br>catch<br>large<br>club<br>cash<br>connect<br>vault<br>track<br>vintage<br>guard |  
 | bip_39_word_new_br_11 | silver<br>catch<br>large<br>club<br>cash<br>connect<br>vault<br>track<br>vintage<br>guard<br>apology |  
@@ -147,6 +159,18 @@ vintage |
 | bip_39_word_space_7 | silver catch large club cash connect vault |  
 | bip_39_word_space_8 | silver catch large club cash connect vault track |  
 | bip_39_word_space_9 | silver catch large club cash connect vault track vintage |  
+| bip_39_word_underscore_1 | silver |  
+| bip_39_word_underscore_10 | silver_catch_large_club_cash_connect_vault_track_vintage_guard |  
+| bip_39_word_underscore_11 | silver_catch_large_club_cash_connect_vault_track_vintage_guard_apology |  
+| bip_39_word_underscore_12 | silver_catch_large_club_cash_connect_vault_track_vintage_guard_apology_attend |  
+| bip_39_word_underscore_2 | silver_catch |  
+| bip_39_word_underscore_3 | silver_catch_large |  
+| bip_39_word_underscore_4 | silver_catch_large_club |  
+| bip_39_word_underscore_5 | silver_catch_large_club_cash |  
+| bip_39_word_underscore_6 | silver_catch_large_club_cash_connect |  
+| bip_39_word_underscore_7 | silver_catch_large_club_cash_connect_vault |  
+| bip_39_word_underscore_8 | silver_catch_large_club_cash_connect_vault_track |  
+| bip_39_word_underscore_9 | silver_catch_large_club_cash_connect_vault_track_vintage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: snap
+bip_39_word_dash_10: snap-prize-sign-sister-ivory-essence-spirit-easy-erode-wing
+bip_39_word_dash_11: snap-prize-sign-sister-ivory-essence-spirit-easy-erode-wing-blush
+bip_39_word_dash_12: snap-prize-sign-sister-ivory-essence-spirit-easy-erode-wing-blush-animal
+bip_39_word_dash_2: snap-prize
+bip_39_word_dash_3: snap-prize-sign
+bip_39_word_dash_4: snap-prize-sign-sister
+bip_39_word_dash_5: snap-prize-sign-sister-ivory
+bip_39_word_dash_6: snap-prize-sign-sister-ivory-essence
+bip_39_word_dash_7: snap-prize-sign-sister-ivory-essence-spirit
+bip_39_word_dash_8: snap-prize-sign-sister-ivory-essence-spirit-easy
+bip_39_word_dash_9: snap-prize-sign-sister-ivory-essence-spirit-easy-erode
 bip_39_word_new_br_1: snap
 bip_39_word_new_br_10: snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy<br>erode<br>wing
 bip_39_word_new_br_11: snap<br>prize<br>sign<br>sister<br>ivory<br>essence<br>spirit<br>easy<br>erode<br>wing<br>blush
@@ -193,6 +205,18 @@ bip_39_word_space_6: snap prize sign sister ivory essence
 bip_39_word_space_7: snap prize sign sister ivory essence spirit
 bip_39_word_space_8: snap prize sign sister ivory essence spirit easy
 bip_39_word_space_9: snap prize sign sister ivory essence spirit easy erode
+bip_39_word_underscore_1: snap
+bip_39_word_underscore_10: snap_prize_sign_sister_ivory_essence_spirit_easy_erode_wing
+bip_39_word_underscore_11: snap_prize_sign_sister_ivory_essence_spirit_easy_erode_wing_blush
+bip_39_word_underscore_12: snap_prize_sign_sister_ivory_essence_spirit_easy_erode_wing_blush_animal
+bip_39_word_underscore_2: snap_prize
+bip_39_word_underscore_3: snap_prize_sign
+bip_39_word_underscore_4: snap_prize_sign_sister
+bip_39_word_underscore_5: snap_prize_sign_sister_ivory
+bip_39_word_underscore_6: snap_prize_sign_sister_ivory_essence
+bip_39_word_underscore_7: snap_prize_sign_sister_ivory_essence_spirit
+bip_39_word_underscore_8: snap_prize_sign_sister_ivory_essence_spirit_easy
+bip_39_word_underscore_9: snap_prize_sign_sister_ivory_essence_spirit_easy_erode
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

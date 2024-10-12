@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fiscal |  
+| bip_39_word_dash_10 | fiscal-jealous-heart-radar-tobacco-age-piano-child-address-submit |  
+| bip_39_word_dash_11 | fiscal-jealous-heart-radar-tobacco-age-piano-child-address-submit-mesh |  
+| bip_39_word_dash_12 | fiscal-jealous-heart-radar-tobacco-age-piano-child-address-submit-mesh-another |  
+| bip_39_word_dash_2 | fiscal-jealous |  
+| bip_39_word_dash_3 | fiscal-jealous-heart |  
+| bip_39_word_dash_4 | fiscal-jealous-heart-radar |  
+| bip_39_word_dash_5 | fiscal-jealous-heart-radar-tobacco |  
+| bip_39_word_dash_6 | fiscal-jealous-heart-radar-tobacco-age |  
+| bip_39_word_dash_7 | fiscal-jealous-heart-radar-tobacco-age-piano |  
+| bip_39_word_dash_8 | fiscal-jealous-heart-radar-tobacco-age-piano-child |  
+| bip_39_word_dash_9 | fiscal-jealous-heart-radar-tobacco-age-piano-child-address |  
 | bip_39_word_new_br_1 | fiscal |  
 | bip_39_word_new_br_10 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit |  
 | bip_39_word_new_br_11 | fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit<br>mesh |  
@@ -147,6 +159,18 @@ address |
 | bip_39_word_space_7 | fiscal jealous heart radar tobacco age piano |  
 | bip_39_word_space_8 | fiscal jealous heart radar tobacco age piano child |  
 | bip_39_word_space_9 | fiscal jealous heart radar tobacco age piano child address |  
+| bip_39_word_underscore_1 | fiscal |  
+| bip_39_word_underscore_10 | fiscal_jealous_heart_radar_tobacco_age_piano_child_address_submit |  
+| bip_39_word_underscore_11 | fiscal_jealous_heart_radar_tobacco_age_piano_child_address_submit_mesh |  
+| bip_39_word_underscore_12 | fiscal_jealous_heart_radar_tobacco_age_piano_child_address_submit_mesh_another |  
+| bip_39_word_underscore_2 | fiscal_jealous |  
+| bip_39_word_underscore_3 | fiscal_jealous_heart |  
+| bip_39_word_underscore_4 | fiscal_jealous_heart_radar |  
+| bip_39_word_underscore_5 | fiscal_jealous_heart_radar_tobacco |  
+| bip_39_word_underscore_6 | fiscal_jealous_heart_radar_tobacco_age |  
+| bip_39_word_underscore_7 | fiscal_jealous_heart_radar_tobacco_age_piano |  
+| bip_39_word_underscore_8 | fiscal_jealous_heart_radar_tobacco_age_piano_child |  
+| bip_39_word_underscore_9 | fiscal_jealous_heart_radar_tobacco_age_piano_child_address |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

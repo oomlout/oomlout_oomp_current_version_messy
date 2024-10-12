@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | suit |  
+| bip_39_word_dash_10 | suit-choice-defy-victory-anchor-amazing-anger-close-dutch-math |  
+| bip_39_word_dash_11 | suit-choice-defy-victory-anchor-amazing-anger-close-dutch-math-sort |  
+| bip_39_word_dash_12 | suit-choice-defy-victory-anchor-amazing-anger-close-dutch-math-sort-amount |  
+| bip_39_word_dash_2 | suit-choice |  
+| bip_39_word_dash_3 | suit-choice-defy |  
+| bip_39_word_dash_4 | suit-choice-defy-victory |  
+| bip_39_word_dash_5 | suit-choice-defy-victory-anchor |  
+| bip_39_word_dash_6 | suit-choice-defy-victory-anchor-amazing |  
+| bip_39_word_dash_7 | suit-choice-defy-victory-anchor-amazing-anger |  
+| bip_39_word_dash_8 | suit-choice-defy-victory-anchor-amazing-anger-close |  
+| bip_39_word_dash_9 | suit-choice-defy-victory-anchor-amazing-anger-close-dutch |  
 | bip_39_word_new_br_1 | suit |  
 | bip_39_word_new_br_10 | suit<br>choice<br>defy<br>victory<br>anchor<br>amazing<br>anger<br>close<br>dutch<br>math |  
 | bip_39_word_new_br_11 | suit<br>choice<br>defy<br>victory<br>anchor<br>amazing<br>anger<br>close<br>dutch<br>math<br>sort |  
@@ -147,6 +159,18 @@ dutch |
 | bip_39_word_space_7 | suit choice defy victory anchor amazing anger |  
 | bip_39_word_space_8 | suit choice defy victory anchor amazing anger close |  
 | bip_39_word_space_9 | suit choice defy victory anchor amazing anger close dutch |  
+| bip_39_word_underscore_1 | suit |  
+| bip_39_word_underscore_10 | suit_choice_defy_victory_anchor_amazing_anger_close_dutch_math |  
+| bip_39_word_underscore_11 | suit_choice_defy_victory_anchor_amazing_anger_close_dutch_math_sort |  
+| bip_39_word_underscore_12 | suit_choice_defy_victory_anchor_amazing_anger_close_dutch_math_sort_amount |  
+| bip_39_word_underscore_2 | suit_choice |  
+| bip_39_word_underscore_3 | suit_choice_defy |  
+| bip_39_word_underscore_4 | suit_choice_defy_victory |  
+| bip_39_word_underscore_5 | suit_choice_defy_victory_anchor |  
+| bip_39_word_underscore_6 | suit_choice_defy_victory_anchor_amazing |  
+| bip_39_word_underscore_7 | suit_choice_defy_victory_anchor_amazing_anger |  
+| bip_39_word_underscore_8 | suit_choice_defy_victory_anchor_amazing_anger_close |  
+| bip_39_word_underscore_9 | suit_choice_defy_victory_anchor_amazing_anger_close_dutch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

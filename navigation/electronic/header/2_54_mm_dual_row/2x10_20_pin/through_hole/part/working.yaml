@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hobby
+bip_39_word_dash_10: hobby-hard-resemble-lake-nuclear-sorry-session-fun-toy-math
+bip_39_word_dash_11: hobby-hard-resemble-lake-nuclear-sorry-session-fun-toy-math-staff
+bip_39_word_dash_12: hobby-hard-resemble-lake-nuclear-sorry-session-fun-toy-math-staff-act
+bip_39_word_dash_2: hobby-hard
+bip_39_word_dash_3: hobby-hard-resemble
+bip_39_word_dash_4: hobby-hard-resemble-lake
+bip_39_word_dash_5: hobby-hard-resemble-lake-nuclear
+bip_39_word_dash_6: hobby-hard-resemble-lake-nuclear-sorry
+bip_39_word_dash_7: hobby-hard-resemble-lake-nuclear-sorry-session
+bip_39_word_dash_8: hobby-hard-resemble-lake-nuclear-sorry-session-fun
+bip_39_word_dash_9: hobby-hard-resemble-lake-nuclear-sorry-session-fun-toy
 bip_39_word_new_br_1: hobby
 bip_39_word_new_br_10: hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun<br>toy<br>math
 bip_39_word_new_br_11: hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun<br>toy<br>math<br>staff
@@ -193,6 +205,18 @@ bip_39_word_space_6: hobby hard resemble lake nuclear sorry
 bip_39_word_space_7: hobby hard resemble lake nuclear sorry session
 bip_39_word_space_8: hobby hard resemble lake nuclear sorry session fun
 bip_39_word_space_9: hobby hard resemble lake nuclear sorry session fun toy
+bip_39_word_underscore_1: hobby
+bip_39_word_underscore_10: hobby_hard_resemble_lake_nuclear_sorry_session_fun_toy_math
+bip_39_word_underscore_11: hobby_hard_resemble_lake_nuclear_sorry_session_fun_toy_math_staff
+bip_39_word_underscore_12: hobby_hard_resemble_lake_nuclear_sorry_session_fun_toy_math_staff_act
+bip_39_word_underscore_2: hobby_hard
+bip_39_word_underscore_3: hobby_hard_resemble
+bip_39_word_underscore_4: hobby_hard_resemble_lake
+bip_39_word_underscore_5: hobby_hard_resemble_lake_nuclear
+bip_39_word_underscore_6: hobby_hard_resemble_lake_nuclear_sorry
+bip_39_word_underscore_7: hobby_hard_resemble_lake_nuclear_sorry_session
+bip_39_word_underscore_8: hobby_hard_resemble_lake_nuclear_sorry_session_fun
+bip_39_word_underscore_9: hobby_hard_resemble_lake_nuclear_sorry_session_fun_toy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

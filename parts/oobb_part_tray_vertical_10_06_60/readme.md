@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plug |  
+| bip_39_word_dash_10 | plug-attack-pool-time-judge-aunt-six-friend-danger-upset |  
+| bip_39_word_dash_11 | plug-attack-pool-time-judge-aunt-six-friend-danger-upset-glove |  
+| bip_39_word_dash_12 | plug-attack-pool-time-judge-aunt-six-friend-danger-upset-glove-art |  
+| bip_39_word_dash_2 | plug-attack |  
+| bip_39_word_dash_3 | plug-attack-pool |  
+| bip_39_word_dash_4 | plug-attack-pool-time |  
+| bip_39_word_dash_5 | plug-attack-pool-time-judge |  
+| bip_39_word_dash_6 | plug-attack-pool-time-judge-aunt |  
+| bip_39_word_dash_7 | plug-attack-pool-time-judge-aunt-six |  
+| bip_39_word_dash_8 | plug-attack-pool-time-judge-aunt-six-friend |  
+| bip_39_word_dash_9 | plug-attack-pool-time-judge-aunt-six-friend-danger |  
 | bip_39_word_new_br_1 | plug |  
 | bip_39_word_new_br_10 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend<br>danger<br>upset |  
 | bip_39_word_new_br_11 | plug<br>attack<br>pool<br>time<br>judge<br>aunt<br>six<br>friend<br>danger<br>upset<br>glove |  
@@ -147,6 +159,18 @@ danger |
 | bip_39_word_space_7 | plug attack pool time judge aunt six |  
 | bip_39_word_space_8 | plug attack pool time judge aunt six friend |  
 | bip_39_word_space_9 | plug attack pool time judge aunt six friend danger |  
+| bip_39_word_underscore_1 | plug |  
+| bip_39_word_underscore_10 | plug_attack_pool_time_judge_aunt_six_friend_danger_upset |  
+| bip_39_word_underscore_11 | plug_attack_pool_time_judge_aunt_six_friend_danger_upset_glove |  
+| bip_39_word_underscore_12 | plug_attack_pool_time_judge_aunt_six_friend_danger_upset_glove_art |  
+| bip_39_word_underscore_2 | plug_attack |  
+| bip_39_word_underscore_3 | plug_attack_pool |  
+| bip_39_word_underscore_4 | plug_attack_pool_time |  
+| bip_39_word_underscore_5 | plug_attack_pool_time_judge |  
+| bip_39_word_underscore_6 | plug_attack_pool_time_judge_aunt |  
+| bip_39_word_underscore_7 | plug_attack_pool_time_judge_aunt_six |  
+| bip_39_word_underscore_8 | plug_attack_pool_time_judge_aunt_six_friend |  
+| bip_39_word_underscore_9 | plug_attack_pool_time_judge_aunt_six_friend_danger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clay |  
+| bip_39_word_dash_10 | clay-riot-wreck-adapt-urban-core-scrap-exist-direct-album |  
+| bip_39_word_dash_11 | clay-riot-wreck-adapt-urban-core-scrap-exist-direct-album-unfair |  
+| bip_39_word_dash_12 | clay-riot-wreck-adapt-urban-core-scrap-exist-direct-album-unfair-anger |  
+| bip_39_word_dash_2 | clay-riot |  
+| bip_39_word_dash_3 | clay-riot-wreck |  
+| bip_39_word_dash_4 | clay-riot-wreck-adapt |  
+| bip_39_word_dash_5 | clay-riot-wreck-adapt-urban |  
+| bip_39_word_dash_6 | clay-riot-wreck-adapt-urban-core |  
+| bip_39_word_dash_7 | clay-riot-wreck-adapt-urban-core-scrap |  
+| bip_39_word_dash_8 | clay-riot-wreck-adapt-urban-core-scrap-exist |  
+| bip_39_word_dash_9 | clay-riot-wreck-adapt-urban-core-scrap-exist-direct |  
 | bip_39_word_new_br_1 | clay |  
 | bip_39_word_new_br_10 | clay<br>riot<br>wreck<br>adapt<br>urban<br>core<br>scrap<br>exist<br>direct<br>album |  
 | bip_39_word_new_br_11 | clay<br>riot<br>wreck<br>adapt<br>urban<br>core<br>scrap<br>exist<br>direct<br>album<br>unfair |  
@@ -147,6 +159,18 @@ direct |
 | bip_39_word_space_7 | clay riot wreck adapt urban core scrap |  
 | bip_39_word_space_8 | clay riot wreck adapt urban core scrap exist |  
 | bip_39_word_space_9 | clay riot wreck adapt urban core scrap exist direct |  
+| bip_39_word_underscore_1 | clay |  
+| bip_39_word_underscore_10 | clay_riot_wreck_adapt_urban_core_scrap_exist_direct_album |  
+| bip_39_word_underscore_11 | clay_riot_wreck_adapt_urban_core_scrap_exist_direct_album_unfair |  
+| bip_39_word_underscore_12 | clay_riot_wreck_adapt_urban_core_scrap_exist_direct_album_unfair_anger |  
+| bip_39_word_underscore_2 | clay_riot |  
+| bip_39_word_underscore_3 | clay_riot_wreck |  
+| bip_39_word_underscore_4 | clay_riot_wreck_adapt |  
+| bip_39_word_underscore_5 | clay_riot_wreck_adapt_urban |  
+| bip_39_word_underscore_6 | clay_riot_wreck_adapt_urban_core |  
+| bip_39_word_underscore_7 | clay_riot_wreck_adapt_urban_core_scrap |  
+| bip_39_word_underscore_8 | clay_riot_wreck_adapt_urban_core_scrap_exist |  
+| bip_39_word_underscore_9 | clay_riot_wreck_adapt_urban_core_scrap_exist_direct |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bridge
+bip_39_word_dash_10: bridge-shell-chair-have-narrow-vintage-helmet-key-absent-resource
+bip_39_word_dash_11: bridge-shell-chair-have-narrow-vintage-helmet-key-absent-resource-feature
+bip_39_word_dash_12: bridge-shell-chair-have-narrow-vintage-helmet-key-absent-resource-feature-age
+bip_39_word_dash_2: bridge-shell
+bip_39_word_dash_3: bridge-shell-chair
+bip_39_word_dash_4: bridge-shell-chair-have
+bip_39_word_dash_5: bridge-shell-chair-have-narrow
+bip_39_word_dash_6: bridge-shell-chair-have-narrow-vintage
+bip_39_word_dash_7: bridge-shell-chair-have-narrow-vintage-helmet
+bip_39_word_dash_8: bridge-shell-chair-have-narrow-vintage-helmet-key
+bip_39_word_dash_9: bridge-shell-chair-have-narrow-vintage-helmet-key-absent
 bip_39_word_new_br_1: bridge
 bip_39_word_new_br_10: bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key<br>absent<br>resource
 bip_39_word_new_br_11: bridge<br>shell<br>chair<br>have<br>narrow<br>vintage<br>helmet<br>key<br>absent<br>resource<br>feature
@@ -193,6 +205,18 @@ bip_39_word_space_6: bridge shell chair have narrow vintage
 bip_39_word_space_7: bridge shell chair have narrow vintage helmet
 bip_39_word_space_8: bridge shell chair have narrow vintage helmet key
 bip_39_word_space_9: bridge shell chair have narrow vintage helmet key absent
+bip_39_word_underscore_1: bridge
+bip_39_word_underscore_10: bridge_shell_chair_have_narrow_vintage_helmet_key_absent_resource
+bip_39_word_underscore_11: bridge_shell_chair_have_narrow_vintage_helmet_key_absent_resource_feature
+bip_39_word_underscore_12: bridge_shell_chair_have_narrow_vintage_helmet_key_absent_resource_feature_age
+bip_39_word_underscore_2: bridge_shell
+bip_39_word_underscore_3: bridge_shell_chair
+bip_39_word_underscore_4: bridge_shell_chair_have
+bip_39_word_underscore_5: bridge_shell_chair_have_narrow
+bip_39_word_underscore_6: bridge_shell_chair_have_narrow_vintage
+bip_39_word_underscore_7: bridge_shell_chair_have_narrow_vintage_helmet
+bip_39_word_underscore_8: bridge_shell_chair_have_narrow_vintage_helmet_key
+bip_39_word_underscore_9: bridge_shell_chair_have_narrow_vintage_helmet_key_absent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

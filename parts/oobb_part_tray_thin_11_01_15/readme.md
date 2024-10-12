@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | good |  
+| bip_39_word_dash_10 | good-weapon-medal-pond-blossom-prefer-shallow-fitness-plunge-gold |  
+| bip_39_word_dash_11 | good-weapon-medal-pond-blossom-prefer-shallow-fitness-plunge-gold-cousin |  
+| bip_39_word_dash_12 | good-weapon-medal-pond-blossom-prefer-shallow-fitness-plunge-gold-cousin-about |  
+| bip_39_word_dash_2 | good-weapon |  
+| bip_39_word_dash_3 | good-weapon-medal |  
+| bip_39_word_dash_4 | good-weapon-medal-pond |  
+| bip_39_word_dash_5 | good-weapon-medal-pond-blossom |  
+| bip_39_word_dash_6 | good-weapon-medal-pond-blossom-prefer |  
+| bip_39_word_dash_7 | good-weapon-medal-pond-blossom-prefer-shallow |  
+| bip_39_word_dash_8 | good-weapon-medal-pond-blossom-prefer-shallow-fitness |  
+| bip_39_word_dash_9 | good-weapon-medal-pond-blossom-prefer-shallow-fitness-plunge |  
 | bip_39_word_new_br_1 | good |  
 | bip_39_word_new_br_10 | good<br>weapon<br>medal<br>pond<br>blossom<br>prefer<br>shallow<br>fitness<br>plunge<br>gold |  
 | bip_39_word_new_br_11 | good<br>weapon<br>medal<br>pond<br>blossom<br>prefer<br>shallow<br>fitness<br>plunge<br>gold<br>cousin |  
@@ -147,6 +159,18 @@ plunge |
 | bip_39_word_space_7 | good weapon medal pond blossom prefer shallow |  
 | bip_39_word_space_8 | good weapon medal pond blossom prefer shallow fitness |  
 | bip_39_word_space_9 | good weapon medal pond blossom prefer shallow fitness plunge |  
+| bip_39_word_underscore_1 | good |  
+| bip_39_word_underscore_10 | good_weapon_medal_pond_blossom_prefer_shallow_fitness_plunge_gold |  
+| bip_39_word_underscore_11 | good_weapon_medal_pond_blossom_prefer_shallow_fitness_plunge_gold_cousin |  
+| bip_39_word_underscore_12 | good_weapon_medal_pond_blossom_prefer_shallow_fitness_plunge_gold_cousin_about |  
+| bip_39_word_underscore_2 | good_weapon |  
+| bip_39_word_underscore_3 | good_weapon_medal |  
+| bip_39_word_underscore_4 | good_weapon_medal_pond |  
+| bip_39_word_underscore_5 | good_weapon_medal_pond_blossom |  
+| bip_39_word_underscore_6 | good_weapon_medal_pond_blossom_prefer |  
+| bip_39_word_underscore_7 | good_weapon_medal_pond_blossom_prefer_shallow |  
+| bip_39_word_underscore_8 | good_weapon_medal_pond_blossom_prefer_shallow_fitness |  
+| bip_39_word_underscore_9 | good_weapon_medal_pond_blossom_prefer_shallow_fitness_plunge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

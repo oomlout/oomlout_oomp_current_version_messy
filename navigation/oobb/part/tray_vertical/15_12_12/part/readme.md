@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pear |  
+| bip_39_word_dash_10 | pear-inhale-copy-conduct-winter-home-quarter-olympic-grit-index |  
+| bip_39_word_dash_11 | pear-inhale-copy-conduct-winter-home-quarter-olympic-grit-index-three |  
+| bip_39_word_dash_12 | pear-inhale-copy-conduct-winter-home-quarter-olympic-grit-index-three-approve |  
+| bip_39_word_dash_2 | pear-inhale |  
+| bip_39_word_dash_3 | pear-inhale-copy |  
+| bip_39_word_dash_4 | pear-inhale-copy-conduct |  
+| bip_39_word_dash_5 | pear-inhale-copy-conduct-winter |  
+| bip_39_word_dash_6 | pear-inhale-copy-conduct-winter-home |  
+| bip_39_word_dash_7 | pear-inhale-copy-conduct-winter-home-quarter |  
+| bip_39_word_dash_8 | pear-inhale-copy-conduct-winter-home-quarter-olympic |  
+| bip_39_word_dash_9 | pear-inhale-copy-conduct-winter-home-quarter-olympic-grit |  
 | bip_39_word_new_br_1 | pear |  
 | bip_39_word_new_br_10 | pear<br>inhale<br>copy<br>conduct<br>winter<br>home<br>quarter<br>olympic<br>grit<br>index |  
 | bip_39_word_new_br_11 | pear<br>inhale<br>copy<br>conduct<br>winter<br>home<br>quarter<br>olympic<br>grit<br>index<br>three |  
@@ -147,6 +159,18 @@ grit |
 | bip_39_word_space_7 | pear inhale copy conduct winter home quarter |  
 | bip_39_word_space_8 | pear inhale copy conduct winter home quarter olympic |  
 | bip_39_word_space_9 | pear inhale copy conduct winter home quarter olympic grit |  
+| bip_39_word_underscore_1 | pear |  
+| bip_39_word_underscore_10 | pear_inhale_copy_conduct_winter_home_quarter_olympic_grit_index |  
+| bip_39_word_underscore_11 | pear_inhale_copy_conduct_winter_home_quarter_olympic_grit_index_three |  
+| bip_39_word_underscore_12 | pear_inhale_copy_conduct_winter_home_quarter_olympic_grit_index_three_approve |  
+| bip_39_word_underscore_2 | pear_inhale |  
+| bip_39_word_underscore_3 | pear_inhale_copy |  
+| bip_39_word_underscore_4 | pear_inhale_copy_conduct |  
+| bip_39_word_underscore_5 | pear_inhale_copy_conduct_winter |  
+| bip_39_word_underscore_6 | pear_inhale_copy_conduct_winter_home |  
+| bip_39_word_underscore_7 | pear_inhale_copy_conduct_winter_home_quarter |  
+| bip_39_word_underscore_8 | pear_inhale_copy_conduct_winter_home_quarter_olympic |  
+| bip_39_word_underscore_9 | pear_inhale_copy_conduct_winter_home_quarter_olympic_grit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

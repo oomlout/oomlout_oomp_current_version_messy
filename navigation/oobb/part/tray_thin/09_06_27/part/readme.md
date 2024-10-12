@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | keen |  
+| bip_39_word_dash_10 | keen-stock-social-pull-pink-obtain-ramp-vocal-forward-biology |  
+| bip_39_word_dash_11 | keen-stock-social-pull-pink-obtain-ramp-vocal-forward-biology-victory |  
+| bip_39_word_dash_12 | keen-stock-social-pull-pink-obtain-ramp-vocal-forward-biology-victory-annual |  
+| bip_39_word_dash_2 | keen-stock |  
+| bip_39_word_dash_3 | keen-stock-social |  
+| bip_39_word_dash_4 | keen-stock-social-pull |  
+| bip_39_word_dash_5 | keen-stock-social-pull-pink |  
+| bip_39_word_dash_6 | keen-stock-social-pull-pink-obtain |  
+| bip_39_word_dash_7 | keen-stock-social-pull-pink-obtain-ramp |  
+| bip_39_word_dash_8 | keen-stock-social-pull-pink-obtain-ramp-vocal |  
+| bip_39_word_dash_9 | keen-stock-social-pull-pink-obtain-ramp-vocal-forward |  
 | bip_39_word_new_br_1 | keen |  
 | bip_39_word_new_br_10 | keen<br>stock<br>social<br>pull<br>pink<br>obtain<br>ramp<br>vocal<br>forward<br>biology |  
 | bip_39_word_new_br_11 | keen<br>stock<br>social<br>pull<br>pink<br>obtain<br>ramp<br>vocal<br>forward<br>biology<br>victory |  
@@ -147,6 +159,18 @@ forward |
 | bip_39_word_space_7 | keen stock social pull pink obtain ramp |  
 | bip_39_word_space_8 | keen stock social pull pink obtain ramp vocal |  
 | bip_39_word_space_9 | keen stock social pull pink obtain ramp vocal forward |  
+| bip_39_word_underscore_1 | keen |  
+| bip_39_word_underscore_10 | keen_stock_social_pull_pink_obtain_ramp_vocal_forward_biology |  
+| bip_39_word_underscore_11 | keen_stock_social_pull_pink_obtain_ramp_vocal_forward_biology_victory |  
+| bip_39_word_underscore_12 | keen_stock_social_pull_pink_obtain_ramp_vocal_forward_biology_victory_annual |  
+| bip_39_word_underscore_2 | keen_stock |  
+| bip_39_word_underscore_3 | keen_stock_social |  
+| bip_39_word_underscore_4 | keen_stock_social_pull |  
+| bip_39_word_underscore_5 | keen_stock_social_pull_pink |  
+| bip_39_word_underscore_6 | keen_stock_social_pull_pink_obtain |  
+| bip_39_word_underscore_7 | keen_stock_social_pull_pink_obtain_ramp |  
+| bip_39_word_underscore_8 | keen_stock_social_pull_pink_obtain_ramp_vocal |  
+| bip_39_word_underscore_9 | keen_stock_social_pull_pink_obtain_ramp_vocal_forward |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

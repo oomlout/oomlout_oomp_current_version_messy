@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | heavy |  
+| bip_39_word_dash_10 | heavy-term-cage-escape-fiscal-dream-pink-piece-rug-blood |  
+| bip_39_word_dash_11 | heavy-term-cage-escape-fiscal-dream-pink-piece-rug-blood-direct |  
+| bip_39_word_dash_12 | heavy-term-cage-escape-fiscal-dream-pink-piece-rug-blood-direct-abuse |  
+| bip_39_word_dash_2 | heavy-term |  
+| bip_39_word_dash_3 | heavy-term-cage |  
+| bip_39_word_dash_4 | heavy-term-cage-escape |  
+| bip_39_word_dash_5 | heavy-term-cage-escape-fiscal |  
+| bip_39_word_dash_6 | heavy-term-cage-escape-fiscal-dream |  
+| bip_39_word_dash_7 | heavy-term-cage-escape-fiscal-dream-pink |  
+| bip_39_word_dash_8 | heavy-term-cage-escape-fiscal-dream-pink-piece |  
+| bip_39_word_dash_9 | heavy-term-cage-escape-fiscal-dream-pink-piece-rug |  
 | bip_39_word_new_br_1 | heavy |  
 | bip_39_word_new_br_10 | heavy<br>term<br>cage<br>escape<br>fiscal<br>dream<br>pink<br>piece<br>rug<br>blood |  
 | bip_39_word_new_br_11 | heavy<br>term<br>cage<br>escape<br>fiscal<br>dream<br>pink<br>piece<br>rug<br>blood<br>direct |  
@@ -147,6 +159,18 @@ rug |
 | bip_39_word_space_7 | heavy term cage escape fiscal dream pink |  
 | bip_39_word_space_8 | heavy term cage escape fiscal dream pink piece |  
 | bip_39_word_space_9 | heavy term cage escape fiscal dream pink piece rug |  
+| bip_39_word_underscore_1 | heavy |  
+| bip_39_word_underscore_10 | heavy_term_cage_escape_fiscal_dream_pink_piece_rug_blood |  
+| bip_39_word_underscore_11 | heavy_term_cage_escape_fiscal_dream_pink_piece_rug_blood_direct |  
+| bip_39_word_underscore_12 | heavy_term_cage_escape_fiscal_dream_pink_piece_rug_blood_direct_abuse |  
+| bip_39_word_underscore_2 | heavy_term |  
+| bip_39_word_underscore_3 | heavy_term_cage |  
+| bip_39_word_underscore_4 | heavy_term_cage_escape |  
+| bip_39_word_underscore_5 | heavy_term_cage_escape_fiscal |  
+| bip_39_word_underscore_6 | heavy_term_cage_escape_fiscal_dream |  
+| bip_39_word_underscore_7 | heavy_term_cage_escape_fiscal_dream_pink |  
+| bip_39_word_underscore_8 | heavy_term_cage_escape_fiscal_dream_pink_piece |  
+| bip_39_word_underscore_9 | heavy_term_cage_escape_fiscal_dream_pink_piece_rug |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

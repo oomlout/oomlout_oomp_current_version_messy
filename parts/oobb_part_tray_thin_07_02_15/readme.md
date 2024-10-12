@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | busy |  
+| bip_39_word_dash_10 | busy-angle-discover-diesel-loan-swallow-fault-quit-tribe-wife |  
+| bip_39_word_dash_11 | busy-angle-discover-diesel-loan-swallow-fault-quit-tribe-wife-distance |  
+| bip_39_word_dash_12 | busy-angle-discover-diesel-loan-swallow-fault-quit-tribe-wife-distance-absorb |  
+| bip_39_word_dash_2 | busy-angle |  
+| bip_39_word_dash_3 | busy-angle-discover |  
+| bip_39_word_dash_4 | busy-angle-discover-diesel |  
+| bip_39_word_dash_5 | busy-angle-discover-diesel-loan |  
+| bip_39_word_dash_6 | busy-angle-discover-diesel-loan-swallow |  
+| bip_39_word_dash_7 | busy-angle-discover-diesel-loan-swallow-fault |  
+| bip_39_word_dash_8 | busy-angle-discover-diesel-loan-swallow-fault-quit |  
+| bip_39_word_dash_9 | busy-angle-discover-diesel-loan-swallow-fault-quit-tribe |  
 | bip_39_word_new_br_1 | busy |  
 | bip_39_word_new_br_10 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife |  
 | bip_39_word_new_br_11 | busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife<br>distance |  
@@ -147,6 +159,18 @@ tribe |
 | bip_39_word_space_7 | busy angle discover diesel loan swallow fault |  
 | bip_39_word_space_8 | busy angle discover diesel loan swallow fault quit |  
 | bip_39_word_space_9 | busy angle discover diesel loan swallow fault quit tribe |  
+| bip_39_word_underscore_1 | busy |  
+| bip_39_word_underscore_10 | busy_angle_discover_diesel_loan_swallow_fault_quit_tribe_wife |  
+| bip_39_word_underscore_11 | busy_angle_discover_diesel_loan_swallow_fault_quit_tribe_wife_distance |  
+| bip_39_word_underscore_12 | busy_angle_discover_diesel_loan_swallow_fault_quit_tribe_wife_distance_absorb |  
+| bip_39_word_underscore_2 | busy_angle |  
+| bip_39_word_underscore_3 | busy_angle_discover |  
+| bip_39_word_underscore_4 | busy_angle_discover_diesel |  
+| bip_39_word_underscore_5 | busy_angle_discover_diesel_loan |  
+| bip_39_word_underscore_6 | busy_angle_discover_diesel_loan_swallow |  
+| bip_39_word_underscore_7 | busy_angle_discover_diesel_loan_swallow_fault |  
+| bip_39_word_underscore_8 | busy_angle_discover_diesel_loan_swallow_fault_quit |  
+| bip_39_word_underscore_9 | busy_angle_discover_diesel_loan_swallow_fault_quit_tribe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

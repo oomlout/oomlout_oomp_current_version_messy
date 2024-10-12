@@ -1,3 +1,15 @@
+bip_39_word_dash_1: snake
+bip_39_word_dash_10: snake-hollow-initial-stick-bird-wet-learn-program-share-useless
+bip_39_word_dash_11: snake-hollow-initial-stick-bird-wet-learn-program-share-useless-switch
+bip_39_word_dash_12: snake-hollow-initial-stick-bird-wet-learn-program-share-useless-switch-ankle
+bip_39_word_dash_2: snake-hollow
+bip_39_word_dash_3: snake-hollow-initial
+bip_39_word_dash_4: snake-hollow-initial-stick
+bip_39_word_dash_5: snake-hollow-initial-stick-bird
+bip_39_word_dash_6: snake-hollow-initial-stick-bird-wet
+bip_39_word_dash_7: snake-hollow-initial-stick-bird-wet-learn
+bip_39_word_dash_8: snake-hollow-initial-stick-bird-wet-learn-program
+bip_39_word_dash_9: snake-hollow-initial-stick-bird-wet-learn-program-share
 bip_39_word_new_br_1: snake
 bip_39_word_new_br_10: snake<br>hollow<br>initial<br>stick<br>bird<br>wet<br>learn<br>program<br>share<br>useless
 bip_39_word_new_br_11: snake<br>hollow<br>initial<br>stick<br>bird<br>wet<br>learn<br>program<br>share<br>useless<br>switch
@@ -193,6 +205,18 @@ bip_39_word_space_6: snake hollow initial stick bird wet
 bip_39_word_space_7: snake hollow initial stick bird wet learn
 bip_39_word_space_8: snake hollow initial stick bird wet learn program
 bip_39_word_space_9: snake hollow initial stick bird wet learn program share
+bip_39_word_underscore_1: snake
+bip_39_word_underscore_10: snake_hollow_initial_stick_bird_wet_learn_program_share_useless
+bip_39_word_underscore_11: snake_hollow_initial_stick_bird_wet_learn_program_share_useless_switch
+bip_39_word_underscore_12: snake_hollow_initial_stick_bird_wet_learn_program_share_useless_switch_ankle
+bip_39_word_underscore_2: snake_hollow
+bip_39_word_underscore_3: snake_hollow_initial
+bip_39_word_underscore_4: snake_hollow_initial_stick
+bip_39_word_underscore_5: snake_hollow_initial_stick_bird
+bip_39_word_underscore_6: snake_hollow_initial_stick_bird_wet
+bip_39_word_underscore_7: snake_hollow_initial_stick_bird_wet_learn
+bip_39_word_underscore_8: snake_hollow_initial_stick_bird_wet_learn_program
+bip_39_word_underscore_9: snake_hollow_initial_stick_bird_wet_learn_program_share
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

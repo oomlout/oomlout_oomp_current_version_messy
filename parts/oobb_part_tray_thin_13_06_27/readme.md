@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | choose |  
+| bip_39_word_dash_10 | choose-chat-mix-what-cargo-kick-arch-brown-lock-fitness |  
+| bip_39_word_dash_11 | choose-chat-mix-what-cargo-kick-arch-brown-lock-fitness-pull |  
+| bip_39_word_dash_12 | choose-chat-mix-what-cargo-kick-arch-brown-lock-fitness-pull-amount |  
+| bip_39_word_dash_2 | choose-chat |  
+| bip_39_word_dash_3 | choose-chat-mix |  
+| bip_39_word_dash_4 | choose-chat-mix-what |  
+| bip_39_word_dash_5 | choose-chat-mix-what-cargo |  
+| bip_39_word_dash_6 | choose-chat-mix-what-cargo-kick |  
+| bip_39_word_dash_7 | choose-chat-mix-what-cargo-kick-arch |  
+| bip_39_word_dash_8 | choose-chat-mix-what-cargo-kick-arch-brown |  
+| bip_39_word_dash_9 | choose-chat-mix-what-cargo-kick-arch-brown-lock |  
 | bip_39_word_new_br_1 | choose |  
 | bip_39_word_new_br_10 | choose<br>chat<br>mix<br>what<br>cargo<br>kick<br>arch<br>brown<br>lock<br>fitness |  
 | bip_39_word_new_br_11 | choose<br>chat<br>mix<br>what<br>cargo<br>kick<br>arch<br>brown<br>lock<br>fitness<br>pull |  
@@ -147,6 +159,18 @@ lock |
 | bip_39_word_space_7 | choose chat mix what cargo kick arch |  
 | bip_39_word_space_8 | choose chat mix what cargo kick arch brown |  
 | bip_39_word_space_9 | choose chat mix what cargo kick arch brown lock |  
+| bip_39_word_underscore_1 | choose |  
+| bip_39_word_underscore_10 | choose_chat_mix_what_cargo_kick_arch_brown_lock_fitness |  
+| bip_39_word_underscore_11 | choose_chat_mix_what_cargo_kick_arch_brown_lock_fitness_pull |  
+| bip_39_word_underscore_12 | choose_chat_mix_what_cargo_kick_arch_brown_lock_fitness_pull_amount |  
+| bip_39_word_underscore_2 | choose_chat |  
+| bip_39_word_underscore_3 | choose_chat_mix |  
+| bip_39_word_underscore_4 | choose_chat_mix_what |  
+| bip_39_word_underscore_5 | choose_chat_mix_what_cargo |  
+| bip_39_word_underscore_6 | choose_chat_mix_what_cargo_kick |  
+| bip_39_word_underscore_7 | choose_chat_mix_what_cargo_kick_arch |  
+| bip_39_word_underscore_8 | choose_chat_mix_what_cargo_kick_arch_brown |  
+| bip_39_word_underscore_9 | choose_chat_mix_what_cargo_kick_arch_brown_lock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

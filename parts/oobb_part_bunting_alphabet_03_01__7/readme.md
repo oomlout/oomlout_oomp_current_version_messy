@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | alert |  
+| bip_39_word_dash_10 | alert-hamster-usual-kit-undo-festival-south-purpose-media-increase |  
+| bip_39_word_dash_11 | alert-hamster-usual-kit-undo-festival-south-purpose-media-increase-deny |  
+| bip_39_word_dash_12 | alert-hamster-usual-kit-undo-festival-south-purpose-media-increase-deny-accuse |  
+| bip_39_word_dash_2 | alert-hamster |  
+| bip_39_word_dash_3 | alert-hamster-usual |  
+| bip_39_word_dash_4 | alert-hamster-usual-kit |  
+| bip_39_word_dash_5 | alert-hamster-usual-kit-undo |  
+| bip_39_word_dash_6 | alert-hamster-usual-kit-undo-festival |  
+| bip_39_word_dash_7 | alert-hamster-usual-kit-undo-festival-south |  
+| bip_39_word_dash_8 | alert-hamster-usual-kit-undo-festival-south-purpose |  
+| bip_39_word_dash_9 | alert-hamster-usual-kit-undo-festival-south-purpose-media |  
 | bip_39_word_new_br_1 | alert |  
 | bip_39_word_new_br_10 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose<br>media<br>increase |  
 | bip_39_word_new_br_11 | alert<br>hamster<br>usual<br>kit<br>undo<br>festival<br>south<br>purpose<br>media<br>increase<br>deny |  
@@ -147,6 +159,18 @@ media |
 | bip_39_word_space_7 | alert hamster usual kit undo festival south |  
 | bip_39_word_space_8 | alert hamster usual kit undo festival south purpose |  
 | bip_39_word_space_9 | alert hamster usual kit undo festival south purpose media |  
+| bip_39_word_underscore_1 | alert |  
+| bip_39_word_underscore_10 | alert_hamster_usual_kit_undo_festival_south_purpose_media_increase |  
+| bip_39_word_underscore_11 | alert_hamster_usual_kit_undo_festival_south_purpose_media_increase_deny |  
+| bip_39_word_underscore_12 | alert_hamster_usual_kit_undo_festival_south_purpose_media_increase_deny_accuse |  
+| bip_39_word_underscore_2 | alert_hamster |  
+| bip_39_word_underscore_3 | alert_hamster_usual |  
+| bip_39_word_underscore_4 | alert_hamster_usual_kit |  
+| bip_39_word_underscore_5 | alert_hamster_usual_kit_undo |  
+| bip_39_word_underscore_6 | alert_hamster_usual_kit_undo_festival |  
+| bip_39_word_underscore_7 | alert_hamster_usual_kit_undo_festival_south |  
+| bip_39_word_underscore_8 | alert_hamster_usual_kit_undo_festival_south_purpose |  
+| bip_39_word_underscore_9 | alert_hamster_usual_kit_undo_festival_south_purpose_media |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

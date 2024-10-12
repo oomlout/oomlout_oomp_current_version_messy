@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brand |  
+| bip_39_word_dash_10 | brand-clinic-expire-retire-athlete-dragon-silly-still-forget-risk |  
+| bip_39_word_dash_11 | brand-clinic-expire-retire-athlete-dragon-silly-still-forget-risk-access |  
+| bip_39_word_dash_12 | brand-clinic-expire-retire-athlete-dragon-silly-still-forget-risk-access-air |  
+| bip_39_word_dash_2 | brand-clinic |  
+| bip_39_word_dash_3 | brand-clinic-expire |  
+| bip_39_word_dash_4 | brand-clinic-expire-retire |  
+| bip_39_word_dash_5 | brand-clinic-expire-retire-athlete |  
+| bip_39_word_dash_6 | brand-clinic-expire-retire-athlete-dragon |  
+| bip_39_word_dash_7 | brand-clinic-expire-retire-athlete-dragon-silly |  
+| bip_39_word_dash_8 | brand-clinic-expire-retire-athlete-dragon-silly-still |  
+| bip_39_word_dash_9 | brand-clinic-expire-retire-athlete-dragon-silly-still-forget |  
 | bip_39_word_new_br_1 | brand |  
 | bip_39_word_new_br_10 | brand<br>clinic<br>expire<br>retire<br>athlete<br>dragon<br>silly<br>still<br>forget<br>risk |  
 | bip_39_word_new_br_11 | brand<br>clinic<br>expire<br>retire<br>athlete<br>dragon<br>silly<br>still<br>forget<br>risk<br>access |  
@@ -147,6 +159,18 @@ forget |
 | bip_39_word_space_7 | brand clinic expire retire athlete dragon silly |  
 | bip_39_word_space_8 | brand clinic expire retire athlete dragon silly still |  
 | bip_39_word_space_9 | brand clinic expire retire athlete dragon silly still forget |  
+| bip_39_word_underscore_1 | brand |  
+| bip_39_word_underscore_10 | brand_clinic_expire_retire_athlete_dragon_silly_still_forget_risk |  
+| bip_39_word_underscore_11 | brand_clinic_expire_retire_athlete_dragon_silly_still_forget_risk_access |  
+| bip_39_word_underscore_12 | brand_clinic_expire_retire_athlete_dragon_silly_still_forget_risk_access_air |  
+| bip_39_word_underscore_2 | brand_clinic |  
+| bip_39_word_underscore_3 | brand_clinic_expire |  
+| bip_39_word_underscore_4 | brand_clinic_expire_retire |  
+| bip_39_word_underscore_5 | brand_clinic_expire_retire_athlete |  
+| bip_39_word_underscore_6 | brand_clinic_expire_retire_athlete_dragon |  
+| bip_39_word_underscore_7 | brand_clinic_expire_retire_athlete_dragon_silly |  
+| bip_39_word_underscore_8 | brand_clinic_expire_retire_athlete_dragon_silly_still |  
+| bip_39_word_underscore_9 | brand_clinic_expire_retire_athlete_dragon_silly_still_forget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

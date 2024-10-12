@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cause |  
+| bip_39_word_dash_10 | cause-slim-bounce-unveil-approve-soul-cage-benefit-dizzy-amazing |  
+| bip_39_word_dash_11 | cause-slim-bounce-unveil-approve-soul-cage-benefit-dizzy-amazing-cinnamon |  
+| bip_39_word_dash_12 | cause-slim-bounce-unveil-approve-soul-cage-benefit-dizzy-amazing-cinnamon-aerobic |  
+| bip_39_word_dash_2 | cause-slim |  
+| bip_39_word_dash_3 | cause-slim-bounce |  
+| bip_39_word_dash_4 | cause-slim-bounce-unveil |  
+| bip_39_word_dash_5 | cause-slim-bounce-unveil-approve |  
+| bip_39_word_dash_6 | cause-slim-bounce-unveil-approve-soul |  
+| bip_39_word_dash_7 | cause-slim-bounce-unveil-approve-soul-cage |  
+| bip_39_word_dash_8 | cause-slim-bounce-unveil-approve-soul-cage-benefit |  
+| bip_39_word_dash_9 | cause-slim-bounce-unveil-approve-soul-cage-benefit-dizzy |  
 | bip_39_word_new_br_1 | cause |  
 | bip_39_word_new_br_10 | cause<br>slim<br>bounce<br>unveil<br>approve<br>soul<br>cage<br>benefit<br>dizzy<br>amazing |  
 | bip_39_word_new_br_11 | cause<br>slim<br>bounce<br>unveil<br>approve<br>soul<br>cage<br>benefit<br>dizzy<br>amazing<br>cinnamon |  
@@ -147,6 +159,18 @@ dizzy |
 | bip_39_word_space_7 | cause slim bounce unveil approve soul cage |  
 | bip_39_word_space_8 | cause slim bounce unveil approve soul cage benefit |  
 | bip_39_word_space_9 | cause slim bounce unveil approve soul cage benefit dizzy |  
+| bip_39_word_underscore_1 | cause |  
+| bip_39_word_underscore_10 | cause_slim_bounce_unveil_approve_soul_cage_benefit_dizzy_amazing |  
+| bip_39_word_underscore_11 | cause_slim_bounce_unveil_approve_soul_cage_benefit_dizzy_amazing_cinnamon |  
+| bip_39_word_underscore_12 | cause_slim_bounce_unveil_approve_soul_cage_benefit_dizzy_amazing_cinnamon_aerobic |  
+| bip_39_word_underscore_2 | cause_slim |  
+| bip_39_word_underscore_3 | cause_slim_bounce |  
+| bip_39_word_underscore_4 | cause_slim_bounce_unveil |  
+| bip_39_word_underscore_5 | cause_slim_bounce_unveil_approve |  
+| bip_39_word_underscore_6 | cause_slim_bounce_unveil_approve_soul |  
+| bip_39_word_underscore_7 | cause_slim_bounce_unveil_approve_soul_cage |  
+| bip_39_word_underscore_8 | cause_slim_bounce_unveil_approve_soul_cage_benefit |  
+| bip_39_word_underscore_9 | cause_slim_bounce_unveil_approve_soul_cage_benefit_dizzy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

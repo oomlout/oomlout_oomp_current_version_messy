@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | custom |  
+| bip_39_word_dash_10 | custom-cycle-august-pact-knee-treat-peace-kiwi-approve-jealous |  
+| bip_39_word_dash_11 | custom-cycle-august-pact-knee-treat-peace-kiwi-approve-jealous-scare |  
+| bip_39_word_dash_12 | custom-cycle-august-pact-knee-treat-peace-kiwi-approve-jealous-scare-alpha |  
+| bip_39_word_dash_2 | custom-cycle |  
+| bip_39_word_dash_3 | custom-cycle-august |  
+| bip_39_word_dash_4 | custom-cycle-august-pact |  
+| bip_39_word_dash_5 | custom-cycle-august-pact-knee |  
+| bip_39_word_dash_6 | custom-cycle-august-pact-knee-treat |  
+| bip_39_word_dash_7 | custom-cycle-august-pact-knee-treat-peace |  
+| bip_39_word_dash_8 | custom-cycle-august-pact-knee-treat-peace-kiwi |  
+| bip_39_word_dash_9 | custom-cycle-august-pact-knee-treat-peace-kiwi-approve |  
 | bip_39_word_new_br_1 | custom |  
 | bip_39_word_new_br_10 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous |  
 | bip_39_word_new_br_11 | custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous<br>scare |  
@@ -147,6 +159,18 @@ approve |
 | bip_39_word_space_7 | custom cycle august pact knee treat peace |  
 | bip_39_word_space_8 | custom cycle august pact knee treat peace kiwi |  
 | bip_39_word_space_9 | custom cycle august pact knee treat peace kiwi approve |  
+| bip_39_word_underscore_1 | custom |  
+| bip_39_word_underscore_10 | custom_cycle_august_pact_knee_treat_peace_kiwi_approve_jealous |  
+| bip_39_word_underscore_11 | custom_cycle_august_pact_knee_treat_peace_kiwi_approve_jealous_scare |  
+| bip_39_word_underscore_12 | custom_cycle_august_pact_knee_treat_peace_kiwi_approve_jealous_scare_alpha |  
+| bip_39_word_underscore_2 | custom_cycle |  
+| bip_39_word_underscore_3 | custom_cycle_august |  
+| bip_39_word_underscore_4 | custom_cycle_august_pact |  
+| bip_39_word_underscore_5 | custom_cycle_august_pact_knee |  
+| bip_39_word_underscore_6 | custom_cycle_august_pact_knee_treat |  
+| bip_39_word_underscore_7 | custom_cycle_august_pact_knee_treat_peace |  
+| bip_39_word_underscore_8 | custom_cycle_august_pact_knee_treat_peace_kiwi |  
+| bip_39_word_underscore_9 | custom_cycle_august_pact_knee_treat_peace_kiwi_approve |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

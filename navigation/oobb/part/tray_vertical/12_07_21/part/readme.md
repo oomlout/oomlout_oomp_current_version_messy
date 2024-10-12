@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silk |  
+| bip_39_word_dash_10 | silk-bird-safe-vendor-check-thumb-supreme-street-city-spread |  
+| bip_39_word_dash_11 | silk-bird-safe-vendor-check-thumb-supreme-street-city-spread-congress |  
+| bip_39_word_dash_12 | silk-bird-safe-vendor-check-thumb-supreme-street-city-spread-congress-agree |  
+| bip_39_word_dash_2 | silk-bird |  
+| bip_39_word_dash_3 | silk-bird-safe |  
+| bip_39_word_dash_4 | silk-bird-safe-vendor |  
+| bip_39_word_dash_5 | silk-bird-safe-vendor-check |  
+| bip_39_word_dash_6 | silk-bird-safe-vendor-check-thumb |  
+| bip_39_word_dash_7 | silk-bird-safe-vendor-check-thumb-supreme |  
+| bip_39_word_dash_8 | silk-bird-safe-vendor-check-thumb-supreme-street |  
+| bip_39_word_dash_9 | silk-bird-safe-vendor-check-thumb-supreme-street-city |  
 | bip_39_word_new_br_1 | silk |  
 | bip_39_word_new_br_10 | silk<br>bird<br>safe<br>vendor<br>check<br>thumb<br>supreme<br>street<br>city<br>spread |  
 | bip_39_word_new_br_11 | silk<br>bird<br>safe<br>vendor<br>check<br>thumb<br>supreme<br>street<br>city<br>spread<br>congress |  
@@ -147,6 +159,18 @@ city |
 | bip_39_word_space_7 | silk bird safe vendor check thumb supreme |  
 | bip_39_word_space_8 | silk bird safe vendor check thumb supreme street |  
 | bip_39_word_space_9 | silk bird safe vendor check thumb supreme street city |  
+| bip_39_word_underscore_1 | silk |  
+| bip_39_word_underscore_10 | silk_bird_safe_vendor_check_thumb_supreme_street_city_spread |  
+| bip_39_word_underscore_11 | silk_bird_safe_vendor_check_thumb_supreme_street_city_spread_congress |  
+| bip_39_word_underscore_12 | silk_bird_safe_vendor_check_thumb_supreme_street_city_spread_congress_agree |  
+| bip_39_word_underscore_2 | silk_bird |  
+| bip_39_word_underscore_3 | silk_bird_safe |  
+| bip_39_word_underscore_4 | silk_bird_safe_vendor |  
+| bip_39_word_underscore_5 | silk_bird_safe_vendor_check |  
+| bip_39_word_underscore_6 | silk_bird_safe_vendor_check_thumb |  
+| bip_39_word_underscore_7 | silk_bird_safe_vendor_check_thumb_supreme |  
+| bip_39_word_underscore_8 | silk_bird_safe_vendor_check_thumb_supreme_street |  
+| bip_39_word_underscore_9 | silk_bird_safe_vendor_check_thumb_supreme_street_city |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

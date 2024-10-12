@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mouse |  
+| bip_39_word_dash_10 | mouse-category-empower-material-near-silly-super-start-fuel-solution |  
+| bip_39_word_dash_11 | mouse-category-empower-material-near-silly-super-start-fuel-solution-hold |  
+| bip_39_word_dash_12 | mouse-category-empower-material-near-silly-super-start-fuel-solution-hold-aisle |  
+| bip_39_word_dash_2 | mouse-category |  
+| bip_39_word_dash_3 | mouse-category-empower |  
+| bip_39_word_dash_4 | mouse-category-empower-material |  
+| bip_39_word_dash_5 | mouse-category-empower-material-near |  
+| bip_39_word_dash_6 | mouse-category-empower-material-near-silly |  
+| bip_39_word_dash_7 | mouse-category-empower-material-near-silly-super |  
+| bip_39_word_dash_8 | mouse-category-empower-material-near-silly-super-start |  
+| bip_39_word_dash_9 | mouse-category-empower-material-near-silly-super-start-fuel |  
 | bip_39_word_new_br_1 | mouse |  
 | bip_39_word_new_br_10 | mouse<br>category<br>empower<br>material<br>near<br>silly<br>super<br>start<br>fuel<br>solution |  
 | bip_39_word_new_br_11 | mouse<br>category<br>empower<br>material<br>near<br>silly<br>super<br>start<br>fuel<br>solution<br>hold |  
@@ -147,6 +159,18 @@ fuel |
 | bip_39_word_space_7 | mouse category empower material near silly super |  
 | bip_39_word_space_8 | mouse category empower material near silly super start |  
 | bip_39_word_space_9 | mouse category empower material near silly super start fuel |  
+| bip_39_word_underscore_1 | mouse |  
+| bip_39_word_underscore_10 | mouse_category_empower_material_near_silly_super_start_fuel_solution |  
+| bip_39_word_underscore_11 | mouse_category_empower_material_near_silly_super_start_fuel_solution_hold |  
+| bip_39_word_underscore_12 | mouse_category_empower_material_near_silly_super_start_fuel_solution_hold_aisle |  
+| bip_39_word_underscore_2 | mouse_category |  
+| bip_39_word_underscore_3 | mouse_category_empower |  
+| bip_39_word_underscore_4 | mouse_category_empower_material |  
+| bip_39_word_underscore_5 | mouse_category_empower_material_near |  
+| bip_39_word_underscore_6 | mouse_category_empower_material_near_silly |  
+| bip_39_word_underscore_7 | mouse_category_empower_material_near_silly_super |  
+| bip_39_word_underscore_8 | mouse_category_empower_material_near_silly_super_start |  
+| bip_39_word_underscore_9 | mouse_category_empower_material_near_silly_super_start_fuel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

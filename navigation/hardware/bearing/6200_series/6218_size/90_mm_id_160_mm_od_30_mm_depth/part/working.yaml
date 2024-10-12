@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bounce
+bip_39_word_dash_10: bounce-pond-strike-script-glory-educate-will-bring-crater-grunt
+bip_39_word_dash_11: bounce-pond-strike-script-glory-educate-will-bring-crater-grunt-inside
+bip_39_word_dash_12: bounce-pond-strike-script-glory-educate-will-bring-crater-grunt-inside-amount
+bip_39_word_dash_2: bounce-pond
+bip_39_word_dash_3: bounce-pond-strike
+bip_39_word_dash_4: bounce-pond-strike-script
+bip_39_word_dash_5: bounce-pond-strike-script-glory
+bip_39_word_dash_6: bounce-pond-strike-script-glory-educate
+bip_39_word_dash_7: bounce-pond-strike-script-glory-educate-will
+bip_39_word_dash_8: bounce-pond-strike-script-glory-educate-will-bring
+bip_39_word_dash_9: bounce-pond-strike-script-glory-educate-will-bring-crater
 bip_39_word_new_br_1: bounce
 bip_39_word_new_br_10: bounce<br>pond<br>strike<br>script<br>glory<br>educate<br>will<br>bring<br>crater<br>grunt
 bip_39_word_new_br_11: bounce<br>pond<br>strike<br>script<br>glory<br>educate<br>will<br>bring<br>crater<br>grunt<br>inside
@@ -193,6 +205,18 @@ bip_39_word_space_6: bounce pond strike script glory educate
 bip_39_word_space_7: bounce pond strike script glory educate will
 bip_39_word_space_8: bounce pond strike script glory educate will bring
 bip_39_word_space_9: bounce pond strike script glory educate will bring crater
+bip_39_word_underscore_1: bounce
+bip_39_word_underscore_10: bounce_pond_strike_script_glory_educate_will_bring_crater_grunt
+bip_39_word_underscore_11: bounce_pond_strike_script_glory_educate_will_bring_crater_grunt_inside
+bip_39_word_underscore_12: bounce_pond_strike_script_glory_educate_will_bring_crater_grunt_inside_amount
+bip_39_word_underscore_2: bounce_pond
+bip_39_word_underscore_3: bounce_pond_strike
+bip_39_word_underscore_4: bounce_pond_strike_script
+bip_39_word_underscore_5: bounce_pond_strike_script_glory
+bip_39_word_underscore_6: bounce_pond_strike_script_glory_educate
+bip_39_word_underscore_7: bounce_pond_strike_script_glory_educate_will
+bip_39_word_underscore_8: bounce_pond_strike_script_glory_educate_will_bring
+bip_39_word_underscore_9: bounce_pond_strike_script_glory_educate_will_bring_crater
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

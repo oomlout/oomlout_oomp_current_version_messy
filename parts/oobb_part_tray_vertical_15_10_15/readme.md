@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | one |  
+| bip_39_word_dash_10 | one-sentence-announce-talent-rebel-waste-fun-gospel-number-please |  
+| bip_39_word_dash_11 | one-sentence-announce-talent-rebel-waste-fun-gospel-number-please-copy |  
+| bip_39_word_dash_12 | one-sentence-announce-talent-rebel-waste-fun-gospel-number-please-copy-abstract |  
+| bip_39_word_dash_2 | one-sentence |  
+| bip_39_word_dash_3 | one-sentence-announce |  
+| bip_39_word_dash_4 | one-sentence-announce-talent |  
+| bip_39_word_dash_5 | one-sentence-announce-talent-rebel |  
+| bip_39_word_dash_6 | one-sentence-announce-talent-rebel-waste |  
+| bip_39_word_dash_7 | one-sentence-announce-talent-rebel-waste-fun |  
+| bip_39_word_dash_8 | one-sentence-announce-talent-rebel-waste-fun-gospel |  
+| bip_39_word_dash_9 | one-sentence-announce-talent-rebel-waste-fun-gospel-number |  
 | bip_39_word_new_br_1 | one |  
 | bip_39_word_new_br_10 | one<br>sentence<br>announce<br>talent<br>rebel<br>waste<br>fun<br>gospel<br>number<br>please |  
 | bip_39_word_new_br_11 | one<br>sentence<br>announce<br>talent<br>rebel<br>waste<br>fun<br>gospel<br>number<br>please<br>copy |  
@@ -147,6 +159,18 @@ number |
 | bip_39_word_space_7 | one sentence announce talent rebel waste fun |  
 | bip_39_word_space_8 | one sentence announce talent rebel waste fun gospel |  
 | bip_39_word_space_9 | one sentence announce talent rebel waste fun gospel number |  
+| bip_39_word_underscore_1 | one |  
+| bip_39_word_underscore_10 | one_sentence_announce_talent_rebel_waste_fun_gospel_number_please |  
+| bip_39_word_underscore_11 | one_sentence_announce_talent_rebel_waste_fun_gospel_number_please_copy |  
+| bip_39_word_underscore_12 | one_sentence_announce_talent_rebel_waste_fun_gospel_number_please_copy_abstract |  
+| bip_39_word_underscore_2 | one_sentence |  
+| bip_39_word_underscore_3 | one_sentence_announce |  
+| bip_39_word_underscore_4 | one_sentence_announce_talent |  
+| bip_39_word_underscore_5 | one_sentence_announce_talent_rebel |  
+| bip_39_word_underscore_6 | one_sentence_announce_talent_rebel_waste |  
+| bip_39_word_underscore_7 | one_sentence_announce_talent_rebel_waste_fun |  
+| bip_39_word_underscore_8 | one_sentence_announce_talent_rebel_waste_fun_gospel |  
+| bip_39_word_underscore_9 | one_sentence_announce_talent_rebel_waste_fun_gospel_number |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

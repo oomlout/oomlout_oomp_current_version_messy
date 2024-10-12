@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tomato
+bip_39_word_dash_10: tomato-obey-idea-reveal-relief-aware-food-noise-cause-put
+bip_39_word_dash_11: tomato-obey-idea-reveal-relief-aware-food-noise-cause-put-borrow
+bip_39_word_dash_12: tomato-obey-idea-reveal-relief-aware-food-noise-cause-put-borrow-alcohol
+bip_39_word_dash_2: tomato-obey
+bip_39_word_dash_3: tomato-obey-idea
+bip_39_word_dash_4: tomato-obey-idea-reveal
+bip_39_word_dash_5: tomato-obey-idea-reveal-relief
+bip_39_word_dash_6: tomato-obey-idea-reveal-relief-aware
+bip_39_word_dash_7: tomato-obey-idea-reveal-relief-aware-food
+bip_39_word_dash_8: tomato-obey-idea-reveal-relief-aware-food-noise
+bip_39_word_dash_9: tomato-obey-idea-reveal-relief-aware-food-noise-cause
 bip_39_word_new_br_1: tomato
 bip_39_word_new_br_10: tomato<br>obey<br>idea<br>reveal<br>relief<br>aware<br>food<br>noise<br>cause<br>put
 bip_39_word_new_br_11: tomato<br>obey<br>idea<br>reveal<br>relief<br>aware<br>food<br>noise<br>cause<br>put<br>borrow
@@ -192,6 +204,18 @@ bip_39_word_space_6: tomato obey idea reveal relief aware
 bip_39_word_space_7: tomato obey idea reveal relief aware food
 bip_39_word_space_8: tomato obey idea reveal relief aware food noise
 bip_39_word_space_9: tomato obey idea reveal relief aware food noise cause
+bip_39_word_underscore_1: tomato
+bip_39_word_underscore_10: tomato_obey_idea_reveal_relief_aware_food_noise_cause_put
+bip_39_word_underscore_11: tomato_obey_idea_reveal_relief_aware_food_noise_cause_put_borrow
+bip_39_word_underscore_12: tomato_obey_idea_reveal_relief_aware_food_noise_cause_put_borrow_alcohol
+bip_39_word_underscore_2: tomato_obey
+bip_39_word_underscore_3: tomato_obey_idea
+bip_39_word_underscore_4: tomato_obey_idea_reveal
+bip_39_word_underscore_5: tomato_obey_idea_reveal_relief
+bip_39_word_underscore_6: tomato_obey_idea_reveal_relief_aware
+bip_39_word_underscore_7: tomato_obey_idea_reveal_relief_aware_food
+bip_39_word_underscore_8: tomato_obey_idea_reveal_relief_aware_food_noise
+bip_39_word_underscore_9: tomato_obey_idea_reveal_relief_aware_food_noise_cause
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

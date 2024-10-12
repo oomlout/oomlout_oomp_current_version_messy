@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | select |  
+| bip_39_word_dash_10 | select-echo-super-discover-lizard-sea-barrel-topple-carry-truth |  
+| bip_39_word_dash_11 | select-echo-super-discover-lizard-sea-barrel-topple-carry-truth-under |  
+| bip_39_word_dash_12 | select-echo-super-discover-lizard-sea-barrel-topple-carry-truth-under-artist |  
+| bip_39_word_dash_2 | select-echo |  
+| bip_39_word_dash_3 | select-echo-super |  
+| bip_39_word_dash_4 | select-echo-super-discover |  
+| bip_39_word_dash_5 | select-echo-super-discover-lizard |  
+| bip_39_word_dash_6 | select-echo-super-discover-lizard-sea |  
+| bip_39_word_dash_7 | select-echo-super-discover-lizard-sea-barrel |  
+| bip_39_word_dash_8 | select-echo-super-discover-lizard-sea-barrel-topple |  
+| bip_39_word_dash_9 | select-echo-super-discover-lizard-sea-barrel-topple-carry |  
 | bip_39_word_new_br_1 | select |  
 | bip_39_word_new_br_10 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth |  
 | bip_39_word_new_br_11 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth<br>under |  
@@ -147,6 +159,18 @@ carry |
 | bip_39_word_space_7 | select echo super discover lizard sea barrel |  
 | bip_39_word_space_8 | select echo super discover lizard sea barrel topple |  
 | bip_39_word_space_9 | select echo super discover lizard sea barrel topple carry |  
+| bip_39_word_underscore_1 | select |  
+| bip_39_word_underscore_10 | select_echo_super_discover_lizard_sea_barrel_topple_carry_truth |  
+| bip_39_word_underscore_11 | select_echo_super_discover_lizard_sea_barrel_topple_carry_truth_under |  
+| bip_39_word_underscore_12 | select_echo_super_discover_lizard_sea_barrel_topple_carry_truth_under_artist |  
+| bip_39_word_underscore_2 | select_echo |  
+| bip_39_word_underscore_3 | select_echo_super |  
+| bip_39_word_underscore_4 | select_echo_super_discover |  
+| bip_39_word_underscore_5 | select_echo_super_discover_lizard |  
+| bip_39_word_underscore_6 | select_echo_super_discover_lizard_sea |  
+| bip_39_word_underscore_7 | select_echo_super_discover_lizard_sea_barrel |  
+| bip_39_word_underscore_8 | select_echo_super_discover_lizard_sea_barrel_topple |  
+| bip_39_word_underscore_9 | select_echo_super_discover_lizard_sea_barrel_topple_carry |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

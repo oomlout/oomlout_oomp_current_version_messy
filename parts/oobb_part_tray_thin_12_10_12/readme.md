@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | punch |  
+| bip_39_word_dash_10 | punch-survey-grace-whip-frost-success-peasant-prison-sign-predict |  
+| bip_39_word_dash_11 | punch-survey-grace-whip-frost-success-peasant-prison-sign-predict-scan |  
+| bip_39_word_dash_12 | punch-survey-grace-whip-frost-success-peasant-prison-sign-predict-scan-audit |  
+| bip_39_word_dash_2 | punch-survey |  
+| bip_39_word_dash_3 | punch-survey-grace |  
+| bip_39_word_dash_4 | punch-survey-grace-whip |  
+| bip_39_word_dash_5 | punch-survey-grace-whip-frost |  
+| bip_39_word_dash_6 | punch-survey-grace-whip-frost-success |  
+| bip_39_word_dash_7 | punch-survey-grace-whip-frost-success-peasant |  
+| bip_39_word_dash_8 | punch-survey-grace-whip-frost-success-peasant-prison |  
+| bip_39_word_dash_9 | punch-survey-grace-whip-frost-success-peasant-prison-sign |  
 | bip_39_word_new_br_1 | punch |  
 | bip_39_word_new_br_10 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison<br>sign<br>predict |  
 | bip_39_word_new_br_11 | punch<br>survey<br>grace<br>whip<br>frost<br>success<br>peasant<br>prison<br>sign<br>predict<br>scan |  
@@ -147,6 +159,18 @@ sign |
 | bip_39_word_space_7 | punch survey grace whip frost success peasant |  
 | bip_39_word_space_8 | punch survey grace whip frost success peasant prison |  
 | bip_39_word_space_9 | punch survey grace whip frost success peasant prison sign |  
+| bip_39_word_underscore_1 | punch |  
+| bip_39_word_underscore_10 | punch_survey_grace_whip_frost_success_peasant_prison_sign_predict |  
+| bip_39_word_underscore_11 | punch_survey_grace_whip_frost_success_peasant_prison_sign_predict_scan |  
+| bip_39_word_underscore_12 | punch_survey_grace_whip_frost_success_peasant_prison_sign_predict_scan_audit |  
+| bip_39_word_underscore_2 | punch_survey |  
+| bip_39_word_underscore_3 | punch_survey_grace |  
+| bip_39_word_underscore_4 | punch_survey_grace_whip |  
+| bip_39_word_underscore_5 | punch_survey_grace_whip_frost |  
+| bip_39_word_underscore_6 | punch_survey_grace_whip_frost_success |  
+| bip_39_word_underscore_7 | punch_survey_grace_whip_frost_success_peasant |  
+| bip_39_word_underscore_8 | punch_survey_grace_whip_frost_success_peasant_prison |  
+| bip_39_word_underscore_9 | punch_survey_grace_whip_frost_success_peasant_prison_sign |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

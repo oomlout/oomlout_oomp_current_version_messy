@@ -1,3 +1,15 @@
+bip_39_word_dash_1: share
+bip_39_word_dash_10: share-trophy-wrong-file-ridge-write-ladder-debate-vital-novel
+bip_39_word_dash_11: share-trophy-wrong-file-ridge-write-ladder-debate-vital-novel-total
+bip_39_word_dash_12: share-trophy-wrong-file-ridge-write-ladder-debate-vital-novel-total-album
+bip_39_word_dash_2: share-trophy
+bip_39_word_dash_3: share-trophy-wrong
+bip_39_word_dash_4: share-trophy-wrong-file
+bip_39_word_dash_5: share-trophy-wrong-file-ridge
+bip_39_word_dash_6: share-trophy-wrong-file-ridge-write
+bip_39_word_dash_7: share-trophy-wrong-file-ridge-write-ladder
+bip_39_word_dash_8: share-trophy-wrong-file-ridge-write-ladder-debate
+bip_39_word_dash_9: share-trophy-wrong-file-ridge-write-ladder-debate-vital
 bip_39_word_new_br_1: share
 bip_39_word_new_br_10: share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate<br>vital<br>novel
 bip_39_word_new_br_11: share<br>trophy<br>wrong<br>file<br>ridge<br>write<br>ladder<br>debate<br>vital<br>novel<br>total
@@ -193,6 +205,18 @@ bip_39_word_space_6: share trophy wrong file ridge write
 bip_39_word_space_7: share trophy wrong file ridge write ladder
 bip_39_word_space_8: share trophy wrong file ridge write ladder debate
 bip_39_word_space_9: share trophy wrong file ridge write ladder debate vital
+bip_39_word_underscore_1: share
+bip_39_word_underscore_10: share_trophy_wrong_file_ridge_write_ladder_debate_vital_novel
+bip_39_word_underscore_11: share_trophy_wrong_file_ridge_write_ladder_debate_vital_novel_total
+bip_39_word_underscore_12: share_trophy_wrong_file_ridge_write_ladder_debate_vital_novel_total_album
+bip_39_word_underscore_2: share_trophy
+bip_39_word_underscore_3: share_trophy_wrong
+bip_39_word_underscore_4: share_trophy_wrong_file
+bip_39_word_underscore_5: share_trophy_wrong_file_ridge
+bip_39_word_underscore_6: share_trophy_wrong_file_ridge_write
+bip_39_word_underscore_7: share_trophy_wrong_file_ridge_write_ladder
+bip_39_word_underscore_8: share_trophy_wrong_file_ridge_write_ladder_debate
+bip_39_word_underscore_9: share_trophy_wrong_file_ridge_write_ladder_debate_vital
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

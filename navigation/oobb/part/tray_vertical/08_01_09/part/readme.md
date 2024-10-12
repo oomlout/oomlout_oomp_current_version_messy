@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fee |  
+| bip_39_word_dash_10 | fee-token-waste-depth-inspire-pass-rapid-glory-spend-clock |  
+| bip_39_word_dash_11 | fee-token-waste-depth-inspire-pass-rapid-glory-spend-clock-table |  
+| bip_39_word_dash_12 | fee-token-waste-depth-inspire-pass-rapid-glory-spend-clock-table-annual |  
+| bip_39_word_dash_2 | fee-token |  
+| bip_39_word_dash_3 | fee-token-waste |  
+| bip_39_word_dash_4 | fee-token-waste-depth |  
+| bip_39_word_dash_5 | fee-token-waste-depth-inspire |  
+| bip_39_word_dash_6 | fee-token-waste-depth-inspire-pass |  
+| bip_39_word_dash_7 | fee-token-waste-depth-inspire-pass-rapid |  
+| bip_39_word_dash_8 | fee-token-waste-depth-inspire-pass-rapid-glory |  
+| bip_39_word_dash_9 | fee-token-waste-depth-inspire-pass-rapid-glory-spend |  
 | bip_39_word_new_br_1 | fee |  
 | bip_39_word_new_br_10 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock |  
 | bip_39_word_new_br_11 | fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock<br>table |  
@@ -147,6 +159,18 @@ spend |
 | bip_39_word_space_7 | fee token waste depth inspire pass rapid |  
 | bip_39_word_space_8 | fee token waste depth inspire pass rapid glory |  
 | bip_39_word_space_9 | fee token waste depth inspire pass rapid glory spend |  
+| bip_39_word_underscore_1 | fee |  
+| bip_39_word_underscore_10 | fee_token_waste_depth_inspire_pass_rapid_glory_spend_clock |  
+| bip_39_word_underscore_11 | fee_token_waste_depth_inspire_pass_rapid_glory_spend_clock_table |  
+| bip_39_word_underscore_12 | fee_token_waste_depth_inspire_pass_rapid_glory_spend_clock_table_annual |  
+| bip_39_word_underscore_2 | fee_token |  
+| bip_39_word_underscore_3 | fee_token_waste |  
+| bip_39_word_underscore_4 | fee_token_waste_depth |  
+| bip_39_word_underscore_5 | fee_token_waste_depth_inspire |  
+| bip_39_word_underscore_6 | fee_token_waste_depth_inspire_pass |  
+| bip_39_word_underscore_7 | fee_token_waste_depth_inspire_pass_rapid |  
+| bip_39_word_underscore_8 | fee_token_waste_depth_inspire_pass_rapid_glory |  
+| bip_39_word_underscore_9 | fee_token_waste_depth_inspire_pass_rapid_glory_spend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

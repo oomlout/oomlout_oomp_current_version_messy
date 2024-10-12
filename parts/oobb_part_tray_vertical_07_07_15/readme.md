@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hedgehog |  
+| bip_39_word_dash_10 | hedgehog-fault-portion-depth-island-perfect-soul-hole-maid-please |  
+| bip_39_word_dash_11 | hedgehog-fault-portion-depth-island-perfect-soul-hole-maid-please-top |  
+| bip_39_word_dash_12 | hedgehog-fault-portion-depth-island-perfect-soul-hole-maid-please-top-advice |  
+| bip_39_word_dash_2 | hedgehog-fault |  
+| bip_39_word_dash_3 | hedgehog-fault-portion |  
+| bip_39_word_dash_4 | hedgehog-fault-portion-depth |  
+| bip_39_word_dash_5 | hedgehog-fault-portion-depth-island |  
+| bip_39_word_dash_6 | hedgehog-fault-portion-depth-island-perfect |  
+| bip_39_word_dash_7 | hedgehog-fault-portion-depth-island-perfect-soul |  
+| bip_39_word_dash_8 | hedgehog-fault-portion-depth-island-perfect-soul-hole |  
+| bip_39_word_dash_9 | hedgehog-fault-portion-depth-island-perfect-soul-hole-maid |  
 | bip_39_word_new_br_1 | hedgehog |  
 | bip_39_word_new_br_10 | hedgehog<br>fault<br>portion<br>depth<br>island<br>perfect<br>soul<br>hole<br>maid<br>please |  
 | bip_39_word_new_br_11 | hedgehog<br>fault<br>portion<br>depth<br>island<br>perfect<br>soul<br>hole<br>maid<br>please<br>top |  
@@ -147,6 +159,18 @@ maid |
 | bip_39_word_space_7 | hedgehog fault portion depth island perfect soul |  
 | bip_39_word_space_8 | hedgehog fault portion depth island perfect soul hole |  
 | bip_39_word_space_9 | hedgehog fault portion depth island perfect soul hole maid |  
+| bip_39_word_underscore_1 | hedgehog |  
+| bip_39_word_underscore_10 | hedgehog_fault_portion_depth_island_perfect_soul_hole_maid_please |  
+| bip_39_word_underscore_11 | hedgehog_fault_portion_depth_island_perfect_soul_hole_maid_please_top |  
+| bip_39_word_underscore_12 | hedgehog_fault_portion_depth_island_perfect_soul_hole_maid_please_top_advice |  
+| bip_39_word_underscore_2 | hedgehog_fault |  
+| bip_39_word_underscore_3 | hedgehog_fault_portion |  
+| bip_39_word_underscore_4 | hedgehog_fault_portion_depth |  
+| bip_39_word_underscore_5 | hedgehog_fault_portion_depth_island |  
+| bip_39_word_underscore_6 | hedgehog_fault_portion_depth_island_perfect |  
+| bip_39_word_underscore_7 | hedgehog_fault_portion_depth_island_perfect_soul |  
+| bip_39_word_underscore_8 | hedgehog_fault_portion_depth_island_perfect_soul_hole |  
+| bip_39_word_underscore_9 | hedgehog_fault_portion_depth_island_perfect_soul_hole_maid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

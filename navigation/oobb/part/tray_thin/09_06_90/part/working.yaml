@@ -1,3 +1,15 @@
+bip_39_word_dash_1: approve
+bip_39_word_dash_10: approve-pony-gap-alone-satoshi-drop-open-cycle-success-dress
+bip_39_word_dash_11: approve-pony-gap-alone-satoshi-drop-open-cycle-success-dress-problem
+bip_39_word_dash_12: approve-pony-gap-alone-satoshi-drop-open-cycle-success-dress-problem-another
+bip_39_word_dash_2: approve-pony
+bip_39_word_dash_3: approve-pony-gap
+bip_39_word_dash_4: approve-pony-gap-alone
+bip_39_word_dash_5: approve-pony-gap-alone-satoshi
+bip_39_word_dash_6: approve-pony-gap-alone-satoshi-drop
+bip_39_word_dash_7: approve-pony-gap-alone-satoshi-drop-open
+bip_39_word_dash_8: approve-pony-gap-alone-satoshi-drop-open-cycle
+bip_39_word_dash_9: approve-pony-gap-alone-satoshi-drop-open-cycle-success
 bip_39_word_new_br_1: approve
 bip_39_word_new_br_10: approve<br>pony<br>gap<br>alone<br>satoshi<br>drop<br>open<br>cycle<br>success<br>dress
 bip_39_word_new_br_11: approve<br>pony<br>gap<br>alone<br>satoshi<br>drop<br>open<br>cycle<br>success<br>dress<br>problem
@@ -193,6 +205,18 @@ bip_39_word_space_6: approve pony gap alone satoshi drop
 bip_39_word_space_7: approve pony gap alone satoshi drop open
 bip_39_word_space_8: approve pony gap alone satoshi drop open cycle
 bip_39_word_space_9: approve pony gap alone satoshi drop open cycle success
+bip_39_word_underscore_1: approve
+bip_39_word_underscore_10: approve_pony_gap_alone_satoshi_drop_open_cycle_success_dress
+bip_39_word_underscore_11: approve_pony_gap_alone_satoshi_drop_open_cycle_success_dress_problem
+bip_39_word_underscore_12: approve_pony_gap_alone_satoshi_drop_open_cycle_success_dress_problem_another
+bip_39_word_underscore_2: approve_pony
+bip_39_word_underscore_3: approve_pony_gap
+bip_39_word_underscore_4: approve_pony_gap_alone
+bip_39_word_underscore_5: approve_pony_gap_alone_satoshi
+bip_39_word_underscore_6: approve_pony_gap_alone_satoshi_drop
+bip_39_word_underscore_7: approve_pony_gap_alone_satoshi_drop_open
+bip_39_word_underscore_8: approve_pony_gap_alone_satoshi_drop_open_cycle
+bip_39_word_underscore_9: approve_pony_gap_alone_satoshi_drop_open_cycle_success
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

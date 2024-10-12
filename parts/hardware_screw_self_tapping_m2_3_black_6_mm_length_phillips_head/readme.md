@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | athlete |  
+| bip_39_word_dash_10 | athlete-image-belt-brass-narrow-orient-split-chronic-polar-pool |  
+| bip_39_word_dash_11 | athlete-image-belt-brass-narrow-orient-split-chronic-polar-pool-goat |  
+| bip_39_word_dash_12 | athlete-image-belt-brass-narrow-orient-split-chronic-polar-pool-goat-avocado |  
+| bip_39_word_dash_2 | athlete-image |  
+| bip_39_word_dash_3 | athlete-image-belt |  
+| bip_39_word_dash_4 | athlete-image-belt-brass |  
+| bip_39_word_dash_5 | athlete-image-belt-brass-narrow |  
+| bip_39_word_dash_6 | athlete-image-belt-brass-narrow-orient |  
+| bip_39_word_dash_7 | athlete-image-belt-brass-narrow-orient-split |  
+| bip_39_word_dash_8 | athlete-image-belt-brass-narrow-orient-split-chronic |  
+| bip_39_word_dash_9 | athlete-image-belt-brass-narrow-orient-split-chronic-polar |  
 | bip_39_word_new_br_1 | athlete |  
 | bip_39_word_new_br_10 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool |  
 | bip_39_word_new_br_11 | athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool<br>goat |  
@@ -147,6 +159,18 @@ polar |
 | bip_39_word_space_7 | athlete image belt brass narrow orient split |  
 | bip_39_word_space_8 | athlete image belt brass narrow orient split chronic |  
 | bip_39_word_space_9 | athlete image belt brass narrow orient split chronic polar |  
+| bip_39_word_underscore_1 | athlete |  
+| bip_39_word_underscore_10 | athlete_image_belt_brass_narrow_orient_split_chronic_polar_pool |  
+| bip_39_word_underscore_11 | athlete_image_belt_brass_narrow_orient_split_chronic_polar_pool_goat |  
+| bip_39_word_underscore_12 | athlete_image_belt_brass_narrow_orient_split_chronic_polar_pool_goat_avocado |  
+| bip_39_word_underscore_2 | athlete_image |  
+| bip_39_word_underscore_3 | athlete_image_belt |  
+| bip_39_word_underscore_4 | athlete_image_belt_brass |  
+| bip_39_word_underscore_5 | athlete_image_belt_brass_narrow |  
+| bip_39_word_underscore_6 | athlete_image_belt_brass_narrow_orient |  
+| bip_39_word_underscore_7 | athlete_image_belt_brass_narrow_orient_split |  
+| bip_39_word_underscore_8 | athlete_image_belt_brass_narrow_orient_split_chronic |  
+| bip_39_word_underscore_9 | athlete_image_belt_brass_narrow_orient_split_chronic_polar |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

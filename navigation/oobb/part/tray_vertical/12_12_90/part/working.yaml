@@ -1,3 +1,15 @@
+bip_39_word_dash_1: buddy
+bip_39_word_dash_10: buddy-logic-nasty-job-crater-inch-media-mercy-shield-brown
+bip_39_word_dash_11: buddy-logic-nasty-job-crater-inch-media-mercy-shield-brown-corn
+bip_39_word_dash_12: buddy-logic-nasty-job-crater-inch-media-mercy-shield-brown-corn-actor
+bip_39_word_dash_2: buddy-logic
+bip_39_word_dash_3: buddy-logic-nasty
+bip_39_word_dash_4: buddy-logic-nasty-job
+bip_39_word_dash_5: buddy-logic-nasty-job-crater
+bip_39_word_dash_6: buddy-logic-nasty-job-crater-inch
+bip_39_word_dash_7: buddy-logic-nasty-job-crater-inch-media
+bip_39_word_dash_8: buddy-logic-nasty-job-crater-inch-media-mercy
+bip_39_word_dash_9: buddy-logic-nasty-job-crater-inch-media-mercy-shield
 bip_39_word_new_br_1: buddy
 bip_39_word_new_br_10: buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown
 bip_39_word_new_br_11: buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown<br>corn
@@ -192,6 +204,18 @@ bip_39_word_space_6: buddy logic nasty job crater inch
 bip_39_word_space_7: buddy logic nasty job crater inch media
 bip_39_word_space_8: buddy logic nasty job crater inch media mercy
 bip_39_word_space_9: buddy logic nasty job crater inch media mercy shield
+bip_39_word_underscore_1: buddy
+bip_39_word_underscore_10: buddy_logic_nasty_job_crater_inch_media_mercy_shield_brown
+bip_39_word_underscore_11: buddy_logic_nasty_job_crater_inch_media_mercy_shield_brown_corn
+bip_39_word_underscore_12: buddy_logic_nasty_job_crater_inch_media_mercy_shield_brown_corn_actor
+bip_39_word_underscore_2: buddy_logic
+bip_39_word_underscore_3: buddy_logic_nasty
+bip_39_word_underscore_4: buddy_logic_nasty_job
+bip_39_word_underscore_5: buddy_logic_nasty_job_crater
+bip_39_word_underscore_6: buddy_logic_nasty_job_crater_inch
+bip_39_word_underscore_7: buddy_logic_nasty_job_crater_inch_media
+bip_39_word_underscore_8: buddy_logic_nasty_job_crater_inch_media_mercy
+bip_39_word_underscore_9: buddy_logic_nasty_job_crater_inch_media_mercy_shield
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

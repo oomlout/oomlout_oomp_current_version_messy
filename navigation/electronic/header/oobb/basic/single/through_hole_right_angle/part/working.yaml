@@ -1,3 +1,15 @@
+bip_39_word_dash_1: universe
+bip_39_word_dash_10: universe-soul-mystery-devote-profit-help-amateur-shrug-minimum-execute
+bip_39_word_dash_11: universe-soul-mystery-devote-profit-help-amateur-shrug-minimum-execute-bachelor
+bip_39_word_dash_12: universe-soul-mystery-devote-profit-help-amateur-shrug-minimum-execute-bachelor-another
+bip_39_word_dash_2: universe-soul
+bip_39_word_dash_3: universe-soul-mystery
+bip_39_word_dash_4: universe-soul-mystery-devote
+bip_39_word_dash_5: universe-soul-mystery-devote-profit
+bip_39_word_dash_6: universe-soul-mystery-devote-profit-help
+bip_39_word_dash_7: universe-soul-mystery-devote-profit-help-amateur
+bip_39_word_dash_8: universe-soul-mystery-devote-profit-help-amateur-shrug
+bip_39_word_dash_9: universe-soul-mystery-devote-profit-help-amateur-shrug-minimum
 bip_39_word_new_br_1: universe
 bip_39_word_new_br_10: universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug<br>minimum<br>execute
 bip_39_word_new_br_11: universe<br>soul<br>mystery<br>devote<br>profit<br>help<br>amateur<br>shrug<br>minimum<br>execute<br>bachelor
@@ -194,6 +206,18 @@ bip_39_word_space_6: universe soul mystery devote profit help
 bip_39_word_space_7: universe soul mystery devote profit help amateur
 bip_39_word_space_8: universe soul mystery devote profit help amateur shrug
 bip_39_word_space_9: universe soul mystery devote profit help amateur shrug minimum
+bip_39_word_underscore_1: universe
+bip_39_word_underscore_10: universe_soul_mystery_devote_profit_help_amateur_shrug_minimum_execute
+bip_39_word_underscore_11: universe_soul_mystery_devote_profit_help_amateur_shrug_minimum_execute_bachelor
+bip_39_word_underscore_12: universe_soul_mystery_devote_profit_help_amateur_shrug_minimum_execute_bachelor_another
+bip_39_word_underscore_2: universe_soul
+bip_39_word_underscore_3: universe_soul_mystery
+bip_39_word_underscore_4: universe_soul_mystery_devote
+bip_39_word_underscore_5: universe_soul_mystery_devote_profit
+bip_39_word_underscore_6: universe_soul_mystery_devote_profit_help
+bip_39_word_underscore_7: universe_soul_mystery_devote_profit_help_amateur
+bip_39_word_underscore_8: universe_soul_mystery_devote_profit_help_amateur_shrug
+bip_39_word_underscore_9: universe_soul_mystery_devote_profit_help_amateur_shrug_minimum
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

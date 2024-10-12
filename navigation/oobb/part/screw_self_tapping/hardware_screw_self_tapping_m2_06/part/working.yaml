@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bitter
+bip_39_word_dash_10: bitter-destroy-awake-have-empower-warm-limit-voice-rubber-tennis
+bip_39_word_dash_11: bitter-destroy-awake-have-empower-warm-limit-voice-rubber-tennis-small
+bip_39_word_dash_12: bitter-destroy-awake-have-empower-warm-limit-voice-rubber-tennis-small-alert
+bip_39_word_dash_2: bitter-destroy
+bip_39_word_dash_3: bitter-destroy-awake
+bip_39_word_dash_4: bitter-destroy-awake-have
+bip_39_word_dash_5: bitter-destroy-awake-have-empower
+bip_39_word_dash_6: bitter-destroy-awake-have-empower-warm
+bip_39_word_dash_7: bitter-destroy-awake-have-empower-warm-limit
+bip_39_word_dash_8: bitter-destroy-awake-have-empower-warm-limit-voice
+bip_39_word_dash_9: bitter-destroy-awake-have-empower-warm-limit-voice-rubber
 bip_39_word_new_br_1: bitter
 bip_39_word_new_br_10: bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis
 bip_39_word_new_br_11: bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis<br>small
@@ -193,6 +205,18 @@ bip_39_word_space_6: bitter destroy awake have empower warm
 bip_39_word_space_7: bitter destroy awake have empower warm limit
 bip_39_word_space_8: bitter destroy awake have empower warm limit voice
 bip_39_word_space_9: bitter destroy awake have empower warm limit voice rubber
+bip_39_word_underscore_1: bitter
+bip_39_word_underscore_10: bitter_destroy_awake_have_empower_warm_limit_voice_rubber_tennis
+bip_39_word_underscore_11: bitter_destroy_awake_have_empower_warm_limit_voice_rubber_tennis_small
+bip_39_word_underscore_12: bitter_destroy_awake_have_empower_warm_limit_voice_rubber_tennis_small_alert
+bip_39_word_underscore_2: bitter_destroy
+bip_39_word_underscore_3: bitter_destroy_awake
+bip_39_word_underscore_4: bitter_destroy_awake_have
+bip_39_word_underscore_5: bitter_destroy_awake_have_empower
+bip_39_word_underscore_6: bitter_destroy_awake_have_empower_warm
+bip_39_word_underscore_7: bitter_destroy_awake_have_empower_warm_limit
+bip_39_word_underscore_8: bitter_destroy_awake_have_empower_warm_limit_voice
+bip_39_word_underscore_9: bitter_destroy_awake_have_empower_warm_limit_voice_rubber
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

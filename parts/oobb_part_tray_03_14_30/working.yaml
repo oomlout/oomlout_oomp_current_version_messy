@@ -1,3 +1,15 @@
+bip_39_word_dash_1: turtle
+bip_39_word_dash_10: turtle-jar-start-reward-mandate-view-taste-roast-fluid-riot
+bip_39_word_dash_11: turtle-jar-start-reward-mandate-view-taste-roast-fluid-riot-danger
+bip_39_word_dash_12: turtle-jar-start-reward-mandate-view-taste-roast-fluid-riot-danger-attend
+bip_39_word_dash_2: turtle-jar
+bip_39_word_dash_3: turtle-jar-start
+bip_39_word_dash_4: turtle-jar-start-reward
+bip_39_word_dash_5: turtle-jar-start-reward-mandate
+bip_39_word_dash_6: turtle-jar-start-reward-mandate-view
+bip_39_word_dash_7: turtle-jar-start-reward-mandate-view-taste
+bip_39_word_dash_8: turtle-jar-start-reward-mandate-view-taste-roast
+bip_39_word_dash_9: turtle-jar-start-reward-mandate-view-taste-roast-fluid
 bip_39_word_new_br_1: turtle
 bip_39_word_new_br_10: turtle<br>jar<br>start<br>reward<br>mandate<br>view<br>taste<br>roast<br>fluid<br>riot
 bip_39_word_new_br_11: turtle<br>jar<br>start<br>reward<br>mandate<br>view<br>taste<br>roast<br>fluid<br>riot<br>danger
@@ -193,6 +205,18 @@ bip_39_word_space_6: turtle jar start reward mandate view
 bip_39_word_space_7: turtle jar start reward mandate view taste
 bip_39_word_space_8: turtle jar start reward mandate view taste roast
 bip_39_word_space_9: turtle jar start reward mandate view taste roast fluid
+bip_39_word_underscore_1: turtle
+bip_39_word_underscore_10: turtle_jar_start_reward_mandate_view_taste_roast_fluid_riot
+bip_39_word_underscore_11: turtle_jar_start_reward_mandate_view_taste_roast_fluid_riot_danger
+bip_39_word_underscore_12: turtle_jar_start_reward_mandate_view_taste_roast_fluid_riot_danger_attend
+bip_39_word_underscore_2: turtle_jar
+bip_39_word_underscore_3: turtle_jar_start
+bip_39_word_underscore_4: turtle_jar_start_reward
+bip_39_word_underscore_5: turtle_jar_start_reward_mandate
+bip_39_word_underscore_6: turtle_jar_start_reward_mandate_view
+bip_39_word_underscore_7: turtle_jar_start_reward_mandate_view_taste
+bip_39_word_underscore_8: turtle_jar_start_reward_mandate_view_taste_roast
+bip_39_word_underscore_9: turtle_jar_start_reward_mandate_view_taste_roast_fluid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

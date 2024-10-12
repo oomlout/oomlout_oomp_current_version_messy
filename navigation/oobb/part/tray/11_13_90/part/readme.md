@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | disease |  
+| bip_39_word_dash_10 | disease-floor-derive-cricket-this-ethics-later-donkey-ill-elder |  
+| bip_39_word_dash_11 | disease-floor-derive-cricket-this-ethics-later-donkey-ill-elder-mule |  
+| bip_39_word_dash_12 | disease-floor-derive-cricket-this-ethics-later-donkey-ill-elder-mule-address |  
+| bip_39_word_dash_2 | disease-floor |  
+| bip_39_word_dash_3 | disease-floor-derive |  
+| bip_39_word_dash_4 | disease-floor-derive-cricket |  
+| bip_39_word_dash_5 | disease-floor-derive-cricket-this |  
+| bip_39_word_dash_6 | disease-floor-derive-cricket-this-ethics |  
+| bip_39_word_dash_7 | disease-floor-derive-cricket-this-ethics-later |  
+| bip_39_word_dash_8 | disease-floor-derive-cricket-this-ethics-later-donkey |  
+| bip_39_word_dash_9 | disease-floor-derive-cricket-this-ethics-later-donkey-ill |  
 | bip_39_word_new_br_1 | disease |  
 | bip_39_word_new_br_10 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder |  
 | bip_39_word_new_br_11 | disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder<br>mule |  
@@ -147,6 +159,18 @@ ill |
 | bip_39_word_space_7 | disease floor derive cricket this ethics later |  
 | bip_39_word_space_8 | disease floor derive cricket this ethics later donkey |  
 | bip_39_word_space_9 | disease floor derive cricket this ethics later donkey ill |  
+| bip_39_word_underscore_1 | disease |  
+| bip_39_word_underscore_10 | disease_floor_derive_cricket_this_ethics_later_donkey_ill_elder |  
+| bip_39_word_underscore_11 | disease_floor_derive_cricket_this_ethics_later_donkey_ill_elder_mule |  
+| bip_39_word_underscore_12 | disease_floor_derive_cricket_this_ethics_later_donkey_ill_elder_mule_address |  
+| bip_39_word_underscore_2 | disease_floor |  
+| bip_39_word_underscore_3 | disease_floor_derive |  
+| bip_39_word_underscore_4 | disease_floor_derive_cricket |  
+| bip_39_word_underscore_5 | disease_floor_derive_cricket_this |  
+| bip_39_word_underscore_6 | disease_floor_derive_cricket_this_ethics |  
+| bip_39_word_underscore_7 | disease_floor_derive_cricket_this_ethics_later |  
+| bip_39_word_underscore_8 | disease_floor_derive_cricket_this_ethics_later_donkey |  
+| bip_39_word_underscore_9 | disease_floor_derive_cricket_this_ethics_later_donkey_ill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

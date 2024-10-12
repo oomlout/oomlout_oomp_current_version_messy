@@ -1,3 +1,15 @@
+bip_39_word_dash_1: maze
+bip_39_word_dash_10: maze-supreme-time-member-gown-sibling-biology-escape-walk-genius
+bip_39_word_dash_11: maze-supreme-time-member-gown-sibling-biology-escape-walk-genius-ridge
+bip_39_word_dash_12: maze-supreme-time-member-gown-sibling-biology-escape-walk-genius-ridge-athlete
+bip_39_word_dash_2: maze-supreme
+bip_39_word_dash_3: maze-supreme-time
+bip_39_word_dash_4: maze-supreme-time-member
+bip_39_word_dash_5: maze-supreme-time-member-gown
+bip_39_word_dash_6: maze-supreme-time-member-gown-sibling
+bip_39_word_dash_7: maze-supreme-time-member-gown-sibling-biology
+bip_39_word_dash_8: maze-supreme-time-member-gown-sibling-biology-escape
+bip_39_word_dash_9: maze-supreme-time-member-gown-sibling-biology-escape-walk
 bip_39_word_new_br_1: maze
 bip_39_word_new_br_10: maze<br>supreme<br>time<br>member<br>gown<br>sibling<br>biology<br>escape<br>walk<br>genius
 bip_39_word_new_br_11: maze<br>supreme<br>time<br>member<br>gown<br>sibling<br>biology<br>escape<br>walk<br>genius<br>ridge
@@ -193,6 +205,18 @@ bip_39_word_space_6: maze supreme time member gown sibling
 bip_39_word_space_7: maze supreme time member gown sibling biology
 bip_39_word_space_8: maze supreme time member gown sibling biology escape
 bip_39_word_space_9: maze supreme time member gown sibling biology escape walk
+bip_39_word_underscore_1: maze
+bip_39_word_underscore_10: maze_supreme_time_member_gown_sibling_biology_escape_walk_genius
+bip_39_word_underscore_11: maze_supreme_time_member_gown_sibling_biology_escape_walk_genius_ridge
+bip_39_word_underscore_12: maze_supreme_time_member_gown_sibling_biology_escape_walk_genius_ridge_athlete
+bip_39_word_underscore_2: maze_supreme
+bip_39_word_underscore_3: maze_supreme_time
+bip_39_word_underscore_4: maze_supreme_time_member
+bip_39_word_underscore_5: maze_supreme_time_member_gown
+bip_39_word_underscore_6: maze_supreme_time_member_gown_sibling
+bip_39_word_underscore_7: maze_supreme_time_member_gown_sibling_biology
+bip_39_word_underscore_8: maze_supreme_time_member_gown_sibling_biology_escape
+bip_39_word_underscore_9: maze_supreme_time_member_gown_sibling_biology_escape_walk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scare
+bip_39_word_dash_10: scare-wink-cost-push-empty-put-manage-boil-nation-melt
+bip_39_word_dash_11: scare-wink-cost-push-empty-put-manage-boil-nation-melt-foil
+bip_39_word_dash_12: scare-wink-cost-push-empty-put-manage-boil-nation-melt-foil-adapt
+bip_39_word_dash_2: scare-wink
+bip_39_word_dash_3: scare-wink-cost
+bip_39_word_dash_4: scare-wink-cost-push
+bip_39_word_dash_5: scare-wink-cost-push-empty
+bip_39_word_dash_6: scare-wink-cost-push-empty-put
+bip_39_word_dash_7: scare-wink-cost-push-empty-put-manage
+bip_39_word_dash_8: scare-wink-cost-push-empty-put-manage-boil
+bip_39_word_dash_9: scare-wink-cost-push-empty-put-manage-boil-nation
 bip_39_word_new_br_1: scare
 bip_39_word_new_br_10: scare<br>wink<br>cost<br>push<br>empty<br>put<br>manage<br>boil<br>nation<br>melt
 bip_39_word_new_br_11: scare<br>wink<br>cost<br>push<br>empty<br>put<br>manage<br>boil<br>nation<br>melt<br>foil
@@ -192,6 +204,18 @@ bip_39_word_space_6: scare wink cost push empty put
 bip_39_word_space_7: scare wink cost push empty put manage
 bip_39_word_space_8: scare wink cost push empty put manage boil
 bip_39_word_space_9: scare wink cost push empty put manage boil nation
+bip_39_word_underscore_1: scare
+bip_39_word_underscore_10: scare_wink_cost_push_empty_put_manage_boil_nation_melt
+bip_39_word_underscore_11: scare_wink_cost_push_empty_put_manage_boil_nation_melt_foil
+bip_39_word_underscore_12: scare_wink_cost_push_empty_put_manage_boil_nation_melt_foil_adapt
+bip_39_word_underscore_2: scare_wink
+bip_39_word_underscore_3: scare_wink_cost
+bip_39_word_underscore_4: scare_wink_cost_push
+bip_39_word_underscore_5: scare_wink_cost_push_empty
+bip_39_word_underscore_6: scare_wink_cost_push_empty_put
+bip_39_word_underscore_7: scare_wink_cost_push_empty_put_manage
+bip_39_word_underscore_8: scare_wink_cost_push_empty_put_manage_boil
+bip_39_word_underscore_9: scare_wink_cost_push_empty_put_manage_boil_nation
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

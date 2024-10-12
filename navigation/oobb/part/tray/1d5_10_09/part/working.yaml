@@ -1,3 +1,15 @@
+bip_39_word_dash_1: episode
+bip_39_word_dash_10: episode-speak-that-smooth-primary-very-west-cheap-heart-shuffle
+bip_39_word_dash_11: episode-speak-that-smooth-primary-very-west-cheap-heart-shuffle-stand
+bip_39_word_dash_12: episode-speak-that-smooth-primary-very-west-cheap-heart-shuffle-stand-absent
+bip_39_word_dash_2: episode-speak
+bip_39_word_dash_3: episode-speak-that
+bip_39_word_dash_4: episode-speak-that-smooth
+bip_39_word_dash_5: episode-speak-that-smooth-primary
+bip_39_word_dash_6: episode-speak-that-smooth-primary-very
+bip_39_word_dash_7: episode-speak-that-smooth-primary-very-west
+bip_39_word_dash_8: episode-speak-that-smooth-primary-very-west-cheap
+bip_39_word_dash_9: episode-speak-that-smooth-primary-very-west-cheap-heart
 bip_39_word_new_br_1: episode
 bip_39_word_new_br_10: episode<br>speak<br>that<br>smooth<br>primary<br>very<br>west<br>cheap<br>heart<br>shuffle
 bip_39_word_new_br_11: episode<br>speak<br>that<br>smooth<br>primary<br>very<br>west<br>cheap<br>heart<br>shuffle<br>stand
@@ -193,6 +205,18 @@ bip_39_word_space_6: episode speak that smooth primary very
 bip_39_word_space_7: episode speak that smooth primary very west
 bip_39_word_space_8: episode speak that smooth primary very west cheap
 bip_39_word_space_9: episode speak that smooth primary very west cheap heart
+bip_39_word_underscore_1: episode
+bip_39_word_underscore_10: episode_speak_that_smooth_primary_very_west_cheap_heart_shuffle
+bip_39_word_underscore_11: episode_speak_that_smooth_primary_very_west_cheap_heart_shuffle_stand
+bip_39_word_underscore_12: episode_speak_that_smooth_primary_very_west_cheap_heart_shuffle_stand_absent
+bip_39_word_underscore_2: episode_speak
+bip_39_word_underscore_3: episode_speak_that
+bip_39_word_underscore_4: episode_speak_that_smooth
+bip_39_word_underscore_5: episode_speak_that_smooth_primary
+bip_39_word_underscore_6: episode_speak_that_smooth_primary_very
+bip_39_word_underscore_7: episode_speak_that_smooth_primary_very_west
+bip_39_word_underscore_8: episode_speak_that_smooth_primary_very_west_cheap
+bip_39_word_underscore_9: episode_speak_that_smooth_primary_very_west_cheap_heart
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

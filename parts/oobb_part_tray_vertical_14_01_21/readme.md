@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crowd |  
+| bip_39_word_dash_10 | crowd-patrol-aerobic-welcome-when-nurse-dance-dragon-input-junior |  
+| bip_39_word_dash_11 | crowd-patrol-aerobic-welcome-when-nurse-dance-dragon-input-junior-napkin |  
+| bip_39_word_dash_12 | crowd-patrol-aerobic-welcome-when-nurse-dance-dragon-input-junior-napkin-avocado |  
+| bip_39_word_dash_2 | crowd-patrol |  
+| bip_39_word_dash_3 | crowd-patrol-aerobic |  
+| bip_39_word_dash_4 | crowd-patrol-aerobic-welcome |  
+| bip_39_word_dash_5 | crowd-patrol-aerobic-welcome-when |  
+| bip_39_word_dash_6 | crowd-patrol-aerobic-welcome-when-nurse |  
+| bip_39_word_dash_7 | crowd-patrol-aerobic-welcome-when-nurse-dance |  
+| bip_39_word_dash_8 | crowd-patrol-aerobic-welcome-when-nurse-dance-dragon |  
+| bip_39_word_dash_9 | crowd-patrol-aerobic-welcome-when-nurse-dance-dragon-input |  
 | bip_39_word_new_br_1 | crowd |  
 | bip_39_word_new_br_10 | crowd<br>patrol<br>aerobic<br>welcome<br>when<br>nurse<br>dance<br>dragon<br>input<br>junior |  
 | bip_39_word_new_br_11 | crowd<br>patrol<br>aerobic<br>welcome<br>when<br>nurse<br>dance<br>dragon<br>input<br>junior<br>napkin |  
@@ -147,6 +159,18 @@ input |
 | bip_39_word_space_7 | crowd patrol aerobic welcome when nurse dance |  
 | bip_39_word_space_8 | crowd patrol aerobic welcome when nurse dance dragon |  
 | bip_39_word_space_9 | crowd patrol aerobic welcome when nurse dance dragon input |  
+| bip_39_word_underscore_1 | crowd |  
+| bip_39_word_underscore_10 | crowd_patrol_aerobic_welcome_when_nurse_dance_dragon_input_junior |  
+| bip_39_word_underscore_11 | crowd_patrol_aerobic_welcome_when_nurse_dance_dragon_input_junior_napkin |  
+| bip_39_word_underscore_12 | crowd_patrol_aerobic_welcome_when_nurse_dance_dragon_input_junior_napkin_avocado |  
+| bip_39_word_underscore_2 | crowd_patrol |  
+| bip_39_word_underscore_3 | crowd_patrol_aerobic |  
+| bip_39_word_underscore_4 | crowd_patrol_aerobic_welcome |  
+| bip_39_word_underscore_5 | crowd_patrol_aerobic_welcome_when |  
+| bip_39_word_underscore_6 | crowd_patrol_aerobic_welcome_when_nurse |  
+| bip_39_word_underscore_7 | crowd_patrol_aerobic_welcome_when_nurse_dance |  
+| bip_39_word_underscore_8 | crowd_patrol_aerobic_welcome_when_nurse_dance_dragon |  
+| bip_39_word_underscore_9 | crowd_patrol_aerobic_welcome_when_nurse_dance_dragon_input |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

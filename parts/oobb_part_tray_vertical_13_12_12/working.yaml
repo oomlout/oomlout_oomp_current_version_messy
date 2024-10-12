@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vault
+bip_39_word_dash_10: vault-bulb-avoid-neutral-angry-buyer-client-medal-glad-very
+bip_39_word_dash_11: vault-bulb-avoid-neutral-angry-buyer-client-medal-glad-very-crawl
+bip_39_word_dash_12: vault-bulb-avoid-neutral-angry-buyer-client-medal-glad-very-crawl-area
+bip_39_word_dash_2: vault-bulb
+bip_39_word_dash_3: vault-bulb-avoid
+bip_39_word_dash_4: vault-bulb-avoid-neutral
+bip_39_word_dash_5: vault-bulb-avoid-neutral-angry
+bip_39_word_dash_6: vault-bulb-avoid-neutral-angry-buyer
+bip_39_word_dash_7: vault-bulb-avoid-neutral-angry-buyer-client
+bip_39_word_dash_8: vault-bulb-avoid-neutral-angry-buyer-client-medal
+bip_39_word_dash_9: vault-bulb-avoid-neutral-angry-buyer-client-medal-glad
 bip_39_word_new_br_1: vault
 bip_39_word_new_br_10: vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal<br>glad<br>very
 bip_39_word_new_br_11: vault<br>bulb<br>avoid<br>neutral<br>angry<br>buyer<br>client<br>medal<br>glad<br>very<br>crawl
@@ -193,6 +205,18 @@ bip_39_word_space_6: vault bulb avoid neutral angry buyer
 bip_39_word_space_7: vault bulb avoid neutral angry buyer client
 bip_39_word_space_8: vault bulb avoid neutral angry buyer client medal
 bip_39_word_space_9: vault bulb avoid neutral angry buyer client medal glad
+bip_39_word_underscore_1: vault
+bip_39_word_underscore_10: vault_bulb_avoid_neutral_angry_buyer_client_medal_glad_very
+bip_39_word_underscore_11: vault_bulb_avoid_neutral_angry_buyer_client_medal_glad_very_crawl
+bip_39_word_underscore_12: vault_bulb_avoid_neutral_angry_buyer_client_medal_glad_very_crawl_area
+bip_39_word_underscore_2: vault_bulb
+bip_39_word_underscore_3: vault_bulb_avoid
+bip_39_word_underscore_4: vault_bulb_avoid_neutral
+bip_39_word_underscore_5: vault_bulb_avoid_neutral_angry
+bip_39_word_underscore_6: vault_bulb_avoid_neutral_angry_buyer
+bip_39_word_underscore_7: vault_bulb_avoid_neutral_angry_buyer_client
+bip_39_word_underscore_8: vault_bulb_avoid_neutral_angry_buyer_client_medal
+bip_39_word_underscore_9: vault_bulb_avoid_neutral_angry_buyer_client_medal_glad
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: void
+bip_39_word_dash_10: void-forward-human-project-ask-alley-bean-maid-parade-utility
+bip_39_word_dash_11: void-forward-human-project-ask-alley-bean-maid-parade-utility-host
+bip_39_word_dash_12: void-forward-human-project-ask-alley-bean-maid-parade-utility-host-acquire
+bip_39_word_dash_2: void-forward
+bip_39_word_dash_3: void-forward-human
+bip_39_word_dash_4: void-forward-human-project
+bip_39_word_dash_5: void-forward-human-project-ask
+bip_39_word_dash_6: void-forward-human-project-ask-alley
+bip_39_word_dash_7: void-forward-human-project-ask-alley-bean
+bip_39_word_dash_8: void-forward-human-project-ask-alley-bean-maid
+bip_39_word_dash_9: void-forward-human-project-ask-alley-bean-maid-parade
 bip_39_word_new_br_1: void
 bip_39_word_new_br_10: void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid<br>parade<br>utility
 bip_39_word_new_br_11: void<br>forward<br>human<br>project<br>ask<br>alley<br>bean<br>maid<br>parade<br>utility<br>host
@@ -193,6 +205,18 @@ bip_39_word_space_6: void forward human project ask alley
 bip_39_word_space_7: void forward human project ask alley bean
 bip_39_word_space_8: void forward human project ask alley bean maid
 bip_39_word_space_9: void forward human project ask alley bean maid parade
+bip_39_word_underscore_1: void
+bip_39_word_underscore_10: void_forward_human_project_ask_alley_bean_maid_parade_utility
+bip_39_word_underscore_11: void_forward_human_project_ask_alley_bean_maid_parade_utility_host
+bip_39_word_underscore_12: void_forward_human_project_ask_alley_bean_maid_parade_utility_host_acquire
+bip_39_word_underscore_2: void_forward
+bip_39_word_underscore_3: void_forward_human
+bip_39_word_underscore_4: void_forward_human_project
+bip_39_word_underscore_5: void_forward_human_project_ask
+bip_39_word_underscore_6: void_forward_human_project_ask_alley
+bip_39_word_underscore_7: void_forward_human_project_ask_alley_bean
+bip_39_word_underscore_8: void_forward_human_project_ask_alley_bean_maid
+bip_39_word_underscore_9: void_forward_human_project_ask_alley_bean_maid_parade
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: about
+bip_39_word_dash_10: about-first-sunny-minimum-tone-lend-eager-leopard-club-ramp
+bip_39_word_dash_11: about-first-sunny-minimum-tone-lend-eager-leopard-club-ramp-vendor
+bip_39_word_dash_12: about-first-sunny-minimum-tone-lend-eager-leopard-club-ramp-vendor-antenna
+bip_39_word_dash_2: about-first
+bip_39_word_dash_3: about-first-sunny
+bip_39_word_dash_4: about-first-sunny-minimum
+bip_39_word_dash_5: about-first-sunny-minimum-tone
+bip_39_word_dash_6: about-first-sunny-minimum-tone-lend
+bip_39_word_dash_7: about-first-sunny-minimum-tone-lend-eager
+bip_39_word_dash_8: about-first-sunny-minimum-tone-lend-eager-leopard
+bip_39_word_dash_9: about-first-sunny-minimum-tone-lend-eager-leopard-club
 bip_39_word_new_br_1: about
 bip_39_word_new_br_10: about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp
 bip_39_word_new_br_11: about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp<br>vendor
@@ -193,6 +205,18 @@ bip_39_word_space_6: about first sunny minimum tone lend
 bip_39_word_space_7: about first sunny minimum tone lend eager
 bip_39_word_space_8: about first sunny minimum tone lend eager leopard
 bip_39_word_space_9: about first sunny minimum tone lend eager leopard club
+bip_39_word_underscore_1: about
+bip_39_word_underscore_10: about_first_sunny_minimum_tone_lend_eager_leopard_club_ramp
+bip_39_word_underscore_11: about_first_sunny_minimum_tone_lend_eager_leopard_club_ramp_vendor
+bip_39_word_underscore_12: about_first_sunny_minimum_tone_lend_eager_leopard_club_ramp_vendor_antenna
+bip_39_word_underscore_2: about_first
+bip_39_word_underscore_3: about_first_sunny
+bip_39_word_underscore_4: about_first_sunny_minimum
+bip_39_word_underscore_5: about_first_sunny_minimum_tone
+bip_39_word_underscore_6: about_first_sunny_minimum_tone_lend
+bip_39_word_underscore_7: about_first_sunny_minimum_tone_lend_eager
+bip_39_word_underscore_8: about_first_sunny_minimum_tone_lend_eager_leopard
+bip_39_word_underscore_9: about_first_sunny_minimum_tone_lend_eager_leopard_club
 classification: furniture
 classification_capital: Furniture
 classification_first_letter: f

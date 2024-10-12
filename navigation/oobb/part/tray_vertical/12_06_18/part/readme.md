@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pottery |  
+| bip_39_word_dash_10 | pottery-divorce-pave-maze-ozone-client-team-smooth-dry-cannon |  
+| bip_39_word_dash_11 | pottery-divorce-pave-maze-ozone-client-team-smooth-dry-cannon-social |  
+| bip_39_word_dash_12 | pottery-divorce-pave-maze-ozone-client-team-smooth-dry-cannon-social-above |  
+| bip_39_word_dash_2 | pottery-divorce |  
+| bip_39_word_dash_3 | pottery-divorce-pave |  
+| bip_39_word_dash_4 | pottery-divorce-pave-maze |  
+| bip_39_word_dash_5 | pottery-divorce-pave-maze-ozone |  
+| bip_39_word_dash_6 | pottery-divorce-pave-maze-ozone-client |  
+| bip_39_word_dash_7 | pottery-divorce-pave-maze-ozone-client-team |  
+| bip_39_word_dash_8 | pottery-divorce-pave-maze-ozone-client-team-smooth |  
+| bip_39_word_dash_9 | pottery-divorce-pave-maze-ozone-client-team-smooth-dry |  
 | bip_39_word_new_br_1 | pottery |  
 | bip_39_word_new_br_10 | pottery<br>divorce<br>pave<br>maze<br>ozone<br>client<br>team<br>smooth<br>dry<br>cannon |  
 | bip_39_word_new_br_11 | pottery<br>divorce<br>pave<br>maze<br>ozone<br>client<br>team<br>smooth<br>dry<br>cannon<br>social |  
@@ -147,6 +159,18 @@ dry |
 | bip_39_word_space_7 | pottery divorce pave maze ozone client team |  
 | bip_39_word_space_8 | pottery divorce pave maze ozone client team smooth |  
 | bip_39_word_space_9 | pottery divorce pave maze ozone client team smooth dry |  
+| bip_39_word_underscore_1 | pottery |  
+| bip_39_word_underscore_10 | pottery_divorce_pave_maze_ozone_client_team_smooth_dry_cannon |  
+| bip_39_word_underscore_11 | pottery_divorce_pave_maze_ozone_client_team_smooth_dry_cannon_social |  
+| bip_39_word_underscore_12 | pottery_divorce_pave_maze_ozone_client_team_smooth_dry_cannon_social_above |  
+| bip_39_word_underscore_2 | pottery_divorce |  
+| bip_39_word_underscore_3 | pottery_divorce_pave |  
+| bip_39_word_underscore_4 | pottery_divorce_pave_maze |  
+| bip_39_word_underscore_5 | pottery_divorce_pave_maze_ozone |  
+| bip_39_word_underscore_6 | pottery_divorce_pave_maze_ozone_client |  
+| bip_39_word_underscore_7 | pottery_divorce_pave_maze_ozone_client_team |  
+| bip_39_word_underscore_8 | pottery_divorce_pave_maze_ozone_client_team_smooth |  
+| bip_39_word_underscore_9 | pottery_divorce_pave_maze_ozone_client_team_smooth_dry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

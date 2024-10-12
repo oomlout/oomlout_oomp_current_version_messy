@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cry |  
+| bip_39_word_dash_10 | cry-boat-advance-song-grape-cup-bracket-arrive-wonder-world |  
+| bip_39_word_dash_11 | cry-boat-advance-song-grape-cup-bracket-arrive-wonder-world-clown |  
+| bip_39_word_dash_12 | cry-boat-advance-song-grape-cup-bracket-arrive-wonder-world-clown-assist |  
+| bip_39_word_dash_2 | cry-boat |  
+| bip_39_word_dash_3 | cry-boat-advance |  
+| bip_39_word_dash_4 | cry-boat-advance-song |  
+| bip_39_word_dash_5 | cry-boat-advance-song-grape |  
+| bip_39_word_dash_6 | cry-boat-advance-song-grape-cup |  
+| bip_39_word_dash_7 | cry-boat-advance-song-grape-cup-bracket |  
+| bip_39_word_dash_8 | cry-boat-advance-song-grape-cup-bracket-arrive |  
+| bip_39_word_dash_9 | cry-boat-advance-song-grape-cup-bracket-arrive-wonder |  
 | bip_39_word_new_br_1 | cry |  
 | bip_39_word_new_br_10 | cry<br>boat<br>advance<br>song<br>grape<br>cup<br>bracket<br>arrive<br>wonder<br>world |  
 | bip_39_word_new_br_11 | cry<br>boat<br>advance<br>song<br>grape<br>cup<br>bracket<br>arrive<br>wonder<br>world<br>clown |  
@@ -147,6 +159,18 @@ wonder |
 | bip_39_word_space_7 | cry boat advance song grape cup bracket |  
 | bip_39_word_space_8 | cry boat advance song grape cup bracket arrive |  
 | bip_39_word_space_9 | cry boat advance song grape cup bracket arrive wonder |  
+| bip_39_word_underscore_1 | cry |  
+| bip_39_word_underscore_10 | cry_boat_advance_song_grape_cup_bracket_arrive_wonder_world |  
+| bip_39_word_underscore_11 | cry_boat_advance_song_grape_cup_bracket_arrive_wonder_world_clown |  
+| bip_39_word_underscore_12 | cry_boat_advance_song_grape_cup_bracket_arrive_wonder_world_clown_assist |  
+| bip_39_word_underscore_2 | cry_boat |  
+| bip_39_word_underscore_3 | cry_boat_advance |  
+| bip_39_word_underscore_4 | cry_boat_advance_song |  
+| bip_39_word_underscore_5 | cry_boat_advance_song_grape |  
+| bip_39_word_underscore_6 | cry_boat_advance_song_grape_cup |  
+| bip_39_word_underscore_7 | cry_boat_advance_song_grape_cup_bracket |  
+| bip_39_word_underscore_8 | cry_boat_advance_song_grape_cup_bracket_arrive |  
+| bip_39_word_underscore_9 | cry_boat_advance_song_grape_cup_bracket_arrive_wonder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

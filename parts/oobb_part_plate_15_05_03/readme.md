@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fitness |  
+| bip_39_word_dash_10 | fitness-uniform-hire-truth-embark-vast-fatal-cart-modify-bomb |  
+| bip_39_word_dash_11 | fitness-uniform-hire-truth-embark-vast-fatal-cart-modify-bomb-wagon |  
+| bip_39_word_dash_12 | fitness-uniform-hire-truth-embark-vast-fatal-cart-modify-bomb-wagon-amused |  
+| bip_39_word_dash_2 | fitness-uniform |  
+| bip_39_word_dash_3 | fitness-uniform-hire |  
+| bip_39_word_dash_4 | fitness-uniform-hire-truth |  
+| bip_39_word_dash_5 | fitness-uniform-hire-truth-embark |  
+| bip_39_word_dash_6 | fitness-uniform-hire-truth-embark-vast |  
+| bip_39_word_dash_7 | fitness-uniform-hire-truth-embark-vast-fatal |  
+| bip_39_word_dash_8 | fitness-uniform-hire-truth-embark-vast-fatal-cart |  
+| bip_39_word_dash_9 | fitness-uniform-hire-truth-embark-vast-fatal-cart-modify |  
 | bip_39_word_new_br_1 | fitness |  
 | bip_39_word_new_br_10 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb |  
 | bip_39_word_new_br_11 | fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb<br>wagon |  
@@ -147,6 +159,18 @@ modify |
 | bip_39_word_space_7 | fitness uniform hire truth embark vast fatal |  
 | bip_39_word_space_8 | fitness uniform hire truth embark vast fatal cart |  
 | bip_39_word_space_9 | fitness uniform hire truth embark vast fatal cart modify |  
+| bip_39_word_underscore_1 | fitness |  
+| bip_39_word_underscore_10 | fitness_uniform_hire_truth_embark_vast_fatal_cart_modify_bomb |  
+| bip_39_word_underscore_11 | fitness_uniform_hire_truth_embark_vast_fatal_cart_modify_bomb_wagon |  
+| bip_39_word_underscore_12 | fitness_uniform_hire_truth_embark_vast_fatal_cart_modify_bomb_wagon_amused |  
+| bip_39_word_underscore_2 | fitness_uniform |  
+| bip_39_word_underscore_3 | fitness_uniform_hire |  
+| bip_39_word_underscore_4 | fitness_uniform_hire_truth |  
+| bip_39_word_underscore_5 | fitness_uniform_hire_truth_embark |  
+| bip_39_word_underscore_6 | fitness_uniform_hire_truth_embark_vast |  
+| bip_39_word_underscore_7 | fitness_uniform_hire_truth_embark_vast_fatal |  
+| bip_39_word_underscore_8 | fitness_uniform_hire_truth_embark_vast_fatal_cart |  
+| bip_39_word_underscore_9 | fitness_uniform_hire_truth_embark_vast_fatal_cart_modify |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | insect |  
+| bip_39_word_dash_10 | insect-car-razor-juice-example-mimic-east-unique-time-myself |  
+| bip_39_word_dash_11 | insect-car-razor-juice-example-mimic-east-unique-time-myself-rotate |  
+| bip_39_word_dash_12 | insect-car-razor-juice-example-mimic-east-unique-time-myself-rotate-assault |  
+| bip_39_word_dash_2 | insect-car |  
+| bip_39_word_dash_3 | insect-car-razor |  
+| bip_39_word_dash_4 | insect-car-razor-juice |  
+| bip_39_word_dash_5 | insect-car-razor-juice-example |  
+| bip_39_word_dash_6 | insect-car-razor-juice-example-mimic |  
+| bip_39_word_dash_7 | insect-car-razor-juice-example-mimic-east |  
+| bip_39_word_dash_8 | insect-car-razor-juice-example-mimic-east-unique |  
+| bip_39_word_dash_9 | insect-car-razor-juice-example-mimic-east-unique-time |  
 | bip_39_word_new_br_1 | insect |  
 | bip_39_word_new_br_10 | insect<br>car<br>razor<br>juice<br>example<br>mimic<br>east<br>unique<br>time<br>myself |  
 | bip_39_word_new_br_11 | insect<br>car<br>razor<br>juice<br>example<br>mimic<br>east<br>unique<br>time<br>myself<br>rotate |  
@@ -147,6 +159,18 @@ time |
 | bip_39_word_space_7 | insect car razor juice example mimic east |  
 | bip_39_word_space_8 | insect car razor juice example mimic east unique |  
 | bip_39_word_space_9 | insect car razor juice example mimic east unique time |  
+| bip_39_word_underscore_1 | insect |  
+| bip_39_word_underscore_10 | insect_car_razor_juice_example_mimic_east_unique_time_myself |  
+| bip_39_word_underscore_11 | insect_car_razor_juice_example_mimic_east_unique_time_myself_rotate |  
+| bip_39_word_underscore_12 | insect_car_razor_juice_example_mimic_east_unique_time_myself_rotate_assault |  
+| bip_39_word_underscore_2 | insect_car |  
+| bip_39_word_underscore_3 | insect_car_razor |  
+| bip_39_word_underscore_4 | insect_car_razor_juice |  
+| bip_39_word_underscore_5 | insect_car_razor_juice_example |  
+| bip_39_word_underscore_6 | insect_car_razor_juice_example_mimic |  
+| bip_39_word_underscore_7 | insect_car_razor_juice_example_mimic_east |  
+| bip_39_word_underscore_8 | insect_car_razor_juice_example_mimic_east_unique |  
+| bip_39_word_underscore_9 | insect_car_razor_juice_example_mimic_east_unique_time |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

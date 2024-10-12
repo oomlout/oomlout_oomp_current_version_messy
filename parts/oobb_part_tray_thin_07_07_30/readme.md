@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | profit |  
+| bip_39_word_dash_10 | profit-umbrella-auto-disease-label-struggle-attitude-twelve-spring-sound |  
+| bip_39_word_dash_11 | profit-umbrella-auto-disease-label-struggle-attitude-twelve-spring-sound-soup |  
+| bip_39_word_dash_12 | profit-umbrella-auto-disease-label-struggle-attitude-twelve-spring-sound-soup-arch |  
+| bip_39_word_dash_2 | profit-umbrella |  
+| bip_39_word_dash_3 | profit-umbrella-auto |  
+| bip_39_word_dash_4 | profit-umbrella-auto-disease |  
+| bip_39_word_dash_5 | profit-umbrella-auto-disease-label |  
+| bip_39_word_dash_6 | profit-umbrella-auto-disease-label-struggle |  
+| bip_39_word_dash_7 | profit-umbrella-auto-disease-label-struggle-attitude |  
+| bip_39_word_dash_8 | profit-umbrella-auto-disease-label-struggle-attitude-twelve |  
+| bip_39_word_dash_9 | profit-umbrella-auto-disease-label-struggle-attitude-twelve-spring |  
 | bip_39_word_new_br_1 | profit |  
 | bip_39_word_new_br_10 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve<br>spring<br>sound |  
 | bip_39_word_new_br_11 | profit<br>umbrella<br>auto<br>disease<br>label<br>struggle<br>attitude<br>twelve<br>spring<br>sound<br>soup |  
@@ -147,6 +159,18 @@ spring |
 | bip_39_word_space_7 | profit umbrella auto disease label struggle attitude |  
 | bip_39_word_space_8 | profit umbrella auto disease label struggle attitude twelve |  
 | bip_39_word_space_9 | profit umbrella auto disease label struggle attitude twelve spring |  
+| bip_39_word_underscore_1 | profit |  
+| bip_39_word_underscore_10 | profit_umbrella_auto_disease_label_struggle_attitude_twelve_spring_sound |  
+| bip_39_word_underscore_11 | profit_umbrella_auto_disease_label_struggle_attitude_twelve_spring_sound_soup |  
+| bip_39_word_underscore_12 | profit_umbrella_auto_disease_label_struggle_attitude_twelve_spring_sound_soup_arch |  
+| bip_39_word_underscore_2 | profit_umbrella |  
+| bip_39_word_underscore_3 | profit_umbrella_auto |  
+| bip_39_word_underscore_4 | profit_umbrella_auto_disease |  
+| bip_39_word_underscore_5 | profit_umbrella_auto_disease_label |  
+| bip_39_word_underscore_6 | profit_umbrella_auto_disease_label_struggle |  
+| bip_39_word_underscore_7 | profit_umbrella_auto_disease_label_struggle_attitude |  
+| bip_39_word_underscore_8 | profit_umbrella_auto_disease_label_struggle_attitude_twelve |  
+| bip_39_word_underscore_9 | profit_umbrella_auto_disease_label_struggle_attitude_twelve_spring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mistake |  
+| bip_39_word_dash_10 | mistake-pole-actual-master-brown-fall-tilt-bread-double-meadow |  
+| bip_39_word_dash_11 | mistake-pole-actual-master-brown-fall-tilt-bread-double-meadow-also |  
+| bip_39_word_dash_12 | mistake-pole-actual-master-brown-fall-tilt-bread-double-meadow-also-arrange |  
+| bip_39_word_dash_2 | mistake-pole |  
+| bip_39_word_dash_3 | mistake-pole-actual |  
+| bip_39_word_dash_4 | mistake-pole-actual-master |  
+| bip_39_word_dash_5 | mistake-pole-actual-master-brown |  
+| bip_39_word_dash_6 | mistake-pole-actual-master-brown-fall |  
+| bip_39_word_dash_7 | mistake-pole-actual-master-brown-fall-tilt |  
+| bip_39_word_dash_8 | mistake-pole-actual-master-brown-fall-tilt-bread |  
+| bip_39_word_dash_9 | mistake-pole-actual-master-brown-fall-tilt-bread-double |  
 | bip_39_word_new_br_1 | mistake |  
 | bip_39_word_new_br_10 | mistake<br>pole<br>actual<br>master<br>brown<br>fall<br>tilt<br>bread<br>double<br>meadow |  
 | bip_39_word_new_br_11 | mistake<br>pole<br>actual<br>master<br>brown<br>fall<br>tilt<br>bread<br>double<br>meadow<br>also |  
@@ -147,6 +159,18 @@ double |
 | bip_39_word_space_7 | mistake pole actual master brown fall tilt |  
 | bip_39_word_space_8 | mistake pole actual master brown fall tilt bread |  
 | bip_39_word_space_9 | mistake pole actual master brown fall tilt bread double |  
+| bip_39_word_underscore_1 | mistake |  
+| bip_39_word_underscore_10 | mistake_pole_actual_master_brown_fall_tilt_bread_double_meadow |  
+| bip_39_word_underscore_11 | mistake_pole_actual_master_brown_fall_tilt_bread_double_meadow_also |  
+| bip_39_word_underscore_12 | mistake_pole_actual_master_brown_fall_tilt_bread_double_meadow_also_arrange |  
+| bip_39_word_underscore_2 | mistake_pole |  
+| bip_39_word_underscore_3 | mistake_pole_actual |  
+| bip_39_word_underscore_4 | mistake_pole_actual_master |  
+| bip_39_word_underscore_5 | mistake_pole_actual_master_brown |  
+| bip_39_word_underscore_6 | mistake_pole_actual_master_brown_fall |  
+| bip_39_word_underscore_7 | mistake_pole_actual_master_brown_fall_tilt |  
+| bip_39_word_underscore_8 | mistake_pole_actual_master_brown_fall_tilt_bread |  
+| bip_39_word_underscore_9 | mistake_pole_actual_master_brown_fall_tilt_bread_double |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | breeze |  
+| bip_39_word_dash_10 | breeze-rural-tongue-frost-again-stool-member-neglect-dutch-solid |  
+| bip_39_word_dash_11 | breeze-rural-tongue-frost-again-stool-member-neglect-dutch-solid-fan |  
+| bip_39_word_dash_12 | breeze-rural-tongue-frost-again-stool-member-neglect-dutch-solid-fan-art |  
+| bip_39_word_dash_2 | breeze-rural |  
+| bip_39_word_dash_3 | breeze-rural-tongue |  
+| bip_39_word_dash_4 | breeze-rural-tongue-frost |  
+| bip_39_word_dash_5 | breeze-rural-tongue-frost-again |  
+| bip_39_word_dash_6 | breeze-rural-tongue-frost-again-stool |  
+| bip_39_word_dash_7 | breeze-rural-tongue-frost-again-stool-member |  
+| bip_39_word_dash_8 | breeze-rural-tongue-frost-again-stool-member-neglect |  
+| bip_39_word_dash_9 | breeze-rural-tongue-frost-again-stool-member-neglect-dutch |  
 | bip_39_word_new_br_1 | breeze |  
 | bip_39_word_new_br_10 | breeze<br>rural<br>tongue<br>frost<br>again<br>stool<br>member<br>neglect<br>dutch<br>solid |  
 | bip_39_word_new_br_11 | breeze<br>rural<br>tongue<br>frost<br>again<br>stool<br>member<br>neglect<br>dutch<br>solid<br>fan |  
@@ -147,6 +159,18 @@ dutch |
 | bip_39_word_space_7 | breeze rural tongue frost again stool member |  
 | bip_39_word_space_8 | breeze rural tongue frost again stool member neglect |  
 | bip_39_word_space_9 | breeze rural tongue frost again stool member neglect dutch |  
+| bip_39_word_underscore_1 | breeze |  
+| bip_39_word_underscore_10 | breeze_rural_tongue_frost_again_stool_member_neglect_dutch_solid |  
+| bip_39_word_underscore_11 | breeze_rural_tongue_frost_again_stool_member_neglect_dutch_solid_fan |  
+| bip_39_word_underscore_12 | breeze_rural_tongue_frost_again_stool_member_neglect_dutch_solid_fan_art |  
+| bip_39_word_underscore_2 | breeze_rural |  
+| bip_39_word_underscore_3 | breeze_rural_tongue |  
+| bip_39_word_underscore_4 | breeze_rural_tongue_frost |  
+| bip_39_word_underscore_5 | breeze_rural_tongue_frost_again |  
+| bip_39_word_underscore_6 | breeze_rural_tongue_frost_again_stool |  
+| bip_39_word_underscore_7 | breeze_rural_tongue_frost_again_stool_member |  
+| bip_39_word_underscore_8 | breeze_rural_tongue_frost_again_stool_member_neglect |  
+| bip_39_word_underscore_9 | breeze_rural_tongue_frost_again_stool_member_neglect_dutch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

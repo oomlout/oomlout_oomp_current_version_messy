@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | text |  
+| bip_39_word_dash_10 | text-pupil-switch-exclude-slogan-ready-laptop-auction-royal-crime |  
+| bip_39_word_dash_11 | text-pupil-switch-exclude-slogan-ready-laptop-auction-royal-crime-express |  
+| bip_39_word_dash_12 | text-pupil-switch-exclude-slogan-ready-laptop-auction-royal-crime-express-assume |  
+| bip_39_word_dash_2 | text-pupil |  
+| bip_39_word_dash_3 | text-pupil-switch |  
+| bip_39_word_dash_4 | text-pupil-switch-exclude |  
+| bip_39_word_dash_5 | text-pupil-switch-exclude-slogan |  
+| bip_39_word_dash_6 | text-pupil-switch-exclude-slogan-ready |  
+| bip_39_word_dash_7 | text-pupil-switch-exclude-slogan-ready-laptop |  
+| bip_39_word_dash_8 | text-pupil-switch-exclude-slogan-ready-laptop-auction |  
+| bip_39_word_dash_9 | text-pupil-switch-exclude-slogan-ready-laptop-auction-royal |  
 | bip_39_word_new_br_1 | text |  
 | bip_39_word_new_br_10 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction<br>royal<br>crime |  
 | bip_39_word_new_br_11 | text<br>pupil<br>switch<br>exclude<br>slogan<br>ready<br>laptop<br>auction<br>royal<br>crime<br>express |  
@@ -147,6 +159,18 @@ royal |
 | bip_39_word_space_7 | text pupil switch exclude slogan ready laptop |  
 | bip_39_word_space_8 | text pupil switch exclude slogan ready laptop auction |  
 | bip_39_word_space_9 | text pupil switch exclude slogan ready laptop auction royal |  
+| bip_39_word_underscore_1 | text |  
+| bip_39_word_underscore_10 | text_pupil_switch_exclude_slogan_ready_laptop_auction_royal_crime |  
+| bip_39_word_underscore_11 | text_pupil_switch_exclude_slogan_ready_laptop_auction_royal_crime_express |  
+| bip_39_word_underscore_12 | text_pupil_switch_exclude_slogan_ready_laptop_auction_royal_crime_express_assume |  
+| bip_39_word_underscore_2 | text_pupil |  
+| bip_39_word_underscore_3 | text_pupil_switch |  
+| bip_39_word_underscore_4 | text_pupil_switch_exclude |  
+| bip_39_word_underscore_5 | text_pupil_switch_exclude_slogan |  
+| bip_39_word_underscore_6 | text_pupil_switch_exclude_slogan_ready |  
+| bip_39_word_underscore_7 | text_pupil_switch_exclude_slogan_ready_laptop |  
+| bip_39_word_underscore_8 | text_pupil_switch_exclude_slogan_ready_laptop_auction |  
+| bip_39_word_underscore_9 | text_pupil_switch_exclude_slogan_ready_laptop_auction_royal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

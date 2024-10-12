@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | auto |  
+| bip_39_word_dash_10 | auto-ranch-work-phrase-stock-nuclear-text-render-gallery-upper |  
+| bip_39_word_dash_11 | auto-ranch-work-phrase-stock-nuclear-text-render-gallery-upper-bachelor |  
+| bip_39_word_dash_12 | auto-ranch-work-phrase-stock-nuclear-text-render-gallery-upper-bachelor-ankle |  
+| bip_39_word_dash_2 | auto-ranch |  
+| bip_39_word_dash_3 | auto-ranch-work |  
+| bip_39_word_dash_4 | auto-ranch-work-phrase |  
+| bip_39_word_dash_5 | auto-ranch-work-phrase-stock |  
+| bip_39_word_dash_6 | auto-ranch-work-phrase-stock-nuclear |  
+| bip_39_word_dash_7 | auto-ranch-work-phrase-stock-nuclear-text |  
+| bip_39_word_dash_8 | auto-ranch-work-phrase-stock-nuclear-text-render |  
+| bip_39_word_dash_9 | auto-ranch-work-phrase-stock-nuclear-text-render-gallery |  
 | bip_39_word_new_br_1 | auto |  
 | bip_39_word_new_br_10 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render<br>gallery<br>upper |  
 | bip_39_word_new_br_11 | auto<br>ranch<br>work<br>phrase<br>stock<br>nuclear<br>text<br>render<br>gallery<br>upper<br>bachelor |  
@@ -147,6 +159,18 @@ gallery |
 | bip_39_word_space_7 | auto ranch work phrase stock nuclear text |  
 | bip_39_word_space_8 | auto ranch work phrase stock nuclear text render |  
 | bip_39_word_space_9 | auto ranch work phrase stock nuclear text render gallery |  
+| bip_39_word_underscore_1 | auto |  
+| bip_39_word_underscore_10 | auto_ranch_work_phrase_stock_nuclear_text_render_gallery_upper |  
+| bip_39_word_underscore_11 | auto_ranch_work_phrase_stock_nuclear_text_render_gallery_upper_bachelor |  
+| bip_39_word_underscore_12 | auto_ranch_work_phrase_stock_nuclear_text_render_gallery_upper_bachelor_ankle |  
+| bip_39_word_underscore_2 | auto_ranch |  
+| bip_39_word_underscore_3 | auto_ranch_work |  
+| bip_39_word_underscore_4 | auto_ranch_work_phrase |  
+| bip_39_word_underscore_5 | auto_ranch_work_phrase_stock |  
+| bip_39_word_underscore_6 | auto_ranch_work_phrase_stock_nuclear |  
+| bip_39_word_underscore_7 | auto_ranch_work_phrase_stock_nuclear_text |  
+| bip_39_word_underscore_8 | auto_ranch_work_phrase_stock_nuclear_text_render |  
+| bip_39_word_underscore_9 | auto_ranch_work_phrase_stock_nuclear_text_render_gallery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

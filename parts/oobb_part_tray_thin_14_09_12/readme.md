@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tiny |  
+| bip_39_word_dash_10 | tiny-borrow-solve-baby-bleak-feature-business-cereal-alcohol-twenty |  
+| bip_39_word_dash_11 | tiny-borrow-solve-baby-bleak-feature-business-cereal-alcohol-twenty-main |  
+| bip_39_word_dash_12 | tiny-borrow-solve-baby-bleak-feature-business-cereal-alcohol-twenty-main-armor |  
+| bip_39_word_dash_2 | tiny-borrow |  
+| bip_39_word_dash_3 | tiny-borrow-solve |  
+| bip_39_word_dash_4 | tiny-borrow-solve-baby |  
+| bip_39_word_dash_5 | tiny-borrow-solve-baby-bleak |  
+| bip_39_word_dash_6 | tiny-borrow-solve-baby-bleak-feature |  
+| bip_39_word_dash_7 | tiny-borrow-solve-baby-bleak-feature-business |  
+| bip_39_word_dash_8 | tiny-borrow-solve-baby-bleak-feature-business-cereal |  
+| bip_39_word_dash_9 | tiny-borrow-solve-baby-bleak-feature-business-cereal-alcohol |  
 | bip_39_word_new_br_1 | tiny |  
 | bip_39_word_new_br_10 | tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty |  
 | bip_39_word_new_br_11 | tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty<br>main |  
@@ -147,6 +159,18 @@ alcohol |
 | bip_39_word_space_7 | tiny borrow solve baby bleak feature business |  
 | bip_39_word_space_8 | tiny borrow solve baby bleak feature business cereal |  
 | bip_39_word_space_9 | tiny borrow solve baby bleak feature business cereal alcohol |  
+| bip_39_word_underscore_1 | tiny |  
+| bip_39_word_underscore_10 | tiny_borrow_solve_baby_bleak_feature_business_cereal_alcohol_twenty |  
+| bip_39_word_underscore_11 | tiny_borrow_solve_baby_bleak_feature_business_cereal_alcohol_twenty_main |  
+| bip_39_word_underscore_12 | tiny_borrow_solve_baby_bleak_feature_business_cereal_alcohol_twenty_main_armor |  
+| bip_39_word_underscore_2 | tiny_borrow |  
+| bip_39_word_underscore_3 | tiny_borrow_solve |  
+| bip_39_word_underscore_4 | tiny_borrow_solve_baby |  
+| bip_39_word_underscore_5 | tiny_borrow_solve_baby_bleak |  
+| bip_39_word_underscore_6 | tiny_borrow_solve_baby_bleak_feature |  
+| bip_39_word_underscore_7 | tiny_borrow_solve_baby_bleak_feature_business |  
+| bip_39_word_underscore_8 | tiny_borrow_solve_baby_bleak_feature_business_cereal |  
+| bip_39_word_underscore_9 | tiny_borrow_solve_baby_bleak_feature_business_cereal_alcohol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

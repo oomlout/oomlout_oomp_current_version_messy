@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | process |  
+| bip_39_word_dash_10 | process-remind-fix-return-oven-loop-museum-bacon-junk-arrive |  
+| bip_39_word_dash_11 | process-remind-fix-return-oven-loop-museum-bacon-junk-arrive-mountain |  
+| bip_39_word_dash_12 | process-remind-fix-return-oven-loop-museum-bacon-junk-arrive-mountain-abstract |  
+| bip_39_word_dash_2 | process-remind |  
+| bip_39_word_dash_3 | process-remind-fix |  
+| bip_39_word_dash_4 | process-remind-fix-return |  
+| bip_39_word_dash_5 | process-remind-fix-return-oven |  
+| bip_39_word_dash_6 | process-remind-fix-return-oven-loop |  
+| bip_39_word_dash_7 | process-remind-fix-return-oven-loop-museum |  
+| bip_39_word_dash_8 | process-remind-fix-return-oven-loop-museum-bacon |  
+| bip_39_word_dash_9 | process-remind-fix-return-oven-loop-museum-bacon-junk |  
 | bip_39_word_new_br_1 | process |  
 | bip_39_word_new_br_10 | process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon<br>junk<br>arrive |  
 | bip_39_word_new_br_11 | process<br>remind<br>fix<br>return<br>oven<br>loop<br>museum<br>bacon<br>junk<br>arrive<br>mountain |  
@@ -147,6 +159,18 @@ junk |
 | bip_39_word_space_7 | process remind fix return oven loop museum |  
 | bip_39_word_space_8 | process remind fix return oven loop museum bacon |  
 | bip_39_word_space_9 | process remind fix return oven loop museum bacon junk |  
+| bip_39_word_underscore_1 | process |  
+| bip_39_word_underscore_10 | process_remind_fix_return_oven_loop_museum_bacon_junk_arrive |  
+| bip_39_word_underscore_11 | process_remind_fix_return_oven_loop_museum_bacon_junk_arrive_mountain |  
+| bip_39_word_underscore_12 | process_remind_fix_return_oven_loop_museum_bacon_junk_arrive_mountain_abstract |  
+| bip_39_word_underscore_2 | process_remind |  
+| bip_39_word_underscore_3 | process_remind_fix |  
+| bip_39_word_underscore_4 | process_remind_fix_return |  
+| bip_39_word_underscore_5 | process_remind_fix_return_oven |  
+| bip_39_word_underscore_6 | process_remind_fix_return_oven_loop |  
+| bip_39_word_underscore_7 | process_remind_fix_return_oven_loop_museum |  
+| bip_39_word_underscore_8 | process_remind_fix_return_oven_loop_museum_bacon |  
+| bip_39_word_underscore_9 | process_remind_fix_return_oven_loop_museum_bacon_junk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

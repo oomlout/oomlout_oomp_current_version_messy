@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | few |  
+| bip_39_word_dash_10 | few-what-critic-orange-senior-march-obscure-garbage-churn-rubber |  
+| bip_39_word_dash_11 | few-what-critic-orange-senior-march-obscure-garbage-churn-rubber-maze |  
+| bip_39_word_dash_12 | few-what-critic-orange-senior-march-obscure-garbage-churn-rubber-maze-absorb |  
+| bip_39_word_dash_2 | few-what |  
+| bip_39_word_dash_3 | few-what-critic |  
+| bip_39_word_dash_4 | few-what-critic-orange |  
+| bip_39_word_dash_5 | few-what-critic-orange-senior |  
+| bip_39_word_dash_6 | few-what-critic-orange-senior-march |  
+| bip_39_word_dash_7 | few-what-critic-orange-senior-march-obscure |  
+| bip_39_word_dash_8 | few-what-critic-orange-senior-march-obscure-garbage |  
+| bip_39_word_dash_9 | few-what-critic-orange-senior-march-obscure-garbage-churn |  
 | bip_39_word_new_br_1 | few |  
 | bip_39_word_new_br_10 | few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage<br>churn<br>rubber |  
 | bip_39_word_new_br_11 | few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage<br>churn<br>rubber<br>maze |  
@@ -147,6 +159,18 @@ churn |
 | bip_39_word_space_7 | few what critic orange senior march obscure |  
 | bip_39_word_space_8 | few what critic orange senior march obscure garbage |  
 | bip_39_word_space_9 | few what critic orange senior march obscure garbage churn |  
+| bip_39_word_underscore_1 | few |  
+| bip_39_word_underscore_10 | few_what_critic_orange_senior_march_obscure_garbage_churn_rubber |  
+| bip_39_word_underscore_11 | few_what_critic_orange_senior_march_obscure_garbage_churn_rubber_maze |  
+| bip_39_word_underscore_12 | few_what_critic_orange_senior_march_obscure_garbage_churn_rubber_maze_absorb |  
+| bip_39_word_underscore_2 | few_what |  
+| bip_39_word_underscore_3 | few_what_critic |  
+| bip_39_word_underscore_4 | few_what_critic_orange |  
+| bip_39_word_underscore_5 | few_what_critic_orange_senior |  
+| bip_39_word_underscore_6 | few_what_critic_orange_senior_march |  
+| bip_39_word_underscore_7 | few_what_critic_orange_senior_march_obscure |  
+| bip_39_word_underscore_8 | few_what_critic_orange_senior_march_obscure_garbage |  
+| bip_39_word_underscore_9 | few_what_critic_orange_senior_march_obscure_garbage_churn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

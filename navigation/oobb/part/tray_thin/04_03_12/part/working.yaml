@@ -1,3 +1,15 @@
+bip_39_word_dash_1: myself
+bip_39_word_dash_10: myself-equal-panel-net-glance-crowd-robust-mechanic-humble-retreat
+bip_39_word_dash_11: myself-equal-panel-net-glance-crowd-robust-mechanic-humble-retreat-cable
+bip_39_word_dash_12: myself-equal-panel-net-glance-crowd-robust-mechanic-humble-retreat-cable-assume
+bip_39_word_dash_2: myself-equal
+bip_39_word_dash_3: myself-equal-panel
+bip_39_word_dash_4: myself-equal-panel-net
+bip_39_word_dash_5: myself-equal-panel-net-glance
+bip_39_word_dash_6: myself-equal-panel-net-glance-crowd
+bip_39_word_dash_7: myself-equal-panel-net-glance-crowd-robust
+bip_39_word_dash_8: myself-equal-panel-net-glance-crowd-robust-mechanic
+bip_39_word_dash_9: myself-equal-panel-net-glance-crowd-robust-mechanic-humble
 bip_39_word_new_br_1: myself
 bip_39_word_new_br_10: myself<br>equal<br>panel<br>net<br>glance<br>crowd<br>robust<br>mechanic<br>humble<br>retreat
 bip_39_word_new_br_11: myself<br>equal<br>panel<br>net<br>glance<br>crowd<br>robust<br>mechanic<br>humble<br>retreat<br>cable
@@ -193,6 +205,18 @@ bip_39_word_space_6: myself equal panel net glance crowd
 bip_39_word_space_7: myself equal panel net glance crowd robust
 bip_39_word_space_8: myself equal panel net glance crowd robust mechanic
 bip_39_word_space_9: myself equal panel net glance crowd robust mechanic humble
+bip_39_word_underscore_1: myself
+bip_39_word_underscore_10: myself_equal_panel_net_glance_crowd_robust_mechanic_humble_retreat
+bip_39_word_underscore_11: myself_equal_panel_net_glance_crowd_robust_mechanic_humble_retreat_cable
+bip_39_word_underscore_12: myself_equal_panel_net_glance_crowd_robust_mechanic_humble_retreat_cable_assume
+bip_39_word_underscore_2: myself_equal
+bip_39_word_underscore_3: myself_equal_panel
+bip_39_word_underscore_4: myself_equal_panel_net
+bip_39_word_underscore_5: myself_equal_panel_net_glance
+bip_39_word_underscore_6: myself_equal_panel_net_glance_crowd
+bip_39_word_underscore_7: myself_equal_panel_net_glance_crowd_robust
+bip_39_word_underscore_8: myself_equal_panel_net_glance_crowd_robust_mechanic
+bip_39_word_underscore_9: myself_equal_panel_net_glance_crowd_robust_mechanic_humble
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

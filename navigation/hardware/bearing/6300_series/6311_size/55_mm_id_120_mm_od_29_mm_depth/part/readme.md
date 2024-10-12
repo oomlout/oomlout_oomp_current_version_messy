@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | puppy |  
+| bip_39_word_dash_10 | puppy-super-phone-culture-task-spike-goose-speak-annual-tide |  
+| bip_39_word_dash_11 | puppy-super-phone-culture-task-spike-goose-speak-annual-tide-small |  
+| bip_39_word_dash_12 | puppy-super-phone-culture-task-spike-goose-speak-annual-tide-small-around |  
+| bip_39_word_dash_2 | puppy-super |  
+| bip_39_word_dash_3 | puppy-super-phone |  
+| bip_39_word_dash_4 | puppy-super-phone-culture |  
+| bip_39_word_dash_5 | puppy-super-phone-culture-task |  
+| bip_39_word_dash_6 | puppy-super-phone-culture-task-spike |  
+| bip_39_word_dash_7 | puppy-super-phone-culture-task-spike-goose |  
+| bip_39_word_dash_8 | puppy-super-phone-culture-task-spike-goose-speak |  
+| bip_39_word_dash_9 | puppy-super-phone-culture-task-spike-goose-speak-annual |  
 | bip_39_word_new_br_1 | puppy |  
 | bip_39_word_new_br_10 | puppy<br>super<br>phone<br>culture<br>task<br>spike<br>goose<br>speak<br>annual<br>tide |  
 | bip_39_word_new_br_11 | puppy<br>super<br>phone<br>culture<br>task<br>spike<br>goose<br>speak<br>annual<br>tide<br>small |  
@@ -147,6 +159,18 @@ annual |
 | bip_39_word_space_7 | puppy super phone culture task spike goose |  
 | bip_39_word_space_8 | puppy super phone culture task spike goose speak |  
 | bip_39_word_space_9 | puppy super phone culture task spike goose speak annual |  
+| bip_39_word_underscore_1 | puppy |  
+| bip_39_word_underscore_10 | puppy_super_phone_culture_task_spike_goose_speak_annual_tide |  
+| bip_39_word_underscore_11 | puppy_super_phone_culture_task_spike_goose_speak_annual_tide_small |  
+| bip_39_word_underscore_12 | puppy_super_phone_culture_task_spike_goose_speak_annual_tide_small_around |  
+| bip_39_word_underscore_2 | puppy_super |  
+| bip_39_word_underscore_3 | puppy_super_phone |  
+| bip_39_word_underscore_4 | puppy_super_phone_culture |  
+| bip_39_word_underscore_5 | puppy_super_phone_culture_task |  
+| bip_39_word_underscore_6 | puppy_super_phone_culture_task_spike |  
+| bip_39_word_underscore_7 | puppy_super_phone_culture_task_spike_goose |  
+| bip_39_word_underscore_8 | puppy_super_phone_culture_task_spike_goose_speak |  
+| bip_39_word_underscore_9 | puppy_super_phone_culture_task_spike_goose_speak_annual |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

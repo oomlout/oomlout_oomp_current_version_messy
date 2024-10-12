@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hockey |  
+| bip_39_word_dash_10 | hockey-acoustic-easily-build-network-inmate-immense-warm-boat-candy |  
+| bip_39_word_dash_11 | hockey-acoustic-easily-build-network-inmate-immense-warm-boat-candy-domain |  
+| bip_39_word_dash_12 | hockey-acoustic-easily-build-network-inmate-immense-warm-boat-candy-domain-around |  
+| bip_39_word_dash_2 | hockey-acoustic |  
+| bip_39_word_dash_3 | hockey-acoustic-easily |  
+| bip_39_word_dash_4 | hockey-acoustic-easily-build |  
+| bip_39_word_dash_5 | hockey-acoustic-easily-build-network |  
+| bip_39_word_dash_6 | hockey-acoustic-easily-build-network-inmate |  
+| bip_39_word_dash_7 | hockey-acoustic-easily-build-network-inmate-immense |  
+| bip_39_word_dash_8 | hockey-acoustic-easily-build-network-inmate-immense-warm |  
+| bip_39_word_dash_9 | hockey-acoustic-easily-build-network-inmate-immense-warm-boat |  
 | bip_39_word_new_br_1 | hockey |  
 | bip_39_word_new_br_10 | hockey<br>acoustic<br>easily<br>build<br>network<br>inmate<br>immense<br>warm<br>boat<br>candy |  
 | bip_39_word_new_br_11 | hockey<br>acoustic<br>easily<br>build<br>network<br>inmate<br>immense<br>warm<br>boat<br>candy<br>domain |  
@@ -147,6 +159,18 @@ boat |
 | bip_39_word_space_7 | hockey acoustic easily build network inmate immense |  
 | bip_39_word_space_8 | hockey acoustic easily build network inmate immense warm |  
 | bip_39_word_space_9 | hockey acoustic easily build network inmate immense warm boat |  
+| bip_39_word_underscore_1 | hockey |  
+| bip_39_word_underscore_10 | hockey_acoustic_easily_build_network_inmate_immense_warm_boat_candy |  
+| bip_39_word_underscore_11 | hockey_acoustic_easily_build_network_inmate_immense_warm_boat_candy_domain |  
+| bip_39_word_underscore_12 | hockey_acoustic_easily_build_network_inmate_immense_warm_boat_candy_domain_around |  
+| bip_39_word_underscore_2 | hockey_acoustic |  
+| bip_39_word_underscore_3 | hockey_acoustic_easily |  
+| bip_39_word_underscore_4 | hockey_acoustic_easily_build |  
+| bip_39_word_underscore_5 | hockey_acoustic_easily_build_network |  
+| bip_39_word_underscore_6 | hockey_acoustic_easily_build_network_inmate |  
+| bip_39_word_underscore_7 | hockey_acoustic_easily_build_network_inmate_immense |  
+| bip_39_word_underscore_8 | hockey_acoustic_easily_build_network_inmate_immense_warm |  
+| bip_39_word_underscore_9 | hockey_acoustic_easily_build_network_inmate_immense_warm_boat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

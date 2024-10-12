@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spray
+bip_39_word_dash_10: spray-size-glove-admit-task-hybrid-swing-still-tilt-still
+bip_39_word_dash_11: spray-size-glove-admit-task-hybrid-swing-still-tilt-still-trim
+bip_39_word_dash_12: spray-size-glove-admit-task-hybrid-swing-still-tilt-still-trim-abuse
+bip_39_word_dash_2: spray-size
+bip_39_word_dash_3: spray-size-glove
+bip_39_word_dash_4: spray-size-glove-admit
+bip_39_word_dash_5: spray-size-glove-admit-task
+bip_39_word_dash_6: spray-size-glove-admit-task-hybrid
+bip_39_word_dash_7: spray-size-glove-admit-task-hybrid-swing
+bip_39_word_dash_8: spray-size-glove-admit-task-hybrid-swing-still
+bip_39_word_dash_9: spray-size-glove-admit-task-hybrid-swing-still-tilt
 bip_39_word_new_br_1: spray
 bip_39_word_new_br_10: spray<br>size<br>glove<br>admit<br>task<br>hybrid<br>swing<br>still<br>tilt<br>still
 bip_39_word_new_br_11: spray<br>size<br>glove<br>admit<br>task<br>hybrid<br>swing<br>still<br>tilt<br>still<br>trim
@@ -192,6 +204,18 @@ bip_39_word_space_6: spray size glove admit task hybrid
 bip_39_word_space_7: spray size glove admit task hybrid swing
 bip_39_word_space_8: spray size glove admit task hybrid swing still
 bip_39_word_space_9: spray size glove admit task hybrid swing still tilt
+bip_39_word_underscore_1: spray
+bip_39_word_underscore_10: spray_size_glove_admit_task_hybrid_swing_still_tilt_still
+bip_39_word_underscore_11: spray_size_glove_admit_task_hybrid_swing_still_tilt_still_trim
+bip_39_word_underscore_12: spray_size_glove_admit_task_hybrid_swing_still_tilt_still_trim_abuse
+bip_39_word_underscore_2: spray_size
+bip_39_word_underscore_3: spray_size_glove
+bip_39_word_underscore_4: spray_size_glove_admit
+bip_39_word_underscore_5: spray_size_glove_admit_task
+bip_39_word_underscore_6: spray_size_glove_admit_task_hybrid
+bip_39_word_underscore_7: spray_size_glove_admit_task_hybrid_swing
+bip_39_word_underscore_8: spray_size_glove_admit_task_hybrid_swing_still
+bip_39_word_underscore_9: spray_size_glove_admit_task_hybrid_swing_still_tilt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

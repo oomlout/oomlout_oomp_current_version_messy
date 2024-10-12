@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shift |  
+| bip_39_word_dash_10 | shift-city-copper-original-unusual-atom-month-rural-human-unveil |  
+| bip_39_word_dash_11 | shift-city-copper-original-unusual-atom-month-rural-human-unveil-delay |  
+| bip_39_word_dash_12 | shift-city-copper-original-unusual-atom-month-rural-human-unveil-delay-amused |  
+| bip_39_word_dash_2 | shift-city |  
+| bip_39_word_dash_3 | shift-city-copper |  
+| bip_39_word_dash_4 | shift-city-copper-original |  
+| bip_39_word_dash_5 | shift-city-copper-original-unusual |  
+| bip_39_word_dash_6 | shift-city-copper-original-unusual-atom |  
+| bip_39_word_dash_7 | shift-city-copper-original-unusual-atom-month |  
+| bip_39_word_dash_8 | shift-city-copper-original-unusual-atom-month-rural |  
+| bip_39_word_dash_9 | shift-city-copper-original-unusual-atom-month-rural-human |  
 | bip_39_word_new_br_1 | shift |  
 | bip_39_word_new_br_10 | shift<br>city<br>copper<br>original<br>unusual<br>atom<br>month<br>rural<br>human<br>unveil |  
 | bip_39_word_new_br_11 | shift<br>city<br>copper<br>original<br>unusual<br>atom<br>month<br>rural<br>human<br>unveil<br>delay |  
@@ -147,6 +159,18 @@ human |
 | bip_39_word_space_7 | shift city copper original unusual atom month |  
 | bip_39_word_space_8 | shift city copper original unusual atom month rural |  
 | bip_39_word_space_9 | shift city copper original unusual atom month rural human |  
+| bip_39_word_underscore_1 | shift |  
+| bip_39_word_underscore_10 | shift_city_copper_original_unusual_atom_month_rural_human_unveil |  
+| bip_39_word_underscore_11 | shift_city_copper_original_unusual_atom_month_rural_human_unveil_delay |  
+| bip_39_word_underscore_12 | shift_city_copper_original_unusual_atom_month_rural_human_unveil_delay_amused |  
+| bip_39_word_underscore_2 | shift_city |  
+| bip_39_word_underscore_3 | shift_city_copper |  
+| bip_39_word_underscore_4 | shift_city_copper_original |  
+| bip_39_word_underscore_5 | shift_city_copper_original_unusual |  
+| bip_39_word_underscore_6 | shift_city_copper_original_unusual_atom |  
+| bip_39_word_underscore_7 | shift_city_copper_original_unusual_atom_month |  
+| bip_39_word_underscore_8 | shift_city_copper_original_unusual_atom_month_rural |  
+| bip_39_word_underscore_9 | shift_city_copper_original_unusual_atom_month_rural_human |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

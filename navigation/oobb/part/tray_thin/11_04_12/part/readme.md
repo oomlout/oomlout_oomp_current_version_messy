@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rocket |  
+| bip_39_word_dash_10 | rocket-zone-cube-lottery-oppose-lava-captain-science-image-organ |  
+| bip_39_word_dash_11 | rocket-zone-cube-lottery-oppose-lava-captain-science-image-organ-lamp |  
+| bip_39_word_dash_12 | rocket-zone-cube-lottery-oppose-lava-captain-science-image-organ-lamp-announce |  
+| bip_39_word_dash_2 | rocket-zone |  
+| bip_39_word_dash_3 | rocket-zone-cube |  
+| bip_39_word_dash_4 | rocket-zone-cube-lottery |  
+| bip_39_word_dash_5 | rocket-zone-cube-lottery-oppose |  
+| bip_39_word_dash_6 | rocket-zone-cube-lottery-oppose-lava |  
+| bip_39_word_dash_7 | rocket-zone-cube-lottery-oppose-lava-captain |  
+| bip_39_word_dash_8 | rocket-zone-cube-lottery-oppose-lava-captain-science |  
+| bip_39_word_dash_9 | rocket-zone-cube-lottery-oppose-lava-captain-science-image |  
 | bip_39_word_new_br_1 | rocket |  
 | bip_39_word_new_br_10 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science<br>image<br>organ |  
 | bip_39_word_new_br_11 | rocket<br>zone<br>cube<br>lottery<br>oppose<br>lava<br>captain<br>science<br>image<br>organ<br>lamp |  
@@ -147,6 +159,18 @@ image |
 | bip_39_word_space_7 | rocket zone cube lottery oppose lava captain |  
 | bip_39_word_space_8 | rocket zone cube lottery oppose lava captain science |  
 | bip_39_word_space_9 | rocket zone cube lottery oppose lava captain science image |  
+| bip_39_word_underscore_1 | rocket |  
+| bip_39_word_underscore_10 | rocket_zone_cube_lottery_oppose_lava_captain_science_image_organ |  
+| bip_39_word_underscore_11 | rocket_zone_cube_lottery_oppose_lava_captain_science_image_organ_lamp |  
+| bip_39_word_underscore_12 | rocket_zone_cube_lottery_oppose_lava_captain_science_image_organ_lamp_announce |  
+| bip_39_word_underscore_2 | rocket_zone |  
+| bip_39_word_underscore_3 | rocket_zone_cube |  
+| bip_39_word_underscore_4 | rocket_zone_cube_lottery |  
+| bip_39_word_underscore_5 | rocket_zone_cube_lottery_oppose |  
+| bip_39_word_underscore_6 | rocket_zone_cube_lottery_oppose_lava |  
+| bip_39_word_underscore_7 | rocket_zone_cube_lottery_oppose_lava_captain |  
+| bip_39_word_underscore_8 | rocket_zone_cube_lottery_oppose_lava_captain_science |  
+| bip_39_word_underscore_9 | rocket_zone_cube_lottery_oppose_lava_captain_science_image |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

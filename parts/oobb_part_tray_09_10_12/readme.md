@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | problem |  
+| bip_39_word_dash_10 | problem-diet-shrug-divide-marble-giggle-tone-pause-sense-outside |  
+| bip_39_word_dash_11 | problem-diet-shrug-divide-marble-giggle-tone-pause-sense-outside-casual |  
+| bip_39_word_dash_12 | problem-diet-shrug-divide-marble-giggle-tone-pause-sense-outside-casual-afraid |  
+| bip_39_word_dash_2 | problem-diet |  
+| bip_39_word_dash_3 | problem-diet-shrug |  
+| bip_39_word_dash_4 | problem-diet-shrug-divide |  
+| bip_39_word_dash_5 | problem-diet-shrug-divide-marble |  
+| bip_39_word_dash_6 | problem-diet-shrug-divide-marble-giggle |  
+| bip_39_word_dash_7 | problem-diet-shrug-divide-marble-giggle-tone |  
+| bip_39_word_dash_8 | problem-diet-shrug-divide-marble-giggle-tone-pause |  
+| bip_39_word_dash_9 | problem-diet-shrug-divide-marble-giggle-tone-pause-sense |  
 | bip_39_word_new_br_1 | problem |  
 | bip_39_word_new_br_10 | problem<br>diet<br>shrug<br>divide<br>marble<br>giggle<br>tone<br>pause<br>sense<br>outside |  
 | bip_39_word_new_br_11 | problem<br>diet<br>shrug<br>divide<br>marble<br>giggle<br>tone<br>pause<br>sense<br>outside<br>casual |  
@@ -147,6 +159,18 @@ sense |
 | bip_39_word_space_7 | problem diet shrug divide marble giggle tone |  
 | bip_39_word_space_8 | problem diet shrug divide marble giggle tone pause |  
 | bip_39_word_space_9 | problem diet shrug divide marble giggle tone pause sense |  
+| bip_39_word_underscore_1 | problem |  
+| bip_39_word_underscore_10 | problem_diet_shrug_divide_marble_giggle_tone_pause_sense_outside |  
+| bip_39_word_underscore_11 | problem_diet_shrug_divide_marble_giggle_tone_pause_sense_outside_casual |  
+| bip_39_word_underscore_12 | problem_diet_shrug_divide_marble_giggle_tone_pause_sense_outside_casual_afraid |  
+| bip_39_word_underscore_2 | problem_diet |  
+| bip_39_word_underscore_3 | problem_diet_shrug |  
+| bip_39_word_underscore_4 | problem_diet_shrug_divide |  
+| bip_39_word_underscore_5 | problem_diet_shrug_divide_marble |  
+| bip_39_word_underscore_6 | problem_diet_shrug_divide_marble_giggle |  
+| bip_39_word_underscore_7 | problem_diet_shrug_divide_marble_giggle_tone |  
+| bip_39_word_underscore_8 | problem_diet_shrug_divide_marble_giggle_tone_pause |  
+| bip_39_word_underscore_9 | problem_diet_shrug_divide_marble_giggle_tone_pause_sense |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

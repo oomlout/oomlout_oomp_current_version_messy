@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glimpse |  
+| bip_39_word_dash_10 | glimpse-hood-shoulder-body-critic-upgrade-glove-city-car-resemble |  
+| bip_39_word_dash_11 | glimpse-hood-shoulder-body-critic-upgrade-glove-city-car-resemble-insect |  
+| bip_39_word_dash_12 | glimpse-hood-shoulder-body-critic-upgrade-glove-city-car-resemble-insect-assume |  
+| bip_39_word_dash_2 | glimpse-hood |  
+| bip_39_word_dash_3 | glimpse-hood-shoulder |  
+| bip_39_word_dash_4 | glimpse-hood-shoulder-body |  
+| bip_39_word_dash_5 | glimpse-hood-shoulder-body-critic |  
+| bip_39_word_dash_6 | glimpse-hood-shoulder-body-critic-upgrade |  
+| bip_39_word_dash_7 | glimpse-hood-shoulder-body-critic-upgrade-glove |  
+| bip_39_word_dash_8 | glimpse-hood-shoulder-body-critic-upgrade-glove-city |  
+| bip_39_word_dash_9 | glimpse-hood-shoulder-body-critic-upgrade-glove-city-car |  
 | bip_39_word_new_br_1 | glimpse |  
 | bip_39_word_new_br_10 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble |  
 | bip_39_word_new_br_11 | glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble<br>insect |  
@@ -147,6 +159,18 @@ car |
 | bip_39_word_space_7 | glimpse hood shoulder body critic upgrade glove |  
 | bip_39_word_space_8 | glimpse hood shoulder body critic upgrade glove city |  
 | bip_39_word_space_9 | glimpse hood shoulder body critic upgrade glove city car |  
+| bip_39_word_underscore_1 | glimpse |  
+| bip_39_word_underscore_10 | glimpse_hood_shoulder_body_critic_upgrade_glove_city_car_resemble |  
+| bip_39_word_underscore_11 | glimpse_hood_shoulder_body_critic_upgrade_glove_city_car_resemble_insect |  
+| bip_39_word_underscore_12 | glimpse_hood_shoulder_body_critic_upgrade_glove_city_car_resemble_insect_assume |  
+| bip_39_word_underscore_2 | glimpse_hood |  
+| bip_39_word_underscore_3 | glimpse_hood_shoulder |  
+| bip_39_word_underscore_4 | glimpse_hood_shoulder_body |  
+| bip_39_word_underscore_5 | glimpse_hood_shoulder_body_critic |  
+| bip_39_word_underscore_6 | glimpse_hood_shoulder_body_critic_upgrade |  
+| bip_39_word_underscore_7 | glimpse_hood_shoulder_body_critic_upgrade_glove |  
+| bip_39_word_underscore_8 | glimpse_hood_shoulder_body_critic_upgrade_glove_city |  
+| bip_39_word_underscore_9 | glimpse_hood_shoulder_body_critic_upgrade_glove_city_car |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | level |  
+| bip_39_word_dash_10 | level-list-sausage-dream-picnic-denial-cloud-detail-cement-cheese |  
+| bip_39_word_dash_11 | level-list-sausage-dream-picnic-denial-cloud-detail-cement-cheese-predict |  
+| bip_39_word_dash_12 | level-list-sausage-dream-picnic-denial-cloud-detail-cement-cheese-predict-armed |  
+| bip_39_word_dash_2 | level-list |  
+| bip_39_word_dash_3 | level-list-sausage |  
+| bip_39_word_dash_4 | level-list-sausage-dream |  
+| bip_39_word_dash_5 | level-list-sausage-dream-picnic |  
+| bip_39_word_dash_6 | level-list-sausage-dream-picnic-denial |  
+| bip_39_word_dash_7 | level-list-sausage-dream-picnic-denial-cloud |  
+| bip_39_word_dash_8 | level-list-sausage-dream-picnic-denial-cloud-detail |  
+| bip_39_word_dash_9 | level-list-sausage-dream-picnic-denial-cloud-detail-cement |  
 | bip_39_word_new_br_1 | level |  
 | bip_39_word_new_br_10 | level<br>list<br>sausage<br>dream<br>picnic<br>denial<br>cloud<br>detail<br>cement<br>cheese |  
 | bip_39_word_new_br_11 | level<br>list<br>sausage<br>dream<br>picnic<br>denial<br>cloud<br>detail<br>cement<br>cheese<br>predict |  
@@ -147,6 +159,18 @@ cement |
 | bip_39_word_space_7 | level list sausage dream picnic denial cloud |  
 | bip_39_word_space_8 | level list sausage dream picnic denial cloud detail |  
 | bip_39_word_space_9 | level list sausage dream picnic denial cloud detail cement |  
+| bip_39_word_underscore_1 | level |  
+| bip_39_word_underscore_10 | level_list_sausage_dream_picnic_denial_cloud_detail_cement_cheese |  
+| bip_39_word_underscore_11 | level_list_sausage_dream_picnic_denial_cloud_detail_cement_cheese_predict |  
+| bip_39_word_underscore_12 | level_list_sausage_dream_picnic_denial_cloud_detail_cement_cheese_predict_armed |  
+| bip_39_word_underscore_2 | level_list |  
+| bip_39_word_underscore_3 | level_list_sausage |  
+| bip_39_word_underscore_4 | level_list_sausage_dream |  
+| bip_39_word_underscore_5 | level_list_sausage_dream_picnic |  
+| bip_39_word_underscore_6 | level_list_sausage_dream_picnic_denial |  
+| bip_39_word_underscore_7 | level_list_sausage_dream_picnic_denial_cloud |  
+| bip_39_word_underscore_8 | level_list_sausage_dream_picnic_denial_cloud_detail |  
+| bip_39_word_underscore_9 | level_list_sausage_dream_picnic_denial_cloud_detail_cement |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

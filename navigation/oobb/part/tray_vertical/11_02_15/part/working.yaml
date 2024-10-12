@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pride
+bip_39_word_dash_10: pride-attend-injury-chest-setup-chuckle-balance-margin-seven-weasel
+bip_39_word_dash_11: pride-attend-injury-chest-setup-chuckle-balance-margin-seven-weasel-melt
+bip_39_word_dash_12: pride-attend-injury-chest-setup-chuckle-balance-margin-seven-weasel-melt-attract
+bip_39_word_dash_2: pride-attend
+bip_39_word_dash_3: pride-attend-injury
+bip_39_word_dash_4: pride-attend-injury-chest
+bip_39_word_dash_5: pride-attend-injury-chest-setup
+bip_39_word_dash_6: pride-attend-injury-chest-setup-chuckle
+bip_39_word_dash_7: pride-attend-injury-chest-setup-chuckle-balance
+bip_39_word_dash_8: pride-attend-injury-chest-setup-chuckle-balance-margin
+bip_39_word_dash_9: pride-attend-injury-chest-setup-chuckle-balance-margin-seven
 bip_39_word_new_br_1: pride
 bip_39_word_new_br_10: pride<br>attend<br>injury<br>chest<br>setup<br>chuckle<br>balance<br>margin<br>seven<br>weasel
 bip_39_word_new_br_11: pride<br>attend<br>injury<br>chest<br>setup<br>chuckle<br>balance<br>margin<br>seven<br>weasel<br>melt
@@ -194,6 +206,18 @@ bip_39_word_space_6: pride attend injury chest setup chuckle
 bip_39_word_space_7: pride attend injury chest setup chuckle balance
 bip_39_word_space_8: pride attend injury chest setup chuckle balance margin
 bip_39_word_space_9: pride attend injury chest setup chuckle balance margin seven
+bip_39_word_underscore_1: pride
+bip_39_word_underscore_10: pride_attend_injury_chest_setup_chuckle_balance_margin_seven_weasel
+bip_39_word_underscore_11: pride_attend_injury_chest_setup_chuckle_balance_margin_seven_weasel_melt
+bip_39_word_underscore_12: pride_attend_injury_chest_setup_chuckle_balance_margin_seven_weasel_melt_attract
+bip_39_word_underscore_2: pride_attend
+bip_39_word_underscore_3: pride_attend_injury
+bip_39_word_underscore_4: pride_attend_injury_chest
+bip_39_word_underscore_5: pride_attend_injury_chest_setup
+bip_39_word_underscore_6: pride_attend_injury_chest_setup_chuckle
+bip_39_word_underscore_7: pride_attend_injury_chest_setup_chuckle_balance
+bip_39_word_underscore_8: pride_attend_injury_chest_setup_chuckle_balance_margin
+bip_39_word_underscore_9: pride_attend_injury_chest_setup_chuckle_balance_margin_seven
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

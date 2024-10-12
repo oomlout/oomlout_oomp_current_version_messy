@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blush |  
+| bip_39_word_dash_10 | blush-exact-canal-attitude-royal-seminar-anchor-tomorrow-rotate-evoke |  
+| bip_39_word_dash_11 | blush-exact-canal-attitude-royal-seminar-anchor-tomorrow-rotate-evoke-upper |  
+| bip_39_word_dash_12 | blush-exact-canal-attitude-royal-seminar-anchor-tomorrow-rotate-evoke-upper-asthma |  
+| bip_39_word_dash_2 | blush-exact |  
+| bip_39_word_dash_3 | blush-exact-canal |  
+| bip_39_word_dash_4 | blush-exact-canal-attitude |  
+| bip_39_word_dash_5 | blush-exact-canal-attitude-royal |  
+| bip_39_word_dash_6 | blush-exact-canal-attitude-royal-seminar |  
+| bip_39_word_dash_7 | blush-exact-canal-attitude-royal-seminar-anchor |  
+| bip_39_word_dash_8 | blush-exact-canal-attitude-royal-seminar-anchor-tomorrow |  
+| bip_39_word_dash_9 | blush-exact-canal-attitude-royal-seminar-anchor-tomorrow-rotate |  
 | bip_39_word_new_br_1 | blush |  
 | bip_39_word_new_br_10 | blush<br>exact<br>canal<br>attitude<br>royal<br>seminar<br>anchor<br>tomorrow<br>rotate<br>evoke |  
 | bip_39_word_new_br_11 | blush<br>exact<br>canal<br>attitude<br>royal<br>seminar<br>anchor<br>tomorrow<br>rotate<br>evoke<br>upper |  
@@ -147,6 +159,18 @@ rotate |
 | bip_39_word_space_7 | blush exact canal attitude royal seminar anchor |  
 | bip_39_word_space_8 | blush exact canal attitude royal seminar anchor tomorrow |  
 | bip_39_word_space_9 | blush exact canal attitude royal seminar anchor tomorrow rotate |  
+| bip_39_word_underscore_1 | blush |  
+| bip_39_word_underscore_10 | blush_exact_canal_attitude_royal_seminar_anchor_tomorrow_rotate_evoke |  
+| bip_39_word_underscore_11 | blush_exact_canal_attitude_royal_seminar_anchor_tomorrow_rotate_evoke_upper |  
+| bip_39_word_underscore_12 | blush_exact_canal_attitude_royal_seminar_anchor_tomorrow_rotate_evoke_upper_asthma |  
+| bip_39_word_underscore_2 | blush_exact |  
+| bip_39_word_underscore_3 | blush_exact_canal |  
+| bip_39_word_underscore_4 | blush_exact_canal_attitude |  
+| bip_39_word_underscore_5 | blush_exact_canal_attitude_royal |  
+| bip_39_word_underscore_6 | blush_exact_canal_attitude_royal_seminar |  
+| bip_39_word_underscore_7 | blush_exact_canal_attitude_royal_seminar_anchor |  
+| bip_39_word_underscore_8 | blush_exact_canal_attitude_royal_seminar_anchor_tomorrow |  
+| bip_39_word_underscore_9 | blush_exact_canal_attitude_royal_seminar_anchor_tomorrow_rotate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

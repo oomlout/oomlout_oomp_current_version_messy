@@ -1,3 +1,15 @@
+bip_39_word_dash_1: antique
+bip_39_word_dash_10: antique-warrior-addict-start-price-spray-swear-upgrade-rent-mobile
+bip_39_word_dash_11: antique-warrior-addict-start-price-spray-swear-upgrade-rent-mobile-question
+bip_39_word_dash_12: antique-warrior-addict-start-price-spray-swear-upgrade-rent-mobile-question-address
+bip_39_word_dash_2: antique-warrior
+bip_39_word_dash_3: antique-warrior-addict
+bip_39_word_dash_4: antique-warrior-addict-start
+bip_39_word_dash_5: antique-warrior-addict-start-price
+bip_39_word_dash_6: antique-warrior-addict-start-price-spray
+bip_39_word_dash_7: antique-warrior-addict-start-price-spray-swear
+bip_39_word_dash_8: antique-warrior-addict-start-price-spray-swear-upgrade
+bip_39_word_dash_9: antique-warrior-addict-start-price-spray-swear-upgrade-rent
 bip_39_word_new_br_1: antique
 bip_39_word_new_br_10: antique<br>warrior<br>addict<br>start<br>price<br>spray<br>swear<br>upgrade<br>rent<br>mobile
 bip_39_word_new_br_11: antique<br>warrior<br>addict<br>start<br>price<br>spray<br>swear<br>upgrade<br>rent<br>mobile<br>question
@@ -194,6 +206,18 @@ bip_39_word_space_6: antique warrior addict start price spray
 bip_39_word_space_7: antique warrior addict start price spray swear
 bip_39_word_space_8: antique warrior addict start price spray swear upgrade
 bip_39_word_space_9: antique warrior addict start price spray swear upgrade rent
+bip_39_word_underscore_1: antique
+bip_39_word_underscore_10: antique_warrior_addict_start_price_spray_swear_upgrade_rent_mobile
+bip_39_word_underscore_11: antique_warrior_addict_start_price_spray_swear_upgrade_rent_mobile_question
+bip_39_word_underscore_12: antique_warrior_addict_start_price_spray_swear_upgrade_rent_mobile_question_address
+bip_39_word_underscore_2: antique_warrior
+bip_39_word_underscore_3: antique_warrior_addict
+bip_39_word_underscore_4: antique_warrior_addict_start
+bip_39_word_underscore_5: antique_warrior_addict_start_price
+bip_39_word_underscore_6: antique_warrior_addict_start_price_spray
+bip_39_word_underscore_7: antique_warrior_addict_start_price_spray_swear
+bip_39_word_underscore_8: antique_warrior_addict_start_price_spray_swear_upgrade
+bip_39_word_underscore_9: antique_warrior_addict_start_price_spray_swear_upgrade_rent
 classification: dish
 classification_capital: Dish
 classification_first_letter: d

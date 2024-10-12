@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hole |  
+| bip_39_word_dash_10 | hole-crucial-wish-arrest-fever-innocent-world-volcano-orphan-term |  
+| bip_39_word_dash_11 | hole-crucial-wish-arrest-fever-innocent-world-volcano-orphan-term-demise |  
+| bip_39_word_dash_12 | hole-crucial-wish-arrest-fever-innocent-world-volcano-orphan-term-demise-armed |  
+| bip_39_word_dash_2 | hole-crucial |  
+| bip_39_word_dash_3 | hole-crucial-wish |  
+| bip_39_word_dash_4 | hole-crucial-wish-arrest |  
+| bip_39_word_dash_5 | hole-crucial-wish-arrest-fever |  
+| bip_39_word_dash_6 | hole-crucial-wish-arrest-fever-innocent |  
+| bip_39_word_dash_7 | hole-crucial-wish-arrest-fever-innocent-world |  
+| bip_39_word_dash_8 | hole-crucial-wish-arrest-fever-innocent-world-volcano |  
+| bip_39_word_dash_9 | hole-crucial-wish-arrest-fever-innocent-world-volcano-orphan |  
 | bip_39_word_new_br_1 | hole |  
 | bip_39_word_new_br_10 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term |  
 | bip_39_word_new_br_11 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term<br>demise |  
@@ -147,6 +159,18 @@ orphan |
 | bip_39_word_space_7 | hole crucial wish arrest fever innocent world |  
 | bip_39_word_space_8 | hole crucial wish arrest fever innocent world volcano |  
 | bip_39_word_space_9 | hole crucial wish arrest fever innocent world volcano orphan |  
+| bip_39_word_underscore_1 | hole |  
+| bip_39_word_underscore_10 | hole_crucial_wish_arrest_fever_innocent_world_volcano_orphan_term |  
+| bip_39_word_underscore_11 | hole_crucial_wish_arrest_fever_innocent_world_volcano_orphan_term_demise |  
+| bip_39_word_underscore_12 | hole_crucial_wish_arrest_fever_innocent_world_volcano_orphan_term_demise_armed |  
+| bip_39_word_underscore_2 | hole_crucial |  
+| bip_39_word_underscore_3 | hole_crucial_wish |  
+| bip_39_word_underscore_4 | hole_crucial_wish_arrest |  
+| bip_39_word_underscore_5 | hole_crucial_wish_arrest_fever |  
+| bip_39_word_underscore_6 | hole_crucial_wish_arrest_fever_innocent |  
+| bip_39_word_underscore_7 | hole_crucial_wish_arrest_fever_innocent_world |  
+| bip_39_word_underscore_8 | hole_crucial_wish_arrest_fever_innocent_world_volcano |  
+| bip_39_word_underscore_9 | hole_crucial_wish_arrest_fever_innocent_world_volcano_orphan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

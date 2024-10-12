@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | excess |  
+| bip_39_word_dash_10 | excess-obey-drip-swift-trash-say-craft-scan-chalk-business |  
+| bip_39_word_dash_11 | excess-obey-drip-swift-trash-say-craft-scan-chalk-business-path |  
+| bip_39_word_dash_12 | excess-obey-drip-swift-trash-say-craft-scan-chalk-business-path-attitude |  
+| bip_39_word_dash_2 | excess-obey |  
+| bip_39_word_dash_3 | excess-obey-drip |  
+| bip_39_word_dash_4 | excess-obey-drip-swift |  
+| bip_39_word_dash_5 | excess-obey-drip-swift-trash |  
+| bip_39_word_dash_6 | excess-obey-drip-swift-trash-say |  
+| bip_39_word_dash_7 | excess-obey-drip-swift-trash-say-craft |  
+| bip_39_word_dash_8 | excess-obey-drip-swift-trash-say-craft-scan |  
+| bip_39_word_dash_9 | excess-obey-drip-swift-trash-say-craft-scan-chalk |  
 | bip_39_word_new_br_1 | excess |  
 | bip_39_word_new_br_10 | excess<br>obey<br>drip<br>swift<br>trash<br>say<br>craft<br>scan<br>chalk<br>business |  
 | bip_39_word_new_br_11 | excess<br>obey<br>drip<br>swift<br>trash<br>say<br>craft<br>scan<br>chalk<br>business<br>path |  
@@ -147,6 +159,18 @@ chalk |
 | bip_39_word_space_7 | excess obey drip swift trash say craft |  
 | bip_39_word_space_8 | excess obey drip swift trash say craft scan |  
 | bip_39_word_space_9 | excess obey drip swift trash say craft scan chalk |  
+| bip_39_word_underscore_1 | excess |  
+| bip_39_word_underscore_10 | excess_obey_drip_swift_trash_say_craft_scan_chalk_business |  
+| bip_39_word_underscore_11 | excess_obey_drip_swift_trash_say_craft_scan_chalk_business_path |  
+| bip_39_word_underscore_12 | excess_obey_drip_swift_trash_say_craft_scan_chalk_business_path_attitude |  
+| bip_39_word_underscore_2 | excess_obey |  
+| bip_39_word_underscore_3 | excess_obey_drip |  
+| bip_39_word_underscore_4 | excess_obey_drip_swift |  
+| bip_39_word_underscore_5 | excess_obey_drip_swift_trash |  
+| bip_39_word_underscore_6 | excess_obey_drip_swift_trash_say |  
+| bip_39_word_underscore_7 | excess_obey_drip_swift_trash_say_craft |  
+| bip_39_word_underscore_8 | excess_obey_drip_swift_trash_say_craft_scan |  
+| bip_39_word_underscore_9 | excess_obey_drip_swift_trash_say_craft_scan_chalk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

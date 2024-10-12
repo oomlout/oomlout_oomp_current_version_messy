@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cry
+bip_39_word_dash_10: cry-cover-assume-soda-random-alert-song-ocean-vanish-name
+bip_39_word_dash_11: cry-cover-assume-soda-random-alert-song-ocean-vanish-name-various
+bip_39_word_dash_12: cry-cover-assume-soda-random-alert-song-ocean-vanish-name-various-arena
+bip_39_word_dash_2: cry-cover
+bip_39_word_dash_3: cry-cover-assume
+bip_39_word_dash_4: cry-cover-assume-soda
+bip_39_word_dash_5: cry-cover-assume-soda-random
+bip_39_word_dash_6: cry-cover-assume-soda-random-alert
+bip_39_word_dash_7: cry-cover-assume-soda-random-alert-song
+bip_39_word_dash_8: cry-cover-assume-soda-random-alert-song-ocean
+bip_39_word_dash_9: cry-cover-assume-soda-random-alert-song-ocean-vanish
 bip_39_word_new_br_1: cry
 bip_39_word_new_br_10: cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name
 bip_39_word_new_br_11: cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name<br>various
@@ -192,6 +204,18 @@ bip_39_word_space_6: cry cover assume soda random alert
 bip_39_word_space_7: cry cover assume soda random alert song
 bip_39_word_space_8: cry cover assume soda random alert song ocean
 bip_39_word_space_9: cry cover assume soda random alert song ocean vanish
+bip_39_word_underscore_1: cry
+bip_39_word_underscore_10: cry_cover_assume_soda_random_alert_song_ocean_vanish_name
+bip_39_word_underscore_11: cry_cover_assume_soda_random_alert_song_ocean_vanish_name_various
+bip_39_word_underscore_12: cry_cover_assume_soda_random_alert_song_ocean_vanish_name_various_arena
+bip_39_word_underscore_2: cry_cover
+bip_39_word_underscore_3: cry_cover_assume
+bip_39_word_underscore_4: cry_cover_assume_soda
+bip_39_word_underscore_5: cry_cover_assume_soda_random
+bip_39_word_underscore_6: cry_cover_assume_soda_random_alert
+bip_39_word_underscore_7: cry_cover_assume_soda_random_alert_song
+bip_39_word_underscore_8: cry_cover_assume_soda_random_alert_song_ocean
+bip_39_word_underscore_9: cry_cover_assume_soda_random_alert_song_ocean_vanish
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

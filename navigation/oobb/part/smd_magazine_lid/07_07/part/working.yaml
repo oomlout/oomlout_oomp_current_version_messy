@@ -1,3 +1,15 @@
+bip_39_word_dash_1: museum
+bip_39_word_dash_10: museum-bulk-dinner-page-raven-shed-carpet-melody-spawn-crush
+bip_39_word_dash_11: museum-bulk-dinner-page-raven-shed-carpet-melody-spawn-crush-lucky
+bip_39_word_dash_12: museum-bulk-dinner-page-raven-shed-carpet-melody-spawn-crush-lucky-area
+bip_39_word_dash_2: museum-bulk
+bip_39_word_dash_3: museum-bulk-dinner
+bip_39_word_dash_4: museum-bulk-dinner-page
+bip_39_word_dash_5: museum-bulk-dinner-page-raven
+bip_39_word_dash_6: museum-bulk-dinner-page-raven-shed
+bip_39_word_dash_7: museum-bulk-dinner-page-raven-shed-carpet
+bip_39_word_dash_8: museum-bulk-dinner-page-raven-shed-carpet-melody
+bip_39_word_dash_9: museum-bulk-dinner-page-raven-shed-carpet-melody-spawn
 bip_39_word_new_br_1: museum
 bip_39_word_new_br_10: museum<br>bulk<br>dinner<br>page<br>raven<br>shed<br>carpet<br>melody<br>spawn<br>crush
 bip_39_word_new_br_11: museum<br>bulk<br>dinner<br>page<br>raven<br>shed<br>carpet<br>melody<br>spawn<br>crush<br>lucky
@@ -193,6 +205,18 @@ bip_39_word_space_6: museum bulk dinner page raven shed
 bip_39_word_space_7: museum bulk dinner page raven shed carpet
 bip_39_word_space_8: museum bulk dinner page raven shed carpet melody
 bip_39_word_space_9: museum bulk dinner page raven shed carpet melody spawn
+bip_39_word_underscore_1: museum
+bip_39_word_underscore_10: museum_bulk_dinner_page_raven_shed_carpet_melody_spawn_crush
+bip_39_word_underscore_11: museum_bulk_dinner_page_raven_shed_carpet_melody_spawn_crush_lucky
+bip_39_word_underscore_12: museum_bulk_dinner_page_raven_shed_carpet_melody_spawn_crush_lucky_area
+bip_39_word_underscore_2: museum_bulk
+bip_39_word_underscore_3: museum_bulk_dinner
+bip_39_word_underscore_4: museum_bulk_dinner_page
+bip_39_word_underscore_5: museum_bulk_dinner_page_raven
+bip_39_word_underscore_6: museum_bulk_dinner_page_raven_shed
+bip_39_word_underscore_7: museum_bulk_dinner_page_raven_shed_carpet
+bip_39_word_underscore_8: museum_bulk_dinner_page_raven_shed_carpet_melody
+bip_39_word_underscore_9: museum_bulk_dinner_page_raven_shed_carpet_melody_spawn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

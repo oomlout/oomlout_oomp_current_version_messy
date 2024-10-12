@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wolf
+bip_39_word_dash_10: wolf-elephant-pipe-smart-purpose-super-quick-setup-enforce-catalog
+bip_39_word_dash_11: wolf-elephant-pipe-smart-purpose-super-quick-setup-enforce-catalog-leaf
+bip_39_word_dash_12: wolf-elephant-pipe-smart-purpose-super-quick-setup-enforce-catalog-leaf-actor
+bip_39_word_dash_2: wolf-elephant
+bip_39_word_dash_3: wolf-elephant-pipe
+bip_39_word_dash_4: wolf-elephant-pipe-smart
+bip_39_word_dash_5: wolf-elephant-pipe-smart-purpose
+bip_39_word_dash_6: wolf-elephant-pipe-smart-purpose-super
+bip_39_word_dash_7: wolf-elephant-pipe-smart-purpose-super-quick
+bip_39_word_dash_8: wolf-elephant-pipe-smart-purpose-super-quick-setup
+bip_39_word_dash_9: wolf-elephant-pipe-smart-purpose-super-quick-setup-enforce
 bip_39_word_new_br_1: wolf
 bip_39_word_new_br_10: wolf<br>elephant<br>pipe<br>smart<br>purpose<br>super<br>quick<br>setup<br>enforce<br>catalog
 bip_39_word_new_br_11: wolf<br>elephant<br>pipe<br>smart<br>purpose<br>super<br>quick<br>setup<br>enforce<br>catalog<br>leaf
@@ -193,6 +205,18 @@ bip_39_word_space_6: wolf elephant pipe smart purpose super
 bip_39_word_space_7: wolf elephant pipe smart purpose super quick
 bip_39_word_space_8: wolf elephant pipe smart purpose super quick setup
 bip_39_word_space_9: wolf elephant pipe smart purpose super quick setup enforce
+bip_39_word_underscore_1: wolf
+bip_39_word_underscore_10: wolf_elephant_pipe_smart_purpose_super_quick_setup_enforce_catalog
+bip_39_word_underscore_11: wolf_elephant_pipe_smart_purpose_super_quick_setup_enforce_catalog_leaf
+bip_39_word_underscore_12: wolf_elephant_pipe_smart_purpose_super_quick_setup_enforce_catalog_leaf_actor
+bip_39_word_underscore_2: wolf_elephant
+bip_39_word_underscore_3: wolf_elephant_pipe
+bip_39_word_underscore_4: wolf_elephant_pipe_smart
+bip_39_word_underscore_5: wolf_elephant_pipe_smart_purpose
+bip_39_word_underscore_6: wolf_elephant_pipe_smart_purpose_super
+bip_39_word_underscore_7: wolf_elephant_pipe_smart_purpose_super_quick
+bip_39_word_underscore_8: wolf_elephant_pipe_smart_purpose_super_quick_setup
+bip_39_word_underscore_9: wolf_elephant_pipe_smart_purpose_super_quick_setup_enforce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

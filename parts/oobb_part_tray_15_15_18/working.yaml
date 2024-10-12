@@ -1,3 +1,15 @@
+bip_39_word_dash_1: brass
+bip_39_word_dash_10: brass-ensure-battle-ladder-crane-nation-junior-hazard-draft-cinnamon
+bip_39_word_dash_11: brass-ensure-battle-ladder-crane-nation-junior-hazard-draft-cinnamon-razor
+bip_39_word_dash_12: brass-ensure-battle-ladder-crane-nation-junior-hazard-draft-cinnamon-razor-auto
+bip_39_word_dash_2: brass-ensure
+bip_39_word_dash_3: brass-ensure-battle
+bip_39_word_dash_4: brass-ensure-battle-ladder
+bip_39_word_dash_5: brass-ensure-battle-ladder-crane
+bip_39_word_dash_6: brass-ensure-battle-ladder-crane-nation
+bip_39_word_dash_7: brass-ensure-battle-ladder-crane-nation-junior
+bip_39_word_dash_8: brass-ensure-battle-ladder-crane-nation-junior-hazard
+bip_39_word_dash_9: brass-ensure-battle-ladder-crane-nation-junior-hazard-draft
 bip_39_word_new_br_1: brass
 bip_39_word_new_br_10: brass<br>ensure<br>battle<br>ladder<br>crane<br>nation<br>junior<br>hazard<br>draft<br>cinnamon
 bip_39_word_new_br_11: brass<br>ensure<br>battle<br>ladder<br>crane<br>nation<br>junior<br>hazard<br>draft<br>cinnamon<br>razor
@@ -194,6 +206,18 @@ bip_39_word_space_6: brass ensure battle ladder crane nation
 bip_39_word_space_7: brass ensure battle ladder crane nation junior
 bip_39_word_space_8: brass ensure battle ladder crane nation junior hazard
 bip_39_word_space_9: brass ensure battle ladder crane nation junior hazard draft
+bip_39_word_underscore_1: brass
+bip_39_word_underscore_10: brass_ensure_battle_ladder_crane_nation_junior_hazard_draft_cinnamon
+bip_39_word_underscore_11: brass_ensure_battle_ladder_crane_nation_junior_hazard_draft_cinnamon_razor
+bip_39_word_underscore_12: brass_ensure_battle_ladder_crane_nation_junior_hazard_draft_cinnamon_razor_auto
+bip_39_word_underscore_2: brass_ensure
+bip_39_word_underscore_3: brass_ensure_battle
+bip_39_word_underscore_4: brass_ensure_battle_ladder
+bip_39_word_underscore_5: brass_ensure_battle_ladder_crane
+bip_39_word_underscore_6: brass_ensure_battle_ladder_crane_nation
+bip_39_word_underscore_7: brass_ensure_battle_ladder_crane_nation_junior
+bip_39_word_underscore_8: brass_ensure_battle_ladder_crane_nation_junior_hazard
+bip_39_word_underscore_9: brass_ensure_battle_ladder_crane_nation_junior_hazard_draft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

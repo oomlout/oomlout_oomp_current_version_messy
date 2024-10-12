@@ -1,3 +1,15 @@
+bip_39_word_dash_1: owner
+bip_39_word_dash_10: owner-before-task-lucky-spot-gesture-deputy-text-park-vault
+bip_39_word_dash_11: owner-before-task-lucky-spot-gesture-deputy-text-park-vault-eagle
+bip_39_word_dash_12: owner-before-task-lucky-spot-gesture-deputy-text-park-vault-eagle-arch
+bip_39_word_dash_2: owner-before
+bip_39_word_dash_3: owner-before-task
+bip_39_word_dash_4: owner-before-task-lucky
+bip_39_word_dash_5: owner-before-task-lucky-spot
+bip_39_word_dash_6: owner-before-task-lucky-spot-gesture
+bip_39_word_dash_7: owner-before-task-lucky-spot-gesture-deputy
+bip_39_word_dash_8: owner-before-task-lucky-spot-gesture-deputy-text
+bip_39_word_dash_9: owner-before-task-lucky-spot-gesture-deputy-text-park
 bip_39_word_new_br_1: owner
 bip_39_word_new_br_10: owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text<br>park<br>vault
 bip_39_word_new_br_11: owner<br>before<br>task<br>lucky<br>spot<br>gesture<br>deputy<br>text<br>park<br>vault<br>eagle
@@ -193,6 +205,18 @@ bip_39_word_space_6: owner before task lucky spot gesture
 bip_39_word_space_7: owner before task lucky spot gesture deputy
 bip_39_word_space_8: owner before task lucky spot gesture deputy text
 bip_39_word_space_9: owner before task lucky spot gesture deputy text park
+bip_39_word_underscore_1: owner
+bip_39_word_underscore_10: owner_before_task_lucky_spot_gesture_deputy_text_park_vault
+bip_39_word_underscore_11: owner_before_task_lucky_spot_gesture_deputy_text_park_vault_eagle
+bip_39_word_underscore_12: owner_before_task_lucky_spot_gesture_deputy_text_park_vault_eagle_arch
+bip_39_word_underscore_2: owner_before
+bip_39_word_underscore_3: owner_before_task
+bip_39_word_underscore_4: owner_before_task_lucky
+bip_39_word_underscore_5: owner_before_task_lucky_spot
+bip_39_word_underscore_6: owner_before_task_lucky_spot_gesture
+bip_39_word_underscore_7: owner_before_task_lucky_spot_gesture_deputy
+bip_39_word_underscore_8: owner_before_task_lucky_spot_gesture_deputy_text
+bip_39_word_underscore_9: owner_before_task_lucky_spot_gesture_deputy_text_park
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

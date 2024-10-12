@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | crush |  
+| bip_39_word_dash_10 | crush-marriage-library-truck-divorce-dune-wire-fury-slim-galaxy |  
+| bip_39_word_dash_11 | crush-marriage-library-truck-divorce-dune-wire-fury-slim-galaxy-flash |  
+| bip_39_word_dash_12 | crush-marriage-library-truck-divorce-dune-wire-fury-slim-galaxy-flash-abstract |  
+| bip_39_word_dash_2 | crush-marriage |  
+| bip_39_word_dash_3 | crush-marriage-library |  
+| bip_39_word_dash_4 | crush-marriage-library-truck |  
+| bip_39_word_dash_5 | crush-marriage-library-truck-divorce |  
+| bip_39_word_dash_6 | crush-marriage-library-truck-divorce-dune |  
+| bip_39_word_dash_7 | crush-marriage-library-truck-divorce-dune-wire |  
+| bip_39_word_dash_8 | crush-marriage-library-truck-divorce-dune-wire-fury |  
+| bip_39_word_dash_9 | crush-marriage-library-truck-divorce-dune-wire-fury-slim |  
 | bip_39_word_new_br_1 | crush |  
 | bip_39_word_new_br_10 | crush<br>marriage<br>library<br>truck<br>divorce<br>dune<br>wire<br>fury<br>slim<br>galaxy |  
 | bip_39_word_new_br_11 | crush<br>marriage<br>library<br>truck<br>divorce<br>dune<br>wire<br>fury<br>slim<br>galaxy<br>flash |  
@@ -147,6 +159,18 @@ slim |
 | bip_39_word_space_7 | crush marriage library truck divorce dune wire |  
 | bip_39_word_space_8 | crush marriage library truck divorce dune wire fury |  
 | bip_39_word_space_9 | crush marriage library truck divorce dune wire fury slim |  
+| bip_39_word_underscore_1 | crush |  
+| bip_39_word_underscore_10 | crush_marriage_library_truck_divorce_dune_wire_fury_slim_galaxy |  
+| bip_39_word_underscore_11 | crush_marriage_library_truck_divorce_dune_wire_fury_slim_galaxy_flash |  
+| bip_39_word_underscore_12 | crush_marriage_library_truck_divorce_dune_wire_fury_slim_galaxy_flash_abstract |  
+| bip_39_word_underscore_2 | crush_marriage |  
+| bip_39_word_underscore_3 | crush_marriage_library |  
+| bip_39_word_underscore_4 | crush_marriage_library_truck |  
+| bip_39_word_underscore_5 | crush_marriage_library_truck_divorce |  
+| bip_39_word_underscore_6 | crush_marriage_library_truck_divorce_dune |  
+| bip_39_word_underscore_7 | crush_marriage_library_truck_divorce_dune_wire |  
+| bip_39_word_underscore_8 | crush_marriage_library_truck_divorce_dune_wire_fury |  
+| bip_39_word_underscore_9 | crush_marriage_library_truck_divorce_dune_wire_fury_slim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

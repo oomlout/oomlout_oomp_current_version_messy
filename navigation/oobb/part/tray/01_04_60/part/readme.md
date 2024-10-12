@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prepare |  
+| bip_39_word_dash_10 | prepare-album-round-draft-include-hamster-pupil-dry-cereal-talk |  
+| bip_39_word_dash_11 | prepare-album-round-draft-include-hamster-pupil-dry-cereal-talk-casual |  
+| bip_39_word_dash_12 | prepare-album-round-draft-include-hamster-pupil-dry-cereal-talk-casual-anger |  
+| bip_39_word_dash_2 | prepare-album |  
+| bip_39_word_dash_3 | prepare-album-round |  
+| bip_39_word_dash_4 | prepare-album-round-draft |  
+| bip_39_word_dash_5 | prepare-album-round-draft-include |  
+| bip_39_word_dash_6 | prepare-album-round-draft-include-hamster |  
+| bip_39_word_dash_7 | prepare-album-round-draft-include-hamster-pupil |  
+| bip_39_word_dash_8 | prepare-album-round-draft-include-hamster-pupil-dry |  
+| bip_39_word_dash_9 | prepare-album-round-draft-include-hamster-pupil-dry-cereal |  
 | bip_39_word_new_br_1 | prepare |  
 | bip_39_word_new_br_10 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry<br>cereal<br>talk |  
 | bip_39_word_new_br_11 | prepare<br>album<br>round<br>draft<br>include<br>hamster<br>pupil<br>dry<br>cereal<br>talk<br>casual |  
@@ -147,6 +159,18 @@ cereal |
 | bip_39_word_space_7 | prepare album round draft include hamster pupil |  
 | bip_39_word_space_8 | prepare album round draft include hamster pupil dry |  
 | bip_39_word_space_9 | prepare album round draft include hamster pupil dry cereal |  
+| bip_39_word_underscore_1 | prepare |  
+| bip_39_word_underscore_10 | prepare_album_round_draft_include_hamster_pupil_dry_cereal_talk |  
+| bip_39_word_underscore_11 | prepare_album_round_draft_include_hamster_pupil_dry_cereal_talk_casual |  
+| bip_39_word_underscore_12 | prepare_album_round_draft_include_hamster_pupil_dry_cereal_talk_casual_anger |  
+| bip_39_word_underscore_2 | prepare_album |  
+| bip_39_word_underscore_3 | prepare_album_round |  
+| bip_39_word_underscore_4 | prepare_album_round_draft |  
+| bip_39_word_underscore_5 | prepare_album_round_draft_include |  
+| bip_39_word_underscore_6 | prepare_album_round_draft_include_hamster |  
+| bip_39_word_underscore_7 | prepare_album_round_draft_include_hamster_pupil |  
+| bip_39_word_underscore_8 | prepare_album_round_draft_include_hamster_pupil_dry |  
+| bip_39_word_underscore_9 | prepare_album_round_draft_include_hamster_pupil_dry_cereal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

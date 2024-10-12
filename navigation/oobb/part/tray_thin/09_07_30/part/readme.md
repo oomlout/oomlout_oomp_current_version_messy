@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | peasant |  
+| bip_39_word_dash_10 | peasant-radio-undo-state-vocal-prepare-sight-lumber-check-hunt |  
+| bip_39_word_dash_11 | peasant-radio-undo-state-vocal-prepare-sight-lumber-check-hunt-jewel |  
+| bip_39_word_dash_12 | peasant-radio-undo-state-vocal-prepare-sight-lumber-check-hunt-jewel-alien |  
+| bip_39_word_dash_2 | peasant-radio |  
+| bip_39_word_dash_3 | peasant-radio-undo |  
+| bip_39_word_dash_4 | peasant-radio-undo-state |  
+| bip_39_word_dash_5 | peasant-radio-undo-state-vocal |  
+| bip_39_word_dash_6 | peasant-radio-undo-state-vocal-prepare |  
+| bip_39_word_dash_7 | peasant-radio-undo-state-vocal-prepare-sight |  
+| bip_39_word_dash_8 | peasant-radio-undo-state-vocal-prepare-sight-lumber |  
+| bip_39_word_dash_9 | peasant-radio-undo-state-vocal-prepare-sight-lumber-check |  
 | bip_39_word_new_br_1 | peasant |  
 | bip_39_word_new_br_10 | peasant<br>radio<br>undo<br>state<br>vocal<br>prepare<br>sight<br>lumber<br>check<br>hunt |  
 | bip_39_word_new_br_11 | peasant<br>radio<br>undo<br>state<br>vocal<br>prepare<br>sight<br>lumber<br>check<br>hunt<br>jewel |  
@@ -147,6 +159,18 @@ check |
 | bip_39_word_space_7 | peasant radio undo state vocal prepare sight |  
 | bip_39_word_space_8 | peasant radio undo state vocal prepare sight lumber |  
 | bip_39_word_space_9 | peasant radio undo state vocal prepare sight lumber check |  
+| bip_39_word_underscore_1 | peasant |  
+| bip_39_word_underscore_10 | peasant_radio_undo_state_vocal_prepare_sight_lumber_check_hunt |  
+| bip_39_word_underscore_11 | peasant_radio_undo_state_vocal_prepare_sight_lumber_check_hunt_jewel |  
+| bip_39_word_underscore_12 | peasant_radio_undo_state_vocal_prepare_sight_lumber_check_hunt_jewel_alien |  
+| bip_39_word_underscore_2 | peasant_radio |  
+| bip_39_word_underscore_3 | peasant_radio_undo |  
+| bip_39_word_underscore_4 | peasant_radio_undo_state |  
+| bip_39_word_underscore_5 | peasant_radio_undo_state_vocal |  
+| bip_39_word_underscore_6 | peasant_radio_undo_state_vocal_prepare |  
+| bip_39_word_underscore_7 | peasant_radio_undo_state_vocal_prepare_sight |  
+| bip_39_word_underscore_8 | peasant_radio_undo_state_vocal_prepare_sight_lumber |  
+| bip_39_word_underscore_9 | peasant_radio_undo_state_vocal_prepare_sight_lumber_check |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

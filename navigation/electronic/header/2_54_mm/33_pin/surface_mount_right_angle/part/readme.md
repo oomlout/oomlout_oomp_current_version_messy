@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | leg |  
+| bip_39_word_dash_10 | leg-master-enforce-stove-ceiling-paper-night-target-fine-fee |  
+| bip_39_word_dash_11 | leg-master-enforce-stove-ceiling-paper-night-target-fine-fee-receive |  
+| bip_39_word_dash_12 | leg-master-enforce-stove-ceiling-paper-night-target-fine-fee-receive-animal |  
+| bip_39_word_dash_2 | leg-master |  
+| bip_39_word_dash_3 | leg-master-enforce |  
+| bip_39_word_dash_4 | leg-master-enforce-stove |  
+| bip_39_word_dash_5 | leg-master-enforce-stove-ceiling |  
+| bip_39_word_dash_6 | leg-master-enforce-stove-ceiling-paper |  
+| bip_39_word_dash_7 | leg-master-enforce-stove-ceiling-paper-night |  
+| bip_39_word_dash_8 | leg-master-enforce-stove-ceiling-paper-night-target |  
+| bip_39_word_dash_9 | leg-master-enforce-stove-ceiling-paper-night-target-fine |  
 | bip_39_word_new_br_1 | leg |  
 | bip_39_word_new_br_10 | leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target<br>fine<br>fee |  
 | bip_39_word_new_br_11 | leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target<br>fine<br>fee<br>receive |  
@@ -147,6 +159,18 @@ fine |
 | bip_39_word_space_7 | leg master enforce stove ceiling paper night |  
 | bip_39_word_space_8 | leg master enforce stove ceiling paper night target |  
 | bip_39_word_space_9 | leg master enforce stove ceiling paper night target fine |  
+| bip_39_word_underscore_1 | leg |  
+| bip_39_word_underscore_10 | leg_master_enforce_stove_ceiling_paper_night_target_fine_fee |  
+| bip_39_word_underscore_11 | leg_master_enforce_stove_ceiling_paper_night_target_fine_fee_receive |  
+| bip_39_word_underscore_12 | leg_master_enforce_stove_ceiling_paper_night_target_fine_fee_receive_animal |  
+| bip_39_word_underscore_2 | leg_master |  
+| bip_39_word_underscore_3 | leg_master_enforce |  
+| bip_39_word_underscore_4 | leg_master_enforce_stove |  
+| bip_39_word_underscore_5 | leg_master_enforce_stove_ceiling |  
+| bip_39_word_underscore_6 | leg_master_enforce_stove_ceiling_paper |  
+| bip_39_word_underscore_7 | leg_master_enforce_stove_ceiling_paper_night |  
+| bip_39_word_underscore_8 | leg_master_enforce_stove_ceiling_paper_night_target |  
+| bip_39_word_underscore_9 | leg_master_enforce_stove_ceiling_paper_night_target_fine |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

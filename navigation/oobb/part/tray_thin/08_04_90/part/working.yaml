@@ -1,3 +1,15 @@
+bip_39_word_dash_1: taxi
+bip_39_word_dash_10: taxi-awkward-hamster-army-annual-biology-west-term-cushion-grocery
+bip_39_word_dash_11: taxi-awkward-hamster-army-annual-biology-west-term-cushion-grocery-popular
+bip_39_word_dash_12: taxi-awkward-hamster-army-annual-biology-west-term-cushion-grocery-popular-artefact
+bip_39_word_dash_2: taxi-awkward
+bip_39_word_dash_3: taxi-awkward-hamster
+bip_39_word_dash_4: taxi-awkward-hamster-army
+bip_39_word_dash_5: taxi-awkward-hamster-army-annual
+bip_39_word_dash_6: taxi-awkward-hamster-army-annual-biology
+bip_39_word_dash_7: taxi-awkward-hamster-army-annual-biology-west
+bip_39_word_dash_8: taxi-awkward-hamster-army-annual-biology-west-term
+bip_39_word_dash_9: taxi-awkward-hamster-army-annual-biology-west-term-cushion
 bip_39_word_new_br_1: taxi
 bip_39_word_new_br_10: taxi<br>awkward<br>hamster<br>army<br>annual<br>biology<br>west<br>term<br>cushion<br>grocery
 bip_39_word_new_br_11: taxi<br>awkward<br>hamster<br>army<br>annual<br>biology<br>west<br>term<br>cushion<br>grocery<br>popular
@@ -193,6 +205,18 @@ bip_39_word_space_6: taxi awkward hamster army annual biology
 bip_39_word_space_7: taxi awkward hamster army annual biology west
 bip_39_word_space_8: taxi awkward hamster army annual biology west term
 bip_39_word_space_9: taxi awkward hamster army annual biology west term cushion
+bip_39_word_underscore_1: taxi
+bip_39_word_underscore_10: taxi_awkward_hamster_army_annual_biology_west_term_cushion_grocery
+bip_39_word_underscore_11: taxi_awkward_hamster_army_annual_biology_west_term_cushion_grocery_popular
+bip_39_word_underscore_12: taxi_awkward_hamster_army_annual_biology_west_term_cushion_grocery_popular_artefact
+bip_39_word_underscore_2: taxi_awkward
+bip_39_word_underscore_3: taxi_awkward_hamster
+bip_39_word_underscore_4: taxi_awkward_hamster_army
+bip_39_word_underscore_5: taxi_awkward_hamster_army_annual
+bip_39_word_underscore_6: taxi_awkward_hamster_army_annual_biology
+bip_39_word_underscore_7: taxi_awkward_hamster_army_annual_biology_west
+bip_39_word_underscore_8: taxi_awkward_hamster_army_annual_biology_west_term
+bip_39_word_underscore_9: taxi_awkward_hamster_army_annual_biology_west_term_cushion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

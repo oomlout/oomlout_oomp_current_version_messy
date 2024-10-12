@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | staff |  
+| bip_39_word_dash_10 | staff-duck-reason-travel-rival-relax-number-make-amount-return |  
+| bip_39_word_dash_11 | staff-duck-reason-travel-rival-relax-number-make-amount-return-deny |  
+| bip_39_word_dash_12 | staff-duck-reason-travel-rival-relax-number-make-amount-return-deny-arch |  
+| bip_39_word_dash_2 | staff-duck |  
+| bip_39_word_dash_3 | staff-duck-reason |  
+| bip_39_word_dash_4 | staff-duck-reason-travel |  
+| bip_39_word_dash_5 | staff-duck-reason-travel-rival |  
+| bip_39_word_dash_6 | staff-duck-reason-travel-rival-relax |  
+| bip_39_word_dash_7 | staff-duck-reason-travel-rival-relax-number |  
+| bip_39_word_dash_8 | staff-duck-reason-travel-rival-relax-number-make |  
+| bip_39_word_dash_9 | staff-duck-reason-travel-rival-relax-number-make-amount |  
 | bip_39_word_new_br_1 | staff |  
 | bip_39_word_new_br_10 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return |  
 | bip_39_word_new_br_11 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return<br>deny |  
@@ -147,6 +159,18 @@ amount |
 | bip_39_word_space_7 | staff duck reason travel rival relax number |  
 | bip_39_word_space_8 | staff duck reason travel rival relax number make |  
 | bip_39_word_space_9 | staff duck reason travel rival relax number make amount |  
+| bip_39_word_underscore_1 | staff |  
+| bip_39_word_underscore_10 | staff_duck_reason_travel_rival_relax_number_make_amount_return |  
+| bip_39_word_underscore_11 | staff_duck_reason_travel_rival_relax_number_make_amount_return_deny |  
+| bip_39_word_underscore_12 | staff_duck_reason_travel_rival_relax_number_make_amount_return_deny_arch |  
+| bip_39_word_underscore_2 | staff_duck |  
+| bip_39_word_underscore_3 | staff_duck_reason |  
+| bip_39_word_underscore_4 | staff_duck_reason_travel |  
+| bip_39_word_underscore_5 | staff_duck_reason_travel_rival |  
+| bip_39_word_underscore_6 | staff_duck_reason_travel_rival_relax |  
+| bip_39_word_underscore_7 | staff_duck_reason_travel_rival_relax_number |  
+| bip_39_word_underscore_8 | staff_duck_reason_travel_rival_relax_number_make |  
+| bip_39_word_underscore_9 | staff_duck_reason_travel_rival_relax_number_make_amount |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

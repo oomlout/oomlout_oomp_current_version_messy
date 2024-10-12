@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | off |  
+| bip_39_word_dash_10 | off-canvas-traffic-evil-purchase-rain-recipe-gesture-tip-silk |  
+| bip_39_word_dash_11 | off-canvas-traffic-evil-purchase-rain-recipe-gesture-tip-silk-gossip |  
+| bip_39_word_dash_12 | off-canvas-traffic-evil-purchase-rain-recipe-gesture-tip-silk-gossip-autumn |  
+| bip_39_word_dash_2 | off-canvas |  
+| bip_39_word_dash_3 | off-canvas-traffic |  
+| bip_39_word_dash_4 | off-canvas-traffic-evil |  
+| bip_39_word_dash_5 | off-canvas-traffic-evil-purchase |  
+| bip_39_word_dash_6 | off-canvas-traffic-evil-purchase-rain |  
+| bip_39_word_dash_7 | off-canvas-traffic-evil-purchase-rain-recipe |  
+| bip_39_word_dash_8 | off-canvas-traffic-evil-purchase-rain-recipe-gesture |  
+| bip_39_word_dash_9 | off-canvas-traffic-evil-purchase-rain-recipe-gesture-tip |  
 | bip_39_word_new_br_1 | off |  
 | bip_39_word_new_br_10 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk |  
 | bip_39_word_new_br_11 | off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk<br>gossip |  
@@ -147,6 +159,18 @@ tip |
 | bip_39_word_space_7 | off canvas traffic evil purchase rain recipe |  
 | bip_39_word_space_8 | off canvas traffic evil purchase rain recipe gesture |  
 | bip_39_word_space_9 | off canvas traffic evil purchase rain recipe gesture tip |  
+| bip_39_word_underscore_1 | off |  
+| bip_39_word_underscore_10 | off_canvas_traffic_evil_purchase_rain_recipe_gesture_tip_silk |  
+| bip_39_word_underscore_11 | off_canvas_traffic_evil_purchase_rain_recipe_gesture_tip_silk_gossip |  
+| bip_39_word_underscore_12 | off_canvas_traffic_evil_purchase_rain_recipe_gesture_tip_silk_gossip_autumn |  
+| bip_39_word_underscore_2 | off_canvas |  
+| bip_39_word_underscore_3 | off_canvas_traffic |  
+| bip_39_word_underscore_4 | off_canvas_traffic_evil |  
+| bip_39_word_underscore_5 | off_canvas_traffic_evil_purchase |  
+| bip_39_word_underscore_6 | off_canvas_traffic_evil_purchase_rain |  
+| bip_39_word_underscore_7 | off_canvas_traffic_evil_purchase_rain_recipe |  
+| bip_39_word_underscore_8 | off_canvas_traffic_evil_purchase_rain_recipe_gesture |  
+| bip_39_word_underscore_9 | off_canvas_traffic_evil_purchase_rain_recipe_gesture_tip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

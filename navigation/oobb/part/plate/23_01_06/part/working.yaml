@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scissors
+bip_39_word_dash_10: scissors-knee-bachelor-inner-saddle-repeat-dinosaur-oyster-cherry-wage
+bip_39_word_dash_11: scissors-knee-bachelor-inner-saddle-repeat-dinosaur-oyster-cherry-wage-risk
+bip_39_word_dash_12: scissors-knee-bachelor-inner-saddle-repeat-dinosaur-oyster-cherry-wage-risk-alone
+bip_39_word_dash_2: scissors-knee
+bip_39_word_dash_3: scissors-knee-bachelor
+bip_39_word_dash_4: scissors-knee-bachelor-inner
+bip_39_word_dash_5: scissors-knee-bachelor-inner-saddle
+bip_39_word_dash_6: scissors-knee-bachelor-inner-saddle-repeat
+bip_39_word_dash_7: scissors-knee-bachelor-inner-saddle-repeat-dinosaur
+bip_39_word_dash_8: scissors-knee-bachelor-inner-saddle-repeat-dinosaur-oyster
+bip_39_word_dash_9: scissors-knee-bachelor-inner-saddle-repeat-dinosaur-oyster-cherry
 bip_39_word_new_br_1: scissors
 bip_39_word_new_br_10: scissors<br>knee<br>bachelor<br>inner<br>saddle<br>repeat<br>dinosaur<br>oyster<br>cherry<br>wage
 bip_39_word_new_br_11: scissors<br>knee<br>bachelor<br>inner<br>saddle<br>repeat<br>dinosaur<br>oyster<br>cherry<br>wage<br>risk
@@ -194,6 +206,18 @@ bip_39_word_space_6: scissors knee bachelor inner saddle repeat
 bip_39_word_space_7: scissors knee bachelor inner saddle repeat dinosaur
 bip_39_word_space_8: scissors knee bachelor inner saddle repeat dinosaur oyster
 bip_39_word_space_9: scissors knee bachelor inner saddle repeat dinosaur oyster cherry
+bip_39_word_underscore_1: scissors
+bip_39_word_underscore_10: scissors_knee_bachelor_inner_saddle_repeat_dinosaur_oyster_cherry_wage
+bip_39_word_underscore_11: scissors_knee_bachelor_inner_saddle_repeat_dinosaur_oyster_cherry_wage_risk
+bip_39_word_underscore_12: scissors_knee_bachelor_inner_saddle_repeat_dinosaur_oyster_cherry_wage_risk_alone
+bip_39_word_underscore_2: scissors_knee
+bip_39_word_underscore_3: scissors_knee_bachelor
+bip_39_word_underscore_4: scissors_knee_bachelor_inner
+bip_39_word_underscore_5: scissors_knee_bachelor_inner_saddle
+bip_39_word_underscore_6: scissors_knee_bachelor_inner_saddle_repeat
+bip_39_word_underscore_7: scissors_knee_bachelor_inner_saddle_repeat_dinosaur
+bip_39_word_underscore_8: scissors_knee_bachelor_inner_saddle_repeat_dinosaur_oyster
+bip_39_word_underscore_9: scissors_knee_bachelor_inner_saddle_repeat_dinosaur_oyster_cherry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

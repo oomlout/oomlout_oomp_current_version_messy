@@ -1,3 +1,15 @@
+bip_39_word_dash_1: middle
+bip_39_word_dash_10: middle-between-grab-afford-broken-hat-forest-excess-minor-forum
+bip_39_word_dash_11: middle-between-grab-afford-broken-hat-forest-excess-minor-forum-mad
+bip_39_word_dash_12: middle-between-grab-afford-broken-hat-forest-excess-minor-forum-mad-athlete
+bip_39_word_dash_2: middle-between
+bip_39_word_dash_3: middle-between-grab
+bip_39_word_dash_4: middle-between-grab-afford
+bip_39_word_dash_5: middle-between-grab-afford-broken
+bip_39_word_dash_6: middle-between-grab-afford-broken-hat
+bip_39_word_dash_7: middle-between-grab-afford-broken-hat-forest
+bip_39_word_dash_8: middle-between-grab-afford-broken-hat-forest-excess
+bip_39_word_dash_9: middle-between-grab-afford-broken-hat-forest-excess-minor
 bip_39_word_new_br_1: middle
 bip_39_word_new_br_10: middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess<br>minor<br>forum
 bip_39_word_new_br_11: middle<br>between<br>grab<br>afford<br>broken<br>hat<br>forest<br>excess<br>minor<br>forum<br>mad
@@ -193,6 +205,18 @@ bip_39_word_space_6: middle between grab afford broken hat
 bip_39_word_space_7: middle between grab afford broken hat forest
 bip_39_word_space_8: middle between grab afford broken hat forest excess
 bip_39_word_space_9: middle between grab afford broken hat forest excess minor
+bip_39_word_underscore_1: middle
+bip_39_word_underscore_10: middle_between_grab_afford_broken_hat_forest_excess_minor_forum
+bip_39_word_underscore_11: middle_between_grab_afford_broken_hat_forest_excess_minor_forum_mad
+bip_39_word_underscore_12: middle_between_grab_afford_broken_hat_forest_excess_minor_forum_mad_athlete
+bip_39_word_underscore_2: middle_between
+bip_39_word_underscore_3: middle_between_grab
+bip_39_word_underscore_4: middle_between_grab_afford
+bip_39_word_underscore_5: middle_between_grab_afford_broken
+bip_39_word_underscore_6: middle_between_grab_afford_broken_hat
+bip_39_word_underscore_7: middle_between_grab_afford_broken_hat_forest
+bip_39_word_underscore_8: middle_between_grab_afford_broken_hat_forest_excess
+bip_39_word_underscore_9: middle_between_grab_afford_broken_hat_forest_excess_minor
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

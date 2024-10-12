@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | entire |  
+| bip_39_word_dash_10 | entire-auction-theory-train-shrug-biology-inside-orbit-income-luxury |  
+| bip_39_word_dash_11 | entire-auction-theory-train-shrug-biology-inside-orbit-income-luxury-trim |  
+| bip_39_word_dash_12 | entire-auction-theory-train-shrug-biology-inside-orbit-income-luxury-trim-arch |  
+| bip_39_word_dash_2 | entire-auction |  
+| bip_39_word_dash_3 | entire-auction-theory |  
+| bip_39_word_dash_4 | entire-auction-theory-train |  
+| bip_39_word_dash_5 | entire-auction-theory-train-shrug |  
+| bip_39_word_dash_6 | entire-auction-theory-train-shrug-biology |  
+| bip_39_word_dash_7 | entire-auction-theory-train-shrug-biology-inside |  
+| bip_39_word_dash_8 | entire-auction-theory-train-shrug-biology-inside-orbit |  
+| bip_39_word_dash_9 | entire-auction-theory-train-shrug-biology-inside-orbit-income |  
 | bip_39_word_new_br_1 | entire |  
 | bip_39_word_new_br_10 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury |  
 | bip_39_word_new_br_11 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury<br>trim |  
@@ -147,6 +159,18 @@ income |
 | bip_39_word_space_7 | entire auction theory train shrug biology inside |  
 | bip_39_word_space_8 | entire auction theory train shrug biology inside orbit |  
 | bip_39_word_space_9 | entire auction theory train shrug biology inside orbit income |  
+| bip_39_word_underscore_1 | entire |  
+| bip_39_word_underscore_10 | entire_auction_theory_train_shrug_biology_inside_orbit_income_luxury |  
+| bip_39_word_underscore_11 | entire_auction_theory_train_shrug_biology_inside_orbit_income_luxury_trim |  
+| bip_39_word_underscore_12 | entire_auction_theory_train_shrug_biology_inside_orbit_income_luxury_trim_arch |  
+| bip_39_word_underscore_2 | entire_auction |  
+| bip_39_word_underscore_3 | entire_auction_theory |  
+| bip_39_word_underscore_4 | entire_auction_theory_train |  
+| bip_39_word_underscore_5 | entire_auction_theory_train_shrug |  
+| bip_39_word_underscore_6 | entire_auction_theory_train_shrug_biology |  
+| bip_39_word_underscore_7 | entire_auction_theory_train_shrug_biology_inside |  
+| bip_39_word_underscore_8 | entire_auction_theory_train_shrug_biology_inside_orbit |  
+| bip_39_word_underscore_9 | entire_auction_theory_train_shrug_biology_inside_orbit_income |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

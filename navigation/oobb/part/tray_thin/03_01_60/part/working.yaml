@@ -1,3 +1,15 @@
+bip_39_word_dash_1: artwork
+bip_39_word_dash_10: artwork-seven-across-device-sunset-apple-bind-media-twin-visa
+bip_39_word_dash_11: artwork-seven-across-device-sunset-apple-bind-media-twin-visa-easily
+bip_39_word_dash_12: artwork-seven-across-device-sunset-apple-bind-media-twin-visa-easily-alter
+bip_39_word_dash_2: artwork-seven
+bip_39_word_dash_3: artwork-seven-across
+bip_39_word_dash_4: artwork-seven-across-device
+bip_39_word_dash_5: artwork-seven-across-device-sunset
+bip_39_word_dash_6: artwork-seven-across-device-sunset-apple
+bip_39_word_dash_7: artwork-seven-across-device-sunset-apple-bind
+bip_39_word_dash_8: artwork-seven-across-device-sunset-apple-bind-media
+bip_39_word_dash_9: artwork-seven-across-device-sunset-apple-bind-media-twin
 bip_39_word_new_br_1: artwork
 bip_39_word_new_br_10: artwork<br>seven<br>across<br>device<br>sunset<br>apple<br>bind<br>media<br>twin<br>visa
 bip_39_word_new_br_11: artwork<br>seven<br>across<br>device<br>sunset<br>apple<br>bind<br>media<br>twin<br>visa<br>easily
@@ -193,6 +205,18 @@ bip_39_word_space_6: artwork seven across device sunset apple
 bip_39_word_space_7: artwork seven across device sunset apple bind
 bip_39_word_space_8: artwork seven across device sunset apple bind media
 bip_39_word_space_9: artwork seven across device sunset apple bind media twin
+bip_39_word_underscore_1: artwork
+bip_39_word_underscore_10: artwork_seven_across_device_sunset_apple_bind_media_twin_visa
+bip_39_word_underscore_11: artwork_seven_across_device_sunset_apple_bind_media_twin_visa_easily
+bip_39_word_underscore_12: artwork_seven_across_device_sunset_apple_bind_media_twin_visa_easily_alter
+bip_39_word_underscore_2: artwork_seven
+bip_39_word_underscore_3: artwork_seven_across
+bip_39_word_underscore_4: artwork_seven_across_device
+bip_39_word_underscore_5: artwork_seven_across_device_sunset
+bip_39_word_underscore_6: artwork_seven_across_device_sunset_apple
+bip_39_word_underscore_7: artwork_seven_across_device_sunset_apple_bind
+bip_39_word_underscore_8: artwork_seven_across_device_sunset_apple_bind_media
+bip_39_word_underscore_9: artwork_seven_across_device_sunset_apple_bind_media_twin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

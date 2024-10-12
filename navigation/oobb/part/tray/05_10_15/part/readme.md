@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kiwi |  
+| bip_39_word_dash_10 | kiwi-rose-vehicle-trap-shoulder-sudden-jungle-valid-monitor-patrol |  
+| bip_39_word_dash_11 | kiwi-rose-vehicle-trap-shoulder-sudden-jungle-valid-monitor-patrol-theme |  
+| bip_39_word_dash_12 | kiwi-rose-vehicle-trap-shoulder-sudden-jungle-valid-monitor-patrol-theme-answer |  
+| bip_39_word_dash_2 | kiwi-rose |  
+| bip_39_word_dash_3 | kiwi-rose-vehicle |  
+| bip_39_word_dash_4 | kiwi-rose-vehicle-trap |  
+| bip_39_word_dash_5 | kiwi-rose-vehicle-trap-shoulder |  
+| bip_39_word_dash_6 | kiwi-rose-vehicle-trap-shoulder-sudden |  
+| bip_39_word_dash_7 | kiwi-rose-vehicle-trap-shoulder-sudden-jungle |  
+| bip_39_word_dash_8 | kiwi-rose-vehicle-trap-shoulder-sudden-jungle-valid |  
+| bip_39_word_dash_9 | kiwi-rose-vehicle-trap-shoulder-sudden-jungle-valid-monitor |  
 | bip_39_word_new_br_1 | kiwi |  
 | bip_39_word_new_br_10 | kiwi<br>rose<br>vehicle<br>trap<br>shoulder<br>sudden<br>jungle<br>valid<br>monitor<br>patrol |  
 | bip_39_word_new_br_11 | kiwi<br>rose<br>vehicle<br>trap<br>shoulder<br>sudden<br>jungle<br>valid<br>monitor<br>patrol<br>theme |  
@@ -147,6 +159,18 @@ monitor |
 | bip_39_word_space_7 | kiwi rose vehicle trap shoulder sudden jungle |  
 | bip_39_word_space_8 | kiwi rose vehicle trap shoulder sudden jungle valid |  
 | bip_39_word_space_9 | kiwi rose vehicle trap shoulder sudden jungle valid monitor |  
+| bip_39_word_underscore_1 | kiwi |  
+| bip_39_word_underscore_10 | kiwi_rose_vehicle_trap_shoulder_sudden_jungle_valid_monitor_patrol |  
+| bip_39_word_underscore_11 | kiwi_rose_vehicle_trap_shoulder_sudden_jungle_valid_monitor_patrol_theme |  
+| bip_39_word_underscore_12 | kiwi_rose_vehicle_trap_shoulder_sudden_jungle_valid_monitor_patrol_theme_answer |  
+| bip_39_word_underscore_2 | kiwi_rose |  
+| bip_39_word_underscore_3 | kiwi_rose_vehicle |  
+| bip_39_word_underscore_4 | kiwi_rose_vehicle_trap |  
+| bip_39_word_underscore_5 | kiwi_rose_vehicle_trap_shoulder |  
+| bip_39_word_underscore_6 | kiwi_rose_vehicle_trap_shoulder_sudden |  
+| bip_39_word_underscore_7 | kiwi_rose_vehicle_trap_shoulder_sudden_jungle |  
+| bip_39_word_underscore_8 | kiwi_rose_vehicle_trap_shoulder_sudden_jungle_valid |  
+| bip_39_word_underscore_9 | kiwi_rose_vehicle_trap_shoulder_sudden_jungle_valid_monitor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

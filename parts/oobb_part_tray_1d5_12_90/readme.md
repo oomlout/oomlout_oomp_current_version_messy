@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | warfare |  
+| bip_39_word_dash_10 | warfare-spirit-proud-host-chaos-hour-unaware-slot-world-furnace |  
+| bip_39_word_dash_11 | warfare-spirit-proud-host-chaos-hour-unaware-slot-world-furnace-gesture |  
+| bip_39_word_dash_12 | warfare-spirit-proud-host-chaos-hour-unaware-slot-world-furnace-gesture-aunt |  
+| bip_39_word_dash_2 | warfare-spirit |  
+| bip_39_word_dash_3 | warfare-spirit-proud |  
+| bip_39_word_dash_4 | warfare-spirit-proud-host |  
+| bip_39_word_dash_5 | warfare-spirit-proud-host-chaos |  
+| bip_39_word_dash_6 | warfare-spirit-proud-host-chaos-hour |  
+| bip_39_word_dash_7 | warfare-spirit-proud-host-chaos-hour-unaware |  
+| bip_39_word_dash_8 | warfare-spirit-proud-host-chaos-hour-unaware-slot |  
+| bip_39_word_dash_9 | warfare-spirit-proud-host-chaos-hour-unaware-slot-world |  
 | bip_39_word_new_br_1 | warfare |  
 | bip_39_word_new_br_10 | warfare<br>spirit<br>proud<br>host<br>chaos<br>hour<br>unaware<br>slot<br>world<br>furnace |  
 | bip_39_word_new_br_11 | warfare<br>spirit<br>proud<br>host<br>chaos<br>hour<br>unaware<br>slot<br>world<br>furnace<br>gesture |  
@@ -147,6 +159,18 @@ world |
 | bip_39_word_space_7 | warfare spirit proud host chaos hour unaware |  
 | bip_39_word_space_8 | warfare spirit proud host chaos hour unaware slot |  
 | bip_39_word_space_9 | warfare spirit proud host chaos hour unaware slot world |  
+| bip_39_word_underscore_1 | warfare |  
+| bip_39_word_underscore_10 | warfare_spirit_proud_host_chaos_hour_unaware_slot_world_furnace |  
+| bip_39_word_underscore_11 | warfare_spirit_proud_host_chaos_hour_unaware_slot_world_furnace_gesture |  
+| bip_39_word_underscore_12 | warfare_spirit_proud_host_chaos_hour_unaware_slot_world_furnace_gesture_aunt |  
+| bip_39_word_underscore_2 | warfare_spirit |  
+| bip_39_word_underscore_3 | warfare_spirit_proud |  
+| bip_39_word_underscore_4 | warfare_spirit_proud_host |  
+| bip_39_word_underscore_5 | warfare_spirit_proud_host_chaos |  
+| bip_39_word_underscore_6 | warfare_spirit_proud_host_chaos_hour |  
+| bip_39_word_underscore_7 | warfare_spirit_proud_host_chaos_hour_unaware |  
+| bip_39_word_underscore_8 | warfare_spirit_proud_host_chaos_hour_unaware_slot |  
+| bip_39_word_underscore_9 | warfare_spirit_proud_host_chaos_hour_unaware_slot_world |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

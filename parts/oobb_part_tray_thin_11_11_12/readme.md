@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wrong |  
+| bip_39_word_dash_10 | wrong-innocent-fiscal-cigar-bomb-ball-limit-panel-panda-stock |  
+| bip_39_word_dash_11 | wrong-innocent-fiscal-cigar-bomb-ball-limit-panel-panda-stock-mushroom |  
+| bip_39_word_dash_12 | wrong-innocent-fiscal-cigar-bomb-ball-limit-panel-panda-stock-mushroom-acquire |  
+| bip_39_word_dash_2 | wrong-innocent |  
+| bip_39_word_dash_3 | wrong-innocent-fiscal |  
+| bip_39_word_dash_4 | wrong-innocent-fiscal-cigar |  
+| bip_39_word_dash_5 | wrong-innocent-fiscal-cigar-bomb |  
+| bip_39_word_dash_6 | wrong-innocent-fiscal-cigar-bomb-ball |  
+| bip_39_word_dash_7 | wrong-innocent-fiscal-cigar-bomb-ball-limit |  
+| bip_39_word_dash_8 | wrong-innocent-fiscal-cigar-bomb-ball-limit-panel |  
+| bip_39_word_dash_9 | wrong-innocent-fiscal-cigar-bomb-ball-limit-panel-panda |  
 | bip_39_word_new_br_1 | wrong |  
 | bip_39_word_new_br_10 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel<br>panda<br>stock |  
 | bip_39_word_new_br_11 | wrong<br>innocent<br>fiscal<br>cigar<br>bomb<br>ball<br>limit<br>panel<br>panda<br>stock<br>mushroom |  
@@ -147,6 +159,18 @@ panda |
 | bip_39_word_space_7 | wrong innocent fiscal cigar bomb ball limit |  
 | bip_39_word_space_8 | wrong innocent fiscal cigar bomb ball limit panel |  
 | bip_39_word_space_9 | wrong innocent fiscal cigar bomb ball limit panel panda |  
+| bip_39_word_underscore_1 | wrong |  
+| bip_39_word_underscore_10 | wrong_innocent_fiscal_cigar_bomb_ball_limit_panel_panda_stock |  
+| bip_39_word_underscore_11 | wrong_innocent_fiscal_cigar_bomb_ball_limit_panel_panda_stock_mushroom |  
+| bip_39_word_underscore_12 | wrong_innocent_fiscal_cigar_bomb_ball_limit_panel_panda_stock_mushroom_acquire |  
+| bip_39_word_underscore_2 | wrong_innocent |  
+| bip_39_word_underscore_3 | wrong_innocent_fiscal |  
+| bip_39_word_underscore_4 | wrong_innocent_fiscal_cigar |  
+| bip_39_word_underscore_5 | wrong_innocent_fiscal_cigar_bomb |  
+| bip_39_word_underscore_6 | wrong_innocent_fiscal_cigar_bomb_ball |  
+| bip_39_word_underscore_7 | wrong_innocent_fiscal_cigar_bomb_ball_limit |  
+| bip_39_word_underscore_8 | wrong_innocent_fiscal_cigar_bomb_ball_limit_panel |  
+| bip_39_word_underscore_9 | wrong_innocent_fiscal_cigar_bomb_ball_limit_panel_panda |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

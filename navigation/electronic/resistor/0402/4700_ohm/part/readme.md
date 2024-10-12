@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inherit |  
+| bip_39_word_dash_10 | inherit-reunion-rude-chimney-suspect-north-caution-solid-include-sport |  
+| bip_39_word_dash_11 | inherit-reunion-rude-chimney-suspect-north-caution-solid-include-sport-upgrade |  
+| bip_39_word_dash_12 | inherit-reunion-rude-chimney-suspect-north-caution-solid-include-sport-upgrade-area |  
+| bip_39_word_dash_2 | inherit-reunion |  
+| bip_39_word_dash_3 | inherit-reunion-rude |  
+| bip_39_word_dash_4 | inherit-reunion-rude-chimney |  
+| bip_39_word_dash_5 | inherit-reunion-rude-chimney-suspect |  
+| bip_39_word_dash_6 | inherit-reunion-rude-chimney-suspect-north |  
+| bip_39_word_dash_7 | inherit-reunion-rude-chimney-suspect-north-caution |  
+| bip_39_word_dash_8 | inherit-reunion-rude-chimney-suspect-north-caution-solid |  
+| bip_39_word_dash_9 | inherit-reunion-rude-chimney-suspect-north-caution-solid-include |  
 | bip_39_word_new_br_1 | inherit |  
 | bip_39_word_new_br_10 | inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid<br>include<br>sport |  
 | bip_39_word_new_br_11 | inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid<br>include<br>sport<br>upgrade |  
@@ -147,6 +159,18 @@ include |
 | bip_39_word_space_7 | inherit reunion rude chimney suspect north caution |  
 | bip_39_word_space_8 | inherit reunion rude chimney suspect north caution solid |  
 | bip_39_word_space_9 | inherit reunion rude chimney suspect north caution solid include |  
+| bip_39_word_underscore_1 | inherit |  
+| bip_39_word_underscore_10 | inherit_reunion_rude_chimney_suspect_north_caution_solid_include_sport |  
+| bip_39_word_underscore_11 | inherit_reunion_rude_chimney_suspect_north_caution_solid_include_sport_upgrade |  
+| bip_39_word_underscore_12 | inherit_reunion_rude_chimney_suspect_north_caution_solid_include_sport_upgrade_area |  
+| bip_39_word_underscore_2 | inherit_reunion |  
+| bip_39_word_underscore_3 | inherit_reunion_rude |  
+| bip_39_word_underscore_4 | inherit_reunion_rude_chimney |  
+| bip_39_word_underscore_5 | inherit_reunion_rude_chimney_suspect |  
+| bip_39_word_underscore_6 | inherit_reunion_rude_chimney_suspect_north |  
+| bip_39_word_underscore_7 | inherit_reunion_rude_chimney_suspect_north_caution |  
+| bip_39_word_underscore_8 | inherit_reunion_rude_chimney_suspect_north_caution_solid |  
+| bip_39_word_underscore_9 | inherit_reunion_rude_chimney_suspect_north_caution_solid_include |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

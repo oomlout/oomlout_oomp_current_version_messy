@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mammal |  
+| bip_39_word_dash_10 | mammal-struggle-donkey-turn-raw-bike-frost-business-wear-consider |  
+| bip_39_word_dash_11 | mammal-struggle-donkey-turn-raw-bike-frost-business-wear-consider-behind |  
+| bip_39_word_dash_12 | mammal-struggle-donkey-turn-raw-bike-frost-business-wear-consider-behind-april |  
+| bip_39_word_dash_2 | mammal-struggle |  
+| bip_39_word_dash_3 | mammal-struggle-donkey |  
+| bip_39_word_dash_4 | mammal-struggle-donkey-turn |  
+| bip_39_word_dash_5 | mammal-struggle-donkey-turn-raw |  
+| bip_39_word_dash_6 | mammal-struggle-donkey-turn-raw-bike |  
+| bip_39_word_dash_7 | mammal-struggle-donkey-turn-raw-bike-frost |  
+| bip_39_word_dash_8 | mammal-struggle-donkey-turn-raw-bike-frost-business |  
+| bip_39_word_dash_9 | mammal-struggle-donkey-turn-raw-bike-frost-business-wear |  
 | bip_39_word_new_br_1 | mammal |  
 | bip_39_word_new_br_10 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business<br>wear<br>consider |  
 | bip_39_word_new_br_11 | mammal<br>struggle<br>donkey<br>turn<br>raw<br>bike<br>frost<br>business<br>wear<br>consider<br>behind |  
@@ -147,6 +159,18 @@ wear |
 | bip_39_word_space_7 | mammal struggle donkey turn raw bike frost |  
 | bip_39_word_space_8 | mammal struggle donkey turn raw bike frost business |  
 | bip_39_word_space_9 | mammal struggle donkey turn raw bike frost business wear |  
+| bip_39_word_underscore_1 | mammal |  
+| bip_39_word_underscore_10 | mammal_struggle_donkey_turn_raw_bike_frost_business_wear_consider |  
+| bip_39_word_underscore_11 | mammal_struggle_donkey_turn_raw_bike_frost_business_wear_consider_behind |  
+| bip_39_word_underscore_12 | mammal_struggle_donkey_turn_raw_bike_frost_business_wear_consider_behind_april |  
+| bip_39_word_underscore_2 | mammal_struggle |  
+| bip_39_word_underscore_3 | mammal_struggle_donkey |  
+| bip_39_word_underscore_4 | mammal_struggle_donkey_turn |  
+| bip_39_word_underscore_5 | mammal_struggle_donkey_turn_raw |  
+| bip_39_word_underscore_6 | mammal_struggle_donkey_turn_raw_bike |  
+| bip_39_word_underscore_7 | mammal_struggle_donkey_turn_raw_bike_frost |  
+| bip_39_word_underscore_8 | mammal_struggle_donkey_turn_raw_bike_frost_business |  
+| bip_39_word_underscore_9 | mammal_struggle_donkey_turn_raw_bike_frost_business_wear |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

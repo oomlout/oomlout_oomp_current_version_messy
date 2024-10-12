@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soccer |  
+| bip_39_word_dash_10 | soccer-off-play-taste-dial-fade-path-cause-lamp-butter |  
+| bip_39_word_dash_11 | soccer-off-play-taste-dial-fade-path-cause-lamp-butter-olive |  
+| bip_39_word_dash_12 | soccer-off-play-taste-dial-fade-path-cause-lamp-butter-olive-athlete |  
+| bip_39_word_dash_2 | soccer-off |  
+| bip_39_word_dash_3 | soccer-off-play |  
+| bip_39_word_dash_4 | soccer-off-play-taste |  
+| bip_39_word_dash_5 | soccer-off-play-taste-dial |  
+| bip_39_word_dash_6 | soccer-off-play-taste-dial-fade |  
+| bip_39_word_dash_7 | soccer-off-play-taste-dial-fade-path |  
+| bip_39_word_dash_8 | soccer-off-play-taste-dial-fade-path-cause |  
+| bip_39_word_dash_9 | soccer-off-play-taste-dial-fade-path-cause-lamp |  
 | bip_39_word_new_br_1 | soccer |  
 | bip_39_word_new_br_10 | soccer<br>off<br>play<br>taste<br>dial<br>fade<br>path<br>cause<br>lamp<br>butter |  
 | bip_39_word_new_br_11 | soccer<br>off<br>play<br>taste<br>dial<br>fade<br>path<br>cause<br>lamp<br>butter<br>olive |  
@@ -147,6 +159,18 @@ lamp |
 | bip_39_word_space_7 | soccer off play taste dial fade path |  
 | bip_39_word_space_8 | soccer off play taste dial fade path cause |  
 | bip_39_word_space_9 | soccer off play taste dial fade path cause lamp |  
+| bip_39_word_underscore_1 | soccer |  
+| bip_39_word_underscore_10 | soccer_off_play_taste_dial_fade_path_cause_lamp_butter |  
+| bip_39_word_underscore_11 | soccer_off_play_taste_dial_fade_path_cause_lamp_butter_olive |  
+| bip_39_word_underscore_12 | soccer_off_play_taste_dial_fade_path_cause_lamp_butter_olive_athlete |  
+| bip_39_word_underscore_2 | soccer_off |  
+| bip_39_word_underscore_3 | soccer_off_play |  
+| bip_39_word_underscore_4 | soccer_off_play_taste |  
+| bip_39_word_underscore_5 | soccer_off_play_taste_dial |  
+| bip_39_word_underscore_6 | soccer_off_play_taste_dial_fade |  
+| bip_39_word_underscore_7 | soccer_off_play_taste_dial_fade_path |  
+| bip_39_word_underscore_8 | soccer_off_play_taste_dial_fade_path_cause |  
+| bip_39_word_underscore_9 | soccer_off_play_taste_dial_fade_path_cause_lamp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

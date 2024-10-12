@@ -1,3 +1,15 @@
+bip_39_word_dash_1: food
+bip_39_word_dash_10: food-drift-liar-echo-educate-alpha-text-park-place-beauty
+bip_39_word_dash_11: food-drift-liar-echo-educate-alpha-text-park-place-beauty-muffin
+bip_39_word_dash_12: food-drift-liar-echo-educate-alpha-text-park-place-beauty-muffin-access
+bip_39_word_dash_2: food-drift
+bip_39_word_dash_3: food-drift-liar
+bip_39_word_dash_4: food-drift-liar-echo
+bip_39_word_dash_5: food-drift-liar-echo-educate
+bip_39_word_dash_6: food-drift-liar-echo-educate-alpha
+bip_39_word_dash_7: food-drift-liar-echo-educate-alpha-text
+bip_39_word_dash_8: food-drift-liar-echo-educate-alpha-text-park
+bip_39_word_dash_9: food-drift-liar-echo-educate-alpha-text-park-place
 bip_39_word_new_br_1: food
 bip_39_word_new_br_10: food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park<br>place<br>beauty
 bip_39_word_new_br_11: food<br>drift<br>liar<br>echo<br>educate<br>alpha<br>text<br>park<br>place<br>beauty<br>muffin
@@ -192,6 +204,18 @@ bip_39_word_space_6: food drift liar echo educate alpha
 bip_39_word_space_7: food drift liar echo educate alpha text
 bip_39_word_space_8: food drift liar echo educate alpha text park
 bip_39_word_space_9: food drift liar echo educate alpha text park place
+bip_39_word_underscore_1: food
+bip_39_word_underscore_10: food_drift_liar_echo_educate_alpha_text_park_place_beauty
+bip_39_word_underscore_11: food_drift_liar_echo_educate_alpha_text_park_place_beauty_muffin
+bip_39_word_underscore_12: food_drift_liar_echo_educate_alpha_text_park_place_beauty_muffin_access
+bip_39_word_underscore_2: food_drift
+bip_39_word_underscore_3: food_drift_liar
+bip_39_word_underscore_4: food_drift_liar_echo
+bip_39_word_underscore_5: food_drift_liar_echo_educate
+bip_39_word_underscore_6: food_drift_liar_echo_educate_alpha
+bip_39_word_underscore_7: food_drift_liar_echo_educate_alpha_text
+bip_39_word_underscore_8: food_drift_liar_echo_educate_alpha_text_park
+bip_39_word_underscore_9: food_drift_liar_echo_educate_alpha_text_park_place
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

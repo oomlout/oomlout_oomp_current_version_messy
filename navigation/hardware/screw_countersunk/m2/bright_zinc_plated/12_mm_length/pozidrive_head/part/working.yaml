@@ -1,3 +1,15 @@
+bip_39_word_dash_1: reward
+bip_39_word_dash_10: reward-pretty-fetch-sentence-you-soul-define-brand-book-anxiety
+bip_39_word_dash_11: reward-pretty-fetch-sentence-you-soul-define-brand-book-anxiety-common
+bip_39_word_dash_12: reward-pretty-fetch-sentence-you-soul-define-brand-book-anxiety-common-adapt
+bip_39_word_dash_2: reward-pretty
+bip_39_word_dash_3: reward-pretty-fetch
+bip_39_word_dash_4: reward-pretty-fetch-sentence
+bip_39_word_dash_5: reward-pretty-fetch-sentence-you
+bip_39_word_dash_6: reward-pretty-fetch-sentence-you-soul
+bip_39_word_dash_7: reward-pretty-fetch-sentence-you-soul-define
+bip_39_word_dash_8: reward-pretty-fetch-sentence-you-soul-define-brand
+bip_39_word_dash_9: reward-pretty-fetch-sentence-you-soul-define-brand-book
 bip_39_word_new_br_1: reward
 bip_39_word_new_br_10: reward<br>pretty<br>fetch<br>sentence<br>you<br>soul<br>define<br>brand<br>book<br>anxiety
 bip_39_word_new_br_11: reward<br>pretty<br>fetch<br>sentence<br>you<br>soul<br>define<br>brand<br>book<br>anxiety<br>common
@@ -193,6 +205,18 @@ bip_39_word_space_6: reward pretty fetch sentence you soul
 bip_39_word_space_7: reward pretty fetch sentence you soul define
 bip_39_word_space_8: reward pretty fetch sentence you soul define brand
 bip_39_word_space_9: reward pretty fetch sentence you soul define brand book
+bip_39_word_underscore_1: reward
+bip_39_word_underscore_10: reward_pretty_fetch_sentence_you_soul_define_brand_book_anxiety
+bip_39_word_underscore_11: reward_pretty_fetch_sentence_you_soul_define_brand_book_anxiety_common
+bip_39_word_underscore_12: reward_pretty_fetch_sentence_you_soul_define_brand_book_anxiety_common_adapt
+bip_39_word_underscore_2: reward_pretty
+bip_39_word_underscore_3: reward_pretty_fetch
+bip_39_word_underscore_4: reward_pretty_fetch_sentence
+bip_39_word_underscore_5: reward_pretty_fetch_sentence_you
+bip_39_word_underscore_6: reward_pretty_fetch_sentence_you_soul
+bip_39_word_underscore_7: reward_pretty_fetch_sentence_you_soul_define
+bip_39_word_underscore_8: reward_pretty_fetch_sentence_you_soul_define_brand
+bip_39_word_underscore_9: reward_pretty_fetch_sentence_you_soul_define_brand_book
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | super |  
+| bip_39_word_dash_10 | super-harvest-ramp-process-gaze-resource-glad-blood-strong-thumb |  
+| bip_39_word_dash_11 | super-harvest-ramp-process-gaze-resource-glad-blood-strong-thumb-ready |  
+| bip_39_word_dash_12 | super-harvest-ramp-process-gaze-resource-glad-blood-strong-thumb-ready-armor |  
+| bip_39_word_dash_2 | super-harvest |  
+| bip_39_word_dash_3 | super-harvest-ramp |  
+| bip_39_word_dash_4 | super-harvest-ramp-process |  
+| bip_39_word_dash_5 | super-harvest-ramp-process-gaze |  
+| bip_39_word_dash_6 | super-harvest-ramp-process-gaze-resource |  
+| bip_39_word_dash_7 | super-harvest-ramp-process-gaze-resource-glad |  
+| bip_39_word_dash_8 | super-harvest-ramp-process-gaze-resource-glad-blood |  
+| bip_39_word_dash_9 | super-harvest-ramp-process-gaze-resource-glad-blood-strong |  
 | bip_39_word_new_br_1 | super |  
 | bip_39_word_new_br_10 | super<br>harvest<br>ramp<br>process<br>gaze<br>resource<br>glad<br>blood<br>strong<br>thumb |  
 | bip_39_word_new_br_11 | super<br>harvest<br>ramp<br>process<br>gaze<br>resource<br>glad<br>blood<br>strong<br>thumb<br>ready |  
@@ -147,6 +159,18 @@ strong |
 | bip_39_word_space_7 | super harvest ramp process gaze resource glad |  
 | bip_39_word_space_8 | super harvest ramp process gaze resource glad blood |  
 | bip_39_word_space_9 | super harvest ramp process gaze resource glad blood strong |  
+| bip_39_word_underscore_1 | super |  
+| bip_39_word_underscore_10 | super_harvest_ramp_process_gaze_resource_glad_blood_strong_thumb |  
+| bip_39_word_underscore_11 | super_harvest_ramp_process_gaze_resource_glad_blood_strong_thumb_ready |  
+| bip_39_word_underscore_12 | super_harvest_ramp_process_gaze_resource_glad_blood_strong_thumb_ready_armor |  
+| bip_39_word_underscore_2 | super_harvest |  
+| bip_39_word_underscore_3 | super_harvest_ramp |  
+| bip_39_word_underscore_4 | super_harvest_ramp_process |  
+| bip_39_word_underscore_5 | super_harvest_ramp_process_gaze |  
+| bip_39_word_underscore_6 | super_harvest_ramp_process_gaze_resource |  
+| bip_39_word_underscore_7 | super_harvest_ramp_process_gaze_resource_glad |  
+| bip_39_word_underscore_8 | super_harvest_ramp_process_gaze_resource_glad_blood |  
+| bip_39_word_underscore_9 | super_harvest_ramp_process_gaze_resource_glad_blood_strong |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

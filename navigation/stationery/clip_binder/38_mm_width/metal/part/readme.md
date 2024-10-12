@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | video |  
+| bip_39_word_dash_10 | video-brand-dash-secret-neck-together-action-lady-bamboo-blanket |  
+| bip_39_word_dash_11 | video-brand-dash-secret-neck-together-action-lady-bamboo-blanket-better |  
+| bip_39_word_dash_12 | video-brand-dash-secret-neck-together-action-lady-bamboo-blanket-better-advice |  
+| bip_39_word_dash_2 | video-brand |  
+| bip_39_word_dash_3 | video-brand-dash |  
+| bip_39_word_dash_4 | video-brand-dash-secret |  
+| bip_39_word_dash_5 | video-brand-dash-secret-neck |  
+| bip_39_word_dash_6 | video-brand-dash-secret-neck-together |  
+| bip_39_word_dash_7 | video-brand-dash-secret-neck-together-action |  
+| bip_39_word_dash_8 | video-brand-dash-secret-neck-together-action-lady |  
+| bip_39_word_dash_9 | video-brand-dash-secret-neck-together-action-lady-bamboo |  
 | bip_39_word_new_br_1 | video |  
 | bip_39_word_new_br_10 | video<br>brand<br>dash<br>secret<br>neck<br>together<br>action<br>lady<br>bamboo<br>blanket |  
 | bip_39_word_new_br_11 | video<br>brand<br>dash<br>secret<br>neck<br>together<br>action<br>lady<br>bamboo<br>blanket<br>better |  
@@ -147,6 +159,18 @@ bamboo |
 | bip_39_word_space_7 | video brand dash secret neck together action |  
 | bip_39_word_space_8 | video brand dash secret neck together action lady |  
 | bip_39_word_space_9 | video brand dash secret neck together action lady bamboo |  
+| bip_39_word_underscore_1 | video |  
+| bip_39_word_underscore_10 | video_brand_dash_secret_neck_together_action_lady_bamboo_blanket |  
+| bip_39_word_underscore_11 | video_brand_dash_secret_neck_together_action_lady_bamboo_blanket_better |  
+| bip_39_word_underscore_12 | video_brand_dash_secret_neck_together_action_lady_bamboo_blanket_better_advice |  
+| bip_39_word_underscore_2 | video_brand |  
+| bip_39_word_underscore_3 | video_brand_dash |  
+| bip_39_word_underscore_4 | video_brand_dash_secret |  
+| bip_39_word_underscore_5 | video_brand_dash_secret_neck |  
+| bip_39_word_underscore_6 | video_brand_dash_secret_neck_together |  
+| bip_39_word_underscore_7 | video_brand_dash_secret_neck_together_action |  
+| bip_39_word_underscore_8 | video_brand_dash_secret_neck_together_action_lady |  
+| bip_39_word_underscore_9 | video_brand_dash_secret_neck_together_action_lady_bamboo |  
 | classification | stationery |  
 | classification_capital | Stationery |  
 | classification_first_letter | s |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wait |  
+| bip_39_word_dash_10 | wait-lion-all-state-march-unhappy-cruise-jelly-punch-ribbon |  
+| bip_39_word_dash_11 | wait-lion-all-state-march-unhappy-cruise-jelly-punch-ribbon-text |  
+| bip_39_word_dash_12 | wait-lion-all-state-march-unhappy-cruise-jelly-punch-ribbon-text-achieve |  
+| bip_39_word_dash_2 | wait-lion |  
+| bip_39_word_dash_3 | wait-lion-all |  
+| bip_39_word_dash_4 | wait-lion-all-state |  
+| bip_39_word_dash_5 | wait-lion-all-state-march |  
+| bip_39_word_dash_6 | wait-lion-all-state-march-unhappy |  
+| bip_39_word_dash_7 | wait-lion-all-state-march-unhappy-cruise |  
+| bip_39_word_dash_8 | wait-lion-all-state-march-unhappy-cruise-jelly |  
+| bip_39_word_dash_9 | wait-lion-all-state-march-unhappy-cruise-jelly-punch |  
 | bip_39_word_new_br_1 | wait |  
 | bip_39_word_new_br_10 | wait<br>lion<br>all<br>state<br>march<br>unhappy<br>cruise<br>jelly<br>punch<br>ribbon |  
 | bip_39_word_new_br_11 | wait<br>lion<br>all<br>state<br>march<br>unhappy<br>cruise<br>jelly<br>punch<br>ribbon<br>text |  
@@ -147,6 +159,18 @@ punch |
 | bip_39_word_space_7 | wait lion all state march unhappy cruise |  
 | bip_39_word_space_8 | wait lion all state march unhappy cruise jelly |  
 | bip_39_word_space_9 | wait lion all state march unhappy cruise jelly punch |  
+| bip_39_word_underscore_1 | wait |  
+| bip_39_word_underscore_10 | wait_lion_all_state_march_unhappy_cruise_jelly_punch_ribbon |  
+| bip_39_word_underscore_11 | wait_lion_all_state_march_unhappy_cruise_jelly_punch_ribbon_text |  
+| bip_39_word_underscore_12 | wait_lion_all_state_march_unhappy_cruise_jelly_punch_ribbon_text_achieve |  
+| bip_39_word_underscore_2 | wait_lion |  
+| bip_39_word_underscore_3 | wait_lion_all |  
+| bip_39_word_underscore_4 | wait_lion_all_state |  
+| bip_39_word_underscore_5 | wait_lion_all_state_march |  
+| bip_39_word_underscore_6 | wait_lion_all_state_march_unhappy |  
+| bip_39_word_underscore_7 | wait_lion_all_state_march_unhappy_cruise |  
+| bip_39_word_underscore_8 | wait_lion_all_state_march_unhappy_cruise_jelly |  
+| bip_39_word_underscore_9 | wait_lion_all_state_march_unhappy_cruise_jelly_punch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

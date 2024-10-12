@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dad |  
+| bip_39_word_dash_10 | dad-reflect-analyst-fragile-assume-mouse-retreat-antenna-answer-case |  
+| bip_39_word_dash_11 | dad-reflect-analyst-fragile-assume-mouse-retreat-antenna-answer-case-nominee |  
+| bip_39_word_dash_12 | dad-reflect-analyst-fragile-assume-mouse-retreat-antenna-answer-case-nominee-amused |  
+| bip_39_word_dash_2 | dad-reflect |  
+| bip_39_word_dash_3 | dad-reflect-analyst |  
+| bip_39_word_dash_4 | dad-reflect-analyst-fragile |  
+| bip_39_word_dash_5 | dad-reflect-analyst-fragile-assume |  
+| bip_39_word_dash_6 | dad-reflect-analyst-fragile-assume-mouse |  
+| bip_39_word_dash_7 | dad-reflect-analyst-fragile-assume-mouse-retreat |  
+| bip_39_word_dash_8 | dad-reflect-analyst-fragile-assume-mouse-retreat-antenna |  
+| bip_39_word_dash_9 | dad-reflect-analyst-fragile-assume-mouse-retreat-antenna-answer |  
 | bip_39_word_new_br_1 | dad |  
 | bip_39_word_new_br_10 | dad<br>reflect<br>analyst<br>fragile<br>assume<br>mouse<br>retreat<br>antenna<br>answer<br>case |  
 | bip_39_word_new_br_11 | dad<br>reflect<br>analyst<br>fragile<br>assume<br>mouse<br>retreat<br>antenna<br>answer<br>case<br>nominee |  
@@ -147,6 +159,18 @@ answer |
 | bip_39_word_space_7 | dad reflect analyst fragile assume mouse retreat |  
 | bip_39_word_space_8 | dad reflect analyst fragile assume mouse retreat antenna |  
 | bip_39_word_space_9 | dad reflect analyst fragile assume mouse retreat antenna answer |  
+| bip_39_word_underscore_1 | dad |  
+| bip_39_word_underscore_10 | dad_reflect_analyst_fragile_assume_mouse_retreat_antenna_answer_case |  
+| bip_39_word_underscore_11 | dad_reflect_analyst_fragile_assume_mouse_retreat_antenna_answer_case_nominee |  
+| bip_39_word_underscore_12 | dad_reflect_analyst_fragile_assume_mouse_retreat_antenna_answer_case_nominee_amused |  
+| bip_39_word_underscore_2 | dad_reflect |  
+| bip_39_word_underscore_3 | dad_reflect_analyst |  
+| bip_39_word_underscore_4 | dad_reflect_analyst_fragile |  
+| bip_39_word_underscore_5 | dad_reflect_analyst_fragile_assume |  
+| bip_39_word_underscore_6 | dad_reflect_analyst_fragile_assume_mouse |  
+| bip_39_word_underscore_7 | dad_reflect_analyst_fragile_assume_mouse_retreat |  
+| bip_39_word_underscore_8 | dad_reflect_analyst_fragile_assume_mouse_retreat_antenna |  
+| bip_39_word_underscore_9 | dad_reflect_analyst_fragile_assume_mouse_retreat_antenna_answer |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

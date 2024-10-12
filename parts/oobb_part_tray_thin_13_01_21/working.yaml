@@ -1,3 +1,15 @@
+bip_39_word_dash_1: high
+bip_39_word_dash_10: high-cattle-follow-alter-order-gain-hazard-vote-safe-sheriff
+bip_39_word_dash_11: high-cattle-follow-alter-order-gain-hazard-vote-safe-sheriff-tuition
+bip_39_word_dash_12: high-cattle-follow-alter-order-gain-hazard-vote-safe-sheriff-tuition-abstract
+bip_39_word_dash_2: high-cattle
+bip_39_word_dash_3: high-cattle-follow
+bip_39_word_dash_4: high-cattle-follow-alter
+bip_39_word_dash_5: high-cattle-follow-alter-order
+bip_39_word_dash_6: high-cattle-follow-alter-order-gain
+bip_39_word_dash_7: high-cattle-follow-alter-order-gain-hazard
+bip_39_word_dash_8: high-cattle-follow-alter-order-gain-hazard-vote
+bip_39_word_dash_9: high-cattle-follow-alter-order-gain-hazard-vote-safe
 bip_39_word_new_br_1: high
 bip_39_word_new_br_10: high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff
 bip_39_word_new_br_11: high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff<br>tuition
@@ -193,6 +205,18 @@ bip_39_word_space_6: high cattle follow alter order gain
 bip_39_word_space_7: high cattle follow alter order gain hazard
 bip_39_word_space_8: high cattle follow alter order gain hazard vote
 bip_39_word_space_9: high cattle follow alter order gain hazard vote safe
+bip_39_word_underscore_1: high
+bip_39_word_underscore_10: high_cattle_follow_alter_order_gain_hazard_vote_safe_sheriff
+bip_39_word_underscore_11: high_cattle_follow_alter_order_gain_hazard_vote_safe_sheriff_tuition
+bip_39_word_underscore_12: high_cattle_follow_alter_order_gain_hazard_vote_safe_sheriff_tuition_abstract
+bip_39_word_underscore_2: high_cattle
+bip_39_word_underscore_3: high_cattle_follow
+bip_39_word_underscore_4: high_cattle_follow_alter
+bip_39_word_underscore_5: high_cattle_follow_alter_order
+bip_39_word_underscore_6: high_cattle_follow_alter_order_gain
+bip_39_word_underscore_7: high_cattle_follow_alter_order_gain_hazard
+bip_39_word_underscore_8: high_cattle_follow_alter_order_gain_hazard_vote
+bip_39_word_underscore_9: high_cattle_follow_alter_order_gain_hazard_vote_safe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

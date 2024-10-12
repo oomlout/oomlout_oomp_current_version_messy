@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | program |  
+| bip_39_word_dash_10 | program-inmate-paddle-basket-devote-oxygen-napkin-rather-ugly-powder |  
+| bip_39_word_dash_11 | program-inmate-paddle-basket-devote-oxygen-napkin-rather-ugly-powder-thrive |  
+| bip_39_word_dash_12 | program-inmate-paddle-basket-devote-oxygen-napkin-rather-ugly-powder-thrive-advance |  
+| bip_39_word_dash_2 | program-inmate |  
+| bip_39_word_dash_3 | program-inmate-paddle |  
+| bip_39_word_dash_4 | program-inmate-paddle-basket |  
+| bip_39_word_dash_5 | program-inmate-paddle-basket-devote |  
+| bip_39_word_dash_6 | program-inmate-paddle-basket-devote-oxygen |  
+| bip_39_word_dash_7 | program-inmate-paddle-basket-devote-oxygen-napkin |  
+| bip_39_word_dash_8 | program-inmate-paddle-basket-devote-oxygen-napkin-rather |  
+| bip_39_word_dash_9 | program-inmate-paddle-basket-devote-oxygen-napkin-rather-ugly |  
 | bip_39_word_new_br_1 | program |  
 | bip_39_word_new_br_10 | program<br>inmate<br>paddle<br>basket<br>devote<br>oxygen<br>napkin<br>rather<br>ugly<br>powder |  
 | bip_39_word_new_br_11 | program<br>inmate<br>paddle<br>basket<br>devote<br>oxygen<br>napkin<br>rather<br>ugly<br>powder<br>thrive |  
@@ -147,6 +159,18 @@ ugly |
 | bip_39_word_space_7 | program inmate paddle basket devote oxygen napkin |  
 | bip_39_word_space_8 | program inmate paddle basket devote oxygen napkin rather |  
 | bip_39_word_space_9 | program inmate paddle basket devote oxygen napkin rather ugly |  
+| bip_39_word_underscore_1 | program |  
+| bip_39_word_underscore_10 | program_inmate_paddle_basket_devote_oxygen_napkin_rather_ugly_powder |  
+| bip_39_word_underscore_11 | program_inmate_paddle_basket_devote_oxygen_napkin_rather_ugly_powder_thrive |  
+| bip_39_word_underscore_12 | program_inmate_paddle_basket_devote_oxygen_napkin_rather_ugly_powder_thrive_advance |  
+| bip_39_word_underscore_2 | program_inmate |  
+| bip_39_word_underscore_3 | program_inmate_paddle |  
+| bip_39_word_underscore_4 | program_inmate_paddle_basket |  
+| bip_39_word_underscore_5 | program_inmate_paddle_basket_devote |  
+| bip_39_word_underscore_6 | program_inmate_paddle_basket_devote_oxygen |  
+| bip_39_word_underscore_7 | program_inmate_paddle_basket_devote_oxygen_napkin |  
+| bip_39_word_underscore_8 | program_inmate_paddle_basket_devote_oxygen_napkin_rather |  
+| bip_39_word_underscore_9 | program_inmate_paddle_basket_devote_oxygen_napkin_rather_ugly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stomach |  
+| bip_39_word_dash_10 | stomach-cradle-fly-heavy-sun-rude-alley-boil-verb-truly |  
+| bip_39_word_dash_11 | stomach-cradle-fly-heavy-sun-rude-alley-boil-verb-truly-fitness |  
+| bip_39_word_dash_12 | stomach-cradle-fly-heavy-sun-rude-alley-boil-verb-truly-fitness-address |  
+| bip_39_word_dash_2 | stomach-cradle |  
+| bip_39_word_dash_3 | stomach-cradle-fly |  
+| bip_39_word_dash_4 | stomach-cradle-fly-heavy |  
+| bip_39_word_dash_5 | stomach-cradle-fly-heavy-sun |  
+| bip_39_word_dash_6 | stomach-cradle-fly-heavy-sun-rude |  
+| bip_39_word_dash_7 | stomach-cradle-fly-heavy-sun-rude-alley |  
+| bip_39_word_dash_8 | stomach-cradle-fly-heavy-sun-rude-alley-boil |  
+| bip_39_word_dash_9 | stomach-cradle-fly-heavy-sun-rude-alley-boil-verb |  
 | bip_39_word_new_br_1 | stomach |  
 | bip_39_word_new_br_10 | stomach<br>cradle<br>fly<br>heavy<br>sun<br>rude<br>alley<br>boil<br>verb<br>truly |  
 | bip_39_word_new_br_11 | stomach<br>cradle<br>fly<br>heavy<br>sun<br>rude<br>alley<br>boil<br>verb<br>truly<br>fitness |  
@@ -147,6 +159,18 @@ verb |
 | bip_39_word_space_7 | stomach cradle fly heavy sun rude alley |  
 | bip_39_word_space_8 | stomach cradle fly heavy sun rude alley boil |  
 | bip_39_word_space_9 | stomach cradle fly heavy sun rude alley boil verb |  
+| bip_39_word_underscore_1 | stomach |  
+| bip_39_word_underscore_10 | stomach_cradle_fly_heavy_sun_rude_alley_boil_verb_truly |  
+| bip_39_word_underscore_11 | stomach_cradle_fly_heavy_sun_rude_alley_boil_verb_truly_fitness |  
+| bip_39_word_underscore_12 | stomach_cradle_fly_heavy_sun_rude_alley_boil_verb_truly_fitness_address |  
+| bip_39_word_underscore_2 | stomach_cradle |  
+| bip_39_word_underscore_3 | stomach_cradle_fly |  
+| bip_39_word_underscore_4 | stomach_cradle_fly_heavy |  
+| bip_39_word_underscore_5 | stomach_cradle_fly_heavy_sun |  
+| bip_39_word_underscore_6 | stomach_cradle_fly_heavy_sun_rude |  
+| bip_39_word_underscore_7 | stomach_cradle_fly_heavy_sun_rude_alley |  
+| bip_39_word_underscore_8 | stomach_cradle_fly_heavy_sun_rude_alley_boil |  
+| bip_39_word_underscore_9 | stomach_cradle_fly_heavy_sun_rude_alley_boil_verb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

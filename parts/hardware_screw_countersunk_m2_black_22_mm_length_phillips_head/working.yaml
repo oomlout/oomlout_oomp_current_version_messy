@@ -1,3 +1,15 @@
+bip_39_word_dash_1: risk
+bip_39_word_dash_10: risk-just-room-ignore-grid-angle-defense-street-void-author
+bip_39_word_dash_11: risk-just-room-ignore-grid-angle-defense-street-void-author-sock
+bip_39_word_dash_12: risk-just-room-ignore-grid-angle-defense-street-void-author-sock-aspect
+bip_39_word_dash_2: risk-just
+bip_39_word_dash_3: risk-just-room
+bip_39_word_dash_4: risk-just-room-ignore
+bip_39_word_dash_5: risk-just-room-ignore-grid
+bip_39_word_dash_6: risk-just-room-ignore-grid-angle
+bip_39_word_dash_7: risk-just-room-ignore-grid-angle-defense
+bip_39_word_dash_8: risk-just-room-ignore-grid-angle-defense-street
+bip_39_word_dash_9: risk-just-room-ignore-grid-angle-defense-street-void
 bip_39_word_new_br_1: risk
 bip_39_word_new_br_10: risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street<br>void<br>author
 bip_39_word_new_br_11: risk<br>just<br>room<br>ignore<br>grid<br>angle<br>defense<br>street<br>void<br>author<br>sock
@@ -193,6 +205,18 @@ bip_39_word_space_6: risk just room ignore grid angle
 bip_39_word_space_7: risk just room ignore grid angle defense
 bip_39_word_space_8: risk just room ignore grid angle defense street
 bip_39_word_space_9: risk just room ignore grid angle defense street void
+bip_39_word_underscore_1: risk
+bip_39_word_underscore_10: risk_just_room_ignore_grid_angle_defense_street_void_author
+bip_39_word_underscore_11: risk_just_room_ignore_grid_angle_defense_street_void_author_sock
+bip_39_word_underscore_12: risk_just_room_ignore_grid_angle_defense_street_void_author_sock_aspect
+bip_39_word_underscore_2: risk_just
+bip_39_word_underscore_3: risk_just_room
+bip_39_word_underscore_4: risk_just_room_ignore
+bip_39_word_underscore_5: risk_just_room_ignore_grid
+bip_39_word_underscore_6: risk_just_room_ignore_grid_angle
+bip_39_word_underscore_7: risk_just_room_ignore_grid_angle_defense
+bip_39_word_underscore_8: risk_just_room_ignore_grid_angle_defense_street
+bip_39_word_underscore_9: risk_just_room_ignore_grid_angle_defense_street_void
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

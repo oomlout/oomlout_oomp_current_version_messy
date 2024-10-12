@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wrong
+bip_39_word_dash_10: wrong-process-stone-gasp-exact-wire-glimpse-fever-hobby-nasty
+bip_39_word_dash_11: wrong-process-stone-gasp-exact-wire-glimpse-fever-hobby-nasty-taxi
+bip_39_word_dash_12: wrong-process-stone-gasp-exact-wire-glimpse-fever-hobby-nasty-taxi-airport
+bip_39_word_dash_2: wrong-process
+bip_39_word_dash_3: wrong-process-stone
+bip_39_word_dash_4: wrong-process-stone-gasp
+bip_39_word_dash_5: wrong-process-stone-gasp-exact
+bip_39_word_dash_6: wrong-process-stone-gasp-exact-wire
+bip_39_word_dash_7: wrong-process-stone-gasp-exact-wire-glimpse
+bip_39_word_dash_8: wrong-process-stone-gasp-exact-wire-glimpse-fever
+bip_39_word_dash_9: wrong-process-stone-gasp-exact-wire-glimpse-fever-hobby
 bip_39_word_new_br_1: wrong
 bip_39_word_new_br_10: wrong<br>process<br>stone<br>gasp<br>exact<br>wire<br>glimpse<br>fever<br>hobby<br>nasty
 bip_39_word_new_br_11: wrong<br>process<br>stone<br>gasp<br>exact<br>wire<br>glimpse<br>fever<br>hobby<br>nasty<br>taxi
@@ -193,6 +205,18 @@ bip_39_word_space_6: wrong process stone gasp exact wire
 bip_39_word_space_7: wrong process stone gasp exact wire glimpse
 bip_39_word_space_8: wrong process stone gasp exact wire glimpse fever
 bip_39_word_space_9: wrong process stone gasp exact wire glimpse fever hobby
+bip_39_word_underscore_1: wrong
+bip_39_word_underscore_10: wrong_process_stone_gasp_exact_wire_glimpse_fever_hobby_nasty
+bip_39_word_underscore_11: wrong_process_stone_gasp_exact_wire_glimpse_fever_hobby_nasty_taxi
+bip_39_word_underscore_12: wrong_process_stone_gasp_exact_wire_glimpse_fever_hobby_nasty_taxi_airport
+bip_39_word_underscore_2: wrong_process
+bip_39_word_underscore_3: wrong_process_stone
+bip_39_word_underscore_4: wrong_process_stone_gasp
+bip_39_word_underscore_5: wrong_process_stone_gasp_exact
+bip_39_word_underscore_6: wrong_process_stone_gasp_exact_wire
+bip_39_word_underscore_7: wrong_process_stone_gasp_exact_wire_glimpse
+bip_39_word_underscore_8: wrong_process_stone_gasp_exact_wire_glimpse_fever
+bip_39_word_underscore_9: wrong_process_stone_gasp_exact_wire_glimpse_fever_hobby
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

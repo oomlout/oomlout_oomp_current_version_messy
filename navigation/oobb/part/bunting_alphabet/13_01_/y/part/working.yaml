@@ -1,3 +1,15 @@
+bip_39_word_dash_1: suggest
+bip_39_word_dash_10: suggest-rigid-climb-insane-permit-shoulder-awful-loyal-where-put
+bip_39_word_dash_11: suggest-rigid-climb-insane-permit-shoulder-awful-loyal-where-put-hen
+bip_39_word_dash_12: suggest-rigid-climb-insane-permit-shoulder-awful-loyal-where-put-hen-agree
+bip_39_word_dash_2: suggest-rigid
+bip_39_word_dash_3: suggest-rigid-climb
+bip_39_word_dash_4: suggest-rigid-climb-insane
+bip_39_word_dash_5: suggest-rigid-climb-insane-permit
+bip_39_word_dash_6: suggest-rigid-climb-insane-permit-shoulder
+bip_39_word_dash_7: suggest-rigid-climb-insane-permit-shoulder-awful
+bip_39_word_dash_8: suggest-rigid-climb-insane-permit-shoulder-awful-loyal
+bip_39_word_dash_9: suggest-rigid-climb-insane-permit-shoulder-awful-loyal-where
 bip_39_word_new_br_1: suggest
 bip_39_word_new_br_10: suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal<br>where<br>put
 bip_39_word_new_br_11: suggest<br>rigid<br>climb<br>insane<br>permit<br>shoulder<br>awful<br>loyal<br>where<br>put<br>hen
@@ -194,6 +206,18 @@ bip_39_word_space_6: suggest rigid climb insane permit shoulder
 bip_39_word_space_7: suggest rigid climb insane permit shoulder awful
 bip_39_word_space_8: suggest rigid climb insane permit shoulder awful loyal
 bip_39_word_space_9: suggest rigid climb insane permit shoulder awful loyal where
+bip_39_word_underscore_1: suggest
+bip_39_word_underscore_10: suggest_rigid_climb_insane_permit_shoulder_awful_loyal_where_put
+bip_39_word_underscore_11: suggest_rigid_climb_insane_permit_shoulder_awful_loyal_where_put_hen
+bip_39_word_underscore_12: suggest_rigid_climb_insane_permit_shoulder_awful_loyal_where_put_hen_agree
+bip_39_word_underscore_2: suggest_rigid
+bip_39_word_underscore_3: suggest_rigid_climb
+bip_39_word_underscore_4: suggest_rigid_climb_insane
+bip_39_word_underscore_5: suggest_rigid_climb_insane_permit
+bip_39_word_underscore_6: suggest_rigid_climb_insane_permit_shoulder
+bip_39_word_underscore_7: suggest_rigid_climb_insane_permit_shoulder_awful
+bip_39_word_underscore_8: suggest_rigid_climb_insane_permit_shoulder_awful_loyal
+bip_39_word_underscore_9: suggest_rigid_climb_insane_permit_shoulder_awful_loyal_where
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

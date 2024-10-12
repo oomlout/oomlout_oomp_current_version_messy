@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exile |  
+| bip_39_word_dash_10 | exile-gather-firm-monster-people-dry-shock-fatal-dismiss-oxygen |  
+| bip_39_word_dash_11 | exile-gather-firm-monster-people-dry-shock-fatal-dismiss-oxygen-okay |  
+| bip_39_word_dash_12 | exile-gather-firm-monster-people-dry-shock-fatal-dismiss-oxygen-okay-apple |  
+| bip_39_word_dash_2 | exile-gather |  
+| bip_39_word_dash_3 | exile-gather-firm |  
+| bip_39_word_dash_4 | exile-gather-firm-monster |  
+| bip_39_word_dash_5 | exile-gather-firm-monster-people |  
+| bip_39_word_dash_6 | exile-gather-firm-monster-people-dry |  
+| bip_39_word_dash_7 | exile-gather-firm-monster-people-dry-shock |  
+| bip_39_word_dash_8 | exile-gather-firm-monster-people-dry-shock-fatal |  
+| bip_39_word_dash_9 | exile-gather-firm-monster-people-dry-shock-fatal-dismiss |  
 | bip_39_word_new_br_1 | exile |  
 | bip_39_word_new_br_10 | exile<br>gather<br>firm<br>monster<br>people<br>dry<br>shock<br>fatal<br>dismiss<br>oxygen |  
 | bip_39_word_new_br_11 | exile<br>gather<br>firm<br>monster<br>people<br>dry<br>shock<br>fatal<br>dismiss<br>oxygen<br>okay |  
@@ -147,6 +159,18 @@ dismiss |
 | bip_39_word_space_7 | exile gather firm monster people dry shock |  
 | bip_39_word_space_8 | exile gather firm monster people dry shock fatal |  
 | bip_39_word_space_9 | exile gather firm monster people dry shock fatal dismiss |  
+| bip_39_word_underscore_1 | exile |  
+| bip_39_word_underscore_10 | exile_gather_firm_monster_people_dry_shock_fatal_dismiss_oxygen |  
+| bip_39_word_underscore_11 | exile_gather_firm_monster_people_dry_shock_fatal_dismiss_oxygen_okay |  
+| bip_39_word_underscore_12 | exile_gather_firm_monster_people_dry_shock_fatal_dismiss_oxygen_okay_apple |  
+| bip_39_word_underscore_2 | exile_gather |  
+| bip_39_word_underscore_3 | exile_gather_firm |  
+| bip_39_word_underscore_4 | exile_gather_firm_monster |  
+| bip_39_word_underscore_5 | exile_gather_firm_monster_people |  
+| bip_39_word_underscore_6 | exile_gather_firm_monster_people_dry |  
+| bip_39_word_underscore_7 | exile_gather_firm_monster_people_dry_shock |  
+| bip_39_word_underscore_8 | exile_gather_firm_monster_people_dry_shock_fatal |  
+| bip_39_word_underscore_9 | exile_gather_firm_monster_people_dry_shock_fatal_dismiss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

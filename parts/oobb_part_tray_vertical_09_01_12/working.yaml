@@ -1,3 +1,15 @@
+bip_39_word_dash_1: oil
+bip_39_word_dash_10: oil-help-mutual-vendor-predict-stock-own-silk-time-caught
+bip_39_word_dash_11: oil-help-mutual-vendor-predict-stock-own-silk-time-caught-when
+bip_39_word_dash_12: oil-help-mutual-vendor-predict-stock-own-silk-time-caught-when-audit
+bip_39_word_dash_2: oil-help
+bip_39_word_dash_3: oil-help-mutual
+bip_39_word_dash_4: oil-help-mutual-vendor
+bip_39_word_dash_5: oil-help-mutual-vendor-predict
+bip_39_word_dash_6: oil-help-mutual-vendor-predict-stock
+bip_39_word_dash_7: oil-help-mutual-vendor-predict-stock-own
+bip_39_word_dash_8: oil-help-mutual-vendor-predict-stock-own-silk
+bip_39_word_dash_9: oil-help-mutual-vendor-predict-stock-own-silk-time
 bip_39_word_new_br_1: oil
 bip_39_word_new_br_10: oil<br>help<br>mutual<br>vendor<br>predict<br>stock<br>own<br>silk<br>time<br>caught
 bip_39_word_new_br_11: oil<br>help<br>mutual<br>vendor<br>predict<br>stock<br>own<br>silk<br>time<br>caught<br>when
@@ -192,6 +204,18 @@ bip_39_word_space_6: oil help mutual vendor predict stock
 bip_39_word_space_7: oil help mutual vendor predict stock own
 bip_39_word_space_8: oil help mutual vendor predict stock own silk
 bip_39_word_space_9: oil help mutual vendor predict stock own silk time
+bip_39_word_underscore_1: oil
+bip_39_word_underscore_10: oil_help_mutual_vendor_predict_stock_own_silk_time_caught
+bip_39_word_underscore_11: oil_help_mutual_vendor_predict_stock_own_silk_time_caught_when
+bip_39_word_underscore_12: oil_help_mutual_vendor_predict_stock_own_silk_time_caught_when_audit
+bip_39_word_underscore_2: oil_help
+bip_39_word_underscore_3: oil_help_mutual
+bip_39_word_underscore_4: oil_help_mutual_vendor
+bip_39_word_underscore_5: oil_help_mutual_vendor_predict
+bip_39_word_underscore_6: oil_help_mutual_vendor_predict_stock
+bip_39_word_underscore_7: oil_help_mutual_vendor_predict_stock_own
+bip_39_word_underscore_8: oil_help_mutual_vendor_predict_stock_own_silk
+bip_39_word_underscore_9: oil_help_mutual_vendor_predict_stock_own_silk_time
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | infant |  
+| bip_39_word_dash_10 | infant-speed-action-that-wage-sword-exhaust-parent-claw-drama |  
+| bip_39_word_dash_11 | infant-speed-action-that-wage-sword-exhaust-parent-claw-drama-page |  
+| bip_39_word_dash_12 | infant-speed-action-that-wage-sword-exhaust-parent-claw-drama-page-arrest |  
+| bip_39_word_dash_2 | infant-speed |  
+| bip_39_word_dash_3 | infant-speed-action |  
+| bip_39_word_dash_4 | infant-speed-action-that |  
+| bip_39_word_dash_5 | infant-speed-action-that-wage |  
+| bip_39_word_dash_6 | infant-speed-action-that-wage-sword |  
+| bip_39_word_dash_7 | infant-speed-action-that-wage-sword-exhaust |  
+| bip_39_word_dash_8 | infant-speed-action-that-wage-sword-exhaust-parent |  
+| bip_39_word_dash_9 | infant-speed-action-that-wage-sword-exhaust-parent-claw |  
 | bip_39_word_new_br_1 | infant |  
 | bip_39_word_new_br_10 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama |  
 | bip_39_word_new_br_11 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama<br>page |  
@@ -147,6 +159,18 @@ claw |
 | bip_39_word_space_7 | infant speed action that wage sword exhaust |  
 | bip_39_word_space_8 | infant speed action that wage sword exhaust parent |  
 | bip_39_word_space_9 | infant speed action that wage sword exhaust parent claw |  
+| bip_39_word_underscore_1 | infant |  
+| bip_39_word_underscore_10 | infant_speed_action_that_wage_sword_exhaust_parent_claw_drama |  
+| bip_39_word_underscore_11 | infant_speed_action_that_wage_sword_exhaust_parent_claw_drama_page |  
+| bip_39_word_underscore_12 | infant_speed_action_that_wage_sword_exhaust_parent_claw_drama_page_arrest |  
+| bip_39_word_underscore_2 | infant_speed |  
+| bip_39_word_underscore_3 | infant_speed_action |  
+| bip_39_word_underscore_4 | infant_speed_action_that |  
+| bip_39_word_underscore_5 | infant_speed_action_that_wage |  
+| bip_39_word_underscore_6 | infant_speed_action_that_wage_sword |  
+| bip_39_word_underscore_7 | infant_speed_action_that_wage_sword_exhaust |  
+| bip_39_word_underscore_8 | infant_speed_action_that_wage_sword_exhaust_parent |  
+| bip_39_word_underscore_9 | infant_speed_action_that_wage_sword_exhaust_parent_claw |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

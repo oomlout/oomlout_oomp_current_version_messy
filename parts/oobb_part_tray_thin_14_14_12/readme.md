@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | siren |  
+| bip_39_word_dash_10 | siren-law-power-turn-post-civil-glue-tank-deputy-poverty |  
+| bip_39_word_dash_11 | siren-law-power-turn-post-civil-glue-tank-deputy-poverty-document |  
+| bip_39_word_dash_12 | siren-law-power-turn-post-civil-glue-tank-deputy-poverty-document-another |  
+| bip_39_word_dash_2 | siren-law |  
+| bip_39_word_dash_3 | siren-law-power |  
+| bip_39_word_dash_4 | siren-law-power-turn |  
+| bip_39_word_dash_5 | siren-law-power-turn-post |  
+| bip_39_word_dash_6 | siren-law-power-turn-post-civil |  
+| bip_39_word_dash_7 | siren-law-power-turn-post-civil-glue |  
+| bip_39_word_dash_8 | siren-law-power-turn-post-civil-glue-tank |  
+| bip_39_word_dash_9 | siren-law-power-turn-post-civil-glue-tank-deputy |  
 | bip_39_word_new_br_1 | siren |  
 | bip_39_word_new_br_10 | siren<br>law<br>power<br>turn<br>post<br>civil<br>glue<br>tank<br>deputy<br>poverty |  
 | bip_39_word_new_br_11 | siren<br>law<br>power<br>turn<br>post<br>civil<br>glue<br>tank<br>deputy<br>poverty<br>document |  
@@ -147,6 +159,18 @@ deputy |
 | bip_39_word_space_7 | siren law power turn post civil glue |  
 | bip_39_word_space_8 | siren law power turn post civil glue tank |  
 | bip_39_word_space_9 | siren law power turn post civil glue tank deputy |  
+| bip_39_word_underscore_1 | siren |  
+| bip_39_word_underscore_10 | siren_law_power_turn_post_civil_glue_tank_deputy_poverty |  
+| bip_39_word_underscore_11 | siren_law_power_turn_post_civil_glue_tank_deputy_poverty_document |  
+| bip_39_word_underscore_12 | siren_law_power_turn_post_civil_glue_tank_deputy_poverty_document_another |  
+| bip_39_word_underscore_2 | siren_law |  
+| bip_39_word_underscore_3 | siren_law_power |  
+| bip_39_word_underscore_4 | siren_law_power_turn |  
+| bip_39_word_underscore_5 | siren_law_power_turn_post |  
+| bip_39_word_underscore_6 | siren_law_power_turn_post_civil |  
+| bip_39_word_underscore_7 | siren_law_power_turn_post_civil_glue |  
+| bip_39_word_underscore_8 | siren_law_power_turn_post_civil_glue_tank |  
+| bip_39_word_underscore_9 | siren_law_power_turn_post_civil_glue_tank_deputy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

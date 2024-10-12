@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | strike |  
+| bip_39_word_dash_10 | strike-immense-suffer-today-cricket-fox-atom-artwork-blind-pottery |  
+| bip_39_word_dash_11 | strike-immense-suffer-today-cricket-fox-atom-artwork-blind-pottery-labor |  
+| bip_39_word_dash_12 | strike-immense-suffer-today-cricket-fox-atom-artwork-blind-pottery-labor-asset |  
+| bip_39_word_dash_2 | strike-immense |  
+| bip_39_word_dash_3 | strike-immense-suffer |  
+| bip_39_word_dash_4 | strike-immense-suffer-today |  
+| bip_39_word_dash_5 | strike-immense-suffer-today-cricket |  
+| bip_39_word_dash_6 | strike-immense-suffer-today-cricket-fox |  
+| bip_39_word_dash_7 | strike-immense-suffer-today-cricket-fox-atom |  
+| bip_39_word_dash_8 | strike-immense-suffer-today-cricket-fox-atom-artwork |  
+| bip_39_word_dash_9 | strike-immense-suffer-today-cricket-fox-atom-artwork-blind |  
 | bip_39_word_new_br_1 | strike |  
 | bip_39_word_new_br_10 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork<br>blind<br>pottery |  
 | bip_39_word_new_br_11 | strike<br>immense<br>suffer<br>today<br>cricket<br>fox<br>atom<br>artwork<br>blind<br>pottery<br>labor |  
@@ -147,6 +159,18 @@ blind |
 | bip_39_word_space_7 | strike immense suffer today cricket fox atom |  
 | bip_39_word_space_8 | strike immense suffer today cricket fox atom artwork |  
 | bip_39_word_space_9 | strike immense suffer today cricket fox atom artwork blind |  
+| bip_39_word_underscore_1 | strike |  
+| bip_39_word_underscore_10 | strike_immense_suffer_today_cricket_fox_atom_artwork_blind_pottery |  
+| bip_39_word_underscore_11 | strike_immense_suffer_today_cricket_fox_atom_artwork_blind_pottery_labor |  
+| bip_39_word_underscore_12 | strike_immense_suffer_today_cricket_fox_atom_artwork_blind_pottery_labor_asset |  
+| bip_39_word_underscore_2 | strike_immense |  
+| bip_39_word_underscore_3 | strike_immense_suffer |  
+| bip_39_word_underscore_4 | strike_immense_suffer_today |  
+| bip_39_word_underscore_5 | strike_immense_suffer_today_cricket |  
+| bip_39_word_underscore_6 | strike_immense_suffer_today_cricket_fox |  
+| bip_39_word_underscore_7 | strike_immense_suffer_today_cricket_fox_atom |  
+| bip_39_word_underscore_8 | strike_immense_suffer_today_cricket_fox_atom_artwork |  
+| bip_39_word_underscore_9 | strike_immense_suffer_today_cricket_fox_atom_artwork_blind |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

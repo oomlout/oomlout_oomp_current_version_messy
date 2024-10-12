@@ -1,3 +1,15 @@
+bip_39_word_dash_1: drive
+bip_39_word_dash_10: drive-laugh-area-focus-cinnamon-pudding-toast-entry-day-slow
+bip_39_word_dash_11: drive-laugh-area-focus-cinnamon-pudding-toast-entry-day-slow-floor
+bip_39_word_dash_12: drive-laugh-area-focus-cinnamon-pudding-toast-entry-day-slow-floor-approve
+bip_39_word_dash_2: drive-laugh
+bip_39_word_dash_3: drive-laugh-area
+bip_39_word_dash_4: drive-laugh-area-focus
+bip_39_word_dash_5: drive-laugh-area-focus-cinnamon
+bip_39_word_dash_6: drive-laugh-area-focus-cinnamon-pudding
+bip_39_word_dash_7: drive-laugh-area-focus-cinnamon-pudding-toast
+bip_39_word_dash_8: drive-laugh-area-focus-cinnamon-pudding-toast-entry
+bip_39_word_dash_9: drive-laugh-area-focus-cinnamon-pudding-toast-entry-day
 bip_39_word_new_br_1: drive
 bip_39_word_new_br_10: drive<br>laugh<br>area<br>focus<br>cinnamon<br>pudding<br>toast<br>entry<br>day<br>slow
 bip_39_word_new_br_11: drive<br>laugh<br>area<br>focus<br>cinnamon<br>pudding<br>toast<br>entry<br>day<br>slow<br>floor
@@ -193,6 +205,18 @@ bip_39_word_space_6: drive laugh area focus cinnamon pudding
 bip_39_word_space_7: drive laugh area focus cinnamon pudding toast
 bip_39_word_space_8: drive laugh area focus cinnamon pudding toast entry
 bip_39_word_space_9: drive laugh area focus cinnamon pudding toast entry day
+bip_39_word_underscore_1: drive
+bip_39_word_underscore_10: drive_laugh_area_focus_cinnamon_pudding_toast_entry_day_slow
+bip_39_word_underscore_11: drive_laugh_area_focus_cinnamon_pudding_toast_entry_day_slow_floor
+bip_39_word_underscore_12: drive_laugh_area_focus_cinnamon_pudding_toast_entry_day_slow_floor_approve
+bip_39_word_underscore_2: drive_laugh
+bip_39_word_underscore_3: drive_laugh_area
+bip_39_word_underscore_4: drive_laugh_area_focus
+bip_39_word_underscore_5: drive_laugh_area_focus_cinnamon
+bip_39_word_underscore_6: drive_laugh_area_focus_cinnamon_pudding
+bip_39_word_underscore_7: drive_laugh_area_focus_cinnamon_pudding_toast
+bip_39_word_underscore_8: drive_laugh_area_focus_cinnamon_pudding_toast_entry
+bip_39_word_underscore_9: drive_laugh_area_focus_cinnamon_pudding_toast_entry_day
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

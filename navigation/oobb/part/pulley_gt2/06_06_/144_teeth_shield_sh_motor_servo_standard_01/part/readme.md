@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cable |  
+| bip_39_word_dash_10 | cable-since-suspect-fragile-media-small-spy-juice-add-unusual |  
+| bip_39_word_dash_11 | cable-since-suspect-fragile-media-small-spy-juice-add-unusual-avocado |  
+| bip_39_word_dash_12 | cable-since-suspect-fragile-media-small-spy-juice-add-unusual-avocado-absorb |  
+| bip_39_word_dash_2 | cable-since |  
+| bip_39_word_dash_3 | cable-since-suspect |  
+| bip_39_word_dash_4 | cable-since-suspect-fragile |  
+| bip_39_word_dash_5 | cable-since-suspect-fragile-media |  
+| bip_39_word_dash_6 | cable-since-suspect-fragile-media-small |  
+| bip_39_word_dash_7 | cable-since-suspect-fragile-media-small-spy |  
+| bip_39_word_dash_8 | cable-since-suspect-fragile-media-small-spy-juice |  
+| bip_39_word_dash_9 | cable-since-suspect-fragile-media-small-spy-juice-add |  
 | bip_39_word_new_br_1 | cable |  
 | bip_39_word_new_br_10 | cable<br>since<br>suspect<br>fragile<br>media<br>small<br>spy<br>juice<br>add<br>unusual |  
 | bip_39_word_new_br_11 | cable<br>since<br>suspect<br>fragile<br>media<br>small<br>spy<br>juice<br>add<br>unusual<br>avocado |  
@@ -147,6 +159,18 @@ add |
 | bip_39_word_space_7 | cable since suspect fragile media small spy |  
 | bip_39_word_space_8 | cable since suspect fragile media small spy juice |  
 | bip_39_word_space_9 | cable since suspect fragile media small spy juice add |  
+| bip_39_word_underscore_1 | cable |  
+| bip_39_word_underscore_10 | cable_since_suspect_fragile_media_small_spy_juice_add_unusual |  
+| bip_39_word_underscore_11 | cable_since_suspect_fragile_media_small_spy_juice_add_unusual_avocado |  
+| bip_39_word_underscore_12 | cable_since_suspect_fragile_media_small_spy_juice_add_unusual_avocado_absorb |  
+| bip_39_word_underscore_2 | cable_since |  
+| bip_39_word_underscore_3 | cable_since_suspect |  
+| bip_39_word_underscore_4 | cable_since_suspect_fragile |  
+| bip_39_word_underscore_5 | cable_since_suspect_fragile_media |  
+| bip_39_word_underscore_6 | cable_since_suspect_fragile_media_small |  
+| bip_39_word_underscore_7 | cable_since_suspect_fragile_media_small_spy |  
+| bip_39_word_underscore_8 | cable_since_suspect_fragile_media_small_spy_juice |  
+| bip_39_word_underscore_9 | cable_since_suspect_fragile_media_small_spy_juice_add |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

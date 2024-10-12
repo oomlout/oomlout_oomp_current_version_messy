@@ -1,3 +1,15 @@
+bip_39_word_dash_1: loop
+bip_39_word_dash_10: loop-swift-reopen-host-impulse-orphan-situate-category-violin-hurdle
+bip_39_word_dash_11: loop-swift-reopen-host-impulse-orphan-situate-category-violin-hurdle-angle
+bip_39_word_dash_12: loop-swift-reopen-host-impulse-orphan-situate-category-violin-hurdle-angle-adult
+bip_39_word_dash_2: loop-swift
+bip_39_word_dash_3: loop-swift-reopen
+bip_39_word_dash_4: loop-swift-reopen-host
+bip_39_word_dash_5: loop-swift-reopen-host-impulse
+bip_39_word_dash_6: loop-swift-reopen-host-impulse-orphan
+bip_39_word_dash_7: loop-swift-reopen-host-impulse-orphan-situate
+bip_39_word_dash_8: loop-swift-reopen-host-impulse-orphan-situate-category
+bip_39_word_dash_9: loop-swift-reopen-host-impulse-orphan-situate-category-violin
 bip_39_word_new_br_1: loop
 bip_39_word_new_br_10: loop<br>swift<br>reopen<br>host<br>impulse<br>orphan<br>situate<br>category<br>violin<br>hurdle
 bip_39_word_new_br_11: loop<br>swift<br>reopen<br>host<br>impulse<br>orphan<br>situate<br>category<br>violin<br>hurdle<br>angle
@@ -194,6 +206,18 @@ bip_39_word_space_6: loop swift reopen host impulse orphan
 bip_39_word_space_7: loop swift reopen host impulse orphan situate
 bip_39_word_space_8: loop swift reopen host impulse orphan situate category
 bip_39_word_space_9: loop swift reopen host impulse orphan situate category violin
+bip_39_word_underscore_1: loop
+bip_39_word_underscore_10: loop_swift_reopen_host_impulse_orphan_situate_category_violin_hurdle
+bip_39_word_underscore_11: loop_swift_reopen_host_impulse_orphan_situate_category_violin_hurdle_angle
+bip_39_word_underscore_12: loop_swift_reopen_host_impulse_orphan_situate_category_violin_hurdle_angle_adult
+bip_39_word_underscore_2: loop_swift
+bip_39_word_underscore_3: loop_swift_reopen
+bip_39_word_underscore_4: loop_swift_reopen_host
+bip_39_word_underscore_5: loop_swift_reopen_host_impulse
+bip_39_word_underscore_6: loop_swift_reopen_host_impulse_orphan
+bip_39_word_underscore_7: loop_swift_reopen_host_impulse_orphan_situate
+bip_39_word_underscore_8: loop_swift_reopen_host_impulse_orphan_situate_category
+bip_39_word_underscore_9: loop_swift_reopen_host_impulse_orphan_situate_category_violin
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: border
+bip_39_word_dash_10: border-over-output-adjust-trick-law-twist-peanut-decade-inspire
+bip_39_word_dash_11: border-over-output-adjust-trick-law-twist-peanut-decade-inspire-nurse
+bip_39_word_dash_12: border-over-output-adjust-trick-law-twist-peanut-decade-inspire-nurse-admit
+bip_39_word_dash_2: border-over
+bip_39_word_dash_3: border-over-output
+bip_39_word_dash_4: border-over-output-adjust
+bip_39_word_dash_5: border-over-output-adjust-trick
+bip_39_word_dash_6: border-over-output-adjust-trick-law
+bip_39_word_dash_7: border-over-output-adjust-trick-law-twist
+bip_39_word_dash_8: border-over-output-adjust-trick-law-twist-peanut
+bip_39_word_dash_9: border-over-output-adjust-trick-law-twist-peanut-decade
 bip_39_word_new_br_1: border
 bip_39_word_new_br_10: border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire
 bip_39_word_new_br_11: border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire<br>nurse
@@ -193,6 +205,18 @@ bip_39_word_space_6: border over output adjust trick law
 bip_39_word_space_7: border over output adjust trick law twist
 bip_39_word_space_8: border over output adjust trick law twist peanut
 bip_39_word_space_9: border over output adjust trick law twist peanut decade
+bip_39_word_underscore_1: border
+bip_39_word_underscore_10: border_over_output_adjust_trick_law_twist_peanut_decade_inspire
+bip_39_word_underscore_11: border_over_output_adjust_trick_law_twist_peanut_decade_inspire_nurse
+bip_39_word_underscore_12: border_over_output_adjust_trick_law_twist_peanut_decade_inspire_nurse_admit
+bip_39_word_underscore_2: border_over
+bip_39_word_underscore_3: border_over_output
+bip_39_word_underscore_4: border_over_output_adjust
+bip_39_word_underscore_5: border_over_output_adjust_trick
+bip_39_word_underscore_6: border_over_output_adjust_trick_law
+bip_39_word_underscore_7: border_over_output_adjust_trick_law_twist
+bip_39_word_underscore_8: border_over_output_adjust_trick_law_twist_peanut
+bip_39_word_underscore_9: border_over_output_adjust_trick_law_twist_peanut_decade
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: install
+bip_39_word_dash_10: install-chief-faith-cruel-couch-basic-message-high-knee-moon
+bip_39_word_dash_11: install-chief-faith-cruel-couch-basic-message-high-knee-moon-law
+bip_39_word_dash_12: install-chief-faith-cruel-couch-basic-message-high-knee-moon-law-atom
+bip_39_word_dash_2: install-chief
+bip_39_word_dash_3: install-chief-faith
+bip_39_word_dash_4: install-chief-faith-cruel
+bip_39_word_dash_5: install-chief-faith-cruel-couch
+bip_39_word_dash_6: install-chief-faith-cruel-couch-basic
+bip_39_word_dash_7: install-chief-faith-cruel-couch-basic-message
+bip_39_word_dash_8: install-chief-faith-cruel-couch-basic-message-high
+bip_39_word_dash_9: install-chief-faith-cruel-couch-basic-message-high-knee
 bip_39_word_new_br_1: install
 bip_39_word_new_br_10: install<br>chief<br>faith<br>cruel<br>couch<br>basic<br>message<br>high<br>knee<br>moon
 bip_39_word_new_br_11: install<br>chief<br>faith<br>cruel<br>couch<br>basic<br>message<br>high<br>knee<br>moon<br>law
@@ -193,6 +205,18 @@ bip_39_word_space_6: install chief faith cruel couch basic
 bip_39_word_space_7: install chief faith cruel couch basic message
 bip_39_word_space_8: install chief faith cruel couch basic message high
 bip_39_word_space_9: install chief faith cruel couch basic message high knee
+bip_39_word_underscore_1: install
+bip_39_word_underscore_10: install_chief_faith_cruel_couch_basic_message_high_knee_moon
+bip_39_word_underscore_11: install_chief_faith_cruel_couch_basic_message_high_knee_moon_law
+bip_39_word_underscore_12: install_chief_faith_cruel_couch_basic_message_high_knee_moon_law_atom
+bip_39_word_underscore_2: install_chief
+bip_39_word_underscore_3: install_chief_faith
+bip_39_word_underscore_4: install_chief_faith_cruel
+bip_39_word_underscore_5: install_chief_faith_cruel_couch
+bip_39_word_underscore_6: install_chief_faith_cruel_couch_basic
+bip_39_word_underscore_7: install_chief_faith_cruel_couch_basic_message
+bip_39_word_underscore_8: install_chief_faith_cruel_couch_basic_message_high
+bip_39_word_underscore_9: install_chief_faith_cruel_couch_basic_message_high_knee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

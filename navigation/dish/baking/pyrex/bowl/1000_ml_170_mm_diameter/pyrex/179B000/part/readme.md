@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | human |  
+| bip_39_word_dash_10 | human-avoid-genuine-culture-orient-fat-normal-between-myself-pen |  
+| bip_39_word_dash_11 | human-avoid-genuine-culture-orient-fat-normal-between-myself-pen-tiger |  
+| bip_39_word_dash_12 | human-avoid-genuine-culture-orient-fat-normal-between-myself-pen-tiger-alter |  
+| bip_39_word_dash_2 | human-avoid |  
+| bip_39_word_dash_3 | human-avoid-genuine |  
+| bip_39_word_dash_4 | human-avoid-genuine-culture |  
+| bip_39_word_dash_5 | human-avoid-genuine-culture-orient |  
+| bip_39_word_dash_6 | human-avoid-genuine-culture-orient-fat |  
+| bip_39_word_dash_7 | human-avoid-genuine-culture-orient-fat-normal |  
+| bip_39_word_dash_8 | human-avoid-genuine-culture-orient-fat-normal-between |  
+| bip_39_word_dash_9 | human-avoid-genuine-culture-orient-fat-normal-between-myself |  
 | bip_39_word_new_br_1 | human |  
 | bip_39_word_new_br_10 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between<br>myself<br>pen |  
 | bip_39_word_new_br_11 | human<br>avoid<br>genuine<br>culture<br>orient<br>fat<br>normal<br>between<br>myself<br>pen<br>tiger |  
@@ -147,6 +159,18 @@ myself |
 | bip_39_word_space_7 | human avoid genuine culture orient fat normal |  
 | bip_39_word_space_8 | human avoid genuine culture orient fat normal between |  
 | bip_39_word_space_9 | human avoid genuine culture orient fat normal between myself |  
+| bip_39_word_underscore_1 | human |  
+| bip_39_word_underscore_10 | human_avoid_genuine_culture_orient_fat_normal_between_myself_pen |  
+| bip_39_word_underscore_11 | human_avoid_genuine_culture_orient_fat_normal_between_myself_pen_tiger |  
+| bip_39_word_underscore_12 | human_avoid_genuine_culture_orient_fat_normal_between_myself_pen_tiger_alter |  
+| bip_39_word_underscore_2 | human_avoid |  
+| bip_39_word_underscore_3 | human_avoid_genuine |  
+| bip_39_word_underscore_4 | human_avoid_genuine_culture |  
+| bip_39_word_underscore_5 | human_avoid_genuine_culture_orient |  
+| bip_39_word_underscore_6 | human_avoid_genuine_culture_orient_fat |  
+| bip_39_word_underscore_7 | human_avoid_genuine_culture_orient_fat_normal |  
+| bip_39_word_underscore_8 | human_avoid_genuine_culture_orient_fat_normal_between |  
+| bip_39_word_underscore_9 | human_avoid_genuine_culture_orient_fat_normal_between_myself |  
 | classification | dish |  
 | classification_capital | Dish |  
 | classification_first_letter | d |  

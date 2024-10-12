@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shiver |  
+| bip_39_word_dash_10 | shiver-fatigue-idea-garbage-crystal-buyer-amount-rival-pipe-vacant |  
+| bip_39_word_dash_11 | shiver-fatigue-idea-garbage-crystal-buyer-amount-rival-pipe-vacant-remove |  
+| bip_39_word_dash_12 | shiver-fatigue-idea-garbage-crystal-buyer-amount-rival-pipe-vacant-remove-artefact |  
+| bip_39_word_dash_2 | shiver-fatigue |  
+| bip_39_word_dash_3 | shiver-fatigue-idea |  
+| bip_39_word_dash_4 | shiver-fatigue-idea-garbage |  
+| bip_39_word_dash_5 | shiver-fatigue-idea-garbage-crystal |  
+| bip_39_word_dash_6 | shiver-fatigue-idea-garbage-crystal-buyer |  
+| bip_39_word_dash_7 | shiver-fatigue-idea-garbage-crystal-buyer-amount |  
+| bip_39_word_dash_8 | shiver-fatigue-idea-garbage-crystal-buyer-amount-rival |  
+| bip_39_word_dash_9 | shiver-fatigue-idea-garbage-crystal-buyer-amount-rival-pipe |  
 | bip_39_word_new_br_1 | shiver |  
 | bip_39_word_new_br_10 | shiver<br>fatigue<br>idea<br>garbage<br>crystal<br>buyer<br>amount<br>rival<br>pipe<br>vacant |  
 | bip_39_word_new_br_11 | shiver<br>fatigue<br>idea<br>garbage<br>crystal<br>buyer<br>amount<br>rival<br>pipe<br>vacant<br>remove |  
@@ -147,6 +159,18 @@ pipe |
 | bip_39_word_space_7 | shiver fatigue idea garbage crystal buyer amount |  
 | bip_39_word_space_8 | shiver fatigue idea garbage crystal buyer amount rival |  
 | bip_39_word_space_9 | shiver fatigue idea garbage crystal buyer amount rival pipe |  
+| bip_39_word_underscore_1 | shiver |  
+| bip_39_word_underscore_10 | shiver_fatigue_idea_garbage_crystal_buyer_amount_rival_pipe_vacant |  
+| bip_39_word_underscore_11 | shiver_fatigue_idea_garbage_crystal_buyer_amount_rival_pipe_vacant_remove |  
+| bip_39_word_underscore_12 | shiver_fatigue_idea_garbage_crystal_buyer_amount_rival_pipe_vacant_remove_artefact |  
+| bip_39_word_underscore_2 | shiver_fatigue |  
+| bip_39_word_underscore_3 | shiver_fatigue_idea |  
+| bip_39_word_underscore_4 | shiver_fatigue_idea_garbage |  
+| bip_39_word_underscore_5 | shiver_fatigue_idea_garbage_crystal |  
+| bip_39_word_underscore_6 | shiver_fatigue_idea_garbage_crystal_buyer |  
+| bip_39_word_underscore_7 | shiver_fatigue_idea_garbage_crystal_buyer_amount |  
+| bip_39_word_underscore_8 | shiver_fatigue_idea_garbage_crystal_buyer_amount_rival |  
+| bip_39_word_underscore_9 | shiver_fatigue_idea_garbage_crystal_buyer_amount_rival_pipe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

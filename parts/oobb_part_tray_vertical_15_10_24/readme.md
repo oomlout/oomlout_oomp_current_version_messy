@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | monitor |  
+| bip_39_word_dash_10 | monitor-alcohol-else-apology-economy-across-hover-kind-fashion-riot |  
+| bip_39_word_dash_11 | monitor-alcohol-else-apology-economy-across-hover-kind-fashion-riot-mask |  
+| bip_39_word_dash_2 | monitor-alcohol |  
+| bip_39_word_dash_3 | monitor-alcohol-else |  
+| bip_39_word_dash_4 | monitor-alcohol-else-apology |  
+| bip_39_word_dash_5 | monitor-alcohol-else-apology-economy |  
+| bip_39_word_dash_6 | monitor-alcohol-else-apology-economy-across |  
+| bip_39_word_dash_7 | monitor-alcohol-else-apology-economy-across-hover |  
+| bip_39_word_dash_8 | monitor-alcohol-else-apology-economy-across-hover-kind |  
+| bip_39_word_dash_9 | monitor-alcohol-else-apology-economy-across-hover-kind-fashion |  
 | bip_39_word_new_br_1 | monitor |  
 | bip_39_word_new_br_10 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion<br>riot |  
 | bip_39_word_new_br_11 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion<br>riot<br>mask |  
@@ -132,6 +143,17 @@ fashion |
 | bip_39_word_space_7 | monitor alcohol else apology economy across hover |  
 | bip_39_word_space_8 | monitor alcohol else apology economy across hover kind |  
 | bip_39_word_space_9 | monitor alcohol else apology economy across hover kind fashion |  
+| bip_39_word_underscore_1 | monitor |  
+| bip_39_word_underscore_10 | monitor_alcohol_else_apology_economy_across_hover_kind_fashion_riot |  
+| bip_39_word_underscore_11 | monitor_alcohol_else_apology_economy_across_hover_kind_fashion_riot_mask |  
+| bip_39_word_underscore_2 | monitor_alcohol |  
+| bip_39_word_underscore_3 | monitor_alcohol_else |  
+| bip_39_word_underscore_4 | monitor_alcohol_else_apology |  
+| bip_39_word_underscore_5 | monitor_alcohol_else_apology_economy |  
+| bip_39_word_underscore_6 | monitor_alcohol_else_apology_economy_across |  
+| bip_39_word_underscore_7 | monitor_alcohol_else_apology_economy_across_hover |  
+| bip_39_word_underscore_8 | monitor_alcohol_else_apology_economy_across_hover_kind |  
+| bip_39_word_underscore_9 | monitor_alcohol_else_apology_economy_across_hover_kind_fashion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

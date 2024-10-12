@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | below |  
+| bip_39_word_dash_10 | below-budget-cute-mail-pause-main-error-spoil-other-divert |  
+| bip_39_word_dash_11 | below-budget-cute-mail-pause-main-error-spoil-other-divert-section |  
+| bip_39_word_dash_12 | below-budget-cute-mail-pause-main-error-spoil-other-divert-section-allow |  
+| bip_39_word_dash_2 | below-budget |  
+| bip_39_word_dash_3 | below-budget-cute |  
+| bip_39_word_dash_4 | below-budget-cute-mail |  
+| bip_39_word_dash_5 | below-budget-cute-mail-pause |  
+| bip_39_word_dash_6 | below-budget-cute-mail-pause-main |  
+| bip_39_word_dash_7 | below-budget-cute-mail-pause-main-error |  
+| bip_39_word_dash_8 | below-budget-cute-mail-pause-main-error-spoil |  
+| bip_39_word_dash_9 | below-budget-cute-mail-pause-main-error-spoil-other |  
 | bip_39_word_new_br_1 | below |  
 | bip_39_word_new_br_10 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert |  
 | bip_39_word_new_br_11 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert<br>section |  
@@ -147,6 +159,18 @@ other |
 | bip_39_word_space_7 | below budget cute mail pause main error |  
 | bip_39_word_space_8 | below budget cute mail pause main error spoil |  
 | bip_39_word_space_9 | below budget cute mail pause main error spoil other |  
+| bip_39_word_underscore_1 | below |  
+| bip_39_word_underscore_10 | below_budget_cute_mail_pause_main_error_spoil_other_divert |  
+| bip_39_word_underscore_11 | below_budget_cute_mail_pause_main_error_spoil_other_divert_section |  
+| bip_39_word_underscore_12 | below_budget_cute_mail_pause_main_error_spoil_other_divert_section_allow |  
+| bip_39_word_underscore_2 | below_budget |  
+| bip_39_word_underscore_3 | below_budget_cute |  
+| bip_39_word_underscore_4 | below_budget_cute_mail |  
+| bip_39_word_underscore_5 | below_budget_cute_mail_pause |  
+| bip_39_word_underscore_6 | below_budget_cute_mail_pause_main |  
+| bip_39_word_underscore_7 | below_budget_cute_mail_pause_main_error |  
+| bip_39_word_underscore_8 | below_budget_cute_mail_pause_main_error_spoil |  
+| bip_39_word_underscore_9 | below_budget_cute_mail_pause_main_error_spoil_other |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

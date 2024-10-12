@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | museum |  
+| bip_39_word_dash_10 | museum-dragon-soon-title-isolate-buddy-floor-remind-utility-mountain |  
+| bip_39_word_dash_11 | museum-dragon-soon-title-isolate-buddy-floor-remind-utility-mountain-uniform |  
+| bip_39_word_dash_12 | museum-dragon-soon-title-isolate-buddy-floor-remind-utility-mountain-uniform-about |  
+| bip_39_word_dash_2 | museum-dragon |  
+| bip_39_word_dash_3 | museum-dragon-soon |  
+| bip_39_word_dash_4 | museum-dragon-soon-title |  
+| bip_39_word_dash_5 | museum-dragon-soon-title-isolate |  
+| bip_39_word_dash_6 | museum-dragon-soon-title-isolate-buddy |  
+| bip_39_word_dash_7 | museum-dragon-soon-title-isolate-buddy-floor |  
+| bip_39_word_dash_8 | museum-dragon-soon-title-isolate-buddy-floor-remind |  
+| bip_39_word_dash_9 | museum-dragon-soon-title-isolate-buddy-floor-remind-utility |  
 | bip_39_word_new_br_1 | museum |  
 | bip_39_word_new_br_10 | museum<br>dragon<br>soon<br>title<br>isolate<br>buddy<br>floor<br>remind<br>utility<br>mountain |  
 | bip_39_word_new_br_11 | museum<br>dragon<br>soon<br>title<br>isolate<br>buddy<br>floor<br>remind<br>utility<br>mountain<br>uniform |  
@@ -147,6 +159,18 @@ utility |
 | bip_39_word_space_7 | museum dragon soon title isolate buddy floor |  
 | bip_39_word_space_8 | museum dragon soon title isolate buddy floor remind |  
 | bip_39_word_space_9 | museum dragon soon title isolate buddy floor remind utility |  
+| bip_39_word_underscore_1 | museum |  
+| bip_39_word_underscore_10 | museum_dragon_soon_title_isolate_buddy_floor_remind_utility_mountain |  
+| bip_39_word_underscore_11 | museum_dragon_soon_title_isolate_buddy_floor_remind_utility_mountain_uniform |  
+| bip_39_word_underscore_12 | museum_dragon_soon_title_isolate_buddy_floor_remind_utility_mountain_uniform_about |  
+| bip_39_word_underscore_2 | museum_dragon |  
+| bip_39_word_underscore_3 | museum_dragon_soon |  
+| bip_39_word_underscore_4 | museum_dragon_soon_title |  
+| bip_39_word_underscore_5 | museum_dragon_soon_title_isolate |  
+| bip_39_word_underscore_6 | museum_dragon_soon_title_isolate_buddy |  
+| bip_39_word_underscore_7 | museum_dragon_soon_title_isolate_buddy_floor |  
+| bip_39_word_underscore_8 | museum_dragon_soon_title_isolate_buddy_floor_remind |  
+| bip_39_word_underscore_9 | museum_dragon_soon_title_isolate_buddy_floor_remind_utility |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

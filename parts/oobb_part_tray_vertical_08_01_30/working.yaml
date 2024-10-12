@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ring
+bip_39_word_dash_10: ring-spare-outdoor-drive-middle-because-spatial-leg-canoe-super
+bip_39_word_dash_11: ring-spare-outdoor-drive-middle-because-spatial-leg-canoe-super-owner
+bip_39_word_dash_12: ring-spare-outdoor-drive-middle-because-spatial-leg-canoe-super-owner-argue
+bip_39_word_dash_2: ring-spare
+bip_39_word_dash_3: ring-spare-outdoor
+bip_39_word_dash_4: ring-spare-outdoor-drive
+bip_39_word_dash_5: ring-spare-outdoor-drive-middle
+bip_39_word_dash_6: ring-spare-outdoor-drive-middle-because
+bip_39_word_dash_7: ring-spare-outdoor-drive-middle-because-spatial
+bip_39_word_dash_8: ring-spare-outdoor-drive-middle-because-spatial-leg
+bip_39_word_dash_9: ring-spare-outdoor-drive-middle-because-spatial-leg-canoe
 bip_39_word_new_br_1: ring
 bip_39_word_new_br_10: ring<br>spare<br>outdoor<br>drive<br>middle<br>because<br>spatial<br>leg<br>canoe<br>super
 bip_39_word_new_br_11: ring<br>spare<br>outdoor<br>drive<br>middle<br>because<br>spatial<br>leg<br>canoe<br>super<br>owner
@@ -193,6 +205,18 @@ bip_39_word_space_6: ring spare outdoor drive middle because
 bip_39_word_space_7: ring spare outdoor drive middle because spatial
 bip_39_word_space_8: ring spare outdoor drive middle because spatial leg
 bip_39_word_space_9: ring spare outdoor drive middle because spatial leg canoe
+bip_39_word_underscore_1: ring
+bip_39_word_underscore_10: ring_spare_outdoor_drive_middle_because_spatial_leg_canoe_super
+bip_39_word_underscore_11: ring_spare_outdoor_drive_middle_because_spatial_leg_canoe_super_owner
+bip_39_word_underscore_12: ring_spare_outdoor_drive_middle_because_spatial_leg_canoe_super_owner_argue
+bip_39_word_underscore_2: ring_spare
+bip_39_word_underscore_3: ring_spare_outdoor
+bip_39_word_underscore_4: ring_spare_outdoor_drive
+bip_39_word_underscore_5: ring_spare_outdoor_drive_middle
+bip_39_word_underscore_6: ring_spare_outdoor_drive_middle_because
+bip_39_word_underscore_7: ring_spare_outdoor_drive_middle_because_spatial
+bip_39_word_underscore_8: ring_spare_outdoor_drive_middle_because_spatial_leg
+bip_39_word_underscore_9: ring_spare_outdoor_drive_middle_because_spatial_leg_canoe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

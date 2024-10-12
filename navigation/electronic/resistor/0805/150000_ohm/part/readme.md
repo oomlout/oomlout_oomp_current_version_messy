@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tongue |  
+| bip_39_word_dash_10 | tongue-region-wonder-peace-dice-rival-agent-clerk-mesh-hybrid |  
+| bip_39_word_dash_11 | tongue-region-wonder-peace-dice-rival-agent-clerk-mesh-hybrid-shallow |  
+| bip_39_word_dash_12 | tongue-region-wonder-peace-dice-rival-agent-clerk-mesh-hybrid-shallow-alone |  
+| bip_39_word_dash_2 | tongue-region |  
+| bip_39_word_dash_3 | tongue-region-wonder |  
+| bip_39_word_dash_4 | tongue-region-wonder-peace |  
+| bip_39_word_dash_5 | tongue-region-wonder-peace-dice |  
+| bip_39_word_dash_6 | tongue-region-wonder-peace-dice-rival |  
+| bip_39_word_dash_7 | tongue-region-wonder-peace-dice-rival-agent |  
+| bip_39_word_dash_8 | tongue-region-wonder-peace-dice-rival-agent-clerk |  
+| bip_39_word_dash_9 | tongue-region-wonder-peace-dice-rival-agent-clerk-mesh |  
 | bip_39_word_new_br_1 | tongue |  
 | bip_39_word_new_br_10 | tongue<br>region<br>wonder<br>peace<br>dice<br>rival<br>agent<br>clerk<br>mesh<br>hybrid |  
 | bip_39_word_new_br_11 | tongue<br>region<br>wonder<br>peace<br>dice<br>rival<br>agent<br>clerk<br>mesh<br>hybrid<br>shallow |  
@@ -147,6 +159,18 @@ mesh |
 | bip_39_word_space_7 | tongue region wonder peace dice rival agent |  
 | bip_39_word_space_8 | tongue region wonder peace dice rival agent clerk |  
 | bip_39_word_space_9 | tongue region wonder peace dice rival agent clerk mesh |  
+| bip_39_word_underscore_1 | tongue |  
+| bip_39_word_underscore_10 | tongue_region_wonder_peace_dice_rival_agent_clerk_mesh_hybrid |  
+| bip_39_word_underscore_11 | tongue_region_wonder_peace_dice_rival_agent_clerk_mesh_hybrid_shallow |  
+| bip_39_word_underscore_12 | tongue_region_wonder_peace_dice_rival_agent_clerk_mesh_hybrid_shallow_alone |  
+| bip_39_word_underscore_2 | tongue_region |  
+| bip_39_word_underscore_3 | tongue_region_wonder |  
+| bip_39_word_underscore_4 | tongue_region_wonder_peace |  
+| bip_39_word_underscore_5 | tongue_region_wonder_peace_dice |  
+| bip_39_word_underscore_6 | tongue_region_wonder_peace_dice_rival |  
+| bip_39_word_underscore_7 | tongue_region_wonder_peace_dice_rival_agent |  
+| bip_39_word_underscore_8 | tongue_region_wonder_peace_dice_rival_agent_clerk |  
+| bip_39_word_underscore_9 | tongue_region_wonder_peace_dice_rival_agent_clerk_mesh |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

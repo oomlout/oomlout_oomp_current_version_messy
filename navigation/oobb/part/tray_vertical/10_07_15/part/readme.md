@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | more |  
+| bip_39_word_dash_10 | more-scan-else-caution-spin-rich-roast-cycle-stomach-shuffle |  
+| bip_39_word_dash_11 | more-scan-else-caution-spin-rich-roast-cycle-stomach-shuffle-one |  
+| bip_39_word_dash_12 | more-scan-else-caution-spin-rich-roast-cycle-stomach-shuffle-one-anger |  
+| bip_39_word_dash_2 | more-scan |  
+| bip_39_word_dash_3 | more-scan-else |  
+| bip_39_word_dash_4 | more-scan-else-caution |  
+| bip_39_word_dash_5 | more-scan-else-caution-spin |  
+| bip_39_word_dash_6 | more-scan-else-caution-spin-rich |  
+| bip_39_word_dash_7 | more-scan-else-caution-spin-rich-roast |  
+| bip_39_word_dash_8 | more-scan-else-caution-spin-rich-roast-cycle |  
+| bip_39_word_dash_9 | more-scan-else-caution-spin-rich-roast-cycle-stomach |  
 | bip_39_word_new_br_1 | more |  
 | bip_39_word_new_br_10 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle |  
 | bip_39_word_new_br_11 | more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle<br>one |  
@@ -147,6 +159,18 @@ stomach |
 | bip_39_word_space_7 | more scan else caution spin rich roast |  
 | bip_39_word_space_8 | more scan else caution spin rich roast cycle |  
 | bip_39_word_space_9 | more scan else caution spin rich roast cycle stomach |  
+| bip_39_word_underscore_1 | more |  
+| bip_39_word_underscore_10 | more_scan_else_caution_spin_rich_roast_cycle_stomach_shuffle |  
+| bip_39_word_underscore_11 | more_scan_else_caution_spin_rich_roast_cycle_stomach_shuffle_one |  
+| bip_39_word_underscore_12 | more_scan_else_caution_spin_rich_roast_cycle_stomach_shuffle_one_anger |  
+| bip_39_word_underscore_2 | more_scan |  
+| bip_39_word_underscore_3 | more_scan_else |  
+| bip_39_word_underscore_4 | more_scan_else_caution |  
+| bip_39_word_underscore_5 | more_scan_else_caution_spin |  
+| bip_39_word_underscore_6 | more_scan_else_caution_spin_rich |  
+| bip_39_word_underscore_7 | more_scan_else_caution_spin_rich_roast |  
+| bip_39_word_underscore_8 | more_scan_else_caution_spin_rich_roast_cycle |  
+| bip_39_word_underscore_9 | more_scan_else_caution_spin_rich_roast_cycle_stomach |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

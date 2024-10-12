@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | burger |  
+| bip_39_word_dash_10 | burger-render-situate-elegant-mercy-aim-worth-actual-night-cloud |  
+| bip_39_word_dash_11 | burger-render-situate-elegant-mercy-aim-worth-actual-night-cloud-news |  
+| bip_39_word_dash_12 | burger-render-situate-elegant-mercy-aim-worth-actual-night-cloud-news-absurd |  
+| bip_39_word_dash_2 | burger-render |  
+| bip_39_word_dash_3 | burger-render-situate |  
+| bip_39_word_dash_4 | burger-render-situate-elegant |  
+| bip_39_word_dash_5 | burger-render-situate-elegant-mercy |  
+| bip_39_word_dash_6 | burger-render-situate-elegant-mercy-aim |  
+| bip_39_word_dash_7 | burger-render-situate-elegant-mercy-aim-worth |  
+| bip_39_word_dash_8 | burger-render-situate-elegant-mercy-aim-worth-actual |  
+| bip_39_word_dash_9 | burger-render-situate-elegant-mercy-aim-worth-actual-night |  
 | bip_39_word_new_br_1 | burger |  
 | bip_39_word_new_br_10 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual<br>night<br>cloud |  
 | bip_39_word_new_br_11 | burger<br>render<br>situate<br>elegant<br>mercy<br>aim<br>worth<br>actual<br>night<br>cloud<br>news |  
@@ -147,6 +159,18 @@ night |
 | bip_39_word_space_7 | burger render situate elegant mercy aim worth |  
 | bip_39_word_space_8 | burger render situate elegant mercy aim worth actual |  
 | bip_39_word_space_9 | burger render situate elegant mercy aim worth actual night |  
+| bip_39_word_underscore_1 | burger |  
+| bip_39_word_underscore_10 | burger_render_situate_elegant_mercy_aim_worth_actual_night_cloud |  
+| bip_39_word_underscore_11 | burger_render_situate_elegant_mercy_aim_worth_actual_night_cloud_news |  
+| bip_39_word_underscore_12 | burger_render_situate_elegant_mercy_aim_worth_actual_night_cloud_news_absurd |  
+| bip_39_word_underscore_2 | burger_render |  
+| bip_39_word_underscore_3 | burger_render_situate |  
+| bip_39_word_underscore_4 | burger_render_situate_elegant |  
+| bip_39_word_underscore_5 | burger_render_situate_elegant_mercy |  
+| bip_39_word_underscore_6 | burger_render_situate_elegant_mercy_aim |  
+| bip_39_word_underscore_7 | burger_render_situate_elegant_mercy_aim_worth |  
+| bip_39_word_underscore_8 | burger_render_situate_elegant_mercy_aim_worth_actual |  
+| bip_39_word_underscore_9 | burger_render_situate_elegant_mercy_aim_worth_actual_night |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

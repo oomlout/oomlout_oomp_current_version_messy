@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drive |  
+| bip_39_word_dash_10 | drive-letter-alien-embody-loyal-glance-strategy-attract-panther-solar |  
+| bip_39_word_dash_11 | drive-letter-alien-embody-loyal-glance-strategy-attract-panther-solar-tower |  
+| bip_39_word_dash_12 | drive-letter-alien-embody-loyal-glance-strategy-attract-panther-solar-tower-adult |  
+| bip_39_word_dash_2 | drive-letter |  
+| bip_39_word_dash_3 | drive-letter-alien |  
+| bip_39_word_dash_4 | drive-letter-alien-embody |  
+| bip_39_word_dash_5 | drive-letter-alien-embody-loyal |  
+| bip_39_word_dash_6 | drive-letter-alien-embody-loyal-glance |  
+| bip_39_word_dash_7 | drive-letter-alien-embody-loyal-glance-strategy |  
+| bip_39_word_dash_8 | drive-letter-alien-embody-loyal-glance-strategy-attract |  
+| bip_39_word_dash_9 | drive-letter-alien-embody-loyal-glance-strategy-attract-panther |  
 | bip_39_word_new_br_1 | drive |  
 | bip_39_word_new_br_10 | drive<br>letter<br>alien<br>embody<br>loyal<br>glance<br>strategy<br>attract<br>panther<br>solar |  
 | bip_39_word_new_br_11 | drive<br>letter<br>alien<br>embody<br>loyal<br>glance<br>strategy<br>attract<br>panther<br>solar<br>tower |  
@@ -147,6 +159,18 @@ panther |
 | bip_39_word_space_7 | drive letter alien embody loyal glance strategy |  
 | bip_39_word_space_8 | drive letter alien embody loyal glance strategy attract |  
 | bip_39_word_space_9 | drive letter alien embody loyal glance strategy attract panther |  
+| bip_39_word_underscore_1 | drive |  
+| bip_39_word_underscore_10 | drive_letter_alien_embody_loyal_glance_strategy_attract_panther_solar |  
+| bip_39_word_underscore_11 | drive_letter_alien_embody_loyal_glance_strategy_attract_panther_solar_tower |  
+| bip_39_word_underscore_12 | drive_letter_alien_embody_loyal_glance_strategy_attract_panther_solar_tower_adult |  
+| bip_39_word_underscore_2 | drive_letter |  
+| bip_39_word_underscore_3 | drive_letter_alien |  
+| bip_39_word_underscore_4 | drive_letter_alien_embody |  
+| bip_39_word_underscore_5 | drive_letter_alien_embody_loyal |  
+| bip_39_word_underscore_6 | drive_letter_alien_embody_loyal_glance |  
+| bip_39_word_underscore_7 | drive_letter_alien_embody_loyal_glance_strategy |  
+| bip_39_word_underscore_8 | drive_letter_alien_embody_loyal_glance_strategy_attract |  
+| bip_39_word_underscore_9 | drive_letter_alien_embody_loyal_glance_strategy_attract_panther |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

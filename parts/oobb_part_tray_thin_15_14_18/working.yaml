@@ -1,3 +1,15 @@
+bip_39_word_dash_1: disorder
+bip_39_word_dash_10: disorder-sunny-gaze-skirt-girl-north-script-story-cat-obscure
+bip_39_word_dash_11: disorder-sunny-gaze-skirt-girl-north-script-story-cat-obscure-tool
+bip_39_word_dash_12: disorder-sunny-gaze-skirt-girl-north-script-story-cat-obscure-tool-ask
+bip_39_word_dash_2: disorder-sunny
+bip_39_word_dash_3: disorder-sunny-gaze
+bip_39_word_dash_4: disorder-sunny-gaze-skirt
+bip_39_word_dash_5: disorder-sunny-gaze-skirt-girl
+bip_39_word_dash_6: disorder-sunny-gaze-skirt-girl-north
+bip_39_word_dash_7: disorder-sunny-gaze-skirt-girl-north-script
+bip_39_word_dash_8: disorder-sunny-gaze-skirt-girl-north-script-story
+bip_39_word_dash_9: disorder-sunny-gaze-skirt-girl-north-script-story-cat
 bip_39_word_new_br_1: disorder
 bip_39_word_new_br_10: disorder<br>sunny<br>gaze<br>skirt<br>girl<br>north<br>script<br>story<br>cat<br>obscure
 bip_39_word_new_br_11: disorder<br>sunny<br>gaze<br>skirt<br>girl<br>north<br>script<br>story<br>cat<br>obscure<br>tool
@@ -193,6 +205,18 @@ bip_39_word_space_6: disorder sunny gaze skirt girl north
 bip_39_word_space_7: disorder sunny gaze skirt girl north script
 bip_39_word_space_8: disorder sunny gaze skirt girl north script story
 bip_39_word_space_9: disorder sunny gaze skirt girl north script story cat
+bip_39_word_underscore_1: disorder
+bip_39_word_underscore_10: disorder_sunny_gaze_skirt_girl_north_script_story_cat_obscure
+bip_39_word_underscore_11: disorder_sunny_gaze_skirt_girl_north_script_story_cat_obscure_tool
+bip_39_word_underscore_12: disorder_sunny_gaze_skirt_girl_north_script_story_cat_obscure_tool_ask
+bip_39_word_underscore_2: disorder_sunny
+bip_39_word_underscore_3: disorder_sunny_gaze
+bip_39_word_underscore_4: disorder_sunny_gaze_skirt
+bip_39_word_underscore_5: disorder_sunny_gaze_skirt_girl
+bip_39_word_underscore_6: disorder_sunny_gaze_skirt_girl_north
+bip_39_word_underscore_7: disorder_sunny_gaze_skirt_girl_north_script
+bip_39_word_underscore_8: disorder_sunny_gaze_skirt_girl_north_script_story
+bip_39_word_underscore_9: disorder_sunny_gaze_skirt_girl_north_script_story_cat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

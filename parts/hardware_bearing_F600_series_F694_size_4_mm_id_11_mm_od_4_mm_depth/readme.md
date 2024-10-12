@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ill |  
+| bip_39_word_dash_10 | ill-rescue-ride-food-domain-burden-uncle-glove-cup-glad |  
+| bip_39_word_dash_11 | ill-rescue-ride-food-domain-burden-uncle-glove-cup-glad-latin |  
+| bip_39_word_dash_12 | ill-rescue-ride-food-domain-burden-uncle-glove-cup-glad-latin-another |  
+| bip_39_word_dash_2 | ill-rescue |  
+| bip_39_word_dash_3 | ill-rescue-ride |  
+| bip_39_word_dash_4 | ill-rescue-ride-food |  
+| bip_39_word_dash_5 | ill-rescue-ride-food-domain |  
+| bip_39_word_dash_6 | ill-rescue-ride-food-domain-burden |  
+| bip_39_word_dash_7 | ill-rescue-ride-food-domain-burden-uncle |  
+| bip_39_word_dash_8 | ill-rescue-ride-food-domain-burden-uncle-glove |  
+| bip_39_word_dash_9 | ill-rescue-ride-food-domain-burden-uncle-glove-cup |  
 | bip_39_word_new_br_1 | ill |  
 | bip_39_word_new_br_10 | ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad |  
 | bip_39_word_new_br_11 | ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad<br>latin |  
@@ -147,6 +159,18 @@ cup |
 | bip_39_word_space_7 | ill rescue ride food domain burden uncle |  
 | bip_39_word_space_8 | ill rescue ride food domain burden uncle glove |  
 | bip_39_word_space_9 | ill rescue ride food domain burden uncle glove cup |  
+| bip_39_word_underscore_1 | ill |  
+| bip_39_word_underscore_10 | ill_rescue_ride_food_domain_burden_uncle_glove_cup_glad |  
+| bip_39_word_underscore_11 | ill_rescue_ride_food_domain_burden_uncle_glove_cup_glad_latin |  
+| bip_39_word_underscore_12 | ill_rescue_ride_food_domain_burden_uncle_glove_cup_glad_latin_another |  
+| bip_39_word_underscore_2 | ill_rescue |  
+| bip_39_word_underscore_3 | ill_rescue_ride |  
+| bip_39_word_underscore_4 | ill_rescue_ride_food |  
+| bip_39_word_underscore_5 | ill_rescue_ride_food_domain |  
+| bip_39_word_underscore_6 | ill_rescue_ride_food_domain_burden |  
+| bip_39_word_underscore_7 | ill_rescue_ride_food_domain_burden_uncle |  
+| bip_39_word_underscore_8 | ill_rescue_ride_food_domain_burden_uncle_glove |  
+| bip_39_word_underscore_9 | ill_rescue_ride_food_domain_burden_uncle_glove_cup |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: olive
+bip_39_word_dash_10: olive-stadium-chronic-neither-foil-treat-shop-shift-evidence-possible
+bip_39_word_dash_11: olive-stadium-chronic-neither-foil-treat-shop-shift-evidence-possible-case
+bip_39_word_dash_12: olive-stadium-chronic-neither-foil-treat-shop-shift-evidence-possible-case-alone
+bip_39_word_dash_2: olive-stadium
+bip_39_word_dash_3: olive-stadium-chronic
+bip_39_word_dash_4: olive-stadium-chronic-neither
+bip_39_word_dash_5: olive-stadium-chronic-neither-foil
+bip_39_word_dash_6: olive-stadium-chronic-neither-foil-treat
+bip_39_word_dash_7: olive-stadium-chronic-neither-foil-treat-shop
+bip_39_word_dash_8: olive-stadium-chronic-neither-foil-treat-shop-shift
+bip_39_word_dash_9: olive-stadium-chronic-neither-foil-treat-shop-shift-evidence
 bip_39_word_new_br_1: olive
 bip_39_word_new_br_10: olive<br>stadium<br>chronic<br>neither<br>foil<br>treat<br>shop<br>shift<br>evidence<br>possible
 bip_39_word_new_br_11: olive<br>stadium<br>chronic<br>neither<br>foil<br>treat<br>shop<br>shift<br>evidence<br>possible<br>case
@@ -194,6 +206,18 @@ bip_39_word_space_6: olive stadium chronic neither foil treat
 bip_39_word_space_7: olive stadium chronic neither foil treat shop
 bip_39_word_space_8: olive stadium chronic neither foil treat shop shift
 bip_39_word_space_9: olive stadium chronic neither foil treat shop shift evidence
+bip_39_word_underscore_1: olive
+bip_39_word_underscore_10: olive_stadium_chronic_neither_foil_treat_shop_shift_evidence_possible
+bip_39_word_underscore_11: olive_stadium_chronic_neither_foil_treat_shop_shift_evidence_possible_case
+bip_39_word_underscore_12: olive_stadium_chronic_neither_foil_treat_shop_shift_evidence_possible_case_alone
+bip_39_word_underscore_2: olive_stadium
+bip_39_word_underscore_3: olive_stadium_chronic
+bip_39_word_underscore_4: olive_stadium_chronic_neither
+bip_39_word_underscore_5: olive_stadium_chronic_neither_foil
+bip_39_word_underscore_6: olive_stadium_chronic_neither_foil_treat
+bip_39_word_underscore_7: olive_stadium_chronic_neither_foil_treat_shop
+bip_39_word_underscore_8: olive_stadium_chronic_neither_foil_treat_shop_shift
+bip_39_word_underscore_9: olive_stadium_chronic_neither_foil_treat_shop_shift_evidence
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

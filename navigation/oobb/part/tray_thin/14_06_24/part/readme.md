@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | satisfy |  
+| bip_39_word_dash_10 | satisfy-sleep-judge-crawl-aspect-admit-shop-predict-entry-paper |  
+| bip_39_word_dash_11 | satisfy-sleep-judge-crawl-aspect-admit-shop-predict-entry-paper-deposit |  
+| bip_39_word_dash_12 | satisfy-sleep-judge-crawl-aspect-admit-shop-predict-entry-paper-deposit-auction |  
+| bip_39_word_dash_2 | satisfy-sleep |  
+| bip_39_word_dash_3 | satisfy-sleep-judge |  
+| bip_39_word_dash_4 | satisfy-sleep-judge-crawl |  
+| bip_39_word_dash_5 | satisfy-sleep-judge-crawl-aspect |  
+| bip_39_word_dash_6 | satisfy-sleep-judge-crawl-aspect-admit |  
+| bip_39_word_dash_7 | satisfy-sleep-judge-crawl-aspect-admit-shop |  
+| bip_39_word_dash_8 | satisfy-sleep-judge-crawl-aspect-admit-shop-predict |  
+| bip_39_word_dash_9 | satisfy-sleep-judge-crawl-aspect-admit-shop-predict-entry |  
 | bip_39_word_new_br_1 | satisfy |  
 | bip_39_word_new_br_10 | satisfy<br>sleep<br>judge<br>crawl<br>aspect<br>admit<br>shop<br>predict<br>entry<br>paper |  
 | bip_39_word_new_br_11 | satisfy<br>sleep<br>judge<br>crawl<br>aspect<br>admit<br>shop<br>predict<br>entry<br>paper<br>deposit |  
@@ -147,6 +159,18 @@ entry |
 | bip_39_word_space_7 | satisfy sleep judge crawl aspect admit shop |  
 | bip_39_word_space_8 | satisfy sleep judge crawl aspect admit shop predict |  
 | bip_39_word_space_9 | satisfy sleep judge crawl aspect admit shop predict entry |  
+| bip_39_word_underscore_1 | satisfy |  
+| bip_39_word_underscore_10 | satisfy_sleep_judge_crawl_aspect_admit_shop_predict_entry_paper |  
+| bip_39_word_underscore_11 | satisfy_sleep_judge_crawl_aspect_admit_shop_predict_entry_paper_deposit |  
+| bip_39_word_underscore_12 | satisfy_sleep_judge_crawl_aspect_admit_shop_predict_entry_paper_deposit_auction |  
+| bip_39_word_underscore_2 | satisfy_sleep |  
+| bip_39_word_underscore_3 | satisfy_sleep_judge |  
+| bip_39_word_underscore_4 | satisfy_sleep_judge_crawl |  
+| bip_39_word_underscore_5 | satisfy_sleep_judge_crawl_aspect |  
+| bip_39_word_underscore_6 | satisfy_sleep_judge_crawl_aspect_admit |  
+| bip_39_word_underscore_7 | satisfy_sleep_judge_crawl_aspect_admit_shop |  
+| bip_39_word_underscore_8 | satisfy_sleep_judge_crawl_aspect_admit_shop_predict |  
+| bip_39_word_underscore_9 | satisfy_sleep_judge_crawl_aspect_admit_shop_predict_entry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

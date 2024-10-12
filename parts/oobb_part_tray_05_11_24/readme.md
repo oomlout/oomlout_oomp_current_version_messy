@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | snap |  
+| bip_39_word_dash_10 | snap-frost-ahead-novel-fluid-garden-exit-farm-perfect-gym |  
+| bip_39_word_dash_11 | snap-frost-ahead-novel-fluid-garden-exit-farm-perfect-gym-race |  
+| bip_39_word_dash_12 | snap-frost-ahead-novel-fluid-garden-exit-farm-perfect-gym-race-artwork |  
+| bip_39_word_dash_2 | snap-frost |  
+| bip_39_word_dash_3 | snap-frost-ahead |  
+| bip_39_word_dash_4 | snap-frost-ahead-novel |  
+| bip_39_word_dash_5 | snap-frost-ahead-novel-fluid |  
+| bip_39_word_dash_6 | snap-frost-ahead-novel-fluid-garden |  
+| bip_39_word_dash_7 | snap-frost-ahead-novel-fluid-garden-exit |  
+| bip_39_word_dash_8 | snap-frost-ahead-novel-fluid-garden-exit-farm |  
+| bip_39_word_dash_9 | snap-frost-ahead-novel-fluid-garden-exit-farm-perfect |  
 | bip_39_word_new_br_1 | snap |  
 | bip_39_word_new_br_10 | snap<br>frost<br>ahead<br>novel<br>fluid<br>garden<br>exit<br>farm<br>perfect<br>gym |  
 | bip_39_word_new_br_11 | snap<br>frost<br>ahead<br>novel<br>fluid<br>garden<br>exit<br>farm<br>perfect<br>gym<br>race |  
@@ -147,6 +159,18 @@ perfect |
 | bip_39_word_space_7 | snap frost ahead novel fluid garden exit |  
 | bip_39_word_space_8 | snap frost ahead novel fluid garden exit farm |  
 | bip_39_word_space_9 | snap frost ahead novel fluid garden exit farm perfect |  
+| bip_39_word_underscore_1 | snap |  
+| bip_39_word_underscore_10 | snap_frost_ahead_novel_fluid_garden_exit_farm_perfect_gym |  
+| bip_39_word_underscore_11 | snap_frost_ahead_novel_fluid_garden_exit_farm_perfect_gym_race |  
+| bip_39_word_underscore_12 | snap_frost_ahead_novel_fluid_garden_exit_farm_perfect_gym_race_artwork |  
+| bip_39_word_underscore_2 | snap_frost |  
+| bip_39_word_underscore_3 | snap_frost_ahead |  
+| bip_39_word_underscore_4 | snap_frost_ahead_novel |  
+| bip_39_word_underscore_5 | snap_frost_ahead_novel_fluid |  
+| bip_39_word_underscore_6 | snap_frost_ahead_novel_fluid_garden |  
+| bip_39_word_underscore_7 | snap_frost_ahead_novel_fluid_garden_exit |  
+| bip_39_word_underscore_8 | snap_frost_ahead_novel_fluid_garden_exit_farm |  
+| bip_39_word_underscore_9 | snap_frost_ahead_novel_fluid_garden_exit_farm_perfect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

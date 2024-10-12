@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | local |  
+| bip_39_word_dash_10 | local-skate-story-alley-truly-frame-reform-cram-tree-zero |  
+| bip_39_word_dash_11 | local-skate-story-alley-truly-frame-reform-cram-tree-zero-milk |  
+| bip_39_word_dash_12 | local-skate-story-alley-truly-frame-reform-cram-tree-zero-milk-among |  
+| bip_39_word_dash_2 | local-skate |  
+| bip_39_word_dash_3 | local-skate-story |  
+| bip_39_word_dash_4 | local-skate-story-alley |  
+| bip_39_word_dash_5 | local-skate-story-alley-truly |  
+| bip_39_word_dash_6 | local-skate-story-alley-truly-frame |  
+| bip_39_word_dash_7 | local-skate-story-alley-truly-frame-reform |  
+| bip_39_word_dash_8 | local-skate-story-alley-truly-frame-reform-cram |  
+| bip_39_word_dash_9 | local-skate-story-alley-truly-frame-reform-cram-tree |  
 | bip_39_word_new_br_1 | local |  
 | bip_39_word_new_br_10 | local<br>skate<br>story<br>alley<br>truly<br>frame<br>reform<br>cram<br>tree<br>zero |  
 | bip_39_word_new_br_11 | local<br>skate<br>story<br>alley<br>truly<br>frame<br>reform<br>cram<br>tree<br>zero<br>milk |  
@@ -147,6 +159,18 @@ tree |
 | bip_39_word_space_7 | local skate story alley truly frame reform |  
 | bip_39_word_space_8 | local skate story alley truly frame reform cram |  
 | bip_39_word_space_9 | local skate story alley truly frame reform cram tree |  
+| bip_39_word_underscore_1 | local |  
+| bip_39_word_underscore_10 | local_skate_story_alley_truly_frame_reform_cram_tree_zero |  
+| bip_39_word_underscore_11 | local_skate_story_alley_truly_frame_reform_cram_tree_zero_milk |  
+| bip_39_word_underscore_12 | local_skate_story_alley_truly_frame_reform_cram_tree_zero_milk_among |  
+| bip_39_word_underscore_2 | local_skate |  
+| bip_39_word_underscore_3 | local_skate_story |  
+| bip_39_word_underscore_4 | local_skate_story_alley |  
+| bip_39_word_underscore_5 | local_skate_story_alley_truly |  
+| bip_39_word_underscore_6 | local_skate_story_alley_truly_frame |  
+| bip_39_word_underscore_7 | local_skate_story_alley_truly_frame_reform |  
+| bip_39_word_underscore_8 | local_skate_story_alley_truly_frame_reform_cram |  
+| bip_39_word_underscore_9 | local_skate_story_alley_truly_frame_reform_cram_tree |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

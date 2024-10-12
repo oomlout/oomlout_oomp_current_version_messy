@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | village |  
+| bip_39_word_dash_10 | village-identify-island-front-sheriff-suit-hunt-gasp-kit-miss |  
+| bip_39_word_dash_11 | village-identify-island-front-sheriff-suit-hunt-gasp-kit-miss-pen |  
+| bip_39_word_dash_12 | village-identify-island-front-sheriff-suit-hunt-gasp-kit-miss-pen-ability |  
+| bip_39_word_dash_2 | village-identify |  
+| bip_39_word_dash_3 | village-identify-island |  
+| bip_39_word_dash_4 | village-identify-island-front |  
+| bip_39_word_dash_5 | village-identify-island-front-sheriff |  
+| bip_39_word_dash_6 | village-identify-island-front-sheriff-suit |  
+| bip_39_word_dash_7 | village-identify-island-front-sheriff-suit-hunt |  
+| bip_39_word_dash_8 | village-identify-island-front-sheriff-suit-hunt-gasp |  
+| bip_39_word_dash_9 | village-identify-island-front-sheriff-suit-hunt-gasp-kit |  
 | bip_39_word_new_br_1 | village |  
 | bip_39_word_new_br_10 | village<br>identify<br>island<br>front<br>sheriff<br>suit<br>hunt<br>gasp<br>kit<br>miss |  
 | bip_39_word_new_br_11 | village<br>identify<br>island<br>front<br>sheriff<br>suit<br>hunt<br>gasp<br>kit<br>miss<br>pen |  
@@ -147,6 +159,18 @@ kit |
 | bip_39_word_space_7 | village identify island front sheriff suit hunt |  
 | bip_39_word_space_8 | village identify island front sheriff suit hunt gasp |  
 | bip_39_word_space_9 | village identify island front sheriff suit hunt gasp kit |  
+| bip_39_word_underscore_1 | village |  
+| bip_39_word_underscore_10 | village_identify_island_front_sheriff_suit_hunt_gasp_kit_miss |  
+| bip_39_word_underscore_11 | village_identify_island_front_sheriff_suit_hunt_gasp_kit_miss_pen |  
+| bip_39_word_underscore_12 | village_identify_island_front_sheriff_suit_hunt_gasp_kit_miss_pen_ability |  
+| bip_39_word_underscore_2 | village_identify |  
+| bip_39_word_underscore_3 | village_identify_island |  
+| bip_39_word_underscore_4 | village_identify_island_front |  
+| bip_39_word_underscore_5 | village_identify_island_front_sheriff |  
+| bip_39_word_underscore_6 | village_identify_island_front_sheriff_suit |  
+| bip_39_word_underscore_7 | village_identify_island_front_sheriff_suit_hunt |  
+| bip_39_word_underscore_8 | village_identify_island_front_sheriff_suit_hunt_gasp |  
+| bip_39_word_underscore_9 | village_identify_island_front_sheriff_suit_hunt_gasp_kit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

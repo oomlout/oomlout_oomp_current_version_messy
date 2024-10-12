@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blame |  
+| bip_39_word_dash_10 | blame-river-buzz-slab-bounce-rifle-cherry-you-way-crouch |  
+| bip_39_word_dash_11 | blame-river-buzz-slab-bounce-rifle-cherry-you-way-crouch-song |  
+| bip_39_word_dash_12 | blame-river-buzz-slab-bounce-rifle-cherry-you-way-crouch-song-allow |  
+| bip_39_word_dash_2 | blame-river |  
+| bip_39_word_dash_3 | blame-river-buzz |  
+| bip_39_word_dash_4 | blame-river-buzz-slab |  
+| bip_39_word_dash_5 | blame-river-buzz-slab-bounce |  
+| bip_39_word_dash_6 | blame-river-buzz-slab-bounce-rifle |  
+| bip_39_word_dash_7 | blame-river-buzz-slab-bounce-rifle-cherry |  
+| bip_39_word_dash_8 | blame-river-buzz-slab-bounce-rifle-cherry-you |  
+| bip_39_word_dash_9 | blame-river-buzz-slab-bounce-rifle-cherry-you-way |  
 | bip_39_word_new_br_1 | blame |  
 | bip_39_word_new_br_10 | blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you<br>way<br>crouch |  
 | bip_39_word_new_br_11 | blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you<br>way<br>crouch<br>song |  
@@ -147,6 +159,18 @@ way |
 | bip_39_word_space_7 | blame river buzz slab bounce rifle cherry |  
 | bip_39_word_space_8 | blame river buzz slab bounce rifle cherry you |  
 | bip_39_word_space_9 | blame river buzz slab bounce rifle cherry you way |  
+| bip_39_word_underscore_1 | blame |  
+| bip_39_word_underscore_10 | blame_river_buzz_slab_bounce_rifle_cherry_you_way_crouch |  
+| bip_39_word_underscore_11 | blame_river_buzz_slab_bounce_rifle_cherry_you_way_crouch_song |  
+| bip_39_word_underscore_12 | blame_river_buzz_slab_bounce_rifle_cherry_you_way_crouch_song_allow |  
+| bip_39_word_underscore_2 | blame_river |  
+| bip_39_word_underscore_3 | blame_river_buzz |  
+| bip_39_word_underscore_4 | blame_river_buzz_slab |  
+| bip_39_word_underscore_5 | blame_river_buzz_slab_bounce |  
+| bip_39_word_underscore_6 | blame_river_buzz_slab_bounce_rifle |  
+| bip_39_word_underscore_7 | blame_river_buzz_slab_bounce_rifle_cherry |  
+| bip_39_word_underscore_8 | blame_river_buzz_slab_bounce_rifle_cherry_you |  
+| bip_39_word_underscore_9 | blame_river_buzz_slab_bounce_rifle_cherry_you_way |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

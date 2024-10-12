@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | romance |  
+| bip_39_word_dash_10 | romance-black-fold-guess-muffin-high-cousin-immense-oblige-trim |  
+| bip_39_word_dash_11 | romance-black-fold-guess-muffin-high-cousin-immense-oblige-trim-effort |  
+| bip_39_word_dash_12 | romance-black-fold-guess-muffin-high-cousin-immense-oblige-trim-effort-another |  
+| bip_39_word_dash_2 | romance-black |  
+| bip_39_word_dash_3 | romance-black-fold |  
+| bip_39_word_dash_4 | romance-black-fold-guess |  
+| bip_39_word_dash_5 | romance-black-fold-guess-muffin |  
+| bip_39_word_dash_6 | romance-black-fold-guess-muffin-high |  
+| bip_39_word_dash_7 | romance-black-fold-guess-muffin-high-cousin |  
+| bip_39_word_dash_8 | romance-black-fold-guess-muffin-high-cousin-immense |  
+| bip_39_word_dash_9 | romance-black-fold-guess-muffin-high-cousin-immense-oblige |  
 | bip_39_word_new_br_1 | romance |  
 | bip_39_word_new_br_10 | romance<br>black<br>fold<br>guess<br>muffin<br>high<br>cousin<br>immense<br>oblige<br>trim |  
 | bip_39_word_new_br_11 | romance<br>black<br>fold<br>guess<br>muffin<br>high<br>cousin<br>immense<br>oblige<br>trim<br>effort |  
@@ -147,6 +159,18 @@ oblige |
 | bip_39_word_space_7 | romance black fold guess muffin high cousin |  
 | bip_39_word_space_8 | romance black fold guess muffin high cousin immense |  
 | bip_39_word_space_9 | romance black fold guess muffin high cousin immense oblige |  
+| bip_39_word_underscore_1 | romance |  
+| bip_39_word_underscore_10 | romance_black_fold_guess_muffin_high_cousin_immense_oblige_trim |  
+| bip_39_word_underscore_11 | romance_black_fold_guess_muffin_high_cousin_immense_oblige_trim_effort |  
+| bip_39_word_underscore_12 | romance_black_fold_guess_muffin_high_cousin_immense_oblige_trim_effort_another |  
+| bip_39_word_underscore_2 | romance_black |  
+| bip_39_word_underscore_3 | romance_black_fold |  
+| bip_39_word_underscore_4 | romance_black_fold_guess |  
+| bip_39_word_underscore_5 | romance_black_fold_guess_muffin |  
+| bip_39_word_underscore_6 | romance_black_fold_guess_muffin_high |  
+| bip_39_word_underscore_7 | romance_black_fold_guess_muffin_high_cousin |  
+| bip_39_word_underscore_8 | romance_black_fold_guess_muffin_high_cousin_immense |  
+| bip_39_word_underscore_9 | romance_black_fold_guess_muffin_high_cousin_immense_oblige |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

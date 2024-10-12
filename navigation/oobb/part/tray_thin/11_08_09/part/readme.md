@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | unit |  
+| bip_39_word_dash_10 | unit-candy-put-wire-dolphin-egg-enlist-stove-bargain-mobile |  
+| bip_39_word_dash_11 | unit-candy-put-wire-dolphin-egg-enlist-stove-bargain-mobile-vast |  
+| bip_39_word_dash_12 | unit-candy-put-wire-dolphin-egg-enlist-stove-bargain-mobile-vast-assist |  
+| bip_39_word_dash_2 | unit-candy |  
+| bip_39_word_dash_3 | unit-candy-put |  
+| bip_39_word_dash_4 | unit-candy-put-wire |  
+| bip_39_word_dash_5 | unit-candy-put-wire-dolphin |  
+| bip_39_word_dash_6 | unit-candy-put-wire-dolphin-egg |  
+| bip_39_word_dash_7 | unit-candy-put-wire-dolphin-egg-enlist |  
+| bip_39_word_dash_8 | unit-candy-put-wire-dolphin-egg-enlist-stove |  
+| bip_39_word_dash_9 | unit-candy-put-wire-dolphin-egg-enlist-stove-bargain |  
 | bip_39_word_new_br_1 | unit |  
 | bip_39_word_new_br_10 | unit<br>candy<br>put<br>wire<br>dolphin<br>egg<br>enlist<br>stove<br>bargain<br>mobile |  
 | bip_39_word_new_br_11 | unit<br>candy<br>put<br>wire<br>dolphin<br>egg<br>enlist<br>stove<br>bargain<br>mobile<br>vast |  
@@ -147,6 +159,18 @@ bargain |
 | bip_39_word_space_7 | unit candy put wire dolphin egg enlist |  
 | bip_39_word_space_8 | unit candy put wire dolphin egg enlist stove |  
 | bip_39_word_space_9 | unit candy put wire dolphin egg enlist stove bargain |  
+| bip_39_word_underscore_1 | unit |  
+| bip_39_word_underscore_10 | unit_candy_put_wire_dolphin_egg_enlist_stove_bargain_mobile |  
+| bip_39_word_underscore_11 | unit_candy_put_wire_dolphin_egg_enlist_stove_bargain_mobile_vast |  
+| bip_39_word_underscore_12 | unit_candy_put_wire_dolphin_egg_enlist_stove_bargain_mobile_vast_assist |  
+| bip_39_word_underscore_2 | unit_candy |  
+| bip_39_word_underscore_3 | unit_candy_put |  
+| bip_39_word_underscore_4 | unit_candy_put_wire |  
+| bip_39_word_underscore_5 | unit_candy_put_wire_dolphin |  
+| bip_39_word_underscore_6 | unit_candy_put_wire_dolphin_egg |  
+| bip_39_word_underscore_7 | unit_candy_put_wire_dolphin_egg_enlist |  
+| bip_39_word_underscore_8 | unit_candy_put_wire_dolphin_egg_enlist_stove |  
+| bip_39_word_underscore_9 | unit_candy_put_wire_dolphin_egg_enlist_stove_bargain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: maze
+bip_39_word_dash_10: maze-similar-you-wolf-until-pen-kiwi-salt-soda-oil
+bip_39_word_dash_11: maze-similar-you-wolf-until-pen-kiwi-salt-soda-oil-bag
+bip_39_word_dash_12: maze-similar-you-wolf-until-pen-kiwi-salt-soda-oil-bag-august
+bip_39_word_dash_2: maze-similar
+bip_39_word_dash_3: maze-similar-you
+bip_39_word_dash_4: maze-similar-you-wolf
+bip_39_word_dash_5: maze-similar-you-wolf-until
+bip_39_word_dash_6: maze-similar-you-wolf-until-pen
+bip_39_word_dash_7: maze-similar-you-wolf-until-pen-kiwi
+bip_39_word_dash_8: maze-similar-you-wolf-until-pen-kiwi-salt
+bip_39_word_dash_9: maze-similar-you-wolf-until-pen-kiwi-salt-soda
 bip_39_word_new_br_1: maze
 bip_39_word_new_br_10: maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil
 bip_39_word_new_br_11: maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil<br>bag
@@ -191,6 +203,18 @@ bip_39_word_space_6: maze similar you wolf until pen
 bip_39_word_space_7: maze similar you wolf until pen kiwi
 bip_39_word_space_8: maze similar you wolf until pen kiwi salt
 bip_39_word_space_9: maze similar you wolf until pen kiwi salt soda
+bip_39_word_underscore_1: maze
+bip_39_word_underscore_10: maze_similar_you_wolf_until_pen_kiwi_salt_soda_oil
+bip_39_word_underscore_11: maze_similar_you_wolf_until_pen_kiwi_salt_soda_oil_bag
+bip_39_word_underscore_12: maze_similar_you_wolf_until_pen_kiwi_salt_soda_oil_bag_august
+bip_39_word_underscore_2: maze_similar
+bip_39_word_underscore_3: maze_similar_you
+bip_39_word_underscore_4: maze_similar_you_wolf
+bip_39_word_underscore_5: maze_similar_you_wolf_until
+bip_39_word_underscore_6: maze_similar_you_wolf_until_pen
+bip_39_word_underscore_7: maze_similar_you_wolf_until_pen_kiwi
+bip_39_word_underscore_8: maze_similar_you_wolf_until_pen_kiwi_salt
+bip_39_word_underscore_9: maze_similar_you_wolf_until_pen_kiwi_salt_soda
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

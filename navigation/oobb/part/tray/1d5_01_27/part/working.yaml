@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ill
+bip_39_word_dash_10: ill-length-cat-napkin-gate-either-weasel-iron-awkward-alley
+bip_39_word_dash_11: ill-length-cat-napkin-gate-either-weasel-iron-awkward-alley-unable
+bip_39_word_dash_12: ill-length-cat-napkin-gate-either-weasel-iron-awkward-alley-unable-avocado
+bip_39_word_dash_2: ill-length
+bip_39_word_dash_3: ill-length-cat
+bip_39_word_dash_4: ill-length-cat-napkin
+bip_39_word_dash_5: ill-length-cat-napkin-gate
+bip_39_word_dash_6: ill-length-cat-napkin-gate-either
+bip_39_word_dash_7: ill-length-cat-napkin-gate-either-weasel
+bip_39_word_dash_8: ill-length-cat-napkin-gate-either-weasel-iron
+bip_39_word_dash_9: ill-length-cat-napkin-gate-either-weasel-iron-awkward
 bip_39_word_new_br_1: ill
 bip_39_word_new_br_10: ill<br>length<br>cat<br>napkin<br>gate<br>either<br>weasel<br>iron<br>awkward<br>alley
 bip_39_word_new_br_11: ill<br>length<br>cat<br>napkin<br>gate<br>either<br>weasel<br>iron<br>awkward<br>alley<br>unable
@@ -193,6 +205,18 @@ bip_39_word_space_6: ill length cat napkin gate either
 bip_39_word_space_7: ill length cat napkin gate either weasel
 bip_39_word_space_8: ill length cat napkin gate either weasel iron
 bip_39_word_space_9: ill length cat napkin gate either weasel iron awkward
+bip_39_word_underscore_1: ill
+bip_39_word_underscore_10: ill_length_cat_napkin_gate_either_weasel_iron_awkward_alley
+bip_39_word_underscore_11: ill_length_cat_napkin_gate_either_weasel_iron_awkward_alley_unable
+bip_39_word_underscore_12: ill_length_cat_napkin_gate_either_weasel_iron_awkward_alley_unable_avocado
+bip_39_word_underscore_2: ill_length
+bip_39_word_underscore_3: ill_length_cat
+bip_39_word_underscore_4: ill_length_cat_napkin
+bip_39_word_underscore_5: ill_length_cat_napkin_gate
+bip_39_word_underscore_6: ill_length_cat_napkin_gate_either
+bip_39_word_underscore_7: ill_length_cat_napkin_gate_either_weasel
+bip_39_word_underscore_8: ill_length_cat_napkin_gate_either_weasel_iron
+bip_39_word_underscore_9: ill_length_cat_napkin_gate_either_weasel_iron_awkward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

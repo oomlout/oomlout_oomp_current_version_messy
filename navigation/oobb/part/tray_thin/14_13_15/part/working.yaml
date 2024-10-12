@@ -1,3 +1,15 @@
+bip_39_word_dash_1: aisle
+bip_39_word_dash_10: aisle-bid-feed-minor-fix-mansion-cement-depth-increase-engage
+bip_39_word_dash_11: aisle-bid-feed-minor-fix-mansion-cement-depth-increase-engage-egg
+bip_39_word_dash_12: aisle-bid-feed-minor-fix-mansion-cement-depth-increase-engage-egg-amount
+bip_39_word_dash_2: aisle-bid
+bip_39_word_dash_3: aisle-bid-feed
+bip_39_word_dash_4: aisle-bid-feed-minor
+bip_39_word_dash_5: aisle-bid-feed-minor-fix
+bip_39_word_dash_6: aisle-bid-feed-minor-fix-mansion
+bip_39_word_dash_7: aisle-bid-feed-minor-fix-mansion-cement
+bip_39_word_dash_8: aisle-bid-feed-minor-fix-mansion-cement-depth
+bip_39_word_dash_9: aisle-bid-feed-minor-fix-mansion-cement-depth-increase
 bip_39_word_new_br_1: aisle
 bip_39_word_new_br_10: aisle<br>bid<br>feed<br>minor<br>fix<br>mansion<br>cement<br>depth<br>increase<br>engage
 bip_39_word_new_br_11: aisle<br>bid<br>feed<br>minor<br>fix<br>mansion<br>cement<br>depth<br>increase<br>engage<br>egg
@@ -193,6 +205,18 @@ bip_39_word_space_6: aisle bid feed minor fix mansion
 bip_39_word_space_7: aisle bid feed minor fix mansion cement
 bip_39_word_space_8: aisle bid feed minor fix mansion cement depth
 bip_39_word_space_9: aisle bid feed minor fix mansion cement depth increase
+bip_39_word_underscore_1: aisle
+bip_39_word_underscore_10: aisle_bid_feed_minor_fix_mansion_cement_depth_increase_engage
+bip_39_word_underscore_11: aisle_bid_feed_minor_fix_mansion_cement_depth_increase_engage_egg
+bip_39_word_underscore_12: aisle_bid_feed_minor_fix_mansion_cement_depth_increase_engage_egg_amount
+bip_39_word_underscore_2: aisle_bid
+bip_39_word_underscore_3: aisle_bid_feed
+bip_39_word_underscore_4: aisle_bid_feed_minor
+bip_39_word_underscore_5: aisle_bid_feed_minor_fix
+bip_39_word_underscore_6: aisle_bid_feed_minor_fix_mansion
+bip_39_word_underscore_7: aisle_bid_feed_minor_fix_mansion_cement
+bip_39_word_underscore_8: aisle_bid_feed_minor_fix_mansion_cement_depth
+bip_39_word_underscore_9: aisle_bid_feed_minor_fix_mansion_cement_depth_increase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

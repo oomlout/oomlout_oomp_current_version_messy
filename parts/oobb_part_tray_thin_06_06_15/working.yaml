@@ -1,3 +1,15 @@
+bip_39_word_dash_1: climb
+bip_39_word_dash_10: climb-man-example-rail-web-remain-swear-deposit-basket-rain
+bip_39_word_dash_11: climb-man-example-rail-web-remain-swear-deposit-basket-rain-ranch
+bip_39_word_dash_12: climb-man-example-rail-web-remain-swear-deposit-basket-rain-ranch-alone
+bip_39_word_dash_2: climb-man
+bip_39_word_dash_3: climb-man-example
+bip_39_word_dash_4: climb-man-example-rail
+bip_39_word_dash_5: climb-man-example-rail-web
+bip_39_word_dash_6: climb-man-example-rail-web-remain
+bip_39_word_dash_7: climb-man-example-rail-web-remain-swear
+bip_39_word_dash_8: climb-man-example-rail-web-remain-swear-deposit
+bip_39_word_dash_9: climb-man-example-rail-web-remain-swear-deposit-basket
 bip_39_word_new_br_1: climb
 bip_39_word_new_br_10: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit<br>basket<br>rain
 bip_39_word_new_br_11: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit<br>basket<br>rain<br>ranch
@@ -193,6 +205,18 @@ bip_39_word_space_6: climb man example rail web remain
 bip_39_word_space_7: climb man example rail web remain swear
 bip_39_word_space_8: climb man example rail web remain swear deposit
 bip_39_word_space_9: climb man example rail web remain swear deposit basket
+bip_39_word_underscore_1: climb
+bip_39_word_underscore_10: climb_man_example_rail_web_remain_swear_deposit_basket_rain
+bip_39_word_underscore_11: climb_man_example_rail_web_remain_swear_deposit_basket_rain_ranch
+bip_39_word_underscore_12: climb_man_example_rail_web_remain_swear_deposit_basket_rain_ranch_alone
+bip_39_word_underscore_2: climb_man
+bip_39_word_underscore_3: climb_man_example
+bip_39_word_underscore_4: climb_man_example_rail
+bip_39_word_underscore_5: climb_man_example_rail_web
+bip_39_word_underscore_6: climb_man_example_rail_web_remain
+bip_39_word_underscore_7: climb_man_example_rail_web_remain_swear
+bip_39_word_underscore_8: climb_man_example_rail_web_remain_swear_deposit
+bip_39_word_underscore_9: climb_man_example_rail_web_remain_swear_deposit_basket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

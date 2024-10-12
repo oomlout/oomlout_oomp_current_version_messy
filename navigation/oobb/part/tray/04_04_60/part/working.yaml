@@ -1,3 +1,15 @@
+bip_39_word_dash_1: better
+bip_39_word_dash_10: better-token-prize-census-response-proof-jar-pyramid-lawn-provide
+bip_39_word_dash_11: better-token-prize-census-response-proof-jar-pyramid-lawn-provide-close
+bip_39_word_dash_12: better-token-prize-census-response-proof-jar-pyramid-lawn-provide-close-arm
+bip_39_word_dash_2: better-token
+bip_39_word_dash_3: better-token-prize
+bip_39_word_dash_4: better-token-prize-census
+bip_39_word_dash_5: better-token-prize-census-response
+bip_39_word_dash_6: better-token-prize-census-response-proof
+bip_39_word_dash_7: better-token-prize-census-response-proof-jar
+bip_39_word_dash_8: better-token-prize-census-response-proof-jar-pyramid
+bip_39_word_dash_9: better-token-prize-census-response-proof-jar-pyramid-lawn
 bip_39_word_new_br_1: better
 bip_39_word_new_br_10: better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide
 bip_39_word_new_br_11: better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide<br>close
@@ -193,6 +205,18 @@ bip_39_word_space_6: better token prize census response proof
 bip_39_word_space_7: better token prize census response proof jar
 bip_39_word_space_8: better token prize census response proof jar pyramid
 bip_39_word_space_9: better token prize census response proof jar pyramid lawn
+bip_39_word_underscore_1: better
+bip_39_word_underscore_10: better_token_prize_census_response_proof_jar_pyramid_lawn_provide
+bip_39_word_underscore_11: better_token_prize_census_response_proof_jar_pyramid_lawn_provide_close
+bip_39_word_underscore_12: better_token_prize_census_response_proof_jar_pyramid_lawn_provide_close_arm
+bip_39_word_underscore_2: better_token
+bip_39_word_underscore_3: better_token_prize
+bip_39_word_underscore_4: better_token_prize_census
+bip_39_word_underscore_5: better_token_prize_census_response
+bip_39_word_underscore_6: better_token_prize_census_response_proof
+bip_39_word_underscore_7: better_token_prize_census_response_proof_jar
+bip_39_word_underscore_8: better_token_prize_census_response_proof_jar_pyramid
+bip_39_word_underscore_9: better_token_prize_census_response_proof_jar_pyramid_lawn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

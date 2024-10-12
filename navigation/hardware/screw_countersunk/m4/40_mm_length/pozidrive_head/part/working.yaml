@@ -1,3 +1,15 @@
+bip_39_word_dash_1: remove
+bip_39_word_dash_10: remove-verify-thunder-salute-desert-armor-cabin-shop-can-bird
+bip_39_word_dash_11: remove-verify-thunder-salute-desert-armor-cabin-shop-can-bird-tunnel
+bip_39_word_dash_12: remove-verify-thunder-salute-desert-armor-cabin-shop-can-bird-tunnel-add
+bip_39_word_dash_2: remove-verify
+bip_39_word_dash_3: remove-verify-thunder
+bip_39_word_dash_4: remove-verify-thunder-salute
+bip_39_word_dash_5: remove-verify-thunder-salute-desert
+bip_39_word_dash_6: remove-verify-thunder-salute-desert-armor
+bip_39_word_dash_7: remove-verify-thunder-salute-desert-armor-cabin
+bip_39_word_dash_8: remove-verify-thunder-salute-desert-armor-cabin-shop
+bip_39_word_dash_9: remove-verify-thunder-salute-desert-armor-cabin-shop-can
 bip_39_word_new_br_1: remove
 bip_39_word_new_br_10: remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird
 bip_39_word_new_br_11: remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird<br>tunnel
@@ -193,6 +205,18 @@ bip_39_word_space_6: remove verify thunder salute desert armor
 bip_39_word_space_7: remove verify thunder salute desert armor cabin
 bip_39_word_space_8: remove verify thunder salute desert armor cabin shop
 bip_39_word_space_9: remove verify thunder salute desert armor cabin shop can
+bip_39_word_underscore_1: remove
+bip_39_word_underscore_10: remove_verify_thunder_salute_desert_armor_cabin_shop_can_bird
+bip_39_word_underscore_11: remove_verify_thunder_salute_desert_armor_cabin_shop_can_bird_tunnel
+bip_39_word_underscore_12: remove_verify_thunder_salute_desert_armor_cabin_shop_can_bird_tunnel_add
+bip_39_word_underscore_2: remove_verify
+bip_39_word_underscore_3: remove_verify_thunder
+bip_39_word_underscore_4: remove_verify_thunder_salute
+bip_39_word_underscore_5: remove_verify_thunder_salute_desert
+bip_39_word_underscore_6: remove_verify_thunder_salute_desert_armor
+bip_39_word_underscore_7: remove_verify_thunder_salute_desert_armor_cabin
+bip_39_word_underscore_8: remove_verify_thunder_salute_desert_armor_cabin_shop
+bip_39_word_underscore_9: remove_verify_thunder_salute_desert_armor_cabin_shop_can
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

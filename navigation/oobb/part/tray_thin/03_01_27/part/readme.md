@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | purity |  
+| bip_39_word_dash_10 | purity-life-parade-unveil-bar-wire-thing-shrimp-double-truth |  
+| bip_39_word_dash_11 | purity-life-parade-unveil-bar-wire-thing-shrimp-double-truth-budget |  
+| bip_39_word_dash_12 | purity-life-parade-unveil-bar-wire-thing-shrimp-double-truth-budget-amount |  
+| bip_39_word_dash_2 | purity-life |  
+| bip_39_word_dash_3 | purity-life-parade |  
+| bip_39_word_dash_4 | purity-life-parade-unveil |  
+| bip_39_word_dash_5 | purity-life-parade-unveil-bar |  
+| bip_39_word_dash_6 | purity-life-parade-unveil-bar-wire |  
+| bip_39_word_dash_7 | purity-life-parade-unveil-bar-wire-thing |  
+| bip_39_word_dash_8 | purity-life-parade-unveil-bar-wire-thing-shrimp |  
+| bip_39_word_dash_9 | purity-life-parade-unveil-bar-wire-thing-shrimp-double |  
 | bip_39_word_new_br_1 | purity |  
 | bip_39_word_new_br_10 | purity<br>life<br>parade<br>unveil<br>bar<br>wire<br>thing<br>shrimp<br>double<br>truth |  
 | bip_39_word_new_br_11 | purity<br>life<br>parade<br>unveil<br>bar<br>wire<br>thing<br>shrimp<br>double<br>truth<br>budget |  
@@ -147,6 +159,18 @@ double |
 | bip_39_word_space_7 | purity life parade unveil bar wire thing |  
 | bip_39_word_space_8 | purity life parade unveil bar wire thing shrimp |  
 | bip_39_word_space_9 | purity life parade unveil bar wire thing shrimp double |  
+| bip_39_word_underscore_1 | purity |  
+| bip_39_word_underscore_10 | purity_life_parade_unveil_bar_wire_thing_shrimp_double_truth |  
+| bip_39_word_underscore_11 | purity_life_parade_unveil_bar_wire_thing_shrimp_double_truth_budget |  
+| bip_39_word_underscore_12 | purity_life_parade_unveil_bar_wire_thing_shrimp_double_truth_budget_amount |  
+| bip_39_word_underscore_2 | purity_life |  
+| bip_39_word_underscore_3 | purity_life_parade |  
+| bip_39_word_underscore_4 | purity_life_parade_unveil |  
+| bip_39_word_underscore_5 | purity_life_parade_unveil_bar |  
+| bip_39_word_underscore_6 | purity_life_parade_unveil_bar_wire |  
+| bip_39_word_underscore_7 | purity_life_parade_unveil_bar_wire_thing |  
+| bip_39_word_underscore_8 | purity_life_parade_unveil_bar_wire_thing_shrimp |  
+| bip_39_word_underscore_9 | purity_life_parade_unveil_bar_wire_thing_shrimp_double |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

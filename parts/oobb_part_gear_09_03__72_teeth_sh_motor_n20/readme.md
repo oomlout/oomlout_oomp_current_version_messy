@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | large |  
+| bip_39_word_dash_10 | large-toddler-trick-pitch-suspect-angle-above-blouse-donkey-float |  
+| bip_39_word_dash_11 | large-toddler-trick-pitch-suspect-angle-above-blouse-donkey-float-end |  
+| bip_39_word_dash_12 | large-toddler-trick-pitch-suspect-angle-above-blouse-donkey-float-end-already |  
+| bip_39_word_dash_2 | large-toddler |  
+| bip_39_word_dash_3 | large-toddler-trick |  
+| bip_39_word_dash_4 | large-toddler-trick-pitch |  
+| bip_39_word_dash_5 | large-toddler-trick-pitch-suspect |  
+| bip_39_word_dash_6 | large-toddler-trick-pitch-suspect-angle |  
+| bip_39_word_dash_7 | large-toddler-trick-pitch-suspect-angle-above |  
+| bip_39_word_dash_8 | large-toddler-trick-pitch-suspect-angle-above-blouse |  
+| bip_39_word_dash_9 | large-toddler-trick-pitch-suspect-angle-above-blouse-donkey |  
 | bip_39_word_new_br_1 | large |  
 | bip_39_word_new_br_10 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float |  
 | bip_39_word_new_br_11 | large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float<br>end |  
@@ -147,6 +159,18 @@ donkey |
 | bip_39_word_space_7 | large toddler trick pitch suspect angle above |  
 | bip_39_word_space_8 | large toddler trick pitch suspect angle above blouse |  
 | bip_39_word_space_9 | large toddler trick pitch suspect angle above blouse donkey |  
+| bip_39_word_underscore_1 | large |  
+| bip_39_word_underscore_10 | large_toddler_trick_pitch_suspect_angle_above_blouse_donkey_float |  
+| bip_39_word_underscore_11 | large_toddler_trick_pitch_suspect_angle_above_blouse_donkey_float_end |  
+| bip_39_word_underscore_12 | large_toddler_trick_pitch_suspect_angle_above_blouse_donkey_float_end_already |  
+| bip_39_word_underscore_2 | large_toddler |  
+| bip_39_word_underscore_3 | large_toddler_trick |  
+| bip_39_word_underscore_4 | large_toddler_trick_pitch |  
+| bip_39_word_underscore_5 | large_toddler_trick_pitch_suspect |  
+| bip_39_word_underscore_6 | large_toddler_trick_pitch_suspect_angle |  
+| bip_39_word_underscore_7 | large_toddler_trick_pitch_suspect_angle_above |  
+| bip_39_word_underscore_8 | large_toddler_trick_pitch_suspect_angle_above_blouse |  
+| bip_39_word_underscore_9 | large_toddler_trick_pitch_suspect_angle_above_blouse_donkey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

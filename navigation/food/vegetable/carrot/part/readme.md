@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | auto |  
+| bip_39_word_dash_10 | auto-angle-fury-wasp-funny-prosper-tongue-connect-mango-unique |  
+| bip_39_word_dash_11 | auto-angle-fury-wasp-funny-prosper-tongue-connect-mango-unique-milk |  
+| bip_39_word_dash_12 | auto-angle-fury-wasp-funny-prosper-tongue-connect-mango-unique-milk-action |  
+| bip_39_word_dash_2 | auto-angle |  
+| bip_39_word_dash_3 | auto-angle-fury |  
+| bip_39_word_dash_4 | auto-angle-fury-wasp |  
+| bip_39_word_dash_5 | auto-angle-fury-wasp-funny |  
+| bip_39_word_dash_6 | auto-angle-fury-wasp-funny-prosper |  
+| bip_39_word_dash_7 | auto-angle-fury-wasp-funny-prosper-tongue |  
+| bip_39_word_dash_8 | auto-angle-fury-wasp-funny-prosper-tongue-connect |  
+| bip_39_word_dash_9 | auto-angle-fury-wasp-funny-prosper-tongue-connect-mango |  
 | bip_39_word_new_br_1 | auto |  
 | bip_39_word_new_br_10 | auto<br>angle<br>fury<br>wasp<br>funny<br>prosper<br>tongue<br>connect<br>mango<br>unique |  
 | bip_39_word_new_br_11 | auto<br>angle<br>fury<br>wasp<br>funny<br>prosper<br>tongue<br>connect<br>mango<br>unique<br>milk |  
@@ -147,6 +159,18 @@ mango |
 | bip_39_word_space_7 | auto angle fury wasp funny prosper tongue |  
 | bip_39_word_space_8 | auto angle fury wasp funny prosper tongue connect |  
 | bip_39_word_space_9 | auto angle fury wasp funny prosper tongue connect mango |  
+| bip_39_word_underscore_1 | auto |  
+| bip_39_word_underscore_10 | auto_angle_fury_wasp_funny_prosper_tongue_connect_mango_unique |  
+| bip_39_word_underscore_11 | auto_angle_fury_wasp_funny_prosper_tongue_connect_mango_unique_milk |  
+| bip_39_word_underscore_12 | auto_angle_fury_wasp_funny_prosper_tongue_connect_mango_unique_milk_action |  
+| bip_39_word_underscore_2 | auto_angle |  
+| bip_39_word_underscore_3 | auto_angle_fury |  
+| bip_39_word_underscore_4 | auto_angle_fury_wasp |  
+| bip_39_word_underscore_5 | auto_angle_fury_wasp_funny |  
+| bip_39_word_underscore_6 | auto_angle_fury_wasp_funny_prosper |  
+| bip_39_word_underscore_7 | auto_angle_fury_wasp_funny_prosper_tongue |  
+| bip_39_word_underscore_8 | auto_angle_fury_wasp_funny_prosper_tongue_connect |  
+| bip_39_word_underscore_9 | auto_angle_fury_wasp_funny_prosper_tongue_connect_mango |  
 | classification | food |  
 | classification_capital | Food |  
 | classification_first_letter | f |  

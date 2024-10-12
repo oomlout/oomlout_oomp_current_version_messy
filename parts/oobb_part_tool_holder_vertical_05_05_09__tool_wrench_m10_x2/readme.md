@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | animal |  
+| bip_39_word_dash_10 | animal-hockey-nut-shell-discover-cover-ugly-slow-battle-can |  
+| bip_39_word_dash_11 | animal-hockey-nut-shell-discover-cover-ugly-slow-battle-can-reason |  
+| bip_39_word_dash_12 | animal-hockey-nut-shell-discover-cover-ugly-slow-battle-can-reason-accuse |  
+| bip_39_word_dash_2 | animal-hockey |  
+| bip_39_word_dash_3 | animal-hockey-nut |  
+| bip_39_word_dash_4 | animal-hockey-nut-shell |  
+| bip_39_word_dash_5 | animal-hockey-nut-shell-discover |  
+| bip_39_word_dash_6 | animal-hockey-nut-shell-discover-cover |  
+| bip_39_word_dash_7 | animal-hockey-nut-shell-discover-cover-ugly |  
+| bip_39_word_dash_8 | animal-hockey-nut-shell-discover-cover-ugly-slow |  
+| bip_39_word_dash_9 | animal-hockey-nut-shell-discover-cover-ugly-slow-battle |  
 | bip_39_word_new_br_1 | animal |  
 | bip_39_word_new_br_10 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can |  
 | bip_39_word_new_br_11 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can<br>reason |  
@@ -147,6 +159,18 @@ battle |
 | bip_39_word_space_7 | animal hockey nut shell discover cover ugly |  
 | bip_39_word_space_8 | animal hockey nut shell discover cover ugly slow |  
 | bip_39_word_space_9 | animal hockey nut shell discover cover ugly slow battle |  
+| bip_39_word_underscore_1 | animal |  
+| bip_39_word_underscore_10 | animal_hockey_nut_shell_discover_cover_ugly_slow_battle_can |  
+| bip_39_word_underscore_11 | animal_hockey_nut_shell_discover_cover_ugly_slow_battle_can_reason |  
+| bip_39_word_underscore_12 | animal_hockey_nut_shell_discover_cover_ugly_slow_battle_can_reason_accuse |  
+| bip_39_word_underscore_2 | animal_hockey |  
+| bip_39_word_underscore_3 | animal_hockey_nut |  
+| bip_39_word_underscore_4 | animal_hockey_nut_shell |  
+| bip_39_word_underscore_5 | animal_hockey_nut_shell_discover |  
+| bip_39_word_underscore_6 | animal_hockey_nut_shell_discover_cover |  
+| bip_39_word_underscore_7 | animal_hockey_nut_shell_discover_cover_ugly |  
+| bip_39_word_underscore_8 | animal_hockey_nut_shell_discover_cover_ugly_slow |  
+| bip_39_word_underscore_9 | animal_hockey_nut_shell_discover_cover_ugly_slow_battle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

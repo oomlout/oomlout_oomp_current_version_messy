@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | exact |  
+| bip_39_word_dash_10 | exact-another-quality-negative-dry-wisdom-nut-rocket-balcony-view |  
+| bip_39_word_dash_11 | exact-another-quality-negative-dry-wisdom-nut-rocket-balcony-view-punch |  
+| bip_39_word_dash_12 | exact-another-quality-negative-dry-wisdom-nut-rocket-balcony-view-punch-arch |  
+| bip_39_word_dash_2 | exact-another |  
+| bip_39_word_dash_3 | exact-another-quality |  
+| bip_39_word_dash_4 | exact-another-quality-negative |  
+| bip_39_word_dash_5 | exact-another-quality-negative-dry |  
+| bip_39_word_dash_6 | exact-another-quality-negative-dry-wisdom |  
+| bip_39_word_dash_7 | exact-another-quality-negative-dry-wisdom-nut |  
+| bip_39_word_dash_8 | exact-another-quality-negative-dry-wisdom-nut-rocket |  
+| bip_39_word_dash_9 | exact-another-quality-negative-dry-wisdom-nut-rocket-balcony |  
 | bip_39_word_new_br_1 | exact |  
 | bip_39_word_new_br_10 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket<br>balcony<br>view |  
 | bip_39_word_new_br_11 | exact<br>another<br>quality<br>negative<br>dry<br>wisdom<br>nut<br>rocket<br>balcony<br>view<br>punch |  
@@ -147,6 +159,18 @@ balcony |
 | bip_39_word_space_7 | exact another quality negative dry wisdom nut |  
 | bip_39_word_space_8 | exact another quality negative dry wisdom nut rocket |  
 | bip_39_word_space_9 | exact another quality negative dry wisdom nut rocket balcony |  
+| bip_39_word_underscore_1 | exact |  
+| bip_39_word_underscore_10 | exact_another_quality_negative_dry_wisdom_nut_rocket_balcony_view |  
+| bip_39_word_underscore_11 | exact_another_quality_negative_dry_wisdom_nut_rocket_balcony_view_punch |  
+| bip_39_word_underscore_12 | exact_another_quality_negative_dry_wisdom_nut_rocket_balcony_view_punch_arch |  
+| bip_39_word_underscore_2 | exact_another |  
+| bip_39_word_underscore_3 | exact_another_quality |  
+| bip_39_word_underscore_4 | exact_another_quality_negative |  
+| bip_39_word_underscore_5 | exact_another_quality_negative_dry |  
+| bip_39_word_underscore_6 | exact_another_quality_negative_dry_wisdom |  
+| bip_39_word_underscore_7 | exact_another_quality_negative_dry_wisdom_nut |  
+| bip_39_word_underscore_8 | exact_another_quality_negative_dry_wisdom_nut_rocket |  
+| bip_39_word_underscore_9 | exact_another_quality_negative_dry_wisdom_nut_rocket_balcony |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

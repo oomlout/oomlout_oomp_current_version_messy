@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shallow |  
+| bip_39_word_dash_10 | shallow-web-stuff-orange-wood-priority-summer-pass-page-current |  
+| bip_39_word_dash_11 | shallow-web-stuff-orange-wood-priority-summer-pass-page-current-orbit |  
+| bip_39_word_dash_12 | shallow-web-stuff-orange-wood-priority-summer-pass-page-current-orbit-autumn |  
+| bip_39_word_dash_2 | shallow-web |  
+| bip_39_word_dash_3 | shallow-web-stuff |  
+| bip_39_word_dash_4 | shallow-web-stuff-orange |  
+| bip_39_word_dash_5 | shallow-web-stuff-orange-wood |  
+| bip_39_word_dash_6 | shallow-web-stuff-orange-wood-priority |  
+| bip_39_word_dash_7 | shallow-web-stuff-orange-wood-priority-summer |  
+| bip_39_word_dash_8 | shallow-web-stuff-orange-wood-priority-summer-pass |  
+| bip_39_word_dash_9 | shallow-web-stuff-orange-wood-priority-summer-pass-page |  
 | bip_39_word_new_br_1 | shallow |  
 | bip_39_word_new_br_10 | shallow<br>web<br>stuff<br>orange<br>wood<br>priority<br>summer<br>pass<br>page<br>current |  
 | bip_39_word_new_br_11 | shallow<br>web<br>stuff<br>orange<br>wood<br>priority<br>summer<br>pass<br>page<br>current<br>orbit |  
@@ -147,6 +159,18 @@ page |
 | bip_39_word_space_7 | shallow web stuff orange wood priority summer |  
 | bip_39_word_space_8 | shallow web stuff orange wood priority summer pass |  
 | bip_39_word_space_9 | shallow web stuff orange wood priority summer pass page |  
+| bip_39_word_underscore_1 | shallow |  
+| bip_39_word_underscore_10 | shallow_web_stuff_orange_wood_priority_summer_pass_page_current |  
+| bip_39_word_underscore_11 | shallow_web_stuff_orange_wood_priority_summer_pass_page_current_orbit |  
+| bip_39_word_underscore_12 | shallow_web_stuff_orange_wood_priority_summer_pass_page_current_orbit_autumn |  
+| bip_39_word_underscore_2 | shallow_web |  
+| bip_39_word_underscore_3 | shallow_web_stuff |  
+| bip_39_word_underscore_4 | shallow_web_stuff_orange |  
+| bip_39_word_underscore_5 | shallow_web_stuff_orange_wood |  
+| bip_39_word_underscore_6 | shallow_web_stuff_orange_wood_priority |  
+| bip_39_word_underscore_7 | shallow_web_stuff_orange_wood_priority_summer |  
+| bip_39_word_underscore_8 | shallow_web_stuff_orange_wood_priority_summer_pass |  
+| bip_39_word_underscore_9 | shallow_web_stuff_orange_wood_priority_summer_pass_page |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

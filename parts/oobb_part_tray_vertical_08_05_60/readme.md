@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | subject |  
+| bip_39_word_dash_10 | subject-olympic-traffic-health-violin-absorb-dog-outdoor-general-cherry |  
+| bip_39_word_dash_11 | subject-olympic-traffic-health-violin-absorb-dog-outdoor-general-cherry-market |  
+| bip_39_word_dash_12 | subject-olympic-traffic-health-violin-absorb-dog-outdoor-general-cherry-market-apart |  
+| bip_39_word_dash_2 | subject-olympic |  
+| bip_39_word_dash_3 | subject-olympic-traffic |  
+| bip_39_word_dash_4 | subject-olympic-traffic-health |  
+| bip_39_word_dash_5 | subject-olympic-traffic-health-violin |  
+| bip_39_word_dash_6 | subject-olympic-traffic-health-violin-absorb |  
+| bip_39_word_dash_7 | subject-olympic-traffic-health-violin-absorb-dog |  
+| bip_39_word_dash_8 | subject-olympic-traffic-health-violin-absorb-dog-outdoor |  
+| bip_39_word_dash_9 | subject-olympic-traffic-health-violin-absorb-dog-outdoor-general |  
 | bip_39_word_new_br_1 | subject |  
 | bip_39_word_new_br_10 | subject<br>olympic<br>traffic<br>health<br>violin<br>absorb<br>dog<br>outdoor<br>general<br>cherry |  
 | bip_39_word_new_br_11 | subject<br>olympic<br>traffic<br>health<br>violin<br>absorb<br>dog<br>outdoor<br>general<br>cherry<br>market |  
@@ -147,6 +159,18 @@ general |
 | bip_39_word_space_7 | subject olympic traffic health violin absorb dog |  
 | bip_39_word_space_8 | subject olympic traffic health violin absorb dog outdoor |  
 | bip_39_word_space_9 | subject olympic traffic health violin absorb dog outdoor general |  
+| bip_39_word_underscore_1 | subject |  
+| bip_39_word_underscore_10 | subject_olympic_traffic_health_violin_absorb_dog_outdoor_general_cherry |  
+| bip_39_word_underscore_11 | subject_olympic_traffic_health_violin_absorb_dog_outdoor_general_cherry_market |  
+| bip_39_word_underscore_12 | subject_olympic_traffic_health_violin_absorb_dog_outdoor_general_cherry_market_apart |  
+| bip_39_word_underscore_2 | subject_olympic |  
+| bip_39_word_underscore_3 | subject_olympic_traffic |  
+| bip_39_word_underscore_4 | subject_olympic_traffic_health |  
+| bip_39_word_underscore_5 | subject_olympic_traffic_health_violin |  
+| bip_39_word_underscore_6 | subject_olympic_traffic_health_violin_absorb |  
+| bip_39_word_underscore_7 | subject_olympic_traffic_health_violin_absorb_dog |  
+| bip_39_word_underscore_8 | subject_olympic_traffic_health_violin_absorb_dog_outdoor |  
+| bip_39_word_underscore_9 | subject_olympic_traffic_health_violin_absorb_dog_outdoor_general |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

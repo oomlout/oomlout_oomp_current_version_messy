@@ -1,3 +1,15 @@
+bip_39_word_dash_1: limit
+bip_39_word_dash_10: limit-crane-sure-spike-desk-mosquito-fish-basic-merge-hole
+bip_39_word_dash_11: limit-crane-sure-spike-desk-mosquito-fish-basic-merge-hole-comic
+bip_39_word_dash_12: limit-crane-sure-spike-desk-mosquito-fish-basic-merge-hole-comic-afford
+bip_39_word_dash_2: limit-crane
+bip_39_word_dash_3: limit-crane-sure
+bip_39_word_dash_4: limit-crane-sure-spike
+bip_39_word_dash_5: limit-crane-sure-spike-desk
+bip_39_word_dash_6: limit-crane-sure-spike-desk-mosquito
+bip_39_word_dash_7: limit-crane-sure-spike-desk-mosquito-fish
+bip_39_word_dash_8: limit-crane-sure-spike-desk-mosquito-fish-basic
+bip_39_word_dash_9: limit-crane-sure-spike-desk-mosquito-fish-basic-merge
 bip_39_word_new_br_1: limit
 bip_39_word_new_br_10: limit<br>crane<br>sure<br>spike<br>desk<br>mosquito<br>fish<br>basic<br>merge<br>hole
 bip_39_word_new_br_11: limit<br>crane<br>sure<br>spike<br>desk<br>mosquito<br>fish<br>basic<br>merge<br>hole<br>comic
@@ -192,6 +204,18 @@ bip_39_word_space_6: limit crane sure spike desk mosquito
 bip_39_word_space_7: limit crane sure spike desk mosquito fish
 bip_39_word_space_8: limit crane sure spike desk mosquito fish basic
 bip_39_word_space_9: limit crane sure spike desk mosquito fish basic merge
+bip_39_word_underscore_1: limit
+bip_39_word_underscore_10: limit_crane_sure_spike_desk_mosquito_fish_basic_merge_hole
+bip_39_word_underscore_11: limit_crane_sure_spike_desk_mosquito_fish_basic_merge_hole_comic
+bip_39_word_underscore_12: limit_crane_sure_spike_desk_mosquito_fish_basic_merge_hole_comic_afford
+bip_39_word_underscore_2: limit_crane
+bip_39_word_underscore_3: limit_crane_sure
+bip_39_word_underscore_4: limit_crane_sure_spike
+bip_39_word_underscore_5: limit_crane_sure_spike_desk
+bip_39_word_underscore_6: limit_crane_sure_spike_desk_mosquito
+bip_39_word_underscore_7: limit_crane_sure_spike_desk_mosquito_fish
+bip_39_word_underscore_8: limit_crane_sure_spike_desk_mosquito_fish_basic
+bip_39_word_underscore_9: limit_crane_sure_spike_desk_mosquito_fish_basic_merge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

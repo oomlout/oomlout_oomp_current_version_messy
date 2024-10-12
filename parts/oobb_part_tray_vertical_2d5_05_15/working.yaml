@@ -1,3 +1,15 @@
+bip_39_word_dash_1: leg
+bip_39_word_dash_10: leg-glass-pause-eagle-history-fork-spare-dynamic-awesome-topic
+bip_39_word_dash_11: leg-glass-pause-eagle-history-fork-spare-dynamic-awesome-topic-fork
+bip_39_word_dash_12: leg-glass-pause-eagle-history-fork-spare-dynamic-awesome-topic-fork-ancient
+bip_39_word_dash_2: leg-glass
+bip_39_word_dash_3: leg-glass-pause
+bip_39_word_dash_4: leg-glass-pause-eagle
+bip_39_word_dash_5: leg-glass-pause-eagle-history
+bip_39_word_dash_6: leg-glass-pause-eagle-history-fork
+bip_39_word_dash_7: leg-glass-pause-eagle-history-fork-spare
+bip_39_word_dash_8: leg-glass-pause-eagle-history-fork-spare-dynamic
+bip_39_word_dash_9: leg-glass-pause-eagle-history-fork-spare-dynamic-awesome
 bip_39_word_new_br_1: leg
 bip_39_word_new_br_10: leg<br>glass<br>pause<br>eagle<br>history<br>fork<br>spare<br>dynamic<br>awesome<br>topic
 bip_39_word_new_br_11: leg<br>glass<br>pause<br>eagle<br>history<br>fork<br>spare<br>dynamic<br>awesome<br>topic<br>fork
@@ -193,6 +205,18 @@ bip_39_word_space_6: leg glass pause eagle history fork
 bip_39_word_space_7: leg glass pause eagle history fork spare
 bip_39_word_space_8: leg glass pause eagle history fork spare dynamic
 bip_39_word_space_9: leg glass pause eagle history fork spare dynamic awesome
+bip_39_word_underscore_1: leg
+bip_39_word_underscore_10: leg_glass_pause_eagle_history_fork_spare_dynamic_awesome_topic
+bip_39_word_underscore_11: leg_glass_pause_eagle_history_fork_spare_dynamic_awesome_topic_fork
+bip_39_word_underscore_12: leg_glass_pause_eagle_history_fork_spare_dynamic_awesome_topic_fork_ancient
+bip_39_word_underscore_2: leg_glass
+bip_39_word_underscore_3: leg_glass_pause
+bip_39_word_underscore_4: leg_glass_pause_eagle
+bip_39_word_underscore_5: leg_glass_pause_eagle_history
+bip_39_word_underscore_6: leg_glass_pause_eagle_history_fork
+bip_39_word_underscore_7: leg_glass_pause_eagle_history_fork_spare
+bip_39_word_underscore_8: leg_glass_pause_eagle_history_fork_spare_dynamic
+bip_39_word_underscore_9: leg_glass_pause_eagle_history_fork_spare_dynamic_awesome
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

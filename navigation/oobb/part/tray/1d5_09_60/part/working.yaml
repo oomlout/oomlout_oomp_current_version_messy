@@ -1,3 +1,15 @@
+bip_39_word_dash_1: suggest
+bip_39_word_dash_10: suggest-use-history-refuse-news-symptom-fuel-raise-liberty-original
+bip_39_word_dash_11: suggest-use-history-refuse-news-symptom-fuel-raise-liberty-original-brother
+bip_39_word_dash_12: suggest-use-history-refuse-news-symptom-fuel-raise-liberty-original-brother-area
+bip_39_word_dash_2: suggest-use
+bip_39_word_dash_3: suggest-use-history
+bip_39_word_dash_4: suggest-use-history-refuse
+bip_39_word_dash_5: suggest-use-history-refuse-news
+bip_39_word_dash_6: suggest-use-history-refuse-news-symptom
+bip_39_word_dash_7: suggest-use-history-refuse-news-symptom-fuel
+bip_39_word_dash_8: suggest-use-history-refuse-news-symptom-fuel-raise
+bip_39_word_dash_9: suggest-use-history-refuse-news-symptom-fuel-raise-liberty
 bip_39_word_new_br_1: suggest
 bip_39_word_new_br_10: suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original
 bip_39_word_new_br_11: suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original<br>brother
@@ -193,6 +205,18 @@ bip_39_word_space_6: suggest use history refuse news symptom
 bip_39_word_space_7: suggest use history refuse news symptom fuel
 bip_39_word_space_8: suggest use history refuse news symptom fuel raise
 bip_39_word_space_9: suggest use history refuse news symptom fuel raise liberty
+bip_39_word_underscore_1: suggest
+bip_39_word_underscore_10: suggest_use_history_refuse_news_symptom_fuel_raise_liberty_original
+bip_39_word_underscore_11: suggest_use_history_refuse_news_symptom_fuel_raise_liberty_original_brother
+bip_39_word_underscore_12: suggest_use_history_refuse_news_symptom_fuel_raise_liberty_original_brother_area
+bip_39_word_underscore_2: suggest_use
+bip_39_word_underscore_3: suggest_use_history
+bip_39_word_underscore_4: suggest_use_history_refuse
+bip_39_word_underscore_5: suggest_use_history_refuse_news
+bip_39_word_underscore_6: suggest_use_history_refuse_news_symptom
+bip_39_word_underscore_7: suggest_use_history_refuse_news_symptom_fuel
+bip_39_word_underscore_8: suggest_use_history_refuse_news_symptom_fuel_raise
+bip_39_word_underscore_9: suggest_use_history_refuse_news_symptom_fuel_raise_liberty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

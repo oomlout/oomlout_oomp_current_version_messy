@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | science |  
+| bip_39_word_dash_10 | science-tilt-embrace-little-hedgehog-diagram-crumble-whisper-rug-slide |  
+| bip_39_word_dash_11 | science-tilt-embrace-little-hedgehog-diagram-crumble-whisper-rug-slide-suspect |  
+| bip_39_word_dash_12 | science-tilt-embrace-little-hedgehog-diagram-crumble-whisper-rug-slide-suspect-always |  
+| bip_39_word_dash_2 | science-tilt |  
+| bip_39_word_dash_3 | science-tilt-embrace |  
+| bip_39_word_dash_4 | science-tilt-embrace-little |  
+| bip_39_word_dash_5 | science-tilt-embrace-little-hedgehog |  
+| bip_39_word_dash_6 | science-tilt-embrace-little-hedgehog-diagram |  
+| bip_39_word_dash_7 | science-tilt-embrace-little-hedgehog-diagram-crumble |  
+| bip_39_word_dash_8 | science-tilt-embrace-little-hedgehog-diagram-crumble-whisper |  
+| bip_39_word_dash_9 | science-tilt-embrace-little-hedgehog-diagram-crumble-whisper-rug |  
 | bip_39_word_new_br_1 | science |  
 | bip_39_word_new_br_10 | science<br>tilt<br>embrace<br>little<br>hedgehog<br>diagram<br>crumble<br>whisper<br>rug<br>slide |  
 | bip_39_word_new_br_11 | science<br>tilt<br>embrace<br>little<br>hedgehog<br>diagram<br>crumble<br>whisper<br>rug<br>slide<br>suspect |  
@@ -147,6 +159,18 @@ rug |
 | bip_39_word_space_7 | science tilt embrace little hedgehog diagram crumble |  
 | bip_39_word_space_8 | science tilt embrace little hedgehog diagram crumble whisper |  
 | bip_39_word_space_9 | science tilt embrace little hedgehog diagram crumble whisper rug |  
+| bip_39_word_underscore_1 | science |  
+| bip_39_word_underscore_10 | science_tilt_embrace_little_hedgehog_diagram_crumble_whisper_rug_slide |  
+| bip_39_word_underscore_11 | science_tilt_embrace_little_hedgehog_diagram_crumble_whisper_rug_slide_suspect |  
+| bip_39_word_underscore_12 | science_tilt_embrace_little_hedgehog_diagram_crumble_whisper_rug_slide_suspect_always |  
+| bip_39_word_underscore_2 | science_tilt |  
+| bip_39_word_underscore_3 | science_tilt_embrace |  
+| bip_39_word_underscore_4 | science_tilt_embrace_little |  
+| bip_39_word_underscore_5 | science_tilt_embrace_little_hedgehog |  
+| bip_39_word_underscore_6 | science_tilt_embrace_little_hedgehog_diagram |  
+| bip_39_word_underscore_7 | science_tilt_embrace_little_hedgehog_diagram_crumble |  
+| bip_39_word_underscore_8 | science_tilt_embrace_little_hedgehog_diagram_crumble_whisper |  
+| bip_39_word_underscore_9 | science_tilt_embrace_little_hedgehog_diagram_crumble_whisper_rug |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

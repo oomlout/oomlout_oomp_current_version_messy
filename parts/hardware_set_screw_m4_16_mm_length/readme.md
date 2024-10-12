@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cry |  
+| bip_39_word_dash_10 | cry-bless-base-kitten-glory-cost-science-bag-prefer-vacant |  
+| bip_39_word_dash_11 | cry-bless-base-kitten-glory-cost-science-bag-prefer-vacant-promote |  
+| bip_39_word_dash_12 | cry-bless-base-kitten-glory-cost-science-bag-prefer-vacant-promote-angry |  
+| bip_39_word_dash_2 | cry-bless |  
+| bip_39_word_dash_3 | cry-bless-base |  
+| bip_39_word_dash_4 | cry-bless-base-kitten |  
+| bip_39_word_dash_5 | cry-bless-base-kitten-glory |  
+| bip_39_word_dash_6 | cry-bless-base-kitten-glory-cost |  
+| bip_39_word_dash_7 | cry-bless-base-kitten-glory-cost-science |  
+| bip_39_word_dash_8 | cry-bless-base-kitten-glory-cost-science-bag |  
+| bip_39_word_dash_9 | cry-bless-base-kitten-glory-cost-science-bag-prefer |  
 | bip_39_word_new_br_1 | cry |  
 | bip_39_word_new_br_10 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag<br>prefer<br>vacant |  
 | bip_39_word_new_br_11 | cry<br>bless<br>base<br>kitten<br>glory<br>cost<br>science<br>bag<br>prefer<br>vacant<br>promote |  
@@ -147,6 +159,18 @@ prefer |
 | bip_39_word_space_7 | cry bless base kitten glory cost science |  
 | bip_39_word_space_8 | cry bless base kitten glory cost science bag |  
 | bip_39_word_space_9 | cry bless base kitten glory cost science bag prefer |  
+| bip_39_word_underscore_1 | cry |  
+| bip_39_word_underscore_10 | cry_bless_base_kitten_glory_cost_science_bag_prefer_vacant |  
+| bip_39_word_underscore_11 | cry_bless_base_kitten_glory_cost_science_bag_prefer_vacant_promote |  
+| bip_39_word_underscore_12 | cry_bless_base_kitten_glory_cost_science_bag_prefer_vacant_promote_angry |  
+| bip_39_word_underscore_2 | cry_bless |  
+| bip_39_word_underscore_3 | cry_bless_base |  
+| bip_39_word_underscore_4 | cry_bless_base_kitten |  
+| bip_39_word_underscore_5 | cry_bless_base_kitten_glory |  
+| bip_39_word_underscore_6 | cry_bless_base_kitten_glory_cost |  
+| bip_39_word_underscore_7 | cry_bless_base_kitten_glory_cost_science |  
+| bip_39_word_underscore_8 | cry_bless_base_kitten_glory_cost_science_bag |  
+| bip_39_word_underscore_9 | cry_bless_base_kitten_glory_cost_science_bag_prefer |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

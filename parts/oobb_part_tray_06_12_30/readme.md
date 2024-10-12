@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ahead |  
+| bip_39_word_dash_10 | ahead-rug-media-silver-hockey-crash-acquire-bamboo-trust-try |  
+| bip_39_word_dash_11 | ahead-rug-media-silver-hockey-crash-acquire-bamboo-trust-try-broccoli |  
+| bip_39_word_dash_2 | ahead-rug |  
+| bip_39_word_dash_3 | ahead-rug-media |  
+| bip_39_word_dash_4 | ahead-rug-media-silver |  
+| bip_39_word_dash_5 | ahead-rug-media-silver-hockey |  
+| bip_39_word_dash_6 | ahead-rug-media-silver-hockey-crash |  
+| bip_39_word_dash_7 | ahead-rug-media-silver-hockey-crash-acquire |  
+| bip_39_word_dash_8 | ahead-rug-media-silver-hockey-crash-acquire-bamboo |  
+| bip_39_word_dash_9 | ahead-rug-media-silver-hockey-crash-acquire-bamboo-trust |  
 | bip_39_word_new_br_1 | ahead |  
 | bip_39_word_new_br_10 | ahead<br>rug<br>media<br>silver<br>hockey<br>crash<br>acquire<br>bamboo<br>trust<br>try |  
 | bip_39_word_new_br_11 | ahead<br>rug<br>media<br>silver<br>hockey<br>crash<br>acquire<br>bamboo<br>trust<br>try<br>broccoli |  
@@ -132,6 +143,17 @@ trust |
 | bip_39_word_space_7 | ahead rug media silver hockey crash acquire |  
 | bip_39_word_space_8 | ahead rug media silver hockey crash acquire bamboo |  
 | bip_39_word_space_9 | ahead rug media silver hockey crash acquire bamboo trust |  
+| bip_39_word_underscore_1 | ahead |  
+| bip_39_word_underscore_10 | ahead_rug_media_silver_hockey_crash_acquire_bamboo_trust_try |  
+| bip_39_word_underscore_11 | ahead_rug_media_silver_hockey_crash_acquire_bamboo_trust_try_broccoli |  
+| bip_39_word_underscore_2 | ahead_rug |  
+| bip_39_word_underscore_3 | ahead_rug_media |  
+| bip_39_word_underscore_4 | ahead_rug_media_silver |  
+| bip_39_word_underscore_5 | ahead_rug_media_silver_hockey |  
+| bip_39_word_underscore_6 | ahead_rug_media_silver_hockey_crash |  
+| bip_39_word_underscore_7 | ahead_rug_media_silver_hockey_crash_acquire |  
+| bip_39_word_underscore_8 | ahead_rug_media_silver_hockey_crash_acquire_bamboo |  
+| bip_39_word_underscore_9 | ahead_rug_media_silver_hockey_crash_acquire_bamboo_trust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

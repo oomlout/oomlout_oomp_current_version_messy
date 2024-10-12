@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | scale |  
+| bip_39_word_dash_10 | scale-ability-alpha-brass-liberty-dad-noise-culture-bonus-aerobic |  
+| bip_39_word_dash_11 | scale-ability-alpha-brass-liberty-dad-noise-culture-bonus-aerobic-sibling |  
+| bip_39_word_dash_12 | scale-ability-alpha-brass-liberty-dad-noise-culture-bonus-aerobic-sibling-amazing |  
+| bip_39_word_dash_2 | scale-ability |  
+| bip_39_word_dash_3 | scale-ability-alpha |  
+| bip_39_word_dash_4 | scale-ability-alpha-brass |  
+| bip_39_word_dash_5 | scale-ability-alpha-brass-liberty |  
+| bip_39_word_dash_6 | scale-ability-alpha-brass-liberty-dad |  
+| bip_39_word_dash_7 | scale-ability-alpha-brass-liberty-dad-noise |  
+| bip_39_word_dash_8 | scale-ability-alpha-brass-liberty-dad-noise-culture |  
+| bip_39_word_dash_9 | scale-ability-alpha-brass-liberty-dad-noise-culture-bonus |  
 | bip_39_word_new_br_1 | scale |  
 | bip_39_word_new_br_10 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture<br>bonus<br>aerobic |  
 | bip_39_word_new_br_11 | scale<br>ability<br>alpha<br>brass<br>liberty<br>dad<br>noise<br>culture<br>bonus<br>aerobic<br>sibling |  
@@ -147,6 +159,18 @@ bonus |
 | bip_39_word_space_7 | scale ability alpha brass liberty dad noise |  
 | bip_39_word_space_8 | scale ability alpha brass liberty dad noise culture |  
 | bip_39_word_space_9 | scale ability alpha brass liberty dad noise culture bonus |  
+| bip_39_word_underscore_1 | scale |  
+| bip_39_word_underscore_10 | scale_ability_alpha_brass_liberty_dad_noise_culture_bonus_aerobic |  
+| bip_39_word_underscore_11 | scale_ability_alpha_brass_liberty_dad_noise_culture_bonus_aerobic_sibling |  
+| bip_39_word_underscore_12 | scale_ability_alpha_brass_liberty_dad_noise_culture_bonus_aerobic_sibling_amazing |  
+| bip_39_word_underscore_2 | scale_ability |  
+| bip_39_word_underscore_3 | scale_ability_alpha |  
+| bip_39_word_underscore_4 | scale_ability_alpha_brass |  
+| bip_39_word_underscore_5 | scale_ability_alpha_brass_liberty |  
+| bip_39_word_underscore_6 | scale_ability_alpha_brass_liberty_dad |  
+| bip_39_word_underscore_7 | scale_ability_alpha_brass_liberty_dad_noise |  
+| bip_39_word_underscore_8 | scale_ability_alpha_brass_liberty_dad_noise_culture |  
+| bip_39_word_underscore_9 | scale_ability_alpha_brass_liberty_dad_noise_culture_bonus |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

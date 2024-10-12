@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | despair |  
+| bip_39_word_dash_10 | despair-oven-slot-inherit-also-autumn-warrior-desk-evoke-valid |  
+| bip_39_word_dash_11 | despair-oven-slot-inherit-also-autumn-warrior-desk-evoke-valid-raccoon |  
+| bip_39_word_dash_12 | despair-oven-slot-inherit-also-autumn-warrior-desk-evoke-valid-raccoon-apology |  
+| bip_39_word_dash_2 | despair-oven |  
+| bip_39_word_dash_3 | despair-oven-slot |  
+| bip_39_word_dash_4 | despair-oven-slot-inherit |  
+| bip_39_word_dash_5 | despair-oven-slot-inherit-also |  
+| bip_39_word_dash_6 | despair-oven-slot-inherit-also-autumn |  
+| bip_39_word_dash_7 | despair-oven-slot-inherit-also-autumn-warrior |  
+| bip_39_word_dash_8 | despair-oven-slot-inherit-also-autumn-warrior-desk |  
+| bip_39_word_dash_9 | despair-oven-slot-inherit-also-autumn-warrior-desk-evoke |  
 | bip_39_word_new_br_1 | despair |  
 | bip_39_word_new_br_10 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid |  
 | bip_39_word_new_br_11 | despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid<br>raccoon |  
@@ -147,6 +159,18 @@ evoke |
 | bip_39_word_space_7 | despair oven slot inherit also autumn warrior |  
 | bip_39_word_space_8 | despair oven slot inherit also autumn warrior desk |  
 | bip_39_word_space_9 | despair oven slot inherit also autumn warrior desk evoke |  
+| bip_39_word_underscore_1 | despair |  
+| bip_39_word_underscore_10 | despair_oven_slot_inherit_also_autumn_warrior_desk_evoke_valid |  
+| bip_39_word_underscore_11 | despair_oven_slot_inherit_also_autumn_warrior_desk_evoke_valid_raccoon |  
+| bip_39_word_underscore_12 | despair_oven_slot_inherit_also_autumn_warrior_desk_evoke_valid_raccoon_apology |  
+| bip_39_word_underscore_2 | despair_oven |  
+| bip_39_word_underscore_3 | despair_oven_slot |  
+| bip_39_word_underscore_4 | despair_oven_slot_inherit |  
+| bip_39_word_underscore_5 | despair_oven_slot_inherit_also |  
+| bip_39_word_underscore_6 | despair_oven_slot_inherit_also_autumn |  
+| bip_39_word_underscore_7 | despair_oven_slot_inherit_also_autumn_warrior |  
+| bip_39_word_underscore_8 | despair_oven_slot_inherit_also_autumn_warrior_desk |  
+| bip_39_word_underscore_9 | despair_oven_slot_inherit_also_autumn_warrior_desk_evoke |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

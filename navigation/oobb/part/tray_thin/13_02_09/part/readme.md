@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plate |  
+| bip_39_word_dash_10 | plate-ritual-organ-base-congress-ship-fee-they-sugar-away |  
+| bip_39_word_dash_11 | plate-ritual-organ-base-congress-ship-fee-they-sugar-away-nut |  
+| bip_39_word_dash_12 | plate-ritual-organ-base-congress-ship-fee-they-sugar-away-nut-arena |  
+| bip_39_word_dash_2 | plate-ritual |  
+| bip_39_word_dash_3 | plate-ritual-organ |  
+| bip_39_word_dash_4 | plate-ritual-organ-base |  
+| bip_39_word_dash_5 | plate-ritual-organ-base-congress |  
+| bip_39_word_dash_6 | plate-ritual-organ-base-congress-ship |  
+| bip_39_word_dash_7 | plate-ritual-organ-base-congress-ship-fee |  
+| bip_39_word_dash_8 | plate-ritual-organ-base-congress-ship-fee-they |  
+| bip_39_word_dash_9 | plate-ritual-organ-base-congress-ship-fee-they-sugar |  
 | bip_39_word_new_br_1 | plate |  
 | bip_39_word_new_br_10 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they<br>sugar<br>away |  
 | bip_39_word_new_br_11 | plate<br>ritual<br>organ<br>base<br>congress<br>ship<br>fee<br>they<br>sugar<br>away<br>nut |  
@@ -147,6 +159,18 @@ sugar |
 | bip_39_word_space_7 | plate ritual organ base congress ship fee |  
 | bip_39_word_space_8 | plate ritual organ base congress ship fee they |  
 | bip_39_word_space_9 | plate ritual organ base congress ship fee they sugar |  
+| bip_39_word_underscore_1 | plate |  
+| bip_39_word_underscore_10 | plate_ritual_organ_base_congress_ship_fee_they_sugar_away |  
+| bip_39_word_underscore_11 | plate_ritual_organ_base_congress_ship_fee_they_sugar_away_nut |  
+| bip_39_word_underscore_12 | plate_ritual_organ_base_congress_ship_fee_they_sugar_away_nut_arena |  
+| bip_39_word_underscore_2 | plate_ritual |  
+| bip_39_word_underscore_3 | plate_ritual_organ |  
+| bip_39_word_underscore_4 | plate_ritual_organ_base |  
+| bip_39_word_underscore_5 | plate_ritual_organ_base_congress |  
+| bip_39_word_underscore_6 | plate_ritual_organ_base_congress_ship |  
+| bip_39_word_underscore_7 | plate_ritual_organ_base_congress_ship_fee |  
+| bip_39_word_underscore_8 | plate_ritual_organ_base_congress_ship_fee_they |  
+| bip_39_word_underscore_9 | plate_ritual_organ_base_congress_ship_fee_they_sugar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

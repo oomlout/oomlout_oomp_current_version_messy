@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vessel |  
+| bip_39_word_dash_10 | vessel-junior-steak-grocery-toddler-gap-soccer-inquiry-unique-hundred |  
+| bip_39_word_dash_11 | vessel-junior-steak-grocery-toddler-gap-soccer-inquiry-unique-hundred-goddess |  
+| bip_39_word_dash_12 | vessel-junior-steak-grocery-toddler-gap-soccer-inquiry-unique-hundred-goddess-answer |  
+| bip_39_word_dash_2 | vessel-junior |  
+| bip_39_word_dash_3 | vessel-junior-steak |  
+| bip_39_word_dash_4 | vessel-junior-steak-grocery |  
+| bip_39_word_dash_5 | vessel-junior-steak-grocery-toddler |  
+| bip_39_word_dash_6 | vessel-junior-steak-grocery-toddler-gap |  
+| bip_39_word_dash_7 | vessel-junior-steak-grocery-toddler-gap-soccer |  
+| bip_39_word_dash_8 | vessel-junior-steak-grocery-toddler-gap-soccer-inquiry |  
+| bip_39_word_dash_9 | vessel-junior-steak-grocery-toddler-gap-soccer-inquiry-unique |  
 | bip_39_word_new_br_1 | vessel |  
 | bip_39_word_new_br_10 | vessel<br>junior<br>steak<br>grocery<br>toddler<br>gap<br>soccer<br>inquiry<br>unique<br>hundred |  
 | bip_39_word_new_br_11 | vessel<br>junior<br>steak<br>grocery<br>toddler<br>gap<br>soccer<br>inquiry<br>unique<br>hundred<br>goddess |  
@@ -147,6 +159,18 @@ unique |
 | bip_39_word_space_7 | vessel junior steak grocery toddler gap soccer |  
 | bip_39_word_space_8 | vessel junior steak grocery toddler gap soccer inquiry |  
 | bip_39_word_space_9 | vessel junior steak grocery toddler gap soccer inquiry unique |  
+| bip_39_word_underscore_1 | vessel |  
+| bip_39_word_underscore_10 | vessel_junior_steak_grocery_toddler_gap_soccer_inquiry_unique_hundred |  
+| bip_39_word_underscore_11 | vessel_junior_steak_grocery_toddler_gap_soccer_inquiry_unique_hundred_goddess |  
+| bip_39_word_underscore_12 | vessel_junior_steak_grocery_toddler_gap_soccer_inquiry_unique_hundred_goddess_answer |  
+| bip_39_word_underscore_2 | vessel_junior |  
+| bip_39_word_underscore_3 | vessel_junior_steak |  
+| bip_39_word_underscore_4 | vessel_junior_steak_grocery |  
+| bip_39_word_underscore_5 | vessel_junior_steak_grocery_toddler |  
+| bip_39_word_underscore_6 | vessel_junior_steak_grocery_toddler_gap |  
+| bip_39_word_underscore_7 | vessel_junior_steak_grocery_toddler_gap_soccer |  
+| bip_39_word_underscore_8 | vessel_junior_steak_grocery_toddler_gap_soccer_inquiry |  
+| bip_39_word_underscore_9 | vessel_junior_steak_grocery_toddler_gap_soccer_inquiry_unique |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

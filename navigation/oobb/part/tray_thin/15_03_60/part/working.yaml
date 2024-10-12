@@ -1,3 +1,15 @@
+bip_39_word_dash_1: now
+bip_39_word_dash_10: now-tumble-donor-coin-capable-inject-vehicle-silk-canvas-culture
+bip_39_word_dash_11: now-tumble-donor-coin-capable-inject-vehicle-silk-canvas-culture-token
+bip_39_word_dash_12: now-tumble-donor-coin-capable-inject-vehicle-silk-canvas-culture-token-annual
+bip_39_word_dash_2: now-tumble
+bip_39_word_dash_3: now-tumble-donor
+bip_39_word_dash_4: now-tumble-donor-coin
+bip_39_word_dash_5: now-tumble-donor-coin-capable
+bip_39_word_dash_6: now-tumble-donor-coin-capable-inject
+bip_39_word_dash_7: now-tumble-donor-coin-capable-inject-vehicle
+bip_39_word_dash_8: now-tumble-donor-coin-capable-inject-vehicle-silk
+bip_39_word_dash_9: now-tumble-donor-coin-capable-inject-vehicle-silk-canvas
 bip_39_word_new_br_1: now
 bip_39_word_new_br_10: now<br>tumble<br>donor<br>coin<br>capable<br>inject<br>vehicle<br>silk<br>canvas<br>culture
 bip_39_word_new_br_11: now<br>tumble<br>donor<br>coin<br>capable<br>inject<br>vehicle<br>silk<br>canvas<br>culture<br>token
@@ -193,6 +205,18 @@ bip_39_word_space_6: now tumble donor coin capable inject
 bip_39_word_space_7: now tumble donor coin capable inject vehicle
 bip_39_word_space_8: now tumble donor coin capable inject vehicle silk
 bip_39_word_space_9: now tumble donor coin capable inject vehicle silk canvas
+bip_39_word_underscore_1: now
+bip_39_word_underscore_10: now_tumble_donor_coin_capable_inject_vehicle_silk_canvas_culture
+bip_39_word_underscore_11: now_tumble_donor_coin_capable_inject_vehicle_silk_canvas_culture_token
+bip_39_word_underscore_12: now_tumble_donor_coin_capable_inject_vehicle_silk_canvas_culture_token_annual
+bip_39_word_underscore_2: now_tumble
+bip_39_word_underscore_3: now_tumble_donor
+bip_39_word_underscore_4: now_tumble_donor_coin
+bip_39_word_underscore_5: now_tumble_donor_coin_capable
+bip_39_word_underscore_6: now_tumble_donor_coin_capable_inject
+bip_39_word_underscore_7: now_tumble_donor_coin_capable_inject_vehicle
+bip_39_word_underscore_8: now_tumble_donor_coin_capable_inject_vehicle_silk
+bip_39_word_underscore_9: now_tumble_donor_coin_capable_inject_vehicle_silk_canvas
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

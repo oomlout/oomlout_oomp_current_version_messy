@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | torch |  
+| bip_39_word_dash_10 | torch-puzzle-age-tank-become-problem-fog-spare-blast-risk |  
+| bip_39_word_dash_11 | torch-puzzle-age-tank-become-problem-fog-spare-blast-risk-stage |  
+| bip_39_word_dash_12 | torch-puzzle-age-tank-become-problem-fog-spare-blast-risk-stage-artwork |  
+| bip_39_word_dash_2 | torch-puzzle |  
+| bip_39_word_dash_3 | torch-puzzle-age |  
+| bip_39_word_dash_4 | torch-puzzle-age-tank |  
+| bip_39_word_dash_5 | torch-puzzle-age-tank-become |  
+| bip_39_word_dash_6 | torch-puzzle-age-tank-become-problem |  
+| bip_39_word_dash_7 | torch-puzzle-age-tank-become-problem-fog |  
+| bip_39_word_dash_8 | torch-puzzle-age-tank-become-problem-fog-spare |  
+| bip_39_word_dash_9 | torch-puzzle-age-tank-become-problem-fog-spare-blast |  
 | bip_39_word_new_br_1 | torch |  
 | bip_39_word_new_br_10 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk |  
 | bip_39_word_new_br_11 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk<br>stage |  
@@ -147,6 +159,18 @@ blast |
 | bip_39_word_space_7 | torch puzzle age tank become problem fog |  
 | bip_39_word_space_8 | torch puzzle age tank become problem fog spare |  
 | bip_39_word_space_9 | torch puzzle age tank become problem fog spare blast |  
+| bip_39_word_underscore_1 | torch |  
+| bip_39_word_underscore_10 | torch_puzzle_age_tank_become_problem_fog_spare_blast_risk |  
+| bip_39_word_underscore_11 | torch_puzzle_age_tank_become_problem_fog_spare_blast_risk_stage |  
+| bip_39_word_underscore_12 | torch_puzzle_age_tank_become_problem_fog_spare_blast_risk_stage_artwork |  
+| bip_39_word_underscore_2 | torch_puzzle |  
+| bip_39_word_underscore_3 | torch_puzzle_age |  
+| bip_39_word_underscore_4 | torch_puzzle_age_tank |  
+| bip_39_word_underscore_5 | torch_puzzle_age_tank_become |  
+| bip_39_word_underscore_6 | torch_puzzle_age_tank_become_problem |  
+| bip_39_word_underscore_7 | torch_puzzle_age_tank_become_problem_fog |  
+| bip_39_word_underscore_8 | torch_puzzle_age_tank_become_problem_fog_spare |  
+| bip_39_word_underscore_9 | torch_puzzle_age_tank_become_problem_fog_spare_blast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

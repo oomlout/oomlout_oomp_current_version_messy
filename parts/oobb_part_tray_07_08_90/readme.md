@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | play |  
+| bip_39_word_dash_10 | play-draw-muffin-dress-demise-motor-drip-print-detail-phone |  
+| bip_39_word_dash_11 | play-draw-muffin-dress-demise-motor-drip-print-detail-phone-lounge |  
+| bip_39_word_dash_12 | play-draw-muffin-dress-demise-motor-drip-print-detail-phone-lounge-alone |  
+| bip_39_word_dash_2 | play-draw |  
+| bip_39_word_dash_3 | play-draw-muffin |  
+| bip_39_word_dash_4 | play-draw-muffin-dress |  
+| bip_39_word_dash_5 | play-draw-muffin-dress-demise |  
+| bip_39_word_dash_6 | play-draw-muffin-dress-demise-motor |  
+| bip_39_word_dash_7 | play-draw-muffin-dress-demise-motor-drip |  
+| bip_39_word_dash_8 | play-draw-muffin-dress-demise-motor-drip-print |  
+| bip_39_word_dash_9 | play-draw-muffin-dress-demise-motor-drip-print-detail |  
 | bip_39_word_new_br_1 | play |  
 | bip_39_word_new_br_10 | play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone |  
 | bip_39_word_new_br_11 | play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone<br>lounge |  
@@ -147,6 +159,18 @@ detail |
 | bip_39_word_space_7 | play draw muffin dress demise motor drip |  
 | bip_39_word_space_8 | play draw muffin dress demise motor drip print |  
 | bip_39_word_space_9 | play draw muffin dress demise motor drip print detail |  
+| bip_39_word_underscore_1 | play |  
+| bip_39_word_underscore_10 | play_draw_muffin_dress_demise_motor_drip_print_detail_phone |  
+| bip_39_word_underscore_11 | play_draw_muffin_dress_demise_motor_drip_print_detail_phone_lounge |  
+| bip_39_word_underscore_12 | play_draw_muffin_dress_demise_motor_drip_print_detail_phone_lounge_alone |  
+| bip_39_word_underscore_2 | play_draw |  
+| bip_39_word_underscore_3 | play_draw_muffin |  
+| bip_39_word_underscore_4 | play_draw_muffin_dress |  
+| bip_39_word_underscore_5 | play_draw_muffin_dress_demise |  
+| bip_39_word_underscore_6 | play_draw_muffin_dress_demise_motor |  
+| bip_39_word_underscore_7 | play_draw_muffin_dress_demise_motor_drip |  
+| bip_39_word_underscore_8 | play_draw_muffin_dress_demise_motor_drip_print |  
+| bip_39_word_underscore_9 | play_draw_muffin_dress_demise_motor_drip_print_detail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

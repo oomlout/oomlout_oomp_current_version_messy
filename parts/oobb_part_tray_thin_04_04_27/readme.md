@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | correct |  
+| bip_39_word_dash_10 | correct-thought-blood-front-burden-celery-mansion-portion-cat-curious |  
+| bip_39_word_dash_11 | correct-thought-blood-front-burden-celery-mansion-portion-cat-curious-bright |  
+| bip_39_word_dash_12 | correct-thought-blood-front-burden-celery-mansion-portion-cat-curious-bright-arrest |  
+| bip_39_word_dash_2 | correct-thought |  
+| bip_39_word_dash_3 | correct-thought-blood |  
+| bip_39_word_dash_4 | correct-thought-blood-front |  
+| bip_39_word_dash_5 | correct-thought-blood-front-burden |  
+| bip_39_word_dash_6 | correct-thought-blood-front-burden-celery |  
+| bip_39_word_dash_7 | correct-thought-blood-front-burden-celery-mansion |  
+| bip_39_word_dash_8 | correct-thought-blood-front-burden-celery-mansion-portion |  
+| bip_39_word_dash_9 | correct-thought-blood-front-burden-celery-mansion-portion-cat |  
 | bip_39_word_new_br_1 | correct |  
 | bip_39_word_new_br_10 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious |  
 | bip_39_word_new_br_11 | correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious<br>bright |  
@@ -147,6 +159,18 @@ cat |
 | bip_39_word_space_7 | correct thought blood front burden celery mansion |  
 | bip_39_word_space_8 | correct thought blood front burden celery mansion portion |  
 | bip_39_word_space_9 | correct thought blood front burden celery mansion portion cat |  
+| bip_39_word_underscore_1 | correct |  
+| bip_39_word_underscore_10 | correct_thought_blood_front_burden_celery_mansion_portion_cat_curious |  
+| bip_39_word_underscore_11 | correct_thought_blood_front_burden_celery_mansion_portion_cat_curious_bright |  
+| bip_39_word_underscore_12 | correct_thought_blood_front_burden_celery_mansion_portion_cat_curious_bright_arrest |  
+| bip_39_word_underscore_2 | correct_thought |  
+| bip_39_word_underscore_3 | correct_thought_blood |  
+| bip_39_word_underscore_4 | correct_thought_blood_front |  
+| bip_39_word_underscore_5 | correct_thought_blood_front_burden |  
+| bip_39_word_underscore_6 | correct_thought_blood_front_burden_celery |  
+| bip_39_word_underscore_7 | correct_thought_blood_front_burden_celery_mansion |  
+| bip_39_word_underscore_8 | correct_thought_blood_front_burden_celery_mansion_portion |  
+| bip_39_word_underscore_9 | correct_thought_blood_front_burden_celery_mansion_portion_cat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

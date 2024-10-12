@@ -1,3 +1,15 @@
+bip_39_word_dash_1: acoustic
+bip_39_word_dash_10: acoustic-purse-blood-country-pause-acid-debate-pencil-grace-flavor
+bip_39_word_dash_11: acoustic-purse-blood-country-pause-acid-debate-pencil-grace-flavor-between
+bip_39_word_dash_12: acoustic-purse-blood-country-pause-acid-debate-pencil-grace-flavor-between-alarm
+bip_39_word_dash_2: acoustic-purse
+bip_39_word_dash_3: acoustic-purse-blood
+bip_39_word_dash_4: acoustic-purse-blood-country
+bip_39_word_dash_5: acoustic-purse-blood-country-pause
+bip_39_word_dash_6: acoustic-purse-blood-country-pause-acid
+bip_39_word_dash_7: acoustic-purse-blood-country-pause-acid-debate
+bip_39_word_dash_8: acoustic-purse-blood-country-pause-acid-debate-pencil
+bip_39_word_dash_9: acoustic-purse-blood-country-pause-acid-debate-pencil-grace
 bip_39_word_new_br_1: acoustic
 bip_39_word_new_br_10: acoustic<br>purse<br>blood<br>country<br>pause<br>acid<br>debate<br>pencil<br>grace<br>flavor
 bip_39_word_new_br_11: acoustic<br>purse<br>blood<br>country<br>pause<br>acid<br>debate<br>pencil<br>grace<br>flavor<br>between
@@ -194,6 +206,18 @@ bip_39_word_space_6: acoustic purse blood country pause acid
 bip_39_word_space_7: acoustic purse blood country pause acid debate
 bip_39_word_space_8: acoustic purse blood country pause acid debate pencil
 bip_39_word_space_9: acoustic purse blood country pause acid debate pencil grace
+bip_39_word_underscore_1: acoustic
+bip_39_word_underscore_10: acoustic_purse_blood_country_pause_acid_debate_pencil_grace_flavor
+bip_39_word_underscore_11: acoustic_purse_blood_country_pause_acid_debate_pencil_grace_flavor_between
+bip_39_word_underscore_12: acoustic_purse_blood_country_pause_acid_debate_pencil_grace_flavor_between_alarm
+bip_39_word_underscore_2: acoustic_purse
+bip_39_word_underscore_3: acoustic_purse_blood
+bip_39_word_underscore_4: acoustic_purse_blood_country
+bip_39_word_underscore_5: acoustic_purse_blood_country_pause
+bip_39_word_underscore_6: acoustic_purse_blood_country_pause_acid
+bip_39_word_underscore_7: acoustic_purse_blood_country_pause_acid_debate
+bip_39_word_underscore_8: acoustic_purse_blood_country_pause_acid_debate_pencil
+bip_39_word_underscore_9: acoustic_purse_blood_country_pause_acid_debate_pencil_grace
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

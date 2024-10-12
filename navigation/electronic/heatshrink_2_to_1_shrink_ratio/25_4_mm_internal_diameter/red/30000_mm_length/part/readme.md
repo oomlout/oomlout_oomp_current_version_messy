@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | broken |  
+| bip_39_word_dash_10 | broken-despair-smooth-pattern-flip-usual-sleep-observe-punch-seed |  
+| bip_39_word_dash_11 | broken-despair-smooth-pattern-flip-usual-sleep-observe-punch-seed-electric |  
+| bip_39_word_dash_12 | broken-despair-smooth-pattern-flip-usual-sleep-observe-punch-seed-electric-avocado |  
+| bip_39_word_dash_2 | broken-despair |  
+| bip_39_word_dash_3 | broken-despair-smooth |  
+| bip_39_word_dash_4 | broken-despair-smooth-pattern |  
+| bip_39_word_dash_5 | broken-despair-smooth-pattern-flip |  
+| bip_39_word_dash_6 | broken-despair-smooth-pattern-flip-usual |  
+| bip_39_word_dash_7 | broken-despair-smooth-pattern-flip-usual-sleep |  
+| bip_39_word_dash_8 | broken-despair-smooth-pattern-flip-usual-sleep-observe |  
+| bip_39_word_dash_9 | broken-despair-smooth-pattern-flip-usual-sleep-observe-punch |  
 | bip_39_word_new_br_1 | broken |  
 | bip_39_word_new_br_10 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe<br>punch<br>seed |  
 | bip_39_word_new_br_11 | broken<br>despair<br>smooth<br>pattern<br>flip<br>usual<br>sleep<br>observe<br>punch<br>seed<br>electric |  
@@ -147,6 +159,18 @@ punch |
 | bip_39_word_space_7 | broken despair smooth pattern flip usual sleep |  
 | bip_39_word_space_8 | broken despair smooth pattern flip usual sleep observe |  
 | bip_39_word_space_9 | broken despair smooth pattern flip usual sleep observe punch |  
+| bip_39_word_underscore_1 | broken |  
+| bip_39_word_underscore_10 | broken_despair_smooth_pattern_flip_usual_sleep_observe_punch_seed |  
+| bip_39_word_underscore_11 | broken_despair_smooth_pattern_flip_usual_sleep_observe_punch_seed_electric |  
+| bip_39_word_underscore_12 | broken_despair_smooth_pattern_flip_usual_sleep_observe_punch_seed_electric_avocado |  
+| bip_39_word_underscore_2 | broken_despair |  
+| bip_39_word_underscore_3 | broken_despair_smooth |  
+| bip_39_word_underscore_4 | broken_despair_smooth_pattern |  
+| bip_39_word_underscore_5 | broken_despair_smooth_pattern_flip |  
+| bip_39_word_underscore_6 | broken_despair_smooth_pattern_flip_usual |  
+| bip_39_word_underscore_7 | broken_despair_smooth_pattern_flip_usual_sleep |  
+| bip_39_word_underscore_8 | broken_despair_smooth_pattern_flip_usual_sleep_observe |  
+| bip_39_word_underscore_9 | broken_despair_smooth_pattern_flip_usual_sleep_observe_punch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

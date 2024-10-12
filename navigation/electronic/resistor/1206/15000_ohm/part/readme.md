@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boss |  
+| bip_39_word_dash_10 | boss-laundry-vibrant-gossip-odor-spread-rookie-judge-render-reward |  
+| bip_39_word_dash_11 | boss-laundry-vibrant-gossip-odor-spread-rookie-judge-render-reward-east |  
+| bip_39_word_dash_12 | boss-laundry-vibrant-gossip-odor-spread-rookie-judge-render-reward-east-another |  
+| bip_39_word_dash_2 | boss-laundry |  
+| bip_39_word_dash_3 | boss-laundry-vibrant |  
+| bip_39_word_dash_4 | boss-laundry-vibrant-gossip |  
+| bip_39_word_dash_5 | boss-laundry-vibrant-gossip-odor |  
+| bip_39_word_dash_6 | boss-laundry-vibrant-gossip-odor-spread |  
+| bip_39_word_dash_7 | boss-laundry-vibrant-gossip-odor-spread-rookie |  
+| bip_39_word_dash_8 | boss-laundry-vibrant-gossip-odor-spread-rookie-judge |  
+| bip_39_word_dash_9 | boss-laundry-vibrant-gossip-odor-spread-rookie-judge-render |  
 | bip_39_word_new_br_1 | boss |  
 | bip_39_word_new_br_10 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward |  
 | bip_39_word_new_br_11 | boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward<br>east |  
@@ -147,6 +159,18 @@ render |
 | bip_39_word_space_7 | boss laundry vibrant gossip odor spread rookie |  
 | bip_39_word_space_8 | boss laundry vibrant gossip odor spread rookie judge |  
 | bip_39_word_space_9 | boss laundry vibrant gossip odor spread rookie judge render |  
+| bip_39_word_underscore_1 | boss |  
+| bip_39_word_underscore_10 | boss_laundry_vibrant_gossip_odor_spread_rookie_judge_render_reward |  
+| bip_39_word_underscore_11 | boss_laundry_vibrant_gossip_odor_spread_rookie_judge_render_reward_east |  
+| bip_39_word_underscore_12 | boss_laundry_vibrant_gossip_odor_spread_rookie_judge_render_reward_east_another |  
+| bip_39_word_underscore_2 | boss_laundry |  
+| bip_39_word_underscore_3 | boss_laundry_vibrant |  
+| bip_39_word_underscore_4 | boss_laundry_vibrant_gossip |  
+| bip_39_word_underscore_5 | boss_laundry_vibrant_gossip_odor |  
+| bip_39_word_underscore_6 | boss_laundry_vibrant_gossip_odor_spread |  
+| bip_39_word_underscore_7 | boss_laundry_vibrant_gossip_odor_spread_rookie |  
+| bip_39_word_underscore_8 | boss_laundry_vibrant_gossip_odor_spread_rookie_judge |  
+| bip_39_word_underscore_9 | boss_laundry_vibrant_gossip_odor_spread_rookie_judge_render |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

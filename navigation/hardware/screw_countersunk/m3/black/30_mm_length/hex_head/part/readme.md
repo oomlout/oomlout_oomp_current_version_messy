@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | purse |  
+| bip_39_word_dash_10 | purse-advice-glue-dignity-nest-delay-trim-shy-common-symbol |  
+| bip_39_word_dash_11 | purse-advice-glue-dignity-nest-delay-trim-shy-common-symbol-dentist |  
+| bip_39_word_dash_12 | purse-advice-glue-dignity-nest-delay-trim-shy-common-symbol-dentist-address |  
+| bip_39_word_dash_2 | purse-advice |  
+| bip_39_word_dash_3 | purse-advice-glue |  
+| bip_39_word_dash_4 | purse-advice-glue-dignity |  
+| bip_39_word_dash_5 | purse-advice-glue-dignity-nest |  
+| bip_39_word_dash_6 | purse-advice-glue-dignity-nest-delay |  
+| bip_39_word_dash_7 | purse-advice-glue-dignity-nest-delay-trim |  
+| bip_39_word_dash_8 | purse-advice-glue-dignity-nest-delay-trim-shy |  
+| bip_39_word_dash_9 | purse-advice-glue-dignity-nest-delay-trim-shy-common |  
 | bip_39_word_new_br_1 | purse |  
 | bip_39_word_new_br_10 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy<br>common<br>symbol |  
 | bip_39_word_new_br_11 | purse<br>advice<br>glue<br>dignity<br>nest<br>delay<br>trim<br>shy<br>common<br>symbol<br>dentist |  
@@ -147,6 +159,18 @@ common |
 | bip_39_word_space_7 | purse advice glue dignity nest delay trim |  
 | bip_39_word_space_8 | purse advice glue dignity nest delay trim shy |  
 | bip_39_word_space_9 | purse advice glue dignity nest delay trim shy common |  
+| bip_39_word_underscore_1 | purse |  
+| bip_39_word_underscore_10 | purse_advice_glue_dignity_nest_delay_trim_shy_common_symbol |  
+| bip_39_word_underscore_11 | purse_advice_glue_dignity_nest_delay_trim_shy_common_symbol_dentist |  
+| bip_39_word_underscore_12 | purse_advice_glue_dignity_nest_delay_trim_shy_common_symbol_dentist_address |  
+| bip_39_word_underscore_2 | purse_advice |  
+| bip_39_word_underscore_3 | purse_advice_glue |  
+| bip_39_word_underscore_4 | purse_advice_glue_dignity |  
+| bip_39_word_underscore_5 | purse_advice_glue_dignity_nest |  
+| bip_39_word_underscore_6 | purse_advice_glue_dignity_nest_delay |  
+| bip_39_word_underscore_7 | purse_advice_glue_dignity_nest_delay_trim |  
+| bip_39_word_underscore_8 | purse_advice_glue_dignity_nest_delay_trim_shy |  
+| bip_39_word_underscore_9 | purse_advice_glue_dignity_nest_delay_trim_shy_common |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

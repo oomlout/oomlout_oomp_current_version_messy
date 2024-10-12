@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | kingdom |  
+| bip_39_word_dash_10 | kingdom-barrel-trial-urge-mountain-saddle-alien-empty-copper-hello |  
+| bip_39_word_dash_11 | kingdom-barrel-trial-urge-mountain-saddle-alien-empty-copper-hello-truly |  
+| bip_39_word_dash_12 | kingdom-barrel-trial-urge-mountain-saddle-alien-empty-copper-hello-truly-armor |  
+| bip_39_word_dash_2 | kingdom-barrel |  
+| bip_39_word_dash_3 | kingdom-barrel-trial |  
+| bip_39_word_dash_4 | kingdom-barrel-trial-urge |  
+| bip_39_word_dash_5 | kingdom-barrel-trial-urge-mountain |  
+| bip_39_word_dash_6 | kingdom-barrel-trial-urge-mountain-saddle |  
+| bip_39_word_dash_7 | kingdom-barrel-trial-urge-mountain-saddle-alien |  
+| bip_39_word_dash_8 | kingdom-barrel-trial-urge-mountain-saddle-alien-empty |  
+| bip_39_word_dash_9 | kingdom-barrel-trial-urge-mountain-saddle-alien-empty-copper |  
 | bip_39_word_new_br_1 | kingdom |  
 | bip_39_word_new_br_10 | kingdom<br>barrel<br>trial<br>urge<br>mountain<br>saddle<br>alien<br>empty<br>copper<br>hello |  
 | bip_39_word_new_br_11 | kingdom<br>barrel<br>trial<br>urge<br>mountain<br>saddle<br>alien<br>empty<br>copper<br>hello<br>truly |  
@@ -147,6 +159,18 @@ copper |
 | bip_39_word_space_7 | kingdom barrel trial urge mountain saddle alien |  
 | bip_39_word_space_8 | kingdom barrel trial urge mountain saddle alien empty |  
 | bip_39_word_space_9 | kingdom barrel trial urge mountain saddle alien empty copper |  
+| bip_39_word_underscore_1 | kingdom |  
+| bip_39_word_underscore_10 | kingdom_barrel_trial_urge_mountain_saddle_alien_empty_copper_hello |  
+| bip_39_word_underscore_11 | kingdom_barrel_trial_urge_mountain_saddle_alien_empty_copper_hello_truly |  
+| bip_39_word_underscore_12 | kingdom_barrel_trial_urge_mountain_saddle_alien_empty_copper_hello_truly_armor |  
+| bip_39_word_underscore_2 | kingdom_barrel |  
+| bip_39_word_underscore_3 | kingdom_barrel_trial |  
+| bip_39_word_underscore_4 | kingdom_barrel_trial_urge |  
+| bip_39_word_underscore_5 | kingdom_barrel_trial_urge_mountain |  
+| bip_39_word_underscore_6 | kingdom_barrel_trial_urge_mountain_saddle |  
+| bip_39_word_underscore_7 | kingdom_barrel_trial_urge_mountain_saddle_alien |  
+| bip_39_word_underscore_8 | kingdom_barrel_trial_urge_mountain_saddle_alien_empty |  
+| bip_39_word_underscore_9 | kingdom_barrel_trial_urge_mountain_saddle_alien_empty_copper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | monkey |  
+| bip_39_word_dash_10 | monkey-walk-history-bubble-alcohol-admit-post-visit-planet-bullet |  
+| bip_39_word_dash_11 | monkey-walk-history-bubble-alcohol-admit-post-visit-planet-bullet-slow |  
+| bip_39_word_dash_12 | monkey-walk-history-bubble-alcohol-admit-post-visit-planet-bullet-slow-address |  
+| bip_39_word_dash_2 | monkey-walk |  
+| bip_39_word_dash_3 | monkey-walk-history |  
+| bip_39_word_dash_4 | monkey-walk-history-bubble |  
+| bip_39_word_dash_5 | monkey-walk-history-bubble-alcohol |  
+| bip_39_word_dash_6 | monkey-walk-history-bubble-alcohol-admit |  
+| bip_39_word_dash_7 | monkey-walk-history-bubble-alcohol-admit-post |  
+| bip_39_word_dash_8 | monkey-walk-history-bubble-alcohol-admit-post-visit |  
+| bip_39_word_dash_9 | monkey-walk-history-bubble-alcohol-admit-post-visit-planet |  
 | bip_39_word_new_br_1 | monkey |  
 | bip_39_word_new_br_10 | monkey<br>walk<br>history<br>bubble<br>alcohol<br>admit<br>post<br>visit<br>planet<br>bullet |  
 | bip_39_word_new_br_11 | monkey<br>walk<br>history<br>bubble<br>alcohol<br>admit<br>post<br>visit<br>planet<br>bullet<br>slow |  
@@ -147,6 +159,18 @@ planet |
 | bip_39_word_space_7 | monkey walk history bubble alcohol admit post |  
 | bip_39_word_space_8 | monkey walk history bubble alcohol admit post visit |  
 | bip_39_word_space_9 | monkey walk history bubble alcohol admit post visit planet |  
+| bip_39_word_underscore_1 | monkey |  
+| bip_39_word_underscore_10 | monkey_walk_history_bubble_alcohol_admit_post_visit_planet_bullet |  
+| bip_39_word_underscore_11 | monkey_walk_history_bubble_alcohol_admit_post_visit_planet_bullet_slow |  
+| bip_39_word_underscore_12 | monkey_walk_history_bubble_alcohol_admit_post_visit_planet_bullet_slow_address |  
+| bip_39_word_underscore_2 | monkey_walk |  
+| bip_39_word_underscore_3 | monkey_walk_history |  
+| bip_39_word_underscore_4 | monkey_walk_history_bubble |  
+| bip_39_word_underscore_5 | monkey_walk_history_bubble_alcohol |  
+| bip_39_word_underscore_6 | monkey_walk_history_bubble_alcohol_admit |  
+| bip_39_word_underscore_7 | monkey_walk_history_bubble_alcohol_admit_post |  
+| bip_39_word_underscore_8 | monkey_walk_history_bubble_alcohol_admit_post_visit |  
+| bip_39_word_underscore_9 | monkey_walk_history_bubble_alcohol_admit_post_visit_planet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

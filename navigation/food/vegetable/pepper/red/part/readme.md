@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enrich |  
+| bip_39_word_dash_10 | enrich-rigid-vital-bread-annual-check-scene-aerobic-embrace-cousin |  
+| bip_39_word_dash_11 | enrich-rigid-vital-bread-annual-check-scene-aerobic-embrace-cousin-receive |  
+| bip_39_word_dash_12 | enrich-rigid-vital-bread-annual-check-scene-aerobic-embrace-cousin-receive-asset |  
+| bip_39_word_dash_2 | enrich-rigid |  
+| bip_39_word_dash_3 | enrich-rigid-vital |  
+| bip_39_word_dash_4 | enrich-rigid-vital-bread |  
+| bip_39_word_dash_5 | enrich-rigid-vital-bread-annual |  
+| bip_39_word_dash_6 | enrich-rigid-vital-bread-annual-check |  
+| bip_39_word_dash_7 | enrich-rigid-vital-bread-annual-check-scene |  
+| bip_39_word_dash_8 | enrich-rigid-vital-bread-annual-check-scene-aerobic |  
+| bip_39_word_dash_9 | enrich-rigid-vital-bread-annual-check-scene-aerobic-embrace |  
 | bip_39_word_new_br_1 | enrich |  
 | bip_39_word_new_br_10 | enrich<br>rigid<br>vital<br>bread<br>annual<br>check<br>scene<br>aerobic<br>embrace<br>cousin |  
 | bip_39_word_new_br_11 | enrich<br>rigid<br>vital<br>bread<br>annual<br>check<br>scene<br>aerobic<br>embrace<br>cousin<br>receive |  
@@ -147,6 +159,18 @@ embrace |
 | bip_39_word_space_7 | enrich rigid vital bread annual check scene |  
 | bip_39_word_space_8 | enrich rigid vital bread annual check scene aerobic |  
 | bip_39_word_space_9 | enrich rigid vital bread annual check scene aerobic embrace |  
+| bip_39_word_underscore_1 | enrich |  
+| bip_39_word_underscore_10 | enrich_rigid_vital_bread_annual_check_scene_aerobic_embrace_cousin |  
+| bip_39_word_underscore_11 | enrich_rigid_vital_bread_annual_check_scene_aerobic_embrace_cousin_receive |  
+| bip_39_word_underscore_12 | enrich_rigid_vital_bread_annual_check_scene_aerobic_embrace_cousin_receive_asset |  
+| bip_39_word_underscore_2 | enrich_rigid |  
+| bip_39_word_underscore_3 | enrich_rigid_vital |  
+| bip_39_word_underscore_4 | enrich_rigid_vital_bread |  
+| bip_39_word_underscore_5 | enrich_rigid_vital_bread_annual |  
+| bip_39_word_underscore_6 | enrich_rigid_vital_bread_annual_check |  
+| bip_39_word_underscore_7 | enrich_rigid_vital_bread_annual_check_scene |  
+| bip_39_word_underscore_8 | enrich_rigid_vital_bread_annual_check_scene_aerobic |  
+| bip_39_word_underscore_9 | enrich_rigid_vital_bread_annual_check_scene_aerobic_embrace |  
 | classification | food |  
 | classification_capital | Food |  
 | classification_first_letter | f |  

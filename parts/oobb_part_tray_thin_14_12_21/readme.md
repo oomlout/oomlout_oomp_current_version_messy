@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cave |  
+| bip_39_word_dash_10 | cave-task-zero-patrol-valley-deputy-super-bless-junk-pumpkin |  
+| bip_39_word_dash_11 | cave-task-zero-patrol-valley-deputy-super-bless-junk-pumpkin-ramp |  
+| bip_39_word_dash_12 | cave-task-zero-patrol-valley-deputy-super-bless-junk-pumpkin-ramp-area |  
+| bip_39_word_dash_2 | cave-task |  
+| bip_39_word_dash_3 | cave-task-zero |  
+| bip_39_word_dash_4 | cave-task-zero-patrol |  
+| bip_39_word_dash_5 | cave-task-zero-patrol-valley |  
+| bip_39_word_dash_6 | cave-task-zero-patrol-valley-deputy |  
+| bip_39_word_dash_7 | cave-task-zero-patrol-valley-deputy-super |  
+| bip_39_word_dash_8 | cave-task-zero-patrol-valley-deputy-super-bless |  
+| bip_39_word_dash_9 | cave-task-zero-patrol-valley-deputy-super-bless-junk |  
 | bip_39_word_new_br_1 | cave |  
 | bip_39_word_new_br_10 | cave<br>task<br>zero<br>patrol<br>valley<br>deputy<br>super<br>bless<br>junk<br>pumpkin |  
 | bip_39_word_new_br_11 | cave<br>task<br>zero<br>patrol<br>valley<br>deputy<br>super<br>bless<br>junk<br>pumpkin<br>ramp |  
@@ -147,6 +159,18 @@ junk |
 | bip_39_word_space_7 | cave task zero patrol valley deputy super |  
 | bip_39_word_space_8 | cave task zero patrol valley deputy super bless |  
 | bip_39_word_space_9 | cave task zero patrol valley deputy super bless junk |  
+| bip_39_word_underscore_1 | cave |  
+| bip_39_word_underscore_10 | cave_task_zero_patrol_valley_deputy_super_bless_junk_pumpkin |  
+| bip_39_word_underscore_11 | cave_task_zero_patrol_valley_deputy_super_bless_junk_pumpkin_ramp |  
+| bip_39_word_underscore_12 | cave_task_zero_patrol_valley_deputy_super_bless_junk_pumpkin_ramp_area |  
+| bip_39_word_underscore_2 | cave_task |  
+| bip_39_word_underscore_3 | cave_task_zero |  
+| bip_39_word_underscore_4 | cave_task_zero_patrol |  
+| bip_39_word_underscore_5 | cave_task_zero_patrol_valley |  
+| bip_39_word_underscore_6 | cave_task_zero_patrol_valley_deputy |  
+| bip_39_word_underscore_7 | cave_task_zero_patrol_valley_deputy_super |  
+| bip_39_word_underscore_8 | cave_task_zero_patrol_valley_deputy_super_bless |  
+| bip_39_word_underscore_9 | cave_task_zero_patrol_valley_deputy_super_bless_junk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

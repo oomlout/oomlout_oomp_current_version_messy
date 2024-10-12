@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | forward |  
+| bip_39_word_dash_10 | forward-tumble-element-whip-moral-struggle-radio-actor-rule-obey |  
+| bip_39_word_dash_11 | forward-tumble-element-whip-moral-struggle-radio-actor-rule-obey-supply |  
+| bip_39_word_dash_12 | forward-tumble-element-whip-moral-struggle-radio-actor-rule-obey-supply-aunt |  
+| bip_39_word_dash_2 | forward-tumble |  
+| bip_39_word_dash_3 | forward-tumble-element |  
+| bip_39_word_dash_4 | forward-tumble-element-whip |  
+| bip_39_word_dash_5 | forward-tumble-element-whip-moral |  
+| bip_39_word_dash_6 | forward-tumble-element-whip-moral-struggle |  
+| bip_39_word_dash_7 | forward-tumble-element-whip-moral-struggle-radio |  
+| bip_39_word_dash_8 | forward-tumble-element-whip-moral-struggle-radio-actor |  
+| bip_39_word_dash_9 | forward-tumble-element-whip-moral-struggle-radio-actor-rule |  
 | bip_39_word_new_br_1 | forward |  
 | bip_39_word_new_br_10 | forward<br>tumble<br>element<br>whip<br>moral<br>struggle<br>radio<br>actor<br>rule<br>obey |  
 | bip_39_word_new_br_11 | forward<br>tumble<br>element<br>whip<br>moral<br>struggle<br>radio<br>actor<br>rule<br>obey<br>supply |  
@@ -147,6 +159,18 @@ rule |
 | bip_39_word_space_7 | forward tumble element whip moral struggle radio |  
 | bip_39_word_space_8 | forward tumble element whip moral struggle radio actor |  
 | bip_39_word_space_9 | forward tumble element whip moral struggle radio actor rule |  
+| bip_39_word_underscore_1 | forward |  
+| bip_39_word_underscore_10 | forward_tumble_element_whip_moral_struggle_radio_actor_rule_obey |  
+| bip_39_word_underscore_11 | forward_tumble_element_whip_moral_struggle_radio_actor_rule_obey_supply |  
+| bip_39_word_underscore_12 | forward_tumble_element_whip_moral_struggle_radio_actor_rule_obey_supply_aunt |  
+| bip_39_word_underscore_2 | forward_tumble |  
+| bip_39_word_underscore_3 | forward_tumble_element |  
+| bip_39_word_underscore_4 | forward_tumble_element_whip |  
+| bip_39_word_underscore_5 | forward_tumble_element_whip_moral |  
+| bip_39_word_underscore_6 | forward_tumble_element_whip_moral_struggle |  
+| bip_39_word_underscore_7 | forward_tumble_element_whip_moral_struggle_radio |  
+| bip_39_word_underscore_8 | forward_tumble_element_whip_moral_struggle_radio_actor |  
+| bip_39_word_underscore_9 | forward_tumble_element_whip_moral_struggle_radio_actor_rule |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

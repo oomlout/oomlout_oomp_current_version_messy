@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skill |  
+| bip_39_word_dash_10 | skill-bench-gasp-boat-since-order-icon-multiply-caution-erode |  
+| bip_39_word_dash_11 | skill-bench-gasp-boat-since-order-icon-multiply-caution-erode-dream |  
+| bip_39_word_dash_12 | skill-bench-gasp-boat-since-order-icon-multiply-caution-erode-dream-anxiety |  
+| bip_39_word_dash_2 | skill-bench |  
+| bip_39_word_dash_3 | skill-bench-gasp |  
+| bip_39_word_dash_4 | skill-bench-gasp-boat |  
+| bip_39_word_dash_5 | skill-bench-gasp-boat-since |  
+| bip_39_word_dash_6 | skill-bench-gasp-boat-since-order |  
+| bip_39_word_dash_7 | skill-bench-gasp-boat-since-order-icon |  
+| bip_39_word_dash_8 | skill-bench-gasp-boat-since-order-icon-multiply |  
+| bip_39_word_dash_9 | skill-bench-gasp-boat-since-order-icon-multiply-caution |  
 | bip_39_word_new_br_1 | skill |  
 | bip_39_word_new_br_10 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply<br>caution<br>erode |  
 | bip_39_word_new_br_11 | skill<br>bench<br>gasp<br>boat<br>since<br>order<br>icon<br>multiply<br>caution<br>erode<br>dream |  
@@ -147,6 +159,18 @@ caution |
 | bip_39_word_space_7 | skill bench gasp boat since order icon |  
 | bip_39_word_space_8 | skill bench gasp boat since order icon multiply |  
 | bip_39_word_space_9 | skill bench gasp boat since order icon multiply caution |  
+| bip_39_word_underscore_1 | skill |  
+| bip_39_word_underscore_10 | skill_bench_gasp_boat_since_order_icon_multiply_caution_erode |  
+| bip_39_word_underscore_11 | skill_bench_gasp_boat_since_order_icon_multiply_caution_erode_dream |  
+| bip_39_word_underscore_12 | skill_bench_gasp_boat_since_order_icon_multiply_caution_erode_dream_anxiety |  
+| bip_39_word_underscore_2 | skill_bench |  
+| bip_39_word_underscore_3 | skill_bench_gasp |  
+| bip_39_word_underscore_4 | skill_bench_gasp_boat |  
+| bip_39_word_underscore_5 | skill_bench_gasp_boat_since |  
+| bip_39_word_underscore_6 | skill_bench_gasp_boat_since_order |  
+| bip_39_word_underscore_7 | skill_bench_gasp_boat_since_order_icon |  
+| bip_39_word_underscore_8 | skill_bench_gasp_boat_since_order_icon_multiply |  
+| bip_39_word_underscore_9 | skill_bench_gasp_boat_since_order_icon_multiply_caution |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

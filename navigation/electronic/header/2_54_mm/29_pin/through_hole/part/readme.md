@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | parade |  
+| bip_39_word_dash_10 | parade-fall-voyage-crush-broken-hub-this-make-rabbit-birth |  
+| bip_39_word_dash_11 | parade-fall-voyage-crush-broken-hub-this-make-rabbit-birth-brief |  
+| bip_39_word_dash_12 | parade-fall-voyage-crush-broken-hub-this-make-rabbit-birth-brief-area |  
+| bip_39_word_dash_2 | parade-fall |  
+| bip_39_word_dash_3 | parade-fall-voyage |  
+| bip_39_word_dash_4 | parade-fall-voyage-crush |  
+| bip_39_word_dash_5 | parade-fall-voyage-crush-broken |  
+| bip_39_word_dash_6 | parade-fall-voyage-crush-broken-hub |  
+| bip_39_word_dash_7 | parade-fall-voyage-crush-broken-hub-this |  
+| bip_39_word_dash_8 | parade-fall-voyage-crush-broken-hub-this-make |  
+| bip_39_word_dash_9 | parade-fall-voyage-crush-broken-hub-this-make-rabbit |  
 | bip_39_word_new_br_1 | parade |  
 | bip_39_word_new_br_10 | parade<br>fall<br>voyage<br>crush<br>broken<br>hub<br>this<br>make<br>rabbit<br>birth |  
 | bip_39_word_new_br_11 | parade<br>fall<br>voyage<br>crush<br>broken<br>hub<br>this<br>make<br>rabbit<br>birth<br>brief |  
@@ -147,6 +159,18 @@ rabbit |
 | bip_39_word_space_7 | parade fall voyage crush broken hub this |  
 | bip_39_word_space_8 | parade fall voyage crush broken hub this make |  
 | bip_39_word_space_9 | parade fall voyage crush broken hub this make rabbit |  
+| bip_39_word_underscore_1 | parade |  
+| bip_39_word_underscore_10 | parade_fall_voyage_crush_broken_hub_this_make_rabbit_birth |  
+| bip_39_word_underscore_11 | parade_fall_voyage_crush_broken_hub_this_make_rabbit_birth_brief |  
+| bip_39_word_underscore_12 | parade_fall_voyage_crush_broken_hub_this_make_rabbit_birth_brief_area |  
+| bip_39_word_underscore_2 | parade_fall |  
+| bip_39_word_underscore_3 | parade_fall_voyage |  
+| bip_39_word_underscore_4 | parade_fall_voyage_crush |  
+| bip_39_word_underscore_5 | parade_fall_voyage_crush_broken |  
+| bip_39_word_underscore_6 | parade_fall_voyage_crush_broken_hub |  
+| bip_39_word_underscore_7 | parade_fall_voyage_crush_broken_hub_this |  
+| bip_39_word_underscore_8 | parade_fall_voyage_crush_broken_hub_this_make |  
+| bip_39_word_underscore_9 | parade_fall_voyage_crush_broken_hub_this_make_rabbit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

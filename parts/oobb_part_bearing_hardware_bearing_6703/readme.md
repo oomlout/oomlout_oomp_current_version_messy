@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | produce |  
+| bip_39_word_dash_10 | produce-teach-unable-now-absurd-firm-spawn-harbor-parrot-sample |  
+| bip_39_word_dash_11 | produce-teach-unable-now-absurd-firm-spawn-harbor-parrot-sample-library |  
+| bip_39_word_dash_12 | produce-teach-unable-now-absurd-firm-spawn-harbor-parrot-sample-library-animal |  
+| bip_39_word_dash_2 | produce-teach |  
+| bip_39_word_dash_3 | produce-teach-unable |  
+| bip_39_word_dash_4 | produce-teach-unable-now |  
+| bip_39_word_dash_5 | produce-teach-unable-now-absurd |  
+| bip_39_word_dash_6 | produce-teach-unable-now-absurd-firm |  
+| bip_39_word_dash_7 | produce-teach-unable-now-absurd-firm-spawn |  
+| bip_39_word_dash_8 | produce-teach-unable-now-absurd-firm-spawn-harbor |  
+| bip_39_word_dash_9 | produce-teach-unable-now-absurd-firm-spawn-harbor-parrot |  
 | bip_39_word_new_br_1 | produce |  
 | bip_39_word_new_br_10 | produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor<br>parrot<br>sample |  
 | bip_39_word_new_br_11 | produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor<br>parrot<br>sample<br>library |  
@@ -147,6 +159,18 @@ parrot |
 | bip_39_word_space_7 | produce teach unable now absurd firm spawn |  
 | bip_39_word_space_8 | produce teach unable now absurd firm spawn harbor |  
 | bip_39_word_space_9 | produce teach unable now absurd firm spawn harbor parrot |  
+| bip_39_word_underscore_1 | produce |  
+| bip_39_word_underscore_10 | produce_teach_unable_now_absurd_firm_spawn_harbor_parrot_sample |  
+| bip_39_word_underscore_11 | produce_teach_unable_now_absurd_firm_spawn_harbor_parrot_sample_library |  
+| bip_39_word_underscore_12 | produce_teach_unable_now_absurd_firm_spawn_harbor_parrot_sample_library_animal |  
+| bip_39_word_underscore_2 | produce_teach |  
+| bip_39_word_underscore_3 | produce_teach_unable |  
+| bip_39_word_underscore_4 | produce_teach_unable_now |  
+| bip_39_word_underscore_5 | produce_teach_unable_now_absurd |  
+| bip_39_word_underscore_6 | produce_teach_unable_now_absurd_firm |  
+| bip_39_word_underscore_7 | produce_teach_unable_now_absurd_firm_spawn |  
+| bip_39_word_underscore_8 | produce_teach_unable_now_absurd_firm_spawn_harbor |  
+| bip_39_word_underscore_9 | produce_teach_unable_now_absurd_firm_spawn_harbor_parrot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

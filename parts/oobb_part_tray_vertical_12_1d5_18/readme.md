@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | equal |  
+| bip_39_word_dash_10 | equal-wet-seat-find-carry-into-chalk-embark-meat-zone |  
+| bip_39_word_dash_11 | equal-wet-seat-find-carry-into-chalk-embark-meat-zone-file |  
+| bip_39_word_dash_12 | equal-wet-seat-find-carry-into-chalk-embark-meat-zone-file-apart |  
+| bip_39_word_dash_2 | equal-wet |  
+| bip_39_word_dash_3 | equal-wet-seat |  
+| bip_39_word_dash_4 | equal-wet-seat-find |  
+| bip_39_word_dash_5 | equal-wet-seat-find-carry |  
+| bip_39_word_dash_6 | equal-wet-seat-find-carry-into |  
+| bip_39_word_dash_7 | equal-wet-seat-find-carry-into-chalk |  
+| bip_39_word_dash_8 | equal-wet-seat-find-carry-into-chalk-embark |  
+| bip_39_word_dash_9 | equal-wet-seat-find-carry-into-chalk-embark-meat |  
 | bip_39_word_new_br_1 | equal |  
 | bip_39_word_new_br_10 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark<br>meat<br>zone |  
 | bip_39_word_new_br_11 | equal<br>wet<br>seat<br>find<br>carry<br>into<br>chalk<br>embark<br>meat<br>zone<br>file |  
@@ -147,6 +159,18 @@ meat |
 | bip_39_word_space_7 | equal wet seat find carry into chalk |  
 | bip_39_word_space_8 | equal wet seat find carry into chalk embark |  
 | bip_39_word_space_9 | equal wet seat find carry into chalk embark meat |  
+| bip_39_word_underscore_1 | equal |  
+| bip_39_word_underscore_10 | equal_wet_seat_find_carry_into_chalk_embark_meat_zone |  
+| bip_39_word_underscore_11 | equal_wet_seat_find_carry_into_chalk_embark_meat_zone_file |  
+| bip_39_word_underscore_12 | equal_wet_seat_find_carry_into_chalk_embark_meat_zone_file_apart |  
+| bip_39_word_underscore_2 | equal_wet |  
+| bip_39_word_underscore_3 | equal_wet_seat |  
+| bip_39_word_underscore_4 | equal_wet_seat_find |  
+| bip_39_word_underscore_5 | equal_wet_seat_find_carry |  
+| bip_39_word_underscore_6 | equal_wet_seat_find_carry_into |  
+| bip_39_word_underscore_7 | equal_wet_seat_find_carry_into_chalk |  
+| bip_39_word_underscore_8 | equal_wet_seat_find_carry_into_chalk_embark |  
+| bip_39_word_underscore_9 | equal_wet_seat_find_carry_into_chalk_embark_meat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

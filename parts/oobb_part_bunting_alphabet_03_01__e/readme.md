@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clown |  
+| bip_39_word_dash_10 | clown-ketchup-garbage-hill-wish-shiver-spawn-acquire-dust-pipe |  
+| bip_39_word_dash_11 | clown-ketchup-garbage-hill-wish-shiver-spawn-acquire-dust-pipe-infant |  
+| bip_39_word_dash_12 | clown-ketchup-garbage-hill-wish-shiver-spawn-acquire-dust-pipe-infant-actual |  
+| bip_39_word_dash_2 | clown-ketchup |  
+| bip_39_word_dash_3 | clown-ketchup-garbage |  
+| bip_39_word_dash_4 | clown-ketchup-garbage-hill |  
+| bip_39_word_dash_5 | clown-ketchup-garbage-hill-wish |  
+| bip_39_word_dash_6 | clown-ketchup-garbage-hill-wish-shiver |  
+| bip_39_word_dash_7 | clown-ketchup-garbage-hill-wish-shiver-spawn |  
+| bip_39_word_dash_8 | clown-ketchup-garbage-hill-wish-shiver-spawn-acquire |  
+| bip_39_word_dash_9 | clown-ketchup-garbage-hill-wish-shiver-spawn-acquire-dust |  
 | bip_39_word_new_br_1 | clown |  
 | bip_39_word_new_br_10 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe |  
 | bip_39_word_new_br_11 | clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe<br>infant |  
@@ -147,6 +159,18 @@ dust |
 | bip_39_word_space_7 | clown ketchup garbage hill wish shiver spawn |  
 | bip_39_word_space_8 | clown ketchup garbage hill wish shiver spawn acquire |  
 | bip_39_word_space_9 | clown ketchup garbage hill wish shiver spawn acquire dust |  
+| bip_39_word_underscore_1 | clown |  
+| bip_39_word_underscore_10 | clown_ketchup_garbage_hill_wish_shiver_spawn_acquire_dust_pipe |  
+| bip_39_word_underscore_11 | clown_ketchup_garbage_hill_wish_shiver_spawn_acquire_dust_pipe_infant |  
+| bip_39_word_underscore_12 | clown_ketchup_garbage_hill_wish_shiver_spawn_acquire_dust_pipe_infant_actual |  
+| bip_39_word_underscore_2 | clown_ketchup |  
+| bip_39_word_underscore_3 | clown_ketchup_garbage |  
+| bip_39_word_underscore_4 | clown_ketchup_garbage_hill |  
+| bip_39_word_underscore_5 | clown_ketchup_garbage_hill_wish |  
+| bip_39_word_underscore_6 | clown_ketchup_garbage_hill_wish_shiver |  
+| bip_39_word_underscore_7 | clown_ketchup_garbage_hill_wish_shiver_spawn |  
+| bip_39_word_underscore_8 | clown_ketchup_garbage_hill_wish_shiver_spawn_acquire |  
+| bip_39_word_underscore_9 | clown_ketchup_garbage_hill_wish_shiver_spawn_acquire_dust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

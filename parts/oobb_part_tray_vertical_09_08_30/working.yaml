@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pudding
+bip_39_word_dash_10: pudding-because-key-focus-resemble-engage-chimney-jewel-buyer-soda
+bip_39_word_dash_11: pudding-because-key-focus-resemble-engage-chimney-jewel-buyer-soda-mosquito
+bip_39_word_dash_12: pudding-because-key-focus-resemble-engage-chimney-jewel-buyer-soda-mosquito-air
+bip_39_word_dash_2: pudding-because
+bip_39_word_dash_3: pudding-because-key
+bip_39_word_dash_4: pudding-because-key-focus
+bip_39_word_dash_5: pudding-because-key-focus-resemble
+bip_39_word_dash_6: pudding-because-key-focus-resemble-engage
+bip_39_word_dash_7: pudding-because-key-focus-resemble-engage-chimney
+bip_39_word_dash_8: pudding-because-key-focus-resemble-engage-chimney-jewel
+bip_39_word_dash_9: pudding-because-key-focus-resemble-engage-chimney-jewel-buyer
 bip_39_word_new_br_1: pudding
 bip_39_word_new_br_10: pudding<br>because<br>key<br>focus<br>resemble<br>engage<br>chimney<br>jewel<br>buyer<br>soda
 bip_39_word_new_br_11: pudding<br>because<br>key<br>focus<br>resemble<br>engage<br>chimney<br>jewel<br>buyer<br>soda<br>mosquito
@@ -194,6 +206,18 @@ bip_39_word_space_6: pudding because key focus resemble engage
 bip_39_word_space_7: pudding because key focus resemble engage chimney
 bip_39_word_space_8: pudding because key focus resemble engage chimney jewel
 bip_39_word_space_9: pudding because key focus resemble engage chimney jewel buyer
+bip_39_word_underscore_1: pudding
+bip_39_word_underscore_10: pudding_because_key_focus_resemble_engage_chimney_jewel_buyer_soda
+bip_39_word_underscore_11: pudding_because_key_focus_resemble_engage_chimney_jewel_buyer_soda_mosquito
+bip_39_word_underscore_12: pudding_because_key_focus_resemble_engage_chimney_jewel_buyer_soda_mosquito_air
+bip_39_word_underscore_2: pudding_because
+bip_39_word_underscore_3: pudding_because_key
+bip_39_word_underscore_4: pudding_because_key_focus
+bip_39_word_underscore_5: pudding_because_key_focus_resemble
+bip_39_word_underscore_6: pudding_because_key_focus_resemble_engage
+bip_39_word_underscore_7: pudding_because_key_focus_resemble_engage_chimney
+bip_39_word_underscore_8: pudding_because_key_focus_resemble_engage_chimney_jewel
+bip_39_word_underscore_9: pudding_because_key_focus_resemble_engage_chimney_jewel_buyer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

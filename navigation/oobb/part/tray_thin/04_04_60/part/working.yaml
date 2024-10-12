@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wing
+bip_39_word_dash_10: wing-photo-parrot-hockey-legend-anchor-execute-cluster-license-dish
+bip_39_word_dash_11: wing-photo-parrot-hockey-legend-anchor-execute-cluster-license-dish-wealth
+bip_39_word_dash_12: wing-photo-parrot-hockey-legend-anchor-execute-cluster-license-dish-wealth-arena
+bip_39_word_dash_2: wing-photo
+bip_39_word_dash_3: wing-photo-parrot
+bip_39_word_dash_4: wing-photo-parrot-hockey
+bip_39_word_dash_5: wing-photo-parrot-hockey-legend
+bip_39_word_dash_6: wing-photo-parrot-hockey-legend-anchor
+bip_39_word_dash_7: wing-photo-parrot-hockey-legend-anchor-execute
+bip_39_word_dash_8: wing-photo-parrot-hockey-legend-anchor-execute-cluster
+bip_39_word_dash_9: wing-photo-parrot-hockey-legend-anchor-execute-cluster-license
 bip_39_word_new_br_1: wing
 bip_39_word_new_br_10: wing<br>photo<br>parrot<br>hockey<br>legend<br>anchor<br>execute<br>cluster<br>license<br>dish
 bip_39_word_new_br_11: wing<br>photo<br>parrot<br>hockey<br>legend<br>anchor<br>execute<br>cluster<br>license<br>dish<br>wealth
@@ -194,6 +206,18 @@ bip_39_word_space_6: wing photo parrot hockey legend anchor
 bip_39_word_space_7: wing photo parrot hockey legend anchor execute
 bip_39_word_space_8: wing photo parrot hockey legend anchor execute cluster
 bip_39_word_space_9: wing photo parrot hockey legend anchor execute cluster license
+bip_39_word_underscore_1: wing
+bip_39_word_underscore_10: wing_photo_parrot_hockey_legend_anchor_execute_cluster_license_dish
+bip_39_word_underscore_11: wing_photo_parrot_hockey_legend_anchor_execute_cluster_license_dish_wealth
+bip_39_word_underscore_12: wing_photo_parrot_hockey_legend_anchor_execute_cluster_license_dish_wealth_arena
+bip_39_word_underscore_2: wing_photo
+bip_39_word_underscore_3: wing_photo_parrot
+bip_39_word_underscore_4: wing_photo_parrot_hockey
+bip_39_word_underscore_5: wing_photo_parrot_hockey_legend
+bip_39_word_underscore_6: wing_photo_parrot_hockey_legend_anchor
+bip_39_word_underscore_7: wing_photo_parrot_hockey_legend_anchor_execute
+bip_39_word_underscore_8: wing_photo_parrot_hockey_legend_anchor_execute_cluster
+bip_39_word_underscore_9: wing_photo_parrot_hockey_legend_anchor_execute_cluster_license
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

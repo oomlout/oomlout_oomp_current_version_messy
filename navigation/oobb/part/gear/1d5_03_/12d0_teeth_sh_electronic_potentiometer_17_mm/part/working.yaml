@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nature
+bip_39_word_dash_10: nature-solution-cousin-recycle-art-share-fee-suit-drift-album
+bip_39_word_dash_11: nature-solution-cousin-recycle-art-share-fee-suit-drift-album-funny
+bip_39_word_dash_12: nature-solution-cousin-recycle-art-share-fee-suit-drift-album-funny-allow
+bip_39_word_dash_2: nature-solution
+bip_39_word_dash_3: nature-solution-cousin
+bip_39_word_dash_4: nature-solution-cousin-recycle
+bip_39_word_dash_5: nature-solution-cousin-recycle-art
+bip_39_word_dash_6: nature-solution-cousin-recycle-art-share
+bip_39_word_dash_7: nature-solution-cousin-recycle-art-share-fee
+bip_39_word_dash_8: nature-solution-cousin-recycle-art-share-fee-suit
+bip_39_word_dash_9: nature-solution-cousin-recycle-art-share-fee-suit-drift
 bip_39_word_new_br_1: nature
 bip_39_word_new_br_10: nature<br>solution<br>cousin<br>recycle<br>art<br>share<br>fee<br>suit<br>drift<br>album
 bip_39_word_new_br_11: nature<br>solution<br>cousin<br>recycle<br>art<br>share<br>fee<br>suit<br>drift<br>album<br>funny
@@ -193,6 +205,18 @@ bip_39_word_space_6: nature solution cousin recycle art share
 bip_39_word_space_7: nature solution cousin recycle art share fee
 bip_39_word_space_8: nature solution cousin recycle art share fee suit
 bip_39_word_space_9: nature solution cousin recycle art share fee suit drift
+bip_39_word_underscore_1: nature
+bip_39_word_underscore_10: nature_solution_cousin_recycle_art_share_fee_suit_drift_album
+bip_39_word_underscore_11: nature_solution_cousin_recycle_art_share_fee_suit_drift_album_funny
+bip_39_word_underscore_12: nature_solution_cousin_recycle_art_share_fee_suit_drift_album_funny_allow
+bip_39_word_underscore_2: nature_solution
+bip_39_word_underscore_3: nature_solution_cousin
+bip_39_word_underscore_4: nature_solution_cousin_recycle
+bip_39_word_underscore_5: nature_solution_cousin_recycle_art
+bip_39_word_underscore_6: nature_solution_cousin_recycle_art_share
+bip_39_word_underscore_7: nature_solution_cousin_recycle_art_share_fee
+bip_39_word_underscore_8: nature_solution_cousin_recycle_art_share_fee_suit
+bip_39_word_underscore_9: nature_solution_cousin_recycle_art_share_fee_suit_drift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

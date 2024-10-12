@@ -1,3 +1,15 @@
+bip_39_word_dash_1: firm
+bip_39_word_dash_10: firm-client-slow-rally-remind-ribbon-celery-minute-stairs-item
+bip_39_word_dash_11: firm-client-slow-rally-remind-ribbon-celery-minute-stairs-item-meadow
+bip_39_word_dash_12: firm-client-slow-rally-remind-ribbon-celery-minute-stairs-item-meadow-actress
+bip_39_word_dash_2: firm-client
+bip_39_word_dash_3: firm-client-slow
+bip_39_word_dash_4: firm-client-slow-rally
+bip_39_word_dash_5: firm-client-slow-rally-remind
+bip_39_word_dash_6: firm-client-slow-rally-remind-ribbon
+bip_39_word_dash_7: firm-client-slow-rally-remind-ribbon-celery
+bip_39_word_dash_8: firm-client-slow-rally-remind-ribbon-celery-minute
+bip_39_word_dash_9: firm-client-slow-rally-remind-ribbon-celery-minute-stairs
 bip_39_word_new_br_1: firm
 bip_39_word_new_br_10: firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute<br>stairs<br>item
 bip_39_word_new_br_11: firm<br>client<br>slow<br>rally<br>remind<br>ribbon<br>celery<br>minute<br>stairs<br>item<br>meadow
@@ -193,6 +205,18 @@ bip_39_word_space_6: firm client slow rally remind ribbon
 bip_39_word_space_7: firm client slow rally remind ribbon celery
 bip_39_word_space_8: firm client slow rally remind ribbon celery minute
 bip_39_word_space_9: firm client slow rally remind ribbon celery minute stairs
+bip_39_word_underscore_1: firm
+bip_39_word_underscore_10: firm_client_slow_rally_remind_ribbon_celery_minute_stairs_item
+bip_39_word_underscore_11: firm_client_slow_rally_remind_ribbon_celery_minute_stairs_item_meadow
+bip_39_word_underscore_12: firm_client_slow_rally_remind_ribbon_celery_minute_stairs_item_meadow_actress
+bip_39_word_underscore_2: firm_client
+bip_39_word_underscore_3: firm_client_slow
+bip_39_word_underscore_4: firm_client_slow_rally
+bip_39_word_underscore_5: firm_client_slow_rally_remind
+bip_39_word_underscore_6: firm_client_slow_rally_remind_ribbon
+bip_39_word_underscore_7: firm_client_slow_rally_remind_ribbon_celery
+bip_39_word_underscore_8: firm_client_slow_rally_remind_ribbon_celery_minute
+bip_39_word_underscore_9: firm_client_slow_rally_remind_ribbon_celery_minute_stairs
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

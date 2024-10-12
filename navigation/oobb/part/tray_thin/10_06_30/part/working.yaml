@@ -1,3 +1,15 @@
+bip_39_word_dash_1: scrap
+bip_39_word_dash_10: scrap-hair-danger-story-catch-crash-demand-survey-equal-glimpse
+bip_39_word_dash_11: scrap-hair-danger-story-catch-crash-demand-survey-equal-glimpse-view
+bip_39_word_dash_12: scrap-hair-danger-story-catch-crash-demand-survey-equal-glimpse-view-abstract
+bip_39_word_dash_2: scrap-hair
+bip_39_word_dash_3: scrap-hair-danger
+bip_39_word_dash_4: scrap-hair-danger-story
+bip_39_word_dash_5: scrap-hair-danger-story-catch
+bip_39_word_dash_6: scrap-hair-danger-story-catch-crash
+bip_39_word_dash_7: scrap-hair-danger-story-catch-crash-demand
+bip_39_word_dash_8: scrap-hair-danger-story-catch-crash-demand-survey
+bip_39_word_dash_9: scrap-hair-danger-story-catch-crash-demand-survey-equal
 bip_39_word_new_br_1: scrap
 bip_39_word_new_br_10: scrap<br>hair<br>danger<br>story<br>catch<br>crash<br>demand<br>survey<br>equal<br>glimpse
 bip_39_word_new_br_11: scrap<br>hair<br>danger<br>story<br>catch<br>crash<br>demand<br>survey<br>equal<br>glimpse<br>view
@@ -193,6 +205,18 @@ bip_39_word_space_6: scrap hair danger story catch crash
 bip_39_word_space_7: scrap hair danger story catch crash demand
 bip_39_word_space_8: scrap hair danger story catch crash demand survey
 bip_39_word_space_9: scrap hair danger story catch crash demand survey equal
+bip_39_word_underscore_1: scrap
+bip_39_word_underscore_10: scrap_hair_danger_story_catch_crash_demand_survey_equal_glimpse
+bip_39_word_underscore_11: scrap_hair_danger_story_catch_crash_demand_survey_equal_glimpse_view
+bip_39_word_underscore_12: scrap_hair_danger_story_catch_crash_demand_survey_equal_glimpse_view_abstract
+bip_39_word_underscore_2: scrap_hair
+bip_39_word_underscore_3: scrap_hair_danger
+bip_39_word_underscore_4: scrap_hair_danger_story
+bip_39_word_underscore_5: scrap_hair_danger_story_catch
+bip_39_word_underscore_6: scrap_hair_danger_story_catch_crash
+bip_39_word_underscore_7: scrap_hair_danger_story_catch_crash_demand
+bip_39_word_underscore_8: scrap_hair_danger_story_catch_crash_demand_survey
+bip_39_word_underscore_9: scrap_hair_danger_story_catch_crash_demand_survey_equal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

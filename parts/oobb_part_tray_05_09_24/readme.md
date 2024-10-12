@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | youth |  
+| bip_39_word_dash_10 | youth-tube-betray-rabbit-lawsuit-ship-adapt-fold-canal-hover |  
+| bip_39_word_dash_11 | youth-tube-betray-rabbit-lawsuit-ship-adapt-fold-canal-hover-clarify |  
+| bip_39_word_dash_12 | youth-tube-betray-rabbit-lawsuit-ship-adapt-fold-canal-hover-clarify-always |  
+| bip_39_word_dash_2 | youth-tube |  
+| bip_39_word_dash_3 | youth-tube-betray |  
+| bip_39_word_dash_4 | youth-tube-betray-rabbit |  
+| bip_39_word_dash_5 | youth-tube-betray-rabbit-lawsuit |  
+| bip_39_word_dash_6 | youth-tube-betray-rabbit-lawsuit-ship |  
+| bip_39_word_dash_7 | youth-tube-betray-rabbit-lawsuit-ship-adapt |  
+| bip_39_word_dash_8 | youth-tube-betray-rabbit-lawsuit-ship-adapt-fold |  
+| bip_39_word_dash_9 | youth-tube-betray-rabbit-lawsuit-ship-adapt-fold-canal |  
 | bip_39_word_new_br_1 | youth |  
 | bip_39_word_new_br_10 | youth<br>tube<br>betray<br>rabbit<br>lawsuit<br>ship<br>adapt<br>fold<br>canal<br>hover |  
 | bip_39_word_new_br_11 | youth<br>tube<br>betray<br>rabbit<br>lawsuit<br>ship<br>adapt<br>fold<br>canal<br>hover<br>clarify |  
@@ -147,6 +159,18 @@ canal |
 | bip_39_word_space_7 | youth tube betray rabbit lawsuit ship adapt |  
 | bip_39_word_space_8 | youth tube betray rabbit lawsuit ship adapt fold |  
 | bip_39_word_space_9 | youth tube betray rabbit lawsuit ship adapt fold canal |  
+| bip_39_word_underscore_1 | youth |  
+| bip_39_word_underscore_10 | youth_tube_betray_rabbit_lawsuit_ship_adapt_fold_canal_hover |  
+| bip_39_word_underscore_11 | youth_tube_betray_rabbit_lawsuit_ship_adapt_fold_canal_hover_clarify |  
+| bip_39_word_underscore_12 | youth_tube_betray_rabbit_lawsuit_ship_adapt_fold_canal_hover_clarify_always |  
+| bip_39_word_underscore_2 | youth_tube |  
+| bip_39_word_underscore_3 | youth_tube_betray |  
+| bip_39_word_underscore_4 | youth_tube_betray_rabbit |  
+| bip_39_word_underscore_5 | youth_tube_betray_rabbit_lawsuit |  
+| bip_39_word_underscore_6 | youth_tube_betray_rabbit_lawsuit_ship |  
+| bip_39_word_underscore_7 | youth_tube_betray_rabbit_lawsuit_ship_adapt |  
+| bip_39_word_underscore_8 | youth_tube_betray_rabbit_lawsuit_ship_adapt_fold |  
+| bip_39_word_underscore_9 | youth_tube_betray_rabbit_lawsuit_ship_adapt_fold_canal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

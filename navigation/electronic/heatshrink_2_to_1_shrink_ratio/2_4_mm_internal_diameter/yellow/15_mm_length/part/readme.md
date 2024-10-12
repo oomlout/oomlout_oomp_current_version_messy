@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | family |  
+| bip_39_word_dash_10 | family-rich-bean-area-brick-essay-seat-want-vapor-parent |  
+| bip_39_word_dash_11 | family-rich-bean-area-brick-essay-seat-want-vapor-parent-lonely |  
+| bip_39_word_dash_12 | family-rich-bean-area-brick-essay-seat-want-vapor-parent-lonely-act |  
+| bip_39_word_dash_2 | family-rich |  
+| bip_39_word_dash_3 | family-rich-bean |  
+| bip_39_word_dash_4 | family-rich-bean-area |  
+| bip_39_word_dash_5 | family-rich-bean-area-brick |  
+| bip_39_word_dash_6 | family-rich-bean-area-brick-essay |  
+| bip_39_word_dash_7 | family-rich-bean-area-brick-essay-seat |  
+| bip_39_word_dash_8 | family-rich-bean-area-brick-essay-seat-want |  
+| bip_39_word_dash_9 | family-rich-bean-area-brick-essay-seat-want-vapor |  
 | bip_39_word_new_br_1 | family |  
 | bip_39_word_new_br_10 | family<br>rich<br>bean<br>area<br>brick<br>essay<br>seat<br>want<br>vapor<br>parent |  
 | bip_39_word_new_br_11 | family<br>rich<br>bean<br>area<br>brick<br>essay<br>seat<br>want<br>vapor<br>parent<br>lonely |  
@@ -147,6 +159,18 @@ vapor |
 | bip_39_word_space_7 | family rich bean area brick essay seat |  
 | bip_39_word_space_8 | family rich bean area brick essay seat want |  
 | bip_39_word_space_9 | family rich bean area brick essay seat want vapor |  
+| bip_39_word_underscore_1 | family |  
+| bip_39_word_underscore_10 | family_rich_bean_area_brick_essay_seat_want_vapor_parent |  
+| bip_39_word_underscore_11 | family_rich_bean_area_brick_essay_seat_want_vapor_parent_lonely |  
+| bip_39_word_underscore_12 | family_rich_bean_area_brick_essay_seat_want_vapor_parent_lonely_act |  
+| bip_39_word_underscore_2 | family_rich |  
+| bip_39_word_underscore_3 | family_rich_bean |  
+| bip_39_word_underscore_4 | family_rich_bean_area |  
+| bip_39_word_underscore_5 | family_rich_bean_area_brick |  
+| bip_39_word_underscore_6 | family_rich_bean_area_brick_essay |  
+| bip_39_word_underscore_7 | family_rich_bean_area_brick_essay_seat |  
+| bip_39_word_underscore_8 | family_rich_bean_area_brick_essay_seat_want |  
+| bip_39_word_underscore_9 | family_rich_bean_area_brick_essay_seat_want_vapor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

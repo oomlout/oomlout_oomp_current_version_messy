@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grain |  
+| bip_39_word_dash_10 | grain-credit-aim-struggle-result-keep-venture-pepper-error-gaze |  
+| bip_39_word_dash_11 | grain-credit-aim-struggle-result-keep-venture-pepper-error-gaze-paddle |  
+| bip_39_word_dash_12 | grain-credit-aim-struggle-result-keep-venture-pepper-error-gaze-paddle-aspect |  
+| bip_39_word_dash_2 | grain-credit |  
+| bip_39_word_dash_3 | grain-credit-aim |  
+| bip_39_word_dash_4 | grain-credit-aim-struggle |  
+| bip_39_word_dash_5 | grain-credit-aim-struggle-result |  
+| bip_39_word_dash_6 | grain-credit-aim-struggle-result-keep |  
+| bip_39_word_dash_7 | grain-credit-aim-struggle-result-keep-venture |  
+| bip_39_word_dash_8 | grain-credit-aim-struggle-result-keep-venture-pepper |  
+| bip_39_word_dash_9 | grain-credit-aim-struggle-result-keep-venture-pepper-error |  
 | bip_39_word_new_br_1 | grain |  
 | bip_39_word_new_br_10 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze |  
 | bip_39_word_new_br_11 | grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze<br>paddle |  
@@ -147,6 +159,18 @@ error |
 | bip_39_word_space_7 | grain credit aim struggle result keep venture |  
 | bip_39_word_space_8 | grain credit aim struggle result keep venture pepper |  
 | bip_39_word_space_9 | grain credit aim struggle result keep venture pepper error |  
+| bip_39_word_underscore_1 | grain |  
+| bip_39_word_underscore_10 | grain_credit_aim_struggle_result_keep_venture_pepper_error_gaze |  
+| bip_39_word_underscore_11 | grain_credit_aim_struggle_result_keep_venture_pepper_error_gaze_paddle |  
+| bip_39_word_underscore_12 | grain_credit_aim_struggle_result_keep_venture_pepper_error_gaze_paddle_aspect |  
+| bip_39_word_underscore_2 | grain_credit |  
+| bip_39_word_underscore_3 | grain_credit_aim |  
+| bip_39_word_underscore_4 | grain_credit_aim_struggle |  
+| bip_39_word_underscore_5 | grain_credit_aim_struggle_result |  
+| bip_39_word_underscore_6 | grain_credit_aim_struggle_result_keep |  
+| bip_39_word_underscore_7 | grain_credit_aim_struggle_result_keep_venture |  
+| bip_39_word_underscore_8 | grain_credit_aim_struggle_result_keep_venture_pepper |  
+| bip_39_word_underscore_9 | grain_credit_aim_struggle_result_keep_venture_pepper_error |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hope |  
+| bip_39_word_dash_10 | hope-claim-prison-veteran-inherit-element-spike-minor-heavy-push |  
+| bip_39_word_dash_11 | hope-claim-prison-veteran-inherit-element-spike-minor-heavy-push-month |  
+| bip_39_word_dash_12 | hope-claim-prison-veteran-inherit-element-spike-minor-heavy-push-month-announce |  
+| bip_39_word_dash_2 | hope-claim |  
+| bip_39_word_dash_3 | hope-claim-prison |  
+| bip_39_word_dash_4 | hope-claim-prison-veteran |  
+| bip_39_word_dash_5 | hope-claim-prison-veteran-inherit |  
+| bip_39_word_dash_6 | hope-claim-prison-veteran-inherit-element |  
+| bip_39_word_dash_7 | hope-claim-prison-veteran-inherit-element-spike |  
+| bip_39_word_dash_8 | hope-claim-prison-veteran-inherit-element-spike-minor |  
+| bip_39_word_dash_9 | hope-claim-prison-veteran-inherit-element-spike-minor-heavy |  
 | bip_39_word_new_br_1 | hope |  
 | bip_39_word_new_br_10 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push |  
 | bip_39_word_new_br_11 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push<br>month |  
@@ -147,6 +159,18 @@ heavy |
 | bip_39_word_space_7 | hope claim prison veteran inherit element spike |  
 | bip_39_word_space_8 | hope claim prison veteran inherit element spike minor |  
 | bip_39_word_space_9 | hope claim prison veteran inherit element spike minor heavy |  
+| bip_39_word_underscore_1 | hope |  
+| bip_39_word_underscore_10 | hope_claim_prison_veteran_inherit_element_spike_minor_heavy_push |  
+| bip_39_word_underscore_11 | hope_claim_prison_veteran_inherit_element_spike_minor_heavy_push_month |  
+| bip_39_word_underscore_12 | hope_claim_prison_veteran_inherit_element_spike_minor_heavy_push_month_announce |  
+| bip_39_word_underscore_2 | hope_claim |  
+| bip_39_word_underscore_3 | hope_claim_prison |  
+| bip_39_word_underscore_4 | hope_claim_prison_veteran |  
+| bip_39_word_underscore_5 | hope_claim_prison_veteran_inherit |  
+| bip_39_word_underscore_6 | hope_claim_prison_veteran_inherit_element |  
+| bip_39_word_underscore_7 | hope_claim_prison_veteran_inherit_element_spike |  
+| bip_39_word_underscore_8 | hope_claim_prison_veteran_inherit_element_spike_minor |  
+| bip_39_word_underscore_9 | hope_claim_prison_veteran_inherit_element_spike_minor_heavy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

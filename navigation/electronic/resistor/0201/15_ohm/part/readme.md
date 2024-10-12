@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | canyon |  
+| bip_39_word_dash_10 | canyon-tenant-deny-claw-fence-amateur-duty-dwarf-street-digital |  
+| bip_39_word_dash_11 | canyon-tenant-deny-claw-fence-amateur-duty-dwarf-street-digital-load |  
+| bip_39_word_dash_12 | canyon-tenant-deny-claw-fence-amateur-duty-dwarf-street-digital-load-attack |  
+| bip_39_word_dash_2 | canyon-tenant |  
+| bip_39_word_dash_3 | canyon-tenant-deny |  
+| bip_39_word_dash_4 | canyon-tenant-deny-claw |  
+| bip_39_word_dash_5 | canyon-tenant-deny-claw-fence |  
+| bip_39_word_dash_6 | canyon-tenant-deny-claw-fence-amateur |  
+| bip_39_word_dash_7 | canyon-tenant-deny-claw-fence-amateur-duty |  
+| bip_39_word_dash_8 | canyon-tenant-deny-claw-fence-amateur-duty-dwarf |  
+| bip_39_word_dash_9 | canyon-tenant-deny-claw-fence-amateur-duty-dwarf-street |  
 | bip_39_word_new_br_1 | canyon |  
 | bip_39_word_new_br_10 | canyon<br>tenant<br>deny<br>claw<br>fence<br>amateur<br>duty<br>dwarf<br>street<br>digital |  
 | bip_39_word_new_br_11 | canyon<br>tenant<br>deny<br>claw<br>fence<br>amateur<br>duty<br>dwarf<br>street<br>digital<br>load |  
@@ -147,6 +159,18 @@ street |
 | bip_39_word_space_7 | canyon tenant deny claw fence amateur duty |  
 | bip_39_word_space_8 | canyon tenant deny claw fence amateur duty dwarf |  
 | bip_39_word_space_9 | canyon tenant deny claw fence amateur duty dwarf street |  
+| bip_39_word_underscore_1 | canyon |  
+| bip_39_word_underscore_10 | canyon_tenant_deny_claw_fence_amateur_duty_dwarf_street_digital |  
+| bip_39_word_underscore_11 | canyon_tenant_deny_claw_fence_amateur_duty_dwarf_street_digital_load |  
+| bip_39_word_underscore_12 | canyon_tenant_deny_claw_fence_amateur_duty_dwarf_street_digital_load_attack |  
+| bip_39_word_underscore_2 | canyon_tenant |  
+| bip_39_word_underscore_3 | canyon_tenant_deny |  
+| bip_39_word_underscore_4 | canyon_tenant_deny_claw |  
+| bip_39_word_underscore_5 | canyon_tenant_deny_claw_fence |  
+| bip_39_word_underscore_6 | canyon_tenant_deny_claw_fence_amateur |  
+| bip_39_word_underscore_7 | canyon_tenant_deny_claw_fence_amateur_duty |  
+| bip_39_word_underscore_8 | canyon_tenant_deny_claw_fence_amateur_duty_dwarf |  
+| bip_39_word_underscore_9 | canyon_tenant_deny_claw_fence_amateur_duty_dwarf_street |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

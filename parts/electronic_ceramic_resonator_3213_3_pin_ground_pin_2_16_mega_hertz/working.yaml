@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sense
+bip_39_word_dash_10: sense-dial-release-ignore-forest-minimum-tumble-gossip-iron-update
+bip_39_word_dash_11: sense-dial-release-ignore-forest-minimum-tumble-gossip-iron-update-struggle
+bip_39_word_dash_12: sense-dial-release-ignore-forest-minimum-tumble-gossip-iron-update-struggle-attitude
+bip_39_word_dash_2: sense-dial
+bip_39_word_dash_3: sense-dial-release
+bip_39_word_dash_4: sense-dial-release-ignore
+bip_39_word_dash_5: sense-dial-release-ignore-forest
+bip_39_word_dash_6: sense-dial-release-ignore-forest-minimum
+bip_39_word_dash_7: sense-dial-release-ignore-forest-minimum-tumble
+bip_39_word_dash_8: sense-dial-release-ignore-forest-minimum-tumble-gossip
+bip_39_word_dash_9: sense-dial-release-ignore-forest-minimum-tumble-gossip-iron
 bip_39_word_new_br_1: sense
 bip_39_word_new_br_10: sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update
 bip_39_word_new_br_11: sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update<br>struggle
@@ -194,6 +206,18 @@ bip_39_word_space_6: sense dial release ignore forest minimum
 bip_39_word_space_7: sense dial release ignore forest minimum tumble
 bip_39_word_space_8: sense dial release ignore forest minimum tumble gossip
 bip_39_word_space_9: sense dial release ignore forest minimum tumble gossip iron
+bip_39_word_underscore_1: sense
+bip_39_word_underscore_10: sense_dial_release_ignore_forest_minimum_tumble_gossip_iron_update
+bip_39_word_underscore_11: sense_dial_release_ignore_forest_minimum_tumble_gossip_iron_update_struggle
+bip_39_word_underscore_12: sense_dial_release_ignore_forest_minimum_tumble_gossip_iron_update_struggle_attitude
+bip_39_word_underscore_2: sense_dial
+bip_39_word_underscore_3: sense_dial_release
+bip_39_word_underscore_4: sense_dial_release_ignore
+bip_39_word_underscore_5: sense_dial_release_ignore_forest
+bip_39_word_underscore_6: sense_dial_release_ignore_forest_minimum
+bip_39_word_underscore_7: sense_dial_release_ignore_forest_minimum_tumble
+bip_39_word_underscore_8: sense_dial_release_ignore_forest_minimum_tumble_gossip
+bip_39_word_underscore_9: sense_dial_release_ignore_forest_minimum_tumble_gossip_iron
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

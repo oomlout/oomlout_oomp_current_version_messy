@@ -1,3 +1,15 @@
+bip_39_word_dash_1: output
+bip_39_word_dash_10: output-knife-spirit-kingdom-ethics-monkey-butter-arctic-distance-city
+bip_39_word_dash_11: output-knife-spirit-kingdom-ethics-monkey-butter-arctic-distance-city-spider
+bip_39_word_dash_12: output-knife-spirit-kingdom-ethics-monkey-butter-arctic-distance-city-spider-alter
+bip_39_word_dash_2: output-knife
+bip_39_word_dash_3: output-knife-spirit
+bip_39_word_dash_4: output-knife-spirit-kingdom
+bip_39_word_dash_5: output-knife-spirit-kingdom-ethics
+bip_39_word_dash_6: output-knife-spirit-kingdom-ethics-monkey
+bip_39_word_dash_7: output-knife-spirit-kingdom-ethics-monkey-butter
+bip_39_word_dash_8: output-knife-spirit-kingdom-ethics-monkey-butter-arctic
+bip_39_word_dash_9: output-knife-spirit-kingdom-ethics-monkey-butter-arctic-distance
 bip_39_word_new_br_1: output
 bip_39_word_new_br_10: output<br>knife<br>spirit<br>kingdom<br>ethics<br>monkey<br>butter<br>arctic<br>distance<br>city
 bip_39_word_new_br_11: output<br>knife<br>spirit<br>kingdom<br>ethics<br>monkey<br>butter<br>arctic<br>distance<br>city<br>spider
@@ -194,6 +206,18 @@ bip_39_word_space_6: output knife spirit kingdom ethics monkey
 bip_39_word_space_7: output knife spirit kingdom ethics monkey butter
 bip_39_word_space_8: output knife spirit kingdom ethics monkey butter arctic
 bip_39_word_space_9: output knife spirit kingdom ethics monkey butter arctic distance
+bip_39_word_underscore_1: output
+bip_39_word_underscore_10: output_knife_spirit_kingdom_ethics_monkey_butter_arctic_distance_city
+bip_39_word_underscore_11: output_knife_spirit_kingdom_ethics_monkey_butter_arctic_distance_city_spider
+bip_39_word_underscore_12: output_knife_spirit_kingdom_ethics_monkey_butter_arctic_distance_city_spider_alter
+bip_39_word_underscore_2: output_knife
+bip_39_word_underscore_3: output_knife_spirit
+bip_39_word_underscore_4: output_knife_spirit_kingdom
+bip_39_word_underscore_5: output_knife_spirit_kingdom_ethics
+bip_39_word_underscore_6: output_knife_spirit_kingdom_ethics_monkey
+bip_39_word_underscore_7: output_knife_spirit_kingdom_ethics_monkey_butter
+bip_39_word_underscore_8: output_knife_spirit_kingdom_ethics_monkey_butter_arctic
+bip_39_word_underscore_9: output_knife_spirit_kingdom_ethics_monkey_butter_arctic_distance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

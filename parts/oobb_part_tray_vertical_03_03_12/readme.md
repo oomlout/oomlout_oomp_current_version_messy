@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | federal |  
+| bip_39_word_dash_10 | federal-quantum-half-lyrics-real-coil-fragile-moment-route-torch |  
+| bip_39_word_dash_11 | federal-quantum-half-lyrics-real-coil-fragile-moment-route-torch-library |  
+| bip_39_word_dash_12 | federal-quantum-half-lyrics-real-coil-fragile-moment-route-torch-library-all |  
+| bip_39_word_dash_2 | federal-quantum |  
+| bip_39_word_dash_3 | federal-quantum-half |  
+| bip_39_word_dash_4 | federal-quantum-half-lyrics |  
+| bip_39_word_dash_5 | federal-quantum-half-lyrics-real |  
+| bip_39_word_dash_6 | federal-quantum-half-lyrics-real-coil |  
+| bip_39_word_dash_7 | federal-quantum-half-lyrics-real-coil-fragile |  
+| bip_39_word_dash_8 | federal-quantum-half-lyrics-real-coil-fragile-moment |  
+| bip_39_word_dash_9 | federal-quantum-half-lyrics-real-coil-fragile-moment-route |  
 | bip_39_word_new_br_1 | federal |  
 | bip_39_word_new_br_10 | federal<br>quantum<br>half<br>lyrics<br>real<br>coil<br>fragile<br>moment<br>route<br>torch |  
 | bip_39_word_new_br_11 | federal<br>quantum<br>half<br>lyrics<br>real<br>coil<br>fragile<br>moment<br>route<br>torch<br>library |  
@@ -147,6 +159,18 @@ route |
 | bip_39_word_space_7 | federal quantum half lyrics real coil fragile |  
 | bip_39_word_space_8 | federal quantum half lyrics real coil fragile moment |  
 | bip_39_word_space_9 | federal quantum half lyrics real coil fragile moment route |  
+| bip_39_word_underscore_1 | federal |  
+| bip_39_word_underscore_10 | federal_quantum_half_lyrics_real_coil_fragile_moment_route_torch |  
+| bip_39_word_underscore_11 | federal_quantum_half_lyrics_real_coil_fragile_moment_route_torch_library |  
+| bip_39_word_underscore_12 | federal_quantum_half_lyrics_real_coil_fragile_moment_route_torch_library_all |  
+| bip_39_word_underscore_2 | federal_quantum |  
+| bip_39_word_underscore_3 | federal_quantum_half |  
+| bip_39_word_underscore_4 | federal_quantum_half_lyrics |  
+| bip_39_word_underscore_5 | federal_quantum_half_lyrics_real |  
+| bip_39_word_underscore_6 | federal_quantum_half_lyrics_real_coil |  
+| bip_39_word_underscore_7 | federal_quantum_half_lyrics_real_coil_fragile |  
+| bip_39_word_underscore_8 | federal_quantum_half_lyrics_real_coil_fragile_moment |  
+| bip_39_word_underscore_9 | federal_quantum_half_lyrics_real_coil_fragile_moment_route |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

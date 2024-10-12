@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | debate |  
+| bip_39_word_dash_10 | debate-clinic-stereo-argue-lab-current-cat-bundle-east-pear |  
+| bip_39_word_dash_11 | debate-clinic-stereo-argue-lab-current-cat-bundle-east-pear-zebra |  
+| bip_39_word_dash_12 | debate-clinic-stereo-argue-lab-current-cat-bundle-east-pear-zebra-asset |  
+| bip_39_word_dash_2 | debate-clinic |  
+| bip_39_word_dash_3 | debate-clinic-stereo |  
+| bip_39_word_dash_4 | debate-clinic-stereo-argue |  
+| bip_39_word_dash_5 | debate-clinic-stereo-argue-lab |  
+| bip_39_word_dash_6 | debate-clinic-stereo-argue-lab-current |  
+| bip_39_word_dash_7 | debate-clinic-stereo-argue-lab-current-cat |  
+| bip_39_word_dash_8 | debate-clinic-stereo-argue-lab-current-cat-bundle |  
+| bip_39_word_dash_9 | debate-clinic-stereo-argue-lab-current-cat-bundle-east |  
 | bip_39_word_new_br_1 | debate |  
 | bip_39_word_new_br_10 | debate<br>clinic<br>stereo<br>argue<br>lab<br>current<br>cat<br>bundle<br>east<br>pear |  
 | bip_39_word_new_br_11 | debate<br>clinic<br>stereo<br>argue<br>lab<br>current<br>cat<br>bundle<br>east<br>pear<br>zebra |  
@@ -147,6 +159,18 @@ east |
 | bip_39_word_space_7 | debate clinic stereo argue lab current cat |  
 | bip_39_word_space_8 | debate clinic stereo argue lab current cat bundle |  
 | bip_39_word_space_9 | debate clinic stereo argue lab current cat bundle east |  
+| bip_39_word_underscore_1 | debate |  
+| bip_39_word_underscore_10 | debate_clinic_stereo_argue_lab_current_cat_bundle_east_pear |  
+| bip_39_word_underscore_11 | debate_clinic_stereo_argue_lab_current_cat_bundle_east_pear_zebra |  
+| bip_39_word_underscore_12 | debate_clinic_stereo_argue_lab_current_cat_bundle_east_pear_zebra_asset |  
+| bip_39_word_underscore_2 | debate_clinic |  
+| bip_39_word_underscore_3 | debate_clinic_stereo |  
+| bip_39_word_underscore_4 | debate_clinic_stereo_argue |  
+| bip_39_word_underscore_5 | debate_clinic_stereo_argue_lab |  
+| bip_39_word_underscore_6 | debate_clinic_stereo_argue_lab_current |  
+| bip_39_word_underscore_7 | debate_clinic_stereo_argue_lab_current_cat |  
+| bip_39_word_underscore_8 | debate_clinic_stereo_argue_lab_current_cat_bundle |  
+| bip_39_word_underscore_9 | debate_clinic_stereo_argue_lab_current_cat_bundle_east |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

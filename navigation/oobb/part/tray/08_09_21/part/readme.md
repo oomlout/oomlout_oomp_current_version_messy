@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | item |  
+| bip_39_word_dash_10 | item-shove-foil-dizzy-basic-bleak-tool-nest-link-battle |  
+| bip_39_word_dash_11 | item-shove-foil-dizzy-basic-bleak-tool-nest-link-battle-order |  
+| bip_39_word_dash_12 | item-shove-foil-dizzy-basic-bleak-tool-nest-link-battle-order-act |  
+| bip_39_word_dash_2 | item-shove |  
+| bip_39_word_dash_3 | item-shove-foil |  
+| bip_39_word_dash_4 | item-shove-foil-dizzy |  
+| bip_39_word_dash_5 | item-shove-foil-dizzy-basic |  
+| bip_39_word_dash_6 | item-shove-foil-dizzy-basic-bleak |  
+| bip_39_word_dash_7 | item-shove-foil-dizzy-basic-bleak-tool |  
+| bip_39_word_dash_8 | item-shove-foil-dizzy-basic-bleak-tool-nest |  
+| bip_39_word_dash_9 | item-shove-foil-dizzy-basic-bleak-tool-nest-link |  
 | bip_39_word_new_br_1 | item |  
 | bip_39_word_new_br_10 | item<br>shove<br>foil<br>dizzy<br>basic<br>bleak<br>tool<br>nest<br>link<br>battle |  
 | bip_39_word_new_br_11 | item<br>shove<br>foil<br>dizzy<br>basic<br>bleak<br>tool<br>nest<br>link<br>battle<br>order |  
@@ -147,6 +159,18 @@ link |
 | bip_39_word_space_7 | item shove foil dizzy basic bleak tool |  
 | bip_39_word_space_8 | item shove foil dizzy basic bleak tool nest |  
 | bip_39_word_space_9 | item shove foil dizzy basic bleak tool nest link |  
+| bip_39_word_underscore_1 | item |  
+| bip_39_word_underscore_10 | item_shove_foil_dizzy_basic_bleak_tool_nest_link_battle |  
+| bip_39_word_underscore_11 | item_shove_foil_dizzy_basic_bleak_tool_nest_link_battle_order |  
+| bip_39_word_underscore_12 | item_shove_foil_dizzy_basic_bleak_tool_nest_link_battle_order_act |  
+| bip_39_word_underscore_2 | item_shove |  
+| bip_39_word_underscore_3 | item_shove_foil |  
+| bip_39_word_underscore_4 | item_shove_foil_dizzy |  
+| bip_39_word_underscore_5 | item_shove_foil_dizzy_basic |  
+| bip_39_word_underscore_6 | item_shove_foil_dizzy_basic_bleak |  
+| bip_39_word_underscore_7 | item_shove_foil_dizzy_basic_bleak_tool |  
+| bip_39_word_underscore_8 | item_shove_foil_dizzy_basic_bleak_tool_nest |  
+| bip_39_word_underscore_9 | item_shove_foil_dizzy_basic_bleak_tool_nest_link |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

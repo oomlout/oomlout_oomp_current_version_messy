@@ -1,3 +1,15 @@
+bip_39_word_dash_1: parrot
+bip_39_word_dash_10: parrot-leg-another-patrol-neutral-nephew-antenna-cart-occur-into
+bip_39_word_dash_11: parrot-leg-another-patrol-neutral-nephew-antenna-cart-occur-into-retreat
+bip_39_word_dash_12: parrot-leg-another-patrol-neutral-nephew-antenna-cart-occur-into-retreat-across
+bip_39_word_dash_2: parrot-leg
+bip_39_word_dash_3: parrot-leg-another
+bip_39_word_dash_4: parrot-leg-another-patrol
+bip_39_word_dash_5: parrot-leg-another-patrol-neutral
+bip_39_word_dash_6: parrot-leg-another-patrol-neutral-nephew
+bip_39_word_dash_7: parrot-leg-another-patrol-neutral-nephew-antenna
+bip_39_word_dash_8: parrot-leg-another-patrol-neutral-nephew-antenna-cart
+bip_39_word_dash_9: parrot-leg-another-patrol-neutral-nephew-antenna-cart-occur
 bip_39_word_new_br_1: parrot
 bip_39_word_new_br_10: parrot<br>leg<br>another<br>patrol<br>neutral<br>nephew<br>antenna<br>cart<br>occur<br>into
 bip_39_word_new_br_11: parrot<br>leg<br>another<br>patrol<br>neutral<br>nephew<br>antenna<br>cart<br>occur<br>into<br>retreat
@@ -194,6 +206,18 @@ bip_39_word_space_6: parrot leg another patrol neutral nephew
 bip_39_word_space_7: parrot leg another patrol neutral nephew antenna
 bip_39_word_space_8: parrot leg another patrol neutral nephew antenna cart
 bip_39_word_space_9: parrot leg another patrol neutral nephew antenna cart occur
+bip_39_word_underscore_1: parrot
+bip_39_word_underscore_10: parrot_leg_another_patrol_neutral_nephew_antenna_cart_occur_into
+bip_39_word_underscore_11: parrot_leg_another_patrol_neutral_nephew_antenna_cart_occur_into_retreat
+bip_39_word_underscore_12: parrot_leg_another_patrol_neutral_nephew_antenna_cart_occur_into_retreat_across
+bip_39_word_underscore_2: parrot_leg
+bip_39_word_underscore_3: parrot_leg_another
+bip_39_word_underscore_4: parrot_leg_another_patrol
+bip_39_word_underscore_5: parrot_leg_another_patrol_neutral
+bip_39_word_underscore_6: parrot_leg_another_patrol_neutral_nephew
+bip_39_word_underscore_7: parrot_leg_another_patrol_neutral_nephew_antenna
+bip_39_word_underscore_8: parrot_leg_another_patrol_neutral_nephew_antenna_cart
+bip_39_word_underscore_9: parrot_leg_another_patrol_neutral_nephew_antenna_cart_occur
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

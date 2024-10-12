@@ -1,3 +1,15 @@
+bip_39_word_dash_1: effort
+bip_39_word_dash_10: effort-claim-salon-biology-region-ramp-cupboard-borrow-paddle-pact
+bip_39_word_dash_11: effort-claim-salon-biology-region-ramp-cupboard-borrow-paddle-pact-make
+bip_39_word_dash_12: effort-claim-salon-biology-region-ramp-cupboard-borrow-paddle-pact-make-autumn
+bip_39_word_dash_2: effort-claim
+bip_39_word_dash_3: effort-claim-salon
+bip_39_word_dash_4: effort-claim-salon-biology
+bip_39_word_dash_5: effort-claim-salon-biology-region
+bip_39_word_dash_6: effort-claim-salon-biology-region-ramp
+bip_39_word_dash_7: effort-claim-salon-biology-region-ramp-cupboard
+bip_39_word_dash_8: effort-claim-salon-biology-region-ramp-cupboard-borrow
+bip_39_word_dash_9: effort-claim-salon-biology-region-ramp-cupboard-borrow-paddle
 bip_39_word_new_br_1: effort
 bip_39_word_new_br_10: effort<br>claim<br>salon<br>biology<br>region<br>ramp<br>cupboard<br>borrow<br>paddle<br>pact
 bip_39_word_new_br_11: effort<br>claim<br>salon<br>biology<br>region<br>ramp<br>cupboard<br>borrow<br>paddle<br>pact<br>make
@@ -194,6 +206,18 @@ bip_39_word_space_6: effort claim salon biology region ramp
 bip_39_word_space_7: effort claim salon biology region ramp cupboard
 bip_39_word_space_8: effort claim salon biology region ramp cupboard borrow
 bip_39_word_space_9: effort claim salon biology region ramp cupboard borrow paddle
+bip_39_word_underscore_1: effort
+bip_39_word_underscore_10: effort_claim_salon_biology_region_ramp_cupboard_borrow_paddle_pact
+bip_39_word_underscore_11: effort_claim_salon_biology_region_ramp_cupboard_borrow_paddle_pact_make
+bip_39_word_underscore_12: effort_claim_salon_biology_region_ramp_cupboard_borrow_paddle_pact_make_autumn
+bip_39_word_underscore_2: effort_claim
+bip_39_word_underscore_3: effort_claim_salon
+bip_39_word_underscore_4: effort_claim_salon_biology
+bip_39_word_underscore_5: effort_claim_salon_biology_region
+bip_39_word_underscore_6: effort_claim_salon_biology_region_ramp
+bip_39_word_underscore_7: effort_claim_salon_biology_region_ramp_cupboard
+bip_39_word_underscore_8: effort_claim_salon_biology_region_ramp_cupboard_borrow
+bip_39_word_underscore_9: effort_claim_salon_biology_region_ramp_cupboard_borrow_paddle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

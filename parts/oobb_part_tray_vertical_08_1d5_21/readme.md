@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | limit |  
+| bip_39_word_dash_10 | limit-coin-harbor-fox-decorate-verify-gadget-deputy-winner-expose |  
+| bip_39_word_dash_11 | limit-coin-harbor-fox-decorate-verify-gadget-deputy-winner-expose-tortoise |  
+| bip_39_word_dash_12 | limit-coin-harbor-fox-decorate-verify-gadget-deputy-winner-expose-tortoise-absorb |  
+| bip_39_word_dash_2 | limit-coin |  
+| bip_39_word_dash_3 | limit-coin-harbor |  
+| bip_39_word_dash_4 | limit-coin-harbor-fox |  
+| bip_39_word_dash_5 | limit-coin-harbor-fox-decorate |  
+| bip_39_word_dash_6 | limit-coin-harbor-fox-decorate-verify |  
+| bip_39_word_dash_7 | limit-coin-harbor-fox-decorate-verify-gadget |  
+| bip_39_word_dash_8 | limit-coin-harbor-fox-decorate-verify-gadget-deputy |  
+| bip_39_word_dash_9 | limit-coin-harbor-fox-decorate-verify-gadget-deputy-winner |  
 | bip_39_word_new_br_1 | limit |  
 | bip_39_word_new_br_10 | limit<br>coin<br>harbor<br>fox<br>decorate<br>verify<br>gadget<br>deputy<br>winner<br>expose |  
 | bip_39_word_new_br_11 | limit<br>coin<br>harbor<br>fox<br>decorate<br>verify<br>gadget<br>deputy<br>winner<br>expose<br>tortoise |  
@@ -147,6 +159,18 @@ winner |
 | bip_39_word_space_7 | limit coin harbor fox decorate verify gadget |  
 | bip_39_word_space_8 | limit coin harbor fox decorate verify gadget deputy |  
 | bip_39_word_space_9 | limit coin harbor fox decorate verify gadget deputy winner |  
+| bip_39_word_underscore_1 | limit |  
+| bip_39_word_underscore_10 | limit_coin_harbor_fox_decorate_verify_gadget_deputy_winner_expose |  
+| bip_39_word_underscore_11 | limit_coin_harbor_fox_decorate_verify_gadget_deputy_winner_expose_tortoise |  
+| bip_39_word_underscore_12 | limit_coin_harbor_fox_decorate_verify_gadget_deputy_winner_expose_tortoise_absorb |  
+| bip_39_word_underscore_2 | limit_coin |  
+| bip_39_word_underscore_3 | limit_coin_harbor |  
+| bip_39_word_underscore_4 | limit_coin_harbor_fox |  
+| bip_39_word_underscore_5 | limit_coin_harbor_fox_decorate |  
+| bip_39_word_underscore_6 | limit_coin_harbor_fox_decorate_verify |  
+| bip_39_word_underscore_7 | limit_coin_harbor_fox_decorate_verify_gadget |  
+| bip_39_word_underscore_8 | limit_coin_harbor_fox_decorate_verify_gadget_deputy |  
+| bip_39_word_underscore_9 | limit_coin_harbor_fox_decorate_verify_gadget_deputy_winner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gaze
+bip_39_word_dash_10: gaze-exercise-bench-decade-oak-economy-disagree-snow-tower-element
+bip_39_word_dash_11: gaze-exercise-bench-decade-oak-economy-disagree-snow-tower-element-fancy
+bip_39_word_dash_12: gaze-exercise-bench-decade-oak-economy-disagree-snow-tower-element-fancy-arena
+bip_39_word_dash_2: gaze-exercise
+bip_39_word_dash_3: gaze-exercise-bench
+bip_39_word_dash_4: gaze-exercise-bench-decade
+bip_39_word_dash_5: gaze-exercise-bench-decade-oak
+bip_39_word_dash_6: gaze-exercise-bench-decade-oak-economy
+bip_39_word_dash_7: gaze-exercise-bench-decade-oak-economy-disagree
+bip_39_word_dash_8: gaze-exercise-bench-decade-oak-economy-disagree-snow
+bip_39_word_dash_9: gaze-exercise-bench-decade-oak-economy-disagree-snow-tower
 bip_39_word_new_br_1: gaze
 bip_39_word_new_br_10: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element
 bip_39_word_new_br_11: gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element<br>fancy
@@ -193,6 +205,18 @@ bip_39_word_space_6: gaze exercise bench decade oak economy
 bip_39_word_space_7: gaze exercise bench decade oak economy disagree
 bip_39_word_space_8: gaze exercise bench decade oak economy disagree snow
 bip_39_word_space_9: gaze exercise bench decade oak economy disagree snow tower
+bip_39_word_underscore_1: gaze
+bip_39_word_underscore_10: gaze_exercise_bench_decade_oak_economy_disagree_snow_tower_element
+bip_39_word_underscore_11: gaze_exercise_bench_decade_oak_economy_disagree_snow_tower_element_fancy
+bip_39_word_underscore_12: gaze_exercise_bench_decade_oak_economy_disagree_snow_tower_element_fancy_arena
+bip_39_word_underscore_2: gaze_exercise
+bip_39_word_underscore_3: gaze_exercise_bench
+bip_39_word_underscore_4: gaze_exercise_bench_decade
+bip_39_word_underscore_5: gaze_exercise_bench_decade_oak
+bip_39_word_underscore_6: gaze_exercise_bench_decade_oak_economy
+bip_39_word_underscore_7: gaze_exercise_bench_decade_oak_economy_disagree
+bip_39_word_underscore_8: gaze_exercise_bench_decade_oak_economy_disagree_snow
+bip_39_word_underscore_9: gaze_exercise_bench_decade_oak_economy_disagree_snow_tower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

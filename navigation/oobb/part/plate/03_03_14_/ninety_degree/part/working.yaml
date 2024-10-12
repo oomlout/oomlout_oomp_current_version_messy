@@ -1,3 +1,15 @@
+bip_39_word_dash_1: already
+bip_39_word_dash_10: already-account-fish-bone-prosper-silver-student-athlete-unfold-hybrid
+bip_39_word_dash_11: already-account-fish-bone-prosper-silver-student-athlete-unfold-hybrid-stamp
+bip_39_word_dash_12: already-account-fish-bone-prosper-silver-student-athlete-unfold-hybrid-stamp-absorb
+bip_39_word_dash_2: already-account
+bip_39_word_dash_3: already-account-fish
+bip_39_word_dash_4: already-account-fish-bone
+bip_39_word_dash_5: already-account-fish-bone-prosper
+bip_39_word_dash_6: already-account-fish-bone-prosper-silver
+bip_39_word_dash_7: already-account-fish-bone-prosper-silver-student
+bip_39_word_dash_8: already-account-fish-bone-prosper-silver-student-athlete
+bip_39_word_dash_9: already-account-fish-bone-prosper-silver-student-athlete-unfold
 bip_39_word_new_br_1: already
 bip_39_word_new_br_10: already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid
 bip_39_word_new_br_11: already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid<br>stamp
@@ -194,6 +206,18 @@ bip_39_word_space_6: already account fish bone prosper silver
 bip_39_word_space_7: already account fish bone prosper silver student
 bip_39_word_space_8: already account fish bone prosper silver student athlete
 bip_39_word_space_9: already account fish bone prosper silver student athlete unfold
+bip_39_word_underscore_1: already
+bip_39_word_underscore_10: already_account_fish_bone_prosper_silver_student_athlete_unfold_hybrid
+bip_39_word_underscore_11: already_account_fish_bone_prosper_silver_student_athlete_unfold_hybrid_stamp
+bip_39_word_underscore_12: already_account_fish_bone_prosper_silver_student_athlete_unfold_hybrid_stamp_absorb
+bip_39_word_underscore_2: already_account
+bip_39_word_underscore_3: already_account_fish
+bip_39_word_underscore_4: already_account_fish_bone
+bip_39_word_underscore_5: already_account_fish_bone_prosper
+bip_39_word_underscore_6: already_account_fish_bone_prosper_silver
+bip_39_word_underscore_7: already_account_fish_bone_prosper_silver_student
+bip_39_word_underscore_8: already_account_fish_bone_prosper_silver_student_athlete
+bip_39_word_underscore_9: already_account_fish_bone_prosper_silver_student_athlete_unfold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

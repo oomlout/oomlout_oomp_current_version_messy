@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skull |  
+| bip_39_word_dash_10 | skull-approve-reform-tip-grow-erase-vendor-name-always-law |  
+| bip_39_word_dash_11 | skull-approve-reform-tip-grow-erase-vendor-name-always-law-day |  
+| bip_39_word_dash_12 | skull-approve-reform-tip-grow-erase-vendor-name-always-law-day-approve |  
+| bip_39_word_dash_2 | skull-approve |  
+| bip_39_word_dash_3 | skull-approve-reform |  
+| bip_39_word_dash_4 | skull-approve-reform-tip |  
+| bip_39_word_dash_5 | skull-approve-reform-tip-grow |  
+| bip_39_word_dash_6 | skull-approve-reform-tip-grow-erase |  
+| bip_39_word_dash_7 | skull-approve-reform-tip-grow-erase-vendor |  
+| bip_39_word_dash_8 | skull-approve-reform-tip-grow-erase-vendor-name |  
+| bip_39_word_dash_9 | skull-approve-reform-tip-grow-erase-vendor-name-always |  
 | bip_39_word_new_br_1 | skull |  
 | bip_39_word_new_br_10 | skull<br>approve<br>reform<br>tip<br>grow<br>erase<br>vendor<br>name<br>always<br>law |  
 | bip_39_word_new_br_11 | skull<br>approve<br>reform<br>tip<br>grow<br>erase<br>vendor<br>name<br>always<br>law<br>day |  
@@ -147,6 +159,18 @@ always |
 | bip_39_word_space_7 | skull approve reform tip grow erase vendor |  
 | bip_39_word_space_8 | skull approve reform tip grow erase vendor name |  
 | bip_39_word_space_9 | skull approve reform tip grow erase vendor name always |  
+| bip_39_word_underscore_1 | skull |  
+| bip_39_word_underscore_10 | skull_approve_reform_tip_grow_erase_vendor_name_always_law |  
+| bip_39_word_underscore_11 | skull_approve_reform_tip_grow_erase_vendor_name_always_law_day |  
+| bip_39_word_underscore_12 | skull_approve_reform_tip_grow_erase_vendor_name_always_law_day_approve |  
+| bip_39_word_underscore_2 | skull_approve |  
+| bip_39_word_underscore_3 | skull_approve_reform |  
+| bip_39_word_underscore_4 | skull_approve_reform_tip |  
+| bip_39_word_underscore_5 | skull_approve_reform_tip_grow |  
+| bip_39_word_underscore_6 | skull_approve_reform_tip_grow_erase |  
+| bip_39_word_underscore_7 | skull_approve_reform_tip_grow_erase_vendor |  
+| bip_39_word_underscore_8 | skull_approve_reform_tip_grow_erase_vendor_name |  
+| bip_39_word_underscore_9 | skull_approve_reform_tip_grow_erase_vendor_name_always |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

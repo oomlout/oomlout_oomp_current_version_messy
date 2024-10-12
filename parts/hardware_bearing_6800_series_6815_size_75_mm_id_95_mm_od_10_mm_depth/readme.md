@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | apple |  
+| bip_39_word_dash_10 | apple-cave-cry-again-forum-rose-seek-eight-dirt-detect |  
+| bip_39_word_dash_11 | apple-cave-cry-again-forum-rose-seek-eight-dirt-detect-nerve |  
+| bip_39_word_dash_12 | apple-cave-cry-again-forum-rose-seek-eight-dirt-detect-nerve-anchor |  
+| bip_39_word_dash_2 | apple-cave |  
+| bip_39_word_dash_3 | apple-cave-cry |  
+| bip_39_word_dash_4 | apple-cave-cry-again |  
+| bip_39_word_dash_5 | apple-cave-cry-again-forum |  
+| bip_39_word_dash_6 | apple-cave-cry-again-forum-rose |  
+| bip_39_word_dash_7 | apple-cave-cry-again-forum-rose-seek |  
+| bip_39_word_dash_8 | apple-cave-cry-again-forum-rose-seek-eight |  
+| bip_39_word_dash_9 | apple-cave-cry-again-forum-rose-seek-eight-dirt |  
 | bip_39_word_new_br_1 | apple |  
 | bip_39_word_new_br_10 | apple<br>cave<br>cry<br>again<br>forum<br>rose<br>seek<br>eight<br>dirt<br>detect |  
 | bip_39_word_new_br_11 | apple<br>cave<br>cry<br>again<br>forum<br>rose<br>seek<br>eight<br>dirt<br>detect<br>nerve |  
@@ -147,6 +159,18 @@ dirt |
 | bip_39_word_space_7 | apple cave cry again forum rose seek |  
 | bip_39_word_space_8 | apple cave cry again forum rose seek eight |  
 | bip_39_word_space_9 | apple cave cry again forum rose seek eight dirt |  
+| bip_39_word_underscore_1 | apple |  
+| bip_39_word_underscore_10 | apple_cave_cry_again_forum_rose_seek_eight_dirt_detect |  
+| bip_39_word_underscore_11 | apple_cave_cry_again_forum_rose_seek_eight_dirt_detect_nerve |  
+| bip_39_word_underscore_12 | apple_cave_cry_again_forum_rose_seek_eight_dirt_detect_nerve_anchor |  
+| bip_39_word_underscore_2 | apple_cave |  
+| bip_39_word_underscore_3 | apple_cave_cry |  
+| bip_39_word_underscore_4 | apple_cave_cry_again |  
+| bip_39_word_underscore_5 | apple_cave_cry_again_forum |  
+| bip_39_word_underscore_6 | apple_cave_cry_again_forum_rose |  
+| bip_39_word_underscore_7 | apple_cave_cry_again_forum_rose_seek |  
+| bip_39_word_underscore_8 | apple_cave_cry_again_forum_rose_seek_eight |  
+| bip_39_word_underscore_9 | apple_cave_cry_again_forum_rose_seek_eight_dirt |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pelican
+bip_39_word_dash_10: pelican-foot-verify-glow-magic-shove-candy-farm-common-private
+bip_39_word_dash_11: pelican-foot-verify-glow-magic-shove-candy-farm-common-private-equal
+bip_39_word_dash_12: pelican-foot-verify-glow-magic-shove-candy-farm-common-private-equal-about
+bip_39_word_dash_2: pelican-foot
+bip_39_word_dash_3: pelican-foot-verify
+bip_39_word_dash_4: pelican-foot-verify-glow
+bip_39_word_dash_5: pelican-foot-verify-glow-magic
+bip_39_word_dash_6: pelican-foot-verify-glow-magic-shove
+bip_39_word_dash_7: pelican-foot-verify-glow-magic-shove-candy
+bip_39_word_dash_8: pelican-foot-verify-glow-magic-shove-candy-farm
+bip_39_word_dash_9: pelican-foot-verify-glow-magic-shove-candy-farm-common
 bip_39_word_new_br_1: pelican
 bip_39_word_new_br_10: pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private
 bip_39_word_new_br_11: pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private<br>equal
@@ -193,6 +205,18 @@ bip_39_word_space_6: pelican foot verify glow magic shove
 bip_39_word_space_7: pelican foot verify glow magic shove candy
 bip_39_word_space_8: pelican foot verify glow magic shove candy farm
 bip_39_word_space_9: pelican foot verify glow magic shove candy farm common
+bip_39_word_underscore_1: pelican
+bip_39_word_underscore_10: pelican_foot_verify_glow_magic_shove_candy_farm_common_private
+bip_39_word_underscore_11: pelican_foot_verify_glow_magic_shove_candy_farm_common_private_equal
+bip_39_word_underscore_12: pelican_foot_verify_glow_magic_shove_candy_farm_common_private_equal_about
+bip_39_word_underscore_2: pelican_foot
+bip_39_word_underscore_3: pelican_foot_verify
+bip_39_word_underscore_4: pelican_foot_verify_glow
+bip_39_word_underscore_5: pelican_foot_verify_glow_magic
+bip_39_word_underscore_6: pelican_foot_verify_glow_magic_shove
+bip_39_word_underscore_7: pelican_foot_verify_glow_magic_shove_candy
+bip_39_word_underscore_8: pelican_foot_verify_glow_magic_shove_candy_farm
+bip_39_word_underscore_9: pelican_foot_verify_glow_magic_shove_candy_farm_common
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

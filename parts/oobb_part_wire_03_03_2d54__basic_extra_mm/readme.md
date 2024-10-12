@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | milk |  
+| bip_39_word_dash_10 | milk-tobacco-flight-arena-impact-chapter-away-swing-myself-interest |  
+| bip_39_word_dash_11 | milk-tobacco-flight-arena-impact-chapter-away-swing-myself-interest-consider |  
+| bip_39_word_dash_12 | milk-tobacco-flight-arena-impact-chapter-away-swing-myself-interest-consider-another |  
+| bip_39_word_dash_2 | milk-tobacco |  
+| bip_39_word_dash_3 | milk-tobacco-flight |  
+| bip_39_word_dash_4 | milk-tobacco-flight-arena |  
+| bip_39_word_dash_5 | milk-tobacco-flight-arena-impact |  
+| bip_39_word_dash_6 | milk-tobacco-flight-arena-impact-chapter |  
+| bip_39_word_dash_7 | milk-tobacco-flight-arena-impact-chapter-away |  
+| bip_39_word_dash_8 | milk-tobacco-flight-arena-impact-chapter-away-swing |  
+| bip_39_word_dash_9 | milk-tobacco-flight-arena-impact-chapter-away-swing-myself |  
 | bip_39_word_new_br_1 | milk |  
 | bip_39_word_new_br_10 | milk<br>tobacco<br>flight<br>arena<br>impact<br>chapter<br>away<br>swing<br>myself<br>interest |  
 | bip_39_word_new_br_11 | milk<br>tobacco<br>flight<br>arena<br>impact<br>chapter<br>away<br>swing<br>myself<br>interest<br>consider |  
@@ -147,6 +159,18 @@ myself |
 | bip_39_word_space_7 | milk tobacco flight arena impact chapter away |  
 | bip_39_word_space_8 | milk tobacco flight arena impact chapter away swing |  
 | bip_39_word_space_9 | milk tobacco flight arena impact chapter away swing myself |  
+| bip_39_word_underscore_1 | milk |  
+| bip_39_word_underscore_10 | milk_tobacco_flight_arena_impact_chapter_away_swing_myself_interest |  
+| bip_39_word_underscore_11 | milk_tobacco_flight_arena_impact_chapter_away_swing_myself_interest_consider |  
+| bip_39_word_underscore_12 | milk_tobacco_flight_arena_impact_chapter_away_swing_myself_interest_consider_another |  
+| bip_39_word_underscore_2 | milk_tobacco |  
+| bip_39_word_underscore_3 | milk_tobacco_flight |  
+| bip_39_word_underscore_4 | milk_tobacco_flight_arena |  
+| bip_39_word_underscore_5 | milk_tobacco_flight_arena_impact |  
+| bip_39_word_underscore_6 | milk_tobacco_flight_arena_impact_chapter |  
+| bip_39_word_underscore_7 | milk_tobacco_flight_arena_impact_chapter_away |  
+| bip_39_word_underscore_8 | milk_tobacco_flight_arena_impact_chapter_away_swing |  
+| bip_39_word_underscore_9 | milk_tobacco_flight_arena_impact_chapter_away_swing_myself |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

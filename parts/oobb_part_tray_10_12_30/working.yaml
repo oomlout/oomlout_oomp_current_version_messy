@@ -1,3 +1,15 @@
+bip_39_word_dash_1: saddle
+bip_39_word_dash_10: saddle-lounge-supply-echo-arm-egg-art-sting-adult-bacon
+bip_39_word_dash_11: saddle-lounge-supply-echo-arm-egg-art-sting-adult-bacon-shrimp
+bip_39_word_dash_12: saddle-lounge-supply-echo-arm-egg-art-sting-adult-bacon-shrimp-anger
+bip_39_word_dash_2: saddle-lounge
+bip_39_word_dash_3: saddle-lounge-supply
+bip_39_word_dash_4: saddle-lounge-supply-echo
+bip_39_word_dash_5: saddle-lounge-supply-echo-arm
+bip_39_word_dash_6: saddle-lounge-supply-echo-arm-egg
+bip_39_word_dash_7: saddle-lounge-supply-echo-arm-egg-art
+bip_39_word_dash_8: saddle-lounge-supply-echo-arm-egg-art-sting
+bip_39_word_dash_9: saddle-lounge-supply-echo-arm-egg-art-sting-adult
 bip_39_word_new_br_1: saddle
 bip_39_word_new_br_10: saddle<br>lounge<br>supply<br>echo<br>arm<br>egg<br>art<br>sting<br>adult<br>bacon
 bip_39_word_new_br_11: saddle<br>lounge<br>supply<br>echo<br>arm<br>egg<br>art<br>sting<br>adult<br>bacon<br>shrimp
@@ -192,6 +204,18 @@ bip_39_word_space_6: saddle lounge supply echo arm egg
 bip_39_word_space_7: saddle lounge supply echo arm egg art
 bip_39_word_space_8: saddle lounge supply echo arm egg art sting
 bip_39_word_space_9: saddle lounge supply echo arm egg art sting adult
+bip_39_word_underscore_1: saddle
+bip_39_word_underscore_10: saddle_lounge_supply_echo_arm_egg_art_sting_adult_bacon
+bip_39_word_underscore_11: saddle_lounge_supply_echo_arm_egg_art_sting_adult_bacon_shrimp
+bip_39_word_underscore_12: saddle_lounge_supply_echo_arm_egg_art_sting_adult_bacon_shrimp_anger
+bip_39_word_underscore_2: saddle_lounge
+bip_39_word_underscore_3: saddle_lounge_supply
+bip_39_word_underscore_4: saddle_lounge_supply_echo
+bip_39_word_underscore_5: saddle_lounge_supply_echo_arm
+bip_39_word_underscore_6: saddle_lounge_supply_echo_arm_egg
+bip_39_word_underscore_7: saddle_lounge_supply_echo_arm_egg_art
+bip_39_word_underscore_8: saddle_lounge_supply_echo_arm_egg_art_sting
+bip_39_word_underscore_9: saddle_lounge_supply_echo_arm_egg_art_sting_adult
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

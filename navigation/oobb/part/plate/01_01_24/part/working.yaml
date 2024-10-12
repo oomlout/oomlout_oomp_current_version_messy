@@ -1,3 +1,15 @@
+bip_39_word_dash_1: siren
+bip_39_word_dash_10: siren-reason-poet-curious-bridge-side-lens-camp-innocent-enforce
+bip_39_word_dash_11: siren-reason-poet-curious-bridge-side-lens-camp-innocent-enforce-tiger
+bip_39_word_dash_12: siren-reason-poet-curious-bridge-side-lens-camp-innocent-enforce-tiger-all
+bip_39_word_dash_2: siren-reason
+bip_39_word_dash_3: siren-reason-poet
+bip_39_word_dash_4: siren-reason-poet-curious
+bip_39_word_dash_5: siren-reason-poet-curious-bridge
+bip_39_word_dash_6: siren-reason-poet-curious-bridge-side
+bip_39_word_dash_7: siren-reason-poet-curious-bridge-side-lens
+bip_39_word_dash_8: siren-reason-poet-curious-bridge-side-lens-camp
+bip_39_word_dash_9: siren-reason-poet-curious-bridge-side-lens-camp-innocent
 bip_39_word_new_br_1: siren
 bip_39_word_new_br_10: siren<br>reason<br>poet<br>curious<br>bridge<br>side<br>lens<br>camp<br>innocent<br>enforce
 bip_39_word_new_br_11: siren<br>reason<br>poet<br>curious<br>bridge<br>side<br>lens<br>camp<br>innocent<br>enforce<br>tiger
@@ -193,6 +205,18 @@ bip_39_word_space_6: siren reason poet curious bridge side
 bip_39_word_space_7: siren reason poet curious bridge side lens
 bip_39_word_space_8: siren reason poet curious bridge side lens camp
 bip_39_word_space_9: siren reason poet curious bridge side lens camp innocent
+bip_39_word_underscore_1: siren
+bip_39_word_underscore_10: siren_reason_poet_curious_bridge_side_lens_camp_innocent_enforce
+bip_39_word_underscore_11: siren_reason_poet_curious_bridge_side_lens_camp_innocent_enforce_tiger
+bip_39_word_underscore_12: siren_reason_poet_curious_bridge_side_lens_camp_innocent_enforce_tiger_all
+bip_39_word_underscore_2: siren_reason
+bip_39_word_underscore_3: siren_reason_poet
+bip_39_word_underscore_4: siren_reason_poet_curious
+bip_39_word_underscore_5: siren_reason_poet_curious_bridge
+bip_39_word_underscore_6: siren_reason_poet_curious_bridge_side
+bip_39_word_underscore_7: siren_reason_poet_curious_bridge_side_lens
+bip_39_word_underscore_8: siren_reason_poet_curious_bridge_side_lens_camp
+bip_39_word_underscore_9: siren_reason_poet_curious_bridge_side_lens_camp_innocent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

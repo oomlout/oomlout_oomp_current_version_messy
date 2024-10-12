@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cigar |  
+| bip_39_word_dash_10 | cigar-kid-derive-before-outside-duck-paddle-pig-comfort-bean |  
+| bip_39_word_dash_11 | cigar-kid-derive-before-outside-duck-paddle-pig-comfort-bean-misery |  
+| bip_39_word_dash_12 | cigar-kid-derive-before-outside-duck-paddle-pig-comfort-bean-misery-above |  
+| bip_39_word_dash_2 | cigar-kid |  
+| bip_39_word_dash_3 | cigar-kid-derive |  
+| bip_39_word_dash_4 | cigar-kid-derive-before |  
+| bip_39_word_dash_5 | cigar-kid-derive-before-outside |  
+| bip_39_word_dash_6 | cigar-kid-derive-before-outside-duck |  
+| bip_39_word_dash_7 | cigar-kid-derive-before-outside-duck-paddle |  
+| bip_39_word_dash_8 | cigar-kid-derive-before-outside-duck-paddle-pig |  
+| bip_39_word_dash_9 | cigar-kid-derive-before-outside-duck-paddle-pig-comfort |  
 | bip_39_word_new_br_1 | cigar |  
 | bip_39_word_new_br_10 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig<br>comfort<br>bean |  
 | bip_39_word_new_br_11 | cigar<br>kid<br>derive<br>before<br>outside<br>duck<br>paddle<br>pig<br>comfort<br>bean<br>misery |  
@@ -147,6 +159,18 @@ comfort |
 | bip_39_word_space_7 | cigar kid derive before outside duck paddle |  
 | bip_39_word_space_8 | cigar kid derive before outside duck paddle pig |  
 | bip_39_word_space_9 | cigar kid derive before outside duck paddle pig comfort |  
+| bip_39_word_underscore_1 | cigar |  
+| bip_39_word_underscore_10 | cigar_kid_derive_before_outside_duck_paddle_pig_comfort_bean |  
+| bip_39_word_underscore_11 | cigar_kid_derive_before_outside_duck_paddle_pig_comfort_bean_misery |  
+| bip_39_word_underscore_12 | cigar_kid_derive_before_outside_duck_paddle_pig_comfort_bean_misery_above |  
+| bip_39_word_underscore_2 | cigar_kid |  
+| bip_39_word_underscore_3 | cigar_kid_derive |  
+| bip_39_word_underscore_4 | cigar_kid_derive_before |  
+| bip_39_word_underscore_5 | cigar_kid_derive_before_outside |  
+| bip_39_word_underscore_6 | cigar_kid_derive_before_outside_duck |  
+| bip_39_word_underscore_7 | cigar_kid_derive_before_outside_duck_paddle |  
+| bip_39_word_underscore_8 | cigar_kid_derive_before_outside_duck_paddle_pig |  
+| bip_39_word_underscore_9 | cigar_kid_derive_before_outside_duck_paddle_pig_comfort |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

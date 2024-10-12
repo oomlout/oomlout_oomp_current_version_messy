@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | improve |  
+| bip_39_word_dash_10 | improve-rookie-leg-current-cream-coconut-fuel-express-indoor-eyebrow |  
+| bip_39_word_dash_11 | improve-rookie-leg-current-cream-coconut-fuel-express-indoor-eyebrow-thank |  
+| bip_39_word_dash_12 | improve-rookie-leg-current-cream-coconut-fuel-express-indoor-eyebrow-thank-about |  
+| bip_39_word_dash_2 | improve-rookie |  
+| bip_39_word_dash_3 | improve-rookie-leg |  
+| bip_39_word_dash_4 | improve-rookie-leg-current |  
+| bip_39_word_dash_5 | improve-rookie-leg-current-cream |  
+| bip_39_word_dash_6 | improve-rookie-leg-current-cream-coconut |  
+| bip_39_word_dash_7 | improve-rookie-leg-current-cream-coconut-fuel |  
+| bip_39_word_dash_8 | improve-rookie-leg-current-cream-coconut-fuel-express |  
+| bip_39_word_dash_9 | improve-rookie-leg-current-cream-coconut-fuel-express-indoor |  
 | bip_39_word_new_br_1 | improve |  
 | bip_39_word_new_br_10 | improve<br>rookie<br>leg<br>current<br>cream<br>coconut<br>fuel<br>express<br>indoor<br>eyebrow |  
 | bip_39_word_new_br_11 | improve<br>rookie<br>leg<br>current<br>cream<br>coconut<br>fuel<br>express<br>indoor<br>eyebrow<br>thank |  
@@ -147,6 +159,18 @@ indoor |
 | bip_39_word_space_7 | improve rookie leg current cream coconut fuel |  
 | bip_39_word_space_8 | improve rookie leg current cream coconut fuel express |  
 | bip_39_word_space_9 | improve rookie leg current cream coconut fuel express indoor |  
+| bip_39_word_underscore_1 | improve |  
+| bip_39_word_underscore_10 | improve_rookie_leg_current_cream_coconut_fuel_express_indoor_eyebrow |  
+| bip_39_word_underscore_11 | improve_rookie_leg_current_cream_coconut_fuel_express_indoor_eyebrow_thank |  
+| bip_39_word_underscore_12 | improve_rookie_leg_current_cream_coconut_fuel_express_indoor_eyebrow_thank_about |  
+| bip_39_word_underscore_2 | improve_rookie |  
+| bip_39_word_underscore_3 | improve_rookie_leg |  
+| bip_39_word_underscore_4 | improve_rookie_leg_current |  
+| bip_39_word_underscore_5 | improve_rookie_leg_current_cream |  
+| bip_39_word_underscore_6 | improve_rookie_leg_current_cream_coconut |  
+| bip_39_word_underscore_7 | improve_rookie_leg_current_cream_coconut_fuel |  
+| bip_39_word_underscore_8 | improve_rookie_leg_current_cream_coconut_fuel_express |  
+| bip_39_word_underscore_9 | improve_rookie_leg_current_cream_coconut_fuel_express_indoor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

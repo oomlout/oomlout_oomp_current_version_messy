@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tuna
+bip_39_word_dash_10: tuna-empty-deliver-original-mean-build-canvas-aunt-idea-used
+bip_39_word_dash_11: tuna-empty-deliver-original-mean-build-canvas-aunt-idea-used-fuel
+bip_39_word_dash_12: tuna-empty-deliver-original-mean-build-canvas-aunt-idea-used-fuel-accuse
+bip_39_word_dash_2: tuna-empty
+bip_39_word_dash_3: tuna-empty-deliver
+bip_39_word_dash_4: tuna-empty-deliver-original
+bip_39_word_dash_5: tuna-empty-deliver-original-mean
+bip_39_word_dash_6: tuna-empty-deliver-original-mean-build
+bip_39_word_dash_7: tuna-empty-deliver-original-mean-build-canvas
+bip_39_word_dash_8: tuna-empty-deliver-original-mean-build-canvas-aunt
+bip_39_word_dash_9: tuna-empty-deliver-original-mean-build-canvas-aunt-idea
 bip_39_word_new_br_1: tuna
 bip_39_word_new_br_10: tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt<br>idea<br>used
 bip_39_word_new_br_11: tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt<br>idea<br>used<br>fuel
@@ -193,6 +205,18 @@ bip_39_word_space_6: tuna empty deliver original mean build
 bip_39_word_space_7: tuna empty deliver original mean build canvas
 bip_39_word_space_8: tuna empty deliver original mean build canvas aunt
 bip_39_word_space_9: tuna empty deliver original mean build canvas aunt idea
+bip_39_word_underscore_1: tuna
+bip_39_word_underscore_10: tuna_empty_deliver_original_mean_build_canvas_aunt_idea_used
+bip_39_word_underscore_11: tuna_empty_deliver_original_mean_build_canvas_aunt_idea_used_fuel
+bip_39_word_underscore_12: tuna_empty_deliver_original_mean_build_canvas_aunt_idea_used_fuel_accuse
+bip_39_word_underscore_2: tuna_empty
+bip_39_word_underscore_3: tuna_empty_deliver
+bip_39_word_underscore_4: tuna_empty_deliver_original
+bip_39_word_underscore_5: tuna_empty_deliver_original_mean
+bip_39_word_underscore_6: tuna_empty_deliver_original_mean_build
+bip_39_word_underscore_7: tuna_empty_deliver_original_mean_build_canvas
+bip_39_word_underscore_8: tuna_empty_deliver_original_mean_build_canvas_aunt
+bip_39_word_underscore_9: tuna_empty_deliver_original_mean_build_canvas_aunt_idea
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

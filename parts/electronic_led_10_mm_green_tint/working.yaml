@@ -1,3 +1,14 @@
+bip_39_word_dash_1: wash
+bip_39_word_dash_10: wash-stuff-online-cash-slice-virtual-rebel-claim-december-ivory
+bip_39_word_dash_11: wash-stuff-online-cash-slice-virtual-rebel-claim-december-ivory-dumb
+bip_39_word_dash_2: wash-stuff
+bip_39_word_dash_3: wash-stuff-online
+bip_39_word_dash_4: wash-stuff-online-cash
+bip_39_word_dash_5: wash-stuff-online-cash-slice
+bip_39_word_dash_6: wash-stuff-online-cash-slice-virtual
+bip_39_word_dash_7: wash-stuff-online-cash-slice-virtual-rebel
+bip_39_word_dash_8: wash-stuff-online-cash-slice-virtual-rebel-claim
+bip_39_word_dash_9: wash-stuff-online-cash-slice-virtual-rebel-claim-december
 bip_39_word_new_br_1: wash
 bip_39_word_new_br_10: wash<br>stuff<br>online<br>cash<br>slice<br>virtual<br>rebel<br>claim<br>december<br>ivory
 bip_39_word_new_br_11: wash<br>stuff<br>online<br>cash<br>slice<br>virtual<br>rebel<br>claim<br>december<br>ivory<br>dumb
@@ -165,6 +176,17 @@ bip_39_word_space_6: wash stuff online cash slice virtual
 bip_39_word_space_7: wash stuff online cash slice virtual rebel
 bip_39_word_space_8: wash stuff online cash slice virtual rebel claim
 bip_39_word_space_9: wash stuff online cash slice virtual rebel claim december
+bip_39_word_underscore_1: wash
+bip_39_word_underscore_10: wash_stuff_online_cash_slice_virtual_rebel_claim_december_ivory
+bip_39_word_underscore_11: wash_stuff_online_cash_slice_virtual_rebel_claim_december_ivory_dumb
+bip_39_word_underscore_2: wash_stuff
+bip_39_word_underscore_3: wash_stuff_online
+bip_39_word_underscore_4: wash_stuff_online_cash
+bip_39_word_underscore_5: wash_stuff_online_cash_slice
+bip_39_word_underscore_6: wash_stuff_online_cash_slice_virtual
+bip_39_word_underscore_7: wash_stuff_online_cash_slice_virtual_rebel
+bip_39_word_underscore_8: wash_stuff_online_cash_slice_virtual_rebel_claim
+bip_39_word_underscore_9: wash_stuff_online_cash_slice_virtual_rebel_claim_december
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

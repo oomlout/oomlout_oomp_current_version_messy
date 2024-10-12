@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wet
+bip_39_word_dash_10: wet-immune-alert-kangaroo-exile-wealth-margin-quiz-basic-they
+bip_39_word_dash_11: wet-immune-alert-kangaroo-exile-wealth-margin-quiz-basic-they-receive
+bip_39_word_dash_12: wet-immune-alert-kangaroo-exile-wealth-margin-quiz-basic-they-receive-about
+bip_39_word_dash_2: wet-immune
+bip_39_word_dash_3: wet-immune-alert
+bip_39_word_dash_4: wet-immune-alert-kangaroo
+bip_39_word_dash_5: wet-immune-alert-kangaroo-exile
+bip_39_word_dash_6: wet-immune-alert-kangaroo-exile-wealth
+bip_39_word_dash_7: wet-immune-alert-kangaroo-exile-wealth-margin
+bip_39_word_dash_8: wet-immune-alert-kangaroo-exile-wealth-margin-quiz
+bip_39_word_dash_9: wet-immune-alert-kangaroo-exile-wealth-margin-quiz-basic
 bip_39_word_new_br_1: wet
 bip_39_word_new_br_10: wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz<br>basic<br>they
 bip_39_word_new_br_11: wet<br>immune<br>alert<br>kangaroo<br>exile<br>wealth<br>margin<br>quiz<br>basic<br>they<br>receive
@@ -193,6 +205,18 @@ bip_39_word_space_6: wet immune alert kangaroo exile wealth
 bip_39_word_space_7: wet immune alert kangaroo exile wealth margin
 bip_39_word_space_8: wet immune alert kangaroo exile wealth margin quiz
 bip_39_word_space_9: wet immune alert kangaroo exile wealth margin quiz basic
+bip_39_word_underscore_1: wet
+bip_39_word_underscore_10: wet_immune_alert_kangaroo_exile_wealth_margin_quiz_basic_they
+bip_39_word_underscore_11: wet_immune_alert_kangaroo_exile_wealth_margin_quiz_basic_they_receive
+bip_39_word_underscore_12: wet_immune_alert_kangaroo_exile_wealth_margin_quiz_basic_they_receive_about
+bip_39_word_underscore_2: wet_immune
+bip_39_word_underscore_3: wet_immune_alert
+bip_39_word_underscore_4: wet_immune_alert_kangaroo
+bip_39_word_underscore_5: wet_immune_alert_kangaroo_exile
+bip_39_word_underscore_6: wet_immune_alert_kangaroo_exile_wealth
+bip_39_word_underscore_7: wet_immune_alert_kangaroo_exile_wealth_margin
+bip_39_word_underscore_8: wet_immune_alert_kangaroo_exile_wealth_margin_quiz
+bip_39_word_underscore_9: wet_immune_alert_kangaroo_exile_wealth_margin_quiz_basic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

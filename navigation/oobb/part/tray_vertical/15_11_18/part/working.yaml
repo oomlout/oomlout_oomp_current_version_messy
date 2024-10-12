@@ -1,3 +1,15 @@
+bip_39_word_dash_1: angle
+bip_39_word_dash_10: angle-pulp-symbol-mixture-tomorrow-stick-talk-thunder-final-armor
+bip_39_word_dash_11: angle-pulp-symbol-mixture-tomorrow-stick-talk-thunder-final-armor-sun
+bip_39_word_dash_12: angle-pulp-symbol-mixture-tomorrow-stick-talk-thunder-final-armor-sun-access
+bip_39_word_dash_2: angle-pulp
+bip_39_word_dash_3: angle-pulp-symbol
+bip_39_word_dash_4: angle-pulp-symbol-mixture
+bip_39_word_dash_5: angle-pulp-symbol-mixture-tomorrow
+bip_39_word_dash_6: angle-pulp-symbol-mixture-tomorrow-stick
+bip_39_word_dash_7: angle-pulp-symbol-mixture-tomorrow-stick-talk
+bip_39_word_dash_8: angle-pulp-symbol-mixture-tomorrow-stick-talk-thunder
+bip_39_word_dash_9: angle-pulp-symbol-mixture-tomorrow-stick-talk-thunder-final
 bip_39_word_new_br_1: angle
 bip_39_word_new_br_10: angle<br>pulp<br>symbol<br>mixture<br>tomorrow<br>stick<br>talk<br>thunder<br>final<br>armor
 bip_39_word_new_br_11: angle<br>pulp<br>symbol<br>mixture<br>tomorrow<br>stick<br>talk<br>thunder<br>final<br>armor<br>sun
@@ -194,6 +206,18 @@ bip_39_word_space_6: angle pulp symbol mixture tomorrow stick
 bip_39_word_space_7: angle pulp symbol mixture tomorrow stick talk
 bip_39_word_space_8: angle pulp symbol mixture tomorrow stick talk thunder
 bip_39_word_space_9: angle pulp symbol mixture tomorrow stick talk thunder final
+bip_39_word_underscore_1: angle
+bip_39_word_underscore_10: angle_pulp_symbol_mixture_tomorrow_stick_talk_thunder_final_armor
+bip_39_word_underscore_11: angle_pulp_symbol_mixture_tomorrow_stick_talk_thunder_final_armor_sun
+bip_39_word_underscore_12: angle_pulp_symbol_mixture_tomorrow_stick_talk_thunder_final_armor_sun_access
+bip_39_word_underscore_2: angle_pulp
+bip_39_word_underscore_3: angle_pulp_symbol
+bip_39_word_underscore_4: angle_pulp_symbol_mixture
+bip_39_word_underscore_5: angle_pulp_symbol_mixture_tomorrow
+bip_39_word_underscore_6: angle_pulp_symbol_mixture_tomorrow_stick
+bip_39_word_underscore_7: angle_pulp_symbol_mixture_tomorrow_stick_talk
+bip_39_word_underscore_8: angle_pulp_symbol_mixture_tomorrow_stick_talk_thunder
+bip_39_word_underscore_9: angle_pulp_symbol_mixture_tomorrow_stick_talk_thunder_final
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

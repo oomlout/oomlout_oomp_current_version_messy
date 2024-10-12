@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | person |  
+| bip_39_word_dash_10 | person-dinosaur-forget-below-gaze-orbit-gain-opera-measure-skill |  
+| bip_39_word_dash_11 | person-dinosaur-forget-below-gaze-orbit-gain-opera-measure-skill-rely |  
+| bip_39_word_dash_12 | person-dinosaur-forget-below-gaze-orbit-gain-opera-measure-skill-rely-absent |  
+| bip_39_word_dash_2 | person-dinosaur |  
+| bip_39_word_dash_3 | person-dinosaur-forget |  
+| bip_39_word_dash_4 | person-dinosaur-forget-below |  
+| bip_39_word_dash_5 | person-dinosaur-forget-below-gaze |  
+| bip_39_word_dash_6 | person-dinosaur-forget-below-gaze-orbit |  
+| bip_39_word_dash_7 | person-dinosaur-forget-below-gaze-orbit-gain |  
+| bip_39_word_dash_8 | person-dinosaur-forget-below-gaze-orbit-gain-opera |  
+| bip_39_word_dash_9 | person-dinosaur-forget-below-gaze-orbit-gain-opera-measure |  
 | bip_39_word_new_br_1 | person |  
 | bip_39_word_new_br_10 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera<br>measure<br>skill |  
 | bip_39_word_new_br_11 | person<br>dinosaur<br>forget<br>below<br>gaze<br>orbit<br>gain<br>opera<br>measure<br>skill<br>rely |  
@@ -147,6 +159,18 @@ measure |
 | bip_39_word_space_7 | person dinosaur forget below gaze orbit gain |  
 | bip_39_word_space_8 | person dinosaur forget below gaze orbit gain opera |  
 | bip_39_word_space_9 | person dinosaur forget below gaze orbit gain opera measure |  
+| bip_39_word_underscore_1 | person |  
+| bip_39_word_underscore_10 | person_dinosaur_forget_below_gaze_orbit_gain_opera_measure_skill |  
+| bip_39_word_underscore_11 | person_dinosaur_forget_below_gaze_orbit_gain_opera_measure_skill_rely |  
+| bip_39_word_underscore_12 | person_dinosaur_forget_below_gaze_orbit_gain_opera_measure_skill_rely_absent |  
+| bip_39_word_underscore_2 | person_dinosaur |  
+| bip_39_word_underscore_3 | person_dinosaur_forget |  
+| bip_39_word_underscore_4 | person_dinosaur_forget_below |  
+| bip_39_word_underscore_5 | person_dinosaur_forget_below_gaze |  
+| bip_39_word_underscore_6 | person_dinosaur_forget_below_gaze_orbit |  
+| bip_39_word_underscore_7 | person_dinosaur_forget_below_gaze_orbit_gain |  
+| bip_39_word_underscore_8 | person_dinosaur_forget_below_gaze_orbit_gain_opera |  
+| bip_39_word_underscore_9 | person_dinosaur_forget_below_gaze_orbit_gain_opera_measure |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: globe
+bip_39_word_dash_10: globe-shield-input-sock-shoot-head-exhaust-erase-into-emerge
+bip_39_word_dash_11: globe-shield-input-sock-shoot-head-exhaust-erase-into-emerge-base
+bip_39_word_dash_12: globe-shield-input-sock-shoot-head-exhaust-erase-into-emerge-base-autumn
+bip_39_word_dash_2: globe-shield
+bip_39_word_dash_3: globe-shield-input
+bip_39_word_dash_4: globe-shield-input-sock
+bip_39_word_dash_5: globe-shield-input-sock-shoot
+bip_39_word_dash_6: globe-shield-input-sock-shoot-head
+bip_39_word_dash_7: globe-shield-input-sock-shoot-head-exhaust
+bip_39_word_dash_8: globe-shield-input-sock-shoot-head-exhaust-erase
+bip_39_word_dash_9: globe-shield-input-sock-shoot-head-exhaust-erase-into
 bip_39_word_new_br_1: globe
 bip_39_word_new_br_10: globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase<br>into<br>emerge
 bip_39_word_new_br_11: globe<br>shield<br>input<br>sock<br>shoot<br>head<br>exhaust<br>erase<br>into<br>emerge<br>base
@@ -193,6 +205,18 @@ bip_39_word_space_6: globe shield input sock shoot head
 bip_39_word_space_7: globe shield input sock shoot head exhaust
 bip_39_word_space_8: globe shield input sock shoot head exhaust erase
 bip_39_word_space_9: globe shield input sock shoot head exhaust erase into
+bip_39_word_underscore_1: globe
+bip_39_word_underscore_10: globe_shield_input_sock_shoot_head_exhaust_erase_into_emerge
+bip_39_word_underscore_11: globe_shield_input_sock_shoot_head_exhaust_erase_into_emerge_base
+bip_39_word_underscore_12: globe_shield_input_sock_shoot_head_exhaust_erase_into_emerge_base_autumn
+bip_39_word_underscore_2: globe_shield
+bip_39_word_underscore_3: globe_shield_input
+bip_39_word_underscore_4: globe_shield_input_sock
+bip_39_word_underscore_5: globe_shield_input_sock_shoot
+bip_39_word_underscore_6: globe_shield_input_sock_shoot_head
+bip_39_word_underscore_7: globe_shield_input_sock_shoot_head_exhaust
+bip_39_word_underscore_8: globe_shield_input_sock_shoot_head_exhaust_erase
+bip_39_word_underscore_9: globe_shield_input_sock_shoot_head_exhaust_erase_into
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

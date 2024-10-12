@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | popular |  
+| bip_39_word_dash_10 | popular-reunion-february-ginger-notice-cheap-viable-earth-place-infant |  
+| bip_39_word_dash_11 | popular-reunion-february-ginger-notice-cheap-viable-earth-place-infant-defense |  
+| bip_39_word_dash_12 | popular-reunion-february-ginger-notice-cheap-viable-earth-place-infant-defense-amateur |  
+| bip_39_word_dash_2 | popular-reunion |  
+| bip_39_word_dash_3 | popular-reunion-february |  
+| bip_39_word_dash_4 | popular-reunion-february-ginger |  
+| bip_39_word_dash_5 | popular-reunion-february-ginger-notice |  
+| bip_39_word_dash_6 | popular-reunion-february-ginger-notice-cheap |  
+| bip_39_word_dash_7 | popular-reunion-february-ginger-notice-cheap-viable |  
+| bip_39_word_dash_8 | popular-reunion-february-ginger-notice-cheap-viable-earth |  
+| bip_39_word_dash_9 | popular-reunion-february-ginger-notice-cheap-viable-earth-place |  
 | bip_39_word_new_br_1 | popular |  
 | bip_39_word_new_br_10 | popular<br>reunion<br>february<br>ginger<br>notice<br>cheap<br>viable<br>earth<br>place<br>infant |  
 | bip_39_word_new_br_11 | popular<br>reunion<br>february<br>ginger<br>notice<br>cheap<br>viable<br>earth<br>place<br>infant<br>defense |  
@@ -147,6 +159,18 @@ place |
 | bip_39_word_space_7 | popular reunion february ginger notice cheap viable |  
 | bip_39_word_space_8 | popular reunion february ginger notice cheap viable earth |  
 | bip_39_word_space_9 | popular reunion february ginger notice cheap viable earth place |  
+| bip_39_word_underscore_1 | popular |  
+| bip_39_word_underscore_10 | popular_reunion_february_ginger_notice_cheap_viable_earth_place_infant |  
+| bip_39_word_underscore_11 | popular_reunion_february_ginger_notice_cheap_viable_earth_place_infant_defense |  
+| bip_39_word_underscore_12 | popular_reunion_february_ginger_notice_cheap_viable_earth_place_infant_defense_amateur |  
+| bip_39_word_underscore_2 | popular_reunion |  
+| bip_39_word_underscore_3 | popular_reunion_february |  
+| bip_39_word_underscore_4 | popular_reunion_february_ginger |  
+| bip_39_word_underscore_5 | popular_reunion_february_ginger_notice |  
+| bip_39_word_underscore_6 | popular_reunion_february_ginger_notice_cheap |  
+| bip_39_word_underscore_7 | popular_reunion_february_ginger_notice_cheap_viable |  
+| bip_39_word_underscore_8 | popular_reunion_february_ginger_notice_cheap_viable_earth |  
+| bip_39_word_underscore_9 | popular_reunion_february_ginger_notice_cheap_viable_earth_place |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

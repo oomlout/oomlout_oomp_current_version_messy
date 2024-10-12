@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trust |  
+| bip_39_word_dash_10 | trust-cat-bracket-youth-faith-bubble-extend-level-fork-mouse |  
+| bip_39_word_dash_11 | trust-cat-bracket-youth-faith-bubble-extend-level-fork-mouse-essay |  
+| bip_39_word_dash_12 | trust-cat-bracket-youth-faith-bubble-extend-level-fork-mouse-essay-action |  
+| bip_39_word_dash_2 | trust-cat |  
+| bip_39_word_dash_3 | trust-cat-bracket |  
+| bip_39_word_dash_4 | trust-cat-bracket-youth |  
+| bip_39_word_dash_5 | trust-cat-bracket-youth-faith |  
+| bip_39_word_dash_6 | trust-cat-bracket-youth-faith-bubble |  
+| bip_39_word_dash_7 | trust-cat-bracket-youth-faith-bubble-extend |  
+| bip_39_word_dash_8 | trust-cat-bracket-youth-faith-bubble-extend-level |  
+| bip_39_word_dash_9 | trust-cat-bracket-youth-faith-bubble-extend-level-fork |  
 | bip_39_word_new_br_1 | trust |  
 | bip_39_word_new_br_10 | trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse |  
 | bip_39_word_new_br_11 | trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse<br>essay |  
@@ -147,6 +159,18 @@ fork |
 | bip_39_word_space_7 | trust cat bracket youth faith bubble extend |  
 | bip_39_word_space_8 | trust cat bracket youth faith bubble extend level |  
 | bip_39_word_space_9 | trust cat bracket youth faith bubble extend level fork |  
+| bip_39_word_underscore_1 | trust |  
+| bip_39_word_underscore_10 | trust_cat_bracket_youth_faith_bubble_extend_level_fork_mouse |  
+| bip_39_word_underscore_11 | trust_cat_bracket_youth_faith_bubble_extend_level_fork_mouse_essay |  
+| bip_39_word_underscore_12 | trust_cat_bracket_youth_faith_bubble_extend_level_fork_mouse_essay_action |  
+| bip_39_word_underscore_2 | trust_cat |  
+| bip_39_word_underscore_3 | trust_cat_bracket |  
+| bip_39_word_underscore_4 | trust_cat_bracket_youth |  
+| bip_39_word_underscore_5 | trust_cat_bracket_youth_faith |  
+| bip_39_word_underscore_6 | trust_cat_bracket_youth_faith_bubble |  
+| bip_39_word_underscore_7 | trust_cat_bracket_youth_faith_bubble_extend |  
+| bip_39_word_underscore_8 | trust_cat_bracket_youth_faith_bubble_extend_level |  
+| bip_39_word_underscore_9 | trust_cat_bracket_youth_faith_bubble_extend_level_fork |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

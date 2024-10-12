@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | robust |  
+| bip_39_word_dash_10 | robust-donor-person-sauce-recycle-water-visual-clever-inside-jeans |  
+| bip_39_word_dash_11 | robust-donor-person-sauce-recycle-water-visual-clever-inside-jeans-detail |  
+| bip_39_word_dash_12 | robust-donor-person-sauce-recycle-water-visual-clever-inside-jeans-detail-acquire |  
+| bip_39_word_dash_2 | robust-donor |  
+| bip_39_word_dash_3 | robust-donor-person |  
+| bip_39_word_dash_4 | robust-donor-person-sauce |  
+| bip_39_word_dash_5 | robust-donor-person-sauce-recycle |  
+| bip_39_word_dash_6 | robust-donor-person-sauce-recycle-water |  
+| bip_39_word_dash_7 | robust-donor-person-sauce-recycle-water-visual |  
+| bip_39_word_dash_8 | robust-donor-person-sauce-recycle-water-visual-clever |  
+| bip_39_word_dash_9 | robust-donor-person-sauce-recycle-water-visual-clever-inside |  
 | bip_39_word_new_br_1 | robust |  
 | bip_39_word_new_br_10 | robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever<br>inside<br>jeans |  
 | bip_39_word_new_br_11 | robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever<br>inside<br>jeans<br>detail |  
@@ -147,6 +159,18 @@ inside |
 | bip_39_word_space_7 | robust donor person sauce recycle water visual |  
 | bip_39_word_space_8 | robust donor person sauce recycle water visual clever |  
 | bip_39_word_space_9 | robust donor person sauce recycle water visual clever inside |  
+| bip_39_word_underscore_1 | robust |  
+| bip_39_word_underscore_10 | robust_donor_person_sauce_recycle_water_visual_clever_inside_jeans |  
+| bip_39_word_underscore_11 | robust_donor_person_sauce_recycle_water_visual_clever_inside_jeans_detail |  
+| bip_39_word_underscore_12 | robust_donor_person_sauce_recycle_water_visual_clever_inside_jeans_detail_acquire |  
+| bip_39_word_underscore_2 | robust_donor |  
+| bip_39_word_underscore_3 | robust_donor_person |  
+| bip_39_word_underscore_4 | robust_donor_person_sauce |  
+| bip_39_word_underscore_5 | robust_donor_person_sauce_recycle |  
+| bip_39_word_underscore_6 | robust_donor_person_sauce_recycle_water |  
+| bip_39_word_underscore_7 | robust_donor_person_sauce_recycle_water_visual |  
+| bip_39_word_underscore_8 | robust_donor_person_sauce_recycle_water_visual_clever |  
+| bip_39_word_underscore_9 | robust_donor_person_sauce_recycle_water_visual_clever_inside |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

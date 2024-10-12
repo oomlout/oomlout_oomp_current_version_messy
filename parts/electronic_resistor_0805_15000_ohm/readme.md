@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | satisfy |  
+| bip_39_word_dash_10 | satisfy-collect-curve-census-dust-sail-crater-learn-consider-aisle |  
+| bip_39_word_dash_11 | satisfy-collect-curve-census-dust-sail-crater-learn-consider-aisle-life |  
+| bip_39_word_dash_12 | satisfy-collect-curve-census-dust-sail-crater-learn-consider-aisle-life-above |  
+| bip_39_word_dash_2 | satisfy-collect |  
+| bip_39_word_dash_3 | satisfy-collect-curve |  
+| bip_39_word_dash_4 | satisfy-collect-curve-census |  
+| bip_39_word_dash_5 | satisfy-collect-curve-census-dust |  
+| bip_39_word_dash_6 | satisfy-collect-curve-census-dust-sail |  
+| bip_39_word_dash_7 | satisfy-collect-curve-census-dust-sail-crater |  
+| bip_39_word_dash_8 | satisfy-collect-curve-census-dust-sail-crater-learn |  
+| bip_39_word_dash_9 | satisfy-collect-curve-census-dust-sail-crater-learn-consider |  
 | bip_39_word_new_br_1 | satisfy |  
 | bip_39_word_new_br_10 | satisfy<br>collect<br>curve<br>census<br>dust<br>sail<br>crater<br>learn<br>consider<br>aisle |  
 | bip_39_word_new_br_11 | satisfy<br>collect<br>curve<br>census<br>dust<br>sail<br>crater<br>learn<br>consider<br>aisle<br>life |  
@@ -147,6 +159,18 @@ consider |
 | bip_39_word_space_7 | satisfy collect curve census dust sail crater |  
 | bip_39_word_space_8 | satisfy collect curve census dust sail crater learn |  
 | bip_39_word_space_9 | satisfy collect curve census dust sail crater learn consider |  
+| bip_39_word_underscore_1 | satisfy |  
+| bip_39_word_underscore_10 | satisfy_collect_curve_census_dust_sail_crater_learn_consider_aisle |  
+| bip_39_word_underscore_11 | satisfy_collect_curve_census_dust_sail_crater_learn_consider_aisle_life |  
+| bip_39_word_underscore_12 | satisfy_collect_curve_census_dust_sail_crater_learn_consider_aisle_life_above |  
+| bip_39_word_underscore_2 | satisfy_collect |  
+| bip_39_word_underscore_3 | satisfy_collect_curve |  
+| bip_39_word_underscore_4 | satisfy_collect_curve_census |  
+| bip_39_word_underscore_5 | satisfy_collect_curve_census_dust |  
+| bip_39_word_underscore_6 | satisfy_collect_curve_census_dust_sail |  
+| bip_39_word_underscore_7 | satisfy_collect_curve_census_dust_sail_crater |  
+| bip_39_word_underscore_8 | satisfy_collect_curve_census_dust_sail_crater_learn |  
+| bip_39_word_underscore_9 | satisfy_collect_curve_census_dust_sail_crater_learn_consider |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | famous |  
+| bip_39_word_dash_10 | famous-stick-school-recipe-document-damage-spray-glance-drastic-spike |  
+| bip_39_word_dash_11 | famous-stick-school-recipe-document-damage-spray-glance-drastic-spike-prepare |  
+| bip_39_word_dash_12 | famous-stick-school-recipe-document-damage-spray-glance-drastic-spike-prepare-argue |  
+| bip_39_word_dash_2 | famous-stick |  
+| bip_39_word_dash_3 | famous-stick-school |  
+| bip_39_word_dash_4 | famous-stick-school-recipe |  
+| bip_39_word_dash_5 | famous-stick-school-recipe-document |  
+| bip_39_word_dash_6 | famous-stick-school-recipe-document-damage |  
+| bip_39_word_dash_7 | famous-stick-school-recipe-document-damage-spray |  
+| bip_39_word_dash_8 | famous-stick-school-recipe-document-damage-spray-glance |  
+| bip_39_word_dash_9 | famous-stick-school-recipe-document-damage-spray-glance-drastic |  
 | bip_39_word_new_br_1 | famous |  
 | bip_39_word_new_br_10 | famous<br>stick<br>school<br>recipe<br>document<br>damage<br>spray<br>glance<br>drastic<br>spike |  
 | bip_39_word_new_br_11 | famous<br>stick<br>school<br>recipe<br>document<br>damage<br>spray<br>glance<br>drastic<br>spike<br>prepare |  
@@ -147,6 +159,18 @@ drastic |
 | bip_39_word_space_7 | famous stick school recipe document damage spray |  
 | bip_39_word_space_8 | famous stick school recipe document damage spray glance |  
 | bip_39_word_space_9 | famous stick school recipe document damage spray glance drastic |  
+| bip_39_word_underscore_1 | famous |  
+| bip_39_word_underscore_10 | famous_stick_school_recipe_document_damage_spray_glance_drastic_spike |  
+| bip_39_word_underscore_11 | famous_stick_school_recipe_document_damage_spray_glance_drastic_spike_prepare |  
+| bip_39_word_underscore_12 | famous_stick_school_recipe_document_damage_spray_glance_drastic_spike_prepare_argue |  
+| bip_39_word_underscore_2 | famous_stick |  
+| bip_39_word_underscore_3 | famous_stick_school |  
+| bip_39_word_underscore_4 | famous_stick_school_recipe |  
+| bip_39_word_underscore_5 | famous_stick_school_recipe_document |  
+| bip_39_word_underscore_6 | famous_stick_school_recipe_document_damage |  
+| bip_39_word_underscore_7 | famous_stick_school_recipe_document_damage_spray |  
+| bip_39_word_underscore_8 | famous_stick_school_recipe_document_damage_spray_glance |  
+| bip_39_word_underscore_9 | famous_stick_school_recipe_document_damage_spray_glance_drastic |  
 | classification | dish |  
 | classification_capital | Dish |  
 | classification_first_letter | d |  

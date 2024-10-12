@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | doctor |  
+| bip_39_word_dash_10 | doctor-cruise-need-glue-exhibit-physical-culture-crumble-fun-tank |  
+| bip_39_word_dash_11 | doctor-cruise-need-glue-exhibit-physical-culture-crumble-fun-tank-mountain |  
+| bip_39_word_dash_12 | doctor-cruise-need-glue-exhibit-physical-culture-crumble-fun-tank-mountain-alpha |  
+| bip_39_word_dash_2 | doctor-cruise |  
+| bip_39_word_dash_3 | doctor-cruise-need |  
+| bip_39_word_dash_4 | doctor-cruise-need-glue |  
+| bip_39_word_dash_5 | doctor-cruise-need-glue-exhibit |  
+| bip_39_word_dash_6 | doctor-cruise-need-glue-exhibit-physical |  
+| bip_39_word_dash_7 | doctor-cruise-need-glue-exhibit-physical-culture |  
+| bip_39_word_dash_8 | doctor-cruise-need-glue-exhibit-physical-culture-crumble |  
+| bip_39_word_dash_9 | doctor-cruise-need-glue-exhibit-physical-culture-crumble-fun |  
 | bip_39_word_new_br_1 | doctor |  
 | bip_39_word_new_br_10 | doctor<br>cruise<br>need<br>glue<br>exhibit<br>physical<br>culture<br>crumble<br>fun<br>tank |  
 | bip_39_word_new_br_11 | doctor<br>cruise<br>need<br>glue<br>exhibit<br>physical<br>culture<br>crumble<br>fun<br>tank<br>mountain |  
@@ -147,6 +159,18 @@ fun |
 | bip_39_word_space_7 | doctor cruise need glue exhibit physical culture |  
 | bip_39_word_space_8 | doctor cruise need glue exhibit physical culture crumble |  
 | bip_39_word_space_9 | doctor cruise need glue exhibit physical culture crumble fun |  
+| bip_39_word_underscore_1 | doctor |  
+| bip_39_word_underscore_10 | doctor_cruise_need_glue_exhibit_physical_culture_crumble_fun_tank |  
+| bip_39_word_underscore_11 | doctor_cruise_need_glue_exhibit_physical_culture_crumble_fun_tank_mountain |  
+| bip_39_word_underscore_12 | doctor_cruise_need_glue_exhibit_physical_culture_crumble_fun_tank_mountain_alpha |  
+| bip_39_word_underscore_2 | doctor_cruise |  
+| bip_39_word_underscore_3 | doctor_cruise_need |  
+| bip_39_word_underscore_4 | doctor_cruise_need_glue |  
+| bip_39_word_underscore_5 | doctor_cruise_need_glue_exhibit |  
+| bip_39_word_underscore_6 | doctor_cruise_need_glue_exhibit_physical |  
+| bip_39_word_underscore_7 | doctor_cruise_need_glue_exhibit_physical_culture |  
+| bip_39_word_underscore_8 | doctor_cruise_need_glue_exhibit_physical_culture_crumble |  
+| bip_39_word_underscore_9 | doctor_cruise_need_glue_exhibit_physical_culture_crumble_fun |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

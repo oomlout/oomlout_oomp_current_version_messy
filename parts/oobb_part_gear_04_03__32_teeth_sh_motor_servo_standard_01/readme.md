@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | citizen |  
+| bip_39_word_dash_10 | citizen-trumpet-cherry-tag-sweet-collect-hen-couch-saddle-alone |  
+| bip_39_word_dash_11 | citizen-trumpet-cherry-tag-sweet-collect-hen-couch-saddle-alone-payment |  
+| bip_39_word_dash_12 | citizen-trumpet-cherry-tag-sweet-collect-hen-couch-saddle-alone-payment-angle |  
+| bip_39_word_dash_2 | citizen-trumpet |  
+| bip_39_word_dash_3 | citizen-trumpet-cherry |  
+| bip_39_word_dash_4 | citizen-trumpet-cherry-tag |  
+| bip_39_word_dash_5 | citizen-trumpet-cherry-tag-sweet |  
+| bip_39_word_dash_6 | citizen-trumpet-cherry-tag-sweet-collect |  
+| bip_39_word_dash_7 | citizen-trumpet-cherry-tag-sweet-collect-hen |  
+| bip_39_word_dash_8 | citizen-trumpet-cherry-tag-sweet-collect-hen-couch |  
+| bip_39_word_dash_9 | citizen-trumpet-cherry-tag-sweet-collect-hen-couch-saddle |  
 | bip_39_word_new_br_1 | citizen |  
 | bip_39_word_new_br_10 | citizen<br>trumpet<br>cherry<br>tag<br>sweet<br>collect<br>hen<br>couch<br>saddle<br>alone |  
 | bip_39_word_new_br_11 | citizen<br>trumpet<br>cherry<br>tag<br>sweet<br>collect<br>hen<br>couch<br>saddle<br>alone<br>payment |  
@@ -147,6 +159,18 @@ saddle |
 | bip_39_word_space_7 | citizen trumpet cherry tag sweet collect hen |  
 | bip_39_word_space_8 | citizen trumpet cherry tag sweet collect hen couch |  
 | bip_39_word_space_9 | citizen trumpet cherry tag sweet collect hen couch saddle |  
+| bip_39_word_underscore_1 | citizen |  
+| bip_39_word_underscore_10 | citizen_trumpet_cherry_tag_sweet_collect_hen_couch_saddle_alone |  
+| bip_39_word_underscore_11 | citizen_trumpet_cherry_tag_sweet_collect_hen_couch_saddle_alone_payment |  
+| bip_39_word_underscore_12 | citizen_trumpet_cherry_tag_sweet_collect_hen_couch_saddle_alone_payment_angle |  
+| bip_39_word_underscore_2 | citizen_trumpet |  
+| bip_39_word_underscore_3 | citizen_trumpet_cherry |  
+| bip_39_word_underscore_4 | citizen_trumpet_cherry_tag |  
+| bip_39_word_underscore_5 | citizen_trumpet_cherry_tag_sweet |  
+| bip_39_word_underscore_6 | citizen_trumpet_cherry_tag_sweet_collect |  
+| bip_39_word_underscore_7 | citizen_trumpet_cherry_tag_sweet_collect_hen |  
+| bip_39_word_underscore_8 | citizen_trumpet_cherry_tag_sweet_collect_hen_couch |  
+| bip_39_word_underscore_9 | citizen_trumpet_cherry_tag_sweet_collect_hen_couch_saddle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

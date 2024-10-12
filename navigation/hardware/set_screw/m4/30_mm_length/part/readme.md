@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | label |  
+| bip_39_word_dash_10 | label-wisdom-globe-urge-ritual-arm-topic-memory-review-boat |  
+| bip_39_word_dash_11 | label-wisdom-globe-urge-ritual-arm-topic-memory-review-boat-south |  
+| bip_39_word_dash_12 | label-wisdom-globe-urge-ritual-arm-topic-memory-review-boat-south-answer |  
+| bip_39_word_dash_2 | label-wisdom |  
+| bip_39_word_dash_3 | label-wisdom-globe |  
+| bip_39_word_dash_4 | label-wisdom-globe-urge |  
+| bip_39_word_dash_5 | label-wisdom-globe-urge-ritual |  
+| bip_39_word_dash_6 | label-wisdom-globe-urge-ritual-arm |  
+| bip_39_word_dash_7 | label-wisdom-globe-urge-ritual-arm-topic |  
+| bip_39_word_dash_8 | label-wisdom-globe-urge-ritual-arm-topic-memory |  
+| bip_39_word_dash_9 | label-wisdom-globe-urge-ritual-arm-topic-memory-review |  
 | bip_39_word_new_br_1 | label |  
 | bip_39_word_new_br_10 | label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory<br>review<br>boat |  
 | bip_39_word_new_br_11 | label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory<br>review<br>boat<br>south |  
@@ -147,6 +159,18 @@ review |
 | bip_39_word_space_7 | label wisdom globe urge ritual arm topic |  
 | bip_39_word_space_8 | label wisdom globe urge ritual arm topic memory |  
 | bip_39_word_space_9 | label wisdom globe urge ritual arm topic memory review |  
+| bip_39_word_underscore_1 | label |  
+| bip_39_word_underscore_10 | label_wisdom_globe_urge_ritual_arm_topic_memory_review_boat |  
+| bip_39_word_underscore_11 | label_wisdom_globe_urge_ritual_arm_topic_memory_review_boat_south |  
+| bip_39_word_underscore_12 | label_wisdom_globe_urge_ritual_arm_topic_memory_review_boat_south_answer |  
+| bip_39_word_underscore_2 | label_wisdom |  
+| bip_39_word_underscore_3 | label_wisdom_globe |  
+| bip_39_word_underscore_4 | label_wisdom_globe_urge |  
+| bip_39_word_underscore_5 | label_wisdom_globe_urge_ritual |  
+| bip_39_word_underscore_6 | label_wisdom_globe_urge_ritual_arm |  
+| bip_39_word_underscore_7 | label_wisdom_globe_urge_ritual_arm_topic |  
+| bip_39_word_underscore_8 | label_wisdom_globe_urge_ritual_arm_topic_memory |  
+| bip_39_word_underscore_9 | label_wisdom_globe_urge_ritual_arm_topic_memory_review |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

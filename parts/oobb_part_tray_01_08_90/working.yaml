@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grass
+bip_39_word_dash_10: grass-agent-cabbage-guitar-artefact-tragic-various-shop-program-onion
+bip_39_word_dash_11: grass-agent-cabbage-guitar-artefact-tragic-various-shop-program-onion-primary
+bip_39_word_dash_12: grass-agent-cabbage-guitar-artefact-tragic-various-shop-program-onion-primary-achieve
+bip_39_word_dash_2: grass-agent
+bip_39_word_dash_3: grass-agent-cabbage
+bip_39_word_dash_4: grass-agent-cabbage-guitar
+bip_39_word_dash_5: grass-agent-cabbage-guitar-artefact
+bip_39_word_dash_6: grass-agent-cabbage-guitar-artefact-tragic
+bip_39_word_dash_7: grass-agent-cabbage-guitar-artefact-tragic-various
+bip_39_word_dash_8: grass-agent-cabbage-guitar-artefact-tragic-various-shop
+bip_39_word_dash_9: grass-agent-cabbage-guitar-artefact-tragic-various-shop-program
 bip_39_word_new_br_1: grass
 bip_39_word_new_br_10: grass<br>agent<br>cabbage<br>guitar<br>artefact<br>tragic<br>various<br>shop<br>program<br>onion
 bip_39_word_new_br_11: grass<br>agent<br>cabbage<br>guitar<br>artefact<br>tragic<br>various<br>shop<br>program<br>onion<br>primary
@@ -194,6 +206,18 @@ bip_39_word_space_6: grass agent cabbage guitar artefact tragic
 bip_39_word_space_7: grass agent cabbage guitar artefact tragic various
 bip_39_word_space_8: grass agent cabbage guitar artefact tragic various shop
 bip_39_word_space_9: grass agent cabbage guitar artefact tragic various shop program
+bip_39_word_underscore_1: grass
+bip_39_word_underscore_10: grass_agent_cabbage_guitar_artefact_tragic_various_shop_program_onion
+bip_39_word_underscore_11: grass_agent_cabbage_guitar_artefact_tragic_various_shop_program_onion_primary
+bip_39_word_underscore_12: grass_agent_cabbage_guitar_artefact_tragic_various_shop_program_onion_primary_achieve
+bip_39_word_underscore_2: grass_agent
+bip_39_word_underscore_3: grass_agent_cabbage
+bip_39_word_underscore_4: grass_agent_cabbage_guitar
+bip_39_word_underscore_5: grass_agent_cabbage_guitar_artefact
+bip_39_word_underscore_6: grass_agent_cabbage_guitar_artefact_tragic
+bip_39_word_underscore_7: grass_agent_cabbage_guitar_artefact_tragic_various
+bip_39_word_underscore_8: grass_agent_cabbage_guitar_artefact_tragic_various_shop
+bip_39_word_underscore_9: grass_agent_cabbage_guitar_artefact_tragic_various_shop_program
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

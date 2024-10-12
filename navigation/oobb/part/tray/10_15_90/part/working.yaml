@@ -1,3 +1,15 @@
+bip_39_word_dash_1: age
+bip_39_word_dash_10: age-slender-muffin-roof-stay-blue-topple-opinion-fault-hunt
+bip_39_word_dash_11: age-slender-muffin-roof-stay-blue-topple-opinion-fault-hunt-athlete
+bip_39_word_dash_12: age-slender-muffin-roof-stay-blue-topple-opinion-fault-hunt-athlete-alpha
+bip_39_word_dash_2: age-slender
+bip_39_word_dash_3: age-slender-muffin
+bip_39_word_dash_4: age-slender-muffin-roof
+bip_39_word_dash_5: age-slender-muffin-roof-stay
+bip_39_word_dash_6: age-slender-muffin-roof-stay-blue
+bip_39_word_dash_7: age-slender-muffin-roof-stay-blue-topple
+bip_39_word_dash_8: age-slender-muffin-roof-stay-blue-topple-opinion
+bip_39_word_dash_9: age-slender-muffin-roof-stay-blue-topple-opinion-fault
 bip_39_word_new_br_1: age
 bip_39_word_new_br_10: age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt
 bip_39_word_new_br_11: age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt<br>athlete
@@ -193,6 +205,18 @@ bip_39_word_space_6: age slender muffin roof stay blue
 bip_39_word_space_7: age slender muffin roof stay blue topple
 bip_39_word_space_8: age slender muffin roof stay blue topple opinion
 bip_39_word_space_9: age slender muffin roof stay blue topple opinion fault
+bip_39_word_underscore_1: age
+bip_39_word_underscore_10: age_slender_muffin_roof_stay_blue_topple_opinion_fault_hunt
+bip_39_word_underscore_11: age_slender_muffin_roof_stay_blue_topple_opinion_fault_hunt_athlete
+bip_39_word_underscore_12: age_slender_muffin_roof_stay_blue_topple_opinion_fault_hunt_athlete_alpha
+bip_39_word_underscore_2: age_slender
+bip_39_word_underscore_3: age_slender_muffin
+bip_39_word_underscore_4: age_slender_muffin_roof
+bip_39_word_underscore_5: age_slender_muffin_roof_stay
+bip_39_word_underscore_6: age_slender_muffin_roof_stay_blue
+bip_39_word_underscore_7: age_slender_muffin_roof_stay_blue_topple
+bip_39_word_underscore_8: age_slender_muffin_roof_stay_blue_topple_opinion
+bip_39_word_underscore_9: age_slender_muffin_roof_stay_blue_topple_opinion_fault
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

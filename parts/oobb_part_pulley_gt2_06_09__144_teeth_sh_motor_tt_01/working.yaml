@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pony
+bip_39_word_dash_10: pony-sustain-supreme-bubble-ginger-story-olive-legend-exit-weapon
+bip_39_word_dash_11: pony-sustain-supreme-bubble-ginger-story-olive-legend-exit-weapon-this
+bip_39_word_dash_12: pony-sustain-supreme-bubble-ginger-story-olive-legend-exit-weapon-this-able
+bip_39_word_dash_2: pony-sustain
+bip_39_word_dash_3: pony-sustain-supreme
+bip_39_word_dash_4: pony-sustain-supreme-bubble
+bip_39_word_dash_5: pony-sustain-supreme-bubble-ginger
+bip_39_word_dash_6: pony-sustain-supreme-bubble-ginger-story
+bip_39_word_dash_7: pony-sustain-supreme-bubble-ginger-story-olive
+bip_39_word_dash_8: pony-sustain-supreme-bubble-ginger-story-olive-legend
+bip_39_word_dash_9: pony-sustain-supreme-bubble-ginger-story-olive-legend-exit
 bip_39_word_new_br_1: pony
 bip_39_word_new_br_10: pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend<br>exit<br>weapon
 bip_39_word_new_br_11: pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend<br>exit<br>weapon<br>this
@@ -193,6 +205,18 @@ bip_39_word_space_6: pony sustain supreme bubble ginger story
 bip_39_word_space_7: pony sustain supreme bubble ginger story olive
 bip_39_word_space_8: pony sustain supreme bubble ginger story olive legend
 bip_39_word_space_9: pony sustain supreme bubble ginger story olive legend exit
+bip_39_word_underscore_1: pony
+bip_39_word_underscore_10: pony_sustain_supreme_bubble_ginger_story_olive_legend_exit_weapon
+bip_39_word_underscore_11: pony_sustain_supreme_bubble_ginger_story_olive_legend_exit_weapon_this
+bip_39_word_underscore_12: pony_sustain_supreme_bubble_ginger_story_olive_legend_exit_weapon_this_able
+bip_39_word_underscore_2: pony_sustain
+bip_39_word_underscore_3: pony_sustain_supreme
+bip_39_word_underscore_4: pony_sustain_supreme_bubble
+bip_39_word_underscore_5: pony_sustain_supreme_bubble_ginger
+bip_39_word_underscore_6: pony_sustain_supreme_bubble_ginger_story
+bip_39_word_underscore_7: pony_sustain_supreme_bubble_ginger_story_olive
+bip_39_word_underscore_8: pony_sustain_supreme_bubble_ginger_story_olive_legend
+bip_39_word_underscore_9: pony_sustain_supreme_bubble_ginger_story_olive_legend_exit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

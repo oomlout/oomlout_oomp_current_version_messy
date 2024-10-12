@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fee
+bip_39_word_dash_10: fee-ball-coffee-night-whisper-middle-wing-beauty-knee-mule
+bip_39_word_dash_11: fee-ball-coffee-night-whisper-middle-wing-beauty-knee-mule-ahead
+bip_39_word_dash_12: fee-ball-coffee-night-whisper-middle-wing-beauty-knee-mule-ahead-alert
+bip_39_word_dash_2: fee-ball
+bip_39_word_dash_3: fee-ball-coffee
+bip_39_word_dash_4: fee-ball-coffee-night
+bip_39_word_dash_5: fee-ball-coffee-night-whisper
+bip_39_word_dash_6: fee-ball-coffee-night-whisper-middle
+bip_39_word_dash_7: fee-ball-coffee-night-whisper-middle-wing
+bip_39_word_dash_8: fee-ball-coffee-night-whisper-middle-wing-beauty
+bip_39_word_dash_9: fee-ball-coffee-night-whisper-middle-wing-beauty-knee
 bip_39_word_new_br_1: fee
 bip_39_word_new_br_10: fee<br>ball<br>coffee<br>night<br>whisper<br>middle<br>wing<br>beauty<br>knee<br>mule
 bip_39_word_new_br_11: fee<br>ball<br>coffee<br>night<br>whisper<br>middle<br>wing<br>beauty<br>knee<br>mule<br>ahead
@@ -192,6 +204,18 @@ bip_39_word_space_6: fee ball coffee night whisper middle
 bip_39_word_space_7: fee ball coffee night whisper middle wing
 bip_39_word_space_8: fee ball coffee night whisper middle wing beauty
 bip_39_word_space_9: fee ball coffee night whisper middle wing beauty knee
+bip_39_word_underscore_1: fee
+bip_39_word_underscore_10: fee_ball_coffee_night_whisper_middle_wing_beauty_knee_mule
+bip_39_word_underscore_11: fee_ball_coffee_night_whisper_middle_wing_beauty_knee_mule_ahead
+bip_39_word_underscore_12: fee_ball_coffee_night_whisper_middle_wing_beauty_knee_mule_ahead_alert
+bip_39_word_underscore_2: fee_ball
+bip_39_word_underscore_3: fee_ball_coffee
+bip_39_word_underscore_4: fee_ball_coffee_night
+bip_39_word_underscore_5: fee_ball_coffee_night_whisper
+bip_39_word_underscore_6: fee_ball_coffee_night_whisper_middle
+bip_39_word_underscore_7: fee_ball_coffee_night_whisper_middle_wing
+bip_39_word_underscore_8: fee_ball_coffee_night_whisper_middle_wing_beauty
+bip_39_word_underscore_9: fee_ball_coffee_night_whisper_middle_wing_beauty_knee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

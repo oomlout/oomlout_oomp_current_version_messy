@@ -1,3 +1,15 @@
+bip_39_word_dash_1: juice
+bip_39_word_dash_10: juice-pioneer-knife-coast-time-stuff-flash-fault-bullet-erase
+bip_39_word_dash_11: juice-pioneer-knife-coast-time-stuff-flash-fault-bullet-erase-amateur
+bip_39_word_dash_12: juice-pioneer-knife-coast-time-stuff-flash-fault-bullet-erase-amateur-apart
+bip_39_word_dash_2: juice-pioneer
+bip_39_word_dash_3: juice-pioneer-knife
+bip_39_word_dash_4: juice-pioneer-knife-coast
+bip_39_word_dash_5: juice-pioneer-knife-coast-time
+bip_39_word_dash_6: juice-pioneer-knife-coast-time-stuff
+bip_39_word_dash_7: juice-pioneer-knife-coast-time-stuff-flash
+bip_39_word_dash_8: juice-pioneer-knife-coast-time-stuff-flash-fault
+bip_39_word_dash_9: juice-pioneer-knife-coast-time-stuff-flash-fault-bullet
 bip_39_word_new_br_1: juice
 bip_39_word_new_br_10: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase
 bip_39_word_new_br_11: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase<br>amateur
@@ -193,6 +205,18 @@ bip_39_word_space_6: juice pioneer knife coast time stuff
 bip_39_word_space_7: juice pioneer knife coast time stuff flash
 bip_39_word_space_8: juice pioneer knife coast time stuff flash fault
 bip_39_word_space_9: juice pioneer knife coast time stuff flash fault bullet
+bip_39_word_underscore_1: juice
+bip_39_word_underscore_10: juice_pioneer_knife_coast_time_stuff_flash_fault_bullet_erase
+bip_39_word_underscore_11: juice_pioneer_knife_coast_time_stuff_flash_fault_bullet_erase_amateur
+bip_39_word_underscore_12: juice_pioneer_knife_coast_time_stuff_flash_fault_bullet_erase_amateur_apart
+bip_39_word_underscore_2: juice_pioneer
+bip_39_word_underscore_3: juice_pioneer_knife
+bip_39_word_underscore_4: juice_pioneer_knife_coast
+bip_39_word_underscore_5: juice_pioneer_knife_coast_time
+bip_39_word_underscore_6: juice_pioneer_knife_coast_time_stuff
+bip_39_word_underscore_7: juice_pioneer_knife_coast_time_stuff_flash
+bip_39_word_underscore_8: juice_pioneer_knife_coast_time_stuff_flash_fault
+bip_39_word_underscore_9: juice_pioneer_knife_coast_time_stuff_flash_fault_bullet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

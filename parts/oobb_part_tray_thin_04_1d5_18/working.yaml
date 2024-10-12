@@ -1,3 +1,15 @@
+bip_39_word_dash_1: idea
+bip_39_word_dash_10: idea-broom-hair-shrimp-weasel-voyage-pole-tray-angle-walnut
+bip_39_word_dash_11: idea-broom-hair-shrimp-weasel-voyage-pole-tray-angle-walnut-snack
+bip_39_word_dash_12: idea-broom-hair-shrimp-weasel-voyage-pole-tray-angle-walnut-snack-alarm
+bip_39_word_dash_2: idea-broom
+bip_39_word_dash_3: idea-broom-hair
+bip_39_word_dash_4: idea-broom-hair-shrimp
+bip_39_word_dash_5: idea-broom-hair-shrimp-weasel
+bip_39_word_dash_6: idea-broom-hair-shrimp-weasel-voyage
+bip_39_word_dash_7: idea-broom-hair-shrimp-weasel-voyage-pole
+bip_39_word_dash_8: idea-broom-hair-shrimp-weasel-voyage-pole-tray
+bip_39_word_dash_9: idea-broom-hair-shrimp-weasel-voyage-pole-tray-angle
 bip_39_word_new_br_1: idea
 bip_39_word_new_br_10: idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray<br>angle<br>walnut
 bip_39_word_new_br_11: idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray<br>angle<br>walnut<br>snack
@@ -193,6 +205,18 @@ bip_39_word_space_6: idea broom hair shrimp weasel voyage
 bip_39_word_space_7: idea broom hair shrimp weasel voyage pole
 bip_39_word_space_8: idea broom hair shrimp weasel voyage pole tray
 bip_39_word_space_9: idea broom hair shrimp weasel voyage pole tray angle
+bip_39_word_underscore_1: idea
+bip_39_word_underscore_10: idea_broom_hair_shrimp_weasel_voyage_pole_tray_angle_walnut
+bip_39_word_underscore_11: idea_broom_hair_shrimp_weasel_voyage_pole_tray_angle_walnut_snack
+bip_39_word_underscore_12: idea_broom_hair_shrimp_weasel_voyage_pole_tray_angle_walnut_snack_alarm
+bip_39_word_underscore_2: idea_broom
+bip_39_word_underscore_3: idea_broom_hair
+bip_39_word_underscore_4: idea_broom_hair_shrimp
+bip_39_word_underscore_5: idea_broom_hair_shrimp_weasel
+bip_39_word_underscore_6: idea_broom_hair_shrimp_weasel_voyage
+bip_39_word_underscore_7: idea_broom_hair_shrimp_weasel_voyage_pole
+bip_39_word_underscore_8: idea_broom_hair_shrimp_weasel_voyage_pole_tray
+bip_39_word_underscore_9: idea_broom_hair_shrimp_weasel_voyage_pole_tray_angle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

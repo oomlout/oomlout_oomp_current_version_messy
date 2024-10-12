@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bulk |  
+| bip_39_word_dash_10 | bulk-bleak-crumble-quit-assault-venue-gadget-carry-charge-tag |  
+| bip_39_word_dash_11 | bulk-bleak-crumble-quit-assault-venue-gadget-carry-charge-tag-prison |  
+| bip_39_word_dash_12 | bulk-bleak-crumble-quit-assault-venue-gadget-carry-charge-tag-prison-auto |  
+| bip_39_word_dash_2 | bulk-bleak |  
+| bip_39_word_dash_3 | bulk-bleak-crumble |  
+| bip_39_word_dash_4 | bulk-bleak-crumble-quit |  
+| bip_39_word_dash_5 | bulk-bleak-crumble-quit-assault |  
+| bip_39_word_dash_6 | bulk-bleak-crumble-quit-assault-venue |  
+| bip_39_word_dash_7 | bulk-bleak-crumble-quit-assault-venue-gadget |  
+| bip_39_word_dash_8 | bulk-bleak-crumble-quit-assault-venue-gadget-carry |  
+| bip_39_word_dash_9 | bulk-bleak-crumble-quit-assault-venue-gadget-carry-charge |  
 | bip_39_word_new_br_1 | bulk |  
 | bip_39_word_new_br_10 | bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry<br>charge<br>tag |  
 | bip_39_word_new_br_11 | bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry<br>charge<br>tag<br>prison |  
@@ -147,6 +159,18 @@ charge |
 | bip_39_word_space_7 | bulk bleak crumble quit assault venue gadget |  
 | bip_39_word_space_8 | bulk bleak crumble quit assault venue gadget carry |  
 | bip_39_word_space_9 | bulk bleak crumble quit assault venue gadget carry charge |  
+| bip_39_word_underscore_1 | bulk |  
+| bip_39_word_underscore_10 | bulk_bleak_crumble_quit_assault_venue_gadget_carry_charge_tag |  
+| bip_39_word_underscore_11 | bulk_bleak_crumble_quit_assault_venue_gadget_carry_charge_tag_prison |  
+| bip_39_word_underscore_12 | bulk_bleak_crumble_quit_assault_venue_gadget_carry_charge_tag_prison_auto |  
+| bip_39_word_underscore_2 | bulk_bleak |  
+| bip_39_word_underscore_3 | bulk_bleak_crumble |  
+| bip_39_word_underscore_4 | bulk_bleak_crumble_quit |  
+| bip_39_word_underscore_5 | bulk_bleak_crumble_quit_assault |  
+| bip_39_word_underscore_6 | bulk_bleak_crumble_quit_assault_venue |  
+| bip_39_word_underscore_7 | bulk_bleak_crumble_quit_assault_venue_gadget |  
+| bip_39_word_underscore_8 | bulk_bleak_crumble_quit_assault_venue_gadget_carry |  
+| bip_39_word_underscore_9 | bulk_bleak_crumble_quit_assault_venue_gadget_carry_charge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

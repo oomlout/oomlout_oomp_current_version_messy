@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | task |  
+| bip_39_word_dash_10 | task-garden-hurt-syrup-any-dolphin-marble-math-cup-outdoor |  
+| bip_39_word_dash_11 | task-garden-hurt-syrup-any-dolphin-marble-math-cup-outdoor-okay |  
+| bip_39_word_dash_12 | task-garden-hurt-syrup-any-dolphin-marble-math-cup-outdoor-okay-arrow |  
+| bip_39_word_dash_2 | task-garden |  
+| bip_39_word_dash_3 | task-garden-hurt |  
+| bip_39_word_dash_4 | task-garden-hurt-syrup |  
+| bip_39_word_dash_5 | task-garden-hurt-syrup-any |  
+| bip_39_word_dash_6 | task-garden-hurt-syrup-any-dolphin |  
+| bip_39_word_dash_7 | task-garden-hurt-syrup-any-dolphin-marble |  
+| bip_39_word_dash_8 | task-garden-hurt-syrup-any-dolphin-marble-math |  
+| bip_39_word_dash_9 | task-garden-hurt-syrup-any-dolphin-marble-math-cup |  
 | bip_39_word_new_br_1 | task |  
 | bip_39_word_new_br_10 | task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math<br>cup<br>outdoor |  
 | bip_39_word_new_br_11 | task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math<br>cup<br>outdoor<br>okay |  
@@ -147,6 +159,18 @@ cup |
 | bip_39_word_space_7 | task garden hurt syrup any dolphin marble |  
 | bip_39_word_space_8 | task garden hurt syrup any dolphin marble math |  
 | bip_39_word_space_9 | task garden hurt syrup any dolphin marble math cup |  
+| bip_39_word_underscore_1 | task |  
+| bip_39_word_underscore_10 | task_garden_hurt_syrup_any_dolphin_marble_math_cup_outdoor |  
+| bip_39_word_underscore_11 | task_garden_hurt_syrup_any_dolphin_marble_math_cup_outdoor_okay |  
+| bip_39_word_underscore_12 | task_garden_hurt_syrup_any_dolphin_marble_math_cup_outdoor_okay_arrow |  
+| bip_39_word_underscore_2 | task_garden |  
+| bip_39_word_underscore_3 | task_garden_hurt |  
+| bip_39_word_underscore_4 | task_garden_hurt_syrup |  
+| bip_39_word_underscore_5 | task_garden_hurt_syrup_any |  
+| bip_39_word_underscore_6 | task_garden_hurt_syrup_any_dolphin |  
+| bip_39_word_underscore_7 | task_garden_hurt_syrup_any_dolphin_marble |  
+| bip_39_word_underscore_8 | task_garden_hurt_syrup_any_dolphin_marble_math |  
+| bip_39_word_underscore_9 | task_garden_hurt_syrup_any_dolphin_marble_math_cup |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

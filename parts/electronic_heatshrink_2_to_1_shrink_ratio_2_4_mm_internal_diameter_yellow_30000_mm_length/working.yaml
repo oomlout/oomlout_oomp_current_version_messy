@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nest
+bip_39_word_dash_10: nest-dinosaur-shuffle-resemble-bronze-betray-shoe-double-style-valley
+bip_39_word_dash_11: nest-dinosaur-shuffle-resemble-bronze-betray-shoe-double-style-valley-slide
+bip_39_word_dash_12: nest-dinosaur-shuffle-resemble-bronze-betray-shoe-double-style-valley-slide-approve
+bip_39_word_dash_2: nest-dinosaur
+bip_39_word_dash_3: nest-dinosaur-shuffle
+bip_39_word_dash_4: nest-dinosaur-shuffle-resemble
+bip_39_word_dash_5: nest-dinosaur-shuffle-resemble-bronze
+bip_39_word_dash_6: nest-dinosaur-shuffle-resemble-bronze-betray
+bip_39_word_dash_7: nest-dinosaur-shuffle-resemble-bronze-betray-shoe
+bip_39_word_dash_8: nest-dinosaur-shuffle-resemble-bronze-betray-shoe-double
+bip_39_word_dash_9: nest-dinosaur-shuffle-resemble-bronze-betray-shoe-double-style
 bip_39_word_new_br_1: nest
 bip_39_word_new_br_10: nest<br>dinosaur<br>shuffle<br>resemble<br>bronze<br>betray<br>shoe<br>double<br>style<br>valley
 bip_39_word_new_br_11: nest<br>dinosaur<br>shuffle<br>resemble<br>bronze<br>betray<br>shoe<br>double<br>style<br>valley<br>slide
@@ -194,6 +206,18 @@ bip_39_word_space_6: nest dinosaur shuffle resemble bronze betray
 bip_39_word_space_7: nest dinosaur shuffle resemble bronze betray shoe
 bip_39_word_space_8: nest dinosaur shuffle resemble bronze betray shoe double
 bip_39_word_space_9: nest dinosaur shuffle resemble bronze betray shoe double style
+bip_39_word_underscore_1: nest
+bip_39_word_underscore_10: nest_dinosaur_shuffle_resemble_bronze_betray_shoe_double_style_valley
+bip_39_word_underscore_11: nest_dinosaur_shuffle_resemble_bronze_betray_shoe_double_style_valley_slide
+bip_39_word_underscore_12: nest_dinosaur_shuffle_resemble_bronze_betray_shoe_double_style_valley_slide_approve
+bip_39_word_underscore_2: nest_dinosaur
+bip_39_word_underscore_3: nest_dinosaur_shuffle
+bip_39_word_underscore_4: nest_dinosaur_shuffle_resemble
+bip_39_word_underscore_5: nest_dinosaur_shuffle_resemble_bronze
+bip_39_word_underscore_6: nest_dinosaur_shuffle_resemble_bronze_betray
+bip_39_word_underscore_7: nest_dinosaur_shuffle_resemble_bronze_betray_shoe
+bip_39_word_underscore_8: nest_dinosaur_shuffle_resemble_bronze_betray_shoe_double
+bip_39_word_underscore_9: nest_dinosaur_shuffle_resemble_bronze_betray_shoe_double_style
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

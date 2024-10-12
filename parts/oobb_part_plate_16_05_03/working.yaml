@@ -1,3 +1,15 @@
+bip_39_word_dash_1: annual
+bip_39_word_dash_10: annual-path-index-onion-trigger-dumb-siren-venture-process-coil
+bip_39_word_dash_11: annual-path-index-onion-trigger-dumb-siren-venture-process-coil-visit
+bip_39_word_dash_12: annual-path-index-onion-trigger-dumb-siren-venture-process-coil-visit-achieve
+bip_39_word_dash_2: annual-path
+bip_39_word_dash_3: annual-path-index
+bip_39_word_dash_4: annual-path-index-onion
+bip_39_word_dash_5: annual-path-index-onion-trigger
+bip_39_word_dash_6: annual-path-index-onion-trigger-dumb
+bip_39_word_dash_7: annual-path-index-onion-trigger-dumb-siren
+bip_39_word_dash_8: annual-path-index-onion-trigger-dumb-siren-venture
+bip_39_word_dash_9: annual-path-index-onion-trigger-dumb-siren-venture-process
 bip_39_word_new_br_1: annual
 bip_39_word_new_br_10: annual<br>path<br>index<br>onion<br>trigger<br>dumb<br>siren<br>venture<br>process<br>coil
 bip_39_word_new_br_11: annual<br>path<br>index<br>onion<br>trigger<br>dumb<br>siren<br>venture<br>process<br>coil<br>visit
@@ -193,6 +205,18 @@ bip_39_word_space_6: annual path index onion trigger dumb
 bip_39_word_space_7: annual path index onion trigger dumb siren
 bip_39_word_space_8: annual path index onion trigger dumb siren venture
 bip_39_word_space_9: annual path index onion trigger dumb siren venture process
+bip_39_word_underscore_1: annual
+bip_39_word_underscore_10: annual_path_index_onion_trigger_dumb_siren_venture_process_coil
+bip_39_word_underscore_11: annual_path_index_onion_trigger_dumb_siren_venture_process_coil_visit
+bip_39_word_underscore_12: annual_path_index_onion_trigger_dumb_siren_venture_process_coil_visit_achieve
+bip_39_word_underscore_2: annual_path
+bip_39_word_underscore_3: annual_path_index
+bip_39_word_underscore_4: annual_path_index_onion
+bip_39_word_underscore_5: annual_path_index_onion_trigger
+bip_39_word_underscore_6: annual_path_index_onion_trigger_dumb
+bip_39_word_underscore_7: annual_path_index_onion_trigger_dumb_siren
+bip_39_word_underscore_8: annual_path_index_onion_trigger_dumb_siren_venture
+bip_39_word_underscore_9: annual_path_index_onion_trigger_dumb_siren_venture_process
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

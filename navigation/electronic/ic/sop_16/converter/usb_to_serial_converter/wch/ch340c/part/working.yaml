@@ -1,3 +1,15 @@
+bip_39_word_dash_1: black
+bip_39_word_dash_10: black-round-shadow-critic-guitar-luxury-aisle-win-skirt-crop
+bip_39_word_dash_11: black-round-shadow-critic-guitar-luxury-aisle-win-skirt-crop-original
+bip_39_word_dash_12: black-round-shadow-critic-guitar-luxury-aisle-win-skirt-crop-original-anger
+bip_39_word_dash_2: black-round
+bip_39_word_dash_3: black-round-shadow
+bip_39_word_dash_4: black-round-shadow-critic
+bip_39_word_dash_5: black-round-shadow-critic-guitar
+bip_39_word_dash_6: black-round-shadow-critic-guitar-luxury
+bip_39_word_dash_7: black-round-shadow-critic-guitar-luxury-aisle
+bip_39_word_dash_8: black-round-shadow-critic-guitar-luxury-aisle-win
+bip_39_word_dash_9: black-round-shadow-critic-guitar-luxury-aisle-win-skirt
 bip_39_word_new_br_1: black
 bip_39_word_new_br_10: black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop
 bip_39_word_new_br_11: black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop<br>original
@@ -193,6 +205,18 @@ bip_39_word_space_6: black round shadow critic guitar luxury
 bip_39_word_space_7: black round shadow critic guitar luxury aisle
 bip_39_word_space_8: black round shadow critic guitar luxury aisle win
 bip_39_word_space_9: black round shadow critic guitar luxury aisle win skirt
+bip_39_word_underscore_1: black
+bip_39_word_underscore_10: black_round_shadow_critic_guitar_luxury_aisle_win_skirt_crop
+bip_39_word_underscore_11: black_round_shadow_critic_guitar_luxury_aisle_win_skirt_crop_original
+bip_39_word_underscore_12: black_round_shadow_critic_guitar_luxury_aisle_win_skirt_crop_original_anger
+bip_39_word_underscore_2: black_round
+bip_39_word_underscore_3: black_round_shadow
+bip_39_word_underscore_4: black_round_shadow_critic
+bip_39_word_underscore_5: black_round_shadow_critic_guitar
+bip_39_word_underscore_6: black_round_shadow_critic_guitar_luxury
+bip_39_word_underscore_7: black_round_shadow_critic_guitar_luxury_aisle
+bip_39_word_underscore_8: black_round_shadow_critic_guitar_luxury_aisle_win
+bip_39_word_underscore_9: black_round_shadow_critic_guitar_luxury_aisle_win_skirt
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | artwork |  
+| bip_39_word_dash_10 | artwork-arctic-other-obscure-yellow-name-beach-equip-identify-hero |  
+| bip_39_word_dash_11 | artwork-arctic-other-obscure-yellow-name-beach-equip-identify-hero-walnut |  
+| bip_39_word_dash_12 | artwork-arctic-other-obscure-yellow-name-beach-equip-identify-hero-walnut-arch |  
+| bip_39_word_dash_2 | artwork-arctic |  
+| bip_39_word_dash_3 | artwork-arctic-other |  
+| bip_39_word_dash_4 | artwork-arctic-other-obscure |  
+| bip_39_word_dash_5 | artwork-arctic-other-obscure-yellow |  
+| bip_39_word_dash_6 | artwork-arctic-other-obscure-yellow-name |  
+| bip_39_word_dash_7 | artwork-arctic-other-obscure-yellow-name-beach |  
+| bip_39_word_dash_8 | artwork-arctic-other-obscure-yellow-name-beach-equip |  
+| bip_39_word_dash_9 | artwork-arctic-other-obscure-yellow-name-beach-equip-identify |  
 | bip_39_word_new_br_1 | artwork |  
 | bip_39_word_new_br_10 | artwork<br>arctic<br>other<br>obscure<br>yellow<br>name<br>beach<br>equip<br>identify<br>hero |  
 | bip_39_word_new_br_11 | artwork<br>arctic<br>other<br>obscure<br>yellow<br>name<br>beach<br>equip<br>identify<br>hero<br>walnut |  
@@ -147,6 +159,18 @@ identify |
 | bip_39_word_space_7 | artwork arctic other obscure yellow name beach |  
 | bip_39_word_space_8 | artwork arctic other obscure yellow name beach equip |  
 | bip_39_word_space_9 | artwork arctic other obscure yellow name beach equip identify |  
+| bip_39_word_underscore_1 | artwork |  
+| bip_39_word_underscore_10 | artwork_arctic_other_obscure_yellow_name_beach_equip_identify_hero |  
+| bip_39_word_underscore_11 | artwork_arctic_other_obscure_yellow_name_beach_equip_identify_hero_walnut |  
+| bip_39_word_underscore_12 | artwork_arctic_other_obscure_yellow_name_beach_equip_identify_hero_walnut_arch |  
+| bip_39_word_underscore_2 | artwork_arctic |  
+| bip_39_word_underscore_3 | artwork_arctic_other |  
+| bip_39_word_underscore_4 | artwork_arctic_other_obscure |  
+| bip_39_word_underscore_5 | artwork_arctic_other_obscure_yellow |  
+| bip_39_word_underscore_6 | artwork_arctic_other_obscure_yellow_name |  
+| bip_39_word_underscore_7 | artwork_arctic_other_obscure_yellow_name_beach |  
+| bip_39_word_underscore_8 | artwork_arctic_other_obscure_yellow_name_beach_equip |  
+| bip_39_word_underscore_9 | artwork_arctic_other_obscure_yellow_name_beach_equip_identify |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

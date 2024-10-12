@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | defense |  
+| bip_39_word_dash_10 | defense-affair-rain-drink-pull-repair-rescue-reunion-small-current |  
+| bip_39_word_dash_11 | defense-affair-rain-drink-pull-repair-rescue-reunion-small-current-wear |  
+| bip_39_word_dash_12 | defense-affair-rain-drink-pull-repair-rescue-reunion-small-current-wear-access |  
+| bip_39_word_dash_2 | defense-affair |  
+| bip_39_word_dash_3 | defense-affair-rain |  
+| bip_39_word_dash_4 | defense-affair-rain-drink |  
+| bip_39_word_dash_5 | defense-affair-rain-drink-pull |  
+| bip_39_word_dash_6 | defense-affair-rain-drink-pull-repair |  
+| bip_39_word_dash_7 | defense-affair-rain-drink-pull-repair-rescue |  
+| bip_39_word_dash_8 | defense-affair-rain-drink-pull-repair-rescue-reunion |  
+| bip_39_word_dash_9 | defense-affair-rain-drink-pull-repair-rescue-reunion-small |  
 | bip_39_word_new_br_1 | defense |  
 | bip_39_word_new_br_10 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion<br>small<br>current |  
 | bip_39_word_new_br_11 | defense<br>affair<br>rain<br>drink<br>pull<br>repair<br>rescue<br>reunion<br>small<br>current<br>wear |  
@@ -147,6 +159,18 @@ small |
 | bip_39_word_space_7 | defense affair rain drink pull repair rescue |  
 | bip_39_word_space_8 | defense affair rain drink pull repair rescue reunion |  
 | bip_39_word_space_9 | defense affair rain drink pull repair rescue reunion small |  
+| bip_39_word_underscore_1 | defense |  
+| bip_39_word_underscore_10 | defense_affair_rain_drink_pull_repair_rescue_reunion_small_current |  
+| bip_39_word_underscore_11 | defense_affair_rain_drink_pull_repair_rescue_reunion_small_current_wear |  
+| bip_39_word_underscore_12 | defense_affair_rain_drink_pull_repair_rescue_reunion_small_current_wear_access |  
+| bip_39_word_underscore_2 | defense_affair |  
+| bip_39_word_underscore_3 | defense_affair_rain |  
+| bip_39_word_underscore_4 | defense_affair_rain_drink |  
+| bip_39_word_underscore_5 | defense_affair_rain_drink_pull |  
+| bip_39_word_underscore_6 | defense_affair_rain_drink_pull_repair |  
+| bip_39_word_underscore_7 | defense_affair_rain_drink_pull_repair_rescue |  
+| bip_39_word_underscore_8 | defense_affair_rain_drink_pull_repair_rescue_reunion |  
+| bip_39_word_underscore_9 | defense_affair_rain_drink_pull_repair_rescue_reunion_small |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

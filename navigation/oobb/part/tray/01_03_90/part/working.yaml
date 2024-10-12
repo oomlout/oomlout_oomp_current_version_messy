@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ensure
+bip_39_word_dash_10: ensure-suspect-exotic-romance-dwarf-tube-oil-trust-virtual-dress
+bip_39_word_dash_11: ensure-suspect-exotic-romance-dwarf-tube-oil-trust-virtual-dress-kit
+bip_39_word_dash_12: ensure-suspect-exotic-romance-dwarf-tube-oil-trust-virtual-dress-kit-art
+bip_39_word_dash_2: ensure-suspect
+bip_39_word_dash_3: ensure-suspect-exotic
+bip_39_word_dash_4: ensure-suspect-exotic-romance
+bip_39_word_dash_5: ensure-suspect-exotic-romance-dwarf
+bip_39_word_dash_6: ensure-suspect-exotic-romance-dwarf-tube
+bip_39_word_dash_7: ensure-suspect-exotic-romance-dwarf-tube-oil
+bip_39_word_dash_8: ensure-suspect-exotic-romance-dwarf-tube-oil-trust
+bip_39_word_dash_9: ensure-suspect-exotic-romance-dwarf-tube-oil-trust-virtual
 bip_39_word_new_br_1: ensure
 bip_39_word_new_br_10: ensure<br>suspect<br>exotic<br>romance<br>dwarf<br>tube<br>oil<br>trust<br>virtual<br>dress
 bip_39_word_new_br_11: ensure<br>suspect<br>exotic<br>romance<br>dwarf<br>tube<br>oil<br>trust<br>virtual<br>dress<br>kit
@@ -193,6 +205,18 @@ bip_39_word_space_6: ensure suspect exotic romance dwarf tube
 bip_39_word_space_7: ensure suspect exotic romance dwarf tube oil
 bip_39_word_space_8: ensure suspect exotic romance dwarf tube oil trust
 bip_39_word_space_9: ensure suspect exotic romance dwarf tube oil trust virtual
+bip_39_word_underscore_1: ensure
+bip_39_word_underscore_10: ensure_suspect_exotic_romance_dwarf_tube_oil_trust_virtual_dress
+bip_39_word_underscore_11: ensure_suspect_exotic_romance_dwarf_tube_oil_trust_virtual_dress_kit
+bip_39_word_underscore_12: ensure_suspect_exotic_romance_dwarf_tube_oil_trust_virtual_dress_kit_art
+bip_39_word_underscore_2: ensure_suspect
+bip_39_word_underscore_3: ensure_suspect_exotic
+bip_39_word_underscore_4: ensure_suspect_exotic_romance
+bip_39_word_underscore_5: ensure_suspect_exotic_romance_dwarf
+bip_39_word_underscore_6: ensure_suspect_exotic_romance_dwarf_tube
+bip_39_word_underscore_7: ensure_suspect_exotic_romance_dwarf_tube_oil
+bip_39_word_underscore_8: ensure_suspect_exotic_romance_dwarf_tube_oil_trust
+bip_39_word_underscore_9: ensure_suspect_exotic_romance_dwarf_tube_oil_trust_virtual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

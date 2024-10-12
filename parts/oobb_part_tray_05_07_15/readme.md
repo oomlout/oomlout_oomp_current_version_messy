@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | miss |  
+| bip_39_word_dash_10 | miss-lunch-rocket-point-brisk-donor-cable-boring-invest-borrow |  
+| bip_39_word_dash_11 | miss-lunch-rocket-point-brisk-donor-cable-boring-invest-borrow-fall |  
+| bip_39_word_dash_12 | miss-lunch-rocket-point-brisk-donor-cable-boring-invest-borrow-fall-allow |  
+| bip_39_word_dash_2 | miss-lunch |  
+| bip_39_word_dash_3 | miss-lunch-rocket |  
+| bip_39_word_dash_4 | miss-lunch-rocket-point |  
+| bip_39_word_dash_5 | miss-lunch-rocket-point-brisk |  
+| bip_39_word_dash_6 | miss-lunch-rocket-point-brisk-donor |  
+| bip_39_word_dash_7 | miss-lunch-rocket-point-brisk-donor-cable |  
+| bip_39_word_dash_8 | miss-lunch-rocket-point-brisk-donor-cable-boring |  
+| bip_39_word_dash_9 | miss-lunch-rocket-point-brisk-donor-cable-boring-invest |  
 | bip_39_word_new_br_1 | miss |  
 | bip_39_word_new_br_10 | miss<br>lunch<br>rocket<br>point<br>brisk<br>donor<br>cable<br>boring<br>invest<br>borrow |  
 | bip_39_word_new_br_11 | miss<br>lunch<br>rocket<br>point<br>brisk<br>donor<br>cable<br>boring<br>invest<br>borrow<br>fall |  
@@ -147,6 +159,18 @@ invest |
 | bip_39_word_space_7 | miss lunch rocket point brisk donor cable |  
 | bip_39_word_space_8 | miss lunch rocket point brisk donor cable boring |  
 | bip_39_word_space_9 | miss lunch rocket point brisk donor cable boring invest |  
+| bip_39_word_underscore_1 | miss |  
+| bip_39_word_underscore_10 | miss_lunch_rocket_point_brisk_donor_cable_boring_invest_borrow |  
+| bip_39_word_underscore_11 | miss_lunch_rocket_point_brisk_donor_cable_boring_invest_borrow_fall |  
+| bip_39_word_underscore_12 | miss_lunch_rocket_point_brisk_donor_cable_boring_invest_borrow_fall_allow |  
+| bip_39_word_underscore_2 | miss_lunch |  
+| bip_39_word_underscore_3 | miss_lunch_rocket |  
+| bip_39_word_underscore_4 | miss_lunch_rocket_point |  
+| bip_39_word_underscore_5 | miss_lunch_rocket_point_brisk |  
+| bip_39_word_underscore_6 | miss_lunch_rocket_point_brisk_donor |  
+| bip_39_word_underscore_7 | miss_lunch_rocket_point_brisk_donor_cable |  
+| bip_39_word_underscore_8 | miss_lunch_rocket_point_brisk_donor_cable_boring |  
+| bip_39_word_underscore_9 | miss_lunch_rocket_point_brisk_donor_cable_boring_invest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thunder |  
+| bip_39_word_dash_10 | thunder-mouse-lava-fruit-oven-lunar-lunar-shove-penalty-torch |  
+| bip_39_word_dash_11 | thunder-mouse-lava-fruit-oven-lunar-lunar-shove-penalty-torch-ship |  
+| bip_39_word_dash_12 | thunder-mouse-lava-fruit-oven-lunar-lunar-shove-penalty-torch-ship-album |  
+| bip_39_word_dash_2 | thunder-mouse |  
+| bip_39_word_dash_3 | thunder-mouse-lava |  
+| bip_39_word_dash_4 | thunder-mouse-lava-fruit |  
+| bip_39_word_dash_5 | thunder-mouse-lava-fruit-oven |  
+| bip_39_word_dash_6 | thunder-mouse-lava-fruit-oven-lunar |  
+| bip_39_word_dash_7 | thunder-mouse-lava-fruit-oven-lunar-lunar |  
+| bip_39_word_dash_8 | thunder-mouse-lava-fruit-oven-lunar-lunar-shove |  
+| bip_39_word_dash_9 | thunder-mouse-lava-fruit-oven-lunar-lunar-shove-penalty |  
 | bip_39_word_new_br_1 | thunder |  
 | bip_39_word_new_br_10 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove<br>penalty<br>torch |  
 | bip_39_word_new_br_11 | thunder<br>mouse<br>lava<br>fruit<br>oven<br>lunar<br>lunar<br>shove<br>penalty<br>torch<br>ship |  
@@ -147,6 +159,18 @@ penalty |
 | bip_39_word_space_7 | thunder mouse lava fruit oven lunar lunar |  
 | bip_39_word_space_8 | thunder mouse lava fruit oven lunar lunar shove |  
 | bip_39_word_space_9 | thunder mouse lava fruit oven lunar lunar shove penalty |  
+| bip_39_word_underscore_1 | thunder |  
+| bip_39_word_underscore_10 | thunder_mouse_lava_fruit_oven_lunar_lunar_shove_penalty_torch |  
+| bip_39_word_underscore_11 | thunder_mouse_lava_fruit_oven_lunar_lunar_shove_penalty_torch_ship |  
+| bip_39_word_underscore_12 | thunder_mouse_lava_fruit_oven_lunar_lunar_shove_penalty_torch_ship_album |  
+| bip_39_word_underscore_2 | thunder_mouse |  
+| bip_39_word_underscore_3 | thunder_mouse_lava |  
+| bip_39_word_underscore_4 | thunder_mouse_lava_fruit |  
+| bip_39_word_underscore_5 | thunder_mouse_lava_fruit_oven |  
+| bip_39_word_underscore_6 | thunder_mouse_lava_fruit_oven_lunar |  
+| bip_39_word_underscore_7 | thunder_mouse_lava_fruit_oven_lunar_lunar |  
+| bip_39_word_underscore_8 | thunder_mouse_lava_fruit_oven_lunar_lunar_shove |  
+| bip_39_word_underscore_9 | thunder_mouse_lava_fruit_oven_lunar_lunar_shove_penalty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

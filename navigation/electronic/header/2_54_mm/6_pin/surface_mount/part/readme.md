@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | street |  
+| bip_39_word_dash_10 | street-physical-kidney-vintage-drive-satoshi-worth-case-evidence-bomb |  
+| bip_39_word_dash_11 | street-physical-kidney-vintage-drive-satoshi-worth-case-evidence-bomb-joke |  
+| bip_39_word_dash_12 | street-physical-kidney-vintage-drive-satoshi-worth-case-evidence-bomb-joke-anchor |  
+| bip_39_word_dash_2 | street-physical |  
+| bip_39_word_dash_3 | street-physical-kidney |  
+| bip_39_word_dash_4 | street-physical-kidney-vintage |  
+| bip_39_word_dash_5 | street-physical-kidney-vintage-drive |  
+| bip_39_word_dash_6 | street-physical-kidney-vintage-drive-satoshi |  
+| bip_39_word_dash_7 | street-physical-kidney-vintage-drive-satoshi-worth |  
+| bip_39_word_dash_8 | street-physical-kidney-vintage-drive-satoshi-worth-case |  
+| bip_39_word_dash_9 | street-physical-kidney-vintage-drive-satoshi-worth-case-evidence |  
 | bip_39_word_new_br_1 | street |  
 | bip_39_word_new_br_10 | street<br>physical<br>kidney<br>vintage<br>drive<br>satoshi<br>worth<br>case<br>evidence<br>bomb |  
 | bip_39_word_new_br_11 | street<br>physical<br>kidney<br>vintage<br>drive<br>satoshi<br>worth<br>case<br>evidence<br>bomb<br>joke |  
@@ -147,6 +159,18 @@ evidence |
 | bip_39_word_space_7 | street physical kidney vintage drive satoshi worth |  
 | bip_39_word_space_8 | street physical kidney vintage drive satoshi worth case |  
 | bip_39_word_space_9 | street physical kidney vintage drive satoshi worth case evidence |  
+| bip_39_word_underscore_1 | street |  
+| bip_39_word_underscore_10 | street_physical_kidney_vintage_drive_satoshi_worth_case_evidence_bomb |  
+| bip_39_word_underscore_11 | street_physical_kidney_vintage_drive_satoshi_worth_case_evidence_bomb_joke |  
+| bip_39_word_underscore_12 | street_physical_kidney_vintage_drive_satoshi_worth_case_evidence_bomb_joke_anchor |  
+| bip_39_word_underscore_2 | street_physical |  
+| bip_39_word_underscore_3 | street_physical_kidney |  
+| bip_39_word_underscore_4 | street_physical_kidney_vintage |  
+| bip_39_word_underscore_5 | street_physical_kidney_vintage_drive |  
+| bip_39_word_underscore_6 | street_physical_kidney_vintage_drive_satoshi |  
+| bip_39_word_underscore_7 | street_physical_kidney_vintage_drive_satoshi_worth |  
+| bip_39_word_underscore_8 | street_physical_kidney_vintage_drive_satoshi_worth_case |  
+| bip_39_word_underscore_9 | street_physical_kidney_vintage_drive_satoshi_worth_case_evidence |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

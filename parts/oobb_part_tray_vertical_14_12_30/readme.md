@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ill |  
+| bip_39_word_dash_10 | ill-abuse-annual-erase-one-extend-citizen-tree-sweet-pumpkin |  
+| bip_39_word_dash_11 | ill-abuse-annual-erase-one-extend-citizen-tree-sweet-pumpkin-banana |  
+| bip_39_word_dash_12 | ill-abuse-annual-erase-one-extend-citizen-tree-sweet-pumpkin-banana-artefact |  
+| bip_39_word_dash_2 | ill-abuse |  
+| bip_39_word_dash_3 | ill-abuse-annual |  
+| bip_39_word_dash_4 | ill-abuse-annual-erase |  
+| bip_39_word_dash_5 | ill-abuse-annual-erase-one |  
+| bip_39_word_dash_6 | ill-abuse-annual-erase-one-extend |  
+| bip_39_word_dash_7 | ill-abuse-annual-erase-one-extend-citizen |  
+| bip_39_word_dash_8 | ill-abuse-annual-erase-one-extend-citizen-tree |  
+| bip_39_word_dash_9 | ill-abuse-annual-erase-one-extend-citizen-tree-sweet |  
 | bip_39_word_new_br_1 | ill |  
 | bip_39_word_new_br_10 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin |  
 | bip_39_word_new_br_11 | ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin<br>banana |  
@@ -147,6 +159,18 @@ sweet |
 | bip_39_word_space_7 | ill abuse annual erase one extend citizen |  
 | bip_39_word_space_8 | ill abuse annual erase one extend citizen tree |  
 | bip_39_word_space_9 | ill abuse annual erase one extend citizen tree sweet |  
+| bip_39_word_underscore_1 | ill |  
+| bip_39_word_underscore_10 | ill_abuse_annual_erase_one_extend_citizen_tree_sweet_pumpkin |  
+| bip_39_word_underscore_11 | ill_abuse_annual_erase_one_extend_citizen_tree_sweet_pumpkin_banana |  
+| bip_39_word_underscore_12 | ill_abuse_annual_erase_one_extend_citizen_tree_sweet_pumpkin_banana_artefact |  
+| bip_39_word_underscore_2 | ill_abuse |  
+| bip_39_word_underscore_3 | ill_abuse_annual |  
+| bip_39_word_underscore_4 | ill_abuse_annual_erase |  
+| bip_39_word_underscore_5 | ill_abuse_annual_erase_one |  
+| bip_39_word_underscore_6 | ill_abuse_annual_erase_one_extend |  
+| bip_39_word_underscore_7 | ill_abuse_annual_erase_one_extend_citizen |  
+| bip_39_word_underscore_8 | ill_abuse_annual_erase_one_extend_citizen_tree |  
+| bip_39_word_underscore_9 | ill_abuse_annual_erase_one_extend_citizen_tree_sweet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

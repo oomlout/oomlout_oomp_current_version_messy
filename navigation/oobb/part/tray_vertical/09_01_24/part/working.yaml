@@ -1,3 +1,15 @@
+bip_39_word_dash_1: kitten
+bip_39_word_dash_10: kitten-wisdom-rifle-zone-round-ski-latin-sell-today-this
+bip_39_word_dash_11: kitten-wisdom-rifle-zone-round-ski-latin-sell-today-this-chaos
+bip_39_word_dash_12: kitten-wisdom-rifle-zone-round-ski-latin-sell-today-this-chaos-act
+bip_39_word_dash_2: kitten-wisdom
+bip_39_word_dash_3: kitten-wisdom-rifle
+bip_39_word_dash_4: kitten-wisdom-rifle-zone
+bip_39_word_dash_5: kitten-wisdom-rifle-zone-round
+bip_39_word_dash_6: kitten-wisdom-rifle-zone-round-ski
+bip_39_word_dash_7: kitten-wisdom-rifle-zone-round-ski-latin
+bip_39_word_dash_8: kitten-wisdom-rifle-zone-round-ski-latin-sell
+bip_39_word_dash_9: kitten-wisdom-rifle-zone-round-ski-latin-sell-today
 bip_39_word_new_br_1: kitten
 bip_39_word_new_br_10: kitten<br>wisdom<br>rifle<br>zone<br>round<br>ski<br>latin<br>sell<br>today<br>this
 bip_39_word_new_br_11: kitten<br>wisdom<br>rifle<br>zone<br>round<br>ski<br>latin<br>sell<br>today<br>this<br>chaos
@@ -192,6 +204,18 @@ bip_39_word_space_6: kitten wisdom rifle zone round ski
 bip_39_word_space_7: kitten wisdom rifle zone round ski latin
 bip_39_word_space_8: kitten wisdom rifle zone round ski latin sell
 bip_39_word_space_9: kitten wisdom rifle zone round ski latin sell today
+bip_39_word_underscore_1: kitten
+bip_39_word_underscore_10: kitten_wisdom_rifle_zone_round_ski_latin_sell_today_this
+bip_39_word_underscore_11: kitten_wisdom_rifle_zone_round_ski_latin_sell_today_this_chaos
+bip_39_word_underscore_12: kitten_wisdom_rifle_zone_round_ski_latin_sell_today_this_chaos_act
+bip_39_word_underscore_2: kitten_wisdom
+bip_39_word_underscore_3: kitten_wisdom_rifle
+bip_39_word_underscore_4: kitten_wisdom_rifle_zone
+bip_39_word_underscore_5: kitten_wisdom_rifle_zone_round
+bip_39_word_underscore_6: kitten_wisdom_rifle_zone_round_ski
+bip_39_word_underscore_7: kitten_wisdom_rifle_zone_round_ski_latin
+bip_39_word_underscore_8: kitten_wisdom_rifle_zone_round_ski_latin_sell
+bip_39_word_underscore_9: kitten_wisdom_rifle_zone_round_ski_latin_sell_today
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

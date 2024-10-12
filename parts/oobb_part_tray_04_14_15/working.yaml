@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sibling
+bip_39_word_dash_10: sibling-obey-village-aware-absent-raise-tunnel-tell-finger-energy
+bip_39_word_dash_11: sibling-obey-village-aware-absent-raise-tunnel-tell-finger-energy-armor
+bip_39_word_dash_12: sibling-obey-village-aware-absent-raise-tunnel-tell-finger-energy-armor-air
+bip_39_word_dash_2: sibling-obey
+bip_39_word_dash_3: sibling-obey-village
+bip_39_word_dash_4: sibling-obey-village-aware
+bip_39_word_dash_5: sibling-obey-village-aware-absent
+bip_39_word_dash_6: sibling-obey-village-aware-absent-raise
+bip_39_word_dash_7: sibling-obey-village-aware-absent-raise-tunnel
+bip_39_word_dash_8: sibling-obey-village-aware-absent-raise-tunnel-tell
+bip_39_word_dash_9: sibling-obey-village-aware-absent-raise-tunnel-tell-finger
 bip_39_word_new_br_1: sibling
 bip_39_word_new_br_10: sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell<br>finger<br>energy
 bip_39_word_new_br_11: sibling<br>obey<br>village<br>aware<br>absent<br>raise<br>tunnel<br>tell<br>finger<br>energy<br>armor
@@ -193,6 +205,18 @@ bip_39_word_space_6: sibling obey village aware absent raise
 bip_39_word_space_7: sibling obey village aware absent raise tunnel
 bip_39_word_space_8: sibling obey village aware absent raise tunnel tell
 bip_39_word_space_9: sibling obey village aware absent raise tunnel tell finger
+bip_39_word_underscore_1: sibling
+bip_39_word_underscore_10: sibling_obey_village_aware_absent_raise_tunnel_tell_finger_energy
+bip_39_word_underscore_11: sibling_obey_village_aware_absent_raise_tunnel_tell_finger_energy_armor
+bip_39_word_underscore_12: sibling_obey_village_aware_absent_raise_tunnel_tell_finger_energy_armor_air
+bip_39_word_underscore_2: sibling_obey
+bip_39_word_underscore_3: sibling_obey_village
+bip_39_word_underscore_4: sibling_obey_village_aware
+bip_39_word_underscore_5: sibling_obey_village_aware_absent
+bip_39_word_underscore_6: sibling_obey_village_aware_absent_raise
+bip_39_word_underscore_7: sibling_obey_village_aware_absent_raise_tunnel
+bip_39_word_underscore_8: sibling_obey_village_aware_absent_raise_tunnel_tell
+bip_39_word_underscore_9: sibling_obey_village_aware_absent_raise_tunnel_tell_finger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

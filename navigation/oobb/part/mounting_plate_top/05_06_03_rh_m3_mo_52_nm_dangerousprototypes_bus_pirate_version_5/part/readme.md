@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erupt |  
+| bip_39_word_dash_10 | erupt-hope-enroll-admit-misery-jeans-meat-tooth-bacon-trim |  
+| bip_39_word_dash_11 | erupt-hope-enroll-admit-misery-jeans-meat-tooth-bacon-trim-galaxy |  
+| bip_39_word_dash_12 | erupt-hope-enroll-admit-misery-jeans-meat-tooth-bacon-trim-galaxy-any |  
+| bip_39_word_dash_2 | erupt-hope |  
+| bip_39_word_dash_3 | erupt-hope-enroll |  
+| bip_39_word_dash_4 | erupt-hope-enroll-admit |  
+| bip_39_word_dash_5 | erupt-hope-enroll-admit-misery |  
+| bip_39_word_dash_6 | erupt-hope-enroll-admit-misery-jeans |  
+| bip_39_word_dash_7 | erupt-hope-enroll-admit-misery-jeans-meat |  
+| bip_39_word_dash_8 | erupt-hope-enroll-admit-misery-jeans-meat-tooth |  
+| bip_39_word_dash_9 | erupt-hope-enroll-admit-misery-jeans-meat-tooth-bacon |  
 | bip_39_word_new_br_1 | erupt |  
 | bip_39_word_new_br_10 | erupt<br>hope<br>enroll<br>admit<br>misery<br>jeans<br>meat<br>tooth<br>bacon<br>trim |  
 | bip_39_word_new_br_11 | erupt<br>hope<br>enroll<br>admit<br>misery<br>jeans<br>meat<br>tooth<br>bacon<br>trim<br>galaxy |  
@@ -147,6 +159,18 @@ bacon |
 | bip_39_word_space_7 | erupt hope enroll admit misery jeans meat |  
 | bip_39_word_space_8 | erupt hope enroll admit misery jeans meat tooth |  
 | bip_39_word_space_9 | erupt hope enroll admit misery jeans meat tooth bacon |  
+| bip_39_word_underscore_1 | erupt |  
+| bip_39_word_underscore_10 | erupt_hope_enroll_admit_misery_jeans_meat_tooth_bacon_trim |  
+| bip_39_word_underscore_11 | erupt_hope_enroll_admit_misery_jeans_meat_tooth_bacon_trim_galaxy |  
+| bip_39_word_underscore_12 | erupt_hope_enroll_admit_misery_jeans_meat_tooth_bacon_trim_galaxy_any |  
+| bip_39_word_underscore_2 | erupt_hope |  
+| bip_39_word_underscore_3 | erupt_hope_enroll |  
+| bip_39_word_underscore_4 | erupt_hope_enroll_admit |  
+| bip_39_word_underscore_5 | erupt_hope_enroll_admit_misery |  
+| bip_39_word_underscore_6 | erupt_hope_enroll_admit_misery_jeans |  
+| bip_39_word_underscore_7 | erupt_hope_enroll_admit_misery_jeans_meat |  
+| bip_39_word_underscore_8 | erupt_hope_enroll_admit_misery_jeans_meat_tooth |  
+| bip_39_word_underscore_9 | erupt_hope_enroll_admit_misery_jeans_meat_tooth_bacon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

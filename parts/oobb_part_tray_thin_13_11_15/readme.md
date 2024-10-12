@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | visual |  
+| bip_39_word_dash_10 | visual-machine-tray-fold-thought-task-fame-discover-annual-twin |  
+| bip_39_word_dash_11 | visual-machine-tray-fold-thought-task-fame-discover-annual-twin-follow |  
+| bip_39_word_dash_12 | visual-machine-tray-fold-thought-task-fame-discover-annual-twin-follow-afraid |  
+| bip_39_word_dash_2 | visual-machine |  
+| bip_39_word_dash_3 | visual-machine-tray |  
+| bip_39_word_dash_4 | visual-machine-tray-fold |  
+| bip_39_word_dash_5 | visual-machine-tray-fold-thought |  
+| bip_39_word_dash_6 | visual-machine-tray-fold-thought-task |  
+| bip_39_word_dash_7 | visual-machine-tray-fold-thought-task-fame |  
+| bip_39_word_dash_8 | visual-machine-tray-fold-thought-task-fame-discover |  
+| bip_39_word_dash_9 | visual-machine-tray-fold-thought-task-fame-discover-annual |  
 | bip_39_word_new_br_1 | visual |  
 | bip_39_word_new_br_10 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover<br>annual<br>twin |  
 | bip_39_word_new_br_11 | visual<br>machine<br>tray<br>fold<br>thought<br>task<br>fame<br>discover<br>annual<br>twin<br>follow |  
@@ -147,6 +159,18 @@ annual |
 | bip_39_word_space_7 | visual machine tray fold thought task fame |  
 | bip_39_word_space_8 | visual machine tray fold thought task fame discover |  
 | bip_39_word_space_9 | visual machine tray fold thought task fame discover annual |  
+| bip_39_word_underscore_1 | visual |  
+| bip_39_word_underscore_10 | visual_machine_tray_fold_thought_task_fame_discover_annual_twin |  
+| bip_39_word_underscore_11 | visual_machine_tray_fold_thought_task_fame_discover_annual_twin_follow |  
+| bip_39_word_underscore_12 | visual_machine_tray_fold_thought_task_fame_discover_annual_twin_follow_afraid |  
+| bip_39_word_underscore_2 | visual_machine |  
+| bip_39_word_underscore_3 | visual_machine_tray |  
+| bip_39_word_underscore_4 | visual_machine_tray_fold |  
+| bip_39_word_underscore_5 | visual_machine_tray_fold_thought |  
+| bip_39_word_underscore_6 | visual_machine_tray_fold_thought_task |  
+| bip_39_word_underscore_7 | visual_machine_tray_fold_thought_task_fame |  
+| bip_39_word_underscore_8 | visual_machine_tray_fold_thought_task_fame_discover |  
+| bip_39_word_underscore_9 | visual_machine_tray_fold_thought_task_fame_discover_annual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

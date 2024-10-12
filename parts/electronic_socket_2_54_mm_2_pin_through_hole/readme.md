@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dad |  
+| bip_39_word_dash_10 | dad-fold-number-direct-gasp-female-theory-ozone-sense-panic |  
+| bip_39_word_dash_11 | dad-fold-number-direct-gasp-female-theory-ozone-sense-panic-piece |  
+| bip_39_word_dash_12 | dad-fold-number-direct-gasp-female-theory-ozone-sense-panic-piece-arena |  
+| bip_39_word_dash_2 | dad-fold |  
+| bip_39_word_dash_3 | dad-fold-number |  
+| bip_39_word_dash_4 | dad-fold-number-direct |  
+| bip_39_word_dash_5 | dad-fold-number-direct-gasp |  
+| bip_39_word_dash_6 | dad-fold-number-direct-gasp-female |  
+| bip_39_word_dash_7 | dad-fold-number-direct-gasp-female-theory |  
+| bip_39_word_dash_8 | dad-fold-number-direct-gasp-female-theory-ozone |  
+| bip_39_word_dash_9 | dad-fold-number-direct-gasp-female-theory-ozone-sense |  
 | bip_39_word_new_br_1 | dad |  
 | bip_39_word_new_br_10 | dad<br>fold<br>number<br>direct<br>gasp<br>female<br>theory<br>ozone<br>sense<br>panic |  
 | bip_39_word_new_br_11 | dad<br>fold<br>number<br>direct<br>gasp<br>female<br>theory<br>ozone<br>sense<br>panic<br>piece |  
@@ -147,6 +159,18 @@ sense |
 | bip_39_word_space_7 | dad fold number direct gasp female theory |  
 | bip_39_word_space_8 | dad fold number direct gasp female theory ozone |  
 | bip_39_word_space_9 | dad fold number direct gasp female theory ozone sense |  
+| bip_39_word_underscore_1 | dad |  
+| bip_39_word_underscore_10 | dad_fold_number_direct_gasp_female_theory_ozone_sense_panic |  
+| bip_39_word_underscore_11 | dad_fold_number_direct_gasp_female_theory_ozone_sense_panic_piece |  
+| bip_39_word_underscore_12 | dad_fold_number_direct_gasp_female_theory_ozone_sense_panic_piece_arena |  
+| bip_39_word_underscore_2 | dad_fold |  
+| bip_39_word_underscore_3 | dad_fold_number |  
+| bip_39_word_underscore_4 | dad_fold_number_direct |  
+| bip_39_word_underscore_5 | dad_fold_number_direct_gasp |  
+| bip_39_word_underscore_6 | dad_fold_number_direct_gasp_female |  
+| bip_39_word_underscore_7 | dad_fold_number_direct_gasp_female_theory |  
+| bip_39_word_underscore_8 | dad_fold_number_direct_gasp_female_theory_ozone |  
+| bip_39_word_underscore_9 | dad_fold_number_direct_gasp_female_theory_ozone_sense |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

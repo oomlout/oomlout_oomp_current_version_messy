@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shadow |  
+| bip_39_word_dash_10 | shadow-together-knock-nasty-reopen-bridge-audit-crater-gas-alpha |  
+| bip_39_word_dash_11 | shadow-together-knock-nasty-reopen-bridge-audit-crater-gas-alpha-world |  
+| bip_39_word_dash_12 | shadow-together-knock-nasty-reopen-bridge-audit-crater-gas-alpha-world-address |  
+| bip_39_word_dash_2 | shadow-together |  
+| bip_39_word_dash_3 | shadow-together-knock |  
+| bip_39_word_dash_4 | shadow-together-knock-nasty |  
+| bip_39_word_dash_5 | shadow-together-knock-nasty-reopen |  
+| bip_39_word_dash_6 | shadow-together-knock-nasty-reopen-bridge |  
+| bip_39_word_dash_7 | shadow-together-knock-nasty-reopen-bridge-audit |  
+| bip_39_word_dash_8 | shadow-together-knock-nasty-reopen-bridge-audit-crater |  
+| bip_39_word_dash_9 | shadow-together-knock-nasty-reopen-bridge-audit-crater-gas |  
 | bip_39_word_new_br_1 | shadow |  
 | bip_39_word_new_br_10 | shadow<br>together<br>knock<br>nasty<br>reopen<br>bridge<br>audit<br>crater<br>gas<br>alpha |  
 | bip_39_word_new_br_11 | shadow<br>together<br>knock<br>nasty<br>reopen<br>bridge<br>audit<br>crater<br>gas<br>alpha<br>world |  
@@ -147,6 +159,18 @@ gas |
 | bip_39_word_space_7 | shadow together knock nasty reopen bridge audit |  
 | bip_39_word_space_8 | shadow together knock nasty reopen bridge audit crater |  
 | bip_39_word_space_9 | shadow together knock nasty reopen bridge audit crater gas |  
+| bip_39_word_underscore_1 | shadow |  
+| bip_39_word_underscore_10 | shadow_together_knock_nasty_reopen_bridge_audit_crater_gas_alpha |  
+| bip_39_word_underscore_11 | shadow_together_knock_nasty_reopen_bridge_audit_crater_gas_alpha_world |  
+| bip_39_word_underscore_12 | shadow_together_knock_nasty_reopen_bridge_audit_crater_gas_alpha_world_address |  
+| bip_39_word_underscore_2 | shadow_together |  
+| bip_39_word_underscore_3 | shadow_together_knock |  
+| bip_39_word_underscore_4 | shadow_together_knock_nasty |  
+| bip_39_word_underscore_5 | shadow_together_knock_nasty_reopen |  
+| bip_39_word_underscore_6 | shadow_together_knock_nasty_reopen_bridge |  
+| bip_39_word_underscore_7 | shadow_together_knock_nasty_reopen_bridge_audit |  
+| bip_39_word_underscore_8 | shadow_together_knock_nasty_reopen_bridge_audit_crater |  
+| bip_39_word_underscore_9 | shadow_together_knock_nasty_reopen_bridge_audit_crater_gas |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | heavy |  
+| bip_39_word_dash_10 | heavy-update-coral-climb-truly-immune-rabbit-fluid-female-toddler |  
+| bip_39_word_dash_11 | heavy-update-coral-climb-truly-immune-rabbit-fluid-female-toddler-custom |  
+| bip_39_word_dash_12 | heavy-update-coral-climb-truly-immune-rabbit-fluid-female-toddler-custom-arrive |  
+| bip_39_word_dash_2 | heavy-update |  
+| bip_39_word_dash_3 | heavy-update-coral |  
+| bip_39_word_dash_4 | heavy-update-coral-climb |  
+| bip_39_word_dash_5 | heavy-update-coral-climb-truly |  
+| bip_39_word_dash_6 | heavy-update-coral-climb-truly-immune |  
+| bip_39_word_dash_7 | heavy-update-coral-climb-truly-immune-rabbit |  
+| bip_39_word_dash_8 | heavy-update-coral-climb-truly-immune-rabbit-fluid |  
+| bip_39_word_dash_9 | heavy-update-coral-climb-truly-immune-rabbit-fluid-female |  
 | bip_39_word_new_br_1 | heavy |  
 | bip_39_word_new_br_10 | heavy<br>update<br>coral<br>climb<br>truly<br>immune<br>rabbit<br>fluid<br>female<br>toddler |  
 | bip_39_word_new_br_11 | heavy<br>update<br>coral<br>climb<br>truly<br>immune<br>rabbit<br>fluid<br>female<br>toddler<br>custom |  
@@ -147,6 +159,18 @@ female |
 | bip_39_word_space_7 | heavy update coral climb truly immune rabbit |  
 | bip_39_word_space_8 | heavy update coral climb truly immune rabbit fluid |  
 | bip_39_word_space_9 | heavy update coral climb truly immune rabbit fluid female |  
+| bip_39_word_underscore_1 | heavy |  
+| bip_39_word_underscore_10 | heavy_update_coral_climb_truly_immune_rabbit_fluid_female_toddler |  
+| bip_39_word_underscore_11 | heavy_update_coral_climb_truly_immune_rabbit_fluid_female_toddler_custom |  
+| bip_39_word_underscore_12 | heavy_update_coral_climb_truly_immune_rabbit_fluid_female_toddler_custom_arrive |  
+| bip_39_word_underscore_2 | heavy_update |  
+| bip_39_word_underscore_3 | heavy_update_coral |  
+| bip_39_word_underscore_4 | heavy_update_coral_climb |  
+| bip_39_word_underscore_5 | heavy_update_coral_climb_truly |  
+| bip_39_word_underscore_6 | heavy_update_coral_climb_truly_immune |  
+| bip_39_word_underscore_7 | heavy_update_coral_climb_truly_immune_rabbit |  
+| bip_39_word_underscore_8 | heavy_update_coral_climb_truly_immune_rabbit_fluid |  
+| bip_39_word_underscore_9 | heavy_update_coral_climb_truly_immune_rabbit_fluid_female |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

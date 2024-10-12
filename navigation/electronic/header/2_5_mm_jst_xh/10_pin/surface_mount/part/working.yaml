@@ -1,3 +1,15 @@
+bip_39_word_dash_1: develop
+bip_39_word_dash_10: develop-blanket-trap-pottery-jaguar-liberty-giraffe-wheel-clerk-lumber
+bip_39_word_dash_11: develop-blanket-trap-pottery-jaguar-liberty-giraffe-wheel-clerk-lumber-parent
+bip_39_word_dash_12: develop-blanket-trap-pottery-jaguar-liberty-giraffe-wheel-clerk-lumber-parent-alarm
+bip_39_word_dash_2: develop-blanket
+bip_39_word_dash_3: develop-blanket-trap
+bip_39_word_dash_4: develop-blanket-trap-pottery
+bip_39_word_dash_5: develop-blanket-trap-pottery-jaguar
+bip_39_word_dash_6: develop-blanket-trap-pottery-jaguar-liberty
+bip_39_word_dash_7: develop-blanket-trap-pottery-jaguar-liberty-giraffe
+bip_39_word_dash_8: develop-blanket-trap-pottery-jaguar-liberty-giraffe-wheel
+bip_39_word_dash_9: develop-blanket-trap-pottery-jaguar-liberty-giraffe-wheel-clerk
 bip_39_word_new_br_1: develop
 bip_39_word_new_br_10: develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel<br>clerk<br>lumber
 bip_39_word_new_br_11: develop<br>blanket<br>trap<br>pottery<br>jaguar<br>liberty<br>giraffe<br>wheel<br>clerk<br>lumber<br>parent
@@ -194,6 +206,18 @@ bip_39_word_space_6: develop blanket trap pottery jaguar liberty
 bip_39_word_space_7: develop blanket trap pottery jaguar liberty giraffe
 bip_39_word_space_8: develop blanket trap pottery jaguar liberty giraffe wheel
 bip_39_word_space_9: develop blanket trap pottery jaguar liberty giraffe wheel clerk
+bip_39_word_underscore_1: develop
+bip_39_word_underscore_10: develop_blanket_trap_pottery_jaguar_liberty_giraffe_wheel_clerk_lumber
+bip_39_word_underscore_11: develop_blanket_trap_pottery_jaguar_liberty_giraffe_wheel_clerk_lumber_parent
+bip_39_word_underscore_12: develop_blanket_trap_pottery_jaguar_liberty_giraffe_wheel_clerk_lumber_parent_alarm
+bip_39_word_underscore_2: develop_blanket
+bip_39_word_underscore_3: develop_blanket_trap
+bip_39_word_underscore_4: develop_blanket_trap_pottery
+bip_39_word_underscore_5: develop_blanket_trap_pottery_jaguar
+bip_39_word_underscore_6: develop_blanket_trap_pottery_jaguar_liberty
+bip_39_word_underscore_7: develop_blanket_trap_pottery_jaguar_liberty_giraffe
+bip_39_word_underscore_8: develop_blanket_trap_pottery_jaguar_liberty_giraffe_wheel
+bip_39_word_underscore_9: develop_blanket_trap_pottery_jaguar_liberty_giraffe_wheel_clerk
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

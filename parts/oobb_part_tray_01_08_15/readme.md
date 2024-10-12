@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | review |  
+| bip_39_word_dash_10 | review-garden-stairs-galaxy-riot-gaze-peace-love-deal-dress |  
+| bip_39_word_dash_11 | review-garden-stairs-galaxy-riot-gaze-peace-love-deal-dress-report |  
+| bip_39_word_dash_12 | review-garden-stairs-galaxy-riot-gaze-peace-love-deal-dress-report-again |  
+| bip_39_word_dash_2 | review-garden |  
+| bip_39_word_dash_3 | review-garden-stairs |  
+| bip_39_word_dash_4 | review-garden-stairs-galaxy |  
+| bip_39_word_dash_5 | review-garden-stairs-galaxy-riot |  
+| bip_39_word_dash_6 | review-garden-stairs-galaxy-riot-gaze |  
+| bip_39_word_dash_7 | review-garden-stairs-galaxy-riot-gaze-peace |  
+| bip_39_word_dash_8 | review-garden-stairs-galaxy-riot-gaze-peace-love |  
+| bip_39_word_dash_9 | review-garden-stairs-galaxy-riot-gaze-peace-love-deal |  
 | bip_39_word_new_br_1 | review |  
 | bip_39_word_new_br_10 | review<br>garden<br>stairs<br>galaxy<br>riot<br>gaze<br>peace<br>love<br>deal<br>dress |  
 | bip_39_word_new_br_11 | review<br>garden<br>stairs<br>galaxy<br>riot<br>gaze<br>peace<br>love<br>deal<br>dress<br>report |  
@@ -147,6 +159,18 @@ deal |
 | bip_39_word_space_7 | review garden stairs galaxy riot gaze peace |  
 | bip_39_word_space_8 | review garden stairs galaxy riot gaze peace love |  
 | bip_39_word_space_9 | review garden stairs galaxy riot gaze peace love deal |  
+| bip_39_word_underscore_1 | review |  
+| bip_39_word_underscore_10 | review_garden_stairs_galaxy_riot_gaze_peace_love_deal_dress |  
+| bip_39_word_underscore_11 | review_garden_stairs_galaxy_riot_gaze_peace_love_deal_dress_report |  
+| bip_39_word_underscore_12 | review_garden_stairs_galaxy_riot_gaze_peace_love_deal_dress_report_again |  
+| bip_39_word_underscore_2 | review_garden |  
+| bip_39_word_underscore_3 | review_garden_stairs |  
+| bip_39_word_underscore_4 | review_garden_stairs_galaxy |  
+| bip_39_word_underscore_5 | review_garden_stairs_galaxy_riot |  
+| bip_39_word_underscore_6 | review_garden_stairs_galaxy_riot_gaze |  
+| bip_39_word_underscore_7 | review_garden_stairs_galaxy_riot_gaze_peace |  
+| bip_39_word_underscore_8 | review_garden_stairs_galaxy_riot_gaze_peace_love |  
+| bip_39_word_underscore_9 | review_garden_stairs_galaxy_riot_gaze_peace_love_deal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

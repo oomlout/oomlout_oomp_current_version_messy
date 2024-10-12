@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grocery |  
+| bip_39_word_dash_10 | grocery-odor-citizen-swallow-siege-load-unfair-beef-reform-orchard |  
+| bip_39_word_dash_11 | grocery-odor-citizen-swallow-siege-load-unfair-beef-reform-orchard-limb |  
+| bip_39_word_dash_12 | grocery-odor-citizen-swallow-siege-load-unfair-beef-reform-orchard-limb-airport |  
+| bip_39_word_dash_2 | grocery-odor |  
+| bip_39_word_dash_3 | grocery-odor-citizen |  
+| bip_39_word_dash_4 | grocery-odor-citizen-swallow |  
+| bip_39_word_dash_5 | grocery-odor-citizen-swallow-siege |  
+| bip_39_word_dash_6 | grocery-odor-citizen-swallow-siege-load |  
+| bip_39_word_dash_7 | grocery-odor-citizen-swallow-siege-load-unfair |  
+| bip_39_word_dash_8 | grocery-odor-citizen-swallow-siege-load-unfair-beef |  
+| bip_39_word_dash_9 | grocery-odor-citizen-swallow-siege-load-unfair-beef-reform |  
 | bip_39_word_new_br_1 | grocery |  
 | bip_39_word_new_br_10 | grocery<br>odor<br>citizen<br>swallow<br>siege<br>load<br>unfair<br>beef<br>reform<br>orchard |  
 | bip_39_word_new_br_11 | grocery<br>odor<br>citizen<br>swallow<br>siege<br>load<br>unfair<br>beef<br>reform<br>orchard<br>limb |  
@@ -147,6 +159,18 @@ reform |
 | bip_39_word_space_7 | grocery odor citizen swallow siege load unfair |  
 | bip_39_word_space_8 | grocery odor citizen swallow siege load unfair beef |  
 | bip_39_word_space_9 | grocery odor citizen swallow siege load unfair beef reform |  
+| bip_39_word_underscore_1 | grocery |  
+| bip_39_word_underscore_10 | grocery_odor_citizen_swallow_siege_load_unfair_beef_reform_orchard |  
+| bip_39_word_underscore_11 | grocery_odor_citizen_swallow_siege_load_unfair_beef_reform_orchard_limb |  
+| bip_39_word_underscore_12 | grocery_odor_citizen_swallow_siege_load_unfair_beef_reform_orchard_limb_airport |  
+| bip_39_word_underscore_2 | grocery_odor |  
+| bip_39_word_underscore_3 | grocery_odor_citizen |  
+| bip_39_word_underscore_4 | grocery_odor_citizen_swallow |  
+| bip_39_word_underscore_5 | grocery_odor_citizen_swallow_siege |  
+| bip_39_word_underscore_6 | grocery_odor_citizen_swallow_siege_load |  
+| bip_39_word_underscore_7 | grocery_odor_citizen_swallow_siege_load_unfair |  
+| bip_39_word_underscore_8 | grocery_odor_citizen_swallow_siege_load_unfair_beef |  
+| bip_39_word_underscore_9 | grocery_odor_citizen_swallow_siege_load_unfair_beef_reform |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

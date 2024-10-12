@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clog |  
+| bip_39_word_dash_10 | clog-cheese-arrange-voice-unlock-lift-shell-hard-biology-shadow |  
+| bip_39_word_dash_11 | clog-cheese-arrange-voice-unlock-lift-shell-hard-biology-shadow-alarm |  
+| bip_39_word_dash_12 | clog-cheese-arrange-voice-unlock-lift-shell-hard-biology-shadow-alarm-amateur |  
+| bip_39_word_dash_2 | clog-cheese |  
+| bip_39_word_dash_3 | clog-cheese-arrange |  
+| bip_39_word_dash_4 | clog-cheese-arrange-voice |  
+| bip_39_word_dash_5 | clog-cheese-arrange-voice-unlock |  
+| bip_39_word_dash_6 | clog-cheese-arrange-voice-unlock-lift |  
+| bip_39_word_dash_7 | clog-cheese-arrange-voice-unlock-lift-shell |  
+| bip_39_word_dash_8 | clog-cheese-arrange-voice-unlock-lift-shell-hard |  
+| bip_39_word_dash_9 | clog-cheese-arrange-voice-unlock-lift-shell-hard-biology |  
 | bip_39_word_new_br_1 | clog |  
 | bip_39_word_new_br_10 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard<br>biology<br>shadow |  
 | bip_39_word_new_br_11 | clog<br>cheese<br>arrange<br>voice<br>unlock<br>lift<br>shell<br>hard<br>biology<br>shadow<br>alarm |  
@@ -147,6 +159,18 @@ biology |
 | bip_39_word_space_7 | clog cheese arrange voice unlock lift shell |  
 | bip_39_word_space_8 | clog cheese arrange voice unlock lift shell hard |  
 | bip_39_word_space_9 | clog cheese arrange voice unlock lift shell hard biology |  
+| bip_39_word_underscore_1 | clog |  
+| bip_39_word_underscore_10 | clog_cheese_arrange_voice_unlock_lift_shell_hard_biology_shadow |  
+| bip_39_word_underscore_11 | clog_cheese_arrange_voice_unlock_lift_shell_hard_biology_shadow_alarm |  
+| bip_39_word_underscore_12 | clog_cheese_arrange_voice_unlock_lift_shell_hard_biology_shadow_alarm_amateur |  
+| bip_39_word_underscore_2 | clog_cheese |  
+| bip_39_word_underscore_3 | clog_cheese_arrange |  
+| bip_39_word_underscore_4 | clog_cheese_arrange_voice |  
+| bip_39_word_underscore_5 | clog_cheese_arrange_voice_unlock |  
+| bip_39_word_underscore_6 | clog_cheese_arrange_voice_unlock_lift |  
+| bip_39_word_underscore_7 | clog_cheese_arrange_voice_unlock_lift_shell |  
+| bip_39_word_underscore_8 | clog_cheese_arrange_voice_unlock_lift_shell_hard |  
+| bip_39_word_underscore_9 | clog_cheese_arrange_voice_unlock_lift_shell_hard_biology |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

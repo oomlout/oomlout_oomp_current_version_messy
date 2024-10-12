@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blue |  
+| bip_39_word_dash_10 | blue-hard-wolf-scan-middle-leaf-soccer-onion-borrow-diamond |  
+| bip_39_word_dash_11 | blue-hard-wolf-scan-middle-leaf-soccer-onion-borrow-diamond-despair |  
+| bip_39_word_dash_12 | blue-hard-wolf-scan-middle-leaf-soccer-onion-borrow-diamond-despair-air |  
+| bip_39_word_dash_2 | blue-hard |  
+| bip_39_word_dash_3 | blue-hard-wolf |  
+| bip_39_word_dash_4 | blue-hard-wolf-scan |  
+| bip_39_word_dash_5 | blue-hard-wolf-scan-middle |  
+| bip_39_word_dash_6 | blue-hard-wolf-scan-middle-leaf |  
+| bip_39_word_dash_7 | blue-hard-wolf-scan-middle-leaf-soccer |  
+| bip_39_word_dash_8 | blue-hard-wolf-scan-middle-leaf-soccer-onion |  
+| bip_39_word_dash_9 | blue-hard-wolf-scan-middle-leaf-soccer-onion-borrow |  
 | bip_39_word_new_br_1 | blue |  
 | bip_39_word_new_br_10 | blue<br>hard<br>wolf<br>scan<br>middle<br>leaf<br>soccer<br>onion<br>borrow<br>diamond |  
 | bip_39_word_new_br_11 | blue<br>hard<br>wolf<br>scan<br>middle<br>leaf<br>soccer<br>onion<br>borrow<br>diamond<br>despair |  
@@ -147,6 +159,18 @@ borrow |
 | bip_39_word_space_7 | blue hard wolf scan middle leaf soccer |  
 | bip_39_word_space_8 | blue hard wolf scan middle leaf soccer onion |  
 | bip_39_word_space_9 | blue hard wolf scan middle leaf soccer onion borrow |  
+| bip_39_word_underscore_1 | blue |  
+| bip_39_word_underscore_10 | blue_hard_wolf_scan_middle_leaf_soccer_onion_borrow_diamond |  
+| bip_39_word_underscore_11 | blue_hard_wolf_scan_middle_leaf_soccer_onion_borrow_diamond_despair |  
+| bip_39_word_underscore_12 | blue_hard_wolf_scan_middle_leaf_soccer_onion_borrow_diamond_despair_air |  
+| bip_39_word_underscore_2 | blue_hard |  
+| bip_39_word_underscore_3 | blue_hard_wolf |  
+| bip_39_word_underscore_4 | blue_hard_wolf_scan |  
+| bip_39_word_underscore_5 | blue_hard_wolf_scan_middle |  
+| bip_39_word_underscore_6 | blue_hard_wolf_scan_middle_leaf |  
+| bip_39_word_underscore_7 | blue_hard_wolf_scan_middle_leaf_soccer |  
+| bip_39_word_underscore_8 | blue_hard_wolf_scan_middle_leaf_soccer_onion |  
+| bip_39_word_underscore_9 | blue_hard_wolf_scan_middle_leaf_soccer_onion_borrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

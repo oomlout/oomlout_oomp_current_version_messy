@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fresh |  
+| bip_39_word_dash_10 | fresh-bracket-shiver-also-portion-barrel-potato-library-taste-hat |  
+| bip_39_word_dash_11 | fresh-bracket-shiver-also-portion-barrel-potato-library-taste-hat-tiny |  
+| bip_39_word_dash_12 | fresh-bracket-shiver-also-portion-barrel-potato-library-taste-hat-tiny-any |  
+| bip_39_word_dash_2 | fresh-bracket |  
+| bip_39_word_dash_3 | fresh-bracket-shiver |  
+| bip_39_word_dash_4 | fresh-bracket-shiver-also |  
+| bip_39_word_dash_5 | fresh-bracket-shiver-also-portion |  
+| bip_39_word_dash_6 | fresh-bracket-shiver-also-portion-barrel |  
+| bip_39_word_dash_7 | fresh-bracket-shiver-also-portion-barrel-potato |  
+| bip_39_word_dash_8 | fresh-bracket-shiver-also-portion-barrel-potato-library |  
+| bip_39_word_dash_9 | fresh-bracket-shiver-also-portion-barrel-potato-library-taste |  
 | bip_39_word_new_br_1 | fresh |  
 | bip_39_word_new_br_10 | fresh<br>bracket<br>shiver<br>also<br>portion<br>barrel<br>potato<br>library<br>taste<br>hat |  
 | bip_39_word_new_br_11 | fresh<br>bracket<br>shiver<br>also<br>portion<br>barrel<br>potato<br>library<br>taste<br>hat<br>tiny |  
@@ -147,6 +159,18 @@ taste |
 | bip_39_word_space_7 | fresh bracket shiver also portion barrel potato |  
 | bip_39_word_space_8 | fresh bracket shiver also portion barrel potato library |  
 | bip_39_word_space_9 | fresh bracket shiver also portion barrel potato library taste |  
+| bip_39_word_underscore_1 | fresh |  
+| bip_39_word_underscore_10 | fresh_bracket_shiver_also_portion_barrel_potato_library_taste_hat |  
+| bip_39_word_underscore_11 | fresh_bracket_shiver_also_portion_barrel_potato_library_taste_hat_tiny |  
+| bip_39_word_underscore_12 | fresh_bracket_shiver_also_portion_barrel_potato_library_taste_hat_tiny_any |  
+| bip_39_word_underscore_2 | fresh_bracket |  
+| bip_39_word_underscore_3 | fresh_bracket_shiver |  
+| bip_39_word_underscore_4 | fresh_bracket_shiver_also |  
+| bip_39_word_underscore_5 | fresh_bracket_shiver_also_portion |  
+| bip_39_word_underscore_6 | fresh_bracket_shiver_also_portion_barrel |  
+| bip_39_word_underscore_7 | fresh_bracket_shiver_also_portion_barrel_potato |  
+| bip_39_word_underscore_8 | fresh_bracket_shiver_also_portion_barrel_potato_library |  
+| bip_39_word_underscore_9 | fresh_bracket_shiver_also_portion_barrel_potato_library_taste |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

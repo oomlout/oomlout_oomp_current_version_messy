@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hair
+bip_39_word_dash_10: hair-decorate-color-happy-expire-list-ignore-obvious-dog-desert
+bip_39_word_dash_11: hair-decorate-color-happy-expire-list-ignore-obvious-dog-desert-test
+bip_39_word_dash_12: hair-decorate-color-happy-expire-list-ignore-obvious-dog-desert-test-adapt
+bip_39_word_dash_2: hair-decorate
+bip_39_word_dash_3: hair-decorate-color
+bip_39_word_dash_4: hair-decorate-color-happy
+bip_39_word_dash_5: hair-decorate-color-happy-expire
+bip_39_word_dash_6: hair-decorate-color-happy-expire-list
+bip_39_word_dash_7: hair-decorate-color-happy-expire-list-ignore
+bip_39_word_dash_8: hair-decorate-color-happy-expire-list-ignore-obvious
+bip_39_word_dash_9: hair-decorate-color-happy-expire-list-ignore-obvious-dog
 bip_39_word_new_br_1: hair
 bip_39_word_new_br_10: hair<br>decorate<br>color<br>happy<br>expire<br>list<br>ignore<br>obvious<br>dog<br>desert
 bip_39_word_new_br_11: hair<br>decorate<br>color<br>happy<br>expire<br>list<br>ignore<br>obvious<br>dog<br>desert<br>test
@@ -193,6 +205,18 @@ bip_39_word_space_6: hair decorate color happy expire list
 bip_39_word_space_7: hair decorate color happy expire list ignore
 bip_39_word_space_8: hair decorate color happy expire list ignore obvious
 bip_39_word_space_9: hair decorate color happy expire list ignore obvious dog
+bip_39_word_underscore_1: hair
+bip_39_word_underscore_10: hair_decorate_color_happy_expire_list_ignore_obvious_dog_desert
+bip_39_word_underscore_11: hair_decorate_color_happy_expire_list_ignore_obvious_dog_desert_test
+bip_39_word_underscore_12: hair_decorate_color_happy_expire_list_ignore_obvious_dog_desert_test_adapt
+bip_39_word_underscore_2: hair_decorate
+bip_39_word_underscore_3: hair_decorate_color
+bip_39_word_underscore_4: hair_decorate_color_happy
+bip_39_word_underscore_5: hair_decorate_color_happy_expire
+bip_39_word_underscore_6: hair_decorate_color_happy_expire_list
+bip_39_word_underscore_7: hair_decorate_color_happy_expire_list_ignore
+bip_39_word_underscore_8: hair_decorate_color_happy_expire_list_ignore_obvious
+bip_39_word_underscore_9: hair_decorate_color_happy_expire_list_ignore_obvious_dog
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

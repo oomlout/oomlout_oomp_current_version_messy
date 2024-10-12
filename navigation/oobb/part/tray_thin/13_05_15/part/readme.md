@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bicycle |  
+| bip_39_word_dash_10 | bicycle-error-boost-flat-cigar-thank-noble-lunar-hundred-address |  
+| bip_39_word_dash_11 | bicycle-error-boost-flat-cigar-thank-noble-lunar-hundred-address-swing |  
+| bip_39_word_dash_12 | bicycle-error-boost-flat-cigar-thank-noble-lunar-hundred-address-swing-arm |  
+| bip_39_word_dash_2 | bicycle-error |  
+| bip_39_word_dash_3 | bicycle-error-boost |  
+| bip_39_word_dash_4 | bicycle-error-boost-flat |  
+| bip_39_word_dash_5 | bicycle-error-boost-flat-cigar |  
+| bip_39_word_dash_6 | bicycle-error-boost-flat-cigar-thank |  
+| bip_39_word_dash_7 | bicycle-error-boost-flat-cigar-thank-noble |  
+| bip_39_word_dash_8 | bicycle-error-boost-flat-cigar-thank-noble-lunar |  
+| bip_39_word_dash_9 | bicycle-error-boost-flat-cigar-thank-noble-lunar-hundred |  
 | bip_39_word_new_br_1 | bicycle |  
 | bip_39_word_new_br_10 | bicycle<br>error<br>boost<br>flat<br>cigar<br>thank<br>noble<br>lunar<br>hundred<br>address |  
 | bip_39_word_new_br_11 | bicycle<br>error<br>boost<br>flat<br>cigar<br>thank<br>noble<br>lunar<br>hundred<br>address<br>swing |  
@@ -147,6 +159,18 @@ hundred |
 | bip_39_word_space_7 | bicycle error boost flat cigar thank noble |  
 | bip_39_word_space_8 | bicycle error boost flat cigar thank noble lunar |  
 | bip_39_word_space_9 | bicycle error boost flat cigar thank noble lunar hundred |  
+| bip_39_word_underscore_1 | bicycle |  
+| bip_39_word_underscore_10 | bicycle_error_boost_flat_cigar_thank_noble_lunar_hundred_address |  
+| bip_39_word_underscore_11 | bicycle_error_boost_flat_cigar_thank_noble_lunar_hundred_address_swing |  
+| bip_39_word_underscore_12 | bicycle_error_boost_flat_cigar_thank_noble_lunar_hundred_address_swing_arm |  
+| bip_39_word_underscore_2 | bicycle_error |  
+| bip_39_word_underscore_3 | bicycle_error_boost |  
+| bip_39_word_underscore_4 | bicycle_error_boost_flat |  
+| bip_39_word_underscore_5 | bicycle_error_boost_flat_cigar |  
+| bip_39_word_underscore_6 | bicycle_error_boost_flat_cigar_thank |  
+| bip_39_word_underscore_7 | bicycle_error_boost_flat_cigar_thank_noble |  
+| bip_39_word_underscore_8 | bicycle_error_boost_flat_cigar_thank_noble_lunar |  
+| bip_39_word_underscore_9 | bicycle_error_boost_flat_cigar_thank_noble_lunar_hundred |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

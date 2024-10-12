@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | upgrade |  
+| bip_39_word_dash_10 | upgrade-wasp-weapon-advice-lend-midnight-game-latin-bird-dish |  
+| bip_39_word_dash_11 | upgrade-wasp-weapon-advice-lend-midnight-game-latin-bird-dish-diamond |  
+| bip_39_word_dash_12 | upgrade-wasp-weapon-advice-lend-midnight-game-latin-bird-dish-diamond-add |  
+| bip_39_word_dash_2 | upgrade-wasp |  
+| bip_39_word_dash_3 | upgrade-wasp-weapon |  
+| bip_39_word_dash_4 | upgrade-wasp-weapon-advice |  
+| bip_39_word_dash_5 | upgrade-wasp-weapon-advice-lend |  
+| bip_39_word_dash_6 | upgrade-wasp-weapon-advice-lend-midnight |  
+| bip_39_word_dash_7 | upgrade-wasp-weapon-advice-lend-midnight-game |  
+| bip_39_word_dash_8 | upgrade-wasp-weapon-advice-lend-midnight-game-latin |  
+| bip_39_word_dash_9 | upgrade-wasp-weapon-advice-lend-midnight-game-latin-bird |  
 | bip_39_word_new_br_1 | upgrade |  
 | bip_39_word_new_br_10 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish |  
 | bip_39_word_new_br_11 | upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish<br>diamond |  
@@ -147,6 +159,18 @@ bird |
 | bip_39_word_space_7 | upgrade wasp weapon advice lend midnight game |  
 | bip_39_word_space_8 | upgrade wasp weapon advice lend midnight game latin |  
 | bip_39_word_space_9 | upgrade wasp weapon advice lend midnight game latin bird |  
+| bip_39_word_underscore_1 | upgrade |  
+| bip_39_word_underscore_10 | upgrade_wasp_weapon_advice_lend_midnight_game_latin_bird_dish |  
+| bip_39_word_underscore_11 | upgrade_wasp_weapon_advice_lend_midnight_game_latin_bird_dish_diamond |  
+| bip_39_word_underscore_12 | upgrade_wasp_weapon_advice_lend_midnight_game_latin_bird_dish_diamond_add |  
+| bip_39_word_underscore_2 | upgrade_wasp |  
+| bip_39_word_underscore_3 | upgrade_wasp_weapon |  
+| bip_39_word_underscore_4 | upgrade_wasp_weapon_advice |  
+| bip_39_word_underscore_5 | upgrade_wasp_weapon_advice_lend |  
+| bip_39_word_underscore_6 | upgrade_wasp_weapon_advice_lend_midnight |  
+| bip_39_word_underscore_7 | upgrade_wasp_weapon_advice_lend_midnight_game |  
+| bip_39_word_underscore_8 | upgrade_wasp_weapon_advice_lend_midnight_game_latin |  
+| bip_39_word_underscore_9 | upgrade_wasp_weapon_advice_lend_midnight_game_latin_bird |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

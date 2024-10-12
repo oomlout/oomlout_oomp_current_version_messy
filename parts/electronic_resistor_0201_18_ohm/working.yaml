@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trash
+bip_39_word_dash_10: trash-adult-point-fever-know-boy-husband-loyal-helmet-priority
+bip_39_word_dash_11: trash-adult-point-fever-know-boy-husband-loyal-helmet-priority-slight
+bip_39_word_dash_12: trash-adult-point-fever-know-boy-husband-loyal-helmet-priority-slight-attitude
+bip_39_word_dash_2: trash-adult
+bip_39_word_dash_3: trash-adult-point
+bip_39_word_dash_4: trash-adult-point-fever
+bip_39_word_dash_5: trash-adult-point-fever-know
+bip_39_word_dash_6: trash-adult-point-fever-know-boy
+bip_39_word_dash_7: trash-adult-point-fever-know-boy-husband
+bip_39_word_dash_8: trash-adult-point-fever-know-boy-husband-loyal
+bip_39_word_dash_9: trash-adult-point-fever-know-boy-husband-loyal-helmet
 bip_39_word_new_br_1: trash
 bip_39_word_new_br_10: trash<br>adult<br>point<br>fever<br>know<br>boy<br>husband<br>loyal<br>helmet<br>priority
 bip_39_word_new_br_11: trash<br>adult<br>point<br>fever<br>know<br>boy<br>husband<br>loyal<br>helmet<br>priority<br>slight
@@ -193,6 +205,18 @@ bip_39_word_space_6: trash adult point fever know boy
 bip_39_word_space_7: trash adult point fever know boy husband
 bip_39_word_space_8: trash adult point fever know boy husband loyal
 bip_39_word_space_9: trash adult point fever know boy husband loyal helmet
+bip_39_word_underscore_1: trash
+bip_39_word_underscore_10: trash_adult_point_fever_know_boy_husband_loyal_helmet_priority
+bip_39_word_underscore_11: trash_adult_point_fever_know_boy_husband_loyal_helmet_priority_slight
+bip_39_word_underscore_12: trash_adult_point_fever_know_boy_husband_loyal_helmet_priority_slight_attitude
+bip_39_word_underscore_2: trash_adult
+bip_39_word_underscore_3: trash_adult_point
+bip_39_word_underscore_4: trash_adult_point_fever
+bip_39_word_underscore_5: trash_adult_point_fever_know
+bip_39_word_underscore_6: trash_adult_point_fever_know_boy
+bip_39_word_underscore_7: trash_adult_point_fever_know_boy_husband
+bip_39_word_underscore_8: trash_adult_point_fever_know_boy_husband_loyal
+bip_39_word_underscore_9: trash_adult_point_fever_know_boy_husband_loyal_helmet
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stairs |  
+| bip_39_word_dash_10 | stairs-empower-subject-pelican-suffer-family-honey-pink-arrest-sight |  
+| bip_39_word_dash_11 | stairs-empower-subject-pelican-suffer-family-honey-pink-arrest-sight-noise |  
+| bip_39_word_dash_12 | stairs-empower-subject-pelican-suffer-family-honey-pink-arrest-sight-noise-air |  
+| bip_39_word_dash_2 | stairs-empower |  
+| bip_39_word_dash_3 | stairs-empower-subject |  
+| bip_39_word_dash_4 | stairs-empower-subject-pelican |  
+| bip_39_word_dash_5 | stairs-empower-subject-pelican-suffer |  
+| bip_39_word_dash_6 | stairs-empower-subject-pelican-suffer-family |  
+| bip_39_word_dash_7 | stairs-empower-subject-pelican-suffer-family-honey |  
+| bip_39_word_dash_8 | stairs-empower-subject-pelican-suffer-family-honey-pink |  
+| bip_39_word_dash_9 | stairs-empower-subject-pelican-suffer-family-honey-pink-arrest |  
 | bip_39_word_new_br_1 | stairs |  
 | bip_39_word_new_br_10 | stairs<br>empower<br>subject<br>pelican<br>suffer<br>family<br>honey<br>pink<br>arrest<br>sight |  
 | bip_39_word_new_br_11 | stairs<br>empower<br>subject<br>pelican<br>suffer<br>family<br>honey<br>pink<br>arrest<br>sight<br>noise |  
@@ -147,6 +159,18 @@ arrest |
 | bip_39_word_space_7 | stairs empower subject pelican suffer family honey |  
 | bip_39_word_space_8 | stairs empower subject pelican suffer family honey pink |  
 | bip_39_word_space_9 | stairs empower subject pelican suffer family honey pink arrest |  
+| bip_39_word_underscore_1 | stairs |  
+| bip_39_word_underscore_10 | stairs_empower_subject_pelican_suffer_family_honey_pink_arrest_sight |  
+| bip_39_word_underscore_11 | stairs_empower_subject_pelican_suffer_family_honey_pink_arrest_sight_noise |  
+| bip_39_word_underscore_12 | stairs_empower_subject_pelican_suffer_family_honey_pink_arrest_sight_noise_air |  
+| bip_39_word_underscore_2 | stairs_empower |  
+| bip_39_word_underscore_3 | stairs_empower_subject |  
+| bip_39_word_underscore_4 | stairs_empower_subject_pelican |  
+| bip_39_word_underscore_5 | stairs_empower_subject_pelican_suffer |  
+| bip_39_word_underscore_6 | stairs_empower_subject_pelican_suffer_family |  
+| bip_39_word_underscore_7 | stairs_empower_subject_pelican_suffer_family_honey |  
+| bip_39_word_underscore_8 | stairs_empower_subject_pelican_suffer_family_honey_pink |  
+| bip_39_word_underscore_9 | stairs_empower_subject_pelican_suffer_family_honey_pink_arrest |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

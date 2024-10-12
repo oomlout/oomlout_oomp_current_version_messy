@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spoon |  
+| bip_39_word_dash_10 | spoon-vehicle-multiply-expose-stone-elbow-resist-sibling-guess-cancel |  
+| bip_39_word_dash_11 | spoon-vehicle-multiply-expose-stone-elbow-resist-sibling-guess-cancel-vital |  
+| bip_39_word_dash_12 | spoon-vehicle-multiply-expose-stone-elbow-resist-sibling-guess-cancel-vital-aerobic |  
+| bip_39_word_dash_2 | spoon-vehicle |  
+| bip_39_word_dash_3 | spoon-vehicle-multiply |  
+| bip_39_word_dash_4 | spoon-vehicle-multiply-expose |  
+| bip_39_word_dash_5 | spoon-vehicle-multiply-expose-stone |  
+| bip_39_word_dash_6 | spoon-vehicle-multiply-expose-stone-elbow |  
+| bip_39_word_dash_7 | spoon-vehicle-multiply-expose-stone-elbow-resist |  
+| bip_39_word_dash_8 | spoon-vehicle-multiply-expose-stone-elbow-resist-sibling |  
+| bip_39_word_dash_9 | spoon-vehicle-multiply-expose-stone-elbow-resist-sibling-guess |  
 | bip_39_word_new_br_1 | spoon |  
 | bip_39_word_new_br_10 | spoon<br>vehicle<br>multiply<br>expose<br>stone<br>elbow<br>resist<br>sibling<br>guess<br>cancel |  
 | bip_39_word_new_br_11 | spoon<br>vehicle<br>multiply<br>expose<br>stone<br>elbow<br>resist<br>sibling<br>guess<br>cancel<br>vital |  
@@ -147,6 +159,18 @@ guess |
 | bip_39_word_space_7 | spoon vehicle multiply expose stone elbow resist |  
 | bip_39_word_space_8 | spoon vehicle multiply expose stone elbow resist sibling |  
 | bip_39_word_space_9 | spoon vehicle multiply expose stone elbow resist sibling guess |  
+| bip_39_word_underscore_1 | spoon |  
+| bip_39_word_underscore_10 | spoon_vehicle_multiply_expose_stone_elbow_resist_sibling_guess_cancel |  
+| bip_39_word_underscore_11 | spoon_vehicle_multiply_expose_stone_elbow_resist_sibling_guess_cancel_vital |  
+| bip_39_word_underscore_12 | spoon_vehicle_multiply_expose_stone_elbow_resist_sibling_guess_cancel_vital_aerobic |  
+| bip_39_word_underscore_2 | spoon_vehicle |  
+| bip_39_word_underscore_3 | spoon_vehicle_multiply |  
+| bip_39_word_underscore_4 | spoon_vehicle_multiply_expose |  
+| bip_39_word_underscore_5 | spoon_vehicle_multiply_expose_stone |  
+| bip_39_word_underscore_6 | spoon_vehicle_multiply_expose_stone_elbow |  
+| bip_39_word_underscore_7 | spoon_vehicle_multiply_expose_stone_elbow_resist |  
+| bip_39_word_underscore_8 | spoon_vehicle_multiply_expose_stone_elbow_resist_sibling |  
+| bip_39_word_underscore_9 | spoon_vehicle_multiply_expose_stone_elbow_resist_sibling_guess |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

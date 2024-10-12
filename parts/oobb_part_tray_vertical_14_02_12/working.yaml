@@ -1,3 +1,15 @@
+bip_39_word_dash_1: flash
+bip_39_word_dash_10: flash-quarter-face-warm-sample-prefer-silk-alone-shadow-captain
+bip_39_word_dash_11: flash-quarter-face-warm-sample-prefer-silk-alone-shadow-captain-come
+bip_39_word_dash_12: flash-quarter-face-warm-sample-prefer-silk-alone-shadow-captain-come-alone
+bip_39_word_dash_2: flash-quarter
+bip_39_word_dash_3: flash-quarter-face
+bip_39_word_dash_4: flash-quarter-face-warm
+bip_39_word_dash_5: flash-quarter-face-warm-sample
+bip_39_word_dash_6: flash-quarter-face-warm-sample-prefer
+bip_39_word_dash_7: flash-quarter-face-warm-sample-prefer-silk
+bip_39_word_dash_8: flash-quarter-face-warm-sample-prefer-silk-alone
+bip_39_word_dash_9: flash-quarter-face-warm-sample-prefer-silk-alone-shadow
 bip_39_word_new_br_1: flash
 bip_39_word_new_br_10: flash<br>quarter<br>face<br>warm<br>sample<br>prefer<br>silk<br>alone<br>shadow<br>captain
 bip_39_word_new_br_11: flash<br>quarter<br>face<br>warm<br>sample<br>prefer<br>silk<br>alone<br>shadow<br>captain<br>come
@@ -193,6 +205,18 @@ bip_39_word_space_6: flash quarter face warm sample prefer
 bip_39_word_space_7: flash quarter face warm sample prefer silk
 bip_39_word_space_8: flash quarter face warm sample prefer silk alone
 bip_39_word_space_9: flash quarter face warm sample prefer silk alone shadow
+bip_39_word_underscore_1: flash
+bip_39_word_underscore_10: flash_quarter_face_warm_sample_prefer_silk_alone_shadow_captain
+bip_39_word_underscore_11: flash_quarter_face_warm_sample_prefer_silk_alone_shadow_captain_come
+bip_39_word_underscore_12: flash_quarter_face_warm_sample_prefer_silk_alone_shadow_captain_come_alone
+bip_39_word_underscore_2: flash_quarter
+bip_39_word_underscore_3: flash_quarter_face
+bip_39_word_underscore_4: flash_quarter_face_warm
+bip_39_word_underscore_5: flash_quarter_face_warm_sample
+bip_39_word_underscore_6: flash_quarter_face_warm_sample_prefer
+bip_39_word_underscore_7: flash_quarter_face_warm_sample_prefer_silk
+bip_39_word_underscore_8: flash_quarter_face_warm_sample_prefer_silk_alone
+bip_39_word_underscore_9: flash_quarter_face_warm_sample_prefer_silk_alone_shadow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

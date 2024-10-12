@@ -1,3 +1,15 @@
+bip_39_word_dash_1: action
+bip_39_word_dash_10: action-patch-senior-romance-chief-book-pear-wild-put-prize
+bip_39_word_dash_11: action-patch-senior-romance-chief-book-pear-wild-put-prize-foil
+bip_39_word_dash_12: action-patch-senior-romance-chief-book-pear-wild-put-prize-foil-almost
+bip_39_word_dash_2: action-patch
+bip_39_word_dash_3: action-patch-senior
+bip_39_word_dash_4: action-patch-senior-romance
+bip_39_word_dash_5: action-patch-senior-romance-chief
+bip_39_word_dash_6: action-patch-senior-romance-chief-book
+bip_39_word_dash_7: action-patch-senior-romance-chief-book-pear
+bip_39_word_dash_8: action-patch-senior-romance-chief-book-pear-wild
+bip_39_word_dash_9: action-patch-senior-romance-chief-book-pear-wild-put
 bip_39_word_new_br_1: action
 bip_39_word_new_br_10: action<br>patch<br>senior<br>romance<br>chief<br>book<br>pear<br>wild<br>put<br>prize
 bip_39_word_new_br_11: action<br>patch<br>senior<br>romance<br>chief<br>book<br>pear<br>wild<br>put<br>prize<br>foil
@@ -192,6 +204,18 @@ bip_39_word_space_6: action patch senior romance chief book
 bip_39_word_space_7: action patch senior romance chief book pear
 bip_39_word_space_8: action patch senior romance chief book pear wild
 bip_39_word_space_9: action patch senior romance chief book pear wild put
+bip_39_word_underscore_1: action
+bip_39_word_underscore_10: action_patch_senior_romance_chief_book_pear_wild_put_prize
+bip_39_word_underscore_11: action_patch_senior_romance_chief_book_pear_wild_put_prize_foil
+bip_39_word_underscore_12: action_patch_senior_romance_chief_book_pear_wild_put_prize_foil_almost
+bip_39_word_underscore_2: action_patch
+bip_39_word_underscore_3: action_patch_senior
+bip_39_word_underscore_4: action_patch_senior_romance
+bip_39_word_underscore_5: action_patch_senior_romance_chief
+bip_39_word_underscore_6: action_patch_senior_romance_chief_book
+bip_39_word_underscore_7: action_patch_senior_romance_chief_book_pear
+bip_39_word_underscore_8: action_patch_senior_romance_chief_book_pear_wild
+bip_39_word_underscore_9: action_patch_senior_romance_chief_book_pear_wild_put
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

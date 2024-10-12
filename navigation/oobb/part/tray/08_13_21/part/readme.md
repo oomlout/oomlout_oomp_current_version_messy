@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clock |  
+| bip_39_word_dash_10 | clock-person-core-believe-enjoy-matter-ordinary-soda-state-glove |  
+| bip_39_word_dash_11 | clock-person-core-believe-enjoy-matter-ordinary-soda-state-glove-jealous |  
+| bip_39_word_dash_12 | clock-person-core-believe-enjoy-matter-ordinary-soda-state-glove-jealous-argue |  
+| bip_39_word_dash_2 | clock-person |  
+| bip_39_word_dash_3 | clock-person-core |  
+| bip_39_word_dash_4 | clock-person-core-believe |  
+| bip_39_word_dash_5 | clock-person-core-believe-enjoy |  
+| bip_39_word_dash_6 | clock-person-core-believe-enjoy-matter |  
+| bip_39_word_dash_7 | clock-person-core-believe-enjoy-matter-ordinary |  
+| bip_39_word_dash_8 | clock-person-core-believe-enjoy-matter-ordinary-soda |  
+| bip_39_word_dash_9 | clock-person-core-believe-enjoy-matter-ordinary-soda-state |  
 | bip_39_word_new_br_1 | clock |  
 | bip_39_word_new_br_10 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove |  
 | bip_39_word_new_br_11 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove<br>jealous |  
@@ -147,6 +159,18 @@ state |
 | bip_39_word_space_7 | clock person core believe enjoy matter ordinary |  
 | bip_39_word_space_8 | clock person core believe enjoy matter ordinary soda |  
 | bip_39_word_space_9 | clock person core believe enjoy matter ordinary soda state |  
+| bip_39_word_underscore_1 | clock |  
+| bip_39_word_underscore_10 | clock_person_core_believe_enjoy_matter_ordinary_soda_state_glove |  
+| bip_39_word_underscore_11 | clock_person_core_believe_enjoy_matter_ordinary_soda_state_glove_jealous |  
+| bip_39_word_underscore_12 | clock_person_core_believe_enjoy_matter_ordinary_soda_state_glove_jealous_argue |  
+| bip_39_word_underscore_2 | clock_person |  
+| bip_39_word_underscore_3 | clock_person_core |  
+| bip_39_word_underscore_4 | clock_person_core_believe |  
+| bip_39_word_underscore_5 | clock_person_core_believe_enjoy |  
+| bip_39_word_underscore_6 | clock_person_core_believe_enjoy_matter |  
+| bip_39_word_underscore_7 | clock_person_core_believe_enjoy_matter_ordinary |  
+| bip_39_word_underscore_8 | clock_person_core_believe_enjoy_matter_ordinary_soda |  
+| bip_39_word_underscore_9 | clock_person_core_believe_enjoy_matter_ordinary_soda_state |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

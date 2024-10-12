@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coral |  
+| bip_39_word_dash_10 | coral-toss-provide-into-field-below-cricket-medal-thrive-wood |  
+| bip_39_word_dash_11 | coral-toss-provide-into-field-below-cricket-medal-thrive-wood-act |  
+| bip_39_word_dash_12 | coral-toss-provide-into-field-below-cricket-medal-thrive-wood-act-armed |  
+| bip_39_word_dash_2 | coral-toss |  
+| bip_39_word_dash_3 | coral-toss-provide |  
+| bip_39_word_dash_4 | coral-toss-provide-into |  
+| bip_39_word_dash_5 | coral-toss-provide-into-field |  
+| bip_39_word_dash_6 | coral-toss-provide-into-field-below |  
+| bip_39_word_dash_7 | coral-toss-provide-into-field-below-cricket |  
+| bip_39_word_dash_8 | coral-toss-provide-into-field-below-cricket-medal |  
+| bip_39_word_dash_9 | coral-toss-provide-into-field-below-cricket-medal-thrive |  
 | bip_39_word_new_br_1 | coral |  
 | bip_39_word_new_br_10 | coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood |  
 | bip_39_word_new_br_11 | coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood<br>act |  
@@ -147,6 +159,18 @@ thrive |
 | bip_39_word_space_7 | coral toss provide into field below cricket |  
 | bip_39_word_space_8 | coral toss provide into field below cricket medal |  
 | bip_39_word_space_9 | coral toss provide into field below cricket medal thrive |  
+| bip_39_word_underscore_1 | coral |  
+| bip_39_word_underscore_10 | coral_toss_provide_into_field_below_cricket_medal_thrive_wood |  
+| bip_39_word_underscore_11 | coral_toss_provide_into_field_below_cricket_medal_thrive_wood_act |  
+| bip_39_word_underscore_12 | coral_toss_provide_into_field_below_cricket_medal_thrive_wood_act_armed |  
+| bip_39_word_underscore_2 | coral_toss |  
+| bip_39_word_underscore_3 | coral_toss_provide |  
+| bip_39_word_underscore_4 | coral_toss_provide_into |  
+| bip_39_word_underscore_5 | coral_toss_provide_into_field |  
+| bip_39_word_underscore_6 | coral_toss_provide_into_field_below |  
+| bip_39_word_underscore_7 | coral_toss_provide_into_field_below_cricket |  
+| bip_39_word_underscore_8 | coral_toss_provide_into_field_below_cricket_medal |  
+| bip_39_word_underscore_9 | coral_toss_provide_into_field_below_cricket_medal_thrive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

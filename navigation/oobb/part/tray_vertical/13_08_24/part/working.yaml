@@ -1,3 +1,15 @@
+bip_39_word_dash_1: kidney
+bip_39_word_dash_10: kidney-reason-meadow-cage-carbon-van-foam-basic-flight-sudden
+bip_39_word_dash_11: kidney-reason-meadow-cage-carbon-van-foam-basic-flight-sudden-affair
+bip_39_word_dash_12: kidney-reason-meadow-cage-carbon-van-foam-basic-flight-sudden-affair-always
+bip_39_word_dash_2: kidney-reason
+bip_39_word_dash_3: kidney-reason-meadow
+bip_39_word_dash_4: kidney-reason-meadow-cage
+bip_39_word_dash_5: kidney-reason-meadow-cage-carbon
+bip_39_word_dash_6: kidney-reason-meadow-cage-carbon-van
+bip_39_word_dash_7: kidney-reason-meadow-cage-carbon-van-foam
+bip_39_word_dash_8: kidney-reason-meadow-cage-carbon-van-foam-basic
+bip_39_word_dash_9: kidney-reason-meadow-cage-carbon-van-foam-basic-flight
 bip_39_word_new_br_1: kidney
 bip_39_word_new_br_10: kidney<br>reason<br>meadow<br>cage<br>carbon<br>van<br>foam<br>basic<br>flight<br>sudden
 bip_39_word_new_br_11: kidney<br>reason<br>meadow<br>cage<br>carbon<br>van<br>foam<br>basic<br>flight<br>sudden<br>affair
@@ -193,6 +205,18 @@ bip_39_word_space_6: kidney reason meadow cage carbon van
 bip_39_word_space_7: kidney reason meadow cage carbon van foam
 bip_39_word_space_8: kidney reason meadow cage carbon van foam basic
 bip_39_word_space_9: kidney reason meadow cage carbon van foam basic flight
+bip_39_word_underscore_1: kidney
+bip_39_word_underscore_10: kidney_reason_meadow_cage_carbon_van_foam_basic_flight_sudden
+bip_39_word_underscore_11: kidney_reason_meadow_cage_carbon_van_foam_basic_flight_sudden_affair
+bip_39_word_underscore_12: kidney_reason_meadow_cage_carbon_van_foam_basic_flight_sudden_affair_always
+bip_39_word_underscore_2: kidney_reason
+bip_39_word_underscore_3: kidney_reason_meadow
+bip_39_word_underscore_4: kidney_reason_meadow_cage
+bip_39_word_underscore_5: kidney_reason_meadow_cage_carbon
+bip_39_word_underscore_6: kidney_reason_meadow_cage_carbon_van
+bip_39_word_underscore_7: kidney_reason_meadow_cage_carbon_van_foam
+bip_39_word_underscore_8: kidney_reason_meadow_cage_carbon_van_foam_basic
+bip_39_word_underscore_9: kidney_reason_meadow_cage_carbon_van_foam_basic_flight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

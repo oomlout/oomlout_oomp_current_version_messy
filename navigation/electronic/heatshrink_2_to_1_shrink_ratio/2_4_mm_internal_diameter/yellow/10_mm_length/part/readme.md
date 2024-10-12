@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | praise |  
+| bip_39_word_dash_10 | praise-theory-fly-sound-puzzle-mask-outside-wedding-physical-scheme |  
+| bip_39_word_dash_11 | praise-theory-fly-sound-puzzle-mask-outside-wedding-physical-scheme-canal |  
+| bip_39_word_dash_12 | praise-theory-fly-sound-puzzle-mask-outside-wedding-physical-scheme-canal-absurd |  
+| bip_39_word_dash_2 | praise-theory |  
+| bip_39_word_dash_3 | praise-theory-fly |  
+| bip_39_word_dash_4 | praise-theory-fly-sound |  
+| bip_39_word_dash_5 | praise-theory-fly-sound-puzzle |  
+| bip_39_word_dash_6 | praise-theory-fly-sound-puzzle-mask |  
+| bip_39_word_dash_7 | praise-theory-fly-sound-puzzle-mask-outside |  
+| bip_39_word_dash_8 | praise-theory-fly-sound-puzzle-mask-outside-wedding |  
+| bip_39_word_dash_9 | praise-theory-fly-sound-puzzle-mask-outside-wedding-physical |  
 | bip_39_word_new_br_1 | praise |  
 | bip_39_word_new_br_10 | praise<br>theory<br>fly<br>sound<br>puzzle<br>mask<br>outside<br>wedding<br>physical<br>scheme |  
 | bip_39_word_new_br_11 | praise<br>theory<br>fly<br>sound<br>puzzle<br>mask<br>outside<br>wedding<br>physical<br>scheme<br>canal |  
@@ -147,6 +159,18 @@ physical |
 | bip_39_word_space_7 | praise theory fly sound puzzle mask outside |  
 | bip_39_word_space_8 | praise theory fly sound puzzle mask outside wedding |  
 | bip_39_word_space_9 | praise theory fly sound puzzle mask outside wedding physical |  
+| bip_39_word_underscore_1 | praise |  
+| bip_39_word_underscore_10 | praise_theory_fly_sound_puzzle_mask_outside_wedding_physical_scheme |  
+| bip_39_word_underscore_11 | praise_theory_fly_sound_puzzle_mask_outside_wedding_physical_scheme_canal |  
+| bip_39_word_underscore_12 | praise_theory_fly_sound_puzzle_mask_outside_wedding_physical_scheme_canal_absurd |  
+| bip_39_word_underscore_2 | praise_theory |  
+| bip_39_word_underscore_3 | praise_theory_fly |  
+| bip_39_word_underscore_4 | praise_theory_fly_sound |  
+| bip_39_word_underscore_5 | praise_theory_fly_sound_puzzle |  
+| bip_39_word_underscore_6 | praise_theory_fly_sound_puzzle_mask |  
+| bip_39_word_underscore_7 | praise_theory_fly_sound_puzzle_mask_outside |  
+| bip_39_word_underscore_8 | praise_theory_fly_sound_puzzle_mask_outside_wedding |  
+| bip_39_word_underscore_9 | praise_theory_fly_sound_puzzle_mask_outside_wedding_physical |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

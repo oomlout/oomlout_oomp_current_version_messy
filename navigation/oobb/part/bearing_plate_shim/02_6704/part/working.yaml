@@ -1,3 +1,15 @@
+bip_39_word_dash_1: settle
+bip_39_word_dash_10: settle-board-real-forget-physical-example-viable-brand-oppose-lesson
+bip_39_word_dash_11: settle-board-real-forget-physical-example-viable-brand-oppose-lesson-present
+bip_39_word_dash_12: settle-board-real-forget-physical-example-viable-brand-oppose-lesson-present-advance
+bip_39_word_dash_2: settle-board
+bip_39_word_dash_3: settle-board-real
+bip_39_word_dash_4: settle-board-real-forget
+bip_39_word_dash_5: settle-board-real-forget-physical
+bip_39_word_dash_6: settle-board-real-forget-physical-example
+bip_39_word_dash_7: settle-board-real-forget-physical-example-viable
+bip_39_word_dash_8: settle-board-real-forget-physical-example-viable-brand
+bip_39_word_dash_9: settle-board-real-forget-physical-example-viable-brand-oppose
 bip_39_word_new_br_1: settle
 bip_39_word_new_br_10: settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson
 bip_39_word_new_br_11: settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson<br>present
@@ -194,6 +206,18 @@ bip_39_word_space_6: settle board real forget physical example
 bip_39_word_space_7: settle board real forget physical example viable
 bip_39_word_space_8: settle board real forget physical example viable brand
 bip_39_word_space_9: settle board real forget physical example viable brand oppose
+bip_39_word_underscore_1: settle
+bip_39_word_underscore_10: settle_board_real_forget_physical_example_viable_brand_oppose_lesson
+bip_39_word_underscore_11: settle_board_real_forget_physical_example_viable_brand_oppose_lesson_present
+bip_39_word_underscore_12: settle_board_real_forget_physical_example_viable_brand_oppose_lesson_present_advance
+bip_39_word_underscore_2: settle_board
+bip_39_word_underscore_3: settle_board_real
+bip_39_word_underscore_4: settle_board_real_forget
+bip_39_word_underscore_5: settle_board_real_forget_physical
+bip_39_word_underscore_6: settle_board_real_forget_physical_example
+bip_39_word_underscore_7: settle_board_real_forget_physical_example_viable
+bip_39_word_underscore_8: settle_board_real_forget_physical_example_viable_brand
+bip_39_word_underscore_9: settle_board_real_forget_physical_example_viable_brand_oppose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

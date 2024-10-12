@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | provide |  
+| bip_39_word_dash_10 | provide-city-boring-image-harsh-draft-force-oblige-sweet-world |  
+| bip_39_word_dash_11 | provide-city-boring-image-harsh-draft-force-oblige-sweet-world-square |  
+| bip_39_word_dash_12 | provide-city-boring-image-harsh-draft-force-oblige-sweet-world-square-armor |  
+| bip_39_word_dash_2 | provide-city |  
+| bip_39_word_dash_3 | provide-city-boring |  
+| bip_39_word_dash_4 | provide-city-boring-image |  
+| bip_39_word_dash_5 | provide-city-boring-image-harsh |  
+| bip_39_word_dash_6 | provide-city-boring-image-harsh-draft |  
+| bip_39_word_dash_7 | provide-city-boring-image-harsh-draft-force |  
+| bip_39_word_dash_8 | provide-city-boring-image-harsh-draft-force-oblige |  
+| bip_39_word_dash_9 | provide-city-boring-image-harsh-draft-force-oblige-sweet |  
 | bip_39_word_new_br_1 | provide |  
 | bip_39_word_new_br_10 | provide<br>city<br>boring<br>image<br>harsh<br>draft<br>force<br>oblige<br>sweet<br>world |  
 | bip_39_word_new_br_11 | provide<br>city<br>boring<br>image<br>harsh<br>draft<br>force<br>oblige<br>sweet<br>world<br>square |  
@@ -147,6 +159,18 @@ sweet |
 | bip_39_word_space_7 | provide city boring image harsh draft force |  
 | bip_39_word_space_8 | provide city boring image harsh draft force oblige |  
 | bip_39_word_space_9 | provide city boring image harsh draft force oblige sweet |  
+| bip_39_word_underscore_1 | provide |  
+| bip_39_word_underscore_10 | provide_city_boring_image_harsh_draft_force_oblige_sweet_world |  
+| bip_39_word_underscore_11 | provide_city_boring_image_harsh_draft_force_oblige_sweet_world_square |  
+| bip_39_word_underscore_12 | provide_city_boring_image_harsh_draft_force_oblige_sweet_world_square_armor |  
+| bip_39_word_underscore_2 | provide_city |  
+| bip_39_word_underscore_3 | provide_city_boring |  
+| bip_39_word_underscore_4 | provide_city_boring_image |  
+| bip_39_word_underscore_5 | provide_city_boring_image_harsh |  
+| bip_39_word_underscore_6 | provide_city_boring_image_harsh_draft |  
+| bip_39_word_underscore_7 | provide_city_boring_image_harsh_draft_force |  
+| bip_39_word_underscore_8 | provide_city_boring_image_harsh_draft_force_oblige |  
+| bip_39_word_underscore_9 | provide_city_boring_image_harsh_draft_force_oblige_sweet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

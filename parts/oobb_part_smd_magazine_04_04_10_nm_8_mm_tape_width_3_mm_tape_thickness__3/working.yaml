@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jar
+bip_39_word_dash_10: jar-network-foot-frog-cereal-service-doctor-response-arena-moment
+bip_39_word_dash_11: jar-network-foot-frog-cereal-service-doctor-response-arena-moment-honey
+bip_39_word_dash_12: jar-network-foot-frog-cereal-service-doctor-response-arena-moment-honey-assume
+bip_39_word_dash_2: jar-network
+bip_39_word_dash_3: jar-network-foot
+bip_39_word_dash_4: jar-network-foot-frog
+bip_39_word_dash_5: jar-network-foot-frog-cereal
+bip_39_word_dash_6: jar-network-foot-frog-cereal-service
+bip_39_word_dash_7: jar-network-foot-frog-cereal-service-doctor
+bip_39_word_dash_8: jar-network-foot-frog-cereal-service-doctor-response
+bip_39_word_dash_9: jar-network-foot-frog-cereal-service-doctor-response-arena
 bip_39_word_new_br_1: jar
 bip_39_word_new_br_10: jar<br>network<br>foot<br>frog<br>cereal<br>service<br>doctor<br>response<br>arena<br>moment
 bip_39_word_new_br_11: jar<br>network<br>foot<br>frog<br>cereal<br>service<br>doctor<br>response<br>arena<br>moment<br>honey
@@ -193,6 +205,18 @@ bip_39_word_space_6: jar network foot frog cereal service
 bip_39_word_space_7: jar network foot frog cereal service doctor
 bip_39_word_space_8: jar network foot frog cereal service doctor response
 bip_39_word_space_9: jar network foot frog cereal service doctor response arena
+bip_39_word_underscore_1: jar
+bip_39_word_underscore_10: jar_network_foot_frog_cereal_service_doctor_response_arena_moment
+bip_39_word_underscore_11: jar_network_foot_frog_cereal_service_doctor_response_arena_moment_honey
+bip_39_word_underscore_12: jar_network_foot_frog_cereal_service_doctor_response_arena_moment_honey_assume
+bip_39_word_underscore_2: jar_network
+bip_39_word_underscore_3: jar_network_foot
+bip_39_word_underscore_4: jar_network_foot_frog
+bip_39_word_underscore_5: jar_network_foot_frog_cereal
+bip_39_word_underscore_6: jar_network_foot_frog_cereal_service
+bip_39_word_underscore_7: jar_network_foot_frog_cereal_service_doctor
+bip_39_word_underscore_8: jar_network_foot_frog_cereal_service_doctor_response
+bip_39_word_underscore_9: jar_network_foot_frog_cereal_service_doctor_response_arena
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

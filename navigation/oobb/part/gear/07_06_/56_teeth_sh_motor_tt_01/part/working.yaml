@@ -1,3 +1,15 @@
+bip_39_word_dash_1: patch
+bip_39_word_dash_10: patch-echo-lens-choose-float-resource-snow-globe-unveil-luxury
+bip_39_word_dash_11: patch-echo-lens-choose-float-resource-snow-globe-unveil-luxury-cup
+bip_39_word_dash_12: patch-echo-lens-choose-float-resource-snow-globe-unveil-luxury-cup-area
+bip_39_word_dash_2: patch-echo
+bip_39_word_dash_3: patch-echo-lens
+bip_39_word_dash_4: patch-echo-lens-choose
+bip_39_word_dash_5: patch-echo-lens-choose-float
+bip_39_word_dash_6: patch-echo-lens-choose-float-resource
+bip_39_word_dash_7: patch-echo-lens-choose-float-resource-snow
+bip_39_word_dash_8: patch-echo-lens-choose-float-resource-snow-globe
+bip_39_word_dash_9: patch-echo-lens-choose-float-resource-snow-globe-unveil
 bip_39_word_new_br_1: patch
 bip_39_word_new_br_10: patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe<br>unveil<br>luxury
 bip_39_word_new_br_11: patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe<br>unveil<br>luxury<br>cup
@@ -193,6 +205,18 @@ bip_39_word_space_6: patch echo lens choose float resource
 bip_39_word_space_7: patch echo lens choose float resource snow
 bip_39_word_space_8: patch echo lens choose float resource snow globe
 bip_39_word_space_9: patch echo lens choose float resource snow globe unveil
+bip_39_word_underscore_1: patch
+bip_39_word_underscore_10: patch_echo_lens_choose_float_resource_snow_globe_unveil_luxury
+bip_39_word_underscore_11: patch_echo_lens_choose_float_resource_snow_globe_unveil_luxury_cup
+bip_39_word_underscore_12: patch_echo_lens_choose_float_resource_snow_globe_unveil_luxury_cup_area
+bip_39_word_underscore_2: patch_echo
+bip_39_word_underscore_3: patch_echo_lens
+bip_39_word_underscore_4: patch_echo_lens_choose
+bip_39_word_underscore_5: patch_echo_lens_choose_float
+bip_39_word_underscore_6: patch_echo_lens_choose_float_resource
+bip_39_word_underscore_7: patch_echo_lens_choose_float_resource_snow
+bip_39_word_underscore_8: patch_echo_lens_choose_float_resource_snow_globe
+bip_39_word_underscore_9: patch_echo_lens_choose_float_resource_snow_globe_unveil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

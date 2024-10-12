@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fringe
+bip_39_word_dash_10: fringe-cattle-hobby-slim-amazing-dawn-process-cheese-uphold-wine
+bip_39_word_dash_11: fringe-cattle-hobby-slim-amazing-dawn-process-cheese-uphold-wine-blast
+bip_39_word_dash_12: fringe-cattle-hobby-slim-amazing-dawn-process-cheese-uphold-wine-blast-asset
+bip_39_word_dash_2: fringe-cattle
+bip_39_word_dash_3: fringe-cattle-hobby
+bip_39_word_dash_4: fringe-cattle-hobby-slim
+bip_39_word_dash_5: fringe-cattle-hobby-slim-amazing
+bip_39_word_dash_6: fringe-cattle-hobby-slim-amazing-dawn
+bip_39_word_dash_7: fringe-cattle-hobby-slim-amazing-dawn-process
+bip_39_word_dash_8: fringe-cattle-hobby-slim-amazing-dawn-process-cheese
+bip_39_word_dash_9: fringe-cattle-hobby-slim-amazing-dawn-process-cheese-uphold
 bip_39_word_new_br_1: fringe
 bip_39_word_new_br_10: fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese<br>uphold<br>wine
 bip_39_word_new_br_11: fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese<br>uphold<br>wine<br>blast
@@ -194,6 +206,18 @@ bip_39_word_space_6: fringe cattle hobby slim amazing dawn
 bip_39_word_space_7: fringe cattle hobby slim amazing dawn process
 bip_39_word_space_8: fringe cattle hobby slim amazing dawn process cheese
 bip_39_word_space_9: fringe cattle hobby slim amazing dawn process cheese uphold
+bip_39_word_underscore_1: fringe
+bip_39_word_underscore_10: fringe_cattle_hobby_slim_amazing_dawn_process_cheese_uphold_wine
+bip_39_word_underscore_11: fringe_cattle_hobby_slim_amazing_dawn_process_cheese_uphold_wine_blast
+bip_39_word_underscore_12: fringe_cattle_hobby_slim_amazing_dawn_process_cheese_uphold_wine_blast_asset
+bip_39_word_underscore_2: fringe_cattle
+bip_39_word_underscore_3: fringe_cattle_hobby
+bip_39_word_underscore_4: fringe_cattle_hobby_slim
+bip_39_word_underscore_5: fringe_cattle_hobby_slim_amazing
+bip_39_word_underscore_6: fringe_cattle_hobby_slim_amazing_dawn
+bip_39_word_underscore_7: fringe_cattle_hobby_slim_amazing_dawn_process
+bip_39_word_underscore_8: fringe_cattle_hobby_slim_amazing_dawn_process_cheese
+bip_39_word_underscore_9: fringe_cattle_hobby_slim_amazing_dawn_process_cheese_uphold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

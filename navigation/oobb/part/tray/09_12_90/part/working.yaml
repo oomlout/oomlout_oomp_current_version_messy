@@ -1,3 +1,15 @@
+bip_39_word_dash_1: large
+bip_39_word_dash_10: large-profit-fat-damp-pudding-produce-gloom-disagree-trim-oil
+bip_39_word_dash_11: large-profit-fat-damp-pudding-produce-gloom-disagree-trim-oil-card
+bip_39_word_dash_12: large-profit-fat-damp-pudding-produce-gloom-disagree-trim-oil-card-always
+bip_39_word_dash_2: large-profit
+bip_39_word_dash_3: large-profit-fat
+bip_39_word_dash_4: large-profit-fat-damp
+bip_39_word_dash_5: large-profit-fat-damp-pudding
+bip_39_word_dash_6: large-profit-fat-damp-pudding-produce
+bip_39_word_dash_7: large-profit-fat-damp-pudding-produce-gloom
+bip_39_word_dash_8: large-profit-fat-damp-pudding-produce-gloom-disagree
+bip_39_word_dash_9: large-profit-fat-damp-pudding-produce-gloom-disagree-trim
 bip_39_word_new_br_1: large
 bip_39_word_new_br_10: large<br>profit<br>fat<br>damp<br>pudding<br>produce<br>gloom<br>disagree<br>trim<br>oil
 bip_39_word_new_br_11: large<br>profit<br>fat<br>damp<br>pudding<br>produce<br>gloom<br>disagree<br>trim<br>oil<br>card
@@ -193,6 +205,18 @@ bip_39_word_space_6: large profit fat damp pudding produce
 bip_39_word_space_7: large profit fat damp pudding produce gloom
 bip_39_word_space_8: large profit fat damp pudding produce gloom disagree
 bip_39_word_space_9: large profit fat damp pudding produce gloom disagree trim
+bip_39_word_underscore_1: large
+bip_39_word_underscore_10: large_profit_fat_damp_pudding_produce_gloom_disagree_trim_oil
+bip_39_word_underscore_11: large_profit_fat_damp_pudding_produce_gloom_disagree_trim_oil_card
+bip_39_word_underscore_12: large_profit_fat_damp_pudding_produce_gloom_disagree_trim_oil_card_always
+bip_39_word_underscore_2: large_profit
+bip_39_word_underscore_3: large_profit_fat
+bip_39_word_underscore_4: large_profit_fat_damp
+bip_39_word_underscore_5: large_profit_fat_damp_pudding
+bip_39_word_underscore_6: large_profit_fat_damp_pudding_produce
+bip_39_word_underscore_7: large_profit_fat_damp_pudding_produce_gloom
+bip_39_word_underscore_8: large_profit_fat_damp_pudding_produce_gloom_disagree
+bip_39_word_underscore_9: large_profit_fat_damp_pudding_produce_gloom_disagree_trim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

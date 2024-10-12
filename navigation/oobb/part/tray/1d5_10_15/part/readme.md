@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | company |  
+| bip_39_word_dash_10 | company-dress-boy-nothing-cloth-sand-width-service-problem-stamp |  
+| bip_39_word_dash_11 | company-dress-boy-nothing-cloth-sand-width-service-problem-stamp-walk |  
+| bip_39_word_dash_2 | company-dress |  
+| bip_39_word_dash_3 | company-dress-boy |  
+| bip_39_word_dash_4 | company-dress-boy-nothing |  
+| bip_39_word_dash_5 | company-dress-boy-nothing-cloth |  
+| bip_39_word_dash_6 | company-dress-boy-nothing-cloth-sand |  
+| bip_39_word_dash_7 | company-dress-boy-nothing-cloth-sand-width |  
+| bip_39_word_dash_8 | company-dress-boy-nothing-cloth-sand-width-service |  
+| bip_39_word_dash_9 | company-dress-boy-nothing-cloth-sand-width-service-problem |  
 | bip_39_word_new_br_1 | company |  
 | bip_39_word_new_br_10 | company<br>dress<br>boy<br>nothing<br>cloth<br>sand<br>width<br>service<br>problem<br>stamp |  
 | bip_39_word_new_br_11 | company<br>dress<br>boy<br>nothing<br>cloth<br>sand<br>width<br>service<br>problem<br>stamp<br>walk |  
@@ -132,6 +143,17 @@ problem |
 | bip_39_word_space_7 | company dress boy nothing cloth sand width |  
 | bip_39_word_space_8 | company dress boy nothing cloth sand width service |  
 | bip_39_word_space_9 | company dress boy nothing cloth sand width service problem |  
+| bip_39_word_underscore_1 | company |  
+| bip_39_word_underscore_10 | company_dress_boy_nothing_cloth_sand_width_service_problem_stamp |  
+| bip_39_word_underscore_11 | company_dress_boy_nothing_cloth_sand_width_service_problem_stamp_walk |  
+| bip_39_word_underscore_2 | company_dress |  
+| bip_39_word_underscore_3 | company_dress_boy |  
+| bip_39_word_underscore_4 | company_dress_boy_nothing |  
+| bip_39_word_underscore_5 | company_dress_boy_nothing_cloth |  
+| bip_39_word_underscore_6 | company_dress_boy_nothing_cloth_sand |  
+| bip_39_word_underscore_7 | company_dress_boy_nothing_cloth_sand_width |  
+| bip_39_word_underscore_8 | company_dress_boy_nothing_cloth_sand_width_service |  
+| bip_39_word_underscore_9 | company_dress_boy_nothing_cloth_sand_width_service_problem |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

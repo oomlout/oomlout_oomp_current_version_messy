@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shuffle
+bip_39_word_dash_10: shuffle-govern-tag-wrist-decide-twice-once-version-mouse-lend
+bip_39_word_dash_11: shuffle-govern-tag-wrist-decide-twice-once-version-mouse-lend-exist
+bip_39_word_dash_12: shuffle-govern-tag-wrist-decide-twice-once-version-mouse-lend-exist-arch
+bip_39_word_dash_2: shuffle-govern
+bip_39_word_dash_3: shuffle-govern-tag
+bip_39_word_dash_4: shuffle-govern-tag-wrist
+bip_39_word_dash_5: shuffle-govern-tag-wrist-decide
+bip_39_word_dash_6: shuffle-govern-tag-wrist-decide-twice
+bip_39_word_dash_7: shuffle-govern-tag-wrist-decide-twice-once
+bip_39_word_dash_8: shuffle-govern-tag-wrist-decide-twice-once-version
+bip_39_word_dash_9: shuffle-govern-tag-wrist-decide-twice-once-version-mouse
 bip_39_word_new_br_1: shuffle
 bip_39_word_new_br_10: shuffle<br>govern<br>tag<br>wrist<br>decide<br>twice<br>once<br>version<br>mouse<br>lend
 bip_39_word_new_br_11: shuffle<br>govern<br>tag<br>wrist<br>decide<br>twice<br>once<br>version<br>mouse<br>lend<br>exist
@@ -193,6 +205,18 @@ bip_39_word_space_6: shuffle govern tag wrist decide twice
 bip_39_word_space_7: shuffle govern tag wrist decide twice once
 bip_39_word_space_8: shuffle govern tag wrist decide twice once version
 bip_39_word_space_9: shuffle govern tag wrist decide twice once version mouse
+bip_39_word_underscore_1: shuffle
+bip_39_word_underscore_10: shuffle_govern_tag_wrist_decide_twice_once_version_mouse_lend
+bip_39_word_underscore_11: shuffle_govern_tag_wrist_decide_twice_once_version_mouse_lend_exist
+bip_39_word_underscore_12: shuffle_govern_tag_wrist_decide_twice_once_version_mouse_lend_exist_arch
+bip_39_word_underscore_2: shuffle_govern
+bip_39_word_underscore_3: shuffle_govern_tag
+bip_39_word_underscore_4: shuffle_govern_tag_wrist
+bip_39_word_underscore_5: shuffle_govern_tag_wrist_decide
+bip_39_word_underscore_6: shuffle_govern_tag_wrist_decide_twice
+bip_39_word_underscore_7: shuffle_govern_tag_wrist_decide_twice_once
+bip_39_word_underscore_8: shuffle_govern_tag_wrist_decide_twice_once_version
+bip_39_word_underscore_9: shuffle_govern_tag_wrist_decide_twice_once_version_mouse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

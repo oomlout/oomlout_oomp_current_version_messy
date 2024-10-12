@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vague |  
+| bip_39_word_dash_10 | vague-cupboard-hard-coyote-prosper-shed-boring-early-medal-hen |  
+| bip_39_word_dash_11 | vague-cupboard-hard-coyote-prosper-shed-boring-early-medal-hen-little |  
+| bip_39_word_dash_12 | vague-cupboard-hard-coyote-prosper-shed-boring-early-medal-hen-little-asthma |  
+| bip_39_word_dash_2 | vague-cupboard |  
+| bip_39_word_dash_3 | vague-cupboard-hard |  
+| bip_39_word_dash_4 | vague-cupboard-hard-coyote |  
+| bip_39_word_dash_5 | vague-cupboard-hard-coyote-prosper |  
+| bip_39_word_dash_6 | vague-cupboard-hard-coyote-prosper-shed |  
+| bip_39_word_dash_7 | vague-cupboard-hard-coyote-prosper-shed-boring |  
+| bip_39_word_dash_8 | vague-cupboard-hard-coyote-prosper-shed-boring-early |  
+| bip_39_word_dash_9 | vague-cupboard-hard-coyote-prosper-shed-boring-early-medal |  
 | bip_39_word_new_br_1 | vague |  
 | bip_39_word_new_br_10 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early<br>medal<br>hen |  
 | bip_39_word_new_br_11 | vague<br>cupboard<br>hard<br>coyote<br>prosper<br>shed<br>boring<br>early<br>medal<br>hen<br>little |  
@@ -147,6 +159,18 @@ medal |
 | bip_39_word_space_7 | vague cupboard hard coyote prosper shed boring |  
 | bip_39_word_space_8 | vague cupboard hard coyote prosper shed boring early |  
 | bip_39_word_space_9 | vague cupboard hard coyote prosper shed boring early medal |  
+| bip_39_word_underscore_1 | vague |  
+| bip_39_word_underscore_10 | vague_cupboard_hard_coyote_prosper_shed_boring_early_medal_hen |  
+| bip_39_word_underscore_11 | vague_cupboard_hard_coyote_prosper_shed_boring_early_medal_hen_little |  
+| bip_39_word_underscore_12 | vague_cupboard_hard_coyote_prosper_shed_boring_early_medal_hen_little_asthma |  
+| bip_39_word_underscore_2 | vague_cupboard |  
+| bip_39_word_underscore_3 | vague_cupboard_hard |  
+| bip_39_word_underscore_4 | vague_cupboard_hard_coyote |  
+| bip_39_word_underscore_5 | vague_cupboard_hard_coyote_prosper |  
+| bip_39_word_underscore_6 | vague_cupboard_hard_coyote_prosper_shed |  
+| bip_39_word_underscore_7 | vague_cupboard_hard_coyote_prosper_shed_boring |  
+| bip_39_word_underscore_8 | vague_cupboard_hard_coyote_prosper_shed_boring_early |  
+| bip_39_word_underscore_9 | vague_cupboard_hard_coyote_prosper_shed_boring_early_medal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

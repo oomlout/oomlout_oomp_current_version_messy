@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | arm |  
+| bip_39_word_dash_10 | arm-awful-abstract-bright-deny-power-grape-mesh-indoor-bonus |  
+| bip_39_word_dash_11 | arm-awful-abstract-bright-deny-power-grape-mesh-indoor-bonus-garden |  
+| bip_39_word_dash_12 | arm-awful-abstract-bright-deny-power-grape-mesh-indoor-bonus-garden-arrow |  
+| bip_39_word_dash_2 | arm-awful |  
+| bip_39_word_dash_3 | arm-awful-abstract |  
+| bip_39_word_dash_4 | arm-awful-abstract-bright |  
+| bip_39_word_dash_5 | arm-awful-abstract-bright-deny |  
+| bip_39_word_dash_6 | arm-awful-abstract-bright-deny-power |  
+| bip_39_word_dash_7 | arm-awful-abstract-bright-deny-power-grape |  
+| bip_39_word_dash_8 | arm-awful-abstract-bright-deny-power-grape-mesh |  
+| bip_39_word_dash_9 | arm-awful-abstract-bright-deny-power-grape-mesh-indoor |  
 | bip_39_word_new_br_1 | arm |  
 | bip_39_word_new_br_10 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh<br>indoor<br>bonus |  
 | bip_39_word_new_br_11 | arm<br>awful<br>abstract<br>bright<br>deny<br>power<br>grape<br>mesh<br>indoor<br>bonus<br>garden |  
@@ -147,6 +159,18 @@ indoor |
 | bip_39_word_space_7 | arm awful abstract bright deny power grape |  
 | bip_39_word_space_8 | arm awful abstract bright deny power grape mesh |  
 | bip_39_word_space_9 | arm awful abstract bright deny power grape mesh indoor |  
+| bip_39_word_underscore_1 | arm |  
+| bip_39_word_underscore_10 | arm_awful_abstract_bright_deny_power_grape_mesh_indoor_bonus |  
+| bip_39_word_underscore_11 | arm_awful_abstract_bright_deny_power_grape_mesh_indoor_bonus_garden |  
+| bip_39_word_underscore_12 | arm_awful_abstract_bright_deny_power_grape_mesh_indoor_bonus_garden_arrow |  
+| bip_39_word_underscore_2 | arm_awful |  
+| bip_39_word_underscore_3 | arm_awful_abstract |  
+| bip_39_word_underscore_4 | arm_awful_abstract_bright |  
+| bip_39_word_underscore_5 | arm_awful_abstract_bright_deny |  
+| bip_39_word_underscore_6 | arm_awful_abstract_bright_deny_power |  
+| bip_39_word_underscore_7 | arm_awful_abstract_bright_deny_power_grape |  
+| bip_39_word_underscore_8 | arm_awful_abstract_bright_deny_power_grape_mesh |  
+| bip_39_word_underscore_9 | arm_awful_abstract_bright_deny_power_grape_mesh_indoor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

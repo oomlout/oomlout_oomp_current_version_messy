@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | foot |  
+| bip_39_word_dash_10 | foot-engine-crouch-okay-thing-just-rely-cream-secret-enjoy |  
+| bip_39_word_dash_11 | foot-engine-crouch-okay-thing-just-rely-cream-secret-enjoy-matrix |  
+| bip_39_word_dash_12 | foot-engine-crouch-okay-thing-just-rely-cream-secret-enjoy-matrix-anchor |  
+| bip_39_word_dash_2 | foot-engine |  
+| bip_39_word_dash_3 | foot-engine-crouch |  
+| bip_39_word_dash_4 | foot-engine-crouch-okay |  
+| bip_39_word_dash_5 | foot-engine-crouch-okay-thing |  
+| bip_39_word_dash_6 | foot-engine-crouch-okay-thing-just |  
+| bip_39_word_dash_7 | foot-engine-crouch-okay-thing-just-rely |  
+| bip_39_word_dash_8 | foot-engine-crouch-okay-thing-just-rely-cream |  
+| bip_39_word_dash_9 | foot-engine-crouch-okay-thing-just-rely-cream-secret |  
 | bip_39_word_new_br_1 | foot |  
 | bip_39_word_new_br_10 | foot<br>engine<br>crouch<br>okay<br>thing<br>just<br>rely<br>cream<br>secret<br>enjoy |  
 | bip_39_word_new_br_11 | foot<br>engine<br>crouch<br>okay<br>thing<br>just<br>rely<br>cream<br>secret<br>enjoy<br>matrix |  
@@ -147,6 +159,18 @@ secret |
 | bip_39_word_space_7 | foot engine crouch okay thing just rely |  
 | bip_39_word_space_8 | foot engine crouch okay thing just rely cream |  
 | bip_39_word_space_9 | foot engine crouch okay thing just rely cream secret |  
+| bip_39_word_underscore_1 | foot |  
+| bip_39_word_underscore_10 | foot_engine_crouch_okay_thing_just_rely_cream_secret_enjoy |  
+| bip_39_word_underscore_11 | foot_engine_crouch_okay_thing_just_rely_cream_secret_enjoy_matrix |  
+| bip_39_word_underscore_12 | foot_engine_crouch_okay_thing_just_rely_cream_secret_enjoy_matrix_anchor |  
+| bip_39_word_underscore_2 | foot_engine |  
+| bip_39_word_underscore_3 | foot_engine_crouch |  
+| bip_39_word_underscore_4 | foot_engine_crouch_okay |  
+| bip_39_word_underscore_5 | foot_engine_crouch_okay_thing |  
+| bip_39_word_underscore_6 | foot_engine_crouch_okay_thing_just |  
+| bip_39_word_underscore_7 | foot_engine_crouch_okay_thing_just_rely |  
+| bip_39_word_underscore_8 | foot_engine_crouch_okay_thing_just_rely_cream |  
+| bip_39_word_underscore_9 | foot_engine_crouch_okay_thing_just_rely_cream_secret |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

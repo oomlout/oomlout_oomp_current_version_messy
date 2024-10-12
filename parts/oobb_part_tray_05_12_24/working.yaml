@@ -1,3 +1,15 @@
+bip_39_word_dash_1: couch
+bip_39_word_dash_10: couch-supreme-tape-truck-whisper-reform-early-royal-first-client
+bip_39_word_dash_11: couch-supreme-tape-truck-whisper-reform-early-royal-first-client-oppose
+bip_39_word_dash_12: couch-supreme-tape-truck-whisper-reform-early-royal-first-client-oppose-adjust
+bip_39_word_dash_2: couch-supreme
+bip_39_word_dash_3: couch-supreme-tape
+bip_39_word_dash_4: couch-supreme-tape-truck
+bip_39_word_dash_5: couch-supreme-tape-truck-whisper
+bip_39_word_dash_6: couch-supreme-tape-truck-whisper-reform
+bip_39_word_dash_7: couch-supreme-tape-truck-whisper-reform-early
+bip_39_word_dash_8: couch-supreme-tape-truck-whisper-reform-early-royal
+bip_39_word_dash_9: couch-supreme-tape-truck-whisper-reform-early-royal-first
 bip_39_word_new_br_1: couch
 bip_39_word_new_br_10: couch<br>supreme<br>tape<br>truck<br>whisper<br>reform<br>early<br>royal<br>first<br>client
 bip_39_word_new_br_11: couch<br>supreme<br>tape<br>truck<br>whisper<br>reform<br>early<br>royal<br>first<br>client<br>oppose
@@ -193,6 +205,18 @@ bip_39_word_space_6: couch supreme tape truck whisper reform
 bip_39_word_space_7: couch supreme tape truck whisper reform early
 bip_39_word_space_8: couch supreme tape truck whisper reform early royal
 bip_39_word_space_9: couch supreme tape truck whisper reform early royal first
+bip_39_word_underscore_1: couch
+bip_39_word_underscore_10: couch_supreme_tape_truck_whisper_reform_early_royal_first_client
+bip_39_word_underscore_11: couch_supreme_tape_truck_whisper_reform_early_royal_first_client_oppose
+bip_39_word_underscore_12: couch_supreme_tape_truck_whisper_reform_early_royal_first_client_oppose_adjust
+bip_39_word_underscore_2: couch_supreme
+bip_39_word_underscore_3: couch_supreme_tape
+bip_39_word_underscore_4: couch_supreme_tape_truck
+bip_39_word_underscore_5: couch_supreme_tape_truck_whisper
+bip_39_word_underscore_6: couch_supreme_tape_truck_whisper_reform
+bip_39_word_underscore_7: couch_supreme_tape_truck_whisper_reform_early
+bip_39_word_underscore_8: couch_supreme_tape_truck_whisper_reform_early_royal
+bip_39_word_underscore_9: couch_supreme_tape_truck_whisper_reform_early_royal_first
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

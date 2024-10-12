@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | estate |  
+| bip_39_word_dash_10 | estate-chase-angle-craft-thank-segment-welcome-later-magnet-manage |  
+| bip_39_word_dash_11 | estate-chase-angle-craft-thank-segment-welcome-later-magnet-manage-marine |  
+| bip_39_word_dash_12 | estate-chase-angle-craft-thank-segment-welcome-later-magnet-manage-marine-also |  
+| bip_39_word_dash_2 | estate-chase |  
+| bip_39_word_dash_3 | estate-chase-angle |  
+| bip_39_word_dash_4 | estate-chase-angle-craft |  
+| bip_39_word_dash_5 | estate-chase-angle-craft-thank |  
+| bip_39_word_dash_6 | estate-chase-angle-craft-thank-segment |  
+| bip_39_word_dash_7 | estate-chase-angle-craft-thank-segment-welcome |  
+| bip_39_word_dash_8 | estate-chase-angle-craft-thank-segment-welcome-later |  
+| bip_39_word_dash_9 | estate-chase-angle-craft-thank-segment-welcome-later-magnet |  
 | bip_39_word_new_br_1 | estate |  
 | bip_39_word_new_br_10 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage |  
 | bip_39_word_new_br_11 | estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage<br>marine |  
@@ -147,6 +159,18 @@ magnet |
 | bip_39_word_space_7 | estate chase angle craft thank segment welcome |  
 | bip_39_word_space_8 | estate chase angle craft thank segment welcome later |  
 | bip_39_word_space_9 | estate chase angle craft thank segment welcome later magnet |  
+| bip_39_word_underscore_1 | estate |  
+| bip_39_word_underscore_10 | estate_chase_angle_craft_thank_segment_welcome_later_magnet_manage |  
+| bip_39_word_underscore_11 | estate_chase_angle_craft_thank_segment_welcome_later_magnet_manage_marine |  
+| bip_39_word_underscore_12 | estate_chase_angle_craft_thank_segment_welcome_later_magnet_manage_marine_also |  
+| bip_39_word_underscore_2 | estate_chase |  
+| bip_39_word_underscore_3 | estate_chase_angle |  
+| bip_39_word_underscore_4 | estate_chase_angle_craft |  
+| bip_39_word_underscore_5 | estate_chase_angle_craft_thank |  
+| bip_39_word_underscore_6 | estate_chase_angle_craft_thank_segment |  
+| bip_39_word_underscore_7 | estate_chase_angle_craft_thank_segment_welcome |  
+| bip_39_word_underscore_8 | estate_chase_angle_craft_thank_segment_welcome_later |  
+| bip_39_word_underscore_9 | estate_chase_angle_craft_thank_segment_welcome_later_magnet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

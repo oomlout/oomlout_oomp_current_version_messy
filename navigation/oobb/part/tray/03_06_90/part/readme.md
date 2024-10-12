@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reform |  
+| bip_39_word_dash_10 | reform-speed-kangaroo-latin-dutch-chaos-market-spatial-usual-image |  
+| bip_39_word_dash_11 | reform-speed-kangaroo-latin-dutch-chaos-market-spatial-usual-image-humble |  
+| bip_39_word_dash_12 | reform-speed-kangaroo-latin-dutch-chaos-market-spatial-usual-image-humble-arctic |  
+| bip_39_word_dash_2 | reform-speed |  
+| bip_39_word_dash_3 | reform-speed-kangaroo |  
+| bip_39_word_dash_4 | reform-speed-kangaroo-latin |  
+| bip_39_word_dash_5 | reform-speed-kangaroo-latin-dutch |  
+| bip_39_word_dash_6 | reform-speed-kangaroo-latin-dutch-chaos |  
+| bip_39_word_dash_7 | reform-speed-kangaroo-latin-dutch-chaos-market |  
+| bip_39_word_dash_8 | reform-speed-kangaroo-latin-dutch-chaos-market-spatial |  
+| bip_39_word_dash_9 | reform-speed-kangaroo-latin-dutch-chaos-market-spatial-usual |  
 | bip_39_word_new_br_1 | reform |  
 | bip_39_word_new_br_10 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial<br>usual<br>image |  
 | bip_39_word_new_br_11 | reform<br>speed<br>kangaroo<br>latin<br>dutch<br>chaos<br>market<br>spatial<br>usual<br>image<br>humble |  
@@ -147,6 +159,18 @@ usual |
 | bip_39_word_space_7 | reform speed kangaroo latin dutch chaos market |  
 | bip_39_word_space_8 | reform speed kangaroo latin dutch chaos market spatial |  
 | bip_39_word_space_9 | reform speed kangaroo latin dutch chaos market spatial usual |  
+| bip_39_word_underscore_1 | reform |  
+| bip_39_word_underscore_10 | reform_speed_kangaroo_latin_dutch_chaos_market_spatial_usual_image |  
+| bip_39_word_underscore_11 | reform_speed_kangaroo_latin_dutch_chaos_market_spatial_usual_image_humble |  
+| bip_39_word_underscore_12 | reform_speed_kangaroo_latin_dutch_chaos_market_spatial_usual_image_humble_arctic |  
+| bip_39_word_underscore_2 | reform_speed |  
+| bip_39_word_underscore_3 | reform_speed_kangaroo |  
+| bip_39_word_underscore_4 | reform_speed_kangaroo_latin |  
+| bip_39_word_underscore_5 | reform_speed_kangaroo_latin_dutch |  
+| bip_39_word_underscore_6 | reform_speed_kangaroo_latin_dutch_chaos |  
+| bip_39_word_underscore_7 | reform_speed_kangaroo_latin_dutch_chaos_market |  
+| bip_39_word_underscore_8 | reform_speed_kangaroo_latin_dutch_chaos_market_spatial |  
+| bip_39_word_underscore_9 | reform_speed_kangaroo_latin_dutch_chaos_market_spatial_usual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

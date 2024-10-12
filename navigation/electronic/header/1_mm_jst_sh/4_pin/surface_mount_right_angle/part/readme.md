@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | side |  
+| bip_39_word_dash_10 | side-place-beef-write-hospital-expand-proof-dish-design-table |  
+| bip_39_word_dash_11 | side-place-beef-write-hospital-expand-proof-dish-design-table-you |  
+| bip_39_word_dash_12 | side-place-beef-write-hospital-expand-proof-dish-design-table-you-approve |  
+| bip_39_word_dash_2 | side-place |  
+| bip_39_word_dash_3 | side-place-beef |  
+| bip_39_word_dash_4 | side-place-beef-write |  
+| bip_39_word_dash_5 | side-place-beef-write-hospital |  
+| bip_39_word_dash_6 | side-place-beef-write-hospital-expand |  
+| bip_39_word_dash_7 | side-place-beef-write-hospital-expand-proof |  
+| bip_39_word_dash_8 | side-place-beef-write-hospital-expand-proof-dish |  
+| bip_39_word_dash_9 | side-place-beef-write-hospital-expand-proof-dish-design |  
 | bip_39_word_new_br_1 | side |  
 | bip_39_word_new_br_10 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design<br>table |  
 | bip_39_word_new_br_11 | side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design<br>table<br>you |  
@@ -147,6 +159,18 @@ design |
 | bip_39_word_space_7 | side place beef write hospital expand proof |  
 | bip_39_word_space_8 | side place beef write hospital expand proof dish |  
 | bip_39_word_space_9 | side place beef write hospital expand proof dish design |  
+| bip_39_word_underscore_1 | side |  
+| bip_39_word_underscore_10 | side_place_beef_write_hospital_expand_proof_dish_design_table |  
+| bip_39_word_underscore_11 | side_place_beef_write_hospital_expand_proof_dish_design_table_you |  
+| bip_39_word_underscore_12 | side_place_beef_write_hospital_expand_proof_dish_design_table_you_approve |  
+| bip_39_word_underscore_2 | side_place |  
+| bip_39_word_underscore_3 | side_place_beef |  
+| bip_39_word_underscore_4 | side_place_beef_write |  
+| bip_39_word_underscore_5 | side_place_beef_write_hospital |  
+| bip_39_word_underscore_6 | side_place_beef_write_hospital_expand |  
+| bip_39_word_underscore_7 | side_place_beef_write_hospital_expand_proof |  
+| bip_39_word_underscore_8 | side_place_beef_write_hospital_expand_proof_dish |  
+| bip_39_word_underscore_9 | side_place_beef_write_hospital_expand_proof_dish_design |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

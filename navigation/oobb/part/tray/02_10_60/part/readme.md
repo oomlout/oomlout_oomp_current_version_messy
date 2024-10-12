@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | renew |  
+| bip_39_word_dash_10 | renew-describe-submit-notice-inflict-pull-voice-forward-depend-badge |  
+| bip_39_word_dash_11 | renew-describe-submit-notice-inflict-pull-voice-forward-depend-badge-stage |  
+| bip_39_word_dash_12 | renew-describe-submit-notice-inflict-pull-voice-forward-depend-badge-stage-amount |  
+| bip_39_word_dash_2 | renew-describe |  
+| bip_39_word_dash_3 | renew-describe-submit |  
+| bip_39_word_dash_4 | renew-describe-submit-notice |  
+| bip_39_word_dash_5 | renew-describe-submit-notice-inflict |  
+| bip_39_word_dash_6 | renew-describe-submit-notice-inflict-pull |  
+| bip_39_word_dash_7 | renew-describe-submit-notice-inflict-pull-voice |  
+| bip_39_word_dash_8 | renew-describe-submit-notice-inflict-pull-voice-forward |  
+| bip_39_word_dash_9 | renew-describe-submit-notice-inflict-pull-voice-forward-depend |  
 | bip_39_word_new_br_1 | renew |  
 | bip_39_word_new_br_10 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge |  
 | bip_39_word_new_br_11 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge<br>stage |  
@@ -147,6 +159,18 @@ depend |
 | bip_39_word_space_7 | renew describe submit notice inflict pull voice |  
 | bip_39_word_space_8 | renew describe submit notice inflict pull voice forward |  
 | bip_39_word_space_9 | renew describe submit notice inflict pull voice forward depend |  
+| bip_39_word_underscore_1 | renew |  
+| bip_39_word_underscore_10 | renew_describe_submit_notice_inflict_pull_voice_forward_depend_badge |  
+| bip_39_word_underscore_11 | renew_describe_submit_notice_inflict_pull_voice_forward_depend_badge_stage |  
+| bip_39_word_underscore_12 | renew_describe_submit_notice_inflict_pull_voice_forward_depend_badge_stage_amount |  
+| bip_39_word_underscore_2 | renew_describe |  
+| bip_39_word_underscore_3 | renew_describe_submit |  
+| bip_39_word_underscore_4 | renew_describe_submit_notice |  
+| bip_39_word_underscore_5 | renew_describe_submit_notice_inflict |  
+| bip_39_word_underscore_6 | renew_describe_submit_notice_inflict_pull |  
+| bip_39_word_underscore_7 | renew_describe_submit_notice_inflict_pull_voice |  
+| bip_39_word_underscore_8 | renew_describe_submit_notice_inflict_pull_voice_forward |  
+| bip_39_word_underscore_9 | renew_describe_submit_notice_inflict_pull_voice_forward_depend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

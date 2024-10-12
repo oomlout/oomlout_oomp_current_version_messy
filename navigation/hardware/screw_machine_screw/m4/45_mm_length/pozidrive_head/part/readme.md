@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | before |  
+| bip_39_word_dash_10 | before-cover-tuition-execute-tenant-close-bone-keen-tiger-jar |  
+| bip_39_word_dash_11 | before-cover-tuition-execute-tenant-close-bone-keen-tiger-jar-inherit |  
+| bip_39_word_dash_12 | before-cover-tuition-execute-tenant-close-bone-keen-tiger-jar-inherit-anchor |  
+| bip_39_word_dash_2 | before-cover |  
+| bip_39_word_dash_3 | before-cover-tuition |  
+| bip_39_word_dash_4 | before-cover-tuition-execute |  
+| bip_39_word_dash_5 | before-cover-tuition-execute-tenant |  
+| bip_39_word_dash_6 | before-cover-tuition-execute-tenant-close |  
+| bip_39_word_dash_7 | before-cover-tuition-execute-tenant-close-bone |  
+| bip_39_word_dash_8 | before-cover-tuition-execute-tenant-close-bone-keen |  
+| bip_39_word_dash_9 | before-cover-tuition-execute-tenant-close-bone-keen-tiger |  
 | bip_39_word_new_br_1 | before |  
 | bip_39_word_new_br_10 | before<br>cover<br>tuition<br>execute<br>tenant<br>close<br>bone<br>keen<br>tiger<br>jar |  
 | bip_39_word_new_br_11 | before<br>cover<br>tuition<br>execute<br>tenant<br>close<br>bone<br>keen<br>tiger<br>jar<br>inherit |  
@@ -147,6 +159,18 @@ tiger |
 | bip_39_word_space_7 | before cover tuition execute tenant close bone |  
 | bip_39_word_space_8 | before cover tuition execute tenant close bone keen |  
 | bip_39_word_space_9 | before cover tuition execute tenant close bone keen tiger |  
+| bip_39_word_underscore_1 | before |  
+| bip_39_word_underscore_10 | before_cover_tuition_execute_tenant_close_bone_keen_tiger_jar |  
+| bip_39_word_underscore_11 | before_cover_tuition_execute_tenant_close_bone_keen_tiger_jar_inherit |  
+| bip_39_word_underscore_12 | before_cover_tuition_execute_tenant_close_bone_keen_tiger_jar_inherit_anchor |  
+| bip_39_word_underscore_2 | before_cover |  
+| bip_39_word_underscore_3 | before_cover_tuition |  
+| bip_39_word_underscore_4 | before_cover_tuition_execute |  
+| bip_39_word_underscore_5 | before_cover_tuition_execute_tenant |  
+| bip_39_word_underscore_6 | before_cover_tuition_execute_tenant_close |  
+| bip_39_word_underscore_7 | before_cover_tuition_execute_tenant_close_bone |  
+| bip_39_word_underscore_8 | before_cover_tuition_execute_tenant_close_bone_keen |  
+| bip_39_word_underscore_9 | before_cover_tuition_execute_tenant_close_bone_keen_tiger |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

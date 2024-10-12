@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | teach |  
+| bip_39_word_dash_10 | teach-sweet-advance-genre-thing-remove-grass-engine-canyon-stuff |  
+| bip_39_word_dash_11 | teach-sweet-advance-genre-thing-remove-grass-engine-canyon-stuff-middle |  
+| bip_39_word_dash_12 | teach-sweet-advance-genre-thing-remove-grass-engine-canyon-stuff-middle-already |  
+| bip_39_word_dash_2 | teach-sweet |  
+| bip_39_word_dash_3 | teach-sweet-advance |  
+| bip_39_word_dash_4 | teach-sweet-advance-genre |  
+| bip_39_word_dash_5 | teach-sweet-advance-genre-thing |  
+| bip_39_word_dash_6 | teach-sweet-advance-genre-thing-remove |  
+| bip_39_word_dash_7 | teach-sweet-advance-genre-thing-remove-grass |  
+| bip_39_word_dash_8 | teach-sweet-advance-genre-thing-remove-grass-engine |  
+| bip_39_word_dash_9 | teach-sweet-advance-genre-thing-remove-grass-engine-canyon |  
 | bip_39_word_new_br_1 | teach |  
 | bip_39_word_new_br_10 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine<br>canyon<br>stuff |  
 | bip_39_word_new_br_11 | teach<br>sweet<br>advance<br>genre<br>thing<br>remove<br>grass<br>engine<br>canyon<br>stuff<br>middle |  
@@ -147,6 +159,18 @@ canyon |
 | bip_39_word_space_7 | teach sweet advance genre thing remove grass |  
 | bip_39_word_space_8 | teach sweet advance genre thing remove grass engine |  
 | bip_39_word_space_9 | teach sweet advance genre thing remove grass engine canyon |  
+| bip_39_word_underscore_1 | teach |  
+| bip_39_word_underscore_10 | teach_sweet_advance_genre_thing_remove_grass_engine_canyon_stuff |  
+| bip_39_word_underscore_11 | teach_sweet_advance_genre_thing_remove_grass_engine_canyon_stuff_middle |  
+| bip_39_word_underscore_12 | teach_sweet_advance_genre_thing_remove_grass_engine_canyon_stuff_middle_already |  
+| bip_39_word_underscore_2 | teach_sweet |  
+| bip_39_word_underscore_3 | teach_sweet_advance |  
+| bip_39_word_underscore_4 | teach_sweet_advance_genre |  
+| bip_39_word_underscore_5 | teach_sweet_advance_genre_thing |  
+| bip_39_word_underscore_6 | teach_sweet_advance_genre_thing_remove |  
+| bip_39_word_underscore_7 | teach_sweet_advance_genre_thing_remove_grass |  
+| bip_39_word_underscore_8 | teach_sweet_advance_genre_thing_remove_grass_engine |  
+| bip_39_word_underscore_9 | teach_sweet_advance_genre_thing_remove_grass_engine_canyon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

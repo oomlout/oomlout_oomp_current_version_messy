@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | entire |  
+| bip_39_word_dash_10 | entire-term-trap-hobby-comfort-egg-post-tomato-carpet-unit |  
+| bip_39_word_dash_11 | entire-term-trap-hobby-comfort-egg-post-tomato-carpet-unit-satoshi |  
+| bip_39_word_dash_12 | entire-term-trap-hobby-comfort-egg-post-tomato-carpet-unit-satoshi-aspect |  
+| bip_39_word_dash_2 | entire-term |  
+| bip_39_word_dash_3 | entire-term-trap |  
+| bip_39_word_dash_4 | entire-term-trap-hobby |  
+| bip_39_word_dash_5 | entire-term-trap-hobby-comfort |  
+| bip_39_word_dash_6 | entire-term-trap-hobby-comfort-egg |  
+| bip_39_word_dash_7 | entire-term-trap-hobby-comfort-egg-post |  
+| bip_39_word_dash_8 | entire-term-trap-hobby-comfort-egg-post-tomato |  
+| bip_39_word_dash_9 | entire-term-trap-hobby-comfort-egg-post-tomato-carpet |  
 | bip_39_word_new_br_1 | entire |  
 | bip_39_word_new_br_10 | entire<br>term<br>trap<br>hobby<br>comfort<br>egg<br>post<br>tomato<br>carpet<br>unit |  
 | bip_39_word_new_br_11 | entire<br>term<br>trap<br>hobby<br>comfort<br>egg<br>post<br>tomato<br>carpet<br>unit<br>satoshi |  
@@ -147,6 +159,18 @@ carpet |
 | bip_39_word_space_7 | entire term trap hobby comfort egg post |  
 | bip_39_word_space_8 | entire term trap hobby comfort egg post tomato |  
 | bip_39_word_space_9 | entire term trap hobby comfort egg post tomato carpet |  
+| bip_39_word_underscore_1 | entire |  
+| bip_39_word_underscore_10 | entire_term_trap_hobby_comfort_egg_post_tomato_carpet_unit |  
+| bip_39_word_underscore_11 | entire_term_trap_hobby_comfort_egg_post_tomato_carpet_unit_satoshi |  
+| bip_39_word_underscore_12 | entire_term_trap_hobby_comfort_egg_post_tomato_carpet_unit_satoshi_aspect |  
+| bip_39_word_underscore_2 | entire_term |  
+| bip_39_word_underscore_3 | entire_term_trap |  
+| bip_39_word_underscore_4 | entire_term_trap_hobby |  
+| bip_39_word_underscore_5 | entire_term_trap_hobby_comfort |  
+| bip_39_word_underscore_6 | entire_term_trap_hobby_comfort_egg |  
+| bip_39_word_underscore_7 | entire_term_trap_hobby_comfort_egg_post |  
+| bip_39_word_underscore_8 | entire_term_trap_hobby_comfort_egg_post_tomato |  
+| bip_39_word_underscore_9 | entire_term_trap_hobby_comfort_egg_post_tomato_carpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

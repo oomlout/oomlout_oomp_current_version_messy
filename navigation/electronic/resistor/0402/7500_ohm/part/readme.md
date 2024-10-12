@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ancient |  
+| bip_39_word_dash_10 | ancient-track-cherry-actual-village-taste-circle-script-sun-bacon |  
+| bip_39_word_dash_11 | ancient-track-cherry-actual-village-taste-circle-script-sun-bacon-budget |  
+| bip_39_word_dash_12 | ancient-track-cherry-actual-village-taste-circle-script-sun-bacon-budget-animal |  
+| bip_39_word_dash_2 | ancient-track |  
+| bip_39_word_dash_3 | ancient-track-cherry |  
+| bip_39_word_dash_4 | ancient-track-cherry-actual |  
+| bip_39_word_dash_5 | ancient-track-cherry-actual-village |  
+| bip_39_word_dash_6 | ancient-track-cherry-actual-village-taste |  
+| bip_39_word_dash_7 | ancient-track-cherry-actual-village-taste-circle |  
+| bip_39_word_dash_8 | ancient-track-cherry-actual-village-taste-circle-script |  
+| bip_39_word_dash_9 | ancient-track-cherry-actual-village-taste-circle-script-sun |  
 | bip_39_word_new_br_1 | ancient |  
 | bip_39_word_new_br_10 | ancient<br>track<br>cherry<br>actual<br>village<br>taste<br>circle<br>script<br>sun<br>bacon |  
 | bip_39_word_new_br_11 | ancient<br>track<br>cherry<br>actual<br>village<br>taste<br>circle<br>script<br>sun<br>bacon<br>budget |  
@@ -147,6 +159,18 @@ sun |
 | bip_39_word_space_7 | ancient track cherry actual village taste circle |  
 | bip_39_word_space_8 | ancient track cherry actual village taste circle script |  
 | bip_39_word_space_9 | ancient track cherry actual village taste circle script sun |  
+| bip_39_word_underscore_1 | ancient |  
+| bip_39_word_underscore_10 | ancient_track_cherry_actual_village_taste_circle_script_sun_bacon |  
+| bip_39_word_underscore_11 | ancient_track_cherry_actual_village_taste_circle_script_sun_bacon_budget |  
+| bip_39_word_underscore_12 | ancient_track_cherry_actual_village_taste_circle_script_sun_bacon_budget_animal |  
+| bip_39_word_underscore_2 | ancient_track |  
+| bip_39_word_underscore_3 | ancient_track_cherry |  
+| bip_39_word_underscore_4 | ancient_track_cherry_actual |  
+| bip_39_word_underscore_5 | ancient_track_cherry_actual_village |  
+| bip_39_word_underscore_6 | ancient_track_cherry_actual_village_taste |  
+| bip_39_word_underscore_7 | ancient_track_cherry_actual_village_taste_circle |  
+| bip_39_word_underscore_8 | ancient_track_cherry_actual_village_taste_circle_script |  
+| bip_39_word_underscore_9 | ancient_track_cherry_actual_village_taste_circle_script_sun |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

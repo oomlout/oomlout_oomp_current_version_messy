@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | thought |  
+| bip_39_word_dash_10 | thought-custom-month-tackle-twice-simple-shy-frame-library-recall |  
+| bip_39_word_dash_11 | thought-custom-month-tackle-twice-simple-shy-frame-library-recall-discover |  
+| bip_39_word_dash_12 | thought-custom-month-tackle-twice-simple-shy-frame-library-recall-discover-actor |  
+| bip_39_word_dash_2 | thought-custom |  
+| bip_39_word_dash_3 | thought-custom-month |  
+| bip_39_word_dash_4 | thought-custom-month-tackle |  
+| bip_39_word_dash_5 | thought-custom-month-tackle-twice |  
+| bip_39_word_dash_6 | thought-custom-month-tackle-twice-simple |  
+| bip_39_word_dash_7 | thought-custom-month-tackle-twice-simple-shy |  
+| bip_39_word_dash_8 | thought-custom-month-tackle-twice-simple-shy-frame |  
+| bip_39_word_dash_9 | thought-custom-month-tackle-twice-simple-shy-frame-library |  
 | bip_39_word_new_br_1 | thought |  
 | bip_39_word_new_br_10 | thought<br>custom<br>month<br>tackle<br>twice<br>simple<br>shy<br>frame<br>library<br>recall |  
 | bip_39_word_new_br_11 | thought<br>custom<br>month<br>tackle<br>twice<br>simple<br>shy<br>frame<br>library<br>recall<br>discover |  
@@ -147,6 +159,18 @@ library |
 | bip_39_word_space_7 | thought custom month tackle twice simple shy |  
 | bip_39_word_space_8 | thought custom month tackle twice simple shy frame |  
 | bip_39_word_space_9 | thought custom month tackle twice simple shy frame library |  
+| bip_39_word_underscore_1 | thought |  
+| bip_39_word_underscore_10 | thought_custom_month_tackle_twice_simple_shy_frame_library_recall |  
+| bip_39_word_underscore_11 | thought_custom_month_tackle_twice_simple_shy_frame_library_recall_discover |  
+| bip_39_word_underscore_12 | thought_custom_month_tackle_twice_simple_shy_frame_library_recall_discover_actor |  
+| bip_39_word_underscore_2 | thought_custom |  
+| bip_39_word_underscore_3 | thought_custom_month |  
+| bip_39_word_underscore_4 | thought_custom_month_tackle |  
+| bip_39_word_underscore_5 | thought_custom_month_tackle_twice |  
+| bip_39_word_underscore_6 | thought_custom_month_tackle_twice_simple |  
+| bip_39_word_underscore_7 | thought_custom_month_tackle_twice_simple_shy |  
+| bip_39_word_underscore_8 | thought_custom_month_tackle_twice_simple_shy_frame |  
+| bip_39_word_underscore_9 | thought_custom_month_tackle_twice_simple_shy_frame_library |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

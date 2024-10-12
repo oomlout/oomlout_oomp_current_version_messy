@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wing |  
+| bip_39_word_dash_10 | wing-raise-demise-extend-actress-village-sorry-maid-expect-knife |  
+| bip_39_word_dash_11 | wing-raise-demise-extend-actress-village-sorry-maid-expect-knife-laptop |  
+| bip_39_word_dash_12 | wing-raise-demise-extend-actress-village-sorry-maid-expect-knife-laptop-adapt |  
+| bip_39_word_dash_2 | wing-raise |  
+| bip_39_word_dash_3 | wing-raise-demise |  
+| bip_39_word_dash_4 | wing-raise-demise-extend |  
+| bip_39_word_dash_5 | wing-raise-demise-extend-actress |  
+| bip_39_word_dash_6 | wing-raise-demise-extend-actress-village |  
+| bip_39_word_dash_7 | wing-raise-demise-extend-actress-village-sorry |  
+| bip_39_word_dash_8 | wing-raise-demise-extend-actress-village-sorry-maid |  
+| bip_39_word_dash_9 | wing-raise-demise-extend-actress-village-sorry-maid-expect |  
 | bip_39_word_new_br_1 | wing |  
 | bip_39_word_new_br_10 | wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid<br>expect<br>knife |  
 | bip_39_word_new_br_11 | wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid<br>expect<br>knife<br>laptop |  
@@ -147,6 +159,18 @@ expect |
 | bip_39_word_space_7 | wing raise demise extend actress village sorry |  
 | bip_39_word_space_8 | wing raise demise extend actress village sorry maid |  
 | bip_39_word_space_9 | wing raise demise extend actress village sorry maid expect |  
+| bip_39_word_underscore_1 | wing |  
+| bip_39_word_underscore_10 | wing_raise_demise_extend_actress_village_sorry_maid_expect_knife |  
+| bip_39_word_underscore_11 | wing_raise_demise_extend_actress_village_sorry_maid_expect_knife_laptop |  
+| bip_39_word_underscore_12 | wing_raise_demise_extend_actress_village_sorry_maid_expect_knife_laptop_adapt |  
+| bip_39_word_underscore_2 | wing_raise |  
+| bip_39_word_underscore_3 | wing_raise_demise |  
+| bip_39_word_underscore_4 | wing_raise_demise_extend |  
+| bip_39_word_underscore_5 | wing_raise_demise_extend_actress |  
+| bip_39_word_underscore_6 | wing_raise_demise_extend_actress_village |  
+| bip_39_word_underscore_7 | wing_raise_demise_extend_actress_village_sorry |  
+| bip_39_word_underscore_8 | wing_raise_demise_extend_actress_village_sorry_maid |  
+| bip_39_word_underscore_9 | wing_raise_demise_extend_actress_village_sorry_maid_expect |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

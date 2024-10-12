@@ -1,3 +1,15 @@
+bip_39_word_dash_1: item
+bip_39_word_dash_10: item-squeeze-health-monitor-paddle-visit-ice-van-uniform-sea
+bip_39_word_dash_11: item-squeeze-health-monitor-paddle-visit-ice-van-uniform-sea-custom
+bip_39_word_dash_12: item-squeeze-health-monitor-paddle-visit-ice-van-uniform-sea-custom-ask
+bip_39_word_dash_2: item-squeeze
+bip_39_word_dash_3: item-squeeze-health
+bip_39_word_dash_4: item-squeeze-health-monitor
+bip_39_word_dash_5: item-squeeze-health-monitor-paddle
+bip_39_word_dash_6: item-squeeze-health-monitor-paddle-visit
+bip_39_word_dash_7: item-squeeze-health-monitor-paddle-visit-ice
+bip_39_word_dash_8: item-squeeze-health-monitor-paddle-visit-ice-van
+bip_39_word_dash_9: item-squeeze-health-monitor-paddle-visit-ice-van-uniform
 bip_39_word_new_br_1: item
 bip_39_word_new_br_10: item<br>squeeze<br>health<br>monitor<br>paddle<br>visit<br>ice<br>van<br>uniform<br>sea
 bip_39_word_new_br_11: item<br>squeeze<br>health<br>monitor<br>paddle<br>visit<br>ice<br>van<br>uniform<br>sea<br>custom
@@ -193,6 +205,18 @@ bip_39_word_space_6: item squeeze health monitor paddle visit
 bip_39_word_space_7: item squeeze health monitor paddle visit ice
 bip_39_word_space_8: item squeeze health monitor paddle visit ice van
 bip_39_word_space_9: item squeeze health monitor paddle visit ice van uniform
+bip_39_word_underscore_1: item
+bip_39_word_underscore_10: item_squeeze_health_monitor_paddle_visit_ice_van_uniform_sea
+bip_39_word_underscore_11: item_squeeze_health_monitor_paddle_visit_ice_van_uniform_sea_custom
+bip_39_word_underscore_12: item_squeeze_health_monitor_paddle_visit_ice_van_uniform_sea_custom_ask
+bip_39_word_underscore_2: item_squeeze
+bip_39_word_underscore_3: item_squeeze_health
+bip_39_word_underscore_4: item_squeeze_health_monitor
+bip_39_word_underscore_5: item_squeeze_health_monitor_paddle
+bip_39_word_underscore_6: item_squeeze_health_monitor_paddle_visit
+bip_39_word_underscore_7: item_squeeze_health_monitor_paddle_visit_ice
+bip_39_word_underscore_8: item_squeeze_health_monitor_paddle_visit_ice_van
+bip_39_word_underscore_9: item_squeeze_health_monitor_paddle_visit_ice_van_uniform
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

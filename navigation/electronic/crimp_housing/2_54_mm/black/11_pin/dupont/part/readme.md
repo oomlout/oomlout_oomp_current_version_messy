@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | curious |  
+| bip_39_word_dash_10 | curious-usual-shallow-coconut-absurd-frame-girl-when-sad-margin |  
+| bip_39_word_dash_11 | curious-usual-shallow-coconut-absurd-frame-girl-when-sad-margin-crop |  
+| bip_39_word_dash_2 | curious-usual |  
+| bip_39_word_dash_3 | curious-usual-shallow |  
+| bip_39_word_dash_4 | curious-usual-shallow-coconut |  
+| bip_39_word_dash_5 | curious-usual-shallow-coconut-absurd |  
+| bip_39_word_dash_6 | curious-usual-shallow-coconut-absurd-frame |  
+| bip_39_word_dash_7 | curious-usual-shallow-coconut-absurd-frame-girl |  
+| bip_39_word_dash_8 | curious-usual-shallow-coconut-absurd-frame-girl-when |  
+| bip_39_word_dash_9 | curious-usual-shallow-coconut-absurd-frame-girl-when-sad |  
 | bip_39_word_new_br_1 | curious |  
 | bip_39_word_new_br_10 | curious<br>usual<br>shallow<br>coconut<br>absurd<br>frame<br>girl<br>when<br>sad<br>margin |  
 | bip_39_word_new_br_11 | curious<br>usual<br>shallow<br>coconut<br>absurd<br>frame<br>girl<br>when<br>sad<br>margin<br>crop |  
@@ -132,6 +143,17 @@ sad |
 | bip_39_word_space_7 | curious usual shallow coconut absurd frame girl |  
 | bip_39_word_space_8 | curious usual shallow coconut absurd frame girl when |  
 | bip_39_word_space_9 | curious usual shallow coconut absurd frame girl when sad |  
+| bip_39_word_underscore_1 | curious |  
+| bip_39_word_underscore_10 | curious_usual_shallow_coconut_absurd_frame_girl_when_sad_margin |  
+| bip_39_word_underscore_11 | curious_usual_shallow_coconut_absurd_frame_girl_when_sad_margin_crop |  
+| bip_39_word_underscore_2 | curious_usual |  
+| bip_39_word_underscore_3 | curious_usual_shallow |  
+| bip_39_word_underscore_4 | curious_usual_shallow_coconut |  
+| bip_39_word_underscore_5 | curious_usual_shallow_coconut_absurd |  
+| bip_39_word_underscore_6 | curious_usual_shallow_coconut_absurd_frame |  
+| bip_39_word_underscore_7 | curious_usual_shallow_coconut_absurd_frame_girl |  
+| bip_39_word_underscore_8 | curious_usual_shallow_coconut_absurd_frame_girl_when |  
+| bip_39_word_underscore_9 | curious_usual_shallow_coconut_absurd_frame_girl_when_sad |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tool |  
+| bip_39_word_dash_10 | tool-siege-afraid-genre-modify-age-ill-sign-off-perfect |  
+| bip_39_word_dash_11 | tool-siege-afraid-genre-modify-age-ill-sign-off-perfect-language |  
+| bip_39_word_dash_12 | tool-siege-afraid-genre-modify-age-ill-sign-off-perfect-language-agree |  
+| bip_39_word_dash_2 | tool-siege |  
+| bip_39_word_dash_3 | tool-siege-afraid |  
+| bip_39_word_dash_4 | tool-siege-afraid-genre |  
+| bip_39_word_dash_5 | tool-siege-afraid-genre-modify |  
+| bip_39_word_dash_6 | tool-siege-afraid-genre-modify-age |  
+| bip_39_word_dash_7 | tool-siege-afraid-genre-modify-age-ill |  
+| bip_39_word_dash_8 | tool-siege-afraid-genre-modify-age-ill-sign |  
+| bip_39_word_dash_9 | tool-siege-afraid-genre-modify-age-ill-sign-off |  
 | bip_39_word_new_br_1 | tool |  
 | bip_39_word_new_br_10 | tool<br>siege<br>afraid<br>genre<br>modify<br>age<br>ill<br>sign<br>off<br>perfect |  
 | bip_39_word_new_br_11 | tool<br>siege<br>afraid<br>genre<br>modify<br>age<br>ill<br>sign<br>off<br>perfect<br>language |  
@@ -147,6 +159,18 @@ off |
 | bip_39_word_space_7 | tool siege afraid genre modify age ill |  
 | bip_39_word_space_8 | tool siege afraid genre modify age ill sign |  
 | bip_39_word_space_9 | tool siege afraid genre modify age ill sign off |  
+| bip_39_word_underscore_1 | tool |  
+| bip_39_word_underscore_10 | tool_siege_afraid_genre_modify_age_ill_sign_off_perfect |  
+| bip_39_word_underscore_11 | tool_siege_afraid_genre_modify_age_ill_sign_off_perfect_language |  
+| bip_39_word_underscore_12 | tool_siege_afraid_genre_modify_age_ill_sign_off_perfect_language_agree |  
+| bip_39_word_underscore_2 | tool_siege |  
+| bip_39_word_underscore_3 | tool_siege_afraid |  
+| bip_39_word_underscore_4 | tool_siege_afraid_genre |  
+| bip_39_word_underscore_5 | tool_siege_afraid_genre_modify |  
+| bip_39_word_underscore_6 | tool_siege_afraid_genre_modify_age |  
+| bip_39_word_underscore_7 | tool_siege_afraid_genre_modify_age_ill |  
+| bip_39_word_underscore_8 | tool_siege_afraid_genre_modify_age_ill_sign |  
+| bip_39_word_underscore_9 | tool_siege_afraid_genre_modify_age_ill_sign_off |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

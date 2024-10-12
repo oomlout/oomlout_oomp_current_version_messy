@@ -1,3 +1,15 @@
+bip_39_word_dash_1: coyote
+bip_39_word_dash_10: coyote-private-venture-antenna-help-author-play-enjoy-energy-race
+bip_39_word_dash_11: coyote-private-venture-antenna-help-author-play-enjoy-energy-race-body
+bip_39_word_dash_12: coyote-private-venture-antenna-help-author-play-enjoy-energy-race-body-air
+bip_39_word_dash_2: coyote-private
+bip_39_word_dash_3: coyote-private-venture
+bip_39_word_dash_4: coyote-private-venture-antenna
+bip_39_word_dash_5: coyote-private-venture-antenna-help
+bip_39_word_dash_6: coyote-private-venture-antenna-help-author
+bip_39_word_dash_7: coyote-private-venture-antenna-help-author-play
+bip_39_word_dash_8: coyote-private-venture-antenna-help-author-play-enjoy
+bip_39_word_dash_9: coyote-private-venture-antenna-help-author-play-enjoy-energy
 bip_39_word_new_br_1: coyote
 bip_39_word_new_br_10: coyote<br>private<br>venture<br>antenna<br>help<br>author<br>play<br>enjoy<br>energy<br>race
 bip_39_word_new_br_11: coyote<br>private<br>venture<br>antenna<br>help<br>author<br>play<br>enjoy<br>energy<br>race<br>body
@@ -194,6 +206,18 @@ bip_39_word_space_6: coyote private venture antenna help author
 bip_39_word_space_7: coyote private venture antenna help author play
 bip_39_word_space_8: coyote private venture antenna help author play enjoy
 bip_39_word_space_9: coyote private venture antenna help author play enjoy energy
+bip_39_word_underscore_1: coyote
+bip_39_word_underscore_10: coyote_private_venture_antenna_help_author_play_enjoy_energy_race
+bip_39_word_underscore_11: coyote_private_venture_antenna_help_author_play_enjoy_energy_race_body
+bip_39_word_underscore_12: coyote_private_venture_antenna_help_author_play_enjoy_energy_race_body_air
+bip_39_word_underscore_2: coyote_private
+bip_39_word_underscore_3: coyote_private_venture
+bip_39_word_underscore_4: coyote_private_venture_antenna
+bip_39_word_underscore_5: coyote_private_venture_antenna_help
+bip_39_word_underscore_6: coyote_private_venture_antenna_help_author
+bip_39_word_underscore_7: coyote_private_venture_antenna_help_author_play
+bip_39_word_underscore_8: coyote_private_venture_antenna_help_author_play_enjoy
+bip_39_word_underscore_9: coyote_private_venture_antenna_help_author_play_enjoy_energy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

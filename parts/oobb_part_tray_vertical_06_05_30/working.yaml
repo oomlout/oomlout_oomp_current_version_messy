@@ -1,3 +1,15 @@
+bip_39_word_dash_1: sun
+bip_39_word_dash_10: sun-juice-suggest-pride-dream-sister-lab-area-cigar-sustain
+bip_39_word_dash_11: sun-juice-suggest-pride-dream-sister-lab-area-cigar-sustain-top
+bip_39_word_dash_12: sun-juice-suggest-pride-dream-sister-lab-area-cigar-sustain-top-actress
+bip_39_word_dash_2: sun-juice
+bip_39_word_dash_3: sun-juice-suggest
+bip_39_word_dash_4: sun-juice-suggest-pride
+bip_39_word_dash_5: sun-juice-suggest-pride-dream
+bip_39_word_dash_6: sun-juice-suggest-pride-dream-sister
+bip_39_word_dash_7: sun-juice-suggest-pride-dream-sister-lab
+bip_39_word_dash_8: sun-juice-suggest-pride-dream-sister-lab-area
+bip_39_word_dash_9: sun-juice-suggest-pride-dream-sister-lab-area-cigar
 bip_39_word_new_br_1: sun
 bip_39_word_new_br_10: sun<br>juice<br>suggest<br>pride<br>dream<br>sister<br>lab<br>area<br>cigar<br>sustain
 bip_39_word_new_br_11: sun<br>juice<br>suggest<br>pride<br>dream<br>sister<br>lab<br>area<br>cigar<br>sustain<br>top
@@ -193,6 +205,18 @@ bip_39_word_space_6: sun juice suggest pride dream sister
 bip_39_word_space_7: sun juice suggest pride dream sister lab
 bip_39_word_space_8: sun juice suggest pride dream sister lab area
 bip_39_word_space_9: sun juice suggest pride dream sister lab area cigar
+bip_39_word_underscore_1: sun
+bip_39_word_underscore_10: sun_juice_suggest_pride_dream_sister_lab_area_cigar_sustain
+bip_39_word_underscore_11: sun_juice_suggest_pride_dream_sister_lab_area_cigar_sustain_top
+bip_39_word_underscore_12: sun_juice_suggest_pride_dream_sister_lab_area_cigar_sustain_top_actress
+bip_39_word_underscore_2: sun_juice
+bip_39_word_underscore_3: sun_juice_suggest
+bip_39_word_underscore_4: sun_juice_suggest_pride
+bip_39_word_underscore_5: sun_juice_suggest_pride_dream
+bip_39_word_underscore_6: sun_juice_suggest_pride_dream_sister
+bip_39_word_underscore_7: sun_juice_suggest_pride_dream_sister_lab
+bip_39_word_underscore_8: sun_juice_suggest_pride_dream_sister_lab_area
+bip_39_word_underscore_9: sun_juice_suggest_pride_dream_sister_lab_area_cigar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | expose |  
+| bip_39_word_dash_10 | expose-cash-debris-drive-hand-success-tail-fame-custom-color |  
+| bip_39_word_dash_11 | expose-cash-debris-drive-hand-success-tail-fame-custom-color-follow |  
+| bip_39_word_dash_12 | expose-cash-debris-drive-hand-success-tail-fame-custom-color-follow-amateur |  
+| bip_39_word_dash_2 | expose-cash |  
+| bip_39_word_dash_3 | expose-cash-debris |  
+| bip_39_word_dash_4 | expose-cash-debris-drive |  
+| bip_39_word_dash_5 | expose-cash-debris-drive-hand |  
+| bip_39_word_dash_6 | expose-cash-debris-drive-hand-success |  
+| bip_39_word_dash_7 | expose-cash-debris-drive-hand-success-tail |  
+| bip_39_word_dash_8 | expose-cash-debris-drive-hand-success-tail-fame |  
+| bip_39_word_dash_9 | expose-cash-debris-drive-hand-success-tail-fame-custom |  
 | bip_39_word_new_br_1 | expose |  
 | bip_39_word_new_br_10 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color |  
 | bip_39_word_new_br_11 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color<br>follow |  
@@ -147,6 +159,18 @@ custom |
 | bip_39_word_space_7 | expose cash debris drive hand success tail |  
 | bip_39_word_space_8 | expose cash debris drive hand success tail fame |  
 | bip_39_word_space_9 | expose cash debris drive hand success tail fame custom |  
+| bip_39_word_underscore_1 | expose |  
+| bip_39_word_underscore_10 | expose_cash_debris_drive_hand_success_tail_fame_custom_color |  
+| bip_39_word_underscore_11 | expose_cash_debris_drive_hand_success_tail_fame_custom_color_follow |  
+| bip_39_word_underscore_12 | expose_cash_debris_drive_hand_success_tail_fame_custom_color_follow_amateur |  
+| bip_39_word_underscore_2 | expose_cash |  
+| bip_39_word_underscore_3 | expose_cash_debris |  
+| bip_39_word_underscore_4 | expose_cash_debris_drive |  
+| bip_39_word_underscore_5 | expose_cash_debris_drive_hand |  
+| bip_39_word_underscore_6 | expose_cash_debris_drive_hand_success |  
+| bip_39_word_underscore_7 | expose_cash_debris_drive_hand_success_tail |  
+| bip_39_word_underscore_8 | expose_cash_debris_drive_hand_success_tail_fame |  
+| bip_39_word_underscore_9 | expose_cash_debris_drive_hand_success_tail_fame_custom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

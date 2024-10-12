@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tilt |  
+| bip_39_word_dash_10 | tilt-man-frequent-demand-genuine-barely-clutch-defense-crush-provide |  
+| bip_39_word_dash_11 | tilt-man-frequent-demand-genuine-barely-clutch-defense-crush-provide-pond |  
+| bip_39_word_dash_12 | tilt-man-frequent-demand-genuine-barely-clutch-defense-crush-provide-pond-above |  
+| bip_39_word_dash_2 | tilt-man |  
+| bip_39_word_dash_3 | tilt-man-frequent |  
+| bip_39_word_dash_4 | tilt-man-frequent-demand |  
+| bip_39_word_dash_5 | tilt-man-frequent-demand-genuine |  
+| bip_39_word_dash_6 | tilt-man-frequent-demand-genuine-barely |  
+| bip_39_word_dash_7 | tilt-man-frequent-demand-genuine-barely-clutch |  
+| bip_39_word_dash_8 | tilt-man-frequent-demand-genuine-barely-clutch-defense |  
+| bip_39_word_dash_9 | tilt-man-frequent-demand-genuine-barely-clutch-defense-crush |  
 | bip_39_word_new_br_1 | tilt |  
 | bip_39_word_new_br_10 | tilt<br>man<br>frequent<br>demand<br>genuine<br>barely<br>clutch<br>defense<br>crush<br>provide |  
 | bip_39_word_new_br_11 | tilt<br>man<br>frequent<br>demand<br>genuine<br>barely<br>clutch<br>defense<br>crush<br>provide<br>pond |  
@@ -147,6 +159,18 @@ crush |
 | bip_39_word_space_7 | tilt man frequent demand genuine barely clutch |  
 | bip_39_word_space_8 | tilt man frequent demand genuine barely clutch defense |  
 | bip_39_word_space_9 | tilt man frequent demand genuine barely clutch defense crush |  
+| bip_39_word_underscore_1 | tilt |  
+| bip_39_word_underscore_10 | tilt_man_frequent_demand_genuine_barely_clutch_defense_crush_provide |  
+| bip_39_word_underscore_11 | tilt_man_frequent_demand_genuine_barely_clutch_defense_crush_provide_pond |  
+| bip_39_word_underscore_12 | tilt_man_frequent_demand_genuine_barely_clutch_defense_crush_provide_pond_above |  
+| bip_39_word_underscore_2 | tilt_man |  
+| bip_39_word_underscore_3 | tilt_man_frequent |  
+| bip_39_word_underscore_4 | tilt_man_frequent_demand |  
+| bip_39_word_underscore_5 | tilt_man_frequent_demand_genuine |  
+| bip_39_word_underscore_6 | tilt_man_frequent_demand_genuine_barely |  
+| bip_39_word_underscore_7 | tilt_man_frequent_demand_genuine_barely_clutch |  
+| bip_39_word_underscore_8 | tilt_man_frequent_demand_genuine_barely_clutch_defense |  
+| bip_39_word_underscore_9 | tilt_man_frequent_demand_genuine_barely_clutch_defense_crush |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

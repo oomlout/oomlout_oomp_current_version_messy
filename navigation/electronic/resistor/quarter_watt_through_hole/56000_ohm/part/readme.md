@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | civil |  
+| bip_39_word_dash_10 | civil-shoot-urban-future-divert-sister-stomach-symbol-small-pen |  
+| bip_39_word_dash_11 | civil-shoot-urban-future-divert-sister-stomach-symbol-small-pen-detect |  
+| bip_39_word_dash_12 | civil-shoot-urban-future-divert-sister-stomach-symbol-small-pen-detect-artwork |  
+| bip_39_word_dash_2 | civil-shoot |  
+| bip_39_word_dash_3 | civil-shoot-urban |  
+| bip_39_word_dash_4 | civil-shoot-urban-future |  
+| bip_39_word_dash_5 | civil-shoot-urban-future-divert |  
+| bip_39_word_dash_6 | civil-shoot-urban-future-divert-sister |  
+| bip_39_word_dash_7 | civil-shoot-urban-future-divert-sister-stomach |  
+| bip_39_word_dash_8 | civil-shoot-urban-future-divert-sister-stomach-symbol |  
+| bip_39_word_dash_9 | civil-shoot-urban-future-divert-sister-stomach-symbol-small |  
 | bip_39_word_new_br_1 | civil |  
 | bip_39_word_new_br_10 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol<br>small<br>pen |  
 | bip_39_word_new_br_11 | civil<br>shoot<br>urban<br>future<br>divert<br>sister<br>stomach<br>symbol<br>small<br>pen<br>detect |  
@@ -147,6 +159,18 @@ small |
 | bip_39_word_space_7 | civil shoot urban future divert sister stomach |  
 | bip_39_word_space_8 | civil shoot urban future divert sister stomach symbol |  
 | bip_39_word_space_9 | civil shoot urban future divert sister stomach symbol small |  
+| bip_39_word_underscore_1 | civil |  
+| bip_39_word_underscore_10 | civil_shoot_urban_future_divert_sister_stomach_symbol_small_pen |  
+| bip_39_word_underscore_11 | civil_shoot_urban_future_divert_sister_stomach_symbol_small_pen_detect |  
+| bip_39_word_underscore_12 | civil_shoot_urban_future_divert_sister_stomach_symbol_small_pen_detect_artwork |  
+| bip_39_word_underscore_2 | civil_shoot |  
+| bip_39_word_underscore_3 | civil_shoot_urban |  
+| bip_39_word_underscore_4 | civil_shoot_urban_future |  
+| bip_39_word_underscore_5 | civil_shoot_urban_future_divert |  
+| bip_39_word_underscore_6 | civil_shoot_urban_future_divert_sister |  
+| bip_39_word_underscore_7 | civil_shoot_urban_future_divert_sister_stomach |  
+| bip_39_word_underscore_8 | civil_shoot_urban_future_divert_sister_stomach_symbol |  
+| bip_39_word_underscore_9 | civil_shoot_urban_future_divert_sister_stomach_symbol_small |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

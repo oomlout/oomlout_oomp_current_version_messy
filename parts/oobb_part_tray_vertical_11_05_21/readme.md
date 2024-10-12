@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | used |  
+| bip_39_word_dash_10 | used-small-rice-affair-guitar-approve-quote-bid-sting-sauce |  
+| bip_39_word_dash_11 | used-small-rice-affair-guitar-approve-quote-bid-sting-sauce-firm |  
+| bip_39_word_dash_12 | used-small-rice-affair-guitar-approve-quote-bid-sting-sauce-firm-again |  
+| bip_39_word_dash_2 | used-small |  
+| bip_39_word_dash_3 | used-small-rice |  
+| bip_39_word_dash_4 | used-small-rice-affair |  
+| bip_39_word_dash_5 | used-small-rice-affair-guitar |  
+| bip_39_word_dash_6 | used-small-rice-affair-guitar-approve |  
+| bip_39_word_dash_7 | used-small-rice-affair-guitar-approve-quote |  
+| bip_39_word_dash_8 | used-small-rice-affair-guitar-approve-quote-bid |  
+| bip_39_word_dash_9 | used-small-rice-affair-guitar-approve-quote-bid-sting |  
 | bip_39_word_new_br_1 | used |  
 | bip_39_word_new_br_10 | used<br>small<br>rice<br>affair<br>guitar<br>approve<br>quote<br>bid<br>sting<br>sauce |  
 | bip_39_word_new_br_11 | used<br>small<br>rice<br>affair<br>guitar<br>approve<br>quote<br>bid<br>sting<br>sauce<br>firm |  
@@ -147,6 +159,18 @@ sting |
 | bip_39_word_space_7 | used small rice affair guitar approve quote |  
 | bip_39_word_space_8 | used small rice affair guitar approve quote bid |  
 | bip_39_word_space_9 | used small rice affair guitar approve quote bid sting |  
+| bip_39_word_underscore_1 | used |  
+| bip_39_word_underscore_10 | used_small_rice_affair_guitar_approve_quote_bid_sting_sauce |  
+| bip_39_word_underscore_11 | used_small_rice_affair_guitar_approve_quote_bid_sting_sauce_firm |  
+| bip_39_word_underscore_12 | used_small_rice_affair_guitar_approve_quote_bid_sting_sauce_firm_again |  
+| bip_39_word_underscore_2 | used_small |  
+| bip_39_word_underscore_3 | used_small_rice |  
+| bip_39_word_underscore_4 | used_small_rice_affair |  
+| bip_39_word_underscore_5 | used_small_rice_affair_guitar |  
+| bip_39_word_underscore_6 | used_small_rice_affair_guitar_approve |  
+| bip_39_word_underscore_7 | used_small_rice_affair_guitar_approve_quote |  
+| bip_39_word_underscore_8 | used_small_rice_affair_guitar_approve_quote_bid |  
+| bip_39_word_underscore_9 | used_small_rice_affair_guitar_approve_quote_bid_sting |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

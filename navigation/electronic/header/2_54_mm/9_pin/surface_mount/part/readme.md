@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | couple |  
+| bip_39_word_dash_10 | couple-very-broccoli-bacon-remove-job-glue-course-emotion-innocent |  
+| bip_39_word_dash_11 | couple-very-broccoli-bacon-remove-job-glue-course-emotion-innocent-mask |  
+| bip_39_word_dash_12 | couple-very-broccoli-bacon-remove-job-glue-course-emotion-innocent-mask-another |  
+| bip_39_word_dash_2 | couple-very |  
+| bip_39_word_dash_3 | couple-very-broccoli |  
+| bip_39_word_dash_4 | couple-very-broccoli-bacon |  
+| bip_39_word_dash_5 | couple-very-broccoli-bacon-remove |  
+| bip_39_word_dash_6 | couple-very-broccoli-bacon-remove-job |  
+| bip_39_word_dash_7 | couple-very-broccoli-bacon-remove-job-glue |  
+| bip_39_word_dash_8 | couple-very-broccoli-bacon-remove-job-glue-course |  
+| bip_39_word_dash_9 | couple-very-broccoli-bacon-remove-job-glue-course-emotion |  
 | bip_39_word_new_br_1 | couple |  
 | bip_39_word_new_br_10 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course<br>emotion<br>innocent |  
 | bip_39_word_new_br_11 | couple<br>very<br>broccoli<br>bacon<br>remove<br>job<br>glue<br>course<br>emotion<br>innocent<br>mask |  
@@ -147,6 +159,18 @@ emotion |
 | bip_39_word_space_7 | couple very broccoli bacon remove job glue |  
 | bip_39_word_space_8 | couple very broccoli bacon remove job glue course |  
 | bip_39_word_space_9 | couple very broccoli bacon remove job glue course emotion |  
+| bip_39_word_underscore_1 | couple |  
+| bip_39_word_underscore_10 | couple_very_broccoli_bacon_remove_job_glue_course_emotion_innocent |  
+| bip_39_word_underscore_11 | couple_very_broccoli_bacon_remove_job_glue_course_emotion_innocent_mask |  
+| bip_39_word_underscore_12 | couple_very_broccoli_bacon_remove_job_glue_course_emotion_innocent_mask_another |  
+| bip_39_word_underscore_2 | couple_very |  
+| bip_39_word_underscore_3 | couple_very_broccoli |  
+| bip_39_word_underscore_4 | couple_very_broccoli_bacon |  
+| bip_39_word_underscore_5 | couple_very_broccoli_bacon_remove |  
+| bip_39_word_underscore_6 | couple_very_broccoli_bacon_remove_job |  
+| bip_39_word_underscore_7 | couple_very_broccoli_bacon_remove_job_glue |  
+| bip_39_word_underscore_8 | couple_very_broccoli_bacon_remove_job_glue_course |  
+| bip_39_word_underscore_9 | couple_very_broccoli_bacon_remove_job_glue_course_emotion |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

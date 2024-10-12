@@ -1,3 +1,15 @@
+bip_39_word_dash_1: stem
+bip_39_word_dash_10: stem-alone-ivory-battle-layer-gas-judge-crisp-update-reform
+bip_39_word_dash_11: stem-alone-ivory-battle-layer-gas-judge-crisp-update-reform-infant
+bip_39_word_dash_12: stem-alone-ivory-battle-layer-gas-judge-crisp-update-reform-infant-armed
+bip_39_word_dash_2: stem-alone
+bip_39_word_dash_3: stem-alone-ivory
+bip_39_word_dash_4: stem-alone-ivory-battle
+bip_39_word_dash_5: stem-alone-ivory-battle-layer
+bip_39_word_dash_6: stem-alone-ivory-battle-layer-gas
+bip_39_word_dash_7: stem-alone-ivory-battle-layer-gas-judge
+bip_39_word_dash_8: stem-alone-ivory-battle-layer-gas-judge-crisp
+bip_39_word_dash_9: stem-alone-ivory-battle-layer-gas-judge-crisp-update
 bip_39_word_new_br_1: stem
 bip_39_word_new_br_10: stem<br>alone<br>ivory<br>battle<br>layer<br>gas<br>judge<br>crisp<br>update<br>reform
 bip_39_word_new_br_11: stem<br>alone<br>ivory<br>battle<br>layer<br>gas<br>judge<br>crisp<br>update<br>reform<br>infant
@@ -193,6 +205,18 @@ bip_39_word_space_6: stem alone ivory battle layer gas
 bip_39_word_space_7: stem alone ivory battle layer gas judge
 bip_39_word_space_8: stem alone ivory battle layer gas judge crisp
 bip_39_word_space_9: stem alone ivory battle layer gas judge crisp update
+bip_39_word_underscore_1: stem
+bip_39_word_underscore_10: stem_alone_ivory_battle_layer_gas_judge_crisp_update_reform
+bip_39_word_underscore_11: stem_alone_ivory_battle_layer_gas_judge_crisp_update_reform_infant
+bip_39_word_underscore_12: stem_alone_ivory_battle_layer_gas_judge_crisp_update_reform_infant_armed
+bip_39_word_underscore_2: stem_alone
+bip_39_word_underscore_3: stem_alone_ivory
+bip_39_word_underscore_4: stem_alone_ivory_battle
+bip_39_word_underscore_5: stem_alone_ivory_battle_layer
+bip_39_word_underscore_6: stem_alone_ivory_battle_layer_gas
+bip_39_word_underscore_7: stem_alone_ivory_battle_layer_gas_judge
+bip_39_word_underscore_8: stem_alone_ivory_battle_layer_gas_judge_crisp
+bip_39_word_underscore_9: stem_alone_ivory_battle_layer_gas_judge_crisp_update
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

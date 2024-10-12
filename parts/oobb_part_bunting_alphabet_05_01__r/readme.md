@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | talent |  
+| bip_39_word_dash_10 | talent-congress-avocado-lift-dad-popular-furnace-monkey-common-nest |  
+| bip_39_word_dash_11 | talent-congress-avocado-lift-dad-popular-furnace-monkey-common-nest-whale |  
+| bip_39_word_dash_12 | talent-congress-avocado-lift-dad-popular-furnace-monkey-common-nest-whale-amazing |  
+| bip_39_word_dash_2 | talent-congress |  
+| bip_39_word_dash_3 | talent-congress-avocado |  
+| bip_39_word_dash_4 | talent-congress-avocado-lift |  
+| bip_39_word_dash_5 | talent-congress-avocado-lift-dad |  
+| bip_39_word_dash_6 | talent-congress-avocado-lift-dad-popular |  
+| bip_39_word_dash_7 | talent-congress-avocado-lift-dad-popular-furnace |  
+| bip_39_word_dash_8 | talent-congress-avocado-lift-dad-popular-furnace-monkey |  
+| bip_39_word_dash_9 | talent-congress-avocado-lift-dad-popular-furnace-monkey-common |  
 | bip_39_word_new_br_1 | talent |  
 | bip_39_word_new_br_10 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest |  
 | bip_39_word_new_br_11 | talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest<br>whale |  
@@ -147,6 +159,18 @@ common |
 | bip_39_word_space_7 | talent congress avocado lift dad popular furnace |  
 | bip_39_word_space_8 | talent congress avocado lift dad popular furnace monkey |  
 | bip_39_word_space_9 | talent congress avocado lift dad popular furnace monkey common |  
+| bip_39_word_underscore_1 | talent |  
+| bip_39_word_underscore_10 | talent_congress_avocado_lift_dad_popular_furnace_monkey_common_nest |  
+| bip_39_word_underscore_11 | talent_congress_avocado_lift_dad_popular_furnace_monkey_common_nest_whale |  
+| bip_39_word_underscore_12 | talent_congress_avocado_lift_dad_popular_furnace_monkey_common_nest_whale_amazing |  
+| bip_39_word_underscore_2 | talent_congress |  
+| bip_39_word_underscore_3 | talent_congress_avocado |  
+| bip_39_word_underscore_4 | talent_congress_avocado_lift |  
+| bip_39_word_underscore_5 | talent_congress_avocado_lift_dad |  
+| bip_39_word_underscore_6 | talent_congress_avocado_lift_dad_popular |  
+| bip_39_word_underscore_7 | talent_congress_avocado_lift_dad_popular_furnace |  
+| bip_39_word_underscore_8 | talent_congress_avocado_lift_dad_popular_furnace_monkey |  
+| bip_39_word_underscore_9 | talent_congress_avocado_lift_dad_popular_furnace_monkey_common |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

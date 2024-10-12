@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | little |  
+| bip_39_word_dash_10 | little-pudding-divide-divert-grit-practice-wrestle-harbor-ring-hood |  
+| bip_39_word_dash_11 | little-pudding-divide-divert-grit-practice-wrestle-harbor-ring-hood-inch |  
+| bip_39_word_dash_12 | little-pudding-divide-divert-grit-practice-wrestle-harbor-ring-hood-inch-artist |  
+| bip_39_word_dash_2 | little-pudding |  
+| bip_39_word_dash_3 | little-pudding-divide |  
+| bip_39_word_dash_4 | little-pudding-divide-divert |  
+| bip_39_word_dash_5 | little-pudding-divide-divert-grit |  
+| bip_39_word_dash_6 | little-pudding-divide-divert-grit-practice |  
+| bip_39_word_dash_7 | little-pudding-divide-divert-grit-practice-wrestle |  
+| bip_39_word_dash_8 | little-pudding-divide-divert-grit-practice-wrestle-harbor |  
+| bip_39_word_dash_9 | little-pudding-divide-divert-grit-practice-wrestle-harbor-ring |  
 | bip_39_word_new_br_1 | little |  
 | bip_39_word_new_br_10 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor<br>ring<br>hood |  
 | bip_39_word_new_br_11 | little<br>pudding<br>divide<br>divert<br>grit<br>practice<br>wrestle<br>harbor<br>ring<br>hood<br>inch |  
@@ -147,6 +159,18 @@ ring |
 | bip_39_word_space_7 | little pudding divide divert grit practice wrestle |  
 | bip_39_word_space_8 | little pudding divide divert grit practice wrestle harbor |  
 | bip_39_word_space_9 | little pudding divide divert grit practice wrestle harbor ring |  
+| bip_39_word_underscore_1 | little |  
+| bip_39_word_underscore_10 | little_pudding_divide_divert_grit_practice_wrestle_harbor_ring_hood |  
+| bip_39_word_underscore_11 | little_pudding_divide_divert_grit_practice_wrestle_harbor_ring_hood_inch |  
+| bip_39_word_underscore_12 | little_pudding_divide_divert_grit_practice_wrestle_harbor_ring_hood_inch_artist |  
+| bip_39_word_underscore_2 | little_pudding |  
+| bip_39_word_underscore_3 | little_pudding_divide |  
+| bip_39_word_underscore_4 | little_pudding_divide_divert |  
+| bip_39_word_underscore_5 | little_pudding_divide_divert_grit |  
+| bip_39_word_underscore_6 | little_pudding_divide_divert_grit_practice |  
+| bip_39_word_underscore_7 | little_pudding_divide_divert_grit_practice_wrestle |  
+| bip_39_word_underscore_8 | little_pudding_divide_divert_grit_practice_wrestle_harbor |  
+| bip_39_word_underscore_9 | little_pudding_divide_divert_grit_practice_wrestle_harbor_ring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

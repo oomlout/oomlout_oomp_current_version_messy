@@ -1,3 +1,15 @@
+bip_39_word_dash_1: absent
+bip_39_word_dash_10: absent-agent-mouse-net-island-hover-cricket-tornado-expect-add
+bip_39_word_dash_11: absent-agent-mouse-net-island-hover-cricket-tornado-expect-add-melody
+bip_39_word_dash_12: absent-agent-mouse-net-island-hover-cricket-tornado-expect-add-melody-about
+bip_39_word_dash_2: absent-agent
+bip_39_word_dash_3: absent-agent-mouse
+bip_39_word_dash_4: absent-agent-mouse-net
+bip_39_word_dash_5: absent-agent-mouse-net-island
+bip_39_word_dash_6: absent-agent-mouse-net-island-hover
+bip_39_word_dash_7: absent-agent-mouse-net-island-hover-cricket
+bip_39_word_dash_8: absent-agent-mouse-net-island-hover-cricket-tornado
+bip_39_word_dash_9: absent-agent-mouse-net-island-hover-cricket-tornado-expect
 bip_39_word_new_br_1: absent
 bip_39_word_new_br_10: absent<br>agent<br>mouse<br>net<br>island<br>hover<br>cricket<br>tornado<br>expect<br>add
 bip_39_word_new_br_11: absent<br>agent<br>mouse<br>net<br>island<br>hover<br>cricket<br>tornado<br>expect<br>add<br>melody
@@ -193,6 +205,18 @@ bip_39_word_space_6: absent agent mouse net island hover
 bip_39_word_space_7: absent agent mouse net island hover cricket
 bip_39_word_space_8: absent agent mouse net island hover cricket tornado
 bip_39_word_space_9: absent agent mouse net island hover cricket tornado expect
+bip_39_word_underscore_1: absent
+bip_39_word_underscore_10: absent_agent_mouse_net_island_hover_cricket_tornado_expect_add
+bip_39_word_underscore_11: absent_agent_mouse_net_island_hover_cricket_tornado_expect_add_melody
+bip_39_word_underscore_12: absent_agent_mouse_net_island_hover_cricket_tornado_expect_add_melody_about
+bip_39_word_underscore_2: absent_agent
+bip_39_word_underscore_3: absent_agent_mouse
+bip_39_word_underscore_4: absent_agent_mouse_net
+bip_39_word_underscore_5: absent_agent_mouse_net_island
+bip_39_word_underscore_6: absent_agent_mouse_net_island_hover
+bip_39_word_underscore_7: absent_agent_mouse_net_island_hover_cricket
+bip_39_word_underscore_8: absent_agent_mouse_net_island_hover_cricket_tornado
+bip_39_word_underscore_9: absent_agent_mouse_net_island_hover_cricket_tornado_expect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: effort
+bip_39_word_dash_10: effort-police-good-country-degree-arrive-divide-knife-require-collect
+bip_39_word_dash_11: effort-police-good-country-degree-arrive-divide-knife-require-collect-uncover
+bip_39_word_dash_12: effort-police-good-country-degree-arrive-divide-knife-require-collect-uncover-absent
+bip_39_word_dash_2: effort-police
+bip_39_word_dash_3: effort-police-good
+bip_39_word_dash_4: effort-police-good-country
+bip_39_word_dash_5: effort-police-good-country-degree
+bip_39_word_dash_6: effort-police-good-country-degree-arrive
+bip_39_word_dash_7: effort-police-good-country-degree-arrive-divide
+bip_39_word_dash_8: effort-police-good-country-degree-arrive-divide-knife
+bip_39_word_dash_9: effort-police-good-country-degree-arrive-divide-knife-require
 bip_39_word_new_br_1: effort
 bip_39_word_new_br_10: effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife<br>require<br>collect
 bip_39_word_new_br_11: effort<br>police<br>good<br>country<br>degree<br>arrive<br>divide<br>knife<br>require<br>collect<br>uncover
@@ -194,6 +206,18 @@ bip_39_word_space_6: effort police good country degree arrive
 bip_39_word_space_7: effort police good country degree arrive divide
 bip_39_word_space_8: effort police good country degree arrive divide knife
 bip_39_word_space_9: effort police good country degree arrive divide knife require
+bip_39_word_underscore_1: effort
+bip_39_word_underscore_10: effort_police_good_country_degree_arrive_divide_knife_require_collect
+bip_39_word_underscore_11: effort_police_good_country_degree_arrive_divide_knife_require_collect_uncover
+bip_39_word_underscore_12: effort_police_good_country_degree_arrive_divide_knife_require_collect_uncover_absent
+bip_39_word_underscore_2: effort_police
+bip_39_word_underscore_3: effort_police_good
+bip_39_word_underscore_4: effort_police_good_country
+bip_39_word_underscore_5: effort_police_good_country_degree
+bip_39_word_underscore_6: effort_police_good_country_degree_arrive
+bip_39_word_underscore_7: effort_police_good_country_degree_arrive_divide
+bip_39_word_underscore_8: effort_police_good_country_degree_arrive_divide_knife
+bip_39_word_underscore_9: effort_police_good_country_degree_arrive_divide_knife_require
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

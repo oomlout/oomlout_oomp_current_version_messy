@@ -1,3 +1,15 @@
+bip_39_word_dash_1: window
+bip_39_word_dash_10: window-occur-hour-network-bargain-bounce-key-common-sick-grain
+bip_39_word_dash_11: window-occur-hour-network-bargain-bounce-key-common-sick-grain-grant
+bip_39_word_dash_12: window-occur-hour-network-bargain-bounce-key-common-sick-grain-grant-adjust
+bip_39_word_dash_2: window-occur
+bip_39_word_dash_3: window-occur-hour
+bip_39_word_dash_4: window-occur-hour-network
+bip_39_word_dash_5: window-occur-hour-network-bargain
+bip_39_word_dash_6: window-occur-hour-network-bargain-bounce
+bip_39_word_dash_7: window-occur-hour-network-bargain-bounce-key
+bip_39_word_dash_8: window-occur-hour-network-bargain-bounce-key-common
+bip_39_word_dash_9: window-occur-hour-network-bargain-bounce-key-common-sick
 bip_39_word_new_br_1: window
 bip_39_word_new_br_10: window<br>occur<br>hour<br>network<br>bargain<br>bounce<br>key<br>common<br>sick<br>grain
 bip_39_word_new_br_11: window<br>occur<br>hour<br>network<br>bargain<br>bounce<br>key<br>common<br>sick<br>grain<br>grant
@@ -193,6 +205,18 @@ bip_39_word_space_6: window occur hour network bargain bounce
 bip_39_word_space_7: window occur hour network bargain bounce key
 bip_39_word_space_8: window occur hour network bargain bounce key common
 bip_39_word_space_9: window occur hour network bargain bounce key common sick
+bip_39_word_underscore_1: window
+bip_39_word_underscore_10: window_occur_hour_network_bargain_bounce_key_common_sick_grain
+bip_39_word_underscore_11: window_occur_hour_network_bargain_bounce_key_common_sick_grain_grant
+bip_39_word_underscore_12: window_occur_hour_network_bargain_bounce_key_common_sick_grain_grant_adjust
+bip_39_word_underscore_2: window_occur
+bip_39_word_underscore_3: window_occur_hour
+bip_39_word_underscore_4: window_occur_hour_network
+bip_39_word_underscore_5: window_occur_hour_network_bargain
+bip_39_word_underscore_6: window_occur_hour_network_bargain_bounce
+bip_39_word_underscore_7: window_occur_hour_network_bargain_bounce_key
+bip_39_word_underscore_8: window_occur_hour_network_bargain_bounce_key_common
+bip_39_word_underscore_9: window_occur_hour_network_bargain_bounce_key_common_sick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

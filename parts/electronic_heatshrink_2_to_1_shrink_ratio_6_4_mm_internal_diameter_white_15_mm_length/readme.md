@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | size |  
+| bip_39_word_dash_10 | size-short-step-hover-banner-zoo-welcome-fork-stand-color |  
+| bip_39_word_dash_11 | size-short-step-hover-banner-zoo-welcome-fork-stand-color-special |  
+| bip_39_word_dash_12 | size-short-step-hover-banner-zoo-welcome-fork-stand-color-special-arctic |  
+| bip_39_word_dash_2 | size-short |  
+| bip_39_word_dash_3 | size-short-step |  
+| bip_39_word_dash_4 | size-short-step-hover |  
+| bip_39_word_dash_5 | size-short-step-hover-banner |  
+| bip_39_word_dash_6 | size-short-step-hover-banner-zoo |  
+| bip_39_word_dash_7 | size-short-step-hover-banner-zoo-welcome |  
+| bip_39_word_dash_8 | size-short-step-hover-banner-zoo-welcome-fork |  
+| bip_39_word_dash_9 | size-short-step-hover-banner-zoo-welcome-fork-stand |  
 | bip_39_word_new_br_1 | size |  
 | bip_39_word_new_br_10 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork<br>stand<br>color |  
 | bip_39_word_new_br_11 | size<br>short<br>step<br>hover<br>banner<br>zoo<br>welcome<br>fork<br>stand<br>color<br>special |  
@@ -147,6 +159,18 @@ stand |
 | bip_39_word_space_7 | size short step hover banner zoo welcome |  
 | bip_39_word_space_8 | size short step hover banner zoo welcome fork |  
 | bip_39_word_space_9 | size short step hover banner zoo welcome fork stand |  
+| bip_39_word_underscore_1 | size |  
+| bip_39_word_underscore_10 | size_short_step_hover_banner_zoo_welcome_fork_stand_color |  
+| bip_39_word_underscore_11 | size_short_step_hover_banner_zoo_welcome_fork_stand_color_special |  
+| bip_39_word_underscore_12 | size_short_step_hover_banner_zoo_welcome_fork_stand_color_special_arctic |  
+| bip_39_word_underscore_2 | size_short |  
+| bip_39_word_underscore_3 | size_short_step |  
+| bip_39_word_underscore_4 | size_short_step_hover |  
+| bip_39_word_underscore_5 | size_short_step_hover_banner |  
+| bip_39_word_underscore_6 | size_short_step_hover_banner_zoo |  
+| bip_39_word_underscore_7 | size_short_step_hover_banner_zoo_welcome |  
+| bip_39_word_underscore_8 | size_short_step_hover_banner_zoo_welcome_fork |  
+| bip_39_word_underscore_9 | size_short_step_hover_banner_zoo_welcome_fork_stand |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sheriff |  
+| bip_39_word_dash_10 | sheriff-letter-aspect-scale-maid-box-cactus-fire-rocket-top |  
+| bip_39_word_dash_11 | sheriff-letter-aspect-scale-maid-box-cactus-fire-rocket-top-window |  
+| bip_39_word_dash_12 | sheriff-letter-aspect-scale-maid-box-cactus-fire-rocket-top-window-adapt |  
+| bip_39_word_dash_2 | sheriff-letter |  
+| bip_39_word_dash_3 | sheriff-letter-aspect |  
+| bip_39_word_dash_4 | sheriff-letter-aspect-scale |  
+| bip_39_word_dash_5 | sheriff-letter-aspect-scale-maid |  
+| bip_39_word_dash_6 | sheriff-letter-aspect-scale-maid-box |  
+| bip_39_word_dash_7 | sheriff-letter-aspect-scale-maid-box-cactus |  
+| bip_39_word_dash_8 | sheriff-letter-aspect-scale-maid-box-cactus-fire |  
+| bip_39_word_dash_9 | sheriff-letter-aspect-scale-maid-box-cactus-fire-rocket |  
 | bip_39_word_new_br_1 | sheriff |  
 | bip_39_word_new_br_10 | sheriff<br>letter<br>aspect<br>scale<br>maid<br>box<br>cactus<br>fire<br>rocket<br>top |  
 | bip_39_word_new_br_11 | sheriff<br>letter<br>aspect<br>scale<br>maid<br>box<br>cactus<br>fire<br>rocket<br>top<br>window |  
@@ -147,6 +159,18 @@ rocket |
 | bip_39_word_space_7 | sheriff letter aspect scale maid box cactus |  
 | bip_39_word_space_8 | sheriff letter aspect scale maid box cactus fire |  
 | bip_39_word_space_9 | sheriff letter aspect scale maid box cactus fire rocket |  
+| bip_39_word_underscore_1 | sheriff |  
+| bip_39_word_underscore_10 | sheriff_letter_aspect_scale_maid_box_cactus_fire_rocket_top |  
+| bip_39_word_underscore_11 | sheriff_letter_aspect_scale_maid_box_cactus_fire_rocket_top_window |  
+| bip_39_word_underscore_12 | sheriff_letter_aspect_scale_maid_box_cactus_fire_rocket_top_window_adapt |  
+| bip_39_word_underscore_2 | sheriff_letter |  
+| bip_39_word_underscore_3 | sheriff_letter_aspect |  
+| bip_39_word_underscore_4 | sheriff_letter_aspect_scale |  
+| bip_39_word_underscore_5 | sheriff_letter_aspect_scale_maid |  
+| bip_39_word_underscore_6 | sheriff_letter_aspect_scale_maid_box |  
+| bip_39_word_underscore_7 | sheriff_letter_aspect_scale_maid_box_cactus |  
+| bip_39_word_underscore_8 | sheriff_letter_aspect_scale_maid_box_cactus_fire |  
+| bip_39_word_underscore_9 | sheriff_letter_aspect_scale_maid_box_cactus_fire_rocket |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

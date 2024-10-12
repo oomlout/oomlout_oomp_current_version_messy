@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | abuse |  
+| bip_39_word_dash_10 | abuse-wait-bachelor-olympic-powder-certain-language-wink-stamp-oval |  
+| bip_39_word_dash_11 | abuse-wait-bachelor-olympic-powder-certain-language-wink-stamp-oval-wash |  
+| bip_39_word_dash_12 | abuse-wait-bachelor-olympic-powder-certain-language-wink-stamp-oval-wash-auto |  
+| bip_39_word_dash_2 | abuse-wait |  
+| bip_39_word_dash_3 | abuse-wait-bachelor |  
+| bip_39_word_dash_4 | abuse-wait-bachelor-olympic |  
+| bip_39_word_dash_5 | abuse-wait-bachelor-olympic-powder |  
+| bip_39_word_dash_6 | abuse-wait-bachelor-olympic-powder-certain |  
+| bip_39_word_dash_7 | abuse-wait-bachelor-olympic-powder-certain-language |  
+| bip_39_word_dash_8 | abuse-wait-bachelor-olympic-powder-certain-language-wink |  
+| bip_39_word_dash_9 | abuse-wait-bachelor-olympic-powder-certain-language-wink-stamp |  
 | bip_39_word_new_br_1 | abuse |  
 | bip_39_word_new_br_10 | abuse<br>wait<br>bachelor<br>olympic<br>powder<br>certain<br>language<br>wink<br>stamp<br>oval |  
 | bip_39_word_new_br_11 | abuse<br>wait<br>bachelor<br>olympic<br>powder<br>certain<br>language<br>wink<br>stamp<br>oval<br>wash |  
@@ -147,6 +159,18 @@ stamp |
 | bip_39_word_space_7 | abuse wait bachelor olympic powder certain language |  
 | bip_39_word_space_8 | abuse wait bachelor olympic powder certain language wink |  
 | bip_39_word_space_9 | abuse wait bachelor olympic powder certain language wink stamp |  
+| bip_39_word_underscore_1 | abuse |  
+| bip_39_word_underscore_10 | abuse_wait_bachelor_olympic_powder_certain_language_wink_stamp_oval |  
+| bip_39_word_underscore_11 | abuse_wait_bachelor_olympic_powder_certain_language_wink_stamp_oval_wash |  
+| bip_39_word_underscore_12 | abuse_wait_bachelor_olympic_powder_certain_language_wink_stamp_oval_wash_auto |  
+| bip_39_word_underscore_2 | abuse_wait |  
+| bip_39_word_underscore_3 | abuse_wait_bachelor |  
+| bip_39_word_underscore_4 | abuse_wait_bachelor_olympic |  
+| bip_39_word_underscore_5 | abuse_wait_bachelor_olympic_powder |  
+| bip_39_word_underscore_6 | abuse_wait_bachelor_olympic_powder_certain |  
+| bip_39_word_underscore_7 | abuse_wait_bachelor_olympic_powder_certain_language |  
+| bip_39_word_underscore_8 | abuse_wait_bachelor_olympic_powder_certain_language_wink |  
+| bip_39_word_underscore_9 | abuse_wait_bachelor_olympic_powder_certain_language_wink_stamp |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

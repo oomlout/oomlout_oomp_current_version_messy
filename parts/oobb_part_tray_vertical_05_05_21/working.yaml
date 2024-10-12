@@ -1,3 +1,15 @@
+bip_39_word_dash_1: weapon
+bip_39_word_dash_10: weapon-another-stamp-method-antique-genuine-cushion-dinosaur-hold-nothing
+bip_39_word_dash_11: weapon-another-stamp-method-antique-genuine-cushion-dinosaur-hold-nothing-mother
+bip_39_word_dash_12: weapon-another-stamp-method-antique-genuine-cushion-dinosaur-hold-nothing-mother-artist
+bip_39_word_dash_2: weapon-another
+bip_39_word_dash_3: weapon-another-stamp
+bip_39_word_dash_4: weapon-another-stamp-method
+bip_39_word_dash_5: weapon-another-stamp-method-antique
+bip_39_word_dash_6: weapon-another-stamp-method-antique-genuine
+bip_39_word_dash_7: weapon-another-stamp-method-antique-genuine-cushion
+bip_39_word_dash_8: weapon-another-stamp-method-antique-genuine-cushion-dinosaur
+bip_39_word_dash_9: weapon-another-stamp-method-antique-genuine-cushion-dinosaur-hold
 bip_39_word_new_br_1: weapon
 bip_39_word_new_br_10: weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur<br>hold<br>nothing
 bip_39_word_new_br_11: weapon<br>another<br>stamp<br>method<br>antique<br>genuine<br>cushion<br>dinosaur<br>hold<br>nothing<br>mother
@@ -195,6 +207,18 @@ bip_39_word_space_7: weapon another stamp method antique genuine cushion
 bip_39_word_space_8: weapon another stamp method antique genuine cushion dinosaur
 bip_39_word_space_9: weapon another stamp method antique genuine cushion dinosaur
   hold
+bip_39_word_underscore_1: weapon
+bip_39_word_underscore_10: weapon_another_stamp_method_antique_genuine_cushion_dinosaur_hold_nothing
+bip_39_word_underscore_11: weapon_another_stamp_method_antique_genuine_cushion_dinosaur_hold_nothing_mother
+bip_39_word_underscore_12: weapon_another_stamp_method_antique_genuine_cushion_dinosaur_hold_nothing_mother_artist
+bip_39_word_underscore_2: weapon_another
+bip_39_word_underscore_3: weapon_another_stamp
+bip_39_word_underscore_4: weapon_another_stamp_method
+bip_39_word_underscore_5: weapon_another_stamp_method_antique
+bip_39_word_underscore_6: weapon_another_stamp_method_antique_genuine
+bip_39_word_underscore_7: weapon_another_stamp_method_antique_genuine_cushion
+bip_39_word_underscore_8: weapon_another_stamp_method_antique_genuine_cushion_dinosaur
+bip_39_word_underscore_9: weapon_another_stamp_method_antique_genuine_cushion_dinosaur_hold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ill |  
+| bip_39_word_dash_10 | ill-brain-dizzy-depth-gym-polar-ticket-merit-tree-icon |  
+| bip_39_word_dash_11 | ill-brain-dizzy-depth-gym-polar-ticket-merit-tree-icon-skirt |  
+| bip_39_word_dash_12 | ill-brain-dizzy-depth-gym-polar-ticket-merit-tree-icon-skirt-actual |  
+| bip_39_word_dash_2 | ill-brain |  
+| bip_39_word_dash_3 | ill-brain-dizzy |  
+| bip_39_word_dash_4 | ill-brain-dizzy-depth |  
+| bip_39_word_dash_5 | ill-brain-dizzy-depth-gym |  
+| bip_39_word_dash_6 | ill-brain-dizzy-depth-gym-polar |  
+| bip_39_word_dash_7 | ill-brain-dizzy-depth-gym-polar-ticket |  
+| bip_39_word_dash_8 | ill-brain-dizzy-depth-gym-polar-ticket-merit |  
+| bip_39_word_dash_9 | ill-brain-dizzy-depth-gym-polar-ticket-merit-tree |  
 | bip_39_word_new_br_1 | ill |  
 | bip_39_word_new_br_10 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon |  
 | bip_39_word_new_br_11 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon<br>skirt |  
@@ -147,6 +159,18 @@ tree |
 | bip_39_word_space_7 | ill brain dizzy depth gym polar ticket |  
 | bip_39_word_space_8 | ill brain dizzy depth gym polar ticket merit |  
 | bip_39_word_space_9 | ill brain dizzy depth gym polar ticket merit tree |  
+| bip_39_word_underscore_1 | ill |  
+| bip_39_word_underscore_10 | ill_brain_dizzy_depth_gym_polar_ticket_merit_tree_icon |  
+| bip_39_word_underscore_11 | ill_brain_dizzy_depth_gym_polar_ticket_merit_tree_icon_skirt |  
+| bip_39_word_underscore_12 | ill_brain_dizzy_depth_gym_polar_ticket_merit_tree_icon_skirt_actual |  
+| bip_39_word_underscore_2 | ill_brain |  
+| bip_39_word_underscore_3 | ill_brain_dizzy |  
+| bip_39_word_underscore_4 | ill_brain_dizzy_depth |  
+| bip_39_word_underscore_5 | ill_brain_dizzy_depth_gym |  
+| bip_39_word_underscore_6 | ill_brain_dizzy_depth_gym_polar |  
+| bip_39_word_underscore_7 | ill_brain_dizzy_depth_gym_polar_ticket |  
+| bip_39_word_underscore_8 | ill_brain_dizzy_depth_gym_polar_ticket_merit |  
+| bip_39_word_underscore_9 | ill_brain_dizzy_depth_gym_polar_ticket_merit_tree |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: police
+bip_39_word_dash_10: police-attitude-diary-language-pink-brisk-morning-globe-cloud-clip
+bip_39_word_dash_11: police-attitude-diary-language-pink-brisk-morning-globe-cloud-clip-valve
+bip_39_word_dash_12: police-attitude-diary-language-pink-brisk-morning-globe-cloud-clip-valve-absorb
+bip_39_word_dash_2: police-attitude
+bip_39_word_dash_3: police-attitude-diary
+bip_39_word_dash_4: police-attitude-diary-language
+bip_39_word_dash_5: police-attitude-diary-language-pink
+bip_39_word_dash_6: police-attitude-diary-language-pink-brisk
+bip_39_word_dash_7: police-attitude-diary-language-pink-brisk-morning
+bip_39_word_dash_8: police-attitude-diary-language-pink-brisk-morning-globe
+bip_39_word_dash_9: police-attitude-diary-language-pink-brisk-morning-globe-cloud
 bip_39_word_new_br_1: police
 bip_39_word_new_br_10: police<br>attitude<br>diary<br>language<br>pink<br>brisk<br>morning<br>globe<br>cloud<br>clip
 bip_39_word_new_br_11: police<br>attitude<br>diary<br>language<br>pink<br>brisk<br>morning<br>globe<br>cloud<br>clip<br>valve
@@ -194,6 +206,18 @@ bip_39_word_space_6: police attitude diary language pink brisk
 bip_39_word_space_7: police attitude diary language pink brisk morning
 bip_39_word_space_8: police attitude diary language pink brisk morning globe
 bip_39_word_space_9: police attitude diary language pink brisk morning globe cloud
+bip_39_word_underscore_1: police
+bip_39_word_underscore_10: police_attitude_diary_language_pink_brisk_morning_globe_cloud_clip
+bip_39_word_underscore_11: police_attitude_diary_language_pink_brisk_morning_globe_cloud_clip_valve
+bip_39_word_underscore_12: police_attitude_diary_language_pink_brisk_morning_globe_cloud_clip_valve_absorb
+bip_39_word_underscore_2: police_attitude
+bip_39_word_underscore_3: police_attitude_diary
+bip_39_word_underscore_4: police_attitude_diary_language
+bip_39_word_underscore_5: police_attitude_diary_language_pink
+bip_39_word_underscore_6: police_attitude_diary_language_pink_brisk
+bip_39_word_underscore_7: police_attitude_diary_language_pink_brisk_morning
+bip_39_word_underscore_8: police_attitude_diary_language_pink_brisk_morning_globe
+bip_39_word_underscore_9: police_attitude_diary_language_pink_brisk_morning_globe_cloud
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

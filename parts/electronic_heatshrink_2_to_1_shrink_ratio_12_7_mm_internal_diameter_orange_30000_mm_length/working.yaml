@@ -1,3 +1,15 @@
+bip_39_word_dash_1: supply
+bip_39_word_dash_10: supply-tuna-panic-youth-fan-leg-vicious-shaft-journey-matter
+bip_39_word_dash_11: supply-tuna-panic-youth-fan-leg-vicious-shaft-journey-matter-coast
+bip_39_word_dash_12: supply-tuna-panic-youth-fan-leg-vicious-shaft-journey-matter-coast-album
+bip_39_word_dash_2: supply-tuna
+bip_39_word_dash_3: supply-tuna-panic
+bip_39_word_dash_4: supply-tuna-panic-youth
+bip_39_word_dash_5: supply-tuna-panic-youth-fan
+bip_39_word_dash_6: supply-tuna-panic-youth-fan-leg
+bip_39_word_dash_7: supply-tuna-panic-youth-fan-leg-vicious
+bip_39_word_dash_8: supply-tuna-panic-youth-fan-leg-vicious-shaft
+bip_39_word_dash_9: supply-tuna-panic-youth-fan-leg-vicious-shaft-journey
 bip_39_word_new_br_1: supply
 bip_39_word_new_br_10: supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft<br>journey<br>matter
 bip_39_word_new_br_11: supply<br>tuna<br>panic<br>youth<br>fan<br>leg<br>vicious<br>shaft<br>journey<br>matter<br>coast
@@ -193,6 +205,18 @@ bip_39_word_space_6: supply tuna panic youth fan leg
 bip_39_word_space_7: supply tuna panic youth fan leg vicious
 bip_39_word_space_8: supply tuna panic youth fan leg vicious shaft
 bip_39_word_space_9: supply tuna panic youth fan leg vicious shaft journey
+bip_39_word_underscore_1: supply
+bip_39_word_underscore_10: supply_tuna_panic_youth_fan_leg_vicious_shaft_journey_matter
+bip_39_word_underscore_11: supply_tuna_panic_youth_fan_leg_vicious_shaft_journey_matter_coast
+bip_39_word_underscore_12: supply_tuna_panic_youth_fan_leg_vicious_shaft_journey_matter_coast_album
+bip_39_word_underscore_2: supply_tuna
+bip_39_word_underscore_3: supply_tuna_panic
+bip_39_word_underscore_4: supply_tuna_panic_youth
+bip_39_word_underscore_5: supply_tuna_panic_youth_fan
+bip_39_word_underscore_6: supply_tuna_panic_youth_fan_leg
+bip_39_word_underscore_7: supply_tuna_panic_youth_fan_leg_vicious
+bip_39_word_underscore_8: supply_tuna_panic_youth_fan_leg_vicious_shaft
+bip_39_word_underscore_9: supply_tuna_panic_youth_fan_leg_vicious_shaft_journey
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

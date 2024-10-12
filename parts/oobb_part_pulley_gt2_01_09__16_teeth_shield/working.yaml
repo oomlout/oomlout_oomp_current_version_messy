@@ -1,3 +1,15 @@
+bip_39_word_dash_1: runway
+bip_39_word_dash_10: runway-humor-above-pistol-inside-spoil-solve-govern-armor-keep
+bip_39_word_dash_11: runway-humor-above-pistol-inside-spoil-solve-govern-armor-keep-render
+bip_39_word_dash_12: runway-humor-above-pistol-inside-spoil-solve-govern-armor-keep-render-above
+bip_39_word_dash_2: runway-humor
+bip_39_word_dash_3: runway-humor-above
+bip_39_word_dash_4: runway-humor-above-pistol
+bip_39_word_dash_5: runway-humor-above-pistol-inside
+bip_39_word_dash_6: runway-humor-above-pistol-inside-spoil
+bip_39_word_dash_7: runway-humor-above-pistol-inside-spoil-solve
+bip_39_word_dash_8: runway-humor-above-pistol-inside-spoil-solve-govern
+bip_39_word_dash_9: runway-humor-above-pistol-inside-spoil-solve-govern-armor
 bip_39_word_new_br_1: runway
 bip_39_word_new_br_10: runway<br>humor<br>above<br>pistol<br>inside<br>spoil<br>solve<br>govern<br>armor<br>keep
 bip_39_word_new_br_11: runway<br>humor<br>above<br>pistol<br>inside<br>spoil<br>solve<br>govern<br>armor<br>keep<br>render
@@ -193,6 +205,18 @@ bip_39_word_space_6: runway humor above pistol inside spoil
 bip_39_word_space_7: runway humor above pistol inside spoil solve
 bip_39_word_space_8: runway humor above pistol inside spoil solve govern
 bip_39_word_space_9: runway humor above pistol inside spoil solve govern armor
+bip_39_word_underscore_1: runway
+bip_39_word_underscore_10: runway_humor_above_pistol_inside_spoil_solve_govern_armor_keep
+bip_39_word_underscore_11: runway_humor_above_pistol_inside_spoil_solve_govern_armor_keep_render
+bip_39_word_underscore_12: runway_humor_above_pistol_inside_spoil_solve_govern_armor_keep_render_above
+bip_39_word_underscore_2: runway_humor
+bip_39_word_underscore_3: runway_humor_above
+bip_39_word_underscore_4: runway_humor_above_pistol
+bip_39_word_underscore_5: runway_humor_above_pistol_inside
+bip_39_word_underscore_6: runway_humor_above_pistol_inside_spoil
+bip_39_word_underscore_7: runway_humor_above_pistol_inside_spoil_solve
+bip_39_word_underscore_8: runway_humor_above_pistol_inside_spoil_solve_govern
+bip_39_word_underscore_9: runway_humor_above_pistol_inside_spoil_solve_govern_armor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

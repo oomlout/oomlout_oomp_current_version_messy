@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | recall |  
+| bip_39_word_dash_10 | recall-sibling-extra-party-million-camp-olive-have-world-title |  
+| bip_39_word_dash_11 | recall-sibling-extra-party-million-camp-olive-have-world-title-virtual |  
+| bip_39_word_dash_12 | recall-sibling-extra-party-million-camp-olive-have-world-title-virtual-actual |  
+| bip_39_word_dash_2 | recall-sibling |  
+| bip_39_word_dash_3 | recall-sibling-extra |  
+| bip_39_word_dash_4 | recall-sibling-extra-party |  
+| bip_39_word_dash_5 | recall-sibling-extra-party-million |  
+| bip_39_word_dash_6 | recall-sibling-extra-party-million-camp |  
+| bip_39_word_dash_7 | recall-sibling-extra-party-million-camp-olive |  
+| bip_39_word_dash_8 | recall-sibling-extra-party-million-camp-olive-have |  
+| bip_39_word_dash_9 | recall-sibling-extra-party-million-camp-olive-have-world |  
 | bip_39_word_new_br_1 | recall |  
 | bip_39_word_new_br_10 | recall<br>sibling<br>extra<br>party<br>million<br>camp<br>olive<br>have<br>world<br>title |  
 | bip_39_word_new_br_11 | recall<br>sibling<br>extra<br>party<br>million<br>camp<br>olive<br>have<br>world<br>title<br>virtual |  
@@ -147,6 +159,18 @@ world |
 | bip_39_word_space_7 | recall sibling extra party million camp olive |  
 | bip_39_word_space_8 | recall sibling extra party million camp olive have |  
 | bip_39_word_space_9 | recall sibling extra party million camp olive have world |  
+| bip_39_word_underscore_1 | recall |  
+| bip_39_word_underscore_10 | recall_sibling_extra_party_million_camp_olive_have_world_title |  
+| bip_39_word_underscore_11 | recall_sibling_extra_party_million_camp_olive_have_world_title_virtual |  
+| bip_39_word_underscore_12 | recall_sibling_extra_party_million_camp_olive_have_world_title_virtual_actual |  
+| bip_39_word_underscore_2 | recall_sibling |  
+| bip_39_word_underscore_3 | recall_sibling_extra |  
+| bip_39_word_underscore_4 | recall_sibling_extra_party |  
+| bip_39_word_underscore_5 | recall_sibling_extra_party_million |  
+| bip_39_word_underscore_6 | recall_sibling_extra_party_million_camp |  
+| bip_39_word_underscore_7 | recall_sibling_extra_party_million_camp_olive |  
+| bip_39_word_underscore_8 | recall_sibling_extra_party_million_camp_olive_have |  
+| bip_39_word_underscore_9 | recall_sibling_extra_party_million_camp_olive_have_world |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

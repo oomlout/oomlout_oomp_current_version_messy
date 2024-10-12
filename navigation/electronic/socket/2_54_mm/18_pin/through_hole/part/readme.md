@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dilemma |  
+| bip_39_word_dash_10 | dilemma-pizza-flip-situate-talent-more-tank-judge-stamp-learn |  
+| bip_39_word_dash_11 | dilemma-pizza-flip-situate-talent-more-tank-judge-stamp-learn-embrace |  
+| bip_39_word_dash_12 | dilemma-pizza-flip-situate-talent-more-tank-judge-stamp-learn-embrace-able |  
+| bip_39_word_dash_2 | dilemma-pizza |  
+| bip_39_word_dash_3 | dilemma-pizza-flip |  
+| bip_39_word_dash_4 | dilemma-pizza-flip-situate |  
+| bip_39_word_dash_5 | dilemma-pizza-flip-situate-talent |  
+| bip_39_word_dash_6 | dilemma-pizza-flip-situate-talent-more |  
+| bip_39_word_dash_7 | dilemma-pizza-flip-situate-talent-more-tank |  
+| bip_39_word_dash_8 | dilemma-pizza-flip-situate-talent-more-tank-judge |  
+| bip_39_word_dash_9 | dilemma-pizza-flip-situate-talent-more-tank-judge-stamp |  
 | bip_39_word_new_br_1 | dilemma |  
 | bip_39_word_new_br_10 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn |  
 | bip_39_word_new_br_11 | dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn<br>embrace |  
@@ -147,6 +159,18 @@ stamp |
 | bip_39_word_space_7 | dilemma pizza flip situate talent more tank |  
 | bip_39_word_space_8 | dilemma pizza flip situate talent more tank judge |  
 | bip_39_word_space_9 | dilemma pizza flip situate talent more tank judge stamp |  
+| bip_39_word_underscore_1 | dilemma |  
+| bip_39_word_underscore_10 | dilemma_pizza_flip_situate_talent_more_tank_judge_stamp_learn |  
+| bip_39_word_underscore_11 | dilemma_pizza_flip_situate_talent_more_tank_judge_stamp_learn_embrace |  
+| bip_39_word_underscore_12 | dilemma_pizza_flip_situate_talent_more_tank_judge_stamp_learn_embrace_able |  
+| bip_39_word_underscore_2 | dilemma_pizza |  
+| bip_39_word_underscore_3 | dilemma_pizza_flip |  
+| bip_39_word_underscore_4 | dilemma_pizza_flip_situate |  
+| bip_39_word_underscore_5 | dilemma_pizza_flip_situate_talent |  
+| bip_39_word_underscore_6 | dilemma_pizza_flip_situate_talent_more |  
+| bip_39_word_underscore_7 | dilemma_pizza_flip_situate_talent_more_tank |  
+| bip_39_word_underscore_8 | dilemma_pizza_flip_situate_talent_more_tank_judge |  
+| bip_39_word_underscore_9 | dilemma_pizza_flip_situate_talent_more_tank_judge_stamp |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

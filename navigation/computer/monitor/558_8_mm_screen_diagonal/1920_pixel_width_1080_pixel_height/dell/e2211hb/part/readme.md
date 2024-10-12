@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blood |  
+| bip_39_word_dash_10 | blood-rice-blouse-web-guide-awful-typical-salt-achieve-choice |  
+| bip_39_word_dash_11 | blood-rice-blouse-web-guide-awful-typical-salt-achieve-choice-forward |  
+| bip_39_word_dash_12 | blood-rice-blouse-web-guide-awful-typical-salt-achieve-choice-forward-air |  
+| bip_39_word_dash_2 | blood-rice |  
+| bip_39_word_dash_3 | blood-rice-blouse |  
+| bip_39_word_dash_4 | blood-rice-blouse-web |  
+| bip_39_word_dash_5 | blood-rice-blouse-web-guide |  
+| bip_39_word_dash_6 | blood-rice-blouse-web-guide-awful |  
+| bip_39_word_dash_7 | blood-rice-blouse-web-guide-awful-typical |  
+| bip_39_word_dash_8 | blood-rice-blouse-web-guide-awful-typical-salt |  
+| bip_39_word_dash_9 | blood-rice-blouse-web-guide-awful-typical-salt-achieve |  
 | bip_39_word_new_br_1 | blood |  
 | bip_39_word_new_br_10 | blood<br>rice<br>blouse<br>web<br>guide<br>awful<br>typical<br>salt<br>achieve<br>choice |  
 | bip_39_word_new_br_11 | blood<br>rice<br>blouse<br>web<br>guide<br>awful<br>typical<br>salt<br>achieve<br>choice<br>forward |  
@@ -147,6 +159,18 @@ achieve |
 | bip_39_word_space_7 | blood rice blouse web guide awful typical |  
 | bip_39_word_space_8 | blood rice blouse web guide awful typical salt |  
 | bip_39_word_space_9 | blood rice blouse web guide awful typical salt achieve |  
+| bip_39_word_underscore_1 | blood |  
+| bip_39_word_underscore_10 | blood_rice_blouse_web_guide_awful_typical_salt_achieve_choice |  
+| bip_39_word_underscore_11 | blood_rice_blouse_web_guide_awful_typical_salt_achieve_choice_forward |  
+| bip_39_word_underscore_12 | blood_rice_blouse_web_guide_awful_typical_salt_achieve_choice_forward_air |  
+| bip_39_word_underscore_2 | blood_rice |  
+| bip_39_word_underscore_3 | blood_rice_blouse |  
+| bip_39_word_underscore_4 | blood_rice_blouse_web |  
+| bip_39_word_underscore_5 | blood_rice_blouse_web_guide |  
+| bip_39_word_underscore_6 | blood_rice_blouse_web_guide_awful |  
+| bip_39_word_underscore_7 | blood_rice_blouse_web_guide_awful_typical |  
+| bip_39_word_underscore_8 | blood_rice_blouse_web_guide_awful_typical_salt |  
+| bip_39_word_underscore_9 | blood_rice_blouse_web_guide_awful_typical_salt_achieve |  
 | classification | computer |  
 | classification_capital | Computer |  
 | classification_first_letter | c |  

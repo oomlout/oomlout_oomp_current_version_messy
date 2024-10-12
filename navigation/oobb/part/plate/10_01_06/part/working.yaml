@@ -1,3 +1,15 @@
+bip_39_word_dash_1: useful
+bip_39_word_dash_10: useful-bridge-bird-subject-flight-basket-real-disease-forum-story
+bip_39_word_dash_11: useful-bridge-bird-subject-flight-basket-real-disease-forum-story-seek
+bip_39_word_dash_12: useful-bridge-bird-subject-flight-basket-real-disease-forum-story-seek-allow
+bip_39_word_dash_2: useful-bridge
+bip_39_word_dash_3: useful-bridge-bird
+bip_39_word_dash_4: useful-bridge-bird-subject
+bip_39_word_dash_5: useful-bridge-bird-subject-flight
+bip_39_word_dash_6: useful-bridge-bird-subject-flight-basket
+bip_39_word_dash_7: useful-bridge-bird-subject-flight-basket-real
+bip_39_word_dash_8: useful-bridge-bird-subject-flight-basket-real-disease
+bip_39_word_dash_9: useful-bridge-bird-subject-flight-basket-real-disease-forum
 bip_39_word_new_br_1: useful
 bip_39_word_new_br_10: useful<br>bridge<br>bird<br>subject<br>flight<br>basket<br>real<br>disease<br>forum<br>story
 bip_39_word_new_br_11: useful<br>bridge<br>bird<br>subject<br>flight<br>basket<br>real<br>disease<br>forum<br>story<br>seek
@@ -194,6 +206,18 @@ bip_39_word_space_6: useful bridge bird subject flight basket
 bip_39_word_space_7: useful bridge bird subject flight basket real
 bip_39_word_space_8: useful bridge bird subject flight basket real disease
 bip_39_word_space_9: useful bridge bird subject flight basket real disease forum
+bip_39_word_underscore_1: useful
+bip_39_word_underscore_10: useful_bridge_bird_subject_flight_basket_real_disease_forum_story
+bip_39_word_underscore_11: useful_bridge_bird_subject_flight_basket_real_disease_forum_story_seek
+bip_39_word_underscore_12: useful_bridge_bird_subject_flight_basket_real_disease_forum_story_seek_allow
+bip_39_word_underscore_2: useful_bridge
+bip_39_word_underscore_3: useful_bridge_bird
+bip_39_word_underscore_4: useful_bridge_bird_subject
+bip_39_word_underscore_5: useful_bridge_bird_subject_flight
+bip_39_word_underscore_6: useful_bridge_bird_subject_flight_basket
+bip_39_word_underscore_7: useful_bridge_bird_subject_flight_basket_real
+bip_39_word_underscore_8: useful_bridge_bird_subject_flight_basket_real_disease
+bip_39_word_underscore_9: useful_bridge_bird_subject_flight_basket_real_disease_forum
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

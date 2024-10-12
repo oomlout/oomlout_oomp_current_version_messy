@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | outer |  
+| bip_39_word_dash_10 | outer-cabin-shiver-burden-reject-code-mouse-machine-supply-boring |  
+| bip_39_word_dash_11 | outer-cabin-shiver-burden-reject-code-mouse-machine-supply-boring-phone |  
+| bip_39_word_dash_12 | outer-cabin-shiver-burden-reject-code-mouse-machine-supply-boring-phone-abstract |  
+| bip_39_word_dash_2 | outer-cabin |  
+| bip_39_word_dash_3 | outer-cabin-shiver |  
+| bip_39_word_dash_4 | outer-cabin-shiver-burden |  
+| bip_39_word_dash_5 | outer-cabin-shiver-burden-reject |  
+| bip_39_word_dash_6 | outer-cabin-shiver-burden-reject-code |  
+| bip_39_word_dash_7 | outer-cabin-shiver-burden-reject-code-mouse |  
+| bip_39_word_dash_8 | outer-cabin-shiver-burden-reject-code-mouse-machine |  
+| bip_39_word_dash_9 | outer-cabin-shiver-burden-reject-code-mouse-machine-supply |  
 | bip_39_word_new_br_1 | outer |  
 | bip_39_word_new_br_10 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine<br>supply<br>boring |  
 | bip_39_word_new_br_11 | outer<br>cabin<br>shiver<br>burden<br>reject<br>code<br>mouse<br>machine<br>supply<br>boring<br>phone |  
@@ -147,6 +159,18 @@ supply |
 | bip_39_word_space_7 | outer cabin shiver burden reject code mouse |  
 | bip_39_word_space_8 | outer cabin shiver burden reject code mouse machine |  
 | bip_39_word_space_9 | outer cabin shiver burden reject code mouse machine supply |  
+| bip_39_word_underscore_1 | outer |  
+| bip_39_word_underscore_10 | outer_cabin_shiver_burden_reject_code_mouse_machine_supply_boring |  
+| bip_39_word_underscore_11 | outer_cabin_shiver_burden_reject_code_mouse_machine_supply_boring_phone |  
+| bip_39_word_underscore_12 | outer_cabin_shiver_burden_reject_code_mouse_machine_supply_boring_phone_abstract |  
+| bip_39_word_underscore_2 | outer_cabin |  
+| bip_39_word_underscore_3 | outer_cabin_shiver |  
+| bip_39_word_underscore_4 | outer_cabin_shiver_burden |  
+| bip_39_word_underscore_5 | outer_cabin_shiver_burden_reject |  
+| bip_39_word_underscore_6 | outer_cabin_shiver_burden_reject_code |  
+| bip_39_word_underscore_7 | outer_cabin_shiver_burden_reject_code_mouse |  
+| bip_39_word_underscore_8 | outer_cabin_shiver_burden_reject_code_mouse_machine |  
+| bip_39_word_underscore_9 | outer_cabin_shiver_burden_reject_code_mouse_machine_supply |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

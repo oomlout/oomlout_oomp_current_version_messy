@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | romance |  
+| bip_39_word_dash_10 | romance-belt-coral-accident-great-make-sauce-pave-input-goose |  
+| bip_39_word_dash_11 | romance-belt-coral-accident-great-make-sauce-pave-input-goose-milk |  
+| bip_39_word_dash_12 | romance-belt-coral-accident-great-make-sauce-pave-input-goose-milk-afford |  
+| bip_39_word_dash_2 | romance-belt |  
+| bip_39_word_dash_3 | romance-belt-coral |  
+| bip_39_word_dash_4 | romance-belt-coral-accident |  
+| bip_39_word_dash_5 | romance-belt-coral-accident-great |  
+| bip_39_word_dash_6 | romance-belt-coral-accident-great-make |  
+| bip_39_word_dash_7 | romance-belt-coral-accident-great-make-sauce |  
+| bip_39_word_dash_8 | romance-belt-coral-accident-great-make-sauce-pave |  
+| bip_39_word_dash_9 | romance-belt-coral-accident-great-make-sauce-pave-input |  
 | bip_39_word_new_br_1 | romance |  
 | bip_39_word_new_br_10 | romance<br>belt<br>coral<br>accident<br>great<br>make<br>sauce<br>pave<br>input<br>goose |  
 | bip_39_word_new_br_11 | romance<br>belt<br>coral<br>accident<br>great<br>make<br>sauce<br>pave<br>input<br>goose<br>milk |  
@@ -147,6 +159,18 @@ input |
 | bip_39_word_space_7 | romance belt coral accident great make sauce |  
 | bip_39_word_space_8 | romance belt coral accident great make sauce pave |  
 | bip_39_word_space_9 | romance belt coral accident great make sauce pave input |  
+| bip_39_word_underscore_1 | romance |  
+| bip_39_word_underscore_10 | romance_belt_coral_accident_great_make_sauce_pave_input_goose |  
+| bip_39_word_underscore_11 | romance_belt_coral_accident_great_make_sauce_pave_input_goose_milk |  
+| bip_39_word_underscore_12 | romance_belt_coral_accident_great_make_sauce_pave_input_goose_milk_afford |  
+| bip_39_word_underscore_2 | romance_belt |  
+| bip_39_word_underscore_3 | romance_belt_coral |  
+| bip_39_word_underscore_4 | romance_belt_coral_accident |  
+| bip_39_word_underscore_5 | romance_belt_coral_accident_great |  
+| bip_39_word_underscore_6 | romance_belt_coral_accident_great_make |  
+| bip_39_word_underscore_7 | romance_belt_coral_accident_great_make_sauce |  
+| bip_39_word_underscore_8 | romance_belt_coral_accident_great_make_sauce_pave |  
+| bip_39_word_underscore_9 | romance_belt_coral_accident_great_make_sauce_pave_input |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mass
+bip_39_word_dash_10: mass-disease-neck-claim-write-entry-loop-hurt-faint-axis
+bip_39_word_dash_11: mass-disease-neck-claim-write-entry-loop-hurt-faint-axis-coffee
+bip_39_word_dash_12: mass-disease-neck-claim-write-entry-loop-hurt-faint-axis-coffee-apart
+bip_39_word_dash_2: mass-disease
+bip_39_word_dash_3: mass-disease-neck
+bip_39_word_dash_4: mass-disease-neck-claim
+bip_39_word_dash_5: mass-disease-neck-claim-write
+bip_39_word_dash_6: mass-disease-neck-claim-write-entry
+bip_39_word_dash_7: mass-disease-neck-claim-write-entry-loop
+bip_39_word_dash_8: mass-disease-neck-claim-write-entry-loop-hurt
+bip_39_word_dash_9: mass-disease-neck-claim-write-entry-loop-hurt-faint
 bip_39_word_new_br_1: mass
 bip_39_word_new_br_10: mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt<br>faint<br>axis
 bip_39_word_new_br_11: mass<br>disease<br>neck<br>claim<br>write<br>entry<br>loop<br>hurt<br>faint<br>axis<br>coffee
@@ -192,6 +204,18 @@ bip_39_word_space_6: mass disease neck claim write entry
 bip_39_word_space_7: mass disease neck claim write entry loop
 bip_39_word_space_8: mass disease neck claim write entry loop hurt
 bip_39_word_space_9: mass disease neck claim write entry loop hurt faint
+bip_39_word_underscore_1: mass
+bip_39_word_underscore_10: mass_disease_neck_claim_write_entry_loop_hurt_faint_axis
+bip_39_word_underscore_11: mass_disease_neck_claim_write_entry_loop_hurt_faint_axis_coffee
+bip_39_word_underscore_12: mass_disease_neck_claim_write_entry_loop_hurt_faint_axis_coffee_apart
+bip_39_word_underscore_2: mass_disease
+bip_39_word_underscore_3: mass_disease_neck
+bip_39_word_underscore_4: mass_disease_neck_claim
+bip_39_word_underscore_5: mass_disease_neck_claim_write
+bip_39_word_underscore_6: mass_disease_neck_claim_write_entry
+bip_39_word_underscore_7: mass_disease_neck_claim_write_entry_loop
+bip_39_word_underscore_8: mass_disease_neck_claim_write_entry_loop_hurt
+bip_39_word_underscore_9: mass_disease_neck_claim_write_entry_loop_hurt_faint
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

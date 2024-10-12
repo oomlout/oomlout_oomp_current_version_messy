@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | head |  
+| bip_39_word_dash_10 | head-machine-vacant-symptom-father-hospital-runway-they-energy-cover |  
+| bip_39_word_dash_11 | head-machine-vacant-symptom-father-hospital-runway-they-energy-cover-enable |  
+| bip_39_word_dash_12 | head-machine-vacant-symptom-father-hospital-runway-they-energy-cover-enable-acid |  
+| bip_39_word_dash_2 | head-machine |  
+| bip_39_word_dash_3 | head-machine-vacant |  
+| bip_39_word_dash_4 | head-machine-vacant-symptom |  
+| bip_39_word_dash_5 | head-machine-vacant-symptom-father |  
+| bip_39_word_dash_6 | head-machine-vacant-symptom-father-hospital |  
+| bip_39_word_dash_7 | head-machine-vacant-symptom-father-hospital-runway |  
+| bip_39_word_dash_8 | head-machine-vacant-symptom-father-hospital-runway-they |  
+| bip_39_word_dash_9 | head-machine-vacant-symptom-father-hospital-runway-they-energy |  
 | bip_39_word_new_br_1 | head |  
 | bip_39_word_new_br_10 | head<br>machine<br>vacant<br>symptom<br>father<br>hospital<br>runway<br>they<br>energy<br>cover |  
 | bip_39_word_new_br_11 | head<br>machine<br>vacant<br>symptom<br>father<br>hospital<br>runway<br>they<br>energy<br>cover<br>enable |  
@@ -147,6 +159,18 @@ energy |
 | bip_39_word_space_7 | head machine vacant symptom father hospital runway |  
 | bip_39_word_space_8 | head machine vacant symptom father hospital runway they |  
 | bip_39_word_space_9 | head machine vacant symptom father hospital runway they energy |  
+| bip_39_word_underscore_1 | head |  
+| bip_39_word_underscore_10 | head_machine_vacant_symptom_father_hospital_runway_they_energy_cover |  
+| bip_39_word_underscore_11 | head_machine_vacant_symptom_father_hospital_runway_they_energy_cover_enable |  
+| bip_39_word_underscore_12 | head_machine_vacant_symptom_father_hospital_runway_they_energy_cover_enable_acid |  
+| bip_39_word_underscore_2 | head_machine |  
+| bip_39_word_underscore_3 | head_machine_vacant |  
+| bip_39_word_underscore_4 | head_machine_vacant_symptom |  
+| bip_39_word_underscore_5 | head_machine_vacant_symptom_father |  
+| bip_39_word_underscore_6 | head_machine_vacant_symptom_father_hospital |  
+| bip_39_word_underscore_7 | head_machine_vacant_symptom_father_hospital_runway |  
+| bip_39_word_underscore_8 | head_machine_vacant_symptom_father_hospital_runway_they |  
+| bip_39_word_underscore_9 | head_machine_vacant_symptom_father_hospital_runway_they_energy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

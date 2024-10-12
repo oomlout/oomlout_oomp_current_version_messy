@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enable
+bip_39_word_dash_10: enable-ketchup-now-wave-opera-angle-churn-evolve-index-jealous
+bip_39_word_dash_11: enable-ketchup-now-wave-opera-angle-churn-evolve-index-jealous-panther
+bip_39_word_dash_12: enable-ketchup-now-wave-opera-angle-churn-evolve-index-jealous-panther-auto
+bip_39_word_dash_2: enable-ketchup
+bip_39_word_dash_3: enable-ketchup-now
+bip_39_word_dash_4: enable-ketchup-now-wave
+bip_39_word_dash_5: enable-ketchup-now-wave-opera
+bip_39_word_dash_6: enable-ketchup-now-wave-opera-angle
+bip_39_word_dash_7: enable-ketchup-now-wave-opera-angle-churn
+bip_39_word_dash_8: enable-ketchup-now-wave-opera-angle-churn-evolve
+bip_39_word_dash_9: enable-ketchup-now-wave-opera-angle-churn-evolve-index
 bip_39_word_new_br_1: enable
 bip_39_word_new_br_10: enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous
 bip_39_word_new_br_11: enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous<br>panther
@@ -193,6 +205,18 @@ bip_39_word_space_6: enable ketchup now wave opera angle
 bip_39_word_space_7: enable ketchup now wave opera angle churn
 bip_39_word_space_8: enable ketchup now wave opera angle churn evolve
 bip_39_word_space_9: enable ketchup now wave opera angle churn evolve index
+bip_39_word_underscore_1: enable
+bip_39_word_underscore_10: enable_ketchup_now_wave_opera_angle_churn_evolve_index_jealous
+bip_39_word_underscore_11: enable_ketchup_now_wave_opera_angle_churn_evolve_index_jealous_panther
+bip_39_word_underscore_12: enable_ketchup_now_wave_opera_angle_churn_evolve_index_jealous_panther_auto
+bip_39_word_underscore_2: enable_ketchup
+bip_39_word_underscore_3: enable_ketchup_now
+bip_39_word_underscore_4: enable_ketchup_now_wave
+bip_39_word_underscore_5: enable_ketchup_now_wave_opera
+bip_39_word_underscore_6: enable_ketchup_now_wave_opera_angle
+bip_39_word_underscore_7: enable_ketchup_now_wave_opera_angle_churn
+bip_39_word_underscore_8: enable_ketchup_now_wave_opera_angle_churn_evolve
+bip_39_word_underscore_9: enable_ketchup_now_wave_opera_angle_churn_evolve_index
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

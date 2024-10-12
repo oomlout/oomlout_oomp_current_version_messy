@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | convince |  
+| bip_39_word_dash_10 | convince-solar-crater-miss-noodle-range-spawn-hen-refuse-joy |  
+| bip_39_word_dash_11 | convince-solar-crater-miss-noodle-range-spawn-hen-refuse-joy-innocent |  
+| bip_39_word_dash_12 | convince-solar-crater-miss-noodle-range-spawn-hen-refuse-joy-innocent-action |  
+| bip_39_word_dash_2 | convince-solar |  
+| bip_39_word_dash_3 | convince-solar-crater |  
+| bip_39_word_dash_4 | convince-solar-crater-miss |  
+| bip_39_word_dash_5 | convince-solar-crater-miss-noodle |  
+| bip_39_word_dash_6 | convince-solar-crater-miss-noodle-range |  
+| bip_39_word_dash_7 | convince-solar-crater-miss-noodle-range-spawn |  
+| bip_39_word_dash_8 | convince-solar-crater-miss-noodle-range-spawn-hen |  
+| bip_39_word_dash_9 | convince-solar-crater-miss-noodle-range-spawn-hen-refuse |  
 | bip_39_word_new_br_1 | convince |  
 | bip_39_word_new_br_10 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy |  
 | bip_39_word_new_br_11 | convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy<br>innocent |  
@@ -147,6 +159,18 @@ refuse |
 | bip_39_word_space_7 | convince solar crater miss noodle range spawn |  
 | bip_39_word_space_8 | convince solar crater miss noodle range spawn hen |  
 | bip_39_word_space_9 | convince solar crater miss noodle range spawn hen refuse |  
+| bip_39_word_underscore_1 | convince |  
+| bip_39_word_underscore_10 | convince_solar_crater_miss_noodle_range_spawn_hen_refuse_joy |  
+| bip_39_word_underscore_11 | convince_solar_crater_miss_noodle_range_spawn_hen_refuse_joy_innocent |  
+| bip_39_word_underscore_12 | convince_solar_crater_miss_noodle_range_spawn_hen_refuse_joy_innocent_action |  
+| bip_39_word_underscore_2 | convince_solar |  
+| bip_39_word_underscore_3 | convince_solar_crater |  
+| bip_39_word_underscore_4 | convince_solar_crater_miss |  
+| bip_39_word_underscore_5 | convince_solar_crater_miss_noodle |  
+| bip_39_word_underscore_6 | convince_solar_crater_miss_noodle_range |  
+| bip_39_word_underscore_7 | convince_solar_crater_miss_noodle_range_spawn |  
+| bip_39_word_underscore_8 | convince_solar_crater_miss_noodle_range_spawn_hen |  
+| bip_39_word_underscore_9 | convince_solar_crater_miss_noodle_range_spawn_hen_refuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

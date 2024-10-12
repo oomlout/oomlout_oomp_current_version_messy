@@ -1,3 +1,15 @@
+bip_39_word_dash_1: speak
+bip_39_word_dash_10: speak-purity-agent-siren-goat-device-hedgehog-harsh-fade-blade
+bip_39_word_dash_11: speak-purity-agent-siren-goat-device-hedgehog-harsh-fade-blade-fire
+bip_39_word_dash_12: speak-purity-agent-siren-goat-device-hedgehog-harsh-fade-blade-fire-area
+bip_39_word_dash_2: speak-purity
+bip_39_word_dash_3: speak-purity-agent
+bip_39_word_dash_4: speak-purity-agent-siren
+bip_39_word_dash_5: speak-purity-agent-siren-goat
+bip_39_word_dash_6: speak-purity-agent-siren-goat-device
+bip_39_word_dash_7: speak-purity-agent-siren-goat-device-hedgehog
+bip_39_word_dash_8: speak-purity-agent-siren-goat-device-hedgehog-harsh
+bip_39_word_dash_9: speak-purity-agent-siren-goat-device-hedgehog-harsh-fade
 bip_39_word_new_br_1: speak
 bip_39_word_new_br_10: speak<br>purity<br>agent<br>siren<br>goat<br>device<br>hedgehog<br>harsh<br>fade<br>blade
 bip_39_word_new_br_11: speak<br>purity<br>agent<br>siren<br>goat<br>device<br>hedgehog<br>harsh<br>fade<br>blade<br>fire
@@ -193,6 +205,18 @@ bip_39_word_space_6: speak purity agent siren goat device
 bip_39_word_space_7: speak purity agent siren goat device hedgehog
 bip_39_word_space_8: speak purity agent siren goat device hedgehog harsh
 bip_39_word_space_9: speak purity agent siren goat device hedgehog harsh fade
+bip_39_word_underscore_1: speak
+bip_39_word_underscore_10: speak_purity_agent_siren_goat_device_hedgehog_harsh_fade_blade
+bip_39_word_underscore_11: speak_purity_agent_siren_goat_device_hedgehog_harsh_fade_blade_fire
+bip_39_word_underscore_12: speak_purity_agent_siren_goat_device_hedgehog_harsh_fade_blade_fire_area
+bip_39_word_underscore_2: speak_purity
+bip_39_word_underscore_3: speak_purity_agent
+bip_39_word_underscore_4: speak_purity_agent_siren
+bip_39_word_underscore_5: speak_purity_agent_siren_goat
+bip_39_word_underscore_6: speak_purity_agent_siren_goat_device
+bip_39_word_underscore_7: speak_purity_agent_siren_goat_device_hedgehog
+bip_39_word_underscore_8: speak_purity_agent_siren_goat_device_hedgehog_harsh
+bip_39_word_underscore_9: speak_purity_agent_siren_goat_device_hedgehog_harsh_fade
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

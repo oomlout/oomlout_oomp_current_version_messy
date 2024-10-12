@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | garment |  
+| bip_39_word_dash_10 | garment-super-clutch-fossil-address-where-gorilla-copy-summer-egg |  
+| bip_39_word_dash_11 | garment-super-clutch-fossil-address-where-gorilla-copy-summer-egg-best |  
+| bip_39_word_dash_12 | garment-super-clutch-fossil-address-where-gorilla-copy-summer-egg-best-alley |  
+| bip_39_word_dash_2 | garment-super |  
+| bip_39_word_dash_3 | garment-super-clutch |  
+| bip_39_word_dash_4 | garment-super-clutch-fossil |  
+| bip_39_word_dash_5 | garment-super-clutch-fossil-address |  
+| bip_39_word_dash_6 | garment-super-clutch-fossil-address-where |  
+| bip_39_word_dash_7 | garment-super-clutch-fossil-address-where-gorilla |  
+| bip_39_word_dash_8 | garment-super-clutch-fossil-address-where-gorilla-copy |  
+| bip_39_word_dash_9 | garment-super-clutch-fossil-address-where-gorilla-copy-summer |  
 | bip_39_word_new_br_1 | garment |  
 | bip_39_word_new_br_10 | garment<br>super<br>clutch<br>fossil<br>address<br>where<br>gorilla<br>copy<br>summer<br>egg |  
 | bip_39_word_new_br_11 | garment<br>super<br>clutch<br>fossil<br>address<br>where<br>gorilla<br>copy<br>summer<br>egg<br>best |  
@@ -147,6 +159,18 @@ summer |
 | bip_39_word_space_7 | garment super clutch fossil address where gorilla |  
 | bip_39_word_space_8 | garment super clutch fossil address where gorilla copy |  
 | bip_39_word_space_9 | garment super clutch fossil address where gorilla copy summer |  
+| bip_39_word_underscore_1 | garment |  
+| bip_39_word_underscore_10 | garment_super_clutch_fossil_address_where_gorilla_copy_summer_egg |  
+| bip_39_word_underscore_11 | garment_super_clutch_fossil_address_where_gorilla_copy_summer_egg_best |  
+| bip_39_word_underscore_12 | garment_super_clutch_fossil_address_where_gorilla_copy_summer_egg_best_alley |  
+| bip_39_word_underscore_2 | garment_super |  
+| bip_39_word_underscore_3 | garment_super_clutch |  
+| bip_39_word_underscore_4 | garment_super_clutch_fossil |  
+| bip_39_word_underscore_5 | garment_super_clutch_fossil_address |  
+| bip_39_word_underscore_6 | garment_super_clutch_fossil_address_where |  
+| bip_39_word_underscore_7 | garment_super_clutch_fossil_address_where_gorilla |  
+| bip_39_word_underscore_8 | garment_super_clutch_fossil_address_where_gorilla_copy |  
+| bip_39_word_underscore_9 | garment_super_clutch_fossil_address_where_gorilla_copy_summer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

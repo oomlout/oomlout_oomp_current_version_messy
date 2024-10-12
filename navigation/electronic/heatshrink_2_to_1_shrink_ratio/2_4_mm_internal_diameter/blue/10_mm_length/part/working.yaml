@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cushion
+bip_39_word_dash_10: cushion-ozone-grape-range-minimum-clap-ice-happy-cupboard-chase
+bip_39_word_dash_11: cushion-ozone-grape-range-minimum-clap-ice-happy-cupboard-chase-nest
+bip_39_word_dash_12: cushion-ozone-grape-range-minimum-clap-ice-happy-cupboard-chase-nest-attitude
+bip_39_word_dash_2: cushion-ozone
+bip_39_word_dash_3: cushion-ozone-grape
+bip_39_word_dash_4: cushion-ozone-grape-range
+bip_39_word_dash_5: cushion-ozone-grape-range-minimum
+bip_39_word_dash_6: cushion-ozone-grape-range-minimum-clap
+bip_39_word_dash_7: cushion-ozone-grape-range-minimum-clap-ice
+bip_39_word_dash_8: cushion-ozone-grape-range-minimum-clap-ice-happy
+bip_39_word_dash_9: cushion-ozone-grape-range-minimum-clap-ice-happy-cupboard
 bip_39_word_new_br_1: cushion
 bip_39_word_new_br_10: cushion<br>ozone<br>grape<br>range<br>minimum<br>clap<br>ice<br>happy<br>cupboard<br>chase
 bip_39_word_new_br_11: cushion<br>ozone<br>grape<br>range<br>minimum<br>clap<br>ice<br>happy<br>cupboard<br>chase<br>nest
@@ -193,6 +205,18 @@ bip_39_word_space_6: cushion ozone grape range minimum clap
 bip_39_word_space_7: cushion ozone grape range minimum clap ice
 bip_39_word_space_8: cushion ozone grape range minimum clap ice happy
 bip_39_word_space_9: cushion ozone grape range minimum clap ice happy cupboard
+bip_39_word_underscore_1: cushion
+bip_39_word_underscore_10: cushion_ozone_grape_range_minimum_clap_ice_happy_cupboard_chase
+bip_39_word_underscore_11: cushion_ozone_grape_range_minimum_clap_ice_happy_cupboard_chase_nest
+bip_39_word_underscore_12: cushion_ozone_grape_range_minimum_clap_ice_happy_cupboard_chase_nest_attitude
+bip_39_word_underscore_2: cushion_ozone
+bip_39_word_underscore_3: cushion_ozone_grape
+bip_39_word_underscore_4: cushion_ozone_grape_range
+bip_39_word_underscore_5: cushion_ozone_grape_range_minimum
+bip_39_word_underscore_6: cushion_ozone_grape_range_minimum_clap
+bip_39_word_underscore_7: cushion_ozone_grape_range_minimum_clap_ice
+bip_39_word_underscore_8: cushion_ozone_grape_range_minimum_clap_ice_happy
+bip_39_word_underscore_9: cushion_ozone_grape_range_minimum_clap_ice_happy_cupboard
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

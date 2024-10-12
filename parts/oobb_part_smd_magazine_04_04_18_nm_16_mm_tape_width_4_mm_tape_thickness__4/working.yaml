@@ -1,3 +1,15 @@
+bip_39_word_dash_1: code
+bip_39_word_dash_10: code-route-lake-deal-provide-gather-dirt-dolphin-match-wink
+bip_39_word_dash_11: code-route-lake-deal-provide-gather-dirt-dolphin-match-wink-angry
+bip_39_word_dash_12: code-route-lake-deal-provide-gather-dirt-dolphin-match-wink-angry-absorb
+bip_39_word_dash_2: code-route
+bip_39_word_dash_3: code-route-lake
+bip_39_word_dash_4: code-route-lake-deal
+bip_39_word_dash_5: code-route-lake-deal-provide
+bip_39_word_dash_6: code-route-lake-deal-provide-gather
+bip_39_word_dash_7: code-route-lake-deal-provide-gather-dirt
+bip_39_word_dash_8: code-route-lake-deal-provide-gather-dirt-dolphin
+bip_39_word_dash_9: code-route-lake-deal-provide-gather-dirt-dolphin-match
 bip_39_word_new_br_1: code
 bip_39_word_new_br_10: code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin<br>match<br>wink
 bip_39_word_new_br_11: code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin<br>match<br>wink<br>angry
@@ -193,6 +205,18 @@ bip_39_word_space_6: code route lake deal provide gather
 bip_39_word_space_7: code route lake deal provide gather dirt
 bip_39_word_space_8: code route lake deal provide gather dirt dolphin
 bip_39_word_space_9: code route lake deal provide gather dirt dolphin match
+bip_39_word_underscore_1: code
+bip_39_word_underscore_10: code_route_lake_deal_provide_gather_dirt_dolphin_match_wink
+bip_39_word_underscore_11: code_route_lake_deal_provide_gather_dirt_dolphin_match_wink_angry
+bip_39_word_underscore_12: code_route_lake_deal_provide_gather_dirt_dolphin_match_wink_angry_absorb
+bip_39_word_underscore_2: code_route
+bip_39_word_underscore_3: code_route_lake
+bip_39_word_underscore_4: code_route_lake_deal
+bip_39_word_underscore_5: code_route_lake_deal_provide
+bip_39_word_underscore_6: code_route_lake_deal_provide_gather
+bip_39_word_underscore_7: code_route_lake_deal_provide_gather_dirt
+bip_39_word_underscore_8: code_route_lake_deal_provide_gather_dirt_dolphin
+bip_39_word_underscore_9: code_route_lake_deal_provide_gather_dirt_dolphin_match
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

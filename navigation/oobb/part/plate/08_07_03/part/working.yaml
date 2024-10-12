@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wire
+bip_39_word_dash_10: wire-project-high-cheap-brave-cotton-scorpion-pig-worth-brave
+bip_39_word_dash_11: wire-project-high-cheap-brave-cotton-scorpion-pig-worth-brave-certain
+bip_39_word_dash_12: wire-project-high-cheap-brave-cotton-scorpion-pig-worth-brave-certain-assume
+bip_39_word_dash_2: wire-project
+bip_39_word_dash_3: wire-project-high
+bip_39_word_dash_4: wire-project-high-cheap
+bip_39_word_dash_5: wire-project-high-cheap-brave
+bip_39_word_dash_6: wire-project-high-cheap-brave-cotton
+bip_39_word_dash_7: wire-project-high-cheap-brave-cotton-scorpion
+bip_39_word_dash_8: wire-project-high-cheap-brave-cotton-scorpion-pig
+bip_39_word_dash_9: wire-project-high-cheap-brave-cotton-scorpion-pig-worth
 bip_39_word_new_br_1: wire
 bip_39_word_new_br_10: wire<br>project<br>high<br>cheap<br>brave<br>cotton<br>scorpion<br>pig<br>worth<br>brave
 bip_39_word_new_br_11: wire<br>project<br>high<br>cheap<br>brave<br>cotton<br>scorpion<br>pig<br>worth<br>brave<br>certain
@@ -193,6 +205,18 @@ bip_39_word_space_6: wire project high cheap brave cotton
 bip_39_word_space_7: wire project high cheap brave cotton scorpion
 bip_39_word_space_8: wire project high cheap brave cotton scorpion pig
 bip_39_word_space_9: wire project high cheap brave cotton scorpion pig worth
+bip_39_word_underscore_1: wire
+bip_39_word_underscore_10: wire_project_high_cheap_brave_cotton_scorpion_pig_worth_brave
+bip_39_word_underscore_11: wire_project_high_cheap_brave_cotton_scorpion_pig_worth_brave_certain
+bip_39_word_underscore_12: wire_project_high_cheap_brave_cotton_scorpion_pig_worth_brave_certain_assume
+bip_39_word_underscore_2: wire_project
+bip_39_word_underscore_3: wire_project_high
+bip_39_word_underscore_4: wire_project_high_cheap
+bip_39_word_underscore_5: wire_project_high_cheap_brave
+bip_39_word_underscore_6: wire_project_high_cheap_brave_cotton
+bip_39_word_underscore_7: wire_project_high_cheap_brave_cotton_scorpion
+bip_39_word_underscore_8: wire_project_high_cheap_brave_cotton_scorpion_pig
+bip_39_word_underscore_9: wire_project_high_cheap_brave_cotton_scorpion_pig_worth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

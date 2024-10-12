@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | opera |  
+| bip_39_word_dash_10 | opera-sheriff-brief-snap-cancel-badge-custom-speed-turtle-trade |  
+| bip_39_word_dash_11 | opera-sheriff-brief-snap-cancel-badge-custom-speed-turtle-trade-whisper |  
+| bip_39_word_dash_12 | opera-sheriff-brief-snap-cancel-badge-custom-speed-turtle-trade-whisper-alter |  
+| bip_39_word_dash_2 | opera-sheriff |  
+| bip_39_word_dash_3 | opera-sheriff-brief |  
+| bip_39_word_dash_4 | opera-sheriff-brief-snap |  
+| bip_39_word_dash_5 | opera-sheriff-brief-snap-cancel |  
+| bip_39_word_dash_6 | opera-sheriff-brief-snap-cancel-badge |  
+| bip_39_word_dash_7 | opera-sheriff-brief-snap-cancel-badge-custom |  
+| bip_39_word_dash_8 | opera-sheriff-brief-snap-cancel-badge-custom-speed |  
+| bip_39_word_dash_9 | opera-sheriff-brief-snap-cancel-badge-custom-speed-turtle |  
 | bip_39_word_new_br_1 | opera |  
 | bip_39_word_new_br_10 | opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed<br>turtle<br>trade |  
 | bip_39_word_new_br_11 | opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed<br>turtle<br>trade<br>whisper |  
@@ -147,6 +159,18 @@ turtle |
 | bip_39_word_space_7 | opera sheriff brief snap cancel badge custom |  
 | bip_39_word_space_8 | opera sheriff brief snap cancel badge custom speed |  
 | bip_39_word_space_9 | opera sheriff brief snap cancel badge custom speed turtle |  
+| bip_39_word_underscore_1 | opera |  
+| bip_39_word_underscore_10 | opera_sheriff_brief_snap_cancel_badge_custom_speed_turtle_trade |  
+| bip_39_word_underscore_11 | opera_sheriff_brief_snap_cancel_badge_custom_speed_turtle_trade_whisper |  
+| bip_39_word_underscore_12 | opera_sheriff_brief_snap_cancel_badge_custom_speed_turtle_trade_whisper_alter |  
+| bip_39_word_underscore_2 | opera_sheriff |  
+| bip_39_word_underscore_3 | opera_sheriff_brief |  
+| bip_39_word_underscore_4 | opera_sheriff_brief_snap |  
+| bip_39_word_underscore_5 | opera_sheriff_brief_snap_cancel |  
+| bip_39_word_underscore_6 | opera_sheriff_brief_snap_cancel_badge |  
+| bip_39_word_underscore_7 | opera_sheriff_brief_snap_cancel_badge_custom |  
+| bip_39_word_underscore_8 | opera_sheriff_brief_snap_cancel_badge_custom_speed |  
+| bip_39_word_underscore_9 | opera_sheriff_brief_snap_cancel_badge_custom_speed_turtle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | relax |  
+| bip_39_word_dash_10 | relax-elder-field-buzz-destroy-shield-edge-crash-one-glory |  
+| bip_39_word_dash_11 | relax-elder-field-buzz-destroy-shield-edge-crash-one-glory-account |  
+| bip_39_word_dash_12 | relax-elder-field-buzz-destroy-shield-edge-crash-one-glory-account-artefact |  
+| bip_39_word_dash_2 | relax-elder |  
+| bip_39_word_dash_3 | relax-elder-field |  
+| bip_39_word_dash_4 | relax-elder-field-buzz |  
+| bip_39_word_dash_5 | relax-elder-field-buzz-destroy |  
+| bip_39_word_dash_6 | relax-elder-field-buzz-destroy-shield |  
+| bip_39_word_dash_7 | relax-elder-field-buzz-destroy-shield-edge |  
+| bip_39_word_dash_8 | relax-elder-field-buzz-destroy-shield-edge-crash |  
+| bip_39_word_dash_9 | relax-elder-field-buzz-destroy-shield-edge-crash-one |  
 | bip_39_word_new_br_1 | relax |  
 | bip_39_word_new_br_10 | relax<br>elder<br>field<br>buzz<br>destroy<br>shield<br>edge<br>crash<br>one<br>glory |  
 | bip_39_word_new_br_11 | relax<br>elder<br>field<br>buzz<br>destroy<br>shield<br>edge<br>crash<br>one<br>glory<br>account |  
@@ -147,6 +159,18 @@ one |
 | bip_39_word_space_7 | relax elder field buzz destroy shield edge |  
 | bip_39_word_space_8 | relax elder field buzz destroy shield edge crash |  
 | bip_39_word_space_9 | relax elder field buzz destroy shield edge crash one |  
+| bip_39_word_underscore_1 | relax |  
+| bip_39_word_underscore_10 | relax_elder_field_buzz_destroy_shield_edge_crash_one_glory |  
+| bip_39_word_underscore_11 | relax_elder_field_buzz_destroy_shield_edge_crash_one_glory_account |  
+| bip_39_word_underscore_12 | relax_elder_field_buzz_destroy_shield_edge_crash_one_glory_account_artefact |  
+| bip_39_word_underscore_2 | relax_elder |  
+| bip_39_word_underscore_3 | relax_elder_field |  
+| bip_39_word_underscore_4 | relax_elder_field_buzz |  
+| bip_39_word_underscore_5 | relax_elder_field_buzz_destroy |  
+| bip_39_word_underscore_6 | relax_elder_field_buzz_destroy_shield |  
+| bip_39_word_underscore_7 | relax_elder_field_buzz_destroy_shield_edge |  
+| bip_39_word_underscore_8 | relax_elder_field_buzz_destroy_shield_edge_crash |  
+| bip_39_word_underscore_9 | relax_elder_field_buzz_destroy_shield_edge_crash_one |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

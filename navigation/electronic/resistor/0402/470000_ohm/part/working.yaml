@@ -1,3 +1,15 @@
+bip_39_word_dash_1: typical
+bip_39_word_dash_10: typical-drastic-artist-inquiry-sunset-tone-ozone-romance-math-couple
+bip_39_word_dash_11: typical-drastic-artist-inquiry-sunset-tone-ozone-romance-math-couple-dumb
+bip_39_word_dash_12: typical-drastic-artist-inquiry-sunset-tone-ozone-romance-math-couple-dumb-alpha
+bip_39_word_dash_2: typical-drastic
+bip_39_word_dash_3: typical-drastic-artist
+bip_39_word_dash_4: typical-drastic-artist-inquiry
+bip_39_word_dash_5: typical-drastic-artist-inquiry-sunset
+bip_39_word_dash_6: typical-drastic-artist-inquiry-sunset-tone
+bip_39_word_dash_7: typical-drastic-artist-inquiry-sunset-tone-ozone
+bip_39_word_dash_8: typical-drastic-artist-inquiry-sunset-tone-ozone-romance
+bip_39_word_dash_9: typical-drastic-artist-inquiry-sunset-tone-ozone-romance-math
 bip_39_word_new_br_1: typical
 bip_39_word_new_br_10: typical<br>drastic<br>artist<br>inquiry<br>sunset<br>tone<br>ozone<br>romance<br>math<br>couple
 bip_39_word_new_br_11: typical<br>drastic<br>artist<br>inquiry<br>sunset<br>tone<br>ozone<br>romance<br>math<br>couple<br>dumb
@@ -194,6 +206,18 @@ bip_39_word_space_6: typical drastic artist inquiry sunset tone
 bip_39_word_space_7: typical drastic artist inquiry sunset tone ozone
 bip_39_word_space_8: typical drastic artist inquiry sunset tone ozone romance
 bip_39_word_space_9: typical drastic artist inquiry sunset tone ozone romance math
+bip_39_word_underscore_1: typical
+bip_39_word_underscore_10: typical_drastic_artist_inquiry_sunset_tone_ozone_romance_math_couple
+bip_39_word_underscore_11: typical_drastic_artist_inquiry_sunset_tone_ozone_romance_math_couple_dumb
+bip_39_word_underscore_12: typical_drastic_artist_inquiry_sunset_tone_ozone_romance_math_couple_dumb_alpha
+bip_39_word_underscore_2: typical_drastic
+bip_39_word_underscore_3: typical_drastic_artist
+bip_39_word_underscore_4: typical_drastic_artist_inquiry
+bip_39_word_underscore_5: typical_drastic_artist_inquiry_sunset
+bip_39_word_underscore_6: typical_drastic_artist_inquiry_sunset_tone
+bip_39_word_underscore_7: typical_drastic_artist_inquiry_sunset_tone_ozone
+bip_39_word_underscore_8: typical_drastic_artist_inquiry_sunset_tone_ozone_romance
+bip_39_word_underscore_9: typical_drastic_artist_inquiry_sunset_tone_ozone_romance_math
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: melt
+bip_39_word_dash_10: melt-rich-pass-divorce-ceiling-steak-flee-need-siren-actress
+bip_39_word_dash_11: melt-rich-pass-divorce-ceiling-steak-flee-need-siren-actress-february
+bip_39_word_dash_12: melt-rich-pass-divorce-ceiling-steak-flee-need-siren-actress-february-asthma
+bip_39_word_dash_2: melt-rich
+bip_39_word_dash_3: melt-rich-pass
+bip_39_word_dash_4: melt-rich-pass-divorce
+bip_39_word_dash_5: melt-rich-pass-divorce-ceiling
+bip_39_word_dash_6: melt-rich-pass-divorce-ceiling-steak
+bip_39_word_dash_7: melt-rich-pass-divorce-ceiling-steak-flee
+bip_39_word_dash_8: melt-rich-pass-divorce-ceiling-steak-flee-need
+bip_39_word_dash_9: melt-rich-pass-divorce-ceiling-steak-flee-need-siren
 bip_39_word_new_br_1: melt
 bip_39_word_new_br_10: melt<br>rich<br>pass<br>divorce<br>ceiling<br>steak<br>flee<br>need<br>siren<br>actress
 bip_39_word_new_br_11: melt<br>rich<br>pass<br>divorce<br>ceiling<br>steak<br>flee<br>need<br>siren<br>actress<br>february
@@ -193,6 +205,18 @@ bip_39_word_space_6: melt rich pass divorce ceiling steak
 bip_39_word_space_7: melt rich pass divorce ceiling steak flee
 bip_39_word_space_8: melt rich pass divorce ceiling steak flee need
 bip_39_word_space_9: melt rich pass divorce ceiling steak flee need siren
+bip_39_word_underscore_1: melt
+bip_39_word_underscore_10: melt_rich_pass_divorce_ceiling_steak_flee_need_siren_actress
+bip_39_word_underscore_11: melt_rich_pass_divorce_ceiling_steak_flee_need_siren_actress_february
+bip_39_word_underscore_12: melt_rich_pass_divorce_ceiling_steak_flee_need_siren_actress_february_asthma
+bip_39_word_underscore_2: melt_rich
+bip_39_word_underscore_3: melt_rich_pass
+bip_39_word_underscore_4: melt_rich_pass_divorce
+bip_39_word_underscore_5: melt_rich_pass_divorce_ceiling
+bip_39_word_underscore_6: melt_rich_pass_divorce_ceiling_steak
+bip_39_word_underscore_7: melt_rich_pass_divorce_ceiling_steak_flee
+bip_39_word_underscore_8: melt_rich_pass_divorce_ceiling_steak_flee_need
+bip_39_word_underscore_9: melt_rich_pass_divorce_ceiling_steak_flee_need_siren
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

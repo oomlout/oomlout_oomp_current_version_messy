@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | huge |  
+| bip_39_word_dash_10 | huge-ask-trip-present-only-awake-fall-visit-discover-put |  
+| bip_39_word_dash_11 | huge-ask-trip-present-only-awake-fall-visit-discover-put-click |  
+| bip_39_word_dash_12 | huge-ask-trip-present-only-awake-fall-visit-discover-put-click-athlete |  
+| bip_39_word_dash_2 | huge-ask |  
+| bip_39_word_dash_3 | huge-ask-trip |  
+| bip_39_word_dash_4 | huge-ask-trip-present |  
+| bip_39_word_dash_5 | huge-ask-trip-present-only |  
+| bip_39_word_dash_6 | huge-ask-trip-present-only-awake |  
+| bip_39_word_dash_7 | huge-ask-trip-present-only-awake-fall |  
+| bip_39_word_dash_8 | huge-ask-trip-present-only-awake-fall-visit |  
+| bip_39_word_dash_9 | huge-ask-trip-present-only-awake-fall-visit-discover |  
 | bip_39_word_new_br_1 | huge |  
 | bip_39_word_new_br_10 | huge<br>ask<br>trip<br>present<br>only<br>awake<br>fall<br>visit<br>discover<br>put |  
 | bip_39_word_new_br_11 | huge<br>ask<br>trip<br>present<br>only<br>awake<br>fall<br>visit<br>discover<br>put<br>click |  
@@ -147,6 +159,18 @@ discover |
 | bip_39_word_space_7 | huge ask trip present only awake fall |  
 | bip_39_word_space_8 | huge ask trip present only awake fall visit |  
 | bip_39_word_space_9 | huge ask trip present only awake fall visit discover |  
+| bip_39_word_underscore_1 | huge |  
+| bip_39_word_underscore_10 | huge_ask_trip_present_only_awake_fall_visit_discover_put |  
+| bip_39_word_underscore_11 | huge_ask_trip_present_only_awake_fall_visit_discover_put_click |  
+| bip_39_word_underscore_12 | huge_ask_trip_present_only_awake_fall_visit_discover_put_click_athlete |  
+| bip_39_word_underscore_2 | huge_ask |  
+| bip_39_word_underscore_3 | huge_ask_trip |  
+| bip_39_word_underscore_4 | huge_ask_trip_present |  
+| bip_39_word_underscore_5 | huge_ask_trip_present_only |  
+| bip_39_word_underscore_6 | huge_ask_trip_present_only_awake |  
+| bip_39_word_underscore_7 | huge_ask_trip_present_only_awake_fall |  
+| bip_39_word_underscore_8 | huge_ask_trip_present_only_awake_fall_visit |  
+| bip_39_word_underscore_9 | huge_ask_trip_present_only_awake_fall_visit_discover |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

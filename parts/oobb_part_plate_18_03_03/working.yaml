@@ -1,3 +1,15 @@
+bip_39_word_dash_1: eager
+bip_39_word_dash_10: eager-crop-copy-wolf-scout-balcony-daring-ball-apology-size
+bip_39_word_dash_11: eager-crop-copy-wolf-scout-balcony-daring-ball-apology-size-oppose
+bip_39_word_dash_12: eager-crop-copy-wolf-scout-balcony-daring-ball-apology-size-oppose-amused
+bip_39_word_dash_2: eager-crop
+bip_39_word_dash_3: eager-crop-copy
+bip_39_word_dash_4: eager-crop-copy-wolf
+bip_39_word_dash_5: eager-crop-copy-wolf-scout
+bip_39_word_dash_6: eager-crop-copy-wolf-scout-balcony
+bip_39_word_dash_7: eager-crop-copy-wolf-scout-balcony-daring
+bip_39_word_dash_8: eager-crop-copy-wolf-scout-balcony-daring-ball
+bip_39_word_dash_9: eager-crop-copy-wolf-scout-balcony-daring-ball-apology
 bip_39_word_new_br_1: eager
 bip_39_word_new_br_10: eager<br>crop<br>copy<br>wolf<br>scout<br>balcony<br>daring<br>ball<br>apology<br>size
 bip_39_word_new_br_11: eager<br>crop<br>copy<br>wolf<br>scout<br>balcony<br>daring<br>ball<br>apology<br>size<br>oppose
@@ -193,6 +205,18 @@ bip_39_word_space_6: eager crop copy wolf scout balcony
 bip_39_word_space_7: eager crop copy wolf scout balcony daring
 bip_39_word_space_8: eager crop copy wolf scout balcony daring ball
 bip_39_word_space_9: eager crop copy wolf scout balcony daring ball apology
+bip_39_word_underscore_1: eager
+bip_39_word_underscore_10: eager_crop_copy_wolf_scout_balcony_daring_ball_apology_size
+bip_39_word_underscore_11: eager_crop_copy_wolf_scout_balcony_daring_ball_apology_size_oppose
+bip_39_word_underscore_12: eager_crop_copy_wolf_scout_balcony_daring_ball_apology_size_oppose_amused
+bip_39_word_underscore_2: eager_crop
+bip_39_word_underscore_3: eager_crop_copy
+bip_39_word_underscore_4: eager_crop_copy_wolf
+bip_39_word_underscore_5: eager_crop_copy_wolf_scout
+bip_39_word_underscore_6: eager_crop_copy_wolf_scout_balcony
+bip_39_word_underscore_7: eager_crop_copy_wolf_scout_balcony_daring
+bip_39_word_underscore_8: eager_crop_copy_wolf_scout_balcony_daring_ball
+bip_39_word_underscore_9: eager_crop_copy_wolf_scout_balcony_daring_ball_apology
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

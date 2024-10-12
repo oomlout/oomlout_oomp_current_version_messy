@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | other |  
+| bip_39_word_dash_10 | other-video-quit-enter-luggage-wasp-silk-because-throw-bomb |  
+| bip_39_word_dash_11 | other-video-quit-enter-luggage-wasp-silk-because-throw-bomb-age |  
+| bip_39_word_dash_12 | other-video-quit-enter-luggage-wasp-silk-because-throw-bomb-age-alien |  
+| bip_39_word_dash_2 | other-video |  
+| bip_39_word_dash_3 | other-video-quit |  
+| bip_39_word_dash_4 | other-video-quit-enter |  
+| bip_39_word_dash_5 | other-video-quit-enter-luggage |  
+| bip_39_word_dash_6 | other-video-quit-enter-luggage-wasp |  
+| bip_39_word_dash_7 | other-video-quit-enter-luggage-wasp-silk |  
+| bip_39_word_dash_8 | other-video-quit-enter-luggage-wasp-silk-because |  
+| bip_39_word_dash_9 | other-video-quit-enter-luggage-wasp-silk-because-throw |  
 | bip_39_word_new_br_1 | other |  
 | bip_39_word_new_br_10 | other<br>video<br>quit<br>enter<br>luggage<br>wasp<br>silk<br>because<br>throw<br>bomb |  
 | bip_39_word_new_br_11 | other<br>video<br>quit<br>enter<br>luggage<br>wasp<br>silk<br>because<br>throw<br>bomb<br>age |  
@@ -147,6 +159,18 @@ throw |
 | bip_39_word_space_7 | other video quit enter luggage wasp silk |  
 | bip_39_word_space_8 | other video quit enter luggage wasp silk because |  
 | bip_39_word_space_9 | other video quit enter luggage wasp silk because throw |  
+| bip_39_word_underscore_1 | other |  
+| bip_39_word_underscore_10 | other_video_quit_enter_luggage_wasp_silk_because_throw_bomb |  
+| bip_39_word_underscore_11 | other_video_quit_enter_luggage_wasp_silk_because_throw_bomb_age |  
+| bip_39_word_underscore_12 | other_video_quit_enter_luggage_wasp_silk_because_throw_bomb_age_alien |  
+| bip_39_word_underscore_2 | other_video |  
+| bip_39_word_underscore_3 | other_video_quit |  
+| bip_39_word_underscore_4 | other_video_quit_enter |  
+| bip_39_word_underscore_5 | other_video_quit_enter_luggage |  
+| bip_39_word_underscore_6 | other_video_quit_enter_luggage_wasp |  
+| bip_39_word_underscore_7 | other_video_quit_enter_luggage_wasp_silk |  
+| bip_39_word_underscore_8 | other_video_quit_enter_luggage_wasp_silk_because |  
+| bip_39_word_underscore_9 | other_video_quit_enter_luggage_wasp_silk_because_throw |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

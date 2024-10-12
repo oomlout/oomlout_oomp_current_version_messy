@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | law |  
+| bip_39_word_dash_10 | law-nephew-hockey-leisure-nasty-act-mimic-coconut-raven-pumpkin |  
+| bip_39_word_dash_11 | law-nephew-hockey-leisure-nasty-act-mimic-coconut-raven-pumpkin-situate |  
+| bip_39_word_dash_12 | law-nephew-hockey-leisure-nasty-act-mimic-coconut-raven-pumpkin-situate-around |  
+| bip_39_word_dash_2 | law-nephew |  
+| bip_39_word_dash_3 | law-nephew-hockey |  
+| bip_39_word_dash_4 | law-nephew-hockey-leisure |  
+| bip_39_word_dash_5 | law-nephew-hockey-leisure-nasty |  
+| bip_39_word_dash_6 | law-nephew-hockey-leisure-nasty-act |  
+| bip_39_word_dash_7 | law-nephew-hockey-leisure-nasty-act-mimic |  
+| bip_39_word_dash_8 | law-nephew-hockey-leisure-nasty-act-mimic-coconut |  
+| bip_39_word_dash_9 | law-nephew-hockey-leisure-nasty-act-mimic-coconut-raven |  
 | bip_39_word_new_br_1 | law |  
 | bip_39_word_new_br_10 | law<br>nephew<br>hockey<br>leisure<br>nasty<br>act<br>mimic<br>coconut<br>raven<br>pumpkin |  
 | bip_39_word_new_br_11 | law<br>nephew<br>hockey<br>leisure<br>nasty<br>act<br>mimic<br>coconut<br>raven<br>pumpkin<br>situate |  
@@ -147,6 +159,18 @@ raven |
 | bip_39_word_space_7 | law nephew hockey leisure nasty act mimic |  
 | bip_39_word_space_8 | law nephew hockey leisure nasty act mimic coconut |  
 | bip_39_word_space_9 | law nephew hockey leisure nasty act mimic coconut raven |  
+| bip_39_word_underscore_1 | law |  
+| bip_39_word_underscore_10 | law_nephew_hockey_leisure_nasty_act_mimic_coconut_raven_pumpkin |  
+| bip_39_word_underscore_11 | law_nephew_hockey_leisure_nasty_act_mimic_coconut_raven_pumpkin_situate |  
+| bip_39_word_underscore_12 | law_nephew_hockey_leisure_nasty_act_mimic_coconut_raven_pumpkin_situate_around |  
+| bip_39_word_underscore_2 | law_nephew |  
+| bip_39_word_underscore_3 | law_nephew_hockey |  
+| bip_39_word_underscore_4 | law_nephew_hockey_leisure |  
+| bip_39_word_underscore_5 | law_nephew_hockey_leisure_nasty |  
+| bip_39_word_underscore_6 | law_nephew_hockey_leisure_nasty_act |  
+| bip_39_word_underscore_7 | law_nephew_hockey_leisure_nasty_act_mimic |  
+| bip_39_word_underscore_8 | law_nephew_hockey_leisure_nasty_act_mimic_coconut |  
+| bip_39_word_underscore_9 | law_nephew_hockey_leisure_nasty_act_mimic_coconut_raven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

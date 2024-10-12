@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dawn |  
+| bip_39_word_dash_10 | dawn-west-sick-keen-that-family-item-pass-famous-poem |  
+| bip_39_word_dash_11 | dawn-west-sick-keen-that-family-item-pass-famous-poem-junk |  
+| bip_39_word_dash_12 | dawn-west-sick-keen-that-family-item-pass-famous-poem-junk-asset |  
+| bip_39_word_dash_2 | dawn-west |  
+| bip_39_word_dash_3 | dawn-west-sick |  
+| bip_39_word_dash_4 | dawn-west-sick-keen |  
+| bip_39_word_dash_5 | dawn-west-sick-keen-that |  
+| bip_39_word_dash_6 | dawn-west-sick-keen-that-family |  
+| bip_39_word_dash_7 | dawn-west-sick-keen-that-family-item |  
+| bip_39_word_dash_8 | dawn-west-sick-keen-that-family-item-pass |  
+| bip_39_word_dash_9 | dawn-west-sick-keen-that-family-item-pass-famous |  
 | bip_39_word_new_br_1 | dawn |  
 | bip_39_word_new_br_10 | dawn<br>west<br>sick<br>keen<br>that<br>family<br>item<br>pass<br>famous<br>poem |  
 | bip_39_word_new_br_11 | dawn<br>west<br>sick<br>keen<br>that<br>family<br>item<br>pass<br>famous<br>poem<br>junk |  
@@ -147,6 +159,18 @@ famous |
 | bip_39_word_space_7 | dawn west sick keen that family item |  
 | bip_39_word_space_8 | dawn west sick keen that family item pass |  
 | bip_39_word_space_9 | dawn west sick keen that family item pass famous |  
+| bip_39_word_underscore_1 | dawn |  
+| bip_39_word_underscore_10 | dawn_west_sick_keen_that_family_item_pass_famous_poem |  
+| bip_39_word_underscore_11 | dawn_west_sick_keen_that_family_item_pass_famous_poem_junk |  
+| bip_39_word_underscore_12 | dawn_west_sick_keen_that_family_item_pass_famous_poem_junk_asset |  
+| bip_39_word_underscore_2 | dawn_west |  
+| bip_39_word_underscore_3 | dawn_west_sick |  
+| bip_39_word_underscore_4 | dawn_west_sick_keen |  
+| bip_39_word_underscore_5 | dawn_west_sick_keen_that |  
+| bip_39_word_underscore_6 | dawn_west_sick_keen_that_family |  
+| bip_39_word_underscore_7 | dawn_west_sick_keen_that_family_item |  
+| bip_39_word_underscore_8 | dawn_west_sick_keen_that_family_item_pass |  
+| bip_39_word_underscore_9 | dawn_west_sick_keen_that_family_item_pass_famous |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

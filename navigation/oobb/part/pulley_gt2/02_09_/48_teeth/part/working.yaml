@@ -1,3 +1,15 @@
+bip_39_word_dash_1: air
+bip_39_word_dash_10: air-candy-great-rain-crucial-toward-peanut-bread-nasty-slender
+bip_39_word_dash_11: air-candy-great-rain-crucial-toward-peanut-bread-nasty-slender-case
+bip_39_word_dash_12: air-candy-great-rain-crucial-toward-peanut-bread-nasty-slender-case-admit
+bip_39_word_dash_2: air-candy
+bip_39_word_dash_3: air-candy-great
+bip_39_word_dash_4: air-candy-great-rain
+bip_39_word_dash_5: air-candy-great-rain-crucial
+bip_39_word_dash_6: air-candy-great-rain-crucial-toward
+bip_39_word_dash_7: air-candy-great-rain-crucial-toward-peanut
+bip_39_word_dash_8: air-candy-great-rain-crucial-toward-peanut-bread
+bip_39_word_dash_9: air-candy-great-rain-crucial-toward-peanut-bread-nasty
 bip_39_word_new_br_1: air
 bip_39_word_new_br_10: air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender
 bip_39_word_new_br_11: air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender<br>case
@@ -193,6 +205,18 @@ bip_39_word_space_6: air candy great rain crucial toward
 bip_39_word_space_7: air candy great rain crucial toward peanut
 bip_39_word_space_8: air candy great rain crucial toward peanut bread
 bip_39_word_space_9: air candy great rain crucial toward peanut bread nasty
+bip_39_word_underscore_1: air
+bip_39_word_underscore_10: air_candy_great_rain_crucial_toward_peanut_bread_nasty_slender
+bip_39_word_underscore_11: air_candy_great_rain_crucial_toward_peanut_bread_nasty_slender_case
+bip_39_word_underscore_12: air_candy_great_rain_crucial_toward_peanut_bread_nasty_slender_case_admit
+bip_39_word_underscore_2: air_candy
+bip_39_word_underscore_3: air_candy_great
+bip_39_word_underscore_4: air_candy_great_rain
+bip_39_word_underscore_5: air_candy_great_rain_crucial
+bip_39_word_underscore_6: air_candy_great_rain_crucial_toward
+bip_39_word_underscore_7: air_candy_great_rain_crucial_toward_peanut
+bip_39_word_underscore_8: air_candy_great_rain_crucial_toward_peanut_bread
+bip_39_word_underscore_9: air_candy_great_rain_crucial_toward_peanut_bread_nasty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

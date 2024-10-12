@@ -1,3 +1,15 @@
+bip_39_word_dash_1: move
+bip_39_word_dash_10: move-pulse-divide-account-still-dice-fiscal-obey-sudden-issue
+bip_39_word_dash_11: move-pulse-divide-account-still-dice-fiscal-obey-sudden-issue-web
+bip_39_word_dash_12: move-pulse-divide-account-still-dice-fiscal-obey-sudden-issue-web-also
+bip_39_word_dash_2: move-pulse
+bip_39_word_dash_3: move-pulse-divide
+bip_39_word_dash_4: move-pulse-divide-account
+bip_39_word_dash_5: move-pulse-divide-account-still
+bip_39_word_dash_6: move-pulse-divide-account-still-dice
+bip_39_word_dash_7: move-pulse-divide-account-still-dice-fiscal
+bip_39_word_dash_8: move-pulse-divide-account-still-dice-fiscal-obey
+bip_39_word_dash_9: move-pulse-divide-account-still-dice-fiscal-obey-sudden
 bip_39_word_new_br_1: move
 bip_39_word_new_br_10: move<br>pulse<br>divide<br>account<br>still<br>dice<br>fiscal<br>obey<br>sudden<br>issue
 bip_39_word_new_br_11: move<br>pulse<br>divide<br>account<br>still<br>dice<br>fiscal<br>obey<br>sudden<br>issue<br>web
@@ -193,6 +205,18 @@ bip_39_word_space_6: move pulse divide account still dice
 bip_39_word_space_7: move pulse divide account still dice fiscal
 bip_39_word_space_8: move pulse divide account still dice fiscal obey
 bip_39_word_space_9: move pulse divide account still dice fiscal obey sudden
+bip_39_word_underscore_1: move
+bip_39_word_underscore_10: move_pulse_divide_account_still_dice_fiscal_obey_sudden_issue
+bip_39_word_underscore_11: move_pulse_divide_account_still_dice_fiscal_obey_sudden_issue_web
+bip_39_word_underscore_12: move_pulse_divide_account_still_dice_fiscal_obey_sudden_issue_web_also
+bip_39_word_underscore_2: move_pulse
+bip_39_word_underscore_3: move_pulse_divide
+bip_39_word_underscore_4: move_pulse_divide_account
+bip_39_word_underscore_5: move_pulse_divide_account_still
+bip_39_word_underscore_6: move_pulse_divide_account_still_dice
+bip_39_word_underscore_7: move_pulse_divide_account_still_dice_fiscal
+bip_39_word_underscore_8: move_pulse_divide_account_still_dice_fiscal_obey
+bip_39_word_underscore_9: move_pulse_divide_account_still_dice_fiscal_obey_sudden
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

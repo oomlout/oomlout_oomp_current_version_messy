@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | couch |  
+| bip_39_word_dash_10 | couch-illegal-jelly-cabbage-age-waste-hard-gospel-swim-comic |  
+| bip_39_word_dash_11 | couch-illegal-jelly-cabbage-age-waste-hard-gospel-swim-comic-blind |  
+| bip_39_word_dash_12 | couch-illegal-jelly-cabbage-age-waste-hard-gospel-swim-comic-blind-apple |  
+| bip_39_word_dash_2 | couch-illegal |  
+| bip_39_word_dash_3 | couch-illegal-jelly |  
+| bip_39_word_dash_4 | couch-illegal-jelly-cabbage |  
+| bip_39_word_dash_5 | couch-illegal-jelly-cabbage-age |  
+| bip_39_word_dash_6 | couch-illegal-jelly-cabbage-age-waste |  
+| bip_39_word_dash_7 | couch-illegal-jelly-cabbage-age-waste-hard |  
+| bip_39_word_dash_8 | couch-illegal-jelly-cabbage-age-waste-hard-gospel |  
+| bip_39_word_dash_9 | couch-illegal-jelly-cabbage-age-waste-hard-gospel-swim |  
 | bip_39_word_new_br_1 | couch |  
 | bip_39_word_new_br_10 | couch<br>illegal<br>jelly<br>cabbage<br>age<br>waste<br>hard<br>gospel<br>swim<br>comic |  
 | bip_39_word_new_br_11 | couch<br>illegal<br>jelly<br>cabbage<br>age<br>waste<br>hard<br>gospel<br>swim<br>comic<br>blind |  
@@ -147,6 +159,18 @@ swim |
 | bip_39_word_space_7 | couch illegal jelly cabbage age waste hard |  
 | bip_39_word_space_8 | couch illegal jelly cabbage age waste hard gospel |  
 | bip_39_word_space_9 | couch illegal jelly cabbage age waste hard gospel swim |  
+| bip_39_word_underscore_1 | couch |  
+| bip_39_word_underscore_10 | couch_illegal_jelly_cabbage_age_waste_hard_gospel_swim_comic |  
+| bip_39_word_underscore_11 | couch_illegal_jelly_cabbage_age_waste_hard_gospel_swim_comic_blind |  
+| bip_39_word_underscore_12 | couch_illegal_jelly_cabbage_age_waste_hard_gospel_swim_comic_blind_apple |  
+| bip_39_word_underscore_2 | couch_illegal |  
+| bip_39_word_underscore_3 | couch_illegal_jelly |  
+| bip_39_word_underscore_4 | couch_illegal_jelly_cabbage |  
+| bip_39_word_underscore_5 | couch_illegal_jelly_cabbage_age |  
+| bip_39_word_underscore_6 | couch_illegal_jelly_cabbage_age_waste |  
+| bip_39_word_underscore_7 | couch_illegal_jelly_cabbage_age_waste_hard |  
+| bip_39_word_underscore_8 | couch_illegal_jelly_cabbage_age_waste_hard_gospel |  
+| bip_39_word_underscore_9 | couch_illegal_jelly_cabbage_age_waste_hard_gospel_swim |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

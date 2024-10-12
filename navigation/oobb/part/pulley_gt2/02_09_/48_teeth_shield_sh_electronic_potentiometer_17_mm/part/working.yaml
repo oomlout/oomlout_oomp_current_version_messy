@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lawsuit
+bip_39_word_dash_10: lawsuit-notable-yard-drill-vicious-cry-make-age-output-stamp
+bip_39_word_dash_11: lawsuit-notable-yard-drill-vicious-cry-make-age-output-stamp-load
+bip_39_word_dash_12: lawsuit-notable-yard-drill-vicious-cry-make-age-output-stamp-load-afraid
+bip_39_word_dash_2: lawsuit-notable
+bip_39_word_dash_3: lawsuit-notable-yard
+bip_39_word_dash_4: lawsuit-notable-yard-drill
+bip_39_word_dash_5: lawsuit-notable-yard-drill-vicious
+bip_39_word_dash_6: lawsuit-notable-yard-drill-vicious-cry
+bip_39_word_dash_7: lawsuit-notable-yard-drill-vicious-cry-make
+bip_39_word_dash_8: lawsuit-notable-yard-drill-vicious-cry-make-age
+bip_39_word_dash_9: lawsuit-notable-yard-drill-vicious-cry-make-age-output
 bip_39_word_new_br_1: lawsuit
 bip_39_word_new_br_10: lawsuit<br>notable<br>yard<br>drill<br>vicious<br>cry<br>make<br>age<br>output<br>stamp
 bip_39_word_new_br_11: lawsuit<br>notable<br>yard<br>drill<br>vicious<br>cry<br>make<br>age<br>output<br>stamp<br>load
@@ -193,6 +205,18 @@ bip_39_word_space_6: lawsuit notable yard drill vicious cry
 bip_39_word_space_7: lawsuit notable yard drill vicious cry make
 bip_39_word_space_8: lawsuit notable yard drill vicious cry make age
 bip_39_word_space_9: lawsuit notable yard drill vicious cry make age output
+bip_39_word_underscore_1: lawsuit
+bip_39_word_underscore_10: lawsuit_notable_yard_drill_vicious_cry_make_age_output_stamp
+bip_39_word_underscore_11: lawsuit_notable_yard_drill_vicious_cry_make_age_output_stamp_load
+bip_39_word_underscore_12: lawsuit_notable_yard_drill_vicious_cry_make_age_output_stamp_load_afraid
+bip_39_word_underscore_2: lawsuit_notable
+bip_39_word_underscore_3: lawsuit_notable_yard
+bip_39_word_underscore_4: lawsuit_notable_yard_drill
+bip_39_word_underscore_5: lawsuit_notable_yard_drill_vicious
+bip_39_word_underscore_6: lawsuit_notable_yard_drill_vicious_cry
+bip_39_word_underscore_7: lawsuit_notable_yard_drill_vicious_cry_make
+bip_39_word_underscore_8: lawsuit_notable_yard_drill_vicious_cry_make_age
+bip_39_word_underscore_9: lawsuit_notable_yard_drill_vicious_cry_make_age_output
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

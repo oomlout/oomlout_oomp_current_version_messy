@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cargo
+bip_39_word_dash_10: cargo-rival-mean-aerobic-prison-wrestle-nuclear-fiscal-fly-canvas
+bip_39_word_dash_11: cargo-rival-mean-aerobic-prison-wrestle-nuclear-fiscal-fly-canvas-lunch
+bip_39_word_dash_12: cargo-rival-mean-aerobic-prison-wrestle-nuclear-fiscal-fly-canvas-lunch-apple
+bip_39_word_dash_2: cargo-rival
+bip_39_word_dash_3: cargo-rival-mean
+bip_39_word_dash_4: cargo-rival-mean-aerobic
+bip_39_word_dash_5: cargo-rival-mean-aerobic-prison
+bip_39_word_dash_6: cargo-rival-mean-aerobic-prison-wrestle
+bip_39_word_dash_7: cargo-rival-mean-aerobic-prison-wrestle-nuclear
+bip_39_word_dash_8: cargo-rival-mean-aerobic-prison-wrestle-nuclear-fiscal
+bip_39_word_dash_9: cargo-rival-mean-aerobic-prison-wrestle-nuclear-fiscal-fly
 bip_39_word_new_br_1: cargo
 bip_39_word_new_br_10: cargo<br>rival<br>mean<br>aerobic<br>prison<br>wrestle<br>nuclear<br>fiscal<br>fly<br>canvas
 bip_39_word_new_br_11: cargo<br>rival<br>mean<br>aerobic<br>prison<br>wrestle<br>nuclear<br>fiscal<br>fly<br>canvas<br>lunch
@@ -193,6 +205,18 @@ bip_39_word_space_6: cargo rival mean aerobic prison wrestle
 bip_39_word_space_7: cargo rival mean aerobic prison wrestle nuclear
 bip_39_word_space_8: cargo rival mean aerobic prison wrestle nuclear fiscal
 bip_39_word_space_9: cargo rival mean aerobic prison wrestle nuclear fiscal fly
+bip_39_word_underscore_1: cargo
+bip_39_word_underscore_10: cargo_rival_mean_aerobic_prison_wrestle_nuclear_fiscal_fly_canvas
+bip_39_word_underscore_11: cargo_rival_mean_aerobic_prison_wrestle_nuclear_fiscal_fly_canvas_lunch
+bip_39_word_underscore_12: cargo_rival_mean_aerobic_prison_wrestle_nuclear_fiscal_fly_canvas_lunch_apple
+bip_39_word_underscore_2: cargo_rival
+bip_39_word_underscore_3: cargo_rival_mean
+bip_39_word_underscore_4: cargo_rival_mean_aerobic
+bip_39_word_underscore_5: cargo_rival_mean_aerobic_prison
+bip_39_word_underscore_6: cargo_rival_mean_aerobic_prison_wrestle
+bip_39_word_underscore_7: cargo_rival_mean_aerobic_prison_wrestle_nuclear
+bip_39_word_underscore_8: cargo_rival_mean_aerobic_prison_wrestle_nuclear_fiscal
+bip_39_word_underscore_9: cargo_rival_mean_aerobic_prison_wrestle_nuclear_fiscal_fly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

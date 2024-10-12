@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rebuild |  
+| bip_39_word_dash_10 | rebuild-fabric-print-isolate-document-inject-make-blanket-assault-photo |  
+| bip_39_word_dash_11 | rebuild-fabric-print-isolate-document-inject-make-blanket-assault-photo-order |  
+| bip_39_word_dash_12 | rebuild-fabric-print-isolate-document-inject-make-blanket-assault-photo-order-advice |  
+| bip_39_word_dash_2 | rebuild-fabric |  
+| bip_39_word_dash_3 | rebuild-fabric-print |  
+| bip_39_word_dash_4 | rebuild-fabric-print-isolate |  
+| bip_39_word_dash_5 | rebuild-fabric-print-isolate-document |  
+| bip_39_word_dash_6 | rebuild-fabric-print-isolate-document-inject |  
+| bip_39_word_dash_7 | rebuild-fabric-print-isolate-document-inject-make |  
+| bip_39_word_dash_8 | rebuild-fabric-print-isolate-document-inject-make-blanket |  
+| bip_39_word_dash_9 | rebuild-fabric-print-isolate-document-inject-make-blanket-assault |  
 | bip_39_word_new_br_1 | rebuild |  
 | bip_39_word_new_br_10 | rebuild<br>fabric<br>print<br>isolate<br>document<br>inject<br>make<br>blanket<br>assault<br>photo |  
 | bip_39_word_new_br_11 | rebuild<br>fabric<br>print<br>isolate<br>document<br>inject<br>make<br>blanket<br>assault<br>photo<br>order |  
@@ -147,6 +159,18 @@ assault |
 | bip_39_word_space_7 | rebuild fabric print isolate document inject make |  
 | bip_39_word_space_8 | rebuild fabric print isolate document inject make blanket |  
 | bip_39_word_space_9 | rebuild fabric print isolate document inject make blanket assault |  
+| bip_39_word_underscore_1 | rebuild |  
+| bip_39_word_underscore_10 | rebuild_fabric_print_isolate_document_inject_make_blanket_assault_photo |  
+| bip_39_word_underscore_11 | rebuild_fabric_print_isolate_document_inject_make_blanket_assault_photo_order |  
+| bip_39_word_underscore_12 | rebuild_fabric_print_isolate_document_inject_make_blanket_assault_photo_order_advice |  
+| bip_39_word_underscore_2 | rebuild_fabric |  
+| bip_39_word_underscore_3 | rebuild_fabric_print |  
+| bip_39_word_underscore_4 | rebuild_fabric_print_isolate |  
+| bip_39_word_underscore_5 | rebuild_fabric_print_isolate_document |  
+| bip_39_word_underscore_6 | rebuild_fabric_print_isolate_document_inject |  
+| bip_39_word_underscore_7 | rebuild_fabric_print_isolate_document_inject_make |  
+| bip_39_word_underscore_8 | rebuild_fabric_print_isolate_document_inject_make_blanket |  
+| bip_39_word_underscore_9 | rebuild_fabric_print_isolate_document_inject_make_blanket_assault |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

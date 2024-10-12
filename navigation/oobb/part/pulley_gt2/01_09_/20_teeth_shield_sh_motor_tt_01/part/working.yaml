@@ -1,3 +1,15 @@
+bip_39_word_dash_1: agree
+bip_39_word_dash_10: agree-round-wrestle-ahead-this-surprise-easy-uphold-follow-great
+bip_39_word_dash_11: agree-round-wrestle-ahead-this-surprise-easy-uphold-follow-great-pluck
+bip_39_word_dash_12: agree-round-wrestle-ahead-this-surprise-easy-uphold-follow-great-pluck-about
+bip_39_word_dash_2: agree-round
+bip_39_word_dash_3: agree-round-wrestle
+bip_39_word_dash_4: agree-round-wrestle-ahead
+bip_39_word_dash_5: agree-round-wrestle-ahead-this
+bip_39_word_dash_6: agree-round-wrestle-ahead-this-surprise
+bip_39_word_dash_7: agree-round-wrestle-ahead-this-surprise-easy
+bip_39_word_dash_8: agree-round-wrestle-ahead-this-surprise-easy-uphold
+bip_39_word_dash_9: agree-round-wrestle-ahead-this-surprise-easy-uphold-follow
 bip_39_word_new_br_1: agree
 bip_39_word_new_br_10: agree<br>round<br>wrestle<br>ahead<br>this<br>surprise<br>easy<br>uphold<br>follow<br>great
 bip_39_word_new_br_11: agree<br>round<br>wrestle<br>ahead<br>this<br>surprise<br>easy<br>uphold<br>follow<br>great<br>pluck
@@ -193,6 +205,18 @@ bip_39_word_space_6: agree round wrestle ahead this surprise
 bip_39_word_space_7: agree round wrestle ahead this surprise easy
 bip_39_word_space_8: agree round wrestle ahead this surprise easy uphold
 bip_39_word_space_9: agree round wrestle ahead this surprise easy uphold follow
+bip_39_word_underscore_1: agree
+bip_39_word_underscore_10: agree_round_wrestle_ahead_this_surprise_easy_uphold_follow_great
+bip_39_word_underscore_11: agree_round_wrestle_ahead_this_surprise_easy_uphold_follow_great_pluck
+bip_39_word_underscore_12: agree_round_wrestle_ahead_this_surprise_easy_uphold_follow_great_pluck_about
+bip_39_word_underscore_2: agree_round
+bip_39_word_underscore_3: agree_round_wrestle
+bip_39_word_underscore_4: agree_round_wrestle_ahead
+bip_39_word_underscore_5: agree_round_wrestle_ahead_this
+bip_39_word_underscore_6: agree_round_wrestle_ahead_this_surprise
+bip_39_word_underscore_7: agree_round_wrestle_ahead_this_surprise_easy
+bip_39_word_underscore_8: agree_round_wrestle_ahead_this_surprise_easy_uphold
+bip_39_word_underscore_9: agree_round_wrestle_ahead_this_surprise_easy_uphold_follow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oval |  
+| bip_39_word_dash_10 | oval-laugh-sting-humor-soccer-business-pyramid-define-fiscal-develop |  
+| bip_39_word_dash_11 | oval-laugh-sting-humor-soccer-business-pyramid-define-fiscal-develop-expire |  
+| bip_39_word_dash_12 | oval-laugh-sting-humor-soccer-business-pyramid-define-fiscal-develop-expire-ask |  
+| bip_39_word_dash_2 | oval-laugh |  
+| bip_39_word_dash_3 | oval-laugh-sting |  
+| bip_39_word_dash_4 | oval-laugh-sting-humor |  
+| bip_39_word_dash_5 | oval-laugh-sting-humor-soccer |  
+| bip_39_word_dash_6 | oval-laugh-sting-humor-soccer-business |  
+| bip_39_word_dash_7 | oval-laugh-sting-humor-soccer-business-pyramid |  
+| bip_39_word_dash_8 | oval-laugh-sting-humor-soccer-business-pyramid-define |  
+| bip_39_word_dash_9 | oval-laugh-sting-humor-soccer-business-pyramid-define-fiscal |  
 | bip_39_word_new_br_1 | oval |  
 | bip_39_word_new_br_10 | oval<br>laugh<br>sting<br>humor<br>soccer<br>business<br>pyramid<br>define<br>fiscal<br>develop |  
 | bip_39_word_new_br_11 | oval<br>laugh<br>sting<br>humor<br>soccer<br>business<br>pyramid<br>define<br>fiscal<br>develop<br>expire |  
@@ -147,6 +159,18 @@ fiscal |
 | bip_39_word_space_7 | oval laugh sting humor soccer business pyramid |  
 | bip_39_word_space_8 | oval laugh sting humor soccer business pyramid define |  
 | bip_39_word_space_9 | oval laugh sting humor soccer business pyramid define fiscal |  
+| bip_39_word_underscore_1 | oval |  
+| bip_39_word_underscore_10 | oval_laugh_sting_humor_soccer_business_pyramid_define_fiscal_develop |  
+| bip_39_word_underscore_11 | oval_laugh_sting_humor_soccer_business_pyramid_define_fiscal_develop_expire |  
+| bip_39_word_underscore_12 | oval_laugh_sting_humor_soccer_business_pyramid_define_fiscal_develop_expire_ask |  
+| bip_39_word_underscore_2 | oval_laugh |  
+| bip_39_word_underscore_3 | oval_laugh_sting |  
+| bip_39_word_underscore_4 | oval_laugh_sting_humor |  
+| bip_39_word_underscore_5 | oval_laugh_sting_humor_soccer |  
+| bip_39_word_underscore_6 | oval_laugh_sting_humor_soccer_business |  
+| bip_39_word_underscore_7 | oval_laugh_sting_humor_soccer_business_pyramid |  
+| bip_39_word_underscore_8 | oval_laugh_sting_humor_soccer_business_pyramid_define |  
+| bip_39_word_underscore_9 | oval_laugh_sting_humor_soccer_business_pyramid_define_fiscal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

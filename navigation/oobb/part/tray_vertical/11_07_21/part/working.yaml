@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clarify
+bip_39_word_dash_10: clarify-forward-then-hair-wall-spin-defy-hammer-denial-valid
+bip_39_word_dash_11: clarify-forward-then-hair-wall-spin-defy-hammer-denial-valid-sustain
+bip_39_word_dash_12: clarify-forward-then-hair-wall-spin-defy-hammer-denial-valid-sustain-aisle
+bip_39_word_dash_2: clarify-forward
+bip_39_word_dash_3: clarify-forward-then
+bip_39_word_dash_4: clarify-forward-then-hair
+bip_39_word_dash_5: clarify-forward-then-hair-wall
+bip_39_word_dash_6: clarify-forward-then-hair-wall-spin
+bip_39_word_dash_7: clarify-forward-then-hair-wall-spin-defy
+bip_39_word_dash_8: clarify-forward-then-hair-wall-spin-defy-hammer
+bip_39_word_dash_9: clarify-forward-then-hair-wall-spin-defy-hammer-denial
 bip_39_word_new_br_1: clarify
 bip_39_word_new_br_10: clarify<br>forward<br>then<br>hair<br>wall<br>spin<br>defy<br>hammer<br>denial<br>valid
 bip_39_word_new_br_11: clarify<br>forward<br>then<br>hair<br>wall<br>spin<br>defy<br>hammer<br>denial<br>valid<br>sustain
@@ -193,6 +205,18 @@ bip_39_word_space_6: clarify forward then hair wall spin
 bip_39_word_space_7: clarify forward then hair wall spin defy
 bip_39_word_space_8: clarify forward then hair wall spin defy hammer
 bip_39_word_space_9: clarify forward then hair wall spin defy hammer denial
+bip_39_word_underscore_1: clarify
+bip_39_word_underscore_10: clarify_forward_then_hair_wall_spin_defy_hammer_denial_valid
+bip_39_word_underscore_11: clarify_forward_then_hair_wall_spin_defy_hammer_denial_valid_sustain
+bip_39_word_underscore_12: clarify_forward_then_hair_wall_spin_defy_hammer_denial_valid_sustain_aisle
+bip_39_word_underscore_2: clarify_forward
+bip_39_word_underscore_3: clarify_forward_then
+bip_39_word_underscore_4: clarify_forward_then_hair
+bip_39_word_underscore_5: clarify_forward_then_hair_wall
+bip_39_word_underscore_6: clarify_forward_then_hair_wall_spin
+bip_39_word_underscore_7: clarify_forward_then_hair_wall_spin_defy
+bip_39_word_underscore_8: clarify_forward_then_hair_wall_spin_defy_hammer
+bip_39_word_underscore_9: clarify_forward_then_hair_wall_spin_defy_hammer_denial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

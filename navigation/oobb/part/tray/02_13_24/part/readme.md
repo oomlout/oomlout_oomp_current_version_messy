@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fold |  
+| bip_39_word_dash_10 | fold-laptop-liberty-want-helmet-miss-vacuum-prosper-gadget-urban |  
+| bip_39_word_dash_11 | fold-laptop-liberty-want-helmet-miss-vacuum-prosper-gadget-urban-wash |  
+| bip_39_word_dash_12 | fold-laptop-liberty-want-helmet-miss-vacuum-prosper-gadget-urban-wash-autumn |  
+| bip_39_word_dash_2 | fold-laptop |  
+| bip_39_word_dash_3 | fold-laptop-liberty |  
+| bip_39_word_dash_4 | fold-laptop-liberty-want |  
+| bip_39_word_dash_5 | fold-laptop-liberty-want-helmet |  
+| bip_39_word_dash_6 | fold-laptop-liberty-want-helmet-miss |  
+| bip_39_word_dash_7 | fold-laptop-liberty-want-helmet-miss-vacuum |  
+| bip_39_word_dash_8 | fold-laptop-liberty-want-helmet-miss-vacuum-prosper |  
+| bip_39_word_dash_9 | fold-laptop-liberty-want-helmet-miss-vacuum-prosper-gadget |  
 | bip_39_word_new_br_1 | fold |  
 | bip_39_word_new_br_10 | fold<br>laptop<br>liberty<br>want<br>helmet<br>miss<br>vacuum<br>prosper<br>gadget<br>urban |  
 | bip_39_word_new_br_11 | fold<br>laptop<br>liberty<br>want<br>helmet<br>miss<br>vacuum<br>prosper<br>gadget<br>urban<br>wash |  
@@ -147,6 +159,18 @@ gadget |
 | bip_39_word_space_7 | fold laptop liberty want helmet miss vacuum |  
 | bip_39_word_space_8 | fold laptop liberty want helmet miss vacuum prosper |  
 | bip_39_word_space_9 | fold laptop liberty want helmet miss vacuum prosper gadget |  
+| bip_39_word_underscore_1 | fold |  
+| bip_39_word_underscore_10 | fold_laptop_liberty_want_helmet_miss_vacuum_prosper_gadget_urban |  
+| bip_39_word_underscore_11 | fold_laptop_liberty_want_helmet_miss_vacuum_prosper_gadget_urban_wash |  
+| bip_39_word_underscore_12 | fold_laptop_liberty_want_helmet_miss_vacuum_prosper_gadget_urban_wash_autumn |  
+| bip_39_word_underscore_2 | fold_laptop |  
+| bip_39_word_underscore_3 | fold_laptop_liberty |  
+| bip_39_word_underscore_4 | fold_laptop_liberty_want |  
+| bip_39_word_underscore_5 | fold_laptop_liberty_want_helmet |  
+| bip_39_word_underscore_6 | fold_laptop_liberty_want_helmet_miss |  
+| bip_39_word_underscore_7 | fold_laptop_liberty_want_helmet_miss_vacuum |  
+| bip_39_word_underscore_8 | fold_laptop_liberty_want_helmet_miss_vacuum_prosper |  
+| bip_39_word_underscore_9 | fold_laptop_liberty_want_helmet_miss_vacuum_prosper_gadget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

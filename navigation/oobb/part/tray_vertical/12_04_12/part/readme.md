@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dynamic |  
+| bip_39_word_dash_10 | dynamic-bread-cave-choose-power-air-song-mail-raise-polar |  
+| bip_39_word_dash_11 | dynamic-bread-cave-choose-power-air-song-mail-raise-polar-select |  
+| bip_39_word_dash_12 | dynamic-bread-cave-choose-power-air-song-mail-raise-polar-select-autumn |  
+| bip_39_word_dash_2 | dynamic-bread |  
+| bip_39_word_dash_3 | dynamic-bread-cave |  
+| bip_39_word_dash_4 | dynamic-bread-cave-choose |  
+| bip_39_word_dash_5 | dynamic-bread-cave-choose-power |  
+| bip_39_word_dash_6 | dynamic-bread-cave-choose-power-air |  
+| bip_39_word_dash_7 | dynamic-bread-cave-choose-power-air-song |  
+| bip_39_word_dash_8 | dynamic-bread-cave-choose-power-air-song-mail |  
+| bip_39_word_dash_9 | dynamic-bread-cave-choose-power-air-song-mail-raise |  
 | bip_39_word_new_br_1 | dynamic |  
 | bip_39_word_new_br_10 | dynamic<br>bread<br>cave<br>choose<br>power<br>air<br>song<br>mail<br>raise<br>polar |  
 | bip_39_word_new_br_11 | dynamic<br>bread<br>cave<br>choose<br>power<br>air<br>song<br>mail<br>raise<br>polar<br>select |  
@@ -147,6 +159,18 @@ raise |
 | bip_39_word_space_7 | dynamic bread cave choose power air song |  
 | bip_39_word_space_8 | dynamic bread cave choose power air song mail |  
 | bip_39_word_space_9 | dynamic bread cave choose power air song mail raise |  
+| bip_39_word_underscore_1 | dynamic |  
+| bip_39_word_underscore_10 | dynamic_bread_cave_choose_power_air_song_mail_raise_polar |  
+| bip_39_word_underscore_11 | dynamic_bread_cave_choose_power_air_song_mail_raise_polar_select |  
+| bip_39_word_underscore_12 | dynamic_bread_cave_choose_power_air_song_mail_raise_polar_select_autumn |  
+| bip_39_word_underscore_2 | dynamic_bread |  
+| bip_39_word_underscore_3 | dynamic_bread_cave |  
+| bip_39_word_underscore_4 | dynamic_bread_cave_choose |  
+| bip_39_word_underscore_5 | dynamic_bread_cave_choose_power |  
+| bip_39_word_underscore_6 | dynamic_bread_cave_choose_power_air |  
+| bip_39_word_underscore_7 | dynamic_bread_cave_choose_power_air_song |  
+| bip_39_word_underscore_8 | dynamic_bread_cave_choose_power_air_song_mail |  
+| bip_39_word_underscore_9 | dynamic_bread_cave_choose_power_air_song_mail_raise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

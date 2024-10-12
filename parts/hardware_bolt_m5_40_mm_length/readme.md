@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | country |  
+| bip_39_word_dash_10 | country-bounce-wagon-van-hair-pudding-refuse-vague-elite-smile |  
+| bip_39_word_dash_11 | country-bounce-wagon-van-hair-pudding-refuse-vague-elite-smile-stage |  
+| bip_39_word_dash_12 | country-bounce-wagon-van-hair-pudding-refuse-vague-elite-smile-stage-above |  
+| bip_39_word_dash_2 | country-bounce |  
+| bip_39_word_dash_3 | country-bounce-wagon |  
+| bip_39_word_dash_4 | country-bounce-wagon-van |  
+| bip_39_word_dash_5 | country-bounce-wagon-van-hair |  
+| bip_39_word_dash_6 | country-bounce-wagon-van-hair-pudding |  
+| bip_39_word_dash_7 | country-bounce-wagon-van-hair-pudding-refuse |  
+| bip_39_word_dash_8 | country-bounce-wagon-van-hair-pudding-refuse-vague |  
+| bip_39_word_dash_9 | country-bounce-wagon-van-hair-pudding-refuse-vague-elite |  
 | bip_39_word_new_br_1 | country |  
 | bip_39_word_new_br_10 | country<br>bounce<br>wagon<br>van<br>hair<br>pudding<br>refuse<br>vague<br>elite<br>smile |  
 | bip_39_word_new_br_11 | country<br>bounce<br>wagon<br>van<br>hair<br>pudding<br>refuse<br>vague<br>elite<br>smile<br>stage |  
@@ -147,6 +159,18 @@ elite |
 | bip_39_word_space_7 | country bounce wagon van hair pudding refuse |  
 | bip_39_word_space_8 | country bounce wagon van hair pudding refuse vague |  
 | bip_39_word_space_9 | country bounce wagon van hair pudding refuse vague elite |  
+| bip_39_word_underscore_1 | country |  
+| bip_39_word_underscore_10 | country_bounce_wagon_van_hair_pudding_refuse_vague_elite_smile |  
+| bip_39_word_underscore_11 | country_bounce_wagon_van_hair_pudding_refuse_vague_elite_smile_stage |  
+| bip_39_word_underscore_12 | country_bounce_wagon_van_hair_pudding_refuse_vague_elite_smile_stage_above |  
+| bip_39_word_underscore_2 | country_bounce |  
+| bip_39_word_underscore_3 | country_bounce_wagon |  
+| bip_39_word_underscore_4 | country_bounce_wagon_van |  
+| bip_39_word_underscore_5 | country_bounce_wagon_van_hair |  
+| bip_39_word_underscore_6 | country_bounce_wagon_van_hair_pudding |  
+| bip_39_word_underscore_7 | country_bounce_wagon_van_hair_pudding_refuse |  
+| bip_39_word_underscore_8 | country_bounce_wagon_van_hair_pudding_refuse_vague |  
+| bip_39_word_underscore_9 | country_bounce_wagon_van_hair_pudding_refuse_vague_elite |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

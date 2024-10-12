@@ -1,3 +1,15 @@
+bip_39_word_dash_1: strong
+bip_39_word_dash_10: strong-place-shop-oak-praise-consider-wall-click-gun-push
+bip_39_word_dash_11: strong-place-shop-oak-praise-consider-wall-click-gun-push-album
+bip_39_word_dash_12: strong-place-shop-oak-praise-consider-wall-click-gun-push-album-annual
+bip_39_word_dash_2: strong-place
+bip_39_word_dash_3: strong-place-shop
+bip_39_word_dash_4: strong-place-shop-oak
+bip_39_word_dash_5: strong-place-shop-oak-praise
+bip_39_word_dash_6: strong-place-shop-oak-praise-consider
+bip_39_word_dash_7: strong-place-shop-oak-praise-consider-wall
+bip_39_word_dash_8: strong-place-shop-oak-praise-consider-wall-click
+bip_39_word_dash_9: strong-place-shop-oak-praise-consider-wall-click-gun
 bip_39_word_new_br_1: strong
 bip_39_word_new_br_10: strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push
 bip_39_word_new_br_11: strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push<br>album
@@ -192,6 +204,18 @@ bip_39_word_space_6: strong place shop oak praise consider
 bip_39_word_space_7: strong place shop oak praise consider wall
 bip_39_word_space_8: strong place shop oak praise consider wall click
 bip_39_word_space_9: strong place shop oak praise consider wall click gun
+bip_39_word_underscore_1: strong
+bip_39_word_underscore_10: strong_place_shop_oak_praise_consider_wall_click_gun_push
+bip_39_word_underscore_11: strong_place_shop_oak_praise_consider_wall_click_gun_push_album
+bip_39_word_underscore_12: strong_place_shop_oak_praise_consider_wall_click_gun_push_album_annual
+bip_39_word_underscore_2: strong_place
+bip_39_word_underscore_3: strong_place_shop
+bip_39_word_underscore_4: strong_place_shop_oak
+bip_39_word_underscore_5: strong_place_shop_oak_praise
+bip_39_word_underscore_6: strong_place_shop_oak_praise_consider
+bip_39_word_underscore_7: strong_place_shop_oak_praise_consider_wall
+bip_39_word_underscore_8: strong_place_shop_oak_praise_consider_wall_click
+bip_39_word_underscore_9: strong_place_shop_oak_praise_consider_wall_click_gun
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

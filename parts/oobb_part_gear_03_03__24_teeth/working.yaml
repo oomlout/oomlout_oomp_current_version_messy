@@ -1,3 +1,15 @@
+bip_39_word_dash_1: melt
+bip_39_word_dash_10: melt-few-atom-private-input-luxury-fee-civil-chef-fee
+bip_39_word_dash_11: melt-few-atom-private-input-luxury-fee-civil-chef-fee-shuffle
+bip_39_word_dash_12: melt-few-atom-private-input-luxury-fee-civil-chef-fee-shuffle-amused
+bip_39_word_dash_2: melt-few
+bip_39_word_dash_3: melt-few-atom
+bip_39_word_dash_4: melt-few-atom-private
+bip_39_word_dash_5: melt-few-atom-private-input
+bip_39_word_dash_6: melt-few-atom-private-input-luxury
+bip_39_word_dash_7: melt-few-atom-private-input-luxury-fee
+bip_39_word_dash_8: melt-few-atom-private-input-luxury-fee-civil
+bip_39_word_dash_9: melt-few-atom-private-input-luxury-fee-civil-chef
 bip_39_word_new_br_1: melt
 bip_39_word_new_br_10: melt<br>few<br>atom<br>private<br>input<br>luxury<br>fee<br>civil<br>chef<br>fee
 bip_39_word_new_br_11: melt<br>few<br>atom<br>private<br>input<br>luxury<br>fee<br>civil<br>chef<br>fee<br>shuffle
@@ -192,6 +204,18 @@ bip_39_word_space_6: melt few atom private input luxury
 bip_39_word_space_7: melt few atom private input luxury fee
 bip_39_word_space_8: melt few atom private input luxury fee civil
 bip_39_word_space_9: melt few atom private input luxury fee civil chef
+bip_39_word_underscore_1: melt
+bip_39_word_underscore_10: melt_few_atom_private_input_luxury_fee_civil_chef_fee
+bip_39_word_underscore_11: melt_few_atom_private_input_luxury_fee_civil_chef_fee_shuffle
+bip_39_word_underscore_12: melt_few_atom_private_input_luxury_fee_civil_chef_fee_shuffle_amused
+bip_39_word_underscore_2: melt_few
+bip_39_word_underscore_3: melt_few_atom
+bip_39_word_underscore_4: melt_few_atom_private
+bip_39_word_underscore_5: melt_few_atom_private_input
+bip_39_word_underscore_6: melt_few_atom_private_input_luxury
+bip_39_word_underscore_7: melt_few_atom_private_input_luxury_fee
+bip_39_word_underscore_8: melt_few_atom_private_input_luxury_fee_civil
+bip_39_word_underscore_9: melt_few_atom_private_input_luxury_fee_civil_chef
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

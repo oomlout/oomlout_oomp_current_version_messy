@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dragon |  
+| bip_39_word_dash_10 | dragon-tomorrow-captain-woman-sentence-few-opera-license-total-trigger |  
+| bip_39_word_dash_11 | dragon-tomorrow-captain-woman-sentence-few-opera-license-total-trigger-grit |  
+| bip_39_word_dash_12 | dragon-tomorrow-captain-woman-sentence-few-opera-license-total-trigger-grit-ask |  
+| bip_39_word_dash_2 | dragon-tomorrow |  
+| bip_39_word_dash_3 | dragon-tomorrow-captain |  
+| bip_39_word_dash_4 | dragon-tomorrow-captain-woman |  
+| bip_39_word_dash_5 | dragon-tomorrow-captain-woman-sentence |  
+| bip_39_word_dash_6 | dragon-tomorrow-captain-woman-sentence-few |  
+| bip_39_word_dash_7 | dragon-tomorrow-captain-woman-sentence-few-opera |  
+| bip_39_word_dash_8 | dragon-tomorrow-captain-woman-sentence-few-opera-license |  
+| bip_39_word_dash_9 | dragon-tomorrow-captain-woman-sentence-few-opera-license-total |  
 | bip_39_word_new_br_1 | dragon |  
 | bip_39_word_new_br_10 | dragon<br>tomorrow<br>captain<br>woman<br>sentence<br>few<br>opera<br>license<br>total<br>trigger |  
 | bip_39_word_new_br_11 | dragon<br>tomorrow<br>captain<br>woman<br>sentence<br>few<br>opera<br>license<br>total<br>trigger<br>grit |  
@@ -147,6 +159,18 @@ total |
 | bip_39_word_space_7 | dragon tomorrow captain woman sentence few opera |  
 | bip_39_word_space_8 | dragon tomorrow captain woman sentence few opera license |  
 | bip_39_word_space_9 | dragon tomorrow captain woman sentence few opera license total |  
+| bip_39_word_underscore_1 | dragon |  
+| bip_39_word_underscore_10 | dragon_tomorrow_captain_woman_sentence_few_opera_license_total_trigger |  
+| bip_39_word_underscore_11 | dragon_tomorrow_captain_woman_sentence_few_opera_license_total_trigger_grit |  
+| bip_39_word_underscore_12 | dragon_tomorrow_captain_woman_sentence_few_opera_license_total_trigger_grit_ask |  
+| bip_39_word_underscore_2 | dragon_tomorrow |  
+| bip_39_word_underscore_3 | dragon_tomorrow_captain |  
+| bip_39_word_underscore_4 | dragon_tomorrow_captain_woman |  
+| bip_39_word_underscore_5 | dragon_tomorrow_captain_woman_sentence |  
+| bip_39_word_underscore_6 | dragon_tomorrow_captain_woman_sentence_few |  
+| bip_39_word_underscore_7 | dragon_tomorrow_captain_woman_sentence_few_opera |  
+| bip_39_word_underscore_8 | dragon_tomorrow_captain_woman_sentence_few_opera_license |  
+| bip_39_word_underscore_9 | dragon_tomorrow_captain_woman_sentence_few_opera_license_total |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

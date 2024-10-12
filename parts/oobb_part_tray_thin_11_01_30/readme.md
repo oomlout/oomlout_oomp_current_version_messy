@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bread |  
+| bip_39_word_dash_10 | bread-news-wage-repeat-skirt-episode-ice-lawn-treat-only |  
+| bip_39_word_dash_11 | bread-news-wage-repeat-skirt-episode-ice-lawn-treat-only-mercy |  
+| bip_39_word_dash_12 | bread-news-wage-repeat-skirt-episode-ice-lawn-treat-only-mercy-alien |  
+| bip_39_word_dash_2 | bread-news |  
+| bip_39_word_dash_3 | bread-news-wage |  
+| bip_39_word_dash_4 | bread-news-wage-repeat |  
+| bip_39_word_dash_5 | bread-news-wage-repeat-skirt |  
+| bip_39_word_dash_6 | bread-news-wage-repeat-skirt-episode |  
+| bip_39_word_dash_7 | bread-news-wage-repeat-skirt-episode-ice |  
+| bip_39_word_dash_8 | bread-news-wage-repeat-skirt-episode-ice-lawn |  
+| bip_39_word_dash_9 | bread-news-wage-repeat-skirt-episode-ice-lawn-treat |  
 | bip_39_word_new_br_1 | bread |  
 | bip_39_word_new_br_10 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only |  
 | bip_39_word_new_br_11 | bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only<br>mercy |  
@@ -147,6 +159,18 @@ treat |
 | bip_39_word_space_7 | bread news wage repeat skirt episode ice |  
 | bip_39_word_space_8 | bread news wage repeat skirt episode ice lawn |  
 | bip_39_word_space_9 | bread news wage repeat skirt episode ice lawn treat |  
+| bip_39_word_underscore_1 | bread |  
+| bip_39_word_underscore_10 | bread_news_wage_repeat_skirt_episode_ice_lawn_treat_only |  
+| bip_39_word_underscore_11 | bread_news_wage_repeat_skirt_episode_ice_lawn_treat_only_mercy |  
+| bip_39_word_underscore_12 | bread_news_wage_repeat_skirt_episode_ice_lawn_treat_only_mercy_alien |  
+| bip_39_word_underscore_2 | bread_news |  
+| bip_39_word_underscore_3 | bread_news_wage |  
+| bip_39_word_underscore_4 | bread_news_wage_repeat |  
+| bip_39_word_underscore_5 | bread_news_wage_repeat_skirt |  
+| bip_39_word_underscore_6 | bread_news_wage_repeat_skirt_episode |  
+| bip_39_word_underscore_7 | bread_news_wage_repeat_skirt_episode_ice |  
+| bip_39_word_underscore_8 | bread_news_wage_repeat_skirt_episode_ice_lawn |  
+| bip_39_word_underscore_9 | bread_news_wage_repeat_skirt_episode_ice_lawn_treat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

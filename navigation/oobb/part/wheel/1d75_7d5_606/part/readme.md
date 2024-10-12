@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | image |  
+| bip_39_word_dash_10 | image-any-apology-extend-smooth-mule-old-ice-weird-afford |  
+| bip_39_word_dash_11 | image-any-apology-extend-smooth-mule-old-ice-weird-afford-barely |  
+| bip_39_word_dash_12 | image-any-apology-extend-smooth-mule-old-ice-weird-afford-barely-able |  
+| bip_39_word_dash_2 | image-any |  
+| bip_39_word_dash_3 | image-any-apology |  
+| bip_39_word_dash_4 | image-any-apology-extend |  
+| bip_39_word_dash_5 | image-any-apology-extend-smooth |  
+| bip_39_word_dash_6 | image-any-apology-extend-smooth-mule |  
+| bip_39_word_dash_7 | image-any-apology-extend-smooth-mule-old |  
+| bip_39_word_dash_8 | image-any-apology-extend-smooth-mule-old-ice |  
+| bip_39_word_dash_9 | image-any-apology-extend-smooth-mule-old-ice-weird |  
 | bip_39_word_new_br_1 | image |  
 | bip_39_word_new_br_10 | image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford |  
 | bip_39_word_new_br_11 | image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford<br>barely |  
@@ -147,6 +159,18 @@ weird |
 | bip_39_word_space_7 | image any apology extend smooth mule old |  
 | bip_39_word_space_8 | image any apology extend smooth mule old ice |  
 | bip_39_word_space_9 | image any apology extend smooth mule old ice weird |  
+| bip_39_word_underscore_1 | image |  
+| bip_39_word_underscore_10 | image_any_apology_extend_smooth_mule_old_ice_weird_afford |  
+| bip_39_word_underscore_11 | image_any_apology_extend_smooth_mule_old_ice_weird_afford_barely |  
+| bip_39_word_underscore_12 | image_any_apology_extend_smooth_mule_old_ice_weird_afford_barely_able |  
+| bip_39_word_underscore_2 | image_any |  
+| bip_39_word_underscore_3 | image_any_apology |  
+| bip_39_word_underscore_4 | image_any_apology_extend |  
+| bip_39_word_underscore_5 | image_any_apology_extend_smooth |  
+| bip_39_word_underscore_6 | image_any_apology_extend_smooth_mule |  
+| bip_39_word_underscore_7 | image_any_apology_extend_smooth_mule_old |  
+| bip_39_word_underscore_8 | image_any_apology_extend_smooth_mule_old_ice |  
+| bip_39_word_underscore_9 | image_any_apology_extend_smooth_mule_old_ice_weird |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unhappy
+bip_39_word_dash_10: unhappy-unhappy-carbon-fly-dutch-quiz-mouse-cargo-love-law
+bip_39_word_dash_11: unhappy-unhappy-carbon-fly-dutch-quiz-mouse-cargo-love-law-tumble
+bip_39_word_dash_12: unhappy-unhappy-carbon-fly-dutch-quiz-mouse-cargo-love-law-tumble-arrive
+bip_39_word_dash_2: unhappy-unhappy
+bip_39_word_dash_3: unhappy-unhappy-carbon
+bip_39_word_dash_4: unhappy-unhappy-carbon-fly
+bip_39_word_dash_5: unhappy-unhappy-carbon-fly-dutch
+bip_39_word_dash_6: unhappy-unhappy-carbon-fly-dutch-quiz
+bip_39_word_dash_7: unhappy-unhappy-carbon-fly-dutch-quiz-mouse
+bip_39_word_dash_8: unhappy-unhappy-carbon-fly-dutch-quiz-mouse-cargo
+bip_39_word_dash_9: unhappy-unhappy-carbon-fly-dutch-quiz-mouse-cargo-love
 bip_39_word_new_br_1: unhappy
 bip_39_word_new_br_10: unhappy<br>unhappy<br>carbon<br>fly<br>dutch<br>quiz<br>mouse<br>cargo<br>love<br>law
 bip_39_word_new_br_11: unhappy<br>unhappy<br>carbon<br>fly<br>dutch<br>quiz<br>mouse<br>cargo<br>love<br>law<br>tumble
@@ -192,6 +204,18 @@ bip_39_word_space_6: unhappy unhappy carbon fly dutch quiz
 bip_39_word_space_7: unhappy unhappy carbon fly dutch quiz mouse
 bip_39_word_space_8: unhappy unhappy carbon fly dutch quiz mouse cargo
 bip_39_word_space_9: unhappy unhappy carbon fly dutch quiz mouse cargo love
+bip_39_word_underscore_1: unhappy
+bip_39_word_underscore_10: unhappy_unhappy_carbon_fly_dutch_quiz_mouse_cargo_love_law
+bip_39_word_underscore_11: unhappy_unhappy_carbon_fly_dutch_quiz_mouse_cargo_love_law_tumble
+bip_39_word_underscore_12: unhappy_unhappy_carbon_fly_dutch_quiz_mouse_cargo_love_law_tumble_arrive
+bip_39_word_underscore_2: unhappy_unhappy
+bip_39_word_underscore_3: unhappy_unhappy_carbon
+bip_39_word_underscore_4: unhappy_unhappy_carbon_fly
+bip_39_word_underscore_5: unhappy_unhappy_carbon_fly_dutch
+bip_39_word_underscore_6: unhappy_unhappy_carbon_fly_dutch_quiz
+bip_39_word_underscore_7: unhappy_unhappy_carbon_fly_dutch_quiz_mouse
+bip_39_word_underscore_8: unhappy_unhappy_carbon_fly_dutch_quiz_mouse_cargo
+bip_39_word_underscore_9: unhappy_unhappy_carbon_fly_dutch_quiz_mouse_cargo_love
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

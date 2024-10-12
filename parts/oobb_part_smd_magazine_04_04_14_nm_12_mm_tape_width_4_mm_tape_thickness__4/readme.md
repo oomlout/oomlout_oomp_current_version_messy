@@ -32,6 +32,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rubber |  
+| bip_39_word_dash_10 | rubber-happy-miracle-then-winter-boy-egg-busy-enlist-jump |  
+| bip_39_word_dash_11 | rubber-happy-miracle-then-winter-boy-egg-busy-enlist-jump-advice |  
+| bip_39_word_dash_2 | rubber-happy |  
+| bip_39_word_dash_3 | rubber-happy-miracle |  
+| bip_39_word_dash_4 | rubber-happy-miracle-then |  
+| bip_39_word_dash_5 | rubber-happy-miracle-then-winter |  
+| bip_39_word_dash_6 | rubber-happy-miracle-then-winter-boy |  
+| bip_39_word_dash_7 | rubber-happy-miracle-then-winter-boy-egg |  
+| bip_39_word_dash_8 | rubber-happy-miracle-then-winter-boy-egg-busy |  
+| bip_39_word_dash_9 | rubber-happy-miracle-then-winter-boy-egg-busy-enlist |  
 | bip_39_word_new_br_1 | rubber |  
 | bip_39_word_new_br_10 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist<br>jump |  
 | bip_39_word_new_br_11 | rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist<br>jump<br>advice |  
@@ -132,6 +143,17 @@ enlist |
 | bip_39_word_space_7 | rubber happy miracle then winter boy egg |  
 | bip_39_word_space_8 | rubber happy miracle then winter boy egg busy |  
 | bip_39_word_space_9 | rubber happy miracle then winter boy egg busy enlist |  
+| bip_39_word_underscore_1 | rubber |  
+| bip_39_word_underscore_10 | rubber_happy_miracle_then_winter_boy_egg_busy_enlist_jump |  
+| bip_39_word_underscore_11 | rubber_happy_miracle_then_winter_boy_egg_busy_enlist_jump_advice |  
+| bip_39_word_underscore_2 | rubber_happy |  
+| bip_39_word_underscore_3 | rubber_happy_miracle |  
+| bip_39_word_underscore_4 | rubber_happy_miracle_then |  
+| bip_39_word_underscore_5 | rubber_happy_miracle_then_winter |  
+| bip_39_word_underscore_6 | rubber_happy_miracle_then_winter_boy |  
+| bip_39_word_underscore_7 | rubber_happy_miracle_then_winter_boy_egg |  
+| bip_39_word_underscore_8 | rubber_happy_miracle_then_winter_boy_egg_busy |  
+| bip_39_word_underscore_9 | rubber_happy_miracle_then_winter_boy_egg_busy_enlist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

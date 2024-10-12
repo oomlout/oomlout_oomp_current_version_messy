@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wonder |  
+| bip_39_word_dash_10 | wonder-sing-life-swift-border-chaos-salad-use-sibling-receive |  
+| bip_39_word_dash_11 | wonder-sing-life-swift-border-chaos-salad-use-sibling-receive-curve |  
+| bip_39_word_dash_12 | wonder-sing-life-swift-border-chaos-salad-use-sibling-receive-curve-april |  
+| bip_39_word_dash_2 | wonder-sing |  
+| bip_39_word_dash_3 | wonder-sing-life |  
+| bip_39_word_dash_4 | wonder-sing-life-swift |  
+| bip_39_word_dash_5 | wonder-sing-life-swift-border |  
+| bip_39_word_dash_6 | wonder-sing-life-swift-border-chaos |  
+| bip_39_word_dash_7 | wonder-sing-life-swift-border-chaos-salad |  
+| bip_39_word_dash_8 | wonder-sing-life-swift-border-chaos-salad-use |  
+| bip_39_word_dash_9 | wonder-sing-life-swift-border-chaos-salad-use-sibling |  
 | bip_39_word_new_br_1 | wonder |  
 | bip_39_word_new_br_10 | wonder<br>sing<br>life<br>swift<br>border<br>chaos<br>salad<br>use<br>sibling<br>receive |  
 | bip_39_word_new_br_11 | wonder<br>sing<br>life<br>swift<br>border<br>chaos<br>salad<br>use<br>sibling<br>receive<br>curve |  
@@ -147,6 +159,18 @@ sibling |
 | bip_39_word_space_7 | wonder sing life swift border chaos salad |  
 | bip_39_word_space_8 | wonder sing life swift border chaos salad use |  
 | bip_39_word_space_9 | wonder sing life swift border chaos salad use sibling |  
+| bip_39_word_underscore_1 | wonder |  
+| bip_39_word_underscore_10 | wonder_sing_life_swift_border_chaos_salad_use_sibling_receive |  
+| bip_39_word_underscore_11 | wonder_sing_life_swift_border_chaos_salad_use_sibling_receive_curve |  
+| bip_39_word_underscore_12 | wonder_sing_life_swift_border_chaos_salad_use_sibling_receive_curve_april |  
+| bip_39_word_underscore_2 | wonder_sing |  
+| bip_39_word_underscore_3 | wonder_sing_life |  
+| bip_39_word_underscore_4 | wonder_sing_life_swift |  
+| bip_39_word_underscore_5 | wonder_sing_life_swift_border |  
+| bip_39_word_underscore_6 | wonder_sing_life_swift_border_chaos |  
+| bip_39_word_underscore_7 | wonder_sing_life_swift_border_chaos_salad |  
+| bip_39_word_underscore_8 | wonder_sing_life_swift_border_chaos_salad_use |  
+| bip_39_word_underscore_9 | wonder_sing_life_swift_border_chaos_salad_use_sibling |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

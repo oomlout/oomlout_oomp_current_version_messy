@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grow |  
+| bip_39_word_dash_10 | grow-law-indicate-much-weird-develop-advance-ethics-worry-pilot |  
+| bip_39_word_dash_11 | grow-law-indicate-much-weird-develop-advance-ethics-worry-pilot-danger |  
+| bip_39_word_dash_12 | grow-law-indicate-much-weird-develop-advance-ethics-worry-pilot-danger-approve |  
+| bip_39_word_dash_2 | grow-law |  
+| bip_39_word_dash_3 | grow-law-indicate |  
+| bip_39_word_dash_4 | grow-law-indicate-much |  
+| bip_39_word_dash_5 | grow-law-indicate-much-weird |  
+| bip_39_word_dash_6 | grow-law-indicate-much-weird-develop |  
+| bip_39_word_dash_7 | grow-law-indicate-much-weird-develop-advance |  
+| bip_39_word_dash_8 | grow-law-indicate-much-weird-develop-advance-ethics |  
+| bip_39_word_dash_9 | grow-law-indicate-much-weird-develop-advance-ethics-worry |  
 | bip_39_word_new_br_1 | grow |  
 | bip_39_word_new_br_10 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot |  
 | bip_39_word_new_br_11 | grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot<br>danger |  
@@ -147,6 +159,18 @@ worry |
 | bip_39_word_space_7 | grow law indicate much weird develop advance |  
 | bip_39_word_space_8 | grow law indicate much weird develop advance ethics |  
 | bip_39_word_space_9 | grow law indicate much weird develop advance ethics worry |  
+| bip_39_word_underscore_1 | grow |  
+| bip_39_word_underscore_10 | grow_law_indicate_much_weird_develop_advance_ethics_worry_pilot |  
+| bip_39_word_underscore_11 | grow_law_indicate_much_weird_develop_advance_ethics_worry_pilot_danger |  
+| bip_39_word_underscore_12 | grow_law_indicate_much_weird_develop_advance_ethics_worry_pilot_danger_approve |  
+| bip_39_word_underscore_2 | grow_law |  
+| bip_39_word_underscore_3 | grow_law_indicate |  
+| bip_39_word_underscore_4 | grow_law_indicate_much |  
+| bip_39_word_underscore_5 | grow_law_indicate_much_weird |  
+| bip_39_word_underscore_6 | grow_law_indicate_much_weird_develop |  
+| bip_39_word_underscore_7 | grow_law_indicate_much_weird_develop_advance |  
+| bip_39_word_underscore_8 | grow_law_indicate_much_weird_develop_advance_ethics |  
+| bip_39_word_underscore_9 | grow_law_indicate_much_weird_develop_advance_ethics_worry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

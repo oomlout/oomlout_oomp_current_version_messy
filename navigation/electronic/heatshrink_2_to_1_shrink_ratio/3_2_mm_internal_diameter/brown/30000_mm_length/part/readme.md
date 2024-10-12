@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | myself |  
+| bip_39_word_dash_10 | myself-asset-ready-weather-news-jacket-copper-cotton-vague-kind |  
+| bip_39_word_dash_11 | myself-asset-ready-weather-news-jacket-copper-cotton-vague-kind-twist |  
+| bip_39_word_dash_12 | myself-asset-ready-weather-news-jacket-copper-cotton-vague-kind-twist-autumn |  
+| bip_39_word_dash_2 | myself-asset |  
+| bip_39_word_dash_3 | myself-asset-ready |  
+| bip_39_word_dash_4 | myself-asset-ready-weather |  
+| bip_39_word_dash_5 | myself-asset-ready-weather-news |  
+| bip_39_word_dash_6 | myself-asset-ready-weather-news-jacket |  
+| bip_39_word_dash_7 | myself-asset-ready-weather-news-jacket-copper |  
+| bip_39_word_dash_8 | myself-asset-ready-weather-news-jacket-copper-cotton |  
+| bip_39_word_dash_9 | myself-asset-ready-weather-news-jacket-copper-cotton-vague |  
 | bip_39_word_new_br_1 | myself |  
 | bip_39_word_new_br_10 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind |  
 | bip_39_word_new_br_11 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind<br>twist |  
@@ -147,6 +159,18 @@ vague |
 | bip_39_word_space_7 | myself asset ready weather news jacket copper |  
 | bip_39_word_space_8 | myself asset ready weather news jacket copper cotton |  
 | bip_39_word_space_9 | myself asset ready weather news jacket copper cotton vague |  
+| bip_39_word_underscore_1 | myself |  
+| bip_39_word_underscore_10 | myself_asset_ready_weather_news_jacket_copper_cotton_vague_kind |  
+| bip_39_word_underscore_11 | myself_asset_ready_weather_news_jacket_copper_cotton_vague_kind_twist |  
+| bip_39_word_underscore_12 | myself_asset_ready_weather_news_jacket_copper_cotton_vague_kind_twist_autumn |  
+| bip_39_word_underscore_2 | myself_asset |  
+| bip_39_word_underscore_3 | myself_asset_ready |  
+| bip_39_word_underscore_4 | myself_asset_ready_weather |  
+| bip_39_word_underscore_5 | myself_asset_ready_weather_news |  
+| bip_39_word_underscore_6 | myself_asset_ready_weather_news_jacket |  
+| bip_39_word_underscore_7 | myself_asset_ready_weather_news_jacket_copper |  
+| bip_39_word_underscore_8 | myself_asset_ready_weather_news_jacket_copper_cotton |  
+| bip_39_word_underscore_9 | myself_asset_ready_weather_news_jacket_copper_cotton_vague |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

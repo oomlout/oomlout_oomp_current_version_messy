@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | elevator |  
+| bip_39_word_dash_10 | elevator-dinner-fan-day-elder-hold-basic-jeans-muffin-bean |  
+| bip_39_word_dash_11 | elevator-dinner-fan-day-elder-hold-basic-jeans-muffin-bean-animal |  
+| bip_39_word_dash_12 | elevator-dinner-fan-day-elder-hold-basic-jeans-muffin-bean-animal-amateur |  
+| bip_39_word_dash_2 | elevator-dinner |  
+| bip_39_word_dash_3 | elevator-dinner-fan |  
+| bip_39_word_dash_4 | elevator-dinner-fan-day |  
+| bip_39_word_dash_5 | elevator-dinner-fan-day-elder |  
+| bip_39_word_dash_6 | elevator-dinner-fan-day-elder-hold |  
+| bip_39_word_dash_7 | elevator-dinner-fan-day-elder-hold-basic |  
+| bip_39_word_dash_8 | elevator-dinner-fan-day-elder-hold-basic-jeans |  
+| bip_39_word_dash_9 | elevator-dinner-fan-day-elder-hold-basic-jeans-muffin |  
 | bip_39_word_new_br_1 | elevator |  
 | bip_39_word_new_br_10 | elevator<br>dinner<br>fan<br>day<br>elder<br>hold<br>basic<br>jeans<br>muffin<br>bean |  
 | bip_39_word_new_br_11 | elevator<br>dinner<br>fan<br>day<br>elder<br>hold<br>basic<br>jeans<br>muffin<br>bean<br>animal |  
@@ -147,6 +159,18 @@ muffin |
 | bip_39_word_space_7 | elevator dinner fan day elder hold basic |  
 | bip_39_word_space_8 | elevator dinner fan day elder hold basic jeans |  
 | bip_39_word_space_9 | elevator dinner fan day elder hold basic jeans muffin |  
+| bip_39_word_underscore_1 | elevator |  
+| bip_39_word_underscore_10 | elevator_dinner_fan_day_elder_hold_basic_jeans_muffin_bean |  
+| bip_39_word_underscore_11 | elevator_dinner_fan_day_elder_hold_basic_jeans_muffin_bean_animal |  
+| bip_39_word_underscore_12 | elevator_dinner_fan_day_elder_hold_basic_jeans_muffin_bean_animal_amateur |  
+| bip_39_word_underscore_2 | elevator_dinner |  
+| bip_39_word_underscore_3 | elevator_dinner_fan |  
+| bip_39_word_underscore_4 | elevator_dinner_fan_day |  
+| bip_39_word_underscore_5 | elevator_dinner_fan_day_elder |  
+| bip_39_word_underscore_6 | elevator_dinner_fan_day_elder_hold |  
+| bip_39_word_underscore_7 | elevator_dinner_fan_day_elder_hold_basic |  
+| bip_39_word_underscore_8 | elevator_dinner_fan_day_elder_hold_basic_jeans |  
+| bip_39_word_underscore_9 | elevator_dinner_fan_day_elder_hold_basic_jeans_muffin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

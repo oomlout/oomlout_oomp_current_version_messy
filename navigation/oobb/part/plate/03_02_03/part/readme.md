@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ability |  
+| bip_39_word_dash_10 | ability-switch-match-pepper-where-fiscal-horror-tourist-flight-spread |  
+| bip_39_word_dash_11 | ability-switch-match-pepper-where-fiscal-horror-tourist-flight-spread-ribbon |  
+| bip_39_word_dash_12 | ability-switch-match-pepper-where-fiscal-horror-tourist-flight-spread-ribbon-another |  
+| bip_39_word_dash_2 | ability-switch |  
+| bip_39_word_dash_3 | ability-switch-match |  
+| bip_39_word_dash_4 | ability-switch-match-pepper |  
+| bip_39_word_dash_5 | ability-switch-match-pepper-where |  
+| bip_39_word_dash_6 | ability-switch-match-pepper-where-fiscal |  
+| bip_39_word_dash_7 | ability-switch-match-pepper-where-fiscal-horror |  
+| bip_39_word_dash_8 | ability-switch-match-pepper-where-fiscal-horror-tourist |  
+| bip_39_word_dash_9 | ability-switch-match-pepper-where-fiscal-horror-tourist-flight |  
 | bip_39_word_new_br_1 | ability |  
 | bip_39_word_new_br_10 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist<br>flight<br>spread |  
 | bip_39_word_new_br_11 | ability<br>switch<br>match<br>pepper<br>where<br>fiscal<br>horror<br>tourist<br>flight<br>spread<br>ribbon |  
@@ -147,6 +159,18 @@ flight |
 | bip_39_word_space_7 | ability switch match pepper where fiscal horror |  
 | bip_39_word_space_8 | ability switch match pepper where fiscal horror tourist |  
 | bip_39_word_space_9 | ability switch match pepper where fiscal horror tourist flight |  
+| bip_39_word_underscore_1 | ability |  
+| bip_39_word_underscore_10 | ability_switch_match_pepper_where_fiscal_horror_tourist_flight_spread |  
+| bip_39_word_underscore_11 | ability_switch_match_pepper_where_fiscal_horror_tourist_flight_spread_ribbon |  
+| bip_39_word_underscore_12 | ability_switch_match_pepper_where_fiscal_horror_tourist_flight_spread_ribbon_another |  
+| bip_39_word_underscore_2 | ability_switch |  
+| bip_39_word_underscore_3 | ability_switch_match |  
+| bip_39_word_underscore_4 | ability_switch_match_pepper |  
+| bip_39_word_underscore_5 | ability_switch_match_pepper_where |  
+| bip_39_word_underscore_6 | ability_switch_match_pepper_where_fiscal |  
+| bip_39_word_underscore_7 | ability_switch_match_pepper_where_fiscal_horror |  
+| bip_39_word_underscore_8 | ability_switch_match_pepper_where_fiscal_horror_tourist |  
+| bip_39_word_underscore_9 | ability_switch_match_pepper_where_fiscal_horror_tourist_flight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

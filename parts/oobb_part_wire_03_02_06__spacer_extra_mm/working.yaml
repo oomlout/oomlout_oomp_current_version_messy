@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pink
+bip_39_word_dash_10: pink-dragon-cabbage-electric-return-staff-risk-nominee-armor-rate
+bip_39_word_dash_11: pink-dragon-cabbage-electric-return-staff-risk-nominee-armor-rate-trouble
+bip_39_word_dash_12: pink-dragon-cabbage-electric-return-staff-risk-nominee-armor-rate-trouble-air
+bip_39_word_dash_2: pink-dragon
+bip_39_word_dash_3: pink-dragon-cabbage
+bip_39_word_dash_4: pink-dragon-cabbage-electric
+bip_39_word_dash_5: pink-dragon-cabbage-electric-return
+bip_39_word_dash_6: pink-dragon-cabbage-electric-return-staff
+bip_39_word_dash_7: pink-dragon-cabbage-electric-return-staff-risk
+bip_39_word_dash_8: pink-dragon-cabbage-electric-return-staff-risk-nominee
+bip_39_word_dash_9: pink-dragon-cabbage-electric-return-staff-risk-nominee-armor
 bip_39_word_new_br_1: pink
 bip_39_word_new_br_10: pink<br>dragon<br>cabbage<br>electric<br>return<br>staff<br>risk<br>nominee<br>armor<br>rate
 bip_39_word_new_br_11: pink<br>dragon<br>cabbage<br>electric<br>return<br>staff<br>risk<br>nominee<br>armor<br>rate<br>trouble
@@ -194,6 +206,18 @@ bip_39_word_space_6: pink dragon cabbage electric return staff
 bip_39_word_space_7: pink dragon cabbage electric return staff risk
 bip_39_word_space_8: pink dragon cabbage electric return staff risk nominee
 bip_39_word_space_9: pink dragon cabbage electric return staff risk nominee armor
+bip_39_word_underscore_1: pink
+bip_39_word_underscore_10: pink_dragon_cabbage_electric_return_staff_risk_nominee_armor_rate
+bip_39_word_underscore_11: pink_dragon_cabbage_electric_return_staff_risk_nominee_armor_rate_trouble
+bip_39_word_underscore_12: pink_dragon_cabbage_electric_return_staff_risk_nominee_armor_rate_trouble_air
+bip_39_word_underscore_2: pink_dragon
+bip_39_word_underscore_3: pink_dragon_cabbage
+bip_39_word_underscore_4: pink_dragon_cabbage_electric
+bip_39_word_underscore_5: pink_dragon_cabbage_electric_return
+bip_39_word_underscore_6: pink_dragon_cabbage_electric_return_staff
+bip_39_word_underscore_7: pink_dragon_cabbage_electric_return_staff_risk
+bip_39_word_underscore_8: pink_dragon_cabbage_electric_return_staff_risk_nominee
+bip_39_word_underscore_9: pink_dragon_cabbage_electric_return_staff_risk_nominee_armor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

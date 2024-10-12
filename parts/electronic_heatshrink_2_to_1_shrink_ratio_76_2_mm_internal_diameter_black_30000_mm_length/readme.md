@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | liquid |  
+| bip_39_word_dash_10 | liquid-actual-essay-birth-adjust-that-grass-cake-laugh-shiver |  
+| bip_39_word_dash_11 | liquid-actual-essay-birth-adjust-that-grass-cake-laugh-shiver-digital |  
+| bip_39_word_dash_12 | liquid-actual-essay-birth-adjust-that-grass-cake-laugh-shiver-digital-aerobic |  
+| bip_39_word_dash_2 | liquid-actual |  
+| bip_39_word_dash_3 | liquid-actual-essay |  
+| bip_39_word_dash_4 | liquid-actual-essay-birth |  
+| bip_39_word_dash_5 | liquid-actual-essay-birth-adjust |  
+| bip_39_word_dash_6 | liquid-actual-essay-birth-adjust-that |  
+| bip_39_word_dash_7 | liquid-actual-essay-birth-adjust-that-grass |  
+| bip_39_word_dash_8 | liquid-actual-essay-birth-adjust-that-grass-cake |  
+| bip_39_word_dash_9 | liquid-actual-essay-birth-adjust-that-grass-cake-laugh |  
 | bip_39_word_new_br_1 | liquid |  
 | bip_39_word_new_br_10 | liquid<br>actual<br>essay<br>birth<br>adjust<br>that<br>grass<br>cake<br>laugh<br>shiver |  
 | bip_39_word_new_br_11 | liquid<br>actual<br>essay<br>birth<br>adjust<br>that<br>grass<br>cake<br>laugh<br>shiver<br>digital |  
@@ -147,6 +159,18 @@ laugh |
 | bip_39_word_space_7 | liquid actual essay birth adjust that grass |  
 | bip_39_word_space_8 | liquid actual essay birth adjust that grass cake |  
 | bip_39_word_space_9 | liquid actual essay birth adjust that grass cake laugh |  
+| bip_39_word_underscore_1 | liquid |  
+| bip_39_word_underscore_10 | liquid_actual_essay_birth_adjust_that_grass_cake_laugh_shiver |  
+| bip_39_word_underscore_11 | liquid_actual_essay_birth_adjust_that_grass_cake_laugh_shiver_digital |  
+| bip_39_word_underscore_12 | liquid_actual_essay_birth_adjust_that_grass_cake_laugh_shiver_digital_aerobic |  
+| bip_39_word_underscore_2 | liquid_actual |  
+| bip_39_word_underscore_3 | liquid_actual_essay |  
+| bip_39_word_underscore_4 | liquid_actual_essay_birth |  
+| bip_39_word_underscore_5 | liquid_actual_essay_birth_adjust |  
+| bip_39_word_underscore_6 | liquid_actual_essay_birth_adjust_that |  
+| bip_39_word_underscore_7 | liquid_actual_essay_birth_adjust_that_grass |  
+| bip_39_word_underscore_8 | liquid_actual_essay_birth_adjust_that_grass_cake |  
+| bip_39_word_underscore_9 | liquid_actual_essay_birth_adjust_that_grass_cake_laugh |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

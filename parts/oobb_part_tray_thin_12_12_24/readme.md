@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shiver |  
+| bip_39_word_dash_10 | shiver-able-oppose-flip-host-lucky-top-job-wool-album |  
+| bip_39_word_dash_11 | shiver-able-oppose-flip-host-lucky-top-job-wool-album-okay |  
+| bip_39_word_dash_12 | shiver-able-oppose-flip-host-lucky-top-job-wool-album-okay-angle |  
+| bip_39_word_dash_2 | shiver-able |  
+| bip_39_word_dash_3 | shiver-able-oppose |  
+| bip_39_word_dash_4 | shiver-able-oppose-flip |  
+| bip_39_word_dash_5 | shiver-able-oppose-flip-host |  
+| bip_39_word_dash_6 | shiver-able-oppose-flip-host-lucky |  
+| bip_39_word_dash_7 | shiver-able-oppose-flip-host-lucky-top |  
+| bip_39_word_dash_8 | shiver-able-oppose-flip-host-lucky-top-job |  
+| bip_39_word_dash_9 | shiver-able-oppose-flip-host-lucky-top-job-wool |  
 | bip_39_word_new_br_1 | shiver |  
 | bip_39_word_new_br_10 | shiver<br>able<br>oppose<br>flip<br>host<br>lucky<br>top<br>job<br>wool<br>album |  
 | bip_39_word_new_br_11 | shiver<br>able<br>oppose<br>flip<br>host<br>lucky<br>top<br>job<br>wool<br>album<br>okay |  
@@ -147,6 +159,18 @@ wool |
 | bip_39_word_space_7 | shiver able oppose flip host lucky top |  
 | bip_39_word_space_8 | shiver able oppose flip host lucky top job |  
 | bip_39_word_space_9 | shiver able oppose flip host lucky top job wool |  
+| bip_39_word_underscore_1 | shiver |  
+| bip_39_word_underscore_10 | shiver_able_oppose_flip_host_lucky_top_job_wool_album |  
+| bip_39_word_underscore_11 | shiver_able_oppose_flip_host_lucky_top_job_wool_album_okay |  
+| bip_39_word_underscore_12 | shiver_able_oppose_flip_host_lucky_top_job_wool_album_okay_angle |  
+| bip_39_word_underscore_2 | shiver_able |  
+| bip_39_word_underscore_3 | shiver_able_oppose |  
+| bip_39_word_underscore_4 | shiver_able_oppose_flip |  
+| bip_39_word_underscore_5 | shiver_able_oppose_flip_host |  
+| bip_39_word_underscore_6 | shiver_able_oppose_flip_host_lucky |  
+| bip_39_word_underscore_7 | shiver_able_oppose_flip_host_lucky_top |  
+| bip_39_word_underscore_8 | shiver_able_oppose_flip_host_lucky_top_job |  
+| bip_39_word_underscore_9 | shiver_able_oppose_flip_host_lucky_top_job_wool |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

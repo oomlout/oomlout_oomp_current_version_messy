@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pole |  
+| bip_39_word_dash_10 | pole-supreme-boil-pass-plastic-control-weapon-embrace-dizzy-fluid |  
+| bip_39_word_dash_11 | pole-supreme-boil-pass-plastic-control-weapon-embrace-dizzy-fluid-amazing |  
+| bip_39_word_dash_12 | pole-supreme-boil-pass-plastic-control-weapon-embrace-dizzy-fluid-amazing-across |  
+| bip_39_word_dash_2 | pole-supreme |  
+| bip_39_word_dash_3 | pole-supreme-boil |  
+| bip_39_word_dash_4 | pole-supreme-boil-pass |  
+| bip_39_word_dash_5 | pole-supreme-boil-pass-plastic |  
+| bip_39_word_dash_6 | pole-supreme-boil-pass-plastic-control |  
+| bip_39_word_dash_7 | pole-supreme-boil-pass-plastic-control-weapon |  
+| bip_39_word_dash_8 | pole-supreme-boil-pass-plastic-control-weapon-embrace |  
+| bip_39_word_dash_9 | pole-supreme-boil-pass-plastic-control-weapon-embrace-dizzy |  
 | bip_39_word_new_br_1 | pole |  
 | bip_39_word_new_br_10 | pole<br>supreme<br>boil<br>pass<br>plastic<br>control<br>weapon<br>embrace<br>dizzy<br>fluid |  
 | bip_39_word_new_br_11 | pole<br>supreme<br>boil<br>pass<br>plastic<br>control<br>weapon<br>embrace<br>dizzy<br>fluid<br>amazing |  
@@ -147,6 +159,18 @@ dizzy |
 | bip_39_word_space_7 | pole supreme boil pass plastic control weapon |  
 | bip_39_word_space_8 | pole supreme boil pass plastic control weapon embrace |  
 | bip_39_word_space_9 | pole supreme boil pass plastic control weapon embrace dizzy |  
+| bip_39_word_underscore_1 | pole |  
+| bip_39_word_underscore_10 | pole_supreme_boil_pass_plastic_control_weapon_embrace_dizzy_fluid |  
+| bip_39_word_underscore_11 | pole_supreme_boil_pass_plastic_control_weapon_embrace_dizzy_fluid_amazing |  
+| bip_39_word_underscore_12 | pole_supreme_boil_pass_plastic_control_weapon_embrace_dizzy_fluid_amazing_across |  
+| bip_39_word_underscore_2 | pole_supreme |  
+| bip_39_word_underscore_3 | pole_supreme_boil |  
+| bip_39_word_underscore_4 | pole_supreme_boil_pass |  
+| bip_39_word_underscore_5 | pole_supreme_boil_pass_plastic |  
+| bip_39_word_underscore_6 | pole_supreme_boil_pass_plastic_control |  
+| bip_39_word_underscore_7 | pole_supreme_boil_pass_plastic_control_weapon |  
+| bip_39_word_underscore_8 | pole_supreme_boil_pass_plastic_control_weapon_embrace |  
+| bip_39_word_underscore_9 | pole_supreme_boil_pass_plastic_control_weapon_embrace_dizzy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

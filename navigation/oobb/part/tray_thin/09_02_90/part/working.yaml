@@ -1,3 +1,15 @@
+bip_39_word_dash_1: dragon
+bip_39_word_dash_10: dragon-super-forum-draft-length-combine-baby-dune-country-imitate
+bip_39_word_dash_11: dragon-super-forum-draft-length-combine-baby-dune-country-imitate-symbol
+bip_39_word_dash_12: dragon-super-forum-draft-length-combine-baby-dune-country-imitate-symbol-arrange
+bip_39_word_dash_2: dragon-super
+bip_39_word_dash_3: dragon-super-forum
+bip_39_word_dash_4: dragon-super-forum-draft
+bip_39_word_dash_5: dragon-super-forum-draft-length
+bip_39_word_dash_6: dragon-super-forum-draft-length-combine
+bip_39_word_dash_7: dragon-super-forum-draft-length-combine-baby
+bip_39_word_dash_8: dragon-super-forum-draft-length-combine-baby-dune
+bip_39_word_dash_9: dragon-super-forum-draft-length-combine-baby-dune-country
 bip_39_word_new_br_1: dragon
 bip_39_word_new_br_10: dragon<br>super<br>forum<br>draft<br>length<br>combine<br>baby<br>dune<br>country<br>imitate
 bip_39_word_new_br_11: dragon<br>super<br>forum<br>draft<br>length<br>combine<br>baby<br>dune<br>country<br>imitate<br>symbol
@@ -193,6 +205,18 @@ bip_39_word_space_6: dragon super forum draft length combine
 bip_39_word_space_7: dragon super forum draft length combine baby
 bip_39_word_space_8: dragon super forum draft length combine baby dune
 bip_39_word_space_9: dragon super forum draft length combine baby dune country
+bip_39_word_underscore_1: dragon
+bip_39_word_underscore_10: dragon_super_forum_draft_length_combine_baby_dune_country_imitate
+bip_39_word_underscore_11: dragon_super_forum_draft_length_combine_baby_dune_country_imitate_symbol
+bip_39_word_underscore_12: dragon_super_forum_draft_length_combine_baby_dune_country_imitate_symbol_arrange
+bip_39_word_underscore_2: dragon_super
+bip_39_word_underscore_3: dragon_super_forum
+bip_39_word_underscore_4: dragon_super_forum_draft
+bip_39_word_underscore_5: dragon_super_forum_draft_length
+bip_39_word_underscore_6: dragon_super_forum_draft_length_combine
+bip_39_word_underscore_7: dragon_super_forum_draft_length_combine_baby
+bip_39_word_underscore_8: dragon_super_forum_draft_length_combine_baby_dune
+bip_39_word_underscore_9: dragon_super_forum_draft_length_combine_baby_dune_country
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

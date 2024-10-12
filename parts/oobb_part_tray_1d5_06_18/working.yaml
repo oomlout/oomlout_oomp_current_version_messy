@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cliff
+bip_39_word_dash_10: cliff-uphold-aim-relief-drive-engine-dilemma-pencil-bachelor-wet
+bip_39_word_dash_11: cliff-uphold-aim-relief-drive-engine-dilemma-pencil-bachelor-wet-muscle
+bip_39_word_dash_12: cliff-uphold-aim-relief-drive-engine-dilemma-pencil-bachelor-wet-muscle-absurd
+bip_39_word_dash_2: cliff-uphold
+bip_39_word_dash_3: cliff-uphold-aim
+bip_39_word_dash_4: cliff-uphold-aim-relief
+bip_39_word_dash_5: cliff-uphold-aim-relief-drive
+bip_39_word_dash_6: cliff-uphold-aim-relief-drive-engine
+bip_39_word_dash_7: cliff-uphold-aim-relief-drive-engine-dilemma
+bip_39_word_dash_8: cliff-uphold-aim-relief-drive-engine-dilemma-pencil
+bip_39_word_dash_9: cliff-uphold-aim-relief-drive-engine-dilemma-pencil-bachelor
 bip_39_word_new_br_1: cliff
 bip_39_word_new_br_10: cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil<br>bachelor<br>wet
 bip_39_word_new_br_11: cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil<br>bachelor<br>wet<br>muscle
@@ -194,6 +206,18 @@ bip_39_word_space_6: cliff uphold aim relief drive engine
 bip_39_word_space_7: cliff uphold aim relief drive engine dilemma
 bip_39_word_space_8: cliff uphold aim relief drive engine dilemma pencil
 bip_39_word_space_9: cliff uphold aim relief drive engine dilemma pencil bachelor
+bip_39_word_underscore_1: cliff
+bip_39_word_underscore_10: cliff_uphold_aim_relief_drive_engine_dilemma_pencil_bachelor_wet
+bip_39_word_underscore_11: cliff_uphold_aim_relief_drive_engine_dilemma_pencil_bachelor_wet_muscle
+bip_39_word_underscore_12: cliff_uphold_aim_relief_drive_engine_dilemma_pencil_bachelor_wet_muscle_absurd
+bip_39_word_underscore_2: cliff_uphold
+bip_39_word_underscore_3: cliff_uphold_aim
+bip_39_word_underscore_4: cliff_uphold_aim_relief
+bip_39_word_underscore_5: cliff_uphold_aim_relief_drive
+bip_39_word_underscore_6: cliff_uphold_aim_relief_drive_engine
+bip_39_word_underscore_7: cliff_uphold_aim_relief_drive_engine_dilemma
+bip_39_word_underscore_8: cliff_uphold_aim_relief_drive_engine_dilemma_pencil
+bip_39_word_underscore_9: cliff_uphold_aim_relief_drive_engine_dilemma_pencil_bachelor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

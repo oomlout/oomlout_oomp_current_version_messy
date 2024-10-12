@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rapid
+bip_39_word_dash_10: rapid-floor-nice-ivory-excuse-theory-rigid-error-together-spice
+bip_39_word_dash_11: rapid-floor-nice-ivory-excuse-theory-rigid-error-together-spice-twin
+bip_39_word_dash_12: rapid-floor-nice-ivory-excuse-theory-rigid-error-together-spice-twin-approve
+bip_39_word_dash_2: rapid-floor
+bip_39_word_dash_3: rapid-floor-nice
+bip_39_word_dash_4: rapid-floor-nice-ivory
+bip_39_word_dash_5: rapid-floor-nice-ivory-excuse
+bip_39_word_dash_6: rapid-floor-nice-ivory-excuse-theory
+bip_39_word_dash_7: rapid-floor-nice-ivory-excuse-theory-rigid
+bip_39_word_dash_8: rapid-floor-nice-ivory-excuse-theory-rigid-error
+bip_39_word_dash_9: rapid-floor-nice-ivory-excuse-theory-rigid-error-together
 bip_39_word_new_br_1: rapid
 bip_39_word_new_br_10: rapid<br>floor<br>nice<br>ivory<br>excuse<br>theory<br>rigid<br>error<br>together<br>spice
 bip_39_word_new_br_11: rapid<br>floor<br>nice<br>ivory<br>excuse<br>theory<br>rigid<br>error<br>together<br>spice<br>twin
@@ -193,6 +205,18 @@ bip_39_word_space_6: rapid floor nice ivory excuse theory
 bip_39_word_space_7: rapid floor nice ivory excuse theory rigid
 bip_39_word_space_8: rapid floor nice ivory excuse theory rigid error
 bip_39_word_space_9: rapid floor nice ivory excuse theory rigid error together
+bip_39_word_underscore_1: rapid
+bip_39_word_underscore_10: rapid_floor_nice_ivory_excuse_theory_rigid_error_together_spice
+bip_39_word_underscore_11: rapid_floor_nice_ivory_excuse_theory_rigid_error_together_spice_twin
+bip_39_word_underscore_12: rapid_floor_nice_ivory_excuse_theory_rigid_error_together_spice_twin_approve
+bip_39_word_underscore_2: rapid_floor
+bip_39_word_underscore_3: rapid_floor_nice
+bip_39_word_underscore_4: rapid_floor_nice_ivory
+bip_39_word_underscore_5: rapid_floor_nice_ivory_excuse
+bip_39_word_underscore_6: rapid_floor_nice_ivory_excuse_theory
+bip_39_word_underscore_7: rapid_floor_nice_ivory_excuse_theory_rigid
+bip_39_word_underscore_8: rapid_floor_nice_ivory_excuse_theory_rigid_error
+bip_39_word_underscore_9: rapid_floor_nice_ivory_excuse_theory_rigid_error_together
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

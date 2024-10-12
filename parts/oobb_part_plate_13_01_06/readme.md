@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hill |  
+| bip_39_word_dash_10 | hill-tenant-great-rug-celery-warm-science-copper-dutch-sing |  
+| bip_39_word_dash_11 | hill-tenant-great-rug-celery-warm-science-copper-dutch-sing-spatial |  
+| bip_39_word_dash_12 | hill-tenant-great-rug-celery-warm-science-copper-dutch-sing-spatial-alert |  
+| bip_39_word_dash_2 | hill-tenant |  
+| bip_39_word_dash_3 | hill-tenant-great |  
+| bip_39_word_dash_4 | hill-tenant-great-rug |  
+| bip_39_word_dash_5 | hill-tenant-great-rug-celery |  
+| bip_39_word_dash_6 | hill-tenant-great-rug-celery-warm |  
+| bip_39_word_dash_7 | hill-tenant-great-rug-celery-warm-science |  
+| bip_39_word_dash_8 | hill-tenant-great-rug-celery-warm-science-copper |  
+| bip_39_word_dash_9 | hill-tenant-great-rug-celery-warm-science-copper-dutch |  
 | bip_39_word_new_br_1 | hill |  
 | bip_39_word_new_br_10 | hill<br>tenant<br>great<br>rug<br>celery<br>warm<br>science<br>copper<br>dutch<br>sing |  
 | bip_39_word_new_br_11 | hill<br>tenant<br>great<br>rug<br>celery<br>warm<br>science<br>copper<br>dutch<br>sing<br>spatial |  
@@ -147,6 +159,18 @@ dutch |
 | bip_39_word_space_7 | hill tenant great rug celery warm science |  
 | bip_39_word_space_8 | hill tenant great rug celery warm science copper |  
 | bip_39_word_space_9 | hill tenant great rug celery warm science copper dutch |  
+| bip_39_word_underscore_1 | hill |  
+| bip_39_word_underscore_10 | hill_tenant_great_rug_celery_warm_science_copper_dutch_sing |  
+| bip_39_word_underscore_11 | hill_tenant_great_rug_celery_warm_science_copper_dutch_sing_spatial |  
+| bip_39_word_underscore_12 | hill_tenant_great_rug_celery_warm_science_copper_dutch_sing_spatial_alert |  
+| bip_39_word_underscore_2 | hill_tenant |  
+| bip_39_word_underscore_3 | hill_tenant_great |  
+| bip_39_word_underscore_4 | hill_tenant_great_rug |  
+| bip_39_word_underscore_5 | hill_tenant_great_rug_celery |  
+| bip_39_word_underscore_6 | hill_tenant_great_rug_celery_warm |  
+| bip_39_word_underscore_7 | hill_tenant_great_rug_celery_warm_science |  
+| bip_39_word_underscore_8 | hill_tenant_great_rug_celery_warm_science_copper |  
+| bip_39_word_underscore_9 | hill_tenant_great_rug_celery_warm_science_copper_dutch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

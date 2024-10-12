@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | luggage |  
+| bip_39_word_dash_10 | luggage-rhythm-verb-cable-whip-indoor-cat-run-sauce-modify |  
+| bip_39_word_dash_11 | luggage-rhythm-verb-cable-whip-indoor-cat-run-sauce-modify-immune |  
+| bip_39_word_dash_12 | luggage-rhythm-verb-cable-whip-indoor-cat-run-sauce-modify-immune-addict |  
+| bip_39_word_dash_2 | luggage-rhythm |  
+| bip_39_word_dash_3 | luggage-rhythm-verb |  
+| bip_39_word_dash_4 | luggage-rhythm-verb-cable |  
+| bip_39_word_dash_5 | luggage-rhythm-verb-cable-whip |  
+| bip_39_word_dash_6 | luggage-rhythm-verb-cable-whip-indoor |  
+| bip_39_word_dash_7 | luggage-rhythm-verb-cable-whip-indoor-cat |  
+| bip_39_word_dash_8 | luggage-rhythm-verb-cable-whip-indoor-cat-run |  
+| bip_39_word_dash_9 | luggage-rhythm-verb-cable-whip-indoor-cat-run-sauce |  
 | bip_39_word_new_br_1 | luggage |  
 | bip_39_word_new_br_10 | luggage<br>rhythm<br>verb<br>cable<br>whip<br>indoor<br>cat<br>run<br>sauce<br>modify |  
 | bip_39_word_new_br_11 | luggage<br>rhythm<br>verb<br>cable<br>whip<br>indoor<br>cat<br>run<br>sauce<br>modify<br>immune |  
@@ -147,6 +159,18 @@ sauce |
 | bip_39_word_space_7 | luggage rhythm verb cable whip indoor cat |  
 | bip_39_word_space_8 | luggage rhythm verb cable whip indoor cat run |  
 | bip_39_word_space_9 | luggage rhythm verb cable whip indoor cat run sauce |  
+| bip_39_word_underscore_1 | luggage |  
+| bip_39_word_underscore_10 | luggage_rhythm_verb_cable_whip_indoor_cat_run_sauce_modify |  
+| bip_39_word_underscore_11 | luggage_rhythm_verb_cable_whip_indoor_cat_run_sauce_modify_immune |  
+| bip_39_word_underscore_12 | luggage_rhythm_verb_cable_whip_indoor_cat_run_sauce_modify_immune_addict |  
+| bip_39_word_underscore_2 | luggage_rhythm |  
+| bip_39_word_underscore_3 | luggage_rhythm_verb |  
+| bip_39_word_underscore_4 | luggage_rhythm_verb_cable |  
+| bip_39_word_underscore_5 | luggage_rhythm_verb_cable_whip |  
+| bip_39_word_underscore_6 | luggage_rhythm_verb_cable_whip_indoor |  
+| bip_39_word_underscore_7 | luggage_rhythm_verb_cable_whip_indoor_cat |  
+| bip_39_word_underscore_8 | luggage_rhythm_verb_cable_whip_indoor_cat_run |  
+| bip_39_word_underscore_9 | luggage_rhythm_verb_cable_whip_indoor_cat_run_sauce |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

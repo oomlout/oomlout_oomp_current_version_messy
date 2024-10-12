@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tell |  
+| bip_39_word_dash_10 | tell-choice-manage-jacket-donor-infant-advice-bullet-street-stand |  
+| bip_39_word_dash_11 | tell-choice-manage-jacket-donor-infant-advice-bullet-street-stand-pony |  
+| bip_39_word_dash_12 | tell-choice-manage-jacket-donor-infant-advice-bullet-street-stand-pony-ask |  
+| bip_39_word_dash_2 | tell-choice |  
+| bip_39_word_dash_3 | tell-choice-manage |  
+| bip_39_word_dash_4 | tell-choice-manage-jacket |  
+| bip_39_word_dash_5 | tell-choice-manage-jacket-donor |  
+| bip_39_word_dash_6 | tell-choice-manage-jacket-donor-infant |  
+| bip_39_word_dash_7 | tell-choice-manage-jacket-donor-infant-advice |  
+| bip_39_word_dash_8 | tell-choice-manage-jacket-donor-infant-advice-bullet |  
+| bip_39_word_dash_9 | tell-choice-manage-jacket-donor-infant-advice-bullet-street |  
 | bip_39_word_new_br_1 | tell |  
 | bip_39_word_new_br_10 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand |  
 | bip_39_word_new_br_11 | tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand<br>pony |  
@@ -147,6 +159,18 @@ street |
 | bip_39_word_space_7 | tell choice manage jacket donor infant advice |  
 | bip_39_word_space_8 | tell choice manage jacket donor infant advice bullet |  
 | bip_39_word_space_9 | tell choice manage jacket donor infant advice bullet street |  
+| bip_39_word_underscore_1 | tell |  
+| bip_39_word_underscore_10 | tell_choice_manage_jacket_donor_infant_advice_bullet_street_stand |  
+| bip_39_word_underscore_11 | tell_choice_manage_jacket_donor_infant_advice_bullet_street_stand_pony |  
+| bip_39_word_underscore_12 | tell_choice_manage_jacket_donor_infant_advice_bullet_street_stand_pony_ask |  
+| bip_39_word_underscore_2 | tell_choice |  
+| bip_39_word_underscore_3 | tell_choice_manage |  
+| bip_39_word_underscore_4 | tell_choice_manage_jacket |  
+| bip_39_word_underscore_5 | tell_choice_manage_jacket_donor |  
+| bip_39_word_underscore_6 | tell_choice_manage_jacket_donor_infant |  
+| bip_39_word_underscore_7 | tell_choice_manage_jacket_donor_infant_advice |  
+| bip_39_word_underscore_8 | tell_choice_manage_jacket_donor_infant_advice_bullet |  
+| bip_39_word_underscore_9 | tell_choice_manage_jacket_donor_infant_advice_bullet_street |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

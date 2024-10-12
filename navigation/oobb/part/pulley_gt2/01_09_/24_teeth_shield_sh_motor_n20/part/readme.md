@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dish |  
+| bip_39_word_dash_10 | dish-curtain-rack-express-mom-goose-prepare-brick-fever-admit |  
+| bip_39_word_dash_11 | dish-curtain-rack-express-mom-goose-prepare-brick-fever-admit-consider |  
+| bip_39_word_dash_12 | dish-curtain-rack-express-mom-goose-prepare-brick-fever-admit-consider-answer |  
+| bip_39_word_dash_2 | dish-curtain |  
+| bip_39_word_dash_3 | dish-curtain-rack |  
+| bip_39_word_dash_4 | dish-curtain-rack-express |  
+| bip_39_word_dash_5 | dish-curtain-rack-express-mom |  
+| bip_39_word_dash_6 | dish-curtain-rack-express-mom-goose |  
+| bip_39_word_dash_7 | dish-curtain-rack-express-mom-goose-prepare |  
+| bip_39_word_dash_8 | dish-curtain-rack-express-mom-goose-prepare-brick |  
+| bip_39_word_dash_9 | dish-curtain-rack-express-mom-goose-prepare-brick-fever |  
 | bip_39_word_new_br_1 | dish |  
 | bip_39_word_new_br_10 | dish<br>curtain<br>rack<br>express<br>mom<br>goose<br>prepare<br>brick<br>fever<br>admit |  
 | bip_39_word_new_br_11 | dish<br>curtain<br>rack<br>express<br>mom<br>goose<br>prepare<br>brick<br>fever<br>admit<br>consider |  
@@ -147,6 +159,18 @@ fever |
 | bip_39_word_space_7 | dish curtain rack express mom goose prepare |  
 | bip_39_word_space_8 | dish curtain rack express mom goose prepare brick |  
 | bip_39_word_space_9 | dish curtain rack express mom goose prepare brick fever |  
+| bip_39_word_underscore_1 | dish |  
+| bip_39_word_underscore_10 | dish_curtain_rack_express_mom_goose_prepare_brick_fever_admit |  
+| bip_39_word_underscore_11 | dish_curtain_rack_express_mom_goose_prepare_brick_fever_admit_consider |  
+| bip_39_word_underscore_12 | dish_curtain_rack_express_mom_goose_prepare_brick_fever_admit_consider_answer |  
+| bip_39_word_underscore_2 | dish_curtain |  
+| bip_39_word_underscore_3 | dish_curtain_rack |  
+| bip_39_word_underscore_4 | dish_curtain_rack_express |  
+| bip_39_word_underscore_5 | dish_curtain_rack_express_mom |  
+| bip_39_word_underscore_6 | dish_curtain_rack_express_mom_goose |  
+| bip_39_word_underscore_7 | dish_curtain_rack_express_mom_goose_prepare |  
+| bip_39_word_underscore_8 | dish_curtain_rack_express_mom_goose_prepare_brick |  
+| bip_39_word_underscore_9 | dish_curtain_rack_express_mom_goose_prepare_brick_fever |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

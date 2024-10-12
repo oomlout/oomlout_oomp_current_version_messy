@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | body |  
+| bip_39_word_dash_10 | body-deliver-devote-forget-door-double-proof-inject-trouble-skirt |  
+| bip_39_word_dash_11 | body-deliver-devote-forget-door-double-proof-inject-trouble-skirt-wire |  
+| bip_39_word_dash_12 | body-deliver-devote-forget-door-double-proof-inject-trouble-skirt-wire-again |  
+| bip_39_word_dash_2 | body-deliver |  
+| bip_39_word_dash_3 | body-deliver-devote |  
+| bip_39_word_dash_4 | body-deliver-devote-forget |  
+| bip_39_word_dash_5 | body-deliver-devote-forget-door |  
+| bip_39_word_dash_6 | body-deliver-devote-forget-door-double |  
+| bip_39_word_dash_7 | body-deliver-devote-forget-door-double-proof |  
+| bip_39_word_dash_8 | body-deliver-devote-forget-door-double-proof-inject |  
+| bip_39_word_dash_9 | body-deliver-devote-forget-door-double-proof-inject-trouble |  
 | bip_39_word_new_br_1 | body |  
 | bip_39_word_new_br_10 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject<br>trouble<br>skirt |  
 | bip_39_word_new_br_11 | body<br>deliver<br>devote<br>forget<br>door<br>double<br>proof<br>inject<br>trouble<br>skirt<br>wire |  
@@ -147,6 +159,18 @@ trouble |
 | bip_39_word_space_7 | body deliver devote forget door double proof |  
 | bip_39_word_space_8 | body deliver devote forget door double proof inject |  
 | bip_39_word_space_9 | body deliver devote forget door double proof inject trouble |  
+| bip_39_word_underscore_1 | body |  
+| bip_39_word_underscore_10 | body_deliver_devote_forget_door_double_proof_inject_trouble_skirt |  
+| bip_39_word_underscore_11 | body_deliver_devote_forget_door_double_proof_inject_trouble_skirt_wire |  
+| bip_39_word_underscore_12 | body_deliver_devote_forget_door_double_proof_inject_trouble_skirt_wire_again |  
+| bip_39_word_underscore_2 | body_deliver |  
+| bip_39_word_underscore_3 | body_deliver_devote |  
+| bip_39_word_underscore_4 | body_deliver_devote_forget |  
+| bip_39_word_underscore_5 | body_deliver_devote_forget_door |  
+| bip_39_word_underscore_6 | body_deliver_devote_forget_door_double |  
+| bip_39_word_underscore_7 | body_deliver_devote_forget_door_double_proof |  
+| bip_39_word_underscore_8 | body_deliver_devote_forget_door_double_proof_inject |  
+| bip_39_word_underscore_9 | body_deliver_devote_forget_door_double_proof_inject_trouble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

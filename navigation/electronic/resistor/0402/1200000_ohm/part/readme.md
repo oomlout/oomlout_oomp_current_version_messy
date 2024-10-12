@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | congress |  
+| bip_39_word_dash_10 | congress-just-super-pool-code-fever-there-maid-process-entire |  
+| bip_39_word_dash_11 | congress-just-super-pool-code-fever-there-maid-process-entire-fetch |  
+| bip_39_word_dash_12 | congress-just-super-pool-code-fever-there-maid-process-entire-fetch-afraid |  
+| bip_39_word_dash_2 | congress-just |  
+| bip_39_word_dash_3 | congress-just-super |  
+| bip_39_word_dash_4 | congress-just-super-pool |  
+| bip_39_word_dash_5 | congress-just-super-pool-code |  
+| bip_39_word_dash_6 | congress-just-super-pool-code-fever |  
+| bip_39_word_dash_7 | congress-just-super-pool-code-fever-there |  
+| bip_39_word_dash_8 | congress-just-super-pool-code-fever-there-maid |  
+| bip_39_word_dash_9 | congress-just-super-pool-code-fever-there-maid-process |  
 | bip_39_word_new_br_1 | congress |  
 | bip_39_word_new_br_10 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire |  
 | bip_39_word_new_br_11 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire<br>fetch |  
@@ -147,6 +159,18 @@ process |
 | bip_39_word_space_7 | congress just super pool code fever there |  
 | bip_39_word_space_8 | congress just super pool code fever there maid |  
 | bip_39_word_space_9 | congress just super pool code fever there maid process |  
+| bip_39_word_underscore_1 | congress |  
+| bip_39_word_underscore_10 | congress_just_super_pool_code_fever_there_maid_process_entire |  
+| bip_39_word_underscore_11 | congress_just_super_pool_code_fever_there_maid_process_entire_fetch |  
+| bip_39_word_underscore_12 | congress_just_super_pool_code_fever_there_maid_process_entire_fetch_afraid |  
+| bip_39_word_underscore_2 | congress_just |  
+| bip_39_word_underscore_3 | congress_just_super |  
+| bip_39_word_underscore_4 | congress_just_super_pool |  
+| bip_39_word_underscore_5 | congress_just_super_pool_code |  
+| bip_39_word_underscore_6 | congress_just_super_pool_code_fever |  
+| bip_39_word_underscore_7 | congress_just_super_pool_code_fever_there |  
+| bip_39_word_underscore_8 | congress_just_super_pool_code_fever_there_maid |  
+| bip_39_word_underscore_9 | congress_just_super_pool_code_fever_there_maid_process |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

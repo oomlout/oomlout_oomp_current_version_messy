@@ -1,3 +1,15 @@
+bip_39_word_dash_1: remove
+bip_39_word_dash_10: remove-brain-negative-shadow-install-clip-mesh-energy-column-kick
+bip_39_word_dash_11: remove-brain-negative-shadow-install-clip-mesh-energy-column-kick-unknown
+bip_39_word_dash_12: remove-brain-negative-shadow-install-clip-mesh-energy-column-kick-unknown-approve
+bip_39_word_dash_2: remove-brain
+bip_39_word_dash_3: remove-brain-negative
+bip_39_word_dash_4: remove-brain-negative-shadow
+bip_39_word_dash_5: remove-brain-negative-shadow-install
+bip_39_word_dash_6: remove-brain-negative-shadow-install-clip
+bip_39_word_dash_7: remove-brain-negative-shadow-install-clip-mesh
+bip_39_word_dash_8: remove-brain-negative-shadow-install-clip-mesh-energy
+bip_39_word_dash_9: remove-brain-negative-shadow-install-clip-mesh-energy-column
 bip_39_word_new_br_1: remove
 bip_39_word_new_br_10: remove<br>brain<br>negative<br>shadow<br>install<br>clip<br>mesh<br>energy<br>column<br>kick
 bip_39_word_new_br_11: remove<br>brain<br>negative<br>shadow<br>install<br>clip<br>mesh<br>energy<br>column<br>kick<br>unknown
@@ -194,6 +206,18 @@ bip_39_word_space_6: remove brain negative shadow install clip
 bip_39_word_space_7: remove brain negative shadow install clip mesh
 bip_39_word_space_8: remove brain negative shadow install clip mesh energy
 bip_39_word_space_9: remove brain negative shadow install clip mesh energy column
+bip_39_word_underscore_1: remove
+bip_39_word_underscore_10: remove_brain_negative_shadow_install_clip_mesh_energy_column_kick
+bip_39_word_underscore_11: remove_brain_negative_shadow_install_clip_mesh_energy_column_kick_unknown
+bip_39_word_underscore_12: remove_brain_negative_shadow_install_clip_mesh_energy_column_kick_unknown_approve
+bip_39_word_underscore_2: remove_brain
+bip_39_word_underscore_3: remove_brain_negative
+bip_39_word_underscore_4: remove_brain_negative_shadow
+bip_39_word_underscore_5: remove_brain_negative_shadow_install
+bip_39_word_underscore_6: remove_brain_negative_shadow_install_clip
+bip_39_word_underscore_7: remove_brain_negative_shadow_install_clip_mesh
+bip_39_word_underscore_8: remove_brain_negative_shadow_install_clip_mesh_energy
+bip_39_word_underscore_9: remove_brain_negative_shadow_install_clip_mesh_energy_column
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

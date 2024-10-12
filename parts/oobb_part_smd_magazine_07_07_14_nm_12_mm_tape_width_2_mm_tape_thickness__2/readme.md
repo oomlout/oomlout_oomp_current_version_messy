@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | federal |  
+| bip_39_word_dash_10 | federal-decline-rigid-moon-utility-illegal-argue-neglect-east-kitchen |  
+| bip_39_word_dash_11 | federal-decline-rigid-moon-utility-illegal-argue-neglect-east-kitchen-feed |  
+| bip_39_word_dash_12 | federal-decline-rigid-moon-utility-illegal-argue-neglect-east-kitchen-feed-arrest |  
+| bip_39_word_dash_2 | federal-decline |  
+| bip_39_word_dash_3 | federal-decline-rigid |  
+| bip_39_word_dash_4 | federal-decline-rigid-moon |  
+| bip_39_word_dash_5 | federal-decline-rigid-moon-utility |  
+| bip_39_word_dash_6 | federal-decline-rigid-moon-utility-illegal |  
+| bip_39_word_dash_7 | federal-decline-rigid-moon-utility-illegal-argue |  
+| bip_39_word_dash_8 | federal-decline-rigid-moon-utility-illegal-argue-neglect |  
+| bip_39_word_dash_9 | federal-decline-rigid-moon-utility-illegal-argue-neglect-east |  
 | bip_39_word_new_br_1 | federal |  
 | bip_39_word_new_br_10 | federal<br>decline<br>rigid<br>moon<br>utility<br>illegal<br>argue<br>neglect<br>east<br>kitchen |  
 | bip_39_word_new_br_11 | federal<br>decline<br>rigid<br>moon<br>utility<br>illegal<br>argue<br>neglect<br>east<br>kitchen<br>feed |  
@@ -147,6 +159,18 @@ east |
 | bip_39_word_space_7 | federal decline rigid moon utility illegal argue |  
 | bip_39_word_space_8 | federal decline rigid moon utility illegal argue neglect |  
 | bip_39_word_space_9 | federal decline rigid moon utility illegal argue neglect east |  
+| bip_39_word_underscore_1 | federal |  
+| bip_39_word_underscore_10 | federal_decline_rigid_moon_utility_illegal_argue_neglect_east_kitchen |  
+| bip_39_word_underscore_11 | federal_decline_rigid_moon_utility_illegal_argue_neglect_east_kitchen_feed |  
+| bip_39_word_underscore_12 | federal_decline_rigid_moon_utility_illegal_argue_neglect_east_kitchen_feed_arrest |  
+| bip_39_word_underscore_2 | federal_decline |  
+| bip_39_word_underscore_3 | federal_decline_rigid |  
+| bip_39_word_underscore_4 | federal_decline_rigid_moon |  
+| bip_39_word_underscore_5 | federal_decline_rigid_moon_utility |  
+| bip_39_word_underscore_6 | federal_decline_rigid_moon_utility_illegal |  
+| bip_39_word_underscore_7 | federal_decline_rigid_moon_utility_illegal_argue |  
+| bip_39_word_underscore_8 | federal_decline_rigid_moon_utility_illegal_argue_neglect |  
+| bip_39_word_underscore_9 | federal_decline_rigid_moon_utility_illegal_argue_neglect_east |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

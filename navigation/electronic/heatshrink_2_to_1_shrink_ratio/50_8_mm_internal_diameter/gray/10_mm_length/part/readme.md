@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | punch |  
+| bip_39_word_dash_10 | punch-kite-level-aware-setup-sentence-way-smart-believe-negative |  
+| bip_39_word_dash_11 | punch-kite-level-aware-setup-sentence-way-smart-believe-negative-yellow |  
+| bip_39_word_dash_12 | punch-kite-level-aware-setup-sentence-way-smart-believe-negative-yellow-atom |  
+| bip_39_word_dash_2 | punch-kite |  
+| bip_39_word_dash_3 | punch-kite-level |  
+| bip_39_word_dash_4 | punch-kite-level-aware |  
+| bip_39_word_dash_5 | punch-kite-level-aware-setup |  
+| bip_39_word_dash_6 | punch-kite-level-aware-setup-sentence |  
+| bip_39_word_dash_7 | punch-kite-level-aware-setup-sentence-way |  
+| bip_39_word_dash_8 | punch-kite-level-aware-setup-sentence-way-smart |  
+| bip_39_word_dash_9 | punch-kite-level-aware-setup-sentence-way-smart-believe |  
 | bip_39_word_new_br_1 | punch |  
 | bip_39_word_new_br_10 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative |  
 | bip_39_word_new_br_11 | punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative<br>yellow |  
@@ -147,6 +159,18 @@ believe |
 | bip_39_word_space_7 | punch kite level aware setup sentence way |  
 | bip_39_word_space_8 | punch kite level aware setup sentence way smart |  
 | bip_39_word_space_9 | punch kite level aware setup sentence way smart believe |  
+| bip_39_word_underscore_1 | punch |  
+| bip_39_word_underscore_10 | punch_kite_level_aware_setup_sentence_way_smart_believe_negative |  
+| bip_39_word_underscore_11 | punch_kite_level_aware_setup_sentence_way_smart_believe_negative_yellow |  
+| bip_39_word_underscore_12 | punch_kite_level_aware_setup_sentence_way_smart_believe_negative_yellow_atom |  
+| bip_39_word_underscore_2 | punch_kite |  
+| bip_39_word_underscore_3 | punch_kite_level |  
+| bip_39_word_underscore_4 | punch_kite_level_aware |  
+| bip_39_word_underscore_5 | punch_kite_level_aware_setup |  
+| bip_39_word_underscore_6 | punch_kite_level_aware_setup_sentence |  
+| bip_39_word_underscore_7 | punch_kite_level_aware_setup_sentence_way |  
+| bip_39_word_underscore_8 | punch_kite_level_aware_setup_sentence_way_smart |  
+| bip_39_word_underscore_9 | punch_kite_level_aware_setup_sentence_way_smart_believe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

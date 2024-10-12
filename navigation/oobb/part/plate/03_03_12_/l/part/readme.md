@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bless |  
+| bip_39_word_dash_10 | bless-task-desert-typical-coffee-bundle-impact-impose-divorce-giant |  
+| bip_39_word_dash_11 | bless-task-desert-typical-coffee-bundle-impact-impose-divorce-giant-city |  
+| bip_39_word_dash_12 | bless-task-desert-typical-coffee-bundle-impact-impose-divorce-giant-city-aisle |  
+| bip_39_word_dash_2 | bless-task |  
+| bip_39_word_dash_3 | bless-task-desert |  
+| bip_39_word_dash_4 | bless-task-desert-typical |  
+| bip_39_word_dash_5 | bless-task-desert-typical-coffee |  
+| bip_39_word_dash_6 | bless-task-desert-typical-coffee-bundle |  
+| bip_39_word_dash_7 | bless-task-desert-typical-coffee-bundle-impact |  
+| bip_39_word_dash_8 | bless-task-desert-typical-coffee-bundle-impact-impose |  
+| bip_39_word_dash_9 | bless-task-desert-typical-coffee-bundle-impact-impose-divorce |  
 | bip_39_word_new_br_1 | bless |  
 | bip_39_word_new_br_10 | bless<br>task<br>desert<br>typical<br>coffee<br>bundle<br>impact<br>impose<br>divorce<br>giant |  
 | bip_39_word_new_br_11 | bless<br>task<br>desert<br>typical<br>coffee<br>bundle<br>impact<br>impose<br>divorce<br>giant<br>city |  
@@ -147,6 +159,18 @@ divorce |
 | bip_39_word_space_7 | bless task desert typical coffee bundle impact |  
 | bip_39_word_space_8 | bless task desert typical coffee bundle impact impose |  
 | bip_39_word_space_9 | bless task desert typical coffee bundle impact impose divorce |  
+| bip_39_word_underscore_1 | bless |  
+| bip_39_word_underscore_10 | bless_task_desert_typical_coffee_bundle_impact_impose_divorce_giant |  
+| bip_39_word_underscore_11 | bless_task_desert_typical_coffee_bundle_impact_impose_divorce_giant_city |  
+| bip_39_word_underscore_12 | bless_task_desert_typical_coffee_bundle_impact_impose_divorce_giant_city_aisle |  
+| bip_39_word_underscore_2 | bless_task |  
+| bip_39_word_underscore_3 | bless_task_desert |  
+| bip_39_word_underscore_4 | bless_task_desert_typical |  
+| bip_39_word_underscore_5 | bless_task_desert_typical_coffee |  
+| bip_39_word_underscore_6 | bless_task_desert_typical_coffee_bundle |  
+| bip_39_word_underscore_7 | bless_task_desert_typical_coffee_bundle_impact |  
+| bip_39_word_underscore_8 | bless_task_desert_typical_coffee_bundle_impact_impose |  
+| bip_39_word_underscore_9 | bless_task_desert_typical_coffee_bundle_impact_impose_divorce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

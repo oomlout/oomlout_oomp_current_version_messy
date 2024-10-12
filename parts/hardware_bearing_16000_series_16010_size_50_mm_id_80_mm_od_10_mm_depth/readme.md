@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | skirt |  
+| bip_39_word_dash_10 | skirt-age-depart-cage-balance-erode-umbrella-poverty-cinnamon-poet |  
+| bip_39_word_dash_11 | skirt-age-depart-cage-balance-erode-umbrella-poverty-cinnamon-poet-park |  
+| bip_39_word_dash_12 | skirt-age-depart-cage-balance-erode-umbrella-poverty-cinnamon-poet-park-answer |  
+| bip_39_word_dash_2 | skirt-age |  
+| bip_39_word_dash_3 | skirt-age-depart |  
+| bip_39_word_dash_4 | skirt-age-depart-cage |  
+| bip_39_word_dash_5 | skirt-age-depart-cage-balance |  
+| bip_39_word_dash_6 | skirt-age-depart-cage-balance-erode |  
+| bip_39_word_dash_7 | skirt-age-depart-cage-balance-erode-umbrella |  
+| bip_39_word_dash_8 | skirt-age-depart-cage-balance-erode-umbrella-poverty |  
+| bip_39_word_dash_9 | skirt-age-depart-cage-balance-erode-umbrella-poverty-cinnamon |  
 | bip_39_word_new_br_1 | skirt |  
 | bip_39_word_new_br_10 | skirt<br>age<br>depart<br>cage<br>balance<br>erode<br>umbrella<br>poverty<br>cinnamon<br>poet |  
 | bip_39_word_new_br_11 | skirt<br>age<br>depart<br>cage<br>balance<br>erode<br>umbrella<br>poverty<br>cinnamon<br>poet<br>park |  
@@ -147,6 +159,18 @@ cinnamon |
 | bip_39_word_space_7 | skirt age depart cage balance erode umbrella |  
 | bip_39_word_space_8 | skirt age depart cage balance erode umbrella poverty |  
 | bip_39_word_space_9 | skirt age depart cage balance erode umbrella poverty cinnamon |  
+| bip_39_word_underscore_1 | skirt |  
+| bip_39_word_underscore_10 | skirt_age_depart_cage_balance_erode_umbrella_poverty_cinnamon_poet |  
+| bip_39_word_underscore_11 | skirt_age_depart_cage_balance_erode_umbrella_poverty_cinnamon_poet_park |  
+| bip_39_word_underscore_12 | skirt_age_depart_cage_balance_erode_umbrella_poverty_cinnamon_poet_park_answer |  
+| bip_39_word_underscore_2 | skirt_age |  
+| bip_39_word_underscore_3 | skirt_age_depart |  
+| bip_39_word_underscore_4 | skirt_age_depart_cage |  
+| bip_39_word_underscore_5 | skirt_age_depart_cage_balance |  
+| bip_39_word_underscore_6 | skirt_age_depart_cage_balance_erode |  
+| bip_39_word_underscore_7 | skirt_age_depart_cage_balance_erode_umbrella |  
+| bip_39_word_underscore_8 | skirt_age_depart_cage_balance_erode_umbrella_poverty |  
+| bip_39_word_underscore_9 | skirt_age_depart_cage_balance_erode_umbrella_poverty_cinnamon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

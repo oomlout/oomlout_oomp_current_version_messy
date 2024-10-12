@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pepper |  
+| bip_39_word_dash_10 | pepper-horse-soul-outdoor-foster-course-midnight-fire-sword-someone |  
+| bip_39_word_dash_11 | pepper-horse-soul-outdoor-foster-course-midnight-fire-sword-someone-oil |  
+| bip_39_word_dash_12 | pepper-horse-soul-outdoor-foster-course-midnight-fire-sword-someone-oil-alien |  
+| bip_39_word_dash_2 | pepper-horse |  
+| bip_39_word_dash_3 | pepper-horse-soul |  
+| bip_39_word_dash_4 | pepper-horse-soul-outdoor |  
+| bip_39_word_dash_5 | pepper-horse-soul-outdoor-foster |  
+| bip_39_word_dash_6 | pepper-horse-soul-outdoor-foster-course |  
+| bip_39_word_dash_7 | pepper-horse-soul-outdoor-foster-course-midnight |  
+| bip_39_word_dash_8 | pepper-horse-soul-outdoor-foster-course-midnight-fire |  
+| bip_39_word_dash_9 | pepper-horse-soul-outdoor-foster-course-midnight-fire-sword |  
 | bip_39_word_new_br_1 | pepper |  
 | bip_39_word_new_br_10 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire<br>sword<br>someone |  
 | bip_39_word_new_br_11 | pepper<br>horse<br>soul<br>outdoor<br>foster<br>course<br>midnight<br>fire<br>sword<br>someone<br>oil |  
@@ -147,6 +159,18 @@ sword |
 | bip_39_word_space_7 | pepper horse soul outdoor foster course midnight |  
 | bip_39_word_space_8 | pepper horse soul outdoor foster course midnight fire |  
 | bip_39_word_space_9 | pepper horse soul outdoor foster course midnight fire sword |  
+| bip_39_word_underscore_1 | pepper |  
+| bip_39_word_underscore_10 | pepper_horse_soul_outdoor_foster_course_midnight_fire_sword_someone |  
+| bip_39_word_underscore_11 | pepper_horse_soul_outdoor_foster_course_midnight_fire_sword_someone_oil |  
+| bip_39_word_underscore_12 | pepper_horse_soul_outdoor_foster_course_midnight_fire_sword_someone_oil_alien |  
+| bip_39_word_underscore_2 | pepper_horse |  
+| bip_39_word_underscore_3 | pepper_horse_soul |  
+| bip_39_word_underscore_4 | pepper_horse_soul_outdoor |  
+| bip_39_word_underscore_5 | pepper_horse_soul_outdoor_foster |  
+| bip_39_word_underscore_6 | pepper_horse_soul_outdoor_foster_course |  
+| bip_39_word_underscore_7 | pepper_horse_soul_outdoor_foster_course_midnight |  
+| bip_39_word_underscore_8 | pepper_horse_soul_outdoor_foster_course_midnight_fire |  
+| bip_39_word_underscore_9 | pepper_horse_soul_outdoor_foster_course_midnight_fire_sword |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wage |  
+| bip_39_word_dash_10 | wage-thumb-split-accuse-letter-horn-sustain-that-culture-whip |  
+| bip_39_word_dash_11 | wage-thumb-split-accuse-letter-horn-sustain-that-culture-whip-dice |  
+| bip_39_word_dash_12 | wage-thumb-split-accuse-letter-horn-sustain-that-culture-whip-dice-antenna |  
+| bip_39_word_dash_2 | wage-thumb |  
+| bip_39_word_dash_3 | wage-thumb-split |  
+| bip_39_word_dash_4 | wage-thumb-split-accuse |  
+| bip_39_word_dash_5 | wage-thumb-split-accuse-letter |  
+| bip_39_word_dash_6 | wage-thumb-split-accuse-letter-horn |  
+| bip_39_word_dash_7 | wage-thumb-split-accuse-letter-horn-sustain |  
+| bip_39_word_dash_8 | wage-thumb-split-accuse-letter-horn-sustain-that |  
+| bip_39_word_dash_9 | wage-thumb-split-accuse-letter-horn-sustain-that-culture |  
 | bip_39_word_new_br_1 | wage |  
 | bip_39_word_new_br_10 | wage<br>thumb<br>split<br>accuse<br>letter<br>horn<br>sustain<br>that<br>culture<br>whip |  
 | bip_39_word_new_br_11 | wage<br>thumb<br>split<br>accuse<br>letter<br>horn<br>sustain<br>that<br>culture<br>whip<br>dice |  
@@ -147,6 +159,18 @@ culture |
 | bip_39_word_space_7 | wage thumb split accuse letter horn sustain |  
 | bip_39_word_space_8 | wage thumb split accuse letter horn sustain that |  
 | bip_39_word_space_9 | wage thumb split accuse letter horn sustain that culture |  
+| bip_39_word_underscore_1 | wage |  
+| bip_39_word_underscore_10 | wage_thumb_split_accuse_letter_horn_sustain_that_culture_whip |  
+| bip_39_word_underscore_11 | wage_thumb_split_accuse_letter_horn_sustain_that_culture_whip_dice |  
+| bip_39_word_underscore_12 | wage_thumb_split_accuse_letter_horn_sustain_that_culture_whip_dice_antenna |  
+| bip_39_word_underscore_2 | wage_thumb |  
+| bip_39_word_underscore_3 | wage_thumb_split |  
+| bip_39_word_underscore_4 | wage_thumb_split_accuse |  
+| bip_39_word_underscore_5 | wage_thumb_split_accuse_letter |  
+| bip_39_word_underscore_6 | wage_thumb_split_accuse_letter_horn |  
+| bip_39_word_underscore_7 | wage_thumb_split_accuse_letter_horn_sustain |  
+| bip_39_word_underscore_8 | wage_thumb_split_accuse_letter_horn_sustain_that |  
+| bip_39_word_underscore_9 | wage_thumb_split_accuse_letter_horn_sustain_that_culture |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

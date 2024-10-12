@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | salt |  
+| bip_39_word_dash_10 | salt-game-yard-elevator-surge-muscle-cash-glove-make-loop |  
+| bip_39_word_dash_11 | salt-game-yard-elevator-surge-muscle-cash-glove-make-loop-clog |  
+| bip_39_word_dash_12 | salt-game-yard-elevator-surge-muscle-cash-glove-make-loop-clog-alien |  
+| bip_39_word_dash_2 | salt-game |  
+| bip_39_word_dash_3 | salt-game-yard |  
+| bip_39_word_dash_4 | salt-game-yard-elevator |  
+| bip_39_word_dash_5 | salt-game-yard-elevator-surge |  
+| bip_39_word_dash_6 | salt-game-yard-elevator-surge-muscle |  
+| bip_39_word_dash_7 | salt-game-yard-elevator-surge-muscle-cash |  
+| bip_39_word_dash_8 | salt-game-yard-elevator-surge-muscle-cash-glove |  
+| bip_39_word_dash_9 | salt-game-yard-elevator-surge-muscle-cash-glove-make |  
 | bip_39_word_new_br_1 | salt |  
 | bip_39_word_new_br_10 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop |  
 | bip_39_word_new_br_11 | salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop<br>clog |  
@@ -147,6 +159,18 @@ make |
 | bip_39_word_space_7 | salt game yard elevator surge muscle cash |  
 | bip_39_word_space_8 | salt game yard elevator surge muscle cash glove |  
 | bip_39_word_space_9 | salt game yard elevator surge muscle cash glove make |  
+| bip_39_word_underscore_1 | salt |  
+| bip_39_word_underscore_10 | salt_game_yard_elevator_surge_muscle_cash_glove_make_loop |  
+| bip_39_word_underscore_11 | salt_game_yard_elevator_surge_muscle_cash_glove_make_loop_clog |  
+| bip_39_word_underscore_12 | salt_game_yard_elevator_surge_muscle_cash_glove_make_loop_clog_alien |  
+| bip_39_word_underscore_2 | salt_game |  
+| bip_39_word_underscore_3 | salt_game_yard |  
+| bip_39_word_underscore_4 | salt_game_yard_elevator |  
+| bip_39_word_underscore_5 | salt_game_yard_elevator_surge |  
+| bip_39_word_underscore_6 | salt_game_yard_elevator_surge_muscle |  
+| bip_39_word_underscore_7 | salt_game_yard_elevator_surge_muscle_cash |  
+| bip_39_word_underscore_8 | salt_game_yard_elevator_surge_muscle_cash_glove |  
+| bip_39_word_underscore_9 | salt_game_yard_elevator_surge_muscle_cash_glove_make |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

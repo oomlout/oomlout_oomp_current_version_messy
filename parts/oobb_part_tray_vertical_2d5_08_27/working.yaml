@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cart
+bip_39_word_dash_10: cart-pepper-brass-wait-rigid-put-lounge-angle-ask-stool
+bip_39_word_dash_11: cart-pepper-brass-wait-rigid-put-lounge-angle-ask-stool-absorb
+bip_39_word_dash_12: cart-pepper-brass-wait-rigid-put-lounge-angle-ask-stool-absorb-autumn
+bip_39_word_dash_2: cart-pepper
+bip_39_word_dash_3: cart-pepper-brass
+bip_39_word_dash_4: cart-pepper-brass-wait
+bip_39_word_dash_5: cart-pepper-brass-wait-rigid
+bip_39_word_dash_6: cart-pepper-brass-wait-rigid-put
+bip_39_word_dash_7: cart-pepper-brass-wait-rigid-put-lounge
+bip_39_word_dash_8: cart-pepper-brass-wait-rigid-put-lounge-angle
+bip_39_word_dash_9: cart-pepper-brass-wait-rigid-put-lounge-angle-ask
 bip_39_word_new_br_1: cart
 bip_39_word_new_br_10: cart<br>pepper<br>brass<br>wait<br>rigid<br>put<br>lounge<br>angle<br>ask<br>stool
 bip_39_word_new_br_11: cart<br>pepper<br>brass<br>wait<br>rigid<br>put<br>lounge<br>angle<br>ask<br>stool<br>absorb
@@ -192,6 +204,18 @@ bip_39_word_space_6: cart pepper brass wait rigid put
 bip_39_word_space_7: cart pepper brass wait rigid put lounge
 bip_39_word_space_8: cart pepper brass wait rigid put lounge angle
 bip_39_word_space_9: cart pepper brass wait rigid put lounge angle ask
+bip_39_word_underscore_1: cart
+bip_39_word_underscore_10: cart_pepper_brass_wait_rigid_put_lounge_angle_ask_stool
+bip_39_word_underscore_11: cart_pepper_brass_wait_rigid_put_lounge_angle_ask_stool_absorb
+bip_39_word_underscore_12: cart_pepper_brass_wait_rigid_put_lounge_angle_ask_stool_absorb_autumn
+bip_39_word_underscore_2: cart_pepper
+bip_39_word_underscore_3: cart_pepper_brass
+bip_39_word_underscore_4: cart_pepper_brass_wait
+bip_39_word_underscore_5: cart_pepper_brass_wait_rigid
+bip_39_word_underscore_6: cart_pepper_brass_wait_rigid_put
+bip_39_word_underscore_7: cart_pepper_brass_wait_rigid_put_lounge
+bip_39_word_underscore_8: cart_pepper_brass_wait_rigid_put_lounge_angle
+bip_39_word_underscore_9: cart_pepper_brass_wait_rigid_put_lounge_angle_ask
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

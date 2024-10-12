@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | future |  
+| bip_39_word_dash_10 | future-letter-heart-super-witness-junk-dry-rich-silly-inhale |  
+| bip_39_word_dash_11 | future-letter-heart-super-witness-junk-dry-rich-silly-inhale-mixture |  
+| bip_39_word_dash_12 | future-letter-heart-super-witness-junk-dry-rich-silly-inhale-mixture-attitude |  
+| bip_39_word_dash_2 | future-letter |  
+| bip_39_word_dash_3 | future-letter-heart |  
+| bip_39_word_dash_4 | future-letter-heart-super |  
+| bip_39_word_dash_5 | future-letter-heart-super-witness |  
+| bip_39_word_dash_6 | future-letter-heart-super-witness-junk |  
+| bip_39_word_dash_7 | future-letter-heart-super-witness-junk-dry |  
+| bip_39_word_dash_8 | future-letter-heart-super-witness-junk-dry-rich |  
+| bip_39_word_dash_9 | future-letter-heart-super-witness-junk-dry-rich-silly |  
 | bip_39_word_new_br_1 | future |  
 | bip_39_word_new_br_10 | future<br>letter<br>heart<br>super<br>witness<br>junk<br>dry<br>rich<br>silly<br>inhale |  
 | bip_39_word_new_br_11 | future<br>letter<br>heart<br>super<br>witness<br>junk<br>dry<br>rich<br>silly<br>inhale<br>mixture |  
@@ -147,6 +159,18 @@ silly |
 | bip_39_word_space_7 | future letter heart super witness junk dry |  
 | bip_39_word_space_8 | future letter heart super witness junk dry rich |  
 | bip_39_word_space_9 | future letter heart super witness junk dry rich silly |  
+| bip_39_word_underscore_1 | future |  
+| bip_39_word_underscore_10 | future_letter_heart_super_witness_junk_dry_rich_silly_inhale |  
+| bip_39_word_underscore_11 | future_letter_heart_super_witness_junk_dry_rich_silly_inhale_mixture |  
+| bip_39_word_underscore_12 | future_letter_heart_super_witness_junk_dry_rich_silly_inhale_mixture_attitude |  
+| bip_39_word_underscore_2 | future_letter |  
+| bip_39_word_underscore_3 | future_letter_heart |  
+| bip_39_word_underscore_4 | future_letter_heart_super |  
+| bip_39_word_underscore_5 | future_letter_heart_super_witness |  
+| bip_39_word_underscore_6 | future_letter_heart_super_witness_junk |  
+| bip_39_word_underscore_7 | future_letter_heart_super_witness_junk_dry |  
+| bip_39_word_underscore_8 | future_letter_heart_super_witness_junk_dry_rich |  
+| bip_39_word_underscore_9 | future_letter_heart_super_witness_junk_dry_rich_silly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

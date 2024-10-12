@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dice |  
+| bip_39_word_dash_10 | dice-orange-measure-toddler-boat-scissors-valid-behind-island-rough |  
+| bip_39_word_dash_11 | dice-orange-measure-toddler-boat-scissors-valid-behind-island-rough-hotel |  
+| bip_39_word_dash_12 | dice-orange-measure-toddler-boat-scissors-valid-behind-island-rough-hotel-antenna |  
+| bip_39_word_dash_2 | dice-orange |  
+| bip_39_word_dash_3 | dice-orange-measure |  
+| bip_39_word_dash_4 | dice-orange-measure-toddler |  
+| bip_39_word_dash_5 | dice-orange-measure-toddler-boat |  
+| bip_39_word_dash_6 | dice-orange-measure-toddler-boat-scissors |  
+| bip_39_word_dash_7 | dice-orange-measure-toddler-boat-scissors-valid |  
+| bip_39_word_dash_8 | dice-orange-measure-toddler-boat-scissors-valid-behind |  
+| bip_39_word_dash_9 | dice-orange-measure-toddler-boat-scissors-valid-behind-island |  
 | bip_39_word_new_br_1 | dice |  
 | bip_39_word_new_br_10 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough |  
 | bip_39_word_new_br_11 | dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough<br>hotel |  
@@ -147,6 +159,18 @@ island |
 | bip_39_word_space_7 | dice orange measure toddler boat scissors valid |  
 | bip_39_word_space_8 | dice orange measure toddler boat scissors valid behind |  
 | bip_39_word_space_9 | dice orange measure toddler boat scissors valid behind island |  
+| bip_39_word_underscore_1 | dice |  
+| bip_39_word_underscore_10 | dice_orange_measure_toddler_boat_scissors_valid_behind_island_rough |  
+| bip_39_word_underscore_11 | dice_orange_measure_toddler_boat_scissors_valid_behind_island_rough_hotel |  
+| bip_39_word_underscore_12 | dice_orange_measure_toddler_boat_scissors_valid_behind_island_rough_hotel_antenna |  
+| bip_39_word_underscore_2 | dice_orange |  
+| bip_39_word_underscore_3 | dice_orange_measure |  
+| bip_39_word_underscore_4 | dice_orange_measure_toddler |  
+| bip_39_word_underscore_5 | dice_orange_measure_toddler_boat |  
+| bip_39_word_underscore_6 | dice_orange_measure_toddler_boat_scissors |  
+| bip_39_word_underscore_7 | dice_orange_measure_toddler_boat_scissors_valid |  
+| bip_39_word_underscore_8 | dice_orange_measure_toddler_boat_scissors_valid_behind |  
+| bip_39_word_underscore_9 | dice_orange_measure_toddler_boat_scissors_valid_behind_island |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nasty |  
+| bip_39_word_dash_10 | nasty-olive-seminar-bean-brother-nice-cat-keen-property-describe |  
+| bip_39_word_dash_11 | nasty-olive-seminar-bean-brother-nice-cat-keen-property-describe-cigar |  
+| bip_39_word_dash_12 | nasty-olive-seminar-bean-brother-nice-cat-keen-property-describe-cigar-another |  
+| bip_39_word_dash_2 | nasty-olive |  
+| bip_39_word_dash_3 | nasty-olive-seminar |  
+| bip_39_word_dash_4 | nasty-olive-seminar-bean |  
+| bip_39_word_dash_5 | nasty-olive-seminar-bean-brother |  
+| bip_39_word_dash_6 | nasty-olive-seminar-bean-brother-nice |  
+| bip_39_word_dash_7 | nasty-olive-seminar-bean-brother-nice-cat |  
+| bip_39_word_dash_8 | nasty-olive-seminar-bean-brother-nice-cat-keen |  
+| bip_39_word_dash_9 | nasty-olive-seminar-bean-brother-nice-cat-keen-property |  
 | bip_39_word_new_br_1 | nasty |  
 | bip_39_word_new_br_10 | nasty<br>olive<br>seminar<br>bean<br>brother<br>nice<br>cat<br>keen<br>property<br>describe |  
 | bip_39_word_new_br_11 | nasty<br>olive<br>seminar<br>bean<br>brother<br>nice<br>cat<br>keen<br>property<br>describe<br>cigar |  
@@ -147,6 +159,18 @@ property |
 | bip_39_word_space_7 | nasty olive seminar bean brother nice cat |  
 | bip_39_word_space_8 | nasty olive seminar bean brother nice cat keen |  
 | bip_39_word_space_9 | nasty olive seminar bean brother nice cat keen property |  
+| bip_39_word_underscore_1 | nasty |  
+| bip_39_word_underscore_10 | nasty_olive_seminar_bean_brother_nice_cat_keen_property_describe |  
+| bip_39_word_underscore_11 | nasty_olive_seminar_bean_brother_nice_cat_keen_property_describe_cigar |  
+| bip_39_word_underscore_12 | nasty_olive_seminar_bean_brother_nice_cat_keen_property_describe_cigar_another |  
+| bip_39_word_underscore_2 | nasty_olive |  
+| bip_39_word_underscore_3 | nasty_olive_seminar |  
+| bip_39_word_underscore_4 | nasty_olive_seminar_bean |  
+| bip_39_word_underscore_5 | nasty_olive_seminar_bean_brother |  
+| bip_39_word_underscore_6 | nasty_olive_seminar_bean_brother_nice |  
+| bip_39_word_underscore_7 | nasty_olive_seminar_bean_brother_nice_cat |  
+| bip_39_word_underscore_8 | nasty_olive_seminar_bean_brother_nice_cat_keen |  
+| bip_39_word_underscore_9 | nasty_olive_seminar_bean_brother_nice_cat_keen_property |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

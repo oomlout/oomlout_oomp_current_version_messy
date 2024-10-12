@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wagon |  
+| bip_39_word_dash_10 | wagon-share-stadium-tree-pigeon-tent-door-forward-chief-blue |  
+| bip_39_word_dash_11 | wagon-share-stadium-tree-pigeon-tent-door-forward-chief-blue-life |  
+| bip_39_word_dash_12 | wagon-share-stadium-tree-pigeon-tent-door-forward-chief-blue-life-amateur |  
+| bip_39_word_dash_2 | wagon-share |  
+| bip_39_word_dash_3 | wagon-share-stadium |  
+| bip_39_word_dash_4 | wagon-share-stadium-tree |  
+| bip_39_word_dash_5 | wagon-share-stadium-tree-pigeon |  
+| bip_39_word_dash_6 | wagon-share-stadium-tree-pigeon-tent |  
+| bip_39_word_dash_7 | wagon-share-stadium-tree-pigeon-tent-door |  
+| bip_39_word_dash_8 | wagon-share-stadium-tree-pigeon-tent-door-forward |  
+| bip_39_word_dash_9 | wagon-share-stadium-tree-pigeon-tent-door-forward-chief |  
 | bip_39_word_new_br_1 | wagon |  
 | bip_39_word_new_br_10 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward<br>chief<br>blue |  
 | bip_39_word_new_br_11 | wagon<br>share<br>stadium<br>tree<br>pigeon<br>tent<br>door<br>forward<br>chief<br>blue<br>life |  
@@ -147,6 +159,18 @@ chief |
 | bip_39_word_space_7 | wagon share stadium tree pigeon tent door |  
 | bip_39_word_space_8 | wagon share stadium tree pigeon tent door forward |  
 | bip_39_word_space_9 | wagon share stadium tree pigeon tent door forward chief |  
+| bip_39_word_underscore_1 | wagon |  
+| bip_39_word_underscore_10 | wagon_share_stadium_tree_pigeon_tent_door_forward_chief_blue |  
+| bip_39_word_underscore_11 | wagon_share_stadium_tree_pigeon_tent_door_forward_chief_blue_life |  
+| bip_39_word_underscore_12 | wagon_share_stadium_tree_pigeon_tent_door_forward_chief_blue_life_amateur |  
+| bip_39_word_underscore_2 | wagon_share |  
+| bip_39_word_underscore_3 | wagon_share_stadium |  
+| bip_39_word_underscore_4 | wagon_share_stadium_tree |  
+| bip_39_word_underscore_5 | wagon_share_stadium_tree_pigeon |  
+| bip_39_word_underscore_6 | wagon_share_stadium_tree_pigeon_tent |  
+| bip_39_word_underscore_7 | wagon_share_stadium_tree_pigeon_tent_door |  
+| bip_39_word_underscore_8 | wagon_share_stadium_tree_pigeon_tent_door_forward |  
+| bip_39_word_underscore_9 | wagon_share_stadium_tree_pigeon_tent_door_forward_chief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

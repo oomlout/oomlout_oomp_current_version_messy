@@ -1,3 +1,15 @@
+bip_39_word_dash_1: candy
+bip_39_word_dash_10: candy-addict-treat-proof-gate-border-sleep-sudden-math-tank
+bip_39_word_dash_11: candy-addict-treat-proof-gate-border-sleep-sudden-math-tank-chef
+bip_39_word_dash_12: candy-addict-treat-proof-gate-border-sleep-sudden-math-tank-chef-almost
+bip_39_word_dash_2: candy-addict
+bip_39_word_dash_3: candy-addict-treat
+bip_39_word_dash_4: candy-addict-treat-proof
+bip_39_word_dash_5: candy-addict-treat-proof-gate
+bip_39_word_dash_6: candy-addict-treat-proof-gate-border
+bip_39_word_dash_7: candy-addict-treat-proof-gate-border-sleep
+bip_39_word_dash_8: candy-addict-treat-proof-gate-border-sleep-sudden
+bip_39_word_dash_9: candy-addict-treat-proof-gate-border-sleep-sudden-math
 bip_39_word_new_br_1: candy
 bip_39_word_new_br_10: candy<br>addict<br>treat<br>proof<br>gate<br>border<br>sleep<br>sudden<br>math<br>tank
 bip_39_word_new_br_11: candy<br>addict<br>treat<br>proof<br>gate<br>border<br>sleep<br>sudden<br>math<br>tank<br>chef
@@ -193,6 +205,18 @@ bip_39_word_space_6: candy addict treat proof gate border
 bip_39_word_space_7: candy addict treat proof gate border sleep
 bip_39_word_space_8: candy addict treat proof gate border sleep sudden
 bip_39_word_space_9: candy addict treat proof gate border sleep sudden math
+bip_39_word_underscore_1: candy
+bip_39_word_underscore_10: candy_addict_treat_proof_gate_border_sleep_sudden_math_tank
+bip_39_word_underscore_11: candy_addict_treat_proof_gate_border_sleep_sudden_math_tank_chef
+bip_39_word_underscore_12: candy_addict_treat_proof_gate_border_sleep_sudden_math_tank_chef_almost
+bip_39_word_underscore_2: candy_addict
+bip_39_word_underscore_3: candy_addict_treat
+bip_39_word_underscore_4: candy_addict_treat_proof
+bip_39_word_underscore_5: candy_addict_treat_proof_gate
+bip_39_word_underscore_6: candy_addict_treat_proof_gate_border
+bip_39_word_underscore_7: candy_addict_treat_proof_gate_border_sleep
+bip_39_word_underscore_8: candy_addict_treat_proof_gate_border_sleep_sudden
+bip_39_word_underscore_9: candy_addict_treat_proof_gate_border_sleep_sudden_math
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

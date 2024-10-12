@@ -1,3 +1,15 @@
+bip_39_word_dash_1: possible
+bip_39_word_dash_10: possible-vote-cross-seek-shock-furnace-copper-hunt-update-drink
+bip_39_word_dash_11: possible-vote-cross-seek-shock-furnace-copper-hunt-update-drink-obey
+bip_39_word_dash_12: possible-vote-cross-seek-shock-furnace-copper-hunt-update-drink-obey-around
+bip_39_word_dash_2: possible-vote
+bip_39_word_dash_3: possible-vote-cross
+bip_39_word_dash_4: possible-vote-cross-seek
+bip_39_word_dash_5: possible-vote-cross-seek-shock
+bip_39_word_dash_6: possible-vote-cross-seek-shock-furnace
+bip_39_word_dash_7: possible-vote-cross-seek-shock-furnace-copper
+bip_39_word_dash_8: possible-vote-cross-seek-shock-furnace-copper-hunt
+bip_39_word_dash_9: possible-vote-cross-seek-shock-furnace-copper-hunt-update
 bip_39_word_new_br_1: possible
 bip_39_word_new_br_10: possible<br>vote<br>cross<br>seek<br>shock<br>furnace<br>copper<br>hunt<br>update<br>drink
 bip_39_word_new_br_11: possible<br>vote<br>cross<br>seek<br>shock<br>furnace<br>copper<br>hunt<br>update<br>drink<br>obey
@@ -193,6 +205,18 @@ bip_39_word_space_6: possible vote cross seek shock furnace
 bip_39_word_space_7: possible vote cross seek shock furnace copper
 bip_39_word_space_8: possible vote cross seek shock furnace copper hunt
 bip_39_word_space_9: possible vote cross seek shock furnace copper hunt update
+bip_39_word_underscore_1: possible
+bip_39_word_underscore_10: possible_vote_cross_seek_shock_furnace_copper_hunt_update_drink
+bip_39_word_underscore_11: possible_vote_cross_seek_shock_furnace_copper_hunt_update_drink_obey
+bip_39_word_underscore_12: possible_vote_cross_seek_shock_furnace_copper_hunt_update_drink_obey_around
+bip_39_word_underscore_2: possible_vote
+bip_39_word_underscore_3: possible_vote_cross
+bip_39_word_underscore_4: possible_vote_cross_seek
+bip_39_word_underscore_5: possible_vote_cross_seek_shock
+bip_39_word_underscore_6: possible_vote_cross_seek_shock_furnace
+bip_39_word_underscore_7: possible_vote_cross_seek_shock_furnace_copper
+bip_39_word_underscore_8: possible_vote_cross_seek_shock_furnace_copper_hunt
+bip_39_word_underscore_9: possible_vote_cross_seek_shock_furnace_copper_hunt_update
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

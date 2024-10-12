@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | laundry |  
+| bip_39_word_dash_10 | laundry-rural-state-finger-drastic-turkey-silent-dirt-artist-slot |  
+| bip_39_word_dash_11 | laundry-rural-state-finger-drastic-turkey-silent-dirt-artist-slot-rather |  
+| bip_39_word_dash_12 | laundry-rural-state-finger-drastic-turkey-silent-dirt-artist-slot-rather-apple |  
+| bip_39_word_dash_2 | laundry-rural |  
+| bip_39_word_dash_3 | laundry-rural-state |  
+| bip_39_word_dash_4 | laundry-rural-state-finger |  
+| bip_39_word_dash_5 | laundry-rural-state-finger-drastic |  
+| bip_39_word_dash_6 | laundry-rural-state-finger-drastic-turkey |  
+| bip_39_word_dash_7 | laundry-rural-state-finger-drastic-turkey-silent |  
+| bip_39_word_dash_8 | laundry-rural-state-finger-drastic-turkey-silent-dirt |  
+| bip_39_word_dash_9 | laundry-rural-state-finger-drastic-turkey-silent-dirt-artist |  
 | bip_39_word_new_br_1 | laundry |  
 | bip_39_word_new_br_10 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt<br>artist<br>slot |  
 | bip_39_word_new_br_11 | laundry<br>rural<br>state<br>finger<br>drastic<br>turkey<br>silent<br>dirt<br>artist<br>slot<br>rather |  
@@ -147,6 +159,18 @@ artist |
 | bip_39_word_space_7 | laundry rural state finger drastic turkey silent |  
 | bip_39_word_space_8 | laundry rural state finger drastic turkey silent dirt |  
 | bip_39_word_space_9 | laundry rural state finger drastic turkey silent dirt artist |  
+| bip_39_word_underscore_1 | laundry |  
+| bip_39_word_underscore_10 | laundry_rural_state_finger_drastic_turkey_silent_dirt_artist_slot |  
+| bip_39_word_underscore_11 | laundry_rural_state_finger_drastic_turkey_silent_dirt_artist_slot_rather |  
+| bip_39_word_underscore_12 | laundry_rural_state_finger_drastic_turkey_silent_dirt_artist_slot_rather_apple |  
+| bip_39_word_underscore_2 | laundry_rural |  
+| bip_39_word_underscore_3 | laundry_rural_state |  
+| bip_39_word_underscore_4 | laundry_rural_state_finger |  
+| bip_39_word_underscore_5 | laundry_rural_state_finger_drastic |  
+| bip_39_word_underscore_6 | laundry_rural_state_finger_drastic_turkey |  
+| bip_39_word_underscore_7 | laundry_rural_state_finger_drastic_turkey_silent |  
+| bip_39_word_underscore_8 | laundry_rural_state_finger_drastic_turkey_silent_dirt |  
+| bip_39_word_underscore_9 | laundry_rural_state_finger_drastic_turkey_silent_dirt_artist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cabbage |  
+| bip_39_word_dash_10 | cabbage-pilot-trend-cancel-state-radar-other-economy-sad-almost |  
+| bip_39_word_dash_11 | cabbage-pilot-trend-cancel-state-radar-other-economy-sad-almost-inhale |  
+| bip_39_word_dash_12 | cabbage-pilot-trend-cancel-state-radar-other-economy-sad-almost-inhale-assist |  
+| bip_39_word_dash_2 | cabbage-pilot |  
+| bip_39_word_dash_3 | cabbage-pilot-trend |  
+| bip_39_word_dash_4 | cabbage-pilot-trend-cancel |  
+| bip_39_word_dash_5 | cabbage-pilot-trend-cancel-state |  
+| bip_39_word_dash_6 | cabbage-pilot-trend-cancel-state-radar |  
+| bip_39_word_dash_7 | cabbage-pilot-trend-cancel-state-radar-other |  
+| bip_39_word_dash_8 | cabbage-pilot-trend-cancel-state-radar-other-economy |  
+| bip_39_word_dash_9 | cabbage-pilot-trend-cancel-state-radar-other-economy-sad |  
 | bip_39_word_new_br_1 | cabbage |  
 | bip_39_word_new_br_10 | cabbage<br>pilot<br>trend<br>cancel<br>state<br>radar<br>other<br>economy<br>sad<br>almost |  
 | bip_39_word_new_br_11 | cabbage<br>pilot<br>trend<br>cancel<br>state<br>radar<br>other<br>economy<br>sad<br>almost<br>inhale |  
@@ -147,6 +159,18 @@ sad |
 | bip_39_word_space_7 | cabbage pilot trend cancel state radar other |  
 | bip_39_word_space_8 | cabbage pilot trend cancel state radar other economy |  
 | bip_39_word_space_9 | cabbage pilot trend cancel state radar other economy sad |  
+| bip_39_word_underscore_1 | cabbage |  
+| bip_39_word_underscore_10 | cabbage_pilot_trend_cancel_state_radar_other_economy_sad_almost |  
+| bip_39_word_underscore_11 | cabbage_pilot_trend_cancel_state_radar_other_economy_sad_almost_inhale |  
+| bip_39_word_underscore_12 | cabbage_pilot_trend_cancel_state_radar_other_economy_sad_almost_inhale_assist |  
+| bip_39_word_underscore_2 | cabbage_pilot |  
+| bip_39_word_underscore_3 | cabbage_pilot_trend |  
+| bip_39_word_underscore_4 | cabbage_pilot_trend_cancel |  
+| bip_39_word_underscore_5 | cabbage_pilot_trend_cancel_state |  
+| bip_39_word_underscore_6 | cabbage_pilot_trend_cancel_state_radar |  
+| bip_39_word_underscore_7 | cabbage_pilot_trend_cancel_state_radar_other |  
+| bip_39_word_underscore_8 | cabbage_pilot_trend_cancel_state_radar_other_economy |  
+| bip_39_word_underscore_9 | cabbage_pilot_trend_cancel_state_radar_other_economy_sad |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spoon |  
+| bip_39_word_dash_10 | spoon-install-cake-grief-pitch-gossip-girl-toe-increase-dress |  
+| bip_39_word_dash_11 | spoon-install-cake-grief-pitch-gossip-girl-toe-increase-dress-dirt |  
+| bip_39_word_dash_12 | spoon-install-cake-grief-pitch-gossip-girl-toe-increase-dress-dirt-attitude |  
+| bip_39_word_dash_2 | spoon-install |  
+| bip_39_word_dash_3 | spoon-install-cake |  
+| bip_39_word_dash_4 | spoon-install-cake-grief |  
+| bip_39_word_dash_5 | spoon-install-cake-grief-pitch |  
+| bip_39_word_dash_6 | spoon-install-cake-grief-pitch-gossip |  
+| bip_39_word_dash_7 | spoon-install-cake-grief-pitch-gossip-girl |  
+| bip_39_word_dash_8 | spoon-install-cake-grief-pitch-gossip-girl-toe |  
+| bip_39_word_dash_9 | spoon-install-cake-grief-pitch-gossip-girl-toe-increase |  
 | bip_39_word_new_br_1 | spoon |  
 | bip_39_word_new_br_10 | spoon<br>install<br>cake<br>grief<br>pitch<br>gossip<br>girl<br>toe<br>increase<br>dress |  
 | bip_39_word_new_br_11 | spoon<br>install<br>cake<br>grief<br>pitch<br>gossip<br>girl<br>toe<br>increase<br>dress<br>dirt |  
@@ -147,6 +159,18 @@ increase |
 | bip_39_word_space_7 | spoon install cake grief pitch gossip girl |  
 | bip_39_word_space_8 | spoon install cake grief pitch gossip girl toe |  
 | bip_39_word_space_9 | spoon install cake grief pitch gossip girl toe increase |  
+| bip_39_word_underscore_1 | spoon |  
+| bip_39_word_underscore_10 | spoon_install_cake_grief_pitch_gossip_girl_toe_increase_dress |  
+| bip_39_word_underscore_11 | spoon_install_cake_grief_pitch_gossip_girl_toe_increase_dress_dirt |  
+| bip_39_word_underscore_12 | spoon_install_cake_grief_pitch_gossip_girl_toe_increase_dress_dirt_attitude |  
+| bip_39_word_underscore_2 | spoon_install |  
+| bip_39_word_underscore_3 | spoon_install_cake |  
+| bip_39_word_underscore_4 | spoon_install_cake_grief |  
+| bip_39_word_underscore_5 | spoon_install_cake_grief_pitch |  
+| bip_39_word_underscore_6 | spoon_install_cake_grief_pitch_gossip |  
+| bip_39_word_underscore_7 | spoon_install_cake_grief_pitch_gossip_girl |  
+| bip_39_word_underscore_8 | spoon_install_cake_grief_pitch_gossip_girl_toe |  
+| bip_39_word_underscore_9 | spoon_install_cake_grief_pitch_gossip_girl_toe_increase |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

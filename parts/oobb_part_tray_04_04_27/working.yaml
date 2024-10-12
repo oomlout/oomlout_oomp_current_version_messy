@@ -1,3 +1,15 @@
+bip_39_word_dash_1: awesome
+bip_39_word_dash_10: awesome-cluster-front-erosion-rule-diet-that-wish-long-cube
+bip_39_word_dash_11: awesome-cluster-front-erosion-rule-diet-that-wish-long-cube-fantasy
+bip_39_word_dash_12: awesome-cluster-front-erosion-rule-diet-that-wish-long-cube-fantasy-analyst
+bip_39_word_dash_2: awesome-cluster
+bip_39_word_dash_3: awesome-cluster-front
+bip_39_word_dash_4: awesome-cluster-front-erosion
+bip_39_word_dash_5: awesome-cluster-front-erosion-rule
+bip_39_word_dash_6: awesome-cluster-front-erosion-rule-diet
+bip_39_word_dash_7: awesome-cluster-front-erosion-rule-diet-that
+bip_39_word_dash_8: awesome-cluster-front-erosion-rule-diet-that-wish
+bip_39_word_dash_9: awesome-cluster-front-erosion-rule-diet-that-wish-long
 bip_39_word_new_br_1: awesome
 bip_39_word_new_br_10: awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube
 bip_39_word_new_br_11: awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube<br>fantasy
@@ -193,6 +205,18 @@ bip_39_word_space_6: awesome cluster front erosion rule diet
 bip_39_word_space_7: awesome cluster front erosion rule diet that
 bip_39_word_space_8: awesome cluster front erosion rule diet that wish
 bip_39_word_space_9: awesome cluster front erosion rule diet that wish long
+bip_39_word_underscore_1: awesome
+bip_39_word_underscore_10: awesome_cluster_front_erosion_rule_diet_that_wish_long_cube
+bip_39_word_underscore_11: awesome_cluster_front_erosion_rule_diet_that_wish_long_cube_fantasy
+bip_39_word_underscore_12: awesome_cluster_front_erosion_rule_diet_that_wish_long_cube_fantasy_analyst
+bip_39_word_underscore_2: awesome_cluster
+bip_39_word_underscore_3: awesome_cluster_front
+bip_39_word_underscore_4: awesome_cluster_front_erosion
+bip_39_word_underscore_5: awesome_cluster_front_erosion_rule
+bip_39_word_underscore_6: awesome_cluster_front_erosion_rule_diet
+bip_39_word_underscore_7: awesome_cluster_front_erosion_rule_diet_that
+bip_39_word_underscore_8: awesome_cluster_front_erosion_rule_diet_that_wish
+bip_39_word_underscore_9: awesome_cluster_front_erosion_rule_diet_that_wish_long
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

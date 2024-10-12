@@ -1,3 +1,15 @@
+bip_39_word_dash_1: airport
+bip_39_word_dash_10: airport-gauge-main-label-salmon-north-movie-winter-saddle-miracle
+bip_39_word_dash_11: airport-gauge-main-label-salmon-north-movie-winter-saddle-miracle-winner
+bip_39_word_dash_12: airport-gauge-main-label-salmon-north-movie-winter-saddle-miracle-winner-alone
+bip_39_word_dash_2: airport-gauge
+bip_39_word_dash_3: airport-gauge-main
+bip_39_word_dash_4: airport-gauge-main-label
+bip_39_word_dash_5: airport-gauge-main-label-salmon
+bip_39_word_dash_6: airport-gauge-main-label-salmon-north
+bip_39_word_dash_7: airport-gauge-main-label-salmon-north-movie
+bip_39_word_dash_8: airport-gauge-main-label-salmon-north-movie-winter
+bip_39_word_dash_9: airport-gauge-main-label-salmon-north-movie-winter-saddle
 bip_39_word_new_br_1: airport
 bip_39_word_new_br_10: airport<br>gauge<br>main<br>label<br>salmon<br>north<br>movie<br>winter<br>saddle<br>miracle
 bip_39_word_new_br_11: airport<br>gauge<br>main<br>label<br>salmon<br>north<br>movie<br>winter<br>saddle<br>miracle<br>winner
@@ -193,6 +205,18 @@ bip_39_word_space_6: airport gauge main label salmon north
 bip_39_word_space_7: airport gauge main label salmon north movie
 bip_39_word_space_8: airport gauge main label salmon north movie winter
 bip_39_word_space_9: airport gauge main label salmon north movie winter saddle
+bip_39_word_underscore_1: airport
+bip_39_word_underscore_10: airport_gauge_main_label_salmon_north_movie_winter_saddle_miracle
+bip_39_word_underscore_11: airport_gauge_main_label_salmon_north_movie_winter_saddle_miracle_winner
+bip_39_word_underscore_12: airport_gauge_main_label_salmon_north_movie_winter_saddle_miracle_winner_alone
+bip_39_word_underscore_2: airport_gauge
+bip_39_word_underscore_3: airport_gauge_main
+bip_39_word_underscore_4: airport_gauge_main_label
+bip_39_word_underscore_5: airport_gauge_main_label_salmon
+bip_39_word_underscore_6: airport_gauge_main_label_salmon_north
+bip_39_word_underscore_7: airport_gauge_main_label_salmon_north_movie
+bip_39_word_underscore_8: airport_gauge_main_label_salmon_north_movie_winter
+bip_39_word_underscore_9: airport_gauge_main_label_salmon_north_movie_winter_saddle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

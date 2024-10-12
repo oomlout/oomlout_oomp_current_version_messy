@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | enhance |  
+| bip_39_word_dash_10 | enhance-useless-trend-blast-jealous-social-junior-test-benefit-twist |  
+| bip_39_word_dash_11 | enhance-useless-trend-blast-jealous-social-junior-test-benefit-twist-company |  
+| bip_39_word_dash_12 | enhance-useless-trend-blast-jealous-social-junior-test-benefit-twist-company-absorb |  
+| bip_39_word_dash_2 | enhance-useless |  
+| bip_39_word_dash_3 | enhance-useless-trend |  
+| bip_39_word_dash_4 | enhance-useless-trend-blast |  
+| bip_39_word_dash_5 | enhance-useless-trend-blast-jealous |  
+| bip_39_word_dash_6 | enhance-useless-trend-blast-jealous-social |  
+| bip_39_word_dash_7 | enhance-useless-trend-blast-jealous-social-junior |  
+| bip_39_word_dash_8 | enhance-useless-trend-blast-jealous-social-junior-test |  
+| bip_39_word_dash_9 | enhance-useless-trend-blast-jealous-social-junior-test-benefit |  
 | bip_39_word_new_br_1 | enhance |  
 | bip_39_word_new_br_10 | enhance<br>useless<br>trend<br>blast<br>jealous<br>social<br>junior<br>test<br>benefit<br>twist |  
 | bip_39_word_new_br_11 | enhance<br>useless<br>trend<br>blast<br>jealous<br>social<br>junior<br>test<br>benefit<br>twist<br>company |  
@@ -147,6 +159,18 @@ benefit |
 | bip_39_word_space_7 | enhance useless trend blast jealous social junior |  
 | bip_39_word_space_8 | enhance useless trend blast jealous social junior test |  
 | bip_39_word_space_9 | enhance useless trend blast jealous social junior test benefit |  
+| bip_39_word_underscore_1 | enhance |  
+| bip_39_word_underscore_10 | enhance_useless_trend_blast_jealous_social_junior_test_benefit_twist |  
+| bip_39_word_underscore_11 | enhance_useless_trend_blast_jealous_social_junior_test_benefit_twist_company |  
+| bip_39_word_underscore_12 | enhance_useless_trend_blast_jealous_social_junior_test_benefit_twist_company_absorb |  
+| bip_39_word_underscore_2 | enhance_useless |  
+| bip_39_word_underscore_3 | enhance_useless_trend |  
+| bip_39_word_underscore_4 | enhance_useless_trend_blast |  
+| bip_39_word_underscore_5 | enhance_useless_trend_blast_jealous |  
+| bip_39_word_underscore_6 | enhance_useless_trend_blast_jealous_social |  
+| bip_39_word_underscore_7 | enhance_useless_trend_blast_jealous_social_junior |  
+| bip_39_word_underscore_8 | enhance_useless_trend_blast_jealous_social_junior_test |  
+| bip_39_word_underscore_9 | enhance_useless_trend_blast_jealous_social_junior_test_benefit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

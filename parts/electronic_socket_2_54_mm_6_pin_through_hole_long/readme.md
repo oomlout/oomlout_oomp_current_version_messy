@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wisdom |  
+| bip_39_word_dash_10 | wisdom-leader-clutch-wedding-power-spare-artist-tone-tragic-road |  
+| bip_39_word_dash_11 | wisdom-leader-clutch-wedding-power-spare-artist-tone-tragic-road-once |  
+| bip_39_word_dash_12 | wisdom-leader-clutch-wedding-power-spare-artist-tone-tragic-road-once-any |  
+| bip_39_word_dash_2 | wisdom-leader |  
+| bip_39_word_dash_3 | wisdom-leader-clutch |  
+| bip_39_word_dash_4 | wisdom-leader-clutch-wedding |  
+| bip_39_word_dash_5 | wisdom-leader-clutch-wedding-power |  
+| bip_39_word_dash_6 | wisdom-leader-clutch-wedding-power-spare |  
+| bip_39_word_dash_7 | wisdom-leader-clutch-wedding-power-spare-artist |  
+| bip_39_word_dash_8 | wisdom-leader-clutch-wedding-power-spare-artist-tone |  
+| bip_39_word_dash_9 | wisdom-leader-clutch-wedding-power-spare-artist-tone-tragic |  
 | bip_39_word_new_br_1 | wisdom |  
 | bip_39_word_new_br_10 | wisdom<br>leader<br>clutch<br>wedding<br>power<br>spare<br>artist<br>tone<br>tragic<br>road |  
 | bip_39_word_new_br_11 | wisdom<br>leader<br>clutch<br>wedding<br>power<br>spare<br>artist<br>tone<br>tragic<br>road<br>once |  
@@ -147,6 +159,18 @@ tragic |
 | bip_39_word_space_7 | wisdom leader clutch wedding power spare artist |  
 | bip_39_word_space_8 | wisdom leader clutch wedding power spare artist tone |  
 | bip_39_word_space_9 | wisdom leader clutch wedding power spare artist tone tragic |  
+| bip_39_word_underscore_1 | wisdom |  
+| bip_39_word_underscore_10 | wisdom_leader_clutch_wedding_power_spare_artist_tone_tragic_road |  
+| bip_39_word_underscore_11 | wisdom_leader_clutch_wedding_power_spare_artist_tone_tragic_road_once |  
+| bip_39_word_underscore_12 | wisdom_leader_clutch_wedding_power_spare_artist_tone_tragic_road_once_any |  
+| bip_39_word_underscore_2 | wisdom_leader |  
+| bip_39_word_underscore_3 | wisdom_leader_clutch |  
+| bip_39_word_underscore_4 | wisdom_leader_clutch_wedding |  
+| bip_39_word_underscore_5 | wisdom_leader_clutch_wedding_power |  
+| bip_39_word_underscore_6 | wisdom_leader_clutch_wedding_power_spare |  
+| bip_39_word_underscore_7 | wisdom_leader_clutch_wedding_power_spare_artist |  
+| bip_39_word_underscore_8 | wisdom_leader_clutch_wedding_power_spare_artist_tone |  
+| bip_39_word_underscore_9 | wisdom_leader_clutch_wedding_power_spare_artist_tone_tragic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

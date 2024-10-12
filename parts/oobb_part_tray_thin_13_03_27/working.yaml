@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grape
+bip_39_word_dash_10: grape-into-salute-antique-asthma-enlist-join-flight-mutual-tissue
+bip_39_word_dash_11: grape-into-salute-antique-asthma-enlist-join-flight-mutual-tissue-spend
+bip_39_word_dash_12: grape-into-salute-antique-asthma-enlist-join-flight-mutual-tissue-spend-ahead
+bip_39_word_dash_2: grape-into
+bip_39_word_dash_3: grape-into-salute
+bip_39_word_dash_4: grape-into-salute-antique
+bip_39_word_dash_5: grape-into-salute-antique-asthma
+bip_39_word_dash_6: grape-into-salute-antique-asthma-enlist
+bip_39_word_dash_7: grape-into-salute-antique-asthma-enlist-join
+bip_39_word_dash_8: grape-into-salute-antique-asthma-enlist-join-flight
+bip_39_word_dash_9: grape-into-salute-antique-asthma-enlist-join-flight-mutual
 bip_39_word_new_br_1: grape
 bip_39_word_new_br_10: grape<br>into<br>salute<br>antique<br>asthma<br>enlist<br>join<br>flight<br>mutual<br>tissue
 bip_39_word_new_br_11: grape<br>into<br>salute<br>antique<br>asthma<br>enlist<br>join<br>flight<br>mutual<br>tissue<br>spend
@@ -193,6 +205,18 @@ bip_39_word_space_6: grape into salute antique asthma enlist
 bip_39_word_space_7: grape into salute antique asthma enlist join
 bip_39_word_space_8: grape into salute antique asthma enlist join flight
 bip_39_word_space_9: grape into salute antique asthma enlist join flight mutual
+bip_39_word_underscore_1: grape
+bip_39_word_underscore_10: grape_into_salute_antique_asthma_enlist_join_flight_mutual_tissue
+bip_39_word_underscore_11: grape_into_salute_antique_asthma_enlist_join_flight_mutual_tissue_spend
+bip_39_word_underscore_12: grape_into_salute_antique_asthma_enlist_join_flight_mutual_tissue_spend_ahead
+bip_39_word_underscore_2: grape_into
+bip_39_word_underscore_3: grape_into_salute
+bip_39_word_underscore_4: grape_into_salute_antique
+bip_39_word_underscore_5: grape_into_salute_antique_asthma
+bip_39_word_underscore_6: grape_into_salute_antique_asthma_enlist
+bip_39_word_underscore_7: grape_into_salute_antique_asthma_enlist_join
+bip_39_word_underscore_8: grape_into_salute_antique_asthma_enlist_join_flight
+bip_39_word_underscore_9: grape_into_salute_antique_asthma_enlist_join_flight_mutual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

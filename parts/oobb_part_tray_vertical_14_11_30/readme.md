@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | else |  
+| bip_39_word_dash_10 | else-mosquito-only-glory-index-bread-shallow-rent-rough-valid |  
+| bip_39_word_dash_11 | else-mosquito-only-glory-index-bread-shallow-rent-rough-valid-melt |  
+| bip_39_word_dash_12 | else-mosquito-only-glory-index-bread-shallow-rent-rough-valid-melt-ask |  
+| bip_39_word_dash_2 | else-mosquito |  
+| bip_39_word_dash_3 | else-mosquito-only |  
+| bip_39_word_dash_4 | else-mosquito-only-glory |  
+| bip_39_word_dash_5 | else-mosquito-only-glory-index |  
+| bip_39_word_dash_6 | else-mosquito-only-glory-index-bread |  
+| bip_39_word_dash_7 | else-mosquito-only-glory-index-bread-shallow |  
+| bip_39_word_dash_8 | else-mosquito-only-glory-index-bread-shallow-rent |  
+| bip_39_word_dash_9 | else-mosquito-only-glory-index-bread-shallow-rent-rough |  
 | bip_39_word_new_br_1 | else |  
 | bip_39_word_new_br_10 | else<br>mosquito<br>only<br>glory<br>index<br>bread<br>shallow<br>rent<br>rough<br>valid |  
 | bip_39_word_new_br_11 | else<br>mosquito<br>only<br>glory<br>index<br>bread<br>shallow<br>rent<br>rough<br>valid<br>melt |  
@@ -147,6 +159,18 @@ rough |
 | bip_39_word_space_7 | else mosquito only glory index bread shallow |  
 | bip_39_word_space_8 | else mosquito only glory index bread shallow rent |  
 | bip_39_word_space_9 | else mosquito only glory index bread shallow rent rough |  
+| bip_39_word_underscore_1 | else |  
+| bip_39_word_underscore_10 | else_mosquito_only_glory_index_bread_shallow_rent_rough_valid |  
+| bip_39_word_underscore_11 | else_mosquito_only_glory_index_bread_shallow_rent_rough_valid_melt |  
+| bip_39_word_underscore_12 | else_mosquito_only_glory_index_bread_shallow_rent_rough_valid_melt_ask |  
+| bip_39_word_underscore_2 | else_mosquito |  
+| bip_39_word_underscore_3 | else_mosquito_only |  
+| bip_39_word_underscore_4 | else_mosquito_only_glory |  
+| bip_39_word_underscore_5 | else_mosquito_only_glory_index |  
+| bip_39_word_underscore_6 | else_mosquito_only_glory_index_bread |  
+| bip_39_word_underscore_7 | else_mosquito_only_glory_index_bread_shallow |  
+| bip_39_word_underscore_8 | else_mosquito_only_glory_index_bread_shallow_rent |  
+| bip_39_word_underscore_9 | else_mosquito_only_glory_index_bread_shallow_rent_rough |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

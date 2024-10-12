@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | work |  
+| bip_39_word_dash_10 | work-across-practice-often-tip-critic-diary-vanish-exotic-lecture |  
+| bip_39_word_dash_11 | work-across-practice-often-tip-critic-diary-vanish-exotic-lecture-height |  
+| bip_39_word_dash_12 | work-across-practice-often-tip-critic-diary-vanish-exotic-lecture-height-afraid |  
+| bip_39_word_dash_2 | work-across |  
+| bip_39_word_dash_3 | work-across-practice |  
+| bip_39_word_dash_4 | work-across-practice-often |  
+| bip_39_word_dash_5 | work-across-practice-often-tip |  
+| bip_39_word_dash_6 | work-across-practice-often-tip-critic |  
+| bip_39_word_dash_7 | work-across-practice-often-tip-critic-diary |  
+| bip_39_word_dash_8 | work-across-practice-often-tip-critic-diary-vanish |  
+| bip_39_word_dash_9 | work-across-practice-often-tip-critic-diary-vanish-exotic |  
 | bip_39_word_new_br_1 | work |  
 | bip_39_word_new_br_10 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish<br>exotic<br>lecture |  
 | bip_39_word_new_br_11 | work<br>across<br>practice<br>often<br>tip<br>critic<br>diary<br>vanish<br>exotic<br>lecture<br>height |  
@@ -147,6 +159,18 @@ exotic |
 | bip_39_word_space_7 | work across practice often tip critic diary |  
 | bip_39_word_space_8 | work across practice often tip critic diary vanish |  
 | bip_39_word_space_9 | work across practice often tip critic diary vanish exotic |  
+| bip_39_word_underscore_1 | work |  
+| bip_39_word_underscore_10 | work_across_practice_often_tip_critic_diary_vanish_exotic_lecture |  
+| bip_39_word_underscore_11 | work_across_practice_often_tip_critic_diary_vanish_exotic_lecture_height |  
+| bip_39_word_underscore_12 | work_across_practice_often_tip_critic_diary_vanish_exotic_lecture_height_afraid |  
+| bip_39_word_underscore_2 | work_across |  
+| bip_39_word_underscore_3 | work_across_practice |  
+| bip_39_word_underscore_4 | work_across_practice_often |  
+| bip_39_word_underscore_5 | work_across_practice_often_tip |  
+| bip_39_word_underscore_6 | work_across_practice_often_tip_critic |  
+| bip_39_word_underscore_7 | work_across_practice_often_tip_critic_diary |  
+| bip_39_word_underscore_8 | work_across_practice_often_tip_critic_diary_vanish |  
+| bip_39_word_underscore_9 | work_across_practice_often_tip_critic_diary_vanish_exotic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

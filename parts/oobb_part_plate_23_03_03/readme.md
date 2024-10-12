@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | script |  
+| bip_39_word_dash_10 | script-kangaroo-major-any-harbor-year-goose-rebuild-fatigue-witness |  
+| bip_39_word_dash_11 | script-kangaroo-major-any-harbor-year-goose-rebuild-fatigue-witness-neck |  
+| bip_39_word_dash_12 | script-kangaroo-major-any-harbor-year-goose-rebuild-fatigue-witness-neck-asset |  
+| bip_39_word_dash_2 | script-kangaroo |  
+| bip_39_word_dash_3 | script-kangaroo-major |  
+| bip_39_word_dash_4 | script-kangaroo-major-any |  
+| bip_39_word_dash_5 | script-kangaroo-major-any-harbor |  
+| bip_39_word_dash_6 | script-kangaroo-major-any-harbor-year |  
+| bip_39_word_dash_7 | script-kangaroo-major-any-harbor-year-goose |  
+| bip_39_word_dash_8 | script-kangaroo-major-any-harbor-year-goose-rebuild |  
+| bip_39_word_dash_9 | script-kangaroo-major-any-harbor-year-goose-rebuild-fatigue |  
 | bip_39_word_new_br_1 | script |  
 | bip_39_word_new_br_10 | script<br>kangaroo<br>major<br>any<br>harbor<br>year<br>goose<br>rebuild<br>fatigue<br>witness |  
 | bip_39_word_new_br_11 | script<br>kangaroo<br>major<br>any<br>harbor<br>year<br>goose<br>rebuild<br>fatigue<br>witness<br>neck |  
@@ -147,6 +159,18 @@ fatigue |
 | bip_39_word_space_7 | script kangaroo major any harbor year goose |  
 | bip_39_word_space_8 | script kangaroo major any harbor year goose rebuild |  
 | bip_39_word_space_9 | script kangaroo major any harbor year goose rebuild fatigue |  
+| bip_39_word_underscore_1 | script |  
+| bip_39_word_underscore_10 | script_kangaroo_major_any_harbor_year_goose_rebuild_fatigue_witness |  
+| bip_39_word_underscore_11 | script_kangaroo_major_any_harbor_year_goose_rebuild_fatigue_witness_neck |  
+| bip_39_word_underscore_12 | script_kangaroo_major_any_harbor_year_goose_rebuild_fatigue_witness_neck_asset |  
+| bip_39_word_underscore_2 | script_kangaroo |  
+| bip_39_word_underscore_3 | script_kangaroo_major |  
+| bip_39_word_underscore_4 | script_kangaroo_major_any |  
+| bip_39_word_underscore_5 | script_kangaroo_major_any_harbor |  
+| bip_39_word_underscore_6 | script_kangaroo_major_any_harbor_year |  
+| bip_39_word_underscore_7 | script_kangaroo_major_any_harbor_year_goose |  
+| bip_39_word_underscore_8 | script_kangaroo_major_any_harbor_year_goose_rebuild |  
+| bip_39_word_underscore_9 | script_kangaroo_major_any_harbor_year_goose_rebuild_fatigue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

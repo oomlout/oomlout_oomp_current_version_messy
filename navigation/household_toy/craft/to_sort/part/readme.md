@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | focus |  
+| bip_39_word_dash_10 | focus-reveal-combine-cruel-apple-announce-uncle-clarify-accident-ripple |  
+| bip_39_word_dash_11 | focus-reveal-combine-cruel-apple-announce-uncle-clarify-accident-ripple-old |  
+| bip_39_word_dash_12 | focus-reveal-combine-cruel-apple-announce-uncle-clarify-accident-ripple-old-adjust |  
+| bip_39_word_dash_2 | focus-reveal |  
+| bip_39_word_dash_3 | focus-reveal-combine |  
+| bip_39_word_dash_4 | focus-reveal-combine-cruel |  
+| bip_39_word_dash_5 | focus-reveal-combine-cruel-apple |  
+| bip_39_word_dash_6 | focus-reveal-combine-cruel-apple-announce |  
+| bip_39_word_dash_7 | focus-reveal-combine-cruel-apple-announce-uncle |  
+| bip_39_word_dash_8 | focus-reveal-combine-cruel-apple-announce-uncle-clarify |  
+| bip_39_word_dash_9 | focus-reveal-combine-cruel-apple-announce-uncle-clarify-accident |  
 | bip_39_word_new_br_1 | focus |  
 | bip_39_word_new_br_10 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple |  
 | bip_39_word_new_br_11 | focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple<br>old |  
@@ -147,6 +159,18 @@ accident |
 | bip_39_word_space_7 | focus reveal combine cruel apple announce uncle |  
 | bip_39_word_space_8 | focus reveal combine cruel apple announce uncle clarify |  
 | bip_39_word_space_9 | focus reveal combine cruel apple announce uncle clarify accident |  
+| bip_39_word_underscore_1 | focus |  
+| bip_39_word_underscore_10 | focus_reveal_combine_cruel_apple_announce_uncle_clarify_accident_ripple |  
+| bip_39_word_underscore_11 | focus_reveal_combine_cruel_apple_announce_uncle_clarify_accident_ripple_old |  
+| bip_39_word_underscore_12 | focus_reveal_combine_cruel_apple_announce_uncle_clarify_accident_ripple_old_adjust |  
+| bip_39_word_underscore_2 | focus_reveal |  
+| bip_39_word_underscore_3 | focus_reveal_combine |  
+| bip_39_word_underscore_4 | focus_reveal_combine_cruel |  
+| bip_39_word_underscore_5 | focus_reveal_combine_cruel_apple |  
+| bip_39_word_underscore_6 | focus_reveal_combine_cruel_apple_announce |  
+| bip_39_word_underscore_7 | focus_reveal_combine_cruel_apple_announce_uncle |  
+| bip_39_word_underscore_8 | focus_reveal_combine_cruel_apple_announce_uncle_clarify |  
+| bip_39_word_underscore_9 | focus_reveal_combine_cruel_apple_announce_uncle_clarify_accident |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

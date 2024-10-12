@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | phrase |  
+| bip_39_word_dash_10 | phrase-olympic-traffic-afraid-retreat-dose-destroy-trash-stove-amazing |  
+| bip_39_word_dash_11 | phrase-olympic-traffic-afraid-retreat-dose-destroy-trash-stove-amazing-leopard |  
+| bip_39_word_dash_12 | phrase-olympic-traffic-afraid-retreat-dose-destroy-trash-stove-amazing-leopard-audit |  
+| bip_39_word_dash_2 | phrase-olympic |  
+| bip_39_word_dash_3 | phrase-olympic-traffic |  
+| bip_39_word_dash_4 | phrase-olympic-traffic-afraid |  
+| bip_39_word_dash_5 | phrase-olympic-traffic-afraid-retreat |  
+| bip_39_word_dash_6 | phrase-olympic-traffic-afraid-retreat-dose |  
+| bip_39_word_dash_7 | phrase-olympic-traffic-afraid-retreat-dose-destroy |  
+| bip_39_word_dash_8 | phrase-olympic-traffic-afraid-retreat-dose-destroy-trash |  
+| bip_39_word_dash_9 | phrase-olympic-traffic-afraid-retreat-dose-destroy-trash-stove |  
 | bip_39_word_new_br_1 | phrase |  
 | bip_39_word_new_br_10 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing |  
 | bip_39_word_new_br_11 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing<br>leopard |  
@@ -147,6 +159,18 @@ stove |
 | bip_39_word_space_7 | phrase olympic traffic afraid retreat dose destroy |  
 | bip_39_word_space_8 | phrase olympic traffic afraid retreat dose destroy trash |  
 | bip_39_word_space_9 | phrase olympic traffic afraid retreat dose destroy trash stove |  
+| bip_39_word_underscore_1 | phrase |  
+| bip_39_word_underscore_10 | phrase_olympic_traffic_afraid_retreat_dose_destroy_trash_stove_amazing |  
+| bip_39_word_underscore_11 | phrase_olympic_traffic_afraid_retreat_dose_destroy_trash_stove_amazing_leopard |  
+| bip_39_word_underscore_12 | phrase_olympic_traffic_afraid_retreat_dose_destroy_trash_stove_amazing_leopard_audit |  
+| bip_39_word_underscore_2 | phrase_olympic |  
+| bip_39_word_underscore_3 | phrase_olympic_traffic |  
+| bip_39_word_underscore_4 | phrase_olympic_traffic_afraid |  
+| bip_39_word_underscore_5 | phrase_olympic_traffic_afraid_retreat |  
+| bip_39_word_underscore_6 | phrase_olympic_traffic_afraid_retreat_dose |  
+| bip_39_word_underscore_7 | phrase_olympic_traffic_afraid_retreat_dose_destroy |  
+| bip_39_word_underscore_8 | phrase_olympic_traffic_afraid_retreat_dose_destroy_trash |  
+| bip_39_word_underscore_9 | phrase_olympic_traffic_afraid_retreat_dose_destroy_trash_stove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

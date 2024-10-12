@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nephew |  
+| bip_39_word_dash_10 | nephew-helmet-tape-pave-program-scatter-enforce-lens-enroll-horn |  
+| bip_39_word_dash_11 | nephew-helmet-tape-pave-program-scatter-enforce-lens-enroll-horn-artist |  
+| bip_39_word_dash_12 | nephew-helmet-tape-pave-program-scatter-enforce-lens-enroll-horn-artist-already |  
+| bip_39_word_dash_2 | nephew-helmet |  
+| bip_39_word_dash_3 | nephew-helmet-tape |  
+| bip_39_word_dash_4 | nephew-helmet-tape-pave |  
+| bip_39_word_dash_5 | nephew-helmet-tape-pave-program |  
+| bip_39_word_dash_6 | nephew-helmet-tape-pave-program-scatter |  
+| bip_39_word_dash_7 | nephew-helmet-tape-pave-program-scatter-enforce |  
+| bip_39_word_dash_8 | nephew-helmet-tape-pave-program-scatter-enforce-lens |  
+| bip_39_word_dash_9 | nephew-helmet-tape-pave-program-scatter-enforce-lens-enroll |  
 | bip_39_word_new_br_1 | nephew |  
 | bip_39_word_new_br_10 | nephew<br>helmet<br>tape<br>pave<br>program<br>scatter<br>enforce<br>lens<br>enroll<br>horn |  
 | bip_39_word_new_br_11 | nephew<br>helmet<br>tape<br>pave<br>program<br>scatter<br>enforce<br>lens<br>enroll<br>horn<br>artist |  
@@ -147,6 +159,18 @@ enroll |
 | bip_39_word_space_7 | nephew helmet tape pave program scatter enforce |  
 | bip_39_word_space_8 | nephew helmet tape pave program scatter enforce lens |  
 | bip_39_word_space_9 | nephew helmet tape pave program scatter enforce lens enroll |  
+| bip_39_word_underscore_1 | nephew |  
+| bip_39_word_underscore_10 | nephew_helmet_tape_pave_program_scatter_enforce_lens_enroll_horn |  
+| bip_39_word_underscore_11 | nephew_helmet_tape_pave_program_scatter_enforce_lens_enroll_horn_artist |  
+| bip_39_word_underscore_12 | nephew_helmet_tape_pave_program_scatter_enforce_lens_enroll_horn_artist_already |  
+| bip_39_word_underscore_2 | nephew_helmet |  
+| bip_39_word_underscore_3 | nephew_helmet_tape |  
+| bip_39_word_underscore_4 | nephew_helmet_tape_pave |  
+| bip_39_word_underscore_5 | nephew_helmet_tape_pave_program |  
+| bip_39_word_underscore_6 | nephew_helmet_tape_pave_program_scatter |  
+| bip_39_word_underscore_7 | nephew_helmet_tape_pave_program_scatter_enforce |  
+| bip_39_word_underscore_8 | nephew_helmet_tape_pave_program_scatter_enforce_lens |  
+| bip_39_word_underscore_9 | nephew_helmet_tape_pave_program_scatter_enforce_lens_enroll |  
 | classification | dish |  
 | classification_capital | Dish |  
 | classification_first_letter | d |  

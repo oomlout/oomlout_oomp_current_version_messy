@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oppose |  
+| bip_39_word_dash_10 | oppose-atom-notice-museum-sick-bar-chef-toilet-hamster-divorce |  
+| bip_39_word_dash_11 | oppose-atom-notice-museum-sick-bar-chef-toilet-hamster-divorce-joke |  
+| bip_39_word_dash_12 | oppose-atom-notice-museum-sick-bar-chef-toilet-hamster-divorce-joke-art |  
+| bip_39_word_dash_2 | oppose-atom |  
+| bip_39_word_dash_3 | oppose-atom-notice |  
+| bip_39_word_dash_4 | oppose-atom-notice-museum |  
+| bip_39_word_dash_5 | oppose-atom-notice-museum-sick |  
+| bip_39_word_dash_6 | oppose-atom-notice-museum-sick-bar |  
+| bip_39_word_dash_7 | oppose-atom-notice-museum-sick-bar-chef |  
+| bip_39_word_dash_8 | oppose-atom-notice-museum-sick-bar-chef-toilet |  
+| bip_39_word_dash_9 | oppose-atom-notice-museum-sick-bar-chef-toilet-hamster |  
 | bip_39_word_new_br_1 | oppose |  
 | bip_39_word_new_br_10 | oppose<br>atom<br>notice<br>museum<br>sick<br>bar<br>chef<br>toilet<br>hamster<br>divorce |  
 | bip_39_word_new_br_11 | oppose<br>atom<br>notice<br>museum<br>sick<br>bar<br>chef<br>toilet<br>hamster<br>divorce<br>joke |  
@@ -147,6 +159,18 @@ hamster |
 | bip_39_word_space_7 | oppose atom notice museum sick bar chef |  
 | bip_39_word_space_8 | oppose atom notice museum sick bar chef toilet |  
 | bip_39_word_space_9 | oppose atom notice museum sick bar chef toilet hamster |  
+| bip_39_word_underscore_1 | oppose |  
+| bip_39_word_underscore_10 | oppose_atom_notice_museum_sick_bar_chef_toilet_hamster_divorce |  
+| bip_39_word_underscore_11 | oppose_atom_notice_museum_sick_bar_chef_toilet_hamster_divorce_joke |  
+| bip_39_word_underscore_12 | oppose_atom_notice_museum_sick_bar_chef_toilet_hamster_divorce_joke_art |  
+| bip_39_word_underscore_2 | oppose_atom |  
+| bip_39_word_underscore_3 | oppose_atom_notice |  
+| bip_39_word_underscore_4 | oppose_atom_notice_museum |  
+| bip_39_word_underscore_5 | oppose_atom_notice_museum_sick |  
+| bip_39_word_underscore_6 | oppose_atom_notice_museum_sick_bar |  
+| bip_39_word_underscore_7 | oppose_atom_notice_museum_sick_bar_chef |  
+| bip_39_word_underscore_8 | oppose_atom_notice_museum_sick_bar_chef_toilet |  
+| bip_39_word_underscore_9 | oppose_atom_notice_museum_sick_bar_chef_toilet_hamster |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

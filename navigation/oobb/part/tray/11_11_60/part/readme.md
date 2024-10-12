@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rally |  
+| bip_39_word_dash_10 | rally-pupil-hire-dwarf-pioneer-almost-economy-cycle-style-cloth |  
+| bip_39_word_dash_11 | rally-pupil-hire-dwarf-pioneer-almost-economy-cycle-style-cloth-basket |  
+| bip_39_word_dash_12 | rally-pupil-hire-dwarf-pioneer-almost-economy-cycle-style-cloth-basket-accident |  
+| bip_39_word_dash_2 | rally-pupil |  
+| bip_39_word_dash_3 | rally-pupil-hire |  
+| bip_39_word_dash_4 | rally-pupil-hire-dwarf |  
+| bip_39_word_dash_5 | rally-pupil-hire-dwarf-pioneer |  
+| bip_39_word_dash_6 | rally-pupil-hire-dwarf-pioneer-almost |  
+| bip_39_word_dash_7 | rally-pupil-hire-dwarf-pioneer-almost-economy |  
+| bip_39_word_dash_8 | rally-pupil-hire-dwarf-pioneer-almost-economy-cycle |  
+| bip_39_word_dash_9 | rally-pupil-hire-dwarf-pioneer-almost-economy-cycle-style |  
 | bip_39_word_new_br_1 | rally |  
 | bip_39_word_new_br_10 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle<br>style<br>cloth |  
 | bip_39_word_new_br_11 | rally<br>pupil<br>hire<br>dwarf<br>pioneer<br>almost<br>economy<br>cycle<br>style<br>cloth<br>basket |  
@@ -147,6 +159,18 @@ style |
 | bip_39_word_space_7 | rally pupil hire dwarf pioneer almost economy |  
 | bip_39_word_space_8 | rally pupil hire dwarf pioneer almost economy cycle |  
 | bip_39_word_space_9 | rally pupil hire dwarf pioneer almost economy cycle style |  
+| bip_39_word_underscore_1 | rally |  
+| bip_39_word_underscore_10 | rally_pupil_hire_dwarf_pioneer_almost_economy_cycle_style_cloth |  
+| bip_39_word_underscore_11 | rally_pupil_hire_dwarf_pioneer_almost_economy_cycle_style_cloth_basket |  
+| bip_39_word_underscore_12 | rally_pupil_hire_dwarf_pioneer_almost_economy_cycle_style_cloth_basket_accident |  
+| bip_39_word_underscore_2 | rally_pupil |  
+| bip_39_word_underscore_3 | rally_pupil_hire |  
+| bip_39_word_underscore_4 | rally_pupil_hire_dwarf |  
+| bip_39_word_underscore_5 | rally_pupil_hire_dwarf_pioneer |  
+| bip_39_word_underscore_6 | rally_pupil_hire_dwarf_pioneer_almost |  
+| bip_39_word_underscore_7 | rally_pupil_hire_dwarf_pioneer_almost_economy |  
+| bip_39_word_underscore_8 | rally_pupil_hire_dwarf_pioneer_almost_economy_cycle |  
+| bip_39_word_underscore_9 | rally_pupil_hire_dwarf_pioneer_almost_economy_cycle_style |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

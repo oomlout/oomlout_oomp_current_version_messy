@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | advice |  
+| bip_39_word_dash_10 | advice-range-conduct-fun-panel-label-pony-novel-artist-trust |  
+| bip_39_word_dash_11 | advice-range-conduct-fun-panel-label-pony-novel-artist-trust-border |  
+| bip_39_word_dash_12 | advice-range-conduct-fun-panel-label-pony-novel-artist-trust-border-abuse |  
+| bip_39_word_dash_2 | advice-range |  
+| bip_39_word_dash_3 | advice-range-conduct |  
+| bip_39_word_dash_4 | advice-range-conduct-fun |  
+| bip_39_word_dash_5 | advice-range-conduct-fun-panel |  
+| bip_39_word_dash_6 | advice-range-conduct-fun-panel-label |  
+| bip_39_word_dash_7 | advice-range-conduct-fun-panel-label-pony |  
+| bip_39_word_dash_8 | advice-range-conduct-fun-panel-label-pony-novel |  
+| bip_39_word_dash_9 | advice-range-conduct-fun-panel-label-pony-novel-artist |  
 | bip_39_word_new_br_1 | advice |  
 | bip_39_word_new_br_10 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust |  
 | bip_39_word_new_br_11 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust<br>border |  
@@ -147,6 +159,18 @@ artist |
 | bip_39_word_space_7 | advice range conduct fun panel label pony |  
 | bip_39_word_space_8 | advice range conduct fun panel label pony novel |  
 | bip_39_word_space_9 | advice range conduct fun panel label pony novel artist |  
+| bip_39_word_underscore_1 | advice |  
+| bip_39_word_underscore_10 | advice_range_conduct_fun_panel_label_pony_novel_artist_trust |  
+| bip_39_word_underscore_11 | advice_range_conduct_fun_panel_label_pony_novel_artist_trust_border |  
+| bip_39_word_underscore_12 | advice_range_conduct_fun_panel_label_pony_novel_artist_trust_border_abuse |  
+| bip_39_word_underscore_2 | advice_range |  
+| bip_39_word_underscore_3 | advice_range_conduct |  
+| bip_39_word_underscore_4 | advice_range_conduct_fun |  
+| bip_39_word_underscore_5 | advice_range_conduct_fun_panel |  
+| bip_39_word_underscore_6 | advice_range_conduct_fun_panel_label |  
+| bip_39_word_underscore_7 | advice_range_conduct_fun_panel_label_pony |  
+| bip_39_word_underscore_8 | advice_range_conduct_fun_panel_label_pony_novel |  
+| bip_39_word_underscore_9 | advice_range_conduct_fun_panel_label_pony_novel_artist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

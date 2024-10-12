@@ -1,3 +1,15 @@
+bip_39_word_dash_1: finger
+bip_39_word_dash_10: finger-spoon-blood-talent-scout-salon-arrive-require-apart-napkin
+bip_39_word_dash_11: finger-spoon-blood-talent-scout-salon-arrive-require-apart-napkin-earth
+bip_39_word_dash_12: finger-spoon-blood-talent-scout-salon-arrive-require-apart-napkin-earth-ahead
+bip_39_word_dash_2: finger-spoon
+bip_39_word_dash_3: finger-spoon-blood
+bip_39_word_dash_4: finger-spoon-blood-talent
+bip_39_word_dash_5: finger-spoon-blood-talent-scout
+bip_39_word_dash_6: finger-spoon-blood-talent-scout-salon
+bip_39_word_dash_7: finger-spoon-blood-talent-scout-salon-arrive
+bip_39_word_dash_8: finger-spoon-blood-talent-scout-salon-arrive-require
+bip_39_word_dash_9: finger-spoon-blood-talent-scout-salon-arrive-require-apart
 bip_39_word_new_br_1: finger
 bip_39_word_new_br_10: finger<br>spoon<br>blood<br>talent<br>scout<br>salon<br>arrive<br>require<br>apart<br>napkin
 bip_39_word_new_br_11: finger<br>spoon<br>blood<br>talent<br>scout<br>salon<br>arrive<br>require<br>apart<br>napkin<br>earth
@@ -193,6 +205,18 @@ bip_39_word_space_6: finger spoon blood talent scout salon
 bip_39_word_space_7: finger spoon blood talent scout salon arrive
 bip_39_word_space_8: finger spoon blood talent scout salon arrive require
 bip_39_word_space_9: finger spoon blood talent scout salon arrive require apart
+bip_39_word_underscore_1: finger
+bip_39_word_underscore_10: finger_spoon_blood_talent_scout_salon_arrive_require_apart_napkin
+bip_39_word_underscore_11: finger_spoon_blood_talent_scout_salon_arrive_require_apart_napkin_earth
+bip_39_word_underscore_12: finger_spoon_blood_talent_scout_salon_arrive_require_apart_napkin_earth_ahead
+bip_39_word_underscore_2: finger_spoon
+bip_39_word_underscore_3: finger_spoon_blood
+bip_39_word_underscore_4: finger_spoon_blood_talent
+bip_39_word_underscore_5: finger_spoon_blood_talent_scout
+bip_39_word_underscore_6: finger_spoon_blood_talent_scout_salon
+bip_39_word_underscore_7: finger_spoon_blood_talent_scout_salon_arrive
+bip_39_word_underscore_8: finger_spoon_blood_talent_scout_salon_arrive_require
+bip_39_word_underscore_9: finger_spoon_blood_talent_scout_salon_arrive_require_apart
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

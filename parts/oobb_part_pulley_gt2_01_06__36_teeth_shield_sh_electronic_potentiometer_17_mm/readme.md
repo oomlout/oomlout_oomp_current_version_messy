@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fiber |  
+| bip_39_word_dash_10 | fiber-tell-judge-color-business-meadow-narrow-vague-army-hockey |  
+| bip_39_word_dash_11 | fiber-tell-judge-color-business-meadow-narrow-vague-army-hockey-day |  
+| bip_39_word_dash_12 | fiber-tell-judge-color-business-meadow-narrow-vague-army-hockey-day-accident |  
+| bip_39_word_dash_2 | fiber-tell |  
+| bip_39_word_dash_3 | fiber-tell-judge |  
+| bip_39_word_dash_4 | fiber-tell-judge-color |  
+| bip_39_word_dash_5 | fiber-tell-judge-color-business |  
+| bip_39_word_dash_6 | fiber-tell-judge-color-business-meadow |  
+| bip_39_word_dash_7 | fiber-tell-judge-color-business-meadow-narrow |  
+| bip_39_word_dash_8 | fiber-tell-judge-color-business-meadow-narrow-vague |  
+| bip_39_word_dash_9 | fiber-tell-judge-color-business-meadow-narrow-vague-army |  
 | bip_39_word_new_br_1 | fiber |  
 | bip_39_word_new_br_10 | fiber<br>tell<br>judge<br>color<br>business<br>meadow<br>narrow<br>vague<br>army<br>hockey |  
 | bip_39_word_new_br_11 | fiber<br>tell<br>judge<br>color<br>business<br>meadow<br>narrow<br>vague<br>army<br>hockey<br>day |  
@@ -147,6 +159,18 @@ army |
 | bip_39_word_space_7 | fiber tell judge color business meadow narrow |  
 | bip_39_word_space_8 | fiber tell judge color business meadow narrow vague |  
 | bip_39_word_space_9 | fiber tell judge color business meadow narrow vague army |  
+| bip_39_word_underscore_1 | fiber |  
+| bip_39_word_underscore_10 | fiber_tell_judge_color_business_meadow_narrow_vague_army_hockey |  
+| bip_39_word_underscore_11 | fiber_tell_judge_color_business_meadow_narrow_vague_army_hockey_day |  
+| bip_39_word_underscore_12 | fiber_tell_judge_color_business_meadow_narrow_vague_army_hockey_day_accident |  
+| bip_39_word_underscore_2 | fiber_tell |  
+| bip_39_word_underscore_3 | fiber_tell_judge |  
+| bip_39_word_underscore_4 | fiber_tell_judge_color |  
+| bip_39_word_underscore_5 | fiber_tell_judge_color_business |  
+| bip_39_word_underscore_6 | fiber_tell_judge_color_business_meadow |  
+| bip_39_word_underscore_7 | fiber_tell_judge_color_business_meadow_narrow |  
+| bip_39_word_underscore_8 | fiber_tell_judge_color_business_meadow_narrow_vague |  
+| bip_39_word_underscore_9 | fiber_tell_judge_color_business_meadow_narrow_vague_army |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rich |  
+| bip_39_word_dash_10 | rich-police-feed-strategy-frequent-draft-acoustic-edit-ignore-fork |  
+| bip_39_word_dash_11 | rich-police-feed-strategy-frequent-draft-acoustic-edit-ignore-fork-spawn |  
+| bip_39_word_dash_12 | rich-police-feed-strategy-frequent-draft-acoustic-edit-ignore-fork-spawn-artwork |  
+| bip_39_word_dash_2 | rich-police |  
+| bip_39_word_dash_3 | rich-police-feed |  
+| bip_39_word_dash_4 | rich-police-feed-strategy |  
+| bip_39_word_dash_5 | rich-police-feed-strategy-frequent |  
+| bip_39_word_dash_6 | rich-police-feed-strategy-frequent-draft |  
+| bip_39_word_dash_7 | rich-police-feed-strategy-frequent-draft-acoustic |  
+| bip_39_word_dash_8 | rich-police-feed-strategy-frequent-draft-acoustic-edit |  
+| bip_39_word_dash_9 | rich-police-feed-strategy-frequent-draft-acoustic-edit-ignore |  
 | bip_39_word_new_br_1 | rich |  
 | bip_39_word_new_br_10 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit<br>ignore<br>fork |  
 | bip_39_word_new_br_11 | rich<br>police<br>feed<br>strategy<br>frequent<br>draft<br>acoustic<br>edit<br>ignore<br>fork<br>spawn |  
@@ -147,6 +159,18 @@ ignore |
 | bip_39_word_space_7 | rich police feed strategy frequent draft acoustic |  
 | bip_39_word_space_8 | rich police feed strategy frequent draft acoustic edit |  
 | bip_39_word_space_9 | rich police feed strategy frequent draft acoustic edit ignore |  
+| bip_39_word_underscore_1 | rich |  
+| bip_39_word_underscore_10 | rich_police_feed_strategy_frequent_draft_acoustic_edit_ignore_fork |  
+| bip_39_word_underscore_11 | rich_police_feed_strategy_frequent_draft_acoustic_edit_ignore_fork_spawn |  
+| bip_39_word_underscore_12 | rich_police_feed_strategy_frequent_draft_acoustic_edit_ignore_fork_spawn_artwork |  
+| bip_39_word_underscore_2 | rich_police |  
+| bip_39_word_underscore_3 | rich_police_feed |  
+| bip_39_word_underscore_4 | rich_police_feed_strategy |  
+| bip_39_word_underscore_5 | rich_police_feed_strategy_frequent |  
+| bip_39_word_underscore_6 | rich_police_feed_strategy_frequent_draft |  
+| bip_39_word_underscore_7 | rich_police_feed_strategy_frequent_draft_acoustic |  
+| bip_39_word_underscore_8 | rich_police_feed_strategy_frequent_draft_acoustic_edit |  
+| bip_39_word_underscore_9 | rich_police_feed_strategy_frequent_draft_acoustic_edit_ignore |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

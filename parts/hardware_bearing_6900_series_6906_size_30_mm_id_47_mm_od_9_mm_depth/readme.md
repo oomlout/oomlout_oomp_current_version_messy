@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sing |  
+| bip_39_word_dash_10 | sing-banana-uncover-favorite-humble-crowd-bachelor-ketchup-antique-fashion |  
+| bip_39_word_dash_11 | sing-banana-uncover-favorite-humble-crowd-bachelor-ketchup-antique-fashion-expire |  
+| bip_39_word_dash_12 | sing-banana-uncover-favorite-humble-crowd-bachelor-ketchup-antique-fashion-expire-aim |  
+| bip_39_word_dash_2 | sing-banana |  
+| bip_39_word_dash_3 | sing-banana-uncover |  
+| bip_39_word_dash_4 | sing-banana-uncover-favorite |  
+| bip_39_word_dash_5 | sing-banana-uncover-favorite-humble |  
+| bip_39_word_dash_6 | sing-banana-uncover-favorite-humble-crowd |  
+| bip_39_word_dash_7 | sing-banana-uncover-favorite-humble-crowd-bachelor |  
+| bip_39_word_dash_8 | sing-banana-uncover-favorite-humble-crowd-bachelor-ketchup |  
+| bip_39_word_dash_9 | sing-banana-uncover-favorite-humble-crowd-bachelor-ketchup-antique |  
 | bip_39_word_new_br_1 | sing |  
 | bip_39_word_new_br_10 | sing<br>banana<br>uncover<br>favorite<br>humble<br>crowd<br>bachelor<br>ketchup<br>antique<br>fashion |  
 | bip_39_word_new_br_11 | sing<br>banana<br>uncover<br>favorite<br>humble<br>crowd<br>bachelor<br>ketchup<br>antique<br>fashion<br>expire |  
@@ -147,6 +159,18 @@ antique |
 | bip_39_word_space_7 | sing banana uncover favorite humble crowd bachelor |  
 | bip_39_word_space_8 | sing banana uncover favorite humble crowd bachelor ketchup |  
 | bip_39_word_space_9 | sing banana uncover favorite humble crowd bachelor ketchup antique |  
+| bip_39_word_underscore_1 | sing |  
+| bip_39_word_underscore_10 | sing_banana_uncover_favorite_humble_crowd_bachelor_ketchup_antique_fashion |  
+| bip_39_word_underscore_11 | sing_banana_uncover_favorite_humble_crowd_bachelor_ketchup_antique_fashion_expire |  
+| bip_39_word_underscore_12 | sing_banana_uncover_favorite_humble_crowd_bachelor_ketchup_antique_fashion_expire_aim |  
+| bip_39_word_underscore_2 | sing_banana |  
+| bip_39_word_underscore_3 | sing_banana_uncover |  
+| bip_39_word_underscore_4 | sing_banana_uncover_favorite |  
+| bip_39_word_underscore_5 | sing_banana_uncover_favorite_humble |  
+| bip_39_word_underscore_6 | sing_banana_uncover_favorite_humble_crowd |  
+| bip_39_word_underscore_7 | sing_banana_uncover_favorite_humble_crowd_bachelor |  
+| bip_39_word_underscore_8 | sing_banana_uncover_favorite_humble_crowd_bachelor_ketchup |  
+| bip_39_word_underscore_9 | sing_banana_uncover_favorite_humble_crowd_bachelor_ketchup_antique |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

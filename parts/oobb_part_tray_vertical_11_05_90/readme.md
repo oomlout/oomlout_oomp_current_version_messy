@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jar |  
+| bip_39_word_dash_10 | jar-party-cousin-shrug-now-alarm-question-pattern-girl-purity |  
+| bip_39_word_dash_11 | jar-party-cousin-shrug-now-alarm-question-pattern-girl-purity-step |  
+| bip_39_word_dash_12 | jar-party-cousin-shrug-now-alarm-question-pattern-girl-purity-step-appear |  
+| bip_39_word_dash_2 | jar-party |  
+| bip_39_word_dash_3 | jar-party-cousin |  
+| bip_39_word_dash_4 | jar-party-cousin-shrug |  
+| bip_39_word_dash_5 | jar-party-cousin-shrug-now |  
+| bip_39_word_dash_6 | jar-party-cousin-shrug-now-alarm |  
+| bip_39_word_dash_7 | jar-party-cousin-shrug-now-alarm-question |  
+| bip_39_word_dash_8 | jar-party-cousin-shrug-now-alarm-question-pattern |  
+| bip_39_word_dash_9 | jar-party-cousin-shrug-now-alarm-question-pattern-girl |  
 | bip_39_word_new_br_1 | jar |  
 | bip_39_word_new_br_10 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern<br>girl<br>purity |  
 | bip_39_word_new_br_11 | jar<br>party<br>cousin<br>shrug<br>now<br>alarm<br>question<br>pattern<br>girl<br>purity<br>step |  
@@ -147,6 +159,18 @@ girl |
 | bip_39_word_space_7 | jar party cousin shrug now alarm question |  
 | bip_39_word_space_8 | jar party cousin shrug now alarm question pattern |  
 | bip_39_word_space_9 | jar party cousin shrug now alarm question pattern girl |  
+| bip_39_word_underscore_1 | jar |  
+| bip_39_word_underscore_10 | jar_party_cousin_shrug_now_alarm_question_pattern_girl_purity |  
+| bip_39_word_underscore_11 | jar_party_cousin_shrug_now_alarm_question_pattern_girl_purity_step |  
+| bip_39_word_underscore_12 | jar_party_cousin_shrug_now_alarm_question_pattern_girl_purity_step_appear |  
+| bip_39_word_underscore_2 | jar_party |  
+| bip_39_word_underscore_3 | jar_party_cousin |  
+| bip_39_word_underscore_4 | jar_party_cousin_shrug |  
+| bip_39_word_underscore_5 | jar_party_cousin_shrug_now |  
+| bip_39_word_underscore_6 | jar_party_cousin_shrug_now_alarm |  
+| bip_39_word_underscore_7 | jar_party_cousin_shrug_now_alarm_question |  
+| bip_39_word_underscore_8 | jar_party_cousin_shrug_now_alarm_question_pattern |  
+| bip_39_word_underscore_9 | jar_party_cousin_shrug_now_alarm_question_pattern_girl |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

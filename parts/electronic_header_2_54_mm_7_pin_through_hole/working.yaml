@@ -1,3 +1,15 @@
+bip_39_word_dash_1: panther
+bip_39_word_dash_10: panther-boil-punch-leg-pistol-diagram-record-brush-swamp-moment
+bip_39_word_dash_11: panther-boil-punch-leg-pistol-diagram-record-brush-swamp-moment-base
+bip_39_word_dash_12: panther-boil-punch-leg-pistol-diagram-record-brush-swamp-moment-base-absurd
+bip_39_word_dash_2: panther-boil
+bip_39_word_dash_3: panther-boil-punch
+bip_39_word_dash_4: panther-boil-punch-leg
+bip_39_word_dash_5: panther-boil-punch-leg-pistol
+bip_39_word_dash_6: panther-boil-punch-leg-pistol-diagram
+bip_39_word_dash_7: panther-boil-punch-leg-pistol-diagram-record
+bip_39_word_dash_8: panther-boil-punch-leg-pistol-diagram-record-brush
+bip_39_word_dash_9: panther-boil-punch-leg-pistol-diagram-record-brush-swamp
 bip_39_word_new_br_1: panther
 bip_39_word_new_br_10: panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush<br>swamp<br>moment
 bip_39_word_new_br_11: panther<br>boil<br>punch<br>leg<br>pistol<br>diagram<br>record<br>brush<br>swamp<br>moment<br>base
@@ -193,6 +205,18 @@ bip_39_word_space_6: panther boil punch leg pistol diagram
 bip_39_word_space_7: panther boil punch leg pistol diagram record
 bip_39_word_space_8: panther boil punch leg pistol diagram record brush
 bip_39_word_space_9: panther boil punch leg pistol diagram record brush swamp
+bip_39_word_underscore_1: panther
+bip_39_word_underscore_10: panther_boil_punch_leg_pistol_diagram_record_brush_swamp_moment
+bip_39_word_underscore_11: panther_boil_punch_leg_pistol_diagram_record_brush_swamp_moment_base
+bip_39_word_underscore_12: panther_boil_punch_leg_pistol_diagram_record_brush_swamp_moment_base_absurd
+bip_39_word_underscore_2: panther_boil
+bip_39_word_underscore_3: panther_boil_punch
+bip_39_word_underscore_4: panther_boil_punch_leg
+bip_39_word_underscore_5: panther_boil_punch_leg_pistol
+bip_39_word_underscore_6: panther_boil_punch_leg_pistol_diagram
+bip_39_word_underscore_7: panther_boil_punch_leg_pistol_diagram_record
+bip_39_word_underscore_8: panther_boil_punch_leg_pistol_diagram_record_brush
+bip_39_word_underscore_9: panther_boil_punch_leg_pistol_diagram_record_brush_swamp
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

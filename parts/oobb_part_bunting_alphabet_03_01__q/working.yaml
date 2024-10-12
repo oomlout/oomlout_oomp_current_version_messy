@@ -1,3 +1,15 @@
+bip_39_word_dash_1: van
+bip_39_word_dash_10: van-gas-blur-reject-float-illness-quick-nice-bring-solar
+bip_39_word_dash_11: van-gas-blur-reject-float-illness-quick-nice-bring-solar-window
+bip_39_word_dash_12: van-gas-blur-reject-float-illness-quick-nice-bring-solar-window-appear
+bip_39_word_dash_2: van-gas
+bip_39_word_dash_3: van-gas-blur
+bip_39_word_dash_4: van-gas-blur-reject
+bip_39_word_dash_5: van-gas-blur-reject-float
+bip_39_word_dash_6: van-gas-blur-reject-float-illness
+bip_39_word_dash_7: van-gas-blur-reject-float-illness-quick
+bip_39_word_dash_8: van-gas-blur-reject-float-illness-quick-nice
+bip_39_word_dash_9: van-gas-blur-reject-float-illness-quick-nice-bring
 bip_39_word_new_br_1: van
 bip_39_word_new_br_10: van<br>gas<br>blur<br>reject<br>float<br>illness<br>quick<br>nice<br>bring<br>solar
 bip_39_word_new_br_11: van<br>gas<br>blur<br>reject<br>float<br>illness<br>quick<br>nice<br>bring<br>solar<br>window
@@ -192,6 +204,18 @@ bip_39_word_space_6: van gas blur reject float illness
 bip_39_word_space_7: van gas blur reject float illness quick
 bip_39_word_space_8: van gas blur reject float illness quick nice
 bip_39_word_space_9: van gas blur reject float illness quick nice bring
+bip_39_word_underscore_1: van
+bip_39_word_underscore_10: van_gas_blur_reject_float_illness_quick_nice_bring_solar
+bip_39_word_underscore_11: van_gas_blur_reject_float_illness_quick_nice_bring_solar_window
+bip_39_word_underscore_12: van_gas_blur_reject_float_illness_quick_nice_bring_solar_window_appear
+bip_39_word_underscore_2: van_gas
+bip_39_word_underscore_3: van_gas_blur
+bip_39_word_underscore_4: van_gas_blur_reject
+bip_39_word_underscore_5: van_gas_blur_reject_float
+bip_39_word_underscore_6: van_gas_blur_reject_float_illness
+bip_39_word_underscore_7: van_gas_blur_reject_float_illness_quick
+bip_39_word_underscore_8: van_gas_blur_reject_float_illness_quick_nice
+bip_39_word_underscore_9: van_gas_blur_reject_float_illness_quick_nice_bring
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

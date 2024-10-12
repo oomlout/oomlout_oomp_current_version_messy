@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | imitate |  
+| bip_39_word_dash_10 | imitate-false-brain-pyramid-real-top-tube-park-adjust-bar |  
+| bip_39_word_dash_11 | imitate-false-brain-pyramid-real-top-tube-park-adjust-bar-argue |  
+| bip_39_word_dash_12 | imitate-false-brain-pyramid-real-top-tube-park-adjust-bar-argue-arrest |  
+| bip_39_word_dash_2 | imitate-false |  
+| bip_39_word_dash_3 | imitate-false-brain |  
+| bip_39_word_dash_4 | imitate-false-brain-pyramid |  
+| bip_39_word_dash_5 | imitate-false-brain-pyramid-real |  
+| bip_39_word_dash_6 | imitate-false-brain-pyramid-real-top |  
+| bip_39_word_dash_7 | imitate-false-brain-pyramid-real-top-tube |  
+| bip_39_word_dash_8 | imitate-false-brain-pyramid-real-top-tube-park |  
+| bip_39_word_dash_9 | imitate-false-brain-pyramid-real-top-tube-park-adjust |  
 | bip_39_word_new_br_1 | imitate |  
 | bip_39_word_new_br_10 | imitate<br>false<br>brain<br>pyramid<br>real<br>top<br>tube<br>park<br>adjust<br>bar |  
 | bip_39_word_new_br_11 | imitate<br>false<br>brain<br>pyramid<br>real<br>top<br>tube<br>park<br>adjust<br>bar<br>argue |  
@@ -147,6 +159,18 @@ adjust |
 | bip_39_word_space_7 | imitate false brain pyramid real top tube |  
 | bip_39_word_space_8 | imitate false brain pyramid real top tube park |  
 | bip_39_word_space_9 | imitate false brain pyramid real top tube park adjust |  
+| bip_39_word_underscore_1 | imitate |  
+| bip_39_word_underscore_10 | imitate_false_brain_pyramid_real_top_tube_park_adjust_bar |  
+| bip_39_word_underscore_11 | imitate_false_brain_pyramid_real_top_tube_park_adjust_bar_argue |  
+| bip_39_word_underscore_12 | imitate_false_brain_pyramid_real_top_tube_park_adjust_bar_argue_arrest |  
+| bip_39_word_underscore_2 | imitate_false |  
+| bip_39_word_underscore_3 | imitate_false_brain |  
+| bip_39_word_underscore_4 | imitate_false_brain_pyramid |  
+| bip_39_word_underscore_5 | imitate_false_brain_pyramid_real |  
+| bip_39_word_underscore_6 | imitate_false_brain_pyramid_real_top |  
+| bip_39_word_underscore_7 | imitate_false_brain_pyramid_real_top_tube |  
+| bip_39_word_underscore_8 | imitate_false_brain_pyramid_real_top_tube_park |  
+| bip_39_word_underscore_9 | imitate_false_brain_pyramid_real_top_tube_park_adjust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

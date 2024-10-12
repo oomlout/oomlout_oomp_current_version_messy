@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nominee |  
+| bip_39_word_dash_10 | nominee-thank-off-vital-decline-oak-already-napkin-bid-wild |  
+| bip_39_word_dash_11 | nominee-thank-off-vital-decline-oak-already-napkin-bid-wild-candy |  
+| bip_39_word_dash_12 | nominee-thank-off-vital-decline-oak-already-napkin-bid-wild-candy-art |  
+| bip_39_word_dash_2 | nominee-thank |  
+| bip_39_word_dash_3 | nominee-thank-off |  
+| bip_39_word_dash_4 | nominee-thank-off-vital |  
+| bip_39_word_dash_5 | nominee-thank-off-vital-decline |  
+| bip_39_word_dash_6 | nominee-thank-off-vital-decline-oak |  
+| bip_39_word_dash_7 | nominee-thank-off-vital-decline-oak-already |  
+| bip_39_word_dash_8 | nominee-thank-off-vital-decline-oak-already-napkin |  
+| bip_39_word_dash_9 | nominee-thank-off-vital-decline-oak-already-napkin-bid |  
 | bip_39_word_new_br_1 | nominee |  
 | bip_39_word_new_br_10 | nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin<br>bid<br>wild |  
 | bip_39_word_new_br_11 | nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin<br>bid<br>wild<br>candy |  
@@ -147,6 +159,18 @@ bid |
 | bip_39_word_space_7 | nominee thank off vital decline oak already |  
 | bip_39_word_space_8 | nominee thank off vital decline oak already napkin |  
 | bip_39_word_space_9 | nominee thank off vital decline oak already napkin bid |  
+| bip_39_word_underscore_1 | nominee |  
+| bip_39_word_underscore_10 | nominee_thank_off_vital_decline_oak_already_napkin_bid_wild |  
+| bip_39_word_underscore_11 | nominee_thank_off_vital_decline_oak_already_napkin_bid_wild_candy |  
+| bip_39_word_underscore_12 | nominee_thank_off_vital_decline_oak_already_napkin_bid_wild_candy_art |  
+| bip_39_word_underscore_2 | nominee_thank |  
+| bip_39_word_underscore_3 | nominee_thank_off |  
+| bip_39_word_underscore_4 | nominee_thank_off_vital |  
+| bip_39_word_underscore_5 | nominee_thank_off_vital_decline |  
+| bip_39_word_underscore_6 | nominee_thank_off_vital_decline_oak |  
+| bip_39_word_underscore_7 | nominee_thank_off_vital_decline_oak_already |  
+| bip_39_word_underscore_8 | nominee_thank_off_vital_decline_oak_already_napkin |  
+| bip_39_word_underscore_9 | nominee_thank_off_vital_decline_oak_already_napkin_bid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

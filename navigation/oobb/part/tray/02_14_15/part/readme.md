@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | disease |  
+| bip_39_word_dash_10 | disease-rice-catch-payment-first-inner-unlock-burden-unhappy-chaos |  
+| bip_39_word_dash_11 | disease-rice-catch-payment-first-inner-unlock-burden-unhappy-chaos-patient |  
+| bip_39_word_dash_12 | disease-rice-catch-payment-first-inner-unlock-burden-unhappy-chaos-patient-auto |  
+| bip_39_word_dash_2 | disease-rice |  
+| bip_39_word_dash_3 | disease-rice-catch |  
+| bip_39_word_dash_4 | disease-rice-catch-payment |  
+| bip_39_word_dash_5 | disease-rice-catch-payment-first |  
+| bip_39_word_dash_6 | disease-rice-catch-payment-first-inner |  
+| bip_39_word_dash_7 | disease-rice-catch-payment-first-inner-unlock |  
+| bip_39_word_dash_8 | disease-rice-catch-payment-first-inner-unlock-burden |  
+| bip_39_word_dash_9 | disease-rice-catch-payment-first-inner-unlock-burden-unhappy |  
 | bip_39_word_new_br_1 | disease |  
 | bip_39_word_new_br_10 | disease<br>rice<br>catch<br>payment<br>first<br>inner<br>unlock<br>burden<br>unhappy<br>chaos |  
 | bip_39_word_new_br_11 | disease<br>rice<br>catch<br>payment<br>first<br>inner<br>unlock<br>burden<br>unhappy<br>chaos<br>patient |  
@@ -147,6 +159,18 @@ unhappy |
 | bip_39_word_space_7 | disease rice catch payment first inner unlock |  
 | bip_39_word_space_8 | disease rice catch payment first inner unlock burden |  
 | bip_39_word_space_9 | disease rice catch payment first inner unlock burden unhappy |  
+| bip_39_word_underscore_1 | disease |  
+| bip_39_word_underscore_10 | disease_rice_catch_payment_first_inner_unlock_burden_unhappy_chaos |  
+| bip_39_word_underscore_11 | disease_rice_catch_payment_first_inner_unlock_burden_unhappy_chaos_patient |  
+| bip_39_word_underscore_12 | disease_rice_catch_payment_first_inner_unlock_burden_unhappy_chaos_patient_auto |  
+| bip_39_word_underscore_2 | disease_rice |  
+| bip_39_word_underscore_3 | disease_rice_catch |  
+| bip_39_word_underscore_4 | disease_rice_catch_payment |  
+| bip_39_word_underscore_5 | disease_rice_catch_payment_first |  
+| bip_39_word_underscore_6 | disease_rice_catch_payment_first_inner |  
+| bip_39_word_underscore_7 | disease_rice_catch_payment_first_inner_unlock |  
+| bip_39_word_underscore_8 | disease_rice_catch_payment_first_inner_unlock_burden |  
+| bip_39_word_underscore_9 | disease_rice_catch_payment_first_inner_unlock_burden_unhappy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

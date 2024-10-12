@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nose
+bip_39_word_dash_10: nose-oval-warm-coral-gallery-pause-lesson-joy-switch-leader
+bip_39_word_dash_11: nose-oval-warm-coral-gallery-pause-lesson-joy-switch-leader-risk
+bip_39_word_dash_12: nose-oval-warm-coral-gallery-pause-lesson-joy-switch-leader-risk-add
+bip_39_word_dash_2: nose-oval
+bip_39_word_dash_3: nose-oval-warm
+bip_39_word_dash_4: nose-oval-warm-coral
+bip_39_word_dash_5: nose-oval-warm-coral-gallery
+bip_39_word_dash_6: nose-oval-warm-coral-gallery-pause
+bip_39_word_dash_7: nose-oval-warm-coral-gallery-pause-lesson
+bip_39_word_dash_8: nose-oval-warm-coral-gallery-pause-lesson-joy
+bip_39_word_dash_9: nose-oval-warm-coral-gallery-pause-lesson-joy-switch
 bip_39_word_new_br_1: nose
 bip_39_word_new_br_10: nose<br>oval<br>warm<br>coral<br>gallery<br>pause<br>lesson<br>joy<br>switch<br>leader
 bip_39_word_new_br_11: nose<br>oval<br>warm<br>coral<br>gallery<br>pause<br>lesson<br>joy<br>switch<br>leader<br>risk
@@ -193,6 +205,18 @@ bip_39_word_space_6: nose oval warm coral gallery pause
 bip_39_word_space_7: nose oval warm coral gallery pause lesson
 bip_39_word_space_8: nose oval warm coral gallery pause lesson joy
 bip_39_word_space_9: nose oval warm coral gallery pause lesson joy switch
+bip_39_word_underscore_1: nose
+bip_39_word_underscore_10: nose_oval_warm_coral_gallery_pause_lesson_joy_switch_leader
+bip_39_word_underscore_11: nose_oval_warm_coral_gallery_pause_lesson_joy_switch_leader_risk
+bip_39_word_underscore_12: nose_oval_warm_coral_gallery_pause_lesson_joy_switch_leader_risk_add
+bip_39_word_underscore_2: nose_oval
+bip_39_word_underscore_3: nose_oval_warm
+bip_39_word_underscore_4: nose_oval_warm_coral
+bip_39_word_underscore_5: nose_oval_warm_coral_gallery
+bip_39_word_underscore_6: nose_oval_warm_coral_gallery_pause
+bip_39_word_underscore_7: nose_oval_warm_coral_gallery_pause_lesson
+bip_39_word_underscore_8: nose_oval_warm_coral_gallery_pause_lesson_joy
+bip_39_word_underscore_9: nose_oval_warm_coral_gallery_pause_lesson_joy_switch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

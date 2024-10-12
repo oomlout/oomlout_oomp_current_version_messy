@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | silent |  
+| bip_39_word_dash_10 | silent-invest-day-modify-clerk-leave-illegal-olive-loud-rose |  
+| bip_39_word_dash_11 | silent-invest-day-modify-clerk-leave-illegal-olive-loud-rose-mobile |  
+| bip_39_word_dash_12 | silent-invest-day-modify-clerk-leave-illegal-olive-loud-rose-mobile-accuse |  
+| bip_39_word_dash_2 | silent-invest |  
+| bip_39_word_dash_3 | silent-invest-day |  
+| bip_39_word_dash_4 | silent-invest-day-modify |  
+| bip_39_word_dash_5 | silent-invest-day-modify-clerk |  
+| bip_39_word_dash_6 | silent-invest-day-modify-clerk-leave |  
+| bip_39_word_dash_7 | silent-invest-day-modify-clerk-leave-illegal |  
+| bip_39_word_dash_8 | silent-invest-day-modify-clerk-leave-illegal-olive |  
+| bip_39_word_dash_9 | silent-invest-day-modify-clerk-leave-illegal-olive-loud |  
 | bip_39_word_new_br_1 | silent |  
 | bip_39_word_new_br_10 | silent<br>invest<br>day<br>modify<br>clerk<br>leave<br>illegal<br>olive<br>loud<br>rose |  
 | bip_39_word_new_br_11 | silent<br>invest<br>day<br>modify<br>clerk<br>leave<br>illegal<br>olive<br>loud<br>rose<br>mobile |  
@@ -147,6 +159,18 @@ loud |
 | bip_39_word_space_7 | silent invest day modify clerk leave illegal |  
 | bip_39_word_space_8 | silent invest day modify clerk leave illegal olive |  
 | bip_39_word_space_9 | silent invest day modify clerk leave illegal olive loud |  
+| bip_39_word_underscore_1 | silent |  
+| bip_39_word_underscore_10 | silent_invest_day_modify_clerk_leave_illegal_olive_loud_rose |  
+| bip_39_word_underscore_11 | silent_invest_day_modify_clerk_leave_illegal_olive_loud_rose_mobile |  
+| bip_39_word_underscore_12 | silent_invest_day_modify_clerk_leave_illegal_olive_loud_rose_mobile_accuse |  
+| bip_39_word_underscore_2 | silent_invest |  
+| bip_39_word_underscore_3 | silent_invest_day |  
+| bip_39_word_underscore_4 | silent_invest_day_modify |  
+| bip_39_word_underscore_5 | silent_invest_day_modify_clerk |  
+| bip_39_word_underscore_6 | silent_invest_day_modify_clerk_leave |  
+| bip_39_word_underscore_7 | silent_invest_day_modify_clerk_leave_illegal |  
+| bip_39_word_underscore_8 | silent_invest_day_modify_clerk_leave_illegal_olive |  
+| bip_39_word_underscore_9 | silent_invest_day_modify_clerk_leave_illegal_olive_loud |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

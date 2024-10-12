@@ -1,3 +1,15 @@
+bip_39_word_dash_1: blind
+bip_39_word_dash_10: blind-child-tiny-legend-decade-merge-sport-chunk-minute-exotic
+bip_39_word_dash_11: blind-child-tiny-legend-decade-merge-sport-chunk-minute-exotic-marble
+bip_39_word_dash_12: blind-child-tiny-legend-decade-merge-sport-chunk-minute-exotic-marble-anxiety
+bip_39_word_dash_2: blind-child
+bip_39_word_dash_3: blind-child-tiny
+bip_39_word_dash_4: blind-child-tiny-legend
+bip_39_word_dash_5: blind-child-tiny-legend-decade
+bip_39_word_dash_6: blind-child-tiny-legend-decade-merge
+bip_39_word_dash_7: blind-child-tiny-legend-decade-merge-sport
+bip_39_word_dash_8: blind-child-tiny-legend-decade-merge-sport-chunk
+bip_39_word_dash_9: blind-child-tiny-legend-decade-merge-sport-chunk-minute
 bip_39_word_new_br_1: blind
 bip_39_word_new_br_10: blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk<br>minute<br>exotic
 bip_39_word_new_br_11: blind<br>child<br>tiny<br>legend<br>decade<br>merge<br>sport<br>chunk<br>minute<br>exotic<br>marble
@@ -193,6 +205,18 @@ bip_39_word_space_6: blind child tiny legend decade merge
 bip_39_word_space_7: blind child tiny legend decade merge sport
 bip_39_word_space_8: blind child tiny legend decade merge sport chunk
 bip_39_word_space_9: blind child tiny legend decade merge sport chunk minute
+bip_39_word_underscore_1: blind
+bip_39_word_underscore_10: blind_child_tiny_legend_decade_merge_sport_chunk_minute_exotic
+bip_39_word_underscore_11: blind_child_tiny_legend_decade_merge_sport_chunk_minute_exotic_marble
+bip_39_word_underscore_12: blind_child_tiny_legend_decade_merge_sport_chunk_minute_exotic_marble_anxiety
+bip_39_word_underscore_2: blind_child
+bip_39_word_underscore_3: blind_child_tiny
+bip_39_word_underscore_4: blind_child_tiny_legend
+bip_39_word_underscore_5: blind_child_tiny_legend_decade
+bip_39_word_underscore_6: blind_child_tiny_legend_decade_merge
+bip_39_word_underscore_7: blind_child_tiny_legend_decade_merge_sport
+bip_39_word_underscore_8: blind_child_tiny_legend_decade_merge_sport_chunk
+bip_39_word_underscore_9: blind_child_tiny_legend_decade_merge_sport_chunk_minute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

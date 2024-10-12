@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | february |  
+| bip_39_word_dash_10 | february-copy-enhance-alarm-ginger-flash-hunt-address-amazing-service |  
+| bip_39_word_dash_11 | february-copy-enhance-alarm-ginger-flash-hunt-address-amazing-service-youth |  
+| bip_39_word_dash_12 | february-copy-enhance-alarm-ginger-flash-hunt-address-amazing-service-youth-ability |  
+| bip_39_word_dash_2 | february-copy |  
+| bip_39_word_dash_3 | february-copy-enhance |  
+| bip_39_word_dash_4 | february-copy-enhance-alarm |  
+| bip_39_word_dash_5 | february-copy-enhance-alarm-ginger |  
+| bip_39_word_dash_6 | february-copy-enhance-alarm-ginger-flash |  
+| bip_39_word_dash_7 | february-copy-enhance-alarm-ginger-flash-hunt |  
+| bip_39_word_dash_8 | february-copy-enhance-alarm-ginger-flash-hunt-address |  
+| bip_39_word_dash_9 | february-copy-enhance-alarm-ginger-flash-hunt-address-amazing |  
 | bip_39_word_new_br_1 | february |  
 | bip_39_word_new_br_10 | february<br>copy<br>enhance<br>alarm<br>ginger<br>flash<br>hunt<br>address<br>amazing<br>service |  
 | bip_39_word_new_br_11 | february<br>copy<br>enhance<br>alarm<br>ginger<br>flash<br>hunt<br>address<br>amazing<br>service<br>youth |  
@@ -147,6 +159,18 @@ amazing |
 | bip_39_word_space_7 | february copy enhance alarm ginger flash hunt |  
 | bip_39_word_space_8 | february copy enhance alarm ginger flash hunt address |  
 | bip_39_word_space_9 | february copy enhance alarm ginger flash hunt address amazing |  
+| bip_39_word_underscore_1 | february |  
+| bip_39_word_underscore_10 | february_copy_enhance_alarm_ginger_flash_hunt_address_amazing_service |  
+| bip_39_word_underscore_11 | february_copy_enhance_alarm_ginger_flash_hunt_address_amazing_service_youth |  
+| bip_39_word_underscore_12 | february_copy_enhance_alarm_ginger_flash_hunt_address_amazing_service_youth_ability |  
+| bip_39_word_underscore_2 | february_copy |  
+| bip_39_word_underscore_3 | february_copy_enhance |  
+| bip_39_word_underscore_4 | february_copy_enhance_alarm |  
+| bip_39_word_underscore_5 | february_copy_enhance_alarm_ginger |  
+| bip_39_word_underscore_6 | february_copy_enhance_alarm_ginger_flash |  
+| bip_39_word_underscore_7 | february_copy_enhance_alarm_ginger_flash_hunt |  
+| bip_39_word_underscore_8 | february_copy_enhance_alarm_ginger_flash_hunt_address |  
+| bip_39_word_underscore_9 | february_copy_enhance_alarm_ginger_flash_hunt_address_amazing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | whale |  
+| bip_39_word_dash_10 | whale-tonight-craft-panda-happy-open-rent-trend-more-ecology |  
+| bip_39_word_dash_11 | whale-tonight-craft-panda-happy-open-rent-trend-more-ecology-torch |  
+| bip_39_word_dash_12 | whale-tonight-craft-panda-happy-open-rent-trend-more-ecology-torch-amused |  
+| bip_39_word_dash_2 | whale-tonight |  
+| bip_39_word_dash_3 | whale-tonight-craft |  
+| bip_39_word_dash_4 | whale-tonight-craft-panda |  
+| bip_39_word_dash_5 | whale-tonight-craft-panda-happy |  
+| bip_39_word_dash_6 | whale-tonight-craft-panda-happy-open |  
+| bip_39_word_dash_7 | whale-tonight-craft-panda-happy-open-rent |  
+| bip_39_word_dash_8 | whale-tonight-craft-panda-happy-open-rent-trend |  
+| bip_39_word_dash_9 | whale-tonight-craft-panda-happy-open-rent-trend-more |  
 | bip_39_word_new_br_1 | whale |  
 | bip_39_word_new_br_10 | whale<br>tonight<br>craft<br>panda<br>happy<br>open<br>rent<br>trend<br>more<br>ecology |  
 | bip_39_word_new_br_11 | whale<br>tonight<br>craft<br>panda<br>happy<br>open<br>rent<br>trend<br>more<br>ecology<br>torch |  
@@ -147,6 +159,18 @@ more |
 | bip_39_word_space_7 | whale tonight craft panda happy open rent |  
 | bip_39_word_space_8 | whale tonight craft panda happy open rent trend |  
 | bip_39_word_space_9 | whale tonight craft panda happy open rent trend more |  
+| bip_39_word_underscore_1 | whale |  
+| bip_39_word_underscore_10 | whale_tonight_craft_panda_happy_open_rent_trend_more_ecology |  
+| bip_39_word_underscore_11 | whale_tonight_craft_panda_happy_open_rent_trend_more_ecology_torch |  
+| bip_39_word_underscore_12 | whale_tonight_craft_panda_happy_open_rent_trend_more_ecology_torch_amused |  
+| bip_39_word_underscore_2 | whale_tonight |  
+| bip_39_word_underscore_3 | whale_tonight_craft |  
+| bip_39_word_underscore_4 | whale_tonight_craft_panda |  
+| bip_39_word_underscore_5 | whale_tonight_craft_panda_happy |  
+| bip_39_word_underscore_6 | whale_tonight_craft_panda_happy_open |  
+| bip_39_word_underscore_7 | whale_tonight_craft_panda_happy_open_rent |  
+| bip_39_word_underscore_8 | whale_tonight_craft_panda_happy_open_rent_trend |  
+| bip_39_word_underscore_9 | whale_tonight_craft_panda_happy_open_rent_trend_more |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

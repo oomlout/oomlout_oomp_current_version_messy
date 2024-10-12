@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | action |  
+| bip_39_word_dash_10 | action-stumble-drill-enlist-aunt-license-water-pepper-blossom-victory |  
+| bip_39_word_dash_11 | action-stumble-drill-enlist-aunt-license-water-pepper-blossom-victory-unit |  
+| bip_39_word_dash_12 | action-stumble-drill-enlist-aunt-license-water-pepper-blossom-victory-unit-agent |  
+| bip_39_word_dash_2 | action-stumble |  
+| bip_39_word_dash_3 | action-stumble-drill |  
+| bip_39_word_dash_4 | action-stumble-drill-enlist |  
+| bip_39_word_dash_5 | action-stumble-drill-enlist-aunt |  
+| bip_39_word_dash_6 | action-stumble-drill-enlist-aunt-license |  
+| bip_39_word_dash_7 | action-stumble-drill-enlist-aunt-license-water |  
+| bip_39_word_dash_8 | action-stumble-drill-enlist-aunt-license-water-pepper |  
+| bip_39_word_dash_9 | action-stumble-drill-enlist-aunt-license-water-pepper-blossom |  
 | bip_39_word_new_br_1 | action |  
 | bip_39_word_new_br_10 | action<br>stumble<br>drill<br>enlist<br>aunt<br>license<br>water<br>pepper<br>blossom<br>victory |  
 | bip_39_word_new_br_11 | action<br>stumble<br>drill<br>enlist<br>aunt<br>license<br>water<br>pepper<br>blossom<br>victory<br>unit |  
@@ -147,6 +159,18 @@ blossom |
 | bip_39_word_space_7 | action stumble drill enlist aunt license water |  
 | bip_39_word_space_8 | action stumble drill enlist aunt license water pepper |  
 | bip_39_word_space_9 | action stumble drill enlist aunt license water pepper blossom |  
+| bip_39_word_underscore_1 | action |  
+| bip_39_word_underscore_10 | action_stumble_drill_enlist_aunt_license_water_pepper_blossom_victory |  
+| bip_39_word_underscore_11 | action_stumble_drill_enlist_aunt_license_water_pepper_blossom_victory_unit |  
+| bip_39_word_underscore_12 | action_stumble_drill_enlist_aunt_license_water_pepper_blossom_victory_unit_agent |  
+| bip_39_word_underscore_2 | action_stumble |  
+| bip_39_word_underscore_3 | action_stumble_drill |  
+| bip_39_word_underscore_4 | action_stumble_drill_enlist |  
+| bip_39_word_underscore_5 | action_stumble_drill_enlist_aunt |  
+| bip_39_word_underscore_6 | action_stumble_drill_enlist_aunt_license |  
+| bip_39_word_underscore_7 | action_stumble_drill_enlist_aunt_license_water |  
+| bip_39_word_underscore_8 | action_stumble_drill_enlist_aunt_license_water_pepper |  
+| bip_39_word_underscore_9 | action_stumble_drill_enlist_aunt_license_water_pepper_blossom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

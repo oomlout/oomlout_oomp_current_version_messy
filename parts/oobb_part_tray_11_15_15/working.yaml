@@ -1,3 +1,15 @@
+bip_39_word_dash_1: champion
+bip_39_word_dash_10: champion-soon-advice-velvet-alley-refuse-sure-scale-invite-cloud
+bip_39_word_dash_11: champion-soon-advice-velvet-alley-refuse-sure-scale-invite-cloud-lumber
+bip_39_word_dash_12: champion-soon-advice-velvet-alley-refuse-sure-scale-invite-cloud-lumber-april
+bip_39_word_dash_2: champion-soon
+bip_39_word_dash_3: champion-soon-advice
+bip_39_word_dash_4: champion-soon-advice-velvet
+bip_39_word_dash_5: champion-soon-advice-velvet-alley
+bip_39_word_dash_6: champion-soon-advice-velvet-alley-refuse
+bip_39_word_dash_7: champion-soon-advice-velvet-alley-refuse-sure
+bip_39_word_dash_8: champion-soon-advice-velvet-alley-refuse-sure-scale
+bip_39_word_dash_9: champion-soon-advice-velvet-alley-refuse-sure-scale-invite
 bip_39_word_new_br_1: champion
 bip_39_word_new_br_10: champion<br>soon<br>advice<br>velvet<br>alley<br>refuse<br>sure<br>scale<br>invite<br>cloud
 bip_39_word_new_br_11: champion<br>soon<br>advice<br>velvet<br>alley<br>refuse<br>sure<br>scale<br>invite<br>cloud<br>lumber
@@ -193,6 +205,18 @@ bip_39_word_space_6: champion soon advice velvet alley refuse
 bip_39_word_space_7: champion soon advice velvet alley refuse sure
 bip_39_word_space_8: champion soon advice velvet alley refuse sure scale
 bip_39_word_space_9: champion soon advice velvet alley refuse sure scale invite
+bip_39_word_underscore_1: champion
+bip_39_word_underscore_10: champion_soon_advice_velvet_alley_refuse_sure_scale_invite_cloud
+bip_39_word_underscore_11: champion_soon_advice_velvet_alley_refuse_sure_scale_invite_cloud_lumber
+bip_39_word_underscore_12: champion_soon_advice_velvet_alley_refuse_sure_scale_invite_cloud_lumber_april
+bip_39_word_underscore_2: champion_soon
+bip_39_word_underscore_3: champion_soon_advice
+bip_39_word_underscore_4: champion_soon_advice_velvet
+bip_39_word_underscore_5: champion_soon_advice_velvet_alley
+bip_39_word_underscore_6: champion_soon_advice_velvet_alley_refuse
+bip_39_word_underscore_7: champion_soon_advice_velvet_alley_refuse_sure
+bip_39_word_underscore_8: champion_soon_advice_velvet_alley_refuse_sure_scale
+bip_39_word_underscore_9: champion_soon_advice_velvet_alley_refuse_sure_scale_invite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

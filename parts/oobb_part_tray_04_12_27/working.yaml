@@ -1,3 +1,15 @@
+bip_39_word_dash_1: omit
+bip_39_word_dash_10: omit-truly-measure-awful-solve-dinosaur-wine-lobster-mechanic-anxiety
+bip_39_word_dash_11: omit-truly-measure-awful-solve-dinosaur-wine-lobster-mechanic-anxiety-desk
+bip_39_word_dash_12: omit-truly-measure-awful-solve-dinosaur-wine-lobster-mechanic-anxiety-desk-anger
+bip_39_word_dash_2: omit-truly
+bip_39_word_dash_3: omit-truly-measure
+bip_39_word_dash_4: omit-truly-measure-awful
+bip_39_word_dash_5: omit-truly-measure-awful-solve
+bip_39_word_dash_6: omit-truly-measure-awful-solve-dinosaur
+bip_39_word_dash_7: omit-truly-measure-awful-solve-dinosaur-wine
+bip_39_word_dash_8: omit-truly-measure-awful-solve-dinosaur-wine-lobster
+bip_39_word_dash_9: omit-truly-measure-awful-solve-dinosaur-wine-lobster-mechanic
 bip_39_word_new_br_1: omit
 bip_39_word_new_br_10: omit<br>truly<br>measure<br>awful<br>solve<br>dinosaur<br>wine<br>lobster<br>mechanic<br>anxiety
 bip_39_word_new_br_11: omit<br>truly<br>measure<br>awful<br>solve<br>dinosaur<br>wine<br>lobster<br>mechanic<br>anxiety<br>desk
@@ -194,6 +206,18 @@ bip_39_word_space_6: omit truly measure awful solve dinosaur
 bip_39_word_space_7: omit truly measure awful solve dinosaur wine
 bip_39_word_space_8: omit truly measure awful solve dinosaur wine lobster
 bip_39_word_space_9: omit truly measure awful solve dinosaur wine lobster mechanic
+bip_39_word_underscore_1: omit
+bip_39_word_underscore_10: omit_truly_measure_awful_solve_dinosaur_wine_lobster_mechanic_anxiety
+bip_39_word_underscore_11: omit_truly_measure_awful_solve_dinosaur_wine_lobster_mechanic_anxiety_desk
+bip_39_word_underscore_12: omit_truly_measure_awful_solve_dinosaur_wine_lobster_mechanic_anxiety_desk_anger
+bip_39_word_underscore_2: omit_truly
+bip_39_word_underscore_3: omit_truly_measure
+bip_39_word_underscore_4: omit_truly_measure_awful
+bip_39_word_underscore_5: omit_truly_measure_awful_solve
+bip_39_word_underscore_6: omit_truly_measure_awful_solve_dinosaur
+bip_39_word_underscore_7: omit_truly_measure_awful_solve_dinosaur_wine
+bip_39_word_underscore_8: omit_truly_measure_awful_solve_dinosaur_wine_lobster
+bip_39_word_underscore_9: omit_truly_measure_awful_solve_dinosaur_wine_lobster_mechanic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

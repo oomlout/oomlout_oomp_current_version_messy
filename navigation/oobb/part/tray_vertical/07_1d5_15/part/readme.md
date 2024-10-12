@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | network |  
+| bip_39_word_dash_10 | network-popular-blouse-top-stamp-twice-season-exercise-thank-crucial |  
+| bip_39_word_dash_11 | network-popular-blouse-top-stamp-twice-season-exercise-thank-crucial-siege |  
+| bip_39_word_dash_12 | network-popular-blouse-top-stamp-twice-season-exercise-thank-crucial-siege-among |  
+| bip_39_word_dash_2 | network-popular |  
+| bip_39_word_dash_3 | network-popular-blouse |  
+| bip_39_word_dash_4 | network-popular-blouse-top |  
+| bip_39_word_dash_5 | network-popular-blouse-top-stamp |  
+| bip_39_word_dash_6 | network-popular-blouse-top-stamp-twice |  
+| bip_39_word_dash_7 | network-popular-blouse-top-stamp-twice-season |  
+| bip_39_word_dash_8 | network-popular-blouse-top-stamp-twice-season-exercise |  
+| bip_39_word_dash_9 | network-popular-blouse-top-stamp-twice-season-exercise-thank |  
 | bip_39_word_new_br_1 | network |  
 | bip_39_word_new_br_10 | network<br>popular<br>blouse<br>top<br>stamp<br>twice<br>season<br>exercise<br>thank<br>crucial |  
 | bip_39_word_new_br_11 | network<br>popular<br>blouse<br>top<br>stamp<br>twice<br>season<br>exercise<br>thank<br>crucial<br>siege |  
@@ -147,6 +159,18 @@ thank |
 | bip_39_word_space_7 | network popular blouse top stamp twice season |  
 | bip_39_word_space_8 | network popular blouse top stamp twice season exercise |  
 | bip_39_word_space_9 | network popular blouse top stamp twice season exercise thank |  
+| bip_39_word_underscore_1 | network |  
+| bip_39_word_underscore_10 | network_popular_blouse_top_stamp_twice_season_exercise_thank_crucial |  
+| bip_39_word_underscore_11 | network_popular_blouse_top_stamp_twice_season_exercise_thank_crucial_siege |  
+| bip_39_word_underscore_12 | network_popular_blouse_top_stamp_twice_season_exercise_thank_crucial_siege_among |  
+| bip_39_word_underscore_2 | network_popular |  
+| bip_39_word_underscore_3 | network_popular_blouse |  
+| bip_39_word_underscore_4 | network_popular_blouse_top |  
+| bip_39_word_underscore_5 | network_popular_blouse_top_stamp |  
+| bip_39_word_underscore_6 | network_popular_blouse_top_stamp_twice |  
+| bip_39_word_underscore_7 | network_popular_blouse_top_stamp_twice_season |  
+| bip_39_word_underscore_8 | network_popular_blouse_top_stamp_twice_season_exercise |  
+| bip_39_word_underscore_9 | network_popular_blouse_top_stamp_twice_season_exercise_thank |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

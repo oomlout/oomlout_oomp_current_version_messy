@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sentence |  
+| bip_39_word_dash_10 | sentence-bamboo-staff-zero-length-economy-snake-neither-pause-table |  
+| bip_39_word_dash_11 | sentence-bamboo-staff-zero-length-economy-snake-neither-pause-table-result |  
+| bip_39_word_dash_12 | sentence-bamboo-staff-zero-length-economy-snake-neither-pause-table-result-analyst |  
+| bip_39_word_dash_2 | sentence-bamboo |  
+| bip_39_word_dash_3 | sentence-bamboo-staff |  
+| bip_39_word_dash_4 | sentence-bamboo-staff-zero |  
+| bip_39_word_dash_5 | sentence-bamboo-staff-zero-length |  
+| bip_39_word_dash_6 | sentence-bamboo-staff-zero-length-economy |  
+| bip_39_word_dash_7 | sentence-bamboo-staff-zero-length-economy-snake |  
+| bip_39_word_dash_8 | sentence-bamboo-staff-zero-length-economy-snake-neither |  
+| bip_39_word_dash_9 | sentence-bamboo-staff-zero-length-economy-snake-neither-pause |  
 | bip_39_word_new_br_1 | sentence |  
 | bip_39_word_new_br_10 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table |  
 | bip_39_word_new_br_11 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table<br>result |  
@@ -147,6 +159,18 @@ pause |
 | bip_39_word_space_7 | sentence bamboo staff zero length economy snake |  
 | bip_39_word_space_8 | sentence bamboo staff zero length economy snake neither |  
 | bip_39_word_space_9 | sentence bamboo staff zero length economy snake neither pause |  
+| bip_39_word_underscore_1 | sentence |  
+| bip_39_word_underscore_10 | sentence_bamboo_staff_zero_length_economy_snake_neither_pause_table |  
+| bip_39_word_underscore_11 | sentence_bamboo_staff_zero_length_economy_snake_neither_pause_table_result |  
+| bip_39_word_underscore_12 | sentence_bamboo_staff_zero_length_economy_snake_neither_pause_table_result_analyst |  
+| bip_39_word_underscore_2 | sentence_bamboo |  
+| bip_39_word_underscore_3 | sentence_bamboo_staff |  
+| bip_39_word_underscore_4 | sentence_bamboo_staff_zero |  
+| bip_39_word_underscore_5 | sentence_bamboo_staff_zero_length |  
+| bip_39_word_underscore_6 | sentence_bamboo_staff_zero_length_economy |  
+| bip_39_word_underscore_7 | sentence_bamboo_staff_zero_length_economy_snake |  
+| bip_39_word_underscore_8 | sentence_bamboo_staff_zero_length_economy_snake_neither |  
+| bip_39_word_underscore_9 | sentence_bamboo_staff_zero_length_economy_snake_neither_pause |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

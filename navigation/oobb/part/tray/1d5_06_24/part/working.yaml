@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hawk
+bip_39_word_dash_10: hawk-orient-cannon-double-veteran-worth-inmate-lunch-kitten-inform
+bip_39_word_dash_11: hawk-orient-cannon-double-veteran-worth-inmate-lunch-kitten-inform-custom
+bip_39_word_dash_12: hawk-orient-cannon-double-veteran-worth-inmate-lunch-kitten-inform-custom-all
+bip_39_word_dash_2: hawk-orient
+bip_39_word_dash_3: hawk-orient-cannon
+bip_39_word_dash_4: hawk-orient-cannon-double
+bip_39_word_dash_5: hawk-orient-cannon-double-veteran
+bip_39_word_dash_6: hawk-orient-cannon-double-veteran-worth
+bip_39_word_dash_7: hawk-orient-cannon-double-veteran-worth-inmate
+bip_39_word_dash_8: hawk-orient-cannon-double-veteran-worth-inmate-lunch
+bip_39_word_dash_9: hawk-orient-cannon-double-veteran-worth-inmate-lunch-kitten
 bip_39_word_new_br_1: hawk
 bip_39_word_new_br_10: hawk<br>orient<br>cannon<br>double<br>veteran<br>worth<br>inmate<br>lunch<br>kitten<br>inform
 bip_39_word_new_br_11: hawk<br>orient<br>cannon<br>double<br>veteran<br>worth<br>inmate<br>lunch<br>kitten<br>inform<br>custom
@@ -194,6 +206,18 @@ bip_39_word_space_6: hawk orient cannon double veteran worth
 bip_39_word_space_7: hawk orient cannon double veteran worth inmate
 bip_39_word_space_8: hawk orient cannon double veteran worth inmate lunch
 bip_39_word_space_9: hawk orient cannon double veteran worth inmate lunch kitten
+bip_39_word_underscore_1: hawk
+bip_39_word_underscore_10: hawk_orient_cannon_double_veteran_worth_inmate_lunch_kitten_inform
+bip_39_word_underscore_11: hawk_orient_cannon_double_veteran_worth_inmate_lunch_kitten_inform_custom
+bip_39_word_underscore_12: hawk_orient_cannon_double_veteran_worth_inmate_lunch_kitten_inform_custom_all
+bip_39_word_underscore_2: hawk_orient
+bip_39_word_underscore_3: hawk_orient_cannon
+bip_39_word_underscore_4: hawk_orient_cannon_double
+bip_39_word_underscore_5: hawk_orient_cannon_double_veteran
+bip_39_word_underscore_6: hawk_orient_cannon_double_veteran_worth
+bip_39_word_underscore_7: hawk_orient_cannon_double_veteran_worth_inmate
+bip_39_word_underscore_8: hawk_orient_cannon_double_veteran_worth_inmate_lunch
+bip_39_word_underscore_9: hawk_orient_cannon_double_veteran_worth_inmate_lunch_kitten
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

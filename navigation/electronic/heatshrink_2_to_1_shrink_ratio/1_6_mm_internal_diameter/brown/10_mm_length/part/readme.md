@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wife |  
+| bip_39_word_dash_10 | wife-beauty-innocent-joke-coil-seminar-run-come-coconut-wealth |  
+| bip_39_word_dash_11 | wife-beauty-innocent-joke-coil-seminar-run-come-coconut-wealth-build |  
+| bip_39_word_dash_12 | wife-beauty-innocent-joke-coil-seminar-run-come-coconut-wealth-build-affair |  
+| bip_39_word_dash_2 | wife-beauty |  
+| bip_39_word_dash_3 | wife-beauty-innocent |  
+| bip_39_word_dash_4 | wife-beauty-innocent-joke |  
+| bip_39_word_dash_5 | wife-beauty-innocent-joke-coil |  
+| bip_39_word_dash_6 | wife-beauty-innocent-joke-coil-seminar |  
+| bip_39_word_dash_7 | wife-beauty-innocent-joke-coil-seminar-run |  
+| bip_39_word_dash_8 | wife-beauty-innocent-joke-coil-seminar-run-come |  
+| bip_39_word_dash_9 | wife-beauty-innocent-joke-coil-seminar-run-come-coconut |  
 | bip_39_word_new_br_1 | wife |  
 | bip_39_word_new_br_10 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth |  
 | bip_39_word_new_br_11 | wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth<br>build |  
@@ -147,6 +159,18 @@ coconut |
 | bip_39_word_space_7 | wife beauty innocent joke coil seminar run |  
 | bip_39_word_space_8 | wife beauty innocent joke coil seminar run come |  
 | bip_39_word_space_9 | wife beauty innocent joke coil seminar run come coconut |  
+| bip_39_word_underscore_1 | wife |  
+| bip_39_word_underscore_10 | wife_beauty_innocent_joke_coil_seminar_run_come_coconut_wealth |  
+| bip_39_word_underscore_11 | wife_beauty_innocent_joke_coil_seminar_run_come_coconut_wealth_build |  
+| bip_39_word_underscore_12 | wife_beauty_innocent_joke_coil_seminar_run_come_coconut_wealth_build_affair |  
+| bip_39_word_underscore_2 | wife_beauty |  
+| bip_39_word_underscore_3 | wife_beauty_innocent |  
+| bip_39_word_underscore_4 | wife_beauty_innocent_joke |  
+| bip_39_word_underscore_5 | wife_beauty_innocent_joke_coil |  
+| bip_39_word_underscore_6 | wife_beauty_innocent_joke_coil_seminar |  
+| bip_39_word_underscore_7 | wife_beauty_innocent_joke_coil_seminar_run |  
+| bip_39_word_underscore_8 | wife_beauty_innocent_joke_coil_seminar_run_come |  
+| bip_39_word_underscore_9 | wife_beauty_innocent_joke_coil_seminar_run_come_coconut |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pretty
+bip_39_word_dash_10: pretty-vintage-someone-thought-else-erode-tortoise-cluster-entry-lounge
+bip_39_word_dash_11: pretty-vintage-someone-thought-else-erode-tortoise-cluster-entry-lounge-baby
+bip_39_word_dash_12: pretty-vintage-someone-thought-else-erode-tortoise-cluster-entry-lounge-baby-afraid
+bip_39_word_dash_2: pretty-vintage
+bip_39_word_dash_3: pretty-vintage-someone
+bip_39_word_dash_4: pretty-vintage-someone-thought
+bip_39_word_dash_5: pretty-vintage-someone-thought-else
+bip_39_word_dash_6: pretty-vintage-someone-thought-else-erode
+bip_39_word_dash_7: pretty-vintage-someone-thought-else-erode-tortoise
+bip_39_word_dash_8: pretty-vintage-someone-thought-else-erode-tortoise-cluster
+bip_39_word_dash_9: pretty-vintage-someone-thought-else-erode-tortoise-cluster-entry
 bip_39_word_new_br_1: pretty
 bip_39_word_new_br_10: pretty<br>vintage<br>someone<br>thought<br>else<br>erode<br>tortoise<br>cluster<br>entry<br>lounge
 bip_39_word_new_br_11: pretty<br>vintage<br>someone<br>thought<br>else<br>erode<br>tortoise<br>cluster<br>entry<br>lounge<br>baby
@@ -194,6 +206,18 @@ bip_39_word_space_6: pretty vintage someone thought else erode
 bip_39_word_space_7: pretty vintage someone thought else erode tortoise
 bip_39_word_space_8: pretty vintage someone thought else erode tortoise cluster
 bip_39_word_space_9: pretty vintage someone thought else erode tortoise cluster entry
+bip_39_word_underscore_1: pretty
+bip_39_word_underscore_10: pretty_vintage_someone_thought_else_erode_tortoise_cluster_entry_lounge
+bip_39_word_underscore_11: pretty_vintage_someone_thought_else_erode_tortoise_cluster_entry_lounge_baby
+bip_39_word_underscore_12: pretty_vintage_someone_thought_else_erode_tortoise_cluster_entry_lounge_baby_afraid
+bip_39_word_underscore_2: pretty_vintage
+bip_39_word_underscore_3: pretty_vintage_someone
+bip_39_word_underscore_4: pretty_vintage_someone_thought
+bip_39_word_underscore_5: pretty_vintage_someone_thought_else
+bip_39_word_underscore_6: pretty_vintage_someone_thought_else_erode
+bip_39_word_underscore_7: pretty_vintage_someone_thought_else_erode_tortoise
+bip_39_word_underscore_8: pretty_vintage_someone_thought_else_erode_tortoise_cluster
+bip_39_word_underscore_9: pretty_vintage_someone_thought_else_erode_tortoise_cluster_entry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

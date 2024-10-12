@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | amazing |  
+| bip_39_word_dash_10 | amazing-play-inhale-south-response-sniff-neck-twenty-mountain-hunt |  
+| bip_39_word_dash_11 | amazing-play-inhale-south-response-sniff-neck-twenty-mountain-hunt-rifle |  
+| bip_39_word_dash_12 | amazing-play-inhale-south-response-sniff-neck-twenty-mountain-hunt-rifle-also |  
+| bip_39_word_dash_2 | amazing-play |  
+| bip_39_word_dash_3 | amazing-play-inhale |  
+| bip_39_word_dash_4 | amazing-play-inhale-south |  
+| bip_39_word_dash_5 | amazing-play-inhale-south-response |  
+| bip_39_word_dash_6 | amazing-play-inhale-south-response-sniff |  
+| bip_39_word_dash_7 | amazing-play-inhale-south-response-sniff-neck |  
+| bip_39_word_dash_8 | amazing-play-inhale-south-response-sniff-neck-twenty |  
+| bip_39_word_dash_9 | amazing-play-inhale-south-response-sniff-neck-twenty-mountain |  
 | bip_39_word_new_br_1 | amazing |  
 | bip_39_word_new_br_10 | amazing<br>play<br>inhale<br>south<br>response<br>sniff<br>neck<br>twenty<br>mountain<br>hunt |  
 | bip_39_word_new_br_11 | amazing<br>play<br>inhale<br>south<br>response<br>sniff<br>neck<br>twenty<br>mountain<br>hunt<br>rifle |  
@@ -147,6 +159,18 @@ mountain |
 | bip_39_word_space_7 | amazing play inhale south response sniff neck |  
 | bip_39_word_space_8 | amazing play inhale south response sniff neck twenty |  
 | bip_39_word_space_9 | amazing play inhale south response sniff neck twenty mountain |  
+| bip_39_word_underscore_1 | amazing |  
+| bip_39_word_underscore_10 | amazing_play_inhale_south_response_sniff_neck_twenty_mountain_hunt |  
+| bip_39_word_underscore_11 | amazing_play_inhale_south_response_sniff_neck_twenty_mountain_hunt_rifle |  
+| bip_39_word_underscore_12 | amazing_play_inhale_south_response_sniff_neck_twenty_mountain_hunt_rifle_also |  
+| bip_39_word_underscore_2 | amazing_play |  
+| bip_39_word_underscore_3 | amazing_play_inhale |  
+| bip_39_word_underscore_4 | amazing_play_inhale_south |  
+| bip_39_word_underscore_5 | amazing_play_inhale_south_response |  
+| bip_39_word_underscore_6 | amazing_play_inhale_south_response_sniff |  
+| bip_39_word_underscore_7 | amazing_play_inhale_south_response_sniff_neck |  
+| bip_39_word_underscore_8 | amazing_play_inhale_south_response_sniff_neck_twenty |  
+| bip_39_word_underscore_9 | amazing_play_inhale_south_response_sniff_neck_twenty_mountain |  
 | classification | wood |  
 | classification_capital | Wood |  
 | classification_first_letter | w |  

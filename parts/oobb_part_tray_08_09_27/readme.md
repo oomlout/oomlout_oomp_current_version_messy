@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gift |  
+| bip_39_word_dash_10 | gift-rookie-horse-duck-plastic-inner-kitchen-silver-actual-census |  
+| bip_39_word_dash_11 | gift-rookie-horse-duck-plastic-inner-kitchen-silver-actual-census-monitor |  
+| bip_39_word_dash_12 | gift-rookie-horse-duck-plastic-inner-kitchen-silver-actual-census-monitor-act |  
+| bip_39_word_dash_2 | gift-rookie |  
+| bip_39_word_dash_3 | gift-rookie-horse |  
+| bip_39_word_dash_4 | gift-rookie-horse-duck |  
+| bip_39_word_dash_5 | gift-rookie-horse-duck-plastic |  
+| bip_39_word_dash_6 | gift-rookie-horse-duck-plastic-inner |  
+| bip_39_word_dash_7 | gift-rookie-horse-duck-plastic-inner-kitchen |  
+| bip_39_word_dash_8 | gift-rookie-horse-duck-plastic-inner-kitchen-silver |  
+| bip_39_word_dash_9 | gift-rookie-horse-duck-plastic-inner-kitchen-silver-actual |  
 | bip_39_word_new_br_1 | gift |  
 | bip_39_word_new_br_10 | gift<br>rookie<br>horse<br>duck<br>plastic<br>inner<br>kitchen<br>silver<br>actual<br>census |  
 | bip_39_word_new_br_11 | gift<br>rookie<br>horse<br>duck<br>plastic<br>inner<br>kitchen<br>silver<br>actual<br>census<br>monitor |  
@@ -147,6 +159,18 @@ actual |
 | bip_39_word_space_7 | gift rookie horse duck plastic inner kitchen |  
 | bip_39_word_space_8 | gift rookie horse duck plastic inner kitchen silver |  
 | bip_39_word_space_9 | gift rookie horse duck plastic inner kitchen silver actual |  
+| bip_39_word_underscore_1 | gift |  
+| bip_39_word_underscore_10 | gift_rookie_horse_duck_plastic_inner_kitchen_silver_actual_census |  
+| bip_39_word_underscore_11 | gift_rookie_horse_duck_plastic_inner_kitchen_silver_actual_census_monitor |  
+| bip_39_word_underscore_12 | gift_rookie_horse_duck_plastic_inner_kitchen_silver_actual_census_monitor_act |  
+| bip_39_word_underscore_2 | gift_rookie |  
+| bip_39_word_underscore_3 | gift_rookie_horse |  
+| bip_39_word_underscore_4 | gift_rookie_horse_duck |  
+| bip_39_word_underscore_5 | gift_rookie_horse_duck_plastic |  
+| bip_39_word_underscore_6 | gift_rookie_horse_duck_plastic_inner |  
+| bip_39_word_underscore_7 | gift_rookie_horse_duck_plastic_inner_kitchen |  
+| bip_39_word_underscore_8 | gift_rookie_horse_duck_plastic_inner_kitchen_silver |  
+| bip_39_word_underscore_9 | gift_rookie_horse_duck_plastic_inner_kitchen_silver_actual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: black
+bip_39_word_dash_10: black-high-express-borrow-toddler-reward-public-good-chase-judge
+bip_39_word_dash_11: black-high-express-borrow-toddler-reward-public-good-chase-judge-cover
+bip_39_word_dash_12: black-high-express-borrow-toddler-reward-public-good-chase-judge-cover-assume
+bip_39_word_dash_2: black-high
+bip_39_word_dash_3: black-high-express
+bip_39_word_dash_4: black-high-express-borrow
+bip_39_word_dash_5: black-high-express-borrow-toddler
+bip_39_word_dash_6: black-high-express-borrow-toddler-reward
+bip_39_word_dash_7: black-high-express-borrow-toddler-reward-public
+bip_39_word_dash_8: black-high-express-borrow-toddler-reward-public-good
+bip_39_word_dash_9: black-high-express-borrow-toddler-reward-public-good-chase
 bip_39_word_new_br_1: black
 bip_39_word_new_br_10: black<br>high<br>express<br>borrow<br>toddler<br>reward<br>public<br>good<br>chase<br>judge
 bip_39_word_new_br_11: black<br>high<br>express<br>borrow<br>toddler<br>reward<br>public<br>good<br>chase<br>judge<br>cover
@@ -193,6 +205,18 @@ bip_39_word_space_6: black high express borrow toddler reward
 bip_39_word_space_7: black high express borrow toddler reward public
 bip_39_word_space_8: black high express borrow toddler reward public good
 bip_39_word_space_9: black high express borrow toddler reward public good chase
+bip_39_word_underscore_1: black
+bip_39_word_underscore_10: black_high_express_borrow_toddler_reward_public_good_chase_judge
+bip_39_word_underscore_11: black_high_express_borrow_toddler_reward_public_good_chase_judge_cover
+bip_39_word_underscore_12: black_high_express_borrow_toddler_reward_public_good_chase_judge_cover_assume
+bip_39_word_underscore_2: black_high
+bip_39_word_underscore_3: black_high_express
+bip_39_word_underscore_4: black_high_express_borrow
+bip_39_word_underscore_5: black_high_express_borrow_toddler
+bip_39_word_underscore_6: black_high_express_borrow_toddler_reward
+bip_39_word_underscore_7: black_high_express_borrow_toddler_reward_public
+bip_39_word_underscore_8: black_high_express_borrow_toddler_reward_public_good
+bip_39_word_underscore_9: black_high_express_borrow_toddler_reward_public_good_chase
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

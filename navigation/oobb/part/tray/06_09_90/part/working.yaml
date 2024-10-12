@@ -1,3 +1,15 @@
+bip_39_word_dash_1: album
+bip_39_word_dash_10: album-corn-inform-turtle-sport-question-tower-leave-steel-coast
+bip_39_word_dash_11: album-corn-inform-turtle-sport-question-tower-leave-steel-coast-danger
+bip_39_word_dash_12: album-corn-inform-turtle-sport-question-tower-leave-steel-coast-danger-appear
+bip_39_word_dash_2: album-corn
+bip_39_word_dash_3: album-corn-inform
+bip_39_word_dash_4: album-corn-inform-turtle
+bip_39_word_dash_5: album-corn-inform-turtle-sport
+bip_39_word_dash_6: album-corn-inform-turtle-sport-question
+bip_39_word_dash_7: album-corn-inform-turtle-sport-question-tower
+bip_39_word_dash_8: album-corn-inform-turtle-sport-question-tower-leave
+bip_39_word_dash_9: album-corn-inform-turtle-sport-question-tower-leave-steel
 bip_39_word_new_br_1: album
 bip_39_word_new_br_10: album<br>corn<br>inform<br>turtle<br>sport<br>question<br>tower<br>leave<br>steel<br>coast
 bip_39_word_new_br_11: album<br>corn<br>inform<br>turtle<br>sport<br>question<br>tower<br>leave<br>steel<br>coast<br>danger
@@ -193,6 +205,18 @@ bip_39_word_space_6: album corn inform turtle sport question
 bip_39_word_space_7: album corn inform turtle sport question tower
 bip_39_word_space_8: album corn inform turtle sport question tower leave
 bip_39_word_space_9: album corn inform turtle sport question tower leave steel
+bip_39_word_underscore_1: album
+bip_39_word_underscore_10: album_corn_inform_turtle_sport_question_tower_leave_steel_coast
+bip_39_word_underscore_11: album_corn_inform_turtle_sport_question_tower_leave_steel_coast_danger
+bip_39_word_underscore_12: album_corn_inform_turtle_sport_question_tower_leave_steel_coast_danger_appear
+bip_39_word_underscore_2: album_corn
+bip_39_word_underscore_3: album_corn_inform
+bip_39_word_underscore_4: album_corn_inform_turtle
+bip_39_word_underscore_5: album_corn_inform_turtle_sport
+bip_39_word_underscore_6: album_corn_inform_turtle_sport_question
+bip_39_word_underscore_7: album_corn_inform_turtle_sport_question_tower
+bip_39_word_underscore_8: album_corn_inform_turtle_sport_question_tower_leave
+bip_39_word_underscore_9: album_corn_inform_turtle_sport_question_tower_leave_steel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

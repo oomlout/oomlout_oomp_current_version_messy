@@ -1,3 +1,15 @@
+bip_39_word_dash_1: trumpet
+bip_39_word_dash_10: trumpet-north-negative-they-banner-cabbage-dose-soup-barrel-reopen
+bip_39_word_dash_11: trumpet-north-negative-they-banner-cabbage-dose-soup-barrel-reopen-junk
+bip_39_word_dash_12: trumpet-north-negative-they-banner-cabbage-dose-soup-barrel-reopen-junk-address
+bip_39_word_dash_2: trumpet-north
+bip_39_word_dash_3: trumpet-north-negative
+bip_39_word_dash_4: trumpet-north-negative-they
+bip_39_word_dash_5: trumpet-north-negative-they-banner
+bip_39_word_dash_6: trumpet-north-negative-they-banner-cabbage
+bip_39_word_dash_7: trumpet-north-negative-they-banner-cabbage-dose
+bip_39_word_dash_8: trumpet-north-negative-they-banner-cabbage-dose-soup
+bip_39_word_dash_9: trumpet-north-negative-they-banner-cabbage-dose-soup-barrel
 bip_39_word_new_br_1: trumpet
 bip_39_word_new_br_10: trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup<br>barrel<br>reopen
 bip_39_word_new_br_11: trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup<br>barrel<br>reopen<br>junk
@@ -194,6 +206,18 @@ bip_39_word_space_6: trumpet north negative they banner cabbage
 bip_39_word_space_7: trumpet north negative they banner cabbage dose
 bip_39_word_space_8: trumpet north negative they banner cabbage dose soup
 bip_39_word_space_9: trumpet north negative they banner cabbage dose soup barrel
+bip_39_word_underscore_1: trumpet
+bip_39_word_underscore_10: trumpet_north_negative_they_banner_cabbage_dose_soup_barrel_reopen
+bip_39_word_underscore_11: trumpet_north_negative_they_banner_cabbage_dose_soup_barrel_reopen_junk
+bip_39_word_underscore_12: trumpet_north_negative_they_banner_cabbage_dose_soup_barrel_reopen_junk_address
+bip_39_word_underscore_2: trumpet_north
+bip_39_word_underscore_3: trumpet_north_negative
+bip_39_word_underscore_4: trumpet_north_negative_they
+bip_39_word_underscore_5: trumpet_north_negative_they_banner
+bip_39_word_underscore_6: trumpet_north_negative_they_banner_cabbage
+bip_39_word_underscore_7: trumpet_north_negative_they_banner_cabbage_dose
+bip_39_word_underscore_8: trumpet_north_negative_they_banner_cabbage_dose_soup
+bip_39_word_underscore_9: trumpet_north_negative_they_banner_cabbage_dose_soup_barrel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

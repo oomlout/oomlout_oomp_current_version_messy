@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rail |  
+| bip_39_word_dash_10 | rail-fame-garbage-sibling-coconut-great-rapid-hedgehog-human-surface |  
+| bip_39_word_dash_11 | rail-fame-garbage-sibling-coconut-great-rapid-hedgehog-human-surface-multiply |  
+| bip_39_word_dash_12 | rail-fame-garbage-sibling-coconut-great-rapid-hedgehog-human-surface-multiply-adjust |  
+| bip_39_word_dash_2 | rail-fame |  
+| bip_39_word_dash_3 | rail-fame-garbage |  
+| bip_39_word_dash_4 | rail-fame-garbage-sibling |  
+| bip_39_word_dash_5 | rail-fame-garbage-sibling-coconut |  
+| bip_39_word_dash_6 | rail-fame-garbage-sibling-coconut-great |  
+| bip_39_word_dash_7 | rail-fame-garbage-sibling-coconut-great-rapid |  
+| bip_39_word_dash_8 | rail-fame-garbage-sibling-coconut-great-rapid-hedgehog |  
+| bip_39_word_dash_9 | rail-fame-garbage-sibling-coconut-great-rapid-hedgehog-human |  
 | bip_39_word_new_br_1 | rail |  
 | bip_39_word_new_br_10 | rail<br>fame<br>garbage<br>sibling<br>coconut<br>great<br>rapid<br>hedgehog<br>human<br>surface |  
 | bip_39_word_new_br_11 | rail<br>fame<br>garbage<br>sibling<br>coconut<br>great<br>rapid<br>hedgehog<br>human<br>surface<br>multiply |  
@@ -147,6 +159,18 @@ human |
 | bip_39_word_space_7 | rail fame garbage sibling coconut great rapid |  
 | bip_39_word_space_8 | rail fame garbage sibling coconut great rapid hedgehog |  
 | bip_39_word_space_9 | rail fame garbage sibling coconut great rapid hedgehog human |  
+| bip_39_word_underscore_1 | rail |  
+| bip_39_word_underscore_10 | rail_fame_garbage_sibling_coconut_great_rapid_hedgehog_human_surface |  
+| bip_39_word_underscore_11 | rail_fame_garbage_sibling_coconut_great_rapid_hedgehog_human_surface_multiply |  
+| bip_39_word_underscore_12 | rail_fame_garbage_sibling_coconut_great_rapid_hedgehog_human_surface_multiply_adjust |  
+| bip_39_word_underscore_2 | rail_fame |  
+| bip_39_word_underscore_3 | rail_fame_garbage |  
+| bip_39_word_underscore_4 | rail_fame_garbage_sibling |  
+| bip_39_word_underscore_5 | rail_fame_garbage_sibling_coconut |  
+| bip_39_word_underscore_6 | rail_fame_garbage_sibling_coconut_great |  
+| bip_39_word_underscore_7 | rail_fame_garbage_sibling_coconut_great_rapid |  
+| bip_39_word_underscore_8 | rail_fame_garbage_sibling_coconut_great_rapid_hedgehog |  
+| bip_39_word_underscore_9 | rail_fame_garbage_sibling_coconut_great_rapid_hedgehog_human |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

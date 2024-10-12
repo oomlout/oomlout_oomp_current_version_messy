@@ -1,3 +1,15 @@
+bip_39_word_dash_1: upper
+bip_39_word_dash_10: upper-gain-grain-husband-photo-yellow-medal-skill-hockey-quantum
+bip_39_word_dash_11: upper-gain-grain-husband-photo-yellow-medal-skill-hockey-quantum-hungry
+bip_39_word_dash_12: upper-gain-grain-husband-photo-yellow-medal-skill-hockey-quantum-hungry-appear
+bip_39_word_dash_2: upper-gain
+bip_39_word_dash_3: upper-gain-grain
+bip_39_word_dash_4: upper-gain-grain-husband
+bip_39_word_dash_5: upper-gain-grain-husband-photo
+bip_39_word_dash_6: upper-gain-grain-husband-photo-yellow
+bip_39_word_dash_7: upper-gain-grain-husband-photo-yellow-medal
+bip_39_word_dash_8: upper-gain-grain-husband-photo-yellow-medal-skill
+bip_39_word_dash_9: upper-gain-grain-husband-photo-yellow-medal-skill-hockey
 bip_39_word_new_br_1: upper
 bip_39_word_new_br_10: upper<br>gain<br>grain<br>husband<br>photo<br>yellow<br>medal<br>skill<br>hockey<br>quantum
 bip_39_word_new_br_11: upper<br>gain<br>grain<br>husband<br>photo<br>yellow<br>medal<br>skill<br>hockey<br>quantum<br>hungry
@@ -193,6 +205,18 @@ bip_39_word_space_6: upper gain grain husband photo yellow
 bip_39_word_space_7: upper gain grain husband photo yellow medal
 bip_39_word_space_8: upper gain grain husband photo yellow medal skill
 bip_39_word_space_9: upper gain grain husband photo yellow medal skill hockey
+bip_39_word_underscore_1: upper
+bip_39_word_underscore_10: upper_gain_grain_husband_photo_yellow_medal_skill_hockey_quantum
+bip_39_word_underscore_11: upper_gain_grain_husband_photo_yellow_medal_skill_hockey_quantum_hungry
+bip_39_word_underscore_12: upper_gain_grain_husband_photo_yellow_medal_skill_hockey_quantum_hungry_appear
+bip_39_word_underscore_2: upper_gain
+bip_39_word_underscore_3: upper_gain_grain
+bip_39_word_underscore_4: upper_gain_grain_husband
+bip_39_word_underscore_5: upper_gain_grain_husband_photo
+bip_39_word_underscore_6: upper_gain_grain_husband_photo_yellow
+bip_39_word_underscore_7: upper_gain_grain_husband_photo_yellow_medal
+bip_39_word_underscore_8: upper_gain_grain_husband_photo_yellow_medal_skill
+bip_39_word_underscore_9: upper_gain_grain_husband_photo_yellow_medal_skill_hockey
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

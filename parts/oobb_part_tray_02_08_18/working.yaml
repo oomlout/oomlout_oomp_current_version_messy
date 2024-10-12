@@ -1,3 +1,15 @@
+bip_39_word_dash_1: lounge
+bip_39_word_dash_10: lounge-hold-wise-enact-mix-empty-brief-release-lawn-bundle
+bip_39_word_dash_11: lounge-hold-wise-enact-mix-empty-brief-release-lawn-bundle-peace
+bip_39_word_dash_12: lounge-hold-wise-enact-mix-empty-brief-release-lawn-bundle-peace-arrange
+bip_39_word_dash_2: lounge-hold
+bip_39_word_dash_3: lounge-hold-wise
+bip_39_word_dash_4: lounge-hold-wise-enact
+bip_39_word_dash_5: lounge-hold-wise-enact-mix
+bip_39_word_dash_6: lounge-hold-wise-enact-mix-empty
+bip_39_word_dash_7: lounge-hold-wise-enact-mix-empty-brief
+bip_39_word_dash_8: lounge-hold-wise-enact-mix-empty-brief-release
+bip_39_word_dash_9: lounge-hold-wise-enact-mix-empty-brief-release-lawn
 bip_39_word_new_br_1: lounge
 bip_39_word_new_br_10: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release<br>lawn<br>bundle
 bip_39_word_new_br_11: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release<br>lawn<br>bundle<br>peace
@@ -192,6 +204,18 @@ bip_39_word_space_6: lounge hold wise enact mix empty
 bip_39_word_space_7: lounge hold wise enact mix empty brief
 bip_39_word_space_8: lounge hold wise enact mix empty brief release
 bip_39_word_space_9: lounge hold wise enact mix empty brief release lawn
+bip_39_word_underscore_1: lounge
+bip_39_word_underscore_10: lounge_hold_wise_enact_mix_empty_brief_release_lawn_bundle
+bip_39_word_underscore_11: lounge_hold_wise_enact_mix_empty_brief_release_lawn_bundle_peace
+bip_39_word_underscore_12: lounge_hold_wise_enact_mix_empty_brief_release_lawn_bundle_peace_arrange
+bip_39_word_underscore_2: lounge_hold
+bip_39_word_underscore_3: lounge_hold_wise
+bip_39_word_underscore_4: lounge_hold_wise_enact
+bip_39_word_underscore_5: lounge_hold_wise_enact_mix
+bip_39_word_underscore_6: lounge_hold_wise_enact_mix_empty
+bip_39_word_underscore_7: lounge_hold_wise_enact_mix_empty_brief
+bip_39_word_underscore_8: lounge_hold_wise_enact_mix_empty_brief_release
+bip_39_word_underscore_9: lounge_hold_wise_enact_mix_empty_brief_release_lawn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

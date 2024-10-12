@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wreck
+bip_39_word_dash_10: wreck-pride-cricket-pen-fit-spot-vote-mass-snack-spin
+bip_39_word_dash_11: wreck-pride-cricket-pen-fit-spot-vote-mass-snack-spin-entry
+bip_39_word_dash_12: wreck-pride-cricket-pen-fit-spot-vote-mass-snack-spin-entry-angry
+bip_39_word_dash_2: wreck-pride
+bip_39_word_dash_3: wreck-pride-cricket
+bip_39_word_dash_4: wreck-pride-cricket-pen
+bip_39_word_dash_5: wreck-pride-cricket-pen-fit
+bip_39_word_dash_6: wreck-pride-cricket-pen-fit-spot
+bip_39_word_dash_7: wreck-pride-cricket-pen-fit-spot-vote
+bip_39_word_dash_8: wreck-pride-cricket-pen-fit-spot-vote-mass
+bip_39_word_dash_9: wreck-pride-cricket-pen-fit-spot-vote-mass-snack
 bip_39_word_new_br_1: wreck
 bip_39_word_new_br_10: wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin
 bip_39_word_new_br_11: wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin<br>entry
@@ -192,6 +204,18 @@ bip_39_word_space_6: wreck pride cricket pen fit spot
 bip_39_word_space_7: wreck pride cricket pen fit spot vote
 bip_39_word_space_8: wreck pride cricket pen fit spot vote mass
 bip_39_word_space_9: wreck pride cricket pen fit spot vote mass snack
+bip_39_word_underscore_1: wreck
+bip_39_word_underscore_10: wreck_pride_cricket_pen_fit_spot_vote_mass_snack_spin
+bip_39_word_underscore_11: wreck_pride_cricket_pen_fit_spot_vote_mass_snack_spin_entry
+bip_39_word_underscore_12: wreck_pride_cricket_pen_fit_spot_vote_mass_snack_spin_entry_angry
+bip_39_word_underscore_2: wreck_pride
+bip_39_word_underscore_3: wreck_pride_cricket
+bip_39_word_underscore_4: wreck_pride_cricket_pen
+bip_39_word_underscore_5: wreck_pride_cricket_pen_fit
+bip_39_word_underscore_6: wreck_pride_cricket_pen_fit_spot
+bip_39_word_underscore_7: wreck_pride_cricket_pen_fit_spot_vote
+bip_39_word_underscore_8: wreck_pride_cricket_pen_fit_spot_vote_mass
+bip_39_word_underscore_9: wreck_pride_cricket_pen_fit_spot_vote_mass_snack
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

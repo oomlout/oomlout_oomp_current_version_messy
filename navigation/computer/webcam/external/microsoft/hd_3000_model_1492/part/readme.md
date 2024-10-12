@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tool |  
+| bip_39_word_dash_10 | tool-manual-claw-fish-couch-crater-april-car-empty-oak |  
+| bip_39_word_dash_11 | tool-manual-claw-fish-couch-crater-april-car-empty-oak-olympic |  
+| bip_39_word_dash_12 | tool-manual-claw-fish-couch-crater-april-car-empty-oak-olympic-already |  
+| bip_39_word_dash_2 | tool-manual |  
+| bip_39_word_dash_3 | tool-manual-claw |  
+| bip_39_word_dash_4 | tool-manual-claw-fish |  
+| bip_39_word_dash_5 | tool-manual-claw-fish-couch |  
+| bip_39_word_dash_6 | tool-manual-claw-fish-couch-crater |  
+| bip_39_word_dash_7 | tool-manual-claw-fish-couch-crater-april |  
+| bip_39_word_dash_8 | tool-manual-claw-fish-couch-crater-april-car |  
+| bip_39_word_dash_9 | tool-manual-claw-fish-couch-crater-april-car-empty |  
 | bip_39_word_new_br_1 | tool |  
 | bip_39_word_new_br_10 | tool<br>manual<br>claw<br>fish<br>couch<br>crater<br>april<br>car<br>empty<br>oak |  
 | bip_39_word_new_br_11 | tool<br>manual<br>claw<br>fish<br>couch<br>crater<br>april<br>car<br>empty<br>oak<br>olympic |  
@@ -147,6 +159,18 @@ empty |
 | bip_39_word_space_7 | tool manual claw fish couch crater april |  
 | bip_39_word_space_8 | tool manual claw fish couch crater april car |  
 | bip_39_word_space_9 | tool manual claw fish couch crater april car empty |  
+| bip_39_word_underscore_1 | tool |  
+| bip_39_word_underscore_10 | tool_manual_claw_fish_couch_crater_april_car_empty_oak |  
+| bip_39_word_underscore_11 | tool_manual_claw_fish_couch_crater_april_car_empty_oak_olympic |  
+| bip_39_word_underscore_12 | tool_manual_claw_fish_couch_crater_april_car_empty_oak_olympic_already |  
+| bip_39_word_underscore_2 | tool_manual |  
+| bip_39_word_underscore_3 | tool_manual_claw |  
+| bip_39_word_underscore_4 | tool_manual_claw_fish |  
+| bip_39_word_underscore_5 | tool_manual_claw_fish_couch |  
+| bip_39_word_underscore_6 | tool_manual_claw_fish_couch_crater |  
+| bip_39_word_underscore_7 | tool_manual_claw_fish_couch_crater_april |  
+| bip_39_word_underscore_8 | tool_manual_claw_fish_couch_crater_april_car |  
+| bip_39_word_underscore_9 | tool_manual_claw_fish_couch_crater_april_car_empty |  
 | classification | computer |  
 | classification_capital | Computer |  
 | classification_first_letter | c |  

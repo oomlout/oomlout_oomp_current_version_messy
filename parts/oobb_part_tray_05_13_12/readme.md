@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | position |  
+| bip_39_word_dash_10 | position-soon-rude-above-catalog-apology-setup-sheriff-cost-river |  
+| bip_39_word_dash_11 | position-soon-rude-above-catalog-apology-setup-sheriff-cost-river-valve |  
+| bip_39_word_dash_12 | position-soon-rude-above-catalog-apology-setup-sheriff-cost-river-valve-absurd |  
+| bip_39_word_dash_2 | position-soon |  
+| bip_39_word_dash_3 | position-soon-rude |  
+| bip_39_word_dash_4 | position-soon-rude-above |  
+| bip_39_word_dash_5 | position-soon-rude-above-catalog |  
+| bip_39_word_dash_6 | position-soon-rude-above-catalog-apology |  
+| bip_39_word_dash_7 | position-soon-rude-above-catalog-apology-setup |  
+| bip_39_word_dash_8 | position-soon-rude-above-catalog-apology-setup-sheriff |  
+| bip_39_word_dash_9 | position-soon-rude-above-catalog-apology-setup-sheriff-cost |  
 | bip_39_word_new_br_1 | position |  
 | bip_39_word_new_br_10 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff<br>cost<br>river |  
 | bip_39_word_new_br_11 | position<br>soon<br>rude<br>above<br>catalog<br>apology<br>setup<br>sheriff<br>cost<br>river<br>valve |  
@@ -147,6 +159,18 @@ cost |
 | bip_39_word_space_7 | position soon rude above catalog apology setup |  
 | bip_39_word_space_8 | position soon rude above catalog apology setup sheriff |  
 | bip_39_word_space_9 | position soon rude above catalog apology setup sheriff cost |  
+| bip_39_word_underscore_1 | position |  
+| bip_39_word_underscore_10 | position_soon_rude_above_catalog_apology_setup_sheriff_cost_river |  
+| bip_39_word_underscore_11 | position_soon_rude_above_catalog_apology_setup_sheriff_cost_river_valve |  
+| bip_39_word_underscore_12 | position_soon_rude_above_catalog_apology_setup_sheriff_cost_river_valve_absurd |  
+| bip_39_word_underscore_2 | position_soon |  
+| bip_39_word_underscore_3 | position_soon_rude |  
+| bip_39_word_underscore_4 | position_soon_rude_above |  
+| bip_39_word_underscore_5 | position_soon_rude_above_catalog |  
+| bip_39_word_underscore_6 | position_soon_rude_above_catalog_apology |  
+| bip_39_word_underscore_7 | position_soon_rude_above_catalog_apology_setup |  
+| bip_39_word_underscore_8 | position_soon_rude_above_catalog_apology_setup_sheriff |  
+| bip_39_word_underscore_9 | position_soon_rude_above_catalog_apology_setup_sheriff_cost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

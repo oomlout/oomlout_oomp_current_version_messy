@@ -1,3 +1,15 @@
+bip_39_word_dash_1: web
+bip_39_word_dash_10: web-jelly-swarm-slab-right-muscle-whisper-divide-ugly-salad
+bip_39_word_dash_11: web-jelly-swarm-slab-right-muscle-whisper-divide-ugly-salad-arrest
+bip_39_word_dash_12: web-jelly-swarm-slab-right-muscle-whisper-divide-ugly-salad-arrest-absent
+bip_39_word_dash_2: web-jelly
+bip_39_word_dash_3: web-jelly-swarm
+bip_39_word_dash_4: web-jelly-swarm-slab
+bip_39_word_dash_5: web-jelly-swarm-slab-right
+bip_39_word_dash_6: web-jelly-swarm-slab-right-muscle
+bip_39_word_dash_7: web-jelly-swarm-slab-right-muscle-whisper
+bip_39_word_dash_8: web-jelly-swarm-slab-right-muscle-whisper-divide
+bip_39_word_dash_9: web-jelly-swarm-slab-right-muscle-whisper-divide-ugly
 bip_39_word_new_br_1: web
 bip_39_word_new_br_10: web<br>jelly<br>swarm<br>slab<br>right<br>muscle<br>whisper<br>divide<br>ugly<br>salad
 bip_39_word_new_br_11: web<br>jelly<br>swarm<br>slab<br>right<br>muscle<br>whisper<br>divide<br>ugly<br>salad<br>arrest
@@ -193,6 +205,18 @@ bip_39_word_space_6: web jelly swarm slab right muscle
 bip_39_word_space_7: web jelly swarm slab right muscle whisper
 bip_39_word_space_8: web jelly swarm slab right muscle whisper divide
 bip_39_word_space_9: web jelly swarm slab right muscle whisper divide ugly
+bip_39_word_underscore_1: web
+bip_39_word_underscore_10: web_jelly_swarm_slab_right_muscle_whisper_divide_ugly_salad
+bip_39_word_underscore_11: web_jelly_swarm_slab_right_muscle_whisper_divide_ugly_salad_arrest
+bip_39_word_underscore_12: web_jelly_swarm_slab_right_muscle_whisper_divide_ugly_salad_arrest_absent
+bip_39_word_underscore_2: web_jelly
+bip_39_word_underscore_3: web_jelly_swarm
+bip_39_word_underscore_4: web_jelly_swarm_slab
+bip_39_word_underscore_5: web_jelly_swarm_slab_right
+bip_39_word_underscore_6: web_jelly_swarm_slab_right_muscle
+bip_39_word_underscore_7: web_jelly_swarm_slab_right_muscle_whisper
+bip_39_word_underscore_8: web_jelly_swarm_slab_right_muscle_whisper_divide
+bip_39_word_underscore_9: web_jelly_swarm_slab_right_muscle_whisper_divide_ugly
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

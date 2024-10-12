@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | chest |  
+| bip_39_word_dash_10 | chest-afford-skill-midnight-multiply-bleak-armor-neutral-option-icon |  
+| bip_39_word_dash_11 | chest-afford-skill-midnight-multiply-bleak-armor-neutral-option-icon-eye |  
+| bip_39_word_dash_12 | chest-afford-skill-midnight-multiply-bleak-armor-neutral-option-icon-eye-artwork |  
+| bip_39_word_dash_2 | chest-afford |  
+| bip_39_word_dash_3 | chest-afford-skill |  
+| bip_39_word_dash_4 | chest-afford-skill-midnight |  
+| bip_39_word_dash_5 | chest-afford-skill-midnight-multiply |  
+| bip_39_word_dash_6 | chest-afford-skill-midnight-multiply-bleak |  
+| bip_39_word_dash_7 | chest-afford-skill-midnight-multiply-bleak-armor |  
+| bip_39_word_dash_8 | chest-afford-skill-midnight-multiply-bleak-armor-neutral |  
+| bip_39_word_dash_9 | chest-afford-skill-midnight-multiply-bleak-armor-neutral-option |  
 | bip_39_word_new_br_1 | chest |  
 | bip_39_word_new_br_10 | chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral<br>option<br>icon |  
 | bip_39_word_new_br_11 | chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral<br>option<br>icon<br>eye |  
@@ -147,6 +159,18 @@ option |
 | bip_39_word_space_7 | chest afford skill midnight multiply bleak armor |  
 | bip_39_word_space_8 | chest afford skill midnight multiply bleak armor neutral |  
 | bip_39_word_space_9 | chest afford skill midnight multiply bleak armor neutral option |  
+| bip_39_word_underscore_1 | chest |  
+| bip_39_word_underscore_10 | chest_afford_skill_midnight_multiply_bleak_armor_neutral_option_icon |  
+| bip_39_word_underscore_11 | chest_afford_skill_midnight_multiply_bleak_armor_neutral_option_icon_eye |  
+| bip_39_word_underscore_12 | chest_afford_skill_midnight_multiply_bleak_armor_neutral_option_icon_eye_artwork |  
+| bip_39_word_underscore_2 | chest_afford |  
+| bip_39_word_underscore_3 | chest_afford_skill |  
+| bip_39_word_underscore_4 | chest_afford_skill_midnight |  
+| bip_39_word_underscore_5 | chest_afford_skill_midnight_multiply |  
+| bip_39_word_underscore_6 | chest_afford_skill_midnight_multiply_bleak |  
+| bip_39_word_underscore_7 | chest_afford_skill_midnight_multiply_bleak_armor |  
+| bip_39_word_underscore_8 | chest_afford_skill_midnight_multiply_bleak_armor_neutral |  
+| bip_39_word_underscore_9 | chest_afford_skill_midnight_multiply_bleak_armor_neutral_option |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

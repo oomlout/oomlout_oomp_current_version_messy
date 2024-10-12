@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | habit |  
+| bip_39_word_dash_10 | habit-dolphin-situate-attract-champion-march-recycle-science-execute-horse |  
+| bip_39_word_dash_11 | habit-dolphin-situate-attract-champion-march-recycle-science-execute-horse-lizard |  
+| bip_39_word_dash_12 | habit-dolphin-situate-attract-champion-march-recycle-science-execute-horse-lizard-artwork |  
+| bip_39_word_dash_2 | habit-dolphin |  
+| bip_39_word_dash_3 | habit-dolphin-situate |  
+| bip_39_word_dash_4 | habit-dolphin-situate-attract |  
+| bip_39_word_dash_5 | habit-dolphin-situate-attract-champion |  
+| bip_39_word_dash_6 | habit-dolphin-situate-attract-champion-march |  
+| bip_39_word_dash_7 | habit-dolphin-situate-attract-champion-march-recycle |  
+| bip_39_word_dash_8 | habit-dolphin-situate-attract-champion-march-recycle-science |  
+| bip_39_word_dash_9 | habit-dolphin-situate-attract-champion-march-recycle-science-execute |  
 | bip_39_word_new_br_1 | habit |  
 | bip_39_word_new_br_10 | habit<br>dolphin<br>situate<br>attract<br>champion<br>march<br>recycle<br>science<br>execute<br>horse |  
 | bip_39_word_new_br_11 | habit<br>dolphin<br>situate<br>attract<br>champion<br>march<br>recycle<br>science<br>execute<br>horse<br>lizard |  
@@ -147,6 +159,18 @@ execute |
 | bip_39_word_space_7 | habit dolphin situate attract champion march recycle |  
 | bip_39_word_space_8 | habit dolphin situate attract champion march recycle science |  
 | bip_39_word_space_9 | habit dolphin situate attract champion march recycle science execute |  
+| bip_39_word_underscore_1 | habit |  
+| bip_39_word_underscore_10 | habit_dolphin_situate_attract_champion_march_recycle_science_execute_horse |  
+| bip_39_word_underscore_11 | habit_dolphin_situate_attract_champion_march_recycle_science_execute_horse_lizard |  
+| bip_39_word_underscore_12 | habit_dolphin_situate_attract_champion_march_recycle_science_execute_horse_lizard_artwork |  
+| bip_39_word_underscore_2 | habit_dolphin |  
+| bip_39_word_underscore_3 | habit_dolphin_situate |  
+| bip_39_word_underscore_4 | habit_dolphin_situate_attract |  
+| bip_39_word_underscore_5 | habit_dolphin_situate_attract_champion |  
+| bip_39_word_underscore_6 | habit_dolphin_situate_attract_champion_march |  
+| bip_39_word_underscore_7 | habit_dolphin_situate_attract_champion_march_recycle |  
+| bip_39_word_underscore_8 | habit_dolphin_situate_attract_champion_march_recycle_science |  
+| bip_39_word_underscore_9 | habit_dolphin_situate_attract_champion_march_recycle_science_execute |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

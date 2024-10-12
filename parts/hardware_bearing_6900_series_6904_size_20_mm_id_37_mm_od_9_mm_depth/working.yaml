@@ -1,3 +1,15 @@
+bip_39_word_dash_1: height
+bip_39_word_dash_10: height-bronze-cross-now-stem-shiver-father-crouch-scrub-when
+bip_39_word_dash_11: height-bronze-cross-now-stem-shiver-father-crouch-scrub-when-install
+bip_39_word_dash_12: height-bronze-cross-now-stem-shiver-father-crouch-scrub-when-install-any
+bip_39_word_dash_2: height-bronze
+bip_39_word_dash_3: height-bronze-cross
+bip_39_word_dash_4: height-bronze-cross-now
+bip_39_word_dash_5: height-bronze-cross-now-stem
+bip_39_word_dash_6: height-bronze-cross-now-stem-shiver
+bip_39_word_dash_7: height-bronze-cross-now-stem-shiver-father
+bip_39_word_dash_8: height-bronze-cross-now-stem-shiver-father-crouch
+bip_39_word_dash_9: height-bronze-cross-now-stem-shiver-father-crouch-scrub
 bip_39_word_new_br_1: height
 bip_39_word_new_br_10: height<br>bronze<br>cross<br>now<br>stem<br>shiver<br>father<br>crouch<br>scrub<br>when
 bip_39_word_new_br_11: height<br>bronze<br>cross<br>now<br>stem<br>shiver<br>father<br>crouch<br>scrub<br>when<br>install
@@ -193,6 +205,18 @@ bip_39_word_space_6: height bronze cross now stem shiver
 bip_39_word_space_7: height bronze cross now stem shiver father
 bip_39_word_space_8: height bronze cross now stem shiver father crouch
 bip_39_word_space_9: height bronze cross now stem shiver father crouch scrub
+bip_39_word_underscore_1: height
+bip_39_word_underscore_10: height_bronze_cross_now_stem_shiver_father_crouch_scrub_when
+bip_39_word_underscore_11: height_bronze_cross_now_stem_shiver_father_crouch_scrub_when_install
+bip_39_word_underscore_12: height_bronze_cross_now_stem_shiver_father_crouch_scrub_when_install_any
+bip_39_word_underscore_2: height_bronze
+bip_39_word_underscore_3: height_bronze_cross
+bip_39_word_underscore_4: height_bronze_cross_now
+bip_39_word_underscore_5: height_bronze_cross_now_stem
+bip_39_word_underscore_6: height_bronze_cross_now_stem_shiver
+bip_39_word_underscore_7: height_bronze_cross_now_stem_shiver_father
+bip_39_word_underscore_8: height_bronze_cross_now_stem_shiver_father_crouch
+bip_39_word_underscore_9: height_bronze_cross_now_stem_shiver_father_crouch_scrub
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

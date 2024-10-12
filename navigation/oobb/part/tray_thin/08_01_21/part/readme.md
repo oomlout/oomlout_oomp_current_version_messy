@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | share |  
+| bip_39_word_dash_10 | share-stay-vicious-popular-catalog-cherry-regular-taxi-stuff-sport |  
+| bip_39_word_dash_11 | share-stay-vicious-popular-catalog-cherry-regular-taxi-stuff-sport-goddess |  
+| bip_39_word_dash_12 | share-stay-vicious-popular-catalog-cherry-regular-taxi-stuff-sport-goddess-another |  
+| bip_39_word_dash_2 | share-stay |  
+| bip_39_word_dash_3 | share-stay-vicious |  
+| bip_39_word_dash_4 | share-stay-vicious-popular |  
+| bip_39_word_dash_5 | share-stay-vicious-popular-catalog |  
+| bip_39_word_dash_6 | share-stay-vicious-popular-catalog-cherry |  
+| bip_39_word_dash_7 | share-stay-vicious-popular-catalog-cherry-regular |  
+| bip_39_word_dash_8 | share-stay-vicious-popular-catalog-cherry-regular-taxi |  
+| bip_39_word_dash_9 | share-stay-vicious-popular-catalog-cherry-regular-taxi-stuff |  
 | bip_39_word_new_br_1 | share |  
 | bip_39_word_new_br_10 | share<br>stay<br>vicious<br>popular<br>catalog<br>cherry<br>regular<br>taxi<br>stuff<br>sport |  
 | bip_39_word_new_br_11 | share<br>stay<br>vicious<br>popular<br>catalog<br>cherry<br>regular<br>taxi<br>stuff<br>sport<br>goddess |  
@@ -147,6 +159,18 @@ stuff |
 | bip_39_word_space_7 | share stay vicious popular catalog cherry regular |  
 | bip_39_word_space_8 | share stay vicious popular catalog cherry regular taxi |  
 | bip_39_word_space_9 | share stay vicious popular catalog cherry regular taxi stuff |  
+| bip_39_word_underscore_1 | share |  
+| bip_39_word_underscore_10 | share_stay_vicious_popular_catalog_cherry_regular_taxi_stuff_sport |  
+| bip_39_word_underscore_11 | share_stay_vicious_popular_catalog_cherry_regular_taxi_stuff_sport_goddess |  
+| bip_39_word_underscore_12 | share_stay_vicious_popular_catalog_cherry_regular_taxi_stuff_sport_goddess_another |  
+| bip_39_word_underscore_2 | share_stay |  
+| bip_39_word_underscore_3 | share_stay_vicious |  
+| bip_39_word_underscore_4 | share_stay_vicious_popular |  
+| bip_39_word_underscore_5 | share_stay_vicious_popular_catalog |  
+| bip_39_word_underscore_6 | share_stay_vicious_popular_catalog_cherry |  
+| bip_39_word_underscore_7 | share_stay_vicious_popular_catalog_cherry_regular |  
+| bip_39_word_underscore_8 | share_stay_vicious_popular_catalog_cherry_regular_taxi |  
+| bip_39_word_underscore_9 | share_stay_vicious_popular_catalog_cherry_regular_taxi_stuff |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

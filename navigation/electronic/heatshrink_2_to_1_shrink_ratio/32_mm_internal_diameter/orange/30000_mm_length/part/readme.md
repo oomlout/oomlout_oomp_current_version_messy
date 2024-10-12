@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | street |  
+| bip_39_word_dash_10 | street-panel-coffee-rug-employ-mistake-swap-upset-exile-draw |  
+| bip_39_word_dash_11 | street-panel-coffee-rug-employ-mistake-swap-upset-exile-draw-mother |  
+| bip_39_word_dash_12 | street-panel-coffee-rug-employ-mistake-swap-upset-exile-draw-mother-alley |  
+| bip_39_word_dash_2 | street-panel |  
+| bip_39_word_dash_3 | street-panel-coffee |  
+| bip_39_word_dash_4 | street-panel-coffee-rug |  
+| bip_39_word_dash_5 | street-panel-coffee-rug-employ |  
+| bip_39_word_dash_6 | street-panel-coffee-rug-employ-mistake |  
+| bip_39_word_dash_7 | street-panel-coffee-rug-employ-mistake-swap |  
+| bip_39_word_dash_8 | street-panel-coffee-rug-employ-mistake-swap-upset |  
+| bip_39_word_dash_9 | street-panel-coffee-rug-employ-mistake-swap-upset-exile |  
 | bip_39_word_new_br_1 | street |  
 | bip_39_word_new_br_10 | street<br>panel<br>coffee<br>rug<br>employ<br>mistake<br>swap<br>upset<br>exile<br>draw |  
 | bip_39_word_new_br_11 | street<br>panel<br>coffee<br>rug<br>employ<br>mistake<br>swap<br>upset<br>exile<br>draw<br>mother |  
@@ -147,6 +159,18 @@ exile |
 | bip_39_word_space_7 | street panel coffee rug employ mistake swap |  
 | bip_39_word_space_8 | street panel coffee rug employ mistake swap upset |  
 | bip_39_word_space_9 | street panel coffee rug employ mistake swap upset exile |  
+| bip_39_word_underscore_1 | street |  
+| bip_39_word_underscore_10 | street_panel_coffee_rug_employ_mistake_swap_upset_exile_draw |  
+| bip_39_word_underscore_11 | street_panel_coffee_rug_employ_mistake_swap_upset_exile_draw_mother |  
+| bip_39_word_underscore_12 | street_panel_coffee_rug_employ_mistake_swap_upset_exile_draw_mother_alley |  
+| bip_39_word_underscore_2 | street_panel |  
+| bip_39_word_underscore_3 | street_panel_coffee |  
+| bip_39_word_underscore_4 | street_panel_coffee_rug |  
+| bip_39_word_underscore_5 | street_panel_coffee_rug_employ |  
+| bip_39_word_underscore_6 | street_panel_coffee_rug_employ_mistake |  
+| bip_39_word_underscore_7 | street_panel_coffee_rug_employ_mistake_swap |  
+| bip_39_word_underscore_8 | street_panel_coffee_rug_employ_mistake_swap_upset |  
+| bip_39_word_underscore_9 | street_panel_coffee_rug_employ_mistake_swap_upset_exile |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

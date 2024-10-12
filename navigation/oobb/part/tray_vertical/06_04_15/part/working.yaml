@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unit
+bip_39_word_dash_10: unit-praise-drink-seed-under-never-guess-thank-broccoli-stand
+bip_39_word_dash_11: unit-praise-drink-seed-under-never-guess-thank-broccoli-stand-traffic
+bip_39_word_dash_12: unit-praise-drink-seed-under-never-guess-thank-broccoli-stand-traffic-arrange
+bip_39_word_dash_2: unit-praise
+bip_39_word_dash_3: unit-praise-drink
+bip_39_word_dash_4: unit-praise-drink-seed
+bip_39_word_dash_5: unit-praise-drink-seed-under
+bip_39_word_dash_6: unit-praise-drink-seed-under-never
+bip_39_word_dash_7: unit-praise-drink-seed-under-never-guess
+bip_39_word_dash_8: unit-praise-drink-seed-under-never-guess-thank
+bip_39_word_dash_9: unit-praise-drink-seed-under-never-guess-thank-broccoli
 bip_39_word_new_br_1: unit
 bip_39_word_new_br_10: unit<br>praise<br>drink<br>seed<br>under<br>never<br>guess<br>thank<br>broccoli<br>stand
 bip_39_word_new_br_11: unit<br>praise<br>drink<br>seed<br>under<br>never<br>guess<br>thank<br>broccoli<br>stand<br>traffic
@@ -193,6 +205,18 @@ bip_39_word_space_6: unit praise drink seed under never
 bip_39_word_space_7: unit praise drink seed under never guess
 bip_39_word_space_8: unit praise drink seed under never guess thank
 bip_39_word_space_9: unit praise drink seed under never guess thank broccoli
+bip_39_word_underscore_1: unit
+bip_39_word_underscore_10: unit_praise_drink_seed_under_never_guess_thank_broccoli_stand
+bip_39_word_underscore_11: unit_praise_drink_seed_under_never_guess_thank_broccoli_stand_traffic
+bip_39_word_underscore_12: unit_praise_drink_seed_under_never_guess_thank_broccoli_stand_traffic_arrange
+bip_39_word_underscore_2: unit_praise
+bip_39_word_underscore_3: unit_praise_drink
+bip_39_word_underscore_4: unit_praise_drink_seed
+bip_39_word_underscore_5: unit_praise_drink_seed_under
+bip_39_word_underscore_6: unit_praise_drink_seed_under_never
+bip_39_word_underscore_7: unit_praise_drink_seed_under_never_guess
+bip_39_word_underscore_8: unit_praise_drink_seed_under_never_guess_thank
+bip_39_word_underscore_9: unit_praise_drink_seed_under_never_guess_thank_broccoli
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

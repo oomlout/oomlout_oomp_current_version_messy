@@ -1,3 +1,15 @@
+bip_39_word_dash_1: episode
+bip_39_word_dash_10: episode-tone-unusual-neither-crawl-quick-click-traffic-runway-boost
+bip_39_word_dash_11: episode-tone-unusual-neither-crawl-quick-click-traffic-runway-boost-advance
+bip_39_word_dash_12: episode-tone-unusual-neither-crawl-quick-click-traffic-runway-boost-advance-around
+bip_39_word_dash_2: episode-tone
+bip_39_word_dash_3: episode-tone-unusual
+bip_39_word_dash_4: episode-tone-unusual-neither
+bip_39_word_dash_5: episode-tone-unusual-neither-crawl
+bip_39_word_dash_6: episode-tone-unusual-neither-crawl-quick
+bip_39_word_dash_7: episode-tone-unusual-neither-crawl-quick-click
+bip_39_word_dash_8: episode-tone-unusual-neither-crawl-quick-click-traffic
+bip_39_word_dash_9: episode-tone-unusual-neither-crawl-quick-click-traffic-runway
 bip_39_word_new_br_1: episode
 bip_39_word_new_br_10: episode<br>tone<br>unusual<br>neither<br>crawl<br>quick<br>click<br>traffic<br>runway<br>boost
 bip_39_word_new_br_11: episode<br>tone<br>unusual<br>neither<br>crawl<br>quick<br>click<br>traffic<br>runway<br>boost<br>advance
@@ -194,6 +206,18 @@ bip_39_word_space_6: episode tone unusual neither crawl quick
 bip_39_word_space_7: episode tone unusual neither crawl quick click
 bip_39_word_space_8: episode tone unusual neither crawl quick click traffic
 bip_39_word_space_9: episode tone unusual neither crawl quick click traffic runway
+bip_39_word_underscore_1: episode
+bip_39_word_underscore_10: episode_tone_unusual_neither_crawl_quick_click_traffic_runway_boost
+bip_39_word_underscore_11: episode_tone_unusual_neither_crawl_quick_click_traffic_runway_boost_advance
+bip_39_word_underscore_12: episode_tone_unusual_neither_crawl_quick_click_traffic_runway_boost_advance_around
+bip_39_word_underscore_2: episode_tone
+bip_39_word_underscore_3: episode_tone_unusual
+bip_39_word_underscore_4: episode_tone_unusual_neither
+bip_39_word_underscore_5: episode_tone_unusual_neither_crawl
+bip_39_word_underscore_6: episode_tone_unusual_neither_crawl_quick
+bip_39_word_underscore_7: episode_tone_unusual_neither_crawl_quick_click
+bip_39_word_underscore_8: episode_tone_unusual_neither_crawl_quick_click_traffic
+bip_39_word_underscore_9: episode_tone_unusual_neither_crawl_quick_click_traffic_runway
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

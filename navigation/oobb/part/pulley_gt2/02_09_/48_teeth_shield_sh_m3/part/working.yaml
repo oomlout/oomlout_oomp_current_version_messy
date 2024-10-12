@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rebel
+bip_39_word_dash_10: rebel-buffalo-common-eyebrow-inject-include-grab-slogan-pencil-bicycle
+bip_39_word_dash_11: rebel-buffalo-common-eyebrow-inject-include-grab-slogan-pencil-bicycle-dice
+bip_39_word_dash_12: rebel-buffalo-common-eyebrow-inject-include-grab-slogan-pencil-bicycle-dice-abstract
+bip_39_word_dash_2: rebel-buffalo
+bip_39_word_dash_3: rebel-buffalo-common
+bip_39_word_dash_4: rebel-buffalo-common-eyebrow
+bip_39_word_dash_5: rebel-buffalo-common-eyebrow-inject
+bip_39_word_dash_6: rebel-buffalo-common-eyebrow-inject-include
+bip_39_word_dash_7: rebel-buffalo-common-eyebrow-inject-include-grab
+bip_39_word_dash_8: rebel-buffalo-common-eyebrow-inject-include-grab-slogan
+bip_39_word_dash_9: rebel-buffalo-common-eyebrow-inject-include-grab-slogan-pencil
 bip_39_word_new_br_1: rebel
 bip_39_word_new_br_10: rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan<br>pencil<br>bicycle
 bip_39_word_new_br_11: rebel<br>buffalo<br>common<br>eyebrow<br>inject<br>include<br>grab<br>slogan<br>pencil<br>bicycle<br>dice
@@ -194,6 +206,18 @@ bip_39_word_space_6: rebel buffalo common eyebrow inject include
 bip_39_word_space_7: rebel buffalo common eyebrow inject include grab
 bip_39_word_space_8: rebel buffalo common eyebrow inject include grab slogan
 bip_39_word_space_9: rebel buffalo common eyebrow inject include grab slogan pencil
+bip_39_word_underscore_1: rebel
+bip_39_word_underscore_10: rebel_buffalo_common_eyebrow_inject_include_grab_slogan_pencil_bicycle
+bip_39_word_underscore_11: rebel_buffalo_common_eyebrow_inject_include_grab_slogan_pencil_bicycle_dice
+bip_39_word_underscore_12: rebel_buffalo_common_eyebrow_inject_include_grab_slogan_pencil_bicycle_dice_abstract
+bip_39_word_underscore_2: rebel_buffalo
+bip_39_word_underscore_3: rebel_buffalo_common
+bip_39_word_underscore_4: rebel_buffalo_common_eyebrow
+bip_39_word_underscore_5: rebel_buffalo_common_eyebrow_inject
+bip_39_word_underscore_6: rebel_buffalo_common_eyebrow_inject_include
+bip_39_word_underscore_7: rebel_buffalo_common_eyebrow_inject_include_grab
+bip_39_word_underscore_8: rebel_buffalo_common_eyebrow_inject_include_grab_slogan
+bip_39_word_underscore_9: rebel_buffalo_common_eyebrow_inject_include_grab_slogan_pencil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

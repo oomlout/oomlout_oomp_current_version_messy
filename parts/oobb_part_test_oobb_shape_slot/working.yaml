@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cheap
+bip_39_word_dash_10: cheap-style-loud-genius-sick-steak-proud-car-story-witness
+bip_39_word_dash_11: cheap-style-loud-genius-sick-steak-proud-car-story-witness-west
+bip_39_word_dash_12: cheap-style-loud-genius-sick-steak-proud-car-story-witness-west-act
+bip_39_word_dash_2: cheap-style
+bip_39_word_dash_3: cheap-style-loud
+bip_39_word_dash_4: cheap-style-loud-genius
+bip_39_word_dash_5: cheap-style-loud-genius-sick
+bip_39_word_dash_6: cheap-style-loud-genius-sick-steak
+bip_39_word_dash_7: cheap-style-loud-genius-sick-steak-proud
+bip_39_word_dash_8: cheap-style-loud-genius-sick-steak-proud-car
+bip_39_word_dash_9: cheap-style-loud-genius-sick-steak-proud-car-story
 bip_39_word_new_br_1: cheap
 bip_39_word_new_br_10: cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness
 bip_39_word_new_br_11: cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness<br>west
@@ -192,6 +204,18 @@ bip_39_word_space_6: cheap style loud genius sick steak
 bip_39_word_space_7: cheap style loud genius sick steak proud
 bip_39_word_space_8: cheap style loud genius sick steak proud car
 bip_39_word_space_9: cheap style loud genius sick steak proud car story
+bip_39_word_underscore_1: cheap
+bip_39_word_underscore_10: cheap_style_loud_genius_sick_steak_proud_car_story_witness
+bip_39_word_underscore_11: cheap_style_loud_genius_sick_steak_proud_car_story_witness_west
+bip_39_word_underscore_12: cheap_style_loud_genius_sick_steak_proud_car_story_witness_west_act
+bip_39_word_underscore_2: cheap_style
+bip_39_word_underscore_3: cheap_style_loud
+bip_39_word_underscore_4: cheap_style_loud_genius
+bip_39_word_underscore_5: cheap_style_loud_genius_sick
+bip_39_word_underscore_6: cheap_style_loud_genius_sick_steak
+bip_39_word_underscore_7: cheap_style_loud_genius_sick_steak_proud
+bip_39_word_underscore_8: cheap_style_loud_genius_sick_steak_proud_car
+bip_39_word_underscore_9: cheap_style_loud_genius_sick_steak_proud_car_story
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

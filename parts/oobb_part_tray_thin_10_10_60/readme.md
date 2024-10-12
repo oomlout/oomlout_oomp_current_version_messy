@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | daughter |  
+| bip_39_word_dash_10 | daughter-vibrant-oil-marble-breeze-rely-demand-august-comfort-concert |  
+| bip_39_word_dash_11 | daughter-vibrant-oil-marble-breeze-rely-demand-august-comfort-concert-gaze |  
+| bip_39_word_dash_12 | daughter-vibrant-oil-marble-breeze-rely-demand-august-comfort-concert-gaze-already |  
+| bip_39_word_dash_2 | daughter-vibrant |  
+| bip_39_word_dash_3 | daughter-vibrant-oil |  
+| bip_39_word_dash_4 | daughter-vibrant-oil-marble |  
+| bip_39_word_dash_5 | daughter-vibrant-oil-marble-breeze |  
+| bip_39_word_dash_6 | daughter-vibrant-oil-marble-breeze-rely |  
+| bip_39_word_dash_7 | daughter-vibrant-oil-marble-breeze-rely-demand |  
+| bip_39_word_dash_8 | daughter-vibrant-oil-marble-breeze-rely-demand-august |  
+| bip_39_word_dash_9 | daughter-vibrant-oil-marble-breeze-rely-demand-august-comfort |  
 | bip_39_word_new_br_1 | daughter |  
 | bip_39_word_new_br_10 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert |  
 | bip_39_word_new_br_11 | daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert<br>gaze |  
@@ -147,6 +159,18 @@ comfort |
 | bip_39_word_space_7 | daughter vibrant oil marble breeze rely demand |  
 | bip_39_word_space_8 | daughter vibrant oil marble breeze rely demand august |  
 | bip_39_word_space_9 | daughter vibrant oil marble breeze rely demand august comfort |  
+| bip_39_word_underscore_1 | daughter |  
+| bip_39_word_underscore_10 | daughter_vibrant_oil_marble_breeze_rely_demand_august_comfort_concert |  
+| bip_39_word_underscore_11 | daughter_vibrant_oil_marble_breeze_rely_demand_august_comfort_concert_gaze |  
+| bip_39_word_underscore_12 | daughter_vibrant_oil_marble_breeze_rely_demand_august_comfort_concert_gaze_already |  
+| bip_39_word_underscore_2 | daughter_vibrant |  
+| bip_39_word_underscore_3 | daughter_vibrant_oil |  
+| bip_39_word_underscore_4 | daughter_vibrant_oil_marble |  
+| bip_39_word_underscore_5 | daughter_vibrant_oil_marble_breeze |  
+| bip_39_word_underscore_6 | daughter_vibrant_oil_marble_breeze_rely |  
+| bip_39_word_underscore_7 | daughter_vibrant_oil_marble_breeze_rely_demand |  
+| bip_39_word_underscore_8 | daughter_vibrant_oil_marble_breeze_rely_demand_august |  
+| bip_39_word_underscore_9 | daughter_vibrant_oil_marble_breeze_rely_demand_august_comfort |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | spider |  
+| bip_39_word_dash_10 | spider-fall-swear-surge-near-inhale-pattern-target-walk-antenna |  
+| bip_39_word_dash_11 | spider-fall-swear-surge-near-inhale-pattern-target-walk-antenna-try |  
+| bip_39_word_dash_12 | spider-fall-swear-surge-near-inhale-pattern-target-walk-antenna-try-amused |  
+| bip_39_word_dash_2 | spider-fall |  
+| bip_39_word_dash_3 | spider-fall-swear |  
+| bip_39_word_dash_4 | spider-fall-swear-surge |  
+| bip_39_word_dash_5 | spider-fall-swear-surge-near |  
+| bip_39_word_dash_6 | spider-fall-swear-surge-near-inhale |  
+| bip_39_word_dash_7 | spider-fall-swear-surge-near-inhale-pattern |  
+| bip_39_word_dash_8 | spider-fall-swear-surge-near-inhale-pattern-target |  
+| bip_39_word_dash_9 | spider-fall-swear-surge-near-inhale-pattern-target-walk |  
 | bip_39_word_new_br_1 | spider |  
 | bip_39_word_new_br_10 | spider<br>fall<br>swear<br>surge<br>near<br>inhale<br>pattern<br>target<br>walk<br>antenna |  
 | bip_39_word_new_br_11 | spider<br>fall<br>swear<br>surge<br>near<br>inhale<br>pattern<br>target<br>walk<br>antenna<br>try |  
@@ -147,6 +159,18 @@ walk |
 | bip_39_word_space_7 | spider fall swear surge near inhale pattern |  
 | bip_39_word_space_8 | spider fall swear surge near inhale pattern target |  
 | bip_39_word_space_9 | spider fall swear surge near inhale pattern target walk |  
+| bip_39_word_underscore_1 | spider |  
+| bip_39_word_underscore_10 | spider_fall_swear_surge_near_inhale_pattern_target_walk_antenna |  
+| bip_39_word_underscore_11 | spider_fall_swear_surge_near_inhale_pattern_target_walk_antenna_try |  
+| bip_39_word_underscore_12 | spider_fall_swear_surge_near_inhale_pattern_target_walk_antenna_try_amused |  
+| bip_39_word_underscore_2 | spider_fall |  
+| bip_39_word_underscore_3 | spider_fall_swear |  
+| bip_39_word_underscore_4 | spider_fall_swear_surge |  
+| bip_39_word_underscore_5 | spider_fall_swear_surge_near |  
+| bip_39_word_underscore_6 | spider_fall_swear_surge_near_inhale |  
+| bip_39_word_underscore_7 | spider_fall_swear_surge_near_inhale_pattern |  
+| bip_39_word_underscore_8 | spider_fall_swear_surge_near_inhale_pattern_target |  
+| bip_39_word_underscore_9 | spider_fall_swear_surge_near_inhale_pattern_target_walk |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

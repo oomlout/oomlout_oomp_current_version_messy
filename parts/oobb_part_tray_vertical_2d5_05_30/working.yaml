@@ -1,3 +1,15 @@
+bip_39_word_dash_1: acoustic
+bip_39_word_dash_10: acoustic-soup-load-base-tattoo-expose-wedding-they-solution-comfort
+bip_39_word_dash_11: acoustic-soup-load-base-tattoo-expose-wedding-they-solution-comfort-duty
+bip_39_word_dash_12: acoustic-soup-load-base-tattoo-expose-wedding-they-solution-comfort-duty-able
+bip_39_word_dash_2: acoustic-soup
+bip_39_word_dash_3: acoustic-soup-load
+bip_39_word_dash_4: acoustic-soup-load-base
+bip_39_word_dash_5: acoustic-soup-load-base-tattoo
+bip_39_word_dash_6: acoustic-soup-load-base-tattoo-expose
+bip_39_word_dash_7: acoustic-soup-load-base-tattoo-expose-wedding
+bip_39_word_dash_8: acoustic-soup-load-base-tattoo-expose-wedding-they
+bip_39_word_dash_9: acoustic-soup-load-base-tattoo-expose-wedding-they-solution
 bip_39_word_new_br_1: acoustic
 bip_39_word_new_br_10: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort
 bip_39_word_new_br_11: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort<br>duty
@@ -194,6 +206,18 @@ bip_39_word_space_6: acoustic soup load base tattoo expose
 bip_39_word_space_7: acoustic soup load base tattoo expose wedding
 bip_39_word_space_8: acoustic soup load base tattoo expose wedding they
 bip_39_word_space_9: acoustic soup load base tattoo expose wedding they solution
+bip_39_word_underscore_1: acoustic
+bip_39_word_underscore_10: acoustic_soup_load_base_tattoo_expose_wedding_they_solution_comfort
+bip_39_word_underscore_11: acoustic_soup_load_base_tattoo_expose_wedding_they_solution_comfort_duty
+bip_39_word_underscore_12: acoustic_soup_load_base_tattoo_expose_wedding_they_solution_comfort_duty_able
+bip_39_word_underscore_2: acoustic_soup
+bip_39_word_underscore_3: acoustic_soup_load
+bip_39_word_underscore_4: acoustic_soup_load_base
+bip_39_word_underscore_5: acoustic_soup_load_base_tattoo
+bip_39_word_underscore_6: acoustic_soup_load_base_tattoo_expose
+bip_39_word_underscore_7: acoustic_soup_load_base_tattoo_expose_wedding
+bip_39_word_underscore_8: acoustic_soup_load_base_tattoo_expose_wedding_they
+bip_39_word_underscore_9: acoustic_soup_load_base_tattoo_expose_wedding_they_solution
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

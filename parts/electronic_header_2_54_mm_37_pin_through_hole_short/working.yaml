@@ -1,3 +1,15 @@
+bip_39_word_dash_1: law
+bip_39_word_dash_10: law-salt-pudding-reform-forget-over-tape-reunion-base-thank
+bip_39_word_dash_11: law-salt-pudding-reform-forget-over-tape-reunion-base-thank-moon
+bip_39_word_dash_12: law-salt-pudding-reform-forget-over-tape-reunion-base-thank-moon-already
+bip_39_word_dash_2: law-salt
+bip_39_word_dash_3: law-salt-pudding
+bip_39_word_dash_4: law-salt-pudding-reform
+bip_39_word_dash_5: law-salt-pudding-reform-forget
+bip_39_word_dash_6: law-salt-pudding-reform-forget-over
+bip_39_word_dash_7: law-salt-pudding-reform-forget-over-tape
+bip_39_word_dash_8: law-salt-pudding-reform-forget-over-tape-reunion
+bip_39_word_dash_9: law-salt-pudding-reform-forget-over-tape-reunion-base
 bip_39_word_new_br_1: law
 bip_39_word_new_br_10: law<br>salt<br>pudding<br>reform<br>forget<br>over<br>tape<br>reunion<br>base<br>thank
 bip_39_word_new_br_11: law<br>salt<br>pudding<br>reform<br>forget<br>over<br>tape<br>reunion<br>base<br>thank<br>moon
@@ -193,6 +205,18 @@ bip_39_word_space_6: law salt pudding reform forget over
 bip_39_word_space_7: law salt pudding reform forget over tape
 bip_39_word_space_8: law salt pudding reform forget over tape reunion
 bip_39_word_space_9: law salt pudding reform forget over tape reunion base
+bip_39_word_underscore_1: law
+bip_39_word_underscore_10: law_salt_pudding_reform_forget_over_tape_reunion_base_thank
+bip_39_word_underscore_11: law_salt_pudding_reform_forget_over_tape_reunion_base_thank_moon
+bip_39_word_underscore_12: law_salt_pudding_reform_forget_over_tape_reunion_base_thank_moon_already
+bip_39_word_underscore_2: law_salt
+bip_39_word_underscore_3: law_salt_pudding
+bip_39_word_underscore_4: law_salt_pudding_reform
+bip_39_word_underscore_5: law_salt_pudding_reform_forget
+bip_39_word_underscore_6: law_salt_pudding_reform_forget_over
+bip_39_word_underscore_7: law_salt_pudding_reform_forget_over_tape
+bip_39_word_underscore_8: law_salt_pudding_reform_forget_over_tape_reunion
+bip_39_word_underscore_9: law_salt_pudding_reform_forget_over_tape_reunion_base
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

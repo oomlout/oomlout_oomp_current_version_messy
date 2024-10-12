@@ -1,3 +1,15 @@
+bip_39_word_dash_1: federal
+bip_39_word_dash_10: federal-fortune-steak-tattoo-faith-teach-relax-replace-assist-midnight
+bip_39_word_dash_11: federal-fortune-steak-tattoo-faith-teach-relax-replace-assist-midnight-danger
+bip_39_word_dash_12: federal-fortune-steak-tattoo-faith-teach-relax-replace-assist-midnight-danger-accident
+bip_39_word_dash_2: federal-fortune
+bip_39_word_dash_3: federal-fortune-steak
+bip_39_word_dash_4: federal-fortune-steak-tattoo
+bip_39_word_dash_5: federal-fortune-steak-tattoo-faith
+bip_39_word_dash_6: federal-fortune-steak-tattoo-faith-teach
+bip_39_word_dash_7: federal-fortune-steak-tattoo-faith-teach-relax
+bip_39_word_dash_8: federal-fortune-steak-tattoo-faith-teach-relax-replace
+bip_39_word_dash_9: federal-fortune-steak-tattoo-faith-teach-relax-replace-assist
 bip_39_word_new_br_1: federal
 bip_39_word_new_br_10: federal<br>fortune<br>steak<br>tattoo<br>faith<br>teach<br>relax<br>replace<br>assist<br>midnight
 bip_39_word_new_br_11: federal<br>fortune<br>steak<br>tattoo<br>faith<br>teach<br>relax<br>replace<br>assist<br>midnight<br>danger
@@ -194,6 +206,18 @@ bip_39_word_space_6: federal fortune steak tattoo faith teach
 bip_39_word_space_7: federal fortune steak tattoo faith teach relax
 bip_39_word_space_8: federal fortune steak tattoo faith teach relax replace
 bip_39_word_space_9: federal fortune steak tattoo faith teach relax replace assist
+bip_39_word_underscore_1: federal
+bip_39_word_underscore_10: federal_fortune_steak_tattoo_faith_teach_relax_replace_assist_midnight
+bip_39_word_underscore_11: federal_fortune_steak_tattoo_faith_teach_relax_replace_assist_midnight_danger
+bip_39_word_underscore_12: federal_fortune_steak_tattoo_faith_teach_relax_replace_assist_midnight_danger_accident
+bip_39_word_underscore_2: federal_fortune
+bip_39_word_underscore_3: federal_fortune_steak
+bip_39_word_underscore_4: federal_fortune_steak_tattoo
+bip_39_word_underscore_5: federal_fortune_steak_tattoo_faith
+bip_39_word_underscore_6: federal_fortune_steak_tattoo_faith_teach
+bip_39_word_underscore_7: federal_fortune_steak_tattoo_faith_teach_relax
+bip_39_word_underscore_8: federal_fortune_steak_tattoo_faith_teach_relax_replace
+bip_39_word_underscore_9: federal_fortune_steak_tattoo_faith_teach_relax_replace_assist
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

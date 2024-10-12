@@ -1,3 +1,15 @@
+bip_39_word_dash_1: engine
+bip_39_word_dash_10: engine-area-quality-tone-spray-winter-latin-escape-couch-dice
+bip_39_word_dash_11: engine-area-quality-tone-spray-winter-latin-escape-couch-dice-left
+bip_39_word_dash_12: engine-area-quality-tone-spray-winter-latin-escape-couch-dice-left-average
+bip_39_word_dash_2: engine-area
+bip_39_word_dash_3: engine-area-quality
+bip_39_word_dash_4: engine-area-quality-tone
+bip_39_word_dash_5: engine-area-quality-tone-spray
+bip_39_word_dash_6: engine-area-quality-tone-spray-winter
+bip_39_word_dash_7: engine-area-quality-tone-spray-winter-latin
+bip_39_word_dash_8: engine-area-quality-tone-spray-winter-latin-escape
+bip_39_word_dash_9: engine-area-quality-tone-spray-winter-latin-escape-couch
 bip_39_word_new_br_1: engine
 bip_39_word_new_br_10: engine<br>area<br>quality<br>tone<br>spray<br>winter<br>latin<br>escape<br>couch<br>dice
 bip_39_word_new_br_11: engine<br>area<br>quality<br>tone<br>spray<br>winter<br>latin<br>escape<br>couch<br>dice<br>left
@@ -193,6 +205,18 @@ bip_39_word_space_6: engine area quality tone spray winter
 bip_39_word_space_7: engine area quality tone spray winter latin
 bip_39_word_space_8: engine area quality tone spray winter latin escape
 bip_39_word_space_9: engine area quality tone spray winter latin escape couch
+bip_39_word_underscore_1: engine
+bip_39_word_underscore_10: engine_area_quality_tone_spray_winter_latin_escape_couch_dice
+bip_39_word_underscore_11: engine_area_quality_tone_spray_winter_latin_escape_couch_dice_left
+bip_39_word_underscore_12: engine_area_quality_tone_spray_winter_latin_escape_couch_dice_left_average
+bip_39_word_underscore_2: engine_area
+bip_39_word_underscore_3: engine_area_quality
+bip_39_word_underscore_4: engine_area_quality_tone
+bip_39_word_underscore_5: engine_area_quality_tone_spray
+bip_39_word_underscore_6: engine_area_quality_tone_spray_winter
+bip_39_word_underscore_7: engine_area_quality_tone_spray_winter_latin
+bip_39_word_underscore_8: engine_area_quality_tone_spray_winter_latin_escape
+bip_39_word_underscore_9: engine_area_quality_tone_spray_winter_latin_escape_couch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

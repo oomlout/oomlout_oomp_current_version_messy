@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stadium |  
+| bip_39_word_dash_10 | stadium-cancel-cart-traffic-north-note-strike-squeeze-private-neutral |  
+| bip_39_word_dash_11 | stadium-cancel-cart-traffic-north-note-strike-squeeze-private-neutral-snow |  
+| bip_39_word_dash_12 | stadium-cancel-cart-traffic-north-note-strike-squeeze-private-neutral-snow-agree |  
+| bip_39_word_dash_2 | stadium-cancel |  
+| bip_39_word_dash_3 | stadium-cancel-cart |  
+| bip_39_word_dash_4 | stadium-cancel-cart-traffic |  
+| bip_39_word_dash_5 | stadium-cancel-cart-traffic-north |  
+| bip_39_word_dash_6 | stadium-cancel-cart-traffic-north-note |  
+| bip_39_word_dash_7 | stadium-cancel-cart-traffic-north-note-strike |  
+| bip_39_word_dash_8 | stadium-cancel-cart-traffic-north-note-strike-squeeze |  
+| bip_39_word_dash_9 | stadium-cancel-cart-traffic-north-note-strike-squeeze-private |  
 | bip_39_word_new_br_1 | stadium |  
 | bip_39_word_new_br_10 | stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze<br>private<br>neutral |  
 | bip_39_word_new_br_11 | stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze<br>private<br>neutral<br>snow |  
@@ -147,6 +159,18 @@ private |
 | bip_39_word_space_7 | stadium cancel cart traffic north note strike |  
 | bip_39_word_space_8 | stadium cancel cart traffic north note strike squeeze |  
 | bip_39_word_space_9 | stadium cancel cart traffic north note strike squeeze private |  
+| bip_39_word_underscore_1 | stadium |  
+| bip_39_word_underscore_10 | stadium_cancel_cart_traffic_north_note_strike_squeeze_private_neutral |  
+| bip_39_word_underscore_11 | stadium_cancel_cart_traffic_north_note_strike_squeeze_private_neutral_snow |  
+| bip_39_word_underscore_12 | stadium_cancel_cart_traffic_north_note_strike_squeeze_private_neutral_snow_agree |  
+| bip_39_word_underscore_2 | stadium_cancel |  
+| bip_39_word_underscore_3 | stadium_cancel_cart |  
+| bip_39_word_underscore_4 | stadium_cancel_cart_traffic |  
+| bip_39_word_underscore_5 | stadium_cancel_cart_traffic_north |  
+| bip_39_word_underscore_6 | stadium_cancel_cart_traffic_north_note |  
+| bip_39_word_underscore_7 | stadium_cancel_cart_traffic_north_note_strike |  
+| bip_39_word_underscore_8 | stadium_cancel_cart_traffic_north_note_strike_squeeze |  
+| bip_39_word_underscore_9 | stadium_cancel_cart_traffic_north_note_strike_squeeze_private |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

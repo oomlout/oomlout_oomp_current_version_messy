@@ -1,3 +1,15 @@
+bip_39_word_dash_1: truck
+bip_39_word_dash_10: truck-bid-voice-tide-manage-fit-school-average-enhance-flip
+bip_39_word_dash_11: truck-bid-voice-tide-manage-fit-school-average-enhance-flip-prepare
+bip_39_word_dash_12: truck-bid-voice-tide-manage-fit-school-average-enhance-flip-prepare-animal
+bip_39_word_dash_2: truck-bid
+bip_39_word_dash_3: truck-bid-voice
+bip_39_word_dash_4: truck-bid-voice-tide
+bip_39_word_dash_5: truck-bid-voice-tide-manage
+bip_39_word_dash_6: truck-bid-voice-tide-manage-fit
+bip_39_word_dash_7: truck-bid-voice-tide-manage-fit-school
+bip_39_word_dash_8: truck-bid-voice-tide-manage-fit-school-average
+bip_39_word_dash_9: truck-bid-voice-tide-manage-fit-school-average-enhance
 bip_39_word_new_br_1: truck
 bip_39_word_new_br_10: truck<br>bid<br>voice<br>tide<br>manage<br>fit<br>school<br>average<br>enhance<br>flip
 bip_39_word_new_br_11: truck<br>bid<br>voice<br>tide<br>manage<br>fit<br>school<br>average<br>enhance<br>flip<br>prepare
@@ -193,6 +205,18 @@ bip_39_word_space_6: truck bid voice tide manage fit
 bip_39_word_space_7: truck bid voice tide manage fit school
 bip_39_word_space_8: truck bid voice tide manage fit school average
 bip_39_word_space_9: truck bid voice tide manage fit school average enhance
+bip_39_word_underscore_1: truck
+bip_39_word_underscore_10: truck_bid_voice_tide_manage_fit_school_average_enhance_flip
+bip_39_word_underscore_11: truck_bid_voice_tide_manage_fit_school_average_enhance_flip_prepare
+bip_39_word_underscore_12: truck_bid_voice_tide_manage_fit_school_average_enhance_flip_prepare_animal
+bip_39_word_underscore_2: truck_bid
+bip_39_word_underscore_3: truck_bid_voice
+bip_39_word_underscore_4: truck_bid_voice_tide
+bip_39_word_underscore_5: truck_bid_voice_tide_manage
+bip_39_word_underscore_6: truck_bid_voice_tide_manage_fit
+bip_39_word_underscore_7: truck_bid_voice_tide_manage_fit_school
+bip_39_word_underscore_8: truck_bid_voice_tide_manage_fit_school_average
+bip_39_word_underscore_9: truck_bid_voice_tide_manage_fit_school_average_enhance
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

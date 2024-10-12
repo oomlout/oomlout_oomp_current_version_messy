@@ -1,3 +1,15 @@
+bip_39_word_dash_1: illness
+bip_39_word_dash_10: illness-coffee-notice-main-wonder-wine-retire-coach-drastic-tiger
+bip_39_word_dash_11: illness-coffee-notice-main-wonder-wine-retire-coach-drastic-tiger-liar
+bip_39_word_dash_12: illness-coffee-notice-main-wonder-wine-retire-coach-drastic-tiger-liar-arctic
+bip_39_word_dash_2: illness-coffee
+bip_39_word_dash_3: illness-coffee-notice
+bip_39_word_dash_4: illness-coffee-notice-main
+bip_39_word_dash_5: illness-coffee-notice-main-wonder
+bip_39_word_dash_6: illness-coffee-notice-main-wonder-wine
+bip_39_word_dash_7: illness-coffee-notice-main-wonder-wine-retire
+bip_39_word_dash_8: illness-coffee-notice-main-wonder-wine-retire-coach
+bip_39_word_dash_9: illness-coffee-notice-main-wonder-wine-retire-coach-drastic
 bip_39_word_new_br_1: illness
 bip_39_word_new_br_10: illness<br>coffee<br>notice<br>main<br>wonder<br>wine<br>retire<br>coach<br>drastic<br>tiger
 bip_39_word_new_br_11: illness<br>coffee<br>notice<br>main<br>wonder<br>wine<br>retire<br>coach<br>drastic<br>tiger<br>liar
@@ -194,6 +206,18 @@ bip_39_word_space_6: illness coffee notice main wonder wine
 bip_39_word_space_7: illness coffee notice main wonder wine retire
 bip_39_word_space_8: illness coffee notice main wonder wine retire coach
 bip_39_word_space_9: illness coffee notice main wonder wine retire coach drastic
+bip_39_word_underscore_1: illness
+bip_39_word_underscore_10: illness_coffee_notice_main_wonder_wine_retire_coach_drastic_tiger
+bip_39_word_underscore_11: illness_coffee_notice_main_wonder_wine_retire_coach_drastic_tiger_liar
+bip_39_word_underscore_12: illness_coffee_notice_main_wonder_wine_retire_coach_drastic_tiger_liar_arctic
+bip_39_word_underscore_2: illness_coffee
+bip_39_word_underscore_3: illness_coffee_notice
+bip_39_word_underscore_4: illness_coffee_notice_main
+bip_39_word_underscore_5: illness_coffee_notice_main_wonder
+bip_39_word_underscore_6: illness_coffee_notice_main_wonder_wine
+bip_39_word_underscore_7: illness_coffee_notice_main_wonder_wine_retire
+bip_39_word_underscore_8: illness_coffee_notice_main_wonder_wine_retire_coach
+bip_39_word_underscore_9: illness_coffee_notice_main_wonder_wine_retire_coach_drastic
 classification: computer
 classification_capital: Computer
 classification_first_letter: c

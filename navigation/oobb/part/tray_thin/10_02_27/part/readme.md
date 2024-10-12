@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mountain |  
+| bip_39_word_dash_10 | mountain-frame-write-sound-duck-truth-current-galaxy-van-half |  
+| bip_39_word_dash_11 | mountain-frame-write-sound-duck-truth-current-galaxy-van-half-segment |  
+| bip_39_word_dash_12 | mountain-frame-write-sound-duck-truth-current-galaxy-van-half-segment-arrive |  
+| bip_39_word_dash_2 | mountain-frame |  
+| bip_39_word_dash_3 | mountain-frame-write |  
+| bip_39_word_dash_4 | mountain-frame-write-sound |  
+| bip_39_word_dash_5 | mountain-frame-write-sound-duck |  
+| bip_39_word_dash_6 | mountain-frame-write-sound-duck-truth |  
+| bip_39_word_dash_7 | mountain-frame-write-sound-duck-truth-current |  
+| bip_39_word_dash_8 | mountain-frame-write-sound-duck-truth-current-galaxy |  
+| bip_39_word_dash_9 | mountain-frame-write-sound-duck-truth-current-galaxy-van |  
 | bip_39_word_new_br_1 | mountain |  
 | bip_39_word_new_br_10 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy<br>van<br>half |  
 | bip_39_word_new_br_11 | mountain<br>frame<br>write<br>sound<br>duck<br>truth<br>current<br>galaxy<br>van<br>half<br>segment |  
@@ -147,6 +159,18 @@ van |
 | bip_39_word_space_7 | mountain frame write sound duck truth current |  
 | bip_39_word_space_8 | mountain frame write sound duck truth current galaxy |  
 | bip_39_word_space_9 | mountain frame write sound duck truth current galaxy van |  
+| bip_39_word_underscore_1 | mountain |  
+| bip_39_word_underscore_10 | mountain_frame_write_sound_duck_truth_current_galaxy_van_half |  
+| bip_39_word_underscore_11 | mountain_frame_write_sound_duck_truth_current_galaxy_van_half_segment |  
+| bip_39_word_underscore_12 | mountain_frame_write_sound_duck_truth_current_galaxy_van_half_segment_arrive |  
+| bip_39_word_underscore_2 | mountain_frame |  
+| bip_39_word_underscore_3 | mountain_frame_write |  
+| bip_39_word_underscore_4 | mountain_frame_write_sound |  
+| bip_39_word_underscore_5 | mountain_frame_write_sound_duck |  
+| bip_39_word_underscore_6 | mountain_frame_write_sound_duck_truth |  
+| bip_39_word_underscore_7 | mountain_frame_write_sound_duck_truth_current |  
+| bip_39_word_underscore_8 | mountain_frame_write_sound_duck_truth_current_galaxy |  
+| bip_39_word_underscore_9 | mountain_frame_write_sound_duck_truth_current_galaxy_van |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

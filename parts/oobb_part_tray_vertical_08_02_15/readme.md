@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | captain |  
+| bip_39_word_dash_10 | captain-faith-confirm-pig-raise-ribbon-trend-sausage-key-joke |  
+| bip_39_word_dash_11 | captain-faith-confirm-pig-raise-ribbon-trend-sausage-key-joke-pulp |  
+| bip_39_word_dash_12 | captain-faith-confirm-pig-raise-ribbon-trend-sausage-key-joke-pulp-accuse |  
+| bip_39_word_dash_2 | captain-faith |  
+| bip_39_word_dash_3 | captain-faith-confirm |  
+| bip_39_word_dash_4 | captain-faith-confirm-pig |  
+| bip_39_word_dash_5 | captain-faith-confirm-pig-raise |  
+| bip_39_word_dash_6 | captain-faith-confirm-pig-raise-ribbon |  
+| bip_39_word_dash_7 | captain-faith-confirm-pig-raise-ribbon-trend |  
+| bip_39_word_dash_8 | captain-faith-confirm-pig-raise-ribbon-trend-sausage |  
+| bip_39_word_dash_9 | captain-faith-confirm-pig-raise-ribbon-trend-sausage-key |  
 | bip_39_word_new_br_1 | captain |  
 | bip_39_word_new_br_10 | captain<br>faith<br>confirm<br>pig<br>raise<br>ribbon<br>trend<br>sausage<br>key<br>joke |  
 | bip_39_word_new_br_11 | captain<br>faith<br>confirm<br>pig<br>raise<br>ribbon<br>trend<br>sausage<br>key<br>joke<br>pulp |  
@@ -147,6 +159,18 @@ key |
 | bip_39_word_space_7 | captain faith confirm pig raise ribbon trend |  
 | bip_39_word_space_8 | captain faith confirm pig raise ribbon trend sausage |  
 | bip_39_word_space_9 | captain faith confirm pig raise ribbon trend sausage key |  
+| bip_39_word_underscore_1 | captain |  
+| bip_39_word_underscore_10 | captain_faith_confirm_pig_raise_ribbon_trend_sausage_key_joke |  
+| bip_39_word_underscore_11 | captain_faith_confirm_pig_raise_ribbon_trend_sausage_key_joke_pulp |  
+| bip_39_word_underscore_12 | captain_faith_confirm_pig_raise_ribbon_trend_sausage_key_joke_pulp_accuse |  
+| bip_39_word_underscore_2 | captain_faith |  
+| bip_39_word_underscore_3 | captain_faith_confirm |  
+| bip_39_word_underscore_4 | captain_faith_confirm_pig |  
+| bip_39_word_underscore_5 | captain_faith_confirm_pig_raise |  
+| bip_39_word_underscore_6 | captain_faith_confirm_pig_raise_ribbon |  
+| bip_39_word_underscore_7 | captain_faith_confirm_pig_raise_ribbon_trend |  
+| bip_39_word_underscore_8 | captain_faith_confirm_pig_raise_ribbon_trend_sausage |  
+| bip_39_word_underscore_9 | captain_faith_confirm_pig_raise_ribbon_trend_sausage_key |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tuition |  
+| bip_39_word_dash_10 | tuition-swallow-odor-then-shuffle-diet-security-urge-clown-fall |  
+| bip_39_word_dash_11 | tuition-swallow-odor-then-shuffle-diet-security-urge-clown-fall-unveil |  
+| bip_39_word_dash_12 | tuition-swallow-odor-then-shuffle-diet-security-urge-clown-fall-unveil-answer |  
+| bip_39_word_dash_2 | tuition-swallow |  
+| bip_39_word_dash_3 | tuition-swallow-odor |  
+| bip_39_word_dash_4 | tuition-swallow-odor-then |  
+| bip_39_word_dash_5 | tuition-swallow-odor-then-shuffle |  
+| bip_39_word_dash_6 | tuition-swallow-odor-then-shuffle-diet |  
+| bip_39_word_dash_7 | tuition-swallow-odor-then-shuffle-diet-security |  
+| bip_39_word_dash_8 | tuition-swallow-odor-then-shuffle-diet-security-urge |  
+| bip_39_word_dash_9 | tuition-swallow-odor-then-shuffle-diet-security-urge-clown |  
 | bip_39_word_new_br_1 | tuition |  
 | bip_39_word_new_br_10 | tuition<br>swallow<br>odor<br>then<br>shuffle<br>diet<br>security<br>urge<br>clown<br>fall |  
 | bip_39_word_new_br_11 | tuition<br>swallow<br>odor<br>then<br>shuffle<br>diet<br>security<br>urge<br>clown<br>fall<br>unveil |  
@@ -147,6 +159,18 @@ clown |
 | bip_39_word_space_7 | tuition swallow odor then shuffle diet security |  
 | bip_39_word_space_8 | tuition swallow odor then shuffle diet security urge |  
 | bip_39_word_space_9 | tuition swallow odor then shuffle diet security urge clown |  
+| bip_39_word_underscore_1 | tuition |  
+| bip_39_word_underscore_10 | tuition_swallow_odor_then_shuffle_diet_security_urge_clown_fall |  
+| bip_39_word_underscore_11 | tuition_swallow_odor_then_shuffle_diet_security_urge_clown_fall_unveil |  
+| bip_39_word_underscore_12 | tuition_swallow_odor_then_shuffle_diet_security_urge_clown_fall_unveil_answer |  
+| bip_39_word_underscore_2 | tuition_swallow |  
+| bip_39_word_underscore_3 | tuition_swallow_odor |  
+| bip_39_word_underscore_4 | tuition_swallow_odor_then |  
+| bip_39_word_underscore_5 | tuition_swallow_odor_then_shuffle |  
+| bip_39_word_underscore_6 | tuition_swallow_odor_then_shuffle_diet |  
+| bip_39_word_underscore_7 | tuition_swallow_odor_then_shuffle_diet_security |  
+| bip_39_word_underscore_8 | tuition_swallow_odor_then_shuffle_diet_security_urge |  
+| bip_39_word_underscore_9 | tuition_swallow_odor_then_shuffle_diet_security_urge_clown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

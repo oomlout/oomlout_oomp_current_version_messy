@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tent |  
+| bip_39_word_dash_10 | tent-senior-tube-lift-page-void-hair-salon-north-bone |  
+| bip_39_word_dash_11 | tent-senior-tube-lift-page-void-hair-salon-north-bone-ensure |  
+| bip_39_word_dash_12 | tent-senior-tube-lift-page-void-hair-salon-north-bone-ensure-always |  
+| bip_39_word_dash_2 | tent-senior |  
+| bip_39_word_dash_3 | tent-senior-tube |  
+| bip_39_word_dash_4 | tent-senior-tube-lift |  
+| bip_39_word_dash_5 | tent-senior-tube-lift-page |  
+| bip_39_word_dash_6 | tent-senior-tube-lift-page-void |  
+| bip_39_word_dash_7 | tent-senior-tube-lift-page-void-hair |  
+| bip_39_word_dash_8 | tent-senior-tube-lift-page-void-hair-salon |  
+| bip_39_word_dash_9 | tent-senior-tube-lift-page-void-hair-salon-north |  
 | bip_39_word_new_br_1 | tent |  
 | bip_39_word_new_br_10 | tent<br>senior<br>tube<br>lift<br>page<br>void<br>hair<br>salon<br>north<br>bone |  
 | bip_39_word_new_br_11 | tent<br>senior<br>tube<br>lift<br>page<br>void<br>hair<br>salon<br>north<br>bone<br>ensure |  
@@ -147,6 +159,18 @@ north |
 | bip_39_word_space_7 | tent senior tube lift page void hair |  
 | bip_39_word_space_8 | tent senior tube lift page void hair salon |  
 | bip_39_word_space_9 | tent senior tube lift page void hair salon north |  
+| bip_39_word_underscore_1 | tent |  
+| bip_39_word_underscore_10 | tent_senior_tube_lift_page_void_hair_salon_north_bone |  
+| bip_39_word_underscore_11 | tent_senior_tube_lift_page_void_hair_salon_north_bone_ensure |  
+| bip_39_word_underscore_12 | tent_senior_tube_lift_page_void_hair_salon_north_bone_ensure_always |  
+| bip_39_word_underscore_2 | tent_senior |  
+| bip_39_word_underscore_3 | tent_senior_tube |  
+| bip_39_word_underscore_4 | tent_senior_tube_lift |  
+| bip_39_word_underscore_5 | tent_senior_tube_lift_page |  
+| bip_39_word_underscore_6 | tent_senior_tube_lift_page_void |  
+| bip_39_word_underscore_7 | tent_senior_tube_lift_page_void_hair |  
+| bip_39_word_underscore_8 | tent_senior_tube_lift_page_void_hair_salon |  
+| bip_39_word_underscore_9 | tent_senior_tube_lift_page_void_hair_salon_north |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

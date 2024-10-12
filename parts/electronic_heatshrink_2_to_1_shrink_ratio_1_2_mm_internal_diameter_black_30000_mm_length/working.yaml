@@ -1,3 +1,15 @@
+bip_39_word_dash_1: put
+bip_39_word_dash_10: put-mule-myth-plunge-rib-opera-collect-valley-switch-invest
+bip_39_word_dash_11: put-mule-myth-plunge-rib-opera-collect-valley-switch-invest-blur
+bip_39_word_dash_12: put-mule-myth-plunge-rib-opera-collect-valley-switch-invest-blur-above
+bip_39_word_dash_2: put-mule
+bip_39_word_dash_3: put-mule-myth
+bip_39_word_dash_4: put-mule-myth-plunge
+bip_39_word_dash_5: put-mule-myth-plunge-rib
+bip_39_word_dash_6: put-mule-myth-plunge-rib-opera
+bip_39_word_dash_7: put-mule-myth-plunge-rib-opera-collect
+bip_39_word_dash_8: put-mule-myth-plunge-rib-opera-collect-valley
+bip_39_word_dash_9: put-mule-myth-plunge-rib-opera-collect-valley-switch
 bip_39_word_new_br_1: put
 bip_39_word_new_br_10: put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest
 bip_39_word_new_br_11: put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest<br>blur
@@ -193,6 +205,18 @@ bip_39_word_space_6: put mule myth plunge rib opera
 bip_39_word_space_7: put mule myth plunge rib opera collect
 bip_39_word_space_8: put mule myth plunge rib opera collect valley
 bip_39_word_space_9: put mule myth plunge rib opera collect valley switch
+bip_39_word_underscore_1: put
+bip_39_word_underscore_10: put_mule_myth_plunge_rib_opera_collect_valley_switch_invest
+bip_39_word_underscore_11: put_mule_myth_plunge_rib_opera_collect_valley_switch_invest_blur
+bip_39_word_underscore_12: put_mule_myth_plunge_rib_opera_collect_valley_switch_invest_blur_above
+bip_39_word_underscore_2: put_mule
+bip_39_word_underscore_3: put_mule_myth
+bip_39_word_underscore_4: put_mule_myth_plunge
+bip_39_word_underscore_5: put_mule_myth_plunge_rib
+bip_39_word_underscore_6: put_mule_myth_plunge_rib_opera
+bip_39_word_underscore_7: put_mule_myth_plunge_rib_opera_collect
+bip_39_word_underscore_8: put_mule_myth_plunge_rib_opera_collect_valley
+bip_39_word_underscore_9: put_mule_myth_plunge_rib_opera_collect_valley_switch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

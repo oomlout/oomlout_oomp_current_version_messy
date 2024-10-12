@@ -1,3 +1,15 @@
+bip_39_word_dash_1: slim
+bip_39_word_dash_10: slim-gun-fade-level-chunk-train-glare-trigger-into-betray
+bip_39_word_dash_11: slim-gun-fade-level-chunk-train-glare-trigger-into-betray-blanket
+bip_39_word_dash_12: slim-gun-fade-level-chunk-train-glare-trigger-into-betray-blanket-album
+bip_39_word_dash_2: slim-gun
+bip_39_word_dash_3: slim-gun-fade
+bip_39_word_dash_4: slim-gun-fade-level
+bip_39_word_dash_5: slim-gun-fade-level-chunk
+bip_39_word_dash_6: slim-gun-fade-level-chunk-train
+bip_39_word_dash_7: slim-gun-fade-level-chunk-train-glare
+bip_39_word_dash_8: slim-gun-fade-level-chunk-train-glare-trigger
+bip_39_word_dash_9: slim-gun-fade-level-chunk-train-glare-trigger-into
 bip_39_word_new_br_1: slim
 bip_39_word_new_br_10: slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger<br>into<br>betray
 bip_39_word_new_br_11: slim<br>gun<br>fade<br>level<br>chunk<br>train<br>glare<br>trigger<br>into<br>betray<br>blanket
@@ -192,6 +204,18 @@ bip_39_word_space_6: slim gun fade level chunk train
 bip_39_word_space_7: slim gun fade level chunk train glare
 bip_39_word_space_8: slim gun fade level chunk train glare trigger
 bip_39_word_space_9: slim gun fade level chunk train glare trigger into
+bip_39_word_underscore_1: slim
+bip_39_word_underscore_10: slim_gun_fade_level_chunk_train_glare_trigger_into_betray
+bip_39_word_underscore_11: slim_gun_fade_level_chunk_train_glare_trigger_into_betray_blanket
+bip_39_word_underscore_12: slim_gun_fade_level_chunk_train_glare_trigger_into_betray_blanket_album
+bip_39_word_underscore_2: slim_gun
+bip_39_word_underscore_3: slim_gun_fade
+bip_39_word_underscore_4: slim_gun_fade_level
+bip_39_word_underscore_5: slim_gun_fade_level_chunk
+bip_39_word_underscore_6: slim_gun_fade_level_chunk_train
+bip_39_word_underscore_7: slim_gun_fade_level_chunk_train_glare
+bip_39_word_underscore_8: slim_gun_fade_level_chunk_train_glare_trigger
+bip_39_word_underscore_9: slim_gun_fade_level_chunk_train_glare_trigger_into
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

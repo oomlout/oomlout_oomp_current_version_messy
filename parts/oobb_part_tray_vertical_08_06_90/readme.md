@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | weird |  
+| bip_39_word_dash_10 | weird-basket-gain-uncover-hub-dawn-swing-acid-found-timber |  
+| bip_39_word_dash_11 | weird-basket-gain-uncover-hub-dawn-swing-acid-found-timber-music |  
+| bip_39_word_dash_12 | weird-basket-gain-uncover-hub-dawn-swing-acid-found-timber-music-artist |  
+| bip_39_word_dash_2 | weird-basket |  
+| bip_39_word_dash_3 | weird-basket-gain |  
+| bip_39_word_dash_4 | weird-basket-gain-uncover |  
+| bip_39_word_dash_5 | weird-basket-gain-uncover-hub |  
+| bip_39_word_dash_6 | weird-basket-gain-uncover-hub-dawn |  
+| bip_39_word_dash_7 | weird-basket-gain-uncover-hub-dawn-swing |  
+| bip_39_word_dash_8 | weird-basket-gain-uncover-hub-dawn-swing-acid |  
+| bip_39_word_dash_9 | weird-basket-gain-uncover-hub-dawn-swing-acid-found |  
 | bip_39_word_new_br_1 | weird |  
 | bip_39_word_new_br_10 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid<br>found<br>timber |  
 | bip_39_word_new_br_11 | weird<br>basket<br>gain<br>uncover<br>hub<br>dawn<br>swing<br>acid<br>found<br>timber<br>music |  
@@ -147,6 +159,18 @@ found |
 | bip_39_word_space_7 | weird basket gain uncover hub dawn swing |  
 | bip_39_word_space_8 | weird basket gain uncover hub dawn swing acid |  
 | bip_39_word_space_9 | weird basket gain uncover hub dawn swing acid found |  
+| bip_39_word_underscore_1 | weird |  
+| bip_39_word_underscore_10 | weird_basket_gain_uncover_hub_dawn_swing_acid_found_timber |  
+| bip_39_word_underscore_11 | weird_basket_gain_uncover_hub_dawn_swing_acid_found_timber_music |  
+| bip_39_word_underscore_12 | weird_basket_gain_uncover_hub_dawn_swing_acid_found_timber_music_artist |  
+| bip_39_word_underscore_2 | weird_basket |  
+| bip_39_word_underscore_3 | weird_basket_gain |  
+| bip_39_word_underscore_4 | weird_basket_gain_uncover |  
+| bip_39_word_underscore_5 | weird_basket_gain_uncover_hub |  
+| bip_39_word_underscore_6 | weird_basket_gain_uncover_hub_dawn |  
+| bip_39_word_underscore_7 | weird_basket_gain_uncover_hub_dawn_swing |  
+| bip_39_word_underscore_8 | weird_basket_gain_uncover_hub_dawn_swing_acid |  
+| bip_39_word_underscore_9 | weird_basket_gain_uncover_hub_dawn_swing_acid_found |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

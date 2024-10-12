@@ -1,3 +1,15 @@
+bip_39_word_dash_1: west
+bip_39_word_dash_10: west-unhappy-appear-betray-food-entry-exact-such-sweet-romance
+bip_39_word_dash_11: west-unhappy-appear-betray-food-entry-exact-such-sweet-romance-original
+bip_39_word_dash_12: west-unhappy-appear-betray-food-entry-exact-such-sweet-romance-original-achieve
+bip_39_word_dash_2: west-unhappy
+bip_39_word_dash_3: west-unhappy-appear
+bip_39_word_dash_4: west-unhappy-appear-betray
+bip_39_word_dash_5: west-unhappy-appear-betray-food
+bip_39_word_dash_6: west-unhappy-appear-betray-food-entry
+bip_39_word_dash_7: west-unhappy-appear-betray-food-entry-exact
+bip_39_word_dash_8: west-unhappy-appear-betray-food-entry-exact-such
+bip_39_word_dash_9: west-unhappy-appear-betray-food-entry-exact-such-sweet
 bip_39_word_new_br_1: west
 bip_39_word_new_br_10: west<br>unhappy<br>appear<br>betray<br>food<br>entry<br>exact<br>such<br>sweet<br>romance
 bip_39_word_new_br_11: west<br>unhappy<br>appear<br>betray<br>food<br>entry<br>exact<br>such<br>sweet<br>romance<br>original
@@ -193,6 +205,18 @@ bip_39_word_space_6: west unhappy appear betray food entry
 bip_39_word_space_7: west unhappy appear betray food entry exact
 bip_39_word_space_8: west unhappy appear betray food entry exact such
 bip_39_word_space_9: west unhappy appear betray food entry exact such sweet
+bip_39_word_underscore_1: west
+bip_39_word_underscore_10: west_unhappy_appear_betray_food_entry_exact_such_sweet_romance
+bip_39_word_underscore_11: west_unhappy_appear_betray_food_entry_exact_such_sweet_romance_original
+bip_39_word_underscore_12: west_unhappy_appear_betray_food_entry_exact_such_sweet_romance_original_achieve
+bip_39_word_underscore_2: west_unhappy
+bip_39_word_underscore_3: west_unhappy_appear
+bip_39_word_underscore_4: west_unhappy_appear_betray
+bip_39_word_underscore_5: west_unhappy_appear_betray_food
+bip_39_word_underscore_6: west_unhappy_appear_betray_food_entry
+bip_39_word_underscore_7: west_unhappy_appear_betray_food_entry_exact
+bip_39_word_underscore_8: west_unhappy_appear_betray_food_entry_exact_such
+bip_39_word_underscore_9: west_unhappy_appear_betray_food_entry_exact_such_sweet
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exile
+bip_39_word_dash_10: exile-dust-eager-start-illegal-round-reopen-rely-space-midnight
+bip_39_word_dash_11: exile-dust-eager-start-illegal-round-reopen-rely-space-midnight-vehicle
+bip_39_word_dash_12: exile-dust-eager-start-illegal-round-reopen-rely-space-midnight-vehicle-absent
+bip_39_word_dash_2: exile-dust
+bip_39_word_dash_3: exile-dust-eager
+bip_39_word_dash_4: exile-dust-eager-start
+bip_39_word_dash_5: exile-dust-eager-start-illegal
+bip_39_word_dash_6: exile-dust-eager-start-illegal-round
+bip_39_word_dash_7: exile-dust-eager-start-illegal-round-reopen
+bip_39_word_dash_8: exile-dust-eager-start-illegal-round-reopen-rely
+bip_39_word_dash_9: exile-dust-eager-start-illegal-round-reopen-rely-space
 bip_39_word_new_br_1: exile
 bip_39_word_new_br_10: exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight
 bip_39_word_new_br_11: exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight<br>vehicle
@@ -193,6 +205,18 @@ bip_39_word_space_6: exile dust eager start illegal round
 bip_39_word_space_7: exile dust eager start illegal round reopen
 bip_39_word_space_8: exile dust eager start illegal round reopen rely
 bip_39_word_space_9: exile dust eager start illegal round reopen rely space
+bip_39_word_underscore_1: exile
+bip_39_word_underscore_10: exile_dust_eager_start_illegal_round_reopen_rely_space_midnight
+bip_39_word_underscore_11: exile_dust_eager_start_illegal_round_reopen_rely_space_midnight_vehicle
+bip_39_word_underscore_12: exile_dust_eager_start_illegal_round_reopen_rely_space_midnight_vehicle_absent
+bip_39_word_underscore_2: exile_dust
+bip_39_word_underscore_3: exile_dust_eager
+bip_39_word_underscore_4: exile_dust_eager_start
+bip_39_word_underscore_5: exile_dust_eager_start_illegal
+bip_39_word_underscore_6: exile_dust_eager_start_illegal_round
+bip_39_word_underscore_7: exile_dust_eager_start_illegal_round_reopen
+bip_39_word_underscore_8: exile_dust_eager_start_illegal_round_reopen_rely
+bip_39_word_underscore_9: exile_dust_eager_start_illegal_round_reopen_rely_space
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

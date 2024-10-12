@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pistol
+bip_39_word_dash_10: pistol-december-decade-remind-drive-theory-muffin-napkin-tube-peasant
+bip_39_word_dash_11: pistol-december-decade-remind-drive-theory-muffin-napkin-tube-peasant-bicycle
+bip_39_word_dash_12: pistol-december-decade-remind-drive-theory-muffin-napkin-tube-peasant-bicycle-august
+bip_39_word_dash_2: pistol-december
+bip_39_word_dash_3: pistol-december-decade
+bip_39_word_dash_4: pistol-december-decade-remind
+bip_39_word_dash_5: pistol-december-decade-remind-drive
+bip_39_word_dash_6: pistol-december-decade-remind-drive-theory
+bip_39_word_dash_7: pistol-december-decade-remind-drive-theory-muffin
+bip_39_word_dash_8: pistol-december-decade-remind-drive-theory-muffin-napkin
+bip_39_word_dash_9: pistol-december-decade-remind-drive-theory-muffin-napkin-tube
 bip_39_word_new_br_1: pistol
 bip_39_word_new_br_10: pistol<br>december<br>decade<br>remind<br>drive<br>theory<br>muffin<br>napkin<br>tube<br>peasant
 bip_39_word_new_br_11: pistol<br>december<br>decade<br>remind<br>drive<br>theory<br>muffin<br>napkin<br>tube<br>peasant<br>bicycle
@@ -194,6 +206,18 @@ bip_39_word_space_6: pistol december decade remind drive theory
 bip_39_word_space_7: pistol december decade remind drive theory muffin
 bip_39_word_space_8: pistol december decade remind drive theory muffin napkin
 bip_39_word_space_9: pistol december decade remind drive theory muffin napkin tube
+bip_39_word_underscore_1: pistol
+bip_39_word_underscore_10: pistol_december_decade_remind_drive_theory_muffin_napkin_tube_peasant
+bip_39_word_underscore_11: pistol_december_decade_remind_drive_theory_muffin_napkin_tube_peasant_bicycle
+bip_39_word_underscore_12: pistol_december_decade_remind_drive_theory_muffin_napkin_tube_peasant_bicycle_august
+bip_39_word_underscore_2: pistol_december
+bip_39_word_underscore_3: pistol_december_decade
+bip_39_word_underscore_4: pistol_december_decade_remind
+bip_39_word_underscore_5: pistol_december_decade_remind_drive
+bip_39_word_underscore_6: pistol_december_decade_remind_drive_theory
+bip_39_word_underscore_7: pistol_december_decade_remind_drive_theory_muffin
+bip_39_word_underscore_8: pistol_december_decade_remind_drive_theory_muffin_napkin
+bip_39_word_underscore_9: pistol_december_decade_remind_drive_theory_muffin_napkin_tube
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

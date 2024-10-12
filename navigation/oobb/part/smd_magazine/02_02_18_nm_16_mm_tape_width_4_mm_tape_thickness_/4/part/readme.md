@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | element |  
+| bip_39_word_dash_10 | element-service-play-cigar-rotate-wink-aim-flash-knock-fine |  
+| bip_39_word_dash_11 | element-service-play-cigar-rotate-wink-aim-flash-knock-fine-twelve |  
+| bip_39_word_dash_12 | element-service-play-cigar-rotate-wink-aim-flash-knock-fine-twelve-amused |  
+| bip_39_word_dash_2 | element-service |  
+| bip_39_word_dash_3 | element-service-play |  
+| bip_39_word_dash_4 | element-service-play-cigar |  
+| bip_39_word_dash_5 | element-service-play-cigar-rotate |  
+| bip_39_word_dash_6 | element-service-play-cigar-rotate-wink |  
+| bip_39_word_dash_7 | element-service-play-cigar-rotate-wink-aim |  
+| bip_39_word_dash_8 | element-service-play-cigar-rotate-wink-aim-flash |  
+| bip_39_word_dash_9 | element-service-play-cigar-rotate-wink-aim-flash-knock |  
 | bip_39_word_new_br_1 | element |  
 | bip_39_word_new_br_10 | element<br>service<br>play<br>cigar<br>rotate<br>wink<br>aim<br>flash<br>knock<br>fine |  
 | bip_39_word_new_br_11 | element<br>service<br>play<br>cigar<br>rotate<br>wink<br>aim<br>flash<br>knock<br>fine<br>twelve |  
@@ -147,6 +159,18 @@ knock |
 | bip_39_word_space_7 | element service play cigar rotate wink aim |  
 | bip_39_word_space_8 | element service play cigar rotate wink aim flash |  
 | bip_39_word_space_9 | element service play cigar rotate wink aim flash knock |  
+| bip_39_word_underscore_1 | element |  
+| bip_39_word_underscore_10 | element_service_play_cigar_rotate_wink_aim_flash_knock_fine |  
+| bip_39_word_underscore_11 | element_service_play_cigar_rotate_wink_aim_flash_knock_fine_twelve |  
+| bip_39_word_underscore_12 | element_service_play_cigar_rotate_wink_aim_flash_knock_fine_twelve_amused |  
+| bip_39_word_underscore_2 | element_service |  
+| bip_39_word_underscore_3 | element_service_play |  
+| bip_39_word_underscore_4 | element_service_play_cigar |  
+| bip_39_word_underscore_5 | element_service_play_cigar_rotate |  
+| bip_39_word_underscore_6 | element_service_play_cigar_rotate_wink |  
+| bip_39_word_underscore_7 | element_service_play_cigar_rotate_wink_aim |  
+| bip_39_word_underscore_8 | element_service_play_cigar_rotate_wink_aim_flash |  
+| bip_39_word_underscore_9 | element_service_play_cigar_rotate_wink_aim_flash_knock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

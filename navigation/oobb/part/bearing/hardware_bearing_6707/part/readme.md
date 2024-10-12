@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | walk |  
+| bip_39_word_dash_10 | walk-gentle-raw-resource-neck-vital-segment-across-siege-senior |  
+| bip_39_word_dash_11 | walk-gentle-raw-resource-neck-vital-segment-across-siege-senior-issue |  
+| bip_39_word_dash_12 | walk-gentle-raw-resource-neck-vital-segment-across-siege-senior-issue-abuse |  
+| bip_39_word_dash_2 | walk-gentle |  
+| bip_39_word_dash_3 | walk-gentle-raw |  
+| bip_39_word_dash_4 | walk-gentle-raw-resource |  
+| bip_39_word_dash_5 | walk-gentle-raw-resource-neck |  
+| bip_39_word_dash_6 | walk-gentle-raw-resource-neck-vital |  
+| bip_39_word_dash_7 | walk-gentle-raw-resource-neck-vital-segment |  
+| bip_39_word_dash_8 | walk-gentle-raw-resource-neck-vital-segment-across |  
+| bip_39_word_dash_9 | walk-gentle-raw-resource-neck-vital-segment-across-siege |  
 | bip_39_word_new_br_1 | walk |  
 | bip_39_word_new_br_10 | walk<br>gentle<br>raw<br>resource<br>neck<br>vital<br>segment<br>across<br>siege<br>senior |  
 | bip_39_word_new_br_11 | walk<br>gentle<br>raw<br>resource<br>neck<br>vital<br>segment<br>across<br>siege<br>senior<br>issue |  
@@ -147,6 +159,18 @@ siege |
 | bip_39_word_space_7 | walk gentle raw resource neck vital segment |  
 | bip_39_word_space_8 | walk gentle raw resource neck vital segment across |  
 | bip_39_word_space_9 | walk gentle raw resource neck vital segment across siege |  
+| bip_39_word_underscore_1 | walk |  
+| bip_39_word_underscore_10 | walk_gentle_raw_resource_neck_vital_segment_across_siege_senior |  
+| bip_39_word_underscore_11 | walk_gentle_raw_resource_neck_vital_segment_across_siege_senior_issue |  
+| bip_39_word_underscore_12 | walk_gentle_raw_resource_neck_vital_segment_across_siege_senior_issue_abuse |  
+| bip_39_word_underscore_2 | walk_gentle |  
+| bip_39_word_underscore_3 | walk_gentle_raw |  
+| bip_39_word_underscore_4 | walk_gentle_raw_resource |  
+| bip_39_word_underscore_5 | walk_gentle_raw_resource_neck |  
+| bip_39_word_underscore_6 | walk_gentle_raw_resource_neck_vital |  
+| bip_39_word_underscore_7 | walk_gentle_raw_resource_neck_vital_segment |  
+| bip_39_word_underscore_8 | walk_gentle_raw_resource_neck_vital_segment_across |  
+| bip_39_word_underscore_9 | walk_gentle_raw_resource_neck_vital_segment_across_siege |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

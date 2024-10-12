@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | liar |  
+| bip_39_word_dash_10 | liar-rapid-sail-twelve-clarify-pill-fringe-tape-slim-trial |  
+| bip_39_word_dash_11 | liar-rapid-sail-twelve-clarify-pill-fringe-tape-slim-trial-float |  
+| bip_39_word_dash_12 | liar-rapid-sail-twelve-clarify-pill-fringe-tape-slim-trial-float-anxiety |  
+| bip_39_word_dash_2 | liar-rapid |  
+| bip_39_word_dash_3 | liar-rapid-sail |  
+| bip_39_word_dash_4 | liar-rapid-sail-twelve |  
+| bip_39_word_dash_5 | liar-rapid-sail-twelve-clarify |  
+| bip_39_word_dash_6 | liar-rapid-sail-twelve-clarify-pill |  
+| bip_39_word_dash_7 | liar-rapid-sail-twelve-clarify-pill-fringe |  
+| bip_39_word_dash_8 | liar-rapid-sail-twelve-clarify-pill-fringe-tape |  
+| bip_39_word_dash_9 | liar-rapid-sail-twelve-clarify-pill-fringe-tape-slim |  
 | bip_39_word_new_br_1 | liar |  
 | bip_39_word_new_br_10 | liar<br>rapid<br>sail<br>twelve<br>clarify<br>pill<br>fringe<br>tape<br>slim<br>trial |  
 | bip_39_word_new_br_11 | liar<br>rapid<br>sail<br>twelve<br>clarify<br>pill<br>fringe<br>tape<br>slim<br>trial<br>float |  
@@ -147,6 +159,18 @@ slim |
 | bip_39_word_space_7 | liar rapid sail twelve clarify pill fringe |  
 | bip_39_word_space_8 | liar rapid sail twelve clarify pill fringe tape |  
 | bip_39_word_space_9 | liar rapid sail twelve clarify pill fringe tape slim |  
+| bip_39_word_underscore_1 | liar |  
+| bip_39_word_underscore_10 | liar_rapid_sail_twelve_clarify_pill_fringe_tape_slim_trial |  
+| bip_39_word_underscore_11 | liar_rapid_sail_twelve_clarify_pill_fringe_tape_slim_trial_float |  
+| bip_39_word_underscore_12 | liar_rapid_sail_twelve_clarify_pill_fringe_tape_slim_trial_float_anxiety |  
+| bip_39_word_underscore_2 | liar_rapid |  
+| bip_39_word_underscore_3 | liar_rapid_sail |  
+| bip_39_word_underscore_4 | liar_rapid_sail_twelve |  
+| bip_39_word_underscore_5 | liar_rapid_sail_twelve_clarify |  
+| bip_39_word_underscore_6 | liar_rapid_sail_twelve_clarify_pill |  
+| bip_39_word_underscore_7 | liar_rapid_sail_twelve_clarify_pill_fringe |  
+| bip_39_word_underscore_8 | liar_rapid_sail_twelve_clarify_pill_fringe_tape |  
+| bip_39_word_underscore_9 | liar_rapid_sail_twelve_clarify_pill_fringe_tape_slim |  
 | classification | food |  
 | classification_capital | Food |  
 | classification_first_letter | f |  

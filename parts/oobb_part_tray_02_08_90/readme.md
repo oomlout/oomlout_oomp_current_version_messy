@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | recall |  
+| bip_39_word_dash_10 | recall-churn-walnut-piece-carry-lift-sister-damp-shiver-trophy |  
+| bip_39_word_dash_11 | recall-churn-walnut-piece-carry-lift-sister-damp-shiver-trophy-fall |  
+| bip_39_word_dash_12 | recall-churn-walnut-piece-carry-lift-sister-damp-shiver-trophy-fall-alert |  
+| bip_39_word_dash_2 | recall-churn |  
+| bip_39_word_dash_3 | recall-churn-walnut |  
+| bip_39_word_dash_4 | recall-churn-walnut-piece |  
+| bip_39_word_dash_5 | recall-churn-walnut-piece-carry |  
+| bip_39_word_dash_6 | recall-churn-walnut-piece-carry-lift |  
+| bip_39_word_dash_7 | recall-churn-walnut-piece-carry-lift-sister |  
+| bip_39_word_dash_8 | recall-churn-walnut-piece-carry-lift-sister-damp |  
+| bip_39_word_dash_9 | recall-churn-walnut-piece-carry-lift-sister-damp-shiver |  
 | bip_39_word_new_br_1 | recall |  
 | bip_39_word_new_br_10 | recall<br>churn<br>walnut<br>piece<br>carry<br>lift<br>sister<br>damp<br>shiver<br>trophy |  
 | bip_39_word_new_br_11 | recall<br>churn<br>walnut<br>piece<br>carry<br>lift<br>sister<br>damp<br>shiver<br>trophy<br>fall |  
@@ -147,6 +159,18 @@ shiver |
 | bip_39_word_space_7 | recall churn walnut piece carry lift sister |  
 | bip_39_word_space_8 | recall churn walnut piece carry lift sister damp |  
 | bip_39_word_space_9 | recall churn walnut piece carry lift sister damp shiver |  
+| bip_39_word_underscore_1 | recall |  
+| bip_39_word_underscore_10 | recall_churn_walnut_piece_carry_lift_sister_damp_shiver_trophy |  
+| bip_39_word_underscore_11 | recall_churn_walnut_piece_carry_lift_sister_damp_shiver_trophy_fall |  
+| bip_39_word_underscore_12 | recall_churn_walnut_piece_carry_lift_sister_damp_shiver_trophy_fall_alert |  
+| bip_39_word_underscore_2 | recall_churn |  
+| bip_39_word_underscore_3 | recall_churn_walnut |  
+| bip_39_word_underscore_4 | recall_churn_walnut_piece |  
+| bip_39_word_underscore_5 | recall_churn_walnut_piece_carry |  
+| bip_39_word_underscore_6 | recall_churn_walnut_piece_carry_lift |  
+| bip_39_word_underscore_7 | recall_churn_walnut_piece_carry_lift_sister |  
+| bip_39_word_underscore_8 | recall_churn_walnut_piece_carry_lift_sister_damp |  
+| bip_39_word_underscore_9 | recall_churn_walnut_piece_carry_lift_sister_damp_shiver |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | donor |  
+| bip_39_word_dash_10 | donor-duck-photo-solid-visual-ring-corn-release-salad-glue |  
+| bip_39_word_dash_11 | donor-duck-photo-solid-visual-ring-corn-release-salad-glue-demand |  
+| bip_39_word_dash_12 | donor-duck-photo-solid-visual-ring-corn-release-salad-glue-demand-artefact |  
+| bip_39_word_dash_2 | donor-duck |  
+| bip_39_word_dash_3 | donor-duck-photo |  
+| bip_39_word_dash_4 | donor-duck-photo-solid |  
+| bip_39_word_dash_5 | donor-duck-photo-solid-visual |  
+| bip_39_word_dash_6 | donor-duck-photo-solid-visual-ring |  
+| bip_39_word_dash_7 | donor-duck-photo-solid-visual-ring-corn |  
+| bip_39_word_dash_8 | donor-duck-photo-solid-visual-ring-corn-release |  
+| bip_39_word_dash_9 | donor-duck-photo-solid-visual-ring-corn-release-salad |  
 | bip_39_word_new_br_1 | donor |  
 | bip_39_word_new_br_10 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release<br>salad<br>glue |  
 | bip_39_word_new_br_11 | donor<br>duck<br>photo<br>solid<br>visual<br>ring<br>corn<br>release<br>salad<br>glue<br>demand |  
@@ -147,6 +159,18 @@ salad |
 | bip_39_word_space_7 | donor duck photo solid visual ring corn |  
 | bip_39_word_space_8 | donor duck photo solid visual ring corn release |  
 | bip_39_word_space_9 | donor duck photo solid visual ring corn release salad |  
+| bip_39_word_underscore_1 | donor |  
+| bip_39_word_underscore_10 | donor_duck_photo_solid_visual_ring_corn_release_salad_glue |  
+| bip_39_word_underscore_11 | donor_duck_photo_solid_visual_ring_corn_release_salad_glue_demand |  
+| bip_39_word_underscore_12 | donor_duck_photo_solid_visual_ring_corn_release_salad_glue_demand_artefact |  
+| bip_39_word_underscore_2 | donor_duck |  
+| bip_39_word_underscore_3 | donor_duck_photo |  
+| bip_39_word_underscore_4 | donor_duck_photo_solid |  
+| bip_39_word_underscore_5 | donor_duck_photo_solid_visual |  
+| bip_39_word_underscore_6 | donor_duck_photo_solid_visual_ring |  
+| bip_39_word_underscore_7 | donor_duck_photo_solid_visual_ring_corn |  
+| bip_39_word_underscore_8 | donor_duck_photo_solid_visual_ring_corn_release |  
+| bip_39_word_underscore_9 | donor_duck_photo_solid_visual_ring_corn_release_salad |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

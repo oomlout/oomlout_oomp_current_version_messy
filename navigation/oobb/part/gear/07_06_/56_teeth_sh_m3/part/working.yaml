@@ -1,3 +1,15 @@
+bip_39_word_dash_1: argue
+bip_39_word_dash_10: argue-spend-clown-amount-amused-head-over-file-argue-bounce
+bip_39_word_dash_11: argue-spend-clown-amount-amused-head-over-file-argue-bounce-vehicle
+bip_39_word_dash_12: argue-spend-clown-amount-amused-head-over-file-argue-bounce-vehicle-access
+bip_39_word_dash_2: argue-spend
+bip_39_word_dash_3: argue-spend-clown
+bip_39_word_dash_4: argue-spend-clown-amount
+bip_39_word_dash_5: argue-spend-clown-amount-amused
+bip_39_word_dash_6: argue-spend-clown-amount-amused-head
+bip_39_word_dash_7: argue-spend-clown-amount-amused-head-over
+bip_39_word_dash_8: argue-spend-clown-amount-amused-head-over-file
+bip_39_word_dash_9: argue-spend-clown-amount-amused-head-over-file-argue
 bip_39_word_new_br_1: argue
 bip_39_word_new_br_10: argue<br>spend<br>clown<br>amount<br>amused<br>head<br>over<br>file<br>argue<br>bounce
 bip_39_word_new_br_11: argue<br>spend<br>clown<br>amount<br>amused<br>head<br>over<br>file<br>argue<br>bounce<br>vehicle
@@ -193,6 +205,18 @@ bip_39_word_space_6: argue spend clown amount amused head
 bip_39_word_space_7: argue spend clown amount amused head over
 bip_39_word_space_8: argue spend clown amount amused head over file
 bip_39_word_space_9: argue spend clown amount amused head over file argue
+bip_39_word_underscore_1: argue
+bip_39_word_underscore_10: argue_spend_clown_amount_amused_head_over_file_argue_bounce
+bip_39_word_underscore_11: argue_spend_clown_amount_amused_head_over_file_argue_bounce_vehicle
+bip_39_word_underscore_12: argue_spend_clown_amount_amused_head_over_file_argue_bounce_vehicle_access
+bip_39_word_underscore_2: argue_spend
+bip_39_word_underscore_3: argue_spend_clown
+bip_39_word_underscore_4: argue_spend_clown_amount
+bip_39_word_underscore_5: argue_spend_clown_amount_amused
+bip_39_word_underscore_6: argue_spend_clown_amount_amused_head
+bip_39_word_underscore_7: argue_spend_clown_amount_amused_head_over
+bip_39_word_underscore_8: argue_spend_clown_amount_amused_head_over_file
+bip_39_word_underscore_9: argue_spend_clown_amount_amused_head_over_file_argue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

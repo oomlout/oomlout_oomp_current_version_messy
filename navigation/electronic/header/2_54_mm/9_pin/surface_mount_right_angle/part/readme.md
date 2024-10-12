@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drop |  
+| bip_39_word_dash_10 | drop-label-piece-display-poem-object-know-tone-grit-abstract |  
+| bip_39_word_dash_11 | drop-label-piece-display-poem-object-know-tone-grit-abstract-degree |  
+| bip_39_word_dash_12 | drop-label-piece-display-poem-object-know-tone-grit-abstract-degree-across |  
+| bip_39_word_dash_2 | drop-label |  
+| bip_39_word_dash_3 | drop-label-piece |  
+| bip_39_word_dash_4 | drop-label-piece-display |  
+| bip_39_word_dash_5 | drop-label-piece-display-poem |  
+| bip_39_word_dash_6 | drop-label-piece-display-poem-object |  
+| bip_39_word_dash_7 | drop-label-piece-display-poem-object-know |  
+| bip_39_word_dash_8 | drop-label-piece-display-poem-object-know-tone |  
+| bip_39_word_dash_9 | drop-label-piece-display-poem-object-know-tone-grit |  
 | bip_39_word_new_br_1 | drop |  
 | bip_39_word_new_br_10 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract |  
 | bip_39_word_new_br_11 | drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract<br>degree |  
@@ -147,6 +159,18 @@ grit |
 | bip_39_word_space_7 | drop label piece display poem object know |  
 | bip_39_word_space_8 | drop label piece display poem object know tone |  
 | bip_39_word_space_9 | drop label piece display poem object know tone grit |  
+| bip_39_word_underscore_1 | drop |  
+| bip_39_word_underscore_10 | drop_label_piece_display_poem_object_know_tone_grit_abstract |  
+| bip_39_word_underscore_11 | drop_label_piece_display_poem_object_know_tone_grit_abstract_degree |  
+| bip_39_word_underscore_12 | drop_label_piece_display_poem_object_know_tone_grit_abstract_degree_across |  
+| bip_39_word_underscore_2 | drop_label |  
+| bip_39_word_underscore_3 | drop_label_piece |  
+| bip_39_word_underscore_4 | drop_label_piece_display |  
+| bip_39_word_underscore_5 | drop_label_piece_display_poem |  
+| bip_39_word_underscore_6 | drop_label_piece_display_poem_object |  
+| bip_39_word_underscore_7 | drop_label_piece_display_poem_object_know |  
+| bip_39_word_underscore_8 | drop_label_piece_display_poem_object_know_tone |  
+| bip_39_word_underscore_9 | drop_label_piece_display_poem_object_know_tone_grit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

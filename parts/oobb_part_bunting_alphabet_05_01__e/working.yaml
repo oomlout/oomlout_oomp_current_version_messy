@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mouse
+bip_39_word_dash_10: mouse-multiply-fun-news-spice-matrix-employ-spray-badge-shoulder
+bip_39_word_dash_11: mouse-multiply-fun-news-spice-matrix-employ-spray-badge-shoulder-nation
+bip_39_word_dash_12: mouse-multiply-fun-news-spice-matrix-employ-spray-badge-shoulder-nation-artist
+bip_39_word_dash_2: mouse-multiply
+bip_39_word_dash_3: mouse-multiply-fun
+bip_39_word_dash_4: mouse-multiply-fun-news
+bip_39_word_dash_5: mouse-multiply-fun-news-spice
+bip_39_word_dash_6: mouse-multiply-fun-news-spice-matrix
+bip_39_word_dash_7: mouse-multiply-fun-news-spice-matrix-employ
+bip_39_word_dash_8: mouse-multiply-fun-news-spice-matrix-employ-spray
+bip_39_word_dash_9: mouse-multiply-fun-news-spice-matrix-employ-spray-badge
 bip_39_word_new_br_1: mouse
 bip_39_word_new_br_10: mouse<br>multiply<br>fun<br>news<br>spice<br>matrix<br>employ<br>spray<br>badge<br>shoulder
 bip_39_word_new_br_11: mouse<br>multiply<br>fun<br>news<br>spice<br>matrix<br>employ<br>spray<br>badge<br>shoulder<br>nation
@@ -193,6 +205,18 @@ bip_39_word_space_6: mouse multiply fun news spice matrix
 bip_39_word_space_7: mouse multiply fun news spice matrix employ
 bip_39_word_space_8: mouse multiply fun news spice matrix employ spray
 bip_39_word_space_9: mouse multiply fun news spice matrix employ spray badge
+bip_39_word_underscore_1: mouse
+bip_39_word_underscore_10: mouse_multiply_fun_news_spice_matrix_employ_spray_badge_shoulder
+bip_39_word_underscore_11: mouse_multiply_fun_news_spice_matrix_employ_spray_badge_shoulder_nation
+bip_39_word_underscore_12: mouse_multiply_fun_news_spice_matrix_employ_spray_badge_shoulder_nation_artist
+bip_39_word_underscore_2: mouse_multiply
+bip_39_word_underscore_3: mouse_multiply_fun
+bip_39_word_underscore_4: mouse_multiply_fun_news
+bip_39_word_underscore_5: mouse_multiply_fun_news_spice
+bip_39_word_underscore_6: mouse_multiply_fun_news_spice_matrix
+bip_39_word_underscore_7: mouse_multiply_fun_news_spice_matrix_employ
+bip_39_word_underscore_8: mouse_multiply_fun_news_spice_matrix_employ_spray
+bip_39_word_underscore_9: mouse_multiply_fun_news_spice_matrix_employ_spray_badge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

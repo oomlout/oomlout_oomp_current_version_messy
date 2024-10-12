@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eye |  
+| bip_39_word_dash_10 | eye-lens-blood-cream-lake-twenty-shop-anchor-vivid-subway |  
+| bip_39_word_dash_11 | eye-lens-blood-cream-lake-twenty-shop-anchor-vivid-subway-kingdom |  
+| bip_39_word_dash_12 | eye-lens-blood-cream-lake-twenty-shop-anchor-vivid-subway-kingdom-acquire |  
+| bip_39_word_dash_2 | eye-lens |  
+| bip_39_word_dash_3 | eye-lens-blood |  
+| bip_39_word_dash_4 | eye-lens-blood-cream |  
+| bip_39_word_dash_5 | eye-lens-blood-cream-lake |  
+| bip_39_word_dash_6 | eye-lens-blood-cream-lake-twenty |  
+| bip_39_word_dash_7 | eye-lens-blood-cream-lake-twenty-shop |  
+| bip_39_word_dash_8 | eye-lens-blood-cream-lake-twenty-shop-anchor |  
+| bip_39_word_dash_9 | eye-lens-blood-cream-lake-twenty-shop-anchor-vivid |  
 | bip_39_word_new_br_1 | eye |  
 | bip_39_word_new_br_10 | eye<br>lens<br>blood<br>cream<br>lake<br>twenty<br>shop<br>anchor<br>vivid<br>subway |  
 | bip_39_word_new_br_11 | eye<br>lens<br>blood<br>cream<br>lake<br>twenty<br>shop<br>anchor<br>vivid<br>subway<br>kingdom |  
@@ -147,6 +159,18 @@ vivid |
 | bip_39_word_space_7 | eye lens blood cream lake twenty shop |  
 | bip_39_word_space_8 | eye lens blood cream lake twenty shop anchor |  
 | bip_39_word_space_9 | eye lens blood cream lake twenty shop anchor vivid |  
+| bip_39_word_underscore_1 | eye |  
+| bip_39_word_underscore_10 | eye_lens_blood_cream_lake_twenty_shop_anchor_vivid_subway |  
+| bip_39_word_underscore_11 | eye_lens_blood_cream_lake_twenty_shop_anchor_vivid_subway_kingdom |  
+| bip_39_word_underscore_12 | eye_lens_blood_cream_lake_twenty_shop_anchor_vivid_subway_kingdom_acquire |  
+| bip_39_word_underscore_2 | eye_lens |  
+| bip_39_word_underscore_3 | eye_lens_blood |  
+| bip_39_word_underscore_4 | eye_lens_blood_cream |  
+| bip_39_word_underscore_5 | eye_lens_blood_cream_lake |  
+| bip_39_word_underscore_6 | eye_lens_blood_cream_lake_twenty |  
+| bip_39_word_underscore_7 | eye_lens_blood_cream_lake_twenty_shop |  
+| bip_39_word_underscore_8 | eye_lens_blood_cream_lake_twenty_shop_anchor |  
+| bip_39_word_underscore_9 | eye_lens_blood_cream_lake_twenty_shop_anchor_vivid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

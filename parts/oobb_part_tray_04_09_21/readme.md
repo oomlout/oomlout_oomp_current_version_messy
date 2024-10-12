@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lunch |  
+| bip_39_word_dash_10 | lunch-whip-market-unable-poet-auction-black-claim-age-mule |  
+| bip_39_word_dash_11 | lunch-whip-market-unable-poet-auction-black-claim-age-mule-raven |  
+| bip_39_word_dash_12 | lunch-whip-market-unable-poet-auction-black-claim-age-mule-raven-asset |  
+| bip_39_word_dash_2 | lunch-whip |  
+| bip_39_word_dash_3 | lunch-whip-market |  
+| bip_39_word_dash_4 | lunch-whip-market-unable |  
+| bip_39_word_dash_5 | lunch-whip-market-unable-poet |  
+| bip_39_word_dash_6 | lunch-whip-market-unable-poet-auction |  
+| bip_39_word_dash_7 | lunch-whip-market-unable-poet-auction-black |  
+| bip_39_word_dash_8 | lunch-whip-market-unable-poet-auction-black-claim |  
+| bip_39_word_dash_9 | lunch-whip-market-unable-poet-auction-black-claim-age |  
 | bip_39_word_new_br_1 | lunch |  
 | bip_39_word_new_br_10 | lunch<br>whip<br>market<br>unable<br>poet<br>auction<br>black<br>claim<br>age<br>mule |  
 | bip_39_word_new_br_11 | lunch<br>whip<br>market<br>unable<br>poet<br>auction<br>black<br>claim<br>age<br>mule<br>raven |  
@@ -147,6 +159,18 @@ age |
 | bip_39_word_space_7 | lunch whip market unable poet auction black |  
 | bip_39_word_space_8 | lunch whip market unable poet auction black claim |  
 | bip_39_word_space_9 | lunch whip market unable poet auction black claim age |  
+| bip_39_word_underscore_1 | lunch |  
+| bip_39_word_underscore_10 | lunch_whip_market_unable_poet_auction_black_claim_age_mule |  
+| bip_39_word_underscore_11 | lunch_whip_market_unable_poet_auction_black_claim_age_mule_raven |  
+| bip_39_word_underscore_12 | lunch_whip_market_unable_poet_auction_black_claim_age_mule_raven_asset |  
+| bip_39_word_underscore_2 | lunch_whip |  
+| bip_39_word_underscore_3 | lunch_whip_market |  
+| bip_39_word_underscore_4 | lunch_whip_market_unable |  
+| bip_39_word_underscore_5 | lunch_whip_market_unable_poet |  
+| bip_39_word_underscore_6 | lunch_whip_market_unable_poet_auction |  
+| bip_39_word_underscore_7 | lunch_whip_market_unable_poet_auction_black |  
+| bip_39_word_underscore_8 | lunch_whip_market_unable_poet_auction_black_claim |  
+| bip_39_word_underscore_9 | lunch_whip_market_unable_poet_auction_black_claim_age |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

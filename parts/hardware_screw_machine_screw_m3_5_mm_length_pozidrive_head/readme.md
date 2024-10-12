@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | twin |  
+| bip_39_word_dash_10 | twin-pepper-seed-museum-riot-candy-jacket-trouble-rescue-sentence |  
+| bip_39_word_dash_11 | twin-pepper-seed-museum-riot-candy-jacket-trouble-rescue-sentence-cradle |  
+| bip_39_word_dash_12 | twin-pepper-seed-museum-riot-candy-jacket-trouble-rescue-sentence-cradle-ask |  
+| bip_39_word_dash_2 | twin-pepper |  
+| bip_39_word_dash_3 | twin-pepper-seed |  
+| bip_39_word_dash_4 | twin-pepper-seed-museum |  
+| bip_39_word_dash_5 | twin-pepper-seed-museum-riot |  
+| bip_39_word_dash_6 | twin-pepper-seed-museum-riot-candy |  
+| bip_39_word_dash_7 | twin-pepper-seed-museum-riot-candy-jacket |  
+| bip_39_word_dash_8 | twin-pepper-seed-museum-riot-candy-jacket-trouble |  
+| bip_39_word_dash_9 | twin-pepper-seed-museum-riot-candy-jacket-trouble-rescue |  
 | bip_39_word_new_br_1 | twin |  
 | bip_39_word_new_br_10 | twin<br>pepper<br>seed<br>museum<br>riot<br>candy<br>jacket<br>trouble<br>rescue<br>sentence |  
 | bip_39_word_new_br_11 | twin<br>pepper<br>seed<br>museum<br>riot<br>candy<br>jacket<br>trouble<br>rescue<br>sentence<br>cradle |  
@@ -147,6 +159,18 @@ rescue |
 | bip_39_word_space_7 | twin pepper seed museum riot candy jacket |  
 | bip_39_word_space_8 | twin pepper seed museum riot candy jacket trouble |  
 | bip_39_word_space_9 | twin pepper seed museum riot candy jacket trouble rescue |  
+| bip_39_word_underscore_1 | twin |  
+| bip_39_word_underscore_10 | twin_pepper_seed_museum_riot_candy_jacket_trouble_rescue_sentence |  
+| bip_39_word_underscore_11 | twin_pepper_seed_museum_riot_candy_jacket_trouble_rescue_sentence_cradle |  
+| bip_39_word_underscore_12 | twin_pepper_seed_museum_riot_candy_jacket_trouble_rescue_sentence_cradle_ask |  
+| bip_39_word_underscore_2 | twin_pepper |  
+| bip_39_word_underscore_3 | twin_pepper_seed |  
+| bip_39_word_underscore_4 | twin_pepper_seed_museum |  
+| bip_39_word_underscore_5 | twin_pepper_seed_museum_riot |  
+| bip_39_word_underscore_6 | twin_pepper_seed_museum_riot_candy |  
+| bip_39_word_underscore_7 | twin_pepper_seed_museum_riot_candy_jacket |  
+| bip_39_word_underscore_8 | twin_pepper_seed_museum_riot_candy_jacket_trouble |  
+| bip_39_word_underscore_9 | twin_pepper_seed_museum_riot_candy_jacket_trouble_rescue |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lock |  
+| bip_39_word_dash_10 | lock-swift-merry-combine-car-treat-crunch-dish-sound-shoe |  
+| bip_39_word_dash_11 | lock-swift-merry-combine-car-treat-crunch-dish-sound-shoe-play |  
+| bip_39_word_dash_12 | lock-swift-merry-combine-car-treat-crunch-dish-sound-shoe-play-abuse |  
+| bip_39_word_dash_2 | lock-swift |  
+| bip_39_word_dash_3 | lock-swift-merry |  
+| bip_39_word_dash_4 | lock-swift-merry-combine |  
+| bip_39_word_dash_5 | lock-swift-merry-combine-car |  
+| bip_39_word_dash_6 | lock-swift-merry-combine-car-treat |  
+| bip_39_word_dash_7 | lock-swift-merry-combine-car-treat-crunch |  
+| bip_39_word_dash_8 | lock-swift-merry-combine-car-treat-crunch-dish |  
+| bip_39_word_dash_9 | lock-swift-merry-combine-car-treat-crunch-dish-sound |  
 | bip_39_word_new_br_1 | lock |  
 | bip_39_word_new_br_10 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe |  
 | bip_39_word_new_br_11 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe<br>play |  
@@ -147,6 +159,18 @@ sound |
 | bip_39_word_space_7 | lock swift merry combine car treat crunch |  
 | bip_39_word_space_8 | lock swift merry combine car treat crunch dish |  
 | bip_39_word_space_9 | lock swift merry combine car treat crunch dish sound |  
+| bip_39_word_underscore_1 | lock |  
+| bip_39_word_underscore_10 | lock_swift_merry_combine_car_treat_crunch_dish_sound_shoe |  
+| bip_39_word_underscore_11 | lock_swift_merry_combine_car_treat_crunch_dish_sound_shoe_play |  
+| bip_39_word_underscore_12 | lock_swift_merry_combine_car_treat_crunch_dish_sound_shoe_play_abuse |  
+| bip_39_word_underscore_2 | lock_swift |  
+| bip_39_word_underscore_3 | lock_swift_merry |  
+| bip_39_word_underscore_4 | lock_swift_merry_combine |  
+| bip_39_word_underscore_5 | lock_swift_merry_combine_car |  
+| bip_39_word_underscore_6 | lock_swift_merry_combine_car_treat |  
+| bip_39_word_underscore_7 | lock_swift_merry_combine_car_treat_crunch |  
+| bip_39_word_underscore_8 | lock_swift_merry_combine_car_treat_crunch_dish |  
+| bip_39_word_underscore_9 | lock_swift_merry_combine_car_treat_crunch_dish_sound |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | report |  
+| bip_39_word_dash_10 | report-mobile-process-gentle-domain-depend-useful-mesh-month-genius |  
+| bip_39_word_dash_11 | report-mobile-process-gentle-domain-depend-useful-mesh-month-genius-above |  
+| bip_39_word_dash_12 | report-mobile-process-gentle-domain-depend-useful-mesh-month-genius-above-athlete |  
+| bip_39_word_dash_2 | report-mobile |  
+| bip_39_word_dash_3 | report-mobile-process |  
+| bip_39_word_dash_4 | report-mobile-process-gentle |  
+| bip_39_word_dash_5 | report-mobile-process-gentle-domain |  
+| bip_39_word_dash_6 | report-mobile-process-gentle-domain-depend |  
+| bip_39_word_dash_7 | report-mobile-process-gentle-domain-depend-useful |  
+| bip_39_word_dash_8 | report-mobile-process-gentle-domain-depend-useful-mesh |  
+| bip_39_word_dash_9 | report-mobile-process-gentle-domain-depend-useful-mesh-month |  
 | bip_39_word_new_br_1 | report |  
 | bip_39_word_new_br_10 | report<br>mobile<br>process<br>gentle<br>domain<br>depend<br>useful<br>mesh<br>month<br>genius |  
 | bip_39_word_new_br_11 | report<br>mobile<br>process<br>gentle<br>domain<br>depend<br>useful<br>mesh<br>month<br>genius<br>above |  
@@ -147,6 +159,18 @@ month |
 | bip_39_word_space_7 | report mobile process gentle domain depend useful |  
 | bip_39_word_space_8 | report mobile process gentle domain depend useful mesh |  
 | bip_39_word_space_9 | report mobile process gentle domain depend useful mesh month |  
+| bip_39_word_underscore_1 | report |  
+| bip_39_word_underscore_10 | report_mobile_process_gentle_domain_depend_useful_mesh_month_genius |  
+| bip_39_word_underscore_11 | report_mobile_process_gentle_domain_depend_useful_mesh_month_genius_above |  
+| bip_39_word_underscore_12 | report_mobile_process_gentle_domain_depend_useful_mesh_month_genius_above_athlete |  
+| bip_39_word_underscore_2 | report_mobile |  
+| bip_39_word_underscore_3 | report_mobile_process |  
+| bip_39_word_underscore_4 | report_mobile_process_gentle |  
+| bip_39_word_underscore_5 | report_mobile_process_gentle_domain |  
+| bip_39_word_underscore_6 | report_mobile_process_gentle_domain_depend |  
+| bip_39_word_underscore_7 | report_mobile_process_gentle_domain_depend_useful |  
+| bip_39_word_underscore_8 | report_mobile_process_gentle_domain_depend_useful_mesh |  
+| bip_39_word_underscore_9 | report_mobile_process_gentle_domain_depend_useful_mesh_month |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | eyebrow |  
+| bip_39_word_dash_10 | eyebrow-drum-word-advice-physical-unfair-draft-push-endless-trophy |  
+| bip_39_word_dash_11 | eyebrow-drum-word-advice-physical-unfair-draft-push-endless-trophy-relax |  
+| bip_39_word_dash_12 | eyebrow-drum-word-advice-physical-unfair-draft-push-endless-trophy-relax-achieve |  
+| bip_39_word_dash_2 | eyebrow-drum |  
+| bip_39_word_dash_3 | eyebrow-drum-word |  
+| bip_39_word_dash_4 | eyebrow-drum-word-advice |  
+| bip_39_word_dash_5 | eyebrow-drum-word-advice-physical |  
+| bip_39_word_dash_6 | eyebrow-drum-word-advice-physical-unfair |  
+| bip_39_word_dash_7 | eyebrow-drum-word-advice-physical-unfair-draft |  
+| bip_39_word_dash_8 | eyebrow-drum-word-advice-physical-unfair-draft-push |  
+| bip_39_word_dash_9 | eyebrow-drum-word-advice-physical-unfair-draft-push-endless |  
 | bip_39_word_new_br_1 | eyebrow |  
 | bip_39_word_new_br_10 | eyebrow<br>drum<br>word<br>advice<br>physical<br>unfair<br>draft<br>push<br>endless<br>trophy |  
 | bip_39_word_new_br_11 | eyebrow<br>drum<br>word<br>advice<br>physical<br>unfair<br>draft<br>push<br>endless<br>trophy<br>relax |  
@@ -147,6 +159,18 @@ endless |
 | bip_39_word_space_7 | eyebrow drum word advice physical unfair draft |  
 | bip_39_word_space_8 | eyebrow drum word advice physical unfair draft push |  
 | bip_39_word_space_9 | eyebrow drum word advice physical unfair draft push endless |  
+| bip_39_word_underscore_1 | eyebrow |  
+| bip_39_word_underscore_10 | eyebrow_drum_word_advice_physical_unfair_draft_push_endless_trophy |  
+| bip_39_word_underscore_11 | eyebrow_drum_word_advice_physical_unfair_draft_push_endless_trophy_relax |  
+| bip_39_word_underscore_12 | eyebrow_drum_word_advice_physical_unfair_draft_push_endless_trophy_relax_achieve |  
+| bip_39_word_underscore_2 | eyebrow_drum |  
+| bip_39_word_underscore_3 | eyebrow_drum_word |  
+| bip_39_word_underscore_4 | eyebrow_drum_word_advice |  
+| bip_39_word_underscore_5 | eyebrow_drum_word_advice_physical |  
+| bip_39_word_underscore_6 | eyebrow_drum_word_advice_physical_unfair |  
+| bip_39_word_underscore_7 | eyebrow_drum_word_advice_physical_unfair_draft |  
+| bip_39_word_underscore_8 | eyebrow_drum_word_advice_physical_unfair_draft_push |  
+| bip_39_word_underscore_9 | eyebrow_drum_word_advice_physical_unfair_draft_push_endless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

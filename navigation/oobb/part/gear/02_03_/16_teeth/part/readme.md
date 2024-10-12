@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | resource |  
+| bip_39_word_dash_10 | resource-lucky-vapor-extend-hill-toddler-dry-lobster-cactus-direct |  
+| bip_39_word_dash_11 | resource-lucky-vapor-extend-hill-toddler-dry-lobster-cactus-direct-movie |  
+| bip_39_word_dash_12 | resource-lucky-vapor-extend-hill-toddler-dry-lobster-cactus-direct-movie-afraid |  
+| bip_39_word_dash_2 | resource-lucky |  
+| bip_39_word_dash_3 | resource-lucky-vapor |  
+| bip_39_word_dash_4 | resource-lucky-vapor-extend |  
+| bip_39_word_dash_5 | resource-lucky-vapor-extend-hill |  
+| bip_39_word_dash_6 | resource-lucky-vapor-extend-hill-toddler |  
+| bip_39_word_dash_7 | resource-lucky-vapor-extend-hill-toddler-dry |  
+| bip_39_word_dash_8 | resource-lucky-vapor-extend-hill-toddler-dry-lobster |  
+| bip_39_word_dash_9 | resource-lucky-vapor-extend-hill-toddler-dry-lobster-cactus |  
 | bip_39_word_new_br_1 | resource |  
 | bip_39_word_new_br_10 | resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster<br>cactus<br>direct |  
 | bip_39_word_new_br_11 | resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster<br>cactus<br>direct<br>movie |  
@@ -147,6 +159,18 @@ cactus |
 | bip_39_word_space_7 | resource lucky vapor extend hill toddler dry |  
 | bip_39_word_space_8 | resource lucky vapor extend hill toddler dry lobster |  
 | bip_39_word_space_9 | resource lucky vapor extend hill toddler dry lobster cactus |  
+| bip_39_word_underscore_1 | resource |  
+| bip_39_word_underscore_10 | resource_lucky_vapor_extend_hill_toddler_dry_lobster_cactus_direct |  
+| bip_39_word_underscore_11 | resource_lucky_vapor_extend_hill_toddler_dry_lobster_cactus_direct_movie |  
+| bip_39_word_underscore_12 | resource_lucky_vapor_extend_hill_toddler_dry_lobster_cactus_direct_movie_afraid |  
+| bip_39_word_underscore_2 | resource_lucky |  
+| bip_39_word_underscore_3 | resource_lucky_vapor |  
+| bip_39_word_underscore_4 | resource_lucky_vapor_extend |  
+| bip_39_word_underscore_5 | resource_lucky_vapor_extend_hill |  
+| bip_39_word_underscore_6 | resource_lucky_vapor_extend_hill_toddler |  
+| bip_39_word_underscore_7 | resource_lucky_vapor_extend_hill_toddler_dry |  
+| bip_39_word_underscore_8 | resource_lucky_vapor_extend_hill_toddler_dry_lobster |  
+| bip_39_word_underscore_9 | resource_lucky_vapor_extend_hill_toddler_dry_lobster_cactus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

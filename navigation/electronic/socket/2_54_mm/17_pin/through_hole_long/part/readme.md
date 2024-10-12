@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | identify |  
+| bip_39_word_dash_10 | identify-bracket-load-clinic-arrive-mistake-poverty-audit-empty-turkey |  
+| bip_39_word_dash_11 | identify-bracket-load-clinic-arrive-mistake-poverty-audit-empty-turkey-canoe |  
+| bip_39_word_dash_12 | identify-bracket-load-clinic-arrive-mistake-poverty-audit-empty-turkey-canoe-access |  
+| bip_39_word_dash_2 | identify-bracket |  
+| bip_39_word_dash_3 | identify-bracket-load |  
+| bip_39_word_dash_4 | identify-bracket-load-clinic |  
+| bip_39_word_dash_5 | identify-bracket-load-clinic-arrive |  
+| bip_39_word_dash_6 | identify-bracket-load-clinic-arrive-mistake |  
+| bip_39_word_dash_7 | identify-bracket-load-clinic-arrive-mistake-poverty |  
+| bip_39_word_dash_8 | identify-bracket-load-clinic-arrive-mistake-poverty-audit |  
+| bip_39_word_dash_9 | identify-bracket-load-clinic-arrive-mistake-poverty-audit-empty |  
 | bip_39_word_new_br_1 | identify |  
 | bip_39_word_new_br_10 | identify<br>bracket<br>load<br>clinic<br>arrive<br>mistake<br>poverty<br>audit<br>empty<br>turkey |  
 | bip_39_word_new_br_11 | identify<br>bracket<br>load<br>clinic<br>arrive<br>mistake<br>poverty<br>audit<br>empty<br>turkey<br>canoe |  
@@ -147,6 +159,18 @@ empty |
 | bip_39_word_space_7 | identify bracket load clinic arrive mistake poverty |  
 | bip_39_word_space_8 | identify bracket load clinic arrive mistake poverty audit |  
 | bip_39_word_space_9 | identify bracket load clinic arrive mistake poverty audit empty |  
+| bip_39_word_underscore_1 | identify |  
+| bip_39_word_underscore_10 | identify_bracket_load_clinic_arrive_mistake_poverty_audit_empty_turkey |  
+| bip_39_word_underscore_11 | identify_bracket_load_clinic_arrive_mistake_poverty_audit_empty_turkey_canoe |  
+| bip_39_word_underscore_12 | identify_bracket_load_clinic_arrive_mistake_poverty_audit_empty_turkey_canoe_access |  
+| bip_39_word_underscore_2 | identify_bracket |  
+| bip_39_word_underscore_3 | identify_bracket_load |  
+| bip_39_word_underscore_4 | identify_bracket_load_clinic |  
+| bip_39_word_underscore_5 | identify_bracket_load_clinic_arrive |  
+| bip_39_word_underscore_6 | identify_bracket_load_clinic_arrive_mistake |  
+| bip_39_word_underscore_7 | identify_bracket_load_clinic_arrive_mistake_poverty |  
+| bip_39_word_underscore_8 | identify_bracket_load_clinic_arrive_mistake_poverty_audit |  
+| bip_39_word_underscore_9 | identify_bracket_load_clinic_arrive_mistake_poverty_audit_empty |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | can |  
+| bip_39_word_dash_10 | can-episode-demise-brown-acquire-joke-favorite-team-silly-cross |  
+| bip_39_word_dash_11 | can-episode-demise-brown-acquire-joke-favorite-team-silly-cross-west |  
+| bip_39_word_dash_12 | can-episode-demise-brown-acquire-joke-favorite-team-silly-cross-west-area |  
+| bip_39_word_dash_2 | can-episode |  
+| bip_39_word_dash_3 | can-episode-demise |  
+| bip_39_word_dash_4 | can-episode-demise-brown |  
+| bip_39_word_dash_5 | can-episode-demise-brown-acquire |  
+| bip_39_word_dash_6 | can-episode-demise-brown-acquire-joke |  
+| bip_39_word_dash_7 | can-episode-demise-brown-acquire-joke-favorite |  
+| bip_39_word_dash_8 | can-episode-demise-brown-acquire-joke-favorite-team |  
+| bip_39_word_dash_9 | can-episode-demise-brown-acquire-joke-favorite-team-silly |  
 | bip_39_word_new_br_1 | can |  
 | bip_39_word_new_br_10 | can<br>episode<br>demise<br>brown<br>acquire<br>joke<br>favorite<br>team<br>silly<br>cross |  
 | bip_39_word_new_br_11 | can<br>episode<br>demise<br>brown<br>acquire<br>joke<br>favorite<br>team<br>silly<br>cross<br>west |  
@@ -147,6 +159,18 @@ silly |
 | bip_39_word_space_7 | can episode demise brown acquire joke favorite |  
 | bip_39_word_space_8 | can episode demise brown acquire joke favorite team |  
 | bip_39_word_space_9 | can episode demise brown acquire joke favorite team silly |  
+| bip_39_word_underscore_1 | can |  
+| bip_39_word_underscore_10 | can_episode_demise_brown_acquire_joke_favorite_team_silly_cross |  
+| bip_39_word_underscore_11 | can_episode_demise_brown_acquire_joke_favorite_team_silly_cross_west |  
+| bip_39_word_underscore_12 | can_episode_demise_brown_acquire_joke_favorite_team_silly_cross_west_area |  
+| bip_39_word_underscore_2 | can_episode |  
+| bip_39_word_underscore_3 | can_episode_demise |  
+| bip_39_word_underscore_4 | can_episode_demise_brown |  
+| bip_39_word_underscore_5 | can_episode_demise_brown_acquire |  
+| bip_39_word_underscore_6 | can_episode_demise_brown_acquire_joke |  
+| bip_39_word_underscore_7 | can_episode_demise_brown_acquire_joke_favorite |  
+| bip_39_word_underscore_8 | can_episode_demise_brown_acquire_joke_favorite_team |  
+| bip_39_word_underscore_9 | can_episode_demise_brown_acquire_joke_favorite_team_silly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

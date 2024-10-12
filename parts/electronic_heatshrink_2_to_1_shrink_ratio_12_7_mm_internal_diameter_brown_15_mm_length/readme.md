@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | high |  
+| bip_39_word_dash_10 | high-action-now-season-place-quantum-security-industry-pass-quote |  
+| bip_39_word_dash_11 | high-action-now-season-place-quantum-security-industry-pass-quote-weapon |  
+| bip_39_word_dash_12 | high-action-now-season-place-quantum-security-industry-pass-quote-weapon-air |  
+| bip_39_word_dash_2 | high-action |  
+| bip_39_word_dash_3 | high-action-now |  
+| bip_39_word_dash_4 | high-action-now-season |  
+| bip_39_word_dash_5 | high-action-now-season-place |  
+| bip_39_word_dash_6 | high-action-now-season-place-quantum |  
+| bip_39_word_dash_7 | high-action-now-season-place-quantum-security |  
+| bip_39_word_dash_8 | high-action-now-season-place-quantum-security-industry |  
+| bip_39_word_dash_9 | high-action-now-season-place-quantum-security-industry-pass |  
 | bip_39_word_new_br_1 | high |  
 | bip_39_word_new_br_10 | high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote |  
 | bip_39_word_new_br_11 | high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote<br>weapon |  
@@ -147,6 +159,18 @@ pass |
 | bip_39_word_space_7 | high action now season place quantum security |  
 | bip_39_word_space_8 | high action now season place quantum security industry |  
 | bip_39_word_space_9 | high action now season place quantum security industry pass |  
+| bip_39_word_underscore_1 | high |  
+| bip_39_word_underscore_10 | high_action_now_season_place_quantum_security_industry_pass_quote |  
+| bip_39_word_underscore_11 | high_action_now_season_place_quantum_security_industry_pass_quote_weapon |  
+| bip_39_word_underscore_12 | high_action_now_season_place_quantum_security_industry_pass_quote_weapon_air |  
+| bip_39_word_underscore_2 | high_action |  
+| bip_39_word_underscore_3 | high_action_now |  
+| bip_39_word_underscore_4 | high_action_now_season |  
+| bip_39_word_underscore_5 | high_action_now_season_place |  
+| bip_39_word_underscore_6 | high_action_now_season_place_quantum |  
+| bip_39_word_underscore_7 | high_action_now_season_place_quantum_security |  
+| bip_39_word_underscore_8 | high_action_now_season_place_quantum_security_industry |  
+| bip_39_word_underscore_9 | high_action_now_season_place_quantum_security_industry_pass |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

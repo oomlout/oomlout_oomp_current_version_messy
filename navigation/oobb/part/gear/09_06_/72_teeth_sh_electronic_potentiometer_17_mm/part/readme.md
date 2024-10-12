@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | retire |  
+| bip_39_word_dash_10 | retire-truly-warfare-charge-lady-surface-garbage-ritual-small-deputy |  
+| bip_39_word_dash_11 | retire-truly-warfare-charge-lady-surface-garbage-ritual-small-deputy-pistol |  
+| bip_39_word_dash_12 | retire-truly-warfare-charge-lady-surface-garbage-ritual-small-deputy-pistol-album |  
+| bip_39_word_dash_2 | retire-truly |  
+| bip_39_word_dash_3 | retire-truly-warfare |  
+| bip_39_word_dash_4 | retire-truly-warfare-charge |  
+| bip_39_word_dash_5 | retire-truly-warfare-charge-lady |  
+| bip_39_word_dash_6 | retire-truly-warfare-charge-lady-surface |  
+| bip_39_word_dash_7 | retire-truly-warfare-charge-lady-surface-garbage |  
+| bip_39_word_dash_8 | retire-truly-warfare-charge-lady-surface-garbage-ritual |  
+| bip_39_word_dash_9 | retire-truly-warfare-charge-lady-surface-garbage-ritual-small |  
 | bip_39_word_new_br_1 | retire |  
 | bip_39_word_new_br_10 | retire<br>truly<br>warfare<br>charge<br>lady<br>surface<br>garbage<br>ritual<br>small<br>deputy |  
 | bip_39_word_new_br_11 | retire<br>truly<br>warfare<br>charge<br>lady<br>surface<br>garbage<br>ritual<br>small<br>deputy<br>pistol |  
@@ -147,6 +159,18 @@ small |
 | bip_39_word_space_7 | retire truly warfare charge lady surface garbage |  
 | bip_39_word_space_8 | retire truly warfare charge lady surface garbage ritual |  
 | bip_39_word_space_9 | retire truly warfare charge lady surface garbage ritual small |  
+| bip_39_word_underscore_1 | retire |  
+| bip_39_word_underscore_10 | retire_truly_warfare_charge_lady_surface_garbage_ritual_small_deputy |  
+| bip_39_word_underscore_11 | retire_truly_warfare_charge_lady_surface_garbage_ritual_small_deputy_pistol |  
+| bip_39_word_underscore_12 | retire_truly_warfare_charge_lady_surface_garbage_ritual_small_deputy_pistol_album |  
+| bip_39_word_underscore_2 | retire_truly |  
+| bip_39_word_underscore_3 | retire_truly_warfare |  
+| bip_39_word_underscore_4 | retire_truly_warfare_charge |  
+| bip_39_word_underscore_5 | retire_truly_warfare_charge_lady |  
+| bip_39_word_underscore_6 | retire_truly_warfare_charge_lady_surface |  
+| bip_39_word_underscore_7 | retire_truly_warfare_charge_lady_surface_garbage |  
+| bip_39_word_underscore_8 | retire_truly_warfare_charge_lady_surface_garbage_ritual |  
+| bip_39_word_underscore_9 | retire_truly_warfare_charge_lady_surface_garbage_ritual_small |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

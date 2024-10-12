@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | patch |  
+| bip_39_word_dash_10 | patch-early-despair-kidney-there-word-engine-cotton-insect-grunt |  
+| bip_39_word_dash_11 | patch-early-despair-kidney-there-word-engine-cotton-insect-grunt-ridge |  
+| bip_39_word_dash_12 | patch-early-despair-kidney-there-word-engine-cotton-insect-grunt-ridge-abuse |  
+| bip_39_word_dash_2 | patch-early |  
+| bip_39_word_dash_3 | patch-early-despair |  
+| bip_39_word_dash_4 | patch-early-despair-kidney |  
+| bip_39_word_dash_5 | patch-early-despair-kidney-there |  
+| bip_39_word_dash_6 | patch-early-despair-kidney-there-word |  
+| bip_39_word_dash_7 | patch-early-despair-kidney-there-word-engine |  
+| bip_39_word_dash_8 | patch-early-despair-kidney-there-word-engine-cotton |  
+| bip_39_word_dash_9 | patch-early-despair-kidney-there-word-engine-cotton-insect |  
 | bip_39_word_new_br_1 | patch |  
 | bip_39_word_new_br_10 | patch<br>early<br>despair<br>kidney<br>there<br>word<br>engine<br>cotton<br>insect<br>grunt |  
 | bip_39_word_new_br_11 | patch<br>early<br>despair<br>kidney<br>there<br>word<br>engine<br>cotton<br>insect<br>grunt<br>ridge |  
@@ -147,6 +159,18 @@ insect |
 | bip_39_word_space_7 | patch early despair kidney there word engine |  
 | bip_39_word_space_8 | patch early despair kidney there word engine cotton |  
 | bip_39_word_space_9 | patch early despair kidney there word engine cotton insect |  
+| bip_39_word_underscore_1 | patch |  
+| bip_39_word_underscore_10 | patch_early_despair_kidney_there_word_engine_cotton_insect_grunt |  
+| bip_39_word_underscore_11 | patch_early_despair_kidney_there_word_engine_cotton_insect_grunt_ridge |  
+| bip_39_word_underscore_12 | patch_early_despair_kidney_there_word_engine_cotton_insect_grunt_ridge_abuse |  
+| bip_39_word_underscore_2 | patch_early |  
+| bip_39_word_underscore_3 | patch_early_despair |  
+| bip_39_word_underscore_4 | patch_early_despair_kidney |  
+| bip_39_word_underscore_5 | patch_early_despair_kidney_there |  
+| bip_39_word_underscore_6 | patch_early_despair_kidney_there_word |  
+| bip_39_word_underscore_7 | patch_early_despair_kidney_there_word_engine |  
+| bip_39_word_underscore_8 | patch_early_despair_kidney_there_word_engine_cotton |  
+| bip_39_word_underscore_9 | patch_early_despair_kidney_there_word_engine_cotton_insect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

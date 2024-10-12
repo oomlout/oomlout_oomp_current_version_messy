@@ -1,3 +1,15 @@
+bip_39_word_dash_1: inject
+bip_39_word_dash_10: inject-season-before-neck-future-vehicle-scheme-blast-aim-awful
+bip_39_word_dash_11: inject-season-before-neck-future-vehicle-scheme-blast-aim-awful-unit
+bip_39_word_dash_12: inject-season-before-neck-future-vehicle-scheme-blast-aim-awful-unit-aisle
+bip_39_word_dash_2: inject-season
+bip_39_word_dash_3: inject-season-before
+bip_39_word_dash_4: inject-season-before-neck
+bip_39_word_dash_5: inject-season-before-neck-future
+bip_39_word_dash_6: inject-season-before-neck-future-vehicle
+bip_39_word_dash_7: inject-season-before-neck-future-vehicle-scheme
+bip_39_word_dash_8: inject-season-before-neck-future-vehicle-scheme-blast
+bip_39_word_dash_9: inject-season-before-neck-future-vehicle-scheme-blast-aim
 bip_39_word_new_br_1: inject
 bip_39_word_new_br_10: inject<br>season<br>before<br>neck<br>future<br>vehicle<br>scheme<br>blast<br>aim<br>awful
 bip_39_word_new_br_11: inject<br>season<br>before<br>neck<br>future<br>vehicle<br>scheme<br>blast<br>aim<br>awful<br>unit
@@ -193,6 +205,18 @@ bip_39_word_space_6: inject season before neck future vehicle
 bip_39_word_space_7: inject season before neck future vehicle scheme
 bip_39_word_space_8: inject season before neck future vehicle scheme blast
 bip_39_word_space_9: inject season before neck future vehicle scheme blast aim
+bip_39_word_underscore_1: inject
+bip_39_word_underscore_10: inject_season_before_neck_future_vehicle_scheme_blast_aim_awful
+bip_39_word_underscore_11: inject_season_before_neck_future_vehicle_scheme_blast_aim_awful_unit
+bip_39_word_underscore_12: inject_season_before_neck_future_vehicle_scheme_blast_aim_awful_unit_aisle
+bip_39_word_underscore_2: inject_season
+bip_39_word_underscore_3: inject_season_before
+bip_39_word_underscore_4: inject_season_before_neck
+bip_39_word_underscore_5: inject_season_before_neck_future
+bip_39_word_underscore_6: inject_season_before_neck_future_vehicle
+bip_39_word_underscore_7: inject_season_before_neck_future_vehicle_scheme
+bip_39_word_underscore_8: inject_season_before_neck_future_vehicle_scheme_blast
+bip_39_word_underscore_9: inject_season_before_neck_future_vehicle_scheme_blast_aim
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

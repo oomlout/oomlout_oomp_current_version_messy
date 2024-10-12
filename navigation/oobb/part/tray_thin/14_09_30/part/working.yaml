@@ -1,3 +1,15 @@
+bip_39_word_dash_1: butter
+bip_39_word_dash_10: butter-guess-voice-pool-fever-music-thank-april-donate-tail
+bip_39_word_dash_11: butter-guess-voice-pool-fever-music-thank-april-donate-tail-move
+bip_39_word_dash_12: butter-guess-voice-pool-fever-music-thank-april-donate-tail-move-angry
+bip_39_word_dash_2: butter-guess
+bip_39_word_dash_3: butter-guess-voice
+bip_39_word_dash_4: butter-guess-voice-pool
+bip_39_word_dash_5: butter-guess-voice-pool-fever
+bip_39_word_dash_6: butter-guess-voice-pool-fever-music
+bip_39_word_dash_7: butter-guess-voice-pool-fever-music-thank
+bip_39_word_dash_8: butter-guess-voice-pool-fever-music-thank-april
+bip_39_word_dash_9: butter-guess-voice-pool-fever-music-thank-april-donate
 bip_39_word_new_br_1: butter
 bip_39_word_new_br_10: butter<br>guess<br>voice<br>pool<br>fever<br>music<br>thank<br>april<br>donate<br>tail
 bip_39_word_new_br_11: butter<br>guess<br>voice<br>pool<br>fever<br>music<br>thank<br>april<br>donate<br>tail<br>move
@@ -193,6 +205,18 @@ bip_39_word_space_6: butter guess voice pool fever music
 bip_39_word_space_7: butter guess voice pool fever music thank
 bip_39_word_space_8: butter guess voice pool fever music thank april
 bip_39_word_space_9: butter guess voice pool fever music thank april donate
+bip_39_word_underscore_1: butter
+bip_39_word_underscore_10: butter_guess_voice_pool_fever_music_thank_april_donate_tail
+bip_39_word_underscore_11: butter_guess_voice_pool_fever_music_thank_april_donate_tail_move
+bip_39_word_underscore_12: butter_guess_voice_pool_fever_music_thank_april_donate_tail_move_angry
+bip_39_word_underscore_2: butter_guess
+bip_39_word_underscore_3: butter_guess_voice
+bip_39_word_underscore_4: butter_guess_voice_pool
+bip_39_word_underscore_5: butter_guess_voice_pool_fever
+bip_39_word_underscore_6: butter_guess_voice_pool_fever_music
+bip_39_word_underscore_7: butter_guess_voice_pool_fever_music_thank
+bip_39_word_underscore_8: butter_guess_voice_pool_fever_music_thank_april
+bip_39_word_underscore_9: butter_guess_voice_pool_fever_music_thank_april_donate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

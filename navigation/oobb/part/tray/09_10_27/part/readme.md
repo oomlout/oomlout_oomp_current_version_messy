@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wage |  
+| bip_39_word_dash_10 | wage-miss-awkward-primary-captain-stereo-right-uncle-person-drift |  
+| bip_39_word_dash_11 | wage-miss-awkward-primary-captain-stereo-right-uncle-person-drift-message |  
+| bip_39_word_dash_12 | wage-miss-awkward-primary-captain-stereo-right-uncle-person-drift-message-always |  
+| bip_39_word_dash_2 | wage-miss |  
+| bip_39_word_dash_3 | wage-miss-awkward |  
+| bip_39_word_dash_4 | wage-miss-awkward-primary |  
+| bip_39_word_dash_5 | wage-miss-awkward-primary-captain |  
+| bip_39_word_dash_6 | wage-miss-awkward-primary-captain-stereo |  
+| bip_39_word_dash_7 | wage-miss-awkward-primary-captain-stereo-right |  
+| bip_39_word_dash_8 | wage-miss-awkward-primary-captain-stereo-right-uncle |  
+| bip_39_word_dash_9 | wage-miss-awkward-primary-captain-stereo-right-uncle-person |  
 | bip_39_word_new_br_1 | wage |  
 | bip_39_word_new_br_10 | wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle<br>person<br>drift |  
 | bip_39_word_new_br_11 | wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle<br>person<br>drift<br>message |  
@@ -147,6 +159,18 @@ person |
 | bip_39_word_space_7 | wage miss awkward primary captain stereo right |  
 | bip_39_word_space_8 | wage miss awkward primary captain stereo right uncle |  
 | bip_39_word_space_9 | wage miss awkward primary captain stereo right uncle person |  
+| bip_39_word_underscore_1 | wage |  
+| bip_39_word_underscore_10 | wage_miss_awkward_primary_captain_stereo_right_uncle_person_drift |  
+| bip_39_word_underscore_11 | wage_miss_awkward_primary_captain_stereo_right_uncle_person_drift_message |  
+| bip_39_word_underscore_12 | wage_miss_awkward_primary_captain_stereo_right_uncle_person_drift_message_always |  
+| bip_39_word_underscore_2 | wage_miss |  
+| bip_39_word_underscore_3 | wage_miss_awkward |  
+| bip_39_word_underscore_4 | wage_miss_awkward_primary |  
+| bip_39_word_underscore_5 | wage_miss_awkward_primary_captain |  
+| bip_39_word_underscore_6 | wage_miss_awkward_primary_captain_stereo |  
+| bip_39_word_underscore_7 | wage_miss_awkward_primary_captain_stereo_right |  
+| bip_39_word_underscore_8 | wage_miss_awkward_primary_captain_stereo_right_uncle |  
+| bip_39_word_underscore_9 | wage_miss_awkward_primary_captain_stereo_right_uncle_person |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

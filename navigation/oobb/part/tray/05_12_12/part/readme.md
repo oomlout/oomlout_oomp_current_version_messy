@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | document |  
+| bip_39_word_dash_10 | document-fruit-predict-project-blood-blue-primary-host-dish-spread |  
+| bip_39_word_dash_11 | document-fruit-predict-project-blood-blue-primary-host-dish-spread-pull |  
+| bip_39_word_dash_12 | document-fruit-predict-project-blood-blue-primary-host-dish-spread-pull-again |  
+| bip_39_word_dash_2 | document-fruit |  
+| bip_39_word_dash_3 | document-fruit-predict |  
+| bip_39_word_dash_4 | document-fruit-predict-project |  
+| bip_39_word_dash_5 | document-fruit-predict-project-blood |  
+| bip_39_word_dash_6 | document-fruit-predict-project-blood-blue |  
+| bip_39_word_dash_7 | document-fruit-predict-project-blood-blue-primary |  
+| bip_39_word_dash_8 | document-fruit-predict-project-blood-blue-primary-host |  
+| bip_39_word_dash_9 | document-fruit-predict-project-blood-blue-primary-host-dish |  
 | bip_39_word_new_br_1 | document |  
 | bip_39_word_new_br_10 | document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread |  
 | bip_39_word_new_br_11 | document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread<br>pull |  
@@ -147,6 +159,18 @@ dish |
 | bip_39_word_space_7 | document fruit predict project blood blue primary |  
 | bip_39_word_space_8 | document fruit predict project blood blue primary host |  
 | bip_39_word_space_9 | document fruit predict project blood blue primary host dish |  
+| bip_39_word_underscore_1 | document |  
+| bip_39_word_underscore_10 | document_fruit_predict_project_blood_blue_primary_host_dish_spread |  
+| bip_39_word_underscore_11 | document_fruit_predict_project_blood_blue_primary_host_dish_spread_pull |  
+| bip_39_word_underscore_12 | document_fruit_predict_project_blood_blue_primary_host_dish_spread_pull_again |  
+| bip_39_word_underscore_2 | document_fruit |  
+| bip_39_word_underscore_3 | document_fruit_predict |  
+| bip_39_word_underscore_4 | document_fruit_predict_project |  
+| bip_39_word_underscore_5 | document_fruit_predict_project_blood |  
+| bip_39_word_underscore_6 | document_fruit_predict_project_blood_blue |  
+| bip_39_word_underscore_7 | document_fruit_predict_project_blood_blue_primary |  
+| bip_39_word_underscore_8 | document_fruit_predict_project_blood_blue_primary_host |  
+| bip_39_word_underscore_9 | document_fruit_predict_project_blood_blue_primary_host_dish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

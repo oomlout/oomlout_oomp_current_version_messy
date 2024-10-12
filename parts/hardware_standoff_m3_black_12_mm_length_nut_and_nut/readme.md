@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oblige |  
+| bip_39_word_dash_10 | oblige-play-maximum-into-orient-copy-busy-era-insect-shop |  
+| bip_39_word_dash_11 | oblige-play-maximum-into-orient-copy-busy-era-insect-shop-concert |  
+| bip_39_word_dash_12 | oblige-play-maximum-into-orient-copy-busy-era-insect-shop-concert-anger |  
+| bip_39_word_dash_2 | oblige-play |  
+| bip_39_word_dash_3 | oblige-play-maximum |  
+| bip_39_word_dash_4 | oblige-play-maximum-into |  
+| bip_39_word_dash_5 | oblige-play-maximum-into-orient |  
+| bip_39_word_dash_6 | oblige-play-maximum-into-orient-copy |  
+| bip_39_word_dash_7 | oblige-play-maximum-into-orient-copy-busy |  
+| bip_39_word_dash_8 | oblige-play-maximum-into-orient-copy-busy-era |  
+| bip_39_word_dash_9 | oblige-play-maximum-into-orient-copy-busy-era-insect |  
 | bip_39_word_new_br_1 | oblige |  
 | bip_39_word_new_br_10 | oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era<br>insect<br>shop |  
 | bip_39_word_new_br_11 | oblige<br>play<br>maximum<br>into<br>orient<br>copy<br>busy<br>era<br>insect<br>shop<br>concert |  
@@ -147,6 +159,18 @@ insect |
 | bip_39_word_space_7 | oblige play maximum into orient copy busy |  
 | bip_39_word_space_8 | oblige play maximum into orient copy busy era |  
 | bip_39_word_space_9 | oblige play maximum into orient copy busy era insect |  
+| bip_39_word_underscore_1 | oblige |  
+| bip_39_word_underscore_10 | oblige_play_maximum_into_orient_copy_busy_era_insect_shop |  
+| bip_39_word_underscore_11 | oblige_play_maximum_into_orient_copy_busy_era_insect_shop_concert |  
+| bip_39_word_underscore_12 | oblige_play_maximum_into_orient_copy_busy_era_insect_shop_concert_anger |  
+| bip_39_word_underscore_2 | oblige_play |  
+| bip_39_word_underscore_3 | oblige_play_maximum |  
+| bip_39_word_underscore_4 | oblige_play_maximum_into |  
+| bip_39_word_underscore_5 | oblige_play_maximum_into_orient |  
+| bip_39_word_underscore_6 | oblige_play_maximum_into_orient_copy |  
+| bip_39_word_underscore_7 | oblige_play_maximum_into_orient_copy_busy |  
+| bip_39_word_underscore_8 | oblige_play_maximum_into_orient_copy_busy_era |  
+| bip_39_word_underscore_9 | oblige_play_maximum_into_orient_copy_busy_era_insect |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

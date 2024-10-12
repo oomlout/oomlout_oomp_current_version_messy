@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | item |  
+| bip_39_word_dash_10 | item-memory-best-agree-drip-voice-number-mercy-pass-soul |  
+| bip_39_word_dash_11 | item-memory-best-agree-drip-voice-number-mercy-pass-soul-margin |  
+| bip_39_word_dash_12 | item-memory-best-agree-drip-voice-number-mercy-pass-soul-margin-advice |  
+| bip_39_word_dash_2 | item-memory |  
+| bip_39_word_dash_3 | item-memory-best |  
+| bip_39_word_dash_4 | item-memory-best-agree |  
+| bip_39_word_dash_5 | item-memory-best-agree-drip |  
+| bip_39_word_dash_6 | item-memory-best-agree-drip-voice |  
+| bip_39_word_dash_7 | item-memory-best-agree-drip-voice-number |  
+| bip_39_word_dash_8 | item-memory-best-agree-drip-voice-number-mercy |  
+| bip_39_word_dash_9 | item-memory-best-agree-drip-voice-number-mercy-pass |  
 | bip_39_word_new_br_1 | item |  
 | bip_39_word_new_br_10 | item<br>memory<br>best<br>agree<br>drip<br>voice<br>number<br>mercy<br>pass<br>soul |  
 | bip_39_word_new_br_11 | item<br>memory<br>best<br>agree<br>drip<br>voice<br>number<br>mercy<br>pass<br>soul<br>margin |  
@@ -147,6 +159,18 @@ pass |
 | bip_39_word_space_7 | item memory best agree drip voice number |  
 | bip_39_word_space_8 | item memory best agree drip voice number mercy |  
 | bip_39_word_space_9 | item memory best agree drip voice number mercy pass |  
+| bip_39_word_underscore_1 | item |  
+| bip_39_word_underscore_10 | item_memory_best_agree_drip_voice_number_mercy_pass_soul |  
+| bip_39_word_underscore_11 | item_memory_best_agree_drip_voice_number_mercy_pass_soul_margin |  
+| bip_39_word_underscore_12 | item_memory_best_agree_drip_voice_number_mercy_pass_soul_margin_advice |  
+| bip_39_word_underscore_2 | item_memory |  
+| bip_39_word_underscore_3 | item_memory_best |  
+| bip_39_word_underscore_4 | item_memory_best_agree |  
+| bip_39_word_underscore_5 | item_memory_best_agree_drip |  
+| bip_39_word_underscore_6 | item_memory_best_agree_drip_voice |  
+| bip_39_word_underscore_7 | item_memory_best_agree_drip_voice_number |  
+| bip_39_word_underscore_8 | item_memory_best_agree_drip_voice_number_mercy |  
+| bip_39_word_underscore_9 | item_memory_best_agree_drip_voice_number_mercy_pass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

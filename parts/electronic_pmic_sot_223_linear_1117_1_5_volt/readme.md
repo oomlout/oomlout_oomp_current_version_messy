@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | across |  
+| bip_39_word_dash_10 | across-rural-remove-super-traffic-roof-author-mean-business-mother |  
+| bip_39_word_dash_11 | across-rural-remove-super-traffic-roof-author-mean-business-mother-tissue |  
+| bip_39_word_dash_12 | across-rural-remove-super-traffic-roof-author-mean-business-mother-tissue-almost |  
+| bip_39_word_dash_2 | across-rural |  
+| bip_39_word_dash_3 | across-rural-remove |  
+| bip_39_word_dash_4 | across-rural-remove-super |  
+| bip_39_word_dash_5 | across-rural-remove-super-traffic |  
+| bip_39_word_dash_6 | across-rural-remove-super-traffic-roof |  
+| bip_39_word_dash_7 | across-rural-remove-super-traffic-roof-author |  
+| bip_39_word_dash_8 | across-rural-remove-super-traffic-roof-author-mean |  
+| bip_39_word_dash_9 | across-rural-remove-super-traffic-roof-author-mean-business |  
 | bip_39_word_new_br_1 | across |  
 | bip_39_word_new_br_10 | across<br>rural<br>remove<br>super<br>traffic<br>roof<br>author<br>mean<br>business<br>mother |  
 | bip_39_word_new_br_11 | across<br>rural<br>remove<br>super<br>traffic<br>roof<br>author<br>mean<br>business<br>mother<br>tissue |  
@@ -147,6 +159,18 @@ business |
 | bip_39_word_space_7 | across rural remove super traffic roof author |  
 | bip_39_word_space_8 | across rural remove super traffic roof author mean |  
 | bip_39_word_space_9 | across rural remove super traffic roof author mean business |  
+| bip_39_word_underscore_1 | across |  
+| bip_39_word_underscore_10 | across_rural_remove_super_traffic_roof_author_mean_business_mother |  
+| bip_39_word_underscore_11 | across_rural_remove_super_traffic_roof_author_mean_business_mother_tissue |  
+| bip_39_word_underscore_12 | across_rural_remove_super_traffic_roof_author_mean_business_mother_tissue_almost |  
+| bip_39_word_underscore_2 | across_rural |  
+| bip_39_word_underscore_3 | across_rural_remove |  
+| bip_39_word_underscore_4 | across_rural_remove_super |  
+| bip_39_word_underscore_5 | across_rural_remove_super_traffic |  
+| bip_39_word_underscore_6 | across_rural_remove_super_traffic_roof |  
+| bip_39_word_underscore_7 | across_rural_remove_super_traffic_roof_author |  
+| bip_39_word_underscore_8 | across_rural_remove_super_traffic_roof_author_mean |  
+| bip_39_word_underscore_9 | across_rural_remove_super_traffic_roof_author_mean_business |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

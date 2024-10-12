@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | father |  
+| bip_39_word_dash_10 | father-today-false-orbit-kiss-inch-shock-wrist-drive-list |  
+| bip_39_word_dash_11 | father-today-false-orbit-kiss-inch-shock-wrist-drive-list-century |  
+| bip_39_word_dash_12 | father-today-false-orbit-kiss-inch-shock-wrist-drive-list-century-again |  
+| bip_39_word_dash_2 | father-today |  
+| bip_39_word_dash_3 | father-today-false |  
+| bip_39_word_dash_4 | father-today-false-orbit |  
+| bip_39_word_dash_5 | father-today-false-orbit-kiss |  
+| bip_39_word_dash_6 | father-today-false-orbit-kiss-inch |  
+| bip_39_word_dash_7 | father-today-false-orbit-kiss-inch-shock |  
+| bip_39_word_dash_8 | father-today-false-orbit-kiss-inch-shock-wrist |  
+| bip_39_word_dash_9 | father-today-false-orbit-kiss-inch-shock-wrist-drive |  
 | bip_39_word_new_br_1 | father |  
 | bip_39_word_new_br_10 | father<br>today<br>false<br>orbit<br>kiss<br>inch<br>shock<br>wrist<br>drive<br>list |  
 | bip_39_word_new_br_11 | father<br>today<br>false<br>orbit<br>kiss<br>inch<br>shock<br>wrist<br>drive<br>list<br>century |  
@@ -147,6 +159,18 @@ drive |
 | bip_39_word_space_7 | father today false orbit kiss inch shock |  
 | bip_39_word_space_8 | father today false orbit kiss inch shock wrist |  
 | bip_39_word_space_9 | father today false orbit kiss inch shock wrist drive |  
+| bip_39_word_underscore_1 | father |  
+| bip_39_word_underscore_10 | father_today_false_orbit_kiss_inch_shock_wrist_drive_list |  
+| bip_39_word_underscore_11 | father_today_false_orbit_kiss_inch_shock_wrist_drive_list_century |  
+| bip_39_word_underscore_12 | father_today_false_orbit_kiss_inch_shock_wrist_drive_list_century_again |  
+| bip_39_word_underscore_2 | father_today |  
+| bip_39_word_underscore_3 | father_today_false |  
+| bip_39_word_underscore_4 | father_today_false_orbit |  
+| bip_39_word_underscore_5 | father_today_false_orbit_kiss |  
+| bip_39_word_underscore_6 | father_today_false_orbit_kiss_inch |  
+| bip_39_word_underscore_7 | father_today_false_orbit_kiss_inch_shock |  
+| bip_39_word_underscore_8 | father_today_false_orbit_kiss_inch_shock_wrist |  
+| bip_39_word_underscore_9 | father_today_false_orbit_kiss_inch_shock_wrist_drive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

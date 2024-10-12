@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | purpose |  
+| bip_39_word_dash_10 | purpose-feed-easily-arrive-pulse-narrow-debate-poem-episode-narrow |  
+| bip_39_word_dash_11 | purpose-feed-easily-arrive-pulse-narrow-debate-poem-episode-narrow-level |  
+| bip_39_word_dash_12 | purpose-feed-easily-arrive-pulse-narrow-debate-poem-episode-narrow-level-armed |  
+| bip_39_word_dash_2 | purpose-feed |  
+| bip_39_word_dash_3 | purpose-feed-easily |  
+| bip_39_word_dash_4 | purpose-feed-easily-arrive |  
+| bip_39_word_dash_5 | purpose-feed-easily-arrive-pulse |  
+| bip_39_word_dash_6 | purpose-feed-easily-arrive-pulse-narrow |  
+| bip_39_word_dash_7 | purpose-feed-easily-arrive-pulse-narrow-debate |  
+| bip_39_word_dash_8 | purpose-feed-easily-arrive-pulse-narrow-debate-poem |  
+| bip_39_word_dash_9 | purpose-feed-easily-arrive-pulse-narrow-debate-poem-episode |  
 | bip_39_word_new_br_1 | purpose |  
 | bip_39_word_new_br_10 | purpose<br>feed<br>easily<br>arrive<br>pulse<br>narrow<br>debate<br>poem<br>episode<br>narrow |  
 | bip_39_word_new_br_11 | purpose<br>feed<br>easily<br>arrive<br>pulse<br>narrow<br>debate<br>poem<br>episode<br>narrow<br>level |  
@@ -147,6 +159,18 @@ episode |
 | bip_39_word_space_7 | purpose feed easily arrive pulse narrow debate |  
 | bip_39_word_space_8 | purpose feed easily arrive pulse narrow debate poem |  
 | bip_39_word_space_9 | purpose feed easily arrive pulse narrow debate poem episode |  
+| bip_39_word_underscore_1 | purpose |  
+| bip_39_word_underscore_10 | purpose_feed_easily_arrive_pulse_narrow_debate_poem_episode_narrow |  
+| bip_39_word_underscore_11 | purpose_feed_easily_arrive_pulse_narrow_debate_poem_episode_narrow_level |  
+| bip_39_word_underscore_12 | purpose_feed_easily_arrive_pulse_narrow_debate_poem_episode_narrow_level_armed |  
+| bip_39_word_underscore_2 | purpose_feed |  
+| bip_39_word_underscore_3 | purpose_feed_easily |  
+| bip_39_word_underscore_4 | purpose_feed_easily_arrive |  
+| bip_39_word_underscore_5 | purpose_feed_easily_arrive_pulse |  
+| bip_39_word_underscore_6 | purpose_feed_easily_arrive_pulse_narrow |  
+| bip_39_word_underscore_7 | purpose_feed_easily_arrive_pulse_narrow_debate |  
+| bip_39_word_underscore_8 | purpose_feed_easily_arrive_pulse_narrow_debate_poem |  
+| bip_39_word_underscore_9 | purpose_feed_easily_arrive_pulse_narrow_debate_poem_episode |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

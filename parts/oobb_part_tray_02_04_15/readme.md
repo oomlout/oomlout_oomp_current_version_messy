@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bonus |  
+| bip_39_word_dash_10 | bonus-warfare-erosion-charge-blush-nurse-equal-limb-hill-protect |  
+| bip_39_word_dash_11 | bonus-warfare-erosion-charge-blush-nurse-equal-limb-hill-protect-odor |  
+| bip_39_word_dash_12 | bonus-warfare-erosion-charge-blush-nurse-equal-limb-hill-protect-odor-arctic |  
+| bip_39_word_dash_2 | bonus-warfare |  
+| bip_39_word_dash_3 | bonus-warfare-erosion |  
+| bip_39_word_dash_4 | bonus-warfare-erosion-charge |  
+| bip_39_word_dash_5 | bonus-warfare-erosion-charge-blush |  
+| bip_39_word_dash_6 | bonus-warfare-erosion-charge-blush-nurse |  
+| bip_39_word_dash_7 | bonus-warfare-erosion-charge-blush-nurse-equal |  
+| bip_39_word_dash_8 | bonus-warfare-erosion-charge-blush-nurse-equal-limb |  
+| bip_39_word_dash_9 | bonus-warfare-erosion-charge-blush-nurse-equal-limb-hill |  
 | bip_39_word_new_br_1 | bonus |  
 | bip_39_word_new_br_10 | bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb<br>hill<br>protect |  
 | bip_39_word_new_br_11 | bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb<br>hill<br>protect<br>odor |  
@@ -147,6 +159,18 @@ hill |
 | bip_39_word_space_7 | bonus warfare erosion charge blush nurse equal |  
 | bip_39_word_space_8 | bonus warfare erosion charge blush nurse equal limb |  
 | bip_39_word_space_9 | bonus warfare erosion charge blush nurse equal limb hill |  
+| bip_39_word_underscore_1 | bonus |  
+| bip_39_word_underscore_10 | bonus_warfare_erosion_charge_blush_nurse_equal_limb_hill_protect |  
+| bip_39_word_underscore_11 | bonus_warfare_erosion_charge_blush_nurse_equal_limb_hill_protect_odor |  
+| bip_39_word_underscore_12 | bonus_warfare_erosion_charge_blush_nurse_equal_limb_hill_protect_odor_arctic |  
+| bip_39_word_underscore_2 | bonus_warfare |  
+| bip_39_word_underscore_3 | bonus_warfare_erosion |  
+| bip_39_word_underscore_4 | bonus_warfare_erosion_charge |  
+| bip_39_word_underscore_5 | bonus_warfare_erosion_charge_blush |  
+| bip_39_word_underscore_6 | bonus_warfare_erosion_charge_blush_nurse |  
+| bip_39_word_underscore_7 | bonus_warfare_erosion_charge_blush_nurse_equal |  
+| bip_39_word_underscore_8 | bonus_warfare_erosion_charge_blush_nurse_equal_limb |  
+| bip_39_word_underscore_9 | bonus_warfare_erosion_charge_blush_nurse_equal_limb_hill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

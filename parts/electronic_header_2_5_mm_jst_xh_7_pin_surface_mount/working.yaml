@@ -1,3 +1,15 @@
+bip_39_word_dash_1: repair
+bip_39_word_dash_10: repair-festival-pigeon-order-donor-muffin-peace-demise-there-material
+bip_39_word_dash_11: repair-festival-pigeon-order-donor-muffin-peace-demise-there-material-gift
+bip_39_word_dash_12: repair-festival-pigeon-order-donor-muffin-peace-demise-there-material-gift-acid
+bip_39_word_dash_2: repair-festival
+bip_39_word_dash_3: repair-festival-pigeon
+bip_39_word_dash_4: repair-festival-pigeon-order
+bip_39_word_dash_5: repair-festival-pigeon-order-donor
+bip_39_word_dash_6: repair-festival-pigeon-order-donor-muffin
+bip_39_word_dash_7: repair-festival-pigeon-order-donor-muffin-peace
+bip_39_word_dash_8: repair-festival-pigeon-order-donor-muffin-peace-demise
+bip_39_word_dash_9: repair-festival-pigeon-order-donor-muffin-peace-demise-there
 bip_39_word_new_br_1: repair
 bip_39_word_new_br_10: repair<br>festival<br>pigeon<br>order<br>donor<br>muffin<br>peace<br>demise<br>there<br>material
 bip_39_word_new_br_11: repair<br>festival<br>pigeon<br>order<br>donor<br>muffin<br>peace<br>demise<br>there<br>material<br>gift
@@ -194,6 +206,18 @@ bip_39_word_space_6: repair festival pigeon order donor muffin
 bip_39_word_space_7: repair festival pigeon order donor muffin peace
 bip_39_word_space_8: repair festival pigeon order donor muffin peace demise
 bip_39_word_space_9: repair festival pigeon order donor muffin peace demise there
+bip_39_word_underscore_1: repair
+bip_39_word_underscore_10: repair_festival_pigeon_order_donor_muffin_peace_demise_there_material
+bip_39_word_underscore_11: repair_festival_pigeon_order_donor_muffin_peace_demise_there_material_gift
+bip_39_word_underscore_12: repair_festival_pigeon_order_donor_muffin_peace_demise_there_material_gift_acid
+bip_39_word_underscore_2: repair_festival
+bip_39_word_underscore_3: repair_festival_pigeon
+bip_39_word_underscore_4: repair_festival_pigeon_order
+bip_39_word_underscore_5: repair_festival_pigeon_order_donor
+bip_39_word_underscore_6: repair_festival_pigeon_order_donor_muffin
+bip_39_word_underscore_7: repair_festival_pigeon_order_donor_muffin_peace
+bip_39_word_underscore_8: repair_festival_pigeon_order_donor_muffin_peace_demise
+bip_39_word_underscore_9: repair_festival_pigeon_order_donor_muffin_peace_demise_there
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

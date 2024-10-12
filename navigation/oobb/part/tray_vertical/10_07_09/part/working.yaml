@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grunt
+bip_39_word_dash_10: grunt-can-cheese-about-reveal-punch-soft-record-human-magnet
+bip_39_word_dash_11: grunt-can-cheese-about-reveal-punch-soft-record-human-magnet-custom
+bip_39_word_dash_12: grunt-can-cheese-about-reveal-punch-soft-record-human-magnet-custom-annual
+bip_39_word_dash_2: grunt-can
+bip_39_word_dash_3: grunt-can-cheese
+bip_39_word_dash_4: grunt-can-cheese-about
+bip_39_word_dash_5: grunt-can-cheese-about-reveal
+bip_39_word_dash_6: grunt-can-cheese-about-reveal-punch
+bip_39_word_dash_7: grunt-can-cheese-about-reveal-punch-soft
+bip_39_word_dash_8: grunt-can-cheese-about-reveal-punch-soft-record
+bip_39_word_dash_9: grunt-can-cheese-about-reveal-punch-soft-record-human
 bip_39_word_new_br_1: grunt
 bip_39_word_new_br_10: grunt<br>can<br>cheese<br>about<br>reveal<br>punch<br>soft<br>record<br>human<br>magnet
 bip_39_word_new_br_11: grunt<br>can<br>cheese<br>about<br>reveal<br>punch<br>soft<br>record<br>human<br>magnet<br>custom
@@ -193,6 +205,18 @@ bip_39_word_space_6: grunt can cheese about reveal punch
 bip_39_word_space_7: grunt can cheese about reveal punch soft
 bip_39_word_space_8: grunt can cheese about reveal punch soft record
 bip_39_word_space_9: grunt can cheese about reveal punch soft record human
+bip_39_word_underscore_1: grunt
+bip_39_word_underscore_10: grunt_can_cheese_about_reveal_punch_soft_record_human_magnet
+bip_39_word_underscore_11: grunt_can_cheese_about_reveal_punch_soft_record_human_magnet_custom
+bip_39_word_underscore_12: grunt_can_cheese_about_reveal_punch_soft_record_human_magnet_custom_annual
+bip_39_word_underscore_2: grunt_can
+bip_39_word_underscore_3: grunt_can_cheese
+bip_39_word_underscore_4: grunt_can_cheese_about
+bip_39_word_underscore_5: grunt_can_cheese_about_reveal
+bip_39_word_underscore_6: grunt_can_cheese_about_reveal_punch
+bip_39_word_underscore_7: grunt_can_cheese_about_reveal_punch_soft
+bip_39_word_underscore_8: grunt_can_cheese_about_reveal_punch_soft_record
+bip_39_word_underscore_9: grunt_can_cheese_about_reveal_punch_soft_record_human
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: picnic
+bip_39_word_dash_10: picnic-style-short-fetch-explain-hip-fossil-squeeze-bike-right
+bip_39_word_dash_11: picnic-style-short-fetch-explain-hip-fossil-squeeze-bike-right-outdoor
+bip_39_word_dash_12: picnic-style-short-fetch-explain-hip-fossil-squeeze-bike-right-outdoor-amazing
+bip_39_word_dash_2: picnic-style
+bip_39_word_dash_3: picnic-style-short
+bip_39_word_dash_4: picnic-style-short-fetch
+bip_39_word_dash_5: picnic-style-short-fetch-explain
+bip_39_word_dash_6: picnic-style-short-fetch-explain-hip
+bip_39_word_dash_7: picnic-style-short-fetch-explain-hip-fossil
+bip_39_word_dash_8: picnic-style-short-fetch-explain-hip-fossil-squeeze
+bip_39_word_dash_9: picnic-style-short-fetch-explain-hip-fossil-squeeze-bike
 bip_39_word_new_br_1: picnic
 bip_39_word_new_br_10: picnic<br>style<br>short<br>fetch<br>explain<br>hip<br>fossil<br>squeeze<br>bike<br>right
 bip_39_word_new_br_11: picnic<br>style<br>short<br>fetch<br>explain<br>hip<br>fossil<br>squeeze<br>bike<br>right<br>outdoor
@@ -193,6 +205,18 @@ bip_39_word_space_6: picnic style short fetch explain hip
 bip_39_word_space_7: picnic style short fetch explain hip fossil
 bip_39_word_space_8: picnic style short fetch explain hip fossil squeeze
 bip_39_word_space_9: picnic style short fetch explain hip fossil squeeze bike
+bip_39_word_underscore_1: picnic
+bip_39_word_underscore_10: picnic_style_short_fetch_explain_hip_fossil_squeeze_bike_right
+bip_39_word_underscore_11: picnic_style_short_fetch_explain_hip_fossil_squeeze_bike_right_outdoor
+bip_39_word_underscore_12: picnic_style_short_fetch_explain_hip_fossil_squeeze_bike_right_outdoor_amazing
+bip_39_word_underscore_2: picnic_style
+bip_39_word_underscore_3: picnic_style_short
+bip_39_word_underscore_4: picnic_style_short_fetch
+bip_39_word_underscore_5: picnic_style_short_fetch_explain
+bip_39_word_underscore_6: picnic_style_short_fetch_explain_hip
+bip_39_word_underscore_7: picnic_style_short_fetch_explain_hip_fossil
+bip_39_word_underscore_8: picnic_style_short_fetch_explain_hip_fossil_squeeze
+bip_39_word_underscore_9: picnic_style_short_fetch_explain_hip_fossil_squeeze_bike
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

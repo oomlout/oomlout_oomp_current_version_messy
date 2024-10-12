@@ -1,3 +1,15 @@
+bip_39_word_dash_1: acid
+bip_39_word_dash_10: acid-flock-nuclear-rich-city-mobile-stage-casino-case-pitch
+bip_39_word_dash_11: acid-flock-nuclear-rich-city-mobile-stage-casino-case-pitch-satisfy
+bip_39_word_dash_12: acid-flock-nuclear-rich-city-mobile-stage-casino-case-pitch-satisfy-add
+bip_39_word_dash_2: acid-flock
+bip_39_word_dash_3: acid-flock-nuclear
+bip_39_word_dash_4: acid-flock-nuclear-rich
+bip_39_word_dash_5: acid-flock-nuclear-rich-city
+bip_39_word_dash_6: acid-flock-nuclear-rich-city-mobile
+bip_39_word_dash_7: acid-flock-nuclear-rich-city-mobile-stage
+bip_39_word_dash_8: acid-flock-nuclear-rich-city-mobile-stage-casino
+bip_39_word_dash_9: acid-flock-nuclear-rich-city-mobile-stage-casino-case
 bip_39_word_new_br_1: acid
 bip_39_word_new_br_10: acid<br>flock<br>nuclear<br>rich<br>city<br>mobile<br>stage<br>casino<br>case<br>pitch
 bip_39_word_new_br_11: acid<br>flock<br>nuclear<br>rich<br>city<br>mobile<br>stage<br>casino<br>case<br>pitch<br>satisfy
@@ -193,6 +205,18 @@ bip_39_word_space_6: acid flock nuclear rich city mobile
 bip_39_word_space_7: acid flock nuclear rich city mobile stage
 bip_39_word_space_8: acid flock nuclear rich city mobile stage casino
 bip_39_word_space_9: acid flock nuclear rich city mobile stage casino case
+bip_39_word_underscore_1: acid
+bip_39_word_underscore_10: acid_flock_nuclear_rich_city_mobile_stage_casino_case_pitch
+bip_39_word_underscore_11: acid_flock_nuclear_rich_city_mobile_stage_casino_case_pitch_satisfy
+bip_39_word_underscore_12: acid_flock_nuclear_rich_city_mobile_stage_casino_case_pitch_satisfy_add
+bip_39_word_underscore_2: acid_flock
+bip_39_word_underscore_3: acid_flock_nuclear
+bip_39_word_underscore_4: acid_flock_nuclear_rich
+bip_39_word_underscore_5: acid_flock_nuclear_rich_city
+bip_39_word_underscore_6: acid_flock_nuclear_rich_city_mobile
+bip_39_word_underscore_7: acid_flock_nuclear_rich_city_mobile_stage
+bip_39_word_underscore_8: acid_flock_nuclear_rich_city_mobile_stage_casino
+bip_39_word_underscore_9: acid_flock_nuclear_rich_city_mobile_stage_casino_case
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

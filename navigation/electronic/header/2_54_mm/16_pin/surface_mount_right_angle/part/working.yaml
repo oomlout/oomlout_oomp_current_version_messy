@@ -1,3 +1,15 @@
+bip_39_word_dash_1: issue
+bip_39_word_dash_10: issue-flavor-tennis-reduce-casual-original-doll-secret-fee-ship
+bip_39_word_dash_11: issue-flavor-tennis-reduce-casual-original-doll-secret-fee-ship-large
+bip_39_word_dash_12: issue-flavor-tennis-reduce-casual-original-doll-secret-fee-ship-large-autumn
+bip_39_word_dash_2: issue-flavor
+bip_39_word_dash_3: issue-flavor-tennis
+bip_39_word_dash_4: issue-flavor-tennis-reduce
+bip_39_word_dash_5: issue-flavor-tennis-reduce-casual
+bip_39_word_dash_6: issue-flavor-tennis-reduce-casual-original
+bip_39_word_dash_7: issue-flavor-tennis-reduce-casual-original-doll
+bip_39_word_dash_8: issue-flavor-tennis-reduce-casual-original-doll-secret
+bip_39_word_dash_9: issue-flavor-tennis-reduce-casual-original-doll-secret-fee
 bip_39_word_new_br_1: issue
 bip_39_word_new_br_10: issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship
 bip_39_word_new_br_11: issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship<br>large
@@ -193,6 +205,18 @@ bip_39_word_space_6: issue flavor tennis reduce casual original
 bip_39_word_space_7: issue flavor tennis reduce casual original doll
 bip_39_word_space_8: issue flavor tennis reduce casual original doll secret
 bip_39_word_space_9: issue flavor tennis reduce casual original doll secret fee
+bip_39_word_underscore_1: issue
+bip_39_word_underscore_10: issue_flavor_tennis_reduce_casual_original_doll_secret_fee_ship
+bip_39_word_underscore_11: issue_flavor_tennis_reduce_casual_original_doll_secret_fee_ship_large
+bip_39_word_underscore_12: issue_flavor_tennis_reduce_casual_original_doll_secret_fee_ship_large_autumn
+bip_39_word_underscore_2: issue_flavor
+bip_39_word_underscore_3: issue_flavor_tennis
+bip_39_word_underscore_4: issue_flavor_tennis_reduce
+bip_39_word_underscore_5: issue_flavor_tennis_reduce_casual
+bip_39_word_underscore_6: issue_flavor_tennis_reduce_casual_original
+bip_39_word_underscore_7: issue_flavor_tennis_reduce_casual_original_doll
+bip_39_word_underscore_8: issue_flavor_tennis_reduce_casual_original_doll_secret
+bip_39_word_underscore_9: issue_flavor_tennis_reduce_casual_original_doll_secret_fee
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

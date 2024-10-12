@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deer
+bip_39_word_dash_10: deer-main-mixed-mansion-alien-dismiss-gallery-solution-beach-calm
+bip_39_word_dash_11: deer-main-mixed-mansion-alien-dismiss-gallery-solution-beach-calm-tenant
+bip_39_word_dash_12: deer-main-mixed-mansion-alien-dismiss-gallery-solution-beach-calm-tenant-atom
+bip_39_word_dash_2: deer-main
+bip_39_word_dash_3: deer-main-mixed
+bip_39_word_dash_4: deer-main-mixed-mansion
+bip_39_word_dash_5: deer-main-mixed-mansion-alien
+bip_39_word_dash_6: deer-main-mixed-mansion-alien-dismiss
+bip_39_word_dash_7: deer-main-mixed-mansion-alien-dismiss-gallery
+bip_39_word_dash_8: deer-main-mixed-mansion-alien-dismiss-gallery-solution
+bip_39_word_dash_9: deer-main-mixed-mansion-alien-dismiss-gallery-solution-beach
 bip_39_word_new_br_1: deer
 bip_39_word_new_br_10: deer<br>main<br>mixed<br>mansion<br>alien<br>dismiss<br>gallery<br>solution<br>beach<br>calm
 bip_39_word_new_br_11: deer<br>main<br>mixed<br>mansion<br>alien<br>dismiss<br>gallery<br>solution<br>beach<br>calm<br>tenant
@@ -194,6 +206,18 @@ bip_39_word_space_6: deer main mixed mansion alien dismiss
 bip_39_word_space_7: deer main mixed mansion alien dismiss gallery
 bip_39_word_space_8: deer main mixed mansion alien dismiss gallery solution
 bip_39_word_space_9: deer main mixed mansion alien dismiss gallery solution beach
+bip_39_word_underscore_1: deer
+bip_39_word_underscore_10: deer_main_mixed_mansion_alien_dismiss_gallery_solution_beach_calm
+bip_39_word_underscore_11: deer_main_mixed_mansion_alien_dismiss_gallery_solution_beach_calm_tenant
+bip_39_word_underscore_12: deer_main_mixed_mansion_alien_dismiss_gallery_solution_beach_calm_tenant_atom
+bip_39_word_underscore_2: deer_main
+bip_39_word_underscore_3: deer_main_mixed
+bip_39_word_underscore_4: deer_main_mixed_mansion
+bip_39_word_underscore_5: deer_main_mixed_mansion_alien
+bip_39_word_underscore_6: deer_main_mixed_mansion_alien_dismiss
+bip_39_word_underscore_7: deer_main_mixed_mansion_alien_dismiss_gallery
+bip_39_word_underscore_8: deer_main_mixed_mansion_alien_dismiss_gallery_solution
+bip_39_word_underscore_9: deer_main_mixed_mansion_alien_dismiss_gallery_solution_beach
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

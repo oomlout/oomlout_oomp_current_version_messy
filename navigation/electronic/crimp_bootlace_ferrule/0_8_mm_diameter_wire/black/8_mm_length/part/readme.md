@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bonus |  
+| bip_39_word_dash_10 | bonus-private-decrease-together-scheme-patient-material-lab-reform-tortoise |  
+| bip_39_word_dash_11 | bonus-private-decrease-together-scheme-patient-material-lab-reform-tortoise-leisure |  
+| bip_39_word_dash_12 | bonus-private-decrease-together-scheme-patient-material-lab-reform-tortoise-leisure-alpha |  
+| bip_39_word_dash_2 | bonus-private |  
+| bip_39_word_dash_3 | bonus-private-decrease |  
+| bip_39_word_dash_4 | bonus-private-decrease-together |  
+| bip_39_word_dash_5 | bonus-private-decrease-together-scheme |  
+| bip_39_word_dash_6 | bonus-private-decrease-together-scheme-patient |  
+| bip_39_word_dash_7 | bonus-private-decrease-together-scheme-patient-material |  
+| bip_39_word_dash_8 | bonus-private-decrease-together-scheme-patient-material-lab |  
+| bip_39_word_dash_9 | bonus-private-decrease-together-scheme-patient-material-lab-reform |  
 | bip_39_word_new_br_1 | bonus |  
 | bip_39_word_new_br_10 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise |  
 | bip_39_word_new_br_11 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise<br>leisure |  
@@ -147,6 +159,18 @@ reform |
 | bip_39_word_space_7 | bonus private decrease together scheme patient material |  
 | bip_39_word_space_8 | bonus private decrease together scheme patient material lab |  
 | bip_39_word_space_9 | bonus private decrease together scheme patient material lab reform |  
+| bip_39_word_underscore_1 | bonus |  
+| bip_39_word_underscore_10 | bonus_private_decrease_together_scheme_patient_material_lab_reform_tortoise |  
+| bip_39_word_underscore_11 | bonus_private_decrease_together_scheme_patient_material_lab_reform_tortoise_leisure |  
+| bip_39_word_underscore_12 | bonus_private_decrease_together_scheme_patient_material_lab_reform_tortoise_leisure_alpha |  
+| bip_39_word_underscore_2 | bonus_private |  
+| bip_39_word_underscore_3 | bonus_private_decrease |  
+| bip_39_word_underscore_4 | bonus_private_decrease_together |  
+| bip_39_word_underscore_5 | bonus_private_decrease_together_scheme |  
+| bip_39_word_underscore_6 | bonus_private_decrease_together_scheme_patient |  
+| bip_39_word_underscore_7 | bonus_private_decrease_together_scheme_patient_material |  
+| bip_39_word_underscore_8 | bonus_private_decrease_together_scheme_patient_material_lab |  
+| bip_39_word_underscore_9 | bonus_private_decrease_together_scheme_patient_material_lab_reform |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

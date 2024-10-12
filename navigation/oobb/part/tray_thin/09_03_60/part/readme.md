@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | patrol |  
+| bip_39_word_dash_10 | patrol-ill-achieve-outdoor-topple-title-gallery-forward-high-shoe |  
+| bip_39_word_dash_11 | patrol-ill-achieve-outdoor-topple-title-gallery-forward-high-shoe-swallow |  
+| bip_39_word_dash_12 | patrol-ill-achieve-outdoor-topple-title-gallery-forward-high-shoe-swallow-aunt |  
+| bip_39_word_dash_2 | patrol-ill |  
+| bip_39_word_dash_3 | patrol-ill-achieve |  
+| bip_39_word_dash_4 | patrol-ill-achieve-outdoor |  
+| bip_39_word_dash_5 | patrol-ill-achieve-outdoor-topple |  
+| bip_39_word_dash_6 | patrol-ill-achieve-outdoor-topple-title |  
+| bip_39_word_dash_7 | patrol-ill-achieve-outdoor-topple-title-gallery |  
+| bip_39_word_dash_8 | patrol-ill-achieve-outdoor-topple-title-gallery-forward |  
+| bip_39_word_dash_9 | patrol-ill-achieve-outdoor-topple-title-gallery-forward-high |  
 | bip_39_word_new_br_1 | patrol |  
 | bip_39_word_new_br_10 | patrol<br>ill<br>achieve<br>outdoor<br>topple<br>title<br>gallery<br>forward<br>high<br>shoe |  
 | bip_39_word_new_br_11 | patrol<br>ill<br>achieve<br>outdoor<br>topple<br>title<br>gallery<br>forward<br>high<br>shoe<br>swallow |  
@@ -147,6 +159,18 @@ high |
 | bip_39_word_space_7 | patrol ill achieve outdoor topple title gallery |  
 | bip_39_word_space_8 | patrol ill achieve outdoor topple title gallery forward |  
 | bip_39_word_space_9 | patrol ill achieve outdoor topple title gallery forward high |  
+| bip_39_word_underscore_1 | patrol |  
+| bip_39_word_underscore_10 | patrol_ill_achieve_outdoor_topple_title_gallery_forward_high_shoe |  
+| bip_39_word_underscore_11 | patrol_ill_achieve_outdoor_topple_title_gallery_forward_high_shoe_swallow |  
+| bip_39_word_underscore_12 | patrol_ill_achieve_outdoor_topple_title_gallery_forward_high_shoe_swallow_aunt |  
+| bip_39_word_underscore_2 | patrol_ill |  
+| bip_39_word_underscore_3 | patrol_ill_achieve |  
+| bip_39_word_underscore_4 | patrol_ill_achieve_outdoor |  
+| bip_39_word_underscore_5 | patrol_ill_achieve_outdoor_topple |  
+| bip_39_word_underscore_6 | patrol_ill_achieve_outdoor_topple_title |  
+| bip_39_word_underscore_7 | patrol_ill_achieve_outdoor_topple_title_gallery |  
+| bip_39_word_underscore_8 | patrol_ill_achieve_outdoor_topple_title_gallery_forward |  
+| bip_39_word_underscore_9 | patrol_ill_achieve_outdoor_topple_title_gallery_forward_high |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

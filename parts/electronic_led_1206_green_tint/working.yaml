@@ -1,3 +1,15 @@
+bip_39_word_dash_1: video
+bip_39_word_dash_10: video-oval-breeze-distance-pledge-network-custom-road-crowd-pitch
+bip_39_word_dash_11: video-oval-breeze-distance-pledge-network-custom-road-crowd-pitch-gym
+bip_39_word_dash_12: video-oval-breeze-distance-pledge-network-custom-road-crowd-pitch-gym-able
+bip_39_word_dash_2: video-oval
+bip_39_word_dash_3: video-oval-breeze
+bip_39_word_dash_4: video-oval-breeze-distance
+bip_39_word_dash_5: video-oval-breeze-distance-pledge
+bip_39_word_dash_6: video-oval-breeze-distance-pledge-network
+bip_39_word_dash_7: video-oval-breeze-distance-pledge-network-custom
+bip_39_word_dash_8: video-oval-breeze-distance-pledge-network-custom-road
+bip_39_word_dash_9: video-oval-breeze-distance-pledge-network-custom-road-crowd
 bip_39_word_new_br_1: video
 bip_39_word_new_br_10: video<br>oval<br>breeze<br>distance<br>pledge<br>network<br>custom<br>road<br>crowd<br>pitch
 bip_39_word_new_br_11: video<br>oval<br>breeze<br>distance<br>pledge<br>network<br>custom<br>road<br>crowd<br>pitch<br>gym
@@ -194,6 +206,18 @@ bip_39_word_space_6: video oval breeze distance pledge network
 bip_39_word_space_7: video oval breeze distance pledge network custom
 bip_39_word_space_8: video oval breeze distance pledge network custom road
 bip_39_word_space_9: video oval breeze distance pledge network custom road crowd
+bip_39_word_underscore_1: video
+bip_39_word_underscore_10: video_oval_breeze_distance_pledge_network_custom_road_crowd_pitch
+bip_39_word_underscore_11: video_oval_breeze_distance_pledge_network_custom_road_crowd_pitch_gym
+bip_39_word_underscore_12: video_oval_breeze_distance_pledge_network_custom_road_crowd_pitch_gym_able
+bip_39_word_underscore_2: video_oval
+bip_39_word_underscore_3: video_oval_breeze
+bip_39_word_underscore_4: video_oval_breeze_distance
+bip_39_word_underscore_5: video_oval_breeze_distance_pledge
+bip_39_word_underscore_6: video_oval_breeze_distance_pledge_network
+bip_39_word_underscore_7: video_oval_breeze_distance_pledge_network_custom
+bip_39_word_underscore_8: video_oval_breeze_distance_pledge_network_custom_road
+bip_39_word_underscore_9: video_oval_breeze_distance_pledge_network_custom_road_crowd
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

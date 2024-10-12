@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | erosion |  
+| bip_39_word_dash_10 | erosion-naive-crush-health-since-earth-interest-list-later-reduce |  
+| bip_39_word_dash_11 | erosion-naive-crush-health-since-earth-interest-list-later-reduce-voyage |  
+| bip_39_word_dash_12 | erosion-naive-crush-health-since-earth-interest-list-later-reduce-voyage-alpha |  
+| bip_39_word_dash_2 | erosion-naive |  
+| bip_39_word_dash_3 | erosion-naive-crush |  
+| bip_39_word_dash_4 | erosion-naive-crush-health |  
+| bip_39_word_dash_5 | erosion-naive-crush-health-since |  
+| bip_39_word_dash_6 | erosion-naive-crush-health-since-earth |  
+| bip_39_word_dash_7 | erosion-naive-crush-health-since-earth-interest |  
+| bip_39_word_dash_8 | erosion-naive-crush-health-since-earth-interest-list |  
+| bip_39_word_dash_9 | erosion-naive-crush-health-since-earth-interest-list-later |  
 | bip_39_word_new_br_1 | erosion |  
 | bip_39_word_new_br_10 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce |  
 | bip_39_word_new_br_11 | erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce<br>voyage |  
@@ -147,6 +159,18 @@ later |
 | bip_39_word_space_7 | erosion naive crush health since earth interest |  
 | bip_39_word_space_8 | erosion naive crush health since earth interest list |  
 | bip_39_word_space_9 | erosion naive crush health since earth interest list later |  
+| bip_39_word_underscore_1 | erosion |  
+| bip_39_word_underscore_10 | erosion_naive_crush_health_since_earth_interest_list_later_reduce |  
+| bip_39_word_underscore_11 | erosion_naive_crush_health_since_earth_interest_list_later_reduce_voyage |  
+| bip_39_word_underscore_12 | erosion_naive_crush_health_since_earth_interest_list_later_reduce_voyage_alpha |  
+| bip_39_word_underscore_2 | erosion_naive |  
+| bip_39_word_underscore_3 | erosion_naive_crush |  
+| bip_39_word_underscore_4 | erosion_naive_crush_health |  
+| bip_39_word_underscore_5 | erosion_naive_crush_health_since |  
+| bip_39_word_underscore_6 | erosion_naive_crush_health_since_earth |  
+| bip_39_word_underscore_7 | erosion_naive_crush_health_since_earth_interest |  
+| bip_39_word_underscore_8 | erosion_naive_crush_health_since_earth_interest_list |  
+| bip_39_word_underscore_9 | erosion_naive_crush_health_since_earth_interest_list_later |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

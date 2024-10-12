@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | guilt |  
+| bip_39_word_dash_10 | guilt-smile-access-rural-basic-kick-brief-rebel-bulb-decide |  
+| bip_39_word_dash_11 | guilt-smile-access-rural-basic-kick-brief-rebel-bulb-decide-tip |  
+| bip_39_word_dash_12 | guilt-smile-access-rural-basic-kick-brief-rebel-bulb-decide-tip-anchor |  
+| bip_39_word_dash_2 | guilt-smile |  
+| bip_39_word_dash_3 | guilt-smile-access |  
+| bip_39_word_dash_4 | guilt-smile-access-rural |  
+| bip_39_word_dash_5 | guilt-smile-access-rural-basic |  
+| bip_39_word_dash_6 | guilt-smile-access-rural-basic-kick |  
+| bip_39_word_dash_7 | guilt-smile-access-rural-basic-kick-brief |  
+| bip_39_word_dash_8 | guilt-smile-access-rural-basic-kick-brief-rebel |  
+| bip_39_word_dash_9 | guilt-smile-access-rural-basic-kick-brief-rebel-bulb |  
 | bip_39_word_new_br_1 | guilt |  
 | bip_39_word_new_br_10 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide |  
 | bip_39_word_new_br_11 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide<br>tip |  
@@ -147,6 +159,18 @@ bulb |
 | bip_39_word_space_7 | guilt smile access rural basic kick brief |  
 | bip_39_word_space_8 | guilt smile access rural basic kick brief rebel |  
 | bip_39_word_space_9 | guilt smile access rural basic kick brief rebel bulb |  
+| bip_39_word_underscore_1 | guilt |  
+| bip_39_word_underscore_10 | guilt_smile_access_rural_basic_kick_brief_rebel_bulb_decide |  
+| bip_39_word_underscore_11 | guilt_smile_access_rural_basic_kick_brief_rebel_bulb_decide_tip |  
+| bip_39_word_underscore_12 | guilt_smile_access_rural_basic_kick_brief_rebel_bulb_decide_tip_anchor |  
+| bip_39_word_underscore_2 | guilt_smile |  
+| bip_39_word_underscore_3 | guilt_smile_access |  
+| bip_39_word_underscore_4 | guilt_smile_access_rural |  
+| bip_39_word_underscore_5 | guilt_smile_access_rural_basic |  
+| bip_39_word_underscore_6 | guilt_smile_access_rural_basic_kick |  
+| bip_39_word_underscore_7 | guilt_smile_access_rural_basic_kick_brief |  
+| bip_39_word_underscore_8 | guilt_smile_access_rural_basic_kick_brief_rebel |  
+| bip_39_word_underscore_9 | guilt_smile_access_rural_basic_kick_brief_rebel_bulb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

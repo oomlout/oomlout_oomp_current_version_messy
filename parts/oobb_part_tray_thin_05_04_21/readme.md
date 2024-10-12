@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | increase |  
+| bip_39_word_dash_10 | increase-normal-flag-bus-shy-primary-candy-ivory-surround-vendor |  
+| bip_39_word_dash_11 | increase-normal-flag-bus-shy-primary-candy-ivory-surround-vendor-mosquito |  
+| bip_39_word_dash_12 | increase-normal-flag-bus-shy-primary-candy-ivory-surround-vendor-mosquito-april |  
+| bip_39_word_dash_2 | increase-normal |  
+| bip_39_word_dash_3 | increase-normal-flag |  
+| bip_39_word_dash_4 | increase-normal-flag-bus |  
+| bip_39_word_dash_5 | increase-normal-flag-bus-shy |  
+| bip_39_word_dash_6 | increase-normal-flag-bus-shy-primary |  
+| bip_39_word_dash_7 | increase-normal-flag-bus-shy-primary-candy |  
+| bip_39_word_dash_8 | increase-normal-flag-bus-shy-primary-candy-ivory |  
+| bip_39_word_dash_9 | increase-normal-flag-bus-shy-primary-candy-ivory-surround |  
 | bip_39_word_new_br_1 | increase |  
 | bip_39_word_new_br_10 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory<br>surround<br>vendor |  
 | bip_39_word_new_br_11 | increase<br>normal<br>flag<br>bus<br>shy<br>primary<br>candy<br>ivory<br>surround<br>vendor<br>mosquito |  
@@ -147,6 +159,18 @@ surround |
 | bip_39_word_space_7 | increase normal flag bus shy primary candy |  
 | bip_39_word_space_8 | increase normal flag bus shy primary candy ivory |  
 | bip_39_word_space_9 | increase normal flag bus shy primary candy ivory surround |  
+| bip_39_word_underscore_1 | increase |  
+| bip_39_word_underscore_10 | increase_normal_flag_bus_shy_primary_candy_ivory_surround_vendor |  
+| bip_39_word_underscore_11 | increase_normal_flag_bus_shy_primary_candy_ivory_surround_vendor_mosquito |  
+| bip_39_word_underscore_12 | increase_normal_flag_bus_shy_primary_candy_ivory_surround_vendor_mosquito_april |  
+| bip_39_word_underscore_2 | increase_normal |  
+| bip_39_word_underscore_3 | increase_normal_flag |  
+| bip_39_word_underscore_4 | increase_normal_flag_bus |  
+| bip_39_word_underscore_5 | increase_normal_flag_bus_shy |  
+| bip_39_word_underscore_6 | increase_normal_flag_bus_shy_primary |  
+| bip_39_word_underscore_7 | increase_normal_flag_bus_shy_primary_candy |  
+| bip_39_word_underscore_8 | increase_normal_flag_bus_shy_primary_candy_ivory |  
+| bip_39_word_underscore_9 | increase_normal_flag_bus_shy_primary_candy_ivory_surround |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

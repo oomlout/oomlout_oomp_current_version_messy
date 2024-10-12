@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | buddy |  
+| bip_39_word_dash_10 | buddy-danger-dignity-minute-permit-seat-cage-silent-answer-demise |  
+| bip_39_word_dash_11 | buddy-danger-dignity-minute-permit-seat-cage-silent-answer-demise-erode |  
+| bip_39_word_dash_12 | buddy-danger-dignity-minute-permit-seat-cage-silent-answer-demise-erode-arrest |  
+| bip_39_word_dash_2 | buddy-danger |  
+| bip_39_word_dash_3 | buddy-danger-dignity |  
+| bip_39_word_dash_4 | buddy-danger-dignity-minute |  
+| bip_39_word_dash_5 | buddy-danger-dignity-minute-permit |  
+| bip_39_word_dash_6 | buddy-danger-dignity-minute-permit-seat |  
+| bip_39_word_dash_7 | buddy-danger-dignity-minute-permit-seat-cage |  
+| bip_39_word_dash_8 | buddy-danger-dignity-minute-permit-seat-cage-silent |  
+| bip_39_word_dash_9 | buddy-danger-dignity-minute-permit-seat-cage-silent-answer |  
 | bip_39_word_new_br_1 | buddy |  
 | bip_39_word_new_br_10 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise |  
 | bip_39_word_new_br_11 | buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise<br>erode |  
@@ -147,6 +159,18 @@ answer |
 | bip_39_word_space_7 | buddy danger dignity minute permit seat cage |  
 | bip_39_word_space_8 | buddy danger dignity minute permit seat cage silent |  
 | bip_39_word_space_9 | buddy danger dignity minute permit seat cage silent answer |  
+| bip_39_word_underscore_1 | buddy |  
+| bip_39_word_underscore_10 | buddy_danger_dignity_minute_permit_seat_cage_silent_answer_demise |  
+| bip_39_word_underscore_11 | buddy_danger_dignity_minute_permit_seat_cage_silent_answer_demise_erode |  
+| bip_39_word_underscore_12 | buddy_danger_dignity_minute_permit_seat_cage_silent_answer_demise_erode_arrest |  
+| bip_39_word_underscore_2 | buddy_danger |  
+| bip_39_word_underscore_3 | buddy_danger_dignity |  
+| bip_39_word_underscore_4 | buddy_danger_dignity_minute |  
+| bip_39_word_underscore_5 | buddy_danger_dignity_minute_permit |  
+| bip_39_word_underscore_6 | buddy_danger_dignity_minute_permit_seat |  
+| bip_39_word_underscore_7 | buddy_danger_dignity_minute_permit_seat_cage |  
+| bip_39_word_underscore_8 | buddy_danger_dignity_minute_permit_seat_cage_silent |  
+| bip_39_word_underscore_9 | buddy_danger_dignity_minute_permit_seat_cage_silent_answer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

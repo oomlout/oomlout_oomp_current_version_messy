@@ -1,3 +1,15 @@
+bip_39_word_dash_1: beauty
+bip_39_word_dash_10: beauty-original-token-void-wool-upon-load-social-guard-civil
+bip_39_word_dash_11: beauty-original-token-void-wool-upon-load-social-guard-civil-kind
+bip_39_word_dash_12: beauty-original-token-void-wool-upon-load-social-guard-civil-kind-ask
+bip_39_word_dash_2: beauty-original
+bip_39_word_dash_3: beauty-original-token
+bip_39_word_dash_4: beauty-original-token-void
+bip_39_word_dash_5: beauty-original-token-void-wool
+bip_39_word_dash_6: beauty-original-token-void-wool-upon
+bip_39_word_dash_7: beauty-original-token-void-wool-upon-load
+bip_39_word_dash_8: beauty-original-token-void-wool-upon-load-social
+bip_39_word_dash_9: beauty-original-token-void-wool-upon-load-social-guard
 bip_39_word_new_br_1: beauty
 bip_39_word_new_br_10: beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social<br>guard<br>civil
 bip_39_word_new_br_11: beauty<br>original<br>token<br>void<br>wool<br>upon<br>load<br>social<br>guard<br>civil<br>kind
@@ -193,6 +205,18 @@ bip_39_word_space_6: beauty original token void wool upon
 bip_39_word_space_7: beauty original token void wool upon load
 bip_39_word_space_8: beauty original token void wool upon load social
 bip_39_word_space_9: beauty original token void wool upon load social guard
+bip_39_word_underscore_1: beauty
+bip_39_word_underscore_10: beauty_original_token_void_wool_upon_load_social_guard_civil
+bip_39_word_underscore_11: beauty_original_token_void_wool_upon_load_social_guard_civil_kind
+bip_39_word_underscore_12: beauty_original_token_void_wool_upon_load_social_guard_civil_kind_ask
+bip_39_word_underscore_2: beauty_original
+bip_39_word_underscore_3: beauty_original_token
+bip_39_word_underscore_4: beauty_original_token_void
+bip_39_word_underscore_5: beauty_original_token_void_wool
+bip_39_word_underscore_6: beauty_original_token_void_wool_upon
+bip_39_word_underscore_7: beauty_original_token_void_wool_upon_load
+bip_39_word_underscore_8: beauty_original_token_void_wool_upon_load_social
+bip_39_word_underscore_9: beauty_original_token_void_wool_upon_load_social_guard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pluck |  
+| bip_39_word_dash_10 | pluck-lunar-anger-tourist-final-voyage-funny-sand-panel-soft |  
+| bip_39_word_dash_11 | pluck-lunar-anger-tourist-final-voyage-funny-sand-panel-soft-symbol |  
+| bip_39_word_dash_12 | pluck-lunar-anger-tourist-final-voyage-funny-sand-panel-soft-symbol-adapt |  
+| bip_39_word_dash_2 | pluck-lunar |  
+| bip_39_word_dash_3 | pluck-lunar-anger |  
+| bip_39_word_dash_4 | pluck-lunar-anger-tourist |  
+| bip_39_word_dash_5 | pluck-lunar-anger-tourist-final |  
+| bip_39_word_dash_6 | pluck-lunar-anger-tourist-final-voyage |  
+| bip_39_word_dash_7 | pluck-lunar-anger-tourist-final-voyage-funny |  
+| bip_39_word_dash_8 | pluck-lunar-anger-tourist-final-voyage-funny-sand |  
+| bip_39_word_dash_9 | pluck-lunar-anger-tourist-final-voyage-funny-sand-panel |  
 | bip_39_word_new_br_1 | pluck |  
 | bip_39_word_new_br_10 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft |  
 | bip_39_word_new_br_11 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft<br>symbol |  
@@ -147,6 +159,18 @@ panel |
 | bip_39_word_space_7 | pluck lunar anger tourist final voyage funny |  
 | bip_39_word_space_8 | pluck lunar anger tourist final voyage funny sand |  
 | bip_39_word_space_9 | pluck lunar anger tourist final voyage funny sand panel |  
+| bip_39_word_underscore_1 | pluck |  
+| bip_39_word_underscore_10 | pluck_lunar_anger_tourist_final_voyage_funny_sand_panel_soft |  
+| bip_39_word_underscore_11 | pluck_lunar_anger_tourist_final_voyage_funny_sand_panel_soft_symbol |  
+| bip_39_word_underscore_12 | pluck_lunar_anger_tourist_final_voyage_funny_sand_panel_soft_symbol_adapt |  
+| bip_39_word_underscore_2 | pluck_lunar |  
+| bip_39_word_underscore_3 | pluck_lunar_anger |  
+| bip_39_word_underscore_4 | pluck_lunar_anger_tourist |  
+| bip_39_word_underscore_5 | pluck_lunar_anger_tourist_final |  
+| bip_39_word_underscore_6 | pluck_lunar_anger_tourist_final_voyage |  
+| bip_39_word_underscore_7 | pluck_lunar_anger_tourist_final_voyage_funny |  
+| bip_39_word_underscore_8 | pluck_lunar_anger_tourist_final_voyage_funny_sand |  
+| bip_39_word_underscore_9 | pluck_lunar_anger_tourist_final_voyage_funny_sand_panel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

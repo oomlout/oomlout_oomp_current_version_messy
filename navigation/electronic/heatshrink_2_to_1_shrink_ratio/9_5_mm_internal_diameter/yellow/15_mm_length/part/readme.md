@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shield |  
+| bip_39_word_dash_10 | shield-scale-school-tree-cross-reflect-engine-alley-ugly-hazard |  
+| bip_39_word_dash_11 | shield-scale-school-tree-cross-reflect-engine-alley-ugly-hazard-toward |  
+| bip_39_word_dash_12 | shield-scale-school-tree-cross-reflect-engine-alley-ugly-hazard-toward-adult |  
+| bip_39_word_dash_2 | shield-scale |  
+| bip_39_word_dash_3 | shield-scale-school |  
+| bip_39_word_dash_4 | shield-scale-school-tree |  
+| bip_39_word_dash_5 | shield-scale-school-tree-cross |  
+| bip_39_word_dash_6 | shield-scale-school-tree-cross-reflect |  
+| bip_39_word_dash_7 | shield-scale-school-tree-cross-reflect-engine |  
+| bip_39_word_dash_8 | shield-scale-school-tree-cross-reflect-engine-alley |  
+| bip_39_word_dash_9 | shield-scale-school-tree-cross-reflect-engine-alley-ugly |  
 | bip_39_word_new_br_1 | shield |  
 | bip_39_word_new_br_10 | shield<br>scale<br>school<br>tree<br>cross<br>reflect<br>engine<br>alley<br>ugly<br>hazard |  
 | bip_39_word_new_br_11 | shield<br>scale<br>school<br>tree<br>cross<br>reflect<br>engine<br>alley<br>ugly<br>hazard<br>toward |  
@@ -147,6 +159,18 @@ ugly |
 | bip_39_word_space_7 | shield scale school tree cross reflect engine |  
 | bip_39_word_space_8 | shield scale school tree cross reflect engine alley |  
 | bip_39_word_space_9 | shield scale school tree cross reflect engine alley ugly |  
+| bip_39_word_underscore_1 | shield |  
+| bip_39_word_underscore_10 | shield_scale_school_tree_cross_reflect_engine_alley_ugly_hazard |  
+| bip_39_word_underscore_11 | shield_scale_school_tree_cross_reflect_engine_alley_ugly_hazard_toward |  
+| bip_39_word_underscore_12 | shield_scale_school_tree_cross_reflect_engine_alley_ugly_hazard_toward_adult |  
+| bip_39_word_underscore_2 | shield_scale |  
+| bip_39_word_underscore_3 | shield_scale_school |  
+| bip_39_word_underscore_4 | shield_scale_school_tree |  
+| bip_39_word_underscore_5 | shield_scale_school_tree_cross |  
+| bip_39_word_underscore_6 | shield_scale_school_tree_cross_reflect |  
+| bip_39_word_underscore_7 | shield_scale_school_tree_cross_reflect_engine |  
+| bip_39_word_underscore_8 | shield_scale_school_tree_cross_reflect_engine_alley |  
+| bip_39_word_underscore_9 | shield_scale_school_tree_cross_reflect_engine_alley_ugly |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

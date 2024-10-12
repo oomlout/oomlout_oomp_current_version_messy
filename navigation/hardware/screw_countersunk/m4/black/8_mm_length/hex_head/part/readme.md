@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pet |  
+| bip_39_word_dash_10 | pet-someone-just-canoe-donor-clutch-fiction-bread-coconut-kidney |  
+| bip_39_word_dash_11 | pet-someone-just-canoe-donor-clutch-fiction-bread-coconut-kidney-action |  
+| bip_39_word_dash_12 | pet-someone-just-canoe-donor-clutch-fiction-bread-coconut-kidney-action-already |  
+| bip_39_word_dash_2 | pet-someone |  
+| bip_39_word_dash_3 | pet-someone-just |  
+| bip_39_word_dash_4 | pet-someone-just-canoe |  
+| bip_39_word_dash_5 | pet-someone-just-canoe-donor |  
+| bip_39_word_dash_6 | pet-someone-just-canoe-donor-clutch |  
+| bip_39_word_dash_7 | pet-someone-just-canoe-donor-clutch-fiction |  
+| bip_39_word_dash_8 | pet-someone-just-canoe-donor-clutch-fiction-bread |  
+| bip_39_word_dash_9 | pet-someone-just-canoe-donor-clutch-fiction-bread-coconut |  
 | bip_39_word_new_br_1 | pet |  
 | bip_39_word_new_br_10 | pet<br>someone<br>just<br>canoe<br>donor<br>clutch<br>fiction<br>bread<br>coconut<br>kidney |  
 | bip_39_word_new_br_11 | pet<br>someone<br>just<br>canoe<br>donor<br>clutch<br>fiction<br>bread<br>coconut<br>kidney<br>action |  
@@ -147,6 +159,18 @@ coconut |
 | bip_39_word_space_7 | pet someone just canoe donor clutch fiction |  
 | bip_39_word_space_8 | pet someone just canoe donor clutch fiction bread |  
 | bip_39_word_space_9 | pet someone just canoe donor clutch fiction bread coconut |  
+| bip_39_word_underscore_1 | pet |  
+| bip_39_word_underscore_10 | pet_someone_just_canoe_donor_clutch_fiction_bread_coconut_kidney |  
+| bip_39_word_underscore_11 | pet_someone_just_canoe_donor_clutch_fiction_bread_coconut_kidney_action |  
+| bip_39_word_underscore_12 | pet_someone_just_canoe_donor_clutch_fiction_bread_coconut_kidney_action_already |  
+| bip_39_word_underscore_2 | pet_someone |  
+| bip_39_word_underscore_3 | pet_someone_just |  
+| bip_39_word_underscore_4 | pet_someone_just_canoe |  
+| bip_39_word_underscore_5 | pet_someone_just_canoe_donor |  
+| bip_39_word_underscore_6 | pet_someone_just_canoe_donor_clutch |  
+| bip_39_word_underscore_7 | pet_someone_just_canoe_donor_clutch_fiction |  
+| bip_39_word_underscore_8 | pet_someone_just_canoe_donor_clutch_fiction_bread |  
+| bip_39_word_underscore_9 | pet_someone_just_canoe_donor_clutch_fiction_bread_coconut |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

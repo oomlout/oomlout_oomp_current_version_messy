@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hotel |  
+| bip_39_word_dash_10 | hotel-smooth-kiwi-piano-ride-street-double-extra-bounce-account |  
+| bip_39_word_dash_11 | hotel-smooth-kiwi-piano-ride-street-double-extra-bounce-account-monitor |  
+| bip_39_word_dash_12 | hotel-smooth-kiwi-piano-ride-street-double-extra-bounce-account-monitor-airport |  
+| bip_39_word_dash_2 | hotel-smooth |  
+| bip_39_word_dash_3 | hotel-smooth-kiwi |  
+| bip_39_word_dash_4 | hotel-smooth-kiwi-piano |  
+| bip_39_word_dash_5 | hotel-smooth-kiwi-piano-ride |  
+| bip_39_word_dash_6 | hotel-smooth-kiwi-piano-ride-street |  
+| bip_39_word_dash_7 | hotel-smooth-kiwi-piano-ride-street-double |  
+| bip_39_word_dash_8 | hotel-smooth-kiwi-piano-ride-street-double-extra |  
+| bip_39_word_dash_9 | hotel-smooth-kiwi-piano-ride-street-double-extra-bounce |  
 | bip_39_word_new_br_1 | hotel |  
 | bip_39_word_new_br_10 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra<br>bounce<br>account |  
 | bip_39_word_new_br_11 | hotel<br>smooth<br>kiwi<br>piano<br>ride<br>street<br>double<br>extra<br>bounce<br>account<br>monitor |  
@@ -147,6 +159,18 @@ bounce |
 | bip_39_word_space_7 | hotel smooth kiwi piano ride street double |  
 | bip_39_word_space_8 | hotel smooth kiwi piano ride street double extra |  
 | bip_39_word_space_9 | hotel smooth kiwi piano ride street double extra bounce |  
+| bip_39_word_underscore_1 | hotel |  
+| bip_39_word_underscore_10 | hotel_smooth_kiwi_piano_ride_street_double_extra_bounce_account |  
+| bip_39_word_underscore_11 | hotel_smooth_kiwi_piano_ride_street_double_extra_bounce_account_monitor |  
+| bip_39_word_underscore_12 | hotel_smooth_kiwi_piano_ride_street_double_extra_bounce_account_monitor_airport |  
+| bip_39_word_underscore_2 | hotel_smooth |  
+| bip_39_word_underscore_3 | hotel_smooth_kiwi |  
+| bip_39_word_underscore_4 | hotel_smooth_kiwi_piano |  
+| bip_39_word_underscore_5 | hotel_smooth_kiwi_piano_ride |  
+| bip_39_word_underscore_6 | hotel_smooth_kiwi_piano_ride_street |  
+| bip_39_word_underscore_7 | hotel_smooth_kiwi_piano_ride_street_double |  
+| bip_39_word_underscore_8 | hotel_smooth_kiwi_piano_ride_street_double_extra |  
+| bip_39_word_underscore_9 | hotel_smooth_kiwi_piano_ride_street_double_extra_bounce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

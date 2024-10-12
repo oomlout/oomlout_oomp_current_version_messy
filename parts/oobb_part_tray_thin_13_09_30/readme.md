@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cycle |  
+| bip_39_word_dash_10 | cycle-allow-antique-atom-panda-sea-chalk-goose-term-spin |  
+| bip_39_word_dash_11 | cycle-allow-antique-atom-panda-sea-chalk-goose-term-spin-retreat |  
+| bip_39_word_dash_12 | cycle-allow-antique-atom-panda-sea-chalk-goose-term-spin-retreat-alpha |  
+| bip_39_word_dash_2 | cycle-allow |  
+| bip_39_word_dash_3 | cycle-allow-antique |  
+| bip_39_word_dash_4 | cycle-allow-antique-atom |  
+| bip_39_word_dash_5 | cycle-allow-antique-atom-panda |  
+| bip_39_word_dash_6 | cycle-allow-antique-atom-panda-sea |  
+| bip_39_word_dash_7 | cycle-allow-antique-atom-panda-sea-chalk |  
+| bip_39_word_dash_8 | cycle-allow-antique-atom-panda-sea-chalk-goose |  
+| bip_39_word_dash_9 | cycle-allow-antique-atom-panda-sea-chalk-goose-term |  
 | bip_39_word_new_br_1 | cycle |  
 | bip_39_word_new_br_10 | cycle<br>allow<br>antique<br>atom<br>panda<br>sea<br>chalk<br>goose<br>term<br>spin |  
 | bip_39_word_new_br_11 | cycle<br>allow<br>antique<br>atom<br>panda<br>sea<br>chalk<br>goose<br>term<br>spin<br>retreat |  
@@ -147,6 +159,18 @@ term |
 | bip_39_word_space_7 | cycle allow antique atom panda sea chalk |  
 | bip_39_word_space_8 | cycle allow antique atom panda sea chalk goose |  
 | bip_39_word_space_9 | cycle allow antique atom panda sea chalk goose term |  
+| bip_39_word_underscore_1 | cycle |  
+| bip_39_word_underscore_10 | cycle_allow_antique_atom_panda_sea_chalk_goose_term_spin |  
+| bip_39_word_underscore_11 | cycle_allow_antique_atom_panda_sea_chalk_goose_term_spin_retreat |  
+| bip_39_word_underscore_12 | cycle_allow_antique_atom_panda_sea_chalk_goose_term_spin_retreat_alpha |  
+| bip_39_word_underscore_2 | cycle_allow |  
+| bip_39_word_underscore_3 | cycle_allow_antique |  
+| bip_39_word_underscore_4 | cycle_allow_antique_atom |  
+| bip_39_word_underscore_5 | cycle_allow_antique_atom_panda |  
+| bip_39_word_underscore_6 | cycle_allow_antique_atom_panda_sea |  
+| bip_39_word_underscore_7 | cycle_allow_antique_atom_panda_sea_chalk |  
+| bip_39_word_underscore_8 | cycle_allow_antique_atom_panda_sea_chalk_goose |  
+| bip_39_word_underscore_9 | cycle_allow_antique_atom_panda_sea_chalk_goose_term |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

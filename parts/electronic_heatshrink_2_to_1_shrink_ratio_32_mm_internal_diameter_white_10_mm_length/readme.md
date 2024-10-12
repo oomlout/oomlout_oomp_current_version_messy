@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | faint |  
+| bip_39_word_dash_10 | faint-avocado-income-action-music-wisdom-indoor-before-genuine-sign |  
+| bip_39_word_dash_11 | faint-avocado-income-action-music-wisdom-indoor-before-genuine-sign-wrist |  
+| bip_39_word_dash_12 | faint-avocado-income-action-music-wisdom-indoor-before-genuine-sign-wrist-abstract |  
+| bip_39_word_dash_2 | faint-avocado |  
+| bip_39_word_dash_3 | faint-avocado-income |  
+| bip_39_word_dash_4 | faint-avocado-income-action |  
+| bip_39_word_dash_5 | faint-avocado-income-action-music |  
+| bip_39_word_dash_6 | faint-avocado-income-action-music-wisdom |  
+| bip_39_word_dash_7 | faint-avocado-income-action-music-wisdom-indoor |  
+| bip_39_word_dash_8 | faint-avocado-income-action-music-wisdom-indoor-before |  
+| bip_39_word_dash_9 | faint-avocado-income-action-music-wisdom-indoor-before-genuine |  
 | bip_39_word_new_br_1 | faint |  
 | bip_39_word_new_br_10 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before<br>genuine<br>sign |  
 | bip_39_word_new_br_11 | faint<br>avocado<br>income<br>action<br>music<br>wisdom<br>indoor<br>before<br>genuine<br>sign<br>wrist |  
@@ -147,6 +159,18 @@ genuine |
 | bip_39_word_space_7 | faint avocado income action music wisdom indoor |  
 | bip_39_word_space_8 | faint avocado income action music wisdom indoor before |  
 | bip_39_word_space_9 | faint avocado income action music wisdom indoor before genuine |  
+| bip_39_word_underscore_1 | faint |  
+| bip_39_word_underscore_10 | faint_avocado_income_action_music_wisdom_indoor_before_genuine_sign |  
+| bip_39_word_underscore_11 | faint_avocado_income_action_music_wisdom_indoor_before_genuine_sign_wrist |  
+| bip_39_word_underscore_12 | faint_avocado_income_action_music_wisdom_indoor_before_genuine_sign_wrist_abstract |  
+| bip_39_word_underscore_2 | faint_avocado |  
+| bip_39_word_underscore_3 | faint_avocado_income |  
+| bip_39_word_underscore_4 | faint_avocado_income_action |  
+| bip_39_word_underscore_5 | faint_avocado_income_action_music |  
+| bip_39_word_underscore_6 | faint_avocado_income_action_music_wisdom |  
+| bip_39_word_underscore_7 | faint_avocado_income_action_music_wisdom_indoor |  
+| bip_39_word_underscore_8 | faint_avocado_income_action_music_wisdom_indoor_before |  
+| bip_39_word_underscore_9 | faint_avocado_income_action_music_wisdom_indoor_before_genuine |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

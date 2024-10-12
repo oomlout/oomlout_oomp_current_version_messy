@@ -1,3 +1,15 @@
+bip_39_word_dash_1: jacket
+bip_39_word_dash_10: jacket-lamp-buyer-stomach-diesel-wild-will-salad-february-impact
+bip_39_word_dash_11: jacket-lamp-buyer-stomach-diesel-wild-will-salad-february-impact-view
+bip_39_word_dash_12: jacket-lamp-buyer-stomach-diesel-wild-will-salad-february-impact-view-appear
+bip_39_word_dash_2: jacket-lamp
+bip_39_word_dash_3: jacket-lamp-buyer
+bip_39_word_dash_4: jacket-lamp-buyer-stomach
+bip_39_word_dash_5: jacket-lamp-buyer-stomach-diesel
+bip_39_word_dash_6: jacket-lamp-buyer-stomach-diesel-wild
+bip_39_word_dash_7: jacket-lamp-buyer-stomach-diesel-wild-will
+bip_39_word_dash_8: jacket-lamp-buyer-stomach-diesel-wild-will-salad
+bip_39_word_dash_9: jacket-lamp-buyer-stomach-diesel-wild-will-salad-february
 bip_39_word_new_br_1: jacket
 bip_39_word_new_br_10: jacket<br>lamp<br>buyer<br>stomach<br>diesel<br>wild<br>will<br>salad<br>february<br>impact
 bip_39_word_new_br_11: jacket<br>lamp<br>buyer<br>stomach<br>diesel<br>wild<br>will<br>salad<br>february<br>impact<br>view
@@ -193,6 +205,18 @@ bip_39_word_space_6: jacket lamp buyer stomach diesel wild
 bip_39_word_space_7: jacket lamp buyer stomach diesel wild will
 bip_39_word_space_8: jacket lamp buyer stomach diesel wild will salad
 bip_39_word_space_9: jacket lamp buyer stomach diesel wild will salad february
+bip_39_word_underscore_1: jacket
+bip_39_word_underscore_10: jacket_lamp_buyer_stomach_diesel_wild_will_salad_february_impact
+bip_39_word_underscore_11: jacket_lamp_buyer_stomach_diesel_wild_will_salad_february_impact_view
+bip_39_word_underscore_12: jacket_lamp_buyer_stomach_diesel_wild_will_salad_february_impact_view_appear
+bip_39_word_underscore_2: jacket_lamp
+bip_39_word_underscore_3: jacket_lamp_buyer
+bip_39_word_underscore_4: jacket_lamp_buyer_stomach
+bip_39_word_underscore_5: jacket_lamp_buyer_stomach_diesel
+bip_39_word_underscore_6: jacket_lamp_buyer_stomach_diesel_wild
+bip_39_word_underscore_7: jacket_lamp_buyer_stomach_diesel_wild_will
+bip_39_word_underscore_8: jacket_lamp_buyer_stomach_diesel_wild_will_salad
+bip_39_word_underscore_9: jacket_lamp_buyer_stomach_diesel_wild_will_salad_february
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

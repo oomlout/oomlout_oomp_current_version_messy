@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bag |  
+| bip_39_word_dash_10 | bag-loan-pilot-outdoor-gown-olympic-shy-decade-great-seminar |  
+| bip_39_word_dash_11 | bag-loan-pilot-outdoor-gown-olympic-shy-decade-great-seminar-buyer |  
+| bip_39_word_dash_12 | bag-loan-pilot-outdoor-gown-olympic-shy-decade-great-seminar-buyer-audit |  
+| bip_39_word_dash_2 | bag-loan |  
+| bip_39_word_dash_3 | bag-loan-pilot |  
+| bip_39_word_dash_4 | bag-loan-pilot-outdoor |  
+| bip_39_word_dash_5 | bag-loan-pilot-outdoor-gown |  
+| bip_39_word_dash_6 | bag-loan-pilot-outdoor-gown-olympic |  
+| bip_39_word_dash_7 | bag-loan-pilot-outdoor-gown-olympic-shy |  
+| bip_39_word_dash_8 | bag-loan-pilot-outdoor-gown-olympic-shy-decade |  
+| bip_39_word_dash_9 | bag-loan-pilot-outdoor-gown-olympic-shy-decade-great |  
 | bip_39_word_new_br_1 | bag |  
 | bip_39_word_new_br_10 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade<br>great<br>seminar |  
 | bip_39_word_new_br_11 | bag<br>loan<br>pilot<br>outdoor<br>gown<br>olympic<br>shy<br>decade<br>great<br>seminar<br>buyer |  
@@ -147,6 +159,18 @@ great |
 | bip_39_word_space_7 | bag loan pilot outdoor gown olympic shy |  
 | bip_39_word_space_8 | bag loan pilot outdoor gown olympic shy decade |  
 | bip_39_word_space_9 | bag loan pilot outdoor gown olympic shy decade great |  
+| bip_39_word_underscore_1 | bag |  
+| bip_39_word_underscore_10 | bag_loan_pilot_outdoor_gown_olympic_shy_decade_great_seminar |  
+| bip_39_word_underscore_11 | bag_loan_pilot_outdoor_gown_olympic_shy_decade_great_seminar_buyer |  
+| bip_39_word_underscore_12 | bag_loan_pilot_outdoor_gown_olympic_shy_decade_great_seminar_buyer_audit |  
+| bip_39_word_underscore_2 | bag_loan |  
+| bip_39_word_underscore_3 | bag_loan_pilot |  
+| bip_39_word_underscore_4 | bag_loan_pilot_outdoor |  
+| bip_39_word_underscore_5 | bag_loan_pilot_outdoor_gown |  
+| bip_39_word_underscore_6 | bag_loan_pilot_outdoor_gown_olympic |  
+| bip_39_word_underscore_7 | bag_loan_pilot_outdoor_gown_olympic_shy |  
+| bip_39_word_underscore_8 | bag_loan_pilot_outdoor_gown_olympic_shy_decade |  
+| bip_39_word_underscore_9 | bag_loan_pilot_outdoor_gown_olympic_shy_decade_great |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

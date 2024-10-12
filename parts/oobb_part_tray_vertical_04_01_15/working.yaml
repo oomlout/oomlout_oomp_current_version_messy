@@ -1,3 +1,15 @@
+bip_39_word_dash_1: amateur
+bip_39_word_dash_10: amateur-term-upon-card-kind-rice-business-fatigue-prepare-glove
+bip_39_word_dash_11: amateur-term-upon-card-kind-rice-business-fatigue-prepare-glove-good
+bip_39_word_dash_12: amateur-term-upon-card-kind-rice-business-fatigue-prepare-glove-good-army
+bip_39_word_dash_2: amateur-term
+bip_39_word_dash_3: amateur-term-upon
+bip_39_word_dash_4: amateur-term-upon-card
+bip_39_word_dash_5: amateur-term-upon-card-kind
+bip_39_word_dash_6: amateur-term-upon-card-kind-rice
+bip_39_word_dash_7: amateur-term-upon-card-kind-rice-business
+bip_39_word_dash_8: amateur-term-upon-card-kind-rice-business-fatigue
+bip_39_word_dash_9: amateur-term-upon-card-kind-rice-business-fatigue-prepare
 bip_39_word_new_br_1: amateur
 bip_39_word_new_br_10: amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue<br>prepare<br>glove
 bip_39_word_new_br_11: amateur<br>term<br>upon<br>card<br>kind<br>rice<br>business<br>fatigue<br>prepare<br>glove<br>good
@@ -193,6 +205,18 @@ bip_39_word_space_6: amateur term upon card kind rice
 bip_39_word_space_7: amateur term upon card kind rice business
 bip_39_word_space_8: amateur term upon card kind rice business fatigue
 bip_39_word_space_9: amateur term upon card kind rice business fatigue prepare
+bip_39_word_underscore_1: amateur
+bip_39_word_underscore_10: amateur_term_upon_card_kind_rice_business_fatigue_prepare_glove
+bip_39_word_underscore_11: amateur_term_upon_card_kind_rice_business_fatigue_prepare_glove_good
+bip_39_word_underscore_12: amateur_term_upon_card_kind_rice_business_fatigue_prepare_glove_good_army
+bip_39_word_underscore_2: amateur_term
+bip_39_word_underscore_3: amateur_term_upon
+bip_39_word_underscore_4: amateur_term_upon_card
+bip_39_word_underscore_5: amateur_term_upon_card_kind
+bip_39_word_underscore_6: amateur_term_upon_card_kind_rice
+bip_39_word_underscore_7: amateur_term_upon_card_kind_rice_business
+bip_39_word_underscore_8: amateur_term_upon_card_kind_rice_business_fatigue
+bip_39_word_underscore_9: amateur_term_upon_card_kind_rice_business_fatigue_prepare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

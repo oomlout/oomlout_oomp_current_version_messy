@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gate
+bip_39_word_dash_10: gate-erosion-better-diet-frost-kit-broken-attitude-want-connect
+bip_39_word_dash_11: gate-erosion-better-diet-frost-kit-broken-attitude-want-connect-nephew
+bip_39_word_dash_12: gate-erosion-better-diet-frost-kit-broken-attitude-want-connect-nephew-antique
+bip_39_word_dash_2: gate-erosion
+bip_39_word_dash_3: gate-erosion-better
+bip_39_word_dash_4: gate-erosion-better-diet
+bip_39_word_dash_5: gate-erosion-better-diet-frost
+bip_39_word_dash_6: gate-erosion-better-diet-frost-kit
+bip_39_word_dash_7: gate-erosion-better-diet-frost-kit-broken
+bip_39_word_dash_8: gate-erosion-better-diet-frost-kit-broken-attitude
+bip_39_word_dash_9: gate-erosion-better-diet-frost-kit-broken-attitude-want
 bip_39_word_new_br_1: gate
 bip_39_word_new_br_10: gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect
 bip_39_word_new_br_11: gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect<br>nephew
@@ -193,6 +205,18 @@ bip_39_word_space_6: gate erosion better diet frost kit
 bip_39_word_space_7: gate erosion better diet frost kit broken
 bip_39_word_space_8: gate erosion better diet frost kit broken attitude
 bip_39_word_space_9: gate erosion better diet frost kit broken attitude want
+bip_39_word_underscore_1: gate
+bip_39_word_underscore_10: gate_erosion_better_diet_frost_kit_broken_attitude_want_connect
+bip_39_word_underscore_11: gate_erosion_better_diet_frost_kit_broken_attitude_want_connect_nephew
+bip_39_word_underscore_12: gate_erosion_better_diet_frost_kit_broken_attitude_want_connect_nephew_antique
+bip_39_word_underscore_2: gate_erosion
+bip_39_word_underscore_3: gate_erosion_better
+bip_39_word_underscore_4: gate_erosion_better_diet
+bip_39_word_underscore_5: gate_erosion_better_diet_frost
+bip_39_word_underscore_6: gate_erosion_better_diet_frost_kit
+bip_39_word_underscore_7: gate_erosion_better_diet_frost_kit_broken
+bip_39_word_underscore_8: gate_erosion_better_diet_frost_kit_broken_attitude
+bip_39_word_underscore_9: gate_erosion_better_diet_frost_kit_broken_attitude_want
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

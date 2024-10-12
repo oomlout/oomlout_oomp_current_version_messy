@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sniff |  
+| bip_39_word_dash_10 | sniff-spread-staff-dutch-sell-fault-ribbon-host-angry-dignity |  
+| bip_39_word_dash_11 | sniff-spread-staff-dutch-sell-fault-ribbon-host-angry-dignity-cake |  
+| bip_39_word_dash_12 | sniff-spread-staff-dutch-sell-fault-ribbon-host-angry-dignity-cake-adapt |  
+| bip_39_word_dash_2 | sniff-spread |  
+| bip_39_word_dash_3 | sniff-spread-staff |  
+| bip_39_word_dash_4 | sniff-spread-staff-dutch |  
+| bip_39_word_dash_5 | sniff-spread-staff-dutch-sell |  
+| bip_39_word_dash_6 | sniff-spread-staff-dutch-sell-fault |  
+| bip_39_word_dash_7 | sniff-spread-staff-dutch-sell-fault-ribbon |  
+| bip_39_word_dash_8 | sniff-spread-staff-dutch-sell-fault-ribbon-host |  
+| bip_39_word_dash_9 | sniff-spread-staff-dutch-sell-fault-ribbon-host-angry |  
 | bip_39_word_new_br_1 | sniff |  
 | bip_39_word_new_br_10 | sniff<br>spread<br>staff<br>dutch<br>sell<br>fault<br>ribbon<br>host<br>angry<br>dignity |  
 | bip_39_word_new_br_11 | sniff<br>spread<br>staff<br>dutch<br>sell<br>fault<br>ribbon<br>host<br>angry<br>dignity<br>cake |  
@@ -147,6 +159,18 @@ angry |
 | bip_39_word_space_7 | sniff spread staff dutch sell fault ribbon |  
 | bip_39_word_space_8 | sniff spread staff dutch sell fault ribbon host |  
 | bip_39_word_space_9 | sniff spread staff dutch sell fault ribbon host angry |  
+| bip_39_word_underscore_1 | sniff |  
+| bip_39_word_underscore_10 | sniff_spread_staff_dutch_sell_fault_ribbon_host_angry_dignity |  
+| bip_39_word_underscore_11 | sniff_spread_staff_dutch_sell_fault_ribbon_host_angry_dignity_cake |  
+| bip_39_word_underscore_12 | sniff_spread_staff_dutch_sell_fault_ribbon_host_angry_dignity_cake_adapt |  
+| bip_39_word_underscore_2 | sniff_spread |  
+| bip_39_word_underscore_3 | sniff_spread_staff |  
+| bip_39_word_underscore_4 | sniff_spread_staff_dutch |  
+| bip_39_word_underscore_5 | sniff_spread_staff_dutch_sell |  
+| bip_39_word_underscore_6 | sniff_spread_staff_dutch_sell_fault |  
+| bip_39_word_underscore_7 | sniff_spread_staff_dutch_sell_fault_ribbon |  
+| bip_39_word_underscore_8 | sniff_spread_staff_dutch_sell_fault_ribbon_host |  
+| bip_39_word_underscore_9 | sniff_spread_staff_dutch_sell_fault_ribbon_host_angry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

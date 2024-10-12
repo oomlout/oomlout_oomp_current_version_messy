@@ -1,3 +1,15 @@
+bip_39_word_dash_1: choice
+bip_39_word_dash_10: choice-fit-traffic-demand-output-trim-borrow-rate-remind-happy
+bip_39_word_dash_11: choice-fit-traffic-demand-output-trim-borrow-rate-remind-happy-wing
+bip_39_word_dash_12: choice-fit-traffic-demand-output-trim-borrow-rate-remind-happy-wing-alarm
+bip_39_word_dash_2: choice-fit
+bip_39_word_dash_3: choice-fit-traffic
+bip_39_word_dash_4: choice-fit-traffic-demand
+bip_39_word_dash_5: choice-fit-traffic-demand-output
+bip_39_word_dash_6: choice-fit-traffic-demand-output-trim
+bip_39_word_dash_7: choice-fit-traffic-demand-output-trim-borrow
+bip_39_word_dash_8: choice-fit-traffic-demand-output-trim-borrow-rate
+bip_39_word_dash_9: choice-fit-traffic-demand-output-trim-borrow-rate-remind
 bip_39_word_new_br_1: choice
 bip_39_word_new_br_10: choice<br>fit<br>traffic<br>demand<br>output<br>trim<br>borrow<br>rate<br>remind<br>happy
 bip_39_word_new_br_11: choice<br>fit<br>traffic<br>demand<br>output<br>trim<br>borrow<br>rate<br>remind<br>happy<br>wing
@@ -193,6 +205,18 @@ bip_39_word_space_6: choice fit traffic demand output trim
 bip_39_word_space_7: choice fit traffic demand output trim borrow
 bip_39_word_space_8: choice fit traffic demand output trim borrow rate
 bip_39_word_space_9: choice fit traffic demand output trim borrow rate remind
+bip_39_word_underscore_1: choice
+bip_39_word_underscore_10: choice_fit_traffic_demand_output_trim_borrow_rate_remind_happy
+bip_39_word_underscore_11: choice_fit_traffic_demand_output_trim_borrow_rate_remind_happy_wing
+bip_39_word_underscore_12: choice_fit_traffic_demand_output_trim_borrow_rate_remind_happy_wing_alarm
+bip_39_word_underscore_2: choice_fit
+bip_39_word_underscore_3: choice_fit_traffic
+bip_39_word_underscore_4: choice_fit_traffic_demand
+bip_39_word_underscore_5: choice_fit_traffic_demand_output
+bip_39_word_underscore_6: choice_fit_traffic_demand_output_trim
+bip_39_word_underscore_7: choice_fit_traffic_demand_output_trim_borrow
+bip_39_word_underscore_8: choice_fit_traffic_demand_output_trim_borrow_rate
+bip_39_word_underscore_9: choice_fit_traffic_demand_output_trim_borrow_rate_remind
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

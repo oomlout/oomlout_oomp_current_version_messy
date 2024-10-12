@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | damage |  
+| bip_39_word_dash_10 | damage-loop-side-onion-machine-today-shiver-offer-card-raw |  
+| bip_39_word_dash_11 | damage-loop-side-onion-machine-today-shiver-offer-card-raw-thing |  
+| bip_39_word_dash_12 | damage-loop-side-onion-machine-today-shiver-offer-card-raw-thing-attitude |  
+| bip_39_word_dash_2 | damage-loop |  
+| bip_39_word_dash_3 | damage-loop-side |  
+| bip_39_word_dash_4 | damage-loop-side-onion |  
+| bip_39_word_dash_5 | damage-loop-side-onion-machine |  
+| bip_39_word_dash_6 | damage-loop-side-onion-machine-today |  
+| bip_39_word_dash_7 | damage-loop-side-onion-machine-today-shiver |  
+| bip_39_word_dash_8 | damage-loop-side-onion-machine-today-shiver-offer |  
+| bip_39_word_dash_9 | damage-loop-side-onion-machine-today-shiver-offer-card |  
 | bip_39_word_new_br_1 | damage |  
 | bip_39_word_new_br_10 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer<br>card<br>raw |  
 | bip_39_word_new_br_11 | damage<br>loop<br>side<br>onion<br>machine<br>today<br>shiver<br>offer<br>card<br>raw<br>thing |  
@@ -147,6 +159,18 @@ card |
 | bip_39_word_space_7 | damage loop side onion machine today shiver |  
 | bip_39_word_space_8 | damage loop side onion machine today shiver offer |  
 | bip_39_word_space_9 | damage loop side onion machine today shiver offer card |  
+| bip_39_word_underscore_1 | damage |  
+| bip_39_word_underscore_10 | damage_loop_side_onion_machine_today_shiver_offer_card_raw |  
+| bip_39_word_underscore_11 | damage_loop_side_onion_machine_today_shiver_offer_card_raw_thing |  
+| bip_39_word_underscore_12 | damage_loop_side_onion_machine_today_shiver_offer_card_raw_thing_attitude |  
+| bip_39_word_underscore_2 | damage_loop |  
+| bip_39_word_underscore_3 | damage_loop_side |  
+| bip_39_word_underscore_4 | damage_loop_side_onion |  
+| bip_39_word_underscore_5 | damage_loop_side_onion_machine |  
+| bip_39_word_underscore_6 | damage_loop_side_onion_machine_today |  
+| bip_39_word_underscore_7 | damage_loop_side_onion_machine_today_shiver |  
+| bip_39_word_underscore_8 | damage_loop_side_onion_machine_today_shiver_offer |  
+| bip_39_word_underscore_9 | damage_loop_side_onion_machine_today_shiver_offer_card |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

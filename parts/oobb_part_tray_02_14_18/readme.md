@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | legal |  
+| bip_39_word_dash_10 | legal-lyrics-ability-deny-uncover-egg-unfold-voyage-ahead-garlic |  
+| bip_39_word_dash_11 | legal-lyrics-ability-deny-uncover-egg-unfold-voyage-ahead-garlic-clarify |  
+| bip_39_word_dash_12 | legal-lyrics-ability-deny-uncover-egg-unfold-voyage-ahead-garlic-clarify-adult |  
+| bip_39_word_dash_2 | legal-lyrics |  
+| bip_39_word_dash_3 | legal-lyrics-ability |  
+| bip_39_word_dash_4 | legal-lyrics-ability-deny |  
+| bip_39_word_dash_5 | legal-lyrics-ability-deny-uncover |  
+| bip_39_word_dash_6 | legal-lyrics-ability-deny-uncover-egg |  
+| bip_39_word_dash_7 | legal-lyrics-ability-deny-uncover-egg-unfold |  
+| bip_39_word_dash_8 | legal-lyrics-ability-deny-uncover-egg-unfold-voyage |  
+| bip_39_word_dash_9 | legal-lyrics-ability-deny-uncover-egg-unfold-voyage-ahead |  
 | bip_39_word_new_br_1 | legal |  
 | bip_39_word_new_br_10 | legal<br>lyrics<br>ability<br>deny<br>uncover<br>egg<br>unfold<br>voyage<br>ahead<br>garlic |  
 | bip_39_word_new_br_11 | legal<br>lyrics<br>ability<br>deny<br>uncover<br>egg<br>unfold<br>voyage<br>ahead<br>garlic<br>clarify |  
@@ -147,6 +159,18 @@ ahead |
 | bip_39_word_space_7 | legal lyrics ability deny uncover egg unfold |  
 | bip_39_word_space_8 | legal lyrics ability deny uncover egg unfold voyage |  
 | bip_39_word_space_9 | legal lyrics ability deny uncover egg unfold voyage ahead |  
+| bip_39_word_underscore_1 | legal |  
+| bip_39_word_underscore_10 | legal_lyrics_ability_deny_uncover_egg_unfold_voyage_ahead_garlic |  
+| bip_39_word_underscore_11 | legal_lyrics_ability_deny_uncover_egg_unfold_voyage_ahead_garlic_clarify |  
+| bip_39_word_underscore_12 | legal_lyrics_ability_deny_uncover_egg_unfold_voyage_ahead_garlic_clarify_adult |  
+| bip_39_word_underscore_2 | legal_lyrics |  
+| bip_39_word_underscore_3 | legal_lyrics_ability |  
+| bip_39_word_underscore_4 | legal_lyrics_ability_deny |  
+| bip_39_word_underscore_5 | legal_lyrics_ability_deny_uncover |  
+| bip_39_word_underscore_6 | legal_lyrics_ability_deny_uncover_egg |  
+| bip_39_word_underscore_7 | legal_lyrics_ability_deny_uncover_egg_unfold |  
+| bip_39_word_underscore_8 | legal_lyrics_ability_deny_uncover_egg_unfold_voyage |  
+| bip_39_word_underscore_9 | legal_lyrics_ability_deny_uncover_egg_unfold_voyage_ahead |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

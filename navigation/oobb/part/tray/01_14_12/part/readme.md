@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | purity |  
+| bip_39_word_dash_10 | purity-certain-token-write-frost-bubble-pudding-educate-chronic-base |  
+| bip_39_word_dash_11 | purity-certain-token-write-frost-bubble-pudding-educate-chronic-base-drum |  
+| bip_39_word_dash_12 | purity-certain-token-write-frost-bubble-pudding-educate-chronic-base-drum-afford |  
+| bip_39_word_dash_2 | purity-certain |  
+| bip_39_word_dash_3 | purity-certain-token |  
+| bip_39_word_dash_4 | purity-certain-token-write |  
+| bip_39_word_dash_5 | purity-certain-token-write-frost |  
+| bip_39_word_dash_6 | purity-certain-token-write-frost-bubble |  
+| bip_39_word_dash_7 | purity-certain-token-write-frost-bubble-pudding |  
+| bip_39_word_dash_8 | purity-certain-token-write-frost-bubble-pudding-educate |  
+| bip_39_word_dash_9 | purity-certain-token-write-frost-bubble-pudding-educate-chronic |  
 | bip_39_word_new_br_1 | purity |  
 | bip_39_word_new_br_10 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate<br>chronic<br>base |  
 | bip_39_word_new_br_11 | purity<br>certain<br>token<br>write<br>frost<br>bubble<br>pudding<br>educate<br>chronic<br>base<br>drum |  
@@ -147,6 +159,18 @@ chronic |
 | bip_39_word_space_7 | purity certain token write frost bubble pudding |  
 | bip_39_word_space_8 | purity certain token write frost bubble pudding educate |  
 | bip_39_word_space_9 | purity certain token write frost bubble pudding educate chronic |  
+| bip_39_word_underscore_1 | purity |  
+| bip_39_word_underscore_10 | purity_certain_token_write_frost_bubble_pudding_educate_chronic_base |  
+| bip_39_word_underscore_11 | purity_certain_token_write_frost_bubble_pudding_educate_chronic_base_drum |  
+| bip_39_word_underscore_12 | purity_certain_token_write_frost_bubble_pudding_educate_chronic_base_drum_afford |  
+| bip_39_word_underscore_2 | purity_certain |  
+| bip_39_word_underscore_3 | purity_certain_token |  
+| bip_39_word_underscore_4 | purity_certain_token_write |  
+| bip_39_word_underscore_5 | purity_certain_token_write_frost |  
+| bip_39_word_underscore_6 | purity_certain_token_write_frost_bubble |  
+| bip_39_word_underscore_7 | purity_certain_token_write_frost_bubble_pudding |  
+| bip_39_word_underscore_8 | purity_certain_token_write_frost_bubble_pudding_educate |  
+| bip_39_word_underscore_9 | purity_certain_token_write_frost_bubble_pudding_educate_chronic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

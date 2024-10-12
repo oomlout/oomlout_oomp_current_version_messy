@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grow |  
+| bip_39_word_dash_10 | grow-wolf-step-sample-swim-else-olympic-panda-borrow-prevent |  
+| bip_39_word_dash_11 | grow-wolf-step-sample-swim-else-olympic-panda-borrow-prevent-behind |  
+| bip_39_word_dash_12 | grow-wolf-step-sample-swim-else-olympic-panda-borrow-prevent-behind-amount |  
+| bip_39_word_dash_2 | grow-wolf |  
+| bip_39_word_dash_3 | grow-wolf-step |  
+| bip_39_word_dash_4 | grow-wolf-step-sample |  
+| bip_39_word_dash_5 | grow-wolf-step-sample-swim |  
+| bip_39_word_dash_6 | grow-wolf-step-sample-swim-else |  
+| bip_39_word_dash_7 | grow-wolf-step-sample-swim-else-olympic |  
+| bip_39_word_dash_8 | grow-wolf-step-sample-swim-else-olympic-panda |  
+| bip_39_word_dash_9 | grow-wolf-step-sample-swim-else-olympic-panda-borrow |  
 | bip_39_word_new_br_1 | grow |  
 | bip_39_word_new_br_10 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda<br>borrow<br>prevent |  
 | bip_39_word_new_br_11 | grow<br>wolf<br>step<br>sample<br>swim<br>else<br>olympic<br>panda<br>borrow<br>prevent<br>behind |  
@@ -147,6 +159,18 @@ borrow |
 | bip_39_word_space_7 | grow wolf step sample swim else olympic |  
 | bip_39_word_space_8 | grow wolf step sample swim else olympic panda |  
 | bip_39_word_space_9 | grow wolf step sample swim else olympic panda borrow |  
+| bip_39_word_underscore_1 | grow |  
+| bip_39_word_underscore_10 | grow_wolf_step_sample_swim_else_olympic_panda_borrow_prevent |  
+| bip_39_word_underscore_11 | grow_wolf_step_sample_swim_else_olympic_panda_borrow_prevent_behind |  
+| bip_39_word_underscore_12 | grow_wolf_step_sample_swim_else_olympic_panda_borrow_prevent_behind_amount |  
+| bip_39_word_underscore_2 | grow_wolf |  
+| bip_39_word_underscore_3 | grow_wolf_step |  
+| bip_39_word_underscore_4 | grow_wolf_step_sample |  
+| bip_39_word_underscore_5 | grow_wolf_step_sample_swim |  
+| bip_39_word_underscore_6 | grow_wolf_step_sample_swim_else |  
+| bip_39_word_underscore_7 | grow_wolf_step_sample_swim_else_olympic |  
+| bip_39_word_underscore_8 | grow_wolf_step_sample_swim_else_olympic_panda |  
+| bip_39_word_underscore_9 | grow_wolf_step_sample_swim_else_olympic_panda_borrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

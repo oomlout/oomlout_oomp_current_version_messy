@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trigger |  
+| bip_39_word_dash_10 | trigger-flight-slice-property-vanish-vanish-media-amateur-heavy-struggle |  
+| bip_39_word_dash_11 | trigger-flight-slice-property-vanish-vanish-media-amateur-heavy-struggle-ceiling |  
+| bip_39_word_dash_12 | trigger-flight-slice-property-vanish-vanish-media-amateur-heavy-struggle-ceiling-appear |  
+| bip_39_word_dash_2 | trigger-flight |  
+| bip_39_word_dash_3 | trigger-flight-slice |  
+| bip_39_word_dash_4 | trigger-flight-slice-property |  
+| bip_39_word_dash_5 | trigger-flight-slice-property-vanish |  
+| bip_39_word_dash_6 | trigger-flight-slice-property-vanish-vanish |  
+| bip_39_word_dash_7 | trigger-flight-slice-property-vanish-vanish-media |  
+| bip_39_word_dash_8 | trigger-flight-slice-property-vanish-vanish-media-amateur |  
+| bip_39_word_dash_9 | trigger-flight-slice-property-vanish-vanish-media-amateur-heavy |  
 | bip_39_word_new_br_1 | trigger |  
 | bip_39_word_new_br_10 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle |  
 | bip_39_word_new_br_11 | trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle<br>ceiling |  
@@ -147,6 +159,18 @@ heavy |
 | bip_39_word_space_7 | trigger flight slice property vanish vanish media |  
 | bip_39_word_space_8 | trigger flight slice property vanish vanish media amateur |  
 | bip_39_word_space_9 | trigger flight slice property vanish vanish media amateur heavy |  
+| bip_39_word_underscore_1 | trigger |  
+| bip_39_word_underscore_10 | trigger_flight_slice_property_vanish_vanish_media_amateur_heavy_struggle |  
+| bip_39_word_underscore_11 | trigger_flight_slice_property_vanish_vanish_media_amateur_heavy_struggle_ceiling |  
+| bip_39_word_underscore_12 | trigger_flight_slice_property_vanish_vanish_media_amateur_heavy_struggle_ceiling_appear |  
+| bip_39_word_underscore_2 | trigger_flight |  
+| bip_39_word_underscore_3 | trigger_flight_slice |  
+| bip_39_word_underscore_4 | trigger_flight_slice_property |  
+| bip_39_word_underscore_5 | trigger_flight_slice_property_vanish |  
+| bip_39_word_underscore_6 | trigger_flight_slice_property_vanish_vanish |  
+| bip_39_word_underscore_7 | trigger_flight_slice_property_vanish_vanish_media |  
+| bip_39_word_underscore_8 | trigger_flight_slice_property_vanish_vanish_media_amateur |  
+| bip_39_word_underscore_9 | trigger_flight_slice_property_vanish_vanish_media_amateur_heavy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

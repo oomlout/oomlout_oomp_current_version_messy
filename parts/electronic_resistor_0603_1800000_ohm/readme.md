@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | topic |  
+| bip_39_word_dash_10 | topic-kingdom-screen-fancy-foil-mercy-equal-pave-emerge-annual |  
+| bip_39_word_dash_11 | topic-kingdom-screen-fancy-foil-mercy-equal-pave-emerge-annual-movie |  
+| bip_39_word_dash_12 | topic-kingdom-screen-fancy-foil-mercy-equal-pave-emerge-annual-movie-accident |  
+| bip_39_word_dash_2 | topic-kingdom |  
+| bip_39_word_dash_3 | topic-kingdom-screen |  
+| bip_39_word_dash_4 | topic-kingdom-screen-fancy |  
+| bip_39_word_dash_5 | topic-kingdom-screen-fancy-foil |  
+| bip_39_word_dash_6 | topic-kingdom-screen-fancy-foil-mercy |  
+| bip_39_word_dash_7 | topic-kingdom-screen-fancy-foil-mercy-equal |  
+| bip_39_word_dash_8 | topic-kingdom-screen-fancy-foil-mercy-equal-pave |  
+| bip_39_word_dash_9 | topic-kingdom-screen-fancy-foil-mercy-equal-pave-emerge |  
 | bip_39_word_new_br_1 | topic |  
 | bip_39_word_new_br_10 | topic<br>kingdom<br>screen<br>fancy<br>foil<br>mercy<br>equal<br>pave<br>emerge<br>annual |  
 | bip_39_word_new_br_11 | topic<br>kingdom<br>screen<br>fancy<br>foil<br>mercy<br>equal<br>pave<br>emerge<br>annual<br>movie |  
@@ -147,6 +159,18 @@ emerge |
 | bip_39_word_space_7 | topic kingdom screen fancy foil mercy equal |  
 | bip_39_word_space_8 | topic kingdom screen fancy foil mercy equal pave |  
 | bip_39_word_space_9 | topic kingdom screen fancy foil mercy equal pave emerge |  
+| bip_39_word_underscore_1 | topic |  
+| bip_39_word_underscore_10 | topic_kingdom_screen_fancy_foil_mercy_equal_pave_emerge_annual |  
+| bip_39_word_underscore_11 | topic_kingdom_screen_fancy_foil_mercy_equal_pave_emerge_annual_movie |  
+| bip_39_word_underscore_12 | topic_kingdom_screen_fancy_foil_mercy_equal_pave_emerge_annual_movie_accident |  
+| bip_39_word_underscore_2 | topic_kingdom |  
+| bip_39_word_underscore_3 | topic_kingdom_screen |  
+| bip_39_word_underscore_4 | topic_kingdom_screen_fancy |  
+| bip_39_word_underscore_5 | topic_kingdom_screen_fancy_foil |  
+| bip_39_word_underscore_6 | topic_kingdom_screen_fancy_foil_mercy |  
+| bip_39_word_underscore_7 | topic_kingdom_screen_fancy_foil_mercy_equal |  
+| bip_39_word_underscore_8 | topic_kingdom_screen_fancy_foil_mercy_equal_pave |  
+| bip_39_word_underscore_9 | topic_kingdom_screen_fancy_foil_mercy_equal_pave_emerge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

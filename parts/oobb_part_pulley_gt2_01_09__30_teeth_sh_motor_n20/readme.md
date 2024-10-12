@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clip |  
+| bip_39_word_dash_10 | clip-season-aspect-divide-jungle-text-duty-rule-awesome-fee |  
+| bip_39_word_dash_11 | clip-season-aspect-divide-jungle-text-duty-rule-awesome-fee-demise |  
+| bip_39_word_dash_12 | clip-season-aspect-divide-jungle-text-duty-rule-awesome-fee-demise-arrow |  
+| bip_39_word_dash_2 | clip-season |  
+| bip_39_word_dash_3 | clip-season-aspect |  
+| bip_39_word_dash_4 | clip-season-aspect-divide |  
+| bip_39_word_dash_5 | clip-season-aspect-divide-jungle |  
+| bip_39_word_dash_6 | clip-season-aspect-divide-jungle-text |  
+| bip_39_word_dash_7 | clip-season-aspect-divide-jungle-text-duty |  
+| bip_39_word_dash_8 | clip-season-aspect-divide-jungle-text-duty-rule |  
+| bip_39_word_dash_9 | clip-season-aspect-divide-jungle-text-duty-rule-awesome |  
 | bip_39_word_new_br_1 | clip |  
 | bip_39_word_new_br_10 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule<br>awesome<br>fee |  
 | bip_39_word_new_br_11 | clip<br>season<br>aspect<br>divide<br>jungle<br>text<br>duty<br>rule<br>awesome<br>fee<br>demise |  
@@ -147,6 +159,18 @@ awesome |
 | bip_39_word_space_7 | clip season aspect divide jungle text duty |  
 | bip_39_word_space_8 | clip season aspect divide jungle text duty rule |  
 | bip_39_word_space_9 | clip season aspect divide jungle text duty rule awesome |  
+| bip_39_word_underscore_1 | clip |  
+| bip_39_word_underscore_10 | clip_season_aspect_divide_jungle_text_duty_rule_awesome_fee |  
+| bip_39_word_underscore_11 | clip_season_aspect_divide_jungle_text_duty_rule_awesome_fee_demise |  
+| bip_39_word_underscore_12 | clip_season_aspect_divide_jungle_text_duty_rule_awesome_fee_demise_arrow |  
+| bip_39_word_underscore_2 | clip_season |  
+| bip_39_word_underscore_3 | clip_season_aspect |  
+| bip_39_word_underscore_4 | clip_season_aspect_divide |  
+| bip_39_word_underscore_5 | clip_season_aspect_divide_jungle |  
+| bip_39_word_underscore_6 | clip_season_aspect_divide_jungle_text |  
+| bip_39_word_underscore_7 | clip_season_aspect_divide_jungle_text_duty |  
+| bip_39_word_underscore_8 | clip_season_aspect_divide_jungle_text_duty_rule |  
+| bip_39_word_underscore_9 | clip_season_aspect_divide_jungle_text_duty_rule_awesome |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

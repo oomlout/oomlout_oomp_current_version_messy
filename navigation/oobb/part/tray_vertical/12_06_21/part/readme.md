@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | old |  
+| bip_39_word_dash_10 | old-name-funny-wing-make-awesome-trap-clock-food-entry |  
+| bip_39_word_dash_11 | old-name-funny-wing-make-awesome-trap-clock-food-entry-satisfy |  
+| bip_39_word_dash_12 | old-name-funny-wing-make-awesome-trap-clock-food-entry-satisfy-actress |  
+| bip_39_word_dash_2 | old-name |  
+| bip_39_word_dash_3 | old-name-funny |  
+| bip_39_word_dash_4 | old-name-funny-wing |  
+| bip_39_word_dash_5 | old-name-funny-wing-make |  
+| bip_39_word_dash_6 | old-name-funny-wing-make-awesome |  
+| bip_39_word_dash_7 | old-name-funny-wing-make-awesome-trap |  
+| bip_39_word_dash_8 | old-name-funny-wing-make-awesome-trap-clock |  
+| bip_39_word_dash_9 | old-name-funny-wing-make-awesome-trap-clock-food |  
 | bip_39_word_new_br_1 | old |  
 | bip_39_word_new_br_10 | old<br>name<br>funny<br>wing<br>make<br>awesome<br>trap<br>clock<br>food<br>entry |  
 | bip_39_word_new_br_11 | old<br>name<br>funny<br>wing<br>make<br>awesome<br>trap<br>clock<br>food<br>entry<br>satisfy |  
@@ -147,6 +159,18 @@ food |
 | bip_39_word_space_7 | old name funny wing make awesome trap |  
 | bip_39_word_space_8 | old name funny wing make awesome trap clock |  
 | bip_39_word_space_9 | old name funny wing make awesome trap clock food |  
+| bip_39_word_underscore_1 | old |  
+| bip_39_word_underscore_10 | old_name_funny_wing_make_awesome_trap_clock_food_entry |  
+| bip_39_word_underscore_11 | old_name_funny_wing_make_awesome_trap_clock_food_entry_satisfy |  
+| bip_39_word_underscore_12 | old_name_funny_wing_make_awesome_trap_clock_food_entry_satisfy_actress |  
+| bip_39_word_underscore_2 | old_name |  
+| bip_39_word_underscore_3 | old_name_funny |  
+| bip_39_word_underscore_4 | old_name_funny_wing |  
+| bip_39_word_underscore_5 | old_name_funny_wing_make |  
+| bip_39_word_underscore_6 | old_name_funny_wing_make_awesome |  
+| bip_39_word_underscore_7 | old_name_funny_wing_make_awesome_trap |  
+| bip_39_word_underscore_8 | old_name_funny_wing_make_awesome_trap_clock |  
+| bip_39_word_underscore_9 | old_name_funny_wing_make_awesome_trap_clock_food |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

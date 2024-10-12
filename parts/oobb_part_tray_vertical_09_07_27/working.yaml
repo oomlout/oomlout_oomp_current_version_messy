@@ -1,3 +1,15 @@
+bip_39_word_dash_1: child
+bip_39_word_dash_10: child-dawn-trophy-table-chapter-crowd-apart-ship-speak-attract
+bip_39_word_dash_11: child-dawn-trophy-table-chapter-crowd-apart-ship-speak-attract-talk
+bip_39_word_dash_12: child-dawn-trophy-table-chapter-crowd-apart-ship-speak-attract-talk-accuse
+bip_39_word_dash_2: child-dawn
+bip_39_word_dash_3: child-dawn-trophy
+bip_39_word_dash_4: child-dawn-trophy-table
+bip_39_word_dash_5: child-dawn-trophy-table-chapter
+bip_39_word_dash_6: child-dawn-trophy-table-chapter-crowd
+bip_39_word_dash_7: child-dawn-trophy-table-chapter-crowd-apart
+bip_39_word_dash_8: child-dawn-trophy-table-chapter-crowd-apart-ship
+bip_39_word_dash_9: child-dawn-trophy-table-chapter-crowd-apart-ship-speak
 bip_39_word_new_br_1: child
 bip_39_word_new_br_10: child<br>dawn<br>trophy<br>table<br>chapter<br>crowd<br>apart<br>ship<br>speak<br>attract
 bip_39_word_new_br_11: child<br>dawn<br>trophy<br>table<br>chapter<br>crowd<br>apart<br>ship<br>speak<br>attract<br>talk
@@ -193,6 +205,18 @@ bip_39_word_space_6: child dawn trophy table chapter crowd
 bip_39_word_space_7: child dawn trophy table chapter crowd apart
 bip_39_word_space_8: child dawn trophy table chapter crowd apart ship
 bip_39_word_space_9: child dawn trophy table chapter crowd apart ship speak
+bip_39_word_underscore_1: child
+bip_39_word_underscore_10: child_dawn_trophy_table_chapter_crowd_apart_ship_speak_attract
+bip_39_word_underscore_11: child_dawn_trophy_table_chapter_crowd_apart_ship_speak_attract_talk
+bip_39_word_underscore_12: child_dawn_trophy_table_chapter_crowd_apart_ship_speak_attract_talk_accuse
+bip_39_word_underscore_2: child_dawn
+bip_39_word_underscore_3: child_dawn_trophy
+bip_39_word_underscore_4: child_dawn_trophy_table
+bip_39_word_underscore_5: child_dawn_trophy_table_chapter
+bip_39_word_underscore_6: child_dawn_trophy_table_chapter_crowd
+bip_39_word_underscore_7: child_dawn_trophy_table_chapter_crowd_apart
+bip_39_word_underscore_8: child_dawn_trophy_table_chapter_crowd_apart_ship
+bip_39_word_underscore_9: child_dawn_trophy_table_chapter_crowd_apart_ship_speak
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

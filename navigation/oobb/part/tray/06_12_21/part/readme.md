@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | improve |  
+| bip_39_word_dash_10 | improve-grunt-clever-scale-flight-start-fold-omit-snap-scan |  
+| bip_39_word_dash_11 | improve-grunt-clever-scale-flight-start-fold-omit-snap-scan-guide |  
+| bip_39_word_dash_12 | improve-grunt-clever-scale-flight-start-fold-omit-snap-scan-guide-absent |  
+| bip_39_word_dash_2 | improve-grunt |  
+| bip_39_word_dash_3 | improve-grunt-clever |  
+| bip_39_word_dash_4 | improve-grunt-clever-scale |  
+| bip_39_word_dash_5 | improve-grunt-clever-scale-flight |  
+| bip_39_word_dash_6 | improve-grunt-clever-scale-flight-start |  
+| bip_39_word_dash_7 | improve-grunt-clever-scale-flight-start-fold |  
+| bip_39_word_dash_8 | improve-grunt-clever-scale-flight-start-fold-omit |  
+| bip_39_word_dash_9 | improve-grunt-clever-scale-flight-start-fold-omit-snap |  
 | bip_39_word_new_br_1 | improve |  
 | bip_39_word_new_br_10 | improve<br>grunt<br>clever<br>scale<br>flight<br>start<br>fold<br>omit<br>snap<br>scan |  
 | bip_39_word_new_br_11 | improve<br>grunt<br>clever<br>scale<br>flight<br>start<br>fold<br>omit<br>snap<br>scan<br>guide |  
@@ -147,6 +159,18 @@ snap |
 | bip_39_word_space_7 | improve grunt clever scale flight start fold |  
 | bip_39_word_space_8 | improve grunt clever scale flight start fold omit |  
 | bip_39_word_space_9 | improve grunt clever scale flight start fold omit snap |  
+| bip_39_word_underscore_1 | improve |  
+| bip_39_word_underscore_10 | improve_grunt_clever_scale_flight_start_fold_omit_snap_scan |  
+| bip_39_word_underscore_11 | improve_grunt_clever_scale_flight_start_fold_omit_snap_scan_guide |  
+| bip_39_word_underscore_12 | improve_grunt_clever_scale_flight_start_fold_omit_snap_scan_guide_absent |  
+| bip_39_word_underscore_2 | improve_grunt |  
+| bip_39_word_underscore_3 | improve_grunt_clever |  
+| bip_39_word_underscore_4 | improve_grunt_clever_scale |  
+| bip_39_word_underscore_5 | improve_grunt_clever_scale_flight |  
+| bip_39_word_underscore_6 | improve_grunt_clever_scale_flight_start |  
+| bip_39_word_underscore_7 | improve_grunt_clever_scale_flight_start_fold |  
+| bip_39_word_underscore_8 | improve_grunt_clever_scale_flight_start_fold_omit |  
+| bip_39_word_underscore_9 | improve_grunt_clever_scale_flight_start_fold_omit_snap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

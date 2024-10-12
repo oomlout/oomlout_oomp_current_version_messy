@@ -1,3 +1,15 @@
+bip_39_word_dash_1: car
+bip_39_word_dash_10: car-comic-force-junior-galaxy-flat-alert-fault-tribe-area
+bip_39_word_dash_11: car-comic-force-junior-galaxy-flat-alert-fault-tribe-area-use
+bip_39_word_dash_12: car-comic-force-junior-galaxy-flat-alert-fault-tribe-area-use-anxiety
+bip_39_word_dash_2: car-comic
+bip_39_word_dash_3: car-comic-force
+bip_39_word_dash_4: car-comic-force-junior
+bip_39_word_dash_5: car-comic-force-junior-galaxy
+bip_39_word_dash_6: car-comic-force-junior-galaxy-flat
+bip_39_word_dash_7: car-comic-force-junior-galaxy-flat-alert
+bip_39_word_dash_8: car-comic-force-junior-galaxy-flat-alert-fault
+bip_39_word_dash_9: car-comic-force-junior-galaxy-flat-alert-fault-tribe
 bip_39_word_new_br_1: car
 bip_39_word_new_br_10: car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area
 bip_39_word_new_br_11: car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area<br>use
@@ -192,6 +204,18 @@ bip_39_word_space_6: car comic force junior galaxy flat
 bip_39_word_space_7: car comic force junior galaxy flat alert
 bip_39_word_space_8: car comic force junior galaxy flat alert fault
 bip_39_word_space_9: car comic force junior galaxy flat alert fault tribe
+bip_39_word_underscore_1: car
+bip_39_word_underscore_10: car_comic_force_junior_galaxy_flat_alert_fault_tribe_area
+bip_39_word_underscore_11: car_comic_force_junior_galaxy_flat_alert_fault_tribe_area_use
+bip_39_word_underscore_12: car_comic_force_junior_galaxy_flat_alert_fault_tribe_area_use_anxiety
+bip_39_word_underscore_2: car_comic
+bip_39_word_underscore_3: car_comic_force
+bip_39_word_underscore_4: car_comic_force_junior
+bip_39_word_underscore_5: car_comic_force_junior_galaxy
+bip_39_word_underscore_6: car_comic_force_junior_galaxy_flat
+bip_39_word_underscore_7: car_comic_force_junior_galaxy_flat_alert
+bip_39_word_underscore_8: car_comic_force_junior_galaxy_flat_alert_fault
+bip_39_word_underscore_9: car_comic_force_junior_galaxy_flat_alert_fault_tribe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

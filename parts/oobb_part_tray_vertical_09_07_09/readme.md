@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | insane |  
+| bip_39_word_dash_10 | insane-acquire-ankle-pair-spoil-skate-foam-link-outer-note |  
+| bip_39_word_dash_11 | insane-acquire-ankle-pair-spoil-skate-foam-link-outer-note-minimum |  
+| bip_39_word_dash_12 | insane-acquire-ankle-pair-spoil-skate-foam-link-outer-note-minimum-acquire |  
+| bip_39_word_dash_2 | insane-acquire |  
+| bip_39_word_dash_3 | insane-acquire-ankle |  
+| bip_39_word_dash_4 | insane-acquire-ankle-pair |  
+| bip_39_word_dash_5 | insane-acquire-ankle-pair-spoil |  
+| bip_39_word_dash_6 | insane-acquire-ankle-pair-spoil-skate |  
+| bip_39_word_dash_7 | insane-acquire-ankle-pair-spoil-skate-foam |  
+| bip_39_word_dash_8 | insane-acquire-ankle-pair-spoil-skate-foam-link |  
+| bip_39_word_dash_9 | insane-acquire-ankle-pair-spoil-skate-foam-link-outer |  
 | bip_39_word_new_br_1 | insane |  
 | bip_39_word_new_br_10 | insane<br>acquire<br>ankle<br>pair<br>spoil<br>skate<br>foam<br>link<br>outer<br>note |  
 | bip_39_word_new_br_11 | insane<br>acquire<br>ankle<br>pair<br>spoil<br>skate<br>foam<br>link<br>outer<br>note<br>minimum |  
@@ -147,6 +159,18 @@ outer |
 | bip_39_word_space_7 | insane acquire ankle pair spoil skate foam |  
 | bip_39_word_space_8 | insane acquire ankle pair spoil skate foam link |  
 | bip_39_word_space_9 | insane acquire ankle pair spoil skate foam link outer |  
+| bip_39_word_underscore_1 | insane |  
+| bip_39_word_underscore_10 | insane_acquire_ankle_pair_spoil_skate_foam_link_outer_note |  
+| bip_39_word_underscore_11 | insane_acquire_ankle_pair_spoil_skate_foam_link_outer_note_minimum |  
+| bip_39_word_underscore_12 | insane_acquire_ankle_pair_spoil_skate_foam_link_outer_note_minimum_acquire |  
+| bip_39_word_underscore_2 | insane_acquire |  
+| bip_39_word_underscore_3 | insane_acquire_ankle |  
+| bip_39_word_underscore_4 | insane_acquire_ankle_pair |  
+| bip_39_word_underscore_5 | insane_acquire_ankle_pair_spoil |  
+| bip_39_word_underscore_6 | insane_acquire_ankle_pair_spoil_skate |  
+| bip_39_word_underscore_7 | insane_acquire_ankle_pair_spoil_skate_foam |  
+| bip_39_word_underscore_8 | insane_acquire_ankle_pair_spoil_skate_foam_link |  
+| bip_39_word_underscore_9 | insane_acquire_ankle_pair_spoil_skate_foam_link_outer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

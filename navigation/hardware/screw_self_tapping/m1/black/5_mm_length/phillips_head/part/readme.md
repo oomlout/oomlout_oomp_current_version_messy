@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lumber |  
+| bip_39_word_dash_10 | lumber-three-lecture-major-damage-coffee-fan-crime-service-corn |  
+| bip_39_word_dash_11 | lumber-three-lecture-major-damage-coffee-fan-crime-service-corn-robot |  
+| bip_39_word_dash_12 | lumber-three-lecture-major-damage-coffee-fan-crime-service-corn-robot-amused |  
+| bip_39_word_dash_2 | lumber-three |  
+| bip_39_word_dash_3 | lumber-three-lecture |  
+| bip_39_word_dash_4 | lumber-three-lecture-major |  
+| bip_39_word_dash_5 | lumber-three-lecture-major-damage |  
+| bip_39_word_dash_6 | lumber-three-lecture-major-damage-coffee |  
+| bip_39_word_dash_7 | lumber-three-lecture-major-damage-coffee-fan |  
+| bip_39_word_dash_8 | lumber-three-lecture-major-damage-coffee-fan-crime |  
+| bip_39_word_dash_9 | lumber-three-lecture-major-damage-coffee-fan-crime-service |  
 | bip_39_word_new_br_1 | lumber |  
 | bip_39_word_new_br_10 | lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime<br>service<br>corn |  
 | bip_39_word_new_br_11 | lumber<br>three<br>lecture<br>major<br>damage<br>coffee<br>fan<br>crime<br>service<br>corn<br>robot |  
@@ -147,6 +159,18 @@ service |
 | bip_39_word_space_7 | lumber three lecture major damage coffee fan |  
 | bip_39_word_space_8 | lumber three lecture major damage coffee fan crime |  
 | bip_39_word_space_9 | lumber three lecture major damage coffee fan crime service |  
+| bip_39_word_underscore_1 | lumber |  
+| bip_39_word_underscore_10 | lumber_three_lecture_major_damage_coffee_fan_crime_service_corn |  
+| bip_39_word_underscore_11 | lumber_three_lecture_major_damage_coffee_fan_crime_service_corn_robot |  
+| bip_39_word_underscore_12 | lumber_three_lecture_major_damage_coffee_fan_crime_service_corn_robot_amused |  
+| bip_39_word_underscore_2 | lumber_three |  
+| bip_39_word_underscore_3 | lumber_three_lecture |  
+| bip_39_word_underscore_4 | lumber_three_lecture_major |  
+| bip_39_word_underscore_5 | lumber_three_lecture_major_damage |  
+| bip_39_word_underscore_6 | lumber_three_lecture_major_damage_coffee |  
+| bip_39_word_underscore_7 | lumber_three_lecture_major_damage_coffee_fan |  
+| bip_39_word_underscore_8 | lumber_three_lecture_major_damage_coffee_fan_crime |  
+| bip_39_word_underscore_9 | lumber_three_lecture_major_damage_coffee_fan_crime_service |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

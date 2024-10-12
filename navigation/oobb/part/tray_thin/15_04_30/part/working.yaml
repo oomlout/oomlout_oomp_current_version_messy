@@ -1,3 +1,15 @@
+bip_39_word_dash_1: junior
+bip_39_word_dash_10: junior-wage-shine-fee-endless-behind-silent-alpha-bind-busy
+bip_39_word_dash_11: junior-wage-shine-fee-endless-behind-silent-alpha-bind-busy-aspect
+bip_39_word_dash_12: junior-wage-shine-fee-endless-behind-silent-alpha-bind-busy-aspect-arrest
+bip_39_word_dash_2: junior-wage
+bip_39_word_dash_3: junior-wage-shine
+bip_39_word_dash_4: junior-wage-shine-fee
+bip_39_word_dash_5: junior-wage-shine-fee-endless
+bip_39_word_dash_6: junior-wage-shine-fee-endless-behind
+bip_39_word_dash_7: junior-wage-shine-fee-endless-behind-silent
+bip_39_word_dash_8: junior-wage-shine-fee-endless-behind-silent-alpha
+bip_39_word_dash_9: junior-wage-shine-fee-endless-behind-silent-alpha-bind
 bip_39_word_new_br_1: junior
 bip_39_word_new_br_10: junior<br>wage<br>shine<br>fee<br>endless<br>behind<br>silent<br>alpha<br>bind<br>busy
 bip_39_word_new_br_11: junior<br>wage<br>shine<br>fee<br>endless<br>behind<br>silent<br>alpha<br>bind<br>busy<br>aspect
@@ -193,6 +205,18 @@ bip_39_word_space_6: junior wage shine fee endless behind
 bip_39_word_space_7: junior wage shine fee endless behind silent
 bip_39_word_space_8: junior wage shine fee endless behind silent alpha
 bip_39_word_space_9: junior wage shine fee endless behind silent alpha bind
+bip_39_word_underscore_1: junior
+bip_39_word_underscore_10: junior_wage_shine_fee_endless_behind_silent_alpha_bind_busy
+bip_39_word_underscore_11: junior_wage_shine_fee_endless_behind_silent_alpha_bind_busy_aspect
+bip_39_word_underscore_12: junior_wage_shine_fee_endless_behind_silent_alpha_bind_busy_aspect_arrest
+bip_39_word_underscore_2: junior_wage
+bip_39_word_underscore_3: junior_wage_shine
+bip_39_word_underscore_4: junior_wage_shine_fee
+bip_39_word_underscore_5: junior_wage_shine_fee_endless
+bip_39_word_underscore_6: junior_wage_shine_fee_endless_behind
+bip_39_word_underscore_7: junior_wage_shine_fee_endless_behind_silent
+bip_39_word_underscore_8: junior_wage_shine_fee_endless_behind_silent_alpha
+bip_39_word_underscore_9: junior_wage_shine_fee_endless_behind_silent_alpha_bind
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

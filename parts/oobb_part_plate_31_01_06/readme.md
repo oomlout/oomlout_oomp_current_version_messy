@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | piece |  
+| bip_39_word_dash_10 | piece-entire-dry-absorb-reason-south-refuse-recipe-almost-always |  
+| bip_39_word_dash_11 | piece-entire-dry-absorb-reason-south-refuse-recipe-almost-always-busy |  
+| bip_39_word_dash_12 | piece-entire-dry-absorb-reason-south-refuse-recipe-almost-always-busy-achieve |  
+| bip_39_word_dash_2 | piece-entire |  
+| bip_39_word_dash_3 | piece-entire-dry |  
+| bip_39_word_dash_4 | piece-entire-dry-absorb |  
+| bip_39_word_dash_5 | piece-entire-dry-absorb-reason |  
+| bip_39_word_dash_6 | piece-entire-dry-absorb-reason-south |  
+| bip_39_word_dash_7 | piece-entire-dry-absorb-reason-south-refuse |  
+| bip_39_word_dash_8 | piece-entire-dry-absorb-reason-south-refuse-recipe |  
+| bip_39_word_dash_9 | piece-entire-dry-absorb-reason-south-refuse-recipe-almost |  
 | bip_39_word_new_br_1 | piece |  
 | bip_39_word_new_br_10 | piece<br>entire<br>dry<br>absorb<br>reason<br>south<br>refuse<br>recipe<br>almost<br>always |  
 | bip_39_word_new_br_11 | piece<br>entire<br>dry<br>absorb<br>reason<br>south<br>refuse<br>recipe<br>almost<br>always<br>busy |  
@@ -147,6 +159,18 @@ almost |
 | bip_39_word_space_7 | piece entire dry absorb reason south refuse |  
 | bip_39_word_space_8 | piece entire dry absorb reason south refuse recipe |  
 | bip_39_word_space_9 | piece entire dry absorb reason south refuse recipe almost |  
+| bip_39_word_underscore_1 | piece |  
+| bip_39_word_underscore_10 | piece_entire_dry_absorb_reason_south_refuse_recipe_almost_always |  
+| bip_39_word_underscore_11 | piece_entire_dry_absorb_reason_south_refuse_recipe_almost_always_busy |  
+| bip_39_word_underscore_12 | piece_entire_dry_absorb_reason_south_refuse_recipe_almost_always_busy_achieve |  
+| bip_39_word_underscore_2 | piece_entire |  
+| bip_39_word_underscore_3 | piece_entire_dry |  
+| bip_39_word_underscore_4 | piece_entire_dry_absorb |  
+| bip_39_word_underscore_5 | piece_entire_dry_absorb_reason |  
+| bip_39_word_underscore_6 | piece_entire_dry_absorb_reason_south |  
+| bip_39_word_underscore_7 | piece_entire_dry_absorb_reason_south_refuse |  
+| bip_39_word_underscore_8 | piece_entire_dry_absorb_reason_south_refuse_recipe |  
+| bip_39_word_underscore_9 | piece_entire_dry_absorb_reason_south_refuse_recipe_almost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

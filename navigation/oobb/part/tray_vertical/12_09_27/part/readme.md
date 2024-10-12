@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | across |  
+| bip_39_word_dash_10 | across-mushroom-taste-survey-input-creek-olympic-myself-slogan-pear |  
+| bip_39_word_dash_11 | across-mushroom-taste-survey-input-creek-olympic-myself-slogan-pear-clump |  
+| bip_39_word_dash_12 | across-mushroom-taste-survey-input-creek-olympic-myself-slogan-pear-clump-arctic |  
+| bip_39_word_dash_2 | across-mushroom |  
+| bip_39_word_dash_3 | across-mushroom-taste |  
+| bip_39_word_dash_4 | across-mushroom-taste-survey |  
+| bip_39_word_dash_5 | across-mushroom-taste-survey-input |  
+| bip_39_word_dash_6 | across-mushroom-taste-survey-input-creek |  
+| bip_39_word_dash_7 | across-mushroom-taste-survey-input-creek-olympic |  
+| bip_39_word_dash_8 | across-mushroom-taste-survey-input-creek-olympic-myself |  
+| bip_39_word_dash_9 | across-mushroom-taste-survey-input-creek-olympic-myself-slogan |  
 | bip_39_word_new_br_1 | across |  
 | bip_39_word_new_br_10 | across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear |  
 | bip_39_word_new_br_11 | across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear<br>clump |  
@@ -147,6 +159,18 @@ slogan |
 | bip_39_word_space_7 | across mushroom taste survey input creek olympic |  
 | bip_39_word_space_8 | across mushroom taste survey input creek olympic myself |  
 | bip_39_word_space_9 | across mushroom taste survey input creek olympic myself slogan |  
+| bip_39_word_underscore_1 | across |  
+| bip_39_word_underscore_10 | across_mushroom_taste_survey_input_creek_olympic_myself_slogan_pear |  
+| bip_39_word_underscore_11 | across_mushroom_taste_survey_input_creek_olympic_myself_slogan_pear_clump |  
+| bip_39_word_underscore_12 | across_mushroom_taste_survey_input_creek_olympic_myself_slogan_pear_clump_arctic |  
+| bip_39_word_underscore_2 | across_mushroom |  
+| bip_39_word_underscore_3 | across_mushroom_taste |  
+| bip_39_word_underscore_4 | across_mushroom_taste_survey |  
+| bip_39_word_underscore_5 | across_mushroom_taste_survey_input |  
+| bip_39_word_underscore_6 | across_mushroom_taste_survey_input_creek |  
+| bip_39_word_underscore_7 | across_mushroom_taste_survey_input_creek_olympic |  
+| bip_39_word_underscore_8 | across_mushroom_taste_survey_input_creek_olympic_myself |  
+| bip_39_word_underscore_9 | across_mushroom_taste_survey_input_creek_olympic_myself_slogan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

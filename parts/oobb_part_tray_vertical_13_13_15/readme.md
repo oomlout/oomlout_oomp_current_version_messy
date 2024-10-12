@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | motion |  
+| bip_39_word_dash_10 | motion-edge-planet-critic-visual-vague-divert-quote-order-legal |  
+| bip_39_word_dash_11 | motion-edge-planet-critic-visual-vague-divert-quote-order-legal-book |  
+| bip_39_word_dash_12 | motion-edge-planet-critic-visual-vague-divert-quote-order-legal-book-allow |  
+| bip_39_word_dash_2 | motion-edge |  
+| bip_39_word_dash_3 | motion-edge-planet |  
+| bip_39_word_dash_4 | motion-edge-planet-critic |  
+| bip_39_word_dash_5 | motion-edge-planet-critic-visual |  
+| bip_39_word_dash_6 | motion-edge-planet-critic-visual-vague |  
+| bip_39_word_dash_7 | motion-edge-planet-critic-visual-vague-divert |  
+| bip_39_word_dash_8 | motion-edge-planet-critic-visual-vague-divert-quote |  
+| bip_39_word_dash_9 | motion-edge-planet-critic-visual-vague-divert-quote-order |  
 | bip_39_word_new_br_1 | motion |  
 | bip_39_word_new_br_10 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal |  
 | bip_39_word_new_br_11 | motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal<br>book |  
@@ -147,6 +159,18 @@ order |
 | bip_39_word_space_7 | motion edge planet critic visual vague divert |  
 | bip_39_word_space_8 | motion edge planet critic visual vague divert quote |  
 | bip_39_word_space_9 | motion edge planet critic visual vague divert quote order |  
+| bip_39_word_underscore_1 | motion |  
+| bip_39_word_underscore_10 | motion_edge_planet_critic_visual_vague_divert_quote_order_legal |  
+| bip_39_word_underscore_11 | motion_edge_planet_critic_visual_vague_divert_quote_order_legal_book |  
+| bip_39_word_underscore_12 | motion_edge_planet_critic_visual_vague_divert_quote_order_legal_book_allow |  
+| bip_39_word_underscore_2 | motion_edge |  
+| bip_39_word_underscore_3 | motion_edge_planet |  
+| bip_39_word_underscore_4 | motion_edge_planet_critic |  
+| bip_39_word_underscore_5 | motion_edge_planet_critic_visual |  
+| bip_39_word_underscore_6 | motion_edge_planet_critic_visual_vague |  
+| bip_39_word_underscore_7 | motion_edge_planet_critic_visual_vague_divert |  
+| bip_39_word_underscore_8 | motion_edge_planet_critic_visual_vague_divert_quote |  
+| bip_39_word_underscore_9 | motion_edge_planet_critic_visual_vague_divert_quote_order |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

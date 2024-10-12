@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | message |  
+| bip_39_word_dash_10 | message-mushroom-quote-doll-undo-choose-room-castle-twenty-myth |  
+| bip_39_word_dash_11 | message-mushroom-quote-doll-undo-choose-room-castle-twenty-myth-diary |  
+| bip_39_word_dash_12 | message-mushroom-quote-doll-undo-choose-room-castle-twenty-myth-diary-amazing |  
+| bip_39_word_dash_2 | message-mushroom |  
+| bip_39_word_dash_3 | message-mushroom-quote |  
+| bip_39_word_dash_4 | message-mushroom-quote-doll |  
+| bip_39_word_dash_5 | message-mushroom-quote-doll-undo |  
+| bip_39_word_dash_6 | message-mushroom-quote-doll-undo-choose |  
+| bip_39_word_dash_7 | message-mushroom-quote-doll-undo-choose-room |  
+| bip_39_word_dash_8 | message-mushroom-quote-doll-undo-choose-room-castle |  
+| bip_39_word_dash_9 | message-mushroom-quote-doll-undo-choose-room-castle-twenty |  
 | bip_39_word_new_br_1 | message |  
 | bip_39_word_new_br_10 | message<br>mushroom<br>quote<br>doll<br>undo<br>choose<br>room<br>castle<br>twenty<br>myth |  
 | bip_39_word_new_br_11 | message<br>mushroom<br>quote<br>doll<br>undo<br>choose<br>room<br>castle<br>twenty<br>myth<br>diary |  
@@ -147,6 +159,18 @@ twenty |
 | bip_39_word_space_7 | message mushroom quote doll undo choose room |  
 | bip_39_word_space_8 | message mushroom quote doll undo choose room castle |  
 | bip_39_word_space_9 | message mushroom quote doll undo choose room castle twenty |  
+| bip_39_word_underscore_1 | message |  
+| bip_39_word_underscore_10 | message_mushroom_quote_doll_undo_choose_room_castle_twenty_myth |  
+| bip_39_word_underscore_11 | message_mushroom_quote_doll_undo_choose_room_castle_twenty_myth_diary |  
+| bip_39_word_underscore_12 | message_mushroom_quote_doll_undo_choose_room_castle_twenty_myth_diary_amazing |  
+| bip_39_word_underscore_2 | message_mushroom |  
+| bip_39_word_underscore_3 | message_mushroom_quote |  
+| bip_39_word_underscore_4 | message_mushroom_quote_doll |  
+| bip_39_word_underscore_5 | message_mushroom_quote_doll_undo |  
+| bip_39_word_underscore_6 | message_mushroom_quote_doll_undo_choose |  
+| bip_39_word_underscore_7 | message_mushroom_quote_doll_undo_choose_room |  
+| bip_39_word_underscore_8 | message_mushroom_quote_doll_undo_choose_room_castle |  
+| bip_39_word_underscore_9 | message_mushroom_quote_doll_undo_choose_room_castle_twenty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

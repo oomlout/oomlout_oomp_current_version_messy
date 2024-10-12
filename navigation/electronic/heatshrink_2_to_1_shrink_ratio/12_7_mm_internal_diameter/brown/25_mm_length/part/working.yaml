@@ -1,3 +1,15 @@
+bip_39_word_dash_1: omit
+bip_39_word_dash_10: omit-enrich-rhythm-survey-inform-until-poet-medal-language-tag
+bip_39_word_dash_11: omit-enrich-rhythm-survey-inform-until-poet-medal-language-tag-party
+bip_39_word_dash_12: omit-enrich-rhythm-survey-inform-until-poet-medal-language-tag-party-answer
+bip_39_word_dash_2: omit-enrich
+bip_39_word_dash_3: omit-enrich-rhythm
+bip_39_word_dash_4: omit-enrich-rhythm-survey
+bip_39_word_dash_5: omit-enrich-rhythm-survey-inform
+bip_39_word_dash_6: omit-enrich-rhythm-survey-inform-until
+bip_39_word_dash_7: omit-enrich-rhythm-survey-inform-until-poet
+bip_39_word_dash_8: omit-enrich-rhythm-survey-inform-until-poet-medal
+bip_39_word_dash_9: omit-enrich-rhythm-survey-inform-until-poet-medal-language
 bip_39_word_new_br_1: omit
 bip_39_word_new_br_10: omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal<br>language<br>tag
 bip_39_word_new_br_11: omit<br>enrich<br>rhythm<br>survey<br>inform<br>until<br>poet<br>medal<br>language<br>tag<br>party
@@ -193,6 +205,18 @@ bip_39_word_space_6: omit enrich rhythm survey inform until
 bip_39_word_space_7: omit enrich rhythm survey inform until poet
 bip_39_word_space_8: omit enrich rhythm survey inform until poet medal
 bip_39_word_space_9: omit enrich rhythm survey inform until poet medal language
+bip_39_word_underscore_1: omit
+bip_39_word_underscore_10: omit_enrich_rhythm_survey_inform_until_poet_medal_language_tag
+bip_39_word_underscore_11: omit_enrich_rhythm_survey_inform_until_poet_medal_language_tag_party
+bip_39_word_underscore_12: omit_enrich_rhythm_survey_inform_until_poet_medal_language_tag_party_answer
+bip_39_word_underscore_2: omit_enrich
+bip_39_word_underscore_3: omit_enrich_rhythm
+bip_39_word_underscore_4: omit_enrich_rhythm_survey
+bip_39_word_underscore_5: omit_enrich_rhythm_survey_inform
+bip_39_word_underscore_6: omit_enrich_rhythm_survey_inform_until
+bip_39_word_underscore_7: omit_enrich_rhythm_survey_inform_until_poet
+bip_39_word_underscore_8: omit_enrich_rhythm_survey_inform_until_poet_medal
+bip_39_word_underscore_9: omit_enrich_rhythm_survey_inform_until_poet_medal_language
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

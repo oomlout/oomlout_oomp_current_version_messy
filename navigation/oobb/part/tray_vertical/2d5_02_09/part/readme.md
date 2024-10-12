@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gospel |  
+| bip_39_word_dash_10 | gospel-autumn-blouse-reopen-surface-gravity-pill-mirror-ten-unfair |  
+| bip_39_word_dash_11 | gospel-autumn-blouse-reopen-surface-gravity-pill-mirror-ten-unfair-solve |  
+| bip_39_word_dash_12 | gospel-autumn-blouse-reopen-surface-gravity-pill-mirror-ten-unfair-solve-agree |  
+| bip_39_word_dash_2 | gospel-autumn |  
+| bip_39_word_dash_3 | gospel-autumn-blouse |  
+| bip_39_word_dash_4 | gospel-autumn-blouse-reopen |  
+| bip_39_word_dash_5 | gospel-autumn-blouse-reopen-surface |  
+| bip_39_word_dash_6 | gospel-autumn-blouse-reopen-surface-gravity |  
+| bip_39_word_dash_7 | gospel-autumn-blouse-reopen-surface-gravity-pill |  
+| bip_39_word_dash_8 | gospel-autumn-blouse-reopen-surface-gravity-pill-mirror |  
+| bip_39_word_dash_9 | gospel-autumn-blouse-reopen-surface-gravity-pill-mirror-ten |  
 | bip_39_word_new_br_1 | gospel |  
 | bip_39_word_new_br_10 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair |  
 | bip_39_word_new_br_11 | gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair<br>solve |  
@@ -147,6 +159,18 @@ ten |
 | bip_39_word_space_7 | gospel autumn blouse reopen surface gravity pill |  
 | bip_39_word_space_8 | gospel autumn blouse reopen surface gravity pill mirror |  
 | bip_39_word_space_9 | gospel autumn blouse reopen surface gravity pill mirror ten |  
+| bip_39_word_underscore_1 | gospel |  
+| bip_39_word_underscore_10 | gospel_autumn_blouse_reopen_surface_gravity_pill_mirror_ten_unfair |  
+| bip_39_word_underscore_11 | gospel_autumn_blouse_reopen_surface_gravity_pill_mirror_ten_unfair_solve |  
+| bip_39_word_underscore_12 | gospel_autumn_blouse_reopen_surface_gravity_pill_mirror_ten_unfair_solve_agree |  
+| bip_39_word_underscore_2 | gospel_autumn |  
+| bip_39_word_underscore_3 | gospel_autumn_blouse |  
+| bip_39_word_underscore_4 | gospel_autumn_blouse_reopen |  
+| bip_39_word_underscore_5 | gospel_autumn_blouse_reopen_surface |  
+| bip_39_word_underscore_6 | gospel_autumn_blouse_reopen_surface_gravity |  
+| bip_39_word_underscore_7 | gospel_autumn_blouse_reopen_surface_gravity_pill |  
+| bip_39_word_underscore_8 | gospel_autumn_blouse_reopen_surface_gravity_pill_mirror |  
+| bip_39_word_underscore_9 | gospel_autumn_blouse_reopen_surface_gravity_pill_mirror_ten |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

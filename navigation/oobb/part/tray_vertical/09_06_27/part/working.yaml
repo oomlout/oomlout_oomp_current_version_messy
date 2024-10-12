@@ -1,3 +1,15 @@
+bip_39_word_dash_1: place
+bip_39_word_dash_10: place-title-stadium-plunge-deposit-science-donor-chief-abandon-crystal
+bip_39_word_dash_11: place-title-stadium-plunge-deposit-science-donor-chief-abandon-crystal-mosquito
+bip_39_word_dash_12: place-title-stadium-plunge-deposit-science-donor-chief-abandon-crystal-mosquito-advice
+bip_39_word_dash_2: place-title
+bip_39_word_dash_3: place-title-stadium
+bip_39_word_dash_4: place-title-stadium-plunge
+bip_39_word_dash_5: place-title-stadium-plunge-deposit
+bip_39_word_dash_6: place-title-stadium-plunge-deposit-science
+bip_39_word_dash_7: place-title-stadium-plunge-deposit-science-donor
+bip_39_word_dash_8: place-title-stadium-plunge-deposit-science-donor-chief
+bip_39_word_dash_9: place-title-stadium-plunge-deposit-science-donor-chief-abandon
 bip_39_word_new_br_1: place
 bip_39_word_new_br_10: place<br>title<br>stadium<br>plunge<br>deposit<br>science<br>donor<br>chief<br>abandon<br>crystal
 bip_39_word_new_br_11: place<br>title<br>stadium<br>plunge<br>deposit<br>science<br>donor<br>chief<br>abandon<br>crystal<br>mosquito
@@ -194,6 +206,18 @@ bip_39_word_space_6: place title stadium plunge deposit science
 bip_39_word_space_7: place title stadium plunge deposit science donor
 bip_39_word_space_8: place title stadium plunge deposit science donor chief
 bip_39_word_space_9: place title stadium plunge deposit science donor chief abandon
+bip_39_word_underscore_1: place
+bip_39_word_underscore_10: place_title_stadium_plunge_deposit_science_donor_chief_abandon_crystal
+bip_39_word_underscore_11: place_title_stadium_plunge_deposit_science_donor_chief_abandon_crystal_mosquito
+bip_39_word_underscore_12: place_title_stadium_plunge_deposit_science_donor_chief_abandon_crystal_mosquito_advice
+bip_39_word_underscore_2: place_title
+bip_39_word_underscore_3: place_title_stadium
+bip_39_word_underscore_4: place_title_stadium_plunge
+bip_39_word_underscore_5: place_title_stadium_plunge_deposit
+bip_39_word_underscore_6: place_title_stadium_plunge_deposit_science
+bip_39_word_underscore_7: place_title_stadium_plunge_deposit_science_donor
+bip_39_word_underscore_8: place_title_stadium_plunge_deposit_science_donor_chief
+bip_39_word_underscore_9: place_title_stadium_plunge_deposit_science_donor_chief_abandon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: mushroom
+bip_39_word_dash_10: mushroom-cool-gym-right-calm-verb-life-air-wealth-credit
+bip_39_word_dash_11: mushroom-cool-gym-right-calm-verb-life-air-wealth-credit-large
+bip_39_word_dash_12: mushroom-cool-gym-right-calm-verb-life-air-wealth-credit-large-amazing
+bip_39_word_dash_2: mushroom-cool
+bip_39_word_dash_3: mushroom-cool-gym
+bip_39_word_dash_4: mushroom-cool-gym-right
+bip_39_word_dash_5: mushroom-cool-gym-right-calm
+bip_39_word_dash_6: mushroom-cool-gym-right-calm-verb
+bip_39_word_dash_7: mushroom-cool-gym-right-calm-verb-life
+bip_39_word_dash_8: mushroom-cool-gym-right-calm-verb-life-air
+bip_39_word_dash_9: mushroom-cool-gym-right-calm-verb-life-air-wealth
 bip_39_word_new_br_1: mushroom
 bip_39_word_new_br_10: mushroom<br>cool<br>gym<br>right<br>calm<br>verb<br>life<br>air<br>wealth<br>credit
 bip_39_word_new_br_11: mushroom<br>cool<br>gym<br>right<br>calm<br>verb<br>life<br>air<br>wealth<br>credit<br>large
@@ -192,6 +204,18 @@ bip_39_word_space_6: mushroom cool gym right calm verb
 bip_39_word_space_7: mushroom cool gym right calm verb life
 bip_39_word_space_8: mushroom cool gym right calm verb life air
 bip_39_word_space_9: mushroom cool gym right calm verb life air wealth
+bip_39_word_underscore_1: mushroom
+bip_39_word_underscore_10: mushroom_cool_gym_right_calm_verb_life_air_wealth_credit
+bip_39_word_underscore_11: mushroom_cool_gym_right_calm_verb_life_air_wealth_credit_large
+bip_39_word_underscore_12: mushroom_cool_gym_right_calm_verb_life_air_wealth_credit_large_amazing
+bip_39_word_underscore_2: mushroom_cool
+bip_39_word_underscore_3: mushroom_cool_gym
+bip_39_word_underscore_4: mushroom_cool_gym_right
+bip_39_word_underscore_5: mushroom_cool_gym_right_calm
+bip_39_word_underscore_6: mushroom_cool_gym_right_calm_verb
+bip_39_word_underscore_7: mushroom_cool_gym_right_calm_verb_life
+bip_39_word_underscore_8: mushroom_cool_gym_right_calm_verb_life_air
+bip_39_word_underscore_9: mushroom_cool_gym_right_calm_verb_life_air_wealth
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

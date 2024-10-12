@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | color |  
+| bip_39_word_dash_10 | color-shrimp-depth-nice-hedgehog-clean-piece-solar-tired-pact |  
+| bip_39_word_dash_11 | color-shrimp-depth-nice-hedgehog-clean-piece-solar-tired-pact-fit |  
+| bip_39_word_dash_12 | color-shrimp-depth-nice-hedgehog-clean-piece-solar-tired-pact-fit-able |  
+| bip_39_word_dash_2 | color-shrimp |  
+| bip_39_word_dash_3 | color-shrimp-depth |  
+| bip_39_word_dash_4 | color-shrimp-depth-nice |  
+| bip_39_word_dash_5 | color-shrimp-depth-nice-hedgehog |  
+| bip_39_word_dash_6 | color-shrimp-depth-nice-hedgehog-clean |  
+| bip_39_word_dash_7 | color-shrimp-depth-nice-hedgehog-clean-piece |  
+| bip_39_word_dash_8 | color-shrimp-depth-nice-hedgehog-clean-piece-solar |  
+| bip_39_word_dash_9 | color-shrimp-depth-nice-hedgehog-clean-piece-solar-tired |  
 | bip_39_word_new_br_1 | color |  
 | bip_39_word_new_br_10 | color<br>shrimp<br>depth<br>nice<br>hedgehog<br>clean<br>piece<br>solar<br>tired<br>pact |  
 | bip_39_word_new_br_11 | color<br>shrimp<br>depth<br>nice<br>hedgehog<br>clean<br>piece<br>solar<br>tired<br>pact<br>fit |  
@@ -147,6 +159,18 @@ tired |
 | bip_39_word_space_7 | color shrimp depth nice hedgehog clean piece |  
 | bip_39_word_space_8 | color shrimp depth nice hedgehog clean piece solar |  
 | bip_39_word_space_9 | color shrimp depth nice hedgehog clean piece solar tired |  
+| bip_39_word_underscore_1 | color |  
+| bip_39_word_underscore_10 | color_shrimp_depth_nice_hedgehog_clean_piece_solar_tired_pact |  
+| bip_39_word_underscore_11 | color_shrimp_depth_nice_hedgehog_clean_piece_solar_tired_pact_fit |  
+| bip_39_word_underscore_12 | color_shrimp_depth_nice_hedgehog_clean_piece_solar_tired_pact_fit_able |  
+| bip_39_word_underscore_2 | color_shrimp |  
+| bip_39_word_underscore_3 | color_shrimp_depth |  
+| bip_39_word_underscore_4 | color_shrimp_depth_nice |  
+| bip_39_word_underscore_5 | color_shrimp_depth_nice_hedgehog |  
+| bip_39_word_underscore_6 | color_shrimp_depth_nice_hedgehog_clean |  
+| bip_39_word_underscore_7 | color_shrimp_depth_nice_hedgehog_clean_piece |  
+| bip_39_word_underscore_8 | color_shrimp_depth_nice_hedgehog_clean_piece_solar |  
+| bip_39_word_underscore_9 | color_shrimp_depth_nice_hedgehog_clean_piece_solar_tired |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

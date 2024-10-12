@@ -1,3 +1,15 @@
+bip_39_word_dash_1: unhappy
+bip_39_word_dash_10: unhappy-health-cruise-health-orange-turn-coconut-property-antenna-cargo
+bip_39_word_dash_11: unhappy-health-cruise-health-orange-turn-coconut-property-antenna-cargo-common
+bip_39_word_dash_12: unhappy-health-cruise-health-orange-turn-coconut-property-antenna-cargo-common-arrive
+bip_39_word_dash_2: unhappy-health
+bip_39_word_dash_3: unhappy-health-cruise
+bip_39_word_dash_4: unhappy-health-cruise-health
+bip_39_word_dash_5: unhappy-health-cruise-health-orange
+bip_39_word_dash_6: unhappy-health-cruise-health-orange-turn
+bip_39_word_dash_7: unhappy-health-cruise-health-orange-turn-coconut
+bip_39_word_dash_8: unhappy-health-cruise-health-orange-turn-coconut-property
+bip_39_word_dash_9: unhappy-health-cruise-health-orange-turn-coconut-property-antenna
 bip_39_word_new_br_1: unhappy
 bip_39_word_new_br_10: unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property<br>antenna<br>cargo
 bip_39_word_new_br_11: unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property<br>antenna<br>cargo<br>common
@@ -194,6 +206,18 @@ bip_39_word_space_6: unhappy health cruise health orange turn
 bip_39_word_space_7: unhappy health cruise health orange turn coconut
 bip_39_word_space_8: unhappy health cruise health orange turn coconut property
 bip_39_word_space_9: unhappy health cruise health orange turn coconut property antenna
+bip_39_word_underscore_1: unhappy
+bip_39_word_underscore_10: unhappy_health_cruise_health_orange_turn_coconut_property_antenna_cargo
+bip_39_word_underscore_11: unhappy_health_cruise_health_orange_turn_coconut_property_antenna_cargo_common
+bip_39_word_underscore_12: unhappy_health_cruise_health_orange_turn_coconut_property_antenna_cargo_common_arrive
+bip_39_word_underscore_2: unhappy_health
+bip_39_word_underscore_3: unhappy_health_cruise
+bip_39_word_underscore_4: unhappy_health_cruise_health
+bip_39_word_underscore_5: unhappy_health_cruise_health_orange
+bip_39_word_underscore_6: unhappy_health_cruise_health_orange_turn
+bip_39_word_underscore_7: unhappy_health_cruise_health_orange_turn_coconut
+bip_39_word_underscore_8: unhappy_health_cruise_health_orange_turn_coconut_property
+bip_39_word_underscore_9: unhappy_health_cruise_health_orange_turn_coconut_property_antenna
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

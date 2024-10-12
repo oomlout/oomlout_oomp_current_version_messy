@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tip
+bip_39_word_dash_10: tip-good-tongue-history-fiber-defy-debate-antique-upon-often
+bip_39_word_dash_11: tip-good-tongue-history-fiber-defy-debate-antique-upon-often-canoe
+bip_39_word_dash_12: tip-good-tongue-history-fiber-defy-debate-antique-upon-often-canoe-among
+bip_39_word_dash_2: tip-good
+bip_39_word_dash_3: tip-good-tongue
+bip_39_word_dash_4: tip-good-tongue-history
+bip_39_word_dash_5: tip-good-tongue-history-fiber
+bip_39_word_dash_6: tip-good-tongue-history-fiber-defy
+bip_39_word_dash_7: tip-good-tongue-history-fiber-defy-debate
+bip_39_word_dash_8: tip-good-tongue-history-fiber-defy-debate-antique
+bip_39_word_dash_9: tip-good-tongue-history-fiber-defy-debate-antique-upon
 bip_39_word_new_br_1: tip
 bip_39_word_new_br_10: tip<br>good<br>tongue<br>history<br>fiber<br>defy<br>debate<br>antique<br>upon<br>often
 bip_39_word_new_br_11: tip<br>good<br>tongue<br>history<br>fiber<br>defy<br>debate<br>antique<br>upon<br>often<br>canoe
@@ -193,6 +205,18 @@ bip_39_word_space_6: tip good tongue history fiber defy
 bip_39_word_space_7: tip good tongue history fiber defy debate
 bip_39_word_space_8: tip good tongue history fiber defy debate antique
 bip_39_word_space_9: tip good tongue history fiber defy debate antique upon
+bip_39_word_underscore_1: tip
+bip_39_word_underscore_10: tip_good_tongue_history_fiber_defy_debate_antique_upon_often
+bip_39_word_underscore_11: tip_good_tongue_history_fiber_defy_debate_antique_upon_often_canoe
+bip_39_word_underscore_12: tip_good_tongue_history_fiber_defy_debate_antique_upon_often_canoe_among
+bip_39_word_underscore_2: tip_good
+bip_39_word_underscore_3: tip_good_tongue
+bip_39_word_underscore_4: tip_good_tongue_history
+bip_39_word_underscore_5: tip_good_tongue_history_fiber
+bip_39_word_underscore_6: tip_good_tongue_history_fiber_defy
+bip_39_word_underscore_7: tip_good_tongue_history_fiber_defy_debate
+bip_39_word_underscore_8: tip_good_tongue_history_fiber_defy_debate_antique
+bip_39_word_underscore_9: tip_good_tongue_history_fiber_defy_debate_antique_upon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

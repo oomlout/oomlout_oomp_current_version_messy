@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | conduct |  
+| bip_39_word_dash_10 | conduct-turn-prepare-unfair-churn-yellow-upper-canvas-aware-mango |  
+| bip_39_word_dash_11 | conduct-turn-prepare-unfair-churn-yellow-upper-canvas-aware-mango-engage |  
+| bip_39_word_dash_12 | conduct-turn-prepare-unfair-churn-yellow-upper-canvas-aware-mango-engage-ability |  
+| bip_39_word_dash_2 | conduct-turn |  
+| bip_39_word_dash_3 | conduct-turn-prepare |  
+| bip_39_word_dash_4 | conduct-turn-prepare-unfair |  
+| bip_39_word_dash_5 | conduct-turn-prepare-unfair-churn |  
+| bip_39_word_dash_6 | conduct-turn-prepare-unfair-churn-yellow |  
+| bip_39_word_dash_7 | conduct-turn-prepare-unfair-churn-yellow-upper |  
+| bip_39_word_dash_8 | conduct-turn-prepare-unfair-churn-yellow-upper-canvas |  
+| bip_39_word_dash_9 | conduct-turn-prepare-unfair-churn-yellow-upper-canvas-aware |  
 | bip_39_word_new_br_1 | conduct |  
 | bip_39_word_new_br_10 | conduct<br>turn<br>prepare<br>unfair<br>churn<br>yellow<br>upper<br>canvas<br>aware<br>mango |  
 | bip_39_word_new_br_11 | conduct<br>turn<br>prepare<br>unfair<br>churn<br>yellow<br>upper<br>canvas<br>aware<br>mango<br>engage |  
@@ -147,6 +159,18 @@ aware |
 | bip_39_word_space_7 | conduct turn prepare unfair churn yellow upper |  
 | bip_39_word_space_8 | conduct turn prepare unfair churn yellow upper canvas |  
 | bip_39_word_space_9 | conduct turn prepare unfair churn yellow upper canvas aware |  
+| bip_39_word_underscore_1 | conduct |  
+| bip_39_word_underscore_10 | conduct_turn_prepare_unfair_churn_yellow_upper_canvas_aware_mango |  
+| bip_39_word_underscore_11 | conduct_turn_prepare_unfair_churn_yellow_upper_canvas_aware_mango_engage |  
+| bip_39_word_underscore_12 | conduct_turn_prepare_unfair_churn_yellow_upper_canvas_aware_mango_engage_ability |  
+| bip_39_word_underscore_2 | conduct_turn |  
+| bip_39_word_underscore_3 | conduct_turn_prepare |  
+| bip_39_word_underscore_4 | conduct_turn_prepare_unfair |  
+| bip_39_word_underscore_5 | conduct_turn_prepare_unfair_churn |  
+| bip_39_word_underscore_6 | conduct_turn_prepare_unfair_churn_yellow |  
+| bip_39_word_underscore_7 | conduct_turn_prepare_unfair_churn_yellow_upper |  
+| bip_39_word_underscore_8 | conduct_turn_prepare_unfair_churn_yellow_upper_canvas |  
+| bip_39_word_underscore_9 | conduct_turn_prepare_unfair_churn_yellow_upper_canvas_aware |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

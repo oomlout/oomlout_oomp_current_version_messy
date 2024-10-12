@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | uphold |  
+| bip_39_word_dash_10 | uphold-minimum-lecture-job-become-avoid-smoke-fortune-holiday-enter |  
+| bip_39_word_dash_11 | uphold-minimum-lecture-job-become-avoid-smoke-fortune-holiday-enter-obey |  
+| bip_39_word_dash_12 | uphold-minimum-lecture-job-become-avoid-smoke-fortune-holiday-enter-obey-athlete |  
+| bip_39_word_dash_2 | uphold-minimum |  
+| bip_39_word_dash_3 | uphold-minimum-lecture |  
+| bip_39_word_dash_4 | uphold-minimum-lecture-job |  
+| bip_39_word_dash_5 | uphold-minimum-lecture-job-become |  
+| bip_39_word_dash_6 | uphold-minimum-lecture-job-become-avoid |  
+| bip_39_word_dash_7 | uphold-minimum-lecture-job-become-avoid-smoke |  
+| bip_39_word_dash_8 | uphold-minimum-lecture-job-become-avoid-smoke-fortune |  
+| bip_39_word_dash_9 | uphold-minimum-lecture-job-become-avoid-smoke-fortune-holiday |  
 | bip_39_word_new_br_1 | uphold |  
 | bip_39_word_new_br_10 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune<br>holiday<br>enter |  
 | bip_39_word_new_br_11 | uphold<br>minimum<br>lecture<br>job<br>become<br>avoid<br>smoke<br>fortune<br>holiday<br>enter<br>obey |  
@@ -147,6 +159,18 @@ holiday |
 | bip_39_word_space_7 | uphold minimum lecture job become avoid smoke |  
 | bip_39_word_space_8 | uphold minimum lecture job become avoid smoke fortune |  
 | bip_39_word_space_9 | uphold minimum lecture job become avoid smoke fortune holiday |  
+| bip_39_word_underscore_1 | uphold |  
+| bip_39_word_underscore_10 | uphold_minimum_lecture_job_become_avoid_smoke_fortune_holiday_enter |  
+| bip_39_word_underscore_11 | uphold_minimum_lecture_job_become_avoid_smoke_fortune_holiday_enter_obey |  
+| bip_39_word_underscore_12 | uphold_minimum_lecture_job_become_avoid_smoke_fortune_holiday_enter_obey_athlete |  
+| bip_39_word_underscore_2 | uphold_minimum |  
+| bip_39_word_underscore_3 | uphold_minimum_lecture |  
+| bip_39_word_underscore_4 | uphold_minimum_lecture_job |  
+| bip_39_word_underscore_5 | uphold_minimum_lecture_job_become |  
+| bip_39_word_underscore_6 | uphold_minimum_lecture_job_become_avoid |  
+| bip_39_word_underscore_7 | uphold_minimum_lecture_job_become_avoid_smoke |  
+| bip_39_word_underscore_8 | uphold_minimum_lecture_job_become_avoid_smoke_fortune |  
+| bip_39_word_underscore_9 | uphold_minimum_lecture_job_become_avoid_smoke_fortune_holiday |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

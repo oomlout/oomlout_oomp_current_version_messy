@@ -1,3 +1,15 @@
+bip_39_word_dash_1: shuffle
+bip_39_word_dash_10: shuffle-jar-carry-note-toss-jealous-spend-easy-improve-world
+bip_39_word_dash_11: shuffle-jar-carry-note-toss-jealous-spend-easy-improve-world-club
+bip_39_word_dash_12: shuffle-jar-carry-note-toss-jealous-spend-easy-improve-world-club-admit
+bip_39_word_dash_2: shuffle-jar
+bip_39_word_dash_3: shuffle-jar-carry
+bip_39_word_dash_4: shuffle-jar-carry-note
+bip_39_word_dash_5: shuffle-jar-carry-note-toss
+bip_39_word_dash_6: shuffle-jar-carry-note-toss-jealous
+bip_39_word_dash_7: shuffle-jar-carry-note-toss-jealous-spend
+bip_39_word_dash_8: shuffle-jar-carry-note-toss-jealous-spend-easy
+bip_39_word_dash_9: shuffle-jar-carry-note-toss-jealous-spend-easy-improve
 bip_39_word_new_br_1: shuffle
 bip_39_word_new_br_10: shuffle<br>jar<br>carry<br>note<br>toss<br>jealous<br>spend<br>easy<br>improve<br>world
 bip_39_word_new_br_11: shuffle<br>jar<br>carry<br>note<br>toss<br>jealous<br>spend<br>easy<br>improve<br>world<br>club
@@ -193,6 +205,18 @@ bip_39_word_space_6: shuffle jar carry note toss jealous
 bip_39_word_space_7: shuffle jar carry note toss jealous spend
 bip_39_word_space_8: shuffle jar carry note toss jealous spend easy
 bip_39_word_space_9: shuffle jar carry note toss jealous spend easy improve
+bip_39_word_underscore_1: shuffle
+bip_39_word_underscore_10: shuffle_jar_carry_note_toss_jealous_spend_easy_improve_world
+bip_39_word_underscore_11: shuffle_jar_carry_note_toss_jealous_spend_easy_improve_world_club
+bip_39_word_underscore_12: shuffle_jar_carry_note_toss_jealous_spend_easy_improve_world_club_admit
+bip_39_word_underscore_2: shuffle_jar
+bip_39_word_underscore_3: shuffle_jar_carry
+bip_39_word_underscore_4: shuffle_jar_carry_note
+bip_39_word_underscore_5: shuffle_jar_carry_note_toss
+bip_39_word_underscore_6: shuffle_jar_carry_note_toss_jealous
+bip_39_word_underscore_7: shuffle_jar_carry_note_toss_jealous_spend
+bip_39_word_underscore_8: shuffle_jar_carry_note_toss_jealous_spend_easy
+bip_39_word_underscore_9: shuffle_jar_carry_note_toss_jealous_spend_easy_improve
 classification: food
 classification_capital: Food
 classification_first_letter: f

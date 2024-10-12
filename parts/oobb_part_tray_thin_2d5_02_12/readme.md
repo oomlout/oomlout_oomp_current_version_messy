@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brain |  
+| bip_39_word_dash_10 | brain-viable-hair-ivory-toilet-cargo-alcohol-switch-recycle-amused |  
+| bip_39_word_dash_11 | brain-viable-hair-ivory-toilet-cargo-alcohol-switch-recycle-amused-ladder |  
+| bip_39_word_dash_12 | brain-viable-hair-ivory-toilet-cargo-alcohol-switch-recycle-amused-ladder-arctic |  
+| bip_39_word_dash_2 | brain-viable |  
+| bip_39_word_dash_3 | brain-viable-hair |  
+| bip_39_word_dash_4 | brain-viable-hair-ivory |  
+| bip_39_word_dash_5 | brain-viable-hair-ivory-toilet |  
+| bip_39_word_dash_6 | brain-viable-hair-ivory-toilet-cargo |  
+| bip_39_word_dash_7 | brain-viable-hair-ivory-toilet-cargo-alcohol |  
+| bip_39_word_dash_8 | brain-viable-hair-ivory-toilet-cargo-alcohol-switch |  
+| bip_39_word_dash_9 | brain-viable-hair-ivory-toilet-cargo-alcohol-switch-recycle |  
 | bip_39_word_new_br_1 | brain |  
 | bip_39_word_new_br_10 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused |  
 | bip_39_word_new_br_11 | brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused<br>ladder |  
@@ -147,6 +159,18 @@ recycle |
 | bip_39_word_space_7 | brain viable hair ivory toilet cargo alcohol |  
 | bip_39_word_space_8 | brain viable hair ivory toilet cargo alcohol switch |  
 | bip_39_word_space_9 | brain viable hair ivory toilet cargo alcohol switch recycle |  
+| bip_39_word_underscore_1 | brain |  
+| bip_39_word_underscore_10 | brain_viable_hair_ivory_toilet_cargo_alcohol_switch_recycle_amused |  
+| bip_39_word_underscore_11 | brain_viable_hair_ivory_toilet_cargo_alcohol_switch_recycle_amused_ladder |  
+| bip_39_word_underscore_12 | brain_viable_hair_ivory_toilet_cargo_alcohol_switch_recycle_amused_ladder_arctic |  
+| bip_39_word_underscore_2 | brain_viable |  
+| bip_39_word_underscore_3 | brain_viable_hair |  
+| bip_39_word_underscore_4 | brain_viable_hair_ivory |  
+| bip_39_word_underscore_5 | brain_viable_hair_ivory_toilet |  
+| bip_39_word_underscore_6 | brain_viable_hair_ivory_toilet_cargo |  
+| bip_39_word_underscore_7 | brain_viable_hair_ivory_toilet_cargo_alcohol |  
+| bip_39_word_underscore_8 | brain_viable_hair_ivory_toilet_cargo_alcohol_switch |  
+| bip_39_word_underscore_9 | brain_viable_hair_ivory_toilet_cargo_alcohol_switch_recycle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

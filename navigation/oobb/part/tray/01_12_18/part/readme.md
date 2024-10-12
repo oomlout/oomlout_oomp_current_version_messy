@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | service |  
+| bip_39_word_dash_10 | service-session-cry-lunch-conduct-glow-humble-lizard-knock-visit |  
+| bip_39_word_dash_11 | service-session-cry-lunch-conduct-glow-humble-lizard-knock-visit-snap |  
+| bip_39_word_dash_12 | service-session-cry-lunch-conduct-glow-humble-lizard-knock-visit-snap-assist |  
+| bip_39_word_dash_2 | service-session |  
+| bip_39_word_dash_3 | service-session-cry |  
+| bip_39_word_dash_4 | service-session-cry-lunch |  
+| bip_39_word_dash_5 | service-session-cry-lunch-conduct |  
+| bip_39_word_dash_6 | service-session-cry-lunch-conduct-glow |  
+| bip_39_word_dash_7 | service-session-cry-lunch-conduct-glow-humble |  
+| bip_39_word_dash_8 | service-session-cry-lunch-conduct-glow-humble-lizard |  
+| bip_39_word_dash_9 | service-session-cry-lunch-conduct-glow-humble-lizard-knock |  
 | bip_39_word_new_br_1 | service |  
 | bip_39_word_new_br_10 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit |  
 | bip_39_word_new_br_11 | service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit<br>snap |  
@@ -147,6 +159,18 @@ knock |
 | bip_39_word_space_7 | service session cry lunch conduct glow humble |  
 | bip_39_word_space_8 | service session cry lunch conduct glow humble lizard |  
 | bip_39_word_space_9 | service session cry lunch conduct glow humble lizard knock |  
+| bip_39_word_underscore_1 | service |  
+| bip_39_word_underscore_10 | service_session_cry_lunch_conduct_glow_humble_lizard_knock_visit |  
+| bip_39_word_underscore_11 | service_session_cry_lunch_conduct_glow_humble_lizard_knock_visit_snap |  
+| bip_39_word_underscore_12 | service_session_cry_lunch_conduct_glow_humble_lizard_knock_visit_snap_assist |  
+| bip_39_word_underscore_2 | service_session |  
+| bip_39_word_underscore_3 | service_session_cry |  
+| bip_39_word_underscore_4 | service_session_cry_lunch |  
+| bip_39_word_underscore_5 | service_session_cry_lunch_conduct |  
+| bip_39_word_underscore_6 | service_session_cry_lunch_conduct_glow |  
+| bip_39_word_underscore_7 | service_session_cry_lunch_conduct_glow_humble |  
+| bip_39_word_underscore_8 | service_session_cry_lunch_conduct_glow_humble_lizard |  
+| bip_39_word_underscore_9 | service_session_cry_lunch_conduct_glow_humble_lizard_knock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

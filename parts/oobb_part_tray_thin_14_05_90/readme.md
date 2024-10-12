@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | feature |  
+| bip_39_word_dash_10 | feature-fork-wing-banner-nothing-village-thrive-reform-derive-toe |  
+| bip_39_word_dash_11 | feature-fork-wing-banner-nothing-village-thrive-reform-derive-toe-derive |  
+| bip_39_word_dash_12 | feature-fork-wing-banner-nothing-village-thrive-reform-derive-toe-derive-adjust |  
+| bip_39_word_dash_2 | feature-fork |  
+| bip_39_word_dash_3 | feature-fork-wing |  
+| bip_39_word_dash_4 | feature-fork-wing-banner |  
+| bip_39_word_dash_5 | feature-fork-wing-banner-nothing |  
+| bip_39_word_dash_6 | feature-fork-wing-banner-nothing-village |  
+| bip_39_word_dash_7 | feature-fork-wing-banner-nothing-village-thrive |  
+| bip_39_word_dash_8 | feature-fork-wing-banner-nothing-village-thrive-reform |  
+| bip_39_word_dash_9 | feature-fork-wing-banner-nothing-village-thrive-reform-derive |  
 | bip_39_word_new_br_1 | feature |  
 | bip_39_word_new_br_10 | feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform<br>derive<br>toe |  
 | bip_39_word_new_br_11 | feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform<br>derive<br>toe<br>derive |  
@@ -147,6 +159,18 @@ derive |
 | bip_39_word_space_7 | feature fork wing banner nothing village thrive |  
 | bip_39_word_space_8 | feature fork wing banner nothing village thrive reform |  
 | bip_39_word_space_9 | feature fork wing banner nothing village thrive reform derive |  
+| bip_39_word_underscore_1 | feature |  
+| bip_39_word_underscore_10 | feature_fork_wing_banner_nothing_village_thrive_reform_derive_toe |  
+| bip_39_word_underscore_11 | feature_fork_wing_banner_nothing_village_thrive_reform_derive_toe_derive |  
+| bip_39_word_underscore_12 | feature_fork_wing_banner_nothing_village_thrive_reform_derive_toe_derive_adjust |  
+| bip_39_word_underscore_2 | feature_fork |  
+| bip_39_word_underscore_3 | feature_fork_wing |  
+| bip_39_word_underscore_4 | feature_fork_wing_banner |  
+| bip_39_word_underscore_5 | feature_fork_wing_banner_nothing |  
+| bip_39_word_underscore_6 | feature_fork_wing_banner_nothing_village |  
+| bip_39_word_underscore_7 | feature_fork_wing_banner_nothing_village_thrive |  
+| bip_39_word_underscore_8 | feature_fork_wing_banner_nothing_village_thrive_reform |  
+| bip_39_word_underscore_9 | feature_fork_wing_banner_nothing_village_thrive_reform_derive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

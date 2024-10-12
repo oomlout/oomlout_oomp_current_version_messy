@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | peace |  
+| bip_39_word_dash_10 | peace-mosquito-gallery-review-artefact-fame-salmon-alarm-tag-dutch |  
+| bip_39_word_dash_11 | peace-mosquito-gallery-review-artefact-fame-salmon-alarm-tag-dutch-roof |  
+| bip_39_word_dash_12 | peace-mosquito-gallery-review-artefact-fame-salmon-alarm-tag-dutch-roof-ankle |  
+| bip_39_word_dash_2 | peace-mosquito |  
+| bip_39_word_dash_3 | peace-mosquito-gallery |  
+| bip_39_word_dash_4 | peace-mosquito-gallery-review |  
+| bip_39_word_dash_5 | peace-mosquito-gallery-review-artefact |  
+| bip_39_word_dash_6 | peace-mosquito-gallery-review-artefact-fame |  
+| bip_39_word_dash_7 | peace-mosquito-gallery-review-artefact-fame-salmon |  
+| bip_39_word_dash_8 | peace-mosquito-gallery-review-artefact-fame-salmon-alarm |  
+| bip_39_word_dash_9 | peace-mosquito-gallery-review-artefact-fame-salmon-alarm-tag |  
 | bip_39_word_new_br_1 | peace |  
 | bip_39_word_new_br_10 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm<br>tag<br>dutch |  
 | bip_39_word_new_br_11 | peace<br>mosquito<br>gallery<br>review<br>artefact<br>fame<br>salmon<br>alarm<br>tag<br>dutch<br>roof |  
@@ -147,6 +159,18 @@ tag |
 | bip_39_word_space_7 | peace mosquito gallery review artefact fame salmon |  
 | bip_39_word_space_8 | peace mosquito gallery review artefact fame salmon alarm |  
 | bip_39_word_space_9 | peace mosquito gallery review artefact fame salmon alarm tag |  
+| bip_39_word_underscore_1 | peace |  
+| bip_39_word_underscore_10 | peace_mosquito_gallery_review_artefact_fame_salmon_alarm_tag_dutch |  
+| bip_39_word_underscore_11 | peace_mosquito_gallery_review_artefact_fame_salmon_alarm_tag_dutch_roof |  
+| bip_39_word_underscore_12 | peace_mosquito_gallery_review_artefact_fame_salmon_alarm_tag_dutch_roof_ankle |  
+| bip_39_word_underscore_2 | peace_mosquito |  
+| bip_39_word_underscore_3 | peace_mosquito_gallery |  
+| bip_39_word_underscore_4 | peace_mosquito_gallery_review |  
+| bip_39_word_underscore_5 | peace_mosquito_gallery_review_artefact |  
+| bip_39_word_underscore_6 | peace_mosquito_gallery_review_artefact_fame |  
+| bip_39_word_underscore_7 | peace_mosquito_gallery_review_artefact_fame_salmon |  
+| bip_39_word_underscore_8 | peace_mosquito_gallery_review_artefact_fame_salmon_alarm |  
+| bip_39_word_underscore_9 | peace_mosquito_gallery_review_artefact_fame_salmon_alarm_tag |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

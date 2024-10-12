@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | boil |  
+| bip_39_word_dash_10 | boil-prevent-milk-cradle-dumb-gauge-eager-enforce-document-riot |  
+| bip_39_word_dash_11 | boil-prevent-milk-cradle-dumb-gauge-eager-enforce-document-riot-act |  
+| bip_39_word_dash_12 | boil-prevent-milk-cradle-dumb-gauge-eager-enforce-document-riot-act-accident |  
+| bip_39_word_dash_2 | boil-prevent |  
+| bip_39_word_dash_3 | boil-prevent-milk |  
+| bip_39_word_dash_4 | boil-prevent-milk-cradle |  
+| bip_39_word_dash_5 | boil-prevent-milk-cradle-dumb |  
+| bip_39_word_dash_6 | boil-prevent-milk-cradle-dumb-gauge |  
+| bip_39_word_dash_7 | boil-prevent-milk-cradle-dumb-gauge-eager |  
+| bip_39_word_dash_8 | boil-prevent-milk-cradle-dumb-gauge-eager-enforce |  
+| bip_39_word_dash_9 | boil-prevent-milk-cradle-dumb-gauge-eager-enforce-document |  
 | bip_39_word_new_br_1 | boil |  
 | bip_39_word_new_br_10 | boil<br>prevent<br>milk<br>cradle<br>dumb<br>gauge<br>eager<br>enforce<br>document<br>riot |  
 | bip_39_word_new_br_11 | boil<br>prevent<br>milk<br>cradle<br>dumb<br>gauge<br>eager<br>enforce<br>document<br>riot<br>act |  
@@ -147,6 +159,18 @@ document |
 | bip_39_word_space_7 | boil prevent milk cradle dumb gauge eager |  
 | bip_39_word_space_8 | boil prevent milk cradle dumb gauge eager enforce |  
 | bip_39_word_space_9 | boil prevent milk cradle dumb gauge eager enforce document |  
+| bip_39_word_underscore_1 | boil |  
+| bip_39_word_underscore_10 | boil_prevent_milk_cradle_dumb_gauge_eager_enforce_document_riot |  
+| bip_39_word_underscore_11 | boil_prevent_milk_cradle_dumb_gauge_eager_enforce_document_riot_act |  
+| bip_39_word_underscore_12 | boil_prevent_milk_cradle_dumb_gauge_eager_enforce_document_riot_act_accident |  
+| bip_39_word_underscore_2 | boil_prevent |  
+| bip_39_word_underscore_3 | boil_prevent_milk |  
+| bip_39_word_underscore_4 | boil_prevent_milk_cradle |  
+| bip_39_word_underscore_5 | boil_prevent_milk_cradle_dumb |  
+| bip_39_word_underscore_6 | boil_prevent_milk_cradle_dumb_gauge |  
+| bip_39_word_underscore_7 | boil_prevent_milk_cradle_dumb_gauge_eager |  
+| bip_39_word_underscore_8 | boil_prevent_milk_cradle_dumb_gauge_eager_enforce |  
+| bip_39_word_underscore_9 | boil_prevent_milk_cradle_dumb_gauge_eager_enforce_document |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: industry
+bip_39_word_dash_10: industry-illegal-genre-legal-ask-stick-supreme-view-please-explain
+bip_39_word_dash_11: industry-illegal-genre-legal-ask-stick-supreme-view-please-explain-aware
+bip_39_word_dash_12: industry-illegal-genre-legal-ask-stick-supreme-view-please-explain-aware-actor
+bip_39_word_dash_2: industry-illegal
+bip_39_word_dash_3: industry-illegal-genre
+bip_39_word_dash_4: industry-illegal-genre-legal
+bip_39_word_dash_5: industry-illegal-genre-legal-ask
+bip_39_word_dash_6: industry-illegal-genre-legal-ask-stick
+bip_39_word_dash_7: industry-illegal-genre-legal-ask-stick-supreme
+bip_39_word_dash_8: industry-illegal-genre-legal-ask-stick-supreme-view
+bip_39_word_dash_9: industry-illegal-genre-legal-ask-stick-supreme-view-please
 bip_39_word_new_br_1: industry
 bip_39_word_new_br_10: industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view<br>please<br>explain
 bip_39_word_new_br_11: industry<br>illegal<br>genre<br>legal<br>ask<br>stick<br>supreme<br>view<br>please<br>explain<br>aware
@@ -193,6 +205,18 @@ bip_39_word_space_6: industry illegal genre legal ask stick
 bip_39_word_space_7: industry illegal genre legal ask stick supreme
 bip_39_word_space_8: industry illegal genre legal ask stick supreme view
 bip_39_word_space_9: industry illegal genre legal ask stick supreme view please
+bip_39_word_underscore_1: industry
+bip_39_word_underscore_10: industry_illegal_genre_legal_ask_stick_supreme_view_please_explain
+bip_39_word_underscore_11: industry_illegal_genre_legal_ask_stick_supreme_view_please_explain_aware
+bip_39_word_underscore_12: industry_illegal_genre_legal_ask_stick_supreme_view_please_explain_aware_actor
+bip_39_word_underscore_2: industry_illegal
+bip_39_word_underscore_3: industry_illegal_genre
+bip_39_word_underscore_4: industry_illegal_genre_legal
+bip_39_word_underscore_5: industry_illegal_genre_legal_ask
+bip_39_word_underscore_6: industry_illegal_genre_legal_ask_stick
+bip_39_word_underscore_7: industry_illegal_genre_legal_ask_stick_supreme
+bip_39_word_underscore_8: industry_illegal_genre_legal_ask_stick_supreme_view
+bip_39_word_underscore_9: industry_illegal_genre_legal_ask_stick_supreme_view_please
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

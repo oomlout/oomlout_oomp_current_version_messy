@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | creek |  
+| bip_39_word_dash_10 | creek-twin-dwarf-young-circle-tomorrow-arrive-cool-auction-all |  
+| bip_39_word_dash_11 | creek-twin-dwarf-young-circle-tomorrow-arrive-cool-auction-all-bamboo |  
+| bip_39_word_dash_12 | creek-twin-dwarf-young-circle-tomorrow-arrive-cool-auction-all-bamboo-area |  
+| bip_39_word_dash_2 | creek-twin |  
+| bip_39_word_dash_3 | creek-twin-dwarf |  
+| bip_39_word_dash_4 | creek-twin-dwarf-young |  
+| bip_39_word_dash_5 | creek-twin-dwarf-young-circle |  
+| bip_39_word_dash_6 | creek-twin-dwarf-young-circle-tomorrow |  
+| bip_39_word_dash_7 | creek-twin-dwarf-young-circle-tomorrow-arrive |  
+| bip_39_word_dash_8 | creek-twin-dwarf-young-circle-tomorrow-arrive-cool |  
+| bip_39_word_dash_9 | creek-twin-dwarf-young-circle-tomorrow-arrive-cool-auction |  
 | bip_39_word_new_br_1 | creek |  
 | bip_39_word_new_br_10 | creek<br>twin<br>dwarf<br>young<br>circle<br>tomorrow<br>arrive<br>cool<br>auction<br>all |  
 | bip_39_word_new_br_11 | creek<br>twin<br>dwarf<br>young<br>circle<br>tomorrow<br>arrive<br>cool<br>auction<br>all<br>bamboo |  
@@ -147,6 +159,18 @@ auction |
 | bip_39_word_space_7 | creek twin dwarf young circle tomorrow arrive |  
 | bip_39_word_space_8 | creek twin dwarf young circle tomorrow arrive cool |  
 | bip_39_word_space_9 | creek twin dwarf young circle tomorrow arrive cool auction |  
+| bip_39_word_underscore_1 | creek |  
+| bip_39_word_underscore_10 | creek_twin_dwarf_young_circle_tomorrow_arrive_cool_auction_all |  
+| bip_39_word_underscore_11 | creek_twin_dwarf_young_circle_tomorrow_arrive_cool_auction_all_bamboo |  
+| bip_39_word_underscore_12 | creek_twin_dwarf_young_circle_tomorrow_arrive_cool_auction_all_bamboo_area |  
+| bip_39_word_underscore_2 | creek_twin |  
+| bip_39_word_underscore_3 | creek_twin_dwarf |  
+| bip_39_word_underscore_4 | creek_twin_dwarf_young |  
+| bip_39_word_underscore_5 | creek_twin_dwarf_young_circle |  
+| bip_39_word_underscore_6 | creek_twin_dwarf_young_circle_tomorrow |  
+| bip_39_word_underscore_7 | creek_twin_dwarf_young_circle_tomorrow_arrive |  
+| bip_39_word_underscore_8 | creek_twin_dwarf_young_circle_tomorrow_arrive_cool |  
+| bip_39_word_underscore_9 | creek_twin_dwarf_young_circle_tomorrow_arrive_cool_auction |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

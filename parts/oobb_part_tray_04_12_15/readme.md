@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | area |  
+| bip_39_word_dash_10 | area-love-sudden-crash-wall-art-eyebrow-fault-visa-sell |  
+| bip_39_word_dash_11 | area-love-sudden-crash-wall-art-eyebrow-fault-visa-sell-survey |  
+| bip_39_word_dash_12 | area-love-sudden-crash-wall-art-eyebrow-fault-visa-sell-survey-arrive |  
+| bip_39_word_dash_2 | area-love |  
+| bip_39_word_dash_3 | area-love-sudden |  
+| bip_39_word_dash_4 | area-love-sudden-crash |  
+| bip_39_word_dash_5 | area-love-sudden-crash-wall |  
+| bip_39_word_dash_6 | area-love-sudden-crash-wall-art |  
+| bip_39_word_dash_7 | area-love-sudden-crash-wall-art-eyebrow |  
+| bip_39_word_dash_8 | area-love-sudden-crash-wall-art-eyebrow-fault |  
+| bip_39_word_dash_9 | area-love-sudden-crash-wall-art-eyebrow-fault-visa |  
 | bip_39_word_new_br_1 | area |  
 | bip_39_word_new_br_10 | area<br>love<br>sudden<br>crash<br>wall<br>art<br>eyebrow<br>fault<br>visa<br>sell |  
 | bip_39_word_new_br_11 | area<br>love<br>sudden<br>crash<br>wall<br>art<br>eyebrow<br>fault<br>visa<br>sell<br>survey |  
@@ -147,6 +159,18 @@ visa |
 | bip_39_word_space_7 | area love sudden crash wall art eyebrow |  
 | bip_39_word_space_8 | area love sudden crash wall art eyebrow fault |  
 | bip_39_word_space_9 | area love sudden crash wall art eyebrow fault visa |  
+| bip_39_word_underscore_1 | area |  
+| bip_39_word_underscore_10 | area_love_sudden_crash_wall_art_eyebrow_fault_visa_sell |  
+| bip_39_word_underscore_11 | area_love_sudden_crash_wall_art_eyebrow_fault_visa_sell_survey |  
+| bip_39_word_underscore_12 | area_love_sudden_crash_wall_art_eyebrow_fault_visa_sell_survey_arrive |  
+| bip_39_word_underscore_2 | area_love |  
+| bip_39_word_underscore_3 | area_love_sudden |  
+| bip_39_word_underscore_4 | area_love_sudden_crash |  
+| bip_39_word_underscore_5 | area_love_sudden_crash_wall |  
+| bip_39_word_underscore_6 | area_love_sudden_crash_wall_art |  
+| bip_39_word_underscore_7 | area_love_sudden_crash_wall_art_eyebrow |  
+| bip_39_word_underscore_8 | area_love_sudden_crash_wall_art_eyebrow_fault |  
+| bip_39_word_underscore_9 | area_love_sudden_crash_wall_art_eyebrow_fault_visa |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

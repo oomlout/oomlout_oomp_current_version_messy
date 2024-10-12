@@ -1,3 +1,15 @@
+bip_39_word_dash_1: walk
+bip_39_word_dash_10: walk-foster-gadget-rely-warrior-link-now-body-slab-kick
+bip_39_word_dash_11: walk-foster-gadget-rely-warrior-link-now-body-slab-kick-rural
+bip_39_word_dash_12: walk-foster-gadget-rely-warrior-link-now-body-slab-kick-rural-arrest
+bip_39_word_dash_2: walk-foster
+bip_39_word_dash_3: walk-foster-gadget
+bip_39_word_dash_4: walk-foster-gadget-rely
+bip_39_word_dash_5: walk-foster-gadget-rely-warrior
+bip_39_word_dash_6: walk-foster-gadget-rely-warrior-link
+bip_39_word_dash_7: walk-foster-gadget-rely-warrior-link-now
+bip_39_word_dash_8: walk-foster-gadget-rely-warrior-link-now-body
+bip_39_word_dash_9: walk-foster-gadget-rely-warrior-link-now-body-slab
 bip_39_word_new_br_1: walk
 bip_39_word_new_br_10: walk<br>foster<br>gadget<br>rely<br>warrior<br>link<br>now<br>body<br>slab<br>kick
 bip_39_word_new_br_11: walk<br>foster<br>gadget<br>rely<br>warrior<br>link<br>now<br>body<br>slab<br>kick<br>rural
@@ -192,6 +204,18 @@ bip_39_word_space_6: walk foster gadget rely warrior link
 bip_39_word_space_7: walk foster gadget rely warrior link now
 bip_39_word_space_8: walk foster gadget rely warrior link now body
 bip_39_word_space_9: walk foster gadget rely warrior link now body slab
+bip_39_word_underscore_1: walk
+bip_39_word_underscore_10: walk_foster_gadget_rely_warrior_link_now_body_slab_kick
+bip_39_word_underscore_11: walk_foster_gadget_rely_warrior_link_now_body_slab_kick_rural
+bip_39_word_underscore_12: walk_foster_gadget_rely_warrior_link_now_body_slab_kick_rural_arrest
+bip_39_word_underscore_2: walk_foster
+bip_39_word_underscore_3: walk_foster_gadget
+bip_39_word_underscore_4: walk_foster_gadget_rely
+bip_39_word_underscore_5: walk_foster_gadget_rely_warrior
+bip_39_word_underscore_6: walk_foster_gadget_rely_warrior_link
+bip_39_word_underscore_7: walk_foster_gadget_rely_warrior_link_now
+bip_39_word_underscore_8: walk_foster_gadget_rely_warrior_link_now_body
+bip_39_word_underscore_9: walk_foster_gadget_rely_warrior_link_now_body_slab
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

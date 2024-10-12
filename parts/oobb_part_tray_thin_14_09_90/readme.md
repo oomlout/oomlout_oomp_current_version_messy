@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ski |  
+| bip_39_word_dash_10 | ski-excuse-exit-episode-angry-name-mango-jungle-basic-web |  
+| bip_39_word_dash_11 | ski-excuse-exit-episode-angry-name-mango-jungle-basic-web-noise |  
+| bip_39_word_dash_12 | ski-excuse-exit-episode-angry-name-mango-jungle-basic-web-noise-arrive |  
+| bip_39_word_dash_2 | ski-excuse |  
+| bip_39_word_dash_3 | ski-excuse-exit |  
+| bip_39_word_dash_4 | ski-excuse-exit-episode |  
+| bip_39_word_dash_5 | ski-excuse-exit-episode-angry |  
+| bip_39_word_dash_6 | ski-excuse-exit-episode-angry-name |  
+| bip_39_word_dash_7 | ski-excuse-exit-episode-angry-name-mango |  
+| bip_39_word_dash_8 | ski-excuse-exit-episode-angry-name-mango-jungle |  
+| bip_39_word_dash_9 | ski-excuse-exit-episode-angry-name-mango-jungle-basic |  
 | bip_39_word_new_br_1 | ski |  
 | bip_39_word_new_br_10 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle<br>basic<br>web |  
 | bip_39_word_new_br_11 | ski<br>excuse<br>exit<br>episode<br>angry<br>name<br>mango<br>jungle<br>basic<br>web<br>noise |  
@@ -147,6 +159,18 @@ basic |
 | bip_39_word_space_7 | ski excuse exit episode angry name mango |  
 | bip_39_word_space_8 | ski excuse exit episode angry name mango jungle |  
 | bip_39_word_space_9 | ski excuse exit episode angry name mango jungle basic |  
+| bip_39_word_underscore_1 | ski |  
+| bip_39_word_underscore_10 | ski_excuse_exit_episode_angry_name_mango_jungle_basic_web |  
+| bip_39_word_underscore_11 | ski_excuse_exit_episode_angry_name_mango_jungle_basic_web_noise |  
+| bip_39_word_underscore_12 | ski_excuse_exit_episode_angry_name_mango_jungle_basic_web_noise_arrive |  
+| bip_39_word_underscore_2 | ski_excuse |  
+| bip_39_word_underscore_3 | ski_excuse_exit |  
+| bip_39_word_underscore_4 | ski_excuse_exit_episode |  
+| bip_39_word_underscore_5 | ski_excuse_exit_episode_angry |  
+| bip_39_word_underscore_6 | ski_excuse_exit_episode_angry_name |  
+| bip_39_word_underscore_7 | ski_excuse_exit_episode_angry_name_mango |  
+| bip_39_word_underscore_8 | ski_excuse_exit_episode_angry_name_mango_jungle |  
+| bip_39_word_underscore_9 | ski_excuse_exit_episode_angry_name_mango_jungle_basic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

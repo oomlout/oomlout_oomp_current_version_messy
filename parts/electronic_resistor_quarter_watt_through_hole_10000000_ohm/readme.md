@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coconut |  
+| bip_39_word_dash_10 | coconut-snake-east-mango-purse-toddler-immune-come-program-such |  
+| bip_39_word_dash_11 | coconut-snake-east-mango-purse-toddler-immune-come-program-such-notice |  
+| bip_39_word_dash_12 | coconut-snake-east-mango-purse-toddler-immune-come-program-such-notice-annual |  
+| bip_39_word_dash_2 | coconut-snake |  
+| bip_39_word_dash_3 | coconut-snake-east |  
+| bip_39_word_dash_4 | coconut-snake-east-mango |  
+| bip_39_word_dash_5 | coconut-snake-east-mango-purse |  
+| bip_39_word_dash_6 | coconut-snake-east-mango-purse-toddler |  
+| bip_39_word_dash_7 | coconut-snake-east-mango-purse-toddler-immune |  
+| bip_39_word_dash_8 | coconut-snake-east-mango-purse-toddler-immune-come |  
+| bip_39_word_dash_9 | coconut-snake-east-mango-purse-toddler-immune-come-program |  
 | bip_39_word_new_br_1 | coconut |  
 | bip_39_word_new_br_10 | coconut<br>snake<br>east<br>mango<br>purse<br>toddler<br>immune<br>come<br>program<br>such |  
 | bip_39_word_new_br_11 | coconut<br>snake<br>east<br>mango<br>purse<br>toddler<br>immune<br>come<br>program<br>such<br>notice |  
@@ -147,6 +159,18 @@ program |
 | bip_39_word_space_7 | coconut snake east mango purse toddler immune |  
 | bip_39_word_space_8 | coconut snake east mango purse toddler immune come |  
 | bip_39_word_space_9 | coconut snake east mango purse toddler immune come program |  
+| bip_39_word_underscore_1 | coconut |  
+| bip_39_word_underscore_10 | coconut_snake_east_mango_purse_toddler_immune_come_program_such |  
+| bip_39_word_underscore_11 | coconut_snake_east_mango_purse_toddler_immune_come_program_such_notice |  
+| bip_39_word_underscore_12 | coconut_snake_east_mango_purse_toddler_immune_come_program_such_notice_annual |  
+| bip_39_word_underscore_2 | coconut_snake |  
+| bip_39_word_underscore_3 | coconut_snake_east |  
+| bip_39_word_underscore_4 | coconut_snake_east_mango |  
+| bip_39_word_underscore_5 | coconut_snake_east_mango_purse |  
+| bip_39_word_underscore_6 | coconut_snake_east_mango_purse_toddler |  
+| bip_39_word_underscore_7 | coconut_snake_east_mango_purse_toddler_immune |  
+| bip_39_word_underscore_8 | coconut_snake_east_mango_purse_toddler_immune_come |  
+| bip_39_word_underscore_9 | coconut_snake_east_mango_purse_toddler_immune_come_program |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

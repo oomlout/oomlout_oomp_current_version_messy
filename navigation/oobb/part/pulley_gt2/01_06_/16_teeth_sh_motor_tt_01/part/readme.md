@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | energy |  
+| bip_39_word_dash_10 | energy-life-myself-disease-become-divide-piano-mosquito-memory-rain |  
+| bip_39_word_dash_11 | energy-life-myself-disease-become-divide-piano-mosquito-memory-rain-throw |  
+| bip_39_word_dash_12 | energy-life-myself-disease-become-divide-piano-mosquito-memory-rain-throw-apology |  
+| bip_39_word_dash_2 | energy-life |  
+| bip_39_word_dash_3 | energy-life-myself |  
+| bip_39_word_dash_4 | energy-life-myself-disease |  
+| bip_39_word_dash_5 | energy-life-myself-disease-become |  
+| bip_39_word_dash_6 | energy-life-myself-disease-become-divide |  
+| bip_39_word_dash_7 | energy-life-myself-disease-become-divide-piano |  
+| bip_39_word_dash_8 | energy-life-myself-disease-become-divide-piano-mosquito |  
+| bip_39_word_dash_9 | energy-life-myself-disease-become-divide-piano-mosquito-memory |  
 | bip_39_word_new_br_1 | energy |  
 | bip_39_word_new_br_10 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain |  
 | bip_39_word_new_br_11 | energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain<br>throw |  
@@ -147,6 +159,18 @@ memory |
 | bip_39_word_space_7 | energy life myself disease become divide piano |  
 | bip_39_word_space_8 | energy life myself disease become divide piano mosquito |  
 | bip_39_word_space_9 | energy life myself disease become divide piano mosquito memory |  
+| bip_39_word_underscore_1 | energy |  
+| bip_39_word_underscore_10 | energy_life_myself_disease_become_divide_piano_mosquito_memory_rain |  
+| bip_39_word_underscore_11 | energy_life_myself_disease_become_divide_piano_mosquito_memory_rain_throw |  
+| bip_39_word_underscore_12 | energy_life_myself_disease_become_divide_piano_mosquito_memory_rain_throw_apology |  
+| bip_39_word_underscore_2 | energy_life |  
+| bip_39_word_underscore_3 | energy_life_myself |  
+| bip_39_word_underscore_4 | energy_life_myself_disease |  
+| bip_39_word_underscore_5 | energy_life_myself_disease_become |  
+| bip_39_word_underscore_6 | energy_life_myself_disease_become_divide |  
+| bip_39_word_underscore_7 | energy_life_myself_disease_become_divide_piano |  
+| bip_39_word_underscore_8 | energy_life_myself_disease_become_divide_piano_mosquito |  
+| bip_39_word_underscore_9 | energy_life_myself_disease_become_divide_piano_mosquito_memory |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

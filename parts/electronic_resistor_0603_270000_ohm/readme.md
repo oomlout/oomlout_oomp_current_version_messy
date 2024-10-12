@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | blue |  
+| bip_39_word_dash_10 | blue-supply-maze-swim-market-twenty-monster-corn-risk-disorder |  
+| bip_39_word_dash_11 | blue-supply-maze-swim-market-twenty-monster-corn-risk-disorder-board |  
+| bip_39_word_dash_12 | blue-supply-maze-swim-market-twenty-monster-corn-risk-disorder-board-arctic |  
+| bip_39_word_dash_2 | blue-supply |  
+| bip_39_word_dash_3 | blue-supply-maze |  
+| bip_39_word_dash_4 | blue-supply-maze-swim |  
+| bip_39_word_dash_5 | blue-supply-maze-swim-market |  
+| bip_39_word_dash_6 | blue-supply-maze-swim-market-twenty |  
+| bip_39_word_dash_7 | blue-supply-maze-swim-market-twenty-monster |  
+| bip_39_word_dash_8 | blue-supply-maze-swim-market-twenty-monster-corn |  
+| bip_39_word_dash_9 | blue-supply-maze-swim-market-twenty-monster-corn-risk |  
 | bip_39_word_new_br_1 | blue |  
 | bip_39_word_new_br_10 | blue<br>supply<br>maze<br>swim<br>market<br>twenty<br>monster<br>corn<br>risk<br>disorder |  
 | bip_39_word_new_br_11 | blue<br>supply<br>maze<br>swim<br>market<br>twenty<br>monster<br>corn<br>risk<br>disorder<br>board |  
@@ -147,6 +159,18 @@ risk |
 | bip_39_word_space_7 | blue supply maze swim market twenty monster |  
 | bip_39_word_space_8 | blue supply maze swim market twenty monster corn |  
 | bip_39_word_space_9 | blue supply maze swim market twenty monster corn risk |  
+| bip_39_word_underscore_1 | blue |  
+| bip_39_word_underscore_10 | blue_supply_maze_swim_market_twenty_monster_corn_risk_disorder |  
+| bip_39_word_underscore_11 | blue_supply_maze_swim_market_twenty_monster_corn_risk_disorder_board |  
+| bip_39_word_underscore_12 | blue_supply_maze_swim_market_twenty_monster_corn_risk_disorder_board_arctic |  
+| bip_39_word_underscore_2 | blue_supply |  
+| bip_39_word_underscore_3 | blue_supply_maze |  
+| bip_39_word_underscore_4 | blue_supply_maze_swim |  
+| bip_39_word_underscore_5 | blue_supply_maze_swim_market |  
+| bip_39_word_underscore_6 | blue_supply_maze_swim_market_twenty |  
+| bip_39_word_underscore_7 | blue_supply_maze_swim_market_twenty_monster |  
+| bip_39_word_underscore_8 | blue_supply_maze_swim_market_twenty_monster_corn |  
+| bip_39_word_underscore_9 | blue_supply_maze_swim_market_twenty_monster_corn_risk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

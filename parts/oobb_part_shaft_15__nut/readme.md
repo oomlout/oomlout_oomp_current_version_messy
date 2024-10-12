@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | off |  
+| bip_39_word_dash_10 | off-vehicle-depend-marriage-economy-utility-syrup-giraffe-august-ranch |  
+| bip_39_word_dash_11 | off-vehicle-depend-marriage-economy-utility-syrup-giraffe-august-ranch-ripple |  
+| bip_39_word_dash_12 | off-vehicle-depend-marriage-economy-utility-syrup-giraffe-august-ranch-ripple-apology |  
+| bip_39_word_dash_2 | off-vehicle |  
+| bip_39_word_dash_3 | off-vehicle-depend |  
+| bip_39_word_dash_4 | off-vehicle-depend-marriage |  
+| bip_39_word_dash_5 | off-vehicle-depend-marriage-economy |  
+| bip_39_word_dash_6 | off-vehicle-depend-marriage-economy-utility |  
+| bip_39_word_dash_7 | off-vehicle-depend-marriage-economy-utility-syrup |  
+| bip_39_word_dash_8 | off-vehicle-depend-marriage-economy-utility-syrup-giraffe |  
+| bip_39_word_dash_9 | off-vehicle-depend-marriage-economy-utility-syrup-giraffe-august |  
 | bip_39_word_new_br_1 | off |  
 | bip_39_word_new_br_10 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch |  
 | bip_39_word_new_br_11 | off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch<br>ripple |  
@@ -147,6 +159,18 @@ august |
 | bip_39_word_space_7 | off vehicle depend marriage economy utility syrup |  
 | bip_39_word_space_8 | off vehicle depend marriage economy utility syrup giraffe |  
 | bip_39_word_space_9 | off vehicle depend marriage economy utility syrup giraffe august |  
+| bip_39_word_underscore_1 | off |  
+| bip_39_word_underscore_10 | off_vehicle_depend_marriage_economy_utility_syrup_giraffe_august_ranch |  
+| bip_39_word_underscore_11 | off_vehicle_depend_marriage_economy_utility_syrup_giraffe_august_ranch_ripple |  
+| bip_39_word_underscore_12 | off_vehicle_depend_marriage_economy_utility_syrup_giraffe_august_ranch_ripple_apology |  
+| bip_39_word_underscore_2 | off_vehicle |  
+| bip_39_word_underscore_3 | off_vehicle_depend |  
+| bip_39_word_underscore_4 | off_vehicle_depend_marriage |  
+| bip_39_word_underscore_5 | off_vehicle_depend_marriage_economy |  
+| bip_39_word_underscore_6 | off_vehicle_depend_marriage_economy_utility |  
+| bip_39_word_underscore_7 | off_vehicle_depend_marriage_economy_utility_syrup |  
+| bip_39_word_underscore_8 | off_vehicle_depend_marriage_economy_utility_syrup_giraffe |  
+| bip_39_word_underscore_9 | off_vehicle_depend_marriage_economy_utility_syrup_giraffe_august |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

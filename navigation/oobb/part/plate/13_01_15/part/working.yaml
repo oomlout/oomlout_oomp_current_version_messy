@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hungry
+bip_39_word_dash_10: hungry-can-fault-kingdom-aspect-voyage-mosquito-cement-tissue-near
+bip_39_word_dash_11: hungry-can-fault-kingdom-aspect-voyage-mosquito-cement-tissue-near-refuse
+bip_39_word_dash_12: hungry-can-fault-kingdom-aspect-voyage-mosquito-cement-tissue-near-refuse-action
+bip_39_word_dash_2: hungry-can
+bip_39_word_dash_3: hungry-can-fault
+bip_39_word_dash_4: hungry-can-fault-kingdom
+bip_39_word_dash_5: hungry-can-fault-kingdom-aspect
+bip_39_word_dash_6: hungry-can-fault-kingdom-aspect-voyage
+bip_39_word_dash_7: hungry-can-fault-kingdom-aspect-voyage-mosquito
+bip_39_word_dash_8: hungry-can-fault-kingdom-aspect-voyage-mosquito-cement
+bip_39_word_dash_9: hungry-can-fault-kingdom-aspect-voyage-mosquito-cement-tissue
 bip_39_word_new_br_1: hungry
 bip_39_word_new_br_10: hungry<br>can<br>fault<br>kingdom<br>aspect<br>voyage<br>mosquito<br>cement<br>tissue<br>near
 bip_39_word_new_br_11: hungry<br>can<br>fault<br>kingdom<br>aspect<br>voyage<br>mosquito<br>cement<br>tissue<br>near<br>refuse
@@ -194,6 +206,18 @@ bip_39_word_space_6: hungry can fault kingdom aspect voyage
 bip_39_word_space_7: hungry can fault kingdom aspect voyage mosquito
 bip_39_word_space_8: hungry can fault kingdom aspect voyage mosquito cement
 bip_39_word_space_9: hungry can fault kingdom aspect voyage mosquito cement tissue
+bip_39_word_underscore_1: hungry
+bip_39_word_underscore_10: hungry_can_fault_kingdom_aspect_voyage_mosquito_cement_tissue_near
+bip_39_word_underscore_11: hungry_can_fault_kingdom_aspect_voyage_mosquito_cement_tissue_near_refuse
+bip_39_word_underscore_12: hungry_can_fault_kingdom_aspect_voyage_mosquito_cement_tissue_near_refuse_action
+bip_39_word_underscore_2: hungry_can
+bip_39_word_underscore_3: hungry_can_fault
+bip_39_word_underscore_4: hungry_can_fault_kingdom
+bip_39_word_underscore_5: hungry_can_fault_kingdom_aspect
+bip_39_word_underscore_6: hungry_can_fault_kingdom_aspect_voyage
+bip_39_word_underscore_7: hungry_can_fault_kingdom_aspect_voyage_mosquito
+bip_39_word_underscore_8: hungry_can_fault_kingdom_aspect_voyage_mosquito_cement
+bip_39_word_underscore_9: hungry_can_fault_kingdom_aspect_voyage_mosquito_cement_tissue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

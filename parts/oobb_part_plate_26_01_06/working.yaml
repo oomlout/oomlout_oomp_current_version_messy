@@ -1,3 +1,15 @@
+bip_39_word_dash_1: open
+bip_39_word_dash_10: open-must-bounce-example-stand-turtle-nature-ecology-hollow-future
+bip_39_word_dash_11: open-must-bounce-example-stand-turtle-nature-ecology-hollow-future-juice
+bip_39_word_dash_12: open-must-bounce-example-stand-turtle-nature-ecology-hollow-future-juice-adult
+bip_39_word_dash_2: open-must
+bip_39_word_dash_3: open-must-bounce
+bip_39_word_dash_4: open-must-bounce-example
+bip_39_word_dash_5: open-must-bounce-example-stand
+bip_39_word_dash_6: open-must-bounce-example-stand-turtle
+bip_39_word_dash_7: open-must-bounce-example-stand-turtle-nature
+bip_39_word_dash_8: open-must-bounce-example-stand-turtle-nature-ecology
+bip_39_word_dash_9: open-must-bounce-example-stand-turtle-nature-ecology-hollow
 bip_39_word_new_br_1: open
 bip_39_word_new_br_10: open<br>must<br>bounce<br>example<br>stand<br>turtle<br>nature<br>ecology<br>hollow<br>future
 bip_39_word_new_br_11: open<br>must<br>bounce<br>example<br>stand<br>turtle<br>nature<br>ecology<br>hollow<br>future<br>juice
@@ -194,6 +206,18 @@ bip_39_word_space_6: open must bounce example stand turtle
 bip_39_word_space_7: open must bounce example stand turtle nature
 bip_39_word_space_8: open must bounce example stand turtle nature ecology
 bip_39_word_space_9: open must bounce example stand turtle nature ecology hollow
+bip_39_word_underscore_1: open
+bip_39_word_underscore_10: open_must_bounce_example_stand_turtle_nature_ecology_hollow_future
+bip_39_word_underscore_11: open_must_bounce_example_stand_turtle_nature_ecology_hollow_future_juice
+bip_39_word_underscore_12: open_must_bounce_example_stand_turtle_nature_ecology_hollow_future_juice_adult
+bip_39_word_underscore_2: open_must
+bip_39_word_underscore_3: open_must_bounce
+bip_39_word_underscore_4: open_must_bounce_example
+bip_39_word_underscore_5: open_must_bounce_example_stand
+bip_39_word_underscore_6: open_must_bounce_example_stand_turtle
+bip_39_word_underscore_7: open_must_bounce_example_stand_turtle_nature
+bip_39_word_underscore_8: open_must_bounce_example_stand_turtle_nature_ecology
+bip_39_word_underscore_9: open_must_bounce_example_stand_turtle_nature_ecology_hollow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

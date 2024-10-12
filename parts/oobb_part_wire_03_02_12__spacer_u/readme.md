@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | economy |  
+| bip_39_word_dash_10 | economy-upgrade-pony-fashion-volcano-legend-sting-destroy-lady-peace |  
+| bip_39_word_dash_11 | economy-upgrade-pony-fashion-volcano-legend-sting-destroy-lady-peace-over |  
+| bip_39_word_dash_12 | economy-upgrade-pony-fashion-volcano-legend-sting-destroy-lady-peace-over-alpha |  
+| bip_39_word_dash_2 | economy-upgrade |  
+| bip_39_word_dash_3 | economy-upgrade-pony |  
+| bip_39_word_dash_4 | economy-upgrade-pony-fashion |  
+| bip_39_word_dash_5 | economy-upgrade-pony-fashion-volcano |  
+| bip_39_word_dash_6 | economy-upgrade-pony-fashion-volcano-legend |  
+| bip_39_word_dash_7 | economy-upgrade-pony-fashion-volcano-legend-sting |  
+| bip_39_word_dash_8 | economy-upgrade-pony-fashion-volcano-legend-sting-destroy |  
+| bip_39_word_dash_9 | economy-upgrade-pony-fashion-volcano-legend-sting-destroy-lady |  
 | bip_39_word_new_br_1 | economy |  
 | bip_39_word_new_br_10 | economy<br>upgrade<br>pony<br>fashion<br>volcano<br>legend<br>sting<br>destroy<br>lady<br>peace |  
 | bip_39_word_new_br_11 | economy<br>upgrade<br>pony<br>fashion<br>volcano<br>legend<br>sting<br>destroy<br>lady<br>peace<br>over |  
@@ -147,6 +159,18 @@ lady |
 | bip_39_word_space_7 | economy upgrade pony fashion volcano legend sting |  
 | bip_39_word_space_8 | economy upgrade pony fashion volcano legend sting destroy |  
 | bip_39_word_space_9 | economy upgrade pony fashion volcano legend sting destroy lady |  
+| bip_39_word_underscore_1 | economy |  
+| bip_39_word_underscore_10 | economy_upgrade_pony_fashion_volcano_legend_sting_destroy_lady_peace |  
+| bip_39_word_underscore_11 | economy_upgrade_pony_fashion_volcano_legend_sting_destroy_lady_peace_over |  
+| bip_39_word_underscore_12 | economy_upgrade_pony_fashion_volcano_legend_sting_destroy_lady_peace_over_alpha |  
+| bip_39_word_underscore_2 | economy_upgrade |  
+| bip_39_word_underscore_3 | economy_upgrade_pony |  
+| bip_39_word_underscore_4 | economy_upgrade_pony_fashion |  
+| bip_39_word_underscore_5 | economy_upgrade_pony_fashion_volcano |  
+| bip_39_word_underscore_6 | economy_upgrade_pony_fashion_volcano_legend |  
+| bip_39_word_underscore_7 | economy_upgrade_pony_fashion_volcano_legend_sting |  
+| bip_39_word_underscore_8 | economy_upgrade_pony_fashion_volcano_legend_sting_destroy |  
+| bip_39_word_underscore_9 | economy_upgrade_pony_fashion_volcano_legend_sting_destroy_lady |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

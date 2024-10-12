@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | umbrella |  
+| bip_39_word_dash_10 | umbrella-answer-feel-require-can-breeze-hat-super-spread-census |  
+| bip_39_word_dash_11 | umbrella-answer-feel-require-can-breeze-hat-super-spread-census-replace |  
+| bip_39_word_dash_12 | umbrella-answer-feel-require-can-breeze-hat-super-spread-census-replace-armor |  
+| bip_39_word_dash_2 | umbrella-answer |  
+| bip_39_word_dash_3 | umbrella-answer-feel |  
+| bip_39_word_dash_4 | umbrella-answer-feel-require |  
+| bip_39_word_dash_5 | umbrella-answer-feel-require-can |  
+| bip_39_word_dash_6 | umbrella-answer-feel-require-can-breeze |  
+| bip_39_word_dash_7 | umbrella-answer-feel-require-can-breeze-hat |  
+| bip_39_word_dash_8 | umbrella-answer-feel-require-can-breeze-hat-super |  
+| bip_39_word_dash_9 | umbrella-answer-feel-require-can-breeze-hat-super-spread |  
 | bip_39_word_new_br_1 | umbrella |  
 | bip_39_word_new_br_10 | umbrella<br>answer<br>feel<br>require<br>can<br>breeze<br>hat<br>super<br>spread<br>census |  
 | bip_39_word_new_br_11 | umbrella<br>answer<br>feel<br>require<br>can<br>breeze<br>hat<br>super<br>spread<br>census<br>replace |  
@@ -147,6 +159,18 @@ spread |
 | bip_39_word_space_7 | umbrella answer feel require can breeze hat |  
 | bip_39_word_space_8 | umbrella answer feel require can breeze hat super |  
 | bip_39_word_space_9 | umbrella answer feel require can breeze hat super spread |  
+| bip_39_word_underscore_1 | umbrella |  
+| bip_39_word_underscore_10 | umbrella_answer_feel_require_can_breeze_hat_super_spread_census |  
+| bip_39_word_underscore_11 | umbrella_answer_feel_require_can_breeze_hat_super_spread_census_replace |  
+| bip_39_word_underscore_12 | umbrella_answer_feel_require_can_breeze_hat_super_spread_census_replace_armor |  
+| bip_39_word_underscore_2 | umbrella_answer |  
+| bip_39_word_underscore_3 | umbrella_answer_feel |  
+| bip_39_word_underscore_4 | umbrella_answer_feel_require |  
+| bip_39_word_underscore_5 | umbrella_answer_feel_require_can |  
+| bip_39_word_underscore_6 | umbrella_answer_feel_require_can_breeze |  
+| bip_39_word_underscore_7 | umbrella_answer_feel_require_can_breeze_hat |  
+| bip_39_word_underscore_8 | umbrella_answer_feel_require_can_breeze_hat_super |  
+| bip_39_word_underscore_9 | umbrella_answer_feel_require_can_breeze_hat_super_spread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

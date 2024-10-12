@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | west |  
+| bip_39_word_dash_10 | west-patrol-festival-clever-hawk-basic-point-limb-two-wrap |  
+| bip_39_word_dash_11 | west-patrol-festival-clever-hawk-basic-point-limb-two-wrap-bike |  
+| bip_39_word_dash_12 | west-patrol-festival-clever-hawk-basic-point-limb-two-wrap-bike-add |  
+| bip_39_word_dash_2 | west-patrol |  
+| bip_39_word_dash_3 | west-patrol-festival |  
+| bip_39_word_dash_4 | west-patrol-festival-clever |  
+| bip_39_word_dash_5 | west-patrol-festival-clever-hawk |  
+| bip_39_word_dash_6 | west-patrol-festival-clever-hawk-basic |  
+| bip_39_word_dash_7 | west-patrol-festival-clever-hawk-basic-point |  
+| bip_39_word_dash_8 | west-patrol-festival-clever-hawk-basic-point-limb |  
+| bip_39_word_dash_9 | west-patrol-festival-clever-hawk-basic-point-limb-two |  
 | bip_39_word_new_br_1 | west |  
 | bip_39_word_new_br_10 | west<br>patrol<br>festival<br>clever<br>hawk<br>basic<br>point<br>limb<br>two<br>wrap |  
 | bip_39_word_new_br_11 | west<br>patrol<br>festival<br>clever<br>hawk<br>basic<br>point<br>limb<br>two<br>wrap<br>bike |  
@@ -147,6 +159,18 @@ two |
 | bip_39_word_space_7 | west patrol festival clever hawk basic point |  
 | bip_39_word_space_8 | west patrol festival clever hawk basic point limb |  
 | bip_39_word_space_9 | west patrol festival clever hawk basic point limb two |  
+| bip_39_word_underscore_1 | west |  
+| bip_39_word_underscore_10 | west_patrol_festival_clever_hawk_basic_point_limb_two_wrap |  
+| bip_39_word_underscore_11 | west_patrol_festival_clever_hawk_basic_point_limb_two_wrap_bike |  
+| bip_39_word_underscore_12 | west_patrol_festival_clever_hawk_basic_point_limb_two_wrap_bike_add |  
+| bip_39_word_underscore_2 | west_patrol |  
+| bip_39_word_underscore_3 | west_patrol_festival |  
+| bip_39_word_underscore_4 | west_patrol_festival_clever |  
+| bip_39_word_underscore_5 | west_patrol_festival_clever_hawk |  
+| bip_39_word_underscore_6 | west_patrol_festival_clever_hawk_basic |  
+| bip_39_word_underscore_7 | west_patrol_festival_clever_hawk_basic_point |  
+| bip_39_word_underscore_8 | west_patrol_festival_clever_hawk_basic_point_limb |  
+| bip_39_word_underscore_9 | west_patrol_festival_clever_hawk_basic_point_limb_two |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

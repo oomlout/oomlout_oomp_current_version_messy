@@ -1,3 +1,15 @@
+bip_39_word_dash_1: wheel
+bip_39_word_dash_10: wheel-force-off-purity-choice-wage-sell-subject-rural-life
+bip_39_word_dash_11: wheel-force-off-purity-choice-wage-sell-subject-rural-life-logic
+bip_39_word_dash_12: wheel-force-off-purity-choice-wage-sell-subject-rural-life-logic-account
+bip_39_word_dash_2: wheel-force
+bip_39_word_dash_3: wheel-force-off
+bip_39_word_dash_4: wheel-force-off-purity
+bip_39_word_dash_5: wheel-force-off-purity-choice
+bip_39_word_dash_6: wheel-force-off-purity-choice-wage
+bip_39_word_dash_7: wheel-force-off-purity-choice-wage-sell
+bip_39_word_dash_8: wheel-force-off-purity-choice-wage-sell-subject
+bip_39_word_dash_9: wheel-force-off-purity-choice-wage-sell-subject-rural
 bip_39_word_new_br_1: wheel
 bip_39_word_new_br_10: wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject<br>rural<br>life
 bip_39_word_new_br_11: wheel<br>force<br>off<br>purity<br>choice<br>wage<br>sell<br>subject<br>rural<br>life<br>logic
@@ -192,6 +204,18 @@ bip_39_word_space_6: wheel force off purity choice wage
 bip_39_word_space_7: wheel force off purity choice wage sell
 bip_39_word_space_8: wheel force off purity choice wage sell subject
 bip_39_word_space_9: wheel force off purity choice wage sell subject rural
+bip_39_word_underscore_1: wheel
+bip_39_word_underscore_10: wheel_force_off_purity_choice_wage_sell_subject_rural_life
+bip_39_word_underscore_11: wheel_force_off_purity_choice_wage_sell_subject_rural_life_logic
+bip_39_word_underscore_12: wheel_force_off_purity_choice_wage_sell_subject_rural_life_logic_account
+bip_39_word_underscore_2: wheel_force
+bip_39_word_underscore_3: wheel_force_off
+bip_39_word_underscore_4: wheel_force_off_purity
+bip_39_word_underscore_5: wheel_force_off_purity_choice
+bip_39_word_underscore_6: wheel_force_off_purity_choice_wage
+bip_39_word_underscore_7: wheel_force_off_purity_choice_wage_sell
+bip_39_word_underscore_8: wheel_force_off_purity_choice_wage_sell_subject
+bip_39_word_underscore_9: wheel_force_off_purity_choice_wage_sell_subject_rural
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

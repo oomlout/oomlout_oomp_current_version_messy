@@ -1,3 +1,15 @@
+bip_39_word_dash_1: upper
+bip_39_word_dash_10: upper-bid-sort-relax-leisure-south-uniform-upgrade-silent-depth
+bip_39_word_dash_11: upper-bid-sort-relax-leisure-south-uniform-upgrade-silent-depth-flag
+bip_39_word_dash_12: upper-bid-sort-relax-leisure-south-uniform-upgrade-silent-depth-flag-approve
+bip_39_word_dash_2: upper-bid
+bip_39_word_dash_3: upper-bid-sort
+bip_39_word_dash_4: upper-bid-sort-relax
+bip_39_word_dash_5: upper-bid-sort-relax-leisure
+bip_39_word_dash_6: upper-bid-sort-relax-leisure-south
+bip_39_word_dash_7: upper-bid-sort-relax-leisure-south-uniform
+bip_39_word_dash_8: upper-bid-sort-relax-leisure-south-uniform-upgrade
+bip_39_word_dash_9: upper-bid-sort-relax-leisure-south-uniform-upgrade-silent
 bip_39_word_new_br_1: upper
 bip_39_word_new_br_10: upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth
 bip_39_word_new_br_11: upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth<br>flag
@@ -193,6 +205,18 @@ bip_39_word_space_6: upper bid sort relax leisure south
 bip_39_word_space_7: upper bid sort relax leisure south uniform
 bip_39_word_space_8: upper bid sort relax leisure south uniform upgrade
 bip_39_word_space_9: upper bid sort relax leisure south uniform upgrade silent
+bip_39_word_underscore_1: upper
+bip_39_word_underscore_10: upper_bid_sort_relax_leisure_south_uniform_upgrade_silent_depth
+bip_39_word_underscore_11: upper_bid_sort_relax_leisure_south_uniform_upgrade_silent_depth_flag
+bip_39_word_underscore_12: upper_bid_sort_relax_leisure_south_uniform_upgrade_silent_depth_flag_approve
+bip_39_word_underscore_2: upper_bid
+bip_39_word_underscore_3: upper_bid_sort
+bip_39_word_underscore_4: upper_bid_sort_relax
+bip_39_word_underscore_5: upper_bid_sort_relax_leisure
+bip_39_word_underscore_6: upper_bid_sort_relax_leisure_south
+bip_39_word_underscore_7: upper_bid_sort_relax_leisure_south_uniform
+bip_39_word_underscore_8: upper_bid_sort_relax_leisure_south_uniform_upgrade
+bip_39_word_underscore_9: upper_bid_sort_relax_leisure_south_uniform_upgrade_silent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: edit
+bip_39_word_dash_10: edit-tone-gap-fog-initial-fiction-cable-blind-rough-bike
+bip_39_word_dash_11: edit-tone-gap-fog-initial-fiction-cable-blind-rough-bike-inner
+bip_39_word_dash_12: edit-tone-gap-fog-initial-fiction-cable-blind-rough-bike-inner-armor
+bip_39_word_dash_2: edit-tone
+bip_39_word_dash_3: edit-tone-gap
+bip_39_word_dash_4: edit-tone-gap-fog
+bip_39_word_dash_5: edit-tone-gap-fog-initial
+bip_39_word_dash_6: edit-tone-gap-fog-initial-fiction
+bip_39_word_dash_7: edit-tone-gap-fog-initial-fiction-cable
+bip_39_word_dash_8: edit-tone-gap-fog-initial-fiction-cable-blind
+bip_39_word_dash_9: edit-tone-gap-fog-initial-fiction-cable-blind-rough
 bip_39_word_new_br_1: edit
 bip_39_word_new_br_10: edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike
 bip_39_word_new_br_11: edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike<br>inner
@@ -192,6 +204,18 @@ bip_39_word_space_6: edit tone gap fog initial fiction
 bip_39_word_space_7: edit tone gap fog initial fiction cable
 bip_39_word_space_8: edit tone gap fog initial fiction cable blind
 bip_39_word_space_9: edit tone gap fog initial fiction cable blind rough
+bip_39_word_underscore_1: edit
+bip_39_word_underscore_10: edit_tone_gap_fog_initial_fiction_cable_blind_rough_bike
+bip_39_word_underscore_11: edit_tone_gap_fog_initial_fiction_cable_blind_rough_bike_inner
+bip_39_word_underscore_12: edit_tone_gap_fog_initial_fiction_cable_blind_rough_bike_inner_armor
+bip_39_word_underscore_2: edit_tone
+bip_39_word_underscore_3: edit_tone_gap
+bip_39_word_underscore_4: edit_tone_gap_fog
+bip_39_word_underscore_5: edit_tone_gap_fog_initial
+bip_39_word_underscore_6: edit_tone_gap_fog_initial_fiction
+bip_39_word_underscore_7: edit_tone_gap_fog_initial_fiction_cable
+bip_39_word_underscore_8: edit_tone_gap_fog_initial_fiction_cable_blind
+bip_39_word_underscore_9: edit_tone_gap_fog_initial_fiction_cable_blind_rough
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

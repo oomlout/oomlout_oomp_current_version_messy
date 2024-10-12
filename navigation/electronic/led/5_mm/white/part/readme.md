@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soul |  
+| bip_39_word_dash_10 | soul-vessel-place-argue-combine-border-enlist-trash-shuffle-pave |  
+| bip_39_word_dash_11 | soul-vessel-place-argue-combine-border-enlist-trash-shuffle-pave-march |  
+| bip_39_word_dash_12 | soul-vessel-place-argue-combine-border-enlist-trash-shuffle-pave-march-amateur |  
+| bip_39_word_dash_2 | soul-vessel |  
+| bip_39_word_dash_3 | soul-vessel-place |  
+| bip_39_word_dash_4 | soul-vessel-place-argue |  
+| bip_39_word_dash_5 | soul-vessel-place-argue-combine |  
+| bip_39_word_dash_6 | soul-vessel-place-argue-combine-border |  
+| bip_39_word_dash_7 | soul-vessel-place-argue-combine-border-enlist |  
+| bip_39_word_dash_8 | soul-vessel-place-argue-combine-border-enlist-trash |  
+| bip_39_word_dash_9 | soul-vessel-place-argue-combine-border-enlist-trash-shuffle |  
 | bip_39_word_new_br_1 | soul |  
 | bip_39_word_new_br_10 | soul<br>vessel<br>place<br>argue<br>combine<br>border<br>enlist<br>trash<br>shuffle<br>pave |  
 | bip_39_word_new_br_11 | soul<br>vessel<br>place<br>argue<br>combine<br>border<br>enlist<br>trash<br>shuffle<br>pave<br>march |  
@@ -147,6 +159,18 @@ shuffle |
 | bip_39_word_space_7 | soul vessel place argue combine border enlist |  
 | bip_39_word_space_8 | soul vessel place argue combine border enlist trash |  
 | bip_39_word_space_9 | soul vessel place argue combine border enlist trash shuffle |  
+| bip_39_word_underscore_1 | soul |  
+| bip_39_word_underscore_10 | soul_vessel_place_argue_combine_border_enlist_trash_shuffle_pave |  
+| bip_39_word_underscore_11 | soul_vessel_place_argue_combine_border_enlist_trash_shuffle_pave_march |  
+| bip_39_word_underscore_12 | soul_vessel_place_argue_combine_border_enlist_trash_shuffle_pave_march_amateur |  
+| bip_39_word_underscore_2 | soul_vessel |  
+| bip_39_word_underscore_3 | soul_vessel_place |  
+| bip_39_word_underscore_4 | soul_vessel_place_argue |  
+| bip_39_word_underscore_5 | soul_vessel_place_argue_combine |  
+| bip_39_word_underscore_6 | soul_vessel_place_argue_combine_border |  
+| bip_39_word_underscore_7 | soul_vessel_place_argue_combine_border_enlist |  
+| bip_39_word_underscore_8 | soul_vessel_place_argue_combine_border_enlist_trash |  
+| bip_39_word_underscore_9 | soul_vessel_place_argue_combine_border_enlist_trash_shuffle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

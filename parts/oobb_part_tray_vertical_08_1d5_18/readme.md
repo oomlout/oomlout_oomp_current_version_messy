@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | supreme |  
+| bip_39_word_dash_10 | supreme-small-high-want-much-muscle-promote-exhaust-wheel-that |  
+| bip_39_word_dash_11 | supreme-small-high-want-much-muscle-promote-exhaust-wheel-that-aunt |  
+| bip_39_word_dash_12 | supreme-small-high-want-much-muscle-promote-exhaust-wheel-that-aunt-attract |  
+| bip_39_word_dash_2 | supreme-small |  
+| bip_39_word_dash_3 | supreme-small-high |  
+| bip_39_word_dash_4 | supreme-small-high-want |  
+| bip_39_word_dash_5 | supreme-small-high-want-much |  
+| bip_39_word_dash_6 | supreme-small-high-want-much-muscle |  
+| bip_39_word_dash_7 | supreme-small-high-want-much-muscle-promote |  
+| bip_39_word_dash_8 | supreme-small-high-want-much-muscle-promote-exhaust |  
+| bip_39_word_dash_9 | supreme-small-high-want-much-muscle-promote-exhaust-wheel |  
 | bip_39_word_new_br_1 | supreme |  
 | bip_39_word_new_br_10 | supreme<br>small<br>high<br>want<br>much<br>muscle<br>promote<br>exhaust<br>wheel<br>that |  
 | bip_39_word_new_br_11 | supreme<br>small<br>high<br>want<br>much<br>muscle<br>promote<br>exhaust<br>wheel<br>that<br>aunt |  
@@ -147,6 +159,18 @@ wheel |
 | bip_39_word_space_7 | supreme small high want much muscle promote |  
 | bip_39_word_space_8 | supreme small high want much muscle promote exhaust |  
 | bip_39_word_space_9 | supreme small high want much muscle promote exhaust wheel |  
+| bip_39_word_underscore_1 | supreme |  
+| bip_39_word_underscore_10 | supreme_small_high_want_much_muscle_promote_exhaust_wheel_that |  
+| bip_39_word_underscore_11 | supreme_small_high_want_much_muscle_promote_exhaust_wheel_that_aunt |  
+| bip_39_word_underscore_12 | supreme_small_high_want_much_muscle_promote_exhaust_wheel_that_aunt_attract |  
+| bip_39_word_underscore_2 | supreme_small |  
+| bip_39_word_underscore_3 | supreme_small_high |  
+| bip_39_word_underscore_4 | supreme_small_high_want |  
+| bip_39_word_underscore_5 | supreme_small_high_want_much |  
+| bip_39_word_underscore_6 | supreme_small_high_want_much_muscle |  
+| bip_39_word_underscore_7 | supreme_small_high_want_much_muscle_promote |  
+| bip_39_word_underscore_8 | supreme_small_high_want_much_muscle_promote_exhaust |  
+| bip_39_word_underscore_9 | supreme_small_high_want_much_muscle_promote_exhaust_wheel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

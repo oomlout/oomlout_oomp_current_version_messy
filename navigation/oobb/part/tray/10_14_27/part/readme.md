@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | egg |  
+| bip_39_word_dash_10 | egg-zoo-denial-oppose-always-coconut-cake-canal-twelve-exhibit |  
+| bip_39_word_dash_11 | egg-zoo-denial-oppose-always-coconut-cake-canal-twelve-exhibit-emerge |  
+| bip_39_word_dash_12 | egg-zoo-denial-oppose-always-coconut-cake-canal-twelve-exhibit-emerge-aspect |  
+| bip_39_word_dash_2 | egg-zoo |  
+| bip_39_word_dash_3 | egg-zoo-denial |  
+| bip_39_word_dash_4 | egg-zoo-denial-oppose |  
+| bip_39_word_dash_5 | egg-zoo-denial-oppose-always |  
+| bip_39_word_dash_6 | egg-zoo-denial-oppose-always-coconut |  
+| bip_39_word_dash_7 | egg-zoo-denial-oppose-always-coconut-cake |  
+| bip_39_word_dash_8 | egg-zoo-denial-oppose-always-coconut-cake-canal |  
+| bip_39_word_dash_9 | egg-zoo-denial-oppose-always-coconut-cake-canal-twelve |  
 | bip_39_word_new_br_1 | egg |  
 | bip_39_word_new_br_10 | egg<br>zoo<br>denial<br>oppose<br>always<br>coconut<br>cake<br>canal<br>twelve<br>exhibit |  
 | bip_39_word_new_br_11 | egg<br>zoo<br>denial<br>oppose<br>always<br>coconut<br>cake<br>canal<br>twelve<br>exhibit<br>emerge |  
@@ -147,6 +159,18 @@ twelve |
 | bip_39_word_space_7 | egg zoo denial oppose always coconut cake |  
 | bip_39_word_space_8 | egg zoo denial oppose always coconut cake canal |  
 | bip_39_word_space_9 | egg zoo denial oppose always coconut cake canal twelve |  
+| bip_39_word_underscore_1 | egg |  
+| bip_39_word_underscore_10 | egg_zoo_denial_oppose_always_coconut_cake_canal_twelve_exhibit |  
+| bip_39_word_underscore_11 | egg_zoo_denial_oppose_always_coconut_cake_canal_twelve_exhibit_emerge |  
+| bip_39_word_underscore_12 | egg_zoo_denial_oppose_always_coconut_cake_canal_twelve_exhibit_emerge_aspect |  
+| bip_39_word_underscore_2 | egg_zoo |  
+| bip_39_word_underscore_3 | egg_zoo_denial |  
+| bip_39_word_underscore_4 | egg_zoo_denial_oppose |  
+| bip_39_word_underscore_5 | egg_zoo_denial_oppose_always |  
+| bip_39_word_underscore_6 | egg_zoo_denial_oppose_always_coconut |  
+| bip_39_word_underscore_7 | egg_zoo_denial_oppose_always_coconut_cake |  
+| bip_39_word_underscore_8 | egg_zoo_denial_oppose_always_coconut_cake_canal |  
+| bip_39_word_underscore_9 | egg_zoo_denial_oppose_always_coconut_cake_canal_twelve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

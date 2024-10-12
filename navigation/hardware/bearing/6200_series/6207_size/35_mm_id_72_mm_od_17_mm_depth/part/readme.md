@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | deal |  
+| bip_39_word_dash_10 | deal-pull-core-betray-analyst-school-sea-like-sheriff-defy |  
+| bip_39_word_dash_11 | deal-pull-core-betray-analyst-school-sea-like-sheriff-defy-dice |  
+| bip_39_word_dash_12 | deal-pull-core-betray-analyst-school-sea-like-sheriff-defy-dice-amount |  
+| bip_39_word_dash_2 | deal-pull |  
+| bip_39_word_dash_3 | deal-pull-core |  
+| bip_39_word_dash_4 | deal-pull-core-betray |  
+| bip_39_word_dash_5 | deal-pull-core-betray-analyst |  
+| bip_39_word_dash_6 | deal-pull-core-betray-analyst-school |  
+| bip_39_word_dash_7 | deal-pull-core-betray-analyst-school-sea |  
+| bip_39_word_dash_8 | deal-pull-core-betray-analyst-school-sea-like |  
+| bip_39_word_dash_9 | deal-pull-core-betray-analyst-school-sea-like-sheriff |  
 | bip_39_word_new_br_1 | deal |  
 | bip_39_word_new_br_10 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like<br>sheriff<br>defy |  
 | bip_39_word_new_br_11 | deal<br>pull<br>core<br>betray<br>analyst<br>school<br>sea<br>like<br>sheriff<br>defy<br>dice |  
@@ -147,6 +159,18 @@ sheriff |
 | bip_39_word_space_7 | deal pull core betray analyst school sea |  
 | bip_39_word_space_8 | deal pull core betray analyst school sea like |  
 | bip_39_word_space_9 | deal pull core betray analyst school sea like sheriff |  
+| bip_39_word_underscore_1 | deal |  
+| bip_39_word_underscore_10 | deal_pull_core_betray_analyst_school_sea_like_sheriff_defy |  
+| bip_39_word_underscore_11 | deal_pull_core_betray_analyst_school_sea_like_sheriff_defy_dice |  
+| bip_39_word_underscore_12 | deal_pull_core_betray_analyst_school_sea_like_sheriff_defy_dice_amount |  
+| bip_39_word_underscore_2 | deal_pull |  
+| bip_39_word_underscore_3 | deal_pull_core |  
+| bip_39_word_underscore_4 | deal_pull_core_betray |  
+| bip_39_word_underscore_5 | deal_pull_core_betray_analyst |  
+| bip_39_word_underscore_6 | deal_pull_core_betray_analyst_school |  
+| bip_39_word_underscore_7 | deal_pull_core_betray_analyst_school_sea |  
+| bip_39_word_underscore_8 | deal_pull_core_betray_analyst_school_sea_like |  
+| bip_39_word_underscore_9 | deal_pull_core_betray_analyst_school_sea_like_sheriff |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

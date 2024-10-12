@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dial |  
+| bip_39_word_dash_10 | dial-embark-number-alert-nation-winner-village-version-scrub-castle |  
+| bip_39_word_dash_11 | dial-embark-number-alert-nation-winner-village-version-scrub-castle-science |  
+| bip_39_word_dash_12 | dial-embark-number-alert-nation-winner-village-version-scrub-castle-science-army |  
+| bip_39_word_dash_2 | dial-embark |  
+| bip_39_word_dash_3 | dial-embark-number |  
+| bip_39_word_dash_4 | dial-embark-number-alert |  
+| bip_39_word_dash_5 | dial-embark-number-alert-nation |  
+| bip_39_word_dash_6 | dial-embark-number-alert-nation-winner |  
+| bip_39_word_dash_7 | dial-embark-number-alert-nation-winner-village |  
+| bip_39_word_dash_8 | dial-embark-number-alert-nation-winner-village-version |  
+| bip_39_word_dash_9 | dial-embark-number-alert-nation-winner-village-version-scrub |  
 | bip_39_word_new_br_1 | dial |  
 | bip_39_word_new_br_10 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle |  
 | bip_39_word_new_br_11 | dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle<br>science |  
@@ -147,6 +159,18 @@ scrub |
 | bip_39_word_space_7 | dial embark number alert nation winner village |  
 | bip_39_word_space_8 | dial embark number alert nation winner village version |  
 | bip_39_word_space_9 | dial embark number alert nation winner village version scrub |  
+| bip_39_word_underscore_1 | dial |  
+| bip_39_word_underscore_10 | dial_embark_number_alert_nation_winner_village_version_scrub_castle |  
+| bip_39_word_underscore_11 | dial_embark_number_alert_nation_winner_village_version_scrub_castle_science |  
+| bip_39_word_underscore_12 | dial_embark_number_alert_nation_winner_village_version_scrub_castle_science_army |  
+| bip_39_word_underscore_2 | dial_embark |  
+| bip_39_word_underscore_3 | dial_embark_number |  
+| bip_39_word_underscore_4 | dial_embark_number_alert |  
+| bip_39_word_underscore_5 | dial_embark_number_alert_nation |  
+| bip_39_word_underscore_6 | dial_embark_number_alert_nation_winner |  
+| bip_39_word_underscore_7 | dial_embark_number_alert_nation_winner_village |  
+| bip_39_word_underscore_8 | dial_embark_number_alert_nation_winner_village_version |  
+| bip_39_word_underscore_9 | dial_embark_number_alert_nation_winner_village_version_scrub |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

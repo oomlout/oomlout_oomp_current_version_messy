@@ -1,3 +1,15 @@
+bip_39_word_dash_1: disagree
+bip_39_word_dash_10: disagree-ostrich-salt-luxury-become-voyage-pond-bonus-bottom-sweet
+bip_39_word_dash_11: disagree-ostrich-salt-luxury-become-voyage-pond-bonus-bottom-sweet-ugly
+bip_39_word_dash_12: disagree-ostrich-salt-luxury-become-voyage-pond-bonus-bottom-sweet-ugly-around
+bip_39_word_dash_2: disagree-ostrich
+bip_39_word_dash_3: disagree-ostrich-salt
+bip_39_word_dash_4: disagree-ostrich-salt-luxury
+bip_39_word_dash_5: disagree-ostrich-salt-luxury-become
+bip_39_word_dash_6: disagree-ostrich-salt-luxury-become-voyage
+bip_39_word_dash_7: disagree-ostrich-salt-luxury-become-voyage-pond
+bip_39_word_dash_8: disagree-ostrich-salt-luxury-become-voyage-pond-bonus
+bip_39_word_dash_9: disagree-ostrich-salt-luxury-become-voyage-pond-bonus-bottom
 bip_39_word_new_br_1: disagree
 bip_39_word_new_br_10: disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus<br>bottom<br>sweet
 bip_39_word_new_br_11: disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus<br>bottom<br>sweet<br>ugly
@@ -194,6 +206,18 @@ bip_39_word_space_6: disagree ostrich salt luxury become voyage
 bip_39_word_space_7: disagree ostrich salt luxury become voyage pond
 bip_39_word_space_8: disagree ostrich salt luxury become voyage pond bonus
 bip_39_word_space_9: disagree ostrich salt luxury become voyage pond bonus bottom
+bip_39_word_underscore_1: disagree
+bip_39_word_underscore_10: disagree_ostrich_salt_luxury_become_voyage_pond_bonus_bottom_sweet
+bip_39_word_underscore_11: disagree_ostrich_salt_luxury_become_voyage_pond_bonus_bottom_sweet_ugly
+bip_39_word_underscore_12: disagree_ostrich_salt_luxury_become_voyage_pond_bonus_bottom_sweet_ugly_around
+bip_39_word_underscore_2: disagree_ostrich
+bip_39_word_underscore_3: disagree_ostrich_salt
+bip_39_word_underscore_4: disagree_ostrich_salt_luxury
+bip_39_word_underscore_5: disagree_ostrich_salt_luxury_become
+bip_39_word_underscore_6: disagree_ostrich_salt_luxury_become_voyage
+bip_39_word_underscore_7: disagree_ostrich_salt_luxury_become_voyage_pond
+bip_39_word_underscore_8: disagree_ostrich_salt_luxury_become_voyage_pond_bonus
+bip_39_word_underscore_9: disagree_ostrich_salt_luxury_become_voyage_pond_bonus_bottom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

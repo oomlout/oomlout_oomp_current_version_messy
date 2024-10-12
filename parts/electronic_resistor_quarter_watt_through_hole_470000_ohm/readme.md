@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | awful |  
+| bip_39_word_dash_10 | awful-match-unit-unlock-amateur-crater-dish-decade-print-romance |  
+| bip_39_word_dash_11 | awful-match-unit-unlock-amateur-crater-dish-decade-print-romance-figure |  
+| bip_39_word_dash_12 | awful-match-unit-unlock-amateur-crater-dish-decade-print-romance-figure-advance |  
+| bip_39_word_dash_2 | awful-match |  
+| bip_39_word_dash_3 | awful-match-unit |  
+| bip_39_word_dash_4 | awful-match-unit-unlock |  
+| bip_39_word_dash_5 | awful-match-unit-unlock-amateur |  
+| bip_39_word_dash_6 | awful-match-unit-unlock-amateur-crater |  
+| bip_39_word_dash_7 | awful-match-unit-unlock-amateur-crater-dish |  
+| bip_39_word_dash_8 | awful-match-unit-unlock-amateur-crater-dish-decade |  
+| bip_39_word_dash_9 | awful-match-unit-unlock-amateur-crater-dish-decade-print |  
 | bip_39_word_new_br_1 | awful |  
 | bip_39_word_new_br_10 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade<br>print<br>romance |  
 | bip_39_word_new_br_11 | awful<br>match<br>unit<br>unlock<br>amateur<br>crater<br>dish<br>decade<br>print<br>romance<br>figure |  
@@ -147,6 +159,18 @@ print |
 | bip_39_word_space_7 | awful match unit unlock amateur crater dish |  
 | bip_39_word_space_8 | awful match unit unlock amateur crater dish decade |  
 | bip_39_word_space_9 | awful match unit unlock amateur crater dish decade print |  
+| bip_39_word_underscore_1 | awful |  
+| bip_39_word_underscore_10 | awful_match_unit_unlock_amateur_crater_dish_decade_print_romance |  
+| bip_39_word_underscore_11 | awful_match_unit_unlock_amateur_crater_dish_decade_print_romance_figure |  
+| bip_39_word_underscore_12 | awful_match_unit_unlock_amateur_crater_dish_decade_print_romance_figure_advance |  
+| bip_39_word_underscore_2 | awful_match |  
+| bip_39_word_underscore_3 | awful_match_unit |  
+| bip_39_word_underscore_4 | awful_match_unit_unlock |  
+| bip_39_word_underscore_5 | awful_match_unit_unlock_amateur |  
+| bip_39_word_underscore_6 | awful_match_unit_unlock_amateur_crater |  
+| bip_39_word_underscore_7 | awful_match_unit_unlock_amateur_crater_dish |  
+| bip_39_word_underscore_8 | awful_match_unit_unlock_amateur_crater_dish_decade |  
+| bip_39_word_underscore_9 | awful_match_unit_unlock_amateur_crater_dish_decade_print |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

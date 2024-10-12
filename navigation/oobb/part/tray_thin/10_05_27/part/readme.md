@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | feel |  
+| bip_39_word_dash_10 | feel-fiscal-horror-fire-extend-response-cement-clutch-skull-embark |  
+| bip_39_word_dash_11 | feel-fiscal-horror-fire-extend-response-cement-clutch-skull-embark-shuffle |  
+| bip_39_word_dash_12 | feel-fiscal-horror-fire-extend-response-cement-clutch-skull-embark-shuffle-airport |  
+| bip_39_word_dash_2 | feel-fiscal |  
+| bip_39_word_dash_3 | feel-fiscal-horror |  
+| bip_39_word_dash_4 | feel-fiscal-horror-fire |  
+| bip_39_word_dash_5 | feel-fiscal-horror-fire-extend |  
+| bip_39_word_dash_6 | feel-fiscal-horror-fire-extend-response |  
+| bip_39_word_dash_7 | feel-fiscal-horror-fire-extend-response-cement |  
+| bip_39_word_dash_8 | feel-fiscal-horror-fire-extend-response-cement-clutch |  
+| bip_39_word_dash_9 | feel-fiscal-horror-fire-extend-response-cement-clutch-skull |  
 | bip_39_word_new_br_1 | feel |  
 | bip_39_word_new_br_10 | feel<br>fiscal<br>horror<br>fire<br>extend<br>response<br>cement<br>clutch<br>skull<br>embark |  
 | bip_39_word_new_br_11 | feel<br>fiscal<br>horror<br>fire<br>extend<br>response<br>cement<br>clutch<br>skull<br>embark<br>shuffle |  
@@ -147,6 +159,18 @@ skull |
 | bip_39_word_space_7 | feel fiscal horror fire extend response cement |  
 | bip_39_word_space_8 | feel fiscal horror fire extend response cement clutch |  
 | bip_39_word_space_9 | feel fiscal horror fire extend response cement clutch skull |  
+| bip_39_word_underscore_1 | feel |  
+| bip_39_word_underscore_10 | feel_fiscal_horror_fire_extend_response_cement_clutch_skull_embark |  
+| bip_39_word_underscore_11 | feel_fiscal_horror_fire_extend_response_cement_clutch_skull_embark_shuffle |  
+| bip_39_word_underscore_12 | feel_fiscal_horror_fire_extend_response_cement_clutch_skull_embark_shuffle_airport |  
+| bip_39_word_underscore_2 | feel_fiscal |  
+| bip_39_word_underscore_3 | feel_fiscal_horror |  
+| bip_39_word_underscore_4 | feel_fiscal_horror_fire |  
+| bip_39_word_underscore_5 | feel_fiscal_horror_fire_extend |  
+| bip_39_word_underscore_6 | feel_fiscal_horror_fire_extend_response |  
+| bip_39_word_underscore_7 | feel_fiscal_horror_fire_extend_response_cement |  
+| bip_39_word_underscore_8 | feel_fiscal_horror_fire_extend_response_cement_clutch |  
+| bip_39_word_underscore_9 | feel_fiscal_horror_fire_extend_response_cement_clutch_skull |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

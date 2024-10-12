@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | liberty |  
+| bip_39_word_dash_10 | liberty-sea-inhale-stone-buyer-deny-junior-village-army-taxi |  
+| bip_39_word_dash_11 | liberty-sea-inhale-stone-buyer-deny-junior-village-army-taxi-pepper |  
+| bip_39_word_dash_12 | liberty-sea-inhale-stone-buyer-deny-junior-village-army-taxi-pepper-access |  
+| bip_39_word_dash_2 | liberty-sea |  
+| bip_39_word_dash_3 | liberty-sea-inhale |  
+| bip_39_word_dash_4 | liberty-sea-inhale-stone |  
+| bip_39_word_dash_5 | liberty-sea-inhale-stone-buyer |  
+| bip_39_word_dash_6 | liberty-sea-inhale-stone-buyer-deny |  
+| bip_39_word_dash_7 | liberty-sea-inhale-stone-buyer-deny-junior |  
+| bip_39_word_dash_8 | liberty-sea-inhale-stone-buyer-deny-junior-village |  
+| bip_39_word_dash_9 | liberty-sea-inhale-stone-buyer-deny-junior-village-army |  
 | bip_39_word_new_br_1 | liberty |  
 | bip_39_word_new_br_10 | liberty<br>sea<br>inhale<br>stone<br>buyer<br>deny<br>junior<br>village<br>army<br>taxi |  
 | bip_39_word_new_br_11 | liberty<br>sea<br>inhale<br>stone<br>buyer<br>deny<br>junior<br>village<br>army<br>taxi<br>pepper |  
@@ -147,6 +159,18 @@ army |
 | bip_39_word_space_7 | liberty sea inhale stone buyer deny junior |  
 | bip_39_word_space_8 | liberty sea inhale stone buyer deny junior village |  
 | bip_39_word_space_9 | liberty sea inhale stone buyer deny junior village army |  
+| bip_39_word_underscore_1 | liberty |  
+| bip_39_word_underscore_10 | liberty_sea_inhale_stone_buyer_deny_junior_village_army_taxi |  
+| bip_39_word_underscore_11 | liberty_sea_inhale_stone_buyer_deny_junior_village_army_taxi_pepper |  
+| bip_39_word_underscore_12 | liberty_sea_inhale_stone_buyer_deny_junior_village_army_taxi_pepper_access |  
+| bip_39_word_underscore_2 | liberty_sea |  
+| bip_39_word_underscore_3 | liberty_sea_inhale |  
+| bip_39_word_underscore_4 | liberty_sea_inhale_stone |  
+| bip_39_word_underscore_5 | liberty_sea_inhale_stone_buyer |  
+| bip_39_word_underscore_6 | liberty_sea_inhale_stone_buyer_deny |  
+| bip_39_word_underscore_7 | liberty_sea_inhale_stone_buyer_deny_junior |  
+| bip_39_word_underscore_8 | liberty_sea_inhale_stone_buyer_deny_junior_village |  
+| bip_39_word_underscore_9 | liberty_sea_inhale_stone_buyer_deny_junior_village_army |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pupil |  
+| bip_39_word_dash_10 | pupil-door-crystal-local-split-sudden-wage-leopard-crawl-table |  
+| bip_39_word_dash_11 | pupil-door-crystal-local-split-sudden-wage-leopard-crawl-table-width |  
+| bip_39_word_dash_12 | pupil-door-crystal-local-split-sudden-wage-leopard-crawl-table-width-achieve |  
+| bip_39_word_dash_2 | pupil-door |  
+| bip_39_word_dash_3 | pupil-door-crystal |  
+| bip_39_word_dash_4 | pupil-door-crystal-local |  
+| bip_39_word_dash_5 | pupil-door-crystal-local-split |  
+| bip_39_word_dash_6 | pupil-door-crystal-local-split-sudden |  
+| bip_39_word_dash_7 | pupil-door-crystal-local-split-sudden-wage |  
+| bip_39_word_dash_8 | pupil-door-crystal-local-split-sudden-wage-leopard |  
+| bip_39_word_dash_9 | pupil-door-crystal-local-split-sudden-wage-leopard-crawl |  
 | bip_39_word_new_br_1 | pupil |  
 | bip_39_word_new_br_10 | pupil<br>door<br>crystal<br>local<br>split<br>sudden<br>wage<br>leopard<br>crawl<br>table |  
 | bip_39_word_new_br_11 | pupil<br>door<br>crystal<br>local<br>split<br>sudden<br>wage<br>leopard<br>crawl<br>table<br>width |  
@@ -147,6 +159,18 @@ crawl |
 | bip_39_word_space_7 | pupil door crystal local split sudden wage |  
 | bip_39_word_space_8 | pupil door crystal local split sudden wage leopard |  
 | bip_39_word_space_9 | pupil door crystal local split sudden wage leopard crawl |  
+| bip_39_word_underscore_1 | pupil |  
+| bip_39_word_underscore_10 | pupil_door_crystal_local_split_sudden_wage_leopard_crawl_table |  
+| bip_39_word_underscore_11 | pupil_door_crystal_local_split_sudden_wage_leopard_crawl_table_width |  
+| bip_39_word_underscore_12 | pupil_door_crystal_local_split_sudden_wage_leopard_crawl_table_width_achieve |  
+| bip_39_word_underscore_2 | pupil_door |  
+| bip_39_word_underscore_3 | pupil_door_crystal |  
+| bip_39_word_underscore_4 | pupil_door_crystal_local |  
+| bip_39_word_underscore_5 | pupil_door_crystal_local_split |  
+| bip_39_word_underscore_6 | pupil_door_crystal_local_split_sudden |  
+| bip_39_word_underscore_7 | pupil_door_crystal_local_split_sudden_wage |  
+| bip_39_word_underscore_8 | pupil_door_crystal_local_split_sudden_wage_leopard |  
+| bip_39_word_underscore_9 | pupil_door_crystal_local_split_sudden_wage_leopard_crawl |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

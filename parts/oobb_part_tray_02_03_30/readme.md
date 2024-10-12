@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bamboo |  
+| bip_39_word_dash_10 | bamboo-coach-upset-team-priority-fashion-weekend-train-can-snack |  
+| bip_39_word_dash_11 | bamboo-coach-upset-team-priority-fashion-weekend-train-can-snack-unfold |  
+| bip_39_word_dash_12 | bamboo-coach-upset-team-priority-fashion-weekend-train-can-snack-unfold-alley |  
+| bip_39_word_dash_2 | bamboo-coach |  
+| bip_39_word_dash_3 | bamboo-coach-upset |  
+| bip_39_word_dash_4 | bamboo-coach-upset-team |  
+| bip_39_word_dash_5 | bamboo-coach-upset-team-priority |  
+| bip_39_word_dash_6 | bamboo-coach-upset-team-priority-fashion |  
+| bip_39_word_dash_7 | bamboo-coach-upset-team-priority-fashion-weekend |  
+| bip_39_word_dash_8 | bamboo-coach-upset-team-priority-fashion-weekend-train |  
+| bip_39_word_dash_9 | bamboo-coach-upset-team-priority-fashion-weekend-train-can |  
 | bip_39_word_new_br_1 | bamboo |  
 | bip_39_word_new_br_10 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack |  
 | bip_39_word_new_br_11 | bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack<br>unfold |  
@@ -147,6 +159,18 @@ can |
 | bip_39_word_space_7 | bamboo coach upset team priority fashion weekend |  
 | bip_39_word_space_8 | bamboo coach upset team priority fashion weekend train |  
 | bip_39_word_space_9 | bamboo coach upset team priority fashion weekend train can |  
+| bip_39_word_underscore_1 | bamboo |  
+| bip_39_word_underscore_10 | bamboo_coach_upset_team_priority_fashion_weekend_train_can_snack |  
+| bip_39_word_underscore_11 | bamboo_coach_upset_team_priority_fashion_weekend_train_can_snack_unfold |  
+| bip_39_word_underscore_12 | bamboo_coach_upset_team_priority_fashion_weekend_train_can_snack_unfold_alley |  
+| bip_39_word_underscore_2 | bamboo_coach |  
+| bip_39_word_underscore_3 | bamboo_coach_upset |  
+| bip_39_word_underscore_4 | bamboo_coach_upset_team |  
+| bip_39_word_underscore_5 | bamboo_coach_upset_team_priority |  
+| bip_39_word_underscore_6 | bamboo_coach_upset_team_priority_fashion |  
+| bip_39_word_underscore_7 | bamboo_coach_upset_team_priority_fashion_weekend |  
+| bip_39_word_underscore_8 | bamboo_coach_upset_team_priority_fashion_weekend_train |  
+| bip_39_word_underscore_9 | bamboo_coach_upset_team_priority_fashion_weekend_train_can |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

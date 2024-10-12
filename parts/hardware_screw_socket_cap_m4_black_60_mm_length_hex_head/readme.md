@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soda |  
+| bip_39_word_dash_10 | soda-cart-tongue-apple-crouch-paper-surround-pelican-control-tunnel |  
+| bip_39_word_dash_11 | soda-cart-tongue-apple-crouch-paper-surround-pelican-control-tunnel-ring |  
+| bip_39_word_dash_12 | soda-cart-tongue-apple-crouch-paper-surround-pelican-control-tunnel-ring-amazing |  
+| bip_39_word_dash_2 | soda-cart |  
+| bip_39_word_dash_3 | soda-cart-tongue |  
+| bip_39_word_dash_4 | soda-cart-tongue-apple |  
+| bip_39_word_dash_5 | soda-cart-tongue-apple-crouch |  
+| bip_39_word_dash_6 | soda-cart-tongue-apple-crouch-paper |  
+| bip_39_word_dash_7 | soda-cart-tongue-apple-crouch-paper-surround |  
+| bip_39_word_dash_8 | soda-cart-tongue-apple-crouch-paper-surround-pelican |  
+| bip_39_word_dash_9 | soda-cart-tongue-apple-crouch-paper-surround-pelican-control |  
 | bip_39_word_new_br_1 | soda |  
 | bip_39_word_new_br_10 | soda<br>cart<br>tongue<br>apple<br>crouch<br>paper<br>surround<br>pelican<br>control<br>tunnel |  
 | bip_39_word_new_br_11 | soda<br>cart<br>tongue<br>apple<br>crouch<br>paper<br>surround<br>pelican<br>control<br>tunnel<br>ring |  
@@ -147,6 +159,18 @@ control |
 | bip_39_word_space_7 | soda cart tongue apple crouch paper surround |  
 | bip_39_word_space_8 | soda cart tongue apple crouch paper surround pelican |  
 | bip_39_word_space_9 | soda cart tongue apple crouch paper surround pelican control |  
+| bip_39_word_underscore_1 | soda |  
+| bip_39_word_underscore_10 | soda_cart_tongue_apple_crouch_paper_surround_pelican_control_tunnel |  
+| bip_39_word_underscore_11 | soda_cart_tongue_apple_crouch_paper_surround_pelican_control_tunnel_ring |  
+| bip_39_word_underscore_12 | soda_cart_tongue_apple_crouch_paper_surround_pelican_control_tunnel_ring_amazing |  
+| bip_39_word_underscore_2 | soda_cart |  
+| bip_39_word_underscore_3 | soda_cart_tongue |  
+| bip_39_word_underscore_4 | soda_cart_tongue_apple |  
+| bip_39_word_underscore_5 | soda_cart_tongue_apple_crouch |  
+| bip_39_word_underscore_6 | soda_cart_tongue_apple_crouch_paper |  
+| bip_39_word_underscore_7 | soda_cart_tongue_apple_crouch_paper_surround |  
+| bip_39_word_underscore_8 | soda_cart_tongue_apple_crouch_paper_surround_pelican |  
+| bip_39_word_underscore_9 | soda_cart_tongue_apple_crouch_paper_surround_pelican_control |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

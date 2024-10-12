@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | predict |  
+| bip_39_word_dash_10 | predict-catch-pill-spin-spider-pottery-rude-art-account-nest |  
+| bip_39_word_dash_11 | predict-catch-pill-spin-spider-pottery-rude-art-account-nest-term |  
+| bip_39_word_dash_12 | predict-catch-pill-spin-spider-pottery-rude-art-account-nest-term-asset |  
+| bip_39_word_dash_2 | predict-catch |  
+| bip_39_word_dash_3 | predict-catch-pill |  
+| bip_39_word_dash_4 | predict-catch-pill-spin |  
+| bip_39_word_dash_5 | predict-catch-pill-spin-spider |  
+| bip_39_word_dash_6 | predict-catch-pill-spin-spider-pottery |  
+| bip_39_word_dash_7 | predict-catch-pill-spin-spider-pottery-rude |  
+| bip_39_word_dash_8 | predict-catch-pill-spin-spider-pottery-rude-art |  
+| bip_39_word_dash_9 | predict-catch-pill-spin-spider-pottery-rude-art-account |  
 | bip_39_word_new_br_1 | predict |  
 | bip_39_word_new_br_10 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art<br>account<br>nest |  
 | bip_39_word_new_br_11 | predict<br>catch<br>pill<br>spin<br>spider<br>pottery<br>rude<br>art<br>account<br>nest<br>term |  
@@ -147,6 +159,18 @@ account |
 | bip_39_word_space_7 | predict catch pill spin spider pottery rude |  
 | bip_39_word_space_8 | predict catch pill spin spider pottery rude art |  
 | bip_39_word_space_9 | predict catch pill spin spider pottery rude art account |  
+| bip_39_word_underscore_1 | predict |  
+| bip_39_word_underscore_10 | predict_catch_pill_spin_spider_pottery_rude_art_account_nest |  
+| bip_39_word_underscore_11 | predict_catch_pill_spin_spider_pottery_rude_art_account_nest_term |  
+| bip_39_word_underscore_12 | predict_catch_pill_spin_spider_pottery_rude_art_account_nest_term_asset |  
+| bip_39_word_underscore_2 | predict_catch |  
+| bip_39_word_underscore_3 | predict_catch_pill |  
+| bip_39_word_underscore_4 | predict_catch_pill_spin |  
+| bip_39_word_underscore_5 | predict_catch_pill_spin_spider |  
+| bip_39_word_underscore_6 | predict_catch_pill_spin_spider_pottery |  
+| bip_39_word_underscore_7 | predict_catch_pill_spin_spider_pottery_rude |  
+| bip_39_word_underscore_8 | predict_catch_pill_spin_spider_pottery_rude_art |  
+| bip_39_word_underscore_9 | predict_catch_pill_spin_spider_pottery_rude_art_account |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

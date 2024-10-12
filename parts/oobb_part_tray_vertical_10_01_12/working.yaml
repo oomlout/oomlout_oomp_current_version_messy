@@ -1,3 +1,15 @@
+bip_39_word_dash_1: emotion
+bip_39_word_dash_10: emotion-change-decide-affair-chalk-media-peasant-shuffle-smile-soda
+bip_39_word_dash_11: emotion-change-decide-affair-chalk-media-peasant-shuffle-smile-soda-typical
+bip_39_word_dash_12: emotion-change-decide-affair-chalk-media-peasant-shuffle-smile-soda-typical-arm
+bip_39_word_dash_2: emotion-change
+bip_39_word_dash_3: emotion-change-decide
+bip_39_word_dash_4: emotion-change-decide-affair
+bip_39_word_dash_5: emotion-change-decide-affair-chalk
+bip_39_word_dash_6: emotion-change-decide-affair-chalk-media
+bip_39_word_dash_7: emotion-change-decide-affair-chalk-media-peasant
+bip_39_word_dash_8: emotion-change-decide-affair-chalk-media-peasant-shuffle
+bip_39_word_dash_9: emotion-change-decide-affair-chalk-media-peasant-shuffle-smile
 bip_39_word_new_br_1: emotion
 bip_39_word_new_br_10: emotion<br>change<br>decide<br>affair<br>chalk<br>media<br>peasant<br>shuffle<br>smile<br>soda
 bip_39_word_new_br_11: emotion<br>change<br>decide<br>affair<br>chalk<br>media<br>peasant<br>shuffle<br>smile<br>soda<br>typical
@@ -194,6 +206,18 @@ bip_39_word_space_6: emotion change decide affair chalk media
 bip_39_word_space_7: emotion change decide affair chalk media peasant
 bip_39_word_space_8: emotion change decide affair chalk media peasant shuffle
 bip_39_word_space_9: emotion change decide affair chalk media peasant shuffle smile
+bip_39_word_underscore_1: emotion
+bip_39_word_underscore_10: emotion_change_decide_affair_chalk_media_peasant_shuffle_smile_soda
+bip_39_word_underscore_11: emotion_change_decide_affair_chalk_media_peasant_shuffle_smile_soda_typical
+bip_39_word_underscore_12: emotion_change_decide_affair_chalk_media_peasant_shuffle_smile_soda_typical_arm
+bip_39_word_underscore_2: emotion_change
+bip_39_word_underscore_3: emotion_change_decide
+bip_39_word_underscore_4: emotion_change_decide_affair
+bip_39_word_underscore_5: emotion_change_decide_affair_chalk
+bip_39_word_underscore_6: emotion_change_decide_affair_chalk_media
+bip_39_word_underscore_7: emotion_change_decide_affair_chalk_media_peasant
+bip_39_word_underscore_8: emotion_change_decide_affair_chalk_media_peasant_shuffle
+bip_39_word_underscore_9: emotion_change_decide_affair_chalk_media_peasant_shuffle_smile
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

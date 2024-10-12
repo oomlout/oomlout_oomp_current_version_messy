@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shoe |  
+| bip_39_word_dash_10 | shoe-bomb-cousin-weather-gallery-alter-abstract-deal-history-camp |  
+| bip_39_word_dash_11 | shoe-bomb-cousin-weather-gallery-alter-abstract-deal-history-camp-gossip |  
+| bip_39_word_dash_12 | shoe-bomb-cousin-weather-gallery-alter-abstract-deal-history-camp-gossip-approve |  
+| bip_39_word_dash_2 | shoe-bomb |  
+| bip_39_word_dash_3 | shoe-bomb-cousin |  
+| bip_39_word_dash_4 | shoe-bomb-cousin-weather |  
+| bip_39_word_dash_5 | shoe-bomb-cousin-weather-gallery |  
+| bip_39_word_dash_6 | shoe-bomb-cousin-weather-gallery-alter |  
+| bip_39_word_dash_7 | shoe-bomb-cousin-weather-gallery-alter-abstract |  
+| bip_39_word_dash_8 | shoe-bomb-cousin-weather-gallery-alter-abstract-deal |  
+| bip_39_word_dash_9 | shoe-bomb-cousin-weather-gallery-alter-abstract-deal-history |  
 | bip_39_word_new_br_1 | shoe |  
 | bip_39_word_new_br_10 | shoe<br>bomb<br>cousin<br>weather<br>gallery<br>alter<br>abstract<br>deal<br>history<br>camp |  
 | bip_39_word_new_br_11 | shoe<br>bomb<br>cousin<br>weather<br>gallery<br>alter<br>abstract<br>deal<br>history<br>camp<br>gossip |  
@@ -147,6 +159,18 @@ history |
 | bip_39_word_space_7 | shoe bomb cousin weather gallery alter abstract |  
 | bip_39_word_space_8 | shoe bomb cousin weather gallery alter abstract deal |  
 | bip_39_word_space_9 | shoe bomb cousin weather gallery alter abstract deal history |  
+| bip_39_word_underscore_1 | shoe |  
+| bip_39_word_underscore_10 | shoe_bomb_cousin_weather_gallery_alter_abstract_deal_history_camp |  
+| bip_39_word_underscore_11 | shoe_bomb_cousin_weather_gallery_alter_abstract_deal_history_camp_gossip |  
+| bip_39_word_underscore_12 | shoe_bomb_cousin_weather_gallery_alter_abstract_deal_history_camp_gossip_approve |  
+| bip_39_word_underscore_2 | shoe_bomb |  
+| bip_39_word_underscore_3 | shoe_bomb_cousin |  
+| bip_39_word_underscore_4 | shoe_bomb_cousin_weather |  
+| bip_39_word_underscore_5 | shoe_bomb_cousin_weather_gallery |  
+| bip_39_word_underscore_6 | shoe_bomb_cousin_weather_gallery_alter |  
+| bip_39_word_underscore_7 | shoe_bomb_cousin_weather_gallery_alter_abstract |  
+| bip_39_word_underscore_8 | shoe_bomb_cousin_weather_gallery_alter_abstract_deal |  
+| bip_39_word_underscore_9 | shoe_bomb_cousin_weather_gallery_alter_abstract_deal_history |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

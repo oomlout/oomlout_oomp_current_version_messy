@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | demise |  
+| bip_39_word_dash_10 | demise-cushion-play-question-wrestle-hill-laptop-ritual-guess-spell |  
+| bip_39_word_dash_11 | demise-cushion-play-question-wrestle-hill-laptop-ritual-guess-spell-mother |  
+| bip_39_word_dash_12 | demise-cushion-play-question-wrestle-hill-laptop-ritual-guess-spell-mother-agree |  
+| bip_39_word_dash_2 | demise-cushion |  
+| bip_39_word_dash_3 | demise-cushion-play |  
+| bip_39_word_dash_4 | demise-cushion-play-question |  
+| bip_39_word_dash_5 | demise-cushion-play-question-wrestle |  
+| bip_39_word_dash_6 | demise-cushion-play-question-wrestle-hill |  
+| bip_39_word_dash_7 | demise-cushion-play-question-wrestle-hill-laptop |  
+| bip_39_word_dash_8 | demise-cushion-play-question-wrestle-hill-laptop-ritual |  
+| bip_39_word_dash_9 | demise-cushion-play-question-wrestle-hill-laptop-ritual-guess |  
 | bip_39_word_new_br_1 | demise |  
 | bip_39_word_new_br_10 | demise<br>cushion<br>play<br>question<br>wrestle<br>hill<br>laptop<br>ritual<br>guess<br>spell |  
 | bip_39_word_new_br_11 | demise<br>cushion<br>play<br>question<br>wrestle<br>hill<br>laptop<br>ritual<br>guess<br>spell<br>mother |  
@@ -147,6 +159,18 @@ guess |
 | bip_39_word_space_7 | demise cushion play question wrestle hill laptop |  
 | bip_39_word_space_8 | demise cushion play question wrestle hill laptop ritual |  
 | bip_39_word_space_9 | demise cushion play question wrestle hill laptop ritual guess |  
+| bip_39_word_underscore_1 | demise |  
+| bip_39_word_underscore_10 | demise_cushion_play_question_wrestle_hill_laptop_ritual_guess_spell |  
+| bip_39_word_underscore_11 | demise_cushion_play_question_wrestle_hill_laptop_ritual_guess_spell_mother |  
+| bip_39_word_underscore_12 | demise_cushion_play_question_wrestle_hill_laptop_ritual_guess_spell_mother_agree |  
+| bip_39_word_underscore_2 | demise_cushion |  
+| bip_39_word_underscore_3 | demise_cushion_play |  
+| bip_39_word_underscore_4 | demise_cushion_play_question |  
+| bip_39_word_underscore_5 | demise_cushion_play_question_wrestle |  
+| bip_39_word_underscore_6 | demise_cushion_play_question_wrestle_hill |  
+| bip_39_word_underscore_7 | demise_cushion_play_question_wrestle_hill_laptop |  
+| bip_39_word_underscore_8 | demise_cushion_play_question_wrestle_hill_laptop_ritual |  
+| bip_39_word_underscore_9 | demise_cushion_play_question_wrestle_hill_laptop_ritual_guess |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

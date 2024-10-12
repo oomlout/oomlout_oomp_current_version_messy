@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | analyst |  
+| bip_39_word_dash_10 | analyst-try-muscle-treat-depart-sadness-online-annual-match-mixed |  
+| bip_39_word_dash_11 | analyst-try-muscle-treat-depart-sadness-online-annual-match-mixed-gloom |  
+| bip_39_word_dash_12 | analyst-try-muscle-treat-depart-sadness-online-annual-match-mixed-gloom-accuse |  
+| bip_39_word_dash_2 | analyst-try |  
+| bip_39_word_dash_3 | analyst-try-muscle |  
+| bip_39_word_dash_4 | analyst-try-muscle-treat |  
+| bip_39_word_dash_5 | analyst-try-muscle-treat-depart |  
+| bip_39_word_dash_6 | analyst-try-muscle-treat-depart-sadness |  
+| bip_39_word_dash_7 | analyst-try-muscle-treat-depart-sadness-online |  
+| bip_39_word_dash_8 | analyst-try-muscle-treat-depart-sadness-online-annual |  
+| bip_39_word_dash_9 | analyst-try-muscle-treat-depart-sadness-online-annual-match |  
 | bip_39_word_new_br_1 | analyst |  
 | bip_39_word_new_br_10 | analyst<br>try<br>muscle<br>treat<br>depart<br>sadness<br>online<br>annual<br>match<br>mixed |  
 | bip_39_word_new_br_11 | analyst<br>try<br>muscle<br>treat<br>depart<br>sadness<br>online<br>annual<br>match<br>mixed<br>gloom |  
@@ -147,6 +159,18 @@ match |
 | bip_39_word_space_7 | analyst try muscle treat depart sadness online |  
 | bip_39_word_space_8 | analyst try muscle treat depart sadness online annual |  
 | bip_39_word_space_9 | analyst try muscle treat depart sadness online annual match |  
+| bip_39_word_underscore_1 | analyst |  
+| bip_39_word_underscore_10 | analyst_try_muscle_treat_depart_sadness_online_annual_match_mixed |  
+| bip_39_word_underscore_11 | analyst_try_muscle_treat_depart_sadness_online_annual_match_mixed_gloom |  
+| bip_39_word_underscore_12 | analyst_try_muscle_treat_depart_sadness_online_annual_match_mixed_gloom_accuse |  
+| bip_39_word_underscore_2 | analyst_try |  
+| bip_39_word_underscore_3 | analyst_try_muscle |  
+| bip_39_word_underscore_4 | analyst_try_muscle_treat |  
+| bip_39_word_underscore_5 | analyst_try_muscle_treat_depart |  
+| bip_39_word_underscore_6 | analyst_try_muscle_treat_depart_sadness |  
+| bip_39_word_underscore_7 | analyst_try_muscle_treat_depart_sadness_online |  
+| bip_39_word_underscore_8 | analyst_try_muscle_treat_depart_sadness_online_annual |  
+| bip_39_word_underscore_9 | analyst_try_muscle_treat_depart_sadness_online_annual_match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

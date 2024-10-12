@@ -1,3 +1,15 @@
+bip_39_word_dash_1: across
+bip_39_word_dash_10: across-lottery-engage-evil-device-chaos-hobby-zebra-print-keep
+bip_39_word_dash_11: across-lottery-engage-evil-device-chaos-hobby-zebra-print-keep-level
+bip_39_word_dash_12: across-lottery-engage-evil-device-chaos-hobby-zebra-print-keep-level-accuse
+bip_39_word_dash_2: across-lottery
+bip_39_word_dash_3: across-lottery-engage
+bip_39_word_dash_4: across-lottery-engage-evil
+bip_39_word_dash_5: across-lottery-engage-evil-device
+bip_39_word_dash_6: across-lottery-engage-evil-device-chaos
+bip_39_word_dash_7: across-lottery-engage-evil-device-chaos-hobby
+bip_39_word_dash_8: across-lottery-engage-evil-device-chaos-hobby-zebra
+bip_39_word_dash_9: across-lottery-engage-evil-device-chaos-hobby-zebra-print
 bip_39_word_new_br_1: across
 bip_39_word_new_br_10: across<br>lottery<br>engage<br>evil<br>device<br>chaos<br>hobby<br>zebra<br>print<br>keep
 bip_39_word_new_br_11: across<br>lottery<br>engage<br>evil<br>device<br>chaos<br>hobby<br>zebra<br>print<br>keep<br>level
@@ -193,6 +205,18 @@ bip_39_word_space_6: across lottery engage evil device chaos
 bip_39_word_space_7: across lottery engage evil device chaos hobby
 bip_39_word_space_8: across lottery engage evil device chaos hobby zebra
 bip_39_word_space_9: across lottery engage evil device chaos hobby zebra print
+bip_39_word_underscore_1: across
+bip_39_word_underscore_10: across_lottery_engage_evil_device_chaos_hobby_zebra_print_keep
+bip_39_word_underscore_11: across_lottery_engage_evil_device_chaos_hobby_zebra_print_keep_level
+bip_39_word_underscore_12: across_lottery_engage_evil_device_chaos_hobby_zebra_print_keep_level_accuse
+bip_39_word_underscore_2: across_lottery
+bip_39_word_underscore_3: across_lottery_engage
+bip_39_word_underscore_4: across_lottery_engage_evil
+bip_39_word_underscore_5: across_lottery_engage_evil_device
+bip_39_word_underscore_6: across_lottery_engage_evil_device_chaos
+bip_39_word_underscore_7: across_lottery_engage_evil_device_chaos_hobby
+bip_39_word_underscore_8: across_lottery_engage_evil_device_chaos_hobby_zebra
+bip_39_word_underscore_9: across_lottery_engage_evil_device_chaos_hobby_zebra_print
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

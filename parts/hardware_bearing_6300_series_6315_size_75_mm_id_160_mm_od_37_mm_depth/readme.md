@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diamond |  
+| bip_39_word_dash_10 | diamond-enter-borrow-swamp-host-stable-second-various-ostrich-patient |  
+| bip_39_word_dash_11 | diamond-enter-borrow-swamp-host-stable-second-various-ostrich-patient-actual |  
+| bip_39_word_dash_12 | diamond-enter-borrow-swamp-host-stable-second-various-ostrich-patient-actual-alert |  
+| bip_39_word_dash_2 | diamond-enter |  
+| bip_39_word_dash_3 | diamond-enter-borrow |  
+| bip_39_word_dash_4 | diamond-enter-borrow-swamp |  
+| bip_39_word_dash_5 | diamond-enter-borrow-swamp-host |  
+| bip_39_word_dash_6 | diamond-enter-borrow-swamp-host-stable |  
+| bip_39_word_dash_7 | diamond-enter-borrow-swamp-host-stable-second |  
+| bip_39_word_dash_8 | diamond-enter-borrow-swamp-host-stable-second-various |  
+| bip_39_word_dash_9 | diamond-enter-borrow-swamp-host-stable-second-various-ostrich |  
 | bip_39_word_new_br_1 | diamond |  
 | bip_39_word_new_br_10 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various<br>ostrich<br>patient |  
 | bip_39_word_new_br_11 | diamond<br>enter<br>borrow<br>swamp<br>host<br>stable<br>second<br>various<br>ostrich<br>patient<br>actual |  
@@ -147,6 +159,18 @@ ostrich |
 | bip_39_word_space_7 | diamond enter borrow swamp host stable second |  
 | bip_39_word_space_8 | diamond enter borrow swamp host stable second various |  
 | bip_39_word_space_9 | diamond enter borrow swamp host stable second various ostrich |  
+| bip_39_word_underscore_1 | diamond |  
+| bip_39_word_underscore_10 | diamond_enter_borrow_swamp_host_stable_second_various_ostrich_patient |  
+| bip_39_word_underscore_11 | diamond_enter_borrow_swamp_host_stable_second_various_ostrich_patient_actual |  
+| bip_39_word_underscore_12 | diamond_enter_borrow_swamp_host_stable_second_various_ostrich_patient_actual_alert |  
+| bip_39_word_underscore_2 | diamond_enter |  
+| bip_39_word_underscore_3 | diamond_enter_borrow |  
+| bip_39_word_underscore_4 | diamond_enter_borrow_swamp |  
+| bip_39_word_underscore_5 | diamond_enter_borrow_swamp_host |  
+| bip_39_word_underscore_6 | diamond_enter_borrow_swamp_host_stable |  
+| bip_39_word_underscore_7 | diamond_enter_borrow_swamp_host_stable_second |  
+| bip_39_word_underscore_8 | diamond_enter_borrow_swamp_host_stable_second_various |  
+| bip_39_word_underscore_9 | diamond_enter_borrow_swamp_host_stable_second_various_ostrich |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

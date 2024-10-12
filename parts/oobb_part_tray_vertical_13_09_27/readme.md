@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | shadow |  
+| bip_39_word_dash_10 | shadow-when-robust-flush-release-genuine-seven-chronic-fruit-tomato |  
+| bip_39_word_dash_11 | shadow-when-robust-flush-release-genuine-seven-chronic-fruit-tomato-iron |  
+| bip_39_word_dash_12 | shadow-when-robust-flush-release-genuine-seven-chronic-fruit-tomato-iron-afford |  
+| bip_39_word_dash_2 | shadow-when |  
+| bip_39_word_dash_3 | shadow-when-robust |  
+| bip_39_word_dash_4 | shadow-when-robust-flush |  
+| bip_39_word_dash_5 | shadow-when-robust-flush-release |  
+| bip_39_word_dash_6 | shadow-when-robust-flush-release-genuine |  
+| bip_39_word_dash_7 | shadow-when-robust-flush-release-genuine-seven |  
+| bip_39_word_dash_8 | shadow-when-robust-flush-release-genuine-seven-chronic |  
+| bip_39_word_dash_9 | shadow-when-robust-flush-release-genuine-seven-chronic-fruit |  
 | bip_39_word_new_br_1 | shadow |  
 | bip_39_word_new_br_10 | shadow<br>when<br>robust<br>flush<br>release<br>genuine<br>seven<br>chronic<br>fruit<br>tomato |  
 | bip_39_word_new_br_11 | shadow<br>when<br>robust<br>flush<br>release<br>genuine<br>seven<br>chronic<br>fruit<br>tomato<br>iron |  
@@ -147,6 +159,18 @@ fruit |
 | bip_39_word_space_7 | shadow when robust flush release genuine seven |  
 | bip_39_word_space_8 | shadow when robust flush release genuine seven chronic |  
 | bip_39_word_space_9 | shadow when robust flush release genuine seven chronic fruit |  
+| bip_39_word_underscore_1 | shadow |  
+| bip_39_word_underscore_10 | shadow_when_robust_flush_release_genuine_seven_chronic_fruit_tomato |  
+| bip_39_word_underscore_11 | shadow_when_robust_flush_release_genuine_seven_chronic_fruit_tomato_iron |  
+| bip_39_word_underscore_12 | shadow_when_robust_flush_release_genuine_seven_chronic_fruit_tomato_iron_afford |  
+| bip_39_word_underscore_2 | shadow_when |  
+| bip_39_word_underscore_3 | shadow_when_robust |  
+| bip_39_word_underscore_4 | shadow_when_robust_flush |  
+| bip_39_word_underscore_5 | shadow_when_robust_flush_release |  
+| bip_39_word_underscore_6 | shadow_when_robust_flush_release_genuine |  
+| bip_39_word_underscore_7 | shadow_when_robust_flush_release_genuine_seven |  
+| bip_39_word_underscore_8 | shadow_when_robust_flush_release_genuine_seven_chronic |  
+| bip_39_word_underscore_9 | shadow_when_robust_flush_release_genuine_seven_chronic_fruit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: renew
+bip_39_word_dash_10: renew-funny-dynamic-indoor-hill-jump-legal-carry-rebuild-ticket
+bip_39_word_dash_11: renew-funny-dynamic-indoor-hill-jump-legal-carry-rebuild-ticket-below
+bip_39_word_dash_12: renew-funny-dynamic-indoor-hill-jump-legal-carry-rebuild-ticket-below-armor
+bip_39_word_dash_2: renew-funny
+bip_39_word_dash_3: renew-funny-dynamic
+bip_39_word_dash_4: renew-funny-dynamic-indoor
+bip_39_word_dash_5: renew-funny-dynamic-indoor-hill
+bip_39_word_dash_6: renew-funny-dynamic-indoor-hill-jump
+bip_39_word_dash_7: renew-funny-dynamic-indoor-hill-jump-legal
+bip_39_word_dash_8: renew-funny-dynamic-indoor-hill-jump-legal-carry
+bip_39_word_dash_9: renew-funny-dynamic-indoor-hill-jump-legal-carry-rebuild
 bip_39_word_new_br_1: renew
 bip_39_word_new_br_10: renew<br>funny<br>dynamic<br>indoor<br>hill<br>jump<br>legal<br>carry<br>rebuild<br>ticket
 bip_39_word_new_br_11: renew<br>funny<br>dynamic<br>indoor<br>hill<br>jump<br>legal<br>carry<br>rebuild<br>ticket<br>below
@@ -193,6 +205,18 @@ bip_39_word_space_6: renew funny dynamic indoor hill jump
 bip_39_word_space_7: renew funny dynamic indoor hill jump legal
 bip_39_word_space_8: renew funny dynamic indoor hill jump legal carry
 bip_39_word_space_9: renew funny dynamic indoor hill jump legal carry rebuild
+bip_39_word_underscore_1: renew
+bip_39_word_underscore_10: renew_funny_dynamic_indoor_hill_jump_legal_carry_rebuild_ticket
+bip_39_word_underscore_11: renew_funny_dynamic_indoor_hill_jump_legal_carry_rebuild_ticket_below
+bip_39_word_underscore_12: renew_funny_dynamic_indoor_hill_jump_legal_carry_rebuild_ticket_below_armor
+bip_39_word_underscore_2: renew_funny
+bip_39_word_underscore_3: renew_funny_dynamic
+bip_39_word_underscore_4: renew_funny_dynamic_indoor
+bip_39_word_underscore_5: renew_funny_dynamic_indoor_hill
+bip_39_word_underscore_6: renew_funny_dynamic_indoor_hill_jump
+bip_39_word_underscore_7: renew_funny_dynamic_indoor_hill_jump_legal
+bip_39_word_underscore_8: renew_funny_dynamic_indoor_hill_jump_legal_carry
+bip_39_word_underscore_9: renew_funny_dynamic_indoor_hill_jump_legal_carry_rebuild
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

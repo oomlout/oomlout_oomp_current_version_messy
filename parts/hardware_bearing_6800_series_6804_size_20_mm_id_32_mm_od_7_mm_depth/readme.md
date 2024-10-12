@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gauge |  
+| bip_39_word_dash_10 | gauge-pond-evolve-library-royal-normal-switch-fire-because-oblige |  
+| bip_39_word_dash_11 | gauge-pond-evolve-library-royal-normal-switch-fire-because-oblige-east |  
+| bip_39_word_dash_12 | gauge-pond-evolve-library-royal-normal-switch-fire-because-oblige-east-action |  
+| bip_39_word_dash_2 | gauge-pond |  
+| bip_39_word_dash_3 | gauge-pond-evolve |  
+| bip_39_word_dash_4 | gauge-pond-evolve-library |  
+| bip_39_word_dash_5 | gauge-pond-evolve-library-royal |  
+| bip_39_word_dash_6 | gauge-pond-evolve-library-royal-normal |  
+| bip_39_word_dash_7 | gauge-pond-evolve-library-royal-normal-switch |  
+| bip_39_word_dash_8 | gauge-pond-evolve-library-royal-normal-switch-fire |  
+| bip_39_word_dash_9 | gauge-pond-evolve-library-royal-normal-switch-fire-because |  
 | bip_39_word_new_br_1 | gauge |  
 | bip_39_word_new_br_10 | gauge<br>pond<br>evolve<br>library<br>royal<br>normal<br>switch<br>fire<br>because<br>oblige |  
 | bip_39_word_new_br_11 | gauge<br>pond<br>evolve<br>library<br>royal<br>normal<br>switch<br>fire<br>because<br>oblige<br>east |  
@@ -147,6 +159,18 @@ because |
 | bip_39_word_space_7 | gauge pond evolve library royal normal switch |  
 | bip_39_word_space_8 | gauge pond evolve library royal normal switch fire |  
 | bip_39_word_space_9 | gauge pond evolve library royal normal switch fire because |  
+| bip_39_word_underscore_1 | gauge |  
+| bip_39_word_underscore_10 | gauge_pond_evolve_library_royal_normal_switch_fire_because_oblige |  
+| bip_39_word_underscore_11 | gauge_pond_evolve_library_royal_normal_switch_fire_because_oblige_east |  
+| bip_39_word_underscore_12 | gauge_pond_evolve_library_royal_normal_switch_fire_because_oblige_east_action |  
+| bip_39_word_underscore_2 | gauge_pond |  
+| bip_39_word_underscore_3 | gauge_pond_evolve |  
+| bip_39_word_underscore_4 | gauge_pond_evolve_library |  
+| bip_39_word_underscore_5 | gauge_pond_evolve_library_royal |  
+| bip_39_word_underscore_6 | gauge_pond_evolve_library_royal_normal |  
+| bip_39_word_underscore_7 | gauge_pond_evolve_library_royal_normal_switch |  
+| bip_39_word_underscore_8 | gauge_pond_evolve_library_royal_normal_switch_fire |  
+| bip_39_word_underscore_9 | gauge_pond_evolve_library_royal_normal_switch_fire_because |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

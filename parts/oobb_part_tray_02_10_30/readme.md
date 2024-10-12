@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dune |  
+| bip_39_word_dash_10 | dune-random-jeans-art-pink-dash-tower-body-sure-mask |  
+| bip_39_word_dash_11 | dune-random-jeans-art-pink-dash-tower-body-sure-mask-hawk |  
+| bip_39_word_dash_12 | dune-random-jeans-art-pink-dash-tower-body-sure-mask-hawk-auction |  
+| bip_39_word_dash_2 | dune-random |  
+| bip_39_word_dash_3 | dune-random-jeans |  
+| bip_39_word_dash_4 | dune-random-jeans-art |  
+| bip_39_word_dash_5 | dune-random-jeans-art-pink |  
+| bip_39_word_dash_6 | dune-random-jeans-art-pink-dash |  
+| bip_39_word_dash_7 | dune-random-jeans-art-pink-dash-tower |  
+| bip_39_word_dash_8 | dune-random-jeans-art-pink-dash-tower-body |  
+| bip_39_word_dash_9 | dune-random-jeans-art-pink-dash-tower-body-sure |  
 | bip_39_word_new_br_1 | dune |  
 | bip_39_word_new_br_10 | dune<br>random<br>jeans<br>art<br>pink<br>dash<br>tower<br>body<br>sure<br>mask |  
 | bip_39_word_new_br_11 | dune<br>random<br>jeans<br>art<br>pink<br>dash<br>tower<br>body<br>sure<br>mask<br>hawk |  
@@ -147,6 +159,18 @@ sure |
 | bip_39_word_space_7 | dune random jeans art pink dash tower |  
 | bip_39_word_space_8 | dune random jeans art pink dash tower body |  
 | bip_39_word_space_9 | dune random jeans art pink dash tower body sure |  
+| bip_39_word_underscore_1 | dune |  
+| bip_39_word_underscore_10 | dune_random_jeans_art_pink_dash_tower_body_sure_mask |  
+| bip_39_word_underscore_11 | dune_random_jeans_art_pink_dash_tower_body_sure_mask_hawk |  
+| bip_39_word_underscore_12 | dune_random_jeans_art_pink_dash_tower_body_sure_mask_hawk_auction |  
+| bip_39_word_underscore_2 | dune_random |  
+| bip_39_word_underscore_3 | dune_random_jeans |  
+| bip_39_word_underscore_4 | dune_random_jeans_art |  
+| bip_39_word_underscore_5 | dune_random_jeans_art_pink |  
+| bip_39_word_underscore_6 | dune_random_jeans_art_pink_dash |  
+| bip_39_word_underscore_7 | dune_random_jeans_art_pink_dash_tower |  
+| bip_39_word_underscore_8 | dune_random_jeans_art_pink_dash_tower_body |  
+| bip_39_word_underscore_9 | dune_random_jeans_art_pink_dash_tower_body_sure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

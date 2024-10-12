@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hub
+bip_39_word_dash_10: hub-draw-despair-trade-fade-giraffe-polar-pretty-enforce-room
+bip_39_word_dash_11: hub-draw-despair-trade-fade-giraffe-polar-pretty-enforce-room-frog
+bip_39_word_dash_12: hub-draw-despair-trade-fade-giraffe-polar-pretty-enforce-room-frog-agent
+bip_39_word_dash_2: hub-draw
+bip_39_word_dash_3: hub-draw-despair
+bip_39_word_dash_4: hub-draw-despair-trade
+bip_39_word_dash_5: hub-draw-despair-trade-fade
+bip_39_word_dash_6: hub-draw-despair-trade-fade-giraffe
+bip_39_word_dash_7: hub-draw-despair-trade-fade-giraffe-polar
+bip_39_word_dash_8: hub-draw-despair-trade-fade-giraffe-polar-pretty
+bip_39_word_dash_9: hub-draw-despair-trade-fade-giraffe-polar-pretty-enforce
 bip_39_word_new_br_1: hub
 bip_39_word_new_br_10: hub<br>draw<br>despair<br>trade<br>fade<br>giraffe<br>polar<br>pretty<br>enforce<br>room
 bip_39_word_new_br_11: hub<br>draw<br>despair<br>trade<br>fade<br>giraffe<br>polar<br>pretty<br>enforce<br>room<br>frog
@@ -193,6 +205,18 @@ bip_39_word_space_6: hub draw despair trade fade giraffe
 bip_39_word_space_7: hub draw despair trade fade giraffe polar
 bip_39_word_space_8: hub draw despair trade fade giraffe polar pretty
 bip_39_word_space_9: hub draw despair trade fade giraffe polar pretty enforce
+bip_39_word_underscore_1: hub
+bip_39_word_underscore_10: hub_draw_despair_trade_fade_giraffe_polar_pretty_enforce_room
+bip_39_word_underscore_11: hub_draw_despair_trade_fade_giraffe_polar_pretty_enforce_room_frog
+bip_39_word_underscore_12: hub_draw_despair_trade_fade_giraffe_polar_pretty_enforce_room_frog_agent
+bip_39_word_underscore_2: hub_draw
+bip_39_word_underscore_3: hub_draw_despair
+bip_39_word_underscore_4: hub_draw_despair_trade
+bip_39_word_underscore_5: hub_draw_despair_trade_fade
+bip_39_word_underscore_6: hub_draw_despair_trade_fade_giraffe
+bip_39_word_underscore_7: hub_draw_despair_trade_fade_giraffe_polar
+bip_39_word_underscore_8: hub_draw_despair_trade_fade_giraffe_polar_pretty
+bip_39_word_underscore_9: hub_draw_despair_trade_fade_giraffe_polar_pretty_enforce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

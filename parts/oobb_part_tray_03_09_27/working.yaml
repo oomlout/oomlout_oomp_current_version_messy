@@ -1,3 +1,15 @@
+bip_39_word_dash_1: album
+bip_39_word_dash_10: album-shrug-gossip-mistake-snake-quantum-hobby-pitch-knee-page
+bip_39_word_dash_11: album-shrug-gossip-mistake-snake-quantum-hobby-pitch-knee-page-torch
+bip_39_word_dash_12: album-shrug-gossip-mistake-snake-quantum-hobby-pitch-knee-page-torch-admit
+bip_39_word_dash_2: album-shrug
+bip_39_word_dash_3: album-shrug-gossip
+bip_39_word_dash_4: album-shrug-gossip-mistake
+bip_39_word_dash_5: album-shrug-gossip-mistake-snake
+bip_39_word_dash_6: album-shrug-gossip-mistake-snake-quantum
+bip_39_word_dash_7: album-shrug-gossip-mistake-snake-quantum-hobby
+bip_39_word_dash_8: album-shrug-gossip-mistake-snake-quantum-hobby-pitch
+bip_39_word_dash_9: album-shrug-gossip-mistake-snake-quantum-hobby-pitch-knee
 bip_39_word_new_br_1: album
 bip_39_word_new_br_10: album<br>shrug<br>gossip<br>mistake<br>snake<br>quantum<br>hobby<br>pitch<br>knee<br>page
 bip_39_word_new_br_11: album<br>shrug<br>gossip<br>mistake<br>snake<br>quantum<br>hobby<br>pitch<br>knee<br>page<br>torch
@@ -193,6 +205,18 @@ bip_39_word_space_6: album shrug gossip mistake snake quantum
 bip_39_word_space_7: album shrug gossip mistake snake quantum hobby
 bip_39_word_space_8: album shrug gossip mistake snake quantum hobby pitch
 bip_39_word_space_9: album shrug gossip mistake snake quantum hobby pitch knee
+bip_39_word_underscore_1: album
+bip_39_word_underscore_10: album_shrug_gossip_mistake_snake_quantum_hobby_pitch_knee_page
+bip_39_word_underscore_11: album_shrug_gossip_mistake_snake_quantum_hobby_pitch_knee_page_torch
+bip_39_word_underscore_12: album_shrug_gossip_mistake_snake_quantum_hobby_pitch_knee_page_torch_admit
+bip_39_word_underscore_2: album_shrug
+bip_39_word_underscore_3: album_shrug_gossip
+bip_39_word_underscore_4: album_shrug_gossip_mistake
+bip_39_word_underscore_5: album_shrug_gossip_mistake_snake
+bip_39_word_underscore_6: album_shrug_gossip_mistake_snake_quantum
+bip_39_word_underscore_7: album_shrug_gossip_mistake_snake_quantum_hobby
+bip_39_word_underscore_8: album_shrug_gossip_mistake_snake_quantum_hobby_pitch
+bip_39_word_underscore_9: album_shrug_gossip_mistake_snake_quantum_hobby_pitch_knee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | where |  
+| bip_39_word_dash_10 | where-spare-taxi-hint-melody-good-child-elite-utility-still |  
+| bip_39_word_dash_11 | where-spare-taxi-hint-melody-good-child-elite-utility-still-later |  
+| bip_39_word_dash_12 | where-spare-taxi-hint-melody-good-child-elite-utility-still-later-athlete |  
+| bip_39_word_dash_2 | where-spare |  
+| bip_39_word_dash_3 | where-spare-taxi |  
+| bip_39_word_dash_4 | where-spare-taxi-hint |  
+| bip_39_word_dash_5 | where-spare-taxi-hint-melody |  
+| bip_39_word_dash_6 | where-spare-taxi-hint-melody-good |  
+| bip_39_word_dash_7 | where-spare-taxi-hint-melody-good-child |  
+| bip_39_word_dash_8 | where-spare-taxi-hint-melody-good-child-elite |  
+| bip_39_word_dash_9 | where-spare-taxi-hint-melody-good-child-elite-utility |  
 | bip_39_word_new_br_1 | where |  
 | bip_39_word_new_br_10 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still |  
 | bip_39_word_new_br_11 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still<br>later |  
@@ -147,6 +159,18 @@ utility |
 | bip_39_word_space_7 | where spare taxi hint melody good child |  
 | bip_39_word_space_8 | where spare taxi hint melody good child elite |  
 | bip_39_word_space_9 | where spare taxi hint melody good child elite utility |  
+| bip_39_word_underscore_1 | where |  
+| bip_39_word_underscore_10 | where_spare_taxi_hint_melody_good_child_elite_utility_still |  
+| bip_39_word_underscore_11 | where_spare_taxi_hint_melody_good_child_elite_utility_still_later |  
+| bip_39_word_underscore_12 | where_spare_taxi_hint_melody_good_child_elite_utility_still_later_athlete |  
+| bip_39_word_underscore_2 | where_spare |  
+| bip_39_word_underscore_3 | where_spare_taxi |  
+| bip_39_word_underscore_4 | where_spare_taxi_hint |  
+| bip_39_word_underscore_5 | where_spare_taxi_hint_melody |  
+| bip_39_word_underscore_6 | where_spare_taxi_hint_melody_good |  
+| bip_39_word_underscore_7 | where_spare_taxi_hint_melody_good_child |  
+| bip_39_word_underscore_8 | where_spare_taxi_hint_melody_good_child_elite |  
+| bip_39_word_underscore_9 | where_spare_taxi_hint_melody_good_child_elite_utility |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

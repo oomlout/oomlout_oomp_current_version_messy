@@ -1,3 +1,15 @@
+bip_39_word_dash_1: seminar
+bip_39_word_dash_10: seminar-camp-tortoise-mechanic-champion-deer-window-oyster-ahead-coyote
+bip_39_word_dash_11: seminar-camp-tortoise-mechanic-champion-deer-window-oyster-ahead-coyote-glove
+bip_39_word_dash_12: seminar-camp-tortoise-mechanic-champion-deer-window-oyster-ahead-coyote-glove-abuse
+bip_39_word_dash_2: seminar-camp
+bip_39_word_dash_3: seminar-camp-tortoise
+bip_39_word_dash_4: seminar-camp-tortoise-mechanic
+bip_39_word_dash_5: seminar-camp-tortoise-mechanic-champion
+bip_39_word_dash_6: seminar-camp-tortoise-mechanic-champion-deer
+bip_39_word_dash_7: seminar-camp-tortoise-mechanic-champion-deer-window
+bip_39_word_dash_8: seminar-camp-tortoise-mechanic-champion-deer-window-oyster
+bip_39_word_dash_9: seminar-camp-tortoise-mechanic-champion-deer-window-oyster-ahead
 bip_39_word_new_br_1: seminar
 bip_39_word_new_br_10: seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote
 bip_39_word_new_br_11: seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote<br>glove
@@ -194,6 +206,18 @@ bip_39_word_space_6: seminar camp tortoise mechanic champion deer
 bip_39_word_space_7: seminar camp tortoise mechanic champion deer window
 bip_39_word_space_8: seminar camp tortoise mechanic champion deer window oyster
 bip_39_word_space_9: seminar camp tortoise mechanic champion deer window oyster ahead
+bip_39_word_underscore_1: seminar
+bip_39_word_underscore_10: seminar_camp_tortoise_mechanic_champion_deer_window_oyster_ahead_coyote
+bip_39_word_underscore_11: seminar_camp_tortoise_mechanic_champion_deer_window_oyster_ahead_coyote_glove
+bip_39_word_underscore_12: seminar_camp_tortoise_mechanic_champion_deer_window_oyster_ahead_coyote_glove_abuse
+bip_39_word_underscore_2: seminar_camp
+bip_39_word_underscore_3: seminar_camp_tortoise
+bip_39_word_underscore_4: seminar_camp_tortoise_mechanic
+bip_39_word_underscore_5: seminar_camp_tortoise_mechanic_champion
+bip_39_word_underscore_6: seminar_camp_tortoise_mechanic_champion_deer
+bip_39_word_underscore_7: seminar_camp_tortoise_mechanic_champion_deer_window
+bip_39_word_underscore_8: seminar_camp_tortoise_mechanic_champion_deer_window_oyster
+bip_39_word_underscore_9: seminar_camp_tortoise_mechanic_champion_deer_window_oyster_ahead
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

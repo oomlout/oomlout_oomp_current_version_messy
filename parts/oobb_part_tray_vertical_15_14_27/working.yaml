@@ -1,3 +1,15 @@
+bip_39_word_dash_1: detect
+bip_39_word_dash_10: detect-transfer-puppy-later-impulse-rare-hobby-damp-nest-tourist
+bip_39_word_dash_11: detect-transfer-puppy-later-impulse-rare-hobby-damp-nest-tourist-vibrant
+bip_39_word_dash_12: detect-transfer-puppy-later-impulse-rare-hobby-damp-nest-tourist-vibrant-approve
+bip_39_word_dash_2: detect-transfer
+bip_39_word_dash_3: detect-transfer-puppy
+bip_39_word_dash_4: detect-transfer-puppy-later
+bip_39_word_dash_5: detect-transfer-puppy-later-impulse
+bip_39_word_dash_6: detect-transfer-puppy-later-impulse-rare
+bip_39_word_dash_7: detect-transfer-puppy-later-impulse-rare-hobby
+bip_39_word_dash_8: detect-transfer-puppy-later-impulse-rare-hobby-damp
+bip_39_word_dash_9: detect-transfer-puppy-later-impulse-rare-hobby-damp-nest
 bip_39_word_new_br_1: detect
 bip_39_word_new_br_10: detect<br>transfer<br>puppy<br>later<br>impulse<br>rare<br>hobby<br>damp<br>nest<br>tourist
 bip_39_word_new_br_11: detect<br>transfer<br>puppy<br>later<br>impulse<br>rare<br>hobby<br>damp<br>nest<br>tourist<br>vibrant
@@ -193,6 +205,18 @@ bip_39_word_space_6: detect transfer puppy later impulse rare
 bip_39_word_space_7: detect transfer puppy later impulse rare hobby
 bip_39_word_space_8: detect transfer puppy later impulse rare hobby damp
 bip_39_word_space_9: detect transfer puppy later impulse rare hobby damp nest
+bip_39_word_underscore_1: detect
+bip_39_word_underscore_10: detect_transfer_puppy_later_impulse_rare_hobby_damp_nest_tourist
+bip_39_word_underscore_11: detect_transfer_puppy_later_impulse_rare_hobby_damp_nest_tourist_vibrant
+bip_39_word_underscore_12: detect_transfer_puppy_later_impulse_rare_hobby_damp_nest_tourist_vibrant_approve
+bip_39_word_underscore_2: detect_transfer
+bip_39_word_underscore_3: detect_transfer_puppy
+bip_39_word_underscore_4: detect_transfer_puppy_later
+bip_39_word_underscore_5: detect_transfer_puppy_later_impulse
+bip_39_word_underscore_6: detect_transfer_puppy_later_impulse_rare
+bip_39_word_underscore_7: detect_transfer_puppy_later_impulse_rare_hobby
+bip_39_word_underscore_8: detect_transfer_puppy_later_impulse_rare_hobby_damp
+bip_39_word_underscore_9: detect_transfer_puppy_later_impulse_rare_hobby_damp_nest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crime
+bip_39_word_dash_10: crime-hold-devote-funny-tent-three-luxury-purchase-under-forest
+bip_39_word_dash_11: crime-hold-devote-funny-tent-three-luxury-purchase-under-forest-cruel
+bip_39_word_dash_12: crime-hold-devote-funny-tent-three-luxury-purchase-under-forest-cruel-auto
+bip_39_word_dash_2: crime-hold
+bip_39_word_dash_3: crime-hold-devote
+bip_39_word_dash_4: crime-hold-devote-funny
+bip_39_word_dash_5: crime-hold-devote-funny-tent
+bip_39_word_dash_6: crime-hold-devote-funny-tent-three
+bip_39_word_dash_7: crime-hold-devote-funny-tent-three-luxury
+bip_39_word_dash_8: crime-hold-devote-funny-tent-three-luxury-purchase
+bip_39_word_dash_9: crime-hold-devote-funny-tent-three-luxury-purchase-under
 bip_39_word_new_br_1: crime
 bip_39_word_new_br_10: crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase<br>under<br>forest
 bip_39_word_new_br_11: crime<br>hold<br>devote<br>funny<br>tent<br>three<br>luxury<br>purchase<br>under<br>forest<br>cruel
@@ -193,6 +205,18 @@ bip_39_word_space_6: crime hold devote funny tent three
 bip_39_word_space_7: crime hold devote funny tent three luxury
 bip_39_word_space_8: crime hold devote funny tent three luxury purchase
 bip_39_word_space_9: crime hold devote funny tent three luxury purchase under
+bip_39_word_underscore_1: crime
+bip_39_word_underscore_10: crime_hold_devote_funny_tent_three_luxury_purchase_under_forest
+bip_39_word_underscore_11: crime_hold_devote_funny_tent_three_luxury_purchase_under_forest_cruel
+bip_39_word_underscore_12: crime_hold_devote_funny_tent_three_luxury_purchase_under_forest_cruel_auto
+bip_39_word_underscore_2: crime_hold
+bip_39_word_underscore_3: crime_hold_devote
+bip_39_word_underscore_4: crime_hold_devote_funny
+bip_39_word_underscore_5: crime_hold_devote_funny_tent
+bip_39_word_underscore_6: crime_hold_devote_funny_tent_three
+bip_39_word_underscore_7: crime_hold_devote_funny_tent_three_luxury
+bip_39_word_underscore_8: crime_hold_devote_funny_tent_three_luxury_purchase
+bip_39_word_underscore_9: crime_hold_devote_funny_tent_three_luxury_purchase_under
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

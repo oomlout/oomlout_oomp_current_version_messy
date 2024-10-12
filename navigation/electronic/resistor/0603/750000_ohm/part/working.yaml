@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hub
+bip_39_word_dash_10: hub-steak-fame-glimpse-future-album-bind-mimic-armed-kit
+bip_39_word_dash_11: hub-steak-fame-glimpse-future-album-bind-mimic-armed-kit-road
+bip_39_word_dash_12: hub-steak-fame-glimpse-future-album-bind-mimic-armed-kit-road-alter
+bip_39_word_dash_2: hub-steak
+bip_39_word_dash_3: hub-steak-fame
+bip_39_word_dash_4: hub-steak-fame-glimpse
+bip_39_word_dash_5: hub-steak-fame-glimpse-future
+bip_39_word_dash_6: hub-steak-fame-glimpse-future-album
+bip_39_word_dash_7: hub-steak-fame-glimpse-future-album-bind
+bip_39_word_dash_8: hub-steak-fame-glimpse-future-album-bind-mimic
+bip_39_word_dash_9: hub-steak-fame-glimpse-future-album-bind-mimic-armed
 bip_39_word_new_br_1: hub
 bip_39_word_new_br_10: hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit
 bip_39_word_new_br_11: hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit<br>road
@@ -192,6 +204,18 @@ bip_39_word_space_6: hub steak fame glimpse future album
 bip_39_word_space_7: hub steak fame glimpse future album bind
 bip_39_word_space_8: hub steak fame glimpse future album bind mimic
 bip_39_word_space_9: hub steak fame glimpse future album bind mimic armed
+bip_39_word_underscore_1: hub
+bip_39_word_underscore_10: hub_steak_fame_glimpse_future_album_bind_mimic_armed_kit
+bip_39_word_underscore_11: hub_steak_fame_glimpse_future_album_bind_mimic_armed_kit_road
+bip_39_word_underscore_12: hub_steak_fame_glimpse_future_album_bind_mimic_armed_kit_road_alter
+bip_39_word_underscore_2: hub_steak
+bip_39_word_underscore_3: hub_steak_fame
+bip_39_word_underscore_4: hub_steak_fame_glimpse
+bip_39_word_underscore_5: hub_steak_fame_glimpse_future
+bip_39_word_underscore_6: hub_steak_fame_glimpse_future_album
+bip_39_word_underscore_7: hub_steak_fame_glimpse_future_album_bind
+bip_39_word_underscore_8: hub_steak_fame_glimpse_future_album_bind_mimic
+bip_39_word_underscore_9: hub_steak_fame_glimpse_future_album_bind_mimic_armed
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: occur
+bip_39_word_dash_10: occur-betray-deposit-sense-void-tattoo-rare-pink-ribbon-situate
+bip_39_word_dash_11: occur-betray-deposit-sense-void-tattoo-rare-pink-ribbon-situate-hawk
+bip_39_word_dash_12: occur-betray-deposit-sense-void-tattoo-rare-pink-ribbon-situate-hawk-amused
+bip_39_word_dash_2: occur-betray
+bip_39_word_dash_3: occur-betray-deposit
+bip_39_word_dash_4: occur-betray-deposit-sense
+bip_39_word_dash_5: occur-betray-deposit-sense-void
+bip_39_word_dash_6: occur-betray-deposit-sense-void-tattoo
+bip_39_word_dash_7: occur-betray-deposit-sense-void-tattoo-rare
+bip_39_word_dash_8: occur-betray-deposit-sense-void-tattoo-rare-pink
+bip_39_word_dash_9: occur-betray-deposit-sense-void-tattoo-rare-pink-ribbon
 bip_39_word_new_br_1: occur
 bip_39_word_new_br_10: occur<br>betray<br>deposit<br>sense<br>void<br>tattoo<br>rare<br>pink<br>ribbon<br>situate
 bip_39_word_new_br_11: occur<br>betray<br>deposit<br>sense<br>void<br>tattoo<br>rare<br>pink<br>ribbon<br>situate<br>hawk
@@ -193,6 +205,18 @@ bip_39_word_space_6: occur betray deposit sense void tattoo
 bip_39_word_space_7: occur betray deposit sense void tattoo rare
 bip_39_word_space_8: occur betray deposit sense void tattoo rare pink
 bip_39_word_space_9: occur betray deposit sense void tattoo rare pink ribbon
+bip_39_word_underscore_1: occur
+bip_39_word_underscore_10: occur_betray_deposit_sense_void_tattoo_rare_pink_ribbon_situate
+bip_39_word_underscore_11: occur_betray_deposit_sense_void_tattoo_rare_pink_ribbon_situate_hawk
+bip_39_word_underscore_12: occur_betray_deposit_sense_void_tattoo_rare_pink_ribbon_situate_hawk_amused
+bip_39_word_underscore_2: occur_betray
+bip_39_word_underscore_3: occur_betray_deposit
+bip_39_word_underscore_4: occur_betray_deposit_sense
+bip_39_word_underscore_5: occur_betray_deposit_sense_void
+bip_39_word_underscore_6: occur_betray_deposit_sense_void_tattoo
+bip_39_word_underscore_7: occur_betray_deposit_sense_void_tattoo_rare
+bip_39_word_underscore_8: occur_betray_deposit_sense_void_tattoo_rare_pink
+bip_39_word_underscore_9: occur_betray_deposit_sense_void_tattoo_rare_pink_ribbon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

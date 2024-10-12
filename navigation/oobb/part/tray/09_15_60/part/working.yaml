@@ -1,3 +1,15 @@
+bip_39_word_dash_1: hawk
+bip_39_word_dash_10: hawk-throw-patient-view-neglect-brisk-tennis-smoke-shed-still
+bip_39_word_dash_11: hawk-throw-patient-view-neglect-brisk-tennis-smoke-shed-still-jump
+bip_39_word_dash_12: hawk-throw-patient-view-neglect-brisk-tennis-smoke-shed-still-jump-act
+bip_39_word_dash_2: hawk-throw
+bip_39_word_dash_3: hawk-throw-patient
+bip_39_word_dash_4: hawk-throw-patient-view
+bip_39_word_dash_5: hawk-throw-patient-view-neglect
+bip_39_word_dash_6: hawk-throw-patient-view-neglect-brisk
+bip_39_word_dash_7: hawk-throw-patient-view-neglect-brisk-tennis
+bip_39_word_dash_8: hawk-throw-patient-view-neglect-brisk-tennis-smoke
+bip_39_word_dash_9: hawk-throw-patient-view-neglect-brisk-tennis-smoke-shed
 bip_39_word_new_br_1: hawk
 bip_39_word_new_br_10: hawk<br>throw<br>patient<br>view<br>neglect<br>brisk<br>tennis<br>smoke<br>shed<br>still
 bip_39_word_new_br_11: hawk<br>throw<br>patient<br>view<br>neglect<br>brisk<br>tennis<br>smoke<br>shed<br>still<br>jump
@@ -193,6 +205,18 @@ bip_39_word_space_6: hawk throw patient view neglect brisk
 bip_39_word_space_7: hawk throw patient view neglect brisk tennis
 bip_39_word_space_8: hawk throw patient view neglect brisk tennis smoke
 bip_39_word_space_9: hawk throw patient view neglect brisk tennis smoke shed
+bip_39_word_underscore_1: hawk
+bip_39_word_underscore_10: hawk_throw_patient_view_neglect_brisk_tennis_smoke_shed_still
+bip_39_word_underscore_11: hawk_throw_patient_view_neglect_brisk_tennis_smoke_shed_still_jump
+bip_39_word_underscore_12: hawk_throw_patient_view_neglect_brisk_tennis_smoke_shed_still_jump_act
+bip_39_word_underscore_2: hawk_throw
+bip_39_word_underscore_3: hawk_throw_patient
+bip_39_word_underscore_4: hawk_throw_patient_view
+bip_39_word_underscore_5: hawk_throw_patient_view_neglect
+bip_39_word_underscore_6: hawk_throw_patient_view_neglect_brisk
+bip_39_word_underscore_7: hawk_throw_patient_view_neglect_brisk_tennis
+bip_39_word_underscore_8: hawk_throw_patient_view_neglect_brisk_tennis_smoke
+bip_39_word_underscore_9: hawk_throw_patient_view_neglect_brisk_tennis_smoke_shed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

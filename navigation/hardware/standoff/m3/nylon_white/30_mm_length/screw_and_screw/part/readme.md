@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | betray |  
+| bip_39_word_dash_10 | betray-steak-cricket-predict-deal-pet-rug-unhappy-furnace-topple |  
+| bip_39_word_dash_11 | betray-steak-cricket-predict-deal-pet-rug-unhappy-furnace-topple-plug |  
+| bip_39_word_dash_12 | betray-steak-cricket-predict-deal-pet-rug-unhappy-furnace-topple-plug-annual |  
+| bip_39_word_dash_2 | betray-steak |  
+| bip_39_word_dash_3 | betray-steak-cricket |  
+| bip_39_word_dash_4 | betray-steak-cricket-predict |  
+| bip_39_word_dash_5 | betray-steak-cricket-predict-deal |  
+| bip_39_word_dash_6 | betray-steak-cricket-predict-deal-pet |  
+| bip_39_word_dash_7 | betray-steak-cricket-predict-deal-pet-rug |  
+| bip_39_word_dash_8 | betray-steak-cricket-predict-deal-pet-rug-unhappy |  
+| bip_39_word_dash_9 | betray-steak-cricket-predict-deal-pet-rug-unhappy-furnace |  
 | bip_39_word_new_br_1 | betray |  
 | bip_39_word_new_br_10 | betray<br>steak<br>cricket<br>predict<br>deal<br>pet<br>rug<br>unhappy<br>furnace<br>topple |  
 | bip_39_word_new_br_11 | betray<br>steak<br>cricket<br>predict<br>deal<br>pet<br>rug<br>unhappy<br>furnace<br>topple<br>plug |  
@@ -147,6 +159,18 @@ furnace |
 | bip_39_word_space_7 | betray steak cricket predict deal pet rug |  
 | bip_39_word_space_8 | betray steak cricket predict deal pet rug unhappy |  
 | bip_39_word_space_9 | betray steak cricket predict deal pet rug unhappy furnace |  
+| bip_39_word_underscore_1 | betray |  
+| bip_39_word_underscore_10 | betray_steak_cricket_predict_deal_pet_rug_unhappy_furnace_topple |  
+| bip_39_word_underscore_11 | betray_steak_cricket_predict_deal_pet_rug_unhappy_furnace_topple_plug |  
+| bip_39_word_underscore_12 | betray_steak_cricket_predict_deal_pet_rug_unhappy_furnace_topple_plug_annual |  
+| bip_39_word_underscore_2 | betray_steak |  
+| bip_39_word_underscore_3 | betray_steak_cricket |  
+| bip_39_word_underscore_4 | betray_steak_cricket_predict |  
+| bip_39_word_underscore_5 | betray_steak_cricket_predict_deal |  
+| bip_39_word_underscore_6 | betray_steak_cricket_predict_deal_pet |  
+| bip_39_word_underscore_7 | betray_steak_cricket_predict_deal_pet_rug |  
+| bip_39_word_underscore_8 | betray_steak_cricket_predict_deal_pet_rug_unhappy |  
+| bip_39_word_underscore_9 | betray_steak_cricket_predict_deal_pet_rug_unhappy_furnace |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

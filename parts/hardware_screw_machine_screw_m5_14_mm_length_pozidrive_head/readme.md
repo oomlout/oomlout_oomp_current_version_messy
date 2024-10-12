@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | light |  
+| bip_39_word_dash_10 | light-cup-shiver-patch-audit-speak-lobster-walnut-ball-door |  
+| bip_39_word_dash_11 | light-cup-shiver-patch-audit-speak-lobster-walnut-ball-door-unit |  
+| bip_39_word_dash_12 | light-cup-shiver-patch-audit-speak-lobster-walnut-ball-door-unit-advance |  
+| bip_39_word_dash_2 | light-cup |  
+| bip_39_word_dash_3 | light-cup-shiver |  
+| bip_39_word_dash_4 | light-cup-shiver-patch |  
+| bip_39_word_dash_5 | light-cup-shiver-patch-audit |  
+| bip_39_word_dash_6 | light-cup-shiver-patch-audit-speak |  
+| bip_39_word_dash_7 | light-cup-shiver-patch-audit-speak-lobster |  
+| bip_39_word_dash_8 | light-cup-shiver-patch-audit-speak-lobster-walnut |  
+| bip_39_word_dash_9 | light-cup-shiver-patch-audit-speak-lobster-walnut-ball |  
 | bip_39_word_new_br_1 | light |  
 | bip_39_word_new_br_10 | light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut<br>ball<br>door |  
 | bip_39_word_new_br_11 | light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut<br>ball<br>door<br>unit |  
@@ -147,6 +159,18 @@ ball |
 | bip_39_word_space_7 | light cup shiver patch audit speak lobster |  
 | bip_39_word_space_8 | light cup shiver patch audit speak lobster walnut |  
 | bip_39_word_space_9 | light cup shiver patch audit speak lobster walnut ball |  
+| bip_39_word_underscore_1 | light |  
+| bip_39_word_underscore_10 | light_cup_shiver_patch_audit_speak_lobster_walnut_ball_door |  
+| bip_39_word_underscore_11 | light_cup_shiver_patch_audit_speak_lobster_walnut_ball_door_unit |  
+| bip_39_word_underscore_12 | light_cup_shiver_patch_audit_speak_lobster_walnut_ball_door_unit_advance |  
+| bip_39_word_underscore_2 | light_cup |  
+| bip_39_word_underscore_3 | light_cup_shiver |  
+| bip_39_word_underscore_4 | light_cup_shiver_patch |  
+| bip_39_word_underscore_5 | light_cup_shiver_patch_audit |  
+| bip_39_word_underscore_6 | light_cup_shiver_patch_audit_speak |  
+| bip_39_word_underscore_7 | light_cup_shiver_patch_audit_speak_lobster |  
+| bip_39_word_underscore_8 | light_cup_shiver_patch_audit_speak_lobster_walnut |  
+| bip_39_word_underscore_9 | light_cup_shiver_patch_audit_speak_lobster_walnut_ball |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

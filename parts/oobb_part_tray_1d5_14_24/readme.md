@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | water |  
+| bip_39_word_dash_10 | water-cat-rural-entire-blanket-unaware-urban-video-donkey-final |  
+| bip_39_word_dash_11 | water-cat-rural-entire-blanket-unaware-urban-video-donkey-final-next |  
+| bip_39_word_dash_12 | water-cat-rural-entire-blanket-unaware-urban-video-donkey-final-next-also |  
+| bip_39_word_dash_2 | water-cat |  
+| bip_39_word_dash_3 | water-cat-rural |  
+| bip_39_word_dash_4 | water-cat-rural-entire |  
+| bip_39_word_dash_5 | water-cat-rural-entire-blanket |  
+| bip_39_word_dash_6 | water-cat-rural-entire-blanket-unaware |  
+| bip_39_word_dash_7 | water-cat-rural-entire-blanket-unaware-urban |  
+| bip_39_word_dash_8 | water-cat-rural-entire-blanket-unaware-urban-video |  
+| bip_39_word_dash_9 | water-cat-rural-entire-blanket-unaware-urban-video-donkey |  
 | bip_39_word_new_br_1 | water |  
 | bip_39_word_new_br_10 | water<br>cat<br>rural<br>entire<br>blanket<br>unaware<br>urban<br>video<br>donkey<br>final |  
 | bip_39_word_new_br_11 | water<br>cat<br>rural<br>entire<br>blanket<br>unaware<br>urban<br>video<br>donkey<br>final<br>next |  
@@ -147,6 +159,18 @@ donkey |
 | bip_39_word_space_7 | water cat rural entire blanket unaware urban |  
 | bip_39_word_space_8 | water cat rural entire blanket unaware urban video |  
 | bip_39_word_space_9 | water cat rural entire blanket unaware urban video donkey |  
+| bip_39_word_underscore_1 | water |  
+| bip_39_word_underscore_10 | water_cat_rural_entire_blanket_unaware_urban_video_donkey_final |  
+| bip_39_word_underscore_11 | water_cat_rural_entire_blanket_unaware_urban_video_donkey_final_next |  
+| bip_39_word_underscore_12 | water_cat_rural_entire_blanket_unaware_urban_video_donkey_final_next_also |  
+| bip_39_word_underscore_2 | water_cat |  
+| bip_39_word_underscore_3 | water_cat_rural |  
+| bip_39_word_underscore_4 | water_cat_rural_entire |  
+| bip_39_word_underscore_5 | water_cat_rural_entire_blanket |  
+| bip_39_word_underscore_6 | water_cat_rural_entire_blanket_unaware |  
+| bip_39_word_underscore_7 | water_cat_rural_entire_blanket_unaware_urban |  
+| bip_39_word_underscore_8 | water_cat_rural_entire_blanket_unaware_urban_video |  
+| bip_39_word_underscore_9 | water_cat_rural_entire_blanket_unaware_urban_video_donkey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

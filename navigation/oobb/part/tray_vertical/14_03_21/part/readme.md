@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | girl |  
+| bip_39_word_dash_10 | girl-cattle-inspire-wave-pole-cloth-harbor-lazy-verb-under |  
+| bip_39_word_dash_11 | girl-cattle-inspire-wave-pole-cloth-harbor-lazy-verb-under-found |  
+| bip_39_word_dash_12 | girl-cattle-inspire-wave-pole-cloth-harbor-lazy-verb-under-found-aisle |  
+| bip_39_word_dash_2 | girl-cattle |  
+| bip_39_word_dash_3 | girl-cattle-inspire |  
+| bip_39_word_dash_4 | girl-cattle-inspire-wave |  
+| bip_39_word_dash_5 | girl-cattle-inspire-wave-pole |  
+| bip_39_word_dash_6 | girl-cattle-inspire-wave-pole-cloth |  
+| bip_39_word_dash_7 | girl-cattle-inspire-wave-pole-cloth-harbor |  
+| bip_39_word_dash_8 | girl-cattle-inspire-wave-pole-cloth-harbor-lazy |  
+| bip_39_word_dash_9 | girl-cattle-inspire-wave-pole-cloth-harbor-lazy-verb |  
 | bip_39_word_new_br_1 | girl |  
 | bip_39_word_new_br_10 | girl<br>cattle<br>inspire<br>wave<br>pole<br>cloth<br>harbor<br>lazy<br>verb<br>under |  
 | bip_39_word_new_br_11 | girl<br>cattle<br>inspire<br>wave<br>pole<br>cloth<br>harbor<br>lazy<br>verb<br>under<br>found |  
@@ -147,6 +159,18 @@ verb |
 | bip_39_word_space_7 | girl cattle inspire wave pole cloth harbor |  
 | bip_39_word_space_8 | girl cattle inspire wave pole cloth harbor lazy |  
 | bip_39_word_space_9 | girl cattle inspire wave pole cloth harbor lazy verb |  
+| bip_39_word_underscore_1 | girl |  
+| bip_39_word_underscore_10 | girl_cattle_inspire_wave_pole_cloth_harbor_lazy_verb_under |  
+| bip_39_word_underscore_11 | girl_cattle_inspire_wave_pole_cloth_harbor_lazy_verb_under_found |  
+| bip_39_word_underscore_12 | girl_cattle_inspire_wave_pole_cloth_harbor_lazy_verb_under_found_aisle |  
+| bip_39_word_underscore_2 | girl_cattle |  
+| bip_39_word_underscore_3 | girl_cattle_inspire |  
+| bip_39_word_underscore_4 | girl_cattle_inspire_wave |  
+| bip_39_word_underscore_5 | girl_cattle_inspire_wave_pole |  
+| bip_39_word_underscore_6 | girl_cattle_inspire_wave_pole_cloth |  
+| bip_39_word_underscore_7 | girl_cattle_inspire_wave_pole_cloth_harbor |  
+| bip_39_word_underscore_8 | girl_cattle_inspire_wave_pole_cloth_harbor_lazy |  
+| bip_39_word_underscore_9 | girl_cattle_inspire_wave_pole_cloth_harbor_lazy_verb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

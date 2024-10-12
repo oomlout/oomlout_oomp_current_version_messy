@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cousin |  
+| bip_39_word_dash_10 | cousin-spoon-belt-record-possible-flag-heavy-paddle-below-slow |  
+| bip_39_word_dash_11 | cousin-spoon-belt-record-possible-flag-heavy-paddle-below-slow-myth |  
+| bip_39_word_dash_12 | cousin-spoon-belt-record-possible-flag-heavy-paddle-below-slow-myth-afraid |  
+| bip_39_word_dash_2 | cousin-spoon |  
+| bip_39_word_dash_3 | cousin-spoon-belt |  
+| bip_39_word_dash_4 | cousin-spoon-belt-record |  
+| bip_39_word_dash_5 | cousin-spoon-belt-record-possible |  
+| bip_39_word_dash_6 | cousin-spoon-belt-record-possible-flag |  
+| bip_39_word_dash_7 | cousin-spoon-belt-record-possible-flag-heavy |  
+| bip_39_word_dash_8 | cousin-spoon-belt-record-possible-flag-heavy-paddle |  
+| bip_39_word_dash_9 | cousin-spoon-belt-record-possible-flag-heavy-paddle-below |  
 | bip_39_word_new_br_1 | cousin |  
 | bip_39_word_new_br_10 | cousin<br>spoon<br>belt<br>record<br>possible<br>flag<br>heavy<br>paddle<br>below<br>slow |  
 | bip_39_word_new_br_11 | cousin<br>spoon<br>belt<br>record<br>possible<br>flag<br>heavy<br>paddle<br>below<br>slow<br>myth |  
@@ -147,6 +159,18 @@ below |
 | bip_39_word_space_7 | cousin spoon belt record possible flag heavy |  
 | bip_39_word_space_8 | cousin spoon belt record possible flag heavy paddle |  
 | bip_39_word_space_9 | cousin spoon belt record possible flag heavy paddle below |  
+| bip_39_word_underscore_1 | cousin |  
+| bip_39_word_underscore_10 | cousin_spoon_belt_record_possible_flag_heavy_paddle_below_slow |  
+| bip_39_word_underscore_11 | cousin_spoon_belt_record_possible_flag_heavy_paddle_below_slow_myth |  
+| bip_39_word_underscore_12 | cousin_spoon_belt_record_possible_flag_heavy_paddle_below_slow_myth_afraid |  
+| bip_39_word_underscore_2 | cousin_spoon |  
+| bip_39_word_underscore_3 | cousin_spoon_belt |  
+| bip_39_word_underscore_4 | cousin_spoon_belt_record |  
+| bip_39_word_underscore_5 | cousin_spoon_belt_record_possible |  
+| bip_39_word_underscore_6 | cousin_spoon_belt_record_possible_flag |  
+| bip_39_word_underscore_7 | cousin_spoon_belt_record_possible_flag_heavy |  
+| bip_39_word_underscore_8 | cousin_spoon_belt_record_possible_flag_heavy_paddle |  
+| bip_39_word_underscore_9 | cousin_spoon_belt_record_possible_flag_heavy_paddle_below |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

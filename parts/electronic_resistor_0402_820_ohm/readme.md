@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | you |  
+| bip_39_word_dash_10 | you-dwarf-mouse-bone-siren-raise-lab-artist-indoor-crop |  
+| bip_39_word_dash_11 | you-dwarf-mouse-bone-siren-raise-lab-artist-indoor-crop-hour |  
+| bip_39_word_dash_12 | you-dwarf-mouse-bone-siren-raise-lab-artist-indoor-crop-hour-actual |  
+| bip_39_word_dash_2 | you-dwarf |  
+| bip_39_word_dash_3 | you-dwarf-mouse |  
+| bip_39_word_dash_4 | you-dwarf-mouse-bone |  
+| bip_39_word_dash_5 | you-dwarf-mouse-bone-siren |  
+| bip_39_word_dash_6 | you-dwarf-mouse-bone-siren-raise |  
+| bip_39_word_dash_7 | you-dwarf-mouse-bone-siren-raise-lab |  
+| bip_39_word_dash_8 | you-dwarf-mouse-bone-siren-raise-lab-artist |  
+| bip_39_word_dash_9 | you-dwarf-mouse-bone-siren-raise-lab-artist-indoor |  
 | bip_39_word_new_br_1 | you |  
 | bip_39_word_new_br_10 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist<br>indoor<br>crop |  
 | bip_39_word_new_br_11 | you<br>dwarf<br>mouse<br>bone<br>siren<br>raise<br>lab<br>artist<br>indoor<br>crop<br>hour |  
@@ -147,6 +159,18 @@ indoor |
 | bip_39_word_space_7 | you dwarf mouse bone siren raise lab |  
 | bip_39_word_space_8 | you dwarf mouse bone siren raise lab artist |  
 | bip_39_word_space_9 | you dwarf mouse bone siren raise lab artist indoor |  
+| bip_39_word_underscore_1 | you |  
+| bip_39_word_underscore_10 | you_dwarf_mouse_bone_siren_raise_lab_artist_indoor_crop |  
+| bip_39_word_underscore_11 | you_dwarf_mouse_bone_siren_raise_lab_artist_indoor_crop_hour |  
+| bip_39_word_underscore_12 | you_dwarf_mouse_bone_siren_raise_lab_artist_indoor_crop_hour_actual |  
+| bip_39_word_underscore_2 | you_dwarf |  
+| bip_39_word_underscore_3 | you_dwarf_mouse |  
+| bip_39_word_underscore_4 | you_dwarf_mouse_bone |  
+| bip_39_word_underscore_5 | you_dwarf_mouse_bone_siren |  
+| bip_39_word_underscore_6 | you_dwarf_mouse_bone_siren_raise |  
+| bip_39_word_underscore_7 | you_dwarf_mouse_bone_siren_raise_lab |  
+| bip_39_word_underscore_8 | you_dwarf_mouse_bone_siren_raise_lab_artist |  
+| bip_39_word_underscore_9 | you_dwarf_mouse_bone_siren_raise_lab_artist_indoor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

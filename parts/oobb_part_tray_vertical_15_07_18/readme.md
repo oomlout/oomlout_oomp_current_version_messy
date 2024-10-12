@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | evidence |  
+| bip_39_word_dash_10 | evidence-sketch-giraffe-wear-sustain-enrich-point-outside-quit-essence |  
+| bip_39_word_dash_11 | evidence-sketch-giraffe-wear-sustain-enrich-point-outside-quit-essence-evoke |  
+| bip_39_word_dash_12 | evidence-sketch-giraffe-wear-sustain-enrich-point-outside-quit-essence-evoke-atom |  
+| bip_39_word_dash_2 | evidence-sketch |  
+| bip_39_word_dash_3 | evidence-sketch-giraffe |  
+| bip_39_word_dash_4 | evidence-sketch-giraffe-wear |  
+| bip_39_word_dash_5 | evidence-sketch-giraffe-wear-sustain |  
+| bip_39_word_dash_6 | evidence-sketch-giraffe-wear-sustain-enrich |  
+| bip_39_word_dash_7 | evidence-sketch-giraffe-wear-sustain-enrich-point |  
+| bip_39_word_dash_8 | evidence-sketch-giraffe-wear-sustain-enrich-point-outside |  
+| bip_39_word_dash_9 | evidence-sketch-giraffe-wear-sustain-enrich-point-outside-quit |  
 | bip_39_word_new_br_1 | evidence |  
 | bip_39_word_new_br_10 | evidence<br>sketch<br>giraffe<br>wear<br>sustain<br>enrich<br>point<br>outside<br>quit<br>essence |  
 | bip_39_word_new_br_11 | evidence<br>sketch<br>giraffe<br>wear<br>sustain<br>enrich<br>point<br>outside<br>quit<br>essence<br>evoke |  
@@ -147,6 +159,18 @@ quit |
 | bip_39_word_space_7 | evidence sketch giraffe wear sustain enrich point |  
 | bip_39_word_space_8 | evidence sketch giraffe wear sustain enrich point outside |  
 | bip_39_word_space_9 | evidence sketch giraffe wear sustain enrich point outside quit |  
+| bip_39_word_underscore_1 | evidence |  
+| bip_39_word_underscore_10 | evidence_sketch_giraffe_wear_sustain_enrich_point_outside_quit_essence |  
+| bip_39_word_underscore_11 | evidence_sketch_giraffe_wear_sustain_enrich_point_outside_quit_essence_evoke |  
+| bip_39_word_underscore_12 | evidence_sketch_giraffe_wear_sustain_enrich_point_outside_quit_essence_evoke_atom |  
+| bip_39_word_underscore_2 | evidence_sketch |  
+| bip_39_word_underscore_3 | evidence_sketch_giraffe |  
+| bip_39_word_underscore_4 | evidence_sketch_giraffe_wear |  
+| bip_39_word_underscore_5 | evidence_sketch_giraffe_wear_sustain |  
+| bip_39_word_underscore_6 | evidence_sketch_giraffe_wear_sustain_enrich |  
+| bip_39_word_underscore_7 | evidence_sketch_giraffe_wear_sustain_enrich_point |  
+| bip_39_word_underscore_8 | evidence_sketch_giraffe_wear_sustain_enrich_point_outside |  
+| bip_39_word_underscore_9 | evidence_sketch_giraffe_wear_sustain_enrich_point_outside_quit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | must |  
+| bip_39_word_dash_10 | must-theory-process-siege-need-escape-axis-cup-energy-mention |  
+| bip_39_word_dash_11 | must-theory-process-siege-need-escape-axis-cup-energy-mention-bar |  
+| bip_39_word_dash_12 | must-theory-process-siege-need-escape-axis-cup-energy-mention-bar-amused |  
+| bip_39_word_dash_2 | must-theory |  
+| bip_39_word_dash_3 | must-theory-process |  
+| bip_39_word_dash_4 | must-theory-process-siege |  
+| bip_39_word_dash_5 | must-theory-process-siege-need |  
+| bip_39_word_dash_6 | must-theory-process-siege-need-escape |  
+| bip_39_word_dash_7 | must-theory-process-siege-need-escape-axis |  
+| bip_39_word_dash_8 | must-theory-process-siege-need-escape-axis-cup |  
+| bip_39_word_dash_9 | must-theory-process-siege-need-escape-axis-cup-energy |  
 | bip_39_word_new_br_1 | must |  
 | bip_39_word_new_br_10 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup<br>energy<br>mention |  
 | bip_39_word_new_br_11 | must<br>theory<br>process<br>siege<br>need<br>escape<br>axis<br>cup<br>energy<br>mention<br>bar |  
@@ -147,6 +159,18 @@ energy |
 | bip_39_word_space_7 | must theory process siege need escape axis |  
 | bip_39_word_space_8 | must theory process siege need escape axis cup |  
 | bip_39_word_space_9 | must theory process siege need escape axis cup energy |  
+| bip_39_word_underscore_1 | must |  
+| bip_39_word_underscore_10 | must_theory_process_siege_need_escape_axis_cup_energy_mention |  
+| bip_39_word_underscore_11 | must_theory_process_siege_need_escape_axis_cup_energy_mention_bar |  
+| bip_39_word_underscore_12 | must_theory_process_siege_need_escape_axis_cup_energy_mention_bar_amused |  
+| bip_39_word_underscore_2 | must_theory |  
+| bip_39_word_underscore_3 | must_theory_process |  
+| bip_39_word_underscore_4 | must_theory_process_siege |  
+| bip_39_word_underscore_5 | must_theory_process_siege_need |  
+| bip_39_word_underscore_6 | must_theory_process_siege_need_escape |  
+| bip_39_word_underscore_7 | must_theory_process_siege_need_escape_axis |  
+| bip_39_word_underscore_8 | must_theory_process_siege_need_escape_axis_cup |  
+| bip_39_word_underscore_9 | must_theory_process_siege_need_escape_axis_cup_energy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

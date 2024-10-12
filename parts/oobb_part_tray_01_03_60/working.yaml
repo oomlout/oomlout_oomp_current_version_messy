@@ -1,3 +1,15 @@
+bip_39_word_dash_1: era
+bip_39_word_dash_10: era-lady-dizzy-keen-eight-rural-choose-notice-tiny-phone
+bip_39_word_dash_11: era-lady-dizzy-keen-eight-rural-choose-notice-tiny-phone-cousin
+bip_39_word_dash_12: era-lady-dizzy-keen-eight-rural-choose-notice-tiny-phone-cousin-afraid
+bip_39_word_dash_2: era-lady
+bip_39_word_dash_3: era-lady-dizzy
+bip_39_word_dash_4: era-lady-dizzy-keen
+bip_39_word_dash_5: era-lady-dizzy-keen-eight
+bip_39_word_dash_6: era-lady-dizzy-keen-eight-rural
+bip_39_word_dash_7: era-lady-dizzy-keen-eight-rural-choose
+bip_39_word_dash_8: era-lady-dizzy-keen-eight-rural-choose-notice
+bip_39_word_dash_9: era-lady-dizzy-keen-eight-rural-choose-notice-tiny
 bip_39_word_new_br_1: era
 bip_39_word_new_br_10: era<br>lady<br>dizzy<br>keen<br>eight<br>rural<br>choose<br>notice<br>tiny<br>phone
 bip_39_word_new_br_11: era<br>lady<br>dizzy<br>keen<br>eight<br>rural<br>choose<br>notice<br>tiny<br>phone<br>cousin
@@ -192,6 +204,18 @@ bip_39_word_space_6: era lady dizzy keen eight rural
 bip_39_word_space_7: era lady dizzy keen eight rural choose
 bip_39_word_space_8: era lady dizzy keen eight rural choose notice
 bip_39_word_space_9: era lady dizzy keen eight rural choose notice tiny
+bip_39_word_underscore_1: era
+bip_39_word_underscore_10: era_lady_dizzy_keen_eight_rural_choose_notice_tiny_phone
+bip_39_word_underscore_11: era_lady_dizzy_keen_eight_rural_choose_notice_tiny_phone_cousin
+bip_39_word_underscore_12: era_lady_dizzy_keen_eight_rural_choose_notice_tiny_phone_cousin_afraid
+bip_39_word_underscore_2: era_lady
+bip_39_word_underscore_3: era_lady_dizzy
+bip_39_word_underscore_4: era_lady_dizzy_keen
+bip_39_word_underscore_5: era_lady_dizzy_keen_eight
+bip_39_word_underscore_6: era_lady_dizzy_keen_eight_rural
+bip_39_word_underscore_7: era_lady_dizzy_keen_eight_rural_choose
+bip_39_word_underscore_8: era_lady_dizzy_keen_eight_rural_choose_notice
+bip_39_word_underscore_9: era_lady_dizzy_keen_eight_rural_choose_notice_tiny
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | observe |  
+| bip_39_word_dash_10 | observe-unknown-liar-wrestle-vote-sick-behind-erosion-corn-emerge |  
+| bip_39_word_dash_11 | observe-unknown-liar-wrestle-vote-sick-behind-erosion-corn-emerge-occur |  
+| bip_39_word_dash_12 | observe-unknown-liar-wrestle-vote-sick-behind-erosion-corn-emerge-occur-apology |  
+| bip_39_word_dash_2 | observe-unknown |  
+| bip_39_word_dash_3 | observe-unknown-liar |  
+| bip_39_word_dash_4 | observe-unknown-liar-wrestle |  
+| bip_39_word_dash_5 | observe-unknown-liar-wrestle-vote |  
+| bip_39_word_dash_6 | observe-unknown-liar-wrestle-vote-sick |  
+| bip_39_word_dash_7 | observe-unknown-liar-wrestle-vote-sick-behind |  
+| bip_39_word_dash_8 | observe-unknown-liar-wrestle-vote-sick-behind-erosion |  
+| bip_39_word_dash_9 | observe-unknown-liar-wrestle-vote-sick-behind-erosion-corn |  
 | bip_39_word_new_br_1 | observe |  
 | bip_39_word_new_br_10 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge |  
 | bip_39_word_new_br_11 | observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge<br>occur |  
@@ -147,6 +159,18 @@ corn |
 | bip_39_word_space_7 | observe unknown liar wrestle vote sick behind |  
 | bip_39_word_space_8 | observe unknown liar wrestle vote sick behind erosion |  
 | bip_39_word_space_9 | observe unknown liar wrestle vote sick behind erosion corn |  
+| bip_39_word_underscore_1 | observe |  
+| bip_39_word_underscore_10 | observe_unknown_liar_wrestle_vote_sick_behind_erosion_corn_emerge |  
+| bip_39_word_underscore_11 | observe_unknown_liar_wrestle_vote_sick_behind_erosion_corn_emerge_occur |  
+| bip_39_word_underscore_12 | observe_unknown_liar_wrestle_vote_sick_behind_erosion_corn_emerge_occur_apology |  
+| bip_39_word_underscore_2 | observe_unknown |  
+| bip_39_word_underscore_3 | observe_unknown_liar |  
+| bip_39_word_underscore_4 | observe_unknown_liar_wrestle |  
+| bip_39_word_underscore_5 | observe_unknown_liar_wrestle_vote |  
+| bip_39_word_underscore_6 | observe_unknown_liar_wrestle_vote_sick |  
+| bip_39_word_underscore_7 | observe_unknown_liar_wrestle_vote_sick_behind |  
+| bip_39_word_underscore_8 | observe_unknown_liar_wrestle_vote_sick_behind_erosion |  
+| bip_39_word_underscore_9 | observe_unknown_liar_wrestle_vote_sick_behind_erosion_corn |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

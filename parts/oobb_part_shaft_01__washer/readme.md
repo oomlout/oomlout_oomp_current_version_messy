@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rally |  
+| bip_39_word_dash_10 | rally-core-disorder-ship-item-awake-attack-put-mass-right |  
+| bip_39_word_dash_11 | rally-core-disorder-ship-item-awake-attack-put-mass-right-perfect |  
+| bip_39_word_dash_12 | rally-core-disorder-ship-item-awake-attack-put-mass-right-perfect-army |  
+| bip_39_word_dash_2 | rally-core |  
+| bip_39_word_dash_3 | rally-core-disorder |  
+| bip_39_word_dash_4 | rally-core-disorder-ship |  
+| bip_39_word_dash_5 | rally-core-disorder-ship-item |  
+| bip_39_word_dash_6 | rally-core-disorder-ship-item-awake |  
+| bip_39_word_dash_7 | rally-core-disorder-ship-item-awake-attack |  
+| bip_39_word_dash_8 | rally-core-disorder-ship-item-awake-attack-put |  
+| bip_39_word_dash_9 | rally-core-disorder-ship-item-awake-attack-put-mass |  
 | bip_39_word_new_br_1 | rally |  
 | bip_39_word_new_br_10 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put<br>mass<br>right |  
 | bip_39_word_new_br_11 | rally<br>core<br>disorder<br>ship<br>item<br>awake<br>attack<br>put<br>mass<br>right<br>perfect |  
@@ -147,6 +159,18 @@ mass |
 | bip_39_word_space_7 | rally core disorder ship item awake attack |  
 | bip_39_word_space_8 | rally core disorder ship item awake attack put |  
 | bip_39_word_space_9 | rally core disorder ship item awake attack put mass |  
+| bip_39_word_underscore_1 | rally |  
+| bip_39_word_underscore_10 | rally_core_disorder_ship_item_awake_attack_put_mass_right |  
+| bip_39_word_underscore_11 | rally_core_disorder_ship_item_awake_attack_put_mass_right_perfect |  
+| bip_39_word_underscore_12 | rally_core_disorder_ship_item_awake_attack_put_mass_right_perfect_army |  
+| bip_39_word_underscore_2 | rally_core |  
+| bip_39_word_underscore_3 | rally_core_disorder |  
+| bip_39_word_underscore_4 | rally_core_disorder_ship |  
+| bip_39_word_underscore_5 | rally_core_disorder_ship_item |  
+| bip_39_word_underscore_6 | rally_core_disorder_ship_item_awake |  
+| bip_39_word_underscore_7 | rally_core_disorder_ship_item_awake_attack |  
+| bip_39_word_underscore_8 | rally_core_disorder_ship_item_awake_attack_put |  
+| bip_39_word_underscore_9 | rally_core_disorder_ship_item_awake_attack_put_mass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

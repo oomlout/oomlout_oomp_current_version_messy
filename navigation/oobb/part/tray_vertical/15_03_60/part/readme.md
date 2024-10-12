@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | drip |  
+| bip_39_word_dash_10 | drip-surface-borrow-caution-you-know-spirit-between-okay-approve |  
+| bip_39_word_dash_11 | drip-surface-borrow-caution-you-know-spirit-between-okay-approve-silver |  
+| bip_39_word_dash_12 | drip-surface-borrow-caution-you-know-spirit-between-okay-approve-silver-arctic |  
+| bip_39_word_dash_2 | drip-surface |  
+| bip_39_word_dash_3 | drip-surface-borrow |  
+| bip_39_word_dash_4 | drip-surface-borrow-caution |  
+| bip_39_word_dash_5 | drip-surface-borrow-caution-you |  
+| bip_39_word_dash_6 | drip-surface-borrow-caution-you-know |  
+| bip_39_word_dash_7 | drip-surface-borrow-caution-you-know-spirit |  
+| bip_39_word_dash_8 | drip-surface-borrow-caution-you-know-spirit-between |  
+| bip_39_word_dash_9 | drip-surface-borrow-caution-you-know-spirit-between-okay |  
 | bip_39_word_new_br_1 | drip |  
 | bip_39_word_new_br_10 | drip<br>surface<br>borrow<br>caution<br>you<br>know<br>spirit<br>between<br>okay<br>approve |  
 | bip_39_word_new_br_11 | drip<br>surface<br>borrow<br>caution<br>you<br>know<br>spirit<br>between<br>okay<br>approve<br>silver |  
@@ -147,6 +159,18 @@ okay |
 | bip_39_word_space_7 | drip surface borrow caution you know spirit |  
 | bip_39_word_space_8 | drip surface borrow caution you know spirit between |  
 | bip_39_word_space_9 | drip surface borrow caution you know spirit between okay |  
+| bip_39_word_underscore_1 | drip |  
+| bip_39_word_underscore_10 | drip_surface_borrow_caution_you_know_spirit_between_okay_approve |  
+| bip_39_word_underscore_11 | drip_surface_borrow_caution_you_know_spirit_between_okay_approve_silver |  
+| bip_39_word_underscore_12 | drip_surface_borrow_caution_you_know_spirit_between_okay_approve_silver_arctic |  
+| bip_39_word_underscore_2 | drip_surface |  
+| bip_39_word_underscore_3 | drip_surface_borrow |  
+| bip_39_word_underscore_4 | drip_surface_borrow_caution |  
+| bip_39_word_underscore_5 | drip_surface_borrow_caution_you |  
+| bip_39_word_underscore_6 | drip_surface_borrow_caution_you_know |  
+| bip_39_word_underscore_7 | drip_surface_borrow_caution_you_know_spirit |  
+| bip_39_word_underscore_8 | drip_surface_borrow_caution_you_know_spirit_between |  
+| bip_39_word_underscore_9 | drip_surface_borrow_caution_you_know_spirit_between_okay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

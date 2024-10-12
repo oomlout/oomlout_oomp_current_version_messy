@@ -1,3 +1,15 @@
+bip_39_word_dash_1: tenant
+bip_39_word_dash_10: tenant-file-finish-pond-buyer-angry-year-invite-fence-suit
+bip_39_word_dash_11: tenant-file-finish-pond-buyer-angry-year-invite-fence-suit-common
+bip_39_word_dash_12: tenant-file-finish-pond-buyer-angry-year-invite-fence-suit-common-account
+bip_39_word_dash_2: tenant-file
+bip_39_word_dash_3: tenant-file-finish
+bip_39_word_dash_4: tenant-file-finish-pond
+bip_39_word_dash_5: tenant-file-finish-pond-buyer
+bip_39_word_dash_6: tenant-file-finish-pond-buyer-angry
+bip_39_word_dash_7: tenant-file-finish-pond-buyer-angry-year
+bip_39_word_dash_8: tenant-file-finish-pond-buyer-angry-year-invite
+bip_39_word_dash_9: tenant-file-finish-pond-buyer-angry-year-invite-fence
 bip_39_word_new_br_1: tenant
 bip_39_word_new_br_10: tenant<br>file<br>finish<br>pond<br>buyer<br>angry<br>year<br>invite<br>fence<br>suit
 bip_39_word_new_br_11: tenant<br>file<br>finish<br>pond<br>buyer<br>angry<br>year<br>invite<br>fence<br>suit<br>common
@@ -192,6 +204,18 @@ bip_39_word_space_6: tenant file finish pond buyer angry
 bip_39_word_space_7: tenant file finish pond buyer angry year
 bip_39_word_space_8: tenant file finish pond buyer angry year invite
 bip_39_word_space_9: tenant file finish pond buyer angry year invite fence
+bip_39_word_underscore_1: tenant
+bip_39_word_underscore_10: tenant_file_finish_pond_buyer_angry_year_invite_fence_suit
+bip_39_word_underscore_11: tenant_file_finish_pond_buyer_angry_year_invite_fence_suit_common
+bip_39_word_underscore_12: tenant_file_finish_pond_buyer_angry_year_invite_fence_suit_common_account
+bip_39_word_underscore_2: tenant_file
+bip_39_word_underscore_3: tenant_file_finish
+bip_39_word_underscore_4: tenant_file_finish_pond
+bip_39_word_underscore_5: tenant_file_finish_pond_buyer
+bip_39_word_underscore_6: tenant_file_finish_pond_buyer_angry
+bip_39_word_underscore_7: tenant_file_finish_pond_buyer_angry_year
+bip_39_word_underscore_8: tenant_file_finish_pond_buyer_angry_year_invite
+bip_39_word_underscore_9: tenant_file_finish_pond_buyer_angry_year_invite_fence
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

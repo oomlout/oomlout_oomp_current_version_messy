@@ -1,3 +1,15 @@
+bip_39_word_dash_1: capable
+bip_39_word_dash_10: capable-soul-special-deposit-expire-hint-scrub-refuse-arm-skirt
+bip_39_word_dash_11: capable-soul-special-deposit-expire-hint-scrub-refuse-arm-skirt-under
+bip_39_word_dash_12: capable-soul-special-deposit-expire-hint-scrub-refuse-arm-skirt-under-attitude
+bip_39_word_dash_2: capable-soul
+bip_39_word_dash_3: capable-soul-special
+bip_39_word_dash_4: capable-soul-special-deposit
+bip_39_word_dash_5: capable-soul-special-deposit-expire
+bip_39_word_dash_6: capable-soul-special-deposit-expire-hint
+bip_39_word_dash_7: capable-soul-special-deposit-expire-hint-scrub
+bip_39_word_dash_8: capable-soul-special-deposit-expire-hint-scrub-refuse
+bip_39_word_dash_9: capable-soul-special-deposit-expire-hint-scrub-refuse-arm
 bip_39_word_new_br_1: capable
 bip_39_word_new_br_10: capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt
 bip_39_word_new_br_11: capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt<br>under
@@ -193,6 +205,18 @@ bip_39_word_space_6: capable soul special deposit expire hint
 bip_39_word_space_7: capable soul special deposit expire hint scrub
 bip_39_word_space_8: capable soul special deposit expire hint scrub refuse
 bip_39_word_space_9: capable soul special deposit expire hint scrub refuse arm
+bip_39_word_underscore_1: capable
+bip_39_word_underscore_10: capable_soul_special_deposit_expire_hint_scrub_refuse_arm_skirt
+bip_39_word_underscore_11: capable_soul_special_deposit_expire_hint_scrub_refuse_arm_skirt_under
+bip_39_word_underscore_12: capable_soul_special_deposit_expire_hint_scrub_refuse_arm_skirt_under_attitude
+bip_39_word_underscore_2: capable_soul
+bip_39_word_underscore_3: capable_soul_special
+bip_39_word_underscore_4: capable_soul_special_deposit
+bip_39_word_underscore_5: capable_soul_special_deposit_expire
+bip_39_word_underscore_6: capable_soul_special_deposit_expire_hint
+bip_39_word_underscore_7: capable_soul_special_deposit_expire_hint_scrub
+bip_39_word_underscore_8: capable_soul_special_deposit_expire_hint_scrub_refuse
+bip_39_word_underscore_9: capable_soul_special_deposit_expire_hint_scrub_refuse_arm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

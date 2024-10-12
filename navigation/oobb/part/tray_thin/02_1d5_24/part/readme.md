@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | loyal |  
+| bip_39_word_dash_10 | loyal-again-insane-small-timber-cheese-biology-main-replace-force |  
+| bip_39_word_dash_11 | loyal-again-insane-small-timber-cheese-biology-main-replace-force-tumble |  
+| bip_39_word_dash_12 | loyal-again-insane-small-timber-cheese-biology-main-replace-force-tumble-absurd |  
+| bip_39_word_dash_2 | loyal-again |  
+| bip_39_word_dash_3 | loyal-again-insane |  
+| bip_39_word_dash_4 | loyal-again-insane-small |  
+| bip_39_word_dash_5 | loyal-again-insane-small-timber |  
+| bip_39_word_dash_6 | loyal-again-insane-small-timber-cheese |  
+| bip_39_word_dash_7 | loyal-again-insane-small-timber-cheese-biology |  
+| bip_39_word_dash_8 | loyal-again-insane-small-timber-cheese-biology-main |  
+| bip_39_word_dash_9 | loyal-again-insane-small-timber-cheese-biology-main-replace |  
 | bip_39_word_new_br_1 | loyal |  
 | bip_39_word_new_br_10 | loyal<br>again<br>insane<br>small<br>timber<br>cheese<br>biology<br>main<br>replace<br>force |  
 | bip_39_word_new_br_11 | loyal<br>again<br>insane<br>small<br>timber<br>cheese<br>biology<br>main<br>replace<br>force<br>tumble |  
@@ -147,6 +159,18 @@ replace |
 | bip_39_word_space_7 | loyal again insane small timber cheese biology |  
 | bip_39_word_space_8 | loyal again insane small timber cheese biology main |  
 | bip_39_word_space_9 | loyal again insane small timber cheese biology main replace |  
+| bip_39_word_underscore_1 | loyal |  
+| bip_39_word_underscore_10 | loyal_again_insane_small_timber_cheese_biology_main_replace_force |  
+| bip_39_word_underscore_11 | loyal_again_insane_small_timber_cheese_biology_main_replace_force_tumble |  
+| bip_39_word_underscore_12 | loyal_again_insane_small_timber_cheese_biology_main_replace_force_tumble_absurd |  
+| bip_39_word_underscore_2 | loyal_again |  
+| bip_39_word_underscore_3 | loyal_again_insane |  
+| bip_39_word_underscore_4 | loyal_again_insane_small |  
+| bip_39_word_underscore_5 | loyal_again_insane_small_timber |  
+| bip_39_word_underscore_6 | loyal_again_insane_small_timber_cheese |  
+| bip_39_word_underscore_7 | loyal_again_insane_small_timber_cheese_biology |  
+| bip_39_word_underscore_8 | loyal_again_insane_small_timber_cheese_biology_main |  
+| bip_39_word_underscore_9 | loyal_again_insane_small_timber_cheese_biology_main_replace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

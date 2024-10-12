@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | screen |  
+| bip_39_word_dash_10 | screen-place-magic-violin-wish-illegal-furnace-defense-there-program |  
+| bip_39_word_dash_11 | screen-place-magic-violin-wish-illegal-furnace-defense-there-program-shoulder |  
+| bip_39_word_dash_12 | screen-place-magic-violin-wish-illegal-furnace-defense-there-program-shoulder-ankle |  
+| bip_39_word_dash_2 | screen-place |  
+| bip_39_word_dash_3 | screen-place-magic |  
+| bip_39_word_dash_4 | screen-place-magic-violin |  
+| bip_39_word_dash_5 | screen-place-magic-violin-wish |  
+| bip_39_word_dash_6 | screen-place-magic-violin-wish-illegal |  
+| bip_39_word_dash_7 | screen-place-magic-violin-wish-illegal-furnace |  
+| bip_39_word_dash_8 | screen-place-magic-violin-wish-illegal-furnace-defense |  
+| bip_39_word_dash_9 | screen-place-magic-violin-wish-illegal-furnace-defense-there |  
 | bip_39_word_new_br_1 | screen |  
 | bip_39_word_new_br_10 | screen<br>place<br>magic<br>violin<br>wish<br>illegal<br>furnace<br>defense<br>there<br>program |  
 | bip_39_word_new_br_11 | screen<br>place<br>magic<br>violin<br>wish<br>illegal<br>furnace<br>defense<br>there<br>program<br>shoulder |  
@@ -147,6 +159,18 @@ there |
 | bip_39_word_space_7 | screen place magic violin wish illegal furnace |  
 | bip_39_word_space_8 | screen place magic violin wish illegal furnace defense |  
 | bip_39_word_space_9 | screen place magic violin wish illegal furnace defense there |  
+| bip_39_word_underscore_1 | screen |  
+| bip_39_word_underscore_10 | screen_place_magic_violin_wish_illegal_furnace_defense_there_program |  
+| bip_39_word_underscore_11 | screen_place_magic_violin_wish_illegal_furnace_defense_there_program_shoulder |  
+| bip_39_word_underscore_12 | screen_place_magic_violin_wish_illegal_furnace_defense_there_program_shoulder_ankle |  
+| bip_39_word_underscore_2 | screen_place |  
+| bip_39_word_underscore_3 | screen_place_magic |  
+| bip_39_word_underscore_4 | screen_place_magic_violin |  
+| bip_39_word_underscore_5 | screen_place_magic_violin_wish |  
+| bip_39_word_underscore_6 | screen_place_magic_violin_wish_illegal |  
+| bip_39_word_underscore_7 | screen_place_magic_violin_wish_illegal_furnace |  
+| bip_39_word_underscore_8 | screen_place_magic_violin_wish_illegal_furnace_defense |  
+| bip_39_word_underscore_9 | screen_place_magic_violin_wish_illegal_furnace_defense_there |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

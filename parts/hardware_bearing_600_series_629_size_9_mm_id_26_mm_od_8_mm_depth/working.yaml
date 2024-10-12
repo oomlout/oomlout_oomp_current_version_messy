@@ -1,3 +1,15 @@
+bip_39_word_dash_1: warm
+bip_39_word_dash_10: warm-nut-visit-jeans-radar-door-minor-eye-flush-town
+bip_39_word_dash_11: warm-nut-visit-jeans-radar-door-minor-eye-flush-town-turn
+bip_39_word_dash_12: warm-nut-visit-jeans-radar-door-minor-eye-flush-town-turn-appear
+bip_39_word_dash_2: warm-nut
+bip_39_word_dash_3: warm-nut-visit
+bip_39_word_dash_4: warm-nut-visit-jeans
+bip_39_word_dash_5: warm-nut-visit-jeans-radar
+bip_39_word_dash_6: warm-nut-visit-jeans-radar-door
+bip_39_word_dash_7: warm-nut-visit-jeans-radar-door-minor
+bip_39_word_dash_8: warm-nut-visit-jeans-radar-door-minor-eye
+bip_39_word_dash_9: warm-nut-visit-jeans-radar-door-minor-eye-flush
 bip_39_word_new_br_1: warm
 bip_39_word_new_br_10: warm<br>nut<br>visit<br>jeans<br>radar<br>door<br>minor<br>eye<br>flush<br>town
 bip_39_word_new_br_11: warm<br>nut<br>visit<br>jeans<br>radar<br>door<br>minor<br>eye<br>flush<br>town<br>turn
@@ -191,6 +203,18 @@ bip_39_word_space_6: warm nut visit jeans radar door
 bip_39_word_space_7: warm nut visit jeans radar door minor
 bip_39_word_space_8: warm nut visit jeans radar door minor eye
 bip_39_word_space_9: warm nut visit jeans radar door minor eye flush
+bip_39_word_underscore_1: warm
+bip_39_word_underscore_10: warm_nut_visit_jeans_radar_door_minor_eye_flush_town
+bip_39_word_underscore_11: warm_nut_visit_jeans_radar_door_minor_eye_flush_town_turn
+bip_39_word_underscore_12: warm_nut_visit_jeans_radar_door_minor_eye_flush_town_turn_appear
+bip_39_word_underscore_2: warm_nut
+bip_39_word_underscore_3: warm_nut_visit
+bip_39_word_underscore_4: warm_nut_visit_jeans
+bip_39_word_underscore_5: warm_nut_visit_jeans_radar
+bip_39_word_underscore_6: warm_nut_visit_jeans_radar_door
+bip_39_word_underscore_7: warm_nut_visit_jeans_radar_door_minor
+bip_39_word_underscore_8: warm_nut_visit_jeans_radar_door_minor_eye
+bip_39_word_underscore_9: warm_nut_visit_jeans_radar_door_minor_eye_flush
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

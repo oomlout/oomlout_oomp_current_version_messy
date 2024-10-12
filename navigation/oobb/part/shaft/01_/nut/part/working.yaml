@@ -1,3 +1,15 @@
+bip_39_word_dash_1: guard
+bip_39_word_dash_10: guard-cancel-lake-ginger-razor-alien-episode-approve-shadow-tree
+bip_39_word_dash_11: guard-cancel-lake-ginger-razor-alien-episode-approve-shadow-tree-frog
+bip_39_word_dash_12: guard-cancel-lake-ginger-razor-alien-episode-approve-shadow-tree-frog-alter
+bip_39_word_dash_2: guard-cancel
+bip_39_word_dash_3: guard-cancel-lake
+bip_39_word_dash_4: guard-cancel-lake-ginger
+bip_39_word_dash_5: guard-cancel-lake-ginger-razor
+bip_39_word_dash_6: guard-cancel-lake-ginger-razor-alien
+bip_39_word_dash_7: guard-cancel-lake-ginger-razor-alien-episode
+bip_39_word_dash_8: guard-cancel-lake-ginger-razor-alien-episode-approve
+bip_39_word_dash_9: guard-cancel-lake-ginger-razor-alien-episode-approve-shadow
 bip_39_word_new_br_1: guard
 bip_39_word_new_br_10: guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve<br>shadow<br>tree
 bip_39_word_new_br_11: guard<br>cancel<br>lake<br>ginger<br>razor<br>alien<br>episode<br>approve<br>shadow<br>tree<br>frog
@@ -194,6 +206,18 @@ bip_39_word_space_6: guard cancel lake ginger razor alien
 bip_39_word_space_7: guard cancel lake ginger razor alien episode
 bip_39_word_space_8: guard cancel lake ginger razor alien episode approve
 bip_39_word_space_9: guard cancel lake ginger razor alien episode approve shadow
+bip_39_word_underscore_1: guard
+bip_39_word_underscore_10: guard_cancel_lake_ginger_razor_alien_episode_approve_shadow_tree
+bip_39_word_underscore_11: guard_cancel_lake_ginger_razor_alien_episode_approve_shadow_tree_frog
+bip_39_word_underscore_12: guard_cancel_lake_ginger_razor_alien_episode_approve_shadow_tree_frog_alter
+bip_39_word_underscore_2: guard_cancel
+bip_39_word_underscore_3: guard_cancel_lake
+bip_39_word_underscore_4: guard_cancel_lake_ginger
+bip_39_word_underscore_5: guard_cancel_lake_ginger_razor
+bip_39_word_underscore_6: guard_cancel_lake_ginger_razor_alien
+bip_39_word_underscore_7: guard_cancel_lake_ginger_razor_alien_episode
+bip_39_word_underscore_8: guard_cancel_lake_ginger_razor_alien_episode_approve
+bip_39_word_underscore_9: guard_cancel_lake_ginger_razor_alien_episode_approve_shadow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

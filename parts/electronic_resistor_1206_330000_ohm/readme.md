@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clinic |  
+| bip_39_word_dash_10 | clinic-uphold-february-team-fame-warrior-puzzle-pyramid-dial-panel |  
+| bip_39_word_dash_11 | clinic-uphold-february-team-fame-warrior-puzzle-pyramid-dial-panel-end |  
+| bip_39_word_dash_12 | clinic-uphold-february-team-fame-warrior-puzzle-pyramid-dial-panel-end-addict |  
+| bip_39_word_dash_2 | clinic-uphold |  
+| bip_39_word_dash_3 | clinic-uphold-february |  
+| bip_39_word_dash_4 | clinic-uphold-february-team |  
+| bip_39_word_dash_5 | clinic-uphold-february-team-fame |  
+| bip_39_word_dash_6 | clinic-uphold-february-team-fame-warrior |  
+| bip_39_word_dash_7 | clinic-uphold-february-team-fame-warrior-puzzle |  
+| bip_39_word_dash_8 | clinic-uphold-february-team-fame-warrior-puzzle-pyramid |  
+| bip_39_word_dash_9 | clinic-uphold-february-team-fame-warrior-puzzle-pyramid-dial |  
 | bip_39_word_new_br_1 | clinic |  
 | bip_39_word_new_br_10 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid<br>dial<br>panel |  
 | bip_39_word_new_br_11 | clinic<br>uphold<br>february<br>team<br>fame<br>warrior<br>puzzle<br>pyramid<br>dial<br>panel<br>end |  
@@ -147,6 +159,18 @@ dial |
 | bip_39_word_space_7 | clinic uphold february team fame warrior puzzle |  
 | bip_39_word_space_8 | clinic uphold february team fame warrior puzzle pyramid |  
 | bip_39_word_space_9 | clinic uphold february team fame warrior puzzle pyramid dial |  
+| bip_39_word_underscore_1 | clinic |  
+| bip_39_word_underscore_10 | clinic_uphold_february_team_fame_warrior_puzzle_pyramid_dial_panel |  
+| bip_39_word_underscore_11 | clinic_uphold_february_team_fame_warrior_puzzle_pyramid_dial_panel_end |  
+| bip_39_word_underscore_12 | clinic_uphold_february_team_fame_warrior_puzzle_pyramid_dial_panel_end_addict |  
+| bip_39_word_underscore_2 | clinic_uphold |  
+| bip_39_word_underscore_3 | clinic_uphold_february |  
+| bip_39_word_underscore_4 | clinic_uphold_february_team |  
+| bip_39_word_underscore_5 | clinic_uphold_february_team_fame |  
+| bip_39_word_underscore_6 | clinic_uphold_february_team_fame_warrior |  
+| bip_39_word_underscore_7 | clinic_uphold_february_team_fame_warrior_puzzle |  
+| bip_39_word_underscore_8 | clinic_uphold_february_team_fame_warrior_puzzle_pyramid |  
+| bip_39_word_underscore_9 | clinic_uphold_february_team_fame_warrior_puzzle_pyramid_dial |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sustain |  
+| bip_39_word_dash_10 | sustain-bind-loud-truck-diamond-raven-guitar-scissors-parrot-size |  
+| bip_39_word_dash_11 | sustain-bind-loud-truck-diamond-raven-guitar-scissors-parrot-size-senior |  
+| bip_39_word_dash_12 | sustain-bind-loud-truck-diamond-raven-guitar-scissors-parrot-size-senior-artwork |  
+| bip_39_word_dash_2 | sustain-bind |  
+| bip_39_word_dash_3 | sustain-bind-loud |  
+| bip_39_word_dash_4 | sustain-bind-loud-truck |  
+| bip_39_word_dash_5 | sustain-bind-loud-truck-diamond |  
+| bip_39_word_dash_6 | sustain-bind-loud-truck-diamond-raven |  
+| bip_39_word_dash_7 | sustain-bind-loud-truck-diamond-raven-guitar |  
+| bip_39_word_dash_8 | sustain-bind-loud-truck-diamond-raven-guitar-scissors |  
+| bip_39_word_dash_9 | sustain-bind-loud-truck-diamond-raven-guitar-scissors-parrot |  
 | bip_39_word_new_br_1 | sustain |  
 | bip_39_word_new_br_10 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors<br>parrot<br>size |  
 | bip_39_word_new_br_11 | sustain<br>bind<br>loud<br>truck<br>diamond<br>raven<br>guitar<br>scissors<br>parrot<br>size<br>senior |  
@@ -147,6 +159,18 @@ parrot |
 | bip_39_word_space_7 | sustain bind loud truck diamond raven guitar |  
 | bip_39_word_space_8 | sustain bind loud truck diamond raven guitar scissors |  
 | bip_39_word_space_9 | sustain bind loud truck diamond raven guitar scissors parrot |  
+| bip_39_word_underscore_1 | sustain |  
+| bip_39_word_underscore_10 | sustain_bind_loud_truck_diamond_raven_guitar_scissors_parrot_size |  
+| bip_39_word_underscore_11 | sustain_bind_loud_truck_diamond_raven_guitar_scissors_parrot_size_senior |  
+| bip_39_word_underscore_12 | sustain_bind_loud_truck_diamond_raven_guitar_scissors_parrot_size_senior_artwork |  
+| bip_39_word_underscore_2 | sustain_bind |  
+| bip_39_word_underscore_3 | sustain_bind_loud |  
+| bip_39_word_underscore_4 | sustain_bind_loud_truck |  
+| bip_39_word_underscore_5 | sustain_bind_loud_truck_diamond |  
+| bip_39_word_underscore_6 | sustain_bind_loud_truck_diamond_raven |  
+| bip_39_word_underscore_7 | sustain_bind_loud_truck_diamond_raven_guitar |  
+| bip_39_word_underscore_8 | sustain_bind_loud_truck_diamond_raven_guitar_scissors |  
+| bip_39_word_underscore_9 | sustain_bind_loud_truck_diamond_raven_guitar_scissors_parrot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

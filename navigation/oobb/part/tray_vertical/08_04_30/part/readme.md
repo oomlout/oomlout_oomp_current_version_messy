@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | siege |  
+| bip_39_word_dash_10 | siege-blast-start-orange-donate-pass-decrease-initial-pencil-renew |  
+| bip_39_word_dash_11 | siege-blast-start-orange-donate-pass-decrease-initial-pencil-renew-vacant |  
+| bip_39_word_dash_12 | siege-blast-start-orange-donate-pass-decrease-initial-pencil-renew-vacant-arrive |  
+| bip_39_word_dash_2 | siege-blast |  
+| bip_39_word_dash_3 | siege-blast-start |  
+| bip_39_word_dash_4 | siege-blast-start-orange |  
+| bip_39_word_dash_5 | siege-blast-start-orange-donate |  
+| bip_39_word_dash_6 | siege-blast-start-orange-donate-pass |  
+| bip_39_word_dash_7 | siege-blast-start-orange-donate-pass-decrease |  
+| bip_39_word_dash_8 | siege-blast-start-orange-donate-pass-decrease-initial |  
+| bip_39_word_dash_9 | siege-blast-start-orange-donate-pass-decrease-initial-pencil |  
 | bip_39_word_new_br_1 | siege |  
 | bip_39_word_new_br_10 | siege<br>blast<br>start<br>orange<br>donate<br>pass<br>decrease<br>initial<br>pencil<br>renew |  
 | bip_39_word_new_br_11 | siege<br>blast<br>start<br>orange<br>donate<br>pass<br>decrease<br>initial<br>pencil<br>renew<br>vacant |  
@@ -147,6 +159,18 @@ pencil |
 | bip_39_word_space_7 | siege blast start orange donate pass decrease |  
 | bip_39_word_space_8 | siege blast start orange donate pass decrease initial |  
 | bip_39_word_space_9 | siege blast start orange donate pass decrease initial pencil |  
+| bip_39_word_underscore_1 | siege |  
+| bip_39_word_underscore_10 | siege_blast_start_orange_donate_pass_decrease_initial_pencil_renew |  
+| bip_39_word_underscore_11 | siege_blast_start_orange_donate_pass_decrease_initial_pencil_renew_vacant |  
+| bip_39_word_underscore_12 | siege_blast_start_orange_donate_pass_decrease_initial_pencil_renew_vacant_arrive |  
+| bip_39_word_underscore_2 | siege_blast |  
+| bip_39_word_underscore_3 | siege_blast_start |  
+| bip_39_word_underscore_4 | siege_blast_start_orange |  
+| bip_39_word_underscore_5 | siege_blast_start_orange_donate |  
+| bip_39_word_underscore_6 | siege_blast_start_orange_donate_pass |  
+| bip_39_word_underscore_7 | siege_blast_start_orange_donate_pass_decrease |  
+| bip_39_word_underscore_8 | siege_blast_start_orange_donate_pass_decrease_initial |  
+| bip_39_word_underscore_9 | siege_blast_start_orange_donate_pass_decrease_initial_pencil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

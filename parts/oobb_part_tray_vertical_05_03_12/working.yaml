@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ask
+bip_39_word_dash_10: ask-position-peanut-nose-hip-crucial-assault-sweet-solid-guide
+bip_39_word_dash_11: ask-position-peanut-nose-hip-crucial-assault-sweet-solid-guide-found
+bip_39_word_dash_12: ask-position-peanut-nose-hip-crucial-assault-sweet-solid-guide-found-airport
+bip_39_word_dash_2: ask-position
+bip_39_word_dash_3: ask-position-peanut
+bip_39_word_dash_4: ask-position-peanut-nose
+bip_39_word_dash_5: ask-position-peanut-nose-hip
+bip_39_word_dash_6: ask-position-peanut-nose-hip-crucial
+bip_39_word_dash_7: ask-position-peanut-nose-hip-crucial-assault
+bip_39_word_dash_8: ask-position-peanut-nose-hip-crucial-assault-sweet
+bip_39_word_dash_9: ask-position-peanut-nose-hip-crucial-assault-sweet-solid
 bip_39_word_new_br_1: ask
 bip_39_word_new_br_10: ask<br>position<br>peanut<br>nose<br>hip<br>crucial<br>assault<br>sweet<br>solid<br>guide
 bip_39_word_new_br_11: ask<br>position<br>peanut<br>nose<br>hip<br>crucial<br>assault<br>sweet<br>solid<br>guide<br>found
@@ -193,6 +205,18 @@ bip_39_word_space_6: ask position peanut nose hip crucial
 bip_39_word_space_7: ask position peanut nose hip crucial assault
 bip_39_word_space_8: ask position peanut nose hip crucial assault sweet
 bip_39_word_space_9: ask position peanut nose hip crucial assault sweet solid
+bip_39_word_underscore_1: ask
+bip_39_word_underscore_10: ask_position_peanut_nose_hip_crucial_assault_sweet_solid_guide
+bip_39_word_underscore_11: ask_position_peanut_nose_hip_crucial_assault_sweet_solid_guide_found
+bip_39_word_underscore_12: ask_position_peanut_nose_hip_crucial_assault_sweet_solid_guide_found_airport
+bip_39_word_underscore_2: ask_position
+bip_39_word_underscore_3: ask_position_peanut
+bip_39_word_underscore_4: ask_position_peanut_nose
+bip_39_word_underscore_5: ask_position_peanut_nose_hip
+bip_39_word_underscore_6: ask_position_peanut_nose_hip_crucial
+bip_39_word_underscore_7: ask_position_peanut_nose_hip_crucial_assault
+bip_39_word_underscore_8: ask_position_peanut_nose_hip_crucial_assault_sweet
+bip_39_word_underscore_9: ask_position_peanut_nose_hip_crucial_assault_sweet_solid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

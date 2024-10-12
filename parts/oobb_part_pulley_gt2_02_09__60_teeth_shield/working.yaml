@@ -1,3 +1,15 @@
+bip_39_word_dash_1: raw
+bip_39_word_dash_10: raw-endorse-discover-rival-joke-cream-resist-drop-draft-surge
+bip_39_word_dash_11: raw-endorse-discover-rival-joke-cream-resist-drop-draft-surge-flee
+bip_39_word_dash_12: raw-endorse-discover-rival-joke-cream-resist-drop-draft-surge-flee-act
+bip_39_word_dash_2: raw-endorse
+bip_39_word_dash_3: raw-endorse-discover
+bip_39_word_dash_4: raw-endorse-discover-rival
+bip_39_word_dash_5: raw-endorse-discover-rival-joke
+bip_39_word_dash_6: raw-endorse-discover-rival-joke-cream
+bip_39_word_dash_7: raw-endorse-discover-rival-joke-cream-resist
+bip_39_word_dash_8: raw-endorse-discover-rival-joke-cream-resist-drop
+bip_39_word_dash_9: raw-endorse-discover-rival-joke-cream-resist-drop-draft
 bip_39_word_new_br_1: raw
 bip_39_word_new_br_10: raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop<br>draft<br>surge
 bip_39_word_new_br_11: raw<br>endorse<br>discover<br>rival<br>joke<br>cream<br>resist<br>drop<br>draft<br>surge<br>flee
@@ -193,6 +205,18 @@ bip_39_word_space_6: raw endorse discover rival joke cream
 bip_39_word_space_7: raw endorse discover rival joke cream resist
 bip_39_word_space_8: raw endorse discover rival joke cream resist drop
 bip_39_word_space_9: raw endorse discover rival joke cream resist drop draft
+bip_39_word_underscore_1: raw
+bip_39_word_underscore_10: raw_endorse_discover_rival_joke_cream_resist_drop_draft_surge
+bip_39_word_underscore_11: raw_endorse_discover_rival_joke_cream_resist_drop_draft_surge_flee
+bip_39_word_underscore_12: raw_endorse_discover_rival_joke_cream_resist_drop_draft_surge_flee_act
+bip_39_word_underscore_2: raw_endorse
+bip_39_word_underscore_3: raw_endorse_discover
+bip_39_word_underscore_4: raw_endorse_discover_rival
+bip_39_word_underscore_5: raw_endorse_discover_rival_joke
+bip_39_word_underscore_6: raw_endorse_discover_rival_joke_cream
+bip_39_word_underscore_7: raw_endorse_discover_rival_joke_cream_resist
+bip_39_word_underscore_8: raw_endorse_discover_rival_joke_cream_resist_drop
+bip_39_word_underscore_9: raw_endorse_discover_rival_joke_cream_resist_drop_draft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

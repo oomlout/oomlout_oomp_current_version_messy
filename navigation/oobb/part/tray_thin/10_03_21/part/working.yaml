@@ -1,3 +1,15 @@
+bip_39_word_dash_1: belt
+bip_39_word_dash_10: belt-genre-make-situate-under-faint-wrestle-filter-cabin-tonight
+bip_39_word_dash_11: belt-genre-make-situate-under-faint-wrestle-filter-cabin-tonight-decade
+bip_39_word_dash_12: belt-genre-make-situate-under-faint-wrestle-filter-cabin-tonight-decade-also
+bip_39_word_dash_2: belt-genre
+bip_39_word_dash_3: belt-genre-make
+bip_39_word_dash_4: belt-genre-make-situate
+bip_39_word_dash_5: belt-genre-make-situate-under
+bip_39_word_dash_6: belt-genre-make-situate-under-faint
+bip_39_word_dash_7: belt-genre-make-situate-under-faint-wrestle
+bip_39_word_dash_8: belt-genre-make-situate-under-faint-wrestle-filter
+bip_39_word_dash_9: belt-genre-make-situate-under-faint-wrestle-filter-cabin
 bip_39_word_new_br_1: belt
 bip_39_word_new_br_10: belt<br>genre<br>make<br>situate<br>under<br>faint<br>wrestle<br>filter<br>cabin<br>tonight
 bip_39_word_new_br_11: belt<br>genre<br>make<br>situate<br>under<br>faint<br>wrestle<br>filter<br>cabin<br>tonight<br>decade
@@ -193,6 +205,18 @@ bip_39_word_space_6: belt genre make situate under faint
 bip_39_word_space_7: belt genre make situate under faint wrestle
 bip_39_word_space_8: belt genre make situate under faint wrestle filter
 bip_39_word_space_9: belt genre make situate under faint wrestle filter cabin
+bip_39_word_underscore_1: belt
+bip_39_word_underscore_10: belt_genre_make_situate_under_faint_wrestle_filter_cabin_tonight
+bip_39_word_underscore_11: belt_genre_make_situate_under_faint_wrestle_filter_cabin_tonight_decade
+bip_39_word_underscore_12: belt_genre_make_situate_under_faint_wrestle_filter_cabin_tonight_decade_also
+bip_39_word_underscore_2: belt_genre
+bip_39_word_underscore_3: belt_genre_make
+bip_39_word_underscore_4: belt_genre_make_situate
+bip_39_word_underscore_5: belt_genre_make_situate_under
+bip_39_word_underscore_6: belt_genre_make_situate_under_faint
+bip_39_word_underscore_7: belt_genre_make_situate_under_faint_wrestle
+bip_39_word_underscore_8: belt_genre_make_situate_under_faint_wrestle_filter
+bip_39_word_underscore_9: belt_genre_make_situate_under_faint_wrestle_filter_cabin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

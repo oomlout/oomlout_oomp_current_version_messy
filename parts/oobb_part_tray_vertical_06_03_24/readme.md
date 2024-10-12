@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | entire |  
+| bip_39_word_dash_10 | entire-ski-razor-acquire-reform-cliff-manual-enter-city-term |  
+| bip_39_word_dash_11 | entire-ski-razor-acquire-reform-cliff-manual-enter-city-term-birth |  
+| bip_39_word_dash_12 | entire-ski-razor-acquire-reform-cliff-manual-enter-city-term-birth-admit |  
+| bip_39_word_dash_2 | entire-ski |  
+| bip_39_word_dash_3 | entire-ski-razor |  
+| bip_39_word_dash_4 | entire-ski-razor-acquire |  
+| bip_39_word_dash_5 | entire-ski-razor-acquire-reform |  
+| bip_39_word_dash_6 | entire-ski-razor-acquire-reform-cliff |  
+| bip_39_word_dash_7 | entire-ski-razor-acquire-reform-cliff-manual |  
+| bip_39_word_dash_8 | entire-ski-razor-acquire-reform-cliff-manual-enter |  
+| bip_39_word_dash_9 | entire-ski-razor-acquire-reform-cliff-manual-enter-city |  
 | bip_39_word_new_br_1 | entire |  
 | bip_39_word_new_br_10 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter<br>city<br>term |  
 | bip_39_word_new_br_11 | entire<br>ski<br>razor<br>acquire<br>reform<br>cliff<br>manual<br>enter<br>city<br>term<br>birth |  
@@ -147,6 +159,18 @@ city |
 | bip_39_word_space_7 | entire ski razor acquire reform cliff manual |  
 | bip_39_word_space_8 | entire ski razor acquire reform cliff manual enter |  
 | bip_39_word_space_9 | entire ski razor acquire reform cliff manual enter city |  
+| bip_39_word_underscore_1 | entire |  
+| bip_39_word_underscore_10 | entire_ski_razor_acquire_reform_cliff_manual_enter_city_term |  
+| bip_39_word_underscore_11 | entire_ski_razor_acquire_reform_cliff_manual_enter_city_term_birth |  
+| bip_39_word_underscore_12 | entire_ski_razor_acquire_reform_cliff_manual_enter_city_term_birth_admit |  
+| bip_39_word_underscore_2 | entire_ski |  
+| bip_39_word_underscore_3 | entire_ski_razor |  
+| bip_39_word_underscore_4 | entire_ski_razor_acquire |  
+| bip_39_word_underscore_5 | entire_ski_razor_acquire_reform |  
+| bip_39_word_underscore_6 | entire_ski_razor_acquire_reform_cliff |  
+| bip_39_word_underscore_7 | entire_ski_razor_acquire_reform_cliff_manual |  
+| bip_39_word_underscore_8 | entire_ski_razor_acquire_reform_cliff_manual_enter |  
+| bip_39_word_underscore_9 | entire_ski_razor_acquire_reform_cliff_manual_enter_city |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

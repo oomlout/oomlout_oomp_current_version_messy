@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | pass |  
+| bip_39_word_dash_10 | pass-reason-plug-pig-swallow-drink-annual-blue-supply-end |  
+| bip_39_word_dash_11 | pass-reason-plug-pig-swallow-drink-annual-blue-supply-end-angle |  
+| bip_39_word_dash_12 | pass-reason-plug-pig-swallow-drink-annual-blue-supply-end-angle-attend |  
+| bip_39_word_dash_2 | pass-reason |  
+| bip_39_word_dash_3 | pass-reason-plug |  
+| bip_39_word_dash_4 | pass-reason-plug-pig |  
+| bip_39_word_dash_5 | pass-reason-plug-pig-swallow |  
+| bip_39_word_dash_6 | pass-reason-plug-pig-swallow-drink |  
+| bip_39_word_dash_7 | pass-reason-plug-pig-swallow-drink-annual |  
+| bip_39_word_dash_8 | pass-reason-plug-pig-swallow-drink-annual-blue |  
+| bip_39_word_dash_9 | pass-reason-plug-pig-swallow-drink-annual-blue-supply |  
 | bip_39_word_new_br_1 | pass |  
 | bip_39_word_new_br_10 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue<br>supply<br>end |  
 | bip_39_word_new_br_11 | pass<br>reason<br>plug<br>pig<br>swallow<br>drink<br>annual<br>blue<br>supply<br>end<br>angle |  
@@ -147,6 +159,18 @@ supply |
 | bip_39_word_space_7 | pass reason plug pig swallow drink annual |  
 | bip_39_word_space_8 | pass reason plug pig swallow drink annual blue |  
 | bip_39_word_space_9 | pass reason plug pig swallow drink annual blue supply |  
+| bip_39_word_underscore_1 | pass |  
+| bip_39_word_underscore_10 | pass_reason_plug_pig_swallow_drink_annual_blue_supply_end |  
+| bip_39_word_underscore_11 | pass_reason_plug_pig_swallow_drink_annual_blue_supply_end_angle |  
+| bip_39_word_underscore_12 | pass_reason_plug_pig_swallow_drink_annual_blue_supply_end_angle_attend |  
+| bip_39_word_underscore_2 | pass_reason |  
+| bip_39_word_underscore_3 | pass_reason_plug |  
+| bip_39_word_underscore_4 | pass_reason_plug_pig |  
+| bip_39_word_underscore_5 | pass_reason_plug_pig_swallow |  
+| bip_39_word_underscore_6 | pass_reason_plug_pig_swallow_drink |  
+| bip_39_word_underscore_7 | pass_reason_plug_pig_swallow_drink_annual |  
+| bip_39_word_underscore_8 | pass_reason_plug_pig_swallow_drink_annual_blue |  
+| bip_39_word_underscore_9 | pass_reason_plug_pig_swallow_drink_annual_blue_supply |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

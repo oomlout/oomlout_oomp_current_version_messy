@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | uncover |  
+| bip_39_word_dash_10 | uncover-best-favorite-code-chicken-city-differ-civil-useful-language |  
+| bip_39_word_dash_11 | uncover-best-favorite-code-chicken-city-differ-civil-useful-language-fringe |  
+| bip_39_word_dash_12 | uncover-best-favorite-code-chicken-city-differ-civil-useful-language-fringe-absorb |  
+| bip_39_word_dash_2 | uncover-best |  
+| bip_39_word_dash_3 | uncover-best-favorite |  
+| bip_39_word_dash_4 | uncover-best-favorite-code |  
+| bip_39_word_dash_5 | uncover-best-favorite-code-chicken |  
+| bip_39_word_dash_6 | uncover-best-favorite-code-chicken-city |  
+| bip_39_word_dash_7 | uncover-best-favorite-code-chicken-city-differ |  
+| bip_39_word_dash_8 | uncover-best-favorite-code-chicken-city-differ-civil |  
+| bip_39_word_dash_9 | uncover-best-favorite-code-chicken-city-differ-civil-useful |  
 | bip_39_word_new_br_1 | uncover |  
 | bip_39_word_new_br_10 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil<br>useful<br>language |  
 | bip_39_word_new_br_11 | uncover<br>best<br>favorite<br>code<br>chicken<br>city<br>differ<br>civil<br>useful<br>language<br>fringe |  
@@ -147,6 +159,18 @@ useful |
 | bip_39_word_space_7 | uncover best favorite code chicken city differ |  
 | bip_39_word_space_8 | uncover best favorite code chicken city differ civil |  
 | bip_39_word_space_9 | uncover best favorite code chicken city differ civil useful |  
+| bip_39_word_underscore_1 | uncover |  
+| bip_39_word_underscore_10 | uncover_best_favorite_code_chicken_city_differ_civil_useful_language |  
+| bip_39_word_underscore_11 | uncover_best_favorite_code_chicken_city_differ_civil_useful_language_fringe |  
+| bip_39_word_underscore_12 | uncover_best_favorite_code_chicken_city_differ_civil_useful_language_fringe_absorb |  
+| bip_39_word_underscore_2 | uncover_best |  
+| bip_39_word_underscore_3 | uncover_best_favorite |  
+| bip_39_word_underscore_4 | uncover_best_favorite_code |  
+| bip_39_word_underscore_5 | uncover_best_favorite_code_chicken |  
+| bip_39_word_underscore_6 | uncover_best_favorite_code_chicken_city |  
+| bip_39_word_underscore_7 | uncover_best_favorite_code_chicken_city_differ |  
+| bip_39_word_underscore_8 | uncover_best_favorite_code_chicken_city_differ_civil |  
+| bip_39_word_underscore_9 | uncover_best_favorite_code_chicken_city_differ_civil_useful |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

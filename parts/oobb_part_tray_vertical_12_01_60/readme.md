@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | favorite |  
+| bip_39_word_dash_10 | favorite-decline-vault-crawl-return-success-common-axis-peanut-sure |  
+| bip_39_word_dash_11 | favorite-decline-vault-crawl-return-success-common-axis-peanut-sure-car |  
+| bip_39_word_dash_12 | favorite-decline-vault-crawl-return-success-common-axis-peanut-sure-car-another |  
+| bip_39_word_dash_2 | favorite-decline |  
+| bip_39_word_dash_3 | favorite-decline-vault |  
+| bip_39_word_dash_4 | favorite-decline-vault-crawl |  
+| bip_39_word_dash_5 | favorite-decline-vault-crawl-return |  
+| bip_39_word_dash_6 | favorite-decline-vault-crawl-return-success |  
+| bip_39_word_dash_7 | favorite-decline-vault-crawl-return-success-common |  
+| bip_39_word_dash_8 | favorite-decline-vault-crawl-return-success-common-axis |  
+| bip_39_word_dash_9 | favorite-decline-vault-crawl-return-success-common-axis-peanut |  
 | bip_39_word_new_br_1 | favorite |  
 | bip_39_word_new_br_10 | favorite<br>decline<br>vault<br>crawl<br>return<br>success<br>common<br>axis<br>peanut<br>sure |  
 | bip_39_word_new_br_11 | favorite<br>decline<br>vault<br>crawl<br>return<br>success<br>common<br>axis<br>peanut<br>sure<br>car |  
@@ -147,6 +159,18 @@ peanut |
 | bip_39_word_space_7 | favorite decline vault crawl return success common |  
 | bip_39_word_space_8 | favorite decline vault crawl return success common axis |  
 | bip_39_word_space_9 | favorite decline vault crawl return success common axis peanut |  
+| bip_39_word_underscore_1 | favorite |  
+| bip_39_word_underscore_10 | favorite_decline_vault_crawl_return_success_common_axis_peanut_sure |  
+| bip_39_word_underscore_11 | favorite_decline_vault_crawl_return_success_common_axis_peanut_sure_car |  
+| bip_39_word_underscore_12 | favorite_decline_vault_crawl_return_success_common_axis_peanut_sure_car_another |  
+| bip_39_word_underscore_2 | favorite_decline |  
+| bip_39_word_underscore_3 | favorite_decline_vault |  
+| bip_39_word_underscore_4 | favorite_decline_vault_crawl |  
+| bip_39_word_underscore_5 | favorite_decline_vault_crawl_return |  
+| bip_39_word_underscore_6 | favorite_decline_vault_crawl_return_success |  
+| bip_39_word_underscore_7 | favorite_decline_vault_crawl_return_success_common |  
+| bip_39_word_underscore_8 | favorite_decline_vault_crawl_return_success_common_axis |  
+| bip_39_word_underscore_9 | favorite_decline_vault_crawl_return_success_common_axis_peanut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

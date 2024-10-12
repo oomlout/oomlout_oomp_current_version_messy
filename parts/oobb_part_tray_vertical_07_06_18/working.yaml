@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crawl
+bip_39_word_dash_10: crawl-dignity-worth-toast-danger-culture-common-cattle-leisure-fortune
+bip_39_word_dash_11: crawl-dignity-worth-toast-danger-culture-common-cattle-leisure-fortune-learn
+bip_39_word_dash_12: crawl-dignity-worth-toast-danger-culture-common-cattle-leisure-fortune-learn-airport
+bip_39_word_dash_2: crawl-dignity
+bip_39_word_dash_3: crawl-dignity-worth
+bip_39_word_dash_4: crawl-dignity-worth-toast
+bip_39_word_dash_5: crawl-dignity-worth-toast-danger
+bip_39_word_dash_6: crawl-dignity-worth-toast-danger-culture
+bip_39_word_dash_7: crawl-dignity-worth-toast-danger-culture-common
+bip_39_word_dash_8: crawl-dignity-worth-toast-danger-culture-common-cattle
+bip_39_word_dash_9: crawl-dignity-worth-toast-danger-culture-common-cattle-leisure
 bip_39_word_new_br_1: crawl
 bip_39_word_new_br_10: crawl<br>dignity<br>worth<br>toast<br>danger<br>culture<br>common<br>cattle<br>leisure<br>fortune
 bip_39_word_new_br_11: crawl<br>dignity<br>worth<br>toast<br>danger<br>culture<br>common<br>cattle<br>leisure<br>fortune<br>learn
@@ -194,6 +206,18 @@ bip_39_word_space_6: crawl dignity worth toast danger culture
 bip_39_word_space_7: crawl dignity worth toast danger culture common
 bip_39_word_space_8: crawl dignity worth toast danger culture common cattle
 bip_39_word_space_9: crawl dignity worth toast danger culture common cattle leisure
+bip_39_word_underscore_1: crawl
+bip_39_word_underscore_10: crawl_dignity_worth_toast_danger_culture_common_cattle_leisure_fortune
+bip_39_word_underscore_11: crawl_dignity_worth_toast_danger_culture_common_cattle_leisure_fortune_learn
+bip_39_word_underscore_12: crawl_dignity_worth_toast_danger_culture_common_cattle_leisure_fortune_learn_airport
+bip_39_word_underscore_2: crawl_dignity
+bip_39_word_underscore_3: crawl_dignity_worth
+bip_39_word_underscore_4: crawl_dignity_worth_toast
+bip_39_word_underscore_5: crawl_dignity_worth_toast_danger
+bip_39_word_underscore_6: crawl_dignity_worth_toast_danger_culture
+bip_39_word_underscore_7: crawl_dignity_worth_toast_danger_culture_common
+bip_39_word_underscore_8: crawl_dignity_worth_toast_danger_culture_common_cattle
+bip_39_word_underscore_9: crawl_dignity_worth_toast_danger_culture_common_cattle_leisure
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deposit
+bip_39_word_dash_10: deposit-letter-idea-thrive-scatter-charge-urge-delay-giraffe-can
+bip_39_word_dash_11: deposit-letter-idea-thrive-scatter-charge-urge-delay-giraffe-can-rigid
+bip_39_word_dash_12: deposit-letter-idea-thrive-scatter-charge-urge-delay-giraffe-can-rigid-abuse
+bip_39_word_dash_2: deposit-letter
+bip_39_word_dash_3: deposit-letter-idea
+bip_39_word_dash_4: deposit-letter-idea-thrive
+bip_39_word_dash_5: deposit-letter-idea-thrive-scatter
+bip_39_word_dash_6: deposit-letter-idea-thrive-scatter-charge
+bip_39_word_dash_7: deposit-letter-idea-thrive-scatter-charge-urge
+bip_39_word_dash_8: deposit-letter-idea-thrive-scatter-charge-urge-delay
+bip_39_word_dash_9: deposit-letter-idea-thrive-scatter-charge-urge-delay-giraffe
 bip_39_word_new_br_1: deposit
 bip_39_word_new_br_10: deposit<br>letter<br>idea<br>thrive<br>scatter<br>charge<br>urge<br>delay<br>giraffe<br>can
 bip_39_word_new_br_11: deposit<br>letter<br>idea<br>thrive<br>scatter<br>charge<br>urge<br>delay<br>giraffe<br>can<br>rigid
@@ -194,6 +206,18 @@ bip_39_word_space_6: deposit letter idea thrive scatter charge
 bip_39_word_space_7: deposit letter idea thrive scatter charge urge
 bip_39_word_space_8: deposit letter idea thrive scatter charge urge delay
 bip_39_word_space_9: deposit letter idea thrive scatter charge urge delay giraffe
+bip_39_word_underscore_1: deposit
+bip_39_word_underscore_10: deposit_letter_idea_thrive_scatter_charge_urge_delay_giraffe_can
+bip_39_word_underscore_11: deposit_letter_idea_thrive_scatter_charge_urge_delay_giraffe_can_rigid
+bip_39_word_underscore_12: deposit_letter_idea_thrive_scatter_charge_urge_delay_giraffe_can_rigid_abuse
+bip_39_word_underscore_2: deposit_letter
+bip_39_word_underscore_3: deposit_letter_idea
+bip_39_word_underscore_4: deposit_letter_idea_thrive
+bip_39_word_underscore_5: deposit_letter_idea_thrive_scatter
+bip_39_word_underscore_6: deposit_letter_idea_thrive_scatter_charge
+bip_39_word_underscore_7: deposit_letter_idea_thrive_scatter_charge_urge
+bip_39_word_underscore_8: deposit_letter_idea_thrive_scatter_charge_urge_delay
+bip_39_word_underscore_9: deposit_letter_idea_thrive_scatter_charge_urge_delay_giraffe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

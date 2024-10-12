@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | motion |  
+| bip_39_word_dash_10 | motion-drama-moon-destroy-seven-trim-donkey-race-present-round |  
+| bip_39_word_dash_11 | motion-drama-moon-destroy-seven-trim-donkey-race-present-round-radar |  
+| bip_39_word_dash_12 | motion-drama-moon-destroy-seven-trim-donkey-race-present-round-radar-around |  
+| bip_39_word_dash_2 | motion-drama |  
+| bip_39_word_dash_3 | motion-drama-moon |  
+| bip_39_word_dash_4 | motion-drama-moon-destroy |  
+| bip_39_word_dash_5 | motion-drama-moon-destroy-seven |  
+| bip_39_word_dash_6 | motion-drama-moon-destroy-seven-trim |  
+| bip_39_word_dash_7 | motion-drama-moon-destroy-seven-trim-donkey |  
+| bip_39_word_dash_8 | motion-drama-moon-destroy-seven-trim-donkey-race |  
+| bip_39_word_dash_9 | motion-drama-moon-destroy-seven-trim-donkey-race-present |  
 | bip_39_word_new_br_1 | motion |  
 | bip_39_word_new_br_10 | motion<br>drama<br>moon<br>destroy<br>seven<br>trim<br>donkey<br>race<br>present<br>round |  
 | bip_39_word_new_br_11 | motion<br>drama<br>moon<br>destroy<br>seven<br>trim<br>donkey<br>race<br>present<br>round<br>radar |  
@@ -147,6 +159,18 @@ present |
 | bip_39_word_space_7 | motion drama moon destroy seven trim donkey |  
 | bip_39_word_space_8 | motion drama moon destroy seven trim donkey race |  
 | bip_39_word_space_9 | motion drama moon destroy seven trim donkey race present |  
+| bip_39_word_underscore_1 | motion |  
+| bip_39_word_underscore_10 | motion_drama_moon_destroy_seven_trim_donkey_race_present_round |  
+| bip_39_word_underscore_11 | motion_drama_moon_destroy_seven_trim_donkey_race_present_round_radar |  
+| bip_39_word_underscore_12 | motion_drama_moon_destroy_seven_trim_donkey_race_present_round_radar_around |  
+| bip_39_word_underscore_2 | motion_drama |  
+| bip_39_word_underscore_3 | motion_drama_moon |  
+| bip_39_word_underscore_4 | motion_drama_moon_destroy |  
+| bip_39_word_underscore_5 | motion_drama_moon_destroy_seven |  
+| bip_39_word_underscore_6 | motion_drama_moon_destroy_seven_trim |  
+| bip_39_word_underscore_7 | motion_drama_moon_destroy_seven_trim_donkey |  
+| bip_39_word_underscore_8 | motion_drama_moon_destroy_seven_trim_donkey_race |  
+| bip_39_word_underscore_9 | motion_drama_moon_destroy_seven_trim_donkey_race_present |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

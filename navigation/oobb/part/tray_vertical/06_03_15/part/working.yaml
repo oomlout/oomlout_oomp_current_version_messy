@@ -1,3 +1,15 @@
+bip_39_word_dash_1: relax
+bip_39_word_dash_10: relax-make-okay-pioneer-sweet-dash-zero-record-galaxy-cram
+bip_39_word_dash_11: relax-make-okay-pioneer-sweet-dash-zero-record-galaxy-cram-there
+bip_39_word_dash_12: relax-make-okay-pioneer-sweet-dash-zero-record-galaxy-cram-there-actual
+bip_39_word_dash_2: relax-make
+bip_39_word_dash_3: relax-make-okay
+bip_39_word_dash_4: relax-make-okay-pioneer
+bip_39_word_dash_5: relax-make-okay-pioneer-sweet
+bip_39_word_dash_6: relax-make-okay-pioneer-sweet-dash
+bip_39_word_dash_7: relax-make-okay-pioneer-sweet-dash-zero
+bip_39_word_dash_8: relax-make-okay-pioneer-sweet-dash-zero-record
+bip_39_word_dash_9: relax-make-okay-pioneer-sweet-dash-zero-record-galaxy
 bip_39_word_new_br_1: relax
 bip_39_word_new_br_10: relax<br>make<br>okay<br>pioneer<br>sweet<br>dash<br>zero<br>record<br>galaxy<br>cram
 bip_39_word_new_br_11: relax<br>make<br>okay<br>pioneer<br>sweet<br>dash<br>zero<br>record<br>galaxy<br>cram<br>there
@@ -192,6 +204,18 @@ bip_39_word_space_6: relax make okay pioneer sweet dash
 bip_39_word_space_7: relax make okay pioneer sweet dash zero
 bip_39_word_space_8: relax make okay pioneer sweet dash zero record
 bip_39_word_space_9: relax make okay pioneer sweet dash zero record galaxy
+bip_39_word_underscore_1: relax
+bip_39_word_underscore_10: relax_make_okay_pioneer_sweet_dash_zero_record_galaxy_cram
+bip_39_word_underscore_11: relax_make_okay_pioneer_sweet_dash_zero_record_galaxy_cram_there
+bip_39_word_underscore_12: relax_make_okay_pioneer_sweet_dash_zero_record_galaxy_cram_there_actual
+bip_39_word_underscore_2: relax_make
+bip_39_word_underscore_3: relax_make_okay
+bip_39_word_underscore_4: relax_make_okay_pioneer
+bip_39_word_underscore_5: relax_make_okay_pioneer_sweet
+bip_39_word_underscore_6: relax_make_okay_pioneer_sweet_dash
+bip_39_word_underscore_7: relax_make_okay_pioneer_sweet_dash_zero
+bip_39_word_underscore_8: relax_make_okay_pioneer_sweet_dash_zero_record
+bip_39_word_underscore_9: relax_make_okay_pioneer_sweet_dash_zero_record_galaxy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

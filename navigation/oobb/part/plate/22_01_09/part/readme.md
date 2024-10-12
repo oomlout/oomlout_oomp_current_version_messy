@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fix |  
+| bip_39_word_dash_10 | fix-swift-method-rebel-oyster-situate-ten-wreck-antique-swallow |  
+| bip_39_word_dash_11 | fix-swift-method-rebel-oyster-situate-ten-wreck-antique-swallow-job |  
+| bip_39_word_dash_12 | fix-swift-method-rebel-oyster-situate-ten-wreck-antique-swallow-job-absurd |  
+| bip_39_word_dash_2 | fix-swift |  
+| bip_39_word_dash_3 | fix-swift-method |  
+| bip_39_word_dash_4 | fix-swift-method-rebel |  
+| bip_39_word_dash_5 | fix-swift-method-rebel-oyster |  
+| bip_39_word_dash_6 | fix-swift-method-rebel-oyster-situate |  
+| bip_39_word_dash_7 | fix-swift-method-rebel-oyster-situate-ten |  
+| bip_39_word_dash_8 | fix-swift-method-rebel-oyster-situate-ten-wreck |  
+| bip_39_word_dash_9 | fix-swift-method-rebel-oyster-situate-ten-wreck-antique |  
 | bip_39_word_new_br_1 | fix |  
 | bip_39_word_new_br_10 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow |  
 | bip_39_word_new_br_11 | fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow<br>job |  
@@ -147,6 +159,18 @@ antique |
 | bip_39_word_space_7 | fix swift method rebel oyster situate ten |  
 | bip_39_word_space_8 | fix swift method rebel oyster situate ten wreck |  
 | bip_39_word_space_9 | fix swift method rebel oyster situate ten wreck antique |  
+| bip_39_word_underscore_1 | fix |  
+| bip_39_word_underscore_10 | fix_swift_method_rebel_oyster_situate_ten_wreck_antique_swallow |  
+| bip_39_word_underscore_11 | fix_swift_method_rebel_oyster_situate_ten_wreck_antique_swallow_job |  
+| bip_39_word_underscore_12 | fix_swift_method_rebel_oyster_situate_ten_wreck_antique_swallow_job_absurd |  
+| bip_39_word_underscore_2 | fix_swift |  
+| bip_39_word_underscore_3 | fix_swift_method |  
+| bip_39_word_underscore_4 | fix_swift_method_rebel |  
+| bip_39_word_underscore_5 | fix_swift_method_rebel_oyster |  
+| bip_39_word_underscore_6 | fix_swift_method_rebel_oyster_situate |  
+| bip_39_word_underscore_7 | fix_swift_method_rebel_oyster_situate_ten |  
+| bip_39_word_underscore_8 | fix_swift_method_rebel_oyster_situate_ten_wreck |  
+| bip_39_word_underscore_9 | fix_swift_method_rebel_oyster_situate_ten_wreck_antique |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

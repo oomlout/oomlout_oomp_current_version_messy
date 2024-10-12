@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | start |  
+| bip_39_word_dash_10 | start-turn-album-charge-side-rebuild-proof-deliver-gym-picnic |  
+| bip_39_word_dash_11 | start-turn-album-charge-side-rebuild-proof-deliver-gym-picnic-bid |  
+| bip_39_word_dash_12 | start-turn-album-charge-side-rebuild-proof-deliver-gym-picnic-bid-assault |  
+| bip_39_word_dash_2 | start-turn |  
+| bip_39_word_dash_3 | start-turn-album |  
+| bip_39_word_dash_4 | start-turn-album-charge |  
+| bip_39_word_dash_5 | start-turn-album-charge-side |  
+| bip_39_word_dash_6 | start-turn-album-charge-side-rebuild |  
+| bip_39_word_dash_7 | start-turn-album-charge-side-rebuild-proof |  
+| bip_39_word_dash_8 | start-turn-album-charge-side-rebuild-proof-deliver |  
+| bip_39_word_dash_9 | start-turn-album-charge-side-rebuild-proof-deliver-gym |  
 | bip_39_word_new_br_1 | start |  
 | bip_39_word_new_br_10 | start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic |  
 | bip_39_word_new_br_11 | start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic<br>bid |  
@@ -147,6 +159,18 @@ gym |
 | bip_39_word_space_7 | start turn album charge side rebuild proof |  
 | bip_39_word_space_8 | start turn album charge side rebuild proof deliver |  
 | bip_39_word_space_9 | start turn album charge side rebuild proof deliver gym |  
+| bip_39_word_underscore_1 | start |  
+| bip_39_word_underscore_10 | start_turn_album_charge_side_rebuild_proof_deliver_gym_picnic |  
+| bip_39_word_underscore_11 | start_turn_album_charge_side_rebuild_proof_deliver_gym_picnic_bid |  
+| bip_39_word_underscore_12 | start_turn_album_charge_side_rebuild_proof_deliver_gym_picnic_bid_assault |  
+| bip_39_word_underscore_2 | start_turn |  
+| bip_39_word_underscore_3 | start_turn_album |  
+| bip_39_word_underscore_4 | start_turn_album_charge |  
+| bip_39_word_underscore_5 | start_turn_album_charge_side |  
+| bip_39_word_underscore_6 | start_turn_album_charge_side_rebuild |  
+| bip_39_word_underscore_7 | start_turn_album_charge_side_rebuild_proof |  
+| bip_39_word_underscore_8 | start_turn_album_charge_side_rebuild_proof_deliver |  
+| bip_39_word_underscore_9 | start_turn_album_charge_side_rebuild_proof_deliver_gym |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

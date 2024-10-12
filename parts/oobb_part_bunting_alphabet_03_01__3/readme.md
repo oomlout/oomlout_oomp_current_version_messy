@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | right |  
+| bip_39_word_dash_10 | right-chronic-trust-poet-relax-distance-lock-sweet-cattle-raise |  
+| bip_39_word_dash_11 | right-chronic-trust-poet-relax-distance-lock-sweet-cattle-raise-street |  
+| bip_39_word_dash_12 | right-chronic-trust-poet-relax-distance-lock-sweet-cattle-raise-street-attract |  
+| bip_39_word_dash_2 | right-chronic |  
+| bip_39_word_dash_3 | right-chronic-trust |  
+| bip_39_word_dash_4 | right-chronic-trust-poet |  
+| bip_39_word_dash_5 | right-chronic-trust-poet-relax |  
+| bip_39_word_dash_6 | right-chronic-trust-poet-relax-distance |  
+| bip_39_word_dash_7 | right-chronic-trust-poet-relax-distance-lock |  
+| bip_39_word_dash_8 | right-chronic-trust-poet-relax-distance-lock-sweet |  
+| bip_39_word_dash_9 | right-chronic-trust-poet-relax-distance-lock-sweet-cattle |  
 | bip_39_word_new_br_1 | right |  
 | bip_39_word_new_br_10 | right<br>chronic<br>trust<br>poet<br>relax<br>distance<br>lock<br>sweet<br>cattle<br>raise |  
 | bip_39_word_new_br_11 | right<br>chronic<br>trust<br>poet<br>relax<br>distance<br>lock<br>sweet<br>cattle<br>raise<br>street |  
@@ -147,6 +159,18 @@ cattle |
 | bip_39_word_space_7 | right chronic trust poet relax distance lock |  
 | bip_39_word_space_8 | right chronic trust poet relax distance lock sweet |  
 | bip_39_word_space_9 | right chronic trust poet relax distance lock sweet cattle |  
+| bip_39_word_underscore_1 | right |  
+| bip_39_word_underscore_10 | right_chronic_trust_poet_relax_distance_lock_sweet_cattle_raise |  
+| bip_39_word_underscore_11 | right_chronic_trust_poet_relax_distance_lock_sweet_cattle_raise_street |  
+| bip_39_word_underscore_12 | right_chronic_trust_poet_relax_distance_lock_sweet_cattle_raise_street_attract |  
+| bip_39_word_underscore_2 | right_chronic |  
+| bip_39_word_underscore_3 | right_chronic_trust |  
+| bip_39_word_underscore_4 | right_chronic_trust_poet |  
+| bip_39_word_underscore_5 | right_chronic_trust_poet_relax |  
+| bip_39_word_underscore_6 | right_chronic_trust_poet_relax_distance |  
+| bip_39_word_underscore_7 | right_chronic_trust_poet_relax_distance_lock |  
+| bip_39_word_underscore_8 | right_chronic_trust_poet_relax_distance_lock_sweet |  
+| bip_39_word_underscore_9 | right_chronic_trust_poet_relax_distance_lock_sweet_cattle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

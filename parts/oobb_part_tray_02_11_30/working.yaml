@@ -1,3 +1,15 @@
+bip_39_word_dash_1: resemble
+bip_39_word_dash_10: resemble-giraffe-raise-green-foil-oven-chef-witness-hunt-rebuild
+bip_39_word_dash_11: resemble-giraffe-raise-green-foil-oven-chef-witness-hunt-rebuild-inform
+bip_39_word_dash_12: resemble-giraffe-raise-green-foil-oven-chef-witness-hunt-rebuild-inform-accuse
+bip_39_word_dash_2: resemble-giraffe
+bip_39_word_dash_3: resemble-giraffe-raise
+bip_39_word_dash_4: resemble-giraffe-raise-green
+bip_39_word_dash_5: resemble-giraffe-raise-green-foil
+bip_39_word_dash_6: resemble-giraffe-raise-green-foil-oven
+bip_39_word_dash_7: resemble-giraffe-raise-green-foil-oven-chef
+bip_39_word_dash_8: resemble-giraffe-raise-green-foil-oven-chef-witness
+bip_39_word_dash_9: resemble-giraffe-raise-green-foil-oven-chef-witness-hunt
 bip_39_word_new_br_1: resemble
 bip_39_word_new_br_10: resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild
 bip_39_word_new_br_11: resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild<br>inform
@@ -193,6 +205,18 @@ bip_39_word_space_6: resemble giraffe raise green foil oven
 bip_39_word_space_7: resemble giraffe raise green foil oven chef
 bip_39_word_space_8: resemble giraffe raise green foil oven chef witness
 bip_39_word_space_9: resemble giraffe raise green foil oven chef witness hunt
+bip_39_word_underscore_1: resemble
+bip_39_word_underscore_10: resemble_giraffe_raise_green_foil_oven_chef_witness_hunt_rebuild
+bip_39_word_underscore_11: resemble_giraffe_raise_green_foil_oven_chef_witness_hunt_rebuild_inform
+bip_39_word_underscore_12: resemble_giraffe_raise_green_foil_oven_chef_witness_hunt_rebuild_inform_accuse
+bip_39_word_underscore_2: resemble_giraffe
+bip_39_word_underscore_3: resemble_giraffe_raise
+bip_39_word_underscore_4: resemble_giraffe_raise_green
+bip_39_word_underscore_5: resemble_giraffe_raise_green_foil
+bip_39_word_underscore_6: resemble_giraffe_raise_green_foil_oven
+bip_39_word_underscore_7: resemble_giraffe_raise_green_foil_oven_chef
+bip_39_word_underscore_8: resemble_giraffe_raise_green_foil_oven_chef_witness
+bip_39_word_underscore_9: resemble_giraffe_raise_green_foil_oven_chef_witness_hunt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

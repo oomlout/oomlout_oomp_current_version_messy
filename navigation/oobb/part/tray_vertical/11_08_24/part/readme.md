@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | daring |  
+| bip_39_word_dash_10 | daring-brown-artefact-damage-pull-ramp-car-large-follow-impulse |  
+| bip_39_word_dash_11 | daring-brown-artefact-damage-pull-ramp-car-large-follow-impulse-toilet |  
+| bip_39_word_dash_12 | daring-brown-artefact-damage-pull-ramp-car-large-follow-impulse-toilet-asthma |  
+| bip_39_word_dash_2 | daring-brown |  
+| bip_39_word_dash_3 | daring-brown-artefact |  
+| bip_39_word_dash_4 | daring-brown-artefact-damage |  
+| bip_39_word_dash_5 | daring-brown-artefact-damage-pull |  
+| bip_39_word_dash_6 | daring-brown-artefact-damage-pull-ramp |  
+| bip_39_word_dash_7 | daring-brown-artefact-damage-pull-ramp-car |  
+| bip_39_word_dash_8 | daring-brown-artefact-damage-pull-ramp-car-large |  
+| bip_39_word_dash_9 | daring-brown-artefact-damage-pull-ramp-car-large-follow |  
 | bip_39_word_new_br_1 | daring |  
 | bip_39_word_new_br_10 | daring<br>brown<br>artefact<br>damage<br>pull<br>ramp<br>car<br>large<br>follow<br>impulse |  
 | bip_39_word_new_br_11 | daring<br>brown<br>artefact<br>damage<br>pull<br>ramp<br>car<br>large<br>follow<br>impulse<br>toilet |  
@@ -147,6 +159,18 @@ follow |
 | bip_39_word_space_7 | daring brown artefact damage pull ramp car |  
 | bip_39_word_space_8 | daring brown artefact damage pull ramp car large |  
 | bip_39_word_space_9 | daring brown artefact damage pull ramp car large follow |  
+| bip_39_word_underscore_1 | daring |  
+| bip_39_word_underscore_10 | daring_brown_artefact_damage_pull_ramp_car_large_follow_impulse |  
+| bip_39_word_underscore_11 | daring_brown_artefact_damage_pull_ramp_car_large_follow_impulse_toilet |  
+| bip_39_word_underscore_12 | daring_brown_artefact_damage_pull_ramp_car_large_follow_impulse_toilet_asthma |  
+| bip_39_word_underscore_2 | daring_brown |  
+| bip_39_word_underscore_3 | daring_brown_artefact |  
+| bip_39_word_underscore_4 | daring_brown_artefact_damage |  
+| bip_39_word_underscore_5 | daring_brown_artefact_damage_pull |  
+| bip_39_word_underscore_6 | daring_brown_artefact_damage_pull_ramp |  
+| bip_39_word_underscore_7 | daring_brown_artefact_damage_pull_ramp_car |  
+| bip_39_word_underscore_8 | daring_brown_artefact_damage_pull_ramp_car_large |  
+| bip_39_word_underscore_9 | daring_brown_artefact_damage_pull_ramp_car_large_follow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

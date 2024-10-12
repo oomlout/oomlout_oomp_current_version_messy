@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | assume |  
+| bip_39_word_dash_10 | assume-hospital-hole-clutch-typical-device-jacket-embody-balance-tag |  
+| bip_39_word_dash_11 | assume-hospital-hole-clutch-typical-device-jacket-embody-balance-tag-wine |  
+| bip_39_word_dash_12 | assume-hospital-hole-clutch-typical-device-jacket-embody-balance-tag-wine-anxiety |  
+| bip_39_word_dash_2 | assume-hospital |  
+| bip_39_word_dash_3 | assume-hospital-hole |  
+| bip_39_word_dash_4 | assume-hospital-hole-clutch |  
+| bip_39_word_dash_5 | assume-hospital-hole-clutch-typical |  
+| bip_39_word_dash_6 | assume-hospital-hole-clutch-typical-device |  
+| bip_39_word_dash_7 | assume-hospital-hole-clutch-typical-device-jacket |  
+| bip_39_word_dash_8 | assume-hospital-hole-clutch-typical-device-jacket-embody |  
+| bip_39_word_dash_9 | assume-hospital-hole-clutch-typical-device-jacket-embody-balance |  
 | bip_39_word_new_br_1 | assume |  
 | bip_39_word_new_br_10 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody<br>balance<br>tag |  
 | bip_39_word_new_br_11 | assume<br>hospital<br>hole<br>clutch<br>typical<br>device<br>jacket<br>embody<br>balance<br>tag<br>wine |  
@@ -147,6 +159,18 @@ balance |
 | bip_39_word_space_7 | assume hospital hole clutch typical device jacket |  
 | bip_39_word_space_8 | assume hospital hole clutch typical device jacket embody |  
 | bip_39_word_space_9 | assume hospital hole clutch typical device jacket embody balance |  
+| bip_39_word_underscore_1 | assume |  
+| bip_39_word_underscore_10 | assume_hospital_hole_clutch_typical_device_jacket_embody_balance_tag |  
+| bip_39_word_underscore_11 | assume_hospital_hole_clutch_typical_device_jacket_embody_balance_tag_wine |  
+| bip_39_word_underscore_12 | assume_hospital_hole_clutch_typical_device_jacket_embody_balance_tag_wine_anxiety |  
+| bip_39_word_underscore_2 | assume_hospital |  
+| bip_39_word_underscore_3 | assume_hospital_hole |  
+| bip_39_word_underscore_4 | assume_hospital_hole_clutch |  
+| bip_39_word_underscore_5 | assume_hospital_hole_clutch_typical |  
+| bip_39_word_underscore_6 | assume_hospital_hole_clutch_typical_device |  
+| bip_39_word_underscore_7 | assume_hospital_hole_clutch_typical_device_jacket |  
+| bip_39_word_underscore_8 | assume_hospital_hole_clutch_typical_device_jacket_embody |  
+| bip_39_word_underscore_9 | assume_hospital_hole_clutch_typical_device_jacket_embody_balance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | oval |  
+| bip_39_word_dash_10 | oval-boring-narrow-hold-nasty-attend-glad-permit-acquire-pause |  
+| bip_39_word_dash_11 | oval-boring-narrow-hold-nasty-attend-glad-permit-acquire-pause-tomato |  
+| bip_39_word_dash_12 | oval-boring-narrow-hold-nasty-attend-glad-permit-acquire-pause-tomato-ability |  
+| bip_39_word_dash_2 | oval-boring |  
+| bip_39_word_dash_3 | oval-boring-narrow |  
+| bip_39_word_dash_4 | oval-boring-narrow-hold |  
+| bip_39_word_dash_5 | oval-boring-narrow-hold-nasty |  
+| bip_39_word_dash_6 | oval-boring-narrow-hold-nasty-attend |  
+| bip_39_word_dash_7 | oval-boring-narrow-hold-nasty-attend-glad |  
+| bip_39_word_dash_8 | oval-boring-narrow-hold-nasty-attend-glad-permit |  
+| bip_39_word_dash_9 | oval-boring-narrow-hold-nasty-attend-glad-permit-acquire |  
 | bip_39_word_new_br_1 | oval |  
 | bip_39_word_new_br_10 | oval<br>boring<br>narrow<br>hold<br>nasty<br>attend<br>glad<br>permit<br>acquire<br>pause |  
 | bip_39_word_new_br_11 | oval<br>boring<br>narrow<br>hold<br>nasty<br>attend<br>glad<br>permit<br>acquire<br>pause<br>tomato |  
@@ -147,6 +159,18 @@ acquire |
 | bip_39_word_space_7 | oval boring narrow hold nasty attend glad |  
 | bip_39_word_space_8 | oval boring narrow hold nasty attend glad permit |  
 | bip_39_word_space_9 | oval boring narrow hold nasty attend glad permit acquire |  
+| bip_39_word_underscore_1 | oval |  
+| bip_39_word_underscore_10 | oval_boring_narrow_hold_nasty_attend_glad_permit_acquire_pause |  
+| bip_39_word_underscore_11 | oval_boring_narrow_hold_nasty_attend_glad_permit_acquire_pause_tomato |  
+| bip_39_word_underscore_12 | oval_boring_narrow_hold_nasty_attend_glad_permit_acquire_pause_tomato_ability |  
+| bip_39_word_underscore_2 | oval_boring |  
+| bip_39_word_underscore_3 | oval_boring_narrow |  
+| bip_39_word_underscore_4 | oval_boring_narrow_hold |  
+| bip_39_word_underscore_5 | oval_boring_narrow_hold_nasty |  
+| bip_39_word_underscore_6 | oval_boring_narrow_hold_nasty_attend |  
+| bip_39_word_underscore_7 | oval_boring_narrow_hold_nasty_attend_glad |  
+| bip_39_word_underscore_8 | oval_boring_narrow_hold_nasty_attend_glad_permit |  
+| bip_39_word_underscore_9 | oval_boring_narrow_hold_nasty_attend_glad_permit_acquire |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

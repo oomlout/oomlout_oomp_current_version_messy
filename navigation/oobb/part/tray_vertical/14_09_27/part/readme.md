@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | income |  
+| bip_39_word_dash_10 | income-climb-flower-pipe-melody-door-mixed-harbor-nasty-mix |  
+| bip_39_word_dash_11 | income-climb-flower-pipe-melody-door-mixed-harbor-nasty-mix-siren |  
+| bip_39_word_dash_12 | income-climb-flower-pipe-melody-door-mixed-harbor-nasty-mix-siren-advice |  
+| bip_39_word_dash_2 | income-climb |  
+| bip_39_word_dash_3 | income-climb-flower |  
+| bip_39_word_dash_4 | income-climb-flower-pipe |  
+| bip_39_word_dash_5 | income-climb-flower-pipe-melody |  
+| bip_39_word_dash_6 | income-climb-flower-pipe-melody-door |  
+| bip_39_word_dash_7 | income-climb-flower-pipe-melody-door-mixed |  
+| bip_39_word_dash_8 | income-climb-flower-pipe-melody-door-mixed-harbor |  
+| bip_39_word_dash_9 | income-climb-flower-pipe-melody-door-mixed-harbor-nasty |  
 | bip_39_word_new_br_1 | income |  
 | bip_39_word_new_br_10 | income<br>climb<br>flower<br>pipe<br>melody<br>door<br>mixed<br>harbor<br>nasty<br>mix |  
 | bip_39_word_new_br_11 | income<br>climb<br>flower<br>pipe<br>melody<br>door<br>mixed<br>harbor<br>nasty<br>mix<br>siren |  
@@ -147,6 +159,18 @@ nasty |
 | bip_39_word_space_7 | income climb flower pipe melody door mixed |  
 | bip_39_word_space_8 | income climb flower pipe melody door mixed harbor |  
 | bip_39_word_space_9 | income climb flower pipe melody door mixed harbor nasty |  
+| bip_39_word_underscore_1 | income |  
+| bip_39_word_underscore_10 | income_climb_flower_pipe_melody_door_mixed_harbor_nasty_mix |  
+| bip_39_word_underscore_11 | income_climb_flower_pipe_melody_door_mixed_harbor_nasty_mix_siren |  
+| bip_39_word_underscore_12 | income_climb_flower_pipe_melody_door_mixed_harbor_nasty_mix_siren_advice |  
+| bip_39_word_underscore_2 | income_climb |  
+| bip_39_word_underscore_3 | income_climb_flower |  
+| bip_39_word_underscore_4 | income_climb_flower_pipe |  
+| bip_39_word_underscore_5 | income_climb_flower_pipe_melody |  
+| bip_39_word_underscore_6 | income_climb_flower_pipe_melody_door |  
+| bip_39_word_underscore_7 | income_climb_flower_pipe_melody_door_mixed |  
+| bip_39_word_underscore_8 | income_climb_flower_pipe_melody_door_mixed_harbor |  
+| bip_39_word_underscore_9 | income_climb_flower_pipe_melody_door_mixed_harbor_nasty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

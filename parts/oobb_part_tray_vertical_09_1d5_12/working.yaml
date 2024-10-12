@@ -1,3 +1,15 @@
+bip_39_word_dash_1: member
+bip_39_word_dash_10: member-coyote-liar-choose-brief-olive-custom-inquiry-sorry-network
+bip_39_word_dash_11: member-coyote-liar-choose-brief-olive-custom-inquiry-sorry-network-unlock
+bip_39_word_dash_12: member-coyote-liar-choose-brief-olive-custom-inquiry-sorry-network-unlock-ankle
+bip_39_word_dash_2: member-coyote
+bip_39_word_dash_3: member-coyote-liar
+bip_39_word_dash_4: member-coyote-liar-choose
+bip_39_word_dash_5: member-coyote-liar-choose-brief
+bip_39_word_dash_6: member-coyote-liar-choose-brief-olive
+bip_39_word_dash_7: member-coyote-liar-choose-brief-olive-custom
+bip_39_word_dash_8: member-coyote-liar-choose-brief-olive-custom-inquiry
+bip_39_word_dash_9: member-coyote-liar-choose-brief-olive-custom-inquiry-sorry
 bip_39_word_new_br_1: member
 bip_39_word_new_br_10: member<br>coyote<br>liar<br>choose<br>brief<br>olive<br>custom<br>inquiry<br>sorry<br>network
 bip_39_word_new_br_11: member<br>coyote<br>liar<br>choose<br>brief<br>olive<br>custom<br>inquiry<br>sorry<br>network<br>unlock
@@ -193,6 +205,18 @@ bip_39_word_space_6: member coyote liar choose brief olive
 bip_39_word_space_7: member coyote liar choose brief olive custom
 bip_39_word_space_8: member coyote liar choose brief olive custom inquiry
 bip_39_word_space_9: member coyote liar choose brief olive custom inquiry sorry
+bip_39_word_underscore_1: member
+bip_39_word_underscore_10: member_coyote_liar_choose_brief_olive_custom_inquiry_sorry_network
+bip_39_word_underscore_11: member_coyote_liar_choose_brief_olive_custom_inquiry_sorry_network_unlock
+bip_39_word_underscore_12: member_coyote_liar_choose_brief_olive_custom_inquiry_sorry_network_unlock_ankle
+bip_39_word_underscore_2: member_coyote
+bip_39_word_underscore_3: member_coyote_liar
+bip_39_word_underscore_4: member_coyote_liar_choose
+bip_39_word_underscore_5: member_coyote_liar_choose_brief
+bip_39_word_underscore_6: member_coyote_liar_choose_brief_olive
+bip_39_word_underscore_7: member_coyote_liar_choose_brief_olive_custom
+bip_39_word_underscore_8: member_coyote_liar_choose_brief_olive_custom_inquiry
+bip_39_word_underscore_9: member_coyote_liar_choose_brief_olive_custom_inquiry_sorry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

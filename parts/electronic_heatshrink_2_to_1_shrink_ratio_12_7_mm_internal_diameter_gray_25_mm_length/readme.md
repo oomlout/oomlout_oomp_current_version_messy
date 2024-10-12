@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | struggle |  
+| bip_39_word_dash_10 | struggle-unusual-shine-network-check-school-alpha-round-glow-retire |  
+| bip_39_word_dash_11 | struggle-unusual-shine-network-check-school-alpha-round-glow-retire-van |  
+| bip_39_word_dash_12 | struggle-unusual-shine-network-check-school-alpha-round-glow-retire-van-actor |  
+| bip_39_word_dash_2 | struggle-unusual |  
+| bip_39_word_dash_3 | struggle-unusual-shine |  
+| bip_39_word_dash_4 | struggle-unusual-shine-network |  
+| bip_39_word_dash_5 | struggle-unusual-shine-network-check |  
+| bip_39_word_dash_6 | struggle-unusual-shine-network-check-school |  
+| bip_39_word_dash_7 | struggle-unusual-shine-network-check-school-alpha |  
+| bip_39_word_dash_8 | struggle-unusual-shine-network-check-school-alpha-round |  
+| bip_39_word_dash_9 | struggle-unusual-shine-network-check-school-alpha-round-glow |  
 | bip_39_word_new_br_1 | struggle |  
 | bip_39_word_new_br_10 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire |  
 | bip_39_word_new_br_11 | struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire<br>van |  
@@ -147,6 +159,18 @@ glow |
 | bip_39_word_space_7 | struggle unusual shine network check school alpha |  
 | bip_39_word_space_8 | struggle unusual shine network check school alpha round |  
 | bip_39_word_space_9 | struggle unusual shine network check school alpha round glow |  
+| bip_39_word_underscore_1 | struggle |  
+| bip_39_word_underscore_10 | struggle_unusual_shine_network_check_school_alpha_round_glow_retire |  
+| bip_39_word_underscore_11 | struggle_unusual_shine_network_check_school_alpha_round_glow_retire_van |  
+| bip_39_word_underscore_12 | struggle_unusual_shine_network_check_school_alpha_round_glow_retire_van_actor |  
+| bip_39_word_underscore_2 | struggle_unusual |  
+| bip_39_word_underscore_3 | struggle_unusual_shine |  
+| bip_39_word_underscore_4 | struggle_unusual_shine_network |  
+| bip_39_word_underscore_5 | struggle_unusual_shine_network_check |  
+| bip_39_word_underscore_6 | struggle_unusual_shine_network_check_school |  
+| bip_39_word_underscore_7 | struggle_unusual_shine_network_check_school_alpha |  
+| bip_39_word_underscore_8 | struggle_unusual_shine_network_check_school_alpha_round |  
+| bip_39_word_underscore_9 | struggle_unusual_shine_network_check_school_alpha_round_glow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

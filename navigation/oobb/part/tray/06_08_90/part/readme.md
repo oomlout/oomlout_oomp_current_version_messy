@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | idle |  
+| bip_39_word_dash_10 | idle-better-digital-drink-key-million-rival-assume-friend-purity |  
+| bip_39_word_dash_11 | idle-better-digital-drink-key-million-rival-assume-friend-purity-stick |  
+| bip_39_word_dash_12 | idle-better-digital-drink-key-million-rival-assume-friend-purity-stick-animal |  
+| bip_39_word_dash_2 | idle-better |  
+| bip_39_word_dash_3 | idle-better-digital |  
+| bip_39_word_dash_4 | idle-better-digital-drink |  
+| bip_39_word_dash_5 | idle-better-digital-drink-key |  
+| bip_39_word_dash_6 | idle-better-digital-drink-key-million |  
+| bip_39_word_dash_7 | idle-better-digital-drink-key-million-rival |  
+| bip_39_word_dash_8 | idle-better-digital-drink-key-million-rival-assume |  
+| bip_39_word_dash_9 | idle-better-digital-drink-key-million-rival-assume-friend |  
 | bip_39_word_new_br_1 | idle |  
 | bip_39_word_new_br_10 | idle<br>better<br>digital<br>drink<br>key<br>million<br>rival<br>assume<br>friend<br>purity |  
 | bip_39_word_new_br_11 | idle<br>better<br>digital<br>drink<br>key<br>million<br>rival<br>assume<br>friend<br>purity<br>stick |  
@@ -147,6 +159,18 @@ friend |
 | bip_39_word_space_7 | idle better digital drink key million rival |  
 | bip_39_word_space_8 | idle better digital drink key million rival assume |  
 | bip_39_word_space_9 | idle better digital drink key million rival assume friend |  
+| bip_39_word_underscore_1 | idle |  
+| bip_39_word_underscore_10 | idle_better_digital_drink_key_million_rival_assume_friend_purity |  
+| bip_39_word_underscore_11 | idle_better_digital_drink_key_million_rival_assume_friend_purity_stick |  
+| bip_39_word_underscore_12 | idle_better_digital_drink_key_million_rival_assume_friend_purity_stick_animal |  
+| bip_39_word_underscore_2 | idle_better |  
+| bip_39_word_underscore_3 | idle_better_digital |  
+| bip_39_word_underscore_4 | idle_better_digital_drink |  
+| bip_39_word_underscore_5 | idle_better_digital_drink_key |  
+| bip_39_word_underscore_6 | idle_better_digital_drink_key_million |  
+| bip_39_word_underscore_7 | idle_better_digital_drink_key_million_rival |  
+| bip_39_word_underscore_8 | idle_better_digital_drink_key_million_rival_assume |  
+| bip_39_word_underscore_9 | idle_better_digital_drink_key_million_rival_assume_friend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

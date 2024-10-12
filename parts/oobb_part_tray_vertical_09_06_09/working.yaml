@@ -1,3 +1,15 @@
+bip_39_word_dash_1: phone
+bip_39_word_dash_10: phone-general-inherit-sing-session-love-snake-false-catalog-gossip
+bip_39_word_dash_11: phone-general-inherit-sing-session-love-snake-false-catalog-gossip-cluster
+bip_39_word_dash_12: phone-general-inherit-sing-session-love-snake-false-catalog-gossip-cluster-audit
+bip_39_word_dash_2: phone-general
+bip_39_word_dash_3: phone-general-inherit
+bip_39_word_dash_4: phone-general-inherit-sing
+bip_39_word_dash_5: phone-general-inherit-sing-session
+bip_39_word_dash_6: phone-general-inherit-sing-session-love
+bip_39_word_dash_7: phone-general-inherit-sing-session-love-snake
+bip_39_word_dash_8: phone-general-inherit-sing-session-love-snake-false
+bip_39_word_dash_9: phone-general-inherit-sing-session-love-snake-false-catalog
 bip_39_word_new_br_1: phone
 bip_39_word_new_br_10: phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false<br>catalog<br>gossip
 bip_39_word_new_br_11: phone<br>general<br>inherit<br>sing<br>session<br>love<br>snake<br>false<br>catalog<br>gossip<br>cluster
@@ -194,6 +206,18 @@ bip_39_word_space_6: phone general inherit sing session love
 bip_39_word_space_7: phone general inherit sing session love snake
 bip_39_word_space_8: phone general inherit sing session love snake false
 bip_39_word_space_9: phone general inherit sing session love snake false catalog
+bip_39_word_underscore_1: phone
+bip_39_word_underscore_10: phone_general_inherit_sing_session_love_snake_false_catalog_gossip
+bip_39_word_underscore_11: phone_general_inherit_sing_session_love_snake_false_catalog_gossip_cluster
+bip_39_word_underscore_12: phone_general_inherit_sing_session_love_snake_false_catalog_gossip_cluster_audit
+bip_39_word_underscore_2: phone_general
+bip_39_word_underscore_3: phone_general_inherit
+bip_39_word_underscore_4: phone_general_inherit_sing
+bip_39_word_underscore_5: phone_general_inherit_sing_session
+bip_39_word_underscore_6: phone_general_inherit_sing_session_love
+bip_39_word_underscore_7: phone_general_inherit_sing_session_love_snake
+bip_39_word_underscore_8: phone_general_inherit_sing_session_love_snake_false
+bip_39_word_underscore_9: phone_general_inherit_sing_session_love_snake_false_catalog
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

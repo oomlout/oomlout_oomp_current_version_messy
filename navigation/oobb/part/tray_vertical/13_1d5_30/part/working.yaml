@@ -1,3 +1,15 @@
+bip_39_word_dash_1: omit
+bip_39_word_dash_10: omit-method-hospital-phrase-squirrel-dumb-bone-squirrel-excuse-mammal
+bip_39_word_dash_11: omit-method-hospital-phrase-squirrel-dumb-bone-squirrel-excuse-mammal-joy
+bip_39_word_dash_12: omit-method-hospital-phrase-squirrel-dumb-bone-squirrel-excuse-mammal-joy-among
+bip_39_word_dash_2: omit-method
+bip_39_word_dash_3: omit-method-hospital
+bip_39_word_dash_4: omit-method-hospital-phrase
+bip_39_word_dash_5: omit-method-hospital-phrase-squirrel
+bip_39_word_dash_6: omit-method-hospital-phrase-squirrel-dumb
+bip_39_word_dash_7: omit-method-hospital-phrase-squirrel-dumb-bone
+bip_39_word_dash_8: omit-method-hospital-phrase-squirrel-dumb-bone-squirrel
+bip_39_word_dash_9: omit-method-hospital-phrase-squirrel-dumb-bone-squirrel-excuse
 bip_39_word_new_br_1: omit
 bip_39_word_new_br_10: omit<br>method<br>hospital<br>phrase<br>squirrel<br>dumb<br>bone<br>squirrel<br>excuse<br>mammal
 bip_39_word_new_br_11: omit<br>method<br>hospital<br>phrase<br>squirrel<br>dumb<br>bone<br>squirrel<br>excuse<br>mammal<br>joy
@@ -194,6 +206,18 @@ bip_39_word_space_6: omit method hospital phrase squirrel dumb
 bip_39_word_space_7: omit method hospital phrase squirrel dumb bone
 bip_39_word_space_8: omit method hospital phrase squirrel dumb bone squirrel
 bip_39_word_space_9: omit method hospital phrase squirrel dumb bone squirrel excuse
+bip_39_word_underscore_1: omit
+bip_39_word_underscore_10: omit_method_hospital_phrase_squirrel_dumb_bone_squirrel_excuse_mammal
+bip_39_word_underscore_11: omit_method_hospital_phrase_squirrel_dumb_bone_squirrel_excuse_mammal_joy
+bip_39_word_underscore_12: omit_method_hospital_phrase_squirrel_dumb_bone_squirrel_excuse_mammal_joy_among
+bip_39_word_underscore_2: omit_method
+bip_39_word_underscore_3: omit_method_hospital
+bip_39_word_underscore_4: omit_method_hospital_phrase
+bip_39_word_underscore_5: omit_method_hospital_phrase_squirrel
+bip_39_word_underscore_6: omit_method_hospital_phrase_squirrel_dumb
+bip_39_word_underscore_7: omit_method_hospital_phrase_squirrel_dumb_bone
+bip_39_word_underscore_8: omit_method_hospital_phrase_squirrel_dumb_bone_squirrel
+bip_39_word_underscore_9: omit_method_hospital_phrase_squirrel_dumb_bone_squirrel_excuse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

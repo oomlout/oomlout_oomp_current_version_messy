@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mountain |  
+| bip_39_word_dash_10 | mountain-strategy-ostrich-admit-crouch-enrich-industry-fossil-liar-jaguar |  
+| bip_39_word_dash_11 | mountain-strategy-ostrich-admit-crouch-enrich-industry-fossil-liar-jaguar-velvet |  
+| bip_39_word_dash_12 | mountain-strategy-ostrich-admit-crouch-enrich-industry-fossil-liar-jaguar-velvet-agent |  
+| bip_39_word_dash_2 | mountain-strategy |  
+| bip_39_word_dash_3 | mountain-strategy-ostrich |  
+| bip_39_word_dash_4 | mountain-strategy-ostrich-admit |  
+| bip_39_word_dash_5 | mountain-strategy-ostrich-admit-crouch |  
+| bip_39_word_dash_6 | mountain-strategy-ostrich-admit-crouch-enrich |  
+| bip_39_word_dash_7 | mountain-strategy-ostrich-admit-crouch-enrich-industry |  
+| bip_39_word_dash_8 | mountain-strategy-ostrich-admit-crouch-enrich-industry-fossil |  
+| bip_39_word_dash_9 | mountain-strategy-ostrich-admit-crouch-enrich-industry-fossil-liar |  
 | bip_39_word_new_br_1 | mountain |  
 | bip_39_word_new_br_10 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar |  
 | bip_39_word_new_br_11 | mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar<br>velvet |  
@@ -147,6 +159,18 @@ liar |
 | bip_39_word_space_7 | mountain strategy ostrich admit crouch enrich industry |  
 | bip_39_word_space_8 | mountain strategy ostrich admit crouch enrich industry fossil |  
 | bip_39_word_space_9 | mountain strategy ostrich admit crouch enrich industry fossil liar |  
+| bip_39_word_underscore_1 | mountain |  
+| bip_39_word_underscore_10 | mountain_strategy_ostrich_admit_crouch_enrich_industry_fossil_liar_jaguar |  
+| bip_39_word_underscore_11 | mountain_strategy_ostrich_admit_crouch_enrich_industry_fossil_liar_jaguar_velvet |  
+| bip_39_word_underscore_12 | mountain_strategy_ostrich_admit_crouch_enrich_industry_fossil_liar_jaguar_velvet_agent |  
+| bip_39_word_underscore_2 | mountain_strategy |  
+| bip_39_word_underscore_3 | mountain_strategy_ostrich |  
+| bip_39_word_underscore_4 | mountain_strategy_ostrich_admit |  
+| bip_39_word_underscore_5 | mountain_strategy_ostrich_admit_crouch |  
+| bip_39_word_underscore_6 | mountain_strategy_ostrich_admit_crouch_enrich |  
+| bip_39_word_underscore_7 | mountain_strategy_ostrich_admit_crouch_enrich_industry |  
+| bip_39_word_underscore_8 | mountain_strategy_ostrich_admit_crouch_enrich_industry_fossil |  
+| bip_39_word_underscore_9 | mountain_strategy_ostrich_admit_crouch_enrich_industry_fossil_liar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

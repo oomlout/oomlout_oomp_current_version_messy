@@ -1,3 +1,15 @@
+bip_39_word_dash_1: gadget
+bip_39_word_dash_10: gadget-sweet-permit-mammal-sorry-cage-right-slender-subway-matter
+bip_39_word_dash_11: gadget-sweet-permit-mammal-sorry-cage-right-slender-subway-matter-buddy
+bip_39_word_dash_12: gadget-sweet-permit-mammal-sorry-cage-right-slender-subway-matter-buddy-aspect
+bip_39_word_dash_2: gadget-sweet
+bip_39_word_dash_3: gadget-sweet-permit
+bip_39_word_dash_4: gadget-sweet-permit-mammal
+bip_39_word_dash_5: gadget-sweet-permit-mammal-sorry
+bip_39_word_dash_6: gadget-sweet-permit-mammal-sorry-cage
+bip_39_word_dash_7: gadget-sweet-permit-mammal-sorry-cage-right
+bip_39_word_dash_8: gadget-sweet-permit-mammal-sorry-cage-right-slender
+bip_39_word_dash_9: gadget-sweet-permit-mammal-sorry-cage-right-slender-subway
 bip_39_word_new_br_1: gadget
 bip_39_word_new_br_10: gadget<br>sweet<br>permit<br>mammal<br>sorry<br>cage<br>right<br>slender<br>subway<br>matter
 bip_39_word_new_br_11: gadget<br>sweet<br>permit<br>mammal<br>sorry<br>cage<br>right<br>slender<br>subway<br>matter<br>buddy
@@ -193,6 +205,18 @@ bip_39_word_space_6: gadget sweet permit mammal sorry cage
 bip_39_word_space_7: gadget sweet permit mammal sorry cage right
 bip_39_word_space_8: gadget sweet permit mammal sorry cage right slender
 bip_39_word_space_9: gadget sweet permit mammal sorry cage right slender subway
+bip_39_word_underscore_1: gadget
+bip_39_word_underscore_10: gadget_sweet_permit_mammal_sorry_cage_right_slender_subway_matter
+bip_39_word_underscore_11: gadget_sweet_permit_mammal_sorry_cage_right_slender_subway_matter_buddy
+bip_39_word_underscore_12: gadget_sweet_permit_mammal_sorry_cage_right_slender_subway_matter_buddy_aspect
+bip_39_word_underscore_2: gadget_sweet
+bip_39_word_underscore_3: gadget_sweet_permit
+bip_39_word_underscore_4: gadget_sweet_permit_mammal
+bip_39_word_underscore_5: gadget_sweet_permit_mammal_sorry
+bip_39_word_underscore_6: gadget_sweet_permit_mammal_sorry_cage
+bip_39_word_underscore_7: gadget_sweet_permit_mammal_sorry_cage_right
+bip_39_word_underscore_8: gadget_sweet_permit_mammal_sorry_cage_right_slender
+bip_39_word_underscore_9: gadget_sweet_permit_mammal_sorry_cage_right_slender_subway
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

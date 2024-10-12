@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | water |  
+| bip_39_word_dash_10 | water-supreme-film-nerve-slide-spray-drama-work-grunt-rally |  
+| bip_39_word_dash_11 | water-supreme-film-nerve-slide-spray-drama-work-grunt-rally-demise |  
+| bip_39_word_dash_12 | water-supreme-film-nerve-slide-spray-drama-work-grunt-rally-demise-acid |  
+| bip_39_word_dash_2 | water-supreme |  
+| bip_39_word_dash_3 | water-supreme-film |  
+| bip_39_word_dash_4 | water-supreme-film-nerve |  
+| bip_39_word_dash_5 | water-supreme-film-nerve-slide |  
+| bip_39_word_dash_6 | water-supreme-film-nerve-slide-spray |  
+| bip_39_word_dash_7 | water-supreme-film-nerve-slide-spray-drama |  
+| bip_39_word_dash_8 | water-supreme-film-nerve-slide-spray-drama-work |  
+| bip_39_word_dash_9 | water-supreme-film-nerve-slide-spray-drama-work-grunt |  
 | bip_39_word_new_br_1 | water |  
 | bip_39_word_new_br_10 | water<br>supreme<br>film<br>nerve<br>slide<br>spray<br>drama<br>work<br>grunt<br>rally |  
 | bip_39_word_new_br_11 | water<br>supreme<br>film<br>nerve<br>slide<br>spray<br>drama<br>work<br>grunt<br>rally<br>demise |  
@@ -147,6 +159,18 @@ grunt |
 | bip_39_word_space_7 | water supreme film nerve slide spray drama |  
 | bip_39_word_space_8 | water supreme film nerve slide spray drama work |  
 | bip_39_word_space_9 | water supreme film nerve slide spray drama work grunt |  
+| bip_39_word_underscore_1 | water |  
+| bip_39_word_underscore_10 | water_supreme_film_nerve_slide_spray_drama_work_grunt_rally |  
+| bip_39_word_underscore_11 | water_supreme_film_nerve_slide_spray_drama_work_grunt_rally_demise |  
+| bip_39_word_underscore_12 | water_supreme_film_nerve_slide_spray_drama_work_grunt_rally_demise_acid |  
+| bip_39_word_underscore_2 | water_supreme |  
+| bip_39_word_underscore_3 | water_supreme_film |  
+| bip_39_word_underscore_4 | water_supreme_film_nerve |  
+| bip_39_word_underscore_5 | water_supreme_film_nerve_slide |  
+| bip_39_word_underscore_6 | water_supreme_film_nerve_slide_spray |  
+| bip_39_word_underscore_7 | water_supreme_film_nerve_slide_spray_drama |  
+| bip_39_word_underscore_8 | water_supreme_film_nerve_slide_spray_drama_work |  
+| bip_39_word_underscore_9 | water_supreme_film_nerve_slide_spray_drama_work_grunt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

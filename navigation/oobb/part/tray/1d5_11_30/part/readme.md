@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | market |  
+| bip_39_word_dash_10 | market-burst-cactus-input-fresh-aim-mammal-swamp-grace-web |  
+| bip_39_word_dash_11 | market-burst-cactus-input-fresh-aim-mammal-swamp-grace-web-island |  
+| bip_39_word_dash_12 | market-burst-cactus-input-fresh-aim-mammal-swamp-grace-web-island-addict |  
+| bip_39_word_dash_2 | market-burst |  
+| bip_39_word_dash_3 | market-burst-cactus |  
+| bip_39_word_dash_4 | market-burst-cactus-input |  
+| bip_39_word_dash_5 | market-burst-cactus-input-fresh |  
+| bip_39_word_dash_6 | market-burst-cactus-input-fresh-aim |  
+| bip_39_word_dash_7 | market-burst-cactus-input-fresh-aim-mammal |  
+| bip_39_word_dash_8 | market-burst-cactus-input-fresh-aim-mammal-swamp |  
+| bip_39_word_dash_9 | market-burst-cactus-input-fresh-aim-mammal-swamp-grace |  
 | bip_39_word_new_br_1 | market |  
 | bip_39_word_new_br_10 | market<br>burst<br>cactus<br>input<br>fresh<br>aim<br>mammal<br>swamp<br>grace<br>web |  
 | bip_39_word_new_br_11 | market<br>burst<br>cactus<br>input<br>fresh<br>aim<br>mammal<br>swamp<br>grace<br>web<br>island |  
@@ -147,6 +159,18 @@ grace |
 | bip_39_word_space_7 | market burst cactus input fresh aim mammal |  
 | bip_39_word_space_8 | market burst cactus input fresh aim mammal swamp |  
 | bip_39_word_space_9 | market burst cactus input fresh aim mammal swamp grace |  
+| bip_39_word_underscore_1 | market |  
+| bip_39_word_underscore_10 | market_burst_cactus_input_fresh_aim_mammal_swamp_grace_web |  
+| bip_39_word_underscore_11 | market_burst_cactus_input_fresh_aim_mammal_swamp_grace_web_island |  
+| bip_39_word_underscore_12 | market_burst_cactus_input_fresh_aim_mammal_swamp_grace_web_island_addict |  
+| bip_39_word_underscore_2 | market_burst |  
+| bip_39_word_underscore_3 | market_burst_cactus |  
+| bip_39_word_underscore_4 | market_burst_cactus_input |  
+| bip_39_word_underscore_5 | market_burst_cactus_input_fresh |  
+| bip_39_word_underscore_6 | market_burst_cactus_input_fresh_aim |  
+| bip_39_word_underscore_7 | market_burst_cactus_input_fresh_aim_mammal |  
+| bip_39_word_underscore_8 | market_burst_cactus_input_fresh_aim_mammal_swamp |  
+| bip_39_word_underscore_9 | market_burst_cactus_input_fresh_aim_mammal_swamp_grace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: render
+bip_39_word_dash_10: render-leader-guide-crumble-stock-bicycle-awake-say-universe-evidence
+bip_39_word_dash_11: render-leader-guide-crumble-stock-bicycle-awake-say-universe-evidence-cute
+bip_39_word_dash_12: render-leader-guide-crumble-stock-bicycle-awake-say-universe-evidence-cute-alcohol
+bip_39_word_dash_2: render-leader
+bip_39_word_dash_3: render-leader-guide
+bip_39_word_dash_4: render-leader-guide-crumble
+bip_39_word_dash_5: render-leader-guide-crumble-stock
+bip_39_word_dash_6: render-leader-guide-crumble-stock-bicycle
+bip_39_word_dash_7: render-leader-guide-crumble-stock-bicycle-awake
+bip_39_word_dash_8: render-leader-guide-crumble-stock-bicycle-awake-say
+bip_39_word_dash_9: render-leader-guide-crumble-stock-bicycle-awake-say-universe
 bip_39_word_new_br_1: render
 bip_39_word_new_br_10: render<br>leader<br>guide<br>crumble<br>stock<br>bicycle<br>awake<br>say<br>universe<br>evidence
 bip_39_word_new_br_11: render<br>leader<br>guide<br>crumble<br>stock<br>bicycle<br>awake<br>say<br>universe<br>evidence<br>cute
@@ -194,6 +206,18 @@ bip_39_word_space_6: render leader guide crumble stock bicycle
 bip_39_word_space_7: render leader guide crumble stock bicycle awake
 bip_39_word_space_8: render leader guide crumble stock bicycle awake say
 bip_39_word_space_9: render leader guide crumble stock bicycle awake say universe
+bip_39_word_underscore_1: render
+bip_39_word_underscore_10: render_leader_guide_crumble_stock_bicycle_awake_say_universe_evidence
+bip_39_word_underscore_11: render_leader_guide_crumble_stock_bicycle_awake_say_universe_evidence_cute
+bip_39_word_underscore_12: render_leader_guide_crumble_stock_bicycle_awake_say_universe_evidence_cute_alcohol
+bip_39_word_underscore_2: render_leader
+bip_39_word_underscore_3: render_leader_guide
+bip_39_word_underscore_4: render_leader_guide_crumble
+bip_39_word_underscore_5: render_leader_guide_crumble_stock
+bip_39_word_underscore_6: render_leader_guide_crumble_stock_bicycle
+bip_39_word_underscore_7: render_leader_guide_crumble_stock_bicycle_awake
+bip_39_word_underscore_8: render_leader_guide_crumble_stock_bicycle_awake_say
+bip_39_word_underscore_9: render_leader_guide_crumble_stock_bicycle_awake_say_universe
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

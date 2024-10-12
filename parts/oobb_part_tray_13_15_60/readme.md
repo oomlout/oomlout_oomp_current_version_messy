@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | excess |  
+| bip_39_word_dash_10 | excess-tree-alarm-once-error-half-dinosaur-uphold-garden-symptom |  
+| bip_39_word_dash_11 | excess-tree-alarm-once-error-half-dinosaur-uphold-garden-symptom-demise |  
+| bip_39_word_dash_12 | excess-tree-alarm-once-error-half-dinosaur-uphold-garden-symptom-demise-always |  
+| bip_39_word_dash_2 | excess-tree |  
+| bip_39_word_dash_3 | excess-tree-alarm |  
+| bip_39_word_dash_4 | excess-tree-alarm-once |  
+| bip_39_word_dash_5 | excess-tree-alarm-once-error |  
+| bip_39_word_dash_6 | excess-tree-alarm-once-error-half |  
+| bip_39_word_dash_7 | excess-tree-alarm-once-error-half-dinosaur |  
+| bip_39_word_dash_8 | excess-tree-alarm-once-error-half-dinosaur-uphold |  
+| bip_39_word_dash_9 | excess-tree-alarm-once-error-half-dinosaur-uphold-garden |  
 | bip_39_word_new_br_1 | excess |  
 | bip_39_word_new_br_10 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold<br>garden<br>symptom |  
 | bip_39_word_new_br_11 | excess<br>tree<br>alarm<br>once<br>error<br>half<br>dinosaur<br>uphold<br>garden<br>symptom<br>demise |  
@@ -147,6 +159,18 @@ garden |
 | bip_39_word_space_7 | excess tree alarm once error half dinosaur |  
 | bip_39_word_space_8 | excess tree alarm once error half dinosaur uphold |  
 | bip_39_word_space_9 | excess tree alarm once error half dinosaur uphold garden |  
+| bip_39_word_underscore_1 | excess |  
+| bip_39_word_underscore_10 | excess_tree_alarm_once_error_half_dinosaur_uphold_garden_symptom |  
+| bip_39_word_underscore_11 | excess_tree_alarm_once_error_half_dinosaur_uphold_garden_symptom_demise |  
+| bip_39_word_underscore_12 | excess_tree_alarm_once_error_half_dinosaur_uphold_garden_symptom_demise_always |  
+| bip_39_word_underscore_2 | excess_tree |  
+| bip_39_word_underscore_3 | excess_tree_alarm |  
+| bip_39_word_underscore_4 | excess_tree_alarm_once |  
+| bip_39_word_underscore_5 | excess_tree_alarm_once_error |  
+| bip_39_word_underscore_6 | excess_tree_alarm_once_error_half |  
+| bip_39_word_underscore_7 | excess_tree_alarm_once_error_half_dinosaur |  
+| bip_39_word_underscore_8 | excess_tree_alarm_once_error_half_dinosaur_uphold |  
+| bip_39_word_underscore_9 | excess_tree_alarm_once_error_half_dinosaur_uphold_garden |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

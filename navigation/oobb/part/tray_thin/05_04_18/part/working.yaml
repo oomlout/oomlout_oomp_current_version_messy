@@ -1,3 +1,15 @@
+bip_39_word_dash_1: swarm
+bip_39_word_dash_10: swarm-foot-dog-involve-element-mind-cigar-replace-again-arrest
+bip_39_word_dash_11: swarm-foot-dog-involve-element-mind-cigar-replace-again-arrest-basket
+bip_39_word_dash_12: swarm-foot-dog-involve-element-mind-cigar-replace-again-arrest-basket-aim
+bip_39_word_dash_2: swarm-foot
+bip_39_word_dash_3: swarm-foot-dog
+bip_39_word_dash_4: swarm-foot-dog-involve
+bip_39_word_dash_5: swarm-foot-dog-involve-element
+bip_39_word_dash_6: swarm-foot-dog-involve-element-mind
+bip_39_word_dash_7: swarm-foot-dog-involve-element-mind-cigar
+bip_39_word_dash_8: swarm-foot-dog-involve-element-mind-cigar-replace
+bip_39_word_dash_9: swarm-foot-dog-involve-element-mind-cigar-replace-again
 bip_39_word_new_br_1: swarm
 bip_39_word_new_br_10: swarm<br>foot<br>dog<br>involve<br>element<br>mind<br>cigar<br>replace<br>again<br>arrest
 bip_39_word_new_br_11: swarm<br>foot<br>dog<br>involve<br>element<br>mind<br>cigar<br>replace<br>again<br>arrest<br>basket
@@ -193,6 +205,18 @@ bip_39_word_space_6: swarm foot dog involve element mind
 bip_39_word_space_7: swarm foot dog involve element mind cigar
 bip_39_word_space_8: swarm foot dog involve element mind cigar replace
 bip_39_word_space_9: swarm foot dog involve element mind cigar replace again
+bip_39_word_underscore_1: swarm
+bip_39_word_underscore_10: swarm_foot_dog_involve_element_mind_cigar_replace_again_arrest
+bip_39_word_underscore_11: swarm_foot_dog_involve_element_mind_cigar_replace_again_arrest_basket
+bip_39_word_underscore_12: swarm_foot_dog_involve_element_mind_cigar_replace_again_arrest_basket_aim
+bip_39_word_underscore_2: swarm_foot
+bip_39_word_underscore_3: swarm_foot_dog
+bip_39_word_underscore_4: swarm_foot_dog_involve
+bip_39_word_underscore_5: swarm_foot_dog_involve_element
+bip_39_word_underscore_6: swarm_foot_dog_involve_element_mind
+bip_39_word_underscore_7: swarm_foot_dog_involve_element_mind_cigar
+bip_39_word_underscore_8: swarm_foot_dog_involve_element_mind_cigar_replace
+bip_39_word_underscore_9: swarm_foot_dog_involve_element_mind_cigar_replace_again
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

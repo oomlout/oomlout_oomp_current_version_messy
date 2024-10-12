@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | laptop |  
+| bip_39_word_dash_10 | laptop-minor-purse-rabbit-sock-point-movie-practice-attract-cruel |  
+| bip_39_word_dash_11 | laptop-minor-purse-rabbit-sock-point-movie-practice-attract-cruel-tree |  
+| bip_39_word_dash_12 | laptop-minor-purse-rabbit-sock-point-movie-practice-attract-cruel-tree-alarm |  
+| bip_39_word_dash_2 | laptop-minor |  
+| bip_39_word_dash_3 | laptop-minor-purse |  
+| bip_39_word_dash_4 | laptop-minor-purse-rabbit |  
+| bip_39_word_dash_5 | laptop-minor-purse-rabbit-sock |  
+| bip_39_word_dash_6 | laptop-minor-purse-rabbit-sock-point |  
+| bip_39_word_dash_7 | laptop-minor-purse-rabbit-sock-point-movie |  
+| bip_39_word_dash_8 | laptop-minor-purse-rabbit-sock-point-movie-practice |  
+| bip_39_word_dash_9 | laptop-minor-purse-rabbit-sock-point-movie-practice-attract |  
 | bip_39_word_new_br_1 | laptop |  
 | bip_39_word_new_br_10 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel |  
 | bip_39_word_new_br_11 | laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel<br>tree |  
@@ -147,6 +159,18 @@ attract |
 | bip_39_word_space_7 | laptop minor purse rabbit sock point movie |  
 | bip_39_word_space_8 | laptop minor purse rabbit sock point movie practice |  
 | bip_39_word_space_9 | laptop minor purse rabbit sock point movie practice attract |  
+| bip_39_word_underscore_1 | laptop |  
+| bip_39_word_underscore_10 | laptop_minor_purse_rabbit_sock_point_movie_practice_attract_cruel |  
+| bip_39_word_underscore_11 | laptop_minor_purse_rabbit_sock_point_movie_practice_attract_cruel_tree |  
+| bip_39_word_underscore_12 | laptop_minor_purse_rabbit_sock_point_movie_practice_attract_cruel_tree_alarm |  
+| bip_39_word_underscore_2 | laptop_minor |  
+| bip_39_word_underscore_3 | laptop_minor_purse |  
+| bip_39_word_underscore_4 | laptop_minor_purse_rabbit |  
+| bip_39_word_underscore_5 | laptop_minor_purse_rabbit_sock |  
+| bip_39_word_underscore_6 | laptop_minor_purse_rabbit_sock_point |  
+| bip_39_word_underscore_7 | laptop_minor_purse_rabbit_sock_point_movie |  
+| bip_39_word_underscore_8 | laptop_minor_purse_rabbit_sock_point_movie_practice |  
+| bip_39_word_underscore_9 | laptop_minor_purse_rabbit_sock_point_movie_practice_attract |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

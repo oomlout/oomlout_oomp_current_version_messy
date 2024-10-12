@@ -1,3 +1,15 @@
+bip_39_word_dash_1: filter
+bip_39_word_dash_10: filter-edge-reopen-fork-tragic-scrub-upper-melt-stadium-umbrella
+bip_39_word_dash_11: filter-edge-reopen-fork-tragic-scrub-upper-melt-stadium-umbrella-monster
+bip_39_word_dash_12: filter-edge-reopen-fork-tragic-scrub-upper-melt-stadium-umbrella-monster-addict
+bip_39_word_dash_2: filter-edge
+bip_39_word_dash_3: filter-edge-reopen
+bip_39_word_dash_4: filter-edge-reopen-fork
+bip_39_word_dash_5: filter-edge-reopen-fork-tragic
+bip_39_word_dash_6: filter-edge-reopen-fork-tragic-scrub
+bip_39_word_dash_7: filter-edge-reopen-fork-tragic-scrub-upper
+bip_39_word_dash_8: filter-edge-reopen-fork-tragic-scrub-upper-melt
+bip_39_word_dash_9: filter-edge-reopen-fork-tragic-scrub-upper-melt-stadium
 bip_39_word_new_br_1: filter
 bip_39_word_new_br_10: filter<br>edge<br>reopen<br>fork<br>tragic<br>scrub<br>upper<br>melt<br>stadium<br>umbrella
 bip_39_word_new_br_11: filter<br>edge<br>reopen<br>fork<br>tragic<br>scrub<br>upper<br>melt<br>stadium<br>umbrella<br>monster
@@ -193,6 +205,18 @@ bip_39_word_space_6: filter edge reopen fork tragic scrub
 bip_39_word_space_7: filter edge reopen fork tragic scrub upper
 bip_39_word_space_8: filter edge reopen fork tragic scrub upper melt
 bip_39_word_space_9: filter edge reopen fork tragic scrub upper melt stadium
+bip_39_word_underscore_1: filter
+bip_39_word_underscore_10: filter_edge_reopen_fork_tragic_scrub_upper_melt_stadium_umbrella
+bip_39_word_underscore_11: filter_edge_reopen_fork_tragic_scrub_upper_melt_stadium_umbrella_monster
+bip_39_word_underscore_12: filter_edge_reopen_fork_tragic_scrub_upper_melt_stadium_umbrella_monster_addict
+bip_39_word_underscore_2: filter_edge
+bip_39_word_underscore_3: filter_edge_reopen
+bip_39_word_underscore_4: filter_edge_reopen_fork
+bip_39_word_underscore_5: filter_edge_reopen_fork_tragic
+bip_39_word_underscore_6: filter_edge_reopen_fork_tragic_scrub
+bip_39_word_underscore_7: filter_edge_reopen_fork_tragic_scrub_upper
+bip_39_word_underscore_8: filter_edge_reopen_fork_tragic_scrub_upper_melt
+bip_39_word_underscore_9: filter_edge_reopen_fork_tragic_scrub_upper_melt_stadium
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

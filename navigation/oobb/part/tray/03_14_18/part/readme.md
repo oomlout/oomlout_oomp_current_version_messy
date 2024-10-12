@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | excess |  
+| bip_39_word_dash_10 | excess-omit-eye-drop-inform-essay-gap-remain-lift-tissue |  
+| bip_39_word_dash_11 | excess-omit-eye-drop-inform-essay-gap-remain-lift-tissue-hamster |  
+| bip_39_word_dash_12 | excess-omit-eye-drop-inform-essay-gap-remain-lift-tissue-hamster-antique |  
+| bip_39_word_dash_2 | excess-omit |  
+| bip_39_word_dash_3 | excess-omit-eye |  
+| bip_39_word_dash_4 | excess-omit-eye-drop |  
+| bip_39_word_dash_5 | excess-omit-eye-drop-inform |  
+| bip_39_word_dash_6 | excess-omit-eye-drop-inform-essay |  
+| bip_39_word_dash_7 | excess-omit-eye-drop-inform-essay-gap |  
+| bip_39_word_dash_8 | excess-omit-eye-drop-inform-essay-gap-remain |  
+| bip_39_word_dash_9 | excess-omit-eye-drop-inform-essay-gap-remain-lift |  
 | bip_39_word_new_br_1 | excess |  
 | bip_39_word_new_br_10 | excess<br>omit<br>eye<br>drop<br>inform<br>essay<br>gap<br>remain<br>lift<br>tissue |  
 | bip_39_word_new_br_11 | excess<br>omit<br>eye<br>drop<br>inform<br>essay<br>gap<br>remain<br>lift<br>tissue<br>hamster |  
@@ -147,6 +159,18 @@ lift |
 | bip_39_word_space_7 | excess omit eye drop inform essay gap |  
 | bip_39_word_space_8 | excess omit eye drop inform essay gap remain |  
 | bip_39_word_space_9 | excess omit eye drop inform essay gap remain lift |  
+| bip_39_word_underscore_1 | excess |  
+| bip_39_word_underscore_10 | excess_omit_eye_drop_inform_essay_gap_remain_lift_tissue |  
+| bip_39_word_underscore_11 | excess_omit_eye_drop_inform_essay_gap_remain_lift_tissue_hamster |  
+| bip_39_word_underscore_12 | excess_omit_eye_drop_inform_essay_gap_remain_lift_tissue_hamster_antique |  
+| bip_39_word_underscore_2 | excess_omit |  
+| bip_39_word_underscore_3 | excess_omit_eye |  
+| bip_39_word_underscore_4 | excess_omit_eye_drop |  
+| bip_39_word_underscore_5 | excess_omit_eye_drop_inform |  
+| bip_39_word_underscore_6 | excess_omit_eye_drop_inform_essay |  
+| bip_39_word_underscore_7 | excess_omit_eye_drop_inform_essay_gap |  
+| bip_39_word_underscore_8 | excess_omit_eye_drop_inform_essay_gap_remain |  
+| bip_39_word_underscore_9 | excess_omit_eye_drop_inform_essay_gap_remain_lift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

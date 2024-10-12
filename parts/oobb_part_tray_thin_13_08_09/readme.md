@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | update |  
+| bip_39_word_dash_10 | update-level-fragile-visa-absorb-miracle-tail-bean-analyst-west |  
+| bip_39_word_dash_11 | update-level-fragile-visa-absorb-miracle-tail-bean-analyst-west-expire |  
+| bip_39_word_dash_12 | update-level-fragile-visa-absorb-miracle-tail-bean-analyst-west-expire-assist |  
+| bip_39_word_dash_2 | update-level |  
+| bip_39_word_dash_3 | update-level-fragile |  
+| bip_39_word_dash_4 | update-level-fragile-visa |  
+| bip_39_word_dash_5 | update-level-fragile-visa-absorb |  
+| bip_39_word_dash_6 | update-level-fragile-visa-absorb-miracle |  
+| bip_39_word_dash_7 | update-level-fragile-visa-absorb-miracle-tail |  
+| bip_39_word_dash_8 | update-level-fragile-visa-absorb-miracle-tail-bean |  
+| bip_39_word_dash_9 | update-level-fragile-visa-absorb-miracle-tail-bean-analyst |  
 | bip_39_word_new_br_1 | update |  
 | bip_39_word_new_br_10 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean<br>analyst<br>west |  
 | bip_39_word_new_br_11 | update<br>level<br>fragile<br>visa<br>absorb<br>miracle<br>tail<br>bean<br>analyst<br>west<br>expire |  
@@ -147,6 +159,18 @@ analyst |
 | bip_39_word_space_7 | update level fragile visa absorb miracle tail |  
 | bip_39_word_space_8 | update level fragile visa absorb miracle tail bean |  
 | bip_39_word_space_9 | update level fragile visa absorb miracle tail bean analyst |  
+| bip_39_word_underscore_1 | update |  
+| bip_39_word_underscore_10 | update_level_fragile_visa_absorb_miracle_tail_bean_analyst_west |  
+| bip_39_word_underscore_11 | update_level_fragile_visa_absorb_miracle_tail_bean_analyst_west_expire |  
+| bip_39_word_underscore_12 | update_level_fragile_visa_absorb_miracle_tail_bean_analyst_west_expire_assist |  
+| bip_39_word_underscore_2 | update_level |  
+| bip_39_word_underscore_3 | update_level_fragile |  
+| bip_39_word_underscore_4 | update_level_fragile_visa |  
+| bip_39_word_underscore_5 | update_level_fragile_visa_absorb |  
+| bip_39_word_underscore_6 | update_level_fragile_visa_absorb_miracle |  
+| bip_39_word_underscore_7 | update_level_fragile_visa_absorb_miracle_tail |  
+| bip_39_word_underscore_8 | update_level_fragile_visa_absorb_miracle_tail_bean |  
+| bip_39_word_underscore_9 | update_level_fragile_visa_absorb_miracle_tail_bean_analyst |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gorilla |  
+| bip_39_word_dash_10 | gorilla-minimum-swarm-mammal-kidney-arrest-scene-industry-tunnel-motion |  
+| bip_39_word_dash_11 | gorilla-minimum-swarm-mammal-kidney-arrest-scene-industry-tunnel-motion-another |  
+| bip_39_word_dash_12 | gorilla-minimum-swarm-mammal-kidney-arrest-scene-industry-tunnel-motion-another-affair |  
+| bip_39_word_dash_2 | gorilla-minimum |  
+| bip_39_word_dash_3 | gorilla-minimum-swarm |  
+| bip_39_word_dash_4 | gorilla-minimum-swarm-mammal |  
+| bip_39_word_dash_5 | gorilla-minimum-swarm-mammal-kidney |  
+| bip_39_word_dash_6 | gorilla-minimum-swarm-mammal-kidney-arrest |  
+| bip_39_word_dash_7 | gorilla-minimum-swarm-mammal-kidney-arrest-scene |  
+| bip_39_word_dash_8 | gorilla-minimum-swarm-mammal-kidney-arrest-scene-industry |  
+| bip_39_word_dash_9 | gorilla-minimum-swarm-mammal-kidney-arrest-scene-industry-tunnel |  
 | bip_39_word_new_br_1 | gorilla |  
 | bip_39_word_new_br_10 | gorilla<br>minimum<br>swarm<br>mammal<br>kidney<br>arrest<br>scene<br>industry<br>tunnel<br>motion |  
 | bip_39_word_new_br_11 | gorilla<br>minimum<br>swarm<br>mammal<br>kidney<br>arrest<br>scene<br>industry<br>tunnel<br>motion<br>another |  
@@ -147,6 +159,18 @@ tunnel |
 | bip_39_word_space_7 | gorilla minimum swarm mammal kidney arrest scene |  
 | bip_39_word_space_8 | gorilla minimum swarm mammal kidney arrest scene industry |  
 | bip_39_word_space_9 | gorilla minimum swarm mammal kidney arrest scene industry tunnel |  
+| bip_39_word_underscore_1 | gorilla |  
+| bip_39_word_underscore_10 | gorilla_minimum_swarm_mammal_kidney_arrest_scene_industry_tunnel_motion |  
+| bip_39_word_underscore_11 | gorilla_minimum_swarm_mammal_kidney_arrest_scene_industry_tunnel_motion_another |  
+| bip_39_word_underscore_12 | gorilla_minimum_swarm_mammal_kidney_arrest_scene_industry_tunnel_motion_another_affair |  
+| bip_39_word_underscore_2 | gorilla_minimum |  
+| bip_39_word_underscore_3 | gorilla_minimum_swarm |  
+| bip_39_word_underscore_4 | gorilla_minimum_swarm_mammal |  
+| bip_39_word_underscore_5 | gorilla_minimum_swarm_mammal_kidney |  
+| bip_39_word_underscore_6 | gorilla_minimum_swarm_mammal_kidney_arrest |  
+| bip_39_word_underscore_7 | gorilla_minimum_swarm_mammal_kidney_arrest_scene |  
+| bip_39_word_underscore_8 | gorilla_minimum_swarm_mammal_kidney_arrest_scene_industry |  
+| bip_39_word_underscore_9 | gorilla_minimum_swarm_mammal_kidney_arrest_scene_industry_tunnel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

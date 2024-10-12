@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | prefer |  
+| bip_39_word_dash_10 | prefer-cricket-gospel-license-grow-awful-lunch-peace-speak-rabbit |  
+| bip_39_word_dash_11 | prefer-cricket-gospel-license-grow-awful-lunch-peace-speak-rabbit-hair |  
+| bip_39_word_dash_12 | prefer-cricket-gospel-license-grow-awful-lunch-peace-speak-rabbit-hair-agent |  
+| bip_39_word_dash_2 | prefer-cricket |  
+| bip_39_word_dash_3 | prefer-cricket-gospel |  
+| bip_39_word_dash_4 | prefer-cricket-gospel-license |  
+| bip_39_word_dash_5 | prefer-cricket-gospel-license-grow |  
+| bip_39_word_dash_6 | prefer-cricket-gospel-license-grow-awful |  
+| bip_39_word_dash_7 | prefer-cricket-gospel-license-grow-awful-lunch |  
+| bip_39_word_dash_8 | prefer-cricket-gospel-license-grow-awful-lunch-peace |  
+| bip_39_word_dash_9 | prefer-cricket-gospel-license-grow-awful-lunch-peace-speak |  
 | bip_39_word_new_br_1 | prefer |  
 | bip_39_word_new_br_10 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit |  
 | bip_39_word_new_br_11 | prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit<br>hair |  
@@ -147,6 +159,18 @@ speak |
 | bip_39_word_space_7 | prefer cricket gospel license grow awful lunch |  
 | bip_39_word_space_8 | prefer cricket gospel license grow awful lunch peace |  
 | bip_39_word_space_9 | prefer cricket gospel license grow awful lunch peace speak |  
+| bip_39_word_underscore_1 | prefer |  
+| bip_39_word_underscore_10 | prefer_cricket_gospel_license_grow_awful_lunch_peace_speak_rabbit |  
+| bip_39_word_underscore_11 | prefer_cricket_gospel_license_grow_awful_lunch_peace_speak_rabbit_hair |  
+| bip_39_word_underscore_12 | prefer_cricket_gospel_license_grow_awful_lunch_peace_speak_rabbit_hair_agent |  
+| bip_39_word_underscore_2 | prefer_cricket |  
+| bip_39_word_underscore_3 | prefer_cricket_gospel |  
+| bip_39_word_underscore_4 | prefer_cricket_gospel_license |  
+| bip_39_word_underscore_5 | prefer_cricket_gospel_license_grow |  
+| bip_39_word_underscore_6 | prefer_cricket_gospel_license_grow_awful |  
+| bip_39_word_underscore_7 | prefer_cricket_gospel_license_grow_awful_lunch |  
+| bip_39_word_underscore_8 | prefer_cricket_gospel_license_grow_awful_lunch_peace |  
+| bip_39_word_underscore_9 | prefer_cricket_gospel_license_grow_awful_lunch_peace_speak |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bar |  
+| bip_39_word_dash_10 | bar-maid-bar-island-fortune-work-spot-tube-creek-snap |  
+| bip_39_word_dash_11 | bar-maid-bar-island-fortune-work-spot-tube-creek-snap-rhythm |  
+| bip_39_word_dash_12 | bar-maid-bar-island-fortune-work-spot-tube-creek-snap-rhythm-actor |  
+| bip_39_word_dash_2 | bar-maid |  
+| bip_39_word_dash_3 | bar-maid-bar |  
+| bip_39_word_dash_4 | bar-maid-bar-island |  
+| bip_39_word_dash_5 | bar-maid-bar-island-fortune |  
+| bip_39_word_dash_6 | bar-maid-bar-island-fortune-work |  
+| bip_39_word_dash_7 | bar-maid-bar-island-fortune-work-spot |  
+| bip_39_word_dash_8 | bar-maid-bar-island-fortune-work-spot-tube |  
+| bip_39_word_dash_9 | bar-maid-bar-island-fortune-work-spot-tube-creek |  
 | bip_39_word_new_br_1 | bar |  
 | bip_39_word_new_br_10 | bar<br>maid<br>bar<br>island<br>fortune<br>work<br>spot<br>tube<br>creek<br>snap |  
 | bip_39_word_new_br_11 | bar<br>maid<br>bar<br>island<br>fortune<br>work<br>spot<br>tube<br>creek<br>snap<br>rhythm |  
@@ -147,6 +159,18 @@ creek |
 | bip_39_word_space_7 | bar maid bar island fortune work spot |  
 | bip_39_word_space_8 | bar maid bar island fortune work spot tube |  
 | bip_39_word_space_9 | bar maid bar island fortune work spot tube creek |  
+| bip_39_word_underscore_1 | bar |  
+| bip_39_word_underscore_10 | bar_maid_bar_island_fortune_work_spot_tube_creek_snap |  
+| bip_39_word_underscore_11 | bar_maid_bar_island_fortune_work_spot_tube_creek_snap_rhythm |  
+| bip_39_word_underscore_12 | bar_maid_bar_island_fortune_work_spot_tube_creek_snap_rhythm_actor |  
+| bip_39_word_underscore_2 | bar_maid |  
+| bip_39_word_underscore_3 | bar_maid_bar |  
+| bip_39_word_underscore_4 | bar_maid_bar_island |  
+| bip_39_word_underscore_5 | bar_maid_bar_island_fortune |  
+| bip_39_word_underscore_6 | bar_maid_bar_island_fortune_work |  
+| bip_39_word_underscore_7 | bar_maid_bar_island_fortune_work_spot |  
+| bip_39_word_underscore_8 | bar_maid_bar_island_fortune_work_spot_tube |  
+| bip_39_word_underscore_9 | bar_maid_bar_island_fortune_work_spot_tube_creek |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | album |  
+| bip_39_word_dash_10 | album-cereal-sponsor-mean-century-anxiety-solve-fork-virus-other |  
+| bip_39_word_dash_11 | album-cereal-sponsor-mean-century-anxiety-solve-fork-virus-other-excuse |  
+| bip_39_word_dash_12 | album-cereal-sponsor-mean-century-anxiety-solve-fork-virus-other-excuse-assume |  
+| bip_39_word_dash_2 | album-cereal |  
+| bip_39_word_dash_3 | album-cereal-sponsor |  
+| bip_39_word_dash_4 | album-cereal-sponsor-mean |  
+| bip_39_word_dash_5 | album-cereal-sponsor-mean-century |  
+| bip_39_word_dash_6 | album-cereal-sponsor-mean-century-anxiety |  
+| bip_39_word_dash_7 | album-cereal-sponsor-mean-century-anxiety-solve |  
+| bip_39_word_dash_8 | album-cereal-sponsor-mean-century-anxiety-solve-fork |  
+| bip_39_word_dash_9 | album-cereal-sponsor-mean-century-anxiety-solve-fork-virus |  
 | bip_39_word_new_br_1 | album |  
 | bip_39_word_new_br_10 | album<br>cereal<br>sponsor<br>mean<br>century<br>anxiety<br>solve<br>fork<br>virus<br>other |  
 | bip_39_word_new_br_11 | album<br>cereal<br>sponsor<br>mean<br>century<br>anxiety<br>solve<br>fork<br>virus<br>other<br>excuse |  
@@ -147,6 +159,18 @@ virus |
 | bip_39_word_space_7 | album cereal sponsor mean century anxiety solve |  
 | bip_39_word_space_8 | album cereal sponsor mean century anxiety solve fork |  
 | bip_39_word_space_9 | album cereal sponsor mean century anxiety solve fork virus |  
+| bip_39_word_underscore_1 | album |  
+| bip_39_word_underscore_10 | album_cereal_sponsor_mean_century_anxiety_solve_fork_virus_other |  
+| bip_39_word_underscore_11 | album_cereal_sponsor_mean_century_anxiety_solve_fork_virus_other_excuse |  
+| bip_39_word_underscore_12 | album_cereal_sponsor_mean_century_anxiety_solve_fork_virus_other_excuse_assume |  
+| bip_39_word_underscore_2 | album_cereal |  
+| bip_39_word_underscore_3 | album_cereal_sponsor |  
+| bip_39_word_underscore_4 | album_cereal_sponsor_mean |  
+| bip_39_word_underscore_5 | album_cereal_sponsor_mean_century |  
+| bip_39_word_underscore_6 | album_cereal_sponsor_mean_century_anxiety |  
+| bip_39_word_underscore_7 | album_cereal_sponsor_mean_century_anxiety_solve |  
+| bip_39_word_underscore_8 | album_cereal_sponsor_mean_century_anxiety_solve_fork |  
+| bip_39_word_underscore_9 | album_cereal_sponsor_mean_century_anxiety_solve_fork_virus |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

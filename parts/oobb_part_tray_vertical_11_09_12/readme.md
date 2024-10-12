@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | photo |  
+| bip_39_word_dash_10 | photo-whale-aware-salmon-cancel-usual-delay-flash-suggest-walk |  
+| bip_39_word_dash_11 | photo-whale-aware-salmon-cancel-usual-delay-flash-suggest-walk-admit |  
+| bip_39_word_dash_12 | photo-whale-aware-salmon-cancel-usual-delay-flash-suggest-walk-admit-armor |  
+| bip_39_word_dash_2 | photo-whale |  
+| bip_39_word_dash_3 | photo-whale-aware |  
+| bip_39_word_dash_4 | photo-whale-aware-salmon |  
+| bip_39_word_dash_5 | photo-whale-aware-salmon-cancel |  
+| bip_39_word_dash_6 | photo-whale-aware-salmon-cancel-usual |  
+| bip_39_word_dash_7 | photo-whale-aware-salmon-cancel-usual-delay |  
+| bip_39_word_dash_8 | photo-whale-aware-salmon-cancel-usual-delay-flash |  
+| bip_39_word_dash_9 | photo-whale-aware-salmon-cancel-usual-delay-flash-suggest |  
 | bip_39_word_new_br_1 | photo |  
 | bip_39_word_new_br_10 | photo<br>whale<br>aware<br>salmon<br>cancel<br>usual<br>delay<br>flash<br>suggest<br>walk |  
 | bip_39_word_new_br_11 | photo<br>whale<br>aware<br>salmon<br>cancel<br>usual<br>delay<br>flash<br>suggest<br>walk<br>admit |  
@@ -147,6 +159,18 @@ suggest |
 | bip_39_word_space_7 | photo whale aware salmon cancel usual delay |  
 | bip_39_word_space_8 | photo whale aware salmon cancel usual delay flash |  
 | bip_39_word_space_9 | photo whale aware salmon cancel usual delay flash suggest |  
+| bip_39_word_underscore_1 | photo |  
+| bip_39_word_underscore_10 | photo_whale_aware_salmon_cancel_usual_delay_flash_suggest_walk |  
+| bip_39_word_underscore_11 | photo_whale_aware_salmon_cancel_usual_delay_flash_suggest_walk_admit |  
+| bip_39_word_underscore_12 | photo_whale_aware_salmon_cancel_usual_delay_flash_suggest_walk_admit_armor |  
+| bip_39_word_underscore_2 | photo_whale |  
+| bip_39_word_underscore_3 | photo_whale_aware |  
+| bip_39_word_underscore_4 | photo_whale_aware_salmon |  
+| bip_39_word_underscore_5 | photo_whale_aware_salmon_cancel |  
+| bip_39_word_underscore_6 | photo_whale_aware_salmon_cancel_usual |  
+| bip_39_word_underscore_7 | photo_whale_aware_salmon_cancel_usual_delay |  
+| bip_39_word_underscore_8 | photo_whale_aware_salmon_cancel_usual_delay_flash |  
+| bip_39_word_underscore_9 | photo_whale_aware_salmon_cancel_usual_delay_flash_suggest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

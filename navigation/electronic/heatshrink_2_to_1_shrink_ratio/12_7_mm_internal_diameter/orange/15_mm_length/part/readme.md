@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | review |  
+| bip_39_word_dash_10 | review-type-fiscal-eyebrow-margin-acquire-chest-surprise-scrub-lunch |  
+| bip_39_word_dash_11 | review-type-fiscal-eyebrow-margin-acquire-chest-surprise-scrub-lunch-erode |  
+| bip_39_word_dash_12 | review-type-fiscal-eyebrow-margin-acquire-chest-surprise-scrub-lunch-erode-admit |  
+| bip_39_word_dash_2 | review-type |  
+| bip_39_word_dash_3 | review-type-fiscal |  
+| bip_39_word_dash_4 | review-type-fiscal-eyebrow |  
+| bip_39_word_dash_5 | review-type-fiscal-eyebrow-margin |  
+| bip_39_word_dash_6 | review-type-fiscal-eyebrow-margin-acquire |  
+| bip_39_word_dash_7 | review-type-fiscal-eyebrow-margin-acquire-chest |  
+| bip_39_word_dash_8 | review-type-fiscal-eyebrow-margin-acquire-chest-surprise |  
+| bip_39_word_dash_9 | review-type-fiscal-eyebrow-margin-acquire-chest-surprise-scrub |  
 | bip_39_word_new_br_1 | review |  
 | bip_39_word_new_br_10 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise<br>scrub<br>lunch |  
 | bip_39_word_new_br_11 | review<br>type<br>fiscal<br>eyebrow<br>margin<br>acquire<br>chest<br>surprise<br>scrub<br>lunch<br>erode |  
@@ -147,6 +159,18 @@ scrub |
 | bip_39_word_space_7 | review type fiscal eyebrow margin acquire chest |  
 | bip_39_word_space_8 | review type fiscal eyebrow margin acquire chest surprise |  
 | bip_39_word_space_9 | review type fiscal eyebrow margin acquire chest surprise scrub |  
+| bip_39_word_underscore_1 | review |  
+| bip_39_word_underscore_10 | review_type_fiscal_eyebrow_margin_acquire_chest_surprise_scrub_lunch |  
+| bip_39_word_underscore_11 | review_type_fiscal_eyebrow_margin_acquire_chest_surprise_scrub_lunch_erode |  
+| bip_39_word_underscore_12 | review_type_fiscal_eyebrow_margin_acquire_chest_surprise_scrub_lunch_erode_admit |  
+| bip_39_word_underscore_2 | review_type |  
+| bip_39_word_underscore_3 | review_type_fiscal |  
+| bip_39_word_underscore_4 | review_type_fiscal_eyebrow |  
+| bip_39_word_underscore_5 | review_type_fiscal_eyebrow_margin |  
+| bip_39_word_underscore_6 | review_type_fiscal_eyebrow_margin_acquire |  
+| bip_39_word_underscore_7 | review_type_fiscal_eyebrow_margin_acquire_chest |  
+| bip_39_word_underscore_8 | review_type_fiscal_eyebrow_margin_acquire_chest_surprise |  
+| bip_39_word_underscore_9 | review_type_fiscal_eyebrow_margin_acquire_chest_surprise_scrub |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

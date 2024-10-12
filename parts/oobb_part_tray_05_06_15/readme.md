@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | stamp |  
+| bip_39_word_dash_10 | stamp-banner-length-soap-unknown-tortoise-ball-mixture-rifle-void |  
+| bip_39_word_dash_11 | stamp-banner-length-soap-unknown-tortoise-ball-mixture-rifle-void-scrub |  
+| bip_39_word_dash_12 | stamp-banner-length-soap-unknown-tortoise-ball-mixture-rifle-void-scrub-argue |  
+| bip_39_word_dash_2 | stamp-banner |  
+| bip_39_word_dash_3 | stamp-banner-length |  
+| bip_39_word_dash_4 | stamp-banner-length-soap |  
+| bip_39_word_dash_5 | stamp-banner-length-soap-unknown |  
+| bip_39_word_dash_6 | stamp-banner-length-soap-unknown-tortoise |  
+| bip_39_word_dash_7 | stamp-banner-length-soap-unknown-tortoise-ball |  
+| bip_39_word_dash_8 | stamp-banner-length-soap-unknown-tortoise-ball-mixture |  
+| bip_39_word_dash_9 | stamp-banner-length-soap-unknown-tortoise-ball-mixture-rifle |  
 | bip_39_word_new_br_1 | stamp |  
 | bip_39_word_new_br_10 | stamp<br>banner<br>length<br>soap<br>unknown<br>tortoise<br>ball<br>mixture<br>rifle<br>void |  
 | bip_39_word_new_br_11 | stamp<br>banner<br>length<br>soap<br>unknown<br>tortoise<br>ball<br>mixture<br>rifle<br>void<br>scrub |  
@@ -147,6 +159,18 @@ rifle |
 | bip_39_word_space_7 | stamp banner length soap unknown tortoise ball |  
 | bip_39_word_space_8 | stamp banner length soap unknown tortoise ball mixture |  
 | bip_39_word_space_9 | stamp banner length soap unknown tortoise ball mixture rifle |  
+| bip_39_word_underscore_1 | stamp |  
+| bip_39_word_underscore_10 | stamp_banner_length_soap_unknown_tortoise_ball_mixture_rifle_void |  
+| bip_39_word_underscore_11 | stamp_banner_length_soap_unknown_tortoise_ball_mixture_rifle_void_scrub |  
+| bip_39_word_underscore_12 | stamp_banner_length_soap_unknown_tortoise_ball_mixture_rifle_void_scrub_argue |  
+| bip_39_word_underscore_2 | stamp_banner |  
+| bip_39_word_underscore_3 | stamp_banner_length |  
+| bip_39_word_underscore_4 | stamp_banner_length_soap |  
+| bip_39_word_underscore_5 | stamp_banner_length_soap_unknown |  
+| bip_39_word_underscore_6 | stamp_banner_length_soap_unknown_tortoise |  
+| bip_39_word_underscore_7 | stamp_banner_length_soap_unknown_tortoise_ball |  
+| bip_39_word_underscore_8 | stamp_banner_length_soap_unknown_tortoise_ball_mixture |  
+| bip_39_word_underscore_9 | stamp_banner_length_soap_unknown_tortoise_ball_mixture_rifle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

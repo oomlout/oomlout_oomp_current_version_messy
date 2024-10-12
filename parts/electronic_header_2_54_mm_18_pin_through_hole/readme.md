@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | nothing |  
+| bip_39_word_dash_10 | nothing-nature-plate-region-stamp-fine-pony-police-zoo-old |  
+| bip_39_word_dash_11 | nothing-nature-plate-region-stamp-fine-pony-police-zoo-old-movie |  
+| bip_39_word_dash_12 | nothing-nature-plate-region-stamp-fine-pony-police-zoo-old-movie-airport |  
+| bip_39_word_dash_2 | nothing-nature |  
+| bip_39_word_dash_3 | nothing-nature-plate |  
+| bip_39_word_dash_4 | nothing-nature-plate-region |  
+| bip_39_word_dash_5 | nothing-nature-plate-region-stamp |  
+| bip_39_word_dash_6 | nothing-nature-plate-region-stamp-fine |  
+| bip_39_word_dash_7 | nothing-nature-plate-region-stamp-fine-pony |  
+| bip_39_word_dash_8 | nothing-nature-plate-region-stamp-fine-pony-police |  
+| bip_39_word_dash_9 | nothing-nature-plate-region-stamp-fine-pony-police-zoo |  
 | bip_39_word_new_br_1 | nothing |  
 | bip_39_word_new_br_10 | nothing<br>nature<br>plate<br>region<br>stamp<br>fine<br>pony<br>police<br>zoo<br>old |  
 | bip_39_word_new_br_11 | nothing<br>nature<br>plate<br>region<br>stamp<br>fine<br>pony<br>police<br>zoo<br>old<br>movie |  
@@ -147,6 +159,18 @@ zoo |
 | bip_39_word_space_7 | nothing nature plate region stamp fine pony |  
 | bip_39_word_space_8 | nothing nature plate region stamp fine pony police |  
 | bip_39_word_space_9 | nothing nature plate region stamp fine pony police zoo |  
+| bip_39_word_underscore_1 | nothing |  
+| bip_39_word_underscore_10 | nothing_nature_plate_region_stamp_fine_pony_police_zoo_old |  
+| bip_39_word_underscore_11 | nothing_nature_plate_region_stamp_fine_pony_police_zoo_old_movie |  
+| bip_39_word_underscore_12 | nothing_nature_plate_region_stamp_fine_pony_police_zoo_old_movie_airport |  
+| bip_39_word_underscore_2 | nothing_nature |  
+| bip_39_word_underscore_3 | nothing_nature_plate |  
+| bip_39_word_underscore_4 | nothing_nature_plate_region |  
+| bip_39_word_underscore_5 | nothing_nature_plate_region_stamp |  
+| bip_39_word_underscore_6 | nothing_nature_plate_region_stamp_fine |  
+| bip_39_word_underscore_7 | nothing_nature_plate_region_stamp_fine_pony |  
+| bip_39_word_underscore_8 | nothing_nature_plate_region_stamp_fine_pony_police |  
+| bip_39_word_underscore_9 | nothing_nature_plate_region_stamp_fine_pony_police_zoo |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

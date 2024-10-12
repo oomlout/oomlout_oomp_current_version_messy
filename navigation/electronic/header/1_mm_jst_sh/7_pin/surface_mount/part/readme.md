@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vague |  
+| bip_39_word_dash_10 | vague-dutch-floor-fetch-grass-lyrics-cloth-wealth-thrive-dial |  
+| bip_39_word_dash_11 | vague-dutch-floor-fetch-grass-lyrics-cloth-wealth-thrive-dial-salad |  
+| bip_39_word_dash_12 | vague-dutch-floor-fetch-grass-lyrics-cloth-wealth-thrive-dial-salad-account |  
+| bip_39_word_dash_2 | vague-dutch |  
+| bip_39_word_dash_3 | vague-dutch-floor |  
+| bip_39_word_dash_4 | vague-dutch-floor-fetch |  
+| bip_39_word_dash_5 | vague-dutch-floor-fetch-grass |  
+| bip_39_word_dash_6 | vague-dutch-floor-fetch-grass-lyrics |  
+| bip_39_word_dash_7 | vague-dutch-floor-fetch-grass-lyrics-cloth |  
+| bip_39_word_dash_8 | vague-dutch-floor-fetch-grass-lyrics-cloth-wealth |  
+| bip_39_word_dash_9 | vague-dutch-floor-fetch-grass-lyrics-cloth-wealth-thrive |  
 | bip_39_word_new_br_1 | vague |  
 | bip_39_word_new_br_10 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth<br>thrive<br>dial |  
 | bip_39_word_new_br_11 | vague<br>dutch<br>floor<br>fetch<br>grass<br>lyrics<br>cloth<br>wealth<br>thrive<br>dial<br>salad |  
@@ -147,6 +159,18 @@ thrive |
 | bip_39_word_space_7 | vague dutch floor fetch grass lyrics cloth |  
 | bip_39_word_space_8 | vague dutch floor fetch grass lyrics cloth wealth |  
 | bip_39_word_space_9 | vague dutch floor fetch grass lyrics cloth wealth thrive |  
+| bip_39_word_underscore_1 | vague |  
+| bip_39_word_underscore_10 | vague_dutch_floor_fetch_grass_lyrics_cloth_wealth_thrive_dial |  
+| bip_39_word_underscore_11 | vague_dutch_floor_fetch_grass_lyrics_cloth_wealth_thrive_dial_salad |  
+| bip_39_word_underscore_12 | vague_dutch_floor_fetch_grass_lyrics_cloth_wealth_thrive_dial_salad_account |  
+| bip_39_word_underscore_2 | vague_dutch |  
+| bip_39_word_underscore_3 | vague_dutch_floor |  
+| bip_39_word_underscore_4 | vague_dutch_floor_fetch |  
+| bip_39_word_underscore_5 | vague_dutch_floor_fetch_grass |  
+| bip_39_word_underscore_6 | vague_dutch_floor_fetch_grass_lyrics |  
+| bip_39_word_underscore_7 | vague_dutch_floor_fetch_grass_lyrics_cloth |  
+| bip_39_word_underscore_8 | vague_dutch_floor_fetch_grass_lyrics_cloth_wealth |  
+| bip_39_word_underscore_9 | vague_dutch_floor_fetch_grass_lyrics_cloth_wealth_thrive |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

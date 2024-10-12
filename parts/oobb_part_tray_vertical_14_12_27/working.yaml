@@ -1,3 +1,15 @@
+bip_39_word_dash_1: proof
+bip_39_word_dash_10: proof-pill-labor-purity-minute-stone-magnet-switch-fiber-mimic
+bip_39_word_dash_11: proof-pill-labor-purity-minute-stone-magnet-switch-fiber-mimic-eternal
+bip_39_word_dash_12: proof-pill-labor-purity-minute-stone-magnet-switch-fiber-mimic-eternal-admit
+bip_39_word_dash_2: proof-pill
+bip_39_word_dash_3: proof-pill-labor
+bip_39_word_dash_4: proof-pill-labor-purity
+bip_39_word_dash_5: proof-pill-labor-purity-minute
+bip_39_word_dash_6: proof-pill-labor-purity-minute-stone
+bip_39_word_dash_7: proof-pill-labor-purity-minute-stone-magnet
+bip_39_word_dash_8: proof-pill-labor-purity-minute-stone-magnet-switch
+bip_39_word_dash_9: proof-pill-labor-purity-minute-stone-magnet-switch-fiber
 bip_39_word_new_br_1: proof
 bip_39_word_new_br_10: proof<br>pill<br>labor<br>purity<br>minute<br>stone<br>magnet<br>switch<br>fiber<br>mimic
 bip_39_word_new_br_11: proof<br>pill<br>labor<br>purity<br>minute<br>stone<br>magnet<br>switch<br>fiber<br>mimic<br>eternal
@@ -193,6 +205,18 @@ bip_39_word_space_6: proof pill labor purity minute stone
 bip_39_word_space_7: proof pill labor purity minute stone magnet
 bip_39_word_space_8: proof pill labor purity minute stone magnet switch
 bip_39_word_space_9: proof pill labor purity minute stone magnet switch fiber
+bip_39_word_underscore_1: proof
+bip_39_word_underscore_10: proof_pill_labor_purity_minute_stone_magnet_switch_fiber_mimic
+bip_39_word_underscore_11: proof_pill_labor_purity_minute_stone_magnet_switch_fiber_mimic_eternal
+bip_39_word_underscore_12: proof_pill_labor_purity_minute_stone_magnet_switch_fiber_mimic_eternal_admit
+bip_39_word_underscore_2: proof_pill
+bip_39_word_underscore_3: proof_pill_labor
+bip_39_word_underscore_4: proof_pill_labor_purity
+bip_39_word_underscore_5: proof_pill_labor_purity_minute
+bip_39_word_underscore_6: proof_pill_labor_purity_minute_stone
+bip_39_word_underscore_7: proof_pill_labor_purity_minute_stone_magnet
+bip_39_word_underscore_8: proof_pill_labor_purity_minute_stone_magnet_switch
+bip_39_word_underscore_9: proof_pill_labor_purity_minute_stone_magnet_switch_fiber
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

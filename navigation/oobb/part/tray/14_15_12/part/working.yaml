@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pride
+bip_39_word_dash_10: pride-inmate-action-fit-sugar-shock-obvious-silver-walnut-try
+bip_39_word_dash_11: pride-inmate-action-fit-sugar-shock-obvious-silver-walnut-try-arrest
+bip_39_word_dash_12: pride-inmate-action-fit-sugar-shock-obvious-silver-walnut-try-arrest-about
+bip_39_word_dash_2: pride-inmate
+bip_39_word_dash_3: pride-inmate-action
+bip_39_word_dash_4: pride-inmate-action-fit
+bip_39_word_dash_5: pride-inmate-action-fit-sugar
+bip_39_word_dash_6: pride-inmate-action-fit-sugar-shock
+bip_39_word_dash_7: pride-inmate-action-fit-sugar-shock-obvious
+bip_39_word_dash_8: pride-inmate-action-fit-sugar-shock-obvious-silver
+bip_39_word_dash_9: pride-inmate-action-fit-sugar-shock-obvious-silver-walnut
 bip_39_word_new_br_1: pride
 bip_39_word_new_br_10: pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver<br>walnut<br>try
 bip_39_word_new_br_11: pride<br>inmate<br>action<br>fit<br>sugar<br>shock<br>obvious<br>silver<br>walnut<br>try<br>arrest
@@ -193,6 +205,18 @@ bip_39_word_space_6: pride inmate action fit sugar shock
 bip_39_word_space_7: pride inmate action fit sugar shock obvious
 bip_39_word_space_8: pride inmate action fit sugar shock obvious silver
 bip_39_word_space_9: pride inmate action fit sugar shock obvious silver walnut
+bip_39_word_underscore_1: pride
+bip_39_word_underscore_10: pride_inmate_action_fit_sugar_shock_obvious_silver_walnut_try
+bip_39_word_underscore_11: pride_inmate_action_fit_sugar_shock_obvious_silver_walnut_try_arrest
+bip_39_word_underscore_12: pride_inmate_action_fit_sugar_shock_obvious_silver_walnut_try_arrest_about
+bip_39_word_underscore_2: pride_inmate
+bip_39_word_underscore_3: pride_inmate_action
+bip_39_word_underscore_4: pride_inmate_action_fit
+bip_39_word_underscore_5: pride_inmate_action_fit_sugar
+bip_39_word_underscore_6: pride_inmate_action_fit_sugar_shock
+bip_39_word_underscore_7: pride_inmate_action_fit_sugar_shock_obvious
+bip_39_word_underscore_8: pride_inmate_action_fit_sugar_shock_obvious_silver
+bip_39_word_underscore_9: pride_inmate_action_fit_sugar_shock_obvious_silver_walnut
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

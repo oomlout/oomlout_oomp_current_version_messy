@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | dice |  
+| bip_39_word_dash_10 | dice-shell-print-situate-switch-twin-athlete-someone-win-amused |  
+| bip_39_word_dash_11 | dice-shell-print-situate-switch-twin-athlete-someone-win-amused-scrub |  
+| bip_39_word_dash_12 | dice-shell-print-situate-switch-twin-athlete-someone-win-amused-scrub-assault |  
+| bip_39_word_dash_2 | dice-shell |  
+| bip_39_word_dash_3 | dice-shell-print |  
+| bip_39_word_dash_4 | dice-shell-print-situate |  
+| bip_39_word_dash_5 | dice-shell-print-situate-switch |  
+| bip_39_word_dash_6 | dice-shell-print-situate-switch-twin |  
+| bip_39_word_dash_7 | dice-shell-print-situate-switch-twin-athlete |  
+| bip_39_word_dash_8 | dice-shell-print-situate-switch-twin-athlete-someone |  
+| bip_39_word_dash_9 | dice-shell-print-situate-switch-twin-athlete-someone-win |  
 | bip_39_word_new_br_1 | dice |  
 | bip_39_word_new_br_10 | dice<br>shell<br>print<br>situate<br>switch<br>twin<br>athlete<br>someone<br>win<br>amused |  
 | bip_39_word_new_br_11 | dice<br>shell<br>print<br>situate<br>switch<br>twin<br>athlete<br>someone<br>win<br>amused<br>scrub |  
@@ -147,6 +159,18 @@ win |
 | bip_39_word_space_7 | dice shell print situate switch twin athlete |  
 | bip_39_word_space_8 | dice shell print situate switch twin athlete someone |  
 | bip_39_word_space_9 | dice shell print situate switch twin athlete someone win |  
+| bip_39_word_underscore_1 | dice |  
+| bip_39_word_underscore_10 | dice_shell_print_situate_switch_twin_athlete_someone_win_amused |  
+| bip_39_word_underscore_11 | dice_shell_print_situate_switch_twin_athlete_someone_win_amused_scrub |  
+| bip_39_word_underscore_12 | dice_shell_print_situate_switch_twin_athlete_someone_win_amused_scrub_assault |  
+| bip_39_word_underscore_2 | dice_shell |  
+| bip_39_word_underscore_3 | dice_shell_print |  
+| bip_39_word_underscore_4 | dice_shell_print_situate |  
+| bip_39_word_underscore_5 | dice_shell_print_situate_switch |  
+| bip_39_word_underscore_6 | dice_shell_print_situate_switch_twin |  
+| bip_39_word_underscore_7 | dice_shell_print_situate_switch_twin_athlete |  
+| bip_39_word_underscore_8 | dice_shell_print_situate_switch_twin_athlete_someone |  
+| bip_39_word_underscore_9 | dice_shell_print_situate_switch_twin_athlete_someone_win |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

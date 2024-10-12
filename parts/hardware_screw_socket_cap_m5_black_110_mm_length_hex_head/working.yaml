@@ -1,3 +1,15 @@
+bip_39_word_dash_1: void
+bip_39_word_dash_10: void-there-dumb-bid-govern-angle-machine-patrol-use-zone
+bip_39_word_dash_11: void-there-dumb-bid-govern-angle-machine-patrol-use-zone-marriage
+bip_39_word_dash_12: void-there-dumb-bid-govern-angle-machine-patrol-use-zone-marriage-analyst
+bip_39_word_dash_2: void-there
+bip_39_word_dash_3: void-there-dumb
+bip_39_word_dash_4: void-there-dumb-bid
+bip_39_word_dash_5: void-there-dumb-bid-govern
+bip_39_word_dash_6: void-there-dumb-bid-govern-angle
+bip_39_word_dash_7: void-there-dumb-bid-govern-angle-machine
+bip_39_word_dash_8: void-there-dumb-bid-govern-angle-machine-patrol
+bip_39_word_dash_9: void-there-dumb-bid-govern-angle-machine-patrol-use
 bip_39_word_new_br_1: void
 bip_39_word_new_br_10: void<br>there<br>dumb<br>bid<br>govern<br>angle<br>machine<br>patrol<br>use<br>zone
 bip_39_word_new_br_11: void<br>there<br>dumb<br>bid<br>govern<br>angle<br>machine<br>patrol<br>use<br>zone<br>marriage
@@ -192,6 +204,18 @@ bip_39_word_space_6: void there dumb bid govern angle
 bip_39_word_space_7: void there dumb bid govern angle machine
 bip_39_word_space_8: void there dumb bid govern angle machine patrol
 bip_39_word_space_9: void there dumb bid govern angle machine patrol use
+bip_39_word_underscore_1: void
+bip_39_word_underscore_10: void_there_dumb_bid_govern_angle_machine_patrol_use_zone
+bip_39_word_underscore_11: void_there_dumb_bid_govern_angle_machine_patrol_use_zone_marriage
+bip_39_word_underscore_12: void_there_dumb_bid_govern_angle_machine_patrol_use_zone_marriage_analyst
+bip_39_word_underscore_2: void_there
+bip_39_word_underscore_3: void_there_dumb
+bip_39_word_underscore_4: void_there_dumb_bid
+bip_39_word_underscore_5: void_there_dumb_bid_govern
+bip_39_word_underscore_6: void_there_dumb_bid_govern_angle
+bip_39_word_underscore_7: void_there_dumb_bid_govern_angle_machine
+bip_39_word_underscore_8: void_there_dumb_bid_govern_angle_machine_patrol
+bip_39_word_underscore_9: void_there_dumb_bid_govern_angle_machine_patrol_use
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

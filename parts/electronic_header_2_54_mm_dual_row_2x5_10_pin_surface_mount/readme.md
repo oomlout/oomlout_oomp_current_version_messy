@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | diesel |  
+| bip_39_word_dash_10 | diesel-caught-toilet-abuse-marriage-olympic-day-nice-fold-alone |  
+| bip_39_word_dash_11 | diesel-caught-toilet-abuse-marriage-olympic-day-nice-fold-alone-index |  
+| bip_39_word_dash_12 | diesel-caught-toilet-abuse-marriage-olympic-day-nice-fold-alone-index-anger |  
+| bip_39_word_dash_2 | diesel-caught |  
+| bip_39_word_dash_3 | diesel-caught-toilet |  
+| bip_39_word_dash_4 | diesel-caught-toilet-abuse |  
+| bip_39_word_dash_5 | diesel-caught-toilet-abuse-marriage |  
+| bip_39_word_dash_6 | diesel-caught-toilet-abuse-marriage-olympic |  
+| bip_39_word_dash_7 | diesel-caught-toilet-abuse-marriage-olympic-day |  
+| bip_39_word_dash_8 | diesel-caught-toilet-abuse-marriage-olympic-day-nice |  
+| bip_39_word_dash_9 | diesel-caught-toilet-abuse-marriage-olympic-day-nice-fold |  
 | bip_39_word_new_br_1 | diesel |  
 | bip_39_word_new_br_10 | diesel<br>caught<br>toilet<br>abuse<br>marriage<br>olympic<br>day<br>nice<br>fold<br>alone |  
 | bip_39_word_new_br_11 | diesel<br>caught<br>toilet<br>abuse<br>marriage<br>olympic<br>day<br>nice<br>fold<br>alone<br>index |  
@@ -147,6 +159,18 @@ fold |
 | bip_39_word_space_7 | diesel caught toilet abuse marriage olympic day |  
 | bip_39_word_space_8 | diesel caught toilet abuse marriage olympic day nice |  
 | bip_39_word_space_9 | diesel caught toilet abuse marriage olympic day nice fold |  
+| bip_39_word_underscore_1 | diesel |  
+| bip_39_word_underscore_10 | diesel_caught_toilet_abuse_marriage_olympic_day_nice_fold_alone |  
+| bip_39_word_underscore_11 | diesel_caught_toilet_abuse_marriage_olympic_day_nice_fold_alone_index |  
+| bip_39_word_underscore_12 | diesel_caught_toilet_abuse_marriage_olympic_day_nice_fold_alone_index_anger |  
+| bip_39_word_underscore_2 | diesel_caught |  
+| bip_39_word_underscore_3 | diesel_caught_toilet |  
+| bip_39_word_underscore_4 | diesel_caught_toilet_abuse |  
+| bip_39_word_underscore_5 | diesel_caught_toilet_abuse_marriage |  
+| bip_39_word_underscore_6 | diesel_caught_toilet_abuse_marriage_olympic |  
+| bip_39_word_underscore_7 | diesel_caught_toilet_abuse_marriage_olympic_day |  
+| bip_39_word_underscore_8 | diesel_caught_toilet_abuse_marriage_olympic_day_nice |  
+| bip_39_word_underscore_9 | diesel_caught_toilet_abuse_marriage_olympic_day_nice_fold |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

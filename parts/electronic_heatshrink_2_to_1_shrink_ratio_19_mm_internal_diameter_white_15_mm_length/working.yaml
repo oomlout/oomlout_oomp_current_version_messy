@@ -1,3 +1,15 @@
+bip_39_word_dash_1: misery
+bip_39_word_dash_10: misery-diary-pen-beach-manual-subject-desert-toast-spoil-sugar
+bip_39_word_dash_11: misery-diary-pen-beach-manual-subject-desert-toast-spoil-sugar-tiny
+bip_39_word_dash_12: misery-diary-pen-beach-manual-subject-desert-toast-spoil-sugar-tiny-around
+bip_39_word_dash_2: misery-diary
+bip_39_word_dash_3: misery-diary-pen
+bip_39_word_dash_4: misery-diary-pen-beach
+bip_39_word_dash_5: misery-diary-pen-beach-manual
+bip_39_word_dash_6: misery-diary-pen-beach-manual-subject
+bip_39_word_dash_7: misery-diary-pen-beach-manual-subject-desert
+bip_39_word_dash_8: misery-diary-pen-beach-manual-subject-desert-toast
+bip_39_word_dash_9: misery-diary-pen-beach-manual-subject-desert-toast-spoil
 bip_39_word_new_br_1: misery
 bip_39_word_new_br_10: misery<br>diary<br>pen<br>beach<br>manual<br>subject<br>desert<br>toast<br>spoil<br>sugar
 bip_39_word_new_br_11: misery<br>diary<br>pen<br>beach<br>manual<br>subject<br>desert<br>toast<br>spoil<br>sugar<br>tiny
@@ -193,6 +205,18 @@ bip_39_word_space_6: misery diary pen beach manual subject
 bip_39_word_space_7: misery diary pen beach manual subject desert
 bip_39_word_space_8: misery diary pen beach manual subject desert toast
 bip_39_word_space_9: misery diary pen beach manual subject desert toast spoil
+bip_39_word_underscore_1: misery
+bip_39_word_underscore_10: misery_diary_pen_beach_manual_subject_desert_toast_spoil_sugar
+bip_39_word_underscore_11: misery_diary_pen_beach_manual_subject_desert_toast_spoil_sugar_tiny
+bip_39_word_underscore_12: misery_diary_pen_beach_manual_subject_desert_toast_spoil_sugar_tiny_around
+bip_39_word_underscore_2: misery_diary
+bip_39_word_underscore_3: misery_diary_pen
+bip_39_word_underscore_4: misery_diary_pen_beach
+bip_39_word_underscore_5: misery_diary_pen_beach_manual
+bip_39_word_underscore_6: misery_diary_pen_beach_manual_subject
+bip_39_word_underscore_7: misery_diary_pen_beach_manual_subject_desert
+bip_39_word_underscore_8: misery_diary_pen_beach_manual_subject_desert_toast
+bip_39_word_underscore_9: misery_diary_pen_beach_manual_subject_desert_toast_spoil
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

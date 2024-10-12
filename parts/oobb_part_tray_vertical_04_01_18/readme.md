@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | secret |  
+| bip_39_word_dash_10 | secret-few-mercy-leaf-use-that-fossil-beef-fruit-leave |  
+| bip_39_word_dash_11 | secret-few-mercy-leaf-use-that-fossil-beef-fruit-leave-will |  
+| bip_39_word_dash_12 | secret-few-mercy-leaf-use-that-fossil-beef-fruit-leave-will-art |  
+| bip_39_word_dash_2 | secret-few |  
+| bip_39_word_dash_3 | secret-few-mercy |  
+| bip_39_word_dash_4 | secret-few-mercy-leaf |  
+| bip_39_word_dash_5 | secret-few-mercy-leaf-use |  
+| bip_39_word_dash_6 | secret-few-mercy-leaf-use-that |  
+| bip_39_word_dash_7 | secret-few-mercy-leaf-use-that-fossil |  
+| bip_39_word_dash_8 | secret-few-mercy-leaf-use-that-fossil-beef |  
+| bip_39_word_dash_9 | secret-few-mercy-leaf-use-that-fossil-beef-fruit |  
 | bip_39_word_new_br_1 | secret |  
 | bip_39_word_new_br_10 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef<br>fruit<br>leave |  
 | bip_39_word_new_br_11 | secret<br>few<br>mercy<br>leaf<br>use<br>that<br>fossil<br>beef<br>fruit<br>leave<br>will |  
@@ -147,6 +159,18 @@ fruit |
 | bip_39_word_space_7 | secret few mercy leaf use that fossil |  
 | bip_39_word_space_8 | secret few mercy leaf use that fossil beef |  
 | bip_39_word_space_9 | secret few mercy leaf use that fossil beef fruit |  
+| bip_39_word_underscore_1 | secret |  
+| bip_39_word_underscore_10 | secret_few_mercy_leaf_use_that_fossil_beef_fruit_leave |  
+| bip_39_word_underscore_11 | secret_few_mercy_leaf_use_that_fossil_beef_fruit_leave_will |  
+| bip_39_word_underscore_12 | secret_few_mercy_leaf_use_that_fossil_beef_fruit_leave_will_art |  
+| bip_39_word_underscore_2 | secret_few |  
+| bip_39_word_underscore_3 | secret_few_mercy |  
+| bip_39_word_underscore_4 | secret_few_mercy_leaf |  
+| bip_39_word_underscore_5 | secret_few_mercy_leaf_use |  
+| bip_39_word_underscore_6 | secret_few_mercy_leaf_use_that |  
+| bip_39_word_underscore_7 | secret_few_mercy_leaf_use_that_fossil |  
+| bip_39_word_underscore_8 | secret_few_mercy_leaf_use_that_fossil_beef |  
+| bip_39_word_underscore_9 | secret_few_mercy_leaf_use_that_fossil_beef_fruit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

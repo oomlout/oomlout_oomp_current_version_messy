@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | display |  
+| bip_39_word_dash_10 | display-purse-fee-afraid-riot-very-again-scissors-depart-intact |  
+| bip_39_word_dash_11 | display-purse-fee-afraid-riot-very-again-scissors-depart-intact-hover |  
+| bip_39_word_dash_12 | display-purse-fee-afraid-riot-very-again-scissors-depart-intact-hover-address |  
+| bip_39_word_dash_2 | display-purse |  
+| bip_39_word_dash_3 | display-purse-fee |  
+| bip_39_word_dash_4 | display-purse-fee-afraid |  
+| bip_39_word_dash_5 | display-purse-fee-afraid-riot |  
+| bip_39_word_dash_6 | display-purse-fee-afraid-riot-very |  
+| bip_39_word_dash_7 | display-purse-fee-afraid-riot-very-again |  
+| bip_39_word_dash_8 | display-purse-fee-afraid-riot-very-again-scissors |  
+| bip_39_word_dash_9 | display-purse-fee-afraid-riot-very-again-scissors-depart |  
 | bip_39_word_new_br_1 | display |  
 | bip_39_word_new_br_10 | display<br>purse<br>fee<br>afraid<br>riot<br>very<br>again<br>scissors<br>depart<br>intact |  
 | bip_39_word_new_br_11 | display<br>purse<br>fee<br>afraid<br>riot<br>very<br>again<br>scissors<br>depart<br>intact<br>hover |  
@@ -147,6 +159,18 @@ depart |
 | bip_39_word_space_7 | display purse fee afraid riot very again |  
 | bip_39_word_space_8 | display purse fee afraid riot very again scissors |  
 | bip_39_word_space_9 | display purse fee afraid riot very again scissors depart |  
+| bip_39_word_underscore_1 | display |  
+| bip_39_word_underscore_10 | display_purse_fee_afraid_riot_very_again_scissors_depart_intact |  
+| bip_39_word_underscore_11 | display_purse_fee_afraid_riot_very_again_scissors_depart_intact_hover |  
+| bip_39_word_underscore_12 | display_purse_fee_afraid_riot_very_again_scissors_depart_intact_hover_address |  
+| bip_39_word_underscore_2 | display_purse |  
+| bip_39_word_underscore_3 | display_purse_fee |  
+| bip_39_word_underscore_4 | display_purse_fee_afraid |  
+| bip_39_word_underscore_5 | display_purse_fee_afraid_riot |  
+| bip_39_word_underscore_6 | display_purse_fee_afraid_riot_very |  
+| bip_39_word_underscore_7 | display_purse_fee_afraid_riot_very_again |  
+| bip_39_word_underscore_8 | display_purse_fee_afraid_riot_very_again_scissors |  
+| bip_39_word_underscore_9 | display_purse_fee_afraid_riot_very_again_scissors_depart |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

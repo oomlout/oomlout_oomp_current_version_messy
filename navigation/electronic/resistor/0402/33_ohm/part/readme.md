@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | olive |  
+| bip_39_word_dash_10 | olive-crew-want-transfer-visa-vapor-solar-chronic-three-office |  
+| bip_39_word_dash_11 | olive-crew-want-transfer-visa-vapor-solar-chronic-three-office-dragon |  
+| bip_39_word_dash_12 | olive-crew-want-transfer-visa-vapor-solar-chronic-three-office-dragon-abstract |  
+| bip_39_word_dash_2 | olive-crew |  
+| bip_39_word_dash_3 | olive-crew-want |  
+| bip_39_word_dash_4 | olive-crew-want-transfer |  
+| bip_39_word_dash_5 | olive-crew-want-transfer-visa |  
+| bip_39_word_dash_6 | olive-crew-want-transfer-visa-vapor |  
+| bip_39_word_dash_7 | olive-crew-want-transfer-visa-vapor-solar |  
+| bip_39_word_dash_8 | olive-crew-want-transfer-visa-vapor-solar-chronic |  
+| bip_39_word_dash_9 | olive-crew-want-transfer-visa-vapor-solar-chronic-three |  
 | bip_39_word_new_br_1 | olive |  
 | bip_39_word_new_br_10 | olive<br>crew<br>want<br>transfer<br>visa<br>vapor<br>solar<br>chronic<br>three<br>office |  
 | bip_39_word_new_br_11 | olive<br>crew<br>want<br>transfer<br>visa<br>vapor<br>solar<br>chronic<br>three<br>office<br>dragon |  
@@ -147,6 +159,18 @@ three |
 | bip_39_word_space_7 | olive crew want transfer visa vapor solar |  
 | bip_39_word_space_8 | olive crew want transfer visa vapor solar chronic |  
 | bip_39_word_space_9 | olive crew want transfer visa vapor solar chronic three |  
+| bip_39_word_underscore_1 | olive |  
+| bip_39_word_underscore_10 | olive_crew_want_transfer_visa_vapor_solar_chronic_three_office |  
+| bip_39_word_underscore_11 | olive_crew_want_transfer_visa_vapor_solar_chronic_three_office_dragon |  
+| bip_39_word_underscore_12 | olive_crew_want_transfer_visa_vapor_solar_chronic_three_office_dragon_abstract |  
+| bip_39_word_underscore_2 | olive_crew |  
+| bip_39_word_underscore_3 | olive_crew_want |  
+| bip_39_word_underscore_4 | olive_crew_want_transfer |  
+| bip_39_word_underscore_5 | olive_crew_want_transfer_visa |  
+| bip_39_word_underscore_6 | olive_crew_want_transfer_visa_vapor |  
+| bip_39_word_underscore_7 | olive_crew_want_transfer_visa_vapor_solar |  
+| bip_39_word_underscore_8 | olive_crew_want_transfer_visa_vapor_solar_chronic |  
+| bip_39_word_underscore_9 | olive_crew_want_transfer_visa_vapor_solar_chronic_three |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

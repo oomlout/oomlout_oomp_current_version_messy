@@ -1,3 +1,15 @@
+bip_39_word_dash_1: waste
+bip_39_word_dash_10: waste-absent-wonder-youth-similar-tank-legend-soccer-era-spawn
+bip_39_word_dash_11: waste-absent-wonder-youth-similar-tank-legend-soccer-era-spawn-learn
+bip_39_word_dash_12: waste-absent-wonder-youth-similar-tank-legend-soccer-era-spawn-learn-allow
+bip_39_word_dash_2: waste-absent
+bip_39_word_dash_3: waste-absent-wonder
+bip_39_word_dash_4: waste-absent-wonder-youth
+bip_39_word_dash_5: waste-absent-wonder-youth-similar
+bip_39_word_dash_6: waste-absent-wonder-youth-similar-tank
+bip_39_word_dash_7: waste-absent-wonder-youth-similar-tank-legend
+bip_39_word_dash_8: waste-absent-wonder-youth-similar-tank-legend-soccer
+bip_39_word_dash_9: waste-absent-wonder-youth-similar-tank-legend-soccer-era
 bip_39_word_new_br_1: waste
 bip_39_word_new_br_10: waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer<br>era<br>spawn
 bip_39_word_new_br_11: waste<br>absent<br>wonder<br>youth<br>similar<br>tank<br>legend<br>soccer<br>era<br>spawn<br>learn
@@ -193,6 +205,18 @@ bip_39_word_space_6: waste absent wonder youth similar tank
 bip_39_word_space_7: waste absent wonder youth similar tank legend
 bip_39_word_space_8: waste absent wonder youth similar tank legend soccer
 bip_39_word_space_9: waste absent wonder youth similar tank legend soccer era
+bip_39_word_underscore_1: waste
+bip_39_word_underscore_10: waste_absent_wonder_youth_similar_tank_legend_soccer_era_spawn
+bip_39_word_underscore_11: waste_absent_wonder_youth_similar_tank_legend_soccer_era_spawn_learn
+bip_39_word_underscore_12: waste_absent_wonder_youth_similar_tank_legend_soccer_era_spawn_learn_allow
+bip_39_word_underscore_2: waste_absent
+bip_39_word_underscore_3: waste_absent_wonder
+bip_39_word_underscore_4: waste_absent_wonder_youth
+bip_39_word_underscore_5: waste_absent_wonder_youth_similar
+bip_39_word_underscore_6: waste_absent_wonder_youth_similar_tank
+bip_39_word_underscore_7: waste_absent_wonder_youth_similar_tank_legend
+bip_39_word_underscore_8: waste_absent_wonder_youth_similar_tank_legend_soccer
+bip_39_word_underscore_9: waste_absent_wonder_youth_similar_tank_legend_soccer_era
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

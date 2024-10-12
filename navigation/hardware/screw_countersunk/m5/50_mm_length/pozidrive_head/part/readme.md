@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | try |  
+| bip_39_word_dash_10 | try-panther-hood-position-tube-sleep-canvas-key-frost-cousin |  
+| bip_39_word_dash_11 | try-panther-hood-position-tube-sleep-canvas-key-frost-cousin-water |  
+| bip_39_word_dash_12 | try-panther-hood-position-tube-sleep-canvas-key-frost-cousin-water-afraid |  
+| bip_39_word_dash_2 | try-panther |  
+| bip_39_word_dash_3 | try-panther-hood |  
+| bip_39_word_dash_4 | try-panther-hood-position |  
+| bip_39_word_dash_5 | try-panther-hood-position-tube |  
+| bip_39_word_dash_6 | try-panther-hood-position-tube-sleep |  
+| bip_39_word_dash_7 | try-panther-hood-position-tube-sleep-canvas |  
+| bip_39_word_dash_8 | try-panther-hood-position-tube-sleep-canvas-key |  
+| bip_39_word_dash_9 | try-panther-hood-position-tube-sleep-canvas-key-frost |  
 | bip_39_word_new_br_1 | try |  
 | bip_39_word_new_br_10 | try<br>panther<br>hood<br>position<br>tube<br>sleep<br>canvas<br>key<br>frost<br>cousin |  
 | bip_39_word_new_br_11 | try<br>panther<br>hood<br>position<br>tube<br>sleep<br>canvas<br>key<br>frost<br>cousin<br>water |  
@@ -147,6 +159,18 @@ frost |
 | bip_39_word_space_7 | try panther hood position tube sleep canvas |  
 | bip_39_word_space_8 | try panther hood position tube sleep canvas key |  
 | bip_39_word_space_9 | try panther hood position tube sleep canvas key frost |  
+| bip_39_word_underscore_1 | try |  
+| bip_39_word_underscore_10 | try_panther_hood_position_tube_sleep_canvas_key_frost_cousin |  
+| bip_39_word_underscore_11 | try_panther_hood_position_tube_sleep_canvas_key_frost_cousin_water |  
+| bip_39_word_underscore_12 | try_panther_hood_position_tube_sleep_canvas_key_frost_cousin_water_afraid |  
+| bip_39_word_underscore_2 | try_panther |  
+| bip_39_word_underscore_3 | try_panther_hood |  
+| bip_39_word_underscore_4 | try_panther_hood_position |  
+| bip_39_word_underscore_5 | try_panther_hood_position_tube |  
+| bip_39_word_underscore_6 | try_panther_hood_position_tube_sleep |  
+| bip_39_word_underscore_7 | try_panther_hood_position_tube_sleep_canvas |  
+| bip_39_word_underscore_8 | try_panther_hood_position_tube_sleep_canvas_key |  
+| bip_39_word_underscore_9 | try_panther_hood_position_tube_sleep_canvas_key_frost |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

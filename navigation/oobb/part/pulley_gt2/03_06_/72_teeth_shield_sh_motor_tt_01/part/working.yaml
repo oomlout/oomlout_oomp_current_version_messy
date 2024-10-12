@@ -1,3 +1,15 @@
+bip_39_word_dash_1: punch
+bip_39_word_dash_10: punch-brain-capable-tag-put-quit-health-unusual-element-unique
+bip_39_word_dash_11: punch-brain-capable-tag-put-quit-health-unusual-element-unique-dwarf
+bip_39_word_dash_12: punch-brain-capable-tag-put-quit-health-unusual-element-unique-dwarf-alone
+bip_39_word_dash_2: punch-brain
+bip_39_word_dash_3: punch-brain-capable
+bip_39_word_dash_4: punch-brain-capable-tag
+bip_39_word_dash_5: punch-brain-capable-tag-put
+bip_39_word_dash_6: punch-brain-capable-tag-put-quit
+bip_39_word_dash_7: punch-brain-capable-tag-put-quit-health
+bip_39_word_dash_8: punch-brain-capable-tag-put-quit-health-unusual
+bip_39_word_dash_9: punch-brain-capable-tag-put-quit-health-unusual-element
 bip_39_word_new_br_1: punch
 bip_39_word_new_br_10: punch<br>brain<br>capable<br>tag<br>put<br>quit<br>health<br>unusual<br>element<br>unique
 bip_39_word_new_br_11: punch<br>brain<br>capable<br>tag<br>put<br>quit<br>health<br>unusual<br>element<br>unique<br>dwarf
@@ -193,6 +205,18 @@ bip_39_word_space_6: punch brain capable tag put quit
 bip_39_word_space_7: punch brain capable tag put quit health
 bip_39_word_space_8: punch brain capable tag put quit health unusual
 bip_39_word_space_9: punch brain capable tag put quit health unusual element
+bip_39_word_underscore_1: punch
+bip_39_word_underscore_10: punch_brain_capable_tag_put_quit_health_unusual_element_unique
+bip_39_word_underscore_11: punch_brain_capable_tag_put_quit_health_unusual_element_unique_dwarf
+bip_39_word_underscore_12: punch_brain_capable_tag_put_quit_health_unusual_element_unique_dwarf_alone
+bip_39_word_underscore_2: punch_brain
+bip_39_word_underscore_3: punch_brain_capable
+bip_39_word_underscore_4: punch_brain_capable_tag
+bip_39_word_underscore_5: punch_brain_capable_tag_put
+bip_39_word_underscore_6: punch_brain_capable_tag_put_quit
+bip_39_word_underscore_7: punch_brain_capable_tag_put_quit_health
+bip_39_word_underscore_8: punch_brain_capable_tag_put_quit_health_unusual
+bip_39_word_underscore_9: punch_brain_capable_tag_put_quit_health_unusual_element
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

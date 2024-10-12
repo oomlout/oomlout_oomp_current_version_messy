@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | school |  
+| bip_39_word_dash_10 | school-worth-boss-remove-virus-tomorrow-border-balance-slight-width |  
+| bip_39_word_dash_11 | school-worth-boss-remove-virus-tomorrow-border-balance-slight-width-spare |  
+| bip_39_word_dash_12 | school-worth-boss-remove-virus-tomorrow-border-balance-slight-width-spare-arrive |  
+| bip_39_word_dash_2 | school-worth |  
+| bip_39_word_dash_3 | school-worth-boss |  
+| bip_39_word_dash_4 | school-worth-boss-remove |  
+| bip_39_word_dash_5 | school-worth-boss-remove-virus |  
+| bip_39_word_dash_6 | school-worth-boss-remove-virus-tomorrow |  
+| bip_39_word_dash_7 | school-worth-boss-remove-virus-tomorrow-border |  
+| bip_39_word_dash_8 | school-worth-boss-remove-virus-tomorrow-border-balance |  
+| bip_39_word_dash_9 | school-worth-boss-remove-virus-tomorrow-border-balance-slight |  
 | bip_39_word_new_br_1 | school |  
 | bip_39_word_new_br_10 | school<br>worth<br>boss<br>remove<br>virus<br>tomorrow<br>border<br>balance<br>slight<br>width |  
 | bip_39_word_new_br_11 | school<br>worth<br>boss<br>remove<br>virus<br>tomorrow<br>border<br>balance<br>slight<br>width<br>spare |  
@@ -147,6 +159,18 @@ slight |
 | bip_39_word_space_7 | school worth boss remove virus tomorrow border |  
 | bip_39_word_space_8 | school worth boss remove virus tomorrow border balance |  
 | bip_39_word_space_9 | school worth boss remove virus tomorrow border balance slight |  
+| bip_39_word_underscore_1 | school |  
+| bip_39_word_underscore_10 | school_worth_boss_remove_virus_tomorrow_border_balance_slight_width |  
+| bip_39_word_underscore_11 | school_worth_boss_remove_virus_tomorrow_border_balance_slight_width_spare |  
+| bip_39_word_underscore_12 | school_worth_boss_remove_virus_tomorrow_border_balance_slight_width_spare_arrive |  
+| bip_39_word_underscore_2 | school_worth |  
+| bip_39_word_underscore_3 | school_worth_boss |  
+| bip_39_word_underscore_4 | school_worth_boss_remove |  
+| bip_39_word_underscore_5 | school_worth_boss_remove_virus |  
+| bip_39_word_underscore_6 | school_worth_boss_remove_virus_tomorrow |  
+| bip_39_word_underscore_7 | school_worth_boss_remove_virus_tomorrow_border |  
+| bip_39_word_underscore_8 | school_worth_boss_remove_virus_tomorrow_border_balance |  
+| bip_39_word_underscore_9 | school_worth_boss_remove_virus_tomorrow_border_balance_slight |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

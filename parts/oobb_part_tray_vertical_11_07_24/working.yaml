@@ -1,3 +1,15 @@
+bip_39_word_dash_1: control
+bip_39_word_dash_10: control-brisk-hover-liquid-divert-leisure-amateur-strategy-actress-wet
+bip_39_word_dash_11: control-brisk-hover-liquid-divert-leisure-amateur-strategy-actress-wet-gap
+bip_39_word_dash_12: control-brisk-hover-liquid-divert-leisure-amateur-strategy-actress-wet-gap-approve
+bip_39_word_dash_2: control-brisk
+bip_39_word_dash_3: control-brisk-hover
+bip_39_word_dash_4: control-brisk-hover-liquid
+bip_39_word_dash_5: control-brisk-hover-liquid-divert
+bip_39_word_dash_6: control-brisk-hover-liquid-divert-leisure
+bip_39_word_dash_7: control-brisk-hover-liquid-divert-leisure-amateur
+bip_39_word_dash_8: control-brisk-hover-liquid-divert-leisure-amateur-strategy
+bip_39_word_dash_9: control-brisk-hover-liquid-divert-leisure-amateur-strategy-actress
 bip_39_word_new_br_1: control
 bip_39_word_new_br_10: control<br>brisk<br>hover<br>liquid<br>divert<br>leisure<br>amateur<br>strategy<br>actress<br>wet
 bip_39_word_new_br_11: control<br>brisk<br>hover<br>liquid<br>divert<br>leisure<br>amateur<br>strategy<br>actress<br>wet<br>gap
@@ -194,6 +206,18 @@ bip_39_word_space_6: control brisk hover liquid divert leisure
 bip_39_word_space_7: control brisk hover liquid divert leisure amateur
 bip_39_word_space_8: control brisk hover liquid divert leisure amateur strategy
 bip_39_word_space_9: control brisk hover liquid divert leisure amateur strategy actress
+bip_39_word_underscore_1: control
+bip_39_word_underscore_10: control_brisk_hover_liquid_divert_leisure_amateur_strategy_actress_wet
+bip_39_word_underscore_11: control_brisk_hover_liquid_divert_leisure_amateur_strategy_actress_wet_gap
+bip_39_word_underscore_12: control_brisk_hover_liquid_divert_leisure_amateur_strategy_actress_wet_gap_approve
+bip_39_word_underscore_2: control_brisk
+bip_39_word_underscore_3: control_brisk_hover
+bip_39_word_underscore_4: control_brisk_hover_liquid
+bip_39_word_underscore_5: control_brisk_hover_liquid_divert
+bip_39_word_underscore_6: control_brisk_hover_liquid_divert_leisure
+bip_39_word_underscore_7: control_brisk_hover_liquid_divert_leisure_amateur
+bip_39_word_underscore_8: control_brisk_hover_liquid_divert_leisure_amateur_strategy
+bip_39_word_underscore_9: control_brisk_hover_liquid_divert_leisure_amateur_strategy_actress
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

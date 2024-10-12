@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | vacant |  
+| bip_39_word_dash_10 | vacant-flip-very-stock-mango-tank-scene-someone-labor-tube |  
+| bip_39_word_dash_11 | vacant-flip-very-stock-mango-tank-scene-someone-labor-tube-another |  
+| bip_39_word_dash_12 | vacant-flip-very-stock-mango-tank-scene-someone-labor-tube-another-add |  
+| bip_39_word_dash_2 | vacant-flip |  
+| bip_39_word_dash_3 | vacant-flip-very |  
+| bip_39_word_dash_4 | vacant-flip-very-stock |  
+| bip_39_word_dash_5 | vacant-flip-very-stock-mango |  
+| bip_39_word_dash_6 | vacant-flip-very-stock-mango-tank |  
+| bip_39_word_dash_7 | vacant-flip-very-stock-mango-tank-scene |  
+| bip_39_word_dash_8 | vacant-flip-very-stock-mango-tank-scene-someone |  
+| bip_39_word_dash_9 | vacant-flip-very-stock-mango-tank-scene-someone-labor |  
 | bip_39_word_new_br_1 | vacant |  
 | bip_39_word_new_br_10 | vacant<br>flip<br>very<br>stock<br>mango<br>tank<br>scene<br>someone<br>labor<br>tube |  
 | bip_39_word_new_br_11 | vacant<br>flip<br>very<br>stock<br>mango<br>tank<br>scene<br>someone<br>labor<br>tube<br>another |  
@@ -147,6 +159,18 @@ labor |
 | bip_39_word_space_7 | vacant flip very stock mango tank scene |  
 | bip_39_word_space_8 | vacant flip very stock mango tank scene someone |  
 | bip_39_word_space_9 | vacant flip very stock mango tank scene someone labor |  
+| bip_39_word_underscore_1 | vacant |  
+| bip_39_word_underscore_10 | vacant_flip_very_stock_mango_tank_scene_someone_labor_tube |  
+| bip_39_word_underscore_11 | vacant_flip_very_stock_mango_tank_scene_someone_labor_tube_another |  
+| bip_39_word_underscore_12 | vacant_flip_very_stock_mango_tank_scene_someone_labor_tube_another_add |  
+| bip_39_word_underscore_2 | vacant_flip |  
+| bip_39_word_underscore_3 | vacant_flip_very |  
+| bip_39_word_underscore_4 | vacant_flip_very_stock |  
+| bip_39_word_underscore_5 | vacant_flip_very_stock_mango |  
+| bip_39_word_underscore_6 | vacant_flip_very_stock_mango_tank |  
+| bip_39_word_underscore_7 | vacant_flip_very_stock_mango_tank_scene |  
+| bip_39_word_underscore_8 | vacant_flip_very_stock_mango_tank_scene_someone |  
+| bip_39_word_underscore_9 | vacant_flip_very_stock_mango_tank_scene_someone_labor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

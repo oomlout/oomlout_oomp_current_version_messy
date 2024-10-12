@@ -1,3 +1,15 @@
+bip_39_word_dash_1: better
+bip_39_word_dash_10: better-mercy-dinosaur-library-soda-balance-envelope-include-material-frost
+bip_39_word_dash_11: better-mercy-dinosaur-library-soda-balance-envelope-include-material-frost-kiwi
+bip_39_word_dash_12: better-mercy-dinosaur-library-soda-balance-envelope-include-material-frost-kiwi-apology
+bip_39_word_dash_2: better-mercy
+bip_39_word_dash_3: better-mercy-dinosaur
+bip_39_word_dash_4: better-mercy-dinosaur-library
+bip_39_word_dash_5: better-mercy-dinosaur-library-soda
+bip_39_word_dash_6: better-mercy-dinosaur-library-soda-balance
+bip_39_word_dash_7: better-mercy-dinosaur-library-soda-balance-envelope
+bip_39_word_dash_8: better-mercy-dinosaur-library-soda-balance-envelope-include
+bip_39_word_dash_9: better-mercy-dinosaur-library-soda-balance-envelope-include-material
 bip_39_word_new_br_1: better
 bip_39_word_new_br_10: better<br>mercy<br>dinosaur<br>library<br>soda<br>balance<br>envelope<br>include<br>material<br>frost
 bip_39_word_new_br_11: better<br>mercy<br>dinosaur<br>library<br>soda<br>balance<br>envelope<br>include<br>material<br>frost<br>kiwi
@@ -194,6 +206,18 @@ bip_39_word_space_6: better mercy dinosaur library soda balance
 bip_39_word_space_7: better mercy dinosaur library soda balance envelope
 bip_39_word_space_8: better mercy dinosaur library soda balance envelope include
 bip_39_word_space_9: better mercy dinosaur library soda balance envelope include material
+bip_39_word_underscore_1: better
+bip_39_word_underscore_10: better_mercy_dinosaur_library_soda_balance_envelope_include_material_frost
+bip_39_word_underscore_11: better_mercy_dinosaur_library_soda_balance_envelope_include_material_frost_kiwi
+bip_39_word_underscore_12: better_mercy_dinosaur_library_soda_balance_envelope_include_material_frost_kiwi_apology
+bip_39_word_underscore_2: better_mercy
+bip_39_word_underscore_3: better_mercy_dinosaur
+bip_39_word_underscore_4: better_mercy_dinosaur_library
+bip_39_word_underscore_5: better_mercy_dinosaur_library_soda
+bip_39_word_underscore_6: better_mercy_dinosaur_library_soda_balance
+bip_39_word_underscore_7: better_mercy_dinosaur_library_soda_balance_envelope
+bip_39_word_underscore_8: better_mercy_dinosaur_library_soda_balance_envelope_include
+bip_39_word_underscore_9: better_mercy_dinosaur_library_soda_balance_envelope_include_material
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coyote |  
+| bip_39_word_dash_10 | coyote-engage-spirit-capital-reopen-tube-slight-term-thumb-dash |  
+| bip_39_word_dash_11 | coyote-engage-spirit-capital-reopen-tube-slight-term-thumb-dash-pair |  
+| bip_39_word_dash_12 | coyote-engage-spirit-capital-reopen-tube-slight-term-thumb-dash-pair-anchor |  
+| bip_39_word_dash_2 | coyote-engage |  
+| bip_39_word_dash_3 | coyote-engage-spirit |  
+| bip_39_word_dash_4 | coyote-engage-spirit-capital |  
+| bip_39_word_dash_5 | coyote-engage-spirit-capital-reopen |  
+| bip_39_word_dash_6 | coyote-engage-spirit-capital-reopen-tube |  
+| bip_39_word_dash_7 | coyote-engage-spirit-capital-reopen-tube-slight |  
+| bip_39_word_dash_8 | coyote-engage-spirit-capital-reopen-tube-slight-term |  
+| bip_39_word_dash_9 | coyote-engage-spirit-capital-reopen-tube-slight-term-thumb |  
 | bip_39_word_new_br_1 | coyote |  
 | bip_39_word_new_br_10 | coyote<br>engage<br>spirit<br>capital<br>reopen<br>tube<br>slight<br>term<br>thumb<br>dash |  
 | bip_39_word_new_br_11 | coyote<br>engage<br>spirit<br>capital<br>reopen<br>tube<br>slight<br>term<br>thumb<br>dash<br>pair |  
@@ -147,6 +159,18 @@ thumb |
 | bip_39_word_space_7 | coyote engage spirit capital reopen tube slight |  
 | bip_39_word_space_8 | coyote engage spirit capital reopen tube slight term |  
 | bip_39_word_space_9 | coyote engage spirit capital reopen tube slight term thumb |  
+| bip_39_word_underscore_1 | coyote |  
+| bip_39_word_underscore_10 | coyote_engage_spirit_capital_reopen_tube_slight_term_thumb_dash |  
+| bip_39_word_underscore_11 | coyote_engage_spirit_capital_reopen_tube_slight_term_thumb_dash_pair |  
+| bip_39_word_underscore_12 | coyote_engage_spirit_capital_reopen_tube_slight_term_thumb_dash_pair_anchor |  
+| bip_39_word_underscore_2 | coyote_engage |  
+| bip_39_word_underscore_3 | coyote_engage_spirit |  
+| bip_39_word_underscore_4 | coyote_engage_spirit_capital |  
+| bip_39_word_underscore_5 | coyote_engage_spirit_capital_reopen |  
+| bip_39_word_underscore_6 | coyote_engage_spirit_capital_reopen_tube |  
+| bip_39_word_underscore_7 | coyote_engage_spirit_capital_reopen_tube_slight |  
+| bip_39_word_underscore_8 | coyote_engage_spirit_capital_reopen_tube_slight_term |  
+| bip_39_word_underscore_9 | coyote_engage_spirit_capital_reopen_tube_slight_term_thumb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

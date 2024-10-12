@@ -1,3 +1,15 @@
+bip_39_word_dash_1: else
+bip_39_word_dash_10: else-age-pony-peace-light-supply-evidence-cool-moral-toward
+bip_39_word_dash_11: else-age-pony-peace-light-supply-evidence-cool-moral-toward-speak
+bip_39_word_dash_12: else-age-pony-peace-light-supply-evidence-cool-moral-toward-speak-afford
+bip_39_word_dash_2: else-age
+bip_39_word_dash_3: else-age-pony
+bip_39_word_dash_4: else-age-pony-peace
+bip_39_word_dash_5: else-age-pony-peace-light
+bip_39_word_dash_6: else-age-pony-peace-light-supply
+bip_39_word_dash_7: else-age-pony-peace-light-supply-evidence
+bip_39_word_dash_8: else-age-pony-peace-light-supply-evidence-cool
+bip_39_word_dash_9: else-age-pony-peace-light-supply-evidence-cool-moral
 bip_39_word_new_br_1: else
 bip_39_word_new_br_10: else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward
 bip_39_word_new_br_11: else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward<br>speak
@@ -193,6 +205,18 @@ bip_39_word_space_6: else age pony peace light supply
 bip_39_word_space_7: else age pony peace light supply evidence
 bip_39_word_space_8: else age pony peace light supply evidence cool
 bip_39_word_space_9: else age pony peace light supply evidence cool moral
+bip_39_word_underscore_1: else
+bip_39_word_underscore_10: else_age_pony_peace_light_supply_evidence_cool_moral_toward
+bip_39_word_underscore_11: else_age_pony_peace_light_supply_evidence_cool_moral_toward_speak
+bip_39_word_underscore_12: else_age_pony_peace_light_supply_evidence_cool_moral_toward_speak_afford
+bip_39_word_underscore_2: else_age
+bip_39_word_underscore_3: else_age_pony
+bip_39_word_underscore_4: else_age_pony_peace
+bip_39_word_underscore_5: else_age_pony_peace_light
+bip_39_word_underscore_6: else_age_pony_peace_light_supply
+bip_39_word_underscore_7: else_age_pony_peace_light_supply_evidence
+bip_39_word_underscore_8: else_age_pony_peace_light_supply_evidence_cool
+bip_39_word_underscore_9: else_age_pony_peace_light_supply_evidence_cool_moral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | uncover |  
+| bip_39_word_dash_10 | uncover-clerk-clip-sunset-skill-merge-dwarf-palace-suit-young |  
+| bip_39_word_dash_11 | uncover-clerk-clip-sunset-skill-merge-dwarf-palace-suit-young-tennis |  
+| bip_39_word_dash_12 | uncover-clerk-clip-sunset-skill-merge-dwarf-palace-suit-young-tennis-approve |  
+| bip_39_word_dash_2 | uncover-clerk |  
+| bip_39_word_dash_3 | uncover-clerk-clip |  
+| bip_39_word_dash_4 | uncover-clerk-clip-sunset |  
+| bip_39_word_dash_5 | uncover-clerk-clip-sunset-skill |  
+| bip_39_word_dash_6 | uncover-clerk-clip-sunset-skill-merge |  
+| bip_39_word_dash_7 | uncover-clerk-clip-sunset-skill-merge-dwarf |  
+| bip_39_word_dash_8 | uncover-clerk-clip-sunset-skill-merge-dwarf-palace |  
+| bip_39_word_dash_9 | uncover-clerk-clip-sunset-skill-merge-dwarf-palace-suit |  
 | bip_39_word_new_br_1 | uncover |  
 | bip_39_word_new_br_10 | uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace<br>suit<br>young |  
 | bip_39_word_new_br_11 | uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace<br>suit<br>young<br>tennis |  
@@ -147,6 +159,18 @@ suit |
 | bip_39_word_space_7 | uncover clerk clip sunset skill merge dwarf |  
 | bip_39_word_space_8 | uncover clerk clip sunset skill merge dwarf palace |  
 | bip_39_word_space_9 | uncover clerk clip sunset skill merge dwarf palace suit |  
+| bip_39_word_underscore_1 | uncover |  
+| bip_39_word_underscore_10 | uncover_clerk_clip_sunset_skill_merge_dwarf_palace_suit_young |  
+| bip_39_word_underscore_11 | uncover_clerk_clip_sunset_skill_merge_dwarf_palace_suit_young_tennis |  
+| bip_39_word_underscore_12 | uncover_clerk_clip_sunset_skill_merge_dwarf_palace_suit_young_tennis_approve |  
+| bip_39_word_underscore_2 | uncover_clerk |  
+| bip_39_word_underscore_3 | uncover_clerk_clip |  
+| bip_39_word_underscore_4 | uncover_clerk_clip_sunset |  
+| bip_39_word_underscore_5 | uncover_clerk_clip_sunset_skill |  
+| bip_39_word_underscore_6 | uncover_clerk_clip_sunset_skill_merge |  
+| bip_39_word_underscore_7 | uncover_clerk_clip_sunset_skill_merge_dwarf |  
+| bip_39_word_underscore_8 | uncover_clerk_clip_sunset_skill_merge_dwarf_palace |  
+| bip_39_word_underscore_9 | uncover_clerk_clip_sunset_skill_merge_dwarf_palace_suit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

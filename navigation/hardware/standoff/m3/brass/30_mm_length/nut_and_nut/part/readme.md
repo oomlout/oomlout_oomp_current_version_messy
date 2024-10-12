@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cloud |  
+| bip_39_word_dash_10 | cloud-critic-romance-cliff-foot-spatial-brush-boil-nothing-bunker |  
+| bip_39_word_dash_11 | cloud-critic-romance-cliff-foot-spatial-brush-boil-nothing-bunker-enforce |  
+| bip_39_word_dash_12 | cloud-critic-romance-cliff-foot-spatial-brush-boil-nothing-bunker-enforce-alien |  
+| bip_39_word_dash_2 | cloud-critic |  
+| bip_39_word_dash_3 | cloud-critic-romance |  
+| bip_39_word_dash_4 | cloud-critic-romance-cliff |  
+| bip_39_word_dash_5 | cloud-critic-romance-cliff-foot |  
+| bip_39_word_dash_6 | cloud-critic-romance-cliff-foot-spatial |  
+| bip_39_word_dash_7 | cloud-critic-romance-cliff-foot-spatial-brush |  
+| bip_39_word_dash_8 | cloud-critic-romance-cliff-foot-spatial-brush-boil |  
+| bip_39_word_dash_9 | cloud-critic-romance-cliff-foot-spatial-brush-boil-nothing |  
 | bip_39_word_new_br_1 | cloud |  
 | bip_39_word_new_br_10 | cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil<br>nothing<br>bunker |  
 | bip_39_word_new_br_11 | cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil<br>nothing<br>bunker<br>enforce |  
@@ -147,6 +159,18 @@ nothing |
 | bip_39_word_space_7 | cloud critic romance cliff foot spatial brush |  
 | bip_39_word_space_8 | cloud critic romance cliff foot spatial brush boil |  
 | bip_39_word_space_9 | cloud critic romance cliff foot spatial brush boil nothing |  
+| bip_39_word_underscore_1 | cloud |  
+| bip_39_word_underscore_10 | cloud_critic_romance_cliff_foot_spatial_brush_boil_nothing_bunker |  
+| bip_39_word_underscore_11 | cloud_critic_romance_cliff_foot_spatial_brush_boil_nothing_bunker_enforce |  
+| bip_39_word_underscore_12 | cloud_critic_romance_cliff_foot_spatial_brush_boil_nothing_bunker_enforce_alien |  
+| bip_39_word_underscore_2 | cloud_critic |  
+| bip_39_word_underscore_3 | cloud_critic_romance |  
+| bip_39_word_underscore_4 | cloud_critic_romance_cliff |  
+| bip_39_word_underscore_5 | cloud_critic_romance_cliff_foot |  
+| bip_39_word_underscore_6 | cloud_critic_romance_cliff_foot_spatial |  
+| bip_39_word_underscore_7 | cloud_critic_romance_cliff_foot_spatial_brush |  
+| bip_39_word_underscore_8 | cloud_critic_romance_cliff_foot_spatial_brush_boil |  
+| bip_39_word_underscore_9 | cloud_critic_romance_cliff_foot_spatial_brush_boil_nothing |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

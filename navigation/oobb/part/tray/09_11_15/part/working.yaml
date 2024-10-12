@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ceiling
+bip_39_word_dash_10: ceiling-critic-connect-citizen-theme-spell-cake-chat-horror-usage
+bip_39_word_dash_11: ceiling-critic-connect-citizen-theme-spell-cake-chat-horror-usage-trumpet
+bip_39_word_dash_12: ceiling-critic-connect-citizen-theme-spell-cake-chat-horror-usage-trumpet-among
+bip_39_word_dash_2: ceiling-critic
+bip_39_word_dash_3: ceiling-critic-connect
+bip_39_word_dash_4: ceiling-critic-connect-citizen
+bip_39_word_dash_5: ceiling-critic-connect-citizen-theme
+bip_39_word_dash_6: ceiling-critic-connect-citizen-theme-spell
+bip_39_word_dash_7: ceiling-critic-connect-citizen-theme-spell-cake
+bip_39_word_dash_8: ceiling-critic-connect-citizen-theme-spell-cake-chat
+bip_39_word_dash_9: ceiling-critic-connect-citizen-theme-spell-cake-chat-horror
 bip_39_word_new_br_1: ceiling
 bip_39_word_new_br_10: ceiling<br>critic<br>connect<br>citizen<br>theme<br>spell<br>cake<br>chat<br>horror<br>usage
 bip_39_word_new_br_11: ceiling<br>critic<br>connect<br>citizen<br>theme<br>spell<br>cake<br>chat<br>horror<br>usage<br>trumpet
@@ -194,6 +206,18 @@ bip_39_word_space_6: ceiling critic connect citizen theme spell
 bip_39_word_space_7: ceiling critic connect citizen theme spell cake
 bip_39_word_space_8: ceiling critic connect citizen theme spell cake chat
 bip_39_word_space_9: ceiling critic connect citizen theme spell cake chat horror
+bip_39_word_underscore_1: ceiling
+bip_39_word_underscore_10: ceiling_critic_connect_citizen_theme_spell_cake_chat_horror_usage
+bip_39_word_underscore_11: ceiling_critic_connect_citizen_theme_spell_cake_chat_horror_usage_trumpet
+bip_39_word_underscore_12: ceiling_critic_connect_citizen_theme_spell_cake_chat_horror_usage_trumpet_among
+bip_39_word_underscore_2: ceiling_critic
+bip_39_word_underscore_3: ceiling_critic_connect
+bip_39_word_underscore_4: ceiling_critic_connect_citizen
+bip_39_word_underscore_5: ceiling_critic_connect_citizen_theme
+bip_39_word_underscore_6: ceiling_critic_connect_citizen_theme_spell
+bip_39_word_underscore_7: ceiling_critic_connect_citizen_theme_spell_cake
+bip_39_word_underscore_8: ceiling_critic_connect_citizen_theme_spell_cake_chat
+bip_39_word_underscore_9: ceiling_critic_connect_citizen_theme_spell_cake_chat_horror
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

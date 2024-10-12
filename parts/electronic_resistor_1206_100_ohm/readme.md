@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | castle |  
+| bip_39_word_dash_10 | castle-party-best-file-scan-dwarf-stage-chimney-guide-input |  
+| bip_39_word_dash_11 | castle-party-best-file-scan-dwarf-stage-chimney-guide-input-scan |  
+| bip_39_word_dash_12 | castle-party-best-file-scan-dwarf-stage-chimney-guide-input-scan-ability |  
+| bip_39_word_dash_2 | castle-party |  
+| bip_39_word_dash_3 | castle-party-best |  
+| bip_39_word_dash_4 | castle-party-best-file |  
+| bip_39_word_dash_5 | castle-party-best-file-scan |  
+| bip_39_word_dash_6 | castle-party-best-file-scan-dwarf |  
+| bip_39_word_dash_7 | castle-party-best-file-scan-dwarf-stage |  
+| bip_39_word_dash_8 | castle-party-best-file-scan-dwarf-stage-chimney |  
+| bip_39_word_dash_9 | castle-party-best-file-scan-dwarf-stage-chimney-guide |  
 | bip_39_word_new_br_1 | castle |  
 | bip_39_word_new_br_10 | castle<br>party<br>best<br>file<br>scan<br>dwarf<br>stage<br>chimney<br>guide<br>input |  
 | bip_39_word_new_br_11 | castle<br>party<br>best<br>file<br>scan<br>dwarf<br>stage<br>chimney<br>guide<br>input<br>scan |  
@@ -147,6 +159,18 @@ guide |
 | bip_39_word_space_7 | castle party best file scan dwarf stage |  
 | bip_39_word_space_8 | castle party best file scan dwarf stage chimney |  
 | bip_39_word_space_9 | castle party best file scan dwarf stage chimney guide |  
+| bip_39_word_underscore_1 | castle |  
+| bip_39_word_underscore_10 | castle_party_best_file_scan_dwarf_stage_chimney_guide_input |  
+| bip_39_word_underscore_11 | castle_party_best_file_scan_dwarf_stage_chimney_guide_input_scan |  
+| bip_39_word_underscore_12 | castle_party_best_file_scan_dwarf_stage_chimney_guide_input_scan_ability |  
+| bip_39_word_underscore_2 | castle_party |  
+| bip_39_word_underscore_3 | castle_party_best |  
+| bip_39_word_underscore_4 | castle_party_best_file |  
+| bip_39_word_underscore_5 | castle_party_best_file_scan |  
+| bip_39_word_underscore_6 | castle_party_best_file_scan_dwarf |  
+| bip_39_word_underscore_7 | castle_party_best_file_scan_dwarf_stage |  
+| bip_39_word_underscore_8 | castle_party_best_file_scan_dwarf_stage_chimney |  
+| bip_39_word_underscore_9 | castle_party_best_file_scan_dwarf_stage_chimney_guide |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | potato |  
+| bip_39_word_dash_10 | potato-morning-message-video-device-dash-unit-worth-essence-deny |  
+| bip_39_word_dash_11 | potato-morning-message-video-device-dash-unit-worth-essence-deny-noodle |  
+| bip_39_word_dash_12 | potato-morning-message-video-device-dash-unit-worth-essence-deny-noodle-attend |  
+| bip_39_word_dash_2 | potato-morning |  
+| bip_39_word_dash_3 | potato-morning-message |  
+| bip_39_word_dash_4 | potato-morning-message-video |  
+| bip_39_word_dash_5 | potato-morning-message-video-device |  
+| bip_39_word_dash_6 | potato-morning-message-video-device-dash |  
+| bip_39_word_dash_7 | potato-morning-message-video-device-dash-unit |  
+| bip_39_word_dash_8 | potato-morning-message-video-device-dash-unit-worth |  
+| bip_39_word_dash_9 | potato-morning-message-video-device-dash-unit-worth-essence |  
 | bip_39_word_new_br_1 | potato |  
 | bip_39_word_new_br_10 | potato<br>morning<br>message<br>video<br>device<br>dash<br>unit<br>worth<br>essence<br>deny |  
 | bip_39_word_new_br_11 | potato<br>morning<br>message<br>video<br>device<br>dash<br>unit<br>worth<br>essence<br>deny<br>noodle |  
@@ -147,6 +159,18 @@ essence |
 | bip_39_word_space_7 | potato morning message video device dash unit |  
 | bip_39_word_space_8 | potato morning message video device dash unit worth |  
 | bip_39_word_space_9 | potato morning message video device dash unit worth essence |  
+| bip_39_word_underscore_1 | potato |  
+| bip_39_word_underscore_10 | potato_morning_message_video_device_dash_unit_worth_essence_deny |  
+| bip_39_word_underscore_11 | potato_morning_message_video_device_dash_unit_worth_essence_deny_noodle |  
+| bip_39_word_underscore_12 | potato_morning_message_video_device_dash_unit_worth_essence_deny_noodle_attend |  
+| bip_39_word_underscore_2 | potato_morning |  
+| bip_39_word_underscore_3 | potato_morning_message |  
+| bip_39_word_underscore_4 | potato_morning_message_video |  
+| bip_39_word_underscore_5 | potato_morning_message_video_device |  
+| bip_39_word_underscore_6 | potato_morning_message_video_device_dash |  
+| bip_39_word_underscore_7 | potato_morning_message_video_device_dash_unit |  
+| bip_39_word_underscore_8 | potato_morning_message_video_device_dash_unit_worth |  
+| bip_39_word_underscore_9 | potato_morning_message_video_device_dash_unit_worth_essence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

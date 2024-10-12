@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | coast |  
+| bip_39_word_dash_10 | coast-ostrich-blade-hello-twice-chair-possible-column-eyebrow-erode |  
+| bip_39_word_dash_11 | coast-ostrich-blade-hello-twice-chair-possible-column-eyebrow-erode-owner |  
+| bip_39_word_dash_12 | coast-ostrich-blade-hello-twice-chair-possible-column-eyebrow-erode-owner-avocado |  
+| bip_39_word_dash_2 | coast-ostrich |  
+| bip_39_word_dash_3 | coast-ostrich-blade |  
+| bip_39_word_dash_4 | coast-ostrich-blade-hello |  
+| bip_39_word_dash_5 | coast-ostrich-blade-hello-twice |  
+| bip_39_word_dash_6 | coast-ostrich-blade-hello-twice-chair |  
+| bip_39_word_dash_7 | coast-ostrich-blade-hello-twice-chair-possible |  
+| bip_39_word_dash_8 | coast-ostrich-blade-hello-twice-chair-possible-column |  
+| bip_39_word_dash_9 | coast-ostrich-blade-hello-twice-chair-possible-column-eyebrow |  
 | bip_39_word_new_br_1 | coast |  
 | bip_39_word_new_br_10 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode |  
 | bip_39_word_new_br_11 | coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode<br>owner |  
@@ -147,6 +159,18 @@ eyebrow |
 | bip_39_word_space_7 | coast ostrich blade hello twice chair possible |  
 | bip_39_word_space_8 | coast ostrich blade hello twice chair possible column |  
 | bip_39_word_space_9 | coast ostrich blade hello twice chair possible column eyebrow |  
+| bip_39_word_underscore_1 | coast |  
+| bip_39_word_underscore_10 | coast_ostrich_blade_hello_twice_chair_possible_column_eyebrow_erode |  
+| bip_39_word_underscore_11 | coast_ostrich_blade_hello_twice_chair_possible_column_eyebrow_erode_owner |  
+| bip_39_word_underscore_12 | coast_ostrich_blade_hello_twice_chair_possible_column_eyebrow_erode_owner_avocado |  
+| bip_39_word_underscore_2 | coast_ostrich |  
+| bip_39_word_underscore_3 | coast_ostrich_blade |  
+| bip_39_word_underscore_4 | coast_ostrich_blade_hello |  
+| bip_39_word_underscore_5 | coast_ostrich_blade_hello_twice |  
+| bip_39_word_underscore_6 | coast_ostrich_blade_hello_twice_chair |  
+| bip_39_word_underscore_7 | coast_ostrich_blade_hello_twice_chair_possible |  
+| bip_39_word_underscore_8 | coast_ostrich_blade_hello_twice_chair_possible_column |  
+| bip_39_word_underscore_9 | coast_ostrich_blade_hello_twice_chair_possible_column_eyebrow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

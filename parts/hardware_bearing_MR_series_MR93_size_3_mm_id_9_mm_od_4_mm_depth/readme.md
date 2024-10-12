@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tube |  
+| bip_39_word_dash_10 | tube-fix-treat-seminar-intact-alarm-thought-dad-vibrant-bright |  
+| bip_39_word_dash_11 | tube-fix-treat-seminar-intact-alarm-thought-dad-vibrant-bright-also |  
+| bip_39_word_dash_12 | tube-fix-treat-seminar-intact-alarm-thought-dad-vibrant-bright-also-adapt |  
+| bip_39_word_dash_2 | tube-fix |  
+| bip_39_word_dash_3 | tube-fix-treat |  
+| bip_39_word_dash_4 | tube-fix-treat-seminar |  
+| bip_39_word_dash_5 | tube-fix-treat-seminar-intact |  
+| bip_39_word_dash_6 | tube-fix-treat-seminar-intact-alarm |  
+| bip_39_word_dash_7 | tube-fix-treat-seminar-intact-alarm-thought |  
+| bip_39_word_dash_8 | tube-fix-treat-seminar-intact-alarm-thought-dad |  
+| bip_39_word_dash_9 | tube-fix-treat-seminar-intact-alarm-thought-dad-vibrant |  
 | bip_39_word_new_br_1 | tube |  
 | bip_39_word_new_br_10 | tube<br>fix<br>treat<br>seminar<br>intact<br>alarm<br>thought<br>dad<br>vibrant<br>bright |  
 | bip_39_word_new_br_11 | tube<br>fix<br>treat<br>seminar<br>intact<br>alarm<br>thought<br>dad<br>vibrant<br>bright<br>also |  
@@ -147,6 +159,18 @@ vibrant |
 | bip_39_word_space_7 | tube fix treat seminar intact alarm thought |  
 | bip_39_word_space_8 | tube fix treat seminar intact alarm thought dad |  
 | bip_39_word_space_9 | tube fix treat seminar intact alarm thought dad vibrant |  
+| bip_39_word_underscore_1 | tube |  
+| bip_39_word_underscore_10 | tube_fix_treat_seminar_intact_alarm_thought_dad_vibrant_bright |  
+| bip_39_word_underscore_11 | tube_fix_treat_seminar_intact_alarm_thought_dad_vibrant_bright_also |  
+| bip_39_word_underscore_12 | tube_fix_treat_seminar_intact_alarm_thought_dad_vibrant_bright_also_adapt |  
+| bip_39_word_underscore_2 | tube_fix |  
+| bip_39_word_underscore_3 | tube_fix_treat |  
+| bip_39_word_underscore_4 | tube_fix_treat_seminar |  
+| bip_39_word_underscore_5 | tube_fix_treat_seminar_intact |  
+| bip_39_word_underscore_6 | tube_fix_treat_seminar_intact_alarm |  
+| bip_39_word_underscore_7 | tube_fix_treat_seminar_intact_alarm_thought |  
+| bip_39_word_underscore_8 | tube_fix_treat_seminar_intact_alarm_thought_dad |  
+| bip_39_word_underscore_9 | tube_fix_treat_seminar_intact_alarm_thought_dad_vibrant |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

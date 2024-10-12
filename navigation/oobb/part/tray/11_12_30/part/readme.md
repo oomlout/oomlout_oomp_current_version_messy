@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | limit |  
+| bip_39_word_dash_10 | limit-inner-impact-twenty-sausage-cloud-kind-since-note-glow |  
+| bip_39_word_dash_11 | limit-inner-impact-twenty-sausage-cloud-kind-since-note-glow-twice |  
+| bip_39_word_dash_12 | limit-inner-impact-twenty-sausage-cloud-kind-since-note-glow-twice-anchor |  
+| bip_39_word_dash_2 | limit-inner |  
+| bip_39_word_dash_3 | limit-inner-impact |  
+| bip_39_word_dash_4 | limit-inner-impact-twenty |  
+| bip_39_word_dash_5 | limit-inner-impact-twenty-sausage |  
+| bip_39_word_dash_6 | limit-inner-impact-twenty-sausage-cloud |  
+| bip_39_word_dash_7 | limit-inner-impact-twenty-sausage-cloud-kind |  
+| bip_39_word_dash_8 | limit-inner-impact-twenty-sausage-cloud-kind-since |  
+| bip_39_word_dash_9 | limit-inner-impact-twenty-sausage-cloud-kind-since-note |  
 | bip_39_word_new_br_1 | limit |  
 | bip_39_word_new_br_10 | limit<br>inner<br>impact<br>twenty<br>sausage<br>cloud<br>kind<br>since<br>note<br>glow |  
 | bip_39_word_new_br_11 | limit<br>inner<br>impact<br>twenty<br>sausage<br>cloud<br>kind<br>since<br>note<br>glow<br>twice |  
@@ -147,6 +159,18 @@ note |
 | bip_39_word_space_7 | limit inner impact twenty sausage cloud kind |  
 | bip_39_word_space_8 | limit inner impact twenty sausage cloud kind since |  
 | bip_39_word_space_9 | limit inner impact twenty sausage cloud kind since note |  
+| bip_39_word_underscore_1 | limit |  
+| bip_39_word_underscore_10 | limit_inner_impact_twenty_sausage_cloud_kind_since_note_glow |  
+| bip_39_word_underscore_11 | limit_inner_impact_twenty_sausage_cloud_kind_since_note_glow_twice |  
+| bip_39_word_underscore_12 | limit_inner_impact_twenty_sausage_cloud_kind_since_note_glow_twice_anchor |  
+| bip_39_word_underscore_2 | limit_inner |  
+| bip_39_word_underscore_3 | limit_inner_impact |  
+| bip_39_word_underscore_4 | limit_inner_impact_twenty |  
+| bip_39_word_underscore_5 | limit_inner_impact_twenty_sausage |  
+| bip_39_word_underscore_6 | limit_inner_impact_twenty_sausage_cloud |  
+| bip_39_word_underscore_7 | limit_inner_impact_twenty_sausage_cloud_kind |  
+| bip_39_word_underscore_8 | limit_inner_impact_twenty_sausage_cloud_kind_since |  
+| bip_39_word_underscore_9 | limit_inner_impact_twenty_sausage_cloud_kind_since_note |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

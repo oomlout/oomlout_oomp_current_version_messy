@@ -1,3 +1,15 @@
+bip_39_word_dash_1: exhibit
+bip_39_word_dash_10: exhibit-fiber-future-suit-decline-divorce-bring-roof-make-salad
+bip_39_word_dash_11: exhibit-fiber-future-suit-decline-divorce-bring-roof-make-salad-settle
+bip_39_word_dash_12: exhibit-fiber-future-suit-decline-divorce-bring-roof-make-salad-settle-amount
+bip_39_word_dash_2: exhibit-fiber
+bip_39_word_dash_3: exhibit-fiber-future
+bip_39_word_dash_4: exhibit-fiber-future-suit
+bip_39_word_dash_5: exhibit-fiber-future-suit-decline
+bip_39_word_dash_6: exhibit-fiber-future-suit-decline-divorce
+bip_39_word_dash_7: exhibit-fiber-future-suit-decline-divorce-bring
+bip_39_word_dash_8: exhibit-fiber-future-suit-decline-divorce-bring-roof
+bip_39_word_dash_9: exhibit-fiber-future-suit-decline-divorce-bring-roof-make
 bip_39_word_new_br_1: exhibit
 bip_39_word_new_br_10: exhibit<br>fiber<br>future<br>suit<br>decline<br>divorce<br>bring<br>roof<br>make<br>salad
 bip_39_word_new_br_11: exhibit<br>fiber<br>future<br>suit<br>decline<br>divorce<br>bring<br>roof<br>make<br>salad<br>settle
@@ -193,6 +205,18 @@ bip_39_word_space_6: exhibit fiber future suit decline divorce
 bip_39_word_space_7: exhibit fiber future suit decline divorce bring
 bip_39_word_space_8: exhibit fiber future suit decline divorce bring roof
 bip_39_word_space_9: exhibit fiber future suit decline divorce bring roof make
+bip_39_word_underscore_1: exhibit
+bip_39_word_underscore_10: exhibit_fiber_future_suit_decline_divorce_bring_roof_make_salad
+bip_39_word_underscore_11: exhibit_fiber_future_suit_decline_divorce_bring_roof_make_salad_settle
+bip_39_word_underscore_12: exhibit_fiber_future_suit_decline_divorce_bring_roof_make_salad_settle_amount
+bip_39_word_underscore_2: exhibit_fiber
+bip_39_word_underscore_3: exhibit_fiber_future
+bip_39_word_underscore_4: exhibit_fiber_future_suit
+bip_39_word_underscore_5: exhibit_fiber_future_suit_decline
+bip_39_word_underscore_6: exhibit_fiber_future_suit_decline_divorce
+bip_39_word_underscore_7: exhibit_fiber_future_suit_decline_divorce_bring
+bip_39_word_underscore_8: exhibit_fiber_future_suit_decline_divorce_bring_roof
+bip_39_word_underscore_9: exhibit_fiber_future_suit_decline_divorce_bring_roof_make
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

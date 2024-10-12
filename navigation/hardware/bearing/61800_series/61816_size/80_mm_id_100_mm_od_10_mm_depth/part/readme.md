@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frog |  
+| bip_39_word_dash_10 | frog-claw-rent-fit-lake-finish-goat-piece-car-bronze |  
+| bip_39_word_dash_11 | frog-claw-rent-fit-lake-finish-goat-piece-car-bronze-echo |  
+| bip_39_word_dash_12 | frog-claw-rent-fit-lake-finish-goat-piece-car-bronze-echo-approve |  
+| bip_39_word_dash_2 | frog-claw |  
+| bip_39_word_dash_3 | frog-claw-rent |  
+| bip_39_word_dash_4 | frog-claw-rent-fit |  
+| bip_39_word_dash_5 | frog-claw-rent-fit-lake |  
+| bip_39_word_dash_6 | frog-claw-rent-fit-lake-finish |  
+| bip_39_word_dash_7 | frog-claw-rent-fit-lake-finish-goat |  
+| bip_39_word_dash_8 | frog-claw-rent-fit-lake-finish-goat-piece |  
+| bip_39_word_dash_9 | frog-claw-rent-fit-lake-finish-goat-piece-car |  
 | bip_39_word_new_br_1 | frog |  
 | bip_39_word_new_br_10 | frog<br>claw<br>rent<br>fit<br>lake<br>finish<br>goat<br>piece<br>car<br>bronze |  
 | bip_39_word_new_br_11 | frog<br>claw<br>rent<br>fit<br>lake<br>finish<br>goat<br>piece<br>car<br>bronze<br>echo |  
@@ -147,6 +159,18 @@ car |
 | bip_39_word_space_7 | frog claw rent fit lake finish goat |  
 | bip_39_word_space_8 | frog claw rent fit lake finish goat piece |  
 | bip_39_word_space_9 | frog claw rent fit lake finish goat piece car |  
+| bip_39_word_underscore_1 | frog |  
+| bip_39_word_underscore_10 | frog_claw_rent_fit_lake_finish_goat_piece_car_bronze |  
+| bip_39_word_underscore_11 | frog_claw_rent_fit_lake_finish_goat_piece_car_bronze_echo |  
+| bip_39_word_underscore_12 | frog_claw_rent_fit_lake_finish_goat_piece_car_bronze_echo_approve |  
+| bip_39_word_underscore_2 | frog_claw |  
+| bip_39_word_underscore_3 | frog_claw_rent |  
+| bip_39_word_underscore_4 | frog_claw_rent_fit |  
+| bip_39_word_underscore_5 | frog_claw_rent_fit_lake |  
+| bip_39_word_underscore_6 | frog_claw_rent_fit_lake_finish |  
+| bip_39_word_underscore_7 | frog_claw_rent_fit_lake_finish_goat |  
+| bip_39_word_underscore_8 | frog_claw_rent_fit_lake_finish_goat_piece |  
+| bip_39_word_underscore_9 | frog_claw_rent_fit_lake_finish_goat_piece_car |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

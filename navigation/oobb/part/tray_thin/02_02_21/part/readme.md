@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | novel |  
+| bip_39_word_dash_10 | novel-intact-gain-know-ring-reduce-cube-copy-claw-distance |  
+| bip_39_word_dash_11 | novel-intact-gain-know-ring-reduce-cube-copy-claw-distance-motion |  
+| bip_39_word_dash_12 | novel-intact-gain-know-ring-reduce-cube-copy-claw-distance-motion-afford |  
+| bip_39_word_dash_2 | novel-intact |  
+| bip_39_word_dash_3 | novel-intact-gain |  
+| bip_39_word_dash_4 | novel-intact-gain-know |  
+| bip_39_word_dash_5 | novel-intact-gain-know-ring |  
+| bip_39_word_dash_6 | novel-intact-gain-know-ring-reduce |  
+| bip_39_word_dash_7 | novel-intact-gain-know-ring-reduce-cube |  
+| bip_39_word_dash_8 | novel-intact-gain-know-ring-reduce-cube-copy |  
+| bip_39_word_dash_9 | novel-intact-gain-know-ring-reduce-cube-copy-claw |  
 | bip_39_word_new_br_1 | novel |  
 | bip_39_word_new_br_10 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy<br>claw<br>distance |  
 | bip_39_word_new_br_11 | novel<br>intact<br>gain<br>know<br>ring<br>reduce<br>cube<br>copy<br>claw<br>distance<br>motion |  
@@ -147,6 +159,18 @@ claw |
 | bip_39_word_space_7 | novel intact gain know ring reduce cube |  
 | bip_39_word_space_8 | novel intact gain know ring reduce cube copy |  
 | bip_39_word_space_9 | novel intact gain know ring reduce cube copy claw |  
+| bip_39_word_underscore_1 | novel |  
+| bip_39_word_underscore_10 | novel_intact_gain_know_ring_reduce_cube_copy_claw_distance |  
+| bip_39_word_underscore_11 | novel_intact_gain_know_ring_reduce_cube_copy_claw_distance_motion |  
+| bip_39_word_underscore_12 | novel_intact_gain_know_ring_reduce_cube_copy_claw_distance_motion_afford |  
+| bip_39_word_underscore_2 | novel_intact |  
+| bip_39_word_underscore_3 | novel_intact_gain |  
+| bip_39_word_underscore_4 | novel_intact_gain_know |  
+| bip_39_word_underscore_5 | novel_intact_gain_know_ring |  
+| bip_39_word_underscore_6 | novel_intact_gain_know_ring_reduce |  
+| bip_39_word_underscore_7 | novel_intact_gain_know_ring_reduce_cube |  
+| bip_39_word_underscore_8 | novel_intact_gain_know_ring_reduce_cube_copy |  
+| bip_39_word_underscore_9 | novel_intact_gain_know_ring_reduce_cube_copy_claw |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

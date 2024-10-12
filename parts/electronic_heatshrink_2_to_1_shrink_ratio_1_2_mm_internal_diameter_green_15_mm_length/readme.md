@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | first |  
+| bip_39_word_dash_10 | first-payment-ticket-era-install-rebuild-craft-hammer-photo-best |  
+| bip_39_word_dash_11 | first-payment-ticket-era-install-rebuild-craft-hammer-photo-best-select |  
+| bip_39_word_dash_12 | first-payment-ticket-era-install-rebuild-craft-hammer-photo-best-select-artefact |  
+| bip_39_word_dash_2 | first-payment |  
+| bip_39_word_dash_3 | first-payment-ticket |  
+| bip_39_word_dash_4 | first-payment-ticket-era |  
+| bip_39_word_dash_5 | first-payment-ticket-era-install |  
+| bip_39_word_dash_6 | first-payment-ticket-era-install-rebuild |  
+| bip_39_word_dash_7 | first-payment-ticket-era-install-rebuild-craft |  
+| bip_39_word_dash_8 | first-payment-ticket-era-install-rebuild-craft-hammer |  
+| bip_39_word_dash_9 | first-payment-ticket-era-install-rebuild-craft-hammer-photo |  
 | bip_39_word_new_br_1 | first |  
 | bip_39_word_new_br_10 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best |  
 | bip_39_word_new_br_11 | first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best<br>select |  
@@ -147,6 +159,18 @@ photo |
 | bip_39_word_space_7 | first payment ticket era install rebuild craft |  
 | bip_39_word_space_8 | first payment ticket era install rebuild craft hammer |  
 | bip_39_word_space_9 | first payment ticket era install rebuild craft hammer photo |  
+| bip_39_word_underscore_1 | first |  
+| bip_39_word_underscore_10 | first_payment_ticket_era_install_rebuild_craft_hammer_photo_best |  
+| bip_39_word_underscore_11 | first_payment_ticket_era_install_rebuild_craft_hammer_photo_best_select |  
+| bip_39_word_underscore_12 | first_payment_ticket_era_install_rebuild_craft_hammer_photo_best_select_artefact |  
+| bip_39_word_underscore_2 | first_payment |  
+| bip_39_word_underscore_3 | first_payment_ticket |  
+| bip_39_word_underscore_4 | first_payment_ticket_era |  
+| bip_39_word_underscore_5 | first_payment_ticket_era_install |  
+| bip_39_word_underscore_6 | first_payment_ticket_era_install_rebuild |  
+| bip_39_word_underscore_7 | first_payment_ticket_era_install_rebuild_craft |  
+| bip_39_word_underscore_8 | first_payment_ticket_era_install_rebuild_craft_hammer |  
+| bip_39_word_underscore_9 | first_payment_ticket_era_install_rebuild_craft_hammer_photo |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

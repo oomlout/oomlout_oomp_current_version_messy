@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | final |  
+| bip_39_word_dash_10 | final-traffic-rule-deposit-violin-age-among-scrub-barely-original |  
+| bip_39_word_dash_11 | final-traffic-rule-deposit-violin-age-among-scrub-barely-original-poet |  
+| bip_39_word_dash_12 | final-traffic-rule-deposit-violin-age-among-scrub-barely-original-poet-accident |  
+| bip_39_word_dash_2 | final-traffic |  
+| bip_39_word_dash_3 | final-traffic-rule |  
+| bip_39_word_dash_4 | final-traffic-rule-deposit |  
+| bip_39_word_dash_5 | final-traffic-rule-deposit-violin |  
+| bip_39_word_dash_6 | final-traffic-rule-deposit-violin-age |  
+| bip_39_word_dash_7 | final-traffic-rule-deposit-violin-age-among |  
+| bip_39_word_dash_8 | final-traffic-rule-deposit-violin-age-among-scrub |  
+| bip_39_word_dash_9 | final-traffic-rule-deposit-violin-age-among-scrub-barely |  
 | bip_39_word_new_br_1 | final |  
 | bip_39_word_new_br_10 | final<br>traffic<br>rule<br>deposit<br>violin<br>age<br>among<br>scrub<br>barely<br>original |  
 | bip_39_word_new_br_11 | final<br>traffic<br>rule<br>deposit<br>violin<br>age<br>among<br>scrub<br>barely<br>original<br>poet |  
@@ -147,6 +159,18 @@ barely |
 | bip_39_word_space_7 | final traffic rule deposit violin age among |  
 | bip_39_word_space_8 | final traffic rule deposit violin age among scrub |  
 | bip_39_word_space_9 | final traffic rule deposit violin age among scrub barely |  
+| bip_39_word_underscore_1 | final |  
+| bip_39_word_underscore_10 | final_traffic_rule_deposit_violin_age_among_scrub_barely_original |  
+| bip_39_word_underscore_11 | final_traffic_rule_deposit_violin_age_among_scrub_barely_original_poet |  
+| bip_39_word_underscore_12 | final_traffic_rule_deposit_violin_age_among_scrub_barely_original_poet_accident |  
+| bip_39_word_underscore_2 | final_traffic |  
+| bip_39_word_underscore_3 | final_traffic_rule |  
+| bip_39_word_underscore_4 | final_traffic_rule_deposit |  
+| bip_39_word_underscore_5 | final_traffic_rule_deposit_violin |  
+| bip_39_word_underscore_6 | final_traffic_rule_deposit_violin_age |  
+| bip_39_word_underscore_7 | final_traffic_rule_deposit_violin_age_among |  
+| bip_39_word_underscore_8 | final_traffic_rule_deposit_violin_age_among_scrub |  
+| bip_39_word_underscore_9 | final_traffic_rule_deposit_violin_age_among_scrub_barely |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

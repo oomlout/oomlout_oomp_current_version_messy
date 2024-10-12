@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rent
+bip_39_word_dash_10: rent-pill-begin-sunset-there-blast-electric-pink-during-open
+bip_39_word_dash_11: rent-pill-begin-sunset-there-blast-electric-pink-during-open-tip
+bip_39_word_dash_12: rent-pill-begin-sunset-there-blast-electric-pink-during-open-tip-asthma
+bip_39_word_dash_2: rent-pill
+bip_39_word_dash_3: rent-pill-begin
+bip_39_word_dash_4: rent-pill-begin-sunset
+bip_39_word_dash_5: rent-pill-begin-sunset-there
+bip_39_word_dash_6: rent-pill-begin-sunset-there-blast
+bip_39_word_dash_7: rent-pill-begin-sunset-there-blast-electric
+bip_39_word_dash_8: rent-pill-begin-sunset-there-blast-electric-pink
+bip_39_word_dash_9: rent-pill-begin-sunset-there-blast-electric-pink-during
 bip_39_word_new_br_1: rent
 bip_39_word_new_br_10: rent<br>pill<br>begin<br>sunset<br>there<br>blast<br>electric<br>pink<br>during<br>open
 bip_39_word_new_br_11: rent<br>pill<br>begin<br>sunset<br>there<br>blast<br>electric<br>pink<br>during<br>open<br>tip
@@ -193,6 +205,18 @@ bip_39_word_space_6: rent pill begin sunset there blast
 bip_39_word_space_7: rent pill begin sunset there blast electric
 bip_39_word_space_8: rent pill begin sunset there blast electric pink
 bip_39_word_space_9: rent pill begin sunset there blast electric pink during
+bip_39_word_underscore_1: rent
+bip_39_word_underscore_10: rent_pill_begin_sunset_there_blast_electric_pink_during_open
+bip_39_word_underscore_11: rent_pill_begin_sunset_there_blast_electric_pink_during_open_tip
+bip_39_word_underscore_12: rent_pill_begin_sunset_there_blast_electric_pink_during_open_tip_asthma
+bip_39_word_underscore_2: rent_pill
+bip_39_word_underscore_3: rent_pill_begin
+bip_39_word_underscore_4: rent_pill_begin_sunset
+bip_39_word_underscore_5: rent_pill_begin_sunset_there
+bip_39_word_underscore_6: rent_pill_begin_sunset_there_blast
+bip_39_word_underscore_7: rent_pill_begin_sunset_there_blast_electric
+bip_39_word_underscore_8: rent_pill_begin_sunset_there_blast_electric_pink
+bip_39_word_underscore_9: rent_pill_begin_sunset_there_blast_electric_pink_during
 classification: storage
 classification_capital: Storage
 classification_first_letter: s

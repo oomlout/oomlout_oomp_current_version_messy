@@ -1,3 +1,15 @@
+bip_39_word_dash_1: phone
+bip_39_word_dash_10: phone-chuckle-chase-zebra-off-tape-coin-nothing-lecture-glass
+bip_39_word_dash_11: phone-chuckle-chase-zebra-off-tape-coin-nothing-lecture-glass-gasp
+bip_39_word_dash_12: phone-chuckle-chase-zebra-off-tape-coin-nothing-lecture-glass-gasp-alley
+bip_39_word_dash_2: phone-chuckle
+bip_39_word_dash_3: phone-chuckle-chase
+bip_39_word_dash_4: phone-chuckle-chase-zebra
+bip_39_word_dash_5: phone-chuckle-chase-zebra-off
+bip_39_word_dash_6: phone-chuckle-chase-zebra-off-tape
+bip_39_word_dash_7: phone-chuckle-chase-zebra-off-tape-coin
+bip_39_word_dash_8: phone-chuckle-chase-zebra-off-tape-coin-nothing
+bip_39_word_dash_9: phone-chuckle-chase-zebra-off-tape-coin-nothing-lecture
 bip_39_word_new_br_1: phone
 bip_39_word_new_br_10: phone<br>chuckle<br>chase<br>zebra<br>off<br>tape<br>coin<br>nothing<br>lecture<br>glass
 bip_39_word_new_br_11: phone<br>chuckle<br>chase<br>zebra<br>off<br>tape<br>coin<br>nothing<br>lecture<br>glass<br>gasp
@@ -193,6 +205,18 @@ bip_39_word_space_6: phone chuckle chase zebra off tape
 bip_39_word_space_7: phone chuckle chase zebra off tape coin
 bip_39_word_space_8: phone chuckle chase zebra off tape coin nothing
 bip_39_word_space_9: phone chuckle chase zebra off tape coin nothing lecture
+bip_39_word_underscore_1: phone
+bip_39_word_underscore_10: phone_chuckle_chase_zebra_off_tape_coin_nothing_lecture_glass
+bip_39_word_underscore_11: phone_chuckle_chase_zebra_off_tape_coin_nothing_lecture_glass_gasp
+bip_39_word_underscore_12: phone_chuckle_chase_zebra_off_tape_coin_nothing_lecture_glass_gasp_alley
+bip_39_word_underscore_2: phone_chuckle
+bip_39_word_underscore_3: phone_chuckle_chase
+bip_39_word_underscore_4: phone_chuckle_chase_zebra
+bip_39_word_underscore_5: phone_chuckle_chase_zebra_off
+bip_39_word_underscore_6: phone_chuckle_chase_zebra_off_tape
+bip_39_word_underscore_7: phone_chuckle_chase_zebra_off_tape_coin
+bip_39_word_underscore_8: phone_chuckle_chase_zebra_off_tape_coin_nothing
+bip_39_word_underscore_9: phone_chuckle_chase_zebra_off_tape_coin_nothing_lecture
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

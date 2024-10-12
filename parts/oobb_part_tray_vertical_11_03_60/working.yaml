@@ -1,3 +1,15 @@
+bip_39_word_dash_1: object
+bip_39_word_dash_10: object-chief-spatial-spatial-mechanic-object-country-planet-scrap-bid
+bip_39_word_dash_11: object-chief-spatial-spatial-mechanic-object-country-planet-scrap-bid-test
+bip_39_word_dash_12: object-chief-spatial-spatial-mechanic-object-country-planet-scrap-bid-test-attitude
+bip_39_word_dash_2: object-chief
+bip_39_word_dash_3: object-chief-spatial
+bip_39_word_dash_4: object-chief-spatial-spatial
+bip_39_word_dash_5: object-chief-spatial-spatial-mechanic
+bip_39_word_dash_6: object-chief-spatial-spatial-mechanic-object
+bip_39_word_dash_7: object-chief-spatial-spatial-mechanic-object-country
+bip_39_word_dash_8: object-chief-spatial-spatial-mechanic-object-country-planet
+bip_39_word_dash_9: object-chief-spatial-spatial-mechanic-object-country-planet-scrap
 bip_39_word_new_br_1: object
 bip_39_word_new_br_10: object<br>chief<br>spatial<br>spatial<br>mechanic<br>object<br>country<br>planet<br>scrap<br>bid
 bip_39_word_new_br_11: object<br>chief<br>spatial<br>spatial<br>mechanic<br>object<br>country<br>planet<br>scrap<br>bid<br>test
@@ -194,6 +206,18 @@ bip_39_word_space_6: object chief spatial spatial mechanic object
 bip_39_word_space_7: object chief spatial spatial mechanic object country
 bip_39_word_space_8: object chief spatial spatial mechanic object country planet
 bip_39_word_space_9: object chief spatial spatial mechanic object country planet scrap
+bip_39_word_underscore_1: object
+bip_39_word_underscore_10: object_chief_spatial_spatial_mechanic_object_country_planet_scrap_bid
+bip_39_word_underscore_11: object_chief_spatial_spatial_mechanic_object_country_planet_scrap_bid_test
+bip_39_word_underscore_12: object_chief_spatial_spatial_mechanic_object_country_planet_scrap_bid_test_attitude
+bip_39_word_underscore_2: object_chief
+bip_39_word_underscore_3: object_chief_spatial
+bip_39_word_underscore_4: object_chief_spatial_spatial
+bip_39_word_underscore_5: object_chief_spatial_spatial_mechanic
+bip_39_word_underscore_6: object_chief_spatial_spatial_mechanic_object
+bip_39_word_underscore_7: object_chief_spatial_spatial_mechanic_object_country
+bip_39_word_underscore_8: object_chief_spatial_spatial_mechanic_object_country_planet
+bip_39_word_underscore_9: object_chief_spatial_spatial_mechanic_object_country_planet_scrap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

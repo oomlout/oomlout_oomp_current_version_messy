@@ -1,3 +1,15 @@
+bip_39_word_dash_1: margin
+bip_39_word_dash_10: margin-brother-cup-prison-shadow-reunion-piece-illness-list-chief
+bip_39_word_dash_11: margin-brother-cup-prison-shadow-reunion-piece-illness-list-chief-tank
+bip_39_word_dash_12: margin-brother-cup-prison-shadow-reunion-piece-illness-list-chief-tank-arctic
+bip_39_word_dash_2: margin-brother
+bip_39_word_dash_3: margin-brother-cup
+bip_39_word_dash_4: margin-brother-cup-prison
+bip_39_word_dash_5: margin-brother-cup-prison-shadow
+bip_39_word_dash_6: margin-brother-cup-prison-shadow-reunion
+bip_39_word_dash_7: margin-brother-cup-prison-shadow-reunion-piece
+bip_39_word_dash_8: margin-brother-cup-prison-shadow-reunion-piece-illness
+bip_39_word_dash_9: margin-brother-cup-prison-shadow-reunion-piece-illness-list
 bip_39_word_new_br_1: margin
 bip_39_word_new_br_10: margin<br>brother<br>cup<br>prison<br>shadow<br>reunion<br>piece<br>illness<br>list<br>chief
 bip_39_word_new_br_11: margin<br>brother<br>cup<br>prison<br>shadow<br>reunion<br>piece<br>illness<br>list<br>chief<br>tank
@@ -194,6 +206,18 @@ bip_39_word_space_6: margin brother cup prison shadow reunion
 bip_39_word_space_7: margin brother cup prison shadow reunion piece
 bip_39_word_space_8: margin brother cup prison shadow reunion piece illness
 bip_39_word_space_9: margin brother cup prison shadow reunion piece illness list
+bip_39_word_underscore_1: margin
+bip_39_word_underscore_10: margin_brother_cup_prison_shadow_reunion_piece_illness_list_chief
+bip_39_word_underscore_11: margin_brother_cup_prison_shadow_reunion_piece_illness_list_chief_tank
+bip_39_word_underscore_12: margin_brother_cup_prison_shadow_reunion_piece_illness_list_chief_tank_arctic
+bip_39_word_underscore_2: margin_brother
+bip_39_word_underscore_3: margin_brother_cup
+bip_39_word_underscore_4: margin_brother_cup_prison
+bip_39_word_underscore_5: margin_brother_cup_prison_shadow
+bip_39_word_underscore_6: margin_brother_cup_prison_shadow_reunion
+bip_39_word_underscore_7: margin_brother_cup_prison_shadow_reunion_piece
+bip_39_word_underscore_8: margin_brother_cup_prison_shadow_reunion_piece_illness
+bip_39_word_underscore_9: margin_brother_cup_prison_shadow_reunion_piece_illness_list
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

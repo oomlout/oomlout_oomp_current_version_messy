@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deposit
+bip_39_word_dash_10: deposit-fiscal-ten-pupil-you-garage-tomorrow-stable-shaft-limb
+bip_39_word_dash_11: deposit-fiscal-ten-pupil-you-garage-tomorrow-stable-shaft-limb-immense
+bip_39_word_dash_12: deposit-fiscal-ten-pupil-you-garage-tomorrow-stable-shaft-limb-immense-anxiety
+bip_39_word_dash_2: deposit-fiscal
+bip_39_word_dash_3: deposit-fiscal-ten
+bip_39_word_dash_4: deposit-fiscal-ten-pupil
+bip_39_word_dash_5: deposit-fiscal-ten-pupil-you
+bip_39_word_dash_6: deposit-fiscal-ten-pupil-you-garage
+bip_39_word_dash_7: deposit-fiscal-ten-pupil-you-garage-tomorrow
+bip_39_word_dash_8: deposit-fiscal-ten-pupil-you-garage-tomorrow-stable
+bip_39_word_dash_9: deposit-fiscal-ten-pupil-you-garage-tomorrow-stable-shaft
 bip_39_word_new_br_1: deposit
 bip_39_word_new_br_10: deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb
 bip_39_word_new_br_11: deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb<br>immense
@@ -193,6 +205,18 @@ bip_39_word_space_6: deposit fiscal ten pupil you garage
 bip_39_word_space_7: deposit fiscal ten pupil you garage tomorrow
 bip_39_word_space_8: deposit fiscal ten pupil you garage tomorrow stable
 bip_39_word_space_9: deposit fiscal ten pupil you garage tomorrow stable shaft
+bip_39_word_underscore_1: deposit
+bip_39_word_underscore_10: deposit_fiscal_ten_pupil_you_garage_tomorrow_stable_shaft_limb
+bip_39_word_underscore_11: deposit_fiscal_ten_pupil_you_garage_tomorrow_stable_shaft_limb_immense
+bip_39_word_underscore_12: deposit_fiscal_ten_pupil_you_garage_tomorrow_stable_shaft_limb_immense_anxiety
+bip_39_word_underscore_2: deposit_fiscal
+bip_39_word_underscore_3: deposit_fiscal_ten
+bip_39_word_underscore_4: deposit_fiscal_ten_pupil
+bip_39_word_underscore_5: deposit_fiscal_ten_pupil_you
+bip_39_word_underscore_6: deposit_fiscal_ten_pupil_you_garage
+bip_39_word_underscore_7: deposit_fiscal_ten_pupil_you_garage_tomorrow
+bip_39_word_underscore_8: deposit_fiscal_ten_pupil_you_garage_tomorrow_stable
+bip_39_word_underscore_9: deposit_fiscal_ten_pupil_you_garage_tomorrow_stable_shaft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

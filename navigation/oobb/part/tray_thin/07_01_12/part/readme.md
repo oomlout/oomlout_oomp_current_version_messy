@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | cycle |  
+| bip_39_word_dash_10 | cycle-utility-element-describe-duty-circle-net-agree-toddler-they |  
+| bip_39_word_dash_11 | cycle-utility-element-describe-duty-circle-net-agree-toddler-they-crunch |  
+| bip_39_word_dash_12 | cycle-utility-element-describe-duty-circle-net-agree-toddler-they-crunch-atom |  
+| bip_39_word_dash_2 | cycle-utility |  
+| bip_39_word_dash_3 | cycle-utility-element |  
+| bip_39_word_dash_4 | cycle-utility-element-describe |  
+| bip_39_word_dash_5 | cycle-utility-element-describe-duty |  
+| bip_39_word_dash_6 | cycle-utility-element-describe-duty-circle |  
+| bip_39_word_dash_7 | cycle-utility-element-describe-duty-circle-net |  
+| bip_39_word_dash_8 | cycle-utility-element-describe-duty-circle-net-agree |  
+| bip_39_word_dash_9 | cycle-utility-element-describe-duty-circle-net-agree-toddler |  
 | bip_39_word_new_br_1 | cycle |  
 | bip_39_word_new_br_10 | cycle<br>utility<br>element<br>describe<br>duty<br>circle<br>net<br>agree<br>toddler<br>they |  
 | bip_39_word_new_br_11 | cycle<br>utility<br>element<br>describe<br>duty<br>circle<br>net<br>agree<br>toddler<br>they<br>crunch |  
@@ -147,6 +159,18 @@ toddler |
 | bip_39_word_space_7 | cycle utility element describe duty circle net |  
 | bip_39_word_space_8 | cycle utility element describe duty circle net agree |  
 | bip_39_word_space_9 | cycle utility element describe duty circle net agree toddler |  
+| bip_39_word_underscore_1 | cycle |  
+| bip_39_word_underscore_10 | cycle_utility_element_describe_duty_circle_net_agree_toddler_they |  
+| bip_39_word_underscore_11 | cycle_utility_element_describe_duty_circle_net_agree_toddler_they_crunch |  
+| bip_39_word_underscore_12 | cycle_utility_element_describe_duty_circle_net_agree_toddler_they_crunch_atom |  
+| bip_39_word_underscore_2 | cycle_utility |  
+| bip_39_word_underscore_3 | cycle_utility_element |  
+| bip_39_word_underscore_4 | cycle_utility_element_describe |  
+| bip_39_word_underscore_5 | cycle_utility_element_describe_duty |  
+| bip_39_word_underscore_6 | cycle_utility_element_describe_duty_circle |  
+| bip_39_word_underscore_7 | cycle_utility_element_describe_duty_circle_net |  
+| bip_39_word_underscore_8 | cycle_utility_element_describe_duty_circle_net_agree |  
+| bip_39_word_underscore_9 | cycle_utility_element_describe_duty_circle_net_agree_toddler |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

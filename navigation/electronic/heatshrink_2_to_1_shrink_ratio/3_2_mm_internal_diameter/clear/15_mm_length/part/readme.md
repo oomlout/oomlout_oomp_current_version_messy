@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | bamboo |  
+| bip_39_word_dash_10 | bamboo-distance-case-pull-perfect-large-unique-dinner-very-shift |  
+| bip_39_word_dash_11 | bamboo-distance-case-pull-perfect-large-unique-dinner-very-shift-garden |  
+| bip_39_word_dash_12 | bamboo-distance-case-pull-perfect-large-unique-dinner-very-shift-garden-ankle |  
+| bip_39_word_dash_2 | bamboo-distance |  
+| bip_39_word_dash_3 | bamboo-distance-case |  
+| bip_39_word_dash_4 | bamboo-distance-case-pull |  
+| bip_39_word_dash_5 | bamboo-distance-case-pull-perfect |  
+| bip_39_word_dash_6 | bamboo-distance-case-pull-perfect-large |  
+| bip_39_word_dash_7 | bamboo-distance-case-pull-perfect-large-unique |  
+| bip_39_word_dash_8 | bamboo-distance-case-pull-perfect-large-unique-dinner |  
+| bip_39_word_dash_9 | bamboo-distance-case-pull-perfect-large-unique-dinner-very |  
 | bip_39_word_new_br_1 | bamboo |  
 | bip_39_word_new_br_10 | bamboo<br>distance<br>case<br>pull<br>perfect<br>large<br>unique<br>dinner<br>very<br>shift |  
 | bip_39_word_new_br_11 | bamboo<br>distance<br>case<br>pull<br>perfect<br>large<br>unique<br>dinner<br>very<br>shift<br>garden |  
@@ -147,6 +159,18 @@ very |
 | bip_39_word_space_7 | bamboo distance case pull perfect large unique |  
 | bip_39_word_space_8 | bamboo distance case pull perfect large unique dinner |  
 | bip_39_word_space_9 | bamboo distance case pull perfect large unique dinner very |  
+| bip_39_word_underscore_1 | bamboo |  
+| bip_39_word_underscore_10 | bamboo_distance_case_pull_perfect_large_unique_dinner_very_shift |  
+| bip_39_word_underscore_11 | bamboo_distance_case_pull_perfect_large_unique_dinner_very_shift_garden |  
+| bip_39_word_underscore_12 | bamboo_distance_case_pull_perfect_large_unique_dinner_very_shift_garden_ankle |  
+| bip_39_word_underscore_2 | bamboo_distance |  
+| bip_39_word_underscore_3 | bamboo_distance_case |  
+| bip_39_word_underscore_4 | bamboo_distance_case_pull |  
+| bip_39_word_underscore_5 | bamboo_distance_case_pull_perfect |  
+| bip_39_word_underscore_6 | bamboo_distance_case_pull_perfect_large |  
+| bip_39_word_underscore_7 | bamboo_distance_case_pull_perfect_large_unique |  
+| bip_39_word_underscore_8 | bamboo_distance_case_pull_perfect_large_unique_dinner |  
+| bip_39_word_underscore_9 | bamboo_distance_case_pull_perfect_large_unique_dinner_very |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

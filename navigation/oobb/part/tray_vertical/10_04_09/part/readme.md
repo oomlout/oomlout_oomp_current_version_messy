@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | correct |  
+| bip_39_word_dash_10 | correct-army-nerve-letter-margin-risk-legal-poet-inmate-gown |  
+| bip_39_word_dash_11 | correct-army-nerve-letter-margin-risk-legal-poet-inmate-gown-equal |  
+| bip_39_word_dash_12 | correct-army-nerve-letter-margin-risk-legal-poet-inmate-gown-equal-annual |  
+| bip_39_word_dash_2 | correct-army |  
+| bip_39_word_dash_3 | correct-army-nerve |  
+| bip_39_word_dash_4 | correct-army-nerve-letter |  
+| bip_39_word_dash_5 | correct-army-nerve-letter-margin |  
+| bip_39_word_dash_6 | correct-army-nerve-letter-margin-risk |  
+| bip_39_word_dash_7 | correct-army-nerve-letter-margin-risk-legal |  
+| bip_39_word_dash_8 | correct-army-nerve-letter-margin-risk-legal-poet |  
+| bip_39_word_dash_9 | correct-army-nerve-letter-margin-risk-legal-poet-inmate |  
 | bip_39_word_new_br_1 | correct |  
 | bip_39_word_new_br_10 | correct<br>army<br>nerve<br>letter<br>margin<br>risk<br>legal<br>poet<br>inmate<br>gown |  
 | bip_39_word_new_br_11 | correct<br>army<br>nerve<br>letter<br>margin<br>risk<br>legal<br>poet<br>inmate<br>gown<br>equal |  
@@ -147,6 +159,18 @@ inmate |
 | bip_39_word_space_7 | correct army nerve letter margin risk legal |  
 | bip_39_word_space_8 | correct army nerve letter margin risk legal poet |  
 | bip_39_word_space_9 | correct army nerve letter margin risk legal poet inmate |  
+| bip_39_word_underscore_1 | correct |  
+| bip_39_word_underscore_10 | correct_army_nerve_letter_margin_risk_legal_poet_inmate_gown |  
+| bip_39_word_underscore_11 | correct_army_nerve_letter_margin_risk_legal_poet_inmate_gown_equal |  
+| bip_39_word_underscore_12 | correct_army_nerve_letter_margin_risk_legal_poet_inmate_gown_equal_annual |  
+| bip_39_word_underscore_2 | correct_army |  
+| bip_39_word_underscore_3 | correct_army_nerve |  
+| bip_39_word_underscore_4 | correct_army_nerve_letter |  
+| bip_39_word_underscore_5 | correct_army_nerve_letter_margin |  
+| bip_39_word_underscore_6 | correct_army_nerve_letter_margin_risk |  
+| bip_39_word_underscore_7 | correct_army_nerve_letter_margin_risk_legal |  
+| bip_39_word_underscore_8 | correct_army_nerve_letter_margin_risk_legal_poet |  
+| bip_39_word_underscore_9 | correct_army_nerve_letter_margin_risk_legal_poet_inmate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

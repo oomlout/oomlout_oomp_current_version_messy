@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | emotion |  
+| bip_39_word_dash_10 | emotion-glide-slam-talk-wrap-solid-pizza-useful-waste-pond |  
+| bip_39_word_dash_11 | emotion-glide-slam-talk-wrap-solid-pizza-useful-waste-pond-grape |  
+| bip_39_word_dash_12 | emotion-glide-slam-talk-wrap-solid-pizza-useful-waste-pond-grape-arrow |  
+| bip_39_word_dash_2 | emotion-glide |  
+| bip_39_word_dash_3 | emotion-glide-slam |  
+| bip_39_word_dash_4 | emotion-glide-slam-talk |  
+| bip_39_word_dash_5 | emotion-glide-slam-talk-wrap |  
+| bip_39_word_dash_6 | emotion-glide-slam-talk-wrap-solid |  
+| bip_39_word_dash_7 | emotion-glide-slam-talk-wrap-solid-pizza |  
+| bip_39_word_dash_8 | emotion-glide-slam-talk-wrap-solid-pizza-useful |  
+| bip_39_word_dash_9 | emotion-glide-slam-talk-wrap-solid-pizza-useful-waste |  
 | bip_39_word_new_br_1 | emotion |  
 | bip_39_word_new_br_10 | emotion<br>glide<br>slam<br>talk<br>wrap<br>solid<br>pizza<br>useful<br>waste<br>pond |  
 | bip_39_word_new_br_11 | emotion<br>glide<br>slam<br>talk<br>wrap<br>solid<br>pizza<br>useful<br>waste<br>pond<br>grape |  
@@ -147,6 +159,18 @@ waste |
 | bip_39_word_space_7 | emotion glide slam talk wrap solid pizza |  
 | bip_39_word_space_8 | emotion glide slam talk wrap solid pizza useful |  
 | bip_39_word_space_9 | emotion glide slam talk wrap solid pizza useful waste |  
+| bip_39_word_underscore_1 | emotion |  
+| bip_39_word_underscore_10 | emotion_glide_slam_talk_wrap_solid_pizza_useful_waste_pond |  
+| bip_39_word_underscore_11 | emotion_glide_slam_talk_wrap_solid_pizza_useful_waste_pond_grape |  
+| bip_39_word_underscore_12 | emotion_glide_slam_talk_wrap_solid_pizza_useful_waste_pond_grape_arrow |  
+| bip_39_word_underscore_2 | emotion_glide |  
+| bip_39_word_underscore_3 | emotion_glide_slam |  
+| bip_39_word_underscore_4 | emotion_glide_slam_talk |  
+| bip_39_word_underscore_5 | emotion_glide_slam_talk_wrap |  
+| bip_39_word_underscore_6 | emotion_glide_slam_talk_wrap_solid |  
+| bip_39_word_underscore_7 | emotion_glide_slam_talk_wrap_solid_pizza |  
+| bip_39_word_underscore_8 | emotion_glide_slam_talk_wrap_solid_pizza_useful |  
+| bip_39_word_underscore_9 | emotion_glide_slam_talk_wrap_solid_pizza_useful_waste |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

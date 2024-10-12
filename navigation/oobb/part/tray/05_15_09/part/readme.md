@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | lake |  
+| bip_39_word_dash_10 | lake-butter-hotel-broken-talent-easy-sample-buyer-snack-cancel |  
+| bip_39_word_dash_11 | lake-butter-hotel-broken-talent-easy-sample-buyer-snack-cancel-earth |  
+| bip_39_word_dash_12 | lake-butter-hotel-broken-talent-easy-sample-buyer-snack-cancel-earth-animal |  
+| bip_39_word_dash_2 | lake-butter |  
+| bip_39_word_dash_3 | lake-butter-hotel |  
+| bip_39_word_dash_4 | lake-butter-hotel-broken |  
+| bip_39_word_dash_5 | lake-butter-hotel-broken-talent |  
+| bip_39_word_dash_6 | lake-butter-hotel-broken-talent-easy |  
+| bip_39_word_dash_7 | lake-butter-hotel-broken-talent-easy-sample |  
+| bip_39_word_dash_8 | lake-butter-hotel-broken-talent-easy-sample-buyer |  
+| bip_39_word_dash_9 | lake-butter-hotel-broken-talent-easy-sample-buyer-snack |  
 | bip_39_word_new_br_1 | lake |  
 | bip_39_word_new_br_10 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel |  
 | bip_39_word_new_br_11 | lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel<br>earth |  
@@ -147,6 +159,18 @@ snack |
 | bip_39_word_space_7 | lake butter hotel broken talent easy sample |  
 | bip_39_word_space_8 | lake butter hotel broken talent easy sample buyer |  
 | bip_39_word_space_9 | lake butter hotel broken talent easy sample buyer snack |  
+| bip_39_word_underscore_1 | lake |  
+| bip_39_word_underscore_10 | lake_butter_hotel_broken_talent_easy_sample_buyer_snack_cancel |  
+| bip_39_word_underscore_11 | lake_butter_hotel_broken_talent_easy_sample_buyer_snack_cancel_earth |  
+| bip_39_word_underscore_12 | lake_butter_hotel_broken_talent_easy_sample_buyer_snack_cancel_earth_animal |  
+| bip_39_word_underscore_2 | lake_butter |  
+| bip_39_word_underscore_3 | lake_butter_hotel |  
+| bip_39_word_underscore_4 | lake_butter_hotel_broken |  
+| bip_39_word_underscore_5 | lake_butter_hotel_broken_talent |  
+| bip_39_word_underscore_6 | lake_butter_hotel_broken_talent_easy |  
+| bip_39_word_underscore_7 | lake_butter_hotel_broken_talent_easy_sample |  
+| bip_39_word_underscore_8 | lake_butter_hotel_broken_talent_easy_sample_buyer |  
+| bip_39_word_underscore_9 | lake_butter_hotel_broken_talent_easy_sample_buyer_snack |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

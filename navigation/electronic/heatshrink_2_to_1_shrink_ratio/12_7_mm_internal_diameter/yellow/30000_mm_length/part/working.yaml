@@ -1,3 +1,15 @@
+bip_39_word_dash_1: broken
+bip_39_word_dash_10: broken-easy-turn-attack-blouse-program-coin-library-domain-echo
+bip_39_word_dash_11: broken-easy-turn-attack-blouse-program-coin-library-domain-echo-powder
+bip_39_word_dash_12: broken-easy-turn-attack-blouse-program-coin-library-domain-echo-powder-accuse
+bip_39_word_dash_2: broken-easy
+bip_39_word_dash_3: broken-easy-turn
+bip_39_word_dash_4: broken-easy-turn-attack
+bip_39_word_dash_5: broken-easy-turn-attack-blouse
+bip_39_word_dash_6: broken-easy-turn-attack-blouse-program
+bip_39_word_dash_7: broken-easy-turn-attack-blouse-program-coin
+bip_39_word_dash_8: broken-easy-turn-attack-blouse-program-coin-library
+bip_39_word_dash_9: broken-easy-turn-attack-blouse-program-coin-library-domain
 bip_39_word_new_br_1: broken
 bip_39_word_new_br_10: broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library<br>domain<br>echo
 bip_39_word_new_br_11: broken<br>easy<br>turn<br>attack<br>blouse<br>program<br>coin<br>library<br>domain<br>echo<br>powder
@@ -193,6 +205,18 @@ bip_39_word_space_6: broken easy turn attack blouse program
 bip_39_word_space_7: broken easy turn attack blouse program coin
 bip_39_word_space_8: broken easy turn attack blouse program coin library
 bip_39_word_space_9: broken easy turn attack blouse program coin library domain
+bip_39_word_underscore_1: broken
+bip_39_word_underscore_10: broken_easy_turn_attack_blouse_program_coin_library_domain_echo
+bip_39_word_underscore_11: broken_easy_turn_attack_blouse_program_coin_library_domain_echo_powder
+bip_39_word_underscore_12: broken_easy_turn_attack_blouse_program_coin_library_domain_echo_powder_accuse
+bip_39_word_underscore_2: broken_easy
+bip_39_word_underscore_3: broken_easy_turn
+bip_39_word_underscore_4: broken_easy_turn_attack
+bip_39_word_underscore_5: broken_easy_turn_attack_blouse
+bip_39_word_underscore_6: broken_easy_turn_attack_blouse_program
+bip_39_word_underscore_7: broken_easy_turn_attack_blouse_program_coin
+bip_39_word_underscore_8: broken_easy_turn_attack_blouse_program_coin_library
+bip_39_word_underscore_9: broken_easy_turn_attack_blouse_program_coin_library_domain
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

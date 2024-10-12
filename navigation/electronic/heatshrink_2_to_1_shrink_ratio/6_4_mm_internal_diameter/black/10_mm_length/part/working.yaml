@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cash
+bip_39_word_dash_10: cash-peanut-school-orphan-what-beef-range-pave-model-kangaroo
+bip_39_word_dash_11: cash-peanut-school-orphan-what-beef-range-pave-model-kangaroo-solid
+bip_39_word_dash_12: cash-peanut-school-orphan-what-beef-range-pave-model-kangaroo-solid-angry
+bip_39_word_dash_2: cash-peanut
+bip_39_word_dash_3: cash-peanut-school
+bip_39_word_dash_4: cash-peanut-school-orphan
+bip_39_word_dash_5: cash-peanut-school-orphan-what
+bip_39_word_dash_6: cash-peanut-school-orphan-what-beef
+bip_39_word_dash_7: cash-peanut-school-orphan-what-beef-range
+bip_39_word_dash_8: cash-peanut-school-orphan-what-beef-range-pave
+bip_39_word_dash_9: cash-peanut-school-orphan-what-beef-range-pave-model
 bip_39_word_new_br_1: cash
 bip_39_word_new_br_10: cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave<br>model<br>kangaroo
 bip_39_word_new_br_11: cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave<br>model<br>kangaroo<br>solid
@@ -193,6 +205,18 @@ bip_39_word_space_6: cash peanut school orphan what beef
 bip_39_word_space_7: cash peanut school orphan what beef range
 bip_39_word_space_8: cash peanut school orphan what beef range pave
 bip_39_word_space_9: cash peanut school orphan what beef range pave model
+bip_39_word_underscore_1: cash
+bip_39_word_underscore_10: cash_peanut_school_orphan_what_beef_range_pave_model_kangaroo
+bip_39_word_underscore_11: cash_peanut_school_orphan_what_beef_range_pave_model_kangaroo_solid
+bip_39_word_underscore_12: cash_peanut_school_orphan_what_beef_range_pave_model_kangaroo_solid_angry
+bip_39_word_underscore_2: cash_peanut
+bip_39_word_underscore_3: cash_peanut_school
+bip_39_word_underscore_4: cash_peanut_school_orphan
+bip_39_word_underscore_5: cash_peanut_school_orphan_what
+bip_39_word_underscore_6: cash_peanut_school_orphan_what_beef
+bip_39_word_underscore_7: cash_peanut_school_orphan_what_beef_range
+bip_39_word_underscore_8: cash_peanut_school_orphan_what_beef_range_pave
+bip_39_word_underscore_9: cash_peanut_school_orphan_what_beef_range_pave_model
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | potato |  
+| bip_39_word_dash_10 | potato-side-project-library-wine-scene-success-lamp-ten-diary |  
+| bip_39_word_dash_11 | potato-side-project-library-wine-scene-success-lamp-ten-diary-room |  
+| bip_39_word_dash_12 | potato-side-project-library-wine-scene-success-lamp-ten-diary-room-act |  
+| bip_39_word_dash_2 | potato-side |  
+| bip_39_word_dash_3 | potato-side-project |  
+| bip_39_word_dash_4 | potato-side-project-library |  
+| bip_39_word_dash_5 | potato-side-project-library-wine |  
+| bip_39_word_dash_6 | potato-side-project-library-wine-scene |  
+| bip_39_word_dash_7 | potato-side-project-library-wine-scene-success |  
+| bip_39_word_dash_8 | potato-side-project-library-wine-scene-success-lamp |  
+| bip_39_word_dash_9 | potato-side-project-library-wine-scene-success-lamp-ten |  
 | bip_39_word_new_br_1 | potato |  
 | bip_39_word_new_br_10 | potato<br>side<br>project<br>library<br>wine<br>scene<br>success<br>lamp<br>ten<br>diary |  
 | bip_39_word_new_br_11 | potato<br>side<br>project<br>library<br>wine<br>scene<br>success<br>lamp<br>ten<br>diary<br>room |  
@@ -147,6 +159,18 @@ ten |
 | bip_39_word_space_7 | potato side project library wine scene success |  
 | bip_39_word_space_8 | potato side project library wine scene success lamp |  
 | bip_39_word_space_9 | potato side project library wine scene success lamp ten |  
+| bip_39_word_underscore_1 | potato |  
+| bip_39_word_underscore_10 | potato_side_project_library_wine_scene_success_lamp_ten_diary |  
+| bip_39_word_underscore_11 | potato_side_project_library_wine_scene_success_lamp_ten_diary_room |  
+| bip_39_word_underscore_12 | potato_side_project_library_wine_scene_success_lamp_ten_diary_room_act |  
+| bip_39_word_underscore_2 | potato_side |  
+| bip_39_word_underscore_3 | potato_side_project |  
+| bip_39_word_underscore_4 | potato_side_project_library |  
+| bip_39_word_underscore_5 | potato_side_project_library_wine |  
+| bip_39_word_underscore_6 | potato_side_project_library_wine_scene |  
+| bip_39_word_underscore_7 | potato_side_project_library_wine_scene_success |  
+| bip_39_word_underscore_8 | potato_side_project_library_wine_scene_success_lamp |  
+| bip_39_word_underscore_9 | potato_side_project_library_wine_scene_success_lamp_ten |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

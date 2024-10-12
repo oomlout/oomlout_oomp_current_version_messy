@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bar
+bip_39_word_dash_10: bar-gun-kidney-upon-find-badge-market-best-bus-minimum
+bip_39_word_dash_11: bar-gun-kidney-upon-find-badge-market-best-bus-minimum-crisp
+bip_39_word_dash_12: bar-gun-kidney-upon-find-badge-market-best-bus-minimum-crisp-absent
+bip_39_word_dash_2: bar-gun
+bip_39_word_dash_3: bar-gun-kidney
+bip_39_word_dash_4: bar-gun-kidney-upon
+bip_39_word_dash_5: bar-gun-kidney-upon-find
+bip_39_word_dash_6: bar-gun-kidney-upon-find-badge
+bip_39_word_dash_7: bar-gun-kidney-upon-find-badge-market
+bip_39_word_dash_8: bar-gun-kidney-upon-find-badge-market-best
+bip_39_word_dash_9: bar-gun-kidney-upon-find-badge-market-best-bus
 bip_39_word_new_br_1: bar
 bip_39_word_new_br_10: bar<br>gun<br>kidney<br>upon<br>find<br>badge<br>market<br>best<br>bus<br>minimum
 bip_39_word_new_br_11: bar<br>gun<br>kidney<br>upon<br>find<br>badge<br>market<br>best<br>bus<br>minimum<br>crisp
@@ -192,6 +204,18 @@ bip_39_word_space_6: bar gun kidney upon find badge
 bip_39_word_space_7: bar gun kidney upon find badge market
 bip_39_word_space_8: bar gun kidney upon find badge market best
 bip_39_word_space_9: bar gun kidney upon find badge market best bus
+bip_39_word_underscore_1: bar
+bip_39_word_underscore_10: bar_gun_kidney_upon_find_badge_market_best_bus_minimum
+bip_39_word_underscore_11: bar_gun_kidney_upon_find_badge_market_best_bus_minimum_crisp
+bip_39_word_underscore_12: bar_gun_kidney_upon_find_badge_market_best_bus_minimum_crisp_absent
+bip_39_word_underscore_2: bar_gun
+bip_39_word_underscore_3: bar_gun_kidney
+bip_39_word_underscore_4: bar_gun_kidney_upon
+bip_39_word_underscore_5: bar_gun_kidney_upon_find
+bip_39_word_underscore_6: bar_gun_kidney_upon_find_badge
+bip_39_word_underscore_7: bar_gun_kidney_upon_find_badge_market
+bip_39_word_underscore_8: bar_gun_kidney_upon_find_badge_market_best
+bip_39_word_underscore_9: bar_gun_kidney_upon_find_badge_market_best_bus
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

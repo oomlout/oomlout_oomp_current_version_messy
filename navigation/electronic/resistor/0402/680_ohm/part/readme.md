@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | valley |  
+| bip_39_word_dash_10 | valley-bacon-diesel-love-fashion-later-fantasy-craft-word-lumber |  
+| bip_39_word_dash_11 | valley-bacon-diesel-love-fashion-later-fantasy-craft-word-lumber-toward |  
+| bip_39_word_dash_12 | valley-bacon-diesel-love-fashion-later-fantasy-craft-word-lumber-toward-amateur |  
+| bip_39_word_dash_2 | valley-bacon |  
+| bip_39_word_dash_3 | valley-bacon-diesel |  
+| bip_39_word_dash_4 | valley-bacon-diesel-love |  
+| bip_39_word_dash_5 | valley-bacon-diesel-love-fashion |  
+| bip_39_word_dash_6 | valley-bacon-diesel-love-fashion-later |  
+| bip_39_word_dash_7 | valley-bacon-diesel-love-fashion-later-fantasy |  
+| bip_39_word_dash_8 | valley-bacon-diesel-love-fashion-later-fantasy-craft |  
+| bip_39_word_dash_9 | valley-bacon-diesel-love-fashion-later-fantasy-craft-word |  
 | bip_39_word_new_br_1 | valley |  
 | bip_39_word_new_br_10 | valley<br>bacon<br>diesel<br>love<br>fashion<br>later<br>fantasy<br>craft<br>word<br>lumber |  
 | bip_39_word_new_br_11 | valley<br>bacon<br>diesel<br>love<br>fashion<br>later<br>fantasy<br>craft<br>word<br>lumber<br>toward |  
@@ -147,6 +159,18 @@ word |
 | bip_39_word_space_7 | valley bacon diesel love fashion later fantasy |  
 | bip_39_word_space_8 | valley bacon diesel love fashion later fantasy craft |  
 | bip_39_word_space_9 | valley bacon diesel love fashion later fantasy craft word |  
+| bip_39_word_underscore_1 | valley |  
+| bip_39_word_underscore_10 | valley_bacon_diesel_love_fashion_later_fantasy_craft_word_lumber |  
+| bip_39_word_underscore_11 | valley_bacon_diesel_love_fashion_later_fantasy_craft_word_lumber_toward |  
+| bip_39_word_underscore_12 | valley_bacon_diesel_love_fashion_later_fantasy_craft_word_lumber_toward_amateur |  
+| bip_39_word_underscore_2 | valley_bacon |  
+| bip_39_word_underscore_3 | valley_bacon_diesel |  
+| bip_39_word_underscore_4 | valley_bacon_diesel_love |  
+| bip_39_word_underscore_5 | valley_bacon_diesel_love_fashion |  
+| bip_39_word_underscore_6 | valley_bacon_diesel_love_fashion_later |  
+| bip_39_word_underscore_7 | valley_bacon_diesel_love_fashion_later_fantasy |  
+| bip_39_word_underscore_8 | valley_bacon_diesel_love_fashion_later_fantasy_craft |  
+| bip_39_word_underscore_9 | valley_bacon_diesel_love_fashion_later_fantasy_craft_word |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

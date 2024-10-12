@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | language |  
+| bip_39_word_dash_10 | language-village-budget-thought-sibling-ripple-defense-salute-like-design |  
+| bip_39_word_dash_11 | language-village-budget-thought-sibling-ripple-defense-salute-like-design-borrow |  
+| bip_39_word_dash_12 | language-village-budget-thought-sibling-ripple-defense-salute-like-design-borrow-atom |  
+| bip_39_word_dash_2 | language-village |  
+| bip_39_word_dash_3 | language-village-budget |  
+| bip_39_word_dash_4 | language-village-budget-thought |  
+| bip_39_word_dash_5 | language-village-budget-thought-sibling |  
+| bip_39_word_dash_6 | language-village-budget-thought-sibling-ripple |  
+| bip_39_word_dash_7 | language-village-budget-thought-sibling-ripple-defense |  
+| bip_39_word_dash_8 | language-village-budget-thought-sibling-ripple-defense-salute |  
+| bip_39_word_dash_9 | language-village-budget-thought-sibling-ripple-defense-salute-like |  
 | bip_39_word_new_br_1 | language |  
 | bip_39_word_new_br_10 | language<br>village<br>budget<br>thought<br>sibling<br>ripple<br>defense<br>salute<br>like<br>design |  
 | bip_39_word_new_br_11 | language<br>village<br>budget<br>thought<br>sibling<br>ripple<br>defense<br>salute<br>like<br>design<br>borrow |  
@@ -147,6 +159,18 @@ like |
 | bip_39_word_space_7 | language village budget thought sibling ripple defense |  
 | bip_39_word_space_8 | language village budget thought sibling ripple defense salute |  
 | bip_39_word_space_9 | language village budget thought sibling ripple defense salute like |  
+| bip_39_word_underscore_1 | language |  
+| bip_39_word_underscore_10 | language_village_budget_thought_sibling_ripple_defense_salute_like_design |  
+| bip_39_word_underscore_11 | language_village_budget_thought_sibling_ripple_defense_salute_like_design_borrow |  
+| bip_39_word_underscore_12 | language_village_budget_thought_sibling_ripple_defense_salute_like_design_borrow_atom |  
+| bip_39_word_underscore_2 | language_village |  
+| bip_39_word_underscore_3 | language_village_budget |  
+| bip_39_word_underscore_4 | language_village_budget_thought |  
+| bip_39_word_underscore_5 | language_village_budget_thought_sibling |  
+| bip_39_word_underscore_6 | language_village_budget_thought_sibling_ripple |  
+| bip_39_word_underscore_7 | language_village_budget_thought_sibling_ripple_defense |  
+| bip_39_word_underscore_8 | language_village_budget_thought_sibling_ripple_defense_salute |  
+| bip_39_word_underscore_9 | language_village_budget_thought_sibling_ripple_defense_salute_like |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

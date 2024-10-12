@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | soccer |  
+| bip_39_word_dash_10 | soccer-board-program-matter-bacon-have-round-happy-park-service |  
+| bip_39_word_dash_11 | soccer-board-program-matter-bacon-have-round-happy-park-service-canoe |  
+| bip_39_word_dash_12 | soccer-board-program-matter-bacon-have-round-happy-park-service-canoe-assault |  
+| bip_39_word_dash_2 | soccer-board |  
+| bip_39_word_dash_3 | soccer-board-program |  
+| bip_39_word_dash_4 | soccer-board-program-matter |  
+| bip_39_word_dash_5 | soccer-board-program-matter-bacon |  
+| bip_39_word_dash_6 | soccer-board-program-matter-bacon-have |  
+| bip_39_word_dash_7 | soccer-board-program-matter-bacon-have-round |  
+| bip_39_word_dash_8 | soccer-board-program-matter-bacon-have-round-happy |  
+| bip_39_word_dash_9 | soccer-board-program-matter-bacon-have-round-happy-park |  
 | bip_39_word_new_br_1 | soccer |  
 | bip_39_word_new_br_10 | soccer<br>board<br>program<br>matter<br>bacon<br>have<br>round<br>happy<br>park<br>service |  
 | bip_39_word_new_br_11 | soccer<br>board<br>program<br>matter<br>bacon<br>have<br>round<br>happy<br>park<br>service<br>canoe |  
@@ -147,6 +159,18 @@ park |
 | bip_39_word_space_7 | soccer board program matter bacon have round |  
 | bip_39_word_space_8 | soccer board program matter bacon have round happy |  
 | bip_39_word_space_9 | soccer board program matter bacon have round happy park |  
+| bip_39_word_underscore_1 | soccer |  
+| bip_39_word_underscore_10 | soccer_board_program_matter_bacon_have_round_happy_park_service |  
+| bip_39_word_underscore_11 | soccer_board_program_matter_bacon_have_round_happy_park_service_canoe |  
+| bip_39_word_underscore_12 | soccer_board_program_matter_bacon_have_round_happy_park_service_canoe_assault |  
+| bip_39_word_underscore_2 | soccer_board |  
+| bip_39_word_underscore_3 | soccer_board_program |  
+| bip_39_word_underscore_4 | soccer_board_program_matter |  
+| bip_39_word_underscore_5 | soccer_board_program_matter_bacon |  
+| bip_39_word_underscore_6 | soccer_board_program_matter_bacon_have |  
+| bip_39_word_underscore_7 | soccer_board_program_matter_bacon_have_round |  
+| bip_39_word_underscore_8 | soccer_board_program_matter_bacon_have_round_happy |  
+| bip_39_word_underscore_9 | soccer_board_program_matter_bacon_have_round_happy_park |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

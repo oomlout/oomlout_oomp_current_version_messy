@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | require |  
+| bip_39_word_dash_10 | require-sting-angle-chair-panel-notice-apple-elder-grit-pyramid |  
+| bip_39_word_dash_11 | require-sting-angle-chair-panel-notice-apple-elder-grit-pyramid-person |  
+| bip_39_word_dash_12 | require-sting-angle-chair-panel-notice-apple-elder-grit-pyramid-person-apart |  
+| bip_39_word_dash_2 | require-sting |  
+| bip_39_word_dash_3 | require-sting-angle |  
+| bip_39_word_dash_4 | require-sting-angle-chair |  
+| bip_39_word_dash_5 | require-sting-angle-chair-panel |  
+| bip_39_word_dash_6 | require-sting-angle-chair-panel-notice |  
+| bip_39_word_dash_7 | require-sting-angle-chair-panel-notice-apple |  
+| bip_39_word_dash_8 | require-sting-angle-chair-panel-notice-apple-elder |  
+| bip_39_word_dash_9 | require-sting-angle-chair-panel-notice-apple-elder-grit |  
 | bip_39_word_new_br_1 | require |  
 | bip_39_word_new_br_10 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder<br>grit<br>pyramid |  
 | bip_39_word_new_br_11 | require<br>sting<br>angle<br>chair<br>panel<br>notice<br>apple<br>elder<br>grit<br>pyramid<br>person |  
@@ -147,6 +159,18 @@ grit |
 | bip_39_word_space_7 | require sting angle chair panel notice apple |  
 | bip_39_word_space_8 | require sting angle chair panel notice apple elder |  
 | bip_39_word_space_9 | require sting angle chair panel notice apple elder grit |  
+| bip_39_word_underscore_1 | require |  
+| bip_39_word_underscore_10 | require_sting_angle_chair_panel_notice_apple_elder_grit_pyramid |  
+| bip_39_word_underscore_11 | require_sting_angle_chair_panel_notice_apple_elder_grit_pyramid_person |  
+| bip_39_word_underscore_12 | require_sting_angle_chair_panel_notice_apple_elder_grit_pyramid_person_apart |  
+| bip_39_word_underscore_2 | require_sting |  
+| bip_39_word_underscore_3 | require_sting_angle |  
+| bip_39_word_underscore_4 | require_sting_angle_chair |  
+| bip_39_word_underscore_5 | require_sting_angle_chair_panel |  
+| bip_39_word_underscore_6 | require_sting_angle_chair_panel_notice |  
+| bip_39_word_underscore_7 | require_sting_angle_chair_panel_notice_apple |  
+| bip_39_word_underscore_8 | require_sting_angle_chair_panel_notice_apple_elder |  
+| bip_39_word_underscore_9 | require_sting_angle_chair_panel_notice_apple_elder_grit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | grief |  
+| bip_39_word_dash_10 | grief-cloud-waste-learn-wide-ankle-knife-game-close-fatigue |  
+| bip_39_word_dash_11 | grief-cloud-waste-learn-wide-ankle-knife-game-close-fatigue-hidden |  
+| bip_39_word_dash_12 | grief-cloud-waste-learn-wide-ankle-knife-game-close-fatigue-hidden-anxiety |  
+| bip_39_word_dash_2 | grief-cloud |  
+| bip_39_word_dash_3 | grief-cloud-waste |  
+| bip_39_word_dash_4 | grief-cloud-waste-learn |  
+| bip_39_word_dash_5 | grief-cloud-waste-learn-wide |  
+| bip_39_word_dash_6 | grief-cloud-waste-learn-wide-ankle |  
+| bip_39_word_dash_7 | grief-cloud-waste-learn-wide-ankle-knife |  
+| bip_39_word_dash_8 | grief-cloud-waste-learn-wide-ankle-knife-game |  
+| bip_39_word_dash_9 | grief-cloud-waste-learn-wide-ankle-knife-game-close |  
 | bip_39_word_new_br_1 | grief |  
 | bip_39_word_new_br_10 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue |  
 | bip_39_word_new_br_11 | grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue<br>hidden |  
@@ -147,6 +159,18 @@ close |
 | bip_39_word_space_7 | grief cloud waste learn wide ankle knife |  
 | bip_39_word_space_8 | grief cloud waste learn wide ankle knife game |  
 | bip_39_word_space_9 | grief cloud waste learn wide ankle knife game close |  
+| bip_39_word_underscore_1 | grief |  
+| bip_39_word_underscore_10 | grief_cloud_waste_learn_wide_ankle_knife_game_close_fatigue |  
+| bip_39_word_underscore_11 | grief_cloud_waste_learn_wide_ankle_knife_game_close_fatigue_hidden |  
+| bip_39_word_underscore_12 | grief_cloud_waste_learn_wide_ankle_knife_game_close_fatigue_hidden_anxiety |  
+| bip_39_word_underscore_2 | grief_cloud |  
+| bip_39_word_underscore_3 | grief_cloud_waste |  
+| bip_39_word_underscore_4 | grief_cloud_waste_learn |  
+| bip_39_word_underscore_5 | grief_cloud_waste_learn_wide |  
+| bip_39_word_underscore_6 | grief_cloud_waste_learn_wide_ankle |  
+| bip_39_word_underscore_7 | grief_cloud_waste_learn_wide_ankle_knife |  
+| bip_39_word_underscore_8 | grief_cloud_waste_learn_wide_ankle_knife_game |  
+| bip_39_word_underscore_9 | grief_cloud_waste_learn_wide_ankle_knife_game_close |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

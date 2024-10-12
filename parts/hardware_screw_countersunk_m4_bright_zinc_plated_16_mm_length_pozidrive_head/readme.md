@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | brief |  
+| bip_39_word_dash_10 | brief-orphan-boring-explain-off-indicate-small-betray-issue-engine |  
+| bip_39_word_dash_11 | brief-orphan-boring-explain-off-indicate-small-betray-issue-engine-happy |  
+| bip_39_word_dash_12 | brief-orphan-boring-explain-off-indicate-small-betray-issue-engine-happy-across |  
+| bip_39_word_dash_2 | brief-orphan |  
+| bip_39_word_dash_3 | brief-orphan-boring |  
+| bip_39_word_dash_4 | brief-orphan-boring-explain |  
+| bip_39_word_dash_5 | brief-orphan-boring-explain-off |  
+| bip_39_word_dash_6 | brief-orphan-boring-explain-off-indicate |  
+| bip_39_word_dash_7 | brief-orphan-boring-explain-off-indicate-small |  
+| bip_39_word_dash_8 | brief-orphan-boring-explain-off-indicate-small-betray |  
+| bip_39_word_dash_9 | brief-orphan-boring-explain-off-indicate-small-betray-issue |  
 | bip_39_word_new_br_1 | brief |  
 | bip_39_word_new_br_10 | brief<br>orphan<br>boring<br>explain<br>off<br>indicate<br>small<br>betray<br>issue<br>engine |  
 | bip_39_word_new_br_11 | brief<br>orphan<br>boring<br>explain<br>off<br>indicate<br>small<br>betray<br>issue<br>engine<br>happy |  
@@ -147,6 +159,18 @@ issue |
 | bip_39_word_space_7 | brief orphan boring explain off indicate small |  
 | bip_39_word_space_8 | brief orphan boring explain off indicate small betray |  
 | bip_39_word_space_9 | brief orphan boring explain off indicate small betray issue |  
+| bip_39_word_underscore_1 | brief |  
+| bip_39_word_underscore_10 | brief_orphan_boring_explain_off_indicate_small_betray_issue_engine |  
+| bip_39_word_underscore_11 | brief_orphan_boring_explain_off_indicate_small_betray_issue_engine_happy |  
+| bip_39_word_underscore_12 | brief_orphan_boring_explain_off_indicate_small_betray_issue_engine_happy_across |  
+| bip_39_word_underscore_2 | brief_orphan |  
+| bip_39_word_underscore_3 | brief_orphan_boring |  
+| bip_39_word_underscore_4 | brief_orphan_boring_explain |  
+| bip_39_word_underscore_5 | brief_orphan_boring_explain_off |  
+| bip_39_word_underscore_6 | brief_orphan_boring_explain_off_indicate |  
+| bip_39_word_underscore_7 | brief_orphan_boring_explain_off_indicate_small |  
+| bip_39_word_underscore_8 | brief_orphan_boring_explain_off_indicate_small_betray |  
+| bip_39_word_underscore_9 | brief_orphan_boring_explain_off_indicate_small_betray_issue |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | disorder |  
+| bip_39_word_dash_10 | disorder-credit-fun-thought-jump-suffer-opera-cart-muffin-benefit |  
+| bip_39_word_dash_11 | disorder-credit-fun-thought-jump-suffer-opera-cart-muffin-benefit-suffer |  
+| bip_39_word_dash_12 | disorder-credit-fun-thought-jump-suffer-opera-cart-muffin-benefit-suffer-animal |  
+| bip_39_word_dash_2 | disorder-credit |  
+| bip_39_word_dash_3 | disorder-credit-fun |  
+| bip_39_word_dash_4 | disorder-credit-fun-thought |  
+| bip_39_word_dash_5 | disorder-credit-fun-thought-jump |  
+| bip_39_word_dash_6 | disorder-credit-fun-thought-jump-suffer |  
+| bip_39_word_dash_7 | disorder-credit-fun-thought-jump-suffer-opera |  
+| bip_39_word_dash_8 | disorder-credit-fun-thought-jump-suffer-opera-cart |  
+| bip_39_word_dash_9 | disorder-credit-fun-thought-jump-suffer-opera-cart-muffin |  
 | bip_39_word_new_br_1 | disorder |  
 | bip_39_word_new_br_10 | disorder<br>credit<br>fun<br>thought<br>jump<br>suffer<br>opera<br>cart<br>muffin<br>benefit |  
 | bip_39_word_new_br_11 | disorder<br>credit<br>fun<br>thought<br>jump<br>suffer<br>opera<br>cart<br>muffin<br>benefit<br>suffer |  
@@ -147,6 +159,18 @@ muffin |
 | bip_39_word_space_7 | disorder credit fun thought jump suffer opera |  
 | bip_39_word_space_8 | disorder credit fun thought jump suffer opera cart |  
 | bip_39_word_space_9 | disorder credit fun thought jump suffer opera cart muffin |  
+| bip_39_word_underscore_1 | disorder |  
+| bip_39_word_underscore_10 | disorder_credit_fun_thought_jump_suffer_opera_cart_muffin_benefit |  
+| bip_39_word_underscore_11 | disorder_credit_fun_thought_jump_suffer_opera_cart_muffin_benefit_suffer |  
+| bip_39_word_underscore_12 | disorder_credit_fun_thought_jump_suffer_opera_cart_muffin_benefit_suffer_animal |  
+| bip_39_word_underscore_2 | disorder_credit |  
+| bip_39_word_underscore_3 | disorder_credit_fun |  
+| bip_39_word_underscore_4 | disorder_credit_fun_thought |  
+| bip_39_word_underscore_5 | disorder_credit_fun_thought_jump |  
+| bip_39_word_underscore_6 | disorder_credit_fun_thought_jump_suffer |  
+| bip_39_word_underscore_7 | disorder_credit_fun_thought_jump_suffer_opera |  
+| bip_39_word_underscore_8 | disorder_credit_fun_thought_jump_suffer_opera_cart |  
+| bip_39_word_underscore_9 | disorder_credit_fun_thought_jump_suffer_opera_cart_muffin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

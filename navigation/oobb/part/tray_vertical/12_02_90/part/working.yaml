@@ -1,3 +1,15 @@
+bip_39_word_dash_1: fury
+bip_39_word_dash_10: fury-riot-inhale-dress-awake-door-august-husband-nut-wolf
+bip_39_word_dash_11: fury-riot-inhale-dress-awake-door-august-husband-nut-wolf-grow
+bip_39_word_dash_12: fury-riot-inhale-dress-awake-door-august-husband-nut-wolf-grow-achieve
+bip_39_word_dash_2: fury-riot
+bip_39_word_dash_3: fury-riot-inhale
+bip_39_word_dash_4: fury-riot-inhale-dress
+bip_39_word_dash_5: fury-riot-inhale-dress-awake
+bip_39_word_dash_6: fury-riot-inhale-dress-awake-door
+bip_39_word_dash_7: fury-riot-inhale-dress-awake-door-august
+bip_39_word_dash_8: fury-riot-inhale-dress-awake-door-august-husband
+bip_39_word_dash_9: fury-riot-inhale-dress-awake-door-august-husband-nut
 bip_39_word_new_br_1: fury
 bip_39_word_new_br_10: fury<br>riot<br>inhale<br>dress<br>awake<br>door<br>august<br>husband<br>nut<br>wolf
 bip_39_word_new_br_11: fury<br>riot<br>inhale<br>dress<br>awake<br>door<br>august<br>husband<br>nut<br>wolf<br>grow
@@ -192,6 +204,18 @@ bip_39_word_space_6: fury riot inhale dress awake door
 bip_39_word_space_7: fury riot inhale dress awake door august
 bip_39_word_space_8: fury riot inhale dress awake door august husband
 bip_39_word_space_9: fury riot inhale dress awake door august husband nut
+bip_39_word_underscore_1: fury
+bip_39_word_underscore_10: fury_riot_inhale_dress_awake_door_august_husband_nut_wolf
+bip_39_word_underscore_11: fury_riot_inhale_dress_awake_door_august_husband_nut_wolf_grow
+bip_39_word_underscore_12: fury_riot_inhale_dress_awake_door_august_husband_nut_wolf_grow_achieve
+bip_39_word_underscore_2: fury_riot
+bip_39_word_underscore_3: fury_riot_inhale
+bip_39_word_underscore_4: fury_riot_inhale_dress
+bip_39_word_underscore_5: fury_riot_inhale_dress_awake
+bip_39_word_underscore_6: fury_riot_inhale_dress_awake_door
+bip_39_word_underscore_7: fury_riot_inhale_dress_awake_door_august
+bip_39_word_underscore_8: fury_riot_inhale_dress_awake_door_august_husband
+bip_39_word_underscore_9: fury_riot_inhale_dress_awake_door_august_husband_nut
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

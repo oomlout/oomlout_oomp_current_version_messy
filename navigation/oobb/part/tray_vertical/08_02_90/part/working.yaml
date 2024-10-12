@@ -1,3 +1,15 @@
+bip_39_word_dash_1: curtain
+bip_39_word_dash_10: curtain-royal-move-soon-jar-expire-hunt-despair-reward-secret
+bip_39_word_dash_11: curtain-royal-move-soon-jar-expire-hunt-despair-reward-secret-obscure
+bip_39_word_dash_12: curtain-royal-move-soon-jar-expire-hunt-despair-reward-secret-obscure-arrow
+bip_39_word_dash_2: curtain-royal
+bip_39_word_dash_3: curtain-royal-move
+bip_39_word_dash_4: curtain-royal-move-soon
+bip_39_word_dash_5: curtain-royal-move-soon-jar
+bip_39_word_dash_6: curtain-royal-move-soon-jar-expire
+bip_39_word_dash_7: curtain-royal-move-soon-jar-expire-hunt
+bip_39_word_dash_8: curtain-royal-move-soon-jar-expire-hunt-despair
+bip_39_word_dash_9: curtain-royal-move-soon-jar-expire-hunt-despair-reward
 bip_39_word_new_br_1: curtain
 bip_39_word_new_br_10: curtain<br>royal<br>move<br>soon<br>jar<br>expire<br>hunt<br>despair<br>reward<br>secret
 bip_39_word_new_br_11: curtain<br>royal<br>move<br>soon<br>jar<br>expire<br>hunt<br>despair<br>reward<br>secret<br>obscure
@@ -193,6 +205,18 @@ bip_39_word_space_6: curtain royal move soon jar expire
 bip_39_word_space_7: curtain royal move soon jar expire hunt
 bip_39_word_space_8: curtain royal move soon jar expire hunt despair
 bip_39_word_space_9: curtain royal move soon jar expire hunt despair reward
+bip_39_word_underscore_1: curtain
+bip_39_word_underscore_10: curtain_royal_move_soon_jar_expire_hunt_despair_reward_secret
+bip_39_word_underscore_11: curtain_royal_move_soon_jar_expire_hunt_despair_reward_secret_obscure
+bip_39_word_underscore_12: curtain_royal_move_soon_jar_expire_hunt_despair_reward_secret_obscure_arrow
+bip_39_word_underscore_2: curtain_royal
+bip_39_word_underscore_3: curtain_royal_move
+bip_39_word_underscore_4: curtain_royal_move_soon
+bip_39_word_underscore_5: curtain_royal_move_soon_jar
+bip_39_word_underscore_6: curtain_royal_move_soon_jar_expire
+bip_39_word_underscore_7: curtain_royal_move_soon_jar_expire_hunt
+bip_39_word_underscore_8: curtain_royal_move_soon_jar_expire_hunt_despair
+bip_39_word_underscore_9: curtain_royal_move_soon_jar_expire_hunt_despair_reward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

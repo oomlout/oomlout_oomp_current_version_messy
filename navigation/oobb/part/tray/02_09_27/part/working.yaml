@@ -1,3 +1,15 @@
+bip_39_word_dash_1: error
+bip_39_word_dash_10: error-junk-scene-subway-connect-lonely-burger-sentence-copper-drama
+bip_39_word_dash_11: error-junk-scene-subway-connect-lonely-burger-sentence-copper-drama-grit
+bip_39_word_dash_12: error-junk-scene-subway-connect-lonely-burger-sentence-copper-drama-grit-animal
+bip_39_word_dash_2: error-junk
+bip_39_word_dash_3: error-junk-scene
+bip_39_word_dash_4: error-junk-scene-subway
+bip_39_word_dash_5: error-junk-scene-subway-connect
+bip_39_word_dash_6: error-junk-scene-subway-connect-lonely
+bip_39_word_dash_7: error-junk-scene-subway-connect-lonely-burger
+bip_39_word_dash_8: error-junk-scene-subway-connect-lonely-burger-sentence
+bip_39_word_dash_9: error-junk-scene-subway-connect-lonely-burger-sentence-copper
 bip_39_word_new_br_1: error
 bip_39_word_new_br_10: error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama
 bip_39_word_new_br_11: error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama<br>grit
@@ -194,6 +206,18 @@ bip_39_word_space_6: error junk scene subway connect lonely
 bip_39_word_space_7: error junk scene subway connect lonely burger
 bip_39_word_space_8: error junk scene subway connect lonely burger sentence
 bip_39_word_space_9: error junk scene subway connect lonely burger sentence copper
+bip_39_word_underscore_1: error
+bip_39_word_underscore_10: error_junk_scene_subway_connect_lonely_burger_sentence_copper_drama
+bip_39_word_underscore_11: error_junk_scene_subway_connect_lonely_burger_sentence_copper_drama_grit
+bip_39_word_underscore_12: error_junk_scene_subway_connect_lonely_burger_sentence_copper_drama_grit_animal
+bip_39_word_underscore_2: error_junk
+bip_39_word_underscore_3: error_junk_scene
+bip_39_word_underscore_4: error_junk_scene_subway
+bip_39_word_underscore_5: error_junk_scene_subway_connect
+bip_39_word_underscore_6: error_junk_scene_subway_connect_lonely
+bip_39_word_underscore_7: error_junk_scene_subway_connect_lonely_burger
+bip_39_word_underscore_8: error_junk_scene_subway_connect_lonely_burger_sentence
+bip_39_word_underscore_9: error_junk_scene_subway_connect_lonely_burger_sentence_copper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tent |  
+| bip_39_word_dash_10 | tent-genius-jeans-angry-vanish-island-speak-just-artwork-chuckle |  
+| bip_39_word_dash_11 | tent-genius-jeans-angry-vanish-island-speak-just-artwork-chuckle-goose |  
+| bip_39_word_dash_12 | tent-genius-jeans-angry-vanish-island-speak-just-artwork-chuckle-goose-aim |  
+| bip_39_word_dash_2 | tent-genius |  
+| bip_39_word_dash_3 | tent-genius-jeans |  
+| bip_39_word_dash_4 | tent-genius-jeans-angry |  
+| bip_39_word_dash_5 | tent-genius-jeans-angry-vanish |  
+| bip_39_word_dash_6 | tent-genius-jeans-angry-vanish-island |  
+| bip_39_word_dash_7 | tent-genius-jeans-angry-vanish-island-speak |  
+| bip_39_word_dash_8 | tent-genius-jeans-angry-vanish-island-speak-just |  
+| bip_39_word_dash_9 | tent-genius-jeans-angry-vanish-island-speak-just-artwork |  
 | bip_39_word_new_br_1 | tent |  
 | bip_39_word_new_br_10 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle |  
 | bip_39_word_new_br_11 | tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle<br>goose |  
@@ -147,6 +159,18 @@ artwork |
 | bip_39_word_space_7 | tent genius jeans angry vanish island speak |  
 | bip_39_word_space_8 | tent genius jeans angry vanish island speak just |  
 | bip_39_word_space_9 | tent genius jeans angry vanish island speak just artwork |  
+| bip_39_word_underscore_1 | tent |  
+| bip_39_word_underscore_10 | tent_genius_jeans_angry_vanish_island_speak_just_artwork_chuckle |  
+| bip_39_word_underscore_11 | tent_genius_jeans_angry_vanish_island_speak_just_artwork_chuckle_goose |  
+| bip_39_word_underscore_12 | tent_genius_jeans_angry_vanish_island_speak_just_artwork_chuckle_goose_aim |  
+| bip_39_word_underscore_2 | tent_genius |  
+| bip_39_word_underscore_3 | tent_genius_jeans |  
+| bip_39_word_underscore_4 | tent_genius_jeans_angry |  
+| bip_39_word_underscore_5 | tent_genius_jeans_angry_vanish |  
+| bip_39_word_underscore_6 | tent_genius_jeans_angry_vanish_island |  
+| bip_39_word_underscore_7 | tent_genius_jeans_angry_vanish_island_speak |  
+| bip_39_word_underscore_8 | tent_genius_jeans_angry_vanish_island_speak_just |  
+| bip_39_word_underscore_9 | tent_genius_jeans_angry_vanish_island_speak_just_artwork |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

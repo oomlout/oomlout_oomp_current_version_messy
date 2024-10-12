@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | electric |  
+| bip_39_word_dash_10 | electric-north-box-usage-muscle-subject-toddler-execute-source-improve |  
+| bip_39_word_dash_11 | electric-north-box-usage-muscle-subject-toddler-execute-source-improve-turtle |  
+| bip_39_word_dash_12 | electric-north-box-usage-muscle-subject-toddler-execute-source-improve-turtle-amateur |  
+| bip_39_word_dash_2 | electric-north |  
+| bip_39_word_dash_3 | electric-north-box |  
+| bip_39_word_dash_4 | electric-north-box-usage |  
+| bip_39_word_dash_5 | electric-north-box-usage-muscle |  
+| bip_39_word_dash_6 | electric-north-box-usage-muscle-subject |  
+| bip_39_word_dash_7 | electric-north-box-usage-muscle-subject-toddler |  
+| bip_39_word_dash_8 | electric-north-box-usage-muscle-subject-toddler-execute |  
+| bip_39_word_dash_9 | electric-north-box-usage-muscle-subject-toddler-execute-source |  
 | bip_39_word_new_br_1 | electric |  
 | bip_39_word_new_br_10 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute<br>source<br>improve |  
 | bip_39_word_new_br_11 | electric<br>north<br>box<br>usage<br>muscle<br>subject<br>toddler<br>execute<br>source<br>improve<br>turtle |  
@@ -147,6 +159,18 @@ source |
 | bip_39_word_space_7 | electric north box usage muscle subject toddler |  
 | bip_39_word_space_8 | electric north box usage muscle subject toddler execute |  
 | bip_39_word_space_9 | electric north box usage muscle subject toddler execute source |  
+| bip_39_word_underscore_1 | electric |  
+| bip_39_word_underscore_10 | electric_north_box_usage_muscle_subject_toddler_execute_source_improve |  
+| bip_39_word_underscore_11 | electric_north_box_usage_muscle_subject_toddler_execute_source_improve_turtle |  
+| bip_39_word_underscore_12 | electric_north_box_usage_muscle_subject_toddler_execute_source_improve_turtle_amateur |  
+| bip_39_word_underscore_2 | electric_north |  
+| bip_39_word_underscore_3 | electric_north_box |  
+| bip_39_word_underscore_4 | electric_north_box_usage |  
+| bip_39_word_underscore_5 | electric_north_box_usage_muscle |  
+| bip_39_word_underscore_6 | electric_north_box_usage_muscle_subject |  
+| bip_39_word_underscore_7 | electric_north_box_usage_muscle_subject_toddler |  
+| bip_39_word_underscore_8 | electric_north_box_usage_muscle_subject_toddler_execute |  
+| bip_39_word_underscore_9 | electric_north_box_usage_muscle_subject_toddler_execute_source |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

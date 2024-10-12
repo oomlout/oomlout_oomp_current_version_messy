@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | endless |  
+| bip_39_word_dash_10 | endless-physical-outside-result-uncle-edge-menu-name-nurse-derive |  
+| bip_39_word_dash_11 | endless-physical-outside-result-uncle-edge-menu-name-nurse-derive-miracle |  
+| bip_39_word_dash_12 | endless-physical-outside-result-uncle-edge-menu-name-nurse-derive-miracle-appear |  
+| bip_39_word_dash_2 | endless-physical |  
+| bip_39_word_dash_3 | endless-physical-outside |  
+| bip_39_word_dash_4 | endless-physical-outside-result |  
+| bip_39_word_dash_5 | endless-physical-outside-result-uncle |  
+| bip_39_word_dash_6 | endless-physical-outside-result-uncle-edge |  
+| bip_39_word_dash_7 | endless-physical-outside-result-uncle-edge-menu |  
+| bip_39_word_dash_8 | endless-physical-outside-result-uncle-edge-menu-name |  
+| bip_39_word_dash_9 | endless-physical-outside-result-uncle-edge-menu-name-nurse |  
 | bip_39_word_new_br_1 | endless |  
 | bip_39_word_new_br_10 | endless<br>physical<br>outside<br>result<br>uncle<br>edge<br>menu<br>name<br>nurse<br>derive |  
 | bip_39_word_new_br_11 | endless<br>physical<br>outside<br>result<br>uncle<br>edge<br>menu<br>name<br>nurse<br>derive<br>miracle |  
@@ -147,6 +159,18 @@ nurse |
 | bip_39_word_space_7 | endless physical outside result uncle edge menu |  
 | bip_39_word_space_8 | endless physical outside result uncle edge menu name |  
 | bip_39_word_space_9 | endless physical outside result uncle edge menu name nurse |  
+| bip_39_word_underscore_1 | endless |  
+| bip_39_word_underscore_10 | endless_physical_outside_result_uncle_edge_menu_name_nurse_derive |  
+| bip_39_word_underscore_11 | endless_physical_outside_result_uncle_edge_menu_name_nurse_derive_miracle |  
+| bip_39_word_underscore_12 | endless_physical_outside_result_uncle_edge_menu_name_nurse_derive_miracle_appear |  
+| bip_39_word_underscore_2 | endless_physical |  
+| bip_39_word_underscore_3 | endless_physical_outside |  
+| bip_39_word_underscore_4 | endless_physical_outside_result |  
+| bip_39_word_underscore_5 | endless_physical_outside_result_uncle |  
+| bip_39_word_underscore_6 | endless_physical_outside_result_uncle_edge |  
+| bip_39_word_underscore_7 | endless_physical_outside_result_uncle_edge_menu |  
+| bip_39_word_underscore_8 | endless_physical_outside_result_uncle_edge_menu_name |  
+| bip_39_word_underscore_9 | endless_physical_outside_result_uncle_edge_menu_name_nurse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

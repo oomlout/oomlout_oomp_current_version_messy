@@ -1,3 +1,15 @@
+bip_39_word_dash_1: oxygen
+bip_39_word_dash_10: oxygen-chicken-crash-radar-demand-swing-media-grain-warfare-upset
+bip_39_word_dash_11: oxygen-chicken-crash-radar-demand-swing-media-grain-warfare-upset-design
+bip_39_word_dash_12: oxygen-chicken-crash-radar-demand-swing-media-grain-warfare-upset-design-alone
+bip_39_word_dash_2: oxygen-chicken
+bip_39_word_dash_3: oxygen-chicken-crash
+bip_39_word_dash_4: oxygen-chicken-crash-radar
+bip_39_word_dash_5: oxygen-chicken-crash-radar-demand
+bip_39_word_dash_6: oxygen-chicken-crash-radar-demand-swing
+bip_39_word_dash_7: oxygen-chicken-crash-radar-demand-swing-media
+bip_39_word_dash_8: oxygen-chicken-crash-radar-demand-swing-media-grain
+bip_39_word_dash_9: oxygen-chicken-crash-radar-demand-swing-media-grain-warfare
 bip_39_word_new_br_1: oxygen
 bip_39_word_new_br_10: oxygen<br>chicken<br>crash<br>radar<br>demand<br>swing<br>media<br>grain<br>warfare<br>upset
 bip_39_word_new_br_11: oxygen<br>chicken<br>crash<br>radar<br>demand<br>swing<br>media<br>grain<br>warfare<br>upset<br>design
@@ -194,6 +206,18 @@ bip_39_word_space_6: oxygen chicken crash radar demand swing
 bip_39_word_space_7: oxygen chicken crash radar demand swing media
 bip_39_word_space_8: oxygen chicken crash radar demand swing media grain
 bip_39_word_space_9: oxygen chicken crash radar demand swing media grain warfare
+bip_39_word_underscore_1: oxygen
+bip_39_word_underscore_10: oxygen_chicken_crash_radar_demand_swing_media_grain_warfare_upset
+bip_39_word_underscore_11: oxygen_chicken_crash_radar_demand_swing_media_grain_warfare_upset_design
+bip_39_word_underscore_12: oxygen_chicken_crash_radar_demand_swing_media_grain_warfare_upset_design_alone
+bip_39_word_underscore_2: oxygen_chicken
+bip_39_word_underscore_3: oxygen_chicken_crash
+bip_39_word_underscore_4: oxygen_chicken_crash_radar
+bip_39_word_underscore_5: oxygen_chicken_crash_radar_demand
+bip_39_word_underscore_6: oxygen_chicken_crash_radar_demand_swing
+bip_39_word_underscore_7: oxygen_chicken_crash_radar_demand_swing_media
+bip_39_word_underscore_8: oxygen_chicken_crash_radar_demand_swing_media_grain
+bip_39_word_underscore_9: oxygen_chicken_crash_radar_demand_swing_media_grain_warfare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

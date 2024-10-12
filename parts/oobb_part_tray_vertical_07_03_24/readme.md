@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | clutch |  
+| bip_39_word_dash_10 | clutch-pizza-dilemma-general-remain-begin-pretty-save-subway-essay |  
+| bip_39_word_dash_11 | clutch-pizza-dilemma-general-remain-begin-pretty-save-subway-essay-club |  
+| bip_39_word_dash_12 | clutch-pizza-dilemma-general-remain-begin-pretty-save-subway-essay-club-antique |  
+| bip_39_word_dash_2 | clutch-pizza |  
+| bip_39_word_dash_3 | clutch-pizza-dilemma |  
+| bip_39_word_dash_4 | clutch-pizza-dilemma-general |  
+| bip_39_word_dash_5 | clutch-pizza-dilemma-general-remain |  
+| bip_39_word_dash_6 | clutch-pizza-dilemma-general-remain-begin |  
+| bip_39_word_dash_7 | clutch-pizza-dilemma-general-remain-begin-pretty |  
+| bip_39_word_dash_8 | clutch-pizza-dilemma-general-remain-begin-pretty-save |  
+| bip_39_word_dash_9 | clutch-pizza-dilemma-general-remain-begin-pretty-save-subway |  
 | bip_39_word_new_br_1 | clutch |  
 | bip_39_word_new_br_10 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save<br>subway<br>essay |  
 | bip_39_word_new_br_11 | clutch<br>pizza<br>dilemma<br>general<br>remain<br>begin<br>pretty<br>save<br>subway<br>essay<br>club |  
@@ -147,6 +159,18 @@ subway |
 | bip_39_word_space_7 | clutch pizza dilemma general remain begin pretty |  
 | bip_39_word_space_8 | clutch pizza dilemma general remain begin pretty save |  
 | bip_39_word_space_9 | clutch pizza dilemma general remain begin pretty save subway |  
+| bip_39_word_underscore_1 | clutch |  
+| bip_39_word_underscore_10 | clutch_pizza_dilemma_general_remain_begin_pretty_save_subway_essay |  
+| bip_39_word_underscore_11 | clutch_pizza_dilemma_general_remain_begin_pretty_save_subway_essay_club |  
+| bip_39_word_underscore_12 | clutch_pizza_dilemma_general_remain_begin_pretty_save_subway_essay_club_antique |  
+| bip_39_word_underscore_2 | clutch_pizza |  
+| bip_39_word_underscore_3 | clutch_pizza_dilemma |  
+| bip_39_word_underscore_4 | clutch_pizza_dilemma_general |  
+| bip_39_word_underscore_5 | clutch_pizza_dilemma_general_remain |  
+| bip_39_word_underscore_6 | clutch_pizza_dilemma_general_remain_begin |  
+| bip_39_word_underscore_7 | clutch_pizza_dilemma_general_remain_begin_pretty |  
+| bip_39_word_underscore_8 | clutch_pizza_dilemma_general_remain_begin_pretty_save |  
+| bip_39_word_underscore_9 | clutch_pizza_dilemma_general_remain_begin_pretty_save_subway |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

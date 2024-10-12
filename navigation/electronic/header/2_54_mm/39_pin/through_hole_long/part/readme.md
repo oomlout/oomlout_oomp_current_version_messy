@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ticket |  
+| bip_39_word_dash_10 | ticket-business-you-drip-canal-gold-barrel-cube-shoot-model |  
+| bip_39_word_dash_11 | ticket-business-you-drip-canal-gold-barrel-cube-shoot-model-salt |  
+| bip_39_word_dash_12 | ticket-business-you-drip-canal-gold-barrel-cube-shoot-model-salt-ancient |  
+| bip_39_word_dash_2 | ticket-business |  
+| bip_39_word_dash_3 | ticket-business-you |  
+| bip_39_word_dash_4 | ticket-business-you-drip |  
+| bip_39_word_dash_5 | ticket-business-you-drip-canal |  
+| bip_39_word_dash_6 | ticket-business-you-drip-canal-gold |  
+| bip_39_word_dash_7 | ticket-business-you-drip-canal-gold-barrel |  
+| bip_39_word_dash_8 | ticket-business-you-drip-canal-gold-barrel-cube |  
+| bip_39_word_dash_9 | ticket-business-you-drip-canal-gold-barrel-cube-shoot |  
 | bip_39_word_new_br_1 | ticket |  
 | bip_39_word_new_br_10 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model |  
 | bip_39_word_new_br_11 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model<br>salt |  
@@ -147,6 +159,18 @@ shoot |
 | bip_39_word_space_7 | ticket business you drip canal gold barrel |  
 | bip_39_word_space_8 | ticket business you drip canal gold barrel cube |  
 | bip_39_word_space_9 | ticket business you drip canal gold barrel cube shoot |  
+| bip_39_word_underscore_1 | ticket |  
+| bip_39_word_underscore_10 | ticket_business_you_drip_canal_gold_barrel_cube_shoot_model |  
+| bip_39_word_underscore_11 | ticket_business_you_drip_canal_gold_barrel_cube_shoot_model_salt |  
+| bip_39_word_underscore_12 | ticket_business_you_drip_canal_gold_barrel_cube_shoot_model_salt_ancient |  
+| bip_39_word_underscore_2 | ticket_business |  
+| bip_39_word_underscore_3 | ticket_business_you |  
+| bip_39_word_underscore_4 | ticket_business_you_drip |  
+| bip_39_word_underscore_5 | ticket_business_you_drip_canal |  
+| bip_39_word_underscore_6 | ticket_business_you_drip_canal_gold |  
+| bip_39_word_underscore_7 | ticket_business_you_drip_canal_gold_barrel |  
+| bip_39_word_underscore_8 | ticket_business_you_drip_canal_gold_barrel_cube |  
+| bip_39_word_underscore_9 | ticket_business_you_drip_canal_gold_barrel_cube_shoot |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

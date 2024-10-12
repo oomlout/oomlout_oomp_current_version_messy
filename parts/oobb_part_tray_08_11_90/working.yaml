@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clerk
+bip_39_word_dash_10: clerk-hair-flush-inmate-entire-increase-flat-witness-punch-report
+bip_39_word_dash_11: clerk-hair-flush-inmate-entire-increase-flat-witness-punch-report-shallow
+bip_39_word_dash_12: clerk-hair-flush-inmate-entire-increase-flat-witness-punch-report-shallow-alert
+bip_39_word_dash_2: clerk-hair
+bip_39_word_dash_3: clerk-hair-flush
+bip_39_word_dash_4: clerk-hair-flush-inmate
+bip_39_word_dash_5: clerk-hair-flush-inmate-entire
+bip_39_word_dash_6: clerk-hair-flush-inmate-entire-increase
+bip_39_word_dash_7: clerk-hair-flush-inmate-entire-increase-flat
+bip_39_word_dash_8: clerk-hair-flush-inmate-entire-increase-flat-witness
+bip_39_word_dash_9: clerk-hair-flush-inmate-entire-increase-flat-witness-punch
 bip_39_word_new_br_1: clerk
 bip_39_word_new_br_10: clerk<br>hair<br>flush<br>inmate<br>entire<br>increase<br>flat<br>witness<br>punch<br>report
 bip_39_word_new_br_11: clerk<br>hair<br>flush<br>inmate<br>entire<br>increase<br>flat<br>witness<br>punch<br>report<br>shallow
@@ -193,6 +205,18 @@ bip_39_word_space_6: clerk hair flush inmate entire increase
 bip_39_word_space_7: clerk hair flush inmate entire increase flat
 bip_39_word_space_8: clerk hair flush inmate entire increase flat witness
 bip_39_word_space_9: clerk hair flush inmate entire increase flat witness punch
+bip_39_word_underscore_1: clerk
+bip_39_word_underscore_10: clerk_hair_flush_inmate_entire_increase_flat_witness_punch_report
+bip_39_word_underscore_11: clerk_hair_flush_inmate_entire_increase_flat_witness_punch_report_shallow
+bip_39_word_underscore_12: clerk_hair_flush_inmate_entire_increase_flat_witness_punch_report_shallow_alert
+bip_39_word_underscore_2: clerk_hair
+bip_39_word_underscore_3: clerk_hair_flush
+bip_39_word_underscore_4: clerk_hair_flush_inmate
+bip_39_word_underscore_5: clerk_hair_flush_inmate_entire
+bip_39_word_underscore_6: clerk_hair_flush_inmate_entire_increase
+bip_39_word_underscore_7: clerk_hair_flush_inmate_entire_increase_flat
+bip_39_word_underscore_8: clerk_hair_flush_inmate_entire_increase_flat_witness
+bip_39_word_underscore_9: clerk_hair_flush_inmate_entire_increase_flat_witness_punch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

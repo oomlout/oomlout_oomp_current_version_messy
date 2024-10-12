@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | gather |  
+| bip_39_word_dash_10 | gather-what-opinion-brush-attract-stumble-school-embody-about-thought |  
+| bip_39_word_dash_11 | gather-what-opinion-brush-attract-stumble-school-embody-about-thought-original |  
+| bip_39_word_dash_12 | gather-what-opinion-brush-attract-stumble-school-embody-about-thought-original-art |  
+| bip_39_word_dash_2 | gather-what |  
+| bip_39_word_dash_3 | gather-what-opinion |  
+| bip_39_word_dash_4 | gather-what-opinion-brush |  
+| bip_39_word_dash_5 | gather-what-opinion-brush-attract |  
+| bip_39_word_dash_6 | gather-what-opinion-brush-attract-stumble |  
+| bip_39_word_dash_7 | gather-what-opinion-brush-attract-stumble-school |  
+| bip_39_word_dash_8 | gather-what-opinion-brush-attract-stumble-school-embody |  
+| bip_39_word_dash_9 | gather-what-opinion-brush-attract-stumble-school-embody-about |  
 | bip_39_word_new_br_1 | gather |  
 | bip_39_word_new_br_10 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody<br>about<br>thought |  
 | bip_39_word_new_br_11 | gather<br>what<br>opinion<br>brush<br>attract<br>stumble<br>school<br>embody<br>about<br>thought<br>original |  
@@ -147,6 +159,18 @@ about |
 | bip_39_word_space_7 | gather what opinion brush attract stumble school |  
 | bip_39_word_space_8 | gather what opinion brush attract stumble school embody |  
 | bip_39_word_space_9 | gather what opinion brush attract stumble school embody about |  
+| bip_39_word_underscore_1 | gather |  
+| bip_39_word_underscore_10 | gather_what_opinion_brush_attract_stumble_school_embody_about_thought |  
+| bip_39_word_underscore_11 | gather_what_opinion_brush_attract_stumble_school_embody_about_thought_original |  
+| bip_39_word_underscore_12 | gather_what_opinion_brush_attract_stumble_school_embody_about_thought_original_art |  
+| bip_39_word_underscore_2 | gather_what |  
+| bip_39_word_underscore_3 | gather_what_opinion |  
+| bip_39_word_underscore_4 | gather_what_opinion_brush |  
+| bip_39_word_underscore_5 | gather_what_opinion_brush_attract |  
+| bip_39_word_underscore_6 | gather_what_opinion_brush_attract_stumble |  
+| bip_39_word_underscore_7 | gather_what_opinion_brush_attract_stumble_school |  
+| bip_39_word_underscore_8 | gather_what_opinion_brush_attract_stumble_school_embody |  
+| bip_39_word_underscore_9 | gather_what_opinion_brush_attract_stumble_school_embody_about |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

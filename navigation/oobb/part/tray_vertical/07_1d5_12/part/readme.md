@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | tube |  
+| bip_39_word_dash_10 | tube-orient-involve-pizza-drill-human-blur-brand-denial-grain |  
+| bip_39_word_dash_11 | tube-orient-involve-pizza-drill-human-blur-brand-denial-grain-hair |  
+| bip_39_word_dash_12 | tube-orient-involve-pizza-drill-human-blur-brand-denial-grain-hair-apart |  
+| bip_39_word_dash_2 | tube-orient |  
+| bip_39_word_dash_3 | tube-orient-involve |  
+| bip_39_word_dash_4 | tube-orient-involve-pizza |  
+| bip_39_word_dash_5 | tube-orient-involve-pizza-drill |  
+| bip_39_word_dash_6 | tube-orient-involve-pizza-drill-human |  
+| bip_39_word_dash_7 | tube-orient-involve-pizza-drill-human-blur |  
+| bip_39_word_dash_8 | tube-orient-involve-pizza-drill-human-blur-brand |  
+| bip_39_word_dash_9 | tube-orient-involve-pizza-drill-human-blur-brand-denial |  
 | bip_39_word_new_br_1 | tube |  
 | bip_39_word_new_br_10 | tube<br>orient<br>involve<br>pizza<br>drill<br>human<br>blur<br>brand<br>denial<br>grain |  
 | bip_39_word_new_br_11 | tube<br>orient<br>involve<br>pizza<br>drill<br>human<br>blur<br>brand<br>denial<br>grain<br>hair |  
@@ -147,6 +159,18 @@ denial |
 | bip_39_word_space_7 | tube orient involve pizza drill human blur |  
 | bip_39_word_space_8 | tube orient involve pizza drill human blur brand |  
 | bip_39_word_space_9 | tube orient involve pizza drill human blur brand denial |  
+| bip_39_word_underscore_1 | tube |  
+| bip_39_word_underscore_10 | tube_orient_involve_pizza_drill_human_blur_brand_denial_grain |  
+| bip_39_word_underscore_11 | tube_orient_involve_pizza_drill_human_blur_brand_denial_grain_hair |  
+| bip_39_word_underscore_12 | tube_orient_involve_pizza_drill_human_blur_brand_denial_grain_hair_apart |  
+| bip_39_word_underscore_2 | tube_orient |  
+| bip_39_word_underscore_3 | tube_orient_involve |  
+| bip_39_word_underscore_4 | tube_orient_involve_pizza |  
+| bip_39_word_underscore_5 | tube_orient_involve_pizza_drill |  
+| bip_39_word_underscore_6 | tube_orient_involve_pizza_drill_human |  
+| bip_39_word_underscore_7 | tube_orient_involve_pizza_drill_human_blur |  
+| bip_39_word_underscore_8 | tube_orient_involve_pizza_drill_human_blur_brand |  
+| bip_39_word_underscore_9 | tube_orient_involve_pizza_drill_human_blur_brand_denial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

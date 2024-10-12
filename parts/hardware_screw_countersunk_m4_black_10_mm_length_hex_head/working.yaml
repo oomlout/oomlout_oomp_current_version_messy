@@ -1,3 +1,15 @@
+bip_39_word_dash_1: slogan
+bip_39_word_dash_10: slogan-tower-consider-tuna-napkin-jelly-delay-umbrella-soon-popular
+bip_39_word_dash_11: slogan-tower-consider-tuna-napkin-jelly-delay-umbrella-soon-popular-defy
+bip_39_word_dash_12: slogan-tower-consider-tuna-napkin-jelly-delay-umbrella-soon-popular-defy-actor
+bip_39_word_dash_2: slogan-tower
+bip_39_word_dash_3: slogan-tower-consider
+bip_39_word_dash_4: slogan-tower-consider-tuna
+bip_39_word_dash_5: slogan-tower-consider-tuna-napkin
+bip_39_word_dash_6: slogan-tower-consider-tuna-napkin-jelly
+bip_39_word_dash_7: slogan-tower-consider-tuna-napkin-jelly-delay
+bip_39_word_dash_8: slogan-tower-consider-tuna-napkin-jelly-delay-umbrella
+bip_39_word_dash_9: slogan-tower-consider-tuna-napkin-jelly-delay-umbrella-soon
 bip_39_word_new_br_1: slogan
 bip_39_word_new_br_10: slogan<br>tower<br>consider<br>tuna<br>napkin<br>jelly<br>delay<br>umbrella<br>soon<br>popular
 bip_39_word_new_br_11: slogan<br>tower<br>consider<br>tuna<br>napkin<br>jelly<br>delay<br>umbrella<br>soon<br>popular<br>defy
@@ -194,6 +206,18 @@ bip_39_word_space_6: slogan tower consider tuna napkin jelly
 bip_39_word_space_7: slogan tower consider tuna napkin jelly delay
 bip_39_word_space_8: slogan tower consider tuna napkin jelly delay umbrella
 bip_39_word_space_9: slogan tower consider tuna napkin jelly delay umbrella soon
+bip_39_word_underscore_1: slogan
+bip_39_word_underscore_10: slogan_tower_consider_tuna_napkin_jelly_delay_umbrella_soon_popular
+bip_39_word_underscore_11: slogan_tower_consider_tuna_napkin_jelly_delay_umbrella_soon_popular_defy
+bip_39_word_underscore_12: slogan_tower_consider_tuna_napkin_jelly_delay_umbrella_soon_popular_defy_actor
+bip_39_word_underscore_2: slogan_tower
+bip_39_word_underscore_3: slogan_tower_consider
+bip_39_word_underscore_4: slogan_tower_consider_tuna
+bip_39_word_underscore_5: slogan_tower_consider_tuna_napkin
+bip_39_word_underscore_6: slogan_tower_consider_tuna_napkin_jelly
+bip_39_word_underscore_7: slogan_tower_consider_tuna_napkin_jelly_delay
+bip_39_word_underscore_8: slogan_tower_consider_tuna_napkin_jelly_delay_umbrella
+bip_39_word_underscore_9: slogan_tower_consider_tuna_napkin_jelly_delay_umbrella_soon
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | purchase |  
+| bip_39_word_dash_10 | purchase-olympic-tent-fitness-dice-that-physical-fat-morning-trap |  
+| bip_39_word_dash_11 | purchase-olympic-tent-fitness-dice-that-physical-fat-morning-trap-bar |  
+| bip_39_word_dash_12 | purchase-olympic-tent-fitness-dice-that-physical-fat-morning-trap-bar-artefact |  
+| bip_39_word_dash_2 | purchase-olympic |  
+| bip_39_word_dash_3 | purchase-olympic-tent |  
+| bip_39_word_dash_4 | purchase-olympic-tent-fitness |  
+| bip_39_word_dash_5 | purchase-olympic-tent-fitness-dice |  
+| bip_39_word_dash_6 | purchase-olympic-tent-fitness-dice-that |  
+| bip_39_word_dash_7 | purchase-olympic-tent-fitness-dice-that-physical |  
+| bip_39_word_dash_8 | purchase-olympic-tent-fitness-dice-that-physical-fat |  
+| bip_39_word_dash_9 | purchase-olympic-tent-fitness-dice-that-physical-fat-morning |  
 | bip_39_word_new_br_1 | purchase |  
 | bip_39_word_new_br_10 | purchase<br>olympic<br>tent<br>fitness<br>dice<br>that<br>physical<br>fat<br>morning<br>trap |  
 | bip_39_word_new_br_11 | purchase<br>olympic<br>tent<br>fitness<br>dice<br>that<br>physical<br>fat<br>morning<br>trap<br>bar |  
@@ -147,6 +159,18 @@ morning |
 | bip_39_word_space_7 | purchase olympic tent fitness dice that physical |  
 | bip_39_word_space_8 | purchase olympic tent fitness dice that physical fat |  
 | bip_39_word_space_9 | purchase olympic tent fitness dice that physical fat morning |  
+| bip_39_word_underscore_1 | purchase |  
+| bip_39_word_underscore_10 | purchase_olympic_tent_fitness_dice_that_physical_fat_morning_trap |  
+| bip_39_word_underscore_11 | purchase_olympic_tent_fitness_dice_that_physical_fat_morning_trap_bar |  
+| bip_39_word_underscore_12 | purchase_olympic_tent_fitness_dice_that_physical_fat_morning_trap_bar_artefact |  
+| bip_39_word_underscore_2 | purchase_olympic |  
+| bip_39_word_underscore_3 | purchase_olympic_tent |  
+| bip_39_word_underscore_4 | purchase_olympic_tent_fitness |  
+| bip_39_word_underscore_5 | purchase_olympic_tent_fitness_dice |  
+| bip_39_word_underscore_6 | purchase_olympic_tent_fitness_dice_that |  
+| bip_39_word_underscore_7 | purchase_olympic_tent_fitness_dice_that_physical |  
+| bip_39_word_underscore_8 | purchase_olympic_tent_fitness_dice_that_physical_fat |  
+| bip_39_word_underscore_9 | purchase_olympic_tent_fitness_dice_that_physical_fat_morning |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

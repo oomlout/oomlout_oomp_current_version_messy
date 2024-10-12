@@ -1,3 +1,15 @@
+bip_39_word_dash_1: atom
+bip_39_word_dash_10: atom-behind-brick-stuff-lemon-spice-evidence-vague-disease-mixture
+bip_39_word_dash_11: atom-behind-brick-stuff-lemon-spice-evidence-vague-disease-mixture-scare
+bip_39_word_dash_12: atom-behind-brick-stuff-lemon-spice-evidence-vague-disease-mixture-scare-agree
+bip_39_word_dash_2: atom-behind
+bip_39_word_dash_3: atom-behind-brick
+bip_39_word_dash_4: atom-behind-brick-stuff
+bip_39_word_dash_5: atom-behind-brick-stuff-lemon
+bip_39_word_dash_6: atom-behind-brick-stuff-lemon-spice
+bip_39_word_dash_7: atom-behind-brick-stuff-lemon-spice-evidence
+bip_39_word_dash_8: atom-behind-brick-stuff-lemon-spice-evidence-vague
+bip_39_word_dash_9: atom-behind-brick-stuff-lemon-spice-evidence-vague-disease
 bip_39_word_new_br_1: atom
 bip_39_word_new_br_10: atom<br>behind<br>brick<br>stuff<br>lemon<br>spice<br>evidence<br>vague<br>disease<br>mixture
 bip_39_word_new_br_11: atom<br>behind<br>brick<br>stuff<br>lemon<br>spice<br>evidence<br>vague<br>disease<br>mixture<br>scare
@@ -193,6 +205,18 @@ bip_39_word_space_6: atom behind brick stuff lemon spice
 bip_39_word_space_7: atom behind brick stuff lemon spice evidence
 bip_39_word_space_8: atom behind brick stuff lemon spice evidence vague
 bip_39_word_space_9: atom behind brick stuff lemon spice evidence vague disease
+bip_39_word_underscore_1: atom
+bip_39_word_underscore_10: atom_behind_brick_stuff_lemon_spice_evidence_vague_disease_mixture
+bip_39_word_underscore_11: atom_behind_brick_stuff_lemon_spice_evidence_vague_disease_mixture_scare
+bip_39_word_underscore_12: atom_behind_brick_stuff_lemon_spice_evidence_vague_disease_mixture_scare_agree
+bip_39_word_underscore_2: atom_behind
+bip_39_word_underscore_3: atom_behind_brick
+bip_39_word_underscore_4: atom_behind_brick_stuff
+bip_39_word_underscore_5: atom_behind_brick_stuff_lemon
+bip_39_word_underscore_6: atom_behind_brick_stuff_lemon_spice
+bip_39_word_underscore_7: atom_behind_brick_stuff_lemon_spice_evidence
+bip_39_word_underscore_8: atom_behind_brick_stuff_lemon_spice_evidence_vague
+bip_39_word_underscore_9: atom_behind_brick_stuff_lemon_spice_evidence_vague_disease
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

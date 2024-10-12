@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rain |  
+| bip_39_word_dash_10 | rain-copper-twenty-gorilla-screen-surface-forget-bridge-hub-treat |  
+| bip_39_word_dash_11 | rain-copper-twenty-gorilla-screen-surface-forget-bridge-hub-treat-audit |  
+| bip_39_word_dash_12 | rain-copper-twenty-gorilla-screen-surface-forget-bridge-hub-treat-audit-ask |  
+| bip_39_word_dash_2 | rain-copper |  
+| bip_39_word_dash_3 | rain-copper-twenty |  
+| bip_39_word_dash_4 | rain-copper-twenty-gorilla |  
+| bip_39_word_dash_5 | rain-copper-twenty-gorilla-screen |  
+| bip_39_word_dash_6 | rain-copper-twenty-gorilla-screen-surface |  
+| bip_39_word_dash_7 | rain-copper-twenty-gorilla-screen-surface-forget |  
+| bip_39_word_dash_8 | rain-copper-twenty-gorilla-screen-surface-forget-bridge |  
+| bip_39_word_dash_9 | rain-copper-twenty-gorilla-screen-surface-forget-bridge-hub |  
 | bip_39_word_new_br_1 | rain |  
 | bip_39_word_new_br_10 | rain<br>copper<br>twenty<br>gorilla<br>screen<br>surface<br>forget<br>bridge<br>hub<br>treat |  
 | bip_39_word_new_br_11 | rain<br>copper<br>twenty<br>gorilla<br>screen<br>surface<br>forget<br>bridge<br>hub<br>treat<br>audit |  
@@ -147,6 +159,18 @@ hub |
 | bip_39_word_space_7 | rain copper twenty gorilla screen surface forget |  
 | bip_39_word_space_8 | rain copper twenty gorilla screen surface forget bridge |  
 | bip_39_word_space_9 | rain copper twenty gorilla screen surface forget bridge hub |  
+| bip_39_word_underscore_1 | rain |  
+| bip_39_word_underscore_10 | rain_copper_twenty_gorilla_screen_surface_forget_bridge_hub_treat |  
+| bip_39_word_underscore_11 | rain_copper_twenty_gorilla_screen_surface_forget_bridge_hub_treat_audit |  
+| bip_39_word_underscore_12 | rain_copper_twenty_gorilla_screen_surface_forget_bridge_hub_treat_audit_ask |  
+| bip_39_word_underscore_2 | rain_copper |  
+| bip_39_word_underscore_3 | rain_copper_twenty |  
+| bip_39_word_underscore_4 | rain_copper_twenty_gorilla |  
+| bip_39_word_underscore_5 | rain_copper_twenty_gorilla_screen |  
+| bip_39_word_underscore_6 | rain_copper_twenty_gorilla_screen_surface |  
+| bip_39_word_underscore_7 | rain_copper_twenty_gorilla_screen_surface_forget |  
+| bip_39_word_underscore_8 | rain_copper_twenty_gorilla_screen_surface_forget_bridge |  
+| bip_39_word_underscore_9 | rain_copper_twenty_gorilla_screen_surface_forget_bridge_hub |  
 | classification | mechanical |  
 | classification_capital | Mechanical |  
 | classification_first_letter | m |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reflect |  
+| bip_39_word_dash_10 | reflect-box-milk-lumber-nephew-detect-paddle-tomato-select-orchard |  
+| bip_39_word_dash_11 | reflect-box-milk-lumber-nephew-detect-paddle-tomato-select-orchard-weird |  
+| bip_39_word_dash_12 | reflect-box-milk-lumber-nephew-detect-paddle-tomato-select-orchard-weird-alert |  
+| bip_39_word_dash_2 | reflect-box |  
+| bip_39_word_dash_3 | reflect-box-milk |  
+| bip_39_word_dash_4 | reflect-box-milk-lumber |  
+| bip_39_word_dash_5 | reflect-box-milk-lumber-nephew |  
+| bip_39_word_dash_6 | reflect-box-milk-lumber-nephew-detect |  
+| bip_39_word_dash_7 | reflect-box-milk-lumber-nephew-detect-paddle |  
+| bip_39_word_dash_8 | reflect-box-milk-lumber-nephew-detect-paddle-tomato |  
+| bip_39_word_dash_9 | reflect-box-milk-lumber-nephew-detect-paddle-tomato-select |  
 | bip_39_word_new_br_1 | reflect |  
 | bip_39_word_new_br_10 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato<br>select<br>orchard |  
 | bip_39_word_new_br_11 | reflect<br>box<br>milk<br>lumber<br>nephew<br>detect<br>paddle<br>tomato<br>select<br>orchard<br>weird |  
@@ -147,6 +159,18 @@ select |
 | bip_39_word_space_7 | reflect box milk lumber nephew detect paddle |  
 | bip_39_word_space_8 | reflect box milk lumber nephew detect paddle tomato |  
 | bip_39_word_space_9 | reflect box milk lumber nephew detect paddle tomato select |  
+| bip_39_word_underscore_1 | reflect |  
+| bip_39_word_underscore_10 | reflect_box_milk_lumber_nephew_detect_paddle_tomato_select_orchard |  
+| bip_39_word_underscore_11 | reflect_box_milk_lumber_nephew_detect_paddle_tomato_select_orchard_weird |  
+| bip_39_word_underscore_12 | reflect_box_milk_lumber_nephew_detect_paddle_tomato_select_orchard_weird_alert |  
+| bip_39_word_underscore_2 | reflect_box |  
+| bip_39_word_underscore_3 | reflect_box_milk |  
+| bip_39_word_underscore_4 | reflect_box_milk_lumber |  
+| bip_39_word_underscore_5 | reflect_box_milk_lumber_nephew |  
+| bip_39_word_underscore_6 | reflect_box_milk_lumber_nephew_detect |  
+| bip_39_word_underscore_7 | reflect_box_milk_lumber_nephew_detect_paddle |  
+| bip_39_word_underscore_8 | reflect_box_milk_lumber_nephew_detect_paddle_tomato |  
+| bip_39_word_underscore_9 | reflect_box_milk_lumber_nephew_detect_paddle_tomato_select |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | glow |  
+| bip_39_word_dash_10 | glow-hospital-reject-cabbage-trouble-quarter-leisure-cigar-cabin-siren |  
+| bip_39_word_dash_11 | glow-hospital-reject-cabbage-trouble-quarter-leisure-cigar-cabin-siren-during |  
+| bip_39_word_dash_12 | glow-hospital-reject-cabbage-trouble-quarter-leisure-cigar-cabin-siren-during-arm |  
+| bip_39_word_dash_2 | glow-hospital |  
+| bip_39_word_dash_3 | glow-hospital-reject |  
+| bip_39_word_dash_4 | glow-hospital-reject-cabbage |  
+| bip_39_word_dash_5 | glow-hospital-reject-cabbage-trouble |  
+| bip_39_word_dash_6 | glow-hospital-reject-cabbage-trouble-quarter |  
+| bip_39_word_dash_7 | glow-hospital-reject-cabbage-trouble-quarter-leisure |  
+| bip_39_word_dash_8 | glow-hospital-reject-cabbage-trouble-quarter-leisure-cigar |  
+| bip_39_word_dash_9 | glow-hospital-reject-cabbage-trouble-quarter-leisure-cigar-cabin |  
 | bip_39_word_new_br_1 | glow |  
 | bip_39_word_new_br_10 | glow<br>hospital<br>reject<br>cabbage<br>trouble<br>quarter<br>leisure<br>cigar<br>cabin<br>siren |  
 | bip_39_word_new_br_11 | glow<br>hospital<br>reject<br>cabbage<br>trouble<br>quarter<br>leisure<br>cigar<br>cabin<br>siren<br>during |  
@@ -147,6 +159,18 @@ cabin |
 | bip_39_word_space_7 | glow hospital reject cabbage trouble quarter leisure |  
 | bip_39_word_space_8 | glow hospital reject cabbage trouble quarter leisure cigar |  
 | bip_39_word_space_9 | glow hospital reject cabbage trouble quarter leisure cigar cabin |  
+| bip_39_word_underscore_1 | glow |  
+| bip_39_word_underscore_10 | glow_hospital_reject_cabbage_trouble_quarter_leisure_cigar_cabin_siren |  
+| bip_39_word_underscore_11 | glow_hospital_reject_cabbage_trouble_quarter_leisure_cigar_cabin_siren_during |  
+| bip_39_word_underscore_12 | glow_hospital_reject_cabbage_trouble_quarter_leisure_cigar_cabin_siren_during_arm |  
+| bip_39_word_underscore_2 | glow_hospital |  
+| bip_39_word_underscore_3 | glow_hospital_reject |  
+| bip_39_word_underscore_4 | glow_hospital_reject_cabbage |  
+| bip_39_word_underscore_5 | glow_hospital_reject_cabbage_trouble |  
+| bip_39_word_underscore_6 | glow_hospital_reject_cabbage_trouble_quarter |  
+| bip_39_word_underscore_7 | glow_hospital_reject_cabbage_trouble_quarter_leisure |  
+| bip_39_word_underscore_8 | glow_hospital_reject_cabbage_trouble_quarter_leisure_cigar |  
+| bip_39_word_underscore_9 | glow_hospital_reject_cabbage_trouble_quarter_leisure_cigar_cabin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

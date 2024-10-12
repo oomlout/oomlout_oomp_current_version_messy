@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | twice |  
+| bip_39_word_dash_10 | twice-fiber-video-brass-project-tree-intact-december-monster-forest |  
+| bip_39_word_dash_11 | twice-fiber-video-brass-project-tree-intact-december-monster-forest-false |  
+| bip_39_word_dash_12 | twice-fiber-video-brass-project-tree-intact-december-monster-forest-false-author |  
+| bip_39_word_dash_2 | twice-fiber |  
+| bip_39_word_dash_3 | twice-fiber-video |  
+| bip_39_word_dash_4 | twice-fiber-video-brass |  
+| bip_39_word_dash_5 | twice-fiber-video-brass-project |  
+| bip_39_word_dash_6 | twice-fiber-video-brass-project-tree |  
+| bip_39_word_dash_7 | twice-fiber-video-brass-project-tree-intact |  
+| bip_39_word_dash_8 | twice-fiber-video-brass-project-tree-intact-december |  
+| bip_39_word_dash_9 | twice-fiber-video-brass-project-tree-intact-december-monster |  
 | bip_39_word_new_br_1 | twice |  
 | bip_39_word_new_br_10 | twice<br>fiber<br>video<br>brass<br>project<br>tree<br>intact<br>december<br>monster<br>forest |  
 | bip_39_word_new_br_11 | twice<br>fiber<br>video<br>brass<br>project<br>tree<br>intact<br>december<br>monster<br>forest<br>false |  
@@ -147,6 +159,18 @@ monster |
 | bip_39_word_space_7 | twice fiber video brass project tree intact |  
 | bip_39_word_space_8 | twice fiber video brass project tree intact december |  
 | bip_39_word_space_9 | twice fiber video brass project tree intact december monster |  
+| bip_39_word_underscore_1 | twice |  
+| bip_39_word_underscore_10 | twice_fiber_video_brass_project_tree_intact_december_monster_forest |  
+| bip_39_word_underscore_11 | twice_fiber_video_brass_project_tree_intact_december_monster_forest_false |  
+| bip_39_word_underscore_12 | twice_fiber_video_brass_project_tree_intact_december_monster_forest_false_author |  
+| bip_39_word_underscore_2 | twice_fiber |  
+| bip_39_word_underscore_3 | twice_fiber_video |  
+| bip_39_word_underscore_4 | twice_fiber_video_brass |  
+| bip_39_word_underscore_5 | twice_fiber_video_brass_project |  
+| bip_39_word_underscore_6 | twice_fiber_video_brass_project_tree |  
+| bip_39_word_underscore_7 | twice_fiber_video_brass_project_tree_intact |  
+| bip_39_word_underscore_8 | twice_fiber_video_brass_project_tree_intact_december |  
+| bip_39_word_underscore_9 | twice_fiber_video_brass_project_tree_intact_december_monster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

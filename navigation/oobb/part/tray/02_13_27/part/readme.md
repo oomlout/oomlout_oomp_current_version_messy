@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rack |  
+| bip_39_word_dash_10 | rack-fresh-act-more-remember-steel-dentist-measure-deal-pair |  
+| bip_39_word_dash_11 | rack-fresh-act-more-remember-steel-dentist-measure-deal-pair-modify |  
+| bip_39_word_dash_12 | rack-fresh-act-more-remember-steel-dentist-measure-deal-pair-modify-antenna |  
+| bip_39_word_dash_2 | rack-fresh |  
+| bip_39_word_dash_3 | rack-fresh-act |  
+| bip_39_word_dash_4 | rack-fresh-act-more |  
+| bip_39_word_dash_5 | rack-fresh-act-more-remember |  
+| bip_39_word_dash_6 | rack-fresh-act-more-remember-steel |  
+| bip_39_word_dash_7 | rack-fresh-act-more-remember-steel-dentist |  
+| bip_39_word_dash_8 | rack-fresh-act-more-remember-steel-dentist-measure |  
+| bip_39_word_dash_9 | rack-fresh-act-more-remember-steel-dentist-measure-deal |  
 | bip_39_word_new_br_1 | rack |  
 | bip_39_word_new_br_10 | rack<br>fresh<br>act<br>more<br>remember<br>steel<br>dentist<br>measure<br>deal<br>pair |  
 | bip_39_word_new_br_11 | rack<br>fresh<br>act<br>more<br>remember<br>steel<br>dentist<br>measure<br>deal<br>pair<br>modify |  
@@ -147,6 +159,18 @@ deal |
 | bip_39_word_space_7 | rack fresh act more remember steel dentist |  
 | bip_39_word_space_8 | rack fresh act more remember steel dentist measure |  
 | bip_39_word_space_9 | rack fresh act more remember steel dentist measure deal |  
+| bip_39_word_underscore_1 | rack |  
+| bip_39_word_underscore_10 | rack_fresh_act_more_remember_steel_dentist_measure_deal_pair |  
+| bip_39_word_underscore_11 | rack_fresh_act_more_remember_steel_dentist_measure_deal_pair_modify |  
+| bip_39_word_underscore_12 | rack_fresh_act_more_remember_steel_dentist_measure_deal_pair_modify_antenna |  
+| bip_39_word_underscore_2 | rack_fresh |  
+| bip_39_word_underscore_3 | rack_fresh_act |  
+| bip_39_word_underscore_4 | rack_fresh_act_more |  
+| bip_39_word_underscore_5 | rack_fresh_act_more_remember |  
+| bip_39_word_underscore_6 | rack_fresh_act_more_remember_steel |  
+| bip_39_word_underscore_7 | rack_fresh_act_more_remember_steel_dentist |  
+| bip_39_word_underscore_8 | rack_fresh_act_more_remember_steel_dentist_measure |  
+| bip_39_word_underscore_9 | rack_fresh_act_more_remember_steel_dentist_measure_deal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

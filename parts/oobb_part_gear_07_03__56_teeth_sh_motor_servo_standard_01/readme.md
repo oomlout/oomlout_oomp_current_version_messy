@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | rain |  
+| bip_39_word_dash_10 | rain-decorate-cricket-silk-hold-language-agent-theory-quarter-bring |  
+| bip_39_word_dash_11 | rain-decorate-cricket-silk-hold-language-agent-theory-quarter-bring-equip |  
+| bip_39_word_dash_12 | rain-decorate-cricket-silk-hold-language-agent-theory-quarter-bring-equip-attack |  
+| bip_39_word_dash_2 | rain-decorate |  
+| bip_39_word_dash_3 | rain-decorate-cricket |  
+| bip_39_word_dash_4 | rain-decorate-cricket-silk |  
+| bip_39_word_dash_5 | rain-decorate-cricket-silk-hold |  
+| bip_39_word_dash_6 | rain-decorate-cricket-silk-hold-language |  
+| bip_39_word_dash_7 | rain-decorate-cricket-silk-hold-language-agent |  
+| bip_39_word_dash_8 | rain-decorate-cricket-silk-hold-language-agent-theory |  
+| bip_39_word_dash_9 | rain-decorate-cricket-silk-hold-language-agent-theory-quarter |  
 | bip_39_word_new_br_1 | rain |  
 | bip_39_word_new_br_10 | rain<br>decorate<br>cricket<br>silk<br>hold<br>language<br>agent<br>theory<br>quarter<br>bring |  
 | bip_39_word_new_br_11 | rain<br>decorate<br>cricket<br>silk<br>hold<br>language<br>agent<br>theory<br>quarter<br>bring<br>equip |  
@@ -147,6 +159,18 @@ quarter |
 | bip_39_word_space_7 | rain decorate cricket silk hold language agent |  
 | bip_39_word_space_8 | rain decorate cricket silk hold language agent theory |  
 | bip_39_word_space_9 | rain decorate cricket silk hold language agent theory quarter |  
+| bip_39_word_underscore_1 | rain |  
+| bip_39_word_underscore_10 | rain_decorate_cricket_silk_hold_language_agent_theory_quarter_bring |  
+| bip_39_word_underscore_11 | rain_decorate_cricket_silk_hold_language_agent_theory_quarter_bring_equip |  
+| bip_39_word_underscore_12 | rain_decorate_cricket_silk_hold_language_agent_theory_quarter_bring_equip_attack |  
+| bip_39_word_underscore_2 | rain_decorate |  
+| bip_39_word_underscore_3 | rain_decorate_cricket |  
+| bip_39_word_underscore_4 | rain_decorate_cricket_silk |  
+| bip_39_word_underscore_5 | rain_decorate_cricket_silk_hold |  
+| bip_39_word_underscore_6 | rain_decorate_cricket_silk_hold_language |  
+| bip_39_word_underscore_7 | rain_decorate_cricket_silk_hold_language_agent |  
+| bip_39_word_underscore_8 | rain_decorate_cricket_silk_hold_language_agent_theory |  
+| bip_39_word_underscore_9 | rain_decorate_cricket_silk_hold_language_agent_theory_quarter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

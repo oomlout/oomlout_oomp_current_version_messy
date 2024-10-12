@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | reform |  
+| bip_39_word_dash_10 | reform-garlic-parent-lift-solve-motor-toddler-quick-promote-chalk |  
+| bip_39_word_dash_11 | reform-garlic-parent-lift-solve-motor-toddler-quick-promote-chalk-exotic |  
+| bip_39_word_dash_12 | reform-garlic-parent-lift-solve-motor-toddler-quick-promote-chalk-exotic-asset |  
+| bip_39_word_dash_2 | reform-garlic |  
+| bip_39_word_dash_3 | reform-garlic-parent |  
+| bip_39_word_dash_4 | reform-garlic-parent-lift |  
+| bip_39_word_dash_5 | reform-garlic-parent-lift-solve |  
+| bip_39_word_dash_6 | reform-garlic-parent-lift-solve-motor |  
+| bip_39_word_dash_7 | reform-garlic-parent-lift-solve-motor-toddler |  
+| bip_39_word_dash_8 | reform-garlic-parent-lift-solve-motor-toddler-quick |  
+| bip_39_word_dash_9 | reform-garlic-parent-lift-solve-motor-toddler-quick-promote |  
 | bip_39_word_new_br_1 | reform |  
 | bip_39_word_new_br_10 | reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick<br>promote<br>chalk |  
 | bip_39_word_new_br_11 | reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick<br>promote<br>chalk<br>exotic |  
@@ -147,6 +159,18 @@ promote |
 | bip_39_word_space_7 | reform garlic parent lift solve motor toddler |  
 | bip_39_word_space_8 | reform garlic parent lift solve motor toddler quick |  
 | bip_39_word_space_9 | reform garlic parent lift solve motor toddler quick promote |  
+| bip_39_word_underscore_1 | reform |  
+| bip_39_word_underscore_10 | reform_garlic_parent_lift_solve_motor_toddler_quick_promote_chalk |  
+| bip_39_word_underscore_11 | reform_garlic_parent_lift_solve_motor_toddler_quick_promote_chalk_exotic |  
+| bip_39_word_underscore_12 | reform_garlic_parent_lift_solve_motor_toddler_quick_promote_chalk_exotic_asset |  
+| bip_39_word_underscore_2 | reform_garlic |  
+| bip_39_word_underscore_3 | reform_garlic_parent |  
+| bip_39_word_underscore_4 | reform_garlic_parent_lift |  
+| bip_39_word_underscore_5 | reform_garlic_parent_lift_solve |  
+| bip_39_word_underscore_6 | reform_garlic_parent_lift_solve_motor |  
+| bip_39_word_underscore_7 | reform_garlic_parent_lift_solve_motor_toddler |  
+| bip_39_word_underscore_8 | reform_garlic_parent_lift_solve_motor_toddler_quick |  
+| bip_39_word_underscore_9 | reform_garlic_parent_lift_solve_motor_toddler_quick_promote |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

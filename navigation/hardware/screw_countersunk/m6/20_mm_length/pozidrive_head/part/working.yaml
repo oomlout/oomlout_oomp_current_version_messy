@@ -1,3 +1,15 @@
+bip_39_word_dash_1: state
+bip_39_word_dash_10: state-tortoise-ketchup-require-song-canoe-point-guard-swing-warrior
+bip_39_word_dash_11: state-tortoise-ketchup-require-song-canoe-point-guard-swing-warrior-cute
+bip_39_word_dash_12: state-tortoise-ketchup-require-song-canoe-point-guard-swing-warrior-cute-armed
+bip_39_word_dash_2: state-tortoise
+bip_39_word_dash_3: state-tortoise-ketchup
+bip_39_word_dash_4: state-tortoise-ketchup-require
+bip_39_word_dash_5: state-tortoise-ketchup-require-song
+bip_39_word_dash_6: state-tortoise-ketchup-require-song-canoe
+bip_39_word_dash_7: state-tortoise-ketchup-require-song-canoe-point
+bip_39_word_dash_8: state-tortoise-ketchup-require-song-canoe-point-guard
+bip_39_word_dash_9: state-tortoise-ketchup-require-song-canoe-point-guard-swing
 bip_39_word_new_br_1: state
 bip_39_word_new_br_10: state<br>tortoise<br>ketchup<br>require<br>song<br>canoe<br>point<br>guard<br>swing<br>warrior
 bip_39_word_new_br_11: state<br>tortoise<br>ketchup<br>require<br>song<br>canoe<br>point<br>guard<br>swing<br>warrior<br>cute
@@ -194,6 +206,18 @@ bip_39_word_space_6: state tortoise ketchup require song canoe
 bip_39_word_space_7: state tortoise ketchup require song canoe point
 bip_39_word_space_8: state tortoise ketchup require song canoe point guard
 bip_39_word_space_9: state tortoise ketchup require song canoe point guard swing
+bip_39_word_underscore_1: state
+bip_39_word_underscore_10: state_tortoise_ketchup_require_song_canoe_point_guard_swing_warrior
+bip_39_word_underscore_11: state_tortoise_ketchup_require_song_canoe_point_guard_swing_warrior_cute
+bip_39_word_underscore_12: state_tortoise_ketchup_require_song_canoe_point_guard_swing_warrior_cute_armed
+bip_39_word_underscore_2: state_tortoise
+bip_39_word_underscore_3: state_tortoise_ketchup
+bip_39_word_underscore_4: state_tortoise_ketchup_require
+bip_39_word_underscore_5: state_tortoise_ketchup_require_song
+bip_39_word_underscore_6: state_tortoise_ketchup_require_song_canoe
+bip_39_word_underscore_7: state_tortoise_ketchup_require_song_canoe_point
+bip_39_word_underscore_8: state_tortoise_ketchup_require_song_canoe_point_guard
+bip_39_word_underscore_9: state_tortoise_ketchup_require_song_canoe_point_guard_swing
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

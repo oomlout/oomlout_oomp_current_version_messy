@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | must |  
+| bip_39_word_dash_10 | must-unveil-casual-cash-kiwi-elite-crop-such-canal-garden |  
+| bip_39_word_dash_11 | must-unveil-casual-cash-kiwi-elite-crop-such-canal-garden-oven |  
+| bip_39_word_dash_12 | must-unveil-casual-cash-kiwi-elite-crop-such-canal-garden-oven-able |  
+| bip_39_word_dash_2 | must-unveil |  
+| bip_39_word_dash_3 | must-unveil-casual |  
+| bip_39_word_dash_4 | must-unveil-casual-cash |  
+| bip_39_word_dash_5 | must-unveil-casual-cash-kiwi |  
+| bip_39_word_dash_6 | must-unveil-casual-cash-kiwi-elite |  
+| bip_39_word_dash_7 | must-unveil-casual-cash-kiwi-elite-crop |  
+| bip_39_word_dash_8 | must-unveil-casual-cash-kiwi-elite-crop-such |  
+| bip_39_word_dash_9 | must-unveil-casual-cash-kiwi-elite-crop-such-canal |  
 | bip_39_word_new_br_1 | must |  
 | bip_39_word_new_br_10 | must<br>unveil<br>casual<br>cash<br>kiwi<br>elite<br>crop<br>such<br>canal<br>garden |  
 | bip_39_word_new_br_11 | must<br>unveil<br>casual<br>cash<br>kiwi<br>elite<br>crop<br>such<br>canal<br>garden<br>oven |  
@@ -147,6 +159,18 @@ canal |
 | bip_39_word_space_7 | must unveil casual cash kiwi elite crop |  
 | bip_39_word_space_8 | must unveil casual cash kiwi elite crop such |  
 | bip_39_word_space_9 | must unveil casual cash kiwi elite crop such canal |  
+| bip_39_word_underscore_1 | must |  
+| bip_39_word_underscore_10 | must_unveil_casual_cash_kiwi_elite_crop_such_canal_garden |  
+| bip_39_word_underscore_11 | must_unveil_casual_cash_kiwi_elite_crop_such_canal_garden_oven |  
+| bip_39_word_underscore_12 | must_unveil_casual_cash_kiwi_elite_crop_such_canal_garden_oven_able |  
+| bip_39_word_underscore_2 | must_unveil |  
+| bip_39_word_underscore_3 | must_unveil_casual |  
+| bip_39_word_underscore_4 | must_unveil_casual_cash |  
+| bip_39_word_underscore_5 | must_unveil_casual_cash_kiwi |  
+| bip_39_word_underscore_6 | must_unveil_casual_cash_kiwi_elite |  
+| bip_39_word_underscore_7 | must_unveil_casual_cash_kiwi_elite_crop |  
+| bip_39_word_underscore_8 | must_unveil_casual_cash_kiwi_elite_crop_such |  
+| bip_39_word_underscore_9 | must_unveil_casual_cash_kiwi_elite_crop_such_canal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

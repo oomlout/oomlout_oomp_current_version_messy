@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | inflict |  
+| bip_39_word_dash_10 | inflict-diesel-badge-dinosaur-goddess-echo-lake-trigger-real-dolphin |  
+| bip_39_word_dash_11 | inflict-diesel-badge-dinosaur-goddess-echo-lake-trigger-real-dolphin-index |  
+| bip_39_word_dash_12 | inflict-diesel-badge-dinosaur-goddess-echo-lake-trigger-real-dolphin-index-abuse |  
+| bip_39_word_dash_2 | inflict-diesel |  
+| bip_39_word_dash_3 | inflict-diesel-badge |  
+| bip_39_word_dash_4 | inflict-diesel-badge-dinosaur |  
+| bip_39_word_dash_5 | inflict-diesel-badge-dinosaur-goddess |  
+| bip_39_word_dash_6 | inflict-diesel-badge-dinosaur-goddess-echo |  
+| bip_39_word_dash_7 | inflict-diesel-badge-dinosaur-goddess-echo-lake |  
+| bip_39_word_dash_8 | inflict-diesel-badge-dinosaur-goddess-echo-lake-trigger |  
+| bip_39_word_dash_9 | inflict-diesel-badge-dinosaur-goddess-echo-lake-trigger-real |  
 | bip_39_word_new_br_1 | inflict |  
 | bip_39_word_new_br_10 | inflict<br>diesel<br>badge<br>dinosaur<br>goddess<br>echo<br>lake<br>trigger<br>real<br>dolphin |  
 | bip_39_word_new_br_11 | inflict<br>diesel<br>badge<br>dinosaur<br>goddess<br>echo<br>lake<br>trigger<br>real<br>dolphin<br>index |  
@@ -147,6 +159,18 @@ real |
 | bip_39_word_space_7 | inflict diesel badge dinosaur goddess echo lake |  
 | bip_39_word_space_8 | inflict diesel badge dinosaur goddess echo lake trigger |  
 | bip_39_word_space_9 | inflict diesel badge dinosaur goddess echo lake trigger real |  
+| bip_39_word_underscore_1 | inflict |  
+| bip_39_word_underscore_10 | inflict_diesel_badge_dinosaur_goddess_echo_lake_trigger_real_dolphin |  
+| bip_39_word_underscore_11 | inflict_diesel_badge_dinosaur_goddess_echo_lake_trigger_real_dolphin_index |  
+| bip_39_word_underscore_12 | inflict_diesel_badge_dinosaur_goddess_echo_lake_trigger_real_dolphin_index_abuse |  
+| bip_39_word_underscore_2 | inflict_diesel |  
+| bip_39_word_underscore_3 | inflict_diesel_badge |  
+| bip_39_word_underscore_4 | inflict_diesel_badge_dinosaur |  
+| bip_39_word_underscore_5 | inflict_diesel_badge_dinosaur_goddess |  
+| bip_39_word_underscore_6 | inflict_diesel_badge_dinosaur_goddess_echo |  
+| bip_39_word_underscore_7 | inflict_diesel_badge_dinosaur_goddess_echo_lake |  
+| bip_39_word_underscore_8 | inflict_diesel_badge_dinosaur_goddess_echo_lake_trigger |  
+| bip_39_word_underscore_9 | inflict_diesel_badge_dinosaur_goddess_echo_lake_trigger_real |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

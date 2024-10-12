@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ritual
+bip_39_word_dash_10: ritual-worry-sibling-income-woman-happy-impose-write-ignore-toy
+bip_39_word_dash_11: ritual-worry-sibling-income-woman-happy-impose-write-ignore-toy-shell
+bip_39_word_dash_12: ritual-worry-sibling-income-woman-happy-impose-write-ignore-toy-shell-allow
+bip_39_word_dash_2: ritual-worry
+bip_39_word_dash_3: ritual-worry-sibling
+bip_39_word_dash_4: ritual-worry-sibling-income
+bip_39_word_dash_5: ritual-worry-sibling-income-woman
+bip_39_word_dash_6: ritual-worry-sibling-income-woman-happy
+bip_39_word_dash_7: ritual-worry-sibling-income-woman-happy-impose
+bip_39_word_dash_8: ritual-worry-sibling-income-woman-happy-impose-write
+bip_39_word_dash_9: ritual-worry-sibling-income-woman-happy-impose-write-ignore
 bip_39_word_new_br_1: ritual
 bip_39_word_new_br_10: ritual<br>worry<br>sibling<br>income<br>woman<br>happy<br>impose<br>write<br>ignore<br>toy
 bip_39_word_new_br_11: ritual<br>worry<br>sibling<br>income<br>woman<br>happy<br>impose<br>write<br>ignore<br>toy<br>shell
@@ -194,6 +206,18 @@ bip_39_word_space_6: ritual worry sibling income woman happy
 bip_39_word_space_7: ritual worry sibling income woman happy impose
 bip_39_word_space_8: ritual worry sibling income woman happy impose write
 bip_39_word_space_9: ritual worry sibling income woman happy impose write ignore
+bip_39_word_underscore_1: ritual
+bip_39_word_underscore_10: ritual_worry_sibling_income_woman_happy_impose_write_ignore_toy
+bip_39_word_underscore_11: ritual_worry_sibling_income_woman_happy_impose_write_ignore_toy_shell
+bip_39_word_underscore_12: ritual_worry_sibling_income_woman_happy_impose_write_ignore_toy_shell_allow
+bip_39_word_underscore_2: ritual_worry
+bip_39_word_underscore_3: ritual_worry_sibling
+bip_39_word_underscore_4: ritual_worry_sibling_income
+bip_39_word_underscore_5: ritual_worry_sibling_income_woman
+bip_39_word_underscore_6: ritual_worry_sibling_income_woman_happy
+bip_39_word_underscore_7: ritual_worry_sibling_income_woman_happy_impose
+bip_39_word_underscore_8: ritual_worry_sibling_income_woman_happy_impose_write
+bip_39_word_underscore_9: ritual_worry_sibling_income_woman_happy_impose_write_ignore
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

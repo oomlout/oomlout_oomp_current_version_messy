@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | girl |  
+| bip_39_word_dash_10 | girl-prefer-exhaust-orphan-minimum-game-insane-shoe-alter-feel |  
+| bip_39_word_dash_11 | girl-prefer-exhaust-orphan-minimum-game-insane-shoe-alter-feel-session |  
+| bip_39_word_dash_12 | girl-prefer-exhaust-orphan-minimum-game-insane-shoe-alter-feel-session-artefact |  
+| bip_39_word_dash_2 | girl-prefer |  
+| bip_39_word_dash_3 | girl-prefer-exhaust |  
+| bip_39_word_dash_4 | girl-prefer-exhaust-orphan |  
+| bip_39_word_dash_5 | girl-prefer-exhaust-orphan-minimum |  
+| bip_39_word_dash_6 | girl-prefer-exhaust-orphan-minimum-game |  
+| bip_39_word_dash_7 | girl-prefer-exhaust-orphan-minimum-game-insane |  
+| bip_39_word_dash_8 | girl-prefer-exhaust-orphan-minimum-game-insane-shoe |  
+| bip_39_word_dash_9 | girl-prefer-exhaust-orphan-minimum-game-insane-shoe-alter |  
 | bip_39_word_new_br_1 | girl |  
 | bip_39_word_new_br_10 | girl<br>prefer<br>exhaust<br>orphan<br>minimum<br>game<br>insane<br>shoe<br>alter<br>feel |  
 | bip_39_word_new_br_11 | girl<br>prefer<br>exhaust<br>orphan<br>minimum<br>game<br>insane<br>shoe<br>alter<br>feel<br>session |  
@@ -147,6 +159,18 @@ alter |
 | bip_39_word_space_7 | girl prefer exhaust orphan minimum game insane |  
 | bip_39_word_space_8 | girl prefer exhaust orphan minimum game insane shoe |  
 | bip_39_word_space_9 | girl prefer exhaust orphan minimum game insane shoe alter |  
+| bip_39_word_underscore_1 | girl |  
+| bip_39_word_underscore_10 | girl_prefer_exhaust_orphan_minimum_game_insane_shoe_alter_feel |  
+| bip_39_word_underscore_11 | girl_prefer_exhaust_orphan_minimum_game_insane_shoe_alter_feel_session |  
+| bip_39_word_underscore_12 | girl_prefer_exhaust_orphan_minimum_game_insane_shoe_alter_feel_session_artefact |  
+| bip_39_word_underscore_2 | girl_prefer |  
+| bip_39_word_underscore_3 | girl_prefer_exhaust |  
+| bip_39_word_underscore_4 | girl_prefer_exhaust_orphan |  
+| bip_39_word_underscore_5 | girl_prefer_exhaust_orphan_minimum |  
+| bip_39_word_underscore_6 | girl_prefer_exhaust_orphan_minimum_game |  
+| bip_39_word_underscore_7 | girl_prefer_exhaust_orphan_minimum_game_insane |  
+| bip_39_word_underscore_8 | girl_prefer_exhaust_orphan_minimum_game_insane_shoe |  
+| bip_39_word_underscore_9 | girl_prefer_exhaust_orphan_minimum_game_insane_shoe_alter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

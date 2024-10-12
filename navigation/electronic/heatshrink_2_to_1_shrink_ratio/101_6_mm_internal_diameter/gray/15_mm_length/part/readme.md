@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ride |  
+| bip_39_word_dash_10 | ride-rocket-liquid-alone-merry-reason-permit-museum-purpose-office |  
+| bip_39_word_dash_11 | ride-rocket-liquid-alone-merry-reason-permit-museum-purpose-office-reject |  
+| bip_39_word_dash_12 | ride-rocket-liquid-alone-merry-reason-permit-museum-purpose-office-reject-address |  
+| bip_39_word_dash_2 | ride-rocket |  
+| bip_39_word_dash_3 | ride-rocket-liquid |  
+| bip_39_word_dash_4 | ride-rocket-liquid-alone |  
+| bip_39_word_dash_5 | ride-rocket-liquid-alone-merry |  
+| bip_39_word_dash_6 | ride-rocket-liquid-alone-merry-reason |  
+| bip_39_word_dash_7 | ride-rocket-liquid-alone-merry-reason-permit |  
+| bip_39_word_dash_8 | ride-rocket-liquid-alone-merry-reason-permit-museum |  
+| bip_39_word_dash_9 | ride-rocket-liquid-alone-merry-reason-permit-museum-purpose |  
 | bip_39_word_new_br_1 | ride |  
 | bip_39_word_new_br_10 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office |  
 | bip_39_word_new_br_11 | ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office<br>reject |  
@@ -147,6 +159,18 @@ purpose |
 | bip_39_word_space_7 | ride rocket liquid alone merry reason permit |  
 | bip_39_word_space_8 | ride rocket liquid alone merry reason permit museum |  
 | bip_39_word_space_9 | ride rocket liquid alone merry reason permit museum purpose |  
+| bip_39_word_underscore_1 | ride |  
+| bip_39_word_underscore_10 | ride_rocket_liquid_alone_merry_reason_permit_museum_purpose_office |  
+| bip_39_word_underscore_11 | ride_rocket_liquid_alone_merry_reason_permit_museum_purpose_office_reject |  
+| bip_39_word_underscore_12 | ride_rocket_liquid_alone_merry_reason_permit_museum_purpose_office_reject_address |  
+| bip_39_word_underscore_2 | ride_rocket |  
+| bip_39_word_underscore_3 | ride_rocket_liquid |  
+| bip_39_word_underscore_4 | ride_rocket_liquid_alone |  
+| bip_39_word_underscore_5 | ride_rocket_liquid_alone_merry |  
+| bip_39_word_underscore_6 | ride_rocket_liquid_alone_merry_reason |  
+| bip_39_word_underscore_7 | ride_rocket_liquid_alone_merry_reason_permit |  
+| bip_39_word_underscore_8 | ride_rocket_liquid_alone_merry_reason_permit_museum |  
+| bip_39_word_underscore_9 | ride_rocket_liquid_alone_merry_reason_permit_museum_purpose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

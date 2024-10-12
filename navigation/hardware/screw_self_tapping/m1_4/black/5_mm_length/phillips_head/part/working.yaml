@@ -1,3 +1,15 @@
+bip_39_word_dash_1: crucial
+bip_39_word_dash_10: crucial-miracle-abandon-police-stove-boost-merge-beef-behave-struggle
+bip_39_word_dash_11: crucial-miracle-abandon-police-stove-boost-merge-beef-behave-struggle-exhibit
+bip_39_word_dash_12: crucial-miracle-abandon-police-stove-boost-merge-beef-behave-struggle-exhibit-area
+bip_39_word_dash_2: crucial-miracle
+bip_39_word_dash_3: crucial-miracle-abandon
+bip_39_word_dash_4: crucial-miracle-abandon-police
+bip_39_word_dash_5: crucial-miracle-abandon-police-stove
+bip_39_word_dash_6: crucial-miracle-abandon-police-stove-boost
+bip_39_word_dash_7: crucial-miracle-abandon-police-stove-boost-merge
+bip_39_word_dash_8: crucial-miracle-abandon-police-stove-boost-merge-beef
+bip_39_word_dash_9: crucial-miracle-abandon-police-stove-boost-merge-beef-behave
 bip_39_word_new_br_1: crucial
 bip_39_word_new_br_10: crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle
 bip_39_word_new_br_11: crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle<br>exhibit
@@ -194,6 +206,18 @@ bip_39_word_space_6: crucial miracle abandon police stove boost
 bip_39_word_space_7: crucial miracle abandon police stove boost merge
 bip_39_word_space_8: crucial miracle abandon police stove boost merge beef
 bip_39_word_space_9: crucial miracle abandon police stove boost merge beef behave
+bip_39_word_underscore_1: crucial
+bip_39_word_underscore_10: crucial_miracle_abandon_police_stove_boost_merge_beef_behave_struggle
+bip_39_word_underscore_11: crucial_miracle_abandon_police_stove_boost_merge_beef_behave_struggle_exhibit
+bip_39_word_underscore_12: crucial_miracle_abandon_police_stove_boost_merge_beef_behave_struggle_exhibit_area
+bip_39_word_underscore_2: crucial_miracle
+bip_39_word_underscore_3: crucial_miracle_abandon
+bip_39_word_underscore_4: crucial_miracle_abandon_police
+bip_39_word_underscore_5: crucial_miracle_abandon_police_stove
+bip_39_word_underscore_6: crucial_miracle_abandon_police_stove_boost
+bip_39_word_underscore_7: crucial_miracle_abandon_police_stove_boost_merge
+bip_39_word_underscore_8: crucial_miracle_abandon_police_stove_boost_merge_beef
+bip_39_word_underscore_9: crucial_miracle_abandon_police_stove_boost_merge_beef_behave
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

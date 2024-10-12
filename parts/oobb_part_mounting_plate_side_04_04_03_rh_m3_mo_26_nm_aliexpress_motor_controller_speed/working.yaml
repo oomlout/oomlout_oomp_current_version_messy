@@ -1,3 +1,15 @@
+bip_39_word_dash_1: grocery
+bip_39_word_dash_10: grocery-much-budget-cliff-amount-violin-pair-wrestle-prefer-ecology
+bip_39_word_dash_11: grocery-much-budget-cliff-amount-violin-pair-wrestle-prefer-ecology-skate
+bip_39_word_dash_12: grocery-much-budget-cliff-amount-violin-pair-wrestle-prefer-ecology-skate-art
+bip_39_word_dash_2: grocery-much
+bip_39_word_dash_3: grocery-much-budget
+bip_39_word_dash_4: grocery-much-budget-cliff
+bip_39_word_dash_5: grocery-much-budget-cliff-amount
+bip_39_word_dash_6: grocery-much-budget-cliff-amount-violin
+bip_39_word_dash_7: grocery-much-budget-cliff-amount-violin-pair
+bip_39_word_dash_8: grocery-much-budget-cliff-amount-violin-pair-wrestle
+bip_39_word_dash_9: grocery-much-budget-cliff-amount-violin-pair-wrestle-prefer
 bip_39_word_new_br_1: grocery
 bip_39_word_new_br_10: grocery<br>much<br>budget<br>cliff<br>amount<br>violin<br>pair<br>wrestle<br>prefer<br>ecology
 bip_39_word_new_br_11: grocery<br>much<br>budget<br>cliff<br>amount<br>violin<br>pair<br>wrestle<br>prefer<br>ecology<br>skate
@@ -194,6 +206,18 @@ bip_39_word_space_6: grocery much budget cliff amount violin
 bip_39_word_space_7: grocery much budget cliff amount violin pair
 bip_39_word_space_8: grocery much budget cliff amount violin pair wrestle
 bip_39_word_space_9: grocery much budget cliff amount violin pair wrestle prefer
+bip_39_word_underscore_1: grocery
+bip_39_word_underscore_10: grocery_much_budget_cliff_amount_violin_pair_wrestle_prefer_ecology
+bip_39_word_underscore_11: grocery_much_budget_cliff_amount_violin_pair_wrestle_prefer_ecology_skate
+bip_39_word_underscore_12: grocery_much_budget_cliff_amount_violin_pair_wrestle_prefer_ecology_skate_art
+bip_39_word_underscore_2: grocery_much
+bip_39_word_underscore_3: grocery_much_budget
+bip_39_word_underscore_4: grocery_much_budget_cliff
+bip_39_word_underscore_5: grocery_much_budget_cliff_amount
+bip_39_word_underscore_6: grocery_much_budget_cliff_amount_violin
+bip_39_word_underscore_7: grocery_much_budget_cliff_amount_violin_pair
+bip_39_word_underscore_8: grocery_much_budget_cliff_amount_violin_pair_wrestle
+bip_39_word_underscore_9: grocery_much_budget_cliff_amount_violin_pair_wrestle_prefer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | plastic |  
+| bip_39_word_dash_10 | plastic-skin-initial-entire-need-relief-old-fossil-tone-asset |  
+| bip_39_word_dash_11 | plastic-skin-initial-entire-need-relief-old-fossil-tone-asset-local |  
+| bip_39_word_dash_12 | plastic-skin-initial-entire-need-relief-old-fossil-tone-asset-local-always |  
+| bip_39_word_dash_2 | plastic-skin |  
+| bip_39_word_dash_3 | plastic-skin-initial |  
+| bip_39_word_dash_4 | plastic-skin-initial-entire |  
+| bip_39_word_dash_5 | plastic-skin-initial-entire-need |  
+| bip_39_word_dash_6 | plastic-skin-initial-entire-need-relief |  
+| bip_39_word_dash_7 | plastic-skin-initial-entire-need-relief-old |  
+| bip_39_word_dash_8 | plastic-skin-initial-entire-need-relief-old-fossil |  
+| bip_39_word_dash_9 | plastic-skin-initial-entire-need-relief-old-fossil-tone |  
 | bip_39_word_new_br_1 | plastic |  
 | bip_39_word_new_br_10 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil<br>tone<br>asset |  
 | bip_39_word_new_br_11 | plastic<br>skin<br>initial<br>entire<br>need<br>relief<br>old<br>fossil<br>tone<br>asset<br>local |  
@@ -147,6 +159,18 @@ tone |
 | bip_39_word_space_7 | plastic skin initial entire need relief old |  
 | bip_39_word_space_8 | plastic skin initial entire need relief old fossil |  
 | bip_39_word_space_9 | plastic skin initial entire need relief old fossil tone |  
+| bip_39_word_underscore_1 | plastic |  
+| bip_39_word_underscore_10 | plastic_skin_initial_entire_need_relief_old_fossil_tone_asset |  
+| bip_39_word_underscore_11 | plastic_skin_initial_entire_need_relief_old_fossil_tone_asset_local |  
+| bip_39_word_underscore_12 | plastic_skin_initial_entire_need_relief_old_fossil_tone_asset_local_always |  
+| bip_39_word_underscore_2 | plastic_skin |  
+| bip_39_word_underscore_3 | plastic_skin_initial |  
+| bip_39_word_underscore_4 | plastic_skin_initial_entire |  
+| bip_39_word_underscore_5 | plastic_skin_initial_entire_need |  
+| bip_39_word_underscore_6 | plastic_skin_initial_entire_need_relief |  
+| bip_39_word_underscore_7 | plastic_skin_initial_entire_need_relief_old |  
+| bip_39_word_underscore_8 | plastic_skin_initial_entire_need_relief_old_fossil |  
+| bip_39_word_underscore_9 | plastic_skin_initial_entire_need_relief_old_fossil_tone |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

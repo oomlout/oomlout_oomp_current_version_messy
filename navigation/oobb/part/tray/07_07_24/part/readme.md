@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | climb |  
+| bip_39_word_dash_10 | climb-escape-cargo-era-during-grant-pudding-you-team-bamboo |  
+| bip_39_word_dash_11 | climb-escape-cargo-era-during-grant-pudding-you-team-bamboo-maple |  
+| bip_39_word_dash_12 | climb-escape-cargo-era-during-grant-pudding-you-team-bamboo-maple-analyst |  
+| bip_39_word_dash_2 | climb-escape |  
+| bip_39_word_dash_3 | climb-escape-cargo |  
+| bip_39_word_dash_4 | climb-escape-cargo-era |  
+| bip_39_word_dash_5 | climb-escape-cargo-era-during |  
+| bip_39_word_dash_6 | climb-escape-cargo-era-during-grant |  
+| bip_39_word_dash_7 | climb-escape-cargo-era-during-grant-pudding |  
+| bip_39_word_dash_8 | climb-escape-cargo-era-during-grant-pudding-you |  
+| bip_39_word_dash_9 | climb-escape-cargo-era-during-grant-pudding-you-team |  
 | bip_39_word_new_br_1 | climb |  
 | bip_39_word_new_br_10 | climb<br>escape<br>cargo<br>era<br>during<br>grant<br>pudding<br>you<br>team<br>bamboo |  
 | bip_39_word_new_br_11 | climb<br>escape<br>cargo<br>era<br>during<br>grant<br>pudding<br>you<br>team<br>bamboo<br>maple |  
@@ -147,6 +159,18 @@ team |
 | bip_39_word_space_7 | climb escape cargo era during grant pudding |  
 | bip_39_word_space_8 | climb escape cargo era during grant pudding you |  
 | bip_39_word_space_9 | climb escape cargo era during grant pudding you team |  
+| bip_39_word_underscore_1 | climb |  
+| bip_39_word_underscore_10 | climb_escape_cargo_era_during_grant_pudding_you_team_bamboo |  
+| bip_39_word_underscore_11 | climb_escape_cargo_era_during_grant_pudding_you_team_bamboo_maple |  
+| bip_39_word_underscore_12 | climb_escape_cargo_era_during_grant_pudding_you_team_bamboo_maple_analyst |  
+| bip_39_word_underscore_2 | climb_escape |  
+| bip_39_word_underscore_3 | climb_escape_cargo |  
+| bip_39_word_underscore_4 | climb_escape_cargo_era |  
+| bip_39_word_underscore_5 | climb_escape_cargo_era_during |  
+| bip_39_word_underscore_6 | climb_escape_cargo_era_during_grant |  
+| bip_39_word_underscore_7 | climb_escape_cargo_era_during_grant_pudding |  
+| bip_39_word_underscore_8 | climb_escape_cargo_era_during_grant_pudding_you |  
+| bip_39_word_underscore_9 | climb_escape_cargo_era_during_grant_pudding_you_team |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

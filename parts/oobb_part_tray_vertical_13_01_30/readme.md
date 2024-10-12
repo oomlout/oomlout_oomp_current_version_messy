@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hair |  
+| bip_39_word_dash_10 | hair-tumble-polar-rhythm-know-usage-kangaroo-come-release-caught |  
+| bip_39_word_dash_11 | hair-tumble-polar-rhythm-know-usage-kangaroo-come-release-caught-present |  
+| bip_39_word_dash_12 | hair-tumble-polar-rhythm-know-usage-kangaroo-come-release-caught-present-acquire |  
+| bip_39_word_dash_2 | hair-tumble |  
+| bip_39_word_dash_3 | hair-tumble-polar |  
+| bip_39_word_dash_4 | hair-tumble-polar-rhythm |  
+| bip_39_word_dash_5 | hair-tumble-polar-rhythm-know |  
+| bip_39_word_dash_6 | hair-tumble-polar-rhythm-know-usage |  
+| bip_39_word_dash_7 | hair-tumble-polar-rhythm-know-usage-kangaroo |  
+| bip_39_word_dash_8 | hair-tumble-polar-rhythm-know-usage-kangaroo-come |  
+| bip_39_word_dash_9 | hair-tumble-polar-rhythm-know-usage-kangaroo-come-release |  
 | bip_39_word_new_br_1 | hair |  
 | bip_39_word_new_br_10 | hair<br>tumble<br>polar<br>rhythm<br>know<br>usage<br>kangaroo<br>come<br>release<br>caught |  
 | bip_39_word_new_br_11 | hair<br>tumble<br>polar<br>rhythm<br>know<br>usage<br>kangaroo<br>come<br>release<br>caught<br>present |  
@@ -147,6 +159,18 @@ release |
 | bip_39_word_space_7 | hair tumble polar rhythm know usage kangaroo |  
 | bip_39_word_space_8 | hair tumble polar rhythm know usage kangaroo come |  
 | bip_39_word_space_9 | hair tumble polar rhythm know usage kangaroo come release |  
+| bip_39_word_underscore_1 | hair |  
+| bip_39_word_underscore_10 | hair_tumble_polar_rhythm_know_usage_kangaroo_come_release_caught |  
+| bip_39_word_underscore_11 | hair_tumble_polar_rhythm_know_usage_kangaroo_come_release_caught_present |  
+| bip_39_word_underscore_12 | hair_tumble_polar_rhythm_know_usage_kangaroo_come_release_caught_present_acquire |  
+| bip_39_word_underscore_2 | hair_tumble |  
+| bip_39_word_underscore_3 | hair_tumble_polar |  
+| bip_39_word_underscore_4 | hair_tumble_polar_rhythm |  
+| bip_39_word_underscore_5 | hair_tumble_polar_rhythm_know |  
+| bip_39_word_underscore_6 | hair_tumble_polar_rhythm_know_usage |  
+| bip_39_word_underscore_7 | hair_tumble_polar_rhythm_know_usage_kangaroo |  
+| bip_39_word_underscore_8 | hair_tumble_polar_rhythm_know_usage_kangaroo_come |  
+| bip_39_word_underscore_9 | hair_tumble_polar_rhythm_know_usage_kangaroo_come_release |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

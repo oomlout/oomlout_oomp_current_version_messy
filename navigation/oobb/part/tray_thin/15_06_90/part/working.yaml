@@ -1,3 +1,15 @@
+bip_39_word_dash_1: web
+bip_39_word_dash_10: web-speak-ill-sword-memory-enter-sustain-kingdom-input-ten
+bip_39_word_dash_11: web-speak-ill-sword-memory-enter-sustain-kingdom-input-ten-noise
+bip_39_word_dash_12: web-speak-ill-sword-memory-enter-sustain-kingdom-input-ten-noise-action
+bip_39_word_dash_2: web-speak
+bip_39_word_dash_3: web-speak-ill
+bip_39_word_dash_4: web-speak-ill-sword
+bip_39_word_dash_5: web-speak-ill-sword-memory
+bip_39_word_dash_6: web-speak-ill-sword-memory-enter
+bip_39_word_dash_7: web-speak-ill-sword-memory-enter-sustain
+bip_39_word_dash_8: web-speak-ill-sword-memory-enter-sustain-kingdom
+bip_39_word_dash_9: web-speak-ill-sword-memory-enter-sustain-kingdom-input
 bip_39_word_new_br_1: web
 bip_39_word_new_br_10: web<br>speak<br>ill<br>sword<br>memory<br>enter<br>sustain<br>kingdom<br>input<br>ten
 bip_39_word_new_br_11: web<br>speak<br>ill<br>sword<br>memory<br>enter<br>sustain<br>kingdom<br>input<br>ten<br>noise
@@ -192,6 +204,18 @@ bip_39_word_space_6: web speak ill sword memory enter
 bip_39_word_space_7: web speak ill sword memory enter sustain
 bip_39_word_space_8: web speak ill sword memory enter sustain kingdom
 bip_39_word_space_9: web speak ill sword memory enter sustain kingdom input
+bip_39_word_underscore_1: web
+bip_39_word_underscore_10: web_speak_ill_sword_memory_enter_sustain_kingdom_input_ten
+bip_39_word_underscore_11: web_speak_ill_sword_memory_enter_sustain_kingdom_input_ten_noise
+bip_39_word_underscore_12: web_speak_ill_sword_memory_enter_sustain_kingdom_input_ten_noise_action
+bip_39_word_underscore_2: web_speak
+bip_39_word_underscore_3: web_speak_ill
+bip_39_word_underscore_4: web_speak_ill_sword
+bip_39_word_underscore_5: web_speak_ill_sword_memory
+bip_39_word_underscore_6: web_speak_ill_sword_memory_enter
+bip_39_word_underscore_7: web_speak_ill_sword_memory_enter_sustain
+bip_39_word_underscore_8: web_speak_ill_sword_memory_enter_sustain_kingdom
+bip_39_word_underscore_9: web_speak_ill_sword_memory_enter_sustain_kingdom_input
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

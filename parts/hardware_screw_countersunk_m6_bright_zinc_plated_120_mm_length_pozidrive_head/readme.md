@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | script |  
+| bip_39_word_dash_10 | script-review-addict-truck-amount-pear-gun-void-neither-evoke |  
+| bip_39_word_dash_11 | script-review-addict-truck-amount-pear-gun-void-neither-evoke-life |  
+| bip_39_word_dash_12 | script-review-addict-truck-amount-pear-gun-void-neither-evoke-life-always |  
+| bip_39_word_dash_2 | script-review |  
+| bip_39_word_dash_3 | script-review-addict |  
+| bip_39_word_dash_4 | script-review-addict-truck |  
+| bip_39_word_dash_5 | script-review-addict-truck-amount |  
+| bip_39_word_dash_6 | script-review-addict-truck-amount-pear |  
+| bip_39_word_dash_7 | script-review-addict-truck-amount-pear-gun |  
+| bip_39_word_dash_8 | script-review-addict-truck-amount-pear-gun-void |  
+| bip_39_word_dash_9 | script-review-addict-truck-amount-pear-gun-void-neither |  
 | bip_39_word_new_br_1 | script |  
 | bip_39_word_new_br_10 | script<br>review<br>addict<br>truck<br>amount<br>pear<br>gun<br>void<br>neither<br>evoke |  
 | bip_39_word_new_br_11 | script<br>review<br>addict<br>truck<br>amount<br>pear<br>gun<br>void<br>neither<br>evoke<br>life |  
@@ -147,6 +159,18 @@ neither |
 | bip_39_word_space_7 | script review addict truck amount pear gun |  
 | bip_39_word_space_8 | script review addict truck amount pear gun void |  
 | bip_39_word_space_9 | script review addict truck amount pear gun void neither |  
+| bip_39_word_underscore_1 | script |  
+| bip_39_word_underscore_10 | script_review_addict_truck_amount_pear_gun_void_neither_evoke |  
+| bip_39_word_underscore_11 | script_review_addict_truck_amount_pear_gun_void_neither_evoke_life |  
+| bip_39_word_underscore_12 | script_review_addict_truck_amount_pear_gun_void_neither_evoke_life_always |  
+| bip_39_word_underscore_2 | script_review |  
+| bip_39_word_underscore_3 | script_review_addict |  
+| bip_39_word_underscore_4 | script_review_addict_truck |  
+| bip_39_word_underscore_5 | script_review_addict_truck_amount |  
+| bip_39_word_underscore_6 | script_review_addict_truck_amount_pear |  
+| bip_39_word_underscore_7 | script_review_addict_truck_amount_pear_gun |  
+| bip_39_word_underscore_8 | script_review_addict_truck_amount_pear_gun_void |  
+| bip_39_word_underscore_9 | script_review_addict_truck_amount_pear_gun_void_neither |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

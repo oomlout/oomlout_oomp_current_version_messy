@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | walk |  
+| bip_39_word_dash_10 | walk-stamp-camp-enable-segment-knock-daughter-lobster-menu-man |  
+| bip_39_word_dash_11 | walk-stamp-camp-enable-segment-knock-daughter-lobster-menu-man-element |  
+| bip_39_word_dash_12 | walk-stamp-camp-enable-segment-knock-daughter-lobster-menu-man-element-athlete |  
+| bip_39_word_dash_2 | walk-stamp |  
+| bip_39_word_dash_3 | walk-stamp-camp |  
+| bip_39_word_dash_4 | walk-stamp-camp-enable |  
+| bip_39_word_dash_5 | walk-stamp-camp-enable-segment |  
+| bip_39_word_dash_6 | walk-stamp-camp-enable-segment-knock |  
+| bip_39_word_dash_7 | walk-stamp-camp-enable-segment-knock-daughter |  
+| bip_39_word_dash_8 | walk-stamp-camp-enable-segment-knock-daughter-lobster |  
+| bip_39_word_dash_9 | walk-stamp-camp-enable-segment-knock-daughter-lobster-menu |  
 | bip_39_word_new_br_1 | walk |  
 | bip_39_word_new_br_10 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man |  
 | bip_39_word_new_br_11 | walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man<br>element |  
@@ -147,6 +159,18 @@ menu |
 | bip_39_word_space_7 | walk stamp camp enable segment knock daughter |  
 | bip_39_word_space_8 | walk stamp camp enable segment knock daughter lobster |  
 | bip_39_word_space_9 | walk stamp camp enable segment knock daughter lobster menu |  
+| bip_39_word_underscore_1 | walk |  
+| bip_39_word_underscore_10 | walk_stamp_camp_enable_segment_knock_daughter_lobster_menu_man |  
+| bip_39_word_underscore_11 | walk_stamp_camp_enable_segment_knock_daughter_lobster_menu_man_element |  
+| bip_39_word_underscore_12 | walk_stamp_camp_enable_segment_knock_daughter_lobster_menu_man_element_athlete |  
+| bip_39_word_underscore_2 | walk_stamp |  
+| bip_39_word_underscore_3 | walk_stamp_camp |  
+| bip_39_word_underscore_4 | walk_stamp_camp_enable |  
+| bip_39_word_underscore_5 | walk_stamp_camp_enable_segment |  
+| bip_39_word_underscore_6 | walk_stamp_camp_enable_segment_knock |  
+| bip_39_word_underscore_7 | walk_stamp_camp_enable_segment_knock_daughter |  
+| bip_39_word_underscore_8 | walk_stamp_camp_enable_segment_knock_daughter_lobster |  
+| bip_39_word_underscore_9 | walk_stamp_camp_enable_segment_knock_daughter_lobster_menu |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

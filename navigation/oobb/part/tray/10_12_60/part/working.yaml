@@ -1,3 +1,15 @@
+bip_39_word_dash_1: boy
+bip_39_word_dash_10: boy-soldier-scrap-damp-furnace-barely-jeans-belt-unfold-spoil
+bip_39_word_dash_11: boy-soldier-scrap-damp-furnace-barely-jeans-belt-unfold-spoil-potato
+bip_39_word_dash_12: boy-soldier-scrap-damp-furnace-barely-jeans-belt-unfold-spoil-potato-angry
+bip_39_word_dash_2: boy-soldier
+bip_39_word_dash_3: boy-soldier-scrap
+bip_39_word_dash_4: boy-soldier-scrap-damp
+bip_39_word_dash_5: boy-soldier-scrap-damp-furnace
+bip_39_word_dash_6: boy-soldier-scrap-damp-furnace-barely
+bip_39_word_dash_7: boy-soldier-scrap-damp-furnace-barely-jeans
+bip_39_word_dash_8: boy-soldier-scrap-damp-furnace-barely-jeans-belt
+bip_39_word_dash_9: boy-soldier-scrap-damp-furnace-barely-jeans-belt-unfold
 bip_39_word_new_br_1: boy
 bip_39_word_new_br_10: boy<br>soldier<br>scrap<br>damp<br>furnace<br>barely<br>jeans<br>belt<br>unfold<br>spoil
 bip_39_word_new_br_11: boy<br>soldier<br>scrap<br>damp<br>furnace<br>barely<br>jeans<br>belt<br>unfold<br>spoil<br>potato
@@ -193,6 +205,18 @@ bip_39_word_space_6: boy soldier scrap damp furnace barely
 bip_39_word_space_7: boy soldier scrap damp furnace barely jeans
 bip_39_word_space_8: boy soldier scrap damp furnace barely jeans belt
 bip_39_word_space_9: boy soldier scrap damp furnace barely jeans belt unfold
+bip_39_word_underscore_1: boy
+bip_39_word_underscore_10: boy_soldier_scrap_damp_furnace_barely_jeans_belt_unfold_spoil
+bip_39_word_underscore_11: boy_soldier_scrap_damp_furnace_barely_jeans_belt_unfold_spoil_potato
+bip_39_word_underscore_12: boy_soldier_scrap_damp_furnace_barely_jeans_belt_unfold_spoil_potato_angry
+bip_39_word_underscore_2: boy_soldier
+bip_39_word_underscore_3: boy_soldier_scrap
+bip_39_word_underscore_4: boy_soldier_scrap_damp
+bip_39_word_underscore_5: boy_soldier_scrap_damp_furnace
+bip_39_word_underscore_6: boy_soldier_scrap_damp_furnace_barely
+bip_39_word_underscore_7: boy_soldier_scrap_damp_furnace_barely_jeans
+bip_39_word_underscore_8: boy_soldier_scrap_damp_furnace_barely_jeans_belt
+bip_39_word_underscore_9: boy_soldier_scrap_damp_furnace_barely_jeans_belt_unfold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

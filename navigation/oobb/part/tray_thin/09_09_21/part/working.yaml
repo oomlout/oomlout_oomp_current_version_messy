@@ -1,3 +1,15 @@
+bip_39_word_dash_1: oppose
+bip_39_word_dash_10: oppose-stock-situate-seek-mean-rifle-hope-train-modify-country
+bip_39_word_dash_11: oppose-stock-situate-seek-mean-rifle-hope-train-modify-country-pair
+bip_39_word_dash_12: oppose-stock-situate-seek-mean-rifle-hope-train-modify-country-pair-average
+bip_39_word_dash_2: oppose-stock
+bip_39_word_dash_3: oppose-stock-situate
+bip_39_word_dash_4: oppose-stock-situate-seek
+bip_39_word_dash_5: oppose-stock-situate-seek-mean
+bip_39_word_dash_6: oppose-stock-situate-seek-mean-rifle
+bip_39_word_dash_7: oppose-stock-situate-seek-mean-rifle-hope
+bip_39_word_dash_8: oppose-stock-situate-seek-mean-rifle-hope-train
+bip_39_word_dash_9: oppose-stock-situate-seek-mean-rifle-hope-train-modify
 bip_39_word_new_br_1: oppose
 bip_39_word_new_br_10: oppose<br>stock<br>situate<br>seek<br>mean<br>rifle<br>hope<br>train<br>modify<br>country
 bip_39_word_new_br_11: oppose<br>stock<br>situate<br>seek<br>mean<br>rifle<br>hope<br>train<br>modify<br>country<br>pair
@@ -193,6 +205,18 @@ bip_39_word_space_6: oppose stock situate seek mean rifle
 bip_39_word_space_7: oppose stock situate seek mean rifle hope
 bip_39_word_space_8: oppose stock situate seek mean rifle hope train
 bip_39_word_space_9: oppose stock situate seek mean rifle hope train modify
+bip_39_word_underscore_1: oppose
+bip_39_word_underscore_10: oppose_stock_situate_seek_mean_rifle_hope_train_modify_country
+bip_39_word_underscore_11: oppose_stock_situate_seek_mean_rifle_hope_train_modify_country_pair
+bip_39_word_underscore_12: oppose_stock_situate_seek_mean_rifle_hope_train_modify_country_pair_average
+bip_39_word_underscore_2: oppose_stock
+bip_39_word_underscore_3: oppose_stock_situate
+bip_39_word_underscore_4: oppose_stock_situate_seek
+bip_39_word_underscore_5: oppose_stock_situate_seek_mean
+bip_39_word_underscore_6: oppose_stock_situate_seek_mean_rifle
+bip_39_word_underscore_7: oppose_stock_situate_seek_mean_rifle_hope
+bip_39_word_underscore_8: oppose_stock_situate_seek_mean_rifle_hope_train
+bip_39_word_underscore_9: oppose_stock_situate_seek_mean_rifle_hope_train_modify
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: clown
+bip_39_word_dash_10: clown-secret-royal-face-repair-habit-spot-radar-hand-divide
+bip_39_word_dash_11: clown-secret-royal-face-repair-habit-spot-radar-hand-divide-poverty
+bip_39_word_dash_12: clown-secret-royal-face-repair-habit-spot-radar-hand-divide-poverty-amazing
+bip_39_word_dash_2: clown-secret
+bip_39_word_dash_3: clown-secret-royal
+bip_39_word_dash_4: clown-secret-royal-face
+bip_39_word_dash_5: clown-secret-royal-face-repair
+bip_39_word_dash_6: clown-secret-royal-face-repair-habit
+bip_39_word_dash_7: clown-secret-royal-face-repair-habit-spot
+bip_39_word_dash_8: clown-secret-royal-face-repair-habit-spot-radar
+bip_39_word_dash_9: clown-secret-royal-face-repair-habit-spot-radar-hand
 bip_39_word_new_br_1: clown
 bip_39_word_new_br_10: clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar<br>hand<br>divide
 bip_39_word_new_br_11: clown<br>secret<br>royal<br>face<br>repair<br>habit<br>spot<br>radar<br>hand<br>divide<br>poverty
@@ -193,6 +205,18 @@ bip_39_word_space_6: clown secret royal face repair habit
 bip_39_word_space_7: clown secret royal face repair habit spot
 bip_39_word_space_8: clown secret royal face repair habit spot radar
 bip_39_word_space_9: clown secret royal face repair habit spot radar hand
+bip_39_word_underscore_1: clown
+bip_39_word_underscore_10: clown_secret_royal_face_repair_habit_spot_radar_hand_divide
+bip_39_word_underscore_11: clown_secret_royal_face_repair_habit_spot_radar_hand_divide_poverty
+bip_39_word_underscore_12: clown_secret_royal_face_repair_habit_spot_radar_hand_divide_poverty_amazing
+bip_39_word_underscore_2: clown_secret
+bip_39_word_underscore_3: clown_secret_royal
+bip_39_word_underscore_4: clown_secret_royal_face
+bip_39_word_underscore_5: clown_secret_royal_face_repair
+bip_39_word_underscore_6: clown_secret_royal_face_repair_habit
+bip_39_word_underscore_7: clown_secret_royal_face_repair_habit_spot
+bip_39_word_underscore_8: clown_secret_royal_face_repair_habit_spot_radar
+bip_39_word_underscore_9: clown_secret_royal_face_repair_habit_spot_radar_hand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

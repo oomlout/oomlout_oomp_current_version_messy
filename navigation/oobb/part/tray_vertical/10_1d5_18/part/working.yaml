@@ -1,3 +1,15 @@
+bip_39_word_dash_1: bomb
+bip_39_word_dash_10: bomb-gym-knee-giggle-know-taste-someone-feel-coast-mercy
+bip_39_word_dash_11: bomb-gym-knee-giggle-know-taste-someone-feel-coast-mercy-anxiety
+bip_39_word_dash_12: bomb-gym-knee-giggle-know-taste-someone-feel-coast-mercy-anxiety-august
+bip_39_word_dash_2: bomb-gym
+bip_39_word_dash_3: bomb-gym-knee
+bip_39_word_dash_4: bomb-gym-knee-giggle
+bip_39_word_dash_5: bomb-gym-knee-giggle-know
+bip_39_word_dash_6: bomb-gym-knee-giggle-know-taste
+bip_39_word_dash_7: bomb-gym-knee-giggle-know-taste-someone
+bip_39_word_dash_8: bomb-gym-knee-giggle-know-taste-someone-feel
+bip_39_word_dash_9: bomb-gym-knee-giggle-know-taste-someone-feel-coast
 bip_39_word_new_br_1: bomb
 bip_39_word_new_br_10: bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy
 bip_39_word_new_br_11: bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy<br>anxiety
@@ -192,6 +204,18 @@ bip_39_word_space_6: bomb gym knee giggle know taste
 bip_39_word_space_7: bomb gym knee giggle know taste someone
 bip_39_word_space_8: bomb gym knee giggle know taste someone feel
 bip_39_word_space_9: bomb gym knee giggle know taste someone feel coast
+bip_39_word_underscore_1: bomb
+bip_39_word_underscore_10: bomb_gym_knee_giggle_know_taste_someone_feel_coast_mercy
+bip_39_word_underscore_11: bomb_gym_knee_giggle_know_taste_someone_feel_coast_mercy_anxiety
+bip_39_word_underscore_12: bomb_gym_knee_giggle_know_taste_someone_feel_coast_mercy_anxiety_august
+bip_39_word_underscore_2: bomb_gym
+bip_39_word_underscore_3: bomb_gym_knee
+bip_39_word_underscore_4: bomb_gym_knee_giggle
+bip_39_word_underscore_5: bomb_gym_knee_giggle_know
+bip_39_word_underscore_6: bomb_gym_knee_giggle_know_taste
+bip_39_word_underscore_7: bomb_gym_knee_giggle_know_taste_someone
+bip_39_word_underscore_8: bomb_gym_knee_giggle_know_taste_someone_feel
+bip_39_word_underscore_9: bomb_gym_knee_giggle_know_taste_someone_feel_coast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

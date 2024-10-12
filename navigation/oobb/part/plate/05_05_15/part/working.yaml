@@ -1,3 +1,15 @@
+bip_39_word_dash_1: liar
+bip_39_word_dash_10: liar-riot-violin-step-embark-curtain-phrase-hill-supply-denial
+bip_39_word_dash_11: liar-riot-violin-step-embark-curtain-phrase-hill-supply-denial-exit
+bip_39_word_dash_12: liar-riot-violin-step-embark-curtain-phrase-hill-supply-denial-exit-analyst
+bip_39_word_dash_2: liar-riot
+bip_39_word_dash_3: liar-riot-violin
+bip_39_word_dash_4: liar-riot-violin-step
+bip_39_word_dash_5: liar-riot-violin-step-embark
+bip_39_word_dash_6: liar-riot-violin-step-embark-curtain
+bip_39_word_dash_7: liar-riot-violin-step-embark-curtain-phrase
+bip_39_word_dash_8: liar-riot-violin-step-embark-curtain-phrase-hill
+bip_39_word_dash_9: liar-riot-violin-step-embark-curtain-phrase-hill-supply
 bip_39_word_new_br_1: liar
 bip_39_word_new_br_10: liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill<br>supply<br>denial
 bip_39_word_new_br_11: liar<br>riot<br>violin<br>step<br>embark<br>curtain<br>phrase<br>hill<br>supply<br>denial<br>exit
@@ -193,6 +205,18 @@ bip_39_word_space_6: liar riot violin step embark curtain
 bip_39_word_space_7: liar riot violin step embark curtain phrase
 bip_39_word_space_8: liar riot violin step embark curtain phrase hill
 bip_39_word_space_9: liar riot violin step embark curtain phrase hill supply
+bip_39_word_underscore_1: liar
+bip_39_word_underscore_10: liar_riot_violin_step_embark_curtain_phrase_hill_supply_denial
+bip_39_word_underscore_11: liar_riot_violin_step_embark_curtain_phrase_hill_supply_denial_exit
+bip_39_word_underscore_12: liar_riot_violin_step_embark_curtain_phrase_hill_supply_denial_exit_analyst
+bip_39_word_underscore_2: liar_riot
+bip_39_word_underscore_3: liar_riot_violin
+bip_39_word_underscore_4: liar_riot_violin_step
+bip_39_word_underscore_5: liar_riot_violin_step_embark
+bip_39_word_underscore_6: liar_riot_violin_step_embark_curtain
+bip_39_word_underscore_7: liar_riot_violin_step_embark_curtain_phrase
+bip_39_word_underscore_8: liar_riot_violin_step_embark_curtain_phrase_hill
+bip_39_word_underscore_9: liar_riot_violin_step_embark_curtain_phrase_hill_supply
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

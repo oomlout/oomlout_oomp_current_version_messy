@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | noble |  
+| bip_39_word_dash_10 | noble-actress-found-kite-carpet-matter-link-document-else-input |  
+| bip_39_word_dash_11 | noble-actress-found-kite-carpet-matter-link-document-else-input-tape |  
+| bip_39_word_dash_12 | noble-actress-found-kite-carpet-matter-link-document-else-input-tape-advance |  
+| bip_39_word_dash_2 | noble-actress |  
+| bip_39_word_dash_3 | noble-actress-found |  
+| bip_39_word_dash_4 | noble-actress-found-kite |  
+| bip_39_word_dash_5 | noble-actress-found-kite-carpet |  
+| bip_39_word_dash_6 | noble-actress-found-kite-carpet-matter |  
+| bip_39_word_dash_7 | noble-actress-found-kite-carpet-matter-link |  
+| bip_39_word_dash_8 | noble-actress-found-kite-carpet-matter-link-document |  
+| bip_39_word_dash_9 | noble-actress-found-kite-carpet-matter-link-document-else |  
 | bip_39_word_new_br_1 | noble |  
 | bip_39_word_new_br_10 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document<br>else<br>input |  
 | bip_39_word_new_br_11 | noble<br>actress<br>found<br>kite<br>carpet<br>matter<br>link<br>document<br>else<br>input<br>tape |  
@@ -147,6 +159,18 @@ else |
 | bip_39_word_space_7 | noble actress found kite carpet matter link |  
 | bip_39_word_space_8 | noble actress found kite carpet matter link document |  
 | bip_39_word_space_9 | noble actress found kite carpet matter link document else |  
+| bip_39_word_underscore_1 | noble |  
+| bip_39_word_underscore_10 | noble_actress_found_kite_carpet_matter_link_document_else_input |  
+| bip_39_word_underscore_11 | noble_actress_found_kite_carpet_matter_link_document_else_input_tape |  
+| bip_39_word_underscore_12 | noble_actress_found_kite_carpet_matter_link_document_else_input_tape_advance |  
+| bip_39_word_underscore_2 | noble_actress |  
+| bip_39_word_underscore_3 | noble_actress_found |  
+| bip_39_word_underscore_4 | noble_actress_found_kite |  
+| bip_39_word_underscore_5 | noble_actress_found_kite_carpet |  
+| bip_39_word_underscore_6 | noble_actress_found_kite_carpet_matter |  
+| bip_39_word_underscore_7 | noble_actress_found_kite_carpet_matter_link |  
+| bip_39_word_underscore_8 | noble_actress_found_kite_carpet_matter_link_document |  
+| bip_39_word_underscore_9 | noble_actress_found_kite_carpet_matter_link_document_else |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

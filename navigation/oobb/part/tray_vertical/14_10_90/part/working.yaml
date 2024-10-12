@@ -1,3 +1,15 @@
+bip_39_word_dash_1: enough
+bip_39_word_dash_10: enough-dutch-affair-rose-food-joke-moment-calm-off-slim
+bip_39_word_dash_11: enough-dutch-affair-rose-food-joke-moment-calm-off-slim-naive
+bip_39_word_dash_12: enough-dutch-affair-rose-food-joke-moment-calm-off-slim-naive-absorb
+bip_39_word_dash_2: enough-dutch
+bip_39_word_dash_3: enough-dutch-affair
+bip_39_word_dash_4: enough-dutch-affair-rose
+bip_39_word_dash_5: enough-dutch-affair-rose-food
+bip_39_word_dash_6: enough-dutch-affair-rose-food-joke
+bip_39_word_dash_7: enough-dutch-affair-rose-food-joke-moment
+bip_39_word_dash_8: enough-dutch-affair-rose-food-joke-moment-calm
+bip_39_word_dash_9: enough-dutch-affair-rose-food-joke-moment-calm-off
 bip_39_word_new_br_1: enough
 bip_39_word_new_br_10: enough<br>dutch<br>affair<br>rose<br>food<br>joke<br>moment<br>calm<br>off<br>slim
 bip_39_word_new_br_11: enough<br>dutch<br>affair<br>rose<br>food<br>joke<br>moment<br>calm<br>off<br>slim<br>naive
@@ -192,6 +204,18 @@ bip_39_word_space_6: enough dutch affair rose food joke
 bip_39_word_space_7: enough dutch affair rose food joke moment
 bip_39_word_space_8: enough dutch affair rose food joke moment calm
 bip_39_word_space_9: enough dutch affair rose food joke moment calm off
+bip_39_word_underscore_1: enough
+bip_39_word_underscore_10: enough_dutch_affair_rose_food_joke_moment_calm_off_slim
+bip_39_word_underscore_11: enough_dutch_affair_rose_food_joke_moment_calm_off_slim_naive
+bip_39_word_underscore_12: enough_dutch_affair_rose_food_joke_moment_calm_off_slim_naive_absorb
+bip_39_word_underscore_2: enough_dutch
+bip_39_word_underscore_3: enough_dutch_affair
+bip_39_word_underscore_4: enough_dutch_affair_rose
+bip_39_word_underscore_5: enough_dutch_affair_rose_food
+bip_39_word_underscore_6: enough_dutch_affair_rose_food_joke
+bip_39_word_underscore_7: enough_dutch_affair_rose_food_joke_moment
+bip_39_word_underscore_8: enough_dutch_affair_rose_food_joke_moment_calm
+bip_39_word_underscore_9: enough_dutch_affair_rose_food_joke_moment_calm_off
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

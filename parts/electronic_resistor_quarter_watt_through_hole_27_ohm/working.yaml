@@ -1,3 +1,15 @@
+bip_39_word_dash_1: correct
+bip_39_word_dash_10: correct-engine-monster-fall-ordinary-file-gentle-rug-guide-palm
+bip_39_word_dash_11: correct-engine-monster-fall-ordinary-file-gentle-rug-guide-palm-caution
+bip_39_word_dash_12: correct-engine-monster-fall-ordinary-file-gentle-rug-guide-palm-caution-another
+bip_39_word_dash_2: correct-engine
+bip_39_word_dash_3: correct-engine-monster
+bip_39_word_dash_4: correct-engine-monster-fall
+bip_39_word_dash_5: correct-engine-monster-fall-ordinary
+bip_39_word_dash_6: correct-engine-monster-fall-ordinary-file
+bip_39_word_dash_7: correct-engine-monster-fall-ordinary-file-gentle
+bip_39_word_dash_8: correct-engine-monster-fall-ordinary-file-gentle-rug
+bip_39_word_dash_9: correct-engine-monster-fall-ordinary-file-gentle-rug-guide
 bip_39_word_new_br_1: correct
 bip_39_word_new_br_10: correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm
 bip_39_word_new_br_11: correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm<br>caution
@@ -193,6 +205,18 @@ bip_39_word_space_6: correct engine monster fall ordinary file
 bip_39_word_space_7: correct engine monster fall ordinary file gentle
 bip_39_word_space_8: correct engine monster fall ordinary file gentle rug
 bip_39_word_space_9: correct engine monster fall ordinary file gentle rug guide
+bip_39_word_underscore_1: correct
+bip_39_word_underscore_10: correct_engine_monster_fall_ordinary_file_gentle_rug_guide_palm
+bip_39_word_underscore_11: correct_engine_monster_fall_ordinary_file_gentle_rug_guide_palm_caution
+bip_39_word_underscore_12: correct_engine_monster_fall_ordinary_file_gentle_rug_guide_palm_caution_another
+bip_39_word_underscore_2: correct_engine
+bip_39_word_underscore_3: correct_engine_monster
+bip_39_word_underscore_4: correct_engine_monster_fall
+bip_39_word_underscore_5: correct_engine_monster_fall_ordinary
+bip_39_word_underscore_6: correct_engine_monster_fall_ordinary_file
+bip_39_word_underscore_7: correct_engine_monster_fall_ordinary_file_gentle
+bip_39_word_underscore_8: correct_engine_monster_fall_ordinary_file_gentle_rug
+bip_39_word_underscore_9: correct_engine_monster_fall_ordinary_file_gentle_rug_guide
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

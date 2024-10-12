@@ -1,3 +1,15 @@
+bip_39_word_dash_1: episode
+bip_39_word_dash_10: episode-during-window-share-artefact-make-lava-ticket-speak-plate
+bip_39_word_dash_11: episode-during-window-share-artefact-make-lava-ticket-speak-plate-ridge
+bip_39_word_dash_12: episode-during-window-share-artefact-make-lava-ticket-speak-plate-ridge-able
+bip_39_word_dash_2: episode-during
+bip_39_word_dash_3: episode-during-window
+bip_39_word_dash_4: episode-during-window-share
+bip_39_word_dash_5: episode-during-window-share-artefact
+bip_39_word_dash_6: episode-during-window-share-artefact-make
+bip_39_word_dash_7: episode-during-window-share-artefact-make-lava
+bip_39_word_dash_8: episode-during-window-share-artefact-make-lava-ticket
+bip_39_word_dash_9: episode-during-window-share-artefact-make-lava-ticket-speak
 bip_39_word_new_br_1: episode
 bip_39_word_new_br_10: episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate
 bip_39_word_new_br_11: episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate<br>ridge
@@ -194,6 +206,18 @@ bip_39_word_space_6: episode during window share artefact make
 bip_39_word_space_7: episode during window share artefact make lava
 bip_39_word_space_8: episode during window share artefact make lava ticket
 bip_39_word_space_9: episode during window share artefact make lava ticket speak
+bip_39_word_underscore_1: episode
+bip_39_word_underscore_10: episode_during_window_share_artefact_make_lava_ticket_speak_plate
+bip_39_word_underscore_11: episode_during_window_share_artefact_make_lava_ticket_speak_plate_ridge
+bip_39_word_underscore_12: episode_during_window_share_artefact_make_lava_ticket_speak_plate_ridge_able
+bip_39_word_underscore_2: episode_during
+bip_39_word_underscore_3: episode_during_window
+bip_39_word_underscore_4: episode_during_window_share
+bip_39_word_underscore_5: episode_during_window_share_artefact
+bip_39_word_underscore_6: episode_during_window_share_artefact_make
+bip_39_word_underscore_7: episode_during_window_share_artefact_make_lava
+bip_39_word_underscore_8: episode_during_window_share_artefact_make_lava_ticket
+bip_39_word_underscore_9: episode_during_window_share_artefact_make_lava_ticket_speak
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

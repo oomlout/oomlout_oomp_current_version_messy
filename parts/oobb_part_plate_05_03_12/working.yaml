@@ -1,3 +1,15 @@
+bip_39_word_dash_1: glue
+bip_39_word_dash_10: glue-brother-ride-kidney-apple-retreat-demand-direct-slot-organ
+bip_39_word_dash_11: glue-brother-ride-kidney-apple-retreat-demand-direct-slot-organ-evoke
+bip_39_word_dash_12: glue-brother-ride-kidney-apple-retreat-demand-direct-slot-organ-evoke-assist
+bip_39_word_dash_2: glue-brother
+bip_39_word_dash_3: glue-brother-ride
+bip_39_word_dash_4: glue-brother-ride-kidney
+bip_39_word_dash_5: glue-brother-ride-kidney-apple
+bip_39_word_dash_6: glue-brother-ride-kidney-apple-retreat
+bip_39_word_dash_7: glue-brother-ride-kidney-apple-retreat-demand
+bip_39_word_dash_8: glue-brother-ride-kidney-apple-retreat-demand-direct
+bip_39_word_dash_9: glue-brother-ride-kidney-apple-retreat-demand-direct-slot
 bip_39_word_new_br_1: glue
 bip_39_word_new_br_10: glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ
 bip_39_word_new_br_11: glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ<br>evoke
@@ -193,6 +205,18 @@ bip_39_word_space_6: glue brother ride kidney apple retreat
 bip_39_word_space_7: glue brother ride kidney apple retreat demand
 bip_39_word_space_8: glue brother ride kidney apple retreat demand direct
 bip_39_word_space_9: glue brother ride kidney apple retreat demand direct slot
+bip_39_word_underscore_1: glue
+bip_39_word_underscore_10: glue_brother_ride_kidney_apple_retreat_demand_direct_slot_organ
+bip_39_word_underscore_11: glue_brother_ride_kidney_apple_retreat_demand_direct_slot_organ_evoke
+bip_39_word_underscore_12: glue_brother_ride_kidney_apple_retreat_demand_direct_slot_organ_evoke_assist
+bip_39_word_underscore_2: glue_brother
+bip_39_word_underscore_3: glue_brother_ride
+bip_39_word_underscore_4: glue_brother_ride_kidney
+bip_39_word_underscore_5: glue_brother_ride_kidney_apple
+bip_39_word_underscore_6: glue_brother_ride_kidney_apple_retreat
+bip_39_word_underscore_7: glue_brother_ride_kidney_apple_retreat_demand
+bip_39_word_underscore_8: glue_brother_ride_kidney_apple_retreat_demand_direct
+bip_39_word_underscore_9: glue_brother_ride_kidney_apple_retreat_demand_direct_slot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

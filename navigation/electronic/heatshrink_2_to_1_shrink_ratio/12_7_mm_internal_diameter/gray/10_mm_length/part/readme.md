@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | discover |  
+| bip_39_word_dash_10 | discover-cost-feed-bid-honey-token-brain-uncle-sniff-you |  
+| bip_39_word_dash_11 | discover-cost-feed-bid-honey-token-brain-uncle-sniff-you-predict |  
+| bip_39_word_dash_12 | discover-cost-feed-bid-honey-token-brain-uncle-sniff-you-predict-amount |  
+| bip_39_word_dash_2 | discover-cost |  
+| bip_39_word_dash_3 | discover-cost-feed |  
+| bip_39_word_dash_4 | discover-cost-feed-bid |  
+| bip_39_word_dash_5 | discover-cost-feed-bid-honey |  
+| bip_39_word_dash_6 | discover-cost-feed-bid-honey-token |  
+| bip_39_word_dash_7 | discover-cost-feed-bid-honey-token-brain |  
+| bip_39_word_dash_8 | discover-cost-feed-bid-honey-token-brain-uncle |  
+| bip_39_word_dash_9 | discover-cost-feed-bid-honey-token-brain-uncle-sniff |  
 | bip_39_word_new_br_1 | discover |  
 | bip_39_word_new_br_10 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you |  
 | bip_39_word_new_br_11 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you<br>predict |  
@@ -147,6 +159,18 @@ sniff |
 | bip_39_word_space_7 | discover cost feed bid honey token brain |  
 | bip_39_word_space_8 | discover cost feed bid honey token brain uncle |  
 | bip_39_word_space_9 | discover cost feed bid honey token brain uncle sniff |  
+| bip_39_word_underscore_1 | discover |  
+| bip_39_word_underscore_10 | discover_cost_feed_bid_honey_token_brain_uncle_sniff_you |  
+| bip_39_word_underscore_11 | discover_cost_feed_bid_honey_token_brain_uncle_sniff_you_predict |  
+| bip_39_word_underscore_12 | discover_cost_feed_bid_honey_token_brain_uncle_sniff_you_predict_amount |  
+| bip_39_word_underscore_2 | discover_cost |  
+| bip_39_word_underscore_3 | discover_cost_feed |  
+| bip_39_word_underscore_4 | discover_cost_feed_bid |  
+| bip_39_word_underscore_5 | discover_cost_feed_bid_honey |  
+| bip_39_word_underscore_6 | discover_cost_feed_bid_honey_token |  
+| bip_39_word_underscore_7 | discover_cost_feed_bid_honey_token_brain |  
+| bip_39_word_underscore_8 | discover_cost_feed_bid_honey_token_brain_uncle |  
+| bip_39_word_underscore_9 | discover_cost_feed_bid_honey_token_brain_uncle_sniff |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

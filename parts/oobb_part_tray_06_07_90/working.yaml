@@ -1,3 +1,15 @@
+bip_39_word_dash_1: artwork
+bip_39_word_dash_10: artwork-order-output-fault-faith-radio-belt-say-clump-concert
+bip_39_word_dash_11: artwork-order-output-fault-faith-radio-belt-say-clump-concert-stereo
+bip_39_word_dash_12: artwork-order-output-fault-faith-radio-belt-say-clump-concert-stereo-affair
+bip_39_word_dash_2: artwork-order
+bip_39_word_dash_3: artwork-order-output
+bip_39_word_dash_4: artwork-order-output-fault
+bip_39_word_dash_5: artwork-order-output-fault-faith
+bip_39_word_dash_6: artwork-order-output-fault-faith-radio
+bip_39_word_dash_7: artwork-order-output-fault-faith-radio-belt
+bip_39_word_dash_8: artwork-order-output-fault-faith-radio-belt-say
+bip_39_word_dash_9: artwork-order-output-fault-faith-radio-belt-say-clump
 bip_39_word_new_br_1: artwork
 bip_39_word_new_br_10: artwork<br>order<br>output<br>fault<br>faith<br>radio<br>belt<br>say<br>clump<br>concert
 bip_39_word_new_br_11: artwork<br>order<br>output<br>fault<br>faith<br>radio<br>belt<br>say<br>clump<br>concert<br>stereo
@@ -193,6 +205,18 @@ bip_39_word_space_6: artwork order output fault faith radio
 bip_39_word_space_7: artwork order output fault faith radio belt
 bip_39_word_space_8: artwork order output fault faith radio belt say
 bip_39_word_space_9: artwork order output fault faith radio belt say clump
+bip_39_word_underscore_1: artwork
+bip_39_word_underscore_10: artwork_order_output_fault_faith_radio_belt_say_clump_concert
+bip_39_word_underscore_11: artwork_order_output_fault_faith_radio_belt_say_clump_concert_stereo
+bip_39_word_underscore_12: artwork_order_output_fault_faith_radio_belt_say_clump_concert_stereo_affair
+bip_39_word_underscore_2: artwork_order
+bip_39_word_underscore_3: artwork_order_output
+bip_39_word_underscore_4: artwork_order_output_fault
+bip_39_word_underscore_5: artwork_order_output_fault_faith
+bip_39_word_underscore_6: artwork_order_output_fault_faith_radio
+bip_39_word_underscore_7: artwork_order_output_fault_faith_radio_belt
+bip_39_word_underscore_8: artwork_order_output_fault_faith_radio_belt_say
+bip_39_word_underscore_9: artwork_order_output_fault_faith_radio_belt_say_clump
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

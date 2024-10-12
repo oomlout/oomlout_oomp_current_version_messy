@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | treat |  
+| bip_39_word_dash_10 | treat-card-loop-biology-tree-melody-pact-crew-borrow-museum |  
+| bip_39_word_dash_11 | treat-card-loop-biology-tree-melody-pact-crew-borrow-museum-wealth |  
+| bip_39_word_dash_12 | treat-card-loop-biology-tree-melody-pact-crew-borrow-museum-wealth-anxiety |  
+| bip_39_word_dash_2 | treat-card |  
+| bip_39_word_dash_3 | treat-card-loop |  
+| bip_39_word_dash_4 | treat-card-loop-biology |  
+| bip_39_word_dash_5 | treat-card-loop-biology-tree |  
+| bip_39_word_dash_6 | treat-card-loop-biology-tree-melody |  
+| bip_39_word_dash_7 | treat-card-loop-biology-tree-melody-pact |  
+| bip_39_word_dash_8 | treat-card-loop-biology-tree-melody-pact-crew |  
+| bip_39_word_dash_9 | treat-card-loop-biology-tree-melody-pact-crew-borrow |  
 | bip_39_word_new_br_1 | treat |  
 | bip_39_word_new_br_10 | treat<br>card<br>loop<br>biology<br>tree<br>melody<br>pact<br>crew<br>borrow<br>museum |  
 | bip_39_word_new_br_11 | treat<br>card<br>loop<br>biology<br>tree<br>melody<br>pact<br>crew<br>borrow<br>museum<br>wealth |  
@@ -147,6 +159,18 @@ borrow |
 | bip_39_word_space_7 | treat card loop biology tree melody pact |  
 | bip_39_word_space_8 | treat card loop biology tree melody pact crew |  
 | bip_39_word_space_9 | treat card loop biology tree melody pact crew borrow |  
+| bip_39_word_underscore_1 | treat |  
+| bip_39_word_underscore_10 | treat_card_loop_biology_tree_melody_pact_crew_borrow_museum |  
+| bip_39_word_underscore_11 | treat_card_loop_biology_tree_melody_pact_crew_borrow_museum_wealth |  
+| bip_39_word_underscore_12 | treat_card_loop_biology_tree_melody_pact_crew_borrow_museum_wealth_anxiety |  
+| bip_39_word_underscore_2 | treat_card |  
+| bip_39_word_underscore_3 | treat_card_loop |  
+| bip_39_word_underscore_4 | treat_card_loop_biology |  
+| bip_39_word_underscore_5 | treat_card_loop_biology_tree |  
+| bip_39_word_underscore_6 | treat_card_loop_biology_tree_melody |  
+| bip_39_word_underscore_7 | treat_card_loop_biology_tree_melody_pact |  
+| bip_39_word_underscore_8 | treat_card_loop_biology_tree_melody_pact_crew |  
+| bip_39_word_underscore_9 | treat_card_loop_biology_tree_melody_pact_crew_borrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

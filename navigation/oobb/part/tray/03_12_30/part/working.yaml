@@ -1,3 +1,15 @@
+bip_39_word_dash_1: copper
+bip_39_word_dash_10: copper-dance-team-auto-climb-nice-lucky-october-nose-country
+bip_39_word_dash_11: copper-dance-team-auto-climb-nice-lucky-october-nose-country-urge
+bip_39_word_dash_12: copper-dance-team-auto-climb-nice-lucky-october-nose-country-urge-alert
+bip_39_word_dash_2: copper-dance
+bip_39_word_dash_3: copper-dance-team
+bip_39_word_dash_4: copper-dance-team-auto
+bip_39_word_dash_5: copper-dance-team-auto-climb
+bip_39_word_dash_6: copper-dance-team-auto-climb-nice
+bip_39_word_dash_7: copper-dance-team-auto-climb-nice-lucky
+bip_39_word_dash_8: copper-dance-team-auto-climb-nice-lucky-october
+bip_39_word_dash_9: copper-dance-team-auto-climb-nice-lucky-october-nose
 bip_39_word_new_br_1: copper
 bip_39_word_new_br_10: copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country
 bip_39_word_new_br_11: copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country<br>urge
@@ -193,6 +205,18 @@ bip_39_word_space_6: copper dance team auto climb nice
 bip_39_word_space_7: copper dance team auto climb nice lucky
 bip_39_word_space_8: copper dance team auto climb nice lucky october
 bip_39_word_space_9: copper dance team auto climb nice lucky october nose
+bip_39_word_underscore_1: copper
+bip_39_word_underscore_10: copper_dance_team_auto_climb_nice_lucky_october_nose_country
+bip_39_word_underscore_11: copper_dance_team_auto_climb_nice_lucky_october_nose_country_urge
+bip_39_word_underscore_12: copper_dance_team_auto_climb_nice_lucky_october_nose_country_urge_alert
+bip_39_word_underscore_2: copper_dance
+bip_39_word_underscore_3: copper_dance_team
+bip_39_word_underscore_4: copper_dance_team_auto
+bip_39_word_underscore_5: copper_dance_team_auto_climb
+bip_39_word_underscore_6: copper_dance_team_auto_climb_nice
+bip_39_word_underscore_7: copper_dance_team_auto_climb_nice_lucky
+bip_39_word_underscore_8: copper_dance_team_auto_climb_nice_lucky_october
+bip_39_word_underscore_9: copper_dance_team_auto_climb_nice_lucky_october_nose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

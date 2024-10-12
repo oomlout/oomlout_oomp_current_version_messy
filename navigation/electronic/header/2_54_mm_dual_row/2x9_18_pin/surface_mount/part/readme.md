@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | magic |  
+| bip_39_word_dash_10 | magic-canyon-project-annual-quote-boy-miracle-inherit-rude-report |  
+| bip_39_word_dash_11 | magic-canyon-project-annual-quote-boy-miracle-inherit-rude-report-visa |  
+| bip_39_word_dash_12 | magic-canyon-project-annual-quote-boy-miracle-inherit-rude-report-visa-action |  
+| bip_39_word_dash_2 | magic-canyon |  
+| bip_39_word_dash_3 | magic-canyon-project |  
+| bip_39_word_dash_4 | magic-canyon-project-annual |  
+| bip_39_word_dash_5 | magic-canyon-project-annual-quote |  
+| bip_39_word_dash_6 | magic-canyon-project-annual-quote-boy |  
+| bip_39_word_dash_7 | magic-canyon-project-annual-quote-boy-miracle |  
+| bip_39_word_dash_8 | magic-canyon-project-annual-quote-boy-miracle-inherit |  
+| bip_39_word_dash_9 | magic-canyon-project-annual-quote-boy-miracle-inherit-rude |  
 | bip_39_word_new_br_1 | magic |  
 | bip_39_word_new_br_10 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report |  
 | bip_39_word_new_br_11 | magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report<br>visa |  
@@ -147,6 +159,18 @@ rude |
 | bip_39_word_space_7 | magic canyon project annual quote boy miracle |  
 | bip_39_word_space_8 | magic canyon project annual quote boy miracle inherit |  
 | bip_39_word_space_9 | magic canyon project annual quote boy miracle inherit rude |  
+| bip_39_word_underscore_1 | magic |  
+| bip_39_word_underscore_10 | magic_canyon_project_annual_quote_boy_miracle_inherit_rude_report |  
+| bip_39_word_underscore_11 | magic_canyon_project_annual_quote_boy_miracle_inherit_rude_report_visa |  
+| bip_39_word_underscore_12 | magic_canyon_project_annual_quote_boy_miracle_inherit_rude_report_visa_action |  
+| bip_39_word_underscore_2 | magic_canyon |  
+| bip_39_word_underscore_3 | magic_canyon_project |  
+| bip_39_word_underscore_4 | magic_canyon_project_annual |  
+| bip_39_word_underscore_5 | magic_canyon_project_annual_quote |  
+| bip_39_word_underscore_6 | magic_canyon_project_annual_quote_boy |  
+| bip_39_word_underscore_7 | magic_canyon_project_annual_quote_boy_miracle |  
+| bip_39_word_underscore_8 | magic_canyon_project_annual_quote_boy_miracle_inherit |  
+| bip_39_word_underscore_9 | magic_canyon_project_annual_quote_boy_miracle_inherit_rude |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

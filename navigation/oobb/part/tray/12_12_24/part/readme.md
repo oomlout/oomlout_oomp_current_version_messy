@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | great |  
+| bip_39_word_dash_10 | great-kiwi-erase-blossom-major-brass-spin-civil-excuse-online |  
+| bip_39_word_dash_11 | great-kiwi-erase-blossom-major-brass-spin-civil-excuse-online-hole |  
+| bip_39_word_dash_12 | great-kiwi-erase-blossom-major-brass-spin-civil-excuse-online-hole-ahead |  
+| bip_39_word_dash_2 | great-kiwi |  
+| bip_39_word_dash_3 | great-kiwi-erase |  
+| bip_39_word_dash_4 | great-kiwi-erase-blossom |  
+| bip_39_word_dash_5 | great-kiwi-erase-blossom-major |  
+| bip_39_word_dash_6 | great-kiwi-erase-blossom-major-brass |  
+| bip_39_word_dash_7 | great-kiwi-erase-blossom-major-brass-spin |  
+| bip_39_word_dash_8 | great-kiwi-erase-blossom-major-brass-spin-civil |  
+| bip_39_word_dash_9 | great-kiwi-erase-blossom-major-brass-spin-civil-excuse |  
 | bip_39_word_new_br_1 | great |  
 | bip_39_word_new_br_10 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online |  
 | bip_39_word_new_br_11 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online<br>hole |  
@@ -147,6 +159,18 @@ excuse |
 | bip_39_word_space_7 | great kiwi erase blossom major brass spin |  
 | bip_39_word_space_8 | great kiwi erase blossom major brass spin civil |  
 | bip_39_word_space_9 | great kiwi erase blossom major brass spin civil excuse |  
+| bip_39_word_underscore_1 | great |  
+| bip_39_word_underscore_10 | great_kiwi_erase_blossom_major_brass_spin_civil_excuse_online |  
+| bip_39_word_underscore_11 | great_kiwi_erase_blossom_major_brass_spin_civil_excuse_online_hole |  
+| bip_39_word_underscore_12 | great_kiwi_erase_blossom_major_brass_spin_civil_excuse_online_hole_ahead |  
+| bip_39_word_underscore_2 | great_kiwi |  
+| bip_39_word_underscore_3 | great_kiwi_erase |  
+| bip_39_word_underscore_4 | great_kiwi_erase_blossom |  
+| bip_39_word_underscore_5 | great_kiwi_erase_blossom_major |  
+| bip_39_word_underscore_6 | great_kiwi_erase_blossom_major_brass |  
+| bip_39_word_underscore_7 | great_kiwi_erase_blossom_major_brass_spin |  
+| bip_39_word_underscore_8 | great_kiwi_erase_blossom_major_brass_spin_civil |  
+| bip_39_word_underscore_9 | great_kiwi_erase_blossom_major_brass_spin_civil_excuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

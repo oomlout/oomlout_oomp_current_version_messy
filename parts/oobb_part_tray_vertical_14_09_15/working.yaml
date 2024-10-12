@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spray
+bip_39_word_dash_10: spray-security-input-firm-range-prize-slender-cube-length-loop
+bip_39_word_dash_11: spray-security-input-firm-range-prize-slender-cube-length-loop-tourist
+bip_39_word_dash_12: spray-security-input-firm-range-prize-slender-cube-length-loop-tourist-august
+bip_39_word_dash_2: spray-security
+bip_39_word_dash_3: spray-security-input
+bip_39_word_dash_4: spray-security-input-firm
+bip_39_word_dash_5: spray-security-input-firm-range
+bip_39_word_dash_6: spray-security-input-firm-range-prize
+bip_39_word_dash_7: spray-security-input-firm-range-prize-slender
+bip_39_word_dash_8: spray-security-input-firm-range-prize-slender-cube
+bip_39_word_dash_9: spray-security-input-firm-range-prize-slender-cube-length
 bip_39_word_new_br_1: spray
 bip_39_word_new_br_10: spray<br>security<br>input<br>firm<br>range<br>prize<br>slender<br>cube<br>length<br>loop
 bip_39_word_new_br_11: spray<br>security<br>input<br>firm<br>range<br>prize<br>slender<br>cube<br>length<br>loop<br>tourist
@@ -193,6 +205,18 @@ bip_39_word_space_6: spray security input firm range prize
 bip_39_word_space_7: spray security input firm range prize slender
 bip_39_word_space_8: spray security input firm range prize slender cube
 bip_39_word_space_9: spray security input firm range prize slender cube length
+bip_39_word_underscore_1: spray
+bip_39_word_underscore_10: spray_security_input_firm_range_prize_slender_cube_length_loop
+bip_39_word_underscore_11: spray_security_input_firm_range_prize_slender_cube_length_loop_tourist
+bip_39_word_underscore_12: spray_security_input_firm_range_prize_slender_cube_length_loop_tourist_august
+bip_39_word_underscore_2: spray_security
+bip_39_word_underscore_3: spray_security_input
+bip_39_word_underscore_4: spray_security_input_firm
+bip_39_word_underscore_5: spray_security_input_firm_range
+bip_39_word_underscore_6: spray_security_input_firm_range_prize
+bip_39_word_underscore_7: spray_security_input_firm_range_prize_slender
+bip_39_word_underscore_8: spray_security_input_firm_range_prize_slender_cube
+bip_39_word_underscore_9: spray_security_input_firm_range_prize_slender_cube_length
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

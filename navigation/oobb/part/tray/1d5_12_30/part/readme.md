@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | empty |  
+| bip_39_word_dash_10 | empty-one-fun-job-inject-rocket-error-flash-leisure-spare |  
+| bip_39_word_dash_11 | empty-one-fun-job-inject-rocket-error-flash-leisure-spare-empty |  
+| bip_39_word_dash_12 | empty-one-fun-job-inject-rocket-error-flash-leisure-spare-empty-again |  
+| bip_39_word_dash_2 | empty-one |  
+| bip_39_word_dash_3 | empty-one-fun |  
+| bip_39_word_dash_4 | empty-one-fun-job |  
+| bip_39_word_dash_5 | empty-one-fun-job-inject |  
+| bip_39_word_dash_6 | empty-one-fun-job-inject-rocket |  
+| bip_39_word_dash_7 | empty-one-fun-job-inject-rocket-error |  
+| bip_39_word_dash_8 | empty-one-fun-job-inject-rocket-error-flash |  
+| bip_39_word_dash_9 | empty-one-fun-job-inject-rocket-error-flash-leisure |  
 | bip_39_word_new_br_1 | empty |  
 | bip_39_word_new_br_10 | empty<br>one<br>fun<br>job<br>inject<br>rocket<br>error<br>flash<br>leisure<br>spare |  
 | bip_39_word_new_br_11 | empty<br>one<br>fun<br>job<br>inject<br>rocket<br>error<br>flash<br>leisure<br>spare<br>empty |  
@@ -147,6 +159,18 @@ leisure |
 | bip_39_word_space_7 | empty one fun job inject rocket error |  
 | bip_39_word_space_8 | empty one fun job inject rocket error flash |  
 | bip_39_word_space_9 | empty one fun job inject rocket error flash leisure |  
+| bip_39_word_underscore_1 | empty |  
+| bip_39_word_underscore_10 | empty_one_fun_job_inject_rocket_error_flash_leisure_spare |  
+| bip_39_word_underscore_11 | empty_one_fun_job_inject_rocket_error_flash_leisure_spare_empty |  
+| bip_39_word_underscore_12 | empty_one_fun_job_inject_rocket_error_flash_leisure_spare_empty_again |  
+| bip_39_word_underscore_2 | empty_one |  
+| bip_39_word_underscore_3 | empty_one_fun |  
+| bip_39_word_underscore_4 | empty_one_fun_job |  
+| bip_39_word_underscore_5 | empty_one_fun_job_inject |  
+| bip_39_word_underscore_6 | empty_one_fun_job_inject_rocket |  
+| bip_39_word_underscore_7 | empty_one_fun_job_inject_rocket_error |  
+| bip_39_word_underscore_8 | empty_one_fun_job_inject_rocket_error_flash |  
+| bip_39_word_underscore_9 | empty_one_fun_job_inject_rocket_error_flash_leisure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

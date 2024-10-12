@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | what |  
+| bip_39_word_dash_10 | what-symptom-tilt-mountain-word-reform-grass-kid-fiction-wrong |  
+| bip_39_word_dash_11 | what-symptom-tilt-mountain-word-reform-grass-kid-fiction-wrong-execute |  
+| bip_39_word_dash_12 | what-symptom-tilt-mountain-word-reform-grass-kid-fiction-wrong-execute-analyst |  
+| bip_39_word_dash_2 | what-symptom |  
+| bip_39_word_dash_3 | what-symptom-tilt |  
+| bip_39_word_dash_4 | what-symptom-tilt-mountain |  
+| bip_39_word_dash_5 | what-symptom-tilt-mountain-word |  
+| bip_39_word_dash_6 | what-symptom-tilt-mountain-word-reform |  
+| bip_39_word_dash_7 | what-symptom-tilt-mountain-word-reform-grass |  
+| bip_39_word_dash_8 | what-symptom-tilt-mountain-word-reform-grass-kid |  
+| bip_39_word_dash_9 | what-symptom-tilt-mountain-word-reform-grass-kid-fiction |  
 | bip_39_word_new_br_1 | what |  
 | bip_39_word_new_br_10 | what<br>symptom<br>tilt<br>mountain<br>word<br>reform<br>grass<br>kid<br>fiction<br>wrong |  
 | bip_39_word_new_br_11 | what<br>symptom<br>tilt<br>mountain<br>word<br>reform<br>grass<br>kid<br>fiction<br>wrong<br>execute |  
@@ -147,6 +159,18 @@ fiction |
 | bip_39_word_space_7 | what symptom tilt mountain word reform grass |  
 | bip_39_word_space_8 | what symptom tilt mountain word reform grass kid |  
 | bip_39_word_space_9 | what symptom tilt mountain word reform grass kid fiction |  
+| bip_39_word_underscore_1 | what |  
+| bip_39_word_underscore_10 | what_symptom_tilt_mountain_word_reform_grass_kid_fiction_wrong |  
+| bip_39_word_underscore_11 | what_symptom_tilt_mountain_word_reform_grass_kid_fiction_wrong_execute |  
+| bip_39_word_underscore_12 | what_symptom_tilt_mountain_word_reform_grass_kid_fiction_wrong_execute_analyst |  
+| bip_39_word_underscore_2 | what_symptom |  
+| bip_39_word_underscore_3 | what_symptom_tilt |  
+| bip_39_word_underscore_4 | what_symptom_tilt_mountain |  
+| bip_39_word_underscore_5 | what_symptom_tilt_mountain_word |  
+| bip_39_word_underscore_6 | what_symptom_tilt_mountain_word_reform |  
+| bip_39_word_underscore_7 | what_symptom_tilt_mountain_word_reform_grass |  
+| bip_39_word_underscore_8 | what_symptom_tilt_mountain_word_reform_grass_kid |  
+| bip_39_word_underscore_9 | what_symptom_tilt_mountain_word_reform_grass_kid_fiction |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

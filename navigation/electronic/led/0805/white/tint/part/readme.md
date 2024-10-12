@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hobby |  
+| bip_39_word_dash_10 | hobby-wisdom-tissue-sausage-metal-script-salute-bachelor-diet-elbow |  
+| bip_39_word_dash_11 | hobby-wisdom-tissue-sausage-metal-script-salute-bachelor-diet-elbow-elbow |  
+| bip_39_word_dash_12 | hobby-wisdom-tissue-sausage-metal-script-salute-bachelor-diet-elbow-elbow-arena |  
+| bip_39_word_dash_2 | hobby-wisdom |  
+| bip_39_word_dash_3 | hobby-wisdom-tissue |  
+| bip_39_word_dash_4 | hobby-wisdom-tissue-sausage |  
+| bip_39_word_dash_5 | hobby-wisdom-tissue-sausage-metal |  
+| bip_39_word_dash_6 | hobby-wisdom-tissue-sausage-metal-script |  
+| bip_39_word_dash_7 | hobby-wisdom-tissue-sausage-metal-script-salute |  
+| bip_39_word_dash_8 | hobby-wisdom-tissue-sausage-metal-script-salute-bachelor |  
+| bip_39_word_dash_9 | hobby-wisdom-tissue-sausage-metal-script-salute-bachelor-diet |  
 | bip_39_word_new_br_1 | hobby |  
 | bip_39_word_new_br_10 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow |  
 | bip_39_word_new_br_11 | hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow<br>elbow |  
@@ -147,6 +159,18 @@ diet |
 | bip_39_word_space_7 | hobby wisdom tissue sausage metal script salute |  
 | bip_39_word_space_8 | hobby wisdom tissue sausage metal script salute bachelor |  
 | bip_39_word_space_9 | hobby wisdom tissue sausage metal script salute bachelor diet |  
+| bip_39_word_underscore_1 | hobby |  
+| bip_39_word_underscore_10 | hobby_wisdom_tissue_sausage_metal_script_salute_bachelor_diet_elbow |  
+| bip_39_word_underscore_11 | hobby_wisdom_tissue_sausage_metal_script_salute_bachelor_diet_elbow_elbow |  
+| bip_39_word_underscore_12 | hobby_wisdom_tissue_sausage_metal_script_salute_bachelor_diet_elbow_elbow_arena |  
+| bip_39_word_underscore_2 | hobby_wisdom |  
+| bip_39_word_underscore_3 | hobby_wisdom_tissue |  
+| bip_39_word_underscore_4 | hobby_wisdom_tissue_sausage |  
+| bip_39_word_underscore_5 | hobby_wisdom_tissue_sausage_metal |  
+| bip_39_word_underscore_6 | hobby_wisdom_tissue_sausage_metal_script |  
+| bip_39_word_underscore_7 | hobby_wisdom_tissue_sausage_metal_script_salute |  
+| bip_39_word_underscore_8 | hobby_wisdom_tissue_sausage_metal_script_salute_bachelor |  
+| bip_39_word_underscore_9 | hobby_wisdom_tissue_sausage_metal_script_salute_bachelor_diet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

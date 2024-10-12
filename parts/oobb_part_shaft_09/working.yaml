@@ -1,3 +1,15 @@
+bip_39_word_dash_1: morning
+bip_39_word_dash_10: morning-rally-judge-tail-rival-shy-enhance-desert-card-victory
+bip_39_word_dash_11: morning-rally-judge-tail-rival-shy-enhance-desert-card-victory-cake
+bip_39_word_dash_12: morning-rally-judge-tail-rival-shy-enhance-desert-card-victory-cake-assault
+bip_39_word_dash_2: morning-rally
+bip_39_word_dash_3: morning-rally-judge
+bip_39_word_dash_4: morning-rally-judge-tail
+bip_39_word_dash_5: morning-rally-judge-tail-rival
+bip_39_word_dash_6: morning-rally-judge-tail-rival-shy
+bip_39_word_dash_7: morning-rally-judge-tail-rival-shy-enhance
+bip_39_word_dash_8: morning-rally-judge-tail-rival-shy-enhance-desert
+bip_39_word_dash_9: morning-rally-judge-tail-rival-shy-enhance-desert-card
 bip_39_word_new_br_1: morning
 bip_39_word_new_br_10: morning<br>rally<br>judge<br>tail<br>rival<br>shy<br>enhance<br>desert<br>card<br>victory
 bip_39_word_new_br_11: morning<br>rally<br>judge<br>tail<br>rival<br>shy<br>enhance<br>desert<br>card<br>victory<br>cake
@@ -193,6 +205,18 @@ bip_39_word_space_6: morning rally judge tail rival shy
 bip_39_word_space_7: morning rally judge tail rival shy enhance
 bip_39_word_space_8: morning rally judge tail rival shy enhance desert
 bip_39_word_space_9: morning rally judge tail rival shy enhance desert card
+bip_39_word_underscore_1: morning
+bip_39_word_underscore_10: morning_rally_judge_tail_rival_shy_enhance_desert_card_victory
+bip_39_word_underscore_11: morning_rally_judge_tail_rival_shy_enhance_desert_card_victory_cake
+bip_39_word_underscore_12: morning_rally_judge_tail_rival_shy_enhance_desert_card_victory_cake_assault
+bip_39_word_underscore_2: morning_rally
+bip_39_word_underscore_3: morning_rally_judge
+bip_39_word_underscore_4: morning_rally_judge_tail
+bip_39_word_underscore_5: morning_rally_judge_tail_rival
+bip_39_word_underscore_6: morning_rally_judge_tail_rival_shy
+bip_39_word_underscore_7: morning_rally_judge_tail_rival_shy_enhance
+bip_39_word_underscore_8: morning_rally_judge_tail_rival_shy_enhance_desert
+bip_39_word_underscore_9: morning_rally_judge_tail_rival_shy_enhance_desert_card
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

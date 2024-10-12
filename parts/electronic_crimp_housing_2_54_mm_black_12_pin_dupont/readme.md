@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | argue |  
+| bip_39_word_dash_10 | argue-barrel-analyst-robust-foil-security-process-begin-bicycle-bus |  
+| bip_39_word_dash_11 | argue-barrel-analyst-robust-foil-security-process-begin-bicycle-bus-young |  
+| bip_39_word_dash_12 | argue-barrel-analyst-robust-foil-security-process-begin-bicycle-bus-young-army |  
+| bip_39_word_dash_2 | argue-barrel |  
+| bip_39_word_dash_3 | argue-barrel-analyst |  
+| bip_39_word_dash_4 | argue-barrel-analyst-robust |  
+| bip_39_word_dash_5 | argue-barrel-analyst-robust-foil |  
+| bip_39_word_dash_6 | argue-barrel-analyst-robust-foil-security |  
+| bip_39_word_dash_7 | argue-barrel-analyst-robust-foil-security-process |  
+| bip_39_word_dash_8 | argue-barrel-analyst-robust-foil-security-process-begin |  
+| bip_39_word_dash_9 | argue-barrel-analyst-robust-foil-security-process-begin-bicycle |  
 | bip_39_word_new_br_1 | argue |  
 | bip_39_word_new_br_10 | argue<br>barrel<br>analyst<br>robust<br>foil<br>security<br>process<br>begin<br>bicycle<br>bus |  
 | bip_39_word_new_br_11 | argue<br>barrel<br>analyst<br>robust<br>foil<br>security<br>process<br>begin<br>bicycle<br>bus<br>young |  
@@ -147,6 +159,18 @@ bicycle |
 | bip_39_word_space_7 | argue barrel analyst robust foil security process |  
 | bip_39_word_space_8 | argue barrel analyst robust foil security process begin |  
 | bip_39_word_space_9 | argue barrel analyst robust foil security process begin bicycle |  
+| bip_39_word_underscore_1 | argue |  
+| bip_39_word_underscore_10 | argue_barrel_analyst_robust_foil_security_process_begin_bicycle_bus |  
+| bip_39_word_underscore_11 | argue_barrel_analyst_robust_foil_security_process_begin_bicycle_bus_young |  
+| bip_39_word_underscore_12 | argue_barrel_analyst_robust_foil_security_process_begin_bicycle_bus_young_army |  
+| bip_39_word_underscore_2 | argue_barrel |  
+| bip_39_word_underscore_3 | argue_barrel_analyst |  
+| bip_39_word_underscore_4 | argue_barrel_analyst_robust |  
+| bip_39_word_underscore_5 | argue_barrel_analyst_robust_foil |  
+| bip_39_word_underscore_6 | argue_barrel_analyst_robust_foil_security |  
+| bip_39_word_underscore_7 | argue_barrel_analyst_robust_foil_security_process |  
+| bip_39_word_underscore_8 | argue_barrel_analyst_robust_foil_security_process_begin |  
+| bip_39_word_underscore_9 | argue_barrel_analyst_robust_foil_security_process_begin_bicycle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

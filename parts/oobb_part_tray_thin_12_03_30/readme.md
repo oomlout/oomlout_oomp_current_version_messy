@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | emotion |  
+| bip_39_word_dash_10 | emotion-ostrich-hockey-elephant-gentle-join-kitchen-survey-open-point |  
+| bip_39_word_dash_11 | emotion-ostrich-hockey-elephant-gentle-join-kitchen-survey-open-point-ripple |  
+| bip_39_word_dash_12 | emotion-ostrich-hockey-elephant-gentle-join-kitchen-survey-open-point-ripple-also |  
+| bip_39_word_dash_2 | emotion-ostrich |  
+| bip_39_word_dash_3 | emotion-ostrich-hockey |  
+| bip_39_word_dash_4 | emotion-ostrich-hockey-elephant |  
+| bip_39_word_dash_5 | emotion-ostrich-hockey-elephant-gentle |  
+| bip_39_word_dash_6 | emotion-ostrich-hockey-elephant-gentle-join |  
+| bip_39_word_dash_7 | emotion-ostrich-hockey-elephant-gentle-join-kitchen |  
+| bip_39_word_dash_8 | emotion-ostrich-hockey-elephant-gentle-join-kitchen-survey |  
+| bip_39_word_dash_9 | emotion-ostrich-hockey-elephant-gentle-join-kitchen-survey-open |  
 | bip_39_word_new_br_1 | emotion |  
 | bip_39_word_new_br_10 | emotion<br>ostrich<br>hockey<br>elephant<br>gentle<br>join<br>kitchen<br>survey<br>open<br>point |  
 | bip_39_word_new_br_11 | emotion<br>ostrich<br>hockey<br>elephant<br>gentle<br>join<br>kitchen<br>survey<br>open<br>point<br>ripple |  
@@ -147,6 +159,18 @@ open |
 | bip_39_word_space_7 | emotion ostrich hockey elephant gentle join kitchen |  
 | bip_39_word_space_8 | emotion ostrich hockey elephant gentle join kitchen survey |  
 | bip_39_word_space_9 | emotion ostrich hockey elephant gentle join kitchen survey open |  
+| bip_39_word_underscore_1 | emotion |  
+| bip_39_word_underscore_10 | emotion_ostrich_hockey_elephant_gentle_join_kitchen_survey_open_point |  
+| bip_39_word_underscore_11 | emotion_ostrich_hockey_elephant_gentle_join_kitchen_survey_open_point_ripple |  
+| bip_39_word_underscore_12 | emotion_ostrich_hockey_elephant_gentle_join_kitchen_survey_open_point_ripple_also |  
+| bip_39_word_underscore_2 | emotion_ostrich |  
+| bip_39_word_underscore_3 | emotion_ostrich_hockey |  
+| bip_39_word_underscore_4 | emotion_ostrich_hockey_elephant |  
+| bip_39_word_underscore_5 | emotion_ostrich_hockey_elephant_gentle |  
+| bip_39_word_underscore_6 | emotion_ostrich_hockey_elephant_gentle_join |  
+| bip_39_word_underscore_7 | emotion_ostrich_hockey_elephant_gentle_join_kitchen |  
+| bip_39_word_underscore_8 | emotion_ostrich_hockey_elephant_gentle_join_kitchen_survey |  
+| bip_39_word_underscore_9 | emotion_ostrich_hockey_elephant_gentle_join_kitchen_survey_open |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

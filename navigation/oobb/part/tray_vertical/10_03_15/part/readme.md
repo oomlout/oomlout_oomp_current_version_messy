@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | antenna |  
+| bip_39_word_dash_10 | antenna-vicious-saddle-spray-paper-benefit-diary-memory-letter-grape |  
+| bip_39_word_dash_11 | antenna-vicious-saddle-spray-paper-benefit-diary-memory-letter-grape-impulse |  
+| bip_39_word_dash_12 | antenna-vicious-saddle-spray-paper-benefit-diary-memory-letter-grape-impulse-armor |  
+| bip_39_word_dash_2 | antenna-vicious |  
+| bip_39_word_dash_3 | antenna-vicious-saddle |  
+| bip_39_word_dash_4 | antenna-vicious-saddle-spray |  
+| bip_39_word_dash_5 | antenna-vicious-saddle-spray-paper |  
+| bip_39_word_dash_6 | antenna-vicious-saddle-spray-paper-benefit |  
+| bip_39_word_dash_7 | antenna-vicious-saddle-spray-paper-benefit-diary |  
+| bip_39_word_dash_8 | antenna-vicious-saddle-spray-paper-benefit-diary-memory |  
+| bip_39_word_dash_9 | antenna-vicious-saddle-spray-paper-benefit-diary-memory-letter |  
 | bip_39_word_new_br_1 | antenna |  
 | bip_39_word_new_br_10 | antenna<br>vicious<br>saddle<br>spray<br>paper<br>benefit<br>diary<br>memory<br>letter<br>grape |  
 | bip_39_word_new_br_11 | antenna<br>vicious<br>saddle<br>spray<br>paper<br>benefit<br>diary<br>memory<br>letter<br>grape<br>impulse |  
@@ -147,6 +159,18 @@ letter |
 | bip_39_word_space_7 | antenna vicious saddle spray paper benefit diary |  
 | bip_39_word_space_8 | antenna vicious saddle spray paper benefit diary memory |  
 | bip_39_word_space_9 | antenna vicious saddle spray paper benefit diary memory letter |  
+| bip_39_word_underscore_1 | antenna |  
+| bip_39_word_underscore_10 | antenna_vicious_saddle_spray_paper_benefit_diary_memory_letter_grape |  
+| bip_39_word_underscore_11 | antenna_vicious_saddle_spray_paper_benefit_diary_memory_letter_grape_impulse |  
+| bip_39_word_underscore_12 | antenna_vicious_saddle_spray_paper_benefit_diary_memory_letter_grape_impulse_armor |  
+| bip_39_word_underscore_2 | antenna_vicious |  
+| bip_39_word_underscore_3 | antenna_vicious_saddle |  
+| bip_39_word_underscore_4 | antenna_vicious_saddle_spray |  
+| bip_39_word_underscore_5 | antenna_vicious_saddle_spray_paper |  
+| bip_39_word_underscore_6 | antenna_vicious_saddle_spray_paper_benefit |  
+| bip_39_word_underscore_7 | antenna_vicious_saddle_spray_paper_benefit_diary |  
+| bip_39_word_underscore_8 | antenna_vicious_saddle_spray_paper_benefit_diary_memory |  
+| bip_39_word_underscore_9 | antenna_vicious_saddle_spray_paper_benefit_diary_memory_letter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

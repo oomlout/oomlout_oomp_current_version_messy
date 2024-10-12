@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | trim |  
+| bip_39_word_dash_10 | trim-other-verify-stadium-castle-undo-begin-menu-shield-ensure |  
+| bip_39_word_dash_11 | trim-other-verify-stadium-castle-undo-begin-menu-shield-ensure-allow |  
+| bip_39_word_dash_12 | trim-other-verify-stadium-castle-undo-begin-menu-shield-ensure-allow-approve |  
+| bip_39_word_dash_2 | trim-other |  
+| bip_39_word_dash_3 | trim-other-verify |  
+| bip_39_word_dash_4 | trim-other-verify-stadium |  
+| bip_39_word_dash_5 | trim-other-verify-stadium-castle |  
+| bip_39_word_dash_6 | trim-other-verify-stadium-castle-undo |  
+| bip_39_word_dash_7 | trim-other-verify-stadium-castle-undo-begin |  
+| bip_39_word_dash_8 | trim-other-verify-stadium-castle-undo-begin-menu |  
+| bip_39_word_dash_9 | trim-other-verify-stadium-castle-undo-begin-menu-shield |  
 | bip_39_word_new_br_1 | trim |  
 | bip_39_word_new_br_10 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu<br>shield<br>ensure |  
 | bip_39_word_new_br_11 | trim<br>other<br>verify<br>stadium<br>castle<br>undo<br>begin<br>menu<br>shield<br>ensure<br>allow |  
@@ -147,6 +159,18 @@ shield |
 | bip_39_word_space_7 | trim other verify stadium castle undo begin |  
 | bip_39_word_space_8 | trim other verify stadium castle undo begin menu |  
 | bip_39_word_space_9 | trim other verify stadium castle undo begin menu shield |  
+| bip_39_word_underscore_1 | trim |  
+| bip_39_word_underscore_10 | trim_other_verify_stadium_castle_undo_begin_menu_shield_ensure |  
+| bip_39_word_underscore_11 | trim_other_verify_stadium_castle_undo_begin_menu_shield_ensure_allow |  
+| bip_39_word_underscore_12 | trim_other_verify_stadium_castle_undo_begin_menu_shield_ensure_allow_approve |  
+| bip_39_word_underscore_2 | trim_other |  
+| bip_39_word_underscore_3 | trim_other_verify |  
+| bip_39_word_underscore_4 | trim_other_verify_stadium |  
+| bip_39_word_underscore_5 | trim_other_verify_stadium_castle |  
+| bip_39_word_underscore_6 | trim_other_verify_stadium_castle_undo |  
+| bip_39_word_underscore_7 | trim_other_verify_stadium_castle_undo_begin |  
+| bip_39_word_underscore_8 | trim_other_verify_stadium_castle_undo_begin_menu |  
+| bip_39_word_underscore_9 | trim_other_verify_stadium_castle_undo_begin_menu_shield |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

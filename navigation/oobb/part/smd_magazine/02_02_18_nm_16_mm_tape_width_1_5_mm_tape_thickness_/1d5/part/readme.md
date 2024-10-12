@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | visual |  
+| bip_39_word_dash_10 | visual-follow-patrol-spare-top-someone-give-grief-access-modify |  
+| bip_39_word_dash_11 | visual-follow-patrol-spare-top-someone-give-grief-access-modify-turkey |  
+| bip_39_word_dash_12 | visual-follow-patrol-spare-top-someone-give-grief-access-modify-turkey-among |  
+| bip_39_word_dash_2 | visual-follow |  
+| bip_39_word_dash_3 | visual-follow-patrol |  
+| bip_39_word_dash_4 | visual-follow-patrol-spare |  
+| bip_39_word_dash_5 | visual-follow-patrol-spare-top |  
+| bip_39_word_dash_6 | visual-follow-patrol-spare-top-someone |  
+| bip_39_word_dash_7 | visual-follow-patrol-spare-top-someone-give |  
+| bip_39_word_dash_8 | visual-follow-patrol-spare-top-someone-give-grief |  
+| bip_39_word_dash_9 | visual-follow-patrol-spare-top-someone-give-grief-access |  
 | bip_39_word_new_br_1 | visual |  
 | bip_39_word_new_br_10 | visual<br>follow<br>patrol<br>spare<br>top<br>someone<br>give<br>grief<br>access<br>modify |  
 | bip_39_word_new_br_11 | visual<br>follow<br>patrol<br>spare<br>top<br>someone<br>give<br>grief<br>access<br>modify<br>turkey |  
@@ -147,6 +159,18 @@ access |
 | bip_39_word_space_7 | visual follow patrol spare top someone give |  
 | bip_39_word_space_8 | visual follow patrol spare top someone give grief |  
 | bip_39_word_space_9 | visual follow patrol spare top someone give grief access |  
+| bip_39_word_underscore_1 | visual |  
+| bip_39_word_underscore_10 | visual_follow_patrol_spare_top_someone_give_grief_access_modify |  
+| bip_39_word_underscore_11 | visual_follow_patrol_spare_top_someone_give_grief_access_modify_turkey |  
+| bip_39_word_underscore_12 | visual_follow_patrol_spare_top_someone_give_grief_access_modify_turkey_among |  
+| bip_39_word_underscore_2 | visual_follow |  
+| bip_39_word_underscore_3 | visual_follow_patrol |  
+| bip_39_word_underscore_4 | visual_follow_patrol_spare |  
+| bip_39_word_underscore_5 | visual_follow_patrol_spare_top |  
+| bip_39_word_underscore_6 | visual_follow_patrol_spare_top_someone |  
+| bip_39_word_underscore_7 | visual_follow_patrol_spare_top_someone_give |  
+| bip_39_word_underscore_8 | visual_follow_patrol_spare_top_someone_give_grief |  
+| bip_39_word_underscore_9 | visual_follow_patrol_spare_top_someone_give_grief_access |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

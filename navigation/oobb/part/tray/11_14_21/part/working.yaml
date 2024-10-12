@@ -1,3 +1,15 @@
+bip_39_word_dash_1: album
+bip_39_word_dash_10: album-version-echo-result-thumb-dad-gate-turn-bless-erode
+bip_39_word_dash_11: album-version-echo-result-thumb-dad-gate-turn-bless-erode-build
+bip_39_word_dash_12: album-version-echo-result-thumb-dad-gate-turn-bless-erode-build-asthma
+bip_39_word_dash_2: album-version
+bip_39_word_dash_3: album-version-echo
+bip_39_word_dash_4: album-version-echo-result
+bip_39_word_dash_5: album-version-echo-result-thumb
+bip_39_word_dash_6: album-version-echo-result-thumb-dad
+bip_39_word_dash_7: album-version-echo-result-thumb-dad-gate
+bip_39_word_dash_8: album-version-echo-result-thumb-dad-gate-turn
+bip_39_word_dash_9: album-version-echo-result-thumb-dad-gate-turn-bless
 bip_39_word_new_br_1: album
 bip_39_word_new_br_10: album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode
 bip_39_word_new_br_11: album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode<br>build
@@ -192,6 +204,18 @@ bip_39_word_space_6: album version echo result thumb dad
 bip_39_word_space_7: album version echo result thumb dad gate
 bip_39_word_space_8: album version echo result thumb dad gate turn
 bip_39_word_space_9: album version echo result thumb dad gate turn bless
+bip_39_word_underscore_1: album
+bip_39_word_underscore_10: album_version_echo_result_thumb_dad_gate_turn_bless_erode
+bip_39_word_underscore_11: album_version_echo_result_thumb_dad_gate_turn_bless_erode_build
+bip_39_word_underscore_12: album_version_echo_result_thumb_dad_gate_turn_bless_erode_build_asthma
+bip_39_word_underscore_2: album_version
+bip_39_word_underscore_3: album_version_echo
+bip_39_word_underscore_4: album_version_echo_result
+bip_39_word_underscore_5: album_version_echo_result_thumb
+bip_39_word_underscore_6: album_version_echo_result_thumb_dad
+bip_39_word_underscore_7: album_version_echo_result_thumb_dad_gate
+bip_39_word_underscore_8: album_version_echo_result_thumb_dad_gate_turn
+bip_39_word_underscore_9: album_version_echo_result_thumb_dad_gate_turn_bless
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

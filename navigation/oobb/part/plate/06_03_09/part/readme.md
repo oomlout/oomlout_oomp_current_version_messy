@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | acoustic |  
+| bip_39_word_dash_10 | acoustic-inch-ginger-nation-awesome-tank-soft-crawl-release-recycle |  
+| bip_39_word_dash_11 | acoustic-inch-ginger-nation-awesome-tank-soft-crawl-release-recycle-among |  
+| bip_39_word_dash_12 | acoustic-inch-ginger-nation-awesome-tank-soft-crawl-release-recycle-among-artwork |  
+| bip_39_word_dash_2 | acoustic-inch |  
+| bip_39_word_dash_3 | acoustic-inch-ginger |  
+| bip_39_word_dash_4 | acoustic-inch-ginger-nation |  
+| bip_39_word_dash_5 | acoustic-inch-ginger-nation-awesome |  
+| bip_39_word_dash_6 | acoustic-inch-ginger-nation-awesome-tank |  
+| bip_39_word_dash_7 | acoustic-inch-ginger-nation-awesome-tank-soft |  
+| bip_39_word_dash_8 | acoustic-inch-ginger-nation-awesome-tank-soft-crawl |  
+| bip_39_word_dash_9 | acoustic-inch-ginger-nation-awesome-tank-soft-crawl-release |  
 | bip_39_word_new_br_1 | acoustic |  
 | bip_39_word_new_br_10 | acoustic<br>inch<br>ginger<br>nation<br>awesome<br>tank<br>soft<br>crawl<br>release<br>recycle |  
 | bip_39_word_new_br_11 | acoustic<br>inch<br>ginger<br>nation<br>awesome<br>tank<br>soft<br>crawl<br>release<br>recycle<br>among |  
@@ -147,6 +159,18 @@ release |
 | bip_39_word_space_7 | acoustic inch ginger nation awesome tank soft |  
 | bip_39_word_space_8 | acoustic inch ginger nation awesome tank soft crawl |  
 | bip_39_word_space_9 | acoustic inch ginger nation awesome tank soft crawl release |  
+| bip_39_word_underscore_1 | acoustic |  
+| bip_39_word_underscore_10 | acoustic_inch_ginger_nation_awesome_tank_soft_crawl_release_recycle |  
+| bip_39_word_underscore_11 | acoustic_inch_ginger_nation_awesome_tank_soft_crawl_release_recycle_among |  
+| bip_39_word_underscore_12 | acoustic_inch_ginger_nation_awesome_tank_soft_crawl_release_recycle_among_artwork |  
+| bip_39_word_underscore_2 | acoustic_inch |  
+| bip_39_word_underscore_3 | acoustic_inch_ginger |  
+| bip_39_word_underscore_4 | acoustic_inch_ginger_nation |  
+| bip_39_word_underscore_5 | acoustic_inch_ginger_nation_awesome |  
+| bip_39_word_underscore_6 | acoustic_inch_ginger_nation_awesome_tank |  
+| bip_39_word_underscore_7 | acoustic_inch_ginger_nation_awesome_tank_soft |  
+| bip_39_word_underscore_8 | acoustic_inch_ginger_nation_awesome_tank_soft_crawl |  
+| bip_39_word_underscore_9 | acoustic_inch_ginger_nation_awesome_tank_soft_crawl_release |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

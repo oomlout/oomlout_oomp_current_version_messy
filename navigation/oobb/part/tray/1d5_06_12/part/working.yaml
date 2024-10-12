@@ -1,3 +1,15 @@
+bip_39_word_dash_1: spice
+bip_39_word_dash_10: spice-detail-basic-elite-clinic-rack-sunny-fiber-chat-track
+bip_39_word_dash_11: spice-detail-basic-elite-clinic-rack-sunny-fiber-chat-track-trial
+bip_39_word_dash_12: spice-detail-basic-elite-clinic-rack-sunny-fiber-chat-track-trial-acoustic
+bip_39_word_dash_2: spice-detail
+bip_39_word_dash_3: spice-detail-basic
+bip_39_word_dash_4: spice-detail-basic-elite
+bip_39_word_dash_5: spice-detail-basic-elite-clinic
+bip_39_word_dash_6: spice-detail-basic-elite-clinic-rack
+bip_39_word_dash_7: spice-detail-basic-elite-clinic-rack-sunny
+bip_39_word_dash_8: spice-detail-basic-elite-clinic-rack-sunny-fiber
+bip_39_word_dash_9: spice-detail-basic-elite-clinic-rack-sunny-fiber-chat
 bip_39_word_new_br_1: spice
 bip_39_word_new_br_10: spice<br>detail<br>basic<br>elite<br>clinic<br>rack<br>sunny<br>fiber<br>chat<br>track
 bip_39_word_new_br_11: spice<br>detail<br>basic<br>elite<br>clinic<br>rack<br>sunny<br>fiber<br>chat<br>track<br>trial
@@ -193,6 +205,18 @@ bip_39_word_space_6: spice detail basic elite clinic rack
 bip_39_word_space_7: spice detail basic elite clinic rack sunny
 bip_39_word_space_8: spice detail basic elite clinic rack sunny fiber
 bip_39_word_space_9: spice detail basic elite clinic rack sunny fiber chat
+bip_39_word_underscore_1: spice
+bip_39_word_underscore_10: spice_detail_basic_elite_clinic_rack_sunny_fiber_chat_track
+bip_39_word_underscore_11: spice_detail_basic_elite_clinic_rack_sunny_fiber_chat_track_trial
+bip_39_word_underscore_12: spice_detail_basic_elite_clinic_rack_sunny_fiber_chat_track_trial_acoustic
+bip_39_word_underscore_2: spice_detail
+bip_39_word_underscore_3: spice_detail_basic
+bip_39_word_underscore_4: spice_detail_basic_elite
+bip_39_word_underscore_5: spice_detail_basic_elite_clinic
+bip_39_word_underscore_6: spice_detail_basic_elite_clinic_rack
+bip_39_word_underscore_7: spice_detail_basic_elite_clinic_rack_sunny
+bip_39_word_underscore_8: spice_detail_basic_elite_clinic_rack_sunny_fiber
+bip_39_word_underscore_9: spice_detail_basic_elite_clinic_rack_sunny_fiber_chat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,15 @@
+bip_39_word_dash_1: join
+bip_39_word_dash_10: join-inherit-autumn-sniff-grass-tribe-adjust-tail-liberty-render
+bip_39_word_dash_11: join-inherit-autumn-sniff-grass-tribe-adjust-tail-liberty-render-nasty
+bip_39_word_dash_12: join-inherit-autumn-sniff-grass-tribe-adjust-tail-liberty-render-nasty-again
+bip_39_word_dash_2: join-inherit
+bip_39_word_dash_3: join-inherit-autumn
+bip_39_word_dash_4: join-inherit-autumn-sniff
+bip_39_word_dash_5: join-inherit-autumn-sniff-grass
+bip_39_word_dash_6: join-inherit-autumn-sniff-grass-tribe
+bip_39_word_dash_7: join-inherit-autumn-sniff-grass-tribe-adjust
+bip_39_word_dash_8: join-inherit-autumn-sniff-grass-tribe-adjust-tail
+bip_39_word_dash_9: join-inherit-autumn-sniff-grass-tribe-adjust-tail-liberty
 bip_39_word_new_br_1: join
 bip_39_word_new_br_10: join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail<br>liberty<br>render
 bip_39_word_new_br_11: join<br>inherit<br>autumn<br>sniff<br>grass<br>tribe<br>adjust<br>tail<br>liberty<br>render<br>nasty
@@ -193,6 +205,18 @@ bip_39_word_space_6: join inherit autumn sniff grass tribe
 bip_39_word_space_7: join inherit autumn sniff grass tribe adjust
 bip_39_word_space_8: join inherit autumn sniff grass tribe adjust tail
 bip_39_word_space_9: join inherit autumn sniff grass tribe adjust tail liberty
+bip_39_word_underscore_1: join
+bip_39_word_underscore_10: join_inherit_autumn_sniff_grass_tribe_adjust_tail_liberty_render
+bip_39_word_underscore_11: join_inherit_autumn_sniff_grass_tribe_adjust_tail_liberty_render_nasty
+bip_39_word_underscore_12: join_inherit_autumn_sniff_grass_tribe_adjust_tail_liberty_render_nasty_again
+bip_39_word_underscore_2: join_inherit
+bip_39_word_underscore_3: join_inherit_autumn
+bip_39_word_underscore_4: join_inherit_autumn_sniff
+bip_39_word_underscore_5: join_inherit_autumn_sniff_grass
+bip_39_word_underscore_6: join_inherit_autumn_sniff_grass_tribe
+bip_39_word_underscore_7: join_inherit_autumn_sniff_grass_tribe_adjust
+bip_39_word_underscore_8: join_inherit_autumn_sniff_grass_tribe_adjust_tail
+bip_39_word_underscore_9: join_inherit_autumn_sniff_grass_tribe_adjust_tail_liberty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

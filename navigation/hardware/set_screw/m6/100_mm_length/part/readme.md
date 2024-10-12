@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | promote |  
+| bip_39_word_dash_10 | promote-unlock-language-soul-rally-museum-extra-spare-repeat-drink |  
+| bip_39_word_dash_11 | promote-unlock-language-soul-rally-museum-extra-spare-repeat-drink-typical |  
+| bip_39_word_dash_12 | promote-unlock-language-soul-rally-museum-extra-spare-repeat-drink-typical-audit |  
+| bip_39_word_dash_2 | promote-unlock |  
+| bip_39_word_dash_3 | promote-unlock-language |  
+| bip_39_word_dash_4 | promote-unlock-language-soul |  
+| bip_39_word_dash_5 | promote-unlock-language-soul-rally |  
+| bip_39_word_dash_6 | promote-unlock-language-soul-rally-museum |  
+| bip_39_word_dash_7 | promote-unlock-language-soul-rally-museum-extra |  
+| bip_39_word_dash_8 | promote-unlock-language-soul-rally-museum-extra-spare |  
+| bip_39_word_dash_9 | promote-unlock-language-soul-rally-museum-extra-spare-repeat |  
 | bip_39_word_new_br_1 | promote |  
 | bip_39_word_new_br_10 | promote<br>unlock<br>language<br>soul<br>rally<br>museum<br>extra<br>spare<br>repeat<br>drink |  
 | bip_39_word_new_br_11 | promote<br>unlock<br>language<br>soul<br>rally<br>museum<br>extra<br>spare<br>repeat<br>drink<br>typical |  
@@ -147,6 +159,18 @@ repeat |
 | bip_39_word_space_7 | promote unlock language soul rally museum extra |  
 | bip_39_word_space_8 | promote unlock language soul rally museum extra spare |  
 | bip_39_word_space_9 | promote unlock language soul rally museum extra spare repeat |  
+| bip_39_word_underscore_1 | promote |  
+| bip_39_word_underscore_10 | promote_unlock_language_soul_rally_museum_extra_spare_repeat_drink |  
+| bip_39_word_underscore_11 | promote_unlock_language_soul_rally_museum_extra_spare_repeat_drink_typical |  
+| bip_39_word_underscore_12 | promote_unlock_language_soul_rally_museum_extra_spare_repeat_drink_typical_audit |  
+| bip_39_word_underscore_2 | promote_unlock |  
+| bip_39_word_underscore_3 | promote_unlock_language |  
+| bip_39_word_underscore_4 | promote_unlock_language_soul |  
+| bip_39_word_underscore_5 | promote_unlock_language_soul_rally |  
+| bip_39_word_underscore_6 | promote_unlock_language_soul_rally_museum |  
+| bip_39_word_underscore_7 | promote_unlock_language_soul_rally_museum_extra |  
+| bip_39_word_underscore_8 | promote_unlock_language_soul_rally_museum_extra_spare |  
+| bip_39_word_underscore_9 | promote_unlock_language_soul_rally_museum_extra_spare_repeat |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

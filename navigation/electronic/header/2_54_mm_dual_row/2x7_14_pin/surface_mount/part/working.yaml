@@ -1,3 +1,15 @@
+bip_39_word_dash_1: extra
+bip_39_word_dash_10: extra-poet-media-bar-just-donkey-auction-danger-salute-small
+bip_39_word_dash_11: extra-poet-media-bar-just-donkey-auction-danger-salute-small-afraid
+bip_39_word_dash_12: extra-poet-media-bar-just-donkey-auction-danger-salute-small-afraid-appear
+bip_39_word_dash_2: extra-poet
+bip_39_word_dash_3: extra-poet-media
+bip_39_word_dash_4: extra-poet-media-bar
+bip_39_word_dash_5: extra-poet-media-bar-just
+bip_39_word_dash_6: extra-poet-media-bar-just-donkey
+bip_39_word_dash_7: extra-poet-media-bar-just-donkey-auction
+bip_39_word_dash_8: extra-poet-media-bar-just-donkey-auction-danger
+bip_39_word_dash_9: extra-poet-media-bar-just-donkey-auction-danger-salute
 bip_39_word_new_br_1: extra
 bip_39_word_new_br_10: extra<br>poet<br>media<br>bar<br>just<br>donkey<br>auction<br>danger<br>salute<br>small
 bip_39_word_new_br_11: extra<br>poet<br>media<br>bar<br>just<br>donkey<br>auction<br>danger<br>salute<br>small<br>afraid
@@ -193,6 +205,18 @@ bip_39_word_space_6: extra poet media bar just donkey
 bip_39_word_space_7: extra poet media bar just donkey auction
 bip_39_word_space_8: extra poet media bar just donkey auction danger
 bip_39_word_space_9: extra poet media bar just donkey auction danger salute
+bip_39_word_underscore_1: extra
+bip_39_word_underscore_10: extra_poet_media_bar_just_donkey_auction_danger_salute_small
+bip_39_word_underscore_11: extra_poet_media_bar_just_donkey_auction_danger_salute_small_afraid
+bip_39_word_underscore_12: extra_poet_media_bar_just_donkey_auction_danger_salute_small_afraid_appear
+bip_39_word_underscore_2: extra_poet
+bip_39_word_underscore_3: extra_poet_media
+bip_39_word_underscore_4: extra_poet_media_bar
+bip_39_word_underscore_5: extra_poet_media_bar_just
+bip_39_word_underscore_6: extra_poet_media_bar_just_donkey
+bip_39_word_underscore_7: extra_poet_media_bar_just_donkey_auction
+bip_39_word_underscore_8: extra_poet_media_bar_just_donkey_auction_danger
+bip_39_word_underscore_9: extra_poet_media_bar_just_donkey_auction_danger_salute
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

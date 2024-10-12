@@ -1,3 +1,15 @@
+bip_39_word_dash_1: cube
+bip_39_word_dash_10: cube-opera-trend-car-neglect-scale-clap-grocery-decide-iron
+bip_39_word_dash_11: cube-opera-trend-car-neglect-scale-clap-grocery-decide-iron-pizza
+bip_39_word_dash_12: cube-opera-trend-car-neglect-scale-clap-grocery-decide-iron-pizza-autumn
+bip_39_word_dash_2: cube-opera
+bip_39_word_dash_3: cube-opera-trend
+bip_39_word_dash_4: cube-opera-trend-car
+bip_39_word_dash_5: cube-opera-trend-car-neglect
+bip_39_word_dash_6: cube-opera-trend-car-neglect-scale
+bip_39_word_dash_7: cube-opera-trend-car-neglect-scale-clap
+bip_39_word_dash_8: cube-opera-trend-car-neglect-scale-clap-grocery
+bip_39_word_dash_9: cube-opera-trend-car-neglect-scale-clap-grocery-decide
 bip_39_word_new_br_1: cube
 bip_39_word_new_br_10: cube<br>opera<br>trend<br>car<br>neglect<br>scale<br>clap<br>grocery<br>decide<br>iron
 bip_39_word_new_br_11: cube<br>opera<br>trend<br>car<br>neglect<br>scale<br>clap<br>grocery<br>decide<br>iron<br>pizza
@@ -193,6 +205,18 @@ bip_39_word_space_6: cube opera trend car neglect scale
 bip_39_word_space_7: cube opera trend car neglect scale clap
 bip_39_word_space_8: cube opera trend car neglect scale clap grocery
 bip_39_word_space_9: cube opera trend car neglect scale clap grocery decide
+bip_39_word_underscore_1: cube
+bip_39_word_underscore_10: cube_opera_trend_car_neglect_scale_clap_grocery_decide_iron
+bip_39_word_underscore_11: cube_opera_trend_car_neglect_scale_clap_grocery_decide_iron_pizza
+bip_39_word_underscore_12: cube_opera_trend_car_neglect_scale_clap_grocery_decide_iron_pizza_autumn
+bip_39_word_underscore_2: cube_opera
+bip_39_word_underscore_3: cube_opera_trend
+bip_39_word_underscore_4: cube_opera_trend_car
+bip_39_word_underscore_5: cube_opera_trend_car_neglect
+bip_39_word_underscore_6: cube_opera_trend_car_neglect_scale
+bip_39_word_underscore_7: cube_opera_trend_car_neglect_scale_clap
+bip_39_word_underscore_8: cube_opera_trend_car_neglect_scale_clap_grocery
+bip_39_word_underscore_9: cube_opera_trend_car_neglect_scale_clap_grocery_decide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

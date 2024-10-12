@@ -1,3 +1,15 @@
+bip_39_word_dash_1: task
+bip_39_word_dash_10: task-blur-juice-amateur-author-claw-develop-spend-problem-cube
+bip_39_word_dash_11: task-blur-juice-amateur-author-claw-develop-spend-problem-cube-inmate
+bip_39_word_dash_12: task-blur-juice-amateur-author-claw-develop-spend-problem-cube-inmate-allow
+bip_39_word_dash_2: task-blur
+bip_39_word_dash_3: task-blur-juice
+bip_39_word_dash_4: task-blur-juice-amateur
+bip_39_word_dash_5: task-blur-juice-amateur-author
+bip_39_word_dash_6: task-blur-juice-amateur-author-claw
+bip_39_word_dash_7: task-blur-juice-amateur-author-claw-develop
+bip_39_word_dash_8: task-blur-juice-amateur-author-claw-develop-spend
+bip_39_word_dash_9: task-blur-juice-amateur-author-claw-develop-spend-problem
 bip_39_word_new_br_1: task
 bip_39_word_new_br_10: task<br>blur<br>juice<br>amateur<br>author<br>claw<br>develop<br>spend<br>problem<br>cube
 bip_39_word_new_br_11: task<br>blur<br>juice<br>amateur<br>author<br>claw<br>develop<br>spend<br>problem<br>cube<br>inmate
@@ -193,6 +205,18 @@ bip_39_word_space_6: task blur juice amateur author claw
 bip_39_word_space_7: task blur juice amateur author claw develop
 bip_39_word_space_8: task blur juice amateur author claw develop spend
 bip_39_word_space_9: task blur juice amateur author claw develop spend problem
+bip_39_word_underscore_1: task
+bip_39_word_underscore_10: task_blur_juice_amateur_author_claw_develop_spend_problem_cube
+bip_39_word_underscore_11: task_blur_juice_amateur_author_claw_develop_spend_problem_cube_inmate
+bip_39_word_underscore_12: task_blur_juice_amateur_author_claw_develop_spend_problem_cube_inmate_allow
+bip_39_word_underscore_2: task_blur
+bip_39_word_underscore_3: task_blur_juice
+bip_39_word_underscore_4: task_blur_juice_amateur
+bip_39_word_underscore_5: task_blur_juice_amateur_author
+bip_39_word_underscore_6: task_blur_juice_amateur_author_claw
+bip_39_word_underscore_7: task_blur_juice_amateur_author_claw_develop
+bip_39_word_underscore_8: task_blur_juice_amateur_author_claw_develop_spend
+bip_39_word_underscore_9: task_blur_juice_amateur_author_claw_develop_spend_problem
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

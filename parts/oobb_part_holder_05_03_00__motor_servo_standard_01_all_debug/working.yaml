@@ -1,3 +1,15 @@
+bip_39_word_dash_1: black
+bip_39_word_dash_10: black-leg-cup-snap-bag-stadium-casual-senior-hill-escape
+bip_39_word_dash_11: black-leg-cup-snap-bag-stadium-casual-senior-hill-escape-salute
+bip_39_word_dash_12: black-leg-cup-snap-bag-stadium-casual-senior-hill-escape-salute-alcohol
+bip_39_word_dash_2: black-leg
+bip_39_word_dash_3: black-leg-cup
+bip_39_word_dash_4: black-leg-cup-snap
+bip_39_word_dash_5: black-leg-cup-snap-bag
+bip_39_word_dash_6: black-leg-cup-snap-bag-stadium
+bip_39_word_dash_7: black-leg-cup-snap-bag-stadium-casual
+bip_39_word_dash_8: black-leg-cup-snap-bag-stadium-casual-senior
+bip_39_word_dash_9: black-leg-cup-snap-bag-stadium-casual-senior-hill
 bip_39_word_new_br_1: black
 bip_39_word_new_br_10: black<br>leg<br>cup<br>snap<br>bag<br>stadium<br>casual<br>senior<br>hill<br>escape
 bip_39_word_new_br_11: black<br>leg<br>cup<br>snap<br>bag<br>stadium<br>casual<br>senior<br>hill<br>escape<br>salute
@@ -192,6 +204,18 @@ bip_39_word_space_6: black leg cup snap bag stadium
 bip_39_word_space_7: black leg cup snap bag stadium casual
 bip_39_word_space_8: black leg cup snap bag stadium casual senior
 bip_39_word_space_9: black leg cup snap bag stadium casual senior hill
+bip_39_word_underscore_1: black
+bip_39_word_underscore_10: black_leg_cup_snap_bag_stadium_casual_senior_hill_escape
+bip_39_word_underscore_11: black_leg_cup_snap_bag_stadium_casual_senior_hill_escape_salute
+bip_39_word_underscore_12: black_leg_cup_snap_bag_stadium_casual_senior_hill_escape_salute_alcohol
+bip_39_word_underscore_2: black_leg
+bip_39_word_underscore_3: black_leg_cup
+bip_39_word_underscore_4: black_leg_cup_snap
+bip_39_word_underscore_5: black_leg_cup_snap_bag
+bip_39_word_underscore_6: black_leg_cup_snap_bag_stadium
+bip_39_word_underscore_7: black_leg_cup_snap_bag_stadium_casual
+bip_39_word_underscore_8: black_leg_cup_snap_bag_stadium_casual_senior
+bip_39_word_underscore_9: black_leg_cup_snap_bag_stadium_casual_senior_hill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

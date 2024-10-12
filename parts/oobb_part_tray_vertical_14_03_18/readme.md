@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | ripple |  
+| bip_39_word_dash_10 | ripple-example-exhibit-sausage-office-finish-silly-joy-any-like |  
+| bip_39_word_dash_11 | ripple-example-exhibit-sausage-office-finish-silly-joy-any-like-moon |  
+| bip_39_word_dash_12 | ripple-example-exhibit-sausage-office-finish-silly-joy-any-like-moon-autumn |  
+| bip_39_word_dash_2 | ripple-example |  
+| bip_39_word_dash_3 | ripple-example-exhibit |  
+| bip_39_word_dash_4 | ripple-example-exhibit-sausage |  
+| bip_39_word_dash_5 | ripple-example-exhibit-sausage-office |  
+| bip_39_word_dash_6 | ripple-example-exhibit-sausage-office-finish |  
+| bip_39_word_dash_7 | ripple-example-exhibit-sausage-office-finish-silly |  
+| bip_39_word_dash_8 | ripple-example-exhibit-sausage-office-finish-silly-joy |  
+| bip_39_word_dash_9 | ripple-example-exhibit-sausage-office-finish-silly-joy-any |  
 | bip_39_word_new_br_1 | ripple |  
 | bip_39_word_new_br_10 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy<br>any<br>like |  
 | bip_39_word_new_br_11 | ripple<br>example<br>exhibit<br>sausage<br>office<br>finish<br>silly<br>joy<br>any<br>like<br>moon |  
@@ -147,6 +159,18 @@ any |
 | bip_39_word_space_7 | ripple example exhibit sausage office finish silly |  
 | bip_39_word_space_8 | ripple example exhibit sausage office finish silly joy |  
 | bip_39_word_space_9 | ripple example exhibit sausage office finish silly joy any |  
+| bip_39_word_underscore_1 | ripple |  
+| bip_39_word_underscore_10 | ripple_example_exhibit_sausage_office_finish_silly_joy_any_like |  
+| bip_39_word_underscore_11 | ripple_example_exhibit_sausage_office_finish_silly_joy_any_like_moon |  
+| bip_39_word_underscore_12 | ripple_example_exhibit_sausage_office_finish_silly_joy_any_like_moon_autumn |  
+| bip_39_word_underscore_2 | ripple_example |  
+| bip_39_word_underscore_3 | ripple_example_exhibit |  
+| bip_39_word_underscore_4 | ripple_example_exhibit_sausage |  
+| bip_39_word_underscore_5 | ripple_example_exhibit_sausage_office |  
+| bip_39_word_underscore_6 | ripple_example_exhibit_sausage_office_finish |  
+| bip_39_word_underscore_7 | ripple_example_exhibit_sausage_office_finish_silly |  
+| bip_39_word_underscore_8 | ripple_example_exhibit_sausage_office_finish_silly_joy |  
+| bip_39_word_underscore_9 | ripple_example_exhibit_sausage_office_finish_silly_joy_any |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

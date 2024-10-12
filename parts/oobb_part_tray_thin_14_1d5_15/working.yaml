@@ -1,3 +1,15 @@
+bip_39_word_dash_1: purpose
+bip_39_word_dash_10: purpose-news-labor-sugar-hold-era-cake-trumpet-snake-food
+bip_39_word_dash_11: purpose-news-labor-sugar-hold-era-cake-trumpet-snake-food-betray
+bip_39_word_dash_12: purpose-news-labor-sugar-hold-era-cake-trumpet-snake-food-betray-acoustic
+bip_39_word_dash_2: purpose-news
+bip_39_word_dash_3: purpose-news-labor
+bip_39_word_dash_4: purpose-news-labor-sugar
+bip_39_word_dash_5: purpose-news-labor-sugar-hold
+bip_39_word_dash_6: purpose-news-labor-sugar-hold-era
+bip_39_word_dash_7: purpose-news-labor-sugar-hold-era-cake
+bip_39_word_dash_8: purpose-news-labor-sugar-hold-era-cake-trumpet
+bip_39_word_dash_9: purpose-news-labor-sugar-hold-era-cake-trumpet-snake
 bip_39_word_new_br_1: purpose
 bip_39_word_new_br_10: purpose<br>news<br>labor<br>sugar<br>hold<br>era<br>cake<br>trumpet<br>snake<br>food
 bip_39_word_new_br_11: purpose<br>news<br>labor<br>sugar<br>hold<br>era<br>cake<br>trumpet<br>snake<br>food<br>betray
@@ -192,6 +204,18 @@ bip_39_word_space_6: purpose news labor sugar hold era
 bip_39_word_space_7: purpose news labor sugar hold era cake
 bip_39_word_space_8: purpose news labor sugar hold era cake trumpet
 bip_39_word_space_9: purpose news labor sugar hold era cake trumpet snake
+bip_39_word_underscore_1: purpose
+bip_39_word_underscore_10: purpose_news_labor_sugar_hold_era_cake_trumpet_snake_food
+bip_39_word_underscore_11: purpose_news_labor_sugar_hold_era_cake_trumpet_snake_food_betray
+bip_39_word_underscore_12: purpose_news_labor_sugar_hold_era_cake_trumpet_snake_food_betray_acoustic
+bip_39_word_underscore_2: purpose_news
+bip_39_word_underscore_3: purpose_news_labor
+bip_39_word_underscore_4: purpose_news_labor_sugar
+bip_39_word_underscore_5: purpose_news_labor_sugar_hold
+bip_39_word_underscore_6: purpose_news_labor_sugar_hold_era
+bip_39_word_underscore_7: purpose_news_labor_sugar_hold_era_cake
+bip_39_word_underscore_8: purpose_news_labor_sugar_hold_era_cake_trumpet
+bip_39_word_underscore_9: purpose_news_labor_sugar_hold_era_cake_trumpet_snake
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

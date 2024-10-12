@@ -1,3 +1,15 @@
+bip_39_word_dash_1: actor
+bip_39_word_dash_10: actor-mechanic-entry-later-lobster-submit-relax-orange-expose-spider
+bip_39_word_dash_11: actor-mechanic-entry-later-lobster-submit-relax-orange-expose-spider-doctor
+bip_39_word_dash_12: actor-mechanic-entry-later-lobster-submit-relax-orange-expose-spider-doctor-angry
+bip_39_word_dash_2: actor-mechanic
+bip_39_word_dash_3: actor-mechanic-entry
+bip_39_word_dash_4: actor-mechanic-entry-later
+bip_39_word_dash_5: actor-mechanic-entry-later-lobster
+bip_39_word_dash_6: actor-mechanic-entry-later-lobster-submit
+bip_39_word_dash_7: actor-mechanic-entry-later-lobster-submit-relax
+bip_39_word_dash_8: actor-mechanic-entry-later-lobster-submit-relax-orange
+bip_39_word_dash_9: actor-mechanic-entry-later-lobster-submit-relax-orange-expose
 bip_39_word_new_br_1: actor
 bip_39_word_new_br_10: actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange<br>expose<br>spider
 bip_39_word_new_br_11: actor<br>mechanic<br>entry<br>later<br>lobster<br>submit<br>relax<br>orange<br>expose<br>spider<br>doctor
@@ -194,6 +206,18 @@ bip_39_word_space_6: actor mechanic entry later lobster submit
 bip_39_word_space_7: actor mechanic entry later lobster submit relax
 bip_39_word_space_8: actor mechanic entry later lobster submit relax orange
 bip_39_word_space_9: actor mechanic entry later lobster submit relax orange expose
+bip_39_word_underscore_1: actor
+bip_39_word_underscore_10: actor_mechanic_entry_later_lobster_submit_relax_orange_expose_spider
+bip_39_word_underscore_11: actor_mechanic_entry_later_lobster_submit_relax_orange_expose_spider_doctor
+bip_39_word_underscore_12: actor_mechanic_entry_later_lobster_submit_relax_orange_expose_spider_doctor_angry
+bip_39_word_underscore_2: actor_mechanic
+bip_39_word_underscore_3: actor_mechanic_entry
+bip_39_word_underscore_4: actor_mechanic_entry_later
+bip_39_word_underscore_5: actor_mechanic_entry_later_lobster
+bip_39_word_underscore_6: actor_mechanic_entry_later_lobster_submit
+bip_39_word_underscore_7: actor_mechanic_entry_later_lobster_submit_relax
+bip_39_word_underscore_8: actor_mechanic_entry_later_lobster_submit_relax_orange
+bip_39_word_underscore_9: actor_mechanic_entry_later_lobster_submit_relax_orange_expose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | broom |  
+| bip_39_word_dash_10 | broom-venture-blood-parrot-raccoon-topple-waste-thought-spray-try |  
+| bip_39_word_dash_11 | broom-venture-blood-parrot-raccoon-topple-waste-thought-spray-try-same |  
+| bip_39_word_dash_12 | broom-venture-blood-parrot-raccoon-topple-waste-thought-spray-try-same-area |  
+| bip_39_word_dash_2 | broom-venture |  
+| bip_39_word_dash_3 | broom-venture-blood |  
+| bip_39_word_dash_4 | broom-venture-blood-parrot |  
+| bip_39_word_dash_5 | broom-venture-blood-parrot-raccoon |  
+| bip_39_word_dash_6 | broom-venture-blood-parrot-raccoon-topple |  
+| bip_39_word_dash_7 | broom-venture-blood-parrot-raccoon-topple-waste |  
+| bip_39_word_dash_8 | broom-venture-blood-parrot-raccoon-topple-waste-thought |  
+| bip_39_word_dash_9 | broom-venture-blood-parrot-raccoon-topple-waste-thought-spray |  
 | bip_39_word_new_br_1 | broom |  
 | bip_39_word_new_br_10 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought<br>spray<br>try |  
 | bip_39_word_new_br_11 | broom<br>venture<br>blood<br>parrot<br>raccoon<br>topple<br>waste<br>thought<br>spray<br>try<br>same |  
@@ -147,6 +159,18 @@ spray |
 | bip_39_word_space_7 | broom venture blood parrot raccoon topple waste |  
 | bip_39_word_space_8 | broom venture blood parrot raccoon topple waste thought |  
 | bip_39_word_space_9 | broom venture blood parrot raccoon topple waste thought spray |  
+| bip_39_word_underscore_1 | broom |  
+| bip_39_word_underscore_10 | broom_venture_blood_parrot_raccoon_topple_waste_thought_spray_try |  
+| bip_39_word_underscore_11 | broom_venture_blood_parrot_raccoon_topple_waste_thought_spray_try_same |  
+| bip_39_word_underscore_12 | broom_venture_blood_parrot_raccoon_topple_waste_thought_spray_try_same_area |  
+| bip_39_word_underscore_2 | broom_venture |  
+| bip_39_word_underscore_3 | broom_venture_blood |  
+| bip_39_word_underscore_4 | broom_venture_blood_parrot |  
+| bip_39_word_underscore_5 | broom_venture_blood_parrot_raccoon |  
+| bip_39_word_underscore_6 | broom_venture_blood_parrot_raccoon_topple |  
+| bip_39_word_underscore_7 | broom_venture_blood_parrot_raccoon_topple_waste |  
+| bip_39_word_underscore_8 | broom_venture_blood_parrot_raccoon_topple_waste_thought |  
+| bip_39_word_underscore_9 | broom_venture_blood_parrot_raccoon_topple_waste_thought_spray |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

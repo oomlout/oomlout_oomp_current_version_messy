@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | master |  
+| bip_39_word_dash_10 | master-large-cost-brass-flock-sniff-gap-ancient-sorry-purchase |  
+| bip_39_word_dash_11 | master-large-cost-brass-flock-sniff-gap-ancient-sorry-purchase-prepare |  
+| bip_39_word_dash_12 | master-large-cost-brass-flock-sniff-gap-ancient-sorry-purchase-prepare-avocado |  
+| bip_39_word_dash_2 | master-large |  
+| bip_39_word_dash_3 | master-large-cost |  
+| bip_39_word_dash_4 | master-large-cost-brass |  
+| bip_39_word_dash_5 | master-large-cost-brass-flock |  
+| bip_39_word_dash_6 | master-large-cost-brass-flock-sniff |  
+| bip_39_word_dash_7 | master-large-cost-brass-flock-sniff-gap |  
+| bip_39_word_dash_8 | master-large-cost-brass-flock-sniff-gap-ancient |  
+| bip_39_word_dash_9 | master-large-cost-brass-flock-sniff-gap-ancient-sorry |  
 | bip_39_word_new_br_1 | master |  
 | bip_39_word_new_br_10 | master<br>large<br>cost<br>brass<br>flock<br>sniff<br>gap<br>ancient<br>sorry<br>purchase |  
 | bip_39_word_new_br_11 | master<br>large<br>cost<br>brass<br>flock<br>sniff<br>gap<br>ancient<br>sorry<br>purchase<br>prepare |  
@@ -147,6 +159,18 @@ sorry |
 | bip_39_word_space_7 | master large cost brass flock sniff gap |  
 | bip_39_word_space_8 | master large cost brass flock sniff gap ancient |  
 | bip_39_word_space_9 | master large cost brass flock sniff gap ancient sorry |  
+| bip_39_word_underscore_1 | master |  
+| bip_39_word_underscore_10 | master_large_cost_brass_flock_sniff_gap_ancient_sorry_purchase |  
+| bip_39_word_underscore_11 | master_large_cost_brass_flock_sniff_gap_ancient_sorry_purchase_prepare |  
+| bip_39_word_underscore_12 | master_large_cost_brass_flock_sniff_gap_ancient_sorry_purchase_prepare_avocado |  
+| bip_39_word_underscore_2 | master_large |  
+| bip_39_word_underscore_3 | master_large_cost |  
+| bip_39_word_underscore_4 | master_large_cost_brass |  
+| bip_39_word_underscore_5 | master_large_cost_brass_flock |  
+| bip_39_word_underscore_6 | master_large_cost_brass_flock_sniff |  
+| bip_39_word_underscore_7 | master_large_cost_brass_flock_sniff_gap |  
+| bip_39_word_underscore_8 | master_large_cost_brass_flock_sniff_gap_ancient |  
+| bip_39_word_underscore_9 | master_large_cost_brass_flock_sniff_gap_ancient_sorry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

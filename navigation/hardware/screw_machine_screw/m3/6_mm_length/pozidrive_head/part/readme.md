@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | novel |  
+| bip_39_word_dash_10 | novel-void-upper-attract-vocal-leader-upgrade-split-success-spread |  
+| bip_39_word_dash_11 | novel-void-upper-attract-vocal-leader-upgrade-split-success-spread-grief |  
+| bip_39_word_dash_12 | novel-void-upper-attract-vocal-leader-upgrade-split-success-spread-grief-author |  
+| bip_39_word_dash_2 | novel-void |  
+| bip_39_word_dash_3 | novel-void-upper |  
+| bip_39_word_dash_4 | novel-void-upper-attract |  
+| bip_39_word_dash_5 | novel-void-upper-attract-vocal |  
+| bip_39_word_dash_6 | novel-void-upper-attract-vocal-leader |  
+| bip_39_word_dash_7 | novel-void-upper-attract-vocal-leader-upgrade |  
+| bip_39_word_dash_8 | novel-void-upper-attract-vocal-leader-upgrade-split |  
+| bip_39_word_dash_9 | novel-void-upper-attract-vocal-leader-upgrade-split-success |  
 | bip_39_word_new_br_1 | novel |  
 | bip_39_word_new_br_10 | novel<br>void<br>upper<br>attract<br>vocal<br>leader<br>upgrade<br>split<br>success<br>spread |  
 | bip_39_word_new_br_11 | novel<br>void<br>upper<br>attract<br>vocal<br>leader<br>upgrade<br>split<br>success<br>spread<br>grief |  
@@ -147,6 +159,18 @@ success |
 | bip_39_word_space_7 | novel void upper attract vocal leader upgrade |  
 | bip_39_word_space_8 | novel void upper attract vocal leader upgrade split |  
 | bip_39_word_space_9 | novel void upper attract vocal leader upgrade split success |  
+| bip_39_word_underscore_1 | novel |  
+| bip_39_word_underscore_10 | novel_void_upper_attract_vocal_leader_upgrade_split_success_spread |  
+| bip_39_word_underscore_11 | novel_void_upper_attract_vocal_leader_upgrade_split_success_spread_grief |  
+| bip_39_word_underscore_12 | novel_void_upper_attract_vocal_leader_upgrade_split_success_spread_grief_author |  
+| bip_39_word_underscore_2 | novel_void |  
+| bip_39_word_underscore_3 | novel_void_upper |  
+| bip_39_word_underscore_4 | novel_void_upper_attract |  
+| bip_39_word_underscore_5 | novel_void_upper_attract_vocal |  
+| bip_39_word_underscore_6 | novel_void_upper_attract_vocal_leader |  
+| bip_39_word_underscore_7 | novel_void_upper_attract_vocal_leader_upgrade |  
+| bip_39_word_underscore_8 | novel_void_upper_attract_vocal_leader_upgrade_split |  
+| bip_39_word_underscore_9 | novel_void_upper_attract_vocal_leader_upgrade_split_success |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

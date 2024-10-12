@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | slide |  
+| bip_39_word_dash_10 | slide-elder-verify-solar-educate-close-gorilla-audit-math-nerve |  
+| bip_39_word_dash_11 | slide-elder-verify-solar-educate-close-gorilla-audit-math-nerve-farm |  
+| bip_39_word_dash_12 | slide-elder-verify-solar-educate-close-gorilla-audit-math-nerve-farm-arctic |  
+| bip_39_word_dash_2 | slide-elder |  
+| bip_39_word_dash_3 | slide-elder-verify |  
+| bip_39_word_dash_4 | slide-elder-verify-solar |  
+| bip_39_word_dash_5 | slide-elder-verify-solar-educate |  
+| bip_39_word_dash_6 | slide-elder-verify-solar-educate-close |  
+| bip_39_word_dash_7 | slide-elder-verify-solar-educate-close-gorilla |  
+| bip_39_word_dash_8 | slide-elder-verify-solar-educate-close-gorilla-audit |  
+| bip_39_word_dash_9 | slide-elder-verify-solar-educate-close-gorilla-audit-math |  
 | bip_39_word_new_br_1 | slide |  
 | bip_39_word_new_br_10 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve |  
 | bip_39_word_new_br_11 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve<br>farm |  
@@ -147,6 +159,18 @@ math |
 | bip_39_word_space_7 | slide elder verify solar educate close gorilla |  
 | bip_39_word_space_8 | slide elder verify solar educate close gorilla audit |  
 | bip_39_word_space_9 | slide elder verify solar educate close gorilla audit math |  
+| bip_39_word_underscore_1 | slide |  
+| bip_39_word_underscore_10 | slide_elder_verify_solar_educate_close_gorilla_audit_math_nerve |  
+| bip_39_word_underscore_11 | slide_elder_verify_solar_educate_close_gorilla_audit_math_nerve_farm |  
+| bip_39_word_underscore_12 | slide_elder_verify_solar_educate_close_gorilla_audit_math_nerve_farm_arctic |  
+| bip_39_word_underscore_2 | slide_elder |  
+| bip_39_word_underscore_3 | slide_elder_verify |  
+| bip_39_word_underscore_4 | slide_elder_verify_solar |  
+| bip_39_word_underscore_5 | slide_elder_verify_solar_educate |  
+| bip_39_word_underscore_6 | slide_elder_verify_solar_educate_close |  
+| bip_39_word_underscore_7 | slide_elder_verify_solar_educate_close_gorilla |  
+| bip_39_word_underscore_8 | slide_elder_verify_solar_educate_close_gorilla_audit |  
+| bip_39_word_underscore_9 | slide_elder_verify_solar_educate_close_gorilla_audit_math |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

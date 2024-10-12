@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | story |  
+| bip_39_word_dash_10 | story-spice-luxury-story-lion-bike-anchor-thank-name-direct |  
+| bip_39_word_dash_11 | story-spice-luxury-story-lion-bike-anchor-thank-name-direct-vanish |  
+| bip_39_word_dash_12 | story-spice-luxury-story-lion-bike-anchor-thank-name-direct-vanish-avocado |  
+| bip_39_word_dash_2 | story-spice |  
+| bip_39_word_dash_3 | story-spice-luxury |  
+| bip_39_word_dash_4 | story-spice-luxury-story |  
+| bip_39_word_dash_5 | story-spice-luxury-story-lion |  
+| bip_39_word_dash_6 | story-spice-luxury-story-lion-bike |  
+| bip_39_word_dash_7 | story-spice-luxury-story-lion-bike-anchor |  
+| bip_39_word_dash_8 | story-spice-luxury-story-lion-bike-anchor-thank |  
+| bip_39_word_dash_9 | story-spice-luxury-story-lion-bike-anchor-thank-name |  
 | bip_39_word_new_br_1 | story |  
 | bip_39_word_new_br_10 | story<br>spice<br>luxury<br>story<br>lion<br>bike<br>anchor<br>thank<br>name<br>direct |  
 | bip_39_word_new_br_11 | story<br>spice<br>luxury<br>story<br>lion<br>bike<br>anchor<br>thank<br>name<br>direct<br>vanish |  
@@ -147,6 +159,18 @@ name |
 | bip_39_word_space_7 | story spice luxury story lion bike anchor |  
 | bip_39_word_space_8 | story spice luxury story lion bike anchor thank |  
 | bip_39_word_space_9 | story spice luxury story lion bike anchor thank name |  
+| bip_39_word_underscore_1 | story |  
+| bip_39_word_underscore_10 | story_spice_luxury_story_lion_bike_anchor_thank_name_direct |  
+| bip_39_word_underscore_11 | story_spice_luxury_story_lion_bike_anchor_thank_name_direct_vanish |  
+| bip_39_word_underscore_12 | story_spice_luxury_story_lion_bike_anchor_thank_name_direct_vanish_avocado |  
+| bip_39_word_underscore_2 | story_spice |  
+| bip_39_word_underscore_3 | story_spice_luxury |  
+| bip_39_word_underscore_4 | story_spice_luxury_story |  
+| bip_39_word_underscore_5 | story_spice_luxury_story_lion |  
+| bip_39_word_underscore_6 | story_spice_luxury_story_lion_bike |  
+| bip_39_word_underscore_7 | story_spice_luxury_story_lion_bike_anchor |  
+| bip_39_word_underscore_8 | story_spice_luxury_story_lion_bike_anchor_thank |  
+| bip_39_word_underscore_9 | story_spice_luxury_story_lion_bike_anchor_thank_name |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

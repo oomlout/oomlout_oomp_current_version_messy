@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | image |  
+| bip_39_word_dash_10 | image-exercise-pigeon-muffin-merit-crowd-paddle-crater-better-concert |  
+| bip_39_word_dash_11 | image-exercise-pigeon-muffin-merit-crowd-paddle-crater-better-concert-blue |  
+| bip_39_word_dash_12 | image-exercise-pigeon-muffin-merit-crowd-paddle-crater-better-concert-blue-anchor |  
+| bip_39_word_dash_2 | image-exercise |  
+| bip_39_word_dash_3 | image-exercise-pigeon |  
+| bip_39_word_dash_4 | image-exercise-pigeon-muffin |  
+| bip_39_word_dash_5 | image-exercise-pigeon-muffin-merit |  
+| bip_39_word_dash_6 | image-exercise-pigeon-muffin-merit-crowd |  
+| bip_39_word_dash_7 | image-exercise-pigeon-muffin-merit-crowd-paddle |  
+| bip_39_word_dash_8 | image-exercise-pigeon-muffin-merit-crowd-paddle-crater |  
+| bip_39_word_dash_9 | image-exercise-pigeon-muffin-merit-crowd-paddle-crater-better |  
 | bip_39_word_new_br_1 | image |  
 | bip_39_word_new_br_10 | image<br>exercise<br>pigeon<br>muffin<br>merit<br>crowd<br>paddle<br>crater<br>better<br>concert |  
 | bip_39_word_new_br_11 | image<br>exercise<br>pigeon<br>muffin<br>merit<br>crowd<br>paddle<br>crater<br>better<br>concert<br>blue |  
@@ -147,6 +159,18 @@ better |
 | bip_39_word_space_7 | image exercise pigeon muffin merit crowd paddle |  
 | bip_39_word_space_8 | image exercise pigeon muffin merit crowd paddle crater |  
 | bip_39_word_space_9 | image exercise pigeon muffin merit crowd paddle crater better |  
+| bip_39_word_underscore_1 | image |  
+| bip_39_word_underscore_10 | image_exercise_pigeon_muffin_merit_crowd_paddle_crater_better_concert |  
+| bip_39_word_underscore_11 | image_exercise_pigeon_muffin_merit_crowd_paddle_crater_better_concert_blue |  
+| bip_39_word_underscore_12 | image_exercise_pigeon_muffin_merit_crowd_paddle_crater_better_concert_blue_anchor |  
+| bip_39_word_underscore_2 | image_exercise |  
+| bip_39_word_underscore_3 | image_exercise_pigeon |  
+| bip_39_word_underscore_4 | image_exercise_pigeon_muffin |  
+| bip_39_word_underscore_5 | image_exercise_pigeon_muffin_merit |  
+| bip_39_word_underscore_6 | image_exercise_pigeon_muffin_merit_crowd |  
+| bip_39_word_underscore_7 | image_exercise_pigeon_muffin_merit_crowd_paddle |  
+| bip_39_word_underscore_8 | image_exercise_pigeon_muffin_merit_crowd_paddle_crater |  
+| bip_39_word_underscore_9 | image_exercise_pigeon_muffin_merit_crowd_paddle_crater_better |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

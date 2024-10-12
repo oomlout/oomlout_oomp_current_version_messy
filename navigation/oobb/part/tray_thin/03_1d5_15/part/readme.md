@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | agent |  
+| bip_39_word_dash_10 | agent-innocent-physical-camera-paddle-pizza-height-jacket-neither-meadow |  
+| bip_39_word_dash_11 | agent-innocent-physical-camera-paddle-pizza-height-jacket-neither-meadow-elevator |  
+| bip_39_word_dash_12 | agent-innocent-physical-camera-paddle-pizza-height-jacket-neither-meadow-elevator-artefact |  
+| bip_39_word_dash_2 | agent-innocent |  
+| bip_39_word_dash_3 | agent-innocent-physical |  
+| bip_39_word_dash_4 | agent-innocent-physical-camera |  
+| bip_39_word_dash_5 | agent-innocent-physical-camera-paddle |  
+| bip_39_word_dash_6 | agent-innocent-physical-camera-paddle-pizza |  
+| bip_39_word_dash_7 | agent-innocent-physical-camera-paddle-pizza-height |  
+| bip_39_word_dash_8 | agent-innocent-physical-camera-paddle-pizza-height-jacket |  
+| bip_39_word_dash_9 | agent-innocent-physical-camera-paddle-pizza-height-jacket-neither |  
 | bip_39_word_new_br_1 | agent |  
 | bip_39_word_new_br_10 | agent<br>innocent<br>physical<br>camera<br>paddle<br>pizza<br>height<br>jacket<br>neither<br>meadow |  
 | bip_39_word_new_br_11 | agent<br>innocent<br>physical<br>camera<br>paddle<br>pizza<br>height<br>jacket<br>neither<br>meadow<br>elevator |  
@@ -147,6 +159,18 @@ neither |
 | bip_39_word_space_7 | agent innocent physical camera paddle pizza height |  
 | bip_39_word_space_8 | agent innocent physical camera paddle pizza height jacket |  
 | bip_39_word_space_9 | agent innocent physical camera paddle pizza height jacket neither |  
+| bip_39_word_underscore_1 | agent |  
+| bip_39_word_underscore_10 | agent_innocent_physical_camera_paddle_pizza_height_jacket_neither_meadow |  
+| bip_39_word_underscore_11 | agent_innocent_physical_camera_paddle_pizza_height_jacket_neither_meadow_elevator |  
+| bip_39_word_underscore_12 | agent_innocent_physical_camera_paddle_pizza_height_jacket_neither_meadow_elevator_artefact |  
+| bip_39_word_underscore_2 | agent_innocent |  
+| bip_39_word_underscore_3 | agent_innocent_physical |  
+| bip_39_word_underscore_4 | agent_innocent_physical_camera |  
+| bip_39_word_underscore_5 | agent_innocent_physical_camera_paddle |  
+| bip_39_word_underscore_6 | agent_innocent_physical_camera_paddle_pizza |  
+| bip_39_word_underscore_7 | agent_innocent_physical_camera_paddle_pizza_height |  
+| bip_39_word_underscore_8 | agent_innocent_physical_camera_paddle_pizza_height_jacket |  
+| bip_39_word_underscore_9 | agent_innocent_physical_camera_paddle_pizza_height_jacket_neither |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

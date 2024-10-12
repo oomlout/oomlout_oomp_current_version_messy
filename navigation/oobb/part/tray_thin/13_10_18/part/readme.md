@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | fresh |  
+| bip_39_word_dash_10 | fresh-frame-choice-father-artefact-enable-final-give-quiz-minor |  
+| bip_39_word_dash_11 | fresh-frame-choice-father-artefact-enable-final-give-quiz-minor-inject |  
+| bip_39_word_dash_12 | fresh-frame-choice-father-artefact-enable-final-give-quiz-minor-inject-ankle |  
+| bip_39_word_dash_2 | fresh-frame |  
+| bip_39_word_dash_3 | fresh-frame-choice |  
+| bip_39_word_dash_4 | fresh-frame-choice-father |  
+| bip_39_word_dash_5 | fresh-frame-choice-father-artefact |  
+| bip_39_word_dash_6 | fresh-frame-choice-father-artefact-enable |  
+| bip_39_word_dash_7 | fresh-frame-choice-father-artefact-enable-final |  
+| bip_39_word_dash_8 | fresh-frame-choice-father-artefact-enable-final-give |  
+| bip_39_word_dash_9 | fresh-frame-choice-father-artefact-enable-final-give-quiz |  
 | bip_39_word_new_br_1 | fresh |  
 | bip_39_word_new_br_10 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor |  
 | bip_39_word_new_br_11 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor<br>inject |  
@@ -147,6 +159,18 @@ quiz |
 | bip_39_word_space_7 | fresh frame choice father artefact enable final |  
 | bip_39_word_space_8 | fresh frame choice father artefact enable final give |  
 | bip_39_word_space_9 | fresh frame choice father artefact enable final give quiz |  
+| bip_39_word_underscore_1 | fresh |  
+| bip_39_word_underscore_10 | fresh_frame_choice_father_artefact_enable_final_give_quiz_minor |  
+| bip_39_word_underscore_11 | fresh_frame_choice_father_artefact_enable_final_give_quiz_minor_inject |  
+| bip_39_word_underscore_12 | fresh_frame_choice_father_artefact_enable_final_give_quiz_minor_inject_ankle |  
+| bip_39_word_underscore_2 | fresh_frame |  
+| bip_39_word_underscore_3 | fresh_frame_choice |  
+| bip_39_word_underscore_4 | fresh_frame_choice_father |  
+| bip_39_word_underscore_5 | fresh_frame_choice_father_artefact |  
+| bip_39_word_underscore_6 | fresh_frame_choice_father_artefact_enable |  
+| bip_39_word_underscore_7 | fresh_frame_choice_father_artefact_enable_final |  
+| bip_39_word_underscore_8 | fresh_frame_choice_father_artefact_enable_final_give |  
+| bip_39_word_underscore_9 | fresh_frame_choice_father_artefact_enable_final_give_quiz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

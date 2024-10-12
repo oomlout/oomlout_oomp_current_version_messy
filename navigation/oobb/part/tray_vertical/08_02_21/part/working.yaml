@@ -1,3 +1,15 @@
+bip_39_word_dash_1: ecology
+bip_39_word_dash_10: ecology-enjoy-abstract-trash-nurse-divorce-bright-valid-gas-wedding
+bip_39_word_dash_11: ecology-enjoy-abstract-trash-nurse-divorce-bright-valid-gas-wedding-usage
+bip_39_word_dash_12: ecology-enjoy-abstract-trash-nurse-divorce-bright-valid-gas-wedding-usage-agree
+bip_39_word_dash_2: ecology-enjoy
+bip_39_word_dash_3: ecology-enjoy-abstract
+bip_39_word_dash_4: ecology-enjoy-abstract-trash
+bip_39_word_dash_5: ecology-enjoy-abstract-trash-nurse
+bip_39_word_dash_6: ecology-enjoy-abstract-trash-nurse-divorce
+bip_39_word_dash_7: ecology-enjoy-abstract-trash-nurse-divorce-bright
+bip_39_word_dash_8: ecology-enjoy-abstract-trash-nurse-divorce-bright-valid
+bip_39_word_dash_9: ecology-enjoy-abstract-trash-nurse-divorce-bright-valid-gas
 bip_39_word_new_br_1: ecology
 bip_39_word_new_br_10: ecology<br>enjoy<br>abstract<br>trash<br>nurse<br>divorce<br>bright<br>valid<br>gas<br>wedding
 bip_39_word_new_br_11: ecology<br>enjoy<br>abstract<br>trash<br>nurse<br>divorce<br>bright<br>valid<br>gas<br>wedding<br>usage
@@ -194,6 +206,18 @@ bip_39_word_space_6: ecology enjoy abstract trash nurse divorce
 bip_39_word_space_7: ecology enjoy abstract trash nurse divorce bright
 bip_39_word_space_8: ecology enjoy abstract trash nurse divorce bright valid
 bip_39_word_space_9: ecology enjoy abstract trash nurse divorce bright valid gas
+bip_39_word_underscore_1: ecology
+bip_39_word_underscore_10: ecology_enjoy_abstract_trash_nurse_divorce_bright_valid_gas_wedding
+bip_39_word_underscore_11: ecology_enjoy_abstract_trash_nurse_divorce_bright_valid_gas_wedding_usage
+bip_39_word_underscore_12: ecology_enjoy_abstract_trash_nurse_divorce_bright_valid_gas_wedding_usage_agree
+bip_39_word_underscore_2: ecology_enjoy
+bip_39_word_underscore_3: ecology_enjoy_abstract
+bip_39_word_underscore_4: ecology_enjoy_abstract_trash
+bip_39_word_underscore_5: ecology_enjoy_abstract_trash_nurse
+bip_39_word_underscore_6: ecology_enjoy_abstract_trash_nurse_divorce
+bip_39_word_underscore_7: ecology_enjoy_abstract_trash_nurse_divorce_bright
+bip_39_word_underscore_8: ecology_enjoy_abstract_trash_nurse_divorce_bright_valid
+bip_39_word_underscore_9: ecology_enjoy_abstract_trash_nurse_divorce_bright_valid_gas
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

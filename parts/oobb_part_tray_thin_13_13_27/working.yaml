@@ -1,3 +1,15 @@
+bip_39_word_dash_1: rescue
+bip_39_word_dash_10: rescue-motor-visa-debate-river-valve-number-army-auction-payment
+bip_39_word_dash_11: rescue-motor-visa-debate-river-valve-number-army-auction-payment-term
+bip_39_word_dash_12: rescue-motor-visa-debate-river-valve-number-army-auction-payment-term-allow
+bip_39_word_dash_2: rescue-motor
+bip_39_word_dash_3: rescue-motor-visa
+bip_39_word_dash_4: rescue-motor-visa-debate
+bip_39_word_dash_5: rescue-motor-visa-debate-river
+bip_39_word_dash_6: rescue-motor-visa-debate-river-valve
+bip_39_word_dash_7: rescue-motor-visa-debate-river-valve-number
+bip_39_word_dash_8: rescue-motor-visa-debate-river-valve-number-army
+bip_39_word_dash_9: rescue-motor-visa-debate-river-valve-number-army-auction
 bip_39_word_new_br_1: rescue
 bip_39_word_new_br_10: rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army<br>auction<br>payment
 bip_39_word_new_br_11: rescue<br>motor<br>visa<br>debate<br>river<br>valve<br>number<br>army<br>auction<br>payment<br>term
@@ -193,6 +205,18 @@ bip_39_word_space_6: rescue motor visa debate river valve
 bip_39_word_space_7: rescue motor visa debate river valve number
 bip_39_word_space_8: rescue motor visa debate river valve number army
 bip_39_word_space_9: rescue motor visa debate river valve number army auction
+bip_39_word_underscore_1: rescue
+bip_39_word_underscore_10: rescue_motor_visa_debate_river_valve_number_army_auction_payment
+bip_39_word_underscore_11: rescue_motor_visa_debate_river_valve_number_army_auction_payment_term
+bip_39_word_underscore_12: rescue_motor_visa_debate_river_valve_number_army_auction_payment_term_allow
+bip_39_word_underscore_2: rescue_motor
+bip_39_word_underscore_3: rescue_motor_visa
+bip_39_word_underscore_4: rescue_motor_visa_debate
+bip_39_word_underscore_5: rescue_motor_visa_debate_river
+bip_39_word_underscore_6: rescue_motor_visa_debate_river_valve
+bip_39_word_underscore_7: rescue_motor_visa_debate_river_valve_number
+bip_39_word_underscore_8: rescue_motor_visa_debate_river_valve_number_army
+bip_39_word_underscore_9: rescue_motor_visa_debate_river_valve_number_army_auction
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

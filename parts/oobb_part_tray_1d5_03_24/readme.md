@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | describe |  
+| bip_39_word_dash_10 | describe-vacuum-grass-insect-copper-tiger-arrest-pill-fluid-deer |  
+| bip_39_word_dash_11 | describe-vacuum-grass-insect-copper-tiger-arrest-pill-fluid-deer-hip |  
+| bip_39_word_dash_12 | describe-vacuum-grass-insect-copper-tiger-arrest-pill-fluid-deer-hip-artwork |  
+| bip_39_word_dash_2 | describe-vacuum |  
+| bip_39_word_dash_3 | describe-vacuum-grass |  
+| bip_39_word_dash_4 | describe-vacuum-grass-insect |  
+| bip_39_word_dash_5 | describe-vacuum-grass-insect-copper |  
+| bip_39_word_dash_6 | describe-vacuum-grass-insect-copper-tiger |  
+| bip_39_word_dash_7 | describe-vacuum-grass-insect-copper-tiger-arrest |  
+| bip_39_word_dash_8 | describe-vacuum-grass-insect-copper-tiger-arrest-pill |  
+| bip_39_word_dash_9 | describe-vacuum-grass-insect-copper-tiger-arrest-pill-fluid |  
 | bip_39_word_new_br_1 | describe |  
 | bip_39_word_new_br_10 | describe<br>vacuum<br>grass<br>insect<br>copper<br>tiger<br>arrest<br>pill<br>fluid<br>deer |  
 | bip_39_word_new_br_11 | describe<br>vacuum<br>grass<br>insect<br>copper<br>tiger<br>arrest<br>pill<br>fluid<br>deer<br>hip |  
@@ -147,6 +159,18 @@ fluid |
 | bip_39_word_space_7 | describe vacuum grass insect copper tiger arrest |  
 | bip_39_word_space_8 | describe vacuum grass insect copper tiger arrest pill |  
 | bip_39_word_space_9 | describe vacuum grass insect copper tiger arrest pill fluid |  
+| bip_39_word_underscore_1 | describe |  
+| bip_39_word_underscore_10 | describe_vacuum_grass_insect_copper_tiger_arrest_pill_fluid_deer |  
+| bip_39_word_underscore_11 | describe_vacuum_grass_insect_copper_tiger_arrest_pill_fluid_deer_hip |  
+| bip_39_word_underscore_12 | describe_vacuum_grass_insect_copper_tiger_arrest_pill_fluid_deer_hip_artwork |  
+| bip_39_word_underscore_2 | describe_vacuum |  
+| bip_39_word_underscore_3 | describe_vacuum_grass |  
+| bip_39_word_underscore_4 | describe_vacuum_grass_insect |  
+| bip_39_word_underscore_5 | describe_vacuum_grass_insect_copper |  
+| bip_39_word_underscore_6 | describe_vacuum_grass_insect_copper_tiger |  
+| bip_39_word_underscore_7 | describe_vacuum_grass_insect_copper_tiger_arrest |  
+| bip_39_word_underscore_8 | describe_vacuum_grass_insect_copper_tiger_arrest_pill |  
+| bip_39_word_underscore_9 | describe_vacuum_grass_insect_copper_tiger_arrest_pill_fluid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

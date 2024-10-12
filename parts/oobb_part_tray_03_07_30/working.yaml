@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nominee
+bip_39_word_dash_10: nominee-egg-axis-slide-neither-involve-snake-twin-forward-piece
+bip_39_word_dash_11: nominee-egg-axis-slide-neither-involve-snake-twin-forward-piece-execute
+bip_39_word_dash_12: nominee-egg-axis-slide-neither-involve-snake-twin-forward-piece-execute-about
+bip_39_word_dash_2: nominee-egg
+bip_39_word_dash_3: nominee-egg-axis
+bip_39_word_dash_4: nominee-egg-axis-slide
+bip_39_word_dash_5: nominee-egg-axis-slide-neither
+bip_39_word_dash_6: nominee-egg-axis-slide-neither-involve
+bip_39_word_dash_7: nominee-egg-axis-slide-neither-involve-snake
+bip_39_word_dash_8: nominee-egg-axis-slide-neither-involve-snake-twin
+bip_39_word_dash_9: nominee-egg-axis-slide-neither-involve-snake-twin-forward
 bip_39_word_new_br_1: nominee
 bip_39_word_new_br_10: nominee<br>egg<br>axis<br>slide<br>neither<br>involve<br>snake<br>twin<br>forward<br>piece
 bip_39_word_new_br_11: nominee<br>egg<br>axis<br>slide<br>neither<br>involve<br>snake<br>twin<br>forward<br>piece<br>execute
@@ -193,6 +205,18 @@ bip_39_word_space_6: nominee egg axis slide neither involve
 bip_39_word_space_7: nominee egg axis slide neither involve snake
 bip_39_word_space_8: nominee egg axis slide neither involve snake twin
 bip_39_word_space_9: nominee egg axis slide neither involve snake twin forward
+bip_39_word_underscore_1: nominee
+bip_39_word_underscore_10: nominee_egg_axis_slide_neither_involve_snake_twin_forward_piece
+bip_39_word_underscore_11: nominee_egg_axis_slide_neither_involve_snake_twin_forward_piece_execute
+bip_39_word_underscore_12: nominee_egg_axis_slide_neither_involve_snake_twin_forward_piece_execute_about
+bip_39_word_underscore_2: nominee_egg
+bip_39_word_underscore_3: nominee_egg_axis
+bip_39_word_underscore_4: nominee_egg_axis_slide
+bip_39_word_underscore_5: nominee_egg_axis_slide_neither
+bip_39_word_underscore_6: nominee_egg_axis_slide_neither_involve
+bip_39_word_underscore_7: nominee_egg_axis_slide_neither_involve_snake
+bip_39_word_underscore_8: nominee_egg_axis_slide_neither_involve_snake_twin
+bip_39_word_underscore_9: nominee_egg_axis_slide_neither_involve_snake_twin_forward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

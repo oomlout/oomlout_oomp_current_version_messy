@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | theme |  
+| bip_39_word_dash_10 | theme-hotel-toy-suggest-culture-immense-bid-slim-neutral-adjust |  
+| bip_39_word_dash_11 | theme-hotel-toy-suggest-culture-immense-bid-slim-neutral-adjust-surround |  
+| bip_39_word_dash_12 | theme-hotel-toy-suggest-culture-immense-bid-slim-neutral-adjust-surround-actual |  
+| bip_39_word_dash_2 | theme-hotel |  
+| bip_39_word_dash_3 | theme-hotel-toy |  
+| bip_39_word_dash_4 | theme-hotel-toy-suggest |  
+| bip_39_word_dash_5 | theme-hotel-toy-suggest-culture |  
+| bip_39_word_dash_6 | theme-hotel-toy-suggest-culture-immense |  
+| bip_39_word_dash_7 | theme-hotel-toy-suggest-culture-immense-bid |  
+| bip_39_word_dash_8 | theme-hotel-toy-suggest-culture-immense-bid-slim |  
+| bip_39_word_dash_9 | theme-hotel-toy-suggest-culture-immense-bid-slim-neutral |  
 | bip_39_word_new_br_1 | theme |  
 | bip_39_word_new_br_10 | theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust |  
 | bip_39_word_new_br_11 | theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust<br>surround |  
@@ -147,6 +159,18 @@ neutral |
 | bip_39_word_space_7 | theme hotel toy suggest culture immense bid |  
 | bip_39_word_space_8 | theme hotel toy suggest culture immense bid slim |  
 | bip_39_word_space_9 | theme hotel toy suggest culture immense bid slim neutral |  
+| bip_39_word_underscore_1 | theme |  
+| bip_39_word_underscore_10 | theme_hotel_toy_suggest_culture_immense_bid_slim_neutral_adjust |  
+| bip_39_word_underscore_11 | theme_hotel_toy_suggest_culture_immense_bid_slim_neutral_adjust_surround |  
+| bip_39_word_underscore_12 | theme_hotel_toy_suggest_culture_immense_bid_slim_neutral_adjust_surround_actual |  
+| bip_39_word_underscore_2 | theme_hotel |  
+| bip_39_word_underscore_3 | theme_hotel_toy |  
+| bip_39_word_underscore_4 | theme_hotel_toy_suggest |  
+| bip_39_word_underscore_5 | theme_hotel_toy_suggest_culture |  
+| bip_39_word_underscore_6 | theme_hotel_toy_suggest_culture_immense |  
+| bip_39_word_underscore_7 | theme_hotel_toy_suggest_culture_immense_bid |  
+| bip_39_word_underscore_8 | theme_hotel_toy_suggest_culture_immense_bid_slim |  
+| bip_39_word_underscore_9 | theme_hotel_toy_suggest_culture_immense_bid_slim_neutral |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

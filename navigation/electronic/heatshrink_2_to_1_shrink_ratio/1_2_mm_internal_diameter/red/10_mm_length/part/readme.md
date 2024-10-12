@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | jeans |  
+| bip_39_word_dash_10 | jeans-cricket-hurry-august-oak-possible-banana-expire-canyon-canoe |  
+| bip_39_word_dash_11 | jeans-cricket-hurry-august-oak-possible-banana-expire-canyon-canoe-undo |  
+| bip_39_word_dash_12 | jeans-cricket-hurry-august-oak-possible-banana-expire-canyon-canoe-undo-aerobic |  
+| bip_39_word_dash_2 | jeans-cricket |  
+| bip_39_word_dash_3 | jeans-cricket-hurry |  
+| bip_39_word_dash_4 | jeans-cricket-hurry-august |  
+| bip_39_word_dash_5 | jeans-cricket-hurry-august-oak |  
+| bip_39_word_dash_6 | jeans-cricket-hurry-august-oak-possible |  
+| bip_39_word_dash_7 | jeans-cricket-hurry-august-oak-possible-banana |  
+| bip_39_word_dash_8 | jeans-cricket-hurry-august-oak-possible-banana-expire |  
+| bip_39_word_dash_9 | jeans-cricket-hurry-august-oak-possible-banana-expire-canyon |  
 | bip_39_word_new_br_1 | jeans |  
 | bip_39_word_new_br_10 | jeans<br>cricket<br>hurry<br>august<br>oak<br>possible<br>banana<br>expire<br>canyon<br>canoe |  
 | bip_39_word_new_br_11 | jeans<br>cricket<br>hurry<br>august<br>oak<br>possible<br>banana<br>expire<br>canyon<br>canoe<br>undo |  
@@ -147,6 +159,18 @@ canyon |
 | bip_39_word_space_7 | jeans cricket hurry august oak possible banana |  
 | bip_39_word_space_8 | jeans cricket hurry august oak possible banana expire |  
 | bip_39_word_space_9 | jeans cricket hurry august oak possible banana expire canyon |  
+| bip_39_word_underscore_1 | jeans |  
+| bip_39_word_underscore_10 | jeans_cricket_hurry_august_oak_possible_banana_expire_canyon_canoe |  
+| bip_39_word_underscore_11 | jeans_cricket_hurry_august_oak_possible_banana_expire_canyon_canoe_undo |  
+| bip_39_word_underscore_12 | jeans_cricket_hurry_august_oak_possible_banana_expire_canyon_canoe_undo_aerobic |  
+| bip_39_word_underscore_2 | jeans_cricket |  
+| bip_39_word_underscore_3 | jeans_cricket_hurry |  
+| bip_39_word_underscore_4 | jeans_cricket_hurry_august |  
+| bip_39_word_underscore_5 | jeans_cricket_hurry_august_oak |  
+| bip_39_word_underscore_6 | jeans_cricket_hurry_august_oak_possible |  
+| bip_39_word_underscore_7 | jeans_cricket_hurry_august_oak_possible_banana |  
+| bip_39_word_underscore_8 | jeans_cricket_hurry_august_oak_possible_banana_expire |  
+| bip_39_word_underscore_9 | jeans_cricket_hurry_august_oak_possible_banana_expire_canyon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

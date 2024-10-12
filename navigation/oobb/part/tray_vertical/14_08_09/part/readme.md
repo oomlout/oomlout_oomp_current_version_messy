@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | daughter |  
+| bip_39_word_dash_10 | daughter-cupboard-verify-cradle-topple-capable-essay-visit-north-wise |  
+| bip_39_word_dash_11 | daughter-cupboard-verify-cradle-topple-capable-essay-visit-north-wise-pupil |  
+| bip_39_word_dash_12 | daughter-cupboard-verify-cradle-topple-capable-essay-visit-north-wise-pupil-air |  
+| bip_39_word_dash_2 | daughter-cupboard |  
+| bip_39_word_dash_3 | daughter-cupboard-verify |  
+| bip_39_word_dash_4 | daughter-cupboard-verify-cradle |  
+| bip_39_word_dash_5 | daughter-cupboard-verify-cradle-topple |  
+| bip_39_word_dash_6 | daughter-cupboard-verify-cradle-topple-capable |  
+| bip_39_word_dash_7 | daughter-cupboard-verify-cradle-topple-capable-essay |  
+| bip_39_word_dash_8 | daughter-cupboard-verify-cradle-topple-capable-essay-visit |  
+| bip_39_word_dash_9 | daughter-cupboard-verify-cradle-topple-capable-essay-visit-north |  
 | bip_39_word_new_br_1 | daughter |  
 | bip_39_word_new_br_10 | daughter<br>cupboard<br>verify<br>cradle<br>topple<br>capable<br>essay<br>visit<br>north<br>wise |  
 | bip_39_word_new_br_11 | daughter<br>cupboard<br>verify<br>cradle<br>topple<br>capable<br>essay<br>visit<br>north<br>wise<br>pupil |  
@@ -147,6 +159,18 @@ north |
 | bip_39_word_space_7 | daughter cupboard verify cradle topple capable essay |  
 | bip_39_word_space_8 | daughter cupboard verify cradle topple capable essay visit |  
 | bip_39_word_space_9 | daughter cupboard verify cradle topple capable essay visit north |  
+| bip_39_word_underscore_1 | daughter |  
+| bip_39_word_underscore_10 | daughter_cupboard_verify_cradle_topple_capable_essay_visit_north_wise |  
+| bip_39_word_underscore_11 | daughter_cupboard_verify_cradle_topple_capable_essay_visit_north_wise_pupil |  
+| bip_39_word_underscore_12 | daughter_cupboard_verify_cradle_topple_capable_essay_visit_north_wise_pupil_air |  
+| bip_39_word_underscore_2 | daughter_cupboard |  
+| bip_39_word_underscore_3 | daughter_cupboard_verify |  
+| bip_39_word_underscore_4 | daughter_cupboard_verify_cradle |  
+| bip_39_word_underscore_5 | daughter_cupboard_verify_cradle_topple |  
+| bip_39_word_underscore_6 | daughter_cupboard_verify_cradle_topple_capable |  
+| bip_39_word_underscore_7 | daughter_cupboard_verify_cradle_topple_capable_essay |  
+| bip_39_word_underscore_8 | daughter_cupboard_verify_cradle_topple_capable_essay_visit |  
+| bip_39_word_underscore_9 | daughter_cupboard_verify_cradle_topple_capable_essay_visit_north |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

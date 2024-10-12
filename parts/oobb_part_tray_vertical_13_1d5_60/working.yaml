@@ -1,3 +1,15 @@
+bip_39_word_dash_1: vehicle
+bip_39_word_dash_10: vehicle-intact-response-found-hunt-identify-spawn-soup-wood-gospel
+bip_39_word_dash_11: vehicle-intact-response-found-hunt-identify-spawn-soup-wood-gospel-symptom
+bip_39_word_dash_12: vehicle-intact-response-found-hunt-identify-spawn-soup-wood-gospel-symptom-across
+bip_39_word_dash_2: vehicle-intact
+bip_39_word_dash_3: vehicle-intact-response
+bip_39_word_dash_4: vehicle-intact-response-found
+bip_39_word_dash_5: vehicle-intact-response-found-hunt
+bip_39_word_dash_6: vehicle-intact-response-found-hunt-identify
+bip_39_word_dash_7: vehicle-intact-response-found-hunt-identify-spawn
+bip_39_word_dash_8: vehicle-intact-response-found-hunt-identify-spawn-soup
+bip_39_word_dash_9: vehicle-intact-response-found-hunt-identify-spawn-soup-wood
 bip_39_word_new_br_1: vehicle
 bip_39_word_new_br_10: vehicle<br>intact<br>response<br>found<br>hunt<br>identify<br>spawn<br>soup<br>wood<br>gospel
 bip_39_word_new_br_11: vehicle<br>intact<br>response<br>found<br>hunt<br>identify<br>spawn<br>soup<br>wood<br>gospel<br>symptom
@@ -194,6 +206,18 @@ bip_39_word_space_6: vehicle intact response found hunt identify
 bip_39_word_space_7: vehicle intact response found hunt identify spawn
 bip_39_word_space_8: vehicle intact response found hunt identify spawn soup
 bip_39_word_space_9: vehicle intact response found hunt identify spawn soup wood
+bip_39_word_underscore_1: vehicle
+bip_39_word_underscore_10: vehicle_intact_response_found_hunt_identify_spawn_soup_wood_gospel
+bip_39_word_underscore_11: vehicle_intact_response_found_hunt_identify_spawn_soup_wood_gospel_symptom
+bip_39_word_underscore_12: vehicle_intact_response_found_hunt_identify_spawn_soup_wood_gospel_symptom_across
+bip_39_word_underscore_2: vehicle_intact
+bip_39_word_underscore_3: vehicle_intact_response
+bip_39_word_underscore_4: vehicle_intact_response_found
+bip_39_word_underscore_5: vehicle_intact_response_found_hunt
+bip_39_word_underscore_6: vehicle_intact_response_found_hunt_identify
+bip_39_word_underscore_7: vehicle_intact_response_found_hunt_identify_spawn
+bip_39_word_underscore_8: vehicle_intact_response_found_hunt_identify_spawn_soup
+bip_39_word_underscore_9: vehicle_intact_response_found_hunt_identify_spawn_soup_wood
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | upset |  
+| bip_39_word_dash_10 | upset-matrix-swamp-innocent-settle-fresh-citizen-orange-enhance-vanish |  
+| bip_39_word_dash_11 | upset-matrix-swamp-innocent-settle-fresh-citizen-orange-enhance-vanish-credit |  
+| bip_39_word_dash_12 | upset-matrix-swamp-innocent-settle-fresh-citizen-orange-enhance-vanish-credit-any |  
+| bip_39_word_dash_2 | upset-matrix |  
+| bip_39_word_dash_3 | upset-matrix-swamp |  
+| bip_39_word_dash_4 | upset-matrix-swamp-innocent |  
+| bip_39_word_dash_5 | upset-matrix-swamp-innocent-settle |  
+| bip_39_word_dash_6 | upset-matrix-swamp-innocent-settle-fresh |  
+| bip_39_word_dash_7 | upset-matrix-swamp-innocent-settle-fresh-citizen |  
+| bip_39_word_dash_8 | upset-matrix-swamp-innocent-settle-fresh-citizen-orange |  
+| bip_39_word_dash_9 | upset-matrix-swamp-innocent-settle-fresh-citizen-orange-enhance |  
 | bip_39_word_new_br_1 | upset |  
 | bip_39_word_new_br_10 | upset<br>matrix<br>swamp<br>innocent<br>settle<br>fresh<br>citizen<br>orange<br>enhance<br>vanish |  
 | bip_39_word_new_br_11 | upset<br>matrix<br>swamp<br>innocent<br>settle<br>fresh<br>citizen<br>orange<br>enhance<br>vanish<br>credit |  
@@ -147,6 +159,18 @@ enhance |
 | bip_39_word_space_7 | upset matrix swamp innocent settle fresh citizen |  
 | bip_39_word_space_8 | upset matrix swamp innocent settle fresh citizen orange |  
 | bip_39_word_space_9 | upset matrix swamp innocent settle fresh citizen orange enhance |  
+| bip_39_word_underscore_1 | upset |  
+| bip_39_word_underscore_10 | upset_matrix_swamp_innocent_settle_fresh_citizen_orange_enhance_vanish |  
+| bip_39_word_underscore_11 | upset_matrix_swamp_innocent_settle_fresh_citizen_orange_enhance_vanish_credit |  
+| bip_39_word_underscore_12 | upset_matrix_swamp_innocent_settle_fresh_citizen_orange_enhance_vanish_credit_any |  
+| bip_39_word_underscore_2 | upset_matrix |  
+| bip_39_word_underscore_3 | upset_matrix_swamp |  
+| bip_39_word_underscore_4 | upset_matrix_swamp_innocent |  
+| bip_39_word_underscore_5 | upset_matrix_swamp_innocent_settle |  
+| bip_39_word_underscore_6 | upset_matrix_swamp_innocent_settle_fresh |  
+| bip_39_word_underscore_7 | upset_matrix_swamp_innocent_settle_fresh_citizen |  
+| bip_39_word_underscore_8 | upset_matrix_swamp_innocent_settle_fresh_citizen_orange |  
+| bip_39_word_underscore_9 | upset_matrix_swamp_innocent_settle_fresh_citizen_orange_enhance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

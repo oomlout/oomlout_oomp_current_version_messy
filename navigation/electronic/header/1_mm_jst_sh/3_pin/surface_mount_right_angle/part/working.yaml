@@ -1,3 +1,15 @@
+bip_39_word_dash_1: twice
+bip_39_word_dash_10: twice-dish-chimney-dust-pact-must-noodle-place-coin-devote
+bip_39_word_dash_11: twice-dish-chimney-dust-pact-must-noodle-place-coin-devote-crater
+bip_39_word_dash_12: twice-dish-chimney-dust-pact-must-noodle-place-coin-devote-crater-auto
+bip_39_word_dash_2: twice-dish
+bip_39_word_dash_3: twice-dish-chimney
+bip_39_word_dash_4: twice-dish-chimney-dust
+bip_39_word_dash_5: twice-dish-chimney-dust-pact
+bip_39_word_dash_6: twice-dish-chimney-dust-pact-must
+bip_39_word_dash_7: twice-dish-chimney-dust-pact-must-noodle
+bip_39_word_dash_8: twice-dish-chimney-dust-pact-must-noodle-place
+bip_39_word_dash_9: twice-dish-chimney-dust-pact-must-noodle-place-coin
 bip_39_word_new_br_1: twice
 bip_39_word_new_br_10: twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place<br>coin<br>devote
 bip_39_word_new_br_11: twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place<br>coin<br>devote<br>crater
@@ -192,6 +204,18 @@ bip_39_word_space_6: twice dish chimney dust pact must
 bip_39_word_space_7: twice dish chimney dust pact must noodle
 bip_39_word_space_8: twice dish chimney dust pact must noodle place
 bip_39_word_space_9: twice dish chimney dust pact must noodle place coin
+bip_39_word_underscore_1: twice
+bip_39_word_underscore_10: twice_dish_chimney_dust_pact_must_noodle_place_coin_devote
+bip_39_word_underscore_11: twice_dish_chimney_dust_pact_must_noodle_place_coin_devote_crater
+bip_39_word_underscore_12: twice_dish_chimney_dust_pact_must_noodle_place_coin_devote_crater_auto
+bip_39_word_underscore_2: twice_dish
+bip_39_word_underscore_3: twice_dish_chimney
+bip_39_word_underscore_4: twice_dish_chimney_dust
+bip_39_word_underscore_5: twice_dish_chimney_dust_pact
+bip_39_word_underscore_6: twice_dish_chimney_dust_pact_must
+bip_39_word_underscore_7: twice_dish_chimney_dust_pact_must_noodle
+bip_39_word_underscore_8: twice_dish_chimney_dust_pact_must_noodle_place
+bip_39_word_underscore_9: twice_dish_chimney_dust_pact_must_noodle_place_coin
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

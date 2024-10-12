@@ -1,3 +1,15 @@
+bip_39_word_dash_1: deny
+bip_39_word_dash_10: deny-exit-injury-abuse-yellow-tip-shiver-there-hand-gather
+bip_39_word_dash_11: deny-exit-injury-abuse-yellow-tip-shiver-there-hand-gather-man
+bip_39_word_dash_12: deny-exit-injury-abuse-yellow-tip-shiver-there-hand-gather-man-artist
+bip_39_word_dash_2: deny-exit
+bip_39_word_dash_3: deny-exit-injury
+bip_39_word_dash_4: deny-exit-injury-abuse
+bip_39_word_dash_5: deny-exit-injury-abuse-yellow
+bip_39_word_dash_6: deny-exit-injury-abuse-yellow-tip
+bip_39_word_dash_7: deny-exit-injury-abuse-yellow-tip-shiver
+bip_39_word_dash_8: deny-exit-injury-abuse-yellow-tip-shiver-there
+bip_39_word_dash_9: deny-exit-injury-abuse-yellow-tip-shiver-there-hand
 bip_39_word_new_br_1: deny
 bip_39_word_new_br_10: deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there<br>hand<br>gather
 bip_39_word_new_br_11: deny<br>exit<br>injury<br>abuse<br>yellow<br>tip<br>shiver<br>there<br>hand<br>gather<br>man
@@ -192,6 +204,18 @@ bip_39_word_space_6: deny exit injury abuse yellow tip
 bip_39_word_space_7: deny exit injury abuse yellow tip shiver
 bip_39_word_space_8: deny exit injury abuse yellow tip shiver there
 bip_39_word_space_9: deny exit injury abuse yellow tip shiver there hand
+bip_39_word_underscore_1: deny
+bip_39_word_underscore_10: deny_exit_injury_abuse_yellow_tip_shiver_there_hand_gather
+bip_39_word_underscore_11: deny_exit_injury_abuse_yellow_tip_shiver_there_hand_gather_man
+bip_39_word_underscore_12: deny_exit_injury_abuse_yellow_tip_shiver_there_hand_gather_man_artist
+bip_39_word_underscore_2: deny_exit
+bip_39_word_underscore_3: deny_exit_injury
+bip_39_word_underscore_4: deny_exit_injury_abuse
+bip_39_word_underscore_5: deny_exit_injury_abuse_yellow
+bip_39_word_underscore_6: deny_exit_injury_abuse_yellow_tip
+bip_39_word_underscore_7: deny_exit_injury_abuse_yellow_tip_shiver
+bip_39_word_underscore_8: deny_exit_injury_abuse_yellow_tip_shiver_there
+bip_39_word_underscore_9: deny_exit_injury_abuse_yellow_tip_shiver_there_hand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

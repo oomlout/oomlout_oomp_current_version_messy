@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | frown |  
+| bip_39_word_dash_10 | frown-face-cycle-dad-fly-budget-burger-sleep-split-virtual |  
+| bip_39_word_dash_11 | frown-face-cycle-dad-fly-budget-burger-sleep-split-virtual-rhythm |  
+| bip_39_word_dash_12 | frown-face-cycle-dad-fly-budget-burger-sleep-split-virtual-rhythm-affair |  
+| bip_39_word_dash_2 | frown-face |  
+| bip_39_word_dash_3 | frown-face-cycle |  
+| bip_39_word_dash_4 | frown-face-cycle-dad |  
+| bip_39_word_dash_5 | frown-face-cycle-dad-fly |  
+| bip_39_word_dash_6 | frown-face-cycle-dad-fly-budget |  
+| bip_39_word_dash_7 | frown-face-cycle-dad-fly-budget-burger |  
+| bip_39_word_dash_8 | frown-face-cycle-dad-fly-budget-burger-sleep |  
+| bip_39_word_dash_9 | frown-face-cycle-dad-fly-budget-burger-sleep-split |  
 | bip_39_word_new_br_1 | frown |  
 | bip_39_word_new_br_10 | frown<br>face<br>cycle<br>dad<br>fly<br>budget<br>burger<br>sleep<br>split<br>virtual |  
 | bip_39_word_new_br_11 | frown<br>face<br>cycle<br>dad<br>fly<br>budget<br>burger<br>sleep<br>split<br>virtual<br>rhythm |  
@@ -147,6 +159,18 @@ split |
 | bip_39_word_space_7 | frown face cycle dad fly budget burger |  
 | bip_39_word_space_8 | frown face cycle dad fly budget burger sleep |  
 | bip_39_word_space_9 | frown face cycle dad fly budget burger sleep split |  
+| bip_39_word_underscore_1 | frown |  
+| bip_39_word_underscore_10 | frown_face_cycle_dad_fly_budget_burger_sleep_split_virtual |  
+| bip_39_word_underscore_11 | frown_face_cycle_dad_fly_budget_burger_sleep_split_virtual_rhythm |  
+| bip_39_word_underscore_12 | frown_face_cycle_dad_fly_budget_burger_sleep_split_virtual_rhythm_affair |  
+| bip_39_word_underscore_2 | frown_face |  
+| bip_39_word_underscore_3 | frown_face_cycle |  
+| bip_39_word_underscore_4 | frown_face_cycle_dad |  
+| bip_39_word_underscore_5 | frown_face_cycle_dad_fly |  
+| bip_39_word_underscore_6 | frown_face_cycle_dad_fly_budget |  
+| bip_39_word_underscore_7 | frown_face_cycle_dad_fly_budget_burger |  
+| bip_39_word_underscore_8 | frown_face_cycle_dad_fly_budget_burger_sleep |  
+| bip_39_word_underscore_9 | frown_face_cycle_dad_fly_budget_burger_sleep_split |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

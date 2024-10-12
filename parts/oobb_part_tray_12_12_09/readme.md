@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swamp |  
+| bip_39_word_dash_10 | swamp-unveil-damage-tissue-base-car-step-better-degree-talk |  
+| bip_39_word_dash_11 | swamp-unveil-damage-tissue-base-car-step-better-degree-talk-admit |  
+| bip_39_word_dash_12 | swamp-unveil-damage-tissue-base-car-step-better-degree-talk-admit-armor |  
+| bip_39_word_dash_2 | swamp-unveil |  
+| bip_39_word_dash_3 | swamp-unveil-damage |  
+| bip_39_word_dash_4 | swamp-unveil-damage-tissue |  
+| bip_39_word_dash_5 | swamp-unveil-damage-tissue-base |  
+| bip_39_word_dash_6 | swamp-unveil-damage-tissue-base-car |  
+| bip_39_word_dash_7 | swamp-unveil-damage-tissue-base-car-step |  
+| bip_39_word_dash_8 | swamp-unveil-damage-tissue-base-car-step-better |  
+| bip_39_word_dash_9 | swamp-unveil-damage-tissue-base-car-step-better-degree |  
 | bip_39_word_new_br_1 | swamp |  
 | bip_39_word_new_br_10 | swamp<br>unveil<br>damage<br>tissue<br>base<br>car<br>step<br>better<br>degree<br>talk |  
 | bip_39_word_new_br_11 | swamp<br>unveil<br>damage<br>tissue<br>base<br>car<br>step<br>better<br>degree<br>talk<br>admit |  
@@ -147,6 +159,18 @@ degree |
 | bip_39_word_space_7 | swamp unveil damage tissue base car step |  
 | bip_39_word_space_8 | swamp unveil damage tissue base car step better |  
 | bip_39_word_space_9 | swamp unveil damage tissue base car step better degree |  
+| bip_39_word_underscore_1 | swamp |  
+| bip_39_word_underscore_10 | swamp_unveil_damage_tissue_base_car_step_better_degree_talk |  
+| bip_39_word_underscore_11 | swamp_unveil_damage_tissue_base_car_step_better_degree_talk_admit |  
+| bip_39_word_underscore_12 | swamp_unveil_damage_tissue_base_car_step_better_degree_talk_admit_armor |  
+| bip_39_word_underscore_2 | swamp_unveil |  
+| bip_39_word_underscore_3 | swamp_unveil_damage |  
+| bip_39_word_underscore_4 | swamp_unveil_damage_tissue |  
+| bip_39_word_underscore_5 | swamp_unveil_damage_tissue_base |  
+| bip_39_word_underscore_6 | swamp_unveil_damage_tissue_base_car |  
+| bip_39_word_underscore_7 | swamp_unveil_damage_tissue_base_car_step |  
+| bip_39_word_underscore_8 | swamp_unveil_damage_tissue_base_car_step_better |  
+| bip_39_word_underscore_9 | swamp_unveil_damage_tissue_base_car_step_better_degree |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

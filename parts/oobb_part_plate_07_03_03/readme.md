@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | mosquito |  
+| bip_39_word_dash_10 | mosquito-brick-trend-pole-wild-twice-danger-mom-motor-flavor |  
+| bip_39_word_dash_11 | mosquito-brick-trend-pole-wild-twice-danger-mom-motor-flavor-egg |  
+| bip_39_word_dash_12 | mosquito-brick-trend-pole-wild-twice-danger-mom-motor-flavor-egg-about |  
+| bip_39_word_dash_2 | mosquito-brick |  
+| bip_39_word_dash_3 | mosquito-brick-trend |  
+| bip_39_word_dash_4 | mosquito-brick-trend-pole |  
+| bip_39_word_dash_5 | mosquito-brick-trend-pole-wild |  
+| bip_39_word_dash_6 | mosquito-brick-trend-pole-wild-twice |  
+| bip_39_word_dash_7 | mosquito-brick-trend-pole-wild-twice-danger |  
+| bip_39_word_dash_8 | mosquito-brick-trend-pole-wild-twice-danger-mom |  
+| bip_39_word_dash_9 | mosquito-brick-trend-pole-wild-twice-danger-mom-motor |  
 | bip_39_word_new_br_1 | mosquito |  
 | bip_39_word_new_br_10 | mosquito<br>brick<br>trend<br>pole<br>wild<br>twice<br>danger<br>mom<br>motor<br>flavor |  
 | bip_39_word_new_br_11 | mosquito<br>brick<br>trend<br>pole<br>wild<br>twice<br>danger<br>mom<br>motor<br>flavor<br>egg |  
@@ -147,6 +159,18 @@ motor |
 | bip_39_word_space_7 | mosquito brick trend pole wild twice danger |  
 | bip_39_word_space_8 | mosquito brick trend pole wild twice danger mom |  
 | bip_39_word_space_9 | mosquito brick trend pole wild twice danger mom motor |  
+| bip_39_word_underscore_1 | mosquito |  
+| bip_39_word_underscore_10 | mosquito_brick_trend_pole_wild_twice_danger_mom_motor_flavor |  
+| bip_39_word_underscore_11 | mosquito_brick_trend_pole_wild_twice_danger_mom_motor_flavor_egg |  
+| bip_39_word_underscore_12 | mosquito_brick_trend_pole_wild_twice_danger_mom_motor_flavor_egg_about |  
+| bip_39_word_underscore_2 | mosquito_brick |  
+| bip_39_word_underscore_3 | mosquito_brick_trend |  
+| bip_39_word_underscore_4 | mosquito_brick_trend_pole |  
+| bip_39_word_underscore_5 | mosquito_brick_trend_pole_wild |  
+| bip_39_word_underscore_6 | mosquito_brick_trend_pole_wild_twice |  
+| bip_39_word_underscore_7 | mosquito_brick_trend_pole_wild_twice_danger |  
+| bip_39_word_underscore_8 | mosquito_brick_trend_pole_wild_twice_danger_mom |  
+| bip_39_word_underscore_9 | mosquito_brick_trend_pole_wild_twice_danger_mom_motor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

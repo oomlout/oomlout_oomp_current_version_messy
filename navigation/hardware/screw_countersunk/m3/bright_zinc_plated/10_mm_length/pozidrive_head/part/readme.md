@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | sudden |  
+| bip_39_word_dash_10 | sudden-else-main-assist-elevator-witness-champion-reveal-ritual-disease |  
+| bip_39_word_dash_11 | sudden-else-main-assist-elevator-witness-champion-reveal-ritual-disease-flash |  
+| bip_39_word_dash_12 | sudden-else-main-assist-elevator-witness-champion-reveal-ritual-disease-flash-aim |  
+| bip_39_word_dash_2 | sudden-else |  
+| bip_39_word_dash_3 | sudden-else-main |  
+| bip_39_word_dash_4 | sudden-else-main-assist |  
+| bip_39_word_dash_5 | sudden-else-main-assist-elevator |  
+| bip_39_word_dash_6 | sudden-else-main-assist-elevator-witness |  
+| bip_39_word_dash_7 | sudden-else-main-assist-elevator-witness-champion |  
+| bip_39_word_dash_8 | sudden-else-main-assist-elevator-witness-champion-reveal |  
+| bip_39_word_dash_9 | sudden-else-main-assist-elevator-witness-champion-reveal-ritual |  
 | bip_39_word_new_br_1 | sudden |  
 | bip_39_word_new_br_10 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal<br>ritual<br>disease |  
 | bip_39_word_new_br_11 | sudden<br>else<br>main<br>assist<br>elevator<br>witness<br>champion<br>reveal<br>ritual<br>disease<br>flash |  
@@ -147,6 +159,18 @@ ritual |
 | bip_39_word_space_7 | sudden else main assist elevator witness champion |  
 | bip_39_word_space_8 | sudden else main assist elevator witness champion reveal |  
 | bip_39_word_space_9 | sudden else main assist elevator witness champion reveal ritual |  
+| bip_39_word_underscore_1 | sudden |  
+| bip_39_word_underscore_10 | sudden_else_main_assist_elevator_witness_champion_reveal_ritual_disease |  
+| bip_39_word_underscore_11 | sudden_else_main_assist_elevator_witness_champion_reveal_ritual_disease_flash |  
+| bip_39_word_underscore_12 | sudden_else_main_assist_elevator_witness_champion_reveal_ritual_disease_flash_aim |  
+| bip_39_word_underscore_2 | sudden_else |  
+| bip_39_word_underscore_3 | sudden_else_main |  
+| bip_39_word_underscore_4 | sudden_else_main_assist |  
+| bip_39_word_underscore_5 | sudden_else_main_assist_elevator |  
+| bip_39_word_underscore_6 | sudden_else_main_assist_elevator_witness |  
+| bip_39_word_underscore_7 | sudden_else_main_assist_elevator_witness_champion |  
+| bip_39_word_underscore_8 | sudden_else_main_assist_elevator_witness_champion_reveal |  
+| bip_39_word_underscore_9 | sudden_else_main_assist_elevator_witness_champion_reveal_ritual |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wrestle |  
+| bip_39_word_dash_10 | wrestle-wife-series-canal-leader-enhance-ball-nation-real-dawn |  
+| bip_39_word_dash_11 | wrestle-wife-series-canal-leader-enhance-ball-nation-real-dawn-almost |  
+| bip_39_word_dash_12 | wrestle-wife-series-canal-leader-enhance-ball-nation-real-dawn-almost-ability |  
+| bip_39_word_dash_2 | wrestle-wife |  
+| bip_39_word_dash_3 | wrestle-wife-series |  
+| bip_39_word_dash_4 | wrestle-wife-series-canal |  
+| bip_39_word_dash_5 | wrestle-wife-series-canal-leader |  
+| bip_39_word_dash_6 | wrestle-wife-series-canal-leader-enhance |  
+| bip_39_word_dash_7 | wrestle-wife-series-canal-leader-enhance-ball |  
+| bip_39_word_dash_8 | wrestle-wife-series-canal-leader-enhance-ball-nation |  
+| bip_39_word_dash_9 | wrestle-wife-series-canal-leader-enhance-ball-nation-real |  
 | bip_39_word_new_br_1 | wrestle |  
 | bip_39_word_new_br_10 | wrestle<br>wife<br>series<br>canal<br>leader<br>enhance<br>ball<br>nation<br>real<br>dawn |  
 | bip_39_word_new_br_11 | wrestle<br>wife<br>series<br>canal<br>leader<br>enhance<br>ball<br>nation<br>real<br>dawn<br>almost |  
@@ -147,6 +159,18 @@ real |
 | bip_39_word_space_7 | wrestle wife series canal leader enhance ball |  
 | bip_39_word_space_8 | wrestle wife series canal leader enhance ball nation |  
 | bip_39_word_space_9 | wrestle wife series canal leader enhance ball nation real |  
+| bip_39_word_underscore_1 | wrestle |  
+| bip_39_word_underscore_10 | wrestle_wife_series_canal_leader_enhance_ball_nation_real_dawn |  
+| bip_39_word_underscore_11 | wrestle_wife_series_canal_leader_enhance_ball_nation_real_dawn_almost |  
+| bip_39_word_underscore_12 | wrestle_wife_series_canal_leader_enhance_ball_nation_real_dawn_almost_ability |  
+| bip_39_word_underscore_2 | wrestle_wife |  
+| bip_39_word_underscore_3 | wrestle_wife_series |  
+| bip_39_word_underscore_4 | wrestle_wife_series_canal |  
+| bip_39_word_underscore_5 | wrestle_wife_series_canal_leader |  
+| bip_39_word_underscore_6 | wrestle_wife_series_canal_leader_enhance |  
+| bip_39_word_underscore_7 | wrestle_wife_series_canal_leader_enhance_ball |  
+| bip_39_word_underscore_8 | wrestle_wife_series_canal_leader_enhance_ball_nation |  
+| bip_39_word_underscore_9 | wrestle_wife_series_canal_leader_enhance_ball_nation_real |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

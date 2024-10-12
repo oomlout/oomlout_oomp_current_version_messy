@@ -1,3 +1,15 @@
+bip_39_word_dash_1: usage
+bip_39_word_dash_10: usage-eye-point-equip-series-monster-stool-cause-dignity-switch
+bip_39_word_dash_11: usage-eye-point-equip-series-monster-stool-cause-dignity-switch-sock
+bip_39_word_dash_12: usage-eye-point-equip-series-monster-stool-cause-dignity-switch-sock-airport
+bip_39_word_dash_2: usage-eye
+bip_39_word_dash_3: usage-eye-point
+bip_39_word_dash_4: usage-eye-point-equip
+bip_39_word_dash_5: usage-eye-point-equip-series
+bip_39_word_dash_6: usage-eye-point-equip-series-monster
+bip_39_word_dash_7: usage-eye-point-equip-series-monster-stool
+bip_39_word_dash_8: usage-eye-point-equip-series-monster-stool-cause
+bip_39_word_dash_9: usage-eye-point-equip-series-monster-stool-cause-dignity
 bip_39_word_new_br_1: usage
 bip_39_word_new_br_10: usage<br>eye<br>point<br>equip<br>series<br>monster<br>stool<br>cause<br>dignity<br>switch
 bip_39_word_new_br_11: usage<br>eye<br>point<br>equip<br>series<br>monster<br>stool<br>cause<br>dignity<br>switch<br>sock
@@ -193,6 +205,18 @@ bip_39_word_space_6: usage eye point equip series monster
 bip_39_word_space_7: usage eye point equip series monster stool
 bip_39_word_space_8: usage eye point equip series monster stool cause
 bip_39_word_space_9: usage eye point equip series monster stool cause dignity
+bip_39_word_underscore_1: usage
+bip_39_word_underscore_10: usage_eye_point_equip_series_monster_stool_cause_dignity_switch
+bip_39_word_underscore_11: usage_eye_point_equip_series_monster_stool_cause_dignity_switch_sock
+bip_39_word_underscore_12: usage_eye_point_equip_series_monster_stool_cause_dignity_switch_sock_airport
+bip_39_word_underscore_2: usage_eye
+bip_39_word_underscore_3: usage_eye_point
+bip_39_word_underscore_4: usage_eye_point_equip
+bip_39_word_underscore_5: usage_eye_point_equip_series
+bip_39_word_underscore_6: usage_eye_point_equip_series_monster
+bip_39_word_underscore_7: usage_eye_point_equip_series_monster_stool
+bip_39_word_underscore_8: usage_eye_point_equip_series_monster_stool_cause
+bip_39_word_underscore_9: usage_eye_point_equip_series_monster_stool_cause_dignity
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

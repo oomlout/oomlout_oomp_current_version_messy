@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | hip |  
+| bip_39_word_dash_10 | hip-wide-sock-strong-cost-reward-reveal-dolphin-history-era |  
+| bip_39_word_dash_11 | hip-wide-sock-strong-cost-reward-reveal-dolphin-history-era-bomb |  
+| bip_39_word_dash_12 | hip-wide-sock-strong-cost-reward-reveal-dolphin-history-era-bomb-adjust |  
+| bip_39_word_dash_2 | hip-wide |  
+| bip_39_word_dash_3 | hip-wide-sock |  
+| bip_39_word_dash_4 | hip-wide-sock-strong |  
+| bip_39_word_dash_5 | hip-wide-sock-strong-cost |  
+| bip_39_word_dash_6 | hip-wide-sock-strong-cost-reward |  
+| bip_39_word_dash_7 | hip-wide-sock-strong-cost-reward-reveal |  
+| bip_39_word_dash_8 | hip-wide-sock-strong-cost-reward-reveal-dolphin |  
+| bip_39_word_dash_9 | hip-wide-sock-strong-cost-reward-reveal-dolphin-history |  
 | bip_39_word_new_br_1 | hip |  
 | bip_39_word_new_br_10 | hip<br>wide<br>sock<br>strong<br>cost<br>reward<br>reveal<br>dolphin<br>history<br>era |  
 | bip_39_word_new_br_11 | hip<br>wide<br>sock<br>strong<br>cost<br>reward<br>reveal<br>dolphin<br>history<br>era<br>bomb |  
@@ -147,6 +159,18 @@ history |
 | bip_39_word_space_7 | hip wide sock strong cost reward reveal |  
 | bip_39_word_space_8 | hip wide sock strong cost reward reveal dolphin |  
 | bip_39_word_space_9 | hip wide sock strong cost reward reveal dolphin history |  
+| bip_39_word_underscore_1 | hip |  
+| bip_39_word_underscore_10 | hip_wide_sock_strong_cost_reward_reveal_dolphin_history_era |  
+| bip_39_word_underscore_11 | hip_wide_sock_strong_cost_reward_reveal_dolphin_history_era_bomb |  
+| bip_39_word_underscore_12 | hip_wide_sock_strong_cost_reward_reveal_dolphin_history_era_bomb_adjust |  
+| bip_39_word_underscore_2 | hip_wide |  
+| bip_39_word_underscore_3 | hip_wide_sock |  
+| bip_39_word_underscore_4 | hip_wide_sock_strong |  
+| bip_39_word_underscore_5 | hip_wide_sock_strong_cost |  
+| bip_39_word_underscore_6 | hip_wide_sock_strong_cost_reward |  
+| bip_39_word_underscore_7 | hip_wide_sock_strong_cost_reward_reveal |  
+| bip_39_word_underscore_8 | hip_wide_sock_strong_cost_reward_reveal_dolphin |  
+| bip_39_word_underscore_9 | hip_wide_sock_strong_cost_reward_reveal_dolphin_history |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

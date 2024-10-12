@@ -1,3 +1,15 @@
+bip_39_word_dash_1: combine
+bip_39_word_dash_10: combine-response-fat-rebel-pudding-drive-disagree-priority-obvious-rotate
+bip_39_word_dash_11: combine-response-fat-rebel-pudding-drive-disagree-priority-obvious-rotate-flavor
+bip_39_word_dash_12: combine-response-fat-rebel-pudding-drive-disagree-priority-obvious-rotate-flavor-april
+bip_39_word_dash_2: combine-response
+bip_39_word_dash_3: combine-response-fat
+bip_39_word_dash_4: combine-response-fat-rebel
+bip_39_word_dash_5: combine-response-fat-rebel-pudding
+bip_39_word_dash_6: combine-response-fat-rebel-pudding-drive
+bip_39_word_dash_7: combine-response-fat-rebel-pudding-drive-disagree
+bip_39_word_dash_8: combine-response-fat-rebel-pudding-drive-disagree-priority
+bip_39_word_dash_9: combine-response-fat-rebel-pudding-drive-disagree-priority-obvious
 bip_39_word_new_br_1: combine
 bip_39_word_new_br_10: combine<br>response<br>fat<br>rebel<br>pudding<br>drive<br>disagree<br>priority<br>obvious<br>rotate
 bip_39_word_new_br_11: combine<br>response<br>fat<br>rebel<br>pudding<br>drive<br>disagree<br>priority<br>obvious<br>rotate<br>flavor
@@ -194,6 +206,18 @@ bip_39_word_space_6: combine response fat rebel pudding drive
 bip_39_word_space_7: combine response fat rebel pudding drive disagree
 bip_39_word_space_8: combine response fat rebel pudding drive disagree priority
 bip_39_word_space_9: combine response fat rebel pudding drive disagree priority obvious
+bip_39_word_underscore_1: combine
+bip_39_word_underscore_10: combine_response_fat_rebel_pudding_drive_disagree_priority_obvious_rotate
+bip_39_word_underscore_11: combine_response_fat_rebel_pudding_drive_disagree_priority_obvious_rotate_flavor
+bip_39_word_underscore_12: combine_response_fat_rebel_pudding_drive_disagree_priority_obvious_rotate_flavor_april
+bip_39_word_underscore_2: combine_response
+bip_39_word_underscore_3: combine_response_fat
+bip_39_word_underscore_4: combine_response_fat_rebel
+bip_39_word_underscore_5: combine_response_fat_rebel_pudding
+bip_39_word_underscore_6: combine_response_fat_rebel_pudding_drive
+bip_39_word_underscore_7: combine_response_fat_rebel_pudding_drive_disagree
+bip_39_word_underscore_8: combine_response_fat_rebel_pudding_drive_disagree_priority
+bip_39_word_underscore_9: combine_response_fat_rebel_pudding_drive_disagree_priority_obvious
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

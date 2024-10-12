@@ -1,3 +1,15 @@
+bip_39_word_dash_1: visual
+bip_39_word_dash_10: visual-whale-moon-kiwi-west-gather-any-spoil-tip-celery
+bip_39_word_dash_11: visual-whale-moon-kiwi-west-gather-any-spoil-tip-celery-hair
+bip_39_word_dash_12: visual-whale-moon-kiwi-west-gather-any-spoil-tip-celery-hair-accuse
+bip_39_word_dash_2: visual-whale
+bip_39_word_dash_3: visual-whale-moon
+bip_39_word_dash_4: visual-whale-moon-kiwi
+bip_39_word_dash_5: visual-whale-moon-kiwi-west
+bip_39_word_dash_6: visual-whale-moon-kiwi-west-gather
+bip_39_word_dash_7: visual-whale-moon-kiwi-west-gather-any
+bip_39_word_dash_8: visual-whale-moon-kiwi-west-gather-any-spoil
+bip_39_word_dash_9: visual-whale-moon-kiwi-west-gather-any-spoil-tip
 bip_39_word_new_br_1: visual
 bip_39_word_new_br_10: visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery
 bip_39_word_new_br_11: visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery<br>hair
@@ -192,6 +204,18 @@ bip_39_word_space_6: visual whale moon kiwi west gather
 bip_39_word_space_7: visual whale moon kiwi west gather any
 bip_39_word_space_8: visual whale moon kiwi west gather any spoil
 bip_39_word_space_9: visual whale moon kiwi west gather any spoil tip
+bip_39_word_underscore_1: visual
+bip_39_word_underscore_10: visual_whale_moon_kiwi_west_gather_any_spoil_tip_celery
+bip_39_word_underscore_11: visual_whale_moon_kiwi_west_gather_any_spoil_tip_celery_hair
+bip_39_word_underscore_12: visual_whale_moon_kiwi_west_gather_any_spoil_tip_celery_hair_accuse
+bip_39_word_underscore_2: visual_whale
+bip_39_word_underscore_3: visual_whale_moon
+bip_39_word_underscore_4: visual_whale_moon_kiwi
+bip_39_word_underscore_5: visual_whale_moon_kiwi_west
+bip_39_word_underscore_6: visual_whale_moon_kiwi_west_gather
+bip_39_word_underscore_7: visual_whale_moon_kiwi_west_gather_any
+bip_39_word_underscore_8: visual_whale_moon_kiwi_west_gather_any_spoil
+bip_39_word_underscore_9: visual_whale_moon_kiwi_west_gather_any_spoil_tip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

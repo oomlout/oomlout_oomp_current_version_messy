@@ -1,3 +1,15 @@
+bip_39_word_dash_1: allow
+bip_39_word_dash_10: allow-amazing-boss-quote-thing-nut-basket-monitor-cost-volume
+bip_39_word_dash_11: allow-amazing-boss-quote-thing-nut-basket-monitor-cost-volume-such
+bip_39_word_dash_12: allow-amazing-boss-quote-thing-nut-basket-monitor-cost-volume-such-access
+bip_39_word_dash_2: allow-amazing
+bip_39_word_dash_3: allow-amazing-boss
+bip_39_word_dash_4: allow-amazing-boss-quote
+bip_39_word_dash_5: allow-amazing-boss-quote-thing
+bip_39_word_dash_6: allow-amazing-boss-quote-thing-nut
+bip_39_word_dash_7: allow-amazing-boss-quote-thing-nut-basket
+bip_39_word_dash_8: allow-amazing-boss-quote-thing-nut-basket-monitor
+bip_39_word_dash_9: allow-amazing-boss-quote-thing-nut-basket-monitor-cost
 bip_39_word_new_br_1: allow
 bip_39_word_new_br_10: allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume
 bip_39_word_new_br_11: allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume<br>such
@@ -193,6 +205,18 @@ bip_39_word_space_6: allow amazing boss quote thing nut
 bip_39_word_space_7: allow amazing boss quote thing nut basket
 bip_39_word_space_8: allow amazing boss quote thing nut basket monitor
 bip_39_word_space_9: allow amazing boss quote thing nut basket monitor cost
+bip_39_word_underscore_1: allow
+bip_39_word_underscore_10: allow_amazing_boss_quote_thing_nut_basket_monitor_cost_volume
+bip_39_word_underscore_11: allow_amazing_boss_quote_thing_nut_basket_monitor_cost_volume_such
+bip_39_word_underscore_12: allow_amazing_boss_quote_thing_nut_basket_monitor_cost_volume_such_access
+bip_39_word_underscore_2: allow_amazing
+bip_39_word_underscore_3: allow_amazing_boss
+bip_39_word_underscore_4: allow_amazing_boss_quote
+bip_39_word_underscore_5: allow_amazing_boss_quote_thing
+bip_39_word_underscore_6: allow_amazing_boss_quote_thing_nut
+bip_39_word_underscore_7: allow_amazing_boss_quote_thing_nut_basket
+bip_39_word_underscore_8: allow_amazing_boss_quote_thing_nut_basket_monitor
+bip_39_word_underscore_9: allow_amazing_boss_quote_thing_nut_basket_monitor_cost
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

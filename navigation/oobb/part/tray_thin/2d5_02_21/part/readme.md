@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | swear |  
+| bip_39_word_dash_10 | swear-bitter-wild-message-level-patch-around-prison-bullet-scout |  
+| bip_39_word_dash_11 | swear-bitter-wild-message-level-patch-around-prison-bullet-scout-inch |  
+| bip_39_word_dash_12 | swear-bitter-wild-message-level-patch-around-prison-bullet-scout-inch-acquire |  
+| bip_39_word_dash_2 | swear-bitter |  
+| bip_39_word_dash_3 | swear-bitter-wild |  
+| bip_39_word_dash_4 | swear-bitter-wild-message |  
+| bip_39_word_dash_5 | swear-bitter-wild-message-level |  
+| bip_39_word_dash_6 | swear-bitter-wild-message-level-patch |  
+| bip_39_word_dash_7 | swear-bitter-wild-message-level-patch-around |  
+| bip_39_word_dash_8 | swear-bitter-wild-message-level-patch-around-prison |  
+| bip_39_word_dash_9 | swear-bitter-wild-message-level-patch-around-prison-bullet |  
 | bip_39_word_new_br_1 | swear |  
 | bip_39_word_new_br_10 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison<br>bullet<br>scout |  
 | bip_39_word_new_br_11 | swear<br>bitter<br>wild<br>message<br>level<br>patch<br>around<br>prison<br>bullet<br>scout<br>inch |  
@@ -147,6 +159,18 @@ bullet |
 | bip_39_word_space_7 | swear bitter wild message level patch around |  
 | bip_39_word_space_8 | swear bitter wild message level patch around prison |  
 | bip_39_word_space_9 | swear bitter wild message level patch around prison bullet |  
+| bip_39_word_underscore_1 | swear |  
+| bip_39_word_underscore_10 | swear_bitter_wild_message_level_patch_around_prison_bullet_scout |  
+| bip_39_word_underscore_11 | swear_bitter_wild_message_level_patch_around_prison_bullet_scout_inch |  
+| bip_39_word_underscore_12 | swear_bitter_wild_message_level_patch_around_prison_bullet_scout_inch_acquire |  
+| bip_39_word_underscore_2 | swear_bitter |  
+| bip_39_word_underscore_3 | swear_bitter_wild |  
+| bip_39_word_underscore_4 | swear_bitter_wild_message |  
+| bip_39_word_underscore_5 | swear_bitter_wild_message_level |  
+| bip_39_word_underscore_6 | swear_bitter_wild_message_level_patch |  
+| bip_39_word_underscore_7 | swear_bitter_wild_message_level_patch_around |  
+| bip_39_word_underscore_8 | swear_bitter_wild_message_level_patch_around_prison |  
+| bip_39_word_underscore_9 | swear_bitter_wild_message_level_patch_around_prison_bullet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | balance |  
+| bip_39_word_dash_10 | balance-observe-consider-onion-stamp-figure-meat-soul-bunker-topple |  
+| bip_39_word_dash_11 | balance-observe-consider-onion-stamp-figure-meat-soul-bunker-topple-armor |  
+| bip_39_word_dash_12 | balance-observe-consider-onion-stamp-figure-meat-soul-bunker-topple-armor-amazing |  
+| bip_39_word_dash_2 | balance-observe |  
+| bip_39_word_dash_3 | balance-observe-consider |  
+| bip_39_word_dash_4 | balance-observe-consider-onion |  
+| bip_39_word_dash_5 | balance-observe-consider-onion-stamp |  
+| bip_39_word_dash_6 | balance-observe-consider-onion-stamp-figure |  
+| bip_39_word_dash_7 | balance-observe-consider-onion-stamp-figure-meat |  
+| bip_39_word_dash_8 | balance-observe-consider-onion-stamp-figure-meat-soul |  
+| bip_39_word_dash_9 | balance-observe-consider-onion-stamp-figure-meat-soul-bunker |  
 | bip_39_word_new_br_1 | balance |  
 | bip_39_word_new_br_10 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul<br>bunker<br>topple |  
 | bip_39_word_new_br_11 | balance<br>observe<br>consider<br>onion<br>stamp<br>figure<br>meat<br>soul<br>bunker<br>topple<br>armor |  
@@ -147,6 +159,18 @@ bunker |
 | bip_39_word_space_7 | balance observe consider onion stamp figure meat |  
 | bip_39_word_space_8 | balance observe consider onion stamp figure meat soul |  
 | bip_39_word_space_9 | balance observe consider onion stamp figure meat soul bunker |  
+| bip_39_word_underscore_1 | balance |  
+| bip_39_word_underscore_10 | balance_observe_consider_onion_stamp_figure_meat_soul_bunker_topple |  
+| bip_39_word_underscore_11 | balance_observe_consider_onion_stamp_figure_meat_soul_bunker_topple_armor |  
+| bip_39_word_underscore_12 | balance_observe_consider_onion_stamp_figure_meat_soul_bunker_topple_armor_amazing |  
+| bip_39_word_underscore_2 | balance_observe |  
+| bip_39_word_underscore_3 | balance_observe_consider |  
+| bip_39_word_underscore_4 | balance_observe_consider_onion |  
+| bip_39_word_underscore_5 | balance_observe_consider_onion_stamp |  
+| bip_39_word_underscore_6 | balance_observe_consider_onion_stamp_figure |  
+| bip_39_word_underscore_7 | balance_observe_consider_onion_stamp_figure_meat |  
+| bip_39_word_underscore_8 | balance_observe_consider_onion_stamp_figure_meat_soul |  
+| bip_39_word_underscore_9 | balance_observe_consider_onion_stamp_figure_meat_soul_bunker |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

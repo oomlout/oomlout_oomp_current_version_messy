@@ -1,3 +1,15 @@
+bip_39_word_dash_1: divide
+bip_39_word_dash_10: divide-muscle-scout-wing-pupil-swap-wheel-flush-upper-mansion
+bip_39_word_dash_11: divide-muscle-scout-wing-pupil-swap-wheel-flush-upper-mansion-spike
+bip_39_word_dash_12: divide-muscle-scout-wing-pupil-swap-wheel-flush-upper-mansion-spike-apart
+bip_39_word_dash_2: divide-muscle
+bip_39_word_dash_3: divide-muscle-scout
+bip_39_word_dash_4: divide-muscle-scout-wing
+bip_39_word_dash_5: divide-muscle-scout-wing-pupil
+bip_39_word_dash_6: divide-muscle-scout-wing-pupil-swap
+bip_39_word_dash_7: divide-muscle-scout-wing-pupil-swap-wheel
+bip_39_word_dash_8: divide-muscle-scout-wing-pupil-swap-wheel-flush
+bip_39_word_dash_9: divide-muscle-scout-wing-pupil-swap-wheel-flush-upper
 bip_39_word_new_br_1: divide
 bip_39_word_new_br_10: divide<br>muscle<br>scout<br>wing<br>pupil<br>swap<br>wheel<br>flush<br>upper<br>mansion
 bip_39_word_new_br_11: divide<br>muscle<br>scout<br>wing<br>pupil<br>swap<br>wheel<br>flush<br>upper<br>mansion<br>spike
@@ -193,6 +205,18 @@ bip_39_word_space_6: divide muscle scout wing pupil swap
 bip_39_word_space_7: divide muscle scout wing pupil swap wheel
 bip_39_word_space_8: divide muscle scout wing pupil swap wheel flush
 bip_39_word_space_9: divide muscle scout wing pupil swap wheel flush upper
+bip_39_word_underscore_1: divide
+bip_39_word_underscore_10: divide_muscle_scout_wing_pupil_swap_wheel_flush_upper_mansion
+bip_39_word_underscore_11: divide_muscle_scout_wing_pupil_swap_wheel_flush_upper_mansion_spike
+bip_39_word_underscore_12: divide_muscle_scout_wing_pupil_swap_wheel_flush_upper_mansion_spike_apart
+bip_39_word_underscore_2: divide_muscle
+bip_39_word_underscore_3: divide_muscle_scout
+bip_39_word_underscore_4: divide_muscle_scout_wing
+bip_39_word_underscore_5: divide_muscle_scout_wing_pupil
+bip_39_word_underscore_6: divide_muscle_scout_wing_pupil_swap
+bip_39_word_underscore_7: divide_muscle_scout_wing_pupil_swap_wheel
+bip_39_word_underscore_8: divide_muscle_scout_wing_pupil_swap_wheel_flush
+bip_39_word_underscore_9: divide_muscle_scout_wing_pupil_swap_wheel_flush_upper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

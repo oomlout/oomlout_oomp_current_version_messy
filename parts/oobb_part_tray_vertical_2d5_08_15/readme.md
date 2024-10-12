@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aware |  
+| bip_39_word_dash_10 | aware-proof-surface-consider-manual-lesson-stick-swear-polar-peace |  
+| bip_39_word_dash_11 | aware-proof-surface-consider-manual-lesson-stick-swear-polar-peace-weird |  
+| bip_39_word_dash_12 | aware-proof-surface-consider-manual-lesson-stick-swear-polar-peace-weird-airport |  
+| bip_39_word_dash_2 | aware-proof |  
+| bip_39_word_dash_3 | aware-proof-surface |  
+| bip_39_word_dash_4 | aware-proof-surface-consider |  
+| bip_39_word_dash_5 | aware-proof-surface-consider-manual |  
+| bip_39_word_dash_6 | aware-proof-surface-consider-manual-lesson |  
+| bip_39_word_dash_7 | aware-proof-surface-consider-manual-lesson-stick |  
+| bip_39_word_dash_8 | aware-proof-surface-consider-manual-lesson-stick-swear |  
+| bip_39_word_dash_9 | aware-proof-surface-consider-manual-lesson-stick-swear-polar |  
 | bip_39_word_new_br_1 | aware |  
 | bip_39_word_new_br_10 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace |  
 | bip_39_word_new_br_11 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace<br>weird |  
@@ -147,6 +159,18 @@ polar |
 | bip_39_word_space_7 | aware proof surface consider manual lesson stick |  
 | bip_39_word_space_8 | aware proof surface consider manual lesson stick swear |  
 | bip_39_word_space_9 | aware proof surface consider manual lesson stick swear polar |  
+| bip_39_word_underscore_1 | aware |  
+| bip_39_word_underscore_10 | aware_proof_surface_consider_manual_lesson_stick_swear_polar_peace |  
+| bip_39_word_underscore_11 | aware_proof_surface_consider_manual_lesson_stick_swear_polar_peace_weird |  
+| bip_39_word_underscore_12 | aware_proof_surface_consider_manual_lesson_stick_swear_polar_peace_weird_airport |  
+| bip_39_word_underscore_2 | aware_proof |  
+| bip_39_word_underscore_3 | aware_proof_surface |  
+| bip_39_word_underscore_4 | aware_proof_surface_consider |  
+| bip_39_word_underscore_5 | aware_proof_surface_consider_manual |  
+| bip_39_word_underscore_6 | aware_proof_surface_consider_manual_lesson |  
+| bip_39_word_underscore_7 | aware_proof_surface_consider_manual_lesson_stick |  
+| bip_39_word_underscore_8 | aware_proof_surface_consider_manual_lesson_stick_swear |  
+| bip_39_word_underscore_9 | aware_proof_surface_consider_manual_lesson_stick_swear_polar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

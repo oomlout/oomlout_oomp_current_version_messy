@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | junk |  
+| bip_39_word_dash_10 | junk-hobby-crack-charge-master-island-hint-claw-term-very |  
+| bip_39_word_dash_11 | junk-hobby-crack-charge-master-island-hint-claw-term-very-swim |  
+| bip_39_word_dash_12 | junk-hobby-crack-charge-master-island-hint-claw-term-very-swim-analyst |  
+| bip_39_word_dash_2 | junk-hobby |  
+| bip_39_word_dash_3 | junk-hobby-crack |  
+| bip_39_word_dash_4 | junk-hobby-crack-charge |  
+| bip_39_word_dash_5 | junk-hobby-crack-charge-master |  
+| bip_39_word_dash_6 | junk-hobby-crack-charge-master-island |  
+| bip_39_word_dash_7 | junk-hobby-crack-charge-master-island-hint |  
+| bip_39_word_dash_8 | junk-hobby-crack-charge-master-island-hint-claw |  
+| bip_39_word_dash_9 | junk-hobby-crack-charge-master-island-hint-claw-term |  
 | bip_39_word_new_br_1 | junk |  
 | bip_39_word_new_br_10 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very |  
 | bip_39_word_new_br_11 | junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very<br>swim |  
@@ -147,6 +159,18 @@ term |
 | bip_39_word_space_7 | junk hobby crack charge master island hint |  
 | bip_39_word_space_8 | junk hobby crack charge master island hint claw |  
 | bip_39_word_space_9 | junk hobby crack charge master island hint claw term |  
+| bip_39_word_underscore_1 | junk |  
+| bip_39_word_underscore_10 | junk_hobby_crack_charge_master_island_hint_claw_term_very |  
+| bip_39_word_underscore_11 | junk_hobby_crack_charge_master_island_hint_claw_term_very_swim |  
+| bip_39_word_underscore_12 | junk_hobby_crack_charge_master_island_hint_claw_term_very_swim_analyst |  
+| bip_39_word_underscore_2 | junk_hobby |  
+| bip_39_word_underscore_3 | junk_hobby_crack |  
+| bip_39_word_underscore_4 | junk_hobby_crack_charge |  
+| bip_39_word_underscore_5 | junk_hobby_crack_charge_master |  
+| bip_39_word_underscore_6 | junk_hobby_crack_charge_master_island |  
+| bip_39_word_underscore_7 | junk_hobby_crack_charge_master_island_hint |  
+| bip_39_word_underscore_8 | junk_hobby_crack_charge_master_island_hint_claw |  
+| bip_39_word_underscore_9 | junk_hobby_crack_charge_master_island_hint_claw_term |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

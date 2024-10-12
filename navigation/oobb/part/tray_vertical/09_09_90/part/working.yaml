@@ -1,3 +1,15 @@
+bip_39_word_dash_1: pilot
+bip_39_word_dash_10: pilot-sing-bulb-book-bike-never-garage-odor-lemon-twenty
+bip_39_word_dash_11: pilot-sing-bulb-book-bike-never-garage-odor-lemon-twenty-deny
+bip_39_word_dash_12: pilot-sing-bulb-book-bike-never-garage-odor-lemon-twenty-deny-amazing
+bip_39_word_dash_2: pilot-sing
+bip_39_word_dash_3: pilot-sing-bulb
+bip_39_word_dash_4: pilot-sing-bulb-book
+bip_39_word_dash_5: pilot-sing-bulb-book-bike
+bip_39_word_dash_6: pilot-sing-bulb-book-bike-never
+bip_39_word_dash_7: pilot-sing-bulb-book-bike-never-garage
+bip_39_word_dash_8: pilot-sing-bulb-book-bike-never-garage-odor
+bip_39_word_dash_9: pilot-sing-bulb-book-bike-never-garage-odor-lemon
 bip_39_word_new_br_1: pilot
 bip_39_word_new_br_10: pilot<br>sing<br>bulb<br>book<br>bike<br>never<br>garage<br>odor<br>lemon<br>twenty
 bip_39_word_new_br_11: pilot<br>sing<br>bulb<br>book<br>bike<br>never<br>garage<br>odor<br>lemon<br>twenty<br>deny
@@ -192,6 +204,18 @@ bip_39_word_space_6: pilot sing bulb book bike never
 bip_39_word_space_7: pilot sing bulb book bike never garage
 bip_39_word_space_8: pilot sing bulb book bike never garage odor
 bip_39_word_space_9: pilot sing bulb book bike never garage odor lemon
+bip_39_word_underscore_1: pilot
+bip_39_word_underscore_10: pilot_sing_bulb_book_bike_never_garage_odor_lemon_twenty
+bip_39_word_underscore_11: pilot_sing_bulb_book_bike_never_garage_odor_lemon_twenty_deny
+bip_39_word_underscore_12: pilot_sing_bulb_book_bike_never_garage_odor_lemon_twenty_deny_amazing
+bip_39_word_underscore_2: pilot_sing
+bip_39_word_underscore_3: pilot_sing_bulb
+bip_39_word_underscore_4: pilot_sing_bulb_book
+bip_39_word_underscore_5: pilot_sing_bulb_book_bike
+bip_39_word_underscore_6: pilot_sing_bulb_book_bike_never
+bip_39_word_underscore_7: pilot_sing_bulb_book_bike_never_garage
+bip_39_word_underscore_8: pilot_sing_bulb_book_bike_never_garage_odor
+bip_39_word_underscore_9: pilot_sing_bulb_book_bike_never_garage_odor_lemon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

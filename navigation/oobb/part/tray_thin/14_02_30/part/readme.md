@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | earth |  
+| bip_39_word_dash_10 | earth-ability-end-length-sustain-grab-nominee-below-ribbon-satoshi |  
+| bip_39_word_dash_11 | earth-ability-end-length-sustain-grab-nominee-below-ribbon-satoshi-hybrid |  
+| bip_39_word_dash_12 | earth-ability-end-length-sustain-grab-nominee-below-ribbon-satoshi-hybrid-analyst |  
+| bip_39_word_dash_2 | earth-ability |  
+| bip_39_word_dash_3 | earth-ability-end |  
+| bip_39_word_dash_4 | earth-ability-end-length |  
+| bip_39_word_dash_5 | earth-ability-end-length-sustain |  
+| bip_39_word_dash_6 | earth-ability-end-length-sustain-grab |  
+| bip_39_word_dash_7 | earth-ability-end-length-sustain-grab-nominee |  
+| bip_39_word_dash_8 | earth-ability-end-length-sustain-grab-nominee-below |  
+| bip_39_word_dash_9 | earth-ability-end-length-sustain-grab-nominee-below-ribbon |  
 | bip_39_word_new_br_1 | earth |  
 | bip_39_word_new_br_10 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi |  
 | bip_39_word_new_br_11 | earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi<br>hybrid |  
@@ -147,6 +159,18 @@ ribbon |
 | bip_39_word_space_7 | earth ability end length sustain grab nominee |  
 | bip_39_word_space_8 | earth ability end length sustain grab nominee below |  
 | bip_39_word_space_9 | earth ability end length sustain grab nominee below ribbon |  
+| bip_39_word_underscore_1 | earth |  
+| bip_39_word_underscore_10 | earth_ability_end_length_sustain_grab_nominee_below_ribbon_satoshi |  
+| bip_39_word_underscore_11 | earth_ability_end_length_sustain_grab_nominee_below_ribbon_satoshi_hybrid |  
+| bip_39_word_underscore_12 | earth_ability_end_length_sustain_grab_nominee_below_ribbon_satoshi_hybrid_analyst |  
+| bip_39_word_underscore_2 | earth_ability |  
+| bip_39_word_underscore_3 | earth_ability_end |  
+| bip_39_word_underscore_4 | earth_ability_end_length |  
+| bip_39_word_underscore_5 | earth_ability_end_length_sustain |  
+| bip_39_word_underscore_6 | earth_ability_end_length_sustain_grab |  
+| bip_39_word_underscore_7 | earth_ability_end_length_sustain_grab_nominee |  
+| bip_39_word_underscore_8 | earth_ability_end_length_sustain_grab_nominee_below |  
+| bip_39_word_underscore_9 | earth_ability_end_length_sustain_grab_nominee_below_ribbon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

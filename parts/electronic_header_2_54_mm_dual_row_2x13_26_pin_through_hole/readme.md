@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wrist |  
+| bip_39_word_dash_10 | wrist-then-core-dash-catch-medal-magnet-rare-earn-judge |  
+| bip_39_word_dash_11 | wrist-then-core-dash-catch-medal-magnet-rare-earn-judge-horse |  
+| bip_39_word_dash_12 | wrist-then-core-dash-catch-medal-magnet-rare-earn-judge-horse-antique |  
+| bip_39_word_dash_2 | wrist-then |  
+| bip_39_word_dash_3 | wrist-then-core |  
+| bip_39_word_dash_4 | wrist-then-core-dash |  
+| bip_39_word_dash_5 | wrist-then-core-dash-catch |  
+| bip_39_word_dash_6 | wrist-then-core-dash-catch-medal |  
+| bip_39_word_dash_7 | wrist-then-core-dash-catch-medal-magnet |  
+| bip_39_word_dash_8 | wrist-then-core-dash-catch-medal-magnet-rare |  
+| bip_39_word_dash_9 | wrist-then-core-dash-catch-medal-magnet-rare-earn |  
 | bip_39_word_new_br_1 | wrist |  
 | bip_39_word_new_br_10 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare<br>earn<br>judge |  
 | bip_39_word_new_br_11 | wrist<br>then<br>core<br>dash<br>catch<br>medal<br>magnet<br>rare<br>earn<br>judge<br>horse |  
@@ -147,6 +159,18 @@ earn |
 | bip_39_word_space_7 | wrist then core dash catch medal magnet |  
 | bip_39_word_space_8 | wrist then core dash catch medal magnet rare |  
 | bip_39_word_space_9 | wrist then core dash catch medal magnet rare earn |  
+| bip_39_word_underscore_1 | wrist |  
+| bip_39_word_underscore_10 | wrist_then_core_dash_catch_medal_magnet_rare_earn_judge |  
+| bip_39_word_underscore_11 | wrist_then_core_dash_catch_medal_magnet_rare_earn_judge_horse |  
+| bip_39_word_underscore_12 | wrist_then_core_dash_catch_medal_magnet_rare_earn_judge_horse_antique |  
+| bip_39_word_underscore_2 | wrist_then |  
+| bip_39_word_underscore_3 | wrist_then_core |  
+| bip_39_word_underscore_4 | wrist_then_core_dash |  
+| bip_39_word_underscore_5 | wrist_then_core_dash_catch |  
+| bip_39_word_underscore_6 | wrist_then_core_dash_catch_medal |  
+| bip_39_word_underscore_7 | wrist_then_core_dash_catch_medal_magnet |  
+| bip_39_word_underscore_8 | wrist_then_core_dash_catch_medal_magnet_rare |  
+| bip_39_word_underscore_9 | wrist_then_core_dash_catch_medal_magnet_rare_earn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

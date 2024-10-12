@@ -1,3 +1,15 @@
+bip_39_word_dash_1: write
+bip_39_word_dash_10: write-gossip-nominee-secret-skirt-laundry-food-glue-print-lawsuit
+bip_39_word_dash_11: write-gossip-nominee-secret-skirt-laundry-food-glue-print-lawsuit-surprise
+bip_39_word_dash_12: write-gossip-nominee-secret-skirt-laundry-food-glue-print-lawsuit-surprise-age
+bip_39_word_dash_2: write-gossip
+bip_39_word_dash_3: write-gossip-nominee
+bip_39_word_dash_4: write-gossip-nominee-secret
+bip_39_word_dash_5: write-gossip-nominee-secret-skirt
+bip_39_word_dash_6: write-gossip-nominee-secret-skirt-laundry
+bip_39_word_dash_7: write-gossip-nominee-secret-skirt-laundry-food
+bip_39_word_dash_8: write-gossip-nominee-secret-skirt-laundry-food-glue
+bip_39_word_dash_9: write-gossip-nominee-secret-skirt-laundry-food-glue-print
 bip_39_word_new_br_1: write
 bip_39_word_new_br_10: write<br>gossip<br>nominee<br>secret<br>skirt<br>laundry<br>food<br>glue<br>print<br>lawsuit
 bip_39_word_new_br_11: write<br>gossip<br>nominee<br>secret<br>skirt<br>laundry<br>food<br>glue<br>print<br>lawsuit<br>surprise
@@ -193,6 +205,18 @@ bip_39_word_space_6: write gossip nominee secret skirt laundry
 bip_39_word_space_7: write gossip nominee secret skirt laundry food
 bip_39_word_space_8: write gossip nominee secret skirt laundry food glue
 bip_39_word_space_9: write gossip nominee secret skirt laundry food glue print
+bip_39_word_underscore_1: write
+bip_39_word_underscore_10: write_gossip_nominee_secret_skirt_laundry_food_glue_print_lawsuit
+bip_39_word_underscore_11: write_gossip_nominee_secret_skirt_laundry_food_glue_print_lawsuit_surprise
+bip_39_word_underscore_12: write_gossip_nominee_secret_skirt_laundry_food_glue_print_lawsuit_surprise_age
+bip_39_word_underscore_2: write_gossip
+bip_39_word_underscore_3: write_gossip_nominee
+bip_39_word_underscore_4: write_gossip_nominee_secret
+bip_39_word_underscore_5: write_gossip_nominee_secret_skirt
+bip_39_word_underscore_6: write_gossip_nominee_secret_skirt_laundry
+bip_39_word_underscore_7: write_gossip_nominee_secret_skirt_laundry_food
+bip_39_word_underscore_8: write_gossip_nominee_secret_skirt_laundry_food_glue
+bip_39_word_underscore_9: write_gossip_nominee_secret_skirt_laundry_food_glue_print
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

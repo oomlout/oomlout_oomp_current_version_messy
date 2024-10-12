@@ -1,3 +1,15 @@
+bip_39_word_dash_1: make
+bip_39_word_dash_10: make-glory-wagon-era-desert-blossom-child-copy-loan-fabric
+bip_39_word_dash_11: make-glory-wagon-era-desert-blossom-child-copy-loan-fabric-member
+bip_39_word_dash_12: make-glory-wagon-era-desert-blossom-child-copy-loan-fabric-member-absorb
+bip_39_word_dash_2: make-glory
+bip_39_word_dash_3: make-glory-wagon
+bip_39_word_dash_4: make-glory-wagon-era
+bip_39_word_dash_5: make-glory-wagon-era-desert
+bip_39_word_dash_6: make-glory-wagon-era-desert-blossom
+bip_39_word_dash_7: make-glory-wagon-era-desert-blossom-child
+bip_39_word_dash_8: make-glory-wagon-era-desert-blossom-child-copy
+bip_39_word_dash_9: make-glory-wagon-era-desert-blossom-child-copy-loan
 bip_39_word_new_br_1: make
 bip_39_word_new_br_10: make<br>glory<br>wagon<br>era<br>desert<br>blossom<br>child<br>copy<br>loan<br>fabric
 bip_39_word_new_br_11: make<br>glory<br>wagon<br>era<br>desert<br>blossom<br>child<br>copy<br>loan<br>fabric<br>member
@@ -192,6 +204,18 @@ bip_39_word_space_6: make glory wagon era desert blossom
 bip_39_word_space_7: make glory wagon era desert blossom child
 bip_39_word_space_8: make glory wagon era desert blossom child copy
 bip_39_word_space_9: make glory wagon era desert blossom child copy loan
+bip_39_word_underscore_1: make
+bip_39_word_underscore_10: make_glory_wagon_era_desert_blossom_child_copy_loan_fabric
+bip_39_word_underscore_11: make_glory_wagon_era_desert_blossom_child_copy_loan_fabric_member
+bip_39_word_underscore_12: make_glory_wagon_era_desert_blossom_child_copy_loan_fabric_member_absorb
+bip_39_word_underscore_2: make_glory
+bip_39_word_underscore_3: make_glory_wagon
+bip_39_word_underscore_4: make_glory_wagon_era
+bip_39_word_underscore_5: make_glory_wagon_era_desert
+bip_39_word_underscore_6: make_glory_wagon_era_desert_blossom
+bip_39_word_underscore_7: make_glory_wagon_era_desert_blossom_child
+bip_39_word_underscore_8: make_glory_wagon_era_desert_blossom_child_copy
+bip_39_word_underscore_9: make_glory_wagon_era_desert_blossom_child_copy_loan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
